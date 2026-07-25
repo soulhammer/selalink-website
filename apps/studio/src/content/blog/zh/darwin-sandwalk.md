@@ -1,11 +1,11 @@
 ---
 title: "用徒步臻于完善的进化论：查尔斯·达尔文的“沙道”散步习惯与认知孵化"
 description: "探索伟大生物学家查尔斯·达尔文漫步于碎石沙道、用踢走小石子记录圈数以理清复杂演化论纲的散步习惯，揭示激活预设模式网络（DMN）与促发认知孵化（Cognitive Incubation）的神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-14"
+updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: ["用徒步臻于完善的进化","Routine"]
-heroImage: "/images/blog/darwin_sandwalk.png"
+tags: ["위인 습관", "찰스 다윈", "걷기", "사색", "아이디어"]
+heroImage: "/images/blog/darwin_sandwalk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "查尔斯·达尔文自传《达尔文自传（The Autobiography of Charles Darwin）》考证与认知神经科学（Cognitive Neuroscience）研究"

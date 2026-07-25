@@ -1,11 +1,11 @@
 ---
 title: "Menschliche Fehler auf Null reduzieren: Charles Lindberghs Checklisten-Routine und Schutz des Arbeitsgedächtnisses"
 description: "Erfahren Sie, wie Flugpionier Charles Lindbergh den ersten Alleinflug über den Atlantik meisterte, indem er sich auf geschriebene Checklisten verließ. Entdecken Sie den Schutz des präfrontalen Arbeitsgedächtnisses, die Vermeidung von Auslassungsfehlern und eine 3-Schritte-Anleitung."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-25"
+updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["Menschlich","Routine"]
-heroImage: "/images/blog/lindbergh_meticulous_checklist.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/lindbergh_meticulous_checklist.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Charles Lindberghs Autobiografie *The Spirit of St. Louis* (1953), Luftfahrt-Archiven & Forschung der kognitiven Neurowissenschaften und Ergonomie"

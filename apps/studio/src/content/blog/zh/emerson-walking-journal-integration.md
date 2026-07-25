@@ -1,11 +1,11 @@
 ---
 title: "发散与聚拢的双重奏：拉尔夫·沃尔多·爱默生的散步笔记与夜间日志习惯"
 description: "深入剖析美国杰出思想家拉尔夫·沃尔多·爱默生将白天的散步随手记（发散性思维）与夜晚的日志整理（聚拢性思维）高度结合，将闪现灵感打造成有机哲学体系的认知两步骤习惯。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-02"
+updatedDate: "2026-06-02"
 category: "BuildSelf"
-tags: ["发散与聚拢的双重奏：","Routine"]
-heroImage: "/images/blog/emerson_walking_journal_integration.png"
+tags: ["사색", "휴식", "기록"]
+heroImage: "/images/blog/emerson_walking_journal_integration.webp"
 app: "buildself"
 formatVersion: 4
 authority: "拉尔夫·沃尔多·爱默生日志集《爱默生日志（The Journals of Ralph Waldo Emerson）》考证及认知神经科学（Cognitive Neuroscience）研究"

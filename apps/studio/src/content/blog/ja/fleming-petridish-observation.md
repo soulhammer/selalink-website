@@ -1,11 +1,11 @@
 ---
 title: "ゴミ箱の中から救い出された人類の救원：アレクサンダー・フレミングの失敗観察法と例外発見ルーティン"
 description: "ペニシリンの偉大な発見者アレクサンダー・フレミング。誤って汚染された培養皿を無造作に捨てず丁寧に観察した習慣が、どのように人類の運命を変えたのか、認知的固着の克服と拡散的思考の脳科学的原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-08"
+updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: ["ゴミ箱の中から救い出","Routine"]
-heroImage: "/images/blog/fleming_petridish_observation.png"
+tags: ["위인 습관", "알렉산더 플레밍", "실패 성찰", "확산적 사고", "세렌디피티"]
+heroImage: "/images/blog/fleming_petridish_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "アレクサンダー・フレミング評伝およびアンドレ・モーロワ『フレミング評伝（The Life of Sir Alexander Fleming）』考証＆認知神経科学（Cognitive Neuroscience）研究"

@@ -1,11 +1,11 @@
 ---
 title: "매일 4시간씩 숲속을 걷다: 헨리 데이비 소로의 자연 회복 산책 루틴"
 description: "월든 호숫가를 매일 4시간씩 걸으며 관찰하고 기록했던 헨리 데이비 소로의 루틴을 소개합니다. 자연 속 걷기가 뇌의 주의력을 회복하고 창의성을 깨우는 뇌과학적 원리를 설명합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-30"
+updatedDate: "2026-04-30"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/thoreau_forest_walk.png"
+tags: ["위인 습관", "사색"]
+heroImage: "/images/blog/thoreau_forest_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Thoreau Forest Walk 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

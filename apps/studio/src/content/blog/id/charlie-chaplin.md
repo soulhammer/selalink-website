@@ -1,11 +1,11 @@
 ---
 title: "Pandangan Cermin yang Meniru Langkah Orang Lain: Rutinitas Peniruan Fisik dan Analisis Manusia ala Charlie Chaplin"
 description: "Pelajari bagaimana ikon film bisu Charlie Chaplin mengamati dan meniru langkah kaki serta gerakan fisik orang asing di jalanan, serta temukan prinsip neurosains dari mengaktifkan neuron cermin premotorik untuk memperluas skema tubuh dan memaksimalkan empati antarpribadi."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-01"
+updatedDate: "2026-03-01"
 category: "BuildSelf"
-tags: ["Pandangan ","Routine"]
-heroImage: "/images/blog/charlie_chaplin.png"
+tags: ["위인 습관", "찰리 채플린", "창의성", "사색"]
+heroImage: "/images/blog/charlie_chaplin.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Autobiografi Charlie Chaplin *My Autobiography* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

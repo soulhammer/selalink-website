@@ -1,11 +1,11 @@
 ---
 title: "Fisika yang Ditenun Melalui Dialog: Metode Mendikte-Diskusi dan Penulisan Metakognitif ala Niels Bohr"
 description: "Pelajari bagaimana pelopor mekanika kuantum Niels Bohr menulis makalah fisika rumit melalui diskusi lisan dan dikte tanpa henti bersama rekan-rekannya, dan temukan prinsip neurosains di mana mengeksternalkan pikiran batin ke dalam bahasa lisan mengaktifkan metakognisi."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-19"
+updatedDate: "2026-01-19"
 category: "BuildSelf"
-tags: ["Fisika yan","Routine"]
-heroImage: "/images/blog/bohr_dialogue_dictation.png"
+tags: ["학습", "창의성", "사색"]
+heroImage: "/images/blog/bohr_dialogue_dictation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Biografi Abraham Pais *Niels Bohr's Times: In Physics, Philosophy, and Polity* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

@@ -1,11 +1,11 @@
 ---
 title: "每天下午快步散步3小时的小说家：查尔斯·狄更斯的灵感习惯与DMN激活法"
 description: "探索英国文学巨匠查尔斯·狄更斯通过每天3小时的快步散步构思立体人物与复杂情节的习惯，揭示预设模式网络（DMN）激活与BDNF分泌的认知神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-23"
+updatedDate: "2026-05-23"
 category: "BuildSelf"
-tags: ["每天下午快步散步3小","Routine"]
-heroImage: "/images/blog/dickens_afternoon_walk.png"
+tags: ["위인 습관", "찰스 디킨스", "산책", "창의성", "아이디어"]
+heroImage: "/images/blog/dickens_afternoon_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "约翰·福斯特传记《狄更斯传（The Life of Charles Dickens）》考证与认知神经科学（Cognitive Neuroscience）研究"

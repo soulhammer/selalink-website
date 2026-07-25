@@ -1,11 +1,11 @@
 ---
 title: "Offline Deep Work: Donald Knuth's Email Disconnection Routine and Context-Switching Prevention"
 description: "Discover how legendary computer scientist Donald Knuth abandoned email on January 1, 1990, to protect his offline deep work. Explore the neuroscience of eliminating context switching, preventing attention residue, and applying batch processing."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["Great Habits","knuth","Routine","Stamina"]
-heroImage: "/images/blog/knuth_no_email.png"
+tags: ["위인 습관", "도널드 너스", "집중", "생산성", "시간 관리"]
+heroImage: "/images/blog/knuth_no_email.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Donald Knuth's Official Statement *Email and I*, Stanford Archives & Cognitive Neuroscience and Cognitive Psychology Research"

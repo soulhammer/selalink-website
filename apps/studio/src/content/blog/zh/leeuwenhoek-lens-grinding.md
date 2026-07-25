@@ -4,7 +4,7 @@ description: "深度剖析微生物学之父列文虎克如何亲手打磨放大
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["安东尼·范·列文虎克","Routine"]
+tags: ["위습관","루틴"]
 heroImage: "/images/blog/leeuwenhoek_lens_grinding.png"
 app: "buildself"
 formatVersion: 4

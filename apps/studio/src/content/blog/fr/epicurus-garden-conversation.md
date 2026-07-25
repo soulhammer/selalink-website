@@ -1,11 +1,11 @@
 ---
 title: "Solidarité intellectuelle dans un jardin modeste : La conversation et la routine de repas frugal d'Épicure pour la sérénité"
 description: "Découvrez comment Épicure a fondé « Le Jardin » près d'Athènes pour partager des repas frugaux et de profondes réflexions entre amis. Explorez la neuroscience de la sécurité psychologique, de l'oxytocine et de la sérotonine."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-20"
+updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: ["Solidarité","Routine"]
-heroImage: "/images/blog/epicurus_garden_conversation.png"
+tags: ["휴식", "안정", "사색"]
+heroImage: "/images/blog/epicurus_garden_conversation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de *Vies, doctrines et sentences des philosophes illustres* de Diogène Laërce, des Lettres d'Épicure & de la Recherche en Neurosciences Cognitives"

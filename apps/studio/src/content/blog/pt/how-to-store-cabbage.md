@@ -23,16 +23,16 @@ faqs:
     answer: "Partes danificadas aceleram a deterioração. Corte-as de imediato e consuma primeiro para evitar que estraguem o resto do lote."
 ---
 
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+Você já comprou repolho e viu que las folhas externas murcharam e escureceram em poucos dias? Hoje, o FreshSnap compartilha dicas de conservação para mantê-lo fresco.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+      Autoridade Científica Verificada
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+      Este guia de conservação segue as diretrizes oficiais de: <strong>RDA & EFSA & FSA</strong>.
     </p>
   </div>
 </div>
@@ -41,7 +41,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
 
 ## 1. Por que armazenar assim? Fatos científicos
 
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+Comprender as características únicas de cada ingrediente e seguir o método de armazenamento adequado é extremamente importante para manter o frescor e a higiene.
 
 ---
 
@@ -53,7 +53,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Cortar o miolo em formato de triângulo 🔪</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+    Remova o miolo do repolho, pois é o canal por onde se perde água e se inicia o apodrecimento.
   </p>
 </div>
 
@@ -63,7 +63,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Preencher a cavidade com papel úmido 📰</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+    Preencha a cavidade com papel-toalha úmido para fornecer hidratação constante.
   </p>
 </div>
 
@@ -73,7 +73,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Embrulhar com filme plástico ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+    Embrulhe o repolho com filme plástico e guarde com a base úmida para baixo.
   </p>
 </div>
 
@@ -86,7 +86,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
   <div>
     <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Troque o papel úmido regularmente ⚠️</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+      Se for deixado por muito tempo, o papel úmido pode acumular bactérias e odores desagradáveis, estragando o repolho.
     </p>
   </div>
 </div>
@@ -96,7 +96,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
   <div>
     <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Não guarde em temperatura ambiente 🥦</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+      Guardar o repolho em temperatura ambiente faz com que as folhas fiquem soltas e a umidade escape rapidamente.
     </p>
   </div>
 </div>
@@ -111,7 +111,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+      Não, lavar antes de guardar retém humidade, o que estimula fungos. Limpe a sujeira a seco e lave apenas antes de comer.
     </p>
   </details>
 
@@ -121,7 +121,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+      Partes danificadas aceleram a deterioração. Corte-as de imediato e consuma primeiro para evitar que estraguem o resto do lote.
     </p>
   </details>
 </div>

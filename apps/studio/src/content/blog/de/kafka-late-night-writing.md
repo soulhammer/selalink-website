@@ -1,11 +1,11 @@
 ---
 title: "Meisterwerke in absoluter Stille gebären: Franz Kafkas nächtliche Schreibroutine und frontale Down-Regulation"
 description: "Erfahren Sie, wie der Literat des 20. Jahrhunderts, Franz Kafka, Meisterwerke wie Die Verwandlung schuf, indem er von 23 Uhr bis zum Morgengrauen in absoluter Stille schrieb. Entdecken Sie die Neurowissenschaften frontaler Down-Regulation."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-01"
+updatedDate: "2026-04-01"
 category: "BuildSelf"
-tags: ["Meisterwer","Routine"]
-heroImage: "/images/blog/kafka_late_night_writing.png"
+tags: ["위인 습관", "프란츠 카프카", "밤샘 루틴", "집중력", "창의성"]
+heroImage: "/images/blog/kafka_late_night_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Max Brods *Franz Kafka: Eine Biographie*, Kafkas Tagebüchern & Forschung der kognitiven Neurowissenschaften"

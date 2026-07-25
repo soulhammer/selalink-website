@@ -1,11 +1,11 @@
 ---
 title: "창의성이 깨어나는 여명의 의식? 토니 모리슨의 새벽 5시 글쓰기 준비 루틴"
 description: "노벨 문학상 수상 작가 토니 모리슨. 매일 새벽 5시 여명을 응시하며 생각을 리셋하고 집필에 돌입한 그녀의 새벽 집중 비법과 인지과학적 가치를 소개합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-27"
+updatedDate: "2026-02-27"
 category: "BuildSelf"
-tags: ["Great Habits","morrison","Routine","Stamina"]
-heroImage: "/images/blog/morrison_pre_dawn_coffee.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/morrison_pre_dawn_coffee.webp"
 app: "buildself"
 formatVersion: 4
 authority: "토니 모리슨 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

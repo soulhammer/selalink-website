@@ -1,11 +1,11 @@
 ---
 title: "El Sonido que Engendra Frases Perfectas: La Rutina de Recitación del 'Gueuloir' y Retroalimentación Auditiva de Gustave Flaubert"
 description: "Descubra cómo el novelista Gustave Flaubert, obsesionado con 'le mot juste' (la palabra exacta), lograba la perfección estilística. Explore la neurociencia cognitiva del 'Gueuloir', la teoría de la codificación dual y la retroalimentación auditiva."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-20"
+updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: ["El Sonido ","Routine"]
-heroImage: "/images/blog/flaubert_gueuloir_recitation.png"
+tags: ["글쓰기", "창의성", "기록"]
+heroImage: "/images/blog/flaubert_gueuloir_recitation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la *Correspondance* de Gustave Flaubert, Biografías Literarias e Investigación en Neurociencia Cognitiva"

@@ -1,11 +1,11 @@
 ---
 title: "Intuisi di Ujung Jari dan Inovasi 6 Titik: Rutinitas Penyederhanaan Esensial dan Pengelompokan ala Louis Braille"
 description: "Pelajari bagaimana Louis Braille menyederhanakan tulisan malam militer 12 titik yang rumit menjadi sistem 6 titik yang pas di bawah satu ruas jari, memicu revolusi akses pengetahuan, serta temukan prinsip neurosains dari pengelompokan memori kerja taktil."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-04"
+updatedDate: "2026-05-04"
 category: "BuildSelf"
-tags: ["Intuisi di","Routine"]
-heroImage: "/images/blog/braille_tactile_simplification.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/braille_tactile_simplification.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Biografi C. Michael Mellor *Louis Braille: A Touch of Genius* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

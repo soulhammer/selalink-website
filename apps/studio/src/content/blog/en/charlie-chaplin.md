@@ -1,11 +1,11 @@
 ---
 title: "The Mirroring Gaze Replicating Another's Stride: Charlie Chaplin's Physical Mirroring and Human Analysis Routine"
 description: "Discover how silent film icon Charlie Chaplin observed and mirrored strangers' walks and physical movements on city streets, and explore the neuroscientific principles of activating premotor mirror neurons to expand body schema and maximize interpersonal empathy."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-01"
+updatedDate: "2026-03-01"
 category: "BuildSelf"
-tags: ["Great Habits","charlie","Routine","Stamina"]
-heroImage: "/images/blog/charlie_chaplin.png"
+tags: ["위인 습관", "찰리 채플린", "창의성", "사색"]
+heroImage: "/images/blog/charlie_chaplin.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Charlie Chaplin's Autobiography *My Autobiography* & Cognitive Neuroscience Research"

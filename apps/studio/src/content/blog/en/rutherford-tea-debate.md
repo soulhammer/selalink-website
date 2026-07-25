@@ -1,11 +1,11 @@
 ---
 title: "원자핵 발견자의 창의성 비결? 어네스트 러더퍼드의 오후 4시 티 타임 루틴"
 description: "핵물리학의 아버지 러더퍼드. 매일 오후 4시 동료들과 홍차를 마시며 격식 없는 토론을 나눠 인류 최초의 원자핵을 발견한 소통 루틴."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-23"
+updatedDate: "2026-05-23"
 category: "BuildSelf"
-tags: ["Great Habits","rutherford","Routine","Stamina"]
-heroImage: "/images/blog/rutherford_tea_debate.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/rutherford_tea_debate.webp"
 app: "buildself"
 formatVersion: 4
 authority: "어네스트 러더퍼드 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

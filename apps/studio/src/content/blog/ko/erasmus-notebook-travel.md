@@ -1,11 +1,11 @@
 ---
 title: "에라스무스의 여행용 수첩: 이동 중에 번뜩이는 아이디어를 포착하는 마이크로 플래닝과 몰입 루틴"
 description: "르네상스 대표 석학 에라스무스가 유럽을 횡단하는 마차 안에서 주머니 수첩을 활용해 《우신예찬》의 초고를 집필하고 아이디어를 낚아챈 비결을 살펴봅니다. 알파파 유도와 시각 흐름의 인지신경과학적 원리를 해부합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-11"
+updatedDate: "2026-06-11"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/erasmus_notebook_travel.png"
+tags: ["메모", "이동식학습", "인문주의", "르네상스"]
+heroImage: "/images/blog/erasmus_notebook_travel.webp"
 app: "buildself"
 formatVersion: 4
 authority: "데시데리우스 에라스무스 서간집(Epistolae) 및 요한 하이징하 평전 『에라스무스(Erasmus)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

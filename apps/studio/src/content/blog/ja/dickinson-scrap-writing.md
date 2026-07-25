@@ -1,11 +1,11 @@
 ---
 title: "封筒の裏の偉大なインスピレーション：エミリー・ディキンソンの切れ端メモ習慣とインキュベーションリラックス"
 description: "米国の天才詩人エミリー・ディキンソンがキッチンでパンを焼きながら領収書や包装紙の切れ端に即興で詩を書いたルーティン。デフォルト・モード・ネットワーク（DMN）とインキュベーション（Incubation）効果を極大化する認知神経科学的原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-02"
+updatedDate: "2026-05-02"
 category: "BuildSelf"
-tags: ["封筒の裏の偉大なイン","Routine"]
-heroImage: "/images/blog/dickinson_scrap_writing.png"
+tags: ["위인 습관", "에밀리디킨슨", "영수증시", "즉흥기록", "창의성"]
+heroImage: "/images/blog/dickinson_scrap_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "リチャード・B・シュウォール伝記『The Life of Emily Dickinson』考証＆認知神経科学（Cognitive Neuroscience）研究"

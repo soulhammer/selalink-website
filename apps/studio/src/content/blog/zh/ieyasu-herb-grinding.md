@@ -1,11 +1,11 @@
 ---
 title: "涵养忍耐与平静的心流节律：德川家康的生药研磨习惯与血清素神经调控"
 description: "深度剖析德川家康的心智修养术。揭示每日亲手用药研/擂钵研磨生药节律运动对刺激血清素分泌、平抚杏仁核警报与建构掌控力的神经科学原理及3步骤指南。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-01"
+updatedDate: "2026-04-01"
 category: "BuildSelf"
-tags: ["涵养忍耐与平静的心流","Routine"]
-heroImage: "/images/blog/ieyasu_herb_grinding.png"
+tags: ["위인 습관", "도쿠가와 이에야스", "생약 조제", "리듬 운동", "인내력", "마인드컨트롤"]
+heroImage: "/images/blog/ieyasu_herb_grinding.webp"
 app: "buildself"
 formatVersion: 4
 authority: "德川家康传记与德川美术馆（Tokugawa Art Museum）史料考证及认知神经科学（Cognitive Neuroscience）研究"

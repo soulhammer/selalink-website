@@ -1,11 +1,11 @@
 ---
 title: "The Emperor Who Won Dozens of Trophies Sleeping 12 Hours a Day: Roger Federer's Sleep Recovery Routine and Brain Cleansing Mechanism"
 description: "Discover tennis legend Roger Federer's secret to sustaining peak athletic and cognitive performance into his 40s: sleeping 10 to 12 hours a day. Explore the neuroscience of glymphatic brain cleansing, REM sleep motor consolidation, and a 3-step action guide."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-16"
+updatedDate: "2026-03-16"
 category: "BuildSelf"
-tags: ["Great Habits","federer","Routine","Stamina"]
-heroImage: "/images/blog/federer_sleep_recovery.png"
+tags: ["위인 습관", "Routine"]
+heroImage: "/images/blog/federer_sleep_recovery.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Chris Bowers's Biography *Roger Federer: The Greatest*, ATP Official Archives & Cognitive Neuroscience Research"

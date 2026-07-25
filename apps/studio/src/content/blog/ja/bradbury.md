@@ -1,11 +1,11 @@
 ---
 title: "無意識の創造性を呼び醒ます10単語連想法：レイ・ブラッドベリの拡散的思考ルーティン"
 description: "現代SF文学の父レイ・ブラッドベリが毎朝無作為な10個の異種単語を書き出し、超短編ストーリーを連想したルーティン。無意識の連鎖を刺激して拡散的思考と創造性を極大化する神経科学的原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-16"
+updatedDate: "2026-06-16"
 category: "BuildSelf"
-tags: ["無意識の創造性を呼び","Routine"]
-heroImage: "/images/blog/bradbury.png"
+tags: ["위인 습관", "레이 브래드버리", "아이디어", "창의성"]
+heroImage: "/images/blog/bradbury.webp"
 app: "buildself"
 formatVersion: 4
 authority: "レイ・ブラッドベリ随筆集『Zen in the Art of Writing』考証＆認知神経科学（Cognitive Neuroscience）研究"

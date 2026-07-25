@@ -1,11 +1,11 @@
 ---
 title: "L'examen des ossements du désert à la loupe : L'observation en gros plan et la routine d'attention visuelle sélective de Georgia O'Keeffe"
 description: "Découvrez comment Georgia O'Keeffe, la « Mère du modernisme américain », a maximisé l'attention visuelle sélective en agrandissant dix fois les ossements du désert et les pétales de fleurs. Explorez la neuroscience du cortex d'association visuelle."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-25"
+updatedDate: "2026-02-25"
 category: "BuildSelf"
-tags: ["L'examen d","Routine"]
-heroImage: "/images/blog/georgia_okeeffe.png"
+tags: ["위인 습관", "조지아 오키프", "이완", "성찰"]
+heroImage: "/images/blog/georgia_okeeffe.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de l'autobiographie *Georgia O'Keeffe*, des archives du Georgia O'Keeffe Museum (Santa Fe) & de la Recherche en Neurosciences Cognitives"

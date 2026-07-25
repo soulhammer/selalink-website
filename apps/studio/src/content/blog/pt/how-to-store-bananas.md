@@ -23,16 +23,16 @@ faqs:
     answer: "Banana stems release the most ethylene gas. Wrapping them tightly inhibits gas release, significantly delaying the softening of the fruit."
 ---
 
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+Você já deixou bananas na bancada e elas encheram de mosquinhas e ficaram pretas em um dia? Hoje, o FreshSnap ensina como mantê-las frescas por mais de 10 dias, sem precisar de suporte.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+      Autoridade Científica Verificada
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+      Este guia de conservação segue as diretrizes oficiais de: <strong>USDA & WHO</strong>.
     </p>
   </div>
 </div>
@@ -41,7 +41,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
 
 ## 1. Por que armazenar assim? Fatos científicos
 
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+Comprender as características únicas de cada ingrediente e seguir o método de armazenamento adequado é extremamente importante para manter o frescor e a higiene.
 
 ---
 
@@ -53,7 +53,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pendurar as bananas em um suporte — Conservação em Temp. Ambiente (7 Dias) 🍌</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+    Deixar as bananas apoiadas em uma superfície amassa os frutos de baixo devido ao próprio peso. As partes machucadas liberam mais etileno e escurecem. 💡 Dicas de conservação: Pendure as bananas em um suporte. Isso simula o cacho no pé, mantendo-as firmes e sem amassados por muito mais tempo.
   </p>
 </div>
 
@@ -63,7 +63,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Embrulhe a coroa com papel alumínio — Bloqueio de gás 🪙</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+    O gás etileno da banana é liberado principalmente pela coroa (talo). 💡 Dicas de conservação: Embrulhe a coroa firmemente com papel alumínio ou filme plástico. Isso evita que o gás se espalhe, atrasando o amadurecimento em até 3 a 5 dias.
   </p>
 </div>
 
@@ -73,7 +73,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Refrigerar APENAS quando estiverem maduras — Armazenamento Refrigerado (7 Dias) ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+    Muitos acham que bananas nunca devem ir à geladeira, mas isso vale para as verdes. Refrigerar bananas verdes causa injúria por frio, enegrecendo a casca sem amadurecer. Bananas maduras com pintas pretas são diferentes. 💡 Dicas de conservação: Embrulhe as bananas maduras individualmente e guarde na gaveta de legumes (0-4 °C). A casca escurece, mas a polpa se mantém firme e fresca por até uma semana.
   </p>
 </div>
 
@@ -86,7 +86,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
   <div>
     <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Embrulhe a coroa da banana firmemente com plástico filme</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+      O gás etileno é liberado principalmente pelo talo. Embrulhá-lo retarda o amadurecimento e o escurecimento de toda a penca.
     </p>
   </div>
 </div>
@@ -96,7 +96,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
   <div>
     <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Não misture com outras frutas que liberam muito etileno</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+      Guardar bananas perto de maçãs ou pêssegos faz com que amadureçam demais e apodreçam rápido devido à dupla exposição ao gás.
     </p>
   </div>
 </div>
@@ -111,7 +111,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+      Yes, blackening is a chilling reaction of the peel, but the flesh inside remains sweet and safe to eat. Ensure they are fully ripe before refrigerating.
     </p>
   </details>
 
@@ -121,7 +121,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+      Banana stems release the most ethylene gas. Wrapping them tightly inhibits gas release, significantly delaying the softening of the fruit.
     </p>
   </details>
 </div>

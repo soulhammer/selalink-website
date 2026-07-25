@@ -1,11 +1,11 @@
 ---
 title: "Concevoir la perfection grâce à un Second Cerveau : La routine d'archivage sur fiches et de délestage cognitif de Stanley Kubrick"
 description: "Découvrez comment le réalisateur Stanley Kubrick a conçu des chefs-d'œuvre en libérant sa mémoire de travail grâce à un archivage sur fiches. Explorez le délestage cognitif, le tronçonnage, l'optimisation préfrontale et un guide en 3 étapes."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-18"
+updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: ["Concevoir ","Routine"]
-heroImage: "/images/blog/kubrick_index_box_archive.png"
+tags: ["글쓰기", "창의성", "기록"]
+heroImage: "/images/blog/kubrick_index_box_archive.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de *The Stanley Kubrick Archives* (Alison Castle), des archives de Kubrick & de la Recherche en Neurosciences Cognitives et Psychologie Cognitive"

@@ -1,11 +1,11 @@
 ---
 title: "Repositório do Pensamento Filosófico: O Método Dialético de Fichamento em Cartões e Rotina de Andaime Cognitivo de Hegel"
 description: "Por trás da consolidação do Idealismo Alemão por G. W. F. Hegel havia dezenas de milhares de cartões de conhecimento e um rigoroso sistema de classificação. Explore seu andaime cognitivo e um guia prático de 3 passos para superar os limites da memória de trabalho."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["Repositóri","Routine"]
-heroImage: "/images/blog/hegel_card_index.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/hegel_card_index.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica das Biografias de G. W. F. Hegel, Arquivos da *Fenomenologia do Espírito (Phänomenologie des Geistes)* e Pesquisa em Neurociência Cognitiva"

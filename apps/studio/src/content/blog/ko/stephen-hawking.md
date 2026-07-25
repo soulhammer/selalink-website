@@ -1,11 +1,11 @@
 ---
 title: "전신 마비 속에서도 우주 공간을 렌더링한 호킹의 뇌 속 가상 칠판 훈련"
 description: "근위축성 측색 경화증을 극복한 세계적인 천재 우주물리학자로, 전신 마비로 펜을 쥘 수 없는 상황에서 머릿속 가상 칠판을 활성화해 차원을 수학적으로 조감했습니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-23"
+updatedDate: "2026-06-23"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/stephen_hawking.png"
+tags: ["위인 습관", "스티븐 호킹", "창의성", "학습"]
+heroImage: "/images/blog/stephen_hawking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Stephen Hawking, *My Brief History* (2013) & *Applied Cognitive Psychology*"

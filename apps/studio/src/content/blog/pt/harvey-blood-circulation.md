@@ -4,7 +4,7 @@ description: "Descubra como o médico do século XVII William Harvey destruiu 2.
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["O Método d","Routine"]
+tags: ["위습관","루틴"]
 heroImage: "/images/blog/harvey_blood_circulation.png"
 app: "buildself"
 formatVersion: 4

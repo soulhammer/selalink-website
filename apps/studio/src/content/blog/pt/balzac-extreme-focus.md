@@ -1,11 +1,11 @@
 ---
 title: "O Despertar da Meia-Noite: O Método de Escrita de 12 Horas em Hiperfoco com Café de Honoré de Balzac"
 description: "Explore a rotina de escrita noturna e estimulação com café praticada por Honoré de Balzac, mestre do realismo francês do século XIX, e descubra o mecanismo neurocientífico de hiperfoco que bloqueia estímulos externos e eleva a atenção cerebral ao extremo."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-14"
+updatedDate: "2026-02-14"
 category: "BuildSelf"
-tags: ["O Desperta","Routine"]
-heroImage: "/images/blog/balzac_extreme_focus.png"
+tags: ["위인 습관", "오노레 드 발자크", "초몰입", "집중력", "시간관리"]
+heroImage: "/images/blog/balzac_extreme_focus.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica da Biografia de Stefan Zweig *Balzac* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)"

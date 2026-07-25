@@ -1,11 +1,11 @@
 ---
 title: "剪除繁褥束腰与饰物的香奈儿本质极简剪裁术与前额叶抑制过滤机制"
 description: "探索掀起女性时装革命的传奇设计师可可·香奈儿以立裁布料直接置于模特身上、挥剪剔除繁复束腰与蕾丝的实战极简剪裁习惯，揭示前额叶抑制过滤（Suppression Filtering）剥离认知噪点与凝炼本质的神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-17"
+updatedDate: "2026-05-17"
 category: "BuildSelf"
-tags: ["剪除繁褥束腰与饰物的","Routine"]
-heroImage: "/images/blog/coco_chanel.png"
+tags: ["위인 습관", "코코 샤넬", "의사결정", "생산성"]
+heroImage: "/images/blog/coco_chanel.webp"
 app: "buildself"
 formatVersion: 4
 authority: "埃德蒙·查尔斯-鲁传记《香奈儿的世界（Chanel and Her World）》考证与认知神经科学（Cognitive Neuroscience）研究"

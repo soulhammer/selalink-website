@@ -1,11 +1,11 @@
 ---
 title: "카페 소음 속에서 마법을 쓴 작가? J.K. 롤링의 백색소음 몰입 루틴"
 description: "해리 포터의 작가 J.K. 롤링. 고요함 대신 카페의 웅성거리는 백색소음을 배경 삼아 대작을 집필했던 그녀의 루틴과 소음이 지닌 창의적 뇌과학 원리를 소개합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-03"
+updatedDate: "2026-03-03"
 category: "BuildSelf"
-tags: ["Great Habits","rowling","Routine","Stamina"]
-heroImage: "/images/blog/rowling_cafe_focus.png"
+tags: ["위인 습관", "J.K. 롤링", "창의성", "백색소음", "집중"]
+heroImage: "/images/blog/rowling_cafe_focus.webp"
 app: "buildself"
 formatVersion: 4
 authority: "J.K. 롤링 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

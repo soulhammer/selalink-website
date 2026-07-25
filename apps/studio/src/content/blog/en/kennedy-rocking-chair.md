@@ -1,11 +1,11 @@
 ---
 title: "The White House Oval Office Rocking Chair: John F. Kennedy's Spinal Pain Breakthrough and Vestibular Relaxation"
 description: "Discover how John F. Kennedy led the United States during Cold War crises while enduring severe spinal pain using his Oval Office Carolina rocking chair. Explore the neuroscience of vestibular stimulation, parasympathetic nervous system activation, and a 3-step relaxation routine."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-10"
+updatedDate: "2026-02-10"
 category: "BuildSelf"
-tags: ["Great Habits","kennedy","Routine","Stamina"]
-heroImage: "/images/blog/kennedy_rocking_chair.png"
+tags: ["위인 습관", "존 F. 케네디", "스트레스 해소", "척추 건강", "휴식"]
+heroImage: "/images/blog/kennedy_rocking_chair.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from the John F. Kennedy Presidential Library, Dr. Janet Travell Archives & Cognitive Neuroscience and Orthopedics Research"

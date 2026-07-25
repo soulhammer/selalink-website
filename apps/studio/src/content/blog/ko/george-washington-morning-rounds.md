@@ -1,11 +1,11 @@
 ---
 title: "조지 워싱턴의 '영농 일지': 초대 대통령의 행정력을 낳은 새벽 순찰과 기록 및 메타인지 루틴"
 description: "새벽 4시 기상 후 직접 마운트 버넌 농장을 돌며 기후와 농작물 수치를 정밀 기록했던 조지 워싱턴. 국가 행정의 뼈대가 된 메타인지 습관과 외측 전전두엽 피질 활성화의 뇌과학적 원리를 탐구합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-04"
+updatedDate: "2026-07-04"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/george_washington_morning_rounds.png"
+tags: ["위인 습관", "조지 워싱턴", "행정력", "영농 일지", "메타 인지"]
+heroImage: "/images/blog/george_washington_morning_rounds.webp"
 app: "buildself"
 formatVersion: 4
 authority: "조지 워싱턴 평전 및 마운트 버넌(Mount Vernon) 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

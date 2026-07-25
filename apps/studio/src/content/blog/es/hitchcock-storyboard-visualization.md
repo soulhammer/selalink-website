@@ -1,11 +1,11 @@
 ---
 title: "Completar el 100% en la Mente Primero: La Rutina de Guion Gráfico Visual y Simulación Mental de Alfred Hitchcock"
 description: "Descubra la rutina de guion gráfico de Alfred Hitchcock antes del rodaje. Explore cómo la simulación mental activa las redes de ejecución motora y elimina la fatiga de decisión."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-08"
+updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: ["Completar ","Routine"]
-heroImage: "/images/blog/hitchcock_storyboard_visualization.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/hitchcock_storyboard_visualization.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de las Biografías de Alfred Hitchcock, Entrevistas de François Truffaut en *El cine según Hitchcock (Hitchcock/Truffaut)* e Investigación en Neurociencia Cognitiva"

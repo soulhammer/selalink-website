@@ -4,7 +4,7 @@ description: "Explore how ancient Greek mathematician Euclid solved complex dile
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["Great Habits","euclid","Routine","Stamina"]
+tags: ["위습관","루틴"]
 heroImage: "/images/blog/euclid_axiomatic_thinking.png"
 app: "buildself"
 formatVersion: 4

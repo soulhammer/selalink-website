@@ -1,11 +1,11 @@
 ---
 title: "거장의 위대한 시작: 아키라 구로사와 감독의 하루 2페이지 시나리오 루틴과 편도체 안정화"
 description: "세계적인 거장 아키라 구로사와 감독이 매일 실천한 하루 2페이지 시나리오 쓰기 습관. 목표를 극단적으로 잘게 쪼개어 편도체의 위협 반응을 억제하고 전전두엽 집행 기능을 가동하는 뇌과학적 원리와 3단계 실천 가이드를 소개합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/kurosawa_page_writing.png"
+tags: ["위인 습관", "아키라 구로사와", "미세 목표", "인지 부하", "실천력", "창의성"]
+heroImage: "/images/blog/kurosawa_page_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "구로사와 아키라 자서전 『기꺼이 자서전 비슷한 것을(Something Like an Autobiography)』 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 행동심리학(Behavioral Psychology) 연구"

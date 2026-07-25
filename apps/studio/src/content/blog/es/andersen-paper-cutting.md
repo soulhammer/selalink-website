@@ -1,11 +1,11 @@
 ---
 title: "¿El Uso de Tijeras que Cura la Depresión? La Rutina de Recorte de Papel de Andersen"
 description: "El mundialmente famoso autor de cuentos de hadas Hans Christian Andersen. Presentamos los principios de curación psiquiátrica y una guía de 3 pasos de 'Recorte de Papel' (Paper Cutting), el secreto para hacer florecer una hermosa imaginación a pesar de una vida de depresión y carencia psicológica."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["¿El Uso de","Routine"]
-heroImage: "/images/blog/andersen_paper_cutting.png"
+tags: ["위인 습관", "안데르센", "종이오리기", "미술치료", "뇌휴식"]
+heroImage: "/images/blog/andersen_paper_cutting.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de los Archivos de Papel del Museo Hans Christian Andersen en Odense, Dinamarca e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"

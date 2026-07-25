@@ -4,7 +4,7 @@ description: "探索17世纪英国科学奇才罗伯特·胡克如何通过复�
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["罗伯特·胡克的微观素","Routine"]
+tags: ["위습관","루틴"]
 heroImage: "/images/blog/hooke_microscopic_sketching.png"
 app: "buildself"
 formatVersion: 4

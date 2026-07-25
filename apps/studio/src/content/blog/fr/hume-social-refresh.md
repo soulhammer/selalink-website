@@ -1,11 +1,11 @@
 ---
 title: "L'antidote à la spéculation solitaire : La routine de socialisation et de jacquet du soir de David Hume pour la relaxation émotionnelle"
 description: "Découvrez comment le philosophe écossais David Hume combattait la mélancolie intellectuelle en dînant avec des amis et en jouant au backgammon chaque soir. Explorez la neuroscience de l'oxytocine, de la sérotonine et de la prévention de la surcharge cognitive."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-18"
+updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: ["L'antidote","Routine"]
-heroImage: "/images/blog/hume_social_refresh.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/hume_social_refresh.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue du *Traité de la nature humaine* (1739) et de l'autobiographie *Ma vie* de David Hume & de la Recherche en Neurosciences Cognitives"

@@ -1,11 +1,11 @@
 ---
 title: "La décision de l'empereur « Hâte-toi lentement » : L'habitude d'écoute multi-angle d'Auguste"
 description: "L'empereur romain Auguste, qui a simplifié ses décisions après l'assassinat de César en écoutant minutieusement les avis divergents de conseillers comme Mécène et Agrippa au lieu d'agir unilatéralement. Découvrez les principes neuroscientifiques de l'écoute et du filtrage pour briser le biais de confirmation."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["La décisio","Routine"]
-heroImage: "/images/blog/augustus_decision_consultation.png"
+tags: ["의사결정", "단순화", "생산성"]
+heroImage: "/images/blog/augustus_decision_consultation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de *Vie des douze Césars (De vita Caesarum)* de Suétone & *Histoire romaine* de Cassius Dion & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

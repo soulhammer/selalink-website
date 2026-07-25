@@ -25,14 +25,14 @@ faqs:
       兽医学与行为学依据
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-将此惯例应用到日常习惯中，体验深度专注与认知能力的提升。
+      本内容基于 <strong>Hedgehog Welfare Society 护理指南及异宠兽医行为规程</strong>。
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-将此惯例应用到日常习惯中，体验深度专注与认知能力的提升。
+    🐾 非洲迷你刺猬 (African Pygmy Hedgehog) 核心档案
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">平均寿命</span><span class="font-bold text-slate-800 dark:text-slate-200">4 ~ 6年</span></div>

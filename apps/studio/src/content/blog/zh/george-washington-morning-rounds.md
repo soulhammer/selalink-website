@@ -1,11 +1,11 @@
 ---
 title: "乔治·华盛顿的“农事日志”：缔造首任总统治理能力的黎明巡视与精准记录习惯"
 description: "探索乔治·华盛顿如何在清晨4点即起踏遍弗吉尼亚的弗农山庄、精细记录气候与农作物数据。揭示构成国家行政基石的元认知习惯与外侧前额叶皮层激活原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-04"
+updatedDate: "2026-07-04"
 category: "BuildSelf"
-tags: ["乔治·华盛顿的“农事","Routine"]
-heroImage: "/images/blog/george_washington_morning_rounds.png"
+tags: ["위인 습관", "조지 워싱턴", "행정력", "영농 일지", "메타 인지"]
+heroImage: "/images/blog/george_washington_morning_rounds.webp"
 app: "buildself"
 formatVersion: 4
 authority: "乔治·华盛顿传记与弗农山庄（Mount Vernon）史料考证及认知神经科学（Cognitive Neuroscience）研究"

@@ -1,11 +1,11 @@
 ---
 title: "Franklin D. Roosevelt's Stamp Sorting Routine: Cognitive Relaxation and Analog Sleep Rituals"
 description: "Discover how President Roosevelt eased brain tension every night by sorting stamps amid wartime and economic crisis. Explore the neuroscience of cognitive relaxation and melatonin regulation for restorative sleep."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-02"
+updatedDate: "2026-07-02"
 category: "BuildSelf"
-tags: ["Great Habits","fdr","Routine","Stamina"]
-heroImage: "/images/blog/fdr_stamp_collecting.png"
+tags: ["위인 습관", "루스벨트", "스트레스 해소", "휴식 루틴", "취침 전 습관"]
+heroImage: "/images/blog/fdr_stamp_collecting.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Franklin D. Roosevelt Biographies, FDR Presidential Library Archives & Cognitive Neuroscience Research"

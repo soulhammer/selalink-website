@@ -1,11 +1,11 @@
 ---
 title: "El Motor Detrás de 500 Volúmenes en el Exilio: La Rutina de Transcripción Selectiva, Cartas y Codificación Cognitiva de Dasan Jeong Yak-yong"
 description: "Descubra cómo Dasan Jeong Yak-yong, el gran erudito Silhak de Joseon, escribió más de 500 volúmenes durante sus 18 años de exilio mediante la transcripción selectiva ('Choseo') y cartas a sus hijos. Explore la neurociencia de la codificación cognitiva y la metacognición."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-01"
+updatedDate: "2026-02-01"
 category: "BuildSelf"
-tags: ["El Motor D","Routine"]
-heroImage: "/images/blog/jeong_yakyong_transcription.png"
+tags: ["위인 습관", "정약용", "초서독서", "메타인지", "지식구조화"]
+heroImage: "/images/blog/jeong_yakyong_transcription.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de las Obras Completas de Dasan Jeong Yak-yong *Yeoyudang Jeonseo*, Autobiografía *Saam Yeonbo* e Investigación en Neurociencia Cognitiva y Metacognición"

@@ -1,11 +1,11 @@
 ---
 title: "Kaisar yang Memenangkan Puluhan Trofi dengan Tidur 12 Jam Sehari: Rutinitas Pemulihan Tidur dan Pembersihan Otak Roger Federer"
 description: "Temukan rahasia legenda tenis Roger Federer untuk mempertahankan performa puncak hingga usia 40-an: tidur 10 hingga 12 jam sehari. Temukan neurosains tentang sistem glimfatik, tidur REM, dan panduan aksi 3 langkah."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-16"
+updatedDate: "2026-03-16"
 category: "BuildSelf"
-tags: ["Kaisar yan","Routine"]
-heroImage: "/images/blog/federer_sleep_recovery.png"
+tags: ["위인 습관", "Routine"]
+heroImage: "/images/blog/federer_sleep_recovery.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Biografi Chris Bowers *Roger Federer: The Greatest*, Arsip Resmi ATP & Penelitian Neurosains Kognitif"

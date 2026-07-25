@@ -1,11 +1,11 @@
 ---
 title: "30 Minutos Cada Mañana: El Curioso 'Baño de Aire' de Benjamin Franklin y la Rutina de Reinicio Autonómico"
 description: "Descubra cómo Benjamin Franklin, inventor del pararrayos y Padre Fundador de EE. UU., practicaba su 'baño de aire' matutino desnudo frente a ventanas abiertas. Explore la neurociencia de los receptores de frío cutáneos (TRPM8) y la noradrenalina."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-12"
+updatedDate: "2026-02-12"
 category: "BuildSelf"
-tags: ["30 Minutos","Routine"]
-heroImage: "/images/blog/franklin_air_bath.png"
+tags: ["위인 습관", "벤자민 프랭클린", "아침 루틴", "면역력", "각성"]
+heroImage: "/images/blog/franklin_air_bath.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la *Autobiografía de Benjamin Franklin*, Cartas a M. Barbeu Dubourg e Investigación en Neurociencia Cognitiva"

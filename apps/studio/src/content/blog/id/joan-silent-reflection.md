@@ -1,11 +1,11 @@
 ---
 title: "Jangkar Keyakinan yang Tak Tergoyahkan: Rutinitas Hening Pagi dan Stabilisasi Amigdala Joan of Arc"
 description: "Pelajari bagaimana pahlawan wanita Prancis Joan of Arc mempertahankan keyakinan yang tak tergoyahkan selama Perang Seratus Tahun melalui doa hening pagi. Temukan neuropsikologi penekanan kebisingan, stabilisasi amigdala, dan penyelarasan kognitif."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-12"
+updatedDate: "2026-02-12"
 category: "BuildSelf"
-tags: ["Jangkar Ke","Routine"]
-heroImage: "/images/blog/joan_silent_reflection.png"
+tags: ["위인 습관", "잔다르크", "침묵명상", "신념정렬", "멘탈회복"]
+heroImage: "/images/blog/joan_silent_reflection.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Catatan Persidangan Joan of Arc (*Procès de Condamnation et de Réhabilitation*) & Penelitian Neurosains Kognitif"

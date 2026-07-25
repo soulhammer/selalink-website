@@ -1,11 +1,11 @@
 ---
 title: "Gambaran Besar untuk Menerobos Masa Sulit: Rutinitas Meditasi Visual Puncak Gunung dan Penguasaan Penglihatan Perifer Genghis Khan"
 description: "Pelajari bagaimana penakluk Genghis Khan membersihkan kebisingan mental sebelum pertempuran besar dengan mendaki gunung suci sendirian. Temukan psikologi kognitif dari rutinitas 'Meditasi Visual'-nya dan Teori Restorasi Perhatian."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-21"
+updatedDate: "2026-04-21"
 category: "BuildSelf"
-tags: ["Gambaran B","Routine"]
-heroImage: "/images/blog/genghis_mountain_meditation.png"
+tags: ["위인 습관", "칭기즈칸", "시각화", "명상", "대자연휴식"]
+heroImage: "/images/blog/genghis_mountain_meditation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari *Genghis Khan and the Making of the Modern World* karya Jack Weatherford, *The Secret History of the Mongols* & Penelitian Neurosains Kognitif"

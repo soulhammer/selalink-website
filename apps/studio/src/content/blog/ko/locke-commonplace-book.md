@@ -1,11 +1,11 @@
 ---
 title: "1분 안에 과거의 기록을 찾아낸 철학자: 존 로크의 커먼플레이스 북 색인법과 연상 기억 네트워크"
 description: "경험론의 거장 존 로크는 방대한 기록을 체계적으로 연동하기 위해 독창적인 알파벳 모음 색인법을 고안했습니다. 연상 기억을 자극하여 의미론적 거리를 축소하고 전전두엽 인출(Recall) 부하를 경감시키는 뇌과학적 원리와 3단계 실천 가이드를 다룹니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-19"
+updatedDate: "2026-03-19"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/locke_commonplace_book.png"
+tags: ["1분 안에 과거의 ","Routine"]
+heroImage: "/images/blog/locke_commonplace_book.webp"
 app: "buildself"
 formatVersion: 4
 authority: "존 로크 저작 「새로운 커먼플레이스 북 색인법(A New Method of a Commonplace-Book, 1686)」 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 인지심리학(Cognitive Psychology) 연구"

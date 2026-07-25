@@ -1,11 +1,11 @@
 ---
 title: "산책하고 오자마자 모자 쓴 채 서서 글을 쓴 철학자: 쇠렌 키르케고르의 즉시 포착 습관과 인지적 예열"
 description: "실존주의 철학자 쇠렌 키르케고르가 번뜩이는 사색을 잃지 않았던 방법. 문을 열자마자 옷도 벗지 않고 스탠딩 책상으로 향해 서서 글을 썼던 그의 독특한 영감 보존법과 인지적 예열, 작업 기억 보존의 뇌과학을 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-08"
+updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/kierkegaard_standing_write.png"
+tags: ["위인 습관", "쇠렌 키르케고르", "기록", "스탠딩데스크", "영감"]
+heroImage: "/images/blog/kierkegaard_standing_write.webp"
 app: "buildself"
 formatVersion: 4
 authority: "쇠렌 키르케고르 일기 사료 『키르케고르의 일기(Journals of Søren Kierkegaard)』 및 평전 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

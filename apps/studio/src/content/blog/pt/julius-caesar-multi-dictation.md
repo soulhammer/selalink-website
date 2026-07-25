@@ -1,11 +1,11 @@
 ---
 title: "O Ditado Simultâneo de Júlio César: A Técnica de Transição de Tarefas Altamente Focada e Expansão da Memória de Trabalho"
 description: "Descubra como Júlio César ditava simultaneamente várias cartas e ordens militares a diversos escribas a cavalo ou em carruagens. Explore a neurociência da expansão da memória de trabalho e da flexibilidade cognitiva pré-frontal."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-14"
+updatedDate: "2026-01-14"
 category: "BuildSelf"
-tags: ["O Ditado S","Routine"]
-heroImage: "/images/blog/julius_caesar_multi_dictation.png"
+tags: ["위인 습관", "율리우스 카이사르", "시간 관리", "작업 기억", "생산성"]
+heroImage: "/images/blog/julius_caesar_multi_dictation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica de *Vidas Paralelas* de Plutarco, *História Natural* de Plínio, o Velho, e Pesquisa em Neurociência Cognitiva"

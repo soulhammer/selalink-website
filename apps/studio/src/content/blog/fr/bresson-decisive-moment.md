@@ -1,11 +1,11 @@
 ---
 title: "La géométrie de l'instant et le regard concentré : La routine d'observation de « l'instant décisif » d'Henri Cartier-Bresson"
 description: "Découvrez comment Henri Cartier-Bresson, maître du photojournalisme moderne, pratiquait l'immersion visuelle en attendant l'harmonie géométrique parfaite et l'instant fugace. Explorez les mécanismes neuroscientifiques contournant les filtres du codage prédictif pour activer le cortex visuel et les réseaux d'attention préfrontaux."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-08"
+updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: ["La géométr","Routine"]
-heroImage: "/images/blog/bresson_decisive_moment.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/bresson_decisive_moment.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue du livre de photographies d'Henri Cartier-Bresson *Images à la sauvette / The Decisive Moment* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

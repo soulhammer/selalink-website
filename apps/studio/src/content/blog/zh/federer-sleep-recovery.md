@@ -1,11 +1,11 @@
 ---
 title: "每天睡眠12小时捧起几十座冠军奖杯的帝王：罗杰·费德勒的睡眠恢复习惯与大脑排毒机制"
 description: "探索网球天王罗杰·费德勒年过四十依然维持世界顶尖竞技状态的秘诀：每天10-12小时的高品质睡眠。揭示胶质淋巴系统（Glymphatic System）排毒、快速眼动（REM）睡眠整合运动记忆的神经科学原理与3步骤实践指南。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-16"
+updatedDate: "2026-03-16"
 category: "BuildSelf"
-tags: ["每天睡眠12小时捧起","Routine"]
-heroImage: "/images/blog/federer_sleep_recovery.png"
+tags: ["위인 습관", "Routine"]
+heroImage: "/images/blog/federer_sleep_recovery.webp"
 app: "buildself"
 formatVersion: 4
 authority: "克里斯·鲍尔传记《罗杰·费德勒传（Roger Federer: The Greatest）》与ATP官方史料考证及认知神经科学（Cognitive Neuroscience）研究"

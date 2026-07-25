@@ -1,11 +1,11 @@
 ---
 title: "집에서도 정장을 갖춰 입고 작곡을?: 교향곡의 아버지 헤이든의 '의복 인지' 루틴과 몰입 스위치"
 description: "작곡가 조지프 헤이든이 왜 작곡 전에 정장과 가발을 입었는지 알아봅니다. 우리의 복장이 생산성을 어떻게 향상시키는지 '의복 인지(Enclothed Cognition)' 과학과 체화된 인지 이론으로 설명합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-04"
+updatedDate: "2026-04-04"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/haydn_formal_dressing.png"
+tags: ["위인 습관", "생산성"]
+heroImage: "/images/blog/haydn_formal_dressing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "조지프 헤이든 전기(Dies & Griesinger) 및 에스테르하치(Esterházy) 아카이브 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

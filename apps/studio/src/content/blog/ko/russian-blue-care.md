@@ -18,7 +18,17 @@ faqs:
 
 러시안 블루는 은빛이 감도는 짧은 청색 털과 초록색 눈을 가진 매혹적인 고양이입니다. 조용하고 차분하며 보호자를 매우 깊이 사랑하는 가족형 고양이지만, 유전적으로 낯가림이 매우 심하고 겁이 많아 집안의 환경 변화나 갑작스러운 소음에 소심하게 반응하곤 합니다. 🐱 낯선 손님이 방문하거나 가전제품 소음이 나면 캣타워 콘도 깊숙이 숨어 오랫동안 나오지 않는 행동도 바로 이 때문입니다. 러시안 블루는 보호자가 억지로 숨은 공간에서 꺼내려 할 때 더 큰 스트레스를 받습니다. 오늘 PetSelf에서는 소심한 러시안 블루가 안심하고 지낼 수 있는 안전한 안식처 공간을 만들고, 차분하게 신뢰를 쌓아가는 3단계 데일리 교감법을 소개합니다.
 
-이러한 규칙적인 습관과 몰입 루틴은 뇌의 전두엽 및 신경 가소성을 활성화하여 일상의 집중력과 뇌 피로 회복을 극대화합니다.
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
+  <span class="text-2xl">🛡️</span>
+  <div>
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      수의학적 & 행동학적 근거
+    </h5>
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
+      본 콘텐츠는 <strong>Cat Fanciers' Association (CFA) 묘종 표준 가이드 및 Cornell Feline Health Center</strong>에 기반하고 있습니다.
+    </p>
+  </div>
+</div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">

@@ -1,11 +1,11 @@
 ---
 title: "Immersion Amid Noise: Simone de Beauvoir's Cafe White Noise and Environment Simplification Routine"
 description: "Discover how existentialist philosopher and novelist Simone de Beauvoir wrote daily at her favorite Parisian cafe over a cup of tea, and explore the neurological mechanisms of soft white noise alongside methods for building your own personal Focus Zone."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-08"
+updatedDate: "2026-06-08"
 category: "BuildSelf"
-tags: ["Great Habits","beauvoir","Routine","Stamina"]
-heroImage: "/images/blog/beauvoir_cafe_writing.png"
+tags: ["매일 같은 카페에서","Routine"]
+heroImage: "/images/blog/beauvoir_cafe_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Simone de Beauvoir's Autobiography *La Force des choses* & Cognitive Neuroscience Research"

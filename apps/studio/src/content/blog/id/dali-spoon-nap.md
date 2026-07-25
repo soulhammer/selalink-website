@@ -1,11 +1,11 @@
 ---
 title: "Genius yang Melukis Alam Semesta dengan Sendok: Rutinitas Tidur Siang Reset Otak dan Penangkapan Hipnagogia ala Salvador Dalí"
 description: "Pelajari bagaimana maestro surealis Salvador Dalí duduk di kursi memegang sendok logam untuk menangkap ide-ide artistik yang cemerlang saat terbangun. Temukan neurosains kognitif tentang hipnagogia gelombang teta."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-07"
+updatedDate: "2026-03-07"
 category: "BuildSelf"
-tags: ["Genius yan","Routine"]
-heroImage: "/images/blog/dali_spoon_nap.png"
+tags: ["위인 습관", "살바도르 달리", "창의성", "낮잠", "뇌파"]
+heroImage: "/images/blog/dali_spoon_nap.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Autobiografi Salvador Dalí *The Secret Life of Salvador Dalí* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

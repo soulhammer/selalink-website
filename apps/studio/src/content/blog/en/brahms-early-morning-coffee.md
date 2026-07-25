@@ -1,11 +1,11 @@
 ---
 title: "Harmony of 5 AM Coffee and Morning Walk: Johannes Brahms's Powerful Morning Arousal Routine"
 description: "Discover how German classical master Johannes Brahms brewed black coffee at 5 AM every morning and walked briskly through forest paths, and explore the neuroscientific mechanism of BDNF secretion and working memory enhancement when caffeine combines with aerobic exercise."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-13"
+updatedDate: "2026-06-13"
 category: "BuildSelf"
-tags: ["Great Habits","brahms","Routine","Stamina"]
-heroImage: "/images/blog/brahms_early_morning_coffee.png"
+tags: ["새벽 5시 커피와 ","Routine"]
+heroImage: "/images/blog/brahms_early_morning_coffee.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Max Kalbeck's Biography *Johannes Brahms* & Cognitive Neuroscience Research"

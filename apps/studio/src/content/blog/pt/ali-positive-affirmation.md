@@ -1,11 +1,11 @@
 ---
 title: "O Segredo Matinal em Frente ao Espelho para Recarregar a Confiança: A Rotina de Afirmações Positivas de Muhammad Ali"
 description: "Muhammad Ali, o maior boxeador do século. Descubra os efeitos neurocientíficos e a rotina de mentalidade em 3 passos das afirmações positivas em frente ao espelho: o segredo para superar a ansiedade de desempenho extrema antes das lutas e se tornar um campeão."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-26"
+updatedDate: "2026-01-26"
 category: "BuildSelf"
-tags: ["O Segredo ","Routine"]
-heroImage: "/images/blog/ali_positive_affirmation.png"
+tags: ["위인 습관", "무하마드알리", "자기확신", "동기부여", "멘탈케어"]
+heroImage: "/images/blog/ali_positive_affirmation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação da Autobiografia de Muhammad Ali *The Greatest: My Own Story* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)"

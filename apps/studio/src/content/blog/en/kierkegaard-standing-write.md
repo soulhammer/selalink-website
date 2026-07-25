@@ -1,11 +1,11 @@
 ---
 title: "Writing Standing Up in a Hat Right After Walking: Søren Kierkegaard's Instant Capture Habit and Cognitive Warm-Up"
 description: "Discover how existentialist philosopher Søren Kierkegaard preserved fleeting insights by writing standing up at tall desks immediately after walks without taking off his hat or coat. Explore the neuroscience of cognitive warm-up, working memory preservation, and attention residue prevention."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-08"
+updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: ["Great Habits","kierkegaard","Routine","Stamina"]
-heroImage: "/images/blog/kierkegaard_standing_write.png"
+tags: ["위인 습관", "쇠렌 키르케고르", "기록", "스탠딩데스크", "영감"]
+heroImage: "/images/blog/kierkegaard_standing_write.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from *The Journals of Søren Kierkegaard*, Joakim Garff's *Søren Kierkegaard: A Biography* & Cognitive Neuroscience Research"

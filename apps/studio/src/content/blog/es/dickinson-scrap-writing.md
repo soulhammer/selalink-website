@@ -1,11 +1,11 @@
 ---
 title: "Gran Inspiración en el Reverso de un Sobre: El Hábito de Escribir en Recortes de Emily Dickinson y la Relajación por Incubación"
 description: "Descubra cómo el genio poético estadounidense Emily Dickinson garabateaba poemas en recibos y envoltorios mientras horneaba pan. Explore la neurociencia cognitiva de la activación de la Red por Defecto (DMN) y el Efecto de Incubación."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-02"
+updatedDate: "2026-05-02"
 category: "BuildSelf"
-tags: ["Gran Inspi","Routine"]
-heroImage: "/images/blog/dickinson_scrap_writing.png"
+tags: ["위인 습관", "에밀리디킨슨", "영수증시", "즉흥기록", "창의성"]
+heroImage: "/images/blog/dickinson_scrap_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la Biografía de Richard B. Sewall *La vida de Emily Dickinson (The Life of Emily Dickinson)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"

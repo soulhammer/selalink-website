@@ -1,11 +1,11 @@
 ---
 title: "셜록 홈즈를 쓰기 전 복싱을? 아서 코난 도일의 뇌 각성 스포츠 루틴과 BDNF 분비법"
 description: "의사이자 작가 아서 코난 도일이 왜 집필 전에 복싱이나 크리켓 같은 격렬한 운동을 고집했는지 밝힙니다. 고강도 운동이 뇌유래신경성장인자(BDNF)를 방출하고 전두엽 실행 능력과 집중력을 극대화하는 인지신경과학적 원리를 살펴봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-21"
+updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/doyle_sports_writing.png"
+tags: ["위인 습관", "생산성"]
+heroImage: "/images/blog/doyle_sports_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "아서 코난 도일 자서전 『회고와 추억(Memories and Adventures)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

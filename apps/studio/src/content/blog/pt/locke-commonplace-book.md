@@ -1,11 +1,11 @@
 ---
 title: "O Filósofo que Recuperava Registros em Menos de um Minuto: A Rotina de Indexação do Livro de Lugares-Comuns de John Locke"
 description: "Descubra como o empirista John Locke indexou sistematicamente seu conhecimento usando um sistema de grade de vogais. Explore a neurociência das redes de memória associativa, a redução da distância semântica, a descarga pré-frontal e um guia de 3 passos."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-19"
+updatedDate: "2026-03-19"
 category: "BuildSelf"
-tags: ["O Filósofo","Routine"]
-heroImage: "/images/blog/locke_commonplace_book.png"
+tags: ["1분 안에 과거의 ","Routine"]
+heroImage: "/images/blog/locke_commonplace_book.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica do Tratado de John Locke *A New Method of a Commonplace-Book* (1686), Arquivos de Locke e Pesquisa em Neurociência Cognitiva e Psicologia Cognitiva"

@@ -1,11 +1,11 @@
 ---
 title: "オフライン没頭：ドナルド・クヌースのEメール遮断ルーティンとコンテキストスイッチングの防止"
 description: "コンピュータサイエンスの巨作を完成させるため1990年からEメールを断ち、オフラインのディープワークを貫いたドナルド・クヌース。頻繁なコンテキストスイッチング（Context Switching）と注意残留（Attention Residue）を遮断して脳の注意力・集中力を守る原理と3段階実践法を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["オフライン没頭：ドナ","Routine"]
-heroImage: "/images/blog/knuth_no_email.png"
+tags: ["위인 습관", "도널드 너스", "집중", "생산성", "시간 관리"]
+heroImage: "/images/blog/knuth_no_email.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ドナルド・クヌース公式宣言「Eメール使用中断（Email and I）」および評伝史料考証＆認知神経科学（Cognitive Neuroscience）および認知心理学（Cognitive Psychology）研究"

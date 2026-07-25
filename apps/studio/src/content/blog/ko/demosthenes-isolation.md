@@ -1,11 +1,11 @@
 ---
 title: "머리 반쪽을 밀어버린 웅변가: 데모스테네스의 극한 환경 통제와 강제 이행 장치 루틴"
 description: "선천적 신체 한계를 극복하고 고대 그리스 최고의 웅변가가 된 데모스테네스. 유혹을 차단하기 위해 스스로 머리 반쪽을 삭발하고 동굴로 들어갔던 루틴. 강제 이행 장치(Hard Commitment Device)가 전전두엽 피질의 집행 기능을 보호하는 인지신경과학적 원리를 밝깁니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-28"
+updatedDate: "2026-01-28"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/demosthenes_isolation.png"
+tags: ["위인 습관", "데모스테네스", "몰입", "환경통제", "의지력"]
+heroImage: "/images/blog/demosthenes_isolation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "플루타르코스 평전 『영웅전(Parallel Lives)』 데모스테네스 편 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

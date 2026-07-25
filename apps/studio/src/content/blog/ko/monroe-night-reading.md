@@ -1,11 +1,11 @@
 ---
 title: "화장 뒤의 영혼: 마릴린 먼로의 매일 밤 독서와 성찰 습관"
 description: "대중의 섹시 심벌 뒤에 400여 권의 장서를 지닌 애서가였던 마릴린 먼로. 매일 밤의 문학 독서와 일기 작성이 스트레스 호르몬을 줄이고 자아 정체성을 보존한 과학적 원리를 규명합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-14"
+updatedDate: "2026-03-14"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/monroe_night_reading.png"
+tags: ["독서", "성찰", "휴식"]
+heroImage: "/images/blog/monroe_night_reading.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Monroe Night Reading 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

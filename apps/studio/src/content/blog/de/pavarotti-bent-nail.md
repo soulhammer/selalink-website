@@ -1,11 +1,11 @@
 ---
 title: "무대 공포증을 이기려 굽은 못을 찾다: 루치아노 파바로티의 '감각 닻(Anchor)' 루틴"
 description: "세계적인 테너 루치아노 파바로티가 공연 전 굽은 못을 찾았던 징크스 행동에 숨겨진 뇌과학적 진정 효과를 설명합니다. 의식화된 루틴이 불안을 통제하는 방식을 설명합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-13"
+updatedDate: "2026-04-13"
 category: "BuildSelf"
-tags: ["무대 공포증을 이기","Routine"]
-heroImage: "/images/blog/pavarotti_bent_nail.png"
+tags: ["위인 습관", "휴식"]
+heroImage: "/images/blog/pavarotti_bent_nail.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Pavarotti Bent Nail 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

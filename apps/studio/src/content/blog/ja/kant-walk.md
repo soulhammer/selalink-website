@@ -1,11 +1,11 @@
 ---
 title: "ケーニヒスベルクの時計：イマヌエル・カントの毎日午後3時30分の散歩とサーカディアンリズムの精密化"
 description: "近代哲学の巨匠イマヌエル・カント。近隣住民が見て時計を合わせたほど正確だった彼の一定の散歩ルーティンの中に隠された脳科学的メリットと視床下部視交差上核（SCN）刺激、鼻呼吸（Nasal Breathing）の原理および3段階実践法を紹介します。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-18"
+updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: ["ケーニヒスベルクの時","Routine"]
-heroImage: "/images/blog/kant_walk.png"
+tags: ["위인 습관", "임마누엘 칸트", "산책", "규율", "휴식"]
+heroImage: "/images/blog/kant_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "マンフレート・キューン『カント評伝（Kant: A Biography）』史料考証＆脳神経科学（Brain Research）および認知神経科学（Cognitive Neuroscience）研究"

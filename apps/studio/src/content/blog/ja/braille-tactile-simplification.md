@@ -1,11 +1,11 @@
 ---
 title: "指先の直感と6点の革新：ルイ・ブライユの本質単純化とチャンキング・ルーティン"
 description: "複雑だった12点の軍用夜間文字を、指の第1関節に収まる6点点字へと単純化し、視覚障害者の知識革命を起こしたルイ・ブライユ。触覚情報の受容限界に合わせたチャンキング（Chunking）と本質単純化の神経科学的原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-04"
+updatedDate: "2026-05-04"
 category: "BuildSelf"
-tags: ["指先の直感と6点の革","Routine"]
-heroImage: "/images/blog/braille_tactile_simplification.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/braille_tactile_simplification.webp"
 app: "buildself"
 formatVersion: 4
 authority: "C・マイケル・メラー伝記『Louis Braille: A Touch of Genius』考証＆認知神経科学（Cognitive Neuroscience）研究"

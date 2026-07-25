@@ -1,11 +1,11 @@
 ---
 title: "결정 피로의 관리: 마크 저커버그의 단일 유니폼 습관"
 description: "매일 똑같은 티셔츠와 청바지를 입는 단순한 유니폼 착용으로 결정 피로를 줄였던 마크 저커버그. 뇌의 유한한 에너지 자원인 '자아 고갈'을 방지하고 핵심 의사결정에 집중하는 과학적 원리를 규명합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-12"
+updatedDate: "2026-06-12"
 category: "BuildSelf"
-tags: ["결정 피로의 관리:","Routine"]
-heroImage: "/images/blog/zuckerberg_uniform_minimization.png"
+tags: ["의사결정", "단순화", "생산성"]
+heroImage: "/images/blog/zuckerberg_uniform_minimization.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Zuckerberg Uniform Minimization 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

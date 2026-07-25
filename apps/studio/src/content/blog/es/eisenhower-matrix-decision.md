@@ -1,11 +1,11 @@
 ---
 title: "El Poder de Enfocarse en lo Importante: El Hábito de Decisión de 4 Cuadrantes de Dwight D. Eisenhower"
 description: "El presidente Eisenhower soportó el enorme peso de las decisiones durante la guerra y la gobernanza nacional. Analizamos su secreto de gestión del tiempo para asignar energía mental a lo esencial sin dejarse llevar por urgencias menores, respaldado por la neurociencia cognitiva."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["El Poder d","Routine"]
-heroImage: "/images/blog/eisenhower_matrix_decision.png"
+tags: ["의사결정", "생산성", "시간 관리"]
+heroImage: "/images/blog/eisenhower_matrix_decision.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la Autobiografía de Dwight D. Eisenhower *At Ease: Stories I Tell to Friends* e Investigación en Neurociencia Cognitiva"

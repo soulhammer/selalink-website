@@ -1,11 +1,11 @@
 ---
 title: "L'horloge de Königsberg : La promenade quotidienne d'Immanuel Kant à 15h30 et la précision du rythme circadien"
 description: "Découvrez comment le géant de la philosophie moderne Immanuel Kant maintenait una clarté d'esprit remarquable grâce à sa promenade de 15h30 à Königsberg. Explorez la neuroscience de la stimulation du noyau suprachiasmatique (NSQ) et la respiration nasale."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-18"
+updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: ["L'horloge ","Routine"]
-heroImage: "/images/blog/kant_walk.png"
+tags: ["위인 습관", "임마누엘 칸트", "산책", "규율", "휴식"]
+heroImage: "/images/blog/kant_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de la biographie de Manfred Kuehn *Kant*, des archives de Königsberg & de la Recherche en Neurosciences Cognitives"

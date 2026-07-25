@@ -1,11 +1,11 @@
 ---
 title: "골든 아워의 절대 집중: 엔리코 페르미의 아침 2시간 고독 계산 습관과 인지 피크타임 몰입법"
 description: "최초의 인공 원자로를 설계하고 노벨상을 수상한 천재 물리학자 엔리코 페르미. 매일 정규 출근 전 새벽에 2시간 동안 오직 자신만의 계산 문제를 밀어붙였던 인지 피크타임 활용 비결과 코르티솔 각성 반응의 뇌과학적 원리를 파헤칩니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-14"
+updatedDate: "2026-05-14"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/fermi_dawn_calculation_routine.png"
+tags: ["집중", "생산성", "학습"]
+heroImage: "/images/blog/fermi_dawn_calculation_routine.webp"
 app: "buildself"
 formatVersion: 4
 authority: "로라 페르미 『내 남편 엔리코 페르미(Atoms in the Family: My Life with Enrico Fermi)』 및 자서전 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

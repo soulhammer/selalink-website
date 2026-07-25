@@ -1,11 +1,11 @@
 ---
 title: "자는 동안 뇌가 기획안을 풀어낸다: 조앤 디디온의 원고 동침 수면법과 REM 수면 프라이밍"
 description: "미국의 전설적인 작가 조앤 디디온. 풀리지 않는 원고를 안고 침실로 들어가 함께 잠들었던 수면 루틴. 인지적 프라이밍(Cognitive Priming)과 REM 수면 중 기억 재통합의 인지신경과학적 원리를 밝힙니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-02"
+updatedDate: "2026-06-02"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/didion_manuscript_sleeping.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/didion_manuscript_sleeping.webp"
 app: "buildself"
 formatVersion: 4
 authority: "트레이시 도허티 평전 『조앤 디디온 평전(The Last Love Song)』 및 『The Paris Review』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

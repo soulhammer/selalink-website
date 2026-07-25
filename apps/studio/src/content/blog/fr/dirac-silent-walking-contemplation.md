@@ -1,11 +1,11 @@
 ---
 title: "Le génie qui marchait dans le silence le plus absolu : La routine de marche silencieuse et d'élimination du bruit linguistique de Paul Dirac"
 description: "Découvrez comment le pionnier de la mécanique quantique et prix Nobel Paul Dirac a affiné l'équation de Dirac grâce à des marches dominicales silencieuses. Explorez la neuroscience cognitive du relâchement linguistique et de l'activation visuo-spatiale."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-25"
+updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["Le génie q","Routine"]
-heroImage: "/images/blog/dirac_silent_walking_contemplation.png"
+tags: ["위인 습관", "Routine"]
+heroImage: "/images/blog/dirac_silent_walking_contemplation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de la biographie de Graham Farmelo *The Strangest Man: The Hidden Life of Paul Dirac* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

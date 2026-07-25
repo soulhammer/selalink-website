@@ -1,11 +1,11 @@
 ---
 title: "テンポを落として1秒に1鍵盤を無エラーで演奏したリストの小脳学習法とミエリン髄鞘化"
 description: "音楽史上最も精巧な技巧を誇ったピアニスト、フランツ・リスト。鍵盤の無秩序な速奏練習の代わりにメトロノームのテンポを落とし、1秒に1鍵盤を叩くスローモーション無エラー学習（Errorless Learning）で小脳（Cerebellum）を鍛えミエリン髄鞘化を誘導した原理と3段階実践法を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-14"
+updatedDate: "2026-04-14"
 category: "BuildSelf"
-tags: ["テンポを落として1秒","Routine"]
-heroImage: "/images/blog/liszt.png"
+tags: ["위인 습관", "프란츠 리스트", "의지력", "시간 관리"]
+heroImage: "/images/blog/liszt.webp"
 app: "buildself"
 formatVersion: 4
 authority: "フランツ・リスト評伝史料『フランツ・リスト：巨匠の生涯（Franz Liszt: The Virtuoso Years）』考証＆認知神経科学（Cognitive Neuroscience）および運動学習学（Motor Learning Science）研究"

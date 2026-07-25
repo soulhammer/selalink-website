@@ -22,16 +22,17 @@ faqs:
   - question: "Bagaimana cara menangani dan menyimpan bagian yang memar?"
     answer: "Bagian yang rusak mempercepat pembusukan. Potong segera dan konsumsi terlebih dahulu agar tidak merusak bahan makanan lainnya."
 ---
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+
+Pernahkah Anda membeli wortel yang layu dan lunak dalam beberapa hari? Hari ini FreshSnap membagikan panduan penyimpanan ilmiah.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Otoritas Ilmiah Terverifikasi
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Panduan penyimpanan ini didasarkan pada pedoman keselamatan resmi dari: <strong>RDA & USDA</strong>.
     </p>
   </div>
 </div>
@@ -40,7 +41,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
 
 ## 1. Mengapa disimpan seperti ini? Fakta ilmiah
 
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpanan yang benar sangat penting untuk menjaga kesegaran dan kebersihan.
 
 ---
 
@@ -52,7 +53,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Keringkan kelembapan permukaan 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+    Wortel rentan terhadap kelembapan. Keringkan di tempat teduh sebelum disimpan.
   </p>
 </div>
 
@@ -62,7 +63,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Bungkus satu per satu 📰</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+    Bungkus setiap wortel dengan tisu dapur untuk mengatur kelembapan.
   </p>
 </div>
 
@@ -72,7 +73,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Simpan secara tegak ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+    Simpan wortel secara tegak di laci sayur agar tetap segar.
   </p>
 </div>
 
@@ -85,7 +86,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
   <div>
     <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Pisahkan wortel dari buah yang menghasilkan etilen ⚠️</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Menyimpan wortel di dekat buah yang menghasilkan etilen seperti apel atau pir akan membuat wortel terasa pahit.
     </p>
   </div>
 </div>
@@ -95,7 +96,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
   <div>
     <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Potong daun wortel sebelum disimpan 🥕</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Jika daun wortel dibbiarkan, mereka akan menyedot air dan nutrisi dari umbi, membuatnya cepat kering.
     </p>
   </div>
 </div>
@@ -110,7 +111,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Tidak, mencuci sebelum disimpan menjebak kelembapan berlebih dan memicu bakteri. Lap dengan kain kering dan cuci sebelum dimakan.
     </p>
   </details>
 
@@ -120,7 +121,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Bagian yang rusak mempercepat pembusukan. Potong segera dan konsumsi terlebih dahulu agar tidak merusak bahan makanan lainnya.
     </p>
   </details>
 </div>

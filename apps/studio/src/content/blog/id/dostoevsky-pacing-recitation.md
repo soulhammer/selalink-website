@@ -1,11 +1,11 @@
 ---
 title: "Suara yang Bergema di Ruangan: Rutinitas Membaca Nyaring Sambil Berjalan dan Pendiktean ala Fyodor Dostoevsky"
 description: "Pelajari bagaimana Fyodor Dostoevsky, penulis 'Crime and Punishment', berjalan menyusuri ruangannya sambil memerankan dialog sebelum mendiktekannya. Temukan neurosains kognitif tentang stimulasi korteks motorik, area Broca dan Wernicke, serta neuron cermin."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-25"
+updatedDate: "2026-05-25"
 category: "BuildSelf"
-tags: ["Suara yang","Routine"]
-heroImage: "/images/blog/dostoevsky_pacing_recitation.png"
+tags: ["위인 습관", "표도르 도스토옙스키", "창의성", "기록", "공부"]
+heroImage: "/images/blog/dostoevsky_pacing_recitation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Memoar Anna Dostoevskaya *Reminiscences* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

@@ -1,11 +1,11 @@
 ---
 title: "Hinweise zur Unschärfe aus der Natur: Werner Heisenbergs Alpin-Wandergewohnheit und DMN-Inkubationsroutine"
 description: "Erfahren Sie, wie Werner Heisenberg quantenmechanische Rätsel löste, indem er alleine durch die Bayerischen Alpen wanderte. Entdecken Sie die Wissenschaft der Aufmerksamkeitswiederherstellung und DMN-Inkubation."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-06"
+updatedDate: "2026-02-06"
 category: "BuildSelf"
-tags: ["Hinweise z","Routine"]
-heroImage: "/images/blog/heisenberg_alpine_hiking.png"
+tags: ["사색", "이완", "창의성"]
+heroImage: "/images/blog/heisenberg_alpine_hiking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Werner Heisenbergs *Der Teil und das Ganze*, Archiven der Bayerischen Akademie der Wissenschaften & Forschung der kognitiven Neurowissenschaften und Umweltpsychologie"

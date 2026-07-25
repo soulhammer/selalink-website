@@ -1,11 +1,11 @@
 ---
 title: "午夜0点的觉醒：巴尔扎克结合咖啡的12小时超专注写作法"
 description: "探索19世纪法国批判现实主义文学大师奥诺雷·德·巴尔扎克践行的深夜写作与咖啡唤醒习惯，揭示彻底阻断外部刺激并将大脑注意力提升至极限的超专注神经科学机制。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-14"
+updatedDate: "2026-02-14"
 category: "BuildSelf"
-tags: ["午夜0点的觉醒：巴尔","Routine"]
-heroImage: "/images/blog/balzac_extreme_focus.png"
+tags: ["위인 습관", "오노레 드 발자크", "초몰입", "집중력", "시간관리"]
+heroImage: "/images/blog/balzac_extreme_focus.webp"
 app: "buildself"
 formatVersion: 4
 authority: "斯蒂芬·茨威格传记《巴尔扎克（Balzac）》考证与认知神经科学（Cognitive Neuroscience）研究"

@@ -1,11 +1,11 @@
 ---
 title: "Un Remedio Primitivo para el Agotamiento y la Depresión Existencial: La Rutina de Reinicio con Fútbol de Albert Camus"
 description: "Descubra cómo el premio Nobel y filósofo francés Albert Camus se lanzaba bajo los tres palos como guardameta durante sus bloqueos creativos, y explore los mecanismos neurocientíficos del desacople prefrontal y la alternancia cognitiva cerebelosa."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-21"
+updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: ["Un Remedio","Routine"]
-heroImage: "/images/blog/camus_football_reset.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/camus_football_reset.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la Biografía de Olivier Todd *Albert Camus: Una vida (Albert Camus: A Life)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"

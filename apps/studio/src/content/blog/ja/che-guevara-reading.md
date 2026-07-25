@@ -1,11 +1,11 @@
 ---
 title: "ジャングルの中の陣地でも本を手にした理由：チェ・ゲバラの没頭読書と認知再構造化"
 description: "キューバ革命の英雄チェ・ゲバラがゲリラ戦という極度のストレス戦場の中でも毎日厚い本を読み思想を整えたルーティン。深い読書（Deep Reading）が前頭葉の認知制御ネットワークを活性化し生存ストレスを遮断する神経科学的原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-09"
+updatedDate: "2026-02-09"
 category: "BuildSelf"
-tags: ["ジャングルの中の陣地","Routine"]
-heroImage: "/images/blog/che_guevara_reading.png"
+tags: ["위인 습관", "체게바라", "매일독서", "인지재구조화", "신념단련"]
+heroImage: "/images/blog/che_guevara_reading.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ジョン・リー・アンダーソン伝記『Che Guevara: A Revolutionary Life』考証＆認知神経科学（Cognitive Neuroscience）研究"

@@ -1,11 +1,11 @@
 ---
 title: "Kursi Goyang Oval Office Gedung Putih: Terobosan Nyeri Tulang Belakang John F. Kennedy dan Relaksasi Vestibular"
 description: "Pelajari bagaimana John F. Kennedy memimpin AS selama krisis Perang Dingin sambil menahan nyeri tulang belakang yang parah menggunakan kursi goyang di Oval Office. Temukan neurosains stimulasi vestibular, aktivasi sistem saraf parasimpatis, dan panduan 3 langkah."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-10"
+updatedDate: "2026-02-10"
 category: "BuildSelf"
-tags: ["Kursi Goya","Routine"]
-heroImage: "/images/blog/kennedy_rocking_chair.png"
+tags: ["위인 습관", "존 F. 케네디", "스트레스 해소", "척추 건강", "휴식"]
+heroImage: "/images/blog/kennedy_rocking_chair.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Perpustakaan Presidensial John F. Kennedy, Arsip Dr. Janet Travell & Penelitian Neurosains Kognitif serta Ortopedi"

@@ -1,11 +1,11 @@
 ---
 title: "Le romancier qui marchait d'un pas vif 3 heures chaque après-midi : La routine d'idées et d'activation du DMN de Charles Dickens"
 description: "Découvrez comment le géant de la littérature Charles Dickens concevait des personnages et des intrigues complexes grâce à une marche quotidienne de 3 heures. Explorez la neuroscience cognitive de l'activation du DMN et de la sécrétion de BDNF."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-23"
+updatedDate: "2026-05-23"
 category: "BuildSelf"
-tags: ["Le romanci","Routine"]
-heroImage: "/images/blog/dickens_afternoon_walk.png"
+tags: ["위인 습관", "찰스 디킨스", "산책", "창의성", "아이디어"]
+heroImage: "/images/blog/dickens_afternoon_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de la biographie de John Forster *La Vie de Charles Dickens (The Life of Charles Dickens)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

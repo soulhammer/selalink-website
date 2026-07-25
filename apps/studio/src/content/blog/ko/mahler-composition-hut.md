@@ -1,11 +1,11 @@
 ---
 title: "완벽한 고립의 힘: 구스타프 말러의 작곡 오두막 루틴"
 description: "여름마다 알프스 숲속 오두막에 자신을 격리하고 거대한 교향곡을 창작한 작곡가 구스타프 말러. 외부 자극을 차단하여 뇌를 '딥 워크(Deep Work)' 상태로 진입시키는 몰입의 공간 심리학을 연구합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-19"
+updatedDate: "2026-01-19"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/mahler_composition_hut.png"
+tags: ["위인 습관", "구스타프 말러", "집중", "사색", "환경", "창의성"]
+heroImage: "/images/blog/mahler_composition_hut.webp"
 app: "buildself"
 formatVersion: 4
 authority: "구스타프 말러 작곡 오두막(Composition Hut) 역사적 기록 고증 및 인지신경과학(Cognitive Neuroscience) 연구"

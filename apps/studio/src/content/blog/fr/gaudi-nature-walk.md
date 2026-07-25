@@ -1,11 +1,11 @@
 ---
 title: "Le maître qui arpentait 4 km dans Barcelone : La méthode de marche créative et la routine d'inspiration organique d'Antoni Gaudí"
 description: "Découvrez comment l'architecte de génie Antoni Gaudí a transposé les structures naturelles dans l'architecture en marchant 4 km par jour dans Barcelone. Explorez la neuroscience cognitive de la marche créative."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-13"
+updatedDate: "2026-04-13"
 category: "BuildSelf"
-tags: ["Le maître ","Routine"]
-heroImage: "/images/blog/gaudi_nature_walk.png"
+tags: ["위인 습관", "안토니 가우디", "창의성", "산책", "영감"]
+heroImage: "/images/blog/gaudi_nature_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de la biographie de Gijs van Hensbergen *Gaudí : La Biographie* & de la Recherche en Neurosciences Cognitives et Psychologie Environnementale"

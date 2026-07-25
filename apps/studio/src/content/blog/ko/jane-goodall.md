@@ -1,11 +1,11 @@
 ---
 title: "침팬지 곁 바위에 앉아 평생 관찰하고 기록한 제인 구달의 몰입 습관과 선택적 주의집중 루틴"
 description: "아프리카 곰베 정글에서 침팬지 무리와 함께 생활한 동물행동학자 제인 구달. 판단을 철저히 배제하고 대상을 정밀 응시하여 과학적 통찰을 이끌어낸 3단계 관찰 몰입 루틴과 감각 연합 피질 활성화 원리를 탐구합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-09"
+updatedDate: "2026-05-09"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/jane_goodall.png"
+tags: ["위인 습관", "제인 구달", "사색", "성찰"]
+heroImage: "/images/blog/jane_goodall.webp"
 app: "buildself"
 formatVersion: 4
 authority: "제인 구달 자서전 『희망의 이유(Reason for Hope)』 및 곰베 연구 센터(Gombe Stream Research Centre) 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 동물행동학(Ethology) 연구"

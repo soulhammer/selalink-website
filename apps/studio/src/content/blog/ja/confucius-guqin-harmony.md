@@ -4,8 +4,8 @@ description: "東洋思想の偉大な師・孔子が乱世と14年の放浪の�
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["心の混乱を整える音律","Routine"]
-heroImage: "/images/blog/confucius_guqin_harmony.png"
+tags: ["위인 습관", "공자", "거문고", "음악치료", "마음조율"]
+heroImage: "/images/blog/confucius_guqin_harmony.webp"
 app: "buildself"
 formatVersion: 4
 authority: "司馬遷『史記 孔子世家』および『論語』考証＆認知神経科学（Cognitive Neuroscience）研究"

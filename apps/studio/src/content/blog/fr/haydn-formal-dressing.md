@@ -1,11 +1,11 @@
 ---
 title: "Composer en costume trois-pièces à la maison ? : La routine de « cognition habillée » et l'interrupteur de concentration du père de la symphonie Joseph Haydn"
 description: "Découvrez pourquoi le compositeur Joseph Haydn revêtait un costume formel et une perruque avant de composer. Explorez la façon dont la tenue améliore la productivité grâce à la science de la « Cognition habillée » et de la cognition incarnée."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-04"
+updatedDate: "2026-04-04"
 category: "BuildSelf"
-tags: ["Composer e","Routine"]
-heroImage: "/images/blog/haydn_formal_dressing.png"
+tags: ["위인 습관", "생산성"]
+heroImage: "/images/blog/haydn_formal_dressing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue des biographies de Joseph Haydn (Dies & Griesinger), des archives Esterházy & de la Recherche en Neurosciences Cognitives"

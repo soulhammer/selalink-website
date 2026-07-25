@@ -1,11 +1,11 @@
 ---
 title: "Depot des philosophischen Denkens: Hegels dialektische Karteikarten-Methode und kognitive Gerüst-Routine"
 description: "Hinter Hegels Vollendung des deutschen Idealismus standen zehntausende Wissenskarten und ein Karteikastensystem. Entdecken Sie seine Methode des kognitiven Gerüstbaus (Cognitive Scaffolding) und einen 3-Schritte-Plan zur Erweiterung des Arbeitsgedächtnisses."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["Depot des ","Routine"]
-heroImage: "/images/blog/hegel_card_index.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/hegel_card_index.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus G. W. F. Hegel-Biografien, Archiven der *Phänomenologie des Geistes* & Forschung der kognitiven Neurowissenschaften"

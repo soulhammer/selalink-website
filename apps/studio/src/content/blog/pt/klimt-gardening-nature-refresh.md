@@ -1,11 +1,11 @@
 ---
 title: "O Pintor da Túnica Azul que Observava as Rosas Matinais: A Rotina de Caminhada no Jardim e Fascinação Suave de Gustav Klimt"
 description: "Descubra como o mestre da Fase Dourada Gustav Klimt restaurava sua atenção visual caminhando pelos jardins do lago Attersee na Áustria. Explore a Teoria da Restauração da Atenção (ART), o reinício pré-frontal, a percepção de fractais naturais e um guia de 3 passos."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-14"
+updatedDate: "2026-07-14"
 category: "BuildSelf"
-tags: ["O Pintor d","Routine"]
-heroImage: "/images/blog/klimt_gardening_nature_refresh.png"
+tags: ["위인 습관", "Routine"]
+heroImage: "/images/blog/klimt_gardening_nature_refresh.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica das Biografias de Gustav Klimt, Arquivos de Attersee e Pesquisa em Neurociência Cognitiva e Psicologia Ambiental"

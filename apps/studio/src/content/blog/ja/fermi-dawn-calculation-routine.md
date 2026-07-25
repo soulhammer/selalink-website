@@ -1,11 +1,11 @@
 ---
 title: "ゴールデンアワーの絶対集中：エンリコ・フェルミの朝2時間孤独計算習慣と認知ピークタイム没頭法"
 description: "初の人工原子炉を設計しノーベル賞を受賞した天才物理学者エンリコ・フェルミ。毎日正規の出勤前の早朝に2時間、ただ自分だけの計算問題に挑んだ認知ピークタイム活用術とコルチゾール覚醒反応の脳科学的原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-14"
+updatedDate: "2026-05-14"
 category: "BuildSelf"
-tags: ["ゴールデンアワーの絶","Routine"]
-heroImage: "/images/blog/fermi_dawn_calculation_routine.png"
+tags: ["집중", "생산성", "학습"]
+heroImage: "/images/blog/fermi_dawn_calculation_routine.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ローラ・フェルミ『わが夫エンリコ・フェルミ（Atoms in the Family: My Life with Enrico Fermi）』および自伝史料考証＆認知神経科学（Cognitive Neuroscience）研究"

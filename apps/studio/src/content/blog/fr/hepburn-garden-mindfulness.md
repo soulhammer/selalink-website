@@ -1,11 +1,11 @@
 ---
 title: "Le fondement de l'élégance : La routine de jardinage apaisante d'Audrey Hepburn et la science cérébrale du contact avec la terre"
 description: "Découvrez comment la légende d'Hollywood Audrey Hepburn a préservé sa sérénité et son élégance grâce au jardinage. Explorez la neuroscience du contact avec la terre, la bactérie Mycobacterium vaccae et la sérotonine."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-14"
+updatedDate: "2026-01-14"
 category: "BuildSelf"
-tags: ["Le fondeme","Routine"]
-heroImage: "/images/blog/hepburn_garden_mindfulness.png"
+tags: ["위인 습관", "오드리헵번", "정원가꾸기", "스트레스해소", "마음치유"]
+heroImage: "/images/blog/hepburn_garden_mindfulness.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue des biographies d'Audrey Hepburn, des archives de la propriété de Tolochenaz (Suisse) & de la Recherche en Neurosciences Cognitives et Psychologie Environnementale"

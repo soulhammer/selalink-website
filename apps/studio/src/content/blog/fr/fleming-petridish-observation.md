@@ -1,11 +1,11 @@
 ---
 title: "Le salut de l'humanité repêché dans la poubelle : La méthode d'observation de l'échec et la routine de découverte d'Alexandre Fleming"
 description: "Découvrez comment Alexander Fleming, l'inventeur de la pénicilline, a changé l'histoire de la médecine en observant une boîte de Petri contaminée au lieu de la jeter. Explorez la neuroscience de la fixation cognitive et de la pensée divergente."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-08"
+updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: ["Le salut d","Routine"]
-heroImage: "/images/blog/fleming_petridish_observation.png"
+tags: ["위인 습관", "알렉산더 플레밍", "실패 성찰", "확산적 사고", "세렌디피티"]
+heroImage: "/images/blog/fleming_petridish_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de l'ouvrage d'André Maurois *The Life of Sir Alexander Fleming*, des archives du Nobel & de la Recherche en Neurosciences Cognitives"

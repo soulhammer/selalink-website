@@ -1,11 +1,11 @@
 ---
 title: "A Walk to Awaken Brain Health: John Quincy Adams's Power Walking & Reflection Journal Routine"
 description: "John Quincy Adams, the 6th U.S. President, adhered to a daily 5-mile brisk walk and evening reflection journaling. Discover healthy brain habits that stimulate BDNF secretion."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-06"
+updatedDate: "2026-04-06"
 category: "BuildSelf"
-tags: ["Great Habits","adams","Routine","Stamina"]
-heroImage: "/images/blog/adams_morning_walk.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/adams_morning_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Biography and Autobiographical Records of John Quincy Adams & Cognitive Neuroscience Research"

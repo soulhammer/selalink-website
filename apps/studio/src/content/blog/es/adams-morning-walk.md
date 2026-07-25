@@ -1,11 +1,11 @@
 ---
 title: "Pasos para Despertar la Salud Cerebral: La Rutina de Caminata Rápida y Diario de Reflexión de John Quincy Adams"
 description: "El sexto presidente de EE. UU., John Quincy Adams, mantenía una caminata rápida diaria de 5 millas y la escritura de un diario nocturno. Descubra hábitos cerebrales saludables que estimulan la secreción de BDNF."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-06"
+updatedDate: "2026-04-06"
 category: "BuildSelf"
-tags: ["Pasos para","Routine"]
-heroImage: "/images/blog/adams_morning_walk.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/adams_morning_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de Biografías y Autobiografías de John Quincy Adams e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"

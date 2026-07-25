@@ -1,11 +1,11 @@
 ---
 title: "揺るぎない信念の中心：ジャンヌ・ダルクの朝の沈黙ルーティンと扁桃体安定化"
 description: "フランスの救国の聖女ジャンヌ・ダルク。百年戦争の渦中と死の恐怖の中でも不屈の闘志を守り抜いた秘密である「朝の沈黙の祈り」の神経心理学的安定効果、扁桃体鎮静、および3段階整列ルーティンを紹介します。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-12"
+updatedDate: "2026-02-12"
 category: "BuildSelf"
-tags: ["揺るぎない信念の中心","Routine"]
-heroImage: "/images/blog/joan_silent_reflection.png"
+tags: ["위인 습관", "잔다르크", "침묵명상", "신념정렬", "멘탈회복"]
+heroImage: "/images/blog/joan_silent_reflection.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ジャンヌ・ダルク裁判記録史料（Procès de Condamnation et de Réhabilitation）考証＆認知神経科学（Cognitive Neuroscience）研究"

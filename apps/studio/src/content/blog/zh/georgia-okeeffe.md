@@ -1,11 +1,11 @@
 ---
 title: "放大镜下凝视沙漠动物骸骨：乔治亚·欧姬芙的极限特写观察与视觉注意力引导习惯"
 description: "探索“美国现代主义之母”乔治亚·欧姬芙如何通过将沙漠动物骸骨与花瓣放大十倍观察，拉满大脑的选择性视觉注意力。揭示视觉联合皮层与特写观察习惯的神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-25"
+updatedDate: "2026-02-25"
 category: "BuildSelf"
-tags: ["放大镜下凝视沙漠动物","Routine"]
-heroImage: "/images/blog/georgia_okeeffe.png"
+tags: ["위인 습관", "조지아 오키프", "이완", "성찰"]
+heroImage: "/images/blog/georgia_okeeffe.webp"
 app: "buildself"
 formatVersion: 4
 authority: "乔治亚·欧姬芙自传《乔治亚·欧姬芙（Georgia O'Keeffe）》与圣菲欧姬芙博物馆史料考证及认知神经科学（Cognitive Neuroscience）研究"

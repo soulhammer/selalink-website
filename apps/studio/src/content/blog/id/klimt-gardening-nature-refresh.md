@@ -1,11 +1,11 @@
 ---
 title: "Pelukis Jubah Biru yang Mengamati Mawar Pagi: Rutinitas Jalan-Jalan Taman dan Soft Fascination Gustav Klimt"
 description: "Pelajari bagaimana maestro Era Keemasan Gustav Klimt memulihkan perhatian visual dengan berjalan-jalan di taman bunga Danau Attersee di Austria. Temukan Attention Restoration Theory (ART), reset prefrontal, fraktal alam, dan panduan praktis 3 langkah."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-14"
+updatedDate: "2026-07-14"
 category: "BuildSelf"
-tags: ["Pelukis Ju","Routine"]
-heroImage: "/images/blog/klimt_gardening_nature_refresh.png"
+tags: ["위인 습관", "Routine"]
+heroImage: "/images/blog/klimt_gardening_nature_refresh.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Biografi Gustav Klimt, Arsip Attersee & Penelitian Neurosains Kognitif serta Psikologi Lingkungan"

@@ -1,11 +1,11 @@
 ---
 title: "The Composer Who Solved Dilemmas on Afternoon Coastal Walks: Benjamin Britten's Brain Liberation Routine"
 description: "Discover how Benjamin Britten, 20th-century British musical titan, walked the coastline every afternoon to refine the musical structures composed during morning sessions, and explore the neuroscientific principles of Attention Restoration Theory (ART) and cognitive integration via the Default Mode Network."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-22"
+updatedDate: "2026-04-22"
 category: "BuildSelf"
-tags: ["Great Habits","britten","Routine","Stamina"]
-heroImage: "/images/blog/britten_afternoon_walk.png"
+tags: ["오후 해안가 산책으","Routine"]
+heroImage: "/images/blog/britten_afternoon_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Humphrey Carpenter's Biography *Benjamin Britten: A Biography* & Cognitive Neuroscience Research"

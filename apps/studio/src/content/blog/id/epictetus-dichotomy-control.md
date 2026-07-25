@@ -1,11 +1,11 @@
 ---
 title: "Filsuf Mantan Budak yang Mengajarkan untuk Mengabaikan Hal di Luar Kendali: Rutinitas Refleksi Malam Dikitomi Kendali Epictetus"
 description: "Pelajari bagaimana Epictetus, master Stoik yang lahir sebagai budak, mengeliminasi kecemasan harian dengan membagi realitas secara ketat antara apa yang ada dalam kendali kita dan apa yang tidak. Temukan metode jurnal malamnya melalui neurosains kognitif."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-15"
+updatedDate: "2026-05-15"
 category: "BuildSelf"
-tags: ["Filsuf Man","Routine"]
-heroImage: "/images/blog/epictetus_dichotomy_control.png"
+tags: ["위인 습관", "Routine"]
+heroImage: "/images/blog/epictetus_dichotomy_control.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari *Discourses* dan *Enchiridion* Epictetus & Penelitian Neurosains Kognitif"

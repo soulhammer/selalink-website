@@ -1,11 +1,11 @@
 ---
 title: "为了沉浸的环境屏蔽：玛雅·安杰洛的酒店隔离习惯"
 description: "传奇诗人兼社会活动家玛雅·安杰洛为了将注意力发挥到极致，只在毫无刺激的空酒店房间里写作。探索环境刺激控制的脑科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-21"
+updatedDate: "2026-03-21"
 category: "BuildSelf"
-tags: ["为了沉浸的环境屏蔽：","Routine"]
-heroImage: "/images/blog/angelou_hotel_isolation.png"
+tags: ["위인 습관", "마야 안젤루", "환경통제", "집중", "몰입"]
+heroImage: "/images/blog/angelou_hotel_isolation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "玛雅·安杰洛自传记录与梅森·柯里《Daily Rituals》考证与认知神经科学（Cognitive Neuroscience）研究"

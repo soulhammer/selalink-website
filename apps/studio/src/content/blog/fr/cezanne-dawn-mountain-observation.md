@@ -1,11 +1,11 @@
 ---
 title: "Percevoir la géométrie de la lumière : La routine d'observation de la lumière naturelle matinale et d'éveil du NSQ de Paul Cézanne"
 description: "Découvrez comment Paul Cézanne, père de l'art moderne, marchait vers la montagne Sainte-Victoire à 6h chaque matin pour observer la lumière et la forme. Explorez les principes neuroscientifiques montrant comment la lumière matinale stimule le NSQ et le cortex visuel."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-06"
+updatedDate: "2026-04-06"
 category: "BuildSelf"
-tags: ["Percevoir ","Routine"]
-heroImage: "/images/blog/cezanne_dawn_mountain_observation.png"
+tags: ["사색", "휴식", "창의성"]
+heroImage: "/images/blog/cezanne_dawn_mountain_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de la biographie d'Alex Danchev *Cézanne : Une vie (Cézanne: A Life)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

@@ -1,11 +1,11 @@
 ---
 title: "Efek Bunga Berganda dari Pengetahuan: Kebiasaan Membaca 500 Halaman Setiap Hari ala Warren Buffett dan Cadangan Kognitif"
 description: "Pelajari rahasia kesuksesan inti Warren Buffett—membaca 500 halaman setiap hari—dan temukan neurosains kognitif di balik penguatan konektivitas jaringan saraf, akumulasi cadangan kognitif, dan pengenalan pola yang dipercepat."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-10"
+updatedDate: "2026-06-10"
 category: "BuildSelf"
-tags: ["Efek Bunga","Routine"]
-heroImage: "/images/blog/buffett_reading_habit.png"
+tags: ["위인 습관", "워런 버핏", "독서", "투자", "성공습관", "학습"]
+heroImage: "/images/blog/buffett_reading_habit.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Biografi Alice Schroeder *The Snowball: Warren Buffett and the Business of Life* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

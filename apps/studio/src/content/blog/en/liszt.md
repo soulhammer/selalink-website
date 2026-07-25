@@ -1,11 +1,11 @@
 ---
 title: "Playing One Key per Second Errorless by Slowing the Tempo: Franz Liszt's Cerebellar Motor Learning Routine and Myelination"
 description: "Discover how legendary pianist Franz Liszt mastered virtuosic precision by slowing metronome tempos down to one key per second. Explore the neuroscience of cerebellar motor learning, myelin sheath insulation, errorless learning, and a 3-step action guide."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-14"
+updatedDate: "2026-04-14"
 category: "BuildSelf"
-tags: ["Great Habits","liszt","Routine","Stamina"]
-heroImage: "/images/blog/liszt.png"
+tags: ["위인 습관", "프란츠 리스트", "의지력", "시간 관리"]
+heroImage: "/images/blog/liszt.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Alan Walker's *Franz Liszt: The Virtuoso Years (1811-1847)*, Liszt Archives & Cognitive Neuroscience and Motor Learning Science Research"

@@ -1,11 +1,11 @@
 ---
 title: "Otak Anda Menyelesaikan Proposal Saat Anda Tidur: Rutinitas Tidur Bersama Manuskrip ala Joan Didion dan Priming Tidur REM"
 description: "Pelajari bagaimana esaiis legendaris Amerika Joan Didion tidur di kamar yang sama dengan manuskripnya yang belum selesai untuk mengurai narasi yang rumit. Temukan neurosains kognitif tentang priming kognitif dan konsolidasi memori selama tidur REM."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-02"
+updatedDate: "2026-06-02"
 category: "BuildSelf"
-tags: ["Otak Anda ","Routine"]
-heroImage: "/images/blog/didion_manuscript_sleeping.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/didion_manuscript_sleeping.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Biografi Tracy Daugherty *The Last Love Song* & *The Paris Review* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

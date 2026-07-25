@@ -1,11 +1,11 @@
 ---
 title: "The 3-Mile Walk That Awakened the Unconscious: Sigmund Freud's Evening Brisk Walking Routine and Unconscious Journaling"
 description: "Discover how Sigmund Freud, the father of psychoanalysis, restored brain balance and accessed the unconscious by taking brisk 3-mile walks through Vienna every evening after demanding clinical sessions. Explore the cognitive neuroscience of bilateral stimulation and handwriting."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-09"
+updatedDate: "2026-07-09"
 category: "BuildSelf"
-tags: ["Great Habits","freud","Routine","Stamina"]
-heroImage: "/images/blog/freud_evening_walk.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/freud_evening_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Sigmund Freud's *An Autobiographical Study*, Sigmund Freud Museum Archives (Vienna) & Cognitive Neuroscience Research"

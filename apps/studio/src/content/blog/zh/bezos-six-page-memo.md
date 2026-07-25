@@ -1,11 +1,11 @@
 ---
 title: "30分钟的沉寂与6页备忘录：杰夫·贝佐斯的亚马逊会议法与阅读神经科学"
 description: "探索杰夫·贝佐斯在亚马逊禁止PPT演示、要求在会议开始后静心研读30分钟6页叙事性备忘录的决策秘诀，揭示以因果关系为核心的叙事性阅读如何刺激前额叶皮层并最大化提升判断力的神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-19"
+updatedDate: "2026-01-19"
 category: "BuildSelf"
-tags: ["30分钟的沉寂与6页","Routine"]
-heroImage: "/images/blog/bezos_six_page_memo.png"
+tags: ["위인 습관", "제프 베조스", "의사결정", "계획", "생산성"]
+heroImage: "/images/blog/bezos_six_page_memo.webp"
 app: "buildself"
 formatVersion: 4
 authority: "杰夫·贝佐斯致股东信（Shareholder Letter）与柯林·布里亚《逆向工作法（Working Backwards）》考证与认知神经科学（Cognitive Neuroscience）研究"

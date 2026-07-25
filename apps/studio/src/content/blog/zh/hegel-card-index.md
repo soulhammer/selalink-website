@@ -1,11 +1,11 @@
 ---
 title: "哲学沉思的档案馆：黑格尔的辩证法卡片索引记录术与认知支架习惯"
 description: "在黑格尔集大成德国唯心主义哲学背后，藏着数万张知识卡片与严苛的提箱分类归档系统。揭示突破工作记忆瓶颈的“认知支架（Cognitive Scaffolding）”与3步骤实践指南。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["哲学沉思的档案馆：黑","Routine"]
-heroImage: "/images/blog/hegel_card_index.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/hegel_card_index.webp"
 app: "buildself"
 formatVersion: 4
 authority: "格奥尔格·威廉·弗里德里希·黑格尔传记与黑格尔著作集《精神现象学（Phänomenologie des Geistes）》考证及认知神经科学（Cognitive Neuroscience）研究"

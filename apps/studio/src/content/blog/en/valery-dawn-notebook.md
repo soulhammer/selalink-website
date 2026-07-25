@@ -1,11 +1,11 @@
 ---
 title: "새벽 4시의 카이에: 폴 발레리의 의식 기록법"
 description: "51년간 매일 새벽 4시에 일어나 자필 노트 『카이에』를 채웠던 시인 폴 발레리. 외부 자극이 차단된 이른 아침의 정적이 전두엽의 성찰 및 분석 지능을 최고조로 깨우는 과학적 이유를 다룹니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-19"
+updatedDate: "2026-04-19"
 category: "BuildSelf"
-tags: ["Great Habits","valery","Routine","Stamina"]
-heroImage: "/images/blog/valery_dawn_notebook.png"
+tags: ["위인 습관", "폴 발레리", "기록", "아이디어", "집중"]
+heroImage: "/images/blog/valery_dawn_notebook.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Valery Dawn Notebook 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

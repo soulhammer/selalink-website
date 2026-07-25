@@ -4,8 +4,8 @@ description: "Johann Sebastian Bach embodied mathematical rules throughout his l
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["Great Habits","bach","Routine","Stamina"]
-heroImage: "/images/blog/bach_pattern_transcription.png"
+tags: ["위인 습관", "바흐", "필사", "손글씨", "학습법"]
+heroImage: "/images/blog/bach_pattern_transcription.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Johann Nikolaus Forkel's *Johann Sebastian Bach: His Life, Art, and Works (1802)* & Cognitive Neuroscience Research"

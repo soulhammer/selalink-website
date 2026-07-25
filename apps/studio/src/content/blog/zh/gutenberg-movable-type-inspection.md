@@ -1,11 +1,11 @@
 ---
 title: "印刷革命巨匠：古腾堡的晨间金属活字精密误差检验习惯与ERN错误检测机制"
 description: "探索金属活字发明家古腾堡每天清晨如何通过手触与眼观测检验活字平整度误差，捍卫系统标准与印制品质。揭示前扣带皮层（ACC）与错误相关负波（ERN）的神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-04"
+updatedDate: "2026-06-04"
 category: "BuildSelf"
-tags: ["印刷革命巨匠：古腾堡","Routine"]
-heroImage: "/images/blog/gutenberg_movable_type_inspection.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/gutenberg_movable_type_inspection.webp"
 app: "buildself"
 formatVersion: 4
 authority: "约翰内斯·古腾堡传记与美因茨古腾堡博物馆（Gutenberg Museum Mainz）史料考证及认知神经科学（Cognitive Neuroscience）研究"

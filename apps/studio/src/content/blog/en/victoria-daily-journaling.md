@@ -1,11 +1,11 @@
 ---
 title: "제국의 무게와 성찰: 빅토리아 여왕의 매일 저녁 일기 쓰기 습관"
 description: "대영제국 전성기를 통치한 빅토리아 여왕이 평생 122권의 일기를 쓴 성찰 습관. 손으로 쓰는 표현적 글쓰기가 부교감 신경을 활성화하고 전두엽을 정돈하는 과학적 기전을 살펴봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["Great Habits","victoria","Routine","Stamina"]
-heroImage: "/images/blog/victoria_daily_journaling.png"
+tags: ["기록", "성찰", "자기계발"]
+heroImage: "/images/blog/victoria_daily_journaling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Victoria Daily Journaling 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

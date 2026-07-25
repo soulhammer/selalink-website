@@ -1,11 +1,11 @@
 ---
 title: "쓰레기통 속에서 건져 올린 인류의 구원: 알렉산더 플레밍의 실패 관찰법과 예외 발견 루틴"
 description: "페니실린의 위대한 발견자 알렉산더 플레밍. 실수로 오염된 배양 접시를 무심히 버리지 않고 꼼꼼히 들여다보던 습관이 어떻게 인류의 운명을 바꾸었는지 인지적 고착 극복과 확산적 사고의 뇌과학적 원리를 탐구합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-08"
+updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/fleming_petridish_observation.png"
+tags: ["위인 습관", "알렉산더 플레밍", "실패 성찰", "확산적 사고", "세렌디피티"]
+heroImage: "/images/blog/fleming_petridish_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "알렉산더 플레밍 평전 및 안드레 모로아 『플레밍 평전(The Life of Sir Alexander Fleming)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

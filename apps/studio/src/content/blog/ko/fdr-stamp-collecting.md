@@ -1,11 +1,11 @@
 ---
 title: "프랭클린 D. 루스벨트의 '우표 분류': 격무 속 뇌를 구한 인지적 이완 루틴과 아날로그 숙면법"
 description: "전쟁과 경제 위기의 스트레스 속에서도 매일 밤 우표 분류로 뇌의 긴장을 풀었던 루스벨트 대통령. 숙면과 스트레스 해소를 돕는 인지적 이완의 원리와 뇌과학적 메커니즘을 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-02"
+updatedDate: "2026-07-02"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/fdr_stamp_collecting.png"
+tags: ["위인 습관", "루스벨트", "스트레스 해소", "휴식 루틴", "취침 전 습관"]
+heroImage: "/images/blog/fdr_stamp_collecting.webp"
 app: "buildself"
 formatVersion: 4
 authority: "프랭클린 D. 루스벨트 평전 및 FDR 대통령 도서관(FDR Presidential Library) 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

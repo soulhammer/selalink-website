@@ -1,11 +1,11 @@
 ---
 title: "침대에서 점심까지 안 일어난 천재: 르네 데카르트의 명상 사색 루틴과 알파파 이완"
 description: "근대 철학의 아버지이자 수학자 르네 데카르트가 매일 아침 침대에 누워 사색과 명상에 몰두했던 루틴. 수평 자세 유지를 통한 저코르티솔 상태와 알파파(Alpha Wave) 유도의 인지신경과학적 원리를 밝힙니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-25"
+updatedDate: "2026-01-25"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/descartes_lying_meditation.png"
+tags: ["위인 습관", "르네 데카르트", "아침 루틴", "명상", "집중력"]
+heroImage: "/images/blog/descartes_lying_meditation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "르네 데카르트 『방법서설(Discourse on the Method)』 및 평전 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

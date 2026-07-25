@@ -1,11 +1,11 @@
 ---
 title: "Solidaritas Intelektual di Taman Sederhana: Percakapan dan Rutinitas Makan Hemat Epicurus untuk Ketenangan Jiwa"
 description: "Pelajari bagaimana Epicurus membangun 'Taman' di luar Athena untuk berbagi makanan sederhana dan refleksi mendalam dengan teman-teman terpercaya. Temukan neurosains tentang rasa aman psikologis, oksitosin, dan serotonin yang memicu ketenangan mendalam."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-20"
+updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: ["Solidarita","Routine"]
-heroImage: "/images/blog/epicurus_garden_conversation.png"
+tags: ["휴식", "안정", "사색"]
+heroImage: "/images/blog/epicurus_garden_conversation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari *Lives and Opinions of Eminent Philosophers* karya Diogenes Laertius, Surat-Surat Epicurus & Penelitian Neurosains Kognitif"

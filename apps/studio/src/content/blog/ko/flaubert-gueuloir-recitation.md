@@ -1,11 +1,11 @@
 ---
 title: "완벽한 문장을 낳는 소리: 귀스타브 플로베르의 '포효실' 문장 낭독 습관과 청각 피드백 루틴"
 description: "일물일어설을 지향하며 단어 하나도 허투루 쓰지 않았던 소설가 플로베르. 뇌의 운동 피질과 청각적 피드백을 활용하여 문장의 논리성과 운율을 극한으로 높였던 그의 '포효실' 낭독 비밀과 뇌과학적 원리를 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-20"
+updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/flaubert_gueuloir_recitation.png"
+tags: ["글쓰기", "창의성", "기록"]
+heroImage: "/images/blog/flaubert_gueuloir_recitation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "귀스타브 플로베르 서간집(Correspondance) 및 평전 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

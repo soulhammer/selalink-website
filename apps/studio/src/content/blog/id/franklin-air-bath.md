@@ -1,11 +1,11 @@
 ---
 title: "30 Menit Setiap Pagi: Metode Kesehatan 'Mandi Udara' Benjamin Franklin yang Unik dan Rutinitas Reset Saraf Otonom"
 description: "Pelajari bagaimana Benjamin Franklin, penemu penangkal petir dan Pendiri AS, mempraktikkan 'mandi udara' pagi hari secara bertelanjang di dekat jendela terbuka. Temukan neurosains tentang reseptor dingin kulit (TRPM8) dan norepinefrin."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-12"
+updatedDate: "2026-02-12"
 category: "BuildSelf"
-tags: ["30 Menit S","Routine"]
-heroImage: "/images/blog/franklin_air_bath.png"
+tags: ["위인 습관", "벤자민 프랭클린", "아침 루틴", "면역력", "각성"]
+heroImage: "/images/blog/franklin_air_bath.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari *The Autobiography of Benjamin Franklin*, Surat-Surat Franklin kepada M. Barbeu Dubourg & Penelitian Neurosains Kognitif"

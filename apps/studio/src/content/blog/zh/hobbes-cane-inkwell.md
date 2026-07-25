@@ -1,11 +1,11 @@
 ---
 title: "手杖头上镶嵌墨水瓶的哲学家：托马斯·霍布斯的即时速记法与认知外置习惯"
 description: "探索思想家托马斯·霍布斯如何在手杖头上安装墨水瓶、第一时间定格漫步灵感。揭示大脑放松时捕捉闪光思路的工作记忆拓宽原理、预设模式网络（DMN）与3步骤实践指南。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-16"
+updatedDate: "2026-03-16"
 category: "BuildSelf"
-tags: ["手杖头上镶嵌墨水瓶的","Routine"]
-heroImage: "/images/blog/hobbes_cane_inkwell.png"
+tags: ["산책 지팡이에 잉크","Routine"]
+heroImage: "/images/blog/hobbes_cane_inkwell.webp"
 app: "buildself"
 formatVersion: 4
 authority: "约翰·奥布里（John Aubrey）《简明传记（Brief Lives）》与托马斯·霍布斯史料考证及认知神经科学（Cognitive Neuroscience）研究"

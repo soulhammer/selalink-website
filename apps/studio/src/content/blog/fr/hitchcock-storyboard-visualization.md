@@ -1,11 +1,11 @@
 ---
 title: "Compléter 100 % dans l'esprit avant tout : La routine de storyboard visuel et la simulation mentale d'Alfred Hitchcock"
 description: "Découvrez la routine de storyboard d'Alfred Hitchcock avant le tournage. Explorez comment la simulation mentale active les réseaux d'exécution motrice et élimine la fatigue décisionnelle."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-08"
+updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: ["Compléter ","Routine"]
-heroImage: "/images/blog/hitchcock_storyboard_visualization.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/hitchcock_storyboard_visualization.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue des biographies d'Alfred Hitchcock, des entretiens de François Truffaut *Mister Hitchcock (Hitchcock/Truffaut)* & de la Recherche en Neurosciences Cognitives"

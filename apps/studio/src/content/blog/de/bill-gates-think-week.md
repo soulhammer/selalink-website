@@ -1,11 +1,11 @@
 ---
 title: "Eine Woche der Entkopplung: Bill Gates' 'Think Week' und geräuschloses Deep Work"
 description: "Erkunden Sie Bill Gates' Hütten-Isolations-Lese-Routine 'Think Week', die Microsofts große Sprünge vorantrieb, und entdecken Sie die neurowissenschaftlichen Prinzipien zur Beseitigung von Aufmerksamkeitsrückständen und zur Maximierung langfristiger Gehirnerkenntnisse."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-08"
+updatedDate: "2026-01-08"
 category: "BuildSelf"
-tags: ["Eine Woche","Routine"]
-heroImage: "/images/blog/bill_gates_think_week.png"
+tags: ["위인 습관", "빌 게이츠", "집중력", "사색", "독서"]
+heroImage: "/images/blog/bill_gates_think_week.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Walter Isaacsons Biografie & Microsoft-Archiven & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

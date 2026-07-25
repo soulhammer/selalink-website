@@ -1,11 +1,11 @@
 ---
 title: "极静沈寂中孕育不朽巨著：弗兰兹·卡夫卡子夜写作习惯与前额叶下调机制"
 description: "探索20世纪现代主义文学巨匠弗兰兹·卡夫卡如何在子夜11点至破晓时分、在绝对沉寂中创作出《变形记》等不朽名篇。揭示前额叶下调（Frontal Down-regulation）与工作记忆深度沉浸的神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-01"
+updatedDate: "2026-04-01"
 category: "BuildSelf"
-tags: ["极静沈寂中孕育不朽巨","Routine"]
-heroImage: "/images/blog/kafka_late_night_writing.png"
+tags: ["위인 습관", "프란츠 카프카", "밤샘 루틴", "집중력", "창의성"]
+heroImage: "/images/blog/kafka_late_night_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "麦克斯·布洛德《卡夫卡传（Franz Kafka: Eine Biographie）》与日记史料考证及认知神经科学（Cognitive Neuroscience）研究"

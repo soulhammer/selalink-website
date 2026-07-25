@@ -1,11 +1,11 @@
 ---
 title: "思考の行き止まりでバイオリンを奏でた天才：アルベルト・アインシュタインのリセットルーティンと認知転換法"
 description: "物理学のパラダイムを変えたアルベルト・アインシュタイン。研究中に思考が行き詰まるたびにバイオリンを演奏した彼のユニークな脳リセット法と、現代人のための3段階認知転換実践法を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-05"
+updatedDate: "2026-03-05"
 category: "BuildSelf"
-tags: ["思考の行き止まりでバ","Routine"]
-heroImage: "/images/blog/einstein_violin_thinking.png"
+tags: ["위인 습관", "알베르트 아인슈타인", "창의성", "휴식", "아이디어"]
+heroImage: "/images/blog/einstein_violin_thinking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "アルベルト・アインシュタイン随筆集『我が世界観（Out of My Later Years）』およびウォルター・アイザックソン評伝『アインシュタイン その生涯と宇宙』考証＆認知神経科学（Cognitive Neuroscience）研究"

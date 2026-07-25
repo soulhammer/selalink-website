@@ -1,11 +1,11 @@
 ---
 title: "L'intuition au bout des doigts et l'innovation à 6 points : La routine de simplification essentielle et de tronçonnage de Louis Braille"
 description: "Découvrez comment Louis Braille a simplifié l'écriture nocturne militaire complexe à 12 points en un système à 6 points tenant sous la pulpe d'un seul doigt, déclenchant une révolution de l'accès au savoir, et explorez les principes neuroscientifiques du tronçonnage de la mémoire de travail tactile."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-04"
+updatedDate: "2026-05-04"
 category: "BuildSelf"
-tags: ["L'intuitio","Routine"]
-heroImage: "/images/blog/braille_tactile_simplification.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/braille_tactile_simplification.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de la biographie de C. Michael Mellor *Louis Braille: A Touch of Genius* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

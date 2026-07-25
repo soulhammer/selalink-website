@@ -1,11 +1,11 @@
 ---
 title: "고독한 사유의 해독제: 데이비드 흄의 저녁 사교 및 백개먼·체스 루틴과 정서 이완"
 description: "현대 인지과학의 모태가 된 철학자 데이비드 흄은 낮에는 치열하게 사유하고 저녁에는 사람들과 식사하며 백개먼과 체스를 즐겼습니다. 옥시토신과 세로토닌 분비를 유도하고 뇌의 인지 과부하를 막는 흄의 소셜 리셋 루틴을 배웁니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-18"
+updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/hume_social_refresh.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/hume_social_refresh.webp"
 app: "buildself"
 formatVersion: 4
 authority: "데이비드 흄 저작집 『인간지성론(A Treatise of Human Nature, 1739)』, 자서전 『나의 생애(My Own Life)』 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

@@ -18,7 +18,17 @@ faqs:
 
 드레스처럼 펼쳐지는 지느러미와 우아한 헤엄을 자랑하는 베타(Betta)는 관상어 중 가장 강렬한 매력을 가진 보석 같은 물고기입니다. 세계소동물수의사회(WSAVA)의 관상어 복지 가이드에 따르면, 베타는 공기 중 산소를 직접 호흡하는 '라비린스(Labyrinth) 기관'을 갖고 있어 수면 근처에 휴식할 수 있는 수초나 베타 침대(Leaf bed)가 필수적이며, 약한 수류와 안정적 수온(24°C ~ 26°C)이 유지되어야 녹는 지느러미 병(Fin Rot)을 예방할 수 있습니다.
 
-이러한 규칙적인 습관과 몰입 루틴은 뇌의 전두엽 및 신경 가소성을 활성화하여 일상의 집중력과 뇌 피로 회복을 극대화합니다.
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
+  <span class="text-2xl">🛡️</span>
+  <div>
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      수의학적 & 행동학적 근거
+    </h5>
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
+      본 콘텐츠는 <strong>World Small Animal Veterinary Association (WSAVA) Aquatic Animal Health Standards</strong>에 기반하고 있습니다.
+    </p>
+  </div>
+</div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">

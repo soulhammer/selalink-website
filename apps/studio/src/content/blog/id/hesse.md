@@ -1,11 +1,11 @@
 ---
 title: "Merawat Tanah dan Mencabut Rumput Liar di Kebun Pedesaan: Metode Kontemplasi Alam dan Rutinitas Relaksasi DMN Hermann Hesse"
 description: "Pelajari bagaimana peraih Nobel dan penulis pasifis Hermann Hesse mengelola kelelahan saraf dan kecemasan mendalam dengan menyentuh tanah kebun dan memangkas cabang setiap hari. Teliti neurosains di balik rutinitas tukang kebunnya."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-16"
+updatedDate: "2026-02-16"
 category: "BuildSelf"
-tags: ["Merawat Ta","Routine"]
-heroImage: "/images/blog/hesse.png"
+tags: ["위인 습관", "헤르만 헤세", "휴식", "성찰"]
+heroImage: "/images/blog/hesse.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari esai Hermann Hesse *Kegembiraan Berkebun (Freude am Garten)* & Kumpulan Surat, serta Penelitian Neurosains Kognitif dan Psikologi Lingkungan"

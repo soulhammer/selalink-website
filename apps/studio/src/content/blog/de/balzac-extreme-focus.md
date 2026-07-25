@@ -1,11 +1,11 @@
 ---
 title: "Mitternächtliches Erwachen: Honoré de Balzacs 12-Stunden-Hyperfokus-Schreibmethode mit Kaffee"
 description: "Erkunden Sie die von Honoré de Balzac, dem Meister des französischen Realismus des 19. Jahrhunderts, praktizierte nächtliche Schreib- und Kaffee-Weckroutine und entdecken Sie den neurowissenschaftlichen Mechanismus des Hyperfokus, der externe Reize ausschaltet und die gehirneigene Konzentration auf das Äußerste steigert."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-14"
+updatedDate: "2026-02-14"
 category: "BuildSelf"
-tags: ["Mitternäch","Routine"]
-heroImage: "/images/blog/balzac_extreme_focus.png"
+tags: ["위인 습관", "오노레 드 발자크", "초몰입", "집중력", "시간관리"]
+heroImage: "/images/blog/balzac_extreme_focus.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Stefan Zweigs Biografie *Balzac* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

@@ -1,11 +1,11 @@
 ---
 title: "Der Antrieb hinter 500 Bänden im Exil: Dasan Jeong Yak-yongs selektives Abschreiben, Briefeschreiben und kognitive Kodierungsroutine"
 description: "Erfahren Sie, wie Joseons bedeutendster Silhak-Gelehrter, Dasan Jeong Yak-yong, während seines 18-jährigen Exils über 500 Bände durch selektives Abschreiben ('Choseo') und Briefe an seine Söhne verfasste. Entdecken Sie die Neurowissenschaften der graphomotorischen kognitiven Kodierung."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-01"
+updatedDate: "2026-02-01"
 category: "BuildSelf"
-tags: ["Der Antrie","Routine"]
-heroImage: "/images/blog/jeong_yakyong_transcription.png"
+tags: ["위인 습관", "정약용", "초서독서", "메타인지", "지식구조화"]
+heroImage: "/images/blog/jeong_yakyong_transcription.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Dasan Jeong Yak-yongs Gesamtausgabe *Yeoyudang Jeonseo*, Autobiografie *Saam Yeonbo* & Forschung der kognitiven Neurowissenschaften und Metakognition"

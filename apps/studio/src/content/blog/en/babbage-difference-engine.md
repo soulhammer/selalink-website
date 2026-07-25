@@ -4,7 +4,7 @@ description: "Discover the historical facts of 19th-century father of computers 
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["Great Habits","babbage","Routine","Stamina"]
+tags: ["위습관","루틴"]
 heroImage: "/images/blog/babbage_difference_engine.png"
 app: "buildself"
 formatVersion: 4

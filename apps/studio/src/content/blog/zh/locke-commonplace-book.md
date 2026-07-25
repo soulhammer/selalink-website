@@ -1,11 +1,11 @@
 ---
 title: "1分钟内检索过往记录的哲学家：约翰·洛克的“基项簿”索引法与联想记忆网络"
 description: "深度剖析经验主义泰斗约翰·洛克如何借由独特的字母母音网格索引系统精细厘定浩瀚知识。揭示激活联想记忆、缩短语意距离、解降前额叶提取（Recall）负荷的神经科学原理与3步骤指南。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-19"
+updatedDate: "2026-03-19"
 category: "BuildSelf"
-tags: ["1分钟内检索过往记录","Routine"]
-heroImage: "/images/blog/locke_commonplace_book.png"
+tags: ["1분 안에 과거의 ","Routine"]
+heroImage: "/images/blog/locke_commonplace_book.webp"
 app: "buildself"
 formatVersion: 4
 authority: "约翰·洛克著作《基项簿新索引法（A New Method of a Commonplace-Book，1686）》史料考证及认知神经科学（Cognitive Neuroscience）与认知心理学（Cognitive Psychology）研究"

@@ -1,11 +1,11 @@
 ---
 title: "El Reloj de Königsberg: La Caminata Diaria de Immanuel Kant a las 3:30 PM y la Precisión del Ritmo Circadiano"
 description: "Descubra cómo el titán de la filosofía moderna Immanuel Kant mantuvo una claridad mental inigualable caminando a las 3:30 PM en Königsberg. Explore la neurociencia de la estimulación del núcleo supraquiasmático (NSQ) y la respiración nasal."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-18"
+updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: ["El Reloj d","Routine"]
-heroImage: "/images/blog/kant_walk.png"
+tags: ["위인 습관", "임마누엘 칸트", "산책", "규율", "휴식"]
+heroImage: "/images/blog/kant_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de *Kant: Una biografía* de Manfred Kuehn, Archivos de Königsberg e Investigación en Neurociencia Cognitiva"

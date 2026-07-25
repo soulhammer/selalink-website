@@ -1,11 +1,11 @@
 ---
 title: "Le magnat qui accomplissait la tâche la plus difficile dès le matin : La routine d'exécution prioritaire d'Andrew Carnegie"
 description: "Découvrez comment le magnat de l'acier Andrew Carnegie s'attaquait à sa tâche la plus lourde dès les heures d'or du matin, lorsque les ressources préfrontales étaient rechargées, et percez la neuroscience cognitive de la prévention de l'épuisement de l'ego."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["Le magnat ","Routine"]
-heroImage: "/images/blog/carnegie_priority_first.png"
+tags: ["위인 습관", "앤드류 카네기", "우선순위", "의지력", "생산성"]
+heroImage: "/images/blog/carnegie_priority_first.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de l'autobiographie d'Andrew Carnegie *Autobiographie d'Andrew Carnegie (Autobiography of Andrew Carnegie)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

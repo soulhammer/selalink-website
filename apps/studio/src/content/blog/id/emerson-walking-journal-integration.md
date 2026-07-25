@@ -1,11 +1,11 @@
 ---
 title: "Duet Divergensi dan Konvergensi: Catatan Jalan-Jalan dan Rutinitas Jurnal Malam Ralph Waldo Emerson"
 description: "Pelajari bagaimana filsuf Amerika Ralph Waldo Emerson mengubah percikan ide sekilas menjadi sistem filosofis organik dengan memadukan catatan jalan-jalan siang hari (pemikiran divergen) dengan perenungan jurnal malam hari (pemikiran konvergen)."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-02"
+updatedDate: "2026-06-02"
 category: "BuildSelf"
-tags: ["Duet Diver","Routine"]
-heroImage: "/images/blog/emerson_walking_journal_integration.png"
+tags: ["사색", "휴식", "기록"]
+heroImage: "/images/blog/emerson_walking_journal_integration.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari *The Journals of Ralph Waldo Emerson* & Penelitian Neurosains Kognitif"

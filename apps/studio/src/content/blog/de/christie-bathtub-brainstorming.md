@@ -1,11 +1,11 @@
 ---
 title: "Die Frau, die beim Apfelessen in der Badewanne Morde plante: Agatha Christies Heißbad-Brainstorming und DMN-Entspannung"
 description: "Erkunden Sie, wie die 'Königin des Verbrechens' Agatha Christie beim Apfelessen in einem heißen Bad komplexe Alibis und Mordplots erdachte, und entdecken Sie die kognitiven Neurowissenschaften der DMN-Aktivierung und des Kauens."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["Die Frau, ","Routine"]
-heroImage: "/images/blog/christie_bathtub_brainstorming.png"
+tags: ["위인 습관", "아가사 크리스티", "아이디어", "목욕", "창의성"]
+heroImage: "/images/blog/christie_bathtub_brainstorming.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Agatha Christies Autobiografie *Meine Welt war jung (An Autobiography)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

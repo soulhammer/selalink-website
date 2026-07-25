@@ -1,11 +1,11 @@
 ---
 title: "A Geometria do Instante e o Olhar Focado: A Rotina de Observação do 'Momento Decisivo' de Henri Cartier-Bresson"
 description: "Explore como Henri Cartier-Bresson, mestre do fotojornalismo moderno, praticava a imersão visual esperando pela harmonia geométrica perfeita e instantes fugazes. Descubra os mecanismos neurocientíficos que anulam os filtros de codificação preditiva para ativar o córtex visual e as redes atencionais pré-frontais."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-08"
+updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: ["A Geometri","Routine"]
-heroImage: "/images/blog/bresson_decisive_moment.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/bresson_decisive_moment.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica do Livro de Fotos de Henri Cartier-Bresson *Images à la sauvette / The Decisive Moment* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)"

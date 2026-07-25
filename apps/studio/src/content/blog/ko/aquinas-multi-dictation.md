@@ -1,11 +1,11 @@
 ---
 title: "토마스 아퀴나스의 다중 구술법: 작업 기억력을 극대화하여 복잡한 난제를 정복하는 법"
 description: "중세의 위대한 신학자 토마스 아퀴나스가 동시에 3~4명의 비서에게 서로 다른 주제의 원고를 구술 대필하며, 논리적 맥락을 잃지 않고 작업 기억을 확장한 비결을 살펴봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-09"
+updatedDate: "2026-03-09"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/aquinas_multi_dictation.png"
+tags: ["집중력", "구술대필", "작업기억", "중세"]
+heroImage: "/images/blog/aquinas_multi_dictation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "베르나르두스 기(Bernard of Gui)의 토마스 아퀴나스 전기 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

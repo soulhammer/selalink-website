@@ -1,11 +1,11 @@
 ---
 title: "外出遮断で没頭を強制：ヴィクトル・ユーゴーの丸刈り隔離習慣と事前拘束戦略"
 description: "ヴィクトル・ユーゴーは締め切りを守るため、髪と髭の半分を剃り落として自ら外出を遮断しました。強力な環境的・物理的制約の脳科学的メリットと事前拘束戦略、前頭前野の意志力疲労防止メカニズムを考察します。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-29"
+updatedDate: "2026-06-29"
 category: "BuildSelf"
-tags: ["外出遮断で没頭を強制","Routine"]
-heroImage: "/images/blog/hugo_hair_shaving.png"
+tags: ["위인 습관", "빅토르 위고", "몰입", "환경 제약", "생산성"]
+heroImage: "/images/blog/hugo_hair_shaving.webp"
 app: "buildself"
 formatVersion: 4
 authority: "グレアム・ロブ『ヴィクトル・ユーゴー評伝（Victor Hugo: A Biography）』考証＆行動療法学（Behavior Therapy）および認知神経科学（Cognitive Neuroscience）研究"

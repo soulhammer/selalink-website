@@ -4,8 +4,8 @@ description: "평생 동안 선배 작곡가들의 악보를 베껴 쓰며 수�
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/bach_pattern_transcription.png"
+tags: ["위인 습관", "바흐", "필사", "손글씨", "학습법"]
+heroImage: "/images/blog/bach_pattern_transcription.webp"
 app: "buildself"
 formatVersion: 4
 authority: "요한 니콜라우스 포르켈 『바흐의 생애와 예술(1802)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

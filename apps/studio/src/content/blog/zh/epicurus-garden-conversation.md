@@ -1,11 +1,11 @@
 ---
 title: "朴素庭院里的智力联结：阿匹克路斯的对话与节俭饮食习惯及心灵平静之道"
 description: "深度剖析阿匹克路斯在雅典郊外建立“庭院”，与挚友分食简朴餐食、分享深邃思考的习惯。揭示排除社会炫耀、在安全纽带中对话如何刺激催产素与血清素分泌，从而引发高阶幸福感的神经机制。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-20"
+updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: ["朴素庭院里的智力联结","Routine"]
-heroImage: "/images/blog/epicurus_garden_conversation.png"
+tags: ["휴식", "안정", "사색"]
+heroImage: "/images/blog/epicurus_garden_conversation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "第欧根尼·拉尔修《哲人言行录（Lives and Opinions of Eminent Philosophers）》与阿匹克路斯书信集考证及认知神经科学（Cognitive Neuroscience）研究"

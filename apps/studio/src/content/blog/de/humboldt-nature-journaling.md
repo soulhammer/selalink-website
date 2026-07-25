@@ -1,11 +1,11 @@
 ---
 title: "Die Erde als Organismus sehen: Alexander von Humboldts Feldtagebuch-Routine und Echtzeit-Synchronisation des Arbeitsgedächtnisses"
 description: "Erfahren Sie, wie Alexander von Humboldt, Vater der modernen Ökologie, sein Werk 'Kosmos' schuf, indem er am Chimborazo Wetter- und Pflanzendaten in Echtzeit dokumentierte. Entdecken Sie die Neurowissenschaften der Felddokumentation."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-04"
+updatedDate: "2026-02-04"
 category: "BuildSelf"
-tags: ["Die Erde a","Routine"]
-heroImage: "/images/blog/humboldt_nature_journaling.png"
+tags: ["위인 습관", "Routine"]
+heroImage: "/images/blog/humboldt_nature_journaling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Andrea Wulfs *Alexander von Humboldt und die Erfindung der Natur*, *Kosmos*-Archiven & Forschung der kognitiven Neurowissenschaften und Ökologie"

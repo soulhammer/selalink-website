@@ -1,11 +1,11 @@
 ---
 title: "Die Präzision von 60 Kaffeebohnen: Beethovens morgendliches Kaffeeritual und Achtsamkeit"
 description: "Entdecken Sie die einzigartige Gewohnheit von Ludwig van Beethoven, der jeden Morgen genau 60 Kaffeebohnen abzählte, und erkunden Sie den neurowissenschaftlichen Mechanismus, bei dem feine sensorische Kontrolle das Default Mode Network (DMN) beruhigt und den gehirneigenen Fokus-Schalter umlegt."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-14"
+updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: ["Die Präzis","Routine"]
-heroImage: "/images/blog/beethoven_coffee_ritual.png"
+tags: ["위인 습관", "베토벤", "아침루틴", "커피", "마인드풀니스"]
+heroImage: "/images/blog/beethoven_coffee_ritual.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Anton Schindlers Biografie *Ludwig van Beethoven* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

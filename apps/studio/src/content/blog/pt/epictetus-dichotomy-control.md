@@ -1,11 +1,11 @@
 ---
 title: "O Filósofo Nascido Escravo que Ensinou a Ignorar o Incontrolável: A Rotina Noturna de Reflexão da Dicotomia do Controle de Epicteto"
 description: "Descubra como Epicteto, o mestre estoico nascido na escravidão, eliminou a ansiedade diária dividindo rigorosamente a realidade entre o que está sob nosso controle e o que não está. Explore seu método de diário noturno pela neurociência cognitiva."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-15"
+updatedDate: "2026-05-15"
 category: "BuildSelf"
-tags: ["O Filósofo","Routine"]
-heroImage: "/images/blog/epictetus_dichotomy_control.png"
+tags: ["위인 습관", "Routine"]
+heroImage: "/images/blog/epictetus_dichotomy_control.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica dos *Discursos* e *Enquirídio* de Epicteto e Pesquisa em Neurociência Cognitiva"

@@ -1,11 +1,11 @@
 ---
 title: "매일 2시간 산책의 영감: 차이콥스키의 창의적 보행 습관"
 description: "작곡가 차이콥스키는 음악적 아이디어를 떠올리기 위해 매일 정확히 2시간씩 걸었습니다. 지속적 보행과 기본 모드 네트워크의 뇌과학 원리를 다룹니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-01"
+updatedDate: "2026-06-01"
 category: "BuildSelf"
-tags: ["매일 2시간 산책의","Routine"]
-heroImage: "/images/blog/tchaikovsky_two_hour_walk.png"
+tags: ["위인 습관", "차이코프스키", "걷기", "사색", "산책"]
+heroImage: "/images/blog/tchaikovsky_two_hour_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Modest Tchaikovsky, *The Life and Letters of Peter Ilich Tchaikovsky* (1904)"

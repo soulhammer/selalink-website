@@ -1,11 +1,11 @@
 ---
 title: "魂の調律：パブロ・カザルスの朝のバッハ前奏曲ルーティンとアルファ波誘導法"
 description: "80年以上、毎朝バッハの平均律クラヴィーア曲集を演奏して一日を始めた巨匠チェリストのパブロ・カザルス。音楽的同調（Musical Entrainment）がアルファ波を活性化し、自律神経系のバランスを誘導する神経科学的原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-24"
+updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: ["魂の調律：パブロ・カ","Routine"]
-heroImage: "/images/blog/casals_bach_prelude.png"
+tags: ["위인 습관", "파블로 카살스", "안정", "명상", "창의성", "루틴"]
+heroImage: "/images/blog/casals_bach_prelude.webp"
 app: "buildself"
 formatVersion: 4
 authority: "パブロ・カザルス自伝『Joys and Sorrows: Reflections by Pablo Casals』考証＆認知神経科学（Cognitive Neuroscience）研究"

@@ -1,11 +1,11 @@
 ---
 title: "Das Gehirn löst Konzepte im Schlaf: Joan Didions Manuskript-Schlafroutine und REM-Schlaf-Priming"
 description: "Erkunden Sie, wie die amerikanische Essayistin Joan Didion im selben Raum wie ihr unvollendetes Manuskript schlief, um komplexe Erzählstränge zu entwirren. Entdecken Sie die kognitiven Neurowissenschaften zu kognitivem Priming und Gedächtniskonsolidierung im REM-Schlaf."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-02"
+updatedDate: "2026-06-02"
 category: "BuildSelf"
-tags: ["Das Gehirn","Routine"]
-heroImage: "/images/blog/didion_manuscript_sleeping.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/didion_manuscript_sleeping.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Tracy Daughertys Biografie *The Last Love Song* & *The Paris Review* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

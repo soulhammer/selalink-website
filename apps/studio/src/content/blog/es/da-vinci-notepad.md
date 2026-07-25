@@ -1,11 +1,11 @@
 ---
 title: "El Genio que Siempre Llevaba un Cuaderno en la Cintura: La Rutina de Anotación Inmediata y Externalización de Memoria de Leonardo da Vinci"
 description: "Descubra cómo el polímata del Renacimiento Leonardo da Vinci llevaba un cuaderno de cuero atado a la cintura para registrar observaciones. Explore la neurociencia cognitiva de externalizar la memoria de trabajo para liberar carga cognitiva."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-29"
+updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: ["El Genio q","Routine"]
-heroImage: "/images/blog/da_vinci_notepad.png"
+tags: ["위인 습관", "레오나르도 다 빈치", "메모", "기록", "창의성"]
+heroImage: "/images/blog/da_vinci_notepad.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la Biografía de Walter Isaacson *Leonardo da Vinci* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"

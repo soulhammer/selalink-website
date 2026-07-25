@@ -1,11 +1,11 @@
 ---
 title: "뇌를 식히는 건조한 예열: 스탕달의 프랑스 민법전 독서 습관"
 description: "화려한 미사여구를 배제하고 인간 심리의 본질을 해부하듯 서술한 사실주의의 대가 스탕달. 글을 쓰기 전 매일 프랑스 민법전을 읽으며 뇌의 객관성을 최고조로 세팅했던 문체 예열 습관을 분석합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-08"
+updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: ["뇌를 식히는 건조한","Routine"]
-heroImage: "/images/blog/stendhal_civil_code_reading.png"
+tags: ["글쓰기", "창의성", "의사결정"]
+heroImage: "/images/blog/stendhal_civil_code_reading.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Stendhal Civil Code Reading 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

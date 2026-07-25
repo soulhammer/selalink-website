@@ -1,11 +1,11 @@
 ---
 title: "O Capitão que Inaugurou a Era dos Descobrimentos: A Rotina do Diário de Bordo Noturno e Acalmamento da Amígdala de Cristóvão Colombo"
 description: "Descubra como o explorador Cristóvão Colombo manteve a compostura racional no meio de tempestades ao manter um diário quantitativo noturno. Explore a neurociência cognitiva de como o diário noturno acalma a amígdala e aciona o controle pré-frontal."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-25"
+updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["O Capitão ","Routine"]
-heroImage: "/images/blog/columbus_nautical_log.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/columbus_nautical_log.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica do *Diário de Bordo de Cristóvão Colombo (The Diario of Christopher Columbus)* de Bartolomé de las Casas e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)"

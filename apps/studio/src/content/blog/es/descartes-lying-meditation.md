@@ -1,11 +1,11 @@
 ---
 title: "El Genio que Permanecía en Cama Hasta el Mediodía: La Rutina de Meditación en Cama y Relajación Alfa de René Descartes"
 description: "Descubra cómo el matemático y filósofo René Descartes pasaba las mañanas meditando en cama hasta el mediodía. Explore la neurociencia cognitiva de la postura horizontal, la respuesta reducida de cortisol y la inducción de ondas alfa."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-25"
+updatedDate: "2026-01-25"
 category: "BuildSelf"
-tags: ["El Genio q","Routine"]
-heroImage: "/images/blog/descartes_lying_meditation.png"
+tags: ["위인 습관", "르네 데카르트", "아침 루틴", "명상", "집중력"]
+heroImage: "/images/blog/descartes_lying_meditation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica del *Discurso del método (Discourse on the Method)* de René Descartes e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"

@@ -1,11 +1,11 @@
 ---
 title: "Der Magnat, der die schwerste Aufgabe morgens zuerst erledigte: Andrew Carnegies Prioritäten-Ausführungsroutine"
 description: "Erkunden Sie, wie der Stahlmagnat Andrew Carnegie seine schwerste Aufgabe während der morgendlichen Goldenen Stunden anpackte, als die präfrontalen Ressourcen voll aufgeladen waren, und entdecken Sie die kognitiven Neurowissenschaften zur Überwindung der Ego-Erschöpfung."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["Der Magnat","Routine"]
-heroImage: "/images/blog/carnegie_priority_first.png"
+tags: ["위인 습관", "앤드류 카네기", "우선순위", "의지력", "생산성"]
+heroImage: "/images/blog/carnegie_priority_first.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Andrew Carnegies Autobiografie *Autobiografie von Andrew Carnegie (Autobiography of Andrew Carnegie)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

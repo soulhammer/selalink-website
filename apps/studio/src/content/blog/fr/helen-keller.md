@@ -1,11 +1,11 @@
 ---
 title: "Éveiller l'épellation dans la paume au cœur de l'obscurité : La routine d'entraînement à l'imitation tactile et de plasticité somatosensorielle d'Helen Keller"
 description: "Découvrez comment Helen Keller, qui a surmonté la surdicécité pour devenir une autrice et militante des droits humains de renommée mondiale, a élargi son univers intérieur en stimulant son cortex somatosensoriel par l'épellation tactile. Explorez la neuroplasticité intermodale."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-12"
+updatedDate: "2026-03-12"
 category: "BuildSelf"
-tags: ["Éveiller l","Routine"]
-heroImage: "/images/blog/helen_keller.png"
+tags: ["위인 습관", "헬렌 켈러", "휴식", "성찰"]
+heroImage: "/images/blog/helen_keller.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de l'autobiographie d'Helen Keller *Sourde, muette, aveugle : Histoire de ma vie (The Story of My Life)*, des archives de la Perkins School for the Blind & de la Recherche en Neurosciences Cognitives"

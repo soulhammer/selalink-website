@@ -1,11 +1,11 @@
 ---
 title: "Umweltsignale zum Schutz des Fokus: Jane Austens knarrende Türgewohnheit"
 description: "Jane Austen ließ eine knarrende Tür absichtlich unrepariert, um eingehende Ablenkungen im Voraus zu bemerken. Erkunden Sie die Prinzipien zur Gestaltung von Konzentrationsgrenzen."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-27"
+updatedDate: "2026-03-27"
 category: "BuildSelf"
-tags: ["Umweltsign","Routine"]
-heroImage: "/images/blog/austen_creaky_door.png"
+tags: ["위인 습관", "제인 오스틴", "집중력", "몰입", "환경 설정"]
+heroImage: "/images/blog/austen_creaky_door.webp"
 app: "buildself"
 formatVersion: 4
 authority: "James Edward Austen-Leigh, *A Memoir of Jane Austen* (1869) & *Neuropsychologia*"

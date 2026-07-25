@@ -1,11 +1,11 @@
 ---
 title: "凭一把匙羹描绘宇宙的天才：萨尔瓦多·达利的脑重置午睡与入眠幻觉（Hypnagogia）捕捉习惯"
 description: "探索超现实主义艺术巨匠萨尔瓦多·达利端坐于椅子上手握匙羹在微醺浅睡中醒来并捕捉奇拔艺术灵感的习惯，揭示利用入眠幻觉（Hypnagogia）状态下的西塔波（Theta Waves）与无意识联想捕捉的认知神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-07"
+updatedDate: "2026-03-07"
 category: "BuildSelf"
-tags: ["凭一把匙羹描绘宇宙的","Routine"]
-heroImage: "/images/blog/dali_spoon_nap.png"
+tags: ["위인 습관", "살바도르 달리", "창의성", "낮잠", "뇌파"]
+heroImage: "/images/blog/dali_spoon_nap.webp"
 app: "buildself"
 formatVersion: 4
 authority: "萨尔瓦多·达利自传《达利的秘密生活（The Secret Life of Salvador Dalí）》考证与认知神经科学（Cognitive Neuroscience）研究"

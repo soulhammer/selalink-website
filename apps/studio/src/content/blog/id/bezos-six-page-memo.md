@@ -1,11 +1,11 @@
 ---
 title: "30 Menit Keheningan dan Memo 6 Halaman: Metode Rapat Amazon ala Jeff Bezos dan Neurosains Membaca"
 description: "Pelajari rahasia pengambilan keputusan Jeff Bezos yang melarang presentasi PPT di Amazon dan mewajibkan pembacaan memo naratif 6 halaman secara hening selama 30 menit di awal rapat, serta temukan prinsip neurosains tentang bagaimana membaca narasi merangsang korteks prefrontal untuk memaksimalkan penilaian."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-19"
+updatedDate: "2026-01-19"
 category: "BuildSelf"
-tags: ["30 Menit K","Routine"]
-heroImage: "/images/blog/bezos_six_page_memo.png"
+tags: ["위인 습관", "제프 베조스", "의사결정", "계획", "생산성"]
+heroImage: "/images/blog/bezos_six_page_memo.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Surat Pemegang Saham Jeff Bezos & Buku Colin Bryar *Working Backwards* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

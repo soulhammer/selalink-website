@@ -1,11 +1,11 @@
 ---
 title: "일론 머스크의 '5분 타임 블록': 시간의 초집중 밀도를 만드는 마이크로 계획법과 몰입 루틴"
 description: "주 80~100시간 이상의 격무를 처리하기 위해 하루 일정을 5분 단위의 마이크로 블록으로 쪼개 초집중하는 일론 머스크. 파킨슨의 법칙을 극복하고 뇌의 몰입도를 극대화하는 시간 관리 습관과 인지신경과학적 원리를 분석합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-15"
+updatedDate: "2026-06-15"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/elon_musk_time_blocking.png"
+tags: ["위인 습관", "일론 머스크", "생산성 향상", "시간 관리", "타임 블로킹"]
+heroImage: "/images/blog/elon_musk_time_blocking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "월터 아이작슨 평전 『일론 머스크(Elon Musk)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

@@ -1,11 +1,11 @@
 ---
 title: "Merancang Kesempurnaan dengan Second Brain: Kebiasaan Pengarsipan Kartu Indeks dan Pelepasan Kognitif Stanley Kubrick"
 description: "Pelajari bagaimana sutradara film legendaris Stanley Kubrick menciptakan mahakarya dengan meredakan beban memori kerja melalui arsip kartu indeks. Temukan pelepasan kognitif, chunking, optimasi prefrontal, dan panduan 3 langkah."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-18"
+updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: ["Merancang ","Routine"]
-heroImage: "/images/blog/kubrick_index_box_archive.png"
+tags: ["글쓰기", "창의성", "기록"]
+heroImage: "/images/blog/kubrick_index_box_archive.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari *The Stanley Kubrick Archives* (Alison Castle), Arsip Kubrick & Penelitian Neurosains Kognitif serta Psikologi Kognitif"

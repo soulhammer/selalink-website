@@ -1,11 +1,11 @@
 ---
 title: "L'éveil de minuit : La méthode d'écriture en hyperfocus de 12 heures au café d'Honoré de Balzac"
 description: "Découvrez la routine d'écriture nocturne et de stimulation au café pratiquée par Honoré de Balzac, maître du réalisme français du XIXe siècle, et percez le mécanisme neuroscientifique d'hyperfocus qui coupe les stimuli externes et élève l'attention cérébrale à son paroxysme."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-14"
+updatedDate: "2026-02-14"
 category: "BuildSelf"
-tags: ["L'éveil de","Routine"]
-heroImage: "/images/blog/balzac_extreme_focus.png"
+tags: ["위인 습관", "오노레 드 발자크", "초몰입", "집중력", "시간관리"]
+heroImage: "/images/blog/balzac_extreme_focus.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de la biographie de Stefan Zweig *Balzac* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

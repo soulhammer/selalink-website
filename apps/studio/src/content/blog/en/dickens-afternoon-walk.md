@@ -1,11 +1,11 @@
 ---
 title: "The Novelist Who Walked Briskly for 3 Hours Every Afternoon: Charles Dickens's Idea Routine and DMN Activation"
 description: "Discover how literary giant Charles Dickens crafted complex characters and plots through a daily 3-hour brisk walk. Explore the cognitive neuroscience of Default Mode Network (DMN) activation and BDNF secretion."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-23"
+updatedDate: "2026-05-23"
 category: "BuildSelf"
-tags: ["Great Habits","dickens","Routine","Stamina"]
-heroImage: "/images/blog/dickens_afternoon_walk.png"
+tags: ["위인 습관", "찰스 디킨스", "산책", "창의성", "아이디어"]
+heroImage: "/images/blog/dickens_afternoon_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from John Forster's Biography *The Life of Charles Dickens* & Cognitive Neuroscience Research"

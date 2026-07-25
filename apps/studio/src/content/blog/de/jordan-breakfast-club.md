@@ -1,11 +1,11 @@
 ---
 title: "Unbesiegbares 6-Uhr-Morgen-Setup: Michael Jordans Breakfast Club und der Winner-Effekt"
 description: "Erfahren Sie, wie Basketball-Legende Michael Jordan mit seinem 'Breakfast Club' um 6 Uhr morgens physische und mentale Grenzen überwand. Entdecken Sie die Neurowissenschaften des Winner-Effekts, Dopamin- und Testosteronschübe und einen 3-Schritte-Plan."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-16"
+updatedDate: "2026-01-16"
 category: "BuildSelf"
-tags: ["Unbesiegba","Routine"]
-heroImage: "/images/blog/jordan_breakfast_club.png"
+tags: ["위인 습관", "마이클조던", "아침루틴", "의지력", "멘탈셋업"]
+heroImage: "/images/blog/jordan_breakfast_club.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Michael Jordans Autobiografie *Driven from Within*, Biografien & Forschung der kognitiven Neurowissenschaften und Leistungsphysiologie"

@@ -1,11 +1,11 @@
 ---
 title: "Der Meister, der 4 km durch Barcelona spazierte: Antoni Gaudís kreative Spaziergangs-Methode und organische Inspirationsroutine"
 description: "Erfahren Sie, wie der Genialarchitekt Antoni Gaudí Strukturen der Natur in Bauwerke übertrug, indem er täglich 4 km durch Barcelona wanderte. Entdecken Sie die Neurowissenschaften des kreativen Gehens."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-13"
+updatedDate: "2026-04-13"
 category: "BuildSelf"
-tags: ["Der Meiste","Routine"]
-heroImage: "/images/blog/gaudi_nature_walk.png"
+tags: ["위인 습관", "안토니 가우디", "창의성", "산책", "영감"]
+heroImage: "/images/blog/gaudi_nature_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Gijs van Hensbergens *Gaudí: Die Biographie* & Forschung der kognitiven Neurowissenschaften und Umweltpsychologie"

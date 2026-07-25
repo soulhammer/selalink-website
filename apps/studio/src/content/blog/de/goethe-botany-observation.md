@@ -1,11 +1,11 @@
 ---
 title: "Der Literaturgigant, der Samen im Garten sammelte: Goethes morgendliche Beobachtungsgewohnheit und Aufmerksamkeitserholung"
 description: "Erfahren Sie, wie Johann Wolfgang von Goethe durch die morgendliche Pflanzenbeobachtung mit der Lupe tiefe Inspiration gewann. Entdecken Sie die Theorie der Wiederherstellung der Aufmerksamkeit (ART) und Goethes Routine."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-24"
+updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: ["Der Litera","Routine"]
-heroImage: "/images/blog/goethe_botany_observation.png"
+tags: ["위인 습관", "괴테", "아침루틴", "산책", "주의력회복"]
+heroImage: "/images/blog/goethe_botany_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Johann Wolfgang von Goethes *Dichtung und Wahrheit* & *Versuch die Metamorphose der Pflanzen*, Weimarer Museumsarchiven & Forschung der kognitiven Neurowissenschaften und Umweltpsychologie"

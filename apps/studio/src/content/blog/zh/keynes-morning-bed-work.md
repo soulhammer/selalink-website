@@ -1,11 +1,11 @@
 ---
 title: "被窝里孕育的《就业、利息和货币通论》：约翰·梅纳德·凯恩斯的晨间卧床工作习惯与CAR觉醒机制"
 description: "探索破局大萧条的宏观经济学泰斗约翰·梅纳德·凯恩斯如何在醒来后的2小时内斜倚于床榻撰写稿件。揭示皮质醇觉醒反应（CAR）、前额叶认知资源利用、防范睡眠惯性原理与3步骤实践指南。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-08"
+updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: ["被窝里孕育的《就业、","Routine"]
-heroImage: "/images/blog/keynes_morning_bed_work.png"
+tags: ["집중", "생산성", "성공습관"]
+heroImage: "/images/blog/keynes_morning_bed_work.webp"
 app: "buildself"
 formatVersion: 4
 authority: "罗伯特·斯基德尔斯基《凯恩斯传（John Maynard Keynes）》史料考证及认知神经科学（Cognitive Neuroscience）与神经肌肉学（Neuromuscular Science）研究"

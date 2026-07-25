@@ -1,11 +1,11 @@
 ---
 title: "3년마다 인생을 리셋하는 지적 모험: 피터 드러커의 다학제 공부 습관과 뇌 가소성"
 description: "경영학의 거장 피터 드러커가 평생 실천한 '3년 주기 새로운 학문 마스터' 습관. 뇌 가소성(Neuroplasticity)을 자극하고 지적 통찰력을 유지한 비결과 3단계 다학제 학습법의 인지신경과학적 원리를 밝힙니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/drucker_three_year_study.png"
+tags: ["위인 습관", "피터 드러커", "학습", "자기계발", "시간 관리"]
+heroImage: "/images/blog/drucker_three_year_study.webp"
 app: "buildself"
 formatVersion: 4
 authority: "피터 드러커 자서전 『방관자의 기억(Adventures of a Bystander)』 및 『나를 경영하는 삶(Managing Oneself)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

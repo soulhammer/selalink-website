@@ -1,11 +1,11 @@
 ---
 title: "La Cúspide de la Inmersión: El Hábito de Bocetos Geométricos en Arena de Arquímedes"
 description: "Arquímedes dibujaba continuamente figuras en la arena o en el suelo para visualizar complejas inspiraciones científicas. Investigue cómo los bocetos visuales manuales reducen la sobrecarga cognitiva en la memoria de trabajo e inducen un estado de hiperenfoque."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-25"
+updatedDate: "2026-03-25"
 category: "BuildSelf"
-tags: ["La Cúspide","Routine"]
-heroImage: "/images/blog/aristotle_walking_study.png"
+tags: ["산책", "토론", "기억력", "고대"]
+heroImage: "/images/blog/aristotle_walking_study.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de *Vidas Paralelas (Life of Marcellus)* de Plutarco e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"

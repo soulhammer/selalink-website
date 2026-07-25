@@ -1,11 +1,11 @@
 ---
 title: "Der 3-Meilen-Spaziergang, der das Unbewusste weckte: Sigmund Freuds abendliche Zügig-Gehen-Routine und Unbewusstseins-Journaling"
 description: "Erfahren Sie, wie Sigmund Freud, der Begründer der Psychoanalyse, nach anstrengenden Analysesitzungen jeden Abend bei einem 3-Meilen-Spaziergang durch Wien sein Gehirn regenerierte und das Unbewusste erforschte. Entdecken Sie die Neurowissenschaften bilateraler Stimulation."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-09"
+updatedDate: "2026-07-09"
 category: "BuildSelf"
-tags: ["Der 3-Meil","Routine"]
-heroImage: "/images/blog/freud_evening_walk.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/freud_evening_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Sigmund Freuds *Selbstdarstellung (An Autobiographical Study)*, Archiven des Sigmund Freud Museums Wien & Forschung der kognitiven Neurowissenschaften"

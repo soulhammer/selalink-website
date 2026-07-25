@@ -4,8 +4,8 @@ description: "Découvrez comment Confucius, maître de la philosophie orientale,
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["Accorder l","Routine"]
-heroImage: "/images/blog/confucius_guqin_harmony.png"
+tags: ["위인 습관", "공자", "거문고", "음악치료", "마음조율"]
+heroImage: "/images/blog/confucius_guqin_harmony.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue des *Mémoires historiques (Shiji: Maison de Confucius)* de Sima Qian & *Entretiens de Confucius (Lunyu)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

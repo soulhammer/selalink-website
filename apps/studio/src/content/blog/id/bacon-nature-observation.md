@@ -1,11 +1,11 @@
 ---
 title: "Jalan Pagi di Taman Francis Bacon: Cara Memulai Ulang Kelelahan Otak Melalui Pengamatan Alam"
 description: "Pelajari bagaimana Francis Bacon, master empirisme, berjalan-jalan di tamannya setiap pagi untuk mengamati tanaman dan cuaca, meredakan kelelahan otak dan membangun filsafat induktifnya."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-04"
+updatedDate: "2026-01-04"
 category: "BuildSelf"
-tags: ["Jalan Pagi","Routine"]
-heroImage: "/images/blog/bacon_nature_observation.png"
+tags: ["산책", "자연관찰", "경험론", "근세"]
+heroImage: "/images/blog/bacon_nature_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Esai Francis Bacon *Of Gardens* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

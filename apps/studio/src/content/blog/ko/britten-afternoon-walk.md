@@ -1,11 +1,11 @@
 ---
 title: "오후 해안가 산책으로 난제를 해결한 작곡가: 벤저민 브리튼의 두뇌 해방 루틴"
 description: "20세기 영국 음악의 거장 벤저민 브리튼이 매일 오후 해안길을 산책하며 오전 동안 머릿속에 구상한 음표 구조를 다듬었던 루틴. 주의 회복 이론(ART)과 디폴트 모드 네트워크(DMN)를 통한 인지적 통합의 신경과학적 원리를 밝힙니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-22"
+updatedDate: "2026-04-22"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/britten_afternoon_walk.png"
+tags: ["오후 해안가 산책으","Routine"]
+heroImage: "/images/blog/britten_afternoon_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "험프리 카펜터 평전 『벤저민 브리튼 평전(Benjamin Britten: A Biography)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

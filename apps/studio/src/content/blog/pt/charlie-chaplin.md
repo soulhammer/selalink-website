@@ -1,11 +1,11 @@
 ---
 title: "O Olhar Espelhado que Replica a Passada Alheia: A Rotina de Espelhamento Físico e Análise Humana de Charlie Chaplin"
 description: "Descubra como o ícone do cinema mudo Charlie Chaplin observava e espelhava a caminhada e os movimentos físicos de estranhos nas ruas, e explore os princípios neurocientíficos de ativação dos neurônios-espelho pré-motores para expandir o esquema corporal."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-01"
+updatedDate: "2026-03-01"
 category: "BuildSelf"
-tags: ["O Olhar Es","Routine"]
-heroImage: "/images/blog/charlie_chaplin.png"
+tags: ["위인 습관", "찰리 채플린", "창의성", "사색"]
+heroImage: "/images/blog/charlie_chaplin.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica da Autobiografia de Charlie Chaplin *Minha Autobiografia (My Autobiography)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)"

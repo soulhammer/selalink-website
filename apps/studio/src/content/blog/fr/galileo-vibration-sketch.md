@@ -1,11 +1,11 @@
 ---
 title: "Les croquis d'oscillation de Galilée : Stimuler la cognition spatiale pour simplifier les structures complexes"
 description: "Découvrez comment Galilée, père de la science moderne, a élaboré des lois physiques intuitives en dessinant des schémas géométriques d'oscillations. Explorez la neuroscience du calepin visuo-spatial et du double codage."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-01"
+updatedDate: "2026-02-01"
 category: "BuildSelf"
-tags: ["Les croqui","Routine"]
-heroImage: "/images/blog/galileo_vibration_sketch.png"
+tags: ["시각화", "스케치", "물리학", "근세"]
+heroImage: "/images/blog/galileo_vibration_sketch.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue des *Discours concernant deux sciences nouvelles* et de *L'Essayeur (Il Saggiatore)* de Galilée, des archives de l'Université de Pise & de la Recherche en Neurosciences Cognitives"

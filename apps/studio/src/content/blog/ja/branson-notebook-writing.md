@@ -1,11 +1,11 @@
 ---
 title: "ジーンズの後ろポケットの億万長者の秘訣：リチャード・ブランソンのアナログ手帳とRAS刺激法"
 description: "ヴァージン・グループ創業者のリチャード・ブランソン会長がジーンズの後ろポケットのアナログ手帳にインスピレーションをリアルタイムで記録し、400余りの企業を築き上げた習慣。手書きが網様体不活系（RAS）を刺激し、アイデアを即座の実行へとつなげる神経科学的原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-04"
+updatedDate: "2026-03-04"
 category: "BuildSelf"
-tags: ["ジーンズの後ろポケッ","Routine"]
-heroImage: "/images/blog/branson_notebook_writing.png"
+tags: ["위인 습관", "리처드브랜슨", "손글씨메모", "아날로그메모", "실행력"]
+heroImage: "/images/blog/branson_notebook_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "リチャード・ブランソン自伝『Like a Virgin: Secrets They Don't Teach You at Business School』考証＆認知神経科学（Cognitive Neuroscience）研究"

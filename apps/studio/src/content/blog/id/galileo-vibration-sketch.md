@@ -1,11 +1,11 @@
 ---
 title: "Sketsa Ayunan Galileo: Memanfaatkan Kognisi Spasial untuk Menyederhanakan Struktur Rumit"
 description: "Pelajari bagaimana Galileo Galilei, bapak sains modern, membangun hukum fisik intuitif dengan menggambar diagram geometris dari lampu yang berayun. Temukan neurosains tentang sketsa visuospasial dan pengodean ganda."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-01"
+updatedDate: "2026-02-01"
 category: "BuildSelf"
-tags: ["Sketsa Ayu","Routine"]
-heroImage: "/images/blog/galileo_vibration_sketch.png"
+tags: ["시각화", "스케치", "물리학", "근세"]
+heroImage: "/images/blog/galileo_vibration_sketch.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari *Two New Sciences* & *Il Saggiatore* karya Galileo Galilei, Arsip Universitas Pisa & Penelitian Neurosains Kognitif"

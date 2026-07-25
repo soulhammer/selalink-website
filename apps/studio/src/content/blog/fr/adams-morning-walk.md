@@ -1,11 +1,11 @@
 ---
 title: "Une marche pour stimuler la santé cérébrale : La routine de marche rapide et de journal de réflexion de John Quincy Adams"
 description: "John Quincy Adams, 6e président des États-Unis, s'en tenait à une marche rapide quotidienne de 5 miles et à la rédaction d'un journal le soir. Découvrez les habitudes cérébrales saines qui stimulent la sécrétion de BDNF."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-06"
+updatedDate: "2026-04-06"
 category: "BuildSelf"
-tags: ["Une marche","Routine"]
-heroImage: "/images/blog/adams_morning_walk.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/adams_morning_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Analyse Historique des Biographies et Autobiographies de John Quincy Adams & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

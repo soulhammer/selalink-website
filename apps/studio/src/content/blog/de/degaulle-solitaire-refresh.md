@@ -1,11 +1,11 @@
 ---
 title: "Patience im Büro des Präsidenten: Charles de Gaulles Routine gegen kognitive Entscheidungsermüdung"
 description: "Erkunden Sie, wie der französische Präsident Charles de Gaulle mit Patience-Kartenspielen vom Staatsgeschäft abschaltete. Entdecken Sie die kognitiven Neurowissenschaften, wie musterbasierte Entspannung präfrontale Entscheidungsfilter deaktiviert und die Amygdala beruhigt."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-28"
+updatedDate: "2026-03-28"
 category: "BuildSelf"
-tags: ["Patience i","Routine"]
-heroImage: "/images/blog/degaulle_solitaire_refresh.png"
+tags: ["위인 습관", "샤를 드 골", "솔리테어", "의사결정 피로", "두뇌 이완"]
+heroImage: "/images/blog/degaulle_solitaire_refresh.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Charles de Gaulles Memoiren *Kriegserinnerungen (Mémoires de guerre)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

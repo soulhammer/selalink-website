@@ -1,11 +1,11 @@
 ---
 title: "새벽 0시의 각성: 오노레 드 발자크의 커피와 12시간 초몰입 집필법"
 description: "19세기 프랑스 사실주의 문학의 거장 오노레 드 발자크가 실천했던 심야 집필과 커피 각성 루틴. 외부 자극을 원천 차단하고 뇌의 주의력을 극한으로 끌어올리는 초몰입의 신경과학적 메커니즘을 밝힙니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-14"
+updatedDate: "2026-02-14"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/balzac_extreme_focus.png"
+tags: ["위인 습관", "오노레 드 발자크", "초몰입", "집중력", "시간관리"]
+heroImage: "/images/blog/balzac_extreme_focus.webp"
 app: "buildself"
 formatVersion: 4
 authority: "스테판 츠바이크 평전 『발자크(Balzac)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

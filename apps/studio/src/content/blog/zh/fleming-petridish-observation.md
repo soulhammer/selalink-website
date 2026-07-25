@@ -1,11 +1,11 @@
 ---
 title: "从垃圾桶里捞出的人类救星：亚历山大·弗莱明的失败观察法与例外发现习惯"
 description: "探索伟大的青霉素发现者亚历山大·弗莱明如何通过细致观察受污染的培养皿而非将其扔掉，从而改变人类命运。揭示克服认知固着与发散性思维的神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-08"
+updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: ["从垃圾桶里捞出的人类","Routine"]
-heroImage: "/images/blog/fleming_petridish_observation.png"
+tags: ["위인 습관", "알렉산더 플레밍", "실패 성찰", "확산적 사고", "세렌디피티"]
+heroImage: "/images/blog/fleming_petridish_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "亚历山大·弗莱明传记与安德烈·莫洛亚《弗莱明传（The Life of Sir Alexander Fleming）》考证及认知神经科学（Cognitive Neuroscience）研究"

@@ -1,11 +1,11 @@
 ---
 title: "クッションが立っていたら邪魔禁止：ルイザ・メイ・オルコットの没頭シグナル"
 description: "『若草物語』の著者ルイザ・メイ・オルコットの没頭シグナル「ムード・ピロー（気分クッション）」をご紹介します。周囲の妨害要因を遮断し、認知切り替えコストを削減する3ステップガイドをご覧ください。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["クッションが立ってい","Routine"]
-heroImage: "/images/blog/alcott_mood_ribbon.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/alcott_mood_ribbon.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Louisa May Alcott, *Her Life, Letters, and Journals* (1889) ＆ *Journal of Personality and Social Psychology*"

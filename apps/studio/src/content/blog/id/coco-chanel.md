@@ -1,11 +1,11 @@
 ---
 title: "Memangkas Korset dan Hiasan Berlebihan: Pemotongan Minimalis Esensial ala Coco Chanel dan Penyaringan Supresi Prefrontal"
 description: "Pelajari bagaimana perintis busana legendaris Coco Chanel merevolusi pakaian wanita dengan menempelkan kain pada model dan memotong korset serta hiasan berlebihan. Temukan neurosains kognitif dari Penyaringan Supresi Prefrontal yang membuang kebisingan kognitif."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-17"
+updatedDate: "2026-05-17"
 category: "BuildSelf"
-tags: ["Memangkas ","Routine"]
-heroImage: "/images/blog/coco_chanel.png"
+tags: ["위인 습관", "코코 샤넬", "의사결정", "생산성"]
+heroImage: "/images/blog/coco_chanel.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Biografi Edmonde Charles-Roux *Chanel and Her World* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

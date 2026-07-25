@@ -1,11 +1,11 @@
 ---
 title: "清晨先破摧最艰难任务的大富豪：安德鲁·卡内基的优先级终结习惯"
 description: "探索“钢铁大王”安德鲁·卡内基在前额叶资源最为充沛的清晨黄金时段优先攻克最繁重棘手任务的习惯，揭示预防自我损耗（Ego Depletion）与最大化前额叶皮层执行功能的认知神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["清晨先破摧最艰难任务","Routine"]
-heroImage: "/images/blog/carnegie_priority_first.png"
+tags: ["위인 습관", "앤드류 카네기", "우선순위", "의지력", "생산성"]
+heroImage: "/images/blog/carnegie_priority_first.webp"
 app: "buildself"
 formatVersion: 4
 authority: "安德鲁·卡内基自传《卡内基自传（Autobiography of Andrew Carnegie）》考证与认知神经科学（Cognitive Neuroscience）研究"

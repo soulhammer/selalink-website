@@ -23,16 +23,16 @@ faqs:
     answer: "Freezing immediately breaks cell walls, releasing sticky mucin. Let the chopped green onions air-dry for 10 minutes before freezing to keep them separate and slime-free."
 ---
 
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+Haben Sie einen Bund Frühlingszwiebeln gekauft, in das Gemüsefach gelegt und die Hälfte weggeworfen, weil sie matschig wurden? Heute teilt FreshSnap Tipps, wie sie über einen Monat knackig bleiben.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Geprüfte wissenschaftliche Autorität
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Dieser Leitfaden entspricht den offiziellen Richtlinien von: <strong>RDA & MFDS & USDA</strong>.
     </p>
   </div>
 </div>
@@ -41,7 +41,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
 
 ## 1. Warum so lagern? Wissenschaftliche Fakten
 
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtige Lagerungsmethode anzuwenden, ist entscheidend für Frische und Hygiene.
 
 ---
 
@@ -53,7 +53,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Ungewaschen in Zeitungspapier wickeln und aufrecht lagern — Lagerung bei Raumtemperatur (5Tage) 🌿</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+    Wickeln Sie ungewaschene Frühlingszwiebeln in Zeitungspapier und lagern Sie sie aufrecht mit den Wurzeln nach unten an einem kühlen Ort. Die aufrechte Haltung ahmt das Wachstum nach und verzögert das Altern.
   </p>
 </div>
 
@@ -63,7 +63,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Gewaschene Zwiebeln trocknen und aufrecht mit Küchenpapier lagern — Kühllagerung (14Tage) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+    Gewaschene Frühlingszwiebeln müssen mit Küchenpapier getrocknet werden. Legen Sie Küchenpapier auf den Boden eines hohen Behälters und lagern Sie die Zwiebeln aufrecht mit den Wurzeln nach unten im Gemüsefach.
   </p>
 </div>
 
@@ -73,7 +73,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Hacken, verschließen und einfrieren — Gefrierlagerung (180Tage)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+    Wenn Sie sie nicht innerhalb von 2 Wochen verbrauchen, hacken Sie die Frühlingszwiebeln, trocknen sie gut ab und frieren sie in einem Gefrierbeutel ein. Gefroren direkt in die Gerichte geben.
   </p>
 </div>
 
@@ -86,7 +86,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
   <div>
     <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Vor dem Lagern Feuchtigkeit vollständig abtrocknen</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Frühlingszwiebeln verfaulen bei Nässe sehr leicht. Immer an der Luft trocknen lassen oder mit Küchenpapier abtupfen.
     </p>
   </div>
 </div>
@@ -96,7 +96,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
   <div>
     <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Die weißen Stängel und grünen Blätter getrennt lagern</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Stängel und Blätter verderben unterschiedlich schnell. Eine getrennte Lagerung verhindert gegenseitigen Verderb.
     </p>
   </div>
 </div>
@@ -111,7 +111,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Vegetables retain their growing instinct. If stored flat, they spend energy trying to bend upright, yellowing quickly. Keeping them vertical preserves energy.
     </p>
   </details>
 
@@ -121,7 +121,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Freezing immediately breaks cell walls, releasing sticky mucin. Let the chopped green onions air-dry for 10 minutes before freezing to keep them separate and slime-free.
     </p>
   </details>
 </div>

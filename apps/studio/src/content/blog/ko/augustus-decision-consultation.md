@@ -1,11 +1,11 @@
 ---
 title: "천천히 서둘러 내린 황제의 결단: 아우구스투스의 다각도 조언 경청 습관"
 description: "시저의 암살 이후 독단 대신 마이케나스, 아그리파 등 참모들의 이견을 철저히 경청하여 결정을 단순화했던 로마 황제 아우구스투스. 최초의 판단을 맹신하는 확증 편향을 깨뜨리는 경청과 필터링의 뇌과학적 원리를 규명합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/augustus_decision_consultation.png"
+tags: ["의사결정", "단순화", "생산성"]
+heroImage: "/images/blog/augustus_decision_consultation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "수에토니우스 『황제전(De vita Caesarum)』 & 카시우스 디오 『로마사』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

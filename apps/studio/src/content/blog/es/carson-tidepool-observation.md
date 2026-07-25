@@ -1,11 +1,11 @@
 ---
 title: "El Ecosistema Marino que Dio Origen a Primavera Silenciosa: La Observación de Pozas de Marea y la Fascinación Suave de Rachel Carson"
 description: "Descubra cómo Rachel Carson, pionera del movimiento ambientalista moderno, restauró la capacidad cognitiva agotada observando pozas de marea entre presiones corporativas y tratamientos de cáncer. Explore los mecanismos neurocientíficos de la Teoría de Restauración de la Atención (ART) y la 'Fascinación Suave'."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-04"
+updatedDate: "2026-07-04"
 category: "BuildSelf"
-tags: ["El Ecosist","Routine"]
-heroImage: "/images/blog/carson_tidepool_observation.png"
+tags: ["위인 습관", "레이첼 카슨", "자연 관찰", "주의 회복", "인도어 디톡스"]
+heroImage: "/images/blog/carson_tidepool_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de las Biografías Históricas de Rachel Carson y Archivos Autobiográficos e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"

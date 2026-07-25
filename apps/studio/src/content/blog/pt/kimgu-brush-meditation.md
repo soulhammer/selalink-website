@@ -1,11 +1,11 @@
 ---
 title: "Precisão para Acalmar uma Mente Inquieta: A Rotina de Meditação Caligráfica e Controle Motor Fino de Kim Koo"
 description: "Descubra como Kim Koo, líder do Governo Provisório da Coreia, treinou sua mente por meio da caligrafia. Explore a neurociência do controle motor fino, estabilização da amígdala e um guia de 3 passos."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-06"
+updatedDate: "2026-02-06"
 category: "BuildSelf"
-tags: ["Precisão p","Routine"]
-heroImage: "/images/blog/kimgu_brush_meditation.png"
+tags: ["위인 습관", "백범 김구", "서예 명상", "붓글씨", "불안 조절", "마음 수양"]
+heroImage: "/images/blog/kimgu_brush_meditation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica da Autobiografia de Kim Koo *Baekbum Ilji*, Arquivos do Governo Provisório e Pesquisa em Neurociência Cognitiva e Ciência do Controle Motor"

@@ -1,11 +1,11 @@
 ---
 title: "Macet Saat Menulis? Ganti Mesin Tik! Rutinitas Beralih Multitasking Isaac Asimov"
 description: "Rutinitas beralih multitasking dari maestro fiksi ilmiah Isaac Asimov, yang meninggalkan lebih dari 500 buku. Pelajari rahasia 3 langkah untuk mengatasi kelelahan fokus tunggal dan mendapatkan efek kebaruan."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-26"
+updatedDate: "2026-05-26"
 category: "BuildSelf"
-tags: ["Macet Saat","Routine"]
-heroImage: "/images/blog/asimov_project_switching.png"
+tags: ["위인 습관", "아이작 아시모프", "집중력", "다중작업", "창의성", "생산성"]
+heroImage: "/images/blog/asimov_project_switching.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Autobiografi Isaac Asimov *I, Asimov: A Memoir* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

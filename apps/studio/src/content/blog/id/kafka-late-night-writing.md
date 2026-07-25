@@ -1,11 +1,11 @@
 ---
 title: "Melahirkan Mahakarya dalam Keheningan Mutlak: Rutinitas Menulis Tengah Malam Franz Kafka dan Down-Regulation Frontal"
 description: "Pelajari bagaimana raksasa sastra abad ke-20 Franz Kafka merangkai mahakarya seperti Metamorfosis dengan menulis dari jam 11 malam hingga fajar dalam keheningan mutlak. Temukan neurosains down-regulation frontal dan imersi memori kerja."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-01"
+updatedDate: "2026-04-01"
 category: "BuildSelf"
-tags: ["Melahirkan","Routine"]
-heroImage: "/images/blog/kafka_late_night_writing.png"
+tags: ["위인 습관", "프란츠 카프카", "밤샘 루틴", "집중력", "창의성"]
+heroImage: "/images/blog/kafka_late_night_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Biografi Max Brod *Franz Kafka*, Harian Kafka & Penelitian Neurosains Kognitif"

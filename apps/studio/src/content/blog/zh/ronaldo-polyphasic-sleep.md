@@ -1,11 +1,11 @@
 ---
 title: "24시간 지치지 않는 피지컬의 비결? 크리스티아누 호날두의 90분 분할 수면법"
 description: "세계 최고의 공격수 크리스티아누 호날두. 하루에 90분씩 5회 분할 수면을 취하여 신체 회복력을 극대화한 그의 수면 과학과 실천 팁을 소개합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-20"
+updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: ["24시간 지치지 않","Routine"]
-heroImage: "/images/blog/ronaldo_polyphasic_sleep.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/ronaldo_polyphasic_sleep.webp"
 app: "buildself"
 formatVersion: 4
 authority: "크리스티아누 호날두 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

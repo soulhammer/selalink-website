@@ -1,11 +1,11 @@
 ---
 title: "在黑暗中唤醒掌心拼写感知：海伦·凯勒的触觉模仿训练与体感可塑性习惯"
 description: "探索克服盲聋双重障碍、蜕变为世界级作家与人权运动家海伦·凯勒的故事。揭示通过掌心触觉拼写刺激大脑体感皮层、拓展内在精神宇宙的触觉模仿习惯与跨模态神经可塑性原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-12"
+updatedDate: "2026-03-12"
 category: "BuildSelf"
-tags: ["在黑暗中唤醒掌心拼写","Routine"]
-heroImage: "/images/blog/helen_keller.png"
+tags: ["위인 습관", "헬렌 켈러", "휴식", "성찰"]
+heroImage: "/images/blog/helen_keller.webp"
 app: "buildself"
 formatVersion: 4
 authority: "海伦·凯勒自传《我的生活故事（The Story of My Life）》与帕金斯盲人学校档案考证及认知神经科学（Cognitive Neuroscience）研究"

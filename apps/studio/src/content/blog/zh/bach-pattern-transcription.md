@@ -4,8 +4,8 @@ description: "终其一生通过抄写前辈作曲家的乐谱将数学规则内
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["月光下抄写乐谱的大师","Routine"]
-heroImage: "/images/blog/bach_pattern_transcription.png"
+tags: ["위인 습관", "바흐", "필사", "손글씨", "학습법"]
+heroImage: "/images/blog/bach_pattern_transcription.webp"
 app: "buildself"
 formatVersion: 4
 authority: "约翰·尼古劳斯·福克尔《巴赫的生平与艺术（1802）》考证与认知神经科学（Cognitive Neuroscience）研究"

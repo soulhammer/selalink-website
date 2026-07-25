@@ -1,11 +1,11 @@
 ---
 title: "극도의 침묵 속에서 걸작을 낳다: 프란츠 카프카의 한밤중 집필 루틴과 전두엽 하향 조절"
 description: "20세기 문학의 거장 프란츠 카프카. 낮의 소음과 피로를 피해 밤 11시부터 새벽까지 창작에 몰입했던 그의 집필 습관과 전두엽 하향 조절(Frontal Down-regulation), 작업 기억 몰입의 뇌과학적 원리를 소개합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-01"
+updatedDate: "2026-04-01"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/kafka_late_night_writing.png"
+tags: ["위인 습관", "프란츠 카프카", "밤샘 루틴", "집중력", "창의성"]
+heroImage: "/images/blog/kafka_late_night_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "막스 브로트 『프란츠 카프카 평전(Franz Kafka: Eine Biographie)』 및 일기 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

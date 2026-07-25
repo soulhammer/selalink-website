@@ -1,11 +1,11 @@
 ---
 title: "O Gênio que Pintou o Universo com uma Colher: A Rotina de Sesta de Reinício Cerebral e Captura de Hipnagogia de Salvador Dalí"
 description: "Descubra como o mestre surrealista Salvador Dalí sentava-se numa cadeira segurando uma colher metálica para capturar ideias artísticas ao acordar. Explore a neurociência cognitiva da hipnagogia e ondas theta."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-07"
+updatedDate: "2026-03-07"
 category: "BuildSelf"
-tags: ["O Gênio qu","Routine"]
-heroImage: "/images/blog/dali_spoon_nap.png"
+tags: ["위인 습관", "살바도르 달리", "창의성", "낮잠", "뇌파"]
+heroImage: "/images/blog/dali_spoon_nap.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica da Autobiografia de Salvador Dalí *A Vida Secreta de Salvador Dalí (The Secret Life of Salvador Dalí)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)"

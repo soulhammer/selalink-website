@@ -1,11 +1,11 @@
 ---
 title: "율리우스 카이사르의 '동시 구술': 고도로 집중된 작업 전환의 기술과 작업 기억 확장"
 description: "바쁜 군사 및 행정 임무 속에서도 여러 서기에게 서로 다른 문서를 동시에 구술했던 율리우스 카이사르. 작업 기억(Working Memory)을 극대화하고 전전두엽 인지적 유연성을 끌어올리는 생산성 루틴을 분석합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-14"
+updatedDate: "2026-01-14"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/julius_caesar_multi_dictation.png"
+tags: ["위인 습관", "율리우스 카이사르", "시간 관리", "작업 기억", "생산성"]
+heroImage: "/images/blog/julius_caesar_multi_dictation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "플루타르코스 『영웅전(Parallel Lives)』 및 플리니우스 『자연사(Naturalis Historia)』 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

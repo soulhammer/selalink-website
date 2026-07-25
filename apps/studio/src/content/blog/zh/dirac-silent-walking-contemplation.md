@@ -1,11 +1,11 @@
 ---
 title: "言语极简与漫步宁静的天才：保罗·狄拉克的静音散步习惯与语言噪点消除法"
 description: "探索量子力学巨匠兼诺贝尔物理学奖得主保罗·狄拉克在周日通过静音散步消除语言噪点并精炼狄拉克方程式的习惯，揭示放松左脑语言皮层与激活顶叶时空运算电路的神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-25"
+updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["言语极简与漫步宁静的","Routine"]
-heroImage: "/images/blog/dirac_silent_walking_contemplation.png"
+tags: ["위인 습관", "Routine"]
+heroImage: "/images/blog/dirac_silent_walking_contemplation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "格雷厄姆·法梅洛传记《怪人：保罗·狄拉克的隐秘生活（The Strangest Man: The Hidden Life of Paul Dirac）》考证与认知神经科学（Cognitive Neuroscience）研究"

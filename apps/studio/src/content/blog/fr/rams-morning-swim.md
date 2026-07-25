@@ -1,11 +1,11 @@
 ---
 title: "더 적게, 하지만 더 좋게? 디터 람스의 아침 수영과 관찰 루틴"
 description: "미니멀리즘 디자인의 전설 디터 람스. 매일 아침 수영을 마친 후 정원을 가꾸며 뇌를 깨운 그의 습관과 현대인을 위한 아침 주의력 회복법을 소개합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-20"
+updatedDate: "2026-05-20"
 category: "BuildSelf"
-tags: ["더 적게, 하지만 ","Routine"]
-heroImage: "/images/blog/rams_morning_swim.png"
+tags: ["위인 습관", "디터 람스", "집중", "사색", "미니멀리즘"]
+heroImage: "/images/blog/rams_morning_swim.webp"
 app: "buildself"
 formatVersion: 4
 authority: "디터 람스 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

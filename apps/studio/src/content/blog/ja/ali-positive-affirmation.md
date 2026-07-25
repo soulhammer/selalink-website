@@ -1,11 +1,11 @@
 ---
 title: "自信を充電する朝の鏡の秘密：ムハメド・アリの肯定宣言（アファメーション）ルーティン"
 description: "世紀のボクサー、ムハメド・アリ。試合前の極度のパフォーマンス不安を克服しチャンピオンになれた秘訣である、鏡の前での肯定宣言（アファメーション）の脳科学的効果と3ステップのマインドセットルーティンをご紹介します。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-26"
+updatedDate: "2026-01-26"
 category: "BuildSelf"
-tags: ["自信を充電する朝の鏡","Routine"]
-heroImage: "/images/blog/ali_positive_affirmation.png"
+tags: ["위인 습관", "무하마드알리", "자기확신", "동기부여", "멘탈케어"]
+heroImage: "/images/blog/ali_positive_affirmation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ムハメド・アリ自伝『The Greatest: My Own Story』考証＆認知神経科学（Cognitive Neuroscience）研究"

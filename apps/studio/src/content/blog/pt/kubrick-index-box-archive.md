@@ -1,11 +1,11 @@
 ---
 title: "Projetar a Perfeição com um Segundo Cérebro: O Hábito de Arquivamento com Fichas e Descarregamento Cognitivo de Stanley Kubrick"
 description: "Descubra como o diretor Stanley Kubrick criou obras-primas reduzindo a carga da memória de trabalho através de um arquivo de fichas. Explore o descarregamento cognitivo, o chunking, a otimização pré-frontal e um guia de 3 passos."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-18"
+updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: ["Projetar a","Routine"]
-heroImage: "/images/blog/kubrick_index_box_archive.png"
+tags: ["글쓰기", "창의성", "기록"]
+heroImage: "/images/blog/kubrick_index_box_archive.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica de *The Stanley Kubrick Archives* (Alison Castle), Arquivos de Kubrick e Pesquisa em Neurociência Cognitiva e Psicologia Cognitiva"

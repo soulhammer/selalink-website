@@ -1,11 +1,11 @@
 ---
 title: "Der unerschütterliche Anker der Überzeugung: Jeanne d'Arcs morgendliche Stille-Routine und Amygdala-Stabilisierung"
 description: "Erfahren Sie, wie die französische Nationalheldin Jeanne d'Arc im Hundertjährigen Krieg durch morgendliches stilles Gebet unerschütterliche Mut bewahrte. Entdecken Sie die Neuropsychologie der Geräuschreduktion und Amygdala-Beruhigung."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-12"
+updatedDate: "2026-02-12"
 category: "BuildSelf"
-tags: ["Der unersc","Routine"]
-heroImage: "/images/blog/joan_silent_reflection.png"
+tags: ["위인 습관", "잔다르크", "침묵명상", "신념정렬", "멘탈회복"]
+heroImage: "/images/blog/joan_silent_reflection.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus den Prozessakten von Jeanne d'Arc (*Procès de Condamnation et de Réhabilitation*) & Forschung der kognitiven Neurowissenschaften"

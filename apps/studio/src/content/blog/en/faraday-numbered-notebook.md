@@ -1,11 +1,11 @@
 ---
 title: "16,000 Numbered Entries: Michael Faraday's Precision Notebook Routine and Cognitive Offloading"
 description: "Discover how physicist Michael Faraday cataloged over 16,000 numbered experiment entries. Explore the cognitive neuroscience of cognitive offloading, searchability, and working memory preservation."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-24"
+updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: ["Great Habits","faraday","Routine","Stamina"]
-heroImage: "/images/blog/faraday_numbered_notebook.png"
+tags: ["위인 습관", "마이클 패러데이", "기록", "생산성", "논리력"]
+heroImage: "/images/blog/faraday_numbered_notebook.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from *Michael Faraday's Diary* (ed. Thomas Martin / Frank A.J.L. James) & Cognitive Neuroscience Research"

@@ -1,11 +1,11 @@
 ---
 title: "徘徊于房间的声音：陀思妥耶夫斯基的踱步口述写作习惯与运动-语言皮层缝合机制"
 description: "探索《罪与罚》作者陀思妥耶夫斯基在踱步中演绎角色台词而后向妻子口述踱步创作的习惯，揭示肢体运动（Pacing）与口语认知（Oral Cognition）拉动运动皮层、布罗卡与韦尼克区以及镜向神经元的神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-25"
+updatedDate: "2026-05-25"
 category: "BuildSelf"
-tags: ["徘徊于房间的声音：陀","Routine"]
-heroImage: "/images/blog/dostoevsky_pacing_recitation.png"
+tags: ["위인 습관", "표도르 도스토옙스키", "창의성", "기록", "공부"]
+heroImage: "/images/blog/dostoevsky_pacing_recitation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "安娜·陀思妥耶夫斯卡娅回忆录《陀思妥耶夫斯基回忆录（Reminiscences）》考证与认知神经科学（Cognitive Neuroscience）研究"

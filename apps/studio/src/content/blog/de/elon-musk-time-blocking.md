@@ -1,11 +1,11 @@
 ---
 title: "Elon Musks '5-Minuten-Time-Blocking': Mikroplanung und hochintensive Fokus-Routine"
 description: "Entdecken Sie, wie Elon Musk 80–100-Stunden-Arbeitswochen bewältigt, indem er seinen Tagesablauf in 5-Minuten-Blöcke unterteilt. Erfahren Sie mehr über die Neurowissenschaften hinter Zeitknappheit und dem Parkinsonschen Gesetz."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-15"
+updatedDate: "2026-06-15"
 category: "BuildSelf"
-tags: ["Elon Musks","Routine"]
-heroImage: "/images/blog/elon_musk_time_blocking.png"
+tags: ["위인 습관", "일론 머스크", "생산성 향상", "시간 관리", "타임 블로킹"]
+heroImage: "/images/blog/elon_musk_time_blocking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Walter Isaacsons Biografie *Elon Musk* & Forschung der kognitiven Neurowissenschaften"

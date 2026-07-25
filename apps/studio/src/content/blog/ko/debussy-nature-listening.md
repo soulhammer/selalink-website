@@ -1,11 +1,11 @@
 ---
 title: "'달빛' 작곡가의 영감 비결: 클로드 드뷔시의 새벽 자연 소리 리스닝과 핑크 노이즈 알파파 유도법"
 description: "인상주의 음악의 거장 클로드 드뷔시가 새벽 숲의 바람 소리와 물소리에 귀 기울여 명곡을 만든 청각 센서리 루틴. 자연의 핑크 노이즈(Pink Noise)가 뇌파를 알파파로 전환하고 직관적 창의성을 높이는 인지신경과학적 원리를 밝힙니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-27"
+updatedDate: "2026-03-27"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/debussy_nature_listening.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/debussy_nature_listening.webp"
 app: "buildself"
 formatVersion: 4
 authority: "프랑수아 레쥐르 평전 『드뷔시 평전(Claude Debussy)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

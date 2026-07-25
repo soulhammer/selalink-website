@@ -4,7 +4,7 @@ description: "노벨문학상 수상자 파블로 네루다가 평생 오직 초
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["파블로 네루다의 초","Routine"]
+tags: ["위습관","루틴"]
 heroImage: "/images/blog/neruda_green_ink_flow.png"
 app: "buildself"
 formatVersion: 4

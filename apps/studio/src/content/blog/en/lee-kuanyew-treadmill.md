@@ -1,11 +1,11 @@
 ---
 title: "Sweating Out the Stress of Nation-Building: Lee Kuan Yew's Post-Workout Meditation and Autonomic Homeostasis"
 description: "Discover how Lee Kuan Yew, founding Prime Minister of Singapore, managed high-stakes governance stress by combining a 30-minute treadmill run with 20 minutes of breathing meditation. Explore autonomic nervous system switching, cortisol clearance, and a 3-step guide."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-05"
+updatedDate: "2026-04-05"
 category: "BuildSelf"
-tags: ["Great Habits","lee","Routine","Stamina"]
-heroImage: "/images/blog/lee_kuanyew_treadmill.png"
+tags: ["위인 습관", "리콴유", "유산소운동", "호흡명상", "자율신경계"]
+heroImage: "/images/blog/lee_kuanyew_treadmill.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Lee Kuan Yew's Autobiography *The Singapore Story*, Singapore National Archives & Cognitive Neuroscience and Exercise Physiology Research"

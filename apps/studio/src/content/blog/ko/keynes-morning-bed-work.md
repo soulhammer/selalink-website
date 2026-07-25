@@ -1,11 +1,11 @@
 ---
 title: "이불 속에서 쓰인 일반이론: 존 메이너드 케인스의 아침 침대 작업 습관과 CAR 각성"
 description: "대공황을 극복한 거시경제학자이자 기상 직후 2시간 동안 침대 위에서 모든 원고를 집필했던 케인스. 기상 각성 반응(CAR)과 전전두엽 인지 자원 활용, 수면 관성 방지 원리 및 3단계 실천법을 소개합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-08"
+updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/keynes_morning_bed_work.png"
+tags: ["집중", "생산성", "성공습관"]
+heroImage: "/images/blog/keynes_morning_bed_work.webp"
 app: "buildself"
 formatVersion: 4
 authority: "로버트 스키델스키 『케인스 평전(John Maynard Keynes)』 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 신경근육학(Neuromuscular Science) 연구"

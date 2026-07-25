@@ -1,11 +1,11 @@
 ---
 title: "El Poder para Despertar los Circuitos Cerebrales Positivos: La Rutina de Sonrisa Frente al Espejo y Limpieza de Dosan Ahn Chang-ho"
 description: "El poder de la 'sonrisa' y la 'limpieza' enfatizado por el activista por la independencia Dosan Ahn Chang-ho. Descubra las razones científicas por las que una sonrisa forzada libera serotonina en el cerebro y un espacio ordenado reduce la carga cognitiva visual."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-19"
+updatedDate: "2026-01-19"
 category: "BuildSelf"
-tags: ["El Poder p","Routine"]
-heroImage: "/images/blog/anchangho_mirror_smile.png"
+tags: ["위인 습관", "도산 안창호", "거울 미소", "청결", "마인드컨트롤", "자기계발"]
+heroImage: "/images/blog/anchangho_mirror_smile.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la Biografía de Dosan Ahn Chang-ho, Registros de la Academia de Jóvenes Coreanos (Hung Sah Dahn) e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"

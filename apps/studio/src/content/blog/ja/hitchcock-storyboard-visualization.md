@@ -1,11 +1,11 @@
 ---
 title: "頭の中で100パーセント完成させよ：ヒッチコックの視覚ストーリーボードルーティンと精神的シミュレーション"
 description: "スリラー映画の巨匠アルフレッド・ヒッチコックの撮影前精密ストーリーボード設計習慣。精神的シミュレーションで運動実行ネットワークを刺激し意思決定疲労を解消する脳科学的原理と3段階ガイドを紹介します。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-08"
+updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: ["頭の中で100パーセ","Routine"]
-heroImage: "/images/blog/hitchcock_storyboard_visualization.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/hitchcock_storyboard_visualization.webp"
 app: "buildself"
 formatVersion: 4
 authority: "アルフレッド・ヒッチコック評伝およびフランソワ・トリュフォー・インタビュー史料『ヒッチコック／トリュフォー（Hitchcock/Truffaut）』考証＆認知神経科学（Cognitive Neuroscience）研究"

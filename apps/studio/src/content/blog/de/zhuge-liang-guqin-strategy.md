@@ -1,11 +1,11 @@
 ---
 title: "세기 최고의 지략가? 제갈량의 새벽 구친 연주와 천문 전략 루틴"
 description: "삼국시대 촉한의 승상 제갈량이 복잡한 정세 속에서 새벽 구친 연주와 야간 천문 관측으로 고도의 마인드 컨트롤을 이뤄낸 비밀과 실천 가이드."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-15"
+updatedDate: "2026-01-15"
 category: "BuildSelf"
-tags: ["세기 최고의 지략가","Routine"]
-heroImage: "/images/blog/zhuge_liang_guqin_strategy.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/zhuge_liang_guqin_strategy.webp"
 app: "buildself"
 formatVersion: 4
 authority: "제갈량 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

@@ -1,11 +1,11 @@
 ---
 title: "새벽 4시의 기적: 코비 브라이언트의 맘바 훈련 루틴"
 description: "매일 새벽 4시에 첫 훈련을 수행했던 농구 황제 코비 브라이언트. 매일 같은 새벽 시간대의 강도 높은 훈련이 일주기 리듬을 고정시키고 신체 활성을 최고조로 끌어올리는 신경과학적 및 생리학적 원리를 밝힙니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-19"
+updatedDate: "2026-01-19"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/bryant_four_am_workout.png"
+tags: ["위인 습관", "코비 브라이언트", "성장", "의지력", "신체활성"]
+heroImage: "/images/blog/bryant_four_am_workout.webp"
 app: "buildself"
 formatVersion: 4
 authority: "코비 브라이언트 자서전 『맘바 멘탈리티(The Mamba Mentality: How I Play)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

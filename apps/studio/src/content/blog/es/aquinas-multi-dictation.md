@@ -1,11 +1,11 @@
 ---
 title: "El Método de Dictado Múltiple de Tomás de Aquino: Maximice la Memoria de Trabajo para Conquistar Dilemas Complejos"
 description: "Descubra cómo Tomás de Aquino, el gran teólogo medieval, expandió su memoria de trabajo y mantuvo la coherencia lógica mientras dictaba simultáneamente diferentes temas a 3 o 4 escribas."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-09"
+updatedDate: "2026-03-09"
 category: "BuildSelf"
-tags: ["El Método ","Routine"]
-heroImage: "/images/blog/aquinas_multi_dictation.png"
+tags: ["집중력", "구술대필", "작업기억", "중세"]
+heroImage: "/images/blog/aquinas_multi_dictation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la Biografía de Tomás de Aquino por Bernardo de Gui e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"

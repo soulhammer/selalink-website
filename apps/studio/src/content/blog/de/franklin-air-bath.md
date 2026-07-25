@@ -1,11 +1,11 @@
 ---
 title: "Jeden Morgen 30 Minuten: Benjamin Franklins merkwürdiges 'Luftbad' und seine Routine zur autonomen Nervensystem-Regeneration"
 description: "Erfahren Sie, wie Benjamin Franklin, Erfinder des Blitzableiters und Gründervater der USA, jeden Morgen nackt bei offenem Fenster ein 'Luftbad' nahm. Entdecken Sie die Neurowissenschaften der Kälterezeptoren (TRPM8) und Noradrenalin-Ausschüttung."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-12"
+updatedDate: "2026-02-12"
 category: "BuildSelf"
-tags: ["Jeden Morg","Routine"]
-heroImage: "/images/blog/franklin_air_bath.png"
+tags: ["위인 습관", "벤자민 프랭클린", "아침 루틴", "면역력", "각성"]
+heroImage: "/images/blog/franklin_air_bath.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus *Die Autobiographie von Benjamin Franklin*, Briefen an M. Barbeu Dubourg & Forschung der kognitiven Neurowissenschaften"

@@ -1,11 +1,11 @@
 ---
 title: "The Genius Who Wore the Same Clothes Every Day: Steve Jobs's Decision Minimalism Routine and Prefrontal Cognitive Resource Preservation"
 description: "Discover how Apple co-founder Steve Jobs preserved cognitive energy by wearing an identical uniform of a black turtleneck and jeans every day. Explore the neuroscience of decision fatigue, prefrontal cortex resource allocation, and a 3-step clothing simplification framework."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-25"
+updatedDate: "2026-06-25"
 category: "BuildSelf"
-tags: ["Great Habits","jobs","Routine","Stamina"]
-heroImage: "/images/blog/jobs_uniform_minimalism.png"
+tags: ["위인 습관", "스티브 잡스", "생산성", "단순화", "의사결정"]
+heroImage: "/images/blog/jobs_uniform_minimalism.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Walter Isaacson's *Steve Jobs* (2011), Apple Archives & Cognitive Psychology and Cognitive Neuroscience Research"

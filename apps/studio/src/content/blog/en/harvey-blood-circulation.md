@@ -4,7 +4,7 @@ description: "Explore how 17th-century physician William Harvey shattered 2,000 
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["Great Habits","harvey","Routine","Stamina"]
+tags: ["위습관","루틴"]
 heroImage: "/images/blog/harvey_blood_circulation.png"
 app: "buildself"
 formatVersion: 4

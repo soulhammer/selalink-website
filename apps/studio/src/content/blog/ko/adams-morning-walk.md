@@ -1,11 +1,11 @@
 ---
 title: "뇌 건강을 깨우는 발걸음? 존 퀸시 애덤스의 속보 산책과 성찰 기록 루틴"
 description: "미국 제6대 대통령 존 퀸시 애덤스는 매일 5마일의 빠른 속보 산책과 저녁 성찰 쓰기를 고수했습니다. BDNF 분비를 자극하는 건강한 뇌 습관을 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-06"
+updatedDate: "2026-04-06"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/adams_morning_walk.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/adams_morning_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "존 퀸시 애덤스 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

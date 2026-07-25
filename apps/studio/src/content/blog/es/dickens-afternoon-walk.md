@@ -1,11 +1,11 @@
 ---
 title: "El Novelista que Caminaba a Paso Ligero 3 Horas Cada Tarde: La Rutina de Ideas y Activación de la DMN de Charles Dickens"
 description: "Descubra cómo el gigante literario Charles Dickens diseñó personajes y tramas complejas mediante una caminata diaria de 3 horas. Explore la neurociencia cognitiva de la activación de la Red por Defecto (DMN) y la secreción de BDNF."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-23"
+updatedDate: "2026-05-23"
 category: "BuildSelf"
-tags: ["El Novelis","Routine"]
-heroImage: "/images/blog/dickens_afternoon_walk.png"
+tags: ["위인 습관", "찰스 디킨스", "산책", "창의성", "아이디어"]
+heroImage: "/images/blog/dickens_afternoon_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la Biografía de John Forster *La vida de Charles Dickens (The Life of Charles Dickens)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"

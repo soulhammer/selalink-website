@@ -1,11 +1,11 @@
 ---
 title: "Donner naissance a des chefs-d'œuvre dans un silence absolu : La routine d'écriture nocturne de Franz Kafka et la régulation descendante frontale"
 description: "Découvrez comment le géant de la littérature du XXe siècle Franz Kafka a composé des chefs-d'œuvre comme La Métamorphose en écrivant de 23h a l'aube dans un silence absolu. Explorez la neuroscience de la régulation descendante frontale."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-01"
+updatedDate: "2026-04-01"
 category: "BuildSelf"
-tags: ["Donner nai","Routine"]
-heroImage: "/images/blog/kafka_late_night_writing.png"
+tags: ["위인 습관", "프란츠 카프카", "밤샘 루틴", "집중력", "창의성"]
+heroImage: "/images/blog/kafka_late_night_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de la biographie de Max Brod *Franz Kafka*, des Journaux de Kafka & de la Recherche en Neurosciences Cognitives"

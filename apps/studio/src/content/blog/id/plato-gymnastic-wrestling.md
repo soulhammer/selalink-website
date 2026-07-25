@@ -1,11 +1,11 @@
 ---
 title: "이데아를 찾기 전 어깨를 단련한 철학자? 플라톤의 고강도 신체 예열법"
 description: "고대 그리스의 철학자 플라톤. 본명이 아닌 '넓은 어깨'라는 레슬러 시절 별명으로 불렸던 그가 매일 아침 지적 토론 전에 격렬하게 몸을 연마했던 뇌 과학적 원리와 현대적 홈 트레이닝 적용법을 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-05"
+updatedDate: "2026-03-05"
 category: "BuildSelf"
-tags: ["이데아를 찾기 전 ","Routine"]
-heroImage: "/images/blog/plato_gymnastic_wrestling.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/plato_gymnastic_wrestling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "플라톤 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

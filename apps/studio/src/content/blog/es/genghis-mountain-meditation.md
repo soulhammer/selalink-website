@@ -1,11 +1,11 @@
 ---
 title: "La Gran Visión para Superar Tiempos Convulsos: La Rutina de Meditación Visual en la Cima y Visión Periférica de Gengis Kan"
 description: "Descubra cómo el conquistador Gengis Kan despejaba el ruido mental antes de grandes batallas subiendo solo a montañas sagradas. Explore la psicología cognitiva de su 'Meditación Visual', la Teoría de Restauración de la Atención y la visión periférica."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-21"
+updatedDate: "2026-04-21"
 category: "BuildSelf"
-tags: ["La Gran Vi","Routine"]
-heroImage: "/images/blog/genghis_mountain_meditation.png"
+tags: ["위인 습관", "칭기즈칸", "시각화", "명상", "대자연휴식"]
+heroImage: "/images/blog/genghis_mountain_meditation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de *Gengis Kan y la creación del mundo moderno* de Jack Weatherford, *La historia secreta de los mongoles* e Investigación en Neurociencia Cognitiva"

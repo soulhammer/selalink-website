@@ -1,11 +1,11 @@
 ---
 title: "내면의 무의식을 깨운 3마일 산책: 시그문트 프로이트의 저녁 속보 루틴과 무의식 저널링"
 description: "정신분석학의 창시자 시그문트 프로이트. 고된 정신적 분석 업무를 마친 저녁마다 비엔나의 거리를 속보로 걸으며 좌뇌와 우뇌의 균형을 되찾고 무의식을 기록했던 그의 뇌과학적 저녁 루틴과 양측성 감각 자극의 원리를 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-09"
+updatedDate: "2026-07-09"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/freud_evening_walk.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/freud_evening_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "시그문트 프로이트 자서전 『나의 생애와 정신분석(An Autobiographical Study)』 및 비엔나 프로이트 박물관(Sigmund Freud Museum) 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

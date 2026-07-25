@@ -1,11 +1,11 @@
 ---
 title: "アレクサンドロス大王の「枕の下のイリアス」：巨大な挑戦を支えた夜のビジョン読書"
 description: "毎夜、短剣とイリアスを枕の下に置き読みながら戦場で勇気を失わなかったアレクサンドロス大王。潜在意識を刺激するビジョン読書の力を探ります。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-23"
+updatedDate: "2026-01-23"
 category: "BuildSelf"
-tags: ["アレクサンドロス大王","Routine"]
-heroImage: "/images/blog/alexander_pillow_iliad.png"
+tags: ["위인 습관", "알렉산드로스", "동기부여", "독서 습관", "잠재의식"]
+heroImage: "/images/blog/alexander_pillow_iliad.webp"
 app: "buildself"
 formatVersion: 4
 authority: "プルタルコス『英雄伝（Life of Alexander）』歴史的考証＆認知神経科学（Cognitive Neuroscience）研究"

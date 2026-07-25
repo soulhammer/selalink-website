@@ -1,11 +1,11 @@
 ---
 title: "煩わしいコルセットと装飾を果敢に削ぎ落としたシャネルの本質ミニマリズム裁断法と前頭葉抑制フィルタリング"
 description: "女性ファッションの革命を成し遂げた伝説的デザイナーのココ・シャネル。スケッチの代わりに生きているモデルの体に生地を当て、ハサミで不要な装飾を削ぎ落としたリアルタイム・ミニマリズム裁断ルーティンと、大脳前頭葉抑制フィルタリング（Suppression Filtering）の認知神経科学的原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-17"
+updatedDate: "2026-05-17"
 category: "BuildSelf"
-tags: ["煩わしいコルセットと","Routine"]
-heroImage: "/images/blog/coco_chanel.png"
+tags: ["위인 습관", "코코 샤넬", "의사결정", "생산성"]
+heroImage: "/images/blog/coco_chanel.webp"
 app: "buildself"
 formatVersion: 4
 authority: "エドモンド・シャルル＝ルー伝記『Chanel and Her World』考証＆認知神経科学（Cognitive Neuroscience）研究"

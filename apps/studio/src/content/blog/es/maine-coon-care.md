@@ -15,23 +15,28 @@ faqs:
   - question: "¿Qué pasa si cepillo a la fuerza el pelo enredado de mi Maine Coon?"
     answer: "Por su gran tamaño y fuerza, si asocian el aseo con dolor y se defienden, será muy difícil manejarlos. Use sprays desenredantes primero y cepille en sesiones cortas."
 ---
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+
+Los Maine Coons son los 'gigantes gentiles' del mundo felino. Tienen colas tupidas y caras leoninas. Son dulces y les encanta jugar con agua. 🐈
+
+Sin embargo, al pesar de 8 a 12 kg, sus articulaciones sufren mucha presión. También son propensos a la Cardiomiopatía Hipertrófica (HCM), un problema cardíaco hereditario. Controlar su respiración al dormir y usar cojines de impacto en sus saltos es fundamental.
+
+Hoy, PetSelf descodifica las señales del Maine Coon e introduce una rutina de 3 pasos para proteger su corazón y cuidar su hermoso pelo.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+      Evidencia Veterinaria y Comportamental
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+      Este contenido se basa en <strong>Guía de la Maine Coon Breeders & Fanciers Association (MCBFA) y protocolos de manejo de gatos grandes de AAFP</strong>.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+    🐾 Maine Coon Perfil principal
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Vida útil media</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 15 años</span></div>
@@ -42,7 +47,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
 
 ## 1. Lenguaje corporal del Maine Coon: Trinos amigables y cola bufada
 
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+Los Maine Coons son sociables y les gusta comunicarse. Las señales clave incluyen el 'trino' y la 'cola bufada'. Un trino suave al acercarse es un saludo amistoso. Por el contrario, al asustarse por ruidos fuertes, su cola se infla por completo. Cuando vea esto, retire el factor de estrés y déjelo calmarse solo.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -76,7 +81,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Mañana: Control estricto de peso e hidratación para evitar HCM</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+    La HCM en el Maine Coon empeora con la obesidad. Pese su comida diariamente en una báscula para controlar las calorías y proporcione agua fresca.
   </p>
 </div>
 
@@ -86,7 +91,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: Cepillado completo con peine de metal y carda</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+    El pelo del cuello y las axilas se enreda fácilmente, causando dermatitis. Peine a fondo con peine de metal para soltar el subpelo.
   </p>
 </div>
 
@@ -96,7 +101,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noche: Alfombras amortiguadoras y control de frecuencia respiratoria</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+    Su gran peso aumenta el impacto al saltar. Revise alfombras amortiguadoras. Controle la frecuencia respiratoria al dormir (menos de 30 por minuto).
   </p>
 </div>
 
@@ -105,7 +110,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+      El simple hecho de observar las señales de calma de su mascota puede prevenir problemas de comportamiento graves y enfermedades causadas por el estrés. Embora o tratamento veterinário é importante, proporcionar um ambiente seguro (rampas, espaços verticales, múltiples fuentes de agua) es el escudo más fuerte para apoyar su felicidad de por vida.
     </p>
   </div>
 </div>
@@ -123,7 +128,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+      Las ecocardiografías veterinarias periódicas son esenciales. Evite la obesidad con control de raciones. Si la respiración al dormir supera las 30 por minuto, acuda al veterinario de inmediato.
     </p>
   </details>
 
@@ -133,7 +138,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+      Por su gran tamaño y fuerza, si asocian el aseo con dolor y se defienden, será muy difícil manejarlos. Use sprays desenredantes primero y cepille en sesiones cortas.
     </p>
   </details>
 </div>

@@ -1,11 +1,11 @@
 ---
 title: "Um Jogo de Paciência no Gabinete Presidencial: A Rotina de Alívio da Fadiga de Decisão de Charles de Gaulle"
 description: "Descubra como o presidente francês Charles de Gaulle descontraía do estresse de Estado jogando paciência. Explore a neurociência cognitiva de como a correspondência de padrões não verbais desativa os filtros pré-frontais de tomada de decisão e acalma a amídala."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-28"
+updatedDate: "2026-03-28"
 category: "BuildSelf"
-tags: ["Um Jogo de","Routine"]
-heroImage: "/images/blog/degaulle_solitaire_refresh.png"
+tags: ["위인 습관", "샤를 드 골", "솔리테어", "의사결정 피로", "두뇌 이완"]
+heroImage: "/images/blog/degaulle_solitaire_refresh.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica das Memórias de Charles de Gaulle *Memórias de Guerra (Mémoires de guerre)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)"

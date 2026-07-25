@@ -15,16 +15,17 @@ faqs:
   - question: "Bagaimana cara terbaik mengelola displasia pinggul?"
     answer: "Jaga berat badan ideal agar tidak membebani pinggulnya. Hindari aktivitas melompat terlalu tinggi di lantai yang licin."
 ---
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+
+Terkenal dengan bulu putih tebal dan 'Senyum Samoyed'-nya, anjing penarik kereta salju ini adalah raksasa yang ramah. Bulu ganda tebalnya melindungi dari dingin namun mudah memerangkap panas di iklim lembap, memicu penyakit kulit. Karena ukurannya, mereka rentan terhadap displasia pinggul. Hari ini, PetSelf mengulas sinyal sendi Samoyed dan menyajikan rutinitas 3 langkah.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Bukti Dokter Hewan & Perilaku
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Konten ini didasarkan pada <strong>Panduan Ras Samoyed AKC & Pedoman OFA</strong>.
     </p>
   </div>
 </div>
@@ -42,7 +43,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
 
 ## 1. Bahasa Tubuh Samoyed: Posisi Pendinginan Tubuh dan Tanda Nyeri Sendi
 
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+Saat kegerahan, Samoyed berbaring dengan kaki belakang membentang, disebut 'splooting', untuk mendinginkan perut. Sebaliknya, cara berjalan 'melompat kelinci' (kedua kaki belakang bergerak bersamaan) menunjukkan nyeri pinggul. Deteksi dini sangat penting.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -76,7 +77,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pagi: Menyikat dengan Slicker Brush untuk Ventilasi Bulu</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+    Sikat bulu ganda mereka setiap hari menggunakan slicker brush dan sisir besi untuk membuang bulu mati di bagian dalam.
   </p>
 </div>
 
@@ -86,7 +87,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Siang: Perlindungan Sendi & Pemasangan Karpet Antilicin</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+    Pasang alas antilicin di lantai rumah yang licin dan berikan suplemen glukosamin untuk merawat sendinya.
   </p>
 </div>
 
@@ -96,7 +97,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Malam: Cuci Kaki dan Keringkan Secara Menyeluruh</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+    Bersihkan kaki setelah aktivitas luar ruangan. Keringkan bulu di sela-sela jari kaki dengan hair dryer hingga benar-benar kering.
   </p>
 </div>
 
@@ -105,7 +106,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Cukup dengan mengamati sinyal penenang hewan peliharaan Anda, Anda dapat mencegah masalah perilaku utama dan penyakit akibat stres. Meskipun perawatan medis penting, menyediakan lingkungan yang aman (tangga ramah hewan, ruang vertikal, beberapa sumber air) adalah pelindung terkuat untuk mendukung kebahagiaan seumur hidup mereka.
     </p>
   </div>
 </div>
@@ -123,7 +124,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Sangat tidak dianjurkan. Bulu ganda berfungsi sebagai isolator panas dan pelindung sinar UV. Mencukur habis dapat merusak folikel dan memicu sengatan matahari.
     </p>
   </details>
 
@@ -133,7 +134,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Jaga berat badan ideal agar tidak membebani pinggulnya. Hindari aktivitas melompat terlalu tinggi di lantai yang licin.
     </p>
   </details>
 </div>

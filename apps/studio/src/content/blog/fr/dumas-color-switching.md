@@ -1,11 +1,11 @@
 ---
 title: "Le génie qui adaptait la couleur de son papier au genre littéraire : La routine de réinitialisation par la couleur et le primage visuel d'Alexandre Dumas"
 description: "Découvrez comment Alexandre Dumas, auteur du 'Comte de Monte-Cristo', utilisait du papier de couleur différente pour chaque genre afin d'éviter la fatigue mentale. Explorez la neuroscience cognitive du primage par la couleur."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-07"
+updatedDate: "2026-06-07"
 category: "BuildSelf"
-tags: ["Le génie q","Routine"]
-heroImage: "/images/blog/dumas_color_switching.png"
+tags: ["위인 습관", "알렉상드르 뒤마", "창의성", "색상", "생산성"]
+heroImage: "/images/blog/dumas_color_switching.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de l'autobiographie d'Alexandre Dumas *Mes Mémoires* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

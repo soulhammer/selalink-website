@@ -1,11 +1,11 @@
 ---
 title: "O Gênio que Sempre Carregava um Caderno na Cintura: A Rotina de Anotação Imediata e Externalização de Memória de Leonardo da Vinci"
 description: "Descubra como o polímata renascentista Leonardo da Vinci mantinha um caderno de couro preso à cintura para registrar observações. Explore a neurociência cognitiva de externalizar a memória de trabalho para liberar carga cognitiva."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-29"
+updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: ["O Gênio qu","Routine"]
-heroImage: "/images/blog/da_vinci_notepad.png"
+tags: ["위인 습관", "레오나르도 다 빈치", "메모", "기록", "창의성"]
+heroImage: "/images/blog/da_vinci_notepad.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica da Biografia de Walter Isaacson *Leonardo da Vinci* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)"

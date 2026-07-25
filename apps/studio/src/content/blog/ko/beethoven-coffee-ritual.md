@@ -1,11 +1,11 @@
 ---
 title: "원두 60알의 정교함: 베토벤의 아침 커피 리추얼과 마인드풀니스"
 description: "시대를 초월한 위대한 작곡가 루트비히 판 베토벤이 매일 아침 정확히 60알의 원두를 세어 커피를 내린 독특한 습관. 미세 감각 조작이 디폴트 모드 네트워크(DMN)를 안정시키고 뇌의 몰입 스위치를 켜는 신경과학적 원리를 규명합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-14"
+updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/beethoven_coffee_ritual.png"
+tags: ["위인 습관", "베토벤", "아침루틴", "커피", "마인드풀니스"]
+heroImage: "/images/blog/beethoven_coffee_ritual.webp"
 app: "buildself"
 formatVersion: 4
 authority: "안톤 쉰들러 평전 『베토벤 평전(Biography of Ludwig van Beethoven)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

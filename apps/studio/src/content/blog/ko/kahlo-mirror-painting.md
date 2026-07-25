@@ -1,11 +1,11 @@
 ---
 title: "침대에 누워 천장에 비친 자신을 그리다: 프리다 칼로의 거울 자화상 루틴과 자기 거울 응시치료"
 description: "멕시코의 전설적인 화가 프리다 칼로. 전신 부상의 혹독한 고통 속에서도 침대 천장의 거울을 보며 매일 자화상을 그렸던 그의 극복의 습관과 거울 응시(Mirror-Gazing)가 주는 임상심리학적 치유 효과, 회복탄력성(Resilience) 강화 및 3단계 실천법을 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-07"
+updatedDate: "2026-06-07"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/kahlo_mirror_painting.png"
+tags: ["위인 습관", "프리다 칼로", "거울 명상", "치유", "회복탄력성"]
+heroImage: "/images/blog/kahlo_mirror_painting.webp"
 app: "buildself"
 formatVersion: 4
 authority: "프리다 칼로 일기 및 평전 사료 『프리다 칼로의 일기(The Diary of Frida Kahlo)』 고증 & 임상심리학(Clinical Psychology) 및 인지신경과학(Cognitive Neuroscience) 연구"

@@ -1,11 +1,11 @@
 ---
 title: "The Genius Who Color-Coded Manuscript Paper by Genre: Alexandre Dumas's Color Reset Routine and Visual Priming"
 description: "Discover how Alexandre Dumas, author of 'The Count of Monte Cristo', used different colored manuscript paper for each genre to prevent mental fatigue. Explore the cognitive neuroscience of color priming, switching costs, and working memory preservation."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-07"
+updatedDate: "2026-06-07"
 category: "BuildSelf"
-tags: ["Great Habits","dumas","Routine","Stamina"]
-heroImage: "/images/blog/dumas_color_switching.png"
+tags: ["위인 습관", "알렉상드르 뒤마", "창의성", "색상", "생산성"]
+heroImage: "/images/blog/dumas_color_switching.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Alexandre Dumas's Autobiography *Mes Mémoires* & Cognitive Neuroscience Research"

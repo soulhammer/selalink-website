@@ -1,11 +1,11 @@
 ---
 title: "번아웃과 실존적 우울을 날리는 원초적 방법: 알베르 카뮈의 축구 리셋 습관"
 description: "프랑스의 노벨 문학상 수상 작가이자 철학자 알베르 카뮈. 창작 슬럼프와 우울이 밀려올 때 그라운드로 나가 골키퍼로 몸을 던졌던 신체 몰입 루틴. 전두엽 오프라인과 소뇌 인지 스위칭의 신경과학적 메커니즘을 밝힙니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-21"
+updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/camus_football_reset.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/camus_football_reset.webp"
 app: "buildself"
 formatVersion: 4
 authority: "올리비에 토드 평전 『알베르 카뮈 평전(Albert Camus: A Life)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

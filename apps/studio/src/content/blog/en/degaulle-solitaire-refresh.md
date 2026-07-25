@@ -1,11 +1,11 @@
 ---
 title: "A Solitaire Card Game in the Presidential Office: Charles de Gaulle's Decision Fatigue Relief Routine"
 description: "Discover how French President Charles de Gaulle unwound from high-stakes statecraft by playing solitaire card games. Explore the cognitive neuroscience of how non-verbal pattern matching deactivates prefrontal decision-making filters and calms amygdala overload."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-28"
+updatedDate: "2026-03-28"
 category: "BuildSelf"
-tags: ["Great Habits","degaulle","Routine","Stamina"]
-heroImage: "/images/blog/degaulle_solitaire_refresh.png"
+tags: ["위인 습관", "샤를 드 골", "솔리테어", "의사결정 피로", "두뇌 이완"]
+heroImage: "/images/blog/degaulle_solitaire_refresh.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Charles de Gaulle's Memoirs *War Memoirs (Mémoires de guerre)* & Cognitive Neuroscience Research"

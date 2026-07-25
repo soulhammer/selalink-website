@@ -1,11 +1,11 @@
 ---
 title: "Surmonter la surcharge décisionnelle par la chevauchée matinale : L'éveil aérobique de Bismarck et la routine TOP 3"
 description: "Découvrez comment Otto von Bismarck, le « Chancelier de fer » qui a unifié l'Allemagne, combinait la chevauchée matinale avec la méthode d'extraction des TOP 3 priorités, et percez les principes neuroscientifiques d'augmentation du flux sanguin cérébral pour prévenir la fatigue décisionnelle."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-16"
+updatedDate: "2026-03-16"
 category: "BuildSelf"
-tags: ["Surmonter ","Routine"]
-heroImage: "/images/blog/bismarck_morning_ride_priority.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/bismarck_morning_ride_priority.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de l'autobiographie d'Otto von Bismarck *Gedanken und Erinnerungen* & de la biographie d'A.J.P. Taylor *Bismarck: The Man and the Statesman* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

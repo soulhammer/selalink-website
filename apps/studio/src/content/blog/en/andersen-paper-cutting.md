@@ -1,11 +1,11 @@
 ---
 title: "Scissor Work That Heals Depression? Andersen's Paper-Cutting Routine"
 description: "World-renowned fairy tale author Hans Christian Andersen. Discover the psychiatric healing principles and 3-step guide to 'Paper Cutting'—the secret behind blossoming beautiful imagination despite a lifetime of depression and emotional deprivation."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["Great Habits","andersen","Routine","Stamina"]
-heroImage: "/images/blog/andersen_paper_cutting.png"
+tags: ["위인 습관", "안데르센", "종이오리기", "미술치료", "뇌휴식"]
+heroImage: "/images/blog/andersen_paper_cutting.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from the Paper Archives of the Hans Christian Andersen Museum in Odense, Denmark & Cognitive Neuroscience Research"

@@ -1,11 +1,11 @@
 ---
 title: "Die Vollendung der Evolutionstheorie durch Gehen: Charles Darwins 'Sandwalk'-Spaziergang und kognitive Inkubation"
 description: "Erkunden Sie, wie der Naturforscher Charles Darwin auf seinem Kiesweg 'Sandwalk' spazierte und Steine wegtrat, um Runden zu zählen und die Evolutionstheorie zu ordnen. Entdecken Sie die kognitiven Neurowissenschaften der DMN-Aktivierung und kognitiven Inkubation."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-14"
+updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: ["Die Vollen","Routine"]
-heroImage: "/images/blog/darwin_sandwalk.png"
+tags: ["위인 습관", "찰스 다윈", "걷기", "사색", "아이디어"]
+heroImage: "/images/blog/darwin_sandwalk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Charles Darwins Autobiografie *Mein Leben (The Autobiography of Charles Darwin)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

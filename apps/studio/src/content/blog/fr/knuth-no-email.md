@@ -1,11 +1,11 @@
 ---
 title: "Immersion hors ligne : La routine de déconnexion e-mail et de prévention du changement de contexte de Donald Knuth"
 description: "Découvrez comment le grand chercheur en informatique Donald Knuth a renoncé a l'e-mail dès le 1er janvier 1990 pour préserver son travail en profondeur. Explorez la neuroscience de l'élimination du changement de contexte et du traitement par lots."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["Immersion ","Routine"]
-heroImage: "/images/blog/knuth_no_email.png"
+tags: ["위인 습관", "도널드 너스", "집중", "생산성", "시간 관리"]
+heroImage: "/images/blog/knuth_no_email.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de la déclaration officielle de Donald Knuth *Email and I*, des archives de Stanford & de la Recherche en Neurosciences Cognitives et Psychologie Cognitive"

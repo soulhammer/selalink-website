@@ -1,11 +1,11 @@
 ---
 title: "开启黎明的激动：郑周永会长的5点家族早餐与步行习惯"
 description: "探索现代集团创始人郑周永会长终生坚持的每天凌晨4点起床与晨间家族沟通。揭示晨间有氧运动与情感交流如何平稳皮质醇分泌并赋予全天活力的神经科学与生理学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-12"
+updatedDate: "2026-06-12"
 category: "BuildSelf"
-tags: ["开启黎明的激动：郑周","Routine"]
-heroImage: "/images/blog/chung_dawn_breakfast.png"
+tags: ["위인 습관", "정주영", "의지력", "계획", "시간 관리"]
+heroImage: "/images/blog/chung_dawn_breakfast.webp"
 app: "buildself"
 formatVersion: 4
 authority: "郑周永自传《有试炼，无失败》考证与认知神经科学（Cognitive Neuroscience）研究"

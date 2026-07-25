@@ -1,11 +1,11 @@
 ---
 title: "La femme qui planifiait des meurtres en mangeant des pommes dans son bain : Le brainstorming en eau chaude et la relaxation DMN d'Agatha Christie"
 description: "Découvrez comment la reine du crime Agatha Christie concevait d'incroyables alibis et intrigues criminelles en mangeant des pommes dans un bain chaud, et percez la neuroscience cognitive de l'activation du réseau en mode par défaut (DMN) et de la mastication."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["La femme q","Routine"]
-heroImage: "/images/blog/christie_bathtub_brainstorming.png"
+tags: ["위인 습관", "아가사 크리스티", "아이디어", "목욕", "창의성"]
+heroImage: "/images/blog/christie_bathtub_brainstorming.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de la biographie d'Agatha Christie *Une autobiographie (An Autobiography)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

@@ -1,11 +1,11 @@
 ---
 title: "영감을 길들이는 법? 스티븐 킹의 매일 2,000단어 집필 루틴과 몰입 조건화"
 description: "세계에서 가장 성공한 작가 스티븐 킹의 집필 루틴. 감각운동 학습(Sensorimotor Learning)과 조건화 트리거를 활용해 전전두엽 의지력 소모 없이 매일 일정한 생산성을 유지하는 3단계 비결을 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-18"
+updatedDate: "2026-05-18"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/king_writing_routine.png"
+tags: ["위인 습관", "스티븐 킹", "집필", "루틴", "창의성", "조건형성"]
+heroImage: "/images/blog/king_writing_routine.webp"
 app: "buildself"
 formatVersion: 4
 authority: "스티븐 킹 자서전 『유혹하는 글쓰기(On Writing: A Memoir of the Craft, 2000)』 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 인지심리학(Cognitive Psychology) 연구"

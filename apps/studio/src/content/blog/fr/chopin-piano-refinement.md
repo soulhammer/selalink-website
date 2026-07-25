@@ -1,11 +1,11 @@
 ---
 title: "Le perfectionnisme obsessionnel du poète du piano : La routine d'itération au clavier et d'ajustement du cortex cingulaire antérieur de Frédéric Chopin"
 description: "Découvrez comment le maître romantique Frédéric Chopin jouait des mélodies des centaines de fois au piano pour façonner des chefs-d'œuvre immortels, et explorez la neuroscience cognitive de la détection d'erreurs du Cortex Cingulaire Antérieur (ACC) et du Réglage Neuronal Fin."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-21"
+updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: ["Le perfect","Routine"]
-heroImage: "/images/blog/chopin_piano_refinement.png"
+tags: ["위인 습관", "쇼팽", "완벽주의", "피아노작곡", "디테일퇴고"]
+heroImage: "/images/blog/chopin_piano_refinement.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de l'autobiographie de George Sand *Histoire de ma vie* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

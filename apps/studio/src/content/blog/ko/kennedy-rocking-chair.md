@@ -1,11 +1,11 @@
 ---
 title: "백악관 집무실의 흔들의자: 존 F. 케네디의 척추 통증 극복과 전정기관 이완법"
 description: "냉전기 위기 속에서 극심한 척추 통증을 견디며 미국을 이끌었던 존 F. 케네디. 그가 오벌 오피스에서 흔들의자를 타며 신체적 고통을 이겨내고 스트레스를 다스린 뇌과학적 원리와 전정기관 자극, 부교감 신경계 활성화 및 3단계 실천법을 공개합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-10"
+updatedDate: "2026-02-10"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/kennedy_rocking_chair.png"
+tags: ["위인 습관", "존 F. 케네디", "스트레스 해소", "척추 건강", "휴식"]
+heroImage: "/images/blog/kennedy_rocking_chair.webp"
 app: "buildself"
 formatVersion: 4
 authority: "존 F. 케네디 대통령 도서관(JFK Library) 및 제넷 트래블(Janet Travell) 주치의 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 정형외과학(Orthopedics) 연구"

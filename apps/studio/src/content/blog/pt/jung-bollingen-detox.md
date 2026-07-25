@@ -1,11 +1,11 @@
 ---
 title: "Detox Digital na Torre de Bollingen: O Método de Recuperação do Inconsciente de Carl Jung e o Reinício Cognitivo DMN"
 description: "Descubra como o pioneiro da psicologia analítica Carl Jung reiniciava seu cérebro cortando lenha em uma torre isolada sem eletricidade. Explore a neurociência da ativação da Rede de Modo Padrão (DMN) e uma rotina de detox digital de 3 passos."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-21"
+updatedDate: "2026-01-21"
 category: "BuildSelf"
-tags: ["Detox Digi","Routine"]
-heroImage: "/images/blog/jung_bollingen_detox.png"
+tags: ["위인 습관", "칼 융", "휴식", "사색", "디지털디톡스"]
+heroImage: "/images/blog/jung_bollingen_detox.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica da Autobiografia de Carl Jung *Memórias, Sonhos, Reflexões*, Arquivos da Torre de Bollingen e Pesquisa em Psicologia Analítica e Neurociência Cognitiva"

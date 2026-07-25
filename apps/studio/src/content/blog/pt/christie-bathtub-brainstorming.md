@@ -1,11 +1,11 @@
 ---
 title: "A Mulher que Planejava Assassinados Comendo Maçãs na Banheira: A Tempestade de Ideias em Banho Quente e Relaxamento DMN de Agatha Christie"
 description: "Descubra como a Rainha do Crime Agatha Christie concebeu álibis intrincados e tramas de assassinato comendo maçãs em um banho quente, e explore a neurociência cognitiva da ativação da Rede de Modo Padrão (DMN) e da mastigação."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["A Mulher q","Routine"]
-heroImage: "/images/blog/christie_bathtub_brainstorming.png"
+tags: ["위인 습관", "아가사 크리스티", "아이디어", "목욕", "창의성"]
+heroImage: "/images/blog/christie_bathtub_brainstorming.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica da Autobiografia de Agatha Christie *Uma Autobiografia (An Autobiography)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)"

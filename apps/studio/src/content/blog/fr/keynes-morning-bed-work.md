@@ -1,11 +1,11 @@
 ---
 title: "La Théorie générale rédigée sous la couette : La routine de travail matinal au lit de John Maynard Keynes et l'activation CAR"
 description: "Découvrez comment le macroéconomiste John Maynard Keynes, qui a surmonté la Grande Dépression, a rédigé ses manuscrits au lit pendant deux heures au réveil. Explorez la neuroscience de la Réponse d'éveil du cortisol (CAR) et un guide en 3 étapes."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-08"
+updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: ["La Théorie","Routine"]
-heroImage: "/images/blog/keynes_morning_bed_work.png"
+tags: ["집중", "생산성", "성공습관"]
+heroImage: "/images/blog/keynes_morning_bed_work.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de la biographie de Robert Skidelsky *John Maynard Keynes*, des archives de Keynes & de la Recherche en Neurosciences Cognitives et Sciences Neuromusculaires"

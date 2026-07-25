@@ -1,11 +1,11 @@
 ---
 title: "Esculpir Modelos 3D en Lugar de Fórmulas: La Rutina de 'Visualización Espacial Háptica' y Activación del Lóbulo Parietal de Johannes Kepler"
 description: "Descubra cómo el astrónomo del siglo XVII Johannes Kepler comprendió las órbitas planetarias esculpiendo modelos geométricos en 3D. Explore la neurociencia de la visualización háptica, la estimulación del lóbulo parietal y la reducción de la sobrecarga cognitiva."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-24"
+updatedDate: "2026-06-24"
 category: "BuildSelf"
-tags: ["Esculpir M","Routine"]
-heroImage: "/images/blog/kepler_geometric_modeling.png"
+tags: ["위인 습관", "학습"]
+heroImage: "/images/blog/kepler_geometric_modeling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de *Mysterium Cosmographicum* (1596) de Johannes Kepler, Archivos de Kepler e Investigación en Neurociencia Cognitiva y Cognición Espacial"

@@ -1,11 +1,11 @@
 ---
 title: "Geometry of the Instant and the Focused Gaze: Henri Cartier-Bresson's 'Decisive Moment' Observation Routine"
 description: "Explore how Henri Cartier-Bresson, master of modern photojournalism, practiced visual immersion by waiting for perfect geometric harmony and fleeting instants. Discover the neuroscientific mechanisms of overriding predictive coding filters to activate the visual cortex and prefrontal attentional networks."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-08"
+updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: ["Great Habits","bresson","Routine","Stamina"]
-heroImage: "/images/blog/bresson_decisive_moment.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/bresson_decisive_moment.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Henri Cartier-Bresson's Photobook *Images à la sauvette / The Decisive Moment* & Cognitive Neuroscience Research"

@@ -1,11 +1,11 @@
 ---
 title: "패션 왕국의 철혈 리더십을 지탱하는 힘? 안나 윈투어의 새벽 5시 테니스 루틴"
 description: "보그 편집장 안나 윈투어. 매일 아침 5시 기상 후 1시간 동안 코트 위를 내달리며 뇌를 각성시킨 테니스 습관의 과학적 근거와 3단계 모던 실천 가이드를 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-14"
+updatedDate: "2026-05-14"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/wintour_morning_tennis.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/wintour_morning_tennis.webp"
 app: "buildself"
 formatVersion: 4
 authority: "안나 윈투어 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

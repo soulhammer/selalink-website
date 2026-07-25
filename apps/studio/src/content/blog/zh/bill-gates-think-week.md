@@ -1,11 +1,11 @@
 ---
 title: "切断连接的一周：比尔·盖茨的“思考周”与无噪音深度工作"
 description: "探索推动微软实现跨越式飞跃的比尔·盖茨小屋隔离阅读习惯——“思考周（Think Week）”，揭示通过完全控制外部刺激消除注意力残留并最大化提升大脑长期洞察力的神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-08"
+updatedDate: "2026-01-08"
 category: "BuildSelf"
-tags: ["切断连接的一周：比尔","Routine"]
-heroImage: "/images/blog/bill_gates_think_week.png"
+tags: ["위인 습관", "빌 게이츠", "집중력", "사색", "독서"]
+heroImage: "/images/blog/bill_gates_think_week.webp"
 app: "buildself"
 formatVersion: 4
 authority: "沃尔特·艾萨克森传记《比尔·盖茨传》与微软史料考证与认知神经科学（Cognitive Neuroscience）研究"

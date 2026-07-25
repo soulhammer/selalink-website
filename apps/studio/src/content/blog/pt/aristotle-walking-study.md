@@ -1,11 +1,11 @@
 ---
 title: "O Ápice da Imersão: O Hábito de Esboço Geométrico na Areia de Arquimedes"
 description: "Arquimedes desenhava continuamente figuras na areia ou no chão para visualizar inspirações científicas complexas. Investigue como o esboço visual manual reduz a sobrecarga cognitiva na memória de trabalho e induz um estado de hiperfoco."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-25"
+updatedDate: "2026-03-25"
 category: "BuildSelf"
-tags: ["O Ápice da","Routine"]
-heroImage: "/images/blog/aristotle_walking_study.png"
+tags: ["산책", "토론", "기억력", "고대"]
+heroImage: "/images/blog/aristotle_walking_study.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica das *Vidas Paralelas (Life of Marcellus)* de Plutarco e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)"

@@ -1,11 +1,11 @@
 ---
 title: "白宫椭圆形办公室的摇椅：约翰·F·肯尼迪的脊椎阵痛破局与前庭器官舒缓指南"
 description: "探索约翰·F·肯尼迪如何在冷战惊涛骇浪中忍受剧烈脊椎创痛、借由白宫椭圆形办公室特制摇椅统帅美国。揭示前庭器官刺激、副交感神经系统激活、消除静态负荷与3步骤实践指南。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-10"
+updatedDate: "2026-02-10"
 category: "BuildSelf"
-tags: ["白宫椭圆形办公室的摇","Routine"]
-heroImage: "/images/blog/kennedy_rocking_chair.png"
+tags: ["위인 습관", "존 F. 케네디", "스트레스 해소", "척추 건강", "휴식"]
+heroImage: "/images/blog/kennedy_rocking_chair.webp"
 app: "buildself"
 formatVersion: 4
 authority: "约翰·F·肯尼迪总统图书馆（JFK Library）与珍妮特·特拉维尔（Janet Travell）主治医师档案考证及认知神经科学（Cognitive Neuroscience）与骨科学（Orthopedics）研究"

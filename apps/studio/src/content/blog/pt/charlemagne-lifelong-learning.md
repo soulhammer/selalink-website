@@ -1,11 +1,11 @@
 ---
 title: "A Tábua de Escrita à Cabeceira: A Rotina de Consolidação de Memória no Sono de Carlos Magno"
 description: "Descubra como Carlos Magno, fundador da Europa Ocidental, mantinha tábuas de cera à cabeceira para dominar a escrita, e explore a neurociência cognitiva para maximizar a consolidação da memória de longo prazo durante o sono de ondas lentas."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-20"
+updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: ["A Tábua de","Routine"]
-heroImage: "/images/blog/charlemagne_lifelong_learning.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/charlemagne_lifelong_learning.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica da Biografia de Eginhardo *Vita Karoli Magni (Vida de Carlos Magno)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)"

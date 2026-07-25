@@ -1,11 +1,11 @@
 ---
 title: "The Power of Focusing on What Matters: Dwight D. Eisenhower's Priority 4-Quadrant Decision-Making Habit"
 description: "President Eisenhower endured the immense weight of decision-making during wartime and national governance. Discover his time management secret of allocating brain energy to essential matters without being swayed by minor urgencies, analyzed through cognitive neuroscience."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["Great Habits","eisenhower","Routine","Stamina"]
-heroImage: "/images/blog/eisenhower_matrix_decision.png"
+tags: ["의사결정", "생산성", "시간 관리"]
+heroImage: "/images/blog/eisenhower_matrix_decision.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Dwight D. Eisenhower's Autobiography *At Ease: Stories I Tell to Friends* & Cognitive Neuroscience Research"

@@ -1,11 +1,11 @@
 ---
 title: "斜卧床榻以蓝色彩铅挥毫：詹姆斯·乔伊斯的大能保留写作习惯与初级视觉皮层（V1）视疲劳纾解"
 description: "探索詹姆斯·乔伊斯如何在身患严重眼疾的极压绝境下，斜卧床榻缔造出《芬尼根的守灵夜》等文学巨著。揭示卸除躯体重力负荷、纾解初级视觉皮层（V1）疲劳与向前额叶皮层高效配置脑力的神经科学原理及3步骤指南。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-10"
+updatedDate: "2026-04-10"
 category: "BuildSelf"
-tags: ["斜卧床榻以蓝色彩铅挥","Routine"]
-heroImage: "/images/blog/joyce_bed_writing.png"
+tags: ["위인 습관", "휴식"]
+heroImage: "/images/blog/joyce_bed_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "詹姆斯·乔伊斯传记与理查德·埃尔曼（Richard Ellmann）传记史料《詹姆斯·乔伊斯（James Joyce）》考证及认知神经科学（Cognitive Neuroscience）与视觉知觉（Visual Perception）研究"

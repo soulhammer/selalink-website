@@ -1,11 +1,11 @@
 ---
 title: "Absolute Konzentration in der Goldenen Stunde: Enrico Fermis 2-stündige morgendliche Berechnung-Routine und kognitive Spitzen-Fokussierung"
 description: "Erfahren Sie, wie der Physik-Nobelpreisträger Enrico Fermi, Schöpfer des ersten Kernreaktors, seine kognitive Goldene Stunde nutzte, indem er morgens 2 Stunden lang in Isolation komplexe Berechnungen anstellte. Entdecken Sie die Neurowissenschaften der Cortisol-Aufwachreaktion."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-14"
+updatedDate: "2026-05-14"
 category: "BuildSelf"
-tags: ["Absolute K","Routine"]
-heroImage: "/images/blog/fermi_dawn_calculation_routine.png"
+tags: ["집중", "생산성", "학습"]
+heroImage: "/images/blog/fermi_dawn_calculation_routine.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Laura Fermis *Atoms in the Family: My Life with Enrico Fermi*, biografischen Archiven & Forschung der kognitiven Neurowissenschaften"

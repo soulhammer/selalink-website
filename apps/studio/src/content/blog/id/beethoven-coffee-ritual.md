@@ -1,11 +1,11 @@
 ---
 title: "Presisi 60 Biji Kopi: Ritual Kopi Pagi dan Mindfulness ala Beethoven"
 description: "Pelajari kebiasaan unik Ludwig van Beethoven yang menghitung persis 60 biji kopi setiap pagi, dan temukan mekanisme neurosains di mana kontrol sensorik halus menenangkan Default Mode Network (DMN) dan mengaktifkan sakelar fokus otak."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-14"
+updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: ["Presisi 60","Routine"]
-heroImage: "/images/blog/beethoven_coffee_ritual.png"
+tags: ["위인 습관", "베토벤", "아침루틴", "커피", "마인드풀니스"]
+heroImage: "/images/blog/beethoven_coffee_ritual.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Biografi Anton Schindler *Biography of Ludwig van Beethoven* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

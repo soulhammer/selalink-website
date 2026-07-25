@@ -1,11 +1,11 @@
 ---
 title: "O Método de Aprendizagem Super-Rápida do Prêmio Nobel: O Hábito de Ensinar e a Maximização Metacognitiva de Richard Feynman"
 description: "Descubra como o prêmio Nobel Richard Feynman ensinava mecânica quântica complexa para que uma criança de 10 anos pudesse entender. Explore a neurociência cognitiva da metacognição e da recuperação ativa."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-11"
+updatedDate: "2026-02-11"
 category: "BuildSelf"
-tags: ["O Método d","Routine"]
-heroImage: "/images/blog/feynman_explanation_technique.png"
+tags: ["위인 습관", "리처드 파인만", "공부법", "메타인지", "자기계발"]
+heroImage: "/images/blog/feynman_explanation_technique.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica da Autobiografia de Richard Feynman *Está Brincando, Sr. Feynman!*, Arquivos de Aulas da Caltech e Pesquisa em Neurociência Cognitiva"

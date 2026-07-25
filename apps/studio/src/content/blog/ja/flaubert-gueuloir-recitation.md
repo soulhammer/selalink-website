@@ -1,11 +1,11 @@
 ---
 title: "完璧な文章を生む音：ギュスターヴ・フローベールの「咆哮室」文章朗読習慣と聴覚フィードバックルーティン"
 description: "一物一語説を志向し単語一つも疎かにしなかった小説家フローベール。脳の運動皮質と聴覚的フィードバックを活用し、文章の論理性と韻律を極限まで高めた彼の「咆哮室」朗読の秘密と脳科学的原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-20"
+updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: ["完璧な文章を生む音：","Routine"]
-heroImage: "/images/blog/flaubert_gueuloir_recitation.png"
+tags: ["글쓰기", "창의성", "기록"]
+heroImage: "/images/blog/flaubert_gueuloir_recitation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ギュスターヴ・フローベール書簡集（Correspondance）および評伝考証＆認知神経科学（Cognitive Neuroscience）研究"

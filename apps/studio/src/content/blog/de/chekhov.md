@@ -1,11 +1,11 @@
 ---
 title: "Fusseln am Kragen und das Zittern einer Pupille: Anton Tschechows Mikro-Beobachtung und selektive Aufmerksamkeit"
 description: "Erkunden Sie, wie Anton Tschechow, Meister der modernen Kurzgeschichte, Mikrodetails von Passanten in Wartesälen und Cafés akribisch notierte, und entdecken Sie die neurowissenschaftlichen Prinzipien der mikroselektiven Aufmerksamkeit zur Steigerung der kognitiven Auflösung."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-12"
+updatedDate: "2026-01-12"
 category: "BuildSelf"
-tags: ["Fusseln am","Routine"]
-heroImage: "/images/blog/chekhov.png"
+tags: ["위인 습관", "안톤 체호프", "기록", "메모"]
+heroImage: "/images/blog/chekhov.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus E. H. Carrs Biografie *Anton Chekhov: A Critical Study* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

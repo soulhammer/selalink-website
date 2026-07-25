@@ -1,11 +1,11 @@
 ---
 title: "Thomas Jefferson's Cold Foot Bath Method: A 60-Year Morning Brain-Awakening Routine and Noradrenaline Neuro-Regulation"
 description: "Discover how Thomas Jefferson, principal author of the Declaration of Independence, awakened his brain for 60 years by bathing his feet in cold water every morning. Explore the neuroscience of autonomic nervous system stimulation, noradrenaline, and prefrontal clarity."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-17"
+updatedDate: "2026-04-17"
 category: "BuildSelf"
-tags: ["Great Habits","jefferson","Routine","Stamina"]
-heroImage: "/images/blog/jefferson_cold_foot_bath.png"
+tags: ["위인 습관", "토머스 제퍼슨", "에너지", "아침 루틴", "각성"]
+heroImage: "/images/blog/jefferson_cold_foot_bath.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from *The Writings of Thomas Jefferson* (Letter to Dr. Vine Utley, 1819), Monticello Archives & Cognitive Neuroscience Research"

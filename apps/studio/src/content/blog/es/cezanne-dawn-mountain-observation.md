@@ -1,11 +1,11 @@
 ---
 title: "Sintiendo la Geometría de la Luz: La Rutina de Observación de Luz Natural Matutina y Estimulación del NSQ de Paul Cézanne"
 description: "Descubra cómo Paul Cézanne, padre del arte moderno, caminaba hacia el monte Sainte-Victoire a las 6 AM para observar la luz y la forma. Explore los principios neurocientíficos de la luz matutina estimulando el núcleo supraquiasmático (NSQ) y la corteza visual."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-06"
+updatedDate: "2026-04-06"
 category: "BuildSelf"
-tags: ["Sintiendo ","Routine"]
-heroImage: "/images/blog/cezanne_dawn_mountain_observation.png"
+tags: ["사색", "휴식", "창의성"]
+heroImage: "/images/blog/cezanne_dawn_mountain_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la Biografía de Alex Danchev *Cézanne: Una vida (Cézanne: A Life)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"

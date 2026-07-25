@@ -16,16 +16,16 @@ faqs:
     answer: "Shibas verhalten sich ähnlich wie Katzen und schätzen ihren Freiraum. Dass sie nicht freudig mit dem Schwanz wedeln, bedeutet nicht, dass sie Sie nicht lieben; ruhiges Liegen in Ihrer Nähe ist ihr Liebesbeweis."
 ---
 
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+Shiba Inus sind weltweit für ihr fuchsartiges Aussehen und ihren geringelten Schwanz beliebt. Sie besitzen jedoch eine katzenartige Unabhängigkeit, einen starken Willen und ein wachsames Wesen. 🐕 Shibas reagieren empfindlich auf Berührungen an Pfoten, Ohren oder Rute. Wenn sie beim Pflegen oder Krallenschneiden gezwungen werden, stoßen sie oft einen hohen 'Shiba-Schrei' aus. Zudem haben sie ein dichtes doppeltes Fell, das beim Fellwechsel stark haart. Heute zeigt PetSelf, wie Sie die Grenzen Ihres Shibas mit einer 3-Schritte-Routine respektieren.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Veterinärmedizinische & verhaltensbedingte Nachweise
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Dieser Inhalt basiert auf <strong>Nationaler Shiba Inu Club von Amerika & IAABC-Verhaltensmodifikationsrichtlinien</strong>.
     </p>
   </div>
 </div>
@@ -43,7 +43,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
 
 ## 1. Körpersprache des Shiba Inu: Signale von Druck und Stressabbau
 
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+Shiba Inus drücken ihre Grenzen klar und leise aus. Wichtige Signale sind 'Wegschauen' und 'Abschütteln'. Wenn eine Person nach ihnen greift und der Shiba den Kopf wegdreht, ist das eine höfliche Bitte wie 'Bitte fass mich jetzt nicht an'. Ein Abschütteln des ganzen Körpers nach einem stressigen Ereignis ist ein instinktiver Mechanismus, um körperliche Anspannung abzubauen und sich psychisch zu erholen.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -77,7 +77,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Morgen: Desensibilisierung an empfindlichen Stellen</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+    Berühren Sie Pfoten oder Hüften kurz für 1 Sekunde und geben Sie sofort ein Leckerli. Wiederholen Sie dies, um positive Assoziationen aufzubauen.
   </p>
 </div>
 
@@ -87,7 +87,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Nachmittag: Stressfreie Pflege des doppelten Fells</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+    Bürsten Sie mit einer Zupfbürste sanft in Haarwuchsrichtung. Wenn der Hund Anzeichen von Unwohlsein zeigt oder knurrt, brechen Sie sofort ab.
   </p>
 </div>
 
@@ -97,7 +97,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Abend: Respektieren der unabhängigen Schutzzone</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+    Wenn sich Ihr Shiba am Abend in seine Box oder eine sichere Ecke zurückzieht, zwingen Sie ihn nicht heraus. Lassen Sie ihn in völliger Ruhe entspannen.
   </p>
 </div>
 
@@ -106,7 +106,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Das einfache Beobachten der Beschwichtigungssignale Ihres Haustiers kann schwerwiegende Verhaltensprobleme und stressbedingte Krankheiten verhindern. Während eine tierärztliche Behandlung wichtig ist, ist eine sichere Umgebung (Treppen, vertikale Räume, mehrere Wasserstellen) der stärkste Schutz für ihr lebenslanges Glück.
     </p>
   </div>
 </div>
@@ -124,7 +124,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Dies ist als 'Shiba-Schrei' bekannt. Es ist ein Ausdruck von echter Angst und Druck. Brechen Sie sofort ab und beginnen Sie das Training von vorn, z. B. Belohnung nur für das Ansehen der Bürste.
     </p>
   </details>
 
@@ -134,7 +134,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Shibas verhalten sich ähnlich wie Katzen und schätzen ihren Freiraum. Dass sie nicht freudig mit dem Schwanz wedeln, bedeutet nicht, dass sie Sie nicht lieben; ruhiges Liegen in Ihrer Nähe ist ihr Liebesbeweis.
     </p>
   </details>
 </div>

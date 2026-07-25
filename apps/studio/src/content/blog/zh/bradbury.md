@@ -1,11 +1,11 @@
 ---
 title: "唤醒无意识创造力的10词联想法：雷·布拉德伯里的发散性思维习惯"
 description: "探索现代科幻文学教父雷·布拉德伯里每天清晨写下10个无关联词汇并联想出微型故事的习惯，揭示刺激无意识联想链条以最大化提升发散性思维与创造力的神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-16"
+updatedDate: "2026-06-16"
 category: "BuildSelf"
-tags: ["唤醒无意识创造力的1","Routine"]
-heroImage: "/images/blog/bradbury.png"
+tags: ["위인 습관", "레이 브래드버리", "아이디어", "창의성"]
+heroImage: "/images/blog/bradbury.webp"
 app: "buildself"
 formatVersion: 4
 authority: "雷·布拉德伯里随笔集《写作的禅意（Zen in the Art of Writing）》考证与认知神经科学（Cognitive Neuroscience）研究"

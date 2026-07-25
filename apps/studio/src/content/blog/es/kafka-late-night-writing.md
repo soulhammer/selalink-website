@@ -1,11 +1,11 @@
 ---
 title: "Dar a Luz Obras Maestras en el Silencio Absoluto: La Rutina de Escritura Nocturna de Franz Kafka y la Down-Regulation Frontal"
 description: "Descubra cómo el titán literario del siglo XX Franz Kafka compuso obras maestras como La metamorfosis escribiendo desde las 11 PM hasta el amanecer en absoluto silencio. Explore la neurociencia de la regulación descendante frontal y la memoria de trabajo."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-01"
+updatedDate: "2026-04-01"
 category: "BuildSelf"
-tags: ["Dar a Luz ","Routine"]
-heroImage: "/images/blog/kafka_late_night_writing.png"
+tags: ["위인 습관", "프란츠 카프카", "밤샘 루틴", "집중력", "창의성"]
+heroImage: "/images/blog/kafka_late_night_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la Biografía de Max Brod *Franz Kafka*, Diarios de Kafka e Investigación en Neurociencia Cognitiva"

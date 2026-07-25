@@ -1,11 +1,11 @@
 ---
 title: "Awakening Palm Spelling in the Dark: Helen Keller's Tactile Imitation Training and Somatosensory Plasticity Routine"
 description: "Discover how Helen Keller, who overcame deaf-blindness to become a world-renowned author and human rights activist, expanded her inner universe by stimulating her somatosensory cortex through palm tactile spelling. Explore the neuroscience of cross-modal neuroplasticity."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-12"
+updatedDate: "2026-03-12"
 category: "BuildSelf"
-tags: ["Great Habits","helen","Routine","Stamina"]
-heroImage: "/images/blog/helen_keller.png"
+tags: ["위인 습관", "헬렌 켈러", "휴식", "성찰"]
+heroImage: "/images/blog/helen_keller.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Helen Keller's Autobiography *The Story of My Life*, Perkins School for the Blind Archives & Cognitive Neuroscience Research"

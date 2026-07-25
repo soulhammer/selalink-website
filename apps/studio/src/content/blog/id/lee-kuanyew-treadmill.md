@@ -1,11 +1,11 @@
 ---
 title: "Mengeluarkan Stres Pembangunan Bangsa Lewat Keringat: Meditasi Pasca-Olahraga Lee Kuan Yew dan Homeostasis Otonom"
 description: "Pelajari bagaimana Lee Kuan Yew, Perdana Menteri pendiri Singapura, mengelola stres kepemimpinan berisiko tinggi dengan mengombinasikan lari di treadmill selama 30 menit dengan meditasi pernapasan selama 20 menit. Temukan beralihnya sistem saraf otonom."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-05"
+updatedDate: "2026-04-05"
 category: "BuildSelf"
-tags: ["Mengeluark","Routine"]
-heroImage: "/images/blog/lee_kuanyew_treadmill.png"
+tags: ["위인 습관", "리콴유", "유산소운동", "호흡명상", "자율신경계"]
+heroImage: "/images/blog/lee_kuanyew_treadmill.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Autobiografi Lee Kuan Yew *The Singapore Story*, Arsip Nasional Singapura & Penelitian Neurosains Kognitif serta Fisiologi Olahraga"

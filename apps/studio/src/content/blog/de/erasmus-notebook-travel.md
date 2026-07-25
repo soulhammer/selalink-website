@@ -1,11 +1,11 @@
 ---
 title: "Erasmus von Rotterdams Reise-Notizbuch: Gedankenblitze unterwegs festhalten"
 description: "Erfahren Sie, wie der Renaissance-Gelehrte Erasmus von Rotterdam 'Lob der Torheit' auf Reisen durch Europa mit einem Taschennotizbuch verfasste. Entdecken Sie die Neurowissenschaften hinter Alphawellen und visueller Bewegung."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-11"
+updatedDate: "2026-06-11"
 category: "BuildSelf"
-tags: ["Erasmus vo","Routine"]
-heroImage: "/images/blog/erasmus_notebook_travel.png"
+tags: ["메모", "이동식학습", "인문주의", "르네상스"]
+heroImage: "/images/blog/erasmus_notebook_travel.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Desiderius Erasmus' *Epistolae*, Johan Huizingas Biografie *Erasmus* & Forschung der kognitiven Neurowissenschaften"

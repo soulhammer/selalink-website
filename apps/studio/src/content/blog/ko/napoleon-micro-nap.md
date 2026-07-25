@@ -1,11 +1,11 @@
 ---
 title: "나폴레옹 보나파르트의 마이크로 낮잠 루틴"
 description: "치열한 격무 중 15분간의 낮잠으로 뇌의 에너지를 신속히 리셋했던 나폴레옹 황제의 과학적 낮잠 메커니즘을 소개합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-02"
+updatedDate: "2026-06-02"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/napoleon_micro_nap.png"
+tags: ["위인 습관", "나폴레옹 보나파르트", "휴식", "낮잠", "생체 리듬"]
+heroImage: "/images/blog/napoleon_micro_nap.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Napoleon Micro Nap 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

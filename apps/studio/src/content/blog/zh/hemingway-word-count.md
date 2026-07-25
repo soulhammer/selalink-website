@@ -1,11 +1,11 @@
 ---
 title: "每日将撰写字数记录于图表中自我监控：欧内斯特·海明威的定量写作图表与多巴胺奖赏习惯"
 description: "探索诺贝尔奖得主欧内斯特·海明威如何在墙面图表中每日追踪写作字数。揭示自我监控（Self-Monitoring）效应、多巴胺奖赏回路与前额叶皮层激活的神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-05"
+updatedDate: "2026-02-05"
 category: "BuildSelf"
-tags: ["每日将撰写字数记录于","Routine"]
-heroImage: "/images/blog/hemingway_word_count.png"
+tags: ["위인 습관", "헤밍웨이", "글쓰기", "생산성", "자기관찰"]
+heroImage: "/images/blog/hemingway_word_count.webp"
 app: "buildself"
 formatVersion: 4
 authority: "欧内斯特·海明威回忆录《流动的盛宴（A Moveable Feast）》与乔治·普林普顿访谈（Paris Review, 1958）史料考证及认知神经科学（Cognitive Neuroscience）研究"

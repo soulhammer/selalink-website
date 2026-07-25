@@ -1,11 +1,11 @@
 ---
 title: "마음의 눈으로 그린 미로: 보르헤스의 시공간 작업 기억 시각화 루틴"
 description: "아르헨티나의 대문호 호르헤 루이스 보르헤스가 실명 후 머릿속에 입체적인 텍스트 및 미로 구조를 설계한 뒤 구술로 작품을 완성했던 루틴. 시공간 작업 기억을 극대화하고 교차 가소성을 깨우는 신경과학적 메커니즘을 밝힙니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-21"
+updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/borges_mental_dictation.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/borges_mental_dictation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "에드윈 윌리엄슨 평전 『보르헤스 평전(Borges: A Life)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

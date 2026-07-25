@@ -1,11 +1,11 @@
 ---
 title: "Detoks Digital di Menara Bollingen: Metode Pemulihan Bawah Sadar Carl Jung dan Reset Kognitif DMN"
 description: "Pelajari bagaimana pelopor psikologi analitis Carl Jung mereset otaknya dengan membelah kayu di menara terpencil tanpa listrik. Temukan neurosains aktivasi Default Mode Network (DMN), pemulihan kognitif prefrontal, dan rutinitas detoks digital 3 langkah."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-21"
+updatedDate: "2026-01-21"
 category: "BuildSelf"
-tags: ["Detoks Dig","Routine"]
-heroImage: "/images/blog/jung_bollingen_detox.png"
+tags: ["위인 습관", "칼 융", "휴식", "사색", "디지털디톡스"]
+heroImage: "/images/blog/jung_bollingen_detox.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Autobiografi Carl Jung *Memories, Dreams, Reflections*, Arsip Menara Bollingen & Penelitian Psikologi Analitis serta Neurosains Kognitif"

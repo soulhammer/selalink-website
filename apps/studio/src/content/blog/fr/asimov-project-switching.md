@@ -1,11 +1,11 @@
 ---
 title: "Bloqué dans l'écriture ? Changez de machine à écrire ! La routine de basculement multitâche d'Isaac Asimov"
 description: "La routine de basculement multitâche du maître de la science-fiction Isaac Asimov, auteur de plus de 500 livres. Découvrez le secret en 3 étapes pour surmonter la fatigue de la focalisation unique et bénéficier de l'effet de nouveauté."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-26"
+updatedDate: "2026-05-26"
 category: "BuildSelf"
-tags: ["Bloqué dan","Routine"]
-heroImage: "/images/blog/asimov_project_switching.png"
+tags: ["위인 습관", "아이작 아시모프", "집중력", "다중작업", "창의성", "생산성"]
+heroImage: "/images/blog/asimov_project_switching.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de l'autobiographie d'Isaac Asimov *I, Asimov: A Memoir* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

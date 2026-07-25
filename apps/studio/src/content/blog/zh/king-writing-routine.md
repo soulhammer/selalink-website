@@ -1,11 +1,11 @@
 ---
 title: "驯服缪斯灵感的法门：史蒂芬·金每日2,000词写作习惯与深度专注条件反射"
 description: "探索全球最成功的作家史蒂芬·金的每日写作习惯。揭示借助感官运动学习（Sensorimotor Learning）与条件反射触点、在零挥霍前额叶意志力的前提下持续输出高产力的3步骤秘诀。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-18"
+updatedDate: "2026-05-18"
 category: "BuildSelf"
-tags: ["驯服缪斯灵感的法门：","Routine"]
-heroImage: "/images/blog/king_writing_routine.png"
+tags: ["위인 습관", "스티븐 킹", "집필", "루틴", "창의성", "조건형성"]
+heroImage: "/images/blog/king_writing_routine.webp"
 app: "buildself"
 formatVersion: 4
 authority: "史蒂芬·金自传《写作这回事（On Writing: A Memoir of the Craft，2000）》史料考证及认知神经科学（Cognitive Neuroscience）与认知心理学（Cognitive Psychology）研究"

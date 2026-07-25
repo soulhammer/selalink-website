@@ -1,11 +1,11 @@
 ---
 title: "How to Tame the Muse: Stephen King's Daily 2,000-Word Writing Routine and Focus Conditioning"
 description: "Explore the legendary writing routine of Stephen King, one of the world's most successful authors. Learn the neuroscience of sensorimotor learning, classical conditioning triggers, and a 3-step framework to sustain peak daily productivity."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-18"
+updatedDate: "2026-05-18"
 category: "BuildSelf"
-tags: ["Great Habits","king","Routine","Stamina"]
-heroImage: "/images/blog/king_writing_routine.png"
+tags: ["위인 습관", "스티븐 킹", "집필", "루틴", "창의성", "조건형성"]
+heroImage: "/images/blog/king_writing_routine.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Stephen King's Memoir *On Writing: A Memoir of the Craft* (2000), King Archives & Cognitive Neuroscience and Cognitive Psychology Research"

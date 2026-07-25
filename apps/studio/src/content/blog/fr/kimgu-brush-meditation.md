@@ -1,11 +1,11 @@
 ---
 title: "La précision pour apaiser un esprit agité : La routine de méditation calligraphique et de contrôle moteur fin de Kim Koo"
 description: "Découvrez comment Kim Koo, dirigeant du Gouvernement provisoire de Corée, a exercé son esprit à travers la calligraphie. Explorez la neuroscience du contrôle moteur fin, de la stabilisation de l'amygdale et un guide en 3 étapes."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-06"
+updatedDate: "2026-02-06"
 category: "BuildSelf"
-tags: ["La précisi","Routine"]
-heroImage: "/images/blog/kimgu_brush_meditation.png"
+tags: ["위인 습관", "백범 김구", "서예 명상", "붓글씨", "불안 조절", "마음 수양"]
+heroImage: "/images/blog/kimgu_brush_meditation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de l'autobiographie de Kim Koo *Baekbum Ilji*, des archives du Gouvernement provisoire & de la Recherche en Neurosciences Cognitives et Sciences du Contrôle Moteur"

@@ -1,11 +1,11 @@
 ---
 title: "Metode Rendam Kaki Air Dingin Thomas Jefferson: Rutinitas Pembangkit Otak Pagi Hari Selama 60 Tahun dan Regulasi Noradrenalin"
 description: "Pelajari bagaimana Thomas Jefferson, penulis utama Deklarasi Kemerdekaan, membangunkan otaknya selama 60 tahun dengan merendam kakinya dalam air dingin setiap pagi. Temukan neurosains stimulasi sistem saraf otonom, noradrenalin, dan kejernihan prefrontal."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-17"
+updatedDate: "2026-04-17"
 category: "BuildSelf"
-tags: ["Metode Ren","Routine"]
-heroImage: "/images/blog/jefferson_cold_foot_bath.png"
+tags: ["위인 습관", "토머스 제퍼슨", "에너지", "아침 루틴", "각성"]
+heroImage: "/images/blog/jefferson_cold_foot_bath.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari *The Writings of Thomas Jefferson*, Arsip Monticello & Penelitian Neurosains Kognitif"

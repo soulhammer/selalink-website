@@ -1,11 +1,11 @@
 ---
 title: "La Mujer que Planeaba Asesinatos Comiendo Manzanas en la Bañera: La Lluvia de Ideas en Agua Caliente y Relajación DMN de Agatha Christie"
 description: "Descubra cómo la Reina del Crimen Agatha Christie concibió intrincadas coartadas y tramas de asesinato comiendo manzanas en un baño caliente, y explore la neurociencia cognitiva de la activación de la Red por Defecto (DMN) y la masticación."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["La Mujer q","Routine"]
-heroImage: "/images/blog/christie_bathtub_brainstorming.png"
+tags: ["위인 습관", "아가사 크리스티", "아이디어", "목욕", "창의성"]
+heroImage: "/images/blog/christie_bathtub_brainstorming.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la Autobiografía de Agatha Christie *Una autobiografía (An Autobiography)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"

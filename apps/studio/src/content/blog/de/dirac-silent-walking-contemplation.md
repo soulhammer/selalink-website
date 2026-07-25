@@ -1,11 +1,11 @@
 ---
 title: "Das Genie, das in der Stille wandelte: Paul Diracs Routine des stillen Gehens und die Beseitigung sprachlichen Rauschens"
 description: "Erkunden Sie, wie der Quantenmechanik-Pionier und Nobelpreisträger Paul Dirac die Dirac-Gleichung durch stille Sonntagsspaziergänge verfeinerte. Entdecken Sie die kognitiven Neurowissenschaften zur Unterdrückung sprachlichen Rauschens."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-25"
+updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["Das Genie,","Routine"]
-heroImage: "/images/blog/dirac_silent_walking_contemplation.png"
+tags: ["위인 습관", "Routine"]
+heroImage: "/images/blog/dirac_silent_walking_contemplation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Graham Farmelos Biografie *The Strangest Man: The Hidden Life of Paul Dirac* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

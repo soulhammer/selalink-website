@@ -23,16 +23,16 @@ faqs:
     answer: "Yes, frozen tofu turns into a sponge-like structure with tiny pores. This unique texture absorbs soups and sauces incredibly well."
 ---
 
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+Você usou a água original da embalagem para guardar o tofu que sobrou? Aquela água acelera as bactérias. Hoje, o FreshSnap compartilha técnicas para manter o frescor por 7 dias.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+      Autoridade Científica Verificada
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+      Este guia de conservação segue as diretrizes oficiais de: <strong>MFDS & USDA</strong>.
     </p>
   </div>
 </div>
@@ -41,7 +41,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
 
 ## 1. Por que armazenar assim? Fatos científicos
 
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+Comprender as características únicas de cada ingrediente e seguir o método de armazenamento adequado é extremamente importante para manter o frescor e a higiene.
 
 ---
 
@@ -53,7 +53,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Descarte a água da embalagem e enxágue em água corrente — Armazenamento Refrigerado (7Dias) 🚿</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+    A água da embalagem do tofu contém proteínas dissolvidas, sendo propícia à proliferação de bactérias. Descarte essa água e enxágue bem o bloco de tofu em água corrente antes de guardar.
   </p>
 </div>
 
@@ -63,7 +63,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Submerja em água fria com uma pitada de sal — Armazenamento Congelado (21Dias) 🧂</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+    Coloque o tofu em um pote hermético, cubra totalmente com água fria limpa e misture meia colher de chá de sal. A água salgada inibe microbios e ajuda a manter o tofu firme.
   </p>
 </div>
 
@@ -73,7 +73,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Troque a água diariamente — Preserve o frescor 💧</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+    Mesmo com sal, a água deve ser trocada por água fresca limpa diariamente ou a cada dois dias. Isso evita que o tofu azede, mantendo-o fresco e firme por até uma semana.
   </p>
 </div>
 
@@ -86,7 +86,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
   <div>
     <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Descarte a água da embalagem e troque por água fria limpa diariamente</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+      O tofu que sobra estraga rápido por causa das bactérias. Trocar a água fria todo dia impede as bactérias.
     </p>
   </div>
 </div>
@@ -96,7 +96,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
   <div>
     <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Adicione uma pitada de sal na água</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+      Uma pitada de sal serve como conservante natural e mantém a textura firme, evitando que amoleça.
     </p>
   </div>
 </div>
@@ -111,7 +111,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+      No, tofu spoils quickly if exposed to air. Always submerge it completely in clean water with a pinch of salt in a sealed container, and change water daily.
     </p>
   </details>
 
@@ -121,7 +121,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+      Yes, frozen tofu turns into a sponge-like structure with tiny pores. This unique texture absorbs soups and sauces incredibly well.
     </p>
   </details>
 </div>

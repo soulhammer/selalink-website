@@ -1,11 +1,11 @@
 ---
 title: "Fokus durch Ausgangssperre erzwingen: Victor Hugos Rasur-Isolationsgewohnheit und Selbstbindungsstrategie"
 description: "Erfahren Sie, wie Victor Hugo sich eine Hälfte von Haar und Bart rasierte, um das Haus nicht zu verlassen und Abgabefristen einzuhalten. Entdecken Sie die Neurowissenschaften physischer Schranken und der Selbstbindung."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-29"
+updatedDate: "2026-06-29"
 category: "BuildSelf"
-tags: ["Fokus durc","Routine"]
-heroImage: "/images/blog/hugo_hair_shaving.png"
+tags: ["위인 습관", "빅토르 위고", "몰입", "환경 제약", "생산성"]
+heroImage: "/images/blog/hugo_hair_shaving.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Graham Robbs *Victor Hugo: A Biography*, Verhaltenstherapie & Forschung der kognitiven Neurowissenschaften"

@@ -1,11 +1,11 @@
 ---
 title: "Der Premierminister, der seinen Tag in zwei Teile teilte: Winston Churchills Nachmittags-Schlaf und Adenosin-Reinigung"
 description: "Erkunden Sie, wie der britische Premierminister Winston Churchill, der die Alliierten im Zweiten Weltkrieg zum Sieg führte, täglich 1,5-stündige Nickerchen im Bett machte. Entdecken Sie die kognitiven Neurowissenschaften zur Eliminierung von akkumuliertem Adenosin und zur Wiederherstellung der Gehirnaktivierung."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-24"
+updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: ["Der Premie","Routine"]
-heroImage: "/images/blog/churchill_afternoon_nap.png"
+tags: ["위인 습관", "윈스턴 처칠", "낮잠", "휴식", "에너지"]
+heroImage: "/images/blog/churchill_afternoon_nap.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Martin Gilberts Biografie *Winston S. Churchill* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

@@ -1,11 +1,11 @@
 ---
 title: "Tanz des Unbewussten: George Balanchines Choreografie-Methode durch einfache Hausarbeit"
 description: "Erfahren Sie, wie der Choreograf George Balanchine bei kreativen Blockaden einfache, sich wiederholende Hausarbeiten wie Bügeln nutzte, um Choreografie-Ideen zu entwickeln, und entdecken Sie den neuronalen Mechanismus, bei dem leichte körperliche Aktivität die präfrontale Zensur deaktiviert und das Default Mode Network aktiviert."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-01"
+updatedDate: "2026-04-01"
 category: "BuildSelf"
-tags: ["Tanz des U","Routine"]
-heroImage: "/images/blog/balanchine_ironing_choreography.png"
+tags: ["위인 습관", "조지 발란신", "창의성", "사색", "이완", "루틴"]
+heroImage: "/images/blog/balanchine_ironing_choreography.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus George Balanchines Biografie *By George Balanchine* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

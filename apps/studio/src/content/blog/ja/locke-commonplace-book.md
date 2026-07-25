@@ -1,11 +1,11 @@
 ---
 title: "1分以内に過去の記録を探し出した哲学者：ジョン・ロックのコモンプレイス・ブック索引法と連合記憶ネットワーク"
 description: "経験論の巨匠ジョン・ロックは、膨大な記録を体系的に連動させるため、独創的なアルファベット母音索引法を考案しました。連合記憶を刺激して意味論的距離を縮小し、前頭前野の引き出し（Recall）負荷を軽減する脳科学的原理と3段階実践ガイドを解説します。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-19"
+updatedDate: "2026-03-19"
 category: "BuildSelf"
-tags: ["1分以内に過去の記録","Routine"]
-heroImage: "/images/blog/locke_commonplace_book.png"
+tags: ["1분 안에 과거의 ","Routine"]
+heroImage: "/images/blog/locke_commonplace_book.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ジョン・ロック著作『コモンプレイス・ブックの新しい索引法（A New Method of a Commonplace-Book, 1686）』史料考証＆認知神経科学（Cognitive Neuroscience）および認知心理学（Cognitive Psychology）研究"

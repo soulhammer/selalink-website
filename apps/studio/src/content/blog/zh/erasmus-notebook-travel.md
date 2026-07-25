@@ -1,11 +1,11 @@
 ---
 title: "埃罗士谟的旅行手记：在漫漫旅途中捕获灵感碎片的记录习惯与沉浸法"
 description: "探索文艺复兴巨擘埃罗士谟如何在穿梭欧洲的马背与马车上借助口袋手记撰写《愚神礼赞》初稿。深度剖析 alpha 波诱发与视觉流动激发创意的神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-11"
+updatedDate: "2026-06-11"
 category: "BuildSelf"
-tags: ["埃罗士谟的旅行手记：","Routine"]
-heroImage: "/images/blog/erasmus_notebook_travel.png"
+tags: ["메모", "이동식학습", "인문주의", "르네상스"]
+heroImage: "/images/blog/erasmus_notebook_travel.webp"
 app: "buildself"
 formatVersion: 4
 authority: "德西德里乌斯·埃罗士谟书信集《Epistolae》与约翰·胡伊青加传记《埃罗士谟（Erasmus）》考证及认知神经科学（Cognitive Neuroscience）研究"

@@ -16,23 +16,23 @@ faqs:
     answer: "O pelo do Bichon é fino e encaracolado. Não escovar causa nós que apertam a pele, impedem a circulação de sangue e causam dermatite."
 ---
 
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+Os Bichons Frisés são conhecidos por sua aparência de algodão doce e natureza alegre. No entanto, seu pelo encaracolado e fino embaraça facilmente na raiz, causando dermatites. Corridas em alta velocidade dentro de casa (Bichon Blitz) sobrecarregam as articulações. Hoje, o PetSelf apresenta uma rotina de 3 passos para cuidar do pelo e proteger as articulações.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+      Evidência Veterinária e Comportamental
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+      Este conteúdo baseia-se em <strong>Padrões do Bichon Frise Club of America e diretrizes de saúde da AVMA</strong>.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+    🐾 Bichon Frisé Perfil principal
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Vida útil média</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 15 anos</span></div>
@@ -43,7 +43,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
 
 ## 1. Linguagem corporal do Bichon Frisé: Bichon Blitz e busca de atenção
 
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+Quando animados, os Bichons mostram o 'Bichon Blitz' (correr freneticamente) para gastar energia. Além disso, tocar o braço do tutor com a pata ('toque de pata') é um sinal afetuoso pedindo contato ou brincadeira.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -77,7 +77,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Manhã: Brincadeira de buscar brinquedos e cabo de guerra suave</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+    Para evitar colisões com móveis, faça um cabo de guerra suave pela manhã para gastar energia e acalmá-los.
   </p>
 </div>
 
@@ -87,7 +87,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: 10 minutos de escovação com rasqueadeira e pente de aço</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+    Borrife spray de escovação, escove o abdômen e a parte interna das patas com a rasqueadeira e use o pente de aço para conferir nós perto da pele.
   </p>
 </div>
 
@@ -97,7 +97,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noite: Escovação da área dos olhos e secagem das lágrimas</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+    Penteie suavemente o pelo ao redor dos olhos com um pente facial fino e seque o excesso de lágrimas com um disco de algodão.
   </p>
 </div>
 
@@ -106,7 +106,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+      Observar simplesmente os sinais de calma do seu animal de estimação pode prevenir grandes problemas comportamentais e doenças induzidas pelo estresse. Embora o tratamento veterinário seja importante, proporcionar um ambiente seguro (degraus, espaços verticais, múltiplas fontes de água) é o escudo mais forte para apoiar a sua felicidade ao longo da vida.
     </p>
   </div>
 </div>
@@ -124,7 +124,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+      O Bichon Blitz é uma liberação emocional normal. Não segure ou grite, pois eles podem achar que é brincadeira. Garanta tapetes firmes para evitar quedas e espere passar.
     </p>
   </details>
 
@@ -134,7 +134,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+      O pelo do Bichon é fino e encaracolado. Não escovar causa nós que apertam a pele, impedem a circulação de sangue e causam dermatite.
     </p>
   </details>
 </div>

@@ -1,11 +1,11 @@
 ---
 title: "완전한 어둠 속의 발명: 알렉산더 그레이엄 벨의 한밤중 감각 차단과 딥워크"
 description: "전화기를 발명하여 인류 소통의 패러다임을 바꾼 알렉산더 그레이엄 벨. 낮 동안의 지독한 감각 과부하를 해소하고 뇌의 집행 기능을 각성시킨 그의 '한밤중 완전 어둠' 딥워크법과 감각 차단(Sensory Deprivation)의 신경과학적 메커니즘을 밝힙니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-12"
+updatedDate: "2026-05-12"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/bell_midnight_darkness.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/bell_midnight_darkness.webp"
 app: "buildself"
 formatVersion: 4
 authority: "로버트 V. 브루스 평전 『알렉산더 그레이엄 벨 평전(Bell: Alexander Graham Bell and the Conquest of Solitude)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

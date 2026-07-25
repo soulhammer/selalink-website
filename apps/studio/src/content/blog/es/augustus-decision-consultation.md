@@ -1,11 +1,11 @@
 ---
 title: "La Decisión del Emperador de 'Apresurarse Despacio': El Hábito de Escucha Multiangular de Augusto"
 description: "El emperador romano Augusto, quien simplificó sus decisiones tras el asesinato de César escuchando exhaustivamente las opiniones disidentes de asesores como Mecenas y Agripa en lugar de actuar dogmáticamente. Explore los principios neurocientíficos de la escucha y el filtrado para romper el sesgo de confirmación."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["La Decisió","Routine"]
-heroImage: "/images/blog/augustus_decision_consultation.png"
+tags: ["의사결정", "단순화", "생산성"]
+heroImage: "/images/blog/augustus_decision_consultation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de *Las vidas de los doce césares (De vita Caesarum)* de Suetonio y *Historia romana* de Dión Casio e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"

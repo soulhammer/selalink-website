@@ -1,11 +1,11 @@
 ---
 title: "Königin Elisabeths I. 'Klassische Übersetzung': Die Morgenroutine, die das logische Gehirn einer Herrscherin schärfte"
 description: "Königin Elisabeth I. kultivierte eine scharfe Vernunft und Logik, indem sie jeden Morgen lateinische Klassiker ins Englische übersetzte. Entdecken Sie die Kognitionswissenschaft hinter dieser Methode."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-09"
+updatedDate: "2026-01-09"
 category: "BuildSelf"
-tags: ["Königin El","Routine"]
-heroImage: "/images/blog/elizabeth_classical_translation.png"
+tags: ["위인 습관", "엘리자베스 1세", "두뇌 훈련", "번역 습관", "아침 루틴"]
+heroImage: "/images/blog/elizabeth_classical_translation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus *Elizabeth I: Translations* (Janel Mueller & Joshua Scodel), historischen Biografien & Forschung der kognitiven Neurowissenschaften"

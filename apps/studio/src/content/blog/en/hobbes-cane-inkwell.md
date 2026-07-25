@@ -1,11 +1,11 @@
 ---
 title: "The Philosopher Who Mounted an Inkwell on His Walking Cane: Thomas Hobbes's Immediate Note-Taking Method and Cognitive Externalization Routine"
 description: "Discover how thinker Thomas Hobbes attached an inkwell to his walking cane to immediately capture fleeting ideas. Explore the cognitive neuroscience of working memory expansion, Default Mode Network activation, and cognitive externalization."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-16"
+updatedDate: "2026-03-16"
 category: "BuildSelf"
-tags: ["Great Habits","hobbes","Routine","Stamina"]
-heroImage: "/images/blog/hobbes_cane_inkwell.png"
+tags: ["산책 지팡이에 잉크","Routine"]
+heroImage: "/images/blog/hobbes_cane_inkwell.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from John Aubrey's *Brief Lives*, Thomas Hobbes Archives & Cognitive Neuroscience Research"

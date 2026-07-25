@@ -1,11 +1,11 @@
 ---
 title: "The Painter in the Blue Smock Who Observed Morning Roses: Gustav Klimt's Garden Walk Routine and Soft Fascination"
 description: "Discover how Golden Phase master Gustav Klimt restored visual attention by walking through flower gardens along Austria's Lake Attersee. Explore Attention Restoration Theory (ART), prefrontal reset, natural fractal perception, and a 3-step practice guide."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-14"
+updatedDate: "2026-07-14"
 category: "BuildSelf"
-tags: ["Great Habits","klimt","Routine","Stamina"]
-heroImage: "/images/blog/klimt_gardening_nature_refresh.png"
+tags: ["위인 습관", "Routine"]
+heroImage: "/images/blog/klimt_gardening_nature_refresh.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Gustav Klimt Biographies, Attersee Archives & Cognitive Neuroscience and Environmental Psychology Research"

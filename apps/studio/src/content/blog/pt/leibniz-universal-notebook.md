@@ -1,11 +1,11 @@
 ---
 title: "O Caderno Único do Conhecimento Universal: A Rotina de Livro de Lugares-Comuns e Potenciação de Longo Prazo de Gottfried Wilhelm Leibniz"
 description: "Descubra como o matemático Gottfried Wilhelm Leibniz consolidou todo o seu conhecimento em um único caderno categorizado (Commonplace Book). Explore a neurociência das redes semânticas, Potenciação de Longo Prazo (LTP), síntese de ideias e um guia de 3 passos."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-27"
+updatedDate: "2026-02-27"
 category: "BuildSelf"
-tags: ["O Caderno ","Routine"]
-heroImage: "/images/blog/leibniz_universal_notebook.png"
+tags: ["기록", "창의성", "사색"]
+heroImage: "/images/blog/leibniz_universal_notebook.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica das Biografias de Gottfried Wilhelm Leibniz, Arquivos de Leibniz (Hannover) e Pesquisa em Neurociência Cognitiva e Psicologia Cognitiva"

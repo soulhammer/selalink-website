@@ -1,11 +1,11 @@
 ---
 title: "피아노 시인의 지독한 완벽주의: 쇼팽의 건반 위 반복 퇴고와 ACC 조율 루틴"
 description: "낭만파 음악의 거장 프레데리크 쇼팽이 건반 앞에서 수백 번 멜로디를 고쳐 연주하며 걸작을 탄생시켰던 루틴. 전대상회(ACC)의 오류 감지와 신경 미세 조율(Neural Fine-tuning)을 통해 작품 완성도를 극대화하는 인지신경과학적 원리를 밝깁니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-21"
+updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/chopin_piano_refinement.png"
+tags: ["위인 습관", "쇼팽", "완벽주의", "피아노작곡", "디테일퇴고"]
+heroImage: "/images/blog/chopin_piano_refinement.webp"
 app: "buildself"
 formatVersion: 4
 authority: "조르주 상드 자서전 『내 삶의 이야기(Histoire de ma vie)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

@@ -1,11 +1,11 @@
 ---
 title: "フランクリン・D・ルーズベルトの「切手分類」：過酷な業務から脳を救った認知的リラックスルーティンとアナログ熟眠法"
 description: "戦争と経済危機のストレスの中でも、毎夜切手の分類で脳の緊張をほぐしたルーズベルト大統領。熟眠とストレス解消を助ける認知的リラックスの原理と脳科学的メカニズムを解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-02"
+updatedDate: "2026-07-02"
 category: "BuildSelf"
-tags: ["フランクリン・D・ル","Routine"]
-heroImage: "/images/blog/fdr_stamp_collecting.png"
+tags: ["위인 습관", "루스벨트", "스트레스 해소", "휴식 루틴", "취침 전 습관"]
+heroImage: "/images/blog/fdr_stamp_collecting.webp"
 app: "buildself"
 formatVersion: 4
 authority: "フランクリン・D・ルーズベルト評伝およびFDR大統領図書館（FDR Presidential Library）史料考証＆認知神経科学（Cognitive Neuroscience）研究"

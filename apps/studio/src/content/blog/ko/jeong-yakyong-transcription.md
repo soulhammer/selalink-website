@@ -1,11 +1,11 @@
 ---
 title: "유배지 500권 저술의 원동력: 다산 정약용의 초서와 편지 쓰기 및 인지적 부호화 루틴"
 description: "조선 최고의 실학자 다산 정약용. 18년의 강진 유배 생활 동안 지식을 요약·필기하는 '초서(抄書)'와 두 아들에게 학문을 훈계했던 편지 쓰기의 뇌과학적 원리, 체성감각 피질 자극 및 메타인지 강화 효과를 탐구합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-01"
+updatedDate: "2026-02-01"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/jeong_yakyong_transcription.png"
+tags: ["위인 습관", "정약용", "초서독서", "메타인지", "지식구조화"]
+heroImage: "/images/blog/jeong_yakyong_transcription.webp"
 app: "buildself"
 formatVersion: 4
 authority: "다산 정약용 저작집 『여유당전서(與猶堂全書)』 및 자서전 『사암연보(俟菴年譜)』 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 메타인지(Metacognition) 연구"

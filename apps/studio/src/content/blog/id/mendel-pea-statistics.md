@@ -1,11 +1,11 @@
 ---
 title: "완두콩 2만 9천 그루의 통계? 그레고어 멘델의 작업 기억 강화법"
 description: "유전학의 위대한 개척자 그레고어 멘델. 수도원 정원에서 매일 수천 개 완두콩의 변화를 수치로 정밀 기록했던 그의 끈기와, 뇌의 인지 구조를 단련하고 작업 기억력을 높이는 통계 기록법을 공개합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-30"
+updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: ["완두콩 2만 9천 ","Routine"]
-heroImage: "/images/blog/mendel_pea_statistics.png"
+tags: ["위인 습관", "그레고어 멘델", "데이터 트래킹", "작업 기억", "자기 관리"]
+heroImage: "/images/blog/mendel_pea_statistics.webp"
 app: "buildself"
 formatVersion: 4
 authority: "그레고어 멘델 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

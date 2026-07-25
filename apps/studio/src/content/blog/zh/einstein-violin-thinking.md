@@ -1,11 +1,11 @@
 ---
 title: "在思维死胡同拉响小提琴的天才：阿尔伯特·爱因斯坦的重置习惯与认知切换法"
 description: "探索改变物理学范式的阿尔伯特·爱因斯坦在研究陷入死胡同时通过拉小提琴重置大脑的独特习惯，揭示适用于现代人的3步骤认知切换实践方案。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-05"
+updatedDate: "2026-03-05"
 category: "BuildSelf"
-tags: ["在思维死胡同拉响小提","Routine"]
-heroImage: "/images/blog/einstein_violin_thinking.png"
+tags: ["위인 습관", "알베르트 아인슈타인", "창의성", "휴식", "아이디어"]
+heroImage: "/images/blog/einstein_violin_thinking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "阿尔伯特·爱因斯坦随笔集《我的晚年（Out of My Later Years）》与沃尔特·艾萨克森传记《爱因斯坦：伟大的生涯》考证及认知神经科学（Cognitive Neuroscience）研究"

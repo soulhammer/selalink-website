@@ -1,11 +1,11 @@
 ---
 title: "연습실 구석에서 타인의 언어를 스크랩한 셰익스피어의 경청 루틴"
 description: "세계 문학사상 최고의 극작가로, 글을 쓸 때 모든 인물의 대사를 직접 입 밖으로 내뱉어 낭독하며 거울 뉴런의 감정 회로를 극대화했습니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-25"
+updatedDate: "2026-05-25"
 category: "BuildSelf"
-tags: ["Great Habits","shakespeare","Routine","Stamina"]
-heroImage: "/images/blog/shakespeare.png"
+tags: ["위인 습관", "윌리엄 셰익스피어", "창의성", "계획"]
+heroImage: "/images/blog/shakespeare.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Shakespeare 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

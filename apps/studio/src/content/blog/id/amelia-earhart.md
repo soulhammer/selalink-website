@@ -1,11 +1,11 @@
 ---
 title: "Pelatihan Kontrol Kognitif Earhart: Tenggelam dalam Angka Panel Instrumen Bahkan di Kokpit di Tengah Badai"
 description: "Penerbang wanita pertama yang berhasil menyeberangi Atlantik sendirian, ia meredakan kecemasan terbang dengan mencatat data cuaca dan perubahan angin secara presisi setiap pagi."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-31"
+updatedDate: "2026-01-31"
 category: "BuildSelf"
-tags: ["Pelatihan ","Routine"]
-heroImage: "/images/blog/amelia_earhart.png"
+tags: ["위인 습관", "어밀리아 이어하트", "분석", "시간 관리"]
+heroImage: "/images/blog/amelia_earhart.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Autobiografi Amelia Earhart *The Fun of It* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

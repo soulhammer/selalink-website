@@ -1,11 +1,11 @@
 ---
 title: "Pourquoi lire dans les tranchées de la jungle ? La routine de lecture profonde et de restructuration cognitive de Che Guevara"
 description: "Découvrez comment la figure de la Révolution cubaine Che Guevara lisait chaque jour d'épais volumes au milieu de la guérilla, et explorez la neuroscience cognitive montrant comment la lecture profonde active les réseaux préfrontaux de contrôle cognitif."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-09"
+updatedDate: "2026-02-09"
 category: "BuildSelf"
-tags: ["Pourquoi l","Routine"]
-heroImage: "/images/blog/che_guevara_reading.png"
+tags: ["위인 습관", "체게바라", "매일독서", "인지재구조화", "신념단련"]
+heroImage: "/images/blog/che_guevara_reading.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de la biographie de Jon Lee Anderson *Che Guevara : Une vie révolutionnaire (Che Guevara: A Revolutionary Life)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

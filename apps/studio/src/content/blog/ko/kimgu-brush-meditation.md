@@ -1,11 +1,11 @@
 ---
 title: "흔들리는 마음을 잡는 정밀함: 백범 김구의 서예 명상 루틴과 미세 운동 제어"
 description: "대한민국 임시정부를 이끈 백범 김구의 서예를 통한 정신 수양법. 붓글씨의 미세 운동 제어(Fine Motor Control)가 불안을 억제하고 편도체를 안정시키는 뇌과학적 원리와 3단계 실천법을 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-06"
+updatedDate: "2026-02-06"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/kimgu_brush_meditation.png"
+tags: ["위인 습관", "백범 김구", "서예 명상", "붓글씨", "불안 조절", "마음 수양"]
+heroImage: "/images/blog/kimgu_brush_meditation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "김구 자서전 『백범일지(白凡逸志)』 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 운동제어학(Motor Control Science) 연구"

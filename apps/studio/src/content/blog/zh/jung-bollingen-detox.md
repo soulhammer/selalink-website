@@ -1,11 +1,11 @@
 ---
 title: "博林根石塔的数字排毒：卡尔·荣格的无意识复苏法与DMN认知重置"
 description: "探索分析心理学先驱卡尔·荣格如何在切断噪音与电力的幽静石塔中通过劈柴汲水重置大脑。揭示预设模式网络（DMN）激活、前额叶皮层认知资源复苏原理与3步骤现代数字排毒习惯。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-21"
+updatedDate: "2026-01-21"
 category: "BuildSelf"
-tags: ["博林根石塔的数字排毒","Routine"]
-heroImage: "/images/blog/jung_bollingen_detox.png"
+tags: ["위인 습관", "칼 융", "휴식", "사색", "디지털디톡스"]
+heroImage: "/images/blog/jung_bollingen_detox.webp"
 app: "buildself"
 formatVersion: 4
 authority: "卡尔·荣格自传《回忆·思考·神往（Memories, Dreams, Reflections）》与博林根石塔档案考证及分析心理学（Analytical Psychology）与认知神经科学（Cognitive Neuroscience）研究"

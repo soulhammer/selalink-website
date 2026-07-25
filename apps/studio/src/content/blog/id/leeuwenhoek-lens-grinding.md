@@ -4,7 +4,7 @@ description: "Pelajari bagaimana Antonie van Leeuwenhoek, Bapak Mikrobiologi, me
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["Rutinitas ","Routine"]
+tags: ["위습관","루틴"]
 heroImage: "/images/blog/leeuwenhoek_lens_grinding.png"
 app: "buildself"
 formatVersion: 4

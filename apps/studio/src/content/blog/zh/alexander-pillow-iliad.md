@@ -1,11 +1,11 @@
 ---
 title: "亚历山大大帝的“枕边伊利亚特”：支撑巨大挑战的夜间愿景阅读"
 description: "亚历山大大帝每晚将短剑与《伊利亚特》放在枕下阅读，在战场上从未失去勇气。探索刺激潜意识的愿景阅读的力量。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-23"
+updatedDate: "2026-01-23"
 category: "BuildSelf"
-tags: ["亚历山大大帝的“枕边","Routine"]
-heroImage: "/images/blog/alexander_pillow_iliad.png"
+tags: ["위인 습관", "알렉산드로스", "동기부여", "독서 습관", "잠재의식"]
+heroImage: "/images/blog/alexander_pillow_iliad.webp"
 app: "buildself"
 formatVersion: 4
 authority: "普鲁塔克《希腊罗马名人传（Life of Alexander）》历史考证与认知神经科学（Cognitive Neuroscience）研究"

@@ -1,11 +1,11 @@
 ---
 title: "Thomas von Aquins Multi-Diktat-Methode: Maximieren Sie das Arbeitsgedächtnis zur Bewältigung komplexer Dilemmata"
 description: "Entdecken Sie, wie Thomas von Aquin, der große mittelalterliche Theologe, sein Arbeitsgedächtnis erweiterte und die logische Kohärenz bewahrte, während er gleichzeitig verschiedenen Schreibern 3 bis 4 unterschiedliche Themen diktierte."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-09"
+updatedDate: "2026-03-09"
 category: "BuildSelf"
-tags: ["Thomas von","Routine"]
-heroImage: "/images/blog/aquinas_multi_dictation.png"
+tags: ["집중력", "구술대필", "작업기억", "중세"]
+heroImage: "/images/blog/aquinas_multi_dictation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Bernard von Guis Biografie von Thomas von Aquin & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

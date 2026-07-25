@@ -1,11 +1,11 @@
 ---
 title: "Sensing the Geometry of Light: Paul Cézanne's Morning Natural Light Observation and SCN Arousal Routine"
 description: "Discover how Paul Cézanne, father of modern art, walked toward Mount Sainte-Victoire at 6 AM daily to observe shifting light and form. Explore the neuroscientific principles of morning light stimulating the suprachiasmatic nucleus (SCN) and visual cortex sensitivity."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-06"
+updatedDate: "2026-04-06"
 category: "BuildSelf"
-tags: ["Great Habits","cezanne","Routine","Stamina"]
-heroImage: "/images/blog/cezanne_dawn_mountain_observation.png"
+tags: ["사색", "휴식", "창의성"]
+heroImage: "/images/blog/cezanne_dawn_mountain_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Alex Danchev's Biography *Cézanne: A Life* & Cognitive Neuroscience Research"

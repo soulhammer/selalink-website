@@ -1,11 +1,11 @@
 ---
 title: "La marche de 3 milles qui a éveillé l'inconscient : La routine de marche rapide nocturne et le journal de l'inconscient de Sigmund Freud"
 description: "Découvrez comment Sigmund Freud, le père de la psychanalyse, rééquilibrait son cerveau et accédait à l'inconscient lors de marches rapides de 3 milles à travers Vienne chaque soir après ses consultations. Explorez la neuroscience de la stimulation bilatérale."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-09"
+updatedDate: "2026-07-09"
 category: "BuildSelf"
-tags: ["La marche ","Routine"]
-heroImage: "/images/blog/freud_evening_walk.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/freud_evening_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de *Ma vie et la psychanalyse* de Sigmund Freud, des archives du Musée Sigmund Freud de Vienne & de la Recherche en Neurosciences Cognitives"

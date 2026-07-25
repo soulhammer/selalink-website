@@ -1,11 +1,11 @@
 ---
 title: "Queen Elizabeth I's 'Classical Translation': The Morning Routine That Honed a Monarch's Logical Brain"
 description: "Queen Elizabeth I cultivated fierce rationality and logical prowess by translating Latin classics into English every morning. Explore the cognitive neuroscience of translation routines that activate high-level cognitive control."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-09"
+updatedDate: "2026-01-09"
 category: "BuildSelf"
-tags: ["Great Habits","elizabeth","Routine","Stamina"]
-heroImage: "/images/blog/elizabeth_classical_translation.png"
+tags: ["위인 습관", "엘리자베스 1세", "두뇌 훈련", "번역 습관", "아침 루틴"]
+heroImage: "/images/blog/elizabeth_classical_translation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from *Elizabeth I: Translations* (Janel Mueller & Joshua Scodel), Historical Biographies & Cognitive Neuroscience Research"

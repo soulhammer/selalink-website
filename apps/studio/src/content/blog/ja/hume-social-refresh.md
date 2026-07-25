@@ -1,11 +1,11 @@
 ---
 title: "孤独な思索の解毒剤：デイヴィッド・ヒュームの夕方の社交＆バックギャモン・チェスルーティンと情緒リラクセーション"
 description: "現代認知科学の母体となった哲学者デイヴィッド・ヒュームは、昼は熾烈に思索し、夕方は人々と食事しながらバックギャモンやチェスを楽しみました。オキシトシンとセロトニンの分泌を誘導し脳の認知過負荷を防ぐヒュームのソーシャルリセットルーティンを解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-18"
+updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: ["孤独な思索の解毒剤：","Routine"]
-heroImage: "/images/blog/hume_social_refresh.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/hume_social_refresh.webp"
 app: "buildself"
 formatVersion: 4
 authority: "デイヴィッド・ヒューム著作集『人性論（A Treatise of Human Nature, 1739）』、自伝『我が生涯（My Own Life）』史料考証＆認知神経科学（Cognitive Neuroscience）研究"

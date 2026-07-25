@@ -1,11 +1,11 @@
 ---
 title: "筆先に込めた経営哲学：李秉喆（イ・ビョンチョル）の朝の書道儀式と一次運動野の覚醒"
 description: "サムスンを創業した李秉喆（イ・ビョンチョル）会長が毎日朝欠かさなかった毛筆瞑想。精巧な筆のストロークを扱う微細運動操作が脳波を安定させ、前頭前野の理性的実行機能を呼び覚ます脳科学的原理と3段階実践法を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-25"
+updatedDate: "2026-05-25"
 category: "BuildSelf"
-tags: ["筆先に込めた経営哲学","Routine"]
-heroImage: "/images/blog/lee_morning_calligraphy.png"
+tags: ["위인 습관", "이병철", "집중", "마인드셋", "의지력"]
+heroImage: "/images/blog/lee_morning_calligraphy.webp"
 app: "buildself"
 formatVersion: 4
 authority: "湖岩自伝『湖岩自伝（Ho-Am Jajeon）』およびサムスングループ・アーカイブ史料考証＆認知神経科学（Cognitive Neuroscience）および運動制御学（Motor Control Science）研究"

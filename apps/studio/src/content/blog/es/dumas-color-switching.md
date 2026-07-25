@@ -1,11 +1,11 @@
 ---
 title: "El Genio que Cambiaba el Color del Papel Según el Género: La Rutina de Reinicio por Color y Primación Visual de Alexandre Dumas"
 description: "Descubra cómo Alexandre Dumas, autor de 'El conde de Montecristo', usaba papeles de diferentes colores según el género para evitar la fatiga mental. Explore la neurociencia cognitiva del primado por color y la reducción de costes de conmutación."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-07"
+updatedDate: "2026-06-07"
 category: "BuildSelf"
-tags: ["El Genio q","Routine"]
-heroImage: "/images/blog/dumas_color_switching.png"
+tags: ["위인 습관", "알렉상드르 뒤마", "창의성", "색상", "생산성"]
+heroImage: "/images/blog/dumas_color_switching.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la Autobiografía de Alexandre Dumas *Mis memorias (Mes Mémoires)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"

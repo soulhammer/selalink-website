@@ -1,11 +1,11 @@
 ---
 title: "'Penerjemahan Klasik' Ratu Elizabeth I: Rutinitas Pagi yang Mengasah Otak Logis Seorang Penguasa"
 description: "Ratu Elizabeth I mengasah rasionalitas dan kemampuan logis yang tangguh dengan menerjemahkan karya klasik Latin ke bahasa Inggris setiap pagi. Pelajari neurosains kognitif dari rutinitas penerjemahan ini."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-09"
+updatedDate: "2026-01-09"
 category: "BuildSelf"
-tags: ["'Penerjema","Routine"]
-heroImage: "/images/blog/elizabeth_classical_translation.png"
+tags: ["위인 습관", "엘리자베스 1세", "두뇌 훈련", "번역 습관", "아침 루틴"]
+heroImage: "/images/blog/elizabeth_classical_translation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Kumpulan Karya Penerjemahan *Elizabeth I: Translations* (Janel Mueller & Joshua Scodel), Biografi Historis & Penelitian Neurosains Kognitif"

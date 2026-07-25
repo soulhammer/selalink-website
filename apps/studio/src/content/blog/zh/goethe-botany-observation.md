@@ -1,11 +1,11 @@
 ---
 title: "漫步漫步庭院搜集种子的大文豪：歌德的清晨观察习惯与注意力恢复指南"
 description: "探索约翰·沃尔夫冈·冯·歌德每天清晨借助放大镜精细观察植物、获取自然灵感的习惯。揭示自然接触大幅降低认知疲劳的“注意力恢复理论（ART）”原理与歌德晨间观察散步法。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-24"
+updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: ["漫步漫步庭院搜集种子","Routine"]
-heroImage: "/images/blog/goethe_botany_observation.png"
+tags: ["위인 습관", "괴테", "아침루틴", "산책", "주의력회복"]
+heroImage: "/images/blog/goethe_botany_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "约翰·沃尔夫冈·冯·歌德自传《诗与真（Dichtung und Wahrheit）》与植物学论文《植物变形记（Metamorphose der Pflanzen）》考证及认知神经科学（Cognitive Neuroscience）与环境心理学（Environmental Psychology）研究"

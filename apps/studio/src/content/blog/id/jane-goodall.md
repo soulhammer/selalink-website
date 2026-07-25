@@ -1,11 +1,11 @@
 ---
 title: "Duduk di Atas Batu di Samping Simpanse untuk Mengamati dan Mencatat: Kebiasaan Imersi dan Rutinitas Perhatian Selektif Jane Goodall"
 description: "Pelajari bagaimana etolog Jane Goodall memperoleh terobosan ilmiah dengan mengamati simpanse di hutan Gombe. Temukan neurosains aktivasi korteks asosiasi sensorik, perhatian selektif, dan rutinitas pengamatan."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-09"
+updatedDate: "2026-05-09"
 category: "BuildSelf"
-tags: ["Duduk di A","Routine"]
-heroImage: "/images/blog/jane_goodall.png"
+tags: ["위인 습관", "제인 구달", "사색", "성찰"]
+heroImage: "/images/blog/jane_goodall.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Autobiografi Jane Goodall *Reason for Hope*, Arsip Gombe Stream Research Centre & Penelitian Neurosains Kognitif serta Etologi"

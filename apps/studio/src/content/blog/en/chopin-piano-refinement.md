@@ -1,11 +1,11 @@
 ---
 title: "The Piano Poet's Obsessive Perfectionism: Frédéric Chopin's Keyboard Iteration and ACC Fine-Tuning Routine"
 description: "Explore how Romantic master Frédéric Chopin played melodies hundreds of times on the keys to craft immortal masterpieces, and discover the cognitive neuroscience of Anterior Cingulate Cortex (ACC) error detection and Neural Fine-tuning."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-21"
+updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: ["Great Habits","chopin","Routine","Stamina"]
-heroImage: "/images/blog/chopin_piano_refinement.png"
+tags: ["위인 습관", "쇼팽", "완벽주의", "피아노작곡", "디테일퇴고"]
+heroImage: "/images/blog/chopin_piano_refinement.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from George Sand's Autobiography *Histoire de ma vie (Story of My Life)* & Cognitive Neuroscience Research"

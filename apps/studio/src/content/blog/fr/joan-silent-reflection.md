@@ -1,11 +1,11 @@
 ---
 title: "L'ancre inébranlable de la conviction : La routine de silence matinal et de stabilisation de l'amygdale de Jeanne d'Arc"
 description: "Découvrez comment l'héroïne française Jeanne d'Arc a préservé une conviction inébranlable pendant la guerre de Cent Ans grâce au silence matinal. Explorez la neuropsychologie de la réduction du bruit, de la stabilisation de l'amygdale et de l'alignement cognitif."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-12"
+updatedDate: "2026-02-12"
 category: "BuildSelf"
-tags: ["L'ancre in","Routine"]
-heroImage: "/images/blog/joan_silent_reflection.png"
+tags: ["위인 습관", "잔다르크", "침묵명상", "신념정렬", "멘탈회복"]
+heroImage: "/images/blog/joan_silent_reflection.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue des Actes du procès de Jeanne d'Arc (*Procès de Condamnation et de Réhabilitation*) & de la Recherche en Neurosciences Cognitives"

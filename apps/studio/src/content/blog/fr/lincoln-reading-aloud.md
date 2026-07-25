@@ -1,11 +1,11 @@
 ---
 title: "Le président qui lisait ses livres a haute voix : La routine de lecture préfrontale d'Abraham Lincoln et l'Effet de Production"
 description: "Découvrez comment le 16e président américain Abraham Lincoln a maximisé sa mémoire en lisant a haute voix. Explorez la neuroscience de l'Effet de Production, de la Représentation Double, de l'activation de l'Aire de Broca et un guide en 5 minutes."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-26"
+updatedDate: "2026-04-26"
 category: "BuildSelf"
-tags: ["Le préside","Routine"]
-heroImage: "/images/blog/lincoln_reading_aloud.png"
+tags: ["위인 습관", "링컨", "아침루틴", "독서", "낭독"]
+heroImage: "/images/blog/lincoln_reading_aloud.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de la biographie de David Herbert Donald *Lincoln*, des Mémoires de William Herndon & de la Recherche en Neurosciences Cognitives et Psycholinguistique"

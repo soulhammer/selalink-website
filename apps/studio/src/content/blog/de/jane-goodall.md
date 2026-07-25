@@ -1,11 +1,11 @@
 ---
 title: "Auf Felsen neben Schimpansen sitzend beobachten und aufzeichnen: Jane Goodalls Immersionsgewohnheit und Routine der selektiven Aufmerksamkeit"
 description: "Erfahren Sie, wie die Verhaltensforscherin Jane Goodall durch wissenschaftliche Beobachtungen im Gombe-Dschungel Durchbrüche erzielte. Entdecken Sie die Neurowissenschaften des visuellen Assoziationskortex und der selektiven Aufmerksamkeit."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-09"
+updatedDate: "2026-05-09"
 category: "BuildSelf"
-tags: ["Auf Felsen","Routine"]
-heroImage: "/images/blog/jane_goodall.png"
+tags: ["위인 습관", "제인 구달", "사색", "성찰"]
+heroImage: "/images/blog/jane_goodall.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Jane Goodalls Autobiografie *Grund zur Hoffnung (Reason for Hope)*, Archiven des Gombe Stream Research Centre & Forschung der kognitiven Neurowissenschaften und Verhaltensforschung"

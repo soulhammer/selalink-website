@@ -1,11 +1,11 @@
 ---
 title: "刹那的几何学与专注的视角：亨利·卡蒂尔-布列松的“决定性瞬间”观察习惯"
 description: "探索现代纪实摄影大师亨利·卡蒂尔-布列松如何在日常中静候完美几何构图与绝妙刹那的视觉沉浸习惯，揭示打破预测编码（Predictive Coding）滤镜并唤醒视觉皮层与前额叶注意力控制网络的神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-08"
+updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: ["刹那的几何学与专注的","Routine"]
-heroImage: "/images/blog/bresson_decisive_moment.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/bresson_decisive_moment.webp"
 app: "buildself"
 formatVersion: 4
 authority: "亨利·卡蒂尔-布列松摄影集《决定性瞬间（Images à la sauvette / The Decisive Moment）》考证与认知神经科学（Cognitive Neuroscience）研究"

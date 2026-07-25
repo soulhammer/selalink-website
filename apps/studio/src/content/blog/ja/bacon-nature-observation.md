@@ -1,11 +1,11 @@
 ---
 title: "フランシス・ベーコンの朝の庭園散歩：自然観察で脳疲労をリセットする方法"
 description: "経験論の巨匠フランシス・ベーコンが毎日朝に庭園を散歩しながら植物や天気を観察し、脳の疲労をほぐして帰納法哲学を確立した方法を探ります。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-04"
+updatedDate: "2026-01-04"
 category: "BuildSelf"
-tags: ["フランシス・ベーコン","Routine"]
-heroImage: "/images/blog/bacon_nature_observation.png"
+tags: ["산책", "자연관찰", "경험론", "근세"]
+heroImage: "/images/blog/bacon_nature_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "フランシス・ベーコン随筆集『Essays（Of Gardens）』考証＆認知神経科学（Cognitive Neuroscience）研究"

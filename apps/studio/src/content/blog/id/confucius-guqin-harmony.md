@@ -4,8 +4,8 @@ description: "Pelajari bagaimana Konfusius, maestro filsafat Timur, menyelaraska
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["Menyelaras","Routine"]
-heroImage: "/images/blog/confucius_guqin_harmony.png"
+tags: ["위인 습관", "공자", "거문고", "음악치료", "마음조율"]
+heroImage: "/images/blog/confucius_guqin_harmony.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari *Catatan Sejarawan Agung (Shiji: Keluarga Konfusius)* karya Sima Qian & *Analek (Lunyu)* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

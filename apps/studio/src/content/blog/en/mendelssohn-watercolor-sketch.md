@@ -1,11 +1,11 @@
 ---
 title: "색채로 빚어낸 멜로디? 펠릭스 의 아침 수채화 루틴"
 description: "천재 작곡가 은 매일 아침 풍경을 수채화로 그리며 음악적 영감을 깨웠습니다. 미술과 음악의 뇌과학적 교차 자극 및 감각 전환 실천법을 소개합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-20"
+updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: ["Great Habits","mendelssohn","Routine","Stamina"]
-heroImage: "/images/blog/mendelssohn_watercolor_sketch.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/mendelssohn_watercolor_sketch.webp"
 app: "buildself"
 formatVersion: 4
 authority: "펠릭스 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

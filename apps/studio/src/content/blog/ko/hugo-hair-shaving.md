@@ -1,11 +1,11 @@
 ---
 title: "외출 차단으로 몰입 강제: 빅토르 위고의 삭발 격리 습관과 사전 구속 전략"
 description: "빅토르 위고는 마감을 지키기 위해 머리와 수염 반쪽을 깎고 스스로 외출을 차단했습니다. 강력한 환경적 물리 제약의 뇌과학적 이점과 사전 구속 전략, 전전두엽 의지력 피로 방지 메커니즘을 살펴봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-29"
+updatedDate: "2026-06-29"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/hugo_hair_shaving.png"
+tags: ["위인 습관", "빅토르 위고", "몰입", "환경 제약", "생산성"]
+heroImage: "/images/blog/hugo_hair_shaving.webp"
 app: "buildself"
 formatVersion: 4
 authority: "그레이엄 로브 『빅토르 위고 평전(Victor Hugo: A Biography)』 고증 & 행동치료학(Behavior Therapy) 및 인지신경과학(Cognitive Neuroscience) 연구"

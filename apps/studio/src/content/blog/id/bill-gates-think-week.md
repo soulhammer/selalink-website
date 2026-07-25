@@ -1,11 +1,11 @@
 ---
 title: "Satu Minggu Pemutusan Hubungan: 'Think Week' Bill Gates dan Kerja Mendalam Tanpa Kebisingan"
 description: "Pelajari rutinitas membaca dalam isolasi pondok ala Bill Gates, 'Think Week', yang mendorong lompatan besar Microsoft, dan temukan prinsip neurosains tentang mengeliminasi sisa perhatian serta memaksimalkan wawasan jangka panjang otak."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-08"
+updatedDate: "2026-01-08"
 category: "BuildSelf"
-tags: ["Satu Mingg","Routine"]
-heroImage: "/images/blog/bill_gates_think_week.png"
+tags: ["위인 습관", "빌 게이츠", "집중력", "사색", "독서"]
+heroImage: "/images/blog/bill_gates_think_week.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Biografi Walter Isaacson & Arsip Microsoft & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

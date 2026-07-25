@@ -1,11 +1,11 @@
 ---
 title: "El 'Time Blocking de 5 Minutos' de Elon Musk: Microplanificación y Rutina de Enfoque de Alta Densidad"
 description: "Descubra cómo Elon Musk gestiona semanas de 80 a 100 horas fraccionando su agenda en microbloques de 5 minutos. Explore la neurociencia cognitiva de la escasez de tiempo, la Ley de Parkinson y el enfoque de túnel."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-15"
+updatedDate: "2026-06-15"
 category: "BuildSelf"
-tags: ["El 'Time B","Routine"]
-heroImage: "/images/blog/elon_musk_time_blocking.png"
+tags: ["위인 습관", "일론 머스크", "생산성 향상", "시간 관리", "타임 블로킹"]
+heroImage: "/images/blog/elon_musk_time_blocking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la Biografía de Walter Isaacson *Elon Musk* e Investigación en Neurociencia Cognitiva"

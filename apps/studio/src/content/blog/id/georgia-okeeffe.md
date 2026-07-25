@@ -1,11 +1,11 @@
 ---
 title: "Pemeriksaan Tulang Hewan Gurun di Bawah Kaca Pembesar: Pengamatan Close-Up Ekstrem dan Rutinitas Perhatian Visual Georgia O'Keeffe"
 description: "Pelajari bagaimana Georgia O'Keeffe, 'Ibu Modernisme Amerika', memaksimalkan perhatian visual selektif dengan memperbesar tulang hewan gurun dan kelopak bunga sepuluh kali lipat. Temukan neurosains tentang korteks asosiasi visual."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-25"
+updatedDate: "2026-02-25"
 category: "BuildSelf"
-tags: ["Pemeriksaa","Routine"]
-heroImage: "/images/blog/georgia_okeeffe.png"
+tags: ["위인 습관", "조지아 오키프", "이완", "성찰"]
+heroImage: "/images/blog/georgia_okeeffe.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Autobiografi *Georgia O'Keeffe*, Arsip Georgia O'Keeffe Museum (Santa Fe) & Penelitian Neurosains Kognitif"

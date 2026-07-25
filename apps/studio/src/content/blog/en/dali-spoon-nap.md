@@ -1,11 +1,11 @@
 ---
 title: "The Genius Who Painted the Universe with a Spoon: Salvador Dalí's Brain Reset Nap and Hypnagogia Capture Routine"
 description: "Explore how Surrealist master Salvador Dalí sat in a chair holding a metal spoon to catch brilliant artistic ideas upon awakening. Discover the cognitive neuroscience of capturing theta-wave hypnagogic states and subconscious associative synthesis."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-07"
+updatedDate: "2026-03-07"
 category: "BuildSelf"
-tags: ["Great Habits","dali","Routine","Stamina"]
-heroImage: "/images/blog/dali_spoon_nap.png"
+tags: ["위인 습관", "살바도르 달리", "창의성", "낮잠", "뇌파"]
+heroImage: "/images/blog/dali_spoon_nap.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Salvador Dalí's Autobiography *The Secret Life of Salvador Dalí* & Cognitive Neuroscience Research"

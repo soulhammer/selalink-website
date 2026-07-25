@@ -1,11 +1,11 @@
 ---
 title: "O Gênio que Coloria o Papel de Acordo com o Gênero: A Rotina de Reinício por Cor e Priming Visual de Alexandre Dumas"
 description: "Descubra como Alexandre Dumas, autor de 'O Conde de Monte Cristo', usava papéis de cores diferentes para cada gênero. Explore a neurociência cognitiva do priming por cor e redução de custos de transição."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-07"
+updatedDate: "2026-06-07"
 category: "BuildSelf"
-tags: ["O Gênio qu","Routine"]
-heroImage: "/images/blog/dumas_color_switching.png"
+tags: ["위인 습관", "알렉상드르 뒤마", "창의성", "색상", "생산성"]
+heroImage: "/images/blog/dumas_color_switching.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica da Autobiografia de Alexandre Dumas *Minhas Memórias (Mes Mémoires)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)"

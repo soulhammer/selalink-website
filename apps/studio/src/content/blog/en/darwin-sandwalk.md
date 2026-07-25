@@ -1,11 +1,11 @@
 ---
 title: "Completing Evolutionary Theory Through Walking: Charles Darwin's 'Sandwalk' Routine and Cognitive Incubation"
 description: "Discover how naturalist Charles Darwin walked his gravel 'Sandwalk' path, kicking stones to count laps while untangling complex evolutionary theory. Explore the cognitive neuroscience of Default Mode Network (DMN) activation and Cognitive Incubation."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-14"
+updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: ["Great Habits","darwin","Routine","Stamina"]
-heroImage: "/images/blog/darwin_sandwalk.png"
+tags: ["위인 습관", "찰스 다윈", "걷기", "사색", "아이디어"]
+heroImage: "/images/blog/darwin_sandwalk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Charles Darwin's Autobiography *The Autobiography of Charles Darwin* & Cognitive Neuroscience Research"

@@ -1,11 +1,11 @@
 ---
 title: "Señales Ambientales que Protegen la Inmersión: El Hábito de la Puerta Rechinante de Jane Austen"
 description: "Jane Austen dejó intencionadamente sin reparar una puerta rechinante para detectar con antelación las distracciones entrantes. Explore los principios del diseño de límites de concentración."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-27"
+updatedDate: "2026-03-27"
 category: "BuildSelf"
-tags: ["Señales Am","Routine"]
-heroImage: "/images/blog/austen_creaky_door.png"
+tags: ["위인 습관", "제인 오스틴", "집중력", "몰입", "환경 설정"]
+heroImage: "/images/blog/austen_creaky_door.webp"
 app: "buildself"
 formatVersion: 4
 authority: "James Edward Austen-Leigh, *A Memoir of Jane Austen* (1869) e Investigación en *Neuropsychologia*"

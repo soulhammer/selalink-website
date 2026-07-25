@@ -1,11 +1,11 @@
 ---
 title: "Fehlerfrei eine Taste pro Sekunde durch Temporeduktion: Franz Liszts kleinhirnbasiertes Bewegungslernen und Myelinisierung"
 description: "Erfahren Sie, wie der Pianist Franz Liszt seine Präzision meisterte, indem er das Metronomtempo auf eine Taste pro Sekunde drosselte. Entdecken Sie die Neurowissenschaften des kleinhirnbasierten Bewegungslernens, der Myelinisierung und einen 3-Schritte-Plan."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-14"
+updatedDate: "2026-04-14"
 category: "BuildSelf"
-tags: ["Fehlerfrei","Routine"]
-heroImage: "/images/blog/liszt.png"
+tags: ["위인 습관", "프란츠 리스트", "의지력", "시간 관리"]
+heroImage: "/images/blog/liszt.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Alan Walkers Biografie *Franz Liszt: The Virtuoso Years*, Liszt-Archiven & Forschung der kognitiven Neurowissenschaften und Bewegungslernwissenschaft"

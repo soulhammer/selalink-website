@@ -1,11 +1,11 @@
 ---
 title: "Penawar Spekulasi Soliter: Rutinitas Bersosialisasi dan Bermain Backgammon Malam Hari David Hume untuk Relaksasi Emosional"
 description: "Pelajari bagaimana filsuf Skotlandia David Hume melawan keputusasaan intelektual dengan makan malam bersama teman-teman dan bermain backgammon setiap malam. Temukan neurosains oksitosin, serotonin, dan pencegahan beban kognitif."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-18"
+updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: ["Penawar Sp","Routine"]
-heroImage: "/images/blog/hume_social_refresh.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/hume_social_refresh.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari *A Treatise of Human Nature* (1739) dan Autobiografi *My Own Life* karya David Hume & Penelitian Neurosains Kognitif"

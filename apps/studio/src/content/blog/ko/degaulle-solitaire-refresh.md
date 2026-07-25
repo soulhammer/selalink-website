@@ -1,11 +1,11 @@
 ---
 title: "대통령 집무실의 1인용 카드 게임: 샤를 드골의 솔리테어와 전두엽 의사결정 피로 해소법"
 description: "위기 속에서 프랑스를 구했던 영웅 샤를 드골이 격무의 고단함 속에서 솔리테어 카드 게임을 즐겼던 루틴. 비언어적 패턴 매칭이 전두엽 의사결정 필터(Decision-making filters)를 비활성화하고 편도체 과부하를 끄는 인지신경과학적 원리를 밝깁니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-28"
+updatedDate: "2026-03-28"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/degaulle_solitaire_refresh.png"
+tags: ["위인 습관", "샤를 드 골", "솔리테어", "의사결정 피로", "두뇌 이완"]
+heroImage: "/images/blog/degaulle_solitaire_refresh.webp"
 app: "buildself"
 formatVersion: 4
 authority: "샤를 드골 회고록 『회고록(Mémoires de guerre / Mémoires d'espoir)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

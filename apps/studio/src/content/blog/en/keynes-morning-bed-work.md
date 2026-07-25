@@ -1,11 +1,11 @@
 ---
 title: "The General Theory Written Under the Covers: John Maynard Keynes's Morning Bed-Work Habit and CAR Cognitive Activation"
 description: "Discover how macroeconomist John Maynard Keynes, who conquered the Great Depression, authored manuscripts in bed for two hours after waking up. Explore the neuroscience of the Cortisol Awakening Response (CAR), prefrontal focus, and a 3-step morning routine."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-08"
+updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: ["Great Habits","keynes","Routine","Stamina"]
-heroImage: "/images/blog/keynes_morning_bed_work.png"
+tags: ["집중", "생산성", "성공습관"]
+heroImage: "/images/blog/keynes_morning_bed_work.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Robert Skidelsky's *John Maynard Keynes* Biography, Keynes Archives & Cognitive Neuroscience and Neuromuscular Science Research"

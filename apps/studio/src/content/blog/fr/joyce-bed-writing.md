@@ -1,11 +1,11 @@
 ---
 title: "Écrire au lit avec des crayons de couleur bleus : La routine d'écriture d'économie d'énergie et de soulagement de la fatigue du cortex visuel primaire (V1) de James Joyce"
 description: "Découvrez comment James Joyce a conçu des chefs-d'œuvre littéraires allongé dans son lit malgré de graves pathologies oculaires. Explorez la neuroscience de la réduction de la charge musculaire gravitationnelle, du soulagement de la fatigue du cortex visuel primaire (V1) et de l'optimisation de l'énergie préfrontale."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-10"
+updatedDate: "2026-04-10"
 category: "BuildSelf"
-tags: ["Écrire au ","Routine"]
-heroImage: "/images/blog/joyce_bed_writing.png"
+tags: ["위인 습관", "휴식"]
+heroImage: "/images/blog/joyce_bed_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de la biographie de Richard Ellmann *James Joyce*, des archives de Joyce & de la Recherche en Neurosciences Cognitives et Perception Visuelle"

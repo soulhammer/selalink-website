@@ -1,11 +1,11 @@
 ---
 title: "Le grand commencement du maître : La routine de scénario de 2 pages par jour d'Akira Kurosawa et la stabilisation de l'amygdale"
 description: "Découvrez comment le légendaire réalisateur Akira Kurosawa a créé des chefs-d'œuvre en rédigeant 2 pages de scénario chaque jour. Explorez la neuroscience des micro-objectifs, la suppression de la réponse de menace de l'amygdale et un guide en 3 étapes."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["Le grand c","Routine"]
-heroImage: "/images/blog/kurosawa_page_writing.png"
+tags: ["위인 습관", "아키라 구로사와", "미세 목표", "인지 부하", "실천력", "창의성"]
+heroImage: "/images/blog/kurosawa_page_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de l'autobiographie d'Akira Kurosawa *Quelque chose comme una autobiographie*, des archives de Kurosawa & de la Recherche en Neurosciences Cognitives et Psychologie Comportementale"

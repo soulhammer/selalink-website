@@ -1,11 +1,11 @@
 ---
 title: "새벽 2시 서류에 형광펜을 대며 정책 쟁점을 필터링한 대처의 정보 정화 습관"
 description: "철의 여인이라 불린 영국의 수상으로, 매일 새벽 공문서와 기사 더미를 읽으며 정요하게 비판적 의견을 메모해 인지 주도권을 확보했습니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-05"
+updatedDate: "2026-04-05"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/thatcher.png"
+tags: ["위인 습관", "마가렛 대처", "시간 관리", "의사결정"]
+heroImage: "/images/blog/thatcher.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Thatcher 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

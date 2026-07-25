@@ -1,11 +1,11 @@
 ---
 title: "Penemuan dalam Kegelapan Total: Deprivasi Sensorik Tengah Malam dan Kerja Mendalam ala Alexander Graham Bell"
 description: "Pelajari bagaimana Alexander Graham Bell, penemu telepon yang merevolusi komunikasi manusia, menghilangkan kelebihan beban sensorik dan membangkitkan fungsi eksekutif otak melalui kerja mendalam dalam 'kegelapan total tengah malam', serta temukan mekanisme neurosains dari Deprivasi Sensorik."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-12"
+updatedDate: "2026-05-12"
 category: "BuildSelf"
-tags: ["Penemuan d","Routine"]
-heroImage: "/images/blog/bell_midnight_darkness.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/bell_midnight_darkness.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Biografi Robert V. Bruce *Bell: Alexander Graham Bell and the Conquest of Solitude* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

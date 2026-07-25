@@ -1,11 +1,11 @@
 ---
 title: "Comment apprivoiser la muse : La routine quotidienne d'écriture de 2 000 mots et le conditionnement de l'attention de Stephen King"
 description: "Découvrez la célèbre routine d'écriture de Stephen King, l'un des auteurs les plus prolifiques au monde. Explorez la neuroscience de l'apprentissage sensorimoteur, les déclencheurs de conditionnement et un guide en 3 étapes pour soutenir votre productivité."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-18"
+updatedDate: "2026-05-18"
 category: "BuildSelf"
-tags: ["Comment ap","Routine"]
-heroImage: "/images/blog/king_writing_routine.png"
+tags: ["위인 습관", "스티븐 킹", "집필", "루틴", "창의성", "조건형성"]
+heroImage: "/images/blog/king_writing_routine.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue des mémoires de Stephen King *Écriture : Mémoires d'un métier (On Writing: A Memoir of the Craft, 2000)*, des archives de King & de la Recherche en Neurosciences Cognitives et Psychologie Cognitive"

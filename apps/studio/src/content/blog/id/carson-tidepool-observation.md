@@ -1,11 +1,11 @@
 ---
 title: "Ekosistem Laut yang Memantik Silent Spring: Pengamatan Kolam Pasang Surut dan Relaksasi Pesona Lembut ala Rachel Carson"
 description: "Pelajari bagaimana Rachel Carson, pelopor gerakan lingkungan modern, memulihkan kapasitas kognitif yang lelah dengan mengamati kolam pasang surut di tengah tekanan korporasi dan pengobatan kanker. Temukan mekanisme neurosains dari Teori Restorasi Perhatian (ART) dan 'Pesona Lembut'."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-04"
+updatedDate: "2026-07-04"
 category: "BuildSelf"
-tags: ["Ekosistem ","Routine"]
-heroImage: "/images/blog/carson_tidepool_observation.png"
+tags: ["위인 습관", "레이첼 카슨", "자연 관찰", "주의 회복", "인도어 디톡스"]
+heroImage: "/images/blog/carson_tidepool_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Biografi Historis dan Arsip Autobiografi Rachel Carson & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

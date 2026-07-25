@@ -1,11 +1,11 @@
 ---
 title: "Konsentrasi Mutlak di Golden Hour: Rutinitas Kalkulasi Pagi Soliter 2 Jam Enrico Fermi dan Imersi Puncak Kognitif"
 description: "Pelajari bagaimana fisikawan peraih Nobel Enrico Fermi, pencipta reaktor nuklir buatan pertama, memanfaatkan golden hour kognitifnya dengan mendedikasikan 2 jam pagi secara soliter untuk kalkulasi rumit. Temukan neurosains tentang Respon Kesadaran Kortisol."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-14"
+updatedDate: "2026-05-14"
 category: "BuildSelf"
-tags: ["Konsentras","Routine"]
-heroImage: "/images/blog/fermi_dawn_calculation_routine.png"
+tags: ["집중", "생산성", "학습"]
+heroImage: "/images/blog/fermi_dawn_calculation_routine.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari *Atoms in the Family: My Life with Enrico Fermi* karya Laura Fermi, Arsip Biografi & Penelitian Neurosains Kognitif"

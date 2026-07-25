@@ -1,11 +1,11 @@
 ---
 title: "Escrever na Cama com Lápis de Cor Azuis: A Rotina de Escrita para Conservação de Energia e Alívio da Fadiga do Córtex Visual Primário (V1) de James Joyce"
 description: "Descubra como James Joyce criou obras-primas literárias deitado na cama apesar de graves doenças oculares. Explore a neurociência da redução da carga muscular gravitacional, alívio da fadiga do córtex visual primário (V1) e otimização da energia pré-frontal."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-10"
+updatedDate: "2026-04-10"
 category: "BuildSelf"
-tags: ["Escrever n","Routine"]
-heroImage: "/images/blog/joyce_bed_writing.png"
+tags: ["위인 습관", "휴식"]
+heroImage: "/images/blog/joyce_bed_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica da Biografia de Richard Ellmann *James Joyce*, Arquivos de Joyce e Pesquisa em Neurociência Cognitiva e Percepção Visual"

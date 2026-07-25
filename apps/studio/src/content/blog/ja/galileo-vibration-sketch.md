@@ -1,11 +1,11 @@
 ---
 title: "ガリレオの揺れスケッチ：空間認知力を刺激して複雑な構造を単純化する方法と視空間スケッチパッドルーティン"
 description: "現代科学の父ガリレオ・ガリレイが、揺れる振り子とランプを観察しながら幾何学的スケッチで複雑な物理公式の直感を形成した秘密を解き明かします。視空間スケッチパッドの刺激と二重符号化理論の脳科学的原理を dynamic に探求します。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-01"
+updatedDate: "2026-02-01"
 category: "BuildSelf"
-tags: ["ガリレオの揺れスケッ","Routine"]
-heroImage: "/images/blog/galileo_vibration_sketch.png"
+tags: ["시각화", "스케치", "물리학", "근세"]
+heroImage: "/images/blog/galileo_vibration_sketch.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ガリレオ・ガリレイ著作集『新科学対話（Two New Sciences）』および『偽金鑑識官（Il Saggiatore）』、ピサ大学史料考証＆認知神経科学（Cognitive Neuroscience）연구"

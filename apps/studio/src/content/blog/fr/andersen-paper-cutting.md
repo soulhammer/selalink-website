@@ -1,11 +1,11 @@
 ---
 title: "Le découpage au ciseau qui soigne la dépression ? La routine de découpage de papier d'Andersen"
 description: "L'auteur de contes de fées mondialement célèbre Hans Christian Andersen. Découvrez les principes de guérison psychiatrique et le guide en 3 étapes du « découpage de papier » (Paper Cutting), le secret pour faire fleurir une belle imagination malgré une vie de dépression et de privation psychologique."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["Le découpa","Routine"]
-heroImage: "/images/blog/andersen_paper_cutting.png"
+tags: ["위인 습관", "안데르센", "종이오리기", "미술치료", "뇌휴식"]
+heroImage: "/images/blog/andersen_paper_cutting.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue des archives de papier du Musée Hans Christian Andersen à Odense, Danemark & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

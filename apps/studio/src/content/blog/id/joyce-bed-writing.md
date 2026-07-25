@@ -1,11 +1,11 @@
 ---
 title: "Menulis di Tempat Tidur dengan Pensil Warna Biru: Rutinitas Penulisan Penghematan Energi dan Meredakan Kelelahan Korteks Visual Primer (V1) James Joyce"
 description: "Pelajari bagaimana James Joyce menciptakan mahakarya sastra sambil berbaring di tempat tidur meskipun menderita penyakit mata parah. Temukan neurosains tentang mengurangi beban otot gravitasi, meredakan kelelahan korteks visual primer (V1), dan mengoptimalkan energi prefrontal."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-10"
+updatedDate: "2026-04-10"
 category: "BuildSelf"
-tags: ["Menulis di","Routine"]
-heroImage: "/images/blog/joyce_bed_writing.png"
+tags: ["위인 습관", "휴식"]
+heroImage: "/images/blog/joyce_bed_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Biografi Richard Ellmann *James Joyce*, Arsip Joyce & Penelitian Neurosains Kognitif serta Persepsi Visual"

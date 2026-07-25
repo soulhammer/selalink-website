@@ -1,11 +1,11 @@
 ---
 title: "Intuição na Ponta dos Dedos e a Inovação de 6 Pontos: A Rotina de Simplificação Essencial e Agrupamento de Louis Braille"
 description: "Descubra como Louis Braille simplificou a complexa escrita noturna militar de 12 pontos em um sistema tátil de 6 pontos que cabe na ponta de um único dedo, revolucionando o acesso ao conhecimento, e explore os princípios neurocientíficos do agrupamento da memória de trabalho tátil."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-04"
+updatedDate: "2026-05-04"
 category: "BuildSelf"
-tags: ["Intuição n","Routine"]
-heroImage: "/images/blog/braille_tactile_simplification.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/braille_tactile_simplification.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica da Biografia de C. Michael Mellor *Louis Braille: A Touch of Genius* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)"

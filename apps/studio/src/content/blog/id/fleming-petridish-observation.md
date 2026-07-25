@@ -1,11 +1,11 @@
 ---
 title: "Penyelamatan Umat Manusia dari Tempat Sampah: Metode Pengamatan Kegagalan dan Rutinitas Penemuan Anomali Alexander Fleming"
 description: "Pelajari bagaimana Alexander Fleming, penemu penisilin yang legendaris, mengubah sejarah medis dengan mengamati cawan Petri yang terkontaminasi daripada membuangnya. Temukan neurosains tentang fiksasi kognitif dan pemikiran divergen."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-08"
+updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: ["Penyelamat","Routine"]
-heroImage: "/images/blog/fleming_petridish_observation.png"
+tags: ["위인 습관", "알렉산더 플레밍", "실패 성찰", "확산적 사고", "세렌디피티"]
+heroImage: "/images/blog/fleming_petridish_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari *The Life of Sir Alexander Fleming* karya André Maurois, Arsip Nobel & Penelitian Neurosains Kognitif"

@@ -1,11 +1,11 @@
 ---
 title: "새벽의 여명에서 예술을 빚은 빛의 거장? 클로드 모네의 시각 예열 루틴"
 description: "인상파 회화의 거장 클로드 모네. 매일 새벽 3시 30분에 일어나 자연광의 미세한 파장을 응시하며 시각 피질의 색채 감도를 높였던 그의 '여명 관찰' 루틴과 현대인을 위한 뇌 과학적 시신경 각성법을 살펴봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-31"
+updatedDate: "2026-03-31"
 category: "BuildSelf"
-tags: ["새벽의 여명에서 예","Routine"]
-heroImage: "/images/blog/monet_dawn_light.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/monet_dawn_light.webp"
 app: "buildself"
 formatVersion: 4
 authority: "클로드 모네 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

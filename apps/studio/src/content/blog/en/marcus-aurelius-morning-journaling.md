@@ -1,11 +1,11 @@
 ---
 title: "마르쿠스 아우렐리우스의 아침 저널링: 스토아 철학으로 마음을 잠재우는 법"
 description: "로마 황제 마르쿠스 아우렐리우스가 일출 직전 일기를 쓰며 극도의 스트레스를 해소하고 내면의 회복탄력성을 기른 비결을 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-22"
+updatedDate: "2026-05-22"
 category: "BuildSelf"
-tags: ["Great Habits","marcus","Routine","Stamina"]
-heroImage: "/images/blog/marcus_aurelius_morning_journaling.png"
+tags: ["성찰", "일기", "스토아철학", "고대"]
+heroImage: "/images/blog/marcus_aurelius_morning_journaling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Marcus Aurelius Morning Journaling 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

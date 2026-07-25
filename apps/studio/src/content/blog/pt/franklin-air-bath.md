@@ -1,11 +1,11 @@
 ---
 title: "30 Minutos Todas as Manhãs: O Curioso 'Banho de Ar' de Benjamin Franklin e a Rotina de Reinício do Sistema Nervoso Autônomo"
 description: "Descubra como Benjamin Franklin, inventor do para-raios e Pai Fundador dos EUA, praticava seu 'banho de ar' matinal nu diante de janelas abertas. Explore a neurociência dos receptores de frio (TRPM8) e da noradrenalina."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-12"
+updatedDate: "2026-02-12"
 category: "BuildSelf"
-tags: ["30 Minutos","Routine"]
-heroImage: "/images/blog/franklin_air_bath.png"
+tags: ["위인 습관", "벤자민 프랭클린", "아침 루틴", "면역력", "각성"]
+heroImage: "/images/blog/franklin_air_bath.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica da *Autobiografia de Benjamin Franklin*, Cartas a M. Barbeu Dubourg e Pesquisa em Neurociência Cognitiva"

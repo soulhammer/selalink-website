@@ -1,11 +1,11 @@
 ---
 title: "Der große Anfang des Meisters: Akira Kurosawas tägliche 2-Seiten-Drehbuchroutine und Amygdala-Beruhigung"
 description: "Erfahren Sie, wie Meisterregisseur Akira Kurosawa Meisterwerke schuf, indem er täglich 2 Seiten Drehbuch schrieb. Entdecken Sie die Neurowissenschaften von Mikro-Zielen, die Dämpfung der Amygdala-Bedrohung und einen 3-Schritte-Plan."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["Der große ","Routine"]
-heroImage: "/images/blog/kurosawa_page_writing.png"
+tags: ["위인 습관", "아키라 구로사와", "미세 목표", "인지 부하", "실천력", "창의성"]
+heroImage: "/images/blog/kurosawa_page_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Akira Kurosawas Autobiografie *So etwas wie eine Autobiographie*, Kurosawa-Archiven & Forschung der kognitiven Neurowissenschaften und Verhaltenspsychologie"

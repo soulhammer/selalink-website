@@ -1,11 +1,11 @@
 ---
 title: "El Orador que se Afeitó la Mitad de la Cabeza: La Rutina de Control Ambiental Extremo y Dispositivo de Compromiso de Demóstenes"
 description: "Descubra cómo Demóstenes, maestro orador de la antigua Grecia, superó sus limitaciones físicas afeitándose la mitad de la cabeza y aislándose en una cueva. Explore la neurociencia cognitiva de cómo los Dispositivos de Compromiso protegen las funciones ejecutivas."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-28"
+updatedDate: "2026-01-28"
 category: "BuildSelf"
-tags: ["El Orador ","Routine"]
-heroImage: "/images/blog/demosthenes_isolation.png"
+tags: ["위인 습관", "데모스테네스", "몰입", "환경통제", "의지력"]
+heroImage: "/images/blog/demosthenes_isolation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de las *Vidas paralelas (Vida de Demóstenes)* de Plutarco e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"

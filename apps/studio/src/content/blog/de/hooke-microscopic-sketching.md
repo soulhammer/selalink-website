@@ -4,7 +4,7 @@ description: "Erfahren Sie, wie das Genie des 17. Jahrhunderts, Robert Hooke, du
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["Robert Hoo","Routine"]
+tags: ["위습관","루틴"]
 heroImage: "/images/blog/hooke_microscopic_sketching.png"
 app: "buildself"
 formatVersion: 4

@@ -1,11 +1,11 @@
 ---
 title: "Wie man die Muse zähmt: Stephen Kings tägliche 2.000-Wörter-Schreibroutine und Fokuskonditionierung"
 description: "Erfahren Sie mehr über die Schreibroutine von Stephen King, einem der erfolgreichsten Autoren der Welt. Entdecken Sie die Neurowissenschaften des sensorisch-motorischen Lernens, Konditionierungsreize und eine 3-Schritte-Anleitung für tägliche Produktivität."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-18"
+updatedDate: "2026-05-18"
 category: "BuildSelf"
-tags: ["Wie man di","Routine"]
-heroImage: "/images/blog/king_writing_routine.png"
+tags: ["위인 습관", "스티븐 킹", "집필", "루틴", "창의성", "조건형성"]
+heroImage: "/images/blog/king_writing_routine.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Stephen Kings Autobiografie *Das Leben und das Schreiben (On Writing: A Memoir of the Craft, 2000)*, King-Archiven & Forschung der kognitiven Neurowissenschaften und Psychologie"

@@ -1,11 +1,11 @@
 ---
 title: "라듐 연구 스트레스를 극복한 비결: 마리 퀴리의 저녁 자전거 라이딩과 BDNF 유도법"
 description: "여성 최초이자 물리학·화학 분야 노벨상 동시 수상자인 마리 퀴리. 극심한 피로와 라듐 연구 스트레스 속에서도 두뇌를 지켰던 저녁 자전거 라이딩 루틴. BDNF 분비 촉진과 전두엽 산소 공급의 인지신경과학적 원리를 밝깁니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-28"
+updatedDate: "2026-02-28"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/curie_cycling.png"
+tags: ["위인 습관", "마리 퀴리", "자전거", "휴식", "스트레스"]
+heroImage: "/images/blog/curie_cycling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "이브 퀴리 평전 『마리 퀴리 평전(Madame Curie)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

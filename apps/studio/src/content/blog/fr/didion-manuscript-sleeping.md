@@ -1,11 +1,11 @@
 ---
 title: "Votre cerveau résout les projets pendant votre sommeil : La routine de sommeil avec manuscrit de Joan Didion et le primage du sommeil REM"
 description: "Découvrez comment la légendaire essayiste américaine Joan Didion dormait dans la même pièce que son manuscrit inachevé pour dénouer les récits complexes. Explorez la neuroscience cognitive du primage cognitif et de la consolidation mémorielle pendant le sommeil REM."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-02"
+updatedDate: "2026-06-02"
 category: "BuildSelf"
-tags: ["Votre cerv","Routine"]
-heroImage: "/images/blog/didion_manuscript_sleeping.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/didion_manuscript_sleeping.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de la biographie de Tracy Daugherty *The Last Love Song* & *The Paris Review* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

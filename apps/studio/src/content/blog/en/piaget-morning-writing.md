@@ -1,11 +1,11 @@
 ---
 title: "생각을 정밀하게 구조화하는 뇌 작동법? 장 피아제의 글쓰기와 사색 산책"
 description: "스위스의 위대한 아동 심리학자 장 피아제. 생각을 정밀하게 정돈한 그의 아침 4페이지 글쓰기 및 오후 사색 산책 루틴의 뇌과학적 원리와 3단계 실천법을 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["Great Habits","piaget","Routine","Stamina"]
-heroImage: "/images/blog/piaget_morning_writing.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/piaget_morning_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "장 피아제 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

@@ -1,11 +1,11 @@
 ---
 title: " 타人の歩幅を複製する鏡の視線：チャーリー・チャップリンの身体ミラーリングと人間分析ルーティン"
 description: "サイレント映画時代を支配した巨匠チャーリー・チャップリンが街頭の見知らぬ人々の歩き方や動作を観察しミラーリングしたルーティン。前運動皮質のミラーニューロン（Mirror Neurons）を活性化して身体地図を拡張し、他者共感能力を極大化する神経科学的原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-01"
+updatedDate: "2026-03-01"
 category: "BuildSelf"
-tags: [" 타人の歩幅を複製す","Routine"]
-heroImage: "/images/blog/charlie_chaplin.png"
+tags: ["위인 습관", "찰리 채플린", "창의성", "사색"]
+heroImage: "/images/blog/charlie_chaplin.webp"
 app: "buildself"
 formatVersion: 4
 authority: "チャーリー・チャップリン自伝『My Autobiography』考証＆認知神経科学（Cognitive Neuroscience）研究"

@@ -1,11 +1,11 @@
 ---
 title: "肯定的な脳回路を呼び醒ます力：島山・安昌浩の鏡の笑顔と清潔ルーティン"
 description: "独立運動家、島山・安昌浩が強調した「笑顔」と「清潔」の力。つくり笑いが脳のセロトニンを分泌させ、整頓された空間が視覚的認知負荷を軽減する科学的理由を探ります。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-19"
+updatedDate: "2026-01-19"
 category: "BuildSelf"
-tags: ["肯定的な脳回路を呼び","Routine"]
-heroImage: "/images/blog/anchangho_mirror_smile.png"
+tags: ["위인 습관", "도산 안창호", "거울 미소", "청결", "마인드컨트롤", "자기계발"]
+heroImage: "/images/blog/anchangho_mirror_smile.webp"
 app: "buildself"
 formatVersion: 4
 authority: "島山・安昌浩評伝および興士団（興韓團）記録の考証＆認知神経科学（Cognitive Neuroscience）研究"

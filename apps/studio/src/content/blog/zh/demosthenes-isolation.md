@@ -1,11 +1,11 @@
 ---
 title: "剃去半边头发的演说家：德摩斯梯尼的极限环境控制与强效承诺装置习惯"
 description: "探索克服先天生理缺陷、跃升为古希腊顶尖演说家的德摩斯梯尼为切断诱惑主动剃去半边头发避世洞窟的习惯，揭示强效承诺装置（Hard Commitment Device）如何保护前额叶皮层执行功能的神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-28"
+updatedDate: "2026-01-28"
 category: "BuildSelf"
-tags: ["剃去半边头发的演说家","Routine"]
-heroImage: "/images/blog/demosthenes_isolation.png"
+tags: ["위인 습관", "데모스테네스", "몰입", "환경통제", "의지력"]
+heroImage: "/images/blog/demosthenes_isolation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "普鲁塔克传记《希罗名将传（Parallel Lives: Demosthenes）》考证与认知神经科学（Cognitive Neuroscience）研究"

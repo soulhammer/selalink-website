@@ -1,11 +1,11 @@
 ---
 title: "George Washington's Farm Logbook: The Dawn Inspection and Record-Keeping Routine That Forged Presidential Governance"
 description: "Discover how George Washington, who rose at 4 AM to inspect Mount Vernon and record precise agricultural metrics, built the administrative foundation of a nation. Explore the neuroscience of metacognition and lateral prefrontal cortex activation."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-04"
+updatedDate: "2026-07-04"
 category: "BuildSelf"
-tags: ["Great Habits","george","Routine","Stamina"]
-heroImage: "/images/blog/george_washington_morning_rounds.png"
+tags: ["위인 습관", "조지 워싱턴", "행정력", "영농 일지", "메타 인지"]
+heroImage: "/images/blog/george_washington_morning_rounds.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from George Washington Biographies, Mount Vernon Estate Archives & Cognitive Neuroscience Research"

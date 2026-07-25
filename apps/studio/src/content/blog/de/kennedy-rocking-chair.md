@@ -1,11 +1,11 @@
 ---
 title: "Der Schaukelstuhl im Oval Office: John F. Kennedys Überwindung von Rückenschmerzen und vestibuläre Entspannung"
 description: "Erfahren Sie, wie John F. Kennedy die USA in den Krisen des Kalten Krieges trotz schwerer Rückenschmerzen mithilfe seines Schaukelstuhls im Oval Office führte. Entdecken Sie die Neurowissenschaften der vestibulären Stimulation und des Parasympathikus."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-10"
+updatedDate: "2026-02-10"
 category: "BuildSelf"
-tags: ["Der Schauk","Routine"]
-heroImage: "/images/blog/kennedy_rocking_chair.png"
+tags: ["위인 습관", "존 F. 케네디", "스트레스 해소", "척추 건강", "휴식"]
+heroImage: "/images/blog/kennedy_rocking_chair.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus der John F. Kennedy Presidential Library, Archiven von Dr. Janet Travell & Forschung der kognitiven Neurowissenschaften und Orthopädie"

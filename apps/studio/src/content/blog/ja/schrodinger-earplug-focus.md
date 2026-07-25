@@ -1,11 +1,11 @@
 ---
 title: "세상의 볼륨을 제로로: 노벨상 수상자 슈뢰딩거의 소음 제어 집중법"
 description: "물리학의 거장 에르윈 슈뢰딩거의 귀마개 청각 차단 습관을 소개합니다. 감각 필터링의 인지 소모를 없애 뇌 효율을 극대화하는 3단계 무음 몰입 실천법."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-25"
+updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["세상의 볼륨을 제로","Routine"]
-heroImage: "/images/blog/schrodinger_earplug_focus.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/schrodinger_earplug_focus.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Schrodinger Earplug Focus 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

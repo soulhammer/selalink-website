@@ -1,11 +1,11 @@
 ---
 title: "Ein Erobererkönig, der Edikte in Felsen meißelte und reflektierte? Ashoka des Großen tägliche ethische Reflexionsroutine"
 description: "Ashoka der Große des Maurya-Reiches in Indien. Entdecken Sie seine externe Verankerungsroutine und seinen 3-Schritte-Aktionsplan, bei dem er die Schrecken des Kalinga-Krieges bereute und Säulenedikte errichtete, um jeden Tag über sein ethisches Selbst zu reflektieren."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-04"
+updatedDate: "2026-06-04"
 category: "BuildSelf"
-tags: ["Ein Erober","Routine"]
-heroImage: "/images/blog/ashoka_edict_inscribed_reflection.png"
+tags: ["위인 습관", "Routine"]
+heroImage: "/images/blog/ashoka_edict_inscribed_reflection.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus den Edikten von Ashoka (Edicts of Ashoka) & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

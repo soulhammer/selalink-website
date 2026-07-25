@@ -1,11 +1,11 @@
 ---
 title: "執筆が行き詰まったらタイプライターを変える？アイザック・アシモフのマルチタスク切り替えルーティン"
 description: "500冊以上の著書を残したSFの巨匠アイザック・アシモフのマルチタスク切り替えルーティン。単一の没頭による疲労を克服し、斬新性効果を得る3ステップの秘訣を探ります。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-26"
+updatedDate: "2026-05-26"
 category: "BuildSelf"
-tags: ["執筆が行き詰まったら","Routine"]
-heroImage: "/images/blog/asimov_project_switching.png"
+tags: ["위인 습관", "아이작 아시모프", "집중력", "다중작업", "창의성", "생산성"]
+heroImage: "/images/blog/asimov_project_switching.webp"
 app: "buildself"
 formatVersion: 4
 authority: "アイザック・アシモフ自伝『I, Asimov: A Memoir』考証＆認知神経科学（Cognitive Neuroscience）研究"

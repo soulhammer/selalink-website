@@ -1,11 +1,11 @@
 ---
 title: "La dictée simultanée de Jules César : L'art de la commutation de tâches hautement focalisée et de l'extension de la mémoire de travail"
 description: "Découvrez comment Jules César dictait simultanément plusieurs lettres et ordres militaires a plusieurs scribes, a cheval ou en char. Explorez la neuroscience de l'extension de la mémoire de travail et de la flexibilité cognitive préfrontale."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-14"
+updatedDate: "2026-01-14"
 category: "BuildSelf"
-tags: ["La dictée ","Routine"]
-heroImage: "/images/blog/julius_caesar_multi_dictation.png"
+tags: ["위인 습관", "율리우스 카이사르", "시간 관리", "작업 기억", "생산성"]
+heroImage: "/images/blog/julius_caesar_multi_dictation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue des *Vies parallèles* de Plutarque, de l'*Histoire naturelle* de Pline l'Ancien & de la Recherche en Neurosciences Cognitives"

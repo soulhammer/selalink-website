@@ -1,11 +1,11 @@
 ---
 title: "Pemblokiran Lingkungan untuk Fokus: Rutinitas Isolasi Hotel Maya Angelou"
 description: "Penyair dan aktivis legendaris Maya Angelou menulis secara eksklusif di kamar hotel kosong tanpa stimulasi untuk memaksimalkan konsentrasi. Pelajari prinsip neurosains tentang kontrol stimulasi lingkungan."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-21"
+updatedDate: "2026-03-21"
 category: "BuildSelf"
-tags: ["Pemblokira","Routine"]
-heroImage: "/images/blog/angelou_hotel_isolation.png"
+tags: ["위인 습관", "마야 안젤루", "환경통제", "집중", "몰입"]
+heroImage: "/images/blog/angelou_hotel_isolation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Catatan Autobiografi Maya Angelou, *Daily Rituals* karya Mason Currey & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

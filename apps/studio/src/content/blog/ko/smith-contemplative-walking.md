@@ -1,11 +1,11 @@
 ---
 title: "잠 가운을 입고 15마일을 걸은 학자: 애덤 스미스의 사색적 산책 습관"
 description: "아이디어를 머릿속으로 조립하기 위해 완전히 몰입한 채 장거리 산책을 즐겼던 애덤 스미스. 디지털 자극을 차단하고 걷는 행위가 디폴트 모드 네트워크를 활성화하여 창의성과 집중력을 극대화하는 신경과학적 원리를 해부합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-02"
+updatedDate: "2026-06-02"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/smith_contemplative_walking.png"
+tags: ["생산성", "사색", "창의성"]
+heroImage: "/images/blog/smith_contemplative_walking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Smith Contemplative Walking 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

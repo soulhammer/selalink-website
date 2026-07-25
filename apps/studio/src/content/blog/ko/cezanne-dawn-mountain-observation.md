@@ -1,11 +1,11 @@
 ---
 title: "빛의 기하학을 감각하다: 폴 세잔의 아침 자연광 관찰과 SCN 각성 루틴"
 description: "매일 새벽 6시 생트빅투아르 산을 향해 걸으며 빛과 구도의 변화를 예리하게 지각했던 현대 미술의 아버지 폴 세잔. 아침 야외 자연광 노출이 시교차상핵(SCN)을 자극하고 시각 피질의 인지 민감도를 끌어올리는 신경과학적 원리를 밝힙니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-06"
+updatedDate: "2026-04-06"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/cezanne_dawn_mountain_observation.png"
+tags: ["사색", "휴식", "창의성"]
+heroImage: "/images/blog/cezanne_dawn_mountain_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "알렉스 댄체프 평전 『폴 세잔 평전(Cézanne: A Life)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

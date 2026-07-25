@@ -1,11 +1,11 @@
 ---
 title: "指尖的直觉与6点革新：路易·布莱叶的本质简化与组块化习惯"
 description: "探索路易·布莱叶如何将复杂的12点军用夜间文字简化为仅靠指尖一节即可感知的6点盲文，引发盲人知识获取革命，并揭示符合触觉信息接收极限的组块化（Chunking）与本质简化的神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-04"
+updatedDate: "2026-05-04"
 category: "BuildSelf"
-tags: ["指尖的直觉与6点革新","Routine"]
-heroImage: "/images/blog/braille_tactile_simplification.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/braille_tactile_simplification.webp"
 app: "buildself"
 formatVersion: 4
 authority: "C·迈克尔·梅洛传记《路易·布莱叶传（Louis Braille: A Touch of Genius）》考证与认知神经科学（Cognitive Neuroscience）研究"

@@ -1,11 +1,11 @@
 ---
 title: "The Nobel Laureate's Superfast Learning Method: Richard Feynman's Teaching Habit and Metacognitive Mastery"
 description: "Discover how Nobel laureate Richard Feynman taught complex quantum mechanics so that a 10-year-old child could understand it. Explore the cognitive neuroscience of metacognition, active retrieval, and the 4-step Feynman Technique."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-11"
+updatedDate: "2026-02-11"
 category: "BuildSelf"
-tags: ["Great Habits","feynman","Routine","Stamina"]
-heroImage: "/images/blog/feynman_explanation_technique.png"
+tags: ["위인 습관", "리처드 파인만", "공부법", "메타인지", "자기계발"]
+heroImage: "/images/blog/feynman_explanation_technique.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Richard Feynman's Autobiography *Surely You're Joking, Mr. Feynman!*, Caltech Lecture Archives & Cognitive Neuroscience Research"

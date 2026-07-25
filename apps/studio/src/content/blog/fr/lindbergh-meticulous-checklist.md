@@ -1,11 +1,11 @@
 ---
 title: "Réduire à zéro les erreurs cognitives humaines : La routine de checklist de Charles Lindbergh et la protection de la mémoire de travail"
 description: "Découvrez comment le héros de l'aviation Charles Lindbergh a accompli le premier vol transatlantique en solitaire en s'appuyant sur des checklists. Explorez la protection de la mémoire de travail préfrontale, la prévention des erreurs d'omission et un guide en 3 étapes."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-25"
+updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["Réduire à ","Routine"]
-heroImage: "/images/blog/lindbergh_meticulous_checklist.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/lindbergh_meticulous_checklist.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de l'autobiographie d'Charles Lindbergh *The Spirit of St. Louis* (1953), des archives de l'aviation & de la Recherche en Neurosciences Cognitives et Ergonomie"

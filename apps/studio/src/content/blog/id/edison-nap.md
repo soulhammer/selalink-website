@@ -1,11 +1,11 @@
 ---
 title: "Genius yang Tidur Siang Memegang Bola Baja: Teknik Tidur Siang Hipnagogia Thomas Edison & Rutinitas Kreativitas Setengah Tidur"
 description: "Temukan rutinitas tidur siang bola baja legendaris Thomas Edison untuk mengatasi hambatan kreatif. Pelajari neurosains kognitif tentang hipnagogia (tahap tidur N1) dan penangkapan ide secara instan."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-02"
+updatedDate: "2026-04-02"
 category: "BuildSelf"
-tags: ["Genius yan","Routine"]
-heroImage: "/images/blog/edison_nap.png"
+tags: ["위인 습관", "토마스 에디슨", "창의성", "낮잠", "영감"]
+heroImage: "/images/blog/edison_nap.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Biografi Paul Israel *Edison: A Life of Invention*, Arsip Taman Nasional Bersejarah Thomas Edison & Penelitian Neurosains Kognitif"

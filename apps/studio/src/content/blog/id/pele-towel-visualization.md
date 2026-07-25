@@ -1,11 +1,11 @@
 ---
 title: "라커룸 소음을 이기는 15분? 축구 황제 펠레의 수건 시각화"
 description: "축구 황제 펠레의 긴장 극복과 경기력 극대화 비결. 경기 전 15분 동안 얼굴을 수건으로 덮고 누워 플레이를 그렸던 시각화 루틴의 뇌과학적 진실을 파헤칩니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-30"
+updatedDate: "2026-01-30"
 category: "BuildSelf"
-tags: ["라커룸 소음을 이기","Routine"]
-heroImage: "/images/blog/pele_towel_visualization.png"
+tags: ["위인 습관", "펠레", "이미지트레이닝", "시각화", "마인드컨트롤"]
+heroImage: "/images/blog/pele_towel_visualization.webp"
 app: "buildself"
 formatVersion: 4
 authority: "축구 황제 펠레 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

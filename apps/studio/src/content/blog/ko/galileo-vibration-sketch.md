@@ -1,11 +1,11 @@
 ---
 title: "갈릴레오의 흔들림 스케치: 공간 인지력을 자극해 복잡한 구조를 단순화하는 법과 시공간 스케치북 루틴"
 description: "현대 과학의 아버지 갈릴레오 갈릴레이가 흔들리는 진자와 등불을 관찰하며 기하학적 스케치로 복잡한 물리학 공식의 직관을 형성한 비결을 알아봅니다. 시공간 스케치북 자극과 이중 부호화 이론의 뇌과학적 원리를 탐구합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-01"
+updatedDate: "2026-02-01"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/galileo_vibration_sketch.png"
+tags: ["시각화", "스케치", "물리학", "근세"]
+heroImage: "/images/blog/galileo_vibration_sketch.webp"
 app: "buildself"
 formatVersion: 4
 authority: "갈릴레오 갈릴레이 저작집 『새로운 두 과학(Two New Sciences)』 및 『일 사지아토레(Il Saggiatore)』, 피사 대학교 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

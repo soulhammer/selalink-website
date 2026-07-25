@@ -1,11 +1,11 @@
 ---
 title: "Détox numérique dans la tour de Bollingen : La méthode de récupération de l'inconscient de Carl Jung et la réinitialisation cognitive DMN"
 description: "Découvrez comment le pionnier de la psychologie analytique Carl Jung réinitialisait son cerveau en fendant du bois dans una tour isolée sans électricité. Explorez la neuroscience de l'activation du Réseau du Mode par Défaut (DMN) et una routine de détox numérique en 3 étapes."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-21"
+updatedDate: "2026-01-21"
 category: "BuildSelf"
-tags: ["Détox numé","Routine"]
-heroImage: "/images/blog/jung_bollingen_detox.png"
+tags: ["위인 습관", "칼 융", "휴식", "사색", "디지털디톡스"]
+heroImage: "/images/blog/jung_bollingen_detox.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de l'autobiographie de Carl Jung *Ma vie : Souvenirs, rêves et pensées*, des archives de la tour de Bollingen & de la Recherche en Psychologie Analytique et Neurosciences Cognitives"

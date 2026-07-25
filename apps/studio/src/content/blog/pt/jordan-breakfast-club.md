@@ -1,11 +1,11 @@
 ---
 title: "Configuração Mental Inabalável às 6h: O Clube do Café da Manhã de Michael Jordan e o Efeito Vencedor"
 description: "Descubra como a lenda do basquete Michael Jordan superou limites físicos e mentais com sua rotina das 6h 'Breakfast Club'. Explore a neurociência do Efeito Vencedor, picos de dopamina e testosterona, e um guia prático de 3 passos."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-16"
+updatedDate: "2026-01-16"
 category: "BuildSelf"
-tags: ["Configuraç","Routine"]
-heroImage: "/images/blog/jordan_breakfast_club.png"
+tags: ["위인 습관", "마이클조던", "아침루틴", "의지력", "멘탈셋업"]
+heroImage: "/images/blog/jordan_breakfast_club.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica da Autobiografia de Michael Jordan *Driven from Within*, Biografias e Pesquisa em Neurociência Cognitiva e Fisiologia do Exercício"

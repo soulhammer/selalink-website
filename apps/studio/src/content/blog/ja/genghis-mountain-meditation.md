@@ -1,11 +1,11 @@
 ---
 title: "乱世を突破する大きな絵：チンギス・ハンの山頂視覚化ルーティンと周辺視野瞑想法"
 description: "大帝国を建設した征服者チンギス・ハン。重大な戦争と決定を前に、一人聖なる山に登り心ノイズを消し去った彼の「山頂視覚化（Visual Meditation）」の認知心理学的原理と注意回復理論、3段階実践法を紹介します。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-21"
+updatedDate: "2026-04-21"
 category: "BuildSelf"
-tags: ["乱世を突破する大きな","Routine"]
-heroImage: "/images/blog/genghis_mountain_meditation.png"
+tags: ["위인 습관", "칭기즈칸", "시각화", "명상", "대자연휴식"]
+heroImage: "/images/blog/genghis_mountain_meditation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ジャック・ウェザーフォード『チンギス・ハン、現代世界を破る（Genghis Khan and the Making of the Modern World）』および『元朝秘史（The Secret History of the Mongols）』考証＆認知神経科学（Cognitive Neuroscience）研究"

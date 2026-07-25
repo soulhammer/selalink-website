@@ -1,11 +1,11 @@
 ---
 title: "매일 오전 4시간 동안 가족도 접근을 금지한 소설가? 토마스 만의 환경 통제 몰입법"
 description: "독일의 노벨 문학상 수상 작가 토마스 만은 매일 아침 9시부터 1시까지 외부 자극과 완전히 단절된 채 집필했습니다. 전두엽의 인지 에너지 고갈을 방지하는 환경 통제 원리와 현대적 무자극 몰입법을 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-24"
+updatedDate: "2026-01-24"
 category: "BuildSelf"
-tags: ["Great Habits","mann","Routine","Stamina"]
-heroImage: "/images/blog/mann_strict_schedule.png"
+tags: ["매일 오전 4시간 ","Routine"]
+heroImage: "/images/blog/mann_strict_schedule.webp"
 app: "buildself"
 formatVersion: 4
 authority: "토마스 만 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

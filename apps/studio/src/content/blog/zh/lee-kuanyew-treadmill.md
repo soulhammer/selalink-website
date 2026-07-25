@@ -1,11 +1,11 @@
 ---
 title: "排解立国沉压的汗水：李光耀的运动后冥想习惯与自律神经系统恒常性重塑"
 description: "深度剖析新加坡缔造者李光耀总理如何借由每日下班后30分钟跑步机冲刺与接续的20分钟呼吸冥想，重构决策算力并修复大脑。揭示自律神经系统切换、消除皮质醇与3步骤实践指南。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-05"
+updatedDate: "2026-04-05"
 category: "BuildSelf"
-tags: ["排解立国沉压的汗水：","Routine"]
-heroImage: "/images/blog/lee_kuanyew_treadmill.png"
+tags: ["위인 습관", "리콴유", "유산소운동", "호흡명상", "자율신경계"]
+heroImage: "/images/blog/lee_kuanyew_treadmill.webp"
 app: "buildself"
 formatVersion: 4
 authority: "李光耀自传《李光耀回忆录（The Singapore Story）》与新加坡国家档案馆考证及认知神经科学（Cognitive Neuroscience）与运动生理学（Exercise Physiology）研究"

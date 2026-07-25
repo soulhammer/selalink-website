@@ -1,11 +1,11 @@
 ---
 title: "床头边的写字板：查理曼的大脑睡眠记忆巩固设计习惯"
 description: "探索西欧奠基人查理曼大帝为了学习书写而在床头放置蜡板的终身学习习惯，揭示在慢波睡眠（Slow-wave Sleep）期间最大化长期记忆转化与强化海马体（Hippocampus）回路的认知神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-20"
+updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: ["床头边的写字板：查理","Routine"]
-heroImage: "/images/blog/charlemagne_lifelong_learning.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/charlemagne_lifelong_learning.webp"
 app: "buildself"
 formatVersion: 4
 authority: "艾因哈德传记《查理大帝传（Vita Karoli Magni）》考证与认知神经科学（Cognitive Neuroscience）研究"

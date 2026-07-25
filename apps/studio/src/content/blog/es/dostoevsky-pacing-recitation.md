@@ -1,11 +1,11 @@
 ---
 title: "La Voz que Resuena en la Habitación: La Rutina de Recitación en Marcha y Dictado de Fiódor Dostoyevski"
 description: "Descubra cómo Fiódor Dostoyevski, autor de 'Crimen y castigo', recorría su habitación interpretando diálogos antes de dictarlos. Explore la neurociencia cognitiva del estímulo de la corteza motora, las áreas de Broca y Wernicke, y las neuronas espejo."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-25"
+updatedDate: "2026-05-25"
 category: "BuildSelf"
-tags: ["La Voz que","Routine"]
-heroImage: "/images/blog/dostoevsky_pacing_recitation.png"
+tags: ["위인 습관", "표도르 도스토옙스키", "창의성", "기록", "공부"]
+heroImage: "/images/blog/dostoevsky_pacing_recitation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de las Memorias de Anna Dostoyévskaya *Memorias (Reminiscences)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"

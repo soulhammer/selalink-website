@@ -1,11 +1,11 @@
 ---
 title: "朗声大석诵读典籍的总统：林肯的前额叶激活阅读习惯与生产效应（Production Effect）"
 description: "深度剖析美国第16任总统亚伯拉罕·林肯如何借由视听双通道同步唤醒拉满记忆力。揭示朗读刺激布罗卡区（Broca's Area）、生成生产效应（Production Effect）与双重表象（Dual Representation）的神经科学原理与5分钟实践指南。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-26"
+updatedDate: "2026-04-26"
 category: "BuildSelf"
-tags: ["朗声大석诵读典籍的总","Routine"]
-heroImage: "/images/blog/lincoln_reading_aloud.png"
+tags: ["위인 습관", "링컨", "아침루틴", "독서", "낭독"]
+heroImage: "/images/blog/lincoln_reading_aloud.webp"
 app: "buildself"
 formatVersion: 4
 authority: "戴维·赫伯特·唐纳德《林肯传（Lincoln）》与威廉·赫恩登回忆录史料考证及认知神经科学（Cognitive Neuroscience）与语言心理学（Psycholinguistics）研究"

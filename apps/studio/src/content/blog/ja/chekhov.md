@@ -1,11 +1,11 @@
 ---
 title: "襟の毛玉と瞳の震え：アントン・チェーホフの微細観察と選択的注意力"
 description: "近代短編小説の巨匠アントン・チェーホフが待合室やカフェで通行人の微細なディテールを手帳に精密に記録した観察ルーティン。微細選択的注意力（Micro Selective Attention）が認知解像度を高め大脳皮質の覚醒を誘導する神経科学的原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-12"
+updatedDate: "2026-01-12"
 category: "BuildSelf"
-tags: ["襟の毛玉と瞳の震え：","Routine"]
-heroImage: "/images/blog/chekhov.png"
+tags: ["위인 습관", "안톤 체호프", "기록", "메모"]
+heroImage: "/images/blog/chekhov.webp"
 app: "buildself"
 formatVersion: 4
 authority: "E・H・カー伝記『Anton Chekhov: A Critical Study』考証＆認知神経科学（Cognitive Neuroscience）研究"

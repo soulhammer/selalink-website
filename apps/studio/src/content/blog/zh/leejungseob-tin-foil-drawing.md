@@ -1,11 +1,11 @@
 ---
 title: "跨越匮乏的深度沉浸：李仲燮的银纸画素描习惯与体感皮层激活指南"
 description: "深度剖析韩国野兽派画擘李仲燮如何在极度贫困战乱中借由香烟盒银纸刻画（银纸画）坚守艺术真谛。揭示金属箔雕刻触觉刺激激活体感皮层、多感官反馈诱发正念的神经科学原理与3步骤指南。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-14"
+updatedDate: "2026-03-14"
 category: "BuildSelf"
-tags: ["跨越匮乏的深度沉浸：","Routine"]
-heroImage: "/images/blog/leejungseob_tin_foil_drawing.png"
+tags: ["위인 습관", "이중섭", "은지화 드로잉", "몰입 루틴", "촉각 자극", "마인드풀니스"]
+heroImage: "/images/blog/leejungseob_tin_foil_drawing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "李仲燮传记与国立现代美术馆（MMCA）档案史料考证及认知神经科学（Cognitive Neuroscience）与艺术治疗学（Art Therapy）研究"

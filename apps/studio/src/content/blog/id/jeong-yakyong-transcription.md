@@ -1,11 +1,11 @@
 ---
 title: "Pendorong di Balik 500 Jilid Karya di Pengasingan: Rutinitas Transkripsi Selektif, Penulisan Surat, dan Penyandian Kognitif Dasan Jeong Yak-yong"
 description: "Pelajari bagaimana cendekiawan Silhak terbesar Joseon, Dasan Jeong Yak-yong, menulis lebih dari 500 jilid selama 18 tahun pengasingannya melalui 'Choseo' (transkripsi selektif) dan surat kepada putra-putranya. Temukan neurosains penyandian kognitif graphomotor dan integrasi metakognitif."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-01"
+updatedDate: "2026-02-01"
 category: "BuildSelf"
-tags: ["Pendorong ","Routine"]
-heroImage: "/images/blog/jeong_yakyong_transcription.png"
+tags: ["위인 습관", "정약용", "초서독서", "메타인지", "지식구조화"]
+heroImage: "/images/blog/jeong_yakyong_transcription.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Kumpulan Karya Dasan Jeong Yak-yong *Yeoyudang Jeonseo*, Autobiografi *Saam Yeonbo* & Penelitian Neurosains Kognitif serta Metakognisi"

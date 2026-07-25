@@ -1,11 +1,11 @@
 ---
 title: "Le secret pour surmonter le stress de la recherche sur le radium : La routine de vélo du soir et d'induction du BDNF de Marie Curie"
 description: "Découvrez comment Marie Curie, première femme à recevoir le prix Nobel et seule personne honorée dans deux domaines scientifiques, a protégé sa santé cérébrale face au stress des recherches sur le radium. Explorez la neuroscience cognitive de la sécrétion de BDNF."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-28"
+updatedDate: "2026-02-28"
 category: "BuildSelf"
-tags: ["Le secret ","Routine"]
-heroImage: "/images/blog/curie_cycling.png"
+tags: ["위인 습관", "마리 퀴리", "자전거", "휴식", "스트레스"]
+heroImage: "/images/blog/curie_cycling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de la biographie d'Ève Curie *Madame Curie* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

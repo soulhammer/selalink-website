@@ -15,23 +15,28 @@ faqs:
   - question: "Tondre le double pelage de mon Husky l'aidera-t-il à avoir moins chaud ?"
     answer: "Absolument pas. Le pelage double sert d'isolant contre la chaleur et les UV. Le tondre détruit sa régulation thermique, augmentant le risque de coup de chaleur et de brûlures. Seul le brossage est recommandé."
 ---
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+
+Le Husky Sibérien est célèbre pour son allure de loup et son passé de chien de traîneau. Doté d'une endurance inépuisable et d'un fort instinct de meute, c'est un compagnon actif et indépendant. 🐕
+
+Cependant, son origine polaire le rend sensible à la chaleur et à l'humidité, avec un risque élevé de coup de chaleur en été. De plus, s'il ne se dépense pas assez, il exprime sa frustration par des hurlements ou des destructions dans la maison.
+
+Aujourd'hui, PetSelf décode les vocalisations du Husky et présente une routine en 3 étapes pour son double pelage et son activité.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+      Preuves Vétérinaires et Comportementales
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+      Ce contenu est basé sur <strong>Guide de la Siberian Husky Club of America et protocoles d'activité pour chiens de travail de l'IAABC</strong>.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+    🐾 Husky Sibérien Profil principal
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Espérance de vie</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 15 ans</span></div>
@@ -42,7 +47,7 @@ Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d
 
 ## 1. Langage corporel du Husky : Hurlements d'ennui et pose de patte
 
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+Le Husky conserve des habitudes de meute et s'exprime activement. Les signaux clés incluent les hurlements et la pose de patte. Le hurlement exprime l'ennui et le besoin de se dépenser. Poser sa patte sur vous en vous regardant est une demande directe. Redirigez son énergie avec des jouets ou de l'éducation.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -76,7 +81,7 @@ Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Matin : Ajustement du harnais en Y et contrôle de la traction</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+    Ils ont un fort instinct de traction. Ajustez un harnais en Y pour éviter la pression sur la trachée et contrôlez l'allure.
   </p>
 </div>
 
@@ -86,7 +91,7 @@ Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Après-midi : Climatisation, tapis rafraîchissants et brossage intensif</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+    Sensibles à la chaleur, gardez l'intérieur frais. Utilisez une carde et un râteau pour sous-poil pour brosser leur pelage dense et libérer la chaleur.
   </p>
 </div>
 
@@ -96,7 +101,7 @@ Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Soir : Promenade active de 1 heure et jouets à mâcher durables</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+    Assurez au moins 1 h de promenade active. Pour éviter les hurlements nocturnes, donnez-lui un bâton de bois de caféier à mâcher.
   </p>
 </div>
 
@@ -105,7 +110,7 @@ Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+      Le simple fait d'observer les signaux d'apaisement de votre animal peut prévenir des problèmes de comportement majeurs et des maladies liées au stress. Bien que le traitement vétérinaire soit important, fournir un environnement sûr (rampes, espaces verticaux, sources d'eau multiples) est le bouclier le plus solide pour soutenir son bonheur tout au long de sa vie.
     </p>
   </div>
 </div>
@@ -123,7 +128,7 @@ Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+      Le Husky est un chien de travail à l'endurance immense. Intégrez du footing ou de la randonnée. À la maison, proposez des puzzles et des bois à mâcher durs pour fatiguer les muscles de la mâchoire.
     </p>
   </details>
 
@@ -133,7 +138,7 @@ Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+      Absolument pas. Le pelage double sert d'isolant contre la chaleur et les UV. Le tondre détruit sa régulation thermique, augmentant le risque de coup de chaleur et de brûlures. Seul le brossage est recommandé.
     </p>
   </details>
 </div>

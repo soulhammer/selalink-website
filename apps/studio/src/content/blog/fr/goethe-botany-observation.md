@@ -1,11 +1,11 @@
 ---
 title: "Le géant de la littérature qui collectionnait des graines dans son jardin : La routine matinale d'observation et de restauration de l'attention de Goethe"
 description: "Découvrez comment Johann Wolfgang von Goethe puisait son inspiration en observant les plantes a la loupe chaque matin. Explorez la théorie de restauration de l'attention (ART) et sa routine de marche botanique matinale."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-24"
+updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: ["Le géant d","Routine"]
-heroImage: "/images/blog/goethe_botany_observation.png"
+tags: ["위인 습관", "괴테", "아침루틴", "산책", "주의력회복"]
+heroImage: "/images/blog/goethe_botany_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de *Poésie et Vérité (Dichtung und Wahrheit)* et *La Métamorphose des plantes* de Johann Wolfgang von Goethe, des archives du Musée de Weimar & de la Recherche en Neurosciences Cognitives"

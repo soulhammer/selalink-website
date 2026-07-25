@@ -1,11 +1,11 @@
 ---
 title: "Le carnet de voyage d'Érasme : Capturer les étincelles d'inspiration en déplacement"
 description: "Découvrez comment l'érudit de la Renaissance Érasme a rédigé « Éloge de la folie » en voyageant à travers l'Europe avec un carnet de poche. Explorez la neuroscience des ondes alpha, du flux visuel et de la créativité liée au mouvement."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-11"
+updatedDate: "2026-06-11"
 category: "BuildSelf"
-tags: ["Le carnet ","Routine"]
-heroImage: "/images/blog/erasmus_notebook_travel.png"
+tags: ["메모", "이동식학습", "인문주의", "르네상스"]
+heroImage: "/images/blog/erasmus_notebook_travel.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue des *Epistolae* de Didier Érasme, de la biographie de Johan Huizinga *Érasme* & de la Recherche en Neurosciences Cognitives"

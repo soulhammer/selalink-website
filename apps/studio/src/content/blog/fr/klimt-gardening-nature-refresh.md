@@ -1,11 +1,11 @@
 ---
 title: "Le peintre au sarrau bleu qui observait les roses du matin : La routine de promenade au jardin et la Fascination Douce de Gustav Klimt"
 description: "Découvrez comment le maître du style doré Gustav Klimt régénérait son attention visuelle en arpentant les jardins du lac Attersee en Autriche. Explorez la Théorie de la Restauration de l'Attention (ART), la réinitialisation préfrontale, les fractales naturelles et un guide en 3 étapes."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-14"
+updatedDate: "2026-07-14"
 category: "BuildSelf"
-tags: ["Le peintre","Routine"]
-heroImage: "/images/blog/klimt_gardening_nature_refresh.png"
+tags: ["위인 습관", "Routine"]
+heroImage: "/images/blog/klimt_gardening_nature_refresh.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue des biographies de Gustav Klimt, des archives d'Attersee & de la Recherche en Neurosciences Cognitives et Psychologie Environnementale"

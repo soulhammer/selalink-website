@@ -1,11 +1,11 @@
 ---
 title: "60粒咖啡豆的精密：贝多芬的晨间咖啡仪式与正念"
 description: "探索跨越时代的伟大作曲家路德维希·凡·贝多芬每天清晨精准数出60粒咖啡豆冲泡咖啡的独特习惯，并揭示微细感官控制如何稳定预设模式网络（DMN）并开启大脑专注开关的神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-14"
+updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: ["60粒咖啡豆的精密：","Routine"]
-heroImage: "/images/blog/beethoven_coffee_ritual.png"
+tags: ["위인 습관", "베토벤", "아침루틴", "커피", "마인드풀니스"]
+heroImage: "/images/blog/beethoven_coffee_ritual.webp"
 app: "buildself"
 formatVersion: 4
 authority: "安东·辛德勒传记《贝多芬传（Biography of Ludwig van Beethoven）》考证与认知神经科学（Cognitive Neuroscience）研究"

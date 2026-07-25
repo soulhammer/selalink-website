@@ -1,11 +1,11 @@
 ---
 title: "Labirin yang Digambar di Mata Pikiran: Rutinitas Visualisasi Memori Kerja Visuospatial ala Borges"
 description: "Pelajari bagaimana maestro sastra Argentina Jorge Luis Borges merancang struktur teks 3D dan labirin di dalam pikirannya setelah kehilangan penglihatannya, lalu mendiktekan karyanya secara lisan. Temukan mekanisme neurosains dari memaksimalkan memori kerja visuospasial dan memicu plastisitas lintas modal."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-21"
+updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: ["Labirin ya","Routine"]
-heroImage: "/images/blog/borges_mental_dictation.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/borges_mental_dictation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Biografi Edwin Williamson *Borges: A Life* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

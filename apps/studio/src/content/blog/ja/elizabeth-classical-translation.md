@@ -1,11 +1,11 @@
 ---
 title: "エリザベス1世の「古典翻訳」：統治者の論理的脳を鍛え上げた朝の習慣"
 description: "毎日朝ラテン語の古典を英語に翻訳し、強靭な理性と論理力を養ったエリザベス1世女王。高次元の認知能力を活性化する翻訳ルーティンの科学を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-09"
+updatedDate: "2026-01-09"
 category: "BuildSelf"
-tags: ["エリザベス1世の「古","Routine"]
-heroImage: "/images/blog/elizabeth_classical_translation.png"
+tags: ["위인 습관", "엘리자베스 1세", "두뇌 훈련", "번역 습관", "아침 루틴"]
+heroImage: "/images/blog/elizabeth_classical_translation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "エリザベス1世翻訳著作集『Elizabeth I: Translations（Janel Mueller & Joshua Scodel）』および歴史評伝考証＆認知神経科学（Cognitive Neuroscience）研究"

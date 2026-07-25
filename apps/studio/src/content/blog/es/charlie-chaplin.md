@@ -1,11 +1,11 @@
 ---
 title: "La Mirada de Espejo que Replica la Zancada Ajena: La Rutina de Imitación Física y Análisis Humano de Charlie Chaplin"
 description: "Descubra cómo la leyenda del cine mudo Charlie Chaplin observaba e imitaba los pasos y movimientos físicos de desconocidos en las calles, y explore los principios neurocientíficos de la activación de las neuronas espejo premotoras para expandir el esquema corporal y maximizar la empatía."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-01"
+updatedDate: "2026-03-01"
 category: "BuildSelf"
-tags: ["La Mirada ","Routine"]
-heroImage: "/images/blog/charlie_chaplin.png"
+tags: ["위인 습관", "찰리 채플린", "창의성", "사색"]
+heroImage: "/images/blog/charlie_chaplin.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la Autobiografía de Charlie Chaplin *Mi autobiografía (My Autobiography)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"

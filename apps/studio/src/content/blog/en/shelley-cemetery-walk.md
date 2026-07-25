@@ -1,11 +1,11 @@
 ---
 title: "영감을 찾으려 공동묘지를 산책하다: 메리 셸리의 '엄숙한 고독 사색' 루틴"
 description: "소설 《프랑켄슈타인》을 집필한 메리 셸리가 왜 공동묘지나 역사적 공간을 산책했는지 알아봅니다. 엄숙함과 경외감이 자아내는 뇌의 성찰과 깊은 창의성 과학을 설명합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-07"
+updatedDate: "2026-07-07"
 category: "BuildSelf"
-tags: ["Great Habits","shelley","Routine","Stamina"]
-heroImage: "/images/blog/shelley_cemetery_walk.png"
+tags: ["위인 습관", "사색"]
+heroImage: "/images/blog/shelley_cemetery_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Shelley Cemetery Walk 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

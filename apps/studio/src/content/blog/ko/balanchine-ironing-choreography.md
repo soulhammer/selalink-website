@@ -1,11 +1,11 @@
 ---
 title: "무의식의 댄스: 조지 발란신의 단순 가사 노동 안무법"
 description: "안무 영감이 막힐 때 다림질이나 빨래 등 단순 반복 가사를 수행하며 아이디어를 구상했던 안무가 조지 발란신. 단순 신체 활동이 전두엽의 검열을 끄고 디폴트 모드 네트워크를 깨우는 신경 메커니즘을 밝힙니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-01"
+updatedDate: "2026-04-01"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/balanchine_ironing_choreography.png"
+tags: ["위인 습관", "조지 발란신", "창의성", "사색", "이완", "루틴"]
+heroImage: "/images/blog/balanchine_ironing_choreography.webp"
 app: "buildself"
 formatVersion: 4
 authority: "조지 발란신 평전 『By George Balanchine』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

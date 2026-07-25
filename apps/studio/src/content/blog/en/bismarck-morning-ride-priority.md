@@ -1,11 +1,11 @@
 ---
 title: "Overcoming Decision Overload with Morning Rides: Bismarck's Aerobic Arousal and TOP 3 Priority Routine"
 description: "Discover how Otto von Bismarck, the 'Iron Chancellor' who unified Germany, combined morning horse riding with a TOP 3 priority extraction method, and explore the neuroscientific principles of raising brain blood flow through aerobic exercise to prevent decision fatigue."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-16"
+updatedDate: "2026-03-16"
 category: "BuildSelf"
-tags: ["Great Habits","bismarck","Routine","Stamina"]
-heroImage: "/images/blog/bismarck_morning_ride_priority.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/bismarck_morning_ride_priority.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Otto von Bismarck's Autobiography *Gedanken und Erinnerungen* & A.J.P. Taylor's Biography *Bismarck: The Man and the Statesman* & Cognitive Neuroscience Research"

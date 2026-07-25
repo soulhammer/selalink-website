@@ -1,11 +1,11 @@
 ---
 title: "心の目描いた迷宮：ボルヘスの時空間作業記憶視覚化ルーティン"
 description: "アルゼンチンの大文豪ホルヘ・ルイス・ボルヘスが失明後、頭の中に立体的なテキストおよび迷宮構造を設計し、口述で作品を完成させたルーティン。時空間作業記憶を極大化し、交叉可塑性を呼び醒ます神経科学的メカニズムを解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-21"
+updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: ["心の目描いた迷宮：ボ","Routine"]
-heroImage: "/images/blog/borges_mental_dictation.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/borges_mental_dictation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "エドウィン・ウィリアムソン伝記『Borges: A Life』考証＆認知神経科学（Cognitive Neuroscience）研究"

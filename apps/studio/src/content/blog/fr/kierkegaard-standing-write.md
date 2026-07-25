@@ -1,11 +1,11 @@
 ---
 title: "Écrire debout avec son chapeau juste après la marche : La routine de capture instantanée et d'échauffement cognitif de Søren Kierkegaard"
 description: "Découvrez comment le philosophe existentialiste Søren Kierkegaard préservait ses intuitions en écrivant debout à des pupitres hauts dès son retour de marche, sans retirer son chapeau ni son manteau. Explorez la neuroscience de l'échauffement cognitif et de la mémoire de travail."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-08"
+updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: ["Écrire deb","Routine"]
-heroImage: "/images/blog/kierkegaard_standing_write.png"
+tags: ["위인 습관", "쇠렌 키르케고르", "기록", "스탠딩데스크", "영감"]
+heroImage: "/images/blog/kierkegaard_standing_write.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue des *Journaux de Søren Kierkegaard*, de la biographie de Joakim Garff & de la Recherche en Neurosciences Cognitives"

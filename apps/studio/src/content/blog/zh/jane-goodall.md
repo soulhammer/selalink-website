@@ -1,11 +1,11 @@
 ---
 title: "伫立于黑猩猩身旁岩石上的终身观察与记录：珍妮·古道尔的沉浸习惯与选择性注意力引导指南"
 description: "探索动物行为学家珍妮·古道尔如何在坦桑尼亚贡贝丛林中通过无偏见观察黑猩猩推演重大科学突破。揭示感官联合皮层激活、选择性注意力与3步骤观察沉浸习惯的神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-09"
+updatedDate: "2026-05-09"
 category: "BuildSelf"
-tags: ["伫立于黑猩猩身旁岩石","Routine"]
-heroImage: "/images/blog/jane_goodall.png"
+tags: ["위인 습관", "제인 구달", "사색", "성찰"]
+heroImage: "/images/blog/jane_goodall.webp"
 app: "buildself"
 formatVersion: 4
 authority: "珍妮·古道尔自传《希望的理由（Reason for Hope）》与贡贝溪研究中心（Gombe Stream Research Centre）档案考证及认知神经科学（Cognitive Neuroscience）与动物行为学（Ethology）研究"

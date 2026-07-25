@@ -1,11 +1,11 @@
 ---
 title: "Le sommet de l'immersion : L'habitude de croquis géométriques sur sable d'Archimède"
 description: "Archimède dessinait continuellement des figures sur le sable ou le sol pour visualiser de complexes inspirations scientifiques. Découvrez comment les croquis visuels manuels réduisent la surcharge cognitive de la mémoire de travail et induisent un état d'hyperfocalisation."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["Le sommet ","Routine"]
-heroImage: "/images/blog/archimedes_sand_geometry.png"
+tags: ["몰입", "사색", "창의성"]
+heroImage: "/images/blog/archimedes_sand_geometry.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de *La Vie de Marcellus* de Plutarque & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

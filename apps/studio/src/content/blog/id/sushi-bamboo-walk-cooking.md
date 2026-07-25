@@ -1,11 +1,11 @@
 ---
 title: "유배지의 절망을 이겨낸 대문호? 소동파의 아침 대나무 산책 & 요리 이완 루틴"
 description: "북송의 천재 문인 소동파가 거듭된 유배지 시련 속에서도 아침 대나무 숲 산책과 요리로 마음을 비우고 세기의 낙천주의를 완성한 회복탄력성 습관."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-24"
+updatedDate: "2026-06-24"
 category: "BuildSelf"
-tags: ["유배지의 절망을 이","Routine"]
-heroImage: "/images/blog/sushi_bamboo_walk_cooking.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/sushi_bamboo_walk_cooking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "소동파 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

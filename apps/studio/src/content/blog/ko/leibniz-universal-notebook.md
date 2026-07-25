@@ -1,11 +1,11 @@
 ---
 title: "만능 지식의 단권화 수첩: 라이프니츠의 커먼플레이스 북 필기 습관과 시냅스 장기 강화(LTP)"
 description: "미적분을 발견한 천재 학자이자, 모든 지식과 영감을 한 권의 범주화된 수첩에 단권화했던 라이프니츠. 정보를 맥락화하여 장기 강화(LTP)를 유도하고 의미론적 연결망(Semantic Network)을 구축하여 아이디어의 교차 융합을 촉진하는 신경인지적 원리와 3단계 실천 가이드를 밝힙니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-27"
+updatedDate: "2026-02-27"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/leibniz_universal_notebook.png"
+tags: ["기록", "창의성", "사색"]
+heroImage: "/images/blog/leibniz_universal_notebook.webp"
 app: "buildself"
 formatVersion: 4
 authority: "고트프리트 빌헬름 라이프니츠 평전 및 라이프니츠 아카이브(Leibniz-Archiv) 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 인지심리학(Cognitive Psychology) 연구"

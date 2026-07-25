@@ -15,16 +15,17 @@ faqs:
   - question: "Mengapa telinga terkulai Beagle mudah terinfeksi?"
     answer: "Telinga terkulai menghalangi udara masuk ke saluran telinga, menciptakan lingkungan lembap yang ideal bagi ragi. Aerasi mingguan sangat penting."
 ---
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+
+Dengan telinga terkulai yang lucu dan ekor ceria, Beagle adalah anjing pemburu aroma historis. Meskipun ramah, mereka memiliki rasa ingin tahu yang tinggi dan dorongan kuat untuk melacak bau. Tanpa penyaluran yang tepat, mereka dapat mengalami kecemasan perpisahan, melolong atau merusak furnitur. Telinga terkulai mereka rentan terhadap infeksi telinga. Hari ini, PetSelf memperkenalkan rutinitas 3 langkah.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Bukti Dokter Hewan & Perilaku
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Konten ini didasarkan pada <strong>Manual Ras Resmi AKC untuk Beagle & Protokol Nosework IAABC</strong>.
     </p>
   </div>
 </div>
@@ -42,7 +43,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
 
 ## 1. Bahasa Tubuh Beagle: Insting Melacak dan Makna Melolong
 
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+Saat fokus pada bau, Beagle menunjukkan perilaku 'melacak', mengabaikan sekitarnya. Sebaliknya, 'melolong' saat sendirian adalah tanda kecemasan perpisahan. Memahami kedua sinyal ini adalah kunci untuk menjaga mereka tetap tenang.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -76,7 +77,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pagi: Perburuan Mengendus Camilan di Dalam Ruangan</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+    Setelah sarapan, sembunyikan camilan dalam gelas kertas di sekitar rumah untuk memuaskan insting melacak dan melatih mental mereka.
   </p>
 </div>
 
@@ -86,7 +87,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Siang: Jalan kaki Melacak 40 Menit di Luar Ruangan</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+    Pastikan jalan kaki minimal 40 menit setiap hari. Biarkan mereka mengendus rumput secara bebas untuk mengurangi stres.
   </p>
 </div>
 
@@ -96,7 +97,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Malam: Aerasi Telinga Terkulai dan Pembersihan Dua Kali Seminggu</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+    Karena telinga terkulai menghalangi aliran udara, balikkan telinga mereka untuk ventilasi, dan bersihkan dengan cairan telinga dua kali seminggu.
   </p>
 </div>
 
@@ -105,7 +106,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Cukup dengan mengamati sinyal penenang hewan peliharaan Anda, Anda dapat mencegah masalah perilaku utama dan penyakit akibat stres. Meskipun perawatan medis penting, menyediakan lingkungan yang aman (tangga ramah hewan, ruang vertikal, beberapa sumber air) adalah pelindung terkuat untuk mendukung kebahagiaan seumur hidup mereka.
     </p>
   </div>
 </div>
@@ -123,7 +124,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Melolong disebabkan oleh kecemasan kesepian dan energi yang tidak tersalurkan. Meningkatkan jalan kaki dan puzzle penciuman adalah pencegahan paling efektif.
     </p>
   </details>
 
@@ -133,7 +134,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Telinga terkulai menghalangi udara masuk ke saluran telinga, menciptakan lingkungan lembap yang ideal bagi ragi. Aerasi mingguan sangat penting.
     </p>
   </details>
 </div>

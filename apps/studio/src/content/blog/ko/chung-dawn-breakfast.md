@@ -1,11 +1,11 @@
 ---
 title: "새벽을 여는 설렘: 정주영 회장의 5시 가족 조식과 도보 루틴"
 description: "현대그룹 창업주 정주영 회장이 평생 지켜온 매일 새벽 4시 기상과 아침 가족 소통. 아침 유산소 운동과 정서적 교류가 하루의 코르티솔 분비를 안정시키고 활력을 주는 신경과학적 및 생리학적 원리를 밝힙니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-12"
+updatedDate: "2026-06-12"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/chung_dawn_breakfast.png"
+tags: ["위인 습관", "정주영", "의지력", "계획", "시간 관리"]
+heroImage: "/images/blog/chung_dawn_breakfast.webp"
 app: "buildself"
 formatVersion: 4
 authority: "아산 정주영 자서전 『시련은 있어도 실패는 없다』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

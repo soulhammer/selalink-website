@@ -1,11 +1,11 @@
 ---
 title: "孕育《寂静的春天》的大海生态系统：蕾切尔·卡森的潮间带观察与柔和吸引放松法"
 description: "探索现代环保运动先驱蕾切尔·卡森在面对化工巨头外压与癌症折磨时，通过观察海岸潮间带岩石水洼恢复疲惫认知力的习惯，揭示注意力恢复理论（ART）与“柔和吸引（Soft Fascination）”的神经科学机制。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-04"
+updatedDate: "2026-07-04"
 category: "BuildSelf"
-tags: ["孕育《寂静的春天》的","Routine"]
-heroImage: "/images/blog/carson_tidepool_observation.png"
+tags: ["위인 습관", "레이첼 카슨", "자연 관찰", "주의 회복", "인도어 디톡스"]
+heroImage: "/images/blog/carson_tidepool_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "蕾切尔·卡森历史传记与自传文献考证与认知神经科学（Cognitive Neuroscience）研究"

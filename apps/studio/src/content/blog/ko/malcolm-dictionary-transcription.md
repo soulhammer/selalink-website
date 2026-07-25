@@ -1,11 +1,11 @@
 ---
 title: "사전 통째로 베껴 쓰기? 말콤 X의 두뇌 재부팅 필사 루틴"
 description: "극적인 인지적 도약을 이뤄낸 말콤 X. 감옥 안에서 사전의 첫 단어부터 마지막 단어까지 통째로 베껴 쓰며 지적 깨달음을 얻었던 그의 치열한 필사 습관과, 손글씨가 뇌 신경망에 미치는 인지적 효과를 조명합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-03"
+updatedDate: "2026-07-03"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/malcolm_dictionary_transcription.png"
+tags: ["위인 습관", "말콤 X", "필사 학습", "뇌 자극", "집중력"]
+heroImage: "/images/blog/malcolm_dictionary_transcription.webp"
 app: "buildself"
 formatVersion: 4
 authority: "말콤 X 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

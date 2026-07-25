@@ -1,11 +1,11 @@
 ---
 title: "우울증을 치료하는 가위질? 안데르센의 종이 오리기 루틴"
 description: "세계적인 동화 작가 한스 크리스티안 안데르센. 평생의 우울증과 심리적 결핍 속에서도 아름다운 상상력을 꽃피운 비결인 '종이 오리기(Paper Cutting)'의 정신의학적 치유 원리와 3단계 가이드를 제안합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/andersen_paper_cutting.png"
+tags: ["위인 습관", "안데르센", "종이오리기", "미술치료", "뇌휴식"]
+heroImage: "/images/blog/andersen_paper_cutting.webp"
 app: "buildself"
 formatVersion: 4
 authority: "덴마크 오덴세 안데르센 박물관(Hans Christian Andersen Museum) 종이 아카이브 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

@@ -1,11 +1,11 @@
 ---
 title: "O Gênio que Vestia a Mesma Roupa Todos os Dias: A Rotina de Minimalismo Decisório e Preservação de Recursos Cognitivos Pré-frontais de Steve Jobs"
 description: "Descubra como o cofundador da Apple, Steve Jobs, preservava sua energia cognitiva vestindo um uniforme diário de blusa de gola alta preta e calça jeans. Explore a neurociência da fadiga de decisão e a alocação de recursos pré-frontais."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-25"
+updatedDate: "2026-06-25"
 category: "BuildSelf"
-tags: ["O Gênio qu","Routine"]
-heroImage: "/images/blog/jobs_uniform_minimalism.png"
+tags: ["위인 습관", "스티브 잡스", "생산성", "단순화", "의사결정"]
+heroImage: "/images/blog/jobs_uniform_minimalism.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica da Biografia *Steve Jobs* (2011) de Walter Isaacson, Arquivos da Apple e Pesquisa em Psicologia Cognitiva e Neurociência Cognitiva"

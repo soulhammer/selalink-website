@@ -1,11 +1,11 @@
 ---
 title: "3D-Modelle schnitzen statt Formeln wälzen: Johannes Keplers haptische räumliche Visualisierungsroutine und Parietallappen-Stimulation"
 description: "Erfahren Sie, wie der Astronom Johannes Kepler Planetenbahnen verstand, indem er geometrische 3D-Modelle von Hand schnitzte. Entdecken Sie die Neurowissenschaften der haptischen Raumwahrnehmung, Parietallappen-Stimulation und Entlastung des Arbeitsgedächtnisses."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-24"
+updatedDate: "2026-06-24"
 category: "BuildSelf"
-tags: ["3D-Modelle","Routine"]
-heroImage: "/images/blog/kepler_geometric_modeling.png"
+tags: ["위인 습관", "학습"]
+heroImage: "/images/blog/kepler_geometric_modeling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Johannes Keplers *Mysterium Cosmographicum* (1596), Kepler-Archiven & Forschung der kognitiven Neurowissenschaften und Raumkognition"

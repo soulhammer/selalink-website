@@ -1,11 +1,11 @@
 ---
 title: "Der Meister der Druckrevolution: Gutenbergs morgendliche Präzisionsprüfung von Metalltypen und ERN-Fehlererkennungsmechanismus"
 description: "Erfahren Sie, wie Gutenberg, Erfinder der Metalltypen, Druckqualität sicherte, indem er jeden Morgen die Planheit der Typen von Hand und Auge prüfte. Entdecken Sie die Neurowissenschaften des anterioren cingulären Kortex (ACC) und der Error-Related Negativity (ERN)."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-04"
+updatedDate: "2026-06-04"
 category: "BuildSelf"
-tags: ["Der Meiste","Routine"]
-heroImage: "/images/blog/gutenberg_movable_type_inspection.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/gutenberg_movable_type_inspection.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Johannes Gutenberg-Biografien, Archiven des Gutenberg-Museums Mainz & Forschung der kognitiven Neurowissenschaften"

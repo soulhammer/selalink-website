@@ -1,11 +1,11 @@
 ---
 title: "대화로 직조한 물리학: 닐스 보어의 구술 토론과 메타인지 집필법"
 description: "양자역학의 거장 닐스 보어가 동료들과의 구술 토론과 구술 필기를 통해 복잡한 물리 논문을 완성했던 독특한 루틴. 내면의 아이디어를 외적 언어로 객관화하여 메타인지를 활성화하는 신경과학적 원리를 밝힙니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-19"
+updatedDate: "2026-01-19"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/bohr_dialogue_dictation.png"
+tags: ["학습", "창의성", "사색"]
+heroImage: "/images/blog/bohr_dialogue_dictation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "아브라함 파이스 평전 『닐스 보어 평전(Niels Bohr's Times: In Physics, Philosophy, and Polity)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

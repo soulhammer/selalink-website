@@ -1,11 +1,11 @@
 ---
 title: "Guntingan Kertas yang Menyembuhkan Depresi? Rutinitas Memotong Kertas Andersen"
 description: "Penulis dongeng ternama dunia Hans Christian Andersen. Pelajari prinsip penyembuhan psikiatris dan panduan 3 langkah dari 'Memotong Kertas' (Paper Cutting)—rahasia di balik mekarnya imajinasi yang indah di tengah depresi seumur hidup dan kekurangan psikologis."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["Guntingan ","Routine"]
-heroImage: "/images/blog/andersen_paper_cutting.png"
+tags: ["위인 습관", "안데르센", "종이오리기", "미술치료", "뇌휴식"]
+heroImage: "/images/blog/andersen_paper_cutting.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Arsip Kertas Museum Hans Christian Andersen di Odense, Denmark & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

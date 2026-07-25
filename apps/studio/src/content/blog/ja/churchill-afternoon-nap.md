@@ -1,11 +1,11 @@
 ---
 title: "一日を2回に分けて使った首相：ウィンストン・チャーチルの午後昼寝とアデノシン掃除ルーティン"
 description: "第2次世界大戦の勝利を導いたイギリスの首相ウィンストン・チャーチルが毎日午後ベッドに横たわって取った昼寝ルーティン。蓄積された疲労物質アデノシン（Adenosine）を解消し、睡眠慣性なしに大脳覚醒を復元するパワーナップ（Power Nap）の認知神経科学的原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-24"
+updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: ["一日を2回に分けて使","Routine"]
-heroImage: "/images/blog/churchill_afternoon_nap.png"
+tags: ["위인 습관", "윈스턴 처칠", "낮잠", "휴식", "에너지"]
+heroImage: "/images/blog/churchill_afternoon_nap.webp"
 app: "buildself"
 formatVersion: 4
 authority: "マーティン・ギルバート伝記『Winston S. Churchill』考証＆認知神経科学（Cognitive Neuroscience）研究"

@@ -1,11 +1,11 @@
 ---
 title: "数式代わりに立体模型を削る：ヨハネス・ケプラーの「触覚的空間視覚化」ルーティンと頭頂葉刺激"
 description: "天文学者ヨハネス・ケプラーが惑星の楕円軌道を理解するため、手で直接幾何学模型を削り作った立体視覚化習慣の脳科学的原理と頭頂葉（Parietal Lobe）刺激、認知過負荷軽減および3段階実践法を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-24"
+updatedDate: "2026-06-24"
 category: "BuildSelf"
-tags: ["数式代わりに立体模型","Routine"]
-heroImage: "/images/blog/kepler_geometric_modeling.png"
+tags: ["위인 습관", "학습"]
+heroImage: "/images/blog/kepler_geometric_modeling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ヨハネス・ケプラー著作集『宇宙の神秘（Mysterium Cosmographicum, 1596）』史料考証＆認知神経科学（Cognitive Neuroscience）および空間認知学（Spatial Cognition）研究"

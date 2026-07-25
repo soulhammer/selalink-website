@@ -1,11 +1,11 @@
 ---
 title: "Der Philosoph mit dem Tintenfass am Gehstock: Thomas Hobbes' Sofort-Notizmethode und kognitive Auslagerungsroutine"
 description: "Erfahren Sie, wie der Denker Thomas Hobbes ein Tintenfass an seinem Gehstock befestigte, um flüchtige Gedanken sofort festzuhalten. Entdecken Sie die Neurowissenschaften der Arbeitsgedächtnis-Erweiterung und kognitiven Auslagerung."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-16"
+updatedDate: "2026-03-16"
 category: "BuildSelf"
-tags: ["Der Philos","Routine"]
-heroImage: "/images/blog/hobbes_cane_inkwell.png"
+tags: ["산책 지팡이에 잉크","Routine"]
+heroImage: "/images/blog/hobbes_cane_inkwell.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus John Aubreys *Lebensbeschreibungen (Brief Lives)*, Thomas Hobbes-Archiven & Forschung der kognitiven Neurowissenschaften"

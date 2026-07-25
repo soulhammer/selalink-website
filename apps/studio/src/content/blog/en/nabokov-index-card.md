@@ -1,11 +1,11 @@
 ---
 title: "생각의 모듈화: 블라디미르 나보코프의 인덱스 카드 집필법"
 description: "소설을 조각화하여 카드로 기록하고 순서를 재배치했던 작가 블라디미르 나보코프. 인지 부하를 차단하고 창의적인 아이디어를 유연하게 결합하는 카드식 기획법의 인지과학적 가치를 조명합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["Great Habits","nabokov","Routine","Stamina"]
-heroImage: "/images/blog/nabokov_index_card.png"
+tags: ["위인 습관", "블라디미르 나보코프", "기록", "메모", "생산성", "창의성"]
+heroImage: "/images/blog/nabokov_index_card.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Nabokov Index Card 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

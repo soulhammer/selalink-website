@@ -1,11 +1,11 @@
 ---
 title: "시골 정원의 흙을 가꾸며 잡초를 뽑고 바람 소리에 침잠한 헤세의 자연 사색법과 DMN 이완 루틴"
 description: "노벨문학상 수상자이자 숲과 자연을 사랑한 평화주의 작가 헤르만 헤세. 매일 정원의 흙을 만지고 가지를 다듬으며 신경 쇠약과 깊은 불안의 정서를 다스렸던 아날로그 정원사 루틴과 뇌과학적 원리를 탐구합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-16"
+updatedDate: "2026-02-16"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/hesse.png"
+tags: ["위인 습관", "헤르만 헤세", "휴식", "성찰"]
+heroImage: "/images/blog/hesse.webp"
 app: "buildself"
 formatVersion: 4
 authority: "헤르만 헤세 에세이 『정원 일의 즐거움(Freude am Garten)』 및 서한집 고증 & 인지신경과학(Cognitive Neuroscience) 및 환경심리학(Environmental Psychology) 연구"

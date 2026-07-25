@@ -1,11 +1,11 @@
 ---
 title: "坚如磐石的精神锚点：圣女贞德的晨间沉寂习惯与杏仁核平抚指南"
 description: "探索法国救国圣女贞德如何在百年战争的惊涛骇浪与死亡阴影中维系不屈意志。揭示“晨间静默祈祷”平抚杏仁核应激、重塑神经心理稳定性与3步骤认知对齐习惯。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-12"
+updatedDate: "2026-02-12"
 category: "BuildSelf"
-tags: ["坚如磐石的精神锚点：","Routine"]
-heroImage: "/images/blog/joan_silent_reflection.png"
+tags: ["위인 습관", "잔다르크", "침묵명상", "신념정렬", "멘탈회복"]
+heroImage: "/images/blog/joan_silent_reflection.webp"
 app: "buildself"
 formatVersion: 4
 authority: "圣女贞德审判案卷史料（Procès de Condamnation et de Réhabilitation）考证及认知神经科学（Cognitive Neuroscience）研究"

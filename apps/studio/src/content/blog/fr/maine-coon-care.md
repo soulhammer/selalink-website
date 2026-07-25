@@ -15,23 +15,28 @@ faqs:
   - question: "Que se passe-t-il si je brosse de force les nœuds de mon Maine Coon ?"
     answer: "En raison de sa grande taille et de sa force, s'il associe le toilettage à la douleur et se rebelle, il sera très difficile de le manipuler. Utilisez un spray démêlant et brossez par courtes sessions."
 ---
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+
+Le Maine Coon est le « géant gentil » de l'espèce féline. Connu pour sa collerette léonine et ses oreilles plumetées, il possède un tempérament très affectueux et une attirance rare pour l'eau. 🐈
+
+Cependant, son poids important (de 8 à 12 kg) expose sa structure osseuse à de fortes contraintes. Il est également sujet à la Cardiomyopathie Hypertrophique (CMH). Surveiller son rythme respiratoire et installer des amortisseurs pour amortir les sauts est indispensable.
+
+Aujourd'hui, PetSelf décode le langage corporel du Maine Coon et présente une routine en 3 étapes pour protéger son cœur et entretenir son pelage.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+      Preuves Vétérinaires et Comportementales
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+      Ce contenu est basé sur <strong>Guide de la Maine Coon Breeders & Fanciers Association (MCBFA) et protocoles de gestion des grands félins de l'AAFP</strong>.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+    🐾 Maine Coon Profil principal
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Espérance de vie</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 15 ans</span></div>
@@ -42,7 +47,7 @@ Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d
 
 ## 1. Langage corporel du Maine Coon : Roucoulements amicaux et queue gonflée
 
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+Le Maine Coon est très sociable et aime communiquer. Les signaux clés incluent les roucoulements (trilles) et la queue gonflée. Un léger roucoulement lorsqu'il s'approche est une salutation amicale. À l'inverse, s'il a peur, sa queue se gonfle comme un hérisson. Laissez-le se calmer au calme.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -76,7 +81,7 @@ Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Matin : Mesure stricte des rations pour le poids et la CMH</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+    La CMH du Maine Coon est aggravée par l'obésité. Pesez sa nourriture quotidiennement pour contrôler l'apport calorique et surveillez l'eau.
   </p>
 </div>
 
@@ -86,7 +91,7 @@ Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Après-midi : Brossage complet avec peigne en acier et carde</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+    Les poils du cou et des aisselles s'emmêlent facilement, provoquant des dermatites. Peignez en profondeur avec un peigne en acier pour démêler.
   </p>
 </div>
 
@@ -96,7 +101,7 @@ Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Soir : Tapis amortisseurs au sol et contrôle du rythme respiratoire</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+    Son poids lourd augmente l'impact à la réception. Vérifiez les tapis amortisseurs. Surveillez la respiration au repos (moins de 30 par minute).
   </p>
 </div>
 
@@ -105,7 +110,7 @@ Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+      Le simple fait d'observer les signaux d'apaisement de votre animal peut prévenir des problèmes de comportement majeurs et des maladies liées au stress. Bien que le traitement vétérinaire soit important, fournir un environnement sûr (rampes, espaces verticaux, sources d'eau multiples) est le bouclier le plus solide pour soutenir son bonheur tout au long de sa vie.
     </p>
   </div>
 </div>
@@ -123,7 +128,7 @@ Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+      Des échographies cardiaques régulières sont indispensables. À la maison, évitez l'obésité grâce au contrôle des portions. Si sa respiration au repos dépasse 30 mouvements/min, consultez immédiatement.
     </p>
   </details>
 
@@ -133,7 +138,7 @@ Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+      En raison de sa grande taille et de sa force, s'il associe le toilettage à la douleur et se rebelle, il sera très difficile de le manipuler. Utilisez un spray démêlant et brossez par courtes sessions.
     </p>
   </details>
 </div>

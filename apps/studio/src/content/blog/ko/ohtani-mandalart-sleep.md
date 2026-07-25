@@ -1,11 +1,11 @@
 ---
 title: "목표의 시각화와 깊은 휴식: 오타니의 만다라트와 10시간 수면"
 description: "현대 야구의 역사를 새로 쓰는 오타니 쇼헤이. 그가 고교 시절 직접 짰던 81칸 만다라트 계획 기법과 신체 회복을 극대화하기 위한 하루 10시간 수면 루틴의 신경과학적 메커니즘을 밝힙니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-06"
+updatedDate: "2026-02-06"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/ohtani_mandalart_sleep.png"
+tags: ["위인 습관", "오타니 쇼헤이", "성장", "계획", "수면회복"]
+heroImage: "/images/blog/ohtani_mandalart_sleep.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Ohtani Mandalart Sleep 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

@@ -1,11 +1,11 @@
 ---
 title: "¿Boxeo antes de escribir a Sherlock Holmes? La rutina deportiva de activación cerebral y secreción de BDNF de Arthur Conan Doyle"
 description: "Descubra por qué el médico y escritor Arthur Conan Doyle practicaba deportes intensos como el boxeo y el críquet antes de escribir. Explore la neurociencia cognitiva de cómo el ejercicio libera BDNF y eleva la función ejecutiva prefrontal."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-21"
+updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: ["¿Boxeo ant","Routine"]
-heroImage: "/images/blog/doyle_sports_writing.png"
+tags: ["위인 습관", "생산성"]
+heroImage: "/images/blog/doyle_sports_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la Autobiografía de Arthur Conan Doyle *Memorias y aventuras (Memories and Adventures)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"

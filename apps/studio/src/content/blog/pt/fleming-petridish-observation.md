@@ -1,11 +1,11 @@
 ---
 title: "A Salvação da Humanidade Resgatada do Lixo: O Método de Observação do Fracasso e Rotina de Descoberta de Alexander Fleming"
 description: "Descubra como Alexander Fleming, o lendário descobridor da penicilina, transformou a história da medicina ao observar uma placa de Petri contaminada em vez de descartá-la. Explore a neurociência da fixação cognitiva e do pensamento divergente."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-08"
+updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: ["A Salvação","Routine"]
-heroImage: "/images/blog/fleming_petridish_observation.png"
+tags: ["위인 습관", "알렉산더 플레밍", "실패 성찰", "확산적 사고", "세렌디피티"]
+heroImage: "/images/blog/fleming_petridish_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica de *The Life of Sir Alexander Fleming* de André Maurois, Arquivos do Nobel e Pesquisa em Neurociência Cognitiva"

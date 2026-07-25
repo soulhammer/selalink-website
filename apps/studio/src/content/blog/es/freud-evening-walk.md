@@ -1,11 +1,11 @@
 ---
 title: "El Paseo de 3 Millas que Despertó el Inconsciente: La Rutina de Caminata Rápida Nocturna y Diario del Inconsciente de Sigmund Freud"
 description: "Descubra cómo Sigmund Freud, el padre del psicoanálisis, restauraba el equilibrio cerebral y accedía al inconsciente dando paseos rápidos de 3 millas por Viena cada noche tras intensas sesiones clínicas. Explore la neurociencia de la estimulación bilateral."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-09"
+updatedDate: "2026-07-09"
 category: "BuildSelf"
-tags: ["El Paseo d","Routine"]
-heroImage: "/images/blog/freud_evening_walk.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/freud_evening_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de *Un estudio autobiográfico* de Sigmund Freud, Archivos del Museo Sigmund Freud de Viena e Investigación en Neurociencia Cognitiva"

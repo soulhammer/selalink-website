@@ -1,11 +1,11 @@
 ---
 title: "光の幾何学を感知する：ポール・セザンヌの朝の自然光観察とSCN覚醒ルーティン"
 description: "毎日午前6時にサント・ヴィクトワール山に向かって歩き、光と構図の変化を鋭く感知した現代美術の父ポール・セザンヌ。朝の屋外自然光への露出が視交叉上核（SCN）を刺激し、視覚皮質の認知感度を引き上げる神経科学的原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-06"
+updatedDate: "2026-04-06"
 category: "BuildSelf"
-tags: ["光の幾何学を感知する","Routine"]
-heroImage: "/images/blog/cezanne_dawn_mountain_observation.png"
+tags: ["사색", "휴식", "창의성"]
+heroImage: "/images/blog/cezanne_dawn_mountain_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "アレックス・ダンチェフ伝記『Cézanne: A Life』考証＆認知神経科学（Cognitive Neuroscience）研究"

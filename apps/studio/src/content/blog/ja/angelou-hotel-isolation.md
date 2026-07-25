@@ -1,11 +1,11 @@
 ---
 title: "没頭のための環境遮断：マヤ・アンジェロウのホテル隔離習慣"
 description: "伝説的な詩人であり活動家のマヤ・アンジェロウは、集中力を極限まで高めるため刺激のない空のホテルの一室でのみ執筆しました。環境刺激統制の脳科学的原理を探ります。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-21"
+updatedDate: "2026-03-21"
 category: "BuildSelf"
-tags: ["没頭のための環境遮断","Routine"]
-heroImage: "/images/blog/angelou_hotel_isolation.png"
+tags: ["위인 습관", "마야 안젤루", "환경통제", "집중", "몰입"]
+heroImage: "/images/blog/angelou_hotel_isolation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "マヤ・アンジェロウ自伝の記録＆メイソン・カリー『Daily Rituals（デイリー・リチュアルズ）』考証＆認知神経科学（Cognitive Neuroscience）研究"

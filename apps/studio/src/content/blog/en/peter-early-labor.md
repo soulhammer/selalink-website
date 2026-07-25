@@ -1,11 +1,11 @@
 ---
 title: "손으로 익힌 지식은 망각하지 않는다: 피터 대제의 절차 기억 훈련법"
 description: "스스로 선박 목수가 되었던 개혁 군주 피터 대제의 새벽 기술 실습 습관을 알아봅니다. 뇌의 절차 기억을 자극해 기술을 영구 소장하는 3단계 행동 가이드."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-18"
+updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: ["Great Habits","peter","Routine","Stamina"]
-heroImage: "/images/blog/peter_early_labor.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/peter_early_labor.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Peter Early Labor 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

@@ -1,11 +1,11 @@
 ---
 title: "16,000個の番号：マイケル・ファラデーの精密ノート整理法と知識外在化ルーティン"
 description: "生涯16,000個を超える実験項目に番号を振って記録した物理学者マイケル・ファラデー。記録の徹底した外在化が脳の認知負荷を減らし、作業記憶と深い没頭を極大化する認知神経科学的原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-24"
+updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: ["16,000個の番号","Routine"]
-heroImage: "/images/blog/faraday_numbered_notebook.png"
+tags: ["위인 습관", "마이클 패러데이", "기록", "생산성", "논리력"]
+heroImage: "/images/blog/faraday_numbered_notebook.webp"
 app: "buildself"
 formatVersion: 4
 authority: "マイケル・ファラデー実験日誌『ファラデー・ダイアリー（Michael Faraday's Diary, ed. Thomas Martin / Frank A.J.L. James）』考証＆認知神経科学（Cognitive Neuroscience）研究"

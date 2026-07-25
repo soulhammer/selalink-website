@@ -4,8 +4,8 @@ description: "Johann Sebastian Bach verinnerlichte sein Leben lang mathematische
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["Ein Meiste","Routine"]
-heroImage: "/images/blog/bach_pattern_transcription.png"
+tags: ["위인 습관", "바흐", "필사", "손글씨", "학습법"]
+heroImage: "/images/blog/bach_pattern_transcription.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Johann Nikolaus Forkels *Über Johann Sebastian Bachs Leben, Kunst und Kunstwerke (1802)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

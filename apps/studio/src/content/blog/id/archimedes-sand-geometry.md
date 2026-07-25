@@ -1,11 +1,11 @@
 ---
 title: "Puncak Fokus: Kebiasaan Sketsa Geometri Pasir Archimedes"
 description: "Archimedes secara terus-menerus menggambar bentuk-bentuk geometri di atas pasir atau tanah untuk memvisualisasikan inspirasi ilmiah yang kompleks. Pelajari bagaimana sketsa visual dengan tangan mengurangi beban kognitif pada memori kerja dan menginduksi kondisi hiperfokus."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["Puncak Fok","Routine"]
-heroImage: "/images/blog/archimedes_sand_geometry.png"
+tags: ["몰입", "사색", "창의성"]
+heroImage: "/images/blog/archimedes_sand_geometry.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari *Life of Marcellus* karya Plutarch & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

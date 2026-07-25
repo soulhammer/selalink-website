@@ -4,7 +4,7 @@ description: "微生物学の父ファン・レーウェンフックが500倍率
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["アントニ・ファン・レ","Routine"]
+tags: ["위습관","루틴"]
 heroImage: "/images/blog/leeuwenhoek_lens_grinding.png"
 app: "buildself"
 formatVersion: 4

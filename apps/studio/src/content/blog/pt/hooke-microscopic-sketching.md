@@ -4,7 +4,7 @@ description: "Descubra como o polímata do século XVII Robert Hooke descobriu a
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["O Método d","Routine"]
+tags: ["위습관","루틴"]
 heroImage: "/images/blog/hooke_microscopic_sketching.png"
 app: "buildself"
 formatVersion: 4

@@ -1,11 +1,11 @@
 ---
 title: "El Cuaderno Único para Todo el Conocimiento: La Rutina de Libro de Lugares Comunes y Potenciación a Largo Plazo de Gottfried Wilhelm Leibniz"
 description: "Descubra cómo el matemático Gottfried Wilhelm Leibniz consolidó todo el conocimiento en un único cuaderno clasificado (Commonplace Book). Explore la neurociencia de las redes semánticas, la Potenciación a Largo Plazo (LTP), la síntesis de ideas entre áreas y un guía de 3 pasos."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-27"
+updatedDate: "2026-02-27"
 category: "BuildSelf"
-tags: ["El Cuadern","Routine"]
-heroImage: "/images/blog/leibniz_universal_notebook.png"
+tags: ["기록", "창의성", "사색"]
+heroImage: "/images/blog/leibniz_universal_notebook.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de las Biografías de Gottfried Wilhelm Leibniz, Archivos de Leibniz (Hannover) e Investigación en Neurociencia Cognitiva y Psicología Cognitiva"

@@ -1,11 +1,11 @@
 ---
 title: "Schritte zur Erweckung der Gehirngesundheit: John Quincy Adams' stramme Geh- und Reflexionsroutine"
 description: "Der 6. US-Präsident John Quincy Adams hielt an einem täglichen 5-Meilen-Gehmarsch und abendlicher Reflexion fest. Entdecken Sie gesunde Gehirngewohnheiten, die die BDNF-Ausschüttung anregen."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-06"
+updatedDate: "2026-04-06"
 category: "BuildSelf"
-tags: ["Schritte z","Routine"]
-heroImage: "/images/blog/adams_morning_walk.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/adams_morning_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Biografie und autobiografische Aufzeichnungen von John Quincy Adams & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

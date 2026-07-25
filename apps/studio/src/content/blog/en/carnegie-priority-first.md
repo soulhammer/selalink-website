@@ -1,11 +1,11 @@
 ---
 title: "The Tycoon Who Solved the Hardest Task First in the Morning: Andrew Carnegie's Priority Execution Routine"
 description: "Explore how steel magnate Andrew Carnegie tackled his heaviest, most daunting task first during the morning golden hours when prefrontal resources were fully charged, and uncover the cognitive neuroscience of overcoming ego depletion to maximize executive function."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["Great Habits","carnegie","Routine","Stamina"]
-heroImage: "/images/blog/carnegie_priority_first.png"
+tags: ["위인 습관", "앤드류 카네기", "우선순위", "의지력", "생산성"]
+heroImage: "/images/blog/carnegie_priority_first.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Andrew Carnegie's Autobiography *Autobiography of Andrew Carnegie* & Cognitive Neuroscience Research"

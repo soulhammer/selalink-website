@@ -1,11 +1,11 @@
 ---
 title: "새벽 4시, 눈먼 시인이 《실낙원》을 구술한 비결: 존 밀턴의 고요한 아침 명상"
 description: "실명 속에서도 대서사시를 남긴 존 밀턴의 새벽 4시 명상 루틴을 소개합니다. 시각 차단이 어떻게 작업 기억과 언어 조립 뇌 인지력을 극대화하는지 확인하세요."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-09"
+updatedDate: "2026-04-09"
 category: "BuildSelf"
-tags: ["새벽 4시, 눈먼 ","Routine"]
-heroImage: "/images/blog/milton_morning_dictation.png"
+tags: ["위인 습관", "사색"]
+heroImage: "/images/blog/milton_morning_dictation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Milton Morning Dictation 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

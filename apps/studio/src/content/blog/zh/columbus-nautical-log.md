@@ -1,11 +1,11 @@
 ---
 title: "开启大航海时代的船长：哥伦布的夜间航海日志记录与杏仁核平抑习惯"
 description: "探索越过未知大西洋的探险家哥伦布在风暴与恐惧中依然坚持每晚记录航海日志以维持高度理性镇定的习惯，揭示夜间定量日志书写如何平抑杏仁核（Amygdala）并拉动前额叶控制网络的认知神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-25"
+updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["开启大航海时代的船长","Routine"]
-heroImage: "/images/blog/columbus_nautical_log.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/columbus_nautical_log.webp"
 app: "buildself"
 formatVersion: 4
 authority: "巴托洛梅·德拉斯·卡萨斯考证《哥伦布航海日记（The Diario of Christopher Columbus）》与认知神经科学（Cognitive Neuroscience）研究"

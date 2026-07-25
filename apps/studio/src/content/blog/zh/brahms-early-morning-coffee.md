@@ -1,11 +1,11 @@
 ---
 title: "清晨5点咖啡与晨间散步的融合：约翰内斯·勃拉姆斯的强效晨间唤醒习惯"
 description: "探索德国古典音乐巨匠约翰内斯·勃拉姆斯每天清晨5点亲自冲泡黑咖啡并在林间小路健步散步的习惯，揭示咖啡因与有氧运动相结合时促发BDNF分泌及增强工作记忆的神经科学机制。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-13"
+updatedDate: "2026-06-13"
 category: "BuildSelf"
-tags: ["清晨5点咖啡与晨间散","Routine"]
-heroImage: "/images/blog/brahms_early_morning_coffee.png"
+tags: ["새벽 5시 커피와 ","Routine"]
+heroImage: "/images/blog/brahms_early_morning_coffee.webp"
 app: "buildself"
 formatVersion: 4
 authority: "马克斯·卡尔贝克传记《约翰内斯·勃拉姆斯传（Johannes Brahms）》考证与认知神经科学（Cognitive Neuroscience）研究"

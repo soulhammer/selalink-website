@@ -1,11 +1,11 @@
 ---
 title: "알렉산드로스 대왕의 '베개 밑 일리아스': 거대한 도전을 지탱한 밤의 비전 독서"
 description: "매일 밤 단검과 일리아스를 베개 밑에 두고 읽으며 전장에서 용기를 잃지 않았던 알렉산드로스 대왕. 잠재의식을 자극하는 비전 독서의 힘을 살펴봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-23"
+updatedDate: "2026-01-23"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/alexander_pillow_iliad.png"
+tags: ["위인 습관", "알렉산드로스", "동기부여", "독서 습관", "잠재의식"]
+heroImage: "/images/blog/alexander_pillow_iliad.webp"
 app: "buildself"
 formatVersion: 4
 authority: "플루타르코스 『영웅전(Life of Alexander)』 역사적 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

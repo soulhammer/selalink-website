@@ -1,11 +1,11 @@
 ---
 title: "침묵의 봄을 싹틔운 바다 생태계: 레이첼 카슨의 조간대 관찰과 부드러운 매료 이완법"
 description: "현대 환경 운동의 선구자 레이첼 카슨. 화학 대기업의 외압과 암 투병 속에서도 해안가 바위 웅덩이를 관찰하며 지친 인지력을 복원했던 루틴. 주의 회복 이론(ART)과 '부드러운 매료(Soft Fascination)'의 신경과학적 메커니즘을 밝힙니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-04"
+updatedDate: "2026-07-04"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/carson_tidepool_observation.png"
+tags: ["위인 습관", "레이첼 카슨", "자연 관찰", "주의 회복", "인도어 디톡스"]
+heroImage: "/images/blog/carson_tidepool_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "레이첼 카슨 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

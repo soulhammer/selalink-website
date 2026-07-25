@@ -1,11 +1,11 @@
 ---
 title: "Caçando a Inspiração Fugaz: A Rotina de Captura Imadiata com Caderno de Bolso de Bruce Lee"
 description: "Descubra como o marcialista e ícone do cinema do século XX Bruce Lee carregava um caderno de bolso para capturar percepções filosóficas e conceitos de artes marciais em tempo real, e explore os mecanismos cognitivos de estimulação do SRA."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-06"
+updatedDate: "2026-04-06"
 category: "BuildSelf"
-tags: ["Caçando a ","Routine"]
-heroImage: "/images/blog/brucelee_pocket_notebook.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/brucelee_pocket_notebook.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica da Biografia de John Little *Bruce Lee: Artista da Vida (Bruce Lee: Artist of Life)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)"

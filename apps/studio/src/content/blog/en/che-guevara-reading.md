@@ -1,11 +1,11 @@
 ---
 title: "Why Read in the Jungle Trenches? Che Guevara's Deep Reading Routine and Cognitive Restructuring"
 description: "Discover how Cuban Revolution figure Che Guevara honed his intellect daily reading heavy volumes amidst guerrilla warfare, and explore the cognitive neuroscience of how Deep Reading activates prefrontal cognitive control networks to buffer existential stress."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-09"
+updatedDate: "2026-02-09"
 category: "BuildSelf"
-tags: ["Great Habits","che","Routine","Stamina"]
-heroImage: "/images/blog/che_guevara_reading.png"
+tags: ["위인 습관", "체게바라", "매일독서", "인지재구조화", "신념단련"]
+heroImage: "/images/blog/che_guevara_reading.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Jon Lee Anderson's Biography *Che Guevara: A Revolutionary Life* & Cognitive Neuroscience Research"

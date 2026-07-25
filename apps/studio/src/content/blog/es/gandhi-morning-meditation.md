@@ -1,11 +1,11 @@
 ---
 title: "Girar la Rueca en el Silencio del Amanecer: La Rutina de Meditación Matutina y Meditación Activa de Mahatma Gandhi"
 description: "Descubra cómo Mahatma Gandhi, el gran líder de la paz en la India, disciplinaba su mente al despertar a las 4 AM para meditar y girar la rueca Charkha. Explore la neurociencia de la meditación activa y la serotonina."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-23"
+updatedDate: "2026-03-23"
 category: "BuildSelf"
-tags: ["Girar la R","Routine"]
-heroImage: "/images/blog/gandhi_morning_meditation.png"
+tags: ["위인 습관", "마하트마 간디", "아침 루틴", "명상", "스트레스 완화"]
+heroImage: "/images/blog/gandhi_morning_meditation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la *Autobiografía: La historia de mis experimentos con la verdad* de Mahatma Gandhi, Archivos del Ashram e Investigación en Neurociencia Cognitiva"

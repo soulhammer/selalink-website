@@ -1,11 +1,11 @@
 ---
 title: "Parachever la théorie de l'évolution par la marche : La routine du « Sandwalk » et l'incubation cognitive de Charles Darwin"
 description: "Découvrez comment le naturaliste Charles Darwin arpentait son chemin de gravier du « Sandwalk », poussant des pierres du pied pour compter ses tours tout en structurant sa théorie de l'évolution. Explorez la neuroscience cognitive de l'activation du DMN et de l'incubation cognitive."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-14"
+updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: ["Parachever","Routine"]
-heroImage: "/images/blog/darwin_sandwalk.png"
+tags: ["위인 습관", "찰스 다윈", "걷기", "사색", "아이디어"]
+heroImage: "/images/blog/darwin_sandwalk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de l'autobiographie de Charles Darwin *L'Autobiographie de Charles Darwin (The Autobiography of Charles Darwin)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

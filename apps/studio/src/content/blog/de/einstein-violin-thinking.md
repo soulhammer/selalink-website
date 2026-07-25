@@ -1,11 +1,11 @@
 ---
 title: "Das Genie, das in gedanklichen Sackgassen Violine spielte: Albert Einsteins Reset-Routine und kognitive Wechselmethode"
 description: "Erfahren Sie, wie Albert Einstein, der die Physik revolutionierte, Geige spielte, um sein Gehirn bei Denkblockaden zurückzusetzen, und entdecken Sie einen praktischen 3-Schritte-Plan zur kognitiven Wechselmethode."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-05"
+updatedDate: "2026-03-05"
 category: "BuildSelf"
-tags: ["Das Genie,","Routine"]
-heroImage: "/images/blog/einstein_violin_thinking.png"
+tags: ["위인 습관", "알베르트 아인슈타인", "창의성", "휴식", "아이디어"]
+heroImage: "/images/blog/einstein_violin_thinking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Albert Einsteins Essaysammlung *Aus meinen späten Jahren (Out of My Later Years)*, Walter Isaacsons Biografie *Einstein: Seine Leben und sein Universum* & Forschung der kognitiven Neurowissenschaften"

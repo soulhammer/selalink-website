@@ -1,19 +1,19 @@
 ---
-title: "시간을 완전히 지배하는 법? 루이 14세의 타임 블로킹 루틴"
-description: "베르사유 궁전을 지배한 프랑스의 태양왕 루이 14세. 인생을 통제하기 위해 매일 24시간을 분 단위로 쪼개어 지켰던 그의 '타임 블로킹'의 뇌과학적 원리와 현대적 3단계 시간 관리법을 소개합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+title: "시간을 완전히 지배하는 법: 루이 14세의 타임 블로킹 루틴과 의사결정 피로 차단"
+description: "베르사유 궁전을 지배한 프랑스의 태양왕 루이 14세. 인생을 통제하기 위해 매일 24시간을 분 단위로 쪼개어 지켰던 그의 '타임 블로킹'의 뇌과학적 원리와 실행 의도(Implementation Intentions) 자극을 통한 3단계 시간 관리법을 소개합니다."
+pubDate: "2026-04-11"
+updatedDate: "2026-04-11"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/louis_time_blocking.png"
+tags: ["위인 습관", "루이14세", "타임블로킹", "시간관리", "집중력"]
+heroImage: "/images/blog/louis_time_blocking.webp"
 app: "buildself"
 formatVersion: 4
-authority: "루이 14세 회고록 『왕세자를 위한 지침(Mémoires pour l'instruction du dauphin)』 및 베르사유 아카이브 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 인지심리학(Cognitive Psychology) 연구"
+authority: "루이 14세 회고록 『왕세자를 위한 지침(Mémoires pour l'instruction du dauphin, 1670)』 및 생시몽 백작 회고록 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 인지심리학(Cognitive Psychology) 연구"
 steps:
   - name: "1단계: 시간대별 단일 과업 배정 및 타임 블로킹(Time Blocking) 구축"
     text: "하루를 시작하기 전 수행해야 할 핵심 과업들을 시간대별 블록(예: 09:00~11:00 코딩 딥 워크)으로 명확히 구분하여 계획에 지정합니다."
   - name: "2단계: 일정 간 10~15분 완충 시간(Buffer Time) 및 인지적 여백 확보"
-    text: "시간 블록과 블록 사이에 10~15분 내외의 완충 시간을 의도적으로 배치하여, 예상치 못한 전화나 휴식 요구로 인한 일정 차질을 방지합니다."
+    text: "시간 블로킹과 블록 사이에 10~15분 내외의 완충 시간을 의도적으로 배치하여, 예상치 못한 전화나 휴식 요구로 인한 일정 차질을 방지합니다."
   - name: "3단계: 자극 차단 및 단일 블록 1과업 초몰입(Single-Tasking) 완결"
     text: "지정된 시간 블록이 시작되면 알림을 차단하고, 멀티태스킹을 철저히 배제한 채 약속된 단 하나의 과업에만 전전두엽 주의력을 집약합니다."
 faqs:
@@ -24,13 +24,13 @@ faqs:
 
 ---
 
-"일하는 시간과 규칙을 정해두면, 인생을 완벽히 지배할 수 있다." 👑
+"일하는 시간과 규칙을 정해두면, 인생을 완벽히 지배할 수 있다. 왕의 시계만 보면 그가 어디에서 무엇을 하는지 분 단위로 알 수 있어야 한다." 👑
 
-프랑스 절대왕정의 최고 전성기를 장식하고, '태양왕'이라는 칭호와 함께 화려한 베르사유 궁전을 지어 권력의 정점에 섰던 군주, 루이 14세. 72년이라는 역사상 가장 긴 재위 기간 동안 끊임없는 영토 분쟁, 신하들의 치열한 파벌 싸움, 복잡한 국가 대사를 처리하면서도 그가 흔들림 없는 왕권과 지배력을 구축할 수 있었던 비결은 무엇일까요?
+프랑스 절대왕정의 최고 전성기를 장식하고 '태양왕(Le Roi-Soleil)'이라는 칭호와 함께 화려한 베르사유 궁전을 지어 권력의 정점에 섰던 군주 루이 14세(Louis XIV, 1638–1715). 1643년부터 1715년까지 72년이라는 인류 역사상 가장 긴 재위 기간 동안 끊임없는 영토 전쟁, 신하들의 파벌 싸움, 복잡한 국정을 처리하면서도 그가 흔들림 없는 왕권과 주도권을 유지할 수 있었던 비결은 다름 아닌 '시간 블로킹(Time Blocking)' 습관에 있었습니다.
 
-루이 14세는 기상부터 정무, 식사, 예배, 놀이, 취침에 이르는 하루의 모든 일과를 분 단위로 쪼개어 고정된 시간표대로 엄격하게 이행했습니다. 신하들은 "왕의 시계만 보면 지금 그가 궁전 어디에서 무엇을 하는지 분 단위로 알 수 있다"고 증언할 정도였습니다. 철저하게 시간을 블록화하고 스스로를 통제함으로써 의사결정의 피로를 극적으로 덜어낸 이 '타임 블로킹' 루틴은, 그가 거대한 제국을 흔들림 없이 수호하게 만든 권력의 초석이었습니다.
+루이 14세는 기상(Lever)부터 정무 검토, 대사 접견, 식사, 예배, 산책, 취침(Coucher)에 이르는 하루의 모든 일과를 분 단위로 쪼개어 고정된 시간표대로 엄격하게 이행했습니다. 생시몽 백작(Duc de Saint-Simon)은 자신의 회고록에 "달력과 시계만 있으면 삼백 리 밖에서도 왕이 지금 무엇을 하고 있는지 정확히 알 수 있었다"고 기록했습니다. 매 순간 '다음 과업'을 무엇으로 할지 선택하려는 무의미한 고민을 원천 차단한 이 습관은, 뇌의 전전두엽(Prefrontal Cortex) 자원을 고갈시키는 의사결정 피로(Decision Fatigue)를 막고, 사전 지정된 행동 단서로 목표 이행률을 극대화하는 실행 의도(Implementation Intentions)를 자극하여 막대한 국정 업무를 완벽히 통제하게 만든 뇌과학적 일과 관리 체계였습니다.
 
-오늘 포스트에서는 루이 14세의 '타임 블로킹' 루틴의 뇌과학적 이점과 현대인을 위해 재구성한 3단계 시간 관리법을 소개합니다.
+오늘 포스트에서는 루이 14세의 '타임 블로킹' 루틴에 숨겨진 뇌과학적 이점을 살펴보고, 현대인을 위해 재구성한 3단계 시간 관리 실천 가이드를 소개합니다.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -39,7 +39,7 @@ faqs:
       역사적 및 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>루이 14세 회고록 『왕세자를 위한 지침(Mémoires pour l'instruction du dauphin)』 및 베르사유 아카이브 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 인지심리학(Cognitive Psychology) 연구</strong>에 근거하여 louis-time-blocking 루틴을 다룹니다.
+      본 콘텐츠는 <strong>루이 14세 회고록 『왕세자를 위한 지침(Mémoires pour l'instruction du dauphin, 1670)』 및 생시몽 백작 회고록 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 인지심리학(Cognitive Psychology) 연구</strong>에 근거하여 louis-time-blocking 루틴을 다룹니다.
     </p>
   </div>
 </div>
@@ -48,11 +48,7 @@ faqs:
 
 ## 의사결정 피로(Decision Fatigue) 차단과 실행 의도(Implementation Intentions)의 뇌과학
 
-매 순간 '다음 과업'을 선택하려는 시도는 뇌의 <strong>전전두엽(Prefrontal Cortex)</strong> 자원을 고갈시켜 심각한 <strong>의사결정 피로(Decision Fatigue)</strong>를 유발합니다.
-
-하루의 행동을 특정 시각 블록에 사전 고정하는 <strong>타임 블로킹(Time Blocking)</strong>은 뇌의 <strong>실행 의도(Implementation Intentions)</strong>를 즉각 자극합니다.
-
-선택에 대한 두뇌의 쓸데없는 고민을 원천 차단함으로써 미루기 습관을 예방하고, 목표 과업에 <strong>전전두엽</strong>의 주의 자원을 집중시켜 생산성을 극대화합니다.
+매 순간 '다음 과업'을 선택하려는 시도는 뇌의 <strong>전전두엽(Prefrontal Cortex)</strong> 자원을 고갈시켜 심각한 <strong>의사결정 피로(Decision Fatigue)</strong>를 유발합니다. 하루의 행동을 특정 시각 블록에 사전 고정하는 <strong>타임 블로킹(Time Blocking)</strong>은 뇌의 <strong>실행 의도(Implementation Intentions)</strong>를 즉각 자극합니다. 선택에 대한 두뇌의 쓸데없는 고민을 원천 차단함으로써 미루기 습관을 예방하고, 목표 과업에 <strong>전전두엽</strong>의 주의 자원을 집중시켜 생산성을 극대화합니다.
 
 ---
 
@@ -76,7 +72,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">2단계: 일정 간 10~15분 완충 시간(Buffer Time) 및 인지적 여백 확보</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    시간 블록과 블록 사이에 10~15분 내외의 완충 시간을 의도적으로 배치하여, 예상치 못한 전화나 휴식 요구로 인한 일정 차질을 방지합니다.
+    시간 블로킹과 블록 사이에 10~15분 내외의 완충 시간을 의도적으로 배치하여, 예상치 못한 전화나 휴식 요구로 인한 일정 차질을 방지합니다.
   </p>
 </div>
 

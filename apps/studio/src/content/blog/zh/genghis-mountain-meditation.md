@@ -1,11 +1,11 @@
 ---
 title: "破局乱世的宏伟蓝图：成吉思汗的山顶视觉化习惯与全景视野冥想指南"
 description: "深度剖析缔造庞大帝国的征服者成吉思汗在面对重大决战时，独自登临圣山洗涤心灵杂音的“山顶视觉化（Visual Meditation）”习惯。揭示注意力恢复理论、全景视野与3步骤实践指南。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-21"
+updatedDate: "2026-04-21"
 category: "BuildSelf"
-tags: ["破局乱世的宏伟蓝图：","Routine"]
-heroImage: "/images/blog/genghis_mountain_meditation.png"
+tags: ["위인 습관", "칭기즈칸", "시각화", "명상", "대자연휴식"]
+heroImage: "/images/blog/genghis_mountain_meditation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "杰克·威瑟福德《成吉思汗与现代世界的形成（Genghis Khan and the Making of the Modern World）》与《蒙古秘史（The Secret History of the Mongols）》考证及认知神经科学（Cognitive Neuroscience）研究"

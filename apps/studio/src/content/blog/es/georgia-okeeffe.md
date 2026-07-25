@@ -1,11 +1,11 @@
 ---
 title: "Examinando Huesos de Animales del Desierto Bajo una Lupa: La Observación en Gran Primer Plano y la Atención Visual de Georgia O'Keeffe"
 description: "Descubra cómo Georgia O'Keeffe, la 'Madre del Modernismo Estadounidense', maximizó la atención visual selectiva ampliando diez veces huesos del desierto y pétalos. Explore la neurociencia de la corteza de asociación visual."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-25"
+updatedDate: "2026-02-25"
 category: "BuildSelf"
-tags: ["Examinando","Routine"]
-heroImage: "/images/blog/georgia_okeeffe.png"
+tags: ["위인 습관", "조지아 오키프", "이완", "성찰"]
+heroImage: "/images/blog/georgia_okeeffe.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la Autobiografía *Georgia O'Keeffe*, Archivos del Museo Georgia O'Keeffe (Santa Fe) e Investigación en Neurociencia Cognitiva"

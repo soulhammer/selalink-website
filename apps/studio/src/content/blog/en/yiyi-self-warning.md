@@ -1,11 +1,11 @@
 ---
 title: "흔들리지 않는 자율성의 확립: 율곡 이이의 자경문 아침 선언 루틴"
 description: "조선 최고의 현자 율곡 이이가 20세에 수립한 '자경문(경문)'을 통한 자아 단련법. 매일 아침 결의를 낭독함으로써 목표 지향성 피드백을 활성화하는 인지 훈련법을 분석합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["Great Habits","yiyi","Routine","Stamina"]
-heroImage: "/images/blog/yiyi_self_warning.png"
+tags: ["위인 습관", "율곡 이이", "자율성", "자경문", "의지력", "자기계발"]
+heroImage: "/images/blog/yiyi_self_warning.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Yiyi Self Warning 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

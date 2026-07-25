@@ -1,11 +1,11 @@
 ---
 title: "El Genio que Tocaba el Violín en un Callejón Sin Salida Mental: La Rutina de Reinicio y el Método de Cambio Cognitivo de Albert Einstein"
 description: "Descubra cómo Albert Einstein, que revolucionó la física, tocaba el violín para reiniciar su cerebro durante los bloqueos creativos, y explore una guía práctica de cambio cognitivo de 3 pasos para profesionales modernos."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-05"
+updatedDate: "2026-03-05"
 category: "BuildSelf"
-tags: ["El Genio q","Routine"]
-heroImage: "/images/blog/einstein_violin_thinking.png"
+tags: ["위인 습관", "알베르트 아인슈타인", "창의성", "휴식", "아이디어"]
+heroImage: "/images/blog/einstein_violin_thinking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la Colección de Ensayos de Albert Einstein *Mis años de madurez (Out of My Later Years)*, la Biografía de Walter Isaacson *Einstein: Su vida y su universo* e Investigación en Neurociencia Cognitiva"

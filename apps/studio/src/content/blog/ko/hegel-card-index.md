@@ -1,11 +1,11 @@
 ---
 title: "철학적 사유의 보관소: 헤겔의 변증법적 카드 색인 기록법과 인지적 스캐폴딩 루틴"
 description: "독일 관념론을 완성한 헤겔의 철학 뒤에는 수만 장의 지식 카드와 철저한 분류 상자 보관법이 있었습니다. 지식을 확장하고 작업 기억 한계를 극복하는 그의 인지적 스캐폴딩과 3단계 실천법을 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/hegel_card_index.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/hegel_card_index.webp"
 app: "buildself"
 formatVersion: 4
 authority: "게오르크 빌헬름 프리드리히 헤겔 평전 및 헤겔 저작집 『정신현상학(Phänomenologie des Geistes)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

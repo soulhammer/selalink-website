@@ -1,11 +1,11 @@
 ---
 title: "Die Kraft, sich auf das Wichtige zu konzentrieren: Dwight D. Eisenhowers Prioritäten-4-Quadranten-Entscheidungsgewohnheit"
 description: "Präsident Eisenhower trug die immense Last strategischer Entscheidungen in Krieg und Staatsführung. Wir analysieren sein Zeitmanagement-Geheimnis, mentale Energie auf das Wesentliche zu lenken, ohne sich von belanglosen Dringlichkeiten ablenken zu lassen, sowie die kognitiven Mechanismen dahinter."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["Die Kraft,","Routine"]
-heroImage: "/images/blog/eisenhower_matrix_decision.png"
+tags: ["의사결정", "생산성", "시간 관리"]
+heroImage: "/images/blog/eisenhower_matrix_decision.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Dwight D. Eisenhowers Autobiografie *At Ease: Stories I Tell to Friends* & Forschung der kognitiven Neurowissenschaften"

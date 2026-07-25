@@ -1,11 +1,11 @@
 ---
 title: "Zu Hause im Frack komponieren?: Die 'Enclothed Cognition'-Routine und der Fokus-Schalter des Vaters der Symphonie Joseph Haydn"
 description: "Erfahren Sie, warum der Komponist Joseph Haydn vor dem Komponieren Frack und Perücke trug. Lernen Sie, wie Kleidung die Produktivität durch die Wissenschaft der 'Enclothed Cognition' und verkörperten Kognition steigert."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-04"
+updatedDate: "2026-04-04"
 category: "BuildSelf"
-tags: ["Zu Hause i","Routine"]
-heroImage: "/images/blog/haydn_formal_dressing.png"
+tags: ["위인 습관", "생산성"]
+heroImage: "/images/blog/haydn_formal_dressing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Joseph Haydn-Biografien (Dies & Griesinger), Esterházy-Archiven & Forschung der kognitiven Neurowissenschaften"

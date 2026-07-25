@@ -1,11 +1,11 @@
 ---
 title: "3年ごとに人生をリセットする知的冒険：ピーター・ドラッカーの多学問的勉強習慣と脳可塑性"
 description: "経営学の巨匠ピーター・ドラッカーが生涯実践した「3年周期の新しい学問マスター」習慣。脳の可塑性（Neuroplasticity）を刺激し知的洞察力を維持した秘訣と3段階の多学問的学習法の認知神経科学的原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["3年ごとに人生をリセ","Routine"]
-heroImage: "/images/blog/drucker_three_year_study.png"
+tags: ["위인 습관", "피터 드러커", "학습", "자기계발", "시간 관리"]
+heroImage: "/images/blog/drucker_three_year_study.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ピーター・ドラッカー自伝『Adventures of a Bystander（傍観者の時代）』および『Managing Oneself（プロフェッショナルの条件）』考証＆認知神経科学（Cognitive Neuroscience）研究"

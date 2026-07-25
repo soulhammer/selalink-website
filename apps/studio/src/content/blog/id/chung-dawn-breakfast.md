@@ -1,11 +1,11 @@
 ---
 title: "Antusiasme Menjelang Fajar: Rutinitas Sarapan Keluarga Pukul 5 Pagi dan Jalan Kaki ala Chairman Ju-Yung Chung"
 description: "Pelajari bagaimana pendiri Hyundai Group Ju-Yung Chung bangun pukul 4 pagi setiap hari dan berbagi sarapan keluarga. Temukan prinsip neurosains dari aktivitas aerobik pagi dan ikatan emosional yang menstabilkan kortisol dan meningkatkan vitalitas."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-12"
+updatedDate: "2026-06-12"
 category: "BuildSelf"
-tags: ["Antusiasme","Routine"]
-heroImage: "/images/blog/chung_dawn_breakfast.png"
+tags: ["위인 습관", "정주영", "의지력", "계획", "시간 관리"]
+heroImage: "/images/blog/chung_dawn_breakfast.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Autobiografi Ju-Yung Chung *Born of this Land: My Life Story* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

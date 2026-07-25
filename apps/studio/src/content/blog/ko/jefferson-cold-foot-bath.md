@@ -1,11 +1,11 @@
 ---
 title: "토머스 제퍼슨의 냉수 족욕법: 60년 매일 아침 뇌를 깨우는 각성 루틴과 노르아드레날린 신경조절"
 description: "미국 독립선언서의 주저자 토머스 제퍼슨이 60년간 매일 아침 찬물에 발을 담가 뇌를 각성시킨 역사적 사실과 자율신경계 노르아드레날린 분비, 전전두엽 브레인 포그 제거의 뇌과학적 원리를 다룹니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-17"
+updatedDate: "2026-04-17"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/jefferson_cold_foot_bath.png"
+tags: ["위인 습관", "토머스 제퍼슨", "에너지", "아침 루틴", "각성"]
+heroImage: "/images/blog/jefferson_cold_foot_bath.webp"
 app: "buildself"
 formatVersion: 4
 authority: "토머스 제퍼슨 서한집 『토머스 제퍼슨의 서한(The Writings of Thomas Jefferson)』 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

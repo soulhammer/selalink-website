@@ -1,11 +1,11 @@
 ---
 title: "내 통제 밖의 일은 신경을 끄라 한 노예 출신 철학자: 에픽테토스의 통제 이분법 성찰 루틴과 마음 평정법"
 description: "고대 로마 스토아 철학의 거장 에픽테토스. 내 권한 안의 일과 밖의 일을 엄격히 분리해 일상의 불안을 제로로 만든 통제 이분법 저녁 기록 루틴과 3단계 실천법, 인지신경과학적 메커니즘을 깊이 있게 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-15"
+updatedDate: "2026-05-15"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/epictetus_dichotomy_control.png"
+tags: ["위인 습관", "Routine"]
+heroImage: "/images/blog/epictetus_dichotomy_control.webp"
 app: "buildself"
 formatVersion: 4
 authority: "에픽테토스 『담론(Discourses)』 및 『행동지침(Enchiridion)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

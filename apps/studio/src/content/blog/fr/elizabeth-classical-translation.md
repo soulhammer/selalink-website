@@ -1,11 +1,11 @@
 ---
 title: "La « Traduction Classique » d'Élisabeth Ire : La routine matinale qui a forgé le cerveau logique d'une souveraine"
 description: "La reine Élisabeth Ire cultivait une rationalité et une logique redoutables en traduisant chaque matin des classiques latins en anglais. Explorez la neuroscience cognitive de la traduction."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-09"
+updatedDate: "2026-01-09"
 category: "BuildSelf"
-tags: ["La « Tradu","Routine"]
-heroImage: "/images/blog/elizabeth_classical_translation.png"
+tags: ["위인 습관", "엘리자베스 1세", "두뇌 훈련", "번역 습관", "아침 루틴"]
+heroImage: "/images/blog/elizabeth_classical_translation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de l'ouvrage *Elizabeth I: Translations* (Janel Mueller & Joshua Scodel), des biographies historiques & de la Recherche en Neurosciences Cognitives"

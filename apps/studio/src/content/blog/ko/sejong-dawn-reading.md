@@ -1,11 +1,11 @@
 ---
 title: "창의적 국정의 비결? 세종대왕의 지독한 새벽 독서 루틴"
 description: "한글을 창제한 조선의 최고 성군 세종대왕. 만성 질환 속에서도 매일 새벽 3시에 일어나 고전을 읽으며 머리를 예열했던 그의 아침 인지 활성화 루틴을 소개합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-27"
+updatedDate: "2026-04-27"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/sejong_dawn_reading.png"
+tags: ["위인 습관", "세종대왕", "독서", "공부", "아침독서"]
+heroImage: "/images/blog/sejong_dawn_reading.webp"
 app: "buildself"
 formatVersion: 4
 authority: "세종대왕 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

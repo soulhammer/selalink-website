@@ -1,11 +1,11 @@
 ---
 title: "매일 아침 서서 글을 쓴 소설가? 버지니아 울프의 고도 몰입 습관"
 description: "20세기 문학 거장 버지니아 울프. 화가였던 동생의 이젤에서 영감을 받아 서서 집필함으로써 얻은 집중의 과학과 현대적인 입식 습관을 다룹니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-06"
+updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: ["매일 아침 서서 글","Routine"]
-heroImage: "/images/blog/woolf_standing_desk.png"
+tags: ["위인 습관", "버지니아 울프", "스탠딩데스크", "집중력", "생산성"]
+heroImage: "/images/blog/woolf_standing_desk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "버지니아 울프 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

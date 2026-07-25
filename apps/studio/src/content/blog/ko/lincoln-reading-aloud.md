@@ -1,11 +1,11 @@
 ---
 title: "책을 소리 내어 크게 읽은 대통령: 링컨의 전두엽 활성 독서 습관과 생산 효과(Production Effect)"
 description: "눈과 귀를 동시에 사용하여 기억력을 극대화한 에이브러햄 링컨. 낭독을 통해 브로카 영역을 자극하고 생산 효과(Production Effect) 및 이중 표상(Dual Representation)을 형성하여 정보 기억도를 향상시킨 뇌과학적 원리와 5분 낭독 실천법을 공개합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-26"
+updatedDate: "2026-04-26"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/lincoln_reading_aloud.png"
+tags: ["위인 습관", "링컨", "아침루틴", "독서", "낭독"]
+heroImage: "/images/blog/lincoln_reading_aloud.webp"
 app: "buildself"
 formatVersion: 4
 authority: "데이비드 도널드 『링컨 평전(Lincoln)』 및 윌리엄 헌돈 회고록 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 언어심리학(Psycholinguistics) 연구"

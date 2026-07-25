@@ -1,11 +1,11 @@
 ---
 title: "16,000개의 번호: 마이클 패러데이의 정밀 노트 정리법과 지식 외재화 루틴"
 description: "평생 16,000개가 넘는 실험 항목에 번호를 매겨 기록했던 물리학자 마이클 패러데이. 기록의 철저한 외재화가 뇌의 인지 부하를 줄이고 작업 기억과 깊은 몰입을 극대화하는 인지신경과학적 원리를 파헤칩니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-24"
+updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/faraday_numbered_notebook.png"
+tags: ["위인 습관", "마이클 패러데이", "기록", "생산성", "논리력"]
+heroImage: "/images/blog/faraday_numbered_notebook.webp"
 app: "buildself"
 formatVersion: 4
 authority: "마이클 패러데이 실험 일지 『패러데이 다이어리(Michael Faraday's Diary, ed. Thomas Martin / Frank A.J.L. James)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

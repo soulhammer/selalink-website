@@ -1,11 +1,11 @@
 ---
 title: "柯尼斯堡的时钟：伊曼努尔·康德每日下午3点30分散步习惯与昼夜节律精细化"
 description: "探索近代哲学泰斗伊曼努尔·康德如何通过柯尼斯堡每日下午3点30分准时散步维持极致理智清明。揭示下丘脑视交叉上核（SCN）刺激、昼夜节律对齐、鼻呼吸原理与3步骤实践指南。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-18"
+updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: ["柯尼斯堡的时钟：伊曼","Routine"]
-heroImage: "/images/blog/kant_walk.png"
+tags: ["위인 습관", "임마누엘 칸트", "산책", "규율", "휴식"]
+heroImage: "/images/blog/kant_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "曼弗雷德·库恩《康德传（Kant: A Biography）》与柯尼斯堡档案考证及脑神经科学（Brain Research）与认知神经科学（Cognitive Neuroscience）研究"

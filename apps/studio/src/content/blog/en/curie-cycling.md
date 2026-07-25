@@ -1,11 +1,11 @@
 ---
 title: "The Secret to Overcoming Radium Research Stress: Marie Curie's Evening Cycling and BDNF Induction Routine"
 description: "Discover how Marie Curie, the first woman to win a Nobel Prize and the only person honored in two scientific fields, protected her cognitive health amidst radium research stress. Explore the cognitive neuroscience of BDNF secretion and prefrontal oxygenation via evening cycling."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-28"
+updatedDate: "2026-02-28"
 category: "BuildSelf"
-tags: ["Great Habits","curie","Routine","Stamina"]
-heroImage: "/images/blog/curie_cycling.png"
+tags: ["위인 습관", "마리 퀴리", "자전거", "휴식", "스트레스"]
+heroImage: "/images/blog/curie_cycling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Ève Curie's Biography *Madame Curie* & Cognitive Neuroscience Research"

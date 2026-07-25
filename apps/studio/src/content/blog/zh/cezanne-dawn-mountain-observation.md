@@ -1,11 +1,11 @@
 ---
 title: "感知光的几何学：保罗·塞尚的晨间自然光观察与SCN唤醒习惯"
 description: "探索现代艺术之父保罗·塞尚每天清晨6点走向圣维克多山观察光线与构图演变的习惯，揭示晨间户外自然光暴露刺激视交叉上核（SCN）并提升视觉皮层感知敏锐度的神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-06"
+updatedDate: "2026-04-06"
 category: "BuildSelf"
-tags: ["感知光的几何学：保罗","Routine"]
-heroImage: "/images/blog/cezanne_dawn_mountain_observation.png"
+tags: ["사색", "휴식", "창의성"]
+heroImage: "/images/blog/cezanne_dawn_mountain_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "亚历克斯·丹切夫传记《塞尚传（Cézanne: A Life）》考证与认知神经科学（Cognitive Neuroscience）研究"

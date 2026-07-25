@@ -1,11 +1,11 @@
 ---
 title: "Le capitaine qui a inauguré l'Ère des Grandes Découvertes : La routine de journal de bord nocturne et d'apaisement de l'amygdale de Christophe Colomb"
 description: "Découvrez comment l'explorateur Christophe Colomb conservait un calme rationnel au milieu des tempêtes en tenant un journal de bord quantitatif chaque nuit. Explorez la neuroscience cognitive montrant comment la tenue d'un journal nocturne apaise l'amygdale."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-25"
+updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["Le capitai","Routine"]
-heroImage: "/images/blog/columbus_nautical_log.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/columbus_nautical_log.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue du *Journal de bord de Christophe Colomb (The Diario of Christopher Columbus)* rédigé par Bartolomé de las Casas & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

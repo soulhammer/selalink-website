@@ -1,11 +1,11 @@
 ---
 title: "매일 아침 뉴스를 가위로 자른 소설가? 조지 오웰의 지식 스키마 빌딩법"
 description: "소설가 조지 오웰은 매일 아침 여러 신문을 탐독하고 기사를 직접 가위로 잘라 스크랩북에 분류해 모았습니다. 정보를 유기적인 스키마로 구축하는 전두엽 강화 원리와 현대적 디지털 스크랩 루틴을 제안합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-13"
+updatedDate: "2026-03-13"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/orwell_newspaper_clipping.png"
+tags: ["매일 아침 뉴스를 ","Routine"]
+heroImage: "/images/blog/orwell_newspaper_clipping.webp"
 app: "buildself"
 formatVersion: 4
 authority: "조지 오웰 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

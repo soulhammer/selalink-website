@@ -1,11 +1,11 @@
 ---
 title: "在宁静黎明转动的纺车：马哈特玛·甘地的清晨冥想习惯与动态冥想法"
 description: "探索印度伟大的和平运动家马哈特玛·甘地如何在每天清晨4点起梳理心智、转动印度传统的“查尔卡（Charkha）”纺车。揭示手指尖重复律动刺激血清素分泌与动态冥想的神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-23"
+updatedDate: "2026-03-23"
 category: "BuildSelf"
-tags: ["在宁静黎明转动的纺车","Routine"]
-heroImage: "/images/blog/gandhi_morning_meditation.png"
+tags: ["위인 습관", "마하트마 간디", "아침 루틴", "명상", "스트레스 완화"]
+heroImage: "/images/blog/gandhi_morning_meditation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "马哈特玛·甘地自传《我体验真理的故事（An Autobiography: The Story of My Experiments with Truth）》与修道院档案考证及认知神经科学（Cognitive Neuroscience）研究"

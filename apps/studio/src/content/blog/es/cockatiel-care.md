@@ -16,23 +16,23 @@ faqs:
     answer: "Sí, las ninfas producen plumón en polvo para proteger sus plumas. Usa un purificador de aire y ofrece baños de pulverización 2 - 3 veces por semana."
 ---
 
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+Conocida por sus mejillas anaranjadas y su elegante cresta, la ninfa (Cockatiel) es una de las aves de compañía más queridas. Aunque forman lazos afectivos profundos y disfrutan silbando melodías, conservan instintos de presa que las hacen propensas a 'sustos nocturnos' (Night Frights). Guiados por la AAV, explicamos su lenguaje y cuidados diarios.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+      Evidencia Veterinaria y Comportamental
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+      Este contenido se basa en <strong>Asociación de Veterinarios de Aves (AAV) & Normas de Comportamiento Aviar</strong>.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+    🐾 Ninfa / Carolina (Cockatiel) Perfil principal
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Vida útil media</span><span class="font-bold text-slate-800 dark:text-slate-200">15 - 20 años</span></div>
@@ -43,7 +43,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
 
 ## 1. Lenguaje de la Ninfa: Significado de la Cresta y Cabeza Agachada
 
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+La cresta de la ninfa actúa como una antena emocional. Una cresta completamente erguida transmite alerta o curiosidad, mientras que agachar la cabeza es una petición directa de caricias.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -77,7 +77,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Mañana: Ventilación, Inspección y Pienso Fresco</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+    Destapa la jaula, renueva el pienso extruido y el agua limpia, y observa su agilidad de vuelo.
   </p>
 </div>
 
@@ -87,7 +87,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: Vuelo Libre Seguro y Juguetes de Forrajeo</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+    Permite 1 - 2 horas de vuelo supervisado en una habitación segura con juguetes de búsqueda de comida.
   </p>
 </div>
 
@@ -97,7 +97,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noche: Limpieza de Plumón y Luz Nocturna Anti-Sustos</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+    Limpia el polvo de plumas y deja una pequeña luz nocturna encendida antes de cubrir la jaula.
   </p>
 </div>
 
@@ -106,7 +106,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+      El simple hecho de observar las señales de calma de su mascota puede prevenir problemas de comportamiento graves y enfermedades causadas por el estrés. Embora o tratamento veterinário é importante, proporcionar um ambiente seguro (rampas, espaços verticales, múltiples fuentes de agua) es el escudo más fuerte para apoyar su felicidad de por vida.
     </p>
   </div>
 </div>
@@ -124,7 +124,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+      Enciende la luz de inmediato, háblale con calma y revisa sus alas por si hay plumas sangrantes. Dejar una luz de noche encendida previene nuevos sustos.
     </p>
   </details>
 
@@ -134,7 +134,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+      Sí, las ninfas producen plumón en polvo para proteger sus plumas. Usa un purificador de aire y ofrece baños de pulverización 2 - 3 veces por semana.
     </p>
   </details>
 </div>

@@ -15,16 +15,21 @@ faqs:
   - question: "Bedeutet das Zittern des Chihuahuas immer, dass ihm kalt ist?"
     answer: "Sie haben wenig Fett und frieren schnell. Sie zittern jedoch auch bei starken Emotionen wie Aufregung oder Angst, da ihr sensibles Nervensystem Muskelkontraktionen auslöst."
 ---
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+
+Chihuahuas sind die kleinsten Hunde der Welt, besitzen aber ein mutiges Wesen. Sie sind ihrem Besitzer gegenüber äußerst treu ergeben. 🐕
+
+Ihr winziger Körper bringt jedoch anatomische Schwachstellen mit sich. Erste ist die offene Molera (Fontanelle) in ihrem Schädel. Druck auf den Kopf wirkt direkt auf das Gehirn. Zudem haben sie wenig Körperfett und einen schnellen Stoffwechsel, was sie anfällig für Hypoglykämie (Unterzuckerung) macht.
+
+Heute entschlüsselt PetSelf die Körpersprache des Chihuahuas und stellt eine 3-Schritte-Routine zum Schutz des Kopfes und zur Stoffwechselpflege vor.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Veterinärmedizinische & verhaltensbedingte Nachweise
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Dieser Inhalt basiert auf <strong>Rassehandbuch des Chihuahua Club of America und AVMA-Richtlinien für den Stoffwechsel von Zwergrassen</strong>.
     </p>
   </div>
 </div>
@@ -42,7 +47,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
 
 ## 1. Signale des Chihuahuas: Emotionales Zittern und defensives Knurren
 
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+Chihuahuas sind sensibel und senden aufgrund ihrer Größe starke Signale. Zu den Reaktionen gehören Zittern und Knurren. Zittern tritt bei Kälte oder starken Emotionen wie Aufregung auf. Knurren mit Zähnefletschen ist eine Warnung aus Angst. Zwingen Sie sich nicht auf und halten Sie Abstand.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -76,7 +81,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Morgen: Molera-Schutzprüfung und Raumtemperatur-Einstellung</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+    Keinen Druck auf die Molera ausüben. Halten Sie die Raumtemperatur für den kälteempfindlichen Hund bei etwa 24-26 °C.
   </p>
 </div>
 
@@ -86,7 +91,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Nachmittag: Kurze Nasenarbeit und Geräusch-Desensibilisierung</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+    Vermeiden Sie erzwungenen Hundekontakt. Lassen Sie sie schnüffeln und üben Sie 5 Minuten Geräusch-Desensibilisierung bei Klingeltönen mit Leckerlis.
   </p>
 </div>
 
@@ -96,7 +101,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Abend: Pünktliche Fütterung zur Vermeidung von Hypoglykämie und Pfotenpflege</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+    Ihre geringe Größe macht sie anfällig für Unterzuckerungsschocks. Fütterungszeiten streng einhalten und Pfotenhaar kürzen, um Rutschen zu vermeiden.
   </p>
 </div>
 
@@ -105,7 +110,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Das einfache Beobachten der Beschwichtigungssignale Ihres Haustiers kann schwerwiegende Verhaltensprobleme und stressbedingte Krankheiten verhindern. Während eine tierärztliche Behandlung wichtig ist, ist eine sichere Umgebung (Treppen, vertikale Räume, mehrere Wasserstellen) der stärkste Schutz für ihr lebenslanges Glück.
     </p>
   </div>
 </div>
@@ -123,7 +128,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Etwa 80-90 % der Chihuahuas leben ihr Leben lang mit einer offenen Molera. Dies ist keine Krankheit, bedeutet aber, dass der Schädel offen ist. Stöße auf den Kopf müssen streng vermieden werden.
     </p>
   </details>
 
@@ -133,7 +138,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Sie haben wenig Fett und frieren schnell. Sie zittern jedoch auch bei starken Emotionen wie Aufregung oder Angst, da ihr sensibles Nervensystem Muskelkontraktionen auslöst.
     </p>
   </details>
 </div>

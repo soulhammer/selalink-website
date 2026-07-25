@@ -1,11 +1,11 @@
 ---
 title: "성현과의 대화: 마키아벨리의 격식 독서 루틴"
 description: "귀양지에서도 매일 저녁이면 관복으로 갈아입고 역사서를 읽었던 정치가 니콜로 마키아벨리. 의복의 격식이 뇌의 각성과 마인드셋을 전환하는 의복 인지 효과의 과학적 원리를 다룹니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-01"
+updatedDate: "2026-04-01"
 category: "BuildSelf"
-tags: ["Great Habits","machiavelli","Routine","Stamina"]
-heroImage: "/images/blog/machiavelli_regal_reading.png"
+tags: ["위인 습관", "니콜로 마키아벨리", "집중", "마인드셋", "독서"]
+heroImage: "/images/blog/machiavelli_regal_reading.webp"
 app: "buildself"
 formatVersion: 4
 authority: "니콜로 마키아벨리 서한 사료 『마키아벨리 서한집(Letters of Machiavelli)』 고증 & 인지신경과학(Cognitive Neuroscience) 및 인지심리학(Cognitive Psychology) 연구"

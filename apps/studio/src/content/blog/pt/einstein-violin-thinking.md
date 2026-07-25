@@ -1,11 +1,11 @@
 ---
 title: "O Gênio que Tocava Violino em um Beco Sem Saída Mental: A Rotina de Reinício e o Método de Transição Cognitiva de Albert Einstein"
 description: "Descubra como Albert Einstein, que revolucionou a física, tocava violino para reiniciar seu cérebro durante bloqueios criativos, e explore um guia prático de transição cognitiva em 3 passos."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-05"
+updatedDate: "2026-03-05"
 category: "BuildSelf"
-tags: ["O Gênio qu","Routine"]
-heroImage: "/images/blog/einstein_violin_thinking.png"
+tags: ["위인 습관", "알베르트 아인슈타인", "창의성", "휴식", "아이디어"]
+heroImage: "/images/blog/einstein_violin_thinking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica da Coleção de Ensaios de Albert Einstein *Out of My Later Years*, da Biografia de Walter Isaacson *Einstein: Sua Vida e Universo* e Pesquisa em Neurociência Cognitiva"

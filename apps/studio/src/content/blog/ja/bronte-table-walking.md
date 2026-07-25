@@ -1,11 +1,11 @@
 ---
 title: "夜の食卓を回る姉妹たち：シャーロット・ブロンテの歩行討論とミラーニューロン創作法"
 description: "『ジェーン・エア』の著者シャーロット・ブロンテが毎夜姉妹たちと居間の食卓の周りを回りながら小説の人物とプロットを討論したルーティン。歩行運動とミラーニューロン（Mirror Neurons）系が結合し、トンネル視野を防ぎ客観的洞察へと導く神経科学的原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-14"
+updatedDate: "2026-05-14"
 category: "BuildSelf"
-tags: ["夜の食卓を回る姉妹た","Routine"]
-heroImage: "/images/blog/bronte_table_walking.png"
+tags: ["위인 습관", "샬롯브론테", "보행토론", "창의성걷기", "협업창작"]
+heroImage: "/images/blog/bronte_table_walking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "エリザベス・ギャスケル伝記『The Life of Charlotte Brontë』考証＆認知神経科学（Cognitive Neuroscience）研究"

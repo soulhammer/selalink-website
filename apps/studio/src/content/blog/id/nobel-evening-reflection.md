@@ -1,11 +1,11 @@
 ---
 title: "355개 특허 발명가의 정리법? 알프레드 노벨의 저녁 일지 복기 루틴"
 description: "노벨상 창설자 알프레드 노벨. 낮 동안의 실험을 밤마다 다국어 일지로 복기하며 355개 특허를 만들어낸 그의 저녁 메타인지 루틴과 실천법."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-15"
+updatedDate: "2026-04-15"
 category: "BuildSelf"
-tags: ["355개 특허 발명","Routine"]
-heroImage: "/images/blog/nobel_evening_reflection.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/nobel_evening_reflection.webp"
 app: "buildself"
 formatVersion: 4
 authority: "알프레드 노벨 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

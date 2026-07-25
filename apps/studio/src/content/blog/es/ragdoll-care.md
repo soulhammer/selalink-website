@@ -15,23 +15,28 @@ faqs:
   - question: "¿Qué pasa si no sostengo la cadera de mi Ragdoll al cargarlo?"
     answer: "Al ser una raza grande, cargarlos solo por las axilas concentra su peso (a menudo más de 7kg) en la columna, elevando el riesgo de daño discal o luxación."
 ---
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+
+Los Ragdolls son gatos grandes y peludos famosos por relajarse por completo como un muñeco de trapo al cargarlos. Con sus ojos azules, pelaje sedoso y temperamento dócil, a menudo son llamados 'gatos ángel'. 🐈
+
+Sin embargo, al ser una raza grande que alcanza pesos de 7 a 10 kg, sus articulaciones inferiores soportan una carga pesada. Además, su postura relajada al cargarlos puede causar torsión en la columna si no se sostiene adecuadamente. Aprender técnicas correctas es esencial para su salud esquelética.
+
+Hoy, PetSelf descodifica el lenguaje corporal del Ragdoll e introduce una rutina de cuidado diario de 3 pasos para proteger sus articulaciones.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+      Evidencia Veterinaria y Comportamental
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+      Este contenido se basa en <strong>Guía de razas de la Cat Fanciers' Association (CFA) y directrices de práctica amigable con los gatos de AAFP</strong>.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+    🐾 Ragdoll Perfil principal
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Vida útil media</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 17 años</span></div>
@@ -42,7 +47,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
 
 ## 1. Señales de calma del Ragdoll: Parpadeos lentos y dedos relajados
 
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+Los Ragdolls expresan su confianza no solo al relajarse, sino también a través de gestos con los ojos y las patas. Las señales clave incluyen 'parpadeos lentos' y 'dedos relajados'. Mirarle y parpadear lentamente es un mensaje de afecto. Cuando se sienten extremadamente felices, extienden los dedos de las patas como un abanico. Acariciar bajo su barbilla durante este momento maximiza su seguridad.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -76,7 +81,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Mañana: Estiramiento ligero para la salud esquelética</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+    Al ser una raza grande, la fatiga se acumula en las articulaciones. Antes de que se muevan, estire suavemente sus patas traseras.
   </p>
 </div>
 
@@ -86,7 +91,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: Cepillado con peine de púas para evitar enredos</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+    El subpelo es muy suave y propenso a enredos. Cepille con peine de púas redondeadas para ventilar el pelo y evitar dermatitis y bolas de pelo.
   </p>
 </div>
 
@@ -96,7 +101,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noche: Técnica de sujeción segura con soporte en la cadera</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+    Levantar solo la parte superior del cuerpo tuerce la columna. Sostenga siempre el pecho con una mano y la cadera con la otra.
   </p>
 </div>
 
@@ -105,7 +110,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+      El simple hecho de observar las señales de calma de su mascota puede prevenir problemas de comportamiento graves y enfermedades causadas por el estrés. Embora o tratamento veterinário é importante, proporcionar um ambiente seguro (rampas, espaços verticales, múltiples fuentes de agua) es el escudo más fuerte para apoyar su felicidad de por vida.
     </p>
   </div>
 </div>
@@ -123,7 +128,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+      No. Es un rasgo genético único del Ragdoll, en el cual relajan sus músculos cuando se sienten seguros y confían en quien los sostiene. No es un defecto físico.
     </p>
   </details>
 
@@ -133,7 +138,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+      Al ser una raza grande, cargarlos solo por las axilas concentra su peso (a menudo más de 7kg) en la columna, elevando el riesgo de daño discal o luxación.
     </p>
   </details>
 </div>

@@ -1,11 +1,11 @@
 ---
 title: "원고지 색을 장르별로 바꾼 천재: 알렉상드르 뒤마의 색상 리셋 루틴과 시각적 프라이밍"
 description: "몬테크리스토 백작의 작가 알렉상드르 뒤마가 매일 여러 장르를 쓰면서 원고지 색상을 다르게 했던 루틴. 전환 인지 피로(Switching Cost)를 상쇄하고 작업 기억(Working Memory)을 보호하는 시각적 프라이밍(Color Priming)의 인지신경과학적 원리를 밝깁니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-07"
+updatedDate: "2026-06-07"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/dumas_color_switching.png"
+tags: ["위인 습관", "알렉상드르 뒤마", "창의성", "색상", "생산성"]
+heroImage: "/images/blog/dumas_color_switching.webp"
 app: "buildself"
 formatVersion: 4
 authority: "알렉상드르 뒤마 자서전 『회고록(Mes Mémoires)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

@@ -1,11 +1,11 @@
 ---
 title: "Das Spinnrad in der Stille des Morgengrauens: Mahatma Gandhis frühe Morgenmeditation und aktive Meditation"
 description: "Erfahren Sie, wie Mahatma Gandhi, Indiens großer Friedensstifter, seinen Geist schärfte, indem er um 4 Uhr morgens meditierte und das Charkha-Spinnrad drehte. Entdecken Sie die Neurowissenschaften der aktiven Meditation."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-23"
+updatedDate: "2026-03-23"
 category: "BuildSelf"
-tags: ["Das Spinnr","Routine"]
-heroImage: "/images/blog/gandhi_morning_meditation.png"
+tags: ["위인 습관", "마하트마 간디", "아침 루틴", "명상", "스트레스 완화"]
+heroImage: "/images/blog/gandhi_morning_meditation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Mahatma Gandhis *Mein Leben (An Autobiography: The Story of My Experiments with Truth)*, Ashram-Archiven & Forschung der kognitiven Neurowissenschaften"

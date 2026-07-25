@@ -1,11 +1,11 @@
 ---
 title: "击退职业倦怠与存在主义抑郁的原始妙方：阿尔贝·加缪的足球重置习惯"
 description: "探索法国诺贝尔文学奖得主兼哲学家阿尔贝·加缪在遇到创作瓶颈与抑郁袭来时作为守门员跃身扑球的肉体沉浸习惯，揭示前额叶下线与小脑认知切换的神经科学机制。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-21"
+updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: ["击退职业倦怠与存在主","Routine"]
-heroImage: "/images/blog/camus_football_reset.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/camus_football_reset.webp"
 app: "buildself"
 formatVersion: 4
 authority: "奥利维埃·托德传记《加缪传（Albert Camus: A Life）》考证与认知神经科学（Cognitive Neuroscience）研究"

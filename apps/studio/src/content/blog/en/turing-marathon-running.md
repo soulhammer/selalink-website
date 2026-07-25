@@ -1,11 +1,11 @@
 ---
 title: "천재의 뇌를 리셋하는 레이스? 앨런 튜링의 러닝 루틴"
 description: "에니그마 암호를 해독한 컴퓨터 과학의 아버지 앨런 튜링. 매일 16km를 뛰며 뇌 과부하를 해소하고 신경세포를 활성화했던 그의 러닝 습관과 과학적 배경을 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-02"
+updatedDate: "2026-02-02"
 category: "BuildSelf"
-tags: ["Great Habits","turing","Routine","Stamina"]
-heroImage: "/images/blog/turing_marathon_running.png"
+tags: ["위인 습관", "앨런튜링", "달리기", "러닝", "뇌피로해소"]
+heroImage: "/images/blog/turing_marathon_running.webp"
 app: "buildself"
 formatVersion: 4
 authority: "앨런 튜링 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

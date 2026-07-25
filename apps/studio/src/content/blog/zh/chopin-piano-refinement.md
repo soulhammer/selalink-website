@@ -1,11 +1,11 @@
 ---
 title: "钢琴诗人的极致完美主义：萧邦的键盘反复推敲与ACC调律习惯"
 description: "探索浪漫派音乐巨匠弗雷德里克·萧邦在琴键前将旋律反复打磨数百次锤炼传世名作的习惯，揭示通过前扣带皮层（ACC）错误检测与神经微调（Neural Fine-tuning）最大化提升作品完成度的认知神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-21"
+updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: ["钢琴诗人的极致完美主","Routine"]
-heroImage: "/images/blog/chopin_piano_refinement.png"
+tags: ["위인 습관", "쇼팽", "완벽주의", "피아노작곡", "디테일퇴고"]
+heroImage: "/images/blog/chopin_piano_refinement.webp"
 app: "buildself"
 formatVersion: 4
 authority: "乔治·桑自传《我的一生（Histoire de ma vie）》考证与认知神经科学（Cognitive Neuroscience）研究"

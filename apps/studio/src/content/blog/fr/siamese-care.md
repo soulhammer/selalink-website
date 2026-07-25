@@ -16,23 +16,23 @@ faqs:
     answer: "Cachez des friandises et placez des puzzles de nourriture avant de partir. Évitez les rituels de départ (câlins répétés) 10 minutes avant de franchir la porte."
 ---
 
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+Le chat Siamois, originaire de la famille royale de Thaïlande, est un félin élégant célèbre pour ses points de couleur contrastés. Réputé pour son tempérament très affectueux, il est particulièrement vocal. 🐱 Cependant, cet attachement extrême le rend vulnérable à l'anxiété de séparation. S'il reste seul trop longtemps, il exprime sa détresse par des miaulements incessants ou des griffades. Aujourd'hui, PetSelf présente une routine en 3 étapes pour apaiser son stress de séparation.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+      Preuves Vétérinaires et Comportementales
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+      Ce contenu est basé sur <strong>Guide officiel de la Cat Fanciers' Association (CFA) et protocoles de comportement félin de l'AAFP</strong>.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+    🐾 Siamois Profil principal
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Espérance de vie</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 15 ans</span></div>
@@ -43,7 +43,7 @@ Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d
 
 ## 1. Langage corporel du Siamois : signaux de confiance et de possessivité
 
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+Le Siamois montre son affection de manière interactive. Les signaux typiques incluent le 'clignement d'yeux lent' et le 'marquage par frottement' (bunting). Fermer les yeux lentement en vous regardant est une preuve de confiance absolue. Se frotter les joues contre vous est sa façon de partager des phéromones apaisantes et de vous marquer comme sien.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -77,7 +77,7 @@ Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Matin : Rituel de contact de 10 minutes contre l'anxiété</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+    Pour atténuer l'anxiété de séparation, passez 10 minutes à caresser votre Siamois au lit dès votre réveil en lui parlant doucement.
   </p>
 </div>
 
@@ -87,7 +87,7 @@ Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Après-midi : Jeu interactif et distribution de puzzles de nourriture</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+    Occupez-le pendant la journée avec des puzzles à friandises. À votre retour, jouez au moins 15 minutes avec un plumeau pour le dépenser.
   </p>
 </div>
 
@@ -97,7 +97,7 @@ Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Soir : Aménagement d'un nid chaud pour éviter le refroidissement</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+    Le Siamois étant un chat à poil court avec peu de graisse corporelle, il est frileux. Maintenez une température douce et offrez-lui un dôme douillet.
   </p>
 </div>
 
@@ -106,7 +106,7 @@ Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+      Le simple fait d'observer les signaux d'apaisement de votre animal peut prévenir des problèmes de comportement majeurs et des maladies liées au stress. Bien que le traitement vétérinaire soit important, fournir un environnement sûr (rampes, espaces verticaux, sources d'eau multiples) est le bouclier le plus solide pour soutenir son bonheur tout au long de sa vie.
     </p>
   </div>
 </div>
@@ -124,7 +124,7 @@ Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+      C'est un trait caractéristique de la race. Ils miaulent pour exprimer leur ennui. Évitez de répondre à ses appels nocturnes et fatiguez-le en jouant davantage en journée.
     </p>
   </details>
 
@@ -134,7 +134,7 @@ Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+      Cachez des friandises et placez des puzzles de nourriture avant de partir. Évitez les rituels de départ (câlins répétés) 10 minutes avant de franchir la porte.
     </p>
   </details>
 </div>

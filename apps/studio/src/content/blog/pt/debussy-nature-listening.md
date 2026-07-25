@@ -1,11 +1,11 @@
 ---
 title: "O Segredo de Inspiração de 'Clair de Lune': A Escuta dos Sons da Natureza ao Amanhecer e Indução de Ondas Alfa de Claude Debussy"
 description: "Descubra como o mestre impressionista Claude Debussy ouvia a brisa e a água ao amanhecer para criar melodias imortais. Explore a neurociência cognitiva de como o ruído rosa natural induz ondas alfa e potencializa a criatividade."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-27"
+updatedDate: "2026-03-27"
 category: "BuildSelf"
-tags: ["O Segredo ","Routine"]
-heroImage: "/images/blog/debussy_nature_listening.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/debussy_nature_listening.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica da Biografia de François Lesure *Claude Debussy* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)"

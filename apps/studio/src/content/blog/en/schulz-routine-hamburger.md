@@ -1,11 +1,11 @@
 ---
 title: "의사결정 피로 지우기: 찰스 슐츠의 단일 점심 루틴"
 description: "50년간 멈춤 없이 스누피 만화를 그리기 위해 일상의 식사와 업무 환경을 완전히 고정했던 찰스 슐츠. 매일 똑같은 햄버거를 먹으며 전두엽의 인지 피로를 막고 창의력을 극대화한 자동화 의식을 탐구합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-06"
+updatedDate: "2026-02-06"
 category: "BuildSelf"
-tags: ["Great Habits","schulz","Routine","Stamina"]
-heroImage: "/images/blog/schulz_routine_hamburger.png"
+tags: ["위인 습관", "찰스 슐츠", "생산성", "단순화", "의사결정", "루틴"]
+heroImage: "/images/blog/schulz_routine_hamburger.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Schulz Routine Hamburger 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

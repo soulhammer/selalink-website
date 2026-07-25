@@ -1,11 +1,11 @@
 ---
 title: "Im Bett mit blauen Buntstiften schreiben: James Joyces Energiespar-Schreibroutine und Entlastung des primären visuellen Kortex (V1)"
 description: "Erfahren Sie, wie James Joyce trotz schwerer Augenleiden im Bett liegend literarische Meisterwerke schuf. Entdecken Sie die Neurowissenschaften zur Verringerung der Muskelbelastung, Entlastung des primären visuellen Kortex (V1) und Optimierung der Energie im präfrontalen Kortex."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-10"
+updatedDate: "2026-04-10"
 category: "BuildSelf"
-tags: ["Im Bett mi","Routine"]
-heroImage: "/images/blog/joyce_bed_writing.png"
+tags: ["위인 습관", "휴식"]
+heroImage: "/images/blog/joyce_bed_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Richard Ellmanns Biografie *James Joyce*, Joyce-Archiven & Forschung der kognitiven Neurowissenschaften und visuellen Wahrnehmung"

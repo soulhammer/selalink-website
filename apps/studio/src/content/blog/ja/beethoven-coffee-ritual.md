@@ -1,11 +1,11 @@
 ---
 title: "コーヒー豆60粒の精緻さ：ベートーヴェンの朝のコーヒーリチュアルとマインドフルネス"
 description: "時代を超えた偉大な作曲家ルートヴィヒ・ヴァン・ベートーヴェンが毎朝正確に60粒のコーヒー豆を数えて淹れた独自の習慣。微細な感覚調節がデフォルト・モード・ネットワーク（DMN）を安定させ、脳の没頭スイッチを入れる神経科学的原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-14"
+updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: ["コーヒー豆60粒の精","Routine"]
-heroImage: "/images/blog/beethoven_coffee_ritual.png"
+tags: ["위인 습관", "베토벤", "아침루틴", "커피", "마인드풀니스"]
+heroImage: "/images/blog/beethoven_coffee_ritual.webp"
 app: "buildself"
 formatVersion: 4
 authority: "アントン・シンドラー伝記『ベートーヴェン全集（Biography of Ludwig van Beethoven）』考証＆認知神経科学（Cognitive Neuroscience）研究"

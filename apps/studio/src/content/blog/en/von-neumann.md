@@ -1,11 +1,11 @@
 ---
 title: "시끄러운 기차 대합실 벤치에서도 몰입을 유지한 폰 노이만의 소음 면역 훈련"
 description: "컴퓨터 아키텍처와 게임 이론을 설계한 천재 수학자로, 수면 도중 뇌가 수행한 정보 연합 아이디어를 포착하기 위해 침대 근처 메모 루틴을 고수했습니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-28"
+updatedDate: "2026-06-28"
 category: "BuildSelf"
-tags: ["Great Habits","von","Routine","Stamina"]
-heroImage: "/images/blog/von_neumann.png"
+tags: ["위인 습관", "존 폰 노이만", "학습", "아이디어"]
+heroImage: "/images/blog/von_neumann.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Von Neumann 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

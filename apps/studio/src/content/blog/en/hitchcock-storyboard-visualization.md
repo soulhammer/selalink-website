@@ -1,11 +1,11 @@
 ---
 title: "Completing 100% in the Mind First: Alfred Hitchcock's Visual Storyboard Routine and Mental Simulation"
 description: "Discover thriller master Alfred Hitchcock's pre-production visual storyboard routine. Explore how mental simulation activates motor execution networks and eliminates decision fatigue, backed by cognitive neuroscience."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-08"
+updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: ["Great Habits","hitchcock","Routine","Stamina"]
-heroImage: "/images/blog/hitchcock_storyboard_visualization.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/hitchcock_storyboard_visualization.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Alfred Hitchcock Biographies, François Truffaut's *Hitchcock/Truffaut* Interviews & Cognitive Neuroscience Research"

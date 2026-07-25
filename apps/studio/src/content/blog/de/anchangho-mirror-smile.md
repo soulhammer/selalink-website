@@ -1,11 +1,11 @@
 ---
 title: "Die Kraft zur Erweckung positiver Gehirnschaltkreise: Dosan Ahn Chang-hos Spiegel-Lächeln und Sauberkeitsroutine"
 description: "Die Macht von 'Lächeln' und 'Sauberkeit', betont vom Unabhängigkeitsaktivisten Dosan Ahn Chang-ho. Entdecken Sie die wissenschaftlichen Gründe, warum ein erzwungenes Lächeln Serotonin im Gehirn freisetzt und ein aufgeräumter Raum die visuelle kognitive Belastung reduziert."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-19"
+updatedDate: "2026-01-19"
 category: "BuildSelf"
-tags: ["Die Kraft ","Routine"]
-heroImage: "/images/blog/anchangho_mirror_smile.png"
+tags: ["위인 습관", "도산 안창호", "거울 미소", "청결", "마인드컨트롤", "자기계발"]
+heroImage: "/images/blog/anchangho_mirror_smile.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Dosan Ahn Chang-hos Biografie & Aufzeichnungen der Young Korean Academy (Hung Sah Dahn) & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

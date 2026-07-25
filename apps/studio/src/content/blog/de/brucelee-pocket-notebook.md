@@ -1,11 +1,11 @@
 ---
 title: "Jagd auf flüchtige Inspirationen: Bruce Lees Taschen-Notizbuch-Routine zur sofortigen Erfassung"
 description: "Erkunden Sie, wie der Kampfkünstler und die Filmikone des 20. Jahrhunderts, Bruce Lee, ein Taschennotizbuch mit sich führte, um philosophische Erkenntnisse und Kampfsportkonzepte in Echtzeit festzuhalten, und entdecken Sie die kognitiven Mechanismen der RAS-Stimulation."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-06"
+updatedDate: "2026-04-06"
 category: "BuildSelf"
-tags: ["Jagd auf f","Routine"]
-heroImage: "/images/blog/brucelee_pocket_notebook.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/brucelee_pocket_notebook.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus John Littles Biografie *Bruce Lee: Artist of Life* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

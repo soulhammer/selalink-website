@@ -1,11 +1,11 @@
 ---
 title: "The Philosopher Who Retrieved Past Records in Under a Minute: John Locke's Commonplace Book Indexing Routine and Associative Memory"
 description: "Discover how empiricist titan John Locke systematically indexed vast knowledge using a unique vowel-grid system. Explore the neuroscience of associative memory networks, reducing semantic distance, alleviating prefrontal recall load, and a 3-step practice guide."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-19"
+updatedDate: "2026-03-19"
 category: "BuildSelf"
-tags: ["Great Habits","locke","Routine","Stamina"]
-heroImage: "/images/blog/locke_commonplace_book.png"
+tags: ["1분 안에 과거의 ","Routine"]
+heroImage: "/images/blog/locke_commonplace_book.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from John Locke's Treatise *A New Method of a Commonplace-Book* (1686), Locke Archives & Cognitive Neuroscience and Cognitive Psychology Research"

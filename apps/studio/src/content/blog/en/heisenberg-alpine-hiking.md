@@ -1,11 +1,11 @@
 ---
 title: "Uncertainty Hints Gifted by Nature: Werner Heisenberg's Alpine Hiking Habit and DMN Incubation Routine"
 description: "Discover how Werner Heisenberg solved quantum mechanics dilemmas by hiking alone through the Bavarian Alps. Explore the science of Attention Restoration Theory (ART), Default Mode Network (DMN) incubation, and nature walks."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-06"
+updatedDate: "2026-02-06"
 category: "BuildSelf"
-tags: ["Great Habits","heisenberg","Routine","Stamina"]
-heroImage: "/images/blog/heisenberg_alpine_hiking.png"
+tags: ["사색", "이완", "창의성"]
+heroImage: "/images/blog/heisenberg_alpine_hiking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Werner Heisenberg's *Der Teil und das Ganze*, Bavarian Academy of Sciences Archives & Cognitive Neuroscience Research"

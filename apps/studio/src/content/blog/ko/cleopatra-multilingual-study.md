@@ -1,11 +1,11 @@
 ---
 title: "클레오파트라의 '다국어 학습': 통역관 없이 세상을 주도한 지적 대화 습관"
 description: "라틴어, 에티오피아어 등 9개 언어를 통역 없이 완벽히 구사했던 이집트의 여왕 클레오파트라. 브로카·베르니케 영역 자극과 회백질 밀도 향상, 전전두엽 인지 유연성을 높이는 인지신경과학적 원리를 밝힙니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-03"
+updatedDate: "2026-03-03"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/cleopatra_multilingual_study.png"
+tags: ["위인 습관", "클레오파트라", "언어 공부", "인지 유연성", "뇌 가소성"]
+heroImage: "/images/blog/cleopatra_multilingual_study.webp"
 app: "buildself"
 formatVersion: 4
 authority: "플루타르코스 평전 『영웅전(Parallel Lives)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

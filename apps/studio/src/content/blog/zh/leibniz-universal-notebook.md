@@ -1,11 +1,11 @@
 ---
 title: "汇通全能知识的单本笔记手册：莱布尼茨的“基项簿”笔记习惯与突触长时程增强（LTP）"
 description: "深度剖析发明微积分的千古奇才莱布尼茨如何将浩瀚知识与灵感统合归于单本分类笔记手册（Commonplace Book）。揭示语意网络（Semantic Network）、突触长时程增强（LTP）与跨界创意融汇的神经科学原理与3步骤指南。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-27"
+updatedDate: "2026-02-27"
 category: "BuildSelf"
-tags: ["汇通全能知识的单本笔","Routine"]
-heroImage: "/images/blog/leibniz_universal_notebook.png"
+tags: ["기록", "창의성", "사색"]
+heroImage: "/images/blog/leibniz_universal_notebook.webp"
 app: "buildself"
 formatVersion: 4
 authority: "戈特弗里德·威廉·莱布尼茨传记与莱布尼茨档案馆（Leibniz-Archiv）史料考证及认知神经科学（Cognitive Neuroscience）与认知心理学（Cognitive Psychology）研究"

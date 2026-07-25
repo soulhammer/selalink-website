@@ -1,11 +1,11 @@
 ---
 title: "Mukjizat Pukul 4 Pagi: Rutinitas Latihan Mamba ala Kobe Bryant"
 description: "Pelajari bagaimana ikon bola basket Kobe Bryant memulai sesi latihan pertamanya pukul 4 pagi setiap hari, serta temukan prinsip neurosains dan fisiologis tentang bagaimana latihan pagi yang konsisten mengunci ritme sirkadian dan mengoptimalkan performa fisik puncak."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-19"
+updatedDate: "2026-01-19"
 category: "BuildSelf"
-tags: ["Mukjizat P","Routine"]
-heroImage: "/images/blog/bryant_four_am_workout.png"
+tags: ["위인 습관", "코비 브라이언트", "성장", "의지력", "신체활성"]
+heroImage: "/images/blog/bryant_four_am_workout.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Autobiografi Kobe Bryant *The Mamba Mentality: How I Play* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

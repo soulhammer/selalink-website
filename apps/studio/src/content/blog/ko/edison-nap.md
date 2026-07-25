@@ -1,11 +1,11 @@
 ---
 title: "쇠구슬을 손에 쥐고 낮잠을 잔 천재: 토마스 에디슨의 하프나고지아(Hypnagogia) 수면법과 반수면 창의성 루틴"
 description: "백열전구와 축음기의 발명가 토마스 에디슨이 난제에 부딪힐 때마다 행했던 쇠구슬 낮잠 루틴. 의식과 수면의 경계(입면 몽상)에서 아이디어를 낚아채는 하프나고지아 수면법과 인지신경과학적 원리를 밝힙니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-02"
+updatedDate: "2026-04-02"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/edison_nap.png"
+tags: ["위인 습관", "토마스 에디슨", "창의성", "낮잠", "영감"]
+heroImage: "/images/blog/edison_nap.webp"
 app: "buildself"
 formatVersion: 4
 authority: "폴 이스라엘 『에디슨 평전(Edison: A Life of Invention)』 및 에디슨 국립역사공원 아카이브 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

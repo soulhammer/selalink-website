@@ -1,11 +1,11 @@
 ---
 title: "无意识之舞：乔治·巴兰钦利用简单家务的编舞法"
 description: "探索编舞家乔治·巴兰钦在编舞灵感枯竭时，如何通过烫衣服或洗衣服等简单重复的家务来构思灵感，并揭示简单肢体活动如何关掉前额叶审查并激活预设模式网络（DMN）的神经机制。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-01"
+updatedDate: "2026-04-01"
 category: "BuildSelf"
-tags: ["无意识之舞：乔治·巴","Routine"]
-heroImage: "/images/blog/balanchine_ironing_choreography.png"
+tags: ["위인 습관", "조지 발란신", "창의성", "사색", "이완", "루틴"]
+heroImage: "/images/blog/balanchine_ironing_choreography.webp"
 app: "buildself"
 formatVersion: 4
 authority: "乔治·巴兰钦传记《By George Balanchine》考证与认知神经科学（Cognitive Neuroscience）研究"

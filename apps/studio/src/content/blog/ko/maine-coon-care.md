@@ -22,7 +22,17 @@ faqs:
 
 오늘 PetSelf에서는 메인쿤이 보내는 카밍 시그널과 바디 랭귀지를 정밀 분석하고, 풍성한 모질 관리 및 심장을 보호하는 3단계 홈케어 방법을 전해드립니다.
 
-이러한 규칙적인 습관과 몰입 루틴은 뇌의 전두엽 및 신경 가소성을 활성화하여 일상의 집중력과 뇌 피로 회복을 극대화합니다.
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
+  <span class="text-2xl">🛡️</span>
+  <div>
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      수의학적 & 행동학적 근거
+    </h5>
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
+      본 콘텐츠는 <strong>Maine Coon Breeders & Fanciers Association (MCBFA) 및 AAFP 대형묘 관리 프로토콜</strong>에 기반하고 있습니다.
+    </p>
+  </div>
+</div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">

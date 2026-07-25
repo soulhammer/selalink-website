@@ -1,11 +1,11 @@
 ---
 title: "Le secret du matin devant le miroir pour faire le plein de confiance : La routine d'affirmations positives de Muhammad Ali"
 description: "Muhammad Ali, le plus grand boxeur du siècle. Découvrez les effets neuroscientifiques et la routine d'état d'esprit en 3 étapes des affirmations positives devant le miroir : le secret qui lui a permis de surmonter une anxiété de performance extrême avant ses combats pour devenir champion."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-26"
+updatedDate: "2026-01-26"
 category: "BuildSelf"
-tags: ["Le secret ","Routine"]
-heroImage: "/images/blog/ali_positive_affirmation.png"
+tags: ["위인 습관", "무하마드알리", "자기확신", "동기부여", "멘탈케어"]
+heroImage: "/images/blog/ali_positive_affirmation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification issue de l'autobiographie de Muhammad Ali *The Greatest: My Own Story* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

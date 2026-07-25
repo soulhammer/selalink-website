@@ -1,11 +1,11 @@
 ---
 title: "허리춤에 항상 수첩을 매달아 둔 천재: 레오나르도 다 빈치의 즉시 메모 습관과 작업 기억 외재화"
 description: "르네상스의 거장 레오나르도 다 빈치가 허리춤에 가죽 수첩을 매달고 관찰과 영감을 즉시 기록했던 메모 습관. 작업 기억(Working Memory) 용량을 비워내는 '외재화(Externalization)'와 인지 부하 감소의 인지신경과학적 원리를 밝깁니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-29"
+updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/da_vinci_notepad.png"
+tags: ["위인 습관", "레오나르도 다 빈치", "메모", "기록", "창의성"]
+heroImage: "/images/blog/da_vinci_notepad.webp"
 app: "buildself"
 formatVersion: 4
 authority: "월터 아이작슨 평전 『레오나르도 다 빈치(Leonardo da Vinci)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

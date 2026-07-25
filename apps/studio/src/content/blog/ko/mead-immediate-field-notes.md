@@ -1,11 +1,11 @@
 ---
 title: "기억의 각색을 막는 기록: 마가렛 미드의 현장 즉각 메모 습관"
 description: "기억이 왜곡되기 전 관찰한 사실을 현장에서 즉시 수첩에 받아적었던 인류학자 마가렛 미드. 뇌의 작업 기억 용량 한계를 극복하고 편향을 막아내는 '인지 오프로딩'의 신경학적 원리를 다룹니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-18"
+updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/mead_immediate_field_notes.png"
+tags: ["기록", "메모", "생산성"]
+heroImage: "/images/blog/mead_immediate_field_notes.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Mead Immediate Field Notes 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

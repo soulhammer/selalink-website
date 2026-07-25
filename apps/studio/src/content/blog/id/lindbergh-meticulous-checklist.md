@@ -1,11 +1,11 @@
 ---
 title: "Mengeliminasi Kesalahan Kognitif Manusia Hingga Nol: Rutinitas Eksekusi Daftar Periksa Charles Lindbergh dan Perlindungan Memori Kerja"
 description: "Pelajari bagaimana pahlawan penerbangan Charles Lindbergh menyelesaikan penerbangan solo lintas Atlantik pertama dengan mengandalkan daftar periksa tertulis. Temukan perlindungan memori kerja prefrontal, pencegahan kesalahan omisi, dan panduan 3 langkah."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-25"
+updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["Mengelimin","Routine"]
-heroImage: "/images/blog/lindbergh_meticulous_checklist.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/lindbergh_meticulous_checklist.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Autobiografi Charles Lindbergh *The Spirit of St. Louis* (1953), Arsip Penerbangan & Penelitian Neurosains Kognitif serta Teknik Faktor Manusia"

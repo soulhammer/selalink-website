@@ -4,8 +4,8 @@ description: "Descubra como Confúcio, mestre da filosofia oriental, afinava e t
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["Afinando o","Routine"]
-heroImage: "/images/blog/confucius_guqin_harmony.png"
+tags: ["위인 습관", "공자", "거문고", "음악치료", "마음조율"]
+heroImage: "/images/blog/confucius_guqin_harmony.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica dos *Registros do Historiador (Shiji: Casa de Confúcio)* de Sima Qian e *Os Analectos (Lunyu)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)"

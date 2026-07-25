@@ -1,11 +1,11 @@
 ---
 title: "腰にいつも手帳をぶら下げていた天才：レオナルド・ダ・ヴィンチの即時メモ習慣と作業記憶の外在化"
 description: "ルネサンスの巨匠レオナルド・ダ・ヴィンチが腰に革の手帳をぶら下げ観察とインスピレーションを即座に記録したメモ習慣。作業記憶（Working Memory）容量を空ける「外在化（Externalization）」と認知負荷減少の神経科学的原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-29"
+updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: ["腰にいつも手帳をぶら","Routine"]
-heroImage: "/images/blog/da_vinci_notepad.png"
+tags: ["위인 습관", "레오나르도 다 빈치", "메모", "기록", "창의성"]
+heroImage: "/images/blog/da_vinci_notepad.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ウォルター・アイザックソン伝記『Leonardo da Vinci』考証＆認知神経科学（Cognitive Neuroscience）研究"

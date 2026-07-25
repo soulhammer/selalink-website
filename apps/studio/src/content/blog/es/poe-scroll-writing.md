@@ -1,11 +1,11 @@
 ---
 title: "원고를 두루마리로 이어 붙여 쓴 추리 소설가? 에드거 앨런 포의 초집중 필기법"
 description: "근대 추리 소설의 시조 에드거 앨런 포는 좁은 종이 띠에 글을 쓰고 계속 이어 붙여 두루마리로 제작했습니다. 시선 좌우 유입을 차단하여 인지 터널링 효과를 내는 뇌 과학적 원리를 규명합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-03"
+updatedDate: "2026-01-03"
 category: "BuildSelf"
 tags: ["원고를 두루마리로 ","Routine"]
-heroImage: "/images/blog/poe_scroll_writing.png"
+heroImage: "/images/blog/poe_scroll_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "에드거 앨런 포 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

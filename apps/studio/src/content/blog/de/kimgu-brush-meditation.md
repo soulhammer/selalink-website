@@ -1,11 +1,11 @@
 ---
 title: "Präzision zur Beruhigung eines unruhigen Geistes: Kim Koos Kalligrafie-Meditationsroutine und Feinmotorik-Steuerung"
 description: "Erfahren Sie, wie Kim Koo, Führer der Provisorischen Regierung Koreas, seinen Geist durch Kalligrafie schulte. Entdecken Sie die Neurowissenschaften von Feinmotorik, Amygdala-Beruhigung und eine 3-Schritte-Anleitung."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-06"
+updatedDate: "2026-02-06"
 category: "BuildSelf"
-tags: ["Präzision ","Routine"]
-heroImage: "/images/blog/kimgu_brush_meditation.png"
+tags: ["위인 습관", "백범 김구", "서예 명상", "붓글씨", "불안 조절", "마음 수양"]
+heroImage: "/images/blog/kimgu_brush_meditation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Kim Koos Autobiografie *Baekbum Ilji*, Archiven der Provisorischen Regierung & Forschung der kognitiven Neurowissenschaften und Motorikwissenschaft"

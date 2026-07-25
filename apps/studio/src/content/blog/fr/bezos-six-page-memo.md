@@ -1,11 +1,11 @@
 ---
 title: "30 minutes de silence et le mémo de 6 pages : La méthode de réunion Amazon de Jeff Bezos et la neuroscience de la lecture"
 description: "Découvrez le secret de prise de décision de Jeff Bezos consistant à interdire les présentations PPT chez Amazon et à exiger 30 minutes de lecture silencieuse de mémos narratifs de 6 pages en début de réunion, et percez les principes neuroscientifiques montrant comment la lecture narrative stimule le cortex préfrontal pour maximiser le jugement."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-19"
+updatedDate: "2026-01-19"
 category: "BuildSelf"
-tags: ["30 minutes","Routine"]
-heroImage: "/images/blog/bezos_six_page_memo.png"
+tags: ["위인 습관", "제프 베조스", "의사결정", "계획", "생산성"]
+heroImage: "/images/blog/bezos_six_page_memo.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue des lettres aux actionnaires de Jeff Bezos & du livre de Colin Bryar *Working Backwards* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

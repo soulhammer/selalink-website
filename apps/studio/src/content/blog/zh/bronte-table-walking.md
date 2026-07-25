@@ -1,11 +1,11 @@
 ---
 title: "夜幕下围绕餐桌走动的姐妹：夏洛蒂·勃朗特的步行讨论与镜像神经元创作法"
 description: "探索《简·爱》作者夏洛蒂·勃朗特每天深夜与姐妹们围绕客厅餐桌走动并讨论小说人物与情节的习惯，揭示结合步行运动与镜像神经元（Mirror Neurons）系统以规避隧道视野并引导客观洞察的神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-14"
+updatedDate: "2026-05-14"
 category: "BuildSelf"
-tags: ["夜幕下围绕餐桌走动的","Routine"]
-heroImage: "/images/blog/bronte_table_walking.png"
+tags: ["위인 습관", "샬롯브론테", "보행토론", "창의성걷기", "협업창작"]
+heroImage: "/images/blog/bronte_table_walking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "伊丽莎白·盖斯凯尔传记《夏洛蒂·勃朗特传（The Life of Charlotte Brontë）》考证与认知神经科学（Cognitive Neuroscience）研究"

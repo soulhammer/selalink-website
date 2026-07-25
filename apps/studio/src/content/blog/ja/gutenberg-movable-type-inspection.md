@@ -1,11 +1,11 @@
 ---
 title: "印刷革命の巨匠：グーテンベルクの朝の金属活字精密誤差検品ルーティンとERNエラー検知メカニズム"
 description: "金属活字の発明家グーテンベルクが毎朝活字の水平誤差を手と目で検品し、システム標準と品質を守り抜いた脳科学的習慣と前帯状皮質（ACC）ERN刺激メカニズムを解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-04"
+updatedDate: "2026-06-04"
 category: "BuildSelf"
-tags: ["印刷革命の巨匠：グー","Routine"]
-heroImage: "/images/blog/gutenberg_movable_type_inspection.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/gutenberg_movable_type_inspection.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ヨハネス・グーテンベルク評伝およびマインツ・グーテンベルク博物館史料考証＆認知神経科学（Cognitive Neuroscience）研究"

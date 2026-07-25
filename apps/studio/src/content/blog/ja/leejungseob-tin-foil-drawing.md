@@ -1,11 +1,11 @@
 ---
 title: "欠乏を乗り越えた没頭：李仲燮（イ・ジュンソプ）の銀紙画ドローイングルーティンと体性感覚皮質刺激"
 description: "画家・李仲燮（イ・ジュンソプ）が極度の貧困の中でもタバコの箱の銀紙に絵を描き、芸術的つながりを手放さなかった集中法。金属箔の表面を削る触覚刺激が体性感覚皮質を活性化し、多重感覚フィードバックでマインドフルネスを誘導する脳科学的原理と3段階実践ガイドを解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-14"
+updatedDate: "2026-03-14"
 category: "BuildSelf"
-tags: ["欠乏を乗り越えた没頭","Routine"]
-heroImage: "/images/blog/leejungseob_tin_foil_drawing.png"
+tags: ["위인 습관", "이중섭", "은지화 드로잉", "몰입 루틴", "촉각 자극", "마인드풀니스"]
+heroImage: "/images/blog/leejungseob_tin_foil_drawing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "李仲燮（イ・ジュンソプ）評伝および国立現代美術館アーカイブ史料考証＆認知神経科学（Cognitive Neuroscience）および美術療法学（Art Therapy）研究"

@@ -1,11 +1,11 @@
 ---
 title: "창의적 시각의 발견: 신사임당의 초정밀 자연 관찰 루틴"
 description: "조선 최고의 여류 예술가 신사임당의 자연 관찰을 통한 창의성 훈련법. 매일 아침 자연을 관찰하는 행동이 뇌의 주의 회복을 돕고 창조적 시각 네트워크를 발달시키는 과학적 근거를 설명합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-24"
+updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: ["Great Habits","saimdang","Routine","Stamina"]
-heroImage: "/images/blog/saimdang_nature_observation.png"
+tags: ["위인 습관", "신사임당", "자연 관찰", "창의성", "주의 회복", "뇌과학"]
+heroImage: "/images/blog/saimdang_nature_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Saimdang Nature Observation 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

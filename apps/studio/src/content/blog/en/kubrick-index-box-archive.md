@@ -1,11 +1,11 @@
 ---
 title: "Designing Perfection with a Second Brain: Stanley Kubrick's Index Card Archiving Habit and Cognitive Offloading"
 description: "Discover how legendary film director Stanley Kubrick created masterworks by offloading memory strain into an index card archive. Explore cognitive offloading, chunking, prefrontal optimization, and a 3-step archiving framework."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-18"
+updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: ["Great Habits","kubrick","Routine","Stamina"]
-heroImage: "/images/blog/kubrick_index_box_archive.png"
+tags: ["글쓰기", "창의성", "기록"]
+heroImage: "/images/blog/kubrick_index_box_archive.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from *The Stanley Kubrick Archives* (Alison Castle / Taschen), Kubrick Archives & Cognitive Neuroscience and Cognitive Psychology Research"

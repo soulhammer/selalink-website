@@ -4,7 +4,7 @@ description: "Erfahren Sie, wie der Arzt William Harvey im 17. Jahrhundert 2.000
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["William Ha","Routine"]
+tags: ["위습관","루틴"]
 heroImage: "/images/blog/harvey_blood_circulation.png"
 app: "buildself"
 formatVersion: 4

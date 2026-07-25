@@ -1,11 +1,11 @@
 ---
 title: "朴素な庭園での知的連帯：エピクロスの対話と質素な食事習慣および心の平静法"
 description: "アテネ郊外に「庭園」を建て、少数の友と質素な食事を分かち合い深い思索を共有したエピクロス。社会的誇示を排除し安全な絆の中で対話を交わす習慣が、体内のオキシトシンとセロトニンを刺激して高次元の幸せを感じさせるメカニズムを解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-20"
+updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: ["朴素な庭園での知的連","Routine"]
-heroImage: "/images/blog/epicurus_garden_conversation.png"
+tags: ["휴식", "안정", "사색"]
+heroImage: "/images/blog/epicurus_garden_conversation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ディオゲネス・ラエルティオス『傑出した哲学者たちの生涯と思想（Lives and Opinions of Eminent Philosophers）』およびエピクロス書簡集考証＆認知神経科学（Cognitive Neuroscience）研究"

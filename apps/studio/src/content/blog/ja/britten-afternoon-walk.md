@@ -1,11 +1,11 @@
 ---
 title: "午後の海岸散歩で難題を解決した作曲家：ベンジャミン・ブリテンの脳解放ルーティン"
 description: "20世紀イギリス音楽の巨匠ベンジャミン・ブリテンが毎日午後に海岸の小道を散歩し、午前中に頭の中で構想した音符構造を整えたルーティン。注意力回復理論（ART）とデフォルト・モード・ネットワーク（DMN）を通じた認知的統合の神経科学的原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-22"
+updatedDate: "2026-04-22"
 category: "BuildSelf"
-tags: ["午後の海岸散歩で難題","Routine"]
-heroImage: "/images/blog/britten_afternoon_walk.png"
+tags: ["오후 해안가 산책으","Routine"]
+heroImage: "/images/blog/britten_afternoon_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ハンフリー・カーペンター伝記『Benjamin Britten: A Biography』考証＆認知神経科学（Cognitive Neuroscience）研究"

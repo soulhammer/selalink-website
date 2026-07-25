@@ -1,11 +1,11 @@
 ---
 title: "人間の知的ミスを完璧にゼロにする方法：チャールズ・リンドバーグのチェックリスト実行ルーティンと作業記憶保護"
 description: "大西洋単独飛行横断に成功した航空の英雄チャールズ・リンドバーグ。感覚の代わりにチェックリストに依存して知的エラーを遮断した彼の徹底した安全管理習慣と前頭前野の作業記憶保護、知的漏れ（Omission Error）防止の原理および3段階実践ガイドを分析します。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-25"
+updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["人間の知的ミスを完璧","Routine"]
-heroImage: "/images/blog/lindbergh_meticulous_checklist.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/lindbergh_meticulous_checklist.webp"
 app: "buildself"
 formatVersion: 4
 authority: "チャールズ・リンドバーグ自伝『スピリット・オブ・セントルイス（The Spirit of St. Louis, 1953）』史料考証＆認知神経科学（Cognitive Neuroscience）および人間工学（Human Factors Engineering）研究"

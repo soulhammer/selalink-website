@@ -1,11 +1,11 @@
 ---
 title: "Buku Catatan Perjalanan Erasmus: Menangkap Percikan Ide Saat Dalam Perjalanan"
 description: "Pelajari bagaimana cendekiawan Renaisans Desiderius Erasmus menyusun draf 'Pujian atas Kebodohan' saat bepergian melintasi Eropa dengan buku catatan saku. Temukan neurosains tentang gelombang alfa dan aliran visual."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-11"
+updatedDate: "2026-06-11"
 category: "BuildSelf"
-tags: ["Buku Catat","Routine"]
-heroImage: "/images/blog/erasmus_notebook_travel.png"
+tags: ["메모", "이동식학습", "인문주의", "르네상스"]
+heroImage: "/images/blog/erasmus_notebook_travel.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari *Epistolae* Desiderius Erasmus, Biografi Johan Huizinga *Erasmus* & Penelitian Neurosains Kognitif"

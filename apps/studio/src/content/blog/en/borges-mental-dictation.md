@@ -1,11 +1,11 @@
 ---
 title: "The Labyrinth Drawn in the Mind's Eye: Borges's Visuospatial Working Memory Visualization Routine"
 description: "Discover how Argentine literary master Jorge Luis Borges mentally designed 3D text structures and labyrinths after losing his sight, dictating his works aloud. Explore the neuroscientific mechanisms of maximizing visuospatial working memory and triggering cross-modal plasticity."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-21"
+updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: ["Great Habits","borges","Routine","Stamina"]
-heroImage: "/images/blog/borges_mental_dictation.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/borges_mental_dictation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Edwin Williamson's Biography *Borges: A Life* & Cognitive Neuroscience Research"

@@ -1,11 +1,11 @@
 ---
 title: "Morgendliches Spiegel-Geheimnis zum Auftanken von Selbstbewusstsein: Muhammad Alis positive Affirmationsroutine"
 description: "Muhammad Ali, der größte Boxer des Jahrhunderts. Entdecken Sie die neurowissenschaftlichen Wirkungen und die 3-Schritte-Mindset-Routine positiver Affirmationen vor dem Spiegel – das Geheimnis zur Überwindung extremer Leistungsangst vor Kämpfen und zum Werden eines Champions."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-26"
+updatedDate: "2026-01-26"
 category: "BuildSelf"
-tags: ["Morgendlic","Routine"]
-heroImage: "/images/blog/ali_positive_affirmation.png"
+tags: ["위인 습관", "무하마드알리", "자기확신", "동기부여", "멘탈케어"]
+heroImage: "/images/blog/ali_positive_affirmation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Überprüfung aus Muhammad Alis Autobiografie *The Greatest: My Own Story* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

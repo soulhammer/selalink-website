@@ -1,11 +1,11 @@
 ---
 title: "Birthing Masterpieces in Absolute Silence: Franz Kafka's Late-Night Writing Routine and Frontal Down-Regulation"
 description: "Discover how 20th-century literary titan Franz Kafka composed masterpieces like The Metamorphosis by writing from 11 PM until dawn in absolute silence. Explore the neuroscience of frontal down-regulation and working memory immersion."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-01"
+updatedDate: "2026-04-01"
 category: "BuildSelf"
-tags: ["Great Habits","kafka","Routine","Stamina"]
-heroImage: "/images/blog/kafka_late_night_writing.png"
+tags: ["위인 습관", "프란츠 카프카", "밤샘 루틴", "집중력", "창의성"]
+heroImage: "/images/blog/kafka_late_night_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Max Brod's *Franz Kafka: A Biography*, Kafka's Diaries & Cognitive Neuroscience Research"

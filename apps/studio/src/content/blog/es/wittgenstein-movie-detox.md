@@ -1,11 +1,11 @@
 ---
 title: "뇌의 과열 식히기: 비트겐슈타인의 서부극 디톡스 루틴"
 description: "분석철학의 한계에 도전하며 과열된 뇌를 리셋하기 위해 영화관 맨 앞줄에서 서부극을 즐겼던 루트비히 비트겐슈타인. 강제적인 시각적 몰입이 전두엽의 부하를 끄고 창의적 문제 해결을 돕는 메커니즘을 조명합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-14"
+updatedDate: "2026-03-14"
 category: "BuildSelf"
-tags: ["뇌의 과열 식히기:","Routine"]
-heroImage: "/images/blog/wittgenstein_movie_detox.png"
+tags: ["위인 습관", "루트비히 비트겐슈타인", "이완", "휴식", "사색", "스트레스 해소"]
+heroImage: "/images/blog/wittgenstein_movie_detox.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Wittgenstein Movie Detox 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

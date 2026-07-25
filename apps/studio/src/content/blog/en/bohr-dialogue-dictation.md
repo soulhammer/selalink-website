@@ -1,11 +1,11 @@
 ---
 title: "Physics Woven Through Dialogue: Niels Bohr's Dictation-Discussion and Metacognitive Writing Method"
 description: "Explore how quantum mechanics pioneer Niels Bohr authored complex physics papers through relentless oral discussion and dictation with colleagues, and discover the neuroscientific principle where externalizing inner thoughts into spoken language activates metacognition."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-19"
+updatedDate: "2026-01-19"
 category: "BuildSelf"
-tags: ["Great Habits","bohr","Routine","Stamina"]
-heroImage: "/images/blog/bohr_dialogue_dictation.png"
+tags: ["학습", "창의성", "사색"]
+heroImage: "/images/blog/bohr_dialogue_dictation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Abraham Pais's Biography *Niels Bohr's Times: In Physics, Philosophy, and Polity* & Cognitive Neuroscience Research"

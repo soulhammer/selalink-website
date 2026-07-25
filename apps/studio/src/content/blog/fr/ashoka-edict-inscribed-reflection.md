@@ -1,11 +1,11 @@
 ---
 title: "Un roi conquérant qui a gravé des édits dans la roche pour réfléchir ? La routine quotidienne de réflexion éthique d'Ashoka le Grand"
 description: "Ashoka le Grand de l'Empire Maurya en Inde. Découvrez sa routine d'ancrage externe et son plan d'action en 3 étapes, par lesquels il a regretté les horreurs de la guerre de Kalinga et a érigé des édits sur piliers pour réfléchir quotidiennement à son soi éthique."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-04"
+updatedDate: "2026-06-04"
 category: "BuildSelf"
-tags: ["Un roi con","Routine"]
-heroImage: "/images/blog/ashoka_edict_inscribed_reflection.png"
+tags: ["위인 습관", "Routine"]
+heroImage: "/images/blog/ashoka_edict_inscribed_reflection.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue des Édits d'Ashoka (Edicts of Ashoka) & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

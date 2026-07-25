@@ -1,11 +1,11 @@
 ---
 title: "没頭の極致：アルキメデスの砂の幾何学スケッチ習慣"
 description: "複雑な科学的インスピレーションを視覚化するため、砂や床の上に絶えず図形を描いたアルキメデス。手を使う視覚スケッチが、作業記憶の認知オーバーロードをいかに減らし、超没頭状態を誘導するかを研究します。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["没頭の極致：アルキメ","Routine"]
-heroImage: "/images/blog/archimedes_sand_geometry.png"
+tags: ["몰입", "사색", "창의성"]
+heroImage: "/images/blog/archimedes_sand_geometry.webp"
 app: "buildself"
 formatVersion: 4
 authority: "プルタルコス『英雄伝（Life of Marcellus）』考証＆認知神経科学（Cognitive Neuroscience）研究"

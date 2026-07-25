@@ -1,11 +1,11 @@
 ---
 title: "Irmãs Circundando a Mesa de Jantar Noturna: A Discussão Ambulante e o Método de Criação por Neurônios-Espelho de Charlotte Brontë"
 description: "Explore a rotina de Charlotte Brontë, autora de 'Jane Eyre', que circundava a mesa com suas irmãs todas as noites para criticar personagens e enredos, e descubra os mecanismos neurocientíficos que combinam caminhada com neurônios-espelho para evitar a visão de túnel."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-14"
+updatedDate: "2026-05-14"
 category: "BuildSelf"
-tags: ["Irmãs Circ","Routine"]
-heroImage: "/images/blog/bronte_table_walking.png"
+tags: ["위인 습관", "샬롯브론테", "보행토론", "창의성걷기", "협업창작"]
+heroImage: "/images/blog/bronte_table_walking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica da Biografia de Elizabeth Gaskell *A Vida de Charlotte Brontë (The Life of Charlotte Brontë)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)"

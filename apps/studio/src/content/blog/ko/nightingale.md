@@ -1,11 +1,11 @@
 ---
 title: "매일 밤 어두운 병실 복도 4마일을 순찰한 나이팅게일의 정량 위생 진단 루틴"
 description: "현대 간호학의 설립자이자 선구적인 통계학자로, 군의 위생 상태와 사망 원인을 도표화하여 혁신적 개혁을 이끌었습니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-20"
+updatedDate: "2026-03-20"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/nightingale.png"
+tags: ["위인 습관", "플로렌스 나이팅게일", "기록", "계획"]
+heroImage: "/images/blog/nightingale.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Nightingale 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

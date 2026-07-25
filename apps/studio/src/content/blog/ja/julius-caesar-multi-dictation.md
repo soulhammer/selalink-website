@@ -1,11 +1,11 @@
 ---
 title: "ユリウス・カエサルの「同時口述」：高度に集中した作業転換の技術と作業記憶の拡張"
 description: "多忙な軍事・行政任務の中でも、複数の書記官に異なる文書を同時に口述したユリウス・カエサル。作業記憶（Working Memory）を極大化し、前頭前野の知的柔軟性を引き上げる生産性ルーティンを分析します。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-14"
+updatedDate: "2026-01-14"
 category: "BuildSelf"
-tags: ["ユリウス・カエサルの","Routine"]
-heroImage: "/images/blog/julius_caesar_multi_dictation.png"
+tags: ["위인 습관", "율리우스 카이사르", "시간 관리", "작업 기억", "생산성"]
+heroImage: "/images/blog/julius_caesar_multi_dictation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "プルタルコス『英雄伝（Parallel Lives）』およびプリニウス『博物誌（Naturalis Historia）』史料考証＆認知神経科学（Cognitive Neuroscience）研究"

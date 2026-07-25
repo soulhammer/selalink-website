@@ -1,11 +1,11 @@
 ---
 title: "Intuition an den Fingerspitzen und die 6-Punkte-Innovation: Louis Brailles essentielle Vereinfachungs- und Chunking-Routine"
 description: "Entdecken Sie, wie Louis Braille die komplexe 12-Punkte-Militärnachtschrift in ein 6-Punkte-System vereinfachte, das unter eine einzige Fingerkuppe passt und eine Wissensrevolution auslöste, und erkunden Sie die neurowissenschaftlichen Prinzipien des taktilen Arbeitsgedächtnis-Chunkings."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-04"
+updatedDate: "2026-05-04"
 category: "BuildSelf"
-tags: ["Intuition ","Routine"]
-heroImage: "/images/blog/braille_tactile_simplification.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/braille_tactile_simplification.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus C. Michael Mellors Biografie *Louis Braille: A Touch of Genius* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

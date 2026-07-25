@@ -1,11 +1,11 @@
 ---
 title: "프리드리히 니체의 산책 집필 루틴: 매 걸음마다 뇌의 창의성을 여는 법"
 description: "독일의 위대한 철학자 프리드리히 니체가 하루 8시간 동안 스위스 산길을 걸으며 노트에 위대한 사상을 집필한 역사적 사실과 신체 운동이 DMN(기본 모드 네트워크)과 뇌의 발산적 사고를 촉진하는 뇌과학적 원리를 다룹니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-27"
+updatedDate: "2026-04-27"
 category: "BuildSelf"
-tags: ["프리드리히 니체의 ","Routine"]
-heroImage: "/images/blog/nietzsche_walking_writing.png"
+tags: ["위인 습관", "프리드리히 니체", "창의성", "산책", "아이디어"]
+heroImage: "/images/blog/nietzsche_walking_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Nietzsche Walking Writing 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

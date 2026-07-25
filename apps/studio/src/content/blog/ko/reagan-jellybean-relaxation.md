@@ -1,11 +1,11 @@
 ---
 title: "백악관의 비밀 사탕? 로널드 레이건의 젤리빈 저작 스트레스 완화법"
 description: "미국 제40대 대통령 로널드 레이건은 담배를 끊고 스트레스를 다스리기 위해 백악관 집무실에서 젤리빈을 먹었습니다. 저작 운동이 정서에 미치는 뇌과학적 원리를 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-25"
+updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/reagan_jellybean_relaxation.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/reagan_jellybean_relaxation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "로널드 레이건 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

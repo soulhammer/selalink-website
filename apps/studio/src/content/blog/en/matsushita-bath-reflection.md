@@ -1,11 +1,11 @@
 ---
 title: "하루의 끝, 온전한 비움: 마쓰시타 고노스케의 욕탕 성찰 루틴"
 description: "경영의 신 마쓰시타 고노스케가 매일 밤 실천한 온수 목욕 사색. 부교감 신경 활성화와 뇌의 기본 모드 네트워크 정렬 효과를 해부합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-25"
+updatedDate: "2026-05-25"
 category: "BuildSelf"
-tags: ["Great Habits","matsushita","Routine","Stamina"]
-heroImage: "/images/blog/matsushita_bath_reflection.png"
+tags: ["위인 습관", "마쓰시타 고노스케", "자기성찰", "이완", "의사결정", "부교감 신경"]
+heroImage: "/images/blog/matsushita-bath-reflection.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Matsushita Bath Reflection 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

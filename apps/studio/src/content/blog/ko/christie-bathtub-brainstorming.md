@@ -1,11 +1,11 @@
 ---
 title: "욕조에서 사과를 먹으며 살인을 계획한 여인: 아가사 크리스티의 온수 브레인스토밍과 DMN 이완법"
 description: "추리소설의 여왕 아가사 크리스티가 온수 욕조에서 사과를 씹어 먹으며 치밀한 알리바이와 트릭을 구상했던 이완 루틴. 디폴트 모드 네트워크(DMN) 활성화와 저작 운동의 인지신경과학적 원리를 밝힙니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/christie_bathtub_brainstorming.png"
+tags: ["위인 습관", "아가사 크리스티", "아이디어", "목욕", "창의성"]
+heroImage: "/images/blog/christie_bathtub_brainstorming.webp"
 app: "buildself"
 formatVersion: 4
 authority: "아가사 크리스티 자서전 『아가사 크리스티 자서전(An Autobiography)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

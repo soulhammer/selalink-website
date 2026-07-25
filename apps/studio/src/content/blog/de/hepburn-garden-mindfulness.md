@@ -1,11 +1,11 @@
 ---
 title: "Das Fundament der Eleganz: Audrey Hepburns heilende Gartenroutine und die Neurowissenschaften des Bodenkontakts"
 description: "Erfahren Sie, wie die Hollywood-Legende Audrey Hepburn durch Gartenarbeit emotionale Ruhe und Eleganz bewahrte. Entdecken Sie die Neurowissenschaften des Bodenkontakts, Mycobacterium vaccae und Serotonin."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-14"
+updatedDate: "2026-01-14"
 category: "BuildSelf"
-tags: ["Das Fundam","Routine"]
-heroImage: "/images/blog/hepburn_garden_mindfulness.png"
+tags: ["위인 습관", "오드리헵번", "정원가꾸기", "스트레스해소", "마음치유"]
+heroImage: "/images/blog/hepburn_garden_mindfulness.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Audrey Hepburn-Biografien, Archiven des Anwesens Tolochenaz (Schweiz) & Forschung der kognitiven Neurowissenschaften und Umweltpsychologie"

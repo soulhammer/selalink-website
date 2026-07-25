@@ -1,11 +1,11 @@
 ---
 title: "午前5時のコーヒーと朝の散歩の調和：ヨハネス・ブラームスの強力な朝の覚醒ルーティン"
 description: "ドイツ・クラシック音楽の巨匠ヨハネス・ブラームスが毎日午前5時に自らブラックコーヒーを淹れて飲み、森の小道を活発に散歩したルーティン。カフェインと有酸素運動が結合した際に現れるBDNF分泌および作業記憶強化の神経科学的メカニズムを解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-13"
+updatedDate: "2026-06-13"
 category: "BuildSelf"
-tags: ["午前5時のコーヒーと","Routine"]
-heroImage: "/images/blog/brahms_early_morning_coffee.png"
+tags: ["새벽 5시 커피와 ","Routine"]
+heroImage: "/images/blog/brahms_early_morning_coffee.webp"
 app: "buildself"
 formatVersion: 4
 authority: "マックス・カルベック伝記『Johannes Brahms』考証＆認知神経科学（Cognitive Neuroscience）研究"

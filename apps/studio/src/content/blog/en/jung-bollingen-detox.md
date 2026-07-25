@@ -1,11 +1,11 @@
 ---
 title: "Digital Detox at the Bollingen Tower: Carl Jung's Unconscious Recovery Method and DMN Cognitive Reset"
 description: "Discover how analytical psychology pioneer Carl Jung reset his brain by chopping wood in a secluded tower devoid of electricity and running water. Explore the neuroscience of Default Mode Network (DMN) activation, prefrontal cognitive recovery, and a 3-step digital detox routine."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-21"
+updatedDate: "2026-01-21"
 category: "BuildSelf"
-tags: ["Great Habits","jung","Routine","Stamina"]
-heroImage: "/images/blog/jung_bollingen_detox.png"
+tags: ["위인 습관", "칼 융", "휴식", "사색", "디지털디톡스"]
+heroImage: "/images/blog/jung_bollingen_detox.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Carl Jung's Autobiography *Memories, Dreams, Reflections*, Bollingen Tower Archives & Analytical Psychology and Cognitive Neuroscience Research"

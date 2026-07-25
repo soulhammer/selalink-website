@@ -1,11 +1,11 @@
 ---
 title: "O Gênio que Tirava Sonecas Segurando Esferas de Aço: A Técnica de Hipnagogia de Thomas Edison e sua Rotina Criativa"
 description: "Descubra a lendária rotina de soneca com esferas de aço de Thomas Edison para superar bloqueios criativos. Explore a neurociência cognitiva da hipnagogia (estágio N1 do sono) e a captura imediata de ideias."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-02"
+updatedDate: "2026-04-02"
 category: "BuildSelf"
-tags: ["O Gênio qu","Routine"]
-heroImage: "/images/blog/edison_nap.png"
+tags: ["위인 습관", "토마스 에디슨", "창의성", "낮잠", "영감"]
+heroImage: "/images/blog/edison_nap.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica da Biografia de Paul Israel *Edison: A Life of Invention*, Arquivos do Parque Histórico Nacional Thomas Edison e Pesquisa em Neurociência Cognitiva"

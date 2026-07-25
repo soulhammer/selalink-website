@@ -1,11 +1,11 @@
 ---
 title: "현대 유아교육 혁명가? 마리아 몽테소리의 객관적 관찰 일지 루틴"
 description: "이탈리아 최초의 여성 의사이자 교육학자 마리아 몽테소리. 주관적 편견을 차단하고 본질을 파악했던 그녀의 객관적 관찰 기술과 3단계 가이드."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-17"
+updatedDate: "2026-02-17"
 category: "BuildSelf"
-tags: ["현대 유아교육 혁명","Routine"]
-heroImage: "/images/blog/montessori_observation_log.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/montessori_observation_log.webp"
 app: "buildself"
 formatVersion: 4
 authority: "마리아 몽테소리 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

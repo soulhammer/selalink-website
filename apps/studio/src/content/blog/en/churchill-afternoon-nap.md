@@ -1,11 +1,11 @@
 ---
 title: "The Prime Minister Who Split His Day in Two: Winston Churchill's Afternoon Nap and Adenosine Clearance Routine"
 description: "Discover how British Prime Minister Winston Churchill, who led the Allies to victory in WWII, took daily 1.5-hour bed naps to double his productivity. Explore the cognitive neuroscience of clearing accumulated adenosine and restoring brain arousal via power naps without sleep inertia."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-24"
+updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: ["Great Habits","churchill","Routine","Stamina"]
-heroImage: "/images/blog/churchill_afternoon_nap.png"
+tags: ["위인 습관", "윈스턴 처칠", "낮잠", "휴식", "에너지"]
+heroImage: "/images/blog/churchill_afternoon_nap.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Martin Gilbert's Biography *Winston S. Churchill* & Cognitive Neuroscience Research"

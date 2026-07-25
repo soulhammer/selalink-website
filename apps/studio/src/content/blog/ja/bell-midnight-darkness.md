@@ -1,11 +1,11 @@
 ---
 title: "完全なる暗闇の中の発明：アレクサンダー・グラハム・ベルの深夜の感覚遮断とディープ・ワーク"
 description: "電話を発明し人類のコミュニケーションのパラダイムを変えたアレクサンダー・グラハム・ベル。昼間の酷い感覚過負荷を解消し脳の執行機能を覚醒させた彼の「深夜の完全な暗闇」ディープ・ワーク法と感覚遮断（Sensory Deprivation）の神経科学的メカニズムを解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-12"
+updatedDate: "2026-05-12"
 category: "BuildSelf"
-tags: ["完全なる暗闇の中の発","Routine"]
-heroImage: "/images/blog/bell_midnight_darkness.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/bell_midnight_darkness.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ロバート・V・ブルース伝記『Bell: Alexander Graham Bell and the Conquest of Solitude』考証＆認知神経科学（Cognitive Neuroscience）研究"

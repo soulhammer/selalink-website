@@ -1,11 +1,11 @@
 ---
 title: "Du boxeur au romancier : La routine sportive de stimulation cérébrale et de sécrétion de BDNF d'Arthur Conan Doyle"
 description: "Découvrez pourquoi le médecin et écrivain Arthur Conan Doyle pratiquait des sports intenses comme la boxe et le cricket avant d'écrire. Explorez la neuroscience cognitive montrant comment l'exercice libère du BDNF et stimule les fonctions exécutives."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-21"
+updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: ["Du boxeur ","Routine"]
-heroImage: "/images/blog/doyle_sports_writing.png"
+tags: ["위인 습관", "생산성"]
+heroImage: "/images/blog/doyle_sports_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de l'autobiographie d'Arthur Conan Doyle *Souvenirs et Aventures (Memories and Adventures)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

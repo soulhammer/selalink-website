@@ -15,23 +15,24 @@ faqs:
   - question: "Mengapa perawatan lipatan kulit sangat penting bagi kucing berwajah rata?"
     answer: "Kucing berwajah rata memiliki lipatan dalam di sekitar hidung. Air mata yang terperangkap memicu infeksi bakteri dan ragi, menyebabkan bau tidak sedap."
 ---
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+
+Dengan bulu yang tebal dan wajah rata, kucing Persia dikenal dengan sifatnya yang lembut dan tenang. Namun, struktur wajah mereka yang rata menyebabkan air mata berlebih, yang dapat menyebabkan infeksi. Bulu panjang mereka yang lebat mudah kusut dan menyebabkan rasa sakit. Hari ini, PetSelf menguraikan sinyal stres mata dan bulu Persia serta memberikan rutinitas perawatan 3 langkah.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Bukti Dokter Hewan & Perilaku
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Konten ini didasarkan pada <strong>Pedoman Breed CFA untuk Persia & Standar Kedokteran Hewan AAFP</strong>.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+    🐾 Kucing Persia Profil Utama
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Rata-rata Umur</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 17 tahun</span></div>
@@ -42,7 +43,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
 
 ## 1. Bahasa Tubuh Kucing Persia: Sinyal Hening dari Mata dan Telinga
 
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+Karena Persia mengekspresikan emosi dengan tenang, mendeteksi stres bisa jadi sulit. Meskipun mereka menunjukkan kasih sayang melalui 'mata setengah tertutup', 'telinga pesawat' (telinga menoleh ke samping) menandakan ketidaknyamanan. Hal ini biasa terjadi saat menyikat terlalu cepat.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -76,7 +77,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pagi: Pembersihan Lipatan Wajah dan Penanganan Noda Air Mata</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+    Di pagi hari, bersihkan lipatan wajah dan area bawah mata secara lembut dengan kasa steril untuk mencegah dermatitis ragi merah.
   </p>
 </div>
 
@@ -86,7 +87,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Siang: Menyikat Bulu Panjang dengan Slicker dan Sisir Besi</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+    Fokus pada area yang mudah kusut seperti ketiak dan perut. Gunakan slicker untuk mengurai kusut, lalu gunakan sisir besi untuk merapikan bulu.
   </p>
 </div>
 
@@ -96,7 +97,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Malam: Pemberian Obat Hairball dan Pemeriksaan Dispenser Air</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+    Berikan pasta hairball untuk mencegah penyumbatan usus akibat bulu yang tertelan, dan periksa dispenser air untuk mendorong hidrasi.
   </p>
 </div>
 
@@ -105,7 +106,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Cukup dengan mengamati sinyal penenang hewan peliharaan Anda, Anda dapat mencegah masalah perilaku utama dan penyakit akibat stres. Meskipun perawatan medis penting, menyediakan lingkungan yang aman (tangga ramah hewan, ruang vertikal, beberapa sumber air) adalah pelindung terkuat untuk mendukung kebahagiaan seumur hidup mereka.
     </p>
   </div>
 </div>
@@ -123,7 +124,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Bulu Persia tipis dan lebat. Melewatkan menyikat 2-3 hari menyebabkan kusut parah yang menarik kulit, menyebabkan rasa sakit dan harus dicukur.
     </p>
   </details>
 
@@ -133,7 +134,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Kucing berwajah rata memiliki lipatan dalam di sekitar hidung. Air mata yang terperangkap memicu infeksi bakteri dan ragi, menyebabkan bau tidak sedap.
     </p>
   </details>
 </div>

@@ -1,11 +1,11 @@
 ---
 title: "Teori Umum yang Ditulis di Bawah Selimut: Kebiasaan Kerja Pagi di Tempat Tidur John Maynard Keynes dan Aktivasi CAR"
 description: "Pelajari bagaimana makroekonom John Maynard Keynes, yang menaklukkan Depresi Besar, menulis naskah di tempat tidur selama dua jam setelah bangun tidur. Temukan neurosains dari Cortisol Awakening Response (CAR) dan rutinitas pagi 3 langkah."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-08"
+updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: ["Teori Umum","Routine"]
-heroImage: "/images/blog/keynes_morning_bed_work.png"
+tags: ["집중", "생산성", "성공습관"]
+heroImage: "/images/blog/keynes_morning_bed_work.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Biografi *John Maynard Keynes* karya Robert Skidelsky, Arsip Keynes & Penelitian Neurosains Kognitif serta Sains Neuromuskular"

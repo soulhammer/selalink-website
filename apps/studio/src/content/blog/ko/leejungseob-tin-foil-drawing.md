@@ -1,11 +1,11 @@
 ---
 title: "결핍을 이겨낸 몰입: 이중섭의 은지화 드로잉 루틴과 체성감각 피질 자극"
 description: "화가 이중섭이 극한의 빈곤 속에서도 담뱃갑 은박지에 그림을 그리며 예술적 끈을 놓지 않은 집중법. 거친 금속박 표면을 긁는 촉각 자극이 체성감각 피질을 활성화하고 다중 감각 피드백으로 마인드풀니스를 유도하는 뇌과학적 원리와 3단계 실천 가이드를 규명합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-14"
+updatedDate: "2026-03-14"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/leejungseob_tin_foil_drawing.png"
+tags: ["위인 습관", "이중섭", "은지화 드로잉", "몰입 루틴", "촉각 자극", "마인드풀니스"]
+heroImage: "/images/blog/leejungseob_tin_foil_drawing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "이중섭 평전 및 국립현대미술관 아카이브 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 미술치료학(Art Therapy) 연구"

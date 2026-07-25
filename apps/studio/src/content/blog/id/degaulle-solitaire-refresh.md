@@ -1,11 +1,11 @@
 ---
 title: "Permainan Kartu Solitaire di Kantor Kepresidenan: Rutinitas Reduksi Kelelahan Keputusan ala Charles de Gaulle"
 description: "Pelajari bagaimana Presiden Prancis Charles de Gaulle melepaskan kelelahan dari urusan negara yang berisiko tinggi dengan bermain kartu solitaire. Temukan neurosains kognitif tentang bagaimana pencocokan pola non-verbal menonaktifkan filter pengambilan keputusan prefrontal."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-28"
+updatedDate: "2026-03-28"
 category: "BuildSelf"
-tags: ["Permainan ","Routine"]
-heroImage: "/images/blog/degaulle_solitaire_refresh.png"
+tags: ["위인 습관", "샤를 드 골", "솔리테어", "의사결정 피로", "두뇌 이완"]
+heroImage: "/images/blog/degaulle_solitaire_refresh.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Memoar Charles de Gaulle *War Memoirs (Mémoires de guerre)* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

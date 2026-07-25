@@ -1,11 +1,11 @@
 ---
 title: "富兰克林·D·罗斯福的“集邮分类”：在重压下拯救大脑的认知放松习惯与模拟睡眠法"
 description: "深入剖析罗斯福总统在战争与经济危机的高压下，每晚通过整理邮票抚平大脑紧张情绪的习惯。揭示助益深度睡眠与舒缓压力的认知放松原理与神经科学机制。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-02"
+updatedDate: "2026-07-02"
 category: "BuildSelf"
-tags: ["富兰克林·D·罗斯福","Routine"]
-heroImage: "/images/blog/fdr_stamp_collecting.png"
+tags: ["위인 습관", "루스벨트", "스트레스 해소", "휴식 루틴", "취침 전 습관"]
+heroImage: "/images/blog/fdr_stamp_collecting.webp"
 app: "buildself"
 formatVersion: 4
 authority: "富兰克林·D·罗斯福传记与罗斯福总统图书馆（FDR Presidential Library）史料考证及认知神经科学（Cognitive Neuroscience）研究"

@@ -1,11 +1,11 @@
 ---
 title: "Penguasaan Multibahasa Cleopatra: Kebiasaan Dialog Intelektual yang Menguasai Dunia Tanpa Penerjemah"
 description: "Pelajari bagaimana Ratu Mesir Cleopatra secara fasih menguasai setidaknya sembilan bahasa tanpa penerjemah, serta temukan neurosains kognitif tentang stimulasi area Broca dan Wernicke, peningkatan densitas substansia grisea, dan fleksibilitas kognitif prefrontal."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-03"
+updatedDate: "2026-03-03"
 category: "BuildSelf"
-tags: ["Penguasaan","Routine"]
-heroImage: "/images/blog/cleopatra_multilingual_study.png"
+tags: ["위인 습관", "클레오파트라", "언어 공부", "인지 유연성", "뇌 가소성"]
+heroImage: "/images/blog/cleopatra_multilingual_study.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari *Parallel Lives* karya Plutarch & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

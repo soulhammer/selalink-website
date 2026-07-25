@@ -1,11 +1,11 @@
 ---
 title: "ベッドに横たわり青い色鉛筆で書く：ジェイムズ・ジョイスのエネルギー保存執筆ルーティンと一次視覚皮質（V1）疲労緩和"
 description: "深刻な眼疾患の中でもベッドに横たわり巨大な文学的傑作を残したジェイムズ・ジョイス。感覚疲労を最小限に抑え身体の重力負荷を減らして前頭前野へと脳エネルギーを効率的に分配する科学と3段階実践法を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-10"
+updatedDate: "2026-04-10"
 category: "BuildSelf"
-tags: ["ベッドに横たわり青い","Routine"]
-heroImage: "/images/blog/joyce_bed_writing.png"
+tags: ["위인 습관", "휴식"]
+heroImage: "/images/blog/joyce_bed_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ジェイムズ・ジョイス評伝およびリチャード・エルマン（Richard Ellmann）伝記史料『ジェイムズ・ジョイス（James Joyce）』考証＆認知神経科学（Cognitive Neuroscience）および視知覚（Visual Perception）研究"

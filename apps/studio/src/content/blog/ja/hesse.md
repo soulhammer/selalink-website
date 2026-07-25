@@ -1,11 +1,11 @@
 ---
 title: "田舎の庭の土を手入れし雑草を抜き風の音に沈潜したヘッセの自然思索法とDMNリラクセーションルーティン"
 description: "ノーベル文学賞受賞者であり森と自然を愛した平和主義作家ヘルマン・ヘッセ。毎日庭の土に触れ枝を手入れしながら神経衰弱と深い不安の情動を整えた、アナログ庭師のルーティンと脳科学的原理を探求します。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-16"
+updatedDate: "2026-02-16"
 category: "BuildSelf"
-tags: ["田舎の庭の土を手入れ","Routine"]
-heroImage: "/images/blog/hesse.png"
+tags: ["위인 습관", "헤르만 헤세", "휴식", "성찰"]
+heroImage: "/images/blog/hesse.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ヘルマン・ヘッセのエッセイ『庭仕事の喜び（Freude am Garten）』および書簡集考証＆認知神経科学（Cognitive Neuroscience）および環境心理学（Environmental Psychology）研究"

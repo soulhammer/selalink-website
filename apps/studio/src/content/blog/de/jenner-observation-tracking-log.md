@@ -1,11 +1,11 @@
 ---
 title: "Der Vater der Impfung, der die Pocken besiegte: Edward Jenners Feldbeobachtungs-Routine und die Neurowissenschaften von Grit"
 description: "Erfahren Sie, wie der Landarzt Edward Jenner die Pockenimpfung erfand, indem er jahrelang Beobachtungstagebücher in Bauernhöfen führte. Entdecken Sie die Neurowissenschaften prozessorientierter Dopamin-Belohnungssysteme und präfrontaler Ausdauer (Grit)."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-14"
+updatedDate: "2026-07-14"
 category: "BuildSelf"
-tags: ["Der Vater ","Routine"]
-heroImage: "/images/blog/jenner_observation_tracking_log.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/jenner_observation_tracking_log.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Edward Jenners Abhandlung *An Inquiry into the Causes and Effects of the Variolae Vaccinae* (1798), Archiven der Royal Society & Forschung der kognitiven Neurowissenschaften und Medizin geschichte"

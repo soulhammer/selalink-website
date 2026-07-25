@@ -1,11 +1,11 @@
 ---
 title: "타인의 보폭을 복제하는 거울의 시선: 찰리 채플린의 신체 미러링과 인간 분석 루틴"
 description: "무성영화 시대를 지배한 거장 찰리 채플린이 길거리 낯선 이들의 걸음걸이와 동작을 관찰하고 미러링했던 루틴. 전운동 피질의 거울 뉴런(Mirror Neurons)을 활성화하여 신체 지도를 확장하고 타인 공감 능력을 극대화하는 신경과학적 원리를 밝힙니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-01"
+updatedDate: "2026-03-01"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/charlie_chaplin.png"
+tags: ["위인 습관", "찰리 채플린", "창의성", "사색"]
+heroImage: "/images/blog/charlie_chaplin.webp"
 app: "buildself"
 formatVersion: 4
 authority: "찰리 채플린 자서전 『찰리 채플린 자서전(My Autobiography)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

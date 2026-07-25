@@ -1,11 +1,11 @@
 ---
 title: "托马斯·阿奎那的多重口述法：将工作记忆发挥到极致以攻克复杂难题"
 description: "中世纪伟大的神学家托马斯·阿奎那同时向3~4名秘书口述不同主题的文稿，在不失逻辑脉络的情况下拓展工作记忆，敬请探索其背后的秘诀。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-09"
+updatedDate: "2026-03-09"
 category: "BuildSelf"
-tags: ["托马斯·阿奎那的多重","Routine"]
-heroImage: "/images/blog/aquinas_multi_dictation.png"
+tags: ["집중력", "구술대필", "작업기억", "중세"]
+heroImage: "/images/blog/aquinas_multi_dictation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "贝内德托·吉（Bernard of Gui）《托马斯·阿奎那传》历史考证与认知神经科学（Cognitive Neuroscience）研究"

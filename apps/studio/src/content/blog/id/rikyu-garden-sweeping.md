@@ -1,11 +1,11 @@
 ---
 title: "마음의 먼지를 쓰는 아침: 센노 리큐의 정원 청소 루틴"
 description: "다도의 거장 센노 리큐가 정원을 쓸어내며 마음을 닦아낸 일화. 단순 반복 동작을 통해 뇌의 인지 노이즈를 걷어내는 동적 명상의 인지과학적 원리를 설명합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-12"
+updatedDate: "2026-06-12"
 category: "BuildSelf"
-tags: ["마음의 먼지를 쓰는","Routine"]
-heroImage: "/images/blog/rikyu_garden_sweeping.png"
+tags: ["위인 습관", "센노 리큐", "정원 청소", "동적 명상", "인지 노이즈", "마음챙김"]
+heroImage: "/images/blog/rikyu_garden_sweeping.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Rikyu Garden Sweeping 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

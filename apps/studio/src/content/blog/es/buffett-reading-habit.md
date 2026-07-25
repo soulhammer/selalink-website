@@ -1,11 +1,11 @@
 ---
 title: "El Efecto Compuesto del Conocimiento: El Hábito de Lectura de 500 Páginas Diarias de Warren Buffett y la Reserva Cognitiva"
 description: "Explore el secreto fundamental del éxito de Warren Buffett, leer 500 páginas al día, y descubra la neurociencia cognitiva tras el fortalecimiento de las redes neuronales, la acumulación de reserva cognitiva y el reconocimiento acelerado de patrones."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-10"
+updatedDate: "2026-06-10"
 category: "BuildSelf"
-tags: ["El Efecto ","Routine"]
-heroImage: "/images/blog/buffett_reading_habit.png"
+tags: ["위인 습관", "워런 버핏", "독서", "투자", "성공습관", "학습"]
+heroImage: "/images/blog/buffett_reading_habit.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la Biografía de Alice Schroeder *La bola de nieve (The Snowball: Warren Buffett and the Business of Life)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"

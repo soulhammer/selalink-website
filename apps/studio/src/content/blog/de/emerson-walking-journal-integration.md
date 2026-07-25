@@ -1,11 +1,11 @@
 ---
 title: "Das Duett aus Divergenz und Konvergenz: Ralph Waldo Emersons Spaziergangs-Notizen und nächtliche Journal-Routine"
 description: "Erfahren Sie, wie der amerikanische Denker Ralph Waldo Emerson flüchtige Ideen durch die Verbindung von Tagesnotizen beim Gehen (divergentes Denken) und nächtlicher Journalführung (konvergentes Denken) in ein philosophisches System verwandelte."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-02"
+updatedDate: "2026-06-02"
 category: "BuildSelf"
-tags: ["Das Duett ","Routine"]
-heroImage: "/images/blog/emerson_walking_journal_integration.png"
+tags: ["사색", "휴식", "기록"]
+heroImage: "/images/blog/emerson_walking_journal_integration.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus *The Journals of Ralph Waldo Emerson* & Forschung der kognitiven Neurowissenschaften"

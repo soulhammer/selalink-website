@@ -1,11 +1,11 @@
 ---
 title: "O Entusiasmo da Alvorada: A Rotina de Café da Manhã Familiar às 5h e Caminhada do Presidente Ju-Yung Chung"
 description: "Descubra como o fundador do Grupo Hyundai, Ju-Yung Chung, manteve a rotina de acordar às 4h e tomar café da manhã em família. Explore os princípios neurocientíficos da atividade aeróbica matinal e do vínculo emocional para estabilizar o cortisol."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-12"
+updatedDate: "2026-06-12"
 category: "BuildSelf"
-tags: ["O Entusias","Routine"]
-heroImage: "/images/blog/chung_dawn_breakfast.png"
+tags: ["위인 습관", "정주영", "의지력", "계획", "시간 관리"]
+heroImage: "/images/blog/chung_dawn_breakfast.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica da Autobiografia de Ju-Yung Chung *Provações Sim, Derrotas Não (Born of this Land)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)"

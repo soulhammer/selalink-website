@@ -4,7 +4,7 @@ description: "Discover how 17th-century polymath Robert Hooke discovered the fir
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["Great Habits","hooke","Routine","Stamina"]
+tags: ["위습관","루틴"]
 heroImage: "/images/blog/hooke_microscopic_sketching.png"
 app: "buildself"
 formatVersion: 4

@@ -1,11 +1,11 @@
 ---
 title: "O Grande Começo do Mestre: A Rotina Diária de Roteiro de 2 Páginas de Akira Kurosawa e Estabilização da Amígdala"
 description: "Descubra como o lendário diretor Akira Kurosawa criou obras-primas escrevendo 2 páginas de roteiro todos os dias. Explore a neurociência dos micro-objetivos, a supressão da resposta de ameaça da amígdala e um guia de 3 passos."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["O Grande C","Routine"]
-heroImage: "/images/blog/kurosawa_page_writing.png"
+tags: ["위인 습관", "아키라 구로사와", "미세 목표", "인지 부하", "실천력", "창의성"]
+heroImage: "/images/blog/kurosawa_page_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica das Memórias de Akira Kurosawa *Algo Parecido com uma Autobiografia*, Arquivos de Kurosawa e Pesquisa em Neurociência Cognitiva e Psicologia Comportamental"

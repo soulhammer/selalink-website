@@ -1,11 +1,11 @@
 ---
 title: "Irama Kesabaran dan Ketenangan: Rutinitas Memotong dan Memburu Herbal Tokugawa Ieyasu dan Regulasi Serotonin"
 description: "Pelajari metode kultivasi mental Tokugawa Ieyasu. Temukan bagaimana rutinitas harian menumbuk obat herbal menggunakan lumpang memicu manfaat gerakan berirama, mengaktifkan serotonin, dan menenangkan amigdala."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-01"
+updatedDate: "2026-04-01"
 category: "BuildSelf"
-tags: ["Irama Kesa","Routine"]
-heroImage: "/images/blog/ieyasu_herb_grinding.png"
+tags: ["위인 습관", "도쿠가와 이에야스", "생약 조제", "리듬 운동", "인내력", "마인드컨트롤"]
+heroImage: "/images/blog/ieyasu_herb_grinding.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Biografi Tokugawa Ieyasu, Arsip Museum Seni Tokugawa & Penelitian Neurosains Kognitif"

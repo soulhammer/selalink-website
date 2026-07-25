@@ -1,11 +1,11 @@
 ---
 title: "Escribir de Pie con Sombrero Justo Después de Caminar: El Hábito de Captura Inmediata y Calentamiento Cognitivo de Søren Kierkegaard"
 description: "Descubra cómo el filósofo existencialista Søren Kierkegaard preservaba sus ideas escribiendo de pie en escritorios altos justo después de caminar, sin quitarse el sombrero ni el abrigo. Explore la neurociencia del calentamiento cognitivo y la memoria de trabajo."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-08"
+updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: ["Escribir d","Routine"]
-heroImage: "/images/blog/kierkegaard_standing_write.png"
+tags: ["위인 습관", "쇠렌 키르케고르", "기록", "스탠딩데스크", "영감"]
+heroImage: "/images/blog/kierkegaard_standing_write.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de los *Diarios de Søren Kierkegaard*, Biografía de Joakim Garff e Investigación en Neurociencia Cognitiva"

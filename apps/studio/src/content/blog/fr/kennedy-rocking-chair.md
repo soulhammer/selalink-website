@@ -1,11 +1,11 @@
 ---
 title: "Le fauteuil basculant du Bureau ovale : La gestion des douleurs spinales de John F. Kennedy et la relaxation vestibulaire"
 description: "Découvrez comment John F. Kennedy a dirigé les États-Unis pendant la guerre froide tout en affrontant de vives douleurs vertébrales grâce au fauteuil basculant du Bureau ovale. Explorez la neuroscience de la stimulation vestibulaire et l'activation parasympathique."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-10"
+updatedDate: "2026-02-10"
 category: "BuildSelf"
-tags: ["Le fauteui","Routine"]
-heroImage: "/images/blog/kennedy_rocking_chair.png"
+tags: ["위인 습관", "존 F. 케네디", "스트레스 해소", "척추 건강", "휴식"]
+heroImage: "/images/blog/kennedy_rocking_chair.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de la Bibliothèque présidentielle John F. Kennedy, des archives du Dr Janet Travell & de la Recherche en Neurosciences Cognitives et Orthopédie"

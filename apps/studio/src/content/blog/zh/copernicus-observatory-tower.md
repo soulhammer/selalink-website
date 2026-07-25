@@ -1,11 +1,11 @@
 ---
 title: "矗立不摇的观测塔：哥白尼的固定场所专注法与环境条件反射"
 description: "探索通过日心说改写宇宙范式的哥白尼几十年如一日坚守弗罗姆堡固定观测塔的习惯，揭示将特定空间与单一工作绑定时如何缩短大脑预热时间并拉动情境依赖记忆的认知神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["矗立不摇的观测塔：哥","Routine"]
-heroImage: "/images/blog/copernicus_observatory_tower.png"
+tags: ["위인 습관", "니콜라우스 코페르니쿠스", "집중", "계획", "생산성"]
+heroImage: "/images/blog/copernicus_observatory_tower.webp"
 app: "buildself"
 formatVersion: 4
 authority: "尼古拉·哥白尼《天体运行论（De revolutionibus orbium coelestium）》考证与认知神经科学（Cognitive Neuroscience）研究"

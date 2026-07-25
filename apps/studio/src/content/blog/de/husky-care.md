@@ -15,23 +15,28 @@ faqs:
   - question: "Hilft das Scheren des Fells meinem Husky, im Sommer kühl zu bleiben?"
     answer: "Nein. Das doppelte Fell wirkt als Isolierung gegen Hitze und UV-Strahlen. Scheren zerstört die Wärmeregulierung und erhöht das Hitzschlag-Risiko. Regelmäßiges Bürsten ist die einzige Methode."
 ---
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+
+Sibirische Huskies sind bekannt für ihr wolfsähnliches Aussehen und ihre Geschichte als Schlittenhunde. Sie besitzen eine unerschöpfliche Ausdauer und einen starken Rudelinstinkt. 🐕
+
+Ihre polare Herkunft macht sie jedoch sehr hitzeempfindlich, was im Sommer zu Hitzschlägen führen kann. Zudem führt mangelnde Auslastung zu Frust, den sie durch Jaulen oder Zerstörungswut äußern.
+
+Heute entschlüsselt PetSelf die Körpersprache des Huskies und stellt eine 3-Schritte-Routine für doppeltes Fell und Bewegung vor.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Veterinärmedizinische & verhaltensbedingte Nachweise
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Dieser Inhalt basiert auf <strong>Leitfaden des Siberian Husky Club of America und IAABC-Aktivitätsprotokolle für Arbeitshunde</strong>.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+    🐾 Sibirischer Husky Rasseprofil
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Lebenserwartung</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 15 Jahre</span></div>
@@ -42,7 +47,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
 
 ## 1. Körpersprache des Huskies: Jaulen aus Langeweile und Pfote auflegen
 
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+Huskies behalten Rudelgewohnheiten bei und drücken sich aktiv aus. Zu den Signalen gehören Jaulen und Pfote auflegen. Ein langes Jaulen kommuniziert Langeweile und den Wunsch nach Bewegung. Das Auflegen der Pfote bei Blickkontakt ist eine Aufforderung zum Gehen. Lenken Sie die Energie um.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -76,7 +81,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Morgen: Anlegen des Y-Geschirrs und Zugkraftprüfung</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+    Huskies haben einen starken Zugtrieb. Legen Sie ein Y-Geschirr an, um Druck auf die Luftröhre zu verhindern, und prüfen Sie den Gleichschritt.
   </p>
 </div>
 
@@ -86,7 +91,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Nachmittag: Kühlmatten-Bereitstellung und intensives Ausbürsten des Unterfells</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+    Hitzeempfindlich, Innenräume kühl halten. Verwenden Sie eine Slicker-Bürste und einen Knorpelrechen, um das dichte Fell auszubürsten und Hitze abzuführen.
   </p>
 </div>
 
@@ -96,7 +101,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Abend: 1-stündige Spaziergangsprüfung und langlebiges Kauspielzeug</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+    Sichern Sie mindestens 1 Stunde Auslauf. Um nächtliches Jaulen zu vermeiden, stellen Sie ein langlebiges Kauspielzeug bereit.
   </p>
 </div>
 
@@ -105,7 +110,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Das einfache Beobachten der Beschwichtigungssignale Ihres Haustiers kann schwerwiegende Verhaltensprobleme und stressbedingte Krankheiten verhindern. Während eine tierärztliche Behandlung wichtig ist, ist eine sichere Umgebung (Treppen, vertikale Räume, mehrere Wasserstellen) der stärkste Schutz für ihr lebenslanges Glück.
     </p>
   </div>
 </div>
@@ -123,7 +128,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Sie sind Arbeitshunde mit enormer Ausdauer. Kombinieren Sie Joggen oder Wandern. Nutzen Sie im Haus Denkspiele und Kauspielzeuge, um die Kiefermuskeln auszulasten.
     </p>
   </details>
 
@@ -133,7 +138,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Nein. Das doppelte Fell wirkt als Isolierung gegen Hitze und UV-Strahlen. Scheren zerstört die Wärmeregulierung und erhöht das Hitzschlag-Risiko. Regelmäßiges Bürsten ist die einzige Methode.
     </p>
   </details>
 </div>

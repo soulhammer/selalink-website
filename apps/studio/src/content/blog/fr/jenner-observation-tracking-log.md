@@ -1,11 +1,11 @@
 ---
 title: "Le père de la vaccination qui a vaincu la variole : La routine de journal de terrain et la neuroscience du Grit d'Edward Jenner"
 description: "Découvrez comment le médecin de campagne Edward Jenner a conçu le vaccin contre la variole en accumulant des années de notes de terrain. Explorez la neuroscience des circuits de récompense dopaminergiques axés sur le processus et la ténacité préfrontale (Grit)."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-14"
+updatedDate: "2026-07-14"
 category: "BuildSelf"
-tags: ["Le père de","Routine"]
-heroImage: "/images/blog/jenner_observation_tracking_log.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/jenner_observation_tracking_log.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue du traité d'Edward Jenner *Recherche sur les causes et effets de la variole vaccine* (1798), des archives de la Royal Society & de la Recherche en Neurosciences Cognitives et Histoire de la Médecine"

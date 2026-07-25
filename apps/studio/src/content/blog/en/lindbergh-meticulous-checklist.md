@@ -1,11 +1,11 @@
 ---
 title: "Eliminating Human Cognitive Errors to Zero: Charles Lindbergh's Checklist Execution Routine and Working Memory Protection"
 description: "Discover how aviation hero Charles Lindbergh completed the first solo transatlantic flight by relying on written checklists to eliminate cognitive errors. Explore prefrontal cortex working memory protection, preventing omission errors, physical pointing verification, and a 3-step practice guide."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-25"
+updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["Great Habits","lindbergh","Routine","Stamina"]
-heroImage: "/images/blog/lindbergh_meticulous_checklist.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/lindbergh_meticulous_checklist.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Charles Lindbergh's Pulitzer-Winning Autobiography *The Spirit of St. Louis* (1953), Aviation Archives & Cognitive Neuroscience and Human Factors Engineering Research"

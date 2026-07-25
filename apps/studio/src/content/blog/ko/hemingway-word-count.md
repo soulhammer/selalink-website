@@ -1,11 +1,11 @@
 ---
 title: "매일 쓴 단어 수를 차트에 기록하며 스스로를 모니터링하기: 어네스트 헤밍웨이의 정량적 집필 차트와 도파민 보상 루틴"
 description: "노벨상 수상 작가 어네스트 헤밍웨이가 매일 아침 자신의 글쓰기 단어 수를 차트에 기록했던 습관. 자기관찰(Self-Monitoring) 효과와 도파민 보상 회로, 전전두엽 활성화의 뇌과학적 원리를 탐구합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-05"
+updatedDate: "2026-02-05"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/hemingway_word_count.png"
+tags: ["위인 습관", "헤밍웨이", "글쓰기", "생산성", "자기관찰"]
+heroImage: "/images/blog/hemingway_word_count.webp"
 app: "buildself"
 formatVersion: 4
 authority: "어네스트 헤밍웨이 회고록 『파리는 날마다 축제(A Moveable Feast)』 및 조지 플림프턴 인터뷰(Paris Review, 1958) 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

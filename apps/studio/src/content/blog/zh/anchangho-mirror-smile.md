@@ -1,11 +1,11 @@
 ---
 title: "唤醒积极大脑回路的力量：岛山安昌浩的镜前微笑与清洁惯例"
 description: "独立运动家岛山安昌浩所强调的“微笑”与“清洁”之力。探索强颜欢笑促进大脑分泌血清素以及整洁空间减轻视觉认知负荷的科学原因。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-19"
+updatedDate: "2026-01-19"
 category: "BuildSelf"
-tags: ["唤醒积极大脑回路的力","Routine"]
-heroImage: "/images/blog/anchangho_mirror_smile.png"
+tags: ["위인 습관", "도산 안창호", "거울 미소", "청결", "마인드컨트롤", "자기계발"]
+heroImage: "/images/blog/anchangho_mirror_smile.webp"
 app: "buildself"
 formatVersion: 4
 authority: "岛山安昌浩评传及兴士团（Hung Sah Dahn）记录考证与认知神经科学（Cognitive Neuroscience）研究"

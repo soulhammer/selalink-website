@@ -1,11 +1,11 @@
 ---
 title: "옷깃의 보풀과 눈동자의 떨림: 안톤 체호프의 미세 관찰과 선택적 주의집중"
 description: "근대 단편소설의 거장 안톤 체호프가 대합실과 카페에서 행인들의 미세 디테일을 수첩에 정밀 기록했던 관찰 루틴. 미세 선택적 주의집중(Micro Selective Attention)이 인지 분해능을 높이고 대뇌 피질 각성을 유도하는 신경과학적 원리를 밝힙니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-12"
+updatedDate: "2026-01-12"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/chekhov.png"
+tags: ["위인 습관", "안톤 체호프", "기록", "메모"]
+heroImage: "/images/blog/chekhov.webp"
 app: "buildself"
 formatVersion: 4
 authority: "E. H. 카 평전 『체호프 평전(Anton Chekhov: A Critical Study)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

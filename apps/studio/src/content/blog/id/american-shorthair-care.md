@@ -15,23 +15,24 @@ faqs:
   - question: "Bagaimana cara efektif mencegah obesitas pada American Shorthair?"
     answer: "Pemberian makan porsi teratur dan bermain aktif setiap hari sangat penting. Jangan biarkan makanan selalu tersedia di wadah makan."
 ---
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+
+Dikenal dengan pola silver tabby yang indah dan tubuh berototnya, American Shorthair adalah teman yang tenang dan penyayang. Namun, sifat santainya sering kali memicu kemalasan dan obesitas, yang membebani jantungnya. Trah ini juga memiliki kerentanan genetik terhadap Kardiomiopati Hipertrofik (HCM). Hari ini, PetSelf mengulas tanda darurat jantung kucing dan menyajikan rutinitas 3 langkah.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Bukti Dokter Hewan & Perilaku
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Konten ini didasarkan pada <strong>Standar Ras American Shorthair CFA & Studi Cornell Feline Health Center</strong>.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+    🐾 American Shorthair Profil Utama
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Rata-rata Umur</span><span class="font-bold text-slate-800 dark:text-slate-200">15 ~ 20 tahun</span></div>
@@ -42,7 +43,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
 
 ## 1. Bahasa Tubuh American Shorthair: Beban Jantung Berlebih dan Bernapas Lewat Mulut
 
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+Kucing jarang terengah-engah. Jika American Shorthair bernapas dengan 'mulut terbuka' atau 'cepat lelah' saat bermain sebentar, itu adalah peringatan beban jantung. Deteksi dini dapat menyelamatkan nyawanya.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -76,7 +77,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pagi: Pemberian Makan Porsi Terukur untuk Cegah Obesitas</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+    Hindari free-feeding. Bagi kebutuhan kalori harian mereka menjadi porsi terukur untuk mencegah kenaikan berat badan.
   </p>
 </div>
 
@@ -86,7 +87,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Siang: Bermain Interaktif & Sesi Pembakaran Kalori</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+    Lakukan sesi bermain selama 15 menit menggunakan mainan bulu atau laser pointer sebanyak dua kali sehari.
   </p>
 </div>
 
@@ -96,7 +97,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Malam: Menyikat Bulu Mingguan untuk Cegah Hairball</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+    Meskipun berbulu pendek, sikat bulu tebal mereka satu hingga dua kali seminggu untuk mencegah muntah hairball.
   </p>
 </div>
 
@@ -105,7 +106,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Cukup dengan mengamati sinyal penenang hewan peliharaan Anda, Anda dapat mencegah masalah perilaku utama dan penyakit akibat stres. Meskipun perawatan medis penting, menyediakan lingkungan yang aman (tangga ramah hewan, ruang vertikal, beberapa sumber air) adalah pelindung terkuat untuk mendukung kebahagiaan seumur hidup mereka.
     </p>
   </div>
 </div>
@@ -123,7 +124,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Ini adalah kondisi genetik di mana otot jantung menebal sehingga efisiensi pompa jantung menurun. Skrining USG jantung tahunan sangat dianjurkan.
     </p>
   </details>
 
@@ -133,7 +134,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Pemberian makan porsi teratur dan bermain aktif setiap hari sangat penting. Jangan biarkan makanan selalu tersedia di wadah makan.
     </p>
   </details>
 </div>

@@ -4,7 +4,7 @@ description: "19世紀のコンピュータの父チャールズ・バベッジ�
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["チャールズ・バベッジ","Routine"]
+tags: ["위습관","루틴"]
 heroImage: "/images/blog/babbage_difference_engine.png"
 app: "buildself"
 formatVersion: 4

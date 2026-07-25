@@ -1,11 +1,11 @@
 ---
 title: "漫步巴塞罗那4公里的巨匠：安东尼·高迪的创造性散步法与有机建筑灵感习惯"
 description: "深度剖析天才建筑师安东尼·高迪每天漫步巴塞罗那4公里、将自然界结构无缝移植于建筑中的散步习惯。揭示通过步行激发创意的神经科学与环境心理学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-13"
+updatedDate: "2026-04-13"
 category: "BuildSelf"
-tags: ["漫步巴塞罗那4公里的","Routine"]
-heroImage: "/images/blog/gaudi_nature_walk.png"
+tags: ["위인 습관", "안토니 가우디", "창의성", "산책", "영감"]
+heroImage: "/images/blog/gaudi_nature_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "希斯·范·亨斯伯根传记《高迪传（Gaudí: The Biography）》考证及认知神经科学（Cognitive Neuroscience）与环境心理学（Environmental Psychology）研究"

@@ -1,11 +1,11 @@
 ---
 title: "The Engine Behind 500 Volumes in Exile: Dasan Jeong Yak-yong's Selective Transcription, Letter-Writing, and Cognitive Encoding Routine"
 description: "Discover how Joseon's greatest Silhak scholar, Dasan Jeong Yak-yong, authored over 500 volumes during his 18-year exile through 'Choseo' (selective transcription) and letter-writing to his sons. Explore the neuroscience of graphomotor cognitive encoding and metacognitive integration."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-01"
+updatedDate: "2026-02-01"
 category: "BuildSelf"
-tags: ["Great Habits","jeong","Routine","Stamina"]
-heroImage: "/images/blog/jeong_yakyong_transcription.png"
+tags: ["위인 습관", "정약용", "초서독서", "메타인지", "지식구조화"]
+heroImage: "/images/blog/jeong_yakyong_transcription.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Dasan Jeong Yak-yong's Collected Works *Yeoyudang Jeonseo*, Autobiography *Saam Yeonbo* & Cognitive Neuroscience and Metacognition Research"

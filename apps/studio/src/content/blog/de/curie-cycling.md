@@ -1,11 +1,11 @@
 ---
 title: "Das Geheimnis zur Überwindung des Radium-Forschungsstresses: Marie Curies abendliches Radfahren und BDNF-Induktion"
 description: "Erkunden Sie, wie Marie Curie, die erste Nobelpreisträgerin und einzige Person mit Nobelpreisen in zwei Fachgebieten, ihr Gehirn vor Forschungsstress schützte. Entdecken Sie die kognitiven Neurowissenschaften der BDNF-Ausschüttung und präfrontalen Sauerstoffversorgung durch abendliches Radfahren."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-28"
+updatedDate: "2026-02-28"
 category: "BuildSelf"
-tags: ["Das Geheim","Routine"]
-heroImage: "/images/blog/curie_cycling.png"
+tags: ["위인 습관", "마리 퀴리", "자전거", "휴식", "스트레스"]
+heroImage: "/images/blog/curie_cycling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Ève Curies Biografie *Madame Curie* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

@@ -1,11 +1,11 @@
 ---
 title: "将整个地球视为有机体的大探险家：亚历山大·冯·洪堡的现场观察记录习惯与实时工作记忆同步"
 description: "探索现代生态学与地理学之父亚历山大·冯·洪堡如何在攀登南美洲钦博拉索山的严酷探险现场，将气压与植物数据即时誊录于手记中、进而缔造《宇宙（Kosmos）》的认知精细化习惯与3步骤实践指南。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-04"
+updatedDate: "2026-02-04"
 category: "BuildSelf"
-tags: ["将整个地球视为有机体","Routine"]
-heroImage: "/images/blog/humboldt_nature_journaling.png"
+tags: ["위인 습관", "Routine"]
+heroImage: "/images/blog/humboldt_nature_journaling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "安德烈娅·伍尔夫《自然的发明（The Invention of Nature）》与洪堡《宇宙》档案考证及认知神经科学（Cognitive Neuroscience）与生态学（Ecology）研究"

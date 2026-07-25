@@ -1,11 +1,11 @@
 ---
 title: "刻敕令于岩石并自我省察的征服王？阿育王的每日伦理省察惯例"
 description: "印度孔雀王朝的阿育王。探索他在反思甲林罕战争惨状后立起石柱敕令、每天省察自我伦理的“外部锚定”惯例与3步骤实践法。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-04"
+updatedDate: "2026-06-04"
 category: "BuildSelf"
-tags: ["刻敕令于岩石并自我省","Routine"]
-heroImage: "/images/blog/ashoka_edict_inscribed_reflection.png"
+tags: ["위인 습관", "Routine"]
+heroImage: "/images/blog/ashoka_edict_inscribed_reflection.webp"
 app: "buildself"
 formatVersion: 4
 authority: "阿育王摩崖与石柱敕令（Edicts of Ashoka）考证与认知神经科学（Cognitive Neuroscience）研究"

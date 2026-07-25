@@ -1,11 +1,11 @@
 ---
 title: "La Precisión de 60 Granos de Café: El Ritual Matutino de Café y Mindfulness de Beethoven"
 description: "Descubra el hábito único de Ludwig van Beethoven, quien contaba exactamente 60 granos de café cada mañana, y explore el mecanismo neurocientífico donde el control sensorial fino calma la Red por Defecto (DMN) y activa el enfoque mental."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-14"
+updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: ["La Precisi","Routine"]
-heroImage: "/images/blog/beethoven_coffee_ritual.png"
+tags: ["위인 습관", "베토벤", "아침루틴", "커피", "마인드풀니스"]
+heroImage: "/images/blog/beethoven_coffee_ritual.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la Biografía de Anton Schindler *Biografía de Ludwig van Beethoven* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"

@@ -1,11 +1,11 @@
 ---
 title: "카페 소음 속의 철학? 사르트르의 지정석 집중과 시간 분할 루틴"
 description: "프랑스의 실존주의 철학자 장 폴 사르트르는 소란스러운 파리의 카페 지정석에서 아침과 오후 시간을 철저히 분할해 집필했습니다. 환경적 인지 앵커링 효과를 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-02"
+updatedDate: "2026-06-02"
 category: "BuildSelf"
-tags: ["Great Habits","sartre","Routine","Stamina"]
-heroImage: "/images/blog/sartre_cafe_writing.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/sartre_cafe_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "사르트르 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

@@ -1,11 +1,11 @@
 ---
 title: "Immersion Overcoming Deprivation: Lee Jung-seob's Tin Foil Drawing Routine and Somatosensory Activation"
 description: "Discover how painter Lee Jung-seob maintained artistic focus amidst severe poverty by engraving on cigarette box tin foil (Eunjihwa). Explore the neuroscience of multisensory feedback, somatosensory cortex engagement, mindfulness through tactile friction, and a 3-step practice guide."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-14"
+updatedDate: "2026-03-14"
 category: "BuildSelf"
-tags: ["Great Habits","leejungseob","Routine","Stamina"]
-heroImage: "/images/blog/leejungseob_tin_foil_drawing.png"
+tags: ["위인 습관", "이중섭", "은지화 드로잉", "몰입 루틴", "촉각 자극", "마인드풀니스"]
+heroImage: "/images/blog/leejungseob_tin_foil_drawing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Lee Jung-seob Biographies, National Museum of Modern and Contemporary Art (MMCA) Archives & Cognitive Neuroscience and Art Therapy Research"

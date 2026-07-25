@@ -1,11 +1,11 @@
 ---
 title: "Die Geometrie des Lichts ergreifen: Paul Cézannes Routine der morgendlichen Naturlichtbeobachtung und SCN-Aktivierung"
 description: "Entdecken Sie, wie Paul Cézanne, der Vater der modernen Kunst, täglich um 6 Uhr morgens zum Mont Sainte-Victoire ging, um Licht und Form zu beobachten, und erkunden Sie die neurowissenschaftlichen Prinzipien der Morgenlicht-Stimulation auf den SCN."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-06"
+updatedDate: "2026-04-06"
 category: "BuildSelf"
-tags: ["Die Geomet","Routine"]
-heroImage: "/images/blog/cezanne_dawn_mountain_observation.png"
+tags: ["사색", "휴식", "창의성"]
+heroImage: "/images/blog/cezanne_dawn_mountain_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Alex Danchevs Biografie *Cézanne: A Life* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

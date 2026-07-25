@@ -1,11 +1,11 @@
 ---
 title: "하루를 두 번으로 쪼개어 쓴 총리: 윈스턴 처칠의 오후 낮잠과 아데노신 청소 루틴"
 description: "2차 세계대전 승리를 이끈 영국의 총리 윈스턴 처칠이 매일 오후 침대에 누워 취했던 낮잠 루틴. 축적된 피로 물질 아데노신(Adenosine)을 해소하고 수면 관성 없이 대뇌 각성을 복구하는 파워 냅(Power Nap)의 인지신경과학적 원리를 밝힙니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-24"
+updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/churchill_afternoon_nap.png"
+tags: ["위인 습관", "윈스턴 처칠", "낮잠", "휴식", "에너지"]
+heroImage: "/images/blog/churchill_afternoon_nap.webp"
 app: "buildself"
 formatVersion: 4
 authority: "마틴 길버트 평전 『윈스턴 처칠 평전(Winston S. Churchill)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

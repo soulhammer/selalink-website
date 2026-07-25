@@ -1,11 +1,11 @@
 ---
 title: "Saudari-Saudari yang Mengelilingi Meja Makan Malam: Diskusi Berjalan dan Metode Kreasi Neuron Cermin ala Charlotte Brontë"
 description: "Pelajari rutinitas Charlotte Brontë, penulis 'Jane Eyre', yang mengelilingi meja makan bersama saudara-saudaranya setiap malam untuk mengkritik karakter dan alur cerita, serta temukan mekanisme neurosains yang menggabungkan berjalan kaki dengan sistem neuron cermin untuk mencegah tunnel vision."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-14"
+updatedDate: "2026-05-14"
 category: "BuildSelf"
-tags: ["Saudari-Sa","Routine"]
-heroImage: "/images/blog/bronte_table_walking.png"
+tags: ["위인 습관", "샬롯브론테", "보행토론", "창의성걷기", "협업창작"]
+heroImage: "/images/blog/bronte_table_walking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Biografi Elizabeth Gaskell *The Life of Charlotte Brontë* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

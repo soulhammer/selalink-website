@@ -1,11 +1,11 @@
 ---
 title: "Melacak Jumlah Kata Harian di Grafik Kemajuan: Rutinitas Grafik Penulisan Kuantitatif dan Imbalan Dopamin Ernest Hemingway"
 description: "Pelajari bagaimana peraih Nobel Ernest Hemingway melacak jumlah kata harian di grafik dinding. Temukan neurosains pemantauan diri (self-monitoring), sirkuit imbalan dopamin, dan aktivasi korteks prefrontal."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-05"
+updatedDate: "2026-02-05"
 category: "BuildSelf"
-tags: ["Melacak Ju","Routine"]
-heroImage: "/images/blog/hemingway_word_count.png"
+tags: ["위인 습관", "헤밍웨이", "글쓰기", "생산성", "자기관찰"]
+heroImage: "/images/blog/hemingway_word_count.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari *A Moveable Feast* karya Ernest Hemingway, Wawancara George Plimpton (*Paris Review*, 1958) & Penelitian Neurosains Kognitif"

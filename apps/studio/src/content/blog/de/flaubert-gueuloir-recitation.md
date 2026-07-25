@@ -1,11 +1,11 @@
 ---
 title: "Der Klang perfekter Sätze: Gustave Flauberts 'Gueuloir'-Rezitationsgewohnheit und auditive Feedback-Routine"
 description: "Erfahren Sie, wie der Schriftsteller Gustave Flaubert, besessen von 'le mot juste' (dem exakten Wort), stilistische Perfektion erreichte. Entdecken Sie die Neurowissenschaften des 'Gueuloir', der dualen Kodierung und des auditiven Feedbacks."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-20"
+updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: ["Der Klang ","Routine"]
-heroImage: "/images/blog/flaubert_gueuloir_recitation.png"
+tags: ["글쓰기", "창의성", "기록"]
+heroImage: "/images/blog/flaubert_gueuloir_recitation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Gustave Flauberts *Correspondance*, literarischen Biografien & Forschung der kognitiven Neurowissenschaften"

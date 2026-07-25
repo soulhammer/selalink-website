@@ -1,11 +1,11 @@
 ---
 title: "黑泽明的大师之始：每日2页剧本写作习惯与平抚杏仁核应激指南"
 description: "探索享誉世界的电影大师黑泽明如何通过每日撰写2页剧本创制影史名篇。揭示微目标（Micro-Goal）策略、降解杏仁核威胁警报、唤醒前额叶皮层执掌功能的神经科学原理与3步骤指南。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["黑泽明的大师之始：每","Routine"]
-heroImage: "/images/blog/kurosawa_page_writing.png"
+tags: ["위인 습관", "아키라 구로사와", "미세 목표", "인지 부하", "실천력", "창의성"]
+heroImage: "/images/blog/kurosawa_page_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "黑泽明自传《蛤蟆的油（Something Like an Autobiography）》与黑泽明档案考证及认知神经科学（Cognitive Neuroscience）与行为心理学（Behavioral Psychology）研究"

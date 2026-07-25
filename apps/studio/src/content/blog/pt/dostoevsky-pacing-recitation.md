@@ -1,11 +1,11 @@
 ---
 title: "A Voz a Ecoar no Quarto: A Rotina de Recitação em Marcha e Ditado de Fiódor Dostoiévski"
 description: "Descubra como Fiódor Dostoiévski, autor de 'Crime e Castigo', percorria seu quarto interpretando diálogos antes de ditá-los. Explore a neurociência cognitiva da estimulação do córtex motor, áreas de Broca e Wernicke e neurônios-espelho."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-25"
+updatedDate: "2026-05-25"
 category: "BuildSelf"
-tags: ["A Voz a Ec","Routine"]
-heroImage: "/images/blog/dostoevsky_pacing_recitation.png"
+tags: ["위인 습관", "표도르 도스토옙스키", "창의성", "기록", "공부"]
+heroImage: "/images/blog/dostoevsky_pacing_recitation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica das Memórias de Anna Dostoiévskaia *Memórias (Reminiscences)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)"

@@ -1,11 +1,11 @@
 ---
 title: "성공적인 결정을 만드는 비결? 버락 오바마의 의사결정 단순화 루틴"
 description: "미국 제44대 대통령 버락 오바마가 재임 시절 실천한 의사결정 단순화 루틴. 전두엽의 결정 피로를 줄여 중대 업무 효율을 극대화하는 3단계 비결을 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-06"
+updatedDate: "2026-01-06"
 category: "BuildSelf"
-tags: ["Great Habits","obama","Routine","Stamina"]
-heroImage: "/images/blog/obama_decision_simplification.png"
+tags: ["위인 습관", "버락 오바마", "의사결정", "생산성", "자기관리", "루틴"]
+heroImage: "/images/blog/obama_decision_simplification.webp"
 app: "buildself"
 formatVersion: 4
 authority: "버락 오바마 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

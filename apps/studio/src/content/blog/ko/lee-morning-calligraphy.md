@@ -1,11 +1,11 @@
 ---
 title: "붓끝에 담은 경영 철학: 이병철의 아침 서예 의식과 일차 운동 피질 각성"
 description: "삼성을 창업한 이병철 회장이 매일 아침 거르지 않았던 붓글씨 명상. 정교한 붓의 스트로크를 다루는 미세 운동 조작이 뇌파를 안정시키고 전전두엽의 이성적 집행 기능을 일깨우는 뇌과학적 원리와 3단계 실천법을 조명합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-25"
+updatedDate: "2026-05-25"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/lee_morning_calligraphy.png"
+tags: ["위인 습관", "이병철", "집중", "마인드셋", "의지력"]
+heroImage: "/images/blog/lee_morning_calligraphy.webp"
 app: "buildself"
 formatVersion: 4
 authority: "호암 자서전 『호암자전(湖岩自傳)』 및 삼성그룹 아카이브 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 운동제어학(Motor Control Science) 연구"

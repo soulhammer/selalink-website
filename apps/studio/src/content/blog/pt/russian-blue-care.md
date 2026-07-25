@@ -16,23 +16,23 @@ faqs:
     answer: "Abaixe o corpo e evite o contato visual direto, o qual os felinos veem como ameaça. Deixe-o cheirar seu dedo primeiro e recompense a aproximação com petiscos."
 ---
 
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+Os Azuis Rusos são felinos conhecidos por sua pelagem azul prateada e olhos verdes. Embora silenciosos e leais à sua família, são geneticamente tímidos e sensíveis a ruídos fortes. 🐱 É por isso que se escondem rapidamente quando há visitas ou soa o aspirador. Forçá-los a sair causa pânico. Hoje, o PetSelf detalha como criar um espaço seguro com uma rotina de 3 passos.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+      Evidência Veterinária e Comportamental
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+      Este conteúdo baseia-se em <strong>Guia de raças da Cat Fanciers' Association (CFA) e Cornell Feline Health Center</strong>.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+    🐾 Azul Russo Perfil principal
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Vida útil média</span><span class="font-bold text-slate-800 dark:text-slate-200">15 ~ 20 anos</span></div>
@@ -43,7 +43,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
 
 ## 1. Linguagem corporal do Azul Russo: leitura dos sinais de pânico
 
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+Devido à sua natureza gentil, os Azuis Rusos mostram sinais de alerta em silêncio. Os sinais de pânico principais incluem 'pupilas dilatadas' e 'encolher-se' (crouching). Se houver um ruído ou aproximação de estranho, suas pupilas se dilatam. Se achatar o corpo contra o chão e deitar as orelhas para os lados, está com medo extremo.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -77,7 +77,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Manhã: Rotina de segurança no caixote de areia e comedouro</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+    Limpe o caixote de areia cedo. Certifique-se de que os pratos de comida e água estejam em um canto silencioso longe da passagem.
   </p>
 </div>
 
@@ -87,7 +87,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: Manutenção do refúgio seguro em locais altos</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+    Confirme que a cabana fechada do arranhador esteja sempre acessível. Isso lhe dá um refúgio elevado diante de ruídos ou visitas.
   </p>
 </div>
 
@@ -97,7 +97,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noite: Cheiro de mão não intrusivo e contato suave</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+    Em vez de se aproximar diretamente para pegá-lo, estenda seu dedo indicador ao nível dele. Deixe-o cheirar sua mão primeiro para iniciar o contato.
   </p>
 </div>
 
@@ -106,7 +106,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+      Observar simplesmente os sinais de calma do seu animal de estimação pode prevenir grandes problemas comportamentais e doenças induzidas pelo estresse. Embora o tratamento veterinário seja importante, proporcionar um ambiente seguro (degraus, espaços verticais, múltiplas fontes de água) é o escudo mais forte para apoiar a sua felicidade ao longo da vida.
     </p>
   </div>
 </div>
@@ -124,7 +124,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+      De forma alguma. Forçá-lo a sair da zona de segurança causará pânico e prejudicará a confiança dele em você. Deixe-o escondido até que as visitas vão embora.
     </p>
   </details>
 
@@ -134,7 +134,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+      Abaixe o corpo e evite o contato visual direto, o qual os felinos veem como ameaça. Deixe-o cheirar seu dedo primeiro e recompense a aproximação com petiscos.
     </p>
   </details>
 </div>

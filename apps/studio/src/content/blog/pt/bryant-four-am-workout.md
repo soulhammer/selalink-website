@@ -1,11 +1,11 @@
 ---
 title: "Milagre às 4h da Manhã: A Rotina de Treinamento Mamba de Kobe Bryant"
 description: "Descubra como o ícone do basquete Kobe Bryant iniciava seu primeiro treino às 4h da manhã diariamente, e explore os princípios neurocientíficos e fisiológicos de como os treinos matinais regulares fixam o ritmo circadiano e elevam o desempenho ao pico."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-19"
+updatedDate: "2026-01-19"
 category: "BuildSelf"
-tags: ["Milagre às","Routine"]
-heroImage: "/images/blog/bryant_four_am_workout.png"
+tags: ["위인 습관", "코비 브라이언트", "성장", "의지력", "신체활성"]
+heroImage: "/images/blog/bryant_four_am_workout.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica da Autobiografia de Kobe Bryant *Mentalidade Mamba: Como eu jogo (The Mamba Mentality: How I Play)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)"

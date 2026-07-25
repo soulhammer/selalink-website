@@ -1,11 +1,11 @@
 ---
 title: "生産ラインを歩きながら革新を描いた自動車の王：ヘンリー・フォードの図式フロースケッチ法と認知オフローディングルーティン"
 description: "自動車生産のコンベアベルトシステムを発明したヘンリー・フォード。毎朝組立工場の機械の動きを滑らかに追跡し、手帳にアナログ図式で記録して前頭葉の負荷を減らした彼の脳科学的スケッチルーティンと視覚的追跡原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-23"
+updatedDate: "2026-06-23"
 category: "BuildSelf"
-tags: ["生産ラインを歩きなが","Routine"]
-heroImage: "/images/blog/ford_line_walking.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/ford_line_walking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ヘンリー・フォード自伝『我が生涯と事業（My Life and Work）』および歴史評伝考証＆認知神経科学（Cognitive Neuroscience）研究"

@@ -1,11 +1,11 @@
 ---
 title: "Der Philosoph, der alte Notizen in unter einer Minute fand: John Lockes Sudelbuch-Indexierung und assoziatives Gedächtnis"
 description: "Erfahren Sie, wie der Empiriker John Locke sein Wissen durch ein Vokal-Raster-System ordnete. Entdecken Sie die Neurowissenschaften assoziativer Gedächtnisnetzwerke, die Verringerung semantischer Distanzen, die Entlastung des präfrontalen Kortex und eine 3-Schritte-Anleitung."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-19"
+updatedDate: "2026-03-19"
 category: "BuildSelf"
-tags: ["Der Philos","Routine"]
-heroImage: "/images/blog/locke_commonplace_book.png"
+tags: ["1분 안에 과거의 ","Routine"]
+heroImage: "/images/blog/locke_commonplace_book.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus John Lockes Abhandlung *A New Method of a Commonplace-Book* (1686), Locke-Archiven & Forschung der kognitiven Neurowissenschaften und Psychologie"

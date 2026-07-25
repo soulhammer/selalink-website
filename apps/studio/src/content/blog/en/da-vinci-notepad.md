@@ -1,11 +1,11 @@
 ---
 title: "The Genius Who Always Wore a Notebook at His Waist: Leonardo da Vinci's Instant Note-Taking and Working Memory Externalization"
 description: "Discover how Renaissance polymath Leonardo da Vinci kept a leather-bound notebook tied to his waist to instantly record observations and ideas. Explore the cognitive neuroscience of externalizing working memory to clear cognitive load."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-29"
+updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: ["Great Habits","da","Routine","Stamina"]
-heroImage: "/images/blog/da_vinci_notepad.png"
+tags: ["위인 습관", "레오나르도 다 빈치", "메모", "기록", "창의성"]
+heroImage: "/images/blog/da_vinci_notepad.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Walter Isaacson's Biography *Leonardo da Vinci* & Cognitive Neuroscience Research"

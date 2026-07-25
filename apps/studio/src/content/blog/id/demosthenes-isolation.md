@@ -1,11 +1,11 @@
 ---
 title: "Orator yang Mencukur Separuh Kepalanya: Rutinitas Kontrol Lingkungan Ekstrem dan Perangkat Komitmen ala Demosthenes"
 description: "Pelajari bagaimana Demosthenes, orator ulung Yunani kuno, mengatasi keterbatasan fisik dengan mencukur separuh kepalanya dan mengisolasi diri di gua. Temukan neurosains kognitif tentang bagaimana Perangkat Komitmen melindungi fungsi eksekutif korteks prefrontal."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-28"
+updatedDate: "2026-01-28"
 category: "BuildSelf"
-tags: ["Orator yan","Routine"]
-heroImage: "/images/blog/demosthenes_isolation.png"
+tags: ["위인 습관", "데모스테네스", "몰입", "환경통제", "의지력"]
+heroImage: "/images/blog/demosthenes_isolation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari *Parallel Lives (Kisah Demosthenes)* karya Plutarch & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

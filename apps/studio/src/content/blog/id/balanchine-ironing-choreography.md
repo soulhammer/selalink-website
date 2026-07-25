@@ -1,11 +1,11 @@
 ---
 title: "Tarian Alam Bawah Sadar: Metode Koreografi George Balanchine Melalui Pekerjaan Rumah Tangga Sederhana"
 description: "Pelajari bagaimana koreografer George Balanchine melakukan pekerjaan rumah tangga yang sederhana dan berulang seperti menyetrika saat mengalami kebuntuan kreatif, serta temukan mekanisme saraf di mana aktivitas fisik ringan mematikan sensor prefrontal untuk mengaktifkan Default Mode Network (DMN)."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-01"
+updatedDate: "2026-04-01"
 category: "BuildSelf"
-tags: ["Tarian Ala","Routine"]
-heroImage: "/images/blog/balanchine_ironing_choreography.png"
+tags: ["위인 습관", "조지 발란신", "창의성", "사색", "이완", "루틴"]
+heroImage: "/images/blog/balanchine_ironing_choreography.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Biografi George Balanchine *By George Balanchine* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

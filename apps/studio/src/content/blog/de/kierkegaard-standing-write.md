@@ -1,11 +1,11 @@
 ---
 title: "Direkt nach dem Spaziergang mit Hut im Stehen schreiben: Søren Kierkegaards Sofort-Erfassungs-Routine und kognitives Aufwärmen"
 description: "Erfahren Sie, wie der Existenzphilosoph Søren Kierkegaard flüchtige Gedanken bewahrte, indem er direkt nach Spaziergängen mit Hut und Mantel an Stehpulten schrieb. Entdecken Sie die Neurowissenschaften von kognitivem Aufwärmen und Arbeitsgedächtnis."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-08"
+updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: ["Direkt nac","Routine"]
-heroImage: "/images/blog/kierkegaard_standing_write.png"
+tags: ["위인 습관", "쇠렌 키르케고르", "기록", "스탠딩데스크", "영감"]
+heroImage: "/images/blog/kierkegaard_standing_write.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus den *Tagebüchern von Søren Kierkegaard*, Joakim Garffs Biografie & Forschung der kognitiven Neurowissenschaften"

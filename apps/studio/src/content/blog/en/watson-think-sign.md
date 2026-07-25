@@ -1,11 +1,11 @@
 ---
 title: "IBM을 만든 한 단어: 토마스 왓슨의 15분 침묵 사색 루틴"
 description: "사무실마다 'THINK' 팻말을 걸고 하루 15분 조용히 생각에 빠진 IBM 창업자 토마스 왓슨의 사색법. 의도적인 단절이 뇌의 장기 기억을 정리하는 원리를 설명합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-19"
+updatedDate: "2026-04-19"
 category: "BuildSelf"
-tags: ["Great Habits","watson","Routine","Stamina"]
-heroImage: "/images/blog/watson_think_sign.png"
+tags: ["위인 습관", "토마스 왓슨", "사색", "의사결정", "단순화"]
+heroImage: "/images/blog/watson_think_sign.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Watson Think Sign 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

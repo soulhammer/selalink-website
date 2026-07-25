@@ -1,11 +1,11 @@
 ---
 title: "El Genio que Dormía la Siesta con Bolas de Acero: La Técnica de Hipnagogia de Thomas Edison y su Rutina de Creatividad"
 description: "Descubra la legendaria rutina de siesta con bolas de acero de Thomas Edison para superar bloqueos creativos. Explore la neurociencia cognitiva de la hipnagogia (fase N1 del sueño) y la captura inmediata de ideas."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-02"
+updatedDate: "2026-04-02"
 category: "BuildSelf"
-tags: ["El Genio q","Routine"]
-heroImage: "/images/blog/edison_nap.png"
+tags: ["위인 습관", "토마스 에디슨", "창의성", "낮잠", "영감"]
+heroImage: "/images/blog/edison_nap.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la Biografía de Paul Israel *Edison: A Life of Invention*, Archivos del Parque Histórico Nacional Thomas Edison e Investigación en Neurociencia Cognitiva"

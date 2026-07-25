@@ -1,11 +1,11 @@
 ---
 title: "Eliminando Corsés y Adornos Recargados: El Corte Minimalista Esencial de Coco Chanel y el Filtrado de Supresión Prefrontal"
 description: "Descubra cómo la legendaria diseñadora Coco Chanel revolucionó la moda femenina drapeando tela sobre modelos en vivo y cortando corsés y adornos. Explore la neurociencia cognitiva del Filtrado de Supresión Prefrontal para eliminar el ruido y aislar la esencia."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-17"
+updatedDate: "2026-05-17"
 category: "BuildSelf"
-tags: ["Eliminando","Routine"]
-heroImage: "/images/blog/coco_chanel.png"
+tags: ["위인 습관", "코코 샤넬", "의사결정", "생산성"]
+heroImage: "/images/blog/coco_chanel.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la Biografía de Edmonde Charles-Roux *Chanel y su mundo (Chanel and Her World)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"

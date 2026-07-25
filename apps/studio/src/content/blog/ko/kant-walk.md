@@ -1,11 +1,11 @@
 ---
 title: "쾨니히스베르크의 시계: 임마누엘 칸트의 매일 오후 3시 30분 산책과 일주기 리듬 정밀화"
 description: "근대 철학의 거장 임마누엘 칸트. 이웃들이 보고 시계를 맞췄을 정도로 정확했던 그의 일정한 산책 루틴 속에 숨겨진 뇌과학적 이점과 시상하부 상교차핵(SCN) 자극, 코 호흡(Nasal Breathing)의 원리 및 3단계 실천법을 소개합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-18"
+updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/kant_walk.png"
+tags: ["위인 습관", "임마누엘 칸트", "산책", "규율", "휴식"]
+heroImage: "/images/blog/kant_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "맨프레드 퀸 『칸트 평전(Kant: A Biography)』 사료 고증 & 뇌신경과학(Brain Research) 및 인지신경과학(Cognitive Neuroscience) 연구"

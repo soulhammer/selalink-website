@@ -4,8 +4,8 @@ description: "Johann Sebastian Bach a incarné des règles mathématiques tout a
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["Un maître ","Routine"]
-heroImage: "/images/blog/bach_pattern_transcription.png"
+tags: ["위인 습관", "바흐", "필사", "손글씨", "학습법"]
+heroImage: "/images/blog/bach_pattern_transcription.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de *La vie, l'art et les œuvres de Johann Sebastian Bach (1802)* de Johann Nikolaus Forkel & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

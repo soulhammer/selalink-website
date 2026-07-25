@@ -1,11 +1,11 @@
 ---
 title: "Afinando el Alma: La Rutina Matutina del Preludio de Bach y la Inducción de Ondas Alfa de Pablo Casals"
 description: "Descubra cómo el legendario violonchelista Pablo Casals comenzó cada mañana durante más de 80 años tocando El clave bien temperado de Bach, y explore los mecanismos neurocientíficos de cómo el arrastre musical activa las ondas alfa y equilibra el sistema nervioso autónomo."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-24"
+updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: ["Afinando e","Routine"]
-heroImage: "/images/blog/casals_bach_prelude.png"
+tags: ["위인 습관", "파블로 카살스", "안정", "명상", "창의성", "루틴"]
+heroImage: "/images/blog/casals_bach_prelude.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la Autobiografía de Pablo Casals *Alegrías y penas (Joys and Sorrows: Reflections by Pablo Casals)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"

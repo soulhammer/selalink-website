@@ -1,11 +1,11 @@
 ---
 title: "在乡村花园修土拔草并沉浸于风声中的海瑟自然沉思法与DMN放松习惯"
 description: "探索荣获诺贝尔文学奖、热爱森林与自然的和平主义作家赫尔曼·黑塞如何通过每日触摸花园泥土与修剪枝桠来平息神经衰弱与深度焦虑。剖析其模拟园丁习惯背后的神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-16"
+updatedDate: "2026-02-16"
 category: "BuildSelf"
-tags: ["在乡村花园修土拔草并","Routine"]
-heroImage: "/images/blog/hesse.png"
+tags: ["위인 습관", "헤르만 헤세", "휴식", "성찰"]
+heroImage: "/images/blog/hesse.webp"
 app: "buildself"
 formatVersion: 4
 authority: "赫尔曼·黑塞散文集《园艺的乐趣（Freude am Garten）》与书信集考证及认知神经科学（Cognitive Neuroscience）与环境心理学（Environmental Psychology）研究"

@@ -1,11 +1,11 @@
 ---
 title: "A Week of Disconnection: Bill Gates's 'Think Week' and Silent Deep Work"
 description: "Explore Bill Gates's cottage isolation reading routine, 'Think Week', which propelled Microsoft's massive leaps forward, and uncover the neuroscientific principles of eliminating attention residue and maximizing long-term brain insight through total sensory control."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-08"
+updatedDate: "2026-01-08"
 category: "BuildSelf"
-tags: ["Great Habits","bill","Routine","Stamina"]
-heroImage: "/images/blog/bill_gates_think_week.png"
+tags: ["위인 습관", "빌 게이츠", "집중력", "사색", "독서"]
+heroImage: "/images/blog/bill_gates_think_week.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Walter Isaacson's Biography & Microsoft Archives & Cognitive Neuroscience Research"

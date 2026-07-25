@@ -16,23 +16,23 @@ faqs:
     answer: "A cauda armazena reservas de gordura. O emagrecimento rápido indica anorexia, estresse ou parasitas e exige veterinário ARAV."
 ---
 
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+O Gecko Leopardo é o réptil de estimação mais querido do mundo. Conforme a ARAV, por ser um animal ectotérmico, manter um gradiente térmico adequado (Zona Quente 30°C ~ 32°C / Zona Fria 24°C ~ 26°C) e umidade na toca de muda é essencial.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+      Evidência Veterinária e Comportamental
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+      Este conteúdo baseia-se em <strong>Associação de Veterinários de Répteis e Anfíbios (ARAV)</strong>.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+    🐾 Gecko Leopardo (Leopard Gecko) Perfil principal
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Vida útil média</span><span class="font-bold text-slate-800 dark:text-slate-200">15 - 20 anos</span></div>
@@ -43,7 +43,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
 
 ## 1. Linguagem Corporal: Balanço da Cauda e Mudança de Pele
 
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+Sua cauda armazena gordura e serve de comunicação. Diferenciar o balanço lento de defesa do balanço rápido de caça evita estresse.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -77,7 +77,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Manhã: Checagem Térmica e Umedecer Toca</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+    Verifique a temperatura do aquecedor (30°C ~ 32°C) e borrife água na toca úmida.
   </p>
 </div>
 
@@ -87,7 +87,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: Ambiente Calmo e Escuro para Descanso</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+    Evite luzes fortes e ruídos à tarde para respeitar o sono noturno.
   </p>
 </div>
 
@@ -97,7 +97,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noite: Alimentação com Cálcio via Pinça e Limpeza</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+    Alimente com insetos polvilhados com cálcio e limpe as fezes do substrato.
   </p>
 </div>
 
@@ -106,7 +106,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+      Observar simplesmente os sinais de calma do seu animal de estimação pode prevenir grandes problemas comportamentais e doenças induzidas pelo estresse. Embora o tratamento veterinário seja importante, proporcionar um ambiente seguro (degraus, espaços verticais, múltiplas fontes de água) é o escudo mais forte para apoiar a sua felicidade ao longo da vida.
     </p>
   </div>
 </div>
@@ -124,7 +124,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+      A pele presa pode causar necrose dos dedos. Faça um banho morno (30°C) por 5 minutos e remova a pele com um cotonete úmido.
     </p>
   </details>
 
@@ -134,7 +134,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+      A cauda armazena reservas de gordura. O emagrecimento rápido indica anorexia, estresse ou parasitas e exige veterinário ARAV.
     </p>
   </details>
 </div>

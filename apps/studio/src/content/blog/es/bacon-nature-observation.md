@@ -1,11 +1,11 @@
 ---
 title: "El Paseo Matutino por el Jardín de Francis Bacon: Cómo Reiniciar la Fatiga Cerebral Mediante la Observación de la Naturaleza"
 description: "Descubra cómo Francis Bacon, maestro del empirismo, paseaba por su jardín cada mañana para observar las plantas y el clima, aliviando la fatiga cerebral y estableciendo su filosofía inductiva."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-04"
+updatedDate: "2026-01-04"
 category: "BuildSelf"
-tags: ["El Paseo M","Routine"]
-heroImage: "/images/blog/bacon_nature_observation.png"
+tags: ["산책", "자연관찰", "경험론", "근세"]
+heroImage: "/images/blog/bacon_nature_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica del Ensayo *De los Jardines (Of Gardens)* de Francis Bacon e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"

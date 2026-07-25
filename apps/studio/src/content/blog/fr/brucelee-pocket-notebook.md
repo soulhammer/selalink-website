@@ -1,11 +1,11 @@
 ---
 title: "Chasser l'inspiration fugace : La routine de capture immédiate au carnet de poche de Bruce Lee"
 description: "Découvrez comment l'artiste martial et icône du cinéma du XXe siècle Bruce Lee gardait un carnet de poche pour capturer ses réflexions philosophiques et concepts d'arts martiaux en temps réel, et explorez les mécanismes cognitifs de stimulation du SRA."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-06"
+updatedDate: "2026-04-06"
 category: "BuildSelf"
-tags: ["Chasser l'","Routine"]
-heroImage: "/images/blog/brucelee_pocket_notebook.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/brucelee_pocket_notebook.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de la biographie de John Little *Bruce Lee : Artiste de la vie (Bruce Lee: Artist of Life)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

@@ -1,11 +1,11 @@
 ---
 title: "흔들리지 않는 신념의 중심: 잔 다르크의 아침 침묵 루틴과 편도체 안정화"
 description: "프랑스의 구국 성녀 잔 다르크. 백년전쟁의 소용돌이와 죽음의 공포 속에서도 불굴의 투지를 지켜낸 비결인 '아침 침묵 기도'의 신경심리학적 안정 효과, 편도체 감쇠 및 3단계 정렬 루틴을 소개합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-12"
+updatedDate: "2026-02-12"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/joan_silent_reflection.png"
+tags: ["위인 습관", "잔다르크", "침묵명상", "신념정렬", "멘탈회복"]
+heroImage: "/images/blog/joan_silent_reflection.webp"
 app: "buildself"
 formatVersion: 4
 authority: "잔 다르크 재판 기록사료(Procès de Condamnation et de Réhabilitation) 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

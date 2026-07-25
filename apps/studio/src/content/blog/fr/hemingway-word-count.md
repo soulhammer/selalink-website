@@ -1,11 +1,11 @@
 ---
 title: "Consigner le nombre de mots quotidien sur un graphique : La routine de tableau quantitatif et de récompense dopaminergique d'Ernest Hemingway"
 description: "Découvrez comment le prix Nobel Ernest Hemingway consignait son nombre de mots quotidien sur un tableau mural. Explorez la neuroscience de l'auto-contrôle, des circuits de récompense dopaminergique et de l'activation préfrontale."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-05"
+updatedDate: "2026-02-05"
 category: "BuildSelf"
-tags: ["Consigner ","Routine"]
-heroImage: "/images/blog/hemingway_word_count.png"
+tags: ["위인 습관", "헤밍웨이", "글쓰기", "생산성", "자기관찰"]
+heroImage: "/images/blog/hemingway_word_count.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de *Paris est une fête (A Moveable Feast)* d'Ernest Hemingway, de l'entretien de George Plimpton (*Paris Review*, 1958) & de la Recherche en Neurosciences Cognitives"

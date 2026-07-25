@@ -1,11 +1,11 @@
 ---
 title: "압박감을 지우는 법: 마이클 펠프스의 2시간 전 초인지 루틴"
 description: "올림픽 최다 금메달리스트 마이클 펠프스가 시합 직전 수행한 초정밀 행동 루틴. 완벽히 통제된 절차가 뇌의 극단적인 긴장과 불안을 예방하는 과학적 원리를 다룹니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-14"
+updatedDate: "2026-03-14"
 category: "BuildSelf"
-tags: ["압박감을 지우는 법","Routine"]
-heroImage: "/images/blog/phelps_pre_race_routine.png"
+tags: ["위인 습관", "마이클 펠프스", "몰입", "안정", "성공습관"]
+heroImage: "/images/blog/phelps_pre_race_routine.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Phelps Pre Race Routine 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

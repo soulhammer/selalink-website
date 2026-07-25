@@ -1,11 +1,11 @@
 ---
 title: "Buchstabieren auf der Handfläche in der Dunkelheit: Helen Kellers taktiles Imitationstraining und somatosensorische Plastizitätsroutine"
 description: "Erfahren Sie, wie Helen Keller, die trotz Taubblindheit eine weltberühmte Autorin und Menschenrechtsaktivistin wurde, ihr inneres Universum erweiterte, indem sie ihren somatosensorischen Kortex durch taktiles Buchstabieren auf der Handfläche stimulierte."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-12"
+updatedDate: "2026-03-12"
 category: "BuildSelf"
-tags: ["Buchstabie","Routine"]
-heroImage: "/images/blog/helen_keller.png"
+tags: ["위인 습관", "헬렌 켈러", "휴식", "성찰"]
+heroImage: "/images/blog/helen_keller.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Helen Kellers Autobiografie *Die Geschichte meines Lebens (The Story of My Life)*, Archiven der Perkins School for the Blind & Forschung der kognitiven Neurowissenschaften"

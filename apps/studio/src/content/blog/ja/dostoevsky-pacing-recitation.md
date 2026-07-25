@@ -1,11 +1,11 @@
 ---
 title: "部屋を巡る声：ドストエフスキーの彷徨いと口述執筆法および運動-言語皮質結合"
 description: "『罪と罰』の著者ドストエフスキーが部屋の中を彷徨いながら台詞を直接演じたルーティン。身体運動（Pacing）と口頭認知（Oral Cognition）が運動皮質、ブローカ・ウェルニッケ野、鏡ニューロンを活性化する認知神経科学的原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-25"
+updatedDate: "2026-05-25"
 category: "BuildSelf"
-tags: ["部屋を巡る声：ドスト","Routine"]
-heroImage: "/images/blog/dostoevsky_pacing_recitation.png"
+tags: ["위인 습관", "표도르 도스토옙스키", "창의성", "기록", "공부"]
+heroImage: "/images/blog/dostoevsky_pacing_recitation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "アンナ・ドストエフスカヤ回顧録『Reminiscences（ドストエフスキー回想録）』考証＆認知神経科学（Cognitive Neuroscience）研究"

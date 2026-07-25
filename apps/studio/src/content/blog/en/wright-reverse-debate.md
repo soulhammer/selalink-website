@@ -1,11 +1,11 @@
 ---
 title: "서로의 입장을 바꿔 토론한 발명가? 라이트 형제의 역방향 토론법"
 description: "최초의 동력 비행기를 발명한 라이트 형제. 난관을 돌파하기 위해 서로의 주장을 바꾸어 공격했던 그들의 메타인지 토론법과 현대적 실천법을 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-04"
+updatedDate: "2026-03-04"
 category: "BuildSelf"
-tags: ["Great Habits","wright","Routine","Stamina"]
-heroImage: "/images/blog/wright_reverse_debate.png"
+tags: ["위인 습관", "라이트 형제", "의지력", "공부", "메타인지"]
+heroImage: "/images/blog/wright_reverse_debate.webp"
 app: "buildself"
 formatVersion: 4
 authority: "라이트 형제 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

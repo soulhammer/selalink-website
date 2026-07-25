@@ -1,11 +1,11 @@
 ---
 title: "Jangan Ganggu Saat Bantal Ditegakkan: Sinyal Fokus Louisa May Alcott"
 description: "Memperkenalkan 'Mood Pillow' (bantal suasana hati), sinyal fokus yang digunakan oleh Louisa May Alcott, penulis 'Little Women'. Simak panduan 3 langkah untuk mengurangi biaya peralihan kognitif dengan memblokir gangguan di sekitar Anda."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["Jangan Gan","Routine"]
-heroImage: "/images/blog/alcott_mood_ribbon.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/alcott_mood_ribbon.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Louisa May Alcott, *Her Life, Letters, and Journals* (1889) & Penelitian *Journal of Personality and Social Psychology*"

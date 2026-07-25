@@ -1,11 +1,11 @@
 ---
 title: "Imersão no Ruído: A Rotina de Ruído Branco em Cafés e Simplificação Ambiental de Simone de Beauvoir"
 description: "Descubra a rotina de escrita que a filósofa existencialista e romancista Simone de Beauvoir praticava diariamente em seu café favorito em Paris com uma xícara de chá, e explore os mecanismos neurológicos do ruído branco suave junto com métodos para construir sua própria Zona de Foco."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-08"
+updatedDate: "2026-06-08"
 category: "BuildSelf"
-tags: ["Imersão no","Routine"]
-heroImage: "/images/blog/beauvoir_cafe_writing.png"
+tags: ["매일 같은 카페에서","Routine"]
+heroImage: "/images/blog/beauvoir_cafe_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica da Autobiografia de Simone de Beauvoir *A Força das Coisas (La Force des choses)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)"

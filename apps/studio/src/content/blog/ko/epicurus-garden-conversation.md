@@ -1,11 +1,11 @@
 ---
 title: "소박한 정원에서의 지적 연대: 에피쿠로스의 대화 및 검소한 식사 습관과 마음 평정법"
 description: "아테네 외곽에 '정원'을 짓고 소수의 벗들과 검소한 식사를 나누며 깊은 사색을 공유한 에피쿠로스. 사회적 과시를 배제하고 안전한 유대관계 속에서 대화를 나누는 습관이 체내 옥시토신과 세로토닌을 자극해 고차원적 행복을 느끼게 하는 메커니즘을 규명합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-20"
+updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/epicurus_garden_conversation.png"
+tags: ["휴식", "안정", "사색"]
+heroImage: "/images/blog/epicurus_garden_conversation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "디오게네스 라에르티오스 『유명한 철학자들의 생애와 사상(Lives and Opinions of Eminent Philosophers)』 및 에피쿠로스 서간집 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

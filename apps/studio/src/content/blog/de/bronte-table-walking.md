@@ -1,11 +1,11 @@
 ---
 title: "Schwestern, die den nächtlichen Esstisch umkreisen: Charlotte Brontës Geh-Diskussions- und Spiegelneuronen-Kreativmethode"
 description: "Erkunden Sie die Routine von Charlotte Brontë, Autorin von 'Jane Eyre', die jeden Abend mit ihren Schwestern den Esstisch umkreiste, um Charaktere und Plots zu diskutieren, und entdecken Sie die neurowissenschaftlichen Mechanismen, die Bewegung mit Spiegelneuronen verbinden, um Tunnelblick zu vermeiden."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-14"
+updatedDate: "2026-05-14"
 category: "BuildSelf"
-tags: ["Schwestern","Routine"]
-heroImage: "/images/blog/bronte_table_walking.png"
+tags: ["위인 습관", "샬롯브론테", "보행토론", "창의성걷기", "협업창작"]
+heroImage: "/images/blog/bronte_table_walking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Elizabeth Gaskells Biografie *Das Leben der Charlotte Brontë (The Life of Charlotte Brontë)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

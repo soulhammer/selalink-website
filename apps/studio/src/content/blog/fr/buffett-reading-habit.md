@@ -1,11 +1,11 @@
 ---
 title: "L'effet cumulé du savoir : L'habitude de lecture quotidienne de 500 pages de Warren Buffett et la réserve cognitive"
 description: "Découvrez le secret de réussite fondamental de Warren Buffett — lire 500 pages par jour — et percez la neuroscience cognitive sous-jacente au renforcement de la connectivité neuronale, à l'accumulation de réserve cognitive et à la reconnaissance accélérée des schémas."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-10"
+updatedDate: "2026-06-10"
 category: "BuildSelf"
-tags: ["L'effet cu","Routine"]
-heroImage: "/images/blog/buffett_reading_habit.png"
+tags: ["위인 습관", "워런 버핏", "독서", "투자", "성공습관", "학습"]
+heroImage: "/images/blog/buffett_reading_habit.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de la biographie d'Alice Schroeder *L'Effet Boule de Neige (The Snowball: Warren Buffett and the Business of Life)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

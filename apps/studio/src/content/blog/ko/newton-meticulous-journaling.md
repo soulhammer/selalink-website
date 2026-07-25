@@ -1,11 +1,11 @@
 ---
 title: "혼란 속에서 질서를 기록하다? 아이작 뉴턴의 연구 일지 기록 습관"
 description: "인류 최고의 과학자 아이작 뉴턴. 평생 거대한 가죽 노트에 모든 통찰과 계산을 정밀하게 기록했던 그의 습관과 손으로 직접 쓰고 정리하는 행위가 주는 뇌과학적 원리를 분석합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-30"
+updatedDate: "2026-03-30"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/newton_meticulous_journaling.png"
+tags: ["위인 습관", "아이작 뉴턴", "기록 습관", "생산성", "작업 기억"]
+heroImage: "/images/blog/newton_meticulous_journaling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "아이작 뉴턴 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

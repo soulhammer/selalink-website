@@ -1,11 +1,11 @@
 ---
 title: "Faire tourner le rouet dans le silence de l'aube : La routine de méditation matinale et la méditation active de Mahatma Gandhi"
 description: "Découvrez comment Mahatma Gandhi, le grand leader de la paix en Inde, disciplinait son esprit en se levant à 4 heures du matin pour méditer et tourner le rouet Charkha. Explorez la neuroscience de la méditation active."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-23"
+updatedDate: "2026-03-23"
 category: "BuildSelf"
-tags: ["Faire tour","Routine"]
-heroImage: "/images/blog/gandhi_morning_meditation.png"
+tags: ["위인 습관", "마하트마 간디", "아침 루틴", "명상", "스트레스 완화"]
+heroImage: "/images/blog/gandhi_morning_meditation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de *Mon autobiographie ou mes expériences avec la vérité* de Mahatma Gandhi, des archives de l'Ashram & de la Recherche en Neurosciences Cognitives"

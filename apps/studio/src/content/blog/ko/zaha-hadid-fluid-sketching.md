@@ -1,11 +1,11 @@
 ---
 title: "직선의 틀을 깬 건축 거장? 자하 하디드의 유기적 곡선 스케치 루틴"
 description: "프리츠커상 수상 건축가 자하 하디드. 격자형 관념을 깨고 손으로 유기적 곡선을 자유롭게 그리며 3차원 공간을 구상한 그녀의 뇌 자극 법과 3단계 실천 가이드를 소개합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-05"
+updatedDate: "2026-04-05"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/zaha_hadid_fluid_sketching.png"
+tags: ["위인 습관", "Routine"]
+heroImage: "/images/blog/zaha_hadid_fluid_sketching.webp"
 app: "buildself"
 formatVersion: 4
 authority: "자하 하디드 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

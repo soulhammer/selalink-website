@@ -1,11 +1,11 @@
 ---
 title: "바위에 칙령을 새기고 성찰한 정복왕? 아쇼카 대왕의 일일 윤리 성찰 루틴"
 description: "인도 마우리아 제국의 아쇼카 대왕. 칼링가 전쟁의 참상을 반성하고 석주 칙령을 세워 매일 윤리적 자아를 성찰했던 그의 외부 닻 내리기 루틴과 3단계 실천법을 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-04"
+updatedDate: "2026-06-04"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/ashoka_edict_inscribed_reflection.png"
+tags: ["위인 습관", "Routine"]
+heroImage: "/images/blog/ashoka_edict_inscribed_reflection.webp"
 app: "buildself"
 formatVersion: 4
 authority: "아쇼카 대왕 석주 칙령(Edicts of Ashoka) 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

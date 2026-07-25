@@ -1,11 +1,11 @@
 ---
 title: "El Padre de la Inmunología que Conquistó la Viruela: La Rutina de Registro de Campo y la Neurociencia del Grit de Edward Jenner"
 description: "Descubra cómo el médico rural Edward Jenner inventó la vacuna contra la viruela acumulando años de diarios de observación de campo. Explore la neurociencia de los circuitos de recompensa de dopamina orientados al proceso y el grit prefrontal."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-14"
+updatedDate: "2026-07-14"
 category: "BuildSelf"
-tags: ["El Padre d","Routine"]
-heroImage: "/images/blog/jenner_observation_tracking_log.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/jenner_observation_tracking_log.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica del Tratado de Edward Jenner *Investigación sobre las causas y efectos de las viruelas vacunas (1798)*, Archivos de la Royal Society e Investigación en Neurociencia Cognitiva e Historia de la Medicina"

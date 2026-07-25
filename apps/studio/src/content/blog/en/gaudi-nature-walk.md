@@ -1,11 +1,11 @@
 ---
 title: "The Master Who Walked 4km Across Barcelona: Antoni Gaudí's Creative Walking Method and Organic Architecture Routine"
 description: "Discover how genius architect Antoni Gaudí translated natural structures into architecture by walking 4km daily through Barcelona. Explore his walking routine, creative ideation, and cognitive neuroscience principles."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-13"
+updatedDate: "2026-04-13"
 category: "BuildSelf"
-tags: ["Great Habits","gaudi","Routine","Stamina"]
-heroImage: "/images/blog/gaudi_nature_walk.png"
+tags: ["위인 습관", "안토니 가우디", "창의성", "산책", "영감"]
+heroImage: "/images/blog/gaudi_nature_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Gijs van Hensbergen's *Gaudí: The Biography* & Cognitive Neuroscience and Environmental Psychology Research"

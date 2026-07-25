@@ -1,11 +1,11 @@
 ---
 title: "La voix résonnant dans la pièce : La routine de déclamation en marchant et de dictée de Fiodor Dostoïevski"
 description: "Découvrez comment Fiodor Dostoïevski, auteur de 'Crime et Châtiment', arpentait sa pièce en jouant les dialogues avant de les dicter. Explorez la neuroscience cognitive de la stimulation du cortex moteur et des aires de Broca et Wernicke."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-25"
+updatedDate: "2026-05-25"
 category: "BuildSelf"
-tags: ["La voix ré","Routine"]
-heroImage: "/images/blog/dostoevsky_pacing_recitation.png"
+tags: ["위인 습관", "표도르 도스토옙스키", "창의성", "기록", "공부"]
+heroImage: "/images/blog/dostoevsky_pacing_recitation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue des mémoires d'Anna Dostoïevskaïa *Mémoires (Reminiscences)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

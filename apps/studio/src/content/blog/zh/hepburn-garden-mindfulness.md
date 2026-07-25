@@ -1,11 +1,11 @@
 ---
 title: "优雅的基石：奥黛丽·赫本的心灵疗愈花园习惯与触土的脑科学原理"
 description: "探索好莱坞传奇奥黛丽·赫本在面对极度舆论关注与晚年病痛时，如何通过触土园艺维护内心沉静与优雅。揭示泥土接触、母牛分枝杆菌（Mycobacterium vaccae）与血清素分泌的神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-14"
+updatedDate: "2026-01-14"
 category: "BuildSelf"
-tags: ["优雅的基石：奥黛丽·","Routine"]
-heroImage: "/images/blog/hepburn_garden_mindfulness.png"
+tags: ["위인 습관", "오드리헵번", "정원가꾸기", "스트레스해소", "마음치유"]
+heroImage: "/images/blog/hepburn_garden_mindfulness.webp"
 app: "buildself"
 formatVersion: 4
 authority: "奥黛丽·赫本传记与瑞士托洛什纳（Tolochenaz）故居档案考证及认知神经科学（Cognitive Neuroscience）与环境心理学（Environmental Psychology）研究"

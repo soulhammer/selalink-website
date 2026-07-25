@@ -1,11 +1,11 @@
 ---
 title: "Das tägliche Wortpensum auf einer Kartei erfassen: Ernest Hemingways quantitative Schreibkartei und Dopamin-Belohnungsroutine"
 description: "Erfahren Sie, wie Nobelpreisträger Ernest Hemingway sein tägliches Schreibpensum auf einer Wandkartei festhielt. Entdecken Sie die Neurowissenschaften der Selbstüberwachung (Self-Monitoring) und des Dopamin-Belohnungssystems."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-05"
+updatedDate: "2026-02-05"
 category: "BuildSelf"
-tags: ["Das täglic","Routine"]
-heroImage: "/images/blog/hemingway_word_count.png"
+tags: ["위인 습관", "헤밍웨이", "글쓰기", "생산성", "자기관찰"]
+heroImage: "/images/blog/hemingway_word_count.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Ernest Hemingways *Paris – Ein Fest fürs Leben (A Moveable Feast)*, George Plimptons Interview (*Paris Review*, 1958) & Forschung der kognitiven Neurowissenschaften"

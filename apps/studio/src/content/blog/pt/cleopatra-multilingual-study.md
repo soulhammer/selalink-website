@@ -1,11 +1,11 @@
 ---
 title: "O Domínio Multilíngue de Cleópatra: O Hábito de Diálogo Intelectual que Governou o Mundo Sem Intérpretes"
 description: "Descubra como a rainha egípcia Cleópatra falava fluentemente pelo menos nove idiomas sem intérpretes, e explore a neurociência cognitiva da estimulação das áreas de Broca e Wernicke, densidade da matéria cinzenta e flexibilidade cognitiva pré-frontal."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-03"
+updatedDate: "2026-03-03"
 category: "BuildSelf"
-tags: ["O Domínio ","Routine"]
-heroImage: "/images/blog/cleopatra_multilingual_study.png"
+tags: ["위인 습관", "클레오파트라", "언어 공부", "인지 유연성", "뇌 가소성"]
+heroImage: "/images/blog/cleopatra_multilingual_study.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica de *Vidas Paralelas (Parallel Lives)* de Plutarco e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)"

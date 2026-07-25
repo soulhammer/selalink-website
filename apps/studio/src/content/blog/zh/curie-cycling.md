@@ -1,11 +1,11 @@
 ---
 title: "战胜镭研究压力的秘诀：玛丽·居里的傍晚骑行与BDNF诱导法"
 description: "探索首位获得诺贝尔奖且在物理与化学两大领域均获殊荣的传奇科学家玛丽·居里在面对极度疲劳与镭研究压力时保护大脑的习惯，揭示通过傍晚骑行促进BDNF分泌与前额叶供氧的认知神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-28"
+updatedDate: "2026-02-28"
 category: "BuildSelf"
-tags: ["战胜镭研究压力的秘诀","Routine"]
-heroImage: "/images/blog/curie_cycling.png"
+tags: ["위인 습관", "마리 퀴리", "자전거", "휴식", "스트레스"]
+heroImage: "/images/blog/curie_cycling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "艾芙·居里传记《居里夫人传（Madame Curie）》考证与认知神经科学（Cognitive Neuroscience）研究"

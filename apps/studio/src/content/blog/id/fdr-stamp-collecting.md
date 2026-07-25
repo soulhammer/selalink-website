@@ -1,11 +1,11 @@
 ---
 title: "Rutinitas Memilah Prangko Franklin D. Roosevelt: Relaksasi Kognitif dan Ritual Tidur Analog"
 description: "Pelajari bagaimana Presiden Roosevelt meredakan ketegangan otak setiap malam dengan memilah prangko di tengah krisis perang dan ekonomi. Temukan neurosains tentang relaksasi kognitif dan tidur nyenyak."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-02"
+updatedDate: "2026-07-02"
 category: "BuildSelf"
-tags: ["Rutinitas ","Routine"]
-heroImage: "/images/blog/fdr_stamp_collecting.png"
+tags: ["위인 습관", "루스벨트", "스트레스 해소", "휴식 루틴", "취침 전 습관"]
+heroImage: "/images/blog/fdr_stamp_collecting.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Biografi Franklin D. Roosevelt, Arsip Perpustakaan Presidensial FDR & Penelitian Neurosains Kognitif"

@@ -4,7 +4,7 @@ description: "Descubra os fatos históricos do pai dos computadores do século X
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["O Método d","Routine"]
+tags: ["위습관","루틴"]
 heroImage: "/images/blog/babbage_difference_engine.png"
 app: "buildself"
 formatVersion: 4

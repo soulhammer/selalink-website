@@ -1,11 +1,11 @@
 ---
 title: "꿈의 잔상에서 건진 명곡: 폴 매카트니의 잠재의식 즉시 기록 습관"
 description: "비틀즈의 명곡 'Yesterday'를 아침 기상 직후 꿈의 기억에서 건져 올린 폴 매카트니. 전두엽의 검열이 걷힌 반수면 상태(Hypnagogia)의 분산 모드 뇌를 활용해 창조성을 포착하는 비법을 공유합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-25"
+updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/mccartney_dream_melody_capture.png"
+tags: ["글쓰기", "창의성", "기록"]
+heroImage: "/images/blog/mccartney_dream_melody_capture.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Mccartney Dream Melody Capture 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

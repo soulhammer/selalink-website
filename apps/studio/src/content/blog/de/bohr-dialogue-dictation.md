@@ -1,11 +1,11 @@
 ---
 title: "Durch Dialog gewebte Physik: Niels Bohrs Diktat-Diskussions- und metakognitive Schreibmethode"
 description: "Erkunden Sie, wie der Quantenmechanik-Pionier Niels Bohr komplexe physikalische Arbeiten durch unermüdliche mündliche Diskussionen und Diktate mit Kollegen verfasste, und entdecken Sie das neurowissenschaftliche Prinzip, bei dem die Externalisierung innerer Gedanken in gesprochene Sprache die Metakognition aktiviert."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-19"
+updatedDate: "2026-01-19"
 category: "BuildSelf"
-tags: ["Durch Dial","Routine"]
-heroImage: "/images/blog/bohr_dialogue_dictation.png"
+tags: ["학습", "창의성", "사색"]
+heroImage: "/images/blog/bohr_dialogue_dictation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Abraham Pais' Biografie *Niels Bohr's Times: In Physics, Philosophy, and Polity* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

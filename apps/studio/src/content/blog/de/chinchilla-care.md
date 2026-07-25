@@ -16,16 +16,16 @@ faqs:
     answer: "Ihr Fell ist so dicht (über 80 Haare pro Follikel), dass Wasser nicht trocknet. Feuchtigkeit schädigt die Haut und führt zu Unterkühlung."
 ---
 
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+Mit ihrem weichen Fell und dem runden Körper sind Chinchillas beliebte exotische Heimtiere. Ihre Zähne wachsen lebenslang, was oft zu Zahnfehlstellungen (Malokklusion) führt. Zudem schwitzen sie nicht und vertragen Hitze schlecht. Heute erklärt PetSelf Zahn- und Hitzewarnsignale und bietet eine 3-Schritte-Routine.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Veterinärmedizinische & verhaltensbedingte Nachweise
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Dieser Inhalt basiert auf <strong>Richtlinien der AEMV für Chinchillas & Zahnmedizin bei Nagern</strong>.
     </p>
   </div>
 </div>
@@ -43,7 +43,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
 
 ## 1. Körpersprache des Chinchillas: Speicheln und Hitzeschlagzeichen
 
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+Zeigt ein Chinchilla 'Speicheln und Futterverweigerung', deutet dies auf Zahnprobleme hin. Das 'Flachliegen auf der Seite mit schneller Atmung' ist ein Hitzewarnzeichen. Schnelle Hilfe rettet Leben.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -77,7 +77,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Morgen: Hochwertiges Timothy-Heu für Zahnabrieb</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+    Stellen Sie täglich reichlich frisches Timothy-Heu zur Verfügung. Das Kauen ist für den Zahnabrieb unerlässlich.
   </p>
 </div>
 
@@ -87,7 +87,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Nachmittag: Klimakontrolle zur Vorbeugung von Hitze und Feuchtigkeit</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+    Halten Sie die Raumtemperatur bei 18-21°C und die Feuchtigkeit bei 40-50% mit Klimaanlage und Entfeuchter.
   </p>
 </div>
 
@@ -97,7 +97,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Abend: 15-minütiges Sandbad mit Chinchillasand</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+    Bieten Sie täglich für 15 Minuten ein Bad in Chinchillasand an, um das Fell zu entfetten. Niemals mit Wasser waschen.
   </p>
 </div>
 
@@ -106,7 +106,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Das einfache Beobachten der Beschwichtigungssignale Ihres Haustiers kann schwerwiegende Verhaltensprobleme und stressbedingte Krankheiten verhindern. Während eine tierärztliche Behandlung wichtig ist, ist eine sichere Umgebung (Treppen, vertikale Räume, mehrere Wasserstellen) der stärkste Schutz für ihr lebenslanges Glück.
     </p>
   </div>
 </div>
@@ -124,7 +124,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Zu lange Zähne verhindern die Nahrungsaufnahme und führen zu lebensgefährlichen Verdauungsproblemen. Faserreiches Heu ist die beste Medizin.
     </p>
   </details>
 
@@ -134,7 +134,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Ihr Fell ist so dicht (über 80 Haare pro Follikel), dass Wasser nicht trocknet. Feuchtigkeit schädigt die Haut und führt zu Unterkühlung.
     </p>
   </details>
 </div>

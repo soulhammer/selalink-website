@@ -1,11 +1,11 @@
 ---
 title: "매일 아침 10km를 달리는 작가? 무라카미 하루키의 기초 체력 루틴"
 description: "전 세계적인 베스트셀러 소설가 무라카미 하루키. 그의 철저한 아침 10km 달리기 루틴 속에 숨겨진 뇌과학적 원리와 현대인을 위한 3단계 실천법을 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-26"
+updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: ["매일 아침 10km","Routine"]
-heroImage: "/images/blog/murakami_running.png"
+tags: ["위인 습관", "무라카미 하루키", "달리기", "루틴", "체력"]
+heroImage: "/images/blog/murakami_running.webp"
 app: "buildself"
 formatVersion: 4
 authority: "무라카미 하루키 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

@@ -1,11 +1,11 @@
 ---
 title: "La méthode de dictée multiple de Thomas d'Aquin : Maximiser la mémoire de travail pour surmonter les dilemmes complexes"
 description: "Découvrez comment Thomas d'Aquin, le grand théologue médiéval, a développé sa mémoire de travail et maintenu une cohérence logique tout en dictant simultanément différents sujets à 3 ou 4 scribes."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-09"
+updatedDate: "2026-03-09"
 category: "BuildSelf"
-tags: ["La méthode","Routine"]
-heroImage: "/images/blog/aquinas_multi_dictation.png"
+tags: ["집중력", "구술대필", "작업기억", "중세"]
+heroImage: "/images/blog/aquinas_multi_dictation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de la biographie de Thomas d'Aquin par Bernard de Gui & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

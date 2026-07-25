@@ -1,11 +1,11 @@
 ---
 title: "Das Genie, das jeden Tag dieselbe Kleidung trug: Steve Jobs' Entscheidungs-Minimalismus und die Schonung kognitiver Ressourcen"
 description: "Erfahren Sie, wie Apple-Mitbegründer Steve Jobs kognitive Energie sparte, indem er täglich ein identisches Outfit aus schwarzem Rollkragenpullover und Jeans trug. Entdecken Sie die Neurowissenschaften von Entscheidungsmüdigkeit und präfrontalen Ressourcen."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-25"
+updatedDate: "2026-06-25"
 category: "BuildSelf"
-tags: ["Das Genie,","Routine"]
-heroImage: "/images/blog/jobs_uniform_minimalism.png"
+tags: ["위인 습관", "스티브 잡스", "생산성", "단순화", "의사결정"]
+heroImage: "/images/blog/jobs_uniform_minimalism.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Walter Isaacsons *Steve Jobs* (2011), Apple-Archiven & Forschung der kognitiven Psychologie und Neurowissenschaften"

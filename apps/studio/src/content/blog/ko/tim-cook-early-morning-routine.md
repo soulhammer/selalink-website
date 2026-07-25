@@ -1,11 +1,11 @@
 ---
 title: "새벽 3시 45분에 일어나 100통의 메일을 읽는 CEO? 팀 쿠크의 아침 제어 루틴"
 description: "세계 최대 IT 기업 애플(Apple)을 이끄는 수장 팀 쿠크. 매일 새벽 3시 45분에 기상해 사용자 피드백 메일을 읽고 5시에 운동하는 그의 주도권 확보 루틴과 3단계 실천법을 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-24"
+updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/tim_cook_early_morning_routine.png"
+tags: ["위인 습관", "Routine"]
+heroImage: "/images/blog/tim_cook_early_morning_routine.webp"
 app: "buildself"
 formatVersion: 4
 authority: "팀 쿠크 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

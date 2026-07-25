@@ -1,11 +1,11 @@
 ---
 title: "무의식의 창의성을 깨우는 10단어 연상법: 레이 브래드버리의 확산적 사고 루틴"
 description: "현대 공상과학(SF) 문학의 대부 레이 브래드버리가 매일 아침 무작위 이종 단어 10개를 적어 초단편 스토리를 연상해 낸 루틴. 무의식의 연상 고리를 자극해 확산적 사고와 창의성을 극대화하는 신경과학적 원리를 밝힙니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-16"
+updatedDate: "2026-06-16"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/bradbury.png"
+tags: ["위인 습관", "레이 브래드버리", "아이디어", "창의성"]
+heroImage: "/images/blog/bradbury.webp"
 app: "buildself"
 formatVersion: 4
 authority: "레이 브래드버리 에세이 『글쓰기의 선(Zen in the Art of Writing)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

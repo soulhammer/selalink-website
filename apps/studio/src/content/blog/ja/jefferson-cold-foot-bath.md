@@ -1,11 +1,11 @@
 ---
 title: "トマス・ジェファーソンの冷水足湯法：60年間毎朝脳を呼び覚ます覚醒ルーティンとノルアドレナリン神経調節"
 description: "アメリカ独立宣言の起草者トマス・ジェファーソンが60年間毎朝冷水に足を浸して脳を覚醒させた歴史的事実と、自律神経系のノルアドレナリン分泌、前頭前野のブレインフォグ除去の脳科学的原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-17"
+updatedDate: "2026-04-17"
 category: "BuildSelf"
-tags: ["トマス・ジェファーソ","Routine"]
-heroImage: "/images/blog/jefferson_cold_foot_bath.png"
+tags: ["위인 습관", "토머스 제퍼슨", "에너지", "아침 루틴", "각성"]
+heroImage: "/images/blog/jefferson_cold_foot_bath.webp"
 app: "buildself"
 formatVersion: 4
 authority: "トマス・ジェファーソン書簡集『トマス・ジェファーソンの書簡（The Writings of Thomas Jefferson）』史料考証＆認知神経科学（Cognitive Neuroscience）研究"

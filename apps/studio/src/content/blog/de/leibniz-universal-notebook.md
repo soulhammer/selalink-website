@@ -1,11 +1,11 @@
 ---
 title: "Das universelle Notizbuch für alles Wissen: Gottfried Wilhelm Leibniz' Sudelbuch-Routine und synaptische Langzeit-Potenzierung (LTP)"
 description: "Erfahren Sie, wie der Erfinder der Infinitesimalrechnung, Gottfried Wilhelm Leibniz, sein gesamtes Wissen in einem einzigen kategorisierten Notizbuch (Commonplace Book) bündelte. Entdecken Sie die Neurowissenschaften von semantischen Netzwerken, Langzeit-Potenzierung (LTP) und eine 3-Schritte-Anleitung."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-27"
+updatedDate: "2026-02-27"
 category: "BuildSelf"
-tags: ["Das univer","Routine"]
-heroImage: "/images/blog/leibniz_universal_notebook.png"
+tags: ["기록", "창의성", "사색"]
+heroImage: "/images/blog/leibniz_universal_notebook.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Gottfried Wilhelm Leibniz Biografien, Leibniz-Archiv (Hannover) & Forschung der kognitiven Neurowissenschaften und Psychologie"

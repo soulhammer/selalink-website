@@ -1,11 +1,11 @@
 ---
 title: "El Genio que Pintó el Universo con una Cuchara: La Siesta de Reinicio Cerebral y Captura de Hipnagogia de Salvador Dalí"
 description: "Descubra cómo el maestro surrealista Salvador Dalí se sentaba en una silla sujetando una cuchara metálica para capturar ideas artísticas al despertar. Explore la neurociencia cognitiva de la hipnagogia y las ondas theta."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-07"
+updatedDate: "2026-03-07"
 category: "BuildSelf"
-tags: ["El Genio q","Routine"]
-heroImage: "/images/blog/dali_spoon_nap.png"
+tags: ["위인 습관", "살바도르 달리", "창의성", "낮잠", "뇌파"]
+heroImage: "/images/blog/dali_spoon_nap.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la Autobiografía de Salvador Dalí *La vida secreta de Salvador Dalí (The Secret Life of Salvador Dalí)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"

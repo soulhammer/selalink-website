@@ -1,11 +1,11 @@
 ---
 title: "대영박물관 돔 아래의 10시간? 카를 마르크스의 연합 피질 독서법"
 description: "사회의 감춰진 작동 원리를 경제학적으로 해부했던 카를 마르크스. 런던 망명 시절 대영박물관 열람실에서 매일 10시간씩 방대한 문헌을 읽고 기록한 집요한 독서 습관과 뇌과학적 원리를 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-17"
+updatedDate: "2026-03-17"
 category: "BuildSelf"
-tags: ["대영박물관 돔 아래","Routine"]
-heroImage: "/images/blog/marx_reading_room.png"
+tags: ["위인 습관", "카를 마르크스", "딥 리딩", "연합 피질", "초록 노트"]
+heroImage: "/images/blog/marx_reading_room.webp"
 app: "buildself"
 formatVersion: 4
 authority: "카를 마르크스 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

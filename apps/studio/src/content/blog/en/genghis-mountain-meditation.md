@@ -1,11 +1,11 @@
 ---
 title: "The Big Picture to Break Through Turbulent Times: Genghis Khan's Mountain-Top Visual Meditation Routine and Peripheral Vision Mastery"
 description: "Discover how conqueror Genghis Khan cleared mental noise before major battles by ascending holy mountains alone. Explore the cognitive psychology of his 'Visual Meditation' routine, Attention Restoration Theory, and peripheral vision activation."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-21"
+updatedDate: "2026-04-21"
 category: "BuildSelf"
-tags: ["Great Habits","genghis","Routine","Stamina"]
-heroImage: "/images/blog/genghis_mountain_meditation.png"
+tags: ["위인 습관", "칭기즈칸", "시각화", "명상", "대자연휴식"]
+heroImage: "/images/blog/genghis_mountain_meditation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Jack Weatherford's *Genghis Khan and the Making of the Modern World*, *The Secret History of the Mongols* & Cognitive Neuroscience Research"

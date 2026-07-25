@@ -1,11 +1,11 @@
 ---
 title: "Le génie qui a peint l'univers avec une cuillère : La routine de sieste de réinitialisation cérébrale et de capture de l'hypnagogie de Salvador Dalí"
 description: "Découvrez comment le maître surréaliste Salvador Dalí s'asseyait dans un fauteuil une cuillère à la main pour capturer des idées artistiques au réveil. Explorez la neuroscience cognitive de l'hypnagogie et des ondes thêta."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-07"
+updatedDate: "2026-03-07"
 category: "BuildSelf"
-tags: ["Le génie q","Routine"]
-heroImage: "/images/blog/dali_spoon_nap.png"
+tags: ["위인 습관", "살바도르 달리", "창의성", "낮잠", "뇌파"]
+heroImage: "/images/blog/dali_spoon_nap.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de l'autobiographie de Salvador Dalí *La Vie secrète de Salvador Dalí (The Secret Life of Salvador Dalí)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

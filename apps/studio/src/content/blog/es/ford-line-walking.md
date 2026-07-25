@@ -1,11 +1,11 @@
 ---
 title: "El Rey del Automóvil que Dibujaba la Innovación Recorriendo la Línea: El Esquema de Flujo y la Rutina de Externalización Cognitiva de Henry Ford"
 description: "Descubra cómo Henry Ford, pionero de la línea de montaje móvil, redujo la carga prefrontal recorriendo la fábrica, observando el movimiento mecánico y dibujando esquemas de flujo. Explore la neurociencia del seguimiento visual y la externalización cognitiva."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-23"
+updatedDate: "2026-06-23"
 category: "BuildSelf"
-tags: ["El Rey del","Routine"]
-heroImage: "/images/blog/ford_line_walking.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/ford_line_walking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la Autobiografía de Henry Ford *Mi vida y mi obra (My Life and Work)*, Biografías Históricas e Investigación en Neurociencia Cognitiva"

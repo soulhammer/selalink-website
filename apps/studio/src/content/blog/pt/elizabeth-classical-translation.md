@@ -1,11 +1,11 @@
 ---
 title: "A 'Tradução Clássica' de Isabel I: A Rotina Matinal que Forjou o Cérebro Lógico de uma Monarca"
 description: "A rainha Isabel I cultivou uma feroz racionalidade e lógica traduzindo clássicos latinos para o inglês todas as manhãs. Explore a neurociência cognitiva por trás dessa rotina."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-09"
+updatedDate: "2026-01-09"
 category: "BuildSelf"
-tags: ["A 'Traduçã","Routine"]
-heroImage: "/images/blog/elizabeth_classical_translation.png"
+tags: ["위인 습관", "엘리자베스 1세", "두뇌 훈련", "번역 습관", "아침 루틴"]
+heroImage: "/images/blog/elizabeth_classical_translation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica da Coleção *Elizabeth I: Translations* (Janel Mueller & Joshua Scodel), Biografias Históricas e Pesquisa em Neurociência Cognitiva"

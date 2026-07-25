@@ -4,7 +4,7 @@ description: "古代ギリシャの大数学者ユークリッドが、複雑な
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["ユークリッドの公理的","Routine"]
+tags: ["위습관","루틴"]
 heroImage: "/images/blog/euclid_axiomatic_thinking.png"
 app: "buildself"
 formatVersion: 4

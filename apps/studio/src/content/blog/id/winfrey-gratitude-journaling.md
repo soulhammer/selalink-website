@@ -1,11 +1,11 @@
 ---
 title: "불우한 과거를 이겨내고 토크쇼 여왕이 된 비결? 오프라 윈프리의 감사 일기 루틴"
 description: "세계에서 가장 영향력 있는 여성 리더 중 한 명인 오프라 윈프리. 기상 직후 스마트폰 대신 감사 일기 5줄을 손글씨로 적어 뇌의 기본 모드 네트워크를 긍정적으로 재배선했던 그녀의 과학적 루틴과 실천 가이드를 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-24"
+updatedDate: "2026-05-24"
 category: "BuildSelf"
-tags: ["불우한 과거를 이겨","Routine"]
-heroImage: "/images/blog/winfrey_gratitude_journaling.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/winfrey_gratitude_journaling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "오프라 윈프리 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

@@ -1,11 +1,11 @@
 ---
 title: "'생각하는 사람'의 거장? 오귀스트 로댕의 아침 찰흙 감각 산책 루틴"
 description: "근대 조각의 거장 오귀스트 로댕. 매일 아침 손에 찰흙을 쥐고 걸으며 촉각적 영감을 깨웠던 그의 독창적 센서리 루틴과 3단계 실천법을 공개합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-10"
+updatedDate: "2026-01-10"
 category: "BuildSelf"
-tags: ["'생각하는 사람'의","Routine"]
-heroImage: "/images/blog/rodin_sculpting_walk.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/rodin_sculpting_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "오귀스트 로댕 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

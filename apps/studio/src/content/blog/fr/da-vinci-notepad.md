@@ -1,11 +1,11 @@
 ---
 title: "Le génie qui portait toujours un carnet à la ceinture : La routine de prise de notes instantanée et d'externalisation de la mémoire de Léonard de Vinci"
 description: "Découvrez comment le polymathe de la Renaissance Léonard de Vinci gardait un carnet attaché à la ceinture pour consigner ses observations. Explorez la neuroscience cognitive de l'externalisation de la mémoire de travail pour libérer la charge cognitive."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-29"
+updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: ["Le génie q","Routine"]
-heroImage: "/images/blog/da_vinci_notepad.png"
+tags: ["위인 습관", "레오나르도 다 빈치", "메모", "기록", "창의성"]
+heroImage: "/images/blog/da_vinci_notepad.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de la biographie de Walter Isaacson *Léonard de Vinci (Leonardo da Vinci)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

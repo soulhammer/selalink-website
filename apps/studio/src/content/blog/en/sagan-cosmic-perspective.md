@@ -4,7 +4,7 @@ description: "천문학자 칼 세이건이 3분간의 우주적 부감(Zoom-out
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["Great Habits","sagan","Routine","Stamina"]
+tags: ["위습관","루틴"]
 heroImage: "/images/blog/sagan_cosmic_perspective.png"
 app: "buildself"
 formatVersion: 4

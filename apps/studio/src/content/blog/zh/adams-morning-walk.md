@@ -1,11 +1,11 @@
 ---
 title: "唤醒大脑健康的步履：约翰·昆西·亚当斯的快走散步与省察记录惯例"
 description: "美国第6任总统约翰·昆西·亚当斯每天坚持5英里快走散步与夜间省察手写。探索刺激BDNF分泌的健康大脑习惯。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-06"
+updatedDate: "2026-04-06"
 category: "BuildSelf"
-tags: ["唤醒大脑健康的步履：","Routine"]
-heroImage: "/images/blog/adams_morning_walk.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/adams_morning_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "约翰·昆西·亚当斯历史评传及自传记录考证与认知神经科学（Cognitive Neuroscience）研究"

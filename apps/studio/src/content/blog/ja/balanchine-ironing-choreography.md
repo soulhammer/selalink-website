@@ -1,11 +1,11 @@
 ---
 title: "無意識のダンス：ジョージ・バランシンの単純家事労働振付法"
 description: "振付のインスピレーションが行き詰まった時、アイロンがけや洗濯などの単純な反復家事を行いながらアイデアを構想した振付家ジョージ・バランシン。単純な身体活動が前頭葉の検閲をオフにし、デフォルト・モード・ネットワークを呼び醒ます神経メカニズムを解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-01"
+updatedDate: "2026-04-01"
 category: "BuildSelf"
-tags: ["無意識のダンス：ジョ","Routine"]
-heroImage: "/images/blog/balanchine_ironing_choreography.png"
+tags: ["위인 습관", "조지 발란신", "창의성", "사색", "이완", "루틴"]
+heroImage: "/images/blog/balanchine_ironing_choreography.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ジョージ・バランシン伝記『By George Balanchine』考証＆認知神経科学（Cognitive Neuroscience）研究"

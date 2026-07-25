@@ -1,11 +1,11 @@
 ---
 title: "A Visão Geral para Superar Tempos Turbulentos: A Rotina de Meditação Visual no Topo da Montanha e Visão Periférica de Gengis Khan"
 description: "Descubra como o conquistador Gengis Khan limpava o ruído mental antes de grandes batalhas subindo sozinho a montanhas sagradas. Explore a psicologia cognitiva de sua 'Meditação Visual', a Teoria da Restauração da Atenção e a visão periférica."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-21"
+updatedDate: "2026-04-21"
 category: "BuildSelf"
-tags: ["A Visão Ge","Routine"]
-heroImage: "/images/blog/genghis_mountain_meditation.png"
+tags: ["위인 습관", "칭기즈칸", "시각화", "명상", "대자연휴식"]
+heroImage: "/images/blog/genghis_mountain_meditation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica de *Gengis Khan e a Formação do Mundo Moderno* de Jack Weatherford, *A História Secreta dos Mongóis* e Pesquisa em Neurociência Cognitiva"

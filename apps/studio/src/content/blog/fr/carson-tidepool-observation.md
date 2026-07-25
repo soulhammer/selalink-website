@@ -1,11 +1,11 @@
 ---
 title: "L'écosystème marin qui a fait germer Le Printemps silencieux : L'observation des cuvettes de marée et la douce fascination de Rachel Carson"
 description: "Découvrez comment Rachel Carson, pionnière du mouvement écologique moderne, restaurait sa capacité cognitive épuisée en observant les cuvettes de marée face aux pressions industrielles et au cancer. Explorez les mécanismes neuroscientifiques de la Théorie de la Restauration de l'Attention (ART) et de la « Douce Fascination »."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-04"
+updatedDate: "2026-07-04"
 category: "BuildSelf"
-tags: ["L'écosystè","Routine"]
-heroImage: "/images/blog/carson_tidepool_observation.png"
+tags: ["위인 습관", "레이첼 카슨", "자연 관찰", "주의 회복", "인도어 디톡스"]
+heroImage: "/images/blog/carson_tidepool_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue des biographies historiques et archives autobiographiques de Rachel Carson & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

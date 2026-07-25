@@ -1,11 +1,11 @@
 ---
 title: "Cazando la Inspiración Fugaz: La Rutina de Captura Inmediata con Cuaderno de Bolsillo de Bruce Lee"
 description: "Descubra cómo el marcialista e ícono del cine del siglo XX Bruce Lee llevaba un cuaderno de bolsillo para capturar ideas filosóficas y conceptos de artes marciales en tiempo real, y explore los mecanismos cognitivos de estimulación del SRA."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-06"
+updatedDate: "2026-04-06"
 category: "BuildSelf"
-tags: ["Cazando la","Routine"]
-heroImage: "/images/blog/brucelee_pocket_notebook.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/brucelee_pocket_notebook.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la Biografía de John Little *Bruce Lee: El artista de la vida (Bruce Lee: Artist of Life)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"

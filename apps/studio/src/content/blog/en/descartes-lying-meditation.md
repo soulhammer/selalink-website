@@ -1,11 +1,11 @@
 ---
 title: "The Genius Who Stayed in Bed Until Noon: René Descartes's Lying Meditation and Alpha-Wave Relaxation Routine"
 description: "Discover how mathematician and philosopher René Descartes spent his mornings meditating in bed until noon to unlock mathematical clarity. Explore the cognitive neuroscience of horizontal posture, reduced cortisol response, and alpha-wave induction."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-25"
+updatedDate: "2026-01-25"
 category: "BuildSelf"
-tags: ["Great Habits","descartes","Routine","Stamina"]
-heroImage: "/images/blog/descartes_lying_meditation.png"
+tags: ["위인 습관", "르네 데카르트", "아침 루틴", "명상", "집중력"]
+heroImage: "/images/blog/descartes_lying_meditation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from René Descartes's *Discourse on the Method* & Cognitive Neuroscience Research"

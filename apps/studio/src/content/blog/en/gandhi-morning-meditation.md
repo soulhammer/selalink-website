@@ -1,11 +1,11 @@
 ---
 title: "Spinning the Wheel in the Quiet Dawn: Mahatma Gandhi's Early Morning Meditation Routine and Active Meditation"
 description: "Discover how Mahatma Gandhi, India's great peace leader, disciplined his mind by waking at 4 AM for meditation and spinning the Charkha wheel. Explore the neuroscience of active meditation, tactile repetition, and serotonin stimulation."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-23"
+updatedDate: "2026-03-23"
 category: "BuildSelf"
-tags: ["Great Habits","gandhi","Routine","Stamina"]
-heroImage: "/images/blog/gandhi_morning_meditation.png"
+tags: ["위인 습관", "마하트마 간디", "아침 루틴", "명상", "스트레스 완화"]
+heroImage: "/images/blog/gandhi_morning_meditation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Mahatma Gandhi's *An Autobiography: The Story of My Experiments with Truth*, Ashram Archives & Cognitive Neuroscience Research"

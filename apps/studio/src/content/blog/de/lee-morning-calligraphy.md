@@ -1,11 +1,11 @@
 ---
 title: "Unternehmensphilosophie an der Pinselspitze: Lee Byung-chuls morgendliches Kalligrafie-Ritual und Aktivierung des primären motorischen Kortex"
 description: "Erfahren Sie, wie Samsung-Gründer Lee Byung-chul durch sein tägliches morgendliches Kalligrafie-Ritual strategische Klarheit schuf. Entdecken Sie die Wissenschaft der Feinmotorik, die Aktivierung des primären motorischen Kortex und eine 3-Schritte-Anleitung."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-25"
+updatedDate: "2026-05-25"
 category: "BuildSelf"
-tags: ["Unternehme","Routine"]
-heroImage: "/images/blog/lee_morning_calligraphy.png"
+tags: ["위인 습관", "이병철", "집중", "마인드셋", "의지력"]
+heroImage: "/images/blog/lee_morning_calligraphy.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Ho-Ams Autobiografie *Ho-Am Jajeon*, Samsung-Archiven & Forschung der kognitiven Neurowissenschaften und Motorikwissenschaft"

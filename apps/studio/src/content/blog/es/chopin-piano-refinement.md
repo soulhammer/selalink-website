@@ -1,11 +1,11 @@
 ---
 title: "El Obsesivo Perfeccionismo del Poeta del Piano: La Rutina de Iteración en el Teclado y Ajuste Fino del Cingulado Anterior de Frédéric Chopin"
 description: "Descubra cómo el maestro romántico Frédéric Chopin tocaba melodías cientos de veces al piano para forjar obras maestras inmortales, y explore la neurociencia cognitiva de la detección de errores del Córtex Cingulado Anterior (ACC) y la Microafinación Neuronal."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-21"
+updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: ["El Obsesiv","Routine"]
-heroImage: "/images/blog/chopin_piano_refinement.png"
+tags: ["위인 습관", "쇼팽", "완벽주의", "피아노작곡", "디테일퇴고"]
+heroImage: "/images/blog/chopin_piano_refinement.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la Autobiografía de George Sand *Histoire de ma vie (Historia de mi vida)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"

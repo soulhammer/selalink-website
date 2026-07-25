@@ -1,11 +1,11 @@
 ---
 title: "凝望天花板倒影中挥毫自画像：弗里达·卡罗的镜面自画像习惯与镜像凝视复原力"
 description: "深度剖析墨西哥传奇女画家弗里达·卡罗如何在全身体创的酷烈撕痛中，借由天花板悬镜日复一日描摹自画像。揭示镜像凝视（Mirror-Gazing）疗法、自我接纳与重塑心理韧性（Resilience）的临床心理学原理及3步骤指南。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-07"
+updatedDate: "2026-06-07"
 category: "BuildSelf"
-tags: ["凝望天花板倒影中挥毫","Routine"]
-heroImage: "/images/blog/kahlo_mirror_painting.png"
+tags: ["위인 습관", "프리다 칼로", "거울 명상", "치유", "회복탄력성"]
+heroImage: "/images/blog/kahlo_mirror_painting.webp"
 app: "buildself"
 formatVersion: 4
 authority: "弗里达·卡罗日记与传记史料《弗里达·卡罗日记（The Diary of Frida Kahlo）》考证及临床心理学（Clinical Psychology）与认知神经科学（Cognitive Neuroscience）研究"

@@ -1,11 +1,11 @@
 ---
 title: "Viewing the Earth as a Single Living Organism: Alexander von Humboldt's Field Journaling Routine and Real-Time Working Memory Synchronization"
 description: "Discover how Alexander von Humboldt, father of modern ecology, created his vision of 'Kosmos' by recording temperature, altitude, and plant data in real-time while climbing Mount Chimborazo. Explore the cognitive neuroscience of real-time field logging."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-04"
+updatedDate: "2026-02-04"
 category: "BuildSelf"
-tags: ["Great Habits","humboldt","Routine","Stamina"]
-heroImage: "/images/blog/humboldt_nature_journaling.png"
+tags: ["위인 습관", "Routine"]
+heroImage: "/images/blog/humboldt_nature_journaling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Andrea Wulf's *The Invention of Nature*, Humboldt's *Kosmos* Archives & Cognitive Neuroscience and Ecology Research"

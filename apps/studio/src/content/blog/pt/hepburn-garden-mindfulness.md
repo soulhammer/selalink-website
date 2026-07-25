@@ -1,11 +1,11 @@
 ---
 title: "A Base da Elegância: A Rotina de Jardinagem Curativa de Audrey Hepburn e a Ciência Cerebral do Contato com a Terra"
 description: "Descubra como a lenda de Hollywood Audrey Hepburn manteve sua tranquilidade e elegância por meio da jardinagem. Explore a neurociência do contato com a terra, a bactéria Mycobacterium vaccae e a serotonina."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-14"
+updatedDate: "2026-01-14"
 category: "BuildSelf"
-tags: ["A Base da ","Routine"]
-heroImage: "/images/blog/hepburn_garden_mindfulness.png"
+tags: ["위인 습관", "오드리헵번", "정원가꾸기", "스트레스해소", "마음치유"]
+heroImage: "/images/blog/hepburn_garden_mindfulness.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica das Biografias de Audrey Hepburn, Arquivos da Propriedade de Tolochenaz (Suíça) e Pesquisa em Neurociência Cognitiva e Psicologia Ambiental"

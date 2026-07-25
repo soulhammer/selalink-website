@@ -1,11 +1,11 @@
 ---
 title: "'Iliad di Bawah Bantal' Alexander Agung: Membaca Visi Malam Hari yang Menopang Tantangan Besar"
 description: "Alexander Agung tidak pernah kehilangan keberanian di medan perang, menyimpan belati dan Iliad di bawah bantalnya setiap malam. Pelajari kekuatan membaca visi yang merangsang alam bawah sadar."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-23"
+updatedDate: "2026-01-23"
 category: "BuildSelf"
-tags: ["'Iliad di ","Routine"]
-heroImage: "/images/blog/alexander_pillow_iliad.png"
+tags: ["위인 습관", "알렉산드로스", "동기부여", "독서 습관", "잠재의식"]
+heroImage: "/images/blog/alexander_pillow_iliad.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari *Life of Alexander* karya Plutarch & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

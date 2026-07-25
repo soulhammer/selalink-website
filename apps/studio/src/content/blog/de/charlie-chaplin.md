@@ -1,11 +1,11 @@
 ---
 title: "Der Spiegelblick, der den Schritt des Anderen kopiert: Charlie Chaplins körperliche Spiegelungs- und Menschenanalyseroutine"
 description: "Erkunden Sie, wie die Stummfilmikone Charlie Chaplin das Gehen und die Körperbewegungen Fremder auf der Straße beobachtete und spiegelte, und entdecken Sie die neurowissenschaftlichen Prinzipien zur Aktivierung prämotorischer Spiegelneuronen zur Erweiterung des Körperschemas."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-01"
+updatedDate: "2026-03-01"
 category: "BuildSelf"
-tags: ["Der Spiege","Routine"]
-heroImage: "/images/blog/charlie_chaplin.png"
+tags: ["위인 습관", "찰리 채플린", "창의성", "사색"]
+heroImage: "/images/blog/charlie_chaplin.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Charlie Chaplins Autobiografie *Die Geschichte meines Lebens (My Autobiography)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

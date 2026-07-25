@@ -1,11 +1,11 @@
 ---
 title: "Kebangkitan Tengah Malam: Metode Menulis Hyperfocus 12 Jam dengan Kopi ala Honoré de Balzac"
 description: "Pelajari rutinitas menulis larut malam dan stimulasi kopi yang dipraktikkan oleh Honoré de Balzac, maestro realisme Prancis abad ke-19, dan temukan mekanisme neurosains hyperfocus yang memblokir stimulasi luar dan meningkatkan perhatian otak hingga ke tingkat ekstrem."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-14"
+updatedDate: "2026-02-14"
 category: "BuildSelf"
-tags: ["Kebangkita","Routine"]
-heroImage: "/images/blog/balzac_extreme_focus.png"
+tags: ["위인 습관", "오노레 드 발자크", "초몰입", "집중력", "시간관리"]
+heroImage: "/images/blog/balzac_extreme_focus.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Biografi Stefan Zweig *Balzac* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

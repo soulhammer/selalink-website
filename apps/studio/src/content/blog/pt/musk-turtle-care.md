@@ -16,23 +16,23 @@ faqs:
     answer: "Sim. À medida que as tartarugas crescem, mudam as placas antigas, que se desprendem como peças finas e translúcidas. No entanto, se observar secreções viscosas brancas ou uma carapaça mole e malcheirosa, é sinal de podridão e precisa de cuidados médicos."
 ---
 
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+A tartaruga almíscar comum de tamanho compacto é ideal para principiantes. Embora passem a maior parte do seu tempo na água, o banho de sol seco regular sob uma lâmpada UV é essencial para a desinfeção da carapaça, a síntese de vitamina D e a manutenção da temperatura corporal. A má qualidade da água e a falta de banho de sol seco podem provocar a dolorosa podridão da carapaça (shell rot). Hoje no PetSelf, explicamos os seus comportamentos corporais de banho de sol, sinais de aviso e uma rotina de manutenção do aquário de 3 passos para uma água cristalina.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+      Evidência Veterinária e Comportamental
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+      Este conteúdo baseia-se em <strong>Diretrizes de Banho de Sol da World Chelonian Association e Protocolo de Tartarugas Aquáticas</strong>.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+    🐾 Tartaruga Almíscar Comum (Common Musk Turtle) Perfil principal
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Vida útil média</span><span class="font-bold text-slate-800 dark:text-slate-200">20 ~ 30 anos</span></div>
@@ -43,7 +43,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
 
 ## 1. Sinais de banho de sol da tartaruga almíscar comum e defesa de retracção da carapaça
 
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+As tartarugas almíscar comum esticam as suas patas traseiras para trás enquanto apanham sol 'Alongamento de patas traseiras (Back-Leg Stretching)' para maximizar a absorção de luz. Pelo contrário, ao detetar ameaças ou vibrações, retraem a cabeça e extremidades na carapaça dura 'Retracção da carapaça (Shell Retraction)' para se defenderem.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -77,7 +77,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Manhã: Controlo de temperatura da água e alimentação equilibrada</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+    Verifique o termómetro da água (manter a 25-28 °C) and alimente com ração comercial de alta qualidade adequada para a idade.
   </p>
 </div>
 
@@ -87,7 +87,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: Verificação da lâmpada de banho de sol e lâmpadas UV-B</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+    Verifique se as lâmpadas de calor UV-B e de banho de sol funcionam corretamente para evitar a doença metabólica óssea (MBD).
   </p>
 </div>
 
@@ -97,7 +97,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noite: Limpeza de restos de comida e trocas de água semanais</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+    Sifoneie os resíduos e as sobras. Realize uma troca de água semanal de 30% utilizando água desclorada.
   </p>
 </div>
 
@@ -106,7 +106,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+      Observar simplesmente os sinais de calma do seu animal de estimação pode prevenir grandes problemas comportamentais e doenças induzidas pelo estresse. Embora o tratamento veterinário seja importante, proporcionar um ambiente seguro (degraus, espaços verticais, múltiplas fontes de água) é o escudo mais forte para apoiar a sua felicidade ao longo da vida.
     </p>
   </div>
 </div>
@@ -124,7 +124,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+      Não. O cloro da água da torneira irrita as membranas oculares e a pele sensível da tartaruga, causando secura ou inchaço. Utilize água repousada por 24 horas ou gotas de decloração.
     </p>
   </details>
 
@@ -134,7 +134,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+      Sim. À medida que as tartarugas crescem, mudam as placas antigas, que se desprendem como peças finas e translúcidas. No entanto, se observar secreções viscosas brancas ou uma carapaça mole e malcheirosa, é sinal de podridão e precisa de cuidados médicos.
     </p>
   </details>
 </div>

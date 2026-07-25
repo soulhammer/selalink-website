@@ -1,11 +1,11 @@
 ---
 title: "O Segredo do Bilionário no Bolso Traseiro: O Caderno Analógico e a Estimulação do SRA de Richard Branson"
 description: "Descubra como o fundador do Virgin Group, Sir Richard Branson, construiu mais de 400 empresas registrando inspirações em um caderno analógico no bolso traseiro, e explore os princípios neurocientíficos de como a escrita à mão estimula o Sistema de Ativação Reticular (SRA) para converter ideias em ação imediata."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-04"
+updatedDate: "2026-03-04"
 category: "BuildSelf"
-tags: ["O Segredo ","Routine"]
-heroImage: "/images/blog/branson_notebook_writing.png"
+tags: ["위인 습관", "리처드브랜슨", "손글씨메모", "아날로그메모", "실행력"]
+heroImage: "/images/blog/branson_notebook_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica da Autobiografia de Richard Branson *Like a Virgin: Secrets They Don't Teach You at Business School* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)"

@@ -1,11 +1,11 @@
 ---
 title: "対話で織りなす物理学：ニールス・ボーアの口述討論とメタ認知執筆法"
 description: "量子力学の巨匠ニールス・ボーアが同僚たちとの口述討論と口述筆記を通じて複雑な物理論文を完成させた独自のルーティン。内面のアイデアを外的言語として客観化しメタ認知を活性化させる神経科学的原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-19"
+updatedDate: "2026-01-19"
 category: "BuildSelf"
-tags: ["対話で織りなす物理学","Routine"]
-heroImage: "/images/blog/bohr_dialogue_dictation.png"
+tags: ["학습", "창의성", "사색"]
+heroImage: "/images/blog/bohr_dialogue_dictation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "アブラハム・パイス伝記『Niels Bohr's Times: In Physics, Philosophy, and Polity』考証＆認知神経科学（Cognitive Neuroscience）研究"

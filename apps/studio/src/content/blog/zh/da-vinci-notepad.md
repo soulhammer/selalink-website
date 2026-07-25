@@ -1,11 +1,11 @@
 ---
 title: "腰间时刻佩戴手账的天才：列奥纳多·达·芬奇的即时笔记与工作记忆外化习惯"
 description: "探索文艺复兴巨匠列奥纳多·达·芬奇腰间系着皮质手账随手捕捉观察与灵感的习惯，揭示释放工作记忆（Working Memory）容量的“外化（Externalization）”与降低认知负荷的神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-29"
+updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: ["腰间时刻佩戴手账的天","Routine"]
-heroImage: "/images/blog/da_vinci_notepad.png"
+tags: ["위인 습관", "레오나르도 다 빈치", "메모", "기록", "창의성"]
+heroImage: "/images/blog/da_vinci_notepad.webp"
 app: "buildself"
 formatVersion: 4
 authority: "沃尔特·艾萨克森传记《达·芬奇传（Leonardo da Vinci）》考证与认知神经科学（Cognitive Neuroscience）研究"

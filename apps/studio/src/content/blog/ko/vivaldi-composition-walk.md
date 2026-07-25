@@ -1,11 +1,11 @@
 ---
 title: "새벽 운하를 걸으며 오케스트라 스코어를 적은 천재? 안토니오 비발디의 악상 기록 루틴"
 description: "바로크 음악의 거장 안토니오 비발디. '사계' 등 500개가 넘는 협주곡을 탄생시킨 새벽 운하 산책 후 악상 쾌속 기록 루틴과 3단계 실천법을 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-24"
+updatedDate: "2026-06-24"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/vivaldi_composition_walk.png"
+tags: ["위인 습관", "Routine"]
+heroImage: "/images/blog/vivaldi_composition_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "안토니오 비발디 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

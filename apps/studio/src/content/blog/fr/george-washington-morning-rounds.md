@@ -1,11 +1,11 @@
 ---
 title: "Le journal agricole de George Washington : La routine d'inspection et de consignation à l'aube qui a forgé la gouvernance présidentielle"
 description: "Découvrez comment George Washington, qui se levait à 4h00 pour inspecter Mount Vernon et consigner des données agricoles précises, a bâti les fondations administratives d'une nation. Explorez la neuroscience de la métacognition."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-04"
+updatedDate: "2026-07-04"
 category: "BuildSelf"
-tags: ["Le journal","Routine"]
-heroImage: "/images/blog/george_washington_morning_rounds.png"
+tags: ["위인 습관", "조지 워싱턴", "행정력", "영농 일지", "메타 인지"]
+heroImage: "/images/blog/george_washington_morning_rounds.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue des biographies de George Washington, des archives du domaine de Mount Vernon & de la Recherche en Neurosciences Cognitives"

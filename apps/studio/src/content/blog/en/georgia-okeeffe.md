@@ -1,11 +1,11 @@
 ---
 title: "Examining Desert Animal Skulls Under a Magnifying Glass: Georgia O'Keeffe's Extreme Close-Up Observation and Visual Selective Attention Routine"
 description: "Discover how Georgia O'Keeffe, the 'Mother of American Modernism', maximized visual selective attention by magnifying desert animal bones and flower petals tenfold. Explore the neuroscience of the visual association cortex and close-up observation routines."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-25"
+updatedDate: "2026-02-25"
 category: "BuildSelf"
-tags: ["Great Habits","georgia","Routine","Stamina"]
-heroImage: "/images/blog/georgia_okeeffe.png"
+tags: ["위인 습관", "조지아 오키프", "이완", "성찰"]
+heroImage: "/images/blog/georgia_okeeffe.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from *Georgia O'Keeffe* Autobiography, Georgia O'Keeffe Museum Archives (Santa Fe) & Cognitive Neuroscience Research"

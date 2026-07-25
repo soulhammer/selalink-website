@@ -1,11 +1,11 @@
 ---
 title: "침묵의 30분과 6페이지 메모: 제프 베조스의 아마존 회의법과 독서 신경학"
 description: "아마존에서 PPT 발표를 금지하고 회의 시작 후 30분간 조용히 줄글 보고서를 정독하게 만든 제프 베조스의 의사결정 비결. 인과관계 중심의 서술형 독서가 전전두엽을 자극해 판단력을 극대화하는 신경과학적 원리를 밝힙니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-19"
+updatedDate: "2026-01-19"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/bezos_six_page_memo.png"
+tags: ["위인 습관", "제프 베조스", "의사결정", "계획", "생산성"]
+heroImage: "/images/blog/bezos_six_page_memo.webp"
 app: "buildself"
 formatVersion: 4
 authority: "제프 베조스 주주 서한(Shareholder Letter) 및 콜린 브라이어 『워킹 백워드(Working Backwards)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

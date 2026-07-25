@@ -1,11 +1,11 @@
 ---
 title: "몇 주 동안 옷을 벗지 않은 조각가? 미켈란젤로의 초몰입(Flow) 극대화 습관"
 description: "르네상스 최고의 거장 미켈란젤로 부오나로티. 시스티나 천장화와 다비드상을 조각할 때 옷과 장화를 벗지 않은 채 쪽잠을 자며 일했던 그의 인지 에너지 최소화 습관과 현대인을 위한 초몰입 설계법을 탐구합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-22"
+updatedDate: "2026-03-22"
 category: "BuildSelf"
-tags: ["Great Habits","michelangelo","Routine","Stamina"]
-heroImage: "/images/blog/michelangelo_flow.png"
+tags: ["위인 습관", "미켈란젤로", "몰입", "의사결정 피로", "생산성"]
+heroImage: "/images/blog/michelangelo_flow.webp"
 app: "buildself"
 formatVersion: 4
 authority: "미켈란젤로 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

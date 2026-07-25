@@ -1,11 +1,11 @@
 ---
 title: "시속 300km 속도의 명상: 아일톤 세나의 레이스 전 시각화 습관"
 description: "포뮬러 원(F1)의 전설적인 챔피언이자, 경기 전 콕핏 안에서 눈을 감고 트랙 전체를 완벽하게 시각화했던 아일톤 세나. 뇌의 운동 피질을 미리 활성화하여 실행 오차를 없애고 스트레스를 통제하는 멘탈 리허설의 신경학적 메커니즘을 밝깁니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-14"
+updatedDate: "2026-05-14"
 category: "BuildSelf"
-tags: ["시속 300km 속","Routine"]
-heroImage: "/images/blog/senna_pre_race_visualization.png"
+tags: ["집중", "몰입", "성공습관"]
+heroImage: "/images/blog/senna_pre_race_visualization.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Senna Pre Race Visualization 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

@@ -1,11 +1,11 @@
 ---
 title: "Writing in Bed with Blue Crayons: James Joyce's Energy Preservation Writing Routine and Primary Visual Cortex (V1) Fatigue Relief"
 description: "Discover how James Joyce crafted literary masterpieces like Finnegans Wake while lying in bed despite severe ocular diseases. Explore the neuroscience of reducing gravitational muscle load, alleviating primary visual cortex (V1) fatigue, and optimizing prefrontal brain energy."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-10"
+updatedDate: "2026-04-10"
 category: "BuildSelf"
-tags: ["Great Habits","joyce","Routine","Stamina"]
-heroImage: "/images/blog/joyce_bed_writing.png"
+tags: ["위인 습관", "휴식"]
+heroImage: "/images/blog/joyce_bed_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Richard Ellmann's *James Joyce* Biography, Joyce Archives & Cognitive Neuroscience and Visual Perception Research"

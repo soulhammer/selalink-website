@@ -1,11 +1,11 @@
 ---
 title: "O Rei do Automóvel que Desenhava a Inovação Caminhando pela Linha: O Esboço de Fluxo e a Rotina de Externalização Cognitiva de Henry Ford"
 description: "Descubra como Henry Ford, pioneiro da linha de montagem móvel, reduziu a carga pré-frontal percorrendo a fábrica e desenhando esquemas de fluxo. Explore a neurociência do rastreamento visual e da externalização cognitiva."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-23"
+updatedDate: "2026-06-23"
 category: "BuildSelf"
-tags: ["O Rei do A","Routine"]
-heroImage: "/images/blog/ford_line_walking.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/ford_line_walking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica da Autobiografia de Henry Ford *Minha Vida e Minha Obra (My Life and Work)*, Biografias Históricas e Pesquisa em Neurociência Cognitiva"

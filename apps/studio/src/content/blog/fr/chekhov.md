@@ -1,11 +1,11 @@
 ---
 title: "Une bouloche au col et le tremblement d'une pupille : La micro-observation et l'attention sélective d'Anton Tchekhov"
 description: "Découvrez comment Anton Tchekhov, maître de la nouvelle moderne, consignait méticuleusement les micro-détails des passants dans les salles d'attente et cafés, et percez les principes neuroscientifiques de l'Attention Sélective Micro améliorant la résolution cognitive."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-12"
+updatedDate: "2026-01-12"
 category: "BuildSelf"
-tags: ["Une bouloc","Routine"]
-heroImage: "/images/blog/chekhov.png"
+tags: ["위인 습관", "안톤 체호프", "기록", "메모"]
+heroImage: "/images/blog/chekhov.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de la biographie d'E. H. Carr *Anton Chekhov: A Critical Study* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

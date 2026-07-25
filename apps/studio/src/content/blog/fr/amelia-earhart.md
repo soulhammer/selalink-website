@@ -1,11 +1,11 @@
 ---
 title: "L'entraînement au contrôle cognitif d'Earhart : Immergée dans les relevés d'instruments même dans le cockpit en plein typhon"
 description: "Première aviatrice à réussir la traversée de l'Atlantique en solo, elle apaisait son anxiété de vol en consignant minutieusement les données météo et les variations du vent chaque matin."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-31"
+updatedDate: "2026-01-31"
 category: "BuildSelf"
-tags: ["L'entraîne","Routine"]
-heroImage: "/images/blog/amelia_earhart.png"
+tags: ["위인 습관", "어밀리아 이어하트", "분석", "시간 관리"]
+heroImage: "/images/blog/amelia_earhart.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de l'autobiographie d'Amelia Earhart *The Fun of It* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

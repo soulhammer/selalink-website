@@ -1,11 +1,11 @@
 ---
 title: "Julius Caesar's Simultaneous Dictation: Highly Focused Task-Switching and Working Memory Expansion"
 description: "Discover how Julius Caesar dictated multiple distinct letters and military commands simultaneously to several scribes on horseback or in carriages. Explore the neuroscience of working memory expansion, prefrontal cognitive flexibility, and sequential single-focus routines."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-14"
+updatedDate: "2026-01-14"
 category: "BuildSelf"
-tags: ["Great Habits","julius","Routine","Stamina"]
-heroImage: "/images/blog/julius_caesar_multi_dictation.png"
+tags: ["위인 습관", "율리우스 카이사르", "시간 관리", "작업 기억", "생산성"]
+heroImage: "/images/blog/julius_caesar_multi_dictation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Plutarch's *Parallel Lives*, Pliny the Elder's *Naturalis Historia* & Cognitive Neuroscience Research"

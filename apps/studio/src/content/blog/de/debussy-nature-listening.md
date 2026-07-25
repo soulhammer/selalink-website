@@ -1,11 +1,11 @@
 ---
 title: "Das Inspirationsgeheimnis von 'Clair de Lune': Claude Debussys morgendliches Naturhören und Pink-Noise-Alphawellen-Induktion"
 description: "Erkunden Sie, wie der Impressionist Claude Debussy in der Morgendämmerung dem Wind und Wasser lauschte, um Meisterwerke zu schaffen. Entdecken Sie die kognitiven Neurowissenschaften der Alphawellen-Induktion durch rosa Rauschen."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-27"
+updatedDate: "2026-03-27"
 category: "BuildSelf"
-tags: ["Das Inspir","Routine"]
-heroImage: "/images/blog/debussy_nature_listening.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/debussy_nature_listening.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus François Lesures Biografie *Claude Debussy* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

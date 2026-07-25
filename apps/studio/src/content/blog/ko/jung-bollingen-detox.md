@@ -1,11 +1,11 @@
 ---
 title: "볼링겐 오두막의 디지털 디톡스: 칼 융의 무의식 회복법과 DMN 인지 리셋"
 description: "분석심리학의 개척자 칼 융. 소음과 전기마저 차단된 오두막에서 장작을 패며 뇌를 리셋했던 그의 지혜와 기본 모드 네트워크(DMN) 활성화, 전전두엽 인지 자원 회복 원리 및 현대식 3단계 디지털 디톡스 루틴을 소개합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-21"
+updatedDate: "2026-01-21"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/jung_bollingen_detox.png"
+tags: ["위인 습관", "칼 융", "휴식", "사색", "디지털디톡스"]
+heroImage: "/images/blog/jung_bollingen_detox.webp"
 app: "buildself"
 formatVersion: 4
 authority: "칼 융 자서전 『기억, 꿈, 사상(Memories, Dreams, Reflections)』 및 볼링겐 타워 아카이브 사료 고증 & 분석심리학(Analytical Psychology) 및 인지신경과학(Cognitive Neuroscience) 연구"

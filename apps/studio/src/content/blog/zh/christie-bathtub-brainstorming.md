@@ -1,11 +1,11 @@
 ---
 title: "在浴缸里边吃苹果边策划凶案的女人：阿加莎·克里斯蒂的热水头脑风暴与DMN放松法"
 description: "探索推理小说之王阿加莎·克里斯蒂在热水浴缸里嚼着苹果构思缜密不在场证明与谋杀诡计的放松习惯，揭示预设模式网络（DMN）激活与咀嚼运动的认知神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["在浴缸里边吃苹果边策","Routine"]
-heroImage: "/images/blog/christie_bathtub_brainstorming.png"
+tags: ["위인 습관", "아가사 크리스티", "아이디어", "목욕", "창의성"]
+heroImage: "/images/blog/christie_bathtub_brainstorming.webp"
 app: "buildself"
 formatVersion: 4
 authority: "阿加莎·克里斯蒂自传《阿加莎·克里斯蒂自传（An Autobiography）》考证与认知神经科学（Cognitive Neuroscience）研究"

@@ -1,11 +1,11 @@
 ---
 title: "Sound That Spawns Perfect Sentences: Gustave Flaubert's 'Gueuloir' Recitation Habit and Auditory Feedback Routine"
 description: "Discover how novelist Gustave Flaubert, obsessed with 'le mot juste' (the exact word), achieved stylistic perfection. Explore the cognitive neuroscience of his 'Gueuloir' shouting room, dual-coding theory, motor cortex engagement, and auditory feedback loops."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-20"
+updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: ["Great Habits","flaubert","Routine","Stamina"]
-heroImage: "/images/blog/flaubert_gueuloir_recitation.png"
+tags: ["글쓰기", "창의성", "기록"]
+heroImage: "/images/blog/flaubert_gueuloir_recitation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Gustave Flaubert's *Correspondance*, Literary Biographies & Cognitive Neuroscience Research"

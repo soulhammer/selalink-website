@@ -1,11 +1,11 @@
 ---
 title: "Julius Cäsars 'Simultanes Diktat': Hochkonzentrierter Aufgabenwechsel und Erweiterung des Arbeitsgedächtnisses"
 description: "Erfahren Sie, wie Julius Cäsar auf dem Pferd oder im Wagen mehreren Schreibern gleichzeitig unterschiedliche Briefe und Befehle diktierte. Entdecken Sie die Neurowissenschaften der Arbeitsgedächtnis-Erweiterung und präfrontalen Flexibilität."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-14"
+updatedDate: "2026-01-14"
 category: "BuildSelf"
-tags: ["Julius Cäs","Routine"]
-heroImage: "/images/blog/julius_caesar_multi_dictation.png"
+tags: ["위인 습관", "율리우스 카이사르", "시간 관리", "작업 기억", "생산성"]
+heroImage: "/images/blog/julius_caesar_multi_dictation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Plutarchs *Parallelbiographien*, Plinius dem Älteren (*Naturalis Historia*) & Forschung der kognitiven Neurowissenschaften"

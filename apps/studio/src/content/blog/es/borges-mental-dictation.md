@@ -1,11 +1,11 @@
 ---
 title: "El Laberinto Dibujado en el Ojo de la Mente: La Rutina de Visualización de Memoria de Trabajo Visoespacial de Borges"
 description: "Descubra cómo el maestro literario argentino Jorge Luis Borges diseñó mentalmente estructuras tridimensionales de texto y laberintos tras perder la vista, dictando sus obras en voz alta. Explore los mecanismos neurocientíficos para maximizar la memoria de trabajo visoespacial y activar la plasticidad cruzada."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-21"
+updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: ["El Laberin","Routine"]
-heroImage: "/images/blog/borges_mental_dictation.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/borges_mental_dictation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la Biografía de Edwin Williamson *Borges: Una vida (Borges: A Life)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"

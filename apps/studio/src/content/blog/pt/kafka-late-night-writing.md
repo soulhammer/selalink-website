@@ -1,11 +1,11 @@
 ---
 title: "Dar à Luz Obras-Primas no Silêncio Absoluto: A Rotina de Escrita Noturna de Franz Kafka e a Regulação Descendente Frontal"
 description: "Descubra como o gigante literário do século XX Franz Kafka compôs obras-primas como A Metamorfose escrevendo das 23h ao amanhecer em absoluto silêncio. Explore a neurociência da regulação descendente frontal e imersão da memória de trabalho."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-01"
+updatedDate: "2026-04-01"
 category: "BuildSelf"
-tags: ["Dar à Luz ","Routine"]
-heroImage: "/images/blog/kafka_late_night_writing.png"
+tags: ["위인 습관", "프란츠 카프카", "밤샘 루틴", "집중력", "창의성"]
+heroImage: "/images/blog/kafka_late_night_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica da Biografia de Max Brod *Franz Kafka*, Diários de Kafka e Pesquisa em Neurociência Cognitiva"

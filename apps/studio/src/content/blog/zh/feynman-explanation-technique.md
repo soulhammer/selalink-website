@@ -1,11 +1,11 @@
 ---
 title: "诺贝尔奖得主的超高速学习法：理查德·费曼的“教授他人”习惯与元认知提升指南"
 description: "探索诺贝尔奖得主理查德·费曼将繁复的量子力学讲解至10岁孩童亦能听懂的秘诀。揭示通过元认知与主动提取（Active Retrieval）将知识内化为自身能力的神经科学原理与实践指南。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-11"
+updatedDate: "2026-02-11"
 category: "BuildSelf"
-tags: ["诺贝尔奖得主的超高速","Routine"]
-heroImage: "/images/blog/feynman_explanation_technique.png"
+tags: ["위인 습관", "리처드 파인만", "공부법", "메타인지", "자기계발"]
+heroImage: "/images/blog/feynman_explanation_technique.webp"
 app: "buildself"
 formatVersion: 4
 authority: "理查德·费曼自传《别闹了，费曼先生！（Surely You're Joking, Mr. Feynman!）》与加州理工讲义档案考证及认知神经科学（Cognitive Neuroscience）研究"

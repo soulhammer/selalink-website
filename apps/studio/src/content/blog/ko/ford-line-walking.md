@@ -1,11 +1,11 @@
 ---
 title: "생산 라인을 걸으며 혁신을 그린 자동차 왕: 헨리 포드의 도식 흐름 스케치법과 인지 오프로딩 루틴"
 description: "자동차 생산의 컨베이어 벨트 시스템을 발명한 헨리 포드. 매일 아침 조립 공장의 기계 움직임을 부드럽게 추적하고 수첩에 아날로그 도식으로 기록하여 전두엽의 부하를 덜었던 그의 뇌과학적 스케치 루틴과 시각적 추적 원리를 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-23"
+updatedDate: "2026-06-23"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/ford_line_walking.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/ford_line_walking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "헨리 포드 자서전 『내 삶과 사업(My Life and Work)』 및 역사 평전 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

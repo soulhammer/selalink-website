@@ -1,11 +1,11 @@
 ---
 title: "Dikte Simultan Julius Caesar: Teknik Peralihan Tugas Berfokus Tinggi dan Perluasan Memori Kerja"
 description: "Pelajari bagaimana Julius Caesar mendiktekan beberapa surat dan perintah militer yang berbeda secara bersamaan kepada beberapa juru tulis di atas kuda atau kereta. Temukan neurosains perluasan memori kerja dan fleksibilitas kognitif prefrontal."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-14"
+updatedDate: "2026-01-14"
 category: "BuildSelf"
-tags: ["Dikte Simu","Routine"]
-heroImage: "/images/blog/julius_caesar_multi_dictation.png"
+tags: ["위인 습관", "율리우스 카이사르", "시간 관리", "작업 기억", "생산성"]
+heroImage: "/images/blog/julius_caesar_multi_dictation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari *Parallel Lives* karya Plutarch, *Naturalis Historia* karya Pliny the Elder & Penelitian Neurosains Kognitif"

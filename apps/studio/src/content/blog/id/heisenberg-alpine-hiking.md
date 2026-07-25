@@ -1,11 +1,11 @@
 ---
 title: "Petunjuk Ketidakpastian dari Alam: Kebiasaan Mendaki Alpina Werner Heisenberg dan Rutinitas Inkubasi DMN"
 description: "Pelajari bagaimana Werner Heisenberg memecahkan dilema mekanika kuantum dengan mendaki sendirian melintasi Pegunungan Alpen Bavaria. Temukan ilmu tentang Teori Restorasi Perhatian (ART) dan inkubasi Default Mode Network (DMN)."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-06"
+updatedDate: "2026-02-06"
 category: "BuildSelf"
-tags: ["Petunjuk K","Routine"]
-heroImage: "/images/blog/heisenberg_alpine_hiking.png"
+tags: ["사색", "이완", "창의성"]
+heroImage: "/images/blog/heisenberg_alpine_hiking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari *Der Teil und das Ganze* karya Werner Heisenberg, Arsip Akademi Ilmu Pengetahuan Bavaria & Penelitian Neurosains Kognitif"

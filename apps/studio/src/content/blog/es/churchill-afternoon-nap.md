@@ -1,11 +1,11 @@
 ---
 title: "El Primer Ministro que Dividió su Día en Dos: La Rutina de Siesta Por la Tarde y Limpieza de Adenosina de Winston Churchill"
 description: "Descubra cómo el primer ministro británico Winston Churchill, quien lideró la victoria aliada en la Segunda Guerra Mundial, tomaba siestas diarias de 1,5 horas en cama. Explore la neurociencia cognitiva de eliminar la adenosina acumulada y restaurar la alerta cerebral sin inercia del sueño."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-24"
+updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: ["El Primer ","Routine"]
-heroImage: "/images/blog/churchill_afternoon_nap.png"
+tags: ["위인 습관", "윈스턴 처칠", "낮잠", "휴식", "에너지"]
+heroImage: "/images/blog/churchill_afternoon_nap.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la Biografía de Martin Gilbert *Winston S. Churchill* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"

@@ -1,11 +1,11 @@
 ---
 title: "尤利乌斯·恺撒的“同步口述”：高度专注的任务切换艺术与工作记忆拓宽指南"
 description: "探索尤利乌斯·恺撒如何在行军或战车途中同时向数位书记官口述多封不同主题的公文与军令。揭示重塑工作记忆（Working Memory）容量、升华前额叶认知灵活性的神经科学原理与3步骤指南。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-14"
+updatedDate: "2026-01-14"
 category: "BuildSelf"
-tags: ["尤利乌斯·恺撒的“同","Routine"]
-heroImage: "/images/blog/julius_caesar_multi_dictation.png"
+tags: ["위인 습관", "율리우스 카이사르", "시간 관리", "작업 기억", "생산성"]
+heroImage: "/images/blog/julius_caesar_multi_dictation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "普鲁塔克《比较列传（Parallel Lives）》与老普林尼《自然史（Naturalis Historia）》史料考证及认知神经科学（Cognitive Neuroscience）研究"

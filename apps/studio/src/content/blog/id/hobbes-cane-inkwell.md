@@ -1,11 +1,11 @@
 ---
 title: "Filsuf yang Memasang Botol Tinta di Tongkat Jalan: Metode Pencatatan Langsung dan Rutinitas Eksternalisasi Kognitif Thomas Hobbes"
 description: "Pelajari bagaimana pemikir Thomas Hobbes memasang botol tinta di tongkat jalannya untuk merekam ide-ide yang muncul secara langsung. Temukan neurosains perluasan memori kerja, Default Mode Network (DMN), dan eksternalisasi kognitif."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-16"
+updatedDate: "2026-03-16"
 category: "BuildSelf"
-tags: ["Filsuf yan","Routine"]
-heroImage: "/images/blog/hobbes_cane_inkwell.png"
+tags: ["산책 지팡이에 잉크","Routine"]
+heroImage: "/images/blog/hobbes_cane_inkwell.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari *Brief Lives* karya John Aubrey, Arsip Thomas Hobbes & Penelitian Neurosains Kognitif"

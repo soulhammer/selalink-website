@@ -23,16 +23,16 @@ faqs:
     answer: "Pat it dry, brush the surface with a thin layer of oil, and wrap it tightly in plastic wrap to prevent freezer burn and ice crystals."
 ---
 
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+Haben Sie frischen Lachs länger als zwei Tage im Kühlschrank gelagert? Lachs ist feucht, wodurch sich Bakterien schnell vermehren. Heute teilt FreshSnap offizielle FDA-Tipps zum geruchfreien Lagern.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Geprüfte wissenschaftliche Autorität
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Dieser Leitfaden entspricht den offiziellen Richtlinien von: <strong>FDA & USDA</strong>.
     </p>
   </div>
 </div>
@@ -41,7 +41,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
 
 ## 1. Warum so lagern? Wissenschaftliche Fakten
 
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtige Lagerungsmethode anzuwenden, ist entscheidend für Frische und Hygiene.
 
 ---
 
@@ -53,7 +53,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Oberflächliches Fett und Wasser abwischen — Kühllagerung (2Tage) 🍣</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+    Feuchtigkeit und Fett auf der Oberfläche von rohem Lachs sind der Hauptgrund für Bakterien. Lachs vor der Lagerung von beiden Seiten mit Küchenpapier abtupfen.
   </p>
 </div>
 
@@ -63,7 +63,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Zitronensaft oder Reiswein auftragen — Natürlicher Oxidationsschutz 🍋</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+    Bestreichen Sie den getrockneten Lachs dünn mit Zitronensaft oder etwas Reiswein (oder Mirin). Säure und Alkohol dienen als natürlicher Konservierungsschutz und verhindern das Ranzigwerden.
   </p>
 </div>
 
@@ -73,7 +73,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Lachs fest in Folie wickeln und Luft herauspressen — Gefrierlagerung (90Tage) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+    Wickeln Sie den behandelten Lachs fest in Frischhaltefolie (Luft entfernen) und legen ihn in einen Gefrierbeutel. Hält im Kühlschrank bis zu 2 Tage, im Gefrierschrank bis zu 60 Tage frisch.
   </p>
 </div>
 
@@ -86,7 +86,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
   <div>
     <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Feuchtigkeit und austretenden Fischsaft gründlich abtupfen</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Fischsaft an der Oberfläche verursacht Fischgeruch und beschleunigt den Verderb. Vor dem Einwickeln gut abtrocknen.
     </p>
   </div>
 </div>
@@ -96,7 +96,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
   <div>
     <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Vakuumieren oder luftdicht verschließen</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Sauerstoffkontakt oxidiert Fette und macht den Lachs trocken. Ein enges Einwickeln schützt vor Luftzufuhr.
     </p>
   </div>
 </div>
@@ -111,7 +111,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      If raw salmon loses its pink hue and fades to gray or yellow, it is oxidising and spoiling. If it feels slimy or smells sour, discard it immediately.
     </p>
   </details>
 
@@ -121,7 +121,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Pat it dry, brush the surface with a thin layer of oil, and wrap it tightly in plastic wrap to prevent freezer burn and ice crystals.
     </p>
   </details>
 </div>

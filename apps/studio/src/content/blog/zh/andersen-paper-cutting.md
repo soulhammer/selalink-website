@@ -1,11 +1,11 @@
 ---
 title: "治愈抑郁症的剪纸艺术？安徒生的剪纸惯例"
 description: "世界级童话作家汉斯·克里斯蒂安·安徒生。为您介绍他在终身抑郁与心理匮乏中开出美丽想象之花的秘诀——“剪纸（Paper Cutting）”的精神医学治疗原理与3步骤指南。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["治愈抑郁症的剪纸艺术","Routine"]
-heroImage: "/images/blog/andersen_paper_cutting.png"
+tags: ["위인 습관", "안데르센", "종이오리기", "미술치료", "뇌휴식"]
+heroImage: "/images/blog/andersen_paper_cutting.webp"
 app: "buildself"
 formatVersion: 4
 authority: "丹麦欧登塞安徒生博物馆（Hans Christian Andersen Museum）剪纸档案考证与认知神经科学（Cognitive Neuroscience）研究"

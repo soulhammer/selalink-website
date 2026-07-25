@@ -1,11 +1,11 @@
 ---
 title: "Das große Ganze in turbulenten Zeiten: Dschingis Khans Berggipfel-Visualisierungsroutine und periphere Sehmeditation"
 description: "Erfahren Sie, wie der Eroberer Dschingis Khan vor entscheidenden Schlachten mentale Störgeräusche ausblendete, indem er heilige Berge bestieg. Entdecken Sie die Kognitionspsychologie seiner 'Visuellen Meditation' und der Aufmerksamkeitswiederherstellung."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-21"
+updatedDate: "2026-04-21"
 category: "BuildSelf"
-tags: ["Das große ","Routine"]
-heroImage: "/images/blog/genghis_mountain_meditation.png"
+tags: ["위인 습관", "칭기즈칸", "시각화", "명상", "대자연휴식"]
+heroImage: "/images/blog/genghis_mountain_meditation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Jack Weatherfords *Dschingis Khan und der Weg in die Moderne*, *Die Geheime Geschichte der Mongolen* & Forschung der kognitiven Neurowissenschaften"

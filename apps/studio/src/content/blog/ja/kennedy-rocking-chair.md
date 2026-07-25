@@ -1,11 +1,11 @@
 ---
 title: "ホワイトハウス執務室のロッキングチェア：ジョン・F・ケネディの脊椎痛克服と前庭機関リラクセーション"
 description: "冷戦期の危機の中で極度の脊椎痛に耐えながらアメリカを率いたジョン・F・ケネディ。彼がオーバルオフィスでロッキングチェアに揺られながら身体的苦痛に打ち勝ちストレスをコントロールした脳科学的原理、前庭機関刺激、副交感神経系活性化および3段階実践法を公開します。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-10"
+updatedDate: "2026-02-10"
 category: "BuildSelf"
-tags: ["ホワイトハウス執務室","Routine"]
-heroImage: "/images/blog/kennedy_rocking_chair.png"
+tags: ["위인 습관", "존 F. 케네디", "스트레스 해소", "척추 건강", "휴식"]
+heroImage: "/images/blog/kennedy_rocking_chair.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ジョン・F・ケネディ大統領図書館（JFK Library）およびジェネット・トラベル（Janet Travell）主治医史料考証＆認知神経科学（Cognitive Neuroscience）および整形外科学（Orthopedics）研究"

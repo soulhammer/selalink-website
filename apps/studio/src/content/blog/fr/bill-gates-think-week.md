@@ -1,11 +1,11 @@
 ---
 title: "Une semaine de déconnexion : La « Semaine de réflexion » de Bill Gates et le travail profond silencieux"
 description: "Découvrez la routine de lecture isolée en chalet de Bill Gates, la « Semaine de réflexion (Think Week) », qui a propulsé les grands bonds en avant de Microsoft, et percez les principes neuroscientifiques d'élimination des résidus d'attention et de maximisation des visions à long terme."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-08"
+updatedDate: "2026-01-08"
 category: "BuildSelf"
-tags: ["Une semain","Routine"]
-heroImage: "/images/blog/bill_gates_think_week.png"
+tags: ["위인 습관", "빌 게이츠", "집중력", "사색", "독서"]
+heroImage: "/images/blog/bill_gates_think_week.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de la biographie de Walter Isaacson & des archives de Microsoft & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

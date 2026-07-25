@@ -1,11 +1,11 @@
 ---
 title: "Der Schriftsteller, der jeden Nachmittag 3 Stunden zügig spazierte: Charles Dickens' Ideen-Routine und DMN-Aktivierung"
 description: "Erkunden Sie, wie der Literat Charles Dickens durch einen täglichen 3-stündigen Spaziergang komplexe Charaktere und Plots schuf. Entdecken Sie die kognitiven Neurowissenschaften zur DMN-Aktivierung und BDNF-Ausschüttung."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-23"
+updatedDate: "2026-05-23"
 category: "BuildSelf"
-tags: ["Der Schrif","Routine"]
-heroImage: "/images/blog/dickens_afternoon_walk.png"
+tags: ["위인 습관", "찰스 디킨스", "산책", "창의성", "아이디어"]
+heroImage: "/images/blog/dickens_afternoon_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus John Forsters Biografie *Das Leben des Charles Dickens (The Life of Charles Dickens)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

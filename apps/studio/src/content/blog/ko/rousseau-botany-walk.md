@@ -1,11 +1,11 @@
 ---
 title: "식물을 채집하며 사색하다: 장자크 루소의 '식물학 산책과 카드 메모' 루틴"
 description: "야생 식물을 분류 및 채집하며 사색하고 주머니 속 카드에 즉흥 메모를 적었던 장자크 루소의 루틴을 소개합니다. 진화적 탐색 주의망이 뇌를 깨우는 신경과학적 원리를 설명합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-23"
+updatedDate: "2026-04-23"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/rousseau_botany_walk.png"
+tags: ["위인 습관", "사색"]
+heroImage: "/images/blog/rousseau_botany_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Rousseau Botany Walk 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

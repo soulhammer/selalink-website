@@ -1,11 +1,11 @@
 ---
 title: "서랍 속 썩은 사과 냄새로 영감을 얻은 극작가? 프리드리히 실러의 기이한 몰입 루틴"
 description: "독일의 대문호 프리드리히 실러는 서랍 속 썩은 사과의 자극적인 향을 맡으며 창작에 몰입했습니다. 후각 자극이 어떻게 뇌를 각성시키고 몰입을 돕는지 과학적 원리와 현대적 아로마 앵커링 실천법을 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-05"
+updatedDate: "2026-05-05"
 category: "BuildSelf"
-tags: ["Great Habits","schiller","Routine","Stamina"]
-heroImage: "/images/blog/schiller_rotten_apple.png"
+tags: ["서랍 속 썩은 사과","Routine"]
+heroImage: "/images/blog/schiller_rotten_apple.webp"
 app: "buildself"
 formatVersion: 4
 authority: "프리드리히 실러 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

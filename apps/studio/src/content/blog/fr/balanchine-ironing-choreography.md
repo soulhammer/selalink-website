@@ -1,11 +1,11 @@
 ---
 title: "La danse de l'inconscient : La méthode de chorégraphie de George Balanchine par les simples tâches ménagères"
 description: "Découvrez comment le chorégraphe George Balanchine utilisait de simples tâches ménagères répétitives comme le repassage pour débloquer ses idées lors de pannes d'inspiration, et comprenez le mécanisme neuronal où une activité physique simple désactive la censure préfrontale pour activer le réseau en mode par défaut (DMN)."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-01"
+updatedDate: "2026-04-01"
 category: "BuildSelf"
-tags: ["La danse d","Routine"]
-heroImage: "/images/blog/balanchine_ironing_choreography.png"
+tags: ["위인 습관", "조지 발란신", "창의성", "사색", "이완", "루틴"]
+heroImage: "/images/blog/balanchine_ironing_choreography.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de la biographie de George Balanchine *By George Balanchine* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

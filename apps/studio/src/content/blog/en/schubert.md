@@ -1,11 +1,11 @@
 ---
 title: "기상 직후 안경을 쓴 채 작곡 오선지로 나아간 슈베르트의 즉각 집필 루틴"
 description: "31세의 짧은 생애 동안 600곡 이상의 가곡을 남긴 가곡의 왕으로, 기상 직후 안경을 쓴 채 꿈의 잔상을 오선지에 옮겨 담았습니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-08"
+updatedDate: "2026-07-08"
 category: "BuildSelf"
-tags: ["Great Habits","schubert","Routine","Stamina"]
-heroImage: "/images/blog/schubert.png"
+tags: ["위인 습관", "프란츠 슈베르트", "계획", "아이디어"]
+heroImage: "/images/blog/schubert.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Schubert 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

@@ -4,7 +4,7 @@ description: "Erfahren Sie, wie der Vater der Mikrobiologie, Antonie van Leeuwen
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["Antonie va","Routine"]
+tags: ["위습관","루틴"]
 heroImage: "/images/blog/leeuwenhoek_lens_grinding.png"
 app: "buildself"
 formatVersion: 4

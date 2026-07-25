@@ -1,11 +1,11 @@
 ---
 title: "Repository of Philosophical Thought: Hegel's Dialectical Card Index Method and Cognitive Scaffolding Routine"
 description: "Behind G. W. F. Hegel's completion of German Idealism lay tens of thousands of knowledge cards and a rigorous categorization box system. Explore his cognitive scaffolding routine and a 3-step actionable framework to bypass working memory limits."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["Great Habits","hegel","Routine","Stamina"]
-heroImage: "/images/blog/hegel_card_index.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/hegel_card_index.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from G. W. F. Hegel Biographies, *Phänomenologie des Geistes* Archives & Cognitive Neuroscience Research"

@@ -1,11 +1,11 @@
 ---
 title: "난세를 돌파하는 큰 그림: 칭기즈칸의 산정 시각화 루틴과 주변 시야 명상법"
 description: "대제국을 건설한 정복자 칭기즈칸. 중대한 전쟁과 결정을 앞두고 홀로 성산에 올라 마음의 소음을 지웠던 그의 '산정 시각화(Visual Meditation)'의 인지 심리학적 원리와 주의 회복 이론, 3단계 실천법을 소개합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-21"
+updatedDate: "2026-04-21"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/genghis_mountain_meditation.png"
+tags: ["위인 습관", "칭기즈칸", "시각화", "명상", "대자연휴식"]
+heroImage: "/images/blog/genghis_mountain_meditation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "잭 웨더포드 『칭기즈칸, 현대세계를 열다(Genghis Khan and the Making of the Modern World)』 및 『몽골비사(The Secret History of the Mongols)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

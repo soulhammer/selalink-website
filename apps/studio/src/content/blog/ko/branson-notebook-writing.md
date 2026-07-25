@@ -1,11 +1,11 @@
 ---
 title: "청바지 뒷주머니의 억만장자 비결: 리처드 브랜슨의 아날로그 수첩과 RAS 자극법"
 description: "버진 그룹 창업자 리처드 브랜슨 회장이 청바지 뒷주머니의 아날로그 수첩에 영감을 실시간 기록해 400여 개 기업을 일군 습관. 손필기가 망상활성계(RAS)를 자극하여 아이디어를 즉각적 실행으로 연결하는 신경과학적 원리를 밝힙니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-04"
+updatedDate: "2026-03-04"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/branson_notebook_writing.png"
+tags: ["위인 습관", "리처드브랜슨", "손글씨메모", "아날로그메모", "실행력"]
+heroImage: "/images/blog/branson_notebook_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "리처드 브랜슨 자서전 『내가 버진을 이끄는 방식(Like a Virgin: Secrets They Don't Teach You at Business School)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

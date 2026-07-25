@@ -1,11 +1,11 @@
 ---
 title: "Répertoire de la pensée philosophique : La méthode dialectique de fiches cartonnées et la routine d'échafaudage cognitif de Hegel"
 description: "Derrière le parachèvement de l'idéalisme allemand par G. W. F. Hegel se trouvaient des dizaines de milliers de fiches de connaissances et un système de classement rigoureux. Explorez son échafaudage cognitif et un guide en 3 étapes pour dépasser les limites de la mémoire de travail."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["Répertoire","Routine"]
-heroImage: "/images/blog/hegel_card_index.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/hegel_card_index.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue des biographies de G. W. F. Hegel, des archives de la *Phénoménologie de l'esprit (Phänomenologie des Geistes)* & de la Recherche en Neurosciences Cognitives"

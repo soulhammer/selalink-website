@@ -1,11 +1,11 @@
 ---
 title: "천연두를 정복한 백신의 아버지: 에드워드 제너의 현장 관찰 기록 루틴과 그릿(Grit)의 뇌과학"
 description: "인류를 전염병에서 구한 의사 에드워드 제너가 매일 마을 가구를 직접 방문하며 우두 관찰 기록을 수년간 누적해 백신을 발명한 과학적 습관. 과정 중심 도파민 보상 회로 재편과 전전두엽 그릿(Grit) 활성화의 뇌과학을 탐구합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-14"
+updatedDate: "2026-07-14"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/jenner_observation_tracking_log.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/jenner_observation_tracking_log.webp"
 app: "buildself"
 formatVersion: 4
 authority: "에드워드 제너 논문 『우두 백신의 원인과 효과에 관한 연구(An Inquiry into the Causes and Effects of the Variolae Vaccinae, 1798)』 및 왕립학회 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 의학사(History of Medicine) 연구"

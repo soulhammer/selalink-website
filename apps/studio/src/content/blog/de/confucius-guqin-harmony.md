@@ -4,8 +4,8 @@ description: "Erkunden Sie, wie Konfuzius, Meister der östlichen Philosophie, w
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["Die Stimme","Routine"]
-heroImage: "/images/blog/confucius_guqin_harmony.png"
+tags: ["위인 습관", "공자", "거문고", "음악치료", "마음조율"]
+heroImage: "/images/blog/confucius_guqin_harmony.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Sima Qians *Aufzeichnungen des Chronisten (Shiji: Haus des Konfuzius)* & *Analekten (Lunyu)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

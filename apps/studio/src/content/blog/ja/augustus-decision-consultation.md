@@ -1,11 +1,11 @@
 ---
 title: "ゆっくり急いで下した皇帝の決断：アウグストゥスの多角的助言傾聴習慣"
 description: "シーザーの暗殺以降、独断の代わりにマイケナスやアグリッパら参謀たちの異論を徹底的に傾聴し、決定を単純化したローマ皇帝アウグストゥス。最初の判断を盲信する確証バイアスを打ち破る傾聴とフィルタリングの脳科学的原理を解明します。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["ゆっくり急いで下した","Routine"]
-heroImage: "/images/blog/augustus_decision_consultation.png"
+tags: ["의사결정", "단순화", "생산성"]
+heroImage: "/images/blog/augustus_decision_consultation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "スエトニウス『皇帝伝（De vita Caesarum）』＆カシウス・ディオ『ローマ史』考証＆認知神経科学（Cognitive Neuroscience）研究"

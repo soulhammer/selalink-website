@@ -1,11 +1,11 @@
 ---
 title: "Die Allgemeine Theorie aus dem Bett: John Maynard Keynes' morgendliche Arbeitsgewohnheit im Bett und CAR-Aktivierung"
 description: "Erfahren Sie, wie der Makroökonom John Maynard Keynes, der die Great Depression überwand, nach dem Aufstehen zwei Stunden lang im Bett Manuskripte verfasste. Entdecken Sie die Neurowissenschaften der Cortisol-Aufwachreaktion (CAR) und eine 3-Schritte-Routine."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-08"
+updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: ["Die Allgem","Routine"]
-heroImage: "/images/blog/keynes_morning_bed_work.png"
+tags: ["집중", "생산성", "성공습관"]
+heroImage: "/images/blog/keynes_morning_bed_work.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Robert Skidelskys Biografie *John Maynard Keynes*, Keynes-Archiven & Forschung der kognitiven Neurowissenschaften und Neuromuskulärwissenschaften"

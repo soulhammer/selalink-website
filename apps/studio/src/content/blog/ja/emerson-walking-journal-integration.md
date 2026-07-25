@@ -1,11 +1,11 @@
 ---
 title: "拡散と収束の二重奏：ラルフ・ワルド・エマーソンの散歩メモと夜間ジャーナル習慣"
 description: "アメリカの代表的思想家ラルフ・ワルド・エマーソン。昼の散歩メモ（拡散的思考）と夜の日記執筆（収束的思考）を結合させ、ひらめいたアイデアを有機的な哲学体系へと完成させた認知の2段階ルーティンを分析します。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-02"
+updatedDate: "2026-06-02"
 category: "BuildSelf"
-tags: ["拡散と収束の二重奏：","Routine"]
-heroImage: "/images/blog/emerson_walking_journal_integration.png"
+tags: ["사색", "휴식", "기록"]
+heroImage: "/images/blog/emerson_walking_journal_integration.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ラルフ・ワルド・エマーソンジャーナル集『エマーソン・ジャーナル（The Journals of Ralph Waldo Emerson）』考証＆認知神経科学（Cognitive Neuroscience）研究"

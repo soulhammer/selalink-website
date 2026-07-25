@@ -1,11 +1,11 @@
 ---
 title: "『月の光』作曲家のインスピレーションの秘訣：クロード・ドビュッシーの早朝自然音リスニングとピンクノイズ・アルファ波誘導法"
 description: "印象主義音楽の巨匠クロード・ドビュッシーが早朝の森の風の音や水の音に耳を澄ませ名曲を生み出した聴覚センサリー・ルーティン。自然のピンクノイズ（Pink Noise）が脳波をアルファ波へと転換し直感的創造性を高める認知神経科学的原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-27"
+updatedDate: "2026-03-27"
 category: "BuildSelf"
-tags: ["『月の光』作曲家のイ","Routine"]
-heroImage: "/images/blog/debussy_nature_listening.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/debussy_nature_listening.webp"
 app: "buildself"
 formatVersion: 4
 authority: "フランソワ・ルシュール伝記『Claude Debussy』考証＆認知神経科学（Cognitive Neuroscience）研究"

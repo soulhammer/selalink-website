@@ -1,11 +1,11 @@
 ---
 title: "Metode Pembelajaran Super Cepat Peraih Nobel: Kebiasaan Mengajar dan Pemaksimalan Metakognitif Richard Feynman"
 description: "Pelajari bagaimana peraih Nobel Richard Feynman mengajarkan mekanika kuantum yang rumit sehingga anak berusia 10 tahun dapat memahaminya. Temukan neurosains kognitif tentang metakognisi dan penarikan aktif."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-11"
+updatedDate: "2026-02-11"
 category: "BuildSelf"
-tags: ["Metode Pem","Routine"]
-heroImage: "/images/blog/feynman_explanation_technique.png"
+tags: ["위인 습관", "리처드 파인만", "공부법", "메타인지", "자기계발"]
+heroImage: "/images/blog/feynman_explanation_technique.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Biografi Richard Feynman *Surely You're Joking, Mr. Feynman!*, Arsip Kuliah Caltech & Penelitian Neurosains Kognitif"

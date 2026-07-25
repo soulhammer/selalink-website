@@ -1,11 +1,11 @@
 ---
 title: "Der Zinseszinseffekt des Wissens: Warren Buffetts tägliche 500-Seiten-Lese-Gewohnheit und kognitive Reserve"
 description: "Erkunden Sie Warren Buffetts zentrales Erfolgsgeheimnis – das tägliche Lesen von 500 Seiten – und entdecken Sie die kognitiven Neurowissenschaften hinter der Stärkung neuronaler Netzwerke, dem Aufbau kognitiver Reserven und beschleunigter Mustererkennung."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-10"
+updatedDate: "2026-06-10"
 category: "BuildSelf"
-tags: ["Der Zinses","Routine"]
-heroImage: "/images/blog/buffett_reading_habit.png"
+tags: ["위인 습관", "워런 버핏", "독서", "투자", "성공습관", "학습"]
+heroImage: "/images/blog/buffett_reading_habit.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Alice Schroeders Biografie *Das Schneeball-Prinzip (The Snowball: Warren Buffett and the Business of Life)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

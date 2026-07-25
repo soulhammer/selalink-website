@@ -1,11 +1,11 @@
 ---
 title: "흙을 일구어 작곡한 멜로디: 주세페 베르디의 아침 농업 노동 습관"
 description: "악보를 그리기 전 새벽 5시에 일어나 산타가타 농장에서 직접 흙을 갈고 땀을 흘렸던 주세페 베르디. 아침 자연광 아래 신체 노동이 뇌에 풍부한 세로토닌을 공급하여 창작적 영감을 촉발하는 메커니즘을 규명합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-21"
+updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: ["흙을 일구어 작곡한","Routine"]
-heroImage: "/images/blog/verdi_morning_farming.png"
+tags: ["창의성", "휴식", "생산성"]
+heroImage: "/images/blog/verdi_morning_farming.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verdi Morning Farming 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

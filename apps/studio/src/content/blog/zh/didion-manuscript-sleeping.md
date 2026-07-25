@@ -1,11 +1,11 @@
 ---
 title: "睡眠期间大脑在解演方案：琼·狄迪恩的手稿同眠睡眠法与REM睡眠引发效应"
 description: "探索美国传奇作家琼·狄迪恩将未竟手稿带入卧室同眠以捋清复杂叙事线索的睡眠习惯，揭示认知引发（Cognitive Priming）与REM睡眠期间记忆重组巩固的神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-02"
+updatedDate: "2026-06-02"
 category: "BuildSelf"
-tags: ["睡眠期间大脑在解演方","Routine"]
-heroImage: "/images/blog/didion_manuscript_sleeping.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/didion_manuscript_sleeping.webp"
 app: "buildself"
 formatVersion: 4
 authority: "特雷西·多尔蒂传记《最后的情歌（The Last Love Song）》与《巴黎评论（The Paris Review）》考证与认知神经科学（Cognitive Neuroscience）研究"

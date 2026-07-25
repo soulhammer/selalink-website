@@ -1,11 +1,11 @@
 ---
 title: "아이디어가 정체될 때 즉시 옆 화폭으로 스위칭한 피카소의 유연 몰입법"
 description: "입체주의를 창시한 현대 미술의 거장으로, 밤 시간대에 방해 요소를 완전히 차단한 단일 촛불 빛 속에서 창조적 불꽃을 태웠습니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-15"
+updatedDate: "2026-02-15"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/picasso.png"
+tags: ["위인 습관", "파블로 피카소", "휴식", "창의성"]
+heroImage: "/images/blog/picasso.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Picasso 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

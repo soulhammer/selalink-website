@@ -1,11 +1,11 @@
 ---
 title: "귀족 신분에도 집필 전 밭을 갈았다? 레프 톨스토이의 신체 각성 루틴"
 description: "대문호 레프 톨스토이가 《전쟁과 평화》 같은 방대한 소설을 쓸 수 있었던 에너지는 어디서 나왔을까요? 매일 아침 집필 전 신체 운동과 체조를 통해 두뇌 기능을 깨웠던 그의 건강 루틴을 파헤쳐 봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-11"
+updatedDate: "2026-05-11"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/tolstoy_physical_labor.png"
+tags: ["위인 습관", "레프 톨스토이", "운동", "신체활력", "두뇌각성"]
+heroImage: "/images/blog/tolstoy_physical_labor.webp"
 app: "buildself"
 formatVersion: 4
 authority: "레프 톨스토이 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

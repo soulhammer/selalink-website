@@ -1,11 +1,11 @@
 ---
 title: "바르셀로나를 4km 걸은 거장: 안토니 가우디의 창의적 산책법과 유기적 건축 영감 루틴"
 description: "천재 건축가 안토니 가우디. 매일 4km씩 바르셀로나를 걸으며 자연의 구조를 건축물로 이식했던 그의 산책 루틴과 걷기를 통한 아이디어 발상법, 뇌과학적 원리를 소개합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-13"
+updatedDate: "2026-04-13"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/gaudi_nature_walk.png"
+tags: ["위인 습관", "안토니 가우디", "창의성", "산책", "영감"]
+heroImage: "/images/blog/gaudi_nature_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "헤이스 판 헨스베르헌 『가우디 평전(Gaudí: The Biography)』 고증 & 인지신경과학(Cognitive Neuroscience) 및 환경심리학(Environmental Psychology) 연구"

@@ -1,11 +1,11 @@
 ---
 title: "Tuning the Soul: Pablo Casals's Morning Bach Prelude Routine and Alpha Wave Induction"
 description: "Discover how legendary cellist Pablo Casals started every morning for over 80 years playing Bach's The Well-Tempered Clavier, and explore the neuroscientific mechanisms of how musical entrainment activates alpha waves and balances the autonomic nervous system."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-24"
+updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: ["Great Habits","casals","Routine","Stamina"]
-heroImage: "/images/blog/casals_bach_prelude.png"
+tags: ["위인 습관", "파블로 카살스", "안정", "명상", "창의성", "루틴"]
+heroImage: "/images/blog/casals_bach_prelude.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Pablo Casals's Autobiography *Joys and Sorrows: Reflections by Pablo Casals* & Cognitive Neuroscience Research"

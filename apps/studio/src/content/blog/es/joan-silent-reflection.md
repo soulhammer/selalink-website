@@ -1,11 +1,11 @@
 ---
 title: "El Ancla Inquebrantable de la Convicción: La Rutina de Silencio Matutino y Estabilización de la Amígdala de Juana de Arco"
 description: "Descubra cómo la heroína francesa Juana de Arco preservó una convicción inquebrantable durante la Guerra de los Cien Años. Explore la neuropsicología de la supresión del ruido, la estabilización de la amígdala y la alineación cognitiva."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-12"
+updatedDate: "2026-02-12"
 category: "BuildSelf"
-tags: ["El Ancla I","Routine"]
-heroImage: "/images/blog/joan_silent_reflection.png"
+tags: ["위인 습관", "잔다르크", "침묵명상", "신념정렬", "멘탈회복"]
+heroImage: "/images/blog/joan_silent_reflection.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de las Actas del Juicio de Juana de Arco (*Procès de Condamnation et de Réhabilitation*) e Investigación en Neurociencia Cognitiva"

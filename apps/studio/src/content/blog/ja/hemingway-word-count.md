@@ -1,11 +1,11 @@
 ---
 title: "毎日書いた単語数をチャートに記録し自分をモニタリングする：アーネスト・ヘミングウェイの定量執筆チャートとドパミン報酬ルーティン"
 description: "ノーベル賞受賞作家アーネスト・ヘミングウェイが毎日自分の執筆単語数をチャートに記録した習慣。自己モニタリング（Self-Monitoring）効果とドパミン報酬回路、前頭前野活性化の脳科学的原理を探求します。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-05"
+updatedDate: "2026-02-05"
 category: "BuildSelf"
-tags: ["毎日書いた単語数をチ","Routine"]
-heroImage: "/images/blog/hemingway_word_count.png"
+tags: ["위인 습관", "헤밍웨이", "글쓰기", "생산성", "자기관찰"]
+heroImage: "/images/blog/hemingway_word_count.webp"
 app: "buildself"
 formatVersion: 4
 authority: "アーネスト・ヘミングウェイ回想録『移動祝祭日（A Moveable Feast）』およびジョージ・プリンプトン・インタビュー（Paris Review, 1958）史料考証＆認知神経科学（Cognitive Neuroscience）研究"

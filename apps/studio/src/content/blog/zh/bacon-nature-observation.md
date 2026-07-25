@@ -1,11 +1,11 @@
 ---
 title: "弗兰西斯·培根的晨间花园散步：通过自然观察重置大脑疲劳的方法"
 description: "探索经验论大师弗兰西斯·培根每天早晨在花园散步、观察植物与天气、消除大脑疲劳并确立归纳法哲学的方法。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-04"
+updatedDate: "2026-01-04"
 category: "BuildSelf"
-tags: ["弗兰西斯·培根的晨间","Routine"]
-heroImage: "/images/blog/bacon_nature_observation.png"
+tags: ["산책", "자연관찰", "경험론", "근세"]
+heroImage: "/images/blog/bacon_nature_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "弗兰西斯·培根随笔集《论花园（Of Gardens）》考证与认知神经科学（Cognitive Neuroscience）研究"

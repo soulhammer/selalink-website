@@ -1,11 +1,11 @@
 ---
 title: "Superando a Sobrecarga de Decisões com Cavalgadas Matinais: A Estimulação Aeróbica de Bismarck e a Rotina TOP 3"
 description: "Descubra como Otto von Bismarck, o 'Chanceler de Ferro' que unificou a Alemanha, combinou a cavalgada matinal com o método de extração das TOP 3 prioridades, e explore os princípios neurocientíficos de elevar o fluxo sanguíneo cerebral para prevenir a fadiga de decisão."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-16"
+updatedDate: "2026-03-16"
 category: "BuildSelf"
-tags: ["Superando ","Routine"]
-heroImage: "/images/blog/bismarck_morning_ride_priority.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/bismarck_morning_ride_priority.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica da Autobiografia de Otto von Bismarck *Gedanken und Erinnerungen* e da Biografia de A.J.P. Taylor *Bismarck: The Man and the Statesman* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)"

@@ -4,7 +4,7 @@ description: "探索19世纪计算机之父查尔斯·巴贝奇通过精密齿�
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["查尔斯·巴贝奇的差分","Routine"]
+tags: ["위습관","루틴"]
 heroImage: "/images/blog/babbage_difference_engine.png"
 app: "buildself"
 formatVersion: 4

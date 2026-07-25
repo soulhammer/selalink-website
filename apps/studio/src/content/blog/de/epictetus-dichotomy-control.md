@@ -1,11 +1,11 @@
 ---
 title: "Der vom Sklaven zum Philosophen gewordene Denker, der lehrte, das Unkontrollierbare zu ignorieren: Epiktets Abendroutine der Dychotomie der Kontrolle"
 description: "Erfahren Sie, wie Epiktet, der in Sklaverei geborene stoische Meister, alltägliche Angstzustände eliminierte, indem er streng zwischen dem trennte, was in unserer Macht liegt, und dem, was nicht. Entdecken Sie seine Abendroutine durch die kognitiven Neurowissenschaften."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-15"
+updatedDate: "2026-05-15"
 category: "BuildSelf"
-tags: ["Der vom Sk","Routine"]
-heroImage: "/images/blog/epictetus_dichotomy_control.png"
+tags: ["위인 습관", "Routine"]
+heroImage: "/images/blog/epictetus_dichotomy_control.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Epiktets *Gesprächen (Discourses)* und *Handbüchlein (Enchiridion)* & Forschung der kognitiven Neurowissenschaften"

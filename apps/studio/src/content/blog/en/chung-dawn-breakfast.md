@@ -1,11 +1,11 @@
 ---
 title: "The Excitement of Dawn: Chairman Ju-Yung Chung's 5 AM Family Breakfast and Walking Routine"
 description: "Explore how Hyundai founder Ju-Yung Chung woke up at 4 AM daily and shared family breakfast to anchor his lifetime success. Discover the neuroscientific principles of morning aerobic movement and emotional bonding that stabilize cortisol and boost daily vitality."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-12"
+updatedDate: "2026-06-12"
 category: "BuildSelf"
-tags: ["Great Habits","chung","Routine","Stamina"]
-heroImage: "/images/blog/chung_dawn_breakfast.png"
+tags: ["위인 습관", "정주영", "의지력", "계획", "시간 관리"]
+heroImage: "/images/blog/chung_dawn_breakfast.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Ju-Yung Chung's Autobiography *Born of this Land: My Life Story* & Cognitive Neuroscience Research"

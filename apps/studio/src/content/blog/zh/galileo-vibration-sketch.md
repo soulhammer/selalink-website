@@ -1,11 +1,11 @@
 ---
 title: "伽利略的摆动草图：解构复杂结构的空间认知简化术与视空间草图习惯"
 description: "探索现代科学之父伽利略·伽利略如何通过绘制摆灯与单摆的几何草图构建直观的物理定律。深度剖析激活大脑视空间草图（Visuospatial Sketchpad）与双重编码理论的神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-01"
+updatedDate: "2026-02-01"
 category: "BuildSelf"
-tags: ["伽利略的摆动草图：解","Routine"]
-heroImage: "/images/blog/galileo_vibration_sketch.png"
+tags: ["시각화", "스케치", "물리학", "근세"]
+heroImage: "/images/blog/galileo_vibration_sketch.webp"
 app: "buildself"
 formatVersion: 4
 authority: "伽利略·伽利略著作集《关于两门新科学的谈话（Two New Sciences）》与《试金者（Il Saggiatore）》、比萨大学史料考证及认知神经科学（Cognitive Neuroscience）研究"

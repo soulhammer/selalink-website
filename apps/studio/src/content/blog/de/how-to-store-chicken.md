@@ -23,16 +23,16 @@ faqs:
     answer: "Poultry has high moisture content and a delicate protein structure, making it highly susceptible to rapid bacterial growth. Keep chilled only for 2 days."
 ---
 
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+Das Waschen von rohem Hühnchen kann gefährliche Bakterien in der gesamten Küche verteilen. Heute teilt FreshSnap offizielle CDC-Tipps zur sicheren Handhabung und Lagerung.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Geprüfte wissenschaftliche Autorität
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Dieser Leitfaden entspricht den offiziellen Richtlinien von: <strong>USDA & MFDS & CDC</strong>.
     </p>
   </div>
 </div>
@@ -41,7 +41,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
 
 ## 1. Warum so lagern? Wissenschaftliche Fakten
 
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtige Lagerungsmethode anzuwenden, ist entscheidend für Frische und Hygiene.
 
 ---
 
@@ -53,7 +53,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Geflügel niemals mit Wasser waschen — Kreuzkontamination vermeiden ❌💧</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+    Das Waschen von rohem Hühnerfleisch spritzt Bakterien wie Campylobacter bis zu 50 cm weit um das Spülbecken herum und kontaminiert Geschirr und Oberflächen. Fleisch stattdessen mit Küchenpapier abtupfen oder kurz blanchieren.
   </p>
 </div>
 
@@ -63,7 +63,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">In zwei Beuteln verschließen und auf dem untersten Fach lagern — Kühllagerung (2Tage) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+    Der austretende Fleischsaft von Geflügel enthält Bakterien und kann andere Lebensmittel verderben. Verpacken Sie das Fleisch doppelt und lagern es auf der untersten Ebene des Kühlschranks, wo es am kältesten ist.
   </p>
 </div>
 
@@ -73,7 +73,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Leicht mit Salz und Kochwein würzen — Gefrierlagerung (90Tage) 🧂</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+    Wenn Sie das Fleisch nicht sofort zubereiten, streuen Sie etwas Salz und Reiswein oder klaren Alkohol darüber. Der Alkohol desinfiziert, während das Salz die Fasern festigt, was die Frische um einen Tag verlängert.
   </p>
 </div>
 
@@ -86,7 +86,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
   <div>
     <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Eigene Schneidebretter und Messer für rohes Geflügel verwenden</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Geflügelwerkzeuge müssen gründlich sterilisiert werden. Die direkte Weiterverwendung für Salat führt zu Kreuzkontaminationen.
     </p>
   </div>
 </div>
@@ -96,7 +96,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
   <div>
     <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">In 2 Tagen verbrauchen oder sofort einfrieren</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Hühnchen hat mehr Feuchtigkeit und Bakterien als Schwein oder Rind, weshalb es extrem schnell verdirbt. Maximal 48 Stunden kühlen.
     </p>
   </div>
 </div>
@@ -111,7 +111,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      No, washing raw chicken spreads food poisoning bacteria (like Campylobacter) to utensils and surfaces through splashing water. Thorough cooking kills all bacteria safely.
     </p>
   </details>
 
@@ -121,7 +121,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Poultry has high moisture content and a delicate protein structure, making it highly susceptible to rapid bacterial growth. Keep chilled only for 2 days.
     </p>
   </details>
 </div>

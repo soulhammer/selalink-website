@@ -1,11 +1,11 @@
 ---
 title: "バルセロナを4km歩いた巨匠：アントニ・ガウディの創造的散歩法と有機的建築インスピレーションルーティン"
 description: "天才建築家アントニ・ガウディ。毎日4kmずつバルセロナを歩き、自然の構造を建築物へ移植した彼の散歩ルーティンと、歩行を通じたアイデア発想法、脳科学的原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-13"
+updatedDate: "2026-04-13"
 category: "BuildSelf"
-tags: ["バルセロナを4km歩","Routine"]
-heroImage: "/images/blog/gaudi_nature_walk.png"
+tags: ["위인 습관", "안토니 가우디", "창의성", "산책", "영감"]
+heroImage: "/images/blog/gaudi_nature_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ハイス・ファン・ヘンスベルヘン『ガウディ評伝（Gaudí: The Biography）』考証＆認知神経科学（Cognitive Neuroscience）および環境心理学（Environmental Psychology）研究"

@@ -1,11 +1,11 @@
 ---
 title: "赖床至正午的天才：勒内·笛卡尔的卧床沉思与阿尔法波松弛习惯"
 description: "探索现代哲学之父兼数学家勒内·笛卡尔每天清晨卧床沉思与冥想至正午以解锁数学图景的习惯，揭示保持水平体位带来的低皮质醇状态与阿尔法波（Alpha Wave）诱导的神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-25"
+updatedDate: "2026-01-25"
 category: "BuildSelf"
-tags: ["赖床至正午的天才：勒","Routine"]
-heroImage: "/images/blog/descartes_lying_meditation.png"
+tags: ["위인 습관", "르네 데카르트", "아침 루틴", "명상", "집중력"]
+heroImage: "/images/blog/descartes_lying_meditation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "勒内·笛卡尔《谈谈方法（Discourse on the Method）》考证与认知神经科学（Cognitive Neuroscience）研究"

@@ -1,11 +1,11 @@
 ---
 title: "Der Maler im blauen Kittel, der die Morgenrosen betrachtete: Gustav Klimts Garten-Spaziergangsroutine und Soft Fascination"
 description: "Erfahren Sie, wie der Meister der Goldenen Phase Gustav Klimt seine Seh-Aufmerksamkeit durch Spaziergänge in den Gärten am Attersee regenerierte. Entdecken Sie die Attention Restoration Theory (ART), fraktale Geometrie der Natur und eine 3-Schritte-Anleitung."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-14"
+updatedDate: "2026-07-14"
 category: "BuildSelf"
-tags: ["Der Maler ","Routine"]
-heroImage: "/images/blog/klimt_gardening_nature_refresh.png"
+tags: ["위인 습관", "Routine"]
+heroImage: "/images/blog/klimt_gardening_nature_refresh.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Gustav Klimt Biografien, Attersee-Archiven & Forschung der kognitiven Neurowissenschaften und Umweltpsychologie"

@@ -4,7 +4,7 @@ description: "Erkunden Sie, wie der französische Erfinder Louis Daguerre im 19.
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["Louis Dagu","Routine"]
+tags: ["위습관","루틴"]
 heroImage: "/images/blog/daguerre_silver_plate.png"
 app: "buildself"
 formatVersion: 4

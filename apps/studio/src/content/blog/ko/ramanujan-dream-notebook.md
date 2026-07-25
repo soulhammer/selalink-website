@@ -1,11 +1,11 @@
 ---
 title: "꿈속에서 수학 정리를 본 천재? 스리니바사 라마누잔의 기상 직후 메모 루틴"
 description: "정수론과 무한급수의 천재 스리니바사 라마누잔. 수면 중 렘(REM) 상태에서 얻은 직관적 영감을 아침에 눈뜨자마자 3분 메모로 옮겼던 그의 뇌 리셋 법과 현대인을 위한 3단계 실천 루틴을 깊이 있게 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-15"
+updatedDate: "2026-01-15"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/ramanujan_dream_notebook.png"
+tags: ["위인 습관", "Routine"]
+heroImage: "/images/blog/ramanujan_dream_notebook.webp"
 app: "buildself"
 formatVersion: 4
 authority: "스리니바사 라마누잔 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

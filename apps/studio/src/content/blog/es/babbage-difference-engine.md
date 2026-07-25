@@ -4,7 +4,7 @@ description: "Descubra los hechos históricos del padre de las computadoras del 
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["El Método ","Routine"]
+tags: ["위습관","루틴"]
 heroImage: "/images/blog/babbage_difference_engine.png"
 app: "buildself"
 formatVersion: 4

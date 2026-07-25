@@ -1,11 +1,11 @@
 ---
 title: "O Magnata que Resolveu a Tarefa Mais Difícil Primeiro Pela Manhã: A Rotina de Execução Prioritária de Andrew Carnegie"
 description: "Descubra como o magnata do aço Andrew Carnegie enfrentou sua tarefa mais pesada durante as horas de ouro da manhã, quando os recursos pré-frontais estavam carregados, e explore a neurociência cognitiva da superação do esgotamento do ego."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["O Magnata ","Routine"]
-heroImage: "/images/blog/carnegie_priority_first.png"
+tags: ["위인 습관", "앤드류 카네기", "우선순위", "의지력", "생산성"]
+heroImage: "/images/blog/carnegie_priority_first.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica da Autobiografia de Andrew Carnegie *Autobiografia de Andrew Carnegie (Autobiography of Andrew Carnegie)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)"

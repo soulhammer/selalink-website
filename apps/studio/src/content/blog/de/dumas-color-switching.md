@@ -1,11 +1,11 @@
 ---
 title: "Das Genie, das Manuskriptpapier nach Genre farblich abstimmte: Alexandre Dumas' Farb-Reset-Routine und visuelles Priming"
 description: "Erkunden Sie, wie Alexandre Dumas, Autor von 'Der Graf von Monte Christo', verschiedenfarbiges Papier für jedes Genre nutzte. Entdecken Sie die kognitiven Neurowissenschaften zu Farb-Priming und Wechselkosten."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-07"
+updatedDate: "2026-06-07"
 category: "BuildSelf"
-tags: ["Das Genie,","Routine"]
-heroImage: "/images/blog/dumas_color_switching.png"
+tags: ["위인 습관", "알렉상드르 뒤마", "창의성", "색상", "생산성"]
+heroImage: "/images/blog/dumas_color_switching.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Alexandre Dumas' Autobiografie *Meine Memoiren (Mes Mémoires)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

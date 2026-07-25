@@ -1,11 +1,11 @@
 ---
 title: "16.000 Entri Bernomor: Rutinitas Buku Catatan Presisi dan Eksternalisasi Kognitif Michael Faraday"
 description: "Pelajari bagaimana fisikawan Michael Faraday mengatalogkan lebih dari 16.000 entri eksperimen bernomor. Temukan neurosains kognitif tentang eksternalisasi pengetahuan dan pemeliharaan memori kerja."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-24"
+updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: ["16.000 Ent","Routine"]
-heroImage: "/images/blog/faraday_numbered_notebook.png"
+tags: ["위인 습관", "마이클 패러데이", "기록", "생산성", "논리력"]
+heroImage: "/images/blog/faraday_numbered_notebook.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari *Michael Faraday's Diary* (ed. Thomas Martin / Frank A.J.L. James) & Penelitian Neurosains Kognitif"

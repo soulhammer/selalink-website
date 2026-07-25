@@ -1,11 +1,11 @@
 ---
 title: "A Primitive Remedy for Burnout and Existential Depression: Albert Camus's Football Reset Routine"
 description: "Discover how French Nobel laureate and philosopher Albert Camus threw himself into goal as a goalkeeper during creative slumps, and explore the neuroscientific mechanisms of prefrontal offline states and cerebellar cognitive switching."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-21"
+updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: ["Great Habits","camus","Routine","Stamina"]
-heroImage: "/images/blog/camus_football_reset.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/camus_football_reset.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Olivier Todd's Biography *Albert Camus: A Life* & Cognitive Neuroscience Research"

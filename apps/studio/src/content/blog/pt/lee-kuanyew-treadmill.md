@@ -1,11 +1,11 @@
 ---
 title: "Eliminando o Estresse da Construção de uma Nação: A Meditação Pós-Treino de Lee Kuan Yew e a Homeostase Autônoma"
 description: "Descubra como Lee Kuan Yew, primeiro-ministro fundador de Cingapura, gerenciava o estresse de governar combinando 30 minutos de corrida na esteira com 20 minutos de meditação. Explore a alternância do sistema nervoso autônomo e um guia de 3 passos."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-05"
+updatedDate: "2026-04-05"
 category: "BuildSelf"
-tags: ["Eliminando","Routine"]
-heroImage: "/images/blog/lee_kuanyew_treadmill.png"
+tags: ["위인 습관", "리콴유", "유산소운동", "호흡명상", "자율신경계"]
+heroImage: "/images/blog/lee_kuanyew_treadmill.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica da Autobiografia de Lee Kuan Yew *The Singapore Story*, Arquivos Nacionais de Cingapura e Pesquisa em Neurociência Cognitiva e Fisiologia do Exercício"

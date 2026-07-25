@@ -1,11 +1,11 @@
 ---
 title: "Freischaltung unbewusster Kreativität durch 10-Wörter-Assoziation: Ray Bradburys Routine des divergenten Denkens"
 description: "Erkunden Sie, wie Ray Bradbury, der Übervater der modernen Science-Fiction, jeden Morgen 10 zufällige Wörter aufschrieb, um Mikro-Geschichten zu weben, und entdecken Sie die neurowissenschaftlichen Prinzipien zur Stimulierung unbewusster Assoziationsketten zur Maximierung des divergenten Denkens."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-16"
+updatedDate: "2026-06-16"
 category: "BuildSelf"
-tags: ["Freischalt","Routine"]
-heroImage: "/images/blog/bradbury.png"
+tags: ["위인 습관", "레이 브래드버리", "아이디어", "창의성"]
+heroImage: "/images/blog/bradbury.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Ray Bradburys Essaysammlung *Zen in der Kunst des Schreibens (Zen in the Art of Writing)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

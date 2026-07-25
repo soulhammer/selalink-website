@@ -1,11 +1,11 @@
 ---
 title: "万能知識の単冊化手帳：ライプニッツのコモンプレイス・ブック筆記習慣とシナプス長期増強（LTP）"
 description: "微積分を発見した天才学者であり、すべての知識とインスピレーションを一冊のカテゴリ分けされた手帳に単冊化したライプニッツ。情報を文脈化して長期増強（LTP）を誘導し、意味論的ネットワーク（Semantic Network）を構築してアイデアの交差融合を促進する神経科学的原理と3段階実践ガイドを解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-27"
+updatedDate: "2026-02-27"
 category: "BuildSelf"
-tags: ["万能知識の単冊化手帳","Routine"]
-heroImage: "/images/blog/leibniz_universal_notebook.png"
+tags: ["기록", "창의성", "사색"]
+heroImage: "/images/blog/leibniz_universal_notebook.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ゴットフリート・ヴィルヘルム・ライプニッツ評伝およびライプニッツ・アーカイブ（Leibniz-Archiv）史料考証＆認知神経科学（Cognitive Neuroscience）および認知心理学（Cognitive Psychology）研究"

@@ -1,11 +1,11 @@
 ---
 title: "Perfeksionisme Obsesif Sang Penyair Piano: Rutinitas Iterasi Kibor dan Penyelarasan Halus ACC ala Frédéric Chopin"
 description: "Pelajari bagaimana maestro romantik Frédéric Chopin memainkan melodi ratusan kali di atas tuts piano untuk menciptakan mahakarya abadi, serta temukan neurosains kognitif tentang deteksi kesalahan Korteks Cingulatus Anterior (ACC) dan Penyelarasan Halus Saraf."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-21"
+updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: ["Perfeksion","Routine"]
-heroImage: "/images/blog/chopin_piano_refinement.png"
+tags: ["위인 습관", "쇼팽", "완벽주의", "피아노작곡", "디테일퇴고"]
+heroImage: "/images/blog/chopin_piano_refinement.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Autobiografi George Sand *Histoire de ma vie* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

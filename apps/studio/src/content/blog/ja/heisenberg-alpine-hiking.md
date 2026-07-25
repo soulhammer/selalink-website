@@ -1,11 +1,11 @@
 ---
 title: "自然が与えた不確定性のヒント：ハイゼンベルクのアルプスハイキング習慣とDMNインキュベーションルーティン"
 description: "量子力学の難題を解くためバイエルン・アルプスを一人ハイキングし思索に耽ったヴェルナー・ハイゼンベルク。自然の中を歩くことが脳の注意力を回復させ、デフォルト・モード・ネットワーク（DMN）の創造的インキュベーション（孵化）を誘導する科学的原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-06"
+updatedDate: "2026-02-06"
 category: "BuildSelf"
-tags: ["自然が与えた不確定性","Routine"]
-heroImage: "/images/blog/heisenberg_alpine_hiking.png"
+tags: ["사색", "이완", "창의성"]
+heroImage: "/images/blog/heisenberg_alpine_hiking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ヴェルナー・ハイゼンベルク自伝『部分と全体（Der Teil und das Ganze）』およびバイエルン科学アカデミー（Bayerische Akademie der Wissenschaften）史料考証＆認知神経科学（Cognitive Neuroscience）および環境心理学（Environmental Psychology）研究"

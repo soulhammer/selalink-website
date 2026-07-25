@@ -1,11 +1,11 @@
 ---
 title: "침대 밖은 위험해? 누워서 명작을 쓴 마크 트웨인의 침대 집필 루틴"
 description: "미국 문학의 거장 마크 트웨인. 아침 식사 후 침대에 누워 비스듬히 기댄 자세로 명작들을 탄생시켰던 그의 독특한 집필 습관과 신체 이완이 주는 창의적 뇌과학적 효과를 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-20"
+updatedDate: "2026-05-20"
 category: "BuildSelf"
-tags: ["침대 밖은 위험해?","Routine"]
-heroImage: "/images/blog/twain_lying_writing.png"
+tags: ["위인 습관", "마크 트웨인", "침대 명상", "창의성", "이완"]
+heroImage: "/images/blog/twain_lying_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "누워서 명작을 쓴 마크 트웨인 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

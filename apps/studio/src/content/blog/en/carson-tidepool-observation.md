@@ -1,11 +1,11 @@
 ---
 title: "The Ocean Ecosystem That Sparked Silent Spring: Rachel Carson's Tidepool Observation and Soft Fascination Relaxation"
 description: "Explore how Rachel Carson, pioneer of the modern environmental movement, restored exhausted cognitive capacity by observing tidepools amidst corporate pressure and cancer treatments. Uncover the neuroscientific mechanisms of Attention Restoration Theory (ART) and 'Soft Fascination'."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-04"
+updatedDate: "2026-07-04"
 category: "BuildSelf"
-tags: ["Great Habits","carson","Routine","Stamina"]
-heroImage: "/images/blog/carson_tidepool_observation.png"
+tags: ["위인 습관", "레이첼 카슨", "자연 관찰", "주의 회복", "인도어 디톡스"]
+heroImage: "/images/blog/carson_tidepool_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Rachel Carson's Historical Biographies and Autobiographical Archives & Cognitive Neuroscience Research"

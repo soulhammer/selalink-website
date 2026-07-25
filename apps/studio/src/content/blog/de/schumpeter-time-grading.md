@@ -1,11 +1,11 @@
 ---
 title: "시간의 메타인지: 조지프 슘페터의 일일 성적표 루틴"
 description: "매일 밤 자신의 일기장에 학습과 몰입 시간을 평가하고 성적(A~F)을 매겼던 경제학자 조지프 슘페터. 자신의 행동을 정량적으로 평가하고 개선하는 피드백 루프의 메타인지적 효과를 연구합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-19"
+updatedDate: "2026-04-19"
 category: "BuildSelf"
-tags: ["시간의 메타인지: ","Routine"]
-heroImage: "/images/blog/schumpeter_time_grading.png"
+tags: ["위인 습관", "조지프 슘페터", "생산성", "시간 관리", "성찰", "계획"]
+heroImage: "/images/blog/schumpeter_time_grading.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Schumpeter Time Grading 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

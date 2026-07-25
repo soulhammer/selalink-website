@@ -1,11 +1,11 @@
 ---
 title: "Digital Detox im Turm von Bollingen: Carl Jungs Methode zur Erholung des Unbewussten und kognitiver DMN-Reset"
 description: "Erfahren Sie, wie der Begründer der analytischen Psychologie, Carl Jung, sein Gehirn durch Holzhacken in einem abgeschiedenen Turm ohne Strom entlastete. Entdecken Sie die Neurowissenschaften der DMN-Aktivierung und einen 3-Schritte-Plan für Digital Detox."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-21"
+updatedDate: "2026-01-21"
 category: "BuildSelf"
-tags: ["Digital De","Routine"]
-heroImage: "/images/blog/jung_bollingen_detox.png"
+tags: ["위인 습관", "칼 융", "휴식", "사색", "디지털디톡스"]
+heroImage: "/images/blog/jung_bollingen_detox.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Carl Jungs Autobiografie *Erinnerungen, Träume, Gedanken*, Archiven des Turms von Bollingen & Forschung der analytischen Psychologie und kognitiven Neurowissenschaften"

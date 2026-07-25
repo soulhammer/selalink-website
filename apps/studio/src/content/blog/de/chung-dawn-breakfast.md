@@ -1,11 +1,11 @@
 ---
 title: "Die Vorfreude der Morgendämmerung: Vorsitzender Ju-Yung Chungs Routine mit 5-Uhr-Familienfrühstück und Spaziergang"
 description: "Erkunden Sie, wie Hyundai-Gründer Ju-Yung Chung lebenslang täglich um 4 Uhr morgens aufstand und mit seiner Familie frühstückte. Entdecken Sie die neurowissenschaftlichen Prinzipien morgendlicher Bewegung und emotionaler Bindung zur Stabilisierung des Cortisolspiegels."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-12"
+updatedDate: "2026-06-12"
 category: "BuildSelf"
-tags: ["Die Vorfre","Routine"]
-heroImage: "/images/blog/chung_dawn_breakfast.png"
+tags: ["위인 습관", "정주영", "의지력", "계획", "시간 관리"]
+heroImage: "/images/blog/chung_dawn_breakfast.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Ju-Yung Chungs Autobiografie *Prüfungen, aber keine Niederlagen (Born of this Land)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

@@ -1,11 +1,11 @@
 ---
 title: "Genius yang Tetap di Tempat Tidur Hingga Siang Hari: Rutinitas Meditasi Berbaring dan Relaksasi Gelombang Alfa ala René Descartes"
 description: "Pelajari bagaimana matematikawan dan filsuf René Descartes menghabiskan pagi harinya bermeditasi di tempat tidur hingga siang hari. Temukan neurosains kognitif dari postur horizontal, reduksi respons kortisol, dan induksi gelombang alfa."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-25"
+updatedDate: "2026-01-25"
 category: "BuildSelf"
-tags: ["Genius yan","Routine"]
-heroImage: "/images/blog/descartes_lying_meditation.png"
+tags: ["위인 습관", "르네 데카르트", "아침 루틴", "명상", "집중력"]
+heroImage: "/images/blog/descartes_lying_meditation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari *Discourse on the Method* karya René Descartes & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

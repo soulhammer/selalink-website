@@ -1,11 +1,11 @@
 ---
 title: "완벽한 몰입을 위한 고립: 조지 버나드 쇼의 회전식 오두막 집필 습관"
 description: "노벨상과 아카데미상을 휩쓴 극작가 버나드 쇼. 하루 6시간씩 정원의 작은 회전식 오두막에 자신을 가두고 자연광을 맞으며 잡념을 원천 차단했던 그의 심층 집중 비결을 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-27"
+updatedDate: "2026-02-27"
 category: "BuildSelf"
-tags: ["완벽한 몰입을 위한","Routine"]
-heroImage: "/images/blog/shaw_rotating_hut_focus.png"
+tags: ["집중", "생산성", "휴식"]
+heroImage: "/images/blog/shaw_rotating_hut_focus.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Shaw Rotating Hut Focus 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

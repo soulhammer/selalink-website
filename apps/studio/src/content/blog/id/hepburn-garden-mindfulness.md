@@ -1,11 +1,11 @@
 ---
 title: "Fondasi Keanggunan: Rutinitas Berkebun Menyembuhkan Audrey Hepburn dan Sains Otak tentang Kontak dengan Tanah"
 description: "Pelajari bagaimana legenda Hollywood Audrey Hepburn menjaga ketenangan batin dan keanggunannya melalui berkebun. Temukan neurosains tentang kontak dengan tanah, bakteri Mycobacterium vaccae, dan serotonin."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-14"
+updatedDate: "2026-01-14"
 category: "BuildSelf"
-tags: ["Fondasi Ke","Routine"]
-heroImage: "/images/blog/hepburn_garden_mindfulness.png"
+tags: ["위인 습관", "오드리헵번", "정원가꾸기", "스트레스해소", "마음치유"]
+heroImage: "/images/blog/hepburn_garden_mindfulness.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Biografi Audrey Hepburn, Arsip Perkebunan Tolochenaz (Swiss) & Penelitian Neurosains Kognitif serta Psikologi Lingkungan"

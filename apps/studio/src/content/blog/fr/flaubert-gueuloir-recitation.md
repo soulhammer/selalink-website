@@ -1,11 +1,11 @@
 ---
 title: "Le son qui engendre des phrases parfaites : La routine de récitation du « Gueuloir » et la boucle de rétroaction auditive de Gustave Flaubert"
 description: "Découvrez comment le romancier Gustave Flaubert, obsédé par « le mot juste », atteignait la perfection stylistique. Explorez la neuroscience cognitive du « Gueuloir », la théorie du double codage et la boucle de rétroaction auditive."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-20"
+updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: ["Le son qui","Routine"]
-heroImage: "/images/blog/flaubert_gueuloir_recitation.png"
+tags: ["글쓰기", "창의성", "기록"]
+heroImage: "/images/blog/flaubert_gueuloir_recitation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de la *Correspondance* de Gustave Flaubert, des biographies littéraires & de la Recherche en Neurosciences Cognitives"

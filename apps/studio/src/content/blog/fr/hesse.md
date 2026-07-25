@@ -1,11 +1,11 @@
 ---
 title: "Cultiver la terre et arracher les mauvaises herbes dans un jardin rural : La méthode de contemplation de la nature et la routine de relaxation DMN d'Hermann Hesse"
 description: "Découvrez comment le prix Nobel et écrivain pacifiste Hermann Hesse gérait l'épuisement nerveux et l'anxiété en touchant la terre du jardin et en taillant des branches chaque jour. Explorez la neuroscience de sa routine de jardinier."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-16"
+updatedDate: "2026-02-16"
 category: "BuildSelf"
-tags: ["Cultiver l","Routine"]
-heroImage: "/images/blog/hesse.png"
+tags: ["위인 습관", "헤르만 헤세", "휴식", "성찰"]
+heroImage: "/images/blog/hesse.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de l'essai d'Hermann Hesse *Le Bonheur du jardinage (Freude am Garten)* et de sa correspondance, ainsi que de la recherche en Neurosciences Cognitives et Psychologie Environnementale"

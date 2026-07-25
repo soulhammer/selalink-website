@@ -1,11 +1,11 @@
 ---
 title: "Menara Observatorium yang Tak Tergoyahkan: Rutinitas Konsentrasi Ruang Tetap dan Pengondisian Lingkungan ala Nicolaus Copernicus"
 description: "Pelajari bagaimana Nicolaus Copernicus memelihara menara observatorium tetap di Frombork selama berdekade-dekade. Temukan neurosains kognitif dari pengondisian spasial dan memori tergantung konteks yang mengeliminasi waktu pemanasan kognitif."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["Menara Obs","Routine"]
-heroImage: "/images/blog/copernicus_observatory_tower.png"
+tags: ["위인 습관", "니콜라우스 코페르니쿠스", "집중", "계획", "생산성"]
+heroImage: "/images/blog/copernicus_observatory_tower.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari *De revolutionibus orbium coelestium (Tentang Revolusi Bola-Bola Langit)* karya Nicolaus Copernicus & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

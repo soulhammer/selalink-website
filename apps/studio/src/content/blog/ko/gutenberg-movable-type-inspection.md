@@ -1,11 +1,11 @@
 ---
 title: "인쇄 혁명의 거장: 구텐베르크의 아침 금속 활자 정밀 오차 검수 루틴과 ERN 오류 감지 메커니즘"
 description: "금속 활자의 발명가 구텐베르크가 매일 아침 활자 수평 오차를 손과 눈으로 검수하며 시스템 표준과 품질을 지켜낸 뇌과학적 습관과 전대상피질(ACC) ERN 자극 메커니즘을 탐구합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-04"
+updatedDate: "2026-06-04"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/gutenberg_movable_type_inspection.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/gutenberg_movable_type_inspection.webp"
 app: "buildself"
 formatVersion: 4
 authority: "요하네스 구텐베르크 평전 및 메인츠 구텐베르크 박물관(Gutenberg Museum Mainz) 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

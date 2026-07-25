@@ -1,11 +1,11 @@
 ---
 title: "Sentada em Rochas ao Lado dos Chimpanzés para Observar e Registrar: O Hábito de Imersão e Rotina de Atenção Seletiva de Jane Goodall"
 description: "Descubra como a etóloga Jane Goodall obteve avanços científicos observando chimpanzés na selva de Gombe. Explore a neurociência da ativação do córtex de associação sensorial, atenção seletiva e rotinas de observação."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-09"
+updatedDate: "2026-05-09"
 category: "BuildSelf"
-tags: ["Sentada em","Routine"]
-heroImage: "/images/blog/jane_goodall.png"
+tags: ["위인 습관", "제인 구달", "사색", "성찰"]
+heroImage: "/images/blog/jane_goodall.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica da Autobiografia de Jane Goodall *Razões para a Esperança (Reason for Hope)*, Arquivos do Centro de Pesquisa Gombe Stream e Pesquisa em Neurociência Cognitiva e Etologia"

@@ -4,8 +4,8 @@ description: "生涯を通じて先輩作曲家たちの楽譜を書写し、数
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["月明かりの下で楽譜を","Routine"]
-heroImage: "/images/blog/bach_pattern_transcription.png"
+tags: ["위인 습관", "바흐", "필사", "손글씨", "학습법"]
+heroImage: "/images/blog/bach_pattern_transcription.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ヨハン・ニコラウス・フォルケル『バッハの生涯と芸術（1802）』考証＆認知神経科学（Cognitive Neuroscience）研究"

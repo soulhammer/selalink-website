@@ -1,11 +1,11 @@
 ---
 title: "Imersi Menaklukkan Keterbatasan: Rutinitas Menggambar di Kertas Timah Lee Jung-seob dan Aktivasi Somatosensori"
 description: "Pelajari bagaimana pelukis Lee Jung-seob mempertahankan fokus artistiknya di tengah kemiskinan ekstrem dengan mengukir di atas kertas timah bungkus rokok (Eunjihwa). Temukan neurosains umpan balik multisensorik, keterlibatan korteks somatosensori, dan panduan 3 langkah."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-14"
+updatedDate: "2026-03-14"
 category: "BuildSelf"
-tags: ["Imersi Men","Routine"]
-heroImage: "/images/blog/leejungseob_tin_foil_drawing.png"
+tags: ["위인 습관", "이중섭", "은지화 드로잉", "몰입 루틴", "촉각 자극", "마인드풀니스"]
+heroImage: "/images/blog/leejungseob_tin_foil_drawing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Biografi Lee Jung-seob, Arsip National Museum of Modern and Contemporary Art (MMCA) & Penelitian Neurosains Kognitif serta Terapi Seni"

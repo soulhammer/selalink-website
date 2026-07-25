@@ -1,11 +1,11 @@
 ---
 title: "Ein primitives Mittel gegen Burnout und existenzielle Depressionen: Albert Camus' Fußball-Reset-Routine"
 description: "Erkunden Sie, wie sich der französische Nobelpreisträger und Philosoph Albert Camus bei kreativen Tiefs als Torwart in die Schüsse warf, und entdecken Sie die neurowissenschaftlichen Mechanismen der präfrontalen Entkopplung und des cerebellären kognitiven Wechsels."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-21"
+updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: ["Ein primit","Routine"]
-heroImage: "/images/blog/camus_football_reset.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/camus_football_reset.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Olivier Todds Biografie *Albert Camus: A Life* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

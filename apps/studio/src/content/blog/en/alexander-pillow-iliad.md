@@ -1,11 +1,11 @@
 ---
 title: "Alexander the Great's 'Iliad Under the Pillow': Nighttime Vision Reading That Sustained Immense Challenges"
 description: "Alexander the Great never lost courage on the battlefield, keeping a dagger and the Iliad under his pillow every night. Explore the power of vision reading that stimulates the subconscious."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-23"
+updatedDate: "2026-01-23"
 category: "BuildSelf"
-tags: ["Great Habits","alexander","Routine","Stamina"]
-heroImage: "/images/blog/alexander_pillow_iliad.png"
+tags: ["위인 습관", "알렉산드로스", "동기부여", "독서 습관", "잠재의식"]
+heroImage: "/images/blog/alexander_pillow_iliad.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Plutarch's *Life of Alexander* & Cognitive Neuroscience Research"

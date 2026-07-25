@@ -1,11 +1,11 @@
 ---
 title: "每天清晨30分钟，本杰明·富兰克林的奇妙“空气浴（Air Bath）”养生法与自律神经重置习惯"
 description: "探索发明避雷针并缔造美国建国伟业的本杰明·富兰克林，如何在每天清晨推开窗户赤裸感受清风。揭示“空气浴”背后的皮肤冷觉受体（TRPM8）刺激、去甲肾上腺素觉醒与自律神经调节原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-12"
+updatedDate: "2026-02-12"
 category: "BuildSelf"
-tags: ["每天清晨30分钟，本","Routine"]
-heroImage: "/images/blog/franklin_air_bath.png"
+tags: ["위인 습관", "벤자민 프랭클린", "아침 루틴", "면역력", "각성"]
+heroImage: "/images/blog/franklin_air_bath.webp"
 app: "buildself"
 formatVersion: 4
 authority: "本杰明·富兰克林自传《富兰克林自传（The Autobiography of Benjamin Franklin）》与致巴尔贝·杜堡书信集考证及认知神经科学（Cognitive Neuroscience）研究"

@@ -16,23 +16,23 @@ faqs:
     answer: "El pelo del Bichón es fino y rizado. Evitar el cepillado causa enredos graves que aprietan la piel, bloquean el flujo sanguíneo y causan dermatitis."
 ---
 
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+Los Bichón Frisé son conocidos por su pelaje blanco esponjoso y su naturaleza alegre. Sin embargo, su pelo rizado y fino se enreda fácilmente desde la raíz, lo que causa dermatitis. Las carreras a gran velocidad en casa (Bichon Blitz) pueden dañar sus articulaciones. Hoy, PetSelf explica su lenguaje y comparte una rutina de 3 pasos.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+      Evidencia Veterinaria y Comportamental
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+      Este contenido se basa en <strong>Estándares del Bichon Frise Club of America y pautas de salud de AVMA</strong>.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+    🐾 Bichón Frisé Perfil principal
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Vida útil media</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 15 años</span></div>
@@ -43,7 +43,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
 
 ## 1. Lenguaje corporal del Bichón Frisé: Bichon Blitz y búsqueda de atención
 
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+Cuando están emocionados, los Bichons muestran el 'Bichon Blitz' (correr frenéticamente) para gastar energía. Además, tocar el brazo del dueño con la pata ('toque de pata') es una señal afectuosa para pedir juego.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -77,7 +77,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Mañana: Juego de traer juguetes y tiro de cuerda suave</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+    Para evitar colisiones con muebles, juegue al tiro de cuerda suave por la mañana para liberar energía y calmarle.
   </p>
 </div>
 
@@ -87,7 +87,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: 10 minutos de cepillado con carda y peine de acero</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+    Use spray desenredante primero, luego cepille el vientre y patas con carda. Siga con peine de acero para asegurar que no queden enredos cerca de la piel.
   </p>
 </div>
 
@@ -97,7 +97,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noche: Cepillado del contorno de ojos y secado de manchas de lágrimas</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+    Limpie suavemente el pelo alrededor de los ojos con un peine facial fino y seque el exceso de lágrimas con un disco de algodón.
   </p>
 </div>
 
@@ -106,7 +106,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+      El simple hecho de observar las señales de calma de su mascota puede prevenir problemas de comportamiento graves y enfermedades causadas por el estrés. Embora o tratamento veterinário é importante, proporcionar um ambiente seguro (rampas, espaços verticales, múltiples fuentes de agua) es el escudo más fuerte para apoyar su felicidad de por vida.
     </p>
   </div>
 </div>
@@ -124,7 +124,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+      El Bichon Blitz es una liberación emocional normal. No lo agarre ni grite, ya que puede tomarlo como juego. Asegure alfombras para evitar resbalones y espere a que pare.
     </p>
   </details>
 
@@ -134,7 +134,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+      El pelo del Bichón es fino y rizado. Evitar el cepillado causa enredos graves que aprietan la piel, bloquean el flujo sanguíneo y causan dermatitis.
     </p>
   </details>
 </div>

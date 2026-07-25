@@ -1,11 +1,11 @@
 ---
 title: "意思決定の過負荷を破る朝の乗馬：ビスマルクの有酸素覚醒とTOP 3優先順位ルーティン"
 description: "ドイツ統一を導いた「鉄血宰相」オットー・フォン・ビスマルクの朝の乗馬とTOP 3優先順位抽出法。朝の有酸素運動で脳血流を引き上げ前頭前野を覚醒させ、意思決定の過負荷を防ぐ神経科学的原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-16"
+updatedDate: "2026-03-16"
 category: "BuildSelf"
-tags: ["意思決定の過負荷を破","Routine"]
-heroImage: "/images/blog/bismarck_morning_ride_priority.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/bismarck_morning_ride_priority.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ビスマルク回想録『Gedanken und Erinnerungen』＆A.J.P.テイラー伝記『Bismarck: The Man and the Statesman』考証＆認知神経科学（Cognitive Neuroscience）研究"

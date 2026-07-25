@@ -1,11 +1,11 @@
 ---
 title: "Menyelesaikan 100% di Dalam Pikiran Terlebih Dahulu: Rutinitas Storyboard Visual dan Simulasi Mental Alfred Hitchcock"
 description: "Pelajari rutinitas storyboard visual master thriller Alfred Hitchcock sebelum syuting. Temukan bagaimana simulasi mental mengaktifkan jaringan eksekusi motorik dan menghilangkan kelelahan keputusan."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-08"
+updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: ["Menyelesai","Routine"]
-heroImage: "/images/blog/hitchcock_storyboard_visualization.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/hitchcock_storyboard_visualization.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Biografi Alfred Hitchcock, Wawancara François Truffaut dalam *Hitchcock/Truffaut* & Penelitian Neurosains Kognitif"

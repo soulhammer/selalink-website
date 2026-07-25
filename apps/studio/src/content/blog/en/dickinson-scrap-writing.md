@@ -1,11 +1,11 @@
 ---
 title: "Great Inspiration on the Back of an Envelope: Emily Dickinson's Scrap Writing Habit and Incubation Relaxation"
 description: "Discover how American poetic genius Emily Dickinson spontaneously scribbled poems on receipts and wrappers while baking bread in her kitchen. Explore the cognitive neuroscience of Default Mode Network (DMN) activation and the Incubation Effect."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-02"
+updatedDate: "2026-05-02"
 category: "BuildSelf"
-tags: ["Great Habits","dickinson","Routine","Stamina"]
-heroImage: "/images/blog/dickinson_scrap_writing.png"
+tags: ["위인 습관", "에밀리디킨슨", "영수증시", "즉흥기록", "창의성"]
+heroImage: "/images/blog/dickinson_scrap_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Richard B. Sewall's Biography *The Life of Emily Dickinson* & Cognitive Neuroscience Research"

@@ -1,11 +1,11 @@
 ---
 title: "The Rhythm of Patience and Equanimity: Tokugawa Ieyasu's Herbal Medicine Grinding Routine and Serotonin Regulation"
 description: "Explore Tokugawa Ieyasu's mental cultivation method. Discover how his daily routine of grinding herbal medicine using a pestle triggered rhythmic movement benefits, activating serotonin, soothing the amygdala, and building emotional control."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-01"
+updatedDate: "2026-04-01"
 category: "BuildSelf"
-tags: ["Great Habits","ieyasu","Routine","Stamina"]
-heroImage: "/images/blog/ieyasu_herb_grinding.png"
+tags: ["위인 습관", "도쿠가와 이에야스", "생약 조제", "리듬 운동", "인내력", "마인드컨트롤"]
+heroImage: "/images/blog/ieyasu_herb_grinding.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Tokugawa Ieyasu Biographies, Tokugawa Art Museum Archives & Cognitive Neuroscience Research"

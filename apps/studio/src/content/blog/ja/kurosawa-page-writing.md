@@ -1,11 +1,11 @@
 ---
 title: "巨匠の偉大な始まり：黒澤明監督の毎日2ページシナリオルーティンと扁桃体安定化"
 description: "世界的巨匠・黒澤明監督が毎日実践した1日2ページのシナリオ執筆習慣。目標を極端に細かく分割して扁桃体の脅威反応を抑制し、前頭前野の実行機能を稼働させる脳科学的原理と3段階実践ガイドを紹介します。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["巨匠の偉大な始まり：","Routine"]
-heroImage: "/images/blog/kurosawa_page_writing.png"
+tags: ["위인 습관", "아키라 구로사와", "미세 목표", "인지 부하", "실천력", "창의성"]
+heroImage: "/images/blog/kurosawa_page_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "黒澤明自伝『蝦蟇の油 自伝のようなもの（Something Like an Autobiography）』史料考証＆認知神経科学（Cognitive Neuroscience）および行動心理学（Behavioral Psychology）研究"

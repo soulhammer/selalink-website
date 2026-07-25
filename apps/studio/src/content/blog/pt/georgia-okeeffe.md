@@ -1,11 +1,11 @@
 ---
 title: "Examinando Ossos de Animais do Deserto sob uma Lupa: A Observação em Grande Close-up e a Rotina de Atenção Visual de Georgia O'Keeffe"
 description: "Descubra como Georgia O'Keeffe, a 'Mãe do Modernismo Americano', maximizou a atenção visual seletiva ampliando dez vezes ossos do deserto e pétalas de flores. Explore a neurociência do córtex de associação visual."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-25"
+updatedDate: "2026-02-25"
 category: "BuildSelf"
-tags: ["Examinando","Routine"]
-heroImage: "/images/blog/georgia_okeeffe.png"
+tags: ["위인 습관", "조지아 오키프", "이완", "성찰"]
+heroImage: "/images/blog/georgia_okeeffe.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica da Autobiografia *Georgia O'Keeffe*, Arquivos do Georgia O'Keeffe Museum (Santa Fe) e Pesquisa em Neurociência Cognitiva"

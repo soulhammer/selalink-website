@@ -1,11 +1,11 @@
 ---
 title: "充盈自信的晨间镜前秘诀：穆罕默德·阿里的积极肯定语惯例"
 description: "世纪顶尖拳手穆罕默德·阿里。为您介绍他在赛前克服剧烈绩效焦虑并问鼎冠军的秘诀——镜前积极肯定语（Affirmation）的脑科学效应与3步骤心态惯例。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-26"
+updatedDate: "2026-01-26"
 category: "BuildSelf"
-tags: ["充盈自信的晨间镜前秘","Routine"]
-heroImage: "/images/blog/ali_positive_affirmation.png"
+tags: ["위인 습관", "무하마드알리", "자기확신", "동기부여", "멘탈케어"]
+heroImage: "/images/blog/ali_positive_affirmation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "穆罕默德·阿里自传《The Greatest: My Own Story》考证与认知神经科学（Cognitive Neuroscience）研究"

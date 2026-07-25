@@ -1,11 +1,11 @@
 ---
 title: "Memutar Roda Pemintal di Fajar yang Hening: Rutinitas Meditasi Pagi Hari dan Meditasi Aktif Mahatma Gandhi"
 description: "Pelajari bagaimana Mahatma Gandhi, pejuang perdamaian India, mendisiplinkan pikirannya dengan bangun jam 4 pagi untuk bermeditasi dan memutar roda Charkha. Temukan neurosains tentang meditasi aktif dan stimulasi serotonin."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-23"
+updatedDate: "2026-03-23"
 category: "BuildSelf"
-tags: ["Memutar Ro","Routine"]
-heroImage: "/images/blog/gandhi_morning_meditation.png"
+tags: ["위인 습관", "마하트마 간디", "아침 루틴", "명상", "스트레스 완화"]
+heroImage: "/images/blog/gandhi_morning_meditation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari *An Autobiography: The Story of My Experiments with Truth* karya Mahatma Gandhi, Arsip Ashram & Penelitian Neurosains Kognitif"

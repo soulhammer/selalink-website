@@ -1,11 +1,11 @@
 ---
 title: "知识的复利效应：沃伦·巴菲特每天500页的阅读习惯与认知储备"
 description: "探索全球顶尖投资者沃伦·巴菲特的核心成功秘诀——每天阅读500页的习惯，揭示强化神经网络连接性、构建认知储备以及提升模式识别速度的认知神经科学原理与3步骤实践法。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-10"
+updatedDate: "2026-06-10"
 category: "BuildSelf"
-tags: ["知识的复利效应：沃伦","Routine"]
-heroImage: "/images/blog/buffett_reading_habit.png"
+tags: ["위인 습관", "워런 버핏", "독서", "투자", "성공습관", "학습"]
+heroImage: "/images/blog/buffett_reading_habit.webp"
 app: "buildself"
 formatVersion: 4
 authority: "艾丽斯·施罗德传记《滚雪球（The Snowball: Warren Buffett and the Business of Life）》考证与认知神经科学（Cognitive Neuroscience）研究"

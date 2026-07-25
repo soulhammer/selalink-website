@@ -1,11 +1,11 @@
 ---
 title: "埃隆·马斯克的“5分钟时间块”：打造超高专注密度的微观规划法与沉浸习惯"
 description: "探索埃隆·马斯克如何通过将日程拆解为5分钟微观时间块来驾驭每周80-100小时的高强度工作。揭示战胜帕金森定律、实现超高脑力沉浸的神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-15"
+updatedDate: "2026-06-15"
 category: "BuildSelf"
-tags: ["埃隆·马斯克的“5分","Routine"]
-heroImage: "/images/blog/elon_musk_time_blocking.png"
+tags: ["위인 습관", "일론 머스크", "생산성 향상", "시간 관리", "타임 블로킹"]
+heroImage: "/images/blog/elon_musk_time_blocking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "沃尔特·艾萨克森传记《埃隆·马斯克（Elon Musk）》考证及认知神经科学（Cognitive Neuroscience）研究"

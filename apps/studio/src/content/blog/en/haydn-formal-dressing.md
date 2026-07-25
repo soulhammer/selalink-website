@@ -1,11 +1,11 @@
 ---
 title: "Composing in a Full Suit at Home?: The Father of the Symphony Joseph Haydn's 'Enclothed Cognition' Routine and Focus Switch"
 description: "Discover why composer Joseph Haydn wore a formal suit and powdered wig before composing. Learn how clothing boosts focus and productivity through the science of 'Enclothed Cognition' and Embodied Cognition."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-04"
+updatedDate: "2026-04-04"
 category: "BuildSelf"
-tags: ["Great Habits","haydn","Routine","Stamina"]
-heroImage: "/images/blog/haydn_formal_dressing.png"
+tags: ["위인 습관", "생산성"]
+heroImage: "/images/blog/haydn_formal_dressing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Joseph Haydn Biographies (Dies & Griesinger), Esterházy Palace Archives & Cognitive Neuroscience Research"

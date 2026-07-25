@@ -1,11 +1,11 @@
 ---
 title: "The Power to Awaken Positive Brain Circuits: Dosan Ahn Chang-ho's Mirror Smile and Cleanliness Routine"
 description: "The power of 'smiling' and 'cleanliness' emphasized by independence activist Dosan Ahn Chang-ho. Discover the scientific reasons why forced smiling releases serotonin in the brain and an organized space reduces visual cognitive load."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-19"
+updatedDate: "2026-01-19"
 category: "BuildSelf"
-tags: ["Great Habits","anchangho","Routine","Stamina"]
-heroImage: "/images/blog/anchangho_mirror_smile.png"
+tags: ["위인 습관", "도산 안창호", "거울 미소", "청결", "마인드컨트롤", "자기계발"]
+heroImage: "/images/blog/anchangho_mirror_smile.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Dosan Ahn Chang-ho's Biography & Young Korean Academy (Hung Sah Dahn) Records & Cognitive Neuroscience Research"

@@ -1,11 +1,11 @@
 ---
 title: "平抚浮躁内心的精密法门：白凡金九的书法冥想习惯与精细运动控制"
 description: "深度剖析领导大韩民国临时政府的白凡金九如何借由书法开展修心与意志淬炼。揭示毛笔书写精细运动控制（Fine Motor Control）平抚焦虑应激、沉淀杏仁核警报的神经科学原理与3步骤指南。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-06"
+updatedDate: "2026-02-06"
 category: "BuildSelf"
-tags: ["平抚浮躁内心的精密法","Routine"]
-heroImage: "/images/blog/kimgu_brush_meditation.png"
+tags: ["위인 습관", "백범 김구", "서예 명상", "붓글씨", "불안 조절", "마음 수양"]
+heroImage: "/images/blog/kimgu_brush_meditation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "金九自传《白凡逸志》与大韩民国临时政府档案考证及认知神经科学（Cognitive Neuroscience）与运动控制学（Motor Control Science）研究"

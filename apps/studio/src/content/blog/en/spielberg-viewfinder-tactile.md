@@ -1,11 +1,11 @@
 ---
 title: "장난감을 만지며 거대한 상상을 현실로 바꾼 거장? 스티븐 스필버그의 촉각 자극법"
 description: "현대 영화사상 가장 성공한 감독 스티븐 스필버그. 시나리오나 카메라 구도가 막힐 때마다 뷰파인더 렌즈를 통해 시야를 좁히고 모형 장난감을 손으로 만졌던 그의 우뇌 자극 루틴과 현대적 피젯(Fidget) 활용법을 파헤쳐 봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-20"
+updatedDate: "2026-04-20"
 category: "BuildSelf"
-tags: ["Great Habits","spielberg","Routine","Stamina"]
-heroImage: "/images/blog/spielberg_viewfinder_tactile.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/spielberg_viewfinder_tactile.webp"
 app: "buildself"
 formatVersion: 4
 authority: "스티븐 스필버그 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

@@ -1,11 +1,11 @@
 ---
 title: "'Time Blocking 5 Menit' Elon Musk: Mikro-Perencanaan dan Rutinitas Fokus Berdensitas Tinggi"
 description: "Pelajari bagaimana Elon Musk mengelola 80-100 jam kerja seminggu dengan membagi jadwalnya menjadi mikro-blok 5 menit. Temukan neurosains kognitif tentang kelangkaan waktu, Hukum Parkinson, dan fokus terowongan."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-15"
+updatedDate: "2026-06-15"
 category: "BuildSelf"
-tags: ["'Time Bloc","Routine"]
-heroImage: "/images/blog/elon_musk_time_blocking.png"
+tags: ["위인 습관", "일론 머스크", "생산성 향상", "시간 관리", "타임 블로킹"]
+heroImage: "/images/blog/elon_musk_time_blocking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Biografi Walter Isaacson *Elon Musk* & Penelitian Neurosains Kognitif"

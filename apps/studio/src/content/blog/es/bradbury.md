@@ -1,11 +1,11 @@
 ---
 title: "Desbloqueando la Creatividad Subconsciente Mediante la Asociación de 10 Palabras: La Rutina de Pensamiento Divergente de Ray Bradbury"
 description: "Descubra cómo Ray Bradbury, el padrino de la ciencia ficción moderna, anotaba 10 palabras aleatorias cada mañana para tejer microhistorias, y explore los principios neurocientíficos de estimular las cadenas asociativas subconscientes para maximizar el pensamiento divergente."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-16"
+updatedDate: "2026-06-16"
 category: "BuildSelf"
-tags: ["Desbloquea","Routine"]
-heroImage: "/images/blog/bradbury.png"
+tags: ["위인 습관", "레이 브래드버리", "아이디어", "창의성"]
+heroImage: "/images/blog/bradbury.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la Colección de Ensayos de Ray Bradbury *El zen en el arte de escribir (Zen in the Art of Writing)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"

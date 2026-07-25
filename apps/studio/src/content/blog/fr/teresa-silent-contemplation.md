@@ -1,11 +1,11 @@
 ---
 title: "빈민가의 고통 속에서 평정심을 지켜낸 방패? 마더 테레사의 아침 침묵 루틴"
 description: "인도 캘커타의 빈민가에서 평생 봉사한 마더 테레사. 고통스러운 타인의 감정에 휩쓸리지 않고 뇌의 공감망과 감정 조절력을 예열했던 그녀의 '새벽 4:30 침묵' 루틴의 과학적 효과와 15분 실천 팁을 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-19"
+updatedDate: "2026-04-19"
 category: "BuildSelf"
-tags: ["빈민가의 고통 속에","Routine"]
-heroImage: "/images/blog/teresa_silent_contemplation.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/teresa_silent_contemplation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "마더 테레사 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

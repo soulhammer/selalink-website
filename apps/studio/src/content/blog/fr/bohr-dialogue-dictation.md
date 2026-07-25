@@ -1,11 +1,11 @@
 ---
 title: "La physique tressée par le dialogue : La méthode de dictée-discussion et d'écriture métacognitive de Niels Bohr"
 description: "Découvrez comment Niels Bohr, géant de la mécanique quantique, a rédigé de complexes articles de physique grâce à d'incessantes discussions orales et dictées avec ses collègues, et percez le principe neuroscientifique selon lequel l'externalisation de la pensée vers le langage parlé active la métacognition."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-19"
+updatedDate: "2026-01-19"
 category: "BuildSelf"
-tags: ["La physiqu","Routine"]
-heroImage: "/images/blog/bohr_dialogue_dictation.png"
+tags: ["학습", "창의성", "사색"]
+heroImage: "/images/blog/bohr_dialogue_dictation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de la biographie d'Abraham Pais *Niels Bohr's Times: In Physics, Philosophy, and Polity* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

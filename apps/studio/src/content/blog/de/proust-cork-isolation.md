@@ -1,11 +1,11 @@
 ---
 title: "기억을 깨우는 고요의 방? 마르셀 프루스트의 코르크 감각 차단법"
 description: "자전적 명작 '잃어버린 시간을 찾아서'를 집필한 프루스트. 침실에 코르크를 대어 빛과 소리를 막고 기억을 더듬었던 그의 감각 통제 루틴과 신경과학적 근거를 소개합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-29"
+updatedDate: "2026-01-29"
 category: "BuildSelf"
-tags: ["기억을 깨우는 고요","Routine"]
-heroImage: "/images/blog/proust_cork_isolation.png"
+tags: ["위인 습관", "마르셀프루스트", "감각차단", "집중력", "방음실집필"]
+heroImage: "/images/blog/proust_cork_isolation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "마르셀 프루스트 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

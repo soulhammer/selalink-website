@@ -1,11 +1,11 @@
 ---
 title: "Your Brain Solves Proposals While You Sleep: Joan Didion's Manuscript-Sleeping Routine and REM Sleep Priming"
 description: "Explore how legendary American essayist Joan Didion slept in the same room as her unfinished manuscript to untangle complex narratives. Discover the cognitive neuroscience of cognitive priming and memory consolidation during REM sleep."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-02"
+updatedDate: "2026-06-02"
 category: "BuildSelf"
-tags: ["Great Habits","didion","Routine","Stamina"]
-heroImage: "/images/blog/didion_manuscript_sleeping.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/didion_manuscript_sleeping.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Tracy Daugherty's Biography *The Last Love Song* & *The Paris Review* & Cognitive Neuroscience Research"

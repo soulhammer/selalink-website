@@ -1,11 +1,11 @@
 ---
 title: "찰나의 기하학과 몰입의 시선: 앙리 카르티에 브레송의 '결정적 순간' 관찰 루틴"
 description: "현대 포토저널리즘의 거장 앙리 카르티에 브레송이 완벽한 기하학적 구도와 찰나의 순간을 기다렸던 시각적 몰입 습관. 예측 부호화(Predictive Coding) 필터를 깨뜨리고 시각 피질과 전두엽주의 제어망을 깨우는 신경과학적 원리를 밝힙니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-08"
+updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/bresson_decisive_moment.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/bresson_decisive_moment.webp"
 app: "buildself"
 formatVersion: 4
 authority: "앙리 카르티에 브레송 사진집 『결정적 순간(Images à la sauvette / The Decisive Moment)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

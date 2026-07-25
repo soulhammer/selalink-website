@@ -1,11 +1,11 @@
 ---
 title: "Komposer yang Menyelesaikan Dilema Lewat Jalan-Jalan Pesisir Sore: Rutinitas Pembebasan Otak ala Benjamin Britten"
 description: "Pelajari bagaimana Benjamin Britten, raksasa musik Inggris abad ke-20, menyusuri garis pantai setiap sore untuk menyempurnakan struktur musik yang digubahnya selama sesi pagi, serta temukan prinsip neurosains dari Teori Restorasi Perhatian (ART) dan integrasi kognitif melalui DMN."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-22"
+updatedDate: "2026-04-22"
 category: "BuildSelf"
-tags: ["Komposer y","Routine"]
-heroImage: "/images/blog/britten_afternoon_walk.png"
+tags: ["오후 해안가 산책으","Routine"]
+heroImage: "/images/blog/britten_afternoon_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Biografi Humphrey Carpenter *Benjamin Britten: A Biography* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

@@ -1,11 +1,11 @@
 ---
 title: "Bloqueio Ambiental para Imersão: A Rotina de Isolamento em Hotel de Maya Angelou"
 description: "A lendária poetisa e ativista Maya Angelou escrevia exclusivamente em quartos de hotel vazios e sem estímulos para maximizar a concentração. Explore os princípios neurocientíficos do controle de estímulos ambientais."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-21"
+updatedDate: "2026-03-21"
 category: "BuildSelf"
-tags: ["Bloqueio A","Routine"]
-heroImage: "/images/blog/angelou_hotel_isolation.png"
+tags: ["위인 습관", "마야 안젤루", "환경통제", "집중", "몰입"]
+heroImage: "/images/blog/angelou_hotel_isolation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica dos Registros Autobiográficos de Maya Angelou, *Daily Rituals* de Mason Currey e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)"

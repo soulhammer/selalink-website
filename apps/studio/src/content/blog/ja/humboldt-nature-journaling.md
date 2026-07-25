@@ -1,11 +1,11 @@
 ---
 title: "地球全体を有機体と見なした大探検家：アレクサンダー・フォン・フンボルトの現場観察記録ルーティンとリアルタイム作業記憶同期"
 description: "近代生態学と地理学の父アレクサンダー・フォン・フンボルト。南米チンボラソ山を登る過酷な探検現場で、気圧と植物データを即座にノートへ記録し『コスモス』を完成させた彼の認知精密化ルーティンと3段階実践法を紹介します。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-04"
+updatedDate: "2026-02-04"
 category: "BuildSelf"
-tags: ["地球全体を有機体と見","Routine"]
-heroImage: "/images/blog/humboldt_nature_journaling.png"
+tags: ["위인 습관", "Routine"]
+heroImage: "/images/blog/humboldt_nature_journaling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "アンドレア・ウルフ『自然の補完（The Invention of Nature）』史料考証＆認知神経科学（Cognitive Neuroscience）および生態学（Ecology）研究"

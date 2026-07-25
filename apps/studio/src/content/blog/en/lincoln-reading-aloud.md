@@ -1,11 +1,11 @@
 ---
 title: "The President Who Read Books Out Loud: Abraham Lincoln's Prefrontal Reading Routine and the Production Effect"
 description: "Discover how 16th US President Abraham Lincoln maximized memory and executive focus by reading aloud. Explore the neuroscience of the Production Effect, Dual Representation, Broca's Area activation, prefrontal working memory, and a 5-minute practice guide."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-26"
+updatedDate: "2026-04-26"
 category: "BuildSelf"
-tags: ["Great Habits","lincoln","Routine","Stamina"]
-heroImage: "/images/blog/lincoln_reading_aloud.png"
+tags: ["위인 습관", "링컨", "아침루틴", "독서", "낭독"]
+heroImage: "/images/blog/lincoln_reading_aloud.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from David Herbert Donald's *Lincoln*, William Herndon's Memoirs *Herndon's Lincoln* & Cognitive Neuroscience and Psycholinguistics Research"

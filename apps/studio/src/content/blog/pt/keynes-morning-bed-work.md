@@ -1,11 +1,11 @@
 ---
 title: "A Teoria Geral Escrita Debaixo das Cobertas: O Hábito de Trabalho Matinal na Cama de John Maynard Keynes e Ativação CAR"
 description: "Descubra como o macroeconomista John Maynard Keynes, que superou a Grande Depressão, escreveu manuscritos na cama por duas horas ao acordar. Explore a neurociência da Resposta de Despertar do Cortisol (CAR) e uma rotina matinal de 3 passos."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-08"
+updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: ["A Teoria G","Routine"]
-heroImage: "/images/blog/keynes_morning_bed_work.png"
+tags: ["집중", "생산성", "성공습관"]
+heroImage: "/images/blog/keynes_morning_bed_work.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica da Biografia *John Maynard Keynes* de Robert Skidelsky, Arquivos de Keynes e Pesquisa em Neurociência Cognitiva e Ciência Neuromuscular"

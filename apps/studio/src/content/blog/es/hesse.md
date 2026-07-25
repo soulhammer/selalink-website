@@ -1,11 +1,11 @@
 ---
 title: "Cultivando la Tierra y Arrancando Malezas en un Jardín Rural: El Método de Contemplación de la Naturaleza y Rutina de Relajación DMN de Hermann Hesse"
 description: "Explore cómo el premio Nobel y escritor pacifista Hermann Hesse manejaba el agotamiento nervioso y la ansiedad profunda tocando la tierra del jardín y podando ramas diariamente. Examine la neurociencia de su rutina de jardinero."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-16"
+updatedDate: "2026-02-16"
 category: "BuildSelf"
-tags: ["Cultivando","Routine"]
-heroImage: "/images/blog/hesse.png"
+tags: ["위인 습관", "헤르만 헤세", "휴식", "성찰"]
+heroImage: "/images/blog/hesse.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica del ensayo de Hermann Hesse *El placer de la jardinería (Freude am Garten)* y Cartas, junto con investigación en Neurociencia Cognitiva y Psicología Ambiental"

@@ -1,11 +1,11 @@
 ---
 title: "毎朝30分、ベンジャミン・フランクリンの奇妙な「空気浴（Air Bath）」健康法と自律神経系リセットルーティン"
 description: "避雷針を発明しアメリカの建国を率いたベンジャミン・フランクリン。彼が毎朝全裸で窓を開け風を浴びた「空気浴」ルーティンの科学的効果と、皮膚低温受容体刺激、ノルアドレナリン覚醒メカニズムを解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-12"
+updatedDate: "2026-02-12"
 category: "BuildSelf"
-tags: ["毎朝30分、ベンジャ","Routine"]
-heroImage: "/images/blog/franklin_air_bath.png"
+tags: ["위인 습관", "벤자민 프랭클린", "아침 루틴", "면역력", "각성"]
+heroImage: "/images/blog/franklin_air_bath.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ベンジャミン・フランクリン自伝『フランクリン自伝（The Autobiography of Benjamin Franklin）』および親筆書簡集（Letters to M. Barbeu Dubourg）考証＆認知神経科学（Cognitive Neuroscience）研究"

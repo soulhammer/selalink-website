@@ -1,11 +1,11 @@
 ---
 title: "Die Schreibtafel am Bett: Karls des Großen Routine zur Gedächtniskonsolidierung im Schlaf"
 description: "Erkunden Sie, wie Karl der Große, der Wegbereiter Westeuropas, Wachstafeln an seinem Bett aufbewahrte, um das Schreiben zu erlernen, und entdecken Sie die kognitiven Neurowissenschaften zur Maximierung der Langzeitgedächtniskonsolidierung im Tiefschlaf."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-20"
+updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: ["Die Schrei","Routine"]
-heroImage: "/images/blog/charlemagne_lifelong_learning.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/charlemagne_lifelong_learning.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Einhards Biografie *Vita Karoli Magni (Leben Karls des Großen)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

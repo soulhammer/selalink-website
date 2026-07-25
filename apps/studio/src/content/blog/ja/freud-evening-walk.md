@@ -1,11 +1,11 @@
 ---
 title: "内面の無意識を呼び覚ました3マイルの散歩：ジークムント・フロイトの夜の速歩ルーティンと無意識ジャーナリング"
 description: "精神分析学の創始者ジークムント・フロイト。過酷な臨床分析業務を終えた毎晩、ウィーンの街を速歩で歩き、左右の脳のバランスを取り戻して無意識を記録した彼の脳科学的夜のルーティンと両側性感覚刺激の原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-09"
+updatedDate: "2026-07-09"
 category: "BuildSelf"
-tags: ["内面の無意識を呼び覚","Routine"]
-heroImage: "/images/blog/freud_evening_walk.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/freud_evening_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ジークムント・フロイト自伝『我が生涯と精神分析（An Autobiographical Study）』およびウィーン・フロイト博物館史料考証＆認知神経科学（Cognitive Neuroscience）研究"

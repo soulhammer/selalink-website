@@ -1,11 +1,11 @@
 ---
 title: "차가운 감옥 바닥의 물구나무서기? 자와할랄 네루의 호르몬 조절법"
 description: "인도 초대 총리 자와할랄 네루. 9년간의 독방 수감 생활 속에서도 매일 아침 물구나무서기를 서며 뇌 혈류량을 늘리고 신체 긴장을 해소했던 뇌과학적 원리와 건강 루틴을 공개합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-18"
+updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: ["Great Habits","nehru","Routine","Stamina"]
-heroImage: "/images/blog/nehru_headstand_yoga.png"
+tags: ["위인 습관", "자와할랄 네루", "요가 물구나무서기", "뇌 혈류", "HPA 스트레스 축"]
+heroImage: "/images/blog/nehru_headstand_yoga.webp"
 app: "buildself"
 formatVersion: 4
 authority: "자와할랄 네루 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

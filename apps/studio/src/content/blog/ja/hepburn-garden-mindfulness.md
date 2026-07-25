@@ -1,11 +1,11 @@
 ---
 title: "エレガンスの礎：オードリー・ヘップバーンの心癒やす庭園ルーティンと土いじりの脳科学"
 description: "ハリウッドの伝説オードリー・ヘップバーン。極度の世間の関心と闘病の苦しみの中でも情緒的安定とエレガンスを守り抜いた秘密である土いじり（ガーデニング）ルーティンの脳科学的原理とマイコバクテリウム・バッカエ、セロトニン分泌メカニズムを解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-14"
+updatedDate: "2026-01-14"
 category: "BuildSelf"
-tags: ["エレガンスの礎：オー","Routine"]
-heroImage: "/images/blog/hepburn_garden_mindfulness.png"
+tags: ["위인 습관", "오드리헵번", "정원가꾸기", "스트레스해소", "마음치유"]
+heroImage: "/images/blog/hepburn_garden_mindfulness.webp"
 app: "buildself"
 formatVersion: 4
 authority: "オードリー・ヘップバーン評伝およびスイス・トロシュナ（Tolochenaz）アーカイブ史料考証＆認知神経科学（Cognitive Neuroscience）および環境心理学（Environmental Psychology）研究"

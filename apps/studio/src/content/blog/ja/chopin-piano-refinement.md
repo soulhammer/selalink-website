@@ -1,11 +1,11 @@
 ---
 title: "ピアノの詩人のひどい完璧主義：ショパンの鍵盤上の反復推敲とACC調律ルーティン"
 description: "浪漫派音楽の巨匠フレデリック・ショパンが鍵盤の前で数頭のメロディーを何度も修正して演奏し傑作を誕生させたルーティン。前帯状皮質（ACC）のエラー感知と神経微細調律（Neural Fine-tuning）を通じて作品の完成度を極大化する認知神経科学的原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-21"
+updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: ["ピアノの詩人のひどい","Routine"]
-heroImage: "/images/blog/chopin_piano_refinement.png"
+tags: ["위인 습관", "쇼팽", "완벽주의", "피아노작곡", "디테일퇴고"]
+heroImage: "/images/blog/chopin_piano_refinement.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ジョルジュ・サンド自伝『Histoire de ma vie』考証＆認知神経科学（Cognitive Neuroscience）研究"

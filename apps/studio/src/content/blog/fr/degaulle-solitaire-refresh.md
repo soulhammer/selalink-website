@@ -1,11 +1,11 @@
 ---
 title: "Un jeu de patience dans le bureau présidentiel : La routine de Charles de Gaulle contre la fatigue décisionnelle"
 description: "Découvrez comment le président français Charles de Gaulle se détendait de la haute politique en jouant à la patience. Explorez la neuroscience cognitive montrant comment l'association de motifs non verbaux désactive les filtres préfrontaux de prise de décision."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-28"
+updatedDate: "2026-03-28"
 category: "BuildSelf"
-tags: ["Un jeu de ","Routine"]
-heroImage: "/images/blog/degaulle_solitaire_refresh.png"
+tags: ["위인 습관", "샤를 드 골", "솔리테어", "의사결정 피로", "두뇌 이완"]
+heroImage: "/images/blog/degaulle_solitaire_refresh.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue des mémoires de Charles de Gaulle *Mémoires de guerre* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

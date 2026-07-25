@@ -1,11 +1,11 @@
 ---
 title: "大航海時代を開いた船長：コロンブスの夜間航海日誌記録と扁桃体鎮静ルーティン"
 description: "未知の大西洋を越えた探検家コロンブスが嵐と恐怖の中でも毎日夜航海日誌を記録し極度の理性的安定を維持したルーティン。夜間の定量日誌作成が扁桃体（Amygdala）を鎮静させ前頭前野制御網を稼働させる認知神経科学的原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-25"
+updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["大航海時代を開いた船","Routine"]
-heroImage: "/images/blog/columbus_nautical_log.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/columbus_nautical_log.webp"
 app: "buildself"
 formatVersion: 4
 authority: "バルトロメ・デ・ラス・カサス編纂『The Diario of Christopher Columbus』考証＆認知神経科学（Cognitive Neuroscience）研究"

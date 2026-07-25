@@ -1,11 +1,11 @@
 ---
 title: "写作卡壳就更换打字机？艾萨克·阿西莫夫的多任务切换习惯"
 description: "留下500多部著作的科幻大师艾萨克·阿西莫夫的多任务切换习惯。探索克服单一沉浸疲劳并获得新鲜感效应的3步骤秘诀。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-26"
+updatedDate: "2026-05-26"
 category: "BuildSelf"
-tags: ["写作卡壳就更换打字机","Routine"]
-heroImage: "/images/blog/asimov_project_switching.png"
+tags: ["위인 습관", "아이작 아시모프", "집중력", "다중작업", "창의성", "생산성"]
+heroImage: "/images/blog/asimov_project_switching.webp"
 app: "buildself"
 formatVersion: 4
 authority: "艾萨克·阿西莫夫自传《I, Asimov: A Memoir》考证与认知神经科学（Cognitive Neuroscience）研究"

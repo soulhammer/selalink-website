@@ -1,11 +1,11 @@
 ---
 title: "Memaksa Fokus dengan Memblokir Keluar Rumah: Kebiasaan Isolasi Mencukur Cukur Rambut Victor Hugo dan Strategi Pra-komitmen"
 description: "Pelajari bagaimana Victor Hugo mencukur separuh rambut dan jenggotnya untuk mencegah dirinya keluar rumah dan mengejar tenggat waktu penerbit. Temukan neurosains tentang hambatan fisik lingkungan dan pencegahan kelelahan kehendak prefrontal."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-29"
+updatedDate: "2026-06-29"
 category: "BuildSelf"
-tags: ["Memaksa Fo","Routine"]
-heroImage: "/images/blog/hugo_hair_shaving.png"
+tags: ["위인 습관", "빅토르 위고", "몰입", "환경 제약", "생산성"]
+heroImage: "/images/blog/hugo_hair_shaving.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari *Victor Hugo: A Biography* karya Graham Robb, Terapi Perilaku & Penelitian Neurosains Kognitif"

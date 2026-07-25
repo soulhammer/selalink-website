@@ -1,11 +1,11 @@
 ---
 title: "¿Cambiar de Máquina de Escribir al Estancarse al Escribir? La Rutina de Alternancia Multitarea de Isaac Asimov"
 description: "La rutina de alternancia multitarea del maestro de la ciencia ficción Isaac Asimov, autor de más de 500 libros. Descubra el secreto de 3 pasos para superar la fatiga del enfoque único y lograr el efecto de novedad."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-26"
+updatedDate: "2026-05-26"
 category: "BuildSelf"
-tags: ["¿Cambiar d","Routine"]
-heroImage: "/images/blog/asimov_project_switching.png"
+tags: ["위인 습관", "아이작 아시모프", "집중력", "다중작업", "창의성", "생산성"]
+heroImage: "/images/blog/asimov_project_switching.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la Autobiografía de Isaac Asimov *I, Asimov: A Memoir* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"

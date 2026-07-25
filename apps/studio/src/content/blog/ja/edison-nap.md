@@ -1,11 +1,11 @@
 ---
 title: "鉄球を手に握って昼寝をした天才：トーマス・エジソンのヒプナゴジア（Hypnagogia）睡眠法と半睡眠創造性ルーティン"
 description: "白熱電球と蓄音機の発明家トーマス・エジソンが難題にぶつかるたびに行った鉄球昼寝ルーティン。意識と睡眠の境界（入眠夢想）でアイデアを捉えるヒプナゴジア睡眠法と認知神経科学的原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-02"
+updatedDate: "2026-04-02"
 category: "BuildSelf"
-tags: ["鉄球を手に握って昼寝","Routine"]
-heroImage: "/images/blog/edison_nap.png"
+tags: ["위인 습관", "토마스 에디슨", "창의성", "낮잠", "영감"]
+heroImage: "/images/blog/edison_nap.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ポール・イスラエル『エジソン評伝（Edison: A Life of Invention）』およびエジソン国立歴史公園アーカイブ考証＆認知神経科学（Cognitive Neuroscience）研究"

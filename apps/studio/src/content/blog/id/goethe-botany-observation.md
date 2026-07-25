@@ -1,11 +1,11 @@
 ---
 title: "Raksasa Sastra yang Mengumpulkan Biji-bijian di Tamannya: Kebiasaan Pengamatan Pagi dan Rutinitas Restorasi Perhatian Goethe"
 description: "Pelajari bagaimana Johann Wolfgang von Goethe mendapatkan inspirasi mendalam dengan mengamati tumbuhan melalui kaca pembesar setiap pagi. Temukan Teori Restorasi Perhatian (ART) dan rutinitas jalan botanis paginya."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-24"
+updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: ["Raksasa Sa","Routine"]
-heroImage: "/images/blog/goethe_botany_observation.png"
+tags: ["위인 습관", "괴테", "아침루틴", "산책", "주의력회복"]
+heroImage: "/images/blog/goethe_botany_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari *Dichtung und Wahrheit* & *The Metamorphosis of Plants* karya Johann Wolfgang von Goethe, Arsip Museum Weimar & Penelitian Neurosains Kognitif"

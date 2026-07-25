@@ -1,11 +1,11 @@
 ---
 title: "Der Komponist, der Dilemmata bei nachmittäglichen Küstenspaziergängen löste: Benjamin Brittens Gehirnbefreiungsroutine"
 description: "Erkunden Sie, wie Benjamin Britten, britischer Musik titan des 20. Jahrhunderts, jeden Nachmittag an der Küste spazieren ging, um die morgens verfassten Musikstrukturen zu verfeinern, und entdecken Sie die neurowissenschaftlichen Prinzipien der Aufmerksamkeitswiederherstellungstheorie (ART) und kognitiven Integration über das DMN."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-22"
+updatedDate: "2026-04-22"
 category: "BuildSelf"
-tags: ["Der Kompon","Routine"]
-heroImage: "/images/blog/britten_afternoon_walk.png"
+tags: ["오후 해안가 산책으","Routine"]
+heroImage: "/images/blog/britten_afternoon_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Humphrey Carpenters Biografie *Benjamin Britten: A Biography* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

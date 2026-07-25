@@ -1,11 +1,11 @@
 ---
 title: "寝ている間に脳が企画案を解き明かす：ジョーン・ディディオンの原稿同寝睡眠法とREM睡眠プライミング"
 description: "米国の伝説的な作家ジョーン・ディディオン。解けない原稿を抱えて寝室に入り共に眠った睡眠ルーティン。認知的プライミング（Cognitive Priming）とREM睡眠中の記憶再統合の認知神経科学的原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-02"
+updatedDate: "2026-06-02"
 category: "BuildSelf"
-tags: ["寝ている間に脳が企画","Routine"]
-heroImage: "/images/blog/didion_manuscript_sleeping.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/didion_manuscript_sleeping.webp"
 app: "buildself"
 formatVersion: 4
 authority: "トレイシー・ドーハーティ伝記『The Last Love Song』および『The Paris Review』考証＆認知神経科学（Cognitive Neuroscience）研究"

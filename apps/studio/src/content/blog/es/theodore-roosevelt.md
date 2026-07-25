@@ -1,11 +1,11 @@
 ---
 title: "천식의 한계를 쇠질로 극복한 루스벨트의 아침 고강도 신체 단련"
 description: "러시모어 산에 얼굴이 새겨진 미국의 위대한 대통령으로, 극한의 육체 피로를 겪은 직후 뇌가 완전히 깨어나는 초집중 독서 루틴을 고수했습니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-06"
+updatedDate: "2026-07-06"
 category: "BuildSelf"
-tags: ["천식의 한계를 쇠질","Routine"]
-heroImage: "/images/blog/theodore_roosevelt.png"
+tags: ["위인 습관", "시어도어 루즈벨트", "생산성", "학습"]
+heroImage: "/images/blog/theodore_roosevelt.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Theodore Roosevelt 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

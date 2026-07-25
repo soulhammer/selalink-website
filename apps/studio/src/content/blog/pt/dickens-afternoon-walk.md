@@ -1,11 +1,11 @@
 ---
 title: "O Novelista que Caminhava a Passo Rápido 3 Horas Todas as Tardes: A Rotina de Ideias e Ativação da DMN de Charles Dickens"
 description: "Descubra como o gigante literário Charles Dickens criou personagens e tramas complexas por meio de uma caminhada diária de 3 horas. Explore a neurociência cognitiva da ativação da Rede de Modo Padrão (DMN) e secreção de BDNF."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-23"
+updatedDate: "2026-05-23"
 category: "BuildSelf"
-tags: ["O Novelist","Routine"]
-heroImage: "/images/blog/dickens_afternoon_walk.png"
+tags: ["위인 습관", "찰스 디킨스", "산책", "창의성", "아이디어"]
+heroImage: "/images/blog/dickens_afternoon_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica da Biografia de John Forster *A Vida de Charles Dickens (The Life of Charles Dickens)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)"

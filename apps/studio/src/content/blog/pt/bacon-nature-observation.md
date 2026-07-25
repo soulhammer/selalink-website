@@ -1,11 +1,11 @@
 ---
 title: "A Caminhada Matinal pelo Jardim de Francis Bacon: Como Reiniciar a Fadiga Cerebral Através da Observação da Natureza"
 description: "Descubra como Francis Bacon, um mestre do empirismo, caminhava em seu jardim todas as manhãs para observar plantas e o clima, aliviando a fadiga cerebral e estabelecendo sua filosofia indutiva."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-04"
+updatedDate: "2026-01-04"
 category: "BuildSelf"
-tags: ["A Caminhad","Routine"]
-heroImage: "/images/blog/bacon_nature_observation.png"
+tags: ["산책", "자연관찰", "경험론", "근세"]
+heroImage: "/images/blog/bacon_nature_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica do Ensaio *Dos Jardins (Of Gardens)* de Francis Bacon e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)"

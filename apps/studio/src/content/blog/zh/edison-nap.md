@@ -1,11 +1,11 @@
 ---
 title: "手握钢球入睡的天才：托马斯·爱迪生入睡前幻觉（Hypnagogia）半睡眠创意法"
 description: "探索发明家托马斯·爱迪生在遭遇难题时使用的钢球午睡法。揭示在意识与睡眠交界处（入睡前幻觉/N1阶段）捕获灵感的神经科学原理与实践指南。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-02"
+updatedDate: "2026-04-02"
 category: "BuildSelf"
-tags: ["手握钢球入睡的天才：","Routine"]
-heroImage: "/images/blog/edison_nap.png"
+tags: ["위인 습관", "토마스 에디슨", "창의성", "낮잠", "영감"]
+heroImage: "/images/blog/edison_nap.webp"
 app: "buildself"
 formatVersion: 4
 authority: "保罗·伊斯雷尔《爱迪生传（Edison: A Life of Invention）》与爱迪生国家历史公园档案考证及认知神经科学（Cognitive Neuroscience）研究"

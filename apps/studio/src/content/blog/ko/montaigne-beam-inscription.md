@@ -1,11 +1,11 @@
 ---
 title: "몽테뉴의 대들보 사색법: 시각적 자극으로 편견을 흔들고 메타인지를 켜는 법"
 description: "프랑스의 철학자 몽테뉴가 자신의 서재 대들보에 고대 철학 격언 57개를 새겨두고 이를 보며 고정관념을 깨부순 창의적 사색 비결을 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-10"
+updatedDate: "2026-03-10"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/montaigne_beam_inscription.png"
+tags: ["시각점화", "사색", "서재", "르네상스"]
+heroImage: "/images/blog/montaigne_beam_inscription.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Montaigne Beam Inscription 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

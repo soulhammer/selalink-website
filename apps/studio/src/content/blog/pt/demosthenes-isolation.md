@@ -1,11 +1,11 @@
 ---
 title: "O Orador que Raspou Metade da Cabeça: A Rotina de Controle Ambiental Extremo e Dispositivo de Comprometimento de Demóstenes"
 description: "Descubra como Demóstenes, mestre orador da Grécia antiga, superou suas limitações físicas raspando metade da cabeça e isolando-se numa caverna. Explore a neurociência cognitiva de como os Dispositivos de Comprometimento protegem as funções executivas."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-28"
+updatedDate: "2026-01-28"
 category: "BuildSelf"
-tags: ["O Orador q","Routine"]
-heroImage: "/images/blog/demosthenes_isolation.png"
+tags: ["위인 습관", "데모스테네스", "몰입", "환경통제", "의지력"]
+heroImage: "/images/blog/demosthenes_isolation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica de *Vidas Paralelas (Vida de Demóstenes)* de Plutarco e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)"

@@ -1,11 +1,11 @@
 ---
 title: "Forcer la concentration en bloquant les sorties : La routine d'isolement par le rasage et la stratégie de pré-engagement de Victor Hugo"
 description: "Découvrez comment Victor Hugo s'est rasé la moitié des cheveux et de la barbe pour s'interdire de sortir et tenir ses délais éditoriaux. Explorez la neuroscience des contraintes physiques environnementales et la prévention de la fatigue préfrontale."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-29"
+updatedDate: "2026-06-29"
 category: "BuildSelf"
-tags: ["Forcer la ","Routine"]
-heroImage: "/images/blog/hugo_hair_shaving.png"
+tags: ["위인 습관", "빅토르 위고", "몰입", "환경 제약", "생산성"]
+heroImage: "/images/blog/hugo_hair_shaving.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de la biographie de Graham Robb *Victor Hugo*, de la thérapie comportementale & de la Recherche en Neurosciences Cognitives"

@@ -1,11 +1,11 @@
 ---
 title: "The Slave-Turned-Philosopher Who Said to Ignore What You Can't Control: Epictetus's Dichotomy of Control Evening Reflection Routine"
 description: "Discover how Epictetus, the Stoic master born into slavery, eliminated daily anxiety by strictly dividing reality into what is within our control and what is not. Explore his evening journaling method and cognitive neuroscience mechanisms."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-15"
+updatedDate: "2026-05-15"
 category: "BuildSelf"
-tags: ["Great Habits","epictetus","Routine","Stamina"]
-heroImage: "/images/blog/epictetus_dichotomy_control.png"
+tags: ["위인 습관", "Routine"]
+heroImage: "/images/blog/epictetus_dichotomy_control.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Epictetus's *Discourses* and *Enchiridion* & Cognitive Neuroscience Research"

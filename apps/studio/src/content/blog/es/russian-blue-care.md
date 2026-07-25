@@ -16,23 +16,23 @@ faqs:
     answer: "Agáchese y evite mirarlo directamente a los ojos, ya que lo ven como amenaza. Deje que olfatee su dedo primero y premie su acercamiento con bocadillos."
 ---
 
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+Los Azules Rusos son felinos conocidos por su pelaje azul plateado y sus ojos verdes. Aunque son silenciosos y leales a su familia, son genéticamente tímidos y sensibles a los ruidos fuertes. 🐱 Es por eso que se esconden rápidamente cuando hay visitas o suena la aspiradora. Obligarlos a salir de sus escondites les causa pánico. Hoy, PetSelf detalla cómo crear un espacio seguro con una rutina de 3 pasos.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+      Evidencia Veterinaria y Comportamental
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+      Este contenido se basa en <strong>Guía de razas de la Cat Fanciers' Association (CFA) y Cornell Feline Health Center</strong>.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+    🐾 Azul Ruso Perfil principal
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Vida útil media</span><span class="font-bold text-slate-800 dark:text-slate-200">15 ~ 20 años</span></div>
@@ -43,7 +43,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
 
 ## 1. Lenguaje corporal del Azul Ruso: lectura de las señales de pánico
 
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+Debido a su naturaleza gentil, los Azules Rusos muestran señales de advertencia en silencio. Las señales clave incluyen 'pupilas dilatadas' y 'encogerse' (crouching). Si escucha un ruido o se acerca un extraño, sus pupilas se dilatan. Si aplasta su cuerpo contra el suelo y aplana las orejas hacia los lados, experimenta un miedo extremo y se prepara para huir.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -77,7 +77,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Mañana: Rutina de seguridad en arenero y comedero</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+    Limpie el arenero temprano. Asegúrese de que sus platos de comida y agua estén en un rincón tranquilo lejos del paso de la gente.
   </p>
 </div>
 
@@ -87,7 +87,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: Mantenimiento del refugio seguro en las alturas</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+    Confirme que su cubículo cerrado en el árbol rascador esté siempre accesible. Esto le da una salida elevada ante ruidos o visitas.
   </p>
 </div>
 
@@ -97,7 +97,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noche: Olfateo de mano no intrusivo y contacto suave</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+    En lugar de acercarse directamente para cargarlo, extienda su dedo índice a su nivel. Deje que olfatee su mano primero para iniciar el contacto.
   </p>
 </div>
 
@@ -106,7 +106,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+      El simple hecho de observar las señales de calma de su mascota puede prevenir problemas de comportamiento graves y enfermedades causadas por el estrés. Embora o tratamento veterinário é importante, proporcionar um ambiente seguro (rampas, espaços verticales, múltiples fuentes de agua) es el escudo más fuerte para apoyar su felicidad de por vida.
     </p>
   </div>
 </div>
@@ -124,7 +124,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+      Bajo ningún concepto. Obligarlo a salir de su zona segura le causará pánico y dañará la confianza que le tiene. Déjelo allí hasta que se vayan las visitas.
     </p>
   </details>
 
@@ -134,7 +134,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+      Agáchese y evite mirarlo directamente a los ojos, ya que lo ven como amenaza. Deje que olfatee su dedo primero y premie su acercamiento con bocadillos.
     </p>
   </details>
 </div>

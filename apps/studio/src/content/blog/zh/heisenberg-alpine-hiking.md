@@ -1,11 +1,11 @@
 ---
 title: "大自然赋予的不确定性灵感：海森堡的阿尔卑斯徒步习惯与DMN孵化指南"
 description: "探索为破解量子力学谜题而独游巴伐利亚阿尔卑斯山深思的维尔纳·海森堡。揭示自然漫步修复大脑注意力与拉动预设模式网络（DMN）开展创造性孵化的科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-06"
+updatedDate: "2026-02-06"
 category: "BuildSelf"
-tags: ["大自然赋予的不确定性","Routine"]
-heroImage: "/images/blog/heisenberg_alpine_hiking.png"
+tags: ["사색", "이완", "창의성"]
+heroImage: "/images/blog/heisenberg_alpine_hiking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "维尔纳·海森堡自传《部分与整体（Der Teil und das Ganze）》与巴伐利亚科学院史料考证及认知神经科学（Cognitive Neuroscience）与环境心理学（Environmental Psychology）研究"

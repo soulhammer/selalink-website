@@ -1,11 +1,11 @@
 ---
 title: "Seu Cérebro Resolve Projetos Enquanto Você Dorme: A Rotina de Dormir com o Manuscrito de Joan Didion e Priming do Sono REM"
 description: "Descubra como a lendária ensaísta americana Joan Didion dormia no mesmo quarto que seu manuscrito inacabado para desembaraçar narrativas complexas. Explore a neurociência cognitiva do priming cognitivo e consolidação da memória no sono REM."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-02"
+updatedDate: "2026-06-02"
 category: "BuildSelf"
-tags: ["Seu Cérebr","Routine"]
-heroImage: "/images/blog/didion_manuscript_sleeping.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/didion_manuscript_sleeping.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica da Biografia de Tracy Daugherty *The Last Love Song* e *The Paris Review* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)"

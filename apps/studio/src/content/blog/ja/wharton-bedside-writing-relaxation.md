@@ -1,11 +1,11 @@
 ---
 title: "이완이 이끄는 창조적 흐름: 에디스 워튼의 침대 위 오전 집필 습관"
 description: "여성 최초로 소설 분야 퓰리처상을 수상한 거장 에디스 워튼. 아침에 일어나 침대에서 나가지 않고 반려견들과 엎드려 편안하게 글을 썼던 그녀의 신경생리학적 이완 집필 비결을 밝힙니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-21"
+updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: ["이완이 이끄는 창조","Routine"]
-heroImage: "/images/blog/wharton_bedside_writing_relaxation.png"
+tags: ["글쓰기", "창의성", "휴식"]
+heroImage: "/images/blog/wharton_bedside_writing_relaxation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Wharton Bedside Writing Relaxation 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

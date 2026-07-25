@@ -1,11 +1,11 @@
 ---
 title: "L'orateur qui s'est rasé la moitié de la tête : La routine de contrôle environnemental extrême et de dispositif d'engagement de Démosthène"
 description: "Découvrez comment Démosthène, maître orateur de la Grèce antique, a surmonté ses limites physiques en se rasant la moitié de la tête et en s'isolant dans une grotte. Explorez la neuroscience cognitive montrant comment les dispositifs d'engagement protègent les fonctions exécutives."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-28"
+updatedDate: "2026-01-28"
 category: "BuildSelf"
-tags: ["L'orateur ","Routine"]
-heroImage: "/images/blog/demosthenes_isolation.png"
+tags: ["위인 습관", "데모스테네스", "몰입", "환경통제", "의지력"]
+heroImage: "/images/blog/demosthenes_isolation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue des *Vies parallèles (Vie de Démosthène)* de Plutarque & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

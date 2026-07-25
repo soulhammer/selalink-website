@@ -1,11 +1,11 @@
 ---
 title: "Girar a Roda no Silêncio da Alvorada: A Rotina de Meditação Matinal e Meditação Ativa de Mahatma Gandhi"
 description: "Descubra como Mahatma Gandhi, o grande líder da paz na Índia, disciplinava sua mente ao acordar às 4h para meditar e girar a roda Charkha. Explore a neurociência da meditação ativa e da serotonina."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-23"
+updatedDate: "2026-03-23"
 category: "BuildSelf"
-tags: ["Girar a Ro","Routine"]
-heroImage: "/images/blog/gandhi_morning_meditation.png"
+tags: ["위인 습관", "마하트마 간디", "아침 루틴", "명상", "스트레스 완화"]
+heroImage: "/images/blog/gandhi_morning_meditation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica da *Autobiografia: A História dos Meus Experimentos com a Verdade* de Mahatma Gandhi, Arquivos do Ashram e Pesquisa em Neurociência Cognitiva"

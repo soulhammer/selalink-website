@@ -1,11 +1,11 @@
 ---
 title: "大統領執務室の1人用カードゲーム：シャルル・ド・ゴールのソリティアと前頭葉意思決定疲労解消法"
 description: "危機の中でフランスを救った英雄シャルル・ド・ゴールが激務の疲れの中でソリティアカードゲームを楽しんだルーティン。非言語的パターンマッチングが前頭葉意思決定フィルター（Decision-making filters）を非活性化し扁桃体の過負荷を消す認知神経科学的原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-28"
+updatedDate: "2026-03-28"
 category: "BuildSelf"
-tags: ["大統領執務室の1人用","Routine"]
-heroImage: "/images/blog/degaulle_solitaire_refresh.png"
+tags: ["위인 습관", "샤를 드 골", "솔리테어", "의사결정 피로", "두뇌 이완"]
+heroImage: "/images/blog/degaulle_solitaire_refresh.webp"
 app: "buildself"
 formatVersion: 4
 authority: "シャルル・ド・ゴール回顧録『War Memoirs（Mémoires de guerre）』考証＆認知神経科学（Cognitive Neuroscience）研究"

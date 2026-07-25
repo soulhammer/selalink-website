@@ -1,11 +1,11 @@
 ---
 title: "The Father of Immunology Who Conquered Smallpox: Edward Jenner's Field Observation Tracking Routine and the Neuroscience of Grit"
 description: "Discover how country doctor Edward Jenner invented the smallpox vaccine by accumulating years of field observation logs across local farms. Explore the neuroscience of process-oriented dopamine reward circuits and prefrontal grit."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-14"
+updatedDate: "2026-07-14"
 category: "BuildSelf"
-tags: ["Great Habits","jenner","Routine","Stamina"]
-heroImage: "/images/blog/jenner_observation_tracking_log.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/jenner_observation_tracking_log.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Edward Jenner's Treatise *An Inquiry into the Causes and Effects of the Variolae Vaccinae* (1798), Royal Society Archives & Cognitive Neuroscience and History of Medicine Research"

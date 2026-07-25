@@ -1,11 +1,11 @@
 ---
 title: "산책 지팡이에 잉크병을 매단 철학자: 토머스 홉스의 즉각 메모법과 인지적 외재화 루틴"
 description: "사상가 토머스 홉스는 산책하며 떠오른 아이디어가 휘발하는 것을 막기 위해 지팡이에 잉크병을 달아 즉시 메모했습니다. 뇌가 이완될 때 찾아오는 번뜩임을 영구 저장하는 작업 기억 확장 원리와 3단계 실천법을 설명합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-16"
+updatedDate: "2026-03-16"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/hobbes_cane_inkwell.png"
+tags: ["산책 지팡이에 잉크","Routine"]
+heroImage: "/images/blog/hobbes_cane_inkwell.webp"
 app: "buildself"
 formatVersion: 4
 authority: "존 오브리(John Aubrey) 『약전(Brief Lives)』 및 토머스 홉스 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

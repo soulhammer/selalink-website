@@ -1,11 +1,11 @@
 ---
 title: "重要なことに集中する力：ドワイト・アイゼンハワーの優先順位4象限意思決定習慣"
 description: "戦争と国政運営という巨大な意思決定の重みに耐え抜いたアイゼンハワー大統領。些細な緊急性に振り回されず、本質的で重要な仕事に脳のエネルギーを配分した彼の時間管理の秘訣と認知科学的メカニズムを分析します。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["重要なことに集中する","Routine"]
-heroImage: "/images/blog/eisenhower_matrix_decision.png"
+tags: ["의사결정", "생산성", "시간 관리"]
+heroImage: "/images/blog/eisenhower_matrix_decision.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ドワイト・D・アイゼンハワー自伝『At Ease: Stories I Tell to Friends（気楽に話そう）』考証＆認知神経科学（Cognitive Neuroscience）研究"

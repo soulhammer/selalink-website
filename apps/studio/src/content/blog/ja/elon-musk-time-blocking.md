@@ -1,11 +1,11 @@
 ---
 title: "イーロン・マスクの「5分タイムブロック」：時間の超集中密度を生み出すマイクロ計画法と没頭ルーティン"
 description: "週80〜100時間以上の激務をこなすため、1日のスケジュールを5分単位のマイクロブロックに細分化して超集中するイーロン・マスク。パーキンソンの法則を克服し、脳の没頭度を極大化する時間管理習慣と認知神経科学的原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-15"
+updatedDate: "2026-06-15"
 category: "BuildSelf"
-tags: ["イーロン・マスクの「","Routine"]
-heroImage: "/images/blog/elon_musk_time_blocking.png"
+tags: ["위인 습관", "일론 머스크", "생산성 향상", "시간 관리", "타임 블로킹"]
+heroImage: "/images/blog/elon_musk_time_blocking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ウォルター・アイザックソン評伝『イーロン・マスク（Elon Musk）』考証＆認知神経科学（Cognitive Neuroscience）研究"

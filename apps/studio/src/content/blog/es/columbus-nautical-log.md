@@ -1,11 +1,11 @@
 ---
 title: "El Capitán que Inició la Era de los Descubrimientos: La Rutina de Diario de Navegación Nocturno y Calma de la Amígdala de Cristóbal Colón"
 description: "Descubra cómo el explorador Cristóbal Colón mantuvo la serenidad racional en medio de las tormentas marinas al llevar un diario cuantitativo nocturno. Explore la neurociencia cognitiva de cómo el registro nocturno calma la amígdala y activa el control prefrontal."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-25"
+updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["El Capitán","Routine"]
-heroImage: "/images/blog/columbus_nautical_log.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/columbus_nautical_log.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica del *Diario de a bordo de Cristóbal Colón (The Diario of Christopher Columbus)* de Bartolomé de las Casas e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"

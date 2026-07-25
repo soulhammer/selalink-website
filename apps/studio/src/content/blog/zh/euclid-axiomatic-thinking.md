@@ -4,7 +4,7 @@ description: "探讨古希腊大数学家欧几里得如何将复杂难题拆解
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["欧几里得的公理化思维","Routine"]
+tags: ["위습관","루틴"]
 heroImage: "/images/blog/euclid_axiomatic_thinking.png"
 app: "buildself"
 formatVersion: 4

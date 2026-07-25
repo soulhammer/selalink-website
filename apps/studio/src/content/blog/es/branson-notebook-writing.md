@@ -1,11 +1,11 @@
 ---
 title: "El Secreto del Multimillonario en el Bolsillo Trasero: El Cuaderno Analógico y la Estimulación del SRA de Richard Branson"
 description: "Descubra cómo el fundador de Virgin Group, Sir Richard Branson, creó más de 400 empresas registrando inspiraciones en un cuaderno analógico en su bolsillo trasero, y explore los principios neurocientíficos de cómo la escritura a mano estimula el Sistema de Activación Reticular (SRA) para convertir ideas en acción inmediata."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-04"
+updatedDate: "2026-03-04"
 category: "BuildSelf"
-tags: ["El Secreto","Routine"]
-heroImage: "/images/blog/branson_notebook_writing.png"
+tags: ["위인 습관", "리처드브랜슨", "손글씨메모", "아날로그메모", "실행력"]
+heroImage: "/images/blog/branson_notebook_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la Autobiografía de Richard Branson *Like a Virgin: Secrets They Don't Teach You at Business School* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"

@@ -1,11 +1,11 @@
 ---
 title: "Rahasia Inspirasi di Balik 'Clair de Lune': Pendengaran Suara Alam Fajar dan Induksi Gelombang Alfa Pink Noise ala Claude Debussy"
 description: "Pelajari bagaimana maestro Impresionis Claude Debussy mendengarkan hembusan angin hutan dan air di waktu fajar untuk menciptakan melodi abadi. Temukan neurosains kognitif tentang bagaimana pink noise alami menginduksi gelombang alfa."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-27"
+updatedDate: "2026-03-27"
 category: "BuildSelf"
-tags: ["Rahasia In","Routine"]
-heroImage: "/images/blog/debussy_nature_listening.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/debussy_nature_listening.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Biografi François Lesure *Claude Debussy* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

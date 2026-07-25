@@ -1,11 +1,11 @@
 ---
 title: "Éliminer corsets et fioritures : La coupe minimaliste essentielle de Coco Chanel et le filtrage d'inhibition préfrontale"
 description: "Découvrez comment la créatrice légendaire Coco Chanel a révolutionné la mode féminine en drapant le tissu sur des mannequins pour couper corsets et fioritures. Explorez la neuroscience cognitive du filtrage d'inhibition préfrontale éliminant le bruit cognitif."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-17"
+updatedDate: "2026-05-17"
 category: "BuildSelf"
-tags: ["Éliminer c","Routine"]
-heroImage: "/images/blog/coco_chanel.png"
+tags: ["위인 습관", "코코 샤넬", "의사결정", "생산성"]
+heroImage: "/images/blog/coco_chanel.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de la biographie d'Edmonde Charles-Roux *L'Allure de Chanel (Chanel and Her World)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

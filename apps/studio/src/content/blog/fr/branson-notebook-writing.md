@@ -1,11 +1,11 @@
 ---
 title: "Le secret du milliardaire dans la poche arrière : Le carnet analogique et la stimulation du SRA de Richard Branson"
 description: "Découvrez comment le fondateur du groupe Virgin, Sir Richard Branson, a créé plus de 400 entreprises en consignant ses inspirations dans un carnet analogique gardé dans sa poche arrière, et explorez les principes neuroscientifiques montrant comment l'écriture manuscrite stimule le Système Réticulaire Activateur (SRA) pour convertir les idées en actions immédiates."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-04"
+updatedDate: "2026-03-04"
 category: "BuildSelf"
-tags: ["Le secret ","Routine"]
-heroImage: "/images/blog/branson_notebook_writing.png"
+tags: ["위인 습관", "리처드브랜슨", "손글씨메모", "아날로그메모", "실행력"]
+heroImage: "/images/blog/branson_notebook_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de l'autobiographie de Richard Branson *Like a Virgin: Secrets They Don't Teach You at Business School* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

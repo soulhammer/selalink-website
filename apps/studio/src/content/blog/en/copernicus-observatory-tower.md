@@ -1,11 +1,11 @@
 ---
 title: "The Unshakable Observatory Tower: Nicolaus Copernicus's Fixed-Space Concentration and Environmental Conditioning"
 description: "Discover how Nicolaus Copernicus, who revolutionized astronomy with heliocentrism, maintained a fixed observatory tower in Frombork for decades. Explore the cognitive neuroscience of spatial conditioning and context-dependent memory that eliminates cognitive warmup time."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["Great Habits","copernicus","Routine","Stamina"]
-heroImage: "/images/blog/copernicus_observatory_tower.png"
+tags: ["위인 습관", "니콜라우스 코페르니쿠스", "집중", "계획", "생산성"]
+heroImage: "/images/blog/copernicus_observatory_tower.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Nicolaus Copernicus's *De revolutionibus orbium coelestium (On the Revolutions of the Heavenly Spheres)* & Cognitive Neuroscience Research"

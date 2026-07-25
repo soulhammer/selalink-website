@@ -16,23 +16,23 @@ faqs:
     answer: "Eles prezam pela independência e se sentem inseguros quando as patas perdem o contato com o chão. Colo forçado pode abalar o vínculo com o tutor."
 ---
 
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+Com suas faces redondas e porte musculoso, os British Shorthairs são gigantes gentis. No entanto, seu corpo robusto faz com que a obesidade sobrecarregue suas articulações. Além disso, são propensos a Cardiomiopatia Hipertrófica (HCM), agravada pelo excesso de peso. Hoje, o PetSelf apresenta uma rotina de 3 passos de dieta e atividade.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+      Evidência Veterinária e Comportamental
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+      Este conteúdo baseia-se em <strong>Padrões da GCCF para British Shorthairs e diretrizes de obesidade felina da AAFP</strong>.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+    🐾 British Shorthair Perfil principal
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Vida útil média</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 15 anos</span></div>
@@ -43,7 +43,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
 
 ## 1. Linguagem corporal do British Shorthair: olhar distante e abanar de cauda
 
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+Os British Shorthairs não gostam de contato físico restritivo e demonstram confiança através do 'olhar suave' à distância. Por outro lado, quando incomodados, mostram 'abanar de cauda' (bater a cauda no chão). Pegá-los no colo gerará estresse.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -77,7 +77,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Manhã: Controle rigoroso da dieta usando balança de cozinha</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+    Para evitar a cardiomiopatia hipertrófica (HCM) causada por obesidade, pese a comida em uma balança digital.
   </p>
 </div>
 
@@ -87,7 +87,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: Escovação de subpelo usando escova de borracha felina</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+    Embora de pelo curto, sua pelagem é densa. Escove por 5 minutos com escova de borracha felina para retirar pelos mortos.
   </p>
 </div>
 
@@ -97,7 +97,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noite: Monitoramento da frequência respiratória para HCM e brincadeira leve</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+    Verifique se a frequência respiratória ao dormir é inferior a 30 respirações por minuto e brinque de leve com bolinhas de lã.
   </p>
 </div>
 
@@ -106,7 +106,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+      Observar simplesmente os sinais de calma do seu animal de estimação pode prevenir grandes problemas comportamentais e doenças induzidas pelo estresse. Embora o tratamento veterinário seja importante, proporcionar um ambiente seguro (degraus, espaços verticais, múltiplas fontes de água) é o escudo mais forte para apoiar a sua felicidade ao longo da vida.
     </p>
   </div>
 </div>
@@ -124,7 +124,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+      Eles têm porte robusto e são propensos a Cardiomiopatia Hipertrófica (HCM). A obesidade força o coração a trabalhar mais, elevando o risco cardíaco.
     </p>
   </details>
 
@@ -134,7 +134,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+      Eles prezam pela independência e se sentem inseguros quando as patas perdem o contato com o chão. Colo forçado pode abalar o vínculo com o tutor.
     </p>
   </details>
 </div>

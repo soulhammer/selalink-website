@@ -1,11 +1,11 @@
 ---
 title: "Das Genie, das bis mittags im Bett blieb: René Descartes' Meditation im Liegen und Alphawellen-Entspannung"
 description: "Erkunden Sie, wie der Mathematiker und Philosoph René Descartes morgens im Bett meditierte, um geistige Klarheit zu erlangen. Entdecken Sie die kognitiven Neurowissenschaften zu flacher Körperhaltung, reduziertem Cortisol und Alphawellen."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-25"
+updatedDate: "2026-01-25"
 category: "BuildSelf"
-tags: ["Das Genie,","Routine"]
-heroImage: "/images/blog/descartes_lying_meditation.png"
+tags: ["위인 습관", "르네 데카르트", "아침 루틴", "명상", "집중력"]
+heroImage: "/images/blog/descartes_lying_meditation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus René Descartes' *Discours de la méthode (Abhandlung über die Methode)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

@@ -1,11 +1,11 @@
 ---
 title: "O Labirinto Desenhado pela Mente: A Rotina de Visualização da Memória de Trabalho Viso-Espacial de Borges"
 description: "Descubra como o mestre literário argentino Jorge Luis Borges desenhou mentalmente estruturas tridimensionais de texto e labirintos após perder a visão, ditando suas obras em voz alta. Explore os mecanismos neurocientíficos para maximizar a memória de trabalho viso-espacial e ativar a plasticidade cruzada."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-21"
+updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: ["O Labirint","Routine"]
-heroImage: "/images/blog/borges_mental_dictation.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/borges_mental_dictation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica da Biografia de Edwin Williamson *Borges: Uma Vida (Borges: A Life)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)"

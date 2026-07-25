@@ -1,11 +1,11 @@
 ---
 title: "Imersi Luring: Rutinitas Pemutusan Email dan Pencegahan Peralihan Konteks Donald Knuth"
 description: "Pelajari bagaimana ilmuwan ilmu komputer Donald Knuth menghentikan penggunaan email pada 1 Januari 1990 untuk melindungi kerja mendalam luringnya. Temukan neurosains dari mengeliminasi peralihan konteks dan mencegah residu perhatian."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["Imersi Lur","Routine"]
-heroImage: "/images/blog/knuth_no_email.png"
+tags: ["위인 습관", "도널드 너스", "집중", "생산성", "시간 관리"]
+heroImage: "/images/blog/knuth_no_email.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Pernyataan Resmi Donald Knuth *Email and I*, Arsip Stanford & Penelitian Neurosains Kognitif serta Psikologi Kognitif"

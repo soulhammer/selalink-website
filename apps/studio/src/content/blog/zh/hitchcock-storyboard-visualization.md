@@ -1,11 +1,11 @@
 ---
 title: "在头脑中提前百分之百完成：希区柯克的视觉分镜脚本习惯与心理模拟"
 description: "探索惊悚电影大师阿尔弗雷德·希区柯克开机前精密分镜绘制习惯。揭示通过心理模拟激活运动执行网络、消除决策疲劳的神经科学原理与3步骤指南。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-08"
+updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: ["在头脑中提前百分之百","Routine"]
-heroImage: "/images/blog/hitchcock_storyboard_visualization.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/hitchcock_storyboard_visualization.webp"
 app: "buildself"
 formatVersion: 4
 authority: "阿尔弗雷德·希区柯克传记与弗朗索瓦·特吕弗访谈史料《希区柯克论电影（Hitchcock/Truffaut）》考证及认知神经科学（Cognitive Neuroscience）研究"

@@ -1,11 +1,11 @@
 ---
 title: "¿Componer en Traje Formal en Casa?: La Rutina de 'Cognición del Vestido' y el Interruptor de Enfoque del Padre de la Sinfonía Joseph Haydn"
 description: "Descubra por qué el compositor Joseph Haydn vestía traje formal y peluca antes de componer. Explore cómo la ropa mejora la productividad a través de la ciencia de la 'Cognición del Vestido' (Enclothed Cognition) y la Cognición Encarnada."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-04"
+updatedDate: "2026-04-04"
 category: "BuildSelf"
-tags: ["¿Componer ","Routine"]
-heroImage: "/images/blog/haydn_formal_dressing.png"
+tags: ["위인 습관", "생산성"]
+heroImage: "/images/blog/haydn_formal_dressing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de las Biografías de Joseph Haydn (Dies y Griesinger), Archivos del Palacio de Esterházy e Investigación en Neurociencia Cognitiva"

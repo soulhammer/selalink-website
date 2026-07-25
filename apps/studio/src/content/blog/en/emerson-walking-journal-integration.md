@@ -1,11 +1,11 @@
 ---
 title: "The Duet of Divergence and Convergence: Ralph Waldo Emerson's Walking Notes and Nightly Journal Routine"
 description: "Explore how Ralph Waldo Emerson, a pivotal American philosopher, transformed fleeting sparks into organic philosophical systems by uniting daytime walking notes (divergent thinking) with nightly journal reflection (convergent thinking)."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-02"
+updatedDate: "2026-06-02"
 category: "BuildSelf"
-tags: ["Great Habits","emerson","Routine","Stamina"]
-heroImage: "/images/blog/emerson_walking_journal_integration.png"
+tags: ["사색", "휴식", "기록"]
+heroImage: "/images/blog/emerson_walking_journal_integration.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from *The Journals of Ralph Waldo Emerson* & Cognitive Neuroscience Research"

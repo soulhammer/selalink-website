@@ -1,11 +1,11 @@
 ---
 title: "O Uso da Tesoura que Cura a Depressão? A Rotina de Recorte de Papel de Andersen"
 description: "O mundialmente famoso autor de contos de fadas Hans Christian Andersen. Apresentamos os princípios de cura psiquiátrica e um guia de 3 passos para o 'Recorte de Papel' (Paper Cutting) — o segredo para fazer florescer uma bela imaginação apesar de uma vida de depressão e carência psicológica."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["O Uso da T","Routine"]
-heroImage: "/images/blog/andersen_paper_cutting.png"
+tags: ["위인 습관", "안데르센", "종이오리기", "미술치료", "뇌휴식"]
+heroImage: "/images/blog/andersen_paper_cutting.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica dos Arquivos de Papel do Museu Hans Christian Andersen em Odense, Dinamarca e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)"

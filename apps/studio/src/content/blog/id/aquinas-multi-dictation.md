@@ -1,11 +1,11 @@
 ---
 title: "Metode Dikte Berganda Thomas Aquinas: Memaksimalkan Memori Kerja untuk Menaklukkan Dilema Kompleks"
 description: "Pelajari bagaimana Thomas Aquinas, ahli teologi besar abad pertengahan, memperluas memori kerjanya dan mempertahankan koherensi logis sambil secara bersamaan mendiktekan topik-topik berbeda kepada 3–4 juru tulis."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-09"
+updatedDate: "2026-03-09"
 category: "BuildSelf"
-tags: ["Metode Dik","Routine"]
-heroImage: "/images/blog/aquinas_multi_dictation.png"
+tags: ["집중력", "구술대필", "작업기억", "중세"]
+heroImage: "/images/blog/aquinas_multi_dictation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Biografi Thomas Aquinas karya Bernard of Gui & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

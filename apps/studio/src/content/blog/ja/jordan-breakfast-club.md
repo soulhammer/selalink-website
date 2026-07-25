@@ -1,11 +1,11 @@
 ---
 title: "朝6時百戦百勝のメンタルセットアップ：マイケル・ジョーダンのブレックファスト・クラブと勝者効果"
 description: "バスケットボールの神様マイケル・ジョーダンのフィジカルとメンタルの限界を突破した朝6時トレーニングルーティン「ブレックファスト・クラブ」。勝者効果（Winner Effect）、ドパミン・テストステロン分泌および朝のメンタルセットアップ3段階ガイドを解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-16"
+updatedDate: "2026-01-16"
 category: "BuildSelf"
-tags: ["朝6時百戦百勝のメン","Routine"]
-heroImage: "/images/blog/jordan_breakfast_club.png"
+tags: ["위인 습관", "마이클조던", "아침루틴", "의지력", "멘탈셋업"]
+heroImage: "/images/blog/jordan_breakfast_club.webp"
 app: "buildself"
 formatVersion: 4
 authority: "マイケル・ジョーダン自伝『Driven from Within』および評伝史料考証＆認知神経科学（Cognitive Neuroscience）および運動生理学（Exercise Physiology）研究"

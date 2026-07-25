@@ -1,11 +1,11 @@
 ---
 title: "El Cuaderno de Viaje de Erasmo: Cómo Capturar Chispas de Inspiración en Movimiento"
 description: "Descubra cómo el erudito renacentista Erasmo redactó 'Elogio de la locura' mientras viajaba por Europa a caballo con un cuaderno de bolsillo. Explore la neurociencia de las ondas alfa, el flujo visual y la creatividad impulsada por el movimiento."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-11"
+updatedDate: "2026-06-11"
 category: "BuildSelf"
-tags: ["El Cuadern","Routine"]
-heroImage: "/images/blog/erasmus_notebook_travel.png"
+tags: ["메모", "이동식학습", "인문주의", "르네상스"]
+heroImage: "/images/blog/erasmus_notebook_travel.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de las *Epistolae* de Desiderio Erasmo, la Biografía de Johan Huizinga *Erasmo* e Investigación en Neurociencia Cognitiva"

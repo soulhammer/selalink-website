@@ -1,11 +1,11 @@
 ---
 title: "Fiapo no Colarinho e o Tremor de uma Pupila: A Micro-Observação e Atenção Seletiva de Anton Tchekhov"
 description: "Descubra como Anton Tchekhov, mestre dos contos modernos, registrava meticulosamente microdetalhes de pedestres em salas de espera e cafés, e explore os princípios neurocientíficos da Atenção Seletiva Micro para aprimorar a resolução cognitiva."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-12"
+updatedDate: "2026-01-12"
 category: "BuildSelf"
-tags: ["Fiapo no C","Routine"]
-heroImage: "/images/blog/chekhov.png"
+tags: ["위인 습관", "안톤 체호프", "기록", "메모"]
+heroImage: "/images/blog/chekhov.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica da Biografia de E. H. Carr *Anton Chekhov: A Critical Study* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)"

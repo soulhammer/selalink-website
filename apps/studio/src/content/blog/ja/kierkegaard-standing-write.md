@@ -1,11 +1,11 @@
 ---
 title: "散歩から戻るやいなや帽子を被ったまま立って文章を書いた哲学者：セーレン・キルケゴールの即時捕捉習慣と知的ウォーミングアップ"
 description: "実存主義哲学者セーレン・キルケゴールがひらめく思索を失わなかった方法。ドアを開けるやいなや上着も脱がずにスタンディングデスクに向かい立って文章を書いた彼のユニークなインスピレーション保存法と、知的ウォーミングアップ、作業記憶保存の脳科学を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-08"
+updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: ["散歩から戻るやいなや","Routine"]
-heroImage: "/images/blog/kierkegaard_standing_write.png"
+tags: ["위인 습관", "쇠렌 키르케고르", "기록", "스탠딩데스크", "영감"]
+heroImage: "/images/blog/kierkegaard_standing_write.webp"
 app: "buildself"
 formatVersion: 4
 authority: "セーレン・キルケゴール日記史料『キルケゴールの日記（Journals of Søren Kierkegaard）』および評伝史料考証＆認知神経科学（Cognitive Neuroscience）研究"

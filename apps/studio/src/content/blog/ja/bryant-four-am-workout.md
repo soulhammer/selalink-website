@@ -1,11 +1,11 @@
 ---
 title: "午前4時の奇跡：コービー・ブライアントのマンバ訓練ルーティン"
 description: "毎日午前4時に最初の訓練を行ったバスケットボールの皇帝コービー・ブライアント。毎日同じ早朝の時間帯の強度が高い訓練が概日リズムを固定し、身体活性を最高潮に引き上げる神経科学的・生理学的原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-19"
+updatedDate: "2026-01-19"
 category: "BuildSelf"
-tags: ["午前4時の奇跡：コー","Routine"]
-heroImage: "/images/blog/bryant_four_am_workout.png"
+tags: ["위인 습관", "코비 브라이언트", "성장", "의지력", "신체활성"]
+heroImage: "/images/blog/bryant_four_am_workout.webp"
 app: "buildself"
 formatVersion: 4
 authority: "コービー・ブライアント自伝『The Mamba Mentality: How I Play』考証＆認知神経科学（Cognitive Neuroscience）研究"

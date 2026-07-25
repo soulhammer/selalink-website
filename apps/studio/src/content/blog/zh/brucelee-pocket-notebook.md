@@ -1,11 +1,11 @@
 ---
 title: "捕获一瞬灵感的猎捕术：李小龙的口袋手账即时记录习惯"
 description: "探索20世纪武道家兼巨星李小龙将口袋手账随身至于触手可及之处、实时捕获哲学灵感与武道构想的记录哲学，并揭示其背后网状激活系统（RAS）刺激的认知机制。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-06"
+updatedDate: "2026-04-06"
 category: "BuildSelf"
-tags: ["捕获一瞬灵感的猎捕术","Routine"]
-heroImage: "/images/blog/brucelee_pocket_notebook.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/brucelee_pocket_notebook.webp"
 app: "buildself"
 formatVersion: 4
 authority: "约翰·里特尔传记《李小龙：生活的艺术家（Bruce Lee: Artist of Life）》考证与认知神经科学（Cognitive Neuroscience）研究"

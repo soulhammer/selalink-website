@@ -1,11 +1,11 @@
 ---
 title: "即便在风暴驾驶舱中也沉浸于仪表盘数值：埃尔哈特的认知控制训练"
 description: "作为成功独自飞越大西洋的首位女性飞行员，她通过每天早晨精细整理气象数据与风向变化，平息了飞行焦虑。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-31"
+updatedDate: "2026-01-31"
 category: "BuildSelf"
-tags: ["即便在风暴驾驶舱中也","Routine"]
-heroImage: "/images/blog/amelia_earhart.png"
+tags: ["위인 습관", "어밀리아 이어하트", "분석", "시간 관리"]
+heroImage: "/images/blog/amelia_earhart.webp"
 app: "buildself"
 formatVersion: 4
 authority: "阿梅莉亚·埃尔哈特自传《The Fun of It》考证与认知神经科学（Cognitive Neuroscience）研究"

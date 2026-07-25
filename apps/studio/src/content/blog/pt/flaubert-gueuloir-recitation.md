@@ -1,11 +1,11 @@
 ---
 title: "O Som que Gera Frases Perfeitas: A Rotina de Recitação do 'Gueuloir' e Feedback Auditivo de Gustave Flaubert"
 description: "Descubra como o romancista Gustave Flaubert, obcecado por 'le mot juste' (a palavra exata), alcançava a perfeição estilística. Explore a neurociência cognitiva do 'Gueuloir', a teoria da dupla codificação e o feedback auditivo."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-20"
+updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: ["O Som que ","Routine"]
-heroImage: "/images/blog/flaubert_gueuloir_recitation.png"
+tags: ["글쓰기", "창의성", "기록"]
+heroImage: "/images/blog/flaubert_gueuloir_recitation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica da *Correspondance* de Gustave Flaubert, Biografias Literárias e Pesquisa em Neurociência Cognitiva"

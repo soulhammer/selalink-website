@@ -1,11 +1,11 @@
 ---
 title: "Registrar el Recuento Diario de Palabras en un Gráfico: La Rutina de Registro Cuantitativo y Recompensa de Dopamina de Ernest Hemingway"
 description: "Descubra cómo el premio Nobel Ernest Hemingway registraba el recuento diario de palabras en un gráfico de pared. Explore la neurociencia del automonitoreo, los circuitos de recompensa de dopamina y la activación prefrontal."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-05"
+updatedDate: "2026-02-05"
 category: "BuildSelf"
-tags: ["Registrar ","Routine"]
-heroImage: "/images/blog/hemingway_word_count.png"
+tags: ["위인 습관", "헤밍웨이", "글쓰기", "생산성", "자기관찰"]
+heroImage: "/images/blog/hemingway_word_count.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de *París era una fiesta (A Moveable Feast)* de Ernest Hemingway, Entrevista de George Plimpton (*Paris Review*, 1958) e Investigación en Neurociencia Cognitiva"

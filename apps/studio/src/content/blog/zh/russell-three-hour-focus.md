@@ -1,11 +1,11 @@
 ---
 title: "하루 세 시간만 치열하게 일한 천재? 버트런드 러셀의 타임박스 몰입법"
 description: "노벨 문학상 수상 철학자 버트런드 러셀. 매일 오전 정확하게 3시간 동안 완벽히 차단된 환경에서 몰입했던 그의 효율 극대화 지혜와 현대인을 위한 딥 워크 실천법을 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-02"
+updatedDate: "2026-04-02"
 category: "BuildSelf"
-tags: ["하루 세 시간만 치","Routine"]
-heroImage: "/images/blog/russell_three_hour_focus.png"
+tags: ["위인 습관", "버트런드 러셀", "집중", "딥워크", "생산성"]
+heroImage: "/images/blog/russell_three_hour_focus.webp"
 app: "buildself"
 formatVersion: 4
 authority: "버트런드 러셀 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

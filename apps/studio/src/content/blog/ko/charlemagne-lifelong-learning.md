@@ -1,11 +1,11 @@
 ---
 title: "침대 머리맡의 필기판: 샤를마뉴의 수면 기억 통합 설계 루틴"
 description: "서유럽의 개척자 샤를마뉴 대제가 글쓰기를 배우기 위해 침대 머리맡에 밀랍 필기판을 두었던 평생 공부 습관. 서파 수면(Slow-wave Sleep) 중 장기 기억 전환을 극대화하고 해마(Hippocampus) 회로를 강화하는 인지신경과학적 원리를 밝힙니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-20"
+updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/charlemagne_lifelong_learning.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/charlemagne_lifelong_learning.webp"
 app: "buildself"
 formatVersion: 4
 authority: "아인하르트 평전 『샤를마뉴 대제전(Vita Karoli Magni)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

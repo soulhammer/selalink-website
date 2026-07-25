@@ -1,11 +1,11 @@
 ---
 title: "Buku Catatan Tunggal untuk Semua Pengetahuan: Rutinitas Commonplace Book Gottfried Wilhelm Leibniz dan Potensiasi Jangka Panjang (LTP)"
 description: "Pelajari bagaimana penemu kalkulus Gottfried Wilhelm Leibniz mengonsolidasikan semua pengetahuan ke dalam satu buku catatan teratur (Commonplace Book). Temukan neurosains dari jaringan semantik, Potensiasi Jangka Panjang (LTP), dan panduan 3 langkah."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-27"
+updatedDate: "2026-02-27"
 category: "BuildSelf"
-tags: ["Buku Catat","Routine"]
-heroImage: "/images/blog/leibniz_universal_notebook.png"
+tags: ["기록", "창의성", "사색"]
+heroImage: "/images/blog/leibniz_universal_notebook.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Biografi Gottfried Wilhelm Leibniz, Arsip Leibniz (Hanover) & Penelitian Neurosains Kognitif serta Psikologi Kognitif"

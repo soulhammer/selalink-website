@@ -1,11 +1,11 @@
 ---
 title: "노벨 작가의 책상 위 비밀: 마르케스의 노란 장미 창작 루틴"
 description: "『백년 동안의 고독』의 작가 가브리엘 가르시아 마르케스가 매일 아침 책상 위에 노란 장미를 둔 이유. 시각적 리추얼이 뇌의 이완을 돕고 창의력을 자극하는 과학적 원리를 규명합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-06"
+updatedDate: "2026-02-06"
 category: "BuildSelf"
-tags: ["노벨 작가의 책상 ","Routine"]
-heroImage: "/images/blog/marquez_yellow_rose.png"
+tags: ["위인 습관", "가브리엘 가르시아 마르케스", "창의성", "영감", "마음챙김"]
+heroImage: "/images/blog/marquez_yellow_rose.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Marquez Yellow Rose 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

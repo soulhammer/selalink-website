@@ -1,11 +1,11 @@
 ---
 title: "青いローブを着て朝のバラを観察した画家：グスタフ・クリムトの庭園散歩ルーティンと「柔らかい魅了（Soft Fascination）」"
 description: "黄金様式の巨匠グスタフ・クリムト。毎日朝オーストリアのアッター湖畔の庭園を散歩し、花や自然のフラクタル模様を観察した注意力回復理論（ART）に基づくルーティン、前頭前野リセットの原理および3段階実践ガイドを解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-14"
+updatedDate: "2026-07-14"
 category: "BuildSelf"
-tags: ["青いローブを着て朝の","Routine"]
-heroImage: "/images/blog/klimt_gardening_nature_refresh.png"
+tags: ["위인 습관", "Routine"]
+heroImage: "/images/blog/klimt_gardening_nature_refresh.webp"
 app: "buildself"
 formatVersion: 4
 authority: "グスタフ・クリムト評伝およびアッター湖アーカイブ（Attersee Archive）史料考証＆認知神経科学（Cognitive Neuroscience）および環境心理学（Environmental Psychology）研究"

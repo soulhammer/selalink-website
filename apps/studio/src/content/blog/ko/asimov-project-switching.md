@@ -1,11 +1,11 @@
 ---
 title: "집필이 막히면 타자기를 바꾼다? 아이작 아시모프의 멀티태스킹 전환 루틴"
 description: "500권 이상의 저서를 남긴 SF 거장 아이작 아시모프의 멀티태스킹 전환 루틴. 단일 몰입의 피로를 극복하고 참신성 효과를 얻는 3단계 비결을 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-26"
+updatedDate: "2026-05-26"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/asimov_project_switching.png"
+tags: ["위인 습관", "아이작 아시모프", "집중력", "다중작업", "창의성", "생산성"]
+heroImage: "/images/blog/asimov_project_switching.webp"
 app: "buildself"
 formatVersion: 4
 authority: "아이작 아시모프 자서전 『I, Asimov: A Memoir』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

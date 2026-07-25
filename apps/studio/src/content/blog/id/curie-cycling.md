@@ -1,11 +1,11 @@
 ---
 title: "Rahasia Mengatasi Stres Penelitian Radium: Rutinitas Bersepeda Sore Hari dan Induksi BDNF ala Marie Curie"
 description: "Pelajari bagaimana Marie Curie, wanita pertama yang memenangkan Hadiah Nobel dan satu-satunya orang yang dianugerahi dalam dua bidang sains, melindungi kesehatan mentalnya di tengah stres penelitian radium. Temukan neurosains kognitif dari sekresi BDNF."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-28"
+updatedDate: "2026-02-28"
 category: "BuildSelf"
-tags: ["Rahasia Me","Routine"]
-heroImage: "/images/blog/curie_cycling.png"
+tags: ["위인 습관", "마리 퀴리", "자전거", "휴식", "스트레스"]
+heroImage: "/images/blog/curie_cycling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Biografi Ève Curie *Madame Curie* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

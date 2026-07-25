@@ -4,7 +4,7 @@ description: "17世紀のイギリスの天才科学者ロバート・フック�
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["ロバート・フックの微","Routine"]
+tags: ["위습관","루틴"]
 heroImage: "/images/blog/hooke_microscopic_sketching.png"
 app: "buildself"
 formatVersion: 4

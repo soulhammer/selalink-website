@@ -16,23 +16,23 @@ faqs:
     answer: "Tidak. Tahap lanjut (Tingkat 3 atau 4) memerlukan koreksi bedah. Perawatan rumahan (berat badan sehat, mencegah slip) efektif pada tahap awal (Tingkat 1 atau 2) untuk memperlambat perkembangan."
 ---
 
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+Pomeranian adalah anjing mainan yang sangat populer, dicintai karena bulu ganda mereka yang lembut dan gaya berjalan mereka yang percaya diri. Mereka ekstrovert dan cerdas, tetapi warisan anjing pemburu dapat membuat mereka sensitif terhadap suara dan cenderung menggonggong. 🐕 Pemilik sering menghadapi dua masalah kesehatan utama: Luksasi Patela dan Kolaps Trakea (yang menyebabkan batuk mirip angsa). Kondisi ini dapat memburuk di lantai licin. Hari ini, PetSelf memperkenalkan rutinitas 3 langkah.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Bukti Dokter Hewan & Perilaku
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Konten ini didasarkan pada <strong>Panduan Ras Resmi American Pomeranian Club & Panduan Dokter Hewan AVMA</strong>.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+    🐾 Pomeranian Profil Utama
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Rata-rata Umur</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 16 tahun</span></div>
@@ -43,7 +43,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
 
 ## 1. Bahasa Tubuh Pomeranian: Membedakan Bermain dengan Kecemasan
 
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+Pomeranian sangat ekspresif dan mengubah emosi dengan cepat. Sinyal bahasa tubuh utama meliputi 'posisi mengajak bermain' (play bow) dan 'menjilat bibir'. Saat Pomeranian menurunkan tubuh bagian depan sambil mengangkat pinggul, itu adalah ajakan bermain klasik. Namun, jika mereka menggoyangkan ekor tetapi terus menjilat bibir, itu adalah tanda kecemasan internal.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -77,7 +77,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pagi: Perawatan Lapisan Antiselip dan Pencegahan Lompat</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+    Pastikan keset antiselip diletakkan dengan benar di sekitar furnitur. Latih mereka menggunakan tangga hewan daripada melompat turun.
   </p>
 </div>
 
@@ -87,7 +87,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Siang: Menyikat Bulu Berlawanan Arah dengan Sikat Pin</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+    Gunakan sikat pin untuk menyikat bulu secara lembut dari ekor ke kepala. Ini mencegah kusut dan melancarkan aliran udara ke kulit.
   </p>
 </div>
 
@@ -97,7 +97,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Malam: Pijat Leher dan Pemeriksaan Harness untuk Hindari Ketegangan Trakea</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+    Untuk melindungi trakea mereka yang rapuh, gunakan harness berbentuk Y dan hindari kalung leher. Pijat perlahan sisi leher untuk meredakan ketegangan.
   </p>
 </div>
 
@@ -106,7 +106,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Cukup dengan mengamati sinyal penenang hewan peliharaan Anda, Anda dapat mencegah masalah perilaku utama dan penyakit akibat stres. Meskipun perawatan medis penting, menyediakan lingkungan yang aman (tangga ramah hewan, ruang vertikal, beberapa sumber air) adalah pelindung terkuat untuk mendukung kebahagiaan seumur hidup mereka.
     </p>
   </div>
 </div>
@@ -124,7 +124,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Ini adalah gejala umum kolaps trakea. Jangan panik; peluk Pomeranian Anda, usap tenggorokan mereka dengan lembut, atau tutup lubang hidung mereka selama 1 detik untuk memicu pernapasan hidung.
     </p>
   </details>
 
@@ -134,7 +134,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Tidak. Tahap lanjut (Tingkat 3 atau 4) memerlukan koreksi bedah. Perawatan rumahan (berat badan sehat, mencegah slip) efektif pada tahap awal (Tingkat 1 atau 2) untuk memperlambat perkembangan.
     </p>
   </details>
 </div>

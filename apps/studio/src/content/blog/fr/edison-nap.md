@@ -1,11 +1,11 @@
 ---
 title: "Le génie qui siestait des billes d'acier à la main : La technique de sieste hypnagogique de Thomas Edison et sa routine créative"
 description: "Découvrez la légendaire routine de sieste aux billes d'acier de Thomas Edison pour surmonter les blocages créatifs. Explorez la neuroscience cognitive de l'hypnagogie (phase de sommeil N1) et la capture immédiate d'idées."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-02"
+updatedDate: "2026-04-02"
 category: "BuildSelf"
-tags: ["Le génie q","Routine"]
-heroImage: "/images/blog/edison_nap.png"
+tags: ["위인 습관", "토마스 에디슨", "창의성", "낮잠", "영감"]
+heroImage: "/images/blog/edison_nap.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de la biographie de Paul Israel *Edison: A Life of Invention*, des archives du Thomas Edison National Historical Park & de la Recherche en Neurosciences Cognitives"

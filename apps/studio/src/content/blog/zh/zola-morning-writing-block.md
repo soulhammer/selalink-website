@@ -1,11 +1,11 @@
 ---
 title: "30년간 대작을 완성한 프랑스 거장? 에밀 졸라의 아침 3시간 몰입 루틴"
 description: "대문호 에밀 졸라가 30년 넘게 지켜온 'Nulla dies sine linea' 모토와 매일 아침 3시간 몰입 글쓰기 습관의 과학적 원리와 실천법."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-04"
+updatedDate: "2026-02-04"
 category: "BuildSelf"
-tags: ["30년간 대작을 완","Routine"]
-heroImage: "/images/blog/zola_morning_writing_block.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/zola_morning_writing_block.webp"
 app: "buildself"
 formatVersion: 4
 authority: "에밀 졸라 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

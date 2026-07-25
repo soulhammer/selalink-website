@@ -1,11 +1,11 @@
 ---
 title: "Das Genie, das mit Stahlkugeln in der Hand schief: Thomas Edisons Hypnagogie-Nickerchen-Technik & Halbschlaf-Kreativitätsroutine"
 description: "Entdecken Sie Thomas Edisons legendäre Stahlkugel-Nickerchen-Routine zur Überwindung kreativer Blockaden. Erfahren Sie mehr über die kognitiven Neurowissenschaften der Hypnagogie (N1-Schlafphase) und die sofortige Ideenerfassung."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-02"
+updatedDate: "2026-04-02"
 category: "BuildSelf"
-tags: ["Das Genie,","Routine"]
-heroImage: "/images/blog/edison_nap.png"
+tags: ["위인 습관", "토마스 에디슨", "창의성", "낮잠", "영감"]
+heroImage: "/images/blog/edison_nap.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Paul Israels Biografie *Edison: A Life of Invention*, Archiven des Thomas Edison National Historical Park & Forschung der kognitiven Neurowissenschaften"

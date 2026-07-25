@@ -1,11 +1,11 @@
 ---
 title: "El Pintor de la Batas Azul que Observaba las Rosas Matutinas: La Rutina de Paseo por el Jardín y Fascinación Suave de Gustav Klimt"
 description: "Descubra cómo el maestro del estilo dorado Gustav Klimt restauraba su atención visual paseando por los jardines del lago Attersee en Austria. Explore la Teoría de la Restauración de la Atención (ART), el restablecimiento prefrontal, los fractales naturales y una guía de 3 pasos."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-14"
+updatedDate: "2026-07-14"
 category: "BuildSelf"
-tags: ["El Pintor ","Routine"]
-heroImage: "/images/blog/klimt_gardening_nature_refresh.png"
+tags: ["위인 습관", "Routine"]
+heroImage: "/images/blog/klimt_gardening_nature_refresh.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de las Biografías de Gustav Klimt, Archivos de Attersee e Investigación en Neurociencia Cognitiva y Psicología Ambiental"

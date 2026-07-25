@@ -4,8 +4,8 @@ description: "Johann Sebastian Bach encarnó reglas matemáticas a lo largo de s
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["¿Un Maestr","Routine"]
-heroImage: "/images/blog/bach_pattern_transcription.png"
+tags: ["위인 습관", "바흐", "필사", "손글씨", "학습법"]
+heroImage: "/images/blog/bach_pattern_transcription.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de *Johann Sebastian Bach: Su vida, arte y obras (1802)* de Johann Nikolaus Forkel e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"

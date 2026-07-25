@@ -1,11 +1,11 @@
 ---
 title: "本を声に出して大きく 読んだ大統領：リンカーンの前頭葉活性読書習慣と生産効果（Production Effect）"
 description: "目と耳を同時に使用して記憶力を極大化させたエイブラハム・リンカーン。音読を通じてブローカ野を刺激し、生産効果（Production Effect）および二重表象（Dual Representation）を形成して情報記憶度を向上させた脳科学的原理と5分音読実践法を公開します。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-26"
+updatedDate: "2026-04-26"
 category: "BuildSelf"
-tags: ["本を声に出して大きく","Routine"]
-heroImage: "/images/blog/lincoln_reading_aloud.png"
+tags: ["위인 습관", "링컨", "아침루틴", "독서", "낭독"]
+heroImage: "/images/blog/lincoln_reading_aloud.webp"
 app: "buildself"
 formatVersion: 4
 authority: "デイヴィッド・ドナルド『リンカーン評伝（Lincoln）』およびウィリアム・ハーンダン回顧録史料考証＆認知神経科学（Cognitive Neuroscience）および言語心理学（Psycholinguistics）研究"

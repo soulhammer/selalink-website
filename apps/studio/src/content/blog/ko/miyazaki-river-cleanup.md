@@ -1,11 +1,11 @@
 ---
 title: "지브리 거장의 맑은 아침: 미야자키 하야오의 하천 청소 산책"
 description: "스튜디오 지브리의 미야자키 하야오 감독이 매일 아침 길가의 쓰레기를 주운 숨은 이유. 단순한 산책과 정돈이 어떻게 천재적인 창의성과 사색을 자극하는지 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-24"
+updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/miyazaki_river_cleanup.png"
+tags: ["위인 습관", "미야자키 하야오", "사색", "창의성", "휴식"]
+heroImage: "/images/blog/miyazaki_river_cleanup.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Miyazaki River Cleanup 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

@@ -1,11 +1,11 @@
 ---
 title: "总统办公室的单人纸牌游戏：夏尔·戴高乐的接龙游戏与前额叶决策疲劳消除习惯"
 description: "探索在危机中挽救法国的英雄夏尔·戴高乐在繁重政务之余通过纸牌接龙舒缓身心的习惯，揭示非语言模式匹配如何关闭前额叶决策过滤器（Decision-making filters）与抚平杏仁核过载的神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-28"
+updatedDate: "2026-03-28"
 category: "BuildSelf"
-tags: ["总统办公室的单人纸牌","Routine"]
-heroImage: "/images/blog/degaulle_solitaire_refresh.png"
+tags: ["위인 습관", "샤를 드 골", "솔리테어", "의사결정 피로", "두뇌 이완"]
+heroImage: "/images/blog/degaulle_solitaire_refresh.webp"
 app: "buildself"
 formatVersion: 4
 authority: "夏尔·戴高乐回忆录《战争回忆录（Mémoires de guerre）》考证与认知神经科学（Cognitive Neuroscience）研究"

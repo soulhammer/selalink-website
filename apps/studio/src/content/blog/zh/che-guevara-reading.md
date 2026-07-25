@@ -1,11 +1,11 @@
 ---
 title: "身处丛林战壕也要捧读的理由：切·格瓦拉的沉浸式阅读与认知重构"
 description: "探索古巴革命英雄切·格瓦拉在游击战极度高压的战场环境下依然每天精读重磅大作以淬炼思想的习惯，揭示深度阅读（Deep Reading）如何激活前额叶认知控制网络并隔绝生存压力的神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-09"
+updatedDate: "2026-02-09"
 category: "BuildSelf"
-tags: ["身处丛林战壕也要捧读","Routine"]
-heroImage: "/images/blog/che_guevara_reading.png"
+tags: ["위인 습관", "체게바라", "매일독서", "인지재구조화", "신념단련"]
+heroImage: "/images/blog/che_guevara_reading.webp"
 app: "buildself"
 formatVersion: 4
 authority: "乔恩·李·安德森传记《切·格瓦拉传（Che Guevara: A Revolutionary Life）》考证与认知神经科学（Cognitive Neuroscience）研究"

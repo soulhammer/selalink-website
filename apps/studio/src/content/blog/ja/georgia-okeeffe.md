@@ -1,11 +1,11 @@
 ---
 title: "砂漠の動物の遺骨・骨を拡大鏡で引き寄せて見たジョージア・オキーフの焦点クローズアップ観察と視覚的注意集中ルーティン"
 description: "アメリカ・モダニズム美術の母ジョージア・オキーフ。砂漠の遺骨や枯れた花びらを10倍拡大して観察し、脳の選択的視覚注意集中を極大化した焦点クローズアップルーティンと視覚連合皮質の脳科学的原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-25"
+updatedDate: "2026-02-25"
 category: "BuildSelf"
-tags: ["砂漠の動物の遺骨・骨","Routine"]
-heroImage: "/images/blog/georgia_okeeffe.png"
+tags: ["위인 습관", "조지아 오키프", "이완", "성찰"]
+heroImage: "/images/blog/georgia_okeeffe.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ジョージア・オキーフ自伝『ジョージア・オキーフ（Georgia O'Keeffe）』およびサンタフェ・オキーフ美術館史料考証＆認知神経科学（Cognitive Neuroscience）研究"

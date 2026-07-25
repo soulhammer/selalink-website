@@ -1,11 +1,11 @@
 ---
 title: "Kekuatan Berfokus pada Hal Penting: Kebiasaan Pengambilan Keputusan 4 Kuadran Prioritas Dwight D. Eisenhower"
 description: "Presiden Eisenhower menanggung beban keputusan yang sangat besar selama perang dan pemerintahan negara. Pelajari rahasia manajemen waktunya dalam mengalokasikan energi otak untuk hal-hal penting tanpa tergoyahkan oleh urgensi sepele, dianalisis melalui neurosains kognitif."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["Kekuatan B","Routine"]
-heroImage: "/images/blog/eisenhower_matrix_decision.png"
+tags: ["의사결정", "생산성", "시간 관리"]
+heroImage: "/images/blog/eisenhower_matrix_decision.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Autobiografi Dwight D. Eisenhower *At Ease: Stories I Tell to Friends* & Penelitian Neurosains Kognitif"

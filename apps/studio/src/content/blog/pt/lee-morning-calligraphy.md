@@ -1,11 +1,11 @@
 ---
 title: "Filosofia de Gestão na Ponta do Pincel: O Ritual de Caligrafia Matinal e Ativação do Córtex Motor Primário de Lee Byung-chul"
 description: "Descubra como Lee Byung-chul, fundador da Samsung, aprimorava sua clareza estratégica com seu ritual de caligrafia matinal. Explore a ciência do controle motor fino, a ativação do córtex motor primário, o relaxamento autônomo e um guia de 3 passos."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-25"
+updatedDate: "2026-05-25"
 category: "BuildSelf"
-tags: ["Filosofia ","Routine"]
-heroImage: "/images/blog/lee_morning_calligraphy.png"
+tags: ["위인 습관", "이병철", "집중", "마인드셋", "의지력"]
+heroImage: "/images/blog/lee_morning_calligraphy.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica da Autobiografia de Ho-Am *Ho-Am Jajeon*, Arquivos do Grupo Samsung e Pesquisa em Neurociência Cognitiva e Ciência do Controle Motor"

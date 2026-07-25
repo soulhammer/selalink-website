@@ -1,11 +1,11 @@
 ---
 title: "Der Präsident, der Bücher laut vorlas: Abraham Lincolns präfrontale Leseroutine und der Production Effect"
 description: "Erfahren Sie, wie der 16. US-Präsident Abraham Lincoln sein Gedächtnis durch lautes Lesen maximierte. Entdecken Sie die Neurowissenschaften des Production Effect, der dualen Repräsentation, der Broca-Areal-Stimulation und eine 5-Minuten-Anleitung."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-26"
+updatedDate: "2026-04-26"
 category: "BuildSelf"
-tags: ["Der Präsid","Routine"]
-heroImage: "/images/blog/lincoln_reading_aloud.png"
+tags: ["위인 습관", "링컨", "아침루틴", "독서", "낭독"]
+heroImage: "/images/blog/lincoln_reading_aloud.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus David Herbert Donalds *Lincoln*, William Herndons Memoiren *Herndon's Lincoln* & Forschung der kognitiven Neurowissenschaften und Psycholinguistik"

@@ -1,11 +1,11 @@
 ---
 title: "Painting Her Reflection from a Canopy Bed Mirror: Frida Kahlo's Self-Portrait Routine and Mirror-Gazing Resilience"
 description: "Discover how legendary Mexican painter Frida Kahlo transformed physical agony into art by painting self-portraits using a canopy bed mirror. Explore the clinical psychology of mirror-gazing, self-acceptance, and resilience building."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-07"
+updatedDate: "2026-06-07"
 category: "BuildSelf"
-tags: ["Great Habits","kahlo","Routine","Stamina"]
-heroImage: "/images/blog/kahlo_mirror_painting.png"
+tags: ["위인 습관", "프리다 칼로", "거울 명상", "치유", "회복탄력성"]
+heroImage: "/images/blog/kahlo_mirror_painting.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from *The Diary of Frida Kahlo*, Hayden Herrera's *Frida: A Biography of Frida Kahlo* & Clinical Psychology and Cognitive Neuroscience Research"

@@ -1,11 +1,11 @@
 ---
 title: "Como Domesticar a Musa: A Rotina Diária de Escrita de 2.000 Palavras e Condicionamento de Foco de Stephen King"
 description: "Explore a lendária rotina de escrita de Stephen King, um dos autores mais bem-sucedidos do mundo. Aprenda a neurociência do aprendizado sensoriomotor, gatilhos de condicionamento e um guia de 3 passos para sustentar a produtividade diária."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-18"
+updatedDate: "2026-05-18"
 category: "BuildSelf"
-tags: ["Como Domes","Routine"]
-heroImage: "/images/blog/king_writing_routine.png"
+tags: ["위인 습관", "스티븐 킹", "집필", "루틴", "창의성", "조건형성"]
+heroImage: "/images/blog/king_writing_routine.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica das Memórias de Stephen King *Escrever: A Memória do Ofício (On Writing: A Memoir of the Craft, 2000)*, Arquivos de King e Pesquisa em Neurociência Cognitiva e Psicologia Cognitiva"

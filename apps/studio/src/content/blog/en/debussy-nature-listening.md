@@ -1,11 +1,11 @@
 ---
 title: "The Secret Inspiration Behind 'Clair de Lune': Claude Debussy's Dawn Nature Listening and Pink Noise Alpha-Wave Induction"
 description: "Explore how Impressionist master Claude Debussy listened to forest breezes and water at dawn to craft immortal melodies. Discover the cognitive neuroscience of how natural pink noise transitions brainwaves to alpha waves and boosts intuitive creativity."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-27"
+updatedDate: "2026-03-27"
 category: "BuildSelf"
-tags: ["Great Habits","debussy","Routine","Stamina"]
-heroImage: "/images/blog/debussy_nature_listening.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/debussy_nature_listening.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from François Lesure's Biography *Claude Debussy* & Cognitive Neuroscience Research"

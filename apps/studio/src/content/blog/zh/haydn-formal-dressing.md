@@ -1,11 +1,11 @@
 ---
 title: "在家也穿戴正装创作音乐？：交响乐之父海顿的“着装认知”习惯与专注开关"
 description: "探索作曲家约瑟夫·海顿为何在创作前必先穿戴整齐正装与粉髻假发。揭示服装如何通过“着装认知（Enclothed Cognition）”与具身认知科学大幅提升专注力与生产力。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-04"
+updatedDate: "2026-04-04"
 category: "BuildSelf"
-tags: ["在家也穿戴正装创作音","Routine"]
-heroImage: "/images/blog/haydn_formal_dressing.png"
+tags: ["위인 습관", "생산성"]
+heroImage: "/images/blog/haydn_formal_dressing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "约瑟夫·海顿传记（Dies & Griesinger）与埃斯特哈齐（Esterházy）宫廷档案考证及认知神经科学（Cognitive Neuroscience）研究"

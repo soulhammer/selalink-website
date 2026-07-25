@@ -1,11 +1,11 @@
 ---
 title: "Elon Musk's '5-Minute Time Blocking': Micro-Planning and High-Density Focus Routine"
 description: "Discover how Elon Musk handles 80-100 hour workweeks by fragmenting his schedule into 5-minute micro-blocks. Explore the cognitive neuroscience of time scarcity, Parkinson's Law, and tunneling focus."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-15"
+updatedDate: "2026-06-15"
 category: "BuildSelf"
-tags: ["Great Habits","elon","Routine","Stamina"]
-heroImage: "/images/blog/elon_musk_time_blocking.png"
+tags: ["위인 습관", "일론 머스크", "생산성 향상", "시간 관리", "타임 블로킹"]
+heroImage: "/images/blog/elon_musk_time_blocking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Walter Isaacson's Biography *Elon Musk* & Cognitive Neuroscience Research"

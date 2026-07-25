@@ -16,23 +16,23 @@ faqs:
     answer: "No. Las orejas caídas acumulan humedad y son propensas a ácaros u otitis. Si notas cera oscura o rascado excesivo, requiere atención médica."
 ---
 
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+El Holland Lop es una de las razas de conejos más queridas del mundo por su cara redonda y orejas caídas. Según la House Rabbit Society (HRS), su anatomía de orejas caídas requiere prevención de otitis e inspección constante, mientras que el heno Timothy ilimitado 24/7 es vital para prevenir la estasis gastrointestinal.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+      Evidencia Veterinaria y Comportamental
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+      Este contenido se basa en <strong>House Rabbit Society (HRS) & AEMV Normas de Conejos</strong>.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+    🐾 Conejo Holland Lop (Holland Lop) Perfil principal
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Vida útil media</span><span class="font-bold text-slate-800 dark:text-slate-200">8 - 12 años</span></div>
@@ -43,7 +43,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
 
 ## 1. Comunicación del Holland Lop: El Baile Binky y el Pisotón Trasero
 
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+Los conejos expresan su alegría con el 'Binky' (salto giratorio en el aire). El pisotón fuerte con las patas traseras es una señal de alerta o descontento.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -77,7 +77,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Mañana: Relleno Ilimitado de Heno Timothy y Agua Fresca</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+    Llena el henero con heno Timothy fresco de 1er corte para mantener la motilidad intestinal.
   </p>
 </div>
 
@@ -87,7 +87,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: Inspección de Orejas Caídas y Descanso Diurno</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+    Levanta suavemente las orejas para revisar si hay enrojecimiento o secreciones.
   </p>
 </div>
 
@@ -97,7 +97,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noche: Ejercicio en Túneles y Cepillado de Pelaje</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+    Abre el parque de juegos para ejercicio y cepilla su pelaje para evitar bolas de pelo.
   </p>
 </div>
 
@@ -106,7 +106,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+      El simple hecho de observar las señales de calma de su mascota puede prevenir problemas de comportamiento graves y enfermedades causadas por el estrés. Embora o tratamento veterinário é importante, proporcionar um ambiente seguro (rampas, espaços verticales, múltiples fuentes de agua) es el escudo más fuerte para apoyar su felicidad de por vida.
     </p>
   </div>
 </div>
@@ -124,7 +124,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+      Es Estasis Gastrointestinal (GI Stasis), una urgencia veterinaria vital en 12 horas. Llévalo inmediatamente a un veterinario de animales exóticos.
     </p>
   </details>
 
@@ -134,7 +134,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+      No. Las orejas caídas acumulan humedad y son propensas a ácaros u otitis. Si notas cera oscura o rascado excesivo, requiere atención médica.
     </p>
   </details>
 </div>

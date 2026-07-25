@@ -1,11 +1,11 @@
 ---
 title: "La Física Tejida a Través del Diálogo: El Método de Dictado-Discusión y Escritura Metacognitiva de Niels Bohr"
 description: "Descubra cómo Niels Bohr, gigante de la mecánica cuántica, redactó complejos artículos de física mediante incesantes discusiones orales y dictados con sus colegas, y explore el principio neurocientífico donde la externalización de pensamientos hacia el lenguaje hablado activa la metacognición."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-19"
+updatedDate: "2026-01-19"
 category: "BuildSelf"
-tags: ["La Física ","Routine"]
-heroImage: "/images/blog/bohr_dialogue_dictation.png"
+tags: ["학습", "창의성", "사색"]
+heroImage: "/images/blog/bohr_dialogue_dictation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la Biografía de Abraham Pais *Niels Bohr's Times: In Physics, Philosophy, and Polity* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"

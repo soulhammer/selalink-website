@@ -1,11 +1,11 @@
 ---
 title: "Management Philosophy Preserved at the Brush Tip: Lee Byung-chul's Morning Calligraphy Ritual and Primary Motor Cortex Activation"
 description: "Discover how Lee Byung-chul, founder of Samsung, refined strategic clarity through his daily morning brush calligraphy ritual. Explore fine motor control science, primary motor cortex engagement, autonomic nervous system relaxation, and a 3-step guide."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-25"
+updatedDate: "2026-05-25"
 category: "BuildSelf"
-tags: ["Great Habits","lee","Routine","Stamina"]
-heroImage: "/images/blog/lee_morning_calligraphy.png"
+tags: ["위인 습관", "이병철", "집중", "마인드셋", "의지력"]
+heroImage: "/images/blog/lee_morning_calligraphy.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Ho-Am's Autobiography *Ho-Am Jajeon*, Samsung Group Archives & Cognitive Neuroscience and Motor Control Science Research"

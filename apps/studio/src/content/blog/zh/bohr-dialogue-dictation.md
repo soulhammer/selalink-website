@@ -1,11 +1,11 @@
 ---
 title: "通过对话交织的物理学：尼尔斯·玻尔的口述讨论与元认知写作法"
 description: "探索量子力学大师尼尔斯·玻尔如何通过与同伴的不懈口述讨论与口述听写来完成复杂的物理论文，揭示将内心想法客体化为外部语言以激活元认知的神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-19"
+updatedDate: "2026-01-19"
 category: "BuildSelf"
-tags: ["通过对话交织的物理学","Routine"]
-heroImage: "/images/blog/bohr_dialogue_dictation.png"
+tags: ["학습", "창의성", "사색"]
+heroImage: "/images/blog/bohr_dialogue_dictation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "亚伯拉罕·派斯传记《尼尔斯·玻尔时代的物理、哲学与政治（Niels Bohr's Times）》考证与认知神经科学（Cognitive Neuroscience）研究"

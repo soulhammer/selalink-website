@@ -1,11 +1,11 @@
 ---
 title: "Le génie qui jouait du violon dans les impasses de sa pensée : La routine de réinitialisation et la méthode de bascule cognitive d'Albert Einstein"
 description: "Découvrez comment Albert Einstein, qui a révolutionné la physique, jouait du violon pour réinitialiser son cerveau lors de blocages créatifs, et explorez un guide pratique de bascule cognitive en 3 étapes."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-05"
+updatedDate: "2026-03-05"
 category: "BuildSelf"
-tags: ["Le génie q","Routine"]
-heroImage: "/images/blog/einstein_violin_thinking.png"
+tags: ["위인 습관", "알베르트 아인슈타인", "창의성", "휴식", "아이디어"]
+heroImage: "/images/blog/einstein_violin_thinking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue du recueil d'essais d'Albert Einstein *Out of My Later Years*, de la biographie de Walter Isaacson *Einstein : Sa vie et son univers* & de la Recherche en Neurosciences Cognitives"

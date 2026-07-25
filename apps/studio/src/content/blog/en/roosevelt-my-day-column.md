@@ -1,11 +1,11 @@
 ---
 title: "흔들리지 않는 자아를 세우는 기록력? 엘리너 루스벨트의 매일 저녁 성찰 쓰기"
 description: "미국의 가장 영향력 있는 여성이자 퍼스트 레이디인 엘리너 루스벨트. 27년간 매일 저녁 그날의 삶을 기고하며 자아를 정립한 저널링 루틴과 메타인지 효과를 밝힙니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-18"
+updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: ["Great Habits","roosevelt","Routine","Stamina"]
-heroImage: "/images/blog/roosevelt_my_day_column.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/roosevelt_my_day_column.webp"
 app: "buildself"
 formatVersion: 4
 authority: "엘리너 루스벨트 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

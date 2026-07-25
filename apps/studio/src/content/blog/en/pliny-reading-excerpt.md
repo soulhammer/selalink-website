@@ -1,11 +1,11 @@
 ---
 title: "대 플리니우스의 끊임없는 필기법: 손글씨로 뇌를 깨우고 기억을 소유하는 법"
 description: "로마의 석학 대 플리니우스가 밥 먹고 이동하는 순간조차 비서에게 책을 읽히고 메모하며 방대한 지식을 집대성한 필기 비결을 공유합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-12"
+updatedDate: "2026-05-12"
 category: "BuildSelf"
-tags: ["Great Habits","pliny","Routine","Stamina"]
-heroImage: "/images/blog/pliny_reading_excerpt.png"
+tags: ["독서", "필기", "메모", "고대"]
+heroImage: "/images/blog/pliny_reading_excerpt.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Pliny Reading Excerpt 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

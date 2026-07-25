@@ -1,11 +1,11 @@
 ---
 title: "刹那のインスピレーションを捕獲する狩猟法：ブルース・リーのポケット手帳密着記録ルーティン"
 description: "20世紀の武道家でありアクションスターのブルース・リー（李小龍）。手の届くポケットごとにポケット手帳を携帯し、哲学的なインスピレーションや武芸の構想をリアルタイムで捕獲した記録哲学と網様体不活系（RAS）刺激の認知メカニズムを解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-06"
+updatedDate: "2026-04-06"
 category: "BuildSelf"
-tags: ["刹那のインスピレーシ","Routine"]
-heroImage: "/images/blog/brucelee_pocket_notebook.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/brucelee_pocket_notebook.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ジョン・リトル伝記『Bruce Lee: Artist of Life』考証＆認知神経科学（Cognitive Neuroscience）研究"

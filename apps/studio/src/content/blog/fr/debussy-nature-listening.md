@@ -1,11 +1,11 @@
 ---
 title: "Le secret d'inspiration de « Clair de Lune » : L'écoute des sons de la nature à l'aube et l'induction d'ondes alpha de Claude Debussy"
 description: "Découvrez comment le maître impressionniste Claude Debussy écoutait la brise et l'eau à l'aube pour composer des mélodies immortelles. Explorez la neuroscience cognitive montrant comment le bruit rose naturel induit des ondes alpha."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-27"
+updatedDate: "2026-03-27"
 category: "BuildSelf"
-tags: ["Le secret ","Routine"]
-heroImage: "/images/blog/debussy_nature_listening.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/debussy_nature_listening.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de la biographie de François Lesure *Claude Debussy* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

@@ -1,11 +1,11 @@
 ---
 title: "Memainkan Satu Tuts per Detik Tanpa Kesalahan dengan Memperlambat Tempo: Rutinitas Pembelajaran Serebelum dan Mielinisasi Franz Liszt"
 description: "Pelajari bagaimana pianis legendaris Franz Liszt menguasai presisi tingkat tinggi dengan memperlambat tempo metronom menjadi satu tuts per detik. Temukan neurosains dari pembelajaran motorik serebelum, mielinisasi, dan panduan 3 langkah."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-14"
+updatedDate: "2026-04-14"
 category: "BuildSelf"
-tags: ["Memainkan ","Routine"]
-heroImage: "/images/blog/liszt.png"
+tags: ["위인 습관", "프란츠 리스트", "의지력", "시간 관리"]
+heroImage: "/images/blog/liszt.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Biografi Alan Walker *Franz Liszt: The Virtuoso Years*, Arsip Liszt & Penelitian Neurosains Kognitif serta Sains Pembelajaran Motorik"

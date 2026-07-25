@@ -1,11 +1,11 @@
 ---
 title: "Tending Soil and Pulling Weeds in a Rural Garden: Hermann Hesse's Nature Contemplation Method and DMN Relaxation Routine"
 description: "Explore how Nobel laureate and nature-loving pacifist writer Hermann Hesse managed nervous exhaustion and deep anxiety by touching garden soil and pruning branches daily. Examine the neuroscience of his analog gardener routine."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-16"
+updatedDate: "2026-02-16"
 category: "BuildSelf"
-tags: ["Great Habits","hesse","Routine","Stamina"]
-heroImage: "/images/blog/hesse.png"
+tags: ["위인 습관", "헤르만 헤세", "휴식", "성찰"]
+heroImage: "/images/blog/hesse.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Hermann Hesse's Essay *Joy of Gardening (Freude am Garten)* & Collected Letters, along with Cognitive Neuroscience and Environmental Psychology Research"

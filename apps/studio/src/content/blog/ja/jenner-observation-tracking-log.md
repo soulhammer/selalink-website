@@ -1,11 +1,11 @@
 ---
 title: "天然痘を征服したワクチンの父：エドワード・ジェンナーの現場観察記録ルーティンとグリット（Grit）の脳科学"
 description: "人類を感染症から救った医師エドワード・ジェンナーが、毎日村の農家を直接訪問し牛痘の観察記録を数年間蓄積してワクチンを発明した科学的習慣。過程中心のドパミン報酬回路再編と前頭前野グリット（Grit）活性化の脳科学を探求します。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-14"
+updatedDate: "2026-07-14"
 category: "BuildSelf"
-tags: ["天然痘を征服したワク","Routine"]
-heroImage: "/images/blog/jenner_observation_tracking_log.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/jenner_observation_tracking_log.webp"
 app: "buildself"
 formatVersion: 4
 authority: "エドワード・ジェンナー論文『牛痘の causal と効果に関する研究（An Inquiry into the Causes and Effects of the Variolae Vaccinae, 1798）』および王立協会史料考証＆認知神経科学（Cognitive Neuroscience）および医学史（History of Medicine）研究"

@@ -1,11 +1,11 @@
 ---
 title: "Intellectual Solidarity in a Modest Garden: Epicurus's Conversation and Frugal Dining Routine for Mental Tranquility"
 description: "Discover how Epicurus built 'The Garden' outside Athens to share frugal meals and deep reflection with trusted friends. Explore the neuroscience of psychological safety, oxytocin, and dopamine regulation that induce profound tranquility."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-20"
+updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: ["Great Habits","epicurus","Routine","Stamina"]
-heroImage: "/images/blog/epicurus_garden_conversation.png"
+tags: ["휴식", "안정", "사색"]
+heroImage: "/images/blog/epicurus_garden_conversation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Diogenes Laertius's *Lives and Opinions of Eminent Philosophers*, Epicurus's Letters & Cognitive Neuroscience Research"

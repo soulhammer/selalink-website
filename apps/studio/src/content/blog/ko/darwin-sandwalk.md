@@ -1,11 +1,11 @@
 ---
 title: "걷기로 완성한 진화론: 찰스 다윈의 '샌드워크' 산책 습관과 인지적 부화"
 description: "위대한 생물학자 찰스 다윈이 자갈길을 걸으며 돌멩이로 바퀴 수를 세어 복잡한 이론을 정리했던 '샌드워크' 산책 루틴. 디폴트 모드 네트워크(DMN) 활성화와 인지적 부화(Cognitive Incubation)의 인지신경과학적 원리를 밝힙니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-14"
+updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/darwin_sandwalk.png"
+tags: ["위인 습관", "찰스 다윈", "걷기", "사색", "아이디어"]
+heroImage: "/images/blog/darwin_sandwalk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "찰스 다윈 자서전 『찰스 다윈 자서전(The Autobiography of Charles Darwin)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

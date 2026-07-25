@@ -1,11 +1,11 @@
 ---
 title: "建国のストレスを空ける汗の滴：リー・クアンユーの運動後瞑想と自律神経系恒常性の復元"
 description: "シンガポール建国の英雄リー・クアンユー首相。毎日退勤後30分トレッドミルを走った直後、20分間の呼吸瞑想を通じて決定を整え脳を回復させた自律神経系スイッチングの原理、コルチゾール消去および3段階実践ガイドを解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-05"
+updatedDate: "2026-04-05"
 category: "BuildSelf"
-tags: ["建国のストレスを空け","Routine"]
-heroImage: "/images/blog/lee_kuanyew_treadmill.png"
+tags: ["위인 습관", "리콴유", "유산소운동", "호흡명상", "자율신경계"]
+heroImage: "/images/blog/lee_kuanyew_treadmill.webp"
 app: "buildself"
 formatVersion: 4
 authority: "リー・クアンユー自伝『リー・クアンユー回顧録（The Singapore Story）』史料考証＆認知神経科学（Cognitive Neuroscience）および運動生理学（Exercise Physiology）研究"

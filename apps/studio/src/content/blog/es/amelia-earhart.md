@@ -1,11 +1,11 @@
 ---
 title: "Entrenamiento de Control Cognitivo de Earhart: Inmersa en las Lecturas de Instrumentos Incluso en la Cabina en Medio de la Tormenta"
 description: "La primera aviadora en cruzar en solitario el Atlántico con éxito; calmaba la ansiedad de vuelo recopilando con precisión los datos meteorológicos y las variaciones del viento cada mañana."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-31"
+updatedDate: "2026-01-31"
 category: "BuildSelf"
-tags: ["Entrenamie","Routine"]
-heroImage: "/images/blog/amelia_earhart.png"
+tags: ["위인 습관", "어밀리아 이어하트", "분석", "시간 관리"]
+heroImage: "/images/blog/amelia_earhart.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la Autobiografía de Amelia Earhart *The Fun of It* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"

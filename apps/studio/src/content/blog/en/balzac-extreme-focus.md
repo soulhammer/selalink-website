@@ -1,11 +1,11 @@
 ---
 title: "Midnight Awakening: Honoré de Balzac's 12-Hour Hyperfocus Writing Method with Coffee"
 description: "Explore the late-night writing and coffee arousal routine practiced by Honoré de Balzac, master of 19th-century French realism, and uncover the neuroscientific mechanism of hyperfocus that cuts off external stimuli and elevates brain focus to the extreme."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-14"
+updatedDate: "2026-02-14"
 category: "BuildSelf"
-tags: ["Great Habits","balzac","Routine","Stamina"]
-heroImage: "/images/blog/balzac_extreme_focus.png"
+tags: ["위인 습관", "오노레 드 발자크", "초몰입", "집중력", "시간관리"]
+heroImage: "/images/blog/balzac_extreme_focus.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Stefan Zweig's Biography *Balzac* & Cognitive Neuroscience Research"

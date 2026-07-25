@@ -1,11 +1,11 @@
 ---
 title: "孤独沉思的解毒剂：大卫·休谟的晚间社交与西洋双陆棋复位习惯"
 description: "深度剖析现代认知科学先驱大卫·休谟如何在白天进行严苛思考后，于晚间通过与友人共进晚餐、下西洋双陆棋与国际象棋来消除理性抑郁。揭示催产素、血清素与防止前额叶认知过载的神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-18"
+updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: ["孤独沉思的解毒剂：大","Routine"]
-heroImage: "/images/blog/hume_social_refresh.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/hume_social_refresh.webp"
 app: "buildself"
 formatVersion: 4
 authority: "大卫·休谟著作集《人性论（A Treatise of Human Nature, 1739）》与自传《我的生平（My Own Life）》史料考证及认知神经科学（Cognitive Neuroscience）研究"

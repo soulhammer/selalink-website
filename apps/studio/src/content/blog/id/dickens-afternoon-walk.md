@@ -1,11 +1,11 @@
 ---
 title: "Novelis yang Berjalan Cepat 3 Jam Setiap Sore: Rutinitas Ide dan Aktivasi DMN ala Charles Dickens"
 description: "Pelajari bagaimana raksasa sastra Charles Dickens merancang karakter dan plot yang rumit melalui jalan cepat 3 jam setiap hari. Temukan neurosains kognitif tentang aktivasi Default Mode Network (DMN) dan sekresi BDNF."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-23"
+updatedDate: "2026-05-23"
 category: "BuildSelf"
-tags: ["Novelis ya","Routine"]
-heroImage: "/images/blog/dickens_afternoon_walk.png"
+tags: ["위인 습관", "찰스 디킨스", "산책", "창의성", "아이디어"]
+heroImage: "/images/blog/dickens_afternoon_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Biografi John Forster *The Life of Charles Dickens* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

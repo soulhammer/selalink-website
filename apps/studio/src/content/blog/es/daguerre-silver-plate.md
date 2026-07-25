@@ -4,7 +4,7 @@ description: "Descubra cómo el inventor francés del siglo XIX Louis Daguerre c
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["El Método ","Routine"]
+tags: ["위습관","루틴"]
 heroImage: "/images/blog/daguerre_silver_plate.png"
 app: "buildself"
 formatVersion: 4

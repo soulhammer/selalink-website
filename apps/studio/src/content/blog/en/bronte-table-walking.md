@@ -1,11 +1,11 @@
 ---
 title: "Sisters Circling the Night Dining Table: Charlotte Brontë's Walking Discussion and Mirror Neuron Creation Method"
 description: "Explore the routine of Charlotte Brontë, author of 'Jane Eyre', who circled the dining table with her sisters every night to critique character and plot, and discover the neuroscientific mechanisms combining walking with the mirror neuron system to prevent tunnel vision."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-14"
+updatedDate: "2026-05-14"
 category: "BuildSelf"
-tags: ["Great Habits","bronte","Routine","Stamina"]
-heroImage: "/images/blog/bronte_table_walking.png"
+tags: ["위인 습관", "샬롯브론테", "보행토론", "창의성걷기", "협업창작"]
+heroImage: "/images/blog/bronte_table_walking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Elizabeth Gaskell's Biography *The Life of Charlotte Brontë* & Cognitive Neuroscience Research"

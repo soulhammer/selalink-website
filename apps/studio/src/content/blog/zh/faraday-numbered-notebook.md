@@ -1,11 +1,11 @@
 ---
 title: "16,000个序号：迈克尔·法拉第的精密笔记整理法与知识外置习惯"
 description: "深度剖析物理学家迈克尔·法拉第终身编排超16,000个序号记录实验的习惯。揭示彻底将知识外置如何减轻大脑认知负荷、保护工作记忆与提升专注力的神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-24"
+updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: ["16,000个序号：","Routine"]
-heroImage: "/images/blog/faraday_numbered_notebook.png"
+tags: ["위인 습관", "마이클 패러데이", "기록", "생산성", "논리력"]
+heroImage: "/images/blog/faraday_numbered_notebook.webp"
 app: "buildself"
 formatVersion: 4
 authority: "迈克尔·法拉第实验日志《法拉第日记（Michael Faraday's Diary, ed. Thomas Martin / Frank A.J.L. James）》考证及认知神经科学（Cognitive Neuroscience）研究"

@@ -1,11 +1,11 @@
 ---
 title: "Peindre son reflet dans le miroir du baldaquin : La routine d'autoportrait de Frida Kahlo et la résilience du miroir"
 description: "Découvrez comment la célèbre peintre mexicaine Frida Kahlo a transformé la souffrance en art en peignant des autoportraits au miroir du baldaquin. Explorez la psychologie clinique de l'observation au miroir et la résilience."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-07"
+updatedDate: "2026-06-07"
 category: "BuildSelf"
-tags: ["Peindre so","Routine"]
-heroImage: "/images/blog/kahlo_mirror_painting.png"
+tags: ["위인 습관", "프리다 칼로", "거울 명상", "치유", "회복탄력성"]
+heroImage: "/images/blog/kahlo_mirror_painting.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue du *Journal de Frida Kahlo*, de la biographie de Hayden Herrera & de la Recherche en Psychologie Clinique et Neurosciences Cognitives"

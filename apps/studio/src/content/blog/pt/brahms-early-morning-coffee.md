@@ -1,11 +1,11 @@
 ---
 title: "Harmonia do Café das 5h e da Caminhada Matinal: A Potente Rotina de Estimulação Matinal de Johannes Brahms"
 description: "Descubra como o mestre clássico alemão Johannes Brahms preparava café preto às 5h todas as manhãs e caminhava a passos largos por caminhos florestais, e explore o mecanismo neurocientífico da secreção de BDNF e do aprimoramento da memória de trabalho quando a cafeína se combina com o exercício aeróbico."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-13"
+updatedDate: "2026-06-13"
 category: "BuildSelf"
-tags: ["Harmonia d","Routine"]
-heroImage: "/images/blog/brahms_early_morning_coffee.png"
+tags: ["새벽 5시 커피와 ","Routine"]
+heroImage: "/images/blog/brahms_early_morning_coffee.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica da Biografia de Max Kalbeck *Johannes Brahms* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)"

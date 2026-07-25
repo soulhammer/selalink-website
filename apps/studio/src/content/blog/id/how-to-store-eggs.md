@@ -22,16 +22,17 @@ faqs:
   - question: "Why store eggs with the pointed end down?"
     answer: "The blunt (rounded) end contains the air cell (air pocket). Keeping this end pointing up prevents the yolk from touching the air cell and spoiling."
 ---
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+
+Apakah Anda mencuci telur segar lalu menyimpannya di rak pintu kulkas? Cara ini dapat merusak kesegaran telur dan memicu kontaminasi silang. Hari ini, FreshSnap membagikan panduan penyimpanan telur.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Otoritas Ilmiah Terverifikasi
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Panduan penyimpanan ini didasarkan pada pedoman keselamatan resmi dari: <strong>MFDS & USDA & FDA</strong>.
     </p>
   </div>
 </div>
@@ -40,7 +41,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
 
 ## 1. Mengapa disimpan seperti ini? Fakta ilmiah
 
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpanan yang benar sangat penting untuk menjaga kesegaran dan kebersihan.
 
 ---
 
@@ -52,7 +53,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Jangan mencuci telur sebelum disimpan — Penyimpanan Dingin (45Hari) 💧</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+    Cangkang telur memiliki ribuan pori-pori mikroskopis untuk bernapas. Mencucinya akan mengikis lapisan pelindung alami (kutikula) pada cangkang, memudahkan bakteri masuk. Cukup lap kotoran dengan kain kering.
   </p>
 </div>
 
@@ -62,7 +63,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Simpan dengan bagian runcing menghadap ke bawah — Menjaga posisi kantong udara 🥚</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+    Bagian tumpul telur memiliki kantong udara (air cell). Jika bagian tumpul berada di bawah, kuning telur akan mudah menempel pada membran cangkang dan membusuk. Pastikan bagian bulat berada di atas agar telur tetap segar.
   </p>
 </div>
 
@@ -72,7 +73,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Taruh di rak kulkas bagian dalam — Menghindari perubahan suhu ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+    Rak pintu kulkas mengalami perubahan suhu yang ekstrem setiap kali dibuka dan ditutup, yang dapat mengencerkan putih telur. Simpan telur di rak bagian dalam kulkas demi suhu yang stabil.
   </p>
 </div>
 
@@ -85,7 +86,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
   <div>
     <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Jangan pernah mencuci telur sebelum disimpan</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Mencuci telur akan mengikis lapisan pelindung alami (kutikula) pada cangkang, memudahkan bakteri (seperti Salmonella) masuk ke dalam.
     </p>
   </div>
 </div>
@@ -95,7 +96,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
   <div>
     <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Simpan telur dengan bagian tumpul menghadap ke atas</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Bagian tumpul memiliki kantong udara (air cell). Menyimpannya menghadap ke atas mencegah kuning telur bersentuhan dengan kantong udara.
     </p>
   </div>
 </div>
@@ -110,7 +111,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Washing strips away the natural protective cuticle coating. This allows Salmonella and other external bacteria to penetrate the porous eggshell.
     </p>
   </details>
 
@@ -120,7 +121,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      The blunt (rounded) end contains the air cell (air pocket). Keeping this end pointing up prevents the yolk from touching the air cell and spoiling.
     </p>
   </details>
 </div>

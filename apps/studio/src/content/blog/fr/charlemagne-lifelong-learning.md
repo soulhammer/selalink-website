@@ -1,11 +1,11 @@
 ---
 title: "La tablette d'écriture au chevet : La routine de consolidation de la mémoire pendant le sommeil de Charlemagne"
 description: "Découvrez comment Charlemagne, fondateur de l'Europe occidentale, gardait des tablettes de cire à son chevet pour maîtriser l'écriture, et explorez la neuroscience cognitive maximisant la consolidation de la mémoire à long terme pendant le sommeil à ondes lentes."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-20"
+updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: ["La tablett","Routine"]
-heroImage: "/images/blog/charlemagne_lifelong_learning.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/charlemagne_lifelong_learning.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de la biographie d'Éginhard *Vita Karoli Magni (Vie de Charlemagne)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

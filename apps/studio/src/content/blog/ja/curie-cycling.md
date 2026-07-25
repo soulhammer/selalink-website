@@ -1,11 +1,11 @@
 ---
 title: "ラジウム研究のストレスを克服した秘訣：マリー・キュリーの夕方自転車ライディングとBDNF誘導法"
 description: "女性初のノーベル賞受賞者であり物理学・化学分野で同時に受賞したマリー・キュリー。極度の疲労とラジウム研究のストレスの中でも頭脳を守った夕方の自転車ライディングルーティン。BDNF分泌促進と前頭葉への酸素供給の認知神経科学的原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-28"
+updatedDate: "2026-02-28"
 category: "BuildSelf"
-tags: ["ラジウム研究のストレ","Routine"]
-heroImage: "/images/blog/curie_cycling.png"
+tags: ["위인 습관", "마리 퀴리", "자전거", "휴식", "스트레스"]
+heroImage: "/images/blog/curie_cycling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "エーヴ・キュリー伝記『Madame Curie』考証＆認知神経科学（Cognitive Neuroscience）研究"

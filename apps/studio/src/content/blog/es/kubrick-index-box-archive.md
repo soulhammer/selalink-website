@@ -1,11 +1,11 @@
 ---
 title: "Diseñar la Perfección con un Segundo Cerebro: El Hábito de Archivo con Fichas y Descarga Cognitiva de Stanley Kubrick"
 description: "Descubra cómo el director Stanley Kubrick creó obras maestras reduciendo la carga de la memoria de trabajo mediante un archivo de fichas. Explore la descarga cognitiva, el chunking, la optimización prefrontal y un marco de 3 pasos."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-18"
+updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: ["Diseñar la","Routine"]
-heroImage: "/images/blog/kubrick_index_box_archive.png"
+tags: ["글쓰기", "창의성", "기록"]
+heroImage: "/images/blog/kubrick_index_box_archive.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de *The Stanley Kubrick Archives* (Alison Castle), Archivos de Kubrick e Investigación en Neurociencia Cognitiva y Psicología Cognitiva"

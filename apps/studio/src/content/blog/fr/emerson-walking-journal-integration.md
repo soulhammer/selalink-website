@@ -1,11 +1,11 @@
 ---
 title: "Le duo de divergence et de convergence : Les notes de promenade et la routine de journal nocturne de Ralph Waldo Emerson"
 description: "Découvrez comment le philosophe américain Ralph Waldo Emerson a transformé des étincelles fugaces en un système philosophique organique en combinant notes de promenade (pensée divergente) et journal nocturne (pensée convergente)."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-02"
+updatedDate: "2026-06-02"
 category: "BuildSelf"
-tags: ["Le duo de ","Routine"]
-heroImage: "/images/blog/emerson_walking_journal_integration.png"
+tags: ["사색", "휴식", "기록"]
+heroImage: "/images/blog/emerson_walking_journal_integration.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de l'ouvrage *The Journals of Ralph Waldo Emerson* & Recherche en Neurosciences Cognitives"

@@ -1,11 +1,11 @@
 ---
 title: "엘리자베스 1세의 '고전 번역': 통치자의 논리적 뇌를 벼려낸 아침 습관"
 description: "매일 아침 라틴어 고전을 영어로 번역하며 강인한 이성과 논리력을 길렀던 엘리자베스 1세 여왕. 고차원적 인지 능력을 활성화하는 번역 루틴의 과학을 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-09"
+updatedDate: "2026-01-09"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/elizabeth_classical_translation.png"
+tags: ["위인 습관", "엘리자베스 1세", "두뇌 훈련", "번역 습관", "아침 루틴"]
+heroImage: "/images/blog/elizabeth_classical_translation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "엘리자베스 1세 번역 저작집 『Elizabeth I: Translations(Janel Mueller & Joshua Scodel)』 및 역사 평전 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

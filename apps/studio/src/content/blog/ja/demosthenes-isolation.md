@@ -1,11 +1,11 @@
 ---
 title: "頭の半分を剃り上げた雄弁家：デモステネスの極限環境統制と強制履行装置ルーティン"
 description: "先天的身体的限界を克服し古代ギリシャ最高の雄弁家となったデモステネス。誘惑を遮断するため自ら頭の半分を剃り上げ洞窟に入ったルーティン。強制履行装置（Hard Commitment Device）が前頭前野皮質の執行機能を保護する認知神経科学的原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-28"
+updatedDate: "2026-01-28"
 category: "BuildSelf"
-tags: ["頭の半分を剃り上げた","Routine"]
-heroImage: "/images/blog/demosthenes_isolation.png"
+tags: ["위인 습관", "데모스테네스", "몰입", "환경통제", "의지력"]
+heroImage: "/images/blog/demosthenes_isolation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "プルタルコス伝記『Parallel Lives（デモステネス篇）』考証＆認知神経科学（Cognitive Neuroscience）研究"

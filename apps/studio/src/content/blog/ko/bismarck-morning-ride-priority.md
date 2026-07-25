@@ -1,11 +1,11 @@
 ---
 title: "의사결정 과부하를 깨는 아침 승마: 비스마르크의 유산소 각성과 TOP 3 우선순위 루틴"
 description: "독일 통일을 이끈 '철혈재상' 오토 폰 비스마르크의 아침 승마와 TOP 3 우선순위 추출법. 아침 유산소 운동으로 뇌 혈류를 끌어올리고 전전두엽을 각성시켜 의사결정 과부하를 방지하는 신경과학적 원리를 밝힙니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-16"
+updatedDate: "2026-03-16"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/bismarck_morning_ride_priority.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/bismarck_morning_ride_priority.webp"
 app: "buildself"
 formatVersion: 4
 authority: "비스마르크 자서전 『회상과 회고(Gedanken und Erinnerungen)』 & A.J.P. 테일러 평전 『비스마르크(Bismarck: The Man and the Statesman)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

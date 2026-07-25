@@ -15,23 +15,28 @@ faqs:
   - question: "Pourquoi ne faut-il pas utiliser de cotons-tiges pour nettoyer ses oreilles ?"
     answer: "Le conduit auditif d'une oreille pliée est étroit et coudé. Les cotons-tiges repoussent le cérumen au fond et irritent la peau, favorisant les infections bactériennes."
 ---
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+
+Le Scottish Fold séduit par ses oreilles pliées et ses grands yeux ronds. Il possède un tempérament doux et calme, appréciant la compagnie paisible de son maître. 🐈
+
+Cependant, le gène de ses oreilles pliées est lié à une maladie génétique grave appelée Ostéochondrodysplasie (dégénérescence du cartilage). Elle provoque un raidissement du cartilage articulaire, entraînant des douleurs chroniques. De plus, la forme pliée de l'oreille empêche l'aération de l'oreille, favorisant les otites.
+
+Aujourd'hui, PetSelf décode les signaux de douleur du Scottish Fold et présente une routine de soins en 3 étapes pour ses articulations et ses oreilles.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+      Preuves Vétérinaires et Comportementales
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+      Ce contenu est basé sur <strong>Protocole sur le cartilage héréditaire de l'ISFM (International Society of Feline Medicine) et directives de la GCCF</strong>.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+    🐾 Scottish Fold Profil principal
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Espérance de vie</span><span class="font-bold text-slate-800 dark:text-slate-200">11 ~ 15 ans</span></div>
@@ -42,7 +47,7 @@ Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d
 
 ## 1. Langage corporel du Fold : Position du Bouddha et queue basse
 
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+Le Scottish Fold utilise des postures uniques pour gérer la douleur articulaire. Les signaux clés incluent la position du Bouddha et la queue basse. S'asseoir avec les pattes étirées (position du Bouddha) est une façon de soulager la pression du poids. Cacher sa queue entre ses pattes indique une douleur. Évitez de toucher son bassin.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -76,7 +81,7 @@ Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Matin : Analyse de la démarche et suppléments pour le cartilage</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+    Observez sa démarche pendant 30 secondes au réveil. Administrez des suppléments pour les articulations (glucosamine, MSM) avec son repas.
   </p>
 </div>
 
@@ -86,7 +91,7 @@ Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Après-midi : Inspection du conduit auditif et nettoyage hebdomadaire</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+    Les oreilles pliées retiennent l'humidité. N'utilisez pas de cotons-tiges. Appliquez un nettoyant auriculaire, massez et essuyez l'extérieur.
   </p>
 </div>
 
@@ -96,7 +101,7 @@ Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Soir : Tapis amortisseurs sous le griffoir et contrôle des sauts</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+    Sauter provoque de vives douleurs au cartilage. Placez des tapis amortisseurs et jouez au sol pour éviter les sauts ou les torsions.
   </p>
 </div>
 
@@ -105,7 +110,7 @@ Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+      Le simple fait d'observer les signaux d'apaisement de votre animal peut prévenir des problèmes de comportement majeurs et des maladies liées au stress. Bien que le traitement vétérinaire soit important, fournir un environnement sûr (rampes, espaces verticaux, sources d'eau multiples) est le bouclier le plus solide pour soutenir son bonheur tout au long de sa vie.
     </p>
   </div>
 </div>
@@ -123,7 +128,7 @@ Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+      Oui. S'asseoir sur le bassin avec les pattes tendues est une posture instinctive pour répartir son poids, soulageant la pression et la douleur sur les articulations raides.
     </p>
   </details>
 
@@ -133,7 +138,7 @@ Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+      Le conduit auditif d'une oreille pliée est étroit et coudé. Les cotons-tiges repoussent le cérumen au fond et irritent la peau, favorisant les infections bactériennes.
     </p>
   </details>
 </div>

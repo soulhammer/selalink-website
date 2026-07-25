@@ -1,11 +1,11 @@
 ---
 title: "뇌의 인지 리셋: 막스 플랑크의 피아노 즉흥 연주 습관"
 description: "물리학 연구 후 피아노 건반을 마음대로 두드리며 즉흥 연주로 기분을 전환했던 막스 플랑크. 예술적 활성화가 논리 영역의 피로를 씻어내는 '교차 인지 리프레시' 원리를 연구합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-01"
+updatedDate: "2026-04-01"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/planck_piano_refresh.png"
+tags: ["이완", "사색", "휴식"]
+heroImage: "/images/blog/planck_piano_refresh.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Planck Piano Refresh 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

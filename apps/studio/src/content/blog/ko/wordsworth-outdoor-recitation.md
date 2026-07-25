@@ -1,11 +1,11 @@
 ---
 title: "산길을 걸으며 큰 소리로 시를 외친 시인? 윌리엄 워즈워스의 보행 작시법"
 description: "낭만주의 시인 윌리엄 워즈워스는 야외를 걸으며 발걸음 속도에 문장의 호흡을 맞춰 시를 완성했습니다. 리듬 운동과 소뇌 활성화가 언어 감각을 깨우는 과학적 원리를 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-06"
+updatedDate: "2026-02-06"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/wordsworth_outdoor_recitation.png"
+tags: ["산길을 걸으며 큰 ","Routine"]
+heroImage: "/images/blog/wordsworth_outdoor_recitation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "윌리엄 워즈워스 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

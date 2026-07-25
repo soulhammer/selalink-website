@@ -1,11 +1,11 @@
 ---
 title: "Große Inspiration auf der Rückseite eines Umschlags: Emily Dickinsons Gewohnheit des Notierens auf Papierfetzen und Inkubations-Entspannung"
 description: "Erkunden Sie, wie das amerikanische Poesie-Genie Emily Dickinson spontan Gedichte auf Quittungen und Papierfetzen kritzelte, während sie Brot backte. Entdecken Sie die kognitiven Neurowissenschaften der DMN-Aktivierung und des Inkubationseffekts."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-02"
+updatedDate: "2026-05-02"
 category: "BuildSelf"
-tags: ["Große Insp","Routine"]
-heroImage: "/images/blog/dickinson_scrap_writing.png"
+tags: ["위인 습관", "에밀리디킨슨", "영수증시", "즉흥기록", "창의성"]
+heroImage: "/images/blog/dickinson_scrap_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Richard B. Sewalls Biografie *Das Leben der Emily Dickinson (The Life of Emily Dickinson)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

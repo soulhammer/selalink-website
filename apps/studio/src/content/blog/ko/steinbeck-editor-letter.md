@@ -1,11 +1,11 @@
 ---
 title: "시작의 두려움 없애기: 스타인벡의 예열 편지 루틴"
 description: "소설 집필 시작의 막연한 저항감을 해소하기 위해 매일 편집자에게 편지를 썼던 소설가 존 스타인벡. 가벼운 자유 글쓰기가 뇌의 언어 운동 피질을 활성화하고 지연 행동을 극복하게 해주는 원리를 연구합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/steinbeck_editor_letter.png"
+tags: ["위인 습관", "존 스타인벡", "리프레시", "창의성", "생산성"]
+heroImage: "/images/blog/steinbeck_editor_letter.webp"
 app: "buildself"
 formatVersion: 4
 authority: "John Steinbeck, *Journal of a Novel: The East of Eden Letters* (1969) & *Cognitive Psychology Journal*"

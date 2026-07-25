@@ -1,11 +1,11 @@
 ---
 title: "Environmental Blocking for Focus: Maya Angelou's Hotel Isolation Routine"
 description: "Legendary poet and activist Maya Angelou wrote exclusively in featureless hotel rooms to maximize concentration. Explore the neuroscientific principles of environmental stimulus control."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-21"
+updatedDate: "2026-03-21"
 category: "BuildSelf"
-tags: ["Great Habits","angelou","Routine","Stamina"]
-heroImage: "/images/blog/angelou_hotel_isolation.png"
+tags: ["위인 습관", "마야 안젤루", "환경통제", "집중", "몰입"]
+heroImage: "/images/blog/angelou_hotel_isolation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Maya Angelou's Autobiographical Records & Mason Currey's *Daily Rituals* & Cognitive Neuroscience Research"

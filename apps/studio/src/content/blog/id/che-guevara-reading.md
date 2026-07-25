@@ -1,11 +1,11 @@
 ---
 title: "Mengapa Membaca di Parit Hutan Belantara? Rutinitas Membaca Mendalam dan Restrukturisasi Kognitif ala Che Guevara"
 description: "Pelajari bagaimana pahlawan Revolusi Kuba Che Guevara mengasah intelektualnya setiap hari dengan membaca buku-buku tebal di tengah perang gerilya, serta temukan neurosains kognitif tentang bagaimana Membaca Mendalam mengaktifkan jaringan kontrol kognitif prefrontal untuk meredam stres."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-09"
+updatedDate: "2026-02-09"
 category: "BuildSelf"
-tags: ["Mengapa Me","Routine"]
-heroImage: "/images/blog/che_guevara_reading.png"
+tags: ["위인 습관", "체게바라", "매일독서", "인지재구조화", "신념단련"]
+heroImage: "/images/blog/che_guevara_reading.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Biografi Jon Lee Anderson *Che Guevara: A Revolutionary Life* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

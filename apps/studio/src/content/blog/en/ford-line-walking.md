@@ -1,11 +1,11 @@
 ---
 title: "The Car King Who Sketched Innovation While Walking the Line: Henry Ford's Diagrammatic Flow Sketching and Cognitive Offloading Routine"
 description: "Discover how Henry Ford, pioneer of the moving assembly line, reduced prefrontal load by walking factory floors, tracking mechanical motion, and sketching workflow diagrams in pocket notebooks. Explore the neuroscience of visual smooth pursuit and cognitive offloading."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-23"
+updatedDate: "2026-06-23"
 category: "BuildSelf"
-tags: ["Great Habits","ford","Routine","Stamina"]
-heroImage: "/images/blog/ford_line_walking.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/ford_line_walking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Henry Ford's Autobiography *My Life and Work*, Historical Biographies & Cognitive Neuroscience Research"

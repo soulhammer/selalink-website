@@ -1,11 +1,11 @@
 ---
 title: "暗闇の中で手のひらの綴り感覚を呼び覚ましたヘレン・ケラーの触覚模倣訓練と体性感覚可塑性ルーティン"
 description: "視覚と聴覚の障害を克服し、世界的作家であり人権運動家となったヘレン・ケラー。手のひらの触覚綴り感覚で脳の体性感覚皮質を刺激し内面の宇宙を拡張した触覚模倣ルーティンと交差感覚的脳可塑性の原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-12"
+updatedDate: "2026-03-12"
 category: "BuildSelf"
-tags: ["暗闇の中で手のひらの","Routine"]
-heroImage: "/images/blog/helen_keller.png"
+tags: ["위인 습관", "헬렌 켈러", "휴식", "성찰"]
+heroImage: "/images/blog/helen_keller.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ヘレン・ケラー自伝『奇跡の人 ヘレン・ケラー自伝（The Story of My Life）』およびパーキンス盲学校史料考証＆認知神経科学（Cognitive Neuroscience）研究"

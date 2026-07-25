@@ -1,11 +1,11 @@
 ---
 title: "沈黙の春を芽吹かせた海の生態系：レイチェル・カーソンの潮間帯観察と柔らかい引き込みリラックス法"
 description: "現代環境運動の先駆者レイチェル・カーソン。化学大企業の外圧とがん闘病の中でも海岸の岩の穴（潮間帯）を観察し疲弊した認知力を復元したルーティン。注意力回復理論（ART）と「柔らかい引き込み（Soft Fascination）」の神経科学的メカニズムを解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-04"
+updatedDate: "2026-07-04"
 category: "BuildSelf"
-tags: ["沈黙の春を芽吹かせた","Routine"]
-heroImage: "/images/blog/carson_tidepool_observation.png"
+tags: ["위인 습관", "레이첼 카슨", "자연 관찰", "주의 회복", "인도어 디톡스"]
+heroImage: "/images/blog/carson_tidepool_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "レイチェル・カーソン歴史的伝記および自伝的記録考証＆認知神経科学（Cognitive Neuroscience）研究"

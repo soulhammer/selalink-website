@@ -1,11 +1,11 @@
 ---
 title: "Le rythme de la patience et de la sérénité : La routine de broyage de plantes médicinales de Tokugawa Ieyasu et la régulation de la sérotonine"
 description: "Découvrez la méthode de culture mentale de Tokugawa Ieyasu. Explorez comment sa routine quotidienne de broyage de plantes au mortier stimulait le mouvement rythmique, activant la sérotonine et apaisant l'amygdale."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-01"
+updatedDate: "2026-04-01"
 category: "BuildSelf"
-tags: ["Le rythme ","Routine"]
-heroImage: "/images/blog/ieyasu_herb_grinding.png"
+tags: ["위인 습관", "도쿠가와 이에야스", "생약 조제", "리듬 운동", "인내력", "마인드컨트롤"]
+heroImage: "/images/blog/ieyasu_herb_grinding.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue des biographies de Tokugawa Ieyasu, des archives du Musée d'art Tokugawa & de la Recherche en Neurosciences Cognitives"

@@ -1,11 +1,11 @@
 ---
 title: "Precision to Calm a Wavering Mind: Kim Koo's Calligraphy Meditation Routine and Fine Motor Control"
 description: "Discover how Kim Koo, leader of the Provisional Government of the Republic of Korea, trained his mind through calligraphy. Explore the neuroscience of fine motor control, amygdala stabilization, and a 3-step practice guide."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-06"
+updatedDate: "2026-02-06"
 category: "BuildSelf"
-tags: ["Great Habits","kimgu","Routine","Stamina"]
-heroImage: "/images/blog/kimgu_brush_meditation.png"
+tags: ["위인 습관", "백범 김구", "서예 명상", "붓글씨", "불안 조절", "마음 수양"]
+heroImage: "/images/blog/kimgu_brush_meditation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Kim Koo's Autobiography *Baekbum Ilji*, Provisional Government Archives & Cognitive Neuroscience and Motor Control Science Research"

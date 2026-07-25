@@ -1,11 +1,11 @@
 ---
 title: "O Diário Agrícola de George Washington: A Rotina de Inspeção e Registro ao Amanhecer que Forjou a Governança Presidencial"
 description: "Descubra como George Washington, que acordava às 4h para inspecionar Mount Vernon e registrar métricas agrícolas precisas, construiu os alicerces administrativos de uma nação. Explore a neurociência da metacognição e do córtex pré-frontal lateral."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-04"
+updatedDate: "2026-07-04"
 category: "BuildSelf"
-tags: ["O Diário A","Routine"]
-heroImage: "/images/blog/george_washington_morning_rounds.png"
+tags: ["위인 습관", "조지 워싱턴", "행정력", "영농 일지", "메타 인지"]
+heroImage: "/images/blog/george_washington_morning_rounds.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica das Biografias de George Washington, Arquivos da Fazenda Mount Vernon e Pesquisa em Neurociência Cognitiva"

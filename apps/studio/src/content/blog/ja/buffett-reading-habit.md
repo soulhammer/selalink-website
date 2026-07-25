@@ -1,11 +1,11 @@
 ---
 title: "知識の複利効果：ウォーレン・バフェットの1日500ページ読書習慣と認知予備能"
 description: "世界最高の投資家ウォーレン・バフェットの核心的な成功の秘訣である1日500ページの読書習慣。神経回路の結合性強化、認知予備能の構築、パターン認識速度を引き上げる認知神経科学的原理と3ステップの実践法を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-10"
+updatedDate: "2026-06-10"
 category: "BuildSelf"
-tags: ["知識の複利効果：ウォ","Routine"]
-heroImage: "/images/blog/buffett_reading_habit.png"
+tags: ["위인 습관", "워런 버핏", "독서", "투자", "성공습관", "학습"]
+heroImage: "/images/blog/buffett_reading_habit.webp"
 app: "buildself"
 formatVersion: 4
 authority: "アリス・シュローダー伝記『The Snowball: Warren Buffett and the Business of Life』考証＆認知神経科学（Cognitive Neuroscience）研究"

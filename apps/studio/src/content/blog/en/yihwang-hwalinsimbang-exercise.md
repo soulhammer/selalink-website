@@ -1,11 +1,11 @@
 ---
 title: "선비의 아침 양생: 퇴계 이황의 활인심방 체조"
 description: "평생 병약했으나 매일 아침 도인법과 호흡 조절을 통해 일흔까지 학문을 닦았던 퇴계 이황. 저강도 신체 조율과 심호흡이 부교감 신경계를 깨우고 차분한 각성을 유도하는 생리적 기전을 살펴봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-12"
+updatedDate: "2026-06-12"
 category: "BuildSelf"
-tags: ["Great Habits","yihwang","Routine","Stamina"]
-heroImage: "/images/blog/yihwang_hwalinsimbang_exercise.png"
+tags: ["위인 습관", "퇴계 이황", "신체활성", "리프레시", "의지력"]
+heroImage: "/images/blog/yihwang_hwalinsimbang_exercise.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Yihwang Hwalinsimbang Exercise 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

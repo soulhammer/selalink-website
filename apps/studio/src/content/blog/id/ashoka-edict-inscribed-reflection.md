@@ -1,11 +1,11 @@
 ---
 title: "Raja Penakluk yang Mengukir Maklumat di Batu untuk Refleksi? Rutinitas Refleksi Etika Harian Ashoka Agung"
 description: "Ashoka Agung dari Kekaisaran Maurya di India. Pelajari rutinitas penambatan eksternal dan rencana tindakan 3 langkahnya, di mana ia menyesali kekejaman Perang Kalinga dan mendirikan maklumat pilar untuk merenungkan diri yang beretika setiap hari."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-04"
+updatedDate: "2026-06-04"
 category: "BuildSelf"
-tags: ["Raja Penak","Routine"]
-heroImage: "/images/blog/ashoka_edict_inscribed_reflection.png"
+tags: ["위인 습관", "Routine"]
+heroImage: "/images/blog/ashoka_edict_inscribed_reflection.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Maklumat Ashoka (Edicts of Ashoka) & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

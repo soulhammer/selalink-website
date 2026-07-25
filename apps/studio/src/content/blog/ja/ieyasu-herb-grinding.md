@@ -1,11 +1,11 @@
 ---
 title: "忍耐と平静さを養うリズム：徳川家康の生薬調合ルーティンとセロトニン神経調節"
 description: "徳川家康の精神修養法。毎日生薬を自ら薬研で摺り下ろしたリズム運動のセロトニン神経調節効果、扁桃体安定化、アンド3段階実践法を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-01"
+updatedDate: "2026-04-01"
 category: "BuildSelf"
-tags: ["忍耐と平静さを養うリ","Routine"]
-heroImage: "/images/blog/ieyasu_herb_grinding.png"
+tags: ["위인 습관", "도쿠가와 이에야스", "생약 조제", "리듬 운동", "인내력", "마인드컨트롤"]
+heroImage: "/images/blog/ieyasu_herb_grinding.webp"
 app: "buildself"
 formatVersion: 4
 authority: "徳川家康評伝および徳川美術館（Tokugawa Art Museum）史料考証＆認知神経科学（Cognitive Neuroscience）研究"

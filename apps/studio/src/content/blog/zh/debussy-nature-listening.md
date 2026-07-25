@@ -1,11 +1,11 @@
 ---
 title: "《月光》作曲家的灵感秘诀：克劳德·德彪西的黎明自然之声聆听与粉红噪音阿尔法波诱导法"
 description: "探索印象派音乐巨匠克劳德·德彪西在黎明时分倾听森林微风与潺潺流水打造不朽名曲的听觉感官习惯，揭示自然粉红噪音（Pink Noise）如何将脑波转化为阿尔法波并提升直觉创造力的神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-27"
+updatedDate: "2026-03-27"
 category: "BuildSelf"
-tags: ["《月光》作曲家的灵感","Routine"]
-heroImage: "/images/blog/debussy_nature_listening.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/debussy_nature_listening.webp"
 app: "buildself"
 formatVersion: 4
 authority: "弗朗索瓦·勒叙尔传记《德彪西评传（Claude Debussy）》考证与认知神经科学（Cognitive Neuroscience）研究"

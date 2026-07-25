@@ -1,11 +1,11 @@
 ---
 title: "每3年重置一生的智力冒险：彼得·德鲁克的跨学科学习习惯与大脑可塑性"
 description: "探索现代管理学大师彼得·德鲁克贯穿一生践行的“3年周期掌握一门新学科”习惯，揭示其刺激大脑可塑性（Neuroplasticity）、维持敏锐智力洞察力与跨学科重组的神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["每3年重置一生的智力","Routine"]
-heroImage: "/images/blog/drucker_three_year_study.png"
+tags: ["위인 습관", "피터 드러커", "학습", "자기계발", "시간 관리"]
+heroImage: "/images/blog/drucker_three_year_study.webp"
 app: "buildself"
 formatVersion: 4
 authority: "彼得·德鲁克自传《旁观者的冒险（Adventures of a Bystander）》与《自我管理（Managing Oneself）》考证与认知神经科学（Cognitive Neuroscience）研究"

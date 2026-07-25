@@ -1,11 +1,11 @@
 ---
 title: "완벽한 주의집중력을 만드는 비결: 철학자 시몬 베유의 아침 고전 암송 루틴"
 description: "프랑스의 철학자 시몬 베유가 주의력을 단련하기 위해 실천했던 아침 그리스어 고전 암송 루틴을 알아봅니다. 소리 내어 읽는 낭독이 전두엽에 미치는 과학적 효과를 다룹니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-11"
+updatedDate: "2026-07-11"
 category: "BuildSelf"
-tags: ["Great Habits","weil","Routine","Stamina"]
-heroImage: "/images/blog/weil_classical_recitation.png"
+tags: ["위인 습관", "학습"]
+heroImage: "/images/blog/weil_classical_recitation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Weil Classical Recitation 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

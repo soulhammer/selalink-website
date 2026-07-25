@@ -1,11 +1,11 @@
 ---
 title: "Die Uhr von Königsberg: Immanuel Kants täglicher Spaziergang um 15:30 Uhr und zirkadiane Präzision"
 description: "Erfahren Sie, wie der Philosophie-Gigant Immanuel Kant durch seinen täglichen Spaziergang um 15:30 Uhr in Königsberg geistige Klarheit bewahrte. Entdecken Sie die Neurowissenschaften der SCN-Stimulation und Nasenatmung."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-18"
+updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: ["Die Uhr vo","Routine"]
-heroImage: "/images/blog/kant_walk.png"
+tags: ["위인 습관", "임마누엘 칸트", "산책", "규율", "휴식"]
+heroImage: "/images/blog/kant_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Manfred Kuehns *Kant: Eine Biographie*, Königsberger Archiven & Forschung der Hirnforschung und kognitiven Neurowissenschaften"

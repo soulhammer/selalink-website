@@ -1,11 +1,11 @@
 ---
 title: "依体裁切换稿纸颜色的天才：大仲马的色彩重置习惯与视觉心理引发"
 description: "探索《基度山伯爵》作者大仲马在每天撰写多体裁文稿时切换稿纸颜色的习惯，揭示消除任务切换成本（Switching Cost）与保护工作记忆（Working Memory）的视觉心理引发（Color Priming）神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-07"
+updatedDate: "2026-06-07"
 category: "BuildSelf"
-tags: ["依体裁切换稿纸颜色的","Routine"]
-heroImage: "/images/blog/dumas_color_switching.png"
+tags: ["위인 습관", "알렉상드르 뒤마", "창의성", "색상", "생산성"]
+heroImage: "/images/blog/dumas_color_switching.webp"
 app: "buildself"
 formatVersion: 4
 authority: "大仲马自传《我的回忆录（Mes Mémoires）》考证与认知神经科学（Cognitive Neuroscience）研究"

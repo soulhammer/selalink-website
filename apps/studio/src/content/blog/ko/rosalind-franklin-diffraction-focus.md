@@ -1,11 +1,11 @@
 ---
 title: "DNA 구조 비밀을 밝힌 여성 과학자? 로잘린드 프랭클린의 0.1도 정밀 검수 루틴"
 description: "DNA 이중나선 사진 'Photo 51'을 완성한 로잘린드 프랭클린의 타협 없는 0.1도 미세 오차 검수 습관과 현대인을 위한 정밀성 강화 가이드."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-24"
+updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/rosalind_franklin_diffraction_focus.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/rosalind_franklin_diffraction_focus.webp"
 app: "buildself"
 formatVersion: 4
 authority: "로잘린드 프랭클린 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

@@ -1,11 +1,11 @@
 ---
 title: "Le philosophe né esclave qui enseignait d'ignorer l'incontrôlable : La routine de réflexion nocturne de la dichotomie du contrôle d'Épictète"
 description: "Découvrez comment Épictète, le maître stoïcien né esclave, a éliminé l'anxiété quotidienne en divisant strictement la réalité entre ce qui dépend de nous et ce qui n'en dépend pas. Explorez sa méthode de journal nocturne via la neuroscience cognitive."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-15"
+updatedDate: "2026-05-15"
 category: "BuildSelf"
-tags: ["Le philoso","Routine"]
-heroImage: "/images/blog/epictetus_dichotomy_control.png"
+tags: ["위인 습관", "Routine"]
+heroImage: "/images/blog/epictetus_dichotomy_control.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue des *Entretiens* et du *Manuel* d'Épictète & Recherche en Neurosciences Cognitives"

@@ -1,11 +1,11 @@
 ---
 title: "Não Perturbe Quando a Almofada Estiver Erguida: O Sinal de Imersão de Louisa May Alcott"
 description: "Apresentamos o 'Mood Pillow' (almofada do humor), um sinal de imersão usado por Louisa May Alcott, autora de 'Mulherzinhas'. Descubra um guia de 3 passos para reduzir os custos de alternância cognitiva bloqueando distrações ao seu redor."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["Não Pertur","Routine"]
-heroImage: "/images/blog/alcott_mood_ribbon.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/alcott_mood_ribbon.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Louisa May Alcott, *Her Life, Letters, and Journals* (1889) e Pesquisa do *Journal of Personality and Social Psychology*"

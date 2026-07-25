@@ -1,11 +1,11 @@
 ---
 title: "清晨6点不败的心智重塑：迈克尔·乔丹的早餐俱乐部与赢家效应"
 description: "探索篮球之神迈克尔·乔丹如何通过清晨6点的“早餐俱乐部”训练习惯突破体能与心理极限。揭示赢家效应（Winner Effect）、多巴胺与睾酮分泌机制及3步骤晨间心智重塑指南。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-16"
+updatedDate: "2026-01-16"
 category: "BuildSelf"
-tags: ["清晨6点不败的心智重","Routine"]
-heroImage: "/images/blog/jordan_breakfast_club.png"
+tags: ["위인 습관", "마이클조던", "아침루틴", "의지력", "멘탈셋업"]
+heroImage: "/images/blog/jordan_breakfast_club.webp"
 app: "buildself"
 formatVersion: 4
 authority: "迈克尔·乔丹自传《Driven from Within》与传记史料考证及认知神经科学（Cognitive Neuroscience）与运动生理学（Exercise Physiology）研究"

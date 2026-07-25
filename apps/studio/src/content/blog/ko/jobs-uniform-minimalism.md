@@ -1,11 +1,11 @@
 ---
 title: "매일 똑같은 옷만 입은 천재: 스티브 잡스의 의사결정 미니멀리즘 루틴과 전전두엽 인지 자원 보존"
 description: "애플의 창업자 스티브 잡스. 항상 검은 터틀넥과 청바지만 입었던 그의 독특한 미니멀리즘 습관 속에 숨겨진 의사결정 피로(Decision Fatigue) 극복법, 전전두엽 인지 자원 보존 원리와 현대인을 위한 3단계 옷차림 단순화 루틴을 소개합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-25"
+updatedDate: "2026-06-25"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/jobs_uniform_minimalism.png"
+tags: ["위인 습관", "스티브 잡스", "생산성", "단순화", "의사결정"]
+heroImage: "/images/blog/jobs_uniform_minimalism.webp"
 app: "buildself"
 formatVersion: 4
 authority: "월터 아이작슨 『스티브 잡스(Steve Jobs, 2011)』 사료 고증 & 인지심리학(Cognitive Psychology) 및 인지신경과학(Cognitive Neuroscience) 연구"

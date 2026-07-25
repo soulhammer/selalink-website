@@ -1,11 +1,11 @@
 ---
 title: "Intellektuelle Solidarität in einem bescheidenen Garten: Epikurs Konversations- und einfache Essroutine für Seelenruhe"
 description: "Erfahren Sie, wie Epikur außerhalb Athens den 'Garten' errichtete, um einfache Mahlzeiten und tiefe Gedanken mit Freunden zu teilen. Entdecken Sie die Neurowissenschaften hinter psychologischer Sicherheit, Oxytocin und Serotonin."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-20"
+updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: ["Intellektu","Routine"]
-heroImage: "/images/blog/epicurus_garden_conversation.png"
+tags: ["휴식", "안정", "사색"]
+heroImage: "/images/blog/epicurus_garden_conversation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Diogenes Laertios' *Leben und Lehren berühmter Philosophen*, Epikurs Briefen & Forschung der kognitiven Neurowissenschaften"

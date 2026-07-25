@@ -1,11 +1,11 @@
 ---
 title: "Repositorio del Pensamiento Filosófico: El Método Dialéctico de Índice de Tarjetas y Rutina de Andamiaje Cognitivo de Hegel"
 description: "Detrás de la culminación del Idealismo Alemán por parte de G. W. F. Hegel había decenas de miles de tarjetas de conocimiento y un riguroso sistema de clasificación. Explore su andamiaje cognitivo y un marco de 3 pasos para superar los límites de la memoria de trabajo."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["Repositori","Routine"]
-heroImage: "/images/blog/hegel_card_index.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/hegel_card_index.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de las Biografías de G. W. F. Hegel, Archivos de la *Fenomenología del espíritu (Phänomenologie des Geistes)* e Investigación en Neurociencia Cognitiva"

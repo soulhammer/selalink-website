@@ -1,11 +1,11 @@
 ---
 title: "沉浸的极致：阿基米德的沙地几何草图习惯"
 description: "为了将复杂的科学灵感具象化，阿基米德不断在沙地或地面上绘制图形。探索动手的视觉草图如何减轻工作记忆的认知过载并诱导超沉浸状态。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-25"
+updatedDate: "2026-03-25"
 category: "BuildSelf"
-tags: ["沉浸的极致：阿基米德","Routine"]
-heroImage: "/images/blog/aristotle_walking_study.png"
+tags: ["산책", "토론", "기억력", "고대"]
+heroImage: "/images/blog/aristotle_walking_study.webp"
 app: "buildself"
 formatVersion: 4
 authority: "普鲁塔克《希腊罗马名人传（Life of Marcellus）》考证与认知神经科学（Cognitive Neuroscience）研究"

@@ -1,11 +1,11 @@
 ---
 title: "Thomas Jeffersons kaltes Fußbad: Eine 60-jährige morgendliche Aufwachroutine und Noradrenalin-Regulation"
 description: "Erfahren Sie, wie Thomas Jefferson, Hauptautor der Unabhängigkeitserklärung, 60 Jahre lang sein Gehirn weckte, indem er jeden Morgen seine Füße in kaltes Wasser tauchte. Entdecken Sie die Neurowissenschaften von Noradrenalin und präfrontaler Klarheit."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-17"
+updatedDate: "2026-04-17"
 category: "BuildSelf"
-tags: ["Thomas Jef","Routine"]
-heroImage: "/images/blog/jefferson_cold_foot_bath.png"
+tags: ["위인 습관", "토머스 제퍼슨", "에너지", "아침 루틴", "각성"]
+heroImage: "/images/blog/jefferson_cold_foot_bath.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus *The Writings of Thomas Jefferson*, Monticello-Archiven & Forschung der kognitiven Neurowissenschaften"

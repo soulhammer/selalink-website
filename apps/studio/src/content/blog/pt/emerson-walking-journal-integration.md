@@ -1,11 +1,11 @@
 ---
 title: "O Dueto de Divergência e Convergência: As Notas de Caminhada e a Rotina Noturna de Diário de Ralph Waldo Emerson"
 description: "Descubra como o filósofo americano Ralph Waldo Emerson transformou faíscas fugazes em sistemas filosóficos orgânicos ao unir notas de caminhada diurnas (pensamento divergente) com o diário noturno (pensamento convergente)."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-02"
+updatedDate: "2026-06-02"
 category: "BuildSelf"
-tags: ["O Dueto de","Routine"]
-heroImage: "/images/blog/emerson_walking_journal_integration.png"
+tags: ["사색", "휴식", "기록"]
+heroImage: "/images/blog/emerson_walking_journal_integration.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica de *The Journals of Ralph Waldo Emerson* e Pesquisa em Neurociência Cognitiva"

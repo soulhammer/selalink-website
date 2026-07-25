@@ -1,11 +1,11 @@
 ---
 title: "Escribir en la Cama con Lápices de Colores Azules: La Rutina de Escritura para la Conservación de Energía y Alivio de la Fatiga de la Corteza Visual Primaria (V1) de James Joyce"
 description: "Descubra cómo James Joyce creó obras maestras literarias recostado en la cama a pesar de graves enfermedades oculares. Explore la neurociencia de reducir la carga muscular gravitacional, aliviar la fatiga de la corteza visual primaria (V1) y optimizar la energía prefrontal."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-10"
+updatedDate: "2026-04-10"
 category: "BuildSelf"
-tags: ["Escribir e","Routine"]
-heroImage: "/images/blog/joyce_bed_writing.png"
+tags: ["위인 습관", "휴식"]
+heroImage: "/images/blog/joyce_bed_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la Biografía de Richard Ellmann *James Joyce*, Archivos de Joyce e Investigación en Neurociencia Cognitiva y Percepción Visual"

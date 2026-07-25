@@ -4,8 +4,8 @@ description: "探索东方思想伟大导师孔子在乱世与长达14年的流�
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["调律心中烦扰的音律：","Routine"]
-heroImage: "/images/blog/confucius_guqin_harmony.png"
+tags: ["위인 습관", "공자", "거문고", "음악치료", "마음조율"]
+heroImage: "/images/blog/confucius_guqin_harmony.webp"
 app: "buildself"
 formatVersion: 4
 authority: "司马迁《史记·孔子世家》与《论语》考证与认知神经科学（Cognitive Neuroscience）研究"

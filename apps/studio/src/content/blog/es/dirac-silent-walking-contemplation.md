@@ -1,11 +1,11 @@
 ---
 title: "El Genio que Caminaba en Silencio Mínimo: La Rutina de Caminata Silenciosa y Eliminación de Ruido Lingüístico de Paul Dirac"
 description: "Descubra cómo el pionero de la mecánica cuántica y Premio Nobel Paul Dirac refinó la Ecuación de Dirac mediante caminatas dominicales en silencio. Explore la neurociencia cognitiva del alivio del ruido lingüístico y la activación visuoespacial parietal."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-25"
+updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["El Genio q","Routine"]
-heroImage: "/images/blog/dirac_silent_walking_contemplation.png"
+tags: ["위인 습관", "Routine"]
+heroImage: "/images/blog/dirac_silent_walking_contemplation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la Biografía de Graham Farmelo *El hombre más extraño (The Strangest Man: The Hidden Life of Paul Dirac)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"

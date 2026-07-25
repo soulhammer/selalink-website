@@ -1,11 +1,11 @@
 ---
 title: "Thomas Aquinas's Multi-Dictation Method: Maximize Working Memory to Conquer Complex Dilemmas"
 description: "Discover how Thomas Aquinas, the great medieval theologian, expanded his working memory and maintained logical coherence while simultaneously dictating different subjects to 3–4 scribes."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-09"
+updatedDate: "2026-03-09"
 category: "BuildSelf"
-tags: ["Great Habits","aquinas","Routine","Stamina"]
-heroImage: "/images/blog/aquinas_multi_dictation.png"
+tags: ["집중력", "구술대필", "작업기억", "중세"]
+heroImage: "/images/blog/aquinas_multi_dictation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Bernard of Gui's *Life of Saint Thomas Aquinas* & Cognitive Neuroscience Research"

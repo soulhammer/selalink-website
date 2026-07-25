@@ -1,11 +1,11 @@
 ---
 title: "세네카의 저녁 자아 성찰: 평화로운 숙면과 어제의 실수를 교정하는 법"
 description: "철학자 세네카가 취침 전 어두운 방에서 하루를 심판하고 성찰하며 뇌의 긴장을 완화하고 수면 질을 높인 비법을 소개합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-04"
+updatedDate: "2026-02-04"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/seneca_evening_review.png"
+tags: ["성찰", "저녁루틴", "평정심", "고대"]
+heroImage: "/images/blog/seneca_evening_review.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Seneca Evening Review 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

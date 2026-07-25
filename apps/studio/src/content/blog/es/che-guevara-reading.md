@@ -1,11 +1,11 @@
 ---
 title: "¿Por qué Leer en las Trincheras de la Selva? La Rutina de Lectura Profunda y Reestructuración Cognitiva de Che Guevara"
 description: "Descubra cómo el héroe de la Revolución Cubana Che Guevara leía diariamente tomos densos en medio de la guerra de guerrillas, y explore la neurociencia cognitiva de cómo la Lectura Profunda activa las redes de control cognitivo prefrontales para amortiguar el estrés."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-09"
+updatedDate: "2026-02-09"
 category: "BuildSelf"
-tags: ["¿Por qué L","Routine"]
-heroImage: "/images/blog/che_guevara_reading.png"
+tags: ["위인 습관", "체게바라", "매일독서", "인지재구조화", "신념단련"]
+heroImage: "/images/blog/che_guevara_reading.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la Biografía de Jon Lee Anderson *Che Guevara: Una vida revolucionaria (Che Guevara: A Revolutionary Life)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"

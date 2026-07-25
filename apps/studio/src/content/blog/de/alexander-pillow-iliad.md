@@ -1,11 +1,11 @@
 ---
 title: "Alexander des Großen 'Ilias unter dem Kissen': Nächtliche Visionslektüre, die gewaltige Herausforderungen stützte"
 description: "Alexander der Große verlor auf dem Schlachtfeld nie den Mut und bewahrte jede Nacht einen Dolch und die Ilias unter seinem Kissen auf. Erkunden Sie die Kraft der Visionslektüre, die das Unterbewusstsein stimuliert."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-23"
+updatedDate: "2026-01-23"
 category: "BuildSelf"
-tags: ["Alexander ","Routine"]
-heroImage: "/images/blog/alexander_pillow_iliad.png"
+tags: ["위인 습관", "알렉산드로스", "동기부여", "독서 습관", "잠재의식"]
+heroImage: "/images/blog/alexander_pillow_iliad.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Plutarchs *Life of Alexander* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

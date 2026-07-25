@@ -4,8 +4,8 @@ description: "Descubra cómo Confucio, maestro del pensamiento oriental, afinaba
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["Afinando e","Routine"]
-heroImage: "/images/blog/confucius_guqin_harmony.png"
+tags: ["위인 습관", "공자", "거문고", "음악치료", "마음조율"]
+heroImage: "/images/blog/confucius_guqin_harmony.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de las *Memorias históricas (Shiji: Casa de Confucio)* de Sima Qian y *Las Analectas (Lunyu)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"

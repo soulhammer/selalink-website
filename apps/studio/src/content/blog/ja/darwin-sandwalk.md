@@ -1,11 +1,11 @@
 ---
 title: "歩行で完成させた進化論：チャールズ・ダーウィンの「サンドウォーク」散策習慣と認知的孵化"
 description: "偉大な生物学者チャールズ・ダーウィンが砂利道を歩きながら石で周回数を数えて複雑な理論を整理した「サンドウォーク」散策ルーティン。デフォルト・モード・ネットワーク（DMN）活性化と認知的孵化（Cognitive Incubation）の認知神経科学的原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-14"
+updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: ["歩行で完成させた進化","Routine"]
-heroImage: "/images/blog/darwin_sandwalk.png"
+tags: ["위인 습관", "찰스 다윈", "걷기", "사색", "아이디어"]
+heroImage: "/images/blog/darwin_sandwalk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "チャールズ・ダーウィン自伝『The Autobiography of Charles Darwin』考証＆認知神経科学（Cognitive Neuroscience）研究"

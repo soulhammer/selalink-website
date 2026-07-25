@@ -1,11 +1,11 @@
 ---
 title: "Harmonie von 5-Uhr-Kaffee und Morgenspaziergang: Johannes Brahms' kraftvolle morgendliche Aktivierungsroutine"
 description: "Entdecken Sie, wie der deutsche Klassikmeister Johannes Brahms jeden Morgen um 5 Uhr schwarzen Kaffee braute und zügig durch Waldwege spazierte, und erkunden Sie den neurowissenschaftlichen Mechanismus der BDNF-Ausschüttung und der Stärkung des Arbeitsgedächtnisses, wenn Koffein mit aerobem Training kombiniert wird."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-13"
+updatedDate: "2026-06-13"
 category: "BuildSelf"
-tags: ["Harmonie v","Routine"]
-heroImage: "/images/blog/brahms_early_morning_coffee.png"
+tags: ["새벽 5시 커피와 ","Routine"]
+heroImage: "/images/blog/brahms_early_morning_coffee.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Max Kalbecks Biografie *Johannes Brahms* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

@@ -1,11 +1,11 @@
 ---
 title: "流放地巨著500卷的动力源泉：茶山丁若镛的抄书摘录、书信撰写与认知编码习惯"
 description: "深度剖析朝鲜王朝伟大的实学集大成者茶山丁若镛如何在长达18年的康津流放岁月中，通过“抄书（精选摘录）”与给两个儿子撰写训诫家书完成500余卷著作。揭示书写运动认知编码与元认知升华的神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-01"
+updatedDate: "2026-02-01"
 category: "BuildSelf"
-tags: ["流放地巨著500卷的","Routine"]
-heroImage: "/images/blog/jeong_yakyong_transcription.png"
+tags: ["위인 습관", "정약용", "초서독서", "메타인지", "지식구조화"]
+heroImage: "/images/blog/jeong_yakyong_transcription.webp"
 app: "buildself"
 formatVersion: 4
 authority: "茶山丁若镛著作集《与犹堂全书》与自传《俟菴年谱》史料考证及认知神经科学（Cognitive Neuroscience）与元认知（Metacognition）研究"

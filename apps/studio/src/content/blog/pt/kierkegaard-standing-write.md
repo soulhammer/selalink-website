@@ -1,11 +1,11 @@
 ---
 title: "Escrever de Pé com Chapéu Logo Após Caminhar: O Hábito de Captura Imediata e Aquecimento Cognitivo de Søren Kierkegaard"
 description: "Descubra como o filósofo existencialista Søren Kierkegaard preservava suas ideias escrevendo de pé em escrivaninhas altas logo após caminhar, sem tirar o chapéu nem o sobretudo. Explore a neurociência do aquecimento cognitivo e memória de trabalho."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-08"
+updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: ["Escrever d","Routine"]
-heroImage: "/images/blog/kierkegaard_standing_write.png"
+tags: ["위인 습관", "쇠렌 키르케고르", "기록", "스탠딩데스크", "영감"]
+heroImage: "/images/blog/kierkegaard_standing_write.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica dos *Diários de Søren Kierkegaard*, Biografia de Joakim Garff e Pesquisa em Neurociência Cognitiva"

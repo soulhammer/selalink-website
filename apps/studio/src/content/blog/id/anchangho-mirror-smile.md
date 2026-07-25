@@ -1,11 +1,11 @@
 ---
 title: "Kekuatan untuk Membangunkan Sirkuit Otak Positif: Rutinitas Senyum Cermin dan Kebersihan Dosan Ahn Chang-ho"
 description: "Kekuatan 'senyuman' dan 'kebersihan' yang ditekankan oleh pejuang kemerdekaan Dosan Ahn Chang-ho. Pelajari alasan ilmiah mengapa senyum yang dipaksakan melepaskan serotonin di otak dan ruang yang rapi mengurangi beban kognitif visual."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-19"
+updatedDate: "2026-01-19"
 category: "BuildSelf"
-tags: ["Kekuatan u","Routine"]
-heroImage: "/images/blog/anchangho_mirror_smile.png"
+tags: ["위인 습관", "도산 안창호", "거울 미소", "청결", "마인드컨트롤", "자기계발"]
+heroImage: "/images/blog/anchangho_mirror_smile.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Biografi Dosan Ahn Chang-ho, Catatan Young Korean Academy (Hung Sah Dahn) & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

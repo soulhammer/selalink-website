@@ -1,11 +1,11 @@
 ---
 title: "打破决策过载的晨间骑马：俾斯麦的有氧唤醒与TOP 3优先级习惯"
 description: "探索统一德国的“铁血宰相”奥托·冯·俾斯麦将晨间骑马与TOP 3优先级遴选相结合的方法，揭示通过晨间有氧运动提升脑血流量、唤醒前额叶皮层以防止决策过载的神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-16"
+updatedDate: "2026-03-16"
 category: "BuildSelf"
-tags: ["打破决策过载的晨间骑","Routine"]
-heroImage: "/images/blog/bismarck_morning_ride_priority.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/bismarck_morning_ride_priority.webp"
 app: "buildself"
 formatVersion: 4
 authority: "俾斯麦自传《回忆与思考（Gedanken und Erinnerungen）》与A·J·P·泰勒传记《俾斯麦（Bismarck: The Man and the Statesman）》考证与认知神经科学（Cognitive Neuroscience）研究"

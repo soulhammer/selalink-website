@@ -1,11 +1,11 @@
 ---
 title: "Earharts kognitives Steuerungstraining: Selbst im Cockpit inmitten des Sturms in Instrumentenwerte vertieft"
 description: "Als erste Fliegerin, die den Atlantik alleine erfolgreich überquerte, beruhigte sie ihre Flugangst, indem sie jeden Morgen Wetterdaten und Windveränderungen präzise dokumentierte."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-31"
+updatedDate: "2026-01-31"
 category: "BuildSelf"
-tags: ["Earharts k","Routine"]
-heroImage: "/images/blog/amelia_earhart.png"
+tags: ["위인 습관", "어밀리아 이어하트", "분석", "시간 관리"]
+heroImage: "/images/blog/amelia_earhart.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Amelia Earharts Autobiografie *The Fun of It* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

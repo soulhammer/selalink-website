@@ -1,11 +1,11 @@
 ---
 title: "Genius yang Mewarnai Kertas Manuskrip Berdasarkan Genre: Rutinitas Reset Warna dan Priming Visual ala Alexandre Dumas"
 description: "Pelajari bagaimana Alexandre Dumas, penulis 'The Count of Monte Cristo', menggunakan kertas manuskrip berwarna berbeda untuk setiap genre untuk mencegah kelelahan mental. Temukan neurosains kognitif tentang priming warna."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-07"
+updatedDate: "2026-06-07"
 category: "BuildSelf"
-tags: ["Genius yan","Routine"]
-heroImage: "/images/blog/dumas_color_switching.png"
+tags: ["위인 습관", "알렉상드르 뒤마", "창의성", "색상", "생산성"]
+heroImage: "/images/blog/dumas_color_switching.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Autobiografi Alexandre Dumas *Mes Mémoires* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

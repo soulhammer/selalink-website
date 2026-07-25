@@ -1,11 +1,11 @@
 ---
 title: "밤의 식탁을 도는 자매들: 샬롯 브론테의 보행 토론과 거울 뉴런 창작법"
 description: "'제인 에어'의 작가 샬롯 브론테가 매일 밤 자매들과 거실 식탁을 돌며 소설의 인물과 플롯을 토론했던 루틴. 보행 운동과 거울 뉴런(Mirror Neurons) 계통이 결합하여 터널 시야를 방지하고 객관적 통찰을 이끄는 신경과학적 원리를 밝힙니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-14"
+updatedDate: "2026-05-14"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/bronte_table_walking.png"
+tags: ["위인 습관", "샬롯브론테", "보행토론", "창의성걷기", "협업창작"]
+heroImage: "/images/blog/bronte_table_walking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "엘리자베스 개스켈 평전 『샬롯 브론테 평전(The Life of Charlotte Brontë)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

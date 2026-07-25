@@ -1,11 +1,11 @@
 ---
 title: "ベッドの天井に映る自分を描く：フリーダ・カーロの鏡自画像ルーティンと自己鏡凝視療法"
 description: "メキシコの伝説的画家フリーダ・カーロ。全身の負傷という過酷な痛苦の中でもベッドの天井の鏡を見ながら毎日自画像を描いた彼女の克服の習慣と、鏡凝視（Mirror-Gazing）がもたらす臨床心理学的癒しの効果、回復弾力性（Resilience）強化および3段階実践法を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-07"
+updatedDate: "2026-06-07"
 category: "BuildSelf"
-tags: ["ベッドの天井に映る自","Routine"]
-heroImage: "/images/blog/kahlo_mirror_painting.png"
+tags: ["위인 습관", "프리다 칼로", "거울 명상", "치유", "회복탄력성"]
+heroImage: "/images/blog/kahlo_mirror_painting.webp"
 app: "buildself"
 formatVersion: 4
 authority: "フリーダ・カーロ日記および評伝史料『フリーダ・カーロの日記（The Diary of Frida Kahlo）』考証＆臨床心理学（Clinical Psychology）および認知神経科学（Cognitive Neuroscience）研究"

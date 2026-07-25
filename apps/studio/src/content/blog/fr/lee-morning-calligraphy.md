@@ -1,11 +1,11 @@
 ---
 title: "La philosophie de gestion au bout du pinceau : Le rituel de calligraphie matinale et l'activation du cortex moteur primaire de Lee Byung-chul"
 description: "Découvrez comment Lee Byung-chul, fondateur de Samsung, affinait sa clarté stratégique grâce a son rituel de calligraphie matinale. Explorez la science du contrôle moteur fin, l'activation du cortex moteur primaire, la relaxation autonome et un guide en 3 étapes."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-25"
+updatedDate: "2026-05-25"
 category: "BuildSelf"
-tags: ["La philoso","Routine"]
-heroImage: "/images/blog/lee_morning_calligraphy.png"
+tags: ["위인 습관", "이병철", "집중", "마인드셋", "의지력"]
+heroImage: "/images/blog/lee_morning_calligraphy.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de l'autobiographie de Ho-Am *Ho-Am Jajeon*, des archives du Groupe Samsung & de la Recherche en Neurosciences Cognitives et Sciences du Contrôle Moteur"

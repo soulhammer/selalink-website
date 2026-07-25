@@ -1,11 +1,11 @@
 ---
 title: "Die Super-Lernmethode des Nobelpreisträgers: Richard Feynmans Lehr-Gewohnheit und metakognitive Perfektion"
 description: "Erfahren Sie, wie der Nobelpreisträger Richard Feynman komplexe Quantenmechanik so erklärte, dass selbst ein 10-jähriges Kind sie verstehen konnte. Entdecken Sie die Neurowissenschaften der Metakognition und das aktive Abrufen."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-11"
+updatedDate: "2026-02-11"
 category: "BuildSelf"
-tags: ["Die Super-","Routine"]
-heroImage: "/images/blog/feynman_explanation_technique.png"
+tags: ["위인 습관", "리처드 파인만", "공부법", "메타인지", "자기계발"]
+heroImage: "/images/blog/feynman_explanation_technique.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Richard Feynmans Autobiografie *Sie belieben wohl zu scherzen, Mr. Feynman!*, Caltech-Vorlesungsarchiven & Forschung der kognitiven Neurowissenschaften"

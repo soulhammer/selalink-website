@@ -1,11 +1,11 @@
 ---
 title: "우아함의 밑바탕: 오드리 헵번의 마음 치유 정원 루틴과 흙 만지기의 뇌과학"
 description: "할리우드의 전설 오드리 헵번. 극심한 대중의 관심과 암 투병의 고통 속에서도 정서적 안정과 우아함을 지켜낸 비결인 흙 만지기(정원 가꾸기) 루틴의 뇌과학적 원리와 마이코박테리움 백카이, 세로토닌 분비 메커니즘을 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-14"
+updatedDate: "2026-01-14"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/hepburn_garden_mindfulness.png"
+tags: ["위인 습관", "오드리헵번", "정원가꾸기", "스트레스해소", "마음치유"]
+heroImage: "/images/blog/hepburn_garden_mindfulness.webp"
 app: "buildself"
 formatVersion: 4
 authority: "오드리 헵번 평전 및 스위스 톨로케나즈(Tolochenaz) 아카이브 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 환경심리학(Environmental Psychology) 연구"

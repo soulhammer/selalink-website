@@ -1,11 +1,11 @@
 ---
 title: "O Mestre da Revolução da Imprensa: A Rotina Matinal de Inspeção de Precisão de Tipos Móveis e Mecanismo ERN de Gutenberg"
 description: "Descubra como Gutenberg, inventor dos tipos móveis metálicos, preservou os padrões de impressão ao inspecionar o alinhamento dos tipos todas as manhãs. Explore a neurociência do córtex cingulado anterior (ACC) e a negatividade relacionada a erros (ERN)."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-04"
+updatedDate: "2026-06-04"
 category: "BuildSelf"
-tags: ["O Mestre d","Routine"]
-heroImage: "/images/blog/gutenberg_movable_type_inspection.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/gutenberg_movable_type_inspection.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica das Biografias de Johannes Gutenberg, Arquivos do Museu Gutenberg de Mogúncia e Pesquisa em Neurociência Cognitiva"

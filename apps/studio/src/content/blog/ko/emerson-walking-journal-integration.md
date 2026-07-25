@@ -1,11 +1,11 @@
 ---
 title: "확산과 수렴의 이중주: 랄프 왈도 에머슨의 산책 메모와 야간 저널 습관"
 description: "미국의 대표 사상가 랄프 왈도 에머슨. 낮의 산책 메모(확산적 사고)와 밤의 일기 쓰기(수렴적 사고)를 결합하여 번뜩이는 아이디어를 유기적인 철학 체계로 완성했던 인지적 2단계 루틴을 분석합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-02"
+updatedDate: "2026-06-02"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/emerson_walking_journal_integration.png"
+tags: ["사색", "휴식", "기록"]
+heroImage: "/images/blog/emerson_walking_journal_integration.webp"
 app: "buildself"
 formatVersion: 4
 authority: "랄프 왈도 에머슨 저널집 『에머슨 저널(The Journals of Ralph Waldo Emerson)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

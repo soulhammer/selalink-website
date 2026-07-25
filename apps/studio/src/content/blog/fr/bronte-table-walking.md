@@ -1,11 +1,11 @@
 ---
 title: "Des sœurs tournant autour de la table de nuit : La discussion ambulante et la méthode de création par neurones miroirs de Charlotte Brontë"
 description: "Découvrez la routine de Charlotte Brontë, auteure de 'Jane Eyre', qui tournait autour de la table avec ses sœurs chaque soir pour débattre des personnages et de l'intrigue, et percez les mécanismes neuroscientifiques associant marche et neurones miroirs pour éviter la vision en tunnel."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-14"
+updatedDate: "2026-05-14"
 category: "BuildSelf"
-tags: ["Des sœurs ","Routine"]
-heroImage: "/images/blog/bronte_table_walking.png"
+tags: ["위인 습관", "샬롯브론테", "보행토론", "창의성걷기", "협업창작"]
+heroImage: "/images/blog/bronte_table_walking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de la biographie d'Elizabeth Gaskell *La Vie de Charlotte Brontë (The Life of Charlotte Brontë)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

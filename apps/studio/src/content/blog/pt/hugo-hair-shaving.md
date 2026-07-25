@@ -1,11 +1,11 @@
 ---
 title: "Forçar o Foco Bloqueando Saídas: O Hábito de Isolamento com Raspagem de Cabelo de Victor Hugo e a Estratégia de Pré-comprometimento"
 description: "Descubra como Victor Hugo raspou metade do cabelo e da barba para evitar sair de casa e cumprir um prazo editorial. Explore a neurociência das restrições físicas ambientais e a prevenção da fadiga da vontade."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-29"
+updatedDate: "2026-06-29"
 category: "BuildSelf"
-tags: ["Forçar o F","Routine"]
-heroImage: "/images/blog/hugo_hair_shaving.png"
+tags: ["위인 습관", "빅토르 위고", "몰입", "환경 제약", "생산성"]
+heroImage: "/images/blog/hugo_hair_shaving.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica de *Victor Hugo: Uma Biografia* de Graham Robb, Terapia Comportamental e Pesquisa em Neurociência Cognitiva"

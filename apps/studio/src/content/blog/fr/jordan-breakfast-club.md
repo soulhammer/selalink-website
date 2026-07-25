@@ -1,11 +1,11 @@
 ---
 title: "Configuration mentale imbattable à 6h du matin : Le Breakfast Club de Michael Jordan et l'effet gagnant"
 description: "Découvrez comment la légende du basket-ball Michael Jordan a dépassé ses limits physiques et mentales grâce au 'Breakfast Club' de 6h du matin. Explorez la neuroscience de l'effet gagnant, des pics de dopamine et de testostérone, et un guide en 3 étapes."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-16"
+updatedDate: "2026-01-16"
 category: "BuildSelf"
-tags: ["Configurat","Routine"]
-heroImage: "/images/blog/jordan_breakfast_club.png"
+tags: ["위인 습관", "마이클조던", "아침루틴", "의지력", "멘탈셋업"]
+heroImage: "/images/blog/jordan_breakfast_club.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de l'autobiographie de Michael Jordan *Driven from Within*, des biographies & de la Recherche en Neurosciences Cognitives et Physiologie de l'Exercice"

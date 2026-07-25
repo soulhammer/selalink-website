@@ -1,11 +1,11 @@
 ---
 title: "'피터 래빗' 저자의 비밀? 비아트릭스 포터의 아침 미시적 자연 관찰 루틴"
 description: "'피터 래빗'의 저자 비아트릭스 포터가 매일 아침 돋보기로 식물과 이끼의 미세 구조를 세밀 관찰하며 잡념을 끄고 예술적 영감을 키운 뇌과학 습관."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-15"
+updatedDate: "2026-05-15"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/potter_botanical_sketch.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/potter_botanical_sketch.webp"
 app: "buildself"
 formatVersion: 4
 authority: "비아트릭스 포터 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

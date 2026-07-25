@@ -1,11 +1,11 @@
 ---
 title: "인간의 인지적 실수를 완벽하게 제로로 만드는 법: 찰스 린드버그의 체크리스트 실행 루틴과 작업 기억 보호"
 description: "대서양 단독 비행 횡단에 성공한 항공 영웅 찰스 린드버그. 감각 대신 체크리스트에 의존하여 인지적 오류를 차단한 그의 철두철미한 안전 관리 습관과 전전두엽 작업 기억 보호, 인지적 누락(Omission Error) 방지의 원리 및 3단계 실천 가이드를 분석합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-25"
+updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/lindbergh_meticulous_checklist.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/lindbergh_meticulous_checklist.webp"
 app: "buildself"
 formatVersion: 4
 authority: "찰스 린드버그 자서전 『스피릿 오브 세인트루이스(The Spirit of St. Louis, 1953)』 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 인간공학(Human Factors Engineering) 연구"

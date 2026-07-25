@@ -1,11 +1,11 @@
 ---
 title: "Harmoni Kopi Pukul 5 Pagi dan Jalan Pagi: Rutinitas Stimulasi Pagi yang Kuat ala Johannes Brahms"
 description: "Pelajari bagaimana maestro klasik Jerman Johannes Brahms menyeduh kopi hitam pada pukul 5 pagi setiap hari dan berjalan cepat melalui jalan setapak hutan, serta temukan mekanisme neurosains dari sekresi BDNF dan peningkatan memori kerja ketika kafein digabungkan dengan olahraga aerobik."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-13"
+updatedDate: "2026-06-13"
 category: "BuildSelf"
-tags: ["Harmoni Ko","Routine"]
-heroImage: "/images/blog/brahms_early_morning_coffee.png"
+tags: ["새벽 5시 커피와 ","Routine"]
+heroImage: "/images/blog/brahms_early_morning_coffee.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Biografi Max Kalbeck *Johannes Brahms* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

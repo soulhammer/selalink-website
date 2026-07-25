@@ -1,11 +1,11 @@
 ---
 title: "긍정적 뇌 회로를 깨우는 힘: 도산 안창호의 거울 미소와 청결 루틴"
 description: "독립운동가 도산 안창호가 강조한 '미소'와 '청결'의 힘. 억지 미소가 뇌의 세로토닌을 분비하고 정돈된 공간이 시각적 인지 부하를 줄여주는 과학적 이유를 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-19"
+updatedDate: "2026-01-19"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/anchangho_mirror_smile.png"
+tags: ["위인 습관", "도산 안창호", "거울 미소", "청결", "마인드컨트롤", "자기계발"]
+heroImage: "/images/blog/anchangho_mirror_smile.webp"
 app: "buildself"
 formatVersion: 4
 authority: "도산 안창호 평전 및 흥사단(興士團) 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

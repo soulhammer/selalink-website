@@ -1,11 +1,11 @@
 ---
 title: "가장 어려운 과제부터 아침에 처치한 거부: 앤드류 카네기의 우선순위 완결 루틴"
 description: "철강왕 앤드류 카네기가 전두엽 자원이 가장 충만한 아침 골든타임에 가장 무겁고 골치 아픈 일을 최우선 처리했던 루틴. 자아 고갈(Ego Depletion)을 예방하고 전전두엽 집행 기능을 극대화하는 인지신경과학적 원리를 밝힙니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/carnegie_priority_first.png"
+tags: ["위인 습관", "앤드류 카네기", "우선순위", "의지력", "생산성"]
+heroImage: "/images/blog/carnegie_priority_first.webp"
 app: "buildself"
 formatVersion: 4
 authority: "앤드류 카네기 자서전 『앤드류 카네기 자서전(Autobiography of Andrew Carnegie)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

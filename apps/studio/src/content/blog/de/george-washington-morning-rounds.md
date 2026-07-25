@@ -1,11 +1,11 @@
 ---
 title: "George Washingtons Landwirtschafts-Tagebuch: Die morgendliche Inspektions- und Aufzeichnungsroutine, die die Präsidialverwaltung prägte"
 description: "Erfahren Sie, wie George Washington, der um 4 Uhr morgens aufstand, um Mount Vernon zu inspizieren und Daten zu erfassen, das administrative Fundament einer Nation schuf. Entdecken Sie die Neurowissenschaften der Metakognition."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-04"
+updatedDate: "2026-07-04"
 category: "BuildSelf"
-tags: ["George Was","Routine"]
-heroImage: "/images/blog/george_washington_morning_rounds.png"
+tags: ["위인 습관", "조지 워싱턴", "행정력", "영농 일지", "메타 인지"]
+heroImage: "/images/blog/george_washington_morning_rounds.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus George Washington-Biografien, Archiven des Anwesens Mount Vernon & Forschung der kognitiven Neurowissenschaften"

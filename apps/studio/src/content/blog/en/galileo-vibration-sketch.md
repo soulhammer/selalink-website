@@ -1,11 +1,11 @@
 ---
 title: "Galileo's Pendulum Vibration Sketches: Harnessing Spatial Cognition to Simplify Complex Structures"
 description: "Discover how Galileo Galilei, the father of modern science, built intuitive physical laws by sketching geometric diagrams of swinging lamps and pendulums. Explore the cognitive neuroscience of the visuospatial sketchpad, dual-coding theory, and spatial simplification."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-01"
+updatedDate: "2026-02-01"
 category: "BuildSelf"
-tags: ["Great Habits","galileo","Routine","Stamina"]
-heroImage: "/images/blog/galileo_vibration_sketch.png"
+tags: ["시각화", "스케치", "물리학", "근세"]
+heroImage: "/images/blog/galileo_vibration_sketch.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Galileo Galilei's *Two New Sciences* & *Il Saggiatore*, University of Pisa Archives & Cognitive Neuroscience Research"

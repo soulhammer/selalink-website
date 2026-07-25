@@ -1,11 +1,11 @@
 ---
 title: "La Tablilla de Escritura en la Cabecera: La Rutina de Consolidación de Memoria Durante el Sueño de Carlomagno"
 description: "Descubra cómo Carlomagno, fundador de Europa Occidental, mantenía tablillas de cera junto a su cama para dominar la escritura, y explore la neurociencia cognitiva para maximizar la consolidación de la memoria a largo plazo durante el sueño de ondas lentas."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-20"
+updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: ["La Tablill","Routine"]
-heroImage: "/images/blog/charlemagne_lifelong_learning.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/charlemagne_lifelong_learning.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la Biografía de Eginardo *Vita Karoli Magni (Vida de Carlomagno)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"

@@ -1,11 +1,11 @@
 ---
 title: "台風のコックピットでも計器の数値に没頭したイヤハートの認知統制訓練"
 description: "大西洋単独横断に成功した初の女性飛行士で、毎朝の気象データと風の変動を精密にスクラップして飛行不安を静めました。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-31"
+updatedDate: "2026-01-31"
 category: "BuildSelf"
-tags: ["台風のコックピットで","Routine"]
-heroImage: "/images/blog/amelia_earhart.png"
+tags: ["위인 습관", "어밀리아 이어하트", "분석", "시간 관리"]
+heroImage: "/images/blog/amelia_earhart.webp"
 app: "buildself"
 formatVersion: 4
 authority: "アメリア・イヤハート自伝『The Fun of It』考証＆認知神経科学（Cognitive Neuroscience）研究"

@@ -1,11 +1,11 @@
 ---
 title: "Concentration absolue lors de l'heure dorée : La routine matinale de 2 heures de calcul en solo d'Enrico Fermi et l'immersion cognitive maximale"
 description: "Découvrez comment le physicien lauréat du prix Nobel Enrico Fermi, concepteur du premier réacteur nucléaire, exploitait son heure dorée cognitive en consacrant 2 heures matinales en solo à des calculs complexes. Explorez la neuroscience de la réponse d'éveil du cortisol."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-14"
+updatedDate: "2026-05-14"
 category: "BuildSelf"
-tags: ["Concentrat","Routine"]
-heroImage: "/images/blog/fermi_dawn_calculation_routine.png"
+tags: ["집중", "생산성", "학습"]
+heroImage: "/images/blog/fermi_dawn_calculation_routine.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de l'ouvrage de Laura Fermi *Atoms in the Family: My Life with Enrico Fermi*, des archives biographiques & de la Recherche en Neurosciences Cognitives"

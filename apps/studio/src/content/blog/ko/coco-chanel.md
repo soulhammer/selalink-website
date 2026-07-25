@@ -1,11 +1,11 @@
 ---
 title: "거추장스러운 코르셋과 장식을 과감히 쳐낸 샤넬의 본질 미니멀리즘 재단법과 전두엽 억제 필터링"
 description: "여성 패션의 혁명을 일군 전설적 디자이너 코코 샤넬. 스케치 대신 살아 움직이는 모델의 몸 위에 원단을 대고 가위로 불필요한 장식을 쳐냈던 실시간 미니멀리즘 재단 루틴과 대뇌 전두엽 억제 필터링(Suppression Filtering)의 인지신경과학적 원리를 밝힙니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-17"
+updatedDate: "2026-05-17"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/coco_chanel.png"
+tags: ["위인 습관", "코코 샤넬", "의사결정", "생산성"]
+heroImage: "/images/blog/coco_chanel.webp"
 app: "buildself"
 formatVersion: 4
 authority: "에드몽드 샤를 루 평전 『샤넬(Chanel and Her World)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

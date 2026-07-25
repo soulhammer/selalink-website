@@ -1,11 +1,11 @@
 ---
 title: "Eliminando Corsets e Adornos Excessivos: O Corte Minimalista Essencial de Coco Chanel e a Filtragem de Supressão Pré-Frontal"
 description: "Descubra como a lendária estilista Coco Chanel revolucionou a moda feminina drapeando tecidos em modelos e cortando corsets e babados. Explore a neurociência cognitiva da Filtragem de Supressão Pré-Frontal para eliminar ruídos e isolar a essência."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-17"
+updatedDate: "2026-05-17"
 category: "BuildSelf"
-tags: ["Eliminando","Routine"]
-heroImage: "/images/blog/coco_chanel.png"
+tags: ["위인 습관", "코코 샤넬", "의사결정", "생산성"]
+heroImage: "/images/blog/coco_chanel.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica da Biografia de Edmonde Charles-Roux *Chanel e Seu Mundo (Chanel and Her World)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)"

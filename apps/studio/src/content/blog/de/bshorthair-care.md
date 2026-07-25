@@ -16,23 +16,23 @@ faqs:
     answer: "Sie schätzen ihre Unabhängigkeit und fühlen sich unsicher, wenn ihre Pfoten den Boden verlieren. Erzwungenes Tragen kann die Bindung schädigen."
 ---
 
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+Mit ihren runden Gesichtern und dem muskulösen Bau sind British Shorthairs sanfte Riesen. Ihr stämmiger Körper führt jedoch dazu, dass Übergewicht Gelenkschäden verursacht. Sie sind zudem anfällig für Hypertrophe Kardiomyopathie (HCM), die durch Übergewicht verschlimmert wird. Heute stellt PetSelf eine 3-Schritte-Routine vor.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Veterinärmedizinische & verhaltensbedingte Nachweise
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Dieser Inhalt basiert auf <strong>GCCF-British-Shorthair-Standards und AAFP-Adipositasrichtlinien</strong>.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+    🐾 British Shorthair Rasseprofil
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Lebenserwartung</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 15 Jahre</span></div>
@@ -43,7 +43,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
 
 ## 1. Körpersprache der British Shorthair: DistanzBlick und SchwanzZucken
 
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+British Shorthairs mögen kein einengendes Halten und zeigen Vertrauen durch 'sanftes Anstarren' aus der Ferne. Dagegen zeigt ein 'Schwanzzucken' bei Ärger an. Das Halten in dieser Zeit löst Stress aus.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -77,7 +77,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Morgen: Strenge Messung der Futtermenge mit Küchenwaage</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+    Um einer durch Übergewicht bedingten HCM vorzubeugen, wiegen Sie das Futter auf einer Waage ab.
   </p>
 </div>
 
@@ -87,7 +87,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Nachmittag: Unterfellpflege mit einer Gummi-Katzenbürste</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+    Obwohl sie kurzhaarig sind, haben sie dichtes Fell. Bürsten Sie 5 Minuten lang mit einer Gummibürste, um Haare zu entfernen.
   </p>
 </div>
 
@@ -97,7 +97,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Abend: Atemfrequenzprüfung für HCM und ruhiges Spiel</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+    Prüfen Sie, ob die Atemfrequenz im Schlaf unter 30 Zügen pro Minute liegt, und spielen Sie leicht mit Wollbällen.
   </p>
 </div>
 
@@ -106,7 +106,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Das einfache Beobachten der Beschwichtigungssignale Ihres Haustiers kann schwerwiegende Verhaltensprobleme und stressbedingte Krankheiten verhindern. Während eine tierärztliche Behandlung wichtig ist, ist eine sichere Umgebung (Treppen, vertikale Räume, mehrere Wasserstellen) der stärkste Schutz für ihr lebenslanges Glück.
     </p>
   </div>
 </div>
@@ -124,7 +124,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Sie haben einen schweren Körperbau und sind anfällig für HCM. Übergewicht belastet das Herz zusätzlich und erhöht das Risiko von Herzversagen.
     </p>
   </details>
 
@@ -134,7 +134,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Sie schätzen ihre Unabhängigkeit und fühlen sich unsicher, wenn ihre Pfoten den Boden verlieren. Erzwungenes Tragen kann die Bindung schädigen.
     </p>
   </details>
 </div>

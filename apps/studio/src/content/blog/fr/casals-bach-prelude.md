@@ -1,11 +1,11 @@
 ---
 title: "Accorder l'âme : La routine matinale du prélude de Bach et l'induction d'ondes alpha de Pablo Casals"
 description: "Découvrez comment le célèbre violoncelliste Pablo Casals a commencé chaque matin pendant plus de 80 ans en jouant Le Clavier bien tempéré de Bach, et explorez les mécanismes neuroscientifiques montrant comment l'entraînement musical active les ondes alpha et équilibre le système nerveux autonome."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-24"
+updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: ["Accorder l","Routine"]
-heroImage: "/images/blog/casals_bach_prelude.png"
+tags: ["위인 습관", "파블로 카살스", "안정", "명상", "창의성", "루틴"]
+heroImage: "/images/blog/casals_bach_prelude.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de l'autobiographie de Pablo Casals *Joies et peines (Joys and Sorrows: Reflections by Pablo Casals)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

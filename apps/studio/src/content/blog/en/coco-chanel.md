@@ -1,11 +1,11 @@
 ---
 title: "Stripping Away Corsets and Ornamentation: Coco Chanel's Essential Minimalist Tailoring and Prefrontal Suppression Filtering"
 description: "Discover how legendary fashion pioneer Coco Chanel revolutionised women's wear by draping raw fabric on live models and snipping away ornate corsets and frills. Uncover the cognitive neuroscience of prefrontal Suppression Filtering that strips cognitive noise to preserve core essence."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-17"
+updatedDate: "2026-05-17"
 category: "BuildSelf"
-tags: ["Great Habits","coco","Routine","Stamina"]
-heroImage: "/images/blog/coco_chanel.png"
+tags: ["위인 습관", "코코 샤넬", "의사결정", "생산성"]
+heroImage: "/images/blog/coco_chanel.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Edmonde Charles-Roux's Biography *Chanel and Her World* & Cognitive Neuroscience Research"

@@ -1,11 +1,11 @@
 ---
 title: "영혼의 조율: 파블로 카살스의 아침 바흐 전주곡 루틴과 알파파 유도법"
 description: "80년 넘게 매일 아침 바흐의 평균율 클라비어 곡집을 연주하며 하루를 시작한 거장 첼리스트 파블로 카살스. 음악적 동조화(Musical Entrainment)가 알파파를 활성화하고 자율신경계 균형을 유도하는 신경과학적 원리를 밝힙니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-24"
+updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/casals_bach_prelude.png"
+tags: ["위인 습관", "파블로 카살스", "안정", "명상", "창의성", "루틴"]
+heroImage: "/images/blog/casals_bach_prelude.webp"
 app: "buildself"
 formatVersion: 4
 authority: "파블로 카살스 자서전 『나의 기쁨과 슬픔(Joys and Sorrows)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

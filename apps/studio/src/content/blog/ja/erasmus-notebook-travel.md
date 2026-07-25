@@ -1,11 +1,11 @@
 ---
 title: "エラズムスの旅行用手帳：移動中にひらめくアイデアを捉えるノート術と没頭ルーティン"
 description: "ルネサンスの代表的学者エラズマスが欧州を横断する馬車の中でポケット手帳を活用し『愚神礼賛』の草稿を執筆しアイデアを捉えた秘訣を解き明かします。アルファ波誘導と視覚的フローの認知神経科学的原理を解剖します。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-11"
+updatedDate: "2026-06-11"
 category: "BuildSelf"
-tags: ["エラズムスの旅行用手","Routine"]
-heroImage: "/images/blog/erasmus_notebook_travel.png"
+tags: ["메모", "이동식학습", "인문주의", "르네상스"]
+heroImage: "/images/blog/erasmus_notebook_travel.webp"
 app: "buildself"
 formatVersion: 4
 authority: "デシデリウス・エラズマス書簡集（Epistolae）およびヨハン・ホイジンガ評伝『エラズマス（Erasmus）』考証＆認知神経科学（Cognitive Neuroscience）研究"

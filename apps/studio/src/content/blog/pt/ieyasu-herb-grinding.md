@@ -1,11 +1,11 @@
 ---
 title: "O Ritmo da Paciência e Serenidade: A Rotina de Moagem de Ervas de Tokugawa Ieyasu e a Regulação de Serotonina"
 description: "Explore o método de cultivo mental de Tokugawa Ieyasu. Descubra como sua rotina diária de moer ervas com pilão estimulava o movimento rítmico, ativando a serotonina e acalmando a amígdala."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-01"
+updatedDate: "2026-04-01"
 category: "BuildSelf"
-tags: ["O Ritmo da","Routine"]
-heroImage: "/images/blog/ieyasu_herb_grinding.png"
+tags: ["위인 습관", "도쿠가와 이에야스", "생약 조제", "리듬 운동", "인내력", "마인드컨트롤"]
+heroImage: "/images/blog/ieyasu_herb_grinding.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica das Biografias de Tokugawa Ieyasu, Arquivos do Museu de Arte Tokugawa e Pesquisa em Neurociência Cognitiva"

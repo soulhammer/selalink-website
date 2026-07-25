@@ -1,11 +1,11 @@
 ---
 title: "Intuición en la Yema de los Dedos e Innovación de 6 Puntos: La Rutina de Simplificación Esencial y Agrupamiento de Louis Braille"
 description: "Descubra cómo Louis Braille simplificó la compleja escritura nocturna militar de 12 puntos en un sistema táctil de 6 puntos que cabe bajo la yema de un solo dedo, revolucionando el acceso al conocimiento, y explore los principios neurocientíficos del agrupamiento de memoria de trabajo táctil."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-04"
+updatedDate: "2026-05-04"
 category: "BuildSelf"
-tags: ["Intuición ","Routine"]
-heroImage: "/images/blog/braille_tactile_simplification.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/braille_tactile_simplification.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la Biografía de C. Michael Mellor *Louis Braille: A Touch of Genius* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"

@@ -1,11 +1,11 @@
 ---
 title: "身着蓝色长袍凝望晨玫瑰的画擘：古斯塔夫·克里姆特的花园踱步习惯与软性着迷（Soft Fascination）"
 description: "深度剖析金色艺术大师古斯塔夫·克里姆特如何通过每日清晨漫步于奥地利阿特湖畔的花园、观照花卉与自然分形图形复苏视注意力。揭示注意力恢复理论（ART）、前额叶充能与3步骤实践指南。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-14"
+updatedDate: "2026-07-14"
 category: "BuildSelf"
-tags: ["身着蓝色长袍凝望晨玫","Routine"]
-heroImage: "/images/blog/klimt_gardening_nature_refresh.png"
+tags: ["위인 습관", "Routine"]
+heroImage: "/images/blog/klimt_gardening_nature_refresh.webp"
 app: "buildself"
 formatVersion: 4
 authority: "古斯塔夫·克里姆特传记与阿特湖档案（Attersee Archive）史料考证及认知神经科学（Cognitive Neuroscience）与环境心理学（Environmental Psychology）研究"

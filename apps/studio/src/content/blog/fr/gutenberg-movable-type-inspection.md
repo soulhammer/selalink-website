@@ -1,11 +1,11 @@
 ---
 title: "Le maître de la révolution de l'imprimerie : La routine matinale d'inspection de précision des caractères mobiles et le mécanisme ERN de Gutenberg"
 description: "Découvrez comment Gutenberg, inventeur des caractères métalliques mobiles, préservait les normes de qualité en inspectant le niveau des caractères chaque matin. Explorez la neuroscience du cortex cingulaire antérieur (ACC) et de la négativité liée à l'erreur (ERN)."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-04"
+updatedDate: "2026-06-04"
 category: "BuildSelf"
-tags: ["Le maître ","Routine"]
-heroImage: "/images/blog/gutenberg_movable_type_inspection.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/gutenberg_movable_type_inspection.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue des biographies de Johannes Gutenberg, des archives du Gutenberg Museum de Mayence & de la Recherche en Neurosciences Cognitives"

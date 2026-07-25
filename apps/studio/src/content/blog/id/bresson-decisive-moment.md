@@ -1,11 +1,11 @@
 ---
 title: "Geometri Momen dan Pandangan Terfokus: Rutinitas Pengamatan 'Momen الحاسم' Henri Cartier-Bresson"
 description: "Pelajari bagaimana Henri Cartier-Bresson, maestro fotojurnalisme modern, mempraktikkan imersi visual dengan menantikan harmoni geometris yang sempurna dan momen-momen singkat. Temukan mekanisme neurosains dari membatalkan filter pengkodean prediktif untuk mengaktifkan korteks visual dan jaringan perhatian prefrontal."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-08"
+updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: ["Geometri M","Routine"]
-heroImage: "/images/blog/bresson_decisive_moment.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/bresson_decisive_moment.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Buku Foto Henri Cartier-Bresson *Images à la sauvette / The Decisive Moment* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

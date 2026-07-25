@@ -1,11 +1,11 @@
 ---
 title: "Das Genie mit dem Notizbuch am Gürtel: Leonardo da Vincis sofortige Notizroutine und Externalisierung des Arbeitsgedächtnisses"
 description: "Erkunden Sie, wie das Renaissance-Genie Leonardo da Vinci ein ledergebundenes Notizbuch am Gürtel trug, um Beobachtungen sofort festzuhalten. Entdecken Sie die kognitiven Neurowissenschaften der Externalisierung des Arbeitsgedächtnisses."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-29"
+updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: ["Das Genie ","Routine"]
-heroImage: "/images/blog/da_vinci_notepad.png"
+tags: ["위인 습관", "레오나르도 다 빈치", "메모", "기록", "창의성"]
+heroImage: "/images/blog/da_vinci_notepad.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Walter Isaacsons Biografie *Leonardo da Vinci* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

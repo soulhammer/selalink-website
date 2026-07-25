@@ -1,11 +1,11 @@
 ---
 title: "30 Minutes Every Morning: Benjamin Franklin's Curious 'Air Bath' Health Method and Autonomic Reset Routine"
 description: "Discover how Benjamin Franklin, lightning rod inventor and US Founding Father, practiced his daily morning 'air bath' sitting naked by open windows. Explore the neuroscience of skin cold receptors (TRPM8), norepinephrine arousal, and autonomic nervous system regulation."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-12"
+updatedDate: "2026-02-12"
 category: "BuildSelf"
-tags: ["Great Habits","franklin","Routine","Stamina"]
-heroImage: "/images/blog/franklin_air_bath.png"
+tags: ["위인 습관", "벤자민 프랭클린", "아침 루틴", "면역력", "각성"]
+heroImage: "/images/blog/franklin_air_bath.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from *The Autobiography of Benjamin Franklin*, Franklin's Letters to M. Barbeu Dubourg & Cognitive Neuroscience Research"

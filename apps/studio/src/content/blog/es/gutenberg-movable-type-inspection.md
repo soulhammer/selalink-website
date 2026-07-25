@@ -1,11 +1,11 @@
 ---
 title: "El Maestro de la Revolución de la Imprenta: La Rutina de Inspección de Precisión de Tipos Móviles y Mecanismo ERN de Gutenberg"
 description: "Descubra cómo Gutenberg, inventor de los tipos móviles metálicos, preservó los estándares de impresión al inspeccionar la nivelación de los tipos cada mañana. Explore la neurociencia de la corteza cingulada anterior (ACC) y la negatividad relacionada con errores (ERN)."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-04"
+updatedDate: "2026-06-04"
 category: "BuildSelf"
-tags: ["El Maestro","Routine"]
-heroImage: "/images/blog/gutenberg_movable_type_inspection.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/gutenberg_movable_type_inspection.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de las Biografías de Johannes Gutenberg, Archivos del Museo Gutenberg de Maguncia e Investigación en Neurociencia Cognitiva"

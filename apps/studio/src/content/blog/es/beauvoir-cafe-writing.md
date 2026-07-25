@@ -1,11 +1,11 @@
 ---
 title: "Inmersión Entre el Ruido: La Rutina de Ruido Blanco en Cafés y Simplificación Ambiental de Simone de Beauvoir"
 description: "Descubra la rutina de escritura que la filósofa existencialista y novelista Simone de Beauvoir practicaba a diario en su café favorito de París con una taza de té, y explore los mecanismos neurológicos del ruido blanco suave junto con métodos para construir su propia Zona de Enfoque."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-08"
+updatedDate: "2026-06-08"
 category: "BuildSelf"
-tags: ["Inmersión ","Routine"]
-heroImage: "/images/blog/beauvoir_cafe_writing.png"
+tags: ["매일 같은 카페에서","Routine"]
+heroImage: "/images/blog/beauvoir_cafe_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la Autobiografía de Simone de Beauvoir *La fuerza de las cosas (La Force des choses)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"

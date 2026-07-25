@@ -1,11 +1,11 @@
 ---
 title: "Despertando a Soletração na Palma da Mão na Escuridão: A Rotina de Treinamento de Imitação Tátil e Plasticidade Somatossensorial de Helen Keller"
 description: "Descubra como Helen Keller, que superou a surdocegueira para se tornar uma escritora e ativista dos direitos humanos mundialmente famosa, expandiu seu universo interior estimulando seu córtex somatossensorial por meio da soletração tátil na palma da mão."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-12"
+updatedDate: "2026-03-12"
 category: "BuildSelf"
-tags: ["Despertand","Routine"]
-heroImage: "/images/blog/helen_keller.png"
+tags: ["위인 습관", "헬렌 켈러", "휴식", "성찰"]
+heroImage: "/images/blog/helen_keller.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica da Autobiografia de Helen Keller *A História da Minha Vida (The Story of My Life)*, Arquivos da Escola Perkins para Cego e Pesquisa em Neurociência Cognitiva"

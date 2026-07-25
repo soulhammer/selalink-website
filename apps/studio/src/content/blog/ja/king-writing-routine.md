@@ -1,11 +1,11 @@
 ---
 title: "インスピレーションを飼い慣らす方法：スティーブン・キングの毎日2,000単語執筆ルーティンと没頭条件づけ"
 description: "世界で最も成功した作家スティーブン・キングの執筆ルーティン。感覚運動学習（Sensorimotor Learning）と条件づけトリガーを活用し、前頭前野の意志力消耗なしに毎日一定の生産性を維持する3段階の秘密を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-18"
+updatedDate: "2026-05-18"
 category: "BuildSelf"
-tags: ["インスピレーションを","Routine"]
-heroImage: "/images/blog/king_writing_routine.png"
+tags: ["위인 습관", "스티븐 킹", "집필", "루틴", "창의성", "조건형성"]
+heroImage: "/images/blog/king_writing_routine.webp"
 app: "buildself"
 formatVersion: 4
 authority: "スティーブン・キング自伝『スティーブン・キングの書籍執筆術（On Writing: A Memoir of the Craft, 2000）』史料考証＆認知神経科学（Cognitive Neuroscience）および認知心理学（Cognitive Psychology）研究"

@@ -1,11 +1,11 @@
 ---
 title: "Libérer la créativité subconsciente via l'association de 10 mots : La routine de pensée divergente de Ray Bradbury"
 description: "Découvrez comment Ray Bradbury, le père de la science-fiction moderne, notait 10 mots aléatoires chaque matin pour composer des micro-histoires, et percez les principes neuroscientifiques stimulant les chaînes d'association subconscientes pour maximiser la pensée divergente."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-16"
+updatedDate: "2026-06-16"
 category: "BuildSelf"
-tags: ["Libérer la","Routine"]
-heroImage: "/images/blog/bradbury.png"
+tags: ["위인 습관", "레이 브래드버리", "아이디어", "창의성"]
+heroImage: "/images/blog/bradbury.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue du recueil d'essais de Ray Bradbury *Le Zen dans l'art de l'écriture (Zen in the Art of Writing)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

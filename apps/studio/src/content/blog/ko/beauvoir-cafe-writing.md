@@ -1,11 +1,11 @@
 ---
 title: "소음 속의 몰입: 시몬 드 보부아르의 카페 백색 소음과 환경 단순화 루틴"
 description: "실존주의 사상가이자 소설가 시몬 드 보부아르가 파리의 단골 카페에서 차 한 잔을 두고 매일 실천했던 집필 루틴. 잔잔한 백색 소음이 뇌를 깨우는 신경학적 원리와 나만의 몰입 작업 구역(Focus Zone) 구축법을 밝힙니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-08"
+updatedDate: "2026-06-08"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/beauvoir_cafe_writing.png"
+tags: ["매일 같은 카페에서","Routine"]
+heroImage: "/images/blog/beauvoir_cafe_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "시몬 드 보부아르 자서전 『세월의 힘(La Force des choses)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

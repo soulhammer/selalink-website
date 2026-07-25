@@ -1,11 +1,11 @@
 ---
 title: "Treinamento de Controle Cognitivo de Earhart: Imersa nas Leituras dos Instrumentos Mesmo no Cockpit em Meio à Tempestade"
 description: "A primeira aviadora a cruzar o Atlântico solo com sucesso, ela acalmava a ansiedade de voo compilando com precisão os dados meteorológicos e as variações do vento todas as manhãs."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-31"
+updatedDate: "2026-01-31"
 category: "BuildSelf"
-tags: ["Treinament","Routine"]
-heroImage: "/images/blog/amelia_earhart.png"
+tags: ["위인 습관", "어밀리아 이어하트", "분석", "시간 관리"]
+heroImage: "/images/blog/amelia_earhart.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica da Autobiografia de Amelia Earhart *The Fun of It* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)"

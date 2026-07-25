@@ -1,11 +1,11 @@
 ---
 title: "Wunder um 4 Uhr morgens: Kobe Bryants Mamba-Trainingsroutine"
 description: "Erkunden Sie, wie die Basketball-Ikone Kobe Bryant täglich um 4 Uhr morgens seine erste Trainingseinheit begann, und entdecken Sie die neurowissenschaftlichen und physiologischen Prinzipien, wie beständiges Frühtraining den zirkadianen Rhythmus festigt und die körperliche Leistungsfähigkeit steigert."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-19"
+updatedDate: "2026-01-19"
 category: "BuildSelf"
-tags: ["Wunder um ","Routine"]
-heroImage: "/images/blog/bryant_four_am_workout.png"
+tags: ["위인 습관", "코비 브라이언트", "성장", "의지력", "신체활성"]
+heroImage: "/images/blog/bryant_four_am_workout.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Kobe Bryants Autobiografie *Mentalität Mamba: Wie ich spiele (The Mamba Mentality: How I Play)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

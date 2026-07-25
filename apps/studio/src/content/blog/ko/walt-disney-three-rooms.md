@@ -1,11 +1,11 @@
 ---
 title: "월트 디즈니의 '세 개의 방' 루틴: 상상하고, 실행하고, 비판하라"
 description: "창의적인 공상을 거대한 비즈니스로 실현시킨 월트 디즈니. 몽상가, 현실주의자, 비평가로 생각을 명확히 분리하여 아이디어를 정교화하는 '세 개의 방' 루틴을 소개합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-16"
+updatedDate: "2026-04-16"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/walt_disney_three_rooms.png"
+tags: ["위인 습관", "월트 디즈니", "기획력", "창의성", "아이디어"]
+heroImage: "/images/blog/walt_disney_three_rooms.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Walt Disney Three Rooms 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

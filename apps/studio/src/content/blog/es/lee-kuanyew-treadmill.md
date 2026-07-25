@@ -1,11 +1,11 @@
 ---
 title: "Sudando el Estrés de la Construcción de una Nación: La Meditación Post-Entrenamiento de Lee Kuan Yew y la Homeostasis Autónoma"
 description: "Descubra cómo Lee Kuan Yew, primer ministro fundador de Singapur, manejaba el estrés de gobierno combinando 30 minutos de carrera en cinta con 20 minutos de meditación. Explore la alternancia del sistema nervioso autónomo, la eliminación del cortisol y un guía de 3 pasos."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-05"
+updatedDate: "2026-04-05"
 category: "BuildSelf"
-tags: ["Sudando el","Routine"]
-heroImage: "/images/blog/lee_kuanyew_treadmill.png"
+tags: ["위인 습관", "리콴유", "유산소운동", "호흡명상", "자율신경계"]
+heroImage: "/images/blog/lee_kuanyew_treadmill.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la Autobiografía de Lee Kuan Yew *The Singapore Story*, Archivos Nacionales de Singapur e Investigación en Neurociencia Cognitiva y Fisiología del Ejercicio"

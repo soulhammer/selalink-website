@@ -1,11 +1,11 @@
 ---
 title: "Das eigene Spiegelbild im Baldachin malen: Frida Kahlos Selbstporträt-Routine und Spiegel-Fokussierung"
 description: "Erfahren Sie, wie die mexikanische Malerin Frida Kahlo körperliche Schmerzen überwand, indem sie mithilfe eines Baldachinspiegels Selbstporträts malte. Entdecken Sie die klinische Psychologie der Spiegel-Betrachtung und Resilienz."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-07"
+updatedDate: "2026-06-07"
 category: "BuildSelf"
-tags: ["Das eigene","Routine"]
-heroImage: "/images/blog/kahlo_mirror_painting.png"
+tags: ["위인 습관", "프리다 칼로", "거울 명상", "치유", "회복탄력성"]
+heroImage: "/images/blog/kahlo_mirror_painting.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus *Das Tagebuch der Frida Kahlo*, Hayden Herreras Biografie & Forschung der klinischen Psychologie und kognitiven Neurowissenschaften"

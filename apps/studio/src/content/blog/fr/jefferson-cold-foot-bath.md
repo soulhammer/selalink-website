@@ -1,11 +1,11 @@
 ---
 title: "La méthode du bain de pieds à l'eau froide de Thomas Jefferson : Une routine de réveil cérébral de 60 ans et la régulation de la Noradrénaline"
 description: "Découvrez comment Thomas Jefferson, principal rédacteur de la Déclaration d'indépendance, a éveillé son cerveau pendant 60 ans en trempant ses pieds dans l'eau froide chaque matin. Explorez la neuroscience de la stimulation du système nerveux autonome et de la noradrénaline."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-17"
+updatedDate: "2026-04-17"
 category: "BuildSelf"
-tags: ["La méthode","Routine"]
-heroImage: "/images/blog/jefferson_cold_foot_bath.png"
+tags: ["위인 습관", "토머스 제퍼슨", "에너지", "아침 루틴", "각성"]
+heroImage: "/images/blog/jefferson_cold_foot_bath.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue des *Écrits de Thomas Jefferson*, des archives de Monticello & de la Recherche en Neurosciences Cognitives"

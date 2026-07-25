@@ -1,11 +1,11 @@
 ---
 title: "천재 수학자의 답은 휴식 중에 나왔다? 앙리 푸앵카레의 4시간 집중 제한 루틴"
 description: "천재 과학자 앙리 푸앵카레의 성공 공식인 하루 4시간 집중 한계 설정법. 뇌의 집중 모드와 분산 모드를 활용해 무의식적으로 창의적 영감을 얻는 3단계 가이드를 소개합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-19"
+updatedDate: "2026-04-19"
 category: "BuildSelf"
-tags: ["Great Habits","poincare","Routine","Stamina"]
-heroImage: "/images/blog/poincare_time_limitation.png"
+tags: ["위인 습관", "앙리 푸앵카레", "무의식", "집중력", "창의성", "휴식"]
+heroImage: "/images/blog/poincare_time_limitation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "앙리 푸앵카레 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

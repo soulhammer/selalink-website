@@ -1,11 +1,11 @@
 ---
 title: "Warum in den Schützengräben des Dschungels lesen? Che Guevaras vertiefte Leseroutine und kognitive Umstrukturierung"
 description: "Erkunden Sie, wie der kubanische Revolutionsheld Che Guevara inmitten der Guerillakriegsführung täglich dicke Bücher las, und entdecken Sie die kognitiven Neurowissenschaften, wie vertieftes Lesen präfrontale Kontrollnetzwerke aktiviert und Überlebensstress abfedert."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-09"
+updatedDate: "2026-02-09"
 category: "BuildSelf"
-tags: ["Warum in d","Routine"]
-heroImage: "/images/blog/che_guevara_reading.png"
+tags: ["위인 습관", "체게바라", "매일독서", "인지재구조화", "신념단련"]
+heroImage: "/images/blog/che_guevara_reading.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Jon Lee Andersons Biografie *Che: Die Biografie (Che Guevara: A Revolutionary Life)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

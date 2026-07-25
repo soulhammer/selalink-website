@@ -1,11 +1,11 @@
 ---
 title: "喧嚣中的专注：西蒙娜·德·波伏娃的咖啡馆白噪音与环境简化习惯"
 description: "探索存在主义哲学家兼小说家西蒙娜·德·波伏娃每天在巴黎常去的咖啡馆品茶写作的习惯，揭示温和白噪音唤醒大脑的神经学原理，并介绍构建专属“专注工作区（Focus Zone）”的方法。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-08"
+updatedDate: "2026-06-08"
 category: "BuildSelf"
-tags: ["喧嚣中的专注：西蒙娜","Routine"]
-heroImage: "/images/blog/beauvoir_cafe_writing.png"
+tags: ["매일 같은 카페에서","Routine"]
+heroImage: "/images/blog/beauvoir_cafe_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "西蒙娜·德·波伏娃自传《岁月的力量（La Force des choses）》考证与认知神经科学（Cognitive Neuroscience）研究"

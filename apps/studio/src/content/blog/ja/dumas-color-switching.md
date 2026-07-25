@@ -1,11 +1,11 @@
 ---
 title: "原稿用紙の色をジャンル別に変えた天才：アレクサンドル・デュマのカラーリセットルーティンと視覚的プライミング"
 description: "『モンテ・クリスト伯』の著者アレクサンドル・デュマが毎日複数のジャンルを書く中で原稿用紙の色を変えたルーティン。切り替えの認知疲労（Switching Cost）を相殺し作業記憶（Working Memory）を保護する視覚的プライミング（Color Priming）の認知神経科学적原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-07"
+updatedDate: "2026-06-07"
 category: "BuildSelf"
-tags: ["原稿用紙の色をジャン","Routine"]
-heroImage: "/images/blog/dumas_color_switching.png"
+tags: ["위인 습관", "알렉상드르 뒤마", "창의성", "색상", "생산성"]
+heroImage: "/images/blog/dumas_color_switching.webp"
 app: "buildself"
 formatVersion: 4
 authority: "アレクサンドル・デュマ自伝『Mes Mémoires（我が回想録）』考証＆認知神経科学（Cognitive Neuroscience）研究"

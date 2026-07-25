@@ -1,11 +1,11 @@
 ---
 title: "托马斯·杰斐逊的冷水足浴法：坚持60年的清晨唤醒习惯与去甲肾上腺素神经调控"
 description: "探索《美国独立宣言》主要起草人托马斯·杰斐逊60年如一日在清晨用冷水泡脚唤醒大脑的历史真相。揭示自主神经系统刺激、去甲肾上腺素与消除前额叶脑雾的神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-17"
+updatedDate: "2026-04-17"
 category: "BuildSelf"
-tags: ["托马斯·杰斐逊的冷水","Routine"]
-heroImage: "/images/blog/jefferson_cold_foot_bath.png"
+tags: ["위인 습관", "토머스 제퍼슨", "에너지", "아침 루틴", "각성"]
+heroImage: "/images/blog/jefferson_cold_foot_bath.webp"
 app: "buildself"
 formatVersion: 4
 authority: "托马斯·杰斐逊书信集《托马斯·杰斐逊书信集（The Writings of Thomas Jefferson）》史料考证及认知神经科学（Cognitive Neuroscience）研究"

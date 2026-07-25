@@ -1,11 +1,11 @@
 ---
 title: "毎日午後3時間ずつ早歩きで散策した小説家：チャールズ・ディケンズのアイデア・ルーティンとDMN活性化"
 description: "イギリスの大文豪チャールズ・ディケンズが小説の中の立体的な人物と複雑なストーリーを設計した秘訣。毎日午後3時間続いた彼の早い散策ルーティンとデフォルト・モード・ネットワーク（DMN）活性化、BDNF分泌の認知神経科学的原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-23"
+updatedDate: "2026-05-23"
 category: "BuildSelf"
-tags: ["毎日午後3時間ずつ早","Routine"]
-heroImage: "/images/blog/dickens_afternoon_walk.png"
+tags: ["위인 습관", "찰스 디킨스", "산책", "창의성", "아이디어"]
+heroImage: "/images/blog/dickens_afternoon_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ジョン・フォースター伝記『The Life of Charles Dickens』考証＆認知神経科学（Cognitive Neuroscience）研究"

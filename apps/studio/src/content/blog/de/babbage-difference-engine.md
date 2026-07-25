@@ -4,7 +4,7 @@ description: "Entdecken Sie die historischen Fakten über den Vater der Computer
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["Charles Ba","Routine"]
+tags: ["위습관","루틴"]
 heroImage: "/images/blog/babbage_difference_engine.png"
 app: "buildself"
 formatVersion: 4

@@ -1,11 +1,11 @@
 ---
 title: "Mengatasi Kelebihan Beban Keputusan dengan Berkuda Pagi: Stimulasi Aerobik Bismarck dan Rutinitas Prioritas TOP 3"
 description: "Pelajari bagaimana Otto von Bismarck, 'Kanselir Besi' yang menyatukan Jerman, menggabungkan berkuda pagi dengan metode ekstraksi prioritas TOP 3, serta temukan prinsip neurosains tentang meningkatkan aliran darah otak melalui olahraga aerobik untuk mencegah kelelahan keputusan."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-16"
+updatedDate: "2026-03-16"
 category: "BuildSelf"
-tags: ["Mengatasi ","Routine"]
-heroImage: "/images/blog/bismarck_morning_ride_priority.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/bismarck_morning_ride_priority.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Autobiografi Otto von Bismarck *Gedanken und Erinnerungen* & Biografi A.J.P. Taylor *Bismarck: The Man and the Statesman* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

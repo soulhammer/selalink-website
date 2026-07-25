@@ -15,16 +15,17 @@ faqs:
   - question: "Bagaimana cara menggendong Dachshund yang benar?"
     answer: "Topang seluruh tubuhnya. Letakkan satu tangan di bawah dada di antara kaki depan, dan tangan lainnya di bawah pantat anjing agar punggungnya tetap horizontal."
 ---
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+
+Dachshund dicintai di seluruh dunia karena bentuk tubuhnya yang unik dan kepribadiannya yang berani. Namun, karena anatomi punggung yang panjang dan kaki yang pendek, mereka sangat rentan terhadap penyakit diskus intervertebralis (IVDD). Aktivitas biasa seperti melompat dari sofa atau naik turun tangga dapat menekan tulang belakang mereka secara berbahaya. Hari ini, PetSelf mengurai bahasa tubuh anjing Dachshund yang menunjukkan stres pada punggung dan membagikan 3 langkah rutinitas perawatan untuk menjaga tulang belakang dan memperkuat otot core.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Bukti Dokter Hewan & Perilaku
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Konten ini didasarkan pada <strong>Panduan Kesehatan Dachshund American Kennel Club dan Pedoman Asosiasi Tulang Belakang Veteriner</strong>.
     </p>
   </div>
 </div>
@@ -42,7 +43,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
 
 ## 1. Sinyal Peringatan Tulang Belakang Dachshund: Sikap Berdiri dan Peregangan
 
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+Dachshund menunjukkan rasa tidak nyaman di punggung dengan gerakan halus. Berdiri dengan dua kaki belakang ('sikap meminta') memberikan beban yang sangat besar pada tulang belakang lumbar. Selain itu, punggung melengkung atau leher yang meregang kaku adalah tanda rasa sakit dini yang perlu diwaspadai.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -76,7 +77,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pagi: Pemeriksaan Mobilitas Tulang Belakang & Pijat Ringan</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+    Sebelum beraktivitas, amati apakah jalannya kaku. Pijat lembut di sepanjang garis tulang belakang untuk melihat reaksi nyeri.
   </p>
 </div>
 
@@ -86,7 +87,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Siang: Penataan Lingkungan yang Aman bagi Punggung</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+    Pastikan kemiringan ramp di dekat sofa stabil dan tidak licin. Pasang gerbang pengaman di akses jalan tangga.
   </p>
 </div>
 
@@ -96,7 +97,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Malam: Jalan di Area Rata untuk Memperkuat Core dan Kontrol Berat Badan</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+    Untuk melatih otot perut guna menyangga punggung, berjalanlah santai di rumput datar. Timbang makanan dengan ketat demi cegah obesitas.
   </p>
 </div>
 
@@ -105,7 +106,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Cukup dengan mengamati sinyal penenang hewan peliharaan Anda, Anda dapat mencegah masalah perilaku utama dan penyakit akibat stres. Meskipun perawatan medis penting, menyediakan lingkungan yang aman (tangga ramah hewan, ruang vertikal, beberapa sumber air) adalah pelindung terkuat untuk mendukung kebahagiaan seumur hidup mereka.
     </p>
   </div>
 </div>
@@ -123,7 +124,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Naik turun tangga memberikan benturan berulang dan keras pada tulang belakang Dachshund yang panjang. Sebaiknya halangi tangga dan gendong anjing Anda saat melewati tangga.
     </p>
   </details>
 
@@ -133,7 +134,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Topang seluruh tubuhnya. Letakkan satu tangan di bawah dada di antara kaki depan, dan tangan lainnya di bawah pantat anjing agar punggungnya tetap horizontal.
     </p>
   </details>
 </div>

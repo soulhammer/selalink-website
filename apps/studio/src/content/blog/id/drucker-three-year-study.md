@@ -1,11 +1,11 @@
 ---
 title: "Petualangan Intelektual Memulai Ulang Kehidupan Setiap 3 Tahun: Rutinitas Studi Multidisiplin dan Neuroplastisitas ala Peter Drucker"
 description: "Pelajari bagaimana guru manajemen Peter Drucker menguasai disiplin akademis baru setiap 3 tahun sepanjang hidupnya. Temukan neurosains kognitif tentang neuroplastisitas dan sintesis multidisiplin."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["Petualanga","Routine"]
-heroImage: "/images/blog/drucker_three_year_study.png"
+tags: ["위인 습관", "피터 드러커", "학습", "자기계발", "시간 관리"]
+heroImage: "/images/blog/drucker_three_year_study.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Autobiografi Peter Drucker *Adventures of a Bystander* & *Managing Oneself* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

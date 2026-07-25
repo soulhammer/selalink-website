@@ -1,11 +1,11 @@
 ---
 title: "No Molestar Cuando la Almohada Esté Erguida: La Señal de Inmersión de Louisa May Alcott"
 description: "Presentamos el 'Mood Pillow' (almohada del estado de ánimo), una señal de inmersión utilizada por Louisa May Alcott, autora de 'Mujercitas'. Descubra una guía de 3 pasos para reducir los costos de cambio cognitivo bloqueando las distracciones del entorno."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["No Molesta","Routine"]
-heroImage: "/images/blog/alcott_mood_ribbon.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/alcott_mood_ribbon.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Louisa May Alcott, *Her Life, Letters, and Journals* (1889) e Investigación en *Journal of Personality and Social Psychology*"

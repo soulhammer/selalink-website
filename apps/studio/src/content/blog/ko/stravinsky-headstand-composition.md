@@ -1,11 +1,11 @@
 ---
 title: "거꾸로 서는 영감: 스트라빈스키의 물구나무 창의법"
 description: "작곡 중 슬럼프가 올 때마다 물구나무를 섰던 음악가 이고르 스트라빈스키. 물리적 자세 변화가 뇌 혈류량을 늘리고 창의적 돌파구를 만드는 과학적 원리를 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/stravinsky_headstand_composition.png"
+tags: ["위인 습관", "이고르 스트라빈스키", "리프레시", "창의성", "집중"]
+heroImage: "/images/blog/stravinsky_headstand_composition.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Stravinsky Headstand Composition 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

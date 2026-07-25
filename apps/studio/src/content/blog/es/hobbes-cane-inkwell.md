@@ -1,11 +1,11 @@
 ---
 title: "El Filósofo que Montó un Tintero en su Bastón: El Método de Anotación Inmediata y Rutina de Externalización Cognitiva de Thomas Hobbes"
 description: "Descubra cómo el pensador Thomas Hobbes adjuntó un tintero a su bastón para capturar ideas de inmediato. Explore la neurociencia de la expansión de la memoria de trabajo, la Red por Defecto (DMN) y la externalización cognitiva."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-16"
+updatedDate: "2026-03-16"
 category: "BuildSelf"
-tags: ["El Filósof","Routine"]
-heroImage: "/images/blog/hobbes_cane_inkwell.png"
+tags: ["산책 지팡이에 잉크","Routine"]
+heroImage: "/images/blog/hobbes_cane_inkwell.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de *Breves vidas (Brief Lives)* de John Aubrey, Archivos de Thomas Hobbes e Investigación en Neurociencia Cognitiva"

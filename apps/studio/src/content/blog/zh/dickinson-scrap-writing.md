@@ -1,11 +1,11 @@
 ---
 title: "信封背面的伟大灵感：艾米莉·狄金森的边角料笔记习惯与孵化放松法"
 description: "探索美国天才诗人艾米莉·狄金森在厨房烤面包时将诗句即兴写于收据与包装纸边角料上的习惯，揭示将其预设模式网络（DMN）与孵化（Incubation）效应极大化的认知神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-02"
+updatedDate: "2026-05-02"
 category: "BuildSelf"
-tags: ["信封背面的伟大灵感：","Routine"]
-heroImage: "/images/blog/dickinson_scrap_writing.png"
+tags: ["위인 습관", "에밀리디킨슨", "영수증시", "즉흥기록", "창의성"]
+heroImage: "/images/blog/dickinson_scrap_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "理查德·B. 西沃尔传记《艾米莉·狄金森传（The Life of Emily Dickinson）》考证与认知神经科学（Cognitive Neuroscience）研究"

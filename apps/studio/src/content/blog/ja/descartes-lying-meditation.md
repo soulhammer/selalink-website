@@ -1,11 +1,11 @@
 ---
 title: "ベッドで昼まで起きなかった天才：ルネ・デカルテの瞑想思索ルーティンとアルファ波リラックス"
 description: "近代哲学の父であり数学者のルネ・デカルテが毎朝ベッドに横たわり思索と瞑想に没頭したルーティン。水平姿勢維持による低コルチゾール状態とアルファ波（Alpha Wave）誘導の認知神経科学的原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-25"
+updatedDate: "2026-01-25"
 category: "BuildSelf"
-tags: ["ベッドで昼まで起きな","Routine"]
-heroImage: "/images/blog/descartes_lying_meditation.png"
+tags: ["위인 습관", "르네 데카르트", "아침 루틴", "명상", "집중력"]
+heroImage: "/images/blog/descartes_lying_meditation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ルネ・デカルテ『Discourse on the Method（方法序説）』考証＆認知神経科学（Cognitive Neuroscience）研究"

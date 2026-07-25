@@ -1,11 +1,11 @@
 ---
 title: "降速至1秒单键无错弹奏：弗朗茨·李斯特的小脑运动学习习惯与神经髓鞘化指南"
 description: "深度剖析音乐史上拥有绝代技巧的钢琴家弗朗茨·李斯特。揭示其放弃盲目乱弹速奏、转而将节拍器降速至1秒1键展开慢速无错学习（Errorless Learning）、锤炼小脑（Cerebellum）与诱发神经髓鞘化（Myelination）的原理与3步骤指南。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-14"
+updatedDate: "2026-04-14"
 category: "BuildSelf"
-tags: ["降速至1秒单键无错弹","Routine"]
-heroImage: "/images/blog/liszt.png"
+tags: ["위인 습관", "프란츠 리스트", "의지력", "시간 관리"]
+heroImage: "/images/blog/liszt.webp"
 app: "buildself"
 formatVersion: 4
 authority: "艾伦·沃克传记《弗朗茨·李斯特：巨擘岁月（Franz Liszt: The Virtuoso Years）》史料考证及认知神经科学（Cognitive Neuroscience）与运动学习学（Motor Learning Science）研究"

@@ -1,11 +1,11 @@
 ---
 title: "Suara yang Melahirkan Kalimat Sempurna: Kebiasaan Deklamasi 'Gueuloir' dan Rutinitas Umpan Balik Auditif Gustave Flaubert"
 description: "Pelajari bagaimana novelis Gustave Flaubert, yang terobsesi dengan 'le mot juste' (kata yang tepat), mencapai kesempurnaan gaya bahasa. Temukan neurosains kognitif di balik ruang deklamasi 'Gueuloir', teori pengodean ganda, dan umpan balik auditif."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-20"
+updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: ["Suara yang","Routine"]
-heroImage: "/images/blog/flaubert_gueuloir_recitation.png"
+tags: ["글쓰기", "창의성", "기록"]
+heroImage: "/images/blog/flaubert_gueuloir_recitation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari *Correspondance* Gustave Flaubert, Biografi Sastra & Penelitian Neurosains Kognitif"

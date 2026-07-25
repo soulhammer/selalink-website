@@ -1,11 +1,11 @@
 ---
 title: "Berburu Inspirasi Singkat: Rutinitas Pencatatan Cepat Buku Catatan Saku ala Bruce Lee"
 description: "Pelajari bagaimana seniman bela diri dan ikon film abad ke-20 Bruce Lee membawa buku catatan saku untuk menangkap wawasan filosofis dan konsep seni bela diri secara real-time, serta temukan mekanisme kognitif stimulasi RAS di balik pencatatan instan."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-06"
+updatedDate: "2026-04-06"
 category: "BuildSelf"
-tags: ["Berburu In","Routine"]
-heroImage: "/images/blog/brucelee_pocket_notebook.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/brucelee_pocket_notebook.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Biografi John Little *Bruce Lee: Artist of Life* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

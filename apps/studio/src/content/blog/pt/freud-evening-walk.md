@@ -1,11 +1,11 @@
 ---
 title: "A Caminhada de 3 Milhas que Despertou o Inconsciente: A Rotina Noturna de Caminhada Rápida e Diário do Inconsciente de Sigmund Freud"
 description: "Descubra como Sigmund Freud, o pai da psicanálise, restaurava o equilíbrio cerebral e acessava o inconsciente fazendo caminhadas rápidas de 3 milhas por Viena todas as noites. Explore a neurociência da estimulação bilateral e do diário manual."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-09"
+updatedDate: "2026-07-09"
 category: "BuildSelf"
-tags: ["A Caminhad","Routine"]
-heroImage: "/images/blog/freud_evening_walk.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/freud_evening_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica de *Um Estudo Autobiográfico* de Sigmund Freud, Arquivos do Museu Sigmund Freud de Viena e Pesquisa em Neurociência Cognitiva"

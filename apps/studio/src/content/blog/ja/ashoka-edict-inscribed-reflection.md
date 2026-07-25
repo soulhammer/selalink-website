@@ -1,11 +1,11 @@
 ---
 title: "岩に勅令を刻み省察した征服王？アショカ大王の毎日倫理省察ルーティン"
 description: "インド・マウリヤ朝のアショカ大王。カリンガ戦争の惨状を反省し、石柱勅令を建てて毎日倫理的自我を省察した彼の外部アンカリングルーティンと3ステップ実践法を探ります。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-04"
+updatedDate: "2026-06-04"
 category: "BuildSelf"
-tags: ["岩に勅令を刻み省察し","Routine"]
-heroImage: "/images/blog/ashoka_edict_inscribed_reflection.png"
+tags: ["위인 습관", "Routine"]
+heroImage: "/images/blog/ashoka_edict_inscribed_reflection.webp"
 app: "buildself"
 formatVersion: 4
 authority: "アショカ大王石柱勅令（Edicts of Ashoka）考証＆認知神経科学（Cognitive Neuroscience）研究"

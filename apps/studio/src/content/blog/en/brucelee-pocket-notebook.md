@@ -1,11 +1,11 @@
 ---
 title: "Hunting Fleeting Inspiration: Bruce Lee's Pocket Notebook Close-Capture Routine"
 description: "Explore how 20th-century martial artist and film icon Bruce Lee carried a pocket notebook to capture philosophical insights and martial arts concepts in real time, and discover the cognitive mechanisms of RAS stimulation behind immediate note-taking."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-06"
+updatedDate: "2026-04-06"
 category: "BuildSelf"
-tags: ["Great Habits","brucelee","Routine","Stamina"]
-heroImage: "/images/blog/brucelee_pocket_notebook.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/brucelee_pocket_notebook.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from John Little's Biography *Bruce Lee: Artist of Life* & Cognitive Neuroscience Research"

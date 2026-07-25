@@ -1,11 +1,11 @@
 ---
 title: "静かな夜明けに回す糸車：マハトマ・ガンジーの早朝瞑想ルーティンとアクティブ・メディテーション"
 description: "インドの偉大な平和運動家マハトマ・ガンジー。毎日早朝4時に起きて瞑想をし糸車を回した彼の朝の習慣と、指先の反復的な動きがセロトニンを刺激する脳科学的原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-23"
+updatedDate: "2026-03-23"
 category: "BuildSelf"
-tags: ["静かな夜明けに回す糸","Routine"]
-heroImage: "/images/blog/gandhi_morning_meditation.png"
+tags: ["위인 습관", "마하트마 간디", "아침 루틴", "명상", "스트레스 완화"]
+heroImage: "/images/blog/gandhi_morning_meditation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "マハトマ・ガンジー自伝『真理の実験（An Autobiography: The Story of My Experiments with Truth）』および評伝考証＆認知神経科学（Cognitive Neuroscience）研究"

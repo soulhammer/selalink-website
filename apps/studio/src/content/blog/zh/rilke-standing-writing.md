@@ -1,11 +1,11 @@
 ---
 title: "일어서는 순간 뇌가 깨어난다: 릴케의 스탠딩 데스크 몰입 비결"
 description: "오스트리아의 문호 라이너 마리아 릴케가 서서 글을 썼던 신체적 뇌 각성 습관을 만나보세요. 뇌 혈류량을 늘리고 집중력을 높이는 3단계 스탠딩 실천법."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-06"
+updatedDate: "2026-04-06"
 category: "BuildSelf"
-tags: ["일어서는 순간 뇌가","Routine"]
-heroImage: "/images/blog/rilke_standing_writing.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/rilke_standing_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Rilke Standing Writing 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

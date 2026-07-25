@@ -1,11 +1,11 @@
 ---
 title: "Absolute Focus in the Golden Hour: Enrico Fermi's 2-Hour Solitary Morning Calculation Routine and Cognitive Peak Immersion"
 description: "Discover how Nobel laureate physicist Enrico Fermi, creator of the world's first artificial nuclear reactor, harnessed his cognitive golden hour by dedicating 2 solitary morning hours to complex calculations before work. Explore the neuroscience of the Cortisol Awakening Response and working memory."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-14"
+updatedDate: "2026-05-14"
 category: "BuildSelf"
-tags: ["Great Habits","fermi","Routine","Stamina"]
-heroImage: "/images/blog/fermi_dawn_calculation_routine.png"
+tags: ["집중", "생산성", "학습"]
+heroImage: "/images/blog/fermi_dawn_calculation_routine.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Laura Fermi's *Atoms in the Family: My Life with Enrico Fermi*, Biographical Archives & Cognitive Neuroscience Research"

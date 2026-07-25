@@ -1,11 +1,11 @@
 ---
 title: "以手雕物理立体模型替代死磕公式：约翰内斯·开普勒的“触觉空间可视化”习惯与顶叶激活指南"
 description: "探索17世纪天文学家约翰内斯·开普勒如何通过亲手雕刻三维几何模型破解行星轨迹。揭示触觉空间可视化、大脑顶叶（Parietal Lobe）刺激、降解认知过载（Cognitive Overload）与3步骤实践指南。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-24"
+updatedDate: "2026-06-24"
 category: "BuildSelf"
-tags: ["以手雕物理立体模型替","Routine"]
-heroImage: "/images/blog/kepler_geometric_modeling.png"
+tags: ["위인 습관", "학습"]
+heroImage: "/images/blog/kepler_geometric_modeling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "约翰内斯·开普勒著作集《宇宙的神秘（Mysterium Cosmographicum，1596）》史料考证及认知神经科学（Cognitive Neuroscience）与空间认知学（Spatial Cognition）研究"

@@ -4,7 +4,7 @@ description: "17世紀のイギリスの医師ウィリアム・ハーヴィが�
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["ウィリアム・ハーヴィ","Routine"]
+tags: ["위습관","루틴"]
 heroImage: "/images/blog/harvey_blood_circulation.png"
 app: "buildself"
 formatVersion: 4

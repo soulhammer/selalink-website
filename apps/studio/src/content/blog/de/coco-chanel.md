@@ -1,11 +1,11 @@
 ---
 title: "Das Befreien von Korsetts und Schnörkeln: Coco Chanels essenzieller minimalistischer Zuschnitt und präfrontale Unterdrückungsfilterung"
 description: "Erkunden Sie, wie die Modepionierin Coco Chanel die Damenmode revolutionierte, indem sie Stoffe an lebenden Modellen absteckte und Schnörkel abschnitt. Entdecken Sie die kognitiven Neurowissenschaften der präfrontalen Unterdrückungsfilterung zur Eliminierung von Rauschen."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-17"
+updatedDate: "2026-05-17"
 category: "BuildSelf"
-tags: ["Das Befrei","Routine"]
-heroImage: "/images/blog/coco_chanel.png"
+tags: ["위인 습관", "코코 샤넬", "의사결정", "생산성"]
+heroImage: "/images/blog/coco_chanel.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Edmonde Charles-Roux' Biografie *Ich, Coco Chanel (Chanel and Her World)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

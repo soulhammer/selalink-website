@@ -1,11 +1,11 @@
 ---
 title: "Rahasia Miliarder di Saku Belakang Celana: Buku Catatan Analog dan Stimulasi RAS ala Richard Branson"
 description: "Pelajari bagaimana pendiri Virgin Group Sir Richard Branson membangun lebih dari 400 perusahaan dengan mencatat inspirasi dalam buku catatan analog di saku belakangnya, serta temukan prinsip neurosains tentang bagaimana tulisan tangan merangsang Reticular Activating System (RAS) untuk mengubah ide menjadi tindakan nyata secara instan."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-04"
+updatedDate: "2026-03-04"
 category: "BuildSelf"
-tags: ["Rahasia Mi","Routine"]
-heroImage: "/images/blog/branson_notebook_writing.png"
+tags: ["위인 습관", "리처드브랜슨", "손글씨메모", "아날로그메모", "실행력"]
+heroImage: "/images/blog/branson_notebook_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Autobiografi Richard Branson *Like a Virgin: Secrets They Don't Teach You at Business School* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

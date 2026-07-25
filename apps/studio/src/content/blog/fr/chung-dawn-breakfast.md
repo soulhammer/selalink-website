@@ -1,11 +1,11 @@
 ---
 title: "L'enthousiasme de l'aube : La routine de petit-déjeuner familial à 5h et de marche du président Ju-Yung Chung"
 description: "Découvrez comment le fondateur du groupe Hyundai, Ju-Yung Chung, s'est levé à 4h chaque matin toute sa vie pour partager un petit-déjeuner en famille. Explorez les principes neuroscientifiques du mouvement aérobique matinal et de l'échange émotionnel stabilisant le cortisol."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-12"
+updatedDate: "2026-06-12"
 category: "BuildSelf"
-tags: ["L'enthousi","Routine"]
-heroImage: "/images/blog/chung_dawn_breakfast.png"
+tags: ["위인 습관", "정주영", "의지력", "계획", "시간 관리"]
+heroImage: "/images/blog/chung_dawn_breakfast.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de l'autobiographie de Ju-Yung Chung *Des épreuves, mais pas d'échec (Born of this Land)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

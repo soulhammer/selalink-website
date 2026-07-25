@@ -1,11 +1,11 @@
 ---
 title: "El Gigante Literario que Recogía Semillas en su Jardín: La Rutina Matutina de Observación y Restauración de la Atención de Goethe"
 description: "Descubra cómo Johann Wolfgang von Goethe obtenía inspiración observando plantas con una lupa cada mañana. Explore la Teoría de Restauración de la Atención (ART), la geometría fractal y su rutina de paseo botánico matutino."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-24"
+updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: ["El Gigante","Routine"]
-heroImage: "/images/blog/goethe_botany_observation.png"
+tags: ["위인 습관", "괴테", "아침루틴", "산책", "주의력회복"]
+heroImage: "/images/blog/goethe_botany_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de *Poesía y verdad (Dichtung und Wahrheit)* y *La metamorfosis de las plantas* de Johann Wolfgang von Goethe, Archivos del Museo de Weimar e Investigación en Neurociencia Cognitiva"

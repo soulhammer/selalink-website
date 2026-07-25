@@ -1,11 +1,11 @@
 ---
 title: "The Orator Who Shaved Half His Head: Demosthenes's Extreme Environmental Control and Hard Commitment Device Routine"
 description: "Discover how Demosthenes, master orator of ancient Greece, overcame physical limitations by shaving half his head and isolating in a cave. Explore the cognitive neuroscience of how Hard Commitment Devices protect prefrontal cortex executive functions."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-28"
+updatedDate: "2026-01-28"
 category: "BuildSelf"
-tags: ["Great Habits","demosthenes","Routine","Stamina"]
-heroImage: "/images/blog/demosthenes_isolation.png"
+tags: ["위인 습관", "데모스테네스", "몰입", "환경통제", "의지력"]
+heroImage: "/images/blog/demosthenes_isolation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Plutarch's *Parallel Lives (Life of Demosthenes)* & Cognitive Neuroscience Research"

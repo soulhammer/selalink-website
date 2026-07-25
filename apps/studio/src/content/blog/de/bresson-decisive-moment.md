@@ -1,11 +1,11 @@
 ---
 title: "Geometrie des Augenblicks und der fokussierte Blick: Henri Cartier-Bressons Beobachtungsroutine des 'entscheidenden Moments'"
 description: "Erkunden Sie, wie Henri Cartier-Bresson, Meister des modernen Fotojournalismus, visuelle Immersion praktizierte, indem er auf perfekte geometrische Harmonie und flüchtige Augenblicke wartete. Entdecken Sie die neurowissenschaftlichen Mechanismen zur Außerkraftsetzung prädiktiver Kodierungsfilter zur Aktivierung des visuellen Kortex und präfrontaler Aufmerksamkeitsnetzwerke."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-08"
+updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: ["Geometrie ","Routine"]
-heroImage: "/images/blog/bresson_decisive_moment.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/bresson_decisive_moment.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Henri Cartier-Bressons Fotobuch *Images à la sauvette / The Decisive Moment* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

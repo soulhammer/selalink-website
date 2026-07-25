@@ -1,11 +1,11 @@
 ---
 title: "Cara Jinakkan Sang Muse: Rutinitas Penulisan 2.000 Kata Harian dan Pengondisian Fokus Stephen King"
 description: "Pelajari rutinitas penulisan legendaris dari Stephen King, salah satu penulis paling sukses di dunia. Temukan neurosains dari pembelajaran sensorimotor, pemicu pengondisian klasik, dan panduan 3 langkah untuk mempertahankan produktivitas harian."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-18"
+updatedDate: "2026-05-18"
 category: "BuildSelf"
-tags: ["Cara Jinak","Routine"]
-heroImage: "/images/blog/king_writing_routine.png"
+tags: ["위인 습관", "스티븐 킹", "집필", "루틴", "창의성", "조건형성"]
+heroImage: "/images/blog/king_writing_routine.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Memoar Stephen King *On Writing: A Memoir of the Craft* (2000), Arsip King & Penelitian Neurosains Kognitif serta Psikologi Kognitif"

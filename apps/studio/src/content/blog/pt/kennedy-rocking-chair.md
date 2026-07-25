@@ -1,11 +1,11 @@
 ---
 title: "A Cadeira de Balanço do Salão Oval: A Superação da Dor Espinal de John F. Kennedy e o Relaxamento Vestibular"
 description: "Descubra como John F. Kennedy liderou os EUA durante as crises da Guerra Fria enfrentando dores na coluna usando sua cadeira de balanço no Salão Oval. Explore a neurociência da estimulação vestibular, ativação parassimpática e uma rotina de 3 passos."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-10"
+updatedDate: "2026-02-10"
 category: "BuildSelf"
-tags: ["A Cadeira ","Routine"]
-heroImage: "/images/blog/kennedy_rocking_chair.png"
+tags: ["위인 습관", "존 F. 케네디", "스트레스 해소", "척추 건강", "휴식"]
+heroImage: "/images/blog/kennedy_rocking_chair.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica da Biblioteca Presidencial John F. Kennedy, Arquivos da Dra. Janet Travell e Pesquisa em Neurociência Cognitiva e Ortopédia"

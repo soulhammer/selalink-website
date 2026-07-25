@@ -1,11 +1,11 @@
 ---
 title: "The Genius Who Napped Holding Steel Balls: Thomas Edison's Hypnagogia Nap Technique & Semi-Sleep Creativity Routine"
 description: "Discover Thomas Edison's legendary steel ball nap routine used to break through creative roadblocks. Explore the cognitive neuroscience of hypnagogia (N1 sleep stage), theta brainwaves, and immediate idea capturing."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-02"
+updatedDate: "2026-04-02"
 category: "BuildSelf"
-tags: ["Great Habits","edison","Routine","Stamina"]
-heroImage: "/images/blog/edison_nap.png"
+tags: ["위인 습관", "토마스 에디슨", "창의성", "낮잠", "영감"]
+heroImage: "/images/blog/edison_nap.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Paul Israel's Biography *Edison: A Life of Invention*, Thomas Edison National Historical Park Archives & Cognitive Neuroscience Research"

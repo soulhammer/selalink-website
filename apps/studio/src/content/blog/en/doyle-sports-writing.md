@@ -1,11 +1,11 @@
 ---
 title: "Boxing Before Writing Sherlock Holmes? Arthur Conan Doyle's Brain-Arousal Sports Routine and BDNF Secretion"
 description: "Discover why physician and author Arthur Conan Doyle engaged in vigorous sports like boxing and cricket before writing. Explore the cognitive neuroscience of how intense exercise releases Brain-Derived Neurotrophic Factor (BDNF) and elevates prefrontal executive function."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-21"
+updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: ["Great Habits","doyle","Routine","Stamina"]
-heroImage: "/images/blog/doyle_sports_writing.png"
+tags: ["위인 습관", "생산성"]
+heroImage: "/images/blog/doyle_sports_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Arthur Conan Doyle's Autobiography *Memories and Adventures* & Cognitive Neuroscience Research"

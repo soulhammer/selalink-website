@@ -1,11 +1,11 @@
 ---
 title: "Inmersión que Supera la Privación: La Rutina de Dibujo en Papel de Aluminio de Lee Jung-seob y la Activación Somatosensorial"
 description: "Descubra cómo el pintor Lee Jung-seob mantuvo su enfoque artístico en la pobreza grabando sobre el papel de aluminio de cajas de cigarrillos. Explore la neurociencia de la retroalimentación multisensorial, la activación de la corteza somatosensorial y una guía de 3 pasos."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-14"
+updatedDate: "2026-03-14"
 category: "BuildSelf"
-tags: ["Inmersión ","Routine"]
-heroImage: "/images/blog/leejungseob_tin_foil_drawing.png"
+tags: ["위인 습관", "이중섭", "은지화 드로잉", "몰입 루틴", "촉각 자극", "마인드풀니스"]
+heroImage: "/images/blog/leejungseob_tin_foil_drawing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de las Biografías de Lee Jung-seob, Archivos del Museo Nacional de Arte Moderno y Contemporáneo (MMCA) e Investigación en Neurociencia Cognitiva y Arteterapia"

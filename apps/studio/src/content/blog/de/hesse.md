@@ -1,11 +1,11 @@
 ---
 title: "Erde pflegen und Unkraut jäten im ländlichen Garten: Hermann Hesses Naturkontemplations-Methode und DMN-Entspannungsroutine"
 description: "Erfahren Sie, wie der Literaturnobelpreisträger und naturverbundene Pazifist Hermann Hesse nervöse Erschöpfung bewältigte, indem er täglich Gartenerde berührte und Zweige schnitt. Untersuchen Sie die Neurowissenschaften seiner Gärtner-Routine."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-16"
+updatedDate: "2026-02-16"
 category: "BuildSelf"
-tags: ["Erde pfleg","Routine"]
-heroImage: "/images/blog/hesse.png"
+tags: ["위인 습관", "헤르만 헤세", "휴식", "성찰"]
+heroImage: "/images/blog/hesse.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Hermann Hesses Essay *Freude am Garten* & Briefen, sowie Forschung der kognitiven Neurowissenschaften und Umweltpsychologie"

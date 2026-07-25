@@ -1,11 +1,11 @@
 ---
 title: "通过午后海岸散步化解难题的作曲家：本杰明·布里顿的大脑解放习惯"
 description: "探索20世纪英国音乐巨匠本杰明·布里顿每天下午在海岸小路散步以精细打磨早晨在脑海中构思的音符结构的习惯，揭示通过注意力恢复理论（ART）与预设模式网络（DMN）进行认知整合的神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-22"
+updatedDate: "2026-04-22"
 category: "BuildSelf"
-tags: ["通过午后海岸散步化解","Routine"]
-heroImage: "/images/blog/britten_afternoon_walk.png"
+tags: ["오후 해안가 산책으","Routine"]
+heroImage: "/images/blog/britten_afternoon_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "汉弗莱·卡彭特传记《本杰明·布里顿传（Benjamin Britten: A Biography）》考证与认知神经科学（Cognitive Neuroscience）研究"

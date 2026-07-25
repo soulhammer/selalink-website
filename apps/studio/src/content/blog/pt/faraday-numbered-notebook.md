@@ -1,11 +1,11 @@
 ---
 title: "16.000 Entradas Numeradas: A Rotina de Caderno de Precisão e Externalização Cognitiva de Michael Faraday"
 description: "Descubra como o físico Michael Faraday catalogou mais de 16.000 entradas de experimentos numeradas. Explore a neurociência cognitiva da externalização do conhecimento e preservação da memória de trabalho."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-24"
+updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: ["16.000 Ent","Routine"]
-heroImage: "/images/blog/faraday_numbered_notebook.png"
+tags: ["위인 습관", "마이클 패러데이", "기록", "생산성", "논리력"]
+heroImage: "/images/blog/faraday_numbered_notebook.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica de *Michael Faraday's Diary* (ed. Thomas Martin / Frank A.J.L. James) e Pesquisa em Neurociência Cognitiva"

@@ -1,11 +1,11 @@
 ---
 title: "言葉を最小限にして静寂を歩いた天才：ポール・ディラックの沈黙散策ルーティンと言語的ノイズ除去"
 description: "量子力学の巨匠でありノーベル物理学賞受賞者のポール・ディラック。日曜日の沈黙散策で言語的ノイズを除去しディラック方程式を精製した思索ルーティン。左脳言語皮質のリラックスと頭頂葉視空間演算回路活性化の認知神経科学的原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-25"
+updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["言葉を最小限にして静","Routine"]
-heroImage: "/images/blog/dirac_silent_walking_contemplation.png"
+tags: ["위인 습관", "Routine"]
+heroImage: "/images/blog/dirac_silent_walking_contemplation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "グレアム・ファーメロ伝記『The Strangest Man: The Hidden Life of Paul Dirac』考証＆認知神経科学（Cognitive Neuroscience）研究"

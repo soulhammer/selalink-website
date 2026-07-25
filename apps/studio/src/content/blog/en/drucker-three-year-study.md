@@ -1,11 +1,11 @@
 ---
 title: "An Intellectual Adventure Resetting Life Every 3 Years: Peter Drucker's Multidisciplinary Study Routine and Neuroplasticity"
 description: "Discover how management guru Peter Drucker mastered a new academic discipline every 3 years throughout his life. Explore the cognitive neuroscience of neuroplasticity, hippocampal stimulation, and multidisciplinary synthesis."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["Great Habits","drucker","Routine","Stamina"]
-heroImage: "/images/blog/drucker_three_year_study.png"
+tags: ["위인 습관", "피터 드러커", "학습", "자기계발", "시간 관리"]
+heroImage: "/images/blog/drucker_three_year_study.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Peter Drucker's Autobiography *Adventures of a Bystander* & *Managing Oneself* & Cognitive Neuroscience Research"

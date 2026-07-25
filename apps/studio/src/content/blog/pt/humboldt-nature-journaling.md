@@ -1,11 +1,11 @@
 ---
 title: "Ver a Terra como um Organismo Vivo: A Rotina de Diário de Campo e Sincronização da Memória de Trabalho de Alexander von Humboldt"
 description: "Descubra como Alexander von Humboldt, pai da ecologia moderna, criou sua visão do 'Kosmos' registrando dados de pressão e flora em tempo real no monte Chimborazo. Explore a neurociência do registro de campo."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-04"
+updatedDate: "2026-02-04"
 category: "BuildSelf"
-tags: ["Ver a Terr","Routine"]
-heroImage: "/images/blog/humboldt_nature_journaling.png"
+tags: ["위인 습관", "Routine"]
+heroImage: "/images/blog/humboldt_nature_journaling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica de *A Invenção da Natureza* de Andrea Wulf, Arquivos do *Kosmos* e Pesquisa em Neurociência Cognitiva e Ecologia"

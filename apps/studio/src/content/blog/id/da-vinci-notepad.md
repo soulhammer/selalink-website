@@ -1,11 +1,11 @@
 ---
 title: "Genius yang Selalu Membawa Buku Catatan di Pinggangnya: Rutinitas Pencatatan Seketika dan Eksternalisasi Memori Kerja ala Leonardo da Vinci"
 description: "Pelajari bagaimana cendekiawan Renaisans Leonardo da Vinci menyimpan buku catatan bersampul kulit yang diikatkan ke pinggangnya untuk mencatat pengamatan. Temukan neurosains kognitif dari mengamankan memori kerja untuk mengosongkan beban kognitif."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-29"
+updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: ["Genius yan","Routine"]
-heroImage: "/images/blog/da_vinci_notepad.png"
+tags: ["위인 습관", "레오나르도 다 빈치", "메모", "기록", "창의성"]
+heroImage: "/images/blog/da_vinci_notepad.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Biografi Walter Isaacson *Leonardo da Vinci* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

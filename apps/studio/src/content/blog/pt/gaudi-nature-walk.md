@@ -1,11 +1,11 @@
 ---
 title: "O Mestre que Caminhava 4 km por Barcelona: O Método de Caminhada Criativa e Rotina de Inspiração Orgânica de Antoni Gaudí"
 description: "Descubra como o arquiteto genial Antoni Gaudí traduziu estruturas naturais para a arquitetura caminhando 4 km por dia por Barcelona. Explore a neurociência cognitiva da caminhada criativa."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-13"
+updatedDate: "2026-04-13"
 category: "BuildSelf"
-tags: ["O Mestre q","Routine"]
-heroImage: "/images/blog/gaudi_nature_walk.png"
+tags: ["위인 습관", "안토니 가우디", "창의성", "산책", "영감"]
+heroImage: "/images/blog/gaudi_nature_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica de *Gaudí: A Biografia* de Gijs van Hensbergen e Pesquisa em Neurociência Cognitiva e Psicologia Ambiental"

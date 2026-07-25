@@ -1,11 +1,11 @@
 ---
 title: "매일 밤 동생 테오에게 편지를 쓰며 절망을 정화한 반 고흐의 서간체 성찰"
 description: "강렬한 색채로 감정을 불태운 불멸의 화가로, 극심한 정신적 고통 속에서 동생에게 보낸 수백 통의 편지를 통해 마음을 정화했습니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-21"
+updatedDate: "2026-04-21"
 category: "BuildSelf"
-tags: ["매일 밤 동생 테오","Routine"]
-heroImage: "/images/blog/van_gogh.png"
+tags: ["위인 습관", "빈센트 반 고흐", "기록", "성찰"]
+heroImage: "/images/blog/van_gogh.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Van Gogh 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

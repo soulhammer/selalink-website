@@ -1,11 +1,11 @@
 ---
 title: "外部脳（Second Brain）で描く完璧さ：スタンリー・キューブリックのインデックスカード・アーカイビング習慣と作業記憶の知的外在化"
 description: "完璧な考証と緻密な演出を誇った映画監督スタンリー・キューブリック。大脳前頭葉の記憶負荷を減らし、数万個の情報断片を連合させて傑作を創造したアーカイビングの秘密と知的外在化、3段階実践ガイドを紹介します。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-18"
+updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: ["外部脳（Second","Routine"]
-heroImage: "/images/blog/kubrick_index_box_archive.png"
+tags: ["글쓰기", "창의성", "기록"]
+heroImage: "/images/blog/kubrick_index_box_archive.webp"
 app: "buildself"
 formatVersion: 4
 authority: "スタンリー・キューブリック・アーカイブ史料『The Stanley Kubrick Archives』考証＆認知神経科学（Cognitive Neuroscience）および認知心理学（Cognitive Psychology）研究"

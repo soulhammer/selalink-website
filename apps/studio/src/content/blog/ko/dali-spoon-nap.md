@@ -1,11 +1,11 @@
 ---
 title: "숟가락 하나로 우주를 그린 천재: 살바도르 달리의 뇌 리셋 낮잠과 입면 몽상(Hypnagogia) 포획 루틴"
 description: "초현실주의 미술의 거장 살바도르 달리. 의자에 앉아 숟가락을 쥐고 선잠을 자다 깨어나며 기발한 예술적 아이디어를 포착했던 루틴. 입면 몽상(Hypnagogia) 상태의 시타파(Theta Waves) 가동과 무의식적 연상 포획의 인지신경과학적 원리를 밝깁니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-07"
+updatedDate: "2026-03-07"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/dali_spoon_nap.png"
+tags: ["위인 습관", "살바도르 달리", "창의성", "낮잠", "뇌파"]
+heroImage: "/images/blog/dali_spoon_nap.webp"
 app: "buildself"
 formatVersion: 4
 authority: "살바도르 달리 자서전 『달리, 자서전(The Secret Life of Salvador Dalí)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

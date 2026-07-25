@@ -1,11 +1,11 @@
 ---
 title: "Jouer une touche par seconde sans erreur en ralentissant le tempo : La routine d'apprentissage cérébelleux et de myélinisation de Franz Liszt"
 description: "Découvrez comment le pianiste virtuose Franz Liszt a maîtrisé une précision légendaire en ralentissant le tempo à une touche par seconde. Explorez la neuroscience de l'apprentissage moteur cérébelleux, la myélinisation et un guide en 3 étapes."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-14"
+updatedDate: "2026-04-14"
 category: "BuildSelf"
-tags: ["Jouer une ","Routine"]
-heroImage: "/images/blog/liszt.png"
+tags: ["위인 습관", "프란츠 리스트", "의지력", "시간 관리"]
+heroImage: "/images/blog/liszt.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de la biographie d'Alan Walker *Franz Liszt: The Virtuoso Years*, des archives de Liszt & de la Recherche en Neurosciences Cognitives et Sciences de l'Apprentissage Moteur"

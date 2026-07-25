@@ -1,11 +1,11 @@
 ---
 title: "Le génie qui portait toujours les mêmes vêtements : La routine de minimalisme décisionnel et de préservation des ressources cognitives préfrontales de Steve Jobs"
 description: "Découvrez comment le cofondateur d'Apple, Steve Jobs, préservait son énergie cognitive en portant chaque jour un uniforme identique composé d'un col roulé noir et d'un jean. Explorez la neuroscience de la fatigue décisionnelle et de l'allocation des ressources préfrontales."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-25"
+updatedDate: "2026-06-25"
 category: "BuildSelf"
-tags: ["Le génie q","Routine"]
-heroImage: "/images/blog/jobs_uniform_minimalism.png"
+tags: ["위인 습관", "스티브 잡스", "생산성", "단순화", "의사결정"]
+heroImage: "/images/blog/jobs_uniform_minimalism.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de la biographie *Steve Jobs* (2011) de Walter Isaacson, des archives d'Apple & de la Recherche en Psychologie Cognitives et Neurosciences Cognitives"

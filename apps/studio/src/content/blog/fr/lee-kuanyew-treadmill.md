@@ -1,11 +1,11 @@
 ---
 title: "Évacuer le stress de la construction d'une nation : La méditation post-entraînement de Lee Kuan Yew et l'homéostasie autonome"
 description: "Découvrez comment Lee Kuan Yew, Premier ministre fondateur de Singapour, gérait le stress du pouvoir en associant 30 minutes de tapis de course a 20 minutes de méditation. Explorez la bascule du système nerveux autonome, l'élimination du cortisol et un guide en 3 étapes."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-05"
+updatedDate: "2026-04-05"
 category: "BuildSelf"
-tags: ["Évacuer le","Routine"]
-heroImage: "/images/blog/lee_kuanyew_treadmill.png"
+tags: ["위인 습관", "리콴유", "유산소운동", "호흡명상", "자율신경계"]
+heroImage: "/images/blog/lee_kuanyew_treadmill.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de l'autobiographie de Lee Kuan Yew *The Singapore Story*, des Archives nationales de Singapour & de la Recherche en Neurosciences Cognitives et Physiologie de l'Exercice"

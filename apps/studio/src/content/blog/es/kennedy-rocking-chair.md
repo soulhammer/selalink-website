@@ -1,11 +1,11 @@
 ---
 title: "La Silla Mecedora del Despacho Oval: La Superación del Dolor Espinal de John F. Kennedy y la Relajación Vestibular"
 description: "Descubra cómo John F. Kennedy lideró a EE. UU. durante las crisis de la Guerra Fría mientras soportaba un intenso dolor de espalda con su silla mecedora del Despacho Oval. Explore la neurociencia de la estimulación vestibular, la activación parasimpática y una rutina de 3 pasos."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-10"
+updatedDate: "2026-02-10"
 category: "BuildSelf"
-tags: ["La Silla M","Routine"]
-heroImage: "/images/blog/kennedy_rocking_chair.png"
+tags: ["위인 습관", "존 F. 케네디", "스트레스 해소", "척추 건강", "휴식"]
+heroImage: "/images/blog/kennedy_rocking_chair.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la Biblioteca Presidencial John F. Kennedy, Archivos de la Dra. Janet Travell e Investigación en Neurociencia Cognitiva y Ortopedia"

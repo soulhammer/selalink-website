@@ -1,11 +1,11 @@
 ---
 title: "Bapak Imunologi yang Menaklukkan Cacar: Rutinitas Catatan Pengamatan Lapangan dan Neurosains Grit Edward Jenner"
 description: "Pelajari bagaimana dokter pedesaan Edward Jenner menemukan vaksin cacar dengan mengumpulkan catatan pengamatan lapangan bertahun-tahun. Temukan neurosains sirkuit imbalan dopamin berorientasi proses dan grit prefrontal."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-14"
+updatedDate: "2026-07-14"
 category: "BuildSelf"
-tags: ["Bapak Imun","Routine"]
-heroImage: "/images/blog/jenner_observation_tracking_log.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/jenner_observation_tracking_log.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Risalah Edward Jenner *An Inquiry into the Causes and Effects of the Variolae Vaccinae* (1798), Arsip Royal Society & Penelitian Neurosains Kognitif serta Sejarah Kedokteran"

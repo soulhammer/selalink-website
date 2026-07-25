@@ -1,11 +1,11 @@
 ---
 title: "Filsuf yang Menarik Catatan Masa Lalu dalam Waktu Kurang dari Satu Menit: Rutinitas Pengindeksan Commonplace Book John Locke"
 description: "Pelajari bagaimana filsuf empiris John Locke secara sistematis mengindeks pengetahuan yang luas menggunakan sistem kisi vokal yang unik. Temukan neurosains dari jaringan memori asosiatif, mengurasi jarak semantik, meredakan beban penarikan prefrontal, dan panduan 3 langkah."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-19"
+updatedDate: "2026-03-19"
 category: "BuildSelf"
-tags: ["Filsuf yan","Routine"]
-heroImage: "/images/blog/locke_commonplace_book.png"
+tags: ["1분 안에 과거의 ","Routine"]
+heroImage: "/images/blog/locke_commonplace_book.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Traktat John Locke *A New Method of a Commonplace-Book* (1686), Arsip Locke & Penelitian Neurosains Kognitif serta Psikologi Kognitif"

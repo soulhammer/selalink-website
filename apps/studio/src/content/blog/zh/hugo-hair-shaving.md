@@ -1,11 +1,11 @@
 ---
 title: "通过切断外出来强制沉浸：维克多·雨果的剃发隔离习惯与事前拘束策略"
 description: "探索维克多·雨果如何在极陡峭的交稿期限前剃去一半头发与胡须、自我切断外出。揭示强效环境物理约束的神经科学益处、事前拘束策略与前额叶意志力疲劳防范机制。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-29"
+updatedDate: "2026-06-29"
 category: "BuildSelf"
-tags: ["通过切断外出来强制沉","Routine"]
-heroImage: "/images/blog/hugo_hair_shaving.png"
+tags: ["위인 습관", "빅토르 위고", "몰입", "환경 제약", "생산성"]
+heroImage: "/images/blog/hugo_hair_shaving.webp"
 app: "buildself"
 formatVersion: 4
 authority: "葛拉罕·罗伯《雨果传（Victor Hugo: A Biography）》考证及行为治疗学（Behavior Therapy）与认知神经科学（Cognitive Neuroscience）研究"

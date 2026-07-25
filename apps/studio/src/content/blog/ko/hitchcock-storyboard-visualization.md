@@ -1,11 +1,11 @@
 ---
 title: "머릿속으로 백 프로 완성하라: 히치콕의 시각 스토리보드 루틴과 정신적 시뮬레이션"
 description: "스릴러 영화의 거장 알프레드 히치콕의 촬영 전 정밀 스토리보드 설계 습관. 정신적 시뮬레이션으로 운동 실행 네트워크를 자극하고 의사결정 피로를 없애는 뇌과학적 원리와 3단계 가이드를 소개합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-08"
+updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/hitchcock_storyboard_visualization.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/hitchcock_storyboard_visualization.webp"
 app: "buildself"
 formatVersion: 4
 authority: "알프레드 히치콕 평전 및 프랑수아 트뤼포 인터뷰 사료 『히치콕과의 대화(Hitchcock/Truffaut)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

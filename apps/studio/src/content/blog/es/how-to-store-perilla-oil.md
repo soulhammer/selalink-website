@@ -23,16 +23,16 @@ faqs:
     answer: "No, sesame oil is rich in antioxidants, so storing it at room temperature in a dark place is best to protect its flavor. Refrigeration may cause sedimentation and weaken the aroma."
 ---
 
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+¿Guardó el aceite de perilla en la alacena a temp. ambiente como el de oliva o sésamo? Al tener más de 60% de omega-3, se oxida rápido al aire y crea toxinas. Hoy, FreshSnap comparte trucos de refrigeración.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+      Autoridad Científica Verificada
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+      Esta guía de conservación cumple con las directrices oficiales de: <strong>RDA & MFDS</strong>.
     </p>
   </div>
 </div>
@@ -41,7 +41,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
 
 ## 1. ¿Por qué almacenarlo así? Datos científicos
 
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+Comprender las características únicas de cada ingrediente y seguir el método de almacenamiento adecuado es fundamental para mantener la frescura y la higiene.
 
 ---
 
@@ -53,7 +53,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Almacene siempre en el refrigerador a 0–4 °C — Almacenamiento Refrigerado (30Días)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+    A diferencia del aceite de sésamo, el aceite de linaza (perilla) carece de sesamol, un conservante natural, y tiene más de 60% de ácidos grasos omega-3, por lo que se rancia rápido a temp. ambiente. Guárdelo siempre en frío (0-4 °C).
   </p>
 </div>
 
@@ -63,7 +63,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Use botellas de vidrio oscuro y limite el aire — Evite oxígeno y UV 🫙</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+    La luz y el oxígeno aceleran la oxidación de los ácidos grasos omega-3. El aceite de linaza debe envasarse en botellas de vidrio marrón o verde, cerrando bien la tapa después de cada uso.
   </p>
 </div>
 
@@ -73,7 +73,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Mezcle aceite de linaza y de sésamo en proporción 8:2 — Conservante natural 🫒</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+    Pruebe mezclando un 20% de aceite de sésamo con el aceite de linaza. Los antioxidantes naturales del sésamo, como el lignano, previenen la oxidación, duplicando la vida útil del aceite.
   </p>
 </div>
 
@@ -86,7 +86,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
   <div>
     <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Guarde el aceite de perilla en el refrigerador sin excepción</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+      La exposición al oxígeno y la luz hace que se dañe rápido. Guárdelo sellado en botellas oscuras dentro del refrigerador.
     </p>
   </div>
 </div>
@@ -96,7 +96,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
   <div>
     <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Mezclar con 20% de aceite de sésamo duplica su duración</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+      El aceite de sésamo es rico en sesamol y sesamolina, antioxidantes naturales que evitan que el aceite de perilla se rancie.
     </p>
   </div>
 </div>
@@ -111,7 +111,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+      Yes, sesame oil contains sesamol, a powerful antioxidant. Mixing perilla oil and sesame oil in an 8:2 ratio and storing it can double the preservation period of perilla oil.
     </p>
   </details>
 
@@ -121,7 +121,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+      No, sesame oil is rich in antioxidants, so storing it at room temperature in a dark place is best to protect its flavor. Refrigeration may cause sedimentation and weaken the aroma.
     </p>
   </details>
 </div>

@@ -1,11 +1,11 @@
 ---
 title: "The Captain Who Opened the Age of Discovery: Christopher Columbus's Nightly Nautical Log and Amygdala Calming Routine"
 description: "Discover how explorer Christopher Columbus maintained rational composure amidst ocean storms by keeping a nightly quantitative log. Explore the cognitive neuroscience of how nighttime quantitative journaling calms the amygdala and recruits prefrontal control networks."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-25"
+updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["Great Habits","columbus","Routine","Stamina"]
-heroImage: "/images/blog/columbus_nautical_log.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/columbus_nautical_log.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Bartolomé de las Casas's *The Diario of Christopher Columbus* & Cognitive Neuroscience Research"

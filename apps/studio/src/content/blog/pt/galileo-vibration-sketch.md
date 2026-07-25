@@ -1,11 +1,11 @@
 ---
 title: "Os Esboços de Oscilação de Galileu: Estimulando a Cognição Espacial para Simplificar Estruturas Complexas"
 description: "Descubra como Galileu Galilei, pai da ciência moderna, formulou leis físicas intuitivas desenhando diagramas geométricos de pêndulos. Explore a neurociência do bloco de rascunho visoespacial e da dupla codificação."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-01"
+updatedDate: "2026-02-01"
 category: "BuildSelf"
-tags: ["Os Esboços","Routine"]
-heroImage: "/images/blog/galileo_vibration_sketch.png"
+tags: ["시각화", "스케치", "물리학", "근세"]
+heroImage: "/images/blog/galileo_vibration_sketch.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica de *Duas Novas Ciências* e *Il Saggiatore* de Galileu Galilei, Arquivos da Universidade de Pisa e Pesquisa em Neurociência Cognitiva"

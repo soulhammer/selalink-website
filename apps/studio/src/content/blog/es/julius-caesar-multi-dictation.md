@@ -1,11 +1,11 @@
 ---
 title: "El Dictado Simultáneo de Julio César: La Técnica de Cambio de Tareas de Alta Concentración y Expansión de la Memoria de Trabajo"
 description: "Descubra cómo Julio César dictaba múltiples cartas y órdenes militares simultáneamente a varios escribas a caballo o en carruaje. Explore la neurociencia de la expansión de la memoria de trabajo y la flexibilidad cognitiva prefrontal."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-14"
+updatedDate: "2026-01-14"
 category: "BuildSelf"
-tags: ["El Dictado","Routine"]
-heroImage: "/images/blog/julius_caesar_multi_dictation.png"
+tags: ["위인 습관", "율리우스 카이사르", "시간 관리", "작업 기억", "생산성"]
+heroImage: "/images/blog/julius_caesar_multi_dictation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de *Vidas paralelas* de Plutarco, *Historia natural* de Plinio el Viejo e Investigación en Neurociencia Cognitiva"

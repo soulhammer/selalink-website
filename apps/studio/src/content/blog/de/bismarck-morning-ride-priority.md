@@ -1,11 +1,11 @@
 ---
 title: "Überwindung der Entscheidungsüberlastung durch morgendliches Reiten: Bismarcks aerobe Aktivierung und TOP 3-Prioritäten-Routine"
 description: "Erkunden Sie, wie Otto von Bismarck, der 'Eiserne Kanzler' und Einiger Deutschlands, morgendliches Reiten mit der Extrahierung von TOP 3-Prioritäten kombinierte, und entdecken Sie die neurowissenschaftlichen Prinzipien zur Steigerung der Gehirndurchblutung zur Vermeidung von Entscheidungsermüdung."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-16"
+updatedDate: "2026-03-16"
 category: "BuildSelf"
-tags: ["Überwindun","Routine"]
-heroImage: "/images/blog/bismarck_morning_ride_priority.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/bismarck_morning_ride_priority.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Otto von Bismarcks Autobiografie *Gedanken und Erinnerungen* & A.J.P. Taylors Biografie *Bismarck: The Man and the Statesman* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

@@ -1,11 +1,11 @@
 ---
 title: "원소의 카드 놀이: 멘델레예프의 화학적 솔리테어"
 description: "원소 성질을 적은 카드를 솔리테어 카드 놀이처럼 배치해 주기율표를 완성한 드미트리 멘델레예프. 텍스트를 물리적 공간에 늘어놓는 행동이 복잡한 패턴을 발견하는 뇌의 능력을 깨우는 원리를 규명합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-14"
+updatedDate: "2026-03-14"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/mendeleev_chemical_solitaire.png"
+tags: ["위인 습관", "드미트리 멘델레예프", "아이디어", "시각화", "문제해결"]
+heroImage: "/images/blog/mendeleev_chemical_solitaire.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Mendeleev Chemical Solitaire 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

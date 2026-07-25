@@ -1,11 +1,11 @@
 ---
 title: "100번 연속 성공할 때까지: 타이거 우즈의 4m 퍼팅 몰입법"
 description: "골프 황제 타이거 우즈가 훈련 전 수행한 '100회 연속 퍼팅 성공' 루틴. 타협 없는 성취 경험이 어떻게 뇌에 도파민을 공급하고 극단적인 몰입을 이끄는지 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-01"
+updatedDate: "2026-04-01"
 category: "BuildSelf"
-tags: ["100번 연속 성공","Routine"]
-heroImage: "/images/blog/woods_hundred_putts.png"
+tags: ["위인 습관", "타이거 우즈", "몰입", "집중", "성공습관"]
+heroImage: "/images/blog/woods_hundred_putts.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Woods Hundred Putts 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

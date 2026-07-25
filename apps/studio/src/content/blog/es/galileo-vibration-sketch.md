@@ -1,11 +1,11 @@
 ---
 title: "Los Esbozos de Oscilación de Galileo: Cómo Estimular la Cognición Espacial para Simplificar Estructuras Complejas"
 description: "Descubra cómo Galileo Galilei, padre de la ciencia moderna, formuló leyes físicas intuitivas dibujando diagramas geométricos de lámparas en oscilación. Explore la neurociencia de la memoria visoespacial y la codificación dual."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-01"
+updatedDate: "2026-02-01"
 category: "BuildSelf"
-tags: ["Los Esbozo","Routine"]
-heroImage: "/images/blog/galileo_vibration_sketch.png"
+tags: ["시각화", "스케치", "물리학", "근세"]
+heroImage: "/images/blog/galileo_vibration_sketch.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de *Consideraciones y demostraciones matemáticas sobre dos nuevas ciencias* e *Il Saggiatore* de Galileo Galilei, Archivos de la Universidad de Pisa e Investigación en Neurociencia Cognitiva"

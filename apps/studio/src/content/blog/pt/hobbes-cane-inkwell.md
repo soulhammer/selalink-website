@@ -1,11 +1,11 @@
 ---
 title: "O Filósofo que Montou um Tinteiro em Sua Bengala: O Método de Anotação Imediata e Rotina de Externalização Cognitiva de Thomas Hobbes"
 description: "Descubra como o pensador Thomas Hobbes fixou um tinteiro em sua bengala para capturar ideias instantaneamente. Explore a neurociência da expansão da memória de trabalho, a Rede de Modo Padrão (DMN) e a externalização cognitiva."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-16"
+updatedDate: "2026-03-16"
 category: "BuildSelf"
-tags: ["O Filósofo","Routine"]
-heroImage: "/images/blog/hobbes_cane_inkwell.png"
+tags: ["산책 지팡이에 잉크","Routine"]
+heroImage: "/images/blog/hobbes_cane_inkwell.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica de *Breves Vidas (Brief Lives)* de John Aubrey, Arquivos de Thomas Hobbes e Pesquisa em Neurociência Cognitiva"

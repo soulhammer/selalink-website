@@ -1,11 +1,11 @@
 ---
 title: "The Master of the Printing Revolution: Gutenberg's Morning Movable Type Precision Inspection Routine and ERN Error Detection Mechanism"
 description: "Explore how Gutenberg, inventor of movable metal type, preserved system standards and print quality by inspecting type height with his hands and eyes each morning. Learn the neuroscience of Anterior Cingulate Cortex (ACC) and Error-Related Negativity (ERN)."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-04"
+updatedDate: "2026-06-04"
 category: "BuildSelf"
-tags: ["Great Habits","gutenberg","Routine","Stamina"]
-heroImage: "/images/blog/gutenberg_movable_type_inspection.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/gutenberg_movable_type_inspection.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Johannes Gutenberg Biographies, Gutenberg Museum Mainz Archives & Cognitive Neuroscience Research"

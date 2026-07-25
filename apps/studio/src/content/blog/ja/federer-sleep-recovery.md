@@ -1,11 +1,11 @@
 ---
 title: "1日12時間眠り数十個の優勝カップを掲げた皇帝：ロジャー・フェデラーの睡眠回復ルーティンと脳浄化メカニズム"
 description: "テニス界の皇帝ロジャー・フェデラー。40歳を超える年齢まで世界最高峰の技量を維持した秘訣である1日10〜12時間の高級睡眠およびレム（REM）睡眠回復ルーティンとグリンパティック系の脳科学的メカニズム、3段階実践ガイドを深く解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-16"
+updatedDate: "2026-03-16"
 category: "BuildSelf"
-tags: ["1日12時間眠り数十","Routine"]
-heroImage: "/images/blog/federer_sleep_recovery.png"
+tags: ["위인 습관", "Routine"]
+heroImage: "/images/blog/federer_sleep_recovery.webp"
 app: "buildself"
 formatVersion: 4
 authority: "クリス・バウワー『ロジャー・フェデラー評伝（Roger Federer: The Greatest）』およびATP公式史料考証＆認知神経科学（Cognitive Neuroscience）研究"

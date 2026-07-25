@@ -1,11 +1,11 @@
 ---
 title: "The Literary Giant Who Collected Seeds in His Garden: Goethe's Morning Observation Habit and Attention Restoration Routine"
 description: "Discover how Johann Wolfgang von Goethe gained profound inspiration by observing plants through a magnifying glass every morning. Explore Attention Restoration Theory (ART), fractal geometry, and his morning botanical walk routine."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-24"
+updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: ["Great Habits","goethe","Routine","Stamina"]
-heroImage: "/images/blog/goethe_botany_observation.png"
+tags: ["위인 습관", "괴테", "아침루틴", "산책", "주의력회복"]
+heroImage: "/images/blog/goethe_botany_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Johann Wolfgang von Goethe's *Dichtung und Wahrheit* & *The Metamorphosis of Plants*, Weimar Museum Archives & Cognitive Neuroscience Research"

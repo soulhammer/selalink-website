@@ -1,11 +1,11 @@
 ---
 title: "방 안을 맴도는 목소리: 도스토옙스키의 서성임과 구술 집필법 및 운동-언어 피질 결합"
 description: "『죄와 벌』의 작가 도스토옙스키가 방 안을 서성이며 대사를 직접 연기해 본 루틴. 신체 움직임(Pacing)과 구두 인지(Oral Cognition)가 운동 피질, 브로카·베르니케 영역, 거울 뉴런을 활성화하는 인지신경과학적 원리를 밝깁니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-25"
+updatedDate: "2026-05-25"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/dostoevsky_pacing_recitation.png"
+tags: ["위인 습관", "표도르 도스토옙스키", "창의성", "기록", "공부"]
+heroImage: "/images/blog/dostoevsky_pacing_recitation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "안나 도스토옙스카야 회고록 『도스토옙스키 회고록(Reminiscences)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

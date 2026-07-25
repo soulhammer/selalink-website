@@ -1,11 +1,11 @@
 ---
 title: "30 Minutes of Silence and the 6-Page Memo: Jeff Bezos's Amazon Meeting Method and Reading Neuroscience"
 description: "Discover Jeff Bezos's decision-making secret of banning PPT presentations at Amazon and requiring 30 minutes of silent reading of 6-page narrative memos at meeting starts, and explore the neuroscientific principles of how narrative reading stimulates the prefrontal cortex to maximize judgment."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-19"
+updatedDate: "2026-01-19"
 category: "BuildSelf"
-tags: ["Great Habits","bezos","Routine","Stamina"]
-heroImage: "/images/blog/bezos_six_page_memo.png"
+tags: ["위인 습관", "제프 베조스", "의사결정", "계획", "생산성"]
+heroImage: "/images/blog/bezos_six_page_memo.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Jeff Bezos's Shareholder Letters & Colin Bryar's *Working Backwards* & Cognitive Neuroscience Research"

@@ -1,11 +1,11 @@
 ---
 title: "Genius yang Berjalan dalam Keheningan dengan Kata-Kata Minimal: Rutinitas Jalan Kaki Senyap dan Pembersihan Kebisingan Linguistik ala Paul Dirac"
 description: "Pelajari bagaimana pelopor mekanika kuantum dan peraih Nobel Paul Dirac menyempurnakan Persamaan Dirac melalui jalan kaki hari Minggu dalam keheningan. Temukan neurosains kognitif dari penekanan kebisingan linguistik dan aktivasi sirkuit visuospatial parietal."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-25"
+updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["Genius yan","Routine"]
-heroImage: "/images/blog/dirac_silent_walking_contemplation.png"
+tags: ["위인 습관", "Routine"]
+heroImage: "/images/blog/dirac_silent_walking_contemplation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Biografi Graham Farmelo *The Strangest Man: The Hidden Life of Paul Dirac* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

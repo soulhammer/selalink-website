@@ -1,11 +1,11 @@
 ---
 title: "Mata Pahat Model 3D alih-alih Rumus: Rutinitas 'Visualisasi Spasial Haptik' dan Aktivasi Lobus Parietal Johannes Kepler"
 description: "Pelajari bagaimana astronom abad ke-17 Johannes Kepler memahami orbit planet dengan memahat model geometris 3D dengan tangannya sendiri. Temukan neurosains visualisasi spasial haptik, stimulasi lobus parietal, dan pengurangan beban kognitif berlebih."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-24"
+updatedDate: "2026-06-24"
 category: "BuildSelf"
-tags: ["Mata Pahat","Routine"]
-heroImage: "/images/blog/kepler_geometric_modeling.png"
+tags: ["위인 습관", "학습"]
+heroImage: "/images/blog/kepler_geometric_modeling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari *Mysterium Cosmographicum* (1596) karya Johannes Kepler, Arsip Kepler & Penelitian Neurosains Kognitif serta Kognisi Spasial"

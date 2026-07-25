@@ -1,11 +1,11 @@
 ---
 title: "Pistas de Incerteza Dadas pela Natureza: A Rotina de Caminhada Alpina e Incubação DMN de Werner Heisenberg"
 description: "Descubra como Werner Heisenberg resolveu dilemas da mecânica quântica caminhando sozinho pelos Alpes Bávaros. Explore a ciência da Teoria da Restauração da Atenção (ART) e a incubação na Rede de Modo Padrão (DMN)."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-06"
+updatedDate: "2026-02-06"
 category: "BuildSelf"
-tags: ["Pistas de ","Routine"]
-heroImage: "/images/blog/heisenberg_alpine_hiking.png"
+tags: ["사색", "이완", "창의성"]
+heroImage: "/images/blog/heisenberg_alpine_hiking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica de *A Parte e o Todo (Der Teil und das Ganze)* de Werner Heisenberg, Arquivos da Academia Bávara de Ciências e Pesquisa em Neurociência Cognitiva"

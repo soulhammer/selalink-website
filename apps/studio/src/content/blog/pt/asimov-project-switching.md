@@ -1,11 +1,11 @@
 ---
 title: "Trancado na Escrita? Mude a Máquina de Escrever! A Rotina de Alternância Multitarefa de Isaac Asimov"
 description: "A rotina de alternância multitarefa do mestre da ficção científica Isaac Asimov, autor de mais de 500 livros. Descubra o segredo de 3 passos para superar a fadiga do foco único e obter o efeito de novidade."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-26"
+updatedDate: "2026-05-26"
 category: "BuildSelf"
-tags: ["Trancado n","Routine"]
-heroImage: "/images/blog/asimov_project_switching.png"
+tags: ["위인 습관", "아이작 아시모프", "집중력", "다중작업", "창의성", "생산성"]
+heroImage: "/images/blog/asimov_project_switching.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica da Autobiografia de Isaac Asimov *I, Asimov: A Memoir* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)"

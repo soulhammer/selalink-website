@@ -15,23 +15,28 @@ faqs:
   - question: "Apa yang terjadi jika saya memaksakan menyisir bulu Maine Coon yang kusut?"
     answer: "Karena ukuran dan kekuatan mereka yang besar, jika mereka mengasosiasikan penyisiran dengan rasa sakit dan menolak, penanganannya akan sangat sulit. Gunakan spray pengurai bulu kusut terlebih dahulu."
 ---
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+
+Maine Coon adalah 'Raksasa yang Lembut' di dunia kucing. Terkenal dengan surai seperti singa, telinga berumbai, dan moncong besar, mereka lembut dan menyukai air. 🐈
+
+Namun, beratnya yang mencapai 8 hingga 12 kg memberikan beban gravitasi besar pada sendi. Mereka juga rentan secara genetik terhadap Kardiomiopati Hipertrofik (HCM). Pemantauan pernapasan dan penyediaan bantalan sendi adalah hal wajib.
+
+Hari ini, PetSelf menguraikan bahasa tubuh Maine Coon dan menjelaskan rutinitas 3 langkah untuk melindungi jantung dan merawat bulu ganda mereka.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Bukti Dokter Hewan & Perilaku
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Konten ini didasarkan pada <strong>Panduan Resmi Maine Coon Breeders & Fanciers Association (MCBFA) & Protokol Manajemen Kucing Besar AAFP</strong>.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+    🐾 Maine Coon Profil Utama
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Rata-rata Umur</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 15 tahun</span></div>
@@ -42,7 +47,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
 
 ## 1. Bahasa Tubuh Maine Coon: Kicauan Ramah dan Ekor Mengembang Waspada
 
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+Maine Coon sangat sosial dan ingin berkomunikasi. Sinyal utama meliputi 'kicauan (trilling)' and 'ekor mengembang'. Kicauan lembut saat mendekat adalah sapaan ramah. Sebaliknya, saat terkejut oleh suara keras, ekor lebat mereka mengembang seperti sikat botol. Berikan mereka waktu tenang.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -76,7 +81,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pagi: Pengukuran Makanan Ketat untuk Kontrol Berat dan Pencegahan HCM</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+    HCM Maine Coon diperburuk oleh obesitas. Timbang makanan mereka setiap hari untuk kontrol kalori, dan periksa pasokan air.
   </p>
 </div>
 
@@ -86,7 +91,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Siang: Perawatan Bulu dengan Sisir Besi dan Sikat Slicker</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+    Bulu leher dan ketiak yang tebal mudah kusut, menyebabkan dermatitis. Sisir dalam dengan sisir besi untuk mengurai bulu halus.
   </p>
 </div>
 
@@ -96,7 +101,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Malam: Pemeriksaan Matras Penyerap Benturan dan Pemantauan Jantung</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+    Berat badan besar meningkatkan dampak pendaratan. Periksa matras di bawah tempat bertengger. Pantau laju pernapasan saat tidur (di bawah 30 napas per menit).
   </p>
 </div>
 
@@ -105,7 +110,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Cukup dengan mengamati sinyal penenang hewan peliharaan Anda, Anda dapat mencegah masalah perilaku utama dan penyakit akibat stres. Meskipun perawatan medis penting, menyediakan lingkungan yang aman (tangga ramah hewan, ruang vertikal, beberapa sumber air) adalah pelindung terkuat untuk mendukung kebahagiaan seumur hidup mereka.
     </p>
   </div>
 </div>
@@ -123,7 +128,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Pemeriksaan ekokardiogram rutin sangat penting. Di rumah, cegah obesitas melalui kontrol porsi makanan. Jika laju pernapasan tidur melebihi 30 napas per menit, segera periksakan ke dokter.
     </p>
   </details>
 
@@ -133,7 +138,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Karena ukuran dan kekuatan mereka yang besar, jika mereka mengasosiasikan penyisiran dengan rasa sakit dan menolak, penanganannya akan sangat sulit. Gunakan spray pengurai bulu kusut terlebih dahulu.
     </p>
   </details>
 </div>

@@ -1,11 +1,11 @@
 ---
 title: "Humanity's Salvation Rescued from the Trash: Alexander Fleming's Failure Observation Method and Anomaly Discovery Routine"
 description: "Discover how Alexander Fleming, the legendary discoverer of penicillin, transformed medical history by meticulously observing a contaminated Petri dish instead of discarding it. Explore the neuroscience of cognitive fixation and divergent thinking."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-08"
+updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: ["Great Habits","fleming","Routine","Stamina"]
-heroImage: "/images/blog/fleming_petridish_observation.png"
+tags: ["위인 습관", "알렉산더 플레밍", "실패 성찰", "확산적 사고", "세렌디피티"]
+heroImage: "/images/blog/fleming_petridish_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from André Maurois's *The Life of Sir Alexander Fleming*, Nobel Archives & Cognitive Neuroscience Research"

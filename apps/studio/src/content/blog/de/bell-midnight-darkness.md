@@ -1,11 +1,11 @@
 ---
 title: "Erfindung in völliger Dunkelheit: Alexander Graham Bells mitternächtliche sensorische Deprivation und Deep Work"
 description: "Erkunden Sie, wie Alexander Graham Bell, Erfinder des Telefons und Revolutionär der menschlichen Kommunikation, durch sein Deep Work in 'mitternächtlicher völliger Dunkelheit' sensorische Überlastung auflöste und exekutive Gehirnfunktionen weckte, und entdecken Sie den neurowissenschaftlichen Mechanismus der sensorischen Deprivation."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-12"
+updatedDate: "2026-05-12"
 category: "BuildSelf"
-tags: ["Erfindung ","Routine"]
-heroImage: "/images/blog/bell_midnight_darkness.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/bell_midnight_darkness.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Robert V. Bruces Biografie *Bell: Alexander Graham Bell and the Conquest of Solitude* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

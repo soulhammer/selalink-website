@@ -1,11 +1,11 @@
 ---
 title: "Die Stimme im Raum: Fjodor Dostojewskis Routine des Umhergehens und Diktierens"
 description: "Erkunden Sie, wie Fjodor Dostojewski im Zimmer umherging und Dialoge laut vorsprach, bevor er sie seiner Frau diktierte. Entdecken Sie die kognitiven Neurowissenschaften zur Verknüpfung von Sprach- und Motorikzentren."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-25"
+updatedDate: "2026-05-25"
 category: "BuildSelf"
-tags: ["Die Stimme","Routine"]
-heroImage: "/images/blog/dostoevsky_pacing_recitation.png"
+tags: ["위인 습관", "표도르 도스토옙스키", "창의성", "기록", "공부"]
+heroImage: "/images/blog/dostoevsky_pacing_recitation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Anna Dostojewskajas Memoiren *Erinnerungen (Reminiscences)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

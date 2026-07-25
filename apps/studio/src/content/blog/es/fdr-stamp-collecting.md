@@ -1,11 +1,11 @@
 ---
 title: "La Rutina de Clasificación de Sellos de Franklin D. Roosevelt: Relajación Cognitiva y Ritual Análogo de Sueño"
 description: "Descubra cómo el presidente Roosevelt aliviaba la tensión mental clasificando sellos cada noche durante crisis bélicas y económicas. Explore la neurociencia de la relajación cognitiva y la melatonina."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-02"
+updatedDate: "2026-07-02"
 category: "BuildSelf"
-tags: ["La Rutina ","Routine"]
-heroImage: "/images/blog/fdr_stamp_collecting.png"
+tags: ["위인 습관", "루스벨트", "스트레스 해소", "휴식 루틴", "취침 전 습관"]
+heroImage: "/images/blog/fdr_stamp_collecting.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de las Biografías de Franklin D. Roosevelt, Archivos de la Biblioteca Presidencial FDR e Investigación en Neurociencia Cognitiva"

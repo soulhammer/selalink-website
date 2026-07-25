@@ -1,11 +1,11 @@
 ---
 title: "Tinju Sebelum Menulis Sherlock Holmes? Rutinitas Olahraga Pemantik Otak dan Sekresi BDNF ala Arthur Conan Doyle"
 description: "Pelajari mengapa dokter dan penulis Arthur Conan Doyle melakukan olahraga berat seperti tinju dan kriket sebelum menulis. Temukan neurosains kognitif tentang bagaimana olahraga intensif melepaskan BDNF dan meningkatkan fungsi eksekutif prefrontal."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-21"
+updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: ["Tinju Sebe","Routine"]
-heroImage: "/images/blog/doyle_sports_writing.png"
+tags: ["위인 습관", "생산성"]
+heroImage: "/images/blog/doyle_sports_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Autobiografi Arthur Conan Doyle *Memories and Adventures* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

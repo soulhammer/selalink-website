@@ -1,11 +1,11 @@
 ---
 title: "Papan Tulis di Samping Tempat Tidur: Rutinitas Konsolidasi Memori Tidur ala Charlemagne"
 description: "Pelajari bagaimana Charlemagne, pendiri Eropa Barat, menyimpan papan tulis lilin di samping tempat tidurnya untuk menguasai kemampuan menulis, serta temukan neurosains kognitif dari memaksimalkan konsolidasi memori jangka panjang selama tidur gelombang lambat."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-20"
+updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: ["Papan Tuli","Routine"]
-heroImage: "/images/blog/charlemagne_lifelong_learning.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/charlemagne_lifelong_learning.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Biografi Einhard *Vita Karoli Magni (Riwayat Hidup Charlemagne)* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

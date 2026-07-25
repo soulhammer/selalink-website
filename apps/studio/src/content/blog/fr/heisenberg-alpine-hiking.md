@@ -1,11 +1,11 @@
 ---
 title: "Les indices d'incertitude offerts par la nature : La routine de randonnée alpine et d'incubation DMN de Werner Heisenberg"
 description: "Découvrez comment Werner Heisenberg a résolu les énigmes de la mécanique quantique en randonnant seul dans les Alpes bavaroises. Explorez la science de la théorie de restauration de l'attention et l'incubation DMN."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-06"
+updatedDate: "2026-02-06"
 category: "BuildSelf"
-tags: ["Les indice","Routine"]
-heroImage: "/images/blog/heisenberg_alpine_hiking.png"
+tags: ["사색", "이완", "창의성"]
+heroImage: "/images/blog/heisenberg_alpine_hiking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de *La partie et le tout (Der Teil und das Ganze)* de Werner Heisenberg, des archives de l'Académie bavaroise des sciences & de la Recherche en Neurosciences Cognitives"

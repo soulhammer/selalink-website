@@ -1,11 +1,11 @@
 ---
 title: "사막의 동물의 유골 뼈를 돋보기로 당겨본 조지아 오키프의 초점 클로즈업 관찰과 시각주의집중 루틴"
 description: "미국 모더니즘 미술의 대모 조지아 오키프. 사막의 유골 뼈와 시든 꽃잎을 10배 확대해 관찰하며 뇌의 선택적 시각 주의집중을 극대화한 초점 클로즈업 루틴과 시각 연합 피질의 뇌과학적 원리를 탐구합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-25"
+updatedDate: "2026-02-25"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/georgia_okeeffe.png"
+tags: ["위인 습관", "조지아 오키프", "이완", "성찰"]
+heroImage: "/images/blog/georgia_okeeffe.webp"
 app: "buildself"
 formatVersion: 4
 authority: "조지아 오키프 자서전 『조지아 오키프(Georgia O'Keeffe)』 및 산타페 오키프 미술관(Georgia O'Keeffe Museum) 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

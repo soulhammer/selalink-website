@@ -1,11 +1,11 @@
 ---
 title: "몰입을 위한 환경 차단: 마야 안젤루의 호텔 격리 습관"
 description: "전설적인 시인이자 활성가 마야 안젤루는 집중력을 극대화하기 위해 자극이 없는 빈 호텔 방에서만 글을 썼습니다. 환경 자극 통제의 뇌과학적 원리를 살펴봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-21"
+updatedDate: "2026-03-21"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/angelou_hotel_isolation.png"
+tags: ["위인 습관", "마야 안젤루", "환경통제", "집중", "몰입"]
+heroImage: "/images/blog/angelou_hotel_isolation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "마야 안젤루 자서전 기록 & 메이슨 커리 『리추얼(Daily Rituals)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

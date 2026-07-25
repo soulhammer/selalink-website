@@ -1,11 +1,11 @@
 ---
 title: "Immersion im Lärm: Simone de Beauvoirs Routine von Café-Weißem-Rauschen und Umgebungsvereinfachung"
 description: "Entdecken Sie die Schreibroutine, die die Existenzphilosophin und Schriftstellerin Simone de Beauvoir täglich in ihrem Lieblingscafé in Paris bei einer Tasse Tee praktizierte, und erkunden Sie die neurologischen Mechanismen sanften weißen Rauschens sowie Methoden zum Aufbau Ihrer eigenen Fokus-Zone."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-08"
+updatedDate: "2026-06-08"
 category: "BuildSelf"
-tags: ["Immersion ","Routine"]
-heroImage: "/images/blog/beauvoir_cafe_writing.png"
+tags: ["매일 같은 카페에서","Routine"]
+heroImage: "/images/blog/beauvoir_cafe_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Simone de Beauvoirs Autobiografie *Die Macht der Dinge (La Force des choses)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

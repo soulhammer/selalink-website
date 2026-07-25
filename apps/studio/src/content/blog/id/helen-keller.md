@@ -1,11 +1,11 @@
 ---
 title: "Membangunkan Ejaan Telapak Tangan di Dalam Kegelapan: Pelatihan Imitasi Taktil dan Rutinitas Plastisitas Somatosensori Helen Keller"
 description: "Pelajari bagaimana Helen Keller, yang mengatasinya tuna netra-rungu hingga menjadi penulis dan aktivis hak asasi manusia ternama dunia, memperluas alam pikirannya dengan menstimulasi korteks somatosensori melalui ejaan taktil telapak tangan."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-12"
+updatedDate: "2026-03-12"
 category: "BuildSelf"
-tags: ["Membangunk","Routine"]
-heroImage: "/images/blog/helen_keller.png"
+tags: ["위인 습관", "헬렌 켈러", "휴식", "성찰"]
+heroImage: "/images/blog/helen_keller.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Autobiografi Helen Keller *The Story of My Life*, Arsip Sekolah Perkins untuk Tunanetra & Penelitian Neurosains Kognitif"

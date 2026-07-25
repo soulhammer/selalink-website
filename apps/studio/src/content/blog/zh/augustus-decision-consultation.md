@@ -1,11 +1,11 @@
 ---
 title: "皇帝“欲速则不达”的果断决策：奥古斯都的多角度倾听建议习惯"
 description: "罗马皇帝奥古斯都于恺撒遇刺后，弃独断专行，彻底倾听梅塞纳斯、阿格里帕等幕僚的不同意见，从而简化决策。揭示通过倾听与过滤破除盲信最初判断之确认偏误的脑科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["皇帝“欲速则不达”的","Routine"]
-heroImage: "/images/blog/augustus_decision_consultation.png"
+tags: ["의사결정", "단순화", "생산성"]
+heroImage: "/images/blog/augustus_decision_consultation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "苏埃托尼乌斯《罗马十二帝王传（De vita Caesarum）》与卡西乌斯·狄奥《罗马史》考证与认知神经科学（Cognitive Neuroscience）研究"

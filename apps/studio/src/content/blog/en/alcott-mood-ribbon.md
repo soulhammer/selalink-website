@@ -1,11 +1,11 @@
 ---
 title: "Do Not Disturb When the Pillow Is Upright: Louisa May Alcott's Focus Signal"
 description: "Introducing the 'Mood Pillow', a focus signal used by Louisa May Alcott, author of 'Little Women'. Discover a 3-step guide to reducing cognitive task-switching costs by blocking surrounding distractions."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["Great Habits","alcott","Routine","Stamina"]
-heroImage: "/images/blog/alcott_mood_ribbon.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/alcott_mood_ribbon.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Louisa May Alcott, *Her Life, Letters, and Journals* (1889) & *Journal of Personality and Social Psychology*"

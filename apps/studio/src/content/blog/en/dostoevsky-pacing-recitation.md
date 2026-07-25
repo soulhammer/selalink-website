@@ -1,11 +1,11 @@
 ---
 title: "The Voice Echoing in the Room: Fyodor Dostoevsky's Pacing Recitation and Motor-Language Cortical Integration"
 description: "Discover how Fyodor Dostoevsky, author of 'Crime and Punishment', paced his room while acting out dialogue before dictating to his wife Anna. Explore the cognitive neuroscience of motor cortex stimulation, Broca's and Wernicke's area activation, and mirror neuron recruitment."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-25"
+updatedDate: "2026-05-25"
 category: "BuildSelf"
-tags: ["Great Habits","dostoevsky","Routine","Stamina"]
-heroImage: "/images/blog/dostoevsky_pacing_recitation.png"
+tags: ["위인 습관", "표도르 도스토옙스키", "창의성", "기록", "공부"]
+heroImage: "/images/blog/dostoevsky_pacing_recitation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Anna Dostoevskaya's Memoirs *Reminiscences* & Cognitive Neuroscience Research"

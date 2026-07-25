@@ -1,11 +1,11 @@
 ---
 title: "Forzar la Concentración Bloqueando Salidas: El Hábito de Aislamiento Afeitándose de Victor Hugo y la Estrategia de Precompromiso"
 description: "Descubra cómo Victor Hugo se afeitó la mitad del cabello y la barba para evitar salir de casa y cumplir con una fecha límite. Explore la neurociencia de las restricciones físicas ambientales y la prevención de la fatiga de voluntad."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-29"
+updatedDate: "2026-06-29"
 category: "BuildSelf"
-tags: ["Forzar la ","Routine"]
-heroImage: "/images/blog/hugo_hair_shaving.png"
+tags: ["위인 습관", "빅토르 위고", "몰입", "환경 제약", "생산성"]
+heroImage: "/images/blog/hugo_hair_shaving.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de *Victor Hugo: Una biografía* de Graham Robb, Terapia de Conducta e Investigación en Neurociencia Cognitiva"

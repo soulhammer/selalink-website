@@ -1,11 +1,11 @@
 ---
 title: "クレオパトラの「多言語学習」：通訳なしで世界を主導した知的対話の習慣"
 description: "ラテン語、エチオピア語など9つの言語を通訳なしで完璧に駆使したエジプトの女王クレオパトラ。ブローカ・ウェルニッケ野の刺激、灰白質密度の向上、前頭前野の認知的柔軟性を引き上げる認知神経科学的原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-03"
+updatedDate: "2026-03-03"
 category: "BuildSelf"
-tags: ["クレオパトラの「多言","Routine"]
-heroImage: "/images/blog/cleopatra_multilingual_study.png"
+tags: ["위인 습관", "클레오파트라", "언어 공부", "인지 유연성", "뇌 가소성"]
+heroImage: "/images/blog/cleopatra_multilingual_study.webp"
 app: "buildself"
 formatVersion: 4
 authority: "プルタルコス伝記『Parallel Lives』考証＆認知神経科学（Cognitive Neuroscience）研究"

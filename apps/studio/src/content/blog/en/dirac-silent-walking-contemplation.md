@@ -1,11 +1,11 @@
 ---
 title: "The Genius Who Walked in Silence with Fewest Words: Paul Dirac's Silent Walking Routine and Linguistic Noise Removal"
 description: "Explore how quantum mechanics pioneer and Nobel laureate Paul Dirac refined the Dirac Equation through silent Sunday walks. Discover the cognitive neuroscience of suppressing left-hemisphere linguistic noise and activating parietal visuospatial circuits."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-25"
+updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["Great Habits","dirac","Routine","Stamina"]
-heroImage: "/images/blog/dirac_silent_walking_contemplation.png"
+tags: ["위인 습관", "Routine"]
+heroImage: "/images/blog/dirac_silent_walking_contemplation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Graham Farmelo's Biography *The Strangest Man: The Hidden Life of Paul Dirac* & Cognitive Neuroscience Research"

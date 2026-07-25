@@ -1,11 +1,11 @@
 ---
 title: "Despertando el Deletreo en la Palma en la Oscuridad: La Rutina de Entrenamiento de Imitación Táctil y Plasticidad Somatosensorial de Helen Keller"
 description: "Descubra cómo Helen Keller, quien superó la sordoceguera para convertirse en una escritora y activista de derechos humanos de fama mundial, expandió su universo interior estimulando su corteza somatosensorial mediante el deletreo táctil en la palma. Explore la neuroplasticidad cruzada."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-12"
+updatedDate: "2026-03-12"
 category: "BuildSelf"
-tags: ["Despertand","Routine"]
-heroImage: "/images/blog/helen_keller.png"
+tags: ["위인 습관", "헬렌 켈러", "휴식", "성찰"]
+heroImage: "/images/blog/helen_keller.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la Autobiografía de Helen Keller *La historia de mi vida (The Story of My Life)*, Archivos de la Escuela Perkins para Ciegos e Investigación en Neurociencia Cognitiva"

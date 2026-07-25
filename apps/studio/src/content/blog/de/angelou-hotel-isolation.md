@@ -1,11 +1,11 @@
 ---
 title: "Umweltblockade für Fokus: Maya Angelous Hotel-Isolationsroutine"
 description: "Die legendäre Dichterin und Aktivistin Maya Angelou schrieb ausschließlich in reizfreien, leeren Hotelzimmern, um ihre Konzentration zu maximieren. Erkunden Sie die neurowissenschaftlichen Prinzipien der Umweltreizsteuerung."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-21"
+updatedDate: "2026-03-21"
 category: "BuildSelf"
-tags: ["Umweltbloc","Routine"]
-heroImage: "/images/blog/angelou_hotel_isolation.png"
+tags: ["위인 습관", "마야 안젤루", "환경통제", "집중", "몰입"]
+heroImage: "/images/blog/angelou_hotel_isolation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Maya Angelous autobiografischen Aufzeichnungen, Mason Curreys *Daily Rituals* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

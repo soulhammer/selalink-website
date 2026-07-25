@@ -1,11 +1,11 @@
 ---
 title: "脳の健康を覚醒させる足取り：ジョン・クインシー・アダムズの早歩き散歩と省察記録ルーティン"
 description: "第6代米大統領ジョン・クインシー・アダムズは毎日5マイルの速歩散歩と夜の省察記述を貫きました。BDNF分泌を刺激する健康な脳習慣をご紹介します。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-06"
+updatedDate: "2026-04-06"
 category: "BuildSelf"
-tags: ["脳の健康を覚醒させる","Routine"]
-heroImage: "/images/blog/adams_morning_walk.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/adams_morning_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ジョン・クインシー・アダムズ歴史的評伝および自伝記録の考証＆認知神経科学（Cognitive Neuroscience）研究"

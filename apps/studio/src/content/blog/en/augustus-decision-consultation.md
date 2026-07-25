@@ -1,11 +1,11 @@
 ---
 title: "The Emperor's Decisive 'Make Haste Slowly': Augustus's Multi-Angle Consultation Habit"
 description: "Roman Emperor Augustus, who simplified decisions after Caesar's assassination by thoroughly listening to dissenting opinions from advisors like Maecenas and Agrippa instead of acting dogmatically. Explore the neuroscientific principles of listening and filtering to break confirmation bias."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["Great Habits","augustus","Routine","Stamina"]
-heroImage: "/images/blog/augustus_decision_consultation.png"
+tags: ["의사결정", "단순화", "생산성"]
+heroImage: "/images/blog/augustus_decision_consultation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Suetonius's *De vita Caesarum* & Cassius Dio's *Roman History* & Cognitive Neuroscience Research"

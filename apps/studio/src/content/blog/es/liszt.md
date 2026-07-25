@@ -1,11 +1,11 @@
 ---
 title: "Tocar una Tecla por Segundo Sin Errores Reduciendo el Tempo: La Rutina de Aprendizaje Cerebeloso y Mielinización de Franz Liszt"
 description: "Descubra cómo el pianista Franz Liszt dominó la precisión virtuosa reduciendo el tempo a una tecla por segundo. Explore la neurociencia del aprendizaje motor cerebeloso, la mielinización, el aprendizaje sin errores y un guía de 3 pasos."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-14"
+updatedDate: "2026-04-14"
 category: "BuildSelf"
-tags: ["Tocar una ","Routine"]
-heroImage: "/images/blog/liszt.png"
+tags: ["위인 습관", "프란츠 리스트", "의지력", "시간 관리"]
+heroImage: "/images/blog/liszt.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la Biografía de Alan Walker *Franz Liszt: The Virtuoso Years*, Archivos de Liszt e Investigación en Neurociencia Cognitiva y Ciencia del Aprendizaje Motor"

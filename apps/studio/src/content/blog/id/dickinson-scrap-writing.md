@@ -1,11 +1,11 @@
 ---
 title: "Inspirasi Hebat di Balik Amplop: Kebiasaan Menulis di Kertas Bekas ala Emily Dickinson dan Relaksasi Inkubasi"
 description: "Pelajari bagaimana jenius puitis Amerika Emily Dickinson secara spontan mencoret-coret puisi di kwitansi dan bungkus saat memanggang roti. Temukan neurosains kognitif tentang aktivasi Default Mode Network (DMN) dan Efek Inkubasi."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-02"
+updatedDate: "2026-05-02"
 category: "BuildSelf"
-tags: ["Inspirasi ","Routine"]
-heroImage: "/images/blog/dickinson_scrap_writing.png"
+tags: ["위인 습관", "에밀리디킨슨", "영수증시", "즉흥기록", "창의성"]
+heroImage: "/images/blog/dickinson_scrap_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Biografi Richard B. Sewall *The Life of Emily Dickinson* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

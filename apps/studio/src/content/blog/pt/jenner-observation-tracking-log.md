@@ -1,11 +1,11 @@
 ---
 title: "O Pai da Imunologia que Conquistou a Varíola: A Rotina de Diário de Campo e a Neurociência do Grit de Edward Jenner"
 description: "Descubra como o médico rural Edward Jenner inventou a vacina contra a varíola acumulando anos de diários de observação de campo. Explore a neurociência dos circuitos de recompensa de dopamina orientados ao processo e o grit pré-frontal."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-14"
+updatedDate: "2026-07-14"
 category: "BuildSelf"
-tags: ["O Pai da I","Routine"]
-heroImage: "/images/blog/jenner_observation_tracking_log.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/jenner_observation_tracking_log.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica do Tratado de Edward Jenner *Uma Investigação sobre as Causas e Efeitos da Vacina da Varíola* (1798), Arquivos da Royal Society e Pesquisa em Neurociência Cognitiva e História da Medicina"

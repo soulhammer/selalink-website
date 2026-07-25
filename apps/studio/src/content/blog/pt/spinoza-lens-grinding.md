@@ -1,11 +1,11 @@
 ---
 title: "스피노자의 렌즈 세공: 단순 반복 신체 노동으로 뇌 피로를 씻어내는 법"
 description: "범신론 철학자 스피노자가 에티카를 집필하는 틈틈이 렌즈를 깎는 미세 손노동을 통해 인지적 과부하를 비워내고 고도의 몰입 상태를 회복한 비결을 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-25"
+updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["스피노자의 렌즈 세","Routine"]
-heroImage: "/images/blog/spinoza_lens_grinding.png"
+tags: ["신체노동", "이완", "몰입", "근세"]
+heroImage: "/images/blog/spinoza_lens_grinding.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Spinoza Lens Grinding 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

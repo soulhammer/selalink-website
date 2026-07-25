@@ -1,11 +1,11 @@
 ---
 title: "동방견문록 탐험가의 메모법? 마르코 폴로의 야간 현장 감각 일지"
 description: "동방견문록의 저자 마르코 폴로. 24년간의 실크로드 탐험 속에서 밤마다 낯선 오감 감각을 기록해 인류 최고의 여행기를 남긴 현장 일지 루틴."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-30"
+updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: ["Great Habits","marco","Routine","Stamina"]
-heroImage: "/images/blog/marco_polo_travel_journal.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/marco_polo_travel_journal.webp"
 app: "buildself"
 formatVersion: 4
 authority: "마르코 폴로 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

@@ -1,11 +1,11 @@
 ---
 title: "Der unerschütterliche Beobachtungsturm: Nikolaus Kopernikus' Routine der raumfesten Konzentration und Umweltkonditionierung"
 description: "Erkunden Sie, wie Nikolaus Kopernikus jahrzehntelang einen festen Beobachtungsturm in Frombork nutzte. Entdecken Sie die kognitiven Neurowissenschaften der räumlichen Konditionierung und des kontextabhängigen Gedächtnisses."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["Der unersc","Routine"]
-heroImage: "/images/blog/copernicus_observatory_tower.png"
+tags: ["위인 습관", "니콜라우스 코페르니쿠스", "집중", "계획", "생산성"]
+heroImage: "/images/blog/copernicus_observatory_tower.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Nikolaus Kopernikus' *De revolutionibus orbium coelestium (Über die Umschwünge der himmlischen Kreise)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

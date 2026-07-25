@@ -1,11 +1,11 @@
 ---
 title: "수식 대신 입체 모형을 깎다: 요하네스 케플러의 '촉각적 공간 시각화' 루틴과 두정엽 자극"
 description: "천문학자 요하네스 케플러가 행성의 타원 궤도를 이해하기 위해 손으로 직접 기하학 모형을 깎아 만들던 입체 시각화 습관의 뇌과학적 원리와 두정엽(Parietal Lobe) 자극, 인지적 과부하 경감 및 3단계 실천법을 설명합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-24"
+updatedDate: "2026-06-24"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/kepler_geometric_modeling.png"
+tags: ["위인 습관", "학습"]
+heroImage: "/images/blog/kepler_geometric_modeling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "요하네스 케플러 저작집 『우주의 신비(Mysterium Cosmographicum, 1596)』 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 공간지각학(Spatial Cognition) 연구"

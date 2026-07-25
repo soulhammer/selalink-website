@@ -1,11 +1,11 @@
 ---
 title: "Fokus trotz Mangel: Lee Jung-seobs Folien-Zeichenroutine und somatosensorische Aktivierung"
 description: "Erfahren Sie, wie der Maler Lee Jung-seob trotz extremer Armut seine künstlerische Leidenschaft bewahrte, indem er auf Zigarettenschachtel-Alufolie zeichnete. Entdecken Sie die Neurowissenschaften der multisensorischen Rückkopplung, somatosensorischen Stimulation und eine 3-Schritte-Anleitung."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-14"
+updatedDate: "2026-03-14"
 category: "BuildSelf"
-tags: ["Fokus trot","Routine"]
-heroImage: "/images/blog/leejungseob_tin_foil_drawing.png"
+tags: ["위인 습관", "이중섭", "은지화 드로잉", "몰입 루틴", "촉각 자극", "마인드풀니스"]
+heroImage: "/images/blog/leejungseob_tin_foil_drawing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Lee Jung-seob Biografien, Archiven des National Museum of Modern and Contemporary Art (MMCA) & Forschung der kognitiven Neurowissenschaften und Kunsttherapie"

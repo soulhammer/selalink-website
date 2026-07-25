@@ -1,11 +1,11 @@
 ---
 title: "오프라인 몰입: 도널드 너스의 이메일 단절 루틴과 컨텍스트 스위칭 차단"
 description: "컴퓨터 과학의 거작을 완성하기 위해 1990년부터 이메일을 끊고 오프라인 딥 워크를 고수한 도널드 너스. 빈번한 컨텍스트 스위칭(Context Switching)과 주의 잔류(Attention Residue)를 차단하여 뇌의 주의 집중력을 지켜내는 원리와 3단계 실천법을 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/knuth_no_email.png"
+tags: ["위인 습관", "도널드 너스", "집중", "생산성", "시간 관리"]
+heroImage: "/images/blog/knuth_no_email.webp"
 app: "buildself"
 formatVersion: 4
 authority: "도널드 너스 공식 선언문 「이메일 사용 중단(Email and I)」 및 평전 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 인지심리학(Cognitive Psychology) 연구"

@@ -1,11 +1,11 @@
 ---
 title: "빛과 소음을 차단한 다용도실의 코더? 리누스 토발즈의 암실 집중 루틴"
 description: "리눅스와 깃의 창시자 리누스 토발즈. 외부 시각 자극과 일체의 전자기기 데코를 차단한 골방에서 초집중을 완성했던 그의 무소음 작업 환경 구축법을 다룹니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-30"
+updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: ["Great Habits","torvalds","Routine","Stamina"]
-heroImage: "/images/blog/torvalds_darkroom_focus.png"
+tags: ["위인 습관", "리누스 토발즈", "집중", "단순", "생산성"]
+heroImage: "/images/blog/torvalds_darkroom_focus.webp"
 app: "buildself"
 formatVersion: 4
 authority: "리누스 토발즈 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

@@ -23,16 +23,16 @@ faqs:
     answer: "Keep the seed in place, brush the cut surface with lemon juice or olive oil, and seal in an airtight container in the fridge to minimize browning."
 ---
 
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+Haben Sie schon einmal eine unreife Avocado in den Kühlschrank gelegt, nur um festzustellen, dass sie holzig wurde und verdarb? Heute teilt FreshSnap Tipps zur Reifung und Lagerung basierend auf CAC- und USDA-Richtlinien.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Geprüfte wissenschaftliche Autorität
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Dieser Leitfaden entspricht den offiziellen Richtlinien von: <strong>USDA & MFDS</strong>.
     </p>
   </div>
 </div>
@@ -41,7 +41,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
 
 ## 1. Warum so lagern? Wissenschaftliche Fakten
 
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtige Lagerungsmethode anzuwenden, ist entscheidend für Frische und Hygiene.
 
 ---
 
@@ -53,7 +53,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Vor der Reife in einer Papiertüte bei Raumtemperatur lagern — Lagerung bei Raumtemperatur (5Tage) 🥑</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+    Feste, unreife Avocados sollten bei Raumtemperatur (15–20 °C) gelagert werden. In einer Papiertüte mit Bananen oder Äpfeln beschleunigt das austretende Ethylengas den Reifungsprozess.
   </p>
 </div>
 
@@ -63,7 +63,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Sobald gereift, in Frischhaltefolie wickeln und kühlen — Kühllagerung (7Tage)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+    Sobald die Schale dunkelbraun wird und auf sanften Druck nachgibt, wickeln Sie die Avocado einzeln in Frischhaltefolie und lagern sie im Gemüsefach des Kühlschranks.
   </p>
 </div>
 
@@ -73,7 +73,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Zitronensaft auf die Schnittfläche träufeln und luftdicht verschließen — Verfärbungen verhindern 🍋</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+    Lassen Sie bei der übrig gebliebenen Hälfte den Kern stecken, bestreichen Sie die Schnittfläche mit etwas Zitronensaft (oder Olivenöl) und wickeln sie fest in Folie. Die Säure verhindert die Oxidation.
   </p>
 </div>
 
@@ -86,7 +86,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
   <div>
     <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Unreife Avocados nicht kühlen</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Das Kühlen vor der Reife stoppt den Reifeprozess dauerhaft. Die Textur bleibt holzig und zäh, selbst wenn sie wieder auf Raumtemperatur gebracht wird.
     </p>
   </div>
 </div>
@@ -96,7 +96,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
   <div>
     <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Zitrone auf die Schnittflächen träufeln</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Die Schnittfläche oxidiert an der Luft schnell und wird braun. Das Bestreichen mit Zitronensaft oder Olivenöl und das Belassen des Kerns schützt vor Sauerstoff.
     </p>
   </div>
 </div>
@@ -111,7 +111,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      No, putting hard green avocados in the fridge stops the ripening process and causes chilling injury, making the flesh turn black. Ripen at room temp until brown before chilling.
     </p>
   </details>
 
@@ -121,7 +121,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Keep the seed in place, brush the cut surface with lemon juice or olive oil, and seal in an airtight container in the fridge to minimize browning.
     </p>
   </details>
 </div>

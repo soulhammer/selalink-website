@@ -1,11 +1,11 @@
 ---
 title: "シャーロック・ホームズを書く前にボクシングを？アーサー・コナン・ドイルの脳覚醒スポーツルーティンとBDNF分泌法"
 description: "医師であり作家のアーサー・コナン・ドイルが、なぜ執筆前にボクシングやクリケットのような激しい運動にこだわったのかを解き明かします。高強度運動が脳由来神経栄養因子（BDNF）を放出し、前頭葉の実行機能と集中力を極大化する認知神経科学的原理を解説します。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-21"
+updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: ["シャーロック・ホーム","Routine"]
-heroImage: "/images/blog/doyle_sports_writing.png"
+tags: ["위인 습관", "생산성"]
+heroImage: "/images/blog/doyle_sports_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "アーサー・コナン・ドイル自伝『Memories and Adventures（思い出と冒険）』考証＆認知神経科学（Cognitive Neuroscience）研究"

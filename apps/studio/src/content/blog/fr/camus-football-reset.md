@@ -1,11 +1,11 @@
 ---
 title: "Un remède primitif contre le burn-out et la dépression existentielle : La routine de réinitialisation par le football d'Albert Camus"
 description: "Découvrez comment le prix Nobel de littérature et philosophe français Albert Camus se plongeait dans le rôle de gardien de but lors de ses pannes d'inspiration, et explorez les mécanismes neuroscientifiques de la mise hors ligne préfrontale et de la commutation cognitive cérébelleuse."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-21"
+updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: ["Un remède ","Routine"]
-heroImage: "/images/blog/camus_football_reset.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/camus_football_reset.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de la biographie d'Olivier Todd *Albert Camus : Une vie (Albert Camus: A Life)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

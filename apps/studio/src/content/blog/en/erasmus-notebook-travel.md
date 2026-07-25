@@ -1,11 +1,11 @@
 ---
 title: "Desiderius Erasmus's Travel Notebook Routine: Capturing Flashes of Insight On the Move"
 description: "Discover how Renaissance scholar Desiderius Erasmus drafted 'In Praise of Folly' while traveling across Europe on horseback with a pocket notebook. Explore the neuroscience of alpha waves, visual flow, and movement-induced creativity."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-11"
+updatedDate: "2026-06-11"
 category: "BuildSelf"
-tags: ["Great Habits","erasmus","Routine","Stamina"]
-heroImage: "/images/blog/erasmus_notebook_travel.png"
+tags: ["메모", "이동식학습", "인문주의", "르네상스"]
+heroImage: "/images/blog/erasmus_notebook_travel.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Desiderius Erasmus's *Epistolae*, Johan Huizinga's Biography *Erasmus* & Cognitive Neuroscience Research"

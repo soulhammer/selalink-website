@@ -1,11 +1,11 @@
 ---
 title: "Die Rettung der Menschheit aus dem Mülleimer: Alexander Flemings Fehler-Beobachtungsmethode und Anomalie-Entdeckungsroutine"
 description: "Erfahren Sie, wie Alexander Fleming, der Entdecker des Penicillins, die Medizingeschichte veränderte, indem er eine kontaminierte Petrischale untersuchte, anstatt sie wegzuwerfen. Entdecken Sie die Neurowissenschaften kognitiver Fixierung."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-08"
+updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: ["Die Rettun","Routine"]
-heroImage: "/images/blog/fleming_petridish_observation.png"
+tags: ["위인 습관", "알렉산더 플레밍", "실패 성찰", "확산적 사고", "세렌디피티"]
+heroImage: "/images/blog/fleming_petridish_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus André Maurois' *The Life of Sir Alexander Fleming*, Nobelpreis-Archiven & Forschung der kognitiven Neurowissenschaften"

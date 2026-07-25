@@ -1,11 +1,11 @@
 ---
 title: "踱步归来即刻戴帽站立挥毫：索伦·克尔凯郭尔的即时捕获习惯与认知预热指南"
 description: "探索存在主义哲学先驱索伦·克尔凯郭尔如何在推门归家之际，连外套帽子都顾不上脱下便直奔立式书桌站立记录。揭示认知预热、工作记忆保留、防范注意力残留（Attention Residue）与3步骤实践指南。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-08"
+updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: ["踱步归来即刻戴帽站立","Routine"]
-heroImage: "/images/blog/kierkegaard_standing_write.png"
+tags: ["위인 습관", "쇠렌 키르케고르", "기록", "스탠딩데스크", "영감"]
+heroImage: "/images/blog/kierkegaard_standing_write.webp"
 app: "buildself"
 formatVersion: 4
 authority: "索伦·克尔凯郭尔日记史料《克尔凯郭尔日记（Journals of Søren Kierkegaard）》与约阿希姆·加尔夫（Joakim Garff）传记史料考证及认知神经科学（Cognitive Neuroscience）研究"

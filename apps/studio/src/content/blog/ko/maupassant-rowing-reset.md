@@ -1,11 +1,11 @@
 ---
 title: "단편소설 거장의 머리 식히기? 기 드 모파상의 노젓기 수영 운동 루틴"
 description: "프랑스 단편 소설의 거장 기 드 모파상. 글쓰기로 지친 뇌를 센강 노젓기와 수영 운동으로 완벽하게 리셋한 강렬한 운동 루틴."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-11"
+updatedDate: "2026-06-11"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/maupassant_rowing_reset.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/maupassant_rowing_reset.webp"
 app: "buildself"
 formatVersion: 4
 authority: "기 드 모파상 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

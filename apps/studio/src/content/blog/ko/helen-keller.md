@@ -1,11 +1,11 @@
 ---
 title: "어둠 속에서 손바닥 철자 감각을 깨운 헬렌 켈러의 촉각 모방 훈련과 체성감각 가소성 루틴"
 description: "시각과 청각 장애를 극복하고 세계적 작가이자 인권 운동가가 된 헬렌 켈러. 손바닥 촉각 철자 감각으로 뇌의 체성감각 피질을 자극해 내면의 우주를 확장한 촉각 모방 루틴과 교차 감각 뇌 가소성의 원리를 탐구합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-12"
+updatedDate: "2026-03-12"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/helen_keller.png"
+tags: ["위인 습관", "헬렌 켈러", "휴식", "성찰"]
+heroImage: "/images/blog/helen_keller.webp"
 app: "buildself"
 formatVersion: 4
 authority: "헬렌 켈러 자서전 『내가 살아온 이야기(The Story of My Life)』 및 아카이브 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

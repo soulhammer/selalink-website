@@ -4,7 +4,7 @@ description: "《어린 왕자》의 저자이자 비행사인 생텍쥐페리�
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["생텍쥐페리의 조종석","Routine"]
+tags: ["위습관","루틴"]
 heroImage: "/images/blog/saintexupery_cockpit_contemplation.png"
 app: "buildself"
 formatVersion: 4

@@ -1,11 +1,11 @@
 ---
 title: "騒音の中の没頭：シモーヌ・ド・ボーヴォワールのカフェ白色雑音と環境単純化ルーティン"
 description: "実存主義思想家であり小説家のシモーヌ・ド・ボーヴォワールがパリの行きつけのカフェで紅茶を前に毎日実践した執筆ルーティン。静かな白色雑音が脳を呼び醒ます神経学的原理と自分だけの没頭作業区域（Focus Zone）構築法を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-08"
+updatedDate: "2026-06-08"
 category: "BuildSelf"
-tags: ["騒音の中の没頭：シモ","Routine"]
-heroImage: "/images/blog/beauvoir_cafe_writing.png"
+tags: ["매일 같은 카페에서","Routine"]
+heroImage: "/images/blog/beauvoir_cafe_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "シモーヌ・ド・ボーヴォワール自伝『La Force des choses』考証＆認知神経科学（Cognitive Neuroscience）研究"

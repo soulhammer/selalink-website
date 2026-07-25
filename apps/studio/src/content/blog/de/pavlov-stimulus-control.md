@@ -1,11 +1,11 @@
 ---
 title: "침묵의 타워: 노벨상 수상자 파블로프의 자극 통제 환경 설계법"
 description: "조건반사의 창시자 이반 파블로프의 자극 차단 루틴을 소개합니다. 외적 환경 변수를 제어해 인지 낭비를 제거하는 3단계 자극 통제 실천법."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-27"
+updatedDate: "2026-02-27"
 category: "BuildSelf"
-tags: ["침묵의 타워: 노벨","Routine"]
-heroImage: "/images/blog/pavlov_stimulus_control.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/pavlov_stimulus_control.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Pavlov Stimulus Control 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

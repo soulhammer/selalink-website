@@ -1,11 +1,11 @@
 ---
 title: "인내와 평정심을 기르는 리듬: 도쿠가와 이에야스의 생약 조제 루틴과 세로토닌 신경조절"
 description: "도쿠가와 이에야스의 정신 수양법. 매일 생약을 직접 약사발에 가던 리듬 운동의 세로토닌 신경조절 효과, 편도체 안정화 및 3단계 실천법을 다룹니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-01"
+updatedDate: "2026-04-01"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/ieyasu_herb_grinding.png"
+tags: ["위인 습관", "도쿠가와 이에야스", "생약 조제", "리듬 운동", "인내력", "마인드컨트롤"]
+heroImage: "/images/blog/ieyasu_herb_grinding.webp"
 app: "buildself"
 formatVersion: 4
 authority: "도쿠가와 이에야스 평전 및 도쿠가와 미술관(Tokugawa Art Museum) 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

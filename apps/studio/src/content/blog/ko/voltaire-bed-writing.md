@@ -1,11 +1,11 @@
 ---
 title: "침대에서 나오지 마세요: 계몽주의 거장 볼테르의 아침 뇌 리셋법"
 description: "프랑스의 대문호 볼테르가 평생 실천했던 침대 위 아침 집필 습관을 알아봅니다. 수면 직후 뇌가 가장 창의적인 hypnopompic 상태를 활용한 현대적 3단계 가이드를 확인하세요."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-21"
+updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/voltaire_bed_writing.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/voltaire_bed_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Voltaire Bed Writing 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

@@ -1,11 +1,11 @@
 ---
 title: "Presisi untuk Menenangkan Pikiran yang Ragu: Rutinitas Meditasi Kaligrafi dan Kontrol Motorik Halus Kim Koo"
 description: "Pelajari bagaimana Kim Koo, pemimpin Pemerintahan Sementara Republik Korea, melatih pikirannya melalui kaligrafi. Temukan neurosains kontrol motorik halus, stabilisasi amigdala, dan panduan praktis 3 langkah."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-06"
+updatedDate: "2026-02-06"
 category: "BuildSelf"
-tags: ["Presisi un","Routine"]
-heroImage: "/images/blog/kimgu_brush_meditation.png"
+tags: ["위인 습관", "백범 김구", "서예 명상", "붓글씨", "불안 조절", "마음 수양"]
+heroImage: "/images/blog/kimgu_brush_meditation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Autobiografi Kim Koo *Baekbum Ilji*, Arsip Pemerintahan Sementara & Penelitian Neurosains Kognitif serta Sains Kontrol Motorik"

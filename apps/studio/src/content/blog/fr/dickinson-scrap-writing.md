@@ -1,11 +1,11 @@
 ---
 title: "Une grande inspiration au dos d'une enveloppe : L'habitude d'écrire sur des bouts de papier d'Emily Dickinson et la relaxation par incubation"
 description: "Découvrez comment le génie poétique américain Emily Dickinson griffonnait spontanément des poèmes sur des reçus et des emballages tout en cuisant du pain. Explorez la neuroscience cognitive de l'activation du DMN et de l'effet d'incubation."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-02"
+updatedDate: "2026-05-02"
 category: "BuildSelf"
-tags: ["Une grande","Routine"]
-heroImage: "/images/blog/dickinson_scrap_writing.png"
+tags: ["위인 습관", "에밀리디킨슨", "영수증시", "즉흥기록", "창의성"]
+heroImage: "/images/blog/dickinson_scrap_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de la biographie de Richard B. Sewall *La Vie d'Emily Dickinson (The Life of Emily Dickinson)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

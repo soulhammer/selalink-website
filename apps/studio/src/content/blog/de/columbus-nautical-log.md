@@ -1,11 +1,11 @@
 ---
 title: "Der Kapitän, der das Zeitalter der Entdeckungen einleitete: Christoph Kolumbus' nächtliches Logbuch und Amygdala-Beruhigung"
 description: "Erkunden Sie, wie der Entdecker Christoph Kolumbus inmitten von Seestürmen durch ein nächtliches Logbuch seine rationale Gelassenheit bewahrte. Entdecken Sie die kognitiven Neurowissenschaften, wie nächtliches Protokollieren die Amygdala beruhigt."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-25"
+updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["Der Kapitä","Routine"]
-heroImage: "/images/blog/columbus_nautical_log.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/columbus_nautical_log.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Bartolomé de las Casas' *Schiffstagebuch des Christoph Kolumbus (The Diario of Christopher Columbus)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

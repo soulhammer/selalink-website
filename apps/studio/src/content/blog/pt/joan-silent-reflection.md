@@ -1,11 +1,11 @@
 ---
 title: "A Âncora Inabalável da Convicção: A Rotina de Silêncio Matinal e Estabilização da Amígdala de Joana d'Arc"
 description: "Descubra como a heroína francesa Joana d'Arc preservou uma convicção inabalável durante a Guerra dos Cem Anos através do silêncio matinal. Explore a neuropsicologia da supressão de ruído, estabilização da amígdala e alinhamento cognitivo."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-12"
+updatedDate: "2026-02-12"
 category: "BuildSelf"
-tags: ["A Âncora I","Routine"]
-heroImage: "/images/blog/joan_silent_reflection.png"
+tags: ["위인 습관", "잔다르크", "침묵명상", "신념정렬", "멘탈회복"]
+heroImage: "/images/blog/joan_silent_reflection.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica dos Registros do Julgamento de Joana d'Arc (*Procès de Condamnation et de Réhabilitation*) e Pesquisa em Neurociência Cognitiva"

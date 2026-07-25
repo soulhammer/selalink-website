@@ -1,11 +1,11 @@
 ---
 title: "El Dúo de Divergencia y Convergencia: Las Notas de Paseo y la Rutina Nocturna de Diario de Ralph Waldo Emerson"
 description: "Descubra cómo Ralph Waldo Emerson transformó chispas fugaces en sistemas filosóficos orgánicos al unir las notas de paseo diurnas (pensamiento divergente) con el diario nocturno (pensamiento convergente)."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-02"
+updatedDate: "2026-06-02"
 category: "BuildSelf"
-tags: ["El Dúo de ","Routine"]
-heroImage: "/images/blog/emerson_walking_journal_integration.png"
+tags: ["사색", "휴식", "기록"]
+heroImage: "/images/blog/emerson_walking_journal_integration.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de *The Journals of Ralph Waldo Emerson* e Investigación en Neurociencia Cognitiva"

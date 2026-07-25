@@ -15,23 +15,28 @@ faqs:
   - question: "O que acontece se eu não apoiar os quadris do Ragdoll ao segurá-lo?"
     answer: "Sendo uma raça grande, segurá-los apenas pelas axilas concentra seu peso (muitas vezes mais de 7kg) na coluna, elevando o risco de lesão discal ou luxação."
 ---
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+
+Os Ragdolls são gatos grandes famosos por relaxarem completamente como uma boneca de pano ao colo. Com seus olhos azuis cativantes, pelagem sedosa e personalidade incrivelmente dócil, são chamados de 'gatos anjo'. 🐈
+
+No entanto, por ser uma raça grande que atinge pesos de 7 a 10 kg, suas articulações inferiores suportam uma carga pesada. Além disso, a postura relaxada ao colo pode causar torção na coluna se não for apoiada de forma adequada. Aprender técnicas corretas é essencial.
+
+Hoje, o PetSelf decodifica a linguagem corporal do Ragdoll e apresenta uma rotina de cuidados diários de 3 passos para proteger suas articulações.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+      Evidência Veterinária e Comportamental
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+      Este conteúdo baseia-se em <strong>Guia de raças da Cat Fanciers' Association (CFA) e diretrizes de prática amigável com gatos da AAFP</strong>.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+    🐾 Ragdoll Perfil principal
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Vida útil média</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 17 anos</span></div>
@@ -42,7 +47,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
 
 ## 1. Sinais de calma do Ragdoll: Piscadas lentas e dedos relaxados
 
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+Os Ragdolls expressam sua confiança não apenas relaxando, mas também por gestos com olhos e patas. Os sinais incluem 'piscadas lentas' e 'dedos relaxados'. Olhar e piscar lentamente é uma mensagem de afeto. Quando se sentem extremamente felizes, abrem os dedos como um leque. Acariciar sob o queixo maximiza sua segurança.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -76,7 +81,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Manhã: Alongamento leve para a saúde esquelética</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+    Por ser uma raça grande, o cansaço acumula nas articulações. Antes de se moverem, alongue suavemente as patas traseiras.
   </p>
 </div>
 
@@ -86,7 +91,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: Escovação com escova de pinos para evitar nós</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+    O subpelo é muito macio e propenso a nós. Escove com escova de pinos arredondados para ventilar a pelagem e evitar dermatite.
   </p>
 </div>
 
@@ -96,7 +101,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noite: Técnica de colo seguro com suporte nos quadris</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+    Levantar apenas a parte superior do corpo torce a coluna. Apoie sempre o peito com uma mão e os quadris com a outra.
   </p>
 </div>
 
@@ -105,7 +110,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+      Observar simplesmente os sinais de calma do seu animal de estimação pode prevenir grandes problemas comportamentais e doenças induzidas pelo estresse. Embora o tratamento veterinário seja importante, proporcionar um ambiente seguro (degraus, espaços verticais, múltiplas fontes de água) é o escudo mais forte para apoiar a sua felicidade ao longo da vida.
     </p>
   </div>
 </div>
@@ -123,7 +128,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+      Não. Este é um traço genético único do Ragdoll, no qual relaxam seus músculos quando se sentem seguros e confiam em quem os segura. Não é um defeito físico.
     </p>
   </details>
 
@@ -133,7 +138,7 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
+      Sendo uma raça grande, segurá-los apenas pelas axilas concentra seu peso (muitas vezes mais de 7kg) na coluna, elevando o risco de lesão discal ou luxação.
     </p>
   </details>
 </div>

@@ -1,11 +1,11 @@
 ---
 title: "창작의 백지화: 앤디 워홀의 매일 아침 구두 일기 습관"
 description: "비서에게 전화로 어제의 일과와 세세한 지출을 읊조려 기록했던 앤디 워홀. 매일 아침 구두 일기 출력이 인지 과부하를 비워내고 주의 영역을 초기화한 과학적 메커니즘을 규명합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-25"
+updatedDate: "2026-05-25"
 category: "BuildSelf"
-tags: ["창작의 백지화: 앤","Routine"]
-heroImage: "/images/blog/warhol_morning_dictation.png"
+tags: ["기록", "기획", "생산성"]
+heroImage: "/images/blog/warhol_morning_dictation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Warhol Morning Dictation 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

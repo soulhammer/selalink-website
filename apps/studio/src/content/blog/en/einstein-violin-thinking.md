@@ -1,11 +1,11 @@
 ---
 title: "The Genius Who Played the Violin at a Thought Dead End: Albert Einstein's Reset Routine and Cognitive Shifting Method"
 description: "Discover how Albert Einstein, who revolutionized physics, used violin playing to reset his brain during creative deadlocks, and explore a 3-step cognitive shifting practical guide for modern professionals."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-05"
+updatedDate: "2026-03-05"
 category: "BuildSelf"
-tags: ["Great Habits","einstein","Routine","Stamina"]
-heroImage: "/images/blog/einstein_violin_thinking.png"
+tags: ["위인 습관", "알베르트 아인슈타인", "창의성", "휴식", "아이디어"]
+heroImage: "/images/blog/einstein_violin_thinking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Albert Einstein's Essay Collection *Out of My Later Years*, Walter Isaacson's Biography *Einstein: His Life and Universe* & Cognitive Neuroscience Research"

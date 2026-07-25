@@ -1,11 +1,11 @@
 ---
 title: "复制他人步幅的镜面视角：查理·卓别林的大脑肢体模仿与人性剖析习惯"
 description: "探索无声电影时代的巨匠查理·卓别林在街头观察并物理模仿陌生人步态与动作的习惯，揭示激活前运动皮层镜像神经元（Mirror Neurons）以拓宽身体图式（Body Schema）并最大化提升他人共情能力的神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-01"
+updatedDate: "2026-03-01"
 category: "BuildSelf"
-tags: ["复制他人步幅的镜面视","Routine"]
-heroImage: "/images/blog/charlie_chaplin.png"
+tags: ["위인 습관", "찰리 채플린", "창의성", "사색"]
+heroImage: "/images/blog/charlie_chaplin.webp"
 app: "buildself"
 formatVersion: 4
 authority: "查理·卓别林自传《卓别林自传（My Autobiography）》考证与认知神经科学（Cognitive Neuroscience）研究"

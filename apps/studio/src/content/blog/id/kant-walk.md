@@ -1,11 +1,11 @@
 ---
 title: "Jam dari Königsberg: Jalan-Jalan Harian Jam 3:30 Sore Immanuel Kant dan Presisi Ritme Sirkadian"
 description: "Pelajari bagaimana raksasa filsafat modern Immanuel Kant mempertahankan kejernihan mental yang tidak tertandingi melalui jalan-jalan jam 3:30 sore di Königsberg. Temukan neurosains stimulasi nukleus suprakiasmatik (SCN) dan pernapasan hidung."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-18"
+updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: ["Jam dari K","Routine"]
-heroImage: "/images/blog/kant_walk.png"
+tags: ["위인 습관", "임마누엘 칸트", "산책", "규율", "휴식"]
+heroImage: "/images/blog/kant_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari *Kant: A Biography* karya Manfred Kuehn, Arsip Königsberg & Penelitian Neurosains Kognitif"

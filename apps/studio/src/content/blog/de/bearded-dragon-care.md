@@ -16,16 +16,16 @@ faqs:
     answer: "Ein weicher Unterkiefer, geschwollene Gliedmaßen, Muskelzittern oder Kraftlosigkeit beim Gehen. Tauschen Sie sofort die UVB-Lampe und suchen Sie einen reptilienkundigen Tierarzt auf."
 ---
 
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+Bartagamen gehören aufgrund ihres sanften Wesens zu den beliebtesten Reptilien. Als wechselwarme Tiere sind sie jedoch vollständig auf externe Wärme und UVB-Strahlung angewiesen, um Nahrung zu verdauen und Kalzium aufzunehmen. Ein Mangel führt zur metabolischen Knochenerkrankung (MBD), die Knochenerweichungen und Lähmungen verursacht. Heute entschlüsselt PetSelf die sozialen Signale von Bartagamen und teilt eine 3-Schritt-Tagesroutine für Sonnenplatz und Kalziumversorgung.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Veterinärmedizinische & verhaltensbedingte Nachweise
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Dieser Inhalt basiert auf <strong>Haltungsrichtlinien der ARAV (Association of Reptilian and Amphibian Veterinarians) und herpetologische Standards</strong>.
     </p>
   </div>
 </div>
@@ -43,7 +43,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
 
 ## 1. Bartagamen-Kommunikation: Kopfnicken und Winken
 
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+Bartagamen kommunizieren über auffällige Körperbewegungen. Schnelles Auf- und Abnicken mit dem Kopf ('Head Bobbing') zeigt Dominanz oder Revieransprüche. Das langsame, kreisende Winken mit einem Vorderbein ('Arm Waving') signalisiert Unterwerfung oder freundliche Kontaktaufnahme.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -77,7 +77,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Morgen: Einschalten der Wärme- & UVB-Lampen</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+    Aktivieren Sie die Beleuchtung. Der Sonnenplatz muss 35-40 °C erreichen, damit die Bartagame ihre Körpertemperatur zur Verdauung hochfahren kann.
   </p>
 </div>
 
@@ -87,7 +87,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Nachmittag: Fütterung mit kalziumbestäubten Insekten</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+    Füttern Sie Futtertiere, die mit Kalziumpulver (bei Innenhaltung mit D3) bestäubt sind. Bieten Sie frisches Gemüse an.
   </p>
 </div>
 
@@ -97,7 +97,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Abend: Nachtabsenkung & Ausschalten der Lichter</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+    Schalten Sie alle Lichter aus. Sichern Sie eine Nachtabsenkung, die jedoch nicht unter 18 °C liegen darf.
   </p>
 </div>
 
@@ -106,7 +106,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Das einfache Beobachten der Beschwichtigungssignale Ihres Haustiers kann schwerwiegende Verhaltensprobleme und stressbedingte Krankheiten verhindern. Während eine tierärztliche Behandlung wichtig ist, ist eine sichere Umgebung (Treppen, vertikale Räume, mehrere Wasserstellen) der stärkste Schutz für ihr lebenslanges Glück.
     </p>
   </div>
 </div>
@@ -124,7 +124,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      UVB-Lampen verlieren ihre UV-Leistung, lange bevor sie durchbrennen. Sie müssen alle 6 bis 12 Monate ersetzt werden, da sonst Mangelerscheinungen drohen.
     </p>
   </details>
 
@@ -134,7 +134,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Ein weicher Unterkiefer, geschwollene Gliedmaßen, Muskelzittern oder Kraftlosigkeit beim Gehen. Tauschen Sie sofort die UVB-Lampe und suchen Sie einen reptilienkundigen Tierarzt auf.
     </p>
   </details>
 </div>

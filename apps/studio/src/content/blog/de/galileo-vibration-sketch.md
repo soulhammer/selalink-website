@@ -1,11 +1,11 @@
 ---
 title: "Galileis Pendelschwingungs-Skizzen: Wie man durch räumliche Kognition komplexe Strukturen vereinfacht"
 description: "Erfahren Sie, wie Galileo Galilei, der Vater der modernen Wissenschaft, durch geometrische Skizzen von Schwingungen physikalische Gesetze intuitiv erfasste. Entdecken Sie die Neurowissenschaften des visuell-räumlichen Notizblocks."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-01"
+updatedDate: "2026-02-01"
 category: "BuildSelf"
-tags: ["Galileis P","Routine"]
-heroImage: "/images/blog/galileo_vibration_sketch.png"
+tags: ["시각화", "스케치", "물리학", "근세"]
+heroImage: "/images/blog/galileo_vibration_sketch.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Galileo Galileis *Unterredungen und mathematische Demonstrationen über zwei neue Wissenschaftszweige* & *Il Saggiatore*, Archiven der Universität Pisa & Forschung der kognitiven Neurowissenschaften"

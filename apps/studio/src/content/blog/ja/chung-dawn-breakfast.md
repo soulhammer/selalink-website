@@ -1,11 +1,11 @@
 ---
 title: "夜明けを開くときめき：鄭周永会長の5時家族朝食と徒歩ルーティン"
 description: "現代グループ創業者の鄭周永会長が生涯守り続けた毎日午前4時起床と朝の家族コミュニケーション。朝の有酸素運動と情緒的交流が一日のコルチゾール分泌を安定させ活力をもたらす神経科学的・生理学的原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-12"
+updatedDate: "2026-06-12"
 category: "BuildSelf"
-tags: ["夜明けを開くときめき","Routine"]
-heroImage: "/images/blog/chung_dawn_breakfast.png"
+tags: ["위인 습관", "정주영", "의지력", "계획", "시간 관리"]
+heroImage: "/images/blog/chung_dawn_breakfast.webp"
 app: "buildself"
 formatVersion: 4
 authority: "鄭周永自伝『試練はあっても失敗はない』考証＆認知神経科学（Cognitive Neuroscience）研究"

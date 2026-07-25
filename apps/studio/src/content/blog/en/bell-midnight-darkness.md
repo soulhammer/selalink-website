@@ -1,11 +1,11 @@
 ---
 title: "Invention in Total Darkness: Alexander Graham Bell's Midnight Sensory Deprivation and Deep Work"
 description: "Explore how Alexander Graham Bell, inventor of the telephone who revolutionized human communication, cleared sensory overload and awakened brain executive function through his 'midnight total darkness' deep work, and discover the neuroscientific mechanism of Sensory Deprivation."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-12"
+updatedDate: "2026-05-12"
 category: "BuildSelf"
-tags: ["Great Habits","bell","Routine","Stamina"]
-heroImage: "/images/blog/bell_midnight_darkness.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/bell_midnight_darkness.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Robert V. Bruce's Biography *Bell: Alexander Graham Bell and the Conquest of Solitude* & Cognitive Neuroscience Research"

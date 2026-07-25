@@ -1,11 +1,11 @@
 ---
 title: "完全黑暗中的发明：亚历山大·格拉汉姆·贝尔的午夜感官剥夺与深度工作"
 description: "探索发明电话并改变人类沟通范式的亚历山大·格拉汉姆·贝尔，如何通过“午夜完全黑暗”深度工作法消除白天的感官过载并唤醒大脑执行功能，揭示感官剥夺（Sensory Deprivation）的神经科学机制。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-12"
+updatedDate: "2026-05-12"
 category: "BuildSelf"
-tags: ["完全黑暗中的发明：亚","Routine"]
-heroImage: "/images/blog/bell_midnight_darkness.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/bell_midnight_darkness.webp"
 app: "buildself"
 formatVersion: 4
 authority: "罗伯特·V·布鲁斯传记《贝尔（Bell: Alexander Graham Bell and the Conquest of Solitude）》考证与认知神经科学（Cognitive Neuroscience）研究"

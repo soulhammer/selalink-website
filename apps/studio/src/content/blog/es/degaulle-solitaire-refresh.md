@@ -1,11 +1,11 @@
 ---
 title: "Un Solitario en la Oficina Presidencial: La Rutina de Alivio de la Fatiga de Decisión de Charles de Gaulle"
 description: "Descubra cómo el presidente francés Charles de Gaulle se desbalanzaba del estrés de Estado jugando al solitario. Explore la neurociencia cognitiva de cómo el emparejamiento de patrones no verbales desactiva los filtros prefrontales de toma de decisiones y calma la amígdala."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-28"
+updatedDate: "2026-03-28"
 category: "BuildSelf"
-tags: ["Un Solitar","Routine"]
-heroImage: "/images/blog/degaulle_solitaire_refresh.png"
+tags: ["위인 습관", "샤를 드 골", "솔리테어", "의사결정 피로", "두뇌 이완"]
+heroImage: "/images/blog/degaulle_solitaire_refresh.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de las Memorias de Charles de Gaulle *Memorias de guerra (Mémoires de guerre)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"

@@ -1,11 +1,11 @@
 ---
 title: "Filosofi Manajemen di Ujung Kuas: Ritual Kaligrafi Pagi dan Aktivasi Korteks Motorik Primer Lee Byung-chul"
 description: "Pelajari bagaimana Lee Byung-chul, pendiri Samsung, mempertajam kejernihan strategis melalui ritual kaligrafi kuas pagi harinya. Temukan sains kontrol motorik halus, keterlibatan korteks motorik primer, relaksasi sistem saraf otonom, dan panduan 3 langkah."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-25"
+updatedDate: "2026-05-25"
 category: "BuildSelf"
-tags: ["Filosofi M","Routine"]
-heroImage: "/images/blog/lee_morning_calligraphy.png"
+tags: ["위인 습관", "이병철", "집중", "마인드셋", "의지력"]
+heroImage: "/images/blog/lee_morning_calligraphy.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Autobiografi Ho-Am *Ho-Am Jajeon*, Arsip Grup Samsung & Penelitian Neurosains Kognitif serta Sains Kontrol Motorik"

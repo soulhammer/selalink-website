@@ -1,11 +1,11 @@
 ---
 title: "Pintar Seu Reflexo no Espelho do Dossel: A Rotina de Autorretrato de Frida Kahlo e Resiliência do Espelho"
 description: "Descubra como a lendária pintora mexicana Frida Kahlo transformou a dor física em arte pintando autorretratos usando um espelho no dossel da cama. Explore a psicologia clínica da observação no espelho e resiliência."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-07"
+updatedDate: "2026-06-07"
 category: "BuildSelf"
-tags: ["Pintar Seu","Routine"]
-heroImage: "/images/blog/kahlo_mirror_painting.png"
+tags: ["위인 습관", "프리다 칼로", "거울 명상", "치유", "회복탄력성"]
+heroImage: "/images/blog/kahlo_mirror_painting.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica do *Diário de Frida Kahlo*, Biografia de Hayden Herrera e Pesquisa em Psicologia Clínica e Neurociência Cognitiva"

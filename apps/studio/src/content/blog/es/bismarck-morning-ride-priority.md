@@ -1,11 +1,11 @@
 ---
 title: "Superando la Sobrecarga de Decisiones con Paseos Matutinos a Caballo: La Estimulación Aeróbica de Bismarck y la Rutina TOP 3"
 description: "Descubra cómo Otto von Bismarck, el 'Canciller de Hierro' que unificó Alemania, combinó la equitación matutina con el método de extracción de las TOP 3 prioridades, y explore los principios neurocientíficos de elevar el flujo sanguíneo cerebral para prevenir la fatiga de decisión."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-16"
+updatedDate: "2026-03-16"
 category: "BuildSelf"
-tags: ["Superando ","Routine"]
-heroImage: "/images/blog/bismarck_morning_ride_priority.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/bismarck_morning_ride_priority.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la Autobiografía de Otto von Bismarck *Gedanken und Erinnerungen* y la Biografía de A.J.P. Taylor *Bismarck: The Man and the Statesman* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"

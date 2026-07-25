@@ -1,11 +1,11 @@
 ---
 title: "Menyelaraskan Jiwa: Rutinitas Preludium Bach Pagi Hari dan Induksi Gelombang Alfa ala Pablo Casals"
 description: "Pelajari bagaimana pemain selo legendaris Pablo Casals memulai setiap pagi selama lebih dari 80 tahun dengan memainkan The Well-Tempered Clavier karya Bach, serta temukan mekanisme neurosains tentang bagaimana penyesuaian musik mengaktifkan gelombang alfa dan menyeimbangkan sistem saraf otonom."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-24"
+updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: ["Menyelaras","Routine"]
-heroImage: "/images/blog/casals_bach_prelude.png"
+tags: ["위인 습관", "파블로 카살스", "안정", "명상", "창의성", "루틴"]
+heroImage: "/images/blog/casals_bach_prelude.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Autobiografi Pablo Casals *Joys and Sorrows: Reflections by Pablo Casals* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

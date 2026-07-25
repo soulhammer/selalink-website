@@ -1,11 +1,11 @@
 ---
 title: "30分間の沈黙と6ページのメモ：ジェフ・ベゾスのアマゾン会議法と読書神経科学"
 description: "アマゾンでPPT発表を禁止し、会議開始後30分間静かに長文報告書を熟読させたジェフ・ベゾスの意思決定の秘訣。因果関係を中心とした叙述型の読書が前頭前野を刺激し判断力を極大化する神経科学的原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-19"
+updatedDate: "2026-01-19"
 category: "BuildSelf"
-tags: ["30分間の沈黙と6ペ","Routine"]
-heroImage: "/images/blog/bezos_six_page_memo.png"
+tags: ["위인 습관", "제프 베조스", "의사결정", "계획", "생산성"]
+heroImage: "/images/blog/bezos_six_page_memo.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ジェフ・ベゾス株主への手紙（Shareholder Letter）＆コリン・ブライアー『Working Backwards』考証＆認知神経科学（Cognitive Neuroscience）研究"

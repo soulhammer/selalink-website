@@ -1,11 +1,11 @@
 ---
 title: "O Segredo para Superar o Estresse da Pesquisa sobre o Rádio: A Rotina de Ciclismo Noturno e Indução de BDNF de Marie Curie"
 description: "Descubra como Marie Curie, a primeira mulher a ganhar um Prêmio Nobel e a única pessoa laureada em dois campos científicos, protegeu sua saúde mental no meio do estresse do rádio. Explore a neurociência cognitiva da secreção de BDNF e oxigenação pré-frontal."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-28"
+updatedDate: "2026-02-28"
 category: "BuildSelf"
-tags: ["O Segredo ","Routine"]
-heroImage: "/images/blog/curie_cycling.png"
+tags: ["위인 습관", "마리 퀴리", "자전거", "휴식", "스트레스"]
+heroImage: "/images/blog/curie_cycling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica da Biografia de Ève Curie *Madame Curie* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)"

@@ -1,11 +1,11 @@
 ---
 title: "バーンアウトと実存的抑鬱を吹き飛ばす primitive な方法：アルベール・カミュのサッカーリセット習慣"
 description: "フランスのノーベル文学賞作家であり哲学者のアルベール・カミュ。創作のスランプや抑鬱が押し寄せるたびグラウンドに出てゴールキーパーとして身を投げ出した身体没頭ルーティン。前頭葉のオフラインと小脳認知スイッチングの神経科学的メカニズムを解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-21"
+updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: ["バーンアウトと実存的","Routine"]
-heroImage: "/images/blog/camus_football_reset.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/camus_football_reset.webp"
 app: "buildself"
 formatVersion: 4
 authority: "オリヴィエ・トッド伝記『Albert Camus: A Life』考証＆認知神経科学（Cognitive Neuroscience）研究"

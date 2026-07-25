@@ -1,11 +1,11 @@
 ---
 title: "Melukis Refleksi Diri dari Cermin Kanopi: Rutinitas Potret Diri Frida Kahlo dan Resiliensi Tatap Cermin"
 description: "Pelajari bagaimana pelukis legendaris Meksiko Frida Kahlo mengubah penderitaan fisik menjadi karya seni dengan melukis potret diri menggunakan cermin di atas tempat tidur kanopi. Temukan psikologi klinis tatap cermin dan resiliensi."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-07"
+updatedDate: "2026-06-07"
 category: "BuildSelf"
-tags: ["Melukis Re","Routine"]
-heroImage: "/images/blog/kahlo_mirror_painting.png"
+tags: ["위인 습관", "프리다 칼로", "거울 명상", "치유", "회복탄력성"]
+heroImage: "/images/blog/kahlo_mirror_painting.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari *The Diary of Frida Kahlo*, Biografi karya Hayden Herrera & Penelitian Psikologi Klinis serta Neurosains Kognitif"

@@ -1,11 +1,11 @@
 ---
 title: "流配地での500巻著述の原動力：茶山・丁若鏞の抄書と手紙書きおよび知的符号化ルーティン"
 description: "朝鮮最高の実学者・茶山（タサン）丁若鏞（チョン・ヤギョン）。18年間の康津流配生活の中で知識を要約・筆記する「抄書（チョソ）」と二人の息子に学問を訓戒した手紙書きの脳科学的原理、体性感覚皮質刺激およびメタ認知強化効果を探求します。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-01"
+updatedDate: "2026-02-01"
 category: "BuildSelf"
-tags: ["流配地での500巻著","Routine"]
-heroImage: "/images/blog/jeong_yakyong_transcription.png"
+tags: ["위인 습관", "정약용", "초서독서", "메타인지", "지식구조화"]
+heroImage: "/images/blog/jeong_yakyong_transcription.webp"
 app: "buildself"
 formatVersion: 4
 authority: "茶山・丁若鏞著作集『與猶堂全書（ヨユダンゼンショ）』および自伝『俟菴年譜（サアムネンポ）』史料考証＆認知神経科学（Cognitive Neuroscience）およびメタ認知（Metacognition）研究"

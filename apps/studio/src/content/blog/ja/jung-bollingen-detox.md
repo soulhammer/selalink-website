@@ -1,11 +1,11 @@
 ---
 title: "ボルリンゲンの小屋のデジタルデトックス：カール・ユングの無意識回復法とDMN認知リセット"
 description: "分析心理学の開拓者カール・ユング。騒音や電気すら遮断された小屋で薪を割りながら脳をリセットした彼の知恵と、デフォルト・モード・ネットワーク（DMN）活性化、前頭前野認知資源回復の原理、および現代風3段階デジタルデトックスルーティンを紹介します。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-21"
+updatedDate: "2026-01-21"
 category: "BuildSelf"
-tags: ["ボルリンゲンの小屋の","Routine"]
-heroImage: "/images/blog/jung_bollingen_detox.png"
+tags: ["위인 습관", "칼 융", "휴식", "사색", "디지털디톡스"]
+heroImage: "/images/blog/jung_bollingen_detox.webp"
 app: "buildself"
 formatVersion: 4
 authority: "カール・ユング自伝『思い出・夢・思想（Memories, Dreams, Reflections）』およびボルリンゲン・タワー・アーカイブ史料考証＆分析心理学（Analytical Psychology）および認知神経科学（Cognitive Neuroscience）研究"

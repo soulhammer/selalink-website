@@ -1,11 +1,11 @@
 ---
 title: "Scherenarbeit zur Behandlung von Depressionen? Andersens Papierschneide-Routine"
 description: "Der weltberühmte Märchenerzähler Hans Christian Andersen. Wir stellen die psychiatrischen Heilprinzipien und einen 3-Schritte-Leitfaden zum 'Papierschneiden' (Paper Cutting) vor – das Geheimnis hinter seiner blühenden Fantasie trotz lebenslanger Depression und psychischer Mängel."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["Scherenarb","Routine"]
-heroImage: "/images/blog/andersen_paper_cutting.png"
+tags: ["위인 습관", "안데르센", "종이오리기", "미술치료", "뇌휴식"]
+heroImage: "/images/blog/andersen_paper_cutting.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus den Papierarchiven des Hans Christian Andersen Museums in Odense, Dänemark & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

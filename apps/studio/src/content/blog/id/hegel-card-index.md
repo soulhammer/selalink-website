@@ -1,11 +1,11 @@
 ---
 title: "Repositori Pemikiran Filosofis: Metode Indeks Kartu Dialektis dan Rutinitas Perancah Kognitif Hegel"
 description: "Di balik penyelesaian Idealisme Jerman oleh G. W. F. Hegel terdapat puluhan ribu kartu pengetahuan dan sistem kotak pengategorian yang ketat. Temukan rutinitas perancah kognitifnya dan kerangka kerja aksi 3 langkah untuk melampaui batas memori kerja."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["Repositori","Routine"]
-heroImage: "/images/blog/hegel_card_index.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/hegel_card_index.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Biografi G. W. F. Hegel, Arsip *Phänomenologie des Geistes* & Penelitian Neurosains Kognitif"

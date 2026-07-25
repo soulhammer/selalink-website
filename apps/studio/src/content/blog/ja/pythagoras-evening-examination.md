@@ -1,11 +1,11 @@
 ---
 title: "영혼의 질서를 잡는 밤: 피타고라스의 저녁 자기 성찰 습관"
 description: "매일 밤 잠들기 전 하루의 언행을 세 번 되짚어보며 성찰했던 피타고라스. 수면 전 메타인지를 깨우는 3가지 자문 의식이 에피소드 기억을 강화하고 감정 조절력을 높이는 신경생리학적 효과를 탐구합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-06"
+updatedDate: "2026-04-06"
 category: "BuildSelf"
-tags: ["영혼의 질서를 잡는","Routine"]
-heroImage: "/images/blog/pythagoras_evening_examination.png"
+tags: ["성찰", "사색", "휴식"]
+heroImage: "/images/blog/pythagoras_evening_examination.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Pythagoras Evening Examination 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

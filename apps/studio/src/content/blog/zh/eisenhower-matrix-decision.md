@@ -1,11 +1,11 @@
 ---
 title: "聚焦于真正要事的力量：德怀特·艾森豪威尔的四象限优先权决策习惯"
 description: "艾森豪威尔总统担负着战时统帅与国政掌舵的巨大决策重任。本文深入剖析他不被无谓紧迫感绑架、将大脑能量精准倾注于本质要事的时间管理秘诀与认知神经科学机制。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["聚焦于真正要事的力量","Routine"]
-heroImage: "/images/blog/eisenhower_matrix_decision.png"
+tags: ["의사결정", "생산성", "시간 관리"]
+heroImage: "/images/blog/eisenhower_matrix_decision.webp"
 app: "buildself"
 formatVersion: 4
 authority: "德怀特·D·艾森豪威尔自传《轻松谈往（At Ease: Stories I Tell to Friends）》考证及认知神经科学（Cognitive Neuroscience）研究"

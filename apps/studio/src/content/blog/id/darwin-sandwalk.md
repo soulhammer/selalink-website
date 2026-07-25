@@ -1,11 +1,11 @@
 ---
 title: "Menyempurnakan Teori Evolusi Melalui Jalan Kaki: Rutinitas 'Sandwalk' dan Inkubasi Kognitif ala Charles Darwin"
 description: "Pelajari bagaimana ilmuwan alam Charles Darwin menyusuri jalan kerikil 'Sandwalk', menendang batu untuk menghitung putaran sambil mengurai teori evolusi yang rumit. Temukan neurosains kognitif dari aktivasi Default Mode Network (DMN) dan Inkubasi Kognitif."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-14"
+updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: ["Menyempurn","Routine"]
-heroImage: "/images/blog/darwin_sandwalk.png"
+tags: ["위인 습관", "찰스 다윈", "걷기", "사색", "아이디어"]
+heroImage: "/images/blog/darwin_sandwalk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Autobiografi Charles Darwin *The Autobiography of Charles Darwin* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

@@ -4,8 +4,8 @@ description: "Discover how Confucius, master of Eastern philosophy, tuned and pl
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["Great Habits","confucius","Routine","Stamina"]
-heroImage: "/images/blog/confucius_guqin_harmony.png"
+tags: ["위인 습관", "공자", "거문고", "음악치료", "마음조율"]
+heroImage: "/images/blog/confucius_guqin_harmony.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Sima Qian's *Records of the Grand Historian (Shiji: House of Confucius)* & *The Analects (Lunyu)* & Cognitive Neuroscience Research"

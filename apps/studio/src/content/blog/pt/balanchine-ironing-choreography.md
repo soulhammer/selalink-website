@@ -1,11 +1,11 @@
 ---
 title: "A Dança do Inconsciente: O Método de Coreografia de George Balanchine Através de Tarefas Domésticas Simples"
 description: "Descubra como o coreógrafo George Balanchine realizava tarefas domésticas simples e repetitivas, como passar roupa, para conceber ideias durante bloqueios criativos, e entenda o mecanismo neural em que a atividade física leve desliga a censura pré-frontal para ativar a Rede de Modo Padrão (DMN)."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-01"
+updatedDate: "2026-04-01"
 category: "BuildSelf"
-tags: ["A Dança do","Routine"]
-heroImage: "/images/blog/balanchine_ironing_choreography.png"
+tags: ["위인 습관", "조지 발란신", "창의성", "사색", "이완", "루틴"]
+heroImage: "/images/blog/balanchine_ironing_choreography.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica da Biografia de George Balanchine *By George Balanchine* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)"

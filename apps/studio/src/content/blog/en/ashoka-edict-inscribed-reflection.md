@@ -1,11 +1,11 @@
 ---
 title: "A Conqueror King Who Carved Edicts in Rock for Reflection? Ashoka the Great's Daily Ethical Reflection Routine"
 description: "Ashoka the Great of the Maurya Empire in India. Discover his external anchoring routine and 3-step action plan, where he repented the horrors of the Kalinga War and erected pillar edicts to reflect on his ethical self every day."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-04"
+updatedDate: "2026-06-04"
 category: "BuildSelf"
-tags: ["Great Habits","ashoka","Routine","Stamina"]
-heroImage: "/images/blog/ashoka_edict_inscribed_reflection.png"
+tags: ["위인 습관", "Routine"]
+heroImage: "/images/blog/ashoka_edict_inscribed_reflection.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from the Edicts of Ashoka & Cognitive Neuroscience Research"

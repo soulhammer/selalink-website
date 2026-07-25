@@ -1,11 +1,11 @@
 ---
 title: "El Secreto para Superar el Estrés de la Investigación del Radio: La Rutina de Ciclismo Vespertino e Inducción de BDNF de Marie Curie"
 description: "Descubra cómo Marie Curie, la primera mujer en ganar un Premio Nobel y la única galardonada en dos campos científicos, protegió su salud mental en medio del estrés del radio. Explore la neurociencia cognitiva de la secreción de BDNF y la oxigenación prefrontal."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-28"
+updatedDate: "2026-02-28"
 category: "BuildSelf"
-tags: ["El Secreto","Routine"]
-heroImage: "/images/blog/curie_cycling.png"
+tags: ["위인 습관", "마리 퀴리", "자전거", "휴식", "스트레스"]
+heroImage: "/images/blog/curie_cycling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la Biografía de Ève Curie *La vida de Madame Curie (Madame Curie)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"

@@ -1,11 +1,11 @@
 ---
 title: "Hermanas Girando Alrededor de la Mesa Nocturna: La Discusión Ambulante y el Método de Creación por Neuronas Espejo de Charlotte Brontë"
 description: "Explore la rutina de Charlotte Brontë, autora de 'Jane Eyre', quien giraba alrededor de la mesa con sus hermanas cada noche para criticar personajes y tramas, y descubra los mecanismos neurocientíficos de combinar la caminata con las neuronas espejo para evitar la visión de túnel."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-14"
+updatedDate: "2026-05-14"
 category: "BuildSelf"
-tags: ["Hermanas G","Routine"]
-heroImage: "/images/blog/bronte_table_walking.png"
+tags: ["위인 습관", "샬롯브론테", "보행토론", "창의성걷기", "협업창작"]
+heroImage: "/images/blog/bronte_table_walking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la Biografía de Elizabeth Gaskell *La vida de Charlotte Brontë (The Life of Charlotte Brontë)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"

@@ -1,11 +1,11 @@
 ---
 title: "넬슨 만델라의 '일출 맨몸 운동': 감옥에서도 지켜낸 신체와 정신의 방어선"
 description: "27년간의 감옥 수감 생활 속에서도 매일 아침 새벽 5시 맨몸 운동을 실천해 체력과 정신을 지킨 넬슨 만델라. 자율성과 회복탄력성을 회복하는 일출 루틴을 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-13"
+updatedDate: "2026-01-13"
 category: "BuildSelf"
-tags: ["Great Habits","nelson","Routine","Stamina"]
-heroImage: "/images/blog/nelson_mandela_sunrise_workout.png"
+tags: ["위인 습관", "넬슨 만델라", "회복탄력성", "운동 루틴", "새벽 루틴"]
+heroImage: "/images/blog/nelson_mandela_sunrise_workout.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Nelson Mandela Sunrise Workout 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

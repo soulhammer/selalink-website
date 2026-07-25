@@ -1,11 +1,11 @@
 ---
 title: "중요한 일에 집중하는 힘: 드와이트 아이젠하워의 우선순위 4분면 의사결정 습관"
 description: "전쟁과 국정 운영이라는 거대한 의사결정의 무게를 견뎌낸 아이젠하워 대통령. 사소한 급박함에 휘둘리지 않고 본질적이고 중요한 일에 뇌의 에너지를 배정했던 그의 시간 관리 비결과 인지과학적 메커니즘을 분석합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/eisenhower_matrix_decision.png"
+tags: ["의사결정", "생산성", "시간 관리"]
+heroImage: "/images/blog/eisenhower_matrix_decision.webp"
 app: "buildself"
 formatVersion: 4
 authority: "드와이트 D. 아이젠하워 자서전 『평화주의자(At Ease: Stories I Tell to Friends)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

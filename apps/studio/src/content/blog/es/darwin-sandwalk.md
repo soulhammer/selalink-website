@@ -1,11 +1,11 @@
 ---
 title: "Completando la Teoría de la Evolución Caminando: La Rutina del 'Sandwalk' y la Incubación Cognitiva de Charles Darwin"
 description: "Descubra cómo el naturalista Charles Darwin recorría su sendero de grava 'Sandwalk', pateando piedras para contar vueltas mientras desentrañaba la teoría de la evolución. Explore la neurociencia cognitiva de la activación de la Red por Defecto (DMN) y la Incubación Cognitiva."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-14"
+updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: ["Completand","Routine"]
-heroImage: "/images/blog/darwin_sandwalk.png"
+tags: ["위인 습관", "찰스 다윈", "걷기", "사색", "아이디어"]
+heroImage: "/images/blog/darwin_sandwalk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la Autobiografía de Charles Darwin *Autobiografía de Charles Darwin (The Autobiography of Charles Darwin)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"

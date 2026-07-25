@@ -1,11 +1,11 @@
 ---
 title: "새벽 5시의 지식 조각상: 쥘 베른의 디테일 설계용 스크랩 습관"
 description: "SF 소설의 개척자 쥘 베른이 매일 아침 새벽 5시에 실행했던 정보 카드 스크랩 습관을 알아봅니다. 정보를 카테고리화하여 의미 기억을 강화하는 3단계 현대적 실천 가이드."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-02"
+updatedDate: "2026-06-02"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/verne_morning_scrap.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/verne_morning_scrap.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verne Morning Scrap 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

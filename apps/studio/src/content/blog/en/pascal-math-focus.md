@@ -4,7 +4,7 @@ description: "17세기 천재 블레즈 파스칼이 극심한 치통과 두통�
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["Great Habits","pascal","Routine","Stamina"]
+tags: ["위습관","루틴"]
 heroImage: "/images/blog/pascal_math_focus.png"
 app: "buildself"
 formatVersion: 4

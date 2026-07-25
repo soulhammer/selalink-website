@@ -1,11 +1,11 @@
 ---
 title: "자신감을 충전하는 아침 거울 비결? 무하마드 알리의 긍정 확언 루틴"
 description: "세기 최고의 복서 무하마드 알리. 경기 전 극심한 수행불안을 극복하고 챔피언이 될 수 있었던 비결인 거울 앞 긍정 확언(Affirmation)의 뇌과학적 효과와 3단계 마인드셋 루틴을 소개합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-26"
+updatedDate: "2026-01-26"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/ali_positive_affirmation.png"
+tags: ["위인 습관", "무하마드알리", "자기확신", "동기부여", "멘탈케어"]
+heroImage: "/images/blog/ali_positive_affirmation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "무하마드 알리 자서전 『The Greatest: My Own Story』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

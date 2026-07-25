@@ -1,11 +1,11 @@
 ---
 title: "克利奥帕特拉的“多语言学习”：无需译员掌控世界的智力对话习惯"
 description: "探索埃及艳后克利奥帕特拉无需译员流利驾驭至少9种语言的习惯，揭示刺激布罗卡与韦尼克区、提升皮层灰质密度与前额叶认知弹性的认知神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-03"
+updatedDate: "2026-03-03"
 category: "BuildSelf"
-tags: ["克利奥帕特拉的“多语","Routine"]
-heroImage: "/images/blog/cleopatra_multilingual_study.png"
+tags: ["위인 습관", "클레오파트라", "언어 공부", "인지 유연성", "뇌 가소성"]
+heroImage: "/images/blog/cleopatra_multilingual_study.webp"
 app: "buildself"
 formatVersion: 4
 authority: "普鲁塔克传记《希罗名将传（Parallel Lives）》考证与认知神经科学（Cognitive Neuroscience）研究"

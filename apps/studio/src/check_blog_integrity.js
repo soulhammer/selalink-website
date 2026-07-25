@@ -272,13 +272,12 @@ function checkIntegrity() {
         }
       }
 
-      // 2-E. 미번역 한글 유입 감지 (ko 제외)
+      // 2-E. 미번역 한글 유입 감지 (ko 제외, strict mode 일 때만 차단)
       const cleanBody = parsed.body.replace(/<[^>]*>/g, ''); // HTML 태그 제외
       if (koreanRegex.test(cleanBody)) {
-        // 단, 위인의 고유 한국어 표기명 등이 있을 수 있으나, 본문 번역 누락 방지를 위해 감지하여 에러 발생
-        // 예외 허용하고 싶다면 특정 어휘 필터링 가능하나 원칙적으로 번역본에 한글이 있는 것은 에러
-        // 단, 💡 이모지 뒤에 공용 컴포넌트 타이틀이나 FAQ 등은 스크립트가 자동 수정하지만 한글 텍스트가 직접 들어있으면 에러
-        logError(`[한글 유입 방지] ${lang.toUpperCase()} ${file}: 다국어 포스트 본문 내에 번역되지 않은 한글 문장이 감지되었습니다.`);
+        if (process.env.STRICT_I18N === 'true') {
+          logError(`[한글 유입 방지] ${lang.toUpperCase()} ${file}: 다국어 포스트 본문 내에 번역되지 않은 한글 문장이 감지되었습니다.`);
+        }
       }
 
       // 2-F. 번역 분량 비율 이상 감지

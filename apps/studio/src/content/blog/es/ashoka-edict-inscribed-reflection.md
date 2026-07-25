@@ -1,11 +1,11 @@
 ---
 title: "¿Un Rey Conquistador que Grabó Edictos en la Roca para Reflexionar? La Rutina Diaria de Reflexión Ética de Ashoka el Grande"
 description: "Ashoka el Grande del Imperio Maurya en la India. Descubra su rutina de anclaje externo y plan de acción de 3 pasos, donde se arrepintió de los horrores de la Guerra de Kalinga y erigió edictos en pilares para reflexionar sobre su ser ético todos los días."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-04"
+updatedDate: "2026-06-04"
 category: "BuildSelf"
-tags: ["¿Un Rey Co","Routine"]
-heroImage: "/images/blog/ashoka_edict_inscribed_reflection.png"
+tags: ["위인 습관", "Routine"]
+heroImage: "/images/blog/ashoka_edict_inscribed_reflection.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de los Edictos de Ashoka (Edicts of Ashoka) e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"

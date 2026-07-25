@@ -1,11 +1,11 @@
 ---
 title: "새벽 5시 커피와 아침 산책의 조화: 요하네스 브람스의 강력한 아침 각성 루틴"
 description: "독일 클래식 음악의 거장 요하네스 브람스가 매일 새벽 5시에 직접 블랙커피를 내려 마시고 숲길을 활기차게 산책했던 루틴. 카페인과 유산소 운동이 결합할 때 나타나는 BDNF 분비 및 작업 기억 강화의 신경과학적 메커니즘을 밝힙니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-13"
+updatedDate: "2026-06-13"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/brahms_early_morning_coffee.png"
+tags: ["새벽 5시 커피와 ","Routine"]
+heroImage: "/images/blog/brahms_early_morning_coffee.webp"
 app: "buildself"
 formatVersion: 4
 authority: "맥스 칼벡 평전 『브람스 평전(Johannes Brahms)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

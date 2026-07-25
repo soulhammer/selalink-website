@@ -1,11 +1,11 @@
 ---
 title: "漫步生产线勾勒创新的汽车之王：亨利·福特的流程图解描绘法与认知外置习惯"
 description: "探索移动流水线先驱亨利·福特如何通过巡视工厂车间、捕捉机械律动并在口袋手记中绘制流程图解来减轻前额叶负荷。揭示平滑视觉追踪与认知外置的神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-23"
+updatedDate: "2026-06-23"
 category: "BuildSelf"
-tags: ["漫步生产线勾勒创新的","Routine"]
-heroImage: "/images/blog/ford_line_walking.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/ford_line_walking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "亨利·福特自传《我的生活与工作（My Life and Work）》与历史传记考证及认知神经科学（Cognitive Neuroscience）研究"

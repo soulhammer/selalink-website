@@ -1,11 +1,11 @@
 ---
 title: "Jalan-Jalan 3 Mil yang Membangunkan Alam Bawah Sadar: Rutinitas Jalan Cepat Malam dan Jurnal Alam Bawah Sadar Sigmund Freud"
 description: "Pelajari bagaimana Sigmund Freud, bapak psikoanalisis, memulihkan keseimbangan otak dan mengakses alam bawah sadar dengan berjalan cepat sejauh 3 mil melintasi Wina setiap malam setelah sesi klinis. Temukan neurosains stimulasi bilateral."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-09"
+updatedDate: "2026-07-09"
 category: "BuildSelf"
-tags: ["Jalan-Jala","Routine"]
-heroImage: "/images/blog/freud_evening_walk.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/freud_evening_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari *An Autobiographical Study* karya Sigmund Freud, Arsip Museum Sigmund Freud Wina & Penelitian Neurosains Kognitif"

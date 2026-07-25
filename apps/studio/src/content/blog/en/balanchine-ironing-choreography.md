@@ -1,11 +1,11 @@
 ---
 title: "Dance of the Unconscious: George Balanchine's Choreography Through Simple Household Chores"
 description: "Explore how choreographer George Balanchine used simple, repetitive household chores like ironing to unlock dance ideas during creative blocks, and discover the neural mechanism where light motor activity turns off prefrontal censorship to activate the Default Mode Network."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-01"
+updatedDate: "2026-04-01"
 category: "BuildSelf"
-tags: ["Great Habits","balanchine","Routine","Stamina"]
-heroImage: "/images/blog/balanchine_ironing_choreography.png"
+tags: ["위인 습관", "조지 발란신", "창의성", "사색", "이완", "루틴"]
+heroImage: "/images/blog/balanchine_ironing_choreography.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from George Balanchine's Biography *By George Balanchine* & Cognitive Neuroscience Research"

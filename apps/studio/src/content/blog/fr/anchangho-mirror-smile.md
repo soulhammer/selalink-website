@@ -1,11 +1,11 @@
 ---
 title: "Le pouvoir d'éveiller les circuits cérébraux positifs : La routine de sourire devant le miroir et de propreté de Dosan Ahn Chang-ho"
 description: "Le pouvoir du « sourire » et de la « propreté » souligné par l'indépendantiste Dosan Ahn Chang-ho. Découvrez les raisons scientifiques pour lesquelles un sourire forcé libère de la sérotonine dans le cerveau et un espace rangé réduit la charge cognitive visuelle."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-19"
+updatedDate: "2026-01-19"
 category: "BuildSelf"
-tags: ["Le pouvoir","Routine"]
-heroImage: "/images/blog/anchangho_mirror_smile.png"
+tags: ["위인 습관", "도산 안창호", "거울 미소", "청결", "마인드컨트롤", "자기계발"]
+heroImage: "/images/blog/anchangho_mirror_smile.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de la biographie de Dosan Ahn Chang-ho, des archives de la Young Korean Academy (Hung Sah Dahn) & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

@@ -1,11 +1,11 @@
 ---
 title: "将一天分作两次度过的首相：温斯顿·丘吉尔的午后午睡与腺苷清扫习惯"
 description: "探索带领盟军赢得二战胜利的英国首相温斯顿·丘吉尔每天下午躺在床上午睡的习惯，揭示清除积聚的疲劳物质腺苷（Adenosine）并在不引发睡眠惯性的前提下恢复大脑觉醒状态的功率午睡（Power Nap）认知神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-24"
+updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: ["将一天分作两次度过的","Routine"]
-heroImage: "/images/blog/churchill_afternoon_nap.png"
+tags: ["위인 습관", "윈스턴 처칠", "낮잠", "휴식", "에너지"]
+heroImage: "/images/blog/churchill_afternoon_nap.webp"
 app: "buildself"
 formatVersion: 4
 authority: "马丁·吉尔伯特传记《丘吉尔传（Winston S. Churchill）》考证与认知神经科学（Cognitive Neuroscience）研究"

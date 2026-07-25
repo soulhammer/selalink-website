@@ -1,11 +1,11 @@
 ---
 title: "단절의 일주일: 빌 게이츠의 '생각 주간'과 무소음 딥워크"
 description: "마이크로소프트의 대약진을 이끈 빌 게이츠의 오두막 고립 독서 루틴 '생각 주간'. 외부 자극을 완벽히 통제하여 주의력 잔재를 청소하고 뇌의 장기적 통찰력을 극대화하는 신경과학적 원리를 밝힙니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-08"
+updatedDate: "2026-01-08"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/bill_gates_think_week.png"
+tags: ["위인 습관", "빌 게이츠", "집중력", "사색", "독서"]
+heroImage: "/images/blog/bill_gates_think_week.webp"
 app: "buildself"
 formatVersion: 4
 authority: "월터 아이작슨 평전 『빌 게이츠 평전』 및 마이크로소프트 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

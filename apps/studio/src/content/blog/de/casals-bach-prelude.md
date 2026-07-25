@@ -1,11 +1,11 @@
 ---
 title: "Stimmung der Seele: Pablo Casals' morgendliche Bach-Präludium-Routine und Alphawellen-Induktion"
 description: "Erkunden Sie, wie der legendäre Cellist Pablo Casals über 80 Jahre lang jeden Morgen das Wohltemperierte Klavier von Bach spielte, und entdecken Sie die neurowissenschaftlichen Mechanismen, wie musikalische Entrainment-Prozesse Alphawellen aktivieren und das autonome Nervensystem ausgleichen."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-24"
+updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: ["Stimmung d","Routine"]
-heroImage: "/images/blog/casals_bach_prelude.png"
+tags: ["위인 습관", "파블로 카살스", "안정", "명상", "창의성", "루틴"]
+heroImage: "/images/blog/casals_bach_prelude.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Pablo Casals' Autobiografie *Licht und Schatten (Joys and Sorrows: Reflections by Pablo Casals)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

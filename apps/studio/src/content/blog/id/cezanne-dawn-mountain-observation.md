@@ -1,11 +1,11 @@
 ---
 title: "Merasakan Geometri Cahaya: Rutinitas Pengamatan Sinar Matahari Pagi dan Stimulasi SCN ala Paul Cézanne"
 description: "Pelajari bagaimana Paul Cézanne, bapak seni modern, berjalan menuju Gunung Sainte-Victoire pukul 6 pagi setiap hari untuk mengamati perubahan cahaya dan bentuk. Temukan prinsip neurosains tentang sinar matahari pagi yang merangsang nukleus suprakiasmatik (SCN) dan korteks visual."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-06"
+updatedDate: "2026-04-06"
 category: "BuildSelf"
-tags: ["Merasakan ","Routine"]
-heroImage: "/images/blog/cezanne_dawn_mountain_observation.png"
+tags: ["사색", "휴식", "창의성"]
+heroImage: "/images/blog/cezanne_dawn_mountain_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Biografi Alex Danchev *Cézanne: A Life* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

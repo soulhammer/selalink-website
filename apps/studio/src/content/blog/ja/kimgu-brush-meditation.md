@@ -1,11 +1,11 @@
 ---
 title: "揺れる心を捉える精密さ：白凡・金九の書道瞑想ルーティンと微細運動制御"
 description: "大韓民国臨時政府を率いた白凡・金九の書道を通じた精神修養法。毛筆の微細運動制御（Fine Motor Control）が不安を抑制し扁桃体を安定させる脳科学的原理と3段階実践法を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-06"
+updatedDate: "2026-02-06"
 category: "BuildSelf"
-tags: ["揺れる心を捉える精密","Routine"]
-heroImage: "/images/blog/kimgu_brush_meditation.png"
+tags: ["위인 습관", "백범 김구", "서예 명상", "붓글씨", "불안 조절", "마음 수양"]
+heroImage: "/images/blog/kimgu_brush_meditation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "金九自伝『白凡逸志（ペクポミルチ）』史料考証＆認知神経科学（Cognitive Neuroscience）および運動制御学（Motor Control Science）研究"

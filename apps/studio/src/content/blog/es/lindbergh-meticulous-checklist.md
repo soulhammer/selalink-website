@@ -1,11 +1,11 @@
 ---
 title: "Cómo Reducir a Cero los Errores Cognitivos Humanos: La Rutina de Lista de Verificación de Charles Lindbergh y Protección de la Memoria de Trabajo"
 description: "Descubra cómo el héroe de la aviación Charles Lindbergh completó el primer vuelo transatlántico en solitario confiando en listas de verificación. Explore la protección de la memoria de trabajo prefrontal, la prevención de errores de omisión y una guía de 3 pasos."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-25"
+updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["Cómo Reduc","Routine"]
-heroImage: "/images/blog/lindbergh_meticulous_checklist.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/lindbergh_meticulous_checklist.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la Autobiografía de Charles Lindbergh *The Spirit of St. Louis* (1953), Archivos de Aviación e Investigación en Neurociencia Cognitiva e Ingeniería de Factores Humanos"

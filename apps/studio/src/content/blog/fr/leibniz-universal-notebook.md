@@ -1,11 +1,11 @@
 ---
 title: "Le carnet unique du savoir universel : La routine du livre de lieux communs et la Potentiation à Long Terme de Gottfried Wilhelm Leibniz"
 description: "Découvrez comment le mathématicien Gottfried Wilhelm Leibniz a consolidé tout son savoir dans un unique carnet classé (Commonplace Book). Explorez la neuroscience des réseaux sémantiques, la Potentiation à Long Terme (LTP), la synthèse d'idées interdisciplinaires et un guide en 3 étapes."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-27"
+updatedDate: "2026-02-27"
 category: "BuildSelf"
-tags: ["Le carnet ","Routine"]
-heroImage: "/images/blog/leibniz_universal_notebook.png"
+tags: ["기록", "창의성", "사색"]
+heroImage: "/images/blog/leibniz_universal_notebook.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue des biographies de Gottfried Wilhelm Leibniz, des Archives Leibniz (Hanovre) & de la Recherche en Neurosciences Cognitives et Psychologie Cognitive"

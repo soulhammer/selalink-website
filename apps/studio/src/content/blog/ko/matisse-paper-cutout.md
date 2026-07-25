@@ -1,11 +1,11 @@
 ---
 title: "침대 위 가위질의 기적? 앙리 마티스의 컷아웃 통증 치유법"
 description: "미술사의 최고 거장 앙리 마티스. 노년의 심각한 암 수술 후 침대 위에서 긴 가위로 색종이를 오리며 고통을 이겨내고 걸작을 창조해 낸 비결과, 시각-촉각 자극이 선사하는 뇌과학적 힐링 효과를 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-17"
+updatedDate: "2026-05-17"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/matisse_paper_cutout.png"
+tags: ["위인 습관", "앙리 마티스", "컷아웃", "시각-촉각 자극", "통증 이완"]
+heroImage: "/images/blog/matisse_paper_cutout.webp"
 app: "buildself"
 formatVersion: 4
 authority: "앙리 마티스 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

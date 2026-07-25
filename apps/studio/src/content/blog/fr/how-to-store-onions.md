@@ -23,16 +23,16 @@ faqs:
     answer: "Ensure they are completely dry, wrap each onion tightly in plastic wrap, and store them in the fridge. Blocking air contact keeps them fresh for over 2 weeks."
 ---
 
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+Avez-vous acheté des oignons en filet et les avez empilés dans un coin du balcon ? Rapidement, ils pourrissent là où ils se touchent ou germent. Aujourd'hui, FreshSnap vous montre les astuces de conservation.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+      Autorité Scientifique Vérifiée
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+      Ce guide de conservation est basé sur les directives officielles de : <strong>RDA & USDA & FSA</strong>.
     </p>
   </div>
 </div>
@@ -41,7 +41,7 @@ Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d
 
 ## 1. Pourquoi conserver ainsi ? Faits scientifiques
 
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédient et de suivre la bonne méthode de conservation pour préserver la fraîcheur et l’hygiène.
 
 ---
 
@@ -53,7 +53,7 @@ Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Suspendre avec la peau dans un endroit frais et aéré — Stockage à Temp. Ambiante (30Jours)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+    Les oignons non pelés se plaisent dans les endroits ombragés et aérés. Les glisser un par un dans un filet ou un bas propre, en faisant un nœud entre chaque et en les suspendant, évite qu'ils se touchent et pourrissent.
   </p>
 </div>
 
@@ -63,7 +63,7 @@ Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Sécher les oignons pelés et emballer individuellement de film étirable — Stockage Réfrigéré (14Jours) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+    Essuyez bien les oignons pelés, enveloppez-les individuellement de film étirable et rangez-les dans le bac à légumes. Cela bloque l'oxygène et les garde fermes jusqu'à 10 jours.
   </p>
 </div>
 
@@ -73,7 +73,7 @@ Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Isoler totalement des pommes de terre — Éviter le pourrissement 🛡️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+    Les oignons et les pommes de terre ne font pas bon ménage. Stockés ensemble, les pommes de terre absorbent l'humidité et le gaz des oignons et germent. En retour, l'humidité des pommes de terre ramollit les oignons. Séparez-les.
   </p>
 </div>
 
@@ -86,7 +86,7 @@ Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d
   <div>
     <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Isolez immédiatement les oignons abîmés pour les consommer vite</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+      Les oignons abîmés rejettent de l'humidité et du gaz, faisant pourrir les autres. Consommez-les en premier.
     </p>
   </div>
 </div>
@@ -96,7 +96,7 @@ Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d
   <div>
     <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Ne stockez jamais les oignons avec les pommes de terre</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+      Les oignons rejettent de l'humidité et les pommes de terre du gaz éthylène. Les stocker ensemble accélère le pourrissement et la germination.
     </p>
   </div>
 </div>
@@ -111,7 +111,7 @@ Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+      Storing onions and potatoes together causes onions to release moisture and ethylene gas, making potatoes sprout and soften rapidly. Keep them separated.
     </p>
   </details>
 
@@ -121,7 +121,7 @@ Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+      Ensure they are completely dry, wrap each onion tightly in plastic wrap, and store them in the fridge. Blocking air contact keeps them fresh for over 2 weeks.
     </p>
   </details>
 </div>

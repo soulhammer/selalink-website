@@ -1,11 +1,11 @@
 ---
 title: "Genius yang Memainkan Biola di Jalan Buntu Pikiran: Rutinitas Reset dan Metode Peralihan Kognitif ala Albert Einstein"
 description: "Pelajari bagaimana Albert Einstein, yang merevolusi fisika, memainkan biola untuk mereset otaknya saat buntu, dan temukan panduan praktis peralihan kognitif 3 langkah untuk profesional modern."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-05"
+updatedDate: "2026-03-05"
 category: "BuildSelf"
-tags: ["Genius yan","Routine"]
-heroImage: "/images/blog/einstein_violin_thinking.png"
+tags: ["위인 습관", "알베르트 아인슈타인", "창의성", "휴식", "아이디어"]
+heroImage: "/images/blog/einstein_violin_thinking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Kumpulan Esai Albert Einstein *Out of My Later Years*, Biografi Walter Isaacson *Einstein: His Life and Universe* & Penelitian Neurosains Kognitif"

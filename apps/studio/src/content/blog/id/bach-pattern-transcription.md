@@ -4,8 +4,8 @@ description: "Johann Sebastian Bach menginternalisasi aturan matematika sepanjan
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["Maestro ya","Routine"]
-heroImage: "/images/blog/bach_pattern_transcription.png"
+tags: ["위인 습관", "바흐", "필사", "손글씨", "학습법"]
+heroImage: "/images/blog/bach_pattern_transcription.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari *Johann Sebastian Bach: His Life, Art, and Works (1802)* karya Johann Nikolaus Forkel & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

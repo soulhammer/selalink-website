@@ -1,11 +1,11 @@
 ---
 title: "외부 뇌(Second Brain)로 그리는 완벽함: 스탠리 큐브릭의 인덱스 카드 아카이빙 습관과 작업 기억 인지적 외재화"
 description: "완벽한 고증과 치밀한 연출을 자랑했던 영화감독 스탠리 큐브릭. 대뇌 전두엽의 기억 부하를 줄이고 수만 개의 정보 조각들을 연합하여 걸작을 창조해 낸 아카이빙 비결과 인지적 외재화, 3단계 실천 가이드를 소개합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-18"
+updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/kubrick_index_box_archive.png"
+tags: ["글쓰기", "창의성", "기록"]
+heroImage: "/images/blog/kubrick_index_box_archive.webp"
 app: "buildself"
 formatVersion: 4
 authority: "스탠리 큐브릭 아카이브 사료 『스탠리 큐브릭 아카이브(The Stanley Kubrick Archives)』 고증 & 인지신경과학(Cognitive Neuroscience) 및 인지심리학(Cognitive Psychology) 연구"

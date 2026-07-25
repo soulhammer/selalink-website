@@ -1,11 +1,11 @@
 ---
 title: "Earhart's Cognitive Control Training: Immersed in Instrument Readings Even in the Cockpit Mid-Storm"
 description: "The first female aviator to successfully cross the Atlantic solo, she quelled flight anxiety by precisely scraping weather data and wind variations every morning."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-31"
+updatedDate: "2026-01-31"
 category: "BuildSelf"
-tags: ["Great Habits","amelia","Routine","Stamina"]
-heroImage: "/images/blog/amelia_earhart.png"
+tags: ["위인 습관", "어밀리아 이어하트", "분석", "시간 관리"]
+heroImage: "/images/blog/amelia_earhart.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Amelia Earhart's Autobiography *The Fun of It* & Cognitive Neuroscience Research"

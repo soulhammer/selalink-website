@@ -16,23 +16,23 @@ faqs:
     answer: "Los Corgis tienen un manto doble de gran caída. Cepille diariamente con un cepillo slicker y un rastrillo para eliminar el pelo muerto y prevenir problemas en la piel."
 ---
 
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+El Welsh Corgi es una raza muy querida por sus patas cortas y su trasero redondeado. Como antiguos perros pastores, son inteligentes, activos y valientes. Sin embargo, su espalda larga y patas cortas ejercen una gran presión sobre la columna y las articulaciones. La obesidad aumenta drásticamente el riesgo de hernias discales. Hoy, PetSelf explora su lenguaje corporal y presenta una rutina de 3 pasos para proteger su columna y rótulas.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+      Evidencia Veterinaria y Comportamental
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+      Este contenido se basa en <strong>Guía oficial del Pembroke Welsh Corgi Club of America y pautas de salud de AKC</strong>.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+    🐾 Welsh Corgi Perfil principal
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Vida útil media</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 15 años</span></div>
@@ -43,7 +43,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
 
 ## 1. Lenguaje corporal del Corgi: señales de espalda y emociones
 
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+Dado que los Corgis tienen colas muy cortas o sin cola, usan todo su cuerpo y caderas para expresar emociones. Las señales típicas incluyen el 'contoneo de cadera' cuando están felices y el 'splooting' (estirarse con las patas traseras hacia atrás) cuando están relajados. Estas expresiones físicas indican comodidad articular y regulación térmica. Los dueños pueden observar estos signos para evaluar el estrés.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -77,7 +77,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Mañana: Control de alfombras antideslizantes y estiramiento de patas traseras</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+    Debido a su larga columna, son propensos a hernias discales. Asegure las alfombras cerca del sofá y realice un estiramiento suave de 2 minutos por la mañana.
   </p>
 </div>
 
@@ -87,7 +87,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: Paseo de 30 minutos en terreno llano con arnés y juegos de olfato</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+    Use un arnés en lugar de collar para reducir la tensión espinal. Camine en terreno plano evitando pendientes y escaleras, permitiendo 30 minutos de olfateo.
   </p>
 </div>
 
@@ -97,7 +97,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noche: Cepillado del manto doble y masaje de relajación espinal</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+    Cepille su manto doble para eliminar el pelo muerto y masajee suavemente los músculos de la columna en círculos para aliviar la fatiga.
   </p>
 </div>
 
@@ -106,7 +106,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+      El simple hecho de observar las señales de calma de su mascota puede prevenir problemas de comportamiento graves y enfermedades causadas por el estrés. Embora o tratamento veterinário é importante, proporcionar um ambiente seguro (rampas, espaços verticales, múltiples fuentes de agua) es el escudo más fuerte para apoyar su felicidad de por vida.
     </p>
   </div>
 </div>
@@ -124,7 +124,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+      Debido a su espalda larga y patas cortas, el aterrizaje ejerce un impacto tres veces mayor en su columna y rodillas, lo que causa hernias discales. Instalar escaleras para mascotas es esencial.
     </p>
   </details>
 
@@ -134,7 +134,7 @@ Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoq
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
+      Los Corgis tienen un manto doble de gran caída. Cepille diariamente con un cepillo slicker y un rastrillo para eliminar el pelo muerto y prevenir problemas en la piel.
     </p>
   </details>
 </div>

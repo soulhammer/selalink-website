@@ -1,11 +1,11 @@
 ---
 title: "Concentración Absoluta en la Hora Dorada: La Rutina Matutina de 2 Horas de Cálculo Solitario y Enfoque Máximo de Enrico Fermi"
 description: "Descubra cómo el físico Enrico Fermi, galardonado con el Premio Nobel y creador del primer reactor nuclear, aprovechaba su hora dorada cognitiva dedicando 2 horas matutinas solitarias al cálculo complejo. Explore la neurociencia de la respuesta de despertar del cortisol."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-14"
+updatedDate: "2026-05-14"
 category: "BuildSelf"
-tags: ["Concentrac","Routine"]
-heroImage: "/images/blog/fermi_dawn_calculation_routine.png"
+tags: ["집중", "생산성", "학습"]
+heroImage: "/images/blog/fermi_dawn_calculation_routine.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de *Atoms in the Family: My Life with Enrico Fermi* de Laura Fermi, Archivos Biográficos e Investigación en Neurociencia Cognitiva"

@@ -1,11 +1,11 @@
 ---
 title: "도화지 같은 마음: 아그네스 마틴의 정적 대기 루틴"
 description: "캔버스 앞 의자에 앉아 잡념이 완전히 사라질 때까지 기다린 뒤에야 비로소 그림을 그렸던 화가 아그네스 마틴. 두뇌의 노이즈를 청소하고 고도의 통찰과 영감을 자극하는 명상의 인지과학을 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-12"
+updatedDate: "2026-06-12"
 category: "BuildSelf"
-tags: ["도화지 같은 마음:","Routine"]
-heroImage: "/images/blog/martin_silent_waiting.png"
+tags: ["위인 습관", "아그네스 마틴", "명상", "사색", "안정", "창의성"]
+heroImage: "/images/blog/martin_silent_waiting.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Martin Silent Waiting 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

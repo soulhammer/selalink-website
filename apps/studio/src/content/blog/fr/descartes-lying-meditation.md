@@ -1,11 +1,11 @@
 ---
 title: "Le génie qui restait au lit jusqu'à midi : La routine de méditation couchée et de relaxation alpha de René Descartes"
 description: "Découvrez comment le mathématicien et philosophe René Descartes passait ses matinées à méditer au lit jusqu'à midi. Explorez la neuroscience cognitive montrant comment la posture horizontale réduit le cortisol et stimule les ondes alpha."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-25"
+updatedDate: "2026-01-25"
 category: "BuildSelf"
-tags: ["Le génie q","Routine"]
-heroImage: "/images/blog/descartes_lying_meditation.png"
+tags: ["위인 습관", "르네 데카르트", "아침 루틴", "명상", "집중력"]
+heroImage: "/images/blog/descartes_lying_meditation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue du *Discours de la méthode* de René Descartes & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

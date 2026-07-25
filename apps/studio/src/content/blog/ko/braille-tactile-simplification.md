@@ -1,11 +1,11 @@
 ---
 title: "손끝의 직관과 6점의 혁신: 루이 브라이유의 본질 단순화와 청킹 루틴"
 description: "12점 군용 야간 문자를 손가락 한 마디에 들어오는 6점 점자로 단순화하여 시각장애인의 지식 혁명을 일으킨 루이 브라이유. 촉각 정보 수용 한계에 맞춘 청킹(Chunking)과 본질 단순화의 신경과학적 원리를 밝깁니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-04"
+updatedDate: "2026-05-04"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/braille_tactile_simplification.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/braille_tactile_simplification.webp"
 app: "buildself"
 formatVersion: 4
 authority: "C. 마이클 멜로르 평전 『루이 브라이유 평전(Louis Braille: A Touch of Genius)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

@@ -1,11 +1,11 @@
 ---
 title: "Le pouvoir de se concentrer sur l'essentiel : La routine de décision à 4 cadrans de Dwight D. Eisenhower"
 description: "Le président Eisenhower a porté le poids de décisions colossales pendant la guerre et au sommet de l'État. Découvrez son secret de gestion du temps pour allouer l'énergie cérébrale à l'essentiel sans céder aux urgences mineures, analysé par les neurosciences cognitives."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["Le pouvoir","Routine"]
-heroImage: "/images/blog/eisenhower_matrix_decision.png"
+tags: ["의사결정", "생산성", "시간 관리"]
+heroImage: "/images/blog/eisenhower_matrix_decision.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de l'autobiographie de Dwight D. Eisenhower *At Ease: Stories I Tell to Friends* & Recherche en Neurosciences Cognitives"

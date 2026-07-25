@@ -1,11 +1,11 @@
 ---
 title: "Franklin D. Roosevelts Briefmarkensortier-Routine: Kognitive Entspannung und analoges Schlafritual"
 description: "Erfahren Sie, wie Präsident Roosevelt seine Gehirnspannung während Kriegs- und Wirtschaftskrisen jeden Abend durch das Sortieren von Briefmarken abbaute. Entdecken Sie die Neurowissenschaften kognitiver Entspannung."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-02"
+updatedDate: "2026-07-02"
 category: "BuildSelf"
-tags: ["Franklin D","Routine"]
-heroImage: "/images/blog/fdr_stamp_collecting.png"
+tags: ["위인 습관", "루스벨트", "스트레스 해소", "휴식 루틴", "취침 전 습관"]
+heroImage: "/images/blog/fdr_stamp_collecting.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Franklin D. Roosevelt-Biografien, Archiven der FDR Presidential Library & Forschung der kognitiven Neurowissenschaften"

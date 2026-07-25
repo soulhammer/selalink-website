@@ -1,11 +1,11 @@
 ---
 title: "빛을 뇌에 새기다? 터너의 새벽 해돋이 대조 감도 관찰법"
 description: "빛의 화가 터너의 독창적인 색채 표현은 매일 아침 새벽 해돋이를 응시하는 습관에서 탄생했습니다. 뇌의 시각 인지를 활성화하는 터너의 색채 응시법을 소개합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-27"
+updatedDate: "2026-02-27"
 category: "BuildSelf"
-tags: ["Great Habits","turner","Routine","Stamina"]
-heroImage: "/images/blog/turner_dawn_observation.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/turner_dawn_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "터너 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

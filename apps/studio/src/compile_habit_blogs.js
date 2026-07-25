@@ -2,6 +2,8 @@ import fs from 'fs';
 import pathModule from 'path';
 import { fileURLToPath } from 'url';
 
+import { execSync } from 'child_process';
+
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = pathModule.dirname(__filename);
 
@@ -9,6 +11,51 @@ const habitsDir = pathModule.join(__dirname, 'data/blogs/habits');
 const blogRootDir = pathModule.join(__dirname, 'content/blog');
 
 const locales = ['ko', 'en', 'zh', 'ja', 'es', 'fr', 'de', 'pt', 'id'];
+
+// 역사적 메타데이터 보존 맵 구축 (3a61e460 커밋 및 기존 디스크 파일 검상)
+const historyMetaMap = {};
+try {
+  const jsonFiles = fs.readdirSync(habitsDir).filter(f => f.endsWith('.json'));
+  jsonFiles.forEach(file => {
+    const slug = file.replace('.json', '');
+    try {
+      const gitContent = execSync(`git show 3a61e460:apps/studio/src/content/blog/ko/${slug}.md`, {
+        encoding: 'utf-8',
+        stdio: ['pipe', 'pipe', 'ignore']
+      });
+      const pubMatch = gitContent.match(/pubDate:\s*"([^"]+)"/);
+      const upMatch = gitContent.match(/updatedDate:\s*"([^"]+)"/);
+      const heroMatch = gitContent.match(/heroImage:\s*"([^"]+)"/);
+      const tagsMatch = gitContent.match(/tags:\s*(\[[\s\S]*?\])/);
+
+      historyMetaMap[slug] = {
+        pubDate: pubMatch ? pubMatch[1] : null,
+        updatedDate: upMatch ? upMatch[1] : null,
+        heroImage: heroMatch ? heroMatch[1] : null,
+        tags: tagsMatch ? tagsMatch[1] : null
+      };
+    } catch (e) {
+      // 3a61e460 이후 추가된 포스트는 디스크 상의 기존 KO md 파일에서 추출
+      const diskKoPath = pathModule.join(blogRootDir, 'ko', `${slug}.md`);
+      if (fs.existsSync(diskKoPath)) {
+        const content = fs.readFileSync(diskKoPath, 'utf-8');
+        const pubMatch = content.match(/pubDate:\s*"([^"]+)"/);
+        const upMatch = content.match(/updatedDate:\s*"([^"]+)"/);
+        const heroMatch = content.match(/heroImage:\s*"([^"]+)"/);
+        const tagsMatch = content.match(/tags:\s*(\[[\s\S]*?\])/);
+
+        historyMetaMap[slug] = {
+          pubDate: pubMatch ? pubMatch[1] : null,
+          updatedDate: upMatch ? upMatch[1] : null,
+          heroImage: heroMatch ? heroMatch[1] : null,
+          tags: tagsMatch ? tagsMatch[1] : null
+        };
+      }
+    }
+  });
+} catch (e) {
+  console.warn('⚠️ [경고] 역사적 메타데이터 맵 구축 중 일부분 추출 스킵:', e.message);
+}
 
 function ensureDir(dirPath) {
   if (!fs.existsSync(dirPath)) {
@@ -107,9 +154,21 @@ function compileBlogs() {
 
     if (!data) return;
 
-    const pubDate = data.pubDate || "2026-06-19";
-    const updatedDate = data.updatedDate || pubDate;
-    const koTagsStr = JSON.stringify(data.tags?.['ko'] || ["위습관", "루틴"]);
+    const histMeta = historyMetaMap[blogSlug] || {};
+    const pubDate = data.pubDate || histMeta.pubDate || "2026-06-19";
+    const updatedDate = data.updatedDate || histMeta.updatedDate || pubDate;
+
+    // heroImage 확장자 스마트 판단 (.webp 우선 보존)
+    const relWebpPath = `/images/blog/${blogSlug.replace(/-/g, '_')}.webp`;
+    const relPngPath = `/images/blog/${blogSlug.replace(/-/g, '_')}.png`;
+    const absWebpPath = pathModule.join(__dirname, '../public', relWebpPath);
+    
+    let heroImage = data.heroImage || histMeta.heroImage;
+    if (!heroImage) {
+      heroImage = fs.existsSync(absWebpPath) ? relWebpPath : relPngPath;
+    }
+
+    const defaultKoTags = histMeta.tags || JSON.stringify(data.tags?.['ko'] || ["위습관", "루틴"]);
 
     locales.forEach(lang => {
       const targetDir = pathModule.join(blogRootDir, lang);
@@ -125,13 +184,12 @@ function compileBlogs() {
       let cautionDesc = (data.cautionDesc?.[lang] || data.cautionDesc?.['en'] || data.cautionDesc?.['ko'] || "").replace(/\\n/g, '\n');
 
       let tags;
-      if (lang === 'ko') {
-        tags = koTagsStr;
+      if (data.tags?.[lang]) {
+        tags = JSON.stringify(data.tags[lang]);
+      } else if (lang === 'ko') {
+        tags = defaultKoTags;
       } else {
-        const rawTags = lang === 'en' 
-          ? ["Great Habits", blogSlug.split('-')[0], "Routine", "Stamina"]
-          : [title ? title.substring(0, 10) : "Routine", "Routine"];
-        tags = JSON.stringify(rawTags);
+        tags = histMeta.tags || defaultKoTags;
       }
 
       const steps = [];
@@ -198,7 +256,7 @@ description: "${description.replace(/"/g, '\\"')}"
 pubDate: "${pubDate}"
 ${updatedDate ? `updatedDate: "${updatedDate}"\n` : ''}category: "BuildSelf"
 tags: ${tags}
-heroImage: "/images/blog/${blogSlug.replace(/-/g, '_')}.png"
+heroImage: "${heroImage}"
 app: "buildself"
 formatVersion: 4
 authority: "${authority.replace(/"/g, '\\"')}"

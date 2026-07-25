@@ -23,16 +23,16 @@ faqs:
     answer: "Keep the seed in place, brush the cut surface with lemon juice or olive oil, and seal in an airtight container in the fridge to minimize browning."
 ---
 
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+Avez-vous déjà mis un avocat pas mûr au frigo pour le retrouver noirci et immangeable ? Aujourd'hui, FreshSnap partage des astuces de mûrissement et de conservation validées par la CAC et l'USDA.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+      Autorité Scientifique Vérifiée
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+      Ce guide de conservation est basé sur les directives officielles de : <strong>USDA & MFDS</strong>.
     </p>
   </div>
 </div>
@@ -41,7 +41,7 @@ Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d
 
 ## 1. Pourquoi conserver ainsi ? Faits scientifiques
 
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédient et de suivre la bonne méthode de conservation pour préserver la fraîcheur et l’hygiène.
 
 ---
 
@@ -53,7 +53,7 @@ Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Stocker dans un sac en papier à température ambiante avant maturité — Stockage à Temp. Ambiante (5Jours) 🥑</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+    Les avocats fermes doivent être conservés à température ambiante (15-20 °C). Les placer dans un sac en papier avec des bananes ou des pommes accélère le mûrissement grâce au gaz éthylène.
   </p>
 </div>
 
@@ -63,7 +63,7 @@ Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Envelopper de film étirable et réfrigérer une fois mûr — Stockage Réfrigéré (7Jours)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+    Dès que la peau devient brun foncé et souple sous le doigt, enveloppez l'avocat dans du film étirable et placez-le dans le bac à légumes du réfrigérateur pour stopper sa maturation.
   </p>
 </div>
 
@@ -73,7 +73,7 @@ Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Appliquer du jus de citron sur les faces coupées et sceller — Éviter le brunissement 🍋</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+    Pour la moitié restante, laissez le noyau, badigeonnez la chair de jus de citron (ou d'huile d'olive) et enveloppez fermement de film étirable. L'acide bloque l'oxydation et le brunissement.
   </p>
 </div>
 
@@ -86,7 +86,7 @@ Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d
   <div>
     <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Ne réfrigérez pas les avocats pas mûrs</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+      Mettre un avocat pas mûr au réfrigérateur stoppe définitivement son mûrissement. Sa chair restera dure et farineuse même remise à température ambiante.
     </p>
   </div>
 </div>
@@ -96,7 +96,7 @@ Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d
   <div>
     <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Appliquez du jus de citron sur la chair coupée</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+      La chair coupée s'oxyde et noircit vite à l'air. Appliquer du jus de citron ou de l'huile d'olive et laisser le noyau permet de bloquer l'oxygène.
     </p>
   </div>
 </div>
@@ -111,7 +111,7 @@ Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+      No, putting hard green avocados in the fridge stops the ripening process and causes chilling injury, making the flesh turn black. Ripen at room temp until brown before chilling.
     </p>
   </details>
 
@@ -121,7 +121,7 @@ Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+      Keep the seed in place, brush the cut surface with lemon juice or olive oil, and seal in an airtight container in the fridge to minimize browning.
     </p>
   </details>
 </div>

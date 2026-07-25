@@ -1,11 +1,11 @@
 ---
 title: "Das Genie, das mit einem Löffel das Universum malte: Salvador Dalís Gehirn-Reset-Schlaf und Hypnagogie-Erfassungsroutine"
 description: "Erkunden Sie, wie der Surrealist Salvador Dalí mit einem Löffel in der Hand im Stuhl schlummerte, um beim Aufwachen brillante Ideen zu erfassen. Entdecken Sie die kognitiven Neurowissenschaften der Hypnagogie und Theta-Wellen."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-07"
+updatedDate: "2026-03-07"
 category: "BuildSelf"
-tags: ["Das Genie,","Routine"]
-heroImage: "/images/blog/dali_spoon_nap.png"
+tags: ["위인 습관", "살바도르 달리", "창의성", "낮잠", "뇌파"]
+heroImage: "/images/blog/dali_spoon_nap.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Salvador Dalís Autobiografie *Das geheime Leben des Salvador Dalí (The Secret Life of Salvador Dalí)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

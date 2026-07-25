@@ -1,11 +1,11 @@
 ---
 title: "ベッドの枕元の筆記板：シャルルマーニュの睡眠記憶統合設計ルーティン"
 description: "西ヨーロッパの開拓者シャルルマーニュ大帝が文字習得のためベッドの枕元に蜜蝋の筆記板を置いた生涯学習習慣。徐波睡眠（Slow-wave Sleep）中の長期記憶転換を極大化し、海馬（Hippocampus）回路を強化する認知神経科学的原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-20"
+updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: ["ベッドの枕元の筆記板","Routine"]
-heroImage: "/images/blog/charlemagne_lifelong_learning.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/charlemagne_lifelong_learning.webp"
 app: "buildself"
 formatVersion: 4
 authority: "アインハルト伝記『Vita Karoli Magni』考証＆認知神経科学（Cognitive Neuroscience）研究"

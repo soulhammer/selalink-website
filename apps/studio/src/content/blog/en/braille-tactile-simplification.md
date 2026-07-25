@@ -1,11 +1,11 @@
 ---
 title: "Intuition at the Fingertips and the 6-Dot Innovation: Louis Braille's Essential Simplification and Chunking Routine"
 description: "Discover how Louis Braille simplified the complex 12-dot military night writing into a 6-dot tactile system fitting under a single fingertip, sparking a revolution in knowledge accessibility, and explore the neuroscientific principles of tactile working memory chunking."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-04"
+updatedDate: "2026-05-04"
 category: "BuildSelf"
-tags: ["Great Habits","braille","Routine","Stamina"]
-heroImage: "/images/blog/braille_tactile_simplification.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/braille_tactile_simplification.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from C. Michael Mellor's Biography *Louis Braille: A Touch of Genius* & Cognitive Neuroscience Research"

@@ -1,11 +1,11 @@
 ---
 title: "지구 전체를 유기체로 본 대탐험가: 알렉산더 폰 훔볼트의 현장 관찰 기록 루틴과 실시간 작업 기억 동기화"
 description: "근대 생태학과 지리학의 아버지 알렉산더 폰 훔볼트. 남미 쉼보라소 산을 오르는 혹독한 탐험 현장에서 기압과 식물 데이터를 즉시 노트로 기록해 '코스모스'를 완성한 그의 인지 정밀화 루틴과 3단계 실천법을 소개합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-04"
+updatedDate: "2026-02-04"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/humboldt_nature_journaling.png"
+tags: ["위인 습관", "Routine"]
+heroImage: "/images/blog/humboldt_nature_journaling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "안드레아 울프 『자연의 발명(The Invention of Nature)』 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 생태학(Ecology) 연구"

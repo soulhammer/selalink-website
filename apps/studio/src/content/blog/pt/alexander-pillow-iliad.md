@@ -1,11 +1,11 @@
 ---
 title: "A 'Ilíada debaixo do Travesseiro' de Alexandre, o Grande: Leitura Noturna de Visão que Sustentou Grandes Desafios"
 description: "Alexandre, o Grande nunca perdeu a coragem no campo de batalha, guardando um adaga e a Ilíada debaixo do travesseiro todas as noites. Explore o poder da leitura de visão que estimula o subconsciente."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-23"
+updatedDate: "2026-01-23"
 category: "BuildSelf"
-tags: ["A 'Ilíada ","Routine"]
-heroImage: "/images/blog/alexander_pillow_iliad.png"
+tags: ["위인 습관", "알렉산드로스", "동기부여", "독서 습관", "잠재의식"]
+heroImage: "/images/blog/alexander_pillow_iliad.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica das *Vidas Paralelas (Life of Alexander)* de Plutarco e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)"

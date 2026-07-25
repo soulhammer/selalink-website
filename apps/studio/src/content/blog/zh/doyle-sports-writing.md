@@ -1,11 +1,11 @@
 ---
 title: "撰写福尔摩斯前先击拳？阿瑟·柯南·道尔的大脑唤醒运动习惯与BDNF分泌机制"
 description: "揭示医师兼作家阿瑟·柯南·道尔为何坚持在写作前开展击拳与板球等剧烈运动。探索高强度有氧运动释放脑源性神经营养因子（BDNF）并极大化前额叶执行功能与专注力的神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-21"
+updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: ["撰写福尔摩斯前先击拳","Routine"]
-heroImage: "/images/blog/doyle_sports_writing.png"
+tags: ["위인 습관", "생산성"]
+heroImage: "/images/blog/doyle_sports_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "阿瑟·柯南·道尔自传《回忆与冒险（Memories and Adventures）》考证与认知神经科学（Cognitive Neuroscience）研究"

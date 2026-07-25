@@ -1,11 +1,11 @@
 ---
 title: "Der Kaiser, der mit 12 Stunden Schlaf Dutzende Trophäen gewann: Roger Federers Schlaf-Regenerationsroutine und Gehirn-Reinigungssystem"
 description: "Erfahren Sie das Geheimnis von Tennislegende Roger Federer, der bis über seinen 40. Geburtstag hinaus Höchstleistungen erbrachte: 10 bis 12 Stunden Schlaf pro Tag. Entdecken Sie die Neurowissenschaften des glymphatischen Systems, des REM-Schlafs und einen 3-Schritte-Plan."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-16"
+updatedDate: "2026-03-16"
 category: "BuildSelf"
-tags: ["Der Kaiser","Routine"]
-heroImage: "/images/blog/federer_sleep_recovery.png"
+tags: ["위인 습관", "Routine"]
+heroImage: "/images/blog/federer_sleep_recovery.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Chris Bowers' Biografie *Roger Federer: The Greatest*, offiziellen ATP-Archiven & Forschung der kognitiven Neurowissenschaften"

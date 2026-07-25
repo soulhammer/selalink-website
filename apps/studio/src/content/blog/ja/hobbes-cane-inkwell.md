@@ -1,11 +1,11 @@
 ---
 title: "散歩の杖にインク瓶を吊るした哲学者：トマス・ホッブズの即座メモ法と認知的外在化ルーティン"
 description: "思想家トマス・ホッブズは散歩中に浮かんだアイデアが揮発するのを防ぐため、杖にインク瓶を取り付け即座にメモしました。脳がリラックスする時に訪れるひらめきを永久保存する作業記憶拡張の原理と3段階実践法を解説します。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-16"
+updatedDate: "2026-03-16"
 category: "BuildSelf"
-tags: ["散歩の杖にインク瓶を","Routine"]
-heroImage: "/images/blog/hobbes_cane_inkwell.png"
+tags: ["산책 지팡이에 잉크","Routine"]
+heroImage: "/images/blog/hobbes_cane_inkwell.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ジョン・オーブリー（John Aubrey）『簡潔な生涯伝（Brief Lives）』およびトマス・ホッブズ史料考証＆認知神経科学（Cognitive Neuroscience）研究"

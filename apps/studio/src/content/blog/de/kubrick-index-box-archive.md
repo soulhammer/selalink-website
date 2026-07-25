@@ -1,11 +1,11 @@
 ---
 title: "Perfektion durch ein Second Brain: Stanley Kubricks Karteikarten-Archivierungsroutine und kognitive Entlastung"
 description: "Erfahren Sie, wie Regisseur Stanley Kubrick Meisterwerke schuf, indem er sein Arbeitsgedächtnis durch ein Karteikarten-Archiv entlastete. Entdecken Sie kognitive Entlastung (Cognitive Offloading), Chunking und eine 3-Schritte-Anleitung."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-18"
+updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: ["Perfektion","Routine"]
-heroImage: "/images/blog/kubrick_index_box_archive.png"
+tags: ["글쓰기", "창의성", "기록"]
+heroImage: "/images/blog/kubrick_index_box_archive.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus *The Stanley Kubrick Archives* (Alison Castle), Kubrick-Archiven & Forschung der kognitiven Neurowissenschaften und Psychologie"

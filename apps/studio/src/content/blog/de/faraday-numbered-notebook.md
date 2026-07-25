@@ -1,11 +1,11 @@
 ---
 title: "16.000 nummerierte Einträge: Michael Faradays Präzisions-Notizbuch-Routine und kognitives Offloading"
 description: "Erfahren Sie, wie der Physiker Michael Faraday über 16.000 nummerierte Experimenteinträge katalogisierte. Entdecken Sie die Kognitionswissenschaften hinter kognitivem Offloading und der Entlastung des Arbeitsgedächtnisses."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-24"
+updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: ["16.000 num","Routine"]
-heroImage: "/images/blog/faraday_numbered_notebook.png"
+tags: ["위인 습관", "마이클 패러데이", "기록", "생산성", "논리력"]
+heroImage: "/images/blog/faraday_numbered_notebook.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus *Michael Faraday's Diary* (Hrsg. Thomas Martin / Frank A.J.L. James) & Forschung der kognitiven Neurowissenschaften"

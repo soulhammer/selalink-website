@@ -1,11 +1,11 @@
 ---
 title: "El Antídoto contra la Especulación Solitaria: La Rutina de Socialización y Backgammon de David Hume para el Restablecimiento Emocional"
 description: "Descubra cómo el filósofo escocés David Hume combatía la melancolía intelectual cenando con amigos y jugando al backgammon cada noche. Explore la neurociencia de la oxitocina, la serotonina y la prevención de la sobrecarga cognitiva prefrontal."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-18"
+updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: ["El Antídot","Routine"]
-heroImage: "/images/blog/hume_social_refresh.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/hume_social_refresh.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica del *Tratado de la naturaleza humana* (1739) y Autobiografía *Mi vida* de David Hume e Investigación en Neurociencia Cognitiva"

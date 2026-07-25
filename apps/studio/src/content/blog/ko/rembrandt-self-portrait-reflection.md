@@ -1,11 +1,11 @@
 ---
 title: "거울 속 나를 응시한 찰나: 렘브란트의 자화상 시각 성찰 습관"
 description: "평생 80여 점의 자화상을 그리며 자신의 변화 과정을 시각적으로 깊이 관찰했던 렘브란트 판 레인. 거울 속 자신의 눈빛과 주름을 깊이 응시하는 시각 성찰이 자기 객관화 능력을 높이고 뇌의 '기본 감정 조절망'을 활성화하는 신경학적 메커니즘을 밝힙니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-25"
+updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/rembrandt_self_portrait_reflection.png"
+tags: ["성찰", "창의성", "사색"]
+heroImage: "/images/blog/rembrandt_self_portrait_reflection.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Rembrandt Self Portrait Reflection 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

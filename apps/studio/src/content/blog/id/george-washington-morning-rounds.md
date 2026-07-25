@@ -1,11 +1,11 @@
 ---
 title: "Buku Catatan Pertanian George Washington: Rutinitas Inspeksi dan Pencatatan Fajar yang Membentuk Tata Kelola Presidensial"
 description: "Pelajari bagaimana George Washington, yang bangun jam 4 pagi untuk menginspeksi Mount Vernon dan mencatat metrik pertanian yang presisi, membangun fondasi administratif sebuah negara. Temukan neurosains metakognisi dan korteks prefrontal lateral."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-04"
+updatedDate: "2026-07-04"
 category: "BuildSelf"
-tags: ["Buku Catat","Routine"]
-heroImage: "/images/blog/george_washington_morning_rounds.png"
+tags: ["위인 습관", "조지 워싱턴", "행정력", "영농 일지", "메타 인지"]
+heroImage: "/images/blog/george_washington_morning_rounds.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Biografi George Washington, Arsip Perkebunan Mount Vernon & Penelitian Neurosains Kognitif"

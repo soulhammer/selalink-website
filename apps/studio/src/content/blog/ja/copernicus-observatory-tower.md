@@ -1,11 +1,11 @@
 ---
 title: "揺るぎない観測塔：コペルニクスの場所固定集中法と空間条件づけ"
 description: "地動説で宇宙のパラダイムを変えたコペルニクスが固定された観測塔を貫いたルーティン。特定の空間を一つの業務にのみ専従させる時、脳のウォームアップ時間が短縮され文脈メカニズムが稼働する認知神経科学的原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["揺るぎない観測塔：コ","Routine"]
-heroImage: "/images/blog/copernicus_observatory_tower.png"
+tags: ["위인 습관", "니콜라우스 코페르니쿠스", "집중", "계획", "생산성"]
+heroImage: "/images/blog/copernicus_observatory_tower.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ニコラウス・コペルニクス『De revolutionibus orbium coelestium（天球の回転について）』考証＆認知神経科学（Cognitive Neuroscience）研究"

@@ -1,11 +1,11 @@
 ---
 title: "L'empereur qui a remporté des dizaines de trophées en dormant 12 heures par jour : La routine de sommeil et de nettoyage cérébral de Roger Federer"
 description: "Découvrez le secret du roi du tennis Roger Federer pour maintenir des performances exceptionnelles passé 40 ans : dormir 10 à 12 heures par jour. Explorez la neuroscience du système glymphatique, du sommeil REM et un guide pratique en 3 étapes."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-16"
+updatedDate: "2026-03-16"
 category: "BuildSelf"
-tags: ["L'empereur","Routine"]
-heroImage: "/images/blog/federer_sleep_recovery.png"
+tags: ["위인 습관", "Routine"]
+heroImage: "/images/blog/federer_sleep_recovery.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de la biographie de Chris Bowers *Roger Federer: The Greatest*, des archives officielles de l'ATP & de la Recherche en Neurosciences Cognitives"

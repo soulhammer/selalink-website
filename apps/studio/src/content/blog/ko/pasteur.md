@@ -1,11 +1,11 @@
 ---
 title: "플라스크 배양액의 미세 변화를 실시간으로 추적한 파스퇴르의 피드백 루프"
 description: "백신 개발과 저온 살균법의 아버지가 된 프랑스의 미생물학자로, 실험 도중 주의력을 분산하는 단 1%의 미세 노이즈조차 허용하지 않는 완벽한 물리적 책상 정돈을 고수했습니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-03"
+updatedDate: "2026-05-03"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/pasteur.png"
+tags: ["위인 습관", "루이 파스퇴르", "단순화", "분석"]
+heroImage: "/images/blog/pasteur.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Pasteur 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

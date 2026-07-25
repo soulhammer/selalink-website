@@ -1,11 +1,11 @@
 ---
 title: "Rahasia Cermin Pagi Hari untuk Mengisi Ulang Kepercayaan Diri: Rutin Afirmasi Positif Muhammad Ali"
 description: "Muhammad Ali, petinju terhebat abad ini. Pelajari efek neurosains dan rutinitas mindset 3 langkah dari afirmasi positif di depan cermin—rahasia di balik keberhasilannya mengatasi kecemasan performa yang parah sebelum bertanding hingga menjadi juara."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-26"
+updatedDate: "2026-01-26"
 category: "BuildSelf"
-tags: ["Rahasia Ce","Routine"]
-heroImage: "/images/blog/ali_positive_affirmation.png"
+tags: ["위인 습관", "무하마드알리", "자기확신", "동기부여", "멘탈케어"]
+heroImage: "/images/blog/ali_positive_affirmation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi dari Autobiografi Muhammad Ali *The Greatest: My Own Story* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

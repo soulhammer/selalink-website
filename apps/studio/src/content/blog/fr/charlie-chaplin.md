@@ -1,11 +1,11 @@
 ---
 title: "Le regard miroir répliquant le pas d'autrui : La routine de mimétisme physique et d'analyse humaine de Charlie Chaplin"
 description: "Découvrez comment l'icône du cinéma muet Charlie Chaplin observait et imitait la démarche de personnes inconnues dans la rue, et explorez les principes neuroscientifiques d'activation des neurones miroirs prémoteurs pour étendre le schéma corporel et maximiser l'empathie."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-01"
+updatedDate: "2026-03-01"
 category: "BuildSelf"
-tags: ["Le regard ","Routine"]
-heroImage: "/images/blog/charlie_chaplin.png"
+tags: ["위인 습관", "찰리 채플린", "창의성", "사색"]
+heroImage: "/images/blog/charlie_chaplin.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de l'autobiographie de Charlie Chaplin *Histoire de ma vie (My Autobiography)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

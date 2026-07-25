@@ -1,11 +1,11 @@
 ---
 title: "Harmonie du café de 5h et de la marche matinale : La puissante routine d'éveil matinal de Johannes Brahms"
 description: "Découvrez comment le maître classique allemand Johannes Brahms préparait du café noir à 5h chaque matin et marchait d'un pas vif sur les sentiers forestiers, et explorez le mécanisme neuroscientifique de la sécrétion de BDNF et de l'amélioration de la mémoire de travail lorsque la caféine s'associe à l'exercice aérobique."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-13"
+updatedDate: "2026-06-13"
 category: "BuildSelf"
-tags: ["Harmonie d","Routine"]
-heroImage: "/images/blog/brahms_early_morning_coffee.png"
+tags: ["새벽 5시 커피와 ","Routine"]
+heroImage: "/images/blog/brahms_early_morning_coffee.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de la biographie de Max Kalbeck *Johannes Brahms* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

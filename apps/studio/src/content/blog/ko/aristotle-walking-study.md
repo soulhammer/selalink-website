@@ -1,11 +1,11 @@
 ---
 title: "몰입의 극치: 아르키메데스의 모래 기하학 스케치 습관"
 description: "복잡한 과학적 영감을 시각화하기 위해 모래나 바닥에 끊임없이 도형을 그렸던 아르키메데스. 손을 사용하는 시각 스케치가 어떻게 작동 기억의 인지 과부하를 줄이고 초몰입 상태를 유도하는지 연구합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-25"
+updatedDate: "2026-03-25"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/aristotle_walking_study.png"
+tags: ["산책", "토론", "기억력", "고대"]
+heroImage: "/images/blog/aristotle_walking_study.webp"
 app: "buildself"
 formatVersion: 4
 authority: "플루타르코스 『영웅전(Life of Marcellus)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

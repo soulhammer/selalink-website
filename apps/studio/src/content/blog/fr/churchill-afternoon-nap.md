@@ -1,11 +1,11 @@
 ---
 title: "Le Premier ministre qui divisait sa journée en deux : La routine de sieste de l'après-midi et de nettoyage de l'adénosine de Winston Churchill"
 description: "Découvrez comment le Premier ministre britannique Winston Churchill, qui a mené les Alliés à la victoire lors de la Seconde Guerre mondiale, faisait une sieste quotidienne de 1,5 heure au lit. Explorez la neuroscience cognitive de l'élimination de l'adénosine accumulée et de la restauration de l'éveil cérébral."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-24"
+updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: ["Le Premier","Routine"]
-heroImage: "/images/blog/churchill_afternoon_nap.png"
+tags: ["위인 습관", "윈스턴 처칠", "낮잠", "휴식", "에너지"]
+heroImage: "/images/blog/churchill_afternoon_nap.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de la biographie de Martin Gilbert *Winston S. Churchill* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

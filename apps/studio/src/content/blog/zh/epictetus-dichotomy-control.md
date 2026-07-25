@@ -1,11 +1,11 @@
 ---
 title: "摒弃掌控之外杂念的奴隶出身哲学家：爱比克泰德的控制二分法晚间反思习惯与内心平静之道"
 description: "深度剖析古罗马斯多葛派大师爱比克泰德通过严苛划分“掌控之内”与“掌控之外”将日常焦虑归零的晚间记录习惯，结合认知神经科学揭示内控感与大脑平静机制。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-15"
+updatedDate: "2026-05-15"
 category: "BuildSelf"
-tags: ["摒弃掌控之外杂念的奴","Routine"]
-heroImage: "/images/blog/epictetus_dichotomy_control.png"
+tags: ["위인 습관", "Routine"]
+heroImage: "/images/blog/epictetus_dichotomy_control.webp"
 app: "buildself"
 formatVersion: 4
 authority: "爱比克泰德《语录（Discourses）》与《手册（Enchiridion）》考证及认知神经科学（Cognitive Neuroscience）研究"

@@ -1,11 +1,11 @@
 ---
 title: "Sculpter des modèles 3D plutôt que des formules : La routine de 'visualisation spatiale haptique' et d'activation du lobe pariétal de Johannes Kepler"
 description: "Découvrez comment l'astronome du XVIIe siècle Johannes Kepler a compris les orbites planétaires en sculptant des modèles géométriques en 3D. Explorez la neuroscience de la visualisation haptique, la stimulation du lobe pariétal et la réduction de la surcharge cognitive."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-24"
+updatedDate: "2026-06-24"
 category: "BuildSelf"
-tags: ["Sculpter d","Routine"]
-heroImage: "/images/blog/kepler_geometric_modeling.png"
+tags: ["위인 습관", "학습"]
+heroImage: "/images/blog/kepler_geometric_modeling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de *Mysterium Cosmographicum* (1596) de Johannes Kepler, des archives de Kepler & de la Recherche en Neurosciences Cognitives et Cognition Spatiale"

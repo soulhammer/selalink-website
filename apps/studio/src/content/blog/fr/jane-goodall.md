@@ -1,11 +1,11 @@
 ---
 title: "Assise sur les rochers aux côtés des chimpanzés pour observer et consigner : La routine d'immersion et d'attention sélective de Jane Goodall"
 description: "Découvrez comment l'éthologue Jane Goodall a obtenu des avancées scientifiques en observant les chimpanzés dans la jungle de Gombe. Explorez la neuroscience de l'activation du cortex d'association sensorielle et de l'attention sélective."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-09"
+updatedDate: "2026-05-09"
 category: "BuildSelf"
-tags: ["Assise sur","Routine"]
-heroImage: "/images/blog/jane_goodall.png"
+tags: ["위인 습관", "제인 구달", "사색", "성찰"]
+heroImage: "/images/blog/jane_goodall.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de l'autobiographie de Jane Goodall *Raison d'espérer (Reason for Hope)*, des archives du Gombe Stream Research Centre & de la Recherche en Neurosciences Cognitives et Éthologie"

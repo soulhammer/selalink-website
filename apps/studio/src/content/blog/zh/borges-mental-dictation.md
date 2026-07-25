@@ -1,11 +1,11 @@
 ---
 title: "心眼构筑的迷宫：博尔赫斯的时空工作记忆可视化习惯"
 description: "探索阿根廷文学巨匠豪尔赫·路易斯·博尔赫斯在失明后，如何在脑海中重构三维文本与迷宫结构并通过口述完成作品的习惯，揭示最大化时空工作记忆并激活跨模态可塑性的神经科学机制。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-21"
+updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: ["心眼构筑的迷宫：博尔","Routine"]
-heroImage: "/images/blog/borges_mental_dictation.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/borges_mental_dictation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "埃德温·威廉姆森传记《博尔赫斯传（Borges: A Life）》考证与认知神经科学（Cognitive Neuroscience）研究"

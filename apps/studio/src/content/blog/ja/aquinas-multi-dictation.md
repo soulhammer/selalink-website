@@ -1,11 +1,11 @@
 ---
 title: "トマス・アクィナスの多重口述法：作業記憶（ワーキングメモリ）を極大化し複雑な難題を攻略する方法"
 description: "中世の偉大な神学者トマス・アクィナスが、同時に3〜4人の秘書に異なるテーマの原稿を口述筆記させ、論理的文脈を失わずに作業記憶を拡張した秘訣を探ります。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-09"
+updatedDate: "2026-03-09"
 category: "BuildSelf"
-tags: ["トマス・アクィナスの","Routine"]
-heroImage: "/images/blog/aquinas_multi_dictation.png"
+tags: ["집중력", "구술대필", "작업기억", "중세"]
+heroImage: "/images/blog/aquinas_multi_dictation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ベルナルドゥス・ギ（Bernard of Gui）によるトマス・アクィナス伝記の考証＆認知神経科学（Cognitive Neuroscience）研究"

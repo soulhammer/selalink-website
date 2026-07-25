@@ -22,16 +22,17 @@ faqs:
   - question: "How do I store a cut avocado half?"
     answer: "Keep the seed in place, brush the cut surface with lemon juice or olive oil, and seal in an airtight container in the fridge to minimize browning."
 ---
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+
+Pernahkah Anda memasukkan alpukat mentah ke dalam kulkas lalu menjadi busuk? Hari ini, FreshSnap membagikan rahasia pematangan dan penyimpanan alpukat berdasarkan panduan CAC dan USDA.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Otoritas Ilmiah Terverifikasi
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Panduan penyimpanan ini didasarkan pada pedoman keselamatan resmi dari: <strong>USDA & MFDS</strong>.
     </p>
   </div>
 </div>
@@ -40,7 +41,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
 
 ## 1. Mengapa disimpan seperti ini? Fakta ilmiah
 
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpanan yang benar sangat penting untuk menjaga kesegaran dan kebersihan.
 
 ---
 
@@ -52,7 +53,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Simpan di kantong kertas pada suhu ruang sebelum matang — Penyimpanan Suhu Ruang (5Hari) 🥑</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+    Alpukat yang masih keras harus disimpan pada suhu ruang 15–20°C. Memasukkannya ke dalam kantong kertas bersama pisang atau apel akan mempercepat proses pematangan berkat gas etilen.
   </p>
 </div>
 
@@ -62,7 +63,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Bungkus dengan plastik wrap lalu dinginkan setelah matang — Penyimpanan Dingin (7Hari)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+    Jika kulitnya sudah berubah menjadi cokelat tua dan terasa agak empuk saat ditekan, segera bungkus dengan plastik wrap lalu taruh di laci sayur kulkas untuk memperlambat pembusukan.
   </p>
 </div>
 
@@ -72,7 +73,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Oleskan jus lemon pada permukaan potongan lalu segel — Mencegah perubahan warna 🍋</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+    Biarkan bijinya tetap menempel pada belahan alpukat yang tidak digunakan, oleskan sedikit jus lemon (atau minyak zaitun) pada permukaan potongan, lalu segel dengan plastik wrap. Keasaman akan mencegah oksidasi.
   </p>
 </div>
 
@@ -85,7 +86,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
   <div>
     <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Jangan dinginkan alpukat yang belum matang</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Mendinginkan alpukat sebelum matang akan menghentikan proses pematangan secara permanen, membuat teksturnya tetap keras bahkan setelah dikembalikan ke suhu ruang.
     </p>
   </div>
 </div>
@@ -95,7 +96,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
   <div>
     <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Oleskan jus lemon pada permukaan potongan</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Bagian yang dipotong akan cepat teroksidasi dan berubah warna menjadi cokelat saat terkena udara. Oleskan jus lemon atau minyak zaitun dan biarkan bijinya menempel.
     </p>
   </div>
 </div>
@@ -110,7 +111,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      No, putting hard green avocados in the fridge stops the ripening process and causes chilling injury, making the flesh turn black. Ripen at room temp until brown before chilling.
     </p>
   </details>
 
@@ -120,7 +121,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Keep the seed in place, brush the cut surface with lemon juice or olive oil, and seal in an airtight container in the fridge to minimize browning.
     </p>
   </details>
 </div>

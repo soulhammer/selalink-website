@@ -1,11 +1,11 @@
 ---
 title: "Menggubah Musik dengan Setelan Formal di Rumah?: Rutinitas 'Kognisi Pakaian' dan Sakelar Fokus Bapak Simfoni Joseph Haydn"
 description: "Temukan alasan mengapa komponis Joseph Haydn mengenakan setelan formal dan wig sebelum menggubah musik. Pelajari bagaimana pakaian meningkatkan fokus dan produktivitas melalui ilmu 'Enclothed Cognition' dan Kognisi Terwujud."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-04"
+updatedDate: "2026-04-04"
 category: "BuildSelf"
-tags: ["Menggubah ","Routine"]
-heroImage: "/images/blog/haydn_formal_dressing.png"
+tags: ["위인 습관", "생산성"]
+heroImage: "/images/blog/haydn_formal_dressing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Biografi Joseph Haydn (Dies & Griesinger), Arsip Istana Esterházy & Penelitian Neurosains Kognitif"

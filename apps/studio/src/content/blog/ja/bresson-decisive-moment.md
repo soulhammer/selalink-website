@@ -1,11 +1,11 @@
 ---
 title: "刹那の幾何学と没頭の視線：アンリ・カルティエ＝ブレッソンの「決定瞬」観察ルーティン"
 description: "現代フォトジャーナリズムの巨匠アンリ・カルティエ＝ブレッソンが完璧な幾何学的構図と刹那の瞬間を待った視覚的没頭の習慣。予測符号化（Predictive Coding）フィルターを打ち破り、視覚皮質と前頭葉注意制御ネットワークを呼び醒ます神経科学的原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-08"
+updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: ["刹那の幾何学と没頭の","Routine"]
-heroImage: "/images/blog/bresson_decisive_moment.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/bresson_decisive_moment.webp"
 app: "buildself"
 formatVersion: 4
 authority: "アンリ・カルティエ＝ブレッソン写真集『Images à la sauvette / The Decisive Moment』考証＆認知神経科学（Cognitive Neuroscience）研究"

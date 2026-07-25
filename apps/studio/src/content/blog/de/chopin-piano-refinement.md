@@ -1,11 +1,11 @@
 ---
 title: "Der extreme Perfektionismus des Poeten des Klaviers: Frédéric Chopins Routine der Tasten-Iteration und ACC-Feineinstellung"
 description: "Erkunden Sie, wie der Romantik-Meister Frédéric Chopin Melodien hunderte Male am Klavier spielte, um unsterbliche Meisterwerke zu schaffen, und entdecken Sie die kognitiven Neurowissenschaften zur Fehlererkennung des Anterioren Cingulären Kortex (ACC) und neuronaler Feineinstellung."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-21"
+updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: ["Der extrem","Routine"]
-heroImage: "/images/blog/chopin_piano_refinement.png"
+tags: ["위인 습관", "쇼팽", "완벽주의", "피아노작곡", "디테일퇴고"]
+heroImage: "/images/blog/chopin_piano_refinement.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus George Sands Autobiografie *Histoire de ma vie (Geschichte meines Lebens)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

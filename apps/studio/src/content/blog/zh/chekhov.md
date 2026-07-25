@@ -1,11 +1,11 @@
 ---
 title: "衣领的毛球与瞳孔的颤动：契诃夫的微观观察与选择性注意"
 description: "探索现代短篇小说巨匠安东·切诃夫在候车室与咖啡馆精细记录过客微观细节的手账习惯，揭示微观选择性注意（Micro Selective Attention）如何提升认知分辨率并促发大脑皮层觉醒的神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-12"
+updatedDate: "2026-01-12"
 category: "BuildSelf"
-tags: ["衣领的毛球与瞳孔的颤","Routine"]
-heroImage: "/images/blog/chekhov.png"
+tags: ["위인 습관", "안톤 체호프", "기록", "메모"]
+heroImage: "/images/blog/chekhov.webp"
 app: "buildself"
 formatVersion: 4
 authority: "E·H·卡尔传记《契诃夫评传（Anton Chekhov: A Critical Study）》考证与认知神经科学（Cognitive Neuroscience）研究"

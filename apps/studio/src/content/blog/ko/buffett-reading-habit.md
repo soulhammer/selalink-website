@@ -1,11 +1,11 @@
 ---
 title: "지식의 복리 효과: 워런 버핏의 하루 500페이지 독서 습관과 인지 예비능"
 description: "세계 최고의 투자자 워런 버핏의 핵심 성공 비결인 하루 500페이지 독서 습관. 신경망 연결성 강화, 인지 예비능 구축, 패턴 인식 속도를 끌어올리는 인지신경과학적 원리와 3단계 실천법을 밝힙니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-10"
+updatedDate: "2026-06-10"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/buffett_reading_habit.png"
+tags: ["위인 습관", "워런 버핏", "독서", "투자", "성공습관", "학습"]
+heroImage: "/images/blog/buffett_reading_habit.webp"
 app: "buildself"
 formatVersion: 4
 authority: "앨리스 슈뢰더 평전 『스노볼(The Snowball: Warren Buffett and the Business of Life)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

@@ -1,11 +1,11 @@
 ---
 title: "La Emoción de la Madrugada: La Rutina de Desayuno Familiar a las 5 AM y Caminata del Presidente Ju-Yung Chung"
 description: "Descubra cómo el fundador del Grupo Hyundai, Ju-Yung Chung, mantuvo el hábito de despertarse a las 4 AM y compartir el desayuno en familia. Explore los principios neurocientíficos de la actividad aeróbica matutina y el vínculo emocional para estabilizar el cortisol."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-12"
+updatedDate: "2026-06-12"
 category: "BuildSelf"
-tags: ["La Emoción","Routine"]
-heroImage: "/images/blog/chung_dawn_breakfast.png"
+tags: ["위인 습관", "정주영", "의지력", "계획", "시간 관리"]
+heroImage: "/images/blog/chung_dawn_breakfast.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la Autobiografía de Ju-Yung Chung *Pruebas sí, derrotas no (Born of this Land)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"

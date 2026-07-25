@@ -1,11 +1,11 @@
 ---
 title: "守护沉浸状态的环境信号：简·奥斯汀的吱吱作响的门习惯"
 description: "简·奥斯汀特意不修理吱吱作响的门，以便提前察觉干扰因素的进入。探讨构建专注边界的原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-27"
+updatedDate: "2026-03-27"
 category: "BuildSelf"
-tags: ["守护沉浸状态的环境信","Routine"]
-heroImage: "/images/blog/austen_creaky_door.png"
+tags: ["위인 습관", "제인 오스틴", "집중력", "몰입", "환경 설정"]
+heroImage: "/images/blog/austen_creaky_door.webp"
 app: "buildself"
 formatVersion: 4
 authority: "James Edward Austen-Leigh, *A Memoir of Jane Austen* (1869) 与《Neuropsychologia》研究"

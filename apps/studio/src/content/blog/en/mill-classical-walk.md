@@ -1,11 +1,11 @@
 ---
 title: "걷는 뇌가 천재를 만든다? 존 스튜어트 밀의 산책 토론 루틴"
 description: "자유론의 위대한 지성 존 스튜어트 밀. 매일 아침 아버지와 숲길을 걸으며 고전을 암송하고 토론했던 그의 독특한 산책 독서 습관과, 뇌의 신경 가소성을 높이는 운동-인지 융합의 뇌과학적 효과를 파헤칩니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-25"
+updatedDate: "2026-01-25"
 category: "BuildSelf"
-tags: ["Great Habits","mill","Routine","Stamina"]
-heroImage: "/images/blog/mill_classical_walk.png"
+tags: ["위인 습관", "존 스튜어트 밀", "산책 독서", "신경 가소성", "BDNF"]
+heroImage: "/images/blog/mill_classical_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "존 스튜어트 밀 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

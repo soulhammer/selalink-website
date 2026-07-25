@@ -1,11 +1,11 @@
 ---
 title: "Offline-Fokus: Donald Knuths E-Mail-Verzicht-Routine und Vermeidung von Kontextwechseln"
 description: "Erfahren Sie, wie der Informatiker Donald Knuth am 1. Januar 1990 auf E-Mails verzichtete, um ungestörtes Arbeiten zu schützen. Entdecken Sie die Neurowissenschaften zur Vermeidung von Kontextwechseln, Aufmerksamkeitsrückständen und Batch-Verarbeitung."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["Offline-Fo","Routine"]
-heroImage: "/images/blog/knuth_no_email.png"
+tags: ["위인 습관", "도널드 너스", "집중", "생산성", "시간 관리"]
+heroImage: "/images/blog/knuth_no_email.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Donald Knuths offizieller Erklärung *Email and I*, Stanford-Archiven & Forschung der kognitiven Neurowissenschaften und kognitiven Psychologie"

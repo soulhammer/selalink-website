@@ -1,11 +1,11 @@
 ---
 title: "Wanita yang Merencanakan Pembunuhan Sambil Makan Apel di Bak Mandi: Brainstorming Air Hangat dan Relaksasi DMN ala Agatha Christie"
 description: "Pelajari bagaimana Ratu Kejahatan Agatha Christie merancang alibi rumit dan plot pembunuhan sambil makan apel di bak mandi air hangat, serta temukan neurosains kognitif tentang aktivasi Default Mode Network (DMN) dan gerakan mengunyah."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["Wanita yan","Routine"]
-heroImage: "/images/blog/christie_bathtub_brainstorming.png"
+tags: ["위인 습관", "아가사 크리스티", "아이디어", "목욕", "창의성"]
+heroImage: "/images/blog/christie_bathtub_brainstorming.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Autobiografi Agatha Christie *An Autobiography* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

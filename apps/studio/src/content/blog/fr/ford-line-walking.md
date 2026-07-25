@@ -1,11 +1,11 @@
 ---
 title: "Le roi de l'automobile qui esquissait l'innovation en arpentant la chaîne : Le schéma de flux et la routine d'externalisation cognitive de Henry Ford"
 description: "Découvrez comment Henry Ford, pionnier de la chaîne de montage mobile, réduisait sa charge préfrontale en arpentant l'usine et en dessinant des schémas de flux dans ses carnets. Explorez la neuroscience de la poursuite visuelle et de l'externalisation cognitive."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-23"
+updatedDate: "2026-06-23"
 category: "BuildSelf"
-tags: ["Le roi de ","Routine"]
-heroImage: "/images/blog/ford_line_walking.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/ford_line_walking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de l'autobiographie de Henry Ford *Ma vie et mon œuvre (My Life and Work)*, des biographies historiques & de la Recherche en Neurosciences Cognitives"

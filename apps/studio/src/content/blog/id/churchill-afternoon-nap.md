@@ -1,11 +1,11 @@
 ---
 title: "Perdana Menteri yang Membagi Harinya Menjadi Dua: Rutinitas Tidur Siang dan Pembersihan Adenosin ala Winston Churchill"
 description: "Pelajari bagaimana Perdana Menteri Inggris Winston Churchill, yang memimpin Sekutu menuju kemenangan dalam Perang Dunia II, melakukan tidur siang harian selama 1,5 jam di tempat tidur. Temukan neurosains kognitif tentang pembersihan adenosin yang terakumulasi dan pemulihan kewaspadaan otak."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-24"
+updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: ["Perdana Me","Routine"]
-heroImage: "/images/blog/churchill_afternoon_nap.png"
+tags: ["위인 습관", "윈스턴 처칠", "낮잠", "휴식", "에너지"]
+heroImage: "/images/blog/churchill_afternoon_nap.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Biografi Martin Gilbert *Winston S. Churchill* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

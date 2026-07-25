@@ -1,11 +1,11 @@
 ---
 title: "Serat di Kerah dan Getaran Pupil Mata: Pengamatan Mikro dan Perhatian Selektif ala Anton Chekhov"
 description: "Pelajari bagaimana Anton Chekhov, maestro cerita pendek modern, mencatat secara teliti detail-detail mikro para pejalan kaki di ruang tunggu dan kafe, serta temukan prinsip neurosains dari Perhatian Selektif Mikro yang meningkatkan resolusi kognitif."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-12"
+updatedDate: "2026-01-12"
 category: "BuildSelf"
-tags: ["Serat di K","Routine"]
-heroImage: "/images/blog/chekhov.png"
+tags: ["위인 습관", "안톤 체호프", "기록", "메모"]
+heroImage: "/images/blog/chekhov.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Biografi E. H. Carr *Anton Chekhov: A Critical Study* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

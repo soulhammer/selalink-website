@@ -1,11 +1,11 @@
 ---
 title: "哲学と思索の保管所：ヘーゲルの弁証法的カード索引記録法と認知の足場かけルーティン"
 description: "ドイツ観念論を完成させたヘーゲルの哲学の背後には、数万枚の知識カードと徹底した分類箱保管法がありました。知識を拡張し作業記憶の限界を克服する彼の「認知の足場かけ（Cognitive Scaffolding）」と3段階実践法を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["哲学と思索の保管所：","Routine"]
-heroImage: "/images/blog/hegel_card_index.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/hegel_card_index.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ゲオルク・ヴィルヘルム・フリードリヒ・ヘーゲル評伝およびヘーゲル著作集『精神現象学（Phänomenologie des Geistes）』考証＆認知神経科学（Cognitive Neuroscience）研究"

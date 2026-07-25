@@ -1,11 +1,11 @@
 ---
 title: "Grande Inspiração no Verso de um Envelope: O Hábito de Escrever em Retalhos de Emily Dickinson e Relaxamento por Incubação"
 description: "Descubra como o gênio poético americano Emily Dickinson rabiscava poemas espontaneamente em recibos e embalagens enquanto assava pão. Explore a neurociência cognitiva da ativação da Rede de Modo Padrão (DMN) e o Efeito de Incubação."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-02"
+updatedDate: "2026-05-02"
 category: "BuildSelf"
-tags: ["Grande Ins","Routine"]
-heroImage: "/images/blog/dickinson_scrap_writing.png"
+tags: ["위인 습관", "에밀리디킨슨", "영수증시", "즉흥기록", "창의성"]
+heroImage: "/images/blog/dickinson_scrap_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica da Biografia de Richard B. Sewall *A Vida de Emily Dickinson (The Life of Emily Dickinson)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)"

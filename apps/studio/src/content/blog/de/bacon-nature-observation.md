@@ -1,11 +1,11 @@
 ---
 title: "Francis Bacons morgendlicher Garten-Spaziergang: Wie man Gehirnmüdigkeit durch Naturbeobachtung zurücksetzt"
 description: "Entdecken Sie, wie Francis Bacon, ein Meister des Empirismus, jeden Morgen in seinem Garten spazieren ging, um Pflanzen und Wetter zu beobachten, Gehirnmüdigkeit zu lindern und seine induktive Philosophie zu etablieren."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-04"
+updatedDate: "2026-01-04"
 category: "BuildSelf"
-tags: ["Francis Ba","Routine"]
-heroImage: "/images/blog/bacon_nature_observation.png"
+tags: ["산책", "자연관찰", "경험론", "근세"]
+heroImage: "/images/blog/bacon_nature_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Francis Bacons Essay *Of Gardens* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

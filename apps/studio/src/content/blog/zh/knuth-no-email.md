@@ -1,11 +1,11 @@
 ---
 title: "离线深度专注：高德纳（Donald Knuth）的电邮切断习惯与防范上下文切换指南"
 description: "探索计算机科学泰斗高德纳（Donald Knuth）如何自1990年起停用电子邮件，坚守离线深度工作（Deep Work）。揭示阻断上下文切换（Context Switching）、防范注意力残留（Attention Residue）与批量处理（Batch Processing）的神经科学原理与3步骤指南。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["离线深度专注：高德纳","Routine"]
-heroImage: "/images/blog/knuth_no_email.png"
+tags: ["위인 습관", "도널드 너스", "집중", "생산성", "시간 관리"]
+heroImage: "/images/blog/knuth_no_email.webp"
 app: "buildself"
 formatVersion: 4
 authority: "高德纳官方声明《电子邮件与我（Email and I）》与斯坦福档案考证及认知神经科学（Cognitive Neuroscience）与认知心理学（Cognitive Psychology）研究"

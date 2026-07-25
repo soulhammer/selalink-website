@@ -1,11 +1,11 @@
 ---
 title: "Inmersión Offline: La Rutina de Desconexión de Correo Electrónico y Prevención del Cambio de Contexto de Donald Knuth"
 description: "Descubra cómo el científico informático Donald Knuth abandonó el correo electrónico el 1 de enero de 1990 para proteger su trabajo profundo. Explore la neurociencia de eliminar el cambio de contexto, evitar los residuos de atención y aplicar el procesamiento por lotes."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["Inmersión ","Routine"]
-heroImage: "/images/blog/knuth_no_email.png"
+tags: ["위인 습관", "도널드 너스", "집중", "생산성", "시간 관리"]
+heroImage: "/images/blog/knuth_no_email.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la Declaración Oficial de Donald Knuth *Email and I*, Archivos de Stanford e Investigación en Neurociencia Cognitiva y Psicología Cognitiva"

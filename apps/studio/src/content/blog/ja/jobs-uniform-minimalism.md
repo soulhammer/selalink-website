@@ -1,11 +1,11 @@
 ---
 title: "毎日同じ服だけを着た天才：スティーブ・ジョブズの意思決定ミニマリズムルーティンと前頭前野認知資源の保存"
 description: "アップルの創業者スティーブ・ジョブズ。常に黒のタートルネックとジーンズだけを着た彼のユニークなミニマリズム習慣の中に隠された意思決定疲労（Decision Fatigue）の克服法、前頭前野認知資源の保存原理と現代人のための3段階服装単純化ルーティンを紹介します。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-25"
+updatedDate: "2026-06-25"
 category: "BuildSelf"
-tags: ["毎日同じ服だけを着た","Routine"]
-heroImage: "/images/blog/jobs_uniform_minimalism.png"
+tags: ["위인 습관", "스티브 잡스", "생산성", "단순화", "의사결정"]
+heroImage: "/images/blog/jobs_uniform_minimalism.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ウォルター・アイザックソン『スティーブ・ジョブズ（Steve Jobs, 2011）』史料考証＆認知心理学（Cognitive Psychology）および認知神経科学（Cognitive Neuroscience）研究"

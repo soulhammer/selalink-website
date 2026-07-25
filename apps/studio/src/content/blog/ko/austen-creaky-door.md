@@ -1,11 +1,11 @@
 ---
 title: "몰입을 지키는 환경 신호: 제인 오스틴의 삐걱거리는 문 습관"
 description: "제인 오스틴은 방해 요소가 들어올 때 미리 감지하기 위해 삐걱거리는 문을 일부러 고치지 않았습니다. 집중 경계를 설계하는 원리를 다룹니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-27"
+updatedDate: "2026-03-27"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/austen_creaky_door.png"
+tags: ["위인 습관", "제인 오스틴", "집중력", "몰입", "환경 설정"]
+heroImage: "/images/blog/austen_creaky_door.webp"
 app: "buildself"
 formatVersion: 4
 authority: "James Edward Austen-Leigh, *A Memoir of Jane Austen* (1869) & *Neuropsychologia*"

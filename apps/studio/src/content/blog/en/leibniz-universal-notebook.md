@@ -1,11 +1,11 @@
 ---
 title: "The Single Universal Notebook for All Knowledge: Gottfried Wilhelm Leibniz's Commonplace Book Routine and Synaptic LTP"
 description: "Discover how calculus co-inventor Gottfried Wilhelm Leibniz consolidated all knowledge into a single categorized commonplace notebook (Commonplace Book). Explore the neuroscience of semantic networks, Long-Term Potentiation (LTP), prefrontal cross-linking, and a 3-step practice guide."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-27"
+updatedDate: "2026-02-27"
 category: "BuildSelf"
-tags: ["Great Habits","leibniz","Routine","Stamina"]
-heroImage: "/images/blog/leibniz_universal_notebook.png"
+tags: ["기록", "창의성", "사색"]
+heroImage: "/images/blog/leibniz_universal_notebook.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Gottfried Wilhelm Leibniz Biographies, Leibniz-Archiv (Hanover) & Cognitive Neuroscience and Cognitive Psychology Research"

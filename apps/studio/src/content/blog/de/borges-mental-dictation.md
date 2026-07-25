@@ -1,11 +1,11 @@
 ---
 title: "Das im geistigen Auge gezeichnete Labyrinth: Borges' Routine zur Visualisierung des visuell-räumlichen Arbeitsgedächtnisses"
 description: "Entdecken Sie, wie der argentinische Literaturmeister Jorge Luis Borges nach dem Erblinden dreidimensionale Textstrukturen und Labyrinthe im Geist entwarf und seine Werke mündlich diktierte. Erkunden Sie die neurowissenschaftlichen Mechanismen zur Maximierung des visuell-räumlichen Arbeitsgedächtnisses und zur Auslösung plattformübergreifender Plastizität."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-21"
+updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: ["Das im gei","Routine"]
-heroImage: "/images/blog/borges_mental_dictation.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/borges_mental_dictation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Edwin Williamsons Biografie *Borges: A Life* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

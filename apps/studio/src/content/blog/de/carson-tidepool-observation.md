@@ -1,11 +1,11 @@
 ---
 title: "Das Meeresökosystem, das den Stummen Frühling hervorbachte: Rachel Carsons Gezeitenpool-Beobachtung und Sanfte Faszination"
 description: "Erkunden Sie, wie Rachel Carson, Pionierin der modernen Umweltbewegung, trotz des Drucks von Großkonzernen und Krebsbehandlungen durch die Beobachtung von Gezeitenpools ihre kognitive Leistungsfähigkeit regenerierte. Entdecken Sie die Aufmerksamkeitswiederherstellungstheorie (ART) und 'Sanfte Faszination'."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-04"
+updatedDate: "2026-07-04"
 category: "BuildSelf"
-tags: ["Das Meeres","Routine"]
-heroImage: "/images/blog/carson_tidepool_observation.png"
+tags: ["위인 습관", "레이첼 카슨", "자연 관찰", "주의 회복", "인도어 디톡스"]
+heroImage: "/images/blog/carson_tidepool_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Rachel Carsons historischen Biografien und autobiografischen Archiven & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

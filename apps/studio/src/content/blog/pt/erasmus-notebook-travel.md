@@ -1,11 +1,11 @@
 ---
 title: "O Caderno de Viagem de Erasmo: Capturando Faíscas de Inspiração em Movimento"
 description: "Descubra como o erudito renascentista Erasmo redigiu 'O Elogio da Loucura' enquanto viajava pela Europa a cavalo com um caderno de bolso. Explore a neurociência das ondas alfa, do fluxo visual e da criatividade induzida pelo movimento."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-11"
+updatedDate: "2026-06-11"
 category: "BuildSelf"
-tags: ["O Caderno ","Routine"]
-heroImage: "/images/blog/erasmus_notebook_travel.png"
+tags: ["메모", "이동식학습", "인문주의", "르네상스"]
+heroImage: "/images/blog/erasmus_notebook_travel.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica das *Epistolae* de Desidério Erasmo, da Biografia de Johan Huizinga *Erasmo* e Pesquisa em Neurociência Cognitiva"

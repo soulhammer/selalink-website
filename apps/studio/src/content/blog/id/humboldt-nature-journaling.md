@@ -1,11 +1,11 @@
 ---
 title: "Melihat Bumi sebagai Satu Organisme: Rutinitas Catatan Lapangan dan Synchronisasi Memori Kerja Real-Time Alexander von Humboldt"
 description: "Pelajari bagaimana Alexander von Humboldt, bapak ekologi modern, menciptakan visi 'Kosmos'-nya dengan mencatat data tekanan dan flora secara real-time saat mendaki Gunung Chimborazo. Temukan neurosains dari pencatatan lapangan real-time."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-04"
+updatedDate: "2026-02-04"
 category: "BuildSelf"
-tags: ["Melihat Bu","Routine"]
-heroImage: "/images/blog/humboldt_nature_journaling.png"
+tags: ["위인 습관", "Routine"]
+heroImage: "/images/blog/humboldt_nature_journaling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari *The Invention of Nature* karya Andrea Wulf, Arsip *Kosmos* & Penelitian Neurosains Kognitif serta Ekologi"

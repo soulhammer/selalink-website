@@ -1,11 +1,11 @@
 ---
 title: "The Compound Effect of Knowledge: Warren Buffett's 500-Page Daily Reading Habit and Cognitive Reserve"
 description: "Explore Warren Buffett's core success secret—reading 500 pages daily—and discover the cognitive neuroscience behind neural network connectivity, cognitive reserve accumulation, and accelerated pattern recognition."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-10"
+updatedDate: "2026-06-10"
 category: "BuildSelf"
-tags: ["Great Habits","buffett","Routine","Stamina"]
-heroImage: "/images/blog/buffett_reading_habit.png"
+tags: ["위인 습관", "워런 버핏", "독서", "투자", "성공습관", "학습"]
+heroImage: "/images/blog/buffett_reading_habit.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Alice Schroeder's Biography *The Snowball: Warren Buffett and the Business of Life* & Cognitive Neuroscience Research"

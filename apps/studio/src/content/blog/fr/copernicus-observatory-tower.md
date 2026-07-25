@@ -1,11 +1,11 @@
 ---
 title: "La tour d'observation inébranlable : La routine de concentration en espace fixe et de conditionnement environnemental de Nicolas Copernic"
 description: "Découvrez comment Nicolas Copernic a conservé une tour d'observation fixe à Frombork pendant des décennies. Explorez la neuroscience cognitive du conditionnement spatial et de la mémoire dépendante du contexte qui élimine le temps d'échauffement cognitif."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["La tour d'","Routine"]
-heroImage: "/images/blog/copernicus_observatory_tower.png"
+tags: ["위인 습관", "니콜라우스 코페르니쿠스", "집중", "계획", "생산성"]
+heroImage: "/images/blog/copernicus_observatory_tower.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de *Des révolutions des sphères célestes (De revolutionibus orbium coelestium)* de Nicolas Copernic & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

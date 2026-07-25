@@ -1,11 +1,11 @@
 ---
 title: "Le philosophe qui retrouvait ses notes en moins d'une minute : La routine d'indexation du livre de lieux communs de John Locke"
 description: "Découvrez comment le grand empiriste John Locke a indexé méthodiquement son savoir grâce à un système de grille de voyelles. Explorez la neuroscience des réseaux de mémoire associative, la réduction de la distance sémantique, la décharge préfrontale et un guide en 3 étapes."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-19"
+updatedDate: "2026-03-19"
 category: "BuildSelf"
-tags: ["Le philoso","Routine"]
-heroImage: "/images/blog/locke_commonplace_book.png"
+tags: ["1분 안에 과거의 ","Routine"]
+heroImage: "/images/blog/locke_commonplace_book.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue du traité de John Locke *A New Method of a Commonplace-Book* (1686), des archives de Locke & de la Recherche en Neurosciences Cognitives et Psychologie Cognitive"

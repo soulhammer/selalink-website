@@ -1,11 +1,11 @@
 ---
 title: "Une aventure intellectuelle réinitialisant la vie tous les 3 ans : La routine d'étude multidisciplinaire et la neuroplasticité de Peter Drucker"
 description: "Découvrez comment le maître du management Peter Drucker a maîtrisé une nouvelle discipline académique tous les 3 ans tout au long de sa vie. Explorez la neuroscience cognitive de la neuroplasticité et de la synthèse multidisciplinaire."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["Une aventu","Routine"]
-heroImage: "/images/blog/drucker_three_year_study.png"
+tags: ["위인 습관", "피터 드러커", "학습", "자기계발", "시간 관리"]
+heroImage: "/images/blog/drucker_three_year_study.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de l'autobiographie de Peter Drucker *Adventures of a Bystander* & *Managing Oneself* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

@@ -1,11 +1,11 @@
 ---
 title: "Sinais Ambientais que Protegem a Imersão: O Hábito da Porta Rangendo de Jane Austen"
 description: "Jane Austen deixou intencionalmente sem conserto uma porta rangendo para detectar antecipadamente as distrações que chegavam. Explore os princípios do projeto de limites de concentração."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-27"
+updatedDate: "2026-03-27"
 category: "BuildSelf"
-tags: ["Sinais Amb","Routine"]
-heroImage: "/images/blog/austen_creaky_door.png"
+tags: ["위인 습관", "제인 오스틴", "집중력", "몰입", "환경 설정"]
+heroImage: "/images/blog/austen_creaky_door.webp"
 app: "buildself"
 formatVersion: 4
 authority: "James Edward Austen-Leigh, *A Memoir of Jane Austen* (1869) e Pesquisa do *Neuropsychologia*"

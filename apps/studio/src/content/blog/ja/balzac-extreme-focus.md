@@ -1,11 +1,11 @@
 ---
 title: "午前0時の覚醒：オノレ・ド・バルザックのコーヒーと12時間超没頭執筆法"
 description: "19世紀フランス写実主義文学の巨匠オノレ・ド・バルザックが実践した深夜執筆とコーヒー覚醒ルーティン。外部刺激を遮断し、脳の注意力を極限まで引き上げる超没頭の神経科学的メカニズムを解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-14"
+updatedDate: "2026-02-14"
 category: "BuildSelf"
-tags: ["午前0時の覚醒：オノ","Routine"]
-heroImage: "/images/blog/balzac_extreme_focus.png"
+tags: ["위인 습관", "오노레 드 발자크", "초몰입", "집중력", "시간관리"]
+heroImage: "/images/blog/balzac_extreme_focus.webp"
 app: "buildself"
 formatVersion: 4
 authority: "シュテファン・ツヴァイク伝記『バルザック（Balzac）』考証＆認知神経科学（Cognitive Neuroscience）研究"

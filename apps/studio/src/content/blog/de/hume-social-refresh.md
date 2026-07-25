@@ -1,11 +1,11 @@
 ---
 title: "Gengengift für die einsame Denkarbeit: David Humes abendliche Geselligkeit und Backgammon-Routine zur emotionalen Erholung"
 description: "Erfahren Sie, wie der schottische Philosoph David Hume intellektuelle Schwermut bekämpfte, indem er abends mit Freunden speiste und Backgammon spielte. Entdecken Sie die Neurowissenschaften von Oxytocin, Serotonin und der Vermeidung kognitiver Überlastung."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-18"
+updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: ["Gengengift","Routine"]
-heroImage: "/images/blog/hume_social_refresh.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/hume_social_refresh.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus David Humes *Ein Traktat über die menschliche Natur* (1739), Autobiografie *Mein Leben* & Forschung der kognitiven Neurowissenschaften"

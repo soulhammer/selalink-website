@@ -1,11 +1,11 @@
 ---
 title: "Francis Bacon's Morning Garden Walk: How to Reset Brain Fatigue Through Nature Observation"
 description: "Discover how Francis Bacon, a master of empiricism, walked in his garden every morning to observe plants and weather, relieving brain fatigue and establishing his inductive philosophy."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-04"
+updatedDate: "2026-01-04"
 category: "BuildSelf"
-tags: ["Great Habits","bacon","Routine","Stamina"]
-heroImage: "/images/blog/bacon_nature_observation.png"
+tags: ["산책", "자연관찰", "경험론", "근세"]
+heroImage: "/images/blog/bacon_nature_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Francis Bacon's Essay *Of Gardens* & Cognitive Neuroscience Research"

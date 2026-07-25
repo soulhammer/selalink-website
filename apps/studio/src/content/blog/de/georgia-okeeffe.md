@@ -1,11 +1,11 @@
 ---
 title: "Wüstenschädel unter der Lupe betrachtet: Georgia O'Keeffes Nahaufnahmen-Beobachtung und visuelle Aufmerksamkeitsroutine"
 description: "Erfahren Sie, wie Georgia O'Keeffe, die 'Mutter der amerikanischen Moderne', die visuelle selektive Aufmerksamkeit maximierte, indem sie Wüstenschädel und Blütenblätter zehnfach vergrößerte. Entdecken Sie die Neurowissenschaften des visuellen Assoziationskortex."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-25"
+updatedDate: "2026-02-25"
 category: "BuildSelf"
-tags: ["Wüstenschä","Routine"]
-heroImage: "/images/blog/georgia_okeeffe.png"
+tags: ["위인 습관", "조지아 오키프", "이완", "성찰"]
+heroImage: "/images/blog/georgia_okeeffe.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Georgia O'Keeffes Autobiografie *Georgia O'Keeffe*, Archiven des Georgia O'Keeffe Museums (Santa Fe) & Forschung der kognitiven Neurowissenschaften"

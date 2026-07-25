@@ -1,11 +1,11 @@
 ---
 title: "아침 6시 불패의 멘탈셋업: 마이클 조던의 브랙퍼스트 클럽과 승자 효과"
 description: "농구 황제 마이클 조던의 피지컬과 멘탈 한계를 돌파한 아침 6시 훈련 루틴 '브랙퍼스트 클럽'. 승자 효과(Winner Effect), 도파민·테스토스테론 분비 및 아침 멘탈셋업 3단계 가이드를 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-16"
+updatedDate: "2026-01-16"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/jordan_breakfast_club.png"
+tags: ["위인 습관", "마이클조던", "아침루틴", "의지력", "멘탈셋업"]
+heroImage: "/images/blog/jordan_breakfast_club.webp"
 app: "buildself"
 formatVersion: 4
 authority: "마이클 조던 자서전 『드라이븐 프롬 위드인(Driven from Within)』 및 평전 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 운동생리학(Exercise Physiology) 연구"

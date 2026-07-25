@@ -1,11 +1,11 @@
 ---
 title: "Cleopatras mehrsprachige Meisterschaft: Die intellektuelle Dialoggewohnheit, die die Welt ohne Dolmetscher steuerte"
 description: "Erkunden Sie, wie die ägyptische Königin Cleopatra mindestens neun Sprachen ohne Dolmetscher fließend sprach, und entdecken Sie die kognitiven Neurowissenschaften der Broca- und Wernicke-Areal-Stimulation und kognitiven Flexibilität."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-03"
+updatedDate: "2026-03-03"
 category: "BuildSelf"
-tags: ["Cleopatras","Routine"]
-heroImage: "/images/blog/cleopatra_multilingual_study.png"
+tags: ["위인 습관", "클레오파트라", "언어 공부", "인지 유연성", "뇌 가소성"]
+heroImage: "/images/blog/cleopatra_multilingual_study.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Plutarchs *Große Griechen und Römer (Parallel Lives)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

@@ -1,11 +1,11 @@
 ---
 title: "템포를 늦추어 1초에 한 건반을 무오류로 연주한 리스트의 소뇌 학습법과 미엘린 수초화"
 description: "음악 역사상 가장 정교한 기교를 자랑한 피아니스트 프란츠 리스트. 건반의 무질서한 속주 연습 대신 메트로놈 템포를 늦추어 1초에 한 건반을 치는 슬로모션 무오류 학습(Errorless Learning)으로 소뇌(Cerebellum)를 단련하고 미엘린 수초화를 유도한 원리와 3단계 실천법을 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-14"
+updatedDate: "2026-04-14"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/liszt.png"
+tags: ["위인 습관", "프란츠 리스트", "의지력", "시간 관리"]
+heroImage: "/images/blog/liszt.webp"
 app: "buildself"
 formatVersion: 4
 authority: "프란츠 리스트 평전 사료 『프란츠 리스트: 거장의 삶(Franz Liszt: The Virtuoso Years)』 고증 & 인지신경과학(Cognitive Neuroscience) 및 운동학습학(Motor Learning Science) 연구"

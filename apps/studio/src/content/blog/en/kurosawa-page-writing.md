@@ -1,11 +1,11 @@
 ---
 title: "The Master's Great Beginning: Akira Kurosawa's Daily 2-Page Screenplay Routine and Amygdala Stabilization"
 description: "Discover how legendary director Akira Kurosawa consistently created cinematic masterworks by writing 2 pages of screenplay every day. Explore the neuroscience of micro-goals, suppressing amygdala threat responses, and activating prefrontal executive function."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["Great Habits","kurosawa","Routine","Stamina"]
-heroImage: "/images/blog/kurosawa_page_writing.png"
+tags: ["위인 습관", "아키라 구로사와", "미세 목표", "인지 부하", "실천력", "창의성"]
+heroImage: "/images/blog/kurosawa_page_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Akira Kurosawa's Autobiography *Something Like an Autobiography*, Kurosawa Archives & Cognitive Neuroscience and Behavioral Psychology Research"

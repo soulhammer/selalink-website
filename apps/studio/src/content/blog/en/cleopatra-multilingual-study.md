@@ -1,11 +1,11 @@
 ---
 title: "Cleopatra's Multilingual Mastery: The Intellectual Dialogue Habit That Governed the World Without Interpreters"
 description: "Explore how Egyptian Queen Cleopatra fluently spoke at least nine languages without interpreters, and discover the cognitive neuroscience of Broca and Wernicke activation, cortical gray matter density enhancement, and prefrontal cognitive flexibility."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-03"
+updatedDate: "2026-03-03"
 category: "BuildSelf"
-tags: ["Great Habits","cleopatra","Routine","Stamina"]
-heroImage: "/images/blog/cleopatra_multilingual_study.png"
+tags: ["위인 습관", "클레오파트라", "언어 공부", "인지 유연성", "뇌 가소성"]
+heroImage: "/images/blog/cleopatra_multilingual_study.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Plutarch's *Parallel Lives* & Cognitive Neuroscience Research"

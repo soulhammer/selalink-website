@@ -1,11 +1,11 @@
 ---
 title: "Jenius yang Mengenakan Pakaian yang Sama Setiap Hari: Rutinitas Minimalisme Keputusan dan Pelestarian Sumber Daya Kognitif Prefrontal Steve Jobs"
 description: "Pelajari bagaimana pendiri Apple Steve Jobs melestarikan energi kognitif dengan mengenakan seragam harian sweater kerah tinggi hitam dan jeans yang identik. Temukan neurosains kelelahan keputusan dan alokasi sumber daya korteks prefrontal."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-25"
+updatedDate: "2026-06-25"
 category: "BuildSelf"
-tags: ["Jenius yan","Routine"]
-heroImage: "/images/blog/jobs_uniform_minimalism.png"
+tags: ["위인 습관", "스티브 잡스", "생산성", "단순화", "의사결정"]
+heroImage: "/images/blog/jobs_uniform_minimalism.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari *Steve Jobs* (2011) karya Walter Isaacson, Arsip Apple & Penelitian Psikologi Kognitif dan Neurosains Kognitif"

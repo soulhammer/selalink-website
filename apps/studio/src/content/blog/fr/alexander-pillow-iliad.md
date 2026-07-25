@@ -1,11 +1,11 @@
 ---
 title: "L'« Iliade sous l'oreiller » d'Alexandre le Grand : La lecture nocturne de vision qui a soutenu d'immenses défis"
 description: "Alexandre le Grand ne perdait jamais courage sur le champ de bataille, gardant chaque nuit un poignard et l'Iliade sous son oreiller. Découvrez le pouvoir de la lecture de vision qui stimule le subconscient."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-23"
+updatedDate: "2026-01-23"
 category: "BuildSelf"
-tags: ["L'« Iliade","Routine"]
-heroImage: "/images/blog/alexander_pillow_iliad.png"
+tags: ["위인 습관", "알렉산드로스", "동기부여", "독서 습관", "잠재의식"]
+heroImage: "/images/blog/alexander_pillow_iliad.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de *La Vie d'Alexandre* de Plutarque & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

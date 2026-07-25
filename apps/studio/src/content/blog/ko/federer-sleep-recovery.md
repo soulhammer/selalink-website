@@ -1,11 +1,11 @@
 ---
 title: "하루 10~12시간 자고 수십 개의 우승컵을 든 황제: 로저 페더러의 수면 회복 루틴과 뇌 정화 메커니즘"
 description: "테니스 황제 로저 페더러. 40세가 넘는 나이까지 세계 최고 기량을 유지한 비결인 하루 10~12시간 고급 수면 및 렘(REM) 수면 회복 루틴과 글림프 시스템의 뇌과학적 메커니즘, 3단계 실천 가이드를 깊이 있게 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-16"
+updatedDate: "2026-03-16"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/federer_sleep_recovery.png"
+tags: ["위인 습관", "Routine"]
+heroImage: "/images/blog/federer_sleep_recovery.webp"
 app: "buildself"
 formatVersion: 4
 authority: "크리스 보워 『로저 페더러 평전(Roger Federer: The Greatest)』 및 ATP 공식 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

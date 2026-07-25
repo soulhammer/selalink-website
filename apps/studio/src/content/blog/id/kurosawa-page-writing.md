@@ -1,11 +1,11 @@
 ---
 title: "Awal Mula Agung sang Maestro: Rutinitas Skenario 2 Halaman Harian Akira Kurosawa dan Stabilisasi Amigdala"
 description: "Pelajari bagaimana sutradara legendaris Akira Kurosawa menciptakan mahakarya sinematik dengan menulis 2 halaman skenario setiap hari. Temukan neurosains mikro-target, menekan respons ancaman amigdala, dan panduan 3 langkah."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["Awal Mula ","Routine"]
-heroImage: "/images/blog/kurosawa_page_writing.png"
+tags: ["위인 습관", "아키라 구로사와", "미세 목표", "인지 부하", "실천력", "창의성"]
+heroImage: "/images/blog/kurosawa_page_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Autobiografi Akira Kurosawa *Something Like an Autobiography*, Arsip Kurosawa & Penelitian Neurosains Kognitif serta Psikologi Perilaku"

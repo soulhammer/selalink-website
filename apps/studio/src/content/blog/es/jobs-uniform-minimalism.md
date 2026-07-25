@@ -1,11 +1,11 @@
 ---
 title: "El Genio que Vestía la Misma Ropa Todos los Días: La Rutina de Minimalismo Decisional y Preservación de Recursos Cognitivos Prefrontales de Steve Jobs"
 description: "Descubra cómo el cofundador de Apple, Steve Jobs, preservaba su energía cognitiva vistiendo un uniforme diario de camiseta de cuello alto negra y vaqueros. Explore la neurociencia de la fatiga de decisión, los recursos prefrontales y un marco de 3 pasos."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-25"
+updatedDate: "2026-06-25"
 category: "BuildSelf"
-tags: ["El Genio q","Routine"]
-heroImage: "/images/blog/jobs_uniform_minimalism.png"
+tags: ["위인 습관", "스티브 잡스", "생산성", "단순화", "의사결정"]
+heroImage: "/images/blog/jobs_uniform_minimalism.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de *Steve Jobs* (2011) de Walter Isaacson, Archivos de Apple e Investigación en Psicología Cognitiva y Neurociencia Cognitiva"

@@ -1,11 +1,11 @@
 ---
 title: "The Foundation of Elegance: Audrey Hepburn's Healing Garden Routine and the Brain Science of Soil Contact"
 description: "Discover how Hollywood legend Audrey Hepburn preserved inner tranquility and elegance amidst intense media scrutiny and illness through gardening. Explore the neuroscience of soil contact, Mycobacterium vaccae, and serotonin."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-14"
+updatedDate: "2026-01-14"
 category: "BuildSelf"
-tags: ["Great Habits","hepburn","Routine","Stamina"]
-heroImage: "/images/blog/hepburn_garden_mindfulness.png"
+tags: ["위인 습관", "오드리헵번", "정원가꾸기", "스트레스해소", "마음치유"]
+heroImage: "/images/blog/hepburn_garden_mindfulness.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Audrey Hepburn Biographies, Tolochenaz Estate Archives (Switzerland) & Cognitive Neuroscience and Environmental Psychology Research"

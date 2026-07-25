@@ -1,11 +1,11 @@
 ---
 title: "자연이 준 불확정성의 힌트: 하이젠베르크의 알프스 하이킹 습관과 DMN 인큐베이션 루틴"
 description: "양자역학의 난제를 풀기 위해 바이에른 알프스를 홀로 하이킹하며 생각에 잠겼던 베르너 하이젠베르크. 자연 속 걷기가 뇌의 주의력을 회복시키고 기본 모드 네트워크(DMN)의 창조적 인큐베이션(부화)을 유도하는 과학적 원리를 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-06"
+updatedDate: "2026-02-06"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/heisenberg_alpine_hiking.png"
+tags: ["사색", "이완", "창의성"]
+heroImage: "/images/blog/heisenberg_alpine_hiking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "베르너 하이젠베르크 자서전 『부분과 전체(Der Teil und das Ganze)』 및 바이에른 학술원(Bayerische Akademie der Wissenschaften) 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 환경심리학(Environmental Psychology) 연구"

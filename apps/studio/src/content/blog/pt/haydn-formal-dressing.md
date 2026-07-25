@@ -1,11 +1,11 @@
 ---
 title: "Compor de Terno Formal em Casa?: A Rotina de 'Cognição do Vestuário' e o Interruptor de Foco do Pai da Sinfonia Joseph Haydn"
 description: "Descubra por que o compositor Joseph Haydn vestia terno formal e peruca antes de compor. Explore como as roupas melhoram a produtividade por meio da ciência da 'Cognição do Vestuário' (Enclothed Cognition) e da Cognição Incorporada."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-04"
+updatedDate: "2026-04-04"
 category: "BuildSelf"
-tags: ["Compor de ","Routine"]
-heroImage: "/images/blog/haydn_formal_dressing.png"
+tags: ["위인 습관", "생산성"]
+heroImage: "/images/blog/haydn_formal_dressing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica das Biografias de Joseph Haydn (Dies & Griesinger), Arquivos do Palácio de Esterházy e Pesquisa em Neurociência Cognitiva"

@@ -1,11 +1,11 @@
 ---
 title: "La routine de tri de timbres de Franklin D. Roosevelt : Relaxation cognitive et rituel de sommeil analogique"
 description: "Découvrez comment le président Roosevelt apaisait sa tension mentale en triant des timbres chaque soir pendant les crises. Explorez la neuroscience de la relaxation cognitive et du sommeil réparateur."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-02"
+updatedDate: "2026-07-02"
 category: "BuildSelf"
-tags: ["La routine","Routine"]
-heroImage: "/images/blog/fdr_stamp_collecting.png"
+tags: ["위인 습관", "루스벨트", "스트레스 해소", "휴식 루틴", "취침 전 습관"]
+heroImage: "/images/blog/fdr_stamp_collecting.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue des biographies de Franklin D. Roosevelt, des archives de la FDR Presidential Library & de la Recherche en Neurosciences Cognitives"

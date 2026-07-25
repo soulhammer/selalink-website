@@ -1,11 +1,11 @@
 ---
 title: "'진주 귀걸이를 한 소녀'의 거장? 페르메이르의 아침 창가 빛 관찰 루틴"
 description: "빛의 거장 요하네스 페르메이르가 카메라 옵스큐라로 빛의 음영을 정밀 관찰하며 정서적 고요와 입체적 영감을 얻었던 아침 빛 관조 습관."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-05"
+updatedDate: "2026-04-05"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/vermeer_camera_obscura_light.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/vermeer_camera_obscura_light.webp"
 app: "buildself"
 formatVersion: 4
 authority: "페르메이르 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

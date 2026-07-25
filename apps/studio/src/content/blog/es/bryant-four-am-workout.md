@@ -1,11 +1,11 @@
 ---
 title: "Milagro a las 4 AM: La Rutina de Entrenamiento Mamba de Kobe Bryant"
 description: "Descubra cómo el ícono del baloncesto Kobe Bryant iniciaba su primer entrenamiento a las 4 AM diariamente, y explore los principios neurocientíficos y fisiológicos de cómo los entrenamientos a la misma hora matutina fijan el ritmo circadiano y maximizan el rendimiento."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-19"
+updatedDate: "2026-01-19"
 category: "BuildSelf"
-tags: ["Milagro a ","Routine"]
-heroImage: "/images/blog/bryant_four_am_workout.png"
+tags: ["위인 습관", "코비 브라이언트", "성장", "의지력", "신체활성"]
+heroImage: "/images/blog/bryant_four_am_workout.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la Autobiografía de Kobe Bryant *Mentalidad Mamba: Los secretos de mi juego (The Mamba Mentality: How I Play)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"

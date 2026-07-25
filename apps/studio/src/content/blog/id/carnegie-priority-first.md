@@ -1,11 +1,11 @@
 ---
 title: "Miliarder yang Menyelesaikan Tugas Tersulit Pertama di Pagi Hari: Rutinitas Eksekusi Prioritas Andrew Carnegie"
 description: "Pelajari bagaimana magnat baja Andrew Carnegie menyelesaikan tugas terberatnya terlebih dahulu selama jam-jam emas pagi hari ketika sumber daya prefrontal terisi penuh, serta temukan neurosains kognitif untuk mengatasi ego depletion guna memaksimalkan fungsi eksekutif."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["Miliarder ","Routine"]
-heroImage: "/images/blog/carnegie_priority_first.png"
+tags: ["위인 습관", "앤드류 카네기", "우선순위", "의지력", "생산성"]
+heroImage: "/images/blog/carnegie_priority_first.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Autobiografi Andrew Carnegie *Autobiography of Andrew Carnegie* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

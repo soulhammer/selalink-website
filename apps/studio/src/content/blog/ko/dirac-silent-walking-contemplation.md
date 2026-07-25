@@ -1,11 +1,11 @@
 ---
 title: "말을 최소화하고 정적을 걸은 천재: 폴 디랙의 침묵 산책 루틴과 언어적 노이즈 제거"
 description: "양자역학의 거장이자 노벨 물리학상 수상자 폴 디랙. 일요일의 침묵 산책으로 언어적 노이즈를 제거하고 디랙 방정식을 정제했던 사색 루틴. 좌뇌 언어 피질 이완과 두정엽 시공간 연산 회로 활성화의 인지신경과학적 원리를 밝깁니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-25"
+updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/dirac_silent_walking_contemplation.png"
+tags: ["위인 습관", "Routine"]
+heroImage: "/images/blog/dirac_silent_walking_contemplation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "그레이엄 파멜로 평전 『스트레인지 맨(The Strangest Man: The Hidden Life of Paul Dirac)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

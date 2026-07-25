@@ -1,11 +1,11 @@
 ---
 title: "침대에 누워 파란 색연필로 쓰다: 제임스 조이스의 에너지 보존 집필 루틴과 일차 시각 피질(V1) 피로 완화"
 description: "심각한 안질환 속에서도 침대에 누워 거대한 문학 걸작을 남긴 제임스 조이스. 감각 피로를 최소화하고 신체 중력 부하를 줄여 전전두엽으로 두뇌 에너지를 효율적으로 분배하는 과학과 3단계 실천법을 다룹니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-10"
+updatedDate: "2026-04-10"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/joyce_bed_writing.png"
+tags: ["위인 습관", "휴식"]
+heroImage: "/images/blog/joyce_bed_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "제임스 조이스 평전 및 리처드 엘만(Richard Ellmann) 전기 사료 『제임스 조이스(James Joyce)』 고증 & 인지신경과학(Cognitive Neuroscience) 및 안지각(Visual Perception) 연구"

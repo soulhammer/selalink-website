@@ -1,11 +1,11 @@
 ---
 title: "Master yang Berjalan 4 km Melintasi Barcelona: Metode Jalan Kreatif dan Rutinitas Inspirasi Arsitektur Organik Antoni Gaudí"
 description: "Pelajari bagaimana arsitek jenius Antoni Gaudí menerjemahkan struktur alami ke dalam arsitektur dengan berjalan 4 km setiap hari melintasi Barcelona. Temukan neurosains kognitif tentang berjalan kreatif."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-13"
+updatedDate: "2026-04-13"
 category: "BuildSelf"
-tags: ["Master yan","Routine"]
-heroImage: "/images/blog/gaudi_nature_walk.png"
+tags: ["위인 습관", "안토니 가우디", "창의성", "산책", "영감"]
+heroImage: "/images/blog/gaudi_nature_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari *Gaudí: The Biography* karya Gijs van Hensbergen & Penelitian Neurosains Kognitif serta Psikologi Lingkungan"

@@ -1,11 +1,11 @@
 ---
 title: "孕育完美文句的声音：古斯塔夫·福楼拜“咆哮室”朗读习惯与听觉反馈指南"
 description: "探索追寻“唯一恰当之词（Le mot juste）”、绝不苟且文字的撰著大家福楼拜的文采秘诀。深度剖析其利用大脑运动皮层与听觉反馈回路在“咆哮室（Gueuloir）”高声朗读以打磨逻辑与韵律的神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-20"
+updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: ["孕育完美文句的声音：","Routine"]
-heroImage: "/images/blog/flaubert_gueuloir_recitation.png"
+tags: ["글쓰기", "창의성", "기록"]
+heroImage: "/images/blog/flaubert_gueuloir_recitation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "古斯塔夫·福楼拜书信集《Correspondance》与文学传记考证及认知神经科学（Cognitive Neuroscience）研究"

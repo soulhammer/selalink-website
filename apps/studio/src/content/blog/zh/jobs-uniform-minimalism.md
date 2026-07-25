@@ -1,11 +1,11 @@
 ---
 title: "每日只穿同一套衣服的天才：史蒂夫·乔布斯的决策极简主义习惯与前额叶认知资源保留指南"
 description: "探索苹果公司联合创始人史蒂夫·乔布斯如何通过每日穿戴标志性的黑色高领衫与牛仔裤保留认知能量。揭示决策疲劳（Decision Fatigue）防范、前额叶皮层资源分配原理与3步骤服装简化指南。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-25"
+updatedDate: "2026-06-25"
 category: "BuildSelf"
-tags: ["每日只穿同一套衣服的","Routine"]
-heroImage: "/images/blog/jobs_uniform_minimalism.png"
+tags: ["위인 습관", "스티브 잡스", "생산성", "단순화", "의사결정"]
+heroImage: "/images/blog/jobs_uniform_minimalism.webp"
 app: "buildself"
 formatVersion: 4
 authority: "沃尔特·艾萨克森《史蒂夫·乔布斯传（Steve Jobs, 2011）》史料考证及认知心理学（Cognitive Psychology）与认知神经科学（Cognitive Neuroscience）研究"

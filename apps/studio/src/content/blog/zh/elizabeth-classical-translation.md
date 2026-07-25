@@ -1,11 +1,11 @@
 ---
 title: "伊丽莎白一世的“古典翻译”：锻造君主逻辑大脑的晨间习惯"
 description: "伊丽莎白一世女王每天清晨将拉丁语古典名著翻译为英语，以此锤炼强大理性与严密逻辑。本文深度剖析激活高阶认知能力与脑力的翻译习惯原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-09"
+updatedDate: "2026-01-09"
 category: "BuildSelf"
-tags: ["伊丽莎白一世的“古典","Routine"]
-heroImage: "/images/blog/elizabeth_classical_translation.png"
+tags: ["위인 습관", "엘리자베스 1세", "두뇌 훈련", "번역 습관", "아침 루틴"]
+heroImage: "/images/blog/elizabeth_classical_translation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "伊丽莎白一世翻译著作集《Elizabeth I: Translations（Janel Mueller & Joshua Scodel）》与历史传记考证及认知神经科学（Cognitive Neuroscience）研究"

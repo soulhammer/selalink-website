@@ -1,11 +1,11 @@
 ---
 title: "El Gran Comienzo del Maestro: La Rutina Diaria de Guion de 2 Páginas de Akira Kurosawa y la Estabilización de la Amígdala"
 description: "Descubra cómo el legendario director Akira Kurosawa creó obras maestras escribiendo 2 páginas de guion todos los días. Explore la neurociencia de los microobjetivos, la supresión de la respuesta de amenaza de la amígdala y la activación prefrontal."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["El Gran Co","Routine"]
-heroImage: "/images/blog/kurosawa_page_writing.png"
+tags: ["위인 습관", "아키라 구로사와", "미세 목표", "인지 부하", "실천력", "창의성"]
+heroImage: "/images/blog/kurosawa_page_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de las Memorias de Akira Kurosawa *Algo parecido a una autobiografía*, Archivos de Kurosawa e Investigación en Neurociencia Cognitiva y Psicología Conductual"

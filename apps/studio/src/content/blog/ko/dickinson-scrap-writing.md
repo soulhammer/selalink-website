@@ -1,11 +1,11 @@
 ---
 title: "봉투 뒷면의 위대한 영감: 에밀리 디킨슨의 조각 메모 습관과 인큐베이션 이완"
 description: "미국의 천재 시인 에밀리 디킨슨이 부엌에서 빵을 구우며 영수증과 포장지 조각에 즉흥적으로 시를 적었던 루틴. 디폴트 모드 네트워크(DMN)와 인큐베이션(Incubation) 효과를 극대화하는 인지신경과학적 원리를 밝힙니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-02"
+updatedDate: "2026-05-02"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/dickinson_scrap_writing.png"
+tags: ["위인 습관", "에밀리디킨슨", "영수증시", "즉흥기록", "창의성"]
+heroImage: "/images/blog/dickinson_scrap_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "리처드 B. 슈얼 평전 『에밀리 디킨슨 평전(The Life of Emily Dickinson)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

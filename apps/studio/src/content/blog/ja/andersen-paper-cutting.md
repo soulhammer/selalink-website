@@ -1,11 +1,11 @@
 ---
 title: "うつ病を治療するハサミ使い？アンデルセンの切り絵（ペーパーカッティング）ルーティン"
 description: "世界的な童話作家ハンス・クリスチャン・アンデルセン。一生涯のうつ病と心理的欠乏の中でも美しい想像力を開花させた秘訣である「切り絵（Paper Cutting）」の精神医学的治療原理と3ステップガイドをご提案します。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["うつ病を治療するハサ","Routine"]
-heroImage: "/images/blog/andersen_paper_cutting.png"
+tags: ["위인 습관", "안데르센", "종이오리기", "미술치료", "뇌휴식"]
+heroImage: "/images/blog/andersen_paper_cutting.webp"
 app: "buildself"
 formatVersion: 4
 authority: "デンマーク・オーデンセのアンデルセン博物館（Hans Christian Andersen Museum）紙アーカイブの考証＆認知神経科学（Cognitive Neuroscience）研究"

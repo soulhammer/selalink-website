@@ -1,11 +1,11 @@
 ---
 title: "푸른 로브를 입고 아침 장미를 관찰한 화가: 구스타프 클림트의 정원 산책 루틴과 부드러운 매료(Soft Fascination)"
 description: "황금빛 화풍의 거장 구스타프 클림트. 매일 아침 오스트리아 아터제 호숫가 정원을 산책하며 꽃과 자연의 프랙탈 문양을 관찰했던 주의력 회복 이론(ART) 기반의 루틴, 전전두엽 리셋 원리 및 3단계 실천 가이드를 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-14"
+updatedDate: "2026-07-14"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/klimt_gardening_nature_refresh.png"
+tags: ["위인 습관", "Routine"]
+heroImage: "/images/blog/klimt_gardening_nature_refresh.webp"
 app: "buildself"
 formatVersion: 4
 authority: "구스타프 클림트 평전 및 아터제 아카이브(Attersee Archive) 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 환경심리학(Environmental Psychology) 연구"

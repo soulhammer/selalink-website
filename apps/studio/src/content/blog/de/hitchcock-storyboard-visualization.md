@@ -1,11 +1,11 @@
 ---
 title: "100 Prozent zuerst im Kopf vollenden: Alfred Hitchcocks visuelle Storyboard-Routine und mentale Simulation"
 description: "Erfahren Sie, wie Thriller-Meister Alfred Hitchcock vor dem Dreh detaillierte Storyboards entwarf. Entdecken Sie, wie mentale Simulation die motorische Ausführung aktiviert und Entscheidungsmüdigkeit eliminiert."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-08"
+updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: ["100 Prozen","Routine"]
-heroImage: "/images/blog/hitchcock_storyboard_visualization.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/hitchcock_storyboard_visualization.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Alfred Hitchcock-Biografien, François Truffauts Interviews (*Mister Hitchcock, wie haben Sie das gemacht?*) & Forschung der kognitiven Neurowissenschaften"

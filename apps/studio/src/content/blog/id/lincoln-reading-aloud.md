@@ -1,11 +1,11 @@
 ---
 title: "Presiden yang Membaca Buku Secara Nyaring: Rutinitas Membaca Prefrontal Abraham Lincoln dan Efek Produksi"
 description: "Pelajari bagaimana Presiden AS ke-16 Abraham Lincoln memaksimalkan ingatan dengan membaca nyaring. Temukan neurosains Efek Produksi, Representasi Ganda, aktivasi Area Broca, memori kerja prefrontal, dan panduan 5 menit."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-26"
+updatedDate: "2026-04-26"
 category: "BuildSelf"
-tags: ["Presiden y","Routine"]
-heroImage: "/images/blog/lincoln_reading_aloud.png"
+tags: ["위인 습관", "링컨", "아침루틴", "독서", "낭독"]
+heroImage: "/images/blog/lincoln_reading_aloud.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Biografi David Herbert Donald *Lincoln*, Memoar William Herndon & Penelitian Neurosains Kognitif serta Psikolinguistik"

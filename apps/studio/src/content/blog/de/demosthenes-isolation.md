@@ -1,11 +1,11 @@
 ---
 title: "Der Redner, der sich den halben Kopf schor: Demosthenes' Routine zur extremen Umweltkontrolle und Selbstverpflichtung"
 description: "Erkunden Sie, wie Demosthenes, Meisterredner des antiken Griechenlands, körperliche Grenzen überwand, indem er sich den halben Kopf schor und in eine Höhle zurückzog. Entdecken Sie die kognitiven Neurowissenschaften zu Selbstverpflichtungs-Mechanismen."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-28"
+updatedDate: "2026-01-28"
 category: "BuildSelf"
-tags: ["Der Redner","Routine"]
-heroImage: "/images/blog/demosthenes_isolation.png"
+tags: ["위인 습관", "데모스테네스", "몰입", "환경통제", "의지력"]
+heroImage: "/images/blog/demosthenes_isolation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Plutarchs *Große Griechen und Römer (Demosthenes)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

@@ -1,11 +1,11 @@
 ---
 title: "Des Kaisers Entschluss 'Eile mit Weile': Augusts Gewohnheit des vielseitigen Zuhörens"
 description: "Römischer Kaiser Augustus, der nach Cäsars Ermordung seine Entscheidungen vereinfachte, indem er gründlich den abweichenden Meinungen von Beratern wie Mäcenas und Agrippa zuhörte, anstatt eigenmächtig zu handeln. Erkunden Sie die neurowissenschaftlichen Prinzipien des Zuhörens und Filterns zur Überwindung des Bestätigungsfehlers."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["Des Kaiser","Routine"]
-heroImage: "/images/blog/augustus_decision_consultation.png"
+tags: ["의사결정", "단순화", "생산성"]
+heroImage: "/images/blog/augustus_decision_consultation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Suetons *De vita Caesarum* & Cassius Dios *Römische Geschichte* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

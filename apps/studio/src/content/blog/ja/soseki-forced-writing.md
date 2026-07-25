@@ -1,11 +1,11 @@
 ---
 title: "슬럼프를 이기는 강제의 힘: 나쓰메 소세키의 아침 집필 루틴"
 description: "나쓰메 소세키가 명작을 남긴 아침 집필 규칙. 영감을 기다리지 않고 뇌의 작동 흥분을 깨우는 루틴의 가치를 설명합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-19"
+updatedDate: "2026-04-19"
 category: "BuildSelf"
-tags: ["슬럼프를 이기는 강","Routine"]
-heroImage: "/images/blog/soseki_forced_writing.png"
+tags: ["위인 습관", "나쓰메 소세키", "루틴", "집필 습관", "작동 흥분", "생산성"]
+heroImage: "/images/blog/soseki_forced_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Soseki Forced Writing 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

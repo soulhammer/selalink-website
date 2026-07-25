@@ -1,11 +1,11 @@
 ---
 title: "Immersion au cœur du bruit : La routine de bruit blanc en café et de simplification de l'environnement de Simone de Beauvoir"
 description: "Découvrez la routine d'écriture que la philosophe existentialiste et romancière Simone de Beauvoir pratiquait quotidiennement dans son café parisien préféré autour d'une tasse de thé, et explorez les mécanismes neurologiques du bruit blanc doux ainsi que les méthodes pour créer votre propre Zone de Focalisation."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-08"
+updatedDate: "2026-06-08"
 category: "BuildSelf"
-tags: ["Immersion ","Routine"]
-heroImage: "/images/blog/beauvoir_cafe_writing.png"
+tags: ["매일 같은 카페에서","Routine"]
+heroImage: "/images/blog/beauvoir_cafe_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de l'autobiographie de Simone de Beauvoir *La Force des choses* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

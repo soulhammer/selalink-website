@@ -1,11 +1,11 @@
 ---
 title: "Kapten yang Membuka Era Penjelajahan: Rutinitas Catatan Log Malam Hari dan Penenangan Amigdala ala Christopher Columbus"
 description: "Pelajari bagaimana penjelajah Christopher Columbus mempertahankan ketenangan rasional di tengah badai samudra dengan menyimpan catatan log kuantitatif setiap malam. Temukan neurosains kognitif tentang bagaimana jurnal kuantitatif malam hari menenangkan amigdala."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-25"
+updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["Kapten yan","Routine"]
-heroImage: "/images/blog/columbus_nautical_log.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/columbus_nautical_log.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari *The Diario of Christopher Columbus* karya Bartolomé de las Casas & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

@@ -1,11 +1,11 @@
 ---
 title: "The Woman Who Planned Murders Eating Apples in a Bathtub: Agatha Christie's Hot Bath Brainstorming and DMN Relaxation"
 description: "Discover how Queen of Crime Agatha Christie conceived intricate alibis and murder plots while eating apples in a hot bath, and explore the cognitive neuroscience of Default Mode Network (DMN) activation and mastication."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["Great Habits","christie","Routine","Stamina"]
-heroImage: "/images/blog/christie_bathtub_brainstorming.png"
+tags: ["위인 습관", "아가사 크리스티", "아이디어", "목욕", "창의성"]
+heroImage: "/images/blog/christie_bathtub_brainstorming.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Agatha Christie's Autobiography *An Autobiography* & Cognitive Neuroscience Research"

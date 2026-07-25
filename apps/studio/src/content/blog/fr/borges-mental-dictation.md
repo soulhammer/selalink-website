@@ -1,11 +1,11 @@
 ---
 title: "Le labyrinthe dessiné par l'esprit : La routine de visualisation de la mémoire de travail visuo-spatiale de Borges"
 description: "Découvrez comment le maître de la littérature argentine Jorge Luis Borges concevait mentalement des structures de texte en 3D et des labyrinthes après avoir perdu la vue, en dictant ses œuvres à voix haute. Explorez les mécanismes neuroscientifiques maximisant la mémoire de travail visuo-spatiale et déclenchant la plasticité cross-modale."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-21"
+updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: ["Le labyrin","Routine"]
-heroImage: "/images/blog/borges_mental_dictation.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/borges_mental_dictation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de la biographie d'Edwin Williamson *Borges : Une vie (Borges: A Life)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

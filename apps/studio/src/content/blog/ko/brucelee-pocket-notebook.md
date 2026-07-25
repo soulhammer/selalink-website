@@ -1,11 +1,11 @@
 ---
 title: "찰나의 영감을 포획하는 사냥법: 브루스 리의 포켓 수첩 밀착 기록 루틴"
 description: "20세기 무술가이자 액션 스타 브루스 리(이소룡). 손길이 닿는 주머니마다 포켓 수첩을 소지하며 철학적 영감과 무예 구상을 실시간으로 포획했던 기록 철학과 망상활성계(RAS) 자극의 인지 메커니즘을 규명합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-06"
+updatedDate: "2026-04-06"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/brucelee_pocket_notebook.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/brucelee_pocket_notebook.webp"
 app: "buildself"
 formatVersion: 4
 authority: "존 리틀 평전 『이소룡 평전(Bruce Lee: Artist of Life)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

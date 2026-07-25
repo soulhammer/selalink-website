@@ -1,11 +1,11 @@
 ---
 title: "チンパンジーの傍らの岩に座り生涯観察し記録したジェーン・グードールの没頭習慣と選択的注意集中ルーティン"
 description: "アフリカ・ゴンベのジャングルでチンパンジーの群れと共に生活した動物行動学者ジェーン・グードール。判断を徹底的に排除し対象を精密凝視して科学的洞察を引き出した3段階観察没頭ルーティンと感覚連合皮質活性化の原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-09"
+updatedDate: "2026-05-09"
 category: "BuildSelf"
-tags: ["チンパンジーの傍らの","Routine"]
-heroImage: "/images/blog/jane_goodall.png"
+tags: ["위인 습관", "제인 구달", "사색", "성찰"]
+heroImage: "/images/blog/jane_goodall.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ジェーン・グードール自伝『希望の理由（Reason for Hope）』およびゴンベ研究センター（Gombe Stream Research Centre）史料考証＆認知神経科学（Cognitive Neuroscience）および動物行動学（Ethology）研究"

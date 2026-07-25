@@ -1,11 +1,11 @@
 ---
 title: "O Antídoto para a Especulação Solitária: A Rotina Noturna de Socialização e Gamão de David Hume para Restauração Emocional"
 description: "Descubra como o filósofo escocês David Hume combatia a melancolia intelectual jantando com amigos e jogando gamão todas as noites. Explore a neurociência da oxitocina, serotonina e prevenção da sobrecarga cognitiva pré-frontal."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-18"
+updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: ["O Antídoto","Routine"]
-heroImage: "/images/blog/hume_social_refresh.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/hume_social_refresh.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica do *Tratado da Natureza Humana* (1739) e Autobiografia *Minha Vida* de David Hume e Pesquisa em Neurociência Cognitiva"

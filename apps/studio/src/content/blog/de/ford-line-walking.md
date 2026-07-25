@@ -1,11 +1,11 @@
 ---
 title: "Der Automobilkönig, der Innovationen beim Abgehen der Fertigungsstraße skizzierte: Henry Fords Ablauf-Skizzierung und kognitive Entlastung"
 description: "Erfahren Sie, wie Henry Ford, Pionier des fließenden Fließbands, die Stirnhirnbelastung senkte, indem er Fabrikhallen abging, Bewegungen beobachtete und Prozessdiagramme skizzierte. Entdecken Sie die Neurowissenschaften der visuellen Verfolgung."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-23"
+updatedDate: "2026-06-23"
 category: "BuildSelf"
-tags: ["Der Automo","Routine"]
-heroImage: "/images/blog/ford_line_walking.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/ford_line_walking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Henry Fords Autobiografie *Mein Leben und Werk (My Life and Work)*, historischen Biografien & Forschung der kognitiven Neurowissenschaften"

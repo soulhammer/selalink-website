@@ -1,11 +1,11 @@
 ---
 title: "Imersi di Tengah Kebisingan: Rutinitas White Noise Kafe dan Penyederhanaan Lingkungan ala Simone de Beauvoir"
 description: "Pelajari rutinitas menulis yang dipraktikkan filsuf eksistensialis dan novelis Simone de Beauvoir setiap hari di kafe favoritnya di Paris sambil menikmati secangkir teh, serta temukan mekanisme neurologis white noise lembut beserta metode untuk membangun Focus Zone pribadi Anda."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-08"
+updatedDate: "2026-06-08"
 category: "BuildSelf"
-tags: ["Imersi di ","Routine"]
-heroImage: "/images/blog/beauvoir_cafe_writing.png"
+tags: ["매일 같은 카페에서","Routine"]
+heroImage: "/images/blog/beauvoir_cafe_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Autobiografi Simone de Beauvoir *La Force des choses* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

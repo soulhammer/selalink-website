@@ -1,11 +1,11 @@
 ---
 title: "Menulis Sambil Berdiri Mengenakan Topi Segera Setelah Jalan-Jalan: Kebiasaan Penangkapan Instan dan Pemanasan Kognitif Søren Kierkegaard"
 description: "Pelajari bagaimana filsuf eksistensialis Søren Kierkegaard melestarikan wawasan yang sekilas dengan menulis sambil berdiri di meja tinggi segera setelah jalan-jalan tanpa melepas topi atau mantelnya. Temukan neurosains pemanasan kognitif."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-08"
+updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: ["Menulis Sa","Routine"]
-heroImage: "/images/blog/kierkegaard_standing_write.png"
+tags: ["위인 습관", "쇠렌 키르케고르", "기록", "스탠딩데스크", "영감"]
+heroImage: "/images/blog/kierkegaard_standing_write.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari *Journals of Søren Kierkegaard*, Biografi karya Joakim Garff & Penelitian Neurosains Kognitif"

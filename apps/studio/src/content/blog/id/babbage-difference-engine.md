@@ -4,7 +4,7 @@ description: "Pelajari fakta sejarah bapak komputer abad ke-19 Charles Babbage, 
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["Metode Dek","Routine"]
+tags: ["위습관","루틴"]
 heroImage: "/images/blog/babbage_difference_engine.png"
 app: "buildself"
 formatVersion: 4

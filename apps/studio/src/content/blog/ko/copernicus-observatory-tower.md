@@ -1,11 +1,11 @@
 ---
 title: "흔들리지 않는 관측 탑: 코페르니쿠스의 장소 고정 집중법과 공간 조건화"
 description: "지동설로 우주의 패러다임을 바꾼 코페르니쿠스가 고정된 관측 탑을 고수했던 루틴. 특정 공간을 한 업무에만 전담시킬 때 뇌의 예열 시간이 단축되고 맥락 메커니즘이 가동하는 인지신경과학적 원리를 밝힙니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/copernicus_observatory_tower.png"
+tags: ["위인 습관", "니콜라우스 코페르니쿠스", "집중", "계획", "생산성"]
+heroImage: "/images/blog/copernicus_observatory_tower.webp"
 app: "buildself"
 formatVersion: 4
 authority: "니콜라우스 코페르니쿠스 『천구의 회전에 관하여(De revolutionibus orbium coelestium)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

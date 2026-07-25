@@ -15,16 +15,21 @@ faqs:
   - question: "Was passiert, wenn ich die Hüfte einer Ragdoll beim Tragen nicht stütze?"
     answer: "Da sie eine große Rasse sind, belastet das Halten an den Achseln die Wirbelsäule mit ihrem gesamten Gewicht (oft über 7kg) und erhöht das Risiko von Bandscheibenschäden."
 ---
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+
+Ragdolls sind große, flauschige Katzen, die dafür bekannt sind, sich beim Halten wie eine Stoffpuppe völlig zu entspannen. Mit ihren faszinierenden blauen Augen, dem seidigen Fell und ihrem unglaublich sanften Wesen werden sie oft als „Engelkatzen“ bezeichnet. 🐈
+
+Da es sich jedoch um eine große Rasse handelt, die ein Gewicht von 7 bis 10 kg erreicht, tragen ihre Gelenke eine schwere Last. Darüber hinaus kann ihre schlaffe Haltung beim Tragen die Wirbelsäule belasten, wenn sie nicht richtig gestützt wird. Das Erlernen der richtigen Haltetechnik ist lebenswichtig.
+
+Heute entschlüsselt PetSelf die Körpersprache der Ragdoll und stellt eine sichere 3-Schritte-Routine vor, um ihre Gelenke zu schützen.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Veterinärmedizinische & verhaltensbedingte Nachweise
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Dieser Inhalt basiert auf <strong>Rasseführer der Cat Fanciers' Association (CFA) und AAFP-Richtlinien für katzenfreundliche Praxen</strong>.
     </p>
   </div>
 </div>
@@ -42,7 +47,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
 
 ## 1. Beschwichtigungssignale der Ragdoll: Langsames Blinzeln und entspanntes Zehenspreizen
 
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+Ragdolls zeigen ihr Vertrauen nicht nur durch Schlaffheit, sondern auch durch Augen- und Pfotengesten. Zu den wichtigsten Signalen gehören langsames Blinzeln und entspanntes Zehenspreizen. Langsames Blinzeln drückt Zuneigung aus. Wenn sie sich sehr wohl fühlen, spreizen sie ihre Zehen wie einen Fächer. Das Streicheln unter dem Kinn in diesem Moment maximiert ihr Wohlbefinden.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -76,7 +81,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Morgen: Dehnübungen zur Aktivierung des Bewegungsapparats</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+    Da es sich um eine große Rasse handelt, ermüden die Gelenke leicht. Dehnen Sie morgens sanft die Hinterbeine, um die Beweglichkeit zu schützen.
   </p>
 </div>
 
@@ -86,7 +91,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Nachmittag: Bürsten mit einer Pinbürste zur Vermeidung von Verfilzungen</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+    Das Unterfell ist weich und verfilzt leicht. Bürsten Sie mit einer abgerundeten Pinbürste, um Luft an das Fell zu lassen und Hautprobleme zu vermeiden.
   </p>
 </div>
 
@@ -96,7 +101,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Abend: Wirbelsäulenschonende Haltetechnik mit Hüftstütze</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+    Das Anheben nur am Oberkörper belastet die Wirbelsäule. Stützen Sie immer mit einer Hand die Brust und mit der anderen die Hüfte ab.
   </p>
 </div>
 
@@ -105,7 +110,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Das einfache Beobachten der Beschwichtigungssignale Ihres Haustiers kann schwerwiegende Verhaltensprobleme und stressbedingte Krankheiten verhindern. Während eine tierärztliche Behandlung wichtig ist, ist eine sichere Umgebung (Treppen, vertikale Räume, mehrere Wasserstellen) der stärkste Schutz für ihr lebenslanges Glück.
     </p>
   </div>
 </div>
@@ -123,7 +128,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Nein. Dies ist eine genetische Eigenschaft, bei der sie ihre Muskeln entspannen, wenn sie sich sicher fühlen und dem Halter vertrauen. Es ist kein körperlicher Defekt.
     </p>
   </details>
 
@@ -133,7 +138,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Da sie eine große Rasse sind, belastet das Halten an den Achseln die Wirbelsäule mit ihrem gesamten Gewicht (oft über 7kg) und erhöht das Risiko von Bandscheibenschäden.
     </p>
   </details>
 </div>

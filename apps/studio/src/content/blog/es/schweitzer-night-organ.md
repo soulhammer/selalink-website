@@ -1,11 +1,11 @@
 ---
 title: "노벨 평화상 수상자의 야간 리셋? 알베르트 슈바이처의 밤 오르간 루틴"
 description: "아프리카 밀림 병원에서 매일 밤 바흐의 오르간을 연주하며 극심한 피로를 극복한 알베르트 슈바이처 박사의 자율신경계 리셋 습관과 실천 가이드."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-29"
+updatedDate: "2026-01-29"
 category: "BuildSelf"
-tags: ["노벨 평화상 수상자","Routine"]
-heroImage: "/images/blog/schweitzer_night_organ.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/schweitzer_night_organ.webp"
 app: "buildself"
 formatVersion: 4
 authority: "알베르트 슈바이처 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

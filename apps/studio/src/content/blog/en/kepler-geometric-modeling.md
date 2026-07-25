@@ -1,11 +1,11 @@
 ---
 title: "Sculpting 3D Models Instead of Formulas: Johannes Kepler's 'Haptic Spatial Visualization' Routine and Parietal Lobe Activation"
 description: "Discover how 17th-century astronomer Johannes Kepler mastered planetary orbits by carving 3D geometric models by hand. Explore the neuroscience of haptic spatial visualization, parietal lobe stimulation, and cognitive overload reduction."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-24"
+updatedDate: "2026-06-24"
 category: "BuildSelf"
-tags: ["Great Habits","kepler","Routine","Stamina"]
-heroImage: "/images/blog/kepler_geometric_modeling.png"
+tags: ["위인 습관", "학습"]
+heroImage: "/images/blog/kepler_geometric_modeling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Johannes Kepler's *Mysterium Cosmographicum* (1596), Kepler Archives & Cognitive Neuroscience and Spatial Cognition Research"

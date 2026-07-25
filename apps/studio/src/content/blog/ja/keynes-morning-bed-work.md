@@ -1,11 +1,11 @@
 ---
 title: "布団の中で執筆された一般理論：ジョン・メイナード・ケインズの朝のベッド作業習慣とCAR覚醒"
 description: "大恐慌を克服した巨視経済学者であり、起床直後の2時間ベッドの上で全ての原稿を執筆したケインズ。起床時コルチゾール反応（CAR）と前頭前野認知資源の活用、睡眠慣性防止の原理および3段階実践法を紹介します。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-08"
+updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: ["布団の中で執筆された","Routine"]
-heroImage: "/images/blog/keynes_morning_bed_work.png"
+tags: ["집중", "생산성", "성공습관"]
+heroImage: "/images/blog/keynes_morning_bed_work.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ロバート・スキデルスキー『ケインズ評伝（John Maynard Keynes）』史料考証＆認知神経科学（Cognitive Neuroscience）および神経筋肉学（Neuromuscular Science）研究"

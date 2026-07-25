@@ -1,11 +1,11 @@
 ---
 title: "スプーン一本で宇宙を描いた天才：サルバドール・ダリの脳リセット昼寝と入眠幻覚（Hypnagogia）補獲ルーティン"
 description: "シュルレアリスム美術の巨匠サルバドール・ダリ。椅子に座ってスプーンを握り浅い眠りから目覚めながら奇想天外な芸術的アイデアを捕捉したルーティン。入眠幻覚（Hypnagogia）状態のシータ波（Theta Waves）稼働と無意識的連想捕捉の認知神経科学的原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-07"
+updatedDate: "2026-03-07"
 category: "BuildSelf"
-tags: ["スプーン一本で宇宙を","Routine"]
-heroImage: "/images/blog/dali_spoon_nap.png"
+tags: ["위인 습관", "살바도르 달리", "창의성", "낮잠", "뇌파"]
+heroImage: "/images/blog/dali_spoon_nap.webp"
 app: "buildself"
 formatVersion: 4
 authority: "サルバドール・ダリ自伝『The Secret Life of Salvador Dalí』考証＆認知神経科学（Cognitive Neuroscience）研究"

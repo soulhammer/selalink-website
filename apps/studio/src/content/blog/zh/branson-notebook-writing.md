@@ -1,11 +1,11 @@
 ---
 title: "牛仔裤后口袋里的亿万富翁秘诀：理查德·布兰森的纸质手账与RAS刺激法"
 description: "探索维珍集团创始人理查德·布兰森爵士如何习惯将灵感实时记录于牛仔裤后口袋的纸质手账中并据此打造出400多家企业，揭示手写刺激网状激活系统（RAS）并将灵感转化为即刻行动力的神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-04"
+updatedDate: "2026-03-04"
 category: "BuildSelf"
-tags: ["牛仔裤后口袋里的亿万","Routine"]
-heroImage: "/images/blog/branson_notebook_writing.png"
+tags: ["위인 습관", "리처드브랜슨", "손글씨메모", "아날로그메모", "실행력"]
+heroImage: "/images/blog/branson_notebook_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "理查德·布兰森自传《像个凡人一样思考（Like a Virgin: Secrets They Don't Teach You at Business School）》考证与认知神经科学（Cognitive Neuroscience）研究"

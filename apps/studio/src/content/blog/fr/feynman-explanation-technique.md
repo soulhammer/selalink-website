@@ -1,11 +1,11 @@
 ---
 title: "La méthode d'apprentissage ultra-rapide du prix Nobel : L'habitude d'enseigner et la maîtrise métacognitive de Richard Feynman"
 description: "Découvrez comment le prix Nobel Richard Feynman expliquait la mécanique quantique complexe pour qu'un enfant de 10 ans puisse la comprendre. Explorez la neuroscience de la métacognition et du rappel actif."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-11"
+updatedDate: "2026-02-11"
 category: "BuildSelf"
-tags: ["La méthode","Routine"]
-heroImage: "/images/blog/feynman_explanation_technique.png"
+tags: ["위인 습관", "리처드 파인만", "공부법", "메타인지", "자기계발"]
+heroImage: "/images/blog/feynman_explanation_technique.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de l'autobiographie de Richard Feynman *Vous voulez rire, Monsieur Feynman !*, des archives de cours de Caltech & de la Recherche en Neurosciences Cognitives"

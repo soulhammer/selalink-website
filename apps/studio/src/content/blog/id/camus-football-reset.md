@@ -1,11 +1,11 @@
 ---
 title: "Obat Primitif untuk Burnout dan Depresi Eksistensial: Rutinitas Reset Sepak Bola ala Albert Camus"
 description: "Pelajari bagaimana peraih Nobel Sastra dan filsuf Prancis Albert Camus menjatuhkan dirinya sebagai kiper saat mengalami kebuntuan kreatif, serta temukan mekanisme neurosains dari kondisi offline prefrontal dan pengalihan kognitif serebelar."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-21"
+updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: ["Obat Primi","Routine"]
-heroImage: "/images/blog/camus_football_reset.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/camus_football_reset.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Biografi Olivier Todd *Albert Camus: A Life* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

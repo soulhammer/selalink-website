@@ -1,11 +1,11 @@
 ---
 title: "The Unshakeable Anchor of Conviction: Joan of Arc's Morning Silence Routine and Amygdala Stabilization"
 description: "Discover how French heroine Joan of Arc preserved unyielding conviction amidst the Hundred Years' War through morning silent prayer. Explore the neuropsychology of noise suppression, amygdala stabilization, and cognitive alignment."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-12"
+updatedDate: "2026-02-12"
 category: "BuildSelf"
-tags: ["Great Habits","joan","Routine","Stamina"]
-heroImage: "/images/blog/joan_silent_reflection.png"
+tags: ["위인 습관", "잔다르크", "침묵명상", "신념정렬", "멘탈회복"]
+heroImage: "/images/blog/joan_silent_reflection.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Joan of Arc's Trial Records (*Procès de Condamnation et de Réhabilitation*), National Archives of France & Cognitive Neuroscience Research"

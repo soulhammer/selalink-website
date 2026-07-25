@@ -1,11 +1,11 @@
 ---
 title: "Sitting on Rocks Beside Chimpanzees to Observe and Record: Jane Goodall's Immersion Habit and Selective Attention Routine"
 description: "Discover how ethologist Jane Goodall derived ground-breaking scientific insights by silently observing chimpanzees in Tanzania's Gombe jungle. Explore the neuroscience of sensory association cortex activation, selective attention, and non-judgmental observation routines."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-09"
+updatedDate: "2026-05-09"
 category: "BuildSelf"
-tags: ["Great Habits","jane","Routine","Stamina"]
-heroImage: "/images/blog/jane_goodall.png"
+tags: ["위인 습관", "제인 구달", "사색", "성찰"]
+heroImage: "/images/blog/jane_goodall.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Jane Goodall's Autobiography *Reason for Hope*, Gombe Stream Research Centre Archives & Cognitive Neuroscience and Ethology Research"

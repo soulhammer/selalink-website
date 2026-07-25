@@ -1,11 +1,11 @@
 ---
 title: "打造第二大脑（Second Brain）以臻至美：斯坦利·库布里克的卡片盒归档习惯与工作记忆认知外置指南"
 description: "探索以极致考据与精密调度著称的传奇导演斯坦利·库布里克，如何借助卡片盒归档降解大脑前额叶记忆负荷、将数万碎片信息融汇缔造出影史名篇。揭示认知外置（Cognitive Offloading）、信息组块与3步骤实践指南。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-18"
+updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: ["打造第二大脑（Sec","Routine"]
-heroImage: "/images/blog/kubrick_index_box_archive.png"
+tags: ["글쓰기", "창의성", "기록"]
+heroImage: "/images/blog/kubrick_index_box_archive.webp"
 app: "buildself"
 formatVersion: 4
 authority: "斯坦利·库布里克档案史料《斯坦利·库布里克档案（The Stanley Kubrick Archives）》考证及认知神经科学（Cognitive Neuroscience）与认知心理学（Cognitive Psychology）研究"

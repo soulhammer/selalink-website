@@ -1,11 +1,11 @@
 ---
 title: "黄金一小时的绝对专注：恩里科·费米的晨间2小时孤独计算习惯与认知巅峰沉浸法"
 description: "探索设计出人类首座人工核反应堆并荣获诺贝尔奖的天才物理学家恩里科·费米，如何在每天上班前的清晨挤出2小时独自沉浸于复杂计算。揭示皮质醇觉醒反应与工作记忆优化的神经科学机制。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-14"
+updatedDate: "2026-05-14"
 category: "BuildSelf"
-tags: ["黄金一小时的绝对专注","Routine"]
-heroImage: "/images/blog/fermi_dawn_calculation_routine.png"
+tags: ["집중", "생산성", "학습"]
+heroImage: "/images/blog/fermi_dawn_calculation_routine.webp"
 app: "buildself"
 formatVersion: 4
 authority: "劳拉·费米《原子与我家（Atoms in the Family: My Life with Enrico Fermi）》与自传史料考证及认知神经科学（Cognitive Neuroscience）研究"

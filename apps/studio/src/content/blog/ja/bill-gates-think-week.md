@@ -1,11 +1,11 @@
 ---
 title: "遮断の1週間：ビル・ゲイツの「シンク・ウィーク（Think Week）」と無騒音ディープ・ワーク"
 description: "マイクロソフトの大躍進を導いたビル・ゲイツの小屋孤立読書ルーティン「シンク・ウィーク」。外部刺激を完全に統制して注意力の残渣を掃除し、脳の長期的な洞察力を極大化する神経科学的原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-08"
+updatedDate: "2026-01-08"
 category: "BuildSelf"
-tags: ["遮断の1週間：ビル・","Routine"]
-heroImage: "/images/blog/bill_gates_think_week.png"
+tags: ["위인 습관", "빌 게이츠", "집중력", "사색", "독서"]
+heroImage: "/images/blog/bill_gates_think_week.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ウォルター・アイザックソン伝記『ビル・ゲイツ伝』＆マイクロソフト史料考証＆認知神経科学（Cognitive Neuroscience）研究"

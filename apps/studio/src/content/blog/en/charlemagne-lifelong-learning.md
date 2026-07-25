@@ -1,11 +1,11 @@
 ---
 title: "The Writing Tablet at the Bedside: Charlemagne's Sleep Memory Consolidation Routine"
 description: "Discover how Charlemagne, founder of Western Europe, kept wax tablets by his bedside to master writing, and explore the cognitive neuroscience of maximizing long-term memory consolidation and hippocampal strengthening during slow-wave sleep."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-20"
+updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: ["Great Habits","charlemagne","Routine","Stamina"]
-heroImage: "/images/blog/charlemagne_lifelong_learning.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/charlemagne_lifelong_learning.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Einhard's Biography *Vita Karoli Magni (Life of Charlemagne)* & Cognitive Neuroscience Research"

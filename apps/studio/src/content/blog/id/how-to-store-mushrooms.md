@@ -22,16 +22,17 @@ faqs:
   - question: "My mushrooms are slimy and smell slightly sour. Are they safe?"
     answer: "No, slime, sour odors, or sour taste indicate bacterial spoilage. Consuming them causes food poisoning; discard the entire batch immediately."
 ---
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+
+Apakah Anda mencuci jamur dengan air sebelum dimasak? Kebiasaan ini dapat merusak rasa dan tekstur jamur serta mempercepat pembusukan. Hari ini, FreshSnap membagikan tips penyimpanan jamur.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Otoritas Ilmiah Terverifikasi
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Panduan penyimpanan ini didasarkan pada pedoman keselamatan resmi dari: <strong>RDA & USDA</strong>.
     </p>
   </div>
 </div>
@@ -40,7 +41,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
 
 ## 1. Mengapa disimpan seperti ini? Fakta ilmiah
 
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpanan yang benar sangat penting untuk menjaga kesegaran dan kebersihan.
 
 ---
 
@@ -52,7 +53,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Jangan mencuci jamur sebelum disimpan — Mencegah penyerapan air ❌💧</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+    Jamur memiliki struktur berpori dan menyerap air seperti spons. Mencucinya sebelum disimpan akan merusak tekstur kenyal dan aroma khasnya. Cukup bersihkan kotoran sesaat sebelum dimasak.
   </p>
 </div>
 
@@ -62,7 +63,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Bungkus dengan kantong kertas atau tisu dapur — Mengatur kelembapan 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+    Menyimpan jamur dalam kantong plastik akan menjebak uap air dari respirasinya, memicu pembusukan cepat. Bungkus jamur dengan tisu dapur atau kantong kertas cokelat yang menyerap kelembapan.
   </p>
 </div>
 
@@ -72,7 +73,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Simpan di rak tengah kulkas tanpa tertindih — Penyimpanan Dingin (3Hari)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+    Jamur memiliki struktur yang rapuh. Jika tertindih bahan makanan yang berat, jaringan jamur akan rusak sehingga menghitam dan membusuk. Taruh jamur dengan hati-hati di rak bagian atas.
   </p>
 </div>
 
@@ -85,7 +86,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
   <div>
     <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Jangan pernah mencuci jamur dengan air sebelum disimpan</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Jamur menyerap air seperti spons. Mencucinya membuatnya berlendir dan membusuk dalam sehari. Lap kotoran dengan kain kering.
     </p>
   </div>
 </div>
@@ -95,7 +96,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
   <div>
     <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Alasi dengan tisu dapur saat disimpan di wadah kedap</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Jamur terus melepaskan kelembapan. Membungkusnya dengan tisu dapur menyerap kondensasi berlebih dan mencegah pembusukan.
     </p>
   </div>
 </div>
@@ -110,7 +111,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      Mushrooms absorb water like a sponge. Washing them leads to rapid browning, loss of texture and aroma, and triggers mold within 24 hours.
     </p>
   </details>
 
@@ -120,7 +121,7 @@ Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang me
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
+      No, slime, sour odors, or sour taste indicate bacterial spoilage. Consuming them causes food poisoning; discard the entire batch immediately.
     </p>
   </details>
 </div>

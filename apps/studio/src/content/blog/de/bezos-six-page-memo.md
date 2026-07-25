@@ -1,11 +1,11 @@
 ---
 title: "30 Minuten Stille und das 6-Seiten-Memo: Jeff Bezos' Amazon-Meeting-Methode und Neurowissenschaft des Lesens"
 description: "Entdecken Sie Jeff Bezos' Entscheidungsgeheimnis, PPT-Präsentationen bei Amazon zu verbieten und zu Beginn von Meetings 30 Minuten stilles Lesen von 6-seitigen narrativen Memos zu verlangen, und erkunden Sie die neurowissenschaftlichen Prinzipien, wie narratives Lesen den Präfrontalkortex stimuliert, um das Urteilsvermögen zu maximieren."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-19"
+updatedDate: "2026-01-19"
 category: "BuildSelf"
-tags: ["30 Minuten","Routine"]
-heroImage: "/images/blog/bezos_six_page_memo.png"
+tags: ["위인 습관", "제프 베조스", "의사결정", "계획", "생산성"]
+heroImage: "/images/blog/bezos_six_page_memo.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Jeff Bezos' Aktionärsbriefen & Colin Bryars *Working Backwards* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

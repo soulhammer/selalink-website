@@ -1,11 +1,11 @@
 ---
 title: "매일 오후 3시간씩 빠른 걸음으로 산책한 소설가: 찰스 디킨스의 아이디어 루틴과 DMN 활성화"
 description: "영국의 대문호 찰스 디킨스가 소설 속 입체적인 인물들과 복잡한 스토리를 설계했던 비결. 매일 오후 3시간 동안 이어진 그의 빠른 산책 루틴과 디폴트 모드 네트워크(DMN) 활성화, BDNF 분비의 인지신경과학적 원리를 밝힙니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-23"
+updatedDate: "2026-05-23"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/dickens_afternoon_walk.png"
+tags: ["위인 습관", "찰스 디킨스", "산책", "창의성", "아이디어"]
+heroImage: "/images/blog/dickens_afternoon_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "존 포스터 평전 『찰스 디킨스 평전(The Life of Charles Dickens)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

@@ -1,11 +1,11 @@
 ---
 title: "Langkah Kaki untuk Membangunkan Kesehatan Otak: Rutinitas Jalan Cepat dan Jurnal Refleksi John Quincy Adams"
 description: "Presiden ke-6 AS John Quincy Adams rutin berjalan cepat 5 mil setiap hari dan menulis refleksi di malam hari. Pelajari kebiasaan otak sehat yang merangsang sekresi BDNF."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-06"
+updatedDate: "2026-04-06"
 category: "BuildSelf"
-tags: ["Langkah Ka","Routine"]
-heroImage: "/images/blog/adams_morning_walk.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/adams_morning_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Biografi Historis dan Catatan Autobiografi John Quincy Adams & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

@@ -1,11 +1,11 @@
 ---
 title: "Raja Mobil yang Menggambar Inovasi Saat Menyusuri Lini Produksi: Sketsa Alur Diagram dan Rutinitas Eksternalisasi Kognitif Henry Ford"
 description: "Pelajari bagaimana Henry Ford, pelopor lini perakitan bergerak, mengurangi beban prefrontal dengan menyusuri pabrik dan menggambar sketsa alur kerja di buku catatan saku. Temukan neurosains tentang pelacakan visual dan eksternalisasi kognitif."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-23"
+updatedDate: "2026-06-23"
 category: "BuildSelf"
-tags: ["Raja Mobil","Routine"]
-heroImage: "/images/blog/ford_line_walking.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/ford_line_walking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Biografi Henry Ford *My Life and Work*, Biografi Historis & Penelitian Neurosains Kognitif"

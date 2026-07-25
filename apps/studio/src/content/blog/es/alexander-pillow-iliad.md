@@ -1,11 +1,11 @@
 ---
 title: "La 'Ilíada Bajo la Almohada' de Alejandro Magno: Lectura Nocturna de Visión que Sostuvo Grandes Desafíos"
 description: "Alejandro Magno nunca perdió el valor en el campo de batalla, guardando una daga y la Ilíada bajo su almohada cada noche. Explore el poder de la lectura de visión que estimula el subconsciente."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-23"
+updatedDate: "2026-01-23"
 category: "BuildSelf"
-tags: ["La 'Ilíada","Routine"]
-heroImage: "/images/blog/alexander_pillow_iliad.png"
+tags: ["위인 습관", "알렉산드로스", "동기부여", "독서 습관", "잠재의식"]
+heroImage: "/images/blog/alexander_pillow_iliad.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de *Vidas Paralelas (Life of Alexander)* de Plutarco e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"

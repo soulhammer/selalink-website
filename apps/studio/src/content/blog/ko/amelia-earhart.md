@@ -1,11 +1,11 @@
 ---
 title: "태풍 속 조종석에서도 계기판 수치에 몰입한 에어하트의 인지 통제 훈련"
 description: "대서양 단독 횡단에 성공한 최초의 여성 비행사로, 매일 아침의 기상 데이터와 바람의 변동을 정밀 스크랩하여 비행 불안을 잠재웠습니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-31"
+updatedDate: "2026-01-31"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/amelia_earhart.png"
+tags: ["위인 습관", "어밀리아 이어하트", "분석", "시간 관리"]
+heroImage: "/images/blog/amelia_earhart.webp"
 app: "buildself"
 formatVersion: 4
 authority: "아멜리아 에어하트 자서전 『The Fun of It』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

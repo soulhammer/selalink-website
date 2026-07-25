@@ -1,11 +1,11 @@
 ---
 title: "ジョージ・ワシントンの「営農日誌」：初代大統領の行政力を生んだ早朝巡回と記録およびメタ認知ルーティン"
 description: "早朝4時に起床し自らマウントバーノン農場を回り、気候と農作物の数値を精密記録したジョージ・ワシントン。国家行政の骨組みとなったメタ認知習慣と外側前頭前野皮質活性化の脳科学的原理を探求します。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-04"
+updatedDate: "2026-07-04"
 category: "BuildSelf"
-tags: ["ジョージ・ワシントン","Routine"]
-heroImage: "/images/blog/george_washington_morning_rounds.png"
+tags: ["위인 습관", "조지 워싱턴", "행정력", "영농 일지", "메타 인지"]
+heroImage: "/images/blog/george_washington_morning_rounds.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ジョージ・ワシントン評伝およびマウントバーノン（Mount Vernon）史料考証＆認知神経科学（Cognitive Neuroscience）研究"

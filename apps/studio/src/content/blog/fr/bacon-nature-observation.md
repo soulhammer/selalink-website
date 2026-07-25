@@ -1,11 +1,11 @@
 ---
 title: "La promenade matinale dans le jardin de Francis Bacon : Comment réinitialiser la fatigue cérébrale par l'observation de la nature"
 description: "Découvrez comment Francis Bacon, maître de l'empirisme, se promenait dans son jardin chaque matin pour observer les plantes et le temps, soulageant la fatigue cérébrale et établissant sa philosophie inductive."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-04"
+updatedDate: "2026-01-04"
 category: "BuildSelf"
-tags: ["La promena","Routine"]
-heroImage: "/images/blog/bacon_nature_observation.png"
+tags: ["산책", "자연관찰", "경험론", "근세"]
+heroImage: "/images/blog/bacon_nature_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de l'essai *Des Jardins (Of Gardens)* de Francis Bacon & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

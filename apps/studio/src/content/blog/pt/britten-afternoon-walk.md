@@ -1,11 +1,11 @@
 ---
 title: "O Compositor que Resolveu Dilemas em Caminhadas Costeiras à Tarde: A Rotina de Liberação Cerebral de Benjamin Britten"
 description: "Descubra como Benjamin Britten, gigante da música britânica do século XX, percorria a costa todas as tardes para aperfeiçoar as estruturas musicais compostas pela manhã, e explore os princípios neurocientíficos da Teoria da Restauração da Atenção (ART) e da integração cognitiva via DMN."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-22"
+updatedDate: "2026-04-22"
 category: "BuildSelf"
-tags: ["O Composit","Routine"]
-heroImage: "/images/blog/britten_afternoon_walk.png"
+tags: ["오후 해안가 산책으","Routine"]
+heroImage: "/images/blog/britten_afternoon_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica da Biografia de Humphrey Carpenter *Benjamin Britten: A Biography* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)"

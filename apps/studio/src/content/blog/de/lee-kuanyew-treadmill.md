@@ -1,11 +1,11 @@
 ---
 title: "Den Stress des Staatsaufbaus ausschwitzen: Lee Kuan Yews Meditation nach dem Training und autonome Homöostase"
 description: "Erfahren Sie, wie Lee Kuan Yew, Gründungsverfassungsvater Singapurs, den Stress der Staatsführung bewältigte, indem er 30 Minuten Laufbandtraining mit 20 Minuten Atemmeditation kombinierte. Entdecken Sie den Wechsel des autonomen Nervensystems und einen 3-Schritte-Plan."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-05"
+updatedDate: "2026-04-05"
 category: "BuildSelf"
-tags: ["Den Stress","Routine"]
-heroImage: "/images/blog/lee_kuanyew_treadmill.png"
+tags: ["위인 습관", "리콴유", "유산소운동", "호흡명상", "자율신경계"]
+heroImage: "/images/blog/lee_kuanyew_treadmill.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Lee Kuan Yews Autobiografie *The Singapore Story*, Nationalarchiven Singapurs & Forschung der kognitiven Neurowissenschaften und Leistungsphysiologie"

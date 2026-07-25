@@ -1,11 +1,11 @@
 ---
 title: "極度の沈黙の中で傑作を生み出す：フランツ・カフカの真夜中の執筆ルーティンと前頭葉下降調節"
 description: "20世紀文学の巨匠フランツ・カフカ。昼の騒音と疲労を避け、夜11時から明け方まで創作に没頭した彼の執筆習慣と前頭葉下降調節（Frontal Down-regulation）、作業記憶没頭の脳科学的原理を紹介します。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-01"
+updatedDate: "2026-04-01"
 category: "BuildSelf"
-tags: ["極度の沈黙の中で傑作","Routine"]
-heroImage: "/images/blog/kafka_late_night_writing.png"
+tags: ["위인 습관", "프란츠 카프카", "밤샘 루틴", "집중력", "창의성"]
+heroImage: "/images/blog/kafka_late_night_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "マックス・ブロート『フランツ・カフカ評伝（Franz Kafka: Eine Biographie）』および日記史料考証＆認知神経科学（Cognitive Neuroscience）研究"

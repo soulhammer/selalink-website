@@ -1,11 +1,11 @@
 ---
 title: "1센트의 낭비도 허용하지 않은 석유왕? 존 D. 록펠러의 실시간 미세 기록법"
 description: "세계 역사상 최고의 부자로 꼽히는 존 D. 록펠러. 지갑 속에 빨간 미니 수첩을 지니며 소소한 소비와 계획을 즉시 기록했던 그의 전두엽 실행 제어망 각성 원리와 아날로그 수첩 활용법을 배워봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-24"
+updatedDate: "2026-06-24"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/rockefeller_red_notebook.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/rockefeller_red_notebook.webp"
 app: "buildself"
 formatVersion: 4
 authority: "존 D. 록펠러 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

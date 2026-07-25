@@ -1,11 +1,11 @@
 ---
 title: "Master Revolusi Percetakan: Rutinitas Inspeksi Presisi Tipe Logam Pagi Hari dan Mekanisme Deteksi Kesalahan ERN Gutenberg"
 description: "Pelajari bagaimana Gutenberg, penemu tipe logam bergerak, menjaga standar sistem dan kualitas cetak dengan menginspeksi kerataan tipe menggunakan tangan dan matanya setiap pagi. Temukan neurosains tentang Anterior Cingulate Cortex (ACC) dan Error-Related Negativity (ERN)."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-04"
+updatedDate: "2026-06-04"
 category: "BuildSelf"
-tags: ["Master Rev","Routine"]
-heroImage: "/images/blog/gutenberg_movable_type_inspection.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/gutenberg_movable_type_inspection.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Biografi Johannes Gutenberg, Arsip Museum Gutenberg Mainz & Penelitian Neurosains Kognitif"

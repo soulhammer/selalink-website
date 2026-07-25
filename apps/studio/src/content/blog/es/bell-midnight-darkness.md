@@ -1,11 +1,11 @@
 ---
 title: "Invención en la Oscuridad Total: El Aislamiento Sensorial a Medianoche y Trabajo Profundo de Alexander Graham Bell"
 description: "Explore cómo Alexander Graham Bell, inventor del teléfono que revolucionó la comunicación humana, eliminó la sobrecarga sensorial y despertó la función ejecutiva cerebral mediante su trabajo profundo en 'oscuridad total a medianoche', y descubra el mecanismo neurocientífico de la deprivación sensorial."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-12"
+updatedDate: "2026-05-12"
 category: "BuildSelf"
-tags: ["Invención ","Routine"]
-heroImage: "/images/blog/bell_midnight_darkness.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/bell_midnight_darkness.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de la Biografía de Robert V. Bruce *Bell: Alexander Graham Bell and the Conquest of Solitude* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"

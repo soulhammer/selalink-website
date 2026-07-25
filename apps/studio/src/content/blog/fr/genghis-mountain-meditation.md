@@ -1,11 +1,11 @@
 ---
 title: "La vue d'ensemble pour traverser les temps troublés : La routine de méditation visuelle au sommet et de vision périphérique de Gengis Khan"
 description: "Découvrez comment le conquérant Gengis Khan dissipait le bruit mental avant les grandes batailles en gravissant seul des montagnes sacrées. Explorez la psychologie cognitive de sa « Méditation visuelle » et la théorie de restauration de l'attention."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-21"
+updatedDate: "2026-04-21"
 category: "BuildSelf"
-tags: ["La vue d'e","Routine"]
-heroImage: "/images/blog/genghis_mountain_meditation.png"
+tags: ["위인 습관", "칭기즈칸", "시각화", "명상", "대자연휴식"]
+heroImage: "/images/blog/genghis_mountain_meditation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de l'ouvrage de Jack Weatherford *Gengis Khan et la naissance du monde moderne*, de *L'Histoire secrète des Mongols* & de la Recherche en Neurosciences Cognitives"

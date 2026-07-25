@@ -1,11 +1,11 @@
 ---
 title: "대항해 시대를 연 선장: 콜럼버스의 야간 항해일지 기록과 편도체 진정 루틴"
 description: "미지의 대서양을 넘은 탐험가 콜럼버스가 폭풍과 공포 속에서도 매일 밤 항해 일지를 기록하며 극도의 이성적 안정을 유지했던 루틴. 야간 정량 일지 작성이 편도체(Amygdala)를 진정시키고 전전두엽 조절망을 가동하는 인지신경과학적 원리를 밝깁니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-25"
+updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/columbus_nautical_log.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/columbus_nautical_log.webp"
 app: "buildself"
 formatVersion: 4
 authority: "바르톨로메 데 라스 카사스 평전 『콜럼버스 항해록(The Diario of Christopher Columbus)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

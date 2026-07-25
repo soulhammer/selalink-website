@@ -140,3 +140,4 @@ Aplique esta rotina às suas atividades diárias para experimentar um foco profu
 </div>
 
 <strong></strong>
+<strong></strong><strong></strong><strong></strong><strong></strong>

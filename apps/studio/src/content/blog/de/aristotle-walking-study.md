@@ -1,11 +1,11 @@
 ---
 title: "Gipfel der Vertiefung: Archimedes' Gewohnheit der Sand-Geometrieskizzen"
 description: "Archimedes zeichnete kontinuierlich Figuren in den Sand oder auf den Boden, um komplexe wissenschaftliche Inspirationen zu visualisieren. Untersuchen Sie, wie visuelles Skizzieren mit den Händen die kognitive Überlastung des Arbeitsgedächtnisses reduziert und einen Zustand des Hyperfokus induziert."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-25"
+updatedDate: "2026-03-25"
 category: "BuildSelf"
-tags: ["Gipfel der","Routine"]
-heroImage: "/images/blog/aristotle_walking_study.png"
+tags: ["산책", "토론", "기억력", "고대"]
+heroImage: "/images/blog/aristotle_walking_study.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Plutarchs *Life of Marcellus* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

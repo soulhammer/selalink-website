@@ -1,11 +1,11 @@
 ---
 title: "归零人类认知失误的终极法则：查尔斯·林德伯格的检查单执行习惯与工作记忆保护指南"
 description: "深度剖析跨跃大西洋单人直飞航行的英雄查尔斯·林德伯格如何借由书面检查单替代经验感觉、彻底阻断认知失误。揭示保护前额叶工作记忆、防范认知遗漏（Omission Error）、指差确认与3步骤实践指南。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-25"
+updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["归零人类认知失误的终","Routine"]
-heroImage: "/images/blog/lindbergh_meticulous_checklist.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/lindbergh_meticulous_checklist.webp"
 app: "buildself"
 formatVersion: 4
 authority: "查尔斯·林德伯格普利策奖自传《圣路易斯精神（The Spirit of St. Louis，1953）》与航空档案考证及认知神经科学（Cognitive Neuroscience）与人因工程学（Human Factors Engineering）研究"

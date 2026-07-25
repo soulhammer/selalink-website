@@ -1,11 +1,11 @@
 ---
 title: "O Método de Banho de Pés com Água Fria de Thomas Jefferson: Uma Rotina de Despertar Cerebral de 60 Anos e Regulação de Noradrenalina"
 description: "Descubra como Thomas Jefferson, autor principal da Declaração de Independência, despertou seu cérebro por 60 anos mergulhando os pés em água fria todas as manhãs. Explore a neurociência da estimulação do sistema nervioso autônomo, noradrenalina e clareza pré-frontal."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-17"
+updatedDate: "2026-04-17"
 category: "BuildSelf"
-tags: ["O Método d","Routine"]
-heroImage: "/images/blog/jefferson_cold_foot_bath.png"
+tags: ["위인 습관", "토머스 제퍼슨", "에너지", "아침 루틴", "각성"]
+heroImage: "/images/blog/jefferson_cold_foot_bath.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica de *Os Escritos de Thomas Jefferson*, Arquivos de Monticello e Pesquisa em Neurociência Cognitiva"

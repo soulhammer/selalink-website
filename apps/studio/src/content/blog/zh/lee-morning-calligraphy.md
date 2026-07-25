@@ -1,11 +1,11 @@
 ---
 title: "融入笔尖的经营哲学：李秉喆的晨间书法仪式与初级运动皮层激活指南"
 description: "深度剖析三星缔造者李秉喆会长如何借由每日清晨绝不破例的书法冥想修炼战略直觉。揭示精细运动控制、初级运动皮层（Primary Motor Cortex）激活、舒缓自律神经系统与3步骤实践指南。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-25"
+updatedDate: "2026-05-25"
 category: "BuildSelf"
-tags: ["融入笔尖的经营哲学：","Routine"]
-heroImage: "/images/blog/lee_morning_calligraphy.png"
+tags: ["위인 습관", "이병철", "집중", "마인드셋", "의지력"]
+heroImage: "/images/blog/lee_morning_calligraphy.webp"
 app: "buildself"
 formatVersion: 4
 authority: "湖岩自传《湖岩自传》与三星集团档案考证及认知神经科学（Cognitive Neuroscience）与运动控制学（Motor Control Science）研究"

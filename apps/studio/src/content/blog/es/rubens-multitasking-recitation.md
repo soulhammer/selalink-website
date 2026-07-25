@@ -1,11 +1,11 @@
 ---
 title: "화가의 아틀리에에서 울려 퍼진 고전? 루벤스의 다중 인지 생산성 비결"
 description: "바로크 양식의 거장 루벤스는 그림을 그리면서 역사와 문학을 낭독하게 해 귀로 공부했습니다. 뇌의 다중 채널 활용 및 딴생각을 막는 생산성 극대화 실천법을 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-08"
+updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: ["화가의 아틀리에에서","Routine"]
-heroImage: "/images/blog/rubens_multitasking_recitation.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/rubens_multitasking_recitation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "루벤스 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

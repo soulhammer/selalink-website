@@ -1,11 +1,11 @@
 ---
 title: "스스로를 디자인하다: 행동주의 거장 스키너의 시각 피드백 기록 습관"
 description: "행동 심리학의 거장 B. F. 스키너의 데일리 행동 수량화 기록 습관을 소개합니다. 실시간 수치 피드백을 통해 뇌의 행동 기제를 강화하는 3단계 실천 가이드."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-14"
+updatedDate: "2026-05-14"
 category: "BuildSelf"
-tags: ["스스로를 디자인하다","Routine"]
-heroImage: "/images/blog/skinner_behavior_tracking.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/skinner_behavior_tracking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Skinner Behavior Tracking 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

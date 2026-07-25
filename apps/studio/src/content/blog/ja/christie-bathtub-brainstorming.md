@@ -1,11 +1,11 @@
 ---
 title: "浴槽でリンゴを食べながら殺人を計画した女性：アガサ・クリスティの温水ブレインストーミングとDMNリラックス法"
 description: "推理小説の女王アガサ・クリスティが温水浴槽でリンゴをかじりながら緻密なアリバイとトリックを構想したリラックスルーティン。デフォルト・モード・ネットワーク（DMN）活性化と咀嚼運動の認知神経科学的原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["浴槽でリンゴを食べな","Routine"]
-heroImage: "/images/blog/christie_bathtub_brainstorming.png"
+tags: ["위인 습관", "아가사 크리스티", "아이디어", "목욕", "창의성"]
+heroImage: "/images/blog/christie_bathtub_brainstorming.webp"
 app: "buildself"
 formatVersion: 4
 authority: "アガサ・クリスティ自伝『An Autobiography』考証＆認知神経科学（Cognitive Neuroscience）研究"

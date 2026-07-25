@@ -1,11 +1,11 @@
 ---
 title: "프란시스 베이컨의 아침 정원 산책: 자연 관찰로 뇌 피로를 리셋하는 법"
 description: "경험론의 대가 프란시스 베이컨이 매일 아침 정원을 산책하며 식물과 날씨를 관찰하고, 뇌의 피로를 풀어 귀납법적 철학을 정립한 방식을 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-04"
+updatedDate: "2026-01-04"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/bacon_nature_observation.png"
+tags: ["산책", "자연관찰", "경험론", "근세"]
+heroImage: "/images/blog/bacon_nature_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "프란시스 베이컨 수필집 『수상록(Of Gardens)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

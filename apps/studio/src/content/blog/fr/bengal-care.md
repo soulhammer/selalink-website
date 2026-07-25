@@ -16,23 +16,23 @@ faqs:
     answer: "Oui, à condition d'optimiser l'espace vertical (arbres à chat de grande taille, parcours muraux). L'achat d'une roue d'exercice pour chat est aussi recommandé."
 ---
 
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+Les chats Bengal fascinent par leur pelage tacheté semblable à celui d'un léopard. Héritiers du chat léopard d'Asie, ils possèdent une énergie débordante et une vive intelligence. Sans activités adaptées, ils peuvent rapidement développer des troubles comportementaux (miaulements excessifs, destruction de mobilier, stress). Aujourd'hui, PetSelf vous aide à décoder les signes d'ennui chez le Bengal et propose une routine en 3 étapes pour répondre à leurs besoins physiques et mentaux.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+      Preuves Vétérinaires et Comportementales
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+      Ce contenu est basé sur <strong>Standard de la race Bengal de The International Cat Association (TICA) et Comportementalisme Félin</strong>.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+    🐾 Bengal (Bengal Cat) Profil principal
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Espérance de vie</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 16 ans</span></div>
@@ -43,7 +43,7 @@ Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d
 
 ## 1. Moyens d'expression du Bengal : gazouillis et mouvements de queue
 
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+Le Bengal est un chat particulièrement bavard. Il utilise des vocalises uniques, notamment des gazouillis ('chirping') semblables à des bruits d'oiseau, pour réclamer de l'attention ou exprimer sa frustration. Surveiller ces sons associés à des frémissements de queue permet de désamorcer l'anxiété liée au manque d'activité.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -77,7 +77,7 @@ Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Matin : Séance de jeu de chasse intense</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+    Jouez pendant 15 minutes avec un plumeau ou un jouet mobile. Imitez les mouvements de fuite d'une proie pour stimuler son instinct.
   </p>
 </div>
 
@@ -87,7 +87,7 @@ Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Après-midi : Aménagement de l'espace vertical</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+    Vérifiez la stabilité des arbres à chat et des étagères murales. Libérez l'accès aux fenêtres en hauteur pour qu'il observe son territoire.
   </p>
 </div>
 
@@ -97,7 +97,7 @@ Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Soir : Jeu d'intelligence et puzzle d'alimentation</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+    Proposez-lui des friandises cachées dans des jouets d'occupation (puzzles). Stimuler sa réflexion avant la nuit réduit les courses nocturnes.
   </p>
 </div>
 
@@ -106,7 +106,7 @@ Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+      Le simple fait d'observer les signaux d'apaisement de votre animal peut prévenir des problèmes de comportement majeurs et des maladies liées au stress. Bien que le traitement vétérinaire soit important, fournir un environnement sûr (rampes, espaces verticaux, sources d'eau multiples) est le bouclier le plus solide pour soutenir son bonheur tout au long de sa vie.
     </p>
   </div>
 </div>
@@ -124,7 +124,7 @@ Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+      Oui, le Bengal adore l'eau. Il est fréquent de le voir jouer avec l'eau du robinet ou tenter de rejoindre son maître dans la baignoire. Veillez à sécuriser les accès.
     </p>
   </details>
 
@@ -134,7 +134,7 @@ Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
+      Oui, à condition d'optimiser l'espace vertical (arbres à chat de grande taille, parcours muraux). L'achat d'une roue d'exercice pour chat est aussi recommandé.
     </p>
   </details>
 </div>

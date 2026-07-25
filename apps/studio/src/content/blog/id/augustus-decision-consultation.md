@@ -1,11 +1,11 @@
 ---
 title: "Keputusan Sang Kaisar 'Bergegas dengan Perlahan': Kebiasaan Mendengarkan Masukan dari Berbagai Sudut Pandang ala Augustus"
 description: "Kaisar Romawi Augustus, yang menyederhanakan keputusan pasca-pembunuhan Caesar dengan mendengarkan pendapat berbeda dari penasihat seperti Maecenas dan Agrippa alih-alih bertindak dogmatis. Pelajari prinsip neurosains dari mendengarkan dan memfilter untuk mematahkan bias konfirmasi."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["Keputusan ","Routine"]
-heroImage: "/images/blog/augustus_decision_consultation.png"
+tags: ["의사결정", "단순화", "생산성"]
+heroImage: "/images/blog/augustus_decision_consultation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari *De vita Caesarum* karya Suetonius & *Sejarah Romawi* karya Cassius Dio & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

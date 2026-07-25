@@ -1,11 +1,11 @@
 ---
 title: "Pengaturan Mental 6 Pagi yang Tak Terkalahkan: Breakfast Club Michael Jordan dan Efek Pemenang"
 description: "Pelajari bagaimana legenda bola basket Michael Jordan melampaui batas fisik dan mental dengan rutinitas 'Breakfast Club' jam 6 pagi. Temukan neurosains Efek Pemenang, lonjakan dopamin dan testosteron, serta panduan 3 langkah."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-16"
+updatedDate: "2026-01-16"
 category: "BuildSelf"
-tags: ["Pengaturan","Routine"]
-heroImage: "/images/blog/jordan_breakfast_club.png"
+tags: ["위인 습관", "마이클조던", "아침루틴", "의지력", "멘탈셋업"]
+heroImage: "/images/blog/jordan_breakfast_club.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Autobiografi Michael Jordan *Driven from Within*, Biografi & Penelitian Neurosains Kognitif serta Fisiologi Olahraga"

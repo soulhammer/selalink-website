@@ -25,7 +25,7 @@ faqs:
       獣医学・行動学的根拠
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-この習慣を日常のルーティンに適用し、深い集中力と認知能力の向上を体感してください。
+      本コンテンツは、<strong>Bichon Frise Club of Americaガイドライン＆AVMA獣医学指針</strong>に基づいています。
     </p>
   </div>
 </div>

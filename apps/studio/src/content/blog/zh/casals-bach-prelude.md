@@ -1,11 +1,11 @@
 ---
 title: "灵魂的调音：保罗·卡萨尔斯的晨间巴赫前奏曲习惯与阿尔法波诱导法"
 description: "探索传奇大提琴家保罗·卡萨尔斯在长达80多年的岁月中，每天清晨演奏巴赫《平均律键盘曲集》开启新一天的习惯，揭示音乐同步（Musical Entrainment）激活阿尔法波与平衡自主神经系统的神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-24"
+updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: ["灵魂的调音：保罗·卡","Routine"]
-heroImage: "/images/blog/casals_bach_prelude.png"
+tags: ["위인 습관", "파블로 카살스", "안정", "명상", "창의성", "루틴"]
+heroImage: "/images/blog/casals_bach_prelude.webp"
 app: "buildself"
 formatVersion: 4
 authority: "保罗·卡萨尔斯自传《我生活的喜悦与悲伤（Joys and Sorrows: Reflections by Pablo Casals）》考证与认知神经科学（Cognitive Neuroscience）研究"

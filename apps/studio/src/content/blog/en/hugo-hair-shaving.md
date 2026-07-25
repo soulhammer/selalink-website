@@ -1,11 +1,11 @@
 ---
 title: "Forcing Focus by Blocking Outings: Victor Hugo's Hair-Shaving Isolation Habit and Precommitment Strategy"
 description: "Discover how Victor Hugo shaved half his hair and beard to prevent himself from leaving home and meet a tight publisher deadline. Explore the neuroscience of environmental physical constraints, precommitment strategy, and prefrontal willpower fatigue prevention."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-29"
+updatedDate: "2026-06-29"
 category: "BuildSelf"
-tags: ["Great Habits","hugo","Routine","Stamina"]
-heroImage: "/images/blog/hugo_hair_shaving.png"
+tags: ["위인 습관", "빅토르 위고", "몰입", "환경 제약", "생산성"]
+heroImage: "/images/blog/hugo_hair_shaving.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Graham Robb's *Victor Hugo: A Biography*, Behavior Therapy & Cognitive Neuroscience Research"

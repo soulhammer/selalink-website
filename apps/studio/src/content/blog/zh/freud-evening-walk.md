@@ -1,11 +1,11 @@
 ---
 title: "唤醒内在无意识的3英里散步：西格蒙德·弗洛伊德的晚间快走习惯与无意识日志记录"
 description: "探索精神分析学创始人西格蒙德·弗洛伊德如何在结束繁重的精神诊疗后，于每晚在维也纳街头快走3英里，重塑左右脑平衡并记录潜意识灵感。揭示双侧感觉刺激与手写日志的神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-09"
+updatedDate: "2026-07-09"
 category: "BuildSelf"
-tags: ["唤醒内在无意识的3英","Routine"]
-heroImage: "/images/blog/freud_evening_walk.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/freud_evening_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "西格蒙德·弗洛伊德自传《我的生涯与精神分析（An Autobiographical Study）》与维也纳弗洛伊德博物馆史料考证及认知神经科学（Cognitive Neuroscience）研究"

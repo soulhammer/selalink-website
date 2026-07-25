@@ -1,11 +1,11 @@
 ---
 title: "30 minutes chaque matin : Le curieux « Bain d'air » de Benjamin Franklin et sa routine de réinitialisation du système nerveux autonome"
 description: "Découvrez comment Benjamin Franklin, inventeur du paratonnerre et Père fondateur des États-Unis, pratiquait son « bain d'air » matinal nu devant des fenêtres ouvertes. Explorez la neuroscience des récepteurs cutanés au froid (TRPM8) et de la noradrénaline."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-12"
+updatedDate: "2026-02-12"
 category: "BuildSelf"
-tags: ["30 minutes","Routine"]
-heroImage: "/images/blog/franklin_air_bath.png"
+tags: ["위인 습관", "벤자민 프랭클린", "아침 루틴", "면역력", "각성"]
+heroImage: "/images/blog/franklin_air_bath.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de *L'Autobiographie de Benjamin Franklin*, des Lettres à M. Barbeu Dubourg & de la Recherche en Neurosciences Cognitives"

@@ -1,11 +1,11 @@
 ---
 title: "凌晨4点的奇迹：科比·布莱恩特的曼巴训练习惯"
 description: "探索篮球巨星科比·布莱恩特每天凌晨4点展开首轮训练的习惯，揭示每日固定早晨的高强度训练如何锚定昼夜节律并将身体活性推向巅峰的神经科学与生理学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-19"
+updatedDate: "2026-01-19"
 category: "BuildSelf"
-tags: ["凌晨4点的奇迹：科比","Routine"]
-heroImage: "/images/blog/bryant_four_am_workout.png"
+tags: ["위인 습관", "코비 브라이언트", "성장", "의지력", "신체활성"]
+heroImage: "/images/blog/bryant_four_am_workout.webp"
 app: "buildself"
 formatVersion: 4
 authority: "科比·布莱恩特自传《曼巴精神（The Mamba Mentality: How I Play）》考证与认知神经科学（Cognitive Neuroscience）研究"

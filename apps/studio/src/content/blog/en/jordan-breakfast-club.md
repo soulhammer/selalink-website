@@ -1,11 +1,11 @@
 ---
 title: "Unbeatable 6 AM Mental Setup: Michael Jordan's Breakfast Club and the Winner Effect"
 description: "Discover how basketball legend Michael Jordan surpassed physical and mental limits with his 6 AM 'Breakfast Club' routine. Explore the neuroscience of the Winner Effect, dopamine and testosterone surges, and a 3-step morning setup."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-16"
+updatedDate: "2026-01-16"
 category: "BuildSelf"
-tags: ["Great Habits","jordan","Routine","Stamina"]
-heroImage: "/images/blog/jordan_breakfast_club.png"
+tags: ["위인 습관", "마이클조던", "아침루틴", "의지력", "멘탈셋업"]
+heroImage: "/images/blog/jordan_breakfast_club.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Michael Jordan's *Driven from Within*, Biographies & Cognitive Neuroscience and Exercise Physiology Research"

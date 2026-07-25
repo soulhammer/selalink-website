@@ -16,23 +16,23 @@ faqs:
     answer: "Stützen Sie immer den gesamten Körper. Legen Sie eine Hand unter die Brust und die andere unter das Hinterteil, sodass der Rücken stets waagerecht bleibt."
 ---
 
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+Dackel (Dachshunds) sind weltweit bekannt für ihre charmante Silhouette und ihren mutigen Charakter. Ihre einzigartige Anatomie – ein langer Körper gepaart mit kurzen Beinen – macht sie jedoch extrem anfällig für Bandscheibenvorfälle (IVDD). Selbst alltägliche Dinge wie das Springen vom Sofa oder das Treppensteigen können die Wirbelsäule gefährlich belasten. Heute analysiert PetSelf die Körpersprache des Dackels bei Rückenstress und stellt eine 3-Schritt-Routinen für den Alltag vor, um den Rücken zu schonen und die Rumpfmuskulatur zu stärken.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Veterinärmedizinische & verhaltensbedingte Nachweise
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Dieser Inhalt basiert auf <strong>Dachshund-Gesundheitsratgeber des American Kennel Club und Richtlinien der Veterinär-Wirbelsäulen-Vereinigung</strong>.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+    🐾 Dackel (Dachshund) Rasseprofil
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Lebenserwartung</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 16 Jahre</span></div>
@@ -43,7 +43,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
 
 ## 1. Dackel Wirbelsäulen-Warnsignale: Männchen machen und Katzenbuckel
 
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+Aufgrund ihres langen Rückens zeigen Dackel Wirbelsäulenstress oder Schmerzen durch subtile Signale. Das Stehen auf den Hinterbeinen ('Männchen machen') mag niedlich aussehen, belastet aber die Lendenwirbelsäule extrem. Ein gekrümmter Rücken oder ein steif gestreckter Nacken sind Anzeichen für Schmerzen, die sofortige Hilfe erfordern.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -77,7 +77,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Morgen: Beweglichkeitsprüfung und Rückenmassage</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+    Überprüfen Sie den Gang vor dem Spielen auf Steifheit. Fühlen Sie die Wirbelsäule vorsichtig ab, um Schmerzreaktionen zu testen.
   </p>
 </div>
 
@@ -87,7 +87,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Nachmittag: Sicherung der Wohnumgebung</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+    Stellen Sie sicher, dass Hunderampen an Betten und Sofas stabil stehen. Blockieren Sie den Zugang zu Treppen mit Schutzgittern.
   </p>
 </div>
 
@@ -97,7 +97,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Abend: Stärkung der Rumpfmuskulatur & Gewichtskontrolle</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+    Gehen Sie langsam auf flachem Rasen spazieren, um die unterstützenden Bauchmuskeln aufzubauen. Futterrationen streng abmessen.
   </p>
 </div>
 
@@ -106,7 +106,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Das einfache Beobachten der Beschwichtigungssignale Ihres Haustiers kann schwerwiegende Verhaltensprobleme und stressbedingte Krankheiten verhindern. Während eine tierärztliche Behandlung wichtig ist, ist eine sichere Umgebung (Treppen, vertikale Räume, mehrere Wasserstellen) der stärkste Schutz für ihr lebenslanges Glück.
     </p>
   </div>
 </div>
@@ -124,7 +124,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Das Steigen von Treppen übt wiederholt harte Stöße auf die lange Wirbelsäule aus. Es wird dringend empfohlen, Treppen abzusperren und den Dackel zu tragen.
     </p>
   </details>
 
@@ -134,7 +134,7 @@ Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
+      Stützen Sie immer den gesamten Körper. Legen Sie eine Hand unter die Brust und die andere unter das Hinterteil, sodass der Rücken stets waagerecht bleibt.
     </p>
   </details>
 </div>

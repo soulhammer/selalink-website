@@ -1,11 +1,11 @@
 ---
 title: "건국의 스트레스를 비우는 땀방울: 리콴유의 운동 후 명상과 자율신경계 항상성 복원"
 description: "싱가포르 건국의 성웅 리콴유 총리. 매일 퇴근 후 30분 트레드밀을 달린 직후 20분 호흡 명상을 통해 결정을 정비하고 뇌를 회복했던 자율신경계 스위칭 원리, 코르티솔 소거 및 3단계 실천 가이드를 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-05"
+updatedDate: "2026-04-05"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/lee_kuanyew_treadmill.png"
+tags: ["위인 습관", "리콴유", "유산소운동", "호흡명상", "자율신경계"]
+heroImage: "/images/blog/lee_kuanyew_treadmill.webp"
 app: "buildself"
 formatVersion: 4
 authority: "리콴유 자서전 『리콴유 회고록(The Singapore Story)』 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 운동생리학(Exercise Physiology) 연구"

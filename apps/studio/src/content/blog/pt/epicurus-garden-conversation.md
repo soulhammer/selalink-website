@@ -1,11 +1,11 @@
 ---
 title: "Solidariedade Intelectual em um Jardim Modesto: A Conversa e a Rotina de Refeição Frugal de Epicuro para a Tranquilidade Mental"
 description: "Descubra como Epicuro construiu 'O Jardim' fora de Atenas para compartilhar refeições frugais e reflexões profundas com amigos. Explore a neurociência da segurança psicológica, oxitocina e serotonina que induzem tranquilidade."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-20"
+updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: ["Solidaried","Routine"]
-heroImage: "/images/blog/epicurus_garden_conversation.png"
+tags: ["휴식", "안정", "사색"]
+heroImage: "/images/blog/epicurus_garden_conversation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica de *Vidas e Doutrinas dos Filósofos Ilustres* de Diógenes Laércio, Cartas de Epicuro e Pesquisa em Neurociência Cognitiva"

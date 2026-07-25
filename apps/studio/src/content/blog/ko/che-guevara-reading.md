@@ -1,11 +1,11 @@
 ---
 title: "밀림 속 참호에서도 책을 든 이유: 체 게바라의 몰입 독서와 인지 재구조화"
 description: "쿠바 혁명의 영웅 체 게바라가 게릴라전이라는 극도의 스트레스 전장 속에서도 매일 두꺼운 책을 읽으며 사상을 다듬었던 루틴. 깊은 독서(Deep Reading)가 전두엽의 인지 조절 네트워크를 활성화하고 생존 스트레스를 차단하는 인지신경과학적 원리를 밝힙니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-09"
+updatedDate: "2026-02-09"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/che_guevara_reading.png"
+tags: ["위인 습관", "체게바라", "매일독서", "인지재구조화", "신념단련"]
+heroImage: "/images/blog/che_guevara_reading.webp"
 app: "buildself"
 formatVersion: 4
 authority: "존 리 앤더슨 평전 『체 게바라 평전(Che Guevara: A Revolutionary Life)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

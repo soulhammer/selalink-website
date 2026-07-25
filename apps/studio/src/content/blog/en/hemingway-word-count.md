@@ -1,11 +1,11 @@
 ---
 title: "Tracking Daily Word Count on a Progress Chart: Ernest Hemingway's Quantitative Writing Chart and Dopamine Reward Routine"
 description: "Discover how Nobel laureate Ernest Hemingway tracked his daily writing word counts on a wall chart. Explore the neuroscience of self-monitoring, dopamine reward circuits, and prefrontal cortex activation."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-05"
+updatedDate: "2026-02-05"
 category: "BuildSelf"
-tags: ["Great Habits","hemingway","Routine","Stamina"]
-heroImage: "/images/blog/hemingway_word_count.png"
+tags: ["위인 습관", "헤밍웨이", "글쓰기", "생산성", "자기관찰"]
+heroImage: "/images/blog/hemingway_word_count.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Ernest Hemingway's *A Moveable Feast*, George Plimpton's 1958 *Paris Review* Interview & Cognitive Neuroscience Research"

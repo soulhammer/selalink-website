@@ -1,11 +1,11 @@
 ---
 title: "독설가 철학자가 아침마다 플루트를 불어 뇌를 식힌 이유? 쇼펜하우어의 인지 리셋법"
 description: "독일의 위대한 염세주의 철학자 아르투어 쇼펜하우어. 매일 아침 냉수 마찰 후 30분간 플루트 연주와 호흡에 몰입하며 뇌파를 알파파로 이완했던 그의 생리학적 루틴과 현대인을 위한 리셋 팁을 소개합니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-25"
+updatedDate: "2026-02-25"
 category: "BuildSelf"
-tags: ["Great Habits","schopenhauer","Routine","Stamina"]
-heroImage: "/images/blog/schopenhauer_flute_refocus.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/schopenhauer_flute_refocus.webp"
 app: "buildself"
 formatVersion: 4
 authority: "쇼펜하우어 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

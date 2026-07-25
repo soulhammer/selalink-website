@@ -1,11 +1,11 @@
 ---
 title: "Antidote to Solitary Speculation: David Hume's Evening Socializing and Backgammon Routine for Emotional Reset"
 description: "Discover how Scottish philosopher David Hume combated intellectual melancholy by dining with friends and playing backgammon every evening. Learn the neuroscience of oxytocin, serotonin, and prefrontal cognitive overload prevention."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-18"
+updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: ["Great Habits","hume","Routine","Stamina"]
-heroImage: "/images/blog/hume_social_refresh.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/hume_social_refresh.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from David Hume's *A Treatise of Human Nature* (1739), Autobiography *My Own Life* & Cognitive Neuroscience Research"

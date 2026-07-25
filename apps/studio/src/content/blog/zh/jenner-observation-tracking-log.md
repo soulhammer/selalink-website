@@ -1,11 +1,11 @@
 ---
 title: "征服天花的疫苗之父：爱德华·詹纳的现场观察跟踪习惯与坚韧（Grit）脑科学"
 description: "探索将人类从瘟疫中解救出来的医师爱德华·詹纳，如何通过数年如一日逐户走访农家、累积牛痘观察手记而发明疫苗。揭示过程导向的多巴胺奖赏回路重塑与前额叶坚韧（Grit）激活的神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-14"
+updatedDate: "2026-07-14"
 category: "BuildSelf"
-tags: ["征服天花的疫苗之父：","Routine"]
-heroImage: "/images/blog/jenner_observation_tracking_log.png"
+tags: ["위인 습관", "루틴", "생산성", "몰입"]
+heroImage: "/images/blog/jenner_observation_tracking_log.webp"
 app: "buildself"
 formatVersion: 4
 authority: "爱德华·詹纳论文《牛痘的成因与效果研究（An Inquiry into the Causes and Effects of the Variolae Vaccinae, 1798）》与英国皇家学会档案考证及认知神经科学（Cognitive Neuroscience）与医学史（History of Medicine）研究"

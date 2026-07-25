@@ -1,11 +1,11 @@
 ---
 title: "家でもスーツを整えて作曲を？：交響曲の父ハイドンの「着衣認知」ルーティンと没頭スイッチ"
 description: "作曲家フランツ・ヨーゼフ・ハイドンがなぜ作曲の前にスーツとカツラを着用したのかを解き明かします。服装が生産性をどのように向上させるのか、「着衣認知（Enclothed Cognition）」の科学と身体化された認知理論で解説します。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-04"
+updatedDate: "2026-04-04"
 category: "BuildSelf"
-tags: ["家でもスーツを整えて","Routine"]
-heroImage: "/images/blog/haydn_formal_dressing.png"
+tags: ["위인 습관", "생산성"]
+heroImage: "/images/blog/haydn_formal_dressing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ヨーゼフ・ハイドン伝記（Dies & Griesinger）およびエステルハージ（Esterházy）アーカイブ史料考証＆認知神経科学（Cognitive Neuroscience）研究"

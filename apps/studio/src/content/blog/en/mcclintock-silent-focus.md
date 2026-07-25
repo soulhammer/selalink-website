@@ -1,11 +1,11 @@
 ---
 title: "유전자를 향한 침묵? 바버라 매클린토크의 묵언 집중법"
 description: "노벨상 수상 유전학자 바버라 매클린토크는 현미경을 볼 때 완벽한 묵언과 자아 소멸의 침묵을 유지했습니다. 잡념을 지우는 감각 게이팅 몰입법을 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-14"
+updatedDate: "2026-05-14"
 category: "BuildSelf"
-tags: ["Great Habits","mcclintock","Routine","Stamina"]
-heroImage: "/images/blog/mcclintock_silent_focus.png"
+tags: ["루틴", "습관"]
+heroImage: "/images/blog/mcclintock_silent_focus.webp"
 app: "buildself"
 formatVersion: 4
 authority: "바버라 매클린토크 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

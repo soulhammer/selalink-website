@@ -1,11 +1,11 @@
 ---
 title: "Le philosophe qui avait fixé un encrier sur sa canne : La méthode de prise de notes immédiate et la routine d'externalisation cognitive de Thomas Hobbes"
 description: "Découvrez comment le penseur Thomas Hobbes a fixé un encrier a sa canne pour consigner ses idées volatiles. Explorez la neuroscience de l'extension de la mémoire de travail, le Réseau du Mode par Défaut (DMN) et l'externalisation cognitive."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-16"
+updatedDate: "2026-03-16"
 category: "BuildSelf"
-tags: ["Le philoso","Routine"]
-heroImage: "/images/blog/hobbes_cane_inkwell.png"
+tags: ["산책 지팡이에 잉크","Routine"]
+heroImage: "/images/blog/hobbes_cane_inkwell.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de *Vies brèves (Brief Lives)* de John Aubrey, des archives de Thomas Hobbes & de la Recherche en Neurosciences Cognitives"

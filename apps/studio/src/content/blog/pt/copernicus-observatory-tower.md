@@ -1,11 +1,11 @@
 ---
 title: "A Torre de Observação Inabalável: A Rotina de Concentração em Espaço Fixo e Condicionamento Ambiental de Nicolau Copérnico"
 description: "Descubra como Nicolau Copérnico manteve uma torre de observação fixa em Frombork por décadas. Explore a neurociência cognitiva do condicionamento espacial e da memória dependente do contexto que elimina o tempo de aquecimento cognitivo."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["A Torre de","Routine"]
-heroImage: "/images/blog/copernicus_observatory_tower.png"
+tags: ["위인 습관", "니콜라우스 코페르니쿠스", "집중", "계획", "생산성"]
+heroImage: "/images/blog/copernicus_observatory_tower.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica de *Das Revoluções das Esferas Celestes (De revolutionibus orbium coelestium)* de Nicolau Copérnico e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)"
