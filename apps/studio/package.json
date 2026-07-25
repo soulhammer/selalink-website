@@ -16,7 +16,6 @@
     "test:unit": "vitest run",
     "test:e2e": "playwright test",
     "generate-blog": "node src/generate_blog_autonomous.js",
-    "retrofit-blogs": "node src/retrofit_blogs.js",
     "distribute-blog-dates": "node src/distribute_blog_dates.js"
   },
   "dependencies": {
