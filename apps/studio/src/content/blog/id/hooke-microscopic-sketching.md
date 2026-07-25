@@ -1,11 +1,11 @@
 ---
 title: "Metode Sketsa Mikroskopis Robert Hooke: Membangunkan Fokus Utama Prefrontal Melalui Mikro-Pengamatan 0,01 mm dan Sinkronisasi Tangan-Mata"
 description: "Pelajari bagaimana cendekiawan abad ke-17 Robert Hooke menemukan 'sel' biologis pertama melalui menggambar mikroskop majemuk yang presisi. Temukan neurosains sinkronisasi tangan-mata dan sketsa visuospasial."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-04"
+updatedDate: "2026-04-04"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/hooke_microscopic_sketching.png"
+tags: ["집중", "관찰", "연구", "세포"]
+heroImage: "/images/blog/hooke_microscopic_sketching.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari *Micrographia* (1665) karya Robert Hooke, Arsip Royal Society & Penelitian Neurosains Kognitif"

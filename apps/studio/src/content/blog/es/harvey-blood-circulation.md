@@ -1,11 +1,11 @@
 ---
 title: "El Método de Verificación Cuantitativa de la Circulación de William Harvey: Cómo Destruir Prejuicios Ciegos Mediante Cálculo Numérico"
 description: "Descubra cómo el médico del siglo XVII William Harvey destruyó 2,000 años de dogma al calcular matemáticamente el gasto cardíaco. Explore la verdad histórica y la neurociencia de la verificación numérica."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-14"
+updatedDate: "2026-03-14"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/harvey_blood_circulation.png"
+tags: ["수치", "검증", "순환", "의학"]
+heroImage: "/images/blog/harvey_blood_circulation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de *Exercitatio Anatomica de Motu Cordis et Sanguinis in Animalibus* de William Harvey e Investigación en Neurociencia Cognitiva"

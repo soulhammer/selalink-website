@@ -1,11 +1,11 @@
 ---
 title: "La méthode d'exposition sur plaque d'argent de Louis Daguerre : Comment fixer les moments fugaces en inspiration éternelle"
 description: "Découvrez comment l'inventeur français du XIXe siècle Louis Daguerre a créé la première photographie pratique par exposition chimique sur plaque d'argent, et explorez la neuroscience cognitive de la fixation visuelle instantanée."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-31"
+updatedDate: "2026-01-31"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/daguerre_silver_plate.png"
+tags: ["찰나", "사진", "화학", "기록"]
+heroImage: "/images/blog/daguerre_silver_plate.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de *Historique et description des procédés du Daguerréotype* de Louis Daguerre & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

@@ -1,11 +1,11 @@
 ---
 title: "罗伯特·胡克的微观素描法：借0.01毫米精细观察唤醒前额叶超专注与手眼同步习惯"
 description: "探索17世纪英国科学奇才罗伯特·胡克如何通过复式显微镜精细素描发现人类首个“细胞（Cell）”。揭示手眼同步观察与视空间草图激活的神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-04"
+updatedDate: "2026-04-04"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/hooke_microscopic_sketching.png"
+tags: ["집중", "관찰", "연구", "세포"]
+heroImage: "/images/blog/hooke_microscopic_sketching.webp"
 app: "buildself"
 formatVersion: 4
 authority: "罗伯特·胡克著作集《显微图谱（Micrographia，1665）》与英国皇家学会（Royal Society）档案考证及认知神经科学（Cognitive Neuroscience）研究"

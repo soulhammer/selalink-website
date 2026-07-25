@@ -1,11 +1,11 @@
 ---
 title: "ロバート・フックの微視スケッチ法：0.01mmの微細観察で前頭前野の超集中を呼び覚ます方法と手と目の同期ルーティン"
 description: "17世紀のイギリスの天才科学者ロバート・フックが、複眼顕微鏡の精密スケッチで最初の細胞（Cell）を発見した歴史的事実と、手と目の同期観察、視空間スケッチパッド活性化の脳科学的原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-04"
+updatedDate: "2026-04-04"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/hooke_microscopic_sketching.png"
+tags: ["집중", "관찰", "연구", "세포"]
+heroImage: "/images/blog/hooke_microscopic_sketching.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ロバート・フック著作集『ミクログラフィア（Micrographia）』および王立協会（Royal Society）史料考証＆認知神経科学（Cognitive Neuroscience）研究"

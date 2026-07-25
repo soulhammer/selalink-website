@@ -1,11 +1,11 @@
 ---
 title: "블레즈 파스칼의 기하학 몰입: 고난도 과제로 통증과 스트레스를 뇌에서 지우는 법"
 description: "17세기 천재 블레즈 파스칼이 극심한 치통과 두통을 고난도 수학 몰입으로 극복한 역사적 사실과 주의 전환 통제(Attentional Gating)의 과학적 원리를 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-06"
+updatedDate: "2026-06-06"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/pascal_math_focus.png"
+tags: ["집중", "몰입", "생산성", "스트레스 해소"]
+heroImage: "/images/blog/pascal_math_focus.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Pascal Math Focus 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

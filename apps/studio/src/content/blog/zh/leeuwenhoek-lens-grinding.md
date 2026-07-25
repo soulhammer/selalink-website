@@ -1,11 +1,11 @@
 ---
 title: "安东尼·范·列文虎克的球形透镜打磨习惯：极精忍耐力与微观观察透视本质及小脑舒缓指南"
 description: "深度剖析微生物学之父列文虎克如何亲手打磨放大500倍的球形单透镜、进而首次发现细菌与微观生物。揭示触视觉沉浸、舒缓小脑与基底核、Alpha波心流与3步骤实践指南。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-25"
+updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/leeuwenhoek_lens_grinding.png"
+tags: ["집중", "미생물", "인내", "관찰"]
+heroImage: "/images/blog/leeuwenhoek_lens_grinding.webp"
 app: "buildself"
 formatVersion: 4
 authority: "安东尼·范·列文虎克传记史料与英国皇家学会（Royal Society）通信档案考证及认知神经科学（Cognitive Neuroscience）与运动控制学（Motor Control Science）研究"

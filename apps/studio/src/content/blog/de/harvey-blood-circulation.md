@@ -1,11 +1,11 @@
 ---
 title: "William Harveys quantitative Blutkreislauf-Verifizierung: Wie man blinde Vorurteile durch objektive Zahlenberechnung bricht"
 description: "Erfahren Sie, wie der Arzt William Harvey im 17. Jahrhundert 2.000 Jahre alte Lehren umstieß, indem er das Schlagvolumen des Herzens mathematisch berechnete. Entdecken Sie die Neurowissenschaften der Zahlenprüfung."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-14"
+updatedDate: "2026-03-14"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/harvey_blood_circulation.png"
+tags: ["수치", "검증", "순환", "의학"]
+heroImage: "/images/blog/harvey_blood_circulation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus William Harveys *Exercitatio Anatomica de Motu Cordis et Sanguinis in Animalibus* & Forschung der kognitiven Neurowissenschaften"

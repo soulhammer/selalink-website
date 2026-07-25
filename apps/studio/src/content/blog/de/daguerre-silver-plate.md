@@ -1,11 +1,11 @@
 ---
 title: "Louis Daguerres Silberplatten-Belichtungsmethode: Wie man flüchtige Momente in ewige Inspiration verwandelt"
 description: "Erkunden Sie, wie der französische Erfinder Louis Daguerre im 19. Jahrhundert die erste praktische Fotografie erfand, und entdecken Sie die kognitiven Neurowissenschaften der visuellen Fixierung."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-31"
+updatedDate: "2026-01-31"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/daguerre_silver_plate.png"
+tags: ["찰나", "사진", "화학", "기록"]
+heroImage: "/images/blog/daguerre_silver_plate.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Louis Daguerres *Historique et description des procédés du Daguerréotype (Geschichte und Beschreibung des Daguerreotypie-Verfahrens)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)"

@@ -1,11 +1,11 @@
 ---
 title: "Metode Paparan Pelat Perak Louis Daguerre: Cara Mengabadikan Momen Singkat Menjadi Inspirasi Abadi"
 description: "Pelajari bagaimana penemu Prancis abad ke-19 Louis Daguerre menciptakan fotografi praktis pertama melalui paparan kimia pelat perak, dan temukan neurosains kognitif tentang fiksasi visual seketika."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-31"
+updatedDate: "2026-01-31"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/daguerre_silver_plate.png"
+tags: ["찰나", "사진", "화학", "기록"]
+heroImage: "/images/blog/daguerre_silver_plate.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari *Historique et description des procédés du Daguerréotype (Sejarah dan Deskripsi Proses Daguerreotype)* karya Louis Daguerre & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

@@ -1,11 +1,11 @@
 ---
 title: "Metode Dekomposisi Mesin Diferensial Charles Babbage: Cara Membuat Kesalahan dan Kekeliruan Menjadi 0% Melalui Modularisasi Roda Gigi Mekanis"
 description: "Pelajari fakta sejarah bapak komputer abad ke-19 Charles Babbage, yang merancang kalkulator mekanis bebas kesalahan pertama di dunia melalui modularisasi roda gigi presisi, beserta prinsip-prinsip neurosains dari modularisasi sistem."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-10"
+updatedDate: "2026-01-10"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/babbage_difference_engine.png"
+tags: ["논리", "모듈화", "컴퓨터", "기계"]
+heroImage: "/images/blog/babbage_difference_engine.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Autobiografi Charles Babbage *Passages from the Life of a Philosopher* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"

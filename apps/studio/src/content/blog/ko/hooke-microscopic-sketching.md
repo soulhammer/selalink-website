@@ -1,11 +1,11 @@
 ---
 title: "로버트 훅의 미시 스케치법: 0.01mm 미세 관찰로 전전두엽 초집중을 깨우는 법과 손-눈 동기화 루틴"
 description: "17세기 영국의 천재 과학자 로버트 훅이 현미경 정밀 스케치로 최초의 세포(Cell)를 발견한 역사적 사실과 손-눈 동기화 관찰, 시공간 스케치북 활성화의 뇌과학적 원리를 다룹니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-04"
+updatedDate: "2026-04-04"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/hooke_microscopic_sketching.png"
+tags: ["집중", "관찰", "연구", "세포"]
+heroImage: "/images/blog/hooke_microscopic_sketching.webp"
 app: "buildself"
 formatVersion: 4
 authority: "로버트 훅 저작집 『마이크로그라피아(Micrographia)』 및 왕립학회(Royal Society) 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

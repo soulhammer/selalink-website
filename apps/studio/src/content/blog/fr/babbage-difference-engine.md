@@ -1,11 +1,11 @@
 ---
 title: "La méthode de décomposition de la machine différentielle de Charles Babbage : Comment réduire les erreurs et fautes à 0% grâce à la modularisation mécanique des engrenages"
 description: "Découvrez les faits historiques sur le père de l'informatique du XIXe siècle, Charles Babbage, qui a conçu la première calculatrice mécanique sans erreur au monde grâce à la modularisation de précision des engrenages, ainsi que les principes neuroscientifiques de la modularisation des systèmes."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-10"
+updatedDate: "2026-01-10"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/babbage_difference_engine.png"
+tags: ["논리", "모듈화", "컴퓨터", "기계"]
+heroImage: "/images/blog/babbage_difference_engine.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de l'autobiographie de Charles Babbage *Passages from the Life of a Philosopher* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)"

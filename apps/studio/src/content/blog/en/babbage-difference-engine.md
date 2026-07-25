@@ -1,11 +1,11 @@
 ---
 title: "Charles Babbage's Difference Engine Decomposition Method: How to Make Errors and Mistakes 0% Through Mechanical Cog Modularization"
 description: "Discover the historical facts of 19th-century father of computers Charles Babbage, who designed the world's first error-free mechanical calculator through precision cog modularization, along with the neuroscientific principles of system modularization."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-10"
+updatedDate: "2026-01-10"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/babbage_difference_engine.png"
+tags: ["논리", "모듈화", "컴퓨터", "기계"]
+heroImage: "/images/blog/babbage_difference_engine.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Charles Babbage's Autobiography *Passages from the Life of a Philosopher* & Cognitive Neuroscience Research"

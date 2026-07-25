@@ -1,11 +1,11 @@
 ---
 title: "Euklids axiomatisches Denken: Wie man komplexe Entscheidungsblockaden durch Kettenlogik aus ersten Prinzipien bricht"
 description: "Erfahren Sie, wie der altgriechische Mathematiker Euklid komplexe Probleme löste, indem er sie in unumstößliche Axiome zerlegte, und entdecken Sie die Neurowissenschaften hinter dem Denken aus ersten Prinzipien."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-21"
+updatedDate: "2026-02-21"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/euclid_axiomatic_thinking.png"
+tags: ["의사결정", "본질", "집중", "생산성"]
+heroImage: "/images/blog/euclid_axiomatic_thinking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Euklids *Elementen*, Proklos' *Kommentar zu Euklids Elementen* & Forschung der kognitiven Neurowissenschaften"

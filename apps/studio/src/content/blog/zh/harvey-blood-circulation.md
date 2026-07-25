@@ -1,11 +1,11 @@
 ---
 title: "威廉·哈维的血液循环定量验证法：借客观数据计算推翻盲目成见"
 description: "探索17世纪英国医师威廉·哈维如何通过心搏输出量的数学定量计算，彻底砸碎统治西方长达2000年的盲目教条。揭示数值校验的历史真相与顶叶激活的神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-14"
+updatedDate: "2026-03-14"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/harvey_blood_circulation.png"
+tags: ["수치", "검증", "순환", "의학"]
+heroImage: "/images/blog/harvey_blood_circulation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "威廉·哈维著作集《论动物心脏与血液的运动（De Motu Cordis）》考证及认知神经科学（Cognitive Neuroscience）研究"

@@ -1,11 +1,11 @@
 ---
 title: "ルイ・ダゲールの銀板露出法：刹那の瞬間を永遠に固定し最高のインスピレーションを保存する方法"
 description: "19世紀フランスの発明家ルイ・ダゲールが銀板化学反応露出法で人類初の実用写真を発明した歴史的事実と瞬間視覚固定の脳科学的原理を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-31"
+updatedDate: "2026-01-31"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/daguerre_silver_plate.png"
+tags: ["찰나", "사진", "화학", "기록"]
+heroImage: "/images/blog/daguerre_silver_plate.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ルイ・ダゲール『Historique et description des procédés du Daguerréotype（ダゲレオタイプに関する歴史と技術）』考証＆認知神経科学（Cognitive Neuroscience）研究"

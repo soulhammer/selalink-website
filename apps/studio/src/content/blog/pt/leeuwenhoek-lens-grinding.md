@@ -1,11 +1,11 @@
 ---
 title: "O Método de Polimento de Lentes Esféricas de Antonie van Leeuwenhoek: Penetrando a Essência Através da Micropaciência, Observação e Relaxamento Cerebelar"
 description: "Descubra como Antonie van Leeuwenhoek, o Pai da Microbiologia, poliu à mão lentes esféricas de 500 aumentos para descobrir bactérias e microorganismos. Explore a neurociência da imersão tátil-visual, o relaxamento cerebelar, o fluxo de ondas alfa e um guia de 3 passos."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-25"
+updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/leeuwenhoek_lens_grinding.png"
+tags: ["집중", "미생물", "인내", "관찰"]
+heroImage: "/images/blog/leeuwenhoek_lens_grinding.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica das Biografias de Antonie van Leeuwenhoek, Arquivos de Correspondência da Royal Society e Pesquisa em Neurociência Cognitiva e Ciência do Controle Motor"

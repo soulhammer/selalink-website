@@ -1,11 +1,11 @@
 ---
 title: "Robert Hooke's Microscopic Sketching Method: Awakening Prefrontal Fine Focus Through 0.01mm Micro-Observation and Hand-Eye Synchronization"
 description: "Discover how 17th-century polymath Robert Hooke discovered the first biological 'cell' through precision compound microscope sketching. Explore the cognitive neuroscience of hand-eye synchronization and visuospatial sketchpad activation."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-04"
+updatedDate: "2026-04-04"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/hooke_microscopic_sketching.png"
+tags: ["집중", "관찰", "연구", "세포"]
+heroImage: "/images/blog/hooke_microscopic_sketching.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Robert Hooke's *Micrographia* (1665), Royal Society Archives & Cognitive Neuroscience Research"

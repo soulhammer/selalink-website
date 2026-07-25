@@ -12,17 +12,28 @@ const blogRootDir = pathModule.join(__dirname, 'content/blog');
 
 const locales = ['ko', 'en', 'zh', 'ja', 'es', 'fr', 'de', 'pt', 'id'];
 
-// 역사적 메타데이터 보존 맵 구축 (3a61e460 커밋 및 기존 디스크 파일 검상)
+// 역사적 메타데이터 보존 맵 구축 (c7523675 및 3a61e460 커밋 연쇄 검상)
 const historyMetaMap = {};
 try {
   const jsonFiles = fs.readdirSync(habitsDir).filter(f => f.endsWith('.json'));
   jsonFiles.forEach(file => {
     const slug = file.replace('.json', '');
+    let gitContent = null;
     try {
-      const gitContent = execSync(`git show 3a61e460:apps/studio/src/content/blog/ko/${slug}.md`, {
+      gitContent = execSync(`git show c7523675:apps/studio/src/content/blog/ko/${slug}.md`, {
         encoding: 'utf-8',
         stdio: ['pipe', 'pipe', 'ignore']
       });
+    } catch (e) {
+      try {
+        gitContent = execSync(`git show 3a61e460:apps/studio/src/content/blog/ko/${slug}.md`, {
+          encoding: 'utf-8',
+          stdio: ['pipe', 'pipe', 'ignore']
+        });
+      } catch (err) {}
+    }
+
+    if (gitContent) {
       const pubMatch = gitContent.match(/pubDate:\s*"([^"]+)"/);
       const upMatch = gitContent.match(/updatedDate:\s*"([^"]+)"/);
       const heroMatch = gitContent.match(/heroImage:\s*"([^"]+)"/);
@@ -34,8 +45,8 @@ try {
         heroImage: heroMatch ? heroMatch[1] : null,
         tags: tagsMatch ? tagsMatch[1] : null
       };
-    } catch (e) {
-      // 3a61e460 이후 추가된 포스트는 디스크 상의 기존 KO md 파일에서 추출
+    } else {
+      // 커밋 기록에 없는 경우 디스크 상의 기존 KO md 파일에서 추출
       const diskKoPath = pathModule.join(blogRootDir, 'ko', `${slug}.md`);
       if (fs.existsSync(diskKoPath)) {
         const content = fs.readFileSync(diskKoPath, 'utf-8');

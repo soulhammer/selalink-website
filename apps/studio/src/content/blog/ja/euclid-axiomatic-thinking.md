@@ -1,11 +1,11 @@
 ---
 title: "ユークリッドの公理的思考：第一原理の連鎖論理で複雑な意思決定の麻痺を打破する方法"
 description: "古代ギリシャの大数学者ユークリッドが、複雑な難題を疑う余地のない公理（Axiom）へと解体して解決した第一原理思考法の歴史と認知科学を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-21"
+updatedDate: "2026-02-21"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/euclid_axiomatic_thinking.png"
+tags: ["의사결정", "본질", "집중", "생산성"]
+heroImage: "/images/blog/euclid_axiomatic_thinking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ユークリッド『原論（Elements）』およびプロクロス『原論注釈書（Commentary on Euclid's Elements）』考証＆認知神経科学（Cognitive Neuroscience）研究"

@@ -1,11 +1,11 @@
 ---
 title: "La méthode de croquis microscopique de Robert Hooke : Éveiller la concentration préfrontale par la micro-observation à 0,01 mm et la synchronisation œil-main"
 description: "Découvrez comment le savant du XVIIe siècle Robert Hooke a découvert la première « cellule » biologique en dessinant au microscope composé. Explorez la neuroscience de la synchronisation œil-main et du calepin visuo-spatial."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-04"
+updatedDate: "2026-04-04"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/hooke_microscopic_sketching.png"
+tags: ["집중", "관찰", "연구", "세포"]
+heroImage: "/images/blog/hooke_microscopic_sketching.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue de *Micrographia* (1665) de Robert Hooke, des archives de la Royal Society & de la Recherche en Neurosciences Cognitives"

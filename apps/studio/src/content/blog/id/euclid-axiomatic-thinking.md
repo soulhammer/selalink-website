@@ -1,11 +1,11 @@
 ---
 title: "Pemikiran Aksiomatis Euklides: Memecahkan Kelumpuhan Keputusan Melalui Rantai Logika Deduktif Prinsip Pertama"
 description: "Pelajari bagaimana matematikawan Yunani Kuno Euklides menyelesaikan dilema rumit dengan mengurainya menjadi aksioma yang tak terbantahkan—mengungkap sejarah dan neurosains kognitif di balik penalaran Prinsip Pertama."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-21"
+updatedDate: "2026-02-21"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/euclid_axiomatic_thinking.png"
+tags: ["의사결정", "본질", "집중", "생산성"]
+heroImage: "/images/blog/euclid_axiomatic_thinking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari *Elements* karya Euklides, *Commentary on Euclid's Elements* karya Proclus & Penelitian Neurosains Kognitif"

@@ -1,11 +1,11 @@
 ---
 title: "El Método de Exposición en Placa de Plata de Louis Daguerre: Cómo Fijar Momentos Fugaces en Inspiración Eterna"
 description: "Descubra cómo el inventor francés del siglo XIX Louis Daguerre creó la primera fotografía práctica mediante exposición química en placa de plata, y explore la neurociencia cognitiva de la fijación visual instantánea."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-31"
+updatedDate: "2026-01-31"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/daguerre_silver_plate.png"
+tags: ["찰나", "사진", "화학", "기록"]
+heroImage: "/images/blog/daguerre_silver_plate.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica del *Historique et description des procédés du Daguerréotype (Historia y descripción de los procesos del daguerrotipo)* de Louis Daguerre e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"

@@ -1,11 +1,11 @@
 ---
 title: "Metode Verifikasi Kuantitatif Sirkulasi Darah William Harvey: Mematahkan Dogma Buta Melalui Kalkulasi Numerik Objektif"
 description: "Pelajari bagaimana dokter abad ke-17 William Harvey mematahkan dogma 2.000 tahun dengan mengalkulasi curah jantung secara matematis. Temukan kebenaran sejarah dan neurosains tentang verifikasi numerik."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-14"
+updatedDate: "2026-03-14"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/harvey_blood_circulation.png"
+tags: ["수치", "검증", "순환", "의학"]
+heroImage: "/images/blog/harvey_blood_circulation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari *Exercitatio Anatomica de Motu Cordis et Sanguinis in Animalibus* karya William Harvey & Penelitian Neurosains Kognitif"

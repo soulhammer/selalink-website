@@ -1,11 +1,11 @@
 ---
 title: "William Harvey's Quantitative Circulation Verification: Breaking Blind Dogma with Objective Numerical Calculation"
 description: "Explore how 17th-century physician William Harvey shattered 2,000 years of dogma by mathematically calculating cardiac output. Discover the historical truth and cognitive neuroscience of numerical verification and parietal lobe activation."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-14"
+updatedDate: "2026-03-14"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/harvey_blood_circulation.png"
+tags: ["수치", "검증", "순환", "의학"]
+heroImage: "/images/blog/harvey_blood_circulation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from William Harvey's *Exercitatio Anatomica de Motu Cordis et Sanguinis in Animalibus* & Cognitive Neuroscience Research"

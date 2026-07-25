@@ -1,11 +1,11 @@
 ---
 title: "Robert Hookes mikroskopische Skizziermethode: Aktivierung des präfrontalen Fokus durch 0,01-mm-Mikrobeobachtung und Hand-Auge-Synchronisation"
 description: "Erfahren Sie, wie das Genie des 17. Jahrhunderts, Robert Hooke, durch präzises Skizzieren am Mikroskop die erste biologische 'Zelle' entdeckte. Entdecken Sie die Neurowissenschaften der Hand-Auge-Synchronisation."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-04"
+updatedDate: "2026-04-04"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/hooke_microscopic_sketching.png"
+tags: ["집중", "관찰", "연구", "세포"]
+heroImage: "/images/blog/hooke_microscopic_sketching.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Robert Hookes *Micrographia* (1665), Archiven der Royal Society & Forschung der kognitiven Neurowissenschaften"

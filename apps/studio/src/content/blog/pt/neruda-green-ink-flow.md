@@ -1,11 +1,11 @@
 ---
 title: "파블로 네루다의 초록색 잉크 필기법: 색상 파장으로 뇌의 창의적 몰입(Flow)을 깨우는 법"
 description: "노벨문학상 수상자 파블로 네루다가 평생 오직 초록색 잉크로만 시를 쓴 이유와 녹색 파장이 뇌의 알파파(Alpha Waves)를 유도하는 인지색채학적 원리를 다룹니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-05-16"
+updatedDate: "2026-05-16"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/neruda_green_ink_flow.png"
+tags: ["창의력", "아이디어", "글쓰기", "영감"]
+heroImage: "/images/blog/neruda_green_ink_flow.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Neruda Green Ink Flow 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

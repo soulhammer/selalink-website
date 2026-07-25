@@ -1,11 +1,11 @@
 ---
 title: "O Pensamento Axiomático de Euclides: Como Quebrar a Paralisia de Decisão via Cadeias Dedutivas de Primeiros Princípios"
 description: "Descubra como o matemático grego Euclides resolveu dilemas complexos desconstruindo-os em axiomas inquestionáveis, explorando a história e a neurociência cognitiva dos Primeiros Princípios."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-21"
+updatedDate: "2026-02-21"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/euclid_axiomatic_thinking.png"
+tags: ["의사결정", "본질", "집중", "생산성"]
+heroImage: "/images/blog/euclid_axiomatic_thinking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica dos *Elementos* de Euclides, do *Comentário sobre os Elementos de Euclides* de Proclo e Pesquisa em Neurociência Cognitiva"

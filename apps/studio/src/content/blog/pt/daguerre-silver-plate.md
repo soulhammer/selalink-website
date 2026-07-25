@@ -1,11 +1,11 @@
 ---
 title: "O Método de Exposição em Chapa de Prata de Louis Daguerre: Como Fixar Momentos Fugazes em Inspiração Eterna"
 description: "Descubra como o inventor francês do século XIX Louis Daguerre criou a primeira fotografia prática via exposição química em chapa de prata, e explore a neurociência cognitiva da fixação visual instantânea."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-31"
+updatedDate: "2026-01-31"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/daguerre_silver_plate.png"
+tags: ["찰나", "사진", "화학", "기록"]
+heroImage: "/images/blog/daguerre_silver_plate.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica de *Historique et description des procédés du Daguerréotype (História e Descrição dos Processos do Daguerreótipo)* de Louis Daguerre e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)"

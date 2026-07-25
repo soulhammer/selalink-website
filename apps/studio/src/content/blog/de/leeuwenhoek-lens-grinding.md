@@ -1,11 +1,11 @@
 ---
 title: "Antonie van Leeuwenhoeks Kugel-Linsenschleif-Routine: Das Wesen der Dinge durch Mikro-Geduld, Beobachtung und Kleinhirn-Entlastung durchdringen"
 description: "Erfahren Sie, wie der Vater der Mikrobiologie, Antonie van Leeuwenhoek, 500-fache Kugel-Glaslinsen von Hand schliff, um Bakterien und Mikroorganismen zu entdecken. Entdecken Sie die Neurowissenschaften haptisch-visueller Immersion, Kleinhirn-Entlastung, Alpha-Wellen-Flow und eine 3-Schritte-Anleitung."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-25"
+updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/leeuwenhoek_lens_grinding.png"
+tags: ["집중", "미생물", "인내", "관찰"]
+heroImage: "/images/blog/leeuwenhoek_lens_grinding.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Überprüfung aus Antonie van Leeuwenhoeks Biografien, Briefarchiven der Royal Society of London & Forschung der kognitiven Neurowissenschaften und Motorikwissenschaft"

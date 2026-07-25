@@ -1,11 +1,11 @@
 ---
 title: "Euclid's Axiomatic Thinking: Breaking Complex Decision Paralysis via First-Principles Deductive Chains"
 description: "Explore how ancient Greek mathematician Euclid solved complex dilemmas by deconstructing them into unquestionable axioms—uncovering the history and cognitive neuroscience behind First Principles reasoning."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-21"
+updatedDate: "2026-02-21"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/euclid_axiomatic_thinking.png"
+tags: ["의사결정", "본질", "집중", "생산성"]
+heroImage: "/images/blog/euclid_axiomatic_thinking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Euclid's *Elements*, Proclus's *Commentary on Euclid's Elements* & Cognitive Neuroscience Research"

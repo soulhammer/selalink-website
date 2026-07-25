@@ -1,11 +1,11 @@
 ---
 title: "La routine de polissage de lentilles sphériques d'Antonie van Leeuwenhoek : Percer l'essence par la micro-patience, l'observation et la relaxation cérébelleuse"
 description: "Découvrez comment Antonie van Leeuwenhoek, le Père de la microbiologie, a poli a la main des lentilles sphériques grossissant 500 fois pour découvrir les bactéries. Explorez la neuroscience de l'immersion tactilo-visuelle, la relaxation cérébelleuse, le flow en ondes alfa et un guide en 3 étapes."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-25"
+updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/leeuwenhoek_lens_grinding.png"
+tags: ["집중", "미생물", "인내", "관찰"]
+heroImage: "/images/blog/leeuwenhoek_lens_grinding.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue des biographies d'Antonie van Leeuwenhoek, des archives de la Royal Society & de la Recherche en Neurosciences Cognitives et Sciences du Contrôle Moteur"

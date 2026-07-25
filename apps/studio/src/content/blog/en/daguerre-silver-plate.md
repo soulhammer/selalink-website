@@ -1,11 +1,11 @@
 ---
 title: "Louis Daguerre's Silver Plate Exposure Method: How to Fix Fleeting Moments into Eternal Inspiration"
 description: "Explore how 19th-century French inventor Louis Daguerre created the world's first practical photography via chemical silver-plate exposure, and uncover the cognitive neuroscience of instant visual fixation."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-31"
+updatedDate: "2026-01-31"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/daguerre_silver_plate.png"
+tags: ["찰나", "사진", "화학", "기록"]
+heroImage: "/images/blog/daguerre_silver_plate.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Louis Daguerre's *Historique et description des procédés du Daguerréotype (History and Practice of the Daguerreotype)* & Cognitive Neuroscience Research"

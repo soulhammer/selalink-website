@@ -1,11 +1,11 @@
 ---
 title: "유클리드의 공리적 사고: 제1원리 연쇄 논리로 복잡한 의사결정 마비를 깨는 법"
 description: "고대 그리스의 대수학자 유클리드가 복잡한 난제를 더 이상 의심할 수 없는 공리(Axiom)로 해체하여 해결해 낸 제1원리 사고법의 역사와 인지 과학을 다룹니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-21"
+updatedDate: "2026-02-21"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/euclid_axiomatic_thinking.png"
+tags: ["의사결정", "본질", "집중", "생산성"]
+heroImage: "/images/blog/euclid_axiomatic_thinking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "유클리드 『원론(Elements)』 및 프로클로스 『원론 주석서(Commentary on Euclid's Elements)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

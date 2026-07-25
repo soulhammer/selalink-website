@@ -1,11 +1,11 @@
 ---
 title: "El Método de Dibujo Microscópico de Robert Hooke: Despertando el Enfoque Prefrontal Mediante Microobservación de 0,01 mm y Sincronización Ojo-Mano"
 description: "Descubra cómo el polímata del siglo XVII Robert Hooke descubrió la primera 'célula' biológica dibujando con un microscopio compuesto. Explore la neurociencia de la sincronización ojo-mano y la memoria visoespacial."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-04"
+updatedDate: "2026-04-04"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/hooke_microscopic_sketching.png"
+tags: ["집중", "관찰", "연구", "세포"]
+heroImage: "/images/blog/hooke_microscopic_sketching.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificación Histórica de *Micrographia* (1665) de Robert Hooke, Archivos de la Royal Society e Investigación en Neurociencia Cognitiva"

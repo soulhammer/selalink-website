@@ -1,11 +1,11 @@
 ---
 title: "O Método de Decomposição da Máquina Diferencial de Charles Babbage: Como Reduzir Erros e Equívocos a 0% Através da Modularização Mecânica de Engrenagens"
 description: "Descubra os fatos históricos do pai dos computadores do século XIX, Charles Babbage, que projetou a primeira calculadora mecânica sem erros do mundo por meio da modularização de engrenagens de precisão, junto com os princípios neurocientíficos da modularização de sistemas."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-10"
+updatedDate: "2026-01-10"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/babbage_difference_engine.png"
+tags: ["논리", "모듈화", "컴퓨터", "기계"]
+heroImage: "/images/blog/babbage_difference_engine.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verificação Histórica da Autobiografia de Charles Babbage *Passages from the Life of a Philosopher* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)"

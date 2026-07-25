@@ -1,11 +1,11 @@
 ---
 title: "Rutinitas Penggosokan Lensa Sferis Antonie van Leeuwenhoek: Menembus Esensi Melalui Mikropasien, Pengamatan Mikro, dan Relaksasi Serebelum"
 description: "Pelajari bagaimana Antonie van Leeuwenhoek, Bapak Mikrobiologi, menggosok lensa kaca sferis 500x dengan tangan untuk menemukan bakteri dan mikroorganisme. Temukan neurosains imersi taktil-visual, relaksasi serebelum, flow gelombang alfa, dan panduan 3 langkah."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-25"
+updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/leeuwenhoek_lens_grinding.png"
+tags: ["집중", "미생물", "인내", "관찰"]
+heroImage: "/images/blog/leeuwenhoek_lens_grinding.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Verifikasi Historis dari Biografi Antonie van Leeuwenhoek, Arsip Korespondensi Royal Society & Penelitian Neurosains Kognitif serta Sains Kontrol Motorik"

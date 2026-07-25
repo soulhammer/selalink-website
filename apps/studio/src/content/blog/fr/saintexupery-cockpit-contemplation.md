@@ -1,11 +1,11 @@
 ---
 title: "생텍쥐페리의 조종석 메모법: 고도의 고독과 군더더기 정제로 본질을 뽑아내는 법"
 description: "《어린 왕자》의 저자이자 비행사인 생텍쥐페리가 상공 조종석의 고독 속에서 구상하고 불필요한 미사여구를 깎아내며 본질에 도달한 글쓰기 습관을 살펴봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-07-18"
+updatedDate: "2026-07-18"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/saintexupery_cockpit_contemplation.png"
+tags: ["글쓰기", "창의성", "사색", "본질"]
+heroImage: "/images/blog/saintexupery_cockpit_contemplation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Saintexupery Cockpit Contemplation 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

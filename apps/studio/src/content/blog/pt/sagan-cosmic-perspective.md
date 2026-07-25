@@ -1,11 +1,11 @@
 ---
 title: "칼 세이건의 우주적 관점: '창백한 푸른 점' 루틴으로 일상의 불안과 스트레스를 리셋하는 법"
 description: "천문학자 칼 세이건이 3분간의 우주적 부감(Zoom-out)으로 일상의 불안을 털어낸 역사적 사실과 '경외감 효과(Awe Effect)'의 뇌과학적 원리를 다룹니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-06-27"
+updatedDate: "2026-06-27"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/sagan_cosmic_perspective.png"
+tags: ["성찰", "마음", "스트레스 해소", "본질"]
+heroImage: "/images/blog/sagan_cosmic_perspective.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Sagan Cosmic Perspective 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

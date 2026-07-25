@@ -1,11 +1,11 @@
 ---
 title: "La pensée axiomatique d'Euclide : Briser la paralysie décisionnelle par la logique déductive des premiers principes"
 description: "Découvrez comment le mathématicien grec Euclide a résolu des dilemmes complexes en les déconstruisant en axiomes indiscutables, explorant l'histoire et la neuroscience cognitive des premiers principes."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-21"
+updatedDate: "2026-02-21"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/euclid_axiomatic_thinking.png"
+tags: ["의사결정", "본질", "집중", "생산성"]
+heroImage: "/images/blog/euclid_axiomatic_thinking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vérification Historique issue des *Éléments* d'Euclide, du *Commentaire sur les Éléments d'Euclide* de Proclus & de la Recherche en Neurosciences Cognitives"

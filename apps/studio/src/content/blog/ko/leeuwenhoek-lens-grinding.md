@@ -1,11 +1,11 @@
 ---
 title: "안토니 판 레이우엔후크의 구형 렌즈 연마법: 지독한 인내와 미시 관찰로 본질을 꿰뚫는 법과 소뇌 이완"
 description: "미생물학의 아버지 판 레이우엔후크가 500배율 구형 렌즈를 직접 연마하여 최초로 박테리아와 미생물을 발견한 역사적 사실과 소뇌·기저핵 이완, 알파파(Alpha Wave) 몰입(Flow) 및 3단계 실천 가이드를 다룹니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-25"
+updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/leeuwenhoek_lens_grinding.png"
+tags: ["집중", "미생물", "인내", "관찰"]
+heroImage: "/images/blog/leeuwenhoek_lens_grinding.webp"
 app: "buildself"
 formatVersion: 4
 authority: "안토니 판 레이우엔후크 전기 사료 및 영국 왕립학회(Royal Society) 서한 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 운동제어학(Motor Control Science) 연구"

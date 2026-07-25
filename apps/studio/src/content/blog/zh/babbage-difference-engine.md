@@ -1,11 +1,11 @@
 ---
 title: "查尔斯·巴贝奇的差分机分解法：通过机械齿轮模块化将误差与失误降至0%的方法"
 description: "探索19世纪计算机之父查尔斯·巴贝奇通过精密齿轮模块化设计出世界上第一台无误差机械计算器的历史事实，以及系统模块化的脑科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-10"
+updatedDate: "2026-01-10"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/babbage_difference_engine.png"
+tags: ["논리", "모듈화", "컴퓨터", "기계"]
+heroImage: "/images/blog/babbage_difference_engine.webp"
 app: "buildself"
 formatVersion: 4
 authority: "查尔斯·巴贝奇自传《Passages from the Life of a Philosopher》考证与认知神经科学（Cognitive Neuroscience）研究"

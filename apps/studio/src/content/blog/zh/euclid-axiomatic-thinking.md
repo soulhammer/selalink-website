@@ -1,11 +1,11 @@
 ---
 title: "欧几里得的公理化思维：利用第一性原理演律链条打破复杂决策瘫痪"
 description: "探讨古希腊大数学家欧几里得如何将复杂难题拆解为毋庸置疑的公理（Axiom）予以破局，揭示第一性原理思维的历史与认知神经科学机制。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-02-21"
+updatedDate: "2026-02-21"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/euclid_axiomatic_thinking.png"
+tags: ["의사결정", "본질", "집중", "생산성"]
+heroImage: "/images/blog/euclid_axiomatic_thinking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "欧几里得《几何原本（Elements）》与普罗克洛斯《几何原本注释（Commentary on Euclid's Elements）》考证及认知神经科学（Cognitive Neuroscience）研究"

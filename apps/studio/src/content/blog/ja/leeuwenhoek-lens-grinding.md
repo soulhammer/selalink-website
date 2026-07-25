@@ -1,11 +1,11 @@
 ---
 title: "アントニ・ファン・レーウェンフックの球形レンズ研磨法：極度の忍耐と微視観察で本質を見抜く方法と小脳リラクセーション"
 description: "微生物学の父ファン・レーウェンフックが500倍率の球形レンズを直接研磨し、初めてバクテリアと微生物を発見した歴史的事実と、小脳・大脳基底核のリラックス、アルファ波（Alpha Wave）没頭（Flow）および3段階実践ガイドを解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-25"
+updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/leeuwenhoek_lens_grinding.png"
+tags: ["집중", "미생물", "인내", "관찰"]
+heroImage: "/images/blog/leeuwenhoek_lens_grinding.webp"
 app: "buildself"
 formatVersion: 4
 authority: "アントニ・ファン・レーウェンフック伝記史料およびイギリス王立協会（Royal Society）書簡史料考証＆認知神経科学（Cognitive Neuroscience）および運動制御学（Motor Control Science）研究"

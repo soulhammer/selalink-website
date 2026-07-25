@@ -1,11 +1,11 @@
 ---
 title: "루이 다게르의 은판 노출법: 찰나의 순간을 영원히 고정시켜 최고의 영감을 보존하는 법"
 description: "19세기 프랑스의 발명가 루이 다게르가 은판 화학 반응 노출법으로 인류 최초의 실용 사진을 발명한 역사적 사실과 순간 시각 고정의 뇌과학적 원리를 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-31"
+updatedDate: "2026-01-31"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/daguerre_silver_plate.png"
+tags: ["찰나", "사진", "화학", "기록"]
+heroImage: "/images/blog/daguerre_silver_plate.webp"
 app: "buildself"
 formatVersion: 4
 authority: "루이 다게르 『다게레오타입의 역사와 기술(Historique et description des procédés du Daguerréotype)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

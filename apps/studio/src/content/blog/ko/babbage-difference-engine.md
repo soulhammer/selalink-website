@@ -1,11 +1,11 @@
 ---
 title: "찰스 배비지의 차분기관 분해법: 기계적 톱니바퀴 모듈화로 오차와 실수를 0%로 만드는 법"
 description: "19세기 컴퓨터의 아버지 찰스 배비지가 정밀 톱니바퀴 모듈화로 오차 없는 세계 최초 기계식 계산기를 설계한 역사적 사실과 시스템 모듈화의 뇌과학적 원리를 알아봅니다."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-10"
+updatedDate: "2026-01-10"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/babbage_difference_engine.png"
+tags: ["논리", "모듈화", "컴퓨터", "기계"]
+heroImage: "/images/blog/babbage_difference_engine.webp"
 app: "buildself"
 formatVersion: 4
 authority: "찰스 배비지 자서전 『Passages from the Life of a Philosopher』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"

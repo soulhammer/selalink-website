@@ -1,11 +1,11 @@
 ---
 title: "チャールズ・バベッジの差分機関分解法：機械的歯車モジュール化で誤差とミスを0%にする方法"
 description: "19世紀のコンピュータの父チャールズ・バベッジが、精密な歯車のモジュール化により誤差のない世界初の機械式計算機を設計した歴史的事実と、システムモジュール化の脳科学的原理を探ります。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-10"
+updatedDate: "2026-01-10"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/babbage_difference_engine.png"
+tags: ["논리", "모듈화", "컴퓨터", "기계"]
+heroImage: "/images/blog/babbage_difference_engine.webp"
 app: "buildself"
 formatVersion: 4
 authority: "チャールズ・バベッジ自伝『Passages from the Life of a Philosopher』考証＆認知神経科学（Cognitive Neuroscience）研究"

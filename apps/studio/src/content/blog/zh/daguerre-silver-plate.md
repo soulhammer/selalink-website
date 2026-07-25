@@ -1,11 +1,11 @@
 ---
 title: "路易·达盖尔的银版感光法：定格刹那瞬间与永久保存至高灵感"
 description: "探索19世纪法国发明家路易·达盖尔通过银版化学反应感光法发明人类首个实用摄影术的历史事实，揭示瞬间视觉定格的神经科学原理。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-01-31"
+updatedDate: "2026-01-31"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/daguerre_silver_plate.png"
+tags: ["찰나", "사진", "화학", "기록"]
+heroImage: "/images/blog/daguerre_silver_plate.webp"
 app: "buildself"
 formatVersion: 4
 authority: "路易·达盖尔《银版摄影术的历史与技术（Historique et description des procédés du Daguerréotype）》考证与认知神经科学（Cognitive Neuroscience）研究"

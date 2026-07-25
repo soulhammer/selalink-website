@@ -1,11 +1,11 @@
 ---
 title: "ウィリアム・ハーヴィの血液循環定量検証法：客観的数値計算で盲目的な偏見を打ち破る方法"
 description: "17世紀のイギリスの医師ウィリアム・ハーヴィが、心臓拍動量の数学的定量計算で2000年間西洋を支配した盲目的な通念を打ち破った歴史的事実と、数値検証の脳科学を解き明かします。"
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-03-14"
+updatedDate: "2026-03-14"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/harvey_blood_circulation.png"
+tags: ["수치", "검증", "순환", "의학"]
+heroImage: "/images/blog/harvey_blood_circulation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ウィリアム・ハーヴィ著作集『動物の心臓と血液の運動について（De Motu Cordis）』考証＆認知神経科学（Cognitive Neuroscience）研究"

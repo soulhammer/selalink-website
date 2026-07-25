@@ -1,11 +1,11 @@
 ---
 title: "Antonie van Leeuwenhoek's Spherical Lens Grinding Routine: Penetrating the Essence via Relentless Micro-Patience, Micro-Observation, and Cerebellar Relaxation"
 description: "Discover how Antonie van Leeuwenhoek, the Father of Microbiology, hand-ground 500x spherical single-glass lenses to discover bacteria and micro-organisms. Explore the neuroscience of tactile-visual immersion, cerebellar relaxation, alpha-wave flow, and a 3-step action guide."
-pubDate: "2026-06-19"
-updatedDate: "2026-06-19"
+pubDate: "2026-04-25"
+updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["위습관","루틴"]
-heroImage: "/images/blog/leeuwenhoek_lens_grinding.png"
+tags: ["집중", "미생물", "인내", "관찰"]
+heroImage: "/images/blog/leeuwenhoek_lens_grinding.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Verification from Antonie van Leeuwenhoek's Biographies, Royal Society of London Correspondence Archives & Cognitive Neuroscience and Motor Control Science Research"
