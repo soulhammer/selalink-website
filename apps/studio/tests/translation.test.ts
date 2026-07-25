@@ -208,10 +208,10 @@ describe('블로그 콘텐츠 다국어 검증 및 구조적 정합성 테스트
           const koRawContent = fs.readFileSync(koFilePath, 'utf-8');
           const koParts = koRawContent.split('---');
           const koFm = koParts.length >= 3 ? koParts[1] : '';
-          hasKoFaqs = koFm.includes('faqs:') || koFm.includes('faqs');
+          hasKoFaqs = (koFm.includes('faqs:') || koFm.includes('faqs')) && !koFm.includes('faqs: []');
         }
 
-        const hasFaqsInFm = frontmatter.includes('faqs:') || frontmatter.includes('faqs');
+        const hasFaqsInFm = (frontmatter.includes('faqs:') || frontmatter.includes('faqs')) && !frontmatter.includes('faqs: []');
 
         if (hasKoFaqs && lang !== 'ko') {
           expect(

@@ -23,11 +23,11 @@ faqs:
     answer: "Yes. Cleaning up 3 temporary desktop files or writing down your target remaining unread emails (e.g., 'Target: 5 left') in your physical notepad exerts the exact same cortical control benefits."
 ---
 
-"Unsanitary environments and emotional nursing lacking empirical data drive patients to death." ð¯ï¸
+"Unsanitary environments and emotional nursing lacking empirical data drive patients to death." 🕯️
 
-Florence Nightingale (1820â1910) was the founder of modern nursing, a healthcare administrator, and a pioneering British statistician who saved thousands of wounded soldiers during the Crimean War. Carrying a single lamp through four miles of dark, harrowing hospital corridors every night, she earned the moniker 'The Lady with the Lamp'.
+Florence Nightingale (1820–1910) was the founder of modern nursing, a healthcare administrator, and a pioneering British statistician who saved thousands of wounded soldiers during the Crimean War. Carrying a single lamp through four miles of dark, harrowing hospital corridors every night, she earned the moniker 'The Lady with the Lamp'.
 
-Yet beyond offering comfort, Nightingale meticulously recorded quantitative metricsâpatient temperatures, dampness of bedding, and ventilation airflowâon her notepad. Her innovative 'Rose Diagram' (coxcomb chart) and empirical datasets slashed field hospital mortality rates dramatically from 42% down to 2%. Her systematic assessment routine established a new paradigm in medical statistics.
+Yet beyond offering comfort, Nightingale meticulously recorded quantitative metrics—patient temperatures, dampness of bedding, and ventilation airflow—on her notepad. Her innovative 'Rose Diagram' (coxcomb chart) and empirical datasets slashed field hospital mortality rates dramatically from 42% down to 2%. Her systematic assessment routine established a new paradigm in medical statistics.
 
 In today's post, we explore the cognitive neuroscience behind her nightly observational rounds and present a 3-step practical framework to sharpen environmental awareness and executive precision in daily life.
 

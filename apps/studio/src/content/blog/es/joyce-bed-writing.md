@@ -18,7 +18,7 @@ steps:
     text: "Sin preocuparse por la caligrafía o la gramática, garabatee libremente palabras clave, esquemas o ideas en el papel para despejar el desorden mental y organizar sus pensamientos."
 faqs:
   - question: "¿Por qué vestía James Joyce una bata blanca al escribir en la cama?"
-    answer: "La bata blanca actuaba como un reflector natural que proyectaba la luz ambiente sobre el papel sin causar deslumbramiento. Funcionaba como una herramienta analógica de iluminación que ay� a sus ojos dañados a distinguir las palabras."
+    answer: "La bata blanca actuaba como un reflector natural que proyectaba la luz ambiente sobre el papel sin causar deslumbramiento. Funcionaba como una herramienta analógica de iluminación que ayudaba a sus ojos dañados a distinguir las palabras."
   - question: "¿Trabajar recostado en la cama o sofá no produce somnolencia?"
     answer: "Para evitar dormirse, evite estar completamente plano. Eleve su torso entre 30 y 45 grados usando cojines en cuña y trabaje en bloques cortas de 20 minutos seguidas de breves descansos para regular la alerta cerebral."
 ---
@@ -96,7 +96,7 @@ Para James Joyce, escribir en la cama fue una adaptación brillante para superar
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      La bata blanca actuaba como un reflector natural que proyectaba la luz ambiente sobre el papel sin causar deslumbramiento. Funcionaba como una herramienta analógica de iluminación que ay� a sus ojos dañados a distinguir las palabras.
+      La bata blanca actuaba como un reflector natural que proyectaba la luz ambiente sobre el papel sin causar deslumbramiento. Funcionaba como una herramienta analógica de iluminación que ayudaba a sus ojos dañados a distinguir las palabras.
     </p>
   </details>
   <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>

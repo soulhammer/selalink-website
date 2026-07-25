@@ -23,9 +23,9 @@ faqs:
     answer: "Jalan-jalan di luar ruangan adalah yang terbaik, namun jika tidak memungkinkan, berjalan perlahan di koridor atau ruang kantor tetap dapat menyegarkan fokus."
 ---
 
-"Semua pemikiran yang benar-benar besar lahir saat berjalan kaki." ð¶ââï¸
+"Semua pemikiran yang benar-benar besar lahir saat berjalan kaki." 🚶‍♂️
 
-Friedrich Nietzsche (1844â1900) adalah filsuf besar Jerman yang dikenal sebagai 'filsuf bermartil' yang mengguncang dasar filsafat Barat. Mantan profesor filologi di Universitas Basel ini melahirkan pemikiran-pemikiran tajamnya di mana? Nietzsche sangat membenci cara belajar konvensional yang duduk terpaku di meja. Meski menderita migrain kronis dan penyakit perut sepanjang hidupnya, ia justru bergerak aktif untuk mengatasi rasa sakit dan membebaskan pikirannya.
+Friedrich Nietzsche (1844–1900) adalah filsuf besar Jerman yang dikenal sebagai 'filsuf bermartil' yang mengguncang dasar filsafat Barat. Mantan profesor filologi di Universitas Basel ini melahirkan pemikiran-pemikiran tajamnya di mana? Nietzsche sangat membenci cara belajar konvensional yang duduk terpaku di meja. Meski menderita migrain kronis dan penyakit perut sepanjang hidupnya, ia justru bergerak aktif untuk mengatasi rasa sakit dan membebaskan pikirannya.
 
 Saat menjalani pemulihan di desa pegunungan Sils Maria, Swiss, Nietzsche berjalan kaki 6 hingga 8 jam setiap hari. Ia selalu membawa buku catatan saku dan pensil, lalu berhenti seketika saat ide filosofis muncul. Konsep utama mahakaryanya seperti 'Demikianlah Bersabda Zarathustra', 'Sains yang Mengasyikkan', dan 'Di Luar Kebaikan dan Kejahatan' lahir di sepanjang tepi danau dan hutan Sils Maria.
 

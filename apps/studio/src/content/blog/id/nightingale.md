@@ -23,9 +23,9 @@ faqs:
     answer: "Ya. Membuang 3 file sementara dari desktop dan mencatat target sisa email di buku catatan memberikan efek kendali kortikal yang sama persis."
 ---
 
-"Lingkungan tidak higienis dan perawatan emosional tanpa data mengarahkan pasien pada kematian." ð¯ï¸
+"Lingkungan tidak higienis dan perawatan emosional tanpa data mengarahkan pasien pada kematian." 🕯️
 
-Florence Nightingale (1820â1910) adalah pendiri keperawatan modern dan statistikawan pelopor yang menyelamatkan ribuan prajurit dalam Perang Krimea. Menyusuri koridor rumah sakit sepanjang 4 mil setiap malam dengan lentera, ia memantau kondisi medis secara rinci.
+Florence Nightingale (1820–1910) adalah pendiri keperawatan modern dan statistikawan pelopor yang menyelamatkan ribuan prajurit dalam Perang Krimea. Menyusuri koridor rumah sakit sepanjang 4 mil setiap malam dengan lentera, ia memantau kondisi medis secara rinci.
 
 Ia mencatat data kuantitatif seperti suhu tubuh, kelembapan tempat tidur, dan sirkulasi udara. 'Diagram Mawar' ciptaannya menekan tingkat kematian dari 42% menjadi 2%. Rutinitasnya menetapkan standar statistik medis.
 

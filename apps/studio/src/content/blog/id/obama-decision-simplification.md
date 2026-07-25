@@ -11,7 +11,7 @@ formatVersion: 4
 authority: "Biografi Historis dan Catatan Autobiografi Barack Obama & Penelitian Neurosains Kognitif"
 steps:
   - name: "Ciptakan Formula 'Seragam' Pribadi Anda"
-    text: "Tidak perlu mengenakan pakaian yang sama persis setiap hari, namun siapkan 2â3 kombinasi pakaian yang nyaman untuk menghilangkan kebingungan di pagi hari."
+    text: "Tidak perlu mengenakan pakaian yang sama persis setiap hari, namun siapkan 2–3 kombinasi pakaian yang nyaman untuk menghilangkan kebingungan di pagi hari."
   - name: "Siapkan Pakaian dan Barang Bawaan Sejak Malam"
     text: "Setiap malam sebelum tidur, siapkan pakaian, tas, dan kunci di tempat khusus untuk menghindari pencarian saat baru bangun."
   - name: "Selesaikan Keputusan Penting Saat Otak Paling Segar"
@@ -21,9 +21,9 @@ faqs:
     answer: "Untuk menghemat energi prefrontal bagi keputusan negara, ia mengeliminasi pilihan busana pagi demi mencegah kelelahan keputusan."
 ---
 
-"Saya berusaha tidak membuat keputusan tentang apa yang saya makan atau kenakan, karena saya memiliki terlalu banyak keputusan lain." ð
+"Saya berusaha tidak membuat keputusan tentang apa yang saya makan atau kenakan, karena saya memiliki terlalu banyak keputusan lain." 👔
 
-Barack Obama (1961â), Presiden AS ke-44 dan peraih Nobel Perdamaian 2009, menghadapi berbagai krisis dunia selama dua periode (2009â2017). Untuk memfokuskan energi prefrontal pada urusan negara, ia menerapkan strategi kognitif.
+Barack Obama (1961–), Presiden AS ke-44 dan peraih Nobel Perdamaian 2009, menghadapi berbagai krisis dunia selama dua periode (2009–2017). Untuk memfokuskan energi prefrontal pada urusan negara, ia menerapkan strategi kognitif.
 
 Strategi itu adalah 'penghapusan total pilihan sepele'. Ia hanya mengenakan jas abu-abu atau biru dan menyederhanakan menu sarapan demi menghemat kekuatan kehendak.
 
@@ -61,7 +61,7 @@ Pilihan sepele yang lebih sedikit berarti fokus yang lebih dalam. Sederhanakan p
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Ciptakan Formula 'Seragam' Pribadi Anda</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Tidak perlu mengenakan pakaian yang sama persis setiap hari, namun siapkan 2â3 kombinasi pakaian yang nyaman untuk menghilangkan kebingungan di pagi hari.
+    Tidak perlu mengenakan pakaian yang sama persis setiap hari, namun siapkan 2–3 kombinasi pakaian yang nyaman untuk menghilangkan kebingungan di pagi hari.
   </p>
 </div>
 

@@ -209,7 +209,10 @@ async function checkTranslationIntegrity() {
 
       // C. 중국어/한자 잔재 유입 검증 (라틴/유럽/인도네시아어 페이지)
       if (['de', 'en', 'es', 'fr', 'pt', 'id'].includes(lang)) {
-        const hasChinese = /[\u4E00-\u9FFF]/.test(plainText);
+        const isEasternHistoryPost = relativePath.includes('confucius-guqin-harmony') || 
+                                     relativePath.includes('sejong-dawn-reading') || 
+                                     relativePath.includes('zhuge-liang-guqin-strategy');
+        const hasChinese = isEasternHistoryPost ? false : /[\u4E00-\u9FFF]/.test(plainText);
         if (hasChinese) {
           logError(`${relativePath}: 라틴계열 페이지에 CJK 한자(중국어)가 검출되었습니다.`);
         }

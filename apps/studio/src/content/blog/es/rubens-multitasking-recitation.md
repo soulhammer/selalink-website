@@ -18,7 +18,7 @@ steps:
     text: "Mantenga la precisión manual constante mientras permite que su córtex lingüístico siga la narrativa narrada, conservando la alerta mental. Esto evita distracciones y sostiene una alta productividad."
 faqs:
   - question: "¿Escuchar música popular o la radio produce el mismo efecto que la rutina de Rubens?"
-    answer: "No. La música pop o la radio estimulan emociones o generan distracciones a�s sin ocupar densamente el canal lingüístico; la publicidad interrumpe el enfoque. Lo ideal son recitaciones académicas o lecturas que involucren lógica y conocimiento."
+    answer: "No. La música pop o la radio estimulan emociones o generan distracciones audaces sin ocupar densamente el canal lingüístico; la publicidad interrumpe el enfoque. Lo ideal son recitaciones académicas o lecturas que involucren lógica y conocimiento."
   - question: "¿Qué volumen es adecuado al seguir esta rutina de escucha de recitaciones?"
     answer: "No debe ser ni demasiado alto ni demasiado bajo. Un volumen moderado (unos 50–60 dB), similar a alguien leyéndole suavemente al lado, es ideal. Se recomienda usar un altavoz Bluetooth o auriculares de oído abierto."
 ---
@@ -96,7 +96,7 @@ Para tareas principales que requieren un alto procesamiento lingüístico o lóg
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      No. La música pop o la radio estimulan emociones o generan distracciones a�s sin ocupar densamente el canal lingüístico; la publicidad interrumpe el enfoque. Lo ideal son recitaciones académicas o lecturas que involucren lógica y conocimiento.
+      No. La música pop o la radio estimulan emociones o generan distracciones audaces sin ocupar densamente el canal lingüístico; la publicidad interrumpe el enfoque. Lo ideal son recitaciones académicas o lecturas que involucren lógica y conocimiento.
     </p>
   </details>
   <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>

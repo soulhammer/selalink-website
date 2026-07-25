@@ -1,6 +1,6 @@
 ---
 title: "Das Geheimnis erfolgreicher Entscheidungen? Barack Obamas Routine zur Entscheidungsvereinfachung"
-description: "Erfahren Sie mehr Ã¼ber Obamas Routine zur Entscheidungsvereinfachung. Ein 3-Schritte-Leitfaden zur Schonung prÃ¤frontaler Energie und zur Maximierung der EntscheidungsqualitÃ¤t."
+description: "Erfahren Sie mehr über Obamas Routine zur Entscheidungsvereinfachung. Ein 3-Schritte-Leitfaden zur Schonung präfrontaler Energie und zur Maximierung der Entscheidungsqualität."
 pubDate: "2026-01-06"
 updatedDate: "2026-01-06"
 category: "BuildSelf"
@@ -11,23 +11,23 @@ formatVersion: 4
 authority: "Historische Biografien und autobiografische Aufzeichnungen von Barack Obama & Kognitive Neurowissenschaften"
 steps:
   - name: "Ein eigenes 'Einheits-Outfit' etablieren"
-    text: "Sie mÃ¼ssen nicht wie Steve Jobs jeden Tag Dasselbe tragen; definieren Sie 2â3 verlÃ¤ssliche Outfit-Kombinationen, um morgendliche GrÃ¼beleien zu verhindern."
+    text: "Sie müssen nicht wie Steve Jobs jeden Tag Dasselbe tragen; definieren Sie 2–3 verlässliche Outfit-Kombinationen, um morgendliche Grübeleien zu verhindern."
   - name: "Kleidung und Utensilien am Vorabend bereitlegen"
-    text: "Legen Sie jeden Abend Kleidung, SchlÃ¼ssel und Tasche bereit. Das erspart kraftraubendes Suchen am Morgen."
+    text: "Legen Sie jeden Abend Kleidung, Schlüssel und Tasche bereit. Das erspart kraftraubendes Suchen am Morgen."
   - name: "Wichtige Entscheidungen im frischesten Geisteszustand treffen"
     text: "Nutzen Sie die am Morgen gesparte Energie. Verschwenden Sie sie nicht mit Mails, sondern treffen Sie die schwerste Entscheidung zuerst."
 faqs:
-  - question: "Warum trug Barack Obama nur graue und blaue AnzÃ¼ge?"
-    answer: "Um prÃ¤frontale Energie fÃ¼r wichtige Staatsentscheidungen zu schonen, strich er alltÃ¤gliche Kleiderentscheidungen, um EntscheidungsmÃ¼digkeit zu vermeiden."
+  - question: "Warum trug Barack Obama nur graue und blaue Anzüge?"
+    answer: "Um präfrontale Energie für wichtige Staatsentscheidungen zu schonen, strich er alltägliche Kleiderentscheidungen, um Entscheidungsmüdigkeit zu vermeiden."
 ---
 
-"Ich versuche, keine Entscheidungen darÃ¼ber zu treffen, was ich esse oder trage, weil ich zu viele andere Entscheidungen zu treffen habe." ð
+"Ich versuche, keine Entscheidungen darüber zu treffen, was ich esse oder trage, weil ich zu viele andere Entscheidungen zu treffen habe." 👔
 
-Barack Obama (1961â), Absolvent der Harvard Law School und 44. PrÃ¤sident der USA, trug wÃ¤hrend seiner Amtszeit (2009â2017) immense Verantwortung. Um seine prÃ¤frontale Energie fÃ¼r StaatsgeschÃ¤fte zu schonen, wandte er ein System an.
+Barack Obama (1961–), Absolvent der Harvard Law School und 44. Präsident der USA, trug während seiner Amtszeit (2009–2017) immense Verantwortung. Um seine präfrontale Energie für Staatsgeschäfte zu schonen, wandte er ein System an.
 
-Sein Prinzip war die 'vollstÃ¤ndige Eliminierung belangloser Entscheidungen'. Er trug nur graue oder blaue AnzÃ¼ge und standardisierte sein FrÃ¼hstÃ¼ck. Dies verhinderte EntscheidungsmÃ¼digkeit.
+Sein Prinzip war die 'vollständige Eliminierung belangloser Entscheidungen'. Er trug nur graue oder blaue Anzüge und standardisierte sein Frühstück. Dies verhinderte Entscheidungsmüdigkeit.
 
-In diesem Beitrag analysieren wir die Kognitionswissenschaft hinter Obamas Routine und bieten eine 3-Schritte-Anleitung fÃ¼r den Alltag.
+In diesem Beitrag analysieren wir die Kognitionswissenschaft hinter Obamas Routine und bieten eine 3-Schritte-Anleitung für den Alltag.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -43,15 +43,15 @@ In diesem Beitrag analysieren wir die Kognitionswissenschaft hinter Obamas Routi
 
 ---
 
-## EntscheidungsmÃ¼digkeit & Ego-Depletion: Grenzen des Gehirns
+## Entscheidungsmüdigkeit & Ego-Depletion: Grenzen des Gehirns
 
-Empirische Studien zeigen, dass EntscheidungsfÃ¤higkeit wie eine begrenzte Batterie funktioniert. Kleine Alltagsentscheidungen rauben prÃ¤frontale Energie. Dieser Zustand heiÃt <strong>'Ego-Depletion'</strong> oder <strong>'EntscheidungsmÃ¼digkeit'</strong>.
+Empirische Studien zeigen, dass Entscheidungsfähigkeit wie eine begrenzte Batterie funktioniert. Kleine Alltagsentscheidungen rauben präfrontale Energie. Dieser Zustand heißt <strong>'Ego-Depletion'</strong> oder <strong>'Entscheidungsmüdigkeit'</strong>.
 
-Bei hoher EntscheidungsmÃ¼digkeit sinkt die kognitive Kontrolle. Indem Obama morgendliche AblÃ¤ufe automatisierte, schonte er seine Energie fÃ¼r Kernentscheidungen.
+Bei hoher Entscheidungsmüdigkeit sinkt die kognitive Kontrolle. Indem Obama morgendliche Abläufe automatisierte, schonte er seine Energie für Kernentscheidungen.
 
 ---
 
-## Neurowissenschaftlicher Rat fÃ¼r effiziente Entscheidungen
+## Neurowissenschaftlicher Rat für effiziente Entscheidungen
 
 Weniger unwichtige Entscheidungen bedeuten tiefere Konzentration. Vereinfachen Sie Alltagsentscheidungen, um kognitive Energieverluste zu vermeiden.
 
@@ -61,7 +61,7 @@ Weniger unwichtige Entscheidungen bedeuten tiefere Konzentration. Vereinfachen S
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Ein eigenes 'Einheits-Outfit' etablieren</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Sie mÃ¼ssen nicht wie Steve Jobs jeden Tag Dasselbe tragen; definieren Sie 2â3 verlÃ¤ssliche Outfit-Kombinationen, um morgendliche GrÃ¼beleien zu verhindern.
+    Sie müssen nicht wie Steve Jobs jeden Tag Dasselbe tragen; definieren Sie 2–3 verlässliche Outfit-Kombinationen, um morgendliche Grübeleien zu verhindern.
   </p>
 </div>
 
@@ -71,7 +71,7 @@ Weniger unwichtige Entscheidungen bedeuten tiefere Konzentration. Vereinfachen S
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Kleidung und Utensilien am Vorabend bereitlegen</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Legen Sie jeden Abend Kleidung, SchlÃ¼ssel und Tasche bereit. Das erspart kraftraubendes Suchen am Morgen.
+    Legen Sie jeden Abend Kleidung, Schlüssel und Tasche bereit. Das erspart kraftraubendes Suchen am Morgen.
   </p>
 </div>
 
@@ -92,11 +92,11 @@ Weniger unwichtige Entscheidungen bedeuten tiefere Konzentration. Vereinfachen S
   
   <details class="group cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Warum trug Barack Obama nur graue und blaue AnzÃ¼ge?</span>
+      <span>Warum trug Barack Obama nur graue und blaue Anzüge?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Um prÃ¤frontale Energie fÃ¼r wichtige Staatsentscheidungen zu schonen, strich er alltÃ¤gliche Kleiderentscheidungen, um EntscheidungsmÃ¼digkeit zu vermeiden.
+      Um präfrontale Energie für wichtige Staatsentscheidungen zu schonen, strich er alltägliche Kleiderentscheidungen, um Entscheidungsmüdigkeit zu vermeiden.
     </p>
   </details>
 </div>

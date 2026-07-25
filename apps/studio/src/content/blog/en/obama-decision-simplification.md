@@ -11,7 +11,7 @@ formatVersion: 4
 authority: "Historical Biographies and Autobiographical Verification of Barack Obama & Cognitive Neuroscience Research"
 steps:
   - name: "Establish Your Personal 'Uniform' Formula"
-    text: "You don't need an identical daily outfit like Steve Jobs, but establish 2â3 comfortable go-to outfit combinations. This eliminates morning mirror deliberation completely."
+    text: "You don't need an identical daily outfit like Steve Jobs, but establish 2–3 comfortable go-to outfit combinations. This eliminates morning mirror deliberation completely."
   - name: "Pre-Set Clothing and Essentials the Night Before"
     text: "Every evening before bed or over the weekend, place tomorrow's clothes, bag, keys, and wallet in a designated spot. This blocks pointless searching while your brain is groggy."
   - name: "Tackle High-Stakes Decisions in Your Peak Mental State"
@@ -21,9 +21,9 @@ faqs:
     answer: "To preserve prefrontal brain energy for the countless critical decisions he faced daily as President, he completely blocked trivial morning choices about clothing and meals to prevent decision fatigue."
 ---
 
-"You'll see I wear only gray or blue suits. I'm trying to pare down decisions. I don't want to make decisions about what I'm eating or wearing. Because I have too many other decisions to make." ð
+"You'll see I wear only gray or blue suits. I'm trying to pare down decisions. I don't want to make decisions about what I'm eating or wearing. Because I have too many other decisions to make." 👔
 
-Barack Obama (1961â), a graduate of Columbia University and Harvard Law School, was elected the 44th President of the United States, becoming the nation's first African American president and receiving the 2009 Nobel Peace Prize. Serving two terms from 2009 to 2017 amidst economic crises and complex global conflicts, he bore the weight of decisions that reshaped world affairs daily. To channel his prefrontal executive energy strictly toward critical matters of state, Obama adopted a calculated cognitive strategy.
+Barack Obama (1961–), a graduate of Columbia University and Harvard Law School, was elected the 44th President of the United States, becoming the nation's first African American president and receiving the 2009 Nobel Peace Prize. Serving two terms from 2009 to 2017 amidst economic crises and complex global conflicts, he bore the weight of decisions that reshaped world affairs daily. To channel his prefrontal executive energy strictly toward critical matters of state, Obama adopted a calculated cognitive strategy.
 
 That strategy was the 'elimination of trivial choices'. President Obama restricted his wardrobe exclusively to gray or navy suits and simplified his daily breakfast menu. In interviews, he clarified that this uniform was not a lack of fashion interest, but a deliberate cognitive tool engineered to preserve willpower and executive functioning for high-stakes national policy decisions and crisis response.
 
@@ -61,7 +61,7 @@ Fewer minor choices yield deeper cognitive focus. Streamline daily selection pro
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Establish Your Personal 'Uniform' Formula</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    You don't need an identical daily outfit like Steve Jobs, but establish 2â3 comfortable go-to outfit combinations. This eliminates morning mirror deliberation completely.
+    You don't need an identical daily outfit like Steve Jobs, but establish 2–3 comfortable go-to outfit combinations. This eliminates morning mirror deliberation completely.
   </p>
 </div>
 

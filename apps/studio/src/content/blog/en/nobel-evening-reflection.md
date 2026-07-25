@@ -23,9 +23,9 @@ faqs:
     answer: "Minimize the burden by switching from full prose to a 3-keyword recap to keep friction low."
 ---
 
-"When errors and attempts of the day are reviewed through objective records, uncertainty is sublimated into great invention." ð§ª
+"When errors and attempts of the day are reviewed through objective records, uncertainty is sublimated into great invention." 🧪
 
-Alfred Nobel (1833â1896) was the brilliant Swedish chemist, industrialist, and inventor of dynamite who established the world-renowned Nobel Prizes to honor human peace and scientific progress. How did a single inventor acquire 355 patents worldwide while managing a multinational industrial empire? The foundation lay in his disciplined evening reflection habit.
+Alfred Nobel (1833–1896) was the brilliant Swedish chemist, industrialist, and inventor of dynamite who established the world-renowned Nobel Prizes to honor human peace and scientific progress. How did a single inventor acquire 355 patents worldwide while managing a multinational industrial empire? The foundation lay in his disciplined evening reflection habit.
 
 After perilous daytime chemical tests and exhausting business negotiations, Nobel retired to his study every evening to review the day's experimental logs. Fluent in Swedish, English, French, German, and Russian, he frequently translated and rephrased his logs across these languages to reconstruct errors and insights with extreme analytical precision. Spending just 15 minutes each evening reviewing his records served as a metacognitive workout that consolidated memory and purified operational logic.
 
@@ -55,7 +55,7 @@ Summarizing and reviewing daily logs in the evening, as Nobel did, facilitates h
 
 ## Focus on Facts and Corrections, Not Emotional Self-Blame
 
-There is no need for emotional self-blame regarding daytime errors. Treat missteps as cool objective dataâwhat was attempted and what needs adjustmentâjust like Nobel's laboratory notebooks. Rather than relying solely on willpower, design a physical environment and habitual triggers to sustain consistency naturally.
+There is no need for emotional self-blame regarding daytime errors. Treat missteps as cool objective data—what was attempted and what needs adjustment—just like Nobel's laboratory notebooks. Rather than relying solely on willpower, design a physical environment and habitual triggers to sustain consistency naturally.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">

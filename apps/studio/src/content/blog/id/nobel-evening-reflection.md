@@ -23,9 +23,9 @@ faqs:
     answer: "Kurangi beban dengan mengganti tulisan panjang menjadi 3 kata kunci utama."
 ---
 
-"Ketika kesalahan dan percobaan harian diulas melalui catatan objektif, ketidakpastian berubah menjadi penemuan besar." ð§ª
+"Ketika kesalahan dan percobaan harian diulas melalui catatan objektif, ketidakpastian berubah menjadi penemuan besar." 🧪
 
-Alfred Nobel (1833â1896) adalah kimiawan Swedia penemu dinamit dan penggagas Hadiah Nobel. Bagaimana ia berhasil mengamankan 355 paten? Jawabannya terletak pada rutinitas refleksi malamnya.
+Alfred Nobel (1833–1896) adalah kimiawan Swedia penemu dinamit dan penggagas Hadiah Nobel. Bagaimana ia berhasil mengamankan 355 paten? Jawabannya terletak pada rutinitas refleksi malamnya.
 
 Setiap malam di ruang kerjanya, Nobel mengulas kembali catatan eksperimen harian. Menguasai bahasa Swedia, Inggris, Prancis, Jerman, dan Rusia, ia secara bergantian mencatat dalam berbagai bahasa untuk merekonstruksi temuan dan kesalahan. Refleksi 15 menit ini menjadi latihan metakognitif yang ampuh.
 

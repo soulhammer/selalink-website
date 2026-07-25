@@ -23,9 +23,9 @@ faqs:
     answer: "Outdoor nature walks are ideal; however, if unavailable, quietly pacing along an indoor hallway or open office space can still trigger cognitive shifts and reset your focus."
 ---
 
-"All truly great thoughts are conceived while walking." ð¶ââï¸
+"All truly great thoughts are conceived while walking." 🚶‍♂️
 
-Friedrich Nietzsche (1844â1900) was the iconoclastic German philosopher known as the 'philosopher with a hammer' who shattered traditional Western metaphysics. Having served as a professor of classical philology at the University of Basel before embarking on his solitary philosophical quest, where were his piercing insights born? Nietzsche fiercely despised conventional desk-bound study. Tormented throughout his life by debilitating migraines, eye pain, and stomach ailments, he actively mobilized his physical body to transcend suffering and liberate his intellect.
+Friedrich Nietzsche (1844–1900) was the iconoclastic German philosopher known as the 'philosopher with a hammer' who shattered traditional Western metaphysics. Having served as a professor of classical philology at the University of Basel before embarking on his solitary philosophical quest, where were his piercing insights born? Nietzsche fiercely despised conventional desk-bound study. Tormented throughout his life by debilitating migraines, eye pain, and stomach ailments, he actively mobilized his physical body to transcend suffering and liberate his intellect.
 
 While recovering in the high Alpine village of Sils Maria, Switzerland, Nietzsche walked six to eight hours every day. He carried a small pocket notebook and pencil wherever he went, halting mid-stride to capture philosophical flashes as they struck. The foundational ideas of his masterpieces, including 'Thus Spoke Zarathustra', 'The Gay Science', and 'Beyond Good and Evil', erupted during these long walks along the serene shores and pine forests of Sils Maria.
 
