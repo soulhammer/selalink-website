@@ -10,12 +10,12 @@ app: "buildself"
 formatVersion: 4
 authority: "Biografias históricas, registros autobiográficos de Karl Marx e pesquisas em neurociencia cognitiva (Cognitive Neuroscience)"
 steps:
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
+  - name: "Passo 1: Extração multidimensional de dados brutos"
+    text: "Explore diretamente os dados brutos primários (relatórios estatísticos, textos originais) em vez de confiar em resumos secundários. Mergulhe no texto original por pelo menos 60 - 90 minutos em um ambiente silencioso."
+  - name: "Passo 2: Caderno de extratos analógico e comentário crítico"
+    text: "Transcreva trechos fundamentais da literatura à mão em um caderno físico. Abaixo de cada extrato, adicione suas próprias perguntas e respostas críticas."
+  - name: "Passo 3: Síntese associative multidimensionnelle"
+    text: "Conecte os pontos de dados acumulados nos cadernos de extratos sob múltiplos ângulos. Execute uma síntese abrangente, fundindo fragmentos díspares em uma macroestrutura."
 faqs:
   - question: "Como os profissionais ou estudantes modernos podem aplicar a rotina de leitura de 10 horas do Museu Britânico?"
     answer: "Replique a 'densidade de concentração' em vez da duração. Aplique isso como uma 'Sessão de Leitura Micro-Profunda', desligando seu smartphone por 60 - 90 minutos em uma biblioteca."
@@ -58,30 +58,30 @@ Simplesmente salvar inúmeros artigos digitais ou PDFs e folheá-los visualmente
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">PASSO 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Passo 1: Extração multidimensional de dados brutos</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Explore diretamente os dados brutos primários (relatórios estatísticos, textos originais) em vez de confiar em resumos secundários. Mergulhe no texto original por pelo menos 60 - 90 minutos em um ambiente silencioso.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">PASSO 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Passo 2: Caderno de extratos analógico e comentário crítico</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Transcreva trechos fundamentais da literatura à mão em um caderno físico. Abaixo de cada extrato, adicione suas próprias perguntas e respostas críticas.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">PASSO 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Passo 3: Síntese associative multidimensionnelle</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Conecte os pontos de dados acumulados nos cadernos de extratos sob múltiplos ângulos. Execute uma síntese abrangente, fundindo fragmentos díspares em uma macroestrutura.
   </p>
 </div>
 

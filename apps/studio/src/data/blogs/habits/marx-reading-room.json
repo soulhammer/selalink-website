@@ -90,7 +90,7 @@
     },
     "steps": [
       {
-        "title": {
+        "name": {
           "ko": "1단계: 원시 데이터 다차원 수집 (Raw Data Extraction)",
           "en": "Step 1: Multidimensional Raw Data Extraction",
           "ja": "ステップ1：一次データの多次元収集（Raw Data Extraction）",
@@ -101,7 +101,7 @@
           "pt": "Passo 1: Extração multidimensional de dados brutos",
           "id": "Langkah 1: Ekstraksi Data Mentah Multidimensi"
         },
-        "desc": {
+        "text": {
           "ko": "단순한 2차 요약집에 의존하지 않고 1차 원전 데이터(통계 보고서, 원서, 공공 장부 등)를 직접 탐색합니다. 외부 알림이 완전히 차단된 정적 공간에서 최소 60분 - 90분간 원전에 직접 몰입합니다.",
           "en": "Directly explore primary raw data (statistical reports, original texts, official ledgers) rather than relying on secondary summaries. Immerse yourself in the original text for at least 60 - 90 minutes in a quiet environment free from digital notifications.",
           "ja": "単純な二次要約に頼らず、一次原典データ（統計報告書、原書、公的帳簿など）を直接探索します。外部通知が完全遮断された静寂な空間で、最低60 - 90分間原典に直接没頭します。",
@@ -114,7 +114,7 @@
         }
       },
       {
-        "title": {
+        "name": {
           "ko": "2단계: 아날로그 초록 노트 및 비판적 주석 작성 (Excerpt & Commentary)",
           "en": "Step 2: Analog Excerpt Notebook & Critical Commentary",
           "ja": "ステップ2：手書き摘録ノートと批判的注釈の作成（Excerpt & Commentary）",
@@ -125,7 +125,7 @@
           "pt": "Passo 2: Caderno de extratos analógico e comentário crítico",
           "id": "Langkah 2: Buku Catatan Kutipan Analog & Komentar Kritis"
         },
-        "desc": {
+        "text": {
           "ko": "읽은 문헌의 핵심 구절을 아날로그 노트에 직접 손으로 옮겨 적습니다(Copying). 그 밑에 '왜 이 수치가 나타났는가?', '기존 이론과의 모순점은 무엇인가?'라는 자신만의 비판적 질의응답을 덧붙입니다.",
           "en": "Transcribe key passages of the literature by hand into a physical notebook. Below each excerpt, append your own critical Q&A, asking questions such as 'Why did this figure occur?' and 'What is the contradiction with existing theories?'",
           "ja": "読んだ文献の核心一節をノートに手書きで書き写します（Copying）。その下に「なぜこの数値が現れたのか？」「既存理論との矛盾点は何か？」という独自の批判的質疑応答を書き加えます。",
@@ -138,7 +138,7 @@
         }
       },
       {
-        "title": {
+        "name": {
           "ko": "3단계: 연합 피질 다차원 지식 재구성 (Associative Synthesis)",
           "en": "Step 3: Multidimensional Associative Synthesis in Association Cortex",
           "ja": "ステップ3：連合皮質による多次元知識の再構成（Associative Synthesis）",
@@ -149,7 +149,7 @@
           "pt": "Passo 3: Síntese associative multidimensionnelle",
           "id": "Langkah 3: Sintesis Asosiatif Multidimensi"
         },
-        "desc": {
+        "text": {
           "ko": "축적된 초록 노트의 수많은 데이터와 메타 데이터를 다각도로 연결합니다. 서로 다른 이종 파편들을 하나의 거대한 거시적 법칙이나 지적 프레임워크로 융합 재구성하는 종합 집필을 실행합니다.",
           "en": "Connect accumulated data points from excerpt notebooks from multiple angles. Execute comprehensive synthesis, fusing disparate fragments into a macro framework or systematic theory.",
           "ja": "蓄積された摘録ノートの数多くのデータとメタデータを多角的に連結します。互いに異なる断片を一目見た巨視的な法則や知的フレームワークへと融合・再構成する総合執筆を実行します。",

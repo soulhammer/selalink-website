@@ -10,12 +10,12 @@ app: "buildself"
 formatVersion: 4
 authority: "Biografías históricas, registros autobiográficos de Karl Marx e investigación en neurociencia cognitiva (Cognitive Neuroscience)"
 steps:
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
+  - name: "Paso 1: Extracción multidimensional de datos sin procesar"
+    text: "Explore directamente los datos primarios sin procesar (informes estadísticos, textos originales) en lugar de confiar en resúmenes secundarios. Sumérjase en el texto original durante al menos 60 - 90 minutos en un entorno silencioso."
+  - name: "Paso 2: Cuaderno de extractos analógico y comentario crítico"
+    text: "Transcriba pasajes clave de la literatura a mano en un cuaderno físico. Debajo de cada extracto, agregue sus propias preguntas y respuestas críticas."
+  - name: "Paso 3: Síntesis asociativa multidimensional"
+    text: "Conecte los puntos de datos acumulados en los cuadernos de extractos desde múltiples ángulos. Ejecute una síntesis integral, fusionando fragmentos dispares en un marco macro."
 faqs:
   - question: "¿Cómo pueden los profesionales o estudiantes modernos aplicar la rutina de lectura de 10 horas del Museo Británico?"
     answer: "Debe replicar la 'densidad de concentración' en lugar de la duración. Aplique esto como una 'Sesión de Lectura Micro Profunda' apagando su teléfono durante 60 - 90 minutos por la mañana o los fines de semana en una biblioteca."
@@ -58,30 +58,30 @@ Guardar numerosos artículos digitales o PDF y hojearlos visualmente solo deja u
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">PASO 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Paso 1: Extracción multidimensional de datos sin procesar</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Explore directamente los datos primarios sin procesar (informes estadísticos, textos originales) en lugar de confiar en resúmenes secundarios. Sumérjase en el texto original durante al menos 60 - 90 minutos en un entorno silencioso.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">PASO 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Paso 2: Cuaderno de extractos analógico y comentario crítico</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Transcriba pasajes clave de la literatura a mano en un cuaderno físico. Debajo de cada extracto, agregue sus propias preguntas y respuestas críticas.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">PASO 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Paso 3: Síntesis asociativa multidimensional</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Conecte los puntos de datos acumulados en los cuadernos de extractos desde múltiples ángulos. Ejecute una síntesis integral, fusionando fragmentos dispares en un marco macro.
   </p>
 </div>
 

@@ -10,12 +10,12 @@ app: "buildself"
 formatVersion: 4
 authority: "Historical biographies, autobiographical records of Karl Marx & Cognitive Neuroscience research"
 steps:
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
+  - name: "Step 1: Multidimensional Raw Data Extraction"
+    text: "Directly explore primary raw data (statistical reports, original texts, official ledgers) rather than relying on secondary summaries. Immerse yourself in the original text for at least 60 - 90 minutes in a quiet environment free from digital notifications."
+  - name: "Step 2: Analog Excerpt Notebook & Critical Commentary"
+    text: "Transcribe key passages of the literature by hand into a physical notebook. Below each excerpt, append your own critical Q&A, asking questions such as 'Why did this figure occur?' and 'What is the contradiction with existing theories?'"
+  - name: "Step 3: Multidimensional Associative Synthesis in Association Cortex"
+    text: "Connect accumulated data points from excerpt notebooks from multiple angles. Execute comprehensive synthesis, fusing disparate fragments into a macro framework or systematic theory."
 faqs:
   - question: "Q1. How can modern professionals or students apply the 10-hour British Museum reading routine?"
     answer: "Because modern individuals cannot easily sustain 10 hours daily, you should replicate the 'concentration density' rather than the duration. Apply this as a 'Micro Deep Reading Session' by turning off your smartphone for 60 - 90 minutes early in the morning or on weekends in a library to fully immerse in one analog primary text."
@@ -58,30 +58,30 @@ Simply saving numerous digital articles or PDFs and skimming them visually leave
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Step 1: Multidimensional Raw Data Extraction</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Directly explore primary raw data (statistical reports, original texts, official ledgers) rather than relying on secondary summaries. Immerse yourself in the original text for at least 60 - 90 minutes in a quiet environment free from digital notifications.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Step 2: Analog Excerpt Notebook & Critical Commentary</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Transcribe key passages of the literature by hand into a physical notebook. Below each excerpt, append your own critical Q&A, asking questions such as 'Why did this figure occur?' and 'What is the contradiction with existing theories?'
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Step 3: Multidimensional Associative Synthesis in Association Cortex</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Connect accumulated data points from excerpt notebooks from multiple angles. Execute comprehensive synthesis, fusing disparate fragments into a macro framework or systematic theory.
   </p>
 </div>
 

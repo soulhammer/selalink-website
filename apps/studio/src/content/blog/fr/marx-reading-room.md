@@ -10,12 +10,12 @@ app: "buildself"
 formatVersion: 4
 authority: "Biographies historiques, récits autobiographiques de Karl Marx et recherches en neurosciences cognitives (Cognitive Neuroscience)"
 steps:
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
+  - name: "Étape 1 : Extraction multidimensionnelle des données brutes"
+    text: "Explorez directement les données brutes primaires (rapports statistiques, textes originaux) plutôt que de vous fier à des résumés secondaires. Immergez-vous dans le texte original pendant au moins 60 - 90 minutes dans un environnement calme."
+  - name: "Étape 2 : Cahier d'extraits analogique et commentaire critique"
+    text: "Transcrivez les passages clés de la littérature à la main dans un cahier physique. Sous chaque extrait, ajoutez vos propres questions et réponses critiques."
+  - name: "Étape 3 : Synthèse associative multidimensionnelle"
+    text: "Connectez les points de données accumulés dans les cahiers d'extraits sous de multiples angles. Effectuez une synthèse globale, en fusionnant des fragments disparates en un macro-cadre."
 faqs:
   - question: "Comment les professionnels ou étudiants modernes peuvent-ils appliquer la routine de lecture de 10 heures du British Museum ?"
     answer: "Reproduisez la 'densité de concentration' plutôt que la durée. Appliquez cela sous la forme d'une 'Session de lecture micro-profonde' en éteignant votre smartphone pendant 60 - 90 minutes dans une bibliothèque."
@@ -58,30 +58,30 @@ Le simple fait de sauvegarder de nombreux articles numériques ou PDF et de les 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">ÉTAPE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Étape 1 : Extraction multidimensionnelle des données brutes</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Explorez directement les données brutes primaires (rapports statistiques, textes originaux) plutôt que de vous fier à des résumés secondaires. Immergez-vous dans le texte original pendant au moins 60 - 90 minutes dans un environnement calme.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">ÉTAPE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Étape 2 : Cahier d'extraits analogique et commentaire critique</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Transcrivez les passages clés de la littérature à la main dans un cahier physique. Sous chaque extrait, ajoutez vos propres questions et réponses critiques.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">ÉTAPE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Étape 3 : Synthèse associative multidimensionnelle</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Connectez les points de données accumulés dans les cahiers d'extraits sous de multiples angles. Effectuez une synthèse globale, en fusionnant des fragments disparates en un macro-cadre.
   </p>
 </div>
 

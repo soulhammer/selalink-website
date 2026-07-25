@@ -10,12 +10,12 @@ app: "buildself"
 formatVersion: 4
 authority: "卡尔·马克思历史评传及自传记录考证与认知神经科学（Cognitive Neuroscience）研究"
 steps:
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
+  - name: "步骤1：多维原始数据提取（Raw Data Extraction）"
+    text: "拒绝依赖二手摘要，直接研读第一手原始文献（统计报告、原著、官方账簿等）。在完全切断数字通知的安静环境中，全神贯注阅读原著至少60 - 90分钟。"
+  - name: "步骤2：手写摘录笔记与批判性注释（Excerpt & Commentary）"
+    text: "将研读文献的核心段落手写抄录至实体笔记本中。在每条摘录下方，附上自问自答式的批判性注释，如“该数据背后的深层原因是什么？”、“与现有理论存在何种矛盾？”。"
+  - name: "步骤3：联合皮层多维知识重构（Associative Synthesis）"
+    text: "将积累的多本摘录笔记中的庞大数据与元信息进行多角度交叉互联。把彼此独立的碎片融合成宏观的系统性法则或知识框架，完成终极合成写作。"
 faqs:
   - question: "Q1. 现代职场人或学生如何借鉴大英博物馆的10小时阅读习惯？"
     answer: "现代人很难每天 allocated 10小时，因此重点在于复制其“专注密度”而非“时长”。可以在周末或清晨抽出60 - 90分钟，关闭手机，在图书馆或安静空间里全神贯注研读一本纸质原著，建立“微型深度阅读单元”。"
@@ -58,30 +58,30 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">步骤 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">步骤1：多维原始数据提取（Raw Data Extraction）</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    拒绝依赖二手摘要，直接研读第一手原始文献（统计报告、原著、官方账簿等）。在完全切断数字通知的安静环境中，全神贯注阅读原著至少60 - 90分钟。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">步骤 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">步骤2：手写摘录笔记与批判性注释（Excerpt & Commentary）</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    将研读文献的核心段落手写抄录至实体笔记本中。在每条摘录下方，附上自问自答式的批判性注释，如“该数据背后的深层原因是什么？”、“与现有理论存在何种矛盾？”。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">步骤 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">步骤3：联合皮层多维知识重构（Associative Synthesis）</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    将积累的多本摘录笔记中的庞大数据与元信息进行多角度交叉互联。把彼此独立的碎片融合成宏观的系统性法则或知识框架，完成终极合成写作。
   </p>
 </div>
 

@@ -10,12 +10,12 @@ app: "buildself"
 formatVersion: 4
 authority: "Biografi historis, catatan autobiografi Karl Marx & penelitian neurosains kognitif (Cognitive Neuroscience)"
 steps:
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
+  - name: "Langkah 1: Ekstraksi Data Mentah Multidimensi"
+    text: "Jelajahi data mentah primer (laporan statistik, teks asli) secara langsung daripada mengandalkan ringkasan sekunder. Larutkan diri dalam teks asli setidaknya selama 60 - 90 menit di lingkungan yang tenang."
+  - name: "Langkah 2: Buku Catatan Kutipan Analog & Komentar Kritis"
+    text: "Salin bagian penting dari literatur dengan tangan ke dalam buku catatan fisik. Di bawah setiap kutipan, tambahkan tanya jawab kritis Anda sendiri."
+  - name: "Langkah 3: Sintesis Asosiatif Multidimensi"
+    text: "Hubungkan poin data yang terkumpul dari buku catatan kutipan dari berbagai sudut. Lakukan sintesis komprehensif, menggabungkan fragmen terpisah menjadi kerangka makro."
 faqs:
   - question: "Bagaimana profesional atau siswa modern dapat menerapkan rutinitas membaca 10 jam British Museum?"
     answer: "Tiru 'densitas konsentrasi' daripada durasinya. Terapkan ini sebagai 'Sesi Membaca Mikro Mendalam' dengan mematikan ponsel Anda selama 60 - 90 menit di perpustakaan."
@@ -58,30 +58,30 @@ Sekadar menyimpan banyak artikel digital atau PDF dan memindainya secara visual 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">LANGKAH 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Langkah 1: Ekstraksi Data Mentah Multidimensi</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Jelajahi data mentah primer (laporan statistik, teks asli) secara langsung daripada mengandalkan ringkasan sekunder. Larutkan diri dalam teks asli setidaknya selama 60 - 90 menit di lingkungan yang tenang.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">LANGKAH 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Langkah 2: Buku Catatan Kutipan Analog & Komentar Kritis</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Salin bagian penting dari literatur dengan tangan ke dalam buku catatan fisik. Di bawah setiap kutipan, tambahkan tanya jawab kritis Anda sendiri.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">LANGKAH 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Langkah 3: Sintesis Asosiatif Multidimensi</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Hubungkan poin data yang terkumpul dari buku catatan kutipan dari berbagai sudut. Lakukan sintesis komprehensif, menggabungkan fragmen terpisah menjadi kerangka makro.
   </p>
 </div>
 

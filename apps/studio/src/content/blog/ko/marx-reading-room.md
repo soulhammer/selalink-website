@@ -10,12 +10,12 @@ app: "buildself"
 formatVersion: 4
 authority: "카를 마르크스 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
 steps:
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
+  - name: "1단계: 원시 데이터 다차원 수집 (Raw Data Extraction)"
+    text: "단순한 2차 요약집에 의존하지 않고 1차 원전 데이터(통계 보고서, 원서, 공공 장부 등)를 직접 탐색합니다. 외부 알림이 완전히 차단된 정적 공간에서 최소 60분 - 90분간 원전에 직접 몰입합니다."
+  - name: "2단계: 아날로그 초록 노트 및 비판적 주석 작성 (Excerpt & Commentary)"
+    text: "읽은 문헌의 핵심 구절을 아날로그 노트에 직접 손으로 옮겨 적습니다(Copying). 그 밑에 '왜 이 수치가 나타났는가?', '기존 이론과의 모순점은 무엇인가?'라는 자신만의 비판적 질의응답을 덧붙입니다."
+  - name: "3단계: 연합 피질 다차원 지식 재구성 (Associative Synthesis)"
+    text: "축적된 초록 노트의 수많은 데이터와 메타 데이터를 다각도로 연결합니다. 서로 다른 이종 파편들을 하나의 거대한 거시적 법칙이나 지적 프레임워크로 융합 재구성하는 종합 집필을 실행합니다."
 faqs:
   - question: "Q1. 대영박물관 10시간 독서를 현대 직장인이나 학생이 적용하려면 어떻게 해야 하나요?"
     answer: "현대인은 하루 10시간을 지속하기 어렵기 때문에 '시간 분량'이 아닌 '집중 밀도'를 복제해야 합니다. 주말이나 아침 일찍 60분 - 90분 동안 스마트폰을 끄고 도서관이나 조용한 공간에서 하나의 원전 아날로그 텍스트에 완전히 몰입하는 '마이크로 딥 리딩 세션'으로 적용할 수 있습니다."
@@ -58,30 +58,30 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">1단계: 원시 데이터 다차원 수집 (Raw Data Extraction)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    단순한 2차 요약집에 의존하지 않고 1차 원전 데이터(통계 보고서, 원서, 공공 장부 등)를 직접 탐색합니다. 외부 알림이 완전히 차단된 정적 공간에서 최소 60분 - 90분간 원전에 직접 몰입합니다.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">2단계: 아날로그 초록 노트 및 비판적 주석 작성 (Excerpt & Commentary)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    읽은 문헌의 핵심 구절을 아날로그 노트에 직접 손으로 옮겨 적습니다(Copying). 그 밑에 '왜 이 수치가 나타났는가?', '기존 이론과의 모순점은 무엇인가?'라는 자신만의 비판적 질의응답을 덧붙입니다.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">3단계: 연합 피질 다차원 지식 재구성 (Associative Synthesis)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    축적된 초록 노트의 수많은 데이터와 메타 데이터를 다각도로 연결합니다. 서로 다른 이종 파편들을 하나의 거대한 거시적 법칙이나 지적 프레임워크로 융합 재구성하는 종합 집필을 실행합니다.
   </p>
 </div>
 

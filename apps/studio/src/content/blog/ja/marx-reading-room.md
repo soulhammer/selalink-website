@@ -10,12 +10,12 @@ app: "buildself"
 formatVersion: 4
 authority: "カール・マルクスの歴史的評伝・自伝的記録の考証および認知神経科学（Cognitive Neuroscience）研究"
 steps:
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
+  - name: "ステップ1：一次データの多次元収集（Raw Data Extraction）"
+    text: "単純な二次要約に頼らず、一次原典データ（統計報告書、原書、公的帳簿など）を直接探索します。外部通知が完全遮断された静寂な空間で、最低60 - 90分間原典に直接没頭します。"
+  - name: "ステップ2：手書き摘録ノートと批判的注釈の作成（Excerpt & Commentary）"
+    text: "読んだ文献の核心一節をノートに手書きで書き写します（Copying）。その下に「なぜこの数値が現れたのか？」「既存理論との矛盾点は何か？」という独自の批判的質疑応答を書き加えます。"
+  - name: "ステップ3：連合皮質による多次元知識の再構成（Associative Synthesis）"
+    text: "蓄積された摘録ノートの数多くのデータとメタデータを多角的に連結します。互いに異なる断片を一目見た巨視的な法則や知的フレームワークへと融合・再構成する総合執筆を実行します。"
 faqs:
   - question: "Q1. 大英博物館の10時間読書を現代の社会人や学生が応用するにはどうすればよいですか？"
     answer: "現代人が毎日10時間を維持するのは困難なため、「時間の量」ではなく「集中の密度」を複製すべきです。週末や早朝の60 - 90分間、スマートフォンを切り、図書館や静かな空間で一つの原典アナログテキストに完全に没頭する「マイクロディープリーディングセッション」として応用できます。"
@@ -58,30 +58,30 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">ステップ 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">ステップ1：一次データの多次元収集（Raw Data Extraction）</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    単純な二次要約に頼らず、一次原典データ（統計報告書、原書、公的帳簿など）を直接探索します。外部通知が完全遮断された静寂な空間で、最低60 - 90分間原典に直接没頭します。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">ステップ 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">ステップ2：手書き摘録ノートと批判的注釈の作成（Excerpt & Commentary）</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    読んだ文献の核心一節をノートに手書きで書き写します（Copying）。その下に「なぜこの数値が現れたのか？」「既存理論との矛盾点は何か？」という独自の批判的質疑応答を書き加えます。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">ステップ 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">ステップ3：連合皮質による多次元知識の再構成（Associative Synthesis）</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    蓄積された摘録ノートの数多くのデータとメタデータを多角的に連結します。互いに異なる断片を一目見た巨視的な法則や知的フレームワークへと融合・再構成する総合執筆を実行します。
   </p>
 </div>
 

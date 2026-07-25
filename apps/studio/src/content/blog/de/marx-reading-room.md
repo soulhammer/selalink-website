@@ -10,12 +10,12 @@ app: "buildself"
 formatVersion: 4
 authority: "Historische Biografien, autobiografische Aufzeichnungen zu Karl Marx & kognitionswissenschaftliche (Cognitive Neuroscience) Forschung"
 steps:
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
+  - name: "Schritt 1: Multidimensionale Extraktion von Rohdaten"
+    text: "Erkunden Sie primäre Rohdaten (Statistikberichte, Originaltexte) direkt, anstatt sich auf sekundäre Zusammenfassungen zu verlassen. Vertiefen Sie sich mindestens 60 - 90 Minuten lang in einem ruhigen Umfeld in den Originaltext."
+  - name: "Schritt 2: Analoges Exzerptbuch & kritischer Kommentar"
+    text: "Schreiben Sie Schlüsselpassagen der Literatur handschriftlich in ein physisches Notizbuch. Fügen Sie unter jedem Exzerpt Ihre eigenen kritischen Fragen und Antworten hinzu."
+  - name: "Schritt 3: Multidimensionale assoziative Synthese"
+    text: "Verbinden Sie die gesammelten Datenpunkte aus den Exzerptbüchern aus mehreren Blickwinkeln. Führen Sie eine umfassende Synthese durch und fügen Sie unterschiedliche Fragmente zu einem Makrorahmen zusammen."
 faqs:
   - question: "Wie können moderne Berufstätige oder Studierende die 10-stündige Leseroutine des British Museum anwenden?"
     answer: "Replizieren Sie eher die 'Konzentrationsdichte' als die Dauer. Wenden Sie dies als 'Mikro-Deep-Reading-Sitzung' an, indem Sie Ihr Smartphone morgens oder am Wochenende in einer Bibliothek für 60 - 90 Minuten ausschalten."
@@ -58,30 +58,30 @@ Das bloße Speichern zahlreicher digitaler Artikel oder PDFs und deren visuelles
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">SCHRITT 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Schritt 1: Multidimensionale Extraktion von Rohdaten</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Erkunden Sie primäre Rohdaten (Statistikberichte, Originaltexte) direkt, anstatt sich auf sekundäre Zusammenfassungen zu verlassen. Vertiefen Sie sich mindestens 60 - 90 Minuten lang in einem ruhigen Umfeld in den Originaltext.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">SCHRITT 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Schritt 2: Analoges Exzerptbuch & kritischer Kommentar</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Schreiben Sie Schlüsselpassagen der Literatur handschriftlich in ein physisches Notizbuch. Fügen Sie unter jedem Exzerpt Ihre eigenen kritischen Fragen und Antworten hinzu.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">SCHRITT 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Schritt 3: Multidimensionale assoziative Synthese</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Verbinden Sie die gesammelten Datenpunkte aus den Exzerptbüchern aus mehreren Blickwinkeln. Führen Sie eine umfassende Synthese durch und fügen Sie unterschiedliche Fragmente zu einem Makrorahmen zusammen.
   </p>
 </div>
 
