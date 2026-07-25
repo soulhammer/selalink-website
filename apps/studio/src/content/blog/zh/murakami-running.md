@@ -1,6 +1,6 @@
 ---
-title: "매일 아침 10km를 달리는 작가? 무라카미 하루키의 기초 체력 루틴"
-description: "전 세계적인 베스트셀러 소설가 무라카미 하루키. 그의 철저한 아침 10km 달리기 루틴 속에 숨겨진 뇌과학적 원리와 현대인을 위한 3단계 실천법을 알아봅니다."
+title: "每天清晨跑步10公里的作家：村上春树的基础体能习惯"
+description: "享誉世界的畅销书作家村上春树。探索他严律清晨10公里跑步习惯中蕴含的脑科学原理，以及适合现代人的三步实践指南。"
 pubDate: "2026-06-26"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
@@ -8,25 +8,27 @@ tags: ["위인 습관", "무라카미 하루키", "달리기", "루틴", "체력
 heroImage: "/images/blog/murakami_running.webp"
 app: "buildself"
 formatVersion: 4
-authority: "무라카미 하루키 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+authority: "村上春树历史评传及自传记录考证与认知神经科学研究"
 steps:
-  - name: "Put on running gear immediately upon waking"
-    text: "To avoid hesitation about whether to run or not when you wake up in the morning, change into your pre-prepared running gear immediately. The act of dressing your body sends the first trigger signal to the brain that it is time to move."
-  - name: "Focus on regular time rather than distance"
-    text: "You do not need to run 10km from the start. Start by lightly running for 20-30 minutes at a set time (e.g., 8 PM after work) and gradually increase the distance. The key is not speed, but instilling a regular rhythm into your body."
-  - name: "Use running as a time for self-dialogue"
-    text: "Do not check complex messages or emails on your smartphone while running; focus solely on your breathing rhythm and the sensation of your feet touching the ground. This mindful run becomes the best mental detox to organize a cluttered mind."
+  - name: "起床后立即换上跑步运动服"
+    text: "为杜绝清晨醒来时犹豫“跑还是不跑”的认知内耗，起床后立即换上预先准备好的跑步服。为身体着装这一具体行动会向大脑传递“是时候行动了”的最初切换信号。"
+  - name: "比起距离更应关注固定时间与节奏"
+    text: "无需一开始就强求跑完10公里。可以从固定时间段（如早晨或下班后20~30分钟）的轻松慢跑开始，再逐步增加距离。关键不在于速度快慢，而在于将规律的行动节奏印刻进身体中。"
+  - name: "将跑步转化为沉思与内心中道静修的时段"
+    text: "跑步过程中切勿查看手机上的复杂消息或邮件，专心感受呼吸的频率与脚掌触地的感知。这种正念跑步是理清繁杂思绪、实现精神解毒的极佳途径。"
 faqs:
-  - question: "하루키는 왜 매일 10km를 달리나요?"
-    answer: "소설 집필에 필요한 고도의 집중력과 지구력을 지탱하기 위해, 유산소 운동으로 뇌세포를 자극하고 물리적인 체력 기반을 구축하기 위함입니다."
+  - question: "村上春树为何坚持每天跑步10公里？"
+    answer: "为了支撑撰写长篇小说所需的高高度专注力与持久力，他通过有氧运动刺激脑细胞，建立起坚实的物理体能基础。"
 
 ---
 
-《상실의 시대》, 《1Q84》 등 발표하는 작품마다 전 세계적인 열풍을 일으키는 현대 일본 문학의 거장 무라카미 하루키. 그는 소설가인 동시에 40년 넘게 매년 마라톤 풀코스를 완주해 온 열정적인 러너이기도 합니다. 🏃‍♂️
+“只有不断奔跑的创作者，才能持续从创意的井底汲取深水。” 🏃‍♂️
 
-하루키는 1982년 전업 작가의 길로 들어서면서 앉아서 글만 쓰는 생활이 가져다주는 체력 저하와 체중 증가를 겪었습니다. 그는 소설가가 장기적으로 창작 활동을 이어나가기 위해서는 단순한 재능을 넘어, 고도의 집중력을 며칠이고 몇 달이고 유지할 수 있는 강인한 '기초 체력'이 필수적임을 깨달았습니다. 이에 담배를 과감히 끊고 매일 아침 10km를 달리거나 1,500m를 수영하는 루틴을 시작해 전 세계 어디를 가든 이를 고수하고 있습니다.
+村上春树（Haruki Murakami, 1949– ）是当代日本文学的代表巨匠，其作品如《挪威的森林》、《海边的卡夫卡》、《1Q84》、《小城与不确定性的墙》等每次出版皆引发全球轰动。作品被翻译成50多种语言、征服数千万读者的他，既是一位名扬世界的长篇小说家，同时也是一位40多年来每年都坚持跑完全程马拉松的热血长跑者。
 
-오늘 포스트에서는 하루키의 철저한 달리기에 숨겨진 과학적 이유와 현대인들이 일상에서 체력 루틴을 다지는 방법을 살펴봅니다.
+1982年结业爵士酒吧转型为全职作家后，村上经历了久坐写作带来的体能下降、注意力衰退与体重增加。他敏锐地意识到，要维持长期的创作生命，除了天赋之外，能够支撑数月高度专注的强健“基础体能”不可或缺。于是他毅然戒烟，确立了每天清晨跑步10公里或游泳1,500米的严格习惯，无论身在世界何处皆雷打不动。正如他在随笔集《当我谈跑步时我谈些什么》中所言，跑步是他抵御写作带来剧烈精神负荷的坚实肉体防线。
+
+在今天的文章中，我们将剖析村上春树跑步习惯中蕴含的脑科学原理，并探讨现代人如何在日常生活中打造高度集中的精神专注力。
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -35,50 +37,54 @@ faqs:
       历史 and 学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 murakami-running 的内容基于 <strong>무라카미 하루키 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong> 撰写。
+      关于 murakami-running 的内容基于 <strong>村上春树历史评传及自传记录考证与认知神经科学研究</strong> 撰写。
     </p>
   </div>
 </div>
 
 ---
 
-## 뇌의 젊음을 유지하는 러닝의 뇌과학
+## 保持大脑年轻活力的跑步脑科学
 
-소설을 쓰는 것은 극도의 정신적 에너지를 소모하는 작업입니다. 하루키는 매일 일정량의 원고를 쓰는 고단한 정신 작업을 지탱하기 위해 달리기를 통해 뇌를 단련했습니다.nn실제로 장거리 달리기와 같은 지속적인 유산소 운동은 뇌의 해마 영역에 산소와 영양분을 공급하여 신경세포의 생성을 촉진합니다. 뇌과학 연구에 따르면, 달리기는 뇌신경영양인자(BDNF) 수치를 높여 장기 기억력과 학습 능력을 강화합니다. 또한, 달리면서 분비되는 엔도르핀과 엔도카나비노이드는 스트레스 호르몬인 코르티솔의 분비를 억제하여 정신적 압박감이 심한 현대인들의 두뇌를 평온하게 유지해 줍니다.
+撰写小说是一项极其消耗精神能量的工作。村上春树通过跑步锻炼大脑，以支撑每天输出定量原稿的繁重脑力劳动。
+
+长距离跑步等持续的有氧运动能够为大脑海马体区域提供丰富的氧气与养分，促进神经元的再生。脑科学研究表明，跑步能够显著提升脑源性神经营养因子（BDNF）水平，增强长期记忆力与认知灵活性。此外，跑步时分泌的内啡肽与内源性大麻素能够有效抑制压力激素皮质醇，让身处剧烈压力下的现代人保持内心宁静。
 
 ---
 
-## 성공적인 루틴을 위한 뇌과학적 한마디
+## 构建成功习惯的脑科学忠告
 
-<strong>꾸준한 반복이 뇌의 리듬을 만듭니다</strong>nn매일 반복하는 단순한 신체 활동은 의지력을 소모하지 않는 '자동화 루틴'으로 정착됩니다. 일단 뇌에 이 리듬이 새겨지면, 일을 하거나 글을 쓸 때 생기는 극심한 정신적 부하도 견뎌낼 수 있는 단단한 기초 체력적 방어벽이 형성됩니다. 하루키처럼 규칙적인 운동을 삶의 최우선 순위로 올려두고 리듬을 유지해 보세요.
+<strong>持之以恒的重复塑造大脑的节律</strong>
+
+每天重复进行的简单身体活动会转化为不消耗意志力的“自动化习惯”。一旦这种节奏在大脑中形成刻印，就能筑起一道坚固的基础体能防线，抵御工作或创作中产生的剧烈精神负荷。不妨像村上春树一样，将规律运动置于生活的最高优先级，保持良好的生活节奏。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">步骤 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Put on running gear immediately upon waking</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">起床后立即换上跑步运动服</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    To avoid hesitation about whether to run or not when you wake up in the morning, change into your pre-prepared running gear immediately. The act of dressing your body sends the first trigger signal to the brain that it is time to move.
+    为杜绝清晨醒来时犹豫“跑还是不跑”的认知内耗，起床后立即换上预先准备好的跑步服。为身体着装这一具体行动会向大脑传递“是时候行动了”的最初切换信号。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">步骤 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Focus on regular time rather than distance</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">比起距离更应关注固定时间与节奏</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    You do not need to run 10km from the start. Start by lightly running for 20-30 minutes at a set time (e.g., 8 PM after work) and gradually increase the distance. The key is not speed, but instilling a regular rhythm into your body.
+    无需一开始就强求跑完10公里。可以从固定时间段（如早晨或下班后20~30分钟）的轻松慢跑开始，再逐步增加距离。关键不在于速度快慢，而在于将规律的行动节奏印刻进身体中。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">步骤 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Use running as a time for self-dialogue</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">将跑步转化为沉思与内心中道静修的时段</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Do not check complex messages or emails on your smartphone while running; focus solely on your breathing rhythm and the sensation of your feet touching the ground. This mindful run becomes the best mental detox to organize a cluttered mind.
+    跑步过程中切勿查看手机上的复杂消息或邮件，专心感受呼吸的频率与脚掌触地的感知。这种正念跑步是理清繁杂思绪、实现精神解毒的极佳途径。
   </p>
 </div>
 
@@ -89,11 +95,11 @@ faqs:
   
   <details class="group cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>하루키는 왜 매일 10km를 달리나요?</span>
+      <span>村上春树为何坚持每天跑步10公里？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      소설 집필에 필요한 고도의 집중력과 지구력을 지탱하기 위해, 유산소 운동으로 뇌세포를 자극하고 물리적인 체력 기반을 구축하기 위함입니다.
+      为了支撑撰写长篇小说所需的高高度专注力与持久力，他通过有氧运动刺激脑细胞，建立起坚实的物理体能基础。
     </p>
   </details>
 </div>

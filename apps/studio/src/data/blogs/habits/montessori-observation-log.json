@@ -1,70 +1,214 @@
 {
   "montessori-observation-log": {
     "title": {
-      "ko": "현대 유아교육 혁명가? 마리아 몽테소리의 객관적 관찰 일지 루틴"
+      "ko": "현대 유아교육 혁명가: 마리아 몽테소리의 객관적 관찰 일지 루틴",
+      "en": "Modern Early Education Innovator: Maria Montessori's Objective Observation Log Routine",
+      "ja": "現代幼児教育の革命家：マリア・モンテッソーリの客観的観察日誌習慣",
+      "zh": "现代早期教育革新家：玛利亚·蒙台梭利的客观观察日志习惯",
+      "es": "Innovadora de la educación infantil moderna: La rutina de registro de observación objetiva de Maria Montessori",
+      "de": "Pionierin der modernen Frühpädagogik: Maria Montessoris Routine des objektiven Beobachtungstagebuchs",
+      "fr": "Pionnière de l'éducation enfantine moderne : La routine du journal d'observation objective de Maria Montessori",
+      "pt": "Inovadora da educação infantil moderna: A rotina do diário de observação objetiva de Maria Montessori",
+      "id": "Inovator Pendidikan Anak Dini Modern: Rutinitas Catatan Pengamatan Objektif Maria Montessori"
     },
     "description": {
-      "ko": "이탈리아 최초의 여성 의사이자 교육학자 마리아 몽테소리. 주관적 편견을 차단하고 본질을 파악했던 그녀의 객관적 관찰 기술과 3단계 가이드."
+      "ko": "이탈리아 최초의 여성 의사이자 교육학자 마리아 몽테소리. 주관적 편견을 차단하고 본질을 파악했던 그녀의 객관적 관찰 기술과 3단계 가이드.",
+      "en": "Maria Montessori, Italy's first female physician and pioneer educator. Discover her objective observation techniques that eliminated subjective bias to uncover true essences, along with a 3-step guide.",
+      "ja": "イタリア初の女性医師であり教育学者のマリア・モンテッソーリ。主観的偏見を遮断し本質を把握した彼女の客観的観察技術と3段階ガイド。",
+      "zh": "意大利第一位女性医生兼教育学家玛利亚·蒙台梭利。探索她排斥主观偏见、洞察事物本质的客观观察技巧及三步实践指南。",
+      "es": "Maria Montessori, la primera médica de Italia y educadora pionera. Descubra sus técnicas de observación objetiva para eliminar sesgos subjetivos y captar la esencia, junto con una guía de 3 pasos.",
+      "de": "Maria Montessori, Italiens erste Ärztin und Pädagogikpionierin. Entdecken Sie ihre objektiven Beobachtungstechniken zur Vermeidung subjektiver Voreingenommenheit und ihren 3-Schritte-Leitfaden.",
+      "fr": "Maria Montessori, première femme médecin d'Italie et éducatrice pionnière. Découvrez ses techniques d'observation objective éliminant les biais subjectifs pour saisir l'essentiel, ainsi qu'un guide en 3 étapes.",
+      "pt": "Maria Montessori, a primeira médica da Itália e educadora pioneira. Descubra suas técnicas de observação objetiva que eliminaram vieses subjetivos para capturar a essência, com um guia de 3 etapas.",
+      "id": "Maria Montessori, dokter wanita pertama di Italia dan pendidik pionir. Pelajari teknik pengamatan objektifnya yang menghilangkan prasangka subjektif untuk menemukan esensi sejati, beserta panduan 3 langkah."
     },
     "authority": {
-      "ko": "마리아 몽테소리 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+      "ko": "마리아 몽테소리 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+      "en": "Historical critical biographies and autobiographical records of Maria Montessori & Cognitive Neuroscience research",
+      "ja": "マリア・モンテッソーリの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究",
+      "zh": "玛利亚·蒙台梭利历史评传及自传记录考证与认知神经科学研究",
+      "es": "Biografías históricas y registros autobiográficos de Maria Montessori e investigación en Neurociencia Cognitiva",
+      "de": "Historische Biografien und autobiografische Aufzeichnungen zu Maria Montessori & Kognitive Neurowissenschaften",
+      "fr": "Biographies historiques et récits autobiographiques de Maria Montessori et recherches en neurosciences cognitives",
+      "pt": "Biografias históricas e registros autobiográficos de Maria Montessori e pesquisas em Neurociência Cognitiva",
+      "id": "Biografi kritis historis dan catatan autobiografi Maria Montessori & penelitian Ilmu Saraf Kognitif"
     },
     "intro": {
-      "ko": "이탈리아 최초의 여성 의사이자 관습에 굴하지 않고 몽테소리 교육법을 설립하여 인류 유아 교육의 패러다임을 바꾼 마리아 몽테소리. 그녀가 아이들의 숨겨진 잠재력과 집중력의 법칙을 세상을 바꾼 통찰로 바꿔낸 비결은 무엇일까요? 📝\n\n몽테소리는 '어린이의 집'에서 아이들을 관찰할 때 어떠한 감정적 편견이나 성인 중심의 평가를 완벽히 배제했습니다. 그녀는 의학 관찰자의 시선으로 아이가 언제 집중하고 어떤 환경에서 호기심을 느끼는지 사실만을 엄밀하게 기록했습니다. 주관을 뺀 객관적 관찰 기록 습관은 복잡한 문제의 진정한 원인을 발견하는 가장 완벽한 인지 도구였습니다.\n\n오늘 포스트에서는 마리아 몽테소리의 객관적 관찰 루틴과 현대인을 위한 확증편향 차단 실천법을 소개합니다."
+      "ko": "\"아이들의 행동을 있는 그대로 관찰할 때 비로소 그 안의 위대한 잠재력이 모습을 드러낸다.\" 📝\n\n이탈리아 최초의 여성 의사이자 인류 유아 교육의 패러다임을 혁신한 교육학자 마리아 몽테소리(Maria Montessori, 1870–1952). 1896년 로마 대학교 의대를 졸업한 후, 1907년 로마의 빈민가에 최초의 '어린이의 집(Casa dei Bambini)'을 설립한 그녀는 주입식 교육을 탈피하고 아이들의 자율적인 탐구 능력을 일깨우는 몽테소리 교육법을 정립했습니다.\n\n몽테소리가 어린이들의 숨겨진 집중력과 발달 법칙을 발견할 수 있었던 비결은 과학적이고 엄밀한 '객관적 관찰 일지'에 있었습니다. 그녀는 아이들을 관찰할 때 어떠한 감정적 편견이나 성인 중심의 주관적 평가를 완전히 배제했습니다. 의학적 관찰자의 정밀한 시선으로 아이가 어떤 환경에서 집중을 시작하고 행동하는지 사실(Fact)만을 명사와 동사 위주로 기록했습니다. 주관적 억측을 걷어낸 이 관찰 습관이야말로 문제의 본질을 직시하게 만드는 최고의 인지 도구였습니다.\n\n오늘 포스트에서는 마리아 몽테소리의 객관적 관찰 루틴에 담긴 인지적 객관화 원리와, 현대인이 확증 편향을 차단하고 업무 및 삶을 재정돈하는 실천법을 소개합니다.",
+      "en": "\"When we observe children's behavior as it truly is, only then does the great potential within them reveal itself.\" 📝\n\nMaria Montessori (1870–1952) was Italy's first female physician and a revolutionary educator who transformed early childhood education worldwide. Graduating from the University of Rome Medical School in 1896, she established the first 'Children's House' (Casa dei Bambini) in Rome's San Lorenzo district in 1907, pioneering an educational philosophy that departed from rote learning to cultivate children's innate drive for self-directed discovery.\n\nThe key to Montessori's groundbreaking insights into child development was her rigorous 'objective observation log'. When observing children, she eliminated emotional biases and adult-centric subjective judgments entirely. Viewing interactions through the precise lens of a medical researcher, she documented pure facts—focusing strictly on nouns and action verbs—recording under what environmental conditions children concentrated and acted. Stripping away subjective speculation, this observation habit served as the ultimate cognitive tool to see the core of any situation.\n\nIn today's post, we explore the principles of cognitive objectification embedded in Maria Montessori's observation routine and present practical methods for modern individuals to eliminate confirmation bias and reframe their work and personal growth.",
+      "ja": "「子供たちの行動をあるがままに観察した時、初めてその中の偉大な潜在能力が姿を現す。」 📝\n\nイタリア初の女性医師であり、人類の幼児教育のパラダイムを革新した教育学者マリア・モンテッソーリ（Maria Montessori, 1870–1952）。1896年にローマ大学医学部を卒業した後、1907年にローマの貧民街に最初の「子供の家（Casa dei Bambini）」を設立した彼女は、詰め込み教育を脱却し、子供たちの自主的な探求能力を呼び覚ますモンテッソーリ教育法を確立しました。\n\nモンテッソーリが子供たちの隠された集中力と発達法則を発見できた秘密は、科学的で厳密な「客観的観察日誌」にありました。彼女は子供たちを観察する際、いかなる感情的偏見や大人中心の主観的評価も完全に排除しました。医学的観察者の精密な視線で、子供がどのような環境で集中を開始し行動するのか、事実（Fact）のみを名詞と動詞を中心に記録しました。主観的な推測を排したこの観察習慣こそが、問題の本質を直視させる最高の認知ツールでした。\n\n今日の記事では、マリア・モンテッソーリの客観적観察ルーティンに込められた知的客観化の原理と、現代人が確証バイアスを遮断して仕事や生活を再整頓するための実践法を紹介します。",
+      "zh": "“只有如实观察儿童的行为，他们内心蕴藏的伟大潜能才会展现出来。” 📝\n\n玛利亚·蒙台梭利（Maria Montessori, 1870–1952）是意大利首位女性医生，也是彻底革新人类早期教育范式的教育学家。1896年毕业于罗马大学医学院后，她于1907年在罗马建立了首个“儿童之家”（Casa dei Bambini），摒弃填鸭式教育，奠定了激发儿童自主探索能力的蒙台梭利教育法。\n\n蒙台梭利能够发现儿童隐藏的专注力与心理发育规律，其秘诀在于科学且严谨的“客观观察日志”。在观察儿童时，她彻底排除了任何情感偏见与以成人为中心的主观评价。她以医学研究者精细严谨的视角，仅用名词与动词客观记录儿童在何种环境下产生专注并付诸行动的事实（Fact）。这种摒弃主观臆测的观察习惯正是直视事物本质的最佳认知工具。\n\n在今天的文章中，我们将探讨玛利亚·蒙台梭利客观观察日志中蕴含的认知客观化原理，并介绍现代人如何杜绝确认偏误、重新整理工作与生活的三步实践方法。",
+      "es": "\"Cuando observamos la conducta de los niños tal como es, solo entonces se revela el gran potencial que habita en ellos.\" 📝\n\nMaria Montessori (1870–1952), la primera médica de Italia y una educadora revolucionaria, transformó la educación infantil a nivel mundial. Tras graduarse de la Facultad de Medicina de la Universidad de Roma en 1896, fundó la primera 'Casa de los Niños' (Casa dei Bambini) en 1907, estableciendo una filosofía educativa que abandonó el aprendizaje memorístico para cultivar la motivación autónoma del niño.\n\nEl secreto tras los descubrimientos revolucionarios de Montessori sobre el desarrollo infantil radicaba en su riguroso 'registro de observación objetiva'. Al observar a los niños, eliminaba por completo los sesgos emocionales y los juicios subjetivos adultocentristas. Con la mirada precisa de una investigadora médica, registraba hechos puros —utilizando principalmente sustantivos y verbos de acción— anotando bajo qué condiciones ambientales los niños se concentraban y actuaban. Este hábito de observación libre de especulaciones fue la herramienta cognitiva definitiva para percibir la esencia de cualquier situación.\n\nEn la entrada de hoy, exploramos los principios de objetivación cognitiva presentes en la rutina de observación de Maria Montessori y presentamos métodos prácticos para que las personas modernas eliminen el sesgo de confirmación y reestructuren su trabajo y crecimiento personal.",
+      "de": "\"Erst wenn wir das Verhalten von Kindern so beobachten, wie es wirklich ist, offenbart sich das große Potenzial in ihnen.\" 📝\n\nMaria Montessori (1870–1952) war Italiens erste Ärztin und eine revolutionäre Pädagogin, die die frühkindliche Erziehung weltweit neu gestaltete. Nach ihrem Abschluss an der Medizinischen Fakultät der Universität Rom im Jahr 1896 gründete sie 1907 das erste 'Kinderhaus' (Casa dei Bambini) in Rom und begründete eine Bildungsphilosophie, die sich vom reinen Auswendiglernen abwandte, um das eigenständige Entdecken der Kinder zu fördern.\n\nDer Schlüssel zu Montessoris bahnbrechenden Erkenntnissen über die Entwicklung von Kindern lag in ihrem strengen 'objektiven Beobachtungstagebuch'. Bei der Beobachtung von Kindern schaltete sie emotionale Voreingenommenheit und subjektive Bewertungen von Erwachsenen vollständig aus. Mit dem präzisen Blick einer medizinischen Forscherin hielt sie reine Fakten fest – streng fokussiert auf Substantive und Handlungsverben – und dokumentierte, unter welchen Umweltbedingungen sich Kinder konzentrierten. Diese von Spekulationen freie Beobachtungsgewohnheit diente als kognitives Werkzeug, um den Kern jeder Situation zu erfassen.\n\nIm heutigen Beitrag untersuchen wir die Prinzipien der kognitiven Objektivierung in Maria Montessoris Beobachtungsroutine und stellen Methoden vor, wie moderne Menschen Bestätigungsfehler eliminieren und ihr Arbeiten neu strukturieren können.",
+      "fr": "\"Lorsque nous observons le comportement des enfants tel qu'il est vraiment, c'est alors seulement que le grand potentiel qui est en eux se révèle.\" 📝\n\nMaria Montessori (1870–1952) fut la première femme médecin d'Italie et une éducatrice révolutionnaire qui a métamorphosé l'éducation de la petite enfance dans le monde entier. Diplômée de la faculté de médecine de l'Université de Rome en 1896, elle a fondé la première 'Maison des Enfants' (Casa dei Bambini) à Rome en 1907, créant une méthode éducative qui abandonnait le bourrage de crâne pour éveiller la capacité d'exploration autonome de l'enfant.\n\nLe secret des découvertes fondamentales de Montessori sur le développement de l'enfant résidait dans son rigoureux 'journal d'observation objective'. Lorsqu'elle observait les enfants, elle excluait totalement les biais émotionnels et les jugements subjectifs centrés sur l'adulte. Avec le regard précis d'une chercheuse médicale, elle consignait des faits purs — en utilisant essentiellement des noms et des verbes d'action — pour noter dans quelles conditions environnementales les enfants se concentraient. Cette habitude d'observation dépouillée de spéculations constituait l'outil cognitif ultime pour discerner la réalité des situations.\n\nDans l'article d'aujourd'hui, nous explorons les principes d'objectivation cognitive de la routine d'observation de Maria Montessori et présentons des méthodes pratiques pour permettre aux individus modernes d'éliminer le biais de confirmation et de restructurer leur quotidien.",
+      "pt": "\"Quando observamos o comportamento das crianças como ele realmente é, só então o grande potencial dentro delas se revela.\" 📝\n\nMaria Montessori (1870–1952) foi a primeira médica da Itália e uma educadora revolucionária que transformou a educação infantil no mundo inteiro. Graduando-se na Faculdade de Medicina da Universidade de Roma em 1896, ela fundou a primeira 'Casa das Crianças' (Casa dei Bambini) em Roma em 1907, pioneira em uma filosofia educacional que abandonou a aprendizagem mecânica para despertar a capacidade de descoberta autônoma das crianças.\n\nO segredo para as descobertas inovadoras de Montessori sobre o desenvolvimento infantil residia em seu rigoroso 'diário de observação objetiva'. Ao observar as crianças, ela eliminava completamente vieses emocionais e julgamentos subjetivos centrados no adulto. Com o olhar preciso de uma pesquisadora médica, ela registrava fatos puros — focando estritamente em substantivos e verbos de ação — anotando sob quais condições ambientais as crianças se concentravam e agiam. Esse hábito de observação desprovido de especulações serviu como a ferramenta cognitiva definitiva para ver o núcleo de qualquer situação.\n\nNo artigo de hoje, exploramos os princípios de objetivação cognitiva incorporados na rotina de observação de Maria Montessori e apresentamos métodos práticos para as pessoas modernas eliminarem o viés de confirmação e reestruturarem seu trabalho e crescimento pessoal.",
+      "id": "\"Ketika kita mengamati perilaku anak-anak sebagaimana adanya, baru pada saat itulah potensi besar di dalam diri mereka mengungkapkan dirinya.\" 📝\n\nMaria Montessori (1870–1952) adalah dokter wanita pertama di Italia dan pendidik revolusioner yang mengubah pendidikan anak usia dini di seluruh dunia. Lulus dari Fakultas Kedokteran Universitas Roma pada tahun 1896, ia mendirikan 'Rumah Anak-Anak' (Casa dei Bambini) pertama di Roma pada tahun 1907, memelopori filosofi pendidikan yang meninggalkan hafalan untuk menumbuhkan dorongan eksplorasi mandiri pada anak.\n\nKunci dari wawasan mendasar Montessori mengenai perkembangan anak terletak pada 'catatan pengamatan objektif' yang ketat. Saat mengamati anak-anak, ia menghilangkan prasangka emosional dan penilaian subjektif berpusat pada orang dewasa secara total. Melihat interaksi melalui lensa peneliti medis yang presisi, ia mendokumentasikan fakta murni — berfokus ketat pada kata benda dan kata kerja tindakan — mencatat dalam kondisi lingkungan seperti apa anak-anak berkonsentrasi dan bertindak. Kebiasaan mengamati tanpa spekulasi ini berfungsi sebagai alat kognitif utama untuk melihat inti dari setiap situasi.\n\nDalam postingan hari ini, kita menjelajahi prinsip-prinsip objektivasi kognitif yang tertanam dalam rutinitas pengamatan Maria Montessori dan menyajikan metode praktis bagi manusia modern untuk menghilangkan bias konfirmasi serta menata ulang pekerjaan dan pertumbuhan pribadi."
     },
     "whyTitle": {
-      "ko": "확증 편향을 극복하고 본질을 직시하는 인지적 객관화"
+      "ko": "확증 편향을 극복하고 본질을 직시하는 인지적 객관화",
+      "en": "Cognitive Objectification Overcoming Confirmation Bias and Facing Reality",
+      "ja": "確証バイアスを克服し本質を直視する知的客観化",
+      "zh": "战胜确认偏误、直击本质的认知客观化",
+      "es": "Objetivación cognitiva para superar el sesgo de confirmación y percibir la esencia",
+      "de": "Kognitive Objektivierung zur Überwindung von Bestätigungsfehlern und Blick auf das Wesentliche",
+      "fr": "Objectivation cognitive pour surmonter le biais de confirmation et percevoir l'essence",
+      "pt": "Objetivação cognitiva para superar o viés de confirmação e encarar a essência",
+      "id": "Objektivasi Kognitif untuk Mengatasi Bias Konfirmasi dan Menghadapi Realitas"
     },
     "whyDesc": {
-      "ko": "우리는 종종 자신의 경험이나 감정에 기반한 주관적 억측으로 문제의 원인을 단정 짓는 '확증 편향'에 빠집니다.\n\n몽테소리 박사의 관찰 습관은 뇌의 전두엽 인지 통제 영역을 강화하여 감정적 판단을 일시 중지하는 <strong>'인지적 괄호 치기'</strong> 효과를 제공합니다. 상황을 감정이 아닌 팩트로 분리해 기록하면 오해와 오류의 진정한 원인이 선명하게 드러납니다."
+      "ko": "우리는 종종 자신의 경험이나 감정에 기반한 주관적 억측으로 문제의 원인을 단정 짓는 '확증 편향'에 빠집니다.\n\n몽테소리 박사의 관찰 습관은 뇌의 전두엽 인지 통제 영역을 강화하여 감정적 판단을 일시 중지하는 <strong>'인지적 괄호 치기'</strong> 효과를 제공합니다. 상황을 감정이 아닌 팩트로 분리해 기록하면 오해와 오류의 진정한 원인이 선명하게 드러납니다.",
+      "en": "We often fall into 'confirmation bias', drawing hasty conclusions based on subjective speculation derived from emotions or past habits.\n\nDr. Montessori's observation routine strengthens cognitive control networks in the prefrontal cortex, providing a <strong>'cognitive bracketing'</strong> effect that temporarily suspends emotional judgment. Separating facts from subjective feelings when recording data brings the true root causes of misunderstandings and errors clearly into focus.",
+      "ja": "私たちはしばしば、自身の経験や感情に基づいた主観的な推測で問題の原因を断定してしまう「確証バイアス」に陥ります。\n\nモンテッソーリ博士の観察習慣は、脳の前頭葉認知統制領域を強化し、感情的判断を一時停止する <strong>「知的ブラケティング（括弧括り）」</strong> 効果を提供します。状況を感情ではなくファクトに分離して記録すると、誤解やエラーの本当の原因が鮮明に浮かび上がります。",
+      "zh": "我们往往会陷入“确认偏误”，基于个人情感或主观臆测仓促断定问题的成因。\n\n蒙台梭利博士的观察习惯强化了大脑额叶的认知控制区域，带来暂停情感判断的 <strong>“认知括弧（Cognitive Bracketing）”</strong> 效应。将事实与情感分离并加以记录，误解与错误的真正根源便会清晰显现。",
+      "es": "A menudo caemos en el 'sesgo de confirmación', concluyendo apresuradamente causas basadas en especulaciones subjetivas o emociones.\n\nLa rutina de observación de la Dra. Montessori fortalece las redes de control cognitivo en la corteza prefrontal, brindando un efecto de <strong>'entrecomillado cognitivo'</strong> que suspende temporalmente los juicios emocionales. Separar los hechos de las emociones subjetivas al registrar datos aclara de manera nítida las verdaderas causas de malentendidos y errores.",
+      "de": "Wir verfallen häufig dem 'Bestätigungsfehler' and ziehen voreilige Schlüsse basierend auf subjektiven Vermutungen oder Gefühlen.\n\nDr. Montessoris Beobachtungsroutine stärkt die kognitiven Kontrollnetzwerke im präfrontalen Kortex und bewirkt eine <strong>'kognitive Klammerung'</strong>, die emotionale Urteile vorübergehend aussetzt. Das Trennen von Fakten und Gefühlen bei der Datenaufzeichnung bringt die wahren Ursachen von Missverständnissen klar ans Licht.",
+      "fr": "Nous tombons souvent dans le 'biais de confirmation', en tirant des conclusions hâtives basées sur des spéculations subjectives ou des émotions.\n\nLa routine d'observation du Dr Montessori renforce les réseaux de contrôle cognitif dans le cortex préfrontal, produisant un effet de <strong>« mise entre parenthèses cognitive »</strong> qui suspend temporairement le jugement émotionnel. Séparer les faits des émotions lors de la prise de notes révèle clairement les véritables origines des erreurs.",
+      "pt": "Frequentemente caímos no 'viés de confirmação', tirando conclusões apressadas com base em especulações subjetivas ou emoções.\n\nA rotina de observação da Dra. Montessori fortalece as redes de controle cognitivo no córtex pré-frontal, proporcionando um efeito de <strong>'parentetização cognitiva'</strong> que suspende temporariamente os julgamentos emocionais. Separar os fatos das emoções subjetivas ao registrar dados expõe com clareza as verdadeiras causas de mal-entendidos e erros.",
+      "id": "Kita sering terjebak dalam 'bias konfirmasi', mengambil kesimpulan terburu-buru berdasarkan spekulasi subjektif atau emosi.\n\nRutinitas pengamatan Dr. Montessori memperkuat jaringan kontrol kognitif di korteks prefrontal, memberikan efek <strong>'pengurungan kognitif'</strong> yang menunda penilaian emosional secara sementara. Memisahkan fakta dari emosi saat mencatat data memperjelas akar penyebab kesalahpahaman dan kesalahan secara nyata."
     },
     "cautionTitle": {
-      "ko": "평가나 감정 형용사 없이 오직 사실만 기록하세요"
+      "ko": "평가나 감정 형용사 없이 오직 사실만 기록하세요",
+      "en": "Record Only Pure Facts Without Evaluations or Emotional Adjectives",
+      "ja": "評価や感情的形容詞を排し事実のみを記録してください",
+      "zh": "摒弃评价与情感形容词，仅记录客观事实",
+      "es": "Registre únicamente hechos puros sin evaluaciones ni adjetivos emocionales",
+      "de": "Dokumentieren Sie nur reine Fakten ohne Bewertungen oder emotionale Adjektive",
+      "fr": "Consignez uniquement des faits purs sans évaluations ni adjectifs émotionnels",
+      "pt": "Registre apenas fatos puros sem avaliações ou adjetivos emocionais",
+      "id": "Catat Hanya Fakta Murni Tanpa Evaluasi atau Kata Sifat Emosional"
     },
     "cautionDesc": {
-      "ko": "'피곤해 보인다' 대신 '10분 동안 눈을 30회 감았다'처럼 주관적 해석을 빼고 감각적으로 관찰된 사실 자체만을 기술하는 것이 몽테소리 관찰의 핵심입니다. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다."
+      "ko": "'피곤해 보인다' 대신 '10분 동안 눈을 30회 감았다'처럼 주관적 해석을 빼고 감각적으로 관찰된 사실 자체만을 기술하는 것이 몽테소리 관찰의 핵심입니다. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다.",
+      "en": "The core of Montessori observation is describing strictly sensed raw facts—such as 'closed eyes 30 times in 10 minutes' instead of 'looks tired'. Rather than relying blindly on willpower, designing physical environments and habit triggers that naturally evoke objective recording is key to long-term consistency.",
+      "ja": "「疲れているようだ」の代わりに「10分間に目を30回閉じた」のように、主観的解釈を排して感覚的に観察された事実自体のみを記述することがモンテッソーリ観察の核心です。無理に意志力だけに頼ろうとせず、行動が自然と誘発される物理的環境と習慣の合図をあらかじめ設計することが持続性のポイントです。",
+      "zh": "蒙台梭利观察法的核心在于排除主观解读，仅记录感官观察到的客观事实本身——例如使用“在10分钟内闭眼30次”来替代“看起来很累”。与其蛮干硬靠意志力，不如预先设计能够自然引发客观记录行为的物理环境与习惯触发信号，这才是长期坚持的关键。",
+      "es": "El núcleo de la observación Montessori es describir estrictamente hechos puros percibidos —como 'cerró los ojos 30 veces en 10 minutos' en lugar de 'parece cansado'. En lugar de depender ciegamente de la voluntad, diseñar entornos físicos y detonantes habituales que evoquen de forma natural la observación objetiva es la clave de la consistencia.",
+      "de": "Der Kern der Montessori-Beobachtung besteht darin, streng wahrgenommene reine Fakten zu beschreiben – wie etwa 'schloss die Augen 30-mal in 10 Minuten' anstelle von 'sieht müde aus'. Anstatt sich blind auf Willenskraft zu verlassen, ist die Gestaltung physischer Umgebungen und Auslöser für objektive Aufzeichnungen der Schlüssel zu nachhaltiger Konsistenz.",
+      "fr": "Le cœur de l'observation Montessori consiste à décrire strictly des faits bruts perçus — comme 'a fermé les yeux 30 fois en 10 minutes' au lieu de 'semble fatigué'. Plutôt que de compter aveuglément sur la volonté, concevoir des environnements physiques et des déclencheurs favorisant la prise de notes factuelle est la clé de la régularité.",
+      "pt": "O núcleo da observação Montessori é descrever estritamente fatos puros percebidos — como 'fechou os olhos 30 vezes em 10 minutos' em vez de 'parece cansado'. Em vez de depender cegamente da vontade, projetar ambientes físicos e gatilhos que evoquem naturalmente o registro objetivo é a chave para a consistência a longo prazo.",
+      "id": "Inti dari pengamatan Montessori adalah mendeskripsikan secara ketat fakta murni yang terindra — seperti 'memicit mata 30 kali dalam 10 menit' alih-alih 'tampak lelah'. Daripada mengandalkan kemauan secara buta, merancang lingkungan fisik dan pemicu kebiasaan yang secara alami memicu pencatatan objektif adalah kunci konsistensi jangka panjang."
     },
     "steps": [
       {
         "name": {
-          "ko": "10분 관찰 타겟 설정 및 몰입"
+          "ko": "10분 관찰 타겟 설정 및 몰입",
+          "en": "Setting a 10-Minute Observation Target and Immersion",
+          "ja": "10分間の観察ターゲット設定と没頭",
+          "zh": "设定10分钟观察目标与沉浸",
+          "es": "Establecimiento de un objetivo de observación de 10 minutos e inmersión",
+          "de": "Festlegen eines 10-minütigen Beobachtungsziels und Fokussierung",
+          "fr": "Définition d'une cible d'observation de 10 minutes et immersion",
+          "pt": "Definição de um alvo de observação de 10 minutos e imersão",
+          "id": "Menetapkan Target Pengamatan 10 Menit dan Perendaman"
         },
         "text": {
-          "ko": "분석하고자 하는 대상(본인의 작업 습관, 특정 프로젝트 흐름)을 정하고 10분간 말을 아끼며 시각적 변화에 몰입합니다."
+          "ko": "분석하고자 하는 대상(본인의 작업 습관, 특정 프로젝트 흐름)을 정하고 10분간 말을 아끼며 시각적 변화에 몰입합니다.",
+          "en": "Select a specific target to analyze (e.g., your own workflow habits or a project process) and quietly immerse yourself in observing visual changes for 10 minutes without speaking.",
+          "ja": "分析したい対象（自身の作業習慣、特定のプロジェクトの流れ）を決め、10分間発言を控えて視覚的な変化に没頭します。",
+          "zh": "选定想要分析的对象（如自身的具体工作习惯或特定项目的推进流程），在10分钟内保持沉默，静心沉浸于观察视觉上的具体变化。",
+          "es": "Seleccione un objetivo específico para analizar (p. ej., sus hábitos de trabajo o el flujo de un proyecto) y sumérjase en silencio en observar los cambios visuales durante 10 minutos.",
+          "de": "Wählen Sie ein bestimmtes Beobachtungsziel (z. B. eigene Arbeitsgewohnheiten oder ein Projektablauf) und beobachten Sie 10 Minuten lang schweigend die visuellen Veränderungen.",
+          "fr": "Choisissez une cible spécifique à analyser (par ex. vos habitudes de travail ou le déroulement d'un projet) et immergez-vous en silence dans l'observation des changements visuels pendant 10 minutes.",
+          "pt": "Selecione um alvo específico para analisar (por ex., seus próprios hábitos de trabalho ou o fluxo de um projeto) e mergulhe em silêncio na observação das mudanças visuais por 10 minutos.",
+          "id": "Pilihlah target khusus untuk dianalisis (misalnya kebiasaan kerja Anda sendiri atau alur proyek) dan tenggelamlah dalam diam untuk mengamati perubahan visual selama 10 menit tanpa berbicara."
         }
       },
       {
         "name": {
-          "ko": "팩트 중심의 명사·동사 관찰 노트 작성"
+          "ko": "팩트 중심의 명사·동사 관찰 노트 작성",
+          "en": "Writing Fact-Based Observation Notes Using Nouns and Verbs",
+          "ja": "ファクト中心の名詞・動詞観察ノートの執筆",
+          "zh": "撰写基于事实的名词与动词观察笔记",
+          "es": "Redacción de notas de observación objetivas con sustantivos y verbos",
+          "de": "Verfassen faktenbasierter Beobachtungsnotizen mit Substantiven und Verben",
+          "fr": "Rédaction de notes d'observation factuelles axées sur les noms et verbes",
+          "pt": "Escrita de notas de observação objetivas com substantivos e verbos",
+          "id": "Menulis Catatan Pengamatan Berbasis Fakta Menggunakan Kata Benda dan Kata Kerja"
         },
         "text": {
-          "ko": "관찰된 물리적 행동과 소리, 행동 시간을 감정 형용사 없이 명사와 동사 위주로 기록합니다."
+          "ko": "관찰된 물리적 행동과 소리, 행동 시간을 감정 형용사 없이 명사와 동사 위주로 기록합니다.",
+          "en": "Document observed physical actions, sounds, and timestamps strictly utilizing nouns and verbs, stripped entirely of subjective adjectives or emotional interpretations.",
+          "ja": "観察された物理的行動や音、行動時間を感情的な形容詞なしで名詞と動詞を中心に記録します。",
+          "zh": "记录观察到的客观物理行为、声音与发生时间，摒弃情绪化形容词，严格围绕名词与动词展开描摹。",
+          "es": "Documente las acciones físicas observadas, sonidos y marcas de tiempo utilizando strictly sustantivos y verbos, sin adjetivos subjetivos ni juicios emocionales.",
+          "de": "Dokumentieren Sie beobachtete physische Handlungen, Geräusche und Zeiten streng mit Substantiven und Verben, völlig frei von subjektiven Adjektiven oder emotionalen Interpretationen.",
+          "fr": "Consignez les actions physiques observées, les sons et les durées en utilisant strictement des noms et des verbes, dépourvus d'adjectifs subjectifs ou d'interprétations émotionnelles.",
+          "pt": "Documente as ações físicas observadas, sons e horários utilizando estritamente substantivos e verbos, sem adjetivos subjetivos ou interpretações emocionais.",
+          "id": "Dokumentasikan tindakan fisik, suara, dan stempel waktu yang teramati secara ketat menggunakan kata benda dan kata kerja, tanpa kata sifat subjektif atau interpretasi emosional."
         }
       },
       {
         "name": {
-          "ko": "패턴 추출 및 가설 검증"
+          "ko": "패턴 추출 및 가설 검증",
+          "en": "Extracting Behavioral Patterns and Validating Hypotheses",
+          "ja": "パターン抽出および仮説検証",
+          "zh": "提取模式与假说验证",
+          "es": "Extracción de patrones de conducta y verificación de hipótesis",
+          "de": "Mustererkennung und Hypothesenprüfung",
+          "fr": "Extraction de schémas comportementaux et vérification des hypothèses",
+          "pt": "Extração de padrões comportamentais e verificação de hipóteses",
+          "id": "Mengekstrak Pola Perilaku dan Memverifikasi Hipotesis"
         },
         "text": {
-          "ko": "작성된 팩트 노트에서 반복되는 행동 패턴이나 집중 저하 시점을 찾아내어 개선책을 도출합니다."
+          "ko": "작성된 팩트 노트에서 반복되는 행동 패턴이나 집중 저하 시점을 찾아내어 개선책을 도출합니다.",
+          "en": "Examine the recorded fact notes to identify recurring behavioral patterns or energy dips, formulating practical solutions based on objective data.",
+          "ja": "作成されたファクトノートから繰り返される行動パターンや集中低下のタイミングを見つけ出し、改善策を導き出します。",
+          "zh": "审查整理出的事实笔记，找出反复出现的行为模式或专注力下降的节点，由此推导出针对性的改善方案。",
+          "es": "Examine las notas objetivas para identificar patrones de conducta recurrentes o momentos de baja concentración, formulando soluciones prácticas basadas en datos puros.",
+          "de": "Untersuchen Sie die Notizen, um wiederkehrende Verhaltensmuster oder Konzentrationslöcher zu identifizieren und auf der Grundlage objektiver Daten praktische Lösungen zu entwickeln.",
+          "fr": "Examinez les notes factuelles pour identifier des schémas récurrents ou des baisses de concentration, et formulez des solutions pratiques fondées sur des données objectives.",
+          "pt": "Examine as notas objetivas para identificar padrões comportamentais recorrentes ou momentos de queda de atenção, formulando soluções práticas baseadas em dados puros.",
+          "id": "Periksalah catatan fakta yang ada untuk mengidentifikasi pola perilaku yang berulang atau titik penurunan fokus, lalu rumuskan solusi praktis berdasarkan data objektif."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "자기 자신의 습관을 관찰할 때도 이 루틴을 쓸 수 있나요?"
+          "ko": "자기 자신의 습관을 관찰할 때도 이 루틴을 쓸 수 있나요?",
+          "en": "Can this routine be applied to observing one's own habits?",
+          "ja": "自分自身の習慣を観察する時もこのルーティンを使えますか？",
+          "zh": "在观察自我习惯时是否也可以应用这一习惯？",
+          "es": "¿Se puede aplicar esta rutina para observar los propios hábitos?",
+          "de": "Kann diese Routine auch zur Beobachtung eigener Gewohnheiten angewendet werden?",
+          "fr": "Cette routine peut-elle être appliquée pour observer ses propres habitudes ?",
+          "pt": "Esta rotina pode ser aplicada para observar os próprios hábitos?",
+          "id": "Apakah rutinitas ini dapat diterapkan untuk mengamati kebiasaan diri sendiri?"
         },
         "answer": {
-          "ko": "네, 셀프 타임 트래킹이나 업무 일지를 쓸 때 '자책 감정'을 빼고 시간대별 실제 작업한 팩트만 기재하는 방식으로 완벽히 적용할 수 있습니다."
+          "ko": "네, 셀프 타임 트래킹이나 업무 일지를 쓸 때 '자책 감정'을 빼고 시간대별 실제 작업한 팩트만 기재하는 방식으로 완벽히 적용할 수 있습니다.",
+          "en": "Yes. When performing self time-tracking or work journaling, it applies seamlessly by stripping away 'self-blame emotions' and recording only raw time-stamped task execution data.",
+          "ja": "はい、セルフタイムトラッキングや業務日誌を書く際、「自責の感情」を排除し、時間帯別に実際に作業したファクトのみを記載する方法で完璧に適用できます。",
+          "zh": "是的。在进行自我时间追踪或撰写工作日志时，排除“自责情绪”，仅按时间段记录实际完成的工作事实，便可完美应用此方法。",
+          "es": "Sí. Al realizar un seguimiento del tiempo personal o escribir un diario de trabajo, se aplica perfectamente eliminando emociones de culpa y registrando solo datos reales de ejecución con marca de tiempo.",
+          "de": "Ja. Bei der Zeiterfassung oder beim Verfassen eines Arbeitstagebuchs lässt sich die Methode perfekt anwenden, indem man Schuldgefühle ausblendet und nur tatsächliche Aufgaben mit Zeitstempeln dokumentiert.",
+          "fr": "Oui. Lors du suivi de votre temps ou de la rédaction d'un journal de travail, cette méthode s'applique parfaitement en éliminant la culpabilité et en consignant uniquement les données réelles d'exécution.",
+          "pt": "Sim. Ao realizar o rastreamento do próprio tempo ou escrever um diário de trabalho, ela se aplica perfeitamente ao eliminar sentimentos de culpa e registrar apenas dados reais de execução de tarefas.",
+          "id": "Ya. Saat melakukan pelacakan waktu mandiri atau menulis jurnal kerja, metode ini dapat diterapkan secara sempurna dengan menghilangkan 'emosi menyalahkan diri sendiri' dan hanya mencatat data eksekusi tugas berdasarkan stempel waktu."
         }
       },
       {
         "question": {
-          "ko": "주관적 감정과 객관적 팩트를 구분하기가 어렵다면 어떻게 해야 하나요?"
+          "ko": "주관적 감정과 객관적 팩트를 구분하기가 어렵다면 어떻게 해야 하나요?",
+          "en": "How can I easily distinguish between subjective feelings and objective facts?",
+          "ja": "主観的感情と客観的ファクトを区別するのが難しい場合はどうすればよいですか？",
+          "zh": "如果觉得难以区分主观情感与客观事实该怎么办？",
+          "es": "¿Cómo puedo diferenciar fácilmente entre sentimientos subjetivos y hechos objetivos?",
+          "de": "Wie kann ich einfach zwischen subjektiven Gefühlen und objektiven Fakten unterscheiden?",
+          "fr": "Comment puis-je facilement distinguer les sentiments subjectifs des faits objectifs ?",
+          "pt": "Como posso diferenciar facilmente entre sentimentos subjetivos e fatos objetivos?",
+          "id": "Bagaimana cara membedakan dengan mudah antara perasaan subjektif dan fakta objektif?"
         },
         "answer": {
-          "ko": "'카메라에 촬영되는 수치와 행동인가?'라는 기준을 적용해 보세요. 카메라 렌즈에 담기지 않는 생각이나 평가 표현은 모두 제외하면 됩니다."
+          "ko": "'카메라에 촬영되는 수치와 행동인가?'라는 기준을 적용해 보세요. 카메라 렌즈에 담기지 않는 생각이나 평가 표현은 모두 제외하면 됩니다.",
+          "en": "Apply the criterion: 'Is this a concrete action or metric that a video camera lens could capture?' Simply omit any thoughts or evaluative expressions that cannot be recorded on camera.",
+          "ja": "「カメラに撮影される数値や行動か？」という基準を適用してみてください。カメラのレンズに映らない考えや評価表現はすべて除外すれば大丈夫です。",
+          "zh": "试着套用这一标准：“这是摄像机镜头能够拍摄到的具体数值或行为吗？”凡是摄像机无法直接拍到的想法或评价性表述，一律予以排除即可。",
+          "es": "Aplique el criterio: '¿Es esta una acción concreta o una métrica que la lente de una cámara de video podría capturar?' Simplemente omita cualquier pensamiento o evaluación que no pueda grabarse en video.",
+          "de": "Wenden Sie das Kriterium an: 'Handelt es sich um eine konkrete Handlung oder Zahl, die eine Videokamera aufnehmen könnte?' Lassen Sie Gedanken oder Bewertungen, die nicht aufgenomme werden können, einfach weg.",
+          "fr": "Appliquez le critère : 'S'agit-il d'une action concrète ou d'une donnée qu'une caméra vidéo pourrait enregistrer ?' Éliminez simplement toutes les pensées ou jugements qui ne seraient pas visibles à l'écran.",
+          "pt": "Aplique o critério: 'Esta é uma ação concreta ou uma métrica que a lente de uma câmera poderia gravar?' Simplesmente omita pensamentos ou avaliações que não seriam captados pela câmera.",
+          "id": "Terapkan kriteria: 'Apakah ini tindakan konkret atau angka yang dapat ditangkap oleh lensa kamera video?' Cukup abaikan pemikiran atau ekspresi evaluatif apa pun yang tidak dapat direkam oleh kamera."
         }
       }
     ]

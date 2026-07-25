@@ -1,62 +1,190 @@
 {
   "martin-silent-waiting": {
     "title": {
-      "ko": "도화지 같은 마음: 아그네스 마틴의 정적 대기 루틴"
+      "ko": "도화지 같은 마음: 아그네스 마틴의 정적 대기 루틴",
+      "en": "A Mind Like a Blank Canvas: Agnes Martin's Silent Waiting Routine",
+      "ja": "キャンバスのような心：アグネス・マーティンの静寂待機ルーティン",
+      "zh": "画布般的心境：阿格尼斯·马丁的静默等待习惯",
+      "es": "Una mente como un lienzo en blanco: La rutina de espera silenciosa de Agnes Martin",
+      "de": "Ein Geist wie eine leere Leinwand: Agnes Martins stille Warte-Routine",
+      "fr": "Un esprit comme une toile vierge : La routine d'attente silencieuse d'Agnes Martin",
+      "pt": "Uma mente como uma tela em branco: A rotina de espera silenciosa de Agnes Martin",
+      "id": "Pikiran Bagaikan Kanvas Kosong: Rutinitas Menunggu Hening Agnes Martin"
     },
     "description": {
-      "ko": "캔버스 앞 의자에 앉아 잡념이 완전히 사라질 때까지 기다린 뒤에야 비로소 그림을 그렸던 화가 아그네스 마틴. 두뇌의 노이즈를 청소하고 고도의 통찰과 영감을 자극하는 명상의 인지과학을 알아봅니다."
+      "ko": "캔버스 앞 의자에 앉아 잡념이 완전히 사라질 때까지 기다린 뒤에야 비로소 그림을 그렸던 화가 아그네스 마틴. 두뇌의 노이즈를 청소하고 고도의 통찰과 영감을 자극하는 명상의 인지과학을 알아봅니다.",
+      "en": "Agnes Martin, the painter who sat in a chair before her canvas waiting until all distracting thoughts cleared before touching her brush. Discover the cognitive science of meditation that clears brain noise to unlock insight.",
+      "ja": "キャンバス前の椅子に座り、雑念が完全に消えるまで待ってから初めて絵を描いた画家アグネス・マーティン。脳のノイズを掃除し高度な洞察と霊感を刺激する瞑想の認知科学を探ります。",
+      "zh": "画家阿格尼斯·马丁在开笔前会静坐在画布前的椅子上，直到所有杂念彻底沉淀。深入探索清洗大脑噪音、激发高阶洞察力与灵感的冥想认知科学。",
+      "es": "La pintora Agnes Martin se sentaba en una silla ante el lienzo a esperar hasta que desaparecieran todos los pensamientos distractores antes de pintar. Descubra la ciencia cognitiva de la meditación para limpiar el ruido cerebral.",
+      "de": "Die Malerin Agnes Martin saß vor der Leinwand auf einem Stuhl und wartete, bis alle Störgedanken schwanden, bevor sie zum Pinsel griff. Entdecken Sie die kognitionswissenschaftlichen Grundlagen der Meditation.",
+      "fr": "La peintre Agnes Martin s'asseyait sur une chaise devant sa toile, attendant la disparition complète des pensées parasites avant de peindre. Découvrez la science cognitive de la méditation qui purifie le bruit cérébral.",
+      "pt": "A pintora Agnes Martin sentava-se em uma cadeira diante da tela e esperava até que todos os pensamentos dispersos desaparecessem antes de pintar. Descubra a ciência cognitiva da meditação para limpar o ruído mental.",
+      "id": "Pelukis Agnes Martin duduk di kursi di depan kanvas dan menunggu hingga seluruh pikiran pengganggu hilang sebelum melukis. Pelajari ilmu kognitif meditasi yang membersihkan kebisingan otak untuk memicu inspirasi."
     },
     "authority": {
-      "ko": "Martin Silent Waiting 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+      "ko": "아그네스 마틴 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+      "en": "Historical Verification of Agnes Martin's Biographies & Cognitive Neuroscience Research",
+      "ja": "アグネス・マーティンの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究",
+      "zh": "阿格尼斯·马丁历史传记与考证及认知神经科学研究",
+      "es": "Verificación de biografías históricas y registros autobiográficos de Agnes Martin e investigación en neurociencia cognitiva",
+      "de": "Historische Prüfung von Agnes Martins Biografien & kognitionswissenschaftliche Forschung",
+      "fr": "Vérification des biographies historiques d'Agnes Martin & recherche en neurosciences cognitives",
+      "pt": "Verificação de biografias históricas de Agnes Martin e pesquisas em neurociência cognitiva",
+      "id": "Verifikasi Biografi Historis Agnes Martin & Riset Neurosains Kognitif"
     },
     "intro": {
-      "ko": "\"나는 내 마음에 아무것도 남지 않을 때까지 의자에 앉아 기다린다. 마음이 완벽하게 텅 비었을 때, 비로소 참된 그림의 형태가 내 눈앞에 펼쳐진다.\" 🧘‍♀️\n\n미니멀리즘과 추상 미술의 영역에서 정밀한 격자(Grid) 패턴과 파스텔톤의 깊은 영적 색채로 현대 미술의 거장 반열에 오른 아그네스 마틴. 대중의 끊임없는 평가와 세간의 소음 속에서도 그녀가 흔들림 없는 독창성을 지켜낼 수 있었던 비결은 매일 아침 거행했던 극도로 정적인 대기 의식이었습니다. 마틴은 작업실 의자에 앉아 마음속의 온갖 욕망, 계획, 잡념이 깨끗이 가라앉아 호수처럼 투명해질 때까지 몇 시간이고 묵묵히 앉아 대기했습니다. 오직 영혼의 영감이 명확한 환영으로 떠올랐을 때에만 그녀는 붓을 잡고 한 치의 오차도 없는 조화로운 드로잉을 시작했습니다. 뇌과학적으로 이 정신적 청소 루틴이 뇌를 최고의 통찰 상태로 이끄는 원리를 알아봅니다.\n\n우리는 아침 출근 길에 겪은 교통 혼잡, 어제 상사에게 들은 핀잔, 그리고 오늘 처리해야 할 복잡한 할 일 목록에 휘말린 채 허둥지둥 작업을 개시하곤 합니다. 이 어수선한 정신 상태는 뇌의 워킹 메모리를 쓸데없는 걱정과 잡다한 계획으로 가득 채워, 정작 당장 집중해야 할 중요한 과제에 투입할 정신적 가용 용량을 대폭 떨어뜨립니다. 복잡하게 엉킨 실타래를 풀기 전에, 뇌의 모든 연결망을 일시 정지시킬 정적이 요구됩니다.\n\n오늘 포스트에서는 아그네스 마틴의 의자 대기 의식이 뇌의 정보 처리 과부하를 어떻게 제어하는지 규명하고, 현대 지식 근로자들이 일과 시작 전 뇌의 메모리 공간을 완벽하게 세척하여 창의적 직관을 증폭시키는 3단계 실천 방안을 제시합니다."
+      "ko": "\"나는 내 마음에 아무것도 남지 않을 때까지 의자에 앉아 기다린다. 마음이 완벽하게 텅 비었을 때, 비로소 참된 그림의 형태가 내 눈앞에 펼쳐진다.\" 🧘‍♀️\n\n미니멀리즘과 추상표현주의의 경계에서 섬세하고 정밀한 격자(Grid) 패턴과 파스텔톤의 깊은 영적 색채로 현대 미술의 거장 반열에 오른 캐나다 출신의 미국 화가, 아그네스 마틴(Agnes Martin, 1912–2004). 뉴멕시코의 고요한 사막에서 독거하며 세간의 소음과 대중의 평가로부터 자신을 격리했던 그녀가 흔들림 없는 독창성을 지켜낼 수 있었던 비결은 매일 아침 거행했던 극도로 정적인 대기 의식이었습니다. 마틴은 작업실 의자에 앉아 마음속의 온갖 욕망, 계획, 잡념이 깨끗이 가라앉아 호수처럼 투명해질 때까지 몇 시간이고 묵묵히 앉아 대기했습니다. 오직 영혼의 영감이 명확한 환영으로 떠올랐을 때에만 그녀는 붓을 잡고 한 치의 오차도 없는 조화로운 드로잉을 시작했습니다. 뇌과학적으로 이 정신적 청소 루틴이 뇌를 최고의 통찰 상태로 이끄는 원리를 알아봅니다.\n\n우리는 아침 출근길에 겪은 교통 혼잡, 어제 들은 핀잔, 그리고 오늘 처리해야 할 복잡한 할 일 목록에 휘말린 채 허둥지둥 작업을 개시하곤 합니다. 이 어수선한 정신 상태는 뇌의 워킹 메모리를 쓸데없는 걱정과 잡다한 계획으로 가득 채워, 정작 당장 집중해야 할 중요한 과제에 투입할 정신적 가용 용량을 대폭 떨어뜨립니다. 복잡하게 엉킨 실타래를 풀기 전에, 뇌의 모든 연결망을 일시 정지시킬 정적이 요구됩니다.\n\n오늘 포스트에서는 아그네스 마틴의 의자 대기 의식이 뇌의 정보 처리 과부하를 어떻게 제어하는지 규명하고, 현대 지식 근로자들이 일과 시작 전 뇌의 메모리 공간을 완벽하게 세척하여 창의적 직관을 증폭시키는 3단계 실천 방안을 제시합니다.",
+      "en": "\"I sit in my chair and wait until my mind is completely empty. When there is nothing left in my mind, the true image of the painting appears before my eyes.\" 🧘‍♀️\n\nAgnes Martin (1912–2004) was a Canadian-American abstract painter who achieved legendary status in modern art through her delicate hand-drawn grid patterns and contemplative pastel wash canvases. Living in the quiet solitude of New Mexico to insulate herself from public noise, her secret to maintaining unwavering originality was an extraordinarily quiet morning waiting ritual. Martin sat silently in her studio chair for hours until all desires, plans, and random thoughts settled like a clear mountain lake. Only when a pristine vision of inspiration emerged in her mind did she pick up her brush to paint harmoniously without a millimeter of error.\n\nWe often rush into work with working memory clogged by traffic stress, lingering grievances, or overwhelming to-do lists. This cluttered mental state drains cognitive capacity needed for high-level problem solving. Before untangling complex tasks, a deliberate pause of total stillness is required to reset neural networks.\n\nIn today's post, we examine how Agnes Martin's chair waiting ritual regulates cognitive information overload and offer a 3-step practical routine for knowledge workers to cleanse working memory and amplify creative intuition before starting the workday.",
+      "ja": "「心の中に何も残らなくなるまで、私は椅子に座って待つ。心が完璧に空っぽになった時、初めて真の絵の形が目の前に現れる。」 🧘‍♀️\n\nミニマリズムと抽象表現主義の境界において、繊細で精密な格子（Grid）パターンとパステルトーンの深遠な精神的色彩で現代美術の巨匠の列に登りつめたカナダ出身のアメリカの画家、アグネス・マーティン（Agnes Martin, 1912–2004）。ニューメキシコの静かな砂漠で独居し、世間の騒音や外界の評価から身を隔離した彼女が揺るぎない独創性を維持できた秘訣は、毎朝行っていた極めて静的な待機儀式でした。マーティンはアトリエの椅子に座り、心の中のあらゆる欲望、計画、雑念が綺麗に静まり返り湖のように透明になるまで、何時間でも静かに座って待ちました。魂の霊感が明瞭なイメージとして浮かび上がった時に初めて彼女は筆を握り、一ミリの狂いもない調和のとれたドローイングを開始しました。\n\n私たちは朝の通勤ラッシュ、昨日受けた小言、アンド今日こなすべき複雑なToDoリストに振り回されたまま慌ただしく作業を開始しがちです。この雑然とした精神状態は脳のワーキングメモリを無駄な心配で満たし、本当に集中すべき重要な課題に投入する認知容量を大幅に低下させます。複雑に絡み合った糸を解きほぐす前に、脳のネットワークを一時停止させる静寂が求められます。\n\n今日の記事では、アグネス・マーティンの椅子待機儀式が脳の情報処理過負荷をどのように制御するかを解明し、現代のナレッジワーカーが一日の開始前に脳のメモリ空間を完璧に洗浄し創造的直感を増幅させる3段階の実践プランをご提案します。",
+      "zh": "“我会一直坐在椅子上等待，直到心中不留一物。当内心归于彻底的空灵，画作真正的形态才会呈现在眼前。” 🧘‍♀️\n\n诞生于加拿大、后定居美国的著名抽象派画家阿格尼斯·马丁（Agnes Martin，1912–2004），以其精致纤细的手绘网格（Grid）纹理与淡雅宁静的色彩，在现代艺术史册上确立了独树一掷的巨匠地位。她隐居于新墨西哥州安宁的沙漠中，与外界的喧嚣及公众评判保持距离。她保持不竭原创力的秘诀，正是每天清晨进行的极度静默的等待仪式。马丁会静静地坐在画室的椅子上数小时，直到内心所有的欲望、计划与杂念完全沉淀如澄澈的湖水。唯有当灵魂深处的灵感显现出清晰的画面时，她才会提起画笔，精准无误地勾勒出和谐的线条。\n\n现代人常常拖着被交通拥堵、负面情绪或琐碎待办事项充斥的疲惫脑海仓促开工。这种混浊的精神状态极大地挤占了大脑工作记忆（Working Memory）的可用容量。在解开纷繁复杂的工作线团之前，我们需要片刻彻底 reset 脑回路的静默。\n\n在今天的文章中，我们将阐明阿格尼斯·马丁的静默等待习惯如何调控大脑的信息过载，并为现代知识工作者提供3个步骤，助您在开工前清空工作记忆，释放敏锐的创造性直觉。",
+      "es": "\"Me siento en mi silla y espero hasta que no quede nada en mi mente. Solo cuando mi mente está completamente vacía, la forma verdadera de la pintura aparece ante mis ojos.\" 🧘‍♀️\n\nAgnes Martin (1912–2004), pintora abstracta canadiense-estadounidense, alcanzó un estatus legendario en el arte moderno con sus delicadas cuadrículas dibujadas a mano y lienzos de tonos pastel contemplativos. Viviendo en la soledad de Nuevo México para aislarse del ruido exterior, su secreto para mantener una originalidad inquebrantable era un ritual matutino de espera silenciosa. Martin se sentaba en la silla de su estudio durante horas hasta que todos los deseos, planes y pensamientos al azar se asentaban como un lago cristalino. Solo cuando surgía una visión clara de inspiración, tomaba el pincel para pintar con absoluta armonía.\n\nA menudo nos precipitamos al trabajo con la memoria de trabajo saturada por el tráfico, preocupaciones acumuladas o listas de tareas abrumadoras. Este estado frena la capacidad cognitiva necesaria para resolver problemas complejos. Antes de desenredar tareas difíciles, se requiere una pausa consciente de quietud total para reiniciar las redes neuronales.\n\nEn la publicación de hoy, examinamos cómo el ritual de espera de Agnes Martin regula la sobrecarga cognitiva de información y ofrecemos una rutina de 3 pasos para limpiar la memoria de trabajo y amplificar la intuition creativa.",
+      "de": "\"Ich sitze auf meinem Stuhl und warte, bis mein Geist völlig leer ist. Erst wenn nichts mehr in meinem Geist ist, erscheint das wahre Bild der Malerei vor meinen Augen.\" 🧘‍♀️\n\nAgnes Martin (1912–2004), kanadisch-amerikanische abstrakte Malerin, erlangte mit ihren feinen handgezeichneten Rasterstrukturen und sanften Pastelltönen Weltruhm im modernen Kunstbetrieb. Sie lebte in der Abgeschiedenheit von New Mexico, um sich vor äußeren Ablenkungen zu schützen. Ihr Geheimnis für unerschütterliche Originalität war ein extrem stilles morgendliches Warte-Ritual. Martin saß stundenlang still auf ihrem Atelierstuhl, bis sich alle Wünsche, Pläne und Alltagsgedanken wie ein klarer Bergsee legten. Erst wenn eine klare Inspiration vor ihrem inneren Auge erschien, ergriff sie den Pinsel.\n\nOft stürzen wir uns in die Arbeit, während das Arbeitsgedächtnis noch mit Berufsverkehr, Ärger oder endlosen To-Do-Listen überfüllt ist. Dieser mentale Lärm raubt Kapazitäten für komplexe Aufgaben. Bevor Sie komplexe Fäden entwirren, braucht das Gehirn einen Moment absoluter Stille.\n\nIm heutigen Beitrag untersuchen wir, wie Agnes Martins Warte-Ritual die kognitive Reizüberflutung reguliert, und bieten eine 3-Schritte-Anleitung für Wissensarbeiter, um den Arbeitsspeicher zu leeren.",
+      "fr": "\"Je m'assois sur ma chaise et j'attends que mon esprit soit complètement vide. Ce n'est que lorsque mon esprit est totalement vide que la véritable forme du tableau m'apparaît.\" 🧘‍♀️\n\nAgnes Martin (1912–2004), peintre abstraite canadienne-américaine, est devenue une figure majeure de l'art moderne grâce à ses motifs de grilles faits à la main d'une grande finesse et ses toiles aux teintes pastel contemplatives. Vivant dans la solitude du Nouveau-Mexique pour se préserver du bruit ambiant, son secret pour maintenir une originalité intacte résidait dans un rituel matinal d'attente silencieuse. Martin restait assise des heures sur sa chaise d'atelier jusqu'à ce que désirs, projets et pensées parasites s'apaisent comme l'eau d'un lac. Ce n'est que lorsqu'une vision pure émergeait qu'elle saisissait son pinceau.\n\nNous nous précipitons souvent au travail l'esprit encombré par les embouteillages, les soucis ou de longues listes de tâches. Cet encombrement mental épuise la mémoire de travail nécessaire à la réflexion approfondie. Avant de démarrer des tâches complexes, un temps d'arrêt silencieux est indispensable pour réinitialiser les réseaux neuronaux.\n\nDans l'article d'aujourd'hui, nous analysons comment le rituel d'attente d'Agnes Martin régule la surcharge cognitive et proposons une méthode en 3 étapes pour faire le vide mental et libérer l'intuition créative.",
+      "pt": "\"Sento-me na minha cadeira e espero até que minha mente esteja completamente vazia. Somente quando minha mente está totalmente vazia, a forma verdadeira da pintura surge diante dos meus olhos.\" 🧘‍♀️\n\nAgnes Martin (1912–2004), pintora abstrata canadense-americana, alcançou um status lendário na arte moderna com suas delicadas grades desenhadas à mão e telas contemplativas em tons pastel. Vivendo na quietude do Novo México para se isolar dos ruídos do mundo, seu segredo para manter uma originalidade inabalável era um ritual matinal de espera silenciosa. Martin sentava-se em sua cadeira no estúdio por horas até que todos os desejos, planos e pensamentos dispersos se acalmassem como um lago sereno. Somente quando uma visão cristalina de inspiração emergia, ela pegava o pincel para desenhar em perfeita harmonia.\n\nMuitas vezes começamos o dia com a memória de trabalho saturada pelo trânsito, estresse ou listas infinitas de tarefas. Esse estado mental poluído consome a capacidade cognitiva necessária para solucionar problemas complexos. Antes de iniciar tarefas exigentes, uma pausa de silêncio absoluto é necessária para reiniciar os circuitos cerebrais.\n\nNo post de hoje, analisamos como o ritual de espera de Agnes Martin regula a sobrecarga cognitiva e oferecemos uma rotina de 3 passos para limpar a memória de trabalho e potencializar a intuição criativa.",
+      "id": "\"Saya duduk di kursi dan menunggu hingga pikiran saya benar-benar kosong. Hanya ketika pikiran saya sepenuhnya hampa, wujud lukisan yang sesungguhnya muncul di depan mata saya.\" 🧘‍♀️\n\nAgnes Martin (1912–2004), pelukis abstrak Kanada-Amerika, meraih posisi mahakarya seni modern lewat pola garis kisi (grid) buatan tangan yang halus serta lapisan warna pastel yang kontemplatif. Tinggal dalam kesendirian di gurun New Mexico untuk mengisolasi diri dari hiruk-pikuk dunia, rahasianya mempertahankan orisinalitas tanpa kompromi adalah ritual menunggu dalam keheningan setiap pagi. Martin duduk berjam-jam di kursi studio hingga seluruh keinginan, rencana, dan pikiran pengganggu mengendap tenang seperti danau pegunungan. Hanya ketika visi inspirasi murni muncul secara jelas, ia memegang kuasnya untuk melukis dengan keharmonisan sempurna.\n\nKita sering kali terburu-buru mulai bekerja dengan memori kerja yang dipenuhi stres kemacetan, kekesalan, atau daftar tugas yang menumpuk. Kondisi mental yang kabur ini menguras kapasitas kognitif yang dibutuhkan untuk pemecahan masalah tingkat tinggi. Sebelum mengurai benang yang kusut, dibutuhkan jeda hening total untuk mengatur ulang jaringan otak.\n\nDalam artikel hari ini, kami mengulas bagaimana ritual menunggu di kursi ala Agnes Martin mengendalikan beban informasi kognitif dan menyajikan 3 langkah practical bagi pekerja pengetahuan untuk membersihkan ruang memori otak sebelum memulai aktivitas harian."
     },
     "whyTitle": {
-      "ko": "정신적 노이즈(Cognitive Noise) 감소와 알파-세타파 동조화"
+      "ko": "정신적 노이즈(Cognitive Noise) 감소와 알파-세타파 동조화",
+      "en": "Reduction of Cognitive Noise and Alpha-Theta Wave Entrainment",
+      "ja": "精神的ノイズ（Cognitive Noise）の減少とアルファ–シータ波の同調",
+      "zh": "减少认知噪音（Cognitive Noise）与阿尔法-西塔脑波同步",
+      "es": "Reducción del ruido cognitivo y sincronización de ondas Alfa-Theta",
+      "de": "Reduzierung kognitiven Lärms und Alpha-Theta-Wellen-Entrainment",
+      "fr": "Réduction du bruit cognitif et synchronisation des ondes Alpha-Thêta",
+      "pt": "Redução do ruído cognitivo e sincronização de ondas Alfa-Theta",
+      "id": "Pengurangan Kebisingan Kognitif dan Sinkronisasi Gelombang Alfa-Teta"
     },
     "whyDesc": {
-      "ko": "현대인들의 뇌는 끊임없이 무언가를 계산하고 해결해야 한다는 압박에 시달리며 빠른 템포의 베타파(Beta Waves)를 과도하게 방출합니다. 이 상태는 뇌의 인지적 노이즈를 증폭시켜 심도 깊은 통찰이나 직관적 창의성을 방해합니다. 아그네스 마틴처럼 의식적으로 행동을 멈추고 내부의 감각과 조용한 정적에 집중하면, 뇌는 불안을 가라앉히는 알파파(Alpha Waves)를 지나 고요하고 깊은 성찰 상태의 세타파(Theta Waves)로 기어를 바꿉니다. 이 뇌파 동조화는 전두엽의 방어적인 논리 필터를 걷어내어, 장기 기억과 무의식 속에 파묻혀 있던 최적의 해결책과 신선한 아이디어를 선명하게 활성화합니다."
+      "ko": "현대인들의 뇌는 끊임없이 무언가를 계산하고 해결해야 한다는 압박에 시달리며 빠른 템포의 베타파(Beta Waves)를 과도하게 방출합니다. 이 상태는 뇌의 인지적 노이즈를 증폭시켜 심도 깊은 통찰이나 직관적 창의성을 방해합니다. 아그네스 마틴처럼 의식적으로 행동을 멈추고 내부의 감각과 조용한 정적에 집중하면, 뇌는 불안을 가라앉히는 <strong>알파파(Alpha Waves)</strong>를 지나 고요하고 깊은 성찰 상태의 <strong>세타파(Theta Waves)</strong>로 기어를 바꿉니다. 이 뇌파 동조화는 전두엽의 방어적인 논리 필터를 걷어내어, 장기 기억과 무의식 속에 파묻혀 있던 최적의 해결책과 신선한 아이디어를 선명하게 활성화합니다.",
+      "en": "Modern brains constantly emit fast Beta Waves under the pressure to calculate and solve problems continuously. This state amplifies cognitive noise and blocks deep insight or intuitive creativity. When you consciously pause action and focus on inner silence—like Agnes Martin—the brain shifts gears from anxiety-soothing <strong>Alpha Waves</strong> down to deeply reflective <strong>Theta Waves</strong>. This wave entrainment lifts the prefrontal cortex's defensive logical filter, vividly activating optimal solutions and fresh ideas buried deep in long-term memory.",
+      "ja": "現代人の脳は、絶えず何かを計算し解決しなければならないというプレッシャーに晒され、テンポの速いベータ波（Beta Waves）を過剰に放出してしまいます。この状態は脳の認知的ノイズを増幅させ、深遠な洞察や直感的な創造性を妨げます。アグネス・マーティンのように意識的に行動を止め、内部の感覚と静かな静寂に集中すると、脳は不安を静める<strong>アルファ波（Alpha Waves）</strong>を経て、穏やかで深い省察状態の<strong>シータ波（Theta Waves）</strong>へとギアを切り替えます。この脳波同調は前頭葉の防衛的な論理フィルターを取り払い、長期記憶や無意識の中に埋もれていた最適な解決策や新鮮なアイデアを鮮明に活性化させます。",
+      "zh": "现代人的大脑长期处于“必须不断计算与解决问题”的紧绷状态之下，过量释放着高频的贝塔脑波（Beta Waves）。这种状态会放大认知噪音，阻碍深度洞察与直觉创造力。像阿格尼斯·马丁那样有意识地暂停行动、专注于内在的沉静与安宁，大脑就会从平息焦虑的<strong>阿尔法波（Alpha Waves）</strong>切入深度沉思的<strong>西塔脑波（Theta Waves）</strong>状态。这种脑波同步能卸下前额叶皮层的防御性逻辑屏障，清晰地唤醒沉睡于长期记忆与潜意识深处的最佳解决方案与全新创意。",
+      "es": "El cerebro moderno emite constantemente ondas Beta rápidas bajo la presión de resolver problemas sin pausa. Este estado amplifica el ruido cognitivo y bloquea la intuición. Al detener conscientemente la acción y enfocar el silencio interior, el cerebro cambia de <strong>Ondas Alfa (Alpha Waves)</strong> relajantes a <strong>Ondas Theta (Theta Waves)</strong> de profunda reflexión. Esta sincronización levanta el filtro lógico defensivo de la corteza prefrontal, activando soluciones óptimas enterradas en la memoria a largo plazo.",
+      "de": "Moderne Gehirne senden unter ständigem Problemlösungsdruck schnelle Betawellen aus. Dies verstärkt kognitiven Lärm und blockiert Intuition. Wenn Sie – wie Agnes Martin – bewusst innehalten und sich auf innere Stille konzentrieren, schaltet das Gehirn von beruhigenden <strong>Alphawellen (Alpha Waves)</strong> zu tief reflektierenden <strong>Thetawellen (Theta Waves)</strong> um. Diese Gehirnwellen-Synchronisation hebt logische Barrieren auf und aktiviert schöpferische Ideen im Langzeitgedächtnis.",
+      "fr": "Le cerveau moderne émet continuellement des ondes Bêta rapides sous la pression de résoudre des problèmes. Cet état amplifie le bruit cognitif et bloque l'intuition. En marquant une pause consciente pour vous concentrer sur le silence intérieur, le cerveau passe des <strong>Ondes Alpha (Alpha Waves)</strong> apaisantes aux <strong>Ondes Thêta (Theta Waves)</strong> de réflexion profonde. Cette synchronisation lève les filtres logiques préfrontaux, réveillant des idées novatrices enfouies dans la mémoire à long terme.",
+      "pt": "O cérebro moderno emite constantemente ondas Beta rápidas sob a pressão de resolver problemas sem parar. Esse estado amplia o ruído cognitivo e bloqueia a intuição. Ao interromper conscientemente a ação e focar no silêncio interior, o cérebro transita de <strong>Ondas Alfa (Alpha Waves)</strong> para <strong>Ondas Theta (Theta Waves)</strong> de profunda reflexão, removendo filtros lógicos e ativando ideias enterradas na memória de longo prazo.",
+      "id": "Otak manusia modern terus memancarkan Gelombang Beta yang cepat akibat tekanan untuk menyelesaikan masalah. Kondisi ini memperbesar kebisingan kognitif dan menghambat intuisi kreatif. Ketika Anda dengan sadar menghentikan tindakan dan berfokus pada keheningan batin, otak berganti gigi dari <strong>Gelombang Alfa (Alpha Waves)</strong> menuju <strong>Gelombang Teta (Theta Waves)</strong> yang reflektif. Sinkronisasi gelombang otak ini mengangkat filter logika pertahanan diri, mengaktifkan ide-ide segar di memori jangka panjang."
     },
     "cautionTitle": {
-      "ko": "주의사항 및 팁"
+      "ko": "주의사항 및 팁",
+      "en": "Precautions and Tips",
+      "ja": "注意事項とヒント",
+      "zh": "注意事项与使用建议",
+      "es": "Precauciones y consejos",
+      "de": "Vorsichtsmaßnahmen und Tipps",
+      "fr": "Précautions et conseils",
+      "pt": "Precauções e dicas",
+      "id": "Perhatian dan Tips"
     },
     "cautionDesc": {
-      "ko": "정적 대기 중 뇌를 비우기 위해 애쓰다가 역효과로 '잡념과의 전쟁'을 벌이는 함정에 빠지지 않도록 유의해야 합니다. 떠오르는 생각을 억지로 억누르려(Suppression) 하면 뇌는 도리어 그 생각에 더 강하게 집착하게 됩니다. 이를 심리학에서는 '리바운드 효과(Rebound Effect)'라고 부릅니다. 생각이 떠오를 때는 억지로 지우려 하지 말고, 흐르는 구름을 바라보듯 '아, 내가 이런 생각을 하고 있구나'라며 건조하게 인정하고 다시 호흡의 부드러운 흐름으로 주의의 닻을 돌려놓는 마음챙김(Mindfulness) 태도가 필요합니다."
+      "ko": "정적 대기 중 뇌를 비우기 위해 애쓰다가 역효과로 '잡념과의 전쟁'을 벌이는 함정에 빠지지 않도록 유의해야 합니다. 떠오르는 생각을 억지로 억누르려(Suppression) 하면 뇌는 도리어 그 생각에 더 강하게 집착하게 됩니다. 이를 심리학에서는 '리바운드 효과(Rebound Effect)'라고 부릅니다. 생각이 떠오를 때는 억지로 지우려 하지 말고, 흐르는 구름을 바라보듯 '아, 내가 이런 생각을 하고 있구나'라며 건조하게 인정하고 다시 호흡의 부드러운 흐름으로 주의의 닻을 돌려놓는 마음챙김(Mindfulness) 태도가 필요합니다.",
+      "en": "Be careful not to fall into the trap of 'warring with thoughts' while trying to clear your mind. Suppressing arising thoughts causes the brain to obsess over them even more strongly—a psychological phenomenon called the 'Rebound Effect'. Instead of forcing thoughts away, observe them like passing clouds, non-judgmentally acknowledge them, and gently anchor your attention back to your breath through mindfulness.",
+      "ja": "静寂待機中に脳を空っぽにしようと焦るあまり、逆効果として「雑念との戦争」に陥らないよう注意が必要です。浮かんでくる思考を無理に抑え込もう（Suppression）とすると、脳はかえってその思考に強く執着してしまいます。これを心理学では「リバウンド効果（Rebound Effect）」と呼びます。思考が浮かんだ時は無理に消そうとせず、流れる雲を眺めるように「ああ、こんな考えが浮かんでいるな」とドライに認め、再び呼吸の柔らかい流れへと注意の錨を戻すマインドフルネス（Mindfulness）の姿勢が必要です。",
+      "zh": "在静默等待的过程中，切忌刻意强求“清空大脑”，以免跌入与“杂念对抗”的陷阱。强行压抑（Suppression）脑海中浮现的想法，反而会导致大脑对其产生更强烈的执念，这在心理学上被称为“反弹效应（Rebound Effect）”。当想法冒出时，无需强行抹去，而是应当像观望云卷云舒般，平静地承认“原来我产生了这样的想法”，随后运用正念（Mindfulness）将注意力温柔地重新锚定于呼吸之上。",
+      "es": "Tenga cuidado de no caer en la trampa de 'luchar contra sus pensamientos' al intentar vaciar la mente. Tratar de reprimir los pensamientos hace que el cerebro se obsesione más con ellos, un fenómeno conocido como 'Efecto Rebote (Rebound Effect)'. En lugar de forzarlos, obsérvelos como nubes pasajeras, reconózcalos sin juzgar y devuelva suavemente su atención a la respiración mediante la atención plena (Mindfulness).",
+      "de": "Achten Sie darauf, beim Stillwerden nicht in den Fehler zu verfallen, 'gegen Störgedanken zu kämpfen'. Das Unterdrücken (Suppression) von Gedanken führt dazu, dass sich das Gehirn nur umso starker daran festbeißt – in der Psychologie als 'Rebound-Effekt' bekannt. Lassen Sie Gedanken wie Wolken vorbeiziehen, nehmen Sie sie wertfrei wahr und lenken Sie die Aufmerksamkeit sanft auf den Atem zurück (Mindfulness).",
+      "fr": "Attention à ne pas tomber dans le piège de la 'lutte contre les pensées' en voulant faire le vide. Chercher à réprimer (Suppression) les idées rend le cerveau encore plus obsédé par elles — c'est l'Effet Rebond (Rebound Effect). Laissez les pensées passer comme des nuages, observez-les sans jugement et ramenez doucement votre attention sur votre respiration grâce à la pleine conscience (Mindfulness).",
+      "pt": "Cuidado para não cair na armadilha de 'guerrear contra os pensamentos' ao tentar esvaziar a mente. Suprimir pensamentos faz com que o cérebro fique ainda mais obcecado por eles — o chamado 'Efeito Rebote (Rebound Effect)'. Em vez de forçá-los a sair, observe-os como nuvens passando, reconheça-os sem julgamento e retorne suavemente a atenção à respiração (Mindfulness).",
+      "id": "Berhati-hatilah agar tidak terjebak dalam 'perang melawan pikiran' saat berusaha mengosongkan otak. Menekan pikiran secara paksa (Suppression) justru membuat otak semakin terobsesi dengannya—fenomena psikologis yang disebut 'Efek Membal (Rebound Effect)'. Saat pikiran muncul, amati seperti awan yang melintas, akui secara netral, lalu kembalikan perhatian ke helaan napas melalui kesadaran penuh (Mindfulness)."
     },
     "steps": [
       {
         "name": {
-          "ko": "작업 개시 전 5분 물리적 정지 의식"
+          "ko": "작업 개시 전 5분 물리적 정지 의식",
+          "en": "Perform a 5-Minute Physical Stillness Ritual Before Work",
+          "ja": "作業開始前5分間の物理的停止儀式",
+          "zh": "在开工前进行5分钟的身体静止仪式",
+          "es": "Realizar un ritual de quietud física de 5 minutos antes de trabajar",
+          "de": "Durchführung eines 5-minütigen Rituals physischer Stille vor der Arbeit",
+          "fr": "Observer un rituel d'immobilité physique de 5 minutes avant le travail",
+          "pt": "Realizar um ritual de imobilidade física de 5 minutos antes do trabalho",
+          "id": "Melakukan Ritual Hening Fisik 5 Menit Sebelum Bekerja"
         },
         "text": {
-          "ko": "컴퓨터 모니터와 전자기기를 끄고 편안한 의자에 척추를 세워 곧게 앉아, 모든 외부 신체 움직임을 강제로 중단합니다."
+          "ko": "컴퓨터 모니터와 전자기기를 끄고 편안한 의자에 척추를 세워 곧게 앉아, 모든 외부 신체 움직임을 강제로 중단합니다.",
+          "en": "Turn off computer monitors and electronic devices, sit upright in a comfortable chair with a straight spine, and intentionally halt all external physical movement.",
+          "ja": "パソコンのモニターや電子機器をオフにし、快適な椅子に背筋を伸ばしてまっすぐ座り、すべての外部の身体的動作を意図的に停止します。",
+          "zh": "关闭电脑屏幕与电子设备，挺直脊椎端坐在舒适的椅子上，主动暂停一切肢体动作。",
+          "es": "Apague monitores y dispositivos electrónicos, siéntese erguido en una silla cómoda con la espalda recta y detenga conscientemente todo movimiento corporal.",
+          "de": "Schalten Sie Bildschirme und Geräte aus, sitzen Sie aufrecht mit gerader Wirbelsäule auf einem bequemen Stuhl und stoppen Sie jede physische Bewegung.",
+          "fr": "Éteignez les écrans et appareils électroniques, asseyez-vous le dos droit sur une chaise confortable et interrompez délibérément tout mouvement corporel.",
+          "pt": "Desligue monitores e dispositivos eletrônicos, sente-se ereto em uma cadeira confortável com a coluna ereta e interrompa todo movimento físico.",
+          "id": "Matikan layar komputer dan perangkat elektronik, duduk tegak di kursi yang nyaman, dan hentikan seluruh gerakan fisik secara sadar."
         }
       },
       {
         "name": {
-          "ko": "브레인 노이즈의 인지적 흘려보내기"
+          "ko": "브레인 노이즈의 인지적 흘려보내기",
+          "en": "Cognitively Release Brain Noise",
+          "ja": "ブレイン・ノイズの認知的受け流し",
+          "zh": "对大脑杂音进行认知层面的放手",
+          "es": "Liberar cognitivamente el ruido cerebral",
+          "de": "Kognitives Gehenlassen von mentalem Lärm",
+          "fr": "Laisser filer le bruit cérébral",
+          "pt": "Liberar cognitivamente o ruído mental",
+          "id": "Melepaskan Kebisingan Otak secara Kognitif"
         },
         "text": {
-          "ko": "밀린 업무에 대한 걱정이나 일상적 계획이 뇌리에 스치면, 평가하지 않고 그대로 두어 머릿속 노이즈가 가라앉기를 침묵 속에 기다립니다."
+          "ko": "밀린 업무에 대한 걱정이나 일상적 계획이 뇌리에 스치면, 평가하지 않고 그대로 두어 머릿속 노이즈가 가라앉기를 침묵 속에 기다립니다.",
+          "en": "When worries about pending tasks or daily plans cross your mind, refrain from judging them. Allow them to pass and wait silently for the noise to subside.",
+          "ja": "溜まった仕事への不安や日常の計画が頭をよぎっても、評価せずにそのままにしておき、頭の中のノイズが静まるのを静寂の中で待ちます。",
+          "zh": "当对未完成工作的担忧或琐碎计划浮现时，切勿进行自我评判，静静地等待大脑的杂音自行沉淀。",
+          "es": "Cuando surjan preocupaciones sobre tareas pendientes o planes cotidianos, evite juzgarlos; déjelos pasar y espere en silencio a que el ruido se disipe.",
+          "de": "Wenn Sorgen über unerledigte Aufgaben oder Pläne auftauchen, bewerten Sie diese nicht; lassen Sie sie ziehen und warten Sie in Stille, bis der Lärm abflaut.",
+          "fr": "Lorsque des inquiétudes concernant vos tâches ou projets traversent votre esprit, observez-les sans jugement et attendez en silence que le bruit s'apaise.",
+          "pt": "Quando surgirem preocupações sobre tarefas pendentes ou planos diários, evite julgá-los; deixe-os passar e espere em silêncio até que o ruído mental diminua.",
+          "id": "Saat kekhawatiran tentang tugas atau rencana harian melintas, hindari menilai pikiran tersebut; biarkan berlalu dan tunggulah dalam keheningan hingga kebisingan mereda."
         }
       },
       {
         "name": {
-          "ko": "투명해진 전두엽 상태에서의 매끄러운 시작"
+          "ko": "투명해진 전두엽 상태에서의 매끄러운 시작",
+          "en": "Smooth Execution in a Cleared Prefrontal State",
+          "ja": "透明になった前頭葉状態でのスムーズな開始",
+          "zh": "在大脑清透状态下流畅开启核心任务",
+          "es": "Inicio fluido en un estado prefrontal despejado",
+          "de": "Reibungsloser Start bei geklärtem präfrontalen Kortex",
+          "fr": "Démarrage fluide avec un esprit clarifié",
+          "pt": "Início fluido com o córtex pré-frontal limpo",
+          "id": "Memulai Pekerjaan dengan Kondisi Prefrontal yang Jernih"
         },
         "text": {
-          "ko": "정신적 안개가 걷히고 가벼운 집중 상태가 찾아오면, 가장 먼저 수행할 단 하나의 본질적 핵심 과제만 켜고 작업을 개시합니다."
+          "ko": "정신적 안개가 걷히고 가벼운 집중 상태가 찾아오면, 가장 먼저 수행할 단 하나의 본질적 핵심 과제만 켜고 작업을 개시합니다.",
+          "en": "Once the mental fog clears and a state of effortless focus sets in, open only the single most essential core task and begin your work.",
+          "ja": "精神の霧が晴れて軽やかな集中状態が訪れたら、最も優先して行うべき単一の本質的コア課題のみを開いて作業を開始します。",
+          "zh": "当脑海迷雾散去、迎来轻盈的专注状态时，仅打开最为核心的那一项关键任务，开始高效工作。",
+          "es": "Una vez que la niebla mental se disipe y sienta un enfoque claro, abra únicamente la tarea esencial más importante y comience a trabajar.",
+          "de": "Sobald sich der mentale Nebel lichtet und fokussierte Klarheit eintritt, widmen Sie sich ausschließlich der einen, wichtigsten Kernaufgabe.",
+          "fr": "Une fois le brouillard mental dissipé et la clarté retrouvée, ouvrez uniquement la tâche essentielle et commencez à travailler.",
+          "pt": "Assim que a névoa mental se dissipar e o foco surgir, abra apenas a tarefa mais essencial e comece a trabalhar.",
+          "id": "Setelah kabut mental sirna dan fokus yang jernih tercapai, bukalah hanya satu tugas inti yang paling esensial dan mulailah bekerja."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "시간이 부족한 직장인은 몇 시간씩 명상할 수 없는데, 마틴의 루틴을 현실적으로 어떻게 단축하나요?"
+          "ko": "시간이 부족한 직장인은 몇 시간씩 명상할 수 없는데, 마틴의 루틴을 현실적으로 어떻게 단축하나요?",
+          "en": "How can busy workers practically shorten Martin's routine if they cannot meditate for hours?",
+          "ja": "時間の少ない社会人は何時間も瞑想できませんが、マーティンのルーティンを現実的にどう短縮すればよいですか？",
+          "zh": "忙碌的上班族无法静坐冥想数小时，该如何将马丁的习惯转化为现实可行的简化版？",
+          "es": "¿Cómo pueden los profesionales ocupados acortar la rutina de Martin si no tienen horas para meditar?",
+          "de": "Wie können beschäftigte Menschen Martins Routine anpassen, wenn sie keine Stunden Zeit zum Meditieren haben?",
+          "fr": "Comment les professionnels occupés peuvent-ils adapter la routine de Martin s'ils ne peuvent pas méditer des heures ?",
+          "pt": "Como profissionais ocupados podem encurtar a rotina de Martin se não têm horas para meditar?",
+          "id": "Bagaimana pekerja yang sibuk dapat mempersingkat rutinitas Martin jika tidak memiliki waktu berjam-jam untuk bermeditasi?"
         },
         "answer": {
-          "ko": "아그네스 마틴처럼 몇 시간씩 명상할 필요는 없습니다. 단 5분 동안만이라도 작업을 개시하기 전 '의도적 멈춤(Intentional Pause)'을 갖는 것으로 충분합니다. 출근 직후 PC 전원을 켜기 전, 눈을 감고 깊은 호흡을 3회 반복하며 '오늘 내가 집중해야 할 최고의 본질은 무엇인가?'만 단 한 번 상기하고 일을 시작하는 것만으로도 브레인 노이즈를 획기적으로 청소하는 메타인지적 튜닝을 달성할 수 있습니다."
+          "ko": "아그네스 마틴처럼 몇 시간씩 명상할 필요는 없습니다. 단 5분 동안만이라도 작업을 개시하기 전 '의도적 멈춤(Intentional Pause)'을 갖는 것으로 충분합니다. 출근 직후 PC 전원을 켜기 전, 눈을 감고 깊은 호흡을 3회 반복하며 '오늘 내가 집중해야 할 최고의 본질은 무엇인가?'만 단 한 번 상기하고 일을 시작하는 것만으로도 브레인 노이즈를 획기적으로 청소하는 메타인지적 튜닝을 달성할 수 있습니다.",
+          "en": "There is no need to meditate for hours like Agnes Martin. Taking an 'Intentional Pause' for just 5 minutes before beginning work is completely sufficient. Right after arriving at your desk and before turning on your PC, close your eyes, take 3 deep breaths, and ask yourself 'What is the single most essential focus for today?'. This simple action achieves metacognitive tuning to clear brain noise.",
+          "ja": "アグネス・マーティンのように何時間も瞑想する必要はありません。たった5分間だけでも作業を開始する前に「意図的な停止（Intentional Pause）」を持つことで十分です。出社直後PCの電源を入れる前、目を閉じて深呼吸を3回繰り返し、「今日自分が集中すべき最高の本質は何か？」と一回思い起こしてから仕事を始めるだけで、脳のノイズを画期的に清掃するメタ認知的チューニングを達成できます。",
+          "zh": "您完全无需像马丁那样静坐数小时。只需在开工前保留5分钟的“有意识暂停（Intentional Pause）”即可。每天坐到桌前开电脑前，闭上眼睛进行3次深呼吸，问自己一句：“今天我最应当聚焦的核心本质是什么？”仅凭这一简单的步骤，就能完成清洗大脑噪音的超元认知调谐。",
+          "es": "No es necesario meditar durante horas. Tomar una 'Pausa Intencionada (Intentional Pause)' de tan solo 5 minutos antes de trabajar es suficiente. Al sentarse a su escritorio, cierre los ojos, respire profundo 3 veces y pregúntese: '¿Cuál es la tarea verdaderamente esencial para hoy?'. Esto logra un ajuste metacognitivo para limpiar el ruido mental.",
+          "de": "Sie müssen nicht stundenlang meditieren. Eine 'bewusste Pause (Intentional Pause)' von nur 5 Minuten vor Arbeitsbeginn reicht völlig aus. Schließen Sie am Schreibtisch vor dem Einschalten des Computers die Augen, atmen Sie dreimal tief durch und fragen Sie sich: 'Was ist heute das Wesentliche?'. Das allein bewirkt ein metakognitives Tuning zur Lärmbereinigung.",
+          "fr": "Il n'est nul besoin de méditer des heures. Une 'Pause Intentionnelle (Intentional Pause)' de seulement 5 minutes avant de commencer suffit. En vous installant au bureau, fermez les yeux, prenez 3 profondes inspirations et demandez-vous : 'Quelle est la tâche essentielle d'aujourd'hui ?'. Cela suffit à effectuer un réglage métacognitif pour éliminer le bruit cérébral.",
+          "pt": "Não é necessário meditar por horas. Fazer uma 'Pausa Intencional (Intentional Pause)' de apenas 5 minutos antes de começar o trabalho é suficiente. Ao se sentar na mesa, feche os olhos, respire fundo 3 vezes e pergunte-se: 'Qual é o foco mais essencial para o dia de hoje?'. Isso é suficiente para promover uma calibração metacognitiva e limpar o ruído mental.",
+          "id": "Tidak perlu bermeditasi berjam-jam. Cukup luangkan 'Jeda Disengaja (Intentional Pause)' selama 5 menit sebelum bekerja. Sebelum menyalakan komputer, pejamkan mata, tarik napas dalam 3 kali, dan tanyakan pada diri sendiri: 'Apa hal paling esensial yang harus saya fokuskan hari ini?'. Langkah sederhana ini sudah mampu menyelaraskan metakognitif untuk membersihkan kebisingan otak."
         }
       }
     ]

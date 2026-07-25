@@ -8,7 +8,7 @@ tags: ["위인 습관", "휴식"]
 heroImage: "/images/blog/pavarotti_bent_nail.webp"
 app: "buildself"
 formatVersion: 4
-authority: "Pavarotti Bent Nail 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+authority: "루치아노 파바로티 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
 steps:
   - name: "긴장 통제용 특정 촉각 소품(클립, 만지는 돌 등) 주머니에 소지하기"
     text: "무늬가 입체적이거나 만졌을 때 뚜렷한 질감이 느껴지는 작은 소품(행운의 열쇠고리, 스톤 등)을 준비해 주머니에 넣어 둡니다."
@@ -17,14 +17,18 @@ steps:
   - name: "심박수가 안정되어 가라앉은 상태 확인 후 자신 있게 개시하기"
     text: "소품 만지기를 통해 심호흡과 맥박이 하강했음을 자각합니다. 뇌가 긴장에서 벗어나 작업 기억력을 회복한 상태로 당당하게 입장합니다."
 faqs:
-  - question: "Why did Pavarotti specifically search for a bent nail?"
-    answer: "In Italian theater culture, finding a bent nail backstage is an old omen of good luck. He began doing it as a simple superstition, but it evolved into a mandatory cognitive anchor that saved him from crippling stage fright."
+  - question: "파바로티는 왜 하필 굽은 못을 찾았나요?"
+    answer: "이탈리아 극장 문화에서 백스테이지의 굽은 못을 찾는 것은 오랜 행운의 징조입니다. 그는 처음에는 단순한 미신으로 시작했지만, 점차 극심한 무대 공포증에서 자신을 구원해 주는 필수적인 인지적 닻(Anchor)으로 발전했습니다."
 
 ---
 
 "나는 언제나 무대에 오르기 전 나만의 작은 의식을 치른다. 그것이 내 두려움을 정복하는 유일한 길이기 때문이다." 🚶‍♂️
 
-천상의 목소리로 전 세계 관객을 매료시켰던 역사상 최고의 테너, 루치아노 파바로티. 무대 위에서 풍부한 성량으로 청중을 압도했던 그였지만, 사실 공연 시작 직전까지 심각한 무대 공포증과 스트레스로 구토까지 하던 예민한 예술가였습니다. 이 고통스러운 수행 불안(Performance Anxiety)을 다스리기 위해 그가 고안한 해결책은 공연 시작 직전 무대 뒤 백스테이지 바닥을 살펴 굽은 못(Bent Nail)을 찾아 주머니에 넣는 독특한 징크스 루틴이었습니다. 굽은 못을 찾는 집념의 의식이 어떻게 뇌를 안정시켰는지 알아봅니다.
+'하이 C의 제왕'이자 쓰리 테너(The Three Tenors)의 일원으로 천상의 목소리를 선보이며 전 세계 관객을 매료시킨 역사상 가장 위대한 테너, 루치아노 파바로티(Luciano Pavarotti, 1935–2007). 무대 위에서 압도적인 성량과 풍부한 성음으로 청중을 사로잡았던 그였지만, 사실 공연 시작 직전까지 심각한 무대 공포증과 수행 불안(Performance Anxiety)으로 구토를 할 만큼 민감한 예술가였습니다.
+
+이 고통스러운 불안감을 다스리기 위해 그가 찾은 해결책은 공연 직전 무대 뒤 백스테이지 바닥을 살펴 '굽은 못(Bent Nail)'을 찾아 주머니에 넣는 독특한 징크스 의식이었습니다. 이탈리아 극장 전통에서 굽은 못은 행운의 상징이었지만, 파바로티에게는 공포로 과열된 뇌를 물리적 촉각 감각으로 붙잡아 두는 강력한 '감각의 닻(Anchor)'이었습니다.
+
+오늘 포스트에서는 파바로티의 굽은 못 찾기 의식 속에 숨겨진 뇌과학적 원리와, 중요한 발표나 면접을 앞둔 현대인들이 불안과 무대 공포증을 차분히 잠재울 수 있는 감각 닻 활용법을 소개합니다.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -33,7 +37,7 @@ faqs:
       역사적 및 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Pavarotti Bent Nail 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 pavarotti-bent-nail 루틴을 다룹니다.
+      본 콘텐츠는 <strong>루치아노 파바로티 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 pavarotti-bent-nail 루틴을 다룹니다.
     </p>
   </div>
 </div>
@@ -87,11 +91,11 @@ faqs:
   
   <details class="group cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Why did Pavarotti specifically search for a bent nail?</span>
+      <span>파바로티는 왜 하필 굽은 못을 찾았나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      In Italian theater culture, finding a bent nail backstage is an old omen of good luck. He began doing it as a simple superstition, but it evolved into a mandatory cognitive anchor that saved him from crippling stage fright.
+      이탈리아 극장 문화에서 백스테이지의 굽은 못을 찾는 것은 오랜 행운의 징조입니다. 그는 처음에는 단순한 미신으로 시작했지만, 점차 극심한 무대 공포증에서 자신을 구원해 주는 필수적인 인지적 닻(Anchor)으로 발전했습니다.
     </p>
   </details>
 </div>

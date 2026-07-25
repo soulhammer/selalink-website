@@ -8,7 +8,7 @@ tags: ["기록", "메모", "생산성"]
 heroImage: "/images/blog/mead_immediate_field_notes.webp"
 app: "buildself"
 formatVersion: 4
-authority: "Mead Immediate Field Notes 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+authority: "마가렛 미드 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
 steps:
   - name: "휴대용 기록 도구 상시 휴대"
     text: "주머니에 들어가는 작은 휴대용 수첩과 연필을 항상 소지하거나, 스마트폰 첫 화면에 원터치 메모 앱 위젯을 꺼내 둡니다."
@@ -26,7 +26,9 @@ faqs:
 
 "관찰한 사실을 그 즉시 적지 않는다면, 그것은 존재하지 않는 것과 같다." 📝
 
-20세기 인류학의 패러다임을 바꾸고 문화적 다양성을 옹호한 세계적인 문화인류학자 마가렛 미드. 그녀는 남태평양 사모아 섬 등 문명의 발길이 닿지 않은 곳에 수년간 머물며 원주민들의 행동 양식과 의식을 관찰했습니다. 미드의 저작들이 100년이 지난 지금도 최고의 정교함과 사실성을 인정받는 이유는 그녀만의 독특한 기록 공식에 있었습니다. 미드는 무언가를 관찰하면 단 1시간도 뒤로 미루지 않고, 현장에서 즉시 가방 속 미니 수첩을 꺼내 생생하게 기록했습니다. 기억의 주관적 왜곡을 원천 봉쇄했던 미드의 즉각 기록 메커니즘을 상세히 해부합니다.
+20세기 인류학의 패러다임을 바꾸고 문화적 다양성을 옹호한 세계적인 문화인류학자 마가렛 미드(Margaret Mead, 1901~1978). 대표작 《사모아의 성년(Coming of Age in Samoa)》을 비롯해, 그녀는 남태평양 사모아 섬 등 문명의 발길이 닿지 않은 오지에 수년간 머물며 원주민들의 행동 양식과 의식을 정교하게 관찰했습니다. 미드의 현장 연구들이 100년이 지난 지금도 최고 수준의 사실성과 정교함을 인정받는 비결은 그녀만의 독특한 기록 방식에 있었습니다. 미드는 무언가를 관찰하면 단 1시간도 뒤로 미루지 않고, 현장에서 즉시 가방 속 미니 수첩을 꺼내 생생하게 기록했습니다.
+
+기억의 주관적 왜곡과 사후 각색을 원천 봉쇄했던 미드의 즉각 기록 메커니즘은 현대 뇌과학의 '인지 오프로딩(Cognitive Offloading)'과 완벽히 일치합니다. 오늘 포스트에서는 마가렛 미드의 현장 메모 루틴 속에 담긴 작업 기억 보호와 편향 방지의 과학을 분석하고, 현대인이 왜곡 없는 데이터 수집과 객관적 인지 정리를 달성할 수 있는 3단계 실천 가이드를 제안합니다.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -35,7 +37,7 @@ faqs:
       역사적 및 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Mead Immediate Field Notes 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 mead-immediate-field-notes 루틴을 다룹니다.
+      본 콘텐츠는 <strong>마가렛 미드 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 mead-immediate-field-notes 루틴을 다룹니다.
     </p>
   </div>
 </div>

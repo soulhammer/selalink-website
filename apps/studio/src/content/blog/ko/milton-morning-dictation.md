@@ -8,7 +8,7 @@ tags: ["위인 습관", "사색"]
 heroImage: "/images/blog/milton_morning_dictation.webp"
 app: "buildself"
 formatVersion: 4
-authority: "Milton Morning Dictation 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+authority: "존 밀턴 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
 steps:
   - name: "아침 기상 직후 20분간 외부 감각 차단하기"
     text: "눈을 감은 채로 어두운 방에서 차분히 누워있거나 앉아있습니다. 스마트폰을 보거나 밝은 불을 켜지 않고 뇌의 인지 리소스를 온전히 비워두어 고요함을 유지합니다."
@@ -22,9 +22,13 @@ faqs:
 
 ---
 
-"정신은 그 자체가 하나의 세계이며, 지옥을 천국으로 만들 수도, 천국을 지옥으로 만들 수도 있다." 🚶‍♂️
+"정신은 그 자체가 하나의 세계이며, 그 안에서 지옥을 천국으로 만들 수도, 천국을 지옥으로 만들 수도 있다." 🚶‍♂️
 
-완전한 실명 속에서도 인류 문화사의 걸작인 대서사시 《실낙원》을 남긴 영국의 천재 시인이자 사상가, 존 밀턴. 글자 한 자조차 직접 볼 수 없었던 그가 1만 행이 넘는 방대한 서사시를 집필할 수 있었던 비결은 무엇일까요? 바로 그의 새벽 4시 아침 루틴에 있었습니다. 밀턴은 동이 트기 전 일어나 침묵 속에 사색하며 시구를 머릿속으로 조각했습니다. 그리고 아침 7시 비서가 도착하자마자 외워둔 구상을 쏟아냈습니다. 그의 고요한 집중법 뒤에 숨겨진 뇌과학적 비밀을 알아봅니다.
+완전한 실명 속에서도 인류 문학사 최고의 대서사시인 《실낙원(Paradise Lost)》과 《복락원(Paradise Regained)》을 남긴 영국의 위대한 시인이자 청순주의 사상가, 존 밀턴(John Milton, 1608–1674). 40대 중반에 정무적 과로와 질병으로 안구를 감싸는 시신경이 완전히 마비되어 단 한 글자도 직접 볼 수 없었던 그가 어떻게 1만 행이 넘는 방대하고 정교한 서사시를 창작해 냈을까요?
+
+그 비밀은 바로 그가 평생 고수한 새벽 4시 아침 명상 및 구술 루틴에 있었습니다. 밀턴은 동이 트기 전 어두운 방에서 일어나 침묵 속에 차분히 누워, 외부 감각 차단 상태에서 머릿속으로 수십 행의 시구를 운율에 맞춰 정밀하게 조각했습니다. 그리고 아침 7시 비서나 딸들이 도착하면, 머릿속에 완벽하게 기억해 둔 구상을 속사포처럼 구술하여 종이에 받아 적게 했습니다. 그의 고요한 집중법 뒤에 숨겨진 뇌과학적 비밀을 알아봅니다.
+
+오늘 포스트에서는 존 밀턴의 새벽 구술 루틴에 담긴 시각 정보 차단과 작업 기억 극대화의 뇌과학적 원리를 살펴보고, 현대인이 외부 자극을 통제하여 최고 수준의 인지 몰입을 달성하는 실천 방안을 제시합니다.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -33,7 +37,7 @@ faqs:
       역사적 및 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Milton Morning Dictation 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 milton-morning-dictation 루틴을 다룹니다.
+      본 콘텐츠는 <strong>존 밀턴 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 milton-morning-dictation 루틴을 다룹니다.
     </p>
   </div>
 </div>

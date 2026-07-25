@@ -8,7 +8,7 @@ tags: ["글쓰기", "창의성", "기록"]
 heroImage: "/images/blog/mccartney_dream_melody_capture.webp"
 app: "buildself"
 formatVersion: 4
-authority: "Mccartney Dream Melody Capture 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+authority: "폴 매카트니 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
 steps:
   - name: "침대 머리맡 아날로그 기록 도구 배치"
     text: "침대 바로 옆 협탁이나 손이 닿는 위치에 펜과 메모 전용 아날로그 노트를 상시 고정해 둡니다. 스마트폰 녹음기 기능을 쓰더라도 다른 앱이 켜지지 않는 단순 음성 메모 기능만 실행 가능하게 화면을 설정합니다."
@@ -24,7 +24,9 @@ faqs:
 
 "그 멜로디는 내 꿈속에서 완벽하게 연주되고 있었다. 만약 내가 곧바로 일어나 피아노로 쳐보지 않았다면, 그것은 아침 안개처럼 영영 증발해 버렸을 것이다." 🎹
 
-대중음악 역사상 가장 성공적인 싱어송라이터이자 20세기 전설 비틀즈를 이끈 폴 매카트니. 전 세계 라디오에서 수천만 번 연주된 팝의 고전 Yesterday는 놀랍게도 그가 새벽 침실에서 꾸었던 '꿈'에서 온전히 태어났습니다. 1964년 영국의 아침, 잠에서 깬 그는 머릿속에 울려 퍼지는 아름다운 멜로디의 잔상을 붙잡고 잊어버릴까 두려워 바로 피아노로 달려가 연주했습니다. 잠재의식의 흐름이 휘발하기 전 물리적인 현실로 기록하는 그의 즉시 캡처 습관은 수많은 명곡의 산실이 되었습니다. 수면과 각성의 중간 지대에서 솟구치는 뇌의 폭발적인 아이디어 창출 기전을 해부합니다.
+대중음악 역사상 가장 성공적인 싱어송라이터이자 20세기 전설 비틀즈(The Beatles)를 이끈 폴 매카트니(Paul McCartney, 1942~ ). 전 세계 라디오에서 수천만 번 연주된 팝의 고전 'Yesterday'는 놀랍게도 그가 새벽 침실에서 꾸었던 '꿈'에서 온전히 태어났습니다. 1964년 영국의 아침, 잠에서 깬 그는 머릿속에 울려 퍼지는 아름다운 멜로디의 잔상을 붙잡고 잊어버릴까 두려워 바로 침대 옆 피아노로 달려가 연주했습니다. 잠재의식의 흐름이 휘발하기 전 물리적인 현실로 기록하는 그의 즉시 캡처 습관은 수많은 명곡의 산실이 되었습니다.
+
+인간의 뇌는 기상 직후 수면과 각성의 경계 지대에서 이성적 검열이 작동하지 않는 고도의 창의적 상태를 경험합니다. 오늘 포스트에서는 폴 매카트니의 반수면 영감 포착 루틴에 담긴 인지신경과학 원리를 분석하고, 현대인이 무의식의 찰나적 아이디어를 손실 없이 기록하여 창의적 자산으로 전환할 수 있는 3단계 실천 가이드를 제안합니다.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -33,7 +35,7 @@ faqs:
       역사적 및 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Mccartney Dream Melody Capture 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 mccartney-dream-melody-capture 루틴을 다룹니다.
+      본 콘텐츠는 <strong>폴 매카트니 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 mccartney-dream-melody-capture 루틴을 다룹니다.
     </p>
   </div>
 </div>

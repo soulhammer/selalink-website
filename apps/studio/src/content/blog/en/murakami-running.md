@@ -1,6 +1,6 @@
 ---
-title: "매일 아침 10km를 달리는 작가? 무라카미 하루키의 기초 체력 루틴"
-description: "전 세계적인 베스트셀러 소설가 무라카미 하루키. 그의 철저한 아침 10km 달리기 루틴 속에 숨겨진 뇌과학적 원리와 현대인을 위한 3단계 실천법을 알아봅니다."
+title: "The Writer Who Runs 10km Every Morning: Haruki Murakami's Physical Stamina Routine"
+description: "Globally bestselling novelist Haruki Murakami. Discover the neuroscientific principles embedded in his disciplined 10km morning running routine and a 3-step practical guide for modern individuals."
 pubDate: "2026-06-26"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
@@ -8,25 +8,27 @@ tags: ["위인 습관", "무라카미 하루키", "달리기", "루틴", "체력
 heroImage: "/images/blog/murakami_running.webp"
 app: "buildself"
 formatVersion: 4
-authority: "무라카미 하루키 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+authority: "Historical critical biographies and autobiographical records of Haruki Murakami & Cognitive Neuroscience research"
 steps:
-  - name: "Put on running gear immediately upon waking"
-    text: "To avoid hesitation about whether to run or not when you wake up in the morning, change into your pre-prepared running gear immediately. The act of dressing your body sends the first trigger signal to the brain that it is time to move."
-  - name: "Focus on regular time rather than distance"
-    text: "You do not need to run 10km from the start. Start by lightly running for 20-30 minutes at a set time (e.g., 8 PM after work) and gradually increase the distance. The key is not speed, but instilling a regular rhythm into your body."
-  - name: "Use running as a time for self-dialogue"
-    text: "Do not check complex messages or emails on your smartphone while running; focus solely on your breathing rhythm and the sensation of your feet touching the ground. This mindful run becomes the best mental detox to organize a cluttered mind."
+  - name: "Change Into Running Gear Immediately Upon Waking"
+    text: "To eliminate cognitive hesitation about whether to run upon waking, put on pre-arranged running gear immediately. The physical act of dressing sends an undeniable trigger signal to the brain that it is time to move."
+  - name: "Focus on Consistent Duration and Rhythm Over Distance"
+    text: "You do not need to run 10km from day one. Begin by running lightly for a fixed period (e.g., 20–30 minutes) at a set time and gradually extend your distance. The key is not speed, but engraving a regular execution rhythm into your body."
+  - name: "Utilize Running as Time for Contemplation and Inner Dialogue"
+    text: "Avoid checking emails or notifications while running. Focus solely on your breathing cadence and the sensation of your feet striking the ground. This mindful run acts as a supreme mental detox, decluttering a crowded mind."
 faqs:
-  - question: "하루키는 왜 매일 10km를 달리나요?"
-    answer: "소설 집필에 필요한 고도의 집중력과 지구력을 지탱하기 위해, 유산소 운동으로 뇌세포를 자극하고 물리적인 체력 기반을 구축하기 위함입니다."
+  - question: "Why does Haruki Murakami run 10km every single day?"
+    answer: "To sustain the intense concentration and stamina required for novel writing, running stimulates brain cells via aerobic exercise while building an unshakeable foundation of physical endurance."
 
 ---
 
-《상실의 시대》, 《1Q84》 등 발표하는 작품마다 전 세계적인 열풍을 일으키는 현대 일본 문학의 거장 무라카미 하루키. 그는 소설가인 동시에 40년 넘게 매년 마라톤 풀코스를 완주해 온 열정적인 러너이기도 합니다. 🏃‍♂️
+"Only an artist who keeps running can continuously draw deep water from the well of creativity." 🏃‍♂️
 
-하루키는 1982년 전업 작가의 길로 들어서면서 앉아서 글만 쓰는 생활이 가져다주는 체력 저하와 체중 증가를 겪었습니다. 그는 소설가가 장기적으로 창작 활동을 이어나가기 위해서는 단순한 재능을 넘어, 고도의 집중력을 며칠이고 몇 달이고 유지할 수 있는 강인한 '기초 체력'이 필수적임을 깨달았습니다. 이에 담배를 과감히 끊고 매일 아침 10km를 달리거나 1,500m를 수영하는 루틴을 시작해 전 세계 어디를 가든 이를 고수하고 있습니다.
+Haruki Murakami (1949– ) is a titan of contemporary literature whose works—such as 'Norwegian Wood', 'Kafka on the Shore', '1Q84', and 'The City and Its Uncertain Walls'—ignite global sensations with every release. Translated into over 50 languages and beloved by tens of millions of readers, he is both a celebrated novelist and a passionate long-distance runner who has completed full 42.195km marathons annually for over 40 years.
 
-오늘 포스트에서는 하루키의 철저한 달리기에 숨겨진 과학적 이유와 현대인들이 일상에서 체력 루틴을 다지는 방법을 살펴봅니다.
+After closing his Tokyo jazz bar (Peter Cat) in 1982 to pursue full-time writing, Murakami experienced weight gain and a sharp drop in physical stamina from sitting at a desk all day. He realized that sustaining long-term creative output required far more than raw talent—it demanded formidable physical endurance capable of sustaining intense concentration for months on end. He quit smoking and launched a strict daily routine of running 10km or swimming 1,500m, maintaining it wherever he traveled across the globe. As reflected in his memoir 'What I Talk About When I Talk About Running', running served as his physical shield against the immense mental strain of novel writing.
+
+In today's post, we examine the neuroscientific principles behind Murakami's running routine and explore practical steps for modern individuals to build unshakable mental focus.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -35,50 +37,54 @@ faqs:
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding murakami-running is based on <strong>무라카미 하루키 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>.
+      This analysis regarding murakami-running is based on <strong>Historical critical biographies and autobiographical records of Haruki Murakami & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 뇌의 젊음을 유지하는 러닝의 뇌과학
+## The Neurobiology of Running Maintaining Brain Youthfulness
 
-소설을 쓰는 것은 극도의 정신적 에너지를 소모하는 작업입니다. 하루키는 매일 일정량의 원고를 쓰는 고단한 정신 작업을 지탱하기 위해 달리기를 통해 뇌를 단련했습니다.nn실제로 장거리 달리기와 같은 지속적인 유산소 운동은 뇌의 해마 영역에 산소와 영양분을 공급하여 신경세포의 생성을 촉진합니다. 뇌과학 연구에 따르면, 달리기는 뇌신경영양인자(BDNF) 수치를 높여 장기 기억력과 학습 능력을 강화합니다. 또한, 달리면서 분비되는 엔도르핀과 엔도카나비노이드는 스트레스 호르몬인 코르티솔의 분비를 억제하여 정신적 압박감이 심한 현대인들의 두뇌를 평온하게 유지해 줍니다.
+Writing novels consumes immense amounts of mental energy. Haruki Murakami trained his brain through running to support the arduous mental work of churning out drafts daily.
+
+Sustained aerobic exercise like long-distance running supplies rich oxygen and nutrients to the hippocampal region, accelerating neurogenesis. Neuroscientific studies show running boosts Brain-Derived Neurotrophic Factor (BDNF) levels, fortifying long-term memory and cognitive flexibility. Endorphins and endocannabinoids released during running suppress cortisol, keeping the mind calm under intense pressure.
 
 ---
 
-## 성공적인 루틴을 위한 뇌과학적 한마디
+## Neuroscientific Advice for Successful Routine Building
 
-<strong>꾸준한 반복이 뇌의 리듬을 만듭니다</strong>nn매일 반복하는 단순한 신체 활동은 의지력을 소모하지 않는 '자동화 루틴'으로 정착됩니다. 일단 뇌에 이 리듬이 새겨지면, 일을 하거나 글을 쓸 때 생기는 극심한 정신적 부하도 견뎌낼 수 있는 단단한 기초 체력적 방어벽이 형성됩니다. 하루키처럼 규칙적인 운동을 삶의 최우선 순위로 올려두고 리듬을 유지해 보세요.
+<strong>Consistent repetition builds neural rhythms</strong>
+
+Simple physical activity repeated daily settles into an 'automated routine' that no longer drains willpower. Once this rhythm is ingrained in the brain, it builds a solid physical shield capable of enduring immense cognitive loads during work or writing. Elevate regular exercise to top priority in your life, just like Murakami, and protect your momentum.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Put on running gear immediately upon waking</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Change Into Running Gear Immediately Upon Waking</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    To avoid hesitation about whether to run or not when you wake up in the morning, change into your pre-prepared running gear immediately. The act of dressing your body sends the first trigger signal to the brain that it is time to move.
+    To eliminate cognitive hesitation about whether to run upon waking, put on pre-arranged running gear immediately. The physical act of dressing sends an undeniable trigger signal to the brain that it is time to move.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Focus on regular time rather than distance</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Focus on Consistent Duration and Rhythm Over Distance</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    You do not need to run 10km from the start. Start by lightly running for 20-30 minutes at a set time (e.g., 8 PM after work) and gradually increase the distance. The key is not speed, but instilling a regular rhythm into your body.
+    You do not need to run 10km from day one. Begin by running lightly for a fixed period (e.g., 20–30 minutes) at a set time and gradually extend your distance. The key is not speed, but engraving a regular execution rhythm into your body.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Use running as a time for self-dialogue</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Utilize Running as Time for Contemplation and Inner Dialogue</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Do not check complex messages or emails on your smartphone while running; focus solely on your breathing rhythm and the sensation of your feet touching the ground. This mindful run becomes the best mental detox to organize a cluttered mind.
+    Avoid checking emails or notifications while running. Focus solely on your breathing cadence and the sensation of your feet striking the ground. This mindful run acts as a supreme mental detox, decluttering a crowded mind.
   </p>
 </div>
 
@@ -89,11 +95,11 @@ faqs:
   
   <details class="group cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>하루키는 왜 매일 10km를 달리나요?</span>
+      <span>Why does Haruki Murakami run 10km every single day?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      소설 집필에 필요한 고도의 집중력과 지구력을 지탱하기 위해, 유산소 운동으로 뇌세포를 자극하고 물리적인 체력 기반을 구축하기 위함입니다.
+      To sustain the intense concentration and stamina required for novel writing, running stimulates brain cells via aerobic exercise while building an unshakeable foundation of physical endurance.
     </p>
   </details>
 </div>

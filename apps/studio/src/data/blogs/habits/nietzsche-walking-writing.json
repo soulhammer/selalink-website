@@ -1,70 +1,214 @@
 {
   "nietzsche-walking-writing": {
     "title": {
-      "ko": "프리드리히 니체의 산책 집필 루틴: 매 걸음마다 뇌의 창의성을 여는 법"
+      "ko": "íë¦¬ëë¦¬í ëì²´ì ì°ì± ì§í ë£¨í´: ë§¤ ê±¸ìë§ë¤ ëì ì°½ìì±ì ì¬ë ë²",
+      "en": "Friedrich Nietzsche's Walking & Writing Routine: Unlocking Brain Creativity with Every Step",
+      "ja": "ããªã¼ããªãã»ããã§ã®æ£æ­©å·ç­ã«ã¼ãã£ã³ï¼æ­©ã¿ãã¨ã«è³ã®åµé æ§ãéãæ¹æ³",
+      "zh": "å¼éå¾·éå¸Â·å°¼éçæ£æ­¥åä½ä¹ æ¯ï¼è®©æ¯ä¸æ­¥æå¼å¤§èçåé å",
+      "es": "La rutina de caminar y escribir de Friedrich Nietzsche: Desbloquear la creatividad cerebral con cada paso",
+      "de": "Friedrich Nietzsches Geh-Schreib-Routine: Wie Sie mit jedem Schritt die KreativitÃ¤t des Gehirns freisetzen",
+      "fr": "La routine de marche et d'Ã©criture de Friedrich Nietzsche : LibÃ©rer la crÃ©ativitÃ© cÃ©rÃ©brale Ã  chaque pas",
+      "pt": "A rotina de caminhada e escrita de Friedrich Nietzsche: Desbloqueando a criatividade cerebral a cada passo",
+      "id": "Rutinitas Jalan Kaki & Menulis Friedrich Nietzsche: Membuka Kreativitas Otak di Setiap Langkah"
     },
     "description": {
-      "ko": "독일의 위대한 철학자 프리드리히 니체가 하루 8시간 동안 스위스 산길을 걸으며 노트에 위대한 사상을 집필한 역사적 사실과 신체 운동이 DMN(기본 모드 네트워크)과 뇌의 발산적 사고를 촉진하는 뇌과학적 원리를 다룹니다."
+      "ko": "ëì¼ì ìëí ì² íì íë¦¬ëë¦¬í ëì²´ê° íë£¨ 8ìê° ëì ì¤ìì¤ ì°ê¸¸ì ê±¸ì¼ë©° ë¸í¸ì ìëí ì¬ìì ì§íí ì­ì¬ì  ì¬ì¤ê³¼ ì ì²´ ì´ëì´ DMN(ê¸°ë³¸ ëª¨ë ë¤í¸ìí¬)ê³¼ ëì ë°ì°ì  ì¬ê³ ë¥¼ ì´ì§íë ëê³¼íì  ìë¦¬ë¥¼ ë¤ë£¹ëë¤.",
+      "en": "Explore the historical fact of German philosopher Friedrich Nietzsche walking up to 8 hours daily through Swiss mountain trails to write monumental thoughts in notebooks, and the neuroscience of how movement fuels DMN and divergent thinking.",
+      "ja": "ãã¤ãã®åå¤§ãªå²å­¦èããªã¼ããªãã»ããã§ã1æ¥8æéã¹ã¤ã¹ã®å±±éãæ­©ããªãããã¼ãã«åå¤§ãªææ³ãå·ç­ããæ­´å²çäºå®ã¨ãèº«ä½éåãDMNï¼ããã©ã«ãã»ã¢ã¼ãã»ãããã¯ã¼ã¯ï¼ã¨è³ã®çºæ£çæèãä¿é²ããè³ç§å­¦çåçãè§£èª¬ãã¾ãã",
+      "zh": "æ¢è®¨å¾·å½ä¼å¤§å²å­¦å®¶å¼éå¾·éå¸Â·å°¼éæ¯å¤©å¨çå£«å±±è·¯æ¼«æ­¥é¿è¾¾8å°æ¶å¹¶å¨ç¬è®°æ¬ä¸è®°å½å®å¤§ææ³çåå²äºå®ï¼ä»¥åèº«ä½è¿å¨ä¿è¿DMNï¼é»è®¤æ¨¡å¼ç½ç»ï¼ä¸åæ£æ§æç»´çèç§å­¦åçã",
+      "es": "Examine el hecho histÃ³rico del filÃ³sofo alemÃ¡n Friedrich Nietzsche caminando hasta 8 horas diarias por senderos suizos para registrar ideas monumentales, y cÃ³mo el movimiento impulsa la DMN y el pensamiento divergente.",
+      "de": "Erkunden Sie die historische Praxis des deutschen Philosophen Friedrich Nietzsche, bis zu 8 Stunden tÃ¤glich durch Schweizer Bergpfade zu wandern und Gedanken zu notieren, sowie die Neurowissenschaft hinter DMN und divergentem Denken.",
+      "fr": "DÃ©couvrez la pratique du philosophe allemand Friedrich Nietzsche marchant jusqu'Ã  8 heures par jour sur les sentiers suisses pour consigner ses pensÃ©es, et la neuroscience montrant comment le mouvement stimule le DMN et la pensÃ©e divergente.",
+      "pt": "Explore o fato histÃ³rico do filÃ³sofo alemÃ£o Friedrich Nietzsche caminhando atÃ© 8 horas diÃ¡rias por trilhas suÃ­Ã§as para registrar pensamentos monumentais, e a neurociÃªncia de como o movimento estimula a DMN e o pensamento divergente.",
+      "id": "Jelajahi fakta sejarah filsuf Jerman Friedrich Nietzsche yang berjalan hingga 8 jam sehari di jalur pegunungan Swiss untuk menulis pemikiran besar, serta neurosains tentang bagaimana gerakan memicu DMN dan pemikiran divergen."
     },
     "authority": {
-      "ko": "Nietzsche Walking Writing 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+      "ko": "íë¦¬ëë¦¬í ëì²´ ì­ì¬ì  íì  ë° ììì  ê¸°ë¡ ê³ ì¦ & ì¸ì§ì ê²½ê³¼í(Cognitive Neuroscience) ì°êµ¬",
+      "en": "Historical Biographies and Autobiographical Verification of Friedrich Nietzsche & Cognitive Neuroscience Research",
+      "ja": "ããªã¼ããªãã»ããã§ã®æ­´å²çè©ä¼ããã³èªä¼çè¨é²ã®èè¨¼ï¼èªç¥ç¥çµç§å­¦ï¼Cognitive Neuroscienceï¼ç ç©¶",
+      "zh": "å¼éå¾·éå¸Â·å°¼éåå²ä¼ è®°ä¸èªä¼ èè¯åè®¤ç¥ç¥ç»ç§å­¦ï¼Cognitive Neuroscienceï¼ç ç©¶",
+      "es": "VerificaciÃ³n de biografÃ­as histÃ³ricas y registros autobiogrÃ¡ficos de Friedrich Nietzsche e investigaciÃ³n en Neurociencia Cognitiva",
+      "de": "Historische Biografien und autobiografische Aufzeichnungen von Friedrich Nietzsche & Kognitive Neurowissenschaften",
+      "fr": "Biographies historiques et rÃ©cits autobiographiques de Friedrich Nietzsche & recherche en neurosciences cognitives",
+      "pt": "Pesquisa de biografias histÃ³ricas e registros autobiogrÃ¡ficos de Friedrich Nietzsche & estudos em NeurociÃªncia Cognitiva",
+      "id": "Biografi Historis dan Catatan Autobiografi Friedrich Nietzsche & Penelitian Neurosains Kognitif"
     },
     "intro": {
-      "ko": "\"모든 진정으로 위대한 생각들은 걷는 동안 배태된다(All truly great thoughts are conceived while walking).\" 🚶‍♂️\n\n망치를 든 철학자로 불리며 서구 철학의 근간을 뒤흔든 파격적인 통찰을 제시한 프리드리히 니체. 그의 강렬하고 날카로운 사상들은 어디에서 탄생했을까요? 니체는 책상 앞에 엉덩이를 붙이고 앉아 머리를 쥐어짜는 식의 전통적인 공부 방식을 극도로 혐오했습니다. 그는 만성적인 두통, 안질환, 위장 장애 등으로 평생 육체적 고통에 시달렸지만, 오히려 그 고통을 극복하기 위해 신체를 끊임없이 움직였습니다.\n\n니체는 스위스의 알프스 고산 지대인 실스 마리아(Sils Maria) 등에서 요양하며 매일 평균 6시간에서 8시간을 걸었습니다. 산책을 나설 때 그의 주머니에는 늘 작은 수첩과 연필이 들어 있었고, 걷는 동안 머릿속을 스치는 철학적 아이디어와 문장들을 그 자리에서 멈춰 서서 즉각적으로 기록했습니다. 그의 대표작인 『차라투스트라는 이렇게 말했다』의 핵심 개념들 역시 실스 마리아의 푸른 호숫가와 울창한 숲길을 걷는 도중에 벼락처럼 스친 영감에서 비롯되었습니다.\n\n오늘 포스트에서는 니체가 고집했던 '산책 집필' 루틴의 과학적 작동 메커니즘과 이를 현대적인 창의적 문제 해결에 어떻게 적용할 수 있는지 알아봅니다."
+      "ko": "\"ëª¨ë  ì§ì ì¼ë¡ ìëí ìê°ë¤ì ê±·ë ëì ë°°íëë¤(All truly great thoughts are conceived while walking).\" ð¶ââï¸\n\në§ì¹ë¥¼ ë  ì² íìë¡ ë¶ë¦¬ë©° ìêµ¬ ì² íì ê·¼ê°ì ë¤íë  íê²©ì ì¸ íµì°°ì ì ìí ëì¼ì ìëí ì¬ìê° íë¦¬ëë¦¬í ëì²´(Friedrich Nietzsche, 1844â1900). ë°ì ¤ ëíêµ ê³ ì íëí êµìë¥¼ ê±°ì³ ê·¼ë ì§ì±ì¬ì ìì²­ë ì¶©ê²©ì ëì§ ê·¸ì ê°ë ¬íê³  ë ì¹´ë¡ì´ ì¬ìë¤ì ê³¼ì° ì´ëìì íìíìê¹ì? ëì²´ë ì±ì ìì ìë©ì´ë¥¼ ë¶ì´ê³  ìì ë¨¸ë¦¬ë¥¼ ì¥ì´ì§ë ìì ì íµì ì¸ ê³µë¶ ë°©ìì ê·¹ëë¡ íì¤íìµëë¤. ê·¸ë ë§ì±ì ì¸ ëíµ, ìì§í, ìì¥ ì¥ì  ë±ì¼ë¡ íì ì¡ì²´ì  ê³ íµì ìë¬ë ¸ì§ë§, ì¤íë ¤ ê·¸ ê³ íµì ê·¹ë³µíê³  ì¬ì ë¥¼ íì¥íê¸° ìí´ ì ì²´ë¥¼ ëììì´ ìì§ììµëë¤.\n\nëì²´ë ì¤ìì¤ì ìíì¤ ê³ ì° ì§ëì¸ ì¤ì¤ ë§ë¦¬ì(Sils Maria) ë±ìì ììíë©° ë§¤ì¼ íê·  6ìê°ìì 8ìê°ì ê±¸ììµëë¤. ì°ì±ì ëì¤ ë ê·¸ì ì£¼ë¨¸ëìë ë ìì ìì²©ê³¼ ì°íì´ ë¤ì´ ììê³ , ê±·ë ëì ë¨¸ë¦¿ìì ì¤ì¹ë ì² íì  ìì´ëì´ì ë¬¸ì¥ë¤ì ê·¸ ìë¦¬ìì ë©ì¶° ìì ì¦ê°ì ì¼ë¡ ê¸°ë¡íìµëë¤. ê·¸ì ëíìì¸ ãì°¨ë¼í¬ì¤í¸ë¼ë ì´ë ê² ë§íë¤ã, ãì¦ê±°ì´ íë¬¸ã, ãì ìì ì í¸ãì íµì¬ ê°ëë¤ ì­ì ì¤ì¤ ë§ë¦¬ìì í¸ë¥¸ í¸ì«ê°ì ì¸ì°½í ì²ê¸¸ì ê±·ë ëì¤ì ë²¼ë½ì²ë¼ ì¤ì¹ ìê°ìì ë¹ë¡¯ëììµëë¤.\n\nì¤ë í¬ì¤í¸ììë ëì²´ê° ê³ ì§íë 'ì°ì± ì§í' ë£¨í´ì ê³¼íì  ìë ë©ì»¤ëì¦ê³¼ ì´ë¥¼ íëì ì¸ ì°½ìì  ë¬¸ì  í´ê²°ì ì´ë»ê² ì ì©í  ì ìëì§ ììë´ëë¤.",
+      "en": "\"All truly great thoughts are conceived while walking.\" ð¶ââï¸\n\nFriedrich Nietzsche (1844â1900) was the iconoclastic German philosopher known as the 'philosopher with a hammer' who shattered traditional Western metaphysics. Having served as a professor of classical philology at the University of Basel before embarking on his solitary philosophical quest, where were his piercing insights born? Nietzsche fiercely despised conventional desk-bound study. Tormented throughout his life by debilitating migraines, eye pain, and stomach ailments, he actively mobilized his physical body to transcend suffering and liberate his intellect.\n\nWhile recovering in the high Alpine village of Sils Maria, Switzerland, Nietzsche walked six to eight hours every day. He carried a small pocket notebook and pencil wherever he went, halting mid-stride to capture philosophical flashes as they struck. The foundational ideas of his masterpieces, including 'Thus Spoke Zarathustra', 'The Gay Science', and 'Beyond Good and Evil', erupted during these long walks along the serene shores and pine forests of Sils Maria.\n\nIn this post, we unpack the neuroscientific mechanisms behind Nietzsche's walking-and-writing routine and explore how modern creative thinkers can leverage movement to solve complex problems.",
+      "ja": "ããã¹ã¦ã®çã«åå¤§ãªææ³ã¯ãæ­©ããã¨ã«ãã£ã¦æ±ãããï¼All truly great thoughts are conceived while walkingï¼ãã ð¶ââï¸\n\nããã³ãã¼ãæã¤å²å­¦èãã¨å¼ã°ããè¥¿æ¬§å²å­¦ã®æ ¹å¹¹ãæºãããç ´å¤©èãªæ´å¯ãæç¤ºãããã¤ãã®åå¤§ãªææ³å®¶ããªã¼ããªãã»ããã§ï¼Friedrich Nietzsche, 1844â1900ï¼ããã¼ã¼ã«å¤§å­¦ã®å¤å¸æç®å­¦ææãçµã¦è¿ä»£ç¥æ§å²ã«å¤å¤§ãªè¡æãä¸ããå½¼ã®å¼·çã§é­ãææ³ã¯ãã©ãã§èªçããã®ã§ãããããããã§ã¯æºã®åã«åº§ãè¾¼ãã§é ­ãçµãåºããããªä¼çµ±çãªå­¦ç¿æ¹æ³ãæ¥µåº¦ã«å«æªãã¾ãããå½¼ã¯æ¢æ§çãªé ­çãç¼ç¾æ£ãèè¸éå®³ãªã©ã®èä½çè¦çã«ä¸çè¦ããããã¾ããããããããã®è¦çãåæãæèãæ¡å¼µããããã«çµ¶ããèº«ä½ãåããã¾ããã\n\nããã§ã¯ã¹ã¤ã¹ã®ã¢ã«ãã¹é«å±±å°å¸¯ã§ããã·ã«ã¹ã»ããªã¢ï¼Sils Mariaï¼ãªã©ã§çé¤ããªãããæ¯æ¥å¹³å6æéãã8æéæ­©ãã¾ãããæ£æ­©ã«åºãããæãå½¼ã®ãã±ããã«ã¯å¸¸ã«å°ããªæå¸³ã¨éç­ãå¥ã£ã¦ãããæ­©ãéã«é ­ããããå²å­¦çãªã¢ã¤ãã¢ãæç« ããã®å ´ã§ç«ã¡æ­¢ã¾ã£ã¦å³åº§ã«è¨é²ãã¾ãããå½¼ã®ä»£è¡¨ä½ã§ããããã¡ã©ãã¥ã¹ãã©ã¯ããè¨ã£ãããæ¦ã°ããç¥è­ããåæªã®å½¼å²¸ãã®ä¸­æ ¸æ¦å¿µããã·ã«ã¹ã»ããªã¢ã®éãæ¹çãé¬±è¼ã¨ããæ£®ã®éãæ­©ãéä¸­ã«é·ã®ããã«éããã¤ã³ã¹ãã¬ã¼ã·ã§ã³ããçã¾ãã¾ããã\n\næ¬è¨äºã§ã¯ãããã§ãè²«ãããæ£æ­©å·ç­ãã«ã¼ãã£ã³ã®ç§å­¦çä½åã¡ã«ããºã ã¨ããããç¾ä»£ã®åµé çåé¡è§£æ±ºã«ã©ãå¿ç¨ã§ããããèå¯ãã¾ãã",
+      "zh": "âææçæ­£ä¼å¤§çææ³ï¼é½æ¯å¨æ£æ­¥æ¶å­è²èççãâ ð¶ââï¸\n\nè¢«ç§°ä¸ºâæ¿çé¤å­çå²å­¦å®¶âãé¢ è¦äºè¥¿æ¹å²å­¦æ ¹åºçå¾·å½ä¼å¤§ææ³å®¶å¼éå¾·éå¸Â·å°¼éï¼Friedrich Nietzscheï¼1844â1900ï¼ãå¨æä»»å·´å¡å°å¤§å­¦å¤å¸è¯­æå­¦ææåï¼ä»ä¸ºè¿ä»£ææ³å²å¸¦æ¥äºå§çéæ¼ãä»é£äºçå©èæ·±å»çææ³ç©¶ç«å­è²äºä½å¤ï¼å°¼éæåº¦åæ¶è·ç¼©å¨ä¹¦æ¡åæ­»è®°ç¡¬èçä¼ ç»æèæ¹å¼ãè½ç¶ä»ä¸çé¥±ååå¤´çãç¼ç¾åèçç­å§çèä½çè¦çæç£¨ï¼ä½ä»éæ©éè¿ä¸æ­çèº«ä½è¿å¨æ¥è¶è¶çè¦ãæå®½æèã\n\nå¨çå£«é¿å°åæ¯é«å±±å°éé¡å°æ¯-çå©äºï¼Sils Mariaï¼çå»æé´ï¼å°¼éæ¯å¤©å¹³åæ£æ­¥6è³8å°æ¶ãæ¯å½åºé¨ï¼ä»çå£è¢éæ»æ¯è£æä¸æ¬å°æååéç¬ï¼ä¸æ¦èæµ·ä¸­éªç°å²å­¦çµæï¼ä¾¿ä¼ç«å»åä¸èæ­¥å½åºè®°å½ãä»çä»£è¡¨ä½ãæ¥æå¾æ¯ç¹æå¦æ¯è¯´ãããå¿«ä¹çç§å­¦ãåãåæ¶çå½¼å²¸ãçæ ¸å¿æ¦å¿µï¼æ ä¸ä¸æ¯å¨é¡å°æ¯-çå©äºèèæ¹çä¸ééè±è±çæé´å°éæ£æ­¥æ¶å¦çµåç«ç³è¬è¯ççã\n\nå¨ä»å¤©çæç« ä¸­ï¼æä»¬å°æ·±å¥åæå°¼éâæ£æ­¥åä½âä¹ æ¯èåçèç§å­¦æºå¶ï¼å¹¶æ¢è®¨ç°ä»£äººå¦ä½å©ç¨èº«ä½è¿å¨çªç ´åæç¶é¢ã",
+      "es": "\"Todos los pensamientos verdaderamente grandes se conciben al caminar.\" ð¶ââï¸\n\nFriedrich Nietzsche (1844â1900), el gran pensador alemÃ¡n conocido como el 'filÃ³sofo del martillo', sacudiÃ³ los cimientos de la metafÃ­sica occidental. Tras su cÃ¡tedra de filologÃ­a clÃ¡sica en la Universidad de Basilea, Â¿dÃ³nde nacieron sus ideas mÃ¡s brillantes? Nietzsche aborrecÃ­a el estudio tradicional atado al escritorio. Pese a sufrir severas migraÃ±as, dolores oculares y trastornos gÃ¡stricos, movilizÃ³ su cuerpo para superar el dolor y liberar su intelecto.\n\nEn la aldea alpina de Sils Maria (Suiza), Nietzsche caminaba entre seis y ocho horas al dÃ­a. Llevaba siempre una libreta de bolsillo y lÃ¡piz, deteniÃ©ndose a escribir cada destello filosÃ³fico. Las ideas centrales de 'AsÃ­ hablÃ³ Zaratustra', 'La gaya ciencia' y 'MÃ¡s allÃ¡ del bien y del mal' nacieron durante sus paseos junto a los lagos y bosques de Sils Maria.\n\nEn este artÃ­culo, analizamos la neurociencia de la rutina de caminar y escribir de Nietzsche y cÃ³mo aplicarla para resolver problemas complejos hoy.",
+      "de": "\"Alle wahrhaft groÃen Gedanken werden im Gehen konzipiert.\" ð¶ââï¸\n\nFriedrich Nietzsche (1844â1900) erschÃ¼tterte als 'Philosoph mit dem Hammer' das Fundament des westlichen Denkens. Wo wurden seine scharfsinnigen Erkenntnisse geboren? Nietzsche verabscheute das traditionelle, reine Schreibtischstudium. Obwohl er lebenslang unter schweren MigrÃ¤nen, SehstÃ¶rungen und Magenleiden litt, nutzte er die kÃ¶rperliche Bewegung, um Schmerzen zu Ã¼berwinden und seinen Geist zu befreien.\n\nWÃ¤hrend seines Aufenthalts im Schweizer Alpendorf Sils Maria wanderte Nietzsche tÃ¤glich sechs bis acht Stunden. Er trug stets ein Notizbuch und einen Stift in der Tasche und hielt bei jedem Gedankenblitz sofort inne, um ihn zu notieren. Die Kernkonzepte von 'Also sprach Zarathustra', 'Die frÃ¶hliche Wissenschaft' und 'Jenseits von Gut und BÃ¶se' entstanden auf seinen Wanderungen durch die WÃ¤lder von Sils Maria.\n\nIn diesem Beitrag entschlÃ¼sseln wir den neurowissenschaftlichen Mechanismus von Nietzsches Wander-Schreib-Routine und zeigen Wege fÃ¼r moderne kreative ProblemlÃ¶sungen auf.",
+      "fr": "Â« Toutes les pensÃ©es vraiment grandes sont conÃ§ues en marchant. Â» ð¶ââï¸\n\nFriedrich Nietzsche (1844â1900), le grand philosophe allemand surnommÃ© 'le philosophe au marteau', a bousculÃ© les fondements de la mÃ©taphysique occidentale. AprÃ¨s avoir Ã©tÃ© professeur de philologie Ã  l'UniversitÃ© de BÃ¢le, oÃ¹ ses pensÃ©es fulgurantes ont-elles vu le jour ? Nietzsche dÃ©testait l'Ã©tude traditionnelle confinÃ©e au bureau. Souffrant toute sa vie de migraines intenses et de troubles gastriques, il utilisait le mouvement pour transcender la souffrance et libÃ©rer son intellect.\n\nLors de ses sÃ©jours Ã  Sils Maria dans les Alpes suisses, Nietzsche marchait six Ã  huit heures par jour. Muni d'un petit carnet de poche et d'un crayon, il s'arrÃªtait en chemin dÃ¨s qu'une intuition jaillissait. Les concepts clÃ©s d' 'Ainsi parlait Zarathoustra', 'Le Gai Savoir' et 'Par-delÃ  le bien et le mal' sont nÃ©s au cours de ses pÃ©rÃ©grinations alpines.\n\nDans cet article, nous analysons les mÃ©canismes neuroscientifiques de la routine de marche crÃ©ative de Nietzsche et comment l'adapter aujourd'hui pour surmonter les blocages.",
+      "pt": "\"Todos os pensamentos verdadeiramente grandes sÃ£o concebidos ao caminhar.\" ð¶ââï¸\n\nFriedrich Nietzsche (1844â1900), o grande pensador alemÃ£o conhecido como o 'filÃ³sofo do martelo', abalou os alicerces do pensamento ocidental. Onde nasceram suas percepÃ§Ãµes mais profundas? Nietzsche detestava o estudo tradicional preso Ã  mesa. Apesar de sofrer com dores de cabeÃ§a crÃ´nicas e problemas estomacais, ele usava a caminhada para superar a dor e expandir a mente.\n\nNa vila alpina de Sils Maria, SuÃ­Ã§a, Nietzsche caminhava de seis a oito horas por dia. Carregava sempre um caderno de bolso e lÃ¡pis, parando a cada lampejo filosÃ³fico para anotÃ¡-lo. As ideias centrais de 'Assim Falou Zaratustra', 'A Gaia CiÃªncia' e 'AlÃ©m do Bem e do Mal' surgiram durante suas caminhadas pelos lagos e florestas de Sils Maria.\n\nNeste artigo, analisamos a neurociÃªncia por trÃ¡s da rotina de caminhada e escrita de Nietzsche e como usÃ¡-la para impulsionar a criatividade.",
+      "id": "\"Semua pemikiran yang benar-benar besar lahir saat berjalan kaki.\" ð¶ââï¸\n\nFriedrich Nietzsche (1844â1900) adalah filsuf besar Jerman yang dikenal sebagai 'filsuf bermartil' yang mengguncang dasar filsafat Barat. Mantan profesor filologi di Universitas Basel ini melahirkan pemikiran-pemikiran tajamnya di mana? Nietzsche sangat membenci cara belajar konvensional yang duduk terpaku di meja. Meski menderita migrain kronis dan penyakit perut sepanjang hidupnya, ia justru bergerak aktif untuk mengatasi rasa sakit dan membebaskan pikirannya.\n\nSaat menjalani pemulihan di desa pegunungan Sils Maria, Swiss, Nietzsche berjalan kaki 6 hingga 8 jam setiap hari. Ia selalu membawa buku catatan saku dan pensil, lalu berhenti seketika saat ide filosofis muncul. Konsep utama mahakaryanya seperti 'Demikianlah Bersabda Zarathustra', 'Sains yang Mengasyikkan', dan 'Di Luar Kebaikan dan Kejahatan' lahir di sepanjang tepi danau dan hutan Sils Maria.\n\nDalam artikel ini, kami mengulas mekanisme neurosains di balik rutinitas jalan kaki dan menulis Nietzsche serta cara menerapkannya untuk pemecahan masalah kreatif."
     },
     "whyTitle": {
-      "ko": "산책의 신체 리듬이 DMN과 발산적 사고를 촉진하는 이유"
+      "ko": "ì°ì±ì ì ì²´ ë¦¬ë¬ì´ DMNê³¼ ë°ì°ì  ì¬ê³ ë¥¼ ì´ì§íë ì´ì ",
+      "en": "Why Walking Rhythm Boosts the DMN and Divergent Thinking",
+      "ja": "æ£æ­©ã®èº«ä½ãªãºã ãDMNã¨çºæ£çæèãä¿é²ããçç±",
+      "zh": "ä¸ºä»ä¹æ­¥è¡èå¥è½ä¿è¿é»è®¤æ¨¡å¼ç½ç»ï¼DMNï¼ä¸åæ£æ§æç»´",
+      "es": "Por quÃ© el ritmo al caminar potencia la DMN y el pensamiento divergente",
+      "de": "Warum der Gehrhythmus das DMN und divergentes Denken fÃ¶rdert",
+      "fr": "Pourquoi le rythme de la marche stimule le DMN et la pensÃ©e divergente",
+      "pt": "Por que o ritmo da caminhada estimula a DMN e o pensamento divergente",
+      "id": "Mengapa Ritme Jalan Kaki Mendorong DMN dan Pemikiran Divergen"
     },
     "whyDesc": {
-      "ko": "일정한 템포로 걸으면 심장 박동이 적절히 상승하여 뇌 혈류량과 산소 공급이 극대화됩니다. 특히 걷는 동작이 뇌의 작업 기억 과부하를 해소하고 DMN(Default Mode Network)을 활성화하여 평소 연결되기 힘든 개념들을 자유롭게 결합시키는 창의적 발산 모드로 전환시킵니다."
+      "ko": "ì¼ì í íí¬ë¡ ê±¸ì¼ë©´ ì¬ì¥ ë°ëì´ ì ì í ìì¹íì¬ ë íë¥ëê³¼ ì°ì ê³µê¸ì´ ê·¹ëíë©ëë¤. í¹í ê±·ë ëìì´ ëì ìì ê¸°ìµ ê³¼ë¶íë¥¼ í´ìíê³  DMN(Default Mode Network)ì íì±ííì¬ íì ì°ê²°ëê¸° íë  ê°ëë¤ì ìì ë¡­ê² ê²°í©ìí¤ë ì°½ìì  ë°ì° ëª¨ëë¡ ì íìíµëë¤.",
+      "en": "Walking at a steady tempo moderately elevates heart rate, maximizing cerebral blood flow and oxygenation. The rhythmic movement relieves working memory overload and activates the Default Mode Network (DMN), transitioning the brain into a divergent mode that connects distant concepts.",
+      "ja": "ä¸å®ã®ãã³ãã§æ­©ãã¨å¿ææ°ãé©åº¦ã«ä¸æããè³ã®è¡æµéã¨é¸ç´ ä¾çµ¦ãæå¤§åããã¾ããç¹ã«æ­©ãåä½ãè³ã®ä½æ¥­è¨æ¶ã®ãªã¼ãã¼ã­ã¼ããè§£æ¶ããDMNï¼Default Mode Networkï¼ãæ´»æ§åããã¦ãæ®æ®µã¯çµã³ã¤ãã«ããæ¦å¿µãèªç±ã«çµåãããåµé çãªçºæ£ã¢ã¼ãã¸ã¨åãæ¿ãã¾ãã",
+      "zh": "ä»¥æå®çèå¥æ­¥è¡ä¼éåº¦æé«å¿çï¼ä½¿å¤§èè¡æµéä¸ä¾æ°§éè¾¾å°æå¤§åãæ­¥è¡å¨ä½è½éæ¾å·¥ä½è®°å¿çè¿è½½ï¼å¹¶æ¿æ´»é»è®¤æ¨¡å¼ç½ç»ï¼DMNï¼ï¼å°å¤§èåæ¢è³è½èªç±éç»å¼è´¨æ¦å¿µçåæ£æ§æç»´æ¨¡å¼ã",
+      "es": "Caminar a un ritmo constante eleva moderadamente el ritmo cardÃ­aco, optimizando el flujo sanguÃ­neo cerebral y el oxÃ­geno. El movimiento rÃ­tmico alivia la memoria de trabajo e ilumina la Red por Defecto (DMN), impulsando el pensamiento divergente.",
+      "de": "Gehen in konstantem Tempo erhÃ¶ht die Herzfrequenz leicht und maximiert die Sauerstoffversorgung des Gehirns. Die rhythmische Bewegung entlastet das ArbeitsgedÃ¤chtnis und aktiviert das Default Mode Network (DMN) fÃ¼r kreatives, divergentes Denken.",
+      "fr": "Marcher Ã  un rythme rÃ©gulier augmente modÃ©rÃ©ment la frÃ©quence cardiaque, optimisant l'oxygÃ©nation cÃ©rÃ©brale. Ce mouvement rythmÃ© soulage la mÃ©moire de travail et active le RÃ©seau du Mode par DÃ©faut (DMN), favorisant la pensÃ©e divergente.",
+      "pt": "Caminhar em um ritmo constante eleva moderadamente a frequÃªncia cardÃ­aca, otimizando o fluxo sanguÃ­neo cerebral. O movimento rÃ­tmico alivia a memÃ³ria de trabalho e ativa a Rede de Modo PadrÃ£o (DMN), promovendo o pensamento divergente.",
+      "id": "Berjalan kaki dengan tempo stabil meningkatkan detak jantung secara moderat, memaksimalkan aliran darah dan oksigen ke otak. Gerakan ritmis mengurangi beban memori kerja dan mengaktifkan Default Mode Network (DMN) untuk pemikiran divergen."
     },
     "cautionTitle": {
-      "ko": "니체식 산책 집필 루틴 주의사항 및 팁"
+      "ko": "ëì²´ì ì°ì± ì§í ë£¨í´ ì£¼ìì¬í­ ë° í",
+      "en": "Precautions and Practical Tips for Nietzschean Walking",
+      "ja": "ãã¼ãã§å¼æ£æ­©å·ç­ã«ã¼ãã£ã³ã®æ³¨æäºé ã¨ã³ã",
+      "zh": "å°¼éå¼æ£æ­¥åä½ä¹ æ¯çæ³¨æäºé¡¹ä¸æå·§",
+      "es": "Precauciones y consejos para la rutina de caminar estilo Nietzsche",
+      "de": "VorsichtsmaÃnahmen und Tipps fÃ¼r Nietzsches Gehwandel-Routine",
+      "fr": "PrÃ©cautions et conseils pour la marche crÃ©ative Ã  la Nietzsche",
+      "pt": "PrecauÃ§Ãµes e dicas para a rotina de caminhada de Nietzsche",
+      "id": "Hal yang Perlu Diperhatikan dan Tips Rutinitas Jalan Kaki Nietzsche"
     },
     "cautionDesc": {
-      "ko": "산책 중 스마트폰이나 디지털 기기를 보지 마세요. 주머니에 작은 노트와 펜만 지닌 채 외부 디지털 자극을 완전히 차단해야 뇌의 잠재의식적 창의성이 정상 가동됩니다. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다."
+      "ko": "ì°ì± ì¤ ì¤ë§í¸í°ì´ë ëì§í¸ ê¸°ê¸°ë¥¼ ë³´ì§ ë§ì¸ì. ì£¼ë¨¸ëì ìì ë¸í¸ì íë§ ì§ë ì± ì¸ë¶ ëì§í¸ ìê·¹ì ìì í ì°¨ë¨í´ì¼ ëì ì ì¬ììì  ì°½ìì±ì´ ì ì ê°ëë©ëë¤. ë¬´ë¦¬íê² ìì§ë ¥ìë§ ìì¡´íë ¤ íì§ ë§ê³ , íëì´ ìì°ì¤ë½ê² ì ë°ë  ìë°ì ìë ë¬¼ë¦¬ì  íê²½ê³¼ ìµê´ ì í¸ë¥¼ ë¯¸ë¦¬ ì¤ê³íë ê²ì´ ì§ìì±ì íµì¬ìëë¤.",
+      "en": "Avoid looking at smartphones or digital screens during your walk. Keep only a pocket notebook and pen to block digital triggers, allowing subconscious creativity to flourish. Design an environment where action triggers naturally rather than relying solely on willpower.",
+      "ja": "æ£æ­©ä¸­ã«ã¹ãã¼ããã©ã³ããã¸ã¿ã«æ©å¨ãè¦ãªãã§ãã ããããã±ããã«å°ããªãã¼ãã¨ãã³ã ããæºå¸¯ããå¤é¨ã®ãã¸ã¿ã«åºæ¿ãå®å¨ã«é®æ­ãã¦ãããè³ã®æ½å¨æè­çãªåµé æ§ãæ­£å¸¸ã«ç¨¼åãã¾ããç¡çã«æå¿ã®åã ãã«é ¼ããã¨ãããè¡åãèªç¶ã«èªçºãããç©ççç°å¢ã¨ç¿æ£ã·ã°ãã«ããããããè¨­è¨ãããã¨ãç¶ç¶ã®æ ¸å¿ã§ãã",
+      "zh": "æ£æ­¥æé´åå¿æ¥çææºæçµå­è®¾å¤ãå£è¢éåªå¸¦ä¸åå¾®åç¬è®°æ¬åç¬ï¼å½»åºæ­ç»å¤é¨æ°å­åºæ¿ï¼æè½è®©æ½æè¯åé åé¡ºçè¿è½¬ãä¸è¦åçº¯ä¾èµæå¿åï¼èåºé¢åè®¾è®¡å¥½è½èªç¶è§¦åè¡ä¸ºçç©çç¯å¢ä¸ä¹ æ¯ä¿¡å·ã",
+      "es": "Evite mirar el telÃ©fono inteligente durante la caminata. Lleve solo una libreta pequeÃ±a para bloquear distracciones digitales y dejar fluir la creatividad subconsciente. DiseÃ±e un entorno que facilite el hÃ¡bito de forma natural.",
+      "de": "Vermeiden Sie das Blicken auf Smartphones wÃ¤hrend des Spaziergangs. Tragen Sie nur Notizbuch und Stift bei sich, um digitale Reize zu blockieren. Gestalten Sie Ihre Umgebung so, dass die Gewohnheit ganz von selbst entsteht.",
+      "fr": "Ãvitez de consulter votre smartphone pendant la marche. Ne conservez qu'un petit carnet et un crayon pour vous couper des sollicitations numÃ©riques. AmÃ©nagez un environnement propice plutÃ´t que de compter sur la seule volontÃ©.",
+      "pt": "Evite olhar para o celular durante a caminhada. Leve apenas um bloco de notas para bloquear estÃ­mulos digitais e liberar a criatividade subconsciente. Modele o ambiente para facilitar a aÃ§Ã£o de forma natural.",
+      "id": "Hindari melihat ponsel selama berjalan kaki. Bawa hanya buku catatan saku dan pena untuk memblokir gangguan digital agar kreativitas bawah sadar dapat bekerja. Rancang lingkungan yang mendukung agar kebiasaan berjalan berjalan alami."
     },
     "steps": [
       {
         "name": {
-          "ko": "Prepare manual writing tools and go digital-free"
+          "ko": "ìë ë¡ê·¸ íê¸°êµ¬ ì¤ë¹ ë° ëì§í¸ ê¸°ê¸° ì°¨ë¨",
+          "en": "Prepare Manual Writing Tools & Disconnect Digitally",
+          "ja": "ã¢ãã­ã°ç­è¨å·ã®æºåã¨ãã¸ã¿ã«æ©å¨ã®é®æ­",
+          "zh": "åå¤ä¼ ç»ä¹¦åå·¥å·å¹¶åæ­æ°å­å¹²æ°",
+          "es": "Prepare herramientas manuales y desconecte dispositivos",
+          "de": "Analoge Schreibzeuge vorbereiten & digital trennen",
+          "fr": "PrÃ©parez des outils analogiques et coupez le numÃ©rique",
+          "pt": "Prepare ferramentas manuais e desconecte-se do digital",
+          "id": "Siapkan Alat Tulis Manual & Bebaskan Diri dari Digital"
         },
         "text": {
-          "ko": "Before heading out, leave your smartphone behind or put it in Do Not Disturb mode. Carry only a pocket notebook and a pen. The goal is to disconnect from digital triggers."
+          "ko": "ì°ì±ì ëìê¸° ì  ì¤ë§í¸í°ì ì§ì ëê±°ë ë°©í´ ê¸ì§ ëª¨ëë¡ ì¤ì í©ëë¤. ì£¼ë¨¸ëìë ì¤ì§ ìì ìì²©ê³¼ íë§ ì§ëëë¤. ëª©ì ì ì¸ë¶ì ëì§í¸ ìê·¹ê³¼ ìì í ë¨ì íë ê²ìëë¤.",
+          "en": "Before heading out, leave your smartphone behind or enable Do Not Disturb mode. Carry only a pocket notebook and pen. The objective is total disconnection from digital triggers.",
+          "ja": "æ£æ­©ã«åºãããåãã¹ãã¼ããã©ã³ãèªå®ã«ç½®ãããå¿ç­ä¸å¯ã¢ã¼ããã«è¨­å®ãã¾ãããã±ããã«ã¯å°ããªæå¸³ã¨ãã³ã ããå¥ãã¾ããç®çã¯å¤é¨ã®ãã¸ã¿ã«åºæ¿ã¨å®å¨ã«æ­çµ¶ãããã¨ã§ãã",
+          "zh": "å¨åºé¨æ£æ­¥åï¼å°ææºçå¨å®¶ä¸­æè®¾ä¸ºå¿æ°æ¨¡å¼ãå£è¢éä»å¸¦ä¸æ¬å°ç¬è®°æ¬ä¸æ¯ç¬ãç®æ æ¯å½»åºåæ­ä¸å¤é¨æ°å­åºæ¿çå³èã",
+          "es": "Antes de salir, deje el telÃ©fono o active el modo No molestar. Lleve Ãºnicamente un cuaderno de bolsillo y un bolÃ­grafo. El objetivo es desconectarse de estÃ­mulos digitales.",
+          "de": "Lassen Sie das Smartphone vor dem Aufbruch zu Hause oder schalten Sie den Nicht-StÃ¶ren-Modus ein. Nehmen Sie nur ein Notizbuch mit, um digitale Reize komplett auszublenden.",
+          "fr": "Avant de partir, laissez votre smartphone chez vous ou activez le mode Ne pas dÃ©ranger. Emportez seulement un petit carnet et un crayon pour vous couper des sollicitations numÃ©riques.",
+          "pt": "Antes de sair, deixe o celular em casa ou ative o modo NÃ£o Perturbe. Leve apenas um bloco de notas e caneta. O objetivo Ã© desligar-se totalmente de estÃ­mulos digitais.",
+          "id": "Sebelum berangkat, tinggalkan ponsel di rumah atau aktifkan mode Jangan Ganggu. Bawa hanya buku catatan saku dan pena untuk memutus gangguan digital."
         }
       },
       {
         "name": {
-          "ko": "Walk at a steady, rhythmic pace in nature"
+          "ko": "ìì° ììì ì¼ì í ë¦¬ë¬ì¼ë¡ ê±·ê¸°",
+          "en": "Walk at a Steady, Rhythmic Pace in Nature",
+          "ja": "èªç¶ã®ä¸­ã§ä¸å®ã®ãªãºã ã§æ­©ã",
+          "zh": "å¨èªç¶ä¸­ä¿ææå®èå¥æ¼«æ­¥",
+          "es": "Camine a un ritmo constante en la naturaleza",
+          "de": "Gehen Sie in gleichmÃ¤Ãigem Rhythmus in der Natur",
+          "fr": "Marchez Ã  un rythme rÃ©gulier en pleine nature",
+          "pt": "Caminhe num ritmo constante na natureza",
+          "id": "Berjalanlah dengan Ritme Stabil di Alam Open Air"
         },
         "text": {
-          "ko": "Find a quiet park or trail. Walk at a moderate pace that matches your natural breathing. Let your eyes scan the environment without focusing on any single point."
+          "ko": "ì¡°ì©í ê³µìì´ë ì°ì±ë¡ë¥¼ ì°¾ì¼ì¸ì. ìì ì ìì°ì¤ë¬ì´ í¸í¡ì ë§ì¶° ì ë¹í ìëë¡ ê±¸ì´ê°ëë¤. íê³³ì ìì ì ê³ ì íì§ ìê³  ì£¼ë³ íê²½ì í¸ìíê² íì´ë´ëë¤.",
+          "en": "Find a quiet park or natural trail. Walk at a moderate pace matching your breathing rhythm. Allow your gaze to scan the environment naturally without fixating on a single point.",
+          "ja": "éããªå¬åãæ£ç­è·¯ãæ¢ãã¾ãããããèªèº«ã®èªç¶ãªæ¯ã¥ããã«åããã¦é©åº¦ãªãã¼ã¹ã§æ­©ãã¾ããä¸ç®æã«è¦ç·ãåºå®ãããå¨å²ã®é¢¨æ¯ããªã©ãã¯ã¹ãã¦çºãã¾ãã",
+          "zh": "å¯»æ¾å®éçå¬å­ææ­¥éãéåèªç¶å¼å¸ä»¥éä¸­éåº¦åè¡ãä¸è¦å°è§çº¿åºå®å¨åä¸è¦ç¹ï¼èªç¶æ¾ç¼å¨é­é£åã",
+          "es": "Busque un parque o sendero tranquilo. Camine a un ritmo cÃ³modo alineado con su respiraciÃ³n, dejando que la vista recorra el entorno de forma relajada.",
+          "de": "Suchen Sie einen ruhigen Park oder Wanderweg. Gehen Sie in moderatem Tempo passend zu Ihrer Atmung und lassen Sie den Blick entspannt Ã¼ber die Natur schweifen.",
+          "fr": "Trouvez un parc ou un sentier paisible. Marchez Ã  une allure modÃ©rÃ©e adaptÃ©e Ã  votre respiration, en laissant votre regard balayer naturellement le paysage.",
+          "pt": "Procure um parque ou trilha tranquila. Caminhe em um ritmo moderado alinhado Ã  sua respiraÃ§Ã£o, deixando o olhar passear livremente pelo ambiente.",
+          "id": "Cari taman atau jalur jalan kaki yang tenang. Berjalanlah dengan kecepatan sedang yang sesuai dengan napas Anda, biarkan pandangan menyapu pemandangan sekitar."
         }
       },
       {
         "name": {
-          "ko": "Capture and write down insights immediately"
+          "ko": "ìê°ì´ ì¤ì¹  ë ê·¸ ìë¦¬ìì ì¦ì ê¸°ë¡íê¸°",
+          "en": "Capture and Write Down Insights Immediately",
+          "ja": "ã²ããããè¨ªããããã®å ´ã§å³åº§ã«è¨é²ãã",
+          "zh": "çµæéªç°æ¶å½å³è®°å½",
+          "es": "Capture e inscriba las ideas inmediatamente",
+          "de": "Halten Sie Erkenntnisse sofort an Ort und Stelle fest",
+          "fr": "Consignez immÃ©diatement vos idÃ©es sur le vif",
+          "pt": "Anote os lampejos imediatamente no local",
+          "id": "Catat Wawasan Seketika di Tempat"
         },
         "text": {
-          "ko": "As soon as an idea or solution flashes, stop immediately and write it down in your notebook. Do not wait until you return home, as short-term memory decays quickly."
+          "ko": "ìì´ëì´ë í´ê²°ì±ì´ ë²ë©ì´ë ìê°, ì¦ì ê±¸ìì ë©ì¶ê³  ìì²©ì ì¨ ë´ë ¤ê°ëë¤. ë¨ê¸° ê¸°ìµì ë¹ ë¥´ê² ìë©¸íë¯ë¡ ì§ì ëìê° ëê¹ì§ ê¸°ë¤ë¦¬ì§ ë§ì¸ì.",
+          "en": "The moment an idea or breakthrough flashes, halt immediately and record it in your notebook. Do not wait until returning home, as short-term creative traces decay swiftly.",
+          "ja": "ã¢ã¤ãã¢ãè§£æ±ºç­ãéããç¬éãç´ã¡ã«è¶³ãæ­¢ãã¦æå¸³ã«æ¸ãçãã¾ããç­æè¨æ¶ã¯æ¥éã«æ¶æ»ãããããå¸°å®ããã¾ã§å¾ããªãã§ãã ããã",
+          "zh": "å½èæµ·éªç°è§£æ³æçµææ¶ï¼ç«å»åä¸èæ­¥åå¥æåãç±äºç­æè®°å¿è¡°éæå¿«ï¼åå¿ç­å°åå®¶ååå¨ç¬ã",
+          "es": "En cuanto surja una idea, detÃ©ngase e escrÃ­bala en su libreta. No espere a volver a casa, ya que la memoria a corto plazo se desvanece rÃ¡pidamente.",
+          "de": "Halten Sie sofort an, sobald ein Gedanke aufblitzt, und schreiben Sie ihn auf. Warten Sie nicht bis zur RÃ¼ckkehr, da flÃ¼chtige Ideen schnell verblassen.",
+          "fr": "DÃ¨s qu'une idÃ©e surgit, arrÃªtez-vous pour la noter dans votre carnet. N'attendez pas d'Ãªtre rentrÃ©, car la mÃ©moire immÃ©diate s'efface vite.",
+          "pt": "Assim que um pensamento surgir, pare e anote-o no bloco. NÃ£o espere voltar para casa, pois a memÃ³ria recente se apaga rapidamente.",
+          "id": "Begitu sebuah ide muncul, segera berhenti dan tulis di buku catatan. Jangan menunggu hingga tiba di rumah karena ingatan jangka pendek cepat pudar."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "니체는 구체적으로 언제 걸었나요?"
+          "ko": "ëì²´ë êµ¬ì²´ì ì¼ë¡ ì¸ì  ê±¸ìëì?",
+          "en": "When specifically during the day did Nietzsche walk?",
+          "ja": "ãã¼ãã§ã¯å·ä½çã«ãã¤æ­©ããã®ã§ããï¼",
+          "zh": "å°¼éå·ä½å¨ä¸å¤©ä¸­çä»ä¹æ¶é´æ£æ­¥ï¼",
+          "es": "Â¿En quÃ© momentos del dÃ­a caminaba Nietzsche?",
+          "de": "Wann genau ging Nietzsche im Tagesverlauf spazieren?",
+          "fr": "Ã quels moments prÃ©cis de la journÃ©e Nietzsche marchait-il ?",
+          "pt": "Em que momentos do dia Nietzsche costumava caminhar?",
+          "id": "Kapan tepatnya Nietzsche berjalan kaki dalam sehari?"
         },
         "answer": {
-          "ko": "니체는 주로 아침 식사 후부터 점심시간 전까지, 그리고 늦은 오후에 걸었습니다. 특히 산길과 숲길을 걸으며 자연 속에서 철학적 영감을 얻는 것을 선호했습니다."
+          "ko": "ëì²´ë ì£¼ë¡ ìì¹¨ ìì¬ íë¶í° ì ì¬ìê° ì ê¹ì§, ê·¸ë¦¬ê³  ë¦ì ì¤íì ê±¸ììµëë¤. í¹í ì°ê¸¸ê³¼ ì²ê¸¸ì ê±¸ì¼ë©° ìì° ììì ì² íì  ìê°ì ì»ë ê²ì ì í¸íìµëë¤.",
+          "en": "Nietzsche walked primarily between morning breakfast and lunchtime, as well as during late afternoons. He preferred mountain trails and forest paths to draw philosophical inspiration directly from nature.",
+          "ja": "ããã§ã¯ä¸»ã«æé£å¾ããæ¼é£åã¾ã§ã®æéå¸¯ã¨ãéãåå¾ã«æ­©ãã¾ãããç¹ã«å±±éãæ£®ã®éãæ­©ããèªç¶ã®ä¸­ã§å²å­¦çãªã¤ã³ã¹ãã¬ã¼ã·ã§ã³ãå¾ããã¨ãå¥½ã¿ã¾ããã",
+          "zh": "å°¼éä¸»è¦å¨æ©é¤åè³åé¤åçæ¶é´æ®µä»¥ååæè¿è¡æ¼«æ­¥ãä»æ ¼å¤åå¥½å±±è·¯ä¸æé´å°å¾ï¼ä»¥ä¾¿å¨èªç¶ææ±ä¸­æ±²åå²å­¦çµæã",
+          "es": "Nietzsche caminaba principalmente entre el desayuno y el almuerzo, y a Ãºltima hora de la tarde. PreferÃ­a los senderos de montaÃ±a y bosques para conectar con la naturaleza.",
+          "de": "Nietzsche wanderte meist zwischen FrÃ¼hstÃ¼ck und Mittagessen sowie am spÃ¤ten Nachmittag. Er bevorzugte Berg- und Waldwege, um Inspiration aus der Natur zu schÃ¶pfen.",
+          "fr": "Nietzsche marchait principalement entre le petit-dÃ©jeuner et le dÃ©jeuner, ainsi qu'en fin d'aprÃ¨s-midi. Il privilÃ©giait les sentiers forestiers et de montagne.",
+          "pt": "Nietzsche caminhava principalmente entre o cafÃ© da manhÃ£ e o almoÃ§o, e no final da tarde. Ele preferia trilhas de montanha e caminhos na floresta.",
+          "id": "Nietzsche terutama berjalan kaki antara sarapan dan makan siang, serta di sore hari. Ia menyukai jalur pegunungan dan hutan untuk mendapatkan inspirasi."
         }
       },
       {
         "question": {
-          "ko": "일상에서 실천할 때 꼭 야외를 걸어야 하나요?"
+          "ko": "ì¼ììì ì¤ì²í  ë ê¼­ ì¼ì¸ë¥¼ ê±¸ì´ì¼ íëì?",
+          "en": "Must I walk outdoors when practicing this in daily life?",
+          "ja": "æ¥å¸¸ã§å®è·µããéãå¿ãå±å¤ãæ­©ããªããã°ãªãã¾ãããï¼",
+          "zh": "å¨æ¥å¸¸çæ´»ä¸­å®è·µæ¶ï¼å¿é¡»è¦å¨æ·å¤æ£æ­¥åï¼",
+          "es": "Â¿Es obligatorio caminar al aire libre para practicar esta rutina?",
+          "de": "Muss man fÃ¼r diese Praxis zwingend im Freien gehen?",
+          "fr": "Faut-il absolument marcher en extÃ©rieur pour appliquer cette mÃ©thode ?",
+          "pt": "Ã obrigatÃ³rio caminhar ao ar livre para praticar essa rotina?",
+          "id": "Apakah harus berjalan di luar ruangan saat mempraktikkannya?"
         },
         "answer": {
-          "ko": "야외 산책이 가장 좋지만, 여의치 않다면 실내의 좁은 복도나 사무실 안을 조용히 서성이는 것만으로도 가벼운 인지 전환과 집중력 리셋 효과를 누릴 수 있습니다."
+          "ko": "ì¼ì¸ ì°ì±ì´ ê°ì¥ ì¢ì§ë§, ì¬ìì¹ ìë¤ë©´ ì¤ë´ì ì¢ì ë³µëë ì¬ë¬´ì¤ ìì ì¡°ì©í ìì±ì´ë ê²ë§ì¼ë¡ë ê°ë²¼ì´ ì¸ì§ ì íê³¼ ì§ì¤ë ¥ ë¦¬ì í¨ê³¼ë¥¼ ëë¦´ ì ììµëë¤.",
+          "en": "Outdoor nature walks are ideal; however, if unavailable, quietly pacing along an indoor hallway or open office space can still trigger cognitive shifts and reset your focus.",
+          "ja": "å±å¤ã®æ£æ­©ãæãæã¾ããã§ãããé£ããå ´åã¯å±åã®éããªå»ä¸ããªãã£ã¹åãéãã«æ­©ãåãã ãã§ããè»½ãããªèªç¥ã®åãæ¿ãã¨éä¸­åã®ãªã»ããå¹æãå¾ããã¾ãã",
+          "zh": "æ·å¤èªç¶æ¼«æ­¥æææä½³ï¼ä½è¥åéï¼å¨å®¤åå®éçèµ°å»æåå¬å®¤æ¥åè¸±æ­¥ï¼ä¹è½èµ·å°è½»åº¦è®¤ç¥è½¬æ¢ä¸éç½®ä¸æ³¨åçç§¯æä½ç¨ã",
+          "es": "Caminar al aire libre es ideal; sin embargo, si no es posible, recorrer un pasillo tranquilo u oficina tambiÃ©n ayuda a renovar el enfoque mental.",
+          "de": "SpaziergÃ¤nge im Freien sind ideal. Falls dies nicht mÃ¶glich ist, reicht auch das ruhige Auf- und Abgehen auf Fluren, um die Konzentration zu erfrischen.",
+          "fr": "Les marches en plein air sont idÃ©ales ; toutefois, arpenter un couloir calme ou un bureau permet dÃ©jÃ  de rafraÃ®chir la concentration.",
+          "pt": "Caminhar ao ar livre Ã© o ideal, mas se nÃ£o for possÃ­vel, andar calmamente por um corredor ou escritÃ³rio ajudarÃ¡ a renovar o foco.",
+          "id": "Jalan-jalan di luar ruangan adalah yang terbaik, namun jika tidak memungkinkan, berjalan perlahan di koridor atau ruang kantor tetap dapat menyegarkan fokus."
         }
       }
     ]

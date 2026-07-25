@@ -1,70 +1,214 @@
 {
   "marcus-aurelius-morning-journaling": {
     "title": {
-      "ko": "마르쿠스 아우렐리우스의 아침 저널링: 스토아 철학으로 마음을 잠재우는 법"
+      "ko": "마르쿠스 아우렐리우스의 아침 저널링: 스토아 철학으로 마음을 잠재우는 법",
+      "en": "Marcus Aurelius's Morning Journaling: Calming the Mind with Stoic Philosophy",
+      "ja": "マルクス・アウレリウスの朝のジャーナリング：ストア哲学で心を静める方法",
+      "zh": "马可·奥勒留的晨间日记：用斯多葛哲学平息杂念",
+      "es": "Diario mañanero de Marco Aurelio: Cómo calmar la mente con la filosofía estoica",
+      "de": "Marcus Aurelius' morgendliches Journaling: Die Seele mit stoischer Philosophie beruhigen",
+      "fr": "Le journal matinal de Marc Aurèle : Apaiser l'esprit grâce à la philosophie stoïcienne",
+      "pt": "O diário matinal de Marco Aurélio: Como acalmar a mente com a filosofia estoica",
+      "id": "Jurnal Pagi Marcus Aurelius: Cara Menenangkan Pikiran dengan Filosofi Stoa"
     },
     "description": {
-      "ko": "로마 황제 마르쿠스 아우렐리우스가 일출 직전 일기를 쓰며 극도의 스트레스를 해소하고 내면의 회복탄력성을 기른 비결을 알아봅니다."
+      "ko": "로마 황제 마르쿠스 아우렐리우스가 일출 직전 일기를 쓰며 극도의 스트레스를 해소하고 내면의 회복탄력성을 기른 비결을 알아봅니다.",
+      "en": "Discover how Roman Emperor Marcus Aurelius wrote in his journal just before sunrise to relieve extreme stress and cultivate inner resilience.",
+      "ja": "ローマ皇帝マルクス・アウレリウスが日の出直前に日記を書き、極度のストレスを解消し内面の回復弾力性を養った秘訣を探ります。",
+      "zh": "探索罗马皇帝马可·奥勒留如何在日出前撰写日记，从而化解极大压力并培养内心复原力的秘诀。",
+      "es": "Descubra cómo el emperador romano Marco Aurelio escribía en su diario justo antes del amanecer para aliviar el estrés extremo y cultivar su resiliencia interior.",
+      "de": "Erfahren Sie, wie der römische Kaiser Marcus Aurelius kurz vor Sonnenaufgang Tagebuch schrieb, um extremen Stress abzubauen und innere Resilienz zu entwickeln.",
+      "fr": "Découvrez comment l'empereur romain Marc Aurèle écrivait dans son journal juste avant le lever du soleil pour dissiper un stress intense et développer sa résilience intérieure.",
+      "pt": "Descubra como o imperador romano Marco Aurélio escrevia em seu diário antes do amanhecer para aliviar o estresse extremo e cultivar a resiliência interior.",
+      "id": "Pelajari bagaimana Kaisar Romawi Marcus Aurelius menulis jurnal sebelum matahari terbit untuk meredakan stres ekstrem dan menggembleng resiliensi batin."
     },
     "authority": {
-      "ko": "Marcus Aurelius Morning Journaling 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+      "ko": "마르쿠스 아우렐리우스 《자성록》 및 역사적 평전 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+      "en": "Historical Verification of Marcus Aurelius's 'Meditations', Biographical Records & Cognitive Neuroscience Studies",
+      "ja": "マルクス・アウレリウス『自省録』および歴史的評伝考証＆認知神経科学（Cognitive Neuroscience）研究",
+      "zh": "马可·奥勒留《沉思录》与历史传记考证及认知神经科学研究",
+      "es": "Verificación histórica de las 'Meditaciones' de Marco Aurelio, registros biográficos e investigación en neurociencia cognitiva",
+      "de": "Historische Prüfung von Marcus Aurelius' 'Selbstbetrachtungen', biografischen Aufzeichnungen & kognitionswissenschaftliche Forschung",
+      "fr": "Vérification historique des 'Pensées pour moi-même' de Marc Aurèle, récits biographiques & recherche en neurosciences cognitives",
+      "pt": "Verificação histórica das 'Meditações' de Marco Aurélio, registros biográficos e pesquisas em neurociência cognitiva",
+      "id": "Verifikasi Historis 'Meditasi' Marcus Aurelius, Catatan Biografis & Riset Neurosains Kognitif"
     },
     "intro": {
-      "ko": "\"아침에 일어날 때 생각하라. 살아 있고 호흡하며 생각하고 즐기고 사랑하는 것이 얼마나 큰 특권인지.\" 🌅\n\n로마의 현자 황제 마르쿠스 아우렐리우스는 전쟁터에서도 이 다짐을 거르지 않았습니다. 일출 직전 새벽녘의 고요 속에서, 그는 누군가에게 보여주기 위해서가 아니라 오직 자신의 영혼을 다스리고 평정심을 유지하기 위해 펜을 들었습니다.\n\n전투와 질병, 제국의 위기 속에서도 그를 지탱해 주었던 이 아침 글쓰기 습관은 오늘날 현대 심리학에서도 놀라운 정신 안정 효과를 보여줍니다."
+      "ko": "\"아침에 일어날 때 생각하라. 살아 있고 호흡하며 생각하고 즐기고 사랑하는 것이 얼마나 큰 특권인지.\" 🌅\n\n로마 제국의 제16대 황제이자 '현군(賢君)'으로 칭송받는 5현제 시대의 마지막 군주, 스토아 철학자 마르쿠스 아우렐리우스(Marcus Aurelius, 121–180). 그는 다뉴브강 전선의 마르코만니 전쟁과 제국 전체를 덮친 안토니누스 역병(Antonine Plague)이라는 참혹한 위기 속에서도 결코 평정심을 잃지 않았습니다. 밤낮으로 전쟁터의 야전 텐트에서 제국의 사명을 짊어져야 했던 그가 후세에 철학적 명작으로 남은 《자성록(Ta Eis Heauton)》을 써 내려간 시간은 바로 일출 직전 새벽녘의 고요 속이었습니다. 그는 누군가에게 보여주기 위해서가 아니라, 오직 스스로의 영혼을 다스리고 평정심을 유지하기 위해 펜을 들었습니다.\n\n전투와 질병, 정치적 배신 속에서도 그를 단단히 지탱해 주었던 이 아침 글쓰기 습관은 오늘날 현대 인지신경과학에서도 놀라운 정신 안정 및 스트레스 차단 효과를 보여줍니다.",
+      "en": "\"When you arise in the morning, think of what a privilege it is to be alive, to think, to enjoy, to love.\" 🌅\n\nMarcus Aurelius (121–180), the 16th emperor of the Roman Empire and the last of the Five Good Emperors, was a renowned Stoic philosopher. Amid the devastating Marcomannic Wars along the Danube frontier and the catastrophic Antonine Plague that swept through the empire, he maintained unwavering stoic tranquility. Carrying the monumental weight of empire in military tents day and night, he penned 'Meditations' (Ta Eis Heauton)—not for public acclaim, but purely during the quiet pre-dawn hours to govern his own soul. He picked up his pen solely to regulate his mind and preserve composure.\n\nThis morning writing habit, which anchored him through battle, disease, and political betrayal, is validated by modern cognitive neuroscience for its profound ability to block stress and stabilize the mind.",
+      "ja": "「朝起きたときに考えよ。生きていること、思考すること、楽しむこと、愛することがいかに大きな特権であるかを。」 🌅\n\nローマ帝国の第16代皇帝であり「五賢帝」最後の名君と称されるストア派哲学者のマルクス・アウレリウス（Marcus Aurelius, 121–180）。ドナウ川戦線でのマルコマンニ戦争や帝国全土を襲ったアントニヌスの疫病（Antonine Plague）という惨澹たる危機の中でも、彼は決して平静さを失いませんでした。昼夜を問わず戦場の野営テントで帝国の重責を担った彼が、後世に哲学的名著として残る『自省録（Ta Eis Heauton）』を書き綴ったのは、まさに日の出直前の夜明け前の静寂の中でした。誰かに見せるためではなく、ただ自身の魂を統御し平静さを維持するためにペンを握ったのです。\n\n戦闘や病魔、政治的裏切りの中でも彼を堅く支えたこの朝の執筆習慣は、現代の認知神経科学においても驚くべき精神安定およびストレス遮断効果を証明しています。",
+      "zh": "“清晨醒来时请想一想：活着、呼吸、思考、享受与去爱，是多么难能可贵的特权。” 🌅\n\n罗马帝国第16任皇帝、古罗马“五贤帝”的收官之君马可·奥勒留（Marcus Aurelius，121–180），是一位伟大的斯多葛派哲学家。多瑙河前线的马克曼尼战争与横扫整个帝国的安东尼瘟疫（Antonine Plague）接踵而至，但在极度的动荡中，他始终保持着内心深处的平静。在野战帐篷中肩负国家兴亡的他，选择在日出前最清寂的拂晓时刻撰写后世尊为哲学经典的《沉思录》（Ta Eis Heauton）。他动笔绝非为了示人，而纯粹是为了约束自己的灵魂、维持理性的平和。\n\n这一晨间书写习惯在战火、瘟疫与政治背叛中成为了他最坚实的精神支柱。现代认知神经科学研究亦证实，该习惯对于阻断压力与稳定情绪具有显著效果。",
+      "es": "\"Cuando te me levantes por la mañana, piensa en qué privilegio es estar vivo, pensar, disfrutar, amar.\" 🌅\n\nMarco Aurelio (121–180), el decimosexto emperador del Imperio romano y el último de los 'Cinco Buenos Emperadores', fue un renombrado filósofo estoico. En medio de las devastadoras guerras marcomanas a lo largo de la frontera del Danubio y la mortífera peste antonina, mantuvo una serenidad inquebrantable. Soportando el peso del imperio día y noche en tiendas de campaña militares, escribió sus 'Meditaciones' (Ta Eis Heauton) durante las tranquilas horas previas al amanecer, no para buscar la aclamación pública, sino únicamente para gobernar su propia alma y mantener la serenidad.\n\nEste hábito de escritura matutina, que lo sostuvo entre batallas, epidemias y traiciones políticas, es validado hoy por la neurociencia cognitiva moderna por su notable capacidad para bloquear el estrés y estabilizar la mente.",
+      "de": "\"Wenn du am Morgen aufstehst, denke daran, was für ein Privileg es ist, zu leben, zu denken, zu genießen, zu lieben.\" 🌅\n\nMarcus Aurelius (121–180), der 16. Kaiser des Römischen Reiches und der letzte der 'Fünf Guten Kaiser', war ein bedeutender stoischer Philosoph. Inmitten der verheerenden Markomannenkriege an der Donaugrenze und der katastrophalen Antoninischen Pest bewahrte er unerschütterliche Gelassenheit. Während er Tag und Nacht im militärischen Feldzelt die Last des Reiches trug, verfasste er seine 'Selbstbetrachtungen' (Ta Eis Heauton) in der Stille vor Sonnenaufgang – nicht für die Öffentlichkeit, sondern um seine eigene Seele zu ordnen.\n\nDiese morgendliche Schreibgewohnheit, die ihn durch Schlachten, Seuchen und politische Intrigen trug, wird heute von der kognitiven Neurowissenschaft für ihre bemerkenswerte Wirkung bei der Stressbewältigung bestätigt.",
+      "fr": "\"Quand tu te lèves le matin, songe quel précieux privilège c'est que de vivre, de penser, de jouir, d'aimer.\" 🌅\n\nMarc Aurèle (121–180), seizième empereur de l'Empire romain et dernier des 'Cinq Bons Empereurs', était un philosophe stoïcien accompli. Au milieu des guerres marcomanes dévastatrices le long du Danube et de la terrible peste antonine, il conserva une sérénité inébranlable. Portant le fardeau de l'Empire jour et nuit dans sa tente militaire, il rédigea ses 'Pensées pour moi-même' (Ta Eis Heauton) dans le calme précédant l'aube — non pour la postérité, mais pour gouverner son âme et préserver sa paix intérieure.\n\nCette habitude d'écriture matinale, qui le soutint à travers les combats, la maladie et les trahisons, est aujourd'hui validée par la neuroscience cognitive pour son incroyable capacité à bloquer le stress.",
+      "pt": "\"Quando acordar pela manhã, pense no privilégio que é estar vivo, pensar, desfrutar, amar.\" 🌅\n\nMarco Aurélio (121–180), o décimo sexto imperador do Império Romano e o último dos 'Cinco Bons Imperadores', foi um célebre filósofo estoico. Em meio às devastadoras guerras marcomanas ao longo do rio Danúbio e à terrível praga antonina, ele manteve uma serenidade inabalável. Carregando o peso do império dia e noite em tendas militares, escreveu suas 'Meditações' (Ta Eis Heauton) no silêncio que antecedia o amanhecer — não para exibição pública, mas para governar sua própria alma.\n\nEsse hábito de escrita matinal, que o sustentou entre batalhas, epidemias e traições políticas, é validado hoje pela neurociência cognitiva por sua notável capacidade de conter o estresse e estabilizar a mente.",
+      "id": "\"Saat Anda bangun di pagi hari, pikirkan betapa berharganya hak istimewa untuk hidup, berpikir, menikmati, dan mencintai.\" 🌅\n\nMarcus Aurelius (121–180), kaisar ke-16 Kekaisaran Romawi dan yang terakhir dari 'Lima Kaisar Baik', adalah seorang filsuf Stoa terkemuka. Di tengah Perang Marcomanni yang dahsyat di sepanjang perbatasan Danube dan Wabah Antoninus yang mengerikan, ia mempertahankan ketenangan batin yang luar biasa. Memikul beban kekaisaran siang dan malam di tenda militer, ia menulis 'Meditasi' (Ta Eis Heauton) dalam keheningan fajar sebelum matahari terbit—bukan untuk pujian publik, melainkan khusus untuk menata jiwanya sendiri.\n\nKebiasaan menulis pagi ini, yang menguatkannya di tengah peperangan, wabah, dan pengkhianatan politik, kini dibuktikan oleh ilmu saraf kognitif memiliki dampak luar biasa dalam meredakan stres."
     },
     "whyTitle": {
-      "ko": "아침 성찰 일기가 스트레스를 차단하는 이유"
+      "ko": "아침 성찰 일기가 스트레스를 차단하는 이유",
+      "en": "Why Morning Reflective Journaling Blocks Stress",
+      "ja": "朝の省察日記がストレスを遮断する理由",
+      "zh": "晨间反思日记能够阻断压力的科学原理",
+      "es": "Por qué el diario reflexivo matutino frena el estrés",
+      "de": "Warum morgendliches reflektierendes Journaling Stress blockiert",
+      "fr": "Pourquoi le journal réflexif du matin bloque le stress",
+      "pt": "Por que o diário reflexivo matinal bloqueia o estresse",
+      "id": "Mengapa Jurnal Refleksi Pagi Mampu Memblokir Stres"
     },
     "whyDesc": {
-      "ko": "아침에 일어나자마자 글을 쓰는 행위는 뇌의 인지 필터 역할을 합니다. 모호한 불안과 당일 해야 할 감정적 우려들을 종이 위에 쏟아내면, 이성을 담당하는 전전두엽 피질이 활성화되는 동시에 감정과 생존을 담당하는 편도체의 과잉 불안 반응이 즉각 진정됩니다. 이러한 인지적 재구성은 코르티솔 분비를 정상화하고 두뇌 제어력을 높여, 감정에 휩쓸리지 않고 차분하게 의무를 수행할 준비를 마칠 수 있게 만듭니다."
+      "ko": "아침에 일어나자마자 글을 쓰는 행위는 뇌의 인지 필터 역할을 합니다. 모호한 불안과 당일 해야 할 감정적 우려들을 종이 위에 쏟아내면, 이성을 담당하는 전전두엽 피질이 활성화되는 동시에 감정과 생존을 담당하는 편도체의 과잉 불안 반응이 즉각 진정됩니다. 이러한 인지적 재구성은 코르티솔 분비를 정상화하고 두뇌 제어력을 높여, 감정에 휩쓸리지 않고 차분하게 의무를 수행할 준비를 마칠 수 있게 만듭니다.",
+      "en": "Writing immediately upon waking acts as a cognitive filter for the brain. Pouring vague anxieties and emotional concerns onto paper activates the prefrontal cortex responsible for reasoning while instantly calming hyperactive amygdala stress responses. This cognitive reframing normalizes cortisol secretion and boosts executive control, preparing you to carry out your duties calmly without being overwhelmed by emotion.",
+      "ja": "朝起きてすぐに文字を書く行為は、脳の認知フィルターの役割を果たします。曖昧な不安やその日に抱える感情的な懸念を紙の上に吐き出すことで、理性を司る前頭前野皮質が活性化すると同時に、感情や生存を司る扁桃体の過剰な不安反応が即座に鎮まります。この認知の再構成はコルチゾールの分泌を正常化し、脳の制御力を高め、感情に流されることなく冷静に義務を遂行する準備を整えます。",
+      "zh": "清晨醒来后立即书写能充当大脑的“认知过滤器”。将模糊的焦虑与对当天琐事的心情担忧倾倒于纸上，能够在激活主导理性的前额叶皮层的同时，迅速平息主导情绪与生存本能的杏仁核的过度焦虑反应。这种认知重塑有助于使皮质醇分泌恢复正常，提升大脑的掌控力，让您以沉着冷静的心态担负起当天的职责。",
+      "es": "Escribir inmediatamente después de despertar actúa como un filtro cognitivo para el cerebro. Verter ansiedades vagas y preocupaciones emocionales sobre el papel activa la corteza prefrontal responsable del razonamiento, mientras calma instantáneamente las respuestas hiperactivas de la amígdala. Esta reestructuración cognitiva normaliza la secreción de cortisol y mejora el control ejecutivo, preparándole para cumplir con sus deberes con serenidad.",
+      "de": "Das Schreiben unmittelbar nach dem Aufstehen wirkt wie ein kognitiver Filter für das Gehirn. Das Zupapierbringen vager Ängste und emotionaler Sorgen aktiviert den für die Logik zuständigen präfrontalen Kortex und beruhigt gleichzeitig die übermäßige Angstreaktion der Amygdala. Diese kognitive Neuausrichtung normalisiert die Cortisolausschüttung und stärkt die mentale Kontrolle.",
+      "fr": "Écrire dès le réveil agit comme un filtre cognitif pour le cerveau. Poser sur le papier ses anxiétés floues et ses inquiétudes émotionnelles active le cortex préfrontal responsable du raisonnement tout en apaisant instantanément les réactions d'hypervigilance de l'amygdale. Ce recentrage cognitif normalise la sécrétion de cortisol et renforce le contrôle exécutif.",
+      "pt": "Escrever logo após acordar atua como um filtro cognitivo para o cérebro. Despejar ansiedades vagas e preocupações emocionais no papel ativa o córtex pré-frontal responsável pela razão, ao mesmo tempo em que acalma instantaneamente as reações hiperativas da amígdala. Essa reestruturação cognitiva normaliza a secreção de cortisol e eleva o controle mental.",
+      "id": "Menulis segera setelah bangun berfungsi sebagai filter kognitif otak. Menuangkan kecemasan samar dan kekhawatiran emosional ke atas kertas mengaktifkan korteks prefrontal yang mengatur logika, sekaligus meredakan reaksi kecemasan berlebih pada amigdala. Penataan ulang kognitif ini menormalisasi sekresi kortisol dan meningkatkan kendali diri."
     },
     "cautionTitle": {
-      "ko": "효과적인 스토아 저널링을 위한 규칙"
+      "ko": "효과적인 스토아 저널링을 위한 수칙",
+      "en": "Rules for Effective Stoic Journaling",
+      "ja": "効果的なストア派ジャーナリングのためのルール",
+      "zh": "开展有效斯多葛日记书写的准则",
+      "es": "Reglas para un diario estoico eficaz",
+      "de": "Regeln für ein effektives stoisches Journaling",
+      "fr": "Règles pour un journal stoïcien efficace",
+      "pt": "Regras para um diário estoico eficaz",
+      "id": "Panduan untuk Jurnal Stoa yang Efektif"
     },
     "cautionDesc": {
-      "ko": "타인에게 보여주기 위한 세련된 미사여구를 버려야 합니다. 철저히 자기 자신만을 위한 솔직한 글쓰기여야 합니다. 자신의 나약한 부분이나 실수에 대해 객관적으로 기록하되, 스스로를 '너'라고 칭하는 2인칭 문법을 사용하는 것을 추천합니다. 이러한 표현 방식은 물리적 인지 거리(Cognitive Distance)를 생성하여, 제3자의 시선에서 본인의 행동을 더 냉철하게 관찰할 수 있도록 돕습니다."
+      "ko": "타인에게 보여주기 위한 세련된 미사여구를 버려야 합니다. 철저히 자기 자신만을 위한 솔직한 글쓰기여야 합니다. 자신의 나약한 부분이나 실수에 대해 객관적으로 기록하되, 스스로를 '너'라고 칭하는 2인칭 문법을 사용하는 것을 추천합니다. 이러한 표현 방식은 물리적 인지 거리(Cognitive Distance)를 생성하여, 제3자의 시선에서 본인의 행동을 더 냉철하게 관찰할 수 있도록 돕습니다.",
+      "en": "Discard fancy rhetoric meant for others; this writing must be strictly honest and for yourself alone. Record your weaknesses or mistakes objectively, and consider using second-person grammar (addressing yourself as 'you'). This phrasing creates psychological Cognitive Distance, helping you observe your own actions more dispassionately from a third-person perspective.",
+      "ja": "他者に見せるための洗練された修辞を捨てる必要があります。徹底して自分自身のためだけの素直な執筆でなければなりません。自分の弱さや過ちについて客観的に記録しつつ、自分を「お前」や「あなた」と呼ぶ二人称文法を使用することをお勧めします。このような表現方法は物理的・認知的な距離（Cognitive Distance）を生み出し、第三者の視点から自身の行動をより冷静に観察できるよう助けます。",
+      "zh": "请摒弃给他人看的华丽修辞，书写必须彻底做到面向自我的真实与坦诚。对自己的软弱或过失进行客观记录，同时建议使用第二人称（称呼自己为“你”）。这种表达方式能创造出“认知心理距离（Cognitive Distance）”，助您以第三者的视角更加冷静客观地审视自身行为。",
+      "es": "Deseche la retórica elegante pensada para otros; esta escritura debe ser estrictamente honesta y solo para usted. Registre sus debilidades o errores de forma objetiva y considere usar la segunda persona ('tú'). Esta forma de expresión crea una Distancia Cognitiva que le ayuda a observar sus acciones con mayor neutralidad desde una perspectiva externa.",
+      "de": "Verzichten Sie auf geschliffene Rhetorik für andere; dieses Schreiben muss absolut ehrlich und nur für Sie selbst sein. Halten Sie Schwächen oder Fehler objektiv fest und nutzen Sie die Anrede in der zweiten Person ('du'). Dies schafft eine kognitive Distanz (Cognitive Distance), die hilft, das eigene Handeln wie ein externer Beobachter zu bewerten.",
+      "fr": "Abandonnez la rhétorique raffinée destinée aux autres ; cette écriture doit être strictly sincère et personnelle. Consignez vos faiblesses ou erreurs avec objectivité en utilisant la deuxième personne ('tu'). Ce mode d'expression crée une Distance Cognitive qui vous aide à observer vos propres actes avec le recul d'un tiers.",
+      "pt": "Abandone a retórica elaborada voltada para os outros; a escrita deve ser honesta e exclusiva para você. Registre suas fraquezas ou erros com objetividade e considere utilizar a segunda pessoa ('você'). Esse modo de expressão cria uma Distância Cognitiva que o ajuda a observar suas próprias ações de forma neutra.",
+      "id": "Tinggalkan retorika puitis yang ditujukan bagi orang lain; tulisan ini harus jujur dan hanya untuk diri sendiri. Catat kelemahan atau kesalahan Anda secara objektif, dan pertimbangkan menggunakan kata ganti orang kedua ('kamu'). Cara ini menciptakan Jarak Kognitif (Cognitive Distance) yang membantu Anda mengamati tindakan sendiri secara lebih dingin dari sudut pandang pihak ketiga."
     },
     "steps": [
       {
         "name": {
-          "ko": "1단계: 고요한 아침 환경 확보하기"
+          "ko": "고요한 아침 환경 확보하기",
+          "en": "Secure a Quiet Morning Environment",
+          "ja": "静かな朝の環境の確保",
+          "zh": "准备安静的晨间环境",
+          "es": "Asegurar un entorno matutino tranquilo",
+          "de": "Schaffen einer ruhigen morgendlichen Umgebung",
+          "fr": "Ménager un environnement matinal calme",
+          "pt": "Garantir um ambiente matinal tranquilo",
+          "id": "Menyiapkan Lingkungan Pagi yang Hening"
         },
         "text": {
-          "ko": "본격적인 하루의 소음과 디지털 기기의 알림이 켜지기 전, 가장 고요한 아침 시간대를 확보합니다. 은은한 조명 아래서 컴퓨터나 전자기기 대신 종이로 된 노트를 펼쳐 자리에 앉습니다."
+          "ko": "본격적인 하루의 소음과 디지털 기기의 알림이 켜지기 전, 가장 고요한 아침 시간대를 확보합니다. 은은한 조명 아래서 컴퓨터나 전자기기 대신 종이 노트를 펼쳐 자리에 앉습니다.",
+          "en": "Secure the quietest morning hours before daily noise and digital notifications take over. Under soft lighting, sit down and open a paper notebook instead of turning on a computer or electronic device.",
+          "ja": "本格的な一日の騒音やデジタル機器の通知が立ち上がる前、最も静かな朝の時間帯を確保します。ほのかな照明の下、パソコンや電子機器の代わりに紙のノートを開いて席に着きます。",
+          "zh": "在白天的喧嚣与电子设备通知响起之前，锁定最清静的晨间时光。在柔和的灯光下，展开纸质笔记本坐下，而非打开电脑或手机。",
+          "es": "Reserve la hora más tranquila de la mañana antes de que comiencen los ruidos cotidianos y las notificaciones digitales. Bajo una luz suave, siéntese y abra un cuaderno de papel en lugar de encender pantallas.",
+          "de": "Nützen Sie die ruhigste Zeit am Morgen, bevor der Lärm des Tages und digitale Benachrichtigungen einsetzen. Setzen Sie sich bei sanftem Licht hin und öffnen Sie ein Papiernotizbuch anstelle von Bildschirmen.",
+          "fr": "Réservez le moment le plus calme du matin avant que le bruit quotidien et les notifications ne surgissent. Sous une lumière douce, installez-vous et ouvrez un carnet en papier plutôt que d'allumer un écran.",
+          "pt": "Reserve a hora mais tranquila da manhã antes que os ruídos cotidianos e as notificações digitais comecem. Sob uma iluminação suave, sente-se e abra um caderno em papel em vez de ligar telas.",
+          "id": "Manfaatkan waktu pagi yang paling hening sebelum kebisingan harian dan notifikasi digital dimulai. Di bawah pencahayaan lembut, duduklah dan buka buku catatan kertas alih-alih menyalakan perangkat elektronik."
         }
       },
       {
         "name": {
-          "ko": "2단계: 오늘 마주할 마찰 예상하기"
+          "ko": "오늘 마주할 마찰 예상하기",
+          "en": "Anticipate Friction You May Face Today",
+          "ja": "今日直面する摩擦の予測",
+          "zh": "预判今日可能面临的阻碍",
+          "es": "Anticipar las fricciones del día",
+          "de": "Vorausschau mögliche Reibungspunkte des Tages",
+          "fr": "Anticiper les frictions de la journée",
+          "pt": "Antecipar os fricções do dia",
+          "id": "Mengantisipasi Hambatan Hari Ini"
         },
         "text": {
-          "ko": "오늘 하루 동안 마주할 수 있는 마찰 요소(예: 껄끄러운 회의, 예기치 않은 지연)를 미리 적습니다. 타인의 태도는 통제 불가능하지만, 본인의 대처 태도는 스스로 완벽하게 조율할 수 있음을 상기합니다."
+          "ko": "오늘 하루 동안 마주할 수 있는 마찰 요소(예: 껄끄러운 회의, 예기치 않은 지연)를 미리 적습니다. 타인의 태도는 통제 불가능하지만, 본인의 대처 태도는 스스로 완벽하게 조율할 수 있음을 상기합니다.",
+          "en": "Write down potential friction points for the day (e.g. difficult meetings, unexpected delays). Remind yourself that while others' behavior is beyond your control, your own response is entirely within your power.",
+          "ja": "今日直面する可能性のある摩擦要素（例：気まずい会議、予期せぬ遅延）をあらかじめ書き出します。他人の態度はこちらでコントロールできませんが、自身の対応姿勢は完璧に調律できることを再確認します。",
+          "zh": "预先写下今天可能遇到的困扰（例如棘手的会议、意外的延误）。提醒自己：虽然无法控制他人的态度，但自己如何应对却完全取决于自己。",
+          "es": "Anote los posibles puntos de fricción del día (ej. reuniones difíciles, retrasos imprevistos). Recuerde que aunque el comportamiento ajeno está fuera de su control, su propia actitud sí depende totalmente de usted.",
+          "de": "Notieren Sie mögliche Reibungspunkte des Tages (z. B. schwierige Meetings, unerwartete Verzögerungen). Rufen Sie sich in Erinnerung, dass das Verhalten anderer nicht steuerbar ist, Ihre eigene Reaktion aber vollkommen in Ihrer Hand liegt.",
+          "fr": "Notez les points de friction potentiels de la journée (ex. réunions difficiles, retards imprévus). Rappelez-vous que si le comportement d'autrui échappe à votre contrôle, votre propre attitude dépend entièrement de vous.",
+          "pt": "Anote os possíveis pontos de fricção do dia (ex.: reuniões difíceis, atrasos imprevistos). Lembre-se de que, embora o comportamento alheio esteja fora de seu controle, sua própria atitude está totalmente em suas mãos.",
+          "id": "Tuliskan potensi hambatan hari ini (misal: rapat yang canggung, penundaan tak terduga). Ingatkan diri Anda bahwa meskipun sikap orang lain tidak bisa dikontrol, respons Anda berada penuh dalam kendali sendiri."
         }
       },
       {
         "name": {
-          "ko": "3단계: 자제심을 위한 행동 다짐 적기"
+          "ko": "자제심을 위한 행동 다짐 적기",
+          "en": "Write Action Commitments for Self-Control",
+          "ja": "自制心のための行動の誓いの記録",
+          "zh": "写下关于克制与自律的行动决意",
+          "es": "Escribir compromisos de autocontrol",
+          "de": "Schreiben von Vorsätzen für Selbstbeherrschung",
+          "fr": "Rédiger des engagements de maîtrise de soi",
+          "pt": "Escrever compromissos de autocontrole",
+          "id": "Menulis Komitmen Tindakan Pengendalian Diri"
         },
         "text": {
-          "ko": "오늘 하루도 정의롭고 인내하며 평정심을 지켜내겠다는 결의를 2~3줄의 문장으로 적습니다. 마치 오랜 친구나 자아에게 말하듯 편안하면서도 단호하게 문장을 마무리합니다."
+          "ko": "오늘 하루도 정의롭고 인내하며 평정심을 지켜내겠다는 결의를 2~3줄의 문장으로 적습니다. 마치 오랜 친구나 자아에게 말하듯 편안하면서도 단호하게 문장을 마무리합니다.",
+          "en": "Write a 2-3 sentence resolution to remain just, patient, and composed throughout the day. Conclude firmly yet calmly, as if speaking to an old friend or your inner self.",
+          "ja": "今日も一日、正義を守り、忍耐し、平静さを保つという決意を2〜3行の文章で書き記します。古くからの友人やもう一人の自分に語りかけるように、穏やかでありながらきっぱりと締めくくります。",
+          "zh": "用2~3句话写下今天恪守公正、包容并保持定力的决心。语气如同向老友或潜意识中的自我对话般平和而坚定。",
+          "es": "Escriba una resolución de 2 a 3 frases para mantenerse justo, paciente y sereno durante la jornada. Concluya con firmeza y calma, como si hablara con un viejo amigo o con su yo interior.",
+          "de": "Fassen Sie in 2–3 Sätzen den Entschluss, den Tag über gerecht, geduldig und gelassen zu bleiben. Schließen Sie bestimmt, aber ruhig ab, als würden Sie zu einem alten Freund sprechen.",
+          "fr": "Rédigez un engagement de 2 à 3 phrases pour rester juste, patient et serein au cours de la journée. Concluez avec fermeté et bienveillance, comme si vous vous adressiez à un ami proche.",
+          "pt": "Escreva uma resolução de 2 a 3 frases para se manter justo, paciente e sereno ao longo do dia. Conclua com firmeza e serenidade, como se falasse com um amigo querido.",
+          "id": "Tuliskan komitmen 2-3 kalimat untuk tetap adil, sabar, dan tenang sepanjang hari. Akhiri dengan tegas namun lembut, seolah berbicara kepada sahabat lama atau diri sendiri."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "아침 바쁜 시간에 매일 일기를 쓰기 힘든 경우는 어떡하나요?"
+          "ko": "아침 바쁜 시간에 매일 일기를 쓰기 힘든 경우는 어떡하나요?",
+          "en": "What should I do if I find it hard to write in a journal every morning due to a busy schedule?",
+          "ja": "朝の忙しい時間に毎日日記を書くのが難しい場合はどうすればよいですか？",
+          "zh": "早上时间太紧没空写日记怎么办？",
+          "es": "¿Qué debo hacer si me resulta difícil escribir un diario todas las mañanas debido a la prisa?",
+          "de": "Was soll ich tun, wenn ich morgens aus Zeitmangel nicht täglich schreiben kann?",
+          "fr": "Que faire si mon emploi du temps matinal m'empêche d'écrire chaque jour ?",
+          "pt": "O que fazer se a correria matinal dificultar a escrita diária?",
+          "id": "Bagaimana jika jadwal pagi terlalu sibuk sehingga sulit menulis jurnal setiap hari?"
         },
         "answer": {
-          "ko": "하루를 걸렀다고 자책할 필요는 전혀 없습니다. 자책하는 부정적 감정은 스토아 철학에서 지양하는 불필요한 고통입니다. 시간이 정 부족하다면 모바일 메모장에 '오늘 만날 고난에 흔들리지 말자'라는 단 한 줄만 남겨도 충분합니다. 중요한 것은 마음가짐의 일관성입니다."
+          "ko": "하루를 걸렀다고 자책할 필요는 전혀 없습니다. 자책하는 부정적 감정은 스토아 철학에서 지양하는 불필요한 고통입니다. 시간이 정 부족하다면 모바일 메모장에 '오늘 만날 고난에 흔들리지 말자'라는 단 한 줄만 남겨도 충분합니다. 중요한 것은 마음가짐의 일관성입니다.",
+          "en": "There is no need to blame yourself if you miss a day. Self-reproach is an unnecessary form of suffering discouraged by Stoicism. If you are extremely pressed for time, simply writing a single line in a phone memo like 'Remain unshaken by today's trials' is enough. Consistency of mindset is what matters.",
+          "ja": "一日スキップしたからといって自分を責める必要は全くありません。自責の負の感情はストア哲学が回避すべきとする不要な苦痛です。どうしても時間がない場合は、スマホのメモ帳に「今日の困難に揺らぐまい」と一行残すだけでも十分です。大切なのはマインドセットの一貫性です。",
+          "zh": "即便偶尔遗漏一天，也完全不必自责。内疚与自责是斯多葛哲学主张避开的无谓痛苦。若时间实在紧迫，在手机备忘录里写下一句“绝不为今日的难关所动摇”便已足够。核心在于心态上的连贯性。",
+          "es": "No hay necesidad de culparse si se salta un día. La autocompasión y evitar el arrepentimiento son principios estoicos. Si el tiempo es escaso, escribir una sola frase en las notas del móvil como 'No me dejaré perturbar por los problemas de hoy' es suficiente. Lo importante es la constancia de espíritu.",
+          "de": "Es gibt keinen Grund für Schuldgefühle, wenn Sie einen Tag auslassen. Selbstvorwürfe sind nach der stoischen Philosophie unnötiges Leid. Wenn die Zeit knapp ist, reicht ein einziger Satz im Smartphone wie 'Ich lasse mich von heutigen Hürden nicht aus der Ruhe bringen'. Entscheidend ist die Beständigkeit der inneren Haltung.",
+          "fr": "Inutile de vous culpabiliser si vous sautez un jour. La culpabilité est une souffrance inutile rejetée par le stoïcisme. En cas de manque de temps, noter une seule phrase sur votre téléphone telle que 'Ne pas me laisser ébranler par les difficultés du jour' suffit amplement. L'important est la régularité de l'état d'esprit.",
+          "pt": "Não há necessidade de se culpar caso pule um dia. A autocobrança é uma dor desnecessária segundo o estoicismo. Se o tempo estiver curto, escrever apenas uma linha no celular como 'Não me deixarei abalar pelos desafios de hoje' é suficiente. O fundamental é a consistência da mentalidade.",
+          "id": "Sama sekali tidak perlu menyalahkan diri sendiri jika terlewat sehari. Perasaan bersalah adalah penderitaan tak perlu yang dihindari dalam Stoa. Jika waktu sangat terbatas, menulis satu kalimat di ponsel seperti 'Jangan goyah oleh kesulitan hari ini' sudah cukup. Yang terpenting adalah konsistensi pola pikir."
         }
       },
       {
         "question": {
-          "ko": "일반적인 감사 일기나 아침 일기와 다른 점은 무엇인가요?"
+          "ko": "일반적인 감사 일기나 아침 일기와 다른 점은 무엇인가요?",
+          "en": "How does this differ from a typical gratitude journal or morning diary?",
+          "ja": "一般的な感謝日記や通常の朝日記とは何が違うのですか？",
+          "zh": "这与普通的感恩日记或晨间日记有何不同？",
+          "es": "¿En qué se diferencia esto de un diario de gratitud convencional o un diario matutino?",
+          "de": "Wie unterscheidet sich dies von einem normalen Dankbarkeitstagebuch oder Morgentagebuch?",
+          "fr": "En quoi cela diffère-t-il d'un journal de gratitude classique ou d'un journal matinal ?",
+          "pt": "Como isso se difere de um diário de gratidão comum ou de um diário matinal?",
+          "id": "Apa bedanya rutinitas ini dengan jurnal rasa syukur atau jurnal pagi biasa?"
         },
         "answer": {
-          "ko": "감사 일기가 긍정적인 상황의 수집에 치중한다면, 스토아 성찰 일기는 오히려 마주할 수 있는 부정적인 사건이나 스트레스를 미리 마주하고(부정적 시각화 - Premeditatio Malorum), 이에 흔들리지 않을 자신의 태도를 조율하는 '정신적 모의훈련'에 가깝습니다."
+          "ko": "감사 일기가 긍정적인 상황의 수집에 치중한다면, 스토아 성찰 일기는 오히려 마주할 수 있는 부정적인 사건이나 스트레스를 미리 마주하고(부정적 시각화 - Premeditatio Malorum), 이에 흔들리지 않을 자신의 태도를 조율하는 '정신적 모의훈련'에 가깝습니다.",
+          "en": "While gratitude journals focus on gathering positive events, Stoic reflective journaling proactively confronts potential negative events or stressors in advance (Negative Visualization - Premeditatio Malorum) to calibrate your mindset. It functions as a form of mental simulation.",
+          "ja": "感謝日記がポジティブな出来事の収集に重きを置くのに対し、ストア派の省察日記は、むしろ直面する可能性のあるネガティブな出来事やストレスをあらかじめ想定し（消極的視覚化 - Premeditatio Malorum）、それに動じない姿勢を調律する「精神の模擬訓練」に近いものです。",
+          "zh": "普通的感恩日记侧重于搜集积极事物，而斯多葛反思日记则是预先面对可能发生的消极事件与压力（预事悲观/消极想象 - Premeditatio Malorum），从而微调心态、确保镇定，更像是一种“精神模拟演练”。",
+          "es": "Mientras que un diario de gratitud se centra en recopilar aspectos positivos, el diario reflexivo estoico se anticipa a posibles eventos negativos o fuentes de estrés (Visualización Negativa - Premeditatio Malorum) para calibrar su actitud y actuar como una simulación mental de temple.",
+          "de": "Während ein Dankbarkeitstagebuch den Fokus auf positive Dinge legt, konfrontiert das stoische Journaling im Voraus potenzielle negative Ereignisse oder Stressoren (Negative Visualisierung - Premeditatio Malorum), um die eigene Haltung einzustellen. Es ähnelt einem mentalen Trockentraining.",
+          "fr": "Si le journal de gratitude se concentre sur l'accumulation de moments positifs, le journal stoïcien anticipe plutôt les difficultés ou événements négatifs potentiels (Visualisation Négative - Premeditatio Malorum) afin d'ajuster sa posture mentale. C'est un véritable entraînement mental.",
+          "pt": "Enquanto o diário de gratidão se concentra em reunir fatos positivos, o diário reflexivo estoico se antecipa a possíveis eventos negativos ou estressores (Visualização Negativa - Premeditatio Malorum) para calibrar sua postura mental, funcionando como um ensaio psicológico.",
+          "id": "Jika jurnal rasa syukur berfokus mengumpulkan hal-hal positif, jurnal refleksi Stoa justru mengantisipasi potensi peristiwa negatif atau stres secara proaktif (Visualisasi Negatif - Premeditatio Malorum) untuk menyelaraskan sikap batin. Ini berfungsi sebagai bentuk simulasi mental."
         }
       }
     ]

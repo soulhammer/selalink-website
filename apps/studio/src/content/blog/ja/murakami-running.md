@@ -1,6 +1,6 @@
 ---
-title: "매일 아침 10km를 달리는 작가? 무라카미 하루키의 기초 체력 루틴"
-description: "전 세계적인 베스트셀러 소설가 무라카미 하루키. 그의 철저한 아침 10km 달리기 루틴 속에 숨겨진 뇌과학적 원리와 현대인을 위한 3단계 실천법을 알아봅니다."
+title: "毎朝10kmを走る作家：村上春樹の基礎体力ルーティン"
+description: "世界的なベストセラー小説家村上春樹。彼の徹底した朝の10kmランニングルーティンに隠された脳科学的原理と現代人のための3段階実践法を探ります。"
 pubDate: "2026-06-26"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
@@ -8,25 +8,27 @@ tags: ["위인 습관", "무라카미 하루키", "달리기", "루틴", "체력
 heroImage: "/images/blog/murakami_running.webp"
 app: "buildself"
 formatVersion: 4
-authority: "무라카미 하루키 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+authority: "村上春樹の歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究"
 steps:
-  - name: "Put on running gear immediately upon waking"
-    text: "To avoid hesitation about whether to run or not when you wake up in the morning, change into your pre-prepared running gear immediately. The act of dressing your body sends the first trigger signal to the brain that it is time to move."
-  - name: "Focus on regular time rather than distance"
-    text: "You do not need to run 10km from the start. Start by lightly running for 20-30 minutes at a set time (e.g., 8 PM after work) and gradually increase the distance. The key is not speed, but instilling a regular rhythm into your body."
-  - name: "Use running as a time for self-dialogue"
-    text: "Do not check complex messages or emails on your smartphone while running; focus solely on your breathing rhythm and the sensation of your feet touching the ground. This mindful run becomes the best mental detox to organize a cluttered mind."
+  - name: "起床直後すぐにランニングウェアに着替える"
+    text: "朝目を覚ました時、走るべきか迷う葛藤を断ち切るため、あらかじめ用意しておいたランニングウェアにすぐに着替えます。体に服を着せる可視的行動は、脳に「動く時間だ」という最初のスイッチ信号を伝えます。"
+  - name: "距離よりも決められた時間とリズムに集中する"
+    text: "最初から無理に10kmを走る必要はありません。退社後や朝の決められた時間（例：20〜30分）軽やかに走り始め、漸進的に距離を延ばしていきます。鍵はスピードではなく身体に規則的な実行リズムを刻み込むことです。"
+  - name: "ランニングと思索・内面対話の時間として活用する"
+    text: "走っている間はスマートフォンの複雑なメッセージやメールを確認せず、只管呼吸のリズムと足の裏が地面に触れる感覚に没頭します。このマインドフルなランニングは、複雑な頭の中を整理する最高の精神的デトックスになります。"
 faqs:
-  - question: "하루키는 왜 매일 10km를 달리나요?"
-    answer: "소설 집필에 필요한 고도의 집중력과 지구력을 지탱하기 위해, 유산소 운동으로 뇌세포를 자극하고 물리적인 체력 기반을 구축하기 위함입니다."
+  - question: "村上春樹はなぜ毎日10kmを走るのですか？"
+    answer: "小説執筆に必要な高度の集中力と持久力を支えるため、有酸素運動で脳細胞を刺激し、物理的な体力基盤を構築するためです。"
 
 ---
 
-《상실의 시대》, 《1Q84》 등 발표하는 작품마다 전 세계적인 열풍을 일으키는 현대 일본 문학의 거장 무라카미 하루키. 그는 소설가인 동시에 40년 넘게 매년 마라톤 풀코스를 완주해 온 열정적인 러너이기도 합니다. 🏃‍♂️
+「走り続けるアーティストだけが、絶え間なく創作の井戸から深い水を汲み上げることができる。」 🏃‍♂️
 
-하루키는 1982년 전업 작가의 길로 들어서면서 앉아서 글만 쓰는 생활이 가져다주는 체력 저하와 체중 증가를 겪었습니다. 그는 소설가가 장기적으로 창작 활동을 이어나가기 위해서는 단순한 재능을 넘어, 고도의 집중력을 며칠이고 몇 달이고 유지할 수 있는 강인한 '기초 체력'이 필수적임을 깨달았습니다. 이에 담배를 과감히 끊고 매일 아침 10km를 달리거나 1,500m를 수영하는 루틴을 시작해 전 세계 어디를 가든 이를 고수하고 있습니다.
+『ノルウェイの森』『海辺のカフカ』『1Q84』『街とその不確かな壁』など、発表する作品ごとに世界的な旋風を起こす現代日本文学の巨匠、村上春樹（Haruki Murakami, 1949– ）。50以上の言語に翻訳され数千万人の読者を魅了してきた彼は、小説家であると同時に40年以上毎年フルマラソンを完走し続けてきた熱情的な長距離ランナーでもあります。
 
-오늘 포스트에서는 하루키의 철저한 달리기에 숨겨진 과학적 이유와 현대인들이 일상에서 체력 루틴을 다지는 방법을 살펴봅니다.
+1982年にジャズバーの経営を辞め専業作家の道に入った春樹は、座って執筆ばかりする生活がもたらした体力低下、集中力減退、体重増加に直面しました。彼は長期的な創作活動を維持するためには、生まれ持った才能を超えて、何ヶ月も集中力を維持できる頑丈な「物理的基礎体力」が不可欠であることを痛感しました。そこでタバコをやめ、毎朝10kmを走るか1,500mを泳ぐ徹底したルーティンを開始し、世界中どこへ行ってもこれを維持しています。エッセイ『走ることについて語るときに僕の語ること』で語ったように、彼にとってランニングは執筆の精神的負荷に耐える強固な防御壁でした。
+
+今日の記事では、村上春樹のランニングルーティンに隠された脳科学的原理と、現代人が日常で高度な集中力を磨く方法を探ります。
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -35,50 +37,54 @@ faqs:
       歴史的・学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「murakami-running」は <strong>무라카미 하루키 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong> に基づいて作成されました。
+      「murakami-running」は <strong>村上春樹の歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
     </p>
   </div>
 </div>
 
 ---
 
-## 뇌의 젊음을 유지하는 러닝의 뇌과학
+## 脳の若さを維持するランニングの脳科学
 
-소설을 쓰는 것은 극도의 정신적 에너지를 소모하는 작업입니다. 하루키는 매일 일정량의 원고를 쓰는 고단한 정신 작업을 지탱하기 위해 달리기를 통해 뇌를 단련했습니다.nn실제로 장거리 달리기와 같은 지속적인 유산소 운동은 뇌의 해마 영역에 산소와 영양분을 공급하여 신경세포의 생성을 촉진합니다. 뇌과학 연구에 따르면, 달리기는 뇌신경영양인자(BDNF) 수치를 높여 장기 기억력과 학습 능력을 강화합니다. 또한, 달리면서 분비되는 엔도르핀과 엔도카나비노이드는 스트레스 호르몬인 코르티솔의 분비를 억제하여 정신적 압박감이 심한 현대인들의 두뇌를 평온하게 유지해 줍니다.
+小説を書くことは極度の精神的エネルギーを消費する作業です。村上春樹は毎日一定量の原稿を書く過酷な精神作業を支えるため、ランニングを通じて脳を鍛えました。
+
+実際に長距離走のような持続的な有酸素運動は、脳の海馬領域に酸素と栄養分を供給して神経細胞の生成を促進します。脳科学研究によると、ランニングは脳由来神経栄養因子（BDNF）の数値域を高め、長期記憶力と学習能力を強化します。また走行中に分泌されるエンドルフィンとエンドカンナビノイドは、ストレスホルモンであるコルチゾールの分泌を抑制し、精神的プレッシャーの強い現代人の頭脳を平穏に維持してくれます。
 
 ---
 
-## 성공적인 루틴을 위한 뇌과학적 한마디
+## 成功的なルーティンのための脳科学的アドバイス
 
-<strong>꾸준한 반복이 뇌의 리듬을 만듭니다</strong>nn매일 반복하는 단순한 신체 활동은 의지력을 소모하지 않는 '자동화 루틴'으로 정착됩니다. 일단 뇌에 이 리듬이 새겨지면, 일을 하거나 글을 쓸 때 생기는 극심한 정신적 부하도 견뎌낼 수 있는 단단한 기초 체력적 방어벽이 형성됩니다. 하루키처럼 규칙적인 운동을 삶의 최우선 순위로 올려두고 리듬을 유지해 보세요.
+<strong>地道な反復が脳のリズムを作ります</strong>
+
+毎日繰り返す単純な身体活動は、意志力を消耗しない「自動化ルーティン」として定着します。一度脳にこのリズムが刻まれれば、仕事や執筆の際に生じる極度な精神的負荷にも耐えられる頑丈な基礎体力的防壁が形成されます。村上春樹のように規則的な運動を人生の最優先事項に掲げ、リズムを維持してみてください。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">ステップ 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Put on running gear immediately upon waking</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">起床直後すぐにランニングウェアに着替える</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    To avoid hesitation about whether to run or not when you wake up in the morning, change into your pre-prepared running gear immediately. The act of dressing your body sends the first trigger signal to the brain that it is time to move.
+    朝目を覚ました時、走るべきか迷う葛藤を断ち切るため、あらかじめ用意しておいたランニングウェアにすぐに着替えます。体に服を着せる可視的行動は、脳に「動く時間だ」という最初のスイッチ信号を伝えます。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">ステップ 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Focus on regular time rather than distance</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">距離よりも決められた時間とリズムに集中する</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    You do not need to run 10km from the start. Start by lightly running for 20-30 minutes at a set time (e.g., 8 PM after work) and gradually increase the distance. The key is not speed, but instilling a regular rhythm into your body.
+    最初から無理に10kmを走る必要はありません。退社後や朝の決められた時間（例：20〜30分）軽やかに走り始め、漸進的に距離を延ばしていきます。鍵はスピードではなく身体に規則的な実行リズムを刻み込むことです。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">ステップ 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Use running as a time for self-dialogue</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">ランニングと思索・内面対話の時間として活用する</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Do not check complex messages or emails on your smartphone while running; focus solely on your breathing rhythm and the sensation of your feet touching the ground. This mindful run becomes the best mental detox to organize a cluttered mind.
+    走っている間はスマートフォンの複雑なメッセージやメールを確認せず、只管呼吸のリズムと足の裏が地面に触れる感覚に没頭します。このマインドフルなランニングは、複雑な頭の中を整理する最高の精神的デトックスになります。
   </p>
 </div>
 
@@ -89,11 +95,11 @@ faqs:
   
   <details class="group cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>하루키는 왜 매일 10km를 달리나요?</span>
+      <span>村上春樹はなぜ毎日10kmを走るのですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      소설 집필에 필요한 고도의 집중력과 지구력을 지탱하기 위해, 유산소 운동으로 뇌세포를 자극하고 물리적인 체력 기반을 구축하기 위함입니다.
+      小説執筆に必要な高度の集中力と持久力を支えるため、有酸素運動で脳細胞を刺激し、物理的な体力基盤を構築するためです。
     </p>
   </details>
 </div>

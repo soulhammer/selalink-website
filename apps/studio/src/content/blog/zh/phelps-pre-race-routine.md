@@ -1,6 +1,6 @@
 ---
-title: "압박감을 지우는 법: 마이클 펠프스의 2시간 전 초인지 루틴"
-description: "올림픽 최다 금메달리스트 마이클 펠프스가 시합 직전 수행한 초정밀 행동 루틴. 완벽히 통제된 절차가 뇌의 극단적인 긴장과 불안을 예방하는 과학적 원리를 다룹니다."
+title: "消除压迫感的方法：迈克尔·菲尔普斯赛前2小时的超认知习惯"
+description: "奥运历史上获得金牌最多的运动员迈克尔·菲尔普斯在赛前执行的精细行为 routine。探讨完全受控的流程如何预防大脑极度紧张与焦虑的科学原理。"
 pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
@@ -8,27 +8,27 @@ tags: ["위인 습관", "마이클 펠프스", "몰입", "안정", "성공습관
 heroImage: "/images/blog/phelps_pre_race_routine.webp"
 app: "buildself"
 formatVersion: 4
-authority: "Phelps Pre Race Routine 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+authority: "迈克尔·菲尔普斯历史评传与自传记录考证及认知神经科学（Cognitive Neuroscience）研究"
 steps:
-  - name: "실전 돌입 전 고정 시간 블록 설정"
-    text: "중요한 경쟁, 프레젠테이션, 시험 30분~2시간 전을 온전히 자신만의 시간으로 차단하여 격리합니다."
-  - name: "감각 차단과 기계적 루틴의 실행"
-    text: "노이즈 캔슬링 이어폰으로 특정 음악을 듣거나, 정해진 관절 스트레칭을 1초의 오차도 없이 일련의 순서대로 수행합니다."
-  - name: "마인드 리허설과 편도체 안정 진입"
-    text: "행동 완료 후, 머릿속으로 자신이 치를 실전의 완벽한 성공 시나리오를 심상화하여 불안 중추를 진정시키고 준비 상태를 완료합니다."
+  - name: "锁定进入实战前的固定时间块"
+    text: "将重要竞争、演讲或考试前30分钟至2小时的时间彻底锁定为个人专属的隔离时间。"
+  - name: "屏蔽感官与执行机械化 Routine"
+    text: "戴上降噪耳机聆听特定音乐，或按固定顺序无误差地进行指定的关节拉伸运动。"
+  - name: "心理预演与促使杏仁核平稳"
+    text: "完成物理 routine 后，在脑海中精准构想即将进行的实战完美成功的画面，从而平息情绪焦虑中心，完成备战。"
 faqs:
-  - question: "루틴을 도중에 실수로 생략하면 어떻게 되나요?"
-    answer: "뇌가 예기치 못한 어긋남에 과민 반응하여 일시적으로 불안도가 더 올라갈 수 있으므로, 처음부터 다시 하거나 다음 시도로 유연하게 넘어가야 합니다."
+  - question: "如果在执行过程中意外遗漏了某个步骤会怎样？"
+    answer: "大脑可能会对意外的偏差产生过度反应，导致焦虑感暂时上升。遇到此情况时，应平稳地重新开始或灵活过渡至下一步。"
 
 ---
 
-"나는 물속에 들어가기 전, 이미 머릿속으로 수없이 완벽한 경기를 치렀다." 🏊‍♂️
+“在跃入水中之前，我已在脑海中完美地游过了无数次这场比赛。” 🏊‍♂️
 
-올림픽 역사상 전무후무한 28개의 메달(금메달 23개)을 목에 걸며 수영의 신화가 된 마이클 펠프스. 세계적인 거포들이 모이는 긴박한 메인 스타트대 앞에서도 그는 놀라울 정도로 차분하고 차가운 이성을 유지했습니다. 그의 완벽한 멘탈 통제력 뒤에는 경기 시작 정확히 2시간 전부터 오차 없이 흘러가는 초정밀 행동 루틴이 있었습니다. 그가 실천했던 분 단위 마인드 세팅의 이면을 들여다봅니다.
+斩获奥运史上空前绝后的28枚奖牌（含23枚金牌）、被誉为“泳坛飞鱼”的迈克尔·菲尔普斯（Michael Phelps，1985年出生）。即便面对汇聚了全球顶尖选手的紧张出发台，他也能保持令人惊叹的冰冷沉着与掌控力。
 
-펠프스는 경기 시작 2시간 전 경기장에 도착하면 항상 똑같은 메이커의 헤드폰을 귀에 얹고 음악을 듣기 시작합니다. 그 후 45분간 웜업 수영을 정확히 마친 다음 물 밖으로 나와 다시 똑같은 스트레칭을 하고, 똑같은 브랜드의 수영복을 입고 똑같은 각도로 스타트대를 딛고 올랐습니다. 1초의 시간 오차나 행동 차이도 용납되지 않는 초정밀 세팅이었습니다.
+在他完美的心理控制力背后，是一套与教练鲍勃·鲍曼（Bob Bowman）共同打造的赛前2小时精细 routine。比赛前2小时到达场馆，戴上相同的耳机听音乐，进行45分钟热身游泳，按固定顺序完成拉伸，穿上同款泳衣走上出发台。结合在脑海中精准模拟比赛过程的“心理预演（Mind Rehearsal）”，这套流程将极度压力完美压制。
 
-오늘 포스트에서는 마이클 펠프스가 실천했던 '초인지 사전 준비 루틴'의 작동 원리와 현대인들이 중대한 실전, 중요한 프레젠테이션, 또는 큰 긴장을 동반하는 업무를 시작하기 전 불안과 스트레스를 완전히 잠재울 수 있는 3단계 실천 루틴을 소개합니다.
+本篇文章将揭示迈克尔·菲尔普斯“赛前2小时超认知准备习惯”的神经科学机制，并为现代人在进行重大演讲、面试或挑战前消除焦虑提供三步实践指南。
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -37,50 +37,50 @@ faqs:
       历史 and 学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 phelps-pre-race-routine 的内容基于 <strong>Phelps Pre Race Routine 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong> 撰写。
+      关于 phelps-pre-race-routine 的内容基于 <strong>迈克尔·菲尔普斯历史评传与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
     </p>
   </div>
 </div>
 
 ---
 
-## 초정밀 사전 루틴이 두뇌 불안을 잠재우는 과학
+## 精细事前 routine 镇静大脑焦虑的科学
 
-시합이나 발표 전, 뇌가 처할 수 있는 가장 위험한 상태는 '불확실성'과 이에 따른 불안입니다. 예측 불가능한 환경에 처할 때 두뇌의 감정 및 경계 센터인 <strong>편도체(Amygdala)</strong>는 과열되어 스트레스 호르몬을 대량 방출합니다. 하지만 이미 백 번 이상 반복되어 완벽하게 조절 가능한 육체적 행동 세트를 가동하면, 뇌는 상황을 통제하고 있다고 판단해 편도체 활성을 낮추고 아드레날린 분비를 최적화합니다.
+在比赛或演讲前，大脑面临的最危险状态是“不确定性”及其引发的焦虑。处于不可预测的环境中时，大脑的情感与警报中心——<strong>杏仁核（Amygdala）</strong>会过度活跃并大量释放压力激素。然而，当启动一套经过上百次重复、完全可控的物理行为流程时，大脑会认为自己掌控了局势，从而降低杏仁核活性，优化肾上腺素的分泌。
 
 ---
 
-## 주의사항 및 팁
+## 注意事项与 Tip
 
-주의해야 할 부분은 이 루틴이 단순한 미신이나 마법적인 부적이 아니라는 점입니다. 마이클 펠프스 역시 오랜 <strong>기계적인 훈련과 반복</strong>을 통해 루틴과 신체 이완 간의 단단한 시냅스 연결을 구축했습니다. 따라서 초기에 실패하더라도 조급해하지 말고 꾸준히 자신의 루틴을 굳혀 나가는 훈련이 필수적입니다.
+需要注意的是，这套 routine 并非单纯的迷信或神奇的护身符。迈克尔·菲尔普斯也是通过长期<strong>机械化的训练与重复</strong>，才在大脑 routine 与身体放松之间建立了牢固的突触连接。因此，即使初期尝试未达预期也不必急躁，持之以恒地巩固个人习惯才是关键。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">步骤 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">실전 돌입 전 고정 시간 블록 설정</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">锁定进入实战前的固定时间块</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    중요한 경쟁, 프레젠테이션, 시험 30분~2시간 전을 온전히 자신만의 시간으로 차단하여 격리합니다.
+    将重要竞争、演讲或考试前30分钟至2小时的时间彻底锁定为个人专属的隔离时间。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">步骤 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">감각 차단과 기계적 루틴의 실행</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">屏蔽感官与执行机械化 Routine</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    노이즈 캔슬링 이어폰으로 특정 음악을 듣거나, 정해진 관절 스트레칭을 1초의 오차도 없이 일련의 순서대로 수행합니다.
+    戴上降噪耳机聆听特定音乐，或按固定顺序无误差地进行指定的关节拉伸运动。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">步骤 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">마인드 리허설과 편도체 안정 진입</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">心理预演与促使杏仁核平稳</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    행동 완료 후, 머릿속으로 자신이 치를 실전의 완벽한 성공 시나리오를 심상화하여 불안 중추를 진정시키고 준비 상태를 완료합니다.
+    完成物理 routine 后，在脑海中精准构想即将进行的实战完美成功的画面，从而平息情绪焦虑中心，完成备战。
   </p>
 </div>
 
@@ -91,11 +91,11 @@ faqs:
   
   <details class="group cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>루틴을 도중에 실수로 생략하면 어떻게 되나요?</span>
+      <span>如果在执行过程中意外遗漏了某个步骤会怎样？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      뇌가 예기치 못한 어긋남에 과민 반응하여 일시적으로 불안도가 더 올라갈 수 있으므로, 처음부터 다시 하거나 다음 시도로 유연하게 넘어가야 합니다.
+      大脑可能会对意外的偏差产生过度反应，导致焦虑感暂时上升。遇到此情况时，应平稳地重新开始或灵活过渡至下一步。
     </p>
   </details>
 </div>

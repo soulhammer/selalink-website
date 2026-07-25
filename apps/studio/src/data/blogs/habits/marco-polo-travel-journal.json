@@ -1,70 +1,214 @@
 {
   "marco-polo-travel-journal": {
     "title": {
-      "ko": "동방견문록 탐험가의 메모법? 마르코 폴로의 야간 현장 감각 일지"
+      "ko": "동방견문록 탐험가의 메모법: 마르코 폴로의 야간 현장 감각 일지",
+      "en": "The Explorer's Note-Taking Method: Marco Polo's Nightly Sensory Travel Journal Routine",
+      "ja": "『東方見聞録』探検家のメモ術：マルコ・ポーロの夜間現場感覚日誌",
+      "zh": "《东方见闻录》探险家的笔记法：马可·波罗的夜间现场感官日志",
+      "es": "El método de notas del explorador: El diario sensorial nocturno de Marco Polo",
+      "de": "Die Notizmethode des Entdeckers: Marco Polos nächtliches sensorisches Reisetagebuch",
+      "fr": "La méthode de prise de notes de l'explorateur : Le journal sensoriel nocturne de Marco Polo",
+      "pt": "O método de anotação do explorador: O diário sensorial noturno de Marco Polo",
+      "id": "Metode Catatan Sang Penjelajah: Rutinitas Jurnal Sensorik Malam Hari Marco Polo"
     },
     "description": {
-      "ko": "동방견문록의 저자 마르코 폴로. 24년간의 실크로드 탐험 속에서 밤마다 낯선 오감 감각을 기록해 인류 최고의 여행기를 남긴 현장 일지 루틴."
+      "ko": "동방견문록의 저자 마르코 폴로. 24년간의 실크로드 탐험 속에서 밤마다 낯선 오감 감각을 기록해 인류 최고의 여행기를 남긴 현장 일지 루틴.",
+      "en": "Marco Polo, author of The Travels of Marco Polo. Discover his field journal routine of recording unfamiliar sensory experiences every night during his 24-year Silk Road expedition to produce history's greatest travelogue.",
+      "ja": "『東方見聞録』の著者マルコ・ポーロ。24年間にわたるシルクロード探検の中で、毎夜見知らぬ五感を記録し人類最高の旅行記を残した現場日誌ルーティン。",
+      "zh": "《东方见闻录》作者马可·波罗。在长达24年的丝绸之路探险中，他每晚记录陌生的五感体验，留下了人类历史上最伟大的旅行记。",
+      "es": "Marco Polo, autor de Los viajes de Marco Polo. Descubra su rutina de diario de campo para registrar experiencias sensoriales cada noche durante sus 24 años de expedición por la Ruta de la Seda.",
+      "de": "Marco Polo, Autor von 'Die Wunder der Welt'. Entdecken Sie seine Tagebuch-Routine, jede Nacht während seiner 24-jährigen Seidenstraßen-Expedition unbekannte Sinneseindrücke festzuhalten.",
+      "fr": "Marco Polo, auteur des Voyages de Marco Polo. Découvrez sa routine de journal de terrain consistant à consigner chaque nuit des impressions sensorielles inédites lors de son expédition de 24 ans sur la Route de la Soie.",
+      "pt": "Marco Polo, autor de As Viagens de Marco Polo. Descubra sua rotina de diário de campo ao registrar experiências sensoriais todas as noites durante sua expedição de 24 anos pela Rota da Seda.",
+      "id": "Marco Polo, penulis Perjalanan Marco Polo. Pelajari rutinitas jurnal lapangannya mencatat pengalaman sensorik setiap malam selama 24 tahun ekspedisi Jalur Sutra."
     },
     "authority": {
-      "ko": "마르코 폴로 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+      "ko": "마르코 폴로 역사적 평전 및 《동방견문록》 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+      "en": "Historical Biography of Marco Polo, Textual Verification of 'The Travels of Marco Polo' & Cognitive Neuroscience Research",
+      "ja": "マルコ・ポーロの歴史的評伝および『東方見聞録』記録考証＆認知神経科学（Cognitive Neuroscience）研究",
+      "zh": "马可·波罗历史传记与《东方见闻录》考证及认知神经科学研究",
+      "es": "Biografía histórica de Marco Polo, verificación textual de 'Los viajes de Marco Polo' e investigación en neurociencia cognitiva",
+      "de": "Historische Biografie von Marco Polo, Textprüfung von 'Die Wunder der Welt' & kognitionswissenschaftliche Forschung",
+      "fr": "Biographie historique de Marco Polo, vérification textuelle des 'Voyages de Marco Polo' & recherche en neurosciences cognitives",
+      "pt": "Biografia histórica de Marco Polo, verificação textual de 'As Viagens de Marco Polo' e pesquisa em neurociência cognitiva",
+      "id": "Biografi Historis Marco Polo, Verifikasi Tekstual 'Perjalanan Marco Polo' & Riset Neurosains Kognitif"
     },
     "intro": {
-      "ko": "베네치아를 떠나 24년간 아시아 전역을 누비며 인류 역사상 가장 위대한 탐험 문학인 '동방견문록'을 남긴 이탈리아의 탐험가, 마르코 폴로. 몽골 제국의 황제 쿠빌라이 칸을 사로잡고 수십 년 뒤에도 동방의 미식, 지리, 문화를 마치 눈앞에서 보듯 생생하게 증언해 낸 그의 비결은 무엇이었을까요? 🐪\n\n마르코 폴로는 매일 밤 낯선 거친 탐험지에서도 양피지와 수첩을 펼쳐 그날 목격한 생소한 풍경, 낯선 향기와 언어, 시장의 거래품과 대화들을 상세히 기록했습니다. 오감의 미세한 감각 정보를 매일 밤 꼼꼼히 채록하는 습관은 그에게 압도적인 인지적 에피소드 기억 보관소를 구축해 주었습니다.\n\n오늘 포스트에서는 마르코 폴로의 야간 감각 일지 루틴과 에피소드 기억의 과학을 소개합니다."
+      "ko": "베네치아를 떠나 24년간 아시아 전역을 누비며 인류 역사상 가장 위대한 탐험 문학인 《동방견문록(Il Milione)》을 남긴 이탈리아의 탐험가이자 상인, 마르코 폴로(Marco Polo, 1254–1324). 몽골 제국 원나라의 황제 쿠빌라이 칸의 신임을 얻어 17년간 외교관이자 관리로 관직을 수행하고, 수십 년 뒤 제노바 감옥에서 동방의 미식, 지리, 문화를 마치 눈앞에서 보듯 생생하게 증언해 낸 그의 비결은 무엇이었을까요? 🐪\n\n마르코 폴로는 매일 밤 낯선 거친 탐험지에서도 양피지와 수첩을 펼쳐 그날 목격한 생소한 풍경, 낯선 향기와 언어, 시장의 거래품과 대화들을 상세히 기록했습니다. 오감의 미세한 감각 정보를 매일 밤 꼼꼼히 채록하는 습관은 그에게 압도적인 인지적 에피소드 기억 보관소를 구축해 주었습니다.\n\n오늘 포스트에서는 마르코 폴로의 야간 감각 일지 루틴과 에피소드 기억의 과학을 소개합니다.",
+      "en": "Marco Polo (1254–1324) was an Italian explorer and merchant who departed Venice to traverse Asia for 24 years, producing 'The Travels of Marco Polo' (Il Milione), history's greatest travel literature. Earning the deep trust of Kublai Khan, emperor of the Mongol Yuan Dynasty, he served as a diplomatic envoy for 17 years. Decades later, while imprisoned in Genoa, he dictated vivid accounts of Eastern gastronomy, geography, and culture as if they were right before his eyes. What was his secret? 🐪\n\nEven in harsh and unfamiliar expedition settings, Marco Polo opened his parchment and notebook every night to meticulously record the novel landscapes, alien scents, languages, market goods, and conversations he encountered that day. This habit of capturing fine sensory details created an extraordinary cognitive archive of episodic memory.\n\nIn today's post, we introduce Marco Polo's nightly sensory journal routine and the science of episodic memory.",
+      "ja": "ヴェネツィアを離れ24年間にわたりアジア全域を巡り、人類史上最も偉大な探検文学『東方見聞録（Il Milione）』を残したイタリアの探検家兼商人、マルコ・ポーロ（Marco Polo, 1254–1324）。モンゴル帝国元朝の皇帝クビライ・ハンの篤い信頼を得て17年間外交官として仕え、数十年後にジェノヴァの牢獄においても東方の美食、地理、文化をあたかも目の前で見ているかのように生々しく証言できた秘訣は何だったのでしょうか？ 🐪\n\nマルコ・ポーロは毎夜、過酷で見知らぬ探検地であっても羊皮紙と手帳を開き、その日目撃した見知らぬ風景、異国の香りや言語、市場の取引 goods や会話を詳細に記録しました。五感の微細な感覚情報を毎夜丁寧に取り込む習慣は、彼に圧倒的な認知のエピソード記憶保管庫を構築させました。\n\n今日の記事では、マルコ・ポーロの夜間感覚日誌ルーティンとエピソード記憶の科学をご紹介します。",
+      "zh": "威尼斯商人与探险家马可·波罗（Marco Polo，1254–1324）离开故乡，游历亚洲长达24年，留下了人类历史上最伟大的探险文学作品《东方见闻录》（Il Milione）。他赢得了蒙古帝国元朝皇帝忽必烈的深厚信任，担任外交使节与官员长达17年。数十年后，即使身陷热那亚狱中，他仍能如历历在目般生动讲述东方的美食、地理与文化。他的秘诀究竟是什么？ 🐪\n\n即使在艰险陌生的探险途中，马可·波罗每晚都会展开羊皮纸和笔记本，详尽记录当天目睹的奇特风景、陌生的气味与语言、集市的商品及对话。这种每晚细致搜集五感微观信息的习惯，为他构建了极其强大的认知情境记忆（Episodic Memory）库。\n\n在今天的文章中，我们将介绍马可·波罗夜间现场感官日志习惯及其背后情境记忆的科学原理。",
+      "es": "Marco Polo (1254–1324), explorador y comerciante italiano que partió de Venecia para recorrer Asia durante 24 años, legó 'Los viajes de Marco Polo' (Il Milione), la obra de literatura de viajes más grande de la historia. Tras ganarse la confianza de Kublai Kan, emperador de la dinastía Yuan del Imperio mongol, sirvió como enviado diplomático durante 17 años. Décadas más tarde, encarcelado en Génova, dictó relatos vívidos de la gastronomía, geografía y cultura orientales como si las tuviera frente a sus ojos. ¿Cuál fue su secreto? 🐪\n\nIncluso en entornos de expedición duros y desconocidos, Marco Polo abría su pergamino y libreta cada noche para registrar meticulosamente paisajes insólitos, aromas extraños, idiomas, mercancías y conversaciones. Este hábito de capturar detalles sensoriales sutiles creó un extraordinario archivo cognitivo de memoria episódica.\n\nEn la publicación de hoy, presentamos la rutina de diario sensorial nocturno de Marco Polo y la ciencia de la memoria episódica.",
+      "de": "Marco Polo (1254–1324), italienischer Entdecker und Kaufmann, reiste von Venedig aus 24 Jahre lang durch ganz Asien und hinterließ mit 'Die Wunder der Welt' (Il Milione) das bedeutendste Reisewerk der Weltgeschichte. Er gewann das tiefe Vertrauen von Kublai Khan, dem Kaiser der mongolischen Yuan-Dynastie, und diente ihm 17 Jahre lang als Diplomat. Jahrzehnte später, im Gefängnis von Genua, diktierte er scharf gezeichnete Berichte über östliche Gastronomie, Geographie und Kultur, als stünde alles direkt vor seinen Augen. Was war sein Geheimnis? 🐪\n\nSelbst unter rauen Expeditionsbedingungen schlug Marco Polo jeden Abend sein Pergament und Notizbuch auf, um neuartige Landschaften, fremde Düfte, Sprachen, Handelswaren und Gespräche akribisch festzuhalten. Diese Gewohnheit, feine Sinnesdetails einzufangen, schuf einen außergewöhnlichen kognitiven Speicher episodischer Erinnerungen.\n\nIm heutigen Beitrag stellen wir Marco Polos nächtliche Sinnes-Tagebuchroutine und die Wissenschaft des episodischen Gedächtnisses vor.",
+      "fr": "Marco Polo (1254–1324), explorateur et marchand italien parti de Venise pour sillonner l'Asie pendant 24 ans, a légué 'Les Voyages de Marco Polo' (Il Milione), le plus grand récit de voyage de l'histoire. Ayant gagné la confiance de Kubilai Khan, empereur de la dynastie Yuan de l'Empire mongol, il servit comme envoyé diplomatique pendant 17 ans. Des décennies plus tard, emprisonné à Gênes, il dicta des descriptions vivantes de la gastronomie, de la géographie et de la culture orientales comme s'il les avait sous les yeux. Quel était son secret ? 🐪\n\nMême dans des conditions d'expédition rudimentaires et inconnues, Marco Polo ouvrait chaque soir son parchemin et son carnet pour consigner méticuleusement les paysages inédits, les senteurs étrangères, les langues, les marchandises et les conversations du jour. Cette habitude de capter les détails sensoriels fins lui a constitué un réservoir cognitif exceptionnel de mémoire épisodique.\n\nDans l'article d'aujourd'hui, nous présentons la routine du journal sensoriel nocturne de Marco Polo et la science de la mémoire épisodique.",
+      "pt": "Marco Polo (1254–1324), explorador e comerciante italiano que partiu de Veneza para percorrer a Ásia durante 24 anos, deixou 'As Viagens de Marco Polo' (Il Milione), a maior obra da literatura de viagem da história. Conquistando a confiança de Kublai Khan, imperador da dinastia Yuan do Império Mongol, ele atuou como enviado diplomático por 17 anos. Décadas mais tarde, na prisão de Gênova, ditou relatos vívidos da gastronomia, geografia e cultura orientais como se estivessem diante de seus olhos. Qual era o seu segredo? 🐪\n\nMesmo em condições de expedição difíceis e desconhecidas, Marco Polo abria seu pergaminho e caderno todas as noites para registrar meticulosamente paisagens inéditas, aromas estranhos, idiomas, mercadorias e conversas. Esse hábito de capturar detalhes sensoriais minuciosos criou um arquivo cognitivo extraordinário de memória episódica.\n\nNo post de hoje, apresentamos a rotina do diário sensorial noturno de Marco Polo e a ciência da memória episódica.",
+      "id": "Marco Polo (1254–1324), penjelajah dan pedagang Italia yang meninggalkan Venesia untuk menjelajahi Asia selama 24 tahun, mewariskan 'Perjalanan Marco Polo' (Il Milione), karya literatur perjalanan terbesar dalam sejarah. Meraih kepercayaan penuh dari Kubilai Khan, kaisar Dinasti Yuan Kekaisaran Mongol, ia bertugas sebagai utusan diplomatik selama 17 tahun. Puluhan tahun kemudian, saat dipenjara di Genoa, ia mendiktekan catatan mendalam tentang kuliner, geografi, dan kebudayaan Timur seolah-olah semuanya ada di depan matanya. Apa rahasianya? 🐪\n\nBahkan dalam kondisi ekspedisi yang berat dan asing, Marco Polo membuka perkamen dan buku catatannya setiap malam untuk mencatat secara teliti pemandangan baru, aroma asing, bahasa, barang dagangan, dan percakapan hari itu. Kebiasaan menangkap detail sensorik halus ini membangun arsip memori episodik kognitif yang luar biasa.\n\nDalam artikel hari ini, kami memperkenalkan rutinitas jurnal sensorik malam hari Marco Polo dan ilmu pengetahuan di balik memori episodik."
     },
     "whyTitle": {
-      "ko": "에피소드 기억 신경 회로를 강화하는 오감 미세 채록"
+      "ko": "에피소드 기억 신경 회로를 강화하는 오감 미세 채록",
+      "en": "Fine Sensory Recording Strengthening Episodic Memory Neural Circuits",
+      "ja": "エピソード記憶の神経回路を強化する五感の微細記録",
+      "zh": "细致搜集五感细节以强化情境记忆神经回路",
+      "es": "Registro sensorial minucioso para fortalecer los circuitos neuronales de la memoria episódica",
+      "de": "Feine sensorische Erfassung zur Stärkung der neuronalen Schaltkreise des episodischen Gedächtnisses",
+      "fr": "Consignation sensorielle fine renforçant les circuits neuronaux de la mémoire épisodique",
+      "pt": "Registro sensorial minucioso fortalecendo os circuitos neuronais da memória episódica",
+      "id": "Pencatatan Sensorik Halus yang Memperkuat Sirkuit Saraf Memori Episodik"
     },
     "whyDesc": {
-      "ko": "일상적인 매너리즘 속에서 뇌는 익숙한 정보를 덤덤히 지워버립니다.\n\n마르코 폴로처럼 밤마다 하루 동안 겪은 낯선 장소의 시각, 청각, 미각적 세부 사항을 구체적으로 채록하는 습관은 뇌 해마의 <strong>'에피소드 기억(Episodic Memory)'</strong> 회로를 비약적으로 강화하고 인생의 경험 자산을 확장합니다."
+      "ko": "일상적인 매너리즘 속에서 뇌는 익숙한 정보를 덤덤히 지워버립니다.\n\n마르코 폴로처럼 밤마다 하루 동안 겪은 낯선 장소의 시각, 청각, 미각적 세부 사항을 구체적으로 채록하는 습관은 뇌 해마의 <strong>'에피소드 기억(Episodic Memory)'</strong> 회로를 비약적으로 강화하고 인생의 경험 자산을 확장합니다.",
+      "en": "Amid daily mannerisms, the brain routinely erases familiar information.\n\nHabitually capturing specific visual, auditory, and gustatory details of unfamiliar places every night—just like Marco Polo—dramatically strengthens the hippocampus's <strong>'Episodic Memory'</strong> circuits and expands your life's experiential assets.",
+      "ja": "日常的なマンネリの中で、脳は慣れ親しんだ情報を淡々と消去してしまいます。\n\nマルコ・ポーロのように毎夜、一日の中で経験した見知らぬ場所の視覚・聴覚・味覚的詳細を具体的に記録する習慣は、脳の海馬の<strong>「エピソード記憶（Episodic Memory）」</strong>回路を飛躍的に強化し、人生の経験資産を拡張します。",
+      "zh": "在平淡的日复一日中，大脑会自动抹去熟悉的信息。\n\n像马可·波罗那样，每晚具体记录一天中在陌生场所体验到的视觉、听觉与味觉细节，能够大幅强化大脑海马体的<strong>“情境记忆（Episodic Memory）”</strong>回路，从而拓展人生的经验资产。",
+      "es": "En la monotonía diaria, el cerebro borra rutinariamente la información familiar.\n\nCapturar habitualmente detalles visuales, auditivos y gustativos específicos de lugares desconocidos cada noche, al igual que Marco Polo, fortalece drásticamente los circuitos de la <strong>'Memoria Episódica'</strong> en el hipocampo y amplía el capital de sus experiencias vitales.",
+      "de": "In der alltäglichen Routine löscht das Gehirn gewohnte Informationen mühelos.\n\nEine tägliche Gewohnheit, wie die von Marco Polo, jeden Abend spezifische visuelle, akustische und geschmackliche Details neuer Orte festzuhalten, stärkt die Schaltkreise des <strong>'episodischen Gedächtnisses'</strong> im Hippocampus enorm und erweitert den Erfahrungsschatz Ihres Lebens.",
+      "fr": "Dans la routine quotidienne, le cerveau efface machinalement les informations familières.\n\nPrendre l'habitude de consigner chaque soir des détails visuels, auditifs et gustatifs précis de lieux inconnus — à l'instar de Marco Polo — renforce considérablement les circuits de la <strong>'Mémoire Épisodique'</strong> dans l'hippocampe et enrichit le capital de vos expériences.",
+      "pt": "Na rotina diária, o cérebro apaga de forma sistemática as informações familiares.\n\nO hábito de capturar detalhes visuais, auditivos e gustativos específicos de locais desconhecidos todas as noites — assim como Marco Polo — fortalece drasticamente os circuitos da <strong>'Memória Episódica'</strong> no hipocampo e expande o patrimônio de suas experiências.",
+      "id": "Dalam rutinitas harian yang monoton, otak secara rutin menghapus informasi yang sudah biasa.\n\nMembiasakan diri mencatat detail visual, auditori, dan rasa dari tempat-tempat baru setiap malam—seperti Marco Polo—secara drastis memperkuat sirkuit <strong>'Memori Episodik'</strong> di hipokampus dan memperluas aset pengalaman hidup Anda."
     },
     "cautionTitle": {
-      "ko": "추상적인 평가 대신 구체적 오감 묘사를 기록하세요"
+      "ko": "추상적인 평가 대신 구체적 오감 묘사를 기록하세요",
+      "en": "Record Concrete Sensory Descriptions Instead of Abstract Evaluations",
+      "ja": "抽象的な評価ではなく具体的な五感の描写を記録してください",
+      "zh": "请记录具体的五感描写，而非抽象的评价",
+      "es": "Registre descripciones sensoriales concretas en lugar de evaluaciones abstractas",
+      "de": "Halten Sie konkrete Sinneseindrücke statt abstrakter Bewertungen fest",
+      "fr": "Consignez des descriptions sensorielles concrètes plutôt que des évaluations abstraites",
+      "pt": "Registre descrições sensoriais concretas em vez de avaliações abstratas",
+      "id": "Catat Deskripsi Sensorik Konkret, Bukan Evaluasi Abstrak"
     },
     "cautionDesc": {
-      "ko": "'좋았다/신기했다' 대신 '향신료의 알싸한 향과 붉은 양피지의 서걱거림'처럼 감각적 묘사를 구체적으로 적어야 뇌의 해마가 생생하게 반응합니다. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다."
+      "ko": "'좋았다/신기했다' 대신 '향신료의 알싸한 향과 붉은 양피지의 서걱거림'처럼 감각적 묘사를 구체적으로 적어야 뇌의 해마가 생생하게 반응합니다. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다.",
+      "en": "Instead of vague assessments like 'it was good/interesting', write concrete sensory details such as 'the pungent aroma of spices and the crisp rustle of red parchment' to trigger a vivid hippocampal response. Rather than relying solely on willpower, pre-designing a physical environment and habit cues that naturally induce this action is key to consistency.",
+      "ja": "「良かった／不思議だった」ではなく、「スパイスのピリッとした香りと赤い羊皮紙のカサカサという音」のように感覚的な描写を具体的に記すことで、脳の海馬が鮮明に反応します。無理に意志力だけに頼ろうとせず、行動が自然と誘発される物理的環境と習慣のシグナルをあらかじめ設計することが継続性の鍵です。",
+      "zh": "用“香料刺鼻的芬芳与红色羊皮纸的沙沙声”等具体感官描写，代替“很好/很神奇”等抽象评价，才能让大脑海马体产生鲜活的反应。不要仅靠意志力死撑，预先设计能够自然引发行动的物理环境与习惯触发信号，才是持之以恒的关键。",
+      "es": "En lugar de valoraciones vagas como 'estuvo bien/fue curioso', escriba detalles sensoriales concretos como 'el aroma picante de las especias y el crujido del pergamino rojo' para provocar una respuesta viva en el hipocampo. En lugar de confiar únicamente en la voluntad, diseñar previamente un entorno físico y señales de hábito que induzcan de forma natural esta acción es clave para la constancia.",
+      "de": "Schreiben Sie anstelle vager Urteile wie 'es war schön/interessant' konkrete Sinneseindrücke auf, wie 'das scharfe Gewürzaroma und das Rascheln des roten Pergaments', um eine lebendige Reaktion des Hippocampus auszulösen. Der Schlüssel zur Nachhaltigkeit liegt darin, eine physische Umgebung und Gewohnheitssignale zu gestalten, die die Handlung ganz von selbst auslösen, anstatt sich nur auf Willenskraft zu verlassen.",
+      "fr": "Au lieu d'évaluations floues comme 'c'était bien/étonnant', notez des détails sensoriels précis comme 'l'arôme piquant des épices et le crissement du parchemin rouge' pour stimuler vivement l'hippocampe. Plutôt que de compter uniquement sur la volonté, concevoir un environnement physique et des déclencheurs qui provoquent naturellement l'action est la clé de la régularité.",
+      "pt": "Em vez de avaliações vagas como 'foi bom/interessante', escreva detalhes sensoriais concretos como 'o aroma picante das especiarias e o roçar do pergaminho vermelho' para gerar uma resposta vívida no hipocampo. Em vez de depender apenas da força de vontade, planejar com antecedência um ambiente físico e gatilhos que induzam a ação naturally é o segredo da consistência.",
+      "id": "Daripada penilaian abstrak seperti 'bagus/unik', tuliskan detail sensorik konkret seperti 'aroma rempah yang tajam dan bunyi gesekan perkamen merah' agar hipokampus otak merespons secara hidup. Daripada hanya mengandalkan kemauan, merancang lingkungan fisik dan sinyal kebiasaan yang memicu tindakan secara alami adalah kunci konsistensi."
     },
     "steps": [
       {
         "name": {
-          "ko": "밤 10분 감각 일지 작성 환경 마련"
+          "ko": "밤 10분 감각 일지 작성 환경 마련",
+          "en": "Set Up a 10-Minute Nightly Sensory Journal Environment",
+          "ja": "夜10分間の感覚日誌作成環境の準備",
+          "zh": "营造夜间10分钟感官日志书写环境",
+          "es": "Acondicionar un entorno de 10 minutos por la noche para el diario sensorial",
+          "de": "Einrichten einer 10-minütigen Umgebung für das nächtliche Sinnes-Tagebuch",
+          "fr": "Aménager un environnement de 10 minutes le soir pour le journal sensoriel",
+          "pt": "Preparar um ambiente de 10 minutos à noite para o diário sensorial",
+          "id": "Menyiapkan Lingkungan Jurnal Sensorik Malam 10 Menit"
         },
         "text": {
-          "ko": "하루를 마무리하는 밤 10분, 전자기기를 끄고 노트를 펼칩니다. 외부의 산만 요소를 철저히 단단히 차단하고, 뇌의 전두엽에 명확한 실행 목표와 프레임을 확립하는 데 온전히 집중합니다."
+          "ko": "하루를 마무리하는 밤 10분, 전자기기를 끄고 노트를 펼칩니다. 외부의 산만 요소를 차단하고, 뇌의 전두엽에 명확한 실행 목표를 확립하는 데 온전히 집중합니다.",
+          "en": "During the final 10 minutes of your day, turn off electronic devices and open your notebook. Shut out external distractions and focus completely on establishing a clear execution target in your prefrontal cortex.",
+          "ja": "一日を締めくくる夜の10分間、電子機器をオフにしてノートを開きます。外部の気を散らす要素を遮断し、脳の前頭葉に明確な実行目標を確立することに集中します。",
+          "zh": "在一天结束前的10分钟里，关掉电子设备，展开笔记本。彻底隔绝外部干扰，将注意力集中在为大脑前额叶皮层确立明确的执行目标上。",
+          "es": "Durante los últimos 10 minutos de su día, apague los dispositivos electrónicos y abra su libreta. Aísle las distracciones externas y concéntrese en establecer un objetivo claro de ejecución en su corteza prefrontal.",
+          "de": "Schalten Sie in den letzten 10 Minuten Ihres Tages elektronische Geräte aus und öffnen Sie Ihr Notizbuch. Blenden Sie äußere Ablenkungen aus und konzentrieren Sie sich darauf, ein klares Ausführungsziel im präfrontalen Kortex zu verankern.",
+          "fr": "Pendant les 10 dernières minutes de votre journée, éteignez les appareils électroniques et ouvrez votre carnet. Écartez les distractions extérieures et concentrez-vous sur l'établissement d'un objectif d'exécution clair dans le cortex préfrontal.",
+          "pt": "Nos últimos 10 minutos do seu dia, desligue os dispositivos eletrônicos e abra seu caderno. Bloqueie distrações externas e concentre-se em estabelecer um objetivo claro de execução no córtex pré-frontal.",
+          "id": "Selama 10 menit terakhir hari Anda, matikan perangkat elektronik dan buka buku catatan. Tutup gangguan luar dan fokus penuh untuk menetapkan target eksekusi yang jelas pada korteks prefrontal."
         }
       },
       {
         "name": {
-          "ko": "3줄 오감 세부 에피소드 디테일 묘사"
+          "ko": "3줄 오감 세부 에피소드 디테일 묘사",
+          "en": "Describe Detailed 3-Line Sensory Episodes",
+          "ja": "3行の五感詳細エピソードの描写",
+          "zh": "用3行文字描绘五感微观细节",
+          "es": "Describir episodios sensoriales detallados en 3 líneas",
+          "de": "Beschreibung detaillierter Sinneseindrücke in 3 Zeilen",
+          "fr": "Décrire des épisodes sensoriels détaillés en 3 lignes",
+          "pt": "Descrever episódios sensoriais detalhados em 3 linhas",
+          "id": "Mendeskripsikan Detail Episode Sensorik dalam 3 Baris"
         },
         "text": {
-          "ko": "오늘 만난 낯선 사람, 특이한 장소, 미식의 오감 감각 디테일을 3줄로 적습니다. 외부의 산만 요소를 철저히 단단히 차단하고, 뇌의 전두엽에 명확한 실행 목표와 프레임을 확립하는 데 온전히 집중합니다."
+          "ko": "오늘 만난 낯선 사람, 특이한 장소, 미식이나 향기 등 오감의 세부 디테일을 3줄로 생생하게 적습니다. 시각, 청각, 미각 등의 감각 언어가 해마의 에피소드 기억 회로를 자극합니다.",
+          "en": "Vividly record 3 lines of sensory details about a new person, unique location, food, or scent encountered today. Sensory language engages the hippocampus to stimulate episodic memory circuits.",
+          "ja": "今日出会った見知らぬ人、特別な場所、美食や香りなど五感の詳細を3行で鮮明に書き出します。視覚・聴覚・味覚などの感覚言語が海馬のエピソード記憶回路を刺激します。",
+          "zh": "用3行文字生动记下今天遇到的陌生人、独特场所、美食或气味等五感细节。具象的感官语言能有效刺激海马体的情境记忆回路。",
+          "es": "Escriba vívidamente 3 líneas de detalles sensoriales sobre una persona nueva, un lugar único, comida o aroma encontrado hoy. El lenguaje sensorial estimula los circuitos de memoria episódica en el hipocampo.",
+          "de": "Halten Sie 3 Zeilen voller Sinneseindrücke über eine neue Begegnung, einen besonderen Ort, Speisen oder Düfte des Tages lebendig fest. Sensorische Sprache stimuliert die episodischen Gedächtnisschaltkreise des Hippocampus.",
+          "fr": "Consignez de manière vivante 3 lignes de détails sensoriels sur une nouvelle personne, un lieu unique, un plat ou un parfum croisé aujourd'hui. Le vocabulaire sensoriel stimule les circuits de la mémoire épisodique dans l'hippocampe.",
+          "pt": "Registre de forma vívida 3 linhas de detalhes sensoriais sobre uma pessoa nova, um local único, uma refeição ou aroma encontrado hoje. A linguagem sensorial estimula os circuitos da memória episódica no hipocampo.",
+          "id": "Tuliskan secara hidup 3 baris detail sensorik tentang orang baru, tempat unik, makanan, atau aroma yang ditemui hari ini. Bahasa sensorik merangsang sirkuit memori episodik di hipokampus."
         }
       },
       {
         "name": {
-          "ko": "미래 아이디어 자산화 연결"
+          "ko": "미래 아이디어 자산화 연결",
+          "en": "Connect Sensory Memories to Future Idea Assets",
+          "ja": "未来のアイデア資産化への接続",
+          "zh": "将感官记忆转化为未来创意资产",
+          "es": "Conectar las memorias sensoriales con activos para futuras ideas",
+          "de": "Verknüpfung von Sinneserinnerungen mit zukünftigen Ideenkapitalien",
+          "fr": "Raccorder les souvenirs sensoriels à des actifs d'idées futures",
+          "pt": "Conectar memórias sensoriais a ativos de ideias futuras",
+          "id": "Menghubungkan Memori Sensorik ke Aset Ide Masa Depan"
         },
         "text": {
-          "ko": "기록한 생생한 에피소드 감각을 자신이 추진 중인 프로젝트나 미래 경험의 자산으로 연결합니다."
+          "ko": "기록한 생생한 에피소드 감각을 자신이 추진 중인 프로젝트나 미래 경험의 자산으로 연결합니다.",
+          "en": "Connect the vivid sensory episodes you recorded to ongoing projects or future experiential assets.",
+          "ja": "記録した生々しいエピソードの感覚を、自身が推進中のプロジェクトや将来の経験資産へ接続します。",
+          "zh": "将记录下的鲜活感官体验，联结至正在推进的项目或未来的经验资产中。",
+          "es": "Conecte los episodios sensoriales vívidos que registró con proyectos en marcha o activos de experiencia para el futuro.",
+          "de": "Verknüpfen Sie die aufgezeichneten lebendigen Sinneserfahrungen mit laufenden Projekten oder zukünftigem Erfahrungskapital.",
+          "fr": "Reliez les épisodes sensoriels vivants consignés à vos projets en cours ou à de futurs actifs d'expérience.",
+          "pt": "Conecte os episódios sensoriais vívidos registrados aos seus projetos em andamento ou a ativos de experiências futuras.",
+          "id": "Hubungkan episode sensorik hidup yang Anda catat ke proyek yang sedang berjalan atau aset pengalaman masa depan."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "매일 똑같은 집-회사 일상인데 낯선 감각을 어떻게 찾나요?"
+          "ko": "매일 똑같은 집-회사 일상인데 낯선 감각을 어떻게 찾나요?",
+          "en": "How can I find unfamiliar sensory details when my daily routine is identical between home and work?",
+          "ja": "毎日同じ自宅と会社の往復ですが、見知らぬ感覚をどのように探せばよいですか？",
+          "zh": "每天都是公司和家两点一线，该如何寻找陌生的感官体验？",
+          "es": "¿Cómo puedo encontrar sensaciones nuevas si mi rutina diaria entre casa y trabajo es idéntica?",
+          "de": "Wie finde ich neue Sinneseindrücke, wenn mein Alltag nur aus dem Pendeln zwischen Zuhause und Arbeit besteht?",
+          "fr": "Comment trouver des sensations nouvelles quand ma routine quotidienne se résume au trajet domicile-travail ?",
+          "pt": "Como posso encontrar sensações novas se minha rotina diária entre casa e trabalho é idêntica?",
+          "id": "Bagaimana cara menemukan detail sensorik baru jika rutinitas harian saya hanya berkisar rumah dan kantor?"
         },
         "answer": {
-          "ko": "퇴근길 경로를 골목 하나 바꿔 걷기, 새로운 식재료 맛보기, 길가 계절 꽃의 향기에 5초간 집중하기 등 작은 미세 변주로도 충분히 낯선 오감 자극을 만들 수 있습니다."
+          "ko": "퇴근길 경로를 골목 하나 바꿔 걷기, 새로운 식재료 맛보기, 길가 계절 꽃의 향기에 5초간 집중하기 등 작은 미세 변주로도 충분히 낯선 오감 자극을 만들 수 있습니다.",
+          "en": "Minor micro-variations—such as walking down a different alley on your commute home, tasting a new ingredient, or pausing for 5 seconds to smell a seasonal flower along the street—are more than enough to create novel sensory stimuli.",
+          "ja": "帰宅ルートの路地をひとつ変えて歩く、新しい食材を味わう、道端の季節の花の香りに5秒間集中するなど、小さな微細な変化でも十分に見知らぬ五感刺激を作り出すことができます。",
+          "zh": "只需做出微小的改变：例如下班时换一条小巷走、品尝一种新的食材，或停下脚步花5秒钟专注闻闻路边季节花卉的芬芳，就足以创造出崭新的五感刺激。",
+          "es": "Pequeñas microvariaciones, como cambiar de callejón en el camino de regreso a casa, probar un ingrediente nuevo o concentrarse durante 5 segundos en el aroma de una flor estacional, son suficientes para crear estímulos sensoriales novedosos.",
+          "de": "Kleine Mikrovariationen – wie ein anderer Weg durch eine Seitenstraße auf dem Heimweg, das Probieren einer neuen Zutat oder das 5-sekündige Innehalten beim Duft einer Blume am Wegesrand – reichen völlig aus, um neuartige Reize zu schaffen.",
+          "fr": "De petites micro-variations — comme emprunter une ruelle différente en rentrant du travail, goûter un nouvel ingrédient ou se concentrer 5 secondes sur le parfum d'une fleur — suffisent amplement à créer des stimulations sensorielles inédites.",
+          "pt": "Pequenas microvariações — como mudar de rua no caminho de volta para casa, provar um ingrediente novo ou focar por 5 segundos no aroma de uma flor na calçada — são suficientes para criar estímulos sensoriais inéditos.",
+          "id": "Variasi mikro kecil—seperti melewati gang berbeda saat pulang kantor, mencicipi bahan makanan baru, atau berfokus 5 detik pada aroma bunga di pinggir jalan—sudah sangat cukup untuk menciptakan rangsangan sensorik baru."
         }
       },
       {
         "question": {
-          "ko": "일기를 쓰다 보면 글이 길어지는데 시간을 줄이는 팁이 있나요?"
+          "ko": "일기를 쓰다 보면 글이 길어지는데 시간을 줄이는 팁이 있나요?",
+          "en": "Is there a tip to reduce time when writing a journal that tends to become too long?",
+          "ja": "日記を書いていると文章が長くなってしまいますが、時間を短縮するコツはありますか？",
+          "zh": "写日志时经常越写越长，有什么缩短时间的小窍门吗？",
+          "es": "¿Hay algún consejo para reducir el tiempo si el diario tiende a volverse demasiado largo?",
+          "de": "Gibt es einen Tipp, um Zeit zu sparen, wenn das Tagebuchschreiben zu lang wird?",
+          "fr": "Y a-t-il une astuce pour réduire le temps passé si le journal a tendance à rallonger ?",
+          "pt": "Existe alguma dica para economizar tempo quando a escrita do diário fica longa demais?",
+          "id": "Apakah ada tips untuk menghemat waktu saat menulis jurnal yang cenderung terlalu panjang?"
         },
         "answer": {
-          "ko": "문장 완성에 연연하지 말고 '시각: 붉은 노을 빛깔', '청각: 자갈 깔리는 소리'처럼 키워드 나열 방식으로 기재하면 3분 안에 완벽히 기록할 수 있습니다."
+          "ko": "문장 완성에 연연하지 말고 '시각: 붉은 노을 빛깔', '청각: 자갈 깔리는 소리'처럼 키워드 나열 방식으로 기재하면 3분 안에 완벽히 기록할 수 있습니다.",
+          "en": "Instead of worrying about full sentences, list keywords like 'Visual: deep crimson sunset' or 'Auditory: crunch of gravel'. This keyword method lets you capture everything within 3 minutes.",
+          "ja": "文章の完成度にこだわらず、「視覚：赤い夕焼けの色」、「聴覚：砂利の踏みしめる音」のようにキーワードを列挙する形式で記載すれば、3分以内に完璧に記録できます。",
+          "zh": "不必执着于把句子写完整，采用关键词罗列的方式，例如“视觉：深红落日”、“听觉：碎石踩踏声”，即可在3分钟内完美记录。",
+          "es": "En lugar de preocuparse por redactar frases completas, enumere palabras clave como 'Visual: el tono carmesí del atardecer' o 'Auditivo: el crujir de la grava'. Este formato permite registrar todo en menos de 3 minutos.",
+          "de": "Achten Sie nicht auf vollständige Sätze, sondern listen Sie Schlagwörter auf, wie 'Visuell: tiefrotes Abendrot', 'Akustisch: Knirschen des Kieses'. So erfassen Sie alles perfekt in unter 3 Minuten.",
+          "fr": "Sans vous soucier de faire de belles phrases, listez des mots-clés comme 'Visuel : nuance rouge du coucher de soleil', 'Auditif : crissement des graviers'. Ce format permet de tout consigner en 3 minutes.",
+          "pt": "Em vez de se preocupar com frases completas, liste palavras-chave como 'Visual: tom vermelho do por do sol', 'Auditivo: barulho do cascalho'. Esse formato permite registrar tudo perfeitamente em menos de 3 minutos.",
+          "id": "Jangan terpaku pada kalimat utuh. Tuliskan kata kunci seperti 'Visual: warna merah senja', 'Auditori: bunyi gesekan kerikil'. Metode ini memungkinkan Anda mencatat semuanya dalam waktu kurang dari 3 menit."
         }
       }
     ]

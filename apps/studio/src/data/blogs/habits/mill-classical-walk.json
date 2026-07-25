@@ -1,70 +1,214 @@
 {
   "mill-classical-walk": {
     "title": {
-      "ko": "걷는 뇌가 천재를 만든다? 존 스튜어트 밀의 산책 토론 루틴"
+      "ko": "걷는 뇌가 천재를 만든다? 존 스튜어트 밀의 산책 토론 루틴",
+      "en": "Does a Walking Brain Create Genius? John Stuart Mill's Walking Discussion Routine",
+      "ja": "歩く脳が天才を作る？ジョン・スチュアート・ミルの散歩討論ルーティン",
+      "zh": "行走的思考造就天才？约翰·斯图尔特·密尔的边走边讨论习惯",
+      "es": "¿Un cerebro en movimiento crea genios? La rutina de caminata y debate de John Stuart Mill",
+      "de": "Macht ein gehendes Gehirn Genies? John Stuart Mills Spaziergangs- und Diskussionsroutine",
+      "fr": "Un cerveau en marche forme-t-il des génies ? La routine de marche et débat de John Stuart Mill",
+      "pt": "Um cérebro em movimento cria gênios? A rotina de caminhada e debate de John Stuart Mill",
+      "id": "Apakah Otak yang Berjalan Menciptakan Jenius? Rutinitas Jalan Kaki dan Diskusi John Stuart Mill"
     },
     "description": {
-      "ko": "자유론의 위대한 지성 존 스튜어트 밀. 매일 아침 아버지와 숲길을 걸으며 고전을 암송하고 토론했던 그의 독특한 산책 독서 습관과, 뇌의 신경 가소성을 높이는 운동-인지 융합의 뇌과학적 효과를 파헤칩니다."
+      "ko": "자유론의 위대한 지성 존 스튜어트 밀. 매일 아침 아버지와 숲길을 걸으며 고전을 암송하고 토론했던 그의 독특한 산책 독서 습관과, 뇌의 신경 가소성을 높이는 운동-인지 융합의 뇌과학적 효과를 파헤칩니다.",
+      "en": "John Stuart Mill, the intellect behind 'On Liberty'. Discover his unique walking-and-reading habit of reciting classics and debating with his father during morning woodland walks, and explore the neuroscientific benefits of merging exercise and cognition to boost neural plasticity.",
+      "ja": "『自由論』の知性、ジョン・スチュアート・ミル。毎朝父親と森の道を歩きながら古典を暗唱し討論した彼のユニークな散歩読書習慣と、脳の神経可塑性を高める運動・認知融合の脳科学的効果をひも解きます。",
+      "zh": "《论自由》背后的伟大智者约翰·斯图尔特·密尔。探索他每天清晨与父亲漫步于林间小道、背诵经典并展开讨论的独特边走边读习惯，以及提升神经可塑性的运动与认知融合的脑科学效果。",
+      "es": "John Stuart Mill, el gran intelectual de 'Sobre la libertad'. Descubra su hábito de recitar clásicos y debatir con su padre durante paseos matutinos por el bosque, y explore los beneficios neurocientíficos de combinar ejercicio y cognición.",
+      "de": "John Stuart Mill, der große Denker hinter 'Über die Freiheit'. Erfahren Sie mehr über seine Gewohnheit, morgens im Wald Klassiker zu rezitieren und zu diskutieren, und entdecken Sie die neurowissenschaftliche Wirkung der Verbindung von Bewegung und Kognition.",
+      "fr": "John Stuart Mill, le grand penseur de « De la liberté ». Découvrez sa routine consistant à réciter des classiques et débattre avec son père lors de marches matinales, et explorez les bienfaits neuroscientifiques de l'alliance de l'exercice et de la cognition.",
+      "pt": "John Stuart Mill, o grande intelectual por trás de 'Sobre a Liberdade'. Descubra seu hábito de recitar clássicos e debater com o pai em caminhadas matinais pela floresta, e explore os benefícios neurocientíficos da fusão entre exercício e cognição.",
+      "id": "John Stuart Mill, pemikir besar di balik 'On Liberty'. Pelajari kebiasaan uniknya membaca sambil berjalan, mendaraskan karya klasik, dan berdiskusi dengan ayahnya di jalan setapak hutan pagi hari, serta jelajahi manfaat ilmu saraf dari penggabungan olahraga dan kognisi."
     },
     "authority": {
-      "ko": "존 스튜어트 밀 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+      "ko": "존 스튜어트 밀 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+      "en": "Historical Critical Biography and Autobiographical Records of John Stuart Mill & Cognitive Neuroscience Research",
+      "ja": "ジョン・スチュアート・ミルの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究",
+      "zh": "约翰·斯图尔特·密尔历史传记与自传文献考证及认知神经과학（Cognitive Neuroscience）研究",
+      "es": "Investigación de biografías históricas y registros autobiográficos de John Stuart Mill e investigación en neurociencia cognitiva",
+      "de": "Historisch-kritische Biografie und autobiografische Aufzeichnungen zu John Stuart Mill & Forschung der kognitiven Neurowissenschaften",
+      "fr": "Recherche sur les biographies historiques et récits autobiographiques de John Stuart Mill & recherche en neurosciences cognitives",
+      "pt": "Pesquisa de biografias históricas e registros autobiográficos de John Stuart Mill & estudos de neurociência cognitiva",
+      "id": "Riset Biografi Historis dan Catatan Autobiografi John Stuart Mill & Studi Neurosains Kognitif"
     },
     "intro": {
-      "ko": "개인의 존엄과 사상의 자유를 옹호한 인류의 명저 《자유론》을 쓰고 19세기 공리주의 사상을 이끌었던 철학자이자 정치경제학자, 존 스튜어트 밀. 인류 역사상 가장 폭넓고 엄밀한 이성을 지녔던 지성으로 손꼽히는 그가 어떻게 이토록 압도적인 지적 역량을 개발해 낼 수 있었을까요? 🚶\n\n그 해답은 바로 그의 유년 시절부터 시작된 독특한 '산책 토론' 습관에 있었습니다. 그의 아버지 제임스 밀은 매일 아침 일찍 어린 밀의 손을 잡고 런던 인근의 숲길을 걸었습니다. 이 아침 산책 시간 동안, 밀은 전날 읽었던 라틴어/그리스어 고전 도서의 내용을 요약하여 아버지에게 암송했고, 아버지는 질문을 던져 사상의 핵심적 연계를 비판적으로 추론하게 만들었습니다. 걷기라는 단순한 신체 활동과 복잡한 고전 독서, 그리고 이에 대한 말하기/토론이 결합한 이 융합 루틴이 밀의 뇌를 고도로 자극하여, 10대의 어린 나이에 거대한 지적 체계를 독자적으로 구축할 수 있도록 도왔습니다.\n\n오늘 포스트에서는 존 스튜어트 밀의 산책 토론이 가진 뇌과학적 원리와 현대인들이 기억력을 개선하고 뇌 세포를 활성화하기 위한 실천적인 아침 산책 독서 루틴을 제안합니다."
+      "ko": "\"지적 거장의 길은 매일 아침 신선한 공기 속에서 걸었던 숲길의 명상과 깊은 대화에서 시작되었다.\" 🚶\n\n개인의 존엄과 사상의 자유를 옹호한 인류의 명저 《자유론(On Liberty)》을 쓰고 19세기 공리주의 사상을 집대성했던 영국 철학자이자 정치경제학자, 존 스튜어트 밀(John Stuart Mill, 1806–1873). 인류 역사상 가장 폭넓고 엄밀한 이성을 지녔던 근대 지성으로 손꼽히는 그가 어떻게 이토록 압도적인 지적 역량을 유년 시절부터 개발해 낼 수 있었을까요?\n\n그 해답은 바로 그가 세 살 무렵부터 아버지 제임스 밀과 함께 실천한 독특한 '산책 토론' 습관에 있었습니다. 제임스 밀은 매일 아침 일찍 어린 밀의 손을 잡고 런던 인근의 조용한 숲길을 걸었습니다. 이 아침 산책 시간 동안, 밀은 전날 읽었던 라틴어 및 그리스어 고전 도서의 내용을 요약하여 아버지에게 암송했고, 아버지는 날카로운 질문을 던져 사상의 핵심적 연계를 비판적으로 추론하게 만들었습니다. 걷기라는 단순한 신체 유산소 활동과 복잡한 고전 독서, 그리고 이에 대한 언어적 인출 및 토론이 결합한 이 융합 루틴이 밀의 뇌를 고도로 자극하여, 10대의 어린 나이에 거대한 지적 체계를 독자적으로 구축할 수 있도록 도왔습니다.\n\n오늘 포스트에서는 존 스튜어트 밀의 산책 토론이 가진 뇌과학적 원리와 현대인들이 기억력을 개선하고 뇌 세포를 활성화하기 위한 실천적인 아침 산책 독서 루틴을 제안합니다.",
+      "en": "\"The path of an intellectual giant began in the morning meditation and deep discourse along woodland paths in the fresh morning air.\" 🚶\n\nJohn Stuart Mill (1806–1873) was the British philosopher and political economist who authored 'On Liberty', defending individual dignity and freedom of thought, while synthesizing 19th-century Utilitarianism. Renowned as one of the most rigorous minds in modern history, how did he cultivate such overwhelming intellectual capabilities starting from early childhood?\n\nThe answer lay in the unique 'Walking Discussion' habit he practiced with his father, James Mill, starting around age three. Every early morning, James Mill took young John by the hand to walk along quiet forest paths near London. During these morning walks, Mill recited summaries of Latin and Greek classics he had read the previous day, while his father posed probing questions that forced him to critically infer core conceptual connections. This hybrid routine—combining simple aerobic walking with complex classical reading, active recall, and verbal debate—highly stimulated Mill's brain, enabling him to independently build a vast intellectual framework in his early teens.\n\nIn this post, we explore the neuroscientific principles behind John Stuart Mill's walking-and-discussion habit and propose a practical morning walking-reading routine for modern individuals to enhance memory and activate brain cells.",
+      "ja": "「知的巨匠の道は、毎朝清々しい空気の中で歩んだ森の道の思索と深遠な対話から始まった。」 🚶\n\n個人の尊厳と思想の自由を擁護した人類の名著『自由論（On Liberty）』を著し、19世紀の功利主義思想を大成したイギリスの哲学者・政治経済学者、ジョン・スチュアート・ミル（John Stuart Mill, 1806–1873）。人類史上最も幅広く厳密な理性を持った近代の知性として数えられる彼が、どのようにしてこれほど圧倒的な知的論理力を幼少期から開発することができたのでしょうか？\n\nその回答は、彼が3歳頃から父親のジェームズ・ミルと共に実践したユニークな「散歩討論」の習慣にありました。ジェームズ・ミルは毎朝早く幼いミルの手を取り、ロンドン近郊の静かな森の道を歩きました。この朝の散歩時間中、ミルは前日に読んだラテン語およびギリシャ語の古典書物の内容を要約して父親に暗唱し、父親は鋭い質問を投げかけて思想の核心的な連関を批判的に推論させました。歩行という単純な有酸素運動と複雑な古典読書、และそれに対する言語的イン出と討論が結合したこの融合ルーティンがミルの脳を高度に刺激し、10代の若さで巨大な知的体系を独力で構築できるよう手助けしたのです。\n\n今日の記事では、ジョン・スチュアート・ミルの散歩討論が持つ脳科学的原理と、現代人が記憶力を改善し脳細胞を活性化するための実践的な朝の散歩読書ルーティンを提案します。",
+      "zh": "“一位思想巨匠的道路，始于每天清晨在新鲜空气中踏过林间小道的沉思与深刻对话。” 🚶\n\n撰写了捍卫个人尊严与思想自由的人类名著《论自由》（On Liberty）、集19世纪功利主义思想之大成的英国哲学家兼政治经济学家约翰·斯图尔特·密尔（John Stuart Mill，1806–1873）。作为现代历史上拥有最广泛而严密理性思考的智者之一，他是如何从幼年时期就开发出如此惊人的智力潜能的呢？\n\n答案就在于他从大约三岁起与父亲詹姆斯·密尔共同坚持的独特“边走边讨论”习惯。每天清晨，詹姆斯·密尔都会牵着幼年密尔的手，漫步于伦敦附近宁静的林间小路。在这段晨间散步时间里，密尔会将前一天阅读的拉丁语和希腊语古典名著内容总结并背诵给父亲，父亲则会提出犀利的问题，迫使他批判性地推导思想的核心关联。步行这一简单的有氧运动与复杂的古典阅读、口头主动提取及辩论相结合，这一融合习惯极大地刺激了密尔的大脑，使他在十几岁时就能独立构建庞大的知识体系。\n\n在今天的文章中，我们将深入探讨约翰·斯图尔特·密尔边走边讨论习惯背后的脑科学原理，并为现代人提出一项旨在改善记忆力与激活脑细胞的实用晨间散步阅读例行习惯。",
+      "es": "“El camino de un gigante intelectual comenzó en la meditación matutina y el diálogo profundo a lo largo de senderos forestales bajo el aire fresco.” 🚶\n\nJohn Stuart Mill (1806–1873) fue el filósofo y economista político británico que escribió 'Sobre la libertad', defendiendo la dignidad individual y la libertad de pensamiento, al tiempo que sintetizó el utilitarismo del siglo XIX. Considerado una de las mentes más rigurosas de la era moderna, ¿cómo desarrolló capacidades intelectuales tan abrumadoras desde su primera infancia?\n\nLa respuesta está en el hábito único de 'discusión durante la caminata' que practicó con su padre, James Mill, desde los tres años de edad. Todas las mañanas, James Mill tomaba de la mano al joven John para caminar por senderos forestales tranquilos cerca de Londres. Durante estos paseos matutinos, Mill recitaba resúmenes de los clásicos latinos y griegos que había leído el día anterior, mientras su padre formulaba preguntas incisivas que lo obligaban a inferir críticamente las conexiones conceptuales. Esta rutina híbrida, que combinaba el ejercicio aeróbico simple de caminar con la lectura clásica compleja, la evocación activa y el debate oral, estimuló intensamente su cerebro, permitiéndole construir un vasto sistema intelectual en su adolescencia.\n\nEn este artículo, exploramos los principios neurocientíficos detrás del hábito de caminar y debatir de John Stuart Mill y proponemos una rutina práctica de caminata y lectura matutina para mejorar la memoria y activar las células cerebrales.",
+      "de": "\"Der Weg eines geistigen Giganten begann in der morgendlichen Meditation und im tiefen Diskurs auf Waldpfaden an der frischen Morgenluft.\" 🚶\n\nJohn Stuart Mill (1806–1873) war der britische Philosoph und Politökonom, der das Meisterwerk 'Über die Freiheit' verfasste und den Utilitarismus des 19. Jahrhunderts prägte. Als einer der schärfsten Denker der Moderne bekannt, stellt sich die Frage: Wie entwickelte er bereits von Kindheit an ein so außergewöhnliches intellektuelles Potenzial?\n\nDie Antwort lag in der einzigartigen Gewohnheit des 'Diskussions-Spaziergangs', die er ab seinem dritten Lebensjahr mit seinem Vater James Mill pflegte. Jeden Morgen ging James Mill mit dem jungen John auf ruhigen Waldwegen nahe London spazieren. Während dieser Spaziergänge rezitierte Mill Zusammenfassungen der am Vortag gelesenen lateinischen und griechischen Klassiker, während sein Vater bohrende Fragen stellte, die ihn zu kritischen Schlussfolgerungen zwangen. Diese hybride Routine – die Verknüpfung von aerober Bewegung mit komplexer Lektüre, aktivem Abrufen und mündlichem Debattieren – stimulierte sein Gehirn stark und ermöglichte es ihm, schon als Teenager ein enormes Wissen aufzubauen.\n\nIn diesem Beitrag untersuchen wir die neurowissenschaftlichen Grundlagen von John Stuart Mills Spaziergangs-Routine und schlagen eine praktische morgendliche Geh-Lese-Routine vor, um Gedächtnis und Gehirnzellen zu aktivieren.",
+      "fr": "« Le parcours d'un géant de la pensée a commencé dans la méditation matinale et les échanges profonds le long des sentiers forestiers dans l'air frais du matin. » 🚶\n\nJohn Stuart Mill (1806–1873) était le philosophe et économiste britannique qui a écrit « De la liberté », défendant la liberté de pensée et la dignité humaine, tout en structurant l'utilitarisme du XIXe siècle. Reconnu comme l'un des esprits les plus rigoureux de l'histoire moderne, comment a-t-il pu développer une puissance intellectuelle aussi hors norme dès son plus jeune âge ?\n\nLa réponse réside dans l'habitude unique de « marche-débat » qu'il pratiquait avec son père, James Mill, dès l'âge de trois ans. Chaque matin très tôt, James Mill prenait le jeune John par la main pour parcourir les sentiers forestiers paisibles près de Londres. Durant ces promenades, Mill récitait des synthèses d'ouvrages classiques latins et grecs lus la veille, tandis que son père lui posait des questions pointues l'obligeant à analyser les liens conceptuels clés. Cette routine combinant la marche aérobique, la lecture classique, le rappel actif et la discussion stimulait fortement le cerveau de Mill, lui permettant de maîtriser un vaste savoir dès l'adolescence.\n\nDans cet article, nous explorons les principes neuroscientifiques de la marche philosophique de John Stuart Mill et proposons une routine matinale de marche-lecture pour stimuler la mémoire et régénérer les cellules cérébrales.",
+      "pt": "\"O caminho de um gigante intelectual começou na meditação matinal e no diálogo profundo ao longo de trilhas florestais sob o ar fresco da manhã.\" 🚶\n\nJohn Stuart Mill (1806–1873) foi o filósofo e economista político britânico que escreveu 'Sobre a Liberdade', defendendo a dignidade individual e a liberdade de pensamento, e sintetizou o utilitarismo do século XIX. Considerado uma das mentes mais brilhantes e rigorosas da era moderna, como ele desenvolveu uma capacidade intelectual tão impressionante desde a infância?\n\nA resposta estava no hábito único de 'caminhada com debate' que praticava com seu pai, James Mill, desde os três anos de idade. Todas as manhãs, James Mill levava o jovem John para caminhar por trilhas silenciosas perto de Londres. Durante essas caminhadas, Mill recitava resumos dos clássicos latinos e gregos lidos no dia anterior, enquanto o pai fazia perguntas instigantes que o forçavam a inferir criticamente as conexões conceituais. Essa rotina combinando o exercício aeróbico leve com leitura clássica complexa, evocação ativa e debate verbal estimulou profundamente seu cérebro, permitindo-lhe construir uma vasta bagagem intelectual na adolescência.\n\nNeste artigo, exploramos os princípios neurocientíficos por trás da rotina de caminhada e discussão de John Stuart Mill e propomos uma prática matinal de caminhada e leitura para aprimorar a memória e ativar as células cerebrais.",
+      "id": "\"Jalan seorang raksasa pemikir dimulai dari meditasi pagi dan diskusi mendalam di sepanjang jalan setapak hutan di udara pagi yang segar.\" 🚶\n\nJohn Stuart Mill (1806–1873) adalah filsuf dan pakar ekonomi politik asal Inggris yang menulis karya monumental 'On Liberty', membela martabat individu dan kebebasan berpikir, sekaligus menyempurnakan utilitarianisme abad ke-19. Diakui sebagai salah satu pemikir paling tajam dalam sejarah modern, bagaimana ia mampu mengembangkan kapasitas intelektual luar biasa sejak masa kecilnya?\n\nJawabannya terletak pada kebiasaan 'diskusi sambil berjalan' yang ia jalankan bersama ayahnya, James Mill, sejak berusia tiga tahun. Setiap pagi, James Mill menggandeng John muda untuk berjalan-jalan di sepanjang jalan setapak hutan yang tenang di dekat London. Selama jalan pagi ini, Mill mendaraskan ringkasan karya klasik Latin dan Yunani yang dibacanya kemarin, sementara ayahnya mengajukan pertanyaan-pertanyaan kritis yang memaksa Mill menganalisis hubungan antar gagasan. Rutinitas gabungan ini—menghubungkan olahraga aerobik ringan dengan bacaan klasik yang rumit, pemanggilan ingatan aktif, dan diskusi verbal—sangat menstimulasi otak Mill, memungkinkannya membangun kerangka berpikir yang luas pada usia belasan tahun.\n\nDalam artikel ini, kita mempelajari prinsip ilmu saraf di balik kebiasaan berjalan dan berdiskusi John Stuart Mill serta mengajukan rutinitas jalan pagi dan membaca bagi individu modern untuk meningkatkan ingatan dan mengaktifkan sel-sel otak."
     },
     "whyTitle": {
-      "ko": "뇌 세포를 활성화하는 BDNF와 신경 가소성의 결합"
+      "ko": "뇌 세포를 활성화하는 BDNF와 신경 가소성의 결합",
+      "en": "The Combination of BDNF Brain Activation and Neural Plasticity",
+      "ja": "脳細胞を活性化するBDNFと神経可塑性の結合",
+      "zh": "激活脑细胞的BDNF与神经可塑性的结合",
+      "es": "La combinación del BDNF para activar las células cerebrales y la plasticidad neuronal",
+      "de": "Die Kombination aus BDNF-Gehirnaktivierung und neuronaler Plastizität",
+      "fr": "La combinaison du BDNF pour activer les cellules cérébrales et de la plasticité neuronale",
+      "pt": "A combinação de BDNF para ativar células cerebrais e plasticidade neural",
+      "id": "Kombinasi Aktivasi Otak BDNF dan Plastisitas Saraf"
     },
     "whyDesc": {
-      "ko": "가만히 앉아서 눈으로만 읽는 독서와 달리, 걸으면서 대화하거나 사색하는 활동은 뇌과학적으로 엄청난 이점을 지닙니다. 보행과 같은 유산소 신체 활동은 뇌 혈류량을 급격히 늘리며, 기억과 학습의 허브인 해마에서 <strong>뇌유래신경영양인자(BDNF, Brain-Derived Neurotrophic Factor)</strong>의 활성화를 대폭 유도합니다. BDNF는 새로운 신경세포를 생성하고 생존시키는 촉진제입니다.\n\n이 신체 자극 상태에서 철학적 개념이나 논리학 같은 고난도 고전 정보가 뇌로 유입되면, 뇌는 신속하게 시냅스 연결망을 개조하는 <strong>신경 가소성(Neuroplasticity)</strong> 상태를 연출합니다. 즉, 산책 중 이루어지는 인지 활동은 일반 독서보다 정보가 장기 기억으로 이동하는 고속도로를 닦아주며, 기억력, 추상적 추론, 그리고 좌뇌와 우뇌의 융합 지능을 최고 수준으로 끌어올립니다."
+      "ko": "가만히 앉아서 눈으로만 읽는 독서와 달리, 걸으면서 대화하거나 사색하는 활동은 뇌과학적으로 엄청난 이점을 지닙니다. 보행과 같은 유산소 신체 활동은 뇌 혈류량을 급격히 늘리며, 기억과 학습의 허브인 해마에서 <strong>뇌유래신경영양인자(BDNF, Brain-Derived Neurotrophic Factor)</strong>의 활성화를 대폭 유도합니다. BDNF는 새로운 신경세포를 생성하고 생존시키는 촉진제입니다.\n\n이 신체 자극 상태에서 철학적 개념이나 논리학 같은 고난도 고전 정보가 뇌로 유입되면, 뇌는 신속하게 시냅스 연결망을 개조하는 <strong>신경 가소성(Neuroplasticity)</strong> 상태를 연출합니다. 즉, 산책 중 이루어지는 인지 활동은 일반 독서보다 정보가 장기 기억으로 이동하는 고속도로를 닦아주며, 기억력, 추상적 추론, 그리고 좌뇌와 우뇌의 융합 지능을 최고 수준으로 끌어올립니다.",
+      "en": "Unlike static reading while sitting still, walking while engaging in discourse or reflection holds tremendous neuroscientific benefits. Aerobic physical activity like walking rapidly boosts cerebral blood flow and heavily stimulates the expression of <strong>Brain-Derived Neurotrophic Factor (BDNF)</strong> in the hippocampus—the hub of memory and learning. BDNF is a master catalyst that promotes the growth and survival of new neurons.\n\nWhen high-level intellectual information such as philosophy or logic enters the brain during this physically stimulated state, the brain rapidly enters a state of <strong>neuroplasticity</strong>, rewiring synaptic connections. In short, cognitive processing during walking lays down a express highway for transferring information into long-term memory, boosting recall, abstract reasoning, and left-right brain integration to maximum levels.",
+      "ja": "静かに座って目だけで読む読書とは異なり、歩きながら対話したり思索したりする活動は脳科学的に絶大なメリットをもたらします。歩行のような有酸素身体活動は脳の血流量を急激に増やし、記憶と学習のハブである海馬において<strong>脳由来神経栄養因子（BDNF, Brain-Derived Neurotrophic Factor）</strong>の活性化を大幅に誘導します。BDNFは新しい神経細胞を生成し生存させる促進剤です。\n\nこの身体刺激状態で哲学的な概念や論理学のような高難度の古典情報が脳に入ると、脳は迅速にシナプス接続網を改造する<strong>神経可塑性（Neuroplasticity）</strong>状態を演出します。すなわち、散歩中に行われる認知活動は一般的な読書よりも情報が長期記憶へ移動する高速道路を舗装し、記憶力、抽象的推論、アンド左脳と右脳の融合知能を最高水準へと引き上げます。",
+      "zh": "与静坐仅凭双眼阅读不同，在散步中进行对话或思考在脑科学上具有巨大的优势。如散步这般的有氧身体活动能急剧增加脑部血流量，并极大地诱导记忆与学习中心——海马体中<strong>脑源性神经营养因子（BDNF, Brain-Derived Neurotrophic Factor）</strong>的活性。BDNF是促进新神经元生成与存活的催化剂。\n\n在这种身体受刺激的状态下，当哲学概念或逻辑学等高难度的古典信息输入大脑时，大脑会迅速展现出重塑突触连接网络的<strong>神经可塑性（Neuroplasticity）</strong>状态。换言之，散步时进行的认知活动比普通阅读铺设了一条将信息运输至长期记忆的高速公路，能将记忆力、抽象推理以及左右脑融合智力提升至最高水平。",
+      "es": "A diferencia de la lectura estática sentado, caminar mientras se dialoga o reflexiona ofrece inmensos beneficios neurocientíficos. La actividad física aeróbica como la caminata incrementa rápidamente el flujo sanguíneo cerebral y estimula intensamente el <strong>Factor Neurotrófico Derivado del Cerebro (BDNF)</strong> en el hipocampo, el centro de la memoria y el aprendizaje. El BDNF es un catalizador clave para la neurogénesis y supervivencia neuronal.\n\nCuando la información intelectual compleja entra al cerebro en este estado de estimulación física, el cerebro entra rápidamente en un estado de <strong>neuroplasticidad</strong>, reconfigurando las redes sinápticas. En resumen, la actividad cognitiva realizada durante la caminata construye una autopista directa para consolidar información en la memoria a largo plazo, elevando el razonamiento abstracto y la integración interhemisférica al máximo.",
+      "de": "Im Gegensatz zum stillen Lesen im Sitzen bietet das Gehen während des Diskurses oder Nachdenkens enorme neurowissenschaftliche Vorteile. Aerobe körperliche Aktivität wie Gehen steigert die gehirne Durchblutung drastisch und regt im Hippocampus – dem Zentrum für Gedächtnis und Lernen – die Bildung des <strong>Brain-Derived Neurotrophic Factor (BDNF)</strong> an. BDNF ist ein Katalysator für das Wachstum neuer Neuronen.\n\nWenn in diesem Zustand körperlicher Stimulation hochkomplexe Informationen wie Philosophie oder Logik aufgenommen werden, zeigt das Gehirn eine verstärkte <strong>Neuroplastizität</strong> und baut synaptische Verbindungen um. Kurz gesagt schafft kognitive Aktivität beim Gehen eine Schnellstraße für den Transfer von Informationen ins Langzeitgedächtnis und steigert Abrufleistung, abstraktes Denken und gehirnübergreifende Integration.",
+      "fr": "Contrairement à la lecture statique en position assise, marcher tout en dialoguant ou en réfléchissant offre d'immenses bienfaits neuroscientifiques. L'activité physique aérobique telle que la marche augmente rapidement le débit sanguin cérébral et induit une forte libération du <strong>facteur neurotrophique dérivé du cerveau (BDNF)</strong> dans l'hippocampe, le centre de la mémoire et de l'apprentissage. Le BDNF est un catalyseur favorisant la genèse et la survie des neurones.\n\nLorsque des informations intellectuelles complexes pénètent dans le cerveau durant cet état de stimulation physique, le cerveau entre en état de <strong>plasticité neuronale</strong>, reconfigurant les réseaux synaptiques. En somme, l'activité cognitive pendant la marche trace une autoroute pour transférer les informations vers la mémoire à long terme, propulsant le raisonnement abstrait et l'intégration cérébrale globale à leur niveau maximal.",
+      "pt": "Diferente da leitura estática sentado, caminhar enquanto se dialoga ou reflete traz imensos benefícios neurocientíficos. A atividade física aeróbica como a caminhada aumenta rapidamente o fluxo sanguíneo cerebral e estimula intensamente o <strong>Fator Neurotrófico Derivado do Cérebro (BDNF)</strong> no hipocampo, o centro da memória e aprendizagem. O BDNF é um catalisador fundamental para o crescimento e sobrevivência de novos neurônios.\n\nQuando informações intelectuais complexas entram no cérebro durante esse estado de estimulação física, o cérebro entra em estado de <strong>neuroplasticidade</strong>, reconfigurando as redes sinápticas. Em suma, o processamento cognitivo durante a caminhada constrói uma autoestrada para a consolidação de informações na memória de longo prazo, elevando a capacidade de raciocínio e a integração cerebral ao nível máximo.",
+      "id": "Berbeda dengan membaca dalam posisi duduk diam, berjalan sambil berdiskusi atau merenung membawa manfaat luar biasa secara ilmu saraf. Aktivitas fisik aerobik seperti berjalan secara drastis meningkatkan aliran darah ke otak dan menstimulasi pembebasan <strong>Brain-Derived Neurotrophic Factor (BDNF)</strong> di hipokampus—pusat memori dan pembelajaran. BDNF adalah katalis utama yang mendorong pertumbuhan dan kelangsungan hidup sel-sel saraf baru.\n\nKetika informasi intelektual tingkat tinggi seperti filsafat atau logika masuk ke otak selama kondisi terstimulasi secara fisik ini, otak dengan cepat memasuki kondisi <strong>plastisitas saraf (neuroplasticity)</strong>, merestrukturisasi koneksi sinapsis. Singkatnya, aktivitas kognitif yang dilakukan saat berjalan membangun jalan tol untuk mentransfer informasi ke dalam memori jangka panjang, meningkatkan daya ingat, penalaran abstrak, dan integrasi otak kiri-kanan ke tingkat tertinggi."
     },
     "cautionTitle": {
-      "ko": "신체 움직임이 정지하면 생각도 굳어집니다"
+      "ko": "신체 움직임이 정지하면 생각도 굳어집니다",
+      "en": "When Physical Movement Stops, Thought Stagnates Too",
+      "ja": "身体の動きが停止すると思考も固まります",
+      "zh": "身体停止运动，思考也会变得僵化",
+      "es": "Si el movimiento físico se detiene, el pensamiento se paraliza",
+      "de": "Wenn die körperliche Bewegung stoppt, erstarrt auch das Denken",
+      "fr": "Lorsque le mouvement physique s'arrête, la pensée s'enrose elle aussi",
+      "pt": "Quando o movimento físico para, o pensamento engessa",
+      "id": "Saat Gerakan Fisik Terhenti, Pemikiran Pun Ikut Membeku"
     },
     "cautionDesc": {
-      "ko": "현대인들은 매일 몇 시간씩 가만히 앉아 정보만 소비하므로 뇌의 BDNF 수준이 바닥을 쳐 새로운 지식을 소화하는 역량이 만성적으로 감소합니다. 독서와 신체 활동을 융합했던 밀의 습관처럼, 읽은 직후 스마트폰 연결을 완전히 차단한 채 걸으며 생각하는 산책 리추얼은 두뇌 지능을 유연하게 유지하고 사고력을 비약적으로 높이는 최고의 융합 인지법입니다."
+      "ko": "현대인들은 매일 몇 시간씩 가만히 앉아 정보만 소비하므로 뇌의 BDNF 수준이 바닥을 쳐 새로운 지식을 소화하는 역량이 만성적으로 감소합니다. 독서와 신체 활동을 융합했던 밀의 습관처럼, 읽은 직후 스마트폰 연결을 완전히 차단한 채 걸으며 생각하는 산책 리추얼은 두뇌 지능을 유연하게 유지하고 사고력을 비약적으로 높이는 최고의 융합 인지법입니다.",
+      "en": "Modern people spend hours sitting motionless every day consuming information, causing brain BDNF levels to bottom out and chronically lowering the capacity to digest new knowledge. Like Mill's habit of merging reading with physical activity, a walking ritual—disconnecting completely from your smartphone immediately after reading to walk and contemplate—is the ultimate integrative cognitive practice to keep brain intelligence flexible and dramatically expand reasoning power.",
+      "ja": "現代人は毎日何時間もじっと座って情報だけを消費するため、脳のBDNFレベルが底をつき、新しい知識を消化する能力が慢性的に低下しています。読書と身体活動を融合させたミルの習慣のように、読書直後にスマートフォンの接続を完全に遮断したまま歩いて思索する散歩リチュアルは、頭脳の知性を柔軟に維持し、思考力を飛躍的に高める最高の融合認知法です。",
+      "zh": "现代人每天久坐数小时纯粹被动地吸收信息，导致大脑中BDNF水平触底，消化新知识的能力长期处于低迷状态。正如密尔将阅读与身体活动融合在一起的习惯一样，在阅读后立即彻底断开手机网络连接、一边散步一边沉思的晨走仪式，是保持大脑智力灵活性并大幅提升思考力的极佳融合认知法。",
+      "es": "Las personas modernas pasan horas sentadas inmóviles consumiendo información, lo que cae drásticamente los niveles de BDNF y disminuye crónicamente la capacidad de asimilar nuevos conocimientos. Al igual que el hábito de Mill de combinar la lectura con el ejercicio, desconectarse por completo del teléfono inmediatamente después de leer para caminar y reflexionar es la práctica cognitiva integradora definitiva para mantener la agilidad mental y potenciar el pensamiento.",
+      "de": "Moderne Menschen verbringen täglich Stundenregungen im Sitzen, was den BDNF-Spiegel im Gehirn senkt und die Fähigkeit zur Aufnahme neuen Wissens beeinträchtigt. Wie Mills Gewohnheit, Lesen mit Bewegung zu verknüpfen, ist das Spaziergangsritual – sich direkt nach dem Lesen vom Smartphone zu trennen, um gehend nachzudenken – die beste Methode, um die geistige Flexibilität zu bewahren und die Denkfähigkeit zu steigern.",
+      "fr": "Les hommes modernes passent des heures assis immobiles à consommer de l'information, entraînant une chute du taux de BDNF et réduisant la capacité à assimiler de nouvelles connaissances. Tout comme Mill associait lecture et exercice physique, déconnecter complètement son smartphone juste après une lecture pour marcher et réfléchir constitue une excellente pratique cognitive pour entretenir la souplesse intellectuelle et stimuler la réflexion.",
+      "pt": "Os indivíduos modernos passam horas sentados consumindo dados, fazendo com que os níveis de BDNF caiam e reduzindo a capacidade de assimilar novos conhecimentos. Assim como o hábito de Mill de integrar leitura e exercício físico, desconectar-se do celular logo após ler para caminhar e refletir é a melhor prática cognitiva para manter a inteligência flexível e expandir o raciocínio.",
+      "id": "Masyarakat modern menghabiskan waktu berjam-jam duduk diam mengonsumsi informasi, menyebabkan tingkat BDNF otak merosot dan secara kronis menurunkan kemampuan mencerna pengetahuan baru. Seperti kebiasaan Mill yang memadukan membaca dengan aktivitas fisik, ritual jalan kaki—mematikan smartphone segera setelah membaca lalu berjalan sambil merenung—adalah praktik kognitif terbaik untuk menjaga fleksibilitas kecerdasan dan melipatgandakan daya pikir."
     },
     "steps": [
       {
         "name": {
-          "ko": "핵심 챕터 단기 집중 독서"
+          "ko": "핵심 챕터 단기 집중 독서",
+          "en": "Short Focused Reading of a Core Chapter",
+          "ja": "核心チャプターの短期集中読書",
+          "zh": "核心章节短期专注阅读",
+          "es": "Lectura intensiva corta de un capítulo clave",
+          "de": "Kurze intensive Lektüre eines Kernkapitels",
+          "fr": "Lecture concentrée d'un chapitre clé",
+          "pt": "Leitura concentrada de um capítulo-chave",
+          "id": "Membaca Fokus Bab Kunci Sesi Singkat"
         },
         "text": {
-          "ko": "집중력을 최대로 높여 깊이 있게 독해할 수 있는 인문 철학 책이나 직무 관련 고급 리포트의 한 챕터(약 10~15페이지 분량)를 전자기기 알림을 차단한 상태에서 정밀하게 읽어 뇌에 인지 소스를 제공합니다."
+          "ko": "집중력을 최대로 높여 깊이 있게 독해할 수 있는 인문 철학 책이나 직무 관련 고급 리포트의 한 챕터(약 10~15페이지 분량)를 전자기기 알림을 차단한 상태에서 정밀하게 읽어 뇌에 인지 소스를 제공합니다.",
+          "en": "Read one chapter (approx. 10–15 pages) of a philosophy classic or high-level professional report with maximum concentration and notifications turned off, supplying fresh cognitive input to your brain.",
+          "ja": "集中力を最大に高めて深く読解できる人文哲学書や職務関連の高級レポートの1チャプター（約10〜15ページ分）を、電子機器の通知を遮断した状態で精密に読み、脳に認知ソースを提供します。",
+          "zh": "在关掉电子设备通知的状态下，以最大集中力精读人文哲学书籍或高阶工作报告中的一个章节（约10~15页），为大脑提供高质量的认知源料。",
+          "es": "Lea un capítulo (aprox. 10–15 páginas) de un libro de filosofía o un informe profesional avanzado con la máxima concentración y las notificaciones apagadas, proporcionando insumos cognitivos frescos a su cerebro.",
+          "de": "Lesen Sie ein Kapitel (ca. 10–15 Seiten) eines Philosophiebuchs oder Fachberichts mit maximaler Konzentration und stummgeschalteten Benachrichtigungen, um dem Gehirn kognitive Bausteine zu liefern.",
+          "fr": "Lisez un chapitre (environ 10 à 15 pages) d'un ouvrage philosophique ou d'un rapport professionnel avec une concentration maximale et sans notifications, fournissant ainsi une matière cognitive brute à votre cerveau.",
+          "pt": "Leia um capítulo (cerca de 10 a 15 páginas) de um livro de filosofia ou relatório profissional técnico com concentração máxima e notificações desativadas, fornecendo insumo cognitivo ao cérebro.",
+          "id": "Baca satu bab (sekitar 10–15 halaman) buku filsafat atau laporan profesional berkualitas tinggi dengan konsentrasi penuh dan matikan semua notifikasi, memberikan pasokan bahan kognitif ke otak Anda."
         }
       },
       {
         "name": {
-          "ko": "스마트폰 차단 및 가벼운 보행 산책"
+          "ko": "스마트폰 차단 및 가벼운 보행 산책",
+          "en": "Smartphone Disconnection and Light Walking Walk",
+          "ja": "スマートフォン遮断および軽い歩行散歩",
+          "zh": "断开手机连接与轻度步行散步",
+          "es": "Desconexión del teléfono y caminata ligera",
+          "de": "Smartphone-Sperre und leichter Spaziergang",
+          "fr": "Déconnexion du smartphone et marche légère",
+          "pt": "Desconexão do celular e caminhada leve",
+          "id": "Pemutusan Smartphone dan Jalan Kaki Ringan"
         },
         "text": {
-          "ko": "독서가 끝나자마자 스마트폰을 완전히 차단한 상태로 주머니에 넣고, 야외의 조용한 공원이나 산책길로 나가 가볍게 20분 정도 걷기 시작하여 뇌의 혈류량과 BDNF 활성화를 유도합니다."
+          "ko": "독서가 끝나자마자 스마트폰을 완전히 차단한 상태로 주머니에 넣고, 야외의 조용한 공원이나 산책길로 나가 가볍게 20분 정도 걷기 시작하여 뇌의 혈류량과 BDNF 활성화를 유도합니다.",
+          "en": "Immediately after reading, put your completely disconnected smartphone in your pocket and step out into a quiet park or path. Begin walking lightly for about 20 minutes to induce cerebral blood flow and BDNF activation.",
+          "ja": "読書が終わったらすぐにスマートフォンを完全に遮断した状態でポケットに入れ、屋外の静かな公園や散歩道へ出て軽く20分ほど歩き始め、脳の血流量とBDNFの活性化を誘導します。",
+          "zh": "阅读结束后立即将手机设定为完全切断状态放入口袋，步入户外的静谧公园或散步小径，轻松漫步约20分钟，以诱导脑部血流量增加与BDNF激活。",
+          "es": "Inmediatamente después de leer, guarde su teléfono desconectado en el bolsillo y salga a un parque o sendero tranquilo. Camine a paso ligero durante unos 20 minutos para estimular el flujo sanguíneo cerebral y el BDNF.",
+          "de": "Stecken Sie Ihr Smartphone direkt nach dem Lesen stummgeschaltet in die Tasche und gehen Sie in einen ruhigen Park. Gehen Sie etwa 20 Minuten lang zügig spazieren, um die Durchblutung und die BDNF-Aktivität anzuregen.",
+          "fr": "Aussitôt votre lecture terminée, glissez votre smartphone déconnecté dans votre poche et partez marcher dans un parc paisible. Marchez d'un pas léger pendant environ 20 minutes pour activer la circulation cérébrale et le BDNF.",
+          "pt": "Logo após ler, guarde o celular desconectado no bolso e saia para um parque ou trilha silenciosa. Comece a caminhar levemente por cerca de 20 minutos para induzir o fluxo sanguíneo cerebral e a ativação de BDNF.",
+          "id": "Segera setelah selesai membaca, masukkan smartphone yang sudah dimatikan koneksinya ke dalam saku dan melangkah ke taman atau jalan setapak yang tenang. Mulailah berjalan ringan selama sekitar 20 menit untuk mendorong aliran darah otak dan aktivasi BDNF."
         }
       },
       {
         "name": {
-          "ko": "자기 인출 및 개념 연합 자문자답"
+          "ko": "자기 인출 및 개념 연합 자문자답",
+          "en": "Self-Recall and Conceptual Association Inquiry",
+          "ja": "自己イン出および概念連合の自問自答",
+          "zh": "自我主动提取与概念联想自问自答",
+          "es": "Auto-evocación e indagación de asociación conceptual",
+          "de": "Aktiver Selbstabruf und kognitives Hinterfragen",
+          "fr": "Rappel actif et questionnement d'association conceptuelle",
+          "pt": "Evocação ativa e autoquestionamento de associação conceitual",
+          "id": "Pemanggilan Ingatan Mandiri dan Pertanyaan Asosiasi Konsep"
         },
         "text": {
-          "ko": "걸으면서 방금 읽었던 챕터의 핵심 주장을 머릿속으로 스스로 강제 인출해 봅니다. '이 내용은 왜 중요한가?', '내 생각과 어떻게 연결되는가?' 등 가상 파트너와 대화하듯 자문자답하며 인지 지도를 정립합니다."
+          "ko": "걸으면서 방금 읽었던 챕터의 핵심 주장을 머릿속으로 스스로 강제 인출해 봅니다. '이 내용은 왜 중요한가?', '내 생각과 어떻게 연결되는가?' 등 가상 파트너와 대화하듯 자문자답하며 인지 지도를 정립합니다.",
+          "en": "While walking, actively force yourself to recall the key points of the chapter you just read. Ask and answer questions as if speaking to a virtual dialog partner—such as 'Why is this point important?' or 'How does this connect to my prior knowledge?'—building a structured cognitive map.",
+          "ja": "歩きながらたった今読んだチャプターの核心的な主張を頭の中で自ら強制的にイン出してみます。「この内容はなぜ重要なのか？」「自分の考えとどうつながるのか？」など、仮想のパートナーと対話するように自問自答しながら認知マップを確立します。",
+          "zh": "边走边在脑海中强制主动提取刚才所读章节的核心观点。如同与虚拟伙伴对话般自问自答：“这段内容为什么重要？”、“它与我原有的想法有何关联？”，进而建立起清晰的认知地图。",
+          "es": "Mientras camina, fuércese activamente a recordar las ideas principales del capítulo leído. Formúlese preguntas y respóndase como si conversara con un compañero virtual —p. ej. '¿Por qué es importante esto?' o '¿Cómo se conecta con mis ideas?'— organizando así un mapa cognitivo.",
+          "de": "Rufen Sie sich beim Gehen aktiv die Kernaussagen des eben gelesenen Kapitels ins Gedächtnis. Stellen Sie sich selbst Fragen wie in einem inneren Dialog – z. B. 'Warum ist das wichtig?' oder 'Wie verbindet sich das mit meinen Ideen?' –, um eine strukturierte kognitive Landkarte aufzubauen.",
+          "fr": "Tout en marchant, forcez-vous à vous remémorer les thèses clés du chapitre. Posez-vous des questions à la manière d'un dialogue intérieur — comme « Pourquoi ce point est-il important ? » ou « Comment s'articule-t-il avec mes propres idées ? » — pour structurer une carte cognitive.",
+          "pt": "Enquanto caminha, force-se a recordar os pontos principais do capítulo lido. Faça perguntas e responda a si mesmo como num diálogo — 'Por que isso é relevante?' ou 'Como isso se conecta com meu conhecimento?' — construindo um mapa cognitivo estruturado.",
+          "id": "Sambil berjalan, paksa diri Anda untuk mengingat kembali poin-poin utama dari bab yang baru saja dibaca. Ajukan pertanyaan dan jawab sendiri seolah berdiskusi dengan rekan virtual—seperti 'Mengapa poin ini penting?' atau 'Bagaimana ini terhubung dengan gagasan saya?'—membangun peta kognitif yang terstruktur."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "오디오북을 들으면서 걷는 것도 동일한 효과가 나나요?"
+          "ko": "오디오북을 들으면서 걷는 것도 동일한 효과가 나나요?",
+          "en": "Does walking while listening to an audiobook produce the exact same effect?",
+          "ja": "オーディオブックを聞きながら歩くことでも同じ効果が得られますか？",
+          "zh": "一边听有声书一边散步也能达到同样的效果吗？",
+          "es": "¿Tiene el mismo efecto caminar escuchando un audiolibro?",
+          "de": "Hat das Gehen beim Hören eines Hörbuchs denselben Effekt?",
+          "fr": "Marcher en écoutant un livre audio produit-il exactement le même effet ?",
+          "pt": "Caminhar ouvindo um livro de áudio produz o mesmo efeito?",
+          "id": "Apakah berjalan sambil mendengarkan buku audio memberikan efek yang sama?"
         },
         "answer": {
-          "ko": "오디오북을 듣는 것은 외부 정보 수동적 수용에 해당하므로, 뇌가 스스로 기억을 더듬어 정보를 끄집어내는 '능동적 인출(Active Retrieval)'과 자문자답 성찰의 기회를 차단합니다. 걷는 동안은 귀를 비우고 이미 읽은 내용을 능동적으로 머릿속에서 재가공하는 시간이 뇌 가소성을 활성화하는 데 훨씬 효과적입니다."
+          "ko": "오디오북을 듣는 것은 외부 정보 수동적 수용에 해당하므로, 뇌가 스스로 기억을 더듬어 정보를 끄집어내는 '능동적 인출(Active Retrieval)'과 자문자답 성찰의 기회를 차단합니다. 걷는 동안은 귀를 비우고 이미 읽은 내용을 능동적으로 머릿속에서 재가공하는 시간이 뇌 가소성을 활성화하는 데 훨씬 효과적입니다.",
+          "en": "Listening to an audiobook is passive information intake, which blocks 'active retrieval'—where the brain internally searches memory—and reduces self-reflective dialogue. Clearing your ears during walks to actively process previously read material is far more effective at stimulating brain plasticity.",
+          "ja": "オーディオブックを聞くことは外部情報の受動的受容に当たるため、脳が自ら記憶をたどって情報を引き出す「能動的イン出（Active Retrieval）」と自問自答の省察の機会を遮断してしまいます。歩いている間は耳を空にし、すでに読んだ内容を能動的に頭の中で再加工する時間を持つ方が、脳の可塑性を活性化する上ではるかに効果的です。",
+          "zh": "听有声书属于被动接收外部信息，这会阻断大脑自行检索记忆提取信息的“主动提取（Active Retrieval）”以及自问自答反思的机会。在散步时让双耳保持清空，主动在脑海中重新加工已读内容，在激活大脑可塑性方面要有效得多。",
+          "es": "Escuchar un audiolibro es un procesamiento pasivo que bloquea la 'evocación activa' (donde el cerebro busca internamente en la memoria) y reduce la auto-reflexión. Liberar sus oídos durante la caminata para procesar activamente lo leído es mucho más efectivo para estimular la plasticidad cerebral.",
+          "de": "Das Hören eines Hörbuchs ist eine passive Aufnahme, die das 'aktive Abrufen' – bei dem das Gehirn Erinnerungen eigenständig durchsucht – und den inneren Dialog blockiert. Wenn Sie beim Gehen auf Audioreize verzichten und gelesene Inhalte verarbeiten, stärkt das die neuronale Plastizität deutlich effektiver.",
+          "fr": "L'écoute d'un livre audio constitue une réception passive d'informations qui court-circuite le « rappel actif » — où le cerveau va puiser lui-même dans sa mémoire — et la réflexion personnelle. Garder les oreilles libres pour retravailler mentalement la lecture est nettement plus efficace pour stimuler la plasticité cérébrale.",
+          "pt": "Ouvir um livro de áudio é uma recepção passiva de dados que bloqueia a 'evocação ativa' — onde o cérebro busca ativamente na memória — e reduz a reflexão pessoal. Manter os ouvidos livres para reprocessar mentalmente o conteúdo lido é muito mais eficaz para ativar a plasticidade cerebral.",
+          "id": "Mendengarkan buku audio adalah penerimaan informasi secara pasif yang menutup peluang 'pemanggilan ingatan aktif' (di mana otak secara mandiri melacak memori) dan refleksi mandiri. Mengosongkan pendengaran saat berjalan untuk mengolah kembali materi yang telah dibaca jauh lebih efektif dalam mengaktifkan plastisitas otak."
         }
       },
       {
         "question": {
-          "ko": "걷는 속도는 뇌 자극에 영향을 주나요?"
+          "ko": "걷는 속도는 뇌 자극에 영향을 주나요?",
+          "en": "Does walking speed affect brain stimulation?",
+          "ja": "歩く速度は脳の刺激に影響を与えますか？",
+          "zh": "步行的速度会影响对大脑的刺激吗？",
+          "es": "¿Afecta la velocidad al caminar a la estimulación cerebral?",
+          "de": "Beeinflusst das Geh-Tempo die Gehirnstimulation?",
+          "fr": "La vitesse de marche influence-t-elle la stimulation cérébrale ?",
+          "pt": "A velocidade da caminhada afeta a estimulação cerebral?",
+          "id": "Apakah kecepatan berjalan mempengaruhi stimulasi otak?"
         },
         "answer": {
-          "ko": "네, 영향을 줍니다. 너무 느린 걸음보다는 숨이 살짝 차지 않는 선에서 가볍게 리듬을 타며 걷는 보통 속도(시속 4~5km)가 좋습니다. 이 정도의 가벼운 유산소 강도에서 BDNF 분비량과 뇌 혈류량이 이상적인 수준으로 올라가며, 지나치게 빠른 질주는 오히려 인지 자원을 운동 조절 영역으로 쏠리게 하므로 피해야 합니다."
+          "ko": "네, 영향을 줍니다. 너무 느린 걸음보다는 숨이 살짝 차지 않는 선에서 가볍게 리듬을 타며 걷는 보통 속도(시속 4~5km)가 좋습니다. 이 정도의 가벼운 유산소 강도에서 BDNF 분비량과 뇌 혈류량이 이상적인 수준으로 올라가며, 지나치게 빠른 질주는 오히려 인지 자원을 운동 조절 영역으로 쏠리게 하므로 피해야 합니다.",
+          "en": "Yes, it does. Rather than a very slow stroll, a moderate rhythmic pace (approx. 4–5 km/h) where breathing remains comfortable is optimal. At this mild aerobic intensity, BDNF secretion and cerebral blood flow reach ideal levels. Extremely fast running should be avoided as it shifts cognitive resources toward motor control.",
+          "ja": "はい、影響を与えます。遅すぎる歩みよりは息が少し上がらない程度に軽やかにリズムに乗って歩く通常の速度（時速4〜5km）が良いでしょう。この程度の軽い有酸素運動強度でBDNF分泌量と脳血流量が理想的な水準まで上がり、極端に速い疾走はむしろ認知資源を運動調節領域に偏らせるため避けるべきです。",
+          "zh": "是的，会有影响。相比过于缓慢的信步，保持呼吸顺畅、节奏轻快的正常步行速度（约每小时4~5公里）是最佳的。在这种轻度有氧强度下，BDNF的分泌量与脑血流量会上升至理想水平；而过于迅捷的奔跑反而会使认知资源过度向运动控制区域倾斜，因此应当避免。",
+          "es": "Sí, influye. En lugar de un paseo demasiado lento, un ritmo moderado y rítmico (aprox. 4–5 km/h) donde la respiración se mantenga cómoda es lo óptimo. A esta intensidad aeróbica ligera, la secreción de BDNF y el flujo sanguíneo cerebral alcanzan niveles ideales. Debe evitarse correr muy rápido, ya que desplaza los recursos cognitivos hacia el control motor.",
+          "de": "Ja, das tut es. Besser als ein sehr langsames Schländern ist ein moderates Tempo (ca. 4–5 km/h) mit angenehmer Atmung. Bei dieser leichten aeroben Intensität erreichen BDNF-Ausschüttung und Durchblutung ideale Werte. Zu schnelles Rennen sollte vermieden werden, da es kognitive Ressourcen auf die Motorik umleitet.",
+          "fr": "Oui, tout à fait. Plus qu'une flânerie trop lente, un rythme modéré (environ 4 à 5 km/h) permettant une respiration aisée est idéal. À cette intensité aérobique modérée, la sécrétion de BDNF et l'irrigation cérébrale atteignent un niveau optimal. La course rapide est à éviter car elle redirige les ressources cognitives vers le contrôle moteur.",
+          "pt": "Sim, afeta. Em vez de um passeio muito lento, um ritmo moderado (aprox. 4–5 km/h) com respiração confortável é o ideal. Nessa intensidade aeróbica leve, a secreção de BDNF e o fluxo sanguíneo atingem níveis ideais. Corridas muito rápidas devem ser evitadas, pois desviam os recursos cognitivos para o controle motor.",
+          "id": "Ya, sangat mempengaruhi. Dibandingkan berjalan sangat lambat, kecepatan sedang berseri (sekitar 4–5 km/jam) di mana pernapasan tetap nyaman adalah yang paling optimal. Pada intensitas aerobik ringan ini, sekresi BDNF dan aliran darah otak mencapai tingkat ideal. Berlari terlalu cepat sebaiknya dihindari karena akan mengalihkan sumber daya kognitif ke area pengendalian motorik."
         }
       }
     ]
