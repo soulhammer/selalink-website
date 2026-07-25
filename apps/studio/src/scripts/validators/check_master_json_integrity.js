@@ -25,7 +25,7 @@ jsonDirs.forEach(pattern => {
   files.forEach(filePath => {
     totalChecked++;
     const fileName = path.basename(filePath);
-    if (fileName.startsWith('blog_') || fileName.startsWith('ui_') || fileName.startsWith('common_')) {
+    if (fileName.startsWith('blog_') || fileName.startsWith('ui_') || fileName.startsWith('common_') || fileName.startsWith('_')) {
       return; // 메타 딕셔너리 JSON 파일은 개별 블로그 포스트 검사에서 예외 처리
     }
     const rawText = fs.readFileSync(filePath, 'utf8');

@@ -11,10 +11,10 @@
       "ko": {
         "title": "버섯 신선하게 보관하는 법: 과학적 보관 가이드",
         "description": "공인된 안전 가이드라인에 따른 버섯의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-        "authority": "<strong>RDA & USDA</strong>",
-        "intro": "버섯 표면의 미세한 먼지가 신경 쓰여 깨끗이 물로 씻은 뒤 락앤락에 담아 보관하셨나요? 이는 버섯이 끈적하게 변하고 썩게 만드는 가장 빠른 지름길입니다. 버섯 보관 비법을 알려드립니다.",
+        "authority": "<strong>농촌진흥청(RDA) & 식품의약품안전처(MFDS) & 미국 농무부(USDA)</strong>",
+        "intro": "버섯 표면의 미세한 먼지가 신경 쓰여 물로 깨끗이 씻은 뒤 밀폐 용기에 담아 보관해 본 적 있으시죠? 🍄\n\n버섯은 식물이 아닌 균류(Fungi) 생물로, 과육 전체가 미세한 균사체 네트워크로 연결된 스펀지 같은 다공성 구조를 갖추고 있습니다. 보관 전에 물로 씻으면 수분을 빠르게 흡수하여 조직이 무르고, 세균성 무름병균(Pseudomonas)이나 곰팡이가 번식하기 가장 좋은 환경이 됩니다.\n\n오늘 FreshSnap에서는 농촌진흥청(RDA)과 미국 농무부(USDA)의 가이드를 바탕으로, 버섯 고유의 쫄깃한 식감과 구아닐산 감칠맛 성분을 안전하게 지켜주는 3단계 과학적 보관 비법을 전해드립니다. 🛡️",
         "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-        "whyDesc": "각 식재료의 고유한 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
         "guideTitle": "과학적으로 검증된 보관 가이드",
         "cautionTitle": "보관 시 필수 규칙 및 주의사항",
         "tags": [
@@ -24,48 +24,48 @@
         ],
         "cautions": [
           {
-            "title": "표면이 끈적거리는 버섯은 섭취 금지 ⚠️",
-            "desc": "버섯을 꺼냈을 때 표면에 끈적한 진액이 묻어나거나 시큼한 상한 냄새가 난다면, 유해균과 곰팡이가 번식한 상태이므로 가차 없이 전량 폐기해야 합니다."
+            "title": "표면이 끈적거리거나 시큼한 냄새가 나는 버섯은 절대 섭취하지 마세요 ⚠️",
+            "desc": "버섯 표면에 끈적이는 투명 진액이 생기거나 시큼한 냄새가 난다면 세균(슈도모나스 등)에 의해 단백질과 유기물이 부패한 상태입니다. 세균 독소는 가열해도 파괴되지 않으므로 식중독 예방을 위해 전량 폐기해야 합니다."
           },
           {
-            "title": "장기 보관 시 데친 후 냉동 보관하세요 ❄️",
-            "desc": "3~5일 이상 오래 보관해야 할 때는 끓는 물에 소금을 아주 살짝 넣어 30초간 데친 뒤, 물기를 꾹 짜서 지퍼백에 얼려야 맛과 질감이 보존됩니다."
+            "title": "장기 보관 시에는 살짝 데친 후 냉동 보관하세요 ❄️",
+            "desc": "버섯을 생으로 오래 두면 3~5일 내에 갈변하고 무릅니다. 5일 이상 장기 보관할 때는 끓는 물에 30초간 데쳐(블랜칭) 효소 작용을 멈춘 뒤, 수분을 꼭 짜서 냉동(-18℃ 이하) 보관하면 6개월간 맛과 영양을 유지할 수 있습니다."
           }
         ],
         "steps": [
           {
-            "name": "절대 세척하지 않고 보관하기 — 수분 흡수 차단 ❌💧",
-            "text": "버섯은 미세 기공이 가득해 스펀지처럼 물을 빨아들입니다. 씻어서 보관하면 버섯 내부의 조직이 붕괴되어 쫄깃한 식감과 독특한 향 성분이 다 날아갑니다. 요리 직전 가볍게 털기만 하세요."
+            "name": "보관 전 물 세척 절대 금지 — 수분 흡수 및 조직 붕괴 방지 ❌💧",
+            "text": "버섯은 스펀지 구조로 수분을 빠르게 흡수합니다. 💡 보관 팁: 보관 전 물로 씻으면 과육 세포가 물을 머금어 쫄깃한 식감과 구아닐산 감칠맛 성분이 손실되고 곰팡이가 급격히 번식합니다. 흙이나 이물질은 요리 직전에 마른 천이나 요리용 솔로 가볍게 털어내세요."
           },
           {
-            "name": "종이봉투나 키친타월로 감싸 밀봉하기 — 습기 제거 📦",
-            "text": "일반 비닐에 보관하면 버섯 자체의 호흡으로 인해 생긴 결로 현상으로 금방 상합니다. 수분을 자연스럽게 흡수하고 통풍시켜주는 갈색 종이봉투(크라프트지)나 키친타월에 싸서 보관해야 합니다."
+            "name": "종이봉투나 키친타월로 감싸 보관하기 — 결로 방지 및 습도 조절 📦",
+            "text": "비닐봉지에 버섯을 보관하면 호흡 작용으로 발생한 수분이 내부에 갇혀 결로가 생깁니다. 💡 보관 팁: 수분을 적절히 흡수하고 통기성을 제공하는 갈색 종이봉투(크라프트지)나 키친타월로 버섯을 감싸주세요. 과도한 습기를 흡수하여 무름 현상을 방지합니다."
           },
           {
-            "name": "냉장실 일반 선반에 눌리지 않게 보관 — 냉장 보관 (3일)",
-            "text": "버섯은 조직이 부드러워 다른 무거운 식재료 아래에 깔려 짓눌리면 세포벽이 상해 검게 변하고 부패가 시작됩니다. 냉장고 상단 칸이나 야채칸 맨 위에 눌림이 없도록 편안히 올려두세요."
+            "name": "냉장실 선반 상단에 눌리지 않게 보관하기 — 냉장 보관 (3~5일) ❄️",
+            "text": "버섯은 충격과 압력에 매우 약합니다. 💡 보관 팁: 종이 포장한 버섯을 무거운 식재료 아래에 놓으면 세포벽이 파괴되어 갈변과 부패가 촉진됩니다. 냉장고 야채칸 상단이나 본체 선반에 눌림이 없도록 독립적으로 보관(1~4℃)해 주세요."
           }
         ],
         "faqs": [
           {
-            "question": "버섯을 보관 전에 절대 물로 씻으면 안 되는 이유는?",
-            "answer": "버섯은 스펀지처럼 주변 수분을 빠르게 흡수합니다. 물이 닿으면 갈변이 일어나고 쫄깃한 식감과 고유의 향이 소실되며 하루 만에 곰팡이가 슬어 썩어버립니다. 요리 직전에 가볍게 털어내세요."
+            "question": "버섯을 보관하기 전에 절대 물로 씻으면 안 되는 과학적 이유는 무엇인가요?",
+            "answer": "버섯은 균사체로 이루어진 다공성 구조여서 물에 닿으면 순식간에 흡수합니다. 수분을 흡수하면 세포 조직이 약해지고 효소에 의한 갈변 작용과 세균성 부패가 급격히 진행되며, 고유의 향과 아미노산 감칠맛 성분이 씻겨 나가기 때문입니다. 물 세척은 반드시 조리 직전에 하셔야 합니다."
           },
           {
-            "question": "버섯이 끈적거리고 신맛이 나는데 먹어도 되나요?",
-            "answer": "아닙니다. 표면이 미끈거리거나 시큼한 냄새, 신맛이 난다면 균류의 부패 작용이 일어난 상태이므로 식중독 예방을 위해 즉시 전량 폐기해야 합니다."
+            "question": "버섯을 오랫동안 신선하게 보관하기 위한 냉동 보관 방법은 무엇인가요?",
+            "answer": "버섯을 먹기 좋은 크기로 잘라 끓는 물에 소금을 약간 넣고 30초간 데친 후(블랜칭), 얼음물에 식혀 수분을 완벽히 제거합니다. 이를 냉동 지퍼백에 담아 냉동실(-18℃ 이하)에 두면 최대 6개월간 변질 없이 보관할 수 있으며, 요리 시 해동 없이 바로 투입하면 아삭한 식감이 유지됩니다."
           }
         ]
       },
       "en": {
-        "title": "How to Store Mushroom Fresh: Scientific Storage Guide",
-        "description": "Learn the best storage temperature, methods, and duration for Mushroom based on official safety guidelines.",
-        "authority": "<strong>RDA & USDA</strong>",
-        "intro": "Do you wash mushrooms with water before cooking? This common habit ruins their unique flavor and texture while accelerating rot. Today, FreshSnap shares professional mushroom storage and cleaning tips.",
-        "whyTitle": "Why store like this? Scientific facts",
-        "whyDesc": "Understanding the unique characteristics of each ingredient and following the proper storage method is extremely important for maintaining freshness and hygiene.",
+        "title": "How to Keep Mushrooms Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for mushrooms based on official safety guidelines.",
+        "authority": "<strong>RDA & MFDS & USDA</strong>",
+        "intro": "Do you wash fresh mushrooms with water and seal them in plastic containers out of concern for surface dirt? 🍄\n\nMushrooms are fungi, not plants, composed of a porous network of microscopic hyphae that act like a sponge. Washing mushrooms before storage causes them to absorb water rapidly, breaking down cellular structures and creating the perfect environment for bacterial soft rot (Pseudomonas) and mold.\n\nToday, FreshSnap shares a scientifically proven 3-step storage guide based on recommendations from the USDA and RDA to protect the firm texture, rich umami flavor, and freshness of your mushrooms for longer. 🛡️",
+        "whyTitle": "Why Store Mushrooms This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
         "guideTitle": "Scientifically Proven Storage Guide",
-        "cautionTitle": "Crucial Rules and Cautions",
+        "cautionTitle": "Essential Storage Rules and Cautions",
         "tags": [
           "Mushroom",
           "Scientifically Proven Storage Guide",
@@ -73,48 +73,48 @@
         ],
         "cautions": [
           {
-            "title": "Never wash mushrooms with water before storing",
-            "desc": "Mushrooms absorb water like a sponge. Washing them makes them slimy and causes them to rot within a day."
+            "title": "Never eat mushrooms that feel slimy or smell sour ⚠️",
+            "desc": "If mushrooms develop a slimy translucent coating or emit a sour smell, bacteria (such as Pseudomonas) have decomposed their proteins and organic matter. Bacterial toxins are heat-resistant, so discard the entire batch immediately to prevent food poisoning."
           },
           {
-            "title": "Cover with paper towels in airtight containers",
-            "desc": "Mushrooms continuously release moisture. Wrapping them in paper towels absorbs excess condensation and prevents spoilage."
+            "title": "Blanch before freezing for long-term storage ❄️",
+            "desc": "Raw mushrooms kept in the fridge undergo browning and softening within 3 to 5 days. For storage beyond 5 days, blanch sliced mushrooms in boiling water for 30 seconds to stop enzymatic browning, squeeze out excess water, and freeze (-18°C) for up to 6 months."
           }
         ],
         "steps": [
           {
-            "name": "Never wash mushrooms before storing — Avoid water absorption ❌💧",
-            "text": "Mushrooms have porous structures and absorb water like a sponge. Washing them before storage ruins their firm texture and unique aroma. Simply brush off dirt right before cooking."
+            "name": "Never wash with water before storage — Prevent Water Absorption & Breakdown ❌💧",
+            "text": "Mushrooms have a porous structure that absorbs moisture instantly. 💡 Storage Tip: Washing mushrooms before storage causes cells to become waterlogged, destroying their chewy texture and guanylic acid umami flavor while accelerating mold growth. Gently wipe off dirt with a dry cloth or soft brush right before cooking."
           },
           {
-            "name": "Wrap in a paper bag or paper towels — Moisture control 📦",
-            "text": "Storing mushrooms in a plastic bag traps moisture from their respiration, causing condensation and fast decay. Wrap them in paper towels or place them in a brown paper bag which absorbs excess moisture."
+            "name": "Wrap in a paper bag or paper towels — Moisture Control & Airflow 📦",
+            "text": "Storing mushrooms in plastic bags traps respiratory moisture, creating condensation. 💡 Storage Tip: Wrap mushrooms in paper towels or place them inside a brown paper bag (kraft paper) that absorbs moisture while providing breathability, keeping the mushroom surface dry."
           },
           {
-            "name": "Store on a middle shelf without pressure — Refrigerated Storage (3Days)",
-            "text": "Mushrooms have delicate structures. If crushed under heavy food items, their cell walls break down, causing them to turn black and rot. Place them gently on refrigerator shelves or on top of other vegetables."
+            "name": "Store on a refrigerator shelf without compression — Cold Storage (3–5 Days) ❄️",
+            "text": "Mushrooms are physically delicate. 💡 Storage Tip: Placing heavy items on top of mushrooms crushes their cell walls, causing rapid browning and decay. Store them loosely on an upper refrigerator shelf or on top of the crisper drawer (1–4°C)."
           }
         ],
         "faqs": [
           {
-            "question": "Why should mushrooms never be washed before storage?",
-            "answer": "Mushrooms absorb water like a sponge. Washing them leads to rapid browning, loss of texture and aroma, and triggers mold within 24 hours."
+            "question": "What is the scientific reason for NEVER washing mushrooms before storage?",
+            "answer": "Mushrooms consist of a porous hyphal network that absorbs water like a sponge. Water absorption weakens cellular walls, triggers rapid enzymatic browning, accelerates bacterial soft rot, and leaches out essential amino acids and guanylic acid umami compounds. Always clean them with a brush or cloth right before cooking."
           },
           {
-            "question": "My mushrooms are slimy and smell slightly sour. Are they safe?",
-            "answer": "No, slime, sour odors, or sour taste indicate bacterial spoilage. Consuming them causes food poisoning; discard the entire batch immediately."
+            "question": "What is the best way to freeze mushrooms for long-term storage?",
+            "answer": "Slice mushrooms into bite-sized pieces and blanch in boiling water with a pinch of salt for 30 seconds. Cool immediately in ice water, pat completely dry with paper towels, and place in a freezer Ziploc bag below -18°C (-0.4°F). This preserves texture and nutrients for up to 6 months, and they can be added directly to hot dishes without thawing."
           }
         ]
       },
       "ja": {
-        "title": "キノコの鮮度を保つ保存方法：科学的保管ガイド",
-        "description": "公的安全基準に基づくキノコの最適な保存温度、保管方法、保存期間について解説します。",
-        "authority": "<strong>農村振興庁(RDA) & 米国農務省(USDA)</strong>",
-        "intro": "キノコを調理する前に水で綺麗に洗っていませんか？実はその習慣が、キノコ特有の風味と食感を損ない、腐敗スピードを何倍も早める原因になります。正しい保存方法をご紹介します。",
-        "whyTitle": "なぜこのように保存するのか？科学的な事実",
-        "whyDesc": "食材ごとの特性を理解し、正しい保存方法を実践することは、鮮度キープと衛生管理において非常に重要です。",
+        "title": "キノコを新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくキノコの最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "<strong>農村振興庁(RDA) & 食品医薬品安全処(MFDS) & 米国農務省(USDA)</strong>",
+        "intro": "キノコの表面の汚れが気になって水できれいに洗ってから密閉容器に保存していませんか？🍄\n\nキノコは植物ではなく菌類（Fungi）であり、傘や柄の全体が微細な菌糸体で構成されたスポンジのような多孔質構造を持っています。保存前に水洗いすると水分を急速に吸収して組織が崩れ、細菌性の軟腐病菌（シュードモナス等）やカビが繁殖しやすい環境になってしまいます。\n\n本日FreshSnapでは、農村振興庁（RDA）および米国農務省（USDA）のガイドラインに基づき、キノコ特有の歯ごたえと旨味成分を守る3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
         "guideTitle": "科学的に検証された保存ガイド",
-        "cautionTitle": "保存時の注意点",
+        "cautionTitle": "保存時の必須ルールと注意事項",
         "tags": [
           "キノコ",
           "科学的に検証された保存ガイド",
@@ -122,48 +122,48 @@
         ],
         "cautions": [
           {
-            "title": "保存する前にキノコを絶対に水洗いしないでください",
-            "desc": "キノコはスポンジのように水分を吸い込みます。水洗いするとヌルヌルになり、一日で腐ってしまいます。汚れは乾いた布かブラシで落としてください。"
+            "title": "表面がぬめり酸っぱい臭いがするキノコは絶対に食べないでください ⚠️",
+            "desc": "キノコの表面に粘り気のある透明な液が出たり酸っぱいニオイがする場合は、細菌によってタンパク質や有機物が腐敗した状態です。細菌毒素は加熱しても分解されないため、食中毒予防のため直ちに全量を破棄してください。"
           },
           {
-            "title": "密閉容器に入れる際はキッチンペーパーで包んでください",
-            "desc": "キノコは保存中も呼吸し水分を放出します。ペーパーで包むことで、容器内の湿気を吸収し、水滴による腐敗を防ぎます。"
+            "title": "長期保存する場合はサッと下茹で（ブランチング）して冷凍してください ❄️",
+            "desc": "生キノコは冷蔵庫で3〜5日経つと褐変して柔らかくなります。5日以上長期保存する場合は、沸騰したお湯で30秒間下茹でして酵素の働きを止め、水気を絞って冷凍（-18℃以下）保存すると6ヶ月間美味しさと栄養を保てます。"
           }
         ],
         "steps": [
           {
-            "name": "絶対に洗わずに保存する — 水分吸収の防止 ❌💧",
-            "text": "きのこは微細な気孔が多く, スポンジのように水分を吸い込みます。洗ってから保存すると, きのこの組織が崩れ, 食感や独特の風味が失われます。調理の直前に汚れを軽く払うだけにしてください。"
+            "name": "保存前の水洗いは絶対に避ける — 水分吸収と組織崩壊の防止 ❌💧",
+            "text": "キノコはスポンジ構造のため水分を急速に吸い込みます。💡保存のコツ：保存前に水で洗うと細胞が水を含んで歯ごたえやグアニル酸などの旨味成分が失われ、カビが激しく繁殖します。汚れは調理直前に乾いた布や調理用ブラシで優しく払ってください。"
           },
           {
-            "name": "紙袋やキッチンペーパーで包んで密閉する — 湿気対策 📦",
-            "text": "ビニール袋に入れて保存すると, きのこの呼吸によって生じた水滴が袋にこもり, すぐに傷んでしまいます。水分を吸収し風通しを良くするために, 紙袋やペーパーで包んで保存してください。"
+            "name": "紙袋やキッチンペーパーで包んで保存する — 結露防止と湿度調整 📦",
+            "text": "ポリ袋にキノコを入れると、呼吸で発生した水分が内部にこもって結露が生じます。💡保存のコツ：水分を吸収し通気性のある茶色の紙袋（クラフト紙）やキッチンペーパーでキノコを包んでください。余分な湿気を吸い取りぬめりの発生を防ぎます。"
           },
           {
-            "name": "冷蔵室の棚に潰れないように保存 — 冷蔵保存 (3日間)",
-            "text": "きのこは組織が柔らかいため, 他の重い食材の下敷きになって潰れると細胞が崩れて黒く変色し, 腐敗が始まります。冷蔵室の上段や野菜室の一番上など, 上に物が乗らない場所に置いてください。"
+            "name": "冷蔵室の棚に潰れないよう置く — 冷蔵保存 (3〜5日) ❄️",
+            "text": "キノコは衝撃や圧力に非常に弱いです。💡保存のコツ：重い食材の下敷きになると細胞壁が破壊され、黒変と腐敗が早まります。冷蔵室の上段や野菜室の一番上など、上に物が乗らない場所（1〜4℃）で潰さないよう単独で保存してください。"
           }
         ],
         "faqs": [
           {
-            "question": "キノコを保存前に絶対に水洗いしてはいけない理由は何ですか？",
-            "answer": "キノコはスポンジのように周囲の水分を急速に吸収します。水がつくと褐変が起こり、食感や香りが失われるだけでなく、カビが発生して腐ってしまいます。"
+            "question": "キノコを保存前に絶対に水洗いしてはいけない科学的な理由は何ですか？",
+            "answer": "キノコは菌糸体からなる多孔質構造のため、水に触れると一瞬で吸収してしまうからです。水分を吸うと細胞組織が弱まり、酵素による褐変作用や細菌性腐敗が急激に進むほか、固有の香りやアミノ酸などの旨味成分が流れ出てしまうためです。洗うのは調理直前だけにしてください。"
           },
           {
-            "question": "キノコがベタベタして酸っぱい味がしますが、食べてもいいですか？",
-            "answer": "いいえ、表面がぬめったり酸っぱい臭い・味がする場合は細菌が繁殖しています。食中毒防止のため、直ちに廃棄してください。"
+            "question": "キノコを長期間新鮮に保つための冷凍保存方法は何ですか？",
+            "answer": "キノコを食べやすい大きさに切り、少量の塩を入れた沸騰湯で30秒間下茹で（ブランチング）後、氷水で冷まして水分を完全に拭き取ります。これを冷凍用ジッパーバッグに入れて冷凍室（-18℃以下）で保存すると最大6ヶ月間変質せず、調理時は解凍せずそのまま鍋などに入れることでシャキシャキ感が保たれます。"
           }
         ]
       },
       "zh": {
-        "title": "如何保鲜储存蘑菇：科学储存指南",
+        "title": "如何保持蘑菇新鲜：科学储存指南",
         "description": "根据官方食品安全指南，了解蘑菇的最佳储存温度、方式和保鲜时长。",
-        "authority": "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA)</strong>",
-        "intro": "您在做菜前会用水清洗蘑菇吗？这个常见的习惯不仅会破坏蘑菇特有的风味与口感，还会使其变质腐烂的速度加快数倍。今天，FreshSnap为您分享专业的蘑菇保鲜与清洁窍门。",
+        "authority": "<strong>韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS) & 美国农务部(USDA)</strong>",
+        "intro": "您是否曾因担心蘑菇表面的泥沙，而在存放前用水洗净并装入保鲜盒？🍄\n\n蘑菇并非植物，而是属于真菌（Fungi）。其整体是由微细菌丝体构成的多孔海绵状结构。储存前冲洗会导致蘑菇迅速吸收水分，破坏内部细胞组织，为细菌性软腐病菌（如假单胞菌）与霉菌的滋生提供绝佳环境。\n\n今天FreshSnap基于韩国农村振兴厅(RDA)和美国农务部(USDA)的指南，为您带来3步科学保存秘诀，帮您安全锁住蘑菇特有的鲜美口感与鸟苷酸等旨味成分。🛡️",
         "whyTitle": "为什么要这样储存？科学原理",
-        "whyDesc": "了解每种食材的独特特性并遵循正确的储存方法，对于保持新鲜度和卫生至关重要。",
+        "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
         "guideTitle": "科学验证的储存指南",
-        "cautionTitle": "储存注意事项",
+        "cautionTitle": "储存必需规则及注意事项",
         "tags": [
           "蘑菇",
           "科学验证的储存指南",
@@ -171,48 +171,48 @@
         ],
         "cautions": [
           {
-            "title": "储存前千万不要清洗蘑菇",
-            "desc": "蘑菇吸水性极强。清洗会使其变得黏糊糊，并在一天内变质。泥沙用干布或小刷子轻轻除掉即可。"
+            "title": "表面发黏且散发酸臭味的蘑菇切勿食用 ⚠️",
+            "desc": "如果蘑菇表面渗出黏稠的透明液体或散发出酸腐异味，说明蛋白质与有机物已在细菌（如假单胞菌）作用下腐败。细菌毒素加热也无法消除，为预防食物中毒，必须整批丢弃。"
           },
           {
-            "title": "放入密封容器时请垫上厨房纸巾",
-            "desc": "蘑菇在保存期间会持续释放水分。用纸巾包裹可以吸收容器内的冷凝水，防止因潮湿导致腐烂。"
+            "title": "长期保存请焯水后冷冻 ❄️",
+            "desc": "生蘑菇冷藏3~5天后就会褐变变软。若需保存5天以上，请放入沸水中焯水（烫漂）30秒以中止酶活性，挤干水分后放入冷冻室（-18℃以下），可封存风味与营养长达6个月。"
           }
         ],
         "steps": [
           {
-            "name": "切勿清洗保存 — 阻断水分吸收 ❌💧",
-            "text": "菇类表面布满微小孔隙，会像海绵一样迅速吸水。如果洗过后再保存，菇类内部组织会软烂塌陷，使其失去弹牙的口感和独特鲜味。烹饪前只需用纸巾轻轻掸掉杂质即可。"
+            "name": "储存前严禁用水冲洗 — 阻断吸水与组织塌陷 ❌💧",
+            "text": "蘑菇的多孔海绵结构使其吸水极快。💡储存小贴士：储存前洗水会导致细胞充水，破坏弹牙口感并使鸟苷酸等鲜味物质流失，同时加速霉菌滋生。表面的泥沙杂质请在烹饪前用干布或小刷子轻掸即可。"
           },
           {
-            "name": "用纸袋或厨房纸包裹密封 — 吸除湿气 📦",
-            "text": "如果用普通塑料袋保存，菇类自身呼吸产生的水汽无法散发，会形成冷凝水使其很快腐烂。应使用能吸收湿气并保持微量透气的纸袋（牛皮纸）或厨房纸巾包裹后再收纳。"
+            "name": "用纸袋或厨房纸巾包裹 — 防结露与调节湿度 📦",
+            "text": "将蘑菇密封在塑料袋中，其呼吸作用产生的水汽会被困在内部形成结露。💡储存小贴士：用具有吸湿性和透气性的牛皮纸袋或厨房纸巾包裹蘑菇。纸张能吸收多余湿气，保持蘑菇表面干爽。"
           },
           {
-            "name": "存放在冷藏室隔板上避免挤压 — 冷藏储存 (3天)",
-            "text": "菇类组织娇嫩，如果压在重物之下，细胞壁破损会导致其变黑并开始变质腐烂。应将其平放在冰箱上层层架，或蔬菜盒的最上方，避免受任何重压。"
+            "name": "存放在冷藏室隔板上避免挤压 — 冷藏保存 (3~5天) ❄️",
+            "text": "蘑菇组织十分娇嫩。💡储存小贴士：若压在重物之下，细胞壁破裂会导致蘑菇迅速发黑变质。请将其平放在冰箱上层隔板或蔬菜保鲜盒的最上方（1~4℃），避免受压。"
           }
         ],
         "faqs": [
           {
-            "question": "为什么蘑菇在存放前绝对不能洗？",
-            "answer": "蘑菇像海绵一样会迅速吸收周围的水分。接触水会导致变褐，失去弹性和特有香气，且在一天内就会滋生霉菌腐烂。"
+            "question": "蘑菇在储存前绝对不能用水洗的科学依据是什么？",
+            "answer": "蘑菇是由菌丝体构成的多孔结构，接触水后会瞬间吸收水分。吸水会削弱其细胞组织，急剧加速酶促褐变与细菌性腐败，同时还会冲洗掉特有香气与氨基酸旨味成分。水洗请务必留到烹饪前进行。"
           },
           {
-            "question": "蘑菇表面发黏且有酸味还能吃吗？",
-            "answer": "不能。表面发黏、有酸味或异味表明已经发生变质，为了预防食物中毒，必须立即全部扔掉。"
+            "question": "长期保存蘑菇的正确冷冻方法是什么？",
+            "answer": "将蘑菇切成适口大小，放入加有少许盐的沸水中焯水（烫漂）30秒，捞出后立即浸入冰水冷却并彻底吸干水分。装入冷冻拉链袋放入冷冻室（-18℃以下），可保存长达6个月，烹饪时无须解冻直接下锅即可保持爽脆口感。"
           }
         ]
       },
       "es": {
-        "title": "Cómo almacenar Champiñón fresco: Guía científica de conservación",
-        "description": "Descubra la mejor temperatura, métodos y duración para conservar Champiñón según las directrices oficiales de seguridad.",
-        "authority": "<strong>RDA & USDA</strong>",
-        "intro": "¿Lava los champiñones con agua antes de cocinarlos? Este hábito daña su sabor y textura, y acelera su descomposición. Hoy, FreshSnap comparte trucos de conservación y limpieza.",
+        "title": "Cómo mantener los champiñones frescos: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y la duración de conservación óptimos para los champiñones según las directrices oficiales de seguridad.",
+        "authority": "<strong>RDA & MFDS & USDA</strong>",
+        "intro": "¿Acostumbra lavar los champiñones y setas con agua y guardarlos en recipientes herméticos por miedo a la suciedad? 🍄\n\nLos champiñones no son plantas, sino hongos (Fungi) formados por una red porosa de hifas microscópicas que actúan como una esponja. Lavarlos antes de guardarlos hace que absorban agua rápidamente, rompiendo sus estructuras celulares y creando el ambiente perfecto para la pudrición blanda bacteriana (Pseudomonas) y el moho.\n\nHoy, FreshSnap comparte una guía científica en 3 pasos basada en las recomendaciones del USDA y la RDA para proteger la textura firme, el sabor umami y la frescura de sus setas y champiñones. 🛡️",
         "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
-        "whyDesc": "Comprender las características únicas de cada ingrediente y seguir el método de almacenamiento adecuado es fundamental para mantener la frescura y la higiene.",
+        "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
         "guideTitle": "Guía de almacenamiento científicamente probada",
-        "cautionTitle": "Reglas cruciales y precauciones",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
         "tags": [
           "Champiñón",
           "Guía de almacenamiento científicamente probada",
@@ -220,48 +220,48 @@
         ],
         "cautions": [
           {
-            "title": "Nunca lave los champiñones con agua antes de guardarlos",
-            "desc": "Los champiñones absorben agua como esponjas. Lavarlos los pone babosos y los pudre en un solo día. Limpie la tierra con un paño seco."
+            "title": "Nunca consuma champiñones que se sientan viscosos o huelan agrio ⚠️",
+            "desc": "Si los champiñones presentan un líquido pegajoso o desprenden olor agrio, las bacterias (como Pseudomonas) han descompuesto sus proteínas. Las toxinas bacterianas resisten el calor, por lo que debe desechar todo el paquete inmediatamente para evitar intoxicaciones."
           },
           {
-            "title": "Cubra con toallas de papel en recipientes herméticos",
-            "desc": "Los champiñones liberan humedad constantemente. Envolverlos en toallas de papel absorbe el exceso de condensación y evita que se pudran."
+            "title": "Escalde antes de congelar para un almacenamiento prolongado ❄️",
+            "desc": "Los champiñones crudos se oscurecen y ablandan en 3 a 5 días en el refrigerador. Para conservarlos más de 5 días, escáldelos en agua hirviendo durante 30 segundos para detener el oscurecimiento enzimático, escurra el agua y congólelos (-18 °C) hasta por 6 meses."
           }
         ],
         "steps": [
           {
-            "name": "Nunca lave los champiñones antes de guardarlos — Evite absorber agua ❌💧",
-            "text": "Los champiñones son porosos y absorben agua como esponjas. Lavarlos antes de guardarlos arruina su textura firme y su aroma. Limpie el polvo con un cepillo justo antes de cocinar."
+            "name": "Nunca los lave con agua antes de almacenarlos — Evite la absorción de agua ❌💧",
+            "text": "Los champiñones poseen una estructura porosa que absorbe agua al instante. 💡 Consejo de almacenamiento: Lavarlos antes de guardarlos encharca las células, arruinando su textura firme y su sabor umami, además de acelerar el moho. Limpie la tierra con un paño seco o cepillo suave justo antes de cocinar."
           },
           {
             "name": "Envuelva en una bolsa de papel o toallas de papel — Control de humedad 📦",
-            "text": "Guardar los champiñones en una bolsa de plástico atrapa la humedad de su respiración, causando condensación y pudriéndolos. Envuélvalos en papel de cocina o una bolsa de papel marrón que absorba la humedad."
+            "text": "Guardar champiñones en bolsas de plástico atrapa la humedad de su respiración, generando condensación. 💡 Consejo de almacenamiento: Envuelva los champiñones en toallas de papel o colóquelos en una bolsa de papel kraft que absorba el exceso de humedad manteniendo la superficie seca."
           },
           {
-            "name": "Guarde en una repisa media sin presión — Almacenamiento Refrigerado (3Días)",
-            "text": "Los champiñones tienen estructuras delicadas. Si se aplastan bajo alimentos pesados, sus paredes celulares se rompen, ennegreciéndolos y pudriéndolos. Colóquelos encima de los demás vegetales."
+            "name": "Guarde en un estante del refrigerador sin presión — Refrigeración (3–5 días) ❄️",
+            "text": "Los champiñones son delicados. 💡 Consejo de almacenamiento: Colocar objetos pesados encima rompe sus paredes celulares, haciendo que se pongan negros y se pudran. Ubíquelos de forma independiente en un estante del refrigerador (1-4 °C) sin que nada los aplaste."
           }
         ],
         "faqs": [
           {
-            "question": "Why should mushrooms never be washed before storage?",
-            "answer": "Mushrooms absorb water like a sponge. Washing them leads to rapid browning, loss of texture and aroma, and triggers mold within 24 hours."
+            "question": "¿Cuál es la razón científica para NO lavar los champiñones antes de guardarlos?",
+            "answer": "Los champiñones están formados por una red porosa de hifas que absorbe agua como una esponja. La absorción de agua debilita las paredes celulares, acelera el oscurecimiento enzimático y la pudrición bacteriana, y disuelve los compuestos de sabor umami. Limpíelos con un cepillo o paño seco justo antes de cocinar."
           },
           {
-            "question": "My mushrooms are slimy and smell slightly sour. Are they safe?",
-            "answer": "No, slime, sour odors, or sour taste indicate bacterial spoilage. Consuming them causes food poisoning; discard the entire batch immediately."
+            "question": "¿Cuál es la mejor manera de congelar champiñones para conservarlos a largo plazo?",
+            "answer": "Corte los champiñones en trozos del tamaño de un bocado y escáldelos en agua hirviendo con una pizca de sal durante 30 segundos. Enfríelos de inmediato en agua helada, séquelos bien con toallas de papel y guárdelos en una bolsa Ziploc para congelador a menos de -18 °C. Conservan su textura y nutrientes hasta por 6 meses."
           }
         ]
       },
       "fr": {
-        "title": "Comment conserver Champignon frais : Guide scientifique de conservation",
-        "description": "Découvrez la température, les méthodes et la durée optimales de conservation pour Champignon selon les directives de sécurité officielles.",
-        "authority": "<strong>RDA & USDA</strong>",
-        "intro": "Lavez-vous les champignons à l'eau avant de les cuire ? Cette habitude détruit leur saveur et leur texture tout en accélérant le pourrissement. Aujourd'hui, FreshSnap vous montre comment faire.",
-        "whyTitle": "Pourquoi conserver ainsi ? Faits scientifiques",
-        "whyDesc": "Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédient et de suivre la bonne méthode de conservation pour préserver la fraîcheur et l’hygiène.",
+        "title": "Comment conserver les champignons frais : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les champignons selon les directives officielles de sécurité.",
+        "authority": "<strong>RDA & MFDS & USDA</strong>",
+        "intro": "Avez-vous l'habitude de laver vos champignons à l'eau et de les enfermer dans des boîtes hermétiques pour éliminer la terre ? 🍄\n\nLes champignons ne sont pas des végétaux mais des champignons (Fungi) composés d'un réseau poreux d'hyphes microscopiques qui agissent comme une éponge. Les laver avant de les ranger leur fait absorber l'eau rapidement, brisant leurs structures cellulaires et créant un milieu idéal pour la pourriture bactérienne (Pseudomonas) et les moisissures.\n\nAujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du USDA et du RDA pour préserver la texture ferme, le goût umami et la fraîcheur de vos champignons. 🛡️",
+        "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
         "guideTitle": "Guide de conservation scientifiquement prouvé",
-        "cautionTitle": "Règles cruciales et précautions",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
         "tags": [
           "Champignon",
           "Guide de conservation scientifiquement prouvé",
@@ -269,48 +269,48 @@
         ],
         "cautions": [
           {
-            "title": "Ne lavez jamais les champignons à l'eau avant stockage",
-            "desc": "Les champignons absorbent l'eau comme des éponges. Les laver les rend visqueux et les fait pourrir en un jour. Brossez-les à sec."
+            "title": "Ne consommez jamais de champignons devenus visqueux ou à l'odeur sûre ⚠️",
+            "desc": "Si les champignons développent un liquide colant ou dégagent une odeur aigre, des bactéries (comme Pseudomonas) ont décomposé leurs protéines. Les toxines bactériennes résistent à la chaleur ; jetez immédiatement tout le paquet pour éviter les intoxications."
           },
           {
-            "title": "Enveloppez de papier absorbant dans les boîtes étanches",
-            "desc": "Les champignons rejettent de l'humidité en continu. Les envelopper de papier absorbant élimine la condensation et évite le pourrissement."
+            "title": "Blanchissez avant de congeler pour une longue conservation ❄️",
+            "desc": "Les champignons crus brunissent et ramollissent sous 3 à 5 jours au réfrigérateur. Pour les garder plus de 5 jours, blanchissez-les 30 secondes dans l'eau bouillante pour stopper l'oxydation, essorez-les bien et congelez-les (-18 °C) jusqu'à 6 mois."
           }
         ],
         "steps": [
           {
-            "name": "Ne jamais laver les champignons avant stockage — Éviter l'absorption d'eau ❌💧",
-            "text": "Les champignons sont très poreux et absorbent l'eau comme des éponges. Les laver avant stockage détruit leur texture et leur parfum. Brossez-les légèrement juste avant de les cuire."
+            "name": "Ne lavez jamais à l'eau avant le stockage — Éviter l'absorption d'eau ❌💧",
+            "text": "Les champignons ont une structure poreuse qui absorbe l'eau instantanément. 💡 Astuce de conservation : Laver les champignons avant stockage détruit leur texture ferme et leur saveur umami tout en accélérant les moisissures. Essuyez la terre avec un chiffon sec ou une brosse douce juste avant la cuisson."
           },
           {
-            "name": "Envelopper dans un sac en papier ou du papier absorbant — Humidité 📦",
-            "text": "Stocker les champignons dans un sac plastique retient l'humidité de leur respiration, créant de la condensation. Enveloppez-les de papier absorbant ou placez-les dans un sac en papier kraft."
+            "name": "Envelopper dans un sachet en papier ou de l'essuie-tout — Contrôle de l'humidité 📦",
+            "text": "Conserver des champignons en sac plastique piège la condensation de leur respiration. 💡 Astuce de conservation : Enveloppez les champignons dans de l'essuie-tout ou placez-les dans un sachet en papier kraft qui absorbe l'excès d'humidité tout en laissant respirer la chair."
           },
           {
-            "name": "Ranger sur une étagère du milieu sans pression — Stockage Réfrigéré (3Jours)",
-            "text": "Les champignons sont délicats. Écrasés sous des aliments lourds, leurs tissus s'abîment, noircissent et pourrissent. Posez-les délicatement sur le dessus dans le bac à légumes."
+            "name": "Ranger sur une étagère du réfrigérateur sans pression — Stockage (3–5 jours) ❄️",
+            "text": "Les champignons sont très délicats. 💡 Astuce de conservation : Placer des objets lourds dessus écrase leurs parois cellulaires, ce qui les fait noircir et pourrir. Posez-les délicatement sur une étagère du réfrigérateur (1-4 °C) sans rien au-dessus."
           }
         ],
         "faqs": [
           {
-            "question": "Why should mushrooms never be washed before storage?",
-            "answer": "Mushrooms absorb water like a sponge. Washing them leads to rapid browning, loss of texture and aroma, and triggers mold within 24 hours."
+            "question": "Quelle est la raison scientifique pour laquelle il ne faut PAS laver les champignons avant stockage ?",
+            "answer": "Les champignons possèdent un réseau d'hyphes très poreux qui absorbe l'eau comme une éponge. L'absorption d'eau fragilise les cellules, accélère le brunissement enzymatique et la pourriture bactérienne, et dissout les acides aminés responsables du goût umami. Brossez-les ou essuyez-les juste avant de les cuisiner."
           },
           {
-            "question": "My mushrooms are slimy and smell slightly sour. Are they safe?",
-            "answer": "No, slime, sour odors, or sour taste indicate bacterial spoilage. Consuming them causes food poisoning; discard the entire batch immediately."
+            "question": "Quelle est la meilleure méthode pour congeler les champignons sur le long terme ?",
+            "answer": "Coupez les champignons en morceaux et blanchissez-les 30 secondes dans l'eau bouillante additionnée d'une pincée de sel. Refroidissez-les dans l'eau glacée, séchez-les bien avec de l'essuie-tout et placez-les dans un sac Ziploc au congélateur (-18 °C). Ils se conservent jusqu'à 6 mois et s'ajoutent directement aux plats chauds."
           }
         ]
       },
       "de": {
-        "title": "Wie man Pilz frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber",
-        "description": "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Pilz basierend auf offiziellen Sicherheitsrichtlinien.",
-        "authority": "<strong>RDA & USDA</strong>",
-        "intro": "Waschen Sie Pilze vor dem Kochen mit Wasser ab? Diese Gewohnheit beeinträchtigt Aroma und Textur und beschleunigt den Verderb. Heute teilt FreshSnap Tipps zur Lagerung und Reinigung.",
+        "title": "Pilze richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Pilze basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "<strong>RDA & MFDS & USDA</strong>",
+        "intro": "Waschen Sie frische Pilze vor der Lagerung ab und verschließen sie in Plastikdosen, um Erde zu entfernen? 🍄\n\nPilze sind keine Pflanzen, sondern Fungi, die aus einem porösen Netzwerk mikroskopischer Hyphen bestehen und Wasser wie ein Schwamm aufsaugen. Das Waschen vor der Lagerung führt zu rascher Wasseraufnahme, zerstört die Zellstruktur und schafft den idealen Nährboden für bakterielle Weichfäule (Pseudomonas) und Schimmel.\n\nHeute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Empfehlungen von USDA und RDA basiert, um die feste Textur, das Umami-Aroma und die Frische Ihrer Pilze zu bewahren. 🛡️",
         "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-        "whyDesc": "Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtige Lagerungsmethode anzuwenden, ist entscheidend für Frische und Hygiene.",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
         "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-        "cautionTitle": "Wichtige Warnhinweise zur Lagerung",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
         "tags": [
           "Pilz",
           "Wissenschaftlich geprüfter Lagerungsratgeber",
@@ -318,48 +318,48 @@
         ],
         "cautions": [
           {
-            "title": "Pilze vor dem Lagern niemals mit Wasser abwaschen",
-            "desc": "Pilze saugen Wasser auf wie ein Schwamm. Das Waschen macht sie matschig und lässt sie in einem Tag verfaulen. Schmutz trocken abbürsten."
+            "title": "Essen Sie niemals Pilze, die sich schleimig anfühlen oder sauer riechen ⚠️",
+            "desc": "Wenn Pilze eine schleimige Schicht bilden oder sauer riechen, haben Bakterien (wie Pseudomonas) Eiweiße zersetzt. Bakteriengifte sind hitzebeständig; entsorgen Sie die gesamte Packung sofort, um Lebensmittelvergiftungen zu vermeiden."
           },
           {
-            "title": "Im Behälter mit Küchenpapier abdecken",
-            "desc": "Pilze geben ständig Feuchtigkeit ab. Das Einwickeln in Küchenpapier absorbiert Kondenswasser und verhindert Fäulnis."
+            "title": "Vor dem Einfrieren für Langzeitlagerung blanchieren ❄️",
+            "desc": "Rohe Pilze werden im Kühlschrank innerhalb von 3 bis 5 Tagen braun und weich. Für eine Lagerung über 5 Tage blanchieren Sie geschnittene Pilze 30 Sekunden in kochendem Wasser, um die Enzymbräunung zu stoppen, pressen Wasser aus und frieren sie (-18 °C) bis zu 6 Monate ein."
           }
         ],
         "steps": [
           {
-            "name": "Pilze vor dem Lagern niemals waschen — Wasseraufnahme vermeiden ❌💧",
-            "text": "Pilze sind porös und saugen Wasser auf wie ein Schwamm. Das Waschen vor der Lagerung zerstört die Textur und das Aroma. Schmutz erst direkt vor dem Kochen abbürsten."
+            "name": "Vor der Lagerung niemals mit Wasser waschen — Wasseraufnahme verhindern ❌💧",
+            "text": "Pilze haben eine poröse Struktur, die Feuchtigkeit sofort aufsaugt. 💡 Lagerungstipp: Das Waschen vor der Lagerung lässt die Zellen volllaufen, zerstört die feste Textur und das Guanylsäure-Umami-Aroma und beschleunigt Schimmel. Erde erst direkt vor dem Kochen mit einem Tuch oder Pinsel abreiben."
           },
           {
-            "name": "In eine Papiertüte oder Küchenpapier einwickeln — Feuchtigkeitsschutz 📦",
-            "text": "Die Lagerung in einer Plastiktüte fängt die Feuchtigkeit aus der Atmung der Pilze ein, was zu Kondenswasser und schnellem Verderb führt. In Küchenpapier einwickeln oder in eine Papiertüte legen."
+            "name": "In eine Papiertüte oder Küchenpapier einwickeln — Feuchtigkeitskontrolle 📦",
+            "text": "Die Lagerung in Plastikbeuteln staut die Ausdünstung der Pilze und erzeugt Kondenswasser. 💡 Lagerungstipp: Wickeln Sie Pilze in Küchenpapier ein oder legen Sie sie in eine braune Papiertüte (Kraftpapier), die Feuchtigkeit aufsaugt und Atmung ermöglicht."
           },
           {
-            "name": "Auf einem mittleren Regal ohne Druck lagern — Kühllagerung (3Tage)",
-            "text": "Pilze sind empfindlich. Wenn sie unter schweren Gegenständen zerdrückt werden, werden sie schwarz und verfaulen. Legen Sie sie vorsichtig oben auf andere Gemüse im Kühlschrank."
+            "name": "Ohne Druck auf einem Kühlschrankregal lagern — Kühllagerung (3–5 Tage) ❄️",
+            "text": "Pilze sind extrem empfindlich. 💡 Lagerungstipp: Werden schwere Gegenstände auf Pilze gelegt, brechen ihre Zellwände, was zu schneller Bräunung und Verfall führt. Lagern Sie sie locker auf einem oberen Kühlschrankregal (1–4 °C)."
           }
         ],
         "faqs": [
           {
-            "question": "Why should mushrooms never be washed before storage?",
-            "answer": "Mushrooms absorb water like a sponge. Washing them leads to rapid browning, loss of texture and aroma, and triggers mold within 24 hours."
+            "question": "Was ist der wissenschaftliche Grund dafür, Pilze vor der Lagerung NIEMALS zu waschen?",
+            "answer": "Pilze bestehen aus einem porösen Hyphennetzwerk, das Wasser wie ein Schwamm aufsaugt. Wasser weicht die Zellwände auf, beschleunigt die enzymatische Bräunung sowie bakterielle Fäulnis und wäscht Umami-Aromastoffe heraus. Reinigen Sie Pilze erst kurz vor dem Kochen mit einem Pinsel oder Tuch."
           },
           {
-            "question": "My mushrooms are slimy and smell slightly sour. Are they safe?",
-            "answer": "No, slime, sour odors, or sour taste indicate bacterial spoilage. Consuming them causes food poisoning; discard the entire batch immediately."
+            "question": "Wie friert man Pilze zur Langzeitlagerung am besten ein?",
+            "answer": "Schneiden Sie die Pilze in Stücke und blanchieren Sie sie 30 Sekunden in kochendem Wasser mit einer Prise Salz. Schrecken Sie sie in Eiswasser ab, tupfen Sie sie gründlich trocken und frieren Sie sie im Ziploc-Beutel bei -18 °C ein. So bleiben Textur und Nährstoffe bis zu 6 Monate erhalten."
           }
         ]
       },
       "pt": {
-        "title": "Como armazenar Cogumelo fresco: Guia científico de conservação",
-        "description": "Descubra la mejor temperatura, métodos y duración de armazenamento para Cogumelo com base nas diretrizes oficiais de segurança.",
-        "authority": "<strong>RDA & USDA</strong>",
-        "intro": "Você lava os cogumelos com água antes de cozinhar? Esse hábito destrói o sabor e a textura e acelera o apodrecimento. Hoje, o FreshSnap compartilha técnicas corretas.",
+        "title": "Como conservar cogumelos frescos: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para cogumelos com base em diretrizes oficiais de segurança.",
+        "authority": "<strong>RDA & MFDS & USDA</strong>",
+        "intro": "Você costuma lavar cogumelos frescos na água e guardá-los em potes herméticos por causa da terra? 🍄\n\nOs cogumelos não são plantas, mas fungos constituídos por uma rede porosa de hifas microscópicas que agem como uma esponja. Lavá-los antes de guardar faz com que absorvam água rapidamente, destruindo a estrutura celular e criando o ambiente perfeito para a podridão bacteriana (Pseudomonas) e mofo.\n\nHoje, o FreshSnap apresenta um guia de conservação em 3 etapas baseado em diretrizes do USDA e da RDA para proteger a textura firme, o sabor umami e o frescor dos seus cogumelos. 🛡️",
         "whyTitle": "Por que armazenar assim? Fatos científicos",
-        "whyDesc": "Comprender as características únicas de cada ingrediente e seguir o método de armazenamento adequado é extremamente importante para manter o frescor e a higiene.",
+        "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
         "guideTitle": "Guia de armazenamento comprovado cientificamente",
-        "cautionTitle": "Reglas cruciales e precauções",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
         "tags": [
           "Cogumelo",
           "Guia de armazenamento comprovado cientificamente",
@@ -367,48 +367,48 @@
         ],
         "cautions": [
           {
-            "title": "Nunca lave os cogumelos antes de guardar",
-            "desc": "Os cogumelos absorvem água como esponja. Lavar deixa gosmento e apodrece em um dia. Limpe a terra com pano seco."
+            "title": "Nunca consuma cogumelos viscosos ou com cheiro azedo ⚠️",
+            "desc": "Se os cogumelos apresentarem um líquido pegajoso ou cheiro azedo, bactérias (como Pseudomonas) decompuseram suas proteínas. As toxinas bacterianas são resistentes ao calor; descarte todo o lote imediatamente para evitar intoxicação alimentaria."
           },
           {
-            "title": "Cubra com papel-toalha nos potes herméticos",
-            "desc": "Cogumelos liberam umidade constantemente. Embrulhar em papel-toalha absorbe a condensação e evita que apodreçam."
+            "title": "Ferva rapidamente (branqueie) antes de congelar para longa conservação ❄️",
+            "desc": "Cogumelos crus na geladeira escurecem e amolecem em 3 a 5 dias. Para guardar por mais de 5 dias, ferva os cogumelos fatiados por 30 segundos na água para parar o escurecimento enzimático, esprema o excesso de água e congele (-18 °C) por até 6 meses."
           }
         ],
         "steps": [
           {
-            "name": "Nunca lave os cogumelos antes de guardar — Evite absorção de água ❌💧",
-            "text": "Cogumelos são porosos e absorvem água como esponjas. Lavá-los antes de guardar destrói a textura firme e o aroma único. Retire a sujeira levemente apenas na hora de cozinhar."
+            "name": "Nunca lave com água antes de guardar — Evite absorção de água ❌💧",
+            "text": "Os cogumelos têm uma estrutura porosa que absorve água instantaneamente. 💡 Dica de conservação: Lavar antes de guardar encharca as células, destruindo a textura firme e o sabor umami, além de acelerar o mofo. Limpe a sujeira a seco com um pano ou escova macia antes de cozinhar."
           },
           {
             "name": "Embrulhe em saco de papel ou papel-toalha — Controle de umidade 📦",
-            "text": "Guardar cogumelos em sacos plásticos retém a umidade da respiração deles, causando condensação e apodrecimento. Embrulhe em papel-toalha ou coloque em um saco de papel pardo."
+            "text": "Guardar cogumelos em sacos plásticos prende a umidade da respiração, gerando condensação. 💡 Dica de conservação: Embrulhe os cogumelos em papel-toalha ou coloque-os em um saco de papel kraft, que absorve o excesso de umidade mantendo a superfície seca."
           },
           {
-            "name": "Guarde em uma prateleira média sem peso por cima — Armazenamento Refrigerado (3Dias)",
-            "text": "Cogumelos têm estruturas delicadas. Se forem amassados por itens pesados, as fibras se rompem, fazendo-os escurecer e apodrecer. Coloque-os com cuidado por cima de outros vegetais."
+            "name": "Guarde em uma prateleira da geladeira sem peso por cima — Refrigeração (3–5 dias) ❄️",
+            "text": "Os cogumelos são delicados. 💡 Dica de conservação: Colocar itens pesados por cima rompe suas paredes celulares, fazendo-os escurecer e apodrecer. Acomode-os de forma solta em uma prateleira da geladeira (1-4 °C)."
           }
         ],
         "faqs": [
           {
-            "question": "Why should mushrooms never be washed before storage?",
-            "answer": "Mushrooms absorb water like a sponge. Washing them leads to rapid browning, loss of texture and aroma, and triggers mold within 24 hours."
+            "question": "Qual é a razão científica para NÃO lavar cogumelos antes de guardar?",
+            "answer": "Os cogumelos são formados por uma rede porosa de hifas que absorve água como uma esponja. A absorção de água enfraquece as paredes celulares, acelera o escurecimento enzimático e a podridão bacteriana, além de dissolver compostos de sabor umami. Limpe-os com uma escova ou pano seco no momento do preparo."
           },
           {
-            "question": "My mushrooms are slimy and smell slightly sour. Are they safe?",
-            "answer": "No, slime, sour odors, or sour taste indicate bacterial spoilage. Consuming them causes food poisoning; discard the entire batch immediately."
+            "question": "Qual é a melhor maneira de congelar cogumelos para conservação de longo prazo?",
+            "answer": "Corte os cogumelos em pedaços e ferva por 30 segundos em água fervente com uma pitada de sal (branqueamento). Esfrie em água com gelo, seque bem com papel-toalha e coloque em um saco Ziploc no freezer (-18 °C). Eles mantêm a textura e nutrientes por até 6 meses."
           }
         ]
       },
       "id": {
         "title": "Cara Menyimpan Jamur agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk Jamur berdasarkan pedoman keselamatan resmi.",
-        "authority": "<strong>RDA & USDA</strong>",
-        "intro": "Apakah Anda mencuci jamur dengan air sebelum dimasak? Kebiasaan ini dapat merusak rasa dan tekstur jamur serta mempercepat pembusukan. Hari ini, FreshSnap membagikan tips penyimpanan jamur.",
-        "whyTitle": "Mengapa disimpan seperti ini? Fakta ilmiah",
-        "whyDesc": "Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpanan yang benar sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk jamur berdasarkan pedoman keselamatan resmi.",
+        "authority": "<strong>RDA & MFDS & USDA</strong>",
+        "intro": "Apakah Anda terbiasa mencuci jamur segar dengan air lalu menyimpannya dalam wadah kedap udara karena khawatir kotoran tanah? 🍄\n\nJamur bukanlah tumbuhan, melainkan fungi yang terdiri dari jaringan hifa mikroskopis berpori yang bekerja seperti spons. Mencuci jamur sebelum disimpan membuatnya menyerap air dengan cepat, merusak struktur sel, dan menciptakan lingkungan sempurna bagi pembusukan bakteri (Pseudomonas) dan jamur.\n\nHari ini, FreshSnap membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan rekomendasi USDA dan RDA untuk menjaga tekstur kenyal, rasa umami yang kaya, dan kesegaran jamur Anda. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
         "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-        "cautionTitle": "Aturan Penting dan Peringatan",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
         "tags": [
           "Jamur",
           "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
@@ -416,36 +416,36 @@
         ],
         "cautions": [
           {
-            "title": "Jangan pernah mencuci jamur dengan air sebelum disimpan",
-            "desc": "Jamur menyerap air seperti spons. Mencucinya membuatnya berlendir dan membusuk dalam sehari. Lap kotoran dengan kain kering."
+            "title": "Jangan pernah mengonsumsi jamur yang berlendir atau berbau asam ⚠️",
+            "desc": "Jika jamur mengeluarkan cairan lengket atau berbau asam, bakteri (seperti Pseudomonas) telah menguraikan proteinnya. Toksin bakteri tahan terhadap panas, jadi segera buang seluruh bagian jamur untuk mencegah keracunan makanan."
           },
           {
-            "title": "Alasi dengan tisu dapur saat disimpan di wadah kedap",
-            "desc": "Jamur terus melepaskan kelembapan. Membungkusnya dengan tisu dapur menyerap kondensasi berlebih dan mencegah pembusukan."
+            "title": "Rebus sebentar (blanching) sebelum dibekukan untuk penyimpanan jangka panjang ❄️",
+            "desc": "Jamur mentah di dalam kulkas akan berubah warna menjadi cokelat dan lembek dalam 3 hingga 5 hari. Untuk menyimpan lebih dari 5 hari, rebus irisan jamur dalam air mendidih selama 30 detik (blanching) untuk menghentikan kecokelatan enzim, peras airnya, lalu bekukan (-18°C) hingga 6 bulan."
           }
         ],
         "steps": [
           {
-            "name": "Jangan mencuci jamur sebelum disimpan — Mencegah penyerapan air ❌💧",
-            "text": "Jamur memiliki struktur berpori dan menyerap air seperti spons. Mencucinya sebelum disimpan akan merusak tekstur kenyal dan aroma khasnya. Cukup bersihkan kotoran sesaat sebelum dimasak."
+            "name": "Jangan pernah mencuci dengan air sebelum disimpan — Cegah Penyerapan Air ❌💧",
+            "text": "Jamur memiliki struktur berpori yang menyerap kelembapan secara instan. 💡 Tips Penyimpanan: Mencuci jamur sebelum disimpan membuat selnya tergenang air, merusak tekstur kenyal dan rasa umami asam guanilat sekaligus mempercepat jamur. Lap kotoran dengan kain kering atau kuas lembut sebelum dimasak."
           },
           {
-            "name": "Bungkus dengan kantong kertas atau tisu dapur — Mengatur kelembapan 📦",
-            "text": "Menyimpan jamur dalam kantong plastik akan menjebak uap air dari respirasinya, memicu pembusukan cepat. Bungkus jamur dengan tisu dapur atau kantong kertas cokelat yang menyerap kelembapan."
+            "name": "Bungkus dengan kantong kertas atau tisu dapur — Kontrol Kelembapan 📦",
+            "text": "Menyimpan jamur dalam kantong plastik memerangkap kelembapan respirasi, menciptakan embun. 💡 Tips Penyimpanan: Bungkus jamur dengan tisu dapur atau masukkan ke dalam kantong kertas cokelat (kertas kraft) yang menyerap kelembapan berlebih sekaligus menjaga permukaan tetap kering."
           },
           {
-            "name": "Simpan di rak tengah kulkas tanpa tertindih — Penyimpanan Dingin (3Hari)",
-            "text": "Jamur memiliki struktur yang rapuh. Jika tertindih bahan makanan yang berat, jaringan jamur akan rusak sehingga menghitam dan membusuk. Taruh jamur dengan hati-hati di rak bagian atas."
+            "name": "Simpan di rak kulkas tanpa tertindih — Simpan Dingin (3–5 Hari) ❄️",
+            "text": "Jamur sangat rapuh secara fisik. 💡 Tips Penyimpanan: Menumpuk benda berat di atas jamur merusak dinding selnya, menyebabkan kecokelatan dan pembusukan cepat. Simpan secara terpisah di rak kulkas bagian atas (1–4°C)."
           }
         ],
         "faqs": [
           {
-            "question": "Why should mushrooms never be washed before storage?",
-            "answer": "Mushrooms absorb water like a sponge. Washing them leads to rapid browning, loss of texture and aroma, and triggers mold within 24 hours."
+            "question": "Apa alasan ilmiah mengapa TIDAK boleh mencuci jamur sebelum disimpan?",
+            "answer": "Jamur terdiri dari jaringan hifa berpori yang menyerap air seperti spons. Penyerapan air melemahkan dinding sel, mempercepat kecokelatan enzim dan pembusukan bakteri, serta melarutkan asam amino dan senyawa umami. Lap atau bersihkan dengan kuas tepat sebelum dimasak."
           },
           {
-            "question": "My mushrooms are slimy and smell slightly sour. Are they safe?",
-            "answer": "No, slime, sour odors, or sour taste indicate bacterial spoilage. Consuming them causes food poisoning; discard the entire batch immediately."
+            "question": "Bagaimana cara terbaik membekukan jamur untuk penyimpanan jangka panjang?",
+            "answer": "Potong jamur menjadi ukuran sekali gigit lalu rebus sebentar (blanching) dalam air mendidih dengan sedikit garam selama 30 detik. Segera dinginkan dalam air es, keringkan hingga benar-benar bebas air dengan tisu dapur, lalu simpan dalam kantong Ziploc freezer di bawah -18°C hingga 6 bulan."
           }
         ]
       }

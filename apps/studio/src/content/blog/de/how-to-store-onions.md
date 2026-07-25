@@ -1,7 +1,7 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "Wie man Zwiebel frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber"
-description: "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Zwiebel basierend auf offiziellen Sicherheitsrichtlinien."
+title: "Zwiebeln richtig frisch halten: Wissenschaftlicher Lagerungsratgeber"
+description: "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Zwiebeln basierend auf offiziellen Sicherheitsrichtlinien."
 pubDate: "2026-01-16"
 updatedDate: "2026-01-16"
 category: "FreshSnap"
@@ -11,20 +11,24 @@ app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & USDA & FSA</strong>"
 steps:
-  - name: "Ungeschält an einem kühlen, gut belüfteten Ort aufhängen — Lagerung bei Raumtemperatur (30Tage)"
-    text: "Ungeschälte Zwiebeln gedeihen an schattigen, gut belüfteten Orten. Wenn man die Zwiebeln einzeln in ein Netz legt (Knoten dazwischen machen) und aufhängt, berühren sie sich nicht und faulen nicht."
-  - name: "Geschälte Zwiebeln trocknen und einzeln in Frischhaltefolie wickeln — Kühllagerung (14Tage) 📦"
-    text: "Wischen Sie Feuchtigkeit von geschälten Zwiebeln ab, wickeln Sie sie einzeln in Frischhaltefolie und lagern sie im Gemüsefach. Dies schützt vor Sauerstoff und hält sie bis zu 10 Tage fest."
-  - name: "Vollständig von Kartoffeln isolieren — Gegenseitigen Verfall verhindern 🛡️"
-    text: "Zwiebeln und Kartoffeln vertragen sich bei der Lagerung nicht. Kartoffeln nehmen Feuchtigkeit und Gase der Zwiebeln auf und keimen schneller. Umgekehrt lässt die Feuchtigkeit der Kartoffeln die Zwiebeln weich werden. Trennen."
+  - name: "Ungeschälte ganze Zwiebeln an einem kühlen, gut belüfteten Ort aufhängen — Raumtemperatur (30 Tage) 🌬️"
+    text: "Ungeschälte Zwiebeln lagern am besten an einem kühlen, schattigen und windigen Ort (10–15 °C). 💡 Lagerungstipp: Geben Sie Zwiebeln einzeln in ein Netz oder eine Strumpfhose und verknoten Sie den Zwischenraum vor dem Aufhängen. Dies verhindert Druckstellen und Weichfäule durch gegenseitigen Kontakt."
+  - name: "Geschälte Zwiebeln gründlich trocknen und einzeln in Folie wickeln — Kühllagerung (14–21 Tage) 📦"
+    text: "Geschälten Zwiebeln fehlt die Schutzschicht, wodurch sie extrem anfällig für Sauerstoffoxidation und Feuchtigkeitsverderb sind. 💡 Lagerungstipp: Tupfen Sie Feuchtigkeit mit Küchenpapier zu 100 % ab, wickeln Sie jede Zwiebel eng in Frischhaltefolie und lagern Sie sie im Gemüsefach (0–4 °C)."
+  - name: "Vollständig von Kartoffeln isolieren — Gegenseitigen Verderb & Keimen verhindern 🛡️"
+    text: "Zwiebeln und Kartoffeln sind Lagerungsgegner, die niemals zusammen aufbewahrt werden dürfen. 💡 Lagerungstipp: Kartoffeln nehmen Feuchtigkeit und Ethylengas der Zwiebeln auf, was schnelles Keimen und Erweichen auslöst. Umgekehrt lässt Kartoffelfeuchtigkeit Zwiebeln schimmeln. Getrennt lagern."
 faqs:
-  - question: "Why shouldn't I store onions with potatoes?"
-    answer: "Storing onions and potatoes together causes onions to release moisture and ethylene gas, making potatoes sprout and soften rapidly. Keep them separated."
-  - question: "What is the best way to store peeled onions?"
-    answer: "Ensure they are completely dry, wrap each onion tightly in plastic wrap, and store them in the fridge. Blocking air contact keeps them fresh for over 2 weeks."
+  - question: "Was ist der wissenschaftliche Grund dafür, Zwiebeln NIEMALS zusammen mit Kartoffeln zu lagern?"
+    answer: "Zwiebeln geben während der Lagerung viel Feuchtigkeit und Ethylengas ab. Wenn Kartoffeln diese Feuchtigkeit und das Ethylen aufnehmen, keimen sie rasch (wobei giftiges Solanin entsteht) und werden weich. Gleichzeitig lässt die von Kartoffeln abgegebene Feuchtigkeit Zwiebeln faulen und schimmeln. Sie müssen räumlich strikt getrennt werden."
+  - question: "Wie bewahrt man geschälte Zwiebeln am besten auf, ohne dass sie weich werden?"
+    answer: "Wenn geschälte Zwiebeln gewaschen wurden, trocknen Sie jeden Wassertropfen auf der Oberfläche gründlich mit Küchenpapier ab. Wickeln Sie jede Zwiebel einzeln luftdicht in Frischhaltefolie ein und legen Sie sie in einer Dose in den Kühlschrank (0–4 °C). Das Blockieren von Sauerstoff und Feuchtigkeitsverlust hält sie 2–3 Wochen knackig."
 ---
 
-Haben Sie Zwiebeln im Netz gekauft und in der Ecke des Balkons gestapelt? Schon bald verfaulen sie an den Druckstellen oder keimen. Heute teilt FreshSnap Tipps zur Feuchtigkeitsregulierung.
+Haben Sie schon einmal ein Netz Zwiebeln gekauft und in einer Balkonecke gestapelt, nur um festzustellen, dass sie an den Kontaktstellen weich wurden, verfaulten oder keimten? 🧅
+
+Zwiebeln sind Zwiebelgemüse, die nach der Ernte weiter atmen und Feuchtigkeit regulieren. Bei warmer, feuchter Lagerung breiten sich Zwiebelweichfäule und Botrytis-Schimmel schnell aus. Die gemeinsame Lagerung mit Kartoffeln löst zudem gegenseitige Feuchtigkeits- und Ethylenreaktionen aus, die beide Gemüse verderben.
+
+Heute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Forschungen von USDA und RDA basiert, um Feuchtigkeit und Gase zu steuern und Ihre Zwiebeln über einen Monat lang knackig und fest zu halten. 🛡️
 
 ---
 
@@ -33,43 +37,43 @@ Haben Sie Zwiebeln im Netz gekauft und in der Ecke des Balkons gestapelt? Schon 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Ungeschält an einem kühlen, gut belüfteten Ort aufhängen — Lagerung bei Raumtemperatur (30Tage)</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Ungeschälte ganze Zwiebeln an einem kühlen, gut belüfteten Ort aufhängen — Raumtemperatur (30 Tage) 🌬️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Ungeschälte Zwiebeln gedeihen an schattigen, gut belüfteten Orten. Wenn man die Zwiebeln einzeln in ein Netz legt (Knoten dazwischen machen) und aufhängt, berühren sie sich nicht und faulen nicht.
+    Ungeschälte Zwiebeln lagern am besten an einem kühlen, schattigen und windigen Ort (10–15 °C). 💡 Lagerungstipp: Geben Sie Zwiebeln einzeln in ein Netz oder eine Strumpfhose und verknoten Sie den Zwischenraum vor dem Aufhängen. Dies verhindert Druckstellen und Weichfäule durch gegenseitigen Kontakt.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Geschälte Zwiebeln trocknen und einzeln in Frischhaltefolie wickeln — Kühllagerung (14Tage) 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Geschälte Zwiebeln gründlich trocknen und einzeln in Folie wickeln — Kühllagerung (14–21 Tage) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Wischen Sie Feuchtigkeit von geschälten Zwiebeln ab, wickeln Sie sie einzeln in Frischhaltefolie und lagern sie im Gemüsefach. Dies schützt vor Sauerstoff und hält sie bis zu 10 Tage fest.
+    Geschälten Zwiebeln fehlt die Schutzschicht, wodurch sie extrem anfällig für Sauerstoffoxidation und Feuchtigkeitsverderb sind. 💡 Lagerungstipp: Tupfen Sie Feuchtigkeit mit Küchenpapier zu 100 % ab, wickeln Sie jede Zwiebel eng in Frischhaltefolie und lagern Sie sie im Gemüsefach (0–4 °C).
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Vollständig von Kartoffeln isolieren — Gegenseitigen Verfall verhindern 🛡️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Vollständig von Kartoffeln isolieren — Gegenseitigen Verderb & Keimen verhindern 🛡️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Zwiebeln und Kartoffeln vertragen sich bei der Lagerung nicht. Kartoffeln nehmen Feuchtigkeit und Gase der Zwiebeln auf und keimen schneller. Umgekehrt lässt die Feuchtigkeit der Kartoffeln die Zwiebeln weich werden. Trennen.
+    Zwiebeln und Kartoffeln sind Lagerungsgegner, die niemals zusammen aufbewahrt werden dürfen. 💡 Lagerungstipp: Kartoffeln nehmen Feuchtigkeit und Ethylengas der Zwiebeln auf, was schnelles Keimen und Erweichen auslöst. Umgekehrt lässt Kartoffelfeuchtigkeit Zwiebeln schimmeln. Getrennt lagern.
   </p>
 </div>
 
 ---
 
-## 2. Wichtige Warnhinweise zur Lagerung
+## 2. Wichtige Regeln und Warnhinweise zur Lagerung
 
 <div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Beschädigte Zwiebeln sofort aussortieren und verbrauchen</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Ungeschälte Zwiebeln niemals feucht in Plastikbeuteln verschließen 💧</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Zwiebeln mit Druckstellen geben Feuchtigkeit und Reifegase ab, wodurch andere Zwiebeln faulen. Zuerst verbrauchen.
+      Das Verschließen feuchter Zwiebeln in Plastikbeuteln oder luftdichten Dosen staut die Atmungsfeuchtigkeit, was innerhalb eines Tages zu Weichwerden und Weißschimmel führt. Ungeschälte Zwiebeln stets trocken und belüftet lagern.
     </p>
   </div>
 </div>
@@ -77,9 +81,9 @@ Haben Sie Zwiebeln im Netz gekauft und in der Ecke des Balkons gestapelt? Schon 
 <div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Zwiebeln niemals zusammen mit Kartoffeln lagern</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Beschädigte oder weiche Zwiebeln sofort aussortieren 🧅</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Zwiebeln geben Feuchtigkeit ab und Kartoffeln setzen Ethylengas frei. Das beschleunigt Verderb und Keimung bei beiden.
+      Eine angeschnittene oder faulige Zwiebel gibt um ein Vielfaches mehr Fäulnisgase und Feuchtigkeit ab als gesunde Zwiebeln, was Nachbarn ansteckt. Regelmäßig kontrollieren, beschädigte Stellen abschneiden und direkt verkochen.
     </p>
   </div>
 </div>
@@ -91,21 +95,21 @@ Haben Sie Zwiebeln im Netz gekauft und in der Ecke des Balkons gestapelt? Schon 
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Why shouldn't I store onions with potatoes?</span>
+      <span>Was ist der wissenschaftliche Grund dafür, Zwiebeln NIEMALS zusammen mit Kartoffeln zu lagern?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Storing onions and potatoes together causes onions to release moisture and ethylene gas, making potatoes sprout and soften rapidly. Keep them separated.
+      Zwiebeln geben während der Lagerung viel Feuchtigkeit und Ethylengas ab. Wenn Kartoffeln diese Feuchtigkeit und das Ethylen aufnehmen, keimen sie rasch (wobei giftiges Solanin entsteht) und werden weich. Gleichzeitig lässt die von Kartoffeln abgegebene Feuchtigkeit Zwiebeln faulen und schimmeln. Sie müssen räumlich strikt getrennt werden.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>What is the best way to store peeled onions?</span>
+      <span>Wie bewahrt man geschälte Zwiebeln am besten auf, ohne dass sie weich werden?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Ensure they are completely dry, wrap each onion tightly in plastic wrap, and store them in the fridge. Blocking air contact keeps them fresh for over 2 weeks.
+      Wenn geschälte Zwiebeln gewaschen wurden, trocknen Sie jeden Wassertropfen auf der Oberfläche gründlich mit Küchenpapier ab. Wickeln Sie jede Zwiebel einzeln luftdicht in Frischhaltefolie ein und legen Sie sie in einer Dose in den Kühlschrank (0–4 °C). Das Blockieren von Sauerstoff und Feuchtigkeitsverlust hält sie 2–3 Wochen knackig.
     </p>
   </details>
 </div>

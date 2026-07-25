@@ -1,7 +1,7 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "鮭の鮮度を保つ保存方法：科学的保管ガイド"
-description: "公的安全基準に基づく鮭の最適な保存温度、保管方法、保存期間について解説します。"
+title: "サーモン（鮭）を新鮮に保つ保存方法：科学的保管ガイド"
+description: "公的安全基準に基づくサーモン（鮭）の最適な保存温度、保管方法、保存期間をご確認ください。"
 pubDate: "2026-05-02"
 updatedDate: "2026-05-02"
 category: "FreshSnap"
@@ -9,22 +9,26 @@ tags: ["食材保存","鮮度保持","salmon"]
 heroImage: "/images/blog/salmon_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>米国食品医薬品局(FDA) & 米国農務省(USDA)</strong>"
+authority: "<strong>米国食品医薬品局(FDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>"
 steps:
-  - name: "表面の脂分と水気を拭き取る — 冷蔵保存 (2日間) 🍣"
-    text: "生鮭の表面にある水分や脂分は, 雑菌が繁殖する主な原因になります。保存する前に, ペーパーで鮭の表裏を軽く押さえて表面の水分を完全に拭き取ってください。"
-  - name: "レモン果汁や料理酒を塗る — 天然の酸化・腐敗防止 🍋"
-    text: "水気を拭き取った鮭の表面に, レモン果汁や少量の料理酒（またはみりん）を薄く塗ります。酸やアルコール成分が雑菌の繁殖を抑え, 脂質の酸化を防ぐ天然の保存料として働きます。"
-  - name: "食品用ラップで空気を抜いて密着包装 — 冷凍保存 (90日間) 📦"
-    text: "下処理をした鮭をラップで空気の入らないようにぴったりと包み, ジッパーバッグに入れて二重に密閉します。冷蔵保存で2日間, 冷凍保存で最大60日間, 鮮度を維持できます。"
+  - name: "表面の脂分と水気（ドリップ）を完全に拭き取る — 細菌繁殖と生臭さの遮断 🍣"
+    text: "生サーモンの表面に出る水分や脂分は、トリメチルアミン生臭さと細菌増殖の主な原因です。💡保存のコツ：保存前にペーパータオルでサーモンの表裏をしっかり押さえ、ドリップと水気を完全に拭き取ることが長持ちの基本です。"
+  - name: "レモン果汁や料理酒（みりん）を薄く塗る — 天然の抗菌・酸化防止 🍋"
+    text: "水気を拭き取ったサーモンの表面に酸性成分やアルコールを塗布します。💡保存のコツ：レモン果汁のクエン酸や料理酒のアルコール分が表面のpHを下げ、雑菌の繁殖を抑えて脂質の酸化を防ぐ天然の防腐剤として働きます。オリーブオイルを薄く塗ると酸素遮断効果がさらに高まります。"
+  - name: "ラップで空気を抜いて密着包装しジッパーバッグで二重密閉する — 冷蔵(1〜2日)、冷凍(60〜90日) 📦"
+    text: "サーモンが空気中の酸素に触れるとオメガ3脂肪酸が急激に酸化します。💡保存のコツ：下処理したサーモンをラップで空気の層が入らないようぴったり包み、ジッパーバッグに入れて二重密閉してください。冷蔵室のパーシャル室・チルド室（0〜2℃）で1〜2日、冷凍室（-18℃以下）で60〜90日新鮮さを維持できます。"
 faqs:
-  - question: "サーモンの表面の色が少し濁っていますが、食べてもいいですか？"
-    answer: "生サーモンが鮮やかなピンク色を失い、くすんだ灰色や黄色に変色している場合は、酸化や細菌繁殖の兆候です。触って粘りがあったり異臭がする場合は食べないでください。"
-  - question: "残った生のサーモンを冷凍保存する際の注意点は？"
-    answer: "水気をキッチンペーパーで完全に取り除き、表面に少量の食用油やオリーブオイルを塗ってから空気が入らないようラップで密閉して冷凍すると、冷凍焼けを防げます。"
+  - question: "サーモンの表面の色が少し濁って明るいピンク色が失われましたが、食べられますか？"
+    answer: "生サーモンが鮮やかなピンク色を失いくすんだ灰色に変色しているのは、酸素接触による脂質の酸化や細菌繁殖が始まったサインです。少しの変色でも弾力がなく、触るとぬめりがあったり酸っぱい異臭がする場合は食中毒の危険が高いため、絶対に食べずに破棄してください。"
+  - question: "残った生サーモンを冷凍保存する際、冷凍障害（フリーザーバーン）を防ぐコツは？"
+    answer: "サーモンの水気をペーパータオルで完全に除去した後、表面にサラダ油やオリーブオイルを薄く塗ってオイルコーティング膜を作ります。その後、ラップで空気が入らないよう密着包装して冷凍用ジッパーバッグに入れれば、乾燥や氷結晶による「冷凍障害（Freezer Burn）」と脂質の酸敗を完璧に防止できます。"
 ---
 
-鮮やかなピンク色の新鮮なサーモンを、そのまま冷蔵庫に2日以上放置していませんか？サーモンは水分が多く、非常に雑菌が繁殖しやすい魚です。本日、FreshSnapでは生臭さを抑えて保存する密閉の秘訣をご紹介します。
+鮮やかなピンク色の新鮮な生サーモンを買ってきたのに、翌日には色合いがくすみ、生臭さが強くなって困った経験はありませんか？🍣
+
+サーモンは水分含有量が高く、不飽和脂肪酸（オメガ3）が豊富なため、空気中の酸素に触れると脂質が急速に酸化（酸敗）しやすい魚です。特に表面に滲み出るドリップ（水分）は、生臭さ（トリメチルアミン）の発生源となり細菌が爆発的に繁殖する温床となります。
+
+本日FreshSnapでは、米国食品医薬品局（FDA）および食品医薬品安全処（MFDS）のガイドラインに基づき、生臭さを抑え、酸化と冷凍障害を防いで鮮度を守る3段階の科学的保存法をご紹介します。🛡️
 
 ---
 
@@ -33,43 +37,43 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">表面の脂分と水気を拭き取る — 冷蔵保存 (2日間) 🍣</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">表面の脂分と水気（ドリップ）を完全に拭き取る — 細菌繁殖と生臭さの遮断 🍣</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    生鮭の表面にある水分や脂分は, 雑菌が繁殖する主な原因になります。保存する前に, ペーパーで鮭の表裏を軽く押さえて表面の水分を完全に拭き取ってください。
+    生サーモンの表面に出る水分や脂分は、トリメチルアミン生臭さと細菌増殖の主な原因です。💡保存のコツ：保存前にペーパータオルでサーモンの表裏をしっかり押さえ、ドリップと水気を完全に拭き取ることが長持ちの基本です。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">レモン果汁や料理酒を塗る — 天然の酸化・腐敗防止 🍋</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">レモン果汁や料理酒（みりん）を薄く塗る — 天然の抗菌・酸化防止 🍋</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    水気を拭き取った鮭の表面に, レモン果汁や少量の料理酒（またはみりん）を薄く塗ります。酸やアルコール成分が雑菌の繁殖を抑え, 脂質の酸化を防ぐ天然の保存料として働きます。
+    水気を拭き取ったサーモンの表面に酸性成分やアルコールを塗布します。💡保存のコツ：レモン果汁のクエン酸や料理酒のアルコール分が表面のpHを下げ、雑菌の繁殖を抑えて脂質の酸化を防ぐ天然の防腐剤として働きます。オリーブオイルを薄く塗ると酸素遮断効果がさらに高まります。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">食品用ラップで空気を抜いて密着包装 — 冷凍保存 (90日間) 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">ラップで空気を抜いて密着包装しジッパーバッグで二重密閉する — 冷蔵(1〜2日)、冷凍(60〜90日) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    下処理をした鮭をラップで空気の入らないようにぴったりと包み, ジッパーバッグに入れて二重に密閉します。冷蔵保存で2日間, 冷凍保存で最大60日間, 鮮度を維持できます。
+    サーモンが空気中の酸素に触れるとオメガ3脂肪酸が急激に酸化します。💡保存のコツ：下処理したサーモンをラップで空気の層が入らないようぴったり包み、ジッパーバッグに入れて二重密閉してください。冷蔵室のパーシャル室・チルド室（0〜2℃）で1〜2日、冷凍室（-18℃以下）で60〜90日新鮮さを維持できます。
   </p>
 </div>
 
 ---
 
-## 2. 保存時の注意点
+## 2. 保存時の必須ルールと注意事項
 
 <div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">表面の水気やドリップをペーパーで完全に拭き取ってください</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">色合いの変化と果肉の弾力をしっかり確認してください ⚠️</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      表面に出る水気やドリップは生臭さの原因になり、腐敗を早めます。包装する前にしっかり拭き取ることが鉄則です。
+      生サーモンが鮮やかなピンク・オレンジ色を失って暗い灰色や褐色に変色していたり、指で押したときに弾力がなくへこんだまま戻らない場合はタンパク質が劣化しています。酸っぱい臭いや粘り気がある場合は直ちに破棄してください。
     </p>
   </div>
 </div>
@@ -77,9 +81,9 @@ faqs:
 <div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">空気が入らないよう真空パックにするか密閉してください</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">冷凍保存時は皮と骨を取り除き小分けしてください ❄️</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      酸素に触れると脂質が酸化し、パサついた食感になってしまいます。空気を抜いて密着包装することで酸化と乾燥を防ぎます。
+      長期間冷凍（60〜90日）する場合、皮の周りの脂質から先に酸敗が進むことがあります。小骨と皮をあらかじめ取り除き、1回分ずつ切り分けて表面にオイルを塗って密着ラップ包装すると、解凍後の食感を保つことができます。
     </p>
   </div>
 </div>
@@ -91,21 +95,21 @@ faqs:
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>サーモンの表面の色が少し濁っていますが、食べてもいいですか？</span>
+      <span>サーモンの表面の色が少し濁って明るいピンク色が失われましたが、食べられますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      生サーモンが鮮やかなピンク色を失い、くすんだ灰色や黄色に変色している場合は、酸化や細菌繁殖の兆候です。触って粘りがあったり異臭がする場合は食べないでください。
+      生サーモンが鮮やかなピンク色を失いくすんだ灰色に変色しているのは、酸素接触による脂質の酸化や細菌繁殖が始まったサインです。少しの変色でも弾力がなく、触るとぬめりがあったり酸っぱい異臭がする場合は食中毒の危険が高いため、絶対に食べずに破棄してください。
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>残った生のサーモンを冷凍保存する際の注意点は？</span>
+      <span>残った生サーモンを冷凍保存する際、冷凍障害（フリーザーバーン）を防ぐコツは？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      水気をキッチンペーパーで完全に取り除き、表面に少量の食用油やオリーブオイルを塗ってから空気が入らないようラップで密閉して冷凍すると、冷凍焼けを防げます。
+      サーモンの水気をペーパータオルで完全に除去した後、表面にサラダ油やオリーブオイルを薄く塗ってオイルコーティング膜を作ります。その後、ラップで空気が入らないよう密着包装して冷凍用ジッパーバッグに入れれば、乾燥や氷結晶による「冷凍障害（Freezer Burn）」と脂質の酸敗を完璧に防止できます。
     </p>
   </details>
 </div>

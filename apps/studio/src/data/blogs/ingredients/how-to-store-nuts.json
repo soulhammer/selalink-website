@@ -11,10 +11,10 @@
       "ko": {
         "title": "견과류 신선하게 보관하는 법: 과학적 보관 가이드",
         "description": "공인된 안전 가이드라인에 따른 견과류의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-        "authority": "<strong>MFDS & USDA & FDA</strong>",
-        "intro": "건강을 위해 매일 먹는 아몬드, 호두를 상온 식탁 위에 투명 병에 담아 보관하셨나요? 오늘 FreshSnap에서는 미국 식품의약국(FDA)의 발암 곰팡이독소 차단 가이드라인에 맞춘 안전한 견과류 보관법을 전합니다.",
+        "authority": "<strong>식품의약품안전처(MFDS) & 미국 농무부(USDA) & 미국 식품의약국(FDA)</strong>",
+        "intro": "건강을 위해 매일 먹는 호두, 아몬드, 피칸을 상온 식탁 위 투명 유리병에 담아 보관해 본 적 있으시죠? 🥜\n\n견과류는 몸에 좋은 불포화지방산이 50~70% 이상 포함되어 있어 빛, 산소, 높은 온도에 노출되면 유지방이 빠르게 산패(Rancidity)됩니다. 특히 상온 다습한 환경에서는 누룩곰팡이가 번식하여 1급 발암물질인 '아플라톡신(Aflatoxin)'을 생성하기 쉽습니다.\n\n오늘 FreshSnap에서는 미국 식품의약국(FDA)과 식품의약품안전처(MFDS)의 안전 가이드라인을 바탕으로, 곰팡이독소를 완벽 차단하고 견과류의 고소함과 바삭함을 6개월 이상 지켜주는 3단계 과학적 보관 비법을 전해드립니다. 🛡️",
         "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-        "whyDesc": "각 식재료의 고유한 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
         "guideTitle": "과학적으로 검증된 보관 가이드",
         "cautionTitle": "보관 시 필수 규칙 및 주의사항",
         "tags": [
@@ -24,48 +24,48 @@
         ],
         "cautions": [
           {
-            "title": "쩐내가 나거나 눅눅한 견과류는 절대 먹지 마세요 ⚠️",
-            "desc": "견과류에서 묵은 기름내가 나거나 만졌을 때 눅눅해진 것은 이미 지방 산패와 아플라톡신 균 증식이 시작된 것입니다. 물로 씻거나 볶아도 독소는 사라지지 않으니 폐기해야 합니다."
+            "title": "쩐내가 나거나 눅눅해진 견과류는 절대 섭취하지 마세요 ⚠️",
+            "desc": "견과류에서 묵은 기름내가 나거나 표면이 눅눅해졌다면 지방 산패와 아플라톡신 곰팡이 독소 생성이 진행된 상태입니다. 물로 씻거나 프라이팬에 볶아도 아플라톡신 독소는 파괴되지 않으므로 망설임 없이 전량 폐기해야 합니다."
           },
           {
-            "title": "견과류를 상처 나지 않게 조심히 다루세요 🥜",
-            "desc": "호두나 아몬드의 껍질 표면에 금이 가거나 가루가 날릴 정도로 충격을 주면 상처 난 틈새로 공기가 들어가 산화가 훨씬 빨라집니다. 봉지를 무리하게 압박하지 마세요."
+            "title": "견과류 알맹이에 상처가 나지 않도록 주의하세요 🥜",
+            "desc": "호두나 아몬드에 강한 충격이 가해져 상처가 나거나 가루가 생기면, 표면적이 넓어져 공기 중 산소와의 접촉이 극대화되고 산패 속도가 수십 배 빨라집니다. 포장 봉지를 세게 압박하지 않도록 주의하세요."
           }
         ],
         "steps": [
           {
-            "name": "개봉 후 무조건 밀봉하여 냉장/냉동실 보관 — 냉장 90일 및 냉동 180일",
-            "text": "견과류는 온도가 높고 습한 상온에 두면 지방 성분이 공기 중 산소와 만나 찌든 내가 나고 1급 발암 곰팡이독소인 아플라톡신(Aflatoxin)이 피어나기 쉬우므로 무조건 밀봉 냉장/냉동해야 합니다."
+            "name": "개봉 후 무조건 밀봉하여 냉장 및 냉동실 보관하기 — 냉장 (90일), 냉동 (180일) ❄️",
+            "text": "견과류는 온도가 높고 습한 상온에 두면 불포화지방산이 공기 중 산소와 결합해 찌든 내가 나고 아플라톡신 독소가 생성됩니다. 💡 보관 팁: 개봉한 견과류는 즉시 밀봉하여 냉장실(0~4℃)에 보관 시 3개월, 냉동실(-18℃ 이하) 보관 시 6개월 이상 변질 없이 안전하게 보관할 수 있습니다."
           },
           {
-            "name": "불투명 밀폐 용기나 지퍼백에 소분 포장 — 빛 차단 📦",
-            "text": "빛과 산소는 견과류 속 양질의 불포화지방산 산패를 촉진합니다. 투명 지퍼백보다는 차광이 되는 불투명 백이나 어두운 밀폐 밀봉 용기에 담아 산소 흡수제(실리카겔)를 넣어 공기를 차단하는 것이 좋습니다."
+            "name": "불투명 밀폐 용기나 알루미늄 지퍼백에 소분 포장하기 — 빛과 산소 완벽 차단 📦",
+            "text": "자외선과 빛, 산소는 견과류 속 유지방의 산화를 촉진하는 주원인입니다. 💡 보관 팁: 투명한 용기보다는 빛을 차단하는 불투명 밀폐 용기나 알루미늄 지퍼백에 1회 먹을 분량씩 소분하여 담으세요. 이때 실리카겔(제습제)이나 산소흡수제를 함께 넣어주면 최적의 상태가 유지됩니다."
           },
           {
-            "name": "습기가 없는 건조한 상태 유지하기 — 실온 보관 (15일)",
-            "text": "견과류는 습기를 만나면 눅눅해지며 맛과 질감이 저하됩니다. 보관 시 건조된 마른 상태를 항시 유지하고 개봉 후에는 꼭 밀폐 용기에 담아 습기가 새어들지 않도록 주의합니다."
+            "name": "습기가 없는 완전 건조 상태 유지하기 — 미개봉 실온 보관 (15일) ☀️",
+            "text": "견과류는 수분을 흡수하면 금세 눅눅해지고 아삭한 식감이 사라집니다. 💡 보관 팁: 개봉 전이더라도 습도가 높은 곳을 피해 서늘하고 건조한 그늘에 보관해야 합니다. 습기를 차단하는 밀폐력을 갖춘 포장 상태를 항상 유지하세요."
           }
         ],
         "faqs": [
           {
-            "question": "견과류에서 쩐내이자 기분 나쁜 기름 냄새가 나는데 그냥 먹어도 되나요?",
-            "answer": "절대 안 됩니다. 견과류의 불포화지방산이 산패되면 '아플라톡신'이라는 강력한 1급 발암물질(간암 유발)이 생성됩니다. 이 독소는 가열해도 파괴되지 않으므로 쩐내가 나는 즉시 버려야 합니다."
+            "question": "견과류에서 쩐내(기름 찌든 냄새)가 나는데 물로 씻거나 볶아서 먹어도 되나요?",
+            "answer": "절대 안 됩니다. 쩐내는 견과류의 불포화지방산이 산소와 결합해 산패되었음을 뜻하며, 이 과정에서 강력한 곰팡이독소인 '아플라톡신(Aflatoxin)'이 생성됩니다. 아플라톡신은 국제암연구소(IARC)가 지정한 1급 발암물질로 260℃ 이상의 고온으로 가열하거나 씻어도 절대 파괴되지 않으므로, 쩐내가 나는 즉시 전량 버려야 합니다."
           },
           {
-            "question": "견과류는 상온에 두는 것이 신선한가요?",
-            "answer": "아닙니다. 견과류의 지방은 열, 산소, 습도에 매우 취약해 실온 방치 시 빠르게 상합니다. 지퍼백에 밀봉해 냉장고나 장기 보관 시 냉동 보관하는 것이 필수입니다."
+            "question": "견과류를 상온 식탁이나 찬장에 두고 먹는 것이 안 좋은 이유는 무엇인가요?",
+            "answer": "견과류에 풍부한 불포화지방산은 열, 빛, 산소, 습도에 매우 민감합니다. 상온(15~25℃)에 투명 용기로 보관하면 빛과 온도 영향으로 단 며칠 만에 지방 산패가 시작되며 곰팡이가 번식하기 쉬운 상태가 됩니다. 밀폐하여 차갑고 어두운 냉장실이나 냉동실에 보관해야 안전합니다."
           }
         ]
       },
       "en": {
-        "title": "How to Store Nuts Fresh: Scientific Storage Guide",
-        "description": "Learn the best storage temperature, methods, and duration for Nuts based on official safety guidelines.",
+        "title": "How to Keep Nuts Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for nuts based on official safety guidelines.",
         "authority": "<strong>MFDS & USDA & FDA</strong>",
-        "intro": "Do you leave healthy nuts out on the dining table in clear containers? Nuts are rich in unsaturated fatty acids, making them oxidize quickly when exposed to air and light, creating rancid odors and toxins. Today, FreshSnap shares safe nut preservation guides.",
-        "whyTitle": "Why store like this? Scientific facts",
-        "whyDesc": "Understanding the unique characteristics of each ingredient and following the proper storage method is extremely important for maintaining freshness and hygiene.",
+        "intro": "Do you leave healthy daily nuts like almonds, walnuts, and pecans out on the dining table in clear glass jars? 🥜\n\nNuts consist of 50–70% healthy unsaturated fatty acids, making them extremely susceptible to rapid lipid oxidation (rancidity) when exposed to heat, light, and oxygen. Under warm, humid room-temperature conditions, Aspergillus mold can grow and produce 'aflatoxin', a potent Class 1 carcinogen.\n\nToday, FreshSnap shares a scientifically proven 3-step storage guide based on guidelines from the FDA, USDA, and MFDS to completely block mold toxins and preserve the rich flavor and crisp crunch of your nuts for over 6 months. 🛡️",
+        "whyTitle": "Why Store Nuts This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
         "guideTitle": "Scientifically Proven Storage Guide",
-        "cautionTitle": "Crucial Rules and Cautions",
+        "cautionTitle": "Essential Storage Rules and Cautions",
         "tags": [
           "Nuts",
           "Scientifically Proven Storage Guide",
@@ -73,48 +73,48 @@
         ],
         "cautions": [
           {
-            "title": "Never eat rancid or damp nuts",
-            "desc": "Oxidized nuts develop aflatoxins, powerful carcinogens that are not destroyed even by heat. Discard them immediately."
+            "title": "Never eat nuts that smell rancid or feel stale and soft ⚠️",
+            "desc": "A stale oil odor or limp texture indicates advanced lipid oxidation and potential aflatoxin mold growth. Aflatoxins are heat-resistant toxins that cannot be destroyed by washing or roasting, so discard spoiled nuts immediately."
           },
           {
-            "title": "Seal with oxygen absorbers in dark places",
-            "desc": "Store nuts in opaque containers or bags with oxygen absorbers inside, and keep them in a cool drawer or freeze."
+            "title": "Handle nut kernels carefully to avoid surface damage 🥜",
+            "desc": "Crushing or damaging the outer skin of walnuts or almonds increases surface area exposure to oxygen, accelerating oxidation dozens of times over. Avoid squeezing or crushing nut packaging."
           }
         ],
         "steps": [
           {
-            "name": "Seal and refrigerate/freeze once opened — Refrigerated 90 days & Frozen 180 days",
-            "text": "Nuts contain high levels of fats which oxidize and turn rancid in warm, humid room temperatures. This environment also fosters aflatoxin, a dangerous carcinogen produced by mold. Always store nuts in airtight containers in the fridge or freezer."
+            "name": "Seal tightly and store in the fridge or freezer once opened — Cold Storage (90 Days Refrigerated, 180 Days Frozen) ❄️",
+            "text": "Leaving nuts at warm room temperatures causes unsaturated fats to oxidize quickly, releasing offensive odors and risking aflatoxin contamination. 💡 Storage Tip: Seal opened nuts in airtight containers and store in the fridge (0–4°C) for up to 3 months, or in the freezer (-18°C) for over 6 months."
           },
           {
-            "name": "Pack in opaque airtight containers or bags — Block light 📦",
-            "text": "Light and oxygen accelerate the oxidation of unsaturated fatty acids in nuts. Instead of transparent bags, pack them in opaque bags or dark airtight containers, and add a silica gel pack to control moisture."
+            "name": "Portion into opaque airtight containers or aluminum Ziploc bags — Block Light & Oxygen 📦",
+            "text": "Ultraviolet light and oxygen are primary drivers of lipid rancidity in nuts. 💡 Storage Tip: Instead of clear glass jars, portion nuts into light-blocking opaque containers or aluminum foil Ziploc bags. Adding a food-grade silica gel pack absorbs lingering moisture and oxygen."
           },
           {
-            "name": "Keep in a dry, moisture-free environment — Room Temp Storage (15Days)",
-            "text": "Nuts lose their crunch and flavor quickly when exposed to moisture. Always keep them in a dry environment. Once the original package is opened, transfer them immediately to a sealed container to keep humidity out."
+            "name": "Maintain a dry, moisture-free environment — Unopened Room Temp Storage (15 Days) ☀️",
+            "text": "Nuts absorb ambient moisture rapidly, making them lose their crisp bite and flavor. 💡 Storage Tip: Even before opening, keep nuts in a cool, dark, dry pantry away from humidity. Ensure packaging seals remain intact."
           }
         ],
         "faqs": [
           {
-            "question": "Is it okay to eat nuts that smell slightly rancid?",
-            "answer": "Absolutely not. Rancid fat in nuts develops 'aflatoxins', a powerful Class 1 carcinogen that causes liver damage. This toxin cannot be destroyed by heat."
+            "question": "Can I wash or roast nuts that smell slightly rancid to make them safe to eat?",
+            "answer": "Absolutely not. A rancid odor indicates that unsaturated fats have oxidized, forming 'Aflatoxin', a potent toxin produced by Aspergillus mold. Aflatoxin is classified as a Group 1 human carcinogen (known to cause liver cancer) and is extremely heat-stable—it cannot be destroyed by washing or roasting above 260°C. Discard rancid nuts immediately."
           },
           {
-            "question": "Should nuts be kept in the pantry at room temperature?",
-            "answer": "No, lipids in nuts are highly sensitive to heat, air, and moisture. Storing at room temp accelerates rancidity. Always store sealed in the fridge or freezer."
+            "question": "Why shouldn't nuts be kept in a clear jar on the counter at room temperature?",
+            "answer": "Unsaturated fats in nuts are highly unstable and break down quickly when exposed to ambient heat (15–25°C), room light, and oxygen. Transparent containers allow light to trigger photo-oxidation within days. Sealing nuts in light-blocking containers inside a cold fridge or freezer is essential for food safety."
           }
         ]
       },
       "ja": {
-        "title": "ナッツの鮮度を保つ保存方法：科学的保管ガイド",
-        "description": "公的安全基準に基づくナッツの最適な保存温度、保管方法、保存期間について解説します。",
+        "title": "ナッツを新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくナッツの最適な保存温度、保管方法、保存期間をご確認ください。",
         "authority": "<strong>食品医薬品安全処(MFDS) & 米国農務省(USDA) & 米国食品医薬品局(FDA)</strong>",
-        "intro": "健康に良いナッツ類を、食卓の上にそのまま置いて保存していませんか？ナッツは不飽和脂肪酸が豊富なため、空気や光に触れると急速に酸化が進み、油臭くなったり毒性物質が発生したりします。正しい保存方法をご紹介します。",
-        "whyTitle": "なぜこのように保存するのか？科学的な事実",
-        "whyDesc": "食材ごとの特性を理解し、正しい保存方法を実践することは、鮮度キープと衛生管理において非常に重要です。",
+        "intro": "健康のために毎日食べるアーモンドやクルミ、カシューナッツを、食卓の上の透明なガラス瓶に入れて保存していませんか？🥜\n\nナッツ類は体に良い不飽和脂肪酸が50〜70%以上含まれているため、光や酸素、高温に晒されると脂質が急速に酸化（酸敗）します。特に常温の湿気がある環境ではカビが繁殖し、1級発がん性物質である「アフラトキシン（Aflatoxin）」が発生しやすくなります。\n\n本日FreshSnapでは、米国食品医薬品局（FDA）および食品医薬品安全処（MFDS）の安全ガイドラインに基づき、カビ毒を完全に遮断し、ナッツの香ばしさとカリッとした食感を6ヶ月以上守る3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
         "guideTitle": "科学的に検証された保存ガイド",
-        "cautionTitle": "保存時の注意点",
+        "cautionTitle": "保存時の必須ルールと注意事項",
         "tags": [
           "ナッツ",
           "科学的に検証された保存ガイド",
@@ -122,48 +122,48 @@
         ],
         "cautions": [
           {
-            "title": "油臭い臭いがしたり、湿気たナッツは絶対に食べないでください",
-            "desc": "酸化したナッツにはアフラトキシンという強力な発がん性物質（カビ毒）が発生します。加熱しても消えないため、すぐに破棄してください。"
+            "title": "油臭いニオイがしたり湿気たナッツは絶対に食べないでください ⚠️",
+            "desc": "ナッツから古い油のニオイがしたり表面が湿気ている場合は、脂質の酸化とアフラトキシンカビ毒の発生が進んでいます。水で洗ったりフライパンで煎っても毒素は分解されないため、迷わず全量破棄してください。"
           },
           {
-            "title": "脱酸素剤と一緒に光を通さない容器で密閉保存してください",
-            "desc": "不透明な容器やジッパーバッグに脱酸素剤と一緒に入れ、光を遮断した涼しい引き出しに入れるか、冷凍庫で保管してください。"
+            "title": "ナッツの実が傷つかないよう丁寧に扱ってください 🥜",
+            "desc": "クルミやアーモンドに強い衝撃が加わってヒビが入ったり粉が生じると、表面積が広がり空気中の酸素との接触が急増して酸化スピードが何十倍も早まります。袋を強く圧迫しないよう注意してください。"
           }
         ],
         "steps": [
           {
-            "name": "開封後は必ず密閉して冷蔵・冷凍保存 — 冷蔵 90日間 & 冷凍 180日間",
-            "text": "ナッツ類は高温多湿の常温に放置すると, 脂質が酸化して悪臭を放ちます。また, 発がん性のあるカビ毒アフラトキシンが発生しやすくなるため, 開封後は必ず密閉して冷蔵または冷凍で保存してください。"
+            "name": "開封後は必ず密閉して冷蔵または冷凍保存する — 冷蔵 (90日), 冷凍 (180日) ❄️",
+            "text": "ナッツ類は高温多湿の常温に置くと不飽和脂肪酸が空気中の酸素と結合して酸化し、悪臭を放つとともにアフラトキシンが発生します。💡保存のコツ：開封したナッツはすぐに密閉して冷蔵室（0〜4℃）で3ヶ月、冷凍室（-18℃以下）で6ヶ月以上安全に保存できます。"
           },
           {
-            "name": "遮光の密閉容器や保存袋に小分けにする — 光を遮る 📦",
-            "text": "光や酸素は, ナッツに含まれる良質な不飽和脂肪酸の酸化を促します。透明な保存袋よりも, 光を通さない不透明な袋や濃い色の密閉容器に入れ, 乾燥剤を入れて空気を遮断してください。"
+            "name": "不透明な密閉容器やアルミジッパーバッグに小分けする — 光と酸素の遮断 📦",
+            "text": "紫外線や光、酸素はナッツの脂質酸化を促進する最大の原因です。💡保存のコツ：透明な容器ではなく、光を遮る不透明な密閉容器やアルミジッパーバッグに1回分ずつ小分けにしてください。シリカゲル（乾燥剤）や脱酸素剤を一緒に入れると最高の状態が保たれます。"
           },
           {
-            "name": "湿気のない乾燥した状態を維持 — 常温保存 (15日間)",
-            "text": "ナッツは湿気を吸うと食感が悪くなり, 風味も損なわれます。保存時は常に乾燥した状態を保ち, 開封後は必ず密閉容器に移して湿気が入り込まないように注意してください。"
+            "name": "湿気のない完全な乾燥状態を維持する — 未開封常温保存 (15日) ☀️",
+            "text": "ナッツは湿気を吸収するとすぐに湿気て香ばしい食感が損なわれます。💡保存のコツ：開封前であっても湿気の多い場所を避け、涼しく乾燥した日陰で保存してください。湿気を遮断する密閉性の高い包装状態を常に維持しましょう。"
           }
         ],
         "faqs": [
           {
-            "question": "ナッツ類から油臭いにおいがしますが、そのまま食べても大丈夫ですか？",
-            "answer": "絶対に避けてください。脂質の酸化が進むと、「アフラトキシン」という強力な発がん性物質が生成される可能性があります。加熱しても分解されないため、異臭がしたらすぐに廃棄してください。"
+            "question": "ナッツから油臭い（酸化した）ニオイがしますが、洗ったり炒め直して食べても大丈夫ですか？",
+            "answer": "絶対にダメです。油臭いニオイは不飽和脂肪酸が酸化した証拠であり、この過程で強力なカビ毒である「アフラトキシン（Aflatoxin）」が生成されます。アフラトキシンは1級発がん性物質（肝臓がんの原因）に指定されており、260℃以上の高温で加熱したり洗ったりしても絶対に分解されないため、異臭がしたら直ちに全量を捨ててください。"
           },
           {
-            "question": "ナッツ類は常温で保管する方が新鮮ですか？",
-            "answer": "いいえ、ナッツの脂質は熱、酸素、湿度に非常に弱く、常温放置すると急速に劣化します。ジッパーバッグに密閉して冷蔵または冷凍で保存してください。"
+            "question": "ナッツを常温の食卓や棚に置いて保存するのが良くない理由は何ですか？",
+            "answer": "ナッツに豊富な不飽和脂肪酸は熱、光、酸素、湿度に極めて弱いためです。常温（15〜25℃）で透明な容器に入れて保管すると、光と温度の影響でわずか数日で酸化が始まり、カビが繁殖しやすい状態になります。密閉して冷たく暗い冷蔵室や冷凍室で保存することが安全の必須条件です。"
           }
         ]
       },
       "zh": {
-        "title": "如何保鲜储存坚果：科学储存指南",
+        "title": "如何保持坚果新鲜：科学储存指南",
         "description": "根据官方食品安全指南，了解坚果的最佳储存温度、方式和保鲜时长。",
         "authority": "<strong>韩国食品医药品安全处(MFDS) & 美国农务部(USDA) & 美国食品药品监督管理局(FDA)</strong>",
-        "intro": "为了每天食用，您是否将健康的坚果随手装在透明罐子里放在餐桌上？坚果富含不饱和脂肪酸，暴露在空气和光线下会迅速氧化，产生油哈味甚至产生毒性物质。今天，FreshSnap为您分享科学的坚果储存指南。",
+        "intro": "为了方便每天食用，您是否将核桃、杏仁、腰果等坚果装在透明玻璃罐里放在餐桌上？🥜\n\n坚果富含50~70%以上的优质不饱和脂肪酸，对光线、氧气与高温极度敏感，极易发生脂质氧化酸败（Rancidity）。尤其在常温潮湿的环境下，极易滋生黄曲霉并产生强致癌毒素——黄曲霉毒素（Aflatoxin）。\n\n今天FreshSnap基于美国食品药品监督管理局(FDA)和韩国食品医药品安全处(MFDS)的安全指南，为您带来3步科学保存秘诀，帮您彻底阻断霉菌毒素，封存坚果的醇香与酥脆达6个月以上。🛡️",
         "whyTitle": "为什么要这样储存？科学原理",
-        "whyDesc": "了解每种食材的独特特性并遵循正确的储存方法，对于保持新鲜度和卫生至关重要。",
+        "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
         "guideTitle": "科学验证的储存指南",
-        "cautionTitle": "储存注意事项",
+        "cautionTitle": "储存必需规则及注意事项",
         "tags": [
           "坚果",
           "科学验证的储存指南",
@@ -171,48 +171,48 @@
         ],
         "cautions": [
           {
-            "title": "绝对不要食用有哈喇味或受潮的坚果",
-            "desc": "氧化的坚果会产生黄曲霉毒素，这是一种强致癌物，即使加热也无法被破坏。发现变质请立即丢弃。"
+            "title": "出现哈喇味或受潮发软的坚果切勿食用 ⚠️",
+            "desc": "若坚果散发出陈腐的油哈喇味或手感发黏受潮，说明油脂已发生酸败且极有可能产生了黄曲霉毒素。用水冲洗或重新烘炒都无法破坏该毒素，必须果断整批丢弃。"
           },
           {
-            "title": "放入脱氧剂并密封存放在避光阴凉处",
-            "desc": "将坚果装入不透明的容器或密封袋中，放入脱氧剂以阻断空气，存放在避光的抽屉中或直接冷冻。"
+            "title": "请轻拿轻放，防止坚果果仁破损 🥜",
+            "desc": "核桃或杏仁因挤压产生裂纹或碎屑时，其表面积会大幅增加，导致与空气中氧气的接触面积扩大，酸败速度加快数十倍。请勿用力挤压包装袋。"
           }
         ],
         "steps": [
           {
-            "name": "开封后务必密封冷藏/冷冻 — 冷藏 90天 & 冷冻 180天",
-            "text": "坚果含有大量油脂，如果存放在高温潮湿的常温下，脂肪成分会与氧气氧化产生哈喇味，并且极易滋生1类致癌霉菌毒素——黄曲霉毒素（Aflatoxin）。因此开封后务必密封好冷藏或冷冻保存。"
+            "name": "开封后务必密封冷藏或冷冻保存 — 冷藏 (90天), 冷冻 (180天) ❄️",
+            "text": "坚果置于高温潮湿的常温下，不饱和脂肪酸会与氧气结合产生油哈喇味并滋生黄曲霉毒素。💡储存小贴士：开封后的坚果应立即密封，放入冷藏室（0~4℃）可保存3个月，放入冷冻室（-18℃以下）可安全保存长达6个月以上。"
           },
           {
-            "name": "装入不透明密封罐或密封袋 — 阻断光线 📦",
-            "text": "光照和氧气会加速坚果中优质不饱和脂肪酸的氧化酸败。相比透明自封袋，更建议装入能遮光的不透明铝箔袋或深色密封罐中，并放入脱氧剂（硅胶干燥剂）以隔绝空气和湿气。"
+            "name": "分装于不透明密封罐或铝箔拉链袋中 — 避光与隔绝氧气 📦",
+            "text": "紫外线、光照与氧气是催化坚果脂质酸败的主要元凶。💡储存小贴士：切勿使用透明罐，请将坚果按单次食用量分装入避光的不透明保鲜盒或铝箔拉链袋中。放入硅胶干燥剂或脱氧剂可进一步维持干燥。"
           },
           {
-            "name": "保持干燥无水分状态 — 常温储存 (15天)",
-            "text": "坚果一旦受潮就会变软变潮，口感和风味大打折扣。储存时应时刻保持干燥。开封后必须换装入密封性极佳的的容器中，谨防外界湿气渗入。"
+            "name": "保持绝对干燥防潮状态 — 未开封常温保存 (15天) ☀️",
+            "text": "坚果一旦吸收环境湿气就会迅速失去酥脆口感并发生霉变。💡储存小贴士：即便是未开封的坚果，也应避开高温潮湿处，保存在阴凉干燥的暗处。确保包装具有良好的防潮密封性。"
           }
         ],
         "faqs": [
           {
-            "question": "坚坚果出现哈喇味还可以吃吗？",
-            "answer": "绝对不可以。坚果中的不饱和脂肪酸酸败后，会产生名为黄曲霉毒素的强效 1 类致癌物。这种毒素在加热时也无法被破坏，因此一旦出现哈喇味必须立即扔掉。"
+            "question": "坚果散发油哈喇味，可以用清水洗净或重新炒熟后再吃吗？",
+            "answer": "绝对不可以。油哈喇味表明坚果中的不饱和脂肪酸已严重氧化，并产生了剧毒的霉菌毒素——“黄曲霉毒素（Aflatoxin）”。黄曲霉毒素被世界卫生组织列为1类致癌物（可诱发肝癌），耐热性极高，即使在260℃以上的高温下烘炒或用水冲洗也无法破坏。一旦产生哈喇味，必须整批扔掉。"
           },
           {
-            "question": "坚果放在常温下保存好吗？",
-            "answer": "不好。坚果的脂肪对热量、氧气 and 湿度非常敏感，暴露在室温下会迅速变质。必须密封在保鲜袋中放进冰箱冷藏，长期保存需冷冻。"
+            "question": "把坚果装在透明罐里放在餐桌或橱柜里保存为什么不好？",
+            "answer": "坚果中的不饱和脂肪酸对热量、光线、氧气和湿度极其敏感。在常温（15~25℃）光照环境下，仅需几天就会引发光氧化酸败，并创造出霉菌滋生的温床。必须将坚果密封保存在阴暗冰冷的冰箱冷藏室或冷冻室中。"
           }
         ]
       },
       "es": {
-        "title": "Cómo almacenar Frutos secos fresco: Guía científica de conservación",
-        "description": "Descubra la mejor temperatura, métodos y duración para conservar Frutos secos según las directrices oficiales de seguridad.",
+        "title": "Cómo mantener los frutos secos frescos: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y la duración de conservación óptimos para los frutos secos según las directrices oficiales de seguridad.",
         "authority": "<strong>MFDS & USDA & FDA</strong>",
-        "intro": "¿Deja los frutos secos en la mesa en frascos transparentes? Tienen muchas grasas insaturadas, por lo que se oxidan rápido al aire y luz, creando mal olor y toxinas. Hoy, FreshSnap comparte pautas de conservación.",
-        "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
-        "whyDesc": "Comprender las características únicas de cada ingrediente y seguir el método de almacenamiento adecuado es fundamental para mantener la frescura y la higiene.",
+        "intro": "¿Suele guardar almendras, nueces o pacanas en frascos de vidrio transparentes sobre la mesa de la cocina? 🥜\n\nLos frutos secos contienen entre un 50% y un 70% de ácidos grasos insaturados saludables, lo que los hace extremadamente susceptibles a una rápida oxidación de lípidos (enranciamiento) al exponerse al calor, la luz y el oxígeno. En ambientes cálidos y húmedos a temperatura ambiente, se desarrolla moho que produce 'aflatoxina', un potente carcinógeno del Grupo 1.\n\nHoy, FreshSnap comparte una guía científica en 3 pasos basada en las directrices de la FDA y el USDA para bloquear las micotoxinas y conservar el sabor crujiente y tostado de sus frutos secos por más de 6 meses. 🛡️",
+        "whyTitle": "¿Por qué almacenarlos así? Datos científicos",
+        "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
         "guideTitle": "Guía de almacenamiento científicamente probada",
-        "cautionTitle": "Reglas cruciales y precauciones",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
         "tags": [
           "Frutos secos",
           "Guía de almacenamiento científicamente probada",
@@ -220,48 +220,48 @@
         ],
         "cautions": [
           {
-            "title": "Nunca coma frutos secos rancios o húmedos",
-            "desc": "Los frutos secos oxidados desarrollan aflatoxinas, potentes carcinógenos que no se destruyen con calor. Deséchelos de inmediato."
+            "title": "Nunca consuma frutos secos rancio o con textura blanda ⚠️",
+            "desc": "El olor a aceite viejo o la pérdida de textura crujiente indican oxidación avanzada y posible crecimiento de toxinas de moho (aflatoxinas). Las aflatoxinas resisten el calor y no se destruyen al tostarlas o lavarlas; deséchelos de inmediato."
           },
           {
-            "title": "Selle con absorbentes de oxígeno en lugares oscuros",
-            "desc": "Guarde los frutos secos en recipientes opacos con absorbentes de oxígeno, en un cajón fresco o en el congelador."
+            "title": "Manipule los frutos secos con cuidado para no romper las semillas 🥜",
+            "desc": "Someter nueces o almendras a golpes fuertes genera grietas y polvo, aumentando la superficie expuesta al oxígeno y multiplicando la velocidad de oxidación. Evite aplastar los empaques."
           }
         ],
         "steps": [
           {
-            "name": "Selle y refrigere/congele una vez abierto — Refrigerado 90 días & Congelado 180 días",
-            "text": "Los frutos secos contienen grasas que se oxidan y se rancien a temperatura ambiente cálida y húmeda. Esto también propicia la aparición de aflatoxinas, toxinas cancerígenas de los hongos. Guárdelos sellados en frío."
+            "name": "Selle herméticamente y mantenga en refrigeración o congelación tras abrir — Conservación (90 días en refrigerador, 180 días en congelador) ❄️",
+            "text": "Dejar frutos secos a temperatura ambiente cálida oxida rápidamente sus grasas, generando mal olor y riesgo de aflatoxinas. 💡 Consejo de almacenamiento: Guarde los frutos secos abiertos bien sellados en el refrigerador (0-4 °C) por 3 meses o en el congelador (-18 °C) por más de 6 meses."
           },
           {
-            "name": "Use contenedores o bolsas herméticas opacas — Bloquee la luz 📦",
-            "text": "La luz y el oxígeno aceleran la oxidación de las grasas saludables de los frutos secos. En lugar de bolsas transparentes, use bolsas opacas o contenedores oscuros, y añada un desecante (gel de sílice)."
+            "name": "Fraccione en recipientes opacos o bolsas de aluminio — Bloquee luz y oxígeno 📦",
+            "text": "Los rayos UV y el oxígeno aceleran la rancidez de los lípidos. 💡 Consejo de almacenamiento: En lugar de recipientes transparentes, use contenedores opacos que bloqueen la luz o bolsas Ziploc de aluminio. Añada un saquito de gel de sílice para absorber la humedad residual."
           },
           {
-            "name": "Mantenga en un ambiente seco sin humedad — Conservación a Temp. Ambiente (15Días)",
-            "text": "Los frutos secos pierden su textura crujiente y sabor al contacto con la humedad. Manténgalos siempre en un lugar seco y, una vez abiertos, páselos a un envase hermético para bloquear la humedad."
+            "name": "Mantenga en un ambiente seco sin humedad — Temp. Ambiente sin abrir (15 días) ☀️",
+            "text": "Los frutos secos absorben humedad del ambiente con rapidez, perdiendo su textura crujiente. 💡 Consejo de almacenamiento: Incluso antes de abrirlos, conserve los paquetes en un lugar fresco, oscuro y seco."
           }
         ],
         "faqs": [
           {
-            "question": "Is it okay to eat nuts that smell slightly rancid?",
-            "answer": "Absolutely not. Rancid fat in nuts develops 'aflatoxins', a powerful Class 1 carcinogen that causes liver damage. This toxin cannot be destroyed by heat."
+            "question": "¿Puedo lavar o tostar frutos secos que huelen rancio para poder comerlos de forma segura?",
+            "answer": "Absolutamente no. El olor rancio indica que las grasas insaturadas se han oxidado, generando 'Aflatoxina', una toxina producida por hongos del género Aspergillus. La aflatoxina es un carcinógeno de Grupo 1 (causante de cáncer hepático) y es extremadamente resistente al calor; no se destruye al lavarla ni tostándola a más de 260 °C. Deséchelos de inmediato."
           },
           {
-            "question": "Should nuts be kept in the pantry at room temperature?",
-            "answer": "No, lipids in nuts are highly sensitive to heat, air, and moisture. Storing at room temp accelerates rancidity. Always store sealed in the fridge or freezer."
+            "question": "¿Por qué no se deben guardar los frutos secos en frascos transparentes a temperatura ambiente?",
+            "answer": "Las grasas insaturadas de los frutos secos son inestables y se degradan rápidamente ante el calor ambiental (15-25 °C), la luz y el oxígeno. Los envases transparentes permiten que la luz catalice la fotooxidación en pocos días. Guardarlos sellados en envases opacos dentro del refrigerador o congelador es fundamental."
           }
         ]
       },
       "fr": {
-        "title": "Comment conserver Fruits secs frais : Guide scientifique de conservation",
-        "description": "Découvrez la température, les méthodes et la durée optimales de conservation pour Fruits secs selon les directives de sécurité officielles.",
+        "title": "Comment conserver les fruits secs et oléagineux frais : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les fruits secs et oléagineux selon les directives officielles de sécurité.",
         "authority": "<strong>MFDS & USDA & FDA</strong>",
-        "intro": "Laissez-vous les fruits secs sur la table dans des bocaux transparents ? Ils sont riches en acides gras insaturés et s'oxydent vite à l'air et à la lumière, créant de mauvaises odeurs et des toxines. Aujourd'hui, FreshSnap vous montre comment faire.",
-        "whyTitle": "Pourquoi conserver ainsi ? Faits scientifiques",
-        "whyDesc": "Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédient et de suivre la bonne méthode de conservation pour préserver la fraîcheur et l’hygiène.",
+        "intro": "Avez-vous l'habitude de laisser des amandes, des noix ou des noisettes dans des bocaux en verre transparent sur la table de la cuisine ? 🥜\n\nLes fruits à coque contiennent entre 50 et 70 % d'acides gras insaturés bénéfiques pour la santé, ce qui les rend très sensibles à l'oxydation des lipides (rancissement) en présence de chaleur, de lumière et d'oxygène. À température ambiante et en milieu humide, des moisissures développent de l'aflatoxine, un cancérigène avéré.\n\nAujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations de la FDA et du USDA pour bloquer les mycotoxines et préserver le croquant de vos fruits secs pendant plus de 6 mois. 🛡️",
+        "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
         "guideTitle": "Guide de conservation scientifiquement prouvé",
-        "cautionTitle": "Règles cruciales et précautions",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
         "tags": [
           "Fruits secs",
           "Guide de conservation scientifiquement prouvé",
@@ -269,48 +269,48 @@
         ],
         "cautions": [
           {
-            "title": "Ne mangez jamais de fruits secs rancis ou humides",
-            "desc": "Les fruits secs oxydés développent des aflatoxines, de puissants cancérogènes qui ne sont pas détruits par la cuisson. Jetez-les."
+            "title": "Ne consommez jamais de fruits secs rances ou ramollis ⚠️",
+            "desc": "Une odeur d'huile rance ou une texture molle signale una oxydation avancée des graisses et la présence potentielle d'aflatoxines. Ces toxines résistent à la chaleur et ne sont éliminées ni par le lavage ni par la cuisson ; jetez immédiatement les fruits altérés."
           },
           {
-            "title": "Fermez avec des absorbeurs d'oxygène à l'abri de la lumière",
-            "desc": "Stockez les fruits secs dans des contenants opaques avec des absorbeurs d'oxygène, dans un tiroir frais ou au congélateur."
+            "title": "Manipulez les cerneaux avec précaution pour éviter les brisures 🥜",
+            "desc": "Écraser les noix ou amandes crée de la poudre et des fissures qui augmentent la surface d'exposition à l'oxygène, ce qui multiplie la vitesse d'oxydation par dix. Évitez de comprimer les sachets."
           }
         ],
         "steps": [
           {
-            "name": "Sceller et réfrigérer/congeler après ouverture — Réfrigéré 90 jours & Congelé 180 jours",
-            "text": "Les fruits secs contiennent beaucoup de lipides qui s'oxydent et rancissent à température ambiante chaude et humide. Ce milieu favorise aussi l'aflatoxine, une toxine cancérigène. Gardez-les fermés au froid."
+            "name": "Sceller et conserver au réfrigérateur ou au congélateur après ouverture — Stockage (90 jours au réfrigérateur, 180 jours au congélateur) ❄️",
+            "text": "Laisser les fruits secs à température ambiante chaude oxyde rapidement les acides gras et risque de créer de l'aflatoxine. 💡 Astuce de conservation : Rangez les sachets ouverts bien scellés au réfrigérateur (0–4 °C) jusqu'à 3 mois ou au congélateur (-18 °C) pendant plus de 6 mois."
           },
           {
-            "name": "Utiliser des boîtes ou sachets hermétiques opaques — Bloquer la lumière 📦",
-            "text": "La lumière et l'oxygène accélèrent l'oxydation des bons acides gras des fruits secs. Préférez les sachets opaques ou boîtes sombres aux emballages transparents, et glissez-y un sachet déshydratant."
+            "name": "Portionner dans des boîtes opaques ou des sachets en aluminium — Bloquer lumière & oxygène 📦",
+            "text": "Les rayons UV et l'oxygène accélèrent le rancissement des lipides. 💡 Astuce de conservation : Évitez les bocaux transparents. Privilégiez des récipients opaques ou des sachets aluminium Ziploc. Ajoutez un sachet de gel de silice pour maintenir une atmosphère bien sèche."
           },
           {
-            "name": "Conserver dans un environnement sec sans humidité — Stockage à Temp. Ambiante (15Jours)",
-            "text": "Les fruits secs perdent leur croquant et leur goût à l'humidité. Conservez-les toujours au sec et une fois l'emballage ouvert, transférez-les dans un récipient étanche pour éviter l'humidité."
+            "name": "Maintenir dans un environnement sec sans humidité — Temp. Ambiante non ouvert (15 jours) ☀️",
+            "text": "Les fruits à coque absorbent l'humidité ambiante, devenant mous et perdant leur goût. 💡 Astuce de conservation : Avant ouverture, conservez les emballages dans un endroit sec, sombre et frais."
           }
         ],
         "faqs": [
           {
-            "question": "Is it okay to eat nuts that smell slightly rancid?",
-            "answer": "Absolutely not. Rancid fat in nuts develops 'aflatoxins', a powerful Class 1 carcinogen that causes liver damage. This toxin cannot be destroyed by heat."
+            "question": "Puis-je laver ou torréfier des noix rances pour les consommer sans danger ?",
+            "answer": "Absolument pas. L'odeur rance indique que les graisses se sont oxydées en formant de l'Aflatoxine, une toxine produite par le champignon Aspergillus. L'aflatoxine est classée cancérigène de groupe 1 (cause de cancer du foie) et résiste extrêmement bien à la chaleur : elle ne disparaît pas au lavage ni à la cuisson au-dessus de 260 °C. Jetez immédiatement les fruits rances."
           },
           {
-            "question": "Should nuts be kept in the pantry at room temperature?",
-            "answer": "No, lipids in nuts are highly sensitive to heat, air, and moisture. Storing at room temp accelerates rancidity. Always store sealed in the fridge or freezer."
+            "question": "Pourquoi est-il déconseillé de laisser les fruits secs dans un bocal transparent à température ambiante ?",
+            "answer": "Les acides gras insaturés des fruits secs sont instables et se dégradent vite sous l'effet de la chaleur (15-25 °C), de la lumière et de l'air. Les récipients transparents laissent passer la lumière qui déclenche la photo-oxydation en quelques jours. Les conserver au frais dans des emballages opaques est indispensable pour la sécurité alimentaire."
           }
         ]
       },
       "de": {
-        "title": "Wie man Nüsse frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber",
-        "description": "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Nüsse basierend auf offiziellen Sicherheitsrichtlinien.",
+        "title": "Nüsse richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Nüsse basierend auf offiziellen Sicherheitsrichtlinien.",
         "authority": "<strong>MFDS & USDA & FDA</strong>",
-        "intro": "Lagern Sie Nüsse in transparenten Gläsern auf dem Esstisch? Nüsse sind reich an ungesättigten Fettsäuren und oxidieren an Luft und Licht schnell, was zu Ranzigkeit und Toxinen führt. Heute teilt FreshSnap Tipps.",
+        "intro": "Bewahren Sie Walnüsse, Mandeln oder Cashews für den täglichen Verzehr in transparenten Gläsern auf dem Esstisch auf? 🥜\n\nNüsse bestehen zu 50–70 % aus wertvollen ungesättigten Fettsäuren, was sie bei Kontakt mit Licht, Sauerstoff und Wärme extrem anfällig für Fettoxidation (Ranzigwerden) macht. Bei warmen, feuchten Raumtemperaturen bildet sich leicht Schimmel, der das krebserregende 'Aflatoxin' freisetzt.\n\nHeute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Sicherheitsrichtlinien von FDA, USDA und MFDS basiert, um Schimmelpilzgifte zu stoppen und das krosse Aroma Ihrer Nüsse über 6 Monate zu bewahren. 🛡️",
         "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-        "whyDesc": "Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtige Lagerungsmethode anzuwenden, ist entscheidend für Frische und Hygiene.",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
         "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-        "cautionTitle": "Wichtige Warnhinweise zur Lagerung",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
         "tags": [
           "Nüsse",
           "Wissenschaftlich geprüfter Lagerungsratgeber",
@@ -318,48 +318,48 @@
         ],
         "cautions": [
           {
-            "title": "Niemals ranzige oder feuchte Nüsse essen",
-            "desc": "Oxidierte Nüsse bilden Aflatoxine, starke Karzinogene, die durch Erhitzen nicht zerstört werden. Sofort entsorgen."
+            "title": "Essen Sie niemals ranzig riechende oder feuchte Nüsse ⚠️",
+            "desc": "Alter Ölgeruch oder eine weiche Textur deuten auf fortgeschrittene Fettoxidation und Aflatoxin-Schimmel hin. Aflatoxine sind hitzebeständig und werden durch Waschen oder Rösten nicht zerstört. Entsorgen Sie verdorbene Nüsse sofort."
           },
           {
-            "title": "Mit Sauerstoffabsorbern an dunklen Orten luftdicht lagern",
-            "desc": "Nüsse in lichtundurchlässigen Behältern mit Sauerstoffabsorbern im kühlen Schrank oder im Gefrierfach lagern."
+            "title": "Achten Sie darauf, Nusskerne nicht zu beschädigen 🥜",
+            "desc": "Werden Walnüsse oder Mandeln zerdrückt, vergrößert sich die Oberfläche für Luftsauerstoff drastisch, was die Oxidation um ein Vielfaches beschleunigt. Beutel nicht quetschen."
           }
         ],
         "steps": [
           {
-            "name": "Nach dem Öffnen versiegeln und kühlen/einfrieren — Kühllagerung 90 Tage & Gefrierlagerung 180 Tage",
-            "text": "Nüsse enthalten viel Fett, das bei warmen, feuchten Temperaturen oxidiert und ranzig wird. Diese Umgebung begünstigt auch die Bildung von Aflatoxinen, einem krebserregenden Schimmelpilzgift."
+            "name": "Nach dem Öffnen fest verschließen und kühlen/einfrieren — Kühllagerung (90 Tage im Kühlschrank, 180 Tage im Gefrierfach) ❄️",
+            "text": "Raumtemperatur lässt ungesättigte Fette oxidieren und ranzig werden. 💡 Lagerungstipp: Verschließen Sie geöffnete Nüsse luftdicht im Kühlschrank (0–4 °C) für bis zu 3 Monate oder im Gefrierschrank (-18 °C) für über 6 Monate."
           },
           {
-            "name": "In lichtundurchlässigen Behältern verpacken — Lichtschutz 📦",
-            "text": "Licht und Sauerstoff beschleunigen den Verderb der ungesättigten Fettsäuren in Nüssen. Verwenden Sie statt transparenter Beutel lichtundurchlässige Behälter und legen Sie ein Silica-Gel-Paket hinein."
+            "name": "In lichtundurchlässige Behälter oder Alubeutel portionieren — Licht & Sauerstoff blockieren 📦",
+            "text": "UV-Licht und Sauerstoff treiben das Ranzigwerden an. 💡 Lagerungstipp: Verwenden Sie statt Glasbehältern undurchsichtige Dosen oder Aluminium-Ziploc-Beutel. Ein Päckchen Silica-Gel (Trocknungsmittel) nimmt Restfeuchte auf."
           },
           {
-            "name": "In trockener, feuchtigkeitsfreier Umgebung lagern — Lagerung bei Raumtemperatur (15Tage)",
-            "text": "Nüsse verlieren bei Feuchtigkeit schnell ihre Knackigkeit und ihren Geschmack. Halten Sie sie stets trocken. Nach dem Öffnen sofort in einen dichten Behälter umfüllen."
+            "name": "In trockener, feuchtigkeitsfreier Umgebung lagern — Ungeöffnet bei Raumtemperatur (15 Tage) ☀️",
+            "text": "Nüsse ziehen Luftfeuchtigkeit an und verlieren ihre Knackigkeit. 💡 Lagerungstipp: Lagern Sie ungeöffnete Packungen stets an einem kühlen, dunklen und trockenen Ort."
           }
         ],
         "faqs": [
           {
-            "question": "Is it okay to eat nuts that smell slightly rancid?",
-            "answer": "Absolutely not. Rancid fat in nuts develops 'aflatoxins', a powerful Class 1 carcinogen that causes liver damage. This toxin cannot be destroyed by heat."
+            "question": "Kann man ranzig riechende Nüsse abwaschen oder anrösten, um sie wieder genießbar zu machen?",
+            "answer": "Niemals. Ranziger Geruch zeigt an, dass Fette oxidiert sind und das gefährliche Schimmelpilzgift 'Aflatoxin' entstanden ist. Aflatoxin ist ein krebserregender Stoff der Gruppe 1 (verursacht Leberkrebs) und extrem hitzebeständig – es wird weder durch Waschen noch durch Rösten bei über 260 °C zerstört. Ranzige Nüsse sofort entsorgen."
           },
           {
-            "question": "Should nuts be kept in the pantry at room temperature?",
-            "answer": "No, lipids in nuts are highly sensitive to heat, air, and moisture. Storing at room temp accelerates rancidity. Always store sealed in the fridge or freezer."
+            "question": "Warum sollte man Nüsse nicht in einem transparenten Glas auf dem Esstisch aufbewahren?",
+            "answer": "Die ungesättigten Fettsäuren in Nüssen reagieren extrem empfindlich auf Wärme (15–25 °C), Raumlicht und Sauerstoff. Transparente Gläser lassen Licht durch, was die Oxidation beschleunigt. Eine gekühlte Lagerung in lichtundurchlässigen Behältern ist für die Lebensmittelsicherheit unerlässlich."
           }
         ]
       },
       "pt": {
-        "title": "Como armazenar Nozes fresco: Guia científico de conservação",
-        "description": "Descubra la mejor temperatura, métodos y duración de armazenamento para Nozes com base nas diretrizes oficiais de segurança.",
+        "title": "Como conservar nozes e castanhas frescas: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para nozes e castanhas com base em diretrizes oficiais de segurança.",
         "authority": "<strong>MFDS & USDA & FDA</strong>",
-        "intro": "Você deixa as oleaginosas na mesa em potes transparentes? Elas têm muita gordura boa, por isso oxidam rápido com ar e luz, criando mau cheiro e toxinas. Hoje, o FreshSnap compartilha orientações corretas.",
+        "intro": "Você costuma guardar amêndoas, nozes e castanhas em potes de vidro transparentes sobre a mesa da cozinha? 🥜\n\nAs oleaginosas contêm entre 50% e 70% de ótimos ácidos graxos insaturados, tornando-se extremamente suscetíveis à rápida oxidação lipídica (rancificação) quando expostas ao calor, à luz e ao oxigênio. Em ambientes quentes e úmidos, fungos proliferam e produzem a 'aflatoxina', um potente carcinógeno do Grupo 1.\n\nHoje, o FreshSnap apresenta um guia de conservação em 3 etapas baseado em diretrizes da FDA e do USDA para bloquear mofos e manter suas castanhas crocantes e saborosas por mais de 6 meses. 🛡️",
         "whyTitle": "Por que armazenar assim? Fatos científicos",
-        "whyDesc": "Comprender as características únicas de cada ingrediente e seguir o método de armazenamento adequado é extremamente importante para manter o frescor e a higiene.",
+        "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
         "guideTitle": "Guia de armazenamento comprovado cientificamente",
-        "cautionTitle": "Reglas cruciales e precauções",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
         "tags": [
           "Nozes",
           "Guia de armazenamento comprovado cientificamente",
@@ -367,48 +367,48 @@
         ],
         "cautions": [
           {
-            "title": "Nunca coma oleaginosas rancias ou úmidas",
-            "desc": "Oleaginosas oxidadas desenvolvem aflatoxinas, potentes carcinógenos que não são destruídos pelo calor. Descarte-as imediatamente."
+            "title": "Nunca consuma oleaginosas râncias ou murchas ⚠️",
+            "desc": "O cheiro de óleo velho ou a perda de crocância indicam oxidação avançada e possível crescimento de micotoxinas. As aflatoxinas resistem ao calor e não são destruídas ao torrar ou lavar; descarte as castanhas estragadas imediatamente."
           },
           {
-            "title": "Selle com absorventes de oxigênio em potes escuros",
-            "desc": "Guarde as oleaginosas em recipientes opacos com absorventes de oxigênio, em gaveta fresca ou no freezer."
+            "title": "Manuseie os grãos com cuidado para evitar rachaduras 🥜",
+            "desc": "Esmagar nozes ou amêndoas cria rachaduras e farelos, aumentando a área exposta ao oxigênio e acelerando a oxidação. Evite pressionar as embalagens."
           }
         ],
         "steps": [
           {
-            "name": "Sele e refrigere/congele após aberto — Refrigerado 90 dias & Congelado 180 dias",
-            "text": "Oleaginosas contêm gorduras que oxidam e rancificam em temperatura quente e úmida. Esse ambiente favorece as aflatoxinas, toxinas cancerígenas dos fungos. Guarde sempre seladas sob refrigeração ou congeladas."
+            "name": "Sele e refrigere/congele após aberto — Armazenamento (90 dias na geladeira, 180 dias no freezer) ❄️",
+            "text": "Deixar oleaginosas em temperatura ambiente oxida as gorduras e cria risco de aflatoxinas. 💡 Dica de conservação: Guarde as castanhas abertas bem seladas na geladeira (0-4 °C) por até 3 meses ou no freezer (-18 °C) por mais de 6 meses."
           },
           {
-            "name": "Use potos ou sacos herméticos opacos — Bloqueie a luz 📦",
-            "text": "Luz e oxigênio aceleram a oxidação das gorduras saudáveis das oleaginosas. Em vez de sacos transparentes, use embalagens opacas ou potes escuros, e coloque um sachê antiumidade (sílica-gel)."
+            "name": "Divida em potes opacos ou sacos de alumínio — Bloqueie luz e oxigênio 📦",
+            "text": "A luz UV e o oxigênio aceleram a rancificação. 💡 Dica de conservação: Em vez de potes transparentes, use recipientes opacos que bloqueiem a luz ou sacos Ziploc de alumínio. Adicione um sachê de sílica-gel para absorver a umidade."
           },
           {
-            "name": "Mantenha em ambiente seco e livre de umidade — Conservação em Temp. Ambiente (15Dias)",
-            "text": "As oleaginosas perdem a crocância e o sabor em contato com a umidade. Mantenha-as sempre secas e, após abertas, mude-as para um pote vedado para impedir a entrada de umidade."
+            "name": "Mantenha em ambiente seco sem umidade — Temp. Ambiente fechado (15 dias) ☀️",
+            "text": "As castanhas absorvem a umidade do ar rapidamente, perdendo a crocância. 💡 Dica de conservação: Mesmo antes de abrir, mantenha as embalagens em local fresco, escuro e seco."
           }
         ],
         "faqs": [
           {
-            "question": "Is it okay to eat nuts that smell slightly rancid?",
-            "answer": "Absolutely not. Rancid fat in nuts develops 'aflatoxins', a powerful Class 1 carcinogen that causes liver damage. This toxin cannot be destroyed by heat."
+            "question": "Posso lavar ou torrar castanhas com cheiro râncio para consumi-las em segurança?",
+            "answer": "Completamente não. O cheiro râncio indica que as gorduras oxidaram, formando a 'Aflatoxina', uma toxina produzida pelo fungo Aspergillus. A aflatoxina é um carcinógeno de Grupo 1 (causador de câncer de fígado) e é resistente ao calor; não é destruída ao lavar nem ao torrar acima de 260 °C. Descarte castanhas râncias imediatamente."
           },
           {
-            "question": "Should nuts be kept in the pantry at room temperature?",
-            "answer": "No, lipids in nuts are highly sensitive to heat, air, and moisture. Storing at room temp accelerates rancidity. Always store sealed in the fridge or freezer."
+            "question": "Por que não se deve guardar castanhas e nozes em potes transparentes em temperatura ambiente?",
+            "answer": "As gorduras insaturadas das castanhas são instáveis e se degradam rapidamente com o calor ambiente (15-25 °C), luz e oxigênio. Potes transparentes permitem que a luz acelere a oxidação em poucos dias. Guardá-las seladas no frio em recipientes opacos é indispensável."
           }
         ]
       },
       "id": {
         "title": "Cara Menyimpan Kacang-kacangan agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk Kacang-kacangan berdasarkan pedoman keselamatan resmi.",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk kacang-kacangan berdasarkan pedoman keselamatan resmi.",
         "authority": "<strong>MFDS & USDA & FDA</strong>",
-        "intro": "Apakah Anda membiarkan kacang-kacangan di meja makan dalam wadah transparan? Kacang kaya lemak tak jenuh, membuatnya cepat teroksidasi oleh udara dan cahaya, menimbulkan bau tengik dan racun. Hari ini, FreshSnap membagikan panduan penyimpanan kacang.",
-        "whyTitle": "Mengapa disimpan seperti ini? Fakta ilmiah",
-        "whyDesc": "Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpanan yang benar sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "intro": "Apakah Anda terbiasa menyimpan kacang almond, kenari, atau mete dalam toples kaca transparan di atas meja makan? 🥜\n\nKacang-kacangan mengandung 50–70% asam lemak tak jenuh yang sangat baik untuk kesehatan, namun membuatnya sangat rentan terhadap oksidasi lemak (ketengikan) saat terpapar panas, cahaya, dan oksigen. Di suhu ruang yang hangat dan lembap, jamur Aspergillus dapat tumbuh dan menghasilkan 'aflatoksin', yaitu zat karsinogenik Golongan 1 yang sangat berbahaya.\n\nHari ini, FreshSnap membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan pedoman FDA, USDA, dan MFDS untuk memblokir racun jamur dan menjaga kerenyahan serta kelezatan kacang Anda selama lebih dari 6 bulan. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
         "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-        "cautionTitle": "Aturan Penting dan Peringatan",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
         "tags": [
           "Kacang-kacangan",
           "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
@@ -416,36 +416,36 @@
         ],
         "cautions": [
           {
-            "title": "Jangan pernah memakan kacang yang tengik atau lembap",
-            "desc": "Kacang yang teroksidasi menghasilkan aflatoksin, zat karsinogenik kuat yang tidak hancur bahkan dengan pemanasan. Segera buang."
+            "title": "Jangan pernah memakan kacang yang tengik atau melempem ⚠️",
+            "desc": "Bau minyak tengik atau tekstur yang melunak menandakan oksidasi lemak tingkat lanjut dan potensi tumbuhnya racun jamur aflatoksin. Aflatoksin tahan terhadap panas dan tidak hancur dengan dicuci atau sangrai, jadi segera buang kacang yang tengik."
           },
           {
-            "title": "Segel dengan penyerap oksigen di tempat gelap",
-            "desc": "Simpan kacang dalam wadah kedap cahaya dengan penyerap oksigen di dalamnya, letakkan di laci sejuk atau bekukan."
+            "title": "Tangani biji kacang dengan hati-hati agar tidak pecah 🥜",
+            "desc": "Meremukkan atau merusak kulit luar kacang akan memperluas area permukaan yang terpapar oksigen, mempercepat ketengikan puluhan kali lipat. Hindari menekan kemasan kacang terlalu keras."
           }
         ],
         "steps": [
           {
-            "name": "Segel dan dinginkan/bekukan setelah dibuka — Dingin 90 hari & Beku 180 hari",
-            "text": "Kacang-kacangan mengandung lemak tinggi yang mudah teroksidasi dan berbau tengik di suhu ruang hangat dan lembap. Suhu ini juga memicu tumbuhnya racun aflatoksin (kanker). Selalu bekukan."
+            "name": "Segel rapat dan simpan di kulkas atau freezer setelah dibuka — Simpan Dingin (90 Hari di Kulkas, 180 Hari di Freezer) ❄️",
+            "text": "Membiarkan kacang di suhu ruang yang hangat mengoksidasi lemak tak jenuh dengan cepat, menghasilkan bau tengik dan risiko racun aflatoksin. 💡 Tips Penyimpanan: Segel rapat kacang yang sudah dibuka di kulkas (0–4°C) hingga 3 bulan, atau di freezer (-18°C) hingga lebih dari 6 bulan."
           },
           {
-            "name": "Kemas dalam wadah kedap udara atau kantong buram — Menghalangi cahaya 📦",
-            "text": "Cahaya dan oksigen mempercepat oksidasi asam lemak tak jenuh dalam kacang. Daripada kantong transparan, kemas dalam kantong buram atau wadah gelap, lalu tambahkan paket silika gel."
+            "name": "Bagi ke dalam wadah kedap udara buram atau kantong aluminium Ziploc — Tahan Cahaya & Oksigen 📦",
+            "text": "Sinar UV dan oksigen adalah pemicu utama ketengikan lemak pada kacang. 💡 Tips Penyimpanan: Hindari toples kaca bening. Gunakan wadah buram penahan cahaya atau kantong Ziploc aluminium. Tambahkan kantong silika gel untuk menyerap sisa kelembapan."
           },
           {
-            "name": "Jaga dalam kondisi kering bebas lembap — Penyimpanan Suhu Ruang (15Hari)",
-            "text": "Kacang kehilangan kerenyahan dan rasanya jika terkena kelembapan. Selalu jaga kacang dalam kondisi kering. Setelah dibuka, segera pindahkan ke wadah kedap udara."
+            "name": "Jaga dalam kondisi kering bebas lembap — Suhu Ruang Belum Dibuka (15 Hari) ☀️",
+            "text": "Kacang menyerap kelembapan udara dengan cepat, menyebabkannya kehilangan tekstur renyah dan rasa gurihnya. 💡 Tips Penyimpanan: Sebelum dibuka, simpan kemasan kacang di tempat yang sejuk, gelap, dan kering."
           }
         ],
         "faqs": [
           {
-            "question": "Is it okay to eat nuts that smell slightly rancid?",
-            "answer": "Absolutely not. Rancid fat in nuts develops 'aflatoxins', a powerful Class 1 carcinogen that causes liver damage. This toxin cannot be destroyed by heat."
+            "question": "Apakah kacang yang berbau tengik boleh dicuci atau disangrai kembali agar aman dimakan?",
+            "answer": "Sangat tidak boleh. Bau tengik menandakan bahwa asam lemak tak jenuh telah teroksidasi dan membentuk 'Aflatoksin', yaitu racun yang dihasilkan oleh jamur Aspergillus. Aflatoksin diklasifikasikan sebagai karsinogen Golongan 1 (penyebab kanker hati) dan sangat tahan panas—tidak dapat dihancurkan dengan dicuci atau disangrai di atas suhu 260°C. Segera buang kacang yang tengik."
           },
           {
-            "question": "Should nuts be kept in the pantry at room temperature?",
-            "answer": "No, lipids in nuts are highly sensitive to heat, air, and moisture. Storing at room temp accelerates rancidity. Always store sealed in the fridge or freezer."
+            "question": "Mengapa kacang-kacangan tidak boleh disimpan dalam toples transparan di atas meja suhu ruang?",
+            "answer": "Asam lemak tak jenuh dalam kacang tidak stabil dan terurai dengan cepat saat terpapar panas ruangan (15–25°C), cahaya, dan oksigen. Wadah transparan membiarkan cahaya memicu foto-oksidasi dalam beberapa hari. Menyimpannya dalam wadah buram kedap udara di dalam kulkas atau freezer dingin sangat penting demi keselamatan makanan."
           }
         ]
       }

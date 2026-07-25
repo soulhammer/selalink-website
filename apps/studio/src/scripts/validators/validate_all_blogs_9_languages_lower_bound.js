@@ -54,7 +54,7 @@ habitFiles.forEach(file => {
 });
 
 // 2. 반려동물 블로그 검사
-const petFiles = fs.readdirSync(petsDir).filter(f => f.endsWith('.json') && f !== 'meta.json');
+const petFiles = fs.readdirSync(petsDir).filter(f => f.endsWith('.json') && !f.startsWith('_'));
 petFiles.forEach(file => {
   const filePath = path.join(petsDir, file);
   const raw = JSON.parse(fs.readFileSync(filePath, 'utf-8'));

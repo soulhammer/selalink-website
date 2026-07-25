@@ -11,10 +11,10 @@
       "ko": {
         "title": "수박 신선하게 보관하는 법: 과학적 보관 가이드",
         "description": "공인된 안전 가이드라인에 따른 수박의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-        "authority": "<strong>KCA & MFDS</strong>",
-        "intro": "여름철 수박을 먹고 남았을 때 무심코 비닐 랩으로 겉만 감싸 냉장고에 넣으셨나요? 이는 수백만 마리의 식중독균을 급증시키는 원인입니다. 한국소비자원 공식 검증 보관법을 소개합니다.",
+        "authority": "<strong>한국소비자원(KCA) & 식품의약품안전처(MFDS) & 미국 농무부(USDA)</strong>",
+        "intro": "여름철 먹다 남은 수박을 반으로 자른 채 무심코 비닐 랩만 씌워 냉장고에 보관해 본 적 있으시죠? 🍉\n\n한국소비자원(KCA)의 실증 실험 결과에 따르면, 자른 수박 단면에 비닐 랩을 직접 밀착시켜 보관할 경우 표면의 세균 농도가 보관 전보다 최대 3,000배 이상 폭발적으로 증식합니다. 수박 껍질에 서식하던 미생물과 자른 단면에서 배어나온 수액(드립)이 랩 내부에 갇혀 세균 배양기 역할을 하기 때문입니다.\n\n오늘 FreshSnap에서는 한국소비자원과 식품의약품안전처(MFDS)의 검증된 가이드라인을 바탕으로 식중독균 증식을 완벽히 차단하고 7일 이상 아삭함과 당도를 유지하는 3단계 과학적 보관 비법을 전해드립니다. 🛡️",
         "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-        "whyDesc": "각 식재료의 고유한 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
         "guideTitle": "과학적으로 검증된 보관 가이드",
         "cautionTitle": "보관 시 필수 규칙 및 주의사항",
         "tags": [
@@ -24,48 +24,48 @@
         ],
         "cautions": [
           {
-            "title": "칼과 도마의 살균 상태를 꼭 확인하세요 🔪",
-            "desc": "수박에 유입되는 대부분의 세균은 자를 때 쓰는 칼과 도마에서 교차 오염됩니다. 세척 및 건조 상태가 불량한 도구를 사용하지 않도록 각별히 유의해야 합니다."
+            "title": "자른 수박 단면에 비닐 랩만 직접 덮어 보관하지 마세요 ⚠️",
+            "desc": "반으로 자른 수박에 랩만 씌우면 갇힌 습기와 표면 수액 속에서 세균(황색포도상구균 등)이 수천 배 급증하여 표면을 잘라내도 독소가 남습니다. 남은 수박에 랩만 씌워 보관하는 것은 식중독을 부르는 위험한 습관입니다."
           },
           {
-            "title": "1주일 이내로 반드시 소비해야 합니다 ⚠️",
-            "desc": "아무리 깍둑썰기하여 밀폐 보관했더라도 7일이 지나면 속살 수분이 무너지면서 미생물 밀도가 증가합니다. 가급적 일주일 이내에 모두 섭취하세요."
+            "title": "수박을 자르기 전 겉껍질을 깨끗이 세척하세요 🔪",
+            "desc": "수박 과육으로 들어가는 세균의 90% 이상은 칼을 댈 때 겉껍질에 묻어있던 흙과 이물질, 미생물이 단면으로 이동하면서 발생합니다. 자르기 전 흐르는 물에 베이킹소다나 수세미로 껍질을 깨끗이 씻어 건조한 뒤 잘라야 합니다."
           }
         ],
         "steps": [
           {
-            "name": "비닐 랩 절대 금지 — 식중독균 증식 예방 ❌🍉",
-            "text": "수박을 반으로 잘라 비닐 랩으로 덮어 보관하면, 수박 표면에 세균이 수천 배 이상 폭발적으로 증식하여 식중독 위험을 높입니다. 남은 수박에 절대 랩만 씌워 보관하지 마세요."
+            "name": "비닐 랩 포장 절대 금지 및 겉껍질 도려내기 — 교차 오염 차단 ❌🍉",
+            "text": "자른 수박 단면에 랩을 씌우는 것은 세균 번식을 부추기는 행위입니다. 💡 보관 팁: 칼과 도마를 소독한 뒤, 수박의 초록색 겉껍질을 도려내어 과육과 껍질을 완전히 분리해 주세요. 껍질 표면의 세균이 과육에 닿는 것을 차단하는 것이 핵심입니다."
           },
           {
-            "name": "껍질을 도려내고 깍둑썰기 후 밀폐용기 보관 — 냉장 보관 (7일) 📦",
-            "text": "수박의 껍질 부위에 묻은 먼지와 미생물이 단면에 닿지 않도록 주의하며 껍질을 전부 도려낸 후, 과육을 먹기 좋은 크기로 깍둑썰기하여 소독된 밀폐용기에 담아 뚜껑을 꼭 닫아 보관합니다."
+            "name": "과육을 깍둑썰기(큐브)하여 소독된 밀폐 용기에 담기 — 냉장 보관 (7일) 📦",
+            "text": "과육을 한 입 크기로 자르면 먹기 편할 뿐만 아니라 공기 접촉면을 줄일 수 있습니다. 💡 보관 팁: 깍둑썰기한 수박을 깨끗이 소독하여 바짝 말린 밀폐 용기에 차곡차곡 담아 뚜껑을 꼭 닫으세요. 랩 보관 대비 세균 증식률이 99% 이상 감소합니다."
           },
           {
-            "name": "0~4℃ 일정한 온도에서 야채칸 깊숙이 보관 — 차가운 냉장 ❄️",
-            "text": "밀폐 용기에 담은 수박을 냉장고 내부 야채칸 깊숙한 곳이나 안쪽 선반에 넣어 보관합니다. 온도 변화가 적은 곳에서 보관해야 수박의 아삭한 텍스처와 당도가 떨어지지 않고 안전하게 보존됩니다."
+            "name": "0~4℃ 일정한 온도의 냉장고 안쪽 선반에 보관하기 — 차가운 저온 냉장 ❄️",
+            "text": "밀폐 용기에 담은 수박은 문 쪽 포켓이 아닌 온도 변화가 적은 안쪽 깊숙한 곳에 두어야 합니다. 💡 보관 팁: 냉장고 야채칸이나 안쪽 선반(0~4℃)에 보관해야 과육의 아삭한 세포 조직이 파괴되지 않고 당도가 7일 이상 유지됩니다."
           }
         ],
         "faqs": [
           {
-            "question": "수박을 반으로 잘라 랩만 씌워 냉장 보관하는 것은 위험한가요?",
-            "answer": "매우 위험합니다. 랩을 씌워 수박을 보관하면 일주일 만에 자른 단면의 세균 농도가 3천 배 이상 급증합니다. 반드시 껍질을 잘라내고 큐브 모양으로 썰어 밀폐용기에 보관해야 합니다."
+            "question": "수박을 반으로 잘라 랩만 씌워 냉장 보관한 경우, 자른 표면만 1cm 도려내고 먹으면 안전한가요?",
+            "answer": "안전하지 않습니다. 비닐 랩을 덮어 보관하면 일주일 만에 세균 농도가 3,000배 이상 증가할 뿐만 아니라, 세균이 분비한 수용성 세균 독소와 미생물이 수박의 풍부한 수분 세포를 따라 과육 내부 깊숙이 침투합니다. 표면을 자르더라도 내부 오염 가능성이 높으므로 반 자른 수박은 즉시 껍질을 벗겨 큐브 모양으로 잘라 밀폐 용기에 담아 보관해야 합니다."
           },
           {
-            "question": "수박을 통째로 냉장고 깊숙이 넣어도 되나요?",
-            "answer": "통수박은 냉장고 깊숙한 찬 공기에 노출되면 냉해를 입어 과육이 푸석거리고 당도가 내려갑니다. 보관 시 신문지나 타월로 감싸서 적당히 서늘한 온도 대에 보관하는 것이 좋습니다."
+            "question": "통수박을 자르지 않고 냉장고 깊숙이 오래 보관해도 되나요?",
+            "answer": "통수박을 4℃ 이하의 지나치게 차가운 냉장고 깊숙한 곳에 오랫동안 보관하면 '저온 냉해(Chilling Injury)'를 입습니다. 과육의 세포벽이 무너져 함몰 반점이 생기고 스펀지처럼 퍼석거리는 식감으로 변하며 당도가 떨어집니다. 자르지 않은 통수박은 서늘한 상온(10~15℃) 그늘에 두었다가, 드시기 2~3시간 전에 냉장고에 넣어 차갑게 드시는 것이 가장 맛있습니다."
           }
         ]
       },
       "en": {
-        "title": "How to Store Watermelon Fresh: Scientific Storage Guide",
-        "description": "Learn the best storage temperature, methods, and duration for Watermelon based on official safety guidelines.",
-        "authority": "<strong>KCA & MFDS</strong>",
-        "intro": "Did you know that covering leftover watermelon with plastic wrap can multiply food poisoning bacteria on the surface by over 3,000 times? Today, FreshSnap shares KCA-approved safe watermelon sealing and storage hacks.",
-        "whyTitle": "Why store like this? Scientific facts",
-        "whyDesc": "Understanding the unique characteristics of each ingredient and following the proper storage method is extremely important for maintaining freshness and hygiene.",
+        "title": "How to Keep Watermelon Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for watermelon based on official safety guidelines.",
+        "authority": "<strong>KCA & MFDS & USDA</strong>",
+        "intro": "Have you ever cut a watermelon in half and loosely covered the exposed face with plastic wrap before putting it in the fridge? 🍉\n\nAccording to clinical testing by the Korea Consumer Agency (KCA), covering cut watermelon directly with plastic wrap causes bacterial levels on the cut surface to explode by over 3,000 times compared to initial counts. Moisture and nutrient-rich exudate (drip) from the fruit get trapped beneath the plastic film, turning the surface into an ideal bacterial incubator.\n\nToday, FreshSnap shares a scientifically proven 3-step storage guide based on guidelines from the KCA, MFDS, and USDA to completely prevent foodborne bacteria, preserve sweetness, and keep your cubed watermelon crisp for over a week. 🛡️",
+        "whyTitle": "Why Store Watermelon This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
         "guideTitle": "Scientifically Proven Storage Guide",
-        "cautionTitle": "Crucial Rules and Cautions",
+        "cautionTitle": "Essential Storage Rules and Cautions",
         "tags": [
           "Watermelon",
           "Scientifically Proven Storage Guide",
@@ -73,46 +73,46 @@
         ],
         "cautions": [
           {
-            "title": "Never store wrapped watermelon directly",
-            "desc": "Plastic wrap traps moisture and promotes fast bacterial growth. Cut surface contamination is highly dangerous."
+            "title": "Never cover cut watermelon directly with plastic wrap ⚠️",
+            "desc": "Covering cut halves with plastic wrap traps respiration humidity and fruit drip, causing food poisoning bacteria (like Staphylococcus aureus) to multiply thousands of times over. Even trimming the top surface will not remove water-soluble bacterial toxins that migrate inward."
           },
           {
-            "title": "Dice and store in airtight containers",
-            "desc": "Cut off the rind completely, dice the flesh, and keep sealed inside airtight containers in the fridge."
+            "title": "Thoroughly wash the outer rind before slicing 🔪",
+            "desc": "Over 90% of bacteria contaminating watermelon flesh are transferred from soil, dust, and microbes on the outer rind when the knife slices through. Always scrub the outer rind with water and baking soda or a brush and dry it before cutting."
           }
         ],
         "steps": [
           {
-            "name": "Never cover with plastic wrap directly — Prevent food poisoning ❌🍉",
-            "text": "Covering a cut watermelon directly with plastic wrap creates a humid seal that causes bacteria to multiply thousands of times over, increasing the risk of food poisoning. Never store cut watermelon with just plastic wrap."
+            "name": "Avoid plastic wrap directly on cut fruit and slice off the rind — Prevent Cross-Contamination ❌🍉",
+            "text": "Wrapping cut halves with plastic film fosters bacterial blooms. 💡 Storage Tip: After sanitizing your knife and cutting board, slice away the green outer rind completely to separate the flesh from the skin, preventing rind microbes from contacting the red fruit."
           },
           {
-            "name": "Cut off rind and cube into airtight containers — Refrigerated Storage (7Days) 📦",
-            "text": "Carefully slice off the rind to prevent surface dust and bacteria from touching the red pulp. Chop the fruit into bite-sized cubes and store them in a clean, sanitized airtight container with the lid tightly closed."
+            "name": "Cube the flesh and place inside sanitized airtight containers — Cold Storage (7 Days) 📦",
+            "text": "Cutting the red flesh into bite-sized cubes minimizes surface air exposure and makes serving convenient. 💡 Storage Tip: Pack the cubed watermelon into clean, dry airtight containers and seal the lid tightly. This reduces bacterial growth by over 99% compared to plastic wrap storage."
           },
           {
-            "name": "Store deep inside the crisper drawer at a stable 0–4°C ❄️",
-            "text": "Place the airtight container deep inside the crisper drawer or on the inner shelf of the refrigerator. Storing it in an area with minimal temperature fluctuation keeps the watermelon crisp and preserves its sweetness."
+            "name": "Store deep inside refrigerator shelves at a stable 0–4°C — Cool Refrigeration ❄️",
+            "text": "Airtight containers of cubed watermelon should be stored away from refrigerator door pockets. 💡 Storage Tip: Keep containers deep on inner shelves or in the crisper drawer (0–4°C / 32–39°F), where temperature fluctuations are minimal, preserving crisp texture and natural sweetness for up to 7 days."
           }
         ],
         "faqs": [
           {
-            "question": "Is it dangerous to store cut watermelon wrapped only in plastic wrap?",
-            "answer": "Very dangerous. Studies show wrapping cut watermelon increases bacterial levels by 3,000 times in a week. Cut the flesh into cubes and store in sealed containers."
+            "question": "If I stored a half-cut watermelon wrapped in plastic wrap, is it safe to just shave off the top 1 cm of flesh?",
+            "answer": "No, it is not safe. Studies show wrapping cut watermelon in plastic film increases surface bacterial counts over 3,000-fold in a week. More importantly, water-soluble bacterial toxins and microbes easily penetrate deep into the water-rich flesh along cellular channels. Trimming the surface cannot guarantee safety. Always remove the rind immediately after cutting, cube the flesh, and store it in airtight containers."
           },
           {
-            "question": "Can I put a whole watermelon directly in the coldest part of the fridge?",
-            "answer": "Whole watermelon suffers chilling injury in direct cold air, making the flesh mealy. Wrap it in a thick towel and store it in a cool pantry or crisper."
+            "question": "Is it okay to store an uncut whole watermelon deep inside the coldest part of the fridge for a long time?",
+            "answer": "No. Storing an uncut whole watermelon at temperatures below 4°C for prolonged periods induces 'Chilling Injury.' The cell walls break down, resulting in pitted surface depressions, mealy texture, and lost sweetness. Whole unripened watermelons should be kept in a cool, shaded room (10–15°C / 50–59°F) and chilled in the fridge for 2–3 hours right before serving."
           }
         ]
       },
       "ja": {
-        "title": "スイカの鮮度を保つ保存方法：科学的保管ガイド",
-        "description": "公的安全基準に基づくスイカの最適な保存温度、保管方法、保存期間について解説します。",
-        "authority": "<strong>韓国消費者院(KCA) & 食品医薬品安全処(MFDS)</strong>",
-        "intro": "使い残したスイカにラップだけを被せて冷蔵庫に入れておく保存方法、スイカの表面で食中毒細菌が3,000倍以上に急増することをご存知ですか？本日、韓国消費者庁（KCA）などのデータに基づき、安全な密閉保存法をご紹介します。",
-        "whyTitle": "なぜこのように保存するのか？科学的な事実",
-        "whyDesc": "食材ごとの特性を理解し、正しい保存方法を実践することは、鮮度キープと衛生管理において非常に重要です。",
+        "title": "スイカを新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくスイカの最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "<strong>韓国消費者院(KCA) & 食品医薬品安全処(MFDS) & 米国農務省(USDA)</strong>",
+        "intro": "食べ残したスイカを半分に切ったまま、直接ラップを被せて冷蔵庫に入れていませんか？🍉\n\n韓国消費者院（KCA）の検証実験によると、カットしたスイカの断面に直接ラップを貼って保存した場合、切り口の細菌濃度が保存前と比べて最大3,000倍以上に爆発的増殖することが判明しています。皮に付着していた細菌や断面から出た果汁（ドリップ）がラップ内部に閉じ込められ、細菌の培養器となってしまうためです。\n\n本日FreshSnapでは、韓国消費者院および食品医薬品安全処（MFDS）のガイドラインに基づき、食中毒菌の繁殖を遮断し、7日以上シャキシャキ感と甘みを保つ3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
         "guideTitle": "科学的に検証された保存ガイド",
         "cautionTitle": "保存時の注意点",
         "tags": [
@@ -122,48 +122,48 @@
         ],
         "cautions": [
           {
-            "title": "ラップを被せただけの状態で絶対に保存しないでください",
-            "desc": "ラップ密着は湿気をこもらせ、雑菌の繁殖を促します。カット断面の汚染は食中毒のリスクが高いため避けてください。"
+            "title": "カットしたスイカの断面にラップだけを直貼りして保存しないでください ⚠️",
+            "desc": "半分に切ったスイカにラップだけをかけると、こもった湿気と果汁の中で雑菌（黄色ブドウ球菌など）が数千倍に増殖します。表面を削ぎ落としても水溶性の細菌毒素が内部に浸透するため、非常に危険な保存方法です。"
           },
           {
-            "title": "果肉をサイコロ状にカットし、密閉容器に入れて保存してください",
-            "desc": "皮の部分をすべて切り落とし、果肉を一口サイズにカットして、綺麗な密閉容器に入れて冷蔵庫で保管するのが最も安全です。"
+            "title": "スイカを切る前に外側の皮をきれいに水洗いしてください 🔪",
+            "desc": "果肉に侵入する細菌の90%以上は、包丁を入れる際に皮に付着していた土や雑菌が断面に付着することで発生します。切る前に流れる水で重曹やたわしを使い、皮を綺麗に洗って拭き取ってから切ってください。"
           }
         ],
         "steps": [
           {
-            "name": "プラスチックラップでの保存は避ける — 食中毒菌繁殖の防止 ❌🍉",
-            "text": "スイカを半分に切ってラップだけをかけて保存すると, 切り口に雑菌が数千倍以上に繁殖し, 食中毒のリスクが高まります。残ったスイカにラップだけをかけて保存するのは避けてください。"
+            "name": "ラップの直貼りは禁止し皮を全て切り落とす — 二次汚染の遮断 ❌🍉",
+            "text": "カット面にラップを貼る保存は雑菌の繁殖を促します。💡保存のコツ：包丁とまな板を消毒した後、スイカの緑色の皮をすべて切り落として果肉と完全に分離してください。皮の表面の細菌が果肉に触れるのを防ぐことが最重要です。"
           },
           {
-            "name": "皮を取り除き、角切りにして密閉容器に入れる — 冷蔵保存 (7日間) 📦",
-            "text": "スイカの皮についた汚れや細菌が断面につかないように注意しながら皮を切り落とし, 食べやすい大きさに角切りにして、きれいに洗った密閉容器に入れてしっかりと蓋を閉めて保存します。"
+            "name": "果肉を角切り（サイコロ状）にして消毒した密閉容器に入れる — 冷蔵保存 (7日間) 📦",
+            "text": "果肉を一口サイズに切ることで、空気との接触面積を減らし食べやすくなります。💡保存のコツ：一口大にカットしたスイカを、きれいに洗って乾かした密閉容器に敷き詰めてフタをしっかり閉めて保存してください。ラップ保存に比べ細菌増殖率が99%以上減少します。"
           },
           {
-            "name": "0〜4℃の一定の温度で野菜室の奥に保存 — 冷蔵保存 ❄️",
-            "text": "密閉容器に入れたスイカを, 冷蔵庫の野菜室の奥や棚の奥に入れて保存します。温度変化が少ない場所に置くことで, スイカのシャキシャキした食感や甘みを落とさずに保存できます。"
+            "name": "0〜4℃の一定温度の冷蔵庫奥の棚で保存する — 低温冷蔵 ❄️",
+            "text": "密閉容器に入れたスイカは、ドアポケットではなく温度変化の少ない庫内奥に置きます。💡保存のコツ：冷蔵庫の野菜室や本体奥の棚（0〜4℃）で保管することで、果肉の細胞組織が壊れず、甘みとシャキシャキ感が7日以上保たれます。"
           }
         ],
         "faqs": [
           {
-            "question": "スイカを半分に切ってラップだけをかけて冷蔵するのは危険ですか？",
-            "answer": "非常に危険です。ラップをかけて保存すると、カットした断面の細菌濃度が1週間で3千倍以上に急増します。皮を切り落とし、密閉容器に入れて保存してください。"
+            "question": "半分に切ってラップをかけて冷蔵保存した場合、表面を1cmほど削ぎ落とせば食べられますか？",
+            "answer": "安全ではありません。ラップをかけて保存すると、1週間で細菌数が3,000倍以上に増えるだけでなく、細菌が放出した水溶性の毒素や微生物がスイカの豊富な水分を通じて果肉の奥深くまで浸透してしまうためです。表面を切っても内部汚染の危険が高いため、カットしたスイカはすぐに皮を剥いて角切りにし、密閉容器に入れて保管してください。"
           },
           {
-            "question": "スイカを丸ごと冷蔵庫に入れてもいいですか？",
-            "answer": "丸ごとのスイカは直接冷気にさらされると低温障害を起こし、果肉が劣化して甘みが低下します。新聞紙等で包んで比較的冷えすぎない場所に保存してください。"
+            "question": "丸ごとのスイカを切らずに冷蔵庫の奥で長期間保存しても大丈夫ですか？",
+            "answer": "丸ごとのスイカを4℃以下の冷たすぎる場所に長期間置くと「低温障害（Chilling Injury）」を起こします。果肉の細胞壁が壊れて凹みができ、スポンジのようにパサついた食感になって甘みも落ちてしまいます。切っていないスイカは風通しの良い涼しい常温（10〜15℃）の日陰に置き、食べる2〜3時間前に冷蔵庫に入れて冷やして食べるのが最も美味しく安全です。"
           }
         ]
       },
       "zh": {
-        "title": "如何保鲜储存西瓜：科学储存指南",
+        "title": "如何保持西瓜新鲜：科学储存指南",
         "description": "根据官方食品安全指南，了解西瓜的最佳储存温度、方式和保鲜时长。",
-        "authority": "<strong>韩国消费者院(KCA) & 韩国食品医药品安全处(MFDS)</strong>",
-        "intro": "用保鲜膜包裹吃剩的西瓜放进冰箱，会导致西瓜表面滋生的细菌暴增3000倍以上，您知道吗？今天，FreshSnap为您分享基于韩国消费者院(KCA)指南的安全密封与保存妙招。",
+        "authority": "<strong>韩国消费者院(KCA) & 韩国食品医药品安全处(MFDS) & 美国农务部(USDA)</strong>",
+        "intro": "吃剩的半个西瓜，您是否习惯性地直接覆上一层保鲜膜就丢进冰箱冷藏？🍉\n\n根据韩国消费者院（KCA）的实证对比实验，如果在切开的西瓜切面上直接贴覆保鲜膜保存，一周后切面上的细菌浓度会比保存前暴增3,000倍以上！这是因为西瓜表皮残留的细菌以及切面渗出的富含营养的水汽被困在保鲜膜内，使保鲜膜变成了细菌温床。\n\n今天FreshSnap基于韩国消费者院和韩国食品医药品安全处(MFDS)的安全指南，为您带来3步科学保存秘诀，帮您彻底阻断致病菌滋生，保持西瓜清脆甜美达7天以上。🛡️",
         "whyTitle": "为什么要这样储存？科学原理",
-        "whyDesc": "了解每种食材的独特特性并遵循正确的储存方法，对于保持新鲜度和卫生至关重要。",
+        "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
         "guideTitle": "科学验证的储存指南",
-        "cautionTitle": "储存注意事项",
+        "cautionTitle": "储存必需规则及注意事项",
         "tags": [
           "西瓜",
           "科学验证的储存指南",
@@ -171,48 +171,48 @@
         ],
         "cautions": [
           {
-            "title": "切勿仅裹着保鲜膜直接存放",
-            "desc": "保鲜膜会聚集湿气并加速细菌滋生。切面污染极易引发食物中毒，非常危险。"
+            "title": "切勿在切开的西瓜面上直接覆保鲜膜保存 ⚠️",
+            "desc": "切半西瓜仅裹保鲜膜会导致积聚的水汽与汁液引发金黄色葡萄球菌等致病菌数千倍暴增。即便随后切掉表面一层，水溶性细菌毒素也已渗透至果肉内部，极易引发食物中毒。"
           },
           {
-            "title": "切成小方块并装入密封容器中保存",
-            "desc": "彻底削去西瓜皮，将果肉切成小块，装入干净的密封容器中冷藏保存是最安全的方法。"
+            "title": "切西瓜前请务必彻底清洗外皮 🔪",
+            "desc": "侵入西瓜果肉的细菌，90%以上是在下刀时由外皮残留的泥沙、杂质与微生物顺着刀口带入切面的。切西瓜前请先用流动水和小苏打或刷子将外皮彻底洗净并擦干。"
           }
         ],
         "steps": [
           {
-            "name": "切勿直接覆盖保鲜膜 — 防止食中毒菌繁殖 ❌🍉",
-            "text": "如果将西红柿或西瓜切半直接覆上保鲜膜保存，切面上会滋生几千倍以上的细菌，极易引发食物中毒。切开的西瓜绝对不能仅包一层保鲜膜存放。"
+            "name": "严禁直接覆保鲜膜，并将外皮完全削去 — 阻断交叉污染 ❌🍉",
+            "text": "在切面上覆盖保鲜膜会催生细菌爆发。💡储存小贴士：消毒刀具和案板后，将西瓜绿色外皮彻底削去，使果肉与果皮完全分离，从源头上隔绝表皮细菌接触红瓤。"
           },
           {
-            "name": "去皮切块装入密封盒保存 — 冷藏储存 (7天) 📦",
-            "text": "小心切除西瓜外皮，防止外皮的泥沙和细菌接触红瓤。将果肉切成一口大小的方块，装入洗净控干的密封保鲜盒中，扣紧盖子冷藏保存。"
+            "name": "果肉切成小方块装入消毒密封盒中 — 冷藏保存 (7天) 📦",
+            "text": "将果肉切成一口大小的方块不仅方便食用，还能减少空气接触。💡储存小贴士：将切块的西瓜装入洗净擦干的密封保鲜盒中，扣紧盖子冷藏。相比保鲜膜存放，细菌滋生率可降低99%以上。"
           },
           {
-            "name": "在0-4℃恒温下存放在蔬菜保鲜室深处 — 低温冷藏 ❄️",
-            "text": "将装入密封盒的西瓜放在冰箱蔬菜保鲜室深处或隔板最内侧。必须存放在温度变化较小的地方，这样才能防止西瓜松软并锁住糖分，安全保鲜。"
+            "name": "保存在0~4℃恒温的冰箱内侧隔板 — 保持清脆 ❄️",
+            "text": "装盒后的西瓜应避开冰箱门侧架，存放在温度起伏小的冰箱内部。💡储存小贴士：存放在冰箱冷藏保鲜层深处（0~4℃），恒定低温能保护果肉细胞壁不被破坏，锁住糖分与清脆口感达7天。"
           }
         ],
         "faqs": [
           {
-            "question": "西瓜切半只裹保鲜膜冷藏很危险吗？",
-            "answer": "非常危险。研究显示，仅裹保鲜膜存放的西瓜，切面细菌浓度会在一周内暴增 3,000 倍以上。务必切除外皮并切成方块，装入密封容器中冷藏。"
+            "question": "如果切半的西瓜只裹了保鲜膜冷藏，吃的时候把表面切掉1厘米安全吗？",
+            "answer": "不安全。仅裹保鲜膜冷藏不仅会导致表面细菌暴增3000倍以上，且细菌分泌的水溶性毒素和微生物会顺着西瓜丰富的汁液管道深层渗透进果肉内部。仅仅切掉表面一层无法保证食用安全。切开西瓜后应立即削皮切块，装入密封盒中冷藏保存。"
           },
           {
-            "question": "整个西瓜可以直接塞进冰箱深处吗？",
-            "answer": "整个西瓜如果暴露在冰箱深处的极冷空气中会遭受冻伤，使果肉变粉、甜度下降。保存时建议用新闻纸或毛巾包裹，放在温度适中的冷藏层。"
+            "question": "可以把整球未切开的西瓜长期放在冰箱冷藏室深处吗？",
+            "answer": "不建议。未切开的整球西瓜若长时间置于低于4℃的过冷冰箱深处，会发生“冷害（Chilling Injury）”。这会导致西瓜果肉细胞壁崩解，出现凹陷水渍斑，肉质变得像海绵一样渣软，甜度大幅下降。未切开的西瓜应存放在10~15℃凉爽常温阴凉处，食用前2~3小时放入冰箱冰镇即可。"
           }
         ]
       },
       "es": {
-        "title": "Cómo almacenar Sandía fresco: Guía científica de conservación",
-        "description": "Descubra la mejor temperatura, métodos y duración para conservar Sandía según las directrices oficiales de seguridad.",
-        "authority": "<strong>KCA & MFDS</strong>",
-        "intro": "¿Sabía que cubrir la sandía sobrante con film plástico multiplica las bacterias 3,000 veces en la superficie? Hoy, FreshSnap comparte trucos seguros aprobados por la KCA.",
-        "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
-        "whyDesc": "Comprender las características únicas de cada ingrediente y seguir el método de almacenamiento adecuado es fundamental para mantener la frescura y la higiene.",
+        "title": "Cómo mantener la sandía fresca: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y la duración de conservación óptimos para la sandía según las directrices oficiales de seguridad.",
+        "authority": "<strong>KCA & MFDS & USDA</strong>",
+        "intro": "¿Alguna vez cortó una sandía por la mitad y cubrió directamente la superficie expuesta con film plástico antes de meterla al refrigerador? 🍉\n\nSegún ensayos clínicos de la Agencia de Consumidores de Corea (KCA), cubrir la sandía cortada directamente con papel film plástico hace que las bacterias en la superficie se multipliquen de forma explosiva ¡más de 3,000 veces! La humedad y los jugos ricos en nutrientes quedan atrapados bajo el plástico, convirtiendo la superficie en una incubadora bacteriana.\n\nHoy, FreshSnap comparte una guía científica en 3 pasos basada en las directrices de la KCA, el MFDS y el USDA para bloquear las bacterias, conservar la dulzura y mantener sus cubos de sandía crujientes por más de una semana. 🛡️",
+        "whyTitle": "¿Por qué almacenarla así? Datos científicos",
+        "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
         "guideTitle": "Guía de almacenamiento científicamente probada",
-        "cautionTitle": "Reglas cruciales y precauciones",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
         "tags": [
           "Sandía",
           "Guía de almacenamiento científicamente probada",
@@ -220,48 +220,48 @@
         ],
         "cautions": [
           {
-            "title": "Nunca guarde la sandía envuelta en film directamente",
-            "desc": "El film atrapa la humedad y favorece el rápido crecimiento de bacterias. La contaminación de la superficie es muy peligrosa."
+            "title": "Nunca cubra la sandía cortada directamente con film plástico ⚠️",
+            "desc": "Cubrir metades cortadas con papel film atrapa la humedad de la respiración y el jugo, provocando que bacterias patógenas (como Staphylococcus aureus) se multipliquen en miles de veces. Incluso recortar la capa superior no eliminará las toxinas bacterianas que migran hacia el interior."
           },
           {
-            "title": "Corte en cubos y guarde en recipientes herméticos",
-            "desc": "Retire la cáscara por completo, corte la pulpa en cubos y guárdela sellada en recipientes herméticos en el refrigerador."
+            "title": "Lave minuciosamente la cáscara externa antes de cortar 🔪",
+            "desc": "Más del 90% de las bacterias que contaminan la pulpa provienen del polvo y microbios de la piel externa al arrastrarlos el cuchillo. Lave siempre la cáscara con agua y bicarbonato o un cepillo y séquela antes de cortar."
           }
         ],
         "steps": [
           {
-            "name": "Nunca cubra con film plástico directo — Evite intoxicaciones ❌🍉",
-            "text": "Cubrir la mitad de una sandía con film plástico crea un sello húmedo que multiplica las bacterias rápidamente, aumentando el riesgo de intoxicación. Nunca guarde la sandía solo con film."
+            "name": "Evite el film plástico en la pulpa y retire la cáscara — Prevenga la contaminación cruzada ❌🍉",
+            "text": "Envolver la fruta cortada con film transparente favorece la proliferación de bacterias. 💡 Consejo de almacenamiento: Desinfecte el cuchillo y la tabla, y retire toda la cáscara verde para separar la pulpa de la piel, evitando que los microbios de la cáscara toquen la pulpa roja."
           },
           {
-            "name": "Quite la cáscara, corte en cubos y guarde en un envase hermético — Almacenamiento Refrigerado (7Días) 📦",
-            "text": "Retire la cáscara con cuidado para que el polvo de la superficie no toque la pulpa. Corte la sandía en cubos pequeños y guárdelos en un contenedor hermético limpio con la tapa bien cerrada."
+            "name": "Corte la pulpa en cubos y colóquela en recipientes herméticos estériles — Refrigeración (7 días) 📦",
+            "text": "Cortar la pulpa roja en cubos pequeños reduce el contacto con el aire y facilita el consumo. 💡 Consejo de almacenamiento: Guarde la sandía en cubos en recipientes herméticos limpios y secos con la tapa bien cerrada. Esto reduce el crecimiento bacteriano en más de un 99% en comparación con el papel film."
           },
           {
-            "name": "Guarde al fondo del cajón de verduras a una temperatura estable de 0-4 °C ❄️",
-            "text": "Coloque el contenedor hermético al fondo del cajón de verduras. Almacenar en un lugar con fluctuaciones mínimas de temperatura mantiene la sandía crujiente y conserva su dulzura."
+            "name": "Guarde al fondo de los estantes del refrigerador a 0–4 °C estables — Refrigeración fresca ❄️",
+            "text": "Los contenedores herméticos deben guardarse lejos de la puerta. 💡 Consejo de almacenamiento: Mantenga los recipientes en los estantes interiores profundos o en el cajón de verduras (0–4 °C), donde las oscilaciones térmicas son mínimas, conservando la textura crujiente y la dulzura hasta por 7 días."
           }
         ],
         "faqs": [
           {
-            "question": "Is it dangerous to store cut watermelon wrapped only in plastic wrap?",
-            "answer": "Very dangerous. Studies show wrapping cut watermelon increases bacterial levels by 3,000 times in a week. Cut the flesh into cubes and store in sealed containers."
+            "question": "Si guardé media sandía envuelta en film plástico, ¿es seguro recortar solo 1 cm de la superficie para comerla?",
+            "answer": "No, no es seguro. Los estudios demuestran que envolver la sandía cortada en film plástico aumenta la concentración bacteriana más de 3,000 veces en una semana. Además, las toxinas bacterianas hidrosolubles y los microorganismos penetran profundamente en la pulpa jugosa a través de los canales celulares. Recortar la superficie no garantiza la seguridad; corte siempre la cáscara, pique en cubos y guarde en recipientes herméticos."
           },
           {
-            "question": "Can I put a whole watermelon directly in the coldest part of the fridge?",
-            "answer": "Whole watermelon suffers chilling injury in direct cold air, making the flesh mealy. Wrap it in a thick towel and store it in a cool pantry or crisper."
+            "question": "¿Se puede guardar una sandía entera sin cortar al fondo del refrigerador por mucho tiempo?",
+            "answer": "No. Guardar una sandía entera a temperaturas inferiores a 4 °C por tiempo prolongado causa 'Daño por frío (Chilling Injury)'. Las paredes celulares se rompen, provocando manchas hundidas en la piel, textura harinosa y pérdida de dulzura. Las sandías enteras deben mantenerse a temperatura ambiente fresca (10–15 °C) y enfriarse en el refrigerador 2 o 3 horas antes de servir."
           }
         ]
       },
       "fr": {
-        "title": "Comment conserver Pastèque frais : Guide scientifique de conservation",
-        "description": "Découvrez la température, les méthodes et la durée optimales de conservation pour Pastèque selon les directives de sécurité officielles.",
-        "authority": "<strong>KCA & MFDS</strong>",
-        "intro": "Saviez-vous que recouvrir le reste de pastèque de film plastique multiplie les bactéries par 3 000 en surface ? Aujourd'hui, FreshSnap vous montre les astuces recommandées par la KCA.",
-        "whyTitle": "Pourquoi conserver ainsi ? Faits scientifiques",
-        "whyDesc": "Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédient et de suivre la bonne méthode de conservation pour préserver la fraîcheur et l’hygiène.",
+        "title": "Comment conserver la pastèque fraîche : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour la pastèque selon les directives officielles de sécurité.",
+        "authority": "<strong>KCA & MFDS & USDA</strong>",
+        "intro": "Avez-vous déjà coupé une pastèque en deux et recouvert directement la chair d'un film plastique avant de la mettre au réfrigérateur ? 🍉\n\nSelon les tests cliniques de l'Agence Coréenne des Consommateurs (KCA), recouvrir directement de la pastèque coupée avec du film étirable fait exploser la concentration bactérienne à la surface de plus de 3 000 fois ! L'humidité et l'exsudat sucré restent emprisonnés sous le plastique, transformant la chair en une véritable couveuse à microbes.\n\nAujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations de la KCA, du MFDS et du USDA pour bloquer les bactéries, préserver le sucre et garder vos dés de pastèque croquants pendant plus d'une semaine. 🛡️",
+        "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
         "guideTitle": "Guide de conservation scientifiquement prouvé",
-        "cautionTitle": "Règles cruciales et précautions",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
         "tags": [
           "Pastèque",
           "Guide de conservation scientifiquement prouvé",
@@ -269,48 +269,48 @@
         ],
         "cautions": [
           {
-            "title": "Ne conservez jamais la pastèque filmée directement",
-            "desc": "Le film plastique emprisonne l'humidité et favorise le développement des bactéries. La contamination de la chair est dangereuse."
+            "title": "Ne recouvrez jamais la pastèque coupée directement avec du film plastique ⚠️",
+            "desc": "Recouvrir la tranche avec du film plastique piège l'humidité de respiration et le jus, provoquant une multiplication par milliers de bactéries pathogènes (comme le staphylocoque doré). Même en coupant la tranche supérieure, les toxines bactériennes hydrosolubles s'infiltrent en profondeur."
           },
           {
-            "title": "Coupez en dés et conservez en boîte étanche",
-            "desc": "Retirez complètement l'écorce, coupez la chair en dés et stockez le tout hermétiquement en boîte au réfrigérateur."
+            "title": "Lavez soigneusement l'écorce extérieure avant de couper 🔪",
+            "desc": "Plus de 90 % des bactéries qui contaminent la chair rouge sont apportées par la lame du couteau à partir de la terre et des microbes de l'écorce. Lavez toujours l'écorce à l'eau avec du bicarbonate ou une brosse et séchez-la avant la découpe."
           }
         ],
         "steps": [
           {
-            "name": "Ne jamais couvrir de film étirable directement — Éviter les bactéries ❌🍉",
-            "text": "Couvrir directement la pastèque coupée de film étirable crée une humidité où les bactéries se multiplient par milliers, risquant l'intoxication. Ne la conservez jamais sous simple film."
+            "name": "Éviter le film plastique sur la chair et retirer l'écorce — Bloquer la contamination croisée ❌🍉",
+            "text": "Emballer la chair coupée dans du film plastique stimule la prolifération microbienne. 💡 Astuce de conservation : Désinfectez le couteau et la planche, puis retirez complètement l'écorce verte pour séparer la chair rouge des bactéries présentes sur la peau."
           },
           {
-            "name": "Retirer l'écorce, couper en dés et stocker en boîte hermétique — Stockage Réfrigéré (7Jours) 📦",
-            "text": "Retirez l'écorce en veillant à ce que les impuretés de surface ne touchent pas la chair rouge. Coupez-la en dés et rangez-les dans une boîte hermétique propre bien fermée."
+            "name": "Couper la chair en dés et placer dans des boîtes hermétiques stériles — Réfrigération (7 jours) 📦",
+            "text": "Détailler la chair en dés de la taille d'une bouchée réduit l'exposition à l'air et facilite le service. 💡 Astuce de conservation : Rangez les dés dans des boîtes hermétiques propres et sèches, fermées hermétiquement. Cela réduit la prolifération bactérienne de plus de 99 % par rapport au film plastique."
           },
           {
-            "name": "Ranger au fond du bac à légumes à température stable de 0-4 °C ❄️",
-            "text": "Placez la boîte hermétique au fond du bac à légumes. Conserver dans une zone sans écart de température garde la pastèque croquante et préserve son taux de sucre."
+            "name": "Conserver au fond des étagères du réfrigérateur à 0–4 °C constants — Réfrigération ❄️",
+            "text": "Les boîtes hermétiques doivent être placées loin de la porte. 💡 Astuce de conservation : Rangez-les au fond d'une étagère intérieure ou dans le bac à légumes (0–4 °C) où la température ne varie pas, préservant ainsi le croquant et le taux de sucre jusqu'à 7 jours."
           }
         ],
         "faqs": [
           {
-            "question": "Is it dangerous to store cut watermelon wrapped only in plastic wrap?",
-            "answer": "Very dangerous. Studies show wrapping cut watermelon increases bacterial levels by 3,000 times in a week. Cut the flesh into cubes and store in sealed containers."
+            "question": "Si j'ai conservé une demi-pastèque emballée dans du film étirable, suffit-il de couper 1 cm de surface pour la consommer sans danger ?",
+            "answer": "Non, ce n'est pas sans danger. Des études montrent que le film plastique multiplie les bactéries en surface par plus de 3 000 en une semaine. De plus, les toxines bactériennes hydrosolubles et les germes s'infiltrent profondément dans les cellules gorgées d'eau du fruit. Rabotter la surface ne garantit pas la sécurité : retirez toujours l'écorce, coupez en dés et conservez en boîte hermétique."
           },
           {
-            "question": "Can I put a whole watermelon directly in the coldest part of the fridge?",
-            "answer": "Whole watermelon suffers chilling injury in direct cold air, making the flesh mealy. Wrap it in a thick towel and store it in a cool pantry or crisper."
+            "question": "Peut-on conserver une pastèque entière non coupée au fond du réfrigérateur pendant longtemps ?",
+            "answer": "Non. Conserver une pastèque entière à des températures inférieures à 4 °C pendant une longue période provoque des 'dégâts dus au froid (Chilling Injury)'. Les parois cellulaires éclatent, créant des dépressions sur l'écorce, une chair farineuse et une perte de sucre. Les pastèques entières doivent être conservées dans un endroit frais et sombre (10–15 °C) et placées au réfrigérateur 2 à 3 heures seulement avant de servir."
           }
         ]
       },
       "de": {
-        "title": "Wie man Wassermelone frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber",
-        "description": "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Wassermelone basierend auf offiziellen Sicherheitsrichtlinien.",
-        "authority": "<strong>KCA & MFDS</strong>",
-        "intro": "Wussten Sie, dass das Abdecken von übrig gebliebener Wassermelone mit Frischhaltefolie die Bakterien um das 3.000-fache vermehren kann? Heute teilt FreshSnap Tipps.",
+        "title": "Wassermelone richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Wassermelonen basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "<strong>KCA & MFDS & USDA</strong>",
+        "intro": "Haben Sie eine angeschnittene Wassermelone schon einmal direkt mit Frischhaltefolie abgedeckt und in den Kühlschrank gestellt? 🍉\n\nNach klinischen Tests der Verbraucherbehörde Korea (KCA) führt das direkte Abdecken der Schnittfläche mit Frischhaltefolie dazu, dass sich die Bakterien auf der Oberfläche um das Mehr als 3.000-Fache vermehren! Feuchtigkeit und nährstoffreicher Fruchtsaft werden unter der Folie eingeschlossen und machen die Oberfläche zur perfekten Bakterienbrutstätte.\n\nHeute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Sicherheitsrichtlinien von KCA, MFDS und USDA basiert, um Bakterien zu stoppen, Süße zu bewahren und Ihre gewürfelte Wassermelone über eine Woche lang knackig zu halten. 🛡️",
         "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-        "whyDesc": "Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtige Lagerungsmethode anzuwenden, ist entscheidend für Frische und Hygiene.",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
         "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-        "cautionTitle": "Wichtige Warnhinweise zur Lagerung",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
         "tags": [
           "Wassermelone",
           "Wissenschaftlich geprüfter Lagerungsratgeber",
@@ -318,48 +318,48 @@
         ],
         "cautions": [
           {
-            "title": "Melone niemals nur in Frischhaltefolie gewickelt lagern",
-            "desc": "Die Folie schließt Feuchtigkeit ein und fördert Keimwachstum. Keime an der Schnittfläche sind sehr gefährlich."
+            "title": "Wassermelonen niemals direkt mit Frischhaltefolie abdecken ⚠️",
+            "desc": "Das Abdecken angeschnittener Hälften mit Folie staut Atmungsfeuchtigkeit und Fruchtsaft, was Krankheitserreger (wie Staphylokokken) um das Tausendfache vermehrt. Selbst das Abschneiden der obersten Schicht entfernt wasserlösliche Bakterientoxine nicht, die tief ins Gewebe wandern."
           },
           {
-            "title": "In Würfel schneiden und in luftdichten Behältern lagern",
-            "desc": "Schale vollständig entfernen, Fruchtfleisch würfeln und luftdicht verschlossen im Kühlschrank aufbewahren."
+            "title": "Die äußere Schale vor dem Aufschneiden gründlich waschen 🔪",
+            "desc": "Über 90 % der Bakterien auf dem Fruchtfleisch werden beim Schneiden von Schmutz und Keimen der Schale durch das Messer ins Innere getragen. Waschen Sie die Schale vor dem Schneiden immer mit Wasser und Natron oder einer Bürste ab."
           }
         ],
         "steps": [
           {
-            "name": "Niemals direkt mit Frischhaltefolie abdecken — Lebensmittelvergiftung vermeiden ❌🍉",
-            "text": "Das direkte Abdecken einer angeschnittenen Wassermelone mit Frischhaltefolie begünstigt die Bakterienbildung extrem, was das Risiko einer Vergiftung erhöht. Niemals so lagern."
+            "name": "Keine Frischhaltefolie auf dem Fruchtfleisch und Schale komplett entfernen — Kreuzkontamination stoppen ❌🍉",
+            "text": "Das Einwickeln in Folie begünstigt Bakterienblüten. 💡 Lagerungstipp: Desinfizieren Sie Messer und Brett und schneiden Sie die grüne Schale vollständig ab, um das rote Fruchtfleisch von Schalenkeimen zu trennen."
           },
           {
-            "name": "Rinde abschneiden, würfeln und in luftdichten Behälter füllen — Kühllagerung (7Tage) 📦",
-            "text": "Schneiden Sie die Schale vorsichtig ab, damit Schmutz nicht das Fruchtfleisch berührt. Schneiden Sie die Melone in Würfel und lagern diese in einem sauberen, dichten Behälter."
+            "name": "Fruchtfleisch würfeln und in sterile luftdichte Behälter füllen — Kühllagerung (7 Tage) 📦",
+            "text": "Das Würfeln in mundgerechte Stücke minimiert die Luftkontaktfläche und vereinfacht den Verzehr. 💡 Lagerungstipp: Füllen Sie die Würfel in saubere, trockene Frischhaltedosen und verschließen Sie den Deckel fest. Das senkt das Bakterienwachstum um über 99 % gegenüber Folie."
           },
           {
-            "name": "Tief im Gemüsefach bei konstanten 0–4 °C lagern ❄️",
-            "text": "Stellen Sie den Behälter tief in das Gemüsefach. Die Lagerung an einem Ort mit minimalen Temperaturschwankungen hält die Melone knackig und süß."
+            "name": "Tief auf den Innenregalen des Kühlschranks bei stabilen 0–4 °C lagern — Kühle Lagerung ❄️",
+            "text": "Dosen mit Melonenwürfeln sollten fern von der Kühlschranktür gelagert werden. 💡 Lagerungstipp: Lagern Sie die Behälter tief im Innenraum oder im Gemüsefach (0–4 °C), wo Temperaturschwankungen minimal sind, um Knackigkeit und Süße bis zu 7 Tage zu erhalten."
           }
         ],
         "faqs": [
           {
-            "question": "Is it dangerous to store cut watermelon wrapped only in plastic wrap?",
-            "answer": "Very dangerous. Studies show wrapping cut watermelon increases bacterial levels by 3,000 times in a week. Cut the flesh into cubes and store in sealed containers."
+            "question": "Wenn ich eine halbe Wassermelone in Folie gewickelt gekühlt habe, reicht es aus, die oberste 1 cm dicke Schicht abzuschneiden?",
+            "answer": "Nein, das ist nicht sicher. Studien zeigen, dass das Abdecken mit Folie die Bakterienzahl innerhalb einer Woche um das über 3.000-Fache erhöht. Zudem dringen wasserlösliche Bakterientoxine und Keime entlang der saftigen Zellkanäle tief ins Fruchtfleisch ein. Das Abschneiden der Oberfläche garantiert keine Sicherheit. Entfernen Sie stets sofort die Schale, würfeln Sie das Fleisch und lagern Sie es in Dosen."
           },
           {
-            "question": "Can I put a whole watermelon directly in the coldest part of the fridge?",
-            "answer": "Whole watermelon suffers chilling injury in direct cold air, making the flesh mealy. Wrap it in a thick towel and store it in a cool pantry or crisper."
+            "question": "Kann man eine ganze, ungeschnittene Wassermelone lange tief im kältesten Teil des Kühlschranks lagern?",
+            "answer": "Nein. Die Lagerung einer ganzen Melone bei unter 4 °C über längere Zeit führt zu 'Kälteschäden (Chilling Injury)'. Die Zellwände kollabieren, es entstehen Dellen auf der Schale, das Fleisch wird mehlig und verliert an Süße. Ganze Wassermelonen sollten an einem kühlen, schattigen Ort (10–15 °C) aufbewahrt und erst 2–3 Stunden vor dem Servieren gekühlt werden."
           }
         ]
       },
       "pt": {
-        "title": "Como armazenar Melancia fresco: Guia científico de conservação",
-        "description": "Descubra la mejor temperatura, métodos y duración de armazenamento para Melancia com base nas diretrizes oficiais de segurança.",
-        "authority": "<strong>KCA & MFDS</strong>",
-        "intro": "Você sabia que cobrir a melancia que sobrou com filme plástico multiplica as bactérias na superfície em 3.000 vezes? Hoje, o FreshSnap compartilha técnicas seguras recomendadas pela KCA.",
+        "title": "Como conservar melancia fresca: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para melancia com base em diretrizes oficiais de segurança.",
+        "authority": "<strong>KCA & MFDS & USDA</strong>",
+        "intro": "Você já cortou uma melancia ao meio e cobriu a parte exposta diretamente com filme plástico antes de colocar na geladeira? 🍉\n\nSegundo testes clínicos da Agência de Consumidores da Coreia (KCA), cobrir a melancia cortada diretamente com filme plástico faz com que as bactérias na superfície se multipliquem de forma assustadora: mais de 3.000 vezes! A umidade e o suco rico em nutrientes ficam presos sob o plástico, transformando a superfície em uma incubadora de bactérias.\n\nHoje, o FreshSnap apresenta um guia de conservação em 3 etapas baseado em diretrizes da KCA, MFDS e USDA para bloquear bactérias, preservar a doçura e manter seus cubos de melancia crocantes por mais de uma semana. 🛡️",
         "whyTitle": "Por que armazenar assim? Fatos científicos",
-        "whyDesc": "Comprender as características únicas de cada ingrediente e seguir o método de armazenamento adequado é extremamente importante para manter o frescor e a higiene.",
+        "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
         "guideTitle": "Guia de armazenamento comprovado cientificamente",
-        "cautionTitle": "Reglas cruciales e precauções",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
         "tags": [
           "Melancia",
           "Guia de armazenamento comprovado cientificamente",
@@ -367,48 +367,48 @@
         ],
         "cautions": [
           {
-            "title": "Nunca guarde a melancia apenas embrulhada em filme plástico",
-            "desc": "O filme retém umidade e acelera a proliferação bacteriana. A contaminação da superfície cortada é muito perigrosa."
+            "title": "Nunca cubra a melancia cortada diretamente com filme plástico ⚠️",
+            "desc": "Cobrir metades cortadas com filme plástico prende a umidade e o suco, fazendo com que bactérias patogênicas (como Staphylococcus aureus) se multiplicarem em milhares de vezes. Mesmo cortar a camada superficial não elimina as toxinas bacterianas que penetram no fruto."
           },
           {
-            "title": "Corte em cubos e guarde em potes herméticos",
-            "desc": "Retire a casca por completo, corte a polpa em cubos e guarde-a fechada em potes herméticos na geladeira."
+            "title": "Lave a casca externa cuidadosamente antes de cortar 🔪",
+            "desc": "Mais de 90% das bactérias que contaminam a polpa vermelha são levadas pela lâmina da faca a partir da sujeira e micróbios da casca. Lave sempre a casca com água e bicarbonato ou uma escova e seque antes de fatiar."
           }
         ],
         "steps": [
           {
-            "name": "Nunca cubra com filme plástico direto — Evite infecção alimentar ❌🍉",
-            "text": "Cobrir uma melancia cortada diretamente com filme plástico gera umidade que multiplica as bactérias em milhares de vezes, aumentando o risco de infecção. Nunca guarde apenas com filme plástico."
+            "name": "Evite filme plástico na polpa e remova a casca — Previna a contaminação cruzada ❌🍉",
+            "text": "Embalar a polpa cortada com filme plástico estimula a proliferação de bactérias. 💡 Dica de conservação: Desinfete a faca e a tábua, e remova toda a casca verde para separar a polpa da pele, evitando que os micróbios da casca encostem na polpa."
           },
           {
-            "name": "Retire a casca, corte em cubos e guarde em pote hermético — Armazenamento Refrigerado (7Dias) 📦",
-            "text": "Retire a casca com cuidado para que a sujeira de fora não encoste na polpa. Corte a melancia em cubos e guarde em pote hermético limpo com a tampa bem fechada."
+            "name": "Corte a polpa em cubos e guarde em potes herméticos estéreis — Refrigeração (7 dias) 📦",
+            "text": "Cortar a polpa em cubos do tamanho de uma mordida reduz o contato com o ar e facilita o consumo. 💡 Dica de conservação: Guarde os cubos de melancia em potes herméticos limpos e secos com a tampa bem fechada. Isso reduz o crescimento bacteriano em mais de 99% em comparação com o filme plástico."
           },
           {
-            "name": "Guarde no fundo da gaveta de legumes em temperatura de 0-4 °C ❄️",
-            "text": "Coloque o pote hermético no fundo da gaveta de legumes. Armazenar em local com o mínimo de oscilação térmica mantém a melancia crocante e preserva a doçura."
+            "name": "Guarde no fundo das prateleiras da geladeira a 0–4 °C estáveis — Refrigeração fresca ❄️",
+            "text": "Os potes herméticos devem ser guardados longe da porta. 💡 Dica de conservação: Mantenha os recipientes nas prateleiras internas profundas ou na gaveta de legumes (0-4 °C), onde as variações térmicas são mínimas, mantendo a crocância e a doçura por até 7 dias."
           }
         ],
         "faqs": [
           {
-            "question": "Is it dangerous to store cut watermelon wrapped only in plastic wrap?",
-            "answer": "Very dangerous. Studies show wrapping cut watermelon increases bacterial levels by 3,000 times in a week. Cut the flesh into cubes and store in sealed containers."
+            "question": "Se guardei meia melancia coberta com filme plástico, é seguro cortar 1 cm da superfície para comer?",
+            "answer": "Não, não é seguro. Estudos mostram que cobrir a melancia cortada com filme plástico aumenta a concentração de bactérias em mais de 3.000 vezes em uma semana. Além disso, toxinas bacterianas solúveis em água e micróbios penetram profundamente na polpa suculenta. Cortar a superfície não garante segurança; retire a casca imediatamente, corte em cubos e guarde em potes herméticos."
           },
           {
-            "question": "Can I put a whole watermelon directly in the coldest part of the fridge?",
-            "answer": "Whole watermelon suffers chilling injury in direct cold air, making the flesh mealy. Wrap it in a thick towel and store it in a cool pantry or crisper."
+            "question": "Posso guardar uma melancia inteira sem cortar no fundo da geladeira por muito tempo?",
+            "answer": "Não. Guardar uma melancia inteira a temperaturas abaixo de 4 °C por muito tempo causa 'Danos pelo frio (Chilling Injury)'. As paredes celulares se rompem, gerando depressões na casca, textura farinhenta e perda de doçura. Melancias inteiras devem ser mantidas em local fresco e escuro (10–15 °C) e colocadas na geladeira 2 a 3 horas antes de servir."
           }
         ]
       },
       "id": {
         "title": "Cara Menyimpan Semangka agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk Semangka berdasarkan pedoman keselamatan resmi.",
-        "authority": "<strong>KCA & MFDS</strong>",
-        "intro": "Tahukah Anda bahwa menutup sisa semangka dengan plastik wrap dapat melipatgandakan bakteri di permukaan hingga 3.000 kali? Hari ini, FreshSnap membagikan panduan penyimpanan semangka.",
-        "whyTitle": "Mengapa disimpan seperti ini? Fakta ilmiah",
-        "whyDesc": "Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpanan yang benar sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk semangka berdasarkan pedoman keselamatan resmi.",
+        "authority": "<strong>KCA & MFDS & USDA</strong>",
+        "intro": "Pernahkah Anda memotong semangka menjadi dua lalu menutup permukaan daging buahnya secara langsung dengan plastik wrap sebelum dimasukkan ke kulkas? 🍉\n\nMenurut pengujian klinis oleh Korea Consumer Agency (KCA), menutup semangka potong secara langsung dengan plastik wrap membuat kadar bakteri di permukaannya melonjak secara drastis hingga lebih dari 3.000 kali lipat! Kelembapan dan cairan manis hasil respirasi terperangkap di bawah plastik wrap, mengubah permukaan semangka menjadi inkubator bakteri yang berbahaya.\n\nHari ini, FreshSnap membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan pedoman KCA, MFDS, dan USDA untuk memblokir bakteri penyebab keracunan makanan, menjaga rasa manis, dan menjaga potongan dadu semangka Anda tetap renyah selama lebih dari seminggu. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
         "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-        "cautionTitle": "Aturan Penting dan Peringatan",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
         "tags": [
           "Semangka",
           "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
@@ -416,36 +416,36 @@
         ],
         "cautions": [
           {
-            "title": "Jangan pernah menyimpan semangka dengan hanya dibungkus plastik wrap",
-            "desc": "Plastik wrap mengunci kelembapan dan mempercepat pertumbuhan bakteri. Kontaminasi pada permukaan potongan sangat berbahaya."
+            "title": "Jangan pernah menutup semangka potong secara langsung dengan plastik wrap ⚠️",
+            "desc": "Menutup permukaan semangka dengan plastik wrap memerangkap embun dan cairan buah, memicu bakteri (seperti Staphylococcus aureus) berkembang biak ribuan kali lipat. Memotong lapisan atas tidak menghilangkan toksin bakteri larut air yang meresap ke dalam."
           },
           {
-            "title": "Potong dadu dan simpan dalam wadah kedap",
-            "desc": "Kupas bersih kulitnya, potong dadu daging buahnya, dan simpan rapat di wadah kedap dalam kulkas."
+            "title": "Cuci bersih kulit luar semangka sebelum dipotong 🔪",
+            "desc": "Lebih dari 90% bakteri yang mencemari daging merah semangka terbawa oleh mata pisau dari kotoran dan mikroba pada kulit luar. Selalu cuci kulit luar dengan air dan soda kue atau sikat lalu keringkan sebelum memotong."
           }
         ],
         "steps": [
           {
-            "name": "Jangan tutup langsung dengan plastik wrap — Mencegah keracunan makanan ❌🍉",
-            "text": "Menutup potongan semangka langsung dengan plastik wrap memicu bakteri berkembang biak ribuan kali lipat pada permukaannya, meningkatkan risiko keracunan makanan."
+            "name": "Hindari plastik wrap pada daging buah dan kupas bersih kulitnya — Cegah Kontaminasi Silang ❌🍉",
+            "text": "Membungkus daging buah potong dengan plastik wrap memicu ledakan bakteri. 💡 Tips Penyimpanan: Setelah menyterilkan pisau dan talenan, kupas bersih kulit hijau luar untuk memisahkan daging buah dari kulitnya, mencegah mikroba kulit menyentuh daging merah."
           },
           {
-            "name": "Potong kulitnya, potong dadu, lalu simpan di wadah kedap udara — Penyimpanan Dingin (7Hari) 📦",
-            "text": "Kupas bersih kulitnya agar debu di luar tidak menyentuh daging buah. Potong daging buah menjadi dadu lalu taruh di wadah kedap udara yang bersih dan tutup rapat."
+            "name": "Potong dadu daging buah dan simpan dalam wadah kedap udara steril — Simpan Dingin (7 Hari) 📦",
+            "text": "Memotong daging merah menjadi ukuran sekali gigit mengurangi paparan udara dan memudahkan konsumsi. 💡 Tips Penyimpanan: Masukkan potongan dadu semangka ke dalam wadah kedap udara yang bersih dan kering, lalu tutup rapat. Ini menekan pertumbuhan bakteri hingga lebih dari 99% dibanding plastik wrap."
           },
           {
-            "name": "Simpan di bagian dalam laci sayur pada suhu stabil 0–4°C ❄️",
-            "text": "Taruh wadah kedap udara berisi semangka di laci sayur bagian dalam. Menyimpannya di area dengan fluktuasi suhu minimal menjaga kerenyahan dan rasa manisnya."
+            "name": "Simpan di rak dalam kulkas pada suhu stabil 0–4°C — Pendinginan Segar ❄️",
+            "text": "Wadah kedap udara berisi semangka harus disimpan jauh dari rak pintu kulkas. 💡 Tips Penyimpanan: Simpan wadah di bagian dalam rak kulkas atau laci sayuran (0–4°C) dengan fluktuasi suhu minimal untuk menjaga tekstur renyah dan rasa manis alaminya hingga 7 hari."
           }
         ],
         "faqs": [
           {
-            "question": "Is it dangerous to store cut watermelon wrapped only in plastic wrap?",
-            "answer": "Very dangerous. Studies show wrapping cut watermelon increases bacterial levels by 3,000 times in a week. Cut the flesh into cubes and store in sealed containers."
+            "question": "Jika saya menyimpan setengah semangka yang terbungkus plastik wrap, apakah aman jika hanya memotong 1 cm bagian atasnya sebelum dimakan?",
+            "answer": "Tidak aman. Penelitian menunjukkan bahwa membungkus semangka potong dengan plastik wrap meningkatkan jumlah bakteri permukaan lebih dari 3.000 kali lipat dalam seminggu. Selain itu, toksin bakteri dan mikroba yang larut dalam air meresap jauh ke dalam daging buah yang kaya air melalui saluran sel. Memotong permukaan tidak menjamin keamanan; selalu kupas kulitnya, potong dadu, dan simpan dalam wadah kedap udara."
           },
           {
-            "question": "Can I put a whole watermelon directly in the coldest part of the fridge?",
-            "answer": "Whole watermelon suffers chilling injury in direct cold air, making the flesh mealy. Wrap it in a thick towel and store it in a cool pantry or crisper."
+            "question": "Bolehkah menyimpan semangka utuh yang belum dipotong di bagian paling dingin kulkas untuk waktu lama?",
+            "answer": "Tidak boleh. Menyimpan semangka utuh pada suhu di bawah 4°C dalam waktu lama akan menyebabkan 'Kerusakan Dingin (Chilling Injury)'. Dinding sel rusak sehingga timbul cekungan pada kulit, tekstur menjadi tepung/gabus, dan rasa manis menghilang. Semangka utuh sebaiknya disimpan di ruangan sejuk dan teduh (10–15°C) dan baru didinginkan di kulkas 2–3 jam sebelum disajikan."
           }
         ]
       }

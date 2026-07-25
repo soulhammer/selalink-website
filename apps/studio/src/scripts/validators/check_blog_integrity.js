@@ -128,7 +128,7 @@ function checkIntegrity() {
   const petsDir = path.join(__dirname, 'data/blogs/pets');
   if (fs.existsSync(petsDir)) {
     fs.readdirSync(petsDir).forEach(file => {
-      if (file.endsWith('.json') && file !== 'meta.json') {
+      if (file.endsWith('.json') && !file.startsWith('_')) {
         const slug = file.replace('.json', '');
         const filePath = path.join(petsDir, file);
         try {

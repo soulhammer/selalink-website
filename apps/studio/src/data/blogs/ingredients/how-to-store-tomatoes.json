@@ -11,10 +11,10 @@
       "ko": {
         "title": "토마토 신선하게 보관하는 법: 과학적 보관 가이드",
         "description": "공인된 안전 가이드라인에 따른 토마토의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-        "authority": "<strong>RDA & USDA & CDC</strong>",
-        "intro": "토마토는 냉장고에 보관하는 것이 기본이라고 생각하기 쉽지만, 이는 토마토 특유의 달콤한 향과 풍미를 완전히 파괴하는 지름길입니다. 저온 노출 시 세포막이 상하는 토마토를 위한 과학적 보관법을 소개합니다.",
+        "authority": "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 미국 질병통제예방센터(CDC)</strong>",
+        "intro": "사 온 토마토를 무심코 냉장고에 바로 넣으셨나요? 🍅\n\n덜 익은 토마토를 12℃ 이하의 저온에 보관하면 고유의 달콤한 향을 만드는 휘발성 성분 합성 효소가 영구적으로 불활성화되는 '저온 냉해(Chilling Injury)'를 입습니다. 세포막이 파괴되어 과육이 퍼석해지고 풍미와 당도가 크게 떨어지게 됩니다.\n\n오늘 FreshSnap에서는 농촌진흥청(RDA)과 미국 농무부(USDA)의 후숙 및 식품 안전 가이드라인을 바탕으로, 토마토의 풍미를 극대화하고 곰팡이 번식을 차단하는 3단계 과학적 보관 비법을 전해드립니다. 🛡️",
         "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-        "whyDesc": "각 식재료의 고유한 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
         "guideTitle": "과학적으로 검증된 보관 가이드",
         "cautionTitle": "보관 시 필수 규칙 및 주의사항",
         "tags": [
@@ -24,48 +24,48 @@
         ],
         "cautions": [
           {
-            "title": "냉해 입은 토마토는 복구되지 않습니다 🍅",
-            "desc": "설익은 상태로 오랜 저온에 노출되어 얼거나 냉해를 입은 토마토는 껍질이 두꺼워지고 과육이 짓물러져 상온으로 꺼내도 후숙이 불가능해지고 쉽게 상합니다."
+            "title": "완숙 전 저온 냉장 보관 시 냉해는 복구되지 않습니다 🍅",
+            "desc": "초록빛이나 핑크빛이 도는 덜 익은 토마토를 냉장 보관하면 숙성이 멈추고 껍질이 두꺼워지며 조직이 무너집니다. 나중에 상온으로 꺼내도 정상적인 후숙이 불가능해지므로 완숙 전에는 반드시 상온에 두어야 합니다."
           },
           {
-            "title": "에틸렌 방출 과일과의 접촉을 최소화하세요 🍎",
-            "desc": "토마토도 에틸렌 가스를 방출하는 과채류이며, 사과나 바나나와 같은 강력한 가스 배출 식품과 닿으면 너무 급속도로 익어 한 번에 뭉개져 버리니 격리해 주는 것이 좋습니다."
+            "title": "에틸렌 방출 과일 및 밀폐 습기 방치를 피하세요 🍎",
+            "desc": "토마토는 후숙 과정에서 에틸렌 가스를 방출합니다. 사과나 바나나 등 에틸렌 방출량이 많은 과일과 한 공간에 밀폐해 두면 과숙되어 순식간에 무르고 곰팡이가 생기므로 통풍이 잘되는 그늘에 보관하세요."
           }
         ],
         "steps": [
           {
-            "name": "완숙 전에는 무조건 꼭 상온 그늘 보관하기 — 실온 보관 (7일) 🌿",
-            "text": "초록빛이 도는 덜 익은 토마토는 15~20℃ 상온 그늘에서 꼭지가 위로 향하게 두어 자연 후숙시킵니다. 덜 익은 토마토를 냉장고에 넣으면 숙성이 멈추고 표면이 쭈글쭈글해지며 맛을 잃습니다."
+            "name": "완숙 전에는 꼭 상온 그늘에서 후숙하기 — 실온 보관 (5~7일) 🌿",
+            "text": "덜 익은 토마토는 15~20℃ 서늘한 상온의 직사광선이 들지 않는 그늘에 보관하세요. 💡 보관 팁: 꼭지를 뗀 후 단단한 어깨 부위(꼭지 부분)가 바닥을 향하도록 뒤집어 놓으면 무게 중심이 분산되어 밑부분이 짓눌리는 것을 예방할 수 있습니다."
           },
           {
-            "name": "보관하기 전에 초록색 꼭지 떼어내기 — 곰팡이 방지 ✂️",
-            "text": "토마토 꼭지 부위는 곰팡이 균이 생기기 가장 좋은 곳입니다. 보관 시 꼭지를 떼어내면 서로 부딪혀 상처 입는 것을 방지할 뿐 아니라 곰팡이 감염 위험을 크게 낮춰 보존성을 높입니다."
+            "name": "보관 전 초록색 꼭지 제거하기 — 곰팡이 감염 및 상처 방지 ✂️",
+            "text": "토마토의 초록색 꼭지는 수분 증발을 촉진하고 곰팡이 포자(Botrytis)가 서식하기 가장 좋은 장소입니다. 💡 보관 팁: 보관 전 꼭지를 떼어내면 꼭지 가시에 다른 토마토 표면이 찔려 상처가 나는 것을 막고, 곰팡이 발생률을 80% 이상 낮출 수 있습니다."
           },
           {
-            "name": "완숙 토마토만 신문지에 싸서 냉장고 야채칸 보관 — 냉장 보관 (7일)",
-            "text": "완전히 빨갛게 익은 토마토는 신문지나 랩으로 한 개씩 싸서 냉장고 야채칸(5~10℃)에 보관합니다. 냉기로 인한 수분 증발과 표면 마름 현상을 막아주어 며칠 더 신선하게 먹을 수 있습니다."
+            "name": "완숙 토마토만 키친타월에 싸서 야채칸 보관하기 — 냉장 보관 (7~10일) ❄️",
+            "text": "빨갛게 완전히 익은 토마토는 상온에 두면 과숙하여 빠르게 부패합니다. 💡 보관 팁: 꼭지를 떼고 키친타월이나 신문지로 한 개씩 감싸 냉장고 야채칸(8~10℃)에 보관하세요. 직접적인 냉기와 수분 증발을 막아 신선함을 오랫동안 지킬 수 있습니다."
           }
         ],
         "faqs": [
           {
-            "question": "토마토를 절대 냉장고에 넣지 말라는 이유가 무엇인가요?",
-            "answer": "토마토를 12도 이하 저온에 보관하면 고유의 향 성분을 내는 휘발성 물질 생성이 중단되고 세포막이 파괴되어 껍질이 퍼석거리고 당도가 급락합니다. 상온 그늘에 두는 것이 가장 맛있습니다."
+            "question": "토마토를 덜 익은 상태에서 냉장고에 넣으면 안 되는 과학적 이유는 무엇인가요?",
+            "answer": "토마토를 12℃ 이하 저온에 노출시키면 향 성분(C6 휘발성 물질)을 생성하는 자발적 효소 반응이 영구 중단됩니다. 세포막이 파괴되어 내부 수분이 유출되고 과육이 스펀지처럼 퍼석해지며(저온 냉해), 상온으로 다시 꺼내도 당도와 풍미가 복원되지 않기 때문입니다."
           },
           {
-            "question": "완전히 익은 빨간 토마토도 상온에 두나요?",
-            "answer": "아닙니다. 완숙된 빨간 토마토는 상온에 두면 하루 만에 상합니다. 다 익은 토마토는 신문지 등으로 야채실에 보관하고 3일 내 드세요."
+            "question": "완전히 익은 빨간 토마토도 상온에 보관해야 하나요?",
+            "answer": "아닙니다. 완전히 빨갛게 익은 완숙 토마토는 상온에 방치할 경우 자체 호흡과 에틸렌 가스로 인해 수일 내에 과숙되어 무르고 곰팡이가 핍니다. 완숙 토마토는 꼭지를 떼어낸 후 키친타월로 감싸 냉장고 야채칸(8~10℃)에 보관하고 3~5일 이내에 소비하는 것이 가장 좋습니다."
           }
         ]
       },
       "en": {
-        "title": "How to Store Tomato Fresh: Scientific Storage Guide",
-        "description": "Learn the best storage temperature, methods, and duration for Tomato based on official safety guidelines.",
+        "title": "How to Keep Tomatoes Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for tomatoes based on official safety guidelines.",
         "authority": "<strong>RDA & USDA & CDC</strong>",
-        "intro": "Did you know that storing tomatoes in the refrigerator ruins their unique flavor and aroma? Cold temperatures below 12°C break down tomato cell membranes, making the skin mushy and tasteless. Today, FreshSnap shares room temp ripening tips.",
-        "whyTitle": "Why store like this? Scientific facts",
-        "whyDesc": "Understanding the unique characteristics of each ingredient and following the proper storage method is extremely important for maintaining freshness and hygiene.",
+        "intro": "Do you routinely put freshly bought tomatoes straight into the refrigerator? 🍅\n\nStoring unripened tomatoes at cold temperatures below 12°C (54°F) causes 'Chilling Injury.' Cold air permanently inactivates the enzymes responsible for synthesizing key volatile aroma compounds, breaking down cell membranes and leaving the flesh mealy, watery, and flavorless.\n\nToday, FreshSnap shares a scientifically proven 3-step storage guide based on guidelines from the USDA and RDA to maximize tomato flavor, control ripening, and prevent mold growth. 🛡️",
+        "whyTitle": "Why Store Tomatoes This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
         "guideTitle": "Scientifically Proven Storage Guide",
-        "cautionTitle": "Crucial Rules and Cautions",
+        "cautionTitle": "Essential Storage Rules and Cautions",
         "tags": [
           "Tomato",
           "Scientifically Proven Storage Guide",
@@ -73,48 +73,48 @@
         ],
         "cautions": [
           {
-            "title": "Store at room temp until fully ripe",
-            "desc": "Unripe tomatoes require room temperature to develop sugars and aroma compounds. Refrigerate only when fully ripe."
+            "title": "Chilling injury before full ripening is irreversible 🍅",
+            "desc": "Refrigerating green or pink unripened tomatoes halts the natural ripening process, hardens the skin, and collapses internal cell walls. They will never resume normal flavor development even if returned to room temperature."
           },
           {
-            "title": "Store tomatoes stem-side down",
-            "desc": "The stem area is the softest and decays quickly under weight. Keeping it down prevents bruising and mold."
+            "title": "Avoid enclosed spaces with ethylene-emitting fruits 🍎",
+            "desc": "Tomatoes emit ethylene gas as they ripen. Storing them in sealed bags alongside heavy ethylene producers like apples or bananas causes rapid over-ripening, softening, and mold."
           }
         ],
         "steps": [
           {
-            "name": "Store in a shaded area at room temp before fully ripe — Room Temp Storage (7Days) 🌿",
-            "text": "Unripe green tomatoes should be stored stem-side up in a shaded area at room temperature (15–20°C). Refrigerating unripe tomatoes permanently stops the ripening process, making the skin wrinkly and destroying the flavor."
+            "name": "Ripen at room temperature in the shade before fully ripe — Room Temp Storage (5–7 Days) 🌿",
+            "text": "Keep unripe green/pink tomatoes at cool room temperature (15–20°C / 59–68°F) away from direct sunlight. 💡 Storage Tip: Remove the green stems and store tomatoes stem-side down on a flat surface to distribute weight and prevent bottom bruising."
           },
           {
-            "name": "Remove green stems before storing — Prevent mold ✂️",
-            "text": "The stem of a tomato is highly susceptible to mold growth. Removing the green stems before storage prevents tomatoes from scratching each other and significantly lowers the risk of mold infections."
+            "name": "Remove green stems before storing — Prevent Mold & Punctures ✂️",
+            "text": "The green calyx (stem) of a tomato retains moisture and harbors fungal spores (Botrytis). 💡 Storage Tip: Plucking the stems before storage prevents them from puncturing adjacent tomato skins and reduces mold infection rates by over 80%."
           },
           {
-            "name": "Wrap ripe tomatoes in newspaper and store in the crisper — Refrigerated Storage (7Days)",
-            "text": "Only store fully red, ripe tomatoes in the refrigerator crisper drawer (5–10°C), wrapped individually in newspaper or plastic wrap. This prevents cold air from evaporating their moisture and skin drying."
+            "name": "Refrigerate only fully ripe tomatoes wrapped in paper towels — Cold Storage (7–10 Days) ❄️",
+            "text": "Fully red, ripe tomatoes spoil quickly if left at room temperature. 💡 Storage Tip: Pluck the stems, wrap each ripe tomato individually in paper towels or newspaper, and store them in the crisper drawer (8–10°C / 46–50°F) to shield against direct cold air and moisture loss."
           }
         ],
         "faqs": [
           {
-            "question": "Why is it recommended never to refrigerate raw tomatoes?",
-            "answer": "Refrigerating tomatoes stops volatile flavor compound production and damages cell membranes, making the flesh mealy and reducing sweetness. Keep at room temp."
+            "question": "What is the scientific reason for NOT refrigerating unripe tomatoes?",
+            "answer": "Exposing tomatoes to temperatures below 12°C (54°F) permanently halts the enzymatic synthesis of C6 volatile organic compounds that create fresh tomato flavor. Cold air damages cell membranes, causing water loss and a mealy texture that cannot be reversed even after moving the tomato back to room temperature."
           },
           {
             "question": "Should fully ripe red tomatoes also be kept at room temperature?",
-            "answer": "No, fully ripe tomatoes rot quickly at room temp. Wrap each ripe tomato in paper towels, store them in the crisper drawer, and eat within 3 days."
+            "answer": "No. Fully ripe red tomatoes left at room temperature will over-ripen, soften, and rot within days due to their high respiration rate and ethylene production. Once fully ripe, pluck the stems, wrap each tomato in a paper towel, store them in the refrigerator crisper drawer (8–10°C), and consume within 3 to 5 days."
           }
         ]
       },
       "ja": {
-        "title": "トマトの鮮度を保つ保存方法：科学的保管ガイド",
-        "description": "公的安全基準に基づくトマトの最適な保存温度、保管方法、保存期間について解説します。",
+        "title": "トマトを新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくトマトの最適な保存温度、保管方法、保存期間をご確認ください。",
         "authority": "<strong>農村振興庁(RDA) & 米国農務省(USDA) & CDC</strong>",
-        "intro": "トマトを冷蔵庫に保存すると、本来の美味しさや香りが損なわれてしまうのをご存知ですか？12℃以下の冷たい温度ではトマトの細胞膜が破壊され、皮がブヨブヨになり味が落ちてしまいます。正しい保存方法をご紹介します。",
-        "whyTitle": "なぜこのように保存するのか？科学的な事実",
-        "whyDesc": "食材ごとの特性を理解し、正しい保存方法を実践することは、鮮度キープと衛生管理において非常に重要です。",
+        "intro": "買ってきたトマトを無意識にすぐ冷蔵庫に入れていませんか？🍅\n\n熟しきっていない青みが残るトマトを12℃以下の低温で保存すると、特有の甘い香りを生み出す揮発性成分の合成酵素が永久に失われる「低温障害（Chilling Injury）」を引き起こします。細胞膜が破壊され、果肉がパサパサになって風味や甘みが急激に落ちてしまいます。\n\n本日FreshSnapでは、農村振興庁（RDA）および米国農務省（USDA）の追熟・食品安全ガイドラインに基づき、トマトの風味を最大限に引き出しカビの繁殖を防ぐ3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
         "guideTitle": "科学的に検証された保存ガイド",
-        "cautionTitle": "保存時の注意点",
+        "cautionTitle": "保存時の必須ルールと注意事項",
         "tags": [
           "トマト",
           "科学的に検証された保存ガイド",
@@ -122,48 +122,48 @@
         ],
         "cautions": [
           {
-            "title": "完全に熟す前は必ず風通しの良い常温で保存してください",
-            "desc": "未熟なトマトは、糖分や芳香成分を増やすために常温での追熟が必要です。完熟した後にのみ冷蔵庫に入れてください。"
+            "title": "完熟前の低温冷蔵による低温障害は元に戻りません 🍅",
+            "desc": "青みやピンク色が残る未熟なトマトを冷蔵保存すると追熟がストップし、皮が厚くなって組織が崩れます。後から常温に戻しても正常な追熟は不可能になるため、完熟前は必ず常温で保管してください。"
           },
           {
-            "title": "ヘタがある方を下に向けて保存してください",
-            "desc": "ヘタの周辺は最も柔らかく、自重による負荷で傷みやすいです。逆さまに置くことで、重みによる潰れやカビを防ぎます。"
+            "title": "エチレン放出果物との同居や密閉による湿気を避けてください 🍎",
+            "desc": "トマトは追熟過程でエチレンガスを放出します。リンゴやバナナなどエチレン放出量の多い果物と一緒に密閉保存すると、一気に熟しすぎて柔らかくなりカビが生えるため、風通しの良い日陰で保存してください。"
           }
         ],
         "steps": [
           {
-            "name": "完熟前は必ず常温の日陰で保存する — 常温保存 (7日間) 🌿",
-            "text": "緑色が残る未熟なトマトは, 15〜20℃の常温の日陰でヘタを上に向けて置き, 自然に追熟させます。未完熟のトマトを冷蔵庫に入れると追熟が止まり, 皮がしわしわになって味が落ちてしまいます。"
+            "name": "完熟前は必ず常温の日陰で追熟させる — 常温保存 (5〜7日) 🌿",
+            "text": "青みが残るトマトは15〜20℃の涼しい常温で直射日光の当たらない日陰に置きます。💡保存のコツ：ヘタを取り除き、固い肩部分（ヘタのあった側）を下にして平らな場所に置くと、重みが分散して下部がつぶれるのを防げます。"
           },
           {
-            "name": "保存する前にヘタを取り除く — カビ防止 ✂️",
-            "text": "トマトのヘタ部分は, 最もカビが発生しやすい場所です。ヘタを取ってから保存すると, トマト同士がぶつかって傷つくのを防ぐだけでなく, カビが発生するリスクを大幅に下げて保存性を高めます。"
+            "name": "保存前に緑のヘタを取り除く — カビ感染と傷の防止 ✂️",
+            "text": "トマトの緑のヘタは水分蒸発を促し、カビ胞子（Botrytis）が最も繁殖しやすい場所です。💡保存のコツ：保存前にヘタを取っておくと、ヘタのトゲで他のトマトの表面を傷つけるのを防ぎ、カビの発生率を80%以上下げることができます。"
           },
           {
-            "name": "完熟トマトのみ新聞紙で包み、冷蔵庫の野菜室に保管 — 冷蔵保存 (7日間)",
-            "text": "完全に赤く熟したトマトだけを新聞紙やラップで1個ずつ包み, 冷蔵庫の野菜室（5〜10℃）に保存します。冷気による水分の蒸発と乾燥を防ぎ, 数日間は新鮮なまま食べられます。"
+            "name": "完熟トマトのみペーパータオルで包み野菜室で保存する — 冷蔵保存 (7〜10日) ❄️",
+            "text": "真っ赤に熟したトマトを常温に置くと熟しすぎて急速に腐敗します。💡保存のコツ：ヘタを取り、キッチンペーパーや新聞紙で1個ずつ包んで冷蔵庫の野菜室（8〜10℃）に保存してください。直接の冷気と乾燥を防ぎ、新鮮さを長持ちさせることができます。"
           }
         ],
         "faqs": [
           {
-            "question": "トマトを絶対に冷蔵庫に入れてはいけない理由は何ですか？",
-            "answer": "トマトを12度以下の低温で保存すると、香り成分の 生成が止まり、細胞膜が破壊されて食感が悪くなり糖度も低下します。常温の日陰が最も適しています。"
+            "question": "未熟なトマトを冷蔵庫に入れてはいけない科学的な理由は何ですか？",
+            "answer": "トマトを12℃以下の低温に晒すと、香り成分（C6揮発性物質）を生成する酵素反応が永久に停止するためです。細胞膜が破壊されて内部の水分が流出し、果肉がスポンジのようにパサパサになる（低温障害）ため、再び常温に戻しても甘みや風味が復元することはありません。"
           },
           {
-            "question": "完熟した赤いトマトも常温でいいですか？",
-            "answer": "いいえ、完熟したトマトは常温ではすぐに傷みます。完熟トマトは新聞紙等で包んで野菜室に入れ、3日以内に消費してください。"
+            "question": "完全に熟した赤いトマトも常温で保存すべきですか？",
+            "answer": "いいえ。真っ赤に熟した完熟トマトを常温に放置すると、自身の呼吸とエチレンガスによって数日で熟しすぎて柔らかくなりカビが生えてしまいます。完熟トマトはヘタを取り除いた後、ペーパータオルで包んで冷蔵庫の野菜室（8〜10℃）で保存し、3〜5日以内に消費するのがベストです。"
           }
         ]
       },
       "zh": {
-        "title": "如何保鲜储存西红柿：科学储存指南",
+        "title": "如何保持西红柿新鲜：科学储存指南",
         "description": "根据官方食品安全指南，了解西红柿的最佳储存温度、方式和保鲜时长。",
         "authority": "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & CDC</strong>",
-        "intro": "您知道吗？将西红柿（番茄）放进冰箱冷藏会破坏其特有的风味与香气。在低于12℃的低温下，番茄的细胞膜会被破坏，导致果皮变软、风味尽失。今天，FreshSnap为您分享常温熟化的科学保鲜窍门。",
+        "intro": "您是否曾习惯性地把刚买回来的西红柿（番茄）直接塞进冰箱冷藏？🍅\n\n如果将尚未完全熟透的西红柿存放在12℃以下的低温环境中，西红柿会发生“冷害（Chilling Injury）”，合成特有甜香气味的挥发性物质酶会被永久灭活。这会导致其细胞膜破裂、果肉变渣沙化，风味与甜度大幅下降。\n\n今天FreshSnap基于韩国农村振兴厅(RDA)和美国农务部(USDA)的催熟与食品安全指南，为您带来3步科学保存秘诀，帮您最大化锁定西红柿风味，有效阻断霉菌滋生。🛡️",
         "whyTitle": "为什么要这样储存？科学原理",
-        "whyDesc": "了解每种食材的独特特性并遵循正确的储存方法，对于保持新鲜度和卫生至关重要。",
+        "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
         "guideTitle": "科学验证的储存指南",
-        "cautionTitle": "储存注意事项",
+        "cautionTitle": "储存必需规则及注意事项",
         "tags": [
           "西红柿",
           "科学验证的储存指南",
@@ -171,48 +171,48 @@
         ],
         "cautions": [
           {
-            "title": "未熟透前请务必在通风常温下保存",
-            "desc": "未熟的西红柿需要常温来增加糖分和香气。熟透后才可以放入冰箱冷藏。"
+            "title": "未熟透前冷藏导致的冷害是不可逆的 🍅",
+            "desc": "带有青色或粉红色的未熟西红柿经冷藏后会停止自然催熟，表皮变厚且内部组织崩解。即便随后拿回室温也无法恢复正常熟化与风味，因此未熟透前务必常温存放。"
           },
           {
-            "title": "摆放时将蒂头（蒂部）朝下放置",
-            "desc": "蒂头周围最软，受重压极易变质。将蒂部朝下放置能防止因压迫导致的破损和霉菌滋生。"
+            "title": "避免与释放乙烯的水果同放或湿气密封 🍎",
+            "desc": "西红柿在催熟过程中会释放乙烯气体。若与苹果、香蕉等乙烯高释放量水果密封放置在同一空间，会导致西红柿过熟变软并长霉，请存放在通风良好的阴凉处。"
           }
         ],
         "steps": [
           {
-            "name": "熟透前务必存放在常温避光处 — 常温储存 (7天) 🌿",
-            "text": "青色未熟的西红柿应放在15-20℃的常温避光处，将蒂头朝上摆放进行自然催熟。把未熟的西红柿放进冰箱会终止其熟化过程，导致果皮起皱、失去原本的风味。"
+            "name": "未熟透前务必在常温阴凉处后熟 — 常温保存 (5~7天) 🌿",
+            "text": "青色未熟的西红柿请存放在15~20℃凉爽、无阳光直射的阴凉处。💡储存小贴士：摘除绿色蒂头后，将较硬的蒂部（肩部）朝下平放，可分散重力，防止底部果肉受压变软。"
           },
           {
-            "name": "储存前摘除青色蒂头 — 防止发霉 ✂️",
-            "text": "西红柿的蒂头处最易滋生霉菌。储存前摘除蒂头，不仅可以防止西红柿相互碰撞扎伤，还能显著降低发霉腐烂的风险，延长保存期。"
+            "name": "储存前摘除绿色蒂头 — 防霉菌感染与扎伤 ✂️",
+            "text": "西红柿的绿色蒂头会加速水分蒸发，且是灰霉病菌（Botrytis）最易寄生的部位。💡储存小贴士：储存前摘除蒂头，不仅能防止蒂头刺伤邻近西红柿，还能将霉菌感染率降低80%以上。"
           },
           {
-            "name": "仅将熟透的西红柿用报纸包裹放冰箱蔬菜室 — 冷藏储存 (7天)",
-            "text": "只有完全变红熟透的西红柿才能用报纸或保鲜膜逐个包裹，存放在冰箱蔬菜保鲜室（5-10℃）。这样可以防止冷气导致水分蒸发和表面干瘪，延长几天保鲜时间。"
+            "name": "仅将完熟西红柿用厨房纸巾包裹冷藏 — 冷藏保存 (7~10天) ❄️",
+            "text": "完全变红熟透的西红柿若存放在常温下会因过熟而迅速腐烂。💡储存小贴士：摘除蒂头后，用厨房纸巾或报纸将完熟西红柿单颗包裹，放入冰箱蔬菜保鲜抽屉（8~10℃）冷藏，可阻断冷气直吹并防止水分蒸发。"
           }
         ],
         "faqs": [
           {
-            "question": "为什么建议绝对不要把番茄放冰箱冷藏？",
-            "answer": "番茄在 12°C 以下的低温下保存会停止产生风味物质，且细胞膜受损导致果肉变粉、甜度骤降。存放在常温避光处最美味。"
+            "question": "未熟透的西红柿不能放进冰箱冷藏的科学依据是什么？",
+            "answer": "当西红柿暴露于12℃以下的低温时，生成香气成分（C6挥发性物质）的酶促反应会永久停止。低温还会破坏细胞膜，导致内部水分流失、果肉变得像海绵一样沙渣（冷害）。即使重新拿回室温，其甜度与风味也无法恢复。"
           },
           {
-            "question": "完全成熟的红番茄也放在常温下吗？",
-            "answer": "不是的。熟透的红番茄在常温下过一天就会变质。熟番茄应包裹好放入冰箱冷藏蔬菜隔板中，并在 3 天内食用。"
+            "question": "完全变红熟透的西红柿也需要放在常温下吗？",
+            "answer": "不需要。完全红透的熟西红柿若继续放在常温下，会因自身呼吸作用与乙烯气体在数天内过熟发软并长霉。完熟西红柿应在摘除蒂头后用厨房纸巾包裹，存放在冰箱蔬菜保鲜抽屉（8~10℃）中，并在3~5天内食用完毕。"
           }
         ]
       },
       "es": {
-        "title": "Cómo almacenar Tomate fresco: Guía científica de conservación",
-        "description": "Descubra la mejor temperatura, métodos y duración para conservar Tomate según las directrices oficiales de seguridad.",
+        "title": "Cómo mantener los tomates frescos: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y la duración de conservación óptimos para los tomates según las directrices oficiales de seguridad.",
         "authority": "<strong>RDA & USDA & CDC</strong>",
-        "intro": "¿Sabía que guardar los tomates en el refrigerador arruina su sabor y aroma? El frío por debajo de 12 °C rompe sus células y los pone insípidos. Hoy, FreshSnap comparte trucos de maduración.",
-        "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
-        "whyDesc": "Comprender las características únicas de cada ingrediente y seguir el método de almacenamiento adecuado es fundamental para mantener la frescura y la higiene.",
+        "intro": "¿Acostumbra guardar los tomates recién comprados directamente en el refrigerador? 🍅\n\nAlmacenar tomates no maduros a temperaturas inferiores a 12 °C provoca 'Daño por frío (Chilling Injury)'. El aire frío inactiva permanentemente las enzimas encargadas de sintetizar los compuestos aromáticos volátiles, rompiendo las membranas celulares y dejando la pulpa harinosa, acuosa e insípida.\n\nHoy, FreshSnap comparte una guía científica en 3 pasos basada en las directrices del USDA y la RDA para maximizar el sabor del tomate, controlar su maduración y prevenir el moho. 🛡️",
+        "whyTitle": "¿Por qué almacenarlos así? Datos científicos",
+        "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
         "guideTitle": "Guía de almacenamiento científicamente probada",
-        "cautionTitle": "Reglas cruciales y precauciones",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
         "tags": [
           "Tomate",
           "Guía de almacenamiento científicamente probada",
@@ -220,48 +220,48 @@
         ],
         "cautions": [
           {
-            "title": "Conserve a temp. ambiente hasta que estén maduros",
-            "desc": "Los tomates verdes necesitan temp. ambiente para desarrollar azúcares y aromas. Refrigérelos solo cuando estén maduros."
+            "title": "El daño por frío antes de la maduración completa es irreversible 🍅",
+            "desc": "Refrigerar tomates verdes o rosados detiene el proceso natural de maduración, endurece la piel y colapsa las paredes celulares. Nunca recuperarán su sabor normal aunque se vuelvan a colocar a temperatura ambiente."
           },
           {
-            "title": "Guarde los tomates con el tallo hacia abajo",
-            "desc": "La zona del tallo es la más blanda y se daña rápido bajo el peso. Mantenerla abajo evita golpes y moho."
+            "title": "Evite espacios cerrados con frutas que emitan etileno 🍎",
+            "desc": "Los tomates liberan etileno al madurar. Guardarlos en bolsas selladas junto a grandes emisores de etileno, como manzanas o plátanos, provoca un rápido sobremaduramiento, ablandamiento y moho."
           }
         ],
         "steps": [
           {
-            "name": "Guarde a temp. ambiente en la sombra antes de madurar — Conservación a Temp. Ambiente (7Días) 🌿",
-            "text": "Los tomates verdes deben guardarse con el tallo hacia arriba en la sombra a temp. ambiente (15-20 °C). Refrigerarlos verdes detiene la maduración, arruga la piel y les quita sabor."
+            "name": "Madure a temperatura ambiente a la sombra antes de que estén maduros — Temp. Ambiente (5–7 días) 🌿",
+            "text": "Conserve los tomates verdes o rosados a temperatura ambiente fresca (15–20 °C) sin sol directo. 💡 Consejo de almacenamiento: Retire los tallos verdes y coloque los tomates con la parte del tallo hacia abajo sobre una superficie plana para distribuir el peso."
           },
           {
-            "name": "Retire los tallos verdes antes de guardar — Evite el moho ✂️",
-            "text": "El tallo es la zona más propensa a criar moho. Quitar los tallos antes de guardar evita que se pinchen entre sí y reduce notablemente el riesgo de infecciones de moho."
+            "name": "Retire los tallos verdes antes de guardar — Evite moho y pinchazos ✂️",
+            "text": "El cáliz (tallo) verde del tomate retiene humedad y alberga esporas de moho (Botrytis). 💡 Consejo de almacenamiento: Quitar el tallo evita que se pinchen entre sí y reduce el moho en más de un 80%."
           },
           {
-            "name": "Envuelva los tomates maduros en periódico y guarde en el cajón de verduras ❄️ — Almacenamiento Refrigerado (7Días)",
-            "text": "Solo guarde los tomates completamente maduros en el cajón de verduras (5-10 °C), envueltos en periódico o film plástico. Esto evita que el aire frío evapore su humedad y reseque la piel."
+            "name": "Refrigere solo tomates completamente maduros envueltos en papel — Refrigeración (7–10 días) ❄️",
+            "text": "Los tomates completamente rojos se echan a perder rápido a temperatura ambiente. 💡 Consejo de almacenamiento: Retire el tallo, envuelva cada tomate maduro en toallas de papel o periódico y guárdelos en el cajón de verduras (8–10 °C) para protegerlos del frío directo."
           }
         ],
         "faqs": [
           {
-            "question": "Why is it recommended never to refrigerate raw tomatoes?",
-            "answer": "Refrigerating tomatoes stops volatile flavor compound production and damages cell membranes, making the flesh mealy and reducing sweetness. Keep at room temp."
+            "question": "¿Cuál es la razón científica para NO refrigerar tomates que no estén maduros?",
+            "answer": "Exponer los tomates a menos de 12 °C detiene permanentemente la síntesis enzimática de compuestos volátiles aromáticos que le dan su sabor característico. El frío rompe las membranas celulares, causando pérdida de agua y una textura harinosa que no se recupera ni al volver a temperatura ambiente."
           },
           {
-            "question": "Should fully ripe red tomatoes also be kept at room temperature?",
-            "answer": "No, fully ripe tomatoes rot quickly at room temp. Wrap each ripe tomato in paper towels, store them in the crisper drawer, and eat within 3 days."
+            "question": "¿Los tomates rojos totalmente maduros también deben guardarse a temperatura ambiente?",
+            "answer": "No. Los tomates completamente maduros a temperatura ambiente se sobremaduran, se ablandan y se pudren en pocos días por su alta tasa de respiración y producción de etileno. Una vez maduros, retire los tallos, envuelva cada tomate en toallas de papel, guárdelos en el cajón de verduras (8–10 °C) y consúmalos en 3 a 5 días."
           }
         ]
       },
       "fr": {
-        "title": "Comment conserver Tomate frais : Guide scientifique de conservation",
-        "description": "Découvrez la température, les méthodes et la durée optimales de conservation pour Tomate selon les directives de sécurité officielles.",
+        "title": "Comment conserver les tomates fraîches : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les tomates selon les directives officielles de sécurité.",
         "authority": "<strong>RDA & USDA & CDC</strong>",
-        "intro": "Saviez-vous que mettre les tomates au frigo détruit leur goût et leur parfum ? Le froid en dessous de 12 °C détruit les membranes cellulaires, rendant la peau molle et insipide. Aujourd'hui, FreshSnap vous montre les astuces.",
-        "whyTitle": "Pourquoi conserver ainsi ? Faits scientifiques",
-        "whyDesc": "Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédient et de suivre la bonne méthode de conservation pour préserver la fraîcheur et l’hygiène.",
+        "intro": "Avez-vous l'habitude de ranger vos tomates fraîchement achetées directement au réfrigérateur ? 🍅\n\nConserver des tomates non mûres à des températures inférieures à 12 °C provoque des 'dégâts dus au froid (Chilling Injury)'. Le froid inactive de façon permanente les enzymes chargées de synthétiser les composés aromatiques volatifs, brisant les membranes cellulaires et rendant la chair farineuse, aqueuse et insipide.\n\nAujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du USDA et de la RDA pour sublimer le goût de vos tomates, contrôler leur mûrissement et éviter les moisissures. 🛡️",
+        "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
         "guideTitle": "Guide de conservation scientifiquement prouvé",
-        "cautionTitle": "Règles cruciales et précautions",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
         "tags": [
           "Tomate",
           "Guide de conservation scientifiquement prouvé",
@@ -269,48 +269,48 @@
         ],
         "cautions": [
           {
-            "title": "Gardez à température ambiante jusqu'à mûrissement complet",
-            "desc": "Les tomates vertes ont besoin de la température ambiante pour développer sucres et arômes. Réfrigérez-les seulement une fois mûres."
+            "title": "Les dégâts du froid avant mûrissement complet sont irréversibles 🍅",
+            "desc": "Réfrigérer des tomates vertes ou rosées stoppe leur mûrissement naturel, durcit la peau et détruit les cellules internes. Elles ne retrouveront jamais leur arôme normal, même remises à température ambiante."
           },
           {
-            "title": "Stockez les tomates le pédoncule vers le bas",
-            "desc": "La zone du pédoncule est la plus fragile et s'abîme vite sous le poids. La placer vers le bas évite l'écrasement."
+            "title": "Évitez les espaces fermés avec des fruits émetteurs d'éthylène 🍎",
+            "desc": "Les tomates dégagent de l'éthylène en mûrissant. Les enfermer dans un sachet avec de gros émetteurs d'éthylène comme les pommes ou les bananes provoque un surmûrissement rapide et du moisi."
           }
         ],
         "steps": [
           {
-            "name": "Stocker à l'ombre à temp. ambiante avant maturité — Stockage à Temp. Ambiante (7Jours) 🌿",
-            "text": "Les tomates vertes doivent être posées pédoncule vers le haut, à l'ombre à température ambiante (15-20 °C). Le frigo bloque leur mûrissement, flétrit leur peau et gâte leur goût."
+            "name": "Faire mûrir à température ambiante à l'ombre avant maturité — Temp. Ambiante (5–7 jours) 🌿",
+            "text": "Conservez les tomates vertes/rosées à température ambiante fraîche (15–20 °C) à l'abri du soleil. 💡 Astuce de conservation : Retirez les pédoncules verts et posez les tomates côté pédoncule vers le bas sur une surface plate pour répartir le poids."
           },
           {
-            "name": "Retirer les pédoncules avant stockage — Éviter le moisi ✂️",
-            "text": "Le pédoncule est la zone la plus sujette aux moisissures. Le retirer avant stockage évite aux tomates de s'égratigner et limite le risque de pourriture."
+            "name": "Retirer les pédoncules verts avant stockage — Éviter moisissures et piqûres ✂️",
+            "text": "Le pédoncule vert retient l'humidité et héberge des spores de moisissure (Botrytis). 💡 Astuce de conservation : Retirer le pédoncule empêche de percer la peau des tomates voisines et réduit les moisissures de plus de 80 %."
           },
           {
-            "name": "Envelopper les tomates mûres de journal et ranger au bac à légumes ❄️ — Stockage Réfrigéré (7Jours)",
-            "text": "Ne réfrigérez que les tomates bien rouges, emballées séparément de journal ou de film étirable, au bac à légumes (5-10 °C). Cela limite la déshydratation causée par le froid."
+            "name": "Ne réfrigérer que les tomates mûres enveloppées dans de l'essuie-tout — Réfrigération (7–10 jours) ❄️",
+            "text": "Les tomates bien rouges et mûres se gâtent très vite à température ambiante. 💡 Astuce de conservation : Retirez le pédoncule, enveloppez chaque tomate mûre dans de l'essuie-tout ou du journal et rangez au bac à légumes (8–10 °C) pour la protéger du froid direct."
           }
         ],
         "faqs": [
           {
-            "question": "Why is it recommended never to refrigerate raw tomatoes?",
-            "answer": "Refrigerating tomatoes stops volatile flavor compound production and damages cell membranes, making the flesh mealy and reducing sweetness. Keep at room temp."
+            "question": "Quelle est la raison scientifique pour laquelle il ne faut PAS réfrigérer les tomates non mûres ?",
+            "answer": "Exposer les tomates à moins de 12 °C stoppe définitivement la synthèse enzymatique des composés aromatiques volatils (C6) qui créent le goût de la tomate fraîche. Le froid abîme les membranes cellulaires, provoquant une perte d'eau et une texture farineuse irréversible même si la tomate est remise à température ambiante."
           },
           {
-            "question": "Should fully ripe red tomatoes also be kept at room temperature?",
-            "answer": "No, fully ripe tomatoes rot quickly at room temp. Wrap each ripe tomato in paper towels, store them in the crisper drawer, and eat within 3 days."
+            "question": "Les tomates rouges bien mûres doivent-elles aussi être gardées à température ambiante ?",
+            "answer": "Non. Les tomates bien mûres laissées à température ambiante vont surmûrir, ramollir et pourrir en quelques jours en raison de leur forte respiration et de leur production d'éthylène. Une fois mûres, retirez les pédoncules, enveloppez chaque tomate dans de l'essuie-tout, placez-les au bac à légumes (8–10 °C) et consommez-les sous 3 à 5 jours."
           }
         ]
       },
       "de": {
-        "title": "Wie man Tomate frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber",
-        "description": "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Tomate basierend auf offiziellen Sicherheitsrichtlinien.",
+        "title": "Tomaten richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Tomaten basierend auf offiziellen Sicherheitsrichtlinien.",
         "authority": "<strong>RDA & USDA & CDC</strong>",
-        "intro": "Wussten Sie, dass die Lagerung von Tomaten im Kühlschrank ihr Aroma ruiniert? Temperaturen unter 12 °C zerstören die Zellmembranen, wodurch die Schale matschig und geschmacklos wird. Heute teilt FreshSnap Tipps.",
+        "intro": "Legen Sie frisch gekaufte Tomaten gewohnheitsmäßig direkt in den Kühlschrank? 🍅\n\nDie Lagerung unreifer Tomaten bei Temperaturen unter 12 °C führt zu 'Kälteschäden (Chilling Injury)'. Kälte inaktiviert die Enzymsynthese für wichtige flüchtige Aromastoffe dauerhaft, zerstört Zellmembranen und macht das Fleisch mehlig, wässrig und geschmacklos.\n\nHeute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Richtlinien von USDA und RDA basiert, um das Tomatenaroma zu maximieren, die Reifung zu steuern und Schimmelbildung zu verhindern. 🛡️",
         "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-        "whyDesc": "Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtige Lagerungsmethode anzuwenden, ist entscheidend für Frische und Hygiene.",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
         "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-        "cautionTitle": "Wichtige Warnhinweise zur Lagerung",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
         "tags": [
           "Tomate",
           "Wissenschaftlich geprüfter Lagerungsratgeber",
@@ -318,48 +318,48 @@
         ],
         "cautions": [
           {
-            "title": "Bis zur vollständigen Reife bei Raumtemperatur lagern",
-            "desc": "Unreife Tomaten benötigen Raumtemperatur, um Zucker und Aromastoffe zu entwickeln. Erst bei Vollreife kühlen."
+            "title": "Kälteschäden vor der Vollreife sind nicht umkehrbar 🍅",
+            "desc": "Das Kühlen grüner oder rosafarbener unreifer Tomaten stoppt die natürliche Reifung, lässt die Schale dick werden und zerstört die Zellwände. Sie entwickeln auch bei spätem Umlagern auf Raumtemperatur nie wieder ihr volles Aroma."
           },
           {
-            "title": "Tomaten mit dem Stielansatz nach unten lagern",
-            "desc": "Der Stielbereich ist am weichsten und verdirbt unter Eigengewicht schnell. Das Umdrehen verhindert Druckstellen."
+            "title": "Geschlossene Räume mit ethylenabgebenden Früchten meiden 🍎",
+            "desc": "Tomaten geben beim Reifen Ethylengas ab. Werden sie zusammen mit stark ethylenabgebenden Früchten wie Äpfeln oder Bananen gelagert, führt dies zu rascher Überreifung, Aufweichen und Schimmel."
           }
         ],
         "steps": [
           {
-            "name": "Vor der Reife an einem schattigen Ort bei Raumtemperatur lagern — Lagerung bei Raumtemperatur (7Tage) 🌿",
-            "text": "Unreife grüne Tomaten sollten mit dem Strunk nach oben an einem schattigen Ort bei Raumtemperatur (15–20 °C) reifen. Das Kühlen stoppt die Reifung und führt zu schrumpeliger Schale."
+            "name": "Vor der Vollreife schattig bei Raumtemperatur nachreifen lassen — Raumtemperatur (5–7 Tage) 🌿",
+            "text": "Lagern Sie unreife Tomaten bei kühler Raumtemperatur (15–20 °C) ohne direkte Sonneneinstrahlung. 💡 Lagerungstipp: Entfernen Sie die grünen Stängel und lagern Sie die Tomaten mit der Stängelseite nach unten auf einer ebener Fläche."
           },
           {
-            "name": "Grüne Strunke vor dem Lagern entfernen — Schimmel vermeiden ✂️",
-            "text": "Am Strunk bildet sich am leichtesten Schimmel. Das Entfernen vor dem Lagern verhindert, dass sich die Tomaten gegenseitig beschädigen, und verringert das Schimmelrisiko."
+            "name": "Grüne Stängel vor dem Lagern entfernen — Schimmel & Druckstellen vermeiden ✂️",
+            "text": "Der grüne Strunk der Tomate hält Feuchtigkeit und bietet Schimmelpilzen (Botrytis) Nährboden. 💡 Lagerungstipp: Das Entfernen der Stängel verhindert Druckstellen durch Nachbartomaten und senkt das Schimmelrisiko um über 80 %."
           },
           {
-            "name": "Reife Tomaten in Zeitung wickeln und im Gemüsefach lagern ❄️ — Kühllagerung (7Tage)",
-            "text": "Lagern Sie nur vollreife Tomaten im Gemüsefach (5–10 °C), einzeln in Zeitungspapier eingewickelt. Dies schützt vor Feuchtigkeitsverlust durch die Kälte."
+            "name": "Nur vollreife Tomaten in Küchenpapier gewickelt kühlen — Kühllagerung (7–10 Tage) ❄️",
+            "text": "Vollreife, rote Tomaten verfaulen bei Raumtemperatur schnell. 💡 Lagerungstipp: Stängel entfernen, jede reife Tomate einzeln in Küchenpapier oder Zeitung einwickeln und im Gemüsefach (8–10 °C) lagern, um sie vor Kälte und Trockenheit zu schützen."
           }
         ],
         "faqs": [
           {
-            "question": "Why is it recommended never to refrigerate raw tomatoes?",
-            "answer": "Refrigerating tomatoes stops volatile flavor compound production and damages cell membranes, making the flesh mealy and reducing sweetness. Keep at room temp."
+            "question": "Was ist der wissenschaftliche Grund dafür, unreife Tomaten NICHT im Kühlschrank zu lagern?",
+            "answer": "Temperaturen unter 12 °C stoppen die enzymatische Synthese flüchtiger Aromastoffe (C6-Verbindungen), die für den frischen Tomatengeschmack verantwortlich sind. Kälte schädigt die Zellmembranen, was zu Wasserverlust und einer mehligen Textur führt, die sich selbst nach dem Erwärmen auf Raumtemperatur nicht mehr erholt."
           },
           {
-            "question": "Should fully ripe red tomatoes also be kept at room temperature?",
-            "answer": "No, fully ripe tomatoes rot quickly at room temp. Wrap each ripe tomato in paper towels, store them in the crisper drawer, and eat within 3 days."
+            "question": "Sollten vollreife rote Tomaten auch bei Raumtemperatur aufbewahrt werden?",
+            "answer": "Nein. Vollreife rote Tomaten überreifen bei Raumtemperatur durch ihre hohe Atmung und Ethylenabgabe innerhalb weniger Tage und verfaulen. Sobald sie vollreif sind, entfernen Sie die Stängel, wickeln jede Tomate in Küchenpapier, lagern sie im Gemüsefach (8–10 °C) und verbrauchen sie innerhalb von 3 bis 5 Tagen."
           }
         ]
       },
       "pt": {
-        "title": "Como armazenar Tomate fresco: Guia científico de conservação",
-        "description": "Descubra la mejor temperatura, métodos y duración de armazenamento para Tomate com base nas diretrizes oficiais de segurança.",
+        "title": "Como conservar tomates frescos: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para tomates com base em diretrizes oficiais de segurança.",
         "authority": "<strong>RDA & USDA & CDC</strong>",
-        "intro": "Você sabia que guardar tomates na geladeira destrói o sabor e o aroma? O frio abaixo de 12°C rompe as células e deixa o tomate insípido. Hoje, o FreshSnap compartilha técnicas de maturação.",
+        "intro": "Você costuma colocar os tomates recém-comprados direto na geladeira? 🍅\n\nGuardar tomates ainda não maduros a temperaturas frias abaixo de 12 °C causa 'Danos pelo frio (Chilling Injury)'. O ar frio inativa permanentemente as enzimas responsáveis por sintetizar os compostos aromáticos voláteis, rompendo as membranas celulares e deixando a polpa farinhenta, aguada e sem sabor.\n\nHoje, o FreshSnap apresenta um guia de conservação em 3 etapas baseado em diretrizes do USDA e da RDA para maximizar o sabor dos tomates, controlar o amadurecimento e evitar o mofo. 🛡️",
         "whyTitle": "Por que armazenar assim? Fatos científicos",
-        "whyDesc": "Comprender as características únicas de cada ingrediente e seguir o método de armazenamento adequado é extremamente importante para manter o frescor e a higiene.",
+        "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
         "guideTitle": "Guia de armazenamento comprovado cientificamente",
-        "cautionTitle": "Reglas cruciales e precauções",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
         "tags": [
           "Tomate",
           "Guia de armazenamento comprovado cientificamente",
@@ -367,48 +367,48 @@
         ],
         "cautions": [
           {
-            "title": "Conserve em temperatura ambiente até amadurecer",
-            "desc": "Tomates verdes precisam de temperatura ambiente para desenvolver açúcares e aromas. Refrigere apenas quando maduros."
+            "title": "Os danos pelo frio antes do amadurecimento completo são irreversíveis 🍅",
+            "desc": "Refrigerar tomates verdes ou rosados paralisa o processo natural de amadurecimento, endurece a casca e destrói as células internas. Eles nunca recuperarão o sabor normal mesmo se voltarem para a temperatura ambiente."
           },
           {
-            "title": "Guarde los tomates con el tallo hacia abajo",
-            "desc": "A área do talo é a mais macia e estraga fácil sob o próprio peso. Deixar para baixo evita que amasse."
+            "title": "Evite locais fechados com frutas que liberam etileno 🍎",
+            "desc": "Os tomates liberam gás etileno ao amadurecer. Guardá-los em sacos fechados junto a grandes emissores de etileno, como maçãs ou bananas, provoca amadurecimento excessivo rápido e mofo."
           }
         ],
         "steps": [
           {
-            "name": "Guarde em temperatura ambiente na sombra antes de maduro — Conservação em Temp. Ambiente (7Dias) 🌿",
-            "text": "Tomates verdes devem ser mantidos com o talo para cima na sombra e em temp. ambiente (15-20 °C). Refrigerar tomates verdes impede a maturação, murcha a casca e retira o sabor."
+            "name": "Amadureça em temperatura ambiente à sombra antes de estar maduro — Temp. Ambiente (5–7 dias) 🌿",
+            "text": "Mantenha os tomates verdes ou rosados em temperatura ambiente fresca (15–20 °C) longe do sol direto. 💡 Dica de conservação: Retire os cabos verdes e apoie os tomates com o lado do cabo virado para baixo em uma superfície plana."
           },
           {
-            "name": "Retire as pontas verdes antes de guardar — Impeça mofo ✂️",
-            "text": "O talo é a área mais propensa ao surgimento de mofo. Retirá-lo antes de guardar evita que se perfurem mutuamente e reduz drasticamente o risco de mofo."
+            "name": "Retire os cabos verdes antes de guardar — Evite mofo e furos ✂️",
+            "text": "O cálice (cabo verde) do tomate retém umidade e abriga esporos de mofo (Botrytis). 💡 Dica de conservação: Retirar o cabo evita furar a casca dos tomates vizinhos e reduz a contaminação por mofo em mais de 80%."
           },
           {
-            "name": "Embrulhe tomates maduros em jornal e guarde na gaveta de legumes ❄️ — Armazenamento Refrigerado (7Dias)",
-            "text": "Guarde apenas os tomates totalmente vermelhos na gaveta de legumes (5-10 °C), embrulhados em jornal ou filme plástico. Isso impede que o frio resseque a pele e evapore a umidade."
+            "name": "Refrigere apenas tomates totalmente maduros embrulhados em papel-toalha — Refrigeração (7–10 dias) ❄️",
+            "text": "Tomates totalmente vermelhos e maduros estragam rápido em temperatura ambiente. 💡 Dica de conservação: Retire o cabo, embrulhe cada tomate maduro individualmente em papel-toalha ou jornal e guarde na gaveta de legumes (8–10 °C)."
           }
         ],
         "faqs": [
           {
-            "question": "Why is it recommended never to refrigerate raw tomatoes?",
-            "answer": "Refrigerating tomatoes stops volatile flavor compound production and damages cell membranes, making the flesh mealy and reducing sweetness. Keep at room temp."
+            "question": "Qual é a razão científica para NÃO refrigerar tomates que não estejam maduros?",
+            "answer": "Expor os tomates a temperaturas abaixo de 12 °C paralisa definitivamente a síntese enzimática de compostos aromáticos voláteis que conferem o sabor fresco. O frio rompe as membranas celulares, causando perda de água e uma textura farinhenta que não se recupera mesmo voltando à temperatura ambiente."
           },
           {
-            "question": "Should fully ripe red tomatoes also be kept at room temperature?",
-            "answer": "No, fully ripe tomatoes rot quickly at room temp. Wrap each ripe tomato in paper towels, store them in the crisper drawer, and eat within 3 days."
+            "question": "Tomates vermelhos totalmente maduros também devem ser mantidos em temperatura ambiente?",
+            "answer": "Não. Tomates totalmente maduros mantidos em temperatura ambiente amadurecem demais, amolecem e apodrecem em poucos dias devido à alta taxa de respiração e produção de etileno. Quando estiverem maduros, retire os cabos, embrulhe cada um em papel-toalha, guarde na gaveta de legumes (8–10 °C) e consuma em 3 a 5 dias."
           }
         ]
       },
       "id": {
         "title": "Cara Menyimpan Tomat agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk Tomat berdasarkan pedoman keselamatan resmi.",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk tomat berdasarkan pedoman keselamatan resmi.",
         "authority": "<strong>RDA & USDA & CDC</strong>",
-        "intro": "Tahukah Anda bahwa menyimpan tomat di kulkas dapat merusak rasa dan aromanya? Suhu dingin di bawah 12°C merusak membran sel tomat, membuat kulitnya lembek dan hambar. Hari ini, FreshSnap membagikan panduan penyimpanan tomat.",
-        "whyTitle": "Mengapa disimpan seperti ini? Fakta ilmiah",
-        "whyDesc": "Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpanan yang benar sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "intro": "Apakah Anda terbiasa langsung memasukkan tomat yang baru dibeli ke dalam kulkas? 🍅\n\nMenyimpan tomat yang belum matang pada suhu dingin di bawah 12°C memicu 'Kerusakan Dingin (Chilling Injury)'. Udara dingin secara permanen menonaktifkan enzim yang bertanggung jawab untuk mensintesis senyawa aroma volatil, merusak membran sel dan membuat daging tomat menjadi tepung, berair, dan hambar.\n\nHari ini, FreshSnap membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan pedoman USDA dan RDA untuk memaksimalkan rasa tomat, mengontrol pematangan, dan mencegah pertumbuhan jamur. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
         "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-        "cautionTitle": "Aturan Penting dan Peringatan",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
         "tags": [
           "Tomat",
           "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
@@ -416,36 +416,36 @@
         ],
         "cautions": [
           {
-            "title": "Simpan di suhu ruang hingga matang sepenuhnya",
-            "desc": "Tomat mentah membutuhkan suhu ruang untuk membentuk gula dan aroma. Dinginkan hanya setelah matang sepenuhnya."
+            "title": "Kerusakan dingin sebelum tomat matang sempurna bersifat permanen 🍅",
+            "desc": "Mendinginkan tomat yang masih hijau atau merah muda menghentikan proses pematangan alami, mengerasnya kulit, dan merusak sel dalam. Tomat tidak akan pernah mencapai rasa normal meskipun dikembalikan ke suhu ruang."
           },
           {
-            "title": "Simpan tomat dengan bagian tangkai menghadap ke bawah",
-            "desc": "Bagian tangkai paling lunak dan cepat rusak akibat beban. Menjaganya di bawah mencegah memar."
+            "title": "Hindari tempat tertutup bersama buah penghasil etilen 🍎",
+            "desc": "Tomat melepaskan gas etilen saat matang. Menyimpannya dalam wadah tertutup bersama penghasil etilen tinggi seperti apel atau pisang menyebabkan pematangan berlebih yang cepat, pelunakan, dan pembusukan jamur."
           }
         ],
         "steps": [
           {
-            "name": "Simpan di tempat teduh pada suhu ruang sebelum matang — Penyimpanan Suhu Ruang (7Hari) 🌿",
-            "text": "Tomat hijau yang belum matang harus disimpan dengan posisi tangkai di atas di tempat teduh pada suhu ruang (15–20°C). Mendinginkannya membuat pematangan terhenti dan kulit keriput."
+            "name": "Matangkan pada suhu ruang di tempat teduh sebelum matang sempurna — Suhu Ruang (5–7 Hari) 🌿",
+            "text": "Simpan tomat mentah berwarna hijau/merah muda pada suhu ruang sejuk (15–20°C) jauh dari sinar matahari langsung. 💡 Tips Penyimpanan: Lepas tangkai hijau dan letakkan tomat dengan bagian bekas tangkai menghadap ke bawah di atas permukaan datar."
           },
           {
-            "name": "Lepas tangkai hijau sebelum disimpan — Mencegah jamur ✂️",
-            "text": "Tangkai tomat adalah area yang paling rentan ditumbuhi jamur. Melepas tangkai sebelum disimpan mencegah tomat saling menggores dan menekan risiko pembusukan."
+            "name": "Lepas tangkai hijau sebelum disimpan — Cegah Jamur & Goresan ✂️",
+            "text": "Tangkai hijau tomat memerangkap kelembapan dan menjadi sarang spora jamur (Botrytis). 💡 Tips Penyimpanan: Melepas tangkai sebelum disimpan mencegahnya menggores kulit tomat lain dan menekan angka infeksi jamur hingga lebih dari 80%."
           },
           {
-            "name": "Bungkus tomat matang dengan koran lalu taruh di laci sayur ❄️ — Penyimpanan Dingin (7Hari)",
-            "text": "Hanya simpan tomat yang sudah matang merah di laci sayur kulkas (5–10°C), bungkus satu per satu dengan koran. Ini mencegah air menguap akibat suhu dingin."
+            "name": "Dinginkan hanya tomat yang sudah matang sempurna dalam balutan tisu dapur — Simpan Dingin (7–10 Hari) ❄️",
+            "text": "Tomat yang sudah matang merah sempurna akan cepat busuk jika dibiarkan di suhu ruang. 💡 Tips Penyimpanan: Lepas tangkai, bungkus setiap tomat matang secara terpisah dengan tisu dapur atau koran, lalu simpan di laci sayuran (8–10°C) untuk melindunginya dari dingin langsung."
           }
         ],
         "faqs": [
           {
-            "question": "Why is it recommended never to refrigerate raw tomatoes?",
-            "answer": "Refrigerating tomatoes stops volatile flavor compound production and damages cell membranes, making the flesh mealy and reducing sweetness. Keep at room temp."
+            "question": "Apa alasan ilmiah mengapa TIDAK boleh mendinginkan tomat yang belum matang di kulkas?",
+            "answer": "Mengekspos tomat pada suhu di bawah 12°C secara permanen menghentikan sintesis enzim senyawa volatil C6 yang menciptakan rasa segar tomat. Udara dingin merusak membran sel, menyebabkan kehilangan air dan tekstur tepung yang tidak dapat dipulihkan bahkan setelah tomat dikembalikan ke suhu ruang."
           },
           {
-            "question": "Should fully ripe red tomatoes also be kept at room temperature?",
-            "answer": "No, fully ripe tomatoes rot quickly at room temp. Wrap each ripe tomato in paper towels, store them in the crisper drawer, and eat within 3 days."
+            "question": "Apakah tomat merah yang sudah matang sempurna juga harus disimpan pada suhu ruang?",
+            "answer": "Tidak. Tomat matang sempurna yang dibiarkan pada suhu ruang akan menjadi terlalu matang, lembek, dan membusuk dalam beberapa hari akibat laju respirasi dan produksi etilen yang tinggi. Setelah matang sempurna, lepas tangkainya, bungkus setiap tomat dengan tisu dapur, simpan di laci sayuran kulkas (8–10°C), dan konsumsi dalam 3 hingga 5 hari."
           }
         ]
       }

@@ -17,10 +17,10 @@ const __dirname = path.dirname(__filename);
 
 const blogRoot = path.join(__dirname, '../../content/blog');
 const petsDir = path.join(__dirname, '../../data/blogs/pets');
-const metaPath = path.join(petsDir, 'meta.json');
+const metaPath = path.join(petsDir, '_meta.json');
 
 if (!fs.existsSync(metaPath)) {
-  console.error(`❌ [ERR] meta.json 파일이 존재하지 않습니다: ${metaPath}`);
+  console.error(`❌ [ERR] _meta.json 파일이 존재하지 않습니다: ${metaPath}`);
   process.exit(1);
 }
 

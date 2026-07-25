@@ -11,10 +11,10 @@
       "ko": {
         "title": "식용유/올리브유 신선하게 보관하는 법: 과학적 보관 가이드",
         "description": "공인된 안전 가이드라인에 따른 식용유/올리브유의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-        "authority": "<strong>USDA & MFDS</strong>",
-        "intro": "고급 엑스트라 버진 올리브유를 아끼려고 냉장고에 보관하셨나요? 오늘 FreshSnap에서는 국제올리브협회(IOC) 지침에 근거하여 올리브유의 향과 영양을 지키는 올바른 실온 보관법을 소개합니다.",
+        "authority": "<strong>국제올리브협회(IOC) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>",
+        "intro": "고급 엑스트라 버진 올리브유를 오래 두고 먹으려고 무심코 냉장고에 보관해 본 적 있으시죠? 🫒\n\n올리브유와 같은 식물성 유지류는 빛(자외선), 산소, 열, 온도의 4대 요소에 의해 산패(Rancidity)가 일어납니다. 특히 올리브유를 냉장 보관하면 8~10℃ 이하에서 단불포화지방산인 올레인산이 하얗게 굳어 결정화되며, 이 동결과 해동 과정이 반복되면 특유의 프루티한 풍미와 폴리페놀 항산화 성분이 손상됩니다.\n\n오늘 FreshSnap에서는 국제올리브협회(IOC)와 미국 농무부(USDA)의 가이드를 바탕으로, 올리브유의 풍미와 영양을 1년 이상 완벽하게 지켜주는 3단계 과학적 보관 비법을 전해드립니다. 🛡️",
         "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-        "whyDesc": "각 식재료의 고유한 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
         "guideTitle": "과학적으로 검증된 보관 가이드",
         "cautionTitle": "보관 시 필수 규칙 및 주의사항",
         "tags": [
@@ -24,48 +24,48 @@
         ],
         "cautions": [
           {
-            "title": "사용 후 뚜껑을 끝까지 꽉 닫으세요 ⚠️",
-            "desc": "올리브유는 공기 중 산소와 결합할 때 활성산소가 급격히 늘어납니다. 매번 사용 후 뚜껑 나사가 헛돌지 않게 꼭 잠가 공기 유입을 원천 차단해 주셔야 합니다."
+            "title": "사용 후에는 즉시 뚜껑을 꼭 닫아 밀봉하세요 ⚠️",
+            "desc": "올리브유가 공기 중의 산소와 지속적으로 접촉하면 자량의 과산화물이 생성되면서 산패가 급격히 진행됩니다. 매번 사용 직후 뚜껑을 나사산이 다 돌 때까지 꼭 잠가 공기 유입을 차단해야 합니다."
           },
           {
-            "title": "참기름과 들기름의 온도 차이를 기억하세요 🫒",
-            "desc": "올리브유와 참기름은 '실온'에 보관해야 풍미가 유지되지만, 오메가-3가 가득해 산패가 극도로 빠른 들기름은 무조건 '냉장' 보관해야 하니 확실히 구분해야 합니다."
+            "title": "참기름(실온)과 들기름(냉장)의 보관 온도 차이를 구분하세요 🫒",
+            "desc": "올리브유와 참기름은 리그난 등 항산화 성분 덕분에 '실온' 보관이 적합하지만, 오메가-3(알파리놀렌산) 함량이 높아 산패가 매우 빠른 들기름은 무조건 4℃ 이하 '냉장' 보관해야 하므로 확실히 구분해야 합니다."
           }
         ],
         "steps": [
           {
-            "name": "냉장 보관 절대 금지 — 동결 현상 및 향 소실 예방 ❌❄️",
-            "text": "올리브유는 냉장실에 넣으면 하얗게 굳어 결정화되며, 이 과정이 반복되면 올리브유 본연의 고급스러운 풍미와 올레인산 등 영양 성분이 파괴됩니다. 반드시 14~18℃ 상온에 두세요."
+            "name": "냉장 보관 절대 금지 — 동결 결정화 및 향 손실 예방 ❌❄️",
+            "text": "올리브유를 냉장고에 넣으면 지방산이 하얗게 응고되어 버터처럼 굳어집니다. 💡 보관 팁: 녹았다 굳기를 반복하면 오일 내부의 천연 항산화 물질과 향 성분이 파괴됩니다. 올리브유가 가장 좋아하는 최적 온도는 14~18℃의 서늘한 상온입니다."
           },
           {
-            "name": "직사광선 피하고 갈색/녹색 유리병 활용 — 실온 보관 (365일) 🫙",
-            "text": "자외선은 식물성 오일을 산패시키는 주범입니다. 투명한 플라스틱 용기에 담긴 제품이라면 알루미늄 호일로 병을 감싸거나 갈색/초록색 유리 차광병으로 옮겨 빛을 차단해 주세요."
+            "name": "직사광선을 차단하는 어두운 유리병 활용하기 — 실온 보관 (365일) 🫙",
+            "text": "자외선과 형광등 빛은 오일 속 엽록소를 자극하여 광산화(Photo-oxidation)를 일으키는 가장 무서운 주범입니다. 💡 보관 팁: 투명한 용기나 플라스틱 병에 담긴 오일은 알루미늄 호일로 병을 감싸거나, 어두운 갈색/초록색 차광 유리병에 담아 빛을 차단해 두세요."
           },
           {
-            "name": "가스레인지 열기로부터 먼 그늘 찬장에 보관 — 열기 차단 🌬️",
-            "text": "요리할 때 편하다고 가스레인지나 오븐 바로 옆 선반에 올리브유를 두면 안 됩니다. 열기가 닿을 때마다 기름의 산화 속도가 2배 이상 빨라지므로 열원이 없는 선선한 그늘 찬장에 수납하세요."
+            "name": "가스레인지 및 오븐 열기로부터 먼 그늘진 찬장에 보관하기 — 열기 차단 🌬️",
+            "text": "조리 효율을 위해 가스레인지나 에어프라이어 바로 옆 선반에 오일을 두는 경우가 많습니다. 💡 보관 팁: 열원에 노출될 때마다 오일의 산화 속도가 2배 이상 빨라집니다. 요리 열기가 미치지 않는 싱크대 하부장이나 어두운 찬장 안쪽에 수납하세요."
           }
         ],
         "faqs": [
           {
-            "question": "올리브 오일이 냉장고에서 하얗게 굳었는데 상한 건가요?",
-            "answer": "아닙니다. 엑스트라 버진 올리브 오일은 온도가 8~10도 이하로 떨어지면 굳어지는 자연스러운 응고 현상이 발생합니다. 상온에 두면 투명한 액체 상태로 정상 복귀되며 품질에도 전혀 지장이 없습니다."
+            "question": "올리브유가 냉장고 안에서 하얗게 굳었는데 상한 건가요?",
+            "answer": "상한 것이 아닙니다. 엑스트라 버진 올리브유에 풍부한 단불포화지방산(올레인산)은 온도가 8~10℃ 이하로 떨어지면 굳어지는 자연스러운 무해한 물리적 응고 현상입니다. 굳은 올리브유를 14~18℃의 상온에 며칠 놓아두면 다시 투명한 액체 상태로 되돌아오며 품질과 영양에는 아무런 문제가 없습니다."
           },
           {
-            "question": "올리브 오일은 꼭 어두운 병에 보관해야 하나요?",
-            "answer": "네, 올리브유는 빛(자외선)에 노출되면 산화가 빠르게 진행됩니다. 반드시 빛을 차단하는 어두운 유리병에 밀봉하여 서늘한 그늘에 두는 것이 좋습니다."
+            "question": "올리브 오일은 꼭 어두운 유리병에 보관해야 하나요?",
+            "answer": "네, 맞습니다. 올리브유는 빛(자외선 및 실내조명)에 노출되면 광산화 반응이 일어나 투명 병에 둘 경우 몇 주 만에 산패되어 쩐내가 나고 영양소가 파괴됩니다. 빛을 90% 이상 차단해 주는 어두운 갈색이나 초록색 유리병에 밀봉하여 서늘한 그늘에 보관하는 것이 원칙입니다."
           }
         ]
       },
       "en": {
-        "title": "How to Store Cooking Oil / Olive Oil Fresh: Scientific Storage Guide",
-        "description": "Learn the best storage temperature, methods, and duration for Cooking Oil / Olive Oil based on official safety guidelines.",
-        "authority": "<strong>USDA & MFDS</strong>",
-        "intro": "Did you store olive oil in the fridge to keep it fresh longer? Refrigerating olive oil causes it to solidify into white crystals, destroying its unique nutty aroma and healthy compounds. Today, FreshSnap shares room temperature storage hacks.",
-        "whyTitle": "Why store like this? Scientific facts",
-        "whyDesc": "Understanding the unique characteristics of each ingredient and following the proper storage method is extremely important for maintaining freshness and hygiene.",
+        "title": "How to Keep Cooking Oil / Olive Oil Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for cooking oil and olive oil based on official safety guidelines.",
+        "authority": "<strong>IOC & USDA & MFDS</strong>",
+        "intro": "Have you ever stored premium extra virgin olive oil in the refrigerator to extend its shelf life? 🫒\n\nVegetable oils like olive oil suffer lipid oxidation (rancidity) through exposure to four main factors: light (UV), oxygen, heat, and temperature fluctuations. Refrigerating olive oil causes its high monounsaturated oleic acid content to solidify into white crystals below 8–10°C (46–50°F). Repeated freezing and thawing breaks down delicate fruity polyphenols and antioxidant compounds.\n\nToday, FreshSnap shares a scientifically proven 3-step storage guide based on international guidelines from the International Olive Council (IOC) and USDA to preserve olive oil flavor and nutritional value for over a year. 🛡️",
+        "whyTitle": "Why Store Olive Oil This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
         "guideTitle": "Scientifically Proven Storage Guide",
-        "cautionTitle": "Crucial Rules and Cautions",
+        "cautionTitle": "Essential Storage Rules and Cautions",
         "tags": [
           "Cooking Oil / Olive Oil",
           "Scientifically Proven Storage Guide",
@@ -73,48 +73,48 @@
         ],
         "cautions": [
           {
-            "title": "Seal the cap tightly after every use",
-            "desc": "Olive oil oxidizes when exposed to oxygen, increasing acidity and decreasing health benefits. Always restrict air inflow."
+            "title": "Tightly cap the bottle immediately after every use ⚠️",
+            "desc": "Continuous contact with atmospheric oxygen generates peroxides, causing rapid rancidity and acidity buildup in olive oil. Always tighten the cap fully after each pour to completely block oxygen ingress."
           },
           {
-            "title": "Keep away from heat sources like ovens and stoves",
-            "desc": "Stovetop heat triggers quick oxidation and ruins quality. Store olive oil inside a cool, dark kitchen cabinet."
+            "title": "Distinguish storage temperatures: Sesame oil (Room Temp) vs. Perilla oil (Refrigerated) 🫒",
+            "desc": "While olive oil and sesame oil stay stable at room temperature thanks to natural antioxidants, perilla oil is rich in omega-3 alpha-linolenic acid, which oxidizes rapidly. Perilla oil MUST be kept refrigerated below 4°C, whereas olive oil should be kept at room temp."
           }
         ],
         "steps": [
           {
-            "name": "Do not store in the refrigerator — Prevent solidification ❌❄️",
-            "text": "Refrigerating olive oil causes it to solidify and crystallize into a white paste. Repeated freezing and thawing destroys the premium flavor and key nutrients like oleic acid. Keep it at room temperature (14–18°C)."
+            "name": "Never store in the refrigerator — Prevent Solidification & Flavor Loss ❌❄️",
+            "text": "Placing olive oil in the fridge causes fatty acids to solidify into a butter-like white paste. 💡 Storage Tip: Repeated melting and freezing destroys the oil's delicate aromas and natural polyphenols. The ideal temperature for olive oil is cool room temperature at 14–18°C (57–64°F)."
           },
           {
-            "name": "Avoid direct sunlight and use dark glass bottles — Room Temp Storage (365Days) 🫙",
-            "text": "Ultraviolet light is the main cause of rancidity in vegetable oils. If your olive oil comes in a clear plastic bottle, wrap the bottle with aluminum foil or transfer it to a dark amber or green glass bottle to shield it from light."
+            "name": "Use dark amber or green glass bottles and avoid sunlight — Room Temp Storage (365 Days) 🫙",
+            "text": "UV rays and indoor lights excite chlorophyll in olive oil, triggering rapid photo-oxidation. 💡 Storage Tip: If your oil came in a clear plastic bottle, wrap it in aluminum foil or transfer it to a dark green/amber glass bottle to shield it from light."
           },
           {
-            "name": "Keep in a cool cupboard away from heat sources — Heat protection 🌬️",
-            "text": "Do not store olive oil near the stove or oven for convenience. Exposure to heat doubles the speed of oil oxidation. Keep it in a cool, dark kitchen cabinet away from all heat sources."
+            "name": "Store in a cool cupboard away from stoves and ovens — Protect from Heat 🌬️",
+            "text": "Keeping oil bottles right next to the stovetop or oven for convenience exposes them to radiant heat. 💡 Storage Tip: Heat exposure doubles the rate of lipid oxidation. Always store olive oil bottles inside a cool, dark kitchen cabinet or pantry away from all heat sources."
           }
         ],
         "faqs": [
           {
-            "question": "My olive oil solidified and turned white in the fridge. Is it spoiled?",
-            "answer": "No, extra virgin olive oil naturally solidifies when the temperature drops below 8-10°C (46-50°F). It will return to a clear liquid state at room temperature with no impact on quality."
+            "question": "My olive oil solidified into a cloudy white paste in the fridge. Is it spoiled?",
+            "answer": "No, it is not spoiled. Extra virgin olive oil is rich in monounsaturated oleic acid, which naturally solidifies and crystallizes when temperatures drop below 8–10°C (46–50°F). Allowing the bottle to rest at room temperature (14–18°C) for a day or two will return it to a clear liquid state with zero damage to its quality or health benefits."
           },
           {
-            "question": "Should olive oil always be stored in dark bottles?",
-            "answer": "Yes, olive oil oxidizes rapidly when exposed to light (UV rays). It is highly recommended to store it in a dark glass bottle, sealed tightly, and placed in a cool, shaded area."
+            "question": "Must olive oil always be kept in dark glass bottles?",
+            "answer": "Yes, absolutely. Olive oil contains natural chlorophyll that acts as a photosensitizer under light (UV rays and room lighting), triggering photo-oxidation that turns the oil rancid within weeks in clear containers. Dark green or amber glass bottles block over 90% of light rays, preserving freshness when kept in a dark pantry."
           }
         ]
       },
       "ja": {
-        "title": "食用油/オリーブオイルの鮮度を保つ保存方法：科学的保管ガイド",
-        "description": "公的安全基準に基づく食用油/オリーブオイルの最適な保存温度、保管方法、保存期間について解説します。",
-        "authority": "<strong>米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>",
-        "intro": "オリーブオイルを新鮮に保つために、冷蔵庫に入れていませんか？冷蔵庫に保管すると白く結晶化して固まってしまい、特有の豊かな風味や栄養成分が壊れてしまいます。正しい常温保存方法をご紹介します。",
-        "whyTitle": "なぜこのように保存するのか？科学的な事実",
-        "whyDesc": "食材ごとの特性を理解し、正しい保存方法を実践することは、鮮度キープと衛生管理において非常に重要です。",
+        "title": "食用油/オリーブオイルを新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づく食用油/オリーブオイルの最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "<strong>国際オリーブ協会(IOC) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>",
+        "intro": "高級なエキストラバージンオリーブオイルを長く楽しもうと、うっかり冷蔵庫に入れていませんか？🫒\n\nオリーブオイルなどの植物性油脂は、光（紫外線）、酸素、熱、温度変化の4大要因によって酸化（酸敗）が進みます。特にオリーブオイルを冷蔵保存すると、8〜10℃以下で一価不飽和脂肪酸であるオレイン酸が白く固まって結晶化し、この凝固と解凍が繰り返されることで特有のフルーティーな香りとポリフェノール成分が破壊されてしまいます。\n\n本日FreshSnapでは、国際オリーブ協会（IOC）および米国農務省（USDA）のガイドラインに基づき、オリーブオイルの風味が長持ちする3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
         "guideTitle": "科学的に検証された保存ガイド",
-        "cautionTitle": "保存時の注意点",
+        "cautionTitle": "保存時の必須ルールと注意事項",
         "tags": [
           "食用油/オリーブオイル",
           "科学的に検証された保存ガイド",
@@ -122,48 +122,48 @@
         ],
         "cautions": [
           {
-            "title": "使用後は必ず蓋をきつく閉めて空気を遮断してください",
-            "desc": "オリーブオイルは酸素に触れると酸化が進み、風味が低下して酸度が上がります。使用後はすぐにキャップをしっかり閉めてください。"
+            "title": "使用後はすぐにキャップをしっかり閉めて密閉してください ⚠️",
+            "desc": "オリーブオイルが空気中の酸素に触れ続けると過酸化物が生成され、急速に酸化が進みます。使用後は毎回、キャップをきつく閉めて空気の侵入を完全に遮断してください。"
           },
           {
-            "title": "コンロやオーブンなどの熱源から遠ざけて保管してください",
-            "desc": "コンロ周辺の熱は酸化を急速に進め、品質を著しく低下させます。調理スペースから離れた、温度変化の少ない暗い収納棚に保管してください。"
+            "title": "ごま油（常温）とえごま油（冷蔵）の保存温度の違いを区別してください 🫒",
+            "desc": "オリーブオイルとごま油は抗酸化成分のおかげで「常温」保存が適していますが、オメガ3が豊富で酸化が非常に早い「えごま油」は必ず4℃以下の「冷蔵」で保存しなければならないため、明確に区別してください。"
           }
         ],
         "steps": [
           {
-            "name": "冷蔵保存は避ける — 凝固と風味の低下防止 ❌❄️",
-            "text": "オリーブオイルを冷蔵庫に入れると白く固まって結晶化し, 固まったり溶けたりを繰り返すことでオリーブオイル本来の風味や栄養素が失われます。必ず14〜18℃の常温で保存してください。"
+            "name": "冷蔵保存は絶対に避ける — 凝固結晶化と風味の低下防止 ❌❄️",
+            "text": "オリーブオイルを冷蔵庫に入れると脂肪酸が白く固まり、バターのように固形化します。💡保存のコツ：固まったり溶けたりを繰り返すと、オイル内部の天然抗酸化物質や香り成分が破壊されます。オリーブオイルが最も好む最適温度は14〜18℃の涼しい常温です。"
           },
           {
-            "name": "直射日光を避け、遮光瓶（茶・緑）を使用する — 常温保存 (365日間) 🫙",
-            "text": "紫外線は植物性オイルを酸化（酸敗）させる最大の原因です。透明な容器に入っている場合は, アルミホイルでボトルを包むか, 茶色や緑色のガラス瓶に移し替えて光を遮断してください。"
+            "name": "直射日光を遮る遮光瓶（茶・緑）を使用する — 常温保存 (365日) 🫙",
+            "text": "紫外線や蛍光灯の光はオイル中の葉緑素を刺激し、光酸化（Photo-oxidation）を引き起こす最大の原因です。💡保存のコツ：透明な容器に入っている場合は、アルミホイルでボトルを包むか、暗い茶色や緑色のガラス遮光瓶に移し替えて光を遮断してください。"
           },
           {
-            "name": "コンロ周辺など熱源から遠い日陰の棚に置く — 熱の遮断 🌬️",
-            "text": "調理時に便利だからといって、ガスコンロやオーブンのすぐ隣に置かないでください。熱が加わるたびにオイルの酸化スピードが2倍以上速くなります。熱源のない涼しい日陰の棚に収納してください。"
+            "name": "コンロやオーブンの熱源から遠い日陰の棚に保存する — 熱の遮断 🌬️",
+            "text": "調理時に便利だからと、ガスコンロやフライヤーのすぐ隣の棚にオイルを置くのは危険です。💡保存のコツ：熱源に晒されるたびにオイルの酸化スピードが2倍以上速くなります。調理の熱が届かないシンク下の棚や暗い戸棚の中に収納してください。"
           }
         ],
         "faqs": [
           {
-            "question": "オリーブオイルが冷蔵庫で白く固まりましたが、傷んでいますか？",
-            "answer": "いいえ、エキストラバージンオリーブオイルは温度が8〜10度以下に下がると自然に固まる性質があります。常温に戻すと透明な液体状態に戻り、品質には全く問題ありません。"
+            "question": "オリーブオイルが冷蔵庫の中で白く固まりましたが、傷んでいますか？",
+            "answer": "傷んでいません。エキストラバージンオリーブオイルに豊富な一価不飽和脂肪酸（オレイン酸）は、温度が8〜10℃以下に下がると固まる自然で無害な物理現象です。固まったオイルを14〜18℃の常温に数日置くと、再び透明な液体に戻り、品質や栄養には全く問題ありません。"
           },
           {
-            "question": "オリーブオイルは必ず遮光瓶に保存すべきですか？",
-            "answer": "はい、オリーブオイルは光（紫外線）にさらされると酸化が急速に進みます。必ず光を遮る暗いガラス瓶に密閉し、涼しい日陰に保管してください。"
+            "question": "オリーブオイルは必ず暗いガラス瓶（遮光瓶）に保存すべきですか？",
+            "answer": "はい、その通りです。オリーブオイルは光（紫外線や室内照明）に晒されると光酸化反応が起き、透明な瓶に入れておくとわずか数週間で酸化して嫌なニオイがし、栄養素が破壊されます。光を90%以上遮断してくれる濃い茶色や緑色のガラス瓶に密閉し、涼しい日陰で保存するのが原則です。"
           }
         ]
       },
       "zh": {
-        "title": "如何保鲜储存食用油/橄榄油：科学储存指南",
+        "title": "如何保持食用油/橄榄油新鲜：科学储存指南",
         "description": "根据官方食品安全指南，了解食用油/橄榄油的最佳储存温度、方式和保鲜时长。",
-        "authority": "<strong>美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>",
-        "intro": "您是否为了让橄榄油保鲜更久而将其放进冰箱？冷藏橄榄油会导致其凝固成白色结晶，从而破坏其特有的清香与营养活性成分。今天，FreshSnap为您分享科学的常温避光保存法。",
+        "authority": "<strong>国际橄榄理事会(IOC) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>",
+        "intro": "为了延长保质期，您是否顺手将高档特级初榨橄榄油放进了冰箱冷藏？🫒\n\n橄榄油等植物食用油在光线（紫外线）、氧气、热量和温度波动4大要素作用下极易发生氧化酸败（Rancidity）。特别是将橄榄油冷藏时，当温度降至8~10℃以下，其富含的单不饱和脂肪酸（油酸）会凝固结晶成白色膏状。反复冻融会破坏其特有的果香风味与多酚抗氧化成分。\n\n今天FreshSnap基于国际橄榄理事会(IOC)和美国农务部(USDA)的指南，为您带来3步科学保存秘诀，帮您完美锁定橄榄油的风味与营养长达1年以上。🛡️",
         "whyTitle": "为什么要这样储存？科学原理",
-        "whyDesc": "了解每种食材的独特特性并遵循正确的储存方法，对于保持新鲜度和卫生至关重要。",
+        "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
         "guideTitle": "科学验证的储存指南",
-        "cautionTitle": "储存注意事项",
+        "cautionTitle": "储存必需规则及注意事项",
         "tags": [
           "食用油/橄榄油",
           "科学验证的储存指南",
@@ -171,48 +171,48 @@
         ],
         "cautions": [
           {
-            "title": "每次使用后请务必拧紧盖子以隔绝空气",
-            "desc": "橄榄油暴露在空气中会迅速氧化，导致酸值升高并流失营养。使用后请立即拧紧瓶盖以限制空气流入。"
+            "title": "使用后请立即拧紧瓶盖密封 ⚠️",
+            "desc": "橄榄油若持续接触空气中的氧气，会产生大量过氧化物并急剧发生酸败。每次使用后，请务必顺着螺纹拧紧瓶盖，彻底阻断空气流入。"
           },
           {
-            "title": "避开燃气灶、烤箱等热源",
-            "desc": "灶台周围的热量会加速氧化并破坏品质。请将橄榄油存放在远离烹饪区、阴凉避光的橱柜内部。"
+            "title": "请区分芝麻油（常温）与亚麻籽油（冷藏）的储存温度 🫒",
+            "desc": "橄榄油和芝麻油得益于天然抗氧化成分，适合“常温”保存；但富含Omega-3（α-亚麻酸）且极易酸败的“亚麻籽油”则必须保存在4℃以下的“冷藏”环境中，请务必明确区分。"
           }
         ],
         "steps": [
           {
-            "name": "切勿冷藏保存 — 防止结晶凝固与风味流失 ❌❄️",
-            "text": "橄榄油冷藏时会变白并凝固结晶，反复凝结和解冻会破坏橄榄油本来的高级风味以及油酸等营养成分。请务必存放在14-18℃的常温下。"
+            "name": "严禁冷藏保存 — 防止凝固结晶与风味流失 ❌❄️",
+            "text": "将橄榄油放进冰箱会导致脂肪酸凝固，变成像黄油一样的白色固体。💡储存小贴士：反复融化与凝固会破坏油脂内部的天然抗氧化物和香气成分。橄榄油最适宜的存放温度是14~18℃的凉爽常温。"
           },
           {
-            "name": "避免阳光直射并使用深色玻璃瓶 — 常温储存 (365天) 🫙",
-            "text": "紫外线是导致植物油氧化变质的罪魁祸首。如果购买的橄榄油是装在透明塑料瓶中，可用铝箔纸将瓶身包裹，或将其转移到深褐色/深绿色的避光玻璃瓶中以阻断光线。"
+            "name": "使用避光深色玻璃瓶并避开阳光 — 常温保存 (365天) 🫙",
+            "text": "紫外线和日光灯光线会刺激油脂中的叶绿素，引发光氧化（Photo-oxidation）。💡储存小贴士：若购买的是透明塑料瓶装橄榄油，可用铝箔纸将瓶身包裹，或将其转移至深褐色/深绿色的避光玻璃瓶中以阻断光线。"
           },
           {
-            "name": "存放在远离灶台热源的阴凉橱柜中 — 阻断热量 🌬️",
-            "text": "为了烹饪方便而把橄榄油直接放在灶台或烤箱旁是错误的。每当受热，油脂的氧化速度就会加快2倍以上。请将其存放在远离热源、阴凉避光的橱柜中。"
+            "name": "存放在远离灶台与烤箱热源的阴凉橱柜中 — 阻断热量 🌬️",
+            "text": "为了烹饪方便，许多人习惯将油瓶直接放在燃气灶或空气炸锅旁。💡储存小贴士：每当受热，油脂的氧化速度就会加快2倍以上。请将其存放在远离烹饪热源的橱柜下方或阴凉暗处。"
           }
         ],
         "faqs": [
           {
-            "question": "我的橄榄油在冰箱里凝固变白了，是变质了吗？",
-            "answer": "不是的。当温度降至 8-10°C 以下时，特级初榨橄榄油会自然凝固。将其放回室温下会恢复为清澈的液体状态，对品质完全没有影响。"
+            "question": "橄榄油在冰箱里凝固变白了，是变质了吗？",
+            "answer": "没有变质。特级初榨橄榄油中富含单不饱和脂肪酸（油酸），当温度降至8~10℃以下时会发生自然凝固，这属于无害的物理现象。将凝固的橄榄油放在14~18℃的常温下静置一两天，就会恢复为清澈的液体状态，品质和营养完全不受影响。"
           },
           {
-            "question": "橄榄油一定要用深色瓶子装吗？",
-            "answer": "是的，橄榄油暴露在光线（紫外线）下会迅速氧化。强烈建议将其密封储存在避光的深色玻璃瓶中，并放置在阴凉处。"
+            "question": "橄榄油一定要保存在深色玻璃瓶里吗？",
+            "answer": "是的，必须这样做。橄榄油含有天然叶绿素，在光线（紫外线或室内灯光）照射下会充当光敏化剂引发光氧化反应。若放在透明瓶中，短短几周内就会酸败并散发哈喇味。将其密封在能阻挡90%以上光线的深褐色或深绿色玻璃瓶中并置于阴凉处，是基本的保存原则。"
           }
         ]
       },
       "es": {
-        "title": "Cómo almacenar Aceite de cocina / Oliva fresco: Guía científica de conservación",
-        "description": "Descubra la mejor temperatura, métodos y duración para conservar Aceite de cocina / Oliva según las directrices oficiales de seguridad.",
-        "authority": "<strong>USDA & MFDS</strong>",
-        "intro": "¿Guardó el aceite de oliva en el refrigerador para que durara más? Refrigerarlo hace que se solidifique en cristales blancos, destruyendo su aroma y grasas saludables. Hoy, FreshSnap comparte trucos a temperatura ambiente.",
+        "title": "Cómo mantener el aceite de oliva fresco: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y la duración de conservación óptimos para el aceite de cocina y de oliva según las directrices oficiales de seguridad.",
+        "authority": "<strong>IOC & USDA & MFDS</strong>",
+        "intro": "¿Alguna vez guardó aceite de oliva virgen extra de alta calidad en el refrigerador con la intención de conservar su frescura? 🫒\n\nLos aceites vegetales como el de oliva sufren oxidación de lípidos (enranciamiento) por cuatro factores: luz (UV), oxígeno, calor y cambios de temperatura. Refrigerar el aceite hace que su ácido oleico monoininsaturado se solidifique en cristales blancos por debajo de 8–10 °C. Los ciclos repetidos de congelación y descongelación destruyen sus delicados polifenoles y antioxidantes.\n\nHoy, FreshSnap comparte una guía científica en 3 pasos basada en las directrices del Consejo Oleícola Internacional (IOC) y el USDA para conservar el sabor y los nutrientes de su aceite de oliva por más de 1 año. 🛡️",
         "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
-        "whyDesc": "Comprender las características únicas de cada ingrediente y seguir el método de almacenamiento adecuado es fundamental para mantener la frescura y la higiene.",
+        "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
         "guideTitle": "Guía de almacenamiento científicamente probada",
-        "cautionTitle": "Reglas cruciales y precauciones",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
         "tags": [
           "Aceite de cocina / Oliva",
           "Guía de almacenamiento científicamente probada",
@@ -220,48 +220,48 @@
         ],
         "cautions": [
           {
-            "title": "Selle la tapa firmemente después de cada uso",
-            "desc": "El aceite de oliva se oxida al contacto con el oxígeno, aumentando su acidez y perdiendo propiedades. Cierre bien la tapa siempre."
+            "title": "Cierre la tapa firmemente inmediatamente después de cada uso ⚠️",
+            "desc": "El contacto continuo con el oxígeno genera peróxidos, acelerando el enranciamiento y aumentando la acidez del aceite. Apriete bien el tapón tras cada uso para cortar el paso de aire."
           },
           {
-            "title": "Manténgalo alejado de fuentes de calor como estufas y hornos",
-            "desc": "El calor de la estufa acelera la oxidación y arruina la calidad. Guarde el aceite dentro de un armario fresco y oscuro."
+            "title": "Diferencie las temperaturas: Aceite de sésamo (Temp. Ambiente) vs. Linaza (Refrigerado) 🫒",
+            "desc": "El aceite de oliva y el de sésamo se conservan a temperatura ambiente gracias a sus antioxidantes. Sin embargo, el aceite de linaza (rico en omega-3) se oxida rápido y DEBE refrigerarse por debajo de 4 °C."
           }
         ],
         "steps": [
           {
-            "name": "No almacene en el refrigerador — Evite la solidificación ❌❄️",
-            "text": "Refrigerar el aceite de oliva hace que se solidifique y cristalice en una pasta blanca. Este proceso repetido daña su sabor premium y nutrientes como el ácido oleico. Consérvelo a temperatura ambiente (14-18 °C)."
+            "name": "Nunca guarde en el refrigerador — Evite la solidificación y pérdida de aroma ❌❄️",
+            "text": "Colocar aceite de oliva en el refrigerador hace que las grasas se congelen en una pasta blanca. 💡 Consejo de almacenamiento: La descongelación repetida destruye sus polifenoles y aromas frutales. La temperatura óptima para el aceite de oliva es de 14 a 18 °C a temperatura ambiente fresca."
           },
           {
-            "name": "Evite la luz solar directa y use botellas oscuras — Conservación a Temp. Ambiente (365Días) 🫙",
-            "text": "La luz ultravioleta es la principal causa de rancidez en los aceites vegetales. Si viene en botella de plástico transparente, envuélvala con papel de aluminio o pásela a una botella de vidrio oscuro para protegerla de la luz."
+            "name": "Utilice botellas de vidrio oscuro y evite la luz solar — Temp. Ambiente (365 días) 🫙",
+            "text": "Los rayos UV excitan la clorofila del aceite provocando fotooxidación rápida. 💡 Consejo de almacenamiento: Si su aceite viene en botella transparente, envuélvala en papel de aluminio o trasvásela a una botella de vidrio verde oscuro o ámbar para protegerla de la luz."
           },
           {
-            "name": "Guarde en una alacena fresca lejos de fuentes de calor — Evite calor 🌬️",
-            "text": "No guarde el aceite cerca de la estufa o el horno por conveniencia. El calor duplica la velocidad de oxidación. Consérvelo en una alacena fresca y oscura, alejado de cualquier fuente de calor."
+            "name": "Guarde en una alacena fresca lejos de estufas y hornos — Evite el calor 🌬️",
+            "text": "Dejar el aceite junto a la estufa o el horno para cocinar rápido lo expone a calor radiante. 💡 Consejo de almacenamiento: El calor duplica la velocidad de oxidación. Guarde siempre el aceite dentro de un armario de cocina oscuro y fresco alejado de fuentes de calor."
           }
         ],
         "faqs": [
           {
-            "question": "My olive oil solidified and turned white in the fridge. Is it spoiled?",
-            "answer": "No, extra virgin olive oil naturally solidifies when the temperature drops below 8-10°C (46-50°F). It will return to a clear liquid state at room temperature with no impact on quality."
+            "question": "Mi aceite de oliva se solidificó en el refrigerador formando una pasta blanca. ¿Se echó a perder?",
+            "answer": "No, no se ha echado a perder. El aceite de oliva virgen extra es rico en ácido oleico monoinsaturado, el cual se cristaliza de forma natural cuando la temperatura baja de 8–10 °C. Dejar la botella a temperatura ambiente (14–18 °C) durante un par de días devolverá el aceite a su estado líquido transparente sin alterar su calidad ni sus beneficios."
           },
           {
-            "question": "Should olive oil always be stored in dark bottles?",
-            "answer": "Yes, olive oil oxidizes rapidly when exposed to light (UV rays). It is highly recommended to store it in a dark glass bottle, sealed tightly, and placed in a cool, shaded area."
+            "question": "¿El aceite de oliva siempre debe guardarse en botellas de vidrio oscuro?",
+            "answer": "Sí, absolutamente. El aceite de oliva contiene clorofila natural que actúa como fotosensibilizador ante la luz (rayos UV e iluminación interior), desencadenando fotooxidación que lo vuelve rancio en pocas semanas dentro de recipientes transparentes. Las botellas oscuras bloquean más del 90% de la luz, conservando la frescura en un armario oscuro."
           }
         ]
       },
       "fr": {
-        "title": "Comment conserver Huile de cuisson / Olive frais : Guide scientifique de conservation",
-        "description": "Découvrez la température, les méthodes et la durée optimales de conservation pour Huile de cuisson / Olive selon les directives de sécurité officielles.",
-        "authority": "<strong>USDA & MFDS</strong>",
-        "intro": "Avez-vous mis votre huile d'olive au frigo pour la garder fraîche ? Le froid la fige en cristaux blancs, détruisant son arôme fruité et ses nutriments. Aujourd'hui, FreshSnap vous montre les astuces de conservation à température ambiante.",
-        "whyTitle": "Pourquoi conserver ainsi ? Faits scientifiques",
-        "whyDesc": "Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédient et de suivre la bonne méthode de conservation pour préserver la fraîcheur et l’hygiène.",
+        "title": "Comment conserver l'huile d'olive fraîche : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour l'huile d'olive selon les directives officielles de sécurité.",
+        "authority": "<strong>IOC & USDA & MFDS</strong>",
+        "intro": "Avez-vous déjà rangé de l'huile d'olive vierge extra au réfrigérateur pour essayer de la garder plus longtemps ? 🫒\n\nLes huiles végétales comme l'huile d'olive subissent una oxydation des lipides (rancissement) sous l'action de quatre facteurs : la lumière (UV), l'oxygène, la chaleur et les écarts de température. Réfrigérer l'huile d'olive fait figer son acide oléique sous forme de cristaux blancs en dessous de 8–10 °C. Ces cycles répétition détruisent ses arômes fruités et ses polyphénols antioxydants.\n\nAujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du Conseil Oléicole International (IOC) et du USDA pour préserver la saveur et les bienfaits de votre huile d'olive pendant plus d'un an. 🛡️",
+        "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
         "guideTitle": "Guide de conservation scientifiquement prouvé",
-        "cautionTitle": "Règles cruciales et précautions",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
         "tags": [
           "Huile de cuisson / Olive",
           "Guide de conservation scientifiquement prouvé",
@@ -269,48 +269,48 @@
         ],
         "cautions": [
           {
-            "title": "Fermez soigneusement le bouchon après chaque utilisation",
-            "desc": "L'huile d'olive s'oxyde au contact de l'oxygène, augmentant son acidité et perdant ses bienfaits. Fermez toujours fermement le bouchon."
+            "title": "Refermez fermement le bouchon immédiatement après usage ⚠️",
+            "desc": "Un contact prolongé avec l'oxygène produit des peroxydes, provoquant un rancissement rapide et una hausse de l'acidité. Veillez à bien revisser le bouchon à chaque fois pour stopper les entrées d'air."
           },
           {
-            "title": "Éloignez des sources de chaleur comme les plaques et le four",
-            "desc": "La chaleur des plaques accélère l'oxydation et gâte l'huile. Stockez-la dans un placard de cuisine frais et sombre."
+            "title": "Distinguez les températures : Huile de sésame (Temp. Ambiante) vs Lin (Réfrigérée) 🫒",
+            "desc": "L'huile d'olive et l'huile de sésame restent stables à température ambiante grâce à leurs antioxydants. En revanche, l'huile de lin (très riche en oméga-3) s'oxyde vite et DOIT être conservée au réfrigérateur (moins de 4 °C)."
           }
         ],
         "steps": [
           {
-            "name": "Ne pas conserver au réfrigérateur — Éviter la solidification ❌❄️",
-            "text": "Mettre l'huile d'olive au frigo la fait figer et blanchir. Ce cycle altère ses arômes délicats et détruit les nutriments comme l'acide oléique. Conservez-la à température ambiante (14-18 °C)."
+            "name": "Ne jamais conserver au réfrigérateur — Éviter la cristallisation et la perte d'arômes ❌❄️",
+            "text": "Mettre l'huile d'olive au frigo fige les acides gras en une pâte blanche. 💡 Astuce de conservation : Ce processus répété détruit les arômes délicats et les polyphénols. La température idéale pour l'huile d'olive est une température ambiante fraîche comprise entre 14 et 18 °C."
           },
           {
-            "name": "Éviter le soleil et utiliser des bouteilles sombres — Stockage à Temp. Ambiante (365Jours) 🫙",
-            "text": "Les ultraviolets sont le premier facteur de rancissement des huiles. Si l'huile est vendue en flacon transparent, entourez-le de papier aluminium ou transférez l'huile dans une bouteille en verre teinté."
+            "name": "Utiliser des bouteilles en verre foncé et éviter le soleil — Temp. Ambiante (365 jours) 🫙",
+            "text": "Les rayons UV et la lumière artificielle excitent la chlorophylle de l'huile, provoquant une photo-oxydation rapide. 💡 Astuce de conservation : Si votre huile est en flacon transparent, entourez le flacon de papier aluminium ou transférez-la dans une bouteille en verre teinté (vert ou marron)."
           },
           {
-            "name": "Ranger dans un placard frais loin des sources de chaleur — Chaleur 🌬️",
-            "text": "Ne rangez pas l'huile près des plaques ou du four par commodité. La chaleur double la vitesse d'oxydation de l'huile. Placez-la dans un placard frais et sombre, loin de toute source de chaleur."
+            "name": "Conserver dans un placard frais loin des plaques et fours — Protection thermique 🌬️",
+            "text": "Laisser l'huile près des plaques de cuisson la soumet à une chaleur rayonnante. 💡 Astuce de conservation : La chaleur double la vitesse d'oxydation des graisses. Conservez toujours vos bouteilles d'huile dans un placard fermé et sombre, à l'écart de toute source de chaleur."
           }
         ],
         "faqs": [
           {
-            "question": "My olive oil solidified and turned white in the fridge. Is it spoiled?",
-            "answer": "No, extra virgin olive oil naturally solidifies when the temperature drops below 8-10°C (46-50°F). It will return to a clear liquid state at room temperature with no impact on quality."
+            "question": "Mon huile d'olive s'est figée en une pâte blanche au réfrigérateur. Est-elle altérée ?",
+            "answer": "Non, elle n'est absolument pas altérée. L'huile d'olive vierge extra est riche en acide oléique mono-insaturé, qui se cristallise naturellement lorsque la température descend sous 8–10 °C. Laisser la bouteille à température ambiante (14–18 °C) pendant un jour ou deux lui rendra sa forme liquide limpide sans altérer sa qualité ni ses nutriments."
           },
           {
-            "question": "Should olive oil always be stored in dark bottles?",
-            "answer": "Yes, olive oil oxidizes rapidly when exposed to light (UV rays). It is highly recommended to store it in a dark glass bottle, sealed tightly, and placed in a cool, shaded area."
+            "question": "L'huile d'olive doit-elle toujours être conservée dans des bouteilles en verre teinté ?",
+            "answer": "Oui, absolument. L'huile d'olive contient de la chlorophylle naturelle qui agit comme un photosensibilisateur sous la lumière (UV et éclairage intérieur), provoquant une photo-oxydation qui la rend rance en quelques semaines dans du verre transparent. Les bouteilles en verre teinté bloquent plus de 90 % de la lumière."
           }
         ]
       },
       "de": {
-        "title": "Wie man Speiseöl / Olivenöl frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber",
-        "description": "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Speiseöl / Olivenöl basierend auf offiziellen Sicherheitsrichtlinien.",
-        "authority": "<strong>USDA & MFDS</strong>",
-        "intro": "Haben Sie Olivenöl im Kühlschrank gelagert, um es länger frisch zu halten? Das Kühlen führt zur Bildung weißer Kristalle, was das feine Aroma und die gesunden Fette zerstört. Heute teilt FreshSnap Tipps zur Raumtemperaturlagerung.",
+        "title": "Speiseöl / Olivenöl richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Speiseöl und Olivenöl basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "<strong>IOC & USDA & MFDS</strong>",
+        "intro": "Haben Sie hochwertiges Olivenöl Extra Vergine im Kühlschrank gelagert, um es länger haltbar zu machen? 🫒\n\nPflanzliche Öle wie Olivenöl unterliegen der Fettoxidation (Ranzigwerden) durch vier Hauptfaktoren: Licht (UV), Sauerstoff, Hitze und Temperaturschwankungen. Beim Kühlen im Kühlschrank erstarrt die einfach ungesättigte Ölsäure unter 8–10 °C zu weißen Kristallen. Wiederholtes Einfrieren und Auftauen zerstört die feinen Aromen und Antioxidantien.\n\nHeute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Empfehlungen des International Olive Council (IOC) und der USDA basiert, um Geschmack und Nährstoffe Ihres Olivenöls über 1 Jahr lang zu bewahren. 🛡️",
         "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-        "whyDesc": "Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtige Lagerungsmethode anzuwenden, ist entscheidend für Frische und Hygiene.",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
         "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-        "cautionTitle": "Wichtige Warnhinweise zur Lagerung",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
         "tags": [
           "Speiseöl / Olivenöl",
           "Wissenschaftlich geprüfter Lagerungsratgeber",
@@ -318,48 +318,48 @@
         ],
         "cautions": [
           {
-            "title": "Verschluss nach jedem Gebrauch fest verschließen",
-            "desc": "Olivenöl oxidiert bei Kontakt mit Sauerstoff, wodurch der Säuregehalt steigt und Nährstoffe verloren gehen. Luftzufuhr immer stoppen."
+            "title": "Nach jedem Gebrauch die Flasche sofort fest verschließen ⚠️",
+            "desc": "Ständiger Kontakt mit Luftsauerstoff bildet Peroxide, was zu schnellem Ranzigwerden und Säureanstieg führt. Drehen Sie den Verschraubungsdeckel nach jedem Ausgießen fest zu."
           },
           {
-            "title": "Von Hitzequellen wie Herd und Ofen fernhalten",
-            "desc": "Die Wärme am Herd beschleunigt die Oxidation und ruiniert die Qualität. Olivenöl in einem kühlen, dunklen Küchenschrank lagern."
+            "title": "Unterscheiden Sie: Sesamöl (Raumtemperatur) vs. Leinöl (Gekühlt) 🫒",
+            "desc": "Olivenöl und Sesamöl bleiben dank natürlicher Antioxidantien bei Raumtemperatur stabil. Leinöl (reich an Omega-3) oxidiert jedoch extrem schnell und MUSS im Kühlschrank (unter 4 °C) aufbewahrt werden."
           }
         ],
         "steps": [
           {
-            "name": "Nicht im Kühlschrank lagern — Erstarrung verhindern ❌❄️",
-            "text": "Das Kühlen von Olivenöl führt dazu, dass es erstarrt und weiß auskristallisiert. Dieser Vorgang beeinträchtigt den Geschmack und zerstört Nährstoffe wie Ölsäure. Bei Raumtemperatur (14–18 °C) lagern."
+            "name": "Niemals im Kühlschrank lagern — Erstarrung & Aromaverlust verhindern ❌❄️",
+            "text": "Das Lagern von Olivenöl im Kühlschrank lässt die Fettsäuren zu einer butterartigen weißen Masse erstarren. 💡 Lagerungstipp: Wiederholtes Verflüssigen und Festwerden zerstört feine Fruchtaromen und Polyphenole. Die optimale Temperatur liegt bei kühlen 14–18 °C Raumtemperatur."
           },
           {
-            "name": "Direktes Sonnenlicht vermeiden und dunkle Flaschen nutzen — Lagerung bei Raumtemperatur (365Tage) 🫙",
-            "text": "UV-Licht ist der Hauptgrund für das Ranzigwerden von Pflanzenölen. Wenn das Olivenöl in einer klaren Flasche geliefert wird, umwickeln Sie diese mit Alufolie oder füllen Sie das Öl in eine dunkle Glasflasche um."
+            "name": "Dunkle Glasflaschen nutzen und Sonnenlicht meiden — Raumtemperatur (365 Tage) 🫙",
+            "text": "UV-Strahlen regen das Chlorophyll im Öl an und lösen eine schnelle Fotooxidation aus. 💡 Lagerungstipp: Wenn das Öl in einer klaren Plastikflasche geliefert wurde, umwickeln Sie diese mit Alufolie oder füllen Sie das Öl in eine dunkle braune oder grüne Glasflasche um."
           },
           {
-            "name": "In einem kühlen Schrank fern von Hitzequellen lagern — Hitzeschutz 🌬️",
-            "text": "Lagern Sie Olivenöl nicht aus Bequemlichkeit neben dem Herd oder Ofen. Hitze verdoppelt die Oxidationsgeschwindigkeit. Bewahren Sie es in einem kühlen, dunklen Schrank auf."
+            "name": "In einem kühlen Schrank fern von Herd und Ofen aufbewahren — Hitzeschutz 🌬️",
+            "text": "Das Aufstellen von Ölflaschen direkt neben dem Herd setzt sie ständiger Strahlungswärme aus. 💡 Lagerungstipp: Hitze verdoppelt die Oxidationsgeschwindigkeit von Fetten. Bewahren Sie Olivenöl immer in einem kühlen, dunklen Küchenschrank fern von allen Wärmequellen auf."
           }
         ],
         "faqs": [
           {
-            "question": "My olive oil solidified and turned white in the fridge. Is it spoiled?",
-            "answer": "No, extra virgin olive oil naturally solidifies when the temperature drops below 8-10°C (46-50°F). It will return to a clear liquid state at room temperature with no impact on quality."
+            "question": "Mein Olivenöl ist im Kühlschrank weiß gefroren und fest geworden. Ist es verdorben?",
+            "answer": "Nein, es ist nicht verdorben. Olivenöl Extra Vergine ist reich an einfach ungesättigter Ölsäure, die unter 8–10 °C auf natürliche Weise auskristallisiert. Wenn Sie die Flasche bei 14–18 °C Raumtemperatur stehen lassen, wird das Öl nach ein bis zwei Tagen wieder klar und flüssig – ohne Qualitäts- oder Nährstoffverlust."
           },
           {
-            "question": "Should olive oil always be stored in dark bottles?",
-            "answer": "Yes, olive oil oxidizes rapidly when exposed to light (UV rays). It is highly recommended to store it in a dark glass bottle, sealed tightly, and placed in a cool, shaded area."
+            "question": "Muss Olivenöl immer in dunklen Glasflaschen aufbewahrt werden?",
+            "answer": "Ja, absolut. Olivenöl enthält natürliches Chlorophyll, das unter Lichteinfluss (UV-Licht und Raumbeleuchtung) als Fotosensibilisator wirkt und eine Fotooxidation auslöst, die das Öl in transparenten Flaschen binnen Wochen ranzig macht. Dunkle Glasflaschen blockieren über 90 % des Lichts."
           }
         ]
       },
       "pt": {
-        "title": "Como armazenar Óleo de cozinha / Azeite fresco: Guia científico de conservação",
-        "description": "Descubra la mejor temperatura, métodos y duración de armazenamento para Óleo de cozinha / Azeite com base nas diretrizes oficiais de segurança.",
-        "authority": "<strong>USDA & MFDS</strong>",
-        "intro": "Você guardou o azeite na geladeira para conservar por mais tempo? Refrigerar faz o azeite solidificar em cristais brancos, destruindo o aroma e nutrientes. Hoje, o FreshSnap compartilha técnicas de temperatura ambiente.",
+        "title": "Como conservar azeite e óleos de cozinha frescos: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para azeite e óleos com base em diretrizes oficiais de segurança.",
+        "authority": "<strong>IOC & USDA & MFDS</strong>",
+        "intro": "Você já guardou azeite de oliva extra virgem na geladeira para tentar fazê-lo durar mais tempo? 🫒\n\nOs óleos vegetais como o azeite sofrem oxidação lipídica (rancificação) quando expostos a quatro fatores: luz (UV), oxigênio, calor e variações de temperatura. Refrigerar o azeite faz com que o ácido oleico monoinsaturado se solidifique em cristais brancos abaixo de 8–10 °C. O ciclo de congelar e descongelar destrói seus polifenóis e compostos antioxidantes.\n\nHoje, o FreshSnap apresenta um guia de conservação em 3 etapas baseado em diretrizes do Conselho Oleícola Internacional (IOC) e do USDA para preservar o sabor e os nutrientes do seu azeite por mais de 1 ano. 🛡️",
         "whyTitle": "Por que armazenar assim? Fatos científicos",
-        "whyDesc": "Comprender as características únicas de cada ingrediente e seguir o método de armazenamento adequado é extremamente importante para manter o frescor e a higiene.",
+        "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
         "guideTitle": "Guia de armazenamento comprovado cientificamente",
-        "cautionTitle": "Reglas cruciales e precauções",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
         "tags": [
           "Óleo de cozinha / Azeite",
           "Guia de armazenamento comprovado cientificamente",
@@ -367,48 +367,48 @@
         ],
         "cautions": [
           {
-            "title": "Feche bem a tampa após cada uso",
-            "desc": "O azeite oxida em contato com o oxigênio, aumentando a acidez e perdendo propriedades. Feche sempre bem a tampa."
+            "title": "Feche bem a tampa imediatamente após cada uso ⚠️",
+            "desc": "O contato contínuo com o oxigênio gera peróxidos, acelerando a rancificação e aumentante a acidez do azeite. Rosqueie a tampa firmemente a cada uso para bloquear a entrada de ar."
           },
           {
-            "title": "Mantenha longe de fontes de calor como fogão e forno",
-            "desc": "O calor do fogão acelera a oxidação e estraga a qualidade. Guarde o azeite dentro de um armário fresco e escuro."
+            "title": "Diferencie as temperaturas: Óleo de gergelim (Temp. Ambiente) vs. Linhaça (Refrigerado) 🫒",
+            "desc": "O azeite de oliva e o óleo de gergelim são estáveis em temperatura ambiente devido aos seus antioxidantes. No entanto, o óleo de linhaça (rico em ômega-3) oxida rápido e DEVE ser mantido refrigerado abaixo de 4 °C."
           }
         ],
         "steps": [
           {
-            "name": "Não armazene na geladeira — Evite a solidificação ❌❄️",
-            "text": "Refrigerar o azeite de oliva faz com que ele solidifique e crie cristais brancos. Esse ciclo destrói o sabor premium e os nutrientes como o ácido oleico. Mantenha em temperatura ambiente (14-18 °C)."
+            "name": "Nunca guarde na geladeira — Evite a solidificação e perda de aroma ❌❄️",
+            "text": "Colocar azeite de oliva na geladeira faz com que a gordura congele em uma pasta branca. 💡 Dica de conservação: Descongelar e congelar repetidamente destrói os polifenóis e aromas frutados. A temperatura ideal para o azeite de oliva é a temperatura ambiente fresca, entre 14 e 18 °C."
           },
           {
-            "name": "Evite luz solar direta e use garrafas escuras — Conservação em Temp. Ambiente (365Dias) 🫙",
-            "text": "A luz ultravioleta é a principal causa de rancidez em óleos vegetais. Se o azeite vier em garrafa plástica transparente, embrulhe-a com papel alumínio ou mude para uma garrafa de vidro escuro para proteger da luz."
+            "name": "Use garrafas de vidro escuro e evite a luz solar — Temp. Ambiente (365 dias) 🫙",
+            "text": "A luz UV e a iluminação ambiente estimulam a clorofila do azeite, gerando rápida foto-oxidação. 💡 Dica de conservação: Se o azeite vier em garrafa transparente, envolva-a em papel alumínio ou passe o azeite para uma garrafa de vidro escuro (verde ou âmbar)."
           },
           {
-            "name": "Guarde em armário fresco longe de fontes de calor — Proteção contra calor 🌬️",
-            "text": "Não guarde o azeite perto do fogão ou forno por conveniência. A exposição ao calor dobra a velocidade de oxidação. Guarde em um armário fresco e escuro, longe de fontes de calor."
+            "name": "Guarde em um armário fresco longe do fogão e do forno — Proteção contra calor 🌬️",
+            "text": "Deixar o azeite perto do fogão expõe o produto ao calor radiante constante. 💡 Dica de conservação: O calor dobra a velocidade de oxidação das gorduras. Guarde sempre as garrafas dentro de um armário de cozinha escuro e fresco, longe de fontes de calor."
           }
         ],
         "faqs": [
           {
-            "question": "My olive oil solidified and turned white in the fridge. Is it spoiled?",
-            "answer": "No, extra virgin olive oil naturally solidifies when the temperature drops below 8-10°C (46-50°F). It will return to a clear liquid state at room temperature with no impact on quality."
+            "question": "Meu azeite de oliva solidificou e ficou branco na geladeira. Ele estragou?",
+            "answer": "Não, não estragou. O azeite de oliva extra virgem é rico em ácido oleico monoinsaturado, que se cristaliza naturalmente quando a temperatura cai abaixo de 8–10 °C. Deixar a garrafa em temperatura ambiente (14–18 °C) por um ou dois dias fará com que volte ao estado líquido transparente sem perder qualidade."
           },
           {
-            "question": "Should olive oil always be stored in dark bottles?",
-            "answer": "Yes, olive oil oxidizes rapidly when exposed to light (UV rays). It is highly recommended to store it in a dark glass bottle, sealed tightly, and placed in a cool, shaded area."
+            "question": "O azeite de oliva deve ser sempre guardado em garrafas de vidro escuro?",
+            "answer": "Sim, com certeza. O azeite contém clorofila natural que age como fotossensibilizador diante da luz (raios UV e luz ambiente), disparando a foto-oxidação que o deixa râncio em poucas semanas em garrafas transparentes. As garrafas escuras bloqueiam mais de 90% da luz."
           }
         ]
       },
       "id": {
-        "title": "Cara Menyimpan Minyak goreng / Zaitun agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk Minyak goreng / Zaitun berdasarkan pedoman keselamatan resmi.",
-        "authority": "<strong>USDA & MFDS</strong>",
-        "intro": "Apakah Anda menyimpan minyak zaitun di kulkas agar lebih awet? Mendinginkannya akan membeku menjadi kristal putih, merusak aroma dan kandungan nutrisinya. Hari ini, FreshSnap membagikan panduan penyimpanan suhu ruang.",
-        "whyTitle": "Mengapa disimpan seperti ini? Fakta ilmiah",
-        "whyDesc": "Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpanan yang benar sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "title": "Cara Menyimpan Minyak Goreng / Zaitun agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk minyak goreng dan minyak zaitun berdasarkan pedoman keselamatan resmi.",
+        "authority": "<strong>IOC & USDA & MFDS</strong>",
+        "intro": "Pernahkah Anda menyimpan minyak zaitun extra virgin berkualitas tinggi di dalam kulkas agar lebih awet? 🫒\n\nMinyak nabati seperti minyak zaitun mengalami oksidasi lemak (ketengikan) akibat empat faktor utama: cahaya (UV), oksigen, panas, dan fluktuasi suhu. Mendinginkan minyak zaitun di kulkas membuat kandungan asam oleat tak jenuh tunggalnya membeku menjadi kristal putih di bawah suhu 8–10°C. Siklus beku-cair yang berulang merusak polifenol dan senyawa antioksidan alaminya.\n\nHari ini, FreshSnap membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan pedoman International Olive Council (IOC) dan USDA untuk menjaga aroma dan nutrisi minyak zaitun Anda selama lebih dari 1 tahun. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
         "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-        "cautionTitle": "Aturan Penting dan Peringatan",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
         "tags": [
           "Minyak goreng / Zaitun",
           "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
@@ -416,36 +416,36 @@
         ],
         "cautions": [
           {
-            "title": "Tutup rapat penutup setelah digunakan",
-            "desc": "Minyak zaitun teroksidasi saat terpapar oksigen, meningkatkan keasaman dan mengurangi khasiatnya. Selalu batasi udara masuk."
+            "title": "Tutup rapat penutup botol segera setelah digunakan ⚠️",
+            "desc": "Paparan oksigen udara secara terus-menerus menghasilkan peroksida, mempercepat ketengikan dan meningkatkan keasaman minyak zaitun. Selalu putar tutup botol hingga rapat setiap kali selesai dituangkan."
           },
           {
-            "title": "Jauhkan dari sumber panas seperti kompor dan oven",
-            "desc": "Panas kompor memicu oksidasi cepat dan merusak kualitas. Simpan minyak zaitun di dalam kabinet dapur yang sejuk dan gelap."
+            "title": "Pahami perbedaan suhu: Minyak wijen (Suhu Ruang) vs. Minyak perilla (Kulkas) 🫒",
+            "desc": "Minyak zaitun dan minyak wijen stabil di suhu ruang berkat antioksidan alaminya. Namun, minyak perilla (kaya omega-3) sangat cepat teroksidasi dan WAJIB disimpan di kulkas di bawah suhu 4°C."
           }
         ],
         "steps": [
           {
-            "name": "Jangan simpan di kulkas — Mencegah pembekuan dan hilangnya aroma ❌❄️",
-            "text": "Menyimpan minyak zaitun di kulkas membuatnya membeku dan mengkristal putih. Proses beku-cair berulang akan merusak rasa mewah dan nutrisi penting seperti asam oleat. Simpan di suhu ruang (14–18°C)."
+            "name": "Jangan pernah menyimpan di kulkas — Cegah Pembekuan & Hilangnya Aroma ❌❄️",
+            "text": "Menyimpan minyak zaitun di kulkas membuat asam lemaknya membeku menjadi gumpalan putih seperti mentega. 💡 Tips Penyimpanan: Cair-beku yang berulang merusak aroma buah yang lembut dan polifenol. Suhu terbaik untuk minyak zaitun adalah suhu ruang sejuk antara 14–18°C."
           },
           {
-            "name": "Hindari sinar matahari langsung dan gunakan botol kaca gelap — Penyimpanan Suhu Ruang (365Hari) 🫙",
-            "text": "Sinar ultravioleta adalah penyebab utama ketengikan pada minyak nabati. Jika dikemas dalam botol plastik transparan, bungkus botol dengan aluminium foil atau pindahkan ke botol kaca gelap."
+            "name": "Gunakan botol kaca gelap dan hindari sinar matahari — Suhu Ruang (365 Hari) 🫙",
+            "text": "Sinar UV dan lampu ruangan merangsang klorofil dalam minyak, memicu foto-oksidasi yang cepat. 💡 Tips Penyimpanan: Jika minyak zaitun dikemas dalam botol plastik transparan, bungkus botol dengan aluminium foil atau pindahkan ke botol kaca gelap berwarna hijau atau cokelat."
           },
           {
-            "name": "Simpan di lemari sejuk jauh dari kompor/panas — Menghindari panas 🌬️",
-            "text": "Jangan simpan minyak zaitun di dekat kompor atau oven untuk kemudahan. Paparan panas menggandakan kecepatan oksidasi minyak. Simpan di lemari dapur yang sejuk jauh dari semua sumber panas."
+            "name": "Simpan di lemari sejuk jauh dari kompor dan oven — Lindungi dari Panas 🌬️",
+            "text": "Menaruh botol minyak di dekat kompor atau oven membuat minyak terpapar panas radiasi secara konstan. 💡 Tips Penyimpanan: Paparan panas menggandakan kecepatan oksidasi lemak. Selalu simpan botol minyak zaitun di dalam lemari dapur yang gelap dan sejuk jauh dari sumber panas."
           }
         ],
         "faqs": [
           {
-            "question": "My olive oil solidified and turned white in the fridge. Is it spoiled?",
-            "answer": "No, extra virgin olive oil naturally solidifies when the temperature drops below 8-10°C (46-50°F). It will return to a clear liquid state at room temperature with no impact on quality."
+            "question": "Minyak zaitun saya membeku dan menggumpal putih di kulkas. Apakah sudah rusak?",
+            "answer": "Tidak, minyak zaitun tidak rusak. Minyak zaitun extra virgin kaya akan asam oleat tak jenuh tunggal yang membeku dan mengkristal secara alami saat suhu turun di bawah 8–10°C. Biarkan botol di suhu ruang (14–18°C) selama satu atau dua hari, maka minyak akan kembali cair jernih tanpa merusak kualitas atau manfaat kesehatannya."
           },
           {
-            "question": "Should olive oil always be stored in dark bottles?",
-            "answer": "Yes, olive oil oxidizes rapidly when exposed to light (UV rays). It is highly recommended to store it in a dark glass bottle, sealed tightly, and placed in a cool, shaded area."
+            "question": "Haruskah minyak zaitun selalu disimpan dalam botol kaca gelap?",
+            "answer": "Ya, sangat wajib. Minyak zaitun mengandung klorofil alami yang bertindak sebagai fotosensitizer saat terpapar cahaya (sinar UV dan lampu ruangan), memicu foto-oksidasi yang membuat minyak tengik dalam beberapa minggu jika berada di dalam botol transparan. Botol kaca gelap menghalangi lebih dari 90% sinar cahaya."
           }
         ]
       }

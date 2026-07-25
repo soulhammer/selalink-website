@@ -11,10 +11,10 @@
       "ko": {
         "title": "딸기 신선하게 보관하는 법: 과학적 보관 가이드",
         "description": "공인된 안전 가이드라인에 따른 딸기의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-        "authority": "<strong>MFDS & USDA</strong>",
-        "intro": "달콤하고 싱그러운 딸기를 사 와서 통째로 넣어두었다가, 하루 이틀 만에 아래쪽 딸기들이 무르고 솜털 같은 곰팡이가 피어 버린 적 있으시죠? 오늘 FreshSnap에서는 농촌진흥청(RDA)과 미국 농무부(USDA)의 가이드를 기반으로, 딸기의 무름 현상을 원천 방지하여 신선하게 끝까지 맛있게 드실 수 있는 과학적 보관법을 전합니다.",
+        "authority": "<strong>농촌진흥청(RDA) & 식품의약품안전처(MFDS) & 미국 농무부(USDA)</strong>",
+        "intro": "달콤하고 싱그러운 딸기를 한 상자 사 와서 그대로 두었다가, 하루이틀 만에 아래쪽 딸기들이 무르고 솜털 같은 곰팡이가 피어 버려본 경험 있으시죠? 🍓\n\n딸기는 과피가 매우 얇고 조직이 약한 대표적인 소과류 과일로, 수분 흡수와 기계적 충격에 매우 취약합니다. 특히 보관 전 세척이나 꼭지 제거, 밀폐 보관은 잿빛곰팡이균(Botrytis)이 급격히 번식하는 최적의 조건이 됩니다.\n\n오늘 FreshSnap에서는 농촌진흥청(RDA)과 미국 농무부(USDA)의 가이드를 바탕으로, 딸기의 무름 현상을 완벽히 방지하여 신선하고 달콤하게 오래 즐기는 3단계 과학적 보관 비법을 전해드립니다. 🛡️",
         "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-        "whyDesc": "각 식재료의 고유한 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
         "guideTitle": "과학적으로 검증된 보관 가이드",
         "cautionTitle": "보관 시 필수 규칙 및 주의사항",
         "tags": [
@@ -24,48 +24,48 @@
         ],
         "cautions": [
           {
-            "title": "Remove bruised strawberries immediately ⚠️",
-            "desc": "A single bruised berry with leaking juice creates the perfect environment for mold to take over the whole package."
+            "title": "상처 나거나 무른 딸기는 즉시 골라내어 따로 드세요 ⚠️",
+            "desc": "한 알이라도 짓눌려서 과즙이 새어 나오는 딸기가 섞여 있으면, 잿빛곰팡이 포자가 수시간 내에 용기 전체의 다른 신선한 딸기로 전이됩니다. 구매 직후 상처 난 딸기는 골라내어 바로 섭취해야 합니다."
           },
           {
-            "title": "Store on the inner shelf with stable low temperature 🍓",
-            "desc": "The refrigerator door pockets have large temperature fluctuations and vibrations. Store strawberries on the back of the inner shelf where the temperature is stable to prevent rapid spoiling."
+            "title": "냉장고 문 포켓이 아닌 안쪽 깊은 선반에 보관하세요 🍓",
+            "desc": "냉장고 문 쪽은 문을 열고 닫을 때마다 심한 온도 변화와 문 닫힘 충격이 가해집니다. 온도 민감성과 진동 충격에 약한 딸기는 냉장고 본체 안쪽 선반(0~2℃) 깊숙한 곳에 보관해야 무르지 않습니다."
           }
         ],
         "steps": [
           {
-            "name": "씻지 않고 꼭지 떼지 않은 상태 보존하기 — 수분 침투 차단 🍓",
-            "text": "딸기는 씻어서 꼭지를 떼면 과실 표면에 상처가 생겨 수분을 급속히 흡수하고 세포막이 붕괴되어 과즙이 흘러나옵니다. 이 부위에 잿빛곰팡이가 매우 빠르게 증식하므로, 먹기 직전까지 절대로 물을 묻히거나 꼭지를 떼면 안 됩니다."
+            "name": "씻지 않고 꼭지를 떼지 않은 상태 보존하기 — 수분 침투 차단 🍓",
+            "text": "딸기는 씻어서 꼭지를 떼면 과실 상단에 미세한 상처가 생깁니다. 💡 보관 팁: 상처 난 단면으로 삼투압 현상이 일어나 물을 급속히 흡수하고 세포막이 붕괴되어 과즙이 흘러나옵니다. 곰팡이 번식의 주원인이 되므로 먹기 직전까지 절대로 물을 묻히거나 꼭지를 떼지 마세요."
           },
           {
-            "name": "용기 바닥에 키친타월 깔고 띄엄띄엄 담기 — 마찰 및 습기 방지 📰",
-            "text": "수납 용기 바닥에 키친타월을 충분히 깔아준 뒤, 딸기를 서로 달라붙지 않게 일정한 거리를 두고 세워 정렬합니다. 딸기는 연약해서 겹겹이 쌓아두면 중력에 의해 서로 짓눌려 하단 과육부터 물러 터지기 쉽습니다."
+            "name": "용기 바닥에 키친타월을 깔고 띄엄띄엄 담기 — 완충 및 습기 조절 📰",
+            "text": "딸기를 겹겹이 쌓아두면 자체 무게 때문에 아윗부분 딸기의 세포벽이 무너집니다. 💡 보관 팁: 넙적한 용기 바닥에 키친타월을 2~3겹 깔아준 뒤, 딸기를 꼭지가 아래로 가거나 서로 닿지 않도록 일정한 간격을 두고 정렬해 주세요. 키친타월이 습기를 흡수하여 무름을 막아줍니다."
           },
           {
-            "name": "플라스틱 용기나 지퍼백 밀봉 없이 보관하기 — 결로 방지 냉장 (5일) ❄️",
-            "text": "밀폐 뚜껑을 꽉 닫아 보관하면 결로 물방울이 딸기 표면에 맺혀 금방 썩습니다. 구멍이 뚫려 통기성이 있는 플라스틱 팩을 활용하거나 지퍼백의 상단부를 완전히 열어둔 상태로 냉장 보관해야 합니다."
+            "name": "밀봉하지 않고 통풍 가능하게 냉장 보관하기 — 결로 방지 냉장 (5~7일) ❄️",
+            "text": "딸기를 밀폐 용기에 꽉 닫아 보관하면 과실 호흡으로 인해 내부에 결로 물방울이 맺혀 쉽게 썩습니다. 💡 보관 팁: 구멍이 뚫려 통기성이 있는 전용 플라스틱 팩을 활용하거나, 용기 뚜껑이나 지퍼백을 살짝 열어둔 채 냉장고 야채칸(0~2℃)에 보관해 주세요."
           }
         ],
         "faqs": [
           {
-            "question": "식재료를 냉장고에 넣기 전에 반드시 물로 씻어야 하나요?",
-            "answer": "아닙니다. 보관 전 물로 씻으면 과도한 습기가 갇혀 곰팡이나 세균 번식이 촉진됩니다. 흙과 먼지만 마른 천으로 가볍게 털어내 보관하고, 씻는 것은 먹기 직전에 하는 것이 정석입니다."
+            "question": "딸기 표면에 흰색 솜털 곰팡이가 피었는데 깎아내고 먹어도 되나요?",
+            "answer": "절대 안 됩니다. 딸기에 발생하는 곰팡이는 대부분 '잿빛곰팡이(Botrytis cinerea)'로, 곰팡이 포자와 눈에 보이지 않는 균사체가 연약한 딸기 과육 내부 깊숙이 파고든 상태입니다. 곰팡이가 핀 부분만 떼어내더라도 이미 독소가 전체로 퍼졌을 가능성이 높으므로 곰팡이가 보이면 망설임 없이 버려야 합니다."
           },
           {
-            "question": "상처 나거나 짓무른 부위는 어떻게 처리하고 보관해야 하나요?",
-            "answer": "상처 난 부위는 에틸렌과 수분 손실을 촉진하므로 즉시 따로 칼로 도려내고 먼저 드셔야 합니다. 상처 난 과일이나 채소를 일반 식재료와 섞어 두면 전체가 빠르게 썩게 됩니다."
+            "question": "딸기를 오래 보관하기 위해 냉동 보관해도 되나요?",
+            "answer": "네, 딸기를 장기 보관하는 가장 좋은 방법은 냉동 보관입니다. 꼭지를 잘라내고 흐르는 물에 가볍게 씻은 후 키친타월로 수분을 완전히 제거하세요. 그 후 딸기가 서로 붙지 않도록 쟁반에 펴서 1차 냉동한 뒤 지퍼백에 담아 냉동실(-18℃ 이하)에 보관하면 최대 6개월간 스무디, 잼, 라떼용으로 맛있게 활용할 수 있습니다."
           }
         ]
       },
       "en": {
-        "title": "How to Store Strawberry Fresh: Scientific Storage Guide",
-        "description": "Learn the best storage temperature, methods, and duration for Strawberry based on official safety guidelines.",
-        "authority": "<strong>MFDS & USDA</strong>",
-        "intro": "Have you ever bought beautiful strawberries only to find them turn mushy and moldy in a day or two? Today, FreshSnap shares scientific storage tips to prevent mold.",
-        "whyTitle": "Why store like this? Scientific facts",
-        "whyDesc": "Understanding the unique characteristics of each ingredient and following the proper storage method is extremely important for maintaining freshness and hygiene.",
+        "title": "How to Keep Strawberries Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for strawberries based on official safety guidelines.",
+        "authority": "<strong>RDA & MFDS & USDA</strong>",
+        "intro": "Have you ever bought a box of bright, sweet strawberries only to find the bottom ones mushy, bruised, and covered in fuzzy white mold a day or two later? 🍓\n\nStrawberries are soft-hulled berries with extremely thin, delicate skins that make them highly sensitive to water absorption and mechanical pressure. Washing them beforehand, removing the calyx (green stem), or storing them in airtight containers creates the exact environment gray mold fungus (Botrytis) needs to thrive.\n\nToday, FreshSnap shares a scientifically proven 3-step storage guide based on research from the USDA and RDA to completely prevent bruising, control moisture, and keep your strawberries fresh and sweet for over a week. 🛡️",
+        "whyTitle": "Why Store Strawberries This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
         "guideTitle": "Scientifically Proven Storage Guide",
-        "cautionTitle": "Crucial Rules and Cautions",
+        "cautionTitle": "Essential Storage Rules and Cautions",
         "tags": [
           "Strawberry",
           "Scientifically Proven Storage Guide",
@@ -73,48 +73,48 @@
         ],
         "cautions": [
           {
-            "title": "Remove bruised strawberries immediately ⚠️",
-            "desc": "A single bruised berry with leaking juice creates the perfect environment for mold to take over the whole package."
+            "title": "Sort out bruised or damaged strawberries immediately ⚠️",
+            "desc": "A single bruised berry leaking juice releases fungal spores that spread through contact, spoiling the entire container within hours. Inspect your strawberries immediately upon purchase and eat bruised ones right away."
           },
           {
-            "title": "Store on the inner shelf with stable low temperature 🍓",
-            "desc": "The refrigerator door pockets have large temperature fluctuations and vibrations. Store strawberries on the back of the inner shelf where the temperature is stable to prevent rapid spoiling."
+            "title": "Store on deep inner shelves instead of the refrigerator door 🍓",
+            "desc": "The refrigerator door shelf undergoes severe temperature swings and physical shocks every time it opens. Delicate berries should be kept on a deep inner shelf of the main compartment (0–2°C / 32–36°F) where temperature and movement remain stable."
           }
         ],
         "steps": [
           {
-            "name": "Do not wash and keep stems on — Block water absorption 🍓",
-            "text": "Washing strawberries and cutting their stems creates wounds on the skin, causing them to absorb water, collapse cell walls, and leak juice. Mold grows rapidly on these cut areas; wash only before eating."
+            "name": "Keep unwashed and leave green stems attached — Block Moisture Absorption 🍓",
+            "text": "Washing strawberries or hulling their green stems creates microscopic wounds on the surface. 💡 Storage Tip: Water rushes into these wounds via osmotic pressure, causing cell walls to rupture and leak juice, which triggers gray mold growth. Keep them completely dry until right before eating."
           },
           {
-            "name": "Line container with paper towels and space out — Avoid pressure 📰",
-            "text": "Line the bottom of a container with paper towels, then arrange the strawberries in a single layer with space between them. Stacking fragile strawberries crushes them under gravity."
+            "name": "Line container bottom with paper towels and space out berries — Cushioning & Moisture Control 📰",
+            "text": "Stacking strawberries in multiple layers crushes the bottom fruit under its own weight. 💡 Storage Tip: Line a wide, shallow container with 2–3 layers of paper towels and arrange strawberries in a single layer with space between them. Paper towels absorb condensation to prevent softening."
           },
           {
-            "name": "Store without airtight sealing — Avoid condensation (5 Days) ❄️",
-            "text": "Storing them with a tight lid causes condensation droplets to gather on the fruit, leading to fast rotting. Use a ventilated plastic container or keep the top of a Ziploc bag open in the fridge."
+            "name": "Refrigerate with ventilation without airtight sealing — Cold Storage (5–7 Days) ❄️",
+            "text": "Sealing strawberries under a tight lid traps moisture condensation generated by fruit respiration, causing rapid decay. 💡 Storage Tip: Use a ventilated plastic clamshell container or keep the lid of your container slightly ajar in the crisper drawer (0–2°C)."
           }
         ],
         "faqs": [
           {
-            "question": "Should I wash ingredients with water before putting them in the refrigerator?",
-            "answer": "No, washing before storage traps excess moisture, promoting mold and bacterial growth. Wipe off dirt with a dry cloth and wash right before eating."
+            "question": "If white fuzzy mold grows on a strawberry, can I cut it off and eat the rest?",
+            "answer": "No, absolutely not. The mold on strawberries is typically 'Gray Mold (Botrytis cinerea)', which spreads microscopic fungal hyphae deep into the soft berry tissue invisibly. Even if you trim off the visible mold, mycotoxins have already permeated the fruit. Discard any moldy strawberries immediately."
           },
           {
-            "question": "How should I handle and store bruised or damaged parts?",
-            "answer": "Damaged parts accelerate ethylene and moisture loss. Cut off the damaged parts immediately and eat them first. Leaving them with healthy ones will spoil the whole batch."
+            "question": "Can I freeze strawberries for long-term storage?",
+            "answer": "Yes, strawberries freeze exceptionally well for smoothies or jams. Hull the stems, rinse quickly under cold water, and dry them thoroughly with paper towels. Flash-freeze the berries arranged in a single layer on a tray before transferring them into a freezer Ziploc bag (-18°C or below). They will stay good for up to 6 months."
           }
         ]
       },
       "ja": {
-        "title": "イチゴの鮮度を保つ保存方法：科学的保管ガイド",
-        "description": "公的安全基準に基づくイチゴの最適な保存温度、保管方法、保存期間について解説します。",
-        "authority": "<strong>食品医薬品安全処(MFDS) & 米国農務省(USDA)</strong>",
-        "intro": "甘いイチゴを買ってきたのに、翌日には潰れたりカビが生えたりしてしまったことはありませんか？本日, FreshSnapではイチゴの傷みを防ぎ、長持ちさせる保存法をご紹介します。",
-        "whyTitle": "なぜこのように保存するのか？科学的な事実",
-        "whyDesc": "食材ごとの特性を理解し、正しい保存方法を実践することは、鮮度キープと衛生管理において非常に重要です。",
+        "title": "イチゴを新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくイチゴの最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "<strong>農村振興庁(RDA) & 食品医薬品安全処(MFDS) & 米国農務省(USDA)</strong>",
+        "intro": "甘くて美味しいイチゴを買ってきたのに、1〜2日で下の実が潰れて綿のような白カビが生えてしまい、捨ててしまった経験はありませんか？🍓\n\nイチゴは皮が非常に薄く、組織が柔らかい小果樹類で、水分吸収や物理的な圧力に極めて弱いです。特に保存前に洗ったりヘタを取ったり、密閉保存すると、灰色かび病菌（Botrytis）が急速に繁殖する絶好の環境になってしまいます。\n\n本日FreshSnapでは、農村振興庁（RDA）および米国農務省（USDA）のガイドラインに基づき、イチゴの潰れを防ぎ、水分をコントロールして1週間以上甘く新鮮に保つ3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
         "guideTitle": "科学的に検証された保存ガイド",
-        "cautionTitle": "保存時の注意点",
+        "cautionTitle": "保存時の必須ルールと注意事項",
         "tags": [
           "イチゴ",
           "科学的に検証された保存ガイド",
@@ -122,48 +122,48 @@
         ],
         "cautions": [
           {
-            "title": "潰れたイチゴはすぐに取り除いてください ⚠️",
-            "desc": "汁が出ている潰れたイチゴをそのままにしておくと、カビ胞子が急速に繁殖し, パック全体のイチゴが台無しになります。"
+            "title": "傷ついたイチゴや柔らかいイチゴはすぐに選別して取り除いてください ⚠️",
+            "desc": "1個でも潰れて果汁が漏れているイチゴが混ざっていると、カビの胞子が数時間でパック全体の新鮮なイチゴに広がります。購入直後に傷んだイチゴを選別し、すぐに召し上がってください。"
           },
           {
-            "title": "一定の低温が保たれる奥の棚に保管してください 🍓",
-            "desc": "冷蔵庫のドアポケットは開閉による温度変化や振動が大きく、イチゴが傷みやすくなります。温度変化の少ない庫内奥の棚に置くことが、長持ちさせる秘訣です。"
+            "title": "ドアポケットではなく冷蔵庫奥の棚に保管してください 🍓",
+            "desc": "ドアポケットは開閉のたびに激しい温度変化と振動のショックが加わります。温度変化や振動に弱いイチゴは、温度が一定な冷蔵庫本体の奥の棚（0〜2℃）で保存するのが長持ちの秘密です。"
           }
         ],
         "steps": [
           {
-            "name": "洗わずにヘタを取らないまま保存する —  水分侵入の遮断 🍓",
-            "text": "イチゴは洗ってヘタを取ると、切り口から水分を急激に吸い込んでしまい、細胞壁が壊れて果汁が流れ出てしまいます。そこから灰色かび病が一気に繁殖するため、食べる直前まで洗わないでください。"
+            "name": "洗わずにヘタを取らないまま保存する — 水分侵入の遮断 🍓",
+            "text": "イチゴは洗ってヘタを取ると、切り口に微細な傷ができます。💡保存のコツ：傷ついた断面から浸透圧により水分を急速に吸収し、細胞膜が壊れて果汁が溢れ出ます。これがカビの大きな原因となるため、食べる直前まで絶対に水洗いしたりヘタを取ったりしないでください。"
           },
           {
-            "name": "容器にペーパーを敷き, 隙間をあけて並べる — 摩擦と湿気の防止 📰",
-            "text": "容器の底にキッチンペーパーを敷き、その上に重ならないよう広げます. ペーパーが余分な結露吸い取り, 下の実が重みで潰れたり水気で腐るのを防ぎます."
+            "name": "容器の底にペーパータオルを敷き間隔をあけて並べる — 緩衝と湿気の調整 📰",
+            "text": "イチゴを重ねて置くと、重みで下の実の細胞壁が潰れてしまいます。💡保存のコツ：浅い容器の底にキッチンペーパーを2〜3重に敷き、イチゴのヘタを下にするか、お互い触れ合わないよう間隔をあけて1層で並べてください。ペーパーが結露を吸収し傷みを防ぎます。"
           },
           {
-            "name": "密閉せずに冷蔵庫へ — 結露を防いで保存 (5日間) ❄️",
-            "text": "密閉した容器は避け、少し空気を通した状態で冷蔵保管します。"
+            "name": "密閉せずに通気性を保って冷蔵保存する — 結露防止冷蔵 (5〜7日) ❄️",
+            "text": "密閉フタをきつく閉めて保存すると、呼吸によって内部に結露が生じ、一気に腐敗が進みます。💡保存のコツ：通気穴のある専用パックを使用するか、容器のフタやジッパーバッグを少し開けた状態で冷蔵庫の野菜室（0〜2℃）に入れてください。"
           }
         ],
         "faqs": [
           {
-            "question": "食材を冷蔵庫に入れる前に必ず水洗いすべきですか？",
-            "answer": "いいえ。保存前に水洗いすると過度な湿気が閉じ込められ、カビや細菌の繁殖を促進します。汚れは乾いた布で拭き取り、食べる直前に洗ってください。"
+            "question": "イチゴの表面に白いカビが生えてしまいましたが、カビの部分を切り落とせば食べられますか？",
+            "answer": "絶対に食べてはいけません。イチゴに発生するカビは主に「灰色かび病（Botrytis cinerea）」で、目に見えないカビの糸（菌糸）が柔らかい果肉の奥深くまで侵入しています。カビが生えた部分を取り除いても全体に毒素が広がっている可能性が高いため、カビが見られたら迷わず廃棄してください。"
           },
           {
-            "question": "傷んだり潰れたりした部分はどのように処理して保存すべきですか？",
-            "answer": "傷んだ部分はエチレンや水分損失を促進するため、すぐに切り落として先に消費してください。健康な食材と一緒に置くと全体が早く傷みます。"
+            "question": "イチゴを長期間保存するために冷凍保存してもいいですか？",
+            "answer": "はい、イチゴは冷凍保存が可能です。ヘタを切り落とし、流れる水で手早く洗ってからペーパータオルで水分を完全に取り除きます。バットなどに重ならないよう並べて急速冷凍し、固まってから冷凍用ジッパーバッグに移して冷凍（-18℃以下）すれば、最大6ヶ月間スムージーやジャム、イチゴミルク用として楽しめます。"
           }
         ]
       },
       "zh": {
-        "title": "如何保鲜储存草莓：科学储存指南",
+        "title": "如何保持草莓新鲜：科学储存指南",
         "description": "根据官方食品安全指南，了解草莓的最佳储存温度、方式和保鲜时长。",
-        "authority": "<strong>韩国食品医药品安全处(MFDS) & 美国农务部(USDA)</strong>",
-        "intro": "您是否曾买回鲜美的大草莓，却发现它们在一两天内就变得软烂发霉？今天，FreshSnap为您分享防止草莓发霉的科学储存方法。",
+        "authority": "<strong>韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS) & 美国农务部(USDA)</strong>",
+        "intro": "您是否曾买回一整盒鲜美多汁的草莓，直接存放在冰箱里，结果一两天后下面的草莓就发软压烂，甚至长出了白毛状的霉菌？🍓\n\n草莓是表皮极薄、组织娇嫩的浆果，对水分吸收和机械挤压极度敏感。如果在保存前用水清洗、去除草莓蒂或完全密封，会为灰霉病菌（Botrytis）的爆发性滋生创造绝佳条件。\n\n今天FreshSnap基于韩国农村振兴厅(RDA)和美国农务部(USDA)的研究，为您带来3步科学保存秘诀，帮您彻底防止草莓压伤发烂，保持甜美清脆达1周以上。🛡️",
         "whyTitle": "为什么要这样储存？科学原理",
-        "whyDesc": "了解每种食材的独特特性并遵循正确的储存方法，对于保持新鲜度和卫生至关重要。",
+        "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
         "guideTitle": "科学验证的储存指南",
-        "cautionTitle": "储存注意事项",
+        "cautionTitle": "储存必需规则及注意事项",
         "tags": [
           "草莓",
           "科学验证的储存指南",
@@ -171,48 +171,48 @@
         ],
         "cautions": [
           {
-            "title": "请立即拣出压坏的草莓 ⚠️",
-            "desc": "哪怕只有一颗压坏流汁的草莓，也会迅速滋生霉菌，进而导致整盒草莓变质。"
+            "title": "发现破损或变软流汁的草莓请立即拣出单独处理 ⚠️",
+            "desc": "哪怕只有一颗压坏流汁的草莓混在其中，其释放的霉菌孢子也会在数小时内顺着接触面传染给整盒草莓。买回后请立即筛选，破损草莓请切除坏处后优先食用。"
           },
           {
-            "title": "存放在温度稳定的内侧搁板上 🍓",
-            "desc": "冰箱门旁的置物架温度波动大且伴随震动，容易加速草莓老化。应将其存放在温度稳定且震动较小的冷藏室深处。"
+            "title": "存放在冰箱主舱内侧深处隔板，而非门侧架 🍓",
+            "desc": "冰箱门侧架在开关时面临剧烈的温度起伏与震动撞击。对温度敏感且质地娇嫩的草莓，应存放在冰箱主舱内侧温度恒定（0~2℃）的深处隔板上。"
           }
         ],
         "steps": [
           {
-            "name": "请勿清洗并保留草莓蒂 — 隔绝水分渗入 🍓",
-            "text": "草莓在食用前不要清洗，保留叶子以防吸水变烂。"
+            "name": "切勿清洗且保留草莓蒂 — 阻断水分渗入与细胞破裂 🍓",
+            "text": "草莓用水冲洗并摘除草莓蒂，会在顶部留下微小创口。💡储存小贴士：水份会顺着创口通过渗透压快速渗入果肉，导致细胞膜破裂流汁，从而引发灰霉病。吃之前才可清洗并摘蒂。"
           },
           {
-            "name": "保鲜盒底垫纸巾并留隙摆放 — 防止挤压与积潮 📰",
-            "text": "在容器底部铺纸巾，将草莓间隔摆放以防挤压。"
+            "name": "盒底垫厨房纸巾并留缝单层摆放 — 防压与调节湿度 📰",
+            "text": "将草莓堆叠堆放，下层草莓会在自身重力作用下被压塌细胞壁。💡储存小贴士：在浅盒底部铺上2~3层厨房纸巾，将草莓蒂朝下或保持间距单层平铺。纸巾能吸收结露，防止变软。"
           },
           {
-            "name": "请勿密封，开口冷藏 —  防凝露冷藏 (5天) ❄️",
-            "text": "不要用密封盖，保持空气流通冷藏。"
+            "name": "请勿完全密封，保持通风冷藏 — 防凝露冷藏 (5~7天) ❄️",
+            "text": "将草莓紧密密封在保鲜盒中，果实呼吸产生的水汽会在盒内形成冷凝水滴，加速腐烂。💡储存小贴士：使用带透气孔的果盒，或将普通保鲜盒盖留出缝隙，存放在冰箱冷藏保鲜层（0~2℃）。"
           }
         ],
         "faqs": [
           {
-            "question": "把食材放进冰箱前一定要用水洗吗？",
-            "answer": "不需要。保存前水洗会锁住过多水分，促进霉菌和细菌滋生。用干布擦去污垢，吃之前再洗即可。"
+            "question": "草莓表面长出了白色绒毛状霉菌，把霉菌切掉还能吃吗？",
+            "answer": "绝对不能吃。草莓上产生的霉菌主要是“灰霉病菌（Botrytis cinerea）”，肉眼不可见的真菌菌丝已深层穿透进娇嫩软烂的草莓果肉深处。即使切掉表面的白毛，霉菌毒素也已扩散至整体。只要发现有草莓发霉，请毫不犹豫地扔掉。"
           },
           {
-            "question": "碰伤或腐烂的部分应该如何处理和保存？",
-            "answer": "受损部分会加速乙烯和水分流失，请立即切除并优先食用。如果与健康的食材混放，会导致整体快速腐烂。"
+            "question": "草莓可以冷冻长期保存吗？",
+            "answer": "完全可以。冷冻是长期保存草莓的极佳方式。将草莓摘蒂，用流动水快速冲洗后，用厨房纸巾彻底吸干水分。先将草莓单层平铺在托盘上进行冷冻，结冰后再装入冷冻拉链袋（-18℃以下），可保存长达6个月，非常适合制作果汁、奶昔或果酱。"
           }
         ]
       },
       "es": {
-        "title": "Cómo almacenar Fresa fresco: Guía científica de conservación",
-        "description": "Descubra la mejor temperatura, métodos y duración para conservar Fresa según las directrices oficiales de seguridad.",
-        "authority": "<strong>MFDS & USDA</strong>",
-        "intro": "¿Alguna vez compró fresas hermosas y descubrió que se ablandaron y enmohecieron en un par de días? Hoy, FreshSnap comparte consejos científicos para evitar el moho.",
-        "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
-        "whyDesc": "Comprender las características únicas de cada ingrediente y seguir el método de almacenamiento adecuado es fundamental para mantener la frescura y la higiene.",
+        "title": "Cómo mantener las fresas frescas: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y la duración de conservación óptimos para las fresas según las directrices oficiales de seguridad.",
+        "authority": "<strong>RDA & MFDS & USDA</strong>",
+        "intro": "¿Alguna vez compró una caja de fresas hermosas y dulces, solo para descubrir un par de días después que las del fondo estaban blandas, magulladas y cubiertas de moho blanco? 🍓\n\nLa fresa es una fruta de piel sumamente delgada y carne delicada, muy sensible a la absorción de agua y a los golpes. Lavarlas previamente, retirarles el cáliz (tallo verde) o sellarlas herméticamente crea las condiciones ideales para la propagación del moho gris (Botrytis).\n\nHoy, FreshSnap comparte una guía científica en 3 pasos basada en investigaciones del USDA y la RDA para evitar magulladuras, controlar la humedad y mantener sus fresas frescas por más de una semana. 🛡️",
+        "whyTitle": "¿Por qué almacenarlas así? Datos científicos",
+        "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
         "guideTitle": "Guía de almacenamiento científicamente probada",
-        "cautionTitle": "Reglas cruciales y precauciones",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
         "tags": [
           "Fresa",
           "Guía de almacenamiento científicamente probada",
@@ -220,48 +220,48 @@
         ],
         "cautions": [
           {
-            "title": "Retire las fresas golpeadas de inmediato ⚠️",
-            "desc": "Una sola fresa golpeada que gotee jugo crea el ambiente perfecto para que el moho se extienda por todo el empaque."
+            "title": "Separe de inmediato las fresas magulladas o dañadas ⚠️",
+            "desc": "Una sola fresa aplastada que derrame jugo libera esporas de moho que se contagian por contacto, pudriendo el paquete en horas. Inspeccione sus fresas al comprarlas y consuma las dañadas de inmediato."
           },
           {
-            "title": "Guarde en el estante interior con temperatura baja y estable 🍓",
-            "desc": "Los compartimentos de la puerta del refrigerador sufren grandes variaciones de temperatura y vibraciones. Coloque las fresas en la parte posterior del estante interior para conservarlas mejor."
+            "title": "Guarde en el estante interior profundo, no en la puerta del refrigerador 🍓",
+            "desc": "El estante de la puerta sufre variaciones térmicas drásticas y sacudidas cada vez que se abre. Guarde las delicadas fresas en la parte posterior del estante interior del refrigerador (0-2 °C) donde la temperatura sea estable."
           }
         ],
         "steps": [
           {
-            "name": "No lavar y mantener los tallos 🍓",
-            "text": "Lavar las fresas o quitarles el tallo daña la piel, haciendo que absorban agua y se pudran rápido."
+            "name": "No las lave y conserve los tallos verdes — Bloquee la absorción de agua 🍓",
+            "text": "Lavar las fresas o retirarles el tallo crea microheridas en la superficie. 💡 Consejo de almacenamiento: El agua entra rápidamente por estas heridas rompiendo las células y derramando jugo, lo que detona el moho gris. Manténgalas secas hasta justo antes de comer."
           },
           {
-            "name": "Forrar el recipiente y separar las fresas 📰",
-            "text": "Coloque papel absorbente en el fondo y acomode las fresas separadas para que no se aplasten."
+            "name": "Forre el fondo del recipiente con toallas de papel y acomode separadas — Amortiguación 📰",
+            "text": "Apilar fresas en varias capas aplasta las frutas del fondo por su propio peso. 💡 Consejo de almacenamiento: Coloque 2 o 3 capas de papel de cocina en el fondo de un recipiente amplio y acomode las fresas en una sola capa sin tocarse. El papel absorbe la humedad."
           },
           {
-            "name": "Almacenar sin sellar herméticamente ❄️",
-            "text": "Use un envase con ventilación o deje la bolsa un poco abierta para evitar que se formen gotas de agua."
+            "name": "Refrigere con ventilación sin sellar herméticamente — Refrigeración (5–7 días) ❄️",
+            "text": "Sellar las fresas bajo una tapa apretada atrapa la condensación de su respiración, acelerando la pudrición. 💡 Consejo de almacenamiento: Use un envase plástico con orificios de ventilación o deje la tapa ligeramente entreabierta en el cajón de verduras (0-2 °C)."
           }
         ],
         "faqs": [
           {
-            "question": "¿Se deben lavar los alimentos antes de refrigerarlos?",
-            "answer": "No, lavarlos antes de guardarlos atrapa humedad, lo que favorece hongos y bacterias. Limpie el polvo en seco y lávelos justo antes de consumirlos."
+            "question": "Si aparece moho blanco en una fresa, ¿puedo cortarlo y comer el resto?",
+            "answer": "No, absolutamente no. El moho de las fresas es 'Moho gris (Botrytis cinerea)', cuyas hifas invisibles penetran profundamente en la pulpa blanda de la fruta. Aunque corte la parte visible, las micotoxinas ya han contaminado toda la fresa. Deséchela inmediatamente."
           },
           {
-            "question": "¿Cómo tratar y almacenar partes golpeadas o dañadas?",
-            "answer": "Las partes dañadas aceleran el etileno y la pérdida de agua. Córtelas de inmediato y consúmalas primero. Dejarlas con el resto dañará todo el lote."
+            "question": "¿Puedo congelar fresas para conservarlas a largo plazo?",
+            "answer": "Sí, las fresas se congelan muy bien para batidos o mermeladas. Retire los tallos verdes, lávelas rápidamente con agua fría y séquelas por completo con toallas de papel. Congélelas primero separadas en una bandeja y luego páselas a una bolsa Ziploc para congelador (-18 °C). Duran hasta 6 meses."
           }
         ]
       },
       "fr": {
-        "title": "Comment conserver Fraise frais : Guide scientifique de conservation",
-        "description": "Découvrez la température, les méthodes et la durée optimales de conservation pour Fraise selon les directives de sécurité officielles.",
-        "authority": "<strong>MFDS & USDA</strong>",
-        "intro": "Avez-vous déjà acheté de belles fraises pour les voir ramollir et moisir en un jour ou deux ? Aujourd'hui, FreshSnap vous donne des astuces scientifiques pour éviter les moisissures.",
-        "whyTitle": "Pourquoi conserver ainsi ? Faits scientifiques",
-        "whyDesc": "Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédient et de suivre la bonne méthode de conservation pour préserver la fraîcheur et l’hygiène.",
+        "title": "Comment conserver les fraises fraîches : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les fraises selon les directives officielles de sécurité.",
+        "authority": "<strong>RDA & MFDS & USDA</strong>",
+        "intro": "Avez-vous déjà acheté une barquette de belles fraises sucrées pour retrouver celles du dessous molles, abîmées et couvertes de moisissure blanche un jour ou deux plus tard ? 🍓\n\nLa fraise est un fruit très fragile à la peau extrêmement fine, très sensible à l'absorption d'eau et aux pressions. La laver à l'avance, lui retirer la queue ou la fermer hermétiquement crée le milieu parfait pour le développement de la moisissure grise (Botrytis).\n\nAujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes basé sur les recherches du USDA et de la RDA pour éviter les meurtrissures, contrôler l'humidité et garder vos fraises fraîches et sucrées pendant plus d'une semaine. 🛡️",
+        "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
         "guideTitle": "Guide de conservation scientifiquement prouvé",
-        "cautionTitle": "Règles cruciales et précautions",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
         "tags": [
           "Fraise",
           "Guide de conservation scientifiquement prouvé",
@@ -269,48 +269,48 @@
         ],
         "cautions": [
           {
-            "title": "Retirez immédiatement les fraises abîmées ⚠️",
-            "desc": "Une seule fraise abîmée dont le jus s'écoule crée un environnement idéal pour que la moisissure envahisse tout le paquet."
+            "title": "Triez immédiatement les fraises abîmées ou écrasées ⚠️",
+            "desc": "Une seule fraise écrasée qui perd son jus libère des spores de moisissure qui contaminent les autres par contact en quelques heures. Inspectez vos fraises dès l'achat et consommez tout de suite les fruits abîmés."
           },
           {
-            "title": "Conservez sur une étagère intérieure à température stable 🍓",
-            "desc": "Les balconnets de porte du réfrigérateur subissent de grandes variations de température et des vibrations. Placez les fraises au fond d'une étagère intérieure où la température reste stable."
+            "title": "Conservez sur une étagère intérieure plutôt que dans la porte 🍓",
+            "desc": "Le balconnet de la porte subit de fortes variations de température et des secousses à chaque ouverture. Placez les fraises sur une étagère intérieure du réfrigérateur (0–2 °C) où la température reste stable."
           }
         ],
         "steps": [
           {
-            "name": "Ne pas laver et garder les queues 🍓",
-            "text": "Laver les fraises ou retirer la queue endommage la peau, favorisant l'absorption d'eau et le pourrissement."
+            "name": "Ne pas laver et garder les queues vertes — Bloquer l'absorption d'eau 🍓",
+            "text": "Laver les fraises ou retirer leurs queues crée des micro-blessures sur la peau. 💡 Astuce de conservation : L'eau s'infiltre par ces ouvertures, faisant éclater les cellules et s'écouler le jus, ce qui déclenche la moisissure grise. Gardez-les bien sèches jusqu'au moment de dégustation."
           },
           {
-            "name": "Tapisser le récipient et séparer les fraises 📰",
-            "text": "Mettez du papier absorbant au fond et disposez les fraises séparément pour éviter qu'elles ne s'écrasent."
+            "name": "Tapisser le récipient d'essuie-tout et espacer les fraises — Contrôle de l'humidité 📰",
+            "text": "Empiler les fraises écrase les fruits du dessous sous leur propre poids. 💡 Astuce de conservation : Tapissez le fond d'une boîte plate de 2 à 3 épaisseurs d'essuie-tout et disposez les fraises sur une seule couche sans qu'elles se touchent."
           },
           {
-            "name": "Stocker sans fermeture hermétique ❄️",
-            "text": "Utilisez une boîte aérée ou laissez le sac entrouvert pour empêcher la condensation de se former."
+            "name": "Conserver au frais sans fermer hermétiquement — Stockage Réfrigéré (5–7 jours) ❄️",
+            "text": "Fermer les fraises hermétiquement piège la condensation issue de leur respiration. 💡 Astuce de conservation : Utilisez une boîte perforée ou laissez le couvercle légèrement entrouvert dans le bac à légumes (0–2 °C)."
           }
         ],
         "faqs": [
           {
-            "question": "Faut-il laver les aliments avant de les mettre au réfrigérateur ?",
-            "answer": "Non, les laver favorise l'excès d'humidité, accélérant les moisissures. Essuyez la saleté à sec et lavez-les juste avant de les manger."
+            "question": "Si de la moisissure blanche apparaît sur une fraise, puis-je la couper et manger le reste ?",
+            "answer": "Non, absolument pas. La moisissure sur les fraises est généralement la 'Moisissure grise (Botrytis cinerea)', dont les filaments invisibles pénètrent profondément dans la chair tendre du fruit. Même en coupant la partie moisie visible, les toxines se sont déjà propagées. Jetez immédiatement toute fraise touchée."
           },
           {
-            "question": "Comment gérer et conserver les parties abîmées ?",
-            "answer": "Les zones endommagées libèrent de l'éthylène. Coupez-les immédiatement et consommez-les en priorité pour éviter de gâter le reste du lot."
+            "question": "Puis-je congeler les fraises pour une longue conservation ?",
+            "answer": "Oui, les fraises se congelent très bien pour faire des smoothies ou des confitures. Équeutez-les, rincez-les rapidement à l'eau froide et séchez-les soigneusement avec du papier absorbant. Congelez-les d'abord à plat sur un plateau avant de les transférer dans un sac Ziploc au congélateur (-18 °C) jusqu'à 6 mois."
           }
         ]
       },
       "de": {
-        "title": "Wie man Erdbeere frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber",
-        "description": "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Erdbeere basierend auf offiziellen Sicherheitsrichtlinien.",
-        "authority": "<strong>MFDS & USDA</strong>",
-        "intro": "Haben Sie schon einmal wunderschöne Erdbeeren gekauft, nur um festzustellen, dass sie nach ein bis zwei Tagen weich und schimmelig wurden? Heute teilt FreshSnap wissenschaftliche Tipps.",
+        "title": "Erdbeeren richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Erdbeeren basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "<strong>RDA & MFDS & USDA</strong>",
+        "intro": "Haben Sie schon einmal eine Schale süßer Erdbeeren gekauft, nur um nach ein bis zwei Tagen festzustellen, dass die unteren Früchte matschig, gedrückt und von weißem Schimmel überzogen waren? 🍓\n\nErdbeeren haben eine sehr dünne Schale und ein weiches Gewebe, was sie extrem anfällig für Wasseraufnahme und Druckstellen macht. Das Waschen vor der Lagerung, das Entfernen des grünen Stiels oder das luftdichte Verschließen schafft den idealen Nährboden für Grauschimmel (Botrytis).\n\nHeute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Richtlinien von USDA und RDA basiert, um Druckstellen zu vermeiden, Feuchtigkeit zu regulieren und Ihre Erdbeeren über eine Woche lang frisch und süß zu halten. 🛡️",
         "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-        "whyDesc": "Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtige Lagerungsmethode anzuwenden, ist entscheidend für Frische und Hygiene.",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
         "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-        "cautionTitle": "Wichtige Warnhinweise zur Lagerung",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
         "tags": [
           "Erdbeere",
           "Wissenschaftlich geprüfter Lagerungsratgeber",
@@ -318,48 +318,48 @@
         ],
         "cautions": [
           {
-            "title": "Beschädigte Erdbeeren sofort entfernen ⚠️",
-            "desc": "Eine einzige beschädigte Erdbeere, aus der Saft austritt, bietet den perfekten Nährboden für Schimmel auf der ganzen Packung."
+            "title": "Beschädigte oder matschige Erdbeeren sofort aussortieren ⚠️",
+            "desc": "Eine einzige gequetschte Erdbeere, aus der Saft austritt, setzt Schimmelsporen frei, die benachbarte Früchte innerhalb weniger Stunden anstecken. Prüfen Sie die Schale direkt nach dem Kauf und verbrauchen Sie beschädigte Beeren sofort."
           },
           {
-            "title": "Auf dem inneren Regal bei stabiler niedriger Temperatur lagern 🍓",
-            "desc": "Die Türfächer des Kühlschranks sind starken Temperaturschwankungen und Erschütterungen ausgesetzt. Lagern Sie Erdbeeren im hinteren Bereich des Innenraums, um Fäulnis zu verhindern."
+            "title": "Auf dem tiefen Innenregal statt in der Kühlschranktür lagern 🍓",
+            "desc": "Die Türfächer unterliegen bei jedem Öffnen großen Temperaturschwankungen und Erschütterungen. Lagern Sie empfindliche Beeren auf einem tiefen Innenregal des Kühlschranks (0–2 °C), wo die Temperatur konstant bleibt."
           }
         ],
         "steps": [
           {
-            "name": "Nicht waschen und Stiele behalten 🍓",
-            "text": "Das Waschen oder Entfernen der Stiele beschädigt die Haut, wodurch Wasser aufgenommen wird und sie verfaulen."
+            "name": "Ungewaschen und mit grünem Stiel aufbewahren — Wasseraufnahme verhindern 🍓",
+            "text": "Das Waschen von Erdbeeren oder das Entfernen des Stiels erzeugt mikroskopische Wunden. 💡 Lagerungstipp: Durch diese Schnittstellen dringt Wasser ein, zerstört die Zellwände und lässt Saft austreten, was Grauschimmel auslöst. Erst direkt vor dem Verzehr waschen."
           },
           {
-            "name": "Behälter auslegen und Erdbeeren trennen 📰",
-            "text": "Küchenpapier auf den Boden legen und Erdbeeren getrennt anordnen, um Druckstellen zu vermeiden."
+            "name": "Dosenboden mit Küchenpapier auslegen und Beeren getrennt anordnen — Feuchtigkeitskontrolle 📰",
+            "text": "Das Stapeln von Erdbeeren zerquetscht die unteren Beeren durch ihr Eigengewicht. 💡 Lagerungstipp: Legen Sie eine flache Dose mit 2–3 Lagen Küchenpapier aus und ordnen Sie die Beeren nebeneinander mit etwas Abstand in einer Schicht an."
           },
           {
-            "name": "Ohne luftdichten Verschluss lagern ❄️",
-            "text": "Verwenden Sie einen belüfteten Behälter, um die Bildung von Kondenswasser zu vermeiden."
+            "name": "Gekühlt und belüftet ohne luftdichten Verschluss lagern — Kühllagerung (5–7 Tage) ❄️",
+            "text": "Das feste Verschließen staut die Kondensfeuchtigkeit der Fruchtatmung und lässt die Beeren verfaulen. 💡 Lagerungstipp: Verwenden Sie belüftete Plastikschalen oder lassen Sie den Deckel der Dose im Gemüsefach (0–2 °C) leicht geöffnet."
           }
         ],
         "faqs": [
           {
-            "question": "Sollte man Lebensmittel vor dem Kühlen waschen?",
-            "answer": "Nein, Waschen vor der Lagerung speichert Feuchtigkeit und fördert Schimmel. Wischen Sie Schmutz trocken ab und waschen Sie erst vor dem Verzehr."
+            "question": "Kann man den weiß schimmeligen Teil einer Erdbeere abschneiden und den Rest essen?",
+            "answer": "Nein, auf keinen Fall. Bei Schimmel auf Erdbeeren handelt es sich meist um Grauschimmel (Botrytis cinerea), dessen unsichtbare Pilzfäden tief in das weiche Fruchtfleisch eindringen. Selbst wenn Sie den sichtbaren Schimmel abschneiden, haben sich Mykotoxine bereits in der gesamten Frucht verteilt. Werfen Sie schimmelige Erdbeeren sofort weg."
           },
           {
-            "question": "Wie lagert man beschädigte Stellen?",
-            "answer": "Beschädigte Stellen beschleunigen den Verderb. Schneiden Sie diese sofort ab und verbrauchen Sie sie zuerst, um andere Früchte zu schützen."
+            "question": "Kann man Erdbeeren zur Langzeitlagerung einfrieren?",
+            "answer": "Ja, Erdbeeren lassen sich hervorragend für Smoothies oder Marmelade einfrieren. Entfernen Sie den Stiel, waschen Sie die Früchte kurz mit kaltem Wasser und trocknen Sie sie gründlich mit Küchenpapier ab. Frieren Sie die Erdbeeren zuerst einzeln auf einem Brett vor und füllen Sie sie dann in Ziploc-Gefrierbeutel (-18 °C). Sie halten sich bis zu 6 Monate."
           }
         ]
       },
       "pt": {
-        "title": "Como armazenar Morango fresco: Guia científico de conservação",
-        "description": "Descubra la mejor temperatura, métodos y duración de armazenamento para Morango com base nas diretrizes oficiais de segurança.",
-        "authority": "<strong>MFDS & USDA</strong>",
-        "intro": "Você já comprou morangos lindos e viu que eles murcharam e mofaram em um ou dois dias? Hoje, o FreshSnap compartilha dicas científicas para evitar o mofo.",
+        "title": "Como conservar morangos frescos: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para morangos com base em diretrizes oficiais de segurança.",
+        "authority": "<strong>RDA & MFDS & USDA</strong>",
+        "intro": "Você já comprou uma caixa de morangos lindos e doces, apenas para descobrir um ou dois dias depois que os morangos do fundo estavam moles, amassados e cobertos de mofo branco? 🍓\n\nO morango é uma fruta de casca extremamente fina e polpa delicada, sendo muito sensível à absorção de água e à pressão. Lavá-los com antecedência, remover o pedúnculo (talo verde) ou selá-los hermeticamente cria o ambiente exato que o mofo cinzento (Botrytis) precisa para se proliferar.\n\nHoje, o FreshSnap apresenta um guia de conservação em 3 etapas baseado em pesquisas do USDA e da RDA para evitar amassados, controlar a umidade e manter seus morangos frescos e doces por mais de uma semana. 🛡️",
         "whyTitle": "Por que armazenar assim? Fatos científicos",
-        "whyDesc": "Comprender as características únicas de cada ingrediente e seguir o método de armazenamento adequado é extremamente importante para manter o frescor e a higiene.",
+        "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
         "guideTitle": "Guia de armazenamento comprovado cientificamente",
-        "cautionTitle": "Reglas cruciales e precauções",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
         "tags": [
           "Morango",
           "Guia de armazenamento comprovado cientificamente",
@@ -367,48 +367,48 @@
         ],
         "cautions": [
           {
-            "title": "Remova os morangos machucados imediatamente ⚠️",
-            "desc": "Um único morango machucado vazando suco cria o ambiente perfeito para o mofo tomar conta de toda a embalagem."
+            "title": "Separe imediatamente os morangos amassados ou danificados ⚠️",
+            "desc": "Um único morango amassado vazando suco libera esporos de mofo que se espalham por contato, estragando toda a caixa em poucas horas. Inspecione seus morangos ao comprar e consuma os danificados imediatamente."
           },
           {
-            "title": "Guarde na prateleira interna com temperatura baixa e estável 🍓",
-            "desc": "As prateleiras da porta da geladeira têm grande variação de temperatura e vibrações. Coloque os morangos no fundo da prateleira interna para evitar que estraguem rapidamente."
+            "title": "Guarde na prateleira interna profunda, não na porta da geladeira 🍓",
+            "desc": "A prateleira da porta sofre alterações térmicas severas e impactos a cada abertura. Guarde os delicados morangos no fundo de uma prateleira interna da geladeira (0–2 °C) onde a temperatura seja estável."
           }
         ],
         "steps": [
           {
-            "name": "Não lavar e manter os cabos 🍓",
-            "text": "Lavar os morangos ou remover o cabo danifica a pele, fazendo com que absorvam água e apodreçam rápido."
+            "name": "Não lave e mantenha os talos verdes — Bloqueie a absorção de água 🍓",
+            "text": "Lavar os morangos ou retirar seus talos cria microferidas na casca. 💡 Dica de conservação: A água entra por essas aberturas por pressão osmótica, rompendo as células e derramando suco, o que ativa o mofo cinzento. Mantenha-os secos até o momento de comer."
           },
           {
-            "name": "Forrar o pote e separar os morangos 📰",
-            "text": "Coloque papel-toalha no fundo e acomode os morangos separados para não amassarem."
+            "name": "Forre o fundo do recipiente com papel-toalha e separe os morangos — Amortecimento 📰",
+            "text": "Empilhar morangos em várias camadas esmaga as frutas do fundo sob o próprio peso. 💡 Dica de conservação: Forre o fundo de um pote largo com 2 a 3 camadas de papel-toalha e acomode os morangos em camada única sem se tocarem."
           },
           {
-            "name": "Guardar sem selar hermeticamente ❄️",
-            "text": "Use um pote com ventilação ou deixe o saco aberto para evitar a formação de gotas de água."
+            "name": "Refrigere com ventilação sem fechar hermeticamente — Refrigeração (5–7 dias) ❄️",
+            "text": "Fechar os morangos sob uma tampa hermética prende a condensação da respiração da fruta, acelerando o apodrecimento. 💡 Dica de conservação: Use um pote plástico perfurado ou deixe a tampa levemente aberta na gaveta de legumes (0-2 °C)."
           }
         ],
         "faqs": [
           {
-            "question": "Deve-se lavar os alimentos com água antes de refrigerar?",
-            "answer": "Não, lavar antes de guardar retém humidade, o que estimula fungos. Limpe a sujeira a seco e lave apenas antes de comer."
+            "question": "Se aparecer mofo branco em um morango, posso cortar a parte mofada e comer o restante?",
+            "answer": "Não, com certeza não. O mofo nos morangos é geralmente o 'Mofo cinzento (Botrytis cinerea)', cujas hifas invisíveis penetram profundamente na polpa macia da fruta. Mesmo cortando a parte mofada visível, as micotoxinas já se espalharam. Descarte qualquer morango mofado imediatamente."
           },
           {
-            "question": "Como tratar e guardar partes machucadas?",
-            "answer": "Partes danificadas aceleram a deterioração. Corte-as de imediato e consuma primeiro para evitar que estraguem o resto do lote."
+            "question": "Posso congelar morangos para conservação de longo prazo?",
+            "answer": "Sim, os morangos congelam muito bem para vitaminas ou geleias. Retire os talos verdes, lave rapidamente em água fria e seque completamente com papel-toalha. Congele primeiro separados em uma bandeja e depois passe para um saco Ziploc no freezer (-18 °C). Eles duram até 6 meses."
           }
         ]
       },
       "id": {
         "title": "Cara Menyimpan Stroberi agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk Stroberi berdasarkan pedoman keselamatan resmi.",
-        "authority": "<strong>MFDS & USDA</strong>",
-        "intro": "Pernahkah Anda membeli stroberi segar yang indah...",
-        "whyTitle": "Mengapa disimpan seperti ini? Fakta ilmiah",
-        "whyDesc": "Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpanan yang benar sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk stroberi berdasarkan pedoman keselamatan resmi.",
+        "authority": "<strong>RDA & MFDS & USDA</strong>",
+        "intro": "Pernahkah Anda membeli sekotak stroberi manis yang segar lalu mendapati buah bagian bawah menjadi lembek, memar, dan ditumbuhi jamur putih halus satu dua hari kemudian? 🍓\n\nStroberi adalah buah beri berkulit sangat tipis dan berdaging lembut yang sangat sensitif terhadap penyerapan air dan tekanan fisik. Mencucinya terlebih dahulu, membuang tangkainya, atau menyegelnya dalam wadah kedap udara menciptakan kondisi sempurna bagi kapang jamur abu-abu (Botrytis) untuk berkembang biak.\n\nHari ini, FreshSnap membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan penelitian USDA dan RDA untuk mencegah memar, mengontrol kelembapan, dan menjaga stroberi Anda tetap segar dan manis selama lebih dari seminggu. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
         "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-        "cautionTitle": "Aturan Penting dan Peringatan",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
         "tags": [
           "Stroberi",
           "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
@@ -416,36 +416,36 @@
         ],
         "cautions": [
           {
-            "title": "Segera buang stroberi yang memar ⚠️",
-            "desc": "Satu buah stroberi yang memar dan mengeluarkan cairan akan memicu pertumbuhan jamur..."
+            "title": "Segera pisahkan stroberi yang memar atau rusak ⚠️",
+            "desc": "Satu buah stroberi yang memar dan mengeluarkan cairan melepaskan spora jamur yang menyebar melalui kontak langsung, merusak seluruh wadah dalam hitungan jam. Periksa stroberi segera setelah dibeli dan langsung konsumsi yang memar."
           },
           {
-            "title": "Simpan di rak bagian dalam dengan suhu rendah...",
-            "desc": "Bagian pintu kulkas mengalami fluktuasi suhu..."
+            "title": "Simpan di rak bagian dalam, bukan di rak pintu kulkas 🍓",
+            "desc": "Rak pintu kulkas mengalami perubahan suhu yang ekstrem dan guncangan fisik setiap kali dibuka. Simpan buah beri yang rapuh di rak bagian dalam kulkas (0–2°C) yang suhunya stabil."
           }
         ],
         "steps": [
           {
-            "name": "Jangan dicuci dan pertahankan tangkai 🍓",
-            "text": "Mencuci stroberi atau membuang tangkainya akan merusak kulit, menyerap air, dan mempercepat pembusukan."
+            "name": "Jangan dicuci dan pertahankan tangkai hijaunya — Menghalangi Penyerapan Air 🍓",
+            "text": "Mencuci stroberi atau memotong tangkai hijaunya menciptakan luka mikroskopis pada kulitnya. 💡 Tips Penyimpanan: Air akan masuk ke dalam luka ini melalui tekanan osmotik, merusak dinding sel dan mengeluarkan cairan yang memicu jamur abu-abu. Biarkan tetap kering hingga tepat sebelum dimakan."
           },
           {
-            "name": "Alasi wadah dan pisahkan stroberi 📰",
-            "text": "Letakkan tisu dapur di bagian bawah dan tata stroberi secara terpisah agar tidak saling menekan."
+            "name": "Alasi bagian bawah wadah dengan tisu dapur dan beri jarak — Peredam & Kontrol Kelembapan 📰",
+            "text": "Menumpuk stroberi dalam beberapa lapisan akan meremukkan buah di bagian bawah akibat beratnya sendiri. 💡 Tips Penyimpanan: Alasi wadah lebar dengan 2–3 lapis tisu dapur, lalu tata stroberi dalam satu lapisan dengan memberi jarak antarbuah."
           },
           {
-            "name": "Simpan tanpa segel kedap udara ❄️",
-            "text": "Gunakan wadah berlubang atau biarkan kantong sedikit terbuka agar tidak terbentuk embun."
+            "name": "Simpan di kulkas dengan sirkulasi udara tanpa disegel rapat — Simpan Dingin (5–7 Hari) ❄️",
+            "text": "Menyegel stroberi dengan tutup rapat akan memerangkap kondensasi air hasil respirasi buah, mempercepat pembusukan. 💡 Tips Penyimpanan: Gunakan wadah plastik berlubang atau biarkan tutup wadah sedikit terbuka di laci sayuran (0–2°C)."
           }
         ],
         "faqs": [
           {
-            "question": "Haruskah mencuci bahan makanan sebelum dimasukkan ke kulkas?",
-            "answer": "Tidak, mencuci sebelum disimpan menjebak kelembapan berlebih dan memicu bakteri. Lap dengan kain kering dan cuci sebelum dimakan."
+            "question": "Jika timbul jamur putih halus pada stroberi, bisakah saya memotong bagian jamurnya dan memakan sisanya?",
+            "answer": "Sangat tidak boleh. Jamur pada stroberi umumnya adalah 'Jamur Abu-abu (Botrytis cinerea)', yang menyebarkan benang hifa mikroskopis jauh ke dalam daging buah yang lembut. Meskipun bagian jamur yang terlihat dipotong, mikotoksin telah menyebar ke seluruh buah. Segera buang stroberi yang berjamur."
           },
           {
-            "question": "Bagaimana cara menangani dan menyimpan bagian yang memar?",
-            "answer": "Bagian yang rusak mempercepat pembusukan. Potong segera dan konsumsi terlebih dahulu agar tidak merusak bahan makanan lainnya."
+            "question": "Bisakah saya membekukan stroberi di freezer untuk penyimpanan jangka panjang?",
+            "answer": "Ya, stroberi sangat cocok untuk dibekukan untuk smoothie atau selai. Buang tangkainya, bilas cepat dengan air dingin, lalu keringkan hingga tuntas dengan tisu dapur. Bekukan stroberi secara terpisah dalam satu lapisan di nampan terlebih dahulu sebelum dipindahkan ke kantong Ziploc freezer (-18°C). Stroberi beku bertahan hingga 6 bulan."
           }
         ]
       }

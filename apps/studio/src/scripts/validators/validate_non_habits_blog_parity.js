@@ -12,7 +12,7 @@ console.log('================================================================');
 console.log('📊 [반려동물/식재료 등 습관 외 블로그 다국어 무결성 전수 검증]');
 console.log('================================================================\n');
 
-const petFiles = fs.readdirSync(petsDir).filter(f => f.endsWith('.json') && f !== 'meta.json');
+const petFiles = fs.readdirSync(petsDir).filter(f => f.endsWith('.json') && !f.startsWith('_'));
 
 let totalFieldsChecked = 0;
 let missingFieldsCount = 0;

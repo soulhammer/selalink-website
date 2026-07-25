@@ -7,7 +7,7 @@ export const ALL_LOCALES = ['ko', 'en', 'zh', 'ja', 'es', 'fr', 'de', 'pt', 'id'
 export function buildHistoryMetaMap(masterDir, blogRootDir) {
   const historyMetaMap = {};
   try {
-    const jsonFiles = fs.readdirSync(masterDir).filter(f => f.endsWith('.json') && f !== 'meta.json');
+    const jsonFiles = fs.readdirSync(masterDir).filter(f => f.endsWith('.json') && !f.startsWith('_'));
     jsonFiles.forEach(file => {
       const slug = file.replace('.json', '');
       const diskKoPath = pathModule.join(blogRootDir, 'ko', `${slug}.md`);
@@ -36,7 +36,7 @@ export function buildHistoryMetaMap(masterDir, blogRootDir) {
 export function compileMasterJsonCollection({ masterDir, blogRootDir, blogTypeName, renderLocaleMarkdown }) {
   console.log(`🚀 [${blogTypeName} 파이프라인] 다국어 마크다운 빌드 가동...\n`);
   const historyMetaMap = buildHistoryMetaMap(masterDir, blogRootDir);
-  const files = fs.readdirSync(masterDir).filter(f => f.endsWith('.json') && f !== 'meta.json');
+  const files = fs.readdirSync(masterDir).filter(f => f.endsWith('.json') && !f.startsWith('_'));
 
   let totalGenerated = 0;
 
