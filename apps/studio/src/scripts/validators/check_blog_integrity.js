@@ -133,8 +133,8 @@ function checkIntegrity() {
         const filePath = path.join(petsDir, file);
         try {
           const fileData = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
-          const petMasterKeys = Object.keys(fileData);
-          petMasterKeys.forEach(key => {
+          const petMasterSlugKeys = Object.keys(fileData);
+          petMasterSlugKeys.forEach(key => {
             if (key !== slug) {
               logError(`[반려동물 키 정합성 오류] ${file}: JSON 파일 이름(슬러그: '${slug}')과 내부 데이터의 루트 매핑 키(키: '${key}')가 불일치하여 컴파일 매핑 누수가 발생할 우려가 있습니다.`);
             }

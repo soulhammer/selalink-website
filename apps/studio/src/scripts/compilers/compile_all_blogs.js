@@ -8,7 +8,7 @@ const __dirname = path.dirname(__filename);
 const scripts = [
   'compile_habit_blogs.js',
   'compile_pet_blogs.js',
-  'compile_storage_blogs.js'
+  'compile_ingredient_blogs.js'
 ];
 
 console.log('🚀 [컴파일 파이프라인] 블로그 사전 컴파일 작업을 병렬(Parallel)로 시작합니다...');

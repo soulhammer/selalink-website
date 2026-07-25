@@ -1,4 +1,4 @@
-export function initLightboxModal() {
+export function initBlogImageLightbox() {
   const trigger = document.getElementById('hero-image-trigger');
   const modal = document.getElementById('lightbox-modal');
   const closeBtn = document.getElementById('lightbox-close');
@@ -123,7 +123,7 @@ export function initBackToTopButton() {
 }
 
 document.addEventListener('DOMContentLoaded', () => {
-  initLightboxModal();
+  initBlogImageLightbox();
   initReadingProgressBar();
   initTocObserver();
   initBackToTopButton();

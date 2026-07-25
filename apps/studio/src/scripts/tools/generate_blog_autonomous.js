@@ -393,8 +393,8 @@ function startAutonomousWorkflow() {
       console.log(`🤖 [AI 파이프라인] 위인 습관 컴파일러 기동: node src/compile_habit_blogs.js`);
       execSync(`node src/compile_habit_blogs.js`, { cwd: path.join(__dirname, '..'), stdio: 'inherit' });
     } else if (typeArg === 'storage') {
-      console.log(`🤖 [AI 파이프라인] 보관법 컴파일러 기동: node src/compile_storage_blogs.js`);
-      execSync(`node src/compile_storage_blogs.js`, { cwd: path.join(__dirname, '..'), stdio: 'inherit' });
+      console.log(`🤖 [AI 파이프라인] 보관법 컴파일러 기동: node src/compile_ingredient_blogs.js`);
+      execSync(`node src/compile_ingredient_blogs.js`, { cwd: path.join(__dirname, '..'), stdio: 'inherit' });
     }
   } catch (err) {
     console.error(`❌ [ERR] 컴파일 중 오류 발생: ${err.message}`);

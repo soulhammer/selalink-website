@@ -9,7 +9,7 @@ const labelsPath = path.join(__dirname, '../data/blogs/compilerLabels.json');
 const labels = JSON.parse(fs.readFileSync(labelsPath, 'utf-8'));
 
 // 1. 식재료 보관 정보 전용 단계 카드 렌더러 (에메랄드 테마, dict.step 전달받음)
-export function renderIngredientsStepCard(stepLabel, stepIdx, name, text, imageHtml = '') {
+export function renderIngredientStepCard(stepLabel, stepIdx, name, text, imageHtml = '') {
   return `<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">${stepLabel} ${stepIdx}</span>
@@ -36,8 +36,8 @@ export function renderStepCard(lang, stepIdx, name, text, imageHtml = '') {
 }
 
 // 3. 위인 습관 정보 전용 근거 박스 (인디고 테마)
-export function renderEvidenceBox(lang, authority, domain) {
-  const domainKey = (domain === 'petself' || domain === 'pet') ? 'pet' : domain;
+export function renderEvidenceBox(lang, authority, appType) {
+  const domainKey = (appType === 'petself' || appType === 'pet') ? 'pet' : appType;
   const title = labels.evidenceTitle[domainKey]?.[lang] || labels.evidenceTitle[domainKey]?.['en'] || "";
   const pattern = labels.evidenceDescPattern[lang] || labels.evidenceDescPattern['en'] || "";
   const desc = pattern.replace('$1', authority);

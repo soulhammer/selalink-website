@@ -3,7 +3,7 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 
 import { cleanMarkdown } from '../../utils/compilerHelper.js';
-import { renderIngredientsStepCard, renderCautionBox, renderFaqSection } from '../../utils/blogTemplates.js';
+import { renderIngredientStepCard, renderCautionBox, renderFaqSection } from '../../utils/blogTemplates.js';
 import { compileMasterJsonCollection } from './compile_blog_base.js';
 
 const __filename = fileURLToPath(import.meta.url);
@@ -80,9 +80,9 @@ function renderLocaleMarkdown({ blogSlug, lang, data, histMeta }) {
 
   const stepLabelText = lang === 'ko' ? '단계' : 'STEP';
   const stepCardsHtml = [
-    renderIngredientsStepCard(stepLabelText, 1, step1Title, step1Text),
-    renderIngredientsStepCard(stepLabelText, 2, step2Title, step2Text),
-    renderIngredientsStepCard(stepLabelText, 3, step3Title, step3Text)
+    renderIngredientStepCard(stepLabelText, 1, step1Title, step1Text),
+    renderIngredientStepCard(stepLabelText, 2, step2Title, step2Text),
+    renderIngredientStepCard(stepLabelText, 3, step3Title, step3Text)
   ].join('\n\n');
 
   const cautionBoxHtml = renderCautionBox('border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10', '⚠️', cautionTitle, cautionText);

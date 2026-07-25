@@ -30,7 +30,7 @@ try {
   // @ts-ignore
   modules = import.meta.glob('./items/*.json', { eager: true });
 } catch (e) {
-  // Vite 환경이 아닌 순수 Node.js 스크립트 실행 환경 (예: compile_storage_blogs.js)을 위한 실시간 폴백
+  // Vite 환경이 아닌 순수 Node.js 스크립트 실행 환경 (예: compile_ingredient_blogs.js)을 위한 실시간 폴백
   const __filename = fileURLToPath(import.meta.url);
   const __dirname = path.dirname(__filename);
   const itemsDir = path.join(__dirname, 'items');

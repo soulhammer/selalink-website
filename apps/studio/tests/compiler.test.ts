@@ -37,8 +37,8 @@ describe('블로그 컴파일러 및 동기화 아키텍처 리팩토링 검증'
     expect(hasFilter).toBe(false);
   });
 
-  it('3. 보관법 컴파일러(compile_storage_blogs.js)에서 하드코딩된 blogToIngMap 객체가 완전히 제거되었는가', () => {
-    const filePath = findScriptPath('compile_storage_blogs.js');
+  it('3. 보관법 컴파일러(compile_ingredient_blogs.js)에서 하드코딩된 blogToIngMap 객체가 완전히 제거되었는가', () => {
+    const filePath = findScriptPath('compile_ingredient_blogs.js');
     const content = fs.readFileSync(filePath, 'utf-8');
     // 하드코딩된 blogToIngMap 맵 선언이 존재하는지 검증 (동적 검색 구조로 변경 시 해당 변수명이 없거나 리팩토링되어야 함)
     const hasHardcodedMap = content.includes("'how-to-store-apples': 'apple'") || content.includes("'how-to-store-watermelon': 'watermelon'");
@@ -78,15 +78,15 @@ describe('블로그 컴파일러 및 동기화 아키텍처 리팩토링 검증'
     expect(hasCoreEngine).toBe(true);
   });
 
-  it('8. compile_storage_blogs.js 또는 compile_blog_base.js에서 다국어 파이프라인 빌드가 올바르게 연결되었는가', () => {
-    const filePath = findScriptPath('compile_storage_blogs.js');
+  it('8. compile_ingredient_blogs.js 또는 compile_blog_base.js에서 다국어 파이프라인 빌드가 올바르게 연결되었는가', () => {
+    const filePath = findScriptPath('compile_ingredient_blogs.js');
     const content = fs.readFileSync(filePath, 'utf-8');
     const hasCoreEngine = content.includes("compileMasterJsonCollection");
     expect(hasCoreEngine).toBe(true);
   });
 
-  it('9. compile_storage_blogs.js의 renderLocaleMarkdown 함수가 바인딩되어 있는가', () => {
-    const filePath = findScriptPath('compile_storage_blogs.js');
+  it('9. compile_ingredient_blogs.js의 renderLocaleMarkdown 함수가 바인딩되어 있는가', () => {
+    const filePath = findScriptPath('compile_ingredient_blogs.js');
     const content = fs.readFileSync(filePath, 'utf-8');
     const hasRender = content.includes("renderLocaleMarkdown");
     expect(hasRender).toBe(true);
@@ -101,7 +101,7 @@ describe('블로그 컴파일러 및 동기화 아키텍처 리팩토링 검증'
 
   it('11. 3대 컴파일러 전체에서 steps 및 faqs 텍스트의 줄바꿈 이스케이프 해제(\\n -> \n) 처리가 완료되었는가', () => {
     const habitPath = findScriptPath('compile_habit_blogs.js');
-    const storagePath = findScriptPath('compile_storage_blogs.js');
+    const storagePath = findScriptPath('compile_ingredient_blogs.js');
     const petPath = findScriptPath('compile_pet_blogs.js');
 
     const habitContent = fs.readFileSync(habitPath, 'utf-8');
@@ -116,8 +116,8 @@ describe('블로그 컴파일러 및 동기화 아키텍처 리팩토링 검증'
     expect(habitCheck && storageCheck && petCheck).toBe(true);
   });
 
-  it('12. compile_storage_blogs.js에서 safeClean 함수가 안전하게 선언되었는가', () => {
-    const filePath = findScriptPath('compile_storage_blogs.js');
+  it('12. compile_ingredient_blogs.js에서 safeClean 함수가 안전하게 선언되었는가', () => {
+    const filePath = findScriptPath('compile_ingredient_blogs.js');
     const content = fs.readFileSync(filePath, 'utf-8');
     const hasSafeClean = content.includes('safeClean');
     expect(hasSafeClean).toBe(true);
@@ -137,7 +137,7 @@ describe('블로그 컴파일러 및 동기화 아키텍처 리팩토링 검증'
     expect(hasDynamicTheme).toBe(true);
   });
 
-  it('15. compilerHelper.js에서 parseKoSteps 결과 단계 수가 0개일 때 throw Error로 빌드를 정지시키는 안전 장치가 있는가', () => {
+  it('15. compilerHelper.js에서 parseMarkdownSteps 결과 단계 수가 0개일 때 throw Error로 빌드를 정지시키는 안전 장치가 있는가', () => {
     const filePath = path.join(projectRoot, 'src/utils/compilerHelper.js');
     const content = fs.readFileSync(filePath, 'utf-8');
     const hasGuard = content.includes('throw') && content.includes('0');
