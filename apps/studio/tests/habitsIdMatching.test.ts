@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { habits } from '../src/data/habits';
+import { habits } from '../src/data/apps/buildsnap';
 import habitsTranslations from '../src/i18n/habitsTranslations.json';
 
 describe('habits.ts 및 habitsTranslations.json 9개 다국어 지원 100% 치환 TDD 검증', () => {

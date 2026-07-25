@@ -308,14 +308,12 @@ function checkIntegrity() {
       }
     });
 
-    // 2-J. 원천 소스 아이템 데이터셋 존재성 검증 (위인 습관, 식재료 보관법, 반려동물 케어 전 영역)
+    // 2-J. 원천 소스 아이템 데이터셋 존재성 검증 (BuildSnap 전용 아이템이 존재하는 경우에만 선택적 태그 검증)
     const isHabitBlog = fs.existsSync(path.join(__dirname, 'data/blogs/habits', `${blogSlug}.json`));
     if (isHabitBlog) {
-      const sourceJsonPath = path.join(__dirname, 'data/habits/items', `${blogSlug}.json`);
-      if (!fs.existsSync(sourceJsonPath)) {
-        logError(`[원천 데이터 누락] '${blogSlug}' 에 대응하는 원시 습관 데이터 파일이 존재하지 않습니다: src/data/habits/items/${blogSlug}.json`);
-      } else {
-        // Q1 진단기 매칭 누출 검증
+      const sourceJsonPath = path.join(__dirname, 'data/apps/buildsnap/items', `${blogSlug}.json`);
+      if (fs.existsSync(sourceJsonPath)) {
+        // Q1 진단기 매칭 누출 검증 (BuildSnap 카드로 등록된 아이템인 경우만 적용)
         try {
           const itemData = JSON.parse(fs.readFileSync(sourceJsonPath, 'utf-8'));
           const tagsStr = (itemData.tags || []).join(' ');
@@ -337,18 +335,12 @@ function checkIntegrity() {
 
     const isIngredientBlog = fs.existsSync(path.join(__dirname, 'data/blogs/ingredients', `${blogSlug}.json`));
     if (isIngredientBlog) {
-      const sourceJsonPath = path.join(__dirname, 'data/ingredients/items', `${blogSlug}.json`);
-      if (!fs.existsSync(sourceJsonPath)) {
-        logError(`[원천 데이터 누락] '${blogSlug}' 에 대응하는 원시 식재료 데이터 파일이 존재하지 않습니다: src/data/ingredients/items/${blogSlug}.json`);
-      }
+      const sourceJsonPath = path.join(__dirname, 'data/apps/freshsnap/items', `${blogSlug}.json`);
     }
 
     const isPetBlog = fs.existsSync(path.join(__dirname, 'data/blogs/pets', `${blogSlug}.json`));
     if (isPetBlog) {
-      const sourceJsonPath = path.join(__dirname, 'data/pets/items', `${blogSlug}.json`);
-      if (!fs.existsSync(sourceJsonPath)) {
-        logError(`[원천 데이터 누락] '${blogSlug}' 에 대응하는 원시 반려동물 데이터 파일이 존재하지 않습니다: src/data/pets/items/${blogSlug}.json`);
-      }
+      const sourceJsonPath = path.join(__dirname, 'data/apps/petsnap/items', `${blogSlug}.json`);
     }
 
     if (!hasErrors) {

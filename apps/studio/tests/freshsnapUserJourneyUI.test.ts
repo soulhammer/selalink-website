@@ -1,7 +1,7 @@
 import { describe, it, expect, beforeEach } from 'vitest';
 // @ts-ignore
 import { JSDOM } from 'jsdom';
-import { ingredients } from '../src/data/ingredients';
+import { ingredients } from '../src/data/apps/freshsnap';
 
 describe('FreshSnap 사용자 풀 라이프사이클 UI E2E 통합 테스트', () => {
   let dom: JSDOM;

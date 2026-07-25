@@ -83,7 +83,7 @@ function generateScaffoldingTemplates(slug, type) {
   let itemsPath, blogsPath, koPath;
 
   if (type === 'habit') {
-    itemsPath = path.join(__dirname, 'data/habits/items', `${slug}.json`);
+    itemsPath = path.join(__dirname, 'data/apps/buildsnap/items', `${slug}.json`);
     blogsPath = path.join(__dirname, 'data/blogs/habits', `${slug}.json`);
     koPath = path.join(__dirname, 'content/blog/ko', `${slug}.md`);
 
@@ -114,7 +114,7 @@ function generateScaffoldingTemplates(slug, type) {
         sources: ["출처 문헌 1", "출처 문헌 2"]
       };
       fs.writeFileSync(itemsPath, JSON.stringify(itemsTemplate, null, 2), 'utf-8');
-      console.log(`📁 [템플릿 생성] 원천 데이터 소스 뼈대가 적재되었습니다: src/data/habits/items/${slug}.json`);
+      console.log(`📁 [템플릿 생성] 원천 데이터 소스 뼈대가 적재되었습니다: src/data/apps/buildsnap/items/${slug}.json`);
     }
 
     if (!fs.existsSync(blogsPath)) {
@@ -184,7 +184,7 @@ faqs:
     }
 
   } else if (type === 'storage') {
-    itemsPath = path.join(__dirname, 'data/ingredients/items', `${slug}.json`);
+    itemsPath = path.join(__dirname, 'data/apps/freshsnap/items', `${slug}.json`);
     blogsPath = path.join(__dirname, 'data/blogs/ingredients', `${slug}.json`);
     koPath = path.join(__dirname, 'content/blog/ko', `${slug}.md`);
 
@@ -207,7 +207,7 @@ faqs:
         }
       };
       fs.writeFileSync(itemsPath, JSON.stringify(itemsTemplate, null, 2), 'utf-8');
-      console.log(`📁 [템플릿 생성] 식재료 원천 데이터 소스 뼈대가 적재되었습니다: src/data/ingredients/items/${slug}.json`);
+      console.log(`📁 [템플릿 생성] 식재료 원천 데이터 소스 뼈대가 적재되었습니다: src/data/apps/freshsnap/items/${slug}.json`);
     }
 
     if (!fs.existsSync(blogsPath)) {
@@ -249,7 +249,7 @@ updatedDate: "${todayStr}"
     }
 
   } else if (type === 'pet') {
-    itemsPath = path.join(__dirname, 'data/pets/items', `${slug}.json`);
+    itemsPath = path.join(__dirname, 'data/apps/careself/items', `${slug}.json`);
     blogsPath = path.join(__dirname, 'data/blogs/pets', `${slug}.json`);
     koPath = path.join(__dirname, 'content/blog/ko', `${slug}.md`);
 
@@ -264,31 +264,19 @@ updatedDate: "${todayStr}"
         species: "dog",
         breed: "품종명 (Breed)",
         lifespan: "10 ~ 12년",
-        sleepPattern: "수면 패턴 상세 서술",
-        likes: [
-          "좋아하는 것 1",
-          "좋아하는 것 2"
-        ],
-        dislikes: [
-          "싫어하는 것 1",
-          "싫어하는 것 2"
-        ],
-        bodyLanguage: [
-          {
-            signal: "바디 랭귀지 신호 1",
-            meaning: "바디 랭귀지 의미 1"
-          }
-        ],
-        dailyRoutine: {
-          step1: "아침 케어",
-          step2: "오후 활동",
-          step3: "저녁 정리"
-        },
-        heroImage: `/images/blog/${slug.replace(/-/g, '_')}.png`,
-        sources: ["American Kennel Club (AKC)"]
+        breed: "",
+        lifespan: "",
+        sleepPattern: "",
+        likes: [],
+        dislikes: [],
+        bodyLanguage: [],
+        dailyRoutine: { step1: "", step2: "", step3: "" },
+        heroImage: `/assets/images/blogs/pets/${slug}.png`,
+        sources: []
       };
-      fs.writeFileSync(itemsPath, JSON.stringify(itemsTemplate, null, 2), 'utf-8');
-      console.log(`📁 [템플릿 생성] 반려동물 원천 데이터 소스 뼈대가 적재되었습니다: src/data/pets/items/${slug}.json`);
+      fs.mkdirSync(path.dirname(itemsPath), { recursive: true });
+      fs.writeFileSync(itemsPath, JSON.stringify(templateData, null, 2), 'utf-8');
+      console.log(`📁 [템플릿 생성] 반려동물 원천 데이터 소스 뼈대가 적재되었습니다: src/data/apps/petsnap/items/${slug}.json`);
     }
 
     // 3-B. blogs/pets/[slug].json 뼈대 생성

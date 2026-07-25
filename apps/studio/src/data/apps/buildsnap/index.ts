@@ -2,29 +2,26 @@ import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 
-export interface PetBodyLanguage {
-  signal: string;
-  meaning: string;
-}
-
-export interface PetDailyRoutine {
-  step1: string;
-  step2: string;
-  step3: string;
-}
-
-export interface Pet {
+export interface Habit {
   id: string;
-  title: string;
-  species: string;
-  breed: string;
+  name: string;
+  gender: string;
+  era: string;
+  location: string;
   lifespan: string;
-  sleepPattern: string;
-  likes: string[];
-  dislikes: string[];
-  bodyLanguage: PetBodyLanguage[];
-  dailyRoutine: PetDailyRoutine;
-  heroImage: string;
+  birthYear: number;
+  bio: string;
+  habitName: string;
+  tags: string[];
+  timeOfDay: string;
+  requiredItems: string[];
+  frequency: string;
+  historicalStory: string;
+  sciencePrinciples: string;
+  quote: string;
+  trigger: string;
+  modernGuide: string[];
+  actionName: string;
   sources: string[];
 }
 
@@ -33,9 +30,9 @@ let modules: Record<string, any> = {};
 let globModules: any = {};
 try {
   // @ts-ignore
-  globModules = import.meta.glob('./pets/items/*.json', { eager: true });
+  globModules = import.meta.glob('./items/*.json', { eager: true });
 } catch (e) {
-  // Fallback for non-Vite environments
+  // Fallback for non-Vite environments (e.g. running scripts via pure Node.js CLI)
 }
 
 if (Object.keys(globModules).length > 0) {
@@ -43,7 +40,7 @@ if (Object.keys(globModules).length > 0) {
 } else {
   const __filename = fileURLToPath(import.meta.url);
   const __dirname = path.dirname(__filename);
-  const itemsDir = path.join(__dirname, 'pets/items');
+  const itemsDir = path.join(__dirname, 'items');
   if (fs.existsSync(itemsDir)) {
     const files = fs.readdirSync(itemsDir).filter(f => f.endsWith('.json'));
     files.forEach(file => {
@@ -54,6 +51,6 @@ if (Object.keys(globModules).length > 0) {
   }
 }
 
-export const pets: Pet[] = Object.values(modules)
-  .map((mod: any) => mod.default as Pet)
+export const habits: Habit[] = Object.values(modules)
+  .map((mod: any) => mod.default as Habit)
   .sort((a, b) => a.id.localeCompare(b.id));

@@ -1,4 +1,4 @@
-import type { Habit } from '../data/habits';
+import type { Habit } from '../data/apps/buildsnap';
 
 export function matchHabit(
   habits: Habit[],

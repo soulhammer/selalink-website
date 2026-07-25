@@ -3,14 +3,14 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 
 // 데이터 임포트
-import { condimentIngredients } from './data/ingredients/condiment.ts';
-import { dairyIngredients } from './data/ingredients/dairy.ts';
-import { etcIngredients } from './data/ingredients/etc.ts';
-import { fruitIngredients } from './data/ingredients/fruit.ts';
-import { grainIngredients } from './data/ingredients/grain.ts';
-import { meatIngredients } from './data/ingredients/meat.ts';
-import { seafoodIngredients } from './data/ingredients/seafood.ts';
-import { vegetableIngredients } from './data/ingredients/vegetable.ts';
+import { condimentIngredients } from './data/apps/freshsnap/condiment.ts';
+import { dairyIngredients } from './data/apps/freshsnap/dairy.ts';
+import { etcIngredients } from './data/apps/freshsnap/etc.ts';
+import { fruitIngredients } from './data/apps/freshsnap/fruit.ts';
+import { grainIngredients } from './data/apps/freshsnap/grain.ts';
+import { meatIngredients } from './data/apps/freshsnap/meat.ts';
+import { seafoodIngredients } from './data/apps/freshsnap/seafood.ts';
+import { vegetableIngredients } from './data/apps/freshsnap/vegetable.ts';
 
 // 헬퍼 및 템플릿 임포트
 import { parseKoSteps, cleanMarkdown, ensureDir } from './utils/compilerHelper.js';

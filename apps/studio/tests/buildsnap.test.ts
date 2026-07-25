@@ -1,6 +1,6 @@
 import { describe, it, expect } from 'vitest';
 import { matchHabit } from '../src/utils/buildsnapMatcher';
-import type { Habit } from '../src/data/habits';
+import type { Habit } from '../src/data/apps/buildsnap';
 
 const mockHabits: Habit[] = [
   {
@@ -69,7 +69,7 @@ describe('BuildSnap 매칭 및 폴백 핵심 비즈니스 로직 테스트', () 
   });
 });
 
-import { habits as realHabits } from '../src/data/habits';
+import { habits as realHabits } from '../src/data/apps/buildsnap';
 
 describe('BuildSnap 실제 위인 데이터 매칭 정합성 검증', () => {
   it('실제 등록된 모든 위인이 최소 1개 이상의 진단 조합 결과에 노출되어야 한다 (누수 0명)', () => {

@@ -4,7 +4,7 @@ import { fileURLToPath } from 'url';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-const itemsDir = path.join(__dirname, 'data/habits/items');
+const itemsDir = path.join(__dirname, 'data/apps/buildsnap/items');
 
 // 1. 모든 위인 습관 JSON 로드
 function loadHabits() {

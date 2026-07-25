@@ -5,14 +5,14 @@ import { getCollection } from 'astro:content';
 import { useTranslations, languages } from '../../../i18n/ui';
 
 // 식재료 데이터 임포트
-import { condimentIngredients } from '../../../data/ingredients/condiment';
-import { dairyIngredients } from '../../../data/ingredients/dairy';
-import { etcIngredients } from '../../../data/ingredients/etc';
-import { fruitIngredients } from '../../../data/ingredients/fruit';
-import { grainIngredients } from '../../../data/ingredients/grain';
-import { meatIngredients } from '../../../data/ingredients/meat';
-import { seafoodIngredients } from '../../../data/ingredients/seafood';
-import { vegetableIngredients } from '../../../data/ingredients/vegetable';
+import { condimentIngredients } from '../../../data/apps/freshsnap/condiment';
+import { dairyIngredients } from '../../../data/apps/freshsnap/dairy';
+import { etcIngredients } from '../../../data/apps/freshsnap/etc';
+import { fruitIngredients } from '../../../data/apps/freshsnap/fruit';
+import { grainIngredients } from '../../../data/apps/freshsnap/grain';
+import { meatIngredients } from '../../../data/apps/freshsnap/meat';
+import { seafoodIngredients } from '../../../data/apps/freshsnap/seafood';
+import { vegetableIngredients } from '../../../data/apps/freshsnap/vegetable';
 
 const allIngredients = [
   ...condimentIngredients,
