@@ -8,13 +8,16 @@ import path from 'path';
 describe('블로그 상세 페이지 UI 구조 및 TDD 정합성 검증', () => {
 
   const slugAstroPath = path.resolve(__dirname, '../src/pages/[lang]/blog/[slug].astro');
+  const blogTocAsidePath = path.resolve(__dirname, '../src/components/blog/BlogTocAside.astro');
   const blogDetailTsPath = path.resolve(__dirname, '../src/utils/blogDetail.ts');
 
   let slugContent = '';
   let blogDetailTsContent = '';
 
   beforeEach(() => {
-    slugContent = fs.readFileSync(slugAstroPath, 'utf-8');
+    const slugFile = fs.readFileSync(slugAstroPath, 'utf-8');
+    const blogTocFile = fs.readFileSync(blogTocAsidePath, 'utf-8');
+    slugContent = slugFile + blogTocFile;
     blogDetailTsContent = fs.readFileSync(blogDetailTsPath, 'utf-8');
   });
 

@@ -1,8 +1,9 @@
 import fs from 'fs';
 import pathModule from 'path';
 import { fileURLToPath } from 'url';
-import { cleanMarkdown, ensureDir } from '../../utils/compilerHelper.js';
-import { renderEvidenceBox, renderFaqSection, renderStepCard } from '../../utils/blogTemplates.js';
+import { cleanMarkdown } from '../../utils/compilerHelper.js';
+import { renderEvidenceBox, renderFaqSection } from '../../utils/blogTemplates.js';
+import { compileMasterJsonCollection } from './compile_blog_base.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = pathModule.dirname(__filename);
@@ -10,128 +11,62 @@ const __dirname = pathModule.dirname(__filename);
 const habitsDir = pathModule.join(__dirname, '../../data/blogs/habits');
 const blogRootDir = pathModule.join(__dirname, '../../content/blog');
 
-const locales = ['ko', 'en', 'zh', 'ja', 'es', 'fr', 'de', 'pt', 'id'];
+function renderLocaleMarkdown({ blogSlug, lang, data, histMeta }) {
+  const pubDate = data.pubDate || histMeta.pubDate || "2026-06-19";
+  const updatedDate = data.updatedDate || histMeta.updatedDate || pubDate;
 
-// 역사적 메타데이터 보존 맵 구축
-const historyMetaMap = {};
-try {
-  const jsonFiles = fs.readdirSync(habitsDir).filter(f => f.endsWith('.json'));
-  jsonFiles.forEach(file => {
-    const slug = file.replace('.json', '');
-    const diskKoPath = pathModule.join(blogRootDir, 'ko', `${slug}.md`);
+  const relWebpPath = `/images/blog/${blogSlug.replace(/-/g, '_')}.webp`;
+  const relPngPath = `/images/blog/${blogSlug.replace(/-/g, '_')}.png`;
+  const absWebpPath = pathModule.join(__dirname, '../../../public', relWebpPath);
+  
+  let heroImage = data.heroImage || histMeta.heroImage;
+  if (!heroImage) {
+    heroImage = fs.existsSync(absWebpPath) ? relWebpPath : relPngPath;
+  }
 
-    if (fs.existsSync(diskKoPath)) {
-      const content = fs.readFileSync(diskKoPath, 'utf-8');
-      const pubMatch = content.match(/pubDate:\s*"([^"]+)"/);
-      const upMatch = content.match(/updatedDate:\s*"([^"]+)"/);
-      const heroMatch = content.match(/heroImage:\s*"([^"]+)"/);
-      const tagsMatch = content.match(/tags:\s*(\[[\s\S]*?\])/);
+  const defaultKoTags = histMeta.tags || JSON.stringify(data.tags?.['ko'] || ["위습관", "루틴"]);
+  const locData = data.locales?.[lang] || data.locales?.['en'] || data.locales?.['ko'];
 
-      historyMetaMap[slug] = {
-        pubDate: pubMatch ? pubMatch[1] : null,
-        updatedDate: upMatch ? upMatch[1] : null,
-        heroImage: heroMatch ? heroMatch[1] : null,
-        tags: tagsMatch ? tagsMatch[1] : null
-      };
-    }
-  });
-} catch (e) {
-  console.warn('⚠️ [경고] 역사적 메타데이터 맵 구축 중 스킵:', e.message);
-}
+  const safeClean = (txt) => typeof txt === 'string' ? cleanMarkdown(txt) : (txt ? cleanMarkdown(String(txt)) : '');
 
-function compileBlogs() {
-  console.log('🚀 [BuildSelf 습관 블로그 단방향 파이프라인] 다국어 마크다운 빌드 가동...\n');
-  const files = fs.readdirSync(habitsDir).filter(f => f.endsWith('.json'));
+  let title = locData?.title || data.title?.[lang] || data.title?.['en'] || data.title?.['ko'] || "";
+  let description = locData?.description || data.description?.[lang] || data.description?.['en'] || data.description?.['ko'] || "";
+  let authority = locData?.authority || data.authority?.[lang] || data.authority?.['en'] || data.authority?.['ko'] || "";
+  let intro = safeClean(locData?.intro || data.intro?.[lang] || data.intro?.[en] || data.intro?.[ko] || "").replace(/\\n/g, '\n');
+  let whyTitle = locData?.whyTitle || data.whyTitle?.[lang] || data.whyTitle?.['en'] || data.whyTitle?.['ko'] || "";
+  let whyDesc = safeClean(locData?.whyDesc || data.whyDesc?.[lang] || data.whyDesc?.[en] || data.whyDesc?.[ko] || "").replace(/\\n/g, '\n');
+  let cautionTitle = locData?.cautionTitle || data.cautionTitle?.[lang] || data.cautionTitle?.['en'] || data.cautionTitle?.['ko'] || "";
+  let cautionDesc = safeClean(locData?.cautionDesc || data.cautionDesc?.[lang] || data.cautionDesc?.[en] || data.cautionDesc?.[ko] || "").replace(/\\n/g, '\n');
 
-  let totalGenerated = 0;
+  let tags;
+  if (locData?.tags) {
+    tags = JSON.stringify(locData.tags);
+  } else if (data.tags?.[lang]) {
+    tags = JSON.stringify(data.tags[lang]);
+  } else if (lang === 'ko') {
+    tags = defaultKoTags;
+  } else {
+    tags = '[]';
+  }
 
-  files.forEach(file => {
-    const filePath = pathModule.join(habitsDir, file);
-    let rawText = fs.readFileSync(filePath, 'utf-8').trim();
-    if (rawText.startsWith('ewog')) {
-      rawText = Buffer.from(rawText, 'base64').toString('utf-8');
-    }
-    const rawData = JSON.parse(rawText);
-    const blogSlug = file.replace('.json', '');
-    const data = rawData[blogSlug] || rawData[Object.keys(rawData)[0]];
+  const steps = [];
+  const stepCards = [];
 
-    if (!data) return;
+  const stepLabels = {
+    ko: 'STEP', en: 'STEP', zh: '步骤', ja: 'ステップ', es: 'PASO', fr: 'ÉTAPE', de: 'SCHRITT', pt: 'PASSO', id: 'LANGKAH'
+  };
+  const stepLabel = stepLabels[lang] || stepLabels['en'];
 
-    const histMeta = historyMetaMap[blogSlug] || {};
-    const pubDate = data.pubDate || histMeta.pubDate || "2026-06-19";
-    const updatedDate = data.updatedDate || histMeta.updatedDate || pubDate;
+  const rawSteps = locData?.steps || data.steps;
+  if (rawSteps && Array.isArray(rawSteps)) {
+    rawSteps.forEach((step, idx) => {
+      const stepName = step.title || step.name?.[lang] || step.name?.['en'] || step.name?.['ko'] || step.name || '';
+      const rawTextVal = step.desc || step.text?.[lang] || step.text?.['en'] || step.text?.['ko'] || step.text || '';
+      const stepText = safeClean(rawTextVal).replace(/\\n/g, '\n');
 
-    const relWebpPath = `/images/blog/${blogSlug.replace(/-/g, '_')}.webp`;
-    const relPngPath = `/images/blog/${blogSlug.replace(/-/g, '_')}.png`;
-    const absWebpPath = pathModule.join(__dirname, '../../../public', relWebpPath);
-    
-    let heroImage = data.heroImage || histMeta.heroImage;
-    if (!heroImage) {
-      heroImage = fs.existsSync(absWebpPath) ? relWebpPath : relPngPath;
-    }
+      steps.push({ name: stepName, text: stepText });
 
-    const defaultKoTags = histMeta.tags || JSON.stringify(data.tags?.['ko'] || ["위습관", "루틴"]);
-    const isStrict = process.argv.includes('--strict') || process.env.CI === 'true';
-
-    locales.forEach(lang => {
-      const targetDir = pathModule.join(blogRootDir, lang);
-      ensureDir(targetDir);
-
-      const locData = data.locales?.[lang] || data.locales?.['en'] || data.locales?.['ko'];
-
-      const safeClean = (txt) => typeof txt === 'string' ? cleanMarkdown(txt) : (txt ? cleanMarkdown(String(txt)) : '');
-
-      let title = locData?.title || data.title?.[lang] || data.title?.['en'] || data.title?.['ko'] || "";
-      let description = locData?.description || data.description?.[lang] || data.description?.['en'] || data.description?.['ko'] || "";
-      let authority = locData?.authority || data.authority?.[lang] || data.authority?.['en'] || data.authority?.['ko'] || "";
-      let intro = safeClean(locData?.intro || data.intro?.[lang] || data.intro?.[en] || data.intro?.[ko] || "").replace(/\\n/g, '\n');
-      let whyTitle = locData?.whyTitle || data.whyTitle?.[lang] || data.whyTitle?.['en'] || data.whyTitle?.['ko'] || "";
-      let whyDesc = safeClean(locData?.whyDesc || data.whyDesc?.[lang] || data.whyDesc?.[en] || data.whyDesc?.[ko] || "").replace(/\\n/g, '\n');
-      let cautionTitle = locData?.cautionTitle || data.cautionTitle?.[lang] || data.cautionTitle?.['en'] || data.cautionTitle?.['ko'] || "";
-      let cautionDesc = safeClean(locData?.cautionDesc || data.cautionDesc?.[lang] || data.cautionDesc?.[en] || data.cautionDesc?.[ko] || "").replace(/\\n/g, '\n');
-
-      if (isStrict && (!title || !description || !intro)) {
-        throw new Error(`🚨 [STRICT ERR] ${file}: 타겟 언어 [${lang.toUpperCase()}]의 필수 다국어 데이터가 누락되었습니다.`);
-      }
-
-      let tags;
-      if (locData?.tags) {
-        tags = JSON.stringify(locData.tags);
-      } else if (data.tags?.[lang]) {
-        tags = JSON.stringify(data.tags[lang]);
-      } else if (lang === 'ko') {
-        tags = defaultKoTags;
-      } else {
-        tags = '[]';
-      }
-
-      const steps = [];
-      const stepCards = [];
-
-      const stepLabels = {
-        ko: 'STEP',
-        en: 'STEP',
-        zh: '步骤',
-        ja: 'ステップ',
-        es: 'PASO',
-        fr: 'ÉTAPE',
-        de: 'SCHRITT',
-        pt: 'PASSO',
-        id: 'LANGKAH'
-      };
-
-      const stepLabel = stepLabels[lang] || stepLabels['en'];
-
-      const rawSteps = locData?.steps || data.steps;
-      if (rawSteps && Array.isArray(rawSteps)) {
-        rawSteps.forEach((step, idx) => {
-          const stepName = step.title || step.name?.[lang] || step.name?.['en'] || step.name?.['ko'] || step.name || '';
-          const rawTextVal = step.desc || step.text?.[lang] || step.text?.['en'] || step.text?.['ko'] || step.text || '';
-          const stepText = safeClean(rawTextVal).replace(/\\n/g, '\n');
-
-          steps.push({ name: stepName, text: stepText });
-
-          stepCards.push(`<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+      stepCards.push(`<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">${stepLabel} ${idx + 1}</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">${stepName}</h4>
@@ -140,33 +75,33 @@ function compileBlogs() {
     ${stepText}
   </p>
 </div>`);
-        });
-      }
+    });
+  }
 
-      const stepsYaml = steps.length > 0
-        ? 'steps:\n' + steps.map(s => `  - name: "${s.name.replace(/"/g, '\\"')}"\n    text: "${s.text.replace(/"/g, '\\"')}"`).join('\n')
-        : 'steps: []';
+  const stepsYaml = steps.length > 0
+    ? 'steps:\n' + steps.map(s => `  - name: "${s.name.replace(/"/g, '\\"')}"\n    text: "${s.text.replace(/"/g, '\\"')}"`).join('\n')
+    : 'steps: []';
 
-      const faqItems = [];
-      const rawFaqs = locData?.faqs || data.faqs;
-      if (rawFaqs && Array.isArray(rawFaqs)) {
-        rawFaqs.forEach(faq => {
-          const qVal = faq.question || faq.q;
-          const q = typeof qVal === 'string' ? qVal : (qVal?.[lang] || qVal?.['en'] || qVal?.['ko'] || '');
-          const aVal = faq.answer || faq.a;
-          const a = safeClean(typeof aVal === 'string' ? aVal : (aVal?.[lang] || aVal?.['en'] || aVal?.['ko'] || '')).replace(/\\n/g, '\n');
-          faqItems.push({ question: String(q || ''), answer: String(a || '') });
-        });
-      }
+  const faqItems = [];
+  const rawFaqs = locData?.faqs || data.faqs;
+  if (rawFaqs && Array.isArray(rawFaqs)) {
+    rawFaqs.forEach(faq => {
+      const qVal = faq.question || faq.q;
+      const q = typeof qVal === 'string' ? qVal : (qVal?.[lang] || qVal?.['en'] || qVal?.['ko'] || '');
+      const aVal = faq.answer || faq.a;
+      const a = safeClean(typeof aVal === 'string' ? aVal : (aVal?.[lang] || aVal?.['en'] || aVal?.['ko'] || '')).replace(/\\n/g, '\n');
+      faqItems.push({ question: String(q || ''), answer: String(a || '') });
+    });
+  }
 
-      const faqsYaml = faqItems.length > 0
-        ? 'faqs:\n' + faqItems.map(f => `  - question: "${(f.question || '').replace(/"/g, '\\"')}"\n    answer: "${(f.answer || '').replace(/"/g, '\\"')}"`).join('\n')
-        : '';
+  const faqsYaml = faqItems.length > 0
+    ? 'faqs:\n' + faqItems.map(f => `  - question: "${(f.question || '').replace(/"/g, '\\"')}"\n    answer: "${(f.answer || '').replace(/"/g, '\\"')}"`).join('\n')
+    : '';
 
-      const evidenceBoxHtml = renderEvidenceBox(lang, authority, 'habits');
-      const faqSectionHtml = renderFaqSection(lang, faqItems);
+  const evidenceBoxHtml = renderEvidenceBox(lang, authority, 'habits');
+  const faqSectionHtml = renderFaqSection(lang, faqItems);
 
-      let markdown = `---
+  let markdown = `---
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "${title.replace(/"/g, '\\"')}"
 description: "${description.replace(/"/g, '\\"')}"
@@ -206,15 +141,12 @@ ${cautionDesc}
 
 ${faqSectionHtml}
 `;
-      markdown = cleanMarkdown(markdown);
-
-      const targetPath = pathModule.join(targetDir, `${blogSlug}.md`);
-      fs.writeFileSync(targetPath, markdown, 'utf-8');
-      totalGenerated++;
-    });
-  });
-
-  console.log(`[완료] 총 ${totalGenerated}개의 다국어 BuildSelf 습관 블로그 파일이 정상적으로 생성되었습니다!`);
+  return cleanMarkdown(markdown);
 }
 
-compileBlogs();
+compileMasterJsonCollection({
+  masterDir: habitsDir,
+  blogRootDir,
+  blogTypeName: 'BuildSelf 습관 블로그',
+  renderLocaleMarkdown
+});

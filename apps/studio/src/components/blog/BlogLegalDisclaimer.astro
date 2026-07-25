@@ -1,0 +1,19 @@
+---
+export interface Props {
+  app: string;
+  t: (key: any) => string;
+}
+
+const { app, t } = Astro.props;
+---
+<div class="my-6 p-4 rounded-xl border border-slate-200/80 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20 shadow-sm backdrop-blur-sm">
+  <div class="flex items-center gap-2 mb-2 text-slate-500 dark:text-slate-400">
+    <span class="text-base">⚖️</span>
+    <h5 class="text-xs font-bold uppercase tracking-wider m-0">
+      {t('blog.disclaimer.title')}
+    </h5>
+  </div>
+  <p class="text-[11px] md:text-xs text-slate-500/80 dark:text-slate-400/80 m-0 leading-relaxed font-medium">
+    {app === 'buildself' ? t('blog.disclaimer.buildself.desc') : app === 'petself' ? t('blog.disclaimer.petself.desc') : t('blog.disclaimer.desc')}
+  </p>
+</div>

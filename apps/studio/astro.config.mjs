@@ -10,6 +10,11 @@ export default defineConfig({
   },
   vite: {
     plugins: [tailwindcss()],
+    server: {
+      watch: {
+        ignored: ['**/src/content/blog/**', '**/dist/**']
+      }
+    },
     build: {
       cssCodeSplit: true,
       chunkSizeWarningLimit: 1000

@@ -1,0 +1,61 @@
+---
+export interface Props {
+  headings: Array<{ depth: number; slug: string; text: string }>;
+  t: (key: any) => string;
+  app: string;
+  isFreshCategory: boolean;
+  cleanMiniCtaTitle: string;
+  targetCtaApp: string;
+  lang: string;
+}
+
+const { headings, t, app, isFreshCategory, cleanMiniCtaTitle, targetCtaApp, lang } = Astro.props;
+---
+{headings.length > 0 && (
+  <aside class="hidden lg:block sticky top-28 self-start bg-slate-500/5 dark:bg-slate-900/20 p-6 rounded-[2rem] border border-slate-200/50 dark:border-white/5 backdrop-blur-sm max-h-[calc(100vh-160px)] overflow-y-auto shadow-sm">
+    <h5 class="text-[10px] font-bold uppercase tracking-widest text-slate-400 dark:text-slate-500 mb-4">{t('blog.toc')}</h5>
+    <nav class="space-y-2.5 text-[13px]">
+      {headings.filter(h => h.depth <= 3).map(h => (
+        <a 
+          href={`#${h.slug}`} 
+          class={`block text-slate-500 hover:text-slate-800 dark:text-slate-400 dark:hover:text-white transition-colors duration-150 py-0.5 leading-relaxed ${h.depth === 3 ? 'pl-4 text-xs' : 'font-bold'}`}
+        >
+          {h.text}
+        </a>
+      ))}
+    </nav>
+
+    <!-- Desktop Sticky TOC Mini Widget -->
+    <div id="desktop-toc-mini-widget" class="mt-6 pt-5 border-t border-slate-200/50 dark:border-white/10">
+      <div class="p-3.5 rounded-xl bg-white/70 dark:bg-slate-900/50 border border-slate-200/80 dark:border-white/10 shadow-sm flex flex-col gap-2.5">
+        <div class="flex items-center gap-2.5">
+          <img 
+            src={
+              isFreshCategory ? `${import.meta.env.BASE_URL}freshself/invite/icon.png` :
+              app === 'buildself' ? `${import.meta.env.BASE_URL}images/buildself/icon.png` :
+              `${import.meta.env.BASE_URL}favicon.png`
+            } 
+            alt={app} 
+            class="w-7 h-7 rounded-md object-contain shrink-0 border border-slate-200/50 dark:border-white/5" 
+          />
+          <span class="text-xs font-extrabold text-slate-900 dark:text-white truncate">
+            {isFreshCategory ? 'FreshSelf' : app === 'buildself' ? 'BuildSelf' : 'SelaLink'}
+          </span>
+        </div>
+        <p class="text-[11px] font-medium text-slate-600 dark:text-slate-300 leading-snug line-clamp-2">
+          {cleanMiniCtaTitle}
+        </p>
+        <a 
+          href={`https://play.google.com/store/apps/details?id=com.selalink.${targetCtaApp === 'petself' ? 'freshself' : targetCtaApp}&hl=${lang}`}
+          target="_blank"
+          rel="noopener noreferrer"
+          class={`inline-flex justify-center items-center px-3 py-1.5 rounded-lg text-xs font-bold text-white transition-colors shadow-sm text-center ${
+            isFreshCategory ? (app === 'petself' ? 'bg-rose-600 hover:bg-rose-700 dark:bg-rose-500 dark:hover:bg-rose-600' : 'bg-purple-600 hover:bg-purple-700 dark:bg-purple-500 dark:hover:bg-purple-600') : 'bg-sky-600 hover:bg-sky-700 dark:bg-sky-500 dark:hover:bg-sky-600'
+          }`}
+        >
+          {t('cta.general.btn') || 'Install App →'}
+        </a>
+      </div>
+    </div>
+  </aside>
+)}
