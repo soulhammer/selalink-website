@@ -10,6 +10,60 @@ export interface SchemaOptions {
   t: (key: any) => string;
 }
 
+interface AppSeoMeta {
+  appName: string;
+  category: string;
+  sameAs?: string;
+  getAltNames: (t: (key: any) => string) => string[];
+  getFeatures: (t: (key: any) => string) => string[];
+  getKeywordsKey: string;
+}
+
+const APP_SEO_REGISTRY: Record<string, AppSeoMeta> = {
+  buildself: {
+    appName: "BuildSelf",
+    category: "HealthApplication",
+    sameAs: "https://play.google.com/store/apps/details?id=com.selalink.buildself",
+    getAltNames: (t) => [t('app.buildself.title'), "빌드셀프", "BuildSelf"],
+    getFeatures: (t) => (t('app.buildself.meta.features') || '').split(',').filter(Boolean),
+    getKeywordsKey: 'app.buildself.meta.keywords'
+  },
+  buildsnap: {
+    appName: "BuildSnap",
+    category: "LifestyleApplication",
+    getAltNames: (t) => [t('app.buildsnap.title') || "BuildSnap", "빌드스냅", "BuildSnap"],
+    getFeatures: (t) => {
+      const feats = (t('app.buildsnap.meta.features') || '').split(',').filter(Boolean);
+      return feats.length > 0 ? feats : ["Habit Analytics", "Mentor Recommendations", "Routine Prescription"];
+    },
+    getKeywordsKey: 'app.buildsnap.meta.keywords'
+  },
+  freshself: {
+    appName: "FreshSelf",
+    category: "LifestyleApplication",
+    sameAs: "https://play.google.com/store/apps/details?id=com.selalink.freshself",
+    getAltNames: (t) => [t('app.freshself.title'), "프레시셀프", "프레쉬셀프", "FreshSelf"],
+    getFeatures: (t) => (t('app.freshself.meta.features') || '').split(',').filter(Boolean),
+    getKeywordsKey: 'app.freshself.meta.keywords'
+  },
+  freshsnap: {
+    appName: "FreshSnap",
+    category: "LifestyleApplication",
+    sameAs: "https://play.google.com/store/apps/details?id=com.selalink.freshself",
+    getAltNames: (t) => [t('app.freshsnap.title'), "프레시스냅", "FreshSnap"],
+    getFeatures: (t) => (t('app.freshsnap.meta.features') || '').split(',').filter(Boolean),
+    getKeywordsKey: 'app.freshsnap.meta.keywords'
+  },
+  logself: {
+    appName: "logSelf",
+    category: "LifestyleApplication",
+    sameAs: "https://play.google.com/store/apps/details?id=com.selalink.logself",
+    getAltNames: (t) => [t('app.logself.title'), "로그셀프", "logSelf"],
+    getFeatures: (t) => (t('app.logself.meta.features') || '').split(',').filter(Boolean),
+    getKeywordsKey: 'app.logself.meta.keywords'
+  }
+};
+
 export function generateBaseSchema(options: SchemaOptions) {
   const {
     pathname,
@@ -22,67 +76,27 @@ export function generateBaseSchema(options: SchemaOptions) {
     t
   } = options;
 
-  const isBuildSelf = pathname.includes('/apps/buildself') || appId === 'buildself';
-  const isBuildSnap = pathname.includes('/apps/buildsnap') || appId === 'buildsnap';
-  const isFreshSelf = (pathname.includes('/apps/freshself') && !pathname.includes('/apps/freshsnap')) || appId === 'freshself';
-  const isFreshSnap = pathname.includes('/apps/freshsnap') || appId === 'freshsnap';
-  const isLogSelf = pathname.includes('/apps/logself') || appId === 'logself';
+  let matchedKey = appId;
+  if (!APP_SEO_REGISTRY[matchedKey]) {
+    if (pathname.includes('/apps/buildself')) matchedKey = 'buildself';
+    else if (pathname.includes('/apps/buildsnap')) matchedKey = 'buildsnap';
+    else if (pathname.includes('/apps/freshsnap')) matchedKey = 'freshsnap';
+    else if (pathname.includes('/apps/freshself')) matchedKey = 'freshself';
+    else if (pathname.includes('/apps/logself')) matchedKey = 'logself';
+  }
 
-  const appName = isBuildSelf ? "BuildSelf" : (isBuildSnap ? "BuildSnap" : (isFreshSnap ? "FreshSnap" : (isFreshSelf ? "FreshSelf" : (isLogSelf ? "logSelf" : "SelaLink Studio"))));
-  const appCategory = isFreshSnap || isBuildSnap ? "LifestyleApplication" : (isFreshSelf || isLogSelf ? "LifestyleApplication" : "HealthApplication");
+  const meta = APP_SEO_REGISTRY[matchedKey];
+  const appName = meta ? meta.appName : "SelaLink Studio";
+  const appCategory = meta ? meta.category : "HealthApplication";
 
   const rawUrl = canonicalUrl || urlHref;
   const formattedUrl = rawUrl.endsWith('/') ? rawUrl : rawUrl + '/';
 
-  const sameAsLinks: string[] = [];
-  if (isBuildSelf) {
-    sameAsLinks.push("https://play.google.com/store/apps/details?id=com.selalink.buildself");
-  } else if (isFreshSelf || isFreshSnap) {
-    sameAsLinks.push("https://play.google.com/store/apps/details?id=com.selalink.freshself");
-  } else if (isLogSelf) {
-    sameAsLinks.push("https://play.google.com/store/apps/details?id=com.selalink.logself");
-  } else {
-    sameAsLinks.push("https://www.youtube.com/channel/UChmmgdbcjP5PnVE-WGUspgA");
-  }
+  const sameAsLinks: string[] = meta?.sameAs ? [meta.sameAs] : ["https://www.youtube.com/channel/UChmmgdbcjP5PnVE-WGUspgA"];
+  const alternateNames: string[] = meta ? meta.getAltNames(t).filter(Boolean) : [];
+  const appFeatures: string[] = meta ? meta.getFeatures(t) : [];
 
-  const alternateNames: string[] = [];
-  if (isBuildSelf) {
-    alternateNames.push(t('app.buildself.title'), "빌드셀프", "BuildSelf");
-  } else if (isBuildSnap) {
-    alternateNames.push(t('app.buildsnap.title') || "BuildSnap", "빌드스냅", "BuildSnap");
-  } else if (isFreshSelf) {
-    alternateNames.push(t('app.freshself.title'), "프레시셀프", "프레쉬셀프", "FreshSelf");
-  } else if (isFreshSnap) {
-    alternateNames.push(t('app.freshsnap.title'), "프레시스냅", "FreshSnap");
-  } else if (isLogSelf) {
-    alternateNames.push(t('app.logself.title'), "로그셀프", "logSelf");
-  }
-
-  let appFeatures: string[] = [];
-  if (isBuildSelf) {
-    appFeatures = (t('app.buildself.meta.features') || '').split(',');
-  } else if (isBuildSnap) {
-    appFeatures = (t('app.buildsnap.meta.features') || '').split(',').filter(Boolean);
-    if (appFeatures.length === 0) {
-      appFeatures = ["Habit Analytics", "Mentor Recommendations", "Routine Prescription"];
-    }
-  } else if (isFreshSelf) {
-    appFeatures = (t('app.freshself.meta.features') || '').split(',');
-  } else if (isFreshSnap) {
-    appFeatures = (t('app.freshsnap.meta.features') || '').split(',');
-  } else if (isLogSelf) {
-    appFeatures = (t('app.logself.meta.features') || '').split(',');
-  }
-
-  let pageKeywords = keywords;
-  if (!pageKeywords) {
-    if (isBuildSelf) pageKeywords = t('app.buildself.meta.keywords');
-    else if (isBuildSnap) pageKeywords = t('app.buildsnap.meta.keywords') || t('meta.keywords');
-    else if (isFreshSelf) pageKeywords = t('app.freshself.meta.keywords');
-    else if (isFreshSnap) pageKeywords = t('app.freshsnap.meta.keywords');
-    else if (isLogSelf) pageKeywords = t('app.logself.meta.keywords');
-    else pageKeywords = t('meta.keywords');
-  }
+  const pageKeywords = keywords || (meta ? (t(meta.getKeywordsKey as any) || t('meta.keywords')) : t('meta.keywords'));
 
   return {
     "@context": "https://schema.org",

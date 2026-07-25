@@ -37,10 +37,12 @@ describe('SelaLink 브랜드 라인업 대표 색상 정합성 전수 검증 (TD
     expect(heroFile).not.toContain("text-emerald-600");
   });
 
-  it('블로그 상세페이지 [slug].astro 내 buildself 포스트 본문 테마가 sky blue로 설정되었는가', () => {
+  it('블로그 상세페이지 [slug].astro 또는 themeHelper.ts 내 buildself 포스트 본문 테마가 sky blue로 설정되었는가', () => {
     const slugFile = fs.readFileSync(path.join(studioSrc, 'pages/[lang]/blog/[slug].astro'), 'utf-8');
-    expect(slugFile).not.toContain("buildself: 'prose-a:text-indigo-600");
-    expect(slugFile).toContain("buildself: 'prose-a:text-sky-600");
+    const themeHelper = fs.readFileSync(path.join(studioSrc, 'utils/themeHelper.ts'), 'utf-8');
+    const combined = slugFile + themeHelper;
+    expect(combined).not.toContain("buildself: 'prose-a:text-indigo-600");
+    expect(combined).toContain("buildself: 'prose-a:text-sky-600");
   });
 
   it('메인 홈페이지 index.astro 및 LineupBadge.astro에 하드코딩 오적용(violet, teal)이 제거되고 대표색상으로 통합되었는가', () => {

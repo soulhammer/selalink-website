@@ -70,36 +70,13 @@ const formattedDate = getFormattedDate(pubDate, lang || 'en');
 
 
 
-// 앱 타입별 테마 스타일링 바인딩
-const themeAccents: Record<string, string> = {
-  freshsnap: 'prose-a:text-emerald-600 dark:prose-a:text-emerald-400 hover:prose-a:text-emerald-700 dark:hover:prose-a:text-emerald-300 border-emerald-500/10 dark:border-emerald-500/20 bg-emerald-500/5',
-  freshself: 'prose-a:text-purple-600 dark:prose-a:text-purple-400 hover:prose-a:text-purple-700 dark:hover:prose-a:text-purple-300 border-purple-500/10 dark:border-purple-500/20 bg-purple-500/5',
-  buildself: 'prose-a:text-sky-600 dark:prose-a:text-sky-400 hover:prose-a:text-sky-700 dark:hover:prose-a:text-sky-300 border-sky-500/10 dark:border-sky-500/20 bg-sky-500/5',
-  logself: 'prose-a:text-indigo-600 dark:prose-a:text-indigo-400 hover:prose-a:text-indigo-700 dark:hover:prose-a:text-indigo-300 border-indigo-500/10 dark:border-indigo-500/20 bg-indigo-500/5',
-  petself: 'prose-a:text-rose-600 dark:prose-a:text-rose-400 hover:prose-a:text-rose-700 dark:hover:prose-a:text-rose-300 border-rose-500/10 dark:border-rose-500/20 bg-rose-500/5',
-  general: 'prose-a:text-teal-600 dark:prose-a:text-teal-400 hover:prose-a:text-teal-700 dark:hover:prose-a:text-teal-300 border-teal-500/10 dark:border-teal-500/20 bg-teal-500/5'
-};
-const activeAccent = themeAccents[app] || themeAccents.general;
+import { getAppThemeConfig } from '../../../utils/themeHelper';
 
-// 카테고리별 다국어 라벨 및 텍스트 색상 매핑
-const categoryKeyMap: Record<string, string> = {
-  freshsnap: 'freshsnap',
-  freshself: 'freshsnap',
-  buildself: 'buildself',
-  petself: 'petself',
-  logself: 'logself'
-};
-const categoryKey = categoryKeyMap[app] || 'freshsnap';
+const themeConfig = getAppThemeConfig(app);
+const activeAccent = themeConfig.accentClass;
+const categoryKey = themeConfig.categoryKey;
 const categoryLabel = t(`blog.filter.${categoryKey}` as any) || 'SelaLink';
-
-const categoryColorMap: Record<string, string> = {
-  freshsnap: 'text-emerald-600 dark:text-emerald-400',
-  freshself: 'text-purple-600 dark:text-purple-400',
-  buildself: 'text-sky-600 dark:text-sky-400',
-  logself: 'text-indigo-600 dark:text-indigo-400',
-  petself: 'text-rose-600 dark:text-rose-400'
-};
-const categoryColorClass = categoryColorMap[app] || 'text-slate-600 dark:text-slate-400';
+const categoryColorClass = themeConfig.categoryColorClass;
 
 // PC 미니 위젯 및 CTA용 브랜드 매핑 및 유니코드 안전 중복 제거 서브타이틀 추출
 const isFreshCategory = ['freshsnap', 'freshself', 'petself'].includes(app);
@@ -245,7 +222,7 @@ const cleanMiniCtaTitle = cleanCtaTitle(rawMiniCtaTitle);
 
         <!-- Article Body (Refined Premium Typography) -->
         <article 
-          class={`prose prose-slate dark:prose-invert max-w-none mb-16 tracking-tight text-slate-800/95 dark:text-slate-200/95 ${themeAccents[app] || ''}
+          class={`prose prose-slate dark:prose-invert max-w-none mb-16 tracking-tight text-slate-800/95 dark:text-slate-200/95 ${activeAccent}
             prose-headings:text-slate-900 dark:prose-headings:text-white prose-headings:font-extrabold prose-headings:tracking-tight
             prose-h2:text-2xl prose-h2:md:text-3xl prose-h2:mt-14 prose-h2:mb-6 prose-h2:pb-3.5 prose-h2:border-b prose-h2:border-slate-200/80 dark:prose-h2:border-white/5
             prose-h3:text-lg prose-h3:md:text-xl prose-h3:mt-10 prose-h3:mb-4

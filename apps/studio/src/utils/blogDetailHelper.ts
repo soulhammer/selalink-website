@@ -88,18 +88,7 @@ export function generateStructuredData({
   // steps 파싱 및 주입
   let activeSteps = postSteps;
   if (!activeSteps || activeSteps.length === 0) {
-    const stepsParsed: any[] = [];
-    const stepRegex = /STEP\s*(\d+)[^]*?<h4[^>]*>([\s\S]*?)<\/h4>[^]*?<p[^>]*>([\s\S]*?)<\/p>/g;
-    let match;
-    while ((match = stepRegex.exec(postBody || '')) !== null) {
-      stepsParsed.push({
-        name: match[2].replace(/<[^>]*>/g, '').trim(),
-        text: match[3].replace(/<[^>]*>/g, '').replace(/\s+/g, ' ').trim()
-      });
-    }
-    if (stepsParsed.length > 0) {
-      activeSteps = stepsParsed;
-    }
+    activeSteps = parseStepsFromHtml(postBody || '');
   }
 
   if (activeSteps && activeSteps.length > 0) {
@@ -121,17 +110,7 @@ export function generateStructuredData({
   // faqs 파싱 및 주입
   let activeFaqs = postFaqs;
   if (!activeFaqs || activeFaqs.length === 0) {
-    const faqsParsed: any[] = [];
-    const faqRegex = /<summary[^>]*>([\s\S]*?)<\/summary>[^]*?<p[^>]*>([\s\S]*?)<\/p>/g;
-    let match;
-    while ((match = faqRegex.exec(postBody || '')) !== null) {
-      const question = match[1].replace(/<[^>]*>/g, '').replace(/▼/g, '').trim();
-      const answer = match[2].replace(/<[^>]*>/g, '').replace(/\s+/g, ' ').trim();
-      faqsParsed.push({ question, answer });
-    }
-    if (faqsParsed.length > 0) {
-      activeFaqs = faqsParsed;
-    }
+    activeFaqs = parseFaqsFromHtml(postBody || '');
   }
 
   if (activeFaqs && activeFaqs.length > 0) {
@@ -150,4 +129,29 @@ export function generateStructuredData({
   }
 
   return structuredDataList;
+}
+
+export function parseStepsFromHtml(html: string): Array<{ name: string; text: string }> {
+  const stepsParsed: Array<{ name: string; text: string }> = [];
+  const stepRegex = /STEP\s*(\d+)[^]*?<h4[^>]*>([\s\S]*?)<\/h4>[^]*?<p[^>]*>([\s\S]*?)<\/p>/g;
+  let match: RegExpExecArray | null;
+  while ((match = stepRegex.exec(html)) !== null) {
+    stepsParsed.push({
+      name: match[2].replace(/<[^>]*>/g, '').trim(),
+      text: match[3].replace(/<[^>]*>/g, '').replace(/\s+/g, ' ').trim()
+    });
+  }
+  return stepsParsed;
+}
+
+export function parseFaqsFromHtml(html: string): Array<{ question: string; answer: string }> {
+  const faqsParsed: Array<{ question: string; answer: string }> = [];
+  const faqRegex = /<summary[^>]*>([\s\S]*?)<\/summary>[^]*?<p[^>]*>([\s\S]*?)<\/p>/g;
+  let match: RegExpExecArray | null;
+  while ((match = faqRegex.exec(html)) !== null) {
+    const question = match[1].replace(/<[^>]*>/g, '').replace(/▼/g, '').trim();
+    const answer = match[2].replace(/<[^>]*>/g, '').replace(/\s+/g, ' ').trim();
+    faqsParsed.push({ question, answer });
+  }
+  return faqsParsed;
 }

@@ -1,12 +1,14 @@
-document.addEventListener('DOMContentLoaded', () => {
-  // 1. 라이트박스(Lightbox) 모달 제어
+export function initLightboxModal() {
   const trigger = document.getElementById('hero-image-trigger');
   const modal = document.getElementById('lightbox-modal');
   const closeBtn = document.getElementById('lightbox-close');
   const lightboxImg = document.getElementById('lightbox-image');
 
   if (trigger && modal && closeBtn) {
-    trigger.addEventListener('click', () => {
+    const openModal = (src?: string) => {
+      if (src && lightboxImg) {
+        lightboxImg.setAttribute('src', src);
+      }
       modal.classList.remove('hidden');
       modal.classList.add('flex');
       requestAnimationFrame(() => {
@@ -14,7 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
         modal.classList.add('opacity-100');
       });
       document.body.style.overflow = 'hidden';
-    });
+    };
 
     const closeModal = () => {
       modal.classList.remove('opacity-100');
@@ -26,6 +28,7 @@ document.addEventListener('DOMContentLoaded', () => {
       }, 300);
     };
 
+    trigger.addEventListener('click', () => openModal());
     closeBtn.addEventListener('click', closeModal);
     modal.addEventListener('click', (e) => {
       if (e.target === modal || e.target === lightboxImg) {
@@ -38,29 +41,20 @@ document.addEventListener('DOMContentLoaded', () => {
       }
     });
 
-    // 1-1. 본문 내 모든 삽입 이미지 클릭 시 라이트박스 연동
     const articleImages = document.querySelectorAll('article img');
     if (articleImages.length > 0 && lightboxImg) {
       articleImages.forEach((img) => {
         (img as HTMLElement).style.cursor = 'zoom-in';
         img.addEventListener('click', () => {
           const src = img.getAttribute('src');
-          if (src) {
-            lightboxImg.setAttribute('src', src);
-            modal.classList.remove('hidden');
-            modal.classList.add('flex');
-            requestAnimationFrame(() => {
-              modal.classList.remove('opacity-0');
-              modal.classList.add('opacity-100');
-            });
-            document.body.style.overflow = 'hidden';
-          }
+          if (src) openModal(src);
         });
       });
     }
   }
+}
 
-  // 2. 읽기 진행 바 제어
+export function initReadingProgressBar() {
   const progressBar = document.getElementById('reading-progress');
   if (progressBar) {
     window.addEventListener('scroll', () => {
@@ -70,8 +64,9 @@ document.addEventListener('DOMContentLoaded', () => {
       progressBar.style.width = scrolled + '%';
     });
   }
+}
 
-  // 3. TOC 활성화 하이라이팅 (Intersection Observer)
+export function initTocObserver() {
   const headings = Array.from(document.querySelectorAll('article h2, article h3'));
   const tocLinks = Array.from(document.querySelectorAll('aside nav a'));
   
@@ -102,8 +97,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
     headings.forEach((heading) => observer.observe(heading));
   }
+}
 
-  // 4. 맨 위로 가기(Back to Top) 버튼 제어
+export function initBackToTopButton() {
   const backToTopBtn = document.getElementById('back-to-top');
   if (backToTopBtn) {
     window.addEventListener('scroll', () => {
@@ -124,6 +120,13 @@ document.addEventListener('DOMContentLoaded', () => {
       });
     });
   }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+  initLightboxModal();
+  initReadingProgressBar();
+  initTocObserver();
+  initBackToTopButton();
 });
 
 

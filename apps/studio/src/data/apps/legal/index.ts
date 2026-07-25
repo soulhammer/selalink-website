@@ -12,28 +12,28 @@ export interface AppLegalSet {
 }
 
 // BuildSelf HTML imports
-import buildselfPrivacyKo from './legal/buildself/privacy.ko.html?raw';
-import buildselfPrivacyEn from './legal/buildself/privacy.en.html?raw';
-import buildselfTermsKo from './legal/buildself/terms.ko.html?raw';
-import buildselfTermsEn from './legal/buildself/terms.en.html?raw';
-import buildselfDataDeletionKo from './legal/buildself/dataDeletion.ko.html?raw';
-import buildselfDataDeletionEn from './legal/buildself/dataDeletion.en.html?raw';
+import buildselfPrivacyKo from './buildself/privacy.ko.html?raw';
+import buildselfPrivacyEn from './buildself/privacy.en.html?raw';
+import buildselfTermsKo from './buildself/terms.ko.html?raw';
+import buildselfTermsEn from './buildself/terms.en.html?raw';
+import buildselfDataDeletionKo from './buildself/dataDeletion.ko.html?raw';
+import buildselfDataDeletionEn from './buildself/dataDeletion.en.html?raw';
 
 // FreshSelf HTML imports
-import freshselfPrivacyKo from './legal/freshself/privacy.ko.html?raw';
-import freshselfPrivacyEn from './legal/freshself/privacy.en.html?raw';
-import freshselfTermsKo from './legal/freshself/terms.ko.html?raw';
-import freshselfTermsEn from './legal/freshself/terms.en.html?raw';
-import freshselfDataDeletionKo from './legal/freshself/dataDeletion.ko.html?raw';
-import freshselfDataDeletionEn from './legal/freshself/dataDeletion.en.html?raw';
+import freshselfPrivacyKo from './freshself/privacy.ko.html?raw';
+import freshselfPrivacyEn from './freshself/privacy.en.html?raw';
+import freshselfTermsKo from './freshself/terms.ko.html?raw';
+import freshselfTermsEn from './freshself/terms.en.html?raw';
+import freshselfDataDeletionKo from './freshself/dataDeletion.ko.html?raw';
+import freshselfDataDeletionEn from './freshself/dataDeletion.en.html?raw';
 
 // LogSelf HTML imports
-import logselfPrivacyKo from './legal/logself/privacy.ko.html?raw';
-import logselfPrivacyEn from './legal/logself/privacy.en.html?raw';
-import logselfTermsKo from './legal/logself/terms.ko.html?raw';
-import logselfTermsEn from './legal/logself/terms.en.html?raw';
-import logselfDataDeletionKo from './legal/logself/dataDeletion.ko.html?raw';
-import logselfDataDeletionEn from './legal/logself/dataDeletion.en.html?raw';
+import logselfPrivacyKo from './logself/privacy.ko.html?raw';
+import logselfPrivacyEn from './logself/privacy.en.html?raw';
+import logselfTermsKo from './logself/terms.ko.html?raw';
+import logselfTermsEn from './logself/terms.en.html?raw';
+import logselfDataDeletionKo from './logself/dataDeletion.ko.html?raw';
+import logselfDataDeletionEn from './logself/dataDeletion.en.html?raw';
 
 export const appsLegalData: Record<string, AppLegalSet> = {
   buildself: {
