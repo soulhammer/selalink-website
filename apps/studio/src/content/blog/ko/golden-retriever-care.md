@@ -77,7 +77,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">아침: 리트리빙 본능 충족 공 놀이</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    리트리버는 물건을 물어오는 것에 가장 큰 희열을 느낍니다. 아침 산책 전 실내나 마당에서 부드러운 공을 던져 가져오게 하는 놀이를 5~10분간 진행하여 야생 본능적 에너지를 안전하게 방산시킵니다.
+    리트리버는 물건을 물어오는 것에 가장 큰 희열을 느낍니다. 아침 산책 전 실내나 마당에서 부드러운 공을 던져 가져오게 하는 놀이를 5 ~ 10분간 진행하여 야생 본능적 에너지를 안전하게 방산시킵니다.
   </p>
 </div>
 

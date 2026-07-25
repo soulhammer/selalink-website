@@ -96,7 +96,7 @@ faqs:
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      매우 자연스러운 신경학적 현상입니다. 처음에는 세부적인 그림을 선명하게 그리려 하기보다 단순한 상자나 원 2~3개를 그리고 그 사이를 선으로 연결하는 아주 간단한 추상적 모형부터 시작하세요. 훈련이 거듭될수록 뇌의 시공간 작업 기억 해상도가 높아집니다.
+      매우 자연스러운 신경학적 현상입니다. 처음에는 세부적인 그림을 선명하게 그리려 하기보다 단순한 상자나 원 2 ~ 3개를 그리고 그 사이를 선으로 연결하는 아주 간단한 추상적 모형부터 시작하세요. 훈련이 거듭될수록 뇌의 시공간 작업 기억 해상도가 높아집니다.
     </p>
   </details>
   <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>

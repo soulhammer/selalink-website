@@ -96,7 +96,7 @@ faqs:
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      매일 거창한 글을 쓸 필요는 없습니다. 대중교통이나 차량으로 이동하는 10~20분의 시간 동안 스마트폰 대신 창밖을 보며 생각에 잠기고, 스쳐 지나가는 단상 하나를 메모하는 것만으로도 뇌의 디폴트 모드 네트워크(DMN)와 알파파를 활성화하기에 충분합니다.
+      매일 거창한 글을 쓸 필요는 없습니다. 대중교통이나 차량으로 이동하는 10 ~ 20분의 시간 동안 스마트폰 대신 창밖을 보며 생각에 잠기고, 스쳐 지나가는 단상 하나를 메모하는 것만으로도 뇌의 디폴트 모드 네트워크(DMN)와 알파파를 활성화하기에 충분합니다.
     </p>
   </details>
   <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>

@@ -11,7 +11,7 @@ formatVersion: 4
 authority: "제프 베조스 주주 서한(Shareholder Letter) 및 콜린 브라이어 『워킹 백워드(Working Backwards)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
 steps:
   - name: "1단계: 의사결정 주제의 서술형 맥락 문서 작성"
-    text: "회의 및 기획 전 불릿 포인트 대신 인과관계와 논거가 완결된 줄글 서술형 문서(1~6페이지)를 작성하여 배포 준비를 마칩니다."
+    text: "회의 및 기획 전 불릿 포인트 대신 인과관계와 논거가 완결된 줄글 서술형 문서(1 ~ 6페이지)를 작성하여 배포 준비를 마칩니다."
   - name: "2단계: 회의 개시 후 15~30분간의 침묵 완독"
     text: "회의 시작 직후 발표자의 구두 설명이나 PPT 발표를 생략하고, 참석자 전원이 완전한 정적 속에서 배포된 서술형 문서를 완독하는 시간을 가집니다."
   - name: "3단계: 싱크된 맥락 하의 본질적 토론 및 결론 도출"
@@ -61,7 +61,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">1단계: 의사결정 주제의 서술형 맥락 문서 작성</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    회의 및 기획 전 불릿 포인트 대신 인과관계와 논거가 완결된 줄글 서술형 문서(1~6페이지)를 작성하여 배포 준비를 마칩니다.
+    회의 및 기획 전 불릿 포인트 대신 인과관계와 논거가 완결된 줄글 서술형 문서(1 ~ 6페이지)를 작성하여 배포 준비를 마칩니다.
   </p>
 </div>
 

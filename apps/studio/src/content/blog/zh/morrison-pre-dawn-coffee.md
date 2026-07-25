@@ -11,7 +11,7 @@ formatVersion: 4
 authority: "托尼·莫里森历史评传及自传记录考证与认知神经科学研究"
 steps:
   - name: "在拂晓宁静中起床"
-    text: "在白昼彻底喧嚣之前的宁静时段（建议早晨5:00~6:00）起床。切勿立即打开手机屏幕或室内照明，让大脑自然而温柔地苏醒。"
+    text: "在白昼彻底喧嚣之前的宁静时段（建议早晨5:00 ~ 6:00）起床。切勿立即打开手机屏幕或室内照明，让大脑自然而温柔地苏醒。"
   - name: "品饮温热饮料与5分钟观照晨曦"
     text: "冲泡一杯温热的咖啡或茶，走至书房或客厅的窗前。双手紧握杯身感受温度，静心凝视室外天空微蓝的拂晓光线与晨曦景色满5分钟。"
   - name: "无手机干扰下的创意输出"
@@ -63,7 +63,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">在拂晓宁静中起床</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    在白昼彻底喧嚣之前的宁静时段（建议早晨5:00~6:00）起床。切勿立即打开手机屏幕或室内照明，让大脑自然而温柔地苏醒。
+    在白昼彻底喧嚣之前的宁静时段（建议早晨5:00 ~ 6:00）起床。切勿立即打开手机屏幕或室内照明，让大脑自然而温柔地苏醒。
   </p>
 </div>
 
@@ -98,7 +98,7 @@ faqs:
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      无需刻意精准对齐日出的确切时刻。无论哪个季节，只要在日出前那段微暗而宁静的气氛里（通常在早晨5:00~6:00之间），就足以获得出色的脑部认知重置效果。
+      无需刻意精准对齐日出的确切时刻。无论哪个季节，只要在日出前那段微暗而宁静的气氛里（通常在早晨5:00 ~ 6:00之间），就足以获得出色的脑部认知重置效果。
     </p>
   </details>
   <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>

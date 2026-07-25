@@ -106,7 +106,7 @@ faqs:
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      졸음을 예방하기 위해서는 완전히 평평하게 눕기보다 상체를 30~45도 정도 비스듬히 세우는 경사 쿠션을 활용하고, 20분 단위로 짧게 아이디어를 스케치한 뒤 수평 휴식을 취하는 방식으로 뇌의 각성 상태를 제어하는 것이 좋습니다.
+      졸음을 예방하기 위해서는 완전히 평평하게 눕기보다 상체를 30 ~ 45도 정도 비스듬히 세우는 경사 쿠션을 활용하고, 20분 단위로 짧게 아이디어를 스케치한 뒤 수평 휴식을 취하는 방식으로 뇌의 각성 상태를 제어하는 것이 좋습니다.
     </p>
   </details>
 </div>

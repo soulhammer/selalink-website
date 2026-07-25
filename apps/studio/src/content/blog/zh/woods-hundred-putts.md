@@ -94,7 +94,7 @@ faqs:
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      这是因为初始挑战目标远超你目前的能力范围，导致大脑合成了压力激素。应适当调低任务强度，将成功概率调整在70%~80%左右。
+      这是因为初始挑战目标远超你目前的能力范围，导致大脑合成了压力激素。应适当调低任务强度，将成功概率调整在70% ~ 80%左右。
     </p>
   </details>
 </div>

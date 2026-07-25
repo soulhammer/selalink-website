@@ -11,7 +11,7 @@ formatVersion: 4
 tags: ["베타피쉬","관상어케어","플레어링","WSAVA지침","지느러미관리"]
 faqs:
   - question: "지느러미 끝이 뜯긴 것처럼 갈라지고 검게 변하는데 왜 그런가요?"
-    answer: "지느러미 썩음병(Fin Rot)의 전형적 증상으로 수질 오염(여과 부실)이나 스트레스가 원인입니다. 환수(20~30%)를 자주 해주고 필요시 수의사 처방 앰풀을 투여하세요."
+    answer: "지느러미 썩음병(Fin Rot)의 전형적 증상으로 수질 오염(여과 부실)이나 스트레스가 원인입니다. 환수(20 ~ 30%)를 자주 해주고 필요시 수의사 처방 앰풀을 투여하세요."
   - question: "여과기 없이 작은 어항에서 키워도 되나요?"
     answer: "베타는 산소 호흡이 가능하지만 여과기 없는 소형 어항은 여과 미생물이 생기지 않아 수질이 급격히 악화됩니다. 최소 15리터 이상의 어항과 저수류 스펀지 여과기가 권장됩니다."
 ---
@@ -87,7 +87,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">낮: 베타 전용 펠릿 사료 분할 급여 및 수질 잔여물 수거</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    고단백 베타 전용 펠릿을 3~4알씩 나누어 급여하고 먹지 않고 떨어진 사료는 5분 내 스포이트로 픽업합니다.
+    고단백 베타 전용 펠릿을 3 ~ 4알씩 나누어 급여하고 먹지 않고 떨어진 사료는 5분 내 스포이트로 픽업합니다.
   </p>
 </div>
 
@@ -97,7 +97,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">저녁: 거품집(Bubble Nest) 관찰 및 5분간의 활력 플레어링 훈련</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    수면에 만들어진 거품집 상태를 살피고, 거울을 3~5분간 대어주어 지느러미 유착을 막는 운동을 시킵니다.
+    수면에 만들어진 거품집 상태를 살피고, 거울을 3 ~ 5분간 대어주어 지느러미 유착을 막는 운동을 시킵니다.
   </p>
 </div>
 
@@ -124,7 +124,7 @@ faqs:
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      지느러미 썩음병(Fin Rot)의 전형적 증상으로 수질 오염(여과 부실)이나 스트레스가 원인입니다. 환수(20~30%)를 자주 해주고 필요시 수의사 처방 앰풀을 투여하세요.
+      지느러미 썩음병(Fin Rot)의 전형적 증상으로 수질 오염(여과 부실)이나 스트레스가 원인입니다. 환수(20 ~ 30%)를 자주 해주고 필요시 수의사 처방 앰풀을 투여하세요.
     </p>
   </details>
 

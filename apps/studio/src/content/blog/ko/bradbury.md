@@ -11,7 +11,7 @@ formatVersion: 4
 authority: "레이 브래드버리 에세이 『글쓰기의 선(Zen in the Art of Writing)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
 steps:
   - name: "1단계: 무작위 이종 단어(3~10개) 추출 및 나열"
-    text: "아침 기상 직후나 업무 시작 전, 눈앞의 사물이나 무작위 명사 3~10개(예: 거울, 엔진, 고래, 나침반 등)를 아무런 법칙 없이 백지에 무작위로 적습니다."
+    text: "아침 기상 직후나 업무 시작 전, 눈앞의 사물이나 무작위 명사 3 ~ 10개(예: 거울, 엔진, 고래, 나침반 등)를 아무런 법칙 없이 백지에 무작위로 적습니다."
   - name: "2단계: 이종 단어들의 강제 결합 및 미시 시나리오 직조"
     text: "선택된 단어들을 1분간 응시한 뒤, 이들을 강제로 연결하여 3문장 이내의 짧은 기획 아이디어나 비즈니스 시나리오, 초단편 스토리를 2분 이내에 순발력 있게 작성합니다."
   - name: "3단계: 연상 스크랩 보관 및 우뇌 신경망 각성 후 본업 돌입"
@@ -61,7 +61,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">1단계: 무작위 이종 단어(3~10개) 추출 및 나열</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    아침 기상 직후나 업무 시작 전, 눈앞의 사물이나 무작위 명사 3~10개(예: 거울, 엔진, 고래, 나침반 등)를 아무런 법칙 없이 백지에 무작위로 적습니다.
+    아침 기상 직후나 업무 시작 전, 눈앞의 사물이나 무작위 명사 3 ~ 10개(예: 거울, 엔진, 고래, 나침반 등)를 아무런 법칙 없이 백지에 무작위로 적습니다.
   </p>
 </div>
 
@@ -96,7 +96,7 @@ faqs:
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      아침 기상 직후 무의식이 활성화된 시간에 단어 연상을 수행하는 것이 신경학적으로 가장 효과적입니다. 다만 주 3~4회 정도로 시작하더라도 뇌의 확산적 사고 회로를 단련하고 창의적 통찰력을 깨우는 데 충분한 효과를 발휘합니다.
+      아침 기상 직후 무의식이 활성화된 시간에 단어 연상을 수행하는 것이 신경학적으로 가장 효과적입니다. 다만 주 3 ~ 4회 정도로 시작하더라도 뇌의 확산적 사고 회로를 단련하고 창의적 통찰력을 깨우는 데 충분한 효과를 발휘합니다.
     </p>
   </details>
   <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>

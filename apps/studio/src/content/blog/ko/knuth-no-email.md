@@ -11,9 +11,9 @@ formatVersion: 4
 authority: "도널드 너스 공식 선언문 「이메일 사용 중단(Email and I)」 및 평전 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 인지심리학(Cognitive Psychology) 연구"
 steps:
   - name: "1단계: 일일 오프라인 딥 워크(Deep Work) 블록 지정"
-    text: "하루 중 가장 인지 에너지가 높은 시각에 최소 1~2시간 동안 소통 앱과 알림을 완전히 종료하는 오프라인 딥 워크 블록을 설정합니다."
+    text: "하루 중 가장 인지 에너지가 높은 시각에 최소 1 ~ 2시간 동안 소통 앱과 알림을 완전히 종료하는 오프라인 딥 워크 블록을 설정합니다."
   - name: "2단계: 이메일·메신저 배치 처리(Batch Processing) 타임윈도 수립"
-    text: "수시로 메일을 확인하는 습관을 멈추고, 지정된 하루 1~2회의 골든 타임에서만 쌓여 있는 이메일과 메신저를 일괄 답장합니다."
+    text: "수시로 메일을 확인하는 습관을 멈추고, 지정된 하루 1 ~ 2회의 골든 타임에서만 쌓여 있는 이메일과 메신저를 일괄 답장합니다."
   - name: "3단계: 컨텍스트 단절 없는 심층 연속 몰입 완결"
     text: "외부 방해가 차단된 오프라인 몰입 시간 동안 주의 잔류 없이 복잡한 기획, 코드 작성, 시스템 설계 등 최고 가치의 과업을 밀도 있게 완수합니다."
 faqs:
@@ -53,7 +53,7 @@ faqs:
 
 ## 실시간 응답 본능을 억제하고 배치 처리(Batch Processing)를 적용하는 수칙
 
-도널드 너스처럼 이메일과 실시간 메신저를 완전히 영구 차단하는 방식은 협업 조직에서 현실적으로 어려울 수 있습니다. 핵심은 아율 끊는 것이 아니라, 실시간 확인 본능을 억제하고 배치 처리(Batch Processing) 방식을 도입하는 것입니다. 매일 정해진 1~2회의 일괄 답장 타임윈도 외에는 알림을 차단하여 뇌의 연속 몰입 시간(Chunk of Focus)을 보호하세요.
+도널드 너스처럼 이메일과 실시간 메신저를 완전히 영구 차단하는 방식은 협업 조직에서 현실적으로 어려울 수 있습니다. 핵심은 아율 끊는 것이 아니라, 실시간 확인 본능을 억제하고 배치 처리(Batch Processing) 방식을 도입하는 것입니다. 매일 정해진 1 ~ 2회의 일괄 답장 타임윈도 외에는 알림을 차단하여 뇌의 연속 몰입 시간(Chunk of Focus)을 보호하세요.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -61,7 +61,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">1단계: 일일 오프라인 딥 워크(Deep Work) 블록 지정</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    하루 중 가장 인지 에너지가 높은 시각에 최소 1~2시간 동안 소통 앱과 알림을 완전히 종료하는 오프라인 딥 워크 블록을 설정합니다.
+    하루 중 가장 인지 에너지가 높은 시각에 최소 1 ~ 2시간 동안 소통 앱과 알림을 완전히 종료하는 오프라인 딥 워크 블록을 설정합니다.
   </p>
 </div>
 
@@ -71,7 +71,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">2단계: 이메일·메신저 배치 처리(Batch Processing) 타임윈도 수립</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    수시로 메일을 확인하는 습관을 멈추고, 지정된 하루 1~2회의 골든 타임에서만 쌓여 있는 이메일과 메신저를 일괄 답장합니다.
+    수시로 메일을 확인하는 습관을 멈추고, 지정된 하루 1 ~ 2회의 골든 타임에서만 쌓여 있는 이메일과 메신저를 일괄 답장합니다.
   </p>
 </div>
 
@@ -106,7 +106,7 @@ faqs:
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      네, 완전히 동일한 원리로 적용할 수 있습니다. 메일을 영구 차단할 필요 없이 하루 1~2시간만이라도 '알림 끄기 모드'를 설정하고 딥 워크 블록으로 만드는 것만으로도 컨텍스트 스위칭 비용을 현격히 줄이고 주의력을 보호할 수 있습니다.
+      네, 완전히 동일한 원리로 적용할 수 있습니다. 메일을 영구 차단할 필요 없이 하루 1 ~ 2시간만이라도 '알림 끄기 모드'를 설정하고 딥 워크 블록으로 만드는 것만으로도 컨텍스트 스위칭 비용을 현격히 줄이고 주의력을 보호할 수 있습니다.
     </p>
   </details>
 </div>

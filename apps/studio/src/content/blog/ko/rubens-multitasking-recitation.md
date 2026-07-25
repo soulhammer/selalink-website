@@ -106,7 +106,7 @@ faqs:
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      너무 크거나 너무 작지 않아야 합니다. 방 안에서 사람이 옆에서 나지막이 책을 읽어주는 수준의 중간 음량(약 50~60dB)이 적절하며, 이어폰보다는 귀와 머리에 가해지는 압박이 덜한 블루투스 스피커나 오픈형 이어폰 사용을 권장합니다.
+      너무 크거나 너무 작지 않아야 합니다. 방 안에서 사람이 옆에서 나지막이 책을 읽어주는 수준의 중간 음량(약 50 ~ 60dB)이 적절하며, 이어폰보다는 귀와 머리에 가해지는 압박이 덜한 블루투스 스피커나 오픈형 이어폰 사용을 권장합니다.
     </p>
   </details>
 </div>

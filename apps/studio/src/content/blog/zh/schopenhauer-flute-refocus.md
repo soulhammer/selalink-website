@@ -51,7 +51,7 @@ faqs:
 
 ## 面部刺激注意事项与呼吸控制技巧
 
-为了醒脑而长时间将面部浸泡在冷水中可能会刺激皮肤或引起血压剧烈波动。将冷水泼脸控制在15~30秒即可。在吹奏乐器或练习呼吸时，保持1:1的吸气与呼气比例以防止头晕。
+为了醒脑而长时间将面部浸泡在冷水中可能会刺激皮肤或引起血压剧烈波动。将冷水泼脸控制在15 ~ 30秒即可。在吹奏乐器或练习呼吸时，保持1:1的吸气与呼气比例以防止头晕。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">

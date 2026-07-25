@@ -51,7 +51,7 @@ faqs:
 
 ## 确保刺激控制例程的灵活性
 
-过于坚持刺激阻断环境的副作用是可能形成过度敏感的大脑（Hyper-sensitivity），在稍微杂乱或有噪音的外部场所便完全无法集中注意力。因此，刺激控制训练应仅应用于一天中最复杂困难的核心专注时间（如1~2小时），在进行日常简单工作时，务必培养在有微弱噪音或环境变化的空间中工作的灵活性。
+过于坚持刺激阻断环境的副作用是可能形成过度敏感的大脑（Hyper-sensitivity），在稍微杂乱或有噪音的外部场所便完全无法集中注意力。因此，刺激控制训练应仅应用于一天中最复杂困难的核心专注时间（如1 ~ 2小时），在进行日常简单工作时，务必培养在有微弱噪音或环境变化的空间中工作的灵活性。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">

@@ -45,7 +45,7 @@ faqs:
 
 ## 코르티솔 각성과 인지적 골든 아워의 뇌 과학
 
-인간이 잠에서 깨어나면 30~45분 동안 활력 호르몬인 코르티솔 분비량이 최대 50%까지 급증하는 <strong>'코르티솔 각성 반응(Cortisol Awakening Response)'</strong>이 일어납니다. 이 시기부터 2~3시간 동안은 대뇌 전두엽의 논리력, <strong>작업 기억(Working Memory)</strong>, 고차원적 의사결정 능력이 하루 중 최고 상태에 도달하는 <strong>'인지적 골든 아워(Cognitive Golden Hour)'</strong>입니다. 이때 메신저나 SNS 등의 자극적 정보에 시각 피질을 노출시키지 않고, 오직 펜과 노트만으로 난해한 논리적 수식을 유도하거나 프로그래밍 설계에 집중하면, 방해 자극이 없는 고도의 인지 몰입(High Cognitive Load Flow) 상태에 진입하여 업무 속도가 수배 향상됩니다.
+인간이 잠에서 깨어나면 30 ~ 45분 동안 활력 호르몬인 코르티솔 분비량이 최대 50%까지 급증하는 <strong>'코르티솔 각성 반응(Cortisol Awakening Response)'</strong>이 일어납니다. 이 시기부터 2 ~ 3시간 동안은 대뇌 전두엽의 논리력, <strong>작업 기억(Working Memory)</strong>, 고차원적 의사결정 능력이 하루 중 최고 상태에 도달하는 <strong>'인지적 골든 아워(Cognitive Golden Hour)'</strong>입니다. 이때 메신저나 SNS 등의 자극적 정보에 시각 피질을 노출시키지 않고, 오직 펜과 노트만으로 난해한 논리적 수식을 유도하거나 프로그래밍 설계에 집중하면, 방해 자극이 없는 고도의 인지 몰입(High Cognitive Load Flow) 상태에 진입하여 업무 속도가 수배 향상됩니다.
 
 ---
 

@@ -11,7 +11,7 @@ formatVersion: 4
 authority: "찰스 린드버그 자서전 『스피릿 오브 세인트루이스(The Spirit of St. Louis, 1953)』 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 인간공학(Human Factors Engineering) 연구"
 steps:
   - name: "1단계: 업무 5대 핵심 점검 항목의 서면 리스트화(Checklist Draft)"
-    text: "실수가 없어야 하는 중요 과업(발표 자료 준비, 계약서 점검, 이메일 발송 등)에서 치명적 오점을 남기기 쉬운 핵심 점검 요소 5~9개를 명확한 텍스트 리스트로 명시합니다."
+    text: "실수가 없어야 하는 중요 과업(발표 자료 준비, 계약서 점검, 이메일 발송 등)에서 치명적 오점을 남기기 쉬운 핵심 점검 요소 5 ~ 9개를 명확한 텍스트 리스트로 명시합니다."
   - name: "2단계: 손가락 일대일 대조(Physical Pointing) 및 순차적 체킹"
     text: "업무 최종 실행 직전 체크리스트를 눈앞에 두고, 손가락이나 커서로 1번 항목부터 차례로 짚어가며 실제 이행 여부를 판별하고 체크박스에 표시를 차분히 그려 나갑니다."
   - name: "3단계: 오류 피드백을 통한 체크리스트 영구 보완 완결"
@@ -61,7 +61,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">1단계: 업무 5대 핵심 점검 항목의 서면 리스트화(Checklist Draft)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    실수가 없어야 하는 중요 과업(발표 자료 준비, 계약서 점검, 이메일 발송 등)에서 치명적 오점을 남기기 쉬운 핵심 점검 요소 5~9개를 명확한 텍스트 리스트로 명시합니다.
+    실수가 없어야 하는 중요 과업(발표 자료 준비, 계약서 점검, 이메일 발송 등)에서 치명적 오점을 남기기 쉬운 핵심 점검 요소 5 ~ 9개를 명확한 텍스트 리스트로 명시합니다.
   </p>
 </div>
 
@@ -96,7 +96,7 @@ faqs:
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      아닙니다. 체크리스트 항목이 지나치게 길어지면 뇌가 피로감을 느끼고 항목을 건너뛰는 자동화 오류가 발생합니다. 가장 치명적인 실수가 발생할 수 있는 5~9개 내외의 핵심 항목으로 타이트하게 구성하는 것이 뇌과학적으로 가장 이상적입니다.
+      아닙니다. 체크리스트 항목이 지나치게 길어지면 뇌가 피로감을 느끼고 항목을 건너뛰는 자동화 오류가 발생합니다. 가장 치명적인 실수가 발생할 수 있는 5 ~ 9개 내외의 핵심 항목으로 타이트하게 구성하는 것이 뇌과학적으로 가장 이상적입니다.
     </p>
   </details>
   <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>

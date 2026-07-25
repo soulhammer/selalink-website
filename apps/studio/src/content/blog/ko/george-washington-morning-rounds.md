@@ -11,7 +11,7 @@ formatVersion: 4
 authority: "조지 워싱턴 평전 및 마운트 버넌(Mount Vernon) 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
 steps:
   - name: "1단계: 매일 측정할 핵심 정량 지표(KPI) 선정"
-    text: "기상 시간, 독서량(페이지), 코딩/업무 몰입 시간 등 내 하루 생산성을 가늠할 수 있는 2~3개의 객관적 항목을 규정합니다."
+    text: "기상 시간, 독서량(페이지), 코딩/업무 몰입 시간 등 내 하루 생산성을 가늠할 수 있는 2 ~ 3개의 객관적 항목을 규정합니다."
   - name: "2단계: 중간 점검을 통한 현장 및 프로세스 지표 진찰"
     text: "하루의 중간 지점인 오후나 일과 직전, 설정한 핵심 수치의 중간 진척 상황을 감정에 치우치지 않고 직관적으로 파악합니다."
   - name: "3단계: 일일 수치 기록(Logbook) 및 주간 추이 분석"
@@ -61,7 +61,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">1단계: 매일 측정할 핵심 정량 지표(KPI) 선정</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    기상 시간, 독서량(페이지), 코딩/업무 몰입 시간 등 내 하루 생산성을 가늠할 수 있는 2~3개의 객관적 항목을 규정합니다.
+    기상 시간, 독서량(페이지), 코딩/업무 몰입 시간 등 내 하루 생산성을 가늠할 수 있는 2 ~ 3개의 객관적 항목을 규정합니다.
   </p>
 </div>
 

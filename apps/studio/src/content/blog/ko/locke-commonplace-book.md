@@ -11,7 +11,7 @@ formatVersion: 4
 authority: "존 로크 저작 「새로운 커먼플레이스 북 색인법(A New Method of a Commonplace-Book, 1686)」 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 인지심리학(Cognitive Psychology) 연구"
 steps:
   - name: "1단계: 핵심 관심사 기반 대분류 카테고리(Index Category) 정립"
-    text: "자신이 주로 다루는 핵심 관심사 4~5개(예: 철학, 의학, 기획, 기술 등)를 정해 노트나 디지털 저장소 맨 앞에 명확한 대분류 인덱스로 사전에 설정합니다."
+    text: "자신이 주로 다루는 핵심 관심사 4 ~ 5개(예: 철학, 의학, 기획, 기술 등)를 정해 노트나 디지털 저장소 맨 앞에 명확한 대분류 인덱스로 사전에 설정합니다."
   - name: "2단계: 기록 수집 시 카테고리 태그 매핑 및 주소(Address) 할당"
     text: "새로운 정보를 기입할 때마다 상단에 지정해 둔 카테고리 태그(예: [#기술 - AI])를 의도적으로 매핑하여 기록합니다. 분류 주소를 부여하는 행위가 뇌의 인지 분류 모델을 활성화합니다."
   - name: "3단계: 주간·월간 인덱스 동기화 및 이종 지식 간 교차 연동(Cross-Linking) 완결"
@@ -61,7 +61,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">1단계: 핵심 관심사 기반 대분류 카테고리(Index Category) 정립</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    자신이 주로 다루는 핵심 관심사 4~5개(예: 철학, 의학, 기획, 기술 등)를 정해 노트나 디지털 저장소 맨 앞에 명확한 대분류 인덱스로 사전에 설정합니다.
+    자신이 주로 다루는 핵심 관심사 4 ~ 5개(예: 철학, 의학, 기획, 기술 등)를 정해 노트나 디지털 저장소 맨 앞에 명확한 대분류 인덱스로 사전에 설정합니다.
   </p>
 </div>
 

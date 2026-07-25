@@ -94,7 +94,7 @@ faqs:
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      지나치게 긴 시간 동안 차단 신호를 켜두는 것은 피해야 합니다. 집중 시간을 최대 50분~1시간으로 제한하고, 그 외의 시간에는 언제든 대화가 가능하다는 점을 적극적으로 실천해 신뢰를 주는 것이 중요합니다.
+      지나치게 긴 시간 동안 차단 신호를 켜두는 것은 피해야 합니다. 집중 시간을 최대 50분 ~ 1시간으로 제한하고, 그 외의 시간에는 언제든 대화가 가능하다는 점을 적극적으로 실천해 신뢰를 주는 것이 중요합니다.
     </p>
   </details>
 </div>

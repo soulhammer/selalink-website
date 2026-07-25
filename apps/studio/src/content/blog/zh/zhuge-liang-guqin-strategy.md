@@ -11,7 +11,7 @@ formatVersion: 4
 authority: "诸葛亮历史传记与文献考证及认知神经科学研究"
 steps:
   - name: "早晨聆听弦乐放松音乐"
-    text: "起床后播放5~10分钟伽倻琴、玄琴或古典弦乐演奏曲，配合深呼吸，清空大脑。"
+    text: "起床后播放5 ~ 10分钟伽倻琴、玄琴或古典弦乐演奏曲，配合深呼吸，清空大脑。"
   - name: "记录今天最核心的1项大战略"
     text: "在内心完全平静的状态下，从今天众多的待办事项中挑选出决定胜负的最关键1项任务记录在笔记本上。"
   - name: "夜间拓展视野与沉静重置"
@@ -61,7 +61,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">早晨聆听弦乐放松音乐</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    起床后播放5~10分钟伽倻琴、玄琴或古典弦乐演奏曲，配合深呼吸，清空大脑。
+    起床后播放5 ~ 10分钟伽倻琴、玄琴或古典弦乐演奏曲，配合深呼吸，清空大脑。
   </p>
 </div>
 

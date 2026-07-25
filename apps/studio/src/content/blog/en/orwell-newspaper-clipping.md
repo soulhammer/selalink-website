@@ -15,7 +15,7 @@ steps:
   - name: "Scraping via Digital or Physical Clipping"
     text: "While scanning information, capture sentences or data blocks deemed useful using tools, transferring them with category tags to a digital clipboard or a physical scrapbook."
   - name: "Cognitive Digestion: Writing a One-Line Internalization Note"
-    text: "Right below the clipped item, write a single sentence (~30 characters) explaining 'why you saved it' and 'how you will apply it to work or daily life'. This act completes brain encoding."
+    text: "Right below the clipped item, write a single sentence ( ~ 30 characters) explaining 'why you saved it' and 'how you will apply it to work or daily life'. This act completes brain encoding."
 faqs:
   - question: "Are George Orwell's actual scrapbooks preserved today?"
     answer: "Yes, articles collected by George Orwell, copies of his hand-clipped scrapbooks, and related working notes are preserved as valuable historical archives at University College London (UCL)."
@@ -81,7 +81,7 @@ Simply bookmarking links or saving good articles to a folder with a single click
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Cognitive Digestion: Writing a One-Line Internalization Note</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Right below the clipped item, write a single sentence (~30 characters) explaining 'why you saved it' and 'how you will apply it to work or daily life'. This act completes brain encoding.
+    Right below the clipped item, write a single sentence ( ~ 30 characters) explaining 'why you saved it' and 'how you will apply it to work or daily life'. This act completes brain encoding.
   </p>
 </div>
 

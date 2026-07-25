@@ -81,7 +81,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">아침: 정수리 보호 및 보온 실내 온도 세팅</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    머리 위 천문(Molera)에 압박이 생기지 않도록 정수리 터치를 금지하고, 추위에 취약한 치와와를 위해 실내 온도를 항상 24~26도 내외로 따뜻하게 확인합니다.
+    머리 위 천문(Molera)에 압박이 생기지 않도록 정수리 터치를 금지하고, 추위에 취약한 치와와를 위해 실내 온도를 항상 24 ~ 26도 내외로 따뜻하게 확인합니다.
   </p>
 </div>
 

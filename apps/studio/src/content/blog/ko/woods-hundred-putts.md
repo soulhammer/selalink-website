@@ -94,7 +94,7 @@ faqs:
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      그것은 초기 도전 목표가 자신의 현재 역량보다 지나치게 어려워 뇌가 절망 호르몬을 내보내기 때문이므로, 과제의 강도를 낮추어 성공 확률을 70~80% 수준으로 조율해야 합니다.
+      그것은 초기 도전 목표가 자신의 현재 역량보다 지나치게 어려워 뇌가 절망 호르몬을 내보내기 때문이므로, 과제의 강도를 낮추어 성공 확률을 70 ~ 80% 수준으로 조율해야 합니다.
     </p>
   </details>
 </div>

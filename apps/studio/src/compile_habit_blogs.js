@@ -1,8 +1,8 @@
 import fs from 'fs';
 import pathModule from 'path';
 import { fileURLToPath } from 'url';
-
 import { execSync } from 'child_process';
+import { cleanMarkdown } from './utils/compilerHelper.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = pathModule.dirname(__filename);
@@ -198,11 +198,11 @@ locales.forEach(lang => {
   let title = data.title?.[lang] || data.title?.['en'] || data.title?.['ko'] || "";
   let description = data.description?.[lang] || data.description?.['en'] || data.description?.['ko'] || "";
   let authority = data.authority?.[lang] || data.authority?.['en'] || data.authority?.['ko'] || "";
-  let intro = (data.intro?.[lang] || data.intro?.['en'] || data.intro?.['ko'] || "").replace(/\\n/g, '\n');
+  let intro = cleanMarkdown(data.intro?.[lang] || data.intro?.['en'] || data.intro?.['ko'] || "").replace(/\\n/g, '\n');
   let whyTitle = data.whyTitle?.[lang] || data.whyTitle?.['en'] || data.whyTitle?.['ko'] || "";
-  let whyDesc = (data.whyDesc?.[lang] || data.whyDesc?.['en'] || data.whyDesc?.['ko'] || "").replace(/\\n/g, '\n');
+  let whyDesc = cleanMarkdown(data.whyDesc?.[lang] || data.whyDesc?.['en'] || data.whyDesc?.['ko'] || "").replace(/\\n/g, '\n');
   let cautionTitle = data.cautionTitle?.[lang] || data.cautionTitle?.['en'] || data.cautionTitle?.['ko'] || "";
-  let cautionDesc = (data.cautionDesc?.[lang] || data.cautionDesc?.['en'] || data.cautionDesc?.['ko'] || "").replace(/\\n/g, '\n');
+  let cautionDesc = cleanMarkdown(data.cautionDesc?.[lang] || data.cautionDesc?.['en'] || data.cautionDesc?.['ko'] || "").replace(/\\n/g, '\n');
 
       let tags;
       if (data.tags?.[lang]) {
@@ -233,7 +233,7 @@ locales.forEach(lang => {
       if (data.steps && Array.isArray(data.steps)) {
         data.steps.forEach((step, idx) => {
           const stepName = step.name?.[lang] || step.name?.['en'] || step.name?.['ko'] || '';
-          const stepText = (step.text?.[lang] || step.text?.['en'] || step.text?.['ko'] || '').replace(/\\n/g, '\n');
+          const stepText = cleanMarkdown(step.text?.[lang] || step.text?.['en'] || step.text?.['ko'] || '').replace(/\\n/g, '\n');
 
           steps.push({ name: stepName, text: stepText });
 
@@ -257,7 +257,7 @@ locales.forEach(lang => {
       if (data.faqs && Array.isArray(data.faqs)) {
         data.faqs.forEach(faq => {
           const q = faq.question?.[lang] || faq.question?.['en'] || faq.question?.['ko'] || '';
-          const a = (faq.answer?.[lang] || faq.answer?.['en'] || faq.answer?.['ko'] || '').replace(/\\n/g, '\n');
+          const a = cleanMarkdown(faq.answer?.[lang] || faq.answer?.['en'] || faq.answer?.['ko'] || '').replace(/\\n/g, '\n');
           faqItems.push({ q, a });
         });
       }

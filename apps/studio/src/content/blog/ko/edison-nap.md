@@ -106,7 +106,7 @@ faqs:
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      금속 접시 대신 바닥에 소음이 적은 수건을 깔아두거나, 스마트폰의 1~2분 미니 타이머 알람을 활용하여 뇌가 깊은 수면 단계로 넘어가기 전 얕은 선잠 상태에서 살짝 깨어나도록 세팅하는 방식으로 충분히 대체할 수 있습니다.
+      금속 접시 대신 바닥에 소음이 적은 수건을 깔아두거나, 스마트폰의 1 ~ 2분 미니 타이머 알람을 활용하여 뇌가 깊은 수면 단계로 넘어가기 전 얕은 선잠 상태에서 살짝 깨어나도록 세팅하는 방식으로 충분히 대체할 수 있습니다.
     </p>
   </details>
 </div>

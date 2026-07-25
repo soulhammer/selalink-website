@@ -106,7 +106,7 @@ faqs:
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      네, 전혀 상관없습니다. 스케치는 관찰 대상을 정밀하게 시각화하기 위한 보조 도구일 뿐입니다. 그림을 전혀 그리지 못하더라도, 관찰한 대상의 색채, 질감, 형상, 변화를 2~3줄의 디테일한 언어적 단어로 서술하는 것만으로도 두뇌의 통합 인지 처리를 촉진하는 데 완벽합니다.
+      네, 전혀 상관없습니다. 스케치는 관찰 대상을 정밀하게 시각화하기 위한 보조 도구일 뿐입니다. 그림을 전혀 그리지 못하더라도, 관찰한 대상의 색채, 질감, 형상, 변화를 2 ~ 3줄의 디테일한 언어적 단어로 서술하는 것만으로도 두뇌의 통합 인지 처리를 촉진하는 데 완벽합니다.
     </p>
   </details>
 </div>

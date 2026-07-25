@@ -11,7 +11,7 @@ formatVersion: 4
 authority: "토니 모리슨 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
 steps:
   - name: "새벽 시각 고요 속에서의 기상"
-    text: "하루가 완전히 깨어나기 전의 고요한 시간(가급적 아침 5시~6시)에 일어납니다. 절대 스마트폰 화면이나 조명을 바로 켜지 않고 가만히 뇌를 깨웁니다."
+    text: "하루가 완전히 깨어나기 전의 고요한 시간(가급적 아침 5시 ~ 6시)에 일어납니다. 절대 스마트폰 화면이나 조명을 바로 켜지 않고 가만히 뇌를 깨웁니다."
   - name: "따뜻한 음료와 5분 여명 관찰"
     text: "따뜻한 커피나 차 한 잔을 내린 뒤, 서재나 거실 창가로 다가갑니다. 양손으로 잔의 따뜻함을 느끼며 외부 하늘의 푸르스름한 새벽빛과 여명이 드는 풍경을 5분간 온전히 응시합니다."
   - name: "스마트폰 없는 창의 아웃풋 실행"
@@ -63,7 +63,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">새벽 시각 고요 속에서의 기상</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    하루가 완전히 깨어나기 전의 고요한 시간(가급적 아침 5시~6시)에 일어납니다. 절대 스마트폰 화면이나 조명을 바로 켜지 않고 가만히 뇌를 깨웁니다.
+    하루가 완전히 깨어나기 전의 고요한 시간(가급적 아침 5시 ~ 6시)에 일어납니다. 절대 스마트폰 화면이나 조명을 바로 켜지 않고 가만히 뇌를 깨웁니다.
   </p>
 </div>
 
@@ -98,7 +98,7 @@ faqs:
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      꼭 완벽히 해가 뜨는 순간에 맞출 필요는 없습니다. 계절에 관계없이 해가 뜨기 직전의 어스름하고 고요한 공기가 충만한 시점(통상 오전 5시~6시 사이)이면 충분한 뇌의 인지 리셋 효과를 얻을 수 있습니다.
+      꼭 완벽히 해가 뜨는 순간에 맞출 필요는 없습니다. 계절에 관계없이 해가 뜨기 직전의 어스름하고 고요한 공기가 충만한 시점(통상 오전 5시 ~ 6시 사이)이면 충분한 뇌의 인지 리셋 효과를 얻을 수 있습니다.
     </p>
   </details>
   <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>

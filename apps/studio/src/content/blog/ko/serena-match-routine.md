@@ -92,7 +92,7 @@ faqs:
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      '신발 끈 특정 순서로 묶기', '심호흡 3회 하기', '특정 다짐 문구 소리 내어 말하기' 등 스스로 완전히 통제할 수 있는 일관된 기계적 행동 2~3단계를 설정하여 동일하게 반복하면 불안 제어에 큰 도움을 줍니다.
+      '신발 끈 특정 순서로 묶기', '심호흡 3회 하기', '특정 다짐 문구 소리 내어 말하기' 등 스스로 완전히 통제할 수 있는 일관된 기계적 행동 2 ~ 3단계를 설정하여 동일하게 반복하면 불안 제어에 큰 도움을 줍니다.
     </p>
   </details>
   <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>

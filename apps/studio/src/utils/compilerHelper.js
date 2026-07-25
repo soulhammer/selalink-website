@@ -21,7 +21,13 @@ export function parseKoSteps(koContent) {
 }
 
 export function cleanMarkdown(content) {
-  return content.replace(/\*\*/g, '');
+  if (!content) return '';
+  let cleaned = content.replace(/\*\*/g, '');
+  // 숫자 사이의 공백 없는 물결표(10~15)를 마크다운 취소선 오인 방지를 위해 (10 ~ 15)로 자동 변환
+  cleaned = cleaned.replace(/(\d)~(\d)/g, '$1 ~ $2');
+  // 문장 내 공백 없이 단어 사이에 사용된 물결표(단어~단어) 자동 정제
+  cleaned = cleaned.replace(/([^\s~])~([^\s~])/g, '$1 ~ $2');
+  return cleaned;
 }
 
 export function ensureDir(dirPath) {

@@ -13,7 +13,7 @@ steps:
   - name: "设定专注专用指定座位"
     text: "在家中、图书馆或常用的咖啡馆指定一个“专属座位”，仅在此处进行学习、写作等生产性认知工作。"
   - name: "分配专注时间块"
-    text: "每天设定固定时间段（如上午9~12点）作为专注时间块，在此期间屏蔽他人打扰和电子设备通知。"
+    text: "每天设定固定时间段（如上午9 ~ 12点）作为专注时间块，在此期间屏蔽他人打扰和电子设备通知。"
   - name: "出现目标外行为立即离开"
     text: "坐在座位上时严格仅进行学习/工作，若感到困倦或想查看手机，请立即起身离开该区域去休息。"
 faqs:
@@ -75,7 +75,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">分配专注时间块</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    每天设定固定时间段（如上午9~12点）作为专注时间块，在此期间屏蔽他人打扰和电子设备通知。
+    每天设定固定时间段（如上午9 ~ 12点）作为专注时间块，在此期间屏蔽他人打扰和电子设备通知。
   </p>
 </div>
 
@@ -100,7 +100,7 @@ faqs:
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      这因人而异。部分研究表明，约50~70分贝的适度白噪音会微弱分散大脑的听觉注意力，反常地刺激创造性解决问题的能力。然而最根本的并非是否安静，而是建立“每天在同一个地方开始同一种行为”的认知规则和锚定效应。
+      这因人而异。部分研究表明，约50 ~ 70分贝的适度白噪音会微弱分散大脑的听觉注意力，反常地刺激创造性解决问题的能力。然而最根本的并非是否安静，而是建立“每天在同一个地方开始同一种行为”的认知规则和锚定效应。
     </p>
   </details>
   <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>

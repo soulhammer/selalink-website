@@ -51,7 +51,7 @@ faqs:
 
 ## 안구 근육 피로를 방지하고 감각 집중을 유지하는 수칙
 
-미세한 대상을 너무 오랜 시간 관찰하여 눈 주변의 모양체 근육과 안구 신경에 지나친 긴장을 유발하지 않도록 주의해야 합니다. 매일 2~3분간 가볍고 부드러운 호흡 속에서 디테일 형태를 탐색하는 미니 루틴으로 충분한 효과를 볼 수 있습니다.
+미세한 대상을 너무 오랜 시간 관찰하여 눈 주변의 모양체 근육과 안구 신경에 지나친 긴장을 유발하지 않도록 주의해야 합니다. 매일 2 ~ 3분간 가볍고 부드러운 호흡 속에서 디테일 형태를 탐색하는 미니 루틴으로 충분한 효과를 볼 수 있습니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">

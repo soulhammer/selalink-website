@@ -97,7 +97,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">저녁: 단모종 전용 단모 슬리커 빗질 및 모질 관리</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    단모종이지만 털의 밀도가 매우 높으므로 주 1~2회 빗질로 죽은 속털을 제거하여 헤어볼 구토로 인한 위장 장애를 예방합니다.
+    단모종이지만 털의 밀도가 매우 높으므로 주 1 ~ 2회 빗질로 죽은 속털을 제거하여 헤어볼 구토로 인한 위장 장애를 예방합니다.
   </p>
 </div>
 

@@ -11,7 +11,7 @@ formatVersion: 4
 authority: "디오게네스 라에르티오스 『유명한 철학자들의 생애와 사상(Lives and Opinions of Eminent Philosophers)』 및 에피쿠로스 서간집 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
 steps:
   - name: "1단계: 심리적 장벽이 없는 소수 우정 모임 설계"
-    text: "가면을 쓸 필요가 없는 편안한 벗 2~3명을 엄선하여, 그들과 사적으로 주기적인 소모임 스케줄을 만듭니다."
+    text: "가면을 쓸 필요가 없는 편안한 벗 2 ~ 3명을 엄선하여, 그들과 사적으로 주기적인 소모임 스케줄을 만듭니다."
   - name: "2단계: 검소하고 자극 없는 소박한 식단 차리기"
     text: "거창한 외식 대신 물, 차, 소박한 샌드위치 등으로 가볍고 위장에 자극이 없는 무설탕 검소 식단을 마련합니다."
   - name: "3단계: 경계심 없는 개방형 지적 대화 진행"
@@ -59,7 +59,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">1단계: 심리적 장벽이 없는 소수 우정 모임 설계</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    가면을 쓸 필요가 없는 편안한 벗 2~3명을 엄선하여, 그들과 사적으로 주기적인 소모임 스케줄을 만듭니다.
+    가면을 쓸 필요가 없는 편안한 벗 2 ~ 3명을 엄선하여, 그들과 사적으로 주기적인 소모임 스케줄을 만듭니다.
   </p>
 </div>
 

@@ -11,7 +11,7 @@ formatVersion: 4
 authority: "엘리자베스 1세 번역 저작집 『Elizabeth I: Translations(Janel Mueller & Joshua Scodel)』 및 역사 평전 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
 steps:
   - name: "1단계: 라틴어 또는 타깃 고전 텍스트 선정"
-    text: "단순히 회화를 넘어서, 문장 구조가 정밀하고 복잡한 철학서, 명언집, 영문 명문 등 3~4문장의 실물 자료를 선정하여 아침 책상에 올려둡니다."
+    text: "단순히 회화를 넘어서, 문장 구조가 정밀하고 복잡한 철학서, 명언집, 영문 명문 등 3 ~ 4문장의 실물 자료를 선정하여 아침 책상에 올려둡니다."
   - name: "2단계: 30분간의 아날로그 수작업 직접 번역"
     text: "인터넷 번역기를 일절 끄고, 종이 사전이나 전자단어장만 사용하여 단어의 기원을 파악하며 공책에 직접 손으로 문장을 번역해 나갑니다."
   - name: "3단계: 논리 구조 비교 및 퇴고 정제"
@@ -61,7 +61,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">1단계: 라틴어 또는 타깃 고전 텍스트 선정</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    단순히 회화를 넘어서, 문장 구조가 정밀하고 복잡한 철학서, 명언집, 영문 명문 등 3~4문장의 실물 자료를 선정하여 아침 책상에 올려둡니다.
+    단순히 회화를 넘어서, 문장 구조가 정밀하고 복잡한 철학서, 명언집, 영문 명문 등 3 ~ 4문장의 실물 자료를 선정하여 아침 책상에 올려둡니다.
   </p>
 </div>
 

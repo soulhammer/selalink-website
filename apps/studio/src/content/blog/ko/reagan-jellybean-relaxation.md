@@ -96,7 +96,7 @@ faqs:
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      신경생리학 연구에 따르면 저작 운동을 시작하고 약 2~3분 이후부터 코르티솔 수치가 감소하고 뇌파가 이완성인 알파파(Alpha wave)로 전환되기 시작합니다. 따라서 최소한 2~3분 이상은 차분히 저작 운동에 집중해 주는 것이 효과를 보는 열쇠입니다.
+      신경생리학 연구에 따르면 저작 운동을 시작하고 약 2 ~ 3분 이후부터 코르티솔 수치가 감소하고 뇌파가 이완성인 알파파(Alpha wave)로 전환되기 시작합니다. 따라서 최소한 2 ~ 3분 이상은 차분히 저작 운동에 집중해 주는 것이 효과를 보는 열쇠입니다.
     </p>
   </details>
   <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>

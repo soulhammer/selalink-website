@@ -11,7 +11,7 @@ formatVersion: 4
 authority: "宫崎骏历史传记与访谈文献考证及认知神经科学（Cognitive Neuroscience）研究"
 steps:
   - name: "上班前指定一条轻松的晨间散步路线"
-    text: "每天早晨开始工作前，选择一条用时15~20分钟、树木葱茏的散步小径或小型公园路线。"
+    text: "每天早晨开始工作前，选择一条用时15 ~ 20分钟、树木葱茏的散步小径或小型公园路线。"
   - name: "散步途中整理并捡拾少量废弃垃圾"
     text: "绝不掏出手机，将视线投向周围环境，轻松捡拾目力所及的废弃空罐或纸屑，整理身边的环境。"
   - name: "以神清气爽的大脑状态切入创造性核心工作"
@@ -59,7 +59,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">上班前指定一条轻松的晨间散步路线</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    每天早晨开始工作前，选择一条用时15~20分钟、树木葱茏的散步小径或小型公园路线。
+    每天早晨开始工作前，选择一条用时15 ~ 20分钟、树木葱茏的散步小径或小型公园路线。
   </p>
 </div>
 

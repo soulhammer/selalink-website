@@ -108,7 +108,7 @@ faqs:
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      기존의 긴 훈련을 할 필요 없이 3~5분 정도의 짧고 굵은 몰입이 가장 효과적입니다. 뇌의 고도 집중력을 발휘하는 작업 기억 자원은 한정되어 있으므로, 발표 직전이나 미팅 5분 전에 핵심 과정만 집중적으로 시뮬레이션하는 것이 뇌 활성에 가장 이상적입니다.
+      기존의 긴 훈련을 할 필요 없이 3 ~ 5분 정도의 짧고 굵은 몰입이 가장 효과적입니다. 뇌의 고도 집중력을 발휘하는 작업 기억 자원은 한정되어 있으므로, 발표 직전이나 미팅 5분 전에 핵심 과정만 집중적으로 시뮬레이션하는 것이 뇌 활성에 가장 이상적입니다.
     </p>
   </details>
 </div>

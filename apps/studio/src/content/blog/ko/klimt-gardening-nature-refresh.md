@@ -11,7 +11,7 @@ formatVersion: 4
 authority: "구스타프 클림트 평전 및 아터제 아카이브(Attersee Archive) 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 환경심리학(Environmental Psychology) 연구"
 steps:
   - name: "1단계: 아침 야외 정원·공원 기동 및 아날로그 환경 조성"
-    text: "아침 기상 후 10~15분간 근처 정원, 공원, 혹은 베란다 화초가 있는 아날로그 공간으로 이동하여 자연 속에 조용히 섭니다."
+    text: "아침 기상 후 10 ~ 15분간 근처 정원, 공원, 혹은 베란다 화초가 있는 아날로그 공간으로 이동하여 자연 속에 조용히 섭니다."
   - name: "2단계: 식물 및 꽃잎의 프랙탈 패턴 3분 정밀 관찰"
     text: "하나의 꽃잎이나 나뭇잎을 가까이 들여다보며 줄기의 잎맥, 색상의 미세한 그러데이션, 유기적 프랙탈 문양에 3분간 시선을 조용히 고정합니다."
   - name: "3단계: 부드러운 매료(Soft Fascination)를 통한 전전두엽 주의력 리셋"
@@ -59,7 +59,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">1단계: 아침 야외 정원·공원 기동 및 아날로그 환경 조성</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    아침 기상 후 10~15분간 근처 정원, 공원, 혹은 베란다 화초가 있는 아날로그 공간으로 이동하여 자연 속에 조용히 섭니다.
+    아침 기상 후 10 ~ 15분간 근처 정원, 공원, 혹은 베란다 화초가 있는 아날로그 공간으로 이동하여 자연 속에 조용히 섭니다.
   </p>
 </div>
 

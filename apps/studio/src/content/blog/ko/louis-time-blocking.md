@@ -11,9 +11,9 @@ formatVersion: 4
 authority: "루이 14세 회고록 『왕세자를 위한 지침(Mémoires pour l'instruction du dauphin, 1670)』 및 생시몽 백작 회고록 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 인지심리학(Cognitive Psychology) 연구"
 steps:
   - name: "1단계: 시간대별 단일 과업 배정 및 타임 블로킹(Time Blocking) 구축"
-    text: "하루를 시작하기 전 수행해야 할 핵심 과업들을 시간대별 블록(예: 09:00~11:00 코딩 딥 워크)으로 명확히 구분하여 계획에 지정합니다."
+    text: "하루를 시작하기 전 수행해야 할 핵심 과업들을 시간대별 블록(예: 09:00 ~ 11:00 코딩 딥 워크)으로 명확히 구분하여 계획에 지정합니다."
   - name: "2단계: 일정 간 10~15분 완충 시간(Buffer Time) 및 인지적 여백 확보"
-    text: "시간 블로킹과 블록 사이에 10~15분 내외의 완충 시간을 의도적으로 배치하여, 예상치 못한 전화나 휴식 요구로 인한 일정 차질을 방지합니다."
+    text: "시간 블로킹과 블록 사이에 10 ~ 15분 내외의 완충 시간을 의도적으로 배치하여, 예상치 못한 전화나 휴식 요구로 인한 일정 차질을 방지합니다."
   - name: "3단계: 자극 차단 및 단일 블록 1과업 초몰입(Single-Tasking) 완결"
     text: "지정된 시간 블록이 시작되면 알림을 차단하고, 멀티태스킹을 철저히 배제한 채 약속된 단 하나의 과업에만 전전두엽 주의력을 집약합니다."
 faqs:
@@ -53,7 +53,7 @@ faqs:
 
 ## 완벽주의적 여백 없는 설계를 배제하고 완충 시간(Buffer Time)을 확보하는 수칙
 
-시간 블로킹 루틴의 가장 큰 함정은 1분의 오차도 허용하지 않으려는 빽빽한 시간표 세우기입니다. 예상치 못한 외부 변수로 시간이 지연될 때 전체 스케줄을 포기하게 만드는 무리한 완벽주의를 경계하세요. 일정 사이에 10~15분의 <strong>완충 시간(Buffer Time)</strong>을 의도적으로 배치하여 뇌의 <strong>인지적 유연성(Cognitive Flexibility)</strong>을 확보하는 것이 루틴 지속의 핵심입니다.
+시간 블로킹 루틴의 가장 큰 함정은 1분의 오차도 허용하지 않으려는 빽빽한 시간표 세우기입니다. 예상치 못한 외부 변수로 시간이 지연될 때 전체 스케줄을 포기하게 만드는 무리한 완벽주의를 경계하세요. 일정 사이에 10 ~ 15분의 <strong>완충 시간(Buffer Time)</strong>을 의도적으로 배치하여 뇌의 <strong>인지적 유연성(Cognitive Flexibility)</strong>을 확보하는 것이 루틴 지속의 핵심입니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -61,7 +61,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">1단계: 시간대별 단일 과업 배정 및 타임 블로킹(Time Blocking) 구축</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    하루를 시작하기 전 수행해야 할 핵심 과업들을 시간대별 블록(예: 09:00~11:00 코딩 딥 워크)으로 명확히 구분하여 계획에 지정합니다.
+    하루를 시작하기 전 수행해야 할 핵심 과업들을 시간대별 블록(예: 09:00 ~ 11:00 코딩 딥 워크)으로 명확히 구분하여 계획에 지정합니다.
   </p>
 </div>
 
@@ -71,7 +71,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">2단계: 일정 간 10~15분 완충 시간(Buffer Time) 및 인지적 여백 확보</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    시간 블로킹과 블록 사이에 10~15분 내외의 완충 시간을 의도적으로 배치하여, 예상치 못한 전화나 휴식 요구로 인한 일정 차질을 방지합니다.
+    시간 블로킹과 블록 사이에 10 ~ 15분 내외의 완충 시간을 의도적으로 배치하여, 예상치 못한 전화나 휴식 요구로 인한 일정 차질을 방지합니다.
   </p>
 </div>
 
@@ -96,7 +96,7 @@ faqs:
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      네, 완벽히 가능합니다! 하루 중 2~3회의 '긴급 대응 및 메시지 일괄 처리 블록'을 사전에 의도적으로 배정해두세요. 핵심 집중 블록 시간에는 방해 없이 딥 워크에 몰입하고, 대응 블록에서 돌발 업무를 일괄 처리(Batch Processing)함으로써 집중력의 분절을 효율적으로 차단할 수 있습니다.
+      네, 완벽히 가능합니다! 하루 중 2 ~ 3회의 '긴급 대응 및 메시지 일괄 처리 블록'을 사전에 의도적으로 배정해두세요. 핵심 집중 블록 시간에는 방해 없이 딥 워크에 몰입하고, 대응 블록에서 돌발 업무를 일괄 처리(Batch Processing)함으로써 집중력의 분절을 효율적으로 차단할 수 있습니다.
     </p>
   </details>
   <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
