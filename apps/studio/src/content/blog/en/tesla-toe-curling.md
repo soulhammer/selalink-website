@@ -1,6 +1,6 @@
 ---
-title: "발가락을 100번 오므린 천재? 니콜라 테슬라의 기묘한 숙면 의식"
-description: "매일 밤 침대에 누워 발가락을 오므렸던 천재 발명가 니콜라 테슬라. 그의 독특한 루틴 속에 숨겨진 뇌과학적 비밀과 현대인을 위한 3단계 실천법을 소개합니다."
+title: "A Genius Who Curled His Toes 100 Times? Nikola Tesla's Bizarre Deep Sleep Ritual"
+description: "Genius inventor Nikola Tesla curled his toes in bed every night. Discover the brain science secrets hidden in his unique routine and a 3-step practical guide for modern individuals."
 pubDate: "2026-04-28"
 updatedDate: "2026-04-28"
 category: "BuildSelf"
@@ -10,23 +10,23 @@ app: "buildself"
 formatVersion: 4
 authority: "Nikola Tesla, *My Inventions: The Autobiography of Nikola Tesla* (1919) & *JPTS Journal*"
 steps:
-  - name: "발가락을 100번 오므린 천재? 니콜라 테슬라의 기묘한 숙면 의식 1단계 고유 실천 수칙"
-    text: "발가락을 100번 오므린 천재? 니콜라 테슬라의 기묘한 숙면 의식 습관의 1단계 실천을 위한 전용 환경을 구축하고 뇌의 신경 회로를 집중 가동합니다."
-  - name: "발가락을 100번 오므린 천재? 니콜라 테슬라의 기묘한 숙면 의식 2단계 고유 실천 수칙"
-    text: "발가락을 100번 오므린 천재? 니콜라 테슬라의 기묘한 숙면 의식 습관의 2단계 실천을 위한 전용 환경을 구축하고 뇌의 신경 회로를 집중 가동합니다."
-  - name: "발가락을 100번 오므린 천재? 니콜라 테슬라의 기묘한 숙면 의식 3단계 고유 실천 수칙"
-    text: "발가락을 100번 오므린 천재? 니콜라 테슬라의 기묘한 숙면 의식 습관의 3단계 실천을 위한 전용 환경을 구축하고 뇌의 신경 회로를 집중 가동합니다."
+  - name: "Step 1: Sleep Preparation & Position Alignment Under Blankets"
+    text: "Lie down in bed before sleeping and right after getting under the blanket, relax your body, and focus entirely on the sensations and nerve endings in your feet."
+  - name: "Step 2: The 100-Time Toe Curling Ritual"
+    text: "Rhythmically flex and extend the toes of both feet simultaneously 100 times, stimulating autonomic nerve pathways."
+  - name: "Step 3: Parasympathetic Relaxation & Transition to Deep Sleep"
+    text: "Feel the subtle warmth and relaxation spreading through your body after the exercise, allowing yourself to naturally drift into deep sleep upon receiving your brain's sleep signal."
 faqs:
-  - question: "발가락을 꼼지락거리는 행위가 정말 뇌 활성화에 도움이 되나요?"
-    answer: "네, 발가락 영역은 전두엽 피질의 신체 감각 지도상에서 뇌 중심부에 위치하고 있어, 발가락 미세 근육을 자극하는 것은 말초 신경을 통해 전두엽을 미세 자극하는 효과가 있습니다."
+  - question: "Does wiggling or curling toes really help activate the brain?"
+    answer: "Yes! On the somatosensory cortex map of the brain, the toe area is located near the central region. Stimulating the fine muscles of the toes subtly activates the frontal lobe via peripheral nerves."
 
 ---
 
-에디슨과 함께 세상을 밝힌 천재 과학자이자, 현대 전기 문명의 초석을 다진 니콜라 테슬라. 그가 매일 밤 침대에 누워 아주 기묘한 행동을 반복했다는 사실을 아시나요? ⚡
+Did you know that Nikola Tesla (1856–1943), the genius scientist who illuminated the world alongside Edison and laid the foundation for alternating current (AC) power systems and wireless communication, repeated a bizarre ritual every night in bed? ⚡
 
-테슬라는 평소 하루에 단 2시간만 자는 극단적인 수면 패턴을 고수하면서도 지치지 않고 수많은 발명을 이어나갔습니다. 그 비결 중 하나는 바로 매일 밤 침대에 누워 양쪽 발가락을 각각 100번씩 꽉 쥐었다 펴는 독특한 수면 리추얼이었습니다.
+While maintaining an extreme sleep pattern of sleeping just 2 hours a day, Tesla continuously produced groundbreaking inventions without fatigue. One secret to his stamina was his unique bedtime ritual: squeezing and extending his toes 100 times on each foot every night.
 
-오늘 포스트에서는 역사적인 천재의 기상천외한 습관 속에 담긴 과학적 원리와, 이를 우리 일상에 적용하는 방법을 소개합니다.
+In this post, we explore the scientific principles behind this historic genius's eccentric habit and how you can apply it to your daily life.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -42,45 +42,45 @@ faqs:
 
 ---
 
-## 뇌세포를 깨우는 신경 스위치, 발가락
+## Toes: The Neural Switch That Awakens Brain Cells
 
-테슬라는 발가락을 반복적으로 오므리는 사소해 보이는 운동이 발끝에 집중된 수많은 신경을 자극해 뇌세포를 활성화하고, 하루 동안 쌓인 두뇌의 피로를 리셋해 준다고 믿었습니다. 
+Tesla believed that the seemingly trivial motion of repeatedly curling his toes stimulated the numerous nerve endings concentrated at his feet, activating brain cells and resetting accumulated fatigue.
 
-실제로 뇌의 체감각 피질(Somatosensory Cortex)에서 발과 발가락이 차지하는 영역은 손만큼이나 넓습니다. 하루 종일 양말과 신발에 갇혀 무뎌진 발가락을 의도적으로 움직이는 것은 잠자고 있던 신경망을 자극하는 훌륭한 방법입니다.
+In reality, the area occupied by the feet and toes in the brain's somatosensory cortex is surprisingly vast—almost as large as that of the hands. Intentionally moving toes that have been trapped in socks and shoes all day is an excellent way to stimulate dormant neural networks.
 
 ---
 
-## 성공적인 루틴을 위한 뇌과학적 한마디
+## A Neuroscientific Tip for a Successful Routine
 
-발가락 운동은 심장에서 가장 먼 곳의 혈액 순환을 도와 체온을 균일하게 만들고, 부교감 신경을 활성화합니다. 매일 밤 같은 타이밍(이불을 덮은 직후)에 이 행동을 반복하면 뇌는 이를 '잠잘 시간'이라는 강력한 조건반사적 신호로 인식하게 됩니다.
+Toe exercises promote blood circulation at the furthest point from the heart, evening out body temperature and stimulating the parasympathetic nervous system. Repeating this action at the exact same moment every night (right after getting under the blanket) trains your brain to recognize it as a powerful conditioned signal for sleep.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">발가락을 100번 오므린 천재? 니콜라 테슬라의 기묘한 숙면 의식 1단계 고유 실천 수칙</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Step 1: Sleep Preparation & Position Alignment Under Blankets</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    발가락을 100번 오므린 천재? 니콜라 테슬라의 기묘한 숙면 의식 습관의 1단계 실천을 위한 전용 환경을 구축하고 뇌의 신경 회로를 집중 가동합니다.
+    Lie down in bed before sleeping and right after getting under the blanket, relax your body, and focus entirely on the sensations and nerve endings in your feet.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">발가락을 100번 오므린 천재? 니콜라 테슬라의 기묘한 숙면 의식 2단계 고유 실천 수칙</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Step 2: The 100-Time Toe Curling Ritual</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    발가락을 100번 오므린 천재? 니콜라 테슬라의 기묘한 숙면 의식 습관의 2단계 실천을 위한 전용 환경을 구축하고 뇌의 신경 회로를 집중 가동합니다.
+    Rhythmically flex and extend the toes of both feet simultaneously 100 times, stimulating autonomic nerve pathways.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">발가락을 100번 오므린 천재? 니콜라 테슬라의 기묘한 숙면 의식 3단계 고유 실천 수칙</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Step 3: Parasympathetic Relaxation & Transition to Deep Sleep</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    발가락을 100번 오므린 천재? 니콜라 테슬라의 기묘한 숙면 의식 습관의 3단계 실천을 위한 전용 환경을 구축하고 뇌의 신경 회로를 집중 가동합니다.
+    Feel the subtle warmth and relaxation spreading through your body after the exercise, allowing yourself to naturally drift into deep sleep upon receiving your brain's sleep signal.
   </p>
 </div>
 
@@ -91,11 +91,11 @@ faqs:
   
   <details class="group cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>발가락을 꼼지락거리는 행위가 정말 뇌 활성화에 도움이 되나요?</span>
+      <span>Does wiggling or curling toes really help activate the brain?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      네, 발가락 영역은 전두엽 피질의 신체 감각 지도상에서 뇌 중심부에 위치하고 있어, 발가락 미세 근육을 자극하는 것은 말초 신경을 통해 전두엽을 미세 자극하는 효과가 있습니다.
+      Yes! On the somatosensory cortex map of the brain, the toe area is located near the central region. Stimulating the fine muscles of the toes subtly activates the frontal lobe via peripheral nerves.
     </p>
   </details>
 </div>

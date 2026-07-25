@@ -1,6 +1,6 @@
 ---
-title: "천재의 뇌를 리셋하는 레이스? 앨런 튜링의 러닝 루틴"
-description: "에니그마 암호를 해독한 컴퓨터 과학의 아버지 앨런 튜링. 매일 16km를 뛰며 뇌 과부하를 해소하고 신경세포를 활성화했던 그의 러닝 습관과 과학적 배경을 알아봅니다."
+title: "A Race to Reset a Genius Mind? Alan Turing's Running Routine"
+description: "Alan Turing, the father of computer science who deciphered the Enigma code. Learn about his running habit of running 16km daily to relieve brain overload and stimulate neural cells, along with its scientific background."
 pubDate: "2026-02-02"
 updatedDate: "2026-02-02"
 category: "BuildSelf"
@@ -8,29 +8,29 @@ tags: ["위인 습관", "앨런튜링", "달리기", "러닝", "뇌피로해소"
 heroImage: "/images/blog/turing_marathon_running.webp"
 app: "buildself"
 formatVersion: 4
-authority: "앨런 튜링 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+authority: "Historical biographies and autobiographical records of Alan Turing & Cognitive Neuroscience research"
 steps:
-  - name: "1단계: 디지털 차단과 러닝 시작"
-    text: "스마트폰의 음악이나 팟캐스트 스트리밍을 켜지 않고, 스마트폰을 주머니에 넣거나 방해 금지 모드로 설정하여 외부 디지털 자극을 완전히 끊고 달리기 시작합니다."
-  - name: "2단계: 대화 가능한 일정한 페이스 유지"
-    text: "30분 동안 호흡이 살짝 가쁘지만 옆 사람과 가볍게 말을 주고받을 수 있는 일정한 페이스(심박수 영역 2)를 일관되게 유지하며 달립니다."
-  - name: "3단계: 러닝 후 쿨다운 및 떠오른 아이디어 아날로그 메모"
-    text: "러닝을 마친 뒤 가벼운 스트레칭과 호흡으로 몸을 식히고, 전두엽이 해방된 상태에서 무의식적으로 떠오른 생각이나 해결책을 수첩에 아날로그 손필기로 적습니다."
+  - name: "Step 1: Digital Disconnection and Starting the Run"
+    text: "Start running without streaming music or podcasts, putting your smartphone in your pocket or setting it to Do Not Disturb mode to completely block external digital stimuli."
+  - name: "Step 2: Maintaining a Conversational Steady Pace"
+    text: "Run consistently for 30 minutes at a steady pace (Heart Rate Zone 2) where your breathing is slightly elevated but you can still converse comfortably with someone beside you."
+  - name: "Step 3: Post-Run Cooldown and Analog Note-Taking of Ideas"
+    text: "After running, cool down with light stretching and breathing exercises, then write down ideas or solutions that surfaced from your subconscious onto a paper notebook by hand."
 faqs:
-  - question: "러닝 대신 실내 고정 자전거나 수영을 해도 뇌 환기 효과는 동일한가요?"
-    answer: "네, 심폐 기능이 개입되어 BDNF 수치를 높일 수 있는 지속적인 유산소 운동이라면 자전거나 수영도 유사한 인지 회복 효과를 제공합니다. 다만, 야외 러닝처럼 자연 경관과 바람 등의 오감 자극이 뇌로 전달될 때 기본 모드 네트워크(DMN)의 이완 및 아이디어 활성화 효과가 극대화됩니다."
-  - question: "달리는 동안 음악을 들으면 뇌 회복에 방해가 되나요?"
-    answer: "가사나 격렬한 비트가 있는 음악은 전두엽이 소리 정보를 청각적으로 여과하고 분석하게 하여 뇌의 완전한 휴식을 방해합니다. 자연의 소리를 그대로 듣거나 음악 없이 호흡에만 집중하는 것이 DMN을 가장 온전하게 활성화하고 주의력을 재충전하는 비결입니다."
+  - question: "Does stationary cycling or swimming produce the same brain refresh effect as running?"
+    answer: "Yes, any continuous aerobic exercise that engages cardiopulmonary function and raises BDNF levels, such as cycling or swimming, provides similar cognitive recovery benefits. However, outdoor running maximizes the relaxation and idea activation of the Default Mode Network (DMN) when sensory stimuli like wind and natural scenery reach the brain."
+  - question: "Does listening to music while running hinder brain recovery?"
+    answer: "Music with lyrics or intense beats forces the prefrontal cortex to auditorily filter and process information, preventing complete brain rest. Listening to natural ambient sounds or focusing solely on your breathing without music is the key to fully activating the DMN and recharging attention."
 
 ---
 
-"나에게 러닝은 복잡한 마음을 비워내고 온전한 생각에 잠기게 하는 가장 아름다운 시간이다." 🏃‍♂️
+"For me, running is the most beautiful time to clear my complex mind and immerse myself in pure thought." 🏃‍♂️
 
-제2차 세계대전 당시 악명 높았던 독일군의 에니그마 암호를 해독하고 컴퓨터 과학의 토대를 다진 영국의 천재 수학자, 앨런 튜링. 그는 온갖 복잡한 계산과 기계 설계, 암호 분석 때문에 언제나 뇌의 과부하에 시달렸습니다. 이처럼 엄청난 지적 압박 속에서 그가 정신적 평형을 유지하고 창조적 발상을 이어갈 수 있었던 비결은 다름 아닌 '마라톤 러닝'이었습니다.
+Alan Turing (1912–1954), the brilliant British mathematician who deciphered the notorious German Enigma code during World War II and laid the foundations of computer science, constantly suffered from brain overload due to complex calculations, machine designs, and cryptanalysis. Amid such immense intellectual pressure, the secret that allowed him to maintain mental equilibrium and sustain creative ideas was none other than 'marathon running'.
 
-튜링은 매일 10마일(약 16km) 이상을 달리는 혹독한 장거리 러닝 루틴을 유지했습니다. 실제로 그는 1948년 영국 마라톤 국가대표 선발전에서 2시간 46분 3초라는 준수한 기록으로 5위를 차지할 정도로 프로급 주자였습니다. 튜링에게 달리기는 단순한 운동이 아니라, 전두엽의 인지 활동을 멈추고 뇌를 정화하는 필수적인 사색의 통로였습니다.
+Turing maintained a rigorous long-distance running routine of running over 10 miles (approx. 16 km) every day. In fact, he was an elite runner who finished 5th in the 1948 British Olympic marathon trials with an impressive time of 2 hours, 46 minutes, and 3 seconds. For Turing, running was not merely exercise, but an essential pathway of contemplation that paused prefrontal cognitive activity and purified the brain.
 
-오늘 포스트에서는 앨런 튜링의 러닝 루틴의 신경과학적 메커니즘과 현대인을 위한 지적 각성용 30분 러닝 가이드를 알아봅니다.
+In today's post, we examine the neuroscientific mechanisms behind Alan Turing's running routine and provide a 30-minute running guide for intellectual awakening in modern individuals.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -39,52 +39,52 @@ faqs:
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding turing-marathon-running is based on <strong>앨런 튜링 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>.
+      This analysis regarding turing-marathon-running is based on <strong>Historical biographies and autobiographical records of Alan Turing & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 유산소 운동이 촉진하는 뇌세포 생성과 인지 환기
+## Aerobic Exercise Promoting Neurogenesis and Cognitive Refreshment
 
-매일 꾸준히 달리는 유산소 운동은 뇌 건강에 결정적인 물질인 <strong>뇌유래신경영양인자(BDNF)</strong>의 합성을 유도합니다. BDNF는 기억과 학습을 담당하는 해마 영역에서 새로운 신경세포(Neuron) 생성을 촉진하여 인지적 작업 기억 공간을 넓힙니다.
+Consistent daily aerobic running induces the synthesis of <strong>Brain-Derived Neurotrophic Factor (BDNF)</strong>, a crucial substance for brain health. BDNF promotes the generation of new neurons in the hippocampus, which handles memory and learning, expanding cognitive working memory space.
 
-또한 달리는 동안 뇌의 인지적 통제를 맡은 전두엽은 일시적인 휴식 상태로 전환되며, 이때 무의식적 자원을 활용하는 <strong>기본 모드 네트워크(DMN)</strong>가 자극받습니다. 이 현상 덕분에 머리를 싸매고 고민할 때 풀리지 않던 어려운 연산이나 창조적 아이디어가 달리기를 마친 직후 번뜩이며 활성화되는 복원 효과를 거두게 됩니다.
+Furthermore, while running, the prefrontal cortex responsible for cognitive control enters a temporary resting state, stimulating the <strong>Default Mode Network (DMN)</strong> that utilizes subconscious resources. Thanks to this phenomenon, complex calculations or creative ideas that remained unsolved when racking one's brain suddenly spark and activate immediately after finishing a run.
 
 ---
 
-## 주의력 환기를 위한 페이스 통제
+## Pacing Control for Optimal Cognitive Awakening
 
-두뇌를 환기하기 위한 러닝에서는 페이스 조절이 매우 중요합니다. 지나치게 격렬하게 뛰어 심장이 터질 것 같은 무산소 역치 상태에 도달하면, 뇌는 신체 생존에만 온 인지 자원을 쏟아부어 사색과 DMN 활성화를 방해합니다. 옆 사람과 가벼운 대화가 가능한 정도의 페이스로 일정하게 뛰는 것이 효과적입니다.
+Pacing control is vital during running intended to refresh the brain. If you run excessively hard and reach an anaerobic threshold state where your heart feels like bursting, the brain devotes all cognitive resources purely to physical survival, hindering contemplation and DMN activation. Running steadily at a pace where light conversation is possible is most effective.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">1단계: 디지털 차단과 러닝 시작</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Step 1: Digital Disconnection and Starting the Run</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    스마트폰의 음악이나 팟캐스트 스트리밍을 켜지 않고, 스마트폰을 주머니에 넣거나 방해 금지 모드로 설정하여 외부 디지털 자극을 완전히 끊고 달리기 시작합니다.
+    Start running without streaming music or podcasts, putting your smartphone in your pocket or setting it to Do Not Disturb mode to completely block external digital stimuli.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">2단계: 대화 가능한 일정한 페이스 유지</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Step 2: Maintaining a Conversational Steady Pace</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    30분 동안 호흡이 살짝 가쁘지만 옆 사람과 가볍게 말을 주고받을 수 있는 일정한 페이스(심박수 영역 2)를 일관되게 유지하며 달립니다.
+    Run consistently for 30 minutes at a steady pace (Heart Rate Zone 2) where your breathing is slightly elevated but you can still converse comfortably with someone beside you.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">3단계: 러닝 후 쿨다운 및 떠오른 아이디어 아날로그 메모</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Step 3: Post-Run Cooldown and Analog Note-Taking of Ideas</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    러닝을 마친 뒤 가벼운 스트레칭과 호흡으로 몸을 식히고, 전두엽이 해방된 상태에서 무의식적으로 떠오른 생각이나 해결책을 수첩에 아날로그 손필기로 적습니다.
+    After running, cool down with light stretching and breathing exercises, then write down ideas or solutions that surfaced from your subconscious onto a paper notebook by hand.
   </p>
 </div>
 
@@ -95,21 +95,21 @@ faqs:
   
   <details class="group cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>러닝 대신 실내 고정 자전거나 수영을 해도 뇌 환기 효과는 동일한가요?</span>
+      <span>Does stationary cycling or swimming produce the same brain refresh effect as running?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      네, 심폐 기능이 개입되어 BDNF 수치를 높일 수 있는 지속적인 유산소 운동이라면 자전거나 수영도 유사한 인지 회복 효과를 제공합니다. 다만, 야외 러닝처럼 자연 경관과 바람 등의 오감 자극이 뇌로 전달될 때 기본 모드 네트워크(DMN)의 이완 및 아이디어 활성화 효과가 극대화됩니다.
+      Yes, any continuous aerobic exercise that engages cardiopulmonary function and raises BDNF levels, such as cycling or swimming, provides similar cognitive recovery benefits. However, outdoor running maximizes the relaxation and idea activation of the Default Mode Network (DMN) when sensory stimuli like wind and natural scenery reach the brain.
     </p>
   </details>
   <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>달리는 동안 음악을 들으면 뇌 회복에 방해가 되나요?</span>
+      <span>Does listening to music while running hinder brain recovery?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      가사나 격렬한 비트가 있는 음악은 전두엽이 소리 정보를 청각적으로 여과하고 분석하게 하여 뇌의 완전한 휴식을 방해합니다. 자연의 소리를 그대로 듣거나 음악 없이 호흡에만 집중하는 것이 DMN을 가장 온전하게 활성화하고 주의력을 재충전하는 비결입니다.
+      Music with lyrics or intense beats forces the prefrontal cortex to auditorily filter and process information, preventing complete brain rest. Listening to natural ambient sounds or focusing solely on your breathing without music is the key to fully activating the DMN and recharging attention.
     </p>
   </details>
 </div>

@@ -1,70 +1,214 @@
 {
   "magritte-suit-painting": {
     "title": {
-      "ko": "옷차림의 심리학: 르네 마그리트의 정장 집필 루틴"
+      "ko": "옷차림의 심리학: 르네 마그리트의 정장 작업 루틴",
+      "en": "Psychology of Attire: René Magritte's Suit Painting Routine",
+      "ja": "服装の心理学：ルネ・マグリットのスーツ執筆・創作ルーティン",
+      "zh": "着装心理学：勒内·马格里特的正装创作习惯",
+      "es": "Psicología de la vestimenta: La rutina de trabajo en traje de René Magritte",
+      "de": "Psychologie der Kleidung: René Magrittes Anzug-Malroutine",
+      "fr": "Psychologie de la tenue : La routine de création en costume de René Magritte",
+      "pt": "Psicologia do Vestuário: A Rotina de Pintura de Terno de René Magritte",
+      "id": "Psikologi Pakaian: Rutinitas Bekerja dengan Setelan Jas René Magritte"
     },
     "description": {
-      "ko": "매일 정장을 단정하게 입고 거실 이젤 앞에서 흐트러짐 없이 그림을 그렸던 초현실주의 화가 르네 마그리트. 입는 옷이 뇌에 미치는 인지적 피드백 효과인 착의 인지(Enclothed Cognition)를 밝힙니다."
+      "ko": "매일 정장을 단정하게 입고 거실 이젤 앞에서 흐트러짐 없이 그림을 그렸던 초현실주의 화가 르네 마그리트. 입는 옷이 뇌에 미치는 인지적 피드백 효과인 착의 인지(Enclothed Cognition)를 밝힙니다.",
+      "en": "René Magritte, the surrealist painter who wore a neat suit every day in front of his living room easel. Unveils 'Enclothed Cognition'—the cognitive feedback effect that clothing exerts on the brain.",
+      "ja": "毎日スーツを端正に着こなし、居間のイーゼルの前で乱れなく絵を描いたシュルレアリスムの画家ルネ・マグリット。 着る服が脳に与える法的フィードバック効果「着衣認知（Enclothed Cognition）」を明かします。",
+      "zh": "每天身着整洁正装在客厅画架前沉稳作画的超现实主义画家勒内·马格里特。揭示服装对大脑产生的认知反馈效应——着装认知（Enclothed Cognition）。",
+      "es": "René Magritte, el pintor surrealista que vestía un traje impecable cada día ante el caballete de su salón. Revela la 'Cognición Envestida' (Enclothed Cognition): el efecto del vestuario sobre la mente.",
+      "de": "René Magritte, der surrealistische Maler, der jeden Tag im eleganten Anzug vor seiner Staffelei im Wohnzimmer malte. Enthüllt die 'Kleidungs-Kognition' (Enclothed Cognition) und ihre Wirkung auf das Gehirn.",
+      "fr": "René Magritte, le peintre surréaliste qui peignait chaque jour en costume élégant devant son chevalet. Dévoile la 'Cognition enfilée' (Enclothed Cognition), l'impact des vêtements sur le cerveau.",
+      "pt": "René Magritte, o pintor surrealista que vestia um terno impecável todos os dias diante de seu cavalete. Revela a 'Cognição Vestida' (Enclothed Cognition), o efeito psicológico das roupas no cérebro.",
+      "id": "René Magritte, pelukis surealis yang mengenakan setelan jas rapi setiap hari di depan kanvas ruang tamunya. Mengungkap 'Enclothed Cognition'—efek umpan balik kognitif pakaian terhadap otak."
     },
     "authority": {
-      "ko": "르네 마그리트 평전 및 벨기에 왕립 미술관(Royal Museums of Fine Arts of Belgium) 아카이브 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 인지심리학(Cognitive Psychology) 연구"
+      "ko": "르네 마그리트 평전 및 벨기에 왕립 미술관(Royal Museums of Fine Arts of Belgium) 아카이브 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 인지심리학(Cognitive Psychology) 연구",
+      "en": "Historical records from René Magritte biographies & Royal Museums of Fine Arts of Belgium archives, alongside Cognitive Neuroscience and Cognitive Psychology research",
+      "ja": "ルネ・マグリット伝記およびベルギー王立美術館（Royal Museums of Fine Arts of Belgium）アーカイブ考証＆認知神経科学・認知心理学研究",
+      "zh": "勒内·马格里特传记及比利时皇家美术馆（Royal Museums of Fine Arts of Belgium）档案馆史料考证与认知神经科学及认知心理学研究",
+      "es": "Archivos del Museo Real de Bellas Artes de Bélgica y biografías de René Magritte junto con investigaciones en Neurociencia Cognitiva y Psicología Cognitiva",
+      "de": "Historische Biografien & Archive der Königlichen Museen der Schönen Künste von Belgien sowie Kognitive Neurowissenschaften und Kognitionspsychologie",
+      "fr": "Archives des Musées royaux des Beaux-Arts de Belgique et biographies de René Magritte, complétées par la recherche en neurosciences cognitives et psychologie cognitive",
+      "pt": "Registros dos Museus Reais de Belas Artes da Bélgica e biografias de René Magritte com pesquisas em Neurociência Cognitiva e Psicologia Cognitiva",
+      "id": "Rekam historis dari biografi René Magritte & arsip Royal Museums of Fine Arts of Belgium, serta penelitian Neurosains Kognitif dan Psikologi Kognitif"
     },
     "intro": {
-      "ko": "\"나는 예술을 위해 내 일상을 광기로 채울 필요가 없다. 내 일상이 극도로 단순하고 단정할 때, 내 캔버스 속 초현실주의는 비로소 날카로운 설득력을 얻는다.\" 🎩\n\n파이프가 그려진 그림 밑에 '이것은 파이프가 아니다'라고 적어 고정관념을 전복시킨 벨기에의 전설적인 초현실주의 거장 르네 마그리트. 세상을 기이하게 뒤흔든 그의 예술적 발상과 달리, 그의 실제 일상생활은 지독할 정도로 단정하고 규칙적이었습니다. 그는 밤샘 작업이나 물감을 뒤집어쓰는 난해한 고독 속에서 방황하던 다른 예술가들과 달리, 매일 아침 마치 은행에 출근하는 신사처럼 깔끔하게 어두운 정장(Suit)을 차려입고 중절모를 쓴 채 거실 한구석에 마련한 이젤 앞에 섰습니다. 그는 물감 한 방울도 옷이나 양탄자에 묻히지 않는 정교함과 규칙적인 시간 관리로 그림을 그렸습니다. 뇌과학적으로 이 옷차림 의식이 뇌의 집중력을 어떻게 점화하는지 밝혀냅니다.\n\n재택근무를 하거나 프리랜서로 일하는 현대인들은 업무와 사생활의 경계선이 붕괴되는 경험을 자주 합니다. 편안한 트레이닝복이나 잠옷 차림으로 침대 바로 옆 책상에 앉을 때, 우리의 뇌는 이완(쉬는 모드)과 각성(일하는 모드) 사이에서 방황하며 인지적 혼란을 겪게 됩니다. 의식의 긴장을 팽팽하게 당길 수 있는 환경적, 신체적 전환 장치가 부재하기 때문입니다.\n\n오늘 포스트에서는 르네 마그리트의 정장 집필 루틴이 의복 착용을 통해 뇌파와 심리 상태를 어떻게 통제하는가 분석하고, 현대 재택 지식 근로자들이 일상 공간 속에서 즉각 딥워크 기어로 전환하는 3단계 실천 방안을 제시합니다."
+      "ko": "\"나는 예술을 위해 내 일상을 광기로 채울 필요가 없다. 내 일상이 극도로 단순하고 단정할 때, 내 캔버스 속 초현실주의는 비로소 날카로운 설득력을 얻는다.\" 🎩\n\n파이프 그림 밑에 '이것은 파이프가 아니다(Ceci n'est pas une pipe)'라고 적어 관습적 사고를 전복시킨 벨기에의 대표적인 초현실주의 거장 르네 마그리트(René Magritte, 1898–1967). 세상을 기이하게 뒤흔든 그의 유기적이고 독창적인 작품 세계와 달리, 그의 실제 일상생활은 지독할 정도로 단정하고 규칙적이었습니다.\n\n마그리트는 밤샘 작업이나 물감을 뒤집어쓰며 방황하던 보헤미안 예술가들과 전혀 달랐습니다. 매일 아침 마치 은행이나 정류장으로 출근하는 신사처럼 깔끔하게 어두운 정장(Suit)을 차려입고 중절모(Bowler hat)를 쓴 채 브뤼셀 자택 거실 한구석에 마련한 이젤 앞에 섰습니다. 그는 양탄자나 옷에 물감 한 방울조차 묻히지 않는 정교함과 엄격한 시간 관리로 작품을 완성했습니다. 뇌과학적으로 이 옷차림 의식은 뇌의 전전두엽 인지 제어 시스템을 자극하여 집중력을 직관적으로 가동시킵니다.\n\n재택근무를 하거나 자유롭게 작업하는 현대인들은 업무와 사생활의 경계선이 무너지는 경험을 자주 합니다. 편안한 트레이닝복이나 잠옷 차림으로 침대 옆 책상에 앉을 때, 우리의 뇌는 이완(쉬는 모드)과 각성(일하는 모드) 사이에서 방황하며 인지적 혼란을 겪게 됩니다. 의식의 긴장을 당겨주는 환경적, 신체적 전환 장치가 부재하기 때문입니다.\n\n오늘 포스트에서는 르네 마그리트의 정장 작업 루틴이 의복 착용을 통해 뇌파와 심리 상태를 어떻게 통제하는지 분석하고, 현대 지식 근로자들이 일상 공간 속에서 즉각 딥워크 기어로 전환하는 3단계 실천 방안을 제시합니다.",
+      "en": "\"I don't need to fill my daily life with madness for art. When my daily life is extremely simple and neat, the surrealism on my canvas gains sharp persuasiveness.\" 🎩\n\nRené Magritte (1898–1967) was Belgium's master surrealist painter who overturned conventional thinking by writing 'This is not a pipe' beneath a painting of a pipe. In contrast to his bizarre, reality-deconstructing artistic visions, his daily routine was notoriously neat and disciplined.\n\nMagritte differed completely from bohemian artists who pulled all-nighters covered in paint. Every morning, dressed in a dark suit and bowler hat like a gentleman commuting to an office, he stood before an easel in a corner of his Brussels dining room. He completed his paintings with mathematical precision, never spilling a drop of paint on his clothes or rug. From a brain science perspective, this dress ritual stimulates the prefrontal cortex's cognitive control system, intuitively switching the brain into work mode.\n\nModern remote workers frequently experience blurred boundaries between work and life. Sitting at a desk in comfortable pajamas causes cognitive confusion as the brain wanders between relaxation and arousal due to the lack of a physical gear-shift device.\n\nThis post analyzes how Magritte's suit painting routine controls brain waves and psychology through clothing, presenting a 3-step guide for knowledge workers to instantly switch into Deep Work mode.",
+      "ja": "「芸術のために日常を狂気で満たす必要はない。日常が極めてシンプルで端正であるとき、私のキャンバスの中のシュルレアリスムは鋭い説得力を得る。」 🎩\n\nパイプの絵の下に「これはパイプではない（Ceci n'est pas une pipe）」と書き込み固定観念を覆したベルギーの超現実主義の巨匠ルネ・マグリット（1898–1967）。 世界を奇妙に揺さぶった彼の独創的な作品世界とは対照的に、彼の実際の日常生活は非常に端正で規則的でした。\n\n絵の具まみれで徹夜作業をするボヘミアン芸術家たちとは異なり、マグリットは毎朝、オフィスへ通勤する紳士のようにダークスーツを着こなし、山高帽をかぶってブリュッセルの自宅の居間にあるイーゼルの前に立ちました。絨毯や服に絵の具一滴落とさない精巧さと時間管理で作品を仕上げました。脳科学的にこの服装の儀式は前頭葉の認知制御システムを刺激し、集中力を直感的に起動させます。\n\n在宅勤務を行う現代人は、仕事とプライベートの境界線が崩れる経験をよくします。パジャマ姿でデスクに向かうと、物理的な切り替えスイッチがないため、脳はリラックス状態と覚醒状態の間で混乱します。\n\n本記事では、マグリットのスーツ作業ルーティンが衣類着用を通じて脳波と心理状態をどのようにコントロールするのかを分析し、即座にディープ・ワークモードへ切り替える3ステップ実践法を提示します。",
+      "zh": "“我不需要为了艺术而让日常生活充满狂乱。当我的日常极其简单而整洁时，我画布上的超现实主义才具备锋利的说服力。” 🎩\n\n比利时超现实主义巨匠勒内·马格里特（René Magritte，1898–1967）在一幅烟斗画下方写下“这不是一只烟斗（Ceci n'est pas une pipe）”，以此颠覆常人思维。与他惊世骇俗的解构艺术不同，他的日常生活出奇地整洁而有规律。\n\n马格里特与那些浑身沾满颜料、熬夜作画的波西米亚式艺术家截然不同。每天早晨，他像一位前往银行上班的绅士一样，穿上整洁的深色西装，戴上圆顶硬礼帽，站在布鲁塞尔家中客厅一角置办的画架前。他以不让一滴颜料沾到衣服或地毯上的精准度与严谨的时间管理完成画作。从脑科学的角度来看，这种着装仪式刺激了前额叶皮层的认知控制系统，直观地启动了大脑的工作模式。\n\n在居家办公的现代人常经历工作与生活界限模糊的困扰。穿着睡衣坐在桌前时，由于缺乏物理切换装置，大脑会在放松与警觉之间游移不决。\n\n本篇文章分析马格里特的正装创作习惯如何通过着装控制脑电波与心理状态，并为知识型工作者提供快速切换至深度工作模式的3步实操指南。",
+      "es": "\"No necesito llenar mi vida diaria de locura por el arte. Cuando mi vida cotidiana es extremadamente simple y pulcra, el surrealismo en mi lienzo adquiere una fuerza persuasiva implacable.\" 🎩\n\nRené Magritte (1898–1967), el maestro surrealista belga que revolucionó el pensamiento al escribir 'Esto no es una pipa' bajo la imagen de una pipa. En contraste con sus visiones artísticas extrañas, su vida diaria era extraordinariamente metódica y ordenada.\n\nA diferencia de los artistas bohemios que pasaban la noche en vela manchados de pintura, Magritte se vestía cada mañana con un traje oscuro impecable y sombrerete, como un caballero que acude a la oficina, e iba al caballete en la esquina de su salón en Bruselas. Pintaba con precisión matemática sin derramar una sola gota sobre la alfombra. Desde la neurociencia, este ritual del vestir estimula el sistema de control cognitivo del córtex prefrontal.\n\nQuienes trabajan desde casa sufren a menudo la desintegración de los límites entre el trabajo y la vida personal. Trabajar en pijama genera confusión cognitiva al carecer el cerebro de un interruptor físico de activación.\n\nEste post analiza cómo la rutina en traje de Magritte controla las ondas cerebrales y el estado psicológico, ofreciendo un plan de 3 pasos para entrar al instante en modo Trabajo Profundo.",
+      "de": "\"Ich muss mein Alltagsleben nicht mit Wahnsinn füllen, um Kunst zu schaffen. Wenn mein Alltag extrem einfach und ordentlich ist, gewinnt der Surrealismus auf meiner Leinwand seine scharfe Überzeugungskraft.\" 🎩\n\nRené Magritte (1898–1967), der beligsche surrealistische Meister, der mit dem Schriftzug 'Dies ist keine Pfeife' unter der Zeichnung einer Pfeife das Denken revolutionierte. Im Gegensatz zu seinen surrealen Werken war sein Alltag erstaunlich geordnet und strukturiert.\n\nIm Gegensatz zu Bohemien-Künstlern, die im Farbchaos die Nacht durcharbeiteten, zog sich Magritte jeden Morgen einen dunklen Anzug mit Melone an und trat vor die Staffelei in der Ecke seines Wohnzimmers in Brüssel. Er malte mit mathematischer Präzision, ohne je einen Tropfen Farbe zu verschütten. Neurowissenschaftlich stimuliert dieses Kleidungsritual das kognitive Kontrollsystem des präfrontalen Kortex.\n\nWer im Homeoffice arbeitet, erlebt oft das Verschwimmen der Grenzen zwischen Arbeit und Freizeit. Im Schlafanzug am Schreibtisch zu sitzen führt zu kognitiver Verwirrung, da ein physischer Schalter fehlt.\n\nDieser Beitrag analysiert, wie Magrittes Anzug-Routine Gehirnwellen und Psyche beeinflusst, und bietet eine 3-Schritte-Anleitung für das Homeoffice.",
+      "fr": "\"Je n'ai pas besoin de remplir ma vie quotidienne de folie pour l'art. Quand mon quotidien est extrêmement simple et ordonné, le surréalisme sur ma toile acquiert une persuasion tranchante.\" 🎩\n\nRené Magritte (1898–1967), le grand maître surréaliste belge qui a bousculé les esprits en inscrivant 'Ceci n'est pas une pipe' sous un dessin de pipe. À l'opposé de ses visions artistiques insolites, son quotidien était d'une régularité remarquable.\n\nMagritte différait totalement des artistes bohèmes passant leurs nuits couverts de peinture. Chaque matin, vêtue d'un costume sombre et d'un chapeau melon comme un employé se rendant au bureau, il se tenait devant son chevalet dans son salon à Bruxelles. Il peignait avec une précision chirurgicale sans tache de peinture. En neurosciences, ce rituel vestimentaire stimule le contrôle cognitif du cortex préfrontal.\n\nTravailler chez soi brouille souvent la frontière entre vie professionnelle et personnelle. Travailler en pyjama crée une confusion cognitive faute d'un déclencheur environnemental.\n\nCet article explique comment la routine en costume de Magritte régule les ondes cérébrales et propose 3 étapes pour passer immédiatement en mode Deep Work.",
+      "pt": "\"Não preciso preencher minha vida cotidiana com loucura pela arte. Quando meu dia a dia é extremamente simples e ordenado, o surrealismo em minha tela ganha uma persuasão afiada.\" 🎩\n\nRené Magritte (1898–1967), mestre surrealista belga que subverteu o pensamento ao escrever 'Isto não é um cachimbo' sob a imagem de um cachimbo. Em contraste com suas visões artísticas bizarras, sua rotina diária era extremamente organizada e impecável.\n\nDiferente dos artistas boêmios que viravam noites cobertos de tinta, Magritte vestia-se todas as manhãs com um terno escuro e chapéu coco, como um executivo a caminho do escritório, e posicionava-se diante do cavalete na sala de sua casa em Bruxelas. Pintava com precisão matemática sem derramar uma gota de tinta no tapete. A neurociência mostra que esse ritual estimula o córtex pré-frontal a ativar o modo de trabalho.\n\nTrabalhadores remotos frequentemente sofrem com a perda de limites entre trabalho e descanso. Trabalhar de pijama gera confusão cognitiva pela ausência de um gatilho físico de transição.\n\nEste artigo analisa como a rotina de terno de Magritte controla o cérebro e apresenta um guia de 3 etapas para entrar imediatamente em Trabalho Profundo.",
+      "id": "\"Saya tidak perlu mengisi kehidupan sehari-hari saya dengan kegilaan demi seni. Ketika kehidupan sehari-hari saya sangat sederhana dan rapi, surealisme di kanvas saya mendapatkan daya bujuk yang tajam.\" 🎩\n\nRené Magritte (1898–1967), maestro surealis Belgia yang membalikkan pemikiran konvensional dengan menulis 'Ini bukan pipa' di bawah lukisan pipa. Berlawanan dengan visi seninya yang aneh dan mendobrak realitas, rutinitas harian kesehariannya sangat rapi dan disiplin.\n\nMagritte berbeda dari seniman bohemia yang bergadang dalam kekacauan cat. Setiap pagi, mengenakan setelan jas gelap dan topi bowler rapi layaknya pekerja kantor, ia berdiri di depan kanvas di sudut ruang tamu rumahnya di Brussel. Ia melukis dengan presisi tinggi tanpa meneteskan cat ke karpet. Dari sudut pandang sains otak, ritual berpakaian ini menstimulasi sistem kontrol kognitif korteks prafrontal.\n\nPekerja WFH sering kali mengalami pudar batas antara kerja dan kehidupan pribadi. Bekerja dengan pakaian tidur memicu kebingungan kognitif karena ketiadaan saklar transisi fisik.\n\nArtikel ini menganalisis bagaimana rutinitas berpakaian jas Magritte mengendalikan gelombang otak dan memberikan panduan 3 langkah untuk langsung beralih ke mode Deep Work."
     },
     "whyTitle": {
-      "ko": "착의 인지(Enclothed Cognition) 효과와 전전두엽(Prefrontal Cortex) 인지 제어의 뇌과학"
+      "ko": "착의 인지(Enclothed Cognition) 효과와 전전두엽(Prefrontal Cortex) 인지 제어의 뇌과학",
+      "en": "Enclothed Cognition Effect and Brain Science of Prefrontal Cortex Cognitive Control",
+      "ja": "着衣認知（Enclothed Cognition）効果と前頭前野（Prefrontal Cortex）認知制御の脳科学",
+      "zh": "着装认知（Enclothed Cognition）效应与前额叶皮层认知控制的脑科学",
+      "es": "El efecto de la Cognición Envestida y la neurociencia del control cognitivo prefrontal",
+      "de": "Kleidungs-Kognition (Enclothed Cognition) und die Neurowissenschaft der präfrontalen Steuerung",
+      "fr": "Effet de la Cognition enfilée et neurosciences du contrôle cognitif du cortex préfrontal",
+      "pt": "O efeito da Cognição Vestida e a neurociência do controle cognitivo pré-frontal",
+      "id": "Efek Enclothed Cognition dan Sains Otak Kontrol Kognitif Korteks Prafrontal"
     },
     "whyDesc": {
-      "ko": "인간의 뇌는 환경뿐만 아니라 신체와 접촉하는 의복의 상징적 의미로부터 인지적 영향을 받는 <strong>착의 인지(Enclothed Cognition)</strong> 현상을 겪습니다.\n\n단정한 정장이나 작업복을 갖춰 입을 때 뇌는 해당 옷에 부여된 전문성, 성실함, 책임감 등의 사회적 정체성을 무의식적으로 점화합니다.\n\n이 심리적 세팅은 <strong>전전두엽(Prefrontal Cortex)</strong>의 인지 제어 시스템을 자극하여 주의 산만을 차단하고, 편안한 거실 환경에서도 즉각적인 업무 몰입 모드를 가동시킵니다."
+      "ko": "인간의 뇌는 환경뿐만 아니라 신체와 접촉하는 의복의 상징적 의미로부터 인지적 영향을 받는 <strong>착의 인지(Enclothed Cognition)</strong> 현상을 겪습니다.\n\n단정한 정장이나 작업복을 갖춰 입을 때 뇌는 해당 옷에 부여된 전문성, 성실함, 책임감 등의 사회적 정체성을 무의식적으로 점화합니다.\n\n이 심리적 세팅은 <strong>전전두엽(Prefrontal Cortex)</strong>의 인지 제어 시스템을 자극하여 주의 산만을 차단하고, 편안한 거실 환경에서도 즉각적인 업무 몰입 모드를 가동시킵니다.",
+      "en": "Human brains experience <strong>Enclothed Cognition</strong>, where clothing's symbolic meaning and physical sensation directly influence cognitive processes.\n\nWhen wearing neat formal attire or work clothes, the brain subconsciously primes social identities such as professionalism, diligence, and responsibility.\n\nThis psychological setup stimulates the cognitive control system of the <strong>Prefrontal Cortex</strong>, filtering distractions and immediately activating work immersion mode even in a comfortable living room.",
+      "ja": "人間の脳は、環境だけでなく身体と接触する衣服の象徴的意味から法的影響を受ける<strong>着衣認知（Enclothed Cognition）</strong>現象を経験します。\n\n端正なスーツや作業着を着用する時、脳は服に付与された専門性、誠実さ、責任感といった社会的アイデンティティを無意識に点火します。\n\nこの心理的セッティングは<strong>前頭前野（Prefrontal Cortex）</strong>の認知制御システムを刺激して注意散漫を遮断し、くつろぎの居間でも即座に仕事没入モードを起動させます。",
+      "zh": "人类的大脑不仅受环境影响，还会经历<strong>着装认知（Enclothed Cognition）</strong>现象，即接触身体的服装所代表的象征意义会直接影响认知过程。\n\n当穿上整洁的正装或工作服时，大脑会无意识地触发与该服装相关的专业性、勤奋和责任感等社会身份。\n\n这种心理设置刺激了<strong>前额叶皮层（Prefrontal Cortex）</strong>的认知控制系统，过滤掉杂念，即使在舒适的客厅环境中也能立即启动工作沉浸模式。",
+      "es": "El cerebro experimenta la <strong>Cognición Envestida</strong> (Enclothed Cognition), donde el significado simbólico y la sensación de la ropa influyen en los procesos cognitivos.\n\nAl vestir un traje formal o uniforme, el cerebro activa de forma inconsciente identidades como la profesionalidad, disciplina y responsabilidad.\n\nEsta configuración estimula el sistema de control del <strong>Córtex Prefrontal</strong>, bloqueando distracciones y activando el modo de inmersión laboral incluso en el salón de casa.",
+      "de": "Das menschliche Gehirn erlebt die <strong>Kleidungs-Kognition (Enclothed Cognition)</strong>, bei der die symbolische Bedeutung von Kleidung kognitive Prozesse beeinflusst.\n\nDas Tragen eines Anzugs aktiviert unbewusst Identitäten wie Professionalität, Sorgfalt und Verantwortung.\n\nEinstellung stimuliert das Kontrollsystem des <strong>präfrontalen Kortex</strong>, schaltet Ablenkungen aus und aktiviert sofort den Arbeitsmodus im heimischen Umfeld.",
+      "fr": "Le cerveau humain connaît la <strong>Cognition enfilée</strong> (Enclothed Cognition), où le sens symbolique des vêtements influence directement les processus cognitifs.\n\nEn portant un costume ou une tenue de travail, le cerveau active inconsciemment des qualités comme le professionalisme, la rigueur et la responsabilité.\n\nCe réglage psychologique stimule le <strong>Cortex préfrontal</strong>, éliminant les distractions et activant l'immersion professionnelle même dans un salon confortable.",
+      "pt": "O cérebro humano experimenta a <strong>Cognição Vestida</strong> (Enclothed Cognition), onde o significado simbólico das roupas influencia diretamente a cognição.\n\nAo vestir um terno ou uniforme, o cérebro ativa inconscientemente identidades sociais como profissionalismo, diligência e responsabilidade.\n\nEssa configuração estimula o sistema de controle do <strong>Córtex Pré-Frontal</strong>, bloqueando distrações e ativando o modo de imersão no trabalho mesmo em casa.",
+      "id": "Otak manusia mengalami <strong>Enclothed Cognition</strong>, di mana makna simbolis dan sensasi pakaian secara langsung memengaruhi proses kognitif.\n\nSaat mengenakan pakaian formal atau pakaian kerja yang rapi, otak secara tidak sadar menyalakan identitas sosial seperti profesionalisme, ketekunan, dan tanggung jawab.\n\nPengaturan psikologis ini menstimulasi sistem kontrol kognitif <strong>Korteks Prafrontal</strong>, memblokir gangguan dan segera mengaktifkan mode perendaman kerja bahkan di ruang tamu yang santai."
     },
     "cautionTitle": {
-      "ko": "신체적 통증을 유발하는 무리한 정장을 배제하고 단정한 작업 의복 밸런스에 몰입하는 수칙"
+      "ko": "신체적 통증을 유발하는 무리한 정장을 배제하고 단정한 작업 의복 밸런스에 몰입하는 수칙",
+      "en": "Rule for Avoiding Overly Constricting Suits and Finding the Right Neat Workwear Balance",
+      "ja": "身体的痛みを誘発する無理なスーツを避け、端正な作業着のバランスに没入する規則",
+      "zh": "避免穿著引发身体不适的过度紧绷正装、把握端庄工作服平衡的法则",
+      "es": "Regla para evitar trajes incómodos y lograr el equilibrio perfecto de vestuario de trabajo",
+      "de": "Regel zur Vermeidung unbequemer Kleidung und zum Finden der richtigen Arbeitskleidungs-Balance",
+      "fr": "Règle pour éviter les tenues trop stricts et trouver le bon équilibre vestimentaire",
+      "pt": "Regra para evitar roupas desconfortáveis e encontrar o equilíbrio ideal no vestuário de trabalho",
+      "id": "Aturan Menghindari Pakaian Ketat yang Menyebabkan Nyeri dan Menjaga Keseimbangan Pakaian Kerja Rapi"
     },
     "cautionDesc": {
-      "ko": "착의 인지 효과를 얻고자 신체를 지나치게 압박하거나 통증을 유발하는 옷을 입는 것은 경계해야 합니다. 신체적 불편함은 <strong>전전두엽(Prefrontal Cortex)</strong>에 피로 신호를 전달하여 집중력을 해칩니다. 단정함을 유지하되 장시간 편안하게 몰입할 수 있는 슬랙스나 셔츠 등 적절한 활동복 밸런스를 구축하는 것이 본질입니다."
+      "ko": "착의 인지 효과를 얻고자 신체를 지나치게 압박하거나 통증을 유발하는 옷을 입는 것은 경계해야 합니다. 신체적 불편함은 <strong>전전두엽(Prefrontal Cortex)</strong>에 피로 신호를 전달하여 집중력을 해칩니다. 단정함을 유지하되 장시간 편안하게 몰입할 수 있는 슬랙스나 셔츠 등 적절한 활동복 밸런스를 구축하는 것이 본질입니다.",
+      "en": "Avoid wearing clothes that overly constrict the body or cause pain just to achieve Enclothed Cognition. Physical discomfort sends fatigue signals to the <strong>Prefrontal Cortex</strong>, impairing concentration. The essence is to maintain neatness while establishing a comfortable balance (such as neat slacks or collared shirts) suitable for prolonged immersion.",
+      "ja": "着衣認知効果を得ようとして身体を過度に締め付けたり痛みを引き起こす服を着ることは避けてください。身体的不快感は<strong>前頭前野（Prefrontal Cortex）</strong>に疲労信号を送り集中力を妨げます。清潔感を保ちつつ、長時間の没入に適したスラックスやシャツなど適切な服装バランスを構築することが本質です。",
+      "zh": "切勿为了追求着装认知效果而穿着过于束缚身体或引发不适的服装。身体上的不适会向<strong>前额叶皮层（Prefrontal Cortex）</strong>发送疲劳信号，损害注意力。核心原则在于保持整洁的同时，建立适合长时间专注的舒服服装平衡（如利落的休闲裤或衬衫）。",
+      "es": "Evite usar ropa que oprima el cuerpo o cause incomodidad solo para buscar este efecto. El malestar físico envía señales de fatiga al <strong>Córtex Prefrontal</strong>, destruyendo el enfoque. Lo esencial es mantener la elegancia pero con prendas cómodas (como camisas o pantalones cómodos) que permitan trabajar horas.",
+      "de": "Tragen Sie keine Kleidung, die den Körper einengt oder Schmerzen verursacht. Physische Unbequemlichkeit sendet Müdigkeitssignale an den <strong>präfrontalen Kortex</strong> und stört die Konzentration. Wichtig ist eine Balance aus Ordentlichkeit und Tragekomfort (wie bequeme Hemden oder Stoffhosen).",
+      "fr": "Évitez les vêtements trop serrés ou inconfortables. L'inconfort physique envoie des signaux de fatigue au <strong>Cortex préfrontal</strong>, nuisant à la concentration. L'essentiel est de maintenir une tenue soignée mais confortable (chemise propre, pantalon souple) adaptée à une longue immersion.",
+      "pt": "Evite usar roupas que apertem o corpo ou causem dor apenas para obter o efeito. O desconforto físico envia sinais de fadiga ao <strong>Córtex Pré-Frontal</strong>, prejudicando o foco. A essência é manter a compostura com um equilíbrio confortável (como calças e camisas alinhadas) para longas horas.",
+      "id": "Hindari mengenakan pakaian yang terlalu menekan tubuh atau menyebabkan nyeri hanya untuk mendapatkan efek Enclothed Cognition. Ketidaknyamanan fisik mengirim sinyal lelah ke <strong>Korteks Prafrontal</strong> yang merusak konsentrasi. Intinya adalah menjaga kerapian sambil membangun keseimbangan pakaian yang nyaman untuk perendaman durasi panjang."
     },
     "steps": [
       {
         "name": {
-          "ko": "1단계: 이완 복장 탈의 및 단정한 작업복으로의 환복"
+          "ko": "1단계: 이완 복장 탈의 및 단정한 작업복으로의 환복",
+          "en": "Step 1: Shedding Relaxed Clothes and Changing into Neat Workwear",
+          "ja": "ステップ1：リラックス着の脱衣および端正な作業着への着替え",
+          "zh": "步骤1：脱下居家放松装，换上整洁的工作服",
+          "es": "Paso 1: Quitarse la ropa de descanso y cambiar a atuendo de trabajo limpio",
+          "de": "Schritt 1: Ablegen von Freizeitkleidung und Wechseln in ordentliche Arbeitskleidung",
+          "fr": "Étape 1 : Quitter la tenue de repos et revêtir des vêtements de travail soignés",
+          "pt": "Passo 1: Despir roupas de descanso e vestir trajes de trabalho alinhados",
+          "id": "Langkah 1: Melepas Pakaian Santai dan Berganti Pakaian Kerja Rapi"
         },
         "text": {
-          "ko": "잠옷이나 트레이닝복처럼 뇌에 이완을 주는 옷을 벗고, 카라가 있는 셔츠나 깔끔한 외출복으로 갈아입어 업무 개시 신호를 보냅니다."
+          "ko": "잠옷이나 트레이닝복처럼 뇌에 이완을 주는 옷을 벗고, 카라가 있는 셔츠나 깔끔한 외출복으로 갈아입어 업무 개시 신호를 보냅니다.",
+          "en": "Take off loungewear or pajamas that signal relaxation to the brain, and change into a collared shirt or neat casual outfit to send a clear start-work signal.",
+          "ja": "パジャマやトレーニングウェアなど脳にリラックスを与える服を脱ぎ、襟付きシャツやきれいめな外出着に着替えて業務開始のサインを送ります。",
+          "zh": "脱下睡衣或运动服等向大脑传递放松信号的服装，换上带领衬衫或干练的外出服，向大脑发送工作开始的信号。",
+          "es": "Quítate la ropa cómoda de casa y pónte una camisa con cuello o ropa limpia de salir para enviar una señal clara de inicio de jornada.",
+          "de": "Legen Sie Pyjamas oder Sportkleidung ab und ziehen Sie ein Hemd oder saubere Alltagskleidung an, um das Signal für den Arbeitsbeginn zu setzen.",
+          "fr": "Troquez votre pyjama ou survêtement contre une chemise à col ou une tenue correcte pour signaler au cerveau le début du travail.",
+          "pt": "Tire o pijama ou roupas esportivas que sinalizam relaxamento ao cérebro e vista uma camisa de gola ou roupa alinhada para dar o sinal de início de trabalho.",
+          "id": "Lepas pakaian tidur atau baju santai yang memberikan sinyal rileks pada otak, dan berganti kemeja berkerah atau pakaian luar yang rapi untuk mengirim sinyal mulai bekerja."
         }
       },
       {
         "name": {
-          "ko": "2단계: 작업 공간 및 물리적 아날로그 도구의 질서 정돈"
+          "ko": "2단계: 작업 공간 및 물리적 아날로그 도구의 질서 정돈",
+          "en": "Step 2: Organizing the Workspace and Physical Analog Tools",
+          "ja": "ステップ2：作業空間および物理的アナログ道具の整頓",
+          "zh": "步骤2：整理工作空间与物理实体工具",
+          "es": "Paso 2: Organizar el espacio de trabajo y las herramientas físicas",
+          "de": "Schritt 2: Ordnung im Arbeitsbereich und bei physischen Werkzeugen schaffen",
+          "fr": "Étape 2 : Organiser l'espace de travail et les outils physiques",
+          "pt": "Passo 2: Organizar o espaço de trabalho e as ferramentas físicas",
+          "id": "Langkah 2: Menata Ruang Kerja dan Alat Fisik Analog"
         },
         "text": {
-          "ko": "마그리트의 거실 작업대처럼 책상 위의 불필요한 물건을 치우고, 당일 과업에 필요한 핵심 도구만 눈앞에 기계적으로 정돈합니다."
+          "ko": "마그리트의 거실 작업대처럼 책상 위의 불필요한 물건을 치우고, 당일 과업에 필요한 핵심 도구만 눈앞에 기계적으로 정돈합니다.",
+          "en": "Clear unnecessary items from your desk like Magritte's living room easel setup, systematically arranging only the core tools needed for the day's task.",
+          "ja": "マグリットの居間作業台のようにデスク上の不要な物を片付け、その日のタスクに必要なコア道具だけを目の前に整頓します。",
+          "zh": "像马格里特的客厅画架区一样，清理桌上不必要的杂物，仅将当天工作所需的核心工具机械化地整齐摆放在眼前。",
+          "es": "Limpia los objetos innecesarios de tu escritorio como en el salón de Magritte, dejando únicamente las herramientas clave para las tareas del día.",
+          "de": "Räumen Sie unnötige Gegenstände vom Schreibtisch und ordnen Sie nur die Werkzeuge an, die Sie für die Tagesaufgabe benötigen.",
+          "fr": "Débarrassez votre bureau des objets inutiles à l'instar de Magritte, en ne gardant devant vous que les outils essentiels à votre tâche.",
+          "pt": "Limpe itens desnecessários da mesa, organizando mecanicamente apenas as ferramentas essenciais para as tarefas do dia.",
+          "id": "Bersihkan barang-barang tak terpakai dari meja seperti area lukis Magritte, dan tata hanya alat inti yang dibutuhkan untuk tugas hari itu."
         }
       },
       {
         "name": {
-          "ko": "3단계: 업무 마감 후 환복을 통한 완전한 휴식 모드 전환"
+          "ko": "3단계: 업무 마감 후 환복을 통한 완전한 휴식 모드 전환",
+          "en": "Step 3: Switching to Complete Rest Mode by Changing Clothes After Work",
+          "ja": "ステップ3：業務終了後の着替えによる完全な休憩モードへの切り替え",
+          "zh": "步骤3：工作结束后通过换装切换至完全休息模式",
+          "es": "Paso 3: Cambiarse de ropa al terminar para pasar a modo descanso total",
+          "de": "Schritt 3: Wechsel in den Entspannungsmodus durch Umziehen nach Feierabend",
+          "fr": "Étape 3 : Se changer après le travail pour passer en mode repos complet",
+          "pt": "Passo 3: Mudar de roupa após o expediente para entrar em modo de descanso total",
+          "id": "Langkah 3: Berganti Pakaian Setelah Selesai Bekerja untuk Beralih ke Mode Istirahat Total"
         },
         "text": {
-          "ko": "정해진 근무 시간 동안 단정하게 과업을 완수한 뒤, 마감 직후 즉시 편안한 옷으로 환복하여 뇌에 완전한 이완 신호를 공급합니다."
+          "ko": "정해진 근무 시간 동안 단정하게 과업을 완수한 뒤, 마감 직후 즉시 편안한 옷으로 환복하여 뇌에 완전한 이완 신호를 공급합니다.",
+          "en": "After fulfilling tasks during scheduled work hours, immediately change back into comfortable clothing to provide the brain with a clear signal for full relaxation.",
+          "ja": "決まった勤務時間中にタスクをやり遂げたら、終了直後に即座に快適な服に着替え、脳へ完全なリラックス信号を供給します。",
+          "zh": "在规定的工作时间内高效完成任务后，下班后立即换回舒适的服装，向大脑传递彻底放松的信号。",
+          "es": "Tras cumplir la jornada de trabajo, cámbiate de inmediato a ropa cómoda para enviar al cerebro una señal clara de relajación total.",
+          "de": "Ziehen Sie sich nach Feierabend sofort wieder bequeme Kleidung an, um Ihrem Gehirn das Signal für vollständige Entspannung zu geben.",
+          "fr": "Après votre journée de travail, changez-vous immédiatement pour offrir au cerveau un signal clair de relaxation totale.",
+          "pt": "Após cumprir o expediente, mude imediatamente para roupas confortáveis, enviando ao cérebro um sinal claro de relaxamento total.",
+          "id": "Setelah menyelesaikan tugas pada jam kerja yang ditentukan, segera berganti pakaian santai untuk memberi sinyal rileks total bagi otak."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "재택근무를 할 때 실내화나 전용 신발을 신는 것도 착의 인지에 도움이 되나요?"
+          "ko": "재택근무를 할 때 실내화나 전용 신발을 신는 것도 착의 인지에 도움이 되나요?",
+          "en": "Does wearing indoor shoes or dedicated work shoes while working from home help Enclothed Cognition?",
+          "ja": "在宅勤務の際に室内履きや専用の靴を履くことも着衣認知に役立ちますか？",
+          "zh": "居家办公时穿上室内鞋或专用工作鞋有助于着装认知吗？",
+          "es": "¿Ayuda a la cognición envestida usar calzado exclusivo o zapatillas de trabajo en casa?",
+          "de": "Hilft das Tragen von festen Hausschuhen oder Arbeitsschuhen im Homeoffice bei der Kleidungs-Kognition?",
+          "fr": "Porter des chaussures d'intérieur dédiées au travail à la maison aide-t-il la cognition enfilée ?",
+          "pt": "Usar calçados de trabalho dedicados ao trabalhar em casa ajuda na cognição vestida?",
+          "id": "Apakah mengenakan sandal dalam rumah atau sepatu khusus kerja saat WFH membantu Enclothed Cognition?"
         },
         "answer": {
-          "ko": "네, 매우 뛰어난 효과를 냅니다! 발바닥에 전달되는 실내화의 단단한 질감과 촉각 자극은 <strong>체성감각 피질(Somatosensory Cortex)</strong>에 '외부 활동 모드'라는 신호를 보냅니다. 이는 소파나 침대에 누우려는 욕구를 억제하고 작업 기어로 전환하는 훌륭한 신체적 스위치가 됩니다."
+          "ko": "네, 매우 뛰어난 효과를 냅니다! 발바닥에 전달되는 실내화의 단단한 질감과 촉각 자극은 <strong>체성감각 피질(Somatosensory Cortex)</strong>에 '외부 활동 모드'라는 신호를 보냅니다. 이는 소파나 침대에 누우려는 욕구를 억제하고 작업 기어로 전환하는 훌륭한 신체적 스위치가 됩니다.",
+          "en": "Yes, it produces an exceptional effect! The firm texture and tactile stimulation delivered to the soles send an 'outdoor activity mode' signal to the <strong>Somatosensory Cortex</strong>. This suppresses the urge to lie on the couch or bed and serves as a physical switch for work mode.",
+          "ja": "はい、非常に優れた効果を発揮します！足の裏に伝わる固い質感と触覚刺激は<strong>体性感覚野（Somatosensory Cortex）</strong>に「屋外活動モード」という信号を送ります。これはソファやベッドに横になりたい欲求を抑え、作業ギアへ切り替える優れた身体的スイッチとなります。",
+          "zh": "是的，效果非常显著！室内鞋鞋底带来的坚实质感与触觉刺激会向<strong>体感皮层（Somatosensory Cortex）</strong>发送“户外活动模式”的信号。这能有效抑制躺平在沙发或床上的欲望，成为切换至工作状态的绝佳身体开关。",
+          "es": "¡Sí, produce un efecto genial! La textura firme enviada a las plantas de los pies emite una señal de 'modo actividad externa' al <strong>Córtex Somatosensorial</strong>. Esto frena el deseo de tumbarse en el sofá y actúa como interruptor corporal.",
+          "de": "Ja, das hat eine hervorragende Wirkung! Der Druck auf die Fußsohlen sendet dem <strong>somatosensorischen Kortex</strong> das Signal 'Aktivitätsmodus'. Dies hemmt das Bedürfnis, sich aufs Sofa zu legen, und dient als physischer Schalter.",
+          "fr": "Oui, l'effet est remarquable ! La sensation ferme sous la plante des pieds envoie au <strong>Cortex somatosensoriel</strong> un signal 'mode d'activité extérieure'. Cela freine l'envie de s'allonger et sert d'interrupteur physique.",
+          "pt": "Sim, produz um efeito incrível! A textura firme sob as solas dos pés envia ao <strong>Córtex Somatossensorial</strong> o sinal de 'modo de atividade externa'. Isso inibe a tentação de se deitar no sofá e serve como um excelente gatilho corporal.",
+          "id": "Ya, dampaknya sangat luar biasa! Tekstur kokoh yang dirasakan telapak kaki mengirim sinyal 'mode aktivitas luar' ke <strong>Korteks Somatosensorik</strong>. Ini menekan keinginan untuk berbaring di sofa atau kasur dan menjadi saklar fisik peralihan kerja."
         }
       },
       {
         "question": {
-          "ko": "화가나 크리에이터처럼 창의적인 일을 할 때도 단정하게 입는 것이 도움이 되나요?"
+          "ko": "화가나 크리에이터처럼 창의적인 일을 할 때도 단정하게 입는 것이 도움이 되나요?",
+          "en": "Does dressing neatly help even when engaged in creative work like painting or content creation?",
+          "ja": "画家やクリエイターのようなクリエイティブな仕事でも端正に着こなすことが役立ちますか？",
+          "zh": "像画家或创作者这样进行创意工作时，整洁着装也有帮助吗？",
+          "es": "¿Vestir bien también ayuda en trabajos creativos como la pintura o la creación de contenido?",
+          "de": "Hilft ordentliche Kleidung auch bei kreativen Berufen wie Malerei oder Content Creation?",
+          "fr": "Bien s'habiller aide-t-il aussi pour les travaux créatifs comme la peinture ou la création de contenu ?",
+          "pt": "Vestir-se bem também ajuda em trabalhos criativos como pintura ou criação de conteúdo?",
+          "id": "Apakah berpakaian rapi juga membantu saat melakukan pekerjaan kreatif seperti melukis atau membuat konten?"
         },
         "answer": {
-          "ko": "네, 완벽히 도움이 됩니다. 흔히 무질서하고 자유로운 옷차림이 창의성을 낳는다고 생각하기 쉽지만, 행동적 일상과 옷차림이 단정할수록 뇌의 전전두엽 인지 자원이 절약되어, 무의식 속 깊은 아이디어와 초현실적 연관성을 발굴하는 고차원적 사유에 몰입할 수 있게 됩니다."
+          "ko": "네, 완벽히 도움이 됩니다. 흔히 무질서하고 자유로운 옷차림이 창의성을 낳는다고 생각하기 쉽지만, 행동적 일상과 옷차림이 단정할수록 뇌의 전전두엽 인지 자원이 절약되어, 무의식 속 깊은 아이디어와 초현실적 연관성을 발굴하는 고차원적 사유에 몰입할 수 있게 됩니다.",
+          "en": "Yes, absolutely! While people often assume chaotic and loose attire fosters creativity, neat routines and clothing conserve prefrontal cognitive resources, allowing the brain to immerse in high-level thinking that unearths deep ideas and surreal associations.",
+          "ja": "はい、完全に役立ちます。無秩序で自由な服装が創造性を生むと思われがちですが、行動や服装が端正であるほど脳の前頭前野の認知リソースが節約され、無意識の深いアイデアや超現実的な連想を発掘する高次な思考に没入できるようになります。",
+          "zh": "是的，非常有帮助！人们常以为凌乱自由的穿着能激发创意，但事实上，日常生活与着装越规律整洁，越能节省前额叶皮层的认知资源，从而让大脑全身心投入到挖掘无意识深层灵感与超现实联想的高阶思考中。",
+          "es": "¡Sí, por completo! Aunque se suele pensar que vestir de forma caótica fomenta la creatividad, cuanto más ordenada es la rutina y la vestimenta, más recursos prefrontales se ahorran para sumergirse en ideas profundas y conexiones surrealistas.",
+          "de": "Ja, absolut! Obwohl man oft glaubt, dass chaotische Kleidung Kreativität fördert, spart eine ordentliche Routine kognitive Ressourcen des präfrontalen Kortex. Dadurch kann sich das Gehirn voll auf tiefere Ideen und assoziatives Denken konzentrieren.",
+          "fr": "Oui, tout à fait ! Bien qu'on pense souvent que la tenue décontractée favorise la créativité, une tenue et une routine soignées économisent les ressources du cortex préfrontal, permettant au cerveau de se consacrer aux idées profondes et aux associations surréalistes.",
+          "pt": "Sim, com certeza! Embora se pense que roupas caóticas geram criatividade, uma rotina e vestuário organizados economizam recursos cognitivos pré-frontais, permitindo ao cérebro mergulhar em pensamentos profundos e associações surreais.",
+          "id": "Ya, sangat membantu! Meskipun sering dianggap pakaian acak memicu kreativitas, makin rapi rutinitas dan pakaian, makin hemat sumber daya kognitif prafrontal, memungkinkan otak tenggelam dalam pemikiran tingkat tinggi untuk menggali ide-ide mendalam."
         }
       }
     ]

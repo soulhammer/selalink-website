@@ -8,13 +8,13 @@ tags: ["위인 습관", "이고르 스트라빈스키", "리프레시", "창의�
 heroImage: "/images/blog/stravinsky_headstand_composition.webp"
 app: "buildself"
 formatVersion: 4
-authority: "Stravinsky Headstand Composition 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+authority: "Igor Stravinsky 자서전 및 음악 평전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
 steps:
-  - name: "안전한 역전 환경 및 매트 준비"
+  - name: "1단계: 안전한 역전 환경 및 매트 준비"
     text: "주변에 부딪힐 물건이 없는 빈 벽면을 확보하고 머리를 보호할 도톰한 요가 매트나 쿠션을 바닥에 배치합니다."
-  - name: "단시간의 벽면 물구나무서기 개시"
+  - name: "2단계: 단시간의 벽면 물구나무서기 개시"
     text: "손을 바닥에 짚고 등을 벽에 기대어 몸을 거꾸로 세웁니다. 혈관 과부하를 막기 위해 30초에서 최대 1분 이내로 유지하며 복식 호흡을 수행합니다."
-  - name: "천천히 복귀 및 인지적 전환 관찰"
+  - name: "3단계: 천천히 복귀 및 인지적 전환 관찰"
     text: "조심스럽게 발을 내린 후 곧장 일어서지 않고 30초간 엎드려 안정을 취한 뒤, 의자에 앉아 머리가 맑아지고 생각이 다르게 전환되는 감각에 집중합니다."
 faqs:
   - question: "물구나무를 아예 서지 못하는 초보자는 어떻게 하나요?"
@@ -24,7 +24,7 @@ faqs:
 
 "아이디어가 막힐 때 머리를 땅으로 향해 보라. 뇌가 즉시 다르게 생각하기 시작할 것이다." 🤸‍♂️
 
-봄의 제전, 불새 등 전위적이고 혁명적인 선율로 20세기 클래식 음악계를 뒤흔든 이고르 스트라빈스키. 그의 놀라운 음악적 실험 뒤에는 독특한 신체적 루틴이 있었습니다. 그는 작곡을 하다가 영감이 고갈되거나 머리가 무거워질 때면 피아노 옆 빈 공간에서 주저 없이 물구나무를 섰습니다. 그는 거꾸로 서는 행동이 뇌를 깨우고 생각을 다르게 만든다고 믿었으며, 이 단순하지만 확실한 루틴을 평생 실천했습니다. 뇌과학적으로 이 신체적 역발상이 어떻게 창의성을 깨우는지 살펴봅니다.
+'봄의 제전', '불새', '페트루슈카' 등 전위적이고 혁명적인 선율로 20세기 클래식 음악계를 뒤흔든 차르 시대 러시아 출신의 거장 작곡가 이고르 스트라빈스키(Igor Stravinsky, 1882~1971). 그의 놀라운 음악적 실험 뒤에는 독특한 신체적 루틴이 있었습니다. 그는 작곡을 하다가 영감이 고갈되거나 머리가 무거워질 때면 피아노 옆 빈 공간에서 주저 없이 물구나무를 섰습니다. 그는 거꾸로 서는 행동이 뇌를 깨우고 생각을 다르게 만든다고 믿었으며, 이 단순하지만 확실한 루틴을 평생 실천했습니다. 뇌과학적으로 이 신체적 역발상이 어떻게 창의성을 깨우는지 살펴봅니다.
 
 많은 예술가와 지식인들이 아이디어가 가로막힐 때 한참을 멍하니 앉아 있거나 괴로워하곤 합니다. 하지만 스트라빈스키는 물리적인 몸의 위치를 180도 수직 역전시켜 인지적 정체를 즉각 파괴했습니다. 물구나무서기는 단순히 장난스러운 기벽이 아니라, 의식적인 몸의 역전을 활용하여 뇌에 강력한 생리학적 자극과 신경 신호를 전송하는 고도의 창의성 환기 메커니즘이었습니다.
 
@@ -37,7 +37,7 @@ faqs:
       역사적 및 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Stravinsky Headstand Composition 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 stravinsky-headstand-composition 루틴을 다룹니다.
+      본 콘텐츠는 <strong>Igor Stravinsky 자서전 및 음악 평전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 stravinsky-headstand-composition 루틴을 다룹니다.
     </p>
   </div>
 </div>
@@ -57,7 +57,7 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">안전한 역전 환경 및 매트 준비</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">1단계: 안전한 역전 환경 및 매트 준비</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     주변에 부딪힐 물건이 없는 빈 벽면을 확보하고 머리를 보호할 도톰한 요가 매트나 쿠션을 바닥에 배치합니다.
@@ -67,7 +67,7 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">단시간의 벽면 물구나무서기 개시</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">2단계: 단시간의 벽면 물구나무서기 개시</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     손을 바닥에 짚고 등을 벽에 기대어 몸을 거꾸로 세웁니다. 혈관 과부하를 막기 위해 30초에서 최대 1분 이내로 유지하며 복식 호흡을 수행합니다.
@@ -77,7 +77,7 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">천천히 복귀 및 인지적 전환 관찰</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">3단계: 천천히 복귀 및 인지적 전환 관찰</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     조심스럽게 발을 내린 후 곧장 일어서지 않고 30초간 엎드려 안정을 취한 뒤, 의자에 앉아 머리가 맑아지고 생각이 다르게 전환되는 감각에 집중합니다.

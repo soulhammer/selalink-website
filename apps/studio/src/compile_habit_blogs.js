@@ -159,7 +159,11 @@ function compileBlogs() {
 
   files.forEach(file => {
     const filePath = pathModule.join(habitsDir, file);
-    const rawData = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+    let rawText = fs.readFileSync(filePath, 'utf-8').trim();
+    if (rawText.startsWith('ewog')) {
+      rawText = Buffer.from(rawText, 'base64').toString('utf-8');
+    }
+    const rawData = JSON.parse(rawText);
     const blogSlug = file.replace('.json', '');
     const data = rawData[blogSlug] || rawData[Object.keys(rawData)[0]];
 

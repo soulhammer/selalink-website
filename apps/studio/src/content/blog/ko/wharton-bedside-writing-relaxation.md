@@ -8,7 +8,7 @@ tags: ["글쓰기", "창의성", "휴식"]
 heroImage: "/images/blog/wharton_bedside_writing_relaxation.webp"
 app: "buildself"
 formatVersion: 4
-authority: "Wharton Bedside Writing Relaxation 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+authority: "에디스 워튼 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
 steps:
   - name: "침대 위 등쿠션 지지와 반좌위 자세 세팅"
     text: "아침에 깨어난 후 일어나는 즉시 다른 작업을 하지 않고 침대에 남아 자세를 잡습니다. 등 뒤에 쿠션을 여러 개 놓아 척추가 비스듬히 일어선 편안한 기댐 자세를 유지합니다."
@@ -33,7 +33,7 @@ faqs:
       역사적 및 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Wharton Bedside Writing Relaxation 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 wharton-bedside-writing-relaxation 루틴을 다룹니다.
+      본 콘텐츠는 <strong>에디스 워튼 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 wharton-bedside-writing-relaxation 루틴을 다룹니다.
     </p>
   </div>
 </div>

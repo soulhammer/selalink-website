@@ -1,6 +1,6 @@
 ---
-title: "천재의 뇌를 리셋하는 레이스? 앨런 튜링의 러닝 루틴"
-description: "에니그마 암호를 해독한 컴퓨터 과학의 아버지 앨런 튜링. 매일 16km를 뛰며 뇌 과부하를 해소하고 신경세포를 활성화했던 그의 러닝 습관과 과학적 배경을 알아봅니다."
+title: "重置天才大脑的奔跑？艾伦·图灵的跑步习惯"
+description: "破译恩尼格玛密码的计算机科学之父艾伦·图灵。了解他每天奔跑16公里以缓解大脑过载、激活神经细胞的跑步习惯及其科学背景。"
 pubDate: "2026-02-02"
 updatedDate: "2026-02-02"
 category: "BuildSelf"
@@ -8,29 +8,29 @@ tags: ["위인 습관", "앨런튜링", "달리기", "러닝", "뇌피로해소"
 heroImage: "/images/blog/turing_marathon_running.webp"
 app: "buildself"
 formatVersion: 4
-authority: "앨런 튜링 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+authority: "艾伦·图灵历史评传及自传记录考证与认知神经科学（Cognitive Neuroscience）研究"
 steps:
-  - name: "1단계: 디지털 차단과 러닝 시작"
-    text: "스마트폰의 음악이나 팟캐스트 스트리밍을 켜지 않고, 스마트폰을 주머니에 넣거나 방해 금지 모드로 설정하여 외부 디지털 자극을 완전히 끊고 달리기 시작합니다."
-  - name: "2단계: 대화 가능한 일정한 페이스 유지"
-    text: "30분 동안 호흡이 살짝 가쁘지만 옆 사람과 가볍게 말을 주고받을 수 있는 일정한 페이스(심박수 영역 2)를 일관되게 유지하며 달립니다."
-  - name: "3단계: 러닝 후 쿨다운 및 떠오른 아이디어 아날로그 메모"
-    text: "러닝을 마친 뒤 가벼운 스트레칭과 호흡으로 몸을 식히고, 전두엽이 해방된 상태에서 무의식적으로 떠오른 생각이나 해결책을 수첩에 아날로그 손필기로 적습니다."
+  - name: "步骤1：数字屏蔽与开启奔跑"
+    text: "不播放音乐或播客，将智能手机放入口袋或设置为免打扰模式，彻底切断外部数字刺激并开始奔跑。"
+  - name: "步骤2：保持可进行对话的匀速配速"
+    text: "持续奔跑30分钟，保持呼吸略有微喘但仍能与身旁之人进行轻松交谈的匀速配速（心率区间 Zone 2）。"
+  - name: "步骤3：跑后放松与灵感纸质整理"
+    text: "跑步结束后，通过轻柔拉伸与深呼吸放松身体，在前额叶得到解放的状态下，将潜意识中涌现的想法或解决方案用手写形式记录在手记中。"
 faqs:
-  - question: "러닝 대신 실내 고정 자전거나 수영을 해도 뇌 환기 효과는 동일한가요?"
-    answer: "네, 심폐 기능이 개입되어 BDNF 수치를 높일 수 있는 지속적인 유산소 운동이라면 자전거나 수영도 유사한 인지 회복 효과를 제공합니다. 다만, 야외 러닝처럼 자연 경관과 바람 등의 오감 자극이 뇌로 전달될 때 기본 모드 네트워크(DMN)의 이완 및 아이디어 활성화 효과가 극대화됩니다."
-  - question: "달리는 동안 음악을 들으면 뇌 회복에 방해가 되나요?"
-    answer: "가사나 격렬한 비트가 있는 음악은 전두엽이 소리 정보를 청각적으로 여과하고 분석하게 하여 뇌의 완전한 휴식을 방해합니다. 자연의 소리를 그대로 듣거나 음악 없이 호흡에만 집중하는 것이 DMN을 가장 온전하게 활성화하고 주의력을 재충전하는 비결입니다."
+  - question: "用室内健身车或游泳代替跑步，清脑效果是否相同？"
+    answer: "是的，只要是能够带动心肺功能、提高BDNF水平的持续性有氧运动，骑行或游泳也能提供类似的认知恢复效果。然而，像户外跑步那样将自然风景与微风等五感刺激传递至大脑时，默认模式网络（DMN）的放松与创意激活效果才最为理想。"
+  - question: "跑步时听音乐会妨碍大脑恢复吗？"
+    answer: "带有歌词或剧烈节奏的音乐迫使前额叶去听觉过滤与分析声音信息，从而打扰大脑的彻底休息。聆听自然原音或在无音乐状态下仅专注于呼吸，才是最完整激活DMN并充能注意力的秘诀。"
 
 ---
 
-"나에게 러닝은 복잡한 마음을 비워내고 온전한 생각에 잠기게 하는 가장 아름다운 시간이다." 🏃‍♂️
+“对我而言，跑步是清空复杂思绪、沉浸于纯粹思考的最美好时光。” 🏃‍♂️
 
-제2차 세계대전 당시 악명 높았던 독일군의 에니그마 암호를 해독하고 컴퓨터 과학의 토대를 다진 영국의 천재 수학자, 앨런 튜링. 그는 온갖 복잡한 계산과 기계 설계, 암호 분석 때문에 언제나 뇌의 과부하에 시달렸습니다. 이처럼 엄청난 지적 압박 속에서 그가 정신적 평형을 유지하고 창조적 발상을 이어갈 수 있었던 비결은 다름 아닌 '마라톤 러닝'이었습니다.
+二战期间破译德军著名的恩尼格玛密码、奠定计算机科学基石的英国天才数学家艾伦·图灵（Alan Turing，1912–1954），因各种复杂的计算、机械设计和密码分析而长期承受着大脑过载。在如此巨大的智力压力下，他能够保持精神平衡并持续涌现创造性灵感的秘诀，正是“马拉松跑步”。
 
-튜링은 매일 10마일(약 16km) 이상을 달리는 혹독한 장거리 러닝 루틴을 유지했습니다. 실제로 그는 1948년 영국 마라톤 국가대표 선발전에서 2시간 46분 3초라는 준수한 기록으로 5위를 차지할 정도로 프로급 주자였습니다. 튜링에게 달리기는 단순한 운동이 아니라, 전두엽의 인지 활동을 멈추고 뇌를 정화하는 필수적인 사색의 통로였습니다.
+图灵每天保持着奔跑10英里（约16公里）以上的严苛长跑习惯。事实上，他是一位职业级别的跑者，在1948年英国奥运马拉松选拔赛中以2小时46分3秒的出色成绩斩获第5名。对图灵而言，跑步不仅是单纯的运动，更是暂停前额叶认知活动、净化大脑不可或缺的冥想通道。
 
-오늘 포스트에서는 앨런 튜링의 러닝 루틴의 신경과학적 메커니즘과 현대인을 위한 지적 각성용 30분 러닝 가이드를 알아봅니다.
+在今天的文章中，我们将深入探讨艾伦·图灵跑步习惯的神经科学机制，并为现代人提供一份用于智力觉醒的30分钟跑步指南。
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -39,52 +39,52 @@ faqs:
       历史 and 学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 turing-marathon-running 的内容基于 <strong>앨런 튜링 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong> 撰写。
+      关于 turing-marathon-running 的内容基于 <strong>艾伦·图灵历史评传及自传记录考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
     </p>
   </div>
 </div>
 
 ---
 
-## 유산소 운동이 촉진하는 뇌세포 생성과 인지 환기
+## 有氧运动促进神经发生与认知刷新
 
-매일 꾸준히 달리는 유산소 운동은 뇌 건강에 결정적인 물질인 <strong>뇌유래신경영양인자(BDNF)</strong>의 합성을 유도합니다. BDNF는 기억과 학습을 담당하는 해마 영역에서 새로운 신경세포(Neuron) 생성을 촉진하여 인지적 작업 기억 공간을 넓힙니다.
+每天坚持有氧跑步会诱导对大脑健康至关重要的<strong>脑源性神经营养因子（BDNF）</strong>的合成。BDNF能在负责记忆与学习的海马体区域促进新神经元（Neuron）的生成，从而扩大认知工作记忆空间。
 
-또한 달리는 동안 뇌의 인지적 통제를 맡은 전두엽은 일시적인 휴식 상태로 전환되며, 이때 무의식적 자원을 활용하는 <strong>기본 모드 네트워크(DMN)</strong>가 자극받습니다. 이 현상 덕분에 머리를 싸매고 고민할 때 풀리지 않던 어려운 연산이나 창조적 아이디어가 달리기를 마친 직후 번뜩이며 활성화되는 복원 효과를 거두게 됩니다.
+此外，在跑步过程中，负责认知控制的前额叶会进入暂时性休息状态，此时利用潜意识资源的<strong>默认模式网络（DMN）</strong>受到刺激。得益于这种现象，此前苦思冥想也无法解决的难解运算或创意灵感，往往会在跑完步的瞬间豁然开朗并得以激活。
 
 ---
 
-## 주의력 환기를 위한 페이스 통제
+## 为焕发注意力而进行的配速控制
 
-두뇌를 환기하기 위한 러닝에서는 페이스 조절이 매우 중요합니다. 지나치게 격렬하게 뛰어 심장이 터질 것 같은 무산소 역치 상태에 도달하면, 뇌는 신체 생존에만 온 인지 자원을 쏟아부어 사색과 DMN 활성화를 방해합니다. 옆 사람과 가벼운 대화가 가능한 정도의 페이스로 일정하게 뛰는 것이 효과적입니다.
+为清醒大脑而进行的跑步，配速控制至关重要。若过于剧烈奔跑导致达到心跳加速的无氧阈值状态，大脑会将所有认知资源投入到身体生存中，从而阻碍思考与DMN的激活。以能够与旁人进行轻松对话的配速匀速奔跑最为有效。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">步骤 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">1단계: 디지털 차단과 러닝 시작</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">步骤1：数字屏蔽与开启奔跑</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    스마트폰의 음악이나 팟캐스트 스트리밍을 켜지 않고, 스마트폰을 주머니에 넣거나 방해 금지 모드로 설정하여 외부 디지털 자극을 완전히 끊고 달리기 시작합니다.
+    不播放音乐或播客，将智能手机放入口袋或设置为免打扰模式，彻底切断外部数字刺激并开始奔跑。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">步骤 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">2단계: 대화 가능한 일정한 페이스 유지</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">步骤2：保持可进行对话的匀速配速</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    30분 동안 호흡이 살짝 가쁘지만 옆 사람과 가볍게 말을 주고받을 수 있는 일정한 페이스(심박수 영역 2)를 일관되게 유지하며 달립니다.
+    持续奔跑30分钟，保持呼吸略有微喘但仍能与身旁之人进行轻松交谈的匀速配速（心率区间 Zone 2）。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">步骤 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">3단계: 러닝 후 쿨다운 및 떠오른 아이디어 아날로그 메모</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">步骤3：跑后放松与灵感纸质整理</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    러닝을 마친 뒤 가벼운 스트레칭과 호흡으로 몸을 식히고, 전두엽이 해방된 상태에서 무의식적으로 떠오른 생각이나 해결책을 수첩에 아날로그 손필기로 적습니다.
+    跑步结束后，通过轻柔拉伸与深呼吸放松身体，在前额叶得到解放的状态下，将潜意识中涌现的想法或解决方案用手写形式记录在手记中。
   </p>
 </div>
 
@@ -95,21 +95,21 @@ faqs:
   
   <details class="group cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>러닝 대신 실내 고정 자전거나 수영을 해도 뇌 환기 효과는 동일한가요?</span>
+      <span>用室内健身车或游泳代替跑步，清脑效果是否相同？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      네, 심폐 기능이 개입되어 BDNF 수치를 높일 수 있는 지속적인 유산소 운동이라면 자전거나 수영도 유사한 인지 회복 효과를 제공합니다. 다만, 야외 러닝처럼 자연 경관과 바람 등의 오감 자극이 뇌로 전달될 때 기본 모드 네트워크(DMN)의 이완 및 아이디어 활성화 효과가 극대화됩니다.
+      是的，只要是能够带动心肺功能、提高BDNF水平的持续性有氧运动，骑行或游泳也能提供类似的认知恢复效果。然而，像户外跑步那样将自然风景与微风等五感刺激传递至大脑时，默认模式网络（DMN）的放松与创意激活效果才最为理想。
     </p>
   </details>
   <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>달리는 동안 음악을 들으면 뇌 회복에 방해가 되나요?</span>
+      <span>跑步时听音乐会妨碍大脑恢复吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      가사나 격렬한 비트가 있는 음악은 전두엽이 소리 정보를 청각적으로 여과하고 분석하게 하여 뇌의 완전한 휴식을 방해합니다. 자연의 소리를 그대로 듣거나 음악 없이 호흡에만 집중하는 것이 DMN을 가장 온전하게 활성화하고 주의력을 재충전하는 비결입니다.
+      带有歌词或剧烈节奏的音乐迫使前额叶去听觉过滤与分析声音信息，从而打扰大脑的彻底休息。聆听自然原音或在无音乐状态下仅专注于呼吸，才是最完整激活DMN并充能注意力的秘诀。
     </p>
   </details>
 </div>

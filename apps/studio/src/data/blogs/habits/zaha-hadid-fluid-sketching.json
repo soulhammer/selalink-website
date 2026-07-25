@@ -1,70 +1,214 @@
 {
   "zaha-hadid-fluid-sketching": {
     "title": {
-      "ko": "직선의 틀을 깬 건축 거장? 자하 하디드의 유기적 곡선 스케치 루틴"
+      "ko": "직선의 틀을 깬 건축 거장: 자하 하디드의 유기적 곡선 스케치 루틴",
+      "en": "Master Architect Who Broke the Grid: Zaha Hadid's Organic Curve Sketching Routine",
+      "ja": "直線枠を破った建築の巨匠：ザハ・ハディドの有機的曲線スケッチルーティン",
+      "zh": "打破直线网格的建筑大师：扎哈·哈迪德的有机曲线草图习惯",
+      "es": "La arquitecta que rompió la retícula: La rutina de bocetos de curvas orgánicas de Zaha Hadid",
+      "de": "Baukünstlerin ohne rechte Winkel: Zaha Hadids organisches Kurven-Skizzenmodell",
+      "fr": "La grande architecte qui a brisé les lignes droites : La routine d'esquisse organique de Zaha Hadid",
+      "pt": "A Mestra da Arquitetura que Quebrou as Linhas Retas: A Rotina de Esboços Curvos de Zaha Hadid",
+      "id": "Maestro Arsitektur Pembuat Gebrakan Garis Lurus: Rutinitas Sketsa Kurva Organik Zaha Hadid"
     },
     "description": {
-      "ko": "프리츠커상 수상 건축가 자하 하디드. 격자형 관념을 깨고 손으로 유기적 곡선을 자유롭게 그리며 3차원 공간을 구상한 그녀의 뇌 자극 법과 3단계 실천 가이드를 소개합니다."
+      "ko": "프리츠커상 수상 건축가 자하 하디드. 격자형 관념을 깨고 손으로 유기적 곡선을 자유롭게 그리며 3차원 공간을 구상한 그녀의 뇌 자극 법과 3단계 실천 가이드를 소개합니다.",
+      "en": "Pritzker Prize-winning architect Zaha Hadid. Introduces her brain-stimulating method of breaking grid-bound ideas by sketching organic curves by hand to conceive 3D spatial concepts, complete with a 3-step action guide.",
+      "ja": "プリツカー賞受賞の建築家ザハ・ハディド。格子状の観念を破り、手で有機的な曲線を自由に描いて3次元空間を構想した彼女の脳刺激法と3ステップ実践ガイドを紹介します。",
+      "zh": "普利兹克奖得主扎哈·哈迪德。介绍她打破网格思维、用手自由绘制有机曲线以构思三维空间的脑力激发法及3步实操指南。",
+      "es": "Zaha Hadid, arquitecta ganadora del Premio Pritzker. Presenta su método de estimulación cerebral para concebir espacios tridimensionales mediante curvas orgánicas a mano, junto con una guía práctica de 3 pasos.",
+      "de": "Pritzker-Preisträgerin Zaha Hadid. Stellt ihre Gehirn-Stimulationsmethode vor, bei der sie das rechtwinklige Raster durch freies Zeichnen organischer Kurven durchbrach, um räumliche Visionen zu entwickeln.",
+      "fr": "L'architecte Zaha Hadid, lauréate du prix Pritzker. Présente sa méthode de stimulation cérébrale consistant à tracer à la main des courbes organiques pour imaginer l'espace en 3D, accompagnée d'un guide en 3 étapes.",
+      "pt": "Zaha Hadid, arquiteta vencedora do Prêmio Pritzker. Apresenta seu método de estimulação cerebral para desenhar curvas orgânicas à mão e conceber espaços 3D, com um guia prático de 3 etapas.",
+      "id": "Arsitek pemenang Pritzker Prize, Zaha Hadid. Memperkenalkan metode stimulasi otak untuk merancang ruang 3D dengan menggambar kurva organik secara bebas lewat tangan, dilengkapi panduan 3 langkah."
     },
     "authority": {
-      "ko": "자하 하디드 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+      "ko": "자하 하디드 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+      "en": "Historical records from Zaha Hadid biographies and autobiographical materials & Cognitive Neuroscience research",
+      "ja": "ザハ・ハディド歴史的伝記および自伝的記録考証＆認知神経科学研究",
+      "zh": "扎哈·哈迪德历史传记与自传文献考证及认知神经科学研究",
+      "es": "Biografías y registros autobiográficos de Zaha Hadid junto con investigaciones en Neurociencia Cognitiva",
+      "de": "Historische Biografien und autobiografische Dokumente zu Zaha Hadid sowie Kognitive Neurowissenschaften",
+      "fr": "Documents biographiques et autobiographiques de Zaha Hadid et recherches en neurosciences cognitives",
+      "pt": "Registros históricos de biografias e materiais autobiográficos de Zaha Hadid com pesquisas em Neurociência Cognitiva",
+      "id": "Rekam sejarah biografi dan catatan autobiografi Zaha Hadid & penelitian neurosains kognitif"
     },
     "intro": {
-      "ko": "여성 최초로 건축계의 노벨상이라 불리는 프리츠커상을 수상하며 세계 현대 건축의 패러다임을 바꾼 자하 하디드. 서울 동대문디자인플라자(DDP) 등 곡면으로 이뤄진 우주선 같은 그녀의 건축 기획은 어떻게 탄생했을까요? 🏛️\n\n하디드는 고정된 수평·수직 격자의 툴을 내려놓고 대형 무지 스케치북 위에 먹물과 펜으로 물결치듯 자유로운 곡선과 비정형 선들을 끊임없이 손으로 그렸습니다. 손의 유기적 움직임 속에 포착된 시공간 힌트들이 비선형적 공간 3차원 구상의 도파민 회로를 극적으로 자극했습니다.\n\n오늘 포스트에서는 자하 하디드의 '자유 곡선 스케치' 루틴과 현대인을 위한 3단계 발상 실천법을 탐구합니다."
+      "ko": "\"건축은 사람이 숨 쉬고 꿈꾸는 공간이어야 하며, 결코 사각형 상자 안에 갇혀 있어서는 안 된다.\" 🏛️\n\n여성 최초로 '건축계의 노벨상'이라 불리는 프리츠커 건축상(Pritzker Architecture Prize)을 수상하며 세계 현대 건축의 패러다임을 혁명적으로 바꾼 이라크 출신의 영국 건축가 자하 하디드(Zaha Hadid, 1950–2016). 서울 동대문디자인플라자(DDP), 아제르바이잔 바쿠의 헤이다르 알리예프 센터 등 3차원 유기적 곡선으로 이루어진 우주선 같은 그녀의 건축물들은 세계적인 도시에 강렬한 영감을 남겼습니다.\n\n하디드는 기존 건축계의 고정된 수평·수직 격자 틀과 사각형 중심의 생각에서 완전히 벗어났습니다. 그녀는 대형 무지 스케치북 위에 먹물과 펜으로 물결치듯 자유로운 곡선과 비정형 선들을 끊임없이 손으로 그려 나갔습니다. 이 유기적인 손 스케치 과정에서 포착된 시공간적 힌트들이 3차원적 공간 구조와 비선형적 발상을 가동하는 도파민 회로를 강력히 자극했습니다.\n\n오늘 포스트에서는 자하 하디드의 '자유 곡선 스케치' 루틴과 현대인을 위한 3단계 발상 실천법을 탐구합니다.",
+      "en": "\"Architecture should be a space where people can breathe and dream, never trapped inside a rectangular box.\" 🏛️\n\nZaha Hadid (1950–2016) was an Iraqi-British architect who revolutionized contemporary world architecture as the first woman to win the Pritzker Architecture Prize. Her futuristic 3D organic structures—such as Dongdaemun Design Plaza (DDP) in Seoul and the Heydar Aliyev Center in Baku—left profound artistic marks on major global cities.\n\nHadid completely discarded traditional rigid grids and rectangular thinking. On massive blank sketchbooks, using ink and pens, she continuously drew fluid, organic curves and freeform lines by hand. The visuospatial cues captured during this tactile sketching process powerfully stimulated dopamine circuits responsible for 3D spatial thinking and non-linear ideation.\n\nThis post explores Zaha Hadid's 'free curve sketching' routine and outlines a 3-step ideation method for modern professionals.",
+      "ja": "「建築は人が息づき夢を見る空間であるべきで、決して四角い箱の中に閉じ込められていてはならない。」 🏛️\n\n女性として初めて「建築界のノーベル賞」と称されるプリツカー建築賞（Pritzker Architecture Prize）を受賞し、現代建築のパラダイムを革命的に変えたイラク出身の建築家ザハ・ハディド（Zaha Hadid, 1950–2016）。 東大門デザインプラザ（DDP）やヘイダル・アリエフ・センターなど、有機的な曲線で構成された未来的な建築群は世界に強い衝撃を与えました。\n\nハディドは従来の水平・垂直格子フレームや四角中心の思考から完全に脱却しました。彼女は大型の無地スケッチブックに墨とペンで流れるような自由な曲線と非定型な線を絶え間なく手で描いていきました。このスケッチの過程で補捉された時空間的ヒントが、3次元的空間構造と非線形的な発想を稼働させるドーパミン回路を強力に刺激しました。\n\n本記事では、ザハ・ハディドの「自由曲線スケッチ」ルーティンと、現代人のための3ステップ発想実践法を探求します。",
+      "zh": "“建筑应当是人们呼吸和做梦的空间，绝不能被困在矩形盒子里面。” 🏛️\n\n伊拉克裔英国建筑师扎哈·哈迪德（Zaha Hadid，1950–2016）是首位获得被誉为“建筑界诺贝尔奖”的普利兹克建筑奖的女性，她革命性地改变了世界现代建筑的范式。如首尔东大门设计广场（DDP）和巴库阿塞拜疆黑达尔·阿利耶夫中心等由三维有机曲线构成的流线型建筑，为全球都市留下了震撼性的灵感印记。\n\n哈迪德彻底打破了传统建筑学中固定的水平与垂直网格及矩形思维。她在大型空白素描本上，用水墨和钢笔手绘如波浪般连绵不绝的自由曲线与非定型线条。在手绘流线草图的过程中捕获的时空线索，极大地刺激了负责三维空间构想与非线性思考的多巴胺回路。\n\n本篇文章探讨扎哈·哈迪德的“自由曲线草图”习惯，并为现代人呈献3步灵感实操指南。",
+      "es": "\"La arquitectura debe ser un espacio donde la gente pueda respirar y soñar, jamás atrapada dentro de una caja rectangular.\" 🏛️\n\nZaha Hadid (1950–2016), la primera mujer en ganar el Premio Pritzker de Arquitectura, revolucionó el paradigma de la arquitectura contemporánea. Sus emblemáticas estructuras en curva orgánica 3D, como el Dongdaemun Design Plaza (DDP) en Seúl y el Centro Heydar Aliyev en Bakú, dejaron una impronta indeleble en las principales metrópolis del mundo.\n\nHadid desechó por completo las cuadrículas rígidas y el pensamiento cartesiano. En cuadernos de bocetos gigantes de papel blanco, trazaba a mano con tinta líneas ondulantes y formas fluidas. Los detalles visuoespaciales captados mediante este dibujo táctil estimulaban los circuitos de dopamina encargados de la visión tridimensional y la ideación no lineal.\n\nEste post explora la rutina de 'bocetos en curva libre' de Zaha Hadid y propone una guía de 3 pasos para profesionales.",
+      "de": "\"Architektur muss ein Raum sein, in dem Menschen atmen und träumen können, niemals eingesperrt in einer rechteckigen Kiste.\" 🏛️\n\nZaha Hadid (1950–2016), die erste weibliche Pritzker-Preisträgerin, revolutionierte die Moderne Architektur. Ihre futuristischen organischen 3D-Bauten – wie das Dongdaemun Design Plaza (DDP) in Seoul oder das Heydar Aliyev Center in Baku – prägten Weltstädte nachhaltig.\n\nHadid warf starre Raster und rechteckiges Denken über Bord. Auf riesigen leeren Skizzenblöcken zeichnete sie mit Tinte und Stift fließende organisches Kurven und freie Linien per Hand. Die visuell-räumlichen Reize beim Handzeichnen stimulierten Dopaminpfade für dreidimensionales und nicht-lineares Denken.\n\nDieser Beitrag beleuchtet Hadids 'Freihand-Kurvenskizzen'-Routine und bietet ein 3-Schritte-Modell zur Steigerung der eigenen Vorstellungskraft.",
+      "fr": "\"L'architecture doit être un espace où l'on respire et où l'on rêve, et ne jamais rester enfermée dans une boîte rectangulaire.\" 🏛️\n\nZaha Hadid (1950–2016), première femme lauréate du prix Pritzker d'architecture, a révolutionné l'architecture contemporaine. Ses structures organiques futuristes en 3D — telles que le Dongdaemun Design Plaza (DDP) à Séoul ou le centre Heydar Aliyev à Bakou — ont marqué les capitales du monde entier.\n\nHadid a rejeté les grilles orthogonales traditionnelles. Sur de grands carnets à dessin, elle traçait à la main, à l'encre et au stylo, des lignes fluides et des courbes organiques. Ce processus tactile stimulait les circuits dopaminergiques responsables de la pensée spatiale en 3D et de l'idéation non linéaire.\n\nCet article explore la routine d'esquisse en courbe libre de Zaha Hadid et propose un guide en 3 étapes pour développer la créativité.",
+      "pt": "\"A arquitetura deve ser um espaço onde as pessoas possam respirar e sonhar, nunca presa dentro de uma caixa retangular.\" 🏛️\n\nZaha Hadid (1950–2016), a primeira mulher a vencer o Prêmio Pritzker de Arquitetura, revolucionou a arquitetura contemporânea mundial. Suas estruturas futuristas em curvas orgânicas 3D — como o Dongdaemun Design Plaza (DDP) em Seul e o Centro Heydar Aliyev em Baku — deixaram marcas profundas pelo mundo.\n\nHadid abandonou por completo as grades rígidas tradicionais. Em grandes blocos de papel em branco, desenhava a mão com tinta nanquim curvas fluídas e linhas orgânicas. Os estímulos visuoespaciais desse desenho manual estimulavam os circuitos dopaminérgicos responsáveis pelo pensamento 3D e ideação não linear.\n\nEste artigo explora a rotina de 'esboços em curvas livres' de Zaha Hadid e traz um guia prático de 3 etapas para aplicar a ideação no dia a dia.",
+      "id": "\"Arsitektur harus menjadi ruang di mana orang dapat bernapas dan bermimpi, bukannya terperangkap dalam kotak persegi panjang.\" 🏛️\n\nZaha Hadid (1950–2016) adalah arsitek wanita pertama yang memenangkan Pritzker Architecture Prize dan merevolusi paradigma arsitektur modern. Karya-karya organik 3D futuristiknya—seperti Dongdaemun Design Plaza (DDP) di Seoul dan Heydar Aliyev Center di Baku—meninggalkan jejak mendalam di kota-kota besar dunia.\n\nHadid meninggalkan kisi-kisi kaku dan pola pikir kotak. Di atas buku sketsa polos besar, menggunakan tinta dan pena, ia menggambar kurva bebas dan garis organik tanpa henti. Petunjuk visual-spasial yang ditangkap selama menggambar tangan ini menstimulasi sirkuit dopamin yang mengurus pemikiran ruang 3D.\n\nArtikel ini mempelajari rutinitas sketsa kurva bebas Zaha Hadid dan menyajikan panduan 3 langkah bagi pekerja modern."
     },
     "whyTitle": {
-      "ko": "우뇌적 시공간 처리 회로(Visuospatial Processing)의 자극"
+      "ko": "우뇌적 시공간 처리 회로(Visuospatial Processing)의 자극",
+      "en": "Stimulation of Right-Brain Visuospatial Processing Circuits",
+      "ja": "右脳的視空間処理回路（Visuospatial Processing）の刺激",
+      "zh": "刺激右脑视空间处理回路（Visuospatial Processing）",
+      "es": "Estimulación de los circuitos visuoespaciales del hemisferio derecho",
+      "de": "Stimulation rechtshemisphärischer visuell-räumlicher Verarbeitungspfade",
+      "fr": "Stimulation des circuits visuo-spatiaux de l'hémisphère droit",
+      "pt": "Estimulação dos circuitos visuoespaciais do hemisfério direito",
+      "id": "Stimulasi Sirkuit Pemrosesan Visuospasial Otak Kanan"
     },
     "whyDesc": {
-      "ko": "정형화된 가이드라인과 직선에 의존할 때 뇌의 좌뇌 논리 영역이 우위를 점하며 비틀린 고정관념을 강화합니다. 하디드처럼 제약 없는 <strong>유기적 손 스케치</strong>를 실행하면 우뇌의 시공간 처리 영역이 활성화되어 새로운 시각적 아이디어가 극대화됩니다."
+      "ko": "정형화된 가이드라인과 직선에 의존할 때 뇌의 좌뇌 논리 영역이 우위를 점하며 고정관념을 강화합니다. 하디드처럼 제약 없는 <strong>유기적 손 스케치</strong>를 실행하면 우뇌의 시공간 처리 영역이 활성화되어 새로운 시각적 아이디어가 극대화됩니다.",
+      "en": "Relying strictly on rigid guidelines and straight lines causes the left brain's logical areas to dominate, reinforcing stereotypes. Executing unrestricted <strong>organic hand sketching</strong> like Hadid activates the right brain's visuospatial processing areas, maximizing novel visual ideas.",
+      "ja": "定型化されたガイドラインや直線に依存すると脳の左脳論理領域が優位に立ち、固定観念を強化します。ハディドのように制約のない<strong>有機的な手描きスケッチ</strong>を実行すると右脳の視空間処理領域が活性化され、新しい視覚的アイデアが極大化されます。",
+      "zh": "过度依赖固定的网格指引和直线会导致左脑逻辑区域占为主导，从而强化固有思维。像哈迪德那样绘制无拘无束的<strong>有机手绘草图</strong>，能激活右脑的视空间处理区域，使全新的视觉灵感爆发。",
+      "es": "Depender de pautas rígidas y líneas rectas hace que domine el hemisferio izquierdo, reforzando estereotipos. Dibujar <strong>bocetos orgánicos a mano</strong> sin restricciones activa las áreas visuoespaciales del hemisferio derecho, maximizando ideas visuales innovadoras.",
+      "de": "Das Verharren in starren Rastern lässt die linke Gehirnhälfte dominieren und verstärkt Denkmuster. Das freie <strong>Skizzieren organischer Formen</strong> per Hand aktiviert visuell-räumliche Areale der rechten Gehirnhälfte und bringt frische visuelle Ideen hervor.",
+      "fr": "Compter uniquement sur des lignes droites et des grilles rigides fait dominer la logique de l'hémisphère gauche. Tracer de grands <strong>croquis organiques à la main</strong> active les zones visuo-spatiales de l'hémisphère droit, débloquant des idées créatives.",
+      "pt": "Apoiar-se apenas em linhas retas e grades rígidas faz o hemisfério esquerdo dominar, reforçando estigmas. Desenhar <strong>esboços orgânicos manuais</strong> sem restrições ativa o processamento visuoespacial do lado direito, maximizando ideias visuais inovadoras.",
+      "id": "Ketergantungan pada panduan kaku dan garis lurus membuat area logika otak kiri mendominasi dan memperkuat pola pikir lama. Menggambar <strong>sketsa tangan organik</strong> tanpa batasan mengaktifkan area pemrosesan visuospasial otak kanan, memaksimalkan ide visual baru."
     },
     "cautionTitle": {
-      "ko": "초반 완성도에 대한 정밀 집착 주의"
+      "ko": "초반 완성도에 대한 정밀 집착 주의",
+      "en": "Caution Against Obsessing Over Initial Precision and Perfection",
+      "ja": "序盤の完成度に対する精密な執着への注意",
+      "zh": "谨防起步阶段过于执着于画面完美度与精准度",
+      "es": "Atención a la obsesión inicial por la perfección y la precisión",
+      "de": "Warnung vor perfekcionistischer Anspannung zu Beginn",
+      "fr": "Attention à l'obsession de perfection au tout début",
+      "pt": "Cuidado com a obsessão inicial por precisão e perfeição",
+      "id": "Peringatan Terhadap Obsesi Presisi dan Kesempurnaan di Awal"
     },
     "cautionDesc": {
-      "ko": "스케치 초반에 '예쁜 그림을 그려야지' 하고 자를 대거나 비대칭을 수정하면 뇌의 자유 발상 회로가 닫힙니다. 처음 5분은 완성도가 아닌 자유로운 선의 흐름 자체에만 집중하세요. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다."
+      "ko": "스케치 초반에 '예쁜 그림을 그려야지' 하고 자를 대거나 비대칭을 수정하면 뇌의 자유 발상 회로가 닫힙니다. 처음 5분은 완성도가 아닌 자유로운 선의 흐름 자체에만 집중하세요. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다.",
+      "en": "If you use a ruler or correct asymmetry early on trying to 'draw a pretty picture', the brain's free ideation circuit closes. For the first 5 minutes, focus solely on the flow of lines rather than perfection. Rather than relying on pure willpower, design a physical environment and habit cues that naturally trigger action.",
+      "ja": "スケッチ序盤に「綺麗な絵を描こう」と定規を使ったり非対称を修正しようとすると、脳の自由発想回路が閉じます。最初の5分間は完成度ではなく自由な線の流れだけに集中してください。精神力だけに頼らず、行動が自然と誘発される物理的環境を整えることが継続の鍵です。",
+      "zh": "如果起步阶段想着“画一幅好看的图”而使用尺子或纠正不对称，大脑的自由发散回路就会关闭。前5分钟请完全忽略完美度，仅专注于线条本身的流动。不要单靠意志力，提前构建能自然促成行动的物理环境与习惯诱因才是持之以恒的关键。",
+      "es": "Si intentas 'hacer un dibujo bonito' usando reglas o corrigiendo asimetrías al principio, el circuito de ideación libre se frena. En los primeros 5 minutos concéntrate solo en el flujo de líneas. En lugar de depender de la fuerza de voluntad, diseña un entorno que incite la acción.",
+      "de": "Verwenden Sie zu Beginn keine Lineale und korrigieren Sie keine Asymmetrien, sonst schließt sich der kreative Denkraum. Konzentrieren Sie sich in den ersten 5 Minuten nur auf den Linienfluss. Gestalten Sie Ihre Umgebung so, dass das Ausprobieren leicht fällt.",
+      "fr": "Si vous utilisez une règle ou corrigez l'asymétrie dès le départ pour 'faire un beau dessin', vous bloquez la pensée libre. Pendant les 5 premières minutes, concentrez-vous uniquement sur le geste. Aménagez votre environnement pour déclencher naturally l'action.",
+      "pt": "Se tentar 'fazer um desenho bonito' usando réguas ou corrigindo assimetrias no início, o circuito de ideação se fecha. Nos primeiros 5 minutos, foque apenas no fluxo das linhas. Em vez de depender só de força de vontade, crie um ambiente propício à prática.",
+      "id": "Jika Anda menggunakan penggaris atau mengoreksi ketidaksimetrisan di awal karena ingin 'membuat gambar bagus', sirkuit pemikiran bebas otak akan tertutup. Untuk 5 menit pertama, fokuslah hanya pada alur garis. Rancang lingkungan fisik yang memicu tindakan secara alami."
     },
     "steps": [
       {
         "name": {
-          "ko": "무지 대형 스케치북 준비"
+          "ko": "무지 대형 스케치북 준비",
+          "en": "Prepare a Large Blank Sketchbook",
+          "ja": "大型の無地スケッチブックの準備",
+          "zh": "准备大型无格空白素描本",
+          "es": "Prepara un cuaderno de bocetos grande y en blanco",
+          "de": "Vorbereitung eines großen leeren Skizzenbuchs",
+          "fr": "Préparer un grand carnet de croquis blanc",
+          "pt": "Preparar um bloco de esboços grande sem pauta",
+          "id": "Menyiapkan Buku Sketsa Polos Ukuran Besar"
         },
         "text": {
-          "ko": "격자나 줄이 없는 큰 무지 노트를 준비하고, 자나 컴퓨터 도구를 멀리 배치합니다. 외부의 산만 요소를 철저히 단단히 차단하고, 뇌의 전두엽에 명확한 실행 목표와 프레임을 확립하는 데 온전히 집중합니다."
+          "ko": "격자나 줄이 없는 큰 무지 노트를 준비하고, 자나 컴퓨터 도구를 멀리 배치합니다. 외부의 산만 요소를 철저히 차단하고, 뇌의 전두엽에 명확한 실행 목표와 프레임을 확립하는 데 온전히 집중합니다.",
+          "en": "Prepare a large blank notebook without grids or lines, and place rulers and computers out of reach. Thoroughly eliminate external distractions to establish a clear execution frame for the prefrontal cortex.",
+          "ja": "方眼や罫線のない大きな無地ノートを準備し、定規やPCを遠ざけます。外部の散漫要素を遮断し、前頭葉に明確な目標とフレームを確立することに集中します。",
+          "zh": "准备一本没有网格或横线的空白大笔记本，将尺子或电脑移开。彻底排除外界干扰，全神贯注于为前额叶皮层确立明确的目标与执行框架。",
+          "es": "Consigue un cuaderno grande sin líneas ni cuadrículas y aleja reglas y ordenadores. Elimina distracciones para concentrarte en establecer un marco de acción claro.",
+          "de": "Besorgen Sie ein großes unliniertes Buch ohne Raster und legen Sie Lineale und Laptops weg. Schalten Sie Störungen aus, um sich voll zu konzentrieren.",
+          "fr": "Munissez-vous d'un grand carnet sans lignes ni carreaux et éloignez règles et écrans. Éliminez les distractions pour fixer des objectifs clairs à votre esprit.",
+          "pt": "Prepare um caderno grande sem pautas ou grades e afaste réguas e computadores. Elimine distrações para focar na execução da atividade.",
+          "id": "Siapkan buku catatan polos tanpa garis atau kisi-kisi, dan jauhkan penggaris serta komputer. Hilangkan gangguan luar untuk fokus menetapkan kerangka kerja."
         }
       },
       {
         "name": {
-          "ko": "손을 이용한 연속 유기적 드로잉"
+          "ko": "손을 이용한 연속 유기적 드로잉",
+          "en": "Continuous Organic Hand Drawing",
+          "ja": "手を使った連続的な有機的ドローイング",
+          "zh": "用手进行连续有机线条绘制",
+          "es": "Dibujo a mano continuo y orgánico",
+          "de": "Fortlaufendes organisches Freihandzeichnen",
+          "fr": "Dessin à la main continu et organique",
+          "pt": "Desenho manual contínuo e orgânico",
+          "id": "Menggambar Bebas Organik Secara Berkesinambungan"
         },
         "text": {
-          "ko": "의도적인 형태를 정하지 않고 물결, 바람, 곡선의 흐름을 손으로 5분간 끊임없이 묘사합니다."
+          "ko": "의도적인 형태를 정하지 않고 물결, 바람, 곡선의 흐름을 손으로 5분간 끊임없이 묘사합니다.",
+          "en": "Without setting a predetermined form, continuously draw the fluid flow of waves, wind, and curves for 5 minutes.",
+          "ja": "意図的な形を決めず、波、風、曲線の流れを手で5分間絶え間なく描写します。",
+          "zh": "不要预先设定具体形状，用手连续描绘波浪、微风与曲线的流动，持续5分钟。",
+          "es": "Sin predeterminar una figura, dibuja durante 5 minutos de forma continua el flujo ondulante del agua, el viento o curvas.",
+          "de": "Zeichnen Sie 5 Minuten lang ohne vorgegebenes Motiv fließende Wellen, Wind und geschwungene Linien.",
+          "fr": "Sans chercher une forme précise, tracez continuellement pendant 5 minutes le mouvement des vagues, du vent ou de courbes.",
+          "pt": "Sem definir uma forma prévia, desenhe continuamente por 5 minutos o fluxo de ondas, vento e curvas.",
+          "id": "Tanpa menentukan bentuk tertentu, gambarlah alur gelombang, angin, dan kurva secara terus-menerus selama 5 menit."
         }
       },
       {
         "name": {
-          "ko": "곡선 간의 3차원 형상 포착"
+          "ko": "곡선 간의 3차원 형상 포착",
+          "en": "Capturing 3D Spatial Structures Between Curves",
+          "ja": "曲線間の3次元形状の捕捉",
+          "zh": "捕捉曲线交错中的三维空间意象",
+          "es": "Capturar formas tridimensionales entre las curvas",
+          "de": "Erfassen dreidimensionaler Formen aus den Linien",
+          "fr": "Saisir les structures 3D révélées par les courbes",
+          "pt": "Capturar formas tridimensionais entre as curvas",
+          "id": "Menangkap Bentuk Tiga Dimensi di Antara Kurva"
         },
         "text": {
-          "ko": "겹쳐진 자유 곡선들 사이에서 느껴지는 공간감이나 구조적 음영을 발견해 아이디어로 옮깁니다."
+          "ko": "겹쳐진 자유 곡선들 사이에서 느껴지는 공간감이나 구조적 음영을 발견해 아이디어로 옮깁니다.",
+          "en": "Discover sense of depth, spatial volume, or structural shadows emerging from overlapping free curves and translate them into ideas.",
+          "ja": "重なり合った自由曲線から感じられる立体感や構造的な陰影を発見し、アイデアへ落とし込みます。",
+          "zh": "从重叠的自由曲线中捕捉深度感、空间体量或结构阴影，并将它们转化为创作灵感。",
+          "es": "Descubre la sensación de profundidad y las sombras estructurales que emergen de las curvas superpuestas y conviértelas en ideas.",
+          "de": "Entdecken Sie Tiefenwirkung und Schatten zwischen den überlappenden Linien und verwandeln Sie diese in Konzepte.",
+          "fr": "Déceliez la profondeur et les ombres structurales nées du chevauchement des lignes et traduisez-les en idées.",
+          "pt": "Identifique a sensação de profundidade e sombras estruturais que emergem das linhas e transforme-as em conceitos.",
+          "id": "Temukan kedalaman dan bayangan struktural yang muncul dari kurva tumpang tindih dan ubah menjadi ide konkret."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "그림 실력이 전혀 없어도 이 루틴을 쓸 수 있나요?"
+          "ko": "그림 실력이 전혀 없어도 이 루틴을 쓸 수 있나요?",
+          "en": "Can I use this routine even if I have zero drawing skills?",
+          "ja": "絵の具やデッサン技術が全くなくてもこのルーティンを使えますか？",
+          "zh": "即使完全没有绘画基础也可以使用这个习惯吗？",
+          "es": "¿Puedo usar esta rutina si no sé dibujar en absoluto?",
+          "de": "Kann ich diese Routine auch ohne jegliche Zeichenkenntnisse nutzen?",
+          "fr": "Puis-je utiliser cette routine si je ne sais pas du tout dessiner ?",
+          "pt": "Posso usar esta rotina mesmo sem nenhuma habilidade para desenhar?",
+          "id": "Apakah saya dapat menggunakan rutinitas ini jika tidak memiliki keterampilan menggambar sama sekali?"
         },
         "answer": {
-          "ko": "네, 예술 작품을 만드는 것이 목적이 아니라 '손의 움직임으로 우뇌 공간 회로를 자극'하는 인지 훈련이므로 낙서 수준의 선으로도 완벽한 효과가 납니다."
+          "ko": "네, 예술 작품을 만드는 것이 목적이 아니라 '손의 움직임으로 우뇌 공간 회로를 자극'하는 인지 훈련이므로 낙서 수준의 선으로도 완벽한 효과가 납니다.",
+          "en": "Yes, absolutely! The purpose is not creating an artwork, but cognitive training to stimulate right-brain spatial circuits through hand movement. Even simple scribbles yield full benefits.",
+          "ja": "はい！芸術作品を作ることが目的ではなく「手の動きで右脳の空間回路を刺激する」認知トレーニングですので、落書きレベルの線でも十分な効果が得られます。",
+          "zh": "完全可以！此目的并非创作艺术品，而是通过“手部运动刺激右脑视空间回路”的认知训练，哪怕是随手涂鸦级别的线条也能取得极佳效果。",
+          "es": "¡Sí, por supuesto! El objetivo no es crear una obra de arte, sino un entrenamiento cognitivo para estimular el hemisferio derecho a través del movimiento de la mano. Los garabatos sencillos funcionan perfectamente.",
+          "de": "Ja, absolut! Das Ziel ist kein Kunstwerk, sondern ein Gehirntraining zur Stimulation räumlicher Pfade. Selbst einfache Kritzeleien erzielen die volle Wirkung.",
+          "fr": "Oui, tout à fait ! Le but n'est pas de créer une œuvre d'art, mais de stimuler les circuits spatiaux par le mouvement de la main. De simples gribouillages suffisent amplement.",
+          "pt": "Sim, com certeza! O objetivo não é criar arte, mas realizar um treino cognitivo para estimular circuitos do lado direito do cérebro. Rabiscos simples funcionam perfeitamente.",
+          "id": "Ya, tentu saja! Tujuannya bukan membuat karya seni, melainkan latihan kognitif untuk menstimulasi sirkuit otak kanan melalui gerakan tangan. Coretan sederhana pun memberikan hasil sempurna."
         }
       },
       {
         "question": {
-          "ko": "태블릿 디지털 펜슬을 써도 효과가 똑같은가요?"
+          "ko": "태블릿 디지털 펜슬을 써도 효과가 똑같은가요?",
+          "en": "Does using a digital tablet stylus produce the exact same effect?",
+          "ja": "タブレットのデジタルペンシルを使っても効果は同じですか？",
+          "zh": "使用平板电脑与数字手写笔也能达到同样的效果吗？",
+          "es": "¿Tiene el mismo efecto usar una tableta digital con lápiz óptico?",
+          "de": "Hat die Nutzung eines Grafiktabletts denselben Effekt?",
+          "fr": "L'utilisation d'une tablette avec stylet a-t-elle le même effet ?",
+          "pt": "Usar uma caneta digital em um tablet produz o mesmo efeito?",
+          "id": "Apakah menggunakan stylus di tablet digital memberikan efek yang sama?"
         },
         "answer": {
-          "ko": "가능합니다. 단, 화면 손떨림 보정이나 뒤로가기(Undo) 기능을 사용하면 뇌가 수정을 의식하게 되므로 보정 기능을 끄고 자유롭게 그리는 환경을 추천합니다."
+          "ko": "가능합니다. 단, 화면 손떨림 보정이나 뒤로가기(Undo) 기능을 사용하면 뇌가 수정을 의식하게 되므로 보정 기능을 끄고 자유롭게 그리는 환경을 추천합니다.",
+          "en": "Yes, it works! However, if stroke stabilization or the 'Undo' feature is active, the brain becomes self-conscious about making corrections. Turn off stabilization and undo functions for best results.",
+          "ja": "可能です。ただし、手ブレ補正や「やり直し（Undo）」機能を使うと脳が修正を意識してしまうため、補正機能をオフにして自由描画できる環境をおすすめします。",
+          "zh": "完全可以。不过，如果启用了防抖修正或“撤销（Undo）”功能，大脑会下意识地想要修改纠错。建议关闭平滑修正与撤销功能，体验自由书写。",
+          "es": "Sí, es posible. Sin embargo, usar funciones como 'Deshacer' o estabilizadores hace que la mente se vuelva autocrítica. Desactiva estas funciones para mantener la libertad.",
+          "de": "Ja, das geht. Wenn Sie jedoch die 'Rückgängig'-Funktion oder Korrekturfilter nutzen, wird das Gehirn wieder selbstkritisch. Schalten Sie diese Hilfen aus.",
+          "fr": "Oui, c'est possible. Mais si vous utilisez la fonction 'Annuler' ou la stabilisation, votre cerveau se remet à contrôler. Désactivez ces options pour garder une liberté totale.",
+          "pt": "Sim, é possível. Porém, usar a função 'Desfazer' ou estabilizadores faz o cérebro ficar atento a correções. Desative esses recursos para manter a liberdade total.",
+          "id": "Bisa. Namun, jika menggunakan fitur 'Undo' atau stabilisasi garis, otak menjadi sadar untuk mengoreksi. Matikan fitur pemulihan dan pemulus garis untuk hasil terbaik."
         }
       }
     ]

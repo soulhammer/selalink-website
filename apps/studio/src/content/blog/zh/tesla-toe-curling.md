@@ -1,6 +1,6 @@
 ---
-title: "발가락을 100번 오므린 천재? 니콜라 테슬라의 기묘한 숙면 의식"
-description: "매일 밤 침대에 누워 발가락을 오므렸던 천재 발명가 니콜라 테슬라. 그의 독특한 루틴 속에 숨겨진 뇌과학적 비밀과 현대인을 위한 3단계 실천법을 소개합니다."
+title: "将脚趾卷曲100次的天才？尼古拉·特斯拉的奇妙熟睡仪式"
+description: "天才发明家尼古拉·特斯拉每晚躺在床上都会卷曲脚趾。探索隐藏在他独特习惯中的大脑科学秘密，以及适合现代人的3步实践指南。"
 pubDate: "2026-04-28"
 updatedDate: "2026-04-28"
 category: "BuildSelf"
@@ -10,23 +10,23 @@ app: "buildself"
 formatVersion: 4
 authority: "Nikola Tesla, *My Inventions: The Autobiography of Nikola Tesla* (1919) & *JPTS Journal*"
 steps:
-  - name: "발가락을 100번 오므린 천재? 니콜라 테슬라의 기묘한 숙면 의식 1단계 고유 실천 수칙"
-    text: "발가락을 100번 오므린 천재? 니콜라 테슬라의 기묘한 숙면 의식 습관의 1단계 실천을 위한 전용 환경을 구축하고 뇌의 신경 회로를 집중 가동합니다."
-  - name: "발가락을 100번 오므린 천재? 니콜라 테슬라의 기묘한 숙면 의식 2단계 고유 실천 수칙"
-    text: "발가락을 100번 오므린 천재? 니콜라 테슬라의 기묘한 숙면 의식 습관의 2단계 실천을 위한 전용 환경을 구축하고 뇌의 신경 회로를 집중 가동합니다."
-  - name: "발가락을 100번 오므린 천재? 니콜라 테슬라의 기묘한 숙면 의식 3단계 고유 실천 수칙"
-    text: "발가락을 100번 오므린 천재? 니콜라 테슬라의 기묘한 숙면 의식 습관의 3단계 실천을 위한 전용 환경을 구축하고 뇌의 신경 회로를 집중 가동합니다."
+  - name: "步骤1：准备睡眠与被窝里的姿势调整"
+    text: "睡前躺在床上盖上被子后，放松全身，将注意力完全集中在脚尖的感觉和神经上。"
+  - name: "步骤2：脚趾卷曲100次仪式"
+    text: "有节奏地同时紧握并伸展双脚脚趾，重复100次，以刺激自主神经。"
+  - name: "步骤3：副交感神经放松与进入深度睡眠"
+    text: "感受脚趾运动后遍布全身的微温与放松感，跟随大脑“睡眠”的信号自然沉沉入睡。"
 faqs:
-  - question: "발가락을 꼼지락거리는 행위가 정말 뇌 활성화에 도움이 되나요?"
-    answer: "네, 발가락 영역은 전두엽 피질의 신체 감각 지도상에서 뇌 중심부에 위치하고 있어, 발가락 미세 근육을 자극하는 것은 말초 신경을 통해 전두엽을 미세 자극하는 효과가 있습니다."
+  - question: "动脚趾真的有助于激活大脑吗？"
+    answer: "是的！在大脑躯体感觉皮层地图上，脚趾区域位于中心附近。刺激脚趾的微小肌肉可以通过外周神经微妙地刺激前额叶。"
 
 ---
 
-에디슨과 함께 세상을 밝힌 천재 과학자이자, 현대 전기 문명의 초석을 다진 니콜라 테슬라. 그가 매일 밤 침대에 누워 아주 기묘한 행동을 반복했다는 사실을 아시나요? ⚡
+您知道与爱迪生一起照亮世界的天才科学家、为交流电（AC）电力系统和无线通信技术奠定基础的尼古拉·特斯拉（Nikola Tesla，1856-1943）每晚躺在床上都会重复一个奇特的习惯吗？⚡
 
-테슬라는 평소 하루에 단 2시간만 자는 극단적인 수면 패턴을 고수하면서도 지치지 않고 수많은 발명을 이어나갔습니다. 그 비결 중 하나는 바로 매일 밤 침대에 누워 양쪽 발가락을 각각 100번씩 꽉 쥐었다 펴는 독특한 수면 리추얼이었습니다.
+虽然特斯拉维持着每天仅睡2小时的极端睡眠模式，但他依然不知疲倦地推陈出新，做出了无数革命性发明。他的精力秘诀之一，就是每晚躺在床上将每只脚的脚趾紧握并伸展100次。
 
-오늘 포스트에서는 역사적인 천재의 기상천외한 습관 속에 담긴 과학적 원리와, 이를 우리 일상에 적용하는 방법을 소개합니다.
+在本文中，我们将探讨这位历史天才古怪习惯背后的科学原理，以及如何将其应用到我们的日常生活中。
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -42,45 +42,45 @@ faqs:
 
 ---
 
-## 뇌세포를 깨우는 신경 스위치, 발가락
+## 唤醒脑细胞的神经开关：脚趾
 
-테슬라는 발가락을 반복적으로 오므리는 사소해 보이는 운동이 발끝에 집중된 수많은 신경을 자극해 뇌세포를 활성화하고, 하루 동안 쌓인 두뇌의 피로를 리셋해 준다고 믿었습니다. 
+特斯拉相信，这种看似微不足道的反复卷曲脚趾的运动，能刺激集中在脚尖的众多神经，激活脑细胞并重置累积的大脑疲劳。
 
-실제로 뇌의 체감각 피질(Somatosensory Cortex)에서 발과 발가락이 차지하는 영역은 손만큼이나 넓습니다. 하루 종일 양말과 신발에 갇혀 무뎌진 발가락을 의도적으로 움직이는 것은 잠자고 있던 신경망을 자극하는 훌륭한 방법입니다.
+实际上，在大脑的躯体感觉皮层（Somatosensory Cortex）中，脚和脚趾所占的区域与手部几乎一样广阔。刻意活动整天束缚在袜子和鞋子里的脚趾，是刺激休眠神经网络的绝佳方法。
 
 ---
 
-## 성공적인 루틴을 위한 뇌과학적 한마디
+## 成功习惯的神经科学建议
 
-발가락 운동은 심장에서 가장 먼 곳의 혈액 순환을 도와 체온을 균일하게 만들고, 부교감 신경을 활성화합니다. 매일 밤 같은 타이밍(이불을 덮은 직후)에 이 행동을 반복하면 뇌는 이를 '잠잘 시간'이라는 강력한 조건반사적 신호로 인식하게 됩니다.
+脚趾运动有助于促进远离心脏部位的血液循环，使体温保持均匀，并激活副交感神经。每天晚上在相同的时间（刚盖上被子后）重复这一动作，大脑就会将其识别为强有力的条件反射“睡眠信号”。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">步骤 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">발가락을 100번 오므린 천재? 니콜라 테슬라의 기묘한 숙면 의식 1단계 고유 실천 수칙</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">步骤1：准备睡眠与被窝里的姿势调整</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    발가락을 100번 오므린 천재? 니콜라 테슬라의 기묘한 숙면 의식 습관의 1단계 실천을 위한 전용 환경을 구축하고 뇌의 신경 회로를 집중 가동합니다.
+    睡前躺在床上盖上被子后，放松全身，将注意力完全集中在脚尖的感觉和神经上。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">步骤 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">발가락을 100번 오므린 천재? 니콜라 테슬라의 기묘한 숙면 의식 2단계 고유 실천 수칙</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">步骤2：脚趾卷曲100次仪式</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    발가락을 100번 오므린 천재? 니콜라 테슬라의 기묘한 숙면 의식 습관의 2단계 실천을 위한 전용 환경을 구축하고 뇌의 신경 회로를 집중 가동합니다.
+    有节奏地同时紧握并伸展双脚脚趾，重复100次，以刺激自主神经。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">步骤 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">발가락을 100번 오므린 천재? 니콜라 테슬라의 기묘한 숙면 의식 3단계 고유 실천 수칙</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">步骤3：副交感神经放松与进入深度睡眠</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    발가락을 100번 오므린 천재? 니콜라 테슬라의 기묘한 숙면 의식 습관의 3단계 실천을 위한 전용 환경을 구축하고 뇌의 신경 회로를 집중 가동합니다.
+    感受脚趾运动后遍布全身的微温与放松感，跟随大脑“睡眠”的信号自然沉沉入睡。
   </p>
 </div>
 
@@ -91,11 +91,11 @@ faqs:
   
   <details class="group cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>발가락을 꼼지락거리는 행위가 정말 뇌 활성화에 도움이 되나요?</span>
+      <span>动脚趾真的有助于激活大脑吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      네, 발가락 영역은 전두엽 피질의 신체 감각 지도상에서 뇌 중심부에 위치하고 있어, 발가락 미세 근육을 자극하는 것은 말초 신경을 통해 전두엽을 미세 자극하는 효과가 있습니다.
+      是的！在大脑躯体感觉皮层地图上，脚趾区域位于中心附近。刺激脚趾的微小肌肉可以通过外周神经微妙地刺激前额叶。
     </p>
   </details>
 </div>

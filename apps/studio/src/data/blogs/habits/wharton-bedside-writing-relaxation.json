@@ -1,62 +1,190 @@
 {
   "wharton-bedside-writing-relaxation": {
     "title": {
-      "ko": "이완이 이끄는 창조적 흐름: 에디스 워튼의 침대 위 오전 집필 습관"
+      "ko": "이완이 이끄는 창조적 흐름: 에디스 워튼의 침대 위 오전 집필 습관",
+      "en": "Creative Flow Guided by Relaxation: Edith Wharton's Bedside Morning Writing Habit",
+      "ja": "リラックスが導く創造的フロー：エディス・ウォートンのベッドの上での午前執筆習慣",
+      "zh": "放松引导的创意之流：伊迪丝·华顿的床头晨间写作习惯",
+      "es": "El flujo creativo guiado por la relajación: El hábito matutino de escritura en la cama de Edith Wharton",
+      "de": "Kreativer Fluss durch Entspannung: Edith Whartons morgendliche Schreibgewohnheit im Bett",
+      "fr": "Flux créatif guidé par la relaxation : La routine d'écriture matinale au lit d'Edith Wharton",
+      "pt": "Fluxo criativo guiado pelo relaxamento: O hábito matinal de escrita na cama de Edith Wharton",
+      "id": "Alur Kreatif yang Dituntun oleh Relaksasi: Kebiasaan Menulis Pagi di Tempat Tidur Edith Wharton"
     },
     "description": {
-      "ko": "여성 최초로 소설 분야 퓰리처상을 수상한 거장 에디스 워튼. 아침에 일어나 침대에서 나가지 않고 반려견들과 엎드려 편안하게 글을 썼던 그녀의 신경생리학적 이완 집필 비결을 밝힙니다."
+      "ko": "여성 최초로 소설 분야 퓰리처상을 수상한 거장 에디스 워튼. 아침에 일어나 침대에서 나가지 않고 반려견들과 엎드려 편안하게 글을 썼던 그녀의 신경생리학적 이완 집필 비결을 밝힙니다.",
+      "en": "Edith Wharton, the master author who became the first woman to win the Pulitzer Prize for Fiction. Discover her neurophysiological secret of writing comfortably in bed with her dogs without getting up in the morning.",
+      "ja": "女性で初めて小説部門のピューリッツァー賞を受賞した巨匠エディス・ウォートン。朝起きてベッドから出ず、愛犬たちとくつろぎながらリラックスして執筆した彼女の神経生理学的執筆の秘密を明かします。",
+      "zh": "首位获得普利策小说奖的大师级女作家伊迪丝·华顿。揭秘她清晨醒来不清离开床榻、与爱犬们卧在一起舒适写作的神经生理学放松写作秘诀。",
+      "es": "Edith Wharton, la gran autora que se convirtió en la primera mujer en ganar el Premio Pulitzer de Ficción. Descubra su secreto neurofisiológico de escribir cómodamente en la cama con sus perros sin levantarse por la mañana.",
+      "de": "Edith Wharton, die Meisterautorin, die als erste Frau den Pulitzer-Preis für Belletristik gewann. Entdecken Sie ihr neurophysiologisches Geheimnis des komfortablen Schreibens im Bett mit ihren Hunden am Morgen.",
+      "fr": "Edith Wharton, la grande auteure qui fut la première femme à remporter le prix Pulitzer de fiction. Découvrez son secret neurophysiologique pour écrire confortablement au lit avec ses chiens sans se lever le matin.",
+      "pt": "Edith Wharton, a grande autora que se tornou a primeira mulher a vencer o Prêmio Pulitzer de Ficção. Descubra seu segredo neurofisiológico de escrever confortavelmente na cama com seus cães sem se levantar pela manhã.",
+      "id": "Edith Wharton, penulis legendaris wanita pertama yang memenangkan Penghargaan Pulitzer untuk Fiksi. Ungkap rahasia neurofisiologis di balik kebiasaannya menulis dengan nyaman di tempat tidur bersama anjing-anjingnya tanpa beranjak di pagi hari."
     },
     "authority": {
-      "ko": "Wharton Bedside Writing Relaxation 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+      "ko": "에디스 워튼 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+      "en": "Edith Wharton historical biography & autobiographical record examination & Cognitive Neuroscience research",
+      "ja": "エディス・ウォートン歴史的評伝・自伝的記録の考証および認知神経科学（Cognitive Neuroscience）研究",
+      "zh": "伊迪丝·华顿历史传记与自传考证及认知神经科学研究",
+      "es": "Examen de biografías históricas y registros autobiográficos de Edith Wharton e investigación en neurociencia cognitiva",
+      "de": "Untersuchung historischer Biografien und autobiografischer Aufzeichnungen von Edith Wharton & Forschung der kognitiven Neurowissenschaften",
+      "fr": "Examen des biographies historiques et des récits autobiographiques d'Edith Wharton et recherche en neurosciences cognitives",
+      "pt": "Exame de biografias históricas e registros autobiográficos de Edith Wharton e pesquisas em neurociência cognitiva",
+      "id": "Pemeriksaan biografi historis & catatan autobiografi Edith Wharton & penelitian Neurosains Kognitif"
     },
     "intro": {
-      "ko": "\"침대 위는 나에게 유일한 안전지대다. 따뜻하고 부드러운 침구 속에서 내 강아지들과 함께 있을 때 내 안의 소설적 상상이 가장 유연하게 깨어난다.\" 🛏️\n\n소설 『순수의 시대(The Age of Innocence)』를 통해 여성 최초로 퓰리처상을 거머쥐며 20세기 초 미국 문학사의 독보적 거장으로 우뚝 선 에디스 워튼. 상류 사회의 정교한 예법 뒤에 숨겨진 인간의 나약함과 위선을 누구보다 냉철하고 세밀하게 묘사한 소설가입니다. 날카로운 작가적 시선과 달리 그녀가 매일 아침 작품을 집필할 때 선택했던 습관은 기묘할 만큼 포근하고 안락했습니다. 그녀는 정오에 가까운 아침 11시까지 침대에서 절대 나오지 않고, 아끼는 강아지들을 이불 속에 올려둔 채로 무릎 위에 널빤지를 얹고 편안하게 기대어 글을 썼습니다. 신체의 부교감신경을 완벽히 이완하여 창작적 영감을 유도했던 워튼의 독창적인 오전 루틴의 비밀을 규명합니다."
+      "ko": "\"침대 위는 나에게 유일한 안전지대다. 따뜻하고 부드러운 침구 속에서 내 강아지들과 함께 있을 때 내 안의 소설적 상상이 가장 유연하게 깨어난다.\" 🛏️\n\n소설 『순수의 시대(The Age of Innocence)』를 통해 여성 최초로 퓰리처상을 거머쥐며 20세기 초 미국 문학사의 독보적 거장으로 우뚝 선 에디스 워튼. 상류 사회의 정교한 예법 뒤에 숨겨진 인간의 나약함과 위선을 누구보다 냉철하고 세밀하게 묘사한 소설가입니다. 날카로운 작가적 시선과 달리 그녀가 매일 아침 작품을 집필할 때 선택했던 습관은 기묘할 만큼 포근하고 안락했습니다. 그녀는 정오에 가까운 아침 11시까지 침대에서 절대 나오지 않고, 아끼는 강아지들을 이불 속에 올려둔 채로 무릎 위에 널빤지를 얹고 편안하게 기대어 글을 썼습니다. 신체의 부교감신경을 완벽히 이완하여 창작적 영감을 유도했던 워튼의 독창적인 오전 루틴의 비밀을 규명합니다.",
+      "en": "\"My bed is my only safe haven. When I am tucked in warm, soft bedding with my dogs, my fictional imagination awakens most flexibly.\" 🛏️\n\nEdith Wharton stood tall as a peerless master of early 20th-century American literary history, becoming the first woman to win the Pulitzer Prize with her novel 'The Age of Innocence'. A novelist who depicted human weakness and hypocrisy behind high-society etiquette more sharply and minutely than anyone. Contrary to her piercing authorial gaze, the morning writing habit she chose was strangely cozy and comfortable. She stayed in bed until nearly 11 AM, resting with a lapboard across her knees while her beloved dogs lay tucked in the blankets. We examine the secret of Wharton's creative morning routine that fully relaxed the body's parasympathetic nervous system to induce artistic inspiration.",
+      "ja": "「ベッドの上は私にとって唯一の安全地帯だ。温かく柔らかい寝具の中で愛犬たちと一緒にいる時、私の中の小説的想像力が最も柔軟に目覚める。」🛏️\n\n小説『エイジ・オブ・イノセンス（The Age of Innocence）』で女性として初めてピューリッツァー賞を獲得し、20世紀初頭のアメリカ文学史における不滅の巨匠として君臨したエ디ス・ウォートン。上流社会の洗練された礼儀の裏に隠された人間の弱さと偽善を誰よりも冷徹かつ詳細に描いた小説家です。鋭い作家の眼光とは裏腹に、彼女が毎朝作品を執筆する際に選んだ習慣は妙なほど温かく安らぐものでした。彼女は正午近くの午前11時までベッドから絶対出ず、愛犬たちを布団の中に入れたまま、膝の上に板を載せて快適に寄りかかりながら文章を書きました。身体の副交感神経を完全にリラックスさせて創造的インスピレーションを誘導したウォートンの独創的な午前ルーティンの秘密を解明します。",
+      "zh": "“床榻是我唯一的安全港湾。在温暖柔和的被褥中与我的小狗们呆在一起时，我心中的小说想象力最能柔顺地苏醒。” 🛏️\n\n凭小说《纯真年代》（The Age of Innocence）成为首位荣获普利策奖的女性，伊迪丝·华顿在20世纪初美国文学史上屹立为独一无二的大师。她比任何人都更冷静细致地刻画上流社会繁复礼节背后的人性脆弱与虚伪。与她敏锐的作者视角不同，她每天清晨创作时选择的习惯却出奇地温暖而舒适。她直到临近正午的上午11点前绝不离开床榻，把心爱的狗狗放在被褥间，腿上垫着木板舒舒服服地靠着写作。本文将破译华顿通过让身体副交感神经彻底放松来诱发创作灵感的独特晨间习惯秘诀。",
+      "es": "\"Mi cama es mi único refugio seguro. Cuando estoy entre edredones cálidos y suaves con mis perros, mi imaginación novelesca despierta de la forma más flexible.\" 🛏️\n\nEdith Wharton se erigió como una maestra sin igual en la historia literaria estadounidense de principios del siglo XX, convirtiéndose en la primera mujer en ganar el Premio Pulitzer con su novela 'La edad de la inocencia'. Una novelista que retrató la debilidad humana y la hipocresía tras la etiqueta de la alta sociedad con más nitidez y detalle que nadie. En contraste con su penetrante mirada de autora, el hábito matutino que eligió para escribir era extrañamente acogedor y confortable. Permanecía en la cama hasta casi las 11 de la mañana, recostada con una tabla sobre las rodillas mientras sus amados perros descansaban entre las cobijas. Examinamos el secreto de la rutina matutina de Wharton, que relajaba plenamente el sistema nervioso parasimpático para inducir inspiración artística.",
+      "de": "„Mein Bett ist mein einziger sicherer Hafen. Wenn ich eingekuschelt in warmen, weichen Decken mit meinen Hunden bin, erwacht meine romanhafte Fantasie am flexibelsten.“ 🛏️\n\nEdith Wharton ragte als unangefochtene Meisterin der amerikanischen Literaturgeschichte des frühen 20. Jahrhunderts heraus und gewann als erste Frau mit 'Zeit der Unschuld' den Pulitzer-Preis. Eine Schriftstellerin, die menschliche Schwächen und Heuchelei hinter der Etikette der Oberschicht schärfer als jeder andere schilderte. Im Gegensatz zu ihrem scharfen Autorenblatt war ihre Schreibgewohnheit am Morgen seltsam gemütlich. Sie blieb bis fast 11 Uhr morgens im Bett und schrieb angelehnt mit einem Schreibbrett auf den Knien, während ihre Hunde unter der Decke lagen. Wir untersuchen das Geheimnis von Whartons morgendlicher Routine, die das parasympathische Nervensystem entspannte, um kreative Inspiration hervorzurufen.",
+      "fr": "« Mon lit est mon seul havre de paix. Lorsque je suis emmitouflée dans des couvertures chaudes et douces avec mes chiens, mon imagination romanesque s'éveille avec la plus grande souplesse. » 🛏️\n\nEdith Wharton s'est imposée comme une figure incontournable de la littérature américaine du début du XXe siècle, devenant la première femme à remporter le prix Pulitzer avec son roman 'L'Âge de l'innocence'. Une romancière qui décrivait la faiblesse humaine et l'hypocrisie sous le vernis de la haute société avec plus de lucidité que quiconque. Contrairement à son regard acéré d'auteure, son habitude d'écriture matinale était curieusement douillette. Elle restait au lit jusqu'à près de 11 heures du matin, adossée avec une planche sur les genoux pendant que ses chiens adorés dormaient sous les draps. Nous décryptons le secret de la routine matinale de Wharton qui relaxait complètement le système nerveux parasympathique pour induire l'inspiration créative.",
+      "pt": "“Minha cama é meu único refúgio seguro. Quando estou coberta com edredons quentes e macios com meus cães, minha imaginação romanesca desperta da forma mais flexível.” 🛏️\n\nEdith Wharton destacou-se como uma mestra incomparável na literatura norte-americana do início do século XX, tornando-se a primeira mulher a vencer o Prêmio Pulitzer com seu romance 'A Era da Inocência'. Uma romancista que retratou a fraqueza humana e a hipocrisia por trás da etiqueta da alta sociedade com mais nitidez do que ninguém. Em contraste com seu olhar penetrante de autora, o hábito de escrita matinal que ela escolheu era estranhamente aconchegante. Ela permanecia na cama até quase 11h da manhã, encostada com uma prancha sobre os joelhos enquanto seus cães descansavam sob as cobertas. Examinamos o segredo da rotina matinal de Wharton que relaxava totalmente o sistema nervoso parassimpático para induzir inspiração artística.",
+      "id": "\"Tempat tidurku adalah satu-satunya tempat amanku. Ketika berselimut kain hangat dan lembut bersama anjing-anjingku, imajinasi novelku bangkit dengan paling lentur.\" 🛏️\n\nEdith Wharton berdiri megah sebagai maestro tak tertandingi dalam sejarah sastra Amerika awal abad ke-20, menjadi wanita pertama yang meraih Penghargaan Pulitzer melalui novelnya 'The Age of Innocence'. Penulis novel yang menggambarkan kelemahan dan kemunafikan manusia di balik etiket masyarakat kelas atas secara tajam dan terperinci. Berseberangan dengan tatapan kepenulisannya yang tajam, kebiasaan menulis pagi yang dipilihnya sangat hangat dan nyaman. Ia bertahan di tempat tidur hingga hampir pukul 11 pagi, bersandar dengan papan tulis di atas pangkuannya sementara anjing-anjing kesayangannya mendusel di dalam selimut. Kami mengupas rahasia rutinitas pagi Wharton yang merelaksasi sistem saraf parasimpatis secara penuh untuk memancing inspirasi kreatif."
     },
     "whyTitle": {
-      "ko": "신체적 이완과 부교감신경 지배 모드의 인지적 작용"
+      "ko": "신체적 이완과 부교감신경 지배 모드의 인지적 작용",
+      "en": "Physical Relaxation and the Cognitive Action of Parasympathetic Dominance Mode",
+      "ja": "身体的リラックスと副交感神経優位モードの認知的作用",
+      "zh": "身体放松与副交感神经主导模式的认知作用",
+      "es": "Relajación física y acción cognitiva del modo de dominancia parasimpática",
+      "de": "Körperliche Entspannung und kognitive Wirkung des parasympathischen Dominanzmodus",
+      "fr": "Relaxation physique et action cognitive du mode de dominance parasympatique",
+      "pt": "Relaxamento físico e ação cognitiva do modo de dominância parassimpática",
+      "id": "Relaksasi Fisik dan Kerja Kognitif Mode Dominasi Parasimpatis"
     },
     "whyDesc": {
-      "ko": "창작을 하거나 복잡한 아이디어를 도출할 때 많은 이들이 겪는 병목은 '잘 써야 한다'는 불안감과 긴장으로 인해 전두엽의 이성 회로가 경직되는 것입니다. 침대 위에서 등을 기댄 채 반려견과 스킨십을 나누며 완전히 이완된 신체 상태를 유지하는 것은 부교감신경(Parasympathetic Nervous System)을 우세하게 가동시킵니다. 이 상태의 뇌는 안전감을 느껴 스트레스 호르몬인 코르티솔 분비가 감소하고 편안한 몰입에 적합한 알파파(Alpha Waves)를 방출합니다. 알파파는 평소에는 연합되지 않던 대뇌 피질 곳곳의 아이디어와 단어 조각들을 느슨하고 자연스럽게 연결하여 정교하고 섬세한 소설적 상상을 물 흐르듯 직조하도록 유도합니다."
+      "ko": "창작을 하거나 복잡한 아이디어를 도출할 때 많은 이들이 겪는 병목은 '잘 써야 한다'는 불안감과 긴장으로 인해 전두엽의 이성 회로가 경직되는 것입니다. 침대 위에서 등을 기댄 채 반려견과 스킨십을 나누며 완전히 이완된 신체 상태를 유지하는 것은 부교감신경(Parasympathetic Nervous System)을 우세하게 가동시킵니다. 이 상태의 뇌는 안전감을 느껴 스트레스 호르몬인 코르티솔 분비가 감소하고 편안한 몰입에 적합한 알파파(Alpha Waves)를 방출합니다. 알파파는 평소에는 연합되지 않던 대뇌 피질 곳곳의 아이디어와 단어 조각들을 느슨하고 자연스럽게 연결하여 정교하고 섬세한 소설적 상상을 물 흐르듯 직조하도록 유도합니다.",
+      "en": "When creating or generating complex ideas, the bottleneck many experience is the stiffening of frontal lobe reasoning circuits due to anxiety and pressure to 'write well'. Maintaining a fully relaxed physical state in bed while leaning back and touching pets strongly activates the Parasympathetic Nervous System. In this state, feeling safe reduces cortisol secretion and releases Alpha Waves suitable for comfortable immersion. Alpha waves gently connect loosely scattered ideas and words across cerebral cortices, guiding fluid and delicate fictional imagination.",
+      "ja": "創作をしたり複雑なアイディアを導き出す際に多くの人が直面するボトルネックは、「うまく書かなければ」という不安と緊張により前頭葉の理性回路が硬直することです。ベッドの上で背中を預け、愛犬と触れ合いながら完全にリラックスした身体状態を維持することは、副交感神経（Parasympathetic Nervous System）を優位に稼働させます。この状態の脳は安心感を得てストレスホルモンであるコルチゾールの分泌が減少し、心地よい没頭に適したアルファ波（Alpha Waves）を放出します。アルファ波は普段は結合されない大脳皮質各地のアイディアや単語の断片を緩やかかつ自然に繋ぎ、精巧で繊細な小説的想像力を流れるように紡ぎ出すよう誘導します。",
+      "zh": "在进行创作或构思复杂创意时，许多人遇到的瓶颈是因“必须写好”的焦虑与紧张导致前额叶理性回路僵硬。在床榻上舒心地靠着、与宠物触碰并保持完全放松的身体状态，能让副交感神经（Parasympathetic Nervous System）占据主导地位。此时的大脑感受到安全感，减少压力荷尔蒙皮质醇的分泌，并释放适合舒适沉浸的Alpha脑电波。Alpha波能够将大脑皮层各处平时未联结的创意与词汇碎片自然松弛地串联起来，如同行云流水般织就精妙细腻的小说想象。",
+      "es": "Al crear o generar ideas complejas, el cuello de botella que muchos enfrentan es el rigidez de los circuitos de razonamiento del lóbulo frontal debido a la ansiedad de 'escribir bien'. Mantener un estado físico totalmente relajado en la cama mientras se apoya la espalda y se acaricia a las mascotas activa fuertemente el Sistema Nervioso Parasimpático. En este estado, la sensación de seguridad reduce el cortisol y libera Ondas Alfa aptas para una inmersión confortable, conectando de forma fluida trozos de ideas y palabras dispersas en la corteza cerebral.",
+      "de": "Der Engpass bei der Entstehung komplexer Ideen ist die Versteifung des Stirnlappens durch den Druck, 'gut zu schreiben'. Der verweilende Körper im Bett im Zusammensein mit Haustieren aktiviert das parasympathische Nervensystem. In diesem Zustand sinkt das Cortisol und es werden Alpha-Wellen freigesetzt, die unzusammenhängende Ideefragmente im Gehirn sanft verbinden und eine flüssige, feine Romanphantasie fördern.",
+      "fr": "Lors de la création d'idées complexes, le frein principal est la rigidité des circuits du lobe frontal due à la pression de 'bien écrire'. Conserver un corps détendu au lit en caressant ses animaux active le système nerveux parasympatique. La sensation de sécurité diminue le cortisol et libère des ondes alpha qui relient naturellement les fragments d'idées dispersés dans le cerveau pour tisser une imagination romanesque fluide.",
+      "pt": "Ao criar ideias complexas, o gargalo é o enrijecimento do lóbulo frontal devido ao estresse de 'escrever bem'. Manter um estado totalmente relaxado na cama em contato com animais ativa fortemente o Sistema Nervoso Parassimpático. Sentir-se seguro reduz o cortisol e liberta Ondas Alfa que conectam fragmentos de ideias na mente de forma fluida.",
+      "id": "Hambatan utama saat berkreasi adalah kekakuan sirkuit pemikiran lobus frontal akibat kecemasan untuk 'menulis dengan baik'. Menjaga tubuh rileks di tempat tidur sambil membelai hewan peliharaan mengaktifkan Sistem Saraf Parasimpatis. Otak yang merasa aman menurunkan kortisol dan memancarkan Gelombang Alfa yang menautkan ide-ide acak menjadi imajinasi novel yang mengalir halus."
     },
     "cautionTitle": {
-      "ko": "주의사항 및 팁"
+      "ko": "주의사항 및 팁",
+      "en": "Precautions and Tips",
+      "ja": "注意事項およびチップ",
+      "zh": "注意事项与提示",
+      "es": "Precauciones y consejos",
+      "de": "Vorsichtsmaßnahmen und Tipps",
+      "fr": "Précautions et conseils",
+      "pt": "Precauções e dicas",
+      "id": "Peringatan dan Tips"
     },
     "cautionDesc": {
-      "ko": "침대 위 이완 집필법을 일상에 적용할 때 빠지기 쉬운 함정은 집중 상태가 풀려 그대로 수면(다시 잠들기) 상태로 빠지는 것입니다. 뇌가 완전히 이완되어 서파(델타파)가 늘어나 잠이 오기 시작하면, 창조적 몰입 대신 생산성이 전혀 없는 졸음 상태가 지속됩니다. 따라서 이 습관을 실천할 때는 완전히 누운 자세를 피하고, 푹신한 등 쿠션 등을 활용해 척추를 45도에서 60도 각도로 세워 기댄 반좌위(Semi-Fowler's Position) 자세를 지켜야 합니다. 또한 방안의 온도는 약간 서늘하게 유지하고 얼굴 주변에 찬바람을 통하게 하여 신체는 부드럽게 이완하되 뇌의 지각은 선명하게 깨어있는 임계 각성 상태를 지켜내야 합니다."
+      "ko": "침대 위 이완 집필법을 일상에 적용할 때 빠지기 쉬운 함정은 집중 상태가 풀려 그대로 수면(다시 잠들기) 상태로 빠지는 것입니다. 뇌가 완전히 이완되어 서파(델타파)가 늘어나 잠이 오기 시작하면, 창조적 몰입 대신 생산성이 전혀 없는 졸음 상태가 지속됩니다. 따라서 이 습관을 실천할 때는 완전히 누운 자세를 피하고, 푹신한 등 쿠션 등을 활용해 척추를 45도에서 60도 각도로 세워 기댄 반좌위(Semi-Fowler's Position) 자세를 지켜야 합니다. 또한 방안의 온도는 약간 서늘하게 유지하고 얼굴 주변에 찬바람을 통하게 하여 신체는 부드럽게 이완하되 뇌의 지각은 선명하게 깨어있는 임계 각성 상태를 지켜내야 합니다.",
+      "en": "A common pitfall when applying bedside writing relaxation is slipping back into sleep as focus melts away. If the brain over-relaxes into delta waves, unproductive drowsiness replaces creative flow. Avoid lying fully flat; use back cushions to maintain a Semi-Fowler's position with your spine angled at 45 to 60 degrees. Keep the room slightly cool with fresh airflow so that while your body remains comfortably relaxed, your brain stays in a state of vivid alertness.",
+      "ja": "ベッドの上のリラックス執筆法を日常に応用する際の落とし穴は、集中が解けてそのまま睡眠（二度寝）に陥ることです。脳が完全に弛緩してデルタ波が増え眠気が襲うと、生産性のない居眠り状態が続きます。そのため、完全に横になった姿勢を避け、クッション等を活用して背骨を45〜60度に起こした半坐位（Semi-Fowler's Position）を維持してください。部屋の温度はやや涼しく保ち、身体は弛緩させつつ脳の覚醒を鮮明に保つことが重要です。",
+      "zh": "在日常应用床头放松写作法时，易陷的误区是专注力散去直接转入再次入睡。若大脑过度放松产生慢波（Delta波）发困，将陷入毫无生产力的打盹状态。因此实操时应避免完全平躺，利用舒适靠枕将脊椎保持在45度至60度倾斜的半坐卧位（Semi-Fowler's Position）。房间温度保持微凉通畅，使身体柔和放松的同时，大脑感知维持在清晰觉醒的临界状态。",
+      "es": "Un error común al aplicar la escritura relajada en la cama es volverse a dormir. Si el cerebro se relaja demasiado en ondas delta, el sopor improductivo reemplaza la creatividad. Evite tumbarse por completo; use cojines para mantener una posición de Semi-Fowler con la columna inclinada entre 45 y 60 grados. Mantenga la habitación fresca para que la mente permanezca despierta mientras el cuerpo se relaja.",
+      "de": "Falle beim Schreiben im Bett ist das Einschlafen. Verfällt das Gehirn in Delta-Wellen, entsteht Schläfrigkeit statt Fluss. Vermeiden Sie flaches Liegen; nutzen Sie Kissen für eine Semi-Fowler-Position (45–60 Grad). Halten Sie den Raum kühl, damit der Geist wach bleibt, während der Körper entspannt.",
+      "fr": "Le piège lors de l'écriture au lit est de se rendormir. Si le cerveau produit des ondes delta, la somnolence remplace la création. Évitez de vous allonger à plat ; utilisez des coussins pour une position demi-assise (45 à 60 degrés). Gardez la pièce fraîche pour maintenir l'esprit en éveil tout en relâchant le corps.",
+      "pt": "O risco ao escrever na cama é adormecer. Se o cérebro entrar em ondas delta, a sonolência substitui a criação. Evite deitar-se reto; use almofadas para manter uma posição semi-sentada (45-60 graus). Mantenha o quarto fresco para que a mente continue desperta enquanto o corpo relaxa.",
+      "id": "Jebakan saat menulis di tempat tidur adalah tertidur kembali. Jika otak terlalu rileks hingga memancarkan gelombang delta, kantuk menggantikan alur kreatif. Hindari posisi berbaring lurus; gunakan bantal untuk posisi Semi-Fowler (kemiringan 45-60 derajat). Jaga suhu ruangan tetap sejuk agar pikiran tetap siaga saat tubuh rileks."
     },
     "steps": [
       {
         "name": {
-          "ko": "침대 위 등쿠션 지지와 반좌위 자세 세팅"
+          "ko": "침대 위 등쿠션 지지와 반좌위 자세 세팅",
+          "en": "Bedside Back Cushion Support and Semi-Fowler Position Setup",
+          "ja": "ベッドの上の背クッション支持と半坐位姿勢のセッティング",
+          "zh": "床头靠垫支撑与半坐卧位姿势设置",
+          "es": "Apoyo con cojín en la cama y configuración de posición Semi-Fowler",
+          "de": "Rückenkissen-Stütze im Bett und Semi-Fowler-Positionsaufbau",
+          "fr": "Soutien par coussins au lit et position demi-assise",
+          "pt": "Apoio de almofada na cama e configuração de posição Semi-Fowler",
+          "id": "Pengaturan Penyangga Bantal Punggung dan Posisi Semi-Fowler"
         },
         "text": {
-          "ko": "아침에 깨어난 후 일어나는 즉시 다른 작업을 하지 않고 침대에 남아 자세를 잡습니다. 등 뒤에 쿠션을 여러 개 놓아 척추가 비스듬히 일어선 편안한 기댐 자세를 유지합니다."
+          "ko": "아침에 깨어난 후 일어나는 즉시 다른 작업을 하지 않고 침대에 남아 자세를 잡습니다. 등 뒤에 쿠션을 여러 개 놓아 척추가 비스듬히 일어선 편안한 기댐 자세를 유지합니다.",
+          "en": "Upon waking in the morning, stay in bed without engaging in other tasks. Place cushions behind your back to maintain a comfortable reclining posture with your spine angled.",
+          "ja": "朝目が覚めた後、すぐに起きて他の作業をせずベッドに留まり姿勢を整えます。背中にクッションをいくつか置き、背骨が斜めに起きた快適に寄りかかる姿勢を維持します。",
+          "zh": "早晨醒来后不立即下床做其他杂事，留在床上调整姿势。背部垫上数个靠枕，保持脊柱斜向立起、舒适靠着的姿势。",
+          "es": "Al despertar, quédese en la cama sin iniciar otras tareas. Coloque varios cojines tras su espalda para mantener una postura reclinada y cómoda.",
+          "de": "Bleiben Sie nach dem Aufwachen im Bett. Platzieren Sie Kissen im Rücken, um eine komfortabel geneigte Wirbelsäulenhaltung beizubehalten.",
+          "fr": "Au réveil, restez au lit sans commencer d'autres tâches. Placez des coussins derrière votre dos pour maintenir une posture inclinée confortable.",
+          "pt": "Ao acordar, permaneça na cama sem realizar outras tarefas. Coloque almofadas nas costas para manter uma postura reclinada confortável.",
+          "id": "Saat bangun di pagi hari, tetaplah di tempat tidur tanpa melakukan tugas lain. Letakkan beberapa bantal di punggung untuk menjaga posisi bersandar yang nyaman."
         }
       },
       {
         "name": {
-          "ko": "무릎 필기 보드 및 이완 환경 구축"
+          "ko": "무릎 필기 보드 및 이완 환경 구축",
+          "en": "Lapboard Setup and Relaxation Environment Creation",
+          "ja": "膝上筆記ボードおよびリラックス環境の構築",
+          "zh": "膝上书写板与放松环境搭建",
+          "es": "Montaje de tabla sobre el regazo y entorno de relajación",
+          "de": "Einrichtung des Schreibbretts auf dem Schoß und Entspannungsumgebung",
+          "fr": "Installation de la planche sur les genoux et cadre de relaxation",
+          "pt": "Configuração da prancha no colo e ambiente de relaxamento",
+          "id": "Pengaturan Papan Tulis Pangkuan dan Lingkungan Relaksasi"
         },
         "text": {
-          "ko": "무릎 위에 넓고 평평한 나무 보드나 필기용 보드(노트북 받침대)를 올려 안정적인 수평을 만듭니다. 좋아하는 강아지를 이불 위에 앉히거나 부드러운 담요를 덮어 촉각적 편안함을 유도합니다."
+          "ko": "무릎 위에 넓고 평평한 나무 보드나 필기용 보드(노트북 받침대)를 올려 안정적인 수평을 만듭니다. 좋아하는 강아지를 이불 위에 앉히거나 부드러운 담요를 덮어 촉각적 편안함을 유도합니다.",
+          "en": "Place a wide, flat wooden board or writing lapdesk over your knees to create a stable horizontal surface. Let your pet sit on the blanket or cover with a soft blanket for tactile comfort.",
+          "ja": "膝の上に広く平らな木製ボードや筆記用ボードを載せ、安定した水平面を作ります。好きなペットを布団の上に座らせたり柔らかい毛布をかけて触覚的な安らぎを誘導します。",
+          "zh": "在膝盖上放一块宽大平整的木板或书写垫（笔记本支架），形成平稳的书写面。让爱宠趴在被褥上或盖上柔软的毯子，提供触觉上的舒适感。",
+          "es": "Coloque una tabla plana de madera sobre sus rodillas para crear una superficie estable. Deje que su mascota se siente sobre la manta o cúbrase con una cobija suave.",
+          "de": "Legen Sie ein flaches Holzbrett auf Ihre Knie für eine stabile Schreibfläche. Lassen Sie ein Haustier auf der Decke sitzen für taktile Behaglichkeit.",
+          "fr": "Placez une planche en bois sur vos genoux pour créer une surface stable. Laissez votre animal se poser sur la couverture pour un confort tactile.",
+          "pt": "Coloque uma prancha de madeira sobre os joelhos criando uma superfície estável. Permita que seu animal de estimação fique sobre o cobertor macio.",
+          "id": "Letakkan papan kayu datar di atas pangkuan untuk membuat permukaan tulis yang stabil. Biarkan hewan peliharaan duduk di atas selimut lembut untuk kenyamanan taktil."
         }
       },
       {
         "name": {
-          "ko": "30분의 억지 필터 배제 창작 세션"
+          "ko": "30분의 억지 필터 배제 창작 세션",
+          "en": "30-Minute Unfiltered Creative Session",
+          "ja": "30分間の強制フィルター排除創造セッション",
+          "zh": "30分钟无自我审查无压创作",
+          "es": "Sesión de creación de 30 minutos sin filtros forzados",
+          "de": "30-minütige ungefilterte Kreativ-Session",
+          "fr": "Session de création de 30 minutes sans filtre",
+          "pt": "Sessão de criação de 30 minutos sem filtros",
+          "id": "Sesi Kreasi 30 Menit Tanpa Filter"
         },
         "text": {
-          "ko": "가장 이완되고 고요한 침묵 상태에서 30분간 집필을 수행합니다. 전두엽의 어설픈 논리 필터나 완벽주의적 검열을 버리고, 머리에 부드럽게 연상되는 아이디어나 소설 문맥을 막힘없이 흘려보내듯 종이에 적습니다."
+          "ko": "가장 이완되고 고요한 침묵 상태에서 30분간 집필을 수행합니다. 전두엽의 어설픈 논리 필터나 완벽주의적 검열을 버리고, 머리에 부드럽게 연상되는 아이디어나 소설 문맥을 막힘없이 흘려보내듯 종이에 적습니다.",
+          "en": "Perform writing for 30 minutes in a deeply relaxed, silent state. Discard logic filters or perfectionist censorship, flowing ideas and fictional contexts gently onto paper.",
+          "ja": "最もリラックスした静寂の中で30分間執筆を行います。前頭葉の無理な論理フィルターや完璧主義的な検閲を捨て、頭に浮かぶアイディアや文章を滞りなく紙に書き流します。",
+          "zh": "在最放松宁静的状态下进行30分钟创作。抛开前额叶牵强的逻辑过滤与完美主义审查，让脑海中自然浮现的创意与文字流淌于纸上。",
+          "es": "Escriba durante 30 minutos en un estado de profunda calma. Descarte la censura perfeccionista y deje fluir las ideas suavemente sobre el papel.",
+          "de": "Schreiben Sie 30 Minuten lang in tiefenentspannter Stille. Verwerfen Sie Perfektionismus und lassen Sie Ideen frei auf das Papier fließen.",
+          "fr": "Écrivez pendant 30 minutes dans un état de calme profond. Oubliez la censure perfectionniste et laissez couler les idées librement sur le papier.",
+          "pt": "Escreva por 30 minutos em profunda calma. Esqueça filtros perfeccionistas e deixe as ideias fluírem suavemente para o papel.",
+          "id": "Menulislah selama 30 menit dalam keheningan yang rileks. Buang filter perfeksionis dan biarkan ide-ide mengalir lancar ke atas kertas."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "침대에서 일을 하면 침실이 일하는 스트레스 공간으로 변해 불면증을 유발하지 않을까요?"
+          "ko": "침대에서 일을 하면 침실이 일하는 스트레스 공간으로 변해 불면증을 유발하지 않을까요?",
+          "en": "Won't working in bed turn the bedroom into a stressful work space and cause insomnia?",
+          "ja": "ベッドで仕事をすると寝室が仕事のストレス空間に変わり、不眠症を引き起こしませんか？",
+          "zh": "在床上工作会不会把卧室变成令人压抑的工作空间并引发失眠？",
+          "es": "¿No convertirá trabajar en la cama el dormitorio en un espacio de trabajo estresante y causará insomnio?",
+          "de": "Verwandelt das Arbeiten im Bett das Schlafzimmer nicht in einen stressigen Arbeitsraum und verursacht Schlaflosigkeit?",
+          "fr": "Le fait de travailler au lit ne risque-t-il pas de transformer la chambre en espace de travail stressant et de causer des insomnies ?",
+          "pt": "Trabalhar na cama não transformará o quarto em um espaço de trabalho estressante e causará insônia?",
+          "id": "Apakah bekerja di tempat tidur tidak akan mengubah kamar menjadi ruang kerja yang bikin stres dan memicu insomnia?"
         },
         "answer": {
-          "ko": "그 경계는 매우 중요합니다. 따라서 침대 위에서는 분석적 관리 업무, 일정 조율, 비판적인 이메일 답장 등의 '스트레스성 업무'는 일절 차단해야 합니다. 오직 자신이 가장 좋아하는 순수 아이디어 구상이나 초고 집필, 사색적 일기 쓰기 등의 '즐겁고 이완된 순수 창작'으로만 한정해야 침실의 안전한 인지 가치가 훼손되지 않습니다."
+          "ko": "그 경계는 매우 중요합니다. 따라서 침대 위에서는 분석적 관리 업무, 일정 조율, 비판적인 이메일 답장 등의 '스트레스성 업무'는 일절 차단해야 합니다. 오직 자신이 가장 좋아하는 순수 아이디어 구상이나 초고 집필, 사색적 일기 쓰기 등의 '즐겁고 이완된 순수 창작'으로만 한정해야 침실의 안전한 인지 가치가 훼손되지 않습니다.",
+          "en": "That boundary is crucial. Therefore, stressful work like analytical management, scheduling, or critical emails must be blocked in bed. Restricting activity purely to enjoyable creative drafting, brainstorming, or reflective journaling preserves the bedroom's cognitive safe value.",
+          "ja": "その境界線は非常に重要です。そのためベッドの上では、分析的な管理業務、日程調整、批判的なメールの返信などの「ストレスの伴う業務」は一切遮断すべきです。自分が最も好きな純粋なアイディア構想や初稿の執筆、思索的な日記など「楽しくリラックスした純粋な創作」に限定してこそ、寝室の安全な認知的価値が損なわれません。",
+          "zh": "这个界限至关重要。因此在床上必须彻底禁止分析性管理工作、日程协调、批判性邮件回复等“带压工作”。仅限于自己最喜欢的纯粹创意构思、初稿撰写、沉思日记等“愉悦放松的纯粹创作”，才能保护卧室的安全认知价值不被破坏。",
+          "es": "Esa frontera es fundamental. Por tanto, en la cama deben bloquearse trabajos estresantes como gestión analítica o correos críticos. Limitar la actividad al borrador creativo o diario reflexivo preserva el valor de refugio del dormitorio.",
+          "de": "Diese Grenze ist entscheidend. Vermeiden Sie im Bett stressige Verwaltungsaufgaben oder kritische E-Mails. Nur erfreuliche, reine kreative Entwürfe und Tagebuchschreiben bewahren den Schutzraum-Wert des Schlafzimmers.",
+          "fr": "Cette limite est essentielle. Les tâches stressantes comme la gestion ou les courriels critiques doivent être exclues du lit. Se réserver la création agréable et le journal intime préserve la valeur de refuge du lit.",
+          "pt": "Essa fronteira é essencial. Trabalhos estressantes como gestão ou e-mails críticos devem ser bloqueados na cama. Limitar-se a rascunhos criativos e diários preserva o valor de refúgio do quarto.",
+          "id": "Batasan itu sangat krusial. Maka dari itu, pekerjaan penuh stres seperti manajemen analitis atau membalas email kritis harus dilarang di tempat tidur. Membatasi kegiatan hanya pada ide kreatif yang menyenangkan atau jurnal refleksi menjaga nilai aman kamar tidur."
         }
       }
     ]

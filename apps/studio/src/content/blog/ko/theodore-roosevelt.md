@@ -8,7 +8,7 @@ tags: ["위인 습관", "시어도어 루즈벨트", "생산성", "학습"]
 heroImage: "/images/blog/theodore_roosevelt.webp"
 app: "buildself"
 formatVersion: 4
-authority: "Theodore Roosevelt 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+authority: "시어도어 루스벨트 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
 steps:
   - name: "1단계: 환경 설정 및 도구 세팅"
     text: "매일 아침 외출 전이나 특정한 아침 시간대에 가벼운 맨몸 스쿼트, 팔굽혀펴기, 혹은 빠르게 계단 오르기 등의 고강도 신체 동작 1가지를 선정합니다. 호흡 정렬을 마칩니다."
@@ -24,9 +24,9 @@ faqs:
 
 ---
 
-미국 역사상 가장 젊은 나이에 대통령직에 임명되어 혁신적 진보주의 개혁을 주도하고 대외적으로 강력한 외교력을 펼치며 미국의 세계적 패권을 다진 제26대 미국 대통령 시어도어 루스벨트. 그는 어린 시절 천식 환자이자 깡마른 신체의 한계를 극복하기 위해, 매일 아침 체육관을 찾아 한계 강도까지 무거운 쇳덩이를 들고 땀방울을 흘리는 고강도 신체 단련을 평생 실천했습니다. 이 매일 아침의 폭발적인 신체 운동 습관은 약골이었던 소년을 강인한 남자로 만들었을 뿐만 아니라, 대통령으로서의 강철 의지력과 두뇌 각성도를 온전히 버텨내게 한 원동력이었습니다.
+미국 역사상 가장 젊은 나이에 대통령직에 임명되어 혁신적 진보주의 개혁을 주도하고 대외적으로 강력한 외교력을 펼치며 미국의 세계적 패권을 다진 제26대 미국 대통령 시어도어 루스벨트(Theodore Roosevelt). 그는 어린 시절 천식 환자이자 깡마른 신체의 한계를 극복하기 위해, 매일 아침 체육관을 찾아 한계 강도까지 무거운 쇳덩이를 들고 땀방울을 흘리는 고강도 신체 단련을 평생 실천했습니다. 이 매일 아침의 폭발적인 신체 운동 습관은 약골이었던 소년을 강인한 남자로 만들었을 뿐만 아니라, 대통령으로서의 강철 의지력과 두뇌 각성도를 온전히 버텨내게 한 원동력이었습니다.
 
-오늘 포스트에서는 그가 고수한 '매일 아침 체육관을 찾아 한계 고강도 신체 단련하기' 습관의 인지과학적 과학 원리와 현대인들이 일상에서 가볍게 실천할 수 있는 3단계 가이드를 소개합니다.
+오늘 포스트에서는 그가 고수한 '매일 아침 체육관을 찾아 한계 고강도 신체 단련하기' 습관의 인지과학적 원리와 현대인들이 일상에서 가볍게 실천할 수 있는 3단계 가이드를 소개합니다.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -35,7 +35,7 @@ faqs:
       역사적 및 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Theodore Roosevelt 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 theodore-roosevelt 루틴을 다룹니다.
+      본 콘텐츠는 <strong>시어도어 루스벨트 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 theodore-roosevelt 루틴을 다룹니다.
     </p>
   </div>
 </div>

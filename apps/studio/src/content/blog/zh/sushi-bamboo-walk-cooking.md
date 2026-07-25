@@ -1,6 +1,6 @@
 ---
-title: "유배지의 절망을 이겨낸 대문호? 소동파의 아침 대나무 산책 & 요리 이완 루틴"
-description: "북송의 천재 문인 소동파가 거듭된 유배지 시련 속에서도 아침 대나무 숲 산책과 요리로 마음을 비우고 세기의 낙천주의를 완성한 회복탄력성 습관."
+title: "战胜流放绝望的大文豪？苏东坡的晨间竹林散步与烹饪放松习惯"
+description: "北宋天才文人苏东坡在屡遭流放的磨难中，通过晨间竹林散步与慢烹饪排解心中郁闷，成就传奇乐观主义与复原力的习惯。"
 pubDate: "2026-06-24"
 updatedDate: "2026-06-24"
 category: "BuildSelf"
@@ -8,25 +8,27 @@ tags: ["위인 습관", "루틴", "생산성", "몰입"]
 heroImage: "/images/blog/sushi_bamboo_walk_cooking.webp"
 app: "buildself"
 formatVersion: 4
-authority: "소동파 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+authority: "苏东坡（苏轼）评传与历代诗文集史实考证 & 认知神经科学（Cognitive Neuroscience）研究"
 steps:
-  - name: "아침 10분 자연 리셋 산책"
-    text: "아침 시간 가까운 공원, 나무 길, 혹은 집 주변을 걸으며 머릿속의 복잡한 정서적 응어리를 바람에 날려 보냅니다."
-  - name: "소박한 손수 아침 조리 10분 몰입"
-    text: "따뜻한 차를 끓이거나 간단한 죽, 토스트를 직접 만들며 불의 온기와 칼질의 손맛에 10분간 온전히 집중합니다."
-  - name: "맛과 향 수용 및 낙천주의 마음가짐 채우기"
-    text: "완성된 음식을 입에 넣고 풍미를 천천히 음미하며 '어떤 시련도 나의 고요함을 해칠 수 없다'는 마음을 다집니다."
+  - name: "步骤1：晨间10分钟自然重置散步"
+    text: "利用早晨时间在附近的公园、林荫道或社区周围散步，让清风吹散大脑中复杂的情绪阴霾。"
+  - name: "步骤2：10分钟沉浸式简单手作烹饪"
+    text: "亲自冲泡一杯温茶，或制作简单的粥、吐司，将注意力完全集中在火的温热与切菜的手感上，沉浸10分钟。"
+  - name: "步骤3：细品香气风味与注入乐观豁达的心态"
+    text: "品尝做好的食物，慢慢细品其中的香气与滋味，并在心中坚定信念：“任何磨难都无法打破我内心的宁静。”"
 faqs:
-  - question: "요리를 전혀 못 하는 요알못도 적용 가능한가요?"
-    answer: "네! 복잡한 요리가 아닙니다. 따뜻한 드립 커피를 내리거나 계란 프라이 하나를 정성껏 굽는 미니 조리만으로도 충분합니다."
-  - question: "정말 손으로 요리하는 행위가 스트레스를 줄여주나요?"
-    answer: "작업치료학 연구에 따르면 손을 사용해 완성품을 만들어내는 식재료 다듬기는 우울감을 유도하는 뇌 신호를 억제하고 자존감을 회복시키는 효과가 검증되어 있습니다."
+  - question: "完全不会做饭的下厨新手也可以适用吗？"
+    answer: "是的！这不需要复杂的烹饪技巧。只需冲泡一杯手冲咖啡或精心地煎一个鸡蛋，就能获得充分的感官与心理效果。"
+  - question: "亲手做饭的习惯真的能减轻压力吗？"
+    answer: "根据作业疗法学研究，用手处理食材并做出成品的过程，能抑制导致抑郁的大脑信号，并有效恢复自我效能感与自尊心。"
 
 ---
 
-소동파는 매일 아침 새벽 안개가 감도는 대나무 숲길을 천천히 거닐며 맑은 피톤치드 공기를 마셨습니다. 산책을 마친 후에는 흙화로에 도자기 냄비를 올리고 약한 불로 돼지고기와 차를 수시간 동안 뭉근히 조리하는 슬로우 푸드 루틴을 즐겼습니다. 숲의 소리에 귀 기울이고 음식이 끓어오르는 김을 잔잔히 관측하는 이 오감 리셋 습관은 유배 생활의 분노와 억울함을 씻어내는 최고의 정서적 치유제였습니다.
+苏东坡（苏轼，1037–1101）是北宋时期代表性的天才诗人、散文家、书法家和政治家。尽管因政治斗争屡被流放到黄州、惠州、儋州（海南岛）等偏远荒凉之地，他依然凭着独特的乐观豁达与艺术风雅战胜了绝望。
 
-오늘 포스트에서는 소동파가 실천했던 대숲 산책과 슬로우 푸드 관측 루틴에 담긴 부교감 신경 활성화 및 자율신경계 밸런스 회복의 과학을 소개합니다.
+苏东坡每天清晨漫步于晨雾缭绕的竹林小径，呼吸新鲜空气。散步归来后，他在小土炉上架起砂锅，用小火慢炖猪肉与茶数小时——这一慢食仪式后来孕育出了名菜“东坡肉”。倾听风吹竹林、观察烹煮的袅袅蒸汽，这一五感重置习惯成为了涤荡流放愤怒的灵魂良药。
+
+在本文中，我们将探讨苏东坡竹林散步与慢烹饪习惯背后关于副交感神经激活和自律神经平衡的科学原理。
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -35,52 +37,52 @@ faqs:
       历史 and 学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 sushi-bamboo-walk-cooking 的内容基于 <strong>소동파 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong> 撰写。
+      关于 sushi-bamboo-walk-cooking 的内容基于 <strong>苏东坡（苏轼）评传与历代诗文集史实考证 & 认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
     </p>
   </div>
 </div>
 
 ---
 
-## 수공예적 행동(Somatic Routine)이 활성화하는 부교감 신경과 신경 회복탄력성
+## 躯体化手作行为（Somatic Routine）如何激活副交感神经与神经复原力
 
-마음의 상처나 억울한 감정을 머리로만 억지로 잊으려 하면 뇌의 편도체 회로가 반복재생되어 괴로움이 배가됩니다.
+如果试图仅凭理智强行忘记心中的创伤或委屈，大脑的杏仁核回路就会反复播放痛苦，使折磨加倍。
 
-소동파처럼 불의 온도, 식재료의 냄새, 칼끝의 손맛을 느끼며 요리하는 <strong>'수공예 이완 행동(Somatic Routine)'</strong>은 감각 피질로 신호를 분산시켜 부교감 신경을 즉각 자극합니다. 정서적 마찰이 사르르 녹아내리고 강인한 심리적 회복탄력성이 채워집니다.
+像苏东坡那样感受火的温度、食材的香气和切菜的手感，进行<strong style="color:#2d3748;">“躯体化手作行为（Somatic Routine）”</strong>，能将神经信号分散到感觉皮层，立即刺激副交感神经，使情绪摩擦烟消云散，赋予内心强大的复原力。
 
 ---
 
-## 결과보다 조리 및 산책의 과정 자체에 집중하세요
+## 请专注于烹饪与散步的过程本身，而非结果
 
-소동파 요리의 정수는 화후(, 불조절)를 기다리는 고요한 마음입니다. 빨리 음식을 만들어 먹으려 서두르지 말고, 재료가 익어가는 시간 동안 손끝의 감각과 향에 정성을 다하세요.
+苏东坡烹饪的精髓在于等待“火候”时的平静心态。不要急于做完进食，要在食材慢炖的过程中，全心投入到手尖的感觉与飘散的香味中。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">步骤 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">아침 10분 자연 리셋 산책</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">步骤1：晨间10分钟自然重置散步</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    아침 시간 가까운 공원, 나무 길, 혹은 집 주변을 걸으며 머릿속의 복잡한 정서적 응어리를 바람에 날려 보냅니다.
+    利用早晨时间在附近的公园、林荫道或社区周围散步，让清风吹散大脑中复杂的情绪阴霾。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">步骤 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">소박한 손수 아침 조리 10분 몰입</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">步骤2：10分钟沉浸式简单手作烹饪</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    따뜻한 차를 끓이거나 간단한 죽, 토스트를 직접 만들며 불의 온기와 칼질의 손맛에 10분간 온전히 집중합니다.
+    亲自冲泡一杯温茶，或制作简单的粥、吐司，将注意力完全集中在火的温热与切菜的手感上，沉浸10分钟。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">步骤 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">맛과 향 수용 및 낙천주의 마음가짐 채우기</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">步骤3：细品香气风味与注入乐观豁达的心态</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    완성된 음식을 입에 넣고 풍미를 천천히 음미하며 '어떤 시련도 나의 고요함을 해칠 수 없다'는 마음을 다집니다.
+    品尝做好的食物，慢慢细品其中的香气与滋味，并在心中坚定信念：“任何磨难都无法打破我内心的宁静。”
   </p>
 </div>
 
@@ -91,21 +93,21 @@ faqs:
   
   <details class="group cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>요리를 전혀 못 하는 요알못도 적용 가능한가요?</span>
+      <span>完全不会做饭的下厨新手也可以适用吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      네! 복잡한 요리가 아닙니다. 따뜻한 드립 커피를 내리거나 계란 프라이 하나를 정성껏 굽는 미니 조리만으로도 충분합니다.
+      是的！这不需要复杂的烹饪技巧。只需冲泡一杯手冲咖啡或精心地煎一个鸡蛋，就能获得充分的感官与心理效果。
     </p>
   </details>
   <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>정말 손으로 요리하는 행위가 스트레스를 줄여주나요?</span>
+      <span>亲手做饭的习惯真的能减轻压力吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      작업치료학 연구에 따르면 손을 사용해 완성품을 만들어내는 식재료 다듬기는 우울감을 유도하는 뇌 신호를 억제하고 자존감을 회복시키는 효과가 검증되어 있습니다.
+      根据作业疗法学研究，用手处理食材并做出成品的过程，能抑制导致抑郁的大脑信号，并有效恢复自我效能感与自尊心。
     </p>
   </details>
 </div>

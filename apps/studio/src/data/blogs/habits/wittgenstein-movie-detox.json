@@ -1,62 +1,190 @@
 {
   "wittgenstein-movie-detox": {
     "title": {
-      "ko": "뇌의 과열 식히기: 비트겐슈타인의 서부극 디톡스 루틴"
+      "ko": "뇌의 과열 식히기: 비트겐슈타인의 서부극 디톡스 루틴",
+      "en": "Cooling Overheated Brains: Ludwig Wittgenstein's Western Movie Detox Routine",
+      "ja": "脳の過熱を冷ます：ヴィトゲンシュタインの西部劇デトックスルーティン",
+      "zh": "冷却过热的大脑：维特根斯坦的西部片排毒法",
+      "es": "Enfriar un cerebro sobrecalentado: La rutina de desintoxicación con películas del Oeste de Ludwig Wittgenstein",
+      "de": "Überhitzte Gehirne abkühlen: Ludwig Wittgensteins Western-Film-Detox-Routine",
+      "fr": "Refroidir un cerveau en surchauffe : La routine de détox au cinéma western de Ludwig Wittgenstein",
+      "pt": "Esfriar um Cérebro Sobreaquecido: A Rotina de Detox com Filmes de Faroeste de Ludwig Wittgenstein",
+      "id": "Mendinginkan Otak yang Terlalu Panas: Rutinitas Detox Film Koboi Ludwig Wittgenstein"
     },
     "description": {
-      "ko": "분석철학의 한계에 도전하며 과열된 뇌를 리셋하기 위해 영화관 맨 앞줄에서 서부극을 즐겼던 루트비히 비트겐슈타인. 강제적인 시각적 몰입이 전두엽의 부하를 끄고 창의적 문제 해결을 돕는 메커니즘을 조명합니다."
+      "ko": "분석철학의 한계에 도전하며 과열된 뇌를 리셋하기 위해 영화관 맨 앞줄에서 서부극을 즐겼던 루트비히 비트겐슈타인. 강제적인 시각적 몰입이 전두엽의 부하를 끄고 창의적 문제 해결을 돕는 메커니즘을 조명합니다.",
+      "en": "Ludwig Wittgenstein enjoyed Western movies in the front row of cinemas to reset his overheated brain while challenging the limits of analytic philosophy. Highlights the mechanism of forced visual immersion turning off prefrontal overload.",
+      "ja": "分析哲学の限界に挑み、過熱した脳をリセットするために映画館の最前列で西部劇を楽しんだルートヴィヒ・ヴィトゲンシュタイン。 強制的な視覚的没入が前頭葉の負荷を切り、問題解決を助けるメカニズムを紐解きます。",
+      "zh": "路德维希·维特根斯坦在探索分析哲学极限的同时，常坐在电影院第一排观看西部片以重置过热的大脑。揭示强迫性视觉沉浸如何关停前额叶过载并助力创意突破。",
+      "es": "Ludwig Wittgenstein disfrutaba de películas del Oeste en la primera fila del cine para reiniciar su cerebro tras explorar la filosofía analítica. Destaca el mecanismo de inmersión visual forzada para desactivar la sobrecarga prefrontal.",
+      "de": "Ludwig Wittgenstein schaute in der ersten Reihe des Kinos Westernfilme, um sein überhitztes Gehirn bei der Arbeit an der Sprachphilosophie zu entlasten. Beleuchtet, wie visuelle Immersion den präfrontalen Kortex entlastet.",
+      "fr": "Ludwig Wittgenstein regardait des westerns au premier rang des cinémas pour réinitialiser son cerveau surchauffé par la philosophie analytique. Met en lumière la manière dont l'immersion visuelle éteint la surcharge préfrontale.",
+      "pt": "Ludwig Wittgenstein assistia a filmes de faroeste na primeira fileira do cinema para reiniciar seu cérebro sobrecarregado pela filosofia analítica. Destaca o mecanismo de imersão visual forçada para desligar a sobrecarga pré-frontal.",
+      "id": "Ludwig Wittgenstein menikmati film koboi di barisan paling depan bioskop untuk mereset otaknya yang terlalu panas saat menantang batas filsafat analitik. Mengulas mekanisme perendaman visual paksa yang mematikan beban prafrontal."
     },
     "authority": {
-      "ko": "Wittgenstein Movie Detox 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+      "ko": "루트비히 비트겐슈타인(Ludwig Wittgenstein) 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+      "en": "Historical records from Ludwig Wittgenstein biographies & Cognitive Neuroscience research",
+      "ja": "ルートヴィヒ・ヴィトゲンシュタインの歴史的伝記および自伝的記録考証＆認知神経科学研究",
+      "zh": "路德维希·维特根斯坦历史传记与文献考证及认知神经科学研究",
+      "es": "Biografías y registros históricos de Ludwig Wittgenstein junto con investigaciones en Neurociencia Cognitiva",
+      "de": "Historische Biografien und Dokumente zu Ludwig Wittgenstein sowie Kognitive Neurowissenschaften",
+      "fr": "Documents biographiques et historiques de Ludwig Wittgenstein et recherches en neurosciences cognitives",
+      "pt": "Registros históricos de biografias de Ludwig Wittgenstein com pesquisas em Neurociência Cognitiva",
+      "id": "Rekam sejarah biografi Ludwig Wittgenstein & penelitian neurosains kognitif"
     },
     "intro": {
-      "ko": "\"철학 연구가 나를 미치게 만들 때, 영화관 맨 앞줄에서 마주하는 미국 서부극의 유치함이야말로 내 뇌를 살려내는 유일한 묘약이다.\" 🤠\n\n20세기 초, 세계 철학계를 뒤흔든 《논리철학논고》를 쓰며 러셀과 프레게를 경악시켰던 천재 철학자 루트비히 비트겐슈타인. 그는 오직 논리적이고 순수한 언어와 사유의 한계를 규명하는 데 평생을 바친 만큼, 연구할 때 겪는 뇌의 인지적 마비와 감정적 탈진이 극도로 심했습니다. 비트겐슈타인이 이 파괴적인 정신적 과열을 극복하기 위해 매일 저녁 의식처럼 고수했던 행동이 있었습니다. 바로 연구가 끝나면 지체 없이 극장으로 달려가 맨 앞줄에 앉아 미국 서부 카우보이 영화를 멍하니 감상하는 것이었습니다. 뇌과학적으로 이 단순하고 강렬한 시각 자극이 어떻게 지친 뇌를 완전히 정화하고 리셋하는지 파헤쳐 봅니다.\n\n우리는 일이나 공부를 격렬하게 마친 뒤 머리가 멍해지고 터져버릴 것 같은 '브레인 포그' 상태를 자주 경험합니다. 이때 많은 이들이 뇌를 쉬게 하겠다고 침대에 누워 잡념에 빠지거나 SNS를 뒤적입니다. 하지만 뇌는 아무 생각도 하지 않으려 할 때 오히려 스스로 통제하지 못하는 무작위적인 생각의 꼬리물기(Rumination)를 유도하여 전두엽을 계속해서 소진시킵니다. 뇌에 명확한 '정지 신호'를 주려면, 인위적이고 아주 강한 대체 자극이 필요합니다.\n\n오늘 포스트에서는 루트비히 비트겐슈타인의 서부극 디톡스 루틴이 뇌의 스트레스 상태를 어떻게 해제하는지 규명하고, 현대인들이 두뇌의 정보 과부하를 강제로 차단하고 최상의 뇌 상태를 회복하는 3단계 실천 방안을 제시합니다."
+      "ko": "\"철학 연구가 나를 미치게 만들 때, 영화관 맨 앞줄에서 마주하는 미국 서부극의 단순함이야말로 내 뇌를 살려내는 유일한 묘약이다.\" 🤠\n\n버트런드 러셀과 고틀로프 프레게를 감탄시키며 20세기 현대 철학과 논리학의 지형을 흔든 천재 철학자 루트비히 비트겐슈타인(Ludwig Wittgenstein, 1889–1951). 케임브리지 대학에서 활동하며 <논리철학논고(Tractatus Logico-Philosophicus)>와 <철학적 탐구>를 써낸 그는 언어와 사고의 극단적 한계를 탐구한 만큼 연구 중 극심한 지적 마비와 정신적 탈진을 겪었습니다.\n\n비트겐슈타인이 이 파괴적인 인지적 과열을 극복하기 위해 케임브리지 시절 매일 저녁 고수했던 루틴이 있었습니다. 철학 연구가 끝나면 지체 없이 시내 영화관으로 달려가 맨 앞줄에 앉아 미국 서부 카우보이 영화(Western Movies)를 멍하니 감상하는 것이었습니다. 뇌과학적으로 이 강렬하고 단순한 시각 자극이 어떻게 지친 전두엽을 완전히 휴식시키고 리셋하는지 파헤쳐 봅니다.\n\n우리는 일이나 공부를 격렬하게 마친 뒤 머리가 멍해지는 '브레인 포그' 상태를 자주 경험합니다. 이때 많은 이들이 뇌를 쉬게 하겠다고 침대에 누워 잡념에 빠지거나 SNS를 뒤적입니다. 하지만 뇌는 아무 생각도 하지 않으려 할 때 오히려 무작위적인 반추(Rumination)를 유도하여 전두엽 자원을 계속해서 소진시킵니다. 뇌에 명확한 '정지 신호'를 주려면, 인위적이고 강력한 대체 시각 자극이 필요합니다.\n\n오늘 포스트에서는 루트비히 비트겐슈타인의 서부극 디톡스 루틴이 뇌의 스트레스 상태를 어떻게 해제하는지 규명하고, 현대인들이 두뇌의 정보 과부하를 강제로 차단하고 최상의 뇌 상태를 회복하는 3단계 실천 방안을 제시합니다.",
+      "en": "\"When philosophical research makes me feel insane, the simplicity of American Westerns faced in the front row of a cinema is the only elixir that revives my brain.\" 🤠\n\nLudwig Wittgenstein (1889–1951) was an Austrian-British genius philosopher who reshaped 20th-century logic and analytic philosophy, astonishing Bertrand Russell and Gottlob Frege. Authoring landmark works at Cambridge such as 'Tractatus Logico-Philosophicus' and 'Philosophical Investigations', he pushed the boundaries of language and thought, suffering extreme mental burnout and cognitive exhaustion in the process.\n\nTo overcome this destructive cognitive overheating, Wittgenstein adhered to a strict evening routine during his Cambridge years. The moment his intense research ended, he rushed to a local cinema, sat in the very front row, and stared intently at simple American Western cowboy films. From a brain science perspective, this post explores how intense yet straightforward visual immersion completely cools down an exhausted prefrontal cortex.\n\nAfter intense work, modern people often suffer 'brain fog'. Many lie in bed attempting to rest while scrolling through social media or falling into anxious rumination. However, trying not to think actually triggers random thoughts that continuously drain prefrontal energy. To give the brain a clear 'stop signal', an artificial and compelling alternative visual stimulus is required.\n\nThis post analyzes how Wittgenstein's Western movie detox routine resets brain stress and provides a 3-step action plan to block information overload and restore peak cognitive performance.",
+      "ja": "「哲学研究が私を狂わせそうになるとき、映画館の最前列で向かい合うアメリカ西部劇の単純さこそが、私の脳を生き返らせる唯一の特効薬だ。」 🤠\n\nバートランド・ラッセルやゴットロープ・フレーゲを感嘆させ、20世紀現代哲学と論理学の地平を揺るがした天才哲学者ルートヴィヒ・ヴィトゲンシュタイン（Ludwig Wittgenstein, 1889–1951）。 ケンブリッジ大学で活動し『論理哲学論考（Tractatus Logico-Philosophicus）』や『哲学探究』を執筆した彼は、言語と思考の極限を探求した分、研究中に深刻な知的麻痺と精神的疲弊を経験しました。\n\nヴィトゲンシュタインがこの破壊的な認知過熱を克服するため、ケンブリッジ時代に毎晩固守したルーティンがありました。研究が終わると即座に街の映画館へ駆け込み、最前列に座ってアメリカの西部劇（Western Movies）をただぼんやりと鑑賞することでした。 脳科学的にこの強烈で単純な視覚刺激が疲弊した前頭葉を完全に休ませ、リセットするメカニズムを解明します。\n\n現代人も激しい作業の後に頭がボーッとする「ブレイン・フォグ」を経験します。多くの人がベッドに横になりSNSを眺めますが、脳は無作為な反芻（Rumination）を引き起こし前頭葉のリソースを消耗し続けます。脳に明確な「停止信号」を与えるには、強力な代替視覚刺激が必要です。\n\n本記事では、ヴィトゲンシュタインの西部劇デトックスルーティンが脳のストレス状態をいかに解除するかを解明し、情報の過負荷を遮断して最高の脳状態を回復する3ステップ実践法を提示します。",
+      "zh": "“当哲学研究快要把我逼疯时，坐在电影院第一排面对的美国西部片的简单直白，才是救活我大脑的唯一良药。” 🤠\n\n路德维希·维特根斯坦（Ludwig Wittgenstein，1889–1951）是令伯特兰·罗素与戈特洛布·弗雷格叹服、重塑20世纪现代哲学与逻辑学格局的天才哲学家。在剑桥大学撰写《逻辑哲学论（Tractatus Logico-Philosophicus）》与《哲学研究》期间，由于极度探索语言与思维的极限，他常遭遇严重的思维麻痹与精神衰竭。\n\n为了克服这种破坏性的认知过热，维特根斯坦在剑桥时期坚持着一项独特的晚间习惯。每当高强度的研究结束，他便立刻奔向当地电影院，坐在第一排盯着银幕观看剧情直白的美国西部牛仔电影。从脑科学的角度来看，这种强烈而单纯的视觉刺激能彻底冷却疲惫的前额叶皮层。\n\n现代人在高强度工作后常遭遇“脑雾（Brain Fog）”。许多人试图躺在床上刷社交媒体放松，但这反而会引发无意识的思维反刍（Rumination），继续消耗前额叶资源。要给大脑明确的“停止信号”，需要引入强大而直接的替代性视觉刺激。\n\n本篇文章分析维特根斯坦的西部片排毒习惯如何消除大脑压力，并呈献阻断信息过载、恢复大脑巅峰状态的3步实操方案。",
+      "es": "\"Cuando la investigación filosófica me vuelve loco, la sencillez de los westerns americanos desde la primera fila del cine es el único elixir que revive mi cerebro.\" 🤠\n\nLudwig Wittgenstein (1889–1951), el genio que deslumbró a Bertrand Russell y Gottlob Frege, transformando la lógica y filosofía del siglo XX. Al redactar en Cambridge el 'Tractatus Logico-Philosophicus' y las 'Investigaciones filosóficas', sufrió un agotamiento mental devastador.\n\nPara superar el sobrecalentamiento cognitivo, Wittgenstein mantenía una estricta rutina nocturna en Cambridge. En cuanto terminaba sus estudios, corría al cine local, se sentaba en la mismísima primera fila y miraba fijamente películas del Oeste. La neurociencia explica cómo esta inmersión visual simple y absorbente enfría el córtex prefrontal exhausto.\n\nTras el trabajo intenso, se suele sufrir 'niebla mental'. Reposar mirando las redes sociales desata la rumiación ansiosa. Para dar al cerebro una señal clara de 'alto', se necesita un estímulo visual alternativo e intenso.\n\nEste artículo analiza la rutina de desintoxicación con westerns de Wittgenstein y presenta un plan de 3 pasos para eliminar la sobrecarga de información.",
+      "de": "\"Wenn mich die Philosophie in den Wahnsinn treibt, ist die Einfachheit amerikanischer Western in der ersten Kinoreihe das einzige Elixier, das mein Gehirn wieder belebt.\" 🤠\n\nLudwig Wittgenstein (1889–1951) war das Genie, das Bertrand Russell und Gottlob Frege staunen ließ und die Philosophie des 20. Jahrhunderts prägte. Bei der Arbeit am 'Tractatus Logico-Philosophicus' und den 'Philosophischen Untersuchungen' in Cambridge erlitt er schwere kognitive Erschöpfung.\n\nUm dieser Überhitzung zu entkommen, pflegte er in Cambridge ein festes Abendritual. Nach getaner Forschung eilte er ins Kino, setzte sich in die allererste Reihe und schaute sich einfache Westernfilme an. Neurowissenschaftlich schaltet diese direkte visuelle Immersion die Grübel-Schleifen des präfrontalen Kortex ab.\n\nNach anstrengender Arbeit erleben viele 'Brain Fog'. Wer sich aufs Sofa legt und am Smartphone scrollt, verstärkt kognitive Erschöpfung durch Ruminieren. Ein klarer 'Stopp-Signal' erfordert einen starken alternativen Reiz.\n\nDieser Beitrag analysiert Wittgensteins Western-Detox-Routine und zeigt ein 3-Schritte-Modell zur Erholung des Gehirns.",
+      "fr": "\"Quand la recherche philosophique me rend fou, la simplicité des westerns américains vue du premier rang du cinéma est le seul élixir qui ranime mon cerveau.\" 🤠\n\nLudwig Wittgenstein (1889–1951), génie austro-britannique qui émerveilla Bertrand Russell et Gottlob Frege en révolutionnant la philosophie du XXe siècle. Auteur du 'Tractatus Logico-Philosophicus' et des 'Investigations philosophiques' à Cambridge, il subissait une épuisante fatigue intellectuelle.\n\nPour surmonter ce surchauffage cognitif, Wittgenstein suivait une routine nocturne stricte. Dès sa journée d'étude terminée, il courait au cinéma, s'installait au premier rang et plongeait dans des films de cow-boys américains. En neurosciences, cette immersion visuelle simple éteint la surcharge du cortex préfrontal.\n\nAprès le travail, on souffre souvent du 'brouillard mental'. Consulter les réseaux sociaux suscite des ruminations qui épuisent l'esprit. Pour envoyer un signal d'arrêt clair au cerveau, un stimulus visuel captivant est nécessaire.\n\nCet article explique la routine de détox cinématographique de Wittgenstein et propose un plan en 3 étapes pour recharger ses capacités cognitives.",
+      "pt": "\"Quando a pesquisa filosófica me enlouquece, a simplicidade dos faroestes americanos na primeira fileira do cinema é o único elixir que reanima meu cérebro.\" 🤠\n\nLudwig Wittgenstein (1889–1951), gênio que impressionou Bertrand Russell e Gottlob Frege ao transformar a lógica do século XX. Ao escrever em Cambridge o 'Tractatus Logico-Philosophicus' e as 'Investigações Filosóficas', sofreu exaustão mental severa.\n\nPara superar esse sobreaquecimento cognitivo, Wittgenstein mantinha uma rotina noturna em Cambridge. Assim que terminava os estudos, corria ao cinema local, sentava-se na primeira fileira e assistia a filmes de faroeste. A neurociência mostra como essa imersão visual simples desliga a sobrecarga pré-frontal.\n\nApós o trabalho intenso, é comum sentir 'névoa mental'. Descansar olhando redes sociais estimula ruminações involuntárias. Para dar um 'sinal de parada' ao cérebro, é necessário um estímulo visual alternativo e absorvente.\n\nEste artigo analisa a rotina de detox com faroestes de Wittgenstein e traz um plano de 3 etapas para eliminar a sobrecarga de informação.",
+      "id": "\"Ketika penelitian filsafat membuatku merasa gila, kesederhanaan film koboi Amerika dari barisan paling depan bioskop adalah satu-satunya obat yang menghidupkan kembali otakku.\" 🤠\n\nLudwig Wittgenstein (1889–1951) adalah filsuf jenius yang memukau Bertrand Russell dan Gottlob Frege serta mengubah lanskap logika abad ke-20. Menulis 'Tractatus Logico-Philosophicus' dan 'Philosophical Investigations' di Cambridge, ia mengalami kelelahan mental yang parah.\n\nUntuk mengatasi kelebihan beban kognitif ini, Wittgenstein memiliki rutinitas malam yang ketat. Begitu penelitian selesai, ia bergegas ke bioskop, duduk di barisan paling depan, dan menatap film koboi Amerika. Secara sains otak, perendaman visual sederhana ini mematikan beban korteks prafrontal yang lelah.\n\nSetelah bekerja keras, banyak orang mengalami 'brain fog'. Bersantai sambil membuka media sosial justru memicu rumiilasi yang menguras energi. Untuk memberikan 'sinyal berhenti' pada otak, diperlukan rangsangan visual pengganti yang kuat.\n\nArtikel ini menganalisis rutinitas detox film koboi Wittgenstein dan memberikan panduan 3 langkah untuk memulihkan kondisi otak puncak."
     },
     "whyTitle": {
-      "ko": "주의 강제 전환을 통한 뇌 회로 리셋과 인큐베이션"
+      "ko": "주의 강제 전환을 통한 뇌 회로 리셋과 인큐베이션",
+      "en": "Brain Circuit Reset and Incubation via Forced Attention Redirection",
+      "ja": "注意の強制転換による脳回路のリセットとインキュベーション",
+      "zh": "通过注意力强制转移实现大脑回路重置与潜伏孵化（Incubation）",
+      "es": "Reinício de circuitos cerebrales e incubación mediante la redirección forzada de la atención",
+      "de": "Gehirnkreis-Reset und Inkubation durch erzwungene Aufmerksamkeitsumlenkung",
+      "fr": "Réinitialisation des circuits cérébraux et incubation par réorientation forcée de l'attention",
+      "pt": "Reset dos circuitos cerebrais e incubação através da redireção forçada da atenção",
+      "id": "Reset Sirkuit Otak dan Inkubasi Melalui Pengalihan Perhatian Paksa"
     },
     "whyDesc": {
-      "ko": "우리의 전두엽은 한 가지 난해한 주제에 오랜 시간 고집스럽게 초점을 맞출 때, 정보 과부하로 인해 인지 피로를 겪고 효율성이 뚝 떨어집니다. 이때 뇌를 가만히 쉬게 하려 해도 무의식적이고 반복적인 잡념(Rumination)이 머릿속을 맴돌며 뇌는 쉬지 못합니다. 비트겐슈타인의 영화관 맨 앞줄 서부극 감상은 강력한 대안 자극을 통해 주의를 강제로 빼앗는 '주의 편향 강제 리디렉션'을 이룹니다. 시각과 청각을 단순하고 역동적인 화면에 완전히 매장함으로써, 전두엽의 사색 회로가 마침내 작동을 멈추고 뇌의 '디폴트 모드 네트워크(DMN)'가 켜지게 됩니다. 이 인큐베이션(부화) 시기에 뇌는 풀리지 않던 난제를 무의식 속에서 정리하여 뜻밖의 깨달음을 선사합니다."
+      "ko": "우리의 전두엽은 한 가지 난해한 주제에 오랜 시간 고집스럽게 초점을 맞출 때, 정보 과부하로 인해 인지 피로를 겪고 효율성이 뚝 떨어집니다. 이때 뇌를 가만히 쉬게 하려 해도 무의식적이고 반복적인 잡념(Rumination)이 머릿속을 맴돌며 뇌는 쉬지 못합니다. 비트겐슈타인의 영화관 맨 앞줄 서부극 감상은 강력한 대안 자극을 통해 주의를 강제로 빼앗는 '주의 편향 강제 리디렉션'을 이룹니다. 시각과 청각을 단순하고 역동적인 화면에 완전히 매장함으로써, 전두엽의 사색 회로가 마침내 작동을 멈추고 뇌의 '디폴트 모드 네트워크(DMN)'가 켜지게 됩니다. 이 인큐베이션(부화) 시기에 뇌는 풀리지 않던 난제를 무의식 속에서 정리하여 뜻밖의 깨달음을 선사합니다.",
+      "en": "When our prefrontal cortex focuses obstinately on a complex subject for extended periods, it suffers cognitive fatigue from information overload. Even if we try to passively rest, unconscious rumination circles in our minds. Wittgenstein's front-row Western movie routine achieves 'forced attention redirection' via a strong alternative stimulus. By occupying vision and hearing with simple, dynamic screens, prefrontal analytical circuits shut off, allowing the Default Mode Network (DMN) to activate. During this incubation period, the unconscious mind reorganizes complex problems, often yielding unexpected breakthroughs.",
+      "ja": "前頭葉が難解なテーマに長時間執着して焦点を合わせ続けると、情報過負荷により認知疲労を起こし効率が急降下します。このとき脳を休ませようとしても、無意識な反芻（Rumination）が頭を巡り休まりません。ヴィトゲンシュタインの映画館最前列での西部劇鑑賞は、強力な代替刺激を通じて注意を強制的に奪う「注意偏向の強制リダイレクト」を達成します。視覚と聴覚を単純で動的な画面に完全に埋没させることで前頭葉の思索回路が停止し、脳の「デフォルト・モード・ネットワーク（DMN）」が起動します。このインキュベーション（孵化）期間中に脳は解けなかった難題を無意識下で整理し、思わぬひらめきをもたらします。",
+      "zh": "当前额叶皮层长时间执着于某一复杂难题时，会因信息过载而遭受认知疲劳，效率陡降。此时即使试图被动休息，潜意识中的反复反刍（Rumination）也会让大脑无法安宁。维特根斯坦在电影院第一排观看西部片，通过强大的替代性刺激实现了“注意力强制重定向”。将视觉与听觉完全浸没在单纯而动态的画面中，使前额叶皮层的分析回路终于停止运转，从而触发大脑的“默认模式网络（DMN）”。在此潜伏孵化（Incubation）阶段，大脑会在无意识中梳理未解难题，带来出人意料的灵感突破。",
+      "es": "Cuando el córtex prefrontal se enfoca en un tema complejo durante horas, sufre fatiga cognitiva. Intentar descansar pasivamente desata la rumiación inconsciente. La rutina de Wittgenstein logra una 'redirección forzada de la atención'. Al sumergir la vista y el oído en una pantalla dinámica pero simple, los circuitos analíticos se apagan, permitiendo que la Red Neuronal por Defecto (DMN) se active e incube soluciones a problemas complejos.",
+      "de": "Wenn der präfrontale Kortex stundenlang auf ein schwieriges Thema fixiert ist, leidet er unter kognitiver Erschöpfung. Passives Ausruhen führt oft zu unbewusstem Grübeln. Wittgensteins Kinoroutine bewirkt eine 'erzwungene Aufmerksamkeitsumlenkung'. Durch die optische Fesselung schaltet der präfrontale Kortex ab, und das Default Mode Network (DMN) übernimmt, um ungelöste Fragen unbewusst zu verarbeiten.",
+      "fr": "Lorsque le cortex préfrontal reste focalisé trop longtemps sur un sujet complexe, il subit une fatigue cognitive. Se reposer passivement laisse place aux ruminations. La routine de Wittgenstein réalise une 'réorientation forcée de l'attention'. En captant la vue et l'ouïe avec un écran simple et dynamique, les circuits d'analyse s'éteignent, activant le réseau par défaut (DMN) qui incube la solution aux problèmes.",
+      "pt": "Quando o córtex pré-frontal foca horas em um tema complexo, sofre fadiga cognitiva. Tentar descansar passivamente desencadeia ruminações. A rotina de Wittgenstein alcança uma 'redireção forçada da atenção'. Ao mergulhar a visão em uma tela dinâmica e simples, os circuitos analíticos desligam-se, ativando a Rede de Modo Padrão (DMN) para incubar ideias.",
+      "id": "Saat korteks prafrontal berfokus pada masalah rumit terlalu lama, ia mengalami kelelahan kognitif. Mencoba istirahat pasif memicu ruminasi tak sadar. Rutinitas bioskop Wittgenstein mencapai 'pengalihan perhatian paksa'. Dengan menyerap indera pada layar dinamis yang sederhana, sirkuit analitis prafrontal mati, mengaktifkan Default Mode Network (DMN) untuk menginkubasi solusi masalah."
     },
     "cautionTitle": {
-      "ko": "주의사항 및 팁"
+      "ko": "주의사항 및 팁",
+      "en": "Cautions and Tips",
+      "ja": "注意事項およびヒント",
+      "zh": "注意事项与技巧",
+      "es": "Precauciones y consejos",
+      "de": "Vorsichtsmaßnahmen und Tipps",
+      "fr": "Précautions et conseils",
+      "pt": "Precauções e dicas",
+      "id": "Peringatan dan Tips"
     },
     "cautionDesc": {
-      "ko": "뇌의 열을 식히기 위한 디톡스 영화나 매체 감상을 고를 때, 또 다른 인지 부하를 주는 난해한 스릴러나 예술 영화, 혹은 슬프고 무거운 주제의 스토리는 피해야 합니다. 줄거리를 해석하거나 도덕적 가치 판단을 해야 하는 매체는 뇌를 쉬게 하지 못하고 도리어 감정적, 인지적 에너지를 추가로 갉아먹습니다. 따라서 비트겐슈타인의 서부극처럼 단순 명쾌한 권선징악 구조나 가벼운 액션, 아름다운 자연 다큐멘터리처럼 뇌가 분석할 필요가 없는 단순 자극 매체를 골라야 올바른 휴식 효과를 볼 수 있습니다."
+      "ko": "뇌의 열을 식히기 위한 디톡스 영화나 매체 감상을 고를 때, 또 다른 인지 부하를 주는 난해한 스릴러나 예술 영화, 혹은 슬프고 무거운 주제의 스토리는 피해야 합니다. 줄거리를 해석하거나 도덕적 가치 판단을 해야 하는 매체는 뇌를 쉬게 하지 못하고 도리어 감정적, 인지적 에너지를 추가로 갉아먹습니다. 따라서 비트겐슈타인의 서부극처럼 단순 명쾌한 권선징악 구조나 가벼운 액션, 아름다운 자연 다큐멘터리처럼 뇌가 분석할 필요가 없는 단순 자극 매체를 골라야 올바른 휴식 효과를 볼 수 있습니다.",
+      "en": "When choosing media for brain detox, avoid mind-bending thrillers, complex art films, or heavy tragedies that impose additional cognitive loads. Media requiring plot analysis or emotional judgment drains cognitive energy. Choose straightforward content like light action films, simple good-vs-evil storylines, or nature documentaries that require no analytical effort.",
+      "ja": "脳の熱を冷ますためのデトックス映画やメディアを選ぶ際、新たな認知負荷を与える難解なスリラーや単調な芸術映画、重い悲劇は避けるべきです。プロットの解析や道徳的判断を要するメディアは脳を休ませず、エネルギーを消費します。ヴィトゲンシュタインの西部劇のように勧善懲悪が明快なアクションや自然ドキュメンタリーなど、分析不要なコンテンツを選んでください。",
+      "zh": "选择用于大脑排毒的电影或媒体时，请避免需要高度思考的悬疑惊悚片、复杂文艺片或沉重悲剧。需要推理剧情或道德判断的媒体无法让大脑休息，反而会额外消耗情感与认知能量。应像维特根斯坦的西部片一样，选择善恶分明的轻动作片、爽片或自然纪录片等无需分析的直白媒体。",
+      "es": "Al elegir películas para desintoxicar la mente, evita thrillers complejos, cine de arte abstracto o tragedias pesadas que añaden carga cognitiva. Elige contenido sencillo, como películas de acción ligeras, historias de bien contra el mal o documentales de naturaleza que no requieran análisis.",
+      "de": "Vermeiden Sie bei der Medienauswahl für den Gehirn-Detox anspruchsvolle Thriller, Kunstfilme oder schwere Dramen. Inhalte, die Analyse erfordern, rauben kognitive Energie. Wählen Sie einfache Unterhaltung wie leichte Actionfilme oder Naturdokumentationen.",
+      "fr": "Évitez les thrillers complexes, les films d'auteur ou les drames pèsants pour votre détox cérébrale. Les médias exigeant une analyse absorbent l'énergie cognitive. Privilégiez des contenus simples comme les films d'action légers ou les documentaires animaliers.",
+      "pt": "Evite thrillers complexos, filmes de arte conceituais ou tragédias ao escolher mídias para o detox mental. Conteúdos que exigem raciocínio consomem energia. Escolha filmes de ação leves, histórias simples do bem contra o mal ou documentários da natureza.",
+      "id": "Hindari film thriller rumit, film seni tinggi, atau tragedi berat saat memilih media detox otak. Media yang memerlukan analisis alur cerita justru menguras energi kognitif. Pilih konten sederhana seperti film aksi ringan atau dokumenter alam."
     },
     "steps": [
       {
         "name": {
-          "ko": "시각적 압도감을 주는 휴식 도구 마련"
+          "ko": "시각적 압도감을 주는 휴식 도구 마련",
+          "en": "Setting Up Visually Immersive Relaxation Environment",
+          "ja": "視覚的圧倒感を与える休憩スペースの確保",
+          "zh": "营造具备视觉沉浸感与覆盖度的休息环境",
+          "es": "Preparar un entorno de descanso de gran inmersión visual",
+          "de": "Einrichten einer visuell einnehmenden Entspannungsumgebung",
+          "fr": "Aménager un environnement de repos visuellement immersif",
+          "pt": "Criar um ambiente de descanso com grande imersão visual",
+          "id": "Menyiapkan Lingkungan Istirahat yang Imersif Secara Visual"
         },
         "text": {
-          "ko": "주변 불을 끄고 대형 모니터나 TV 앞에 앉아, 시야를 화면으로 채울 수 있는 몰입도 높은 휴식 공간을 만듭니다."
+          "ko": "주변 불을 끄고 대형 모니터나 TV 앞에 앉아, 시야를 화면으로 채울 수 있는 몰입도 높은 휴식 공간을 만듭니다.",
+          "en": "Turn off lights and sit before a large screen or TV, filling your field of vision to create a highly immersive relaxation space.",
+          "ja": "周囲の照明を消し、大型モニターやTVの前に座り、視野を画面で満たせる没入感の高い休憩空間を作ります。",
+          "zh": "关掉周围的灯光，坐在大屏幕或电视前，让画面填满视野，打造高度沉浸的放松空间。",
+          "es": "Apaga las luces y siéntate frente a una pantalla grande o TV, llenando tu campo visual para crear un espacio envolvente.",
+          "de": "Schalten Sie das Licht aus und setzen Sie sich vor einen großen Bildschirm, der Ihr Sichtfeld ausfüllt.",
+          "fr": "Éteignez la lumière et installez-vous devant un grand écran, occupant tout votre champ de vision.",
+          "pt": "Desligue as luzes e sente-se diante de uma tela grande ou TV, preenchendo o campo visual para criar imersão.",
+          "id": "Matikan lampu sekitar dan duduk di depan layar besar atau TV, mengisi bidang pandang untuk menciptakan ruang imersif."
         }
       },
       {
         "name": {
-          "ko": "단순하고 분석이 필요 없는 매체 선정"
+          "ko": "단순하고 분석이 필요 없는 매체 선정",
+          "en": "Selecting Simple, Low-Cognitive Content",
+          "ja": "単純で分析不要なメディアの選定",
+          "zh": "挑选简单直白且无需思考分析的内容",
+          "es": "Seleccionar contenido simple sin necesidad de análisis",
+          "de": "Auswahl einfacher, analysefreier Medien",
+          "fr": "Sélectionner un contenu simple ne nécessitant aucune analyse",
+          "pt": "Selecionar mídias simples e sem necessidade de análise",
+          "id": "Memilih Konten Sederhana Tanpa Perlu Analisis"
         },
         "text": {
-          "ko": "줄거리가 꼬이지 않고 가볍게 볼 수 있는 단순 액션 영화, 킬링타임 영화, 혹은 평화로운 대자연 다큐멘터리를 켭니다."
+          "ko": "줄거리가 꼬이지 않고 가볍게 볼 수 있는 단순 액션 영화, 킬링타임 영화, 혹은 평화로운 대자연 다큐멘터리를 켭니다.",
+          "en": "Choose straightforward action movies, lighthearted popcorn films, or peaceful nature documentaries with no plot twists.",
+          "ja": "プロットが複雑でなく気軽に観られる単純なアクション映画や、平和な大自然のドキュメンタリーを再生します。",
+          "zh": "选择剧情简单明了的轻动作片、爆米花电影，或是恬静平和的大自然纪录片。",
+          "es": "Elige películas de acción sencillas, cine entretenido sin giros argumentales o documentales pacíficos de la naturaleza.",
+          "de": "Wählen Sie unkomplizierte Actionfilme, leichte Unterhaltungsfilme oder friedliche Naturdokumentationen.",
+          "fr": "Choisissez des films d'action simples, des comédies légères ou de paisibles documentaires animaliers.",
+          "pt": "Escolha filmes de ação diretos, produções despretensiosas sem reviravoltas ou documentários sobre a natureza.",
+          "id": "Pilih film aksi sederhana, film hiburan ringan tanpa alur rumit, atau dokumenter alam yang menenangkan."
         }
       },
       {
         "name": {
-          "ko": "의식적 분석 정지와 시청 후 즉시 수면"
+          "ko": "의식적 분석 정지와 시청 후 즉시 수면",
+          "en": "Halting Analytical Thinking and Sleeping Immediately After Viewing",
+          "ja": "意識的分析の停止と視聴後即時の睡眠",
+          "zh": "关停分析批判思维，观影后立即入睡",
+          "es": "Detener el análisis consciente y dormir inmediatamente tras ver la película",
+          "de": "Stoppen der kognitiven Analyse und sofortiges Schlafen nach dem Film",
+          "fr": "Arrêter l'analyse consciente et dormir immédiatement après le visionnage",
+          "pt": "Interromper a análise consciente e dormir imediatamente após o filme",
+          "id": "Menghentikan Analisis Sadar dan Segera Tidur Setelah Menonton"
         },
         "text": {
-          "ko": "내용을 비판적으로 평가하려 하지 않고 그저 흘러가는 화면에 시선을 맡겨 30분~1시간 리셋 후, 뇌를 자극하지 않고 바로 취침으로 연결합니다."
+          "ko": "내용을 비판적으로 평가하려 하지 않고 그저 흘러가는 화면에 시선을 맡겨 30분~1시간 리셋 후, 뇌를 자극하지 않고 바로 취침으로 연결합니다.",
+          "en": "Refrain from critically evaluating the plot, simply let your gaze follow the moving images for 30–60 minutes to reset, then immediately go to sleep without engaging in further mental stimulation.",
+          "ja": "内容を批判的に評価しようとせず、流れる画面に視線を委ねて30分〜1時間リセットし、脳を刺激せずすぐに就寝します。",
+          "zh": "放弃对剧情的批判性评估，单纯让目光跟随画面流动，放松30分钟至1小时重置大脑，随后不上网不思索直接入睡。",
+          "es": "Sin evaluar ni criticar el argumento, deja fluir la vista durante 30-60 minutos para reiniciar la mente y ve a dormir inmediatamente.",
+          "de": "Bewerten Sie den Film nicht kritisch, sondern lassen Sie den Blick 30–60 Minuten über das Bild gleiten und gehen Sie danach direkt schlafen.",
+          "fr": "Sans évaluer le scénario, laissez simplement vos yeux suivre les images pendant 30 à 60 minutes, puis couchez-vous immédiatement.",
+          "pt": "Sem julgar criticamente o enredo, apenas acompanhe o fluxo visual por 30 a 60 minutos e vá dormir em seguida sem outros estímulos.",
+          "id": "Tanpa perlu menilai alur cerita, biarkan pandangan mengikuti gambar bergerak selama 30–60 menit untuk mereset otak, lalu segera tidur."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "퇴근 후 스마트폰 쇼츠나 릴스를 끝없이 보는 행위도 비트겐슈타인의 루틴과 비슷한 뇌 리셋 효과가 있나요?"
+          "ko": "퇴근 후 스마트폰 쇼츠나 릴스를 끝없이 보는 행위도 비트겐슈타인의 루틴과 비슷한 뇌 리셋 효과가 있나요?",
+          "en": "Does endlessly watching smartphone Shorts or Reels after work produce a similar brain reset effect as Wittgenstein's routine?",
+          "ja": "退勤後にスマートフォンのショート動画やリールを永遠に見る行為もヴィトゲンシュタインのルーティンと同様の脳リセット効果がありますか？",
+          "zh": "下班后无限刷手机短视频或Reels也会产生类似维特根斯坦习惯的大脑重置效果吗？",
+          "es": "¿Ver reels o vídeos cortos en el teléfono tras el trabajo produce el mismo efecto de reinicio cerebral?",
+          "de": "Hat das stundenlange Anschauen von Short-Videos oder Reels auf dem Smartphone einen ähnlichen Effekt?",
+          "fr": "Regarder en boucle des vidéos courtes ou des Reels sur son smartphone après le travail a-t-il le même effet ?",
+          "pt": "Assistir a vídeos curtos ou Reels no smartphone após o expediente produz o mesmo efeito de reset cerebral?",
+          "id": "Apakah menonton video pendek atau Reels tanpa henti setelah pulang kerja memberikan efek reset otak yang sama?"
         },
         "answer": {
-          "ko": "그렇지 않습니다. 숏폼 비디오는 몇 초 간격으로 뇌에 완전히 새로운 정보와 깜짝 자극을 쏟아붓습니다. 뇌는 새로운 영상을 볼 때마다 도파민을 과도하게 분비하고, 상황을 재해석하는 데 바빠져 뇌파가 더욱 산만해집니다. 비트겐슈타인의 루틴 핵심은 '지속적이고 완만하며 단순한 자극 속으로 들어가 인지 처리 능력을 정지시키는 것'에 있습니다. 빠르게 정보가 전환되는 숏폼은 뇌를 쉬게 하는 것이 아니라 도리어 더 지치게 만드는 중독성 자극에 가깝습니다."
+          "ko": "그렇지 않습니다. 숏폼 비디오는 몇 초 간격으로 뇌에 완전히 새로운 정보와 깜짝 자극을 쏟아붓습니다. 뇌는 새로운 영상을 볼 때마다 도파민을 과도하게 분비하고, 상황을 재해석하는 데 바빠져 뇌파가 더욱 산만해집니다. 비트겐슈타인의 루틴 핵심은 '지속적이고 완만하며 단순한 자극 속으로 들어가 인지 처리 능력을 정지시키는 것'에 있습니다. 빠르게 정보가 전환되는 숏폼은 뇌를 쉬게 하는 것이 아니라 도리어 더 지치게 만드는 중독성 자극에 가깝습니다.",
+          "en": "No, absolutely not. Short-form videos flood the brain with entirely new, novel stimuli every few seconds. Every swipe triggers dopamine spikes and forces rapid contextual re-evaluations, making brainwaves more scattered. The core of Wittgenstein's routine is immersing in continuous, slow, simple stimuli to pause cognitive processing. Rapid short-form media exhausts the brain rather than resting it.",
+          "ja": "いいえ、全く違います！ショート動画は数秒ごとに新しい情報と刺激を脳へ流し込みます。動画が変わる度にドパミンが過剰分泌され、文脈を再解釈することに追われて脳波はさらに散漫になります。ヴィトゲンシュタインのルーティンの核心は「持続的で緩やかで単純な刺激に入り込み、認知処理能力を停止させること」にあります。高速で画面が切り替わるショート動画は脳を休ませるどころか、より疲弊させる刺激です。",
+          "zh": "绝非如此！短视频每隔数秒就会向大脑倾泻全新且不可预测的刺激。每切换一个视频，大脑都会过量分泌多巴胺并强迫重新解读情境，导致脑电波更加散乱。维特根斯坦习惯的核心在于“进入持续、缓和且直白的刺激中，从而关停认知分析能力”。频繁切换信息的短视频不仅不能让大脑休息，反而是一种加剧大脑疲劳的成瘾性刺激。",
+          "es": "¡No, en absoluto! Los vídeos cortos bombardean el cerebro con estímulos impredecibles cada pocos segundos. Cada deslizamiento fuerza a reinterpretar situaciones y dispara la dopamina, dispersando las ondas cerebrales. La clave de Wittgenstein es sumergirse en un estímulo continuo y pausado para pausar la cognición.",
+          "de": "Nein, keineswegs! Kurzvideos überschütten das Gehirn alle paar Sekunden mit neuen Reizen. Jeder Wisch erzwingt eine Neubeurteilung und schüttet Dopamin aus, was das Gehirn zerstreut. Wittgensteins Schlüssel lag in einer dauerhaften, ruhigen Reizeinwirkung zum Abschalten.",
+          "fr": "Non, pas du tout ! Les vidéos courtes inondent le cerveau de nouveaux stimuli toutes les quelques secondes. Chaque balayage force une réinterprétation et épuise l'esprit. La clé de la routine de Wittgenstein est l'immersion dans un stimulus continu et calme pour mettre le cerveau au repos.",
+          "pt": "Não, de forma alguma! Vídeos curtos inundam o cérebro com novos estímulos a cada poucos segundos. Cada gesto força a reinterpretação e gera picos de dopamina, dispersando as ondas cerebrais. O segredo de Wittgenstein é a imersão em estímulos contínuos e tranquilos.",
+          "id": "Tidak, sama sekali tidak! Video pendek membanjiri otak dengan stimulasi baru setiap beberapa detik. Setiap usapan memaksa reinterpretasi dan memicu lonjakan dopamin, membuat gelombang otak semakin terdistraksi. Kunci rutinitas Wittgenstein adalah tenggelam dalam rangsangan berlanjut yang tenang untuk mengistirahatkan pemrosesan kognitif."
         }
       }
     ]

@@ -1,62 +1,190 @@
 {
   "woolf-standing-desk": {
     "title": {
-      "ko": "매일 아침 서서 글을 쓴 소설가? 버지니아 울프의 고도 몰입 습관"
+      "ko": "매일 아침 서서 글을 쓴 소설가? 버지니아 울프의 고도 몰입 습관",
+      "en": "The Novelist Who Wrote Standing Every Morning? Virginia Woolf's High-Immersion Habit",
+      "ja": "毎朝立って文章を書いた小説家？ヴァージニア・ウルフの高度没頭習慣",
+      "zh": "每天清晨站立写作的小说家：弗吉尼亚·伍尔芙的高高度沉浸习惯",
+      "es": "¿La novelista que escribía de pie cada mañana? El hábito de alta inmersión de Virginia Woolf",
+      "de": "Die Romanautorin, die jeden Morgen im Stehen schrieb? Virginia Woolfs Hochfokus-Gewohnheit",
+      "fr": "La romancière qui écrivait debout chaque matin ? L'habitude de haute immersion de Virginia Woolf",
+      "pt": "A romancista que escrevia de pé todas as manhãs? O hábito de alta imersão de Virginia Woolf",
+      "id": "Novelis yang Menulis Sambil Berdiri Setiap Pagi? Kebiasaan Fokus Tinggi Virginia Woolf"
     },
     "description": {
-      "ko": "20세기 문학 거장 버지니아 울프. 화가였던 동생의 이젤에서 영감을 받아 서서 집필함으로써 얻은 집중의 과학과 현대적인 입식 습관을 다룹니다."
+      "ko": "20세기 문학 거장 버지니아 울프. 화가였던 언니의 이젤에서 영감을 받아 서서 집필함으로써 얻은 집중의 과학과 현대적인 입식 습관을 다룹니다.",
+      "en": "20th-century literary giant Virginia Woolf. Explore the science of focus gained by writing standing up—inspired by her painter sister's easel—and modern standing work habits.",
+      "ja": "20世紀の文学の巨匠ヴァージニア・ウルフ。画家であった姉のイーゼルからインスピレーションを受け、立って執筆することで得た集中の科学と現代的な立ち作業習慣を扱います。",
+      "zh": "20世纪文学巨匠弗吉尼亚·伍尔芙。探索她受画家姐姐的画架启发、通过站立写作获得的专注科学与现代站立工作习惯。",
+      "es": "La gran figura literaria del siglo XX, Virginia Woolf. Explore la ciencia de la concentración obtenida al escribir de pie —inspirada en el caballete de su hermana pintora— y los hábitos modernos de trabajo erguido.",
+      "de": "Die Literatur-Gigantin des 20. Jahrhunderts Virginia Woolf. Entdecken Sie die Wissenschaft der Konzentration durch das Schreiben im Stehen – inspiriert von der Staffelei ihrer Schwester – und moderne Steharbeitsgewohnheiten.",
+      "fr": "La géante littéraire du XXe siècle Virginia Woolf. Explorez la science de la concentration acquise en écrivant debout — inspirée par le chevalet de sa sœur peintre — et les habitudes de travail debout modernes.",
+      "pt": "A gigante literária do século XX, Virginia Woolf. Explore a ciência da concentração adquirida ao escrever de pé — inspirada no cavalete de sua irmã pintora — e hábitos modernos de trabalho em pé.",
+      "id": "Raksasa sastra abad ke-20 Virginia Woolf. Pelajari ilmu fokus yang diperoleh dari menulis sambil berdiri—terinspirasi dari standar lukis kakak perempuannya—dan kebiasaan kerja berdiri modern."
     },
     "authority": {
-      "ko": "버지니아 울프 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+      "ko": "버지니아 울프 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+      "en": "Virginia Woolf historical biography & record examination & Cognitive Neuroscience research",
+      "ja": "ヴァージニア・ウルフ歴史的評伝・自伝的記録の考証および認知神経科学（Cognitive Neuroscience）研究",
+      "zh": "弗吉尼亚·伍尔芙历史传记与文献考证及认知神经科学研究",
+      "es": "Examen de biografías históricas y registros de Virginia Woolf e investigación en neurociencia cognitiva",
+      "de": "Untersuchung historischer Biografien und Aufzeichnungen von Virginia Woolf & Forschung der kognitiven Neurowissenschaften",
+      "fr": "Examen des biographies historiques et des récits sur Virginia Woolf et recherche en neurosciences cognitives",
+      "pt": "Exame de biografias históricas e registros de Virginia Woolf e pesquisas em neurociência cognitiva",
+      "id": "Pemeriksaan biografi historis & catatan tentang Virginia Woolf & penelitian Neurosains Kognitif"
     },
     "intro": {
-      "ko": "《델러웨이 부인》, 《등대로》 등 영문학사에 길이 남을 혁신적인 작품들을 집필하며 20세기 모더니즘 문학의 선구자로 평가받는 소설가 버지니아 울프. 그녀는 어떻게 인물의 내밀한 내면세계와 복잡한 심리를 이토록 집요하고 세련된 문장으로 구현해 낼 수 있었을까요? ✍️\n\n그녀의 놀라운 집중력 뒤에는 아주 독특한 작업 습관이 있었습니다. 울프는 매일 아침 높이가 1미터가 훌쩍 넘는 비스듬한 스탠딩 데스크 앞에 서서 펜을 쥐고 글을 썼습니다.\n\n이 독이 든 성배와 같았던 집필 루틴은 그녀의 여동생이자 뛰어난 화가였던 바네사 벨(Vanessa Bell)의 작업 방식에서 영감을 얻은 것이었습니다. 여동생 바네사가 캔버스 앞에 서서 온몸의 움직임을 활용해 그림을 그리며 작품을 다각도로 묘사하는 모습에 매료된 울프는, 자신 또한 서서 글을 써야 문장과 소설의 구조 전체를 입체적이고 균형 있게 바라보고 창작할 수 있다고 생각했습니다. 매일 아침 서서 글을 썼던 그녀의 고집은 소설 창작을 온몸의 에너지를 쏟아내는 역동적인 예술 행위로 승화시킨 결과물이었습니다.\n\n오늘 포스트에서는 버지니아 울프의 스탠딩 집필 루틴 속에 담긴 과학적 이점과 현대인들을 위한 집중력 부스팅 실천법을 전해드립니다."
+      "ko": "《델러웨이 부인》, 《등대로》 등 영문학사에 길이 남을 혁신적인 작품들을 집필하며 20세기 모더니즘 문학의 선구자로 평가받는 소설가 버지니아 울프. 그녀는 어떻게 인물의 내밀한 내면세계와 복잡한 심리를 이토록 집요하고 세련된 문장으로 구현해 낼 수 있었을까요? ✍️\n\n그녀의 놀라운 집중력 뒤에는 아주 독특한 작업 습관이 있었습니다. 울프는 매일 아침 높이가 1미터가 훌쩍 넘는 비스듬한 스탠딩 데스크 앞에 서서 펜을 쥐고 글을 썼습니다.\n\n이 독이 든 성배와 같았던 집필 루틴은 그녀의 언니이자 뛰어난 화가였던 바네사 벨(Vanessa Bell)의 작업 방식에서 영감을 얻은 것이었습니다. 언니 바네사가 캔버스 앞에 서서 온몸의 움직임을 활용해 그림을 그리며 작품을 다각도로 묘사하는 모습에 매료된 울프는, 자신 또한 서서 글을 써야 문장과 소설의 구조 전체를 입체적이고 균형 있게 바라보고 창작할 수 있다고 생각했습니다. 매일 아침 서서 글을 썼던 그녀의 고집은 소설 창작을 온몸의 에너지를 쏟아내는 역동적인 예술 행위로 승화시킨 결과물이었던 것입니다.\n\n오늘 포스트에서는 버지니아 울프의 스탠딩 집필 루틴 속에 담긴 과학적 이점과 현대인들을 위한 집중력 부스팅 실천법을 전해드립니다.",
+      "en": "Virginia Woolf, the novelist recognized as a pioneer of 20th-century modernist literature through landmark works like 'Mrs Dalloway' and 'To the Lighthouse'. How was she able to realize the secret inner worlds and complex psychology of her characters with such persistent and refined sentences? ✍️\n\nBehind her extraordinary focus lay a unique working habit. Every morning, Woolf stood holding a pen before a slanted standing desk well over a meter tall.\n\nThis intense writing routine was inspired by her older sister and brilliant painter, Vanessa Bell. Captivated by watching Vanessa paint standing before a canvas using her whole body's motion to depict her work multidimensionally, Woolf felt she too had to write standing to perceive and craft sentences and entire story structures with three-dimensional balance. Her insistence on writing standing every morning transformed novel writing into a dynamic art form pouring forth her whole body's energy.\n\nIn today's post, we share the scientific benefits behind Virginia Woolf's standing writing routine and concentration-boosting action methods for modern people.",
+      "ja": "『ダロウェイ夫人』、『灯台へ』など英文学史に長く残る革新的な作品を執筆し、20世紀モダニズム文学の先駆者と評価される小説家ヴァージニア・ウルフ。彼女はいかにして登場人物の密やかな内面世界と複雑な心理をこれほど執拗で洗練された文章として具現化できたのでしょうか？ ✍️\n\n彼女の驚異的な集中力の裏には、非常にユニークな作業習慣がありました。ウルフは毎朝、高さが1メートルを軽く超える傾斜のあるスタンディングデスクの前に立ち、ペンを握って文章を書きました。\n\nこの情熱的な執筆ルーティンは、彼女の姉であり優れた画家であったヴァネッサ・ベル（Vanessa Bell）の作業スタイルからインスピレーションを得たものでした。姉ヴァネッサがキャンバスの前に立ち、全身の動きを活用して絵を描きながら作品を多角的に描写する姿に魅료されたウルフは、自分もまた立って文章を書いてこそ、文章と小説の構造全体を立体的にバランスよく見つめて創作できると考えました。毎朝立って文章を書いた彼女のこだわりは、小説創作を全身のエネルギーを注ぎ込む動的な芸術行為へと昇華させた結果だったのです。\n\n今日のポストでは、ヴァージニア・ウルフの立ち執筆ルーティンに秘められた科学的メリットと、現代人のための集中力ブースティング実践法をお届けします。",
+      "zh": "凭借《达洛维夫人》、《到灯塔去》等在英文学史上留下长久印记的革新性著作，被公认为20世纪现代主义文学先驱的小说家弗吉尼亚·伍尔芙（Virginia Woolf）。她究竟是如何将人物隐秘的内心世界与复杂心理以如此执着而精炼的文字展现出来的？ ✍️\n\n在她非凡的专注力背后，有着一种非常独特的创作习惯。伍尔芙每天清晨都会站在高度超过1米的倾斜式站立书桌前，握笔写作。\n\n这一激情澎湃的写作习惯，灵感源自她的姐姐、杰出画家瓦妮莎·贝尔（Vanessa Bell）的工作方式。伍尔芙深深着迷于姐姐站在画布前调动全身动作、多角度描绘作品的神态，她认为自己也必须站立写作，才能以立体而平衡的视角审视并创作句子乃至整部小说结构。她每天清晨站立写作的坚持，正是将小说创作升华为倾注全身能量的动态艺术行为的结果。\n\n在今天的文章中，我们将介绍弗吉尼亚·伍尔芙站立写作习惯中蕴含的科学益处以及面向现代人的专注力提升实操法。",
+      "es": "Virginia Woolf, la novelista reconocida como pionera de la literatura modernista del siglo XX a través de obras fundamentales como 'La Sra. Dalloway' y 'Al faro'. ¿Cómo logró realizar los mundos interiores secretos y la compleja psicología de sus personajes con frases tan persistentes y refinadas? ✍️\n\nTras su extraordinaria concentración yacía un hábito de trabajo muy único. Cada mañana, Woolf escribía de pie sosteniendo una pluma ante un escritorio inclinado de más de un metro de altura.\n\nEsta intensa rutina de escritura fue inspirada por su hermana mayor y brillante pintora, Vanessa Bell. Cautivada al ver a Vanessa pintar de pie ante el lienzo usando todo el movimiento de su cuerpo para plasmar su obra multidimensionalmente, Woolf sintió que ella también debía escribir de pie para percibir y tejer oraciones y estructuras completas con equilibrio tridimensional. Su insistencia en escribir de pie cada mañana transformó la creación de novelas en un arte dinámico que vertía la energía de todo su cuerpo.\n\nEn la publicación de hoy, compartimos los beneficios científicos tras la rutina de escritura erguida de Virginia Woolf y métodos de acción para potenciar la concentración en la era moderna.",
+      "de": "Virginia Woolf, die Romanautorin, die durch wegweisende Werke wie 'Mrs. Dalloway' und 'Zum Leuchtturm' als Pionierin der modernistischen Literatur des 20. Jahrhunderts gilt. Wie war sie in der Lage, die geheimen Innenwelten und die komplexe Psychologie ihrer Figuren mit solch präzisen Sätzen zu verwirklichen? ✍️\n\nHinter ihrer außergewöhnlichen Konzentration steckte eine ganz besondere Arbeitsgewohnheit. Jeden Morgen stand Woolf mit dem Stift vor einem über einen Meter hohen Stehpult.\n\nDiese Schreibroutine wurde von ihrer älteren Schwester und genialen Malerin Vanessa Bell inspiriert. Fasziniert davon, wie Vanessa vor der Leinwand stand und ihren ganzen Körper nutzte, um ihr Werk mehrdimensional darzustellen, spürte Woolf, dass auch sie im Stehen schreiben musste, um Satzstrukturen und ganze Romane dreidimensional und ausgewogen zu erschaffen. Ihr Bestreben, jeden Morgen im Stehen zu schreiben, erhob das Romanschreiben zu einer dynamischen Kunstform.\n\nIm heutigen Beitrag teilen wir die wissenschaftlichen Vorteile von Virginia Woolfs Steh-Schreibroutine und Konzentrations-Methoden für moderne Menschen.",
+      "fr": "Virginia Woolf, la romancière reconnue comme une pionnière de la littérature moderniste du XXe siècle grâce à des œuvres majeures telles que 'Mrs Dalloway' et 'La Promenade au phare'. Comment a-t-elle pu concrétiser les mondes intérieurs secrets et la psychologie complexe de ses personnages avec des phrases si raffinées ? ✍️\n\nDerrière sa concentration extraordinaire se cachait une habitude de travail unique. Chaque matin, Woolf écrivait debout, un stylo à la main, devant un bureau perché à plus d'un mètre de hauteur.\n\nCette routine intense lui avait été inspirée par sa sœur aînée et brillante peintre, Vanessa Bell. Captivée en voyant Vanessa peindre debout devant sa toile en utilisant tout son corps pour dépeindre son œuvre de manière multidimensionnelle, Woolf a estimé qu'elle devait aussi écrire debout pour percevoir et façonner la structure de ses romans avec un équilibre tridimensionnel. Son insistance à écrire debout chaque matin a transformé la création romanesque en un art dynamique mobilisant toute son énergie.\n\nDans cet article, nous partageons les bienfaits scientifiques de la routine d'écriture debout de Virginia Woolf et des méthodes pour stimuler la concentration aujourd'hui.",
+      "pt": "Virginia Woolf, a romancista reconhecida como pioneira da literatura modernista do século XX por meio de obras marcantes como 'Mrs Dalloway' e 'Ao Farol'. Como ela foi capaz de realizar os mundos interiores secretos e a psicologia complexa de seus personagens com frases tão refinadas? ✍️\n\nPor trás de sua concentração extraordinária havia um hábito de trabalho único. Todas as manhãs, Woolf escrevia de pé diante de uma mesa inclinada de mais de um metro de altura.\n\nEssa rotina intensa foi inspirada por sua irmã mais velha e brilhante pintora, Vanessa Bell. Cativada ao ver Vanessa pintar de pé diante da tela usando todo o movimento do corpo para retratar a obra multidimensionalmente, Woolf sentiu que também precisava escrever de pé para perceber e tecer estruturas completas com equilíbrio tridimensional. Sua insistência em escrever de pé todas as manhãs transformou a criação de romances em uma arte dinâmica que vertia a energia do corpo todo.\n\nNo post de hoje, compartilhamos os benefícios científicos por trás da rotina de escrita em pé de Virginia Woolf e métodos para impulsionar a concentração na era moderna.",
+      "id": "Virginia Woolf, penulis novel yang diakui sebagai pelopor sastra modernis abad ke-20 melalui karya besar seperti 'Mrs Dalloway' dan 'To the Lighthouse'. Bagaimana ia mampu mewujudkan dunia batin yang rahasia dan psikologi rumit para karakternya dengan kalimat yang begitu refined? ✍️\n\nDi balik fokusnya yang luar biasa, terdapat kebiasaan kerja yang sangat unik. Setiap pagi, Woolf berdiri memegang pena di depan meja berdiri miring setinggi lebih dari satu meter.\n\nRutinitas menulis yang intens ini terinspirasi dari kakak perempuannya yang merupakan pelukis hebat, Vanessa Bell. Terpesona melihat Vanessa melukis sambil berdiri di depan kanvas menggunakan seluruh gerakan tubuhnya untuk menggambarkan karya secara multidimensi, Woolf merasa ia pun harus menulis sambil berdiri agar dapat melihat dan merangkai struktur novel secara seimbang dan tiga dimensi. Ketekunannya menulis sambil berdiri setiap pagi mengubah penulisan novel menjadi seni dinamis yang mencurahkan seluruh energi tubuhnya.\n\nDalam postingan hari ini, kami membagikan manfaat ilmiah di balik rutinitas menulis berdiri Virginia Woolf dan metode praktis peningkatan fokus untuk masyarakat modern."
     },
     "whyTitle": {
-      "ko": "입식 책상과 서서 쓰는 글쓰기가 유도하는 전신 고유수용성 자극"
+      "ko": "입식 책상과 서서 쓰는 글쓰기가 유도하는 전신 고유수용성 자극",
+      "en": "Whole-Body Proprioceptive Stimulation Induced by Standing Desks and Standing Writing",
+      "ja": "立ち机と立って書く執筆が誘導する全身固有受容感覚刺激",
+      "zh": "站立式书桌与站立写作引发的全身本体感觉刺激",
+      "es": "Estimulación propioceptiva de todo el cuerpo inducida por escritorios de pie y escritura erguida",
+      "de": "Ganzkörper-propriozeptive Stimulation durch Stehpulte und Schreiben im Stehen",
+      "fr": "Stimulation proprioceptive de tout le corps induite par les bureaux debout et l'écriture debout",
+      "pt": "Estimulação proprioceptiva de todo o corpo induzida por mesas de pé e escrita em pé",
+      "id": "Stimulasi Proprioseptif Seluruh Tubuh yang Dipicu oleh Meja Berdiri dan Menulis Sambil Berdiri"
     },
     "whyDesc": {
-      "ko": "105cm 높이의 입식 책상에 서서 그림을 그리듯 글을 쓰던 버지니아 울프의 습관은 전신 고유수용성 감각을 자극하여 글쓰기의 심리적 저항 장벽을 무력화하고 뇌의 집행 기능을 최고 상태로 가동해 주었습니다."
+      "ko": "105cm 높이의 입식 책상에 서서 그림을 그리듯 글을 쓰던 버지니아 울프의 습관은 전신 고유수용성 감각을 자극하여 글쓰기의 심리적 저항 장벽을 무력화하고 뇌의 집행 기능을 최고 상태로 가동해 줍니다.",
+      "en": "Virginia Woolf's habit of writing as if painting at a 105cm tall standing desk stimulates whole-body proprioceptive senses, neutralizing psychological resistance barriers to writing and running executive brain functions at peak levels.",
+      "ja": "105cmの高さの立ち机に立って絵を描くように文章を書いたヴァージニア・ウルフの習慣は、全身の固有受容感覚を刺激し、執筆への心理的抵抗の壁を無力化して脳の実行機能を最高状態に稼働させます。",
+      "zh": "弗吉尼亚·伍尔芙站在105厘米高的站立式书桌前如作画般写作的习惯，能够刺激全身本体感觉，瓦解写作的心理阻力屏障，并将大脑的执行功能提升至巅峰状态。",
+      "es": "El hábito de Virginia Woolf de escribir como si pintara ante un escritorio de pie de 105 cm estimula los sentidos propioceptivos de todo el cuerpo, neutralizando la resistencia psicológica a escribir y ejecutando las funciones cerebrales al máximo.",
+      "de": "Virginia Woolfs Gewohnheit, an einem 105 cm hohen Stehpult wie eine Malerin zu schreiben, stimuliert die Ganzkörper-Propriozeption, baut psychologische Schreibbarrieren ab und bringt die exekutiven Gehirnfunktionen auf Höchstleistung.",
+      "fr": "L'habitude de Virginia Woolf d'écrire comme si elle peignait devant un bureau debout de 105 cm stimule la proprioception de tout le corps, neutralisant la résistance psychologique à l'écriture et portant les fonctions exécutives du cerveau à leur sommet.",
+      "pt": "O hábito de Virginia Woolf de escrever como se pintasse diante de uma mesa de pé de 105 cm estimula a propriocepção de todo o corpo, neutralizando a resistência psicológica à escrita e elevando as funções executivas do cérebro ao nível máximo.",
+      "id": "Kebiasaan Virginia Woolf menulis seolah melukis di meja berdiri setinggi 105 cm menstimulasi indra proprioseptif seluruh tubuh, melumpuhkan hambatan resistensi psikologis dalam menulis dan mengaktifkan fungsi eksekutif otak pada tingkat puncak."
     },
     "cautionTitle": {
-      "ko": "서서 일하는 환경 세팅 시 자세 유지 조언"
+      "ko": "서서 일하는 환경 세팅 시 자세 유지 조언",
+      "en": "Posture Maintenance Advice When Setting Up a Standing Work Environment",
+      "ja": "立ち作業環境セッティング時の姿勢維持のアドバイス",
+      "zh": "搭建站立工作环境时的姿势保持建议",
+      "es": "Consejos para mantener la postura al configurar un entorno de trabajo de pie",
+      "de": "Ratschläge zur Haltung bei der Einrichtung einer Steharbeitsumgebung",
+      "fr": "Conseils de maintien de la posture lors de l'installation d'un environnement debout",
+      "pt": "Conselhos de manutenção de postura ao configurar um ambiente de trabalho em pé",
+      "id": "Saran Menjaga Postur Saat Mengatur Lingkungan Kerja Berdiri"
     },
     "cautionDesc": {
-      "ko": "발바닥 하중이 한쪽으로 쏠리지 않도록 쿠션 매트를 깔고 40분 작업 후 5분 이완하는 신체 밸런스를 유지하는 것이 중요합니다."
+      "ko": "발바닥 하중이 한쪽으로 쏠리지 않도록 쿠션 매트를 깔고 40분 작업 후 5분 이완하는 신체 밸런스를 유지하는 것이 중요합니다.",
+      "en": "It is important to maintain physical balance by putting down a anti-fatigue cushion mat to prevent load shifting to one side and taking 5 minutes of relaxation after 40 minutes of work.",
+      "ja": "足の裏の荷重が一偏に偏らないようクッションマットを敷き、40分作業後に5分間リラックスする身体的バランスを維持することが重要です。",
+      "zh": "脚下铺设抗疲劳缓冲垫以防止重力偏向单侧，并在工作40分钟后休息5分钟，保持身体平衡至关重要。",
+      "es": "Es importante mantener el equilibrio físico colocando una alfombra mullida para evitar que el peso se desplace hacia un lado y tomando 5 minutos de relajación tras 40 minutos de trabajo.",
+      "de": "Es ist wichtig, das körperliche Gleichgewicht zu halten, indem Sie eine Dämpfungsmatte auslegen, um eine einseitige Belastung zu vermeiden, und nach 40 Minuten Arbeit 5 Minuten Pause machen.",
+      "fr": "Il est important de maintenir l'équilibre physique en utilisant un tapis rembourré anti-fatigue et en prenant 5 minutes de relaxation après 40 minutes de travail.",
+      "pt": "É importante manter o equilíbrio físico usando um tapete acolchoado para evitar sobrecarregar um único lado e fazer 5 minutos de descanso após 40 minutos de trabalho.",
+      "id": "Penting untuk menjaga keseimbangan fisik dengan memasang matras empuk anti-lelah guna mencegah beban bertumpu pada satu sisi dan beristirahat 5 menit setelah 40 menit bekerja."
     },
     "steps": [
       {
         "name": {
-          "ko": "매일 아침 서서 글을 쓴 소설가? 버지니아 울프의 고도 몰입 습관 1단계 고유 실천 수칙"
+          "ko": "입식 작업 공간 및 스탠딩 데스크 세팅",
+          "en": "Standing Workspace and Standing Desk Setup",
+          "ja": "立ち作業空間およびスタンディングデスクのセッティング",
+          "zh": "站立工作空间与站立式书桌搭建",
+          "es": "Configuración de escritorio de pie y espacio de trabajo erguido",
+          "de": "Einrichtung des Steharbeitsplatzes und Stehpults",
+          "fr": "Configuration du bureau debout et de l'espace de travail",
+          "pt": "Configuração da mesa de pé e espaço de trabalho em pé",
+          "id": "Pengaturan Meja Berdiri dan Ruang Kerja Berdiri"
         },
         "text": {
-          "ko": "매일 아침 서서 글을 쓴 소설가? 버지니아 울프의 고도 몰입 습관 습관의 1단계 실천을 위한 전용 환경을 구축하고 뇌의 신경 회로를 집중 가동합니다."
+          "ko": "자신의 키에 맞는 높이(약 1m 내외)의 입식 책상이나 비스듬한 스탠드 보드를 배치하고, 발 밑에 쿠션 매트를 깔아 전신 자세를 안정적으로 정렬합니다.",
+          "en": "Place a standing desk or slanted desk board tailored to your height (around 1m tall), and put a cushion mat under your feet to stably align your full-body posture.",
+          "ja": "自分の身長に合った高さ（約1m前後）の立ち机や傾斜のあるスタンドボードを配置し、足元にクッションマットを敷いて全身の姿勢を安定して整えます。",
+          "zh": "配置适合自身身高高度（约1米左右）的站立式书桌或斜面支架，并在脚下铺设缓冲垫，以稳定对齐全身姿势。",
+          "es": "Coloque un escritorio de pie o un tablero inclinado adaptado a su altura (alrededor de 1 m), y ponga una alfombra mullida bajo sus pies para alinear su postura.",
+          "de": "Stellen Sie ein Stehpult oder ein geneigtes Stehbrett passend zu Ihrer Körpergröße auf (ca. 1m) und legen Sie eine Dämpfungsmatte unter die Füße.",
+          "fr": "Installez un bureau debout ou un pupitre incliné adapté à votre taille (environ 1 m) et placez un tapis rembourré sous vos pieds pour stabiliser la posture.",
+          "pt": "Posicione uma mesa de pé ou prancha inclinada adequada à sua altura (cerca de 1m) e coloque um tapete acolchoado sob os pés para alinhar a postura.",
+          "id": "Atur meja berdiri atau papan miring yang sesuai dengan tinggi badan (sekitar 1 m), dan letakkan matras empuk di bawah kaki untuk menyeimbangkan postur tubuh."
         }
       },
       {
         "name": {
-          "ko": "매일 아침 서서 글을 쓴 소설가? 버지니아 울프의 고도 몰입 습관 2단계 고유 실천 수칙"
+          "ko": "신체 고유수용성 자극 기반 30분 초몰입 집필",
+          "en": "30-Minute Hyper-Focused Writing via Proprioceptive Stimulation",
+          "ja": "身体固有受容感覚刺激に基づく30分間超没頭執筆",
+          "zh": "基于身体本体感觉刺激的30分钟超专注写作",
+          "es": "Escritura de hiperenfoque de 30 minutos basada en estimulación propioceptiva",
+          "de": "30-minütiges hochfokussierte Schreiben durch propriozeptive Stimulation",
+          "fr": "Écriture hyper-concentrée de 30 minutes basée sur la stimulation proprioceptive",
+          "pt": "Escrita de hiperfoco de 30 minutos baseada em estimulação proprioceptiva",
+          "id": "Sesi Menulis Fokus Tinggi 30 Menit Berbasis Stimulasi Proprioseptif"
         },
         "text": {
-          "ko": "매일 아침 서서 글을 쓴 소설가? 버지니아 울프의 고도 몰입 습관 습관의 2단계 실천을 위한 전용 환경을 구축하고 뇌의 신경 회로를 집중 가동합니다."
+          "ko": "서 있는 상태에서 시야를 다각도로 넓히고, 캔버스 앞의 화가처럼 몸 전체의 감각을 깨워 30분간 집중적으로 문장을 직조해 나갑니다.",
+          "en": "Widen your field of view multi-dimensionally while standing, awaken your full-body senses like a painter before a canvas, and weave sentences intensively for 30 minutes.",
+          "ja": "立っている状態で視野を多角的に広げ、キャンバスの前の画者のように身体全体の感覚を呼び覚まして30分間集中的に文章を紡ぎ出します。",
+          "zh": "在站立状态下多角度拓宽视角，如画布前的画家般唤醒全身感觉，集中精力和面编织句子30分钟。",
+          "es": "Amplíe su campo de visión mientras permanece de pie, despierte los sentidos de todo el cuerpo como un pintor ante el lienzo y teja frases de forma intensiva durante 30 minutos.",
+          "de": "Erweitern Sie im Stehen Ihr Blickfeld mehrdimensional, wecken Sie Ihre Ganzkörper-Sinne wie ein Maler vor der Leinwand und weben Sie 30 Minuten lang intensiv Sätze.",
+          "fr": "Élargissez votre champ de vision en position debout, éveillez l'ensemble de vos sens comme un peintre devant sa toile et tissez des phrases de façon intensive pendant 30 minutes.",
+          "pt": "Amplie seu campo de visão em pé, desperte os sentidos de todo o corpo como um pintor diante da tela e teça frases intensamente por 30 minutos.",
+          "id": "Perluas bidang pandang secara multidimensi saat berdiri, bangkitkan indra seluruh tubuh bagai pelukis di depan kanvas, dan rangkai kalimat secara intensif selama 30 menit."
         }
       },
       {
         "name": {
-          "ko": "매일 아침 서서 글을 쓴 소설가? 버지니아 울프의 고도 몰입 습관 3단계 고유 실천 수칙"
+          "ko": "40분 작업 후 5분 이완 및 밸런스 리셋",
+          "en": "5-Minute Relaxation and Balance Reset After 40 Minutes of Work",
+          "ja": "40分作業後の5분間リラックスおよびバランスリセット",
+          "zh": "工作40分钟后放松5分钟与平衡重置",
+          "es": "5 minutos de relajación y reinicio de equilibrio tras 40 minutos de trabajo",
+          "de": "5 Minuten Entspannung und Balance-Reset nach 40 Minuten Arbeit",
+          "fr": "5 minutes de relaxation et réinitialisation de l'équilibre après 40 minutes de travail",
+          "pt": "5 minutos de relaxamento e redefinição de equilíbrio após 40 minutos de trabalho",
+          "id": "5 Menit Relaksasi dan Reset Keseimbangan Setelah 40 Menit Bekerja"
         },
         "text": {
-          "ko": "매일 아침 서서 글을 쓴 소설가? 버지니아 울프의 고도 몰입 습관 습관의 3단계 실천을 위한 전용 환경을 구축하고 뇌의 신경 회로를 집중 가동합니다."
+          "ko": "40분 집중 집필 후에는 5분간 가벼운 스트레칭이나 휴식을 취하여 한쪽 발로 하중이 쏠리는 것을 방지하고 신체적·정신적 균형을 유지합니다.",
+          "en": "After 40 minutes of focused writing, take a light 5-minute stretch or break to prevent uneven weight on one foot and maintain physical and mental balance.",
+          "ja": "40分間の集中執筆の後は、5分間の軽いストレッチや休息を取り、片足に荷重が偏るのを防ぎ、身体的・精神的バランスを維持します。",
+          "zh": "在集中写作40分钟后，进行5分钟的轻度拉伸或休息，防止重力偏向单脚，保持身心平衡。",
+          "es": "Tras 40 minutes de escritura concentrada, realice 5 minutos de estiramientos o descanse para evitar cargar el peso sobre un solo pie y mantener el equilibrio físico y mental.",
+          "de": "Machen Sie nach 40 Minuten fokussiertem Schreiben 5 Minuten lang leichte Dehnübungen oder Pause, um eine einseitige Gewichtsverlagerung zu vermeiden und das Gleichgewicht zu halten.",
+          "fr": "Après 40 minutes d'écriture concentrée, faites 5 minutes d'étirements légers ou de pause pour éviter de charger un seul pied et maintenir l'équilibre physique et mental.",
+          "pt": "Após 40 minutos de escrita focado, faça 5 minutos de alongamento leve ou descanso para evitar sobrecarregar um só pé e manter o equilíbrio físico e mental.",
+          "id": "Setelah 40 menit menulis fokus, lakukan peregangan ringan atau istirahat selama 5 menit untuk mencegah beban berat pada satu kaki dan menjaga keseimbangan fisik serta mental."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "버지니아 울프는 왜 서서 글을 썼나요?"
+          "ko": "버지니아 울프는 왜 서서 글을 썼나요?",
+          "en": "Why did Virginia Woolf write standing up?",
+          "ja": "ヴァージニア・ウルフはなぜ立って文章を書いたのですか？",
+          "zh": "弗吉尼亚·伍尔芙为什么要站立写作？",
+          "es": "¿Por qué Virginia Woolf escribía de pie?",
+          "de": "Warum schrieb Virginia Woolf im Stehen?",
+          "fr": "Pourquoi Virginia Woolf écrivait-elle debout ?",
+          "pt": "Por que Virginia Woolf escrevia de pé?",
+          "id": "Mengapa Virginia Woolf menulis sambil berdiri?"
         },
         "answer": {
-          "ko": "화가인 언니가 캔버스 앞에서 서서 그림을 그리는 것처럼, 자신 또한 예술적 대등함과 고도의 몰입 상태를 지키기 위한 육체적 의식으로 서서 쓰는 책상을 애용했습니다."
+          "ko": "화가인 언니가 캔버스 앞에서 서서 그림을 그리는 것처럼, 자신 또한 예술적 대등함과 고도의 몰입 상태를 지키기 위한 육체적 의식으로 서서 쓰는 책상을 애용했습니다.",
+          "en": "Just as her painter sister stood before a canvas to paint, Woolf favored a standing desk as a physical ritual to preserve artistic equivalence and a state of intense immersion.",
+          "ja": "画家である姉がキャンバスの前で立って絵を描くように、自分もまた芸術的同等性と高度な没頭状態を維持するための身体的儀式として、立ち机を愛用しました。",
+          "zh": "正如作为画家的姐姐站在画布前作画一样，她也将站立书桌作为保持艺术上的对等与高度沉浸状态的一种身体仪式。",
+          "es": "Así como su hermana pintora se ponía de pie ante el lienzo, Woolf favorecía el escritorio erguido como un ritual físico para preservar la equivalencia artística y el hiperenfoque.",
+          "de": "So wie ihre Schwester als Malerin vor der Leinwand stand, nutzte Woolf das Stehpult als körperliches Ritual, um künstlerische Gleichwertigkeit und tiefen Fokus zu wahren.",
+          "fr": "Tout comme sa sœur peintre peignait debout devant sa toile, Woolf privilégiait le bureau debout comme rituel physique pour préserver son équivalence artistique et une immersion profonde.",
+          "pt": "Assim como sua irmã pintora ficava de pé diante da tela, Woolf apreciava a mesa de pé como um ritual físico para preservar a equivalência artística e o hiperfoco.",
+          "id": "Sebagaimana kakak perempuannya yang pelukis berdiri di depan kanvas saat melukis, Woolf menyukai meja berdiri sebagai ritual fisik untuk menjaga kesetaraan artistik dan fokus mendalam."
         }
       }
     ]

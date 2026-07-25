@@ -1,6 +1,6 @@
 ---
-title: "빛과 소음을 차단한 다용도실의 코더? 리누스 토발즈의 암실 집중 루틴"
-description: "리눅스와 깃의 창시자 리누스 토발즈. 외부 시각 자극과 일체의 전자기기 데코를 차단한 골방에서 초집중을 완성했던 그의 무소음 작업 환경 구축법을 다룹니다."
+title: "在遮光隔音的杂物间里写代码？林纳斯·托瓦兹的暗室专注日常"
+description: "Linux 和 Git 的创始人林纳斯·托瓦兹。探讨他如何在彻底隔绝外部视觉刺激和各类电子设备装饰的小房间里实现极度专注，并介绍其无噪音工作环境的构建方法。"
 pubDate: "2026-06-30"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
@@ -8,29 +8,29 @@ tags: ["위인 습관", "리누스 토발즈", "집중", "단순", "생산성"]
 heroImage: "/images/blog/torvalds_darkroom_focus.webp"
 app: "buildself"
 formatVersion: 4
-authority: "리누스 토발즈 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+authority: "林纳斯·托瓦兹的历史传记与自传文献考证及认知神经科学（Cognitive Neuroscience）研究"
 steps:
-  - name: "책상 주변의 시각적 데코 완벽 제거"
-    text: "컴퓨터 책상 위와 눈앞의 시야 영역에서 화려한 액자, 장난감 피규어, 책꽂이에 꽂힌 책 표지, 스마트폰 등을 완벽히 치웁니다. 오직 모니터와 마우스, 키보드만을 배치합니다."
-  - name: "주변 조도 제어 및 암실 환경 구축"
-    text: "작업실의 암막 커튼을 치거나 방의 메인 전등을 소등하여 주변 조도를 극도로 낮춥니다. 오직 모니터 화면의 빛만 눈에 보이도록 조절하거나, 시각 안정 피로를 예방할 부드러운 간접 조명 하나만 책상 아래나 뒤에 켭니다."
-  - name: "디지털 단일 인터페이스 몰입"
-    text: "화면에 여러 윈도우 창을 복잡하게 띄우지 않고, 작성 중인 코드 편집기나 문서 작성기 창 하나만을 전체 화면으로 실행합니다. 눈앞에 오직 단 하나의 핵심 텍스트 자극만 놓아 주의 조각을 방지합니다."
+  - name: "彻底清除书桌周围的视觉装饰"
+    text: "将电脑桌面上及视野范围内所有华丽的相框、玩具手办、书架上的书封面以及智能手机等彻底清理干净。只摆放显示器、鼠标和键盘。"
+  - name: "控制环境光线并构建暗室环境"
+    text: "拉上工作间的光帘或关掉房间的大灯，将周围的亮度降至极低。调节至只有显示器屏幕的光线可见，或者在桌下/桌后开启一盏柔和的间接照明灯，以防止视觉疲劳。"
+  - name: "沉浸于单一数字界面"
+    text: "不在屏幕上重叠打开多个窗口，只将正在编写的代码编辑器或文档编辑器窗口全屏运行。眼前只保留这唯一的核心文本刺激，防止注意力碎片化。"
 faqs:
-  - question: "어두운 곳에서 모니터만 보면 눈 시력이 나빠지지 않나요?"
-    answer: "완전한 암흑 속에서 과도하게 밝은 대비율은 눈의 피로를 유발합니다. 따라서 모니터의 조도(밝기)를 주변 환경에 맞춰 낮추거나, 모니터 화면 뒷면 벽에 부드러운 백라이트(간접 LED 등)를 설치하면 시각 신경의 피로를 예방하면서도 높은 몰입도를 확보할 수 있습니다."
-  - question: "집에 세탁실이나 격리된 방이 없을 때는 어떻게 해야 하나요?"
-    answer: "반드시 특수한 격리 공간일 필요는 없습니다. 일반 방의 문을 닫아 벽을 등지고 앉아 시야 반경을 고요하게 고정하거나, 물리적인 칸막이를 설치하여 책상 앞 1.5m 이내에 모니터 외의 다른 시각적 인지 자극물이 들어오지 않도록 차단막을 형성하는 것만으로도 충분합니다."
+  - question: "在黑暗的地方只看显示器会不会损害视力？"
+    answer: "在完全黑暗的环境中，过高的对比度会导致眼部疲劳。因此，根据周围环境调低显示器的亮度，或者在显示器背面的墙上安装柔和的背光（如间接LED灯），即可在预防视神经疲劳的同时保持高度沉浸。"
+  - question: "如果家里没有洗衣房或单独隔离的房间该怎么办？"
+    answer: "不必非要是特殊的隔离空间。只需关上普通房间的门，背对墙壁坐着以固定安静的视野，或者安装物理隔板，使书桌前1.5米范围内除了显示器之外没有其他视觉认知刺激物即可。"
 
 ---
 
-"나에게 최선의 작업 공간은 완전히 조용하고, 어둡고, 어떠한 장식이나 방해 요소도 없는 단조로운 곳이다." 💻
+“对我来说，理想的工作空间是绝对安静、昏暗且单调的，没有任何装饰或干扰因素。” 💻
 
-전 세계 수억 대의 서버, 슈퍼컴퓨터, 스마트폰 안에서 구동되는 운영체제 리눅스(Linux) 커널을 만들고, 현대 개발 협업의 표준이 된 분산 버전 관리 시스템 깃(Git)을 최초로 설계한 컴퓨터 공학의 아이콘, 리누스 토발즈. 21세기 오픈소스 소프트웨어 혁명을 촉발한 그의 집요하고 완벽에 가까운 논리적 집중력은 어떤 작업 환경에서 단련되었을까요?
+林纳斯·托瓦兹（Linus Torvalds）1969年出生于芬兰，是计算机工程界的巨擘及千禧年技术奖得主。他于1991年首次开发了Linux操作系统内核（如今运行于全球数亿台服务器、超级计算机和移动设备上），并于2005年设计了分布式版本控制系统Git，成为现代软件开发协作的标准。引发了21世纪开源软件革命的他，其执着且近乎完美的逻辑专注力究竟是在怎样的工作环境中打造出来的呢？
 
-토발즈는 복잡하기 짝이 없는 운영체제 구조와 Git의 알고리즘을 작성할 때, 뇌가 쓸데없는 자극에 방해받지 않도록 외부의 모든 정보 유입을 극단적으로 차단하는 '암실 집중' 습관을 엄격하게 지켰습니다. 그는 집 안의 가장 작고 어두운 방(심지어 환기구와 건조기가 있는 세탁실 구석)에 책상과 컴퓨터만을 들여놓았습니다. 암막 커튼으로 외부의 빛을 완전히 차단하고, 벽지조차 아무 무늬가 없는 단조로운 무채색으로 칠했습니다. 그리고 귀마개를 낀 채 장식이나 자극적 요소가 전무한 고요한 어둠 속에서 오직 컴퓨터 화면 안의 코드 로직에만 대뇌 세포를 무섭게 집중시켰습니다.
+在编写极其复杂的操作系统架构和Git算法时，托瓦兹严格遵循“暗室专注”的习惯，极度阻断外部信息的流入，以免大脑受到无用刺激的干扰。他把桌子和电脑放在家里最小、最暗的房间里（甚至是带有通风口和烘干机的洗衣房角落）。他用遮光帘完全挡住外界光线，甚至将墙壁涂成没有任何图案的单调无彩色。戴着耳塞，在没有任何装饰或刺激要素的寂静黑暗中，他将大脑细胞高度集中于电脑屏幕上的代码逻辑。
 
-오늘 포스트에서는 리누스 토발즈의 '무자극 암실' 루틴이 뇌의 선택적 주의집중 능력을 어떻게 활성화하는지 인지과학적 분석을 공유하고, 현대 지식 노동자들이 작업 효율을 극적으로 끌어올리는 실천 지침을 전합니다.
+在今天的文章中，我们将从认知科学的角度分析林纳斯·托瓦兹的“无刺激暗室”日常如何激活大脑的选择性注意能力，并为现代知识工作者提供大幅提升工作效率的实践指南。
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -39,52 +39,52 @@ faqs:
       历史 and 学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 torvalds-darkroom-focus 的内容基于 <strong>리누스 토발즈 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong> 撰写。
+      关于 torvalds-darkroom-focus 的内容基于 <strong>林纳斯·托瓦兹的历史传记与自传文献考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
     </p>
   </div>
 </div>
 
 ---
 
-## 시각 자극을 통제하여 주의력을 비축하는 '인지적 여과'
+## 通过控制视觉刺激以储备注意力“认知过滤”
 
-우리의 시각 피질은 눈에 보이는 모든 물체(책상의 인형, 화려한 액자, 지나가는 사람의 움직임 등)의 깊이, 색상, 형태 정보를 무의식적으로 끊임없이 연산합니다. 대뇌 피질 전체 에너지의 약 30%가 시각 정보 처리에 사용될 정도로 시각은 뇌에 가장 큰 인지 부하를 주는 감각입니다. 
+我们的视觉皮层会在无意识中不断计算视野中每一个物体（桌上的玩偶、华丽的相框、走过的人影等）的深度、颜色和形状信息。视觉是对大脑造成最大认知负荷的感官，大约耗费大脑皮层总能量的 30%。
 
-리누스 토발즈의 암실 집중 루틴은 시각 자극을 원천 차단하여 뇌의 인지 리소스를 고도의 논리적 문제 해결에 집중시키는 <strong>'인지적 여과(Cognitive Filtration)'</strong>의 극대화였습니다. 주변이 어둡고 작업에 무관한 화려한 책이나 물건이 눈앞에서 완전히 사라지면, 뇌는 '무엇을 필터링해야 할지' 고민하는 필터링 에너지조차 차단합니다. 이 과정에서 확보된 전두엽의 여유 인지 에너지는 복잡한 소프트웨어의 추상적인 데이터 구조와 코딩 논리를 깊게 추적하는 연산 용량으로 고스란히 치환되어, 압도적인 집중 속도와 완성도를 확보하게 돕습니다.
+林纳斯·托瓦兹的暗室专注日常是将<strong>“认知过滤（Cognitive Filtration）”</strong>发挥到极致的表现，通过从源头上阻断视觉刺激，将大脑的认知资源集中于高度复杂的逻辑问题解决上。当周围变得暗淡，与工作无关的华丽书籍或物品从眼前彻底消失时，大脑甚至无需消耗用于过滤干扰的能量。额叶由此节省出的认知能量被直接转化为追踪复杂软件抽象数据结构和编程逻辑的计算容量，从而获得令人震撼的专注速度与完备度。
 
 ---
 
-## 어둠 속에서 코더의 논리가 선명해집니다
+## 黑暗之中，程序员的逻辑愈发清晰
 
-리누스 토발즈에게 세탁실 암실은 외부의 유혹과 사소한 자극을 원천 차단하는 인지적 요새였습니다. 집안이 산만하고 작업에 깊게 침투하지 못해 주의력이 낭비된다면, 뇌의 집중력을 탓하기 전에 당신의 책상 주변을 아무런 시각 데코가 없는 무미건조한 상태로 만들고 주변 조명을 어둡게 조절해 보십시오. 놀라운 침잠을 경험하게 될 것입니다.
+对林纳斯·托瓦兹而言，洗衣房里的暗室是阻绝外界诱惑与微小刺激的“认知堡垒”。如果你觉得家中杂乱、无法深度沉浸于工作而浪费了注意力，在归咎于自身注意力不集中之前，不妨试着清除书桌周围所有的视觉装饰，并将周围的灯光调暗。你将体验到令人惊叹的沉浸感。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">步骤 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">책상 주변의 시각적 데코 완벽 제거</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">彻底清除书桌周围的视觉装饰</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    컴퓨터 책상 위와 눈앞의 시야 영역에서 화려한 액자, 장난감 피규어, 책꽂이에 꽂힌 책 표지, 스마트폰 등을 완벽히 치웁니다. 오직 모니터와 마우스, 키보드만을 배치합니다.
+    将电脑桌面上及视野范围内所有华丽的相框、玩具手办、书架上的书封面以及智能手机等彻底清理干净。只摆放显示器、鼠标和键盘。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">步骤 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">주변 조도 제어 및 암실 환경 구축</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">控制环境光线并构建暗室环境</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    작업실의 암막 커튼을 치거나 방의 메인 전등을 소등하여 주변 조도를 극도로 낮춥니다. 오직 모니터 화면의 빛만 눈에 보이도록 조절하거나, 시각 안정 피로를 예방할 부드러운 간접 조명 하나만 책상 아래나 뒤에 켭니다.
+    拉上工作间的光帘或关掉房间的大灯，将周围的亮度降至极低。调节至只有显示器屏幕的光线可见，或者在桌下/桌后开启一盏柔和的间接照明灯，以防止视觉疲劳。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">步骤 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">디지털 단일 인터페이스 몰입</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">沉浸于单一数字界面</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    화면에 여러 윈도우 창을 복잡하게 띄우지 않고, 작성 중인 코드 편집기나 문서 작성기 창 하나만을 전체 화면으로 실행합니다. 눈앞에 오직 단 하나의 핵심 텍스트 자극만 놓아 주의 조각을 방지합니다.
+    不在屏幕上重叠打开多个窗口，只将正在编写的代码编辑器或文档编辑器窗口全屏运行。眼前只保留这唯一的核心文本刺激，防止注意力碎片化。
   </p>
 </div>
 
@@ -95,21 +95,21 @@ faqs:
   
   <details class="group cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>어두운 곳에서 모니터만 보면 눈 시력이 나빠지지 않나요?</span>
+      <span>在黑暗的地方只看显示器会不会损害视力？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      완전한 암흑 속에서 과도하게 밝은 대비율은 눈의 피로를 유발합니다. 따라서 모니터의 조도(밝기)를 주변 환경에 맞춰 낮추거나, 모니터 화면 뒷면 벽에 부드러운 백라이트(간접 LED 등)를 설치하면 시각 신경의 피로를 예방하면서도 높은 몰입도를 확보할 수 있습니다.
+      在完全黑暗的环境中，过高的对比度会导致眼部疲劳。因此，根据周围环境调低显示器的亮度，或者在显示器背面的墙上安装柔和的背光（如间接LED灯），即可在预防视神经疲劳的同时保持高度沉浸。
     </p>
   </details>
   <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>집에 세탁실이나 격리된 방이 없을 때는 어떻게 해야 하나요?</span>
+      <span>如果家里没有洗衣房或单独隔离的房间该怎么办？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      반드시 특수한 격리 공간일 필요는 없습니다. 일반 방의 문을 닫아 벽을 등지고 앉아 시야 반경을 고요하게 고정하거나, 물리적인 칸막이를 설치하여 책상 앞 1.5m 이내에 모니터 외의 다른 시각적 인지 자극물이 들어오지 않도록 차단막을 형성하는 것만으로도 충분합니다.
+      不必非要是特殊的隔离空间。只需关上普通房间的门，背对墙壁坐着以固定安静的视野，或者安装物理隔板，使书桌前1.5米范围内除了显示器之外没有其他视觉认知刺激物即可。
     </p>
   </details>
 </div>

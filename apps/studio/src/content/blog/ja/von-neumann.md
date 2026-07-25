@@ -1,6 +1,6 @@
 ---
-title: "시끄러운 기차 대합실 벤치에서도 몰입을 유지한 폰 노이만의 소음 면역 훈련"
-description: "컴퓨터 아키텍처와 게임 이론을 설계한 천재 수학자로, 수면 도중 뇌가 수행한 정보 연합 아이디어를 포착하기 위해 침대 근처 메모 루틴을 고수했습니다."
+title: "騒がしい駅の待合室のベンチでも没頭を維持したフォン・ノイマンの騒音免疫訓練"
+description: "コンピュータアーキテクチャやゲーム理論を設計した天才数学者。睡眠中に脳が行った情報統合アイデアを捕らえるため、ベッド近辺のメモルーティンも堅持しました。"
 pubDate: "2026-06-28"
 updatedDate: "2026-06-28"
 category: "BuildSelf"
@@ -8,25 +8,27 @@ tags: ["위인 습관", "존 폰 노이만", "학습", "아이디어"]
 heroImage: "/images/blog/von_neumann.webp"
 app: "buildself"
 formatVersion: 4
-authority: "Von Neumann 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+authority: "ジョン・フォン・ノイマンの歴史的評伝・自伝記録の考証および認知神経科学（Cognitive Neuroscience）の研究"
 steps:
-  - name: "1단계: 환경 설정 및 도구 세팅"
-    text: "매일 집중 훈련을 수행할 때 조용한 도서관 대신, 적절한 생활 소음이 있는 카페 창가나 환기 소음이 들리는 공간을 선별하여 앉습니다. 주변 주의 소음에 노출됩니다."
-  - name: "2단계: 온전한 감각 투사와 실천"
-    text: "주변 소음을 억제하기 위해 노이즈 캔슬링 이어폰을 끼는 대신, 주변 소리들을 하나의 흘러가는 바람 소리처럼 흘려보내며 오직 내 업무 모니터의 텍스트 한 줄에만 2분간 고도의 집중력을 좁힙니다."
-  - name: "3단계: 객관적 응시 및 메타 정리"
-    text: "소음 자극이 내 인지 필터를 뚫지 못하도록 머릿속에 투명한 방어막을 씌우듯 의식의 경계를 단단히 제어하고 문장 읽기에 집중합니다."
+  - name: "ステップ1：環境設定とツールセッティング"
+    text: "毎日の集中訓練を行う際、静かな図書館の代わりに適度な生活音のあるカフェの窓際や換気音の聞こえる空間を選んで座ります。周辺の生活騒音に適度に露出します。"
+  - name: "ステップ2：完全な感覚投射と実践"
+    text: "周囲の騒音を抑えるためにノイズキャンセリングイヤホンを装着する代わりに、周囲の音を1つの流れる風の音のように受け流し、自分の業務モニターのテキスト1行だけに2分間高度な集中力を絞り込みます。"
+  - name: "ステップ3：客観的注視とメタ整理"
+    text: "騒音刺激が自分の認知フィルターを突き破らないよう、頭の中に透明な防護壁を張るように意識の境界をしっかり制御し、文章の読解に集中します。"
 faqs:
-  - question: "매일 어려운 과제 돌입 전 이 음악 몰입 루틴을 수행해야 하나요?"
-    answer: "네, 소음이 섞인 활기찬 리듬을 통해 극도의 인지 주의 폭을 좁히고 복잡한 연산 집중에 진입했습니다."
-  - question: "소음 축음기나 전용 기기가 없으면 어떻게 대체하나요?"
-    answer: "이어폰으로 빠른 템포의 백색 소음, 기계음 앰비언트 사운드, 혹은 경쾌한 비트의 음악을 틀어놓고 몰입을 시작하는 것으로 대체 가능합니다."
+  - question: "毎日難しい課題に取り組む前に、この没頭ルーティンを実行すべきですか？"
+    answer: "はい、一定レベルの適切なホワイトノイズや音楽環境を活用すると、認知的な注意の幅を狭め、複雑な演算集中に素早く進入することができます。"
+  - question: "専用の騒音発生装置や機器がない場合はどう代替すればよいですか？"
+    answer: "イヤホンでアップテンポのホワイトノイズ、機械音のアンビエントサウンド、あるいは軽快なビートの音楽を再生して没頭を開始することで十分に代替可能です。"
 
 ---
 
-인류 역사상 가장 지능이 높았던 인물이자 수학, 컴퓨터 공학, 경제학, 양자 역학 등 모든 분야에서 현대 인류 학문의 기초(게임 이론, 노이만 아키텍처)를 혼자서 설계해 낸 헝가리 출신의 천재 수학자 존 폰 노이만. 그는 시끄러운 음악이 흘러나오는 파티장 구석, 기차가 흔들리고 증기를 뿜는 시끄러운 대합실 벤치에 앉아서도 복잡한 수학 공식과 컴퓨터 아키텍처 수식을 막힘없이 유도해 냈습니다. 그는 주위가 아무리 소란스러워도 오직 머릿속에 구축된 가상 칠판 위에만 인지 자원을 고립시켰습니다. 이러한 백색소음 속 고립 몰입 루틴은 그를 역사상 최고의 천재 수학자로 만든 힘이었습니다.
+20世紀最高の天才数学者であり、ハンガリー出身の多才な科学者ジョン・フォン・ノイマン（John von Neumann, 1903〜1957）。彼は現代のコンピュータの基本構造である「フォン・ノイマン・アーキテクチャ」を確立し、経済学や社会科学を変えた「ゲーム理論」を創始し、量子力学の数学的基礎やマンハッタン計画に決定的に貢献した人類史上最も知能が高い人物の一人です。
 
-오늘 포스트에서는 그가 고수한 '파티장 구석이나 시끄러운 대합실 벤치에서 수학 유도하기' 습관의 인지과학적 과학 원리와 현대인들이 일상에서 가볍게 실천할 수 있는 3단계 가이드를 소개합니다.
+彼は賑やかな音楽が流れるパーティー会場の隅や、列車が揺れ蒸気を噴き上げる騒がしい待合室のベンチに座っていても、複雑な数学公式やコンピュータアーキテクチャの数式を滞りなく導き出しました。周囲がいかに騒々しくても、頭の中に構築された仮想の黒板だけに認知リソースを孤立させる彼の能力は、斬新なひらめきと没頭を生み出す原動力でした。
+
+本日の記事では、彼が堅持した「騒音環境での数学誘導」習慣の認知科学的原理と、現代人が日常生活で軽やかに実践できる3段階のガイドを紹介します。
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -35,50 +37,50 @@ faqs:
       歴史的・学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「von-neumann」は <strong>Von Neumann 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong> に基づいて作成されました。
+      「von-neumann」は <strong>ジョン・フォン・ノイマンの歴史的評伝・自伝記録の考証および認知神経科学（Cognitive Neuroscience）の研究</strong> に基づいて作成されました。
     </p>
   </div>
 </div>
 
 ---
 
-## 성공을 자아내는 뇌과학적 원리 분석
+## 騒音の中での没頭を可能にする「聴覚ゲーティング」と注意統制
 
-일정 수준의 제어 가능한 소음 자극 하에서 인위적으로 몰입의 끈을 유지하려는 행위는 뇌의 상위 인지 기능인 '청각 및 감각 게이팅(Sensory Gating)' 메커니즘을 극대화합니다. 외부 자극을 뇌가 스스로 백색소음으로 필터링하고 전두엽의 중앙 집행 네트워크(Central Executive Network)를 장악하는 과정은 뇌의 주의 통제 유연성을 향상시켜, 어떠한 돌발 환경에서도 즉시 몰입을 획득하는 면역력을 단련합니다.
+一定レベルの制御可能な騒音刺激の下で人工的に没頭を維持しようとする行為は、脳の上位認知機能である<strong>「聴覚・感覚ゲーティング（Sensory Gating）」</strong>メカニズムを極大化します。外部刺激を脳が自らホワイトノイズとしてフィルタリングし、前頭葉の中央実行ネットワーク（Central Executive Network）を掌握するプロセスは、脳の注意統制の柔軟性を向上させ、いかなる突発的環境でも即座に没頭を獲得する免疫力を鍛えます。
 
 ---
 
-## 성공적인 안착을 위한 행동과학 조언
+## 成功的な定着のための行動科学的アドバイス
 
-공사장 소음이나 귀를 찢는 극단적 데시벨의 환경은 뇌 건강에 해로우므로 피하세요. 일상의 가벼운 백색소음이나 클래식 음악의 흐름을 뇌 필터로 걸러내는 것이 핵심입니다. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다.
+工事現場の騒音や耳を刺す極端なデシベルの環境は脳の健康に有害なため避けてください。日常の軽やかなホワイトノイズやクラシック音楽の流れを脳フィルターでろ過することが重要です。意志の力だけに頼るのではなく、行動が自然と誘発される物理的環境と習慣のシグナルをあらかじめ設計することが継続の鍵です。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">ステップ 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">1단계: 환경 설정 및 도구 세팅</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">ステップ1：環境設定とツールセッティング</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    매일 집중 훈련을 수행할 때 조용한 도서관 대신, 적절한 생활 소음이 있는 카페 창가나 환기 소음이 들리는 공간을 선별하여 앉습니다. 주변 주의 소음에 노출됩니다.
+    毎日の集中訓練を行う際、静かな図書館の代わりに適度な生活音のあるカフェの窓際や換気音の聞こえる空間を選んで座ります。周辺の生活騒音に適度に露出します。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">ステップ 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">2단계: 온전한 감각 투사와 실천</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">ステップ2：完全な感覚投射と実践</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    주변 소음을 억제하기 위해 노이즈 캔슬링 이어폰을 끼는 대신, 주변 소리들을 하나의 흘러가는 바람 소리처럼 흘려보내며 오직 내 업무 모니터의 텍스트 한 줄에만 2분간 고도의 집중력을 좁힙니다.
+    周囲の騒音を抑えるためにノイズキャンセリングイヤホンを装着する代わりに、周囲の音を1つの流れる風の音のように受け流し、自分の業務モニターのテキスト1行だけに2分間高度な集中力を絞り込みます。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">ステップ 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">3단계: 객관적 응시 및 메타 정리</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">ステップ3：客観的注視とメタ整理</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    소음 자극이 내 인지 필터를 뚫지 못하도록 머릿속에 투명한 방어막을 씌우듯 의식의 경계를 단단히 제어하고 문장 읽기에 집중합니다.
+    騒音刺激が自分の認知フィルターを突き破らないよう、頭の中に透明な防護壁を張るように意識の境界をしっかり制御し、文章の読解に集中します。
   </p>
 </div>
 
@@ -89,21 +91,21 @@ faqs:
   
   <details class="group cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>매일 어려운 과제 돌입 전 이 음악 몰입 루틴을 수행해야 하나요?</span>
+      <span>毎日難しい課題に取り組む前に、この没頭ルーティンを実行すべきですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      네, 소음이 섞인 활기찬 리듬을 통해 극도의 인지 주의 폭을 좁히고 복잡한 연산 집중에 진입했습니다.
+      はい、一定レベルの適切なホワイトノイズや音楽環境を活用すると、認知的な注意の幅を狭め、複雑な演算集中に素早く進入することができます。
     </p>
   </details>
   <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>소음 축음기나 전용 기기가 없으면 어떻게 대체하나요?</span>
+      <span>専用の騒音発生装置や機器がない場合はどう代替すればよいですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      이어폰으로 빠른 템포의 백색 소음, 기계음 앰비언트 사운드, 혹은 경쾌한 비트의 음악을 틀어놓고 몰입을 시작하는 것으로 대체 가능합니다.
+      イヤホンでアップテンポのホワイトノイズ、機械音のアンビエントサウンド、あるいは軽快なビートの音楽を再生して没頭を開始することで十分に代替可能です。
     </p>
   </details>
 </div>

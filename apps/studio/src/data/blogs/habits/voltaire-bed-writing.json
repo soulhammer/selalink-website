@@ -1,70 +1,214 @@
 {
   "voltaire-bed-writing": {
     "title": {
-      "ko": "침대에서 나오지 마세요: 계몽주의 거장 볼테르의 아침 뇌 리셋법"
+      "ko": "침대에서 나오지 마세요: 계몽주의 거장 볼테르의 아침 뇌 리셋법",
+      "en": "Don't Get Out of Bed: Enlightenment Master Voltaire's Morning Brain Reset Method",
+      "ja": "ベッドから出ないでください：啓蒙思想の巨匠ヴォルテールのア朝脳リセット法",
+      "zh": "不要起床：启蒙运动大师伏尔泰的晨间大脑重置法",
+      "es": "No te levantes de la cama: El método de reinicio cerebral matutino de Voltaire, el maestro de la Ilustración",
+      "de": "Bleiben Sie im Bett: Die morgendliche Gehirn-Reset-Methode des Aufklärungsmeisters Voltaire",
+      "fr": "Ne sortez pas du lit : La méthode de réinitialisation cérébrale matinale de Voltaire, maître des Lumières",
+      "pt": "Não saia da cama: O método de reinicialização cerebral matinal de Voltaire, o mestre do Iluminismo",
+      "id": "Jangan Bangun dari Tempat Tidur: Metode Reset Otak Pagi Hari ala Voltaire, Master Pencerahan"
     },
     "description": {
-      "ko": "프랑스의 대문호 볼테르가 평생 실천했던 침대 위 아침 집필 습관을 알아봅니다. 수면 직후 뇌가 가장 창의적인 hypnopompic 상태를 활용한 현대적 3단계 가이드를 확인하세요."
+      "ko": "프랑스의 대문호 볼테르가 평생 실천했던 침대 위 아침 집필 습관을 알아봅니다. 수면 직후 뇌가 가장 창의적인 hypnopompic 상태를 활용한 현대적 3단계 가이드를 확인하세요.",
+      "en": "Discover the morning bed-writing habit practiced lifelong by the great French writer Voltaire. Check out this modern 3-step guide utilizing the hypnopompic state, when the brain is most creative right after waking.",
+      "ja": "フランスの大文豪ヴォルテールが生涯実践したベッドの上の朝の執筆習慣を紹介します。睡眠直後の脳が最も創造的なhypnopompic（半覚醒）状態を活用した現代的な3ステップガイドをご確認ください。",
+      "zh": "探索法国伟人伏尔泰终身坚持的床边晨间写作习惯。查看这个现代化的三步指南，利用醒来后大脑最具创造性的半觉醒（hypnopompic）状态。",
+      "es": "Descubra el hábito matutino de escribir en la cama que practicó toda su vida el gran escritor francés Voltaire. Consulte esta guía moderna de 3 pasos que aprovecha el estado hipnopómpico, cuando el cerebro es más creativo justo después de despertar.",
+      "de": "Entdecken Sie die morgendliche Schreibgewohnheit im Bett, die der große französische Schriftsteller Voltaire ein Leben lang praktizierte. Nutzen Sie diesen modernen 3-Schritte-Leitfaden, der den hypnopompischen Zustand nutzt, in dem das Gehirn direkt nach dem Aufwachen am kreativsten ist.",
+      "fr": "Découvrez l'habitude matinale d'écriture au lit pratiquée toute sa vie par le grand écrivain français Voltaire. Consultez ce guide moderne en 3 étapes utilisant l'état hypnopompique, moment où le cerveau est le plus créatif juste après le réveil.",
+      "pt": "Descubra o hábito matinal de escrever na cama praticado durante toda a vida pelo grande escritor francês Voltaire. Confira este guia moderno de 3 etapas utilizando o estado hipnopompico, quando o cérebro está mais criativo logo após acordar.",
+      "id": "Temukan kebiasaan menulis di tempat tidur pada pagi hari yang dipraktikkan seumur hidup oleh penulis besar Prancis, Voltaire. Simak panduan modern 3 langkah yang memanfaatkan kondisi hipnopompik, saat otak paling kreatif tepat setelah bangun tidur."
     },
     "authority": {
-      "ko": "Voltaire Bed Writing 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+      "ko": "Voltaire Bed Writing 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+      "en": "Voltaire Bed Writing historical biographies & autobiographical records validation & Cognitive Neuroscience research",
+      "ja": "Voltaire Bed Writing 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+      "zh": "伏尔泰床头写作（Voltaire Bed Writing）历史传记及自传记载考证与认知神经科学（Cognitive Neuroscience）研究",
+      "es": "Investigación histórica de biografías y registros autobiográficos de Voltaire Bed Writing y estudios de Neurociencia Cognitiva",
+      "de": "Historische Biografien und autobiografische Aufzeichnungen zu Voltaire Bed Writing & Kognitive Neurowissenschaften Forschung",
+      "fr": "Recherche historique sur les biographies et récits autobiographiques de Voltaire Bed Writing & études en neurosciences cognitives",
+      "pt": "Pesquisa histórica de biografias e registros autobiográficos de Voltaire Bed Writing e estudos de Neurociência Cognitiva",
+      "id": "Riset sejarah biografi & catatan autobiografi Voltaire Bed Writing serta penelitian Ilmu Saraf Kognitif (Cognitive Neuroscience)"
     },
     "intro": {
-      "ko": "\"일하지 않는 인생은 짐과 같다. 오직 일만이 우리의 존재를 가치 있게 만든다.\" ✍️\n\n18세기 유럽 계몽주의 운동의 상징이자 수많은 소설, 비극, 역사 서적을 남긴 위대한 사상가 볼테르. 그의 날카로운 비판 의식과 찬란한 인문학적 아이디어는 매일 아침 어디서 시작되었을까요?\n\n놀랍게도 볼테르는 아침에 잠에서 깬 뒤 몇 시간 동안 침대에서 한 걸음도 나오지 않고 누운 채로 책을 읽거나 글을 썼습니다. 그는 이 비몽사몽한 아침 시간 동안 뇌의 인지적 유연성이 극대화되며, 평소에는 떠오르지 않던 예리한 풍자와 번뜩이는 은유적 표현들이 자연스럽게 흘러나온다는 것을 잘 알고 있었습니다. 볼테르는 그의 침실에 여러 명의 비서를 두고, 침대에 비스듬히 기댄 채로 떠오르는 생각들을 구술하거나 수십 통의 편지를 받아쓰게 했습니다. 그의 서신 중 상당수가 바로 이 침대 위 아침 루틴에서 탄생했습니다.\n\n오늘 포스트에서는 볼테르가 평생 실천했던 침대 위 아침 루틴의 과학적 작동 원리와 현대인들이 창의성 향상을 위해 이를 어떻게 응용할 수 있는지 알아봅니다."
+      "ko": "\"일하지 않는 인생은 짐과 같다. 오직 일만이 우리의 존재를 가치 있게 만든다.\" ✍️\n\n18세기 유럽 계몽주의 운동의 상징이자 수많은 소설, 비극, 역사 서적을 남긴 위대한 사상가 볼테르. 그의 날카로운 비판 의식과 찬란한 인문학적 아이디어는 매일 아침 어디서 시작되었을까요?\n\n놀랍게도 볼테르는 아침에 잠에서 깬 뒤 몇 시간 동안 침대에서 한 걸음도 나오지 않고 누운 채로 책을 읽거나 글을 썼습니다. 그는 이 비몽사몽한 아침 시간 동안 뇌의 인지적 유연성이 극대화되며, 평소에는 떠오르지 않던 예리한 풍자와 번뜩이는 은유적 표현들이 자연스럽게 흘러나온다는 것을 잘 알고 있었습니다. 볼테르는 그의 침실에 여러 명의 비서를 두고, 침대에 비스듬히 기댄 채로 떠오르는 생각들을 구술하거나 수십 통의 편지를 받아쓰게 했습니다. 그의 서신 중 상당수가 바로 이 침대 위 아침 루틴에서 탄생했습니다.\n\n오늘 포스트에서는 볼테르가 평생 실천했던 침대 위 아침 루틴의 과학적 작동 원리와 현대인들이 창의성 향상을 위해 이를 어떻게 응용할 수 있는지 알아봅니다.",
+      "en": "\"A life without work is a burden. Work alone makes our existence valuable.\" ✍️\n\nVoltaire, the iconic thinker of the 18th-century European Enlightenment who authored numerous novels, tragedies, and historical texts. Where did his sharp critical mind and brilliant humanistic ideas begin every morning?\n\nSurprisingly, after waking up in the morning, Voltaire spent several hours lying in bed reading or writing without taking a single step out. He knew well that during this half-awake morning state, cognitive flexibility is maximized, allowing sharp satire and brilliant metaphorical expressions to flow naturally.\n\nVoltaire kept multiple secretaries in his bedroom, dictating emerging thoughts or having them take down dozens of letters while reclining in bed. Many of his famous correspondences were born right from this morning bed routine.\n\nIn today's post, we explore the scientific principles behind Voltaire's lifelong morning bed routine and how modern people can apply it to boost creativity.",
+      "ja": "「働かない人生は重荷である。仕事だけが私たちの an 存在を価値あるものにする。」✍️\n\n18世紀のヨーロッパ啓蒙主義運動の象徴であり、数多くの小説、悲劇、歴史書を残した偉大な思想家ヴォルテール。彼の鋭い批判意識と燦然たる人文学的アイデアは、毎朝どこから始まっていたのでしょうか？\n\n驚くべきことに、ヴォルテールは朝目を覚ました後、数時間ベッドから一歩も出ずに横になったまま本を読んだり執筆をしたりしました。彼はこの半夢半醒の朝の時間に脳の認知の柔軟性が極大化し、普段は思い浮かばない鋭い風刺や閃く比喩的表現が naturally に溢れ出ることをよく知っていました。ヴォルテールは寝室に数人の秘書を置き、ベッドに斜めに寄りかかりながら浮かぶ考えを口述したり、数十通の手紙を代筆させたりしました。彼の書簡의 많은 부분이 바로 이 침대 위 아침 루틴에서 탄생했습니다.\n\n今日のポストでは、ヴォルテールが生涯実践したベッドの上の朝のルーティンの科学的作動原理と、現代人が創造性向上のためにこれをどのように応用できるかを探ります。",
+      "zh": "“不曾工作的生命是种负担。唯有工作才能让我们的存在变得有价值。” ✍️\n\n伏尔泰是18世纪欧洲启蒙运动的象征，留下了无数小说、悲剧和历史巨著的伟大思想家。他敏锐的批判意识和耀眼的人文思想每天早晨是从哪里开始的呢？\n\n令人惊讶的是，伏尔泰早晨醒来后，会在床上躺上几个小时一动不动，阅读或写作。他非常清楚，在这段半梦半醒的早晨时光里，大脑的认知灵活性达到了最大化，平时难以浮现的尖锐讽刺和闪光的比喻表达会自然地涌现出来。伏尔泰在卧室里安排了几位秘书，自己斜靠在床上口述浮现的想法，或者让他们听写数十封信件。他的许多著名信件正是诞生于这一床头晨间习惯。\n\n在今天的文章中，我们将探讨伏尔泰终身坚持的床头晨间习惯背后的科学原理，以及现代人如何应用它来提升创造力。",
+      "es": "\"Una vida sin trabajo es una carga. Solo el trabajo hace que nuestra existencia sea valiosa.\" ✍️\n\nVoltaire, el pensador icónico de la Ilustración europea del siglo XVIII que autorizó numerosas novelas, tragedias y textos históricos. ¿Dónde comenzaban cada mañana su aguda mente crítica y sus brillantes ideas humanistas?\n\nSorprendentemente, tras despertarse por la mañana, Voltaire pasaba varias horas tumbado en la cama leyendo o escribiendo sin dar un solo paso fuera de ella. Sabía muy bien que durante este estado matutino de semisueño se maximiza la flexibilidad cognitiva, permitiendo que la sátira aguda y las brillantes expresiones metafóricas fluyan de manera natural. Voltaire mantenía a varios secretarios en su dormitorio, dictando pensamientos emergentes o haciéndoles redactar docenas de cartas mientras permanecía reclinado en la cama. Muchas de sus famosas correspondencias nacieron de esta rutina matutina en la cama.\n\nEn la entrada de hoy, exploramos los principios científicos que explican la rutina matutina en la cama que Voltaire practicó durante toda su vida y cómo las personas modernas pueden aplicarla para mejorar su creatividad.",
+      "de": "\"Ein Leben ohne Arbeit ist eine Last. Nur die Arbeit macht unser Dasein wertvoll.\" ✍️\n\nVoltaire, der ikonische Denker der europäischen Aufklärung des 18. Jahrhunderts, der zahlreiche Romane, Tragödien und historische Texte verfasste. Wo begannen jeden Morgen sein scharfer kritischer Geist und seine brillanten humanistischen Ideen?\n\nÜberraschenderweise verbrachte Voltaire nach dem Aufwachen am Morgen mehrere Stunden im Bett liegend, um zu lesen oder zu schreiben, ohne auch nur einen Schritt herauszutreten. Er wusste genau, dass in diesem halb wachen Zustand am Morgen die kognitive Flexibilität maximiert wird, sodass scharfe Satire und brillante metaphorische Ausdrücke natürlich fließen. Voltaire beschäftigte mehrere Sekretäre in seinem Schlafzimmer, denen er beim Zurücklehnen im Bett seine Gedanken diktierte oder dutzende Briefe aufschreiben ließ. Viele seiner berühmten Korrespondenzen entstanden genau aus dieser morgendlichen Bettroutine.\n\nIm heutigen Beitrag untersuchen wir die wissenschaftlichen Prinzipien hinter Voltaires lebenslanger morgendlicher Bettroutine und wie moderne Menschen sie zur Steigerung ihrer Kreativität anwenden können.",
+      "fr": "« Une vie sans travail est un fardeau. Seul le travail rend notre existence précieuse. » ✍️\n\nVoltaire, le penseur emblématique des Lumières du XVIIIe siècle, auteur de nombreux romans, tragédies et ouvrages historiques. Où sa pensée critique aiguisée et ses brillantes idées humanistes naissaient-elles chaque matin ?\n\nÉtonnamment, après s'être réveillé le matin, Voltaire passait plusieurs heures allongé dans son lit à lire ou écrire sans faire un seul pas dehors. Il savait bien que durant cet état matinal de demi-sommeil, la flexibilité cognitive est maximisée, ce qui laisse couler naturellement les satires piquantes et les métaphores étincelantes. Voltaire gardait plusieurs secrétaires dans sa chambre, dictant ses pensées émergentes ou leur faisant rédiger des dizaines de lettres tout en restant couché. Une grande partie de sa célèbre correspondance est née de cette routine matinale au lit.\n\nDans cet article, nous explorons les principes scientifiques de la routine matinale au lit de Voltaire et la manière dont les hommes modernes peuvent l'appliquer pour stimuler leur créativité.",
+      "pt": "\"Uma vida sem trabalho é um fardo. Só o trabalho torna a nossa existência valiosa.\" ✍️\n\nVoltaire, o pensador icônico do Iluminismo europeu do século XVIII, autor de numerosos romances, tragédias e textos históricos. Onde sua mente crítica afiada e suas brilhantes ideias humanistas começavam todas as manhãs?\n\nSurpreendentemente, depois de acordar pela manhã, Voltaire passava várias horas deitado na cama lendo ou escrevendo sem dar um único passo fora dela. Ele sabia muito bem que durante esse estado matinal de semissono a flexibilidade cognitiva é maximizada, permitindo que a sátira afiada e as brilhantes expressões metafóricas fluam naturalmente. Voltaire mantinha vários secretários em seu quarto, ditando pensamentos emergentes ou fazendo-os anotar dezenas de cartas enquanto permanecia reclinado na cama. Muitas de suas famosas correspondências nasceram exatamente desta rotina matinal na cama.\n\nNo post de hoje, exploramos os princípios científicos por trás da rotina matinal na cama praticada por Voltaire ao longo da vida e como as pessoas modernas podem aplicá-la para aumentar a criatividade.",
+      "id": "\"Hidup tanpa bekerja adalah beban. Hanya pekerjanlah yang membuat keberadaan kita bernilai.\" ✍️\n\nVoltaire, pemikir ikonik dari Abad Pencerahan Eropa abad ke-18 yang menulis banyak novel, tragedi, dan teks sejarah. Dari manakah pikiran kritisnya yang tajam dan ide-ide humanisnya yang cemerlang bermula setiap pagi?\n\nSecara mengejutkan, setelah bangun pagi, Voltaire menghabiskan beberapa jam berbaring di tempat tidur sambil membaca atau menulis tanpa melangkah keluar sedikit pun. Dia sangat tahu bahwa selama kondisi setengah terbangun di pagi hari ini, fleksibilitas kognitif dimaksimalkan, memungkinkan sindiran tajam dan ekspresi metaforis yang cemerlang mengalir secara alami. Voltaire memelihara beberapa sekretaris di kamar tidur, mendiktekan pikiran-pikiran yang bermunculan atau meminta mereka mencatat puluhan surat sambil bersandar di tempat tidur. Banyak dari korespondensi terkenalnya lahir dari rutinitas pagi di tempat tidur ini.\n\nDalam artikel hari ini, kita menjelajahi prinsip-prinsip ilmiah di balik rutinitas pagi di tempat tidur Voltaire dan bagaimana manusia modern dapat menerapkannya untuk meningkatkan kreativitas."
     },
     "whyTitle": {
-      "ko": "창의성이 극대화되는 '수면 관성'의 인지 과학"
+      "ko": "창의성이 극대화되는 '수면 관성'의 인지 과학",
+      "en": "Cognitive Science of 'Sleep Inertia' Where Creativity is Maximized",
+      "ja": "創造性が極大化する「睡眠慣性」の認知科学",
+      "zh": "创造力最大化的“睡眠惯性”认知科学",
+      "es": "Ciencia cognitiva de la 'Inercia del Sueño' donde se maximiza la creatividad",
+      "de": "Kognitionswissenschaft der 'Schlafträgheit', bei der die Kreativität maximiert wird",
+      "fr": "La science cognitive de l'« inertie du sommeil » où la créativité est maximisée",
+      "pt": "Ciência cognitiva da 'Inércia do Sono' onde a criatividade é maximizada",
+      "id": "Sains Kognitif 'Inersia Tidur' di Mana Kreativitas Dimaksimalkan"
     },
     "whyDesc": {
-      "ko": "잠에서 깨어난 직후 뇌가 완전히 각성하지 못한 상태를 인지과학에서는 <strong>'수면 관성(Sleep Inertia)'</strong> 또는 <strong>'하입노폼픽(Hypnopompic, 방각성)'</strong> 상태라고 부릅니다. 이 시기에는 이성적 판단과 억제를 당당하는 전두엽(Prefrontal Cortex)의 검열 작용이 약해집니다. 반면, 이완 상태의 뇌파인 알파(α)파와 가벼운 꿈 상태의 타(θ)파가 뇌를 주도합니다. 이 때문에 생각의 검열 장벽이 낮아져 비선형적이고 독창적인 연상이 가능해집니다. 볼테르가 침대 위에서 번뜩이는 풍자와 아이디어를 쏟아낼 수 있었던 것은 의식의 논리가 작동하기 전, 잠재의식이 활성화된 뇌의 틈새 상태를 완벽하게 활용했기 때문입니다."
+      "ko": "잠에서 깨어난 직후 뇌가 완전히 각성하지 못한 상태를 인지과학에서는 <strong>'수면 관성(Sleep Inertia)'</strong> 또는 <strong>'하입노폼픽(Hypnopompic, 반각성)'</strong> 상태라고 부릅니다. 이 시기에는 이성적 판단과 억제를 담당하는 전두엽(Prefrontal Cortex)의 검열 작용이 약해집니다. 반면, 이완 상태의 뇌파인 알파(α)파와 가벼운 꿈 상태의 세타(θ)파가 뇌를 주도합니다. 이 때문에 생각의 검열 장벽이 낮아져 비선형적이고 독창적인 연상이 가능해집니다. 볼테르가 침대 위에서 번뜩이는 풍자와 아이디어를 쏟아낼 수 있었던 것은 의식의 논리가 작동하기 전, 잠재의식이 활성화된 뇌의 틈새 상태를 완벽하게 활용했기 때문입니다.",
+      "en": "The state immediately after waking when the brain is not fully alert is referred to in cognitive science as <strong>'Sleep Inertia'</strong> or the <strong>'Hypnopompic'</strong> state. During this period, the censoring action of the Prefrontal Cortex, which is responsible for rational judgment and inhibition, weakens. Conversely, relaxed alpha (α) waves and theta (θ) waves associated with light dreaming dominate the brain. As a result, the censorship barrier of thought is lowered, enabling non-linear and original associations. Voltaire was able to pour out brilliant satire and ideas from bed because he fully utilized this threshold state of the brain where the subconscious is active before conscious logic kicks in.",
+      "ja": "目が覚めた直後、脳が完全に覚醒していない状態を認知科学では<strong>「睡眠慣性（Sleep Inertia）」</strong>または<strong>「ヒプノポンピック（Hypnopompic、半覚醒）」</strong>状態と呼びます。この時期には合理的判断と抑制を担当する前頭前野（Prefrontal Cortex）の検閲作用が弱まります。一方、リラックス状態の脳波であるアルファ（α）波や軽い夢の状態のシータ（θ）波が脳を主導します。このため思考の検閲の壁が低くなり、非線形で独創的な連想が可能になります。ヴォルテールがベッドの上で閃く風刺やアイデアを溢れ出させることができたのは、意識の論理が作動する前、潜在意識が活性化した脳の隙間状態を完璧に活用したからです。",
+      "zh": "认知科学将刚醒来时大脑尚未完全清醒的状态称为<strong>“睡眠惯性（Sleep Inertia）”</strong>或<strong>“半觉醒（Hypnopompic）”</strong>状态。在此期间，负责理性判断和抑制的前额叶皮层（Prefrontal Cortex）的审查作用会减弱。相反，代表放松状态的α波和代表轻度做梦状态的θ波主导着大脑。因此，思考的审查屏障降低，使得非线性、独创性的联想成为可能。伏尔泰之所以能在床上倾泻出闪光的讽刺和创意，正是因为他在意识逻辑运转之前，完美地利用了下意识活跃的大脑缝隙状态。",
+      "es": "El estado inmediatamente posterior al despertar, cuando el cerebro no está completamente alerta, se denomina en ciencia cognitiva <strong>'Inercia del Sueño (Sleep Inertia)'</strong> o estado <strong>'Hipnopómpico (Hypnopompic)'</strong>. Durante este período, la acción censora del Córtex Prefrontal, responsable del juicio racional y la inhibición, se debilita. En cambio, las ondas alfa (α) relajadas y las ondas theta (θ) asociadas con sueños ligeros dominan el cerebro. Como resultado, la barrera de censura del pensamiento disminuye, permitiendo asociaciones no lineales y originales. Voltaire pudo verter sátiras e ideas brillantes desde la cama porque aprovechó plenamente este estado limítrofe del cerebro donde el subconsciente está activo antes de que entre en juego la lógica consciente.",
+      "de": "Der Zustand unmittelbar nach dem Aufwachen, in dem das Gehirn noch nicht vollständig wach ist, wird in der Kognitionswissenschaft als <strong>'Schlafträgheit (Sleep Inertia)'</strong> oder <strong>'hypnopompischer Zustand (Hypnopompic)'</strong> bezeichnet. In dieser Phase schwächt sich die Zensurfunktion des präfrontalen Kortex (Prefrontal Cortex) ab, der für rationales Urteilen und Hemmung zuständig ist. Stattdessen dominieren entspannte Alpha-(α)-Wellen und Theta-(θ)-Wellen, die mit leichtem Träumen verbunden sind, das Gehirn. Dadurch wird die Zensurbarriere des Denkens gesenkt, was nicht-lineare und originelle Assoziationen ermöglicht. Voltaire konnte vom Bett aus brillante Satiren und Ideen hervorbringen, weil er diesen Schwellenzustand des Gehirns perfekt nutzte, in dem das Unterbewusstsein aktiv ist, bevor die bewusste Logik einsetzt.",
+      "fr": "L'état qui suit immédiatement le réveil, lorsque le cerveau n'est pas encore complètement éveillé, est appelé en science cognitive <strong>« inertie du sommeil (Sleep Inertia) »</strong> ou état <strong>« hypnopompique (Hypnopompic) »</strong>. Durant cette période, la censure du cortex préfrontal (Prefrontal Cortex), responsable du jugement rationnel et de l'inhibition, s'affaiblit. En revanche, les ondes alpha (α) de relaxation et les ondes thêta (θ) de rêve léger dominent le cerveau. Ainsi, la barrière de censure de la pensée s'abaisse, permettant des associations non linéaires et originales. Voltaire a pu exprimer des satires et idées étincelantes depuis son lit parce qu'il a tiré pleinement parti de cet état intermédiaire où le subconscient est actif avant que la logique consciente ne prenne le relais.",
+      "pt": "O estado imediatamente após acordar, quando o cérebro não está totalmente desperto, é chamado na ciência cognitiva de <strong>'Inércia do Sono (Sleep Inertia)'</strong> ou estado <strong>'Hipnopômpico (Hypnopompic)'</strong>. Durante esse período, a ação censora do Córtex Pré-Frontal, responsável pelo julgamento racional e inibição, enfraquece. Por outro lado, ondas alfa (α) relaxadas e ondas teta (θ) associadas ao sono leve dominam o cérebro. Como resultado, a barreira de censura do pensamento diminui, permitindo associações não lineares e originais. Voltaire conseguiu produzir sátiras e ideias brilhantes na cama porque aproveitou plenamente esse estado limítrofe do cérebro onde o subconsciente está ativo antes que a lógica consciente entre em ação.",
+      "id": "Kondisi sesaat setelah bangun tidur ketika otak belum sepenuhnya sadar disebut dalam sains kognitif sebagai <strong>'Inersia Tidur (Sleep Inertia)'</strong> atau kondisi <strong>'Hipnopompik (Hypnopompic)'</strong>. Selama periode ini, tindakan sensor Korteks Prefrontal, yang bertanggung jawab atas penilaian rasional dan inhibisi, melemah. Sebaliknya, gelombang alfa (α) yang santai dan gelombang teta (θ) yang terkait dengan mimpi ringan mendominasi otak. Akibatnya, hambatan sensor pikiran menurun, memungkinkan asosiasi non-linear dan orisinal. Voltaire mampu mengeluarkan sindiran dan ide-ide cemerlang dari tempat tidur karena ia memanfaatkan sepenuhnya kondisi celah otak di mana alam bawah sadar aktif sebelum logika sadar bekerja."
     },
     "cautionTitle": {
-      "ko": "의식적인 침대 위 집필로 나쁜 아침 습관 극복하기"
+      "ko": "의식적인 침대 위 집필로 나쁜 아침 습관 극복하기",
+      "en": "Overcoming Bad Morning Habits with Conscious Bed Writing",
+      "ja": "意識的なベッドの上での執筆で悪い朝の習慣を克服する",
+      "zh": "通过有意识的床头写作克服不良晨间习惯",
+      "es": "Superar los malos hábitos matutinos con la escritura consciente en la cama",
+      "de": "Überwindung schlechter Morgenroutinen durch bewusstes Schreiben im Bett",
+      "fr": "Surmonter les mauvaises habitudes matinales grâce à l'écriture consciente au lit",
+      "pt": "Superando maus hábitos matinais com a escrita consciente na cama",
+      "id": "Mengatasi Kebiasaan Buruk Pagi Hari dengan Menulis Secara Sadar di Tempat Tidur"
     },
     "cautionDesc": {
-      "ko": "침대 위 아침 루틴을 따를 때 가장 경계해야 할 것은 스마트폰으로 무의식적으로 SNS나 뉴스를 확인하는 것입니다. 도파민을 유발하는 디지털 기기의 즉각적인 시각 정보는 뇌를 긴장 상태로 만들어 수면 관성 상태의 소중한 잠재의식적 창의성을 즉각 소거해 버립니다. 침대 옆에는 오직 메모지와 펜만 두고, 완전히 사색에 몰두하는 10분을 사수하십시오."
+      "ko": "침대 위 아침 루틴을 따를 때 가장 경계해야 할 것은 스마트폰으로 무의식적으로 SNS나 뉴스를 확인하는 것입니다. 도파민을 유발하는 디지털 기기의 즉각적인 시각 정보는 뇌를 긴장 상태로 만들어 수면 관성 상태의 소중한 잠재의식적 창의성을 즉각 소거해 버립니다. 침대 옆에는 오직 메모지와 펜만 두고, 완전히 사색에 몰두하는 10분을 사수하십시오.",
+      "en": "The thing to guard against most when following a morning bed routine is unconsciously checking social media or news on your smartphone. The immediate visual information from dopamine-inducing digital devices puts the brain into a tense state, instantly erasing the precious subconscious creativity of sleep inertia. Keep only a notepad and pen beside your bed and protect 10 minutes of complete immersion in contemplation.",
+      "ja": "ベッドの上の朝のルーティンに従う際、最も警戒すべきはスマートフォンで無意識にSNSやニュースを確認することです。ドパミンを誘発するデジタル機器の即時的な視覚情報は脳を緊張状態にし、睡眠慣性状態の貴重な潜在意識的創造性を即座に消去してしまいます。ベッドの横にはメモ帳とペンだけを置き、完全に思索に没頭する10分間を死守してください。",
+      "zh": "遵循床头晨间习惯时最需要警惕的是无意识地用手机刷社交媒体或看新闻。那么多巴胺型数字设备带来的即时视觉信息会让大脑进入紧张状态，瞬间抹去睡眠惯性状态下宝贵的潜意识创造力。床边只放便签纸和笔，死守完全沉浸于冥想思索的10分钟。",
+      "es": "Lo que más hay que vigilar al seguir la rutina matutina en la cama es consultar inconscientemente las redes sociales o las noticias en el teléfono móvil. La información visual inmediata de los dispositivos digitales inductores de dopamina pone al cerebro en estado de tensión, borrando al instante la preciosa creatividad subconsciente del estado de inercia del sueño. Mantenga solo un bloc de notas y un bolígrafo al lado de la cama y proteja 10 minutos de inmersión total en la contemplación.",
+      "de": "Das Wichtigste, worauf Sie bei einer morgendlichen Bettroutine achten müssen, ist das unbewusste Überprüfen von sozialen Medien oder Nachrichten auf Ihrem Smartphone. Die sofortige visuelle Information von dopaminfördernden digitalen Geräten versetzt das Gehirn in einen Anspannungszustand und löscht die kostbare unterbewusste Kreativität der Schlafträgheit sofort aus. Bewahren Sie nur einen Notizblock und einen Stift neben Ihrem Bett auf und schützen Sie 10 Minuten vollständiger Vertiefung in das Nachdenken.",
+      "fr": "La chose à éviter le plus lors d'une routine matinale au lit est de consulter inconsciemment les réseaux sociaux ou les actualités sur son smartphone. L'information visuelle immédiate émise par les appareils numériques inducteurs de dopamine plonge le cerveau dans un état de tension, effaçant instantanément la précieuse créativité subconsciente de l'inertie du sommeil. Ne gardez qu'un bloc-notes et un stylo à côté du lit et préservez 10 minutes d'immersion totale dans la réflexion.",
+      "pt": "O maior cuidado ao seguir a rotina matinal na cama é checar inconscientemente as redes sociais ou notícias no smartphone. A informação visual imediata dos dispositivos digitais indutores de dopamina coloca o cérebro em estado de tensão, apagando instantaneamente a preciosa criatividade subconsciente da inércia do sono. Mantenha apenas um bloco de notas e uma caneta ao lado da cama e proteja 10 minutos de imersão total na contemplação.",
+      "id": "Hal yang paling harus diwaspadai saat menjalankan rutinitas pagi di tempat tidur adalah memeriksa media sosial atau berita secara tidak sadar di smartphone. Informasi visual instan dari perangkat digital pemicu dopamin membuat otak berada dalam kondisi tegang, secara instan menghapus kreativitas bawah sadar yang berharga dari inersia tidur. Jaga agar hanya ada kertas catatan dan pena di samping tempat tidur, dan lindungi 10 menit perenungan penuh."
     },
     "steps": [
       {
         "name": {
-          "ko": "비몽사몽의 상태 유지하기"
+          "ko": "비몽사몽의 상태 유지하기",
+          "en": "Maintain the Half-Awake State",
+          "ja": "夢うつつの状態を維持する",
+          "zh": "保持半梦半醒状态",
+          "es": "Mantener el estado de semisueño",
+          "de": "Den Halbschlafzustand beibehalten",
+          "fr": "Maintenir l'état de demi-sommeil",
+          "pt": "Manter o estado de semissono",
+          "id": "Menjaga Kondisi Setengah Terbangun"
         },
         "text": {
-          "ko": "잠에서 깬 직후, 절대 침대에서 일어나거나 스마트폰을 보지 마세요. 뇌가 완전히 깨어나기 전, 잠재의식이 활발하게 활동하는 비몽사몽한 상태의 흐름을 가만히 느껴봅니다."
+          "ko": "잠에서 깬 직후, 절대 침대에서 일어나거나 스마트폰을 보지 마세요. 뇌가 완전히 깨어나기 전, 잠재의식이 활발하게 활동하는 비몽사몽한 상태의 흐름을 가만히 느껴봅니다.",
+          "en": "Right after waking up, never get out of bed or look at your smartphone. Before the brain fully wakes up, quietly feel the flow of the half-awake state where the subconscious is actively working.",
+          "ja": "目が覚めた直後、絶対にベッドから起き上がったりスマートフォンを見たりしないでください。脳が完全に覚醒する前、潜在意識が活発に活動している夢うつつの状態の流れを静かに感じてみます。",
+          "zh": "刚醒来时，绝不要下床或看手机。在大脑完全清醒之前，静静地感受潜意识活跃工作的半梦半醒状态的流动。",
+          "es": "Justo después de despertar, nunca se levante de la cama ni mire el teléfono móvil. Antes de que el cerebro se despierte por completo, sienta en silencio el flujo del estado de semisueño donde el subconsciente trabaja activamente.",
+          "de": "Stehen Sie direkt nach dem Aufwachen auf keinen Fall aus dem Bett auf und schauen Sie nicht auf Ihr Smartphone. Spüren Sie ruhig den Fluss des Halbschlafzustands, in dem das Unterbewusstsein aktiv arbeitet, bevor das Gehirn vollständig aufwacht.",
+          "fr": "Juste après le réveil, ne vous levez surtout pas du lit et ne regardez pas votre smartphone. Avant que le cerveau ne se réveille complètement, ressentez calmement le flux de cet état de demi-sommeil où le subconscient s'active.",
+          "pt": "Logo após acordar, nunca saia da cama nem olhe para o smartphone. Antes que o cérebro desperte totalmente, sinta silenciosamente o fluxo do estado de semissono onde o subconsciente está trabalhando ativamente.",
+          "id": "Tepat setelah bangun tidur, jangan pernah bangun dari tempat tidur atau melihat smartphone. Sebelum otak benar-benar terbangun, rasakan dengan tenang alur kondisi setengah terbangun di mana alam bawah sadar bekerja secara aktif."
         }
       },
       {
         "name": {
-          "ko": "자유 연상 아이디어 쏟아내기"
+          "ko": "자유 연상 아이디어 쏟아내기",
+          "en": "Pour Out Free-Association Ideas",
+          "ja": "自由連想アイデアを注ぎ出す",
+          "zh": "倾泻自由联想创意",
+          "es": "Verter ideas de asociación libre",
+          "de": "Freie Assoziationsideen niederschreiben",
+          "fr": "Exprimer des idées en association libre",
+          "pt": "Despejar ideias de associação livre",
+          "id": "Mencurahkan Ide Asosiasi Bebas"
         },
         "text": {
-          "ko": "침대 옆에 비치된 종이와 펜을 잡고 머릿속에 떠오르는 생각, 오늘의 과제에 대한 아이디어, 혹은 감정을 가감 없이 날것 그대로 적어 내려갑니다. 맞춤법이나 논리를 따지지 않고 손을 움직입니다."
+          "ko": "침대 옆에 비치된 종이와 펜을 잡고 머릿속에 떠오르는 생각, 오늘의 과제에 대한 아이디어, 혹은 감정을 가감 없이 날것 그대로 적어 내려갑니다. 맞춤법이나 논리를 따지지 않고 손을 움직입니다.",
+          "en": "Grab the paper and pen placed beside your bed and write down raw thoughts, ideas for today's tasks, or emotions popping into your mind without filter. Move your hand without worrying about spelling or logic.",
+          "ja": "ベッドの横に置いた紙とペンを取り、頭に浮かぶ考え、今日の課題に関するアイデア、あるいは感情を包み隠さず生のまま書き下ろします。スペルや論理を気にせず手を動かします。",
+          "zh": "拿起床边备好的纸和笔，原汁原味地写下脑海里浮现的想法、对今天任务的创意或感受。无需理会拼写或逻辑，动笔直书。",
+          "es": "Tome el papel y el bolígrafo colocados al lado de la cama y escriba pensamientos crudos, ideas para las tareas de hoy o emociones que acudan a su mente sin filtros. Mueva la mano sin preocuparse por la ortografía ni la lógica.",
+          "de": "Greifen Sie zu Papier und Stift neben Ihrem Bett und schreiben Sie rohe Gedanken, Ideen für heutige Aufgaben oder Gefühle auf, die Ihnen in den Sinn kommen. Bewegen Sie Ihre Hand, ohne sich um Rechtschreibung oder Logik zu sorgen.",
+          "fr": "Saisissez le papier et le stylo placés à côté du lit et notez bruts les pensées, idées pour les tâches du jour ou émotions qui vous traversent l'esprit. Bougez la main sans vous soucier de l'orthographe ni de la logique.",
+          "pt": "Pegue o papel e a caneta ao lado da cama e escreva pensamentos brutos, ideias para as tarefas de hoje ou emoções que surgem em sua mente sem filtros. Mova a mão sem se preocupar com ortografia ou lógica.",
+          "id": "Ambil kertas dan pena di samping tempat tidur lalu tuliskan pikiran mentah, ide untuk tugas hari ini, atau emosi yang muncul di kepala tanpa disaring. Gerakkan tangan tanpa memikirkan ejaan atau logika."
         }
       },
       {
         "name": {
-          "ko": "핵심 키워드 정제 및 기상"
+          "ko": "핵심 키워드 정제 및 기상",
+          "en": "Refine Key Keywords and Get Up",
+          "ja": "キーワードの精製と起床",
+          "zh": "提炼核心关键词并起床",
+          "es": "Refinar palabras clave y levantarse",
+          "de": "Schlüsselwörter verfeinern und aufstehen",
+          "fr": "Affiner les mots-clés et se lever",
+          "pt": "Refinar palavras-chave e levantar",
+          "id": "Memurnikan Kata Kunci Utama dan Bangun"
         },
         "text": {
-          "ko": "약 5~10분간의 기록을 마친 뒤, 작성한 노트에서 영감을 주는 단어나 오늘의 행동 방향을 정해줄 핵심 키워드 2~3개를 골라 형광펜으로 칠합니다. 의식을 정돈한 후 기분 좋게 기상합니다."
+          "ko": "약 5~10분간의 기록을 마친 뒤, 작성한 노트에서 영감을 주는 단어나 오늘의 행동 방향을 정해줄 핵심 키워드 2~3개를 골라 형광펜으로 칠합니다. 의식을 정돈한 후 기분 좋게 기상합니다.",
+          "en": "After recording for about 5–10 minutes, highlight 2–3 inspiring words or key keywords from your note that set today's direction. Organize your consciousness and wake up pleasantly.",
+          "ja": "約5〜10分間の記録を終えた後、作成したノートからインスピレーションを与える言葉や今日の行動方向を決めるキーサード2〜3個を選んで蛍光ペンで塗ります。意識を整えた後、気持ちよく起床します。",
+          "zh": "记录约5-10分钟后，从笔记中挑选2-3个赋予灵感或决定今天行动方向的核心关键词并用荧光笔标记。梳理好意识后愉快地起床。",
+          "es": "Tras unos 5 a 10 minutos de anotaciones, resalte con un fluorescente 2 o 3 palabras inspiradoras o palabras clave que determinen la dirección de hoy. Organice su conciencia y levántese de buen humor.",
+          "de": "Nach etwa 5–10 Minuten Aufzeichnen markieren Sie 2–3 inspirierende Wörter oder Schlüsselwörter in Ihren Notizen mit einem Textmarker, die die heutige Richtung vorgeben. Ordnen Sie Ihr Bewusstsein und stehen Sie angenehm auf.",
+          "fr": "Après environ 5 à 10 minutes de notes, surlignez 2 ou 3 mots inspirants ou clés qui fixeront l'orientation de votre journée. Organisez votre esprit et levez-vous agréablement.",
+          "pt": "Após cerca de 5 a 10 minutos de anotações, destaque com marca-texto 2 a 3 palavras inspiradoras ou palavras-chave que definirão a direção do dia. Organize sua consciência e levante-se com bom humor.",
+          "id": "Setelah mencatat selama sekitar 5–10 menit, pilih 2–3 kata yang menginspirasi atau kata kunci utama dari catatan yang menentukan arah tindakan hari ini dan tandai dengan stabilo. Rapikan kesadaran lalu bangun dengan senang hati."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "침대 위에서 메모하는 것이 일반적인 기상 직후 글쓰기(모닝 페이지)와 다른 점이 무엇인가요?"
+          "ko": "침대 위에서 메모하는 것이 일반적인 기상 직후 글쓰기(모닝 페이지)와 다른 점이 무엇인가요?",
+          "en": "How does note-taking in bed differ from typical right-after-waking writing (Morning Pages)?",
+          "ja": "ベッドの上でメモすることが、一般的な起床直後の執筆（モーニングページ）と異なる点は何ですか？",
+          "zh": "在床上记笔记与一般的起床后立即写作（晨间随笔 Morning Pages）有什么不同？",
+          "es": "¿En qué se diferencia tomar notas en la cama de la escritura habitual justo al despertar (Páginas Matutinas)?",
+          "de": "Wie unterscheidet sich das Notieren im Bett vom typischen Schreiben direkt nach dem Aufstehen (Morning Pages)?",
+          "fr": "En quoi la prise de notes au lit diffère-t-elle de l'écriture habituelle juste après le réveil (Pages Matinales) ?",
+          "pt": "Como tomar notas na cama difere da escrita típica logo após acordar (Páginas Matinais)?",
+          "id": "Apa bedanya mencatat di tempat tidur dengan menulis tepat setelah bangun tidur secara umum (Morning Pages)?"
         },
         "answer": {
-          "ko": "모닝 페이지는 기상 후 세수를 하거나 자리에 앉아 이성이 일정 부분 작동하는 상태에서 작성되지만, 볼테르의 침대 위 집필은 물리적으로 기상하기 전 수면 관성 상태의 '뇌의 틈새'를 노려 잠재의식적 은유와 창의적 발상을 완전히 날것의 상태로 포착한다는 점에서 깊은 인지적 차이가 있습니다."
+          "ko": "모닝 페이지는 기상 후 세수를 하거나 자리에 앉아 이성이 일정 부분 작동하는 상태에서 작성되지만, 볼테르의 침대 위 집필은 물리적으로 기상하기 전 수면 관성 상태의 '뇌의 틈새'를 노려 잠재의식적 은유와 창의적 발상을 완전히 날것의 상태로 포착한다는 점에서 깊은 인지적 차이가 있습니다.",
+          "en": "While Morning Pages are written after washing up or sitting down when reason is partially active, Voltaire's bed writing targets the 'brain threshold' during sleep inertia before physically getting up, capturing subconscious metaphors and creative thoughts in a completely raw state, presenting a deep cognitive difference.",
+          "ja": "モーニングページは起床後に顔を洗ったり席に座ったりして理性がある程度働いている状態で作成されますが、ヴォルテールのベッドの上の執筆は物理的に起き上がる前の睡眠慣性状態の「脳の隙間」を狙い、潜在意識的な比喩や創造的発想を完全に生の状態で捕らえるという点で深い認知の差異があります。",
+          "zh": "晨间随笔（Morning Pages）是在洗漱或坐下后、理性部分发挥作用的状态下撰写的；而伏尔泰的床头写作则是在物理下床前的睡眠惯性状态下，瞄准“大脑的缝隙”，在完全原汁原味的状态下捕捉潜意识的比喻和创造性灵感，两者存在深层的认知差异。",
+          "es": "Mientras que las Páginas Matutinas se escriben tras lavarse o sentarse cuando la razón está parcialmente activa, la escritura en la cama de Voltaire apunta al 'umbral cerebral' durante la inercia del sueño antes de levantarse físicamente, capturando metáforas subconscientes e ideas creativas en un estado completamente puro, lo que supone una profunda diferencia cognitiva.",
+          "de": "Während Morning Pages nach dem Waschen oder Hinsetzen geschrieben werden, wenn die Vernunft teilweise aktiv ist, zielt Voltaires Schreiben im Bett auf die 'Gehirnschwelle' während der Schlafträgheit ab, bevor man physisch aufsteht, und erfasst unterbewusste Metaphern und kreative Ideen in einem völlig rohen Zustand, was einen tiefen kognitiven Unterschied darstellt.",
+          "fr": "Alors que les Pages Matinales sont rédigées après s'être lavé ou assis lorsque la raison est partiellement active, l'écriture au lit de Voltaire vise l'« interstice cérébral » pendant l'inertie du sommeil avant de se lever physiquement, capturant des métaphores subconscientes et des idées créatives à l'état brut, ce qui marque une profonde différence cognitive.",
+          "pt": "Enquanto as Páginas Matinais são escritas após lavar o rosto ou sentar-se quando a razão está parcialmente ativa, a escrita na cama de Voltaire visa o 'limiar cerebral' durante a inércia do sono antes de se levantar fisicamente, capturando metáforas subconscientes e ideias criativas em estado totalmente bruto, apresentando uma profunda diferença cognitiva.",
+          "id": "Sementara Morning Pages ditulis setelah cuci muka atau duduk saat rasio sudah mulai bekerja sebagian, menulis di tempat tidur ala Voltaire membidik 'celah otak' selama inersia tidur sebelum bangun secara fisik, menangkap metafora bawah sadar dan pemikiran kreatif dalam kondisi yang benar-benar mentah, yang memberikan perbedaan kognitif mendalam."
         }
       },
       {
         "question": {
-          "ko": "매일 아침 침대에서 글을 쓸 아이디어가 떠오르지 않을 때는 어떻게 해야 하나요?"
+          "ko": "매일 아침 침대에서 글을 쓸 아이디어가 떠오르지 않을 때는 어떻게 해야 하나요?",
+          "en": "What should I do if no ideas come to mind when writing in bed every morning?",
+          "ja": "毎朝ベッドで文章を書くアイデアが浮かばない時はどうすればよいですか？",
+          "zh": "每天早晨在床上写东西却没有灵感时该怎么办？",
+          "es": "¿Qué debo hacer si no se me ocurren ideas al escribir en la cama cada mañana?",
+          "de": "Was soll ich tun, wenn mir beim morgendlichen Schreiben im Bett keine Ideen kommen?",
+          "fr": "Que faire si aucune idée ne me vient lorsque j'écris au lit chaque matin ?",
+          "pt": "O que devo fazer se nenhuma ideia me vier à mente ao escrever na cama todas as manhãs?",
+          "id": "Apa yang harus dilakukan jika tidak ada ide yang muncul saat mau menulis di tempat tidur setiap pagi?"
         },
         "answer": {
-          "ko": "거창한 아이디어를 쓸 필요가 전혀 없습니다. 어제 있었던 기분 나빴던 일, 오늘 해야 할 일의 귀찮음, 혹은 단어들의 무작위한 나열 등 머리에 스치는 어떤 사소한 조각이라도 그대로 적으면 됩니다. 뇌의 억제 필터를 해제하는 연습 자체가 목적입니다."
+          "ko": "거창한 아이디어를 쓸 필요가 전혀 없습니다. 어제 있었던 기분 나빴던 일, 오늘 해야 할 일의 귀찮음, 혹은 단어들의 무작위한 나열 등 머리에 스치는 어떤 사소한 조각이라도 그대로 적으면 됩니다. 뇌의 억제 필터를 해제하는 연습 자체가 목적입니다.",
+          "en": "There is no need to write grand ideas at all. You can write down any trivial fragment crossing your mind—an unpleasant thing from yesterday, the hassle of today's tasks, or a random list of words. The goal itself is the practice of unlocking the brain's inhibition filter.",
+          "ja": "大げさなアイデアを書く必要は全くありません。昨日あった不快な出来事、今日すべきことの面倒くささ、あるいは単語の無作為な羅列など、頭をかすめるどんな些細な断片でもそのまま書けばいいのです。脳の抑制フィルターを解除する練習自体が目的です。",
+          "zh": "完全不需要写什么伟大的创意。写下任何掠过脑海的琐碎片段即可——昨天不高兴的事、今天要做的事情的烦人之处，或是随机罗列的词汇。接触大脑的抑制过滤器练习本身就是目的。",
+          "es": "No hay necesidad alguna de escribir grandes ideas. Puede anotar cualquier fragmento trivial que le pase por la cabeza: algo desagradable de ayer, la pereza ante las tareas de hoy o una lista aleatoria de palabras. El objetivo en sí es la práctica de desactivar el filtro de inhibición del cerebro.",
+          "de": "Es ist überhaupt nicht nötig, großartige Ideen zu schreiben. Sie können jedes belanglose Fragment aufschreiben, das Ihnen durch den Kopf geht – etwas Unangenehmes von gestern, die Mühsal heutiger Aufgaben oder eine zufällige Liste von Wörtern. Das Ziel selbst ist das Überwinden des Hemmfilters des Gehirns.",
+          "fr": "Il n'est absolument pas nécessaire d'écrire de grandes idées. Vous pouvez noter tout fragment insignifiant qui vous traverse l'esprit : un événement désagréable d'hier, la flemme face aux tâches du jour ou une liste aléatoire de mots. L'objectif est l'exercice de désactivation du filtre d'inhibition du cerveau.",
+          "pt": "Não há necessidade alguma de escrever grandes ideias. Você pode anotar qualquer fragmento trivial que cruze sua mente — um evento desagradável de ontem, a preguiça com as tarefas de hoje ou uma lista aleatória de palavras. O objetivo em si é a prática de desativar o filtro de inibição do cérebro.",
+          "id": "Tidak perlu menulis ide-ide hebat sama sekali. Anda bisa menuliskan serpihan sepele apa pun yang melintas di kepala—hal tak menyenangkan kemarin, rasa malas terhadap tugas hari ini, atau deretan kata acak. Latihan melepaskan filter inhibisi otak itu sendiri adalah tujuannya."
         }
       }
     ]
