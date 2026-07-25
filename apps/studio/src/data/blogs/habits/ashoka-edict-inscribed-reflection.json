@@ -1,70 +1,214 @@
 {
   "ashoka-edict-inscribed-reflection": {
     "title": {
-      "ko": "바위에 칙령을 새기고 성찰한 정복왕? 아쇼카 대왕의 일일 윤리 성찰 루틴"
+      "ko": "바위에 칙령을 새기고 성찰한 정복왕? 아쇼카 대왕의 일일 윤리 성찰 루틴",
+      "en": "A Conqueror King Who Carved Edicts in Rock for Reflection? Ashoka the Great's Daily Ethical Reflection Routine",
+      "ja": "岩に勅令を刻み省察した征服王？アショカ大王の毎日倫理省察ルーティン",
+      "zh": "刻敕令于岩石并自我省察的征服王？阿育王的每日伦理省察惯例",
+      "es": "¿Un Rey Conquistador que Grabó Edictos en la Roca para Reflexionar? La Rutina Diaria de Reflexión Ética de Ashoka el Grande",
+      "de": "Ein Erobererkönig, der Edikte in Felsen meißelte und reflektierte? Ashoka des Großen tägliche ethische Reflexionsroutine",
+      "fr": "Un roi conquérant qui a gravé des édits dans la roche pour réfléchir ? La routine quotidienne de réflexion éthique d'Ashoka le Grand",
+      "pt": "Um Rei Conquistador que Gravou Edictos na Rocha para Reflexão? A Rotina Diária de Reflexão Ética de Ashoka, o Grande",
+      "id": "Raja Penakluk yang Mengukir Maklumat di Batu untuk Refleksi? Rutinitas Refleksi Etika Harian Ashoka Agung"
     },
     "description": {
-      "ko": "인도 마우리아 제국의 아쇼카 대왕. 칼링가 전쟁의 참상을 반성하고 석주 칙령을 세워 매일 윤리적 자아를 성찰했던 그의 외부 닻 내리기 루틴과 3단계 실천법을 알아봅니다."
+      "ko": "인도 마우리아 제국의 아쇼카 대왕. 칼링가 전쟁의 참상을 반성하고 석주 칙령을 세워 매일 윤리적 자아를 성찰했던 그의 외부 닻 내리기 루틴과 3단계 실천법을 알아봅니다.",
+      "en": "Ashoka the Great of the Maurya Empire in India. Discover his external anchoring routine and 3-step action plan, where he repented the horrors of the Kalinga War and erected pillar edicts to reflect on his ethical self every day.",
+      "ja": "インド・マウリヤ朝のアショカ大王。カリンガ戦争の惨状を反省し、石柱勅令を建てて毎日倫理的自我を省察した彼の外部アンカリングルーティンと3ステップ実践法を探ります。",
+      "zh": "印度孔雀王朝的阿育王。探索他在反思甲林罕战争惨状后立起石柱敕令、每天省察自我伦理的“外部锚定”惯例与3步骤实践法。",
+      "es": "Ashoka el Grande del Imperio Maurya en la India. Descubra su rutina de anclaje externo y plan de acción de 3 pasos, donde se arrepintió de los horrores de la Guerra de Kalinga y erigió edictos en pilares para reflexionar sobre su ser ético todos los días.",
+      "de": "Ashoka der Große des Maurya-Reiches in Indien. Entdecken Sie seine externe Verankerungsroutine und seinen 3-Schritte-Aktionsplan, bei dem er die Schrecken des Kalinga-Krieges bereute und Säulenedikte errichtete, um jeden Tag über sein ethisches Selbst zu reflektieren.",
+      "fr": "Ashoka le Grand de l'Empire Maurya en Inde. Découvrez sa routine d'ancrage externe et son plan d'action en 3 étapes, par lesquels il a regretté les horreurs de la guerre de Kalinga et a érigé des édits sur piliers pour réfléchir quotidiennement à son soi éthique.",
+      "pt": "Ashoka, o Grande do Império Maurya na Índia. Descubra sua rotina de ancoragem externa e plano de ação em 3 passos, nos quais ele se arrependeu dos horrores da Guerra de Kalinga e ergueu éditos em pilares para refletir sobre seu eu ético todos os dias.",
+      "id": "Ashoka Agung dari Kekaisaran Maurya di India. Pelajari rutinitas penambatan eksternal dan rencana tindakan 3 langkahnya, di mana ia menyesali kekejaman Perang Kalinga dan mendirikan maklumat pilar untuk merenungkan diri yang beretika setiap hari."
     },
     "authority": {
-      "ko": "아쇼카 대왕 석주 칙령(Edicts of Ashoka) 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+      "ko": "아쇼카 대왕 석주 칙령(Edicts of Ashoka) 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+      "en": "Historical Verification from the Edicts of Ashoka & Cognitive Neuroscience Research",
+      "ja": "アショカ大王石柱勅令（Edicts of Ashoka）考証＆認知神経科学（Cognitive Neuroscience）研究",
+      "zh": "阿育王摩崖与石柱敕令（Edicts of Ashoka）考证与认知神经科学（Cognitive Neuroscience）研究",
+      "es": "Verificación Histórica de los Edictos de Ashoka (Edicts of Ashoka) e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)",
+      "de": "Historische Überprüfung aus den Edikten von Ashoka (Edicts of Ashoka) & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)",
+      "fr": "Vérification Historique issue des Édits d'Ashoka (Edicts of Ashoka) & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)",
+      "pt": "Verificação Histórica dos Éditos de Ashoka (Edicts of Ashoka) e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)",
+      "id": "Verifikasi Historis dari Maklumat Ashoka (Edicts of Ashoka) & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"
     },
     "intro": {
-      "ko": "고대 인도 대륙 대부분을 통일하고 마우리아 제국의 태평성대를 연 성왕이자, 잔혹한 정복 군주에서 비폭력과 평화의 수호자로 거듭난 아쇼카 대왕(Ashoka the Great). 정복 전쟁이었던 칼링가(Kalinga) 전투의 참혹한 비극을 목도한 후, 그가 평생 자신의 권력과 욕망을 통제하며 올바른 윤리적 리더십을 고수할 수 있었던 비결은 무엇일까요? 🏛️\n\n아쇼카 대왕은 자신의 죄책감과 성찰, 그리고 제국이 지켜야 할 평화와 도덕적 가치(Dharma)를 거대한 바위와 석주에 새겨 제국 전역의 영토 길목에 세웠습니다. 그는 단순히 백성들을 가르치기 위함이 아니라, 왕인 자기 자신도 매일 석주에 새겨진 비문을 되새기며 자신의 행동이 가치관에 부합하는지 점검했습니다. 굳건한 바위에 새겨진 비문은 변덕스러운 인간의 감정에 흔들리지 않는 강력한 시각적 닻(Visual Anchor) 역할을 해주었습니다.\n\n오늘 포스트에서는 아쇼카 대왕의 '가치관 비문 되새김' 루틴의 뇌과학적 작동 원리와 현대인들이 자신의 핵심 가치를 일상에서 복원하는 3단계 실천 가이드를 공개합니다."
+      "ko": "고대 인도 대륙 대부분을 통일하고 마우리아 제국의 태평성대를 연 성왕이자, 잔혹한 정복 군주에서 비폭력과 평화의 수호자로 거듭난 아쇼카 대왕(Ashoka the Great). 정복 전쟁이었던 칼링가(Kalinga) 전투의 참혹한 비극을 목도한 후, 그가 평생 자신의 권력과 욕망을 통제하며 올바른 윤리적 리더십을 고수할 수 있었던 비결은 무엇일까요? 🏛️\n\n아쇼카 대왕은 자신의 죄책감과 성찰, 그리고 제국이 지켜야 할 평화와 도덕적 가치(Dharma)를 거대한 바위와 석주에 새겨 제국 전역의 영토 길목에 세웠습니다. 그는 단순히 백성들을 가르치기 위함이 아니라, 왕인 자기 자신도 매일 석주에 새겨진 비문을 되새기며 자신의 행동이 가치관에 부합하는지 점검했습니다. 굳건한 바위에 새겨진 비문은 변덕스러운 인간의 감정에 흔들리지 않는 강력한 시각적 닻(Visual Anchor) 역할을 해주었습니다.\n\n오늘 포스트에서는 아쇼카 대왕의 '가치관 비문 되새김' 루틴의 뇌과학적 작동 원리와 현대인들이 자신의 핵심 가치를 일상에서 복원하는 3단계 실천 가이드를 공개합니다.",
+      "en": "Ashoka the Great, the holy king who unified most of the ancient Indian subcontinent, opened a golden age for the Maurya Empire, and transformed from a ruthless conqueror into a guardian of nonviolence and peace. After witnessing the horrific tragedy of the conquest of Kalinga, what was his secret to controlling his power and desires throughout his life and adhering to righteous ethical leadership? 🏛️\n\nKing Ashoka inscribed his guilt, reflection, and the peace and moral values (Dharma) that the empire had to uphold onto massive rocks and pillars erected at key crossroads throughout his realm. Rather than merely instructing his subjects, he—as king—personally reflected on the inscriptions on the pillars every day to check if his actions aligned with his core values. The inscriptions etched into solid rock served as a powerful Visual Anchor that remained unshaken by fickle human emotions.\n\nIn today's post, we reveal the neuroscientific working principles behind King Ashoka's 'value inscription reflection' routine and present a 3-step practical guide for modern individuals to restore their core values in daily life.",
+      "ja": "古代インド大陸の大部分を統一し、マウリヤ朝の太平の世を開いた聖王であり、残酷な征服君主から非暴力と平和の守護者へと生まれ変わったアショカ大王（Ashoka the Great）。征服戦争であったカリンガ（Kalinga）の戦いの惨烈な悲劇を目撃した後、彼が一生涯にわたって自身の権力と欲望をコントロールし、正しい倫理的リーダーシップを貫くことができた秘訣は何だったのでしょうか？ 🏛️\n\nアショカ大王は自身の罪悪感と省察、そして帝国が守るべき平和と道徳的価値（Dharma：ダルマ）を巨大な岩や石柱に刻み、帝国全土の領土の要所に建てました。彼は単に民を教導するためだけではなく、王である自分自身も毎日石柱に刻まれた碑文を胸に刻み、自身の行動が価値観に合致しているかを点検しました。堅固な岩に刻まれた碑文は、移り気な人間の感情に揺らぐことのない強力な視覚的アンカー（Visual Anchor）の役割を果たしてくれました。\n\n本日の記事では、アショカ大王の「価値観の碑文の噛み締め」ルーティンの脳科学的な作動原理と、現代人が自身の核心的価値を日常で復元するための3ステップ実践ガイドを公開します。",
+      "zh": "统一古印度大陆绝大部分领土、开创孔雀王朝太平盛世的圣王，同时也是从残暴的征服君主转变为非暴力与和平守护者的阿育王（Ashoka the Great）。在亲眼目睹征服战争甲林罕（Kalinga）战役的惨烈悲剧后，他究竟是如何做到终生克制自身权力与欲望、坚持正确的伦理领导力的呢？ 🏛️\n\n阿育王将自己的内疚、反思以及帝国必须恪守的和平与道德价值（Dharma：达摩）刻在巨大的岩石与石柱上，立于帝国全境的要道关口。他不仅是为了教化臣民，更是为了让作为国王的自己每天也重温石柱上刻写的碑文，审查自己的行为是否符合价值观。刻于坚石上的碑文扮演了不随反复无常的人类情绪而摇摆的强大“视觉锚（Visual Anchor）”。\n\n在今天的文章中，我们将揭示阿育王“重温价值观碑文”惯例的脑科学运行原理，并提供现代人在日常生活中复原自身核心价值观的3步骤实践指南。",
+      "es": "Ashoka el Grande, el rey sagrado que unificó la mayor parte del antiguo subcontinente indio, inauguró una era de paz y prosperidad para el Imperio Maurya y se transformó de un despiadado monarca conquistador en un guardián de la no violencia y la paz. Tras presenciar la horriblemente trágica Batalla de Kalinga, ¿cuál fue su secreto para controlar su poder y sus deseos a lo largo de su vida y mantener un liderazgo ético intachable? 🏛️\n\nEl Rey Ashoka grabó su culpa, reflexión y los valores morales y de paz (Dharma) que el imperio debía mantener en enormes rocas y pilares erigidos en cruces de caminos clave en todo su reino. Más que simplemente instruir a sus súbditos, él mismo, como rey, reflexionaba personalmente sobre las inscripciones de los pilares todos los días para verificar si sus acciones coincidían con sus valores. Las inscripciones grabadas en piedra firme sirvieron como un potente Ancla Visual (Visual Anchor) inquebrantable ante las volubles emociones humanas.\n\nEn la publicación de hoy, revelamos los principios de funcionamiento neurocientífico detrás de la rutina de 'reflexión en inscripciones de valores' del Rey Ashoka y presentamos una guía práctica de 3 pasos para que las personas modernas restauren sus valores fundamentales en la vida cotidiana.",
+      "de": "Ashoka der Große, der heilige König, der den größten Teil des antiken indischen Subkontinents eininte, ein goldenes Zeitalter für das Maurya-Reich einleitete und sich von einem grausamen Eroberer in einen Hüter der Gewaltlosigkeit und des Friedens verwandelte. Was war sein Geheimnis, nachdem er die schreckliche Tragödie der Kalinga-Schlacht miterlebt hatte, seine Macht und Begierden ein Leben lang zu zügeln und an einer gerechten ethischen Führung festzuhalten? 🏛️\n\nKönig Ashoka meißelte seine Schuld, seine Reflexion sowie die Werte des Friedens und der Moral (Dharma), die das Reich bewahren musste, in gewaltige Felsen und Säulen, die an zentralen Kreuzungen im gesamten Reich errichtet wurden. Anstatt nur seine Untertanen zu unterweisen, dachte er als König jeden Tag persönlich über die Inschriften auf den Säulen nach, um zu prüfen, ob sein Handeln mit seinen Werten übereinstimmte. Die in festen Fels gehauenen Inschriften dienten als kraftvoller visueller Anker (Visual Anchor), der von wankelmütigen menschlichen Emotionen unerschüttert blieb.\n\nIm heutigen Beitrag enthüllen wir die neurowissenschaftlichen Funktionsprinzipien von König Ashokas Routine der 'Reflexion über Werteinschriften' und präsentieren einen praktischen 3-Schritte-Leitfaden für moderne Menschen, um ihre Kernwerte im Alltag wiederherzustellen.",
+      "fr": "Ashoka le Grand, le roi saint qui a unifié la majeure partie de l'ancien sous-continent indien, a ouvert un âge d'or pour l'Empire Maurya et s'est métamorphosé, passant d'un cruel monarque conquérant à un gardien de la non-violence et de la paix. Après avoir été témoin de la tragédie atroce de la bataille de Kalinga, quel était son secret pour maîtriser son pouvoir et ses désirs tout au long de sa vie et maintenir un leadership éthique irréprochable ? 🏛️\n\nLe Roi Ashoka a gravé sa culpabilité, sa réflexion et les valeurs morales et de paix (Dharma) que l'empire devait respecter sur d'immenses rochers et piliers érigés aux carrefours clés de tout son territoire. Loin de se contenter d'instruire ses sujets, il méditait lui-même, en tant que roi, chaque jour sur les inscriptions gravées sur les piliers afin de vérifier si ses actes restaient en adéquation avec ses valeurs. Les inscriptions sculptées dans la roche solide ont servi de puissant Ancrage Visuel (Visual Anchor) que les fluctuations des émotions humaines ne pouvaient ébranler.\n\nDans l'article d'aujourd'hui, nous révélons les principes neuroscientifiques sous-jacents à la routine de « méditation sur les inscriptions de valeurs » du Roi Ashoka et présentons un guide pratique en 3 étapes permettant aux individus modernes de restaurer leurs valeurs fondamentales au quotidien.",
+      "pt": "Ashoka, o Grande, o rei sagrado que unificou a maior parte do antigo subcontinente indiano, abriu uma era de paz e prosperidade para o Império Maurya e se transformou de um cruel monarca conquistador em um guardião da não violência e da paz. Após testemunhar a tragédia terrivelmente sangrenta da Batalha de Kalinga, qual foi o seu segredo para controlar seu poder e desejos ao longo de toda a vida e manter uma liderança ética exemplar? 🏛️\n\nO Rei Ashoka gravou sua culpa, reflexão e os valores morais e de paz (Dharma) que o império devia manter em enormes rochas e pilares erguidos em cruzamentos estratégicos de todo o seu reino. Mais do que simplesmente instruir seus súditos, ele próprio, como rei, refletia pessoalmente sobre as inscrições nos pilares todos os dias para verificar se suas ações se alinhavam com seus valores. As inscrições esculpidas em rocha firme serviram como uma poderosa Âncora Visual (Visual Anchor) inabalável diante das volúveis emoções humanas.\n\nNo artigo de hoje, revelamos os princípios de funcionamento neurocientífico por trás da rotina de 'reflexão nas inscrições de valores' do Rei Ashoka e apresentamos um guia prático de 3 passos para as pessoas modernas restaurarem seus valores fundamentais na vida cotidiana.",
+      "id": "Ashoka Agung, raja suci yang menyatukan sebagian besar anak benua India kuno, membuka era kejayaan bagi Kekaisaran Maurya, dan bertransformasi dari raja penakluk yang kejam menjadi pelindung antikekerasan dan perdamaian. Setelah menyaksikan tragedi mengerikan dari Perang Kalinga, apa rahasianya mengendalikan kekuasaan dan hasratnya sepanjang hidup serta memegang teguh kepemimpinan etis yang benar? 🏛️\n\nRaja Ashoka mengukir rasa bersalah, refleksi, serta nilai-nilai kedamaian dan moralitas (Dharma) yang harus dijaga oleh kekaisaran pada batu-batu besar dan pilar yang didirikan di persimpangan jalan penting di seluruh wilayahnya. Daripada sekadar mengajari rakyatnya, ia sendiri sebagai raja secara pribadi merenungkan prasasti pada pilar setiap hari untuk memeriksa apakah tindakannya telah sesuai dengan nilai-nilainya. Prasasti yang terpatri pada batu kokoh berfungsi sebagai Penambat Visual (Visual Anchor) kuat yang tidak tergoyahkan oleh emosi manusia yang labil.\n\nDalam postingan hari ini, kami mengungkap prinsip kerja neurosains di balik rutinitas 'perenungan prasasti nilai' Raja Ashoka dan menyajikan panduan praktis 3 langkah bagi masyarakat modern untuk memulihkan nilai-nilai inti mereka dalam kehidupan sehari-hari."
     },
     "whyTitle": {
-      "ko": "외부 가치관 닻(Visual Anchor)과 전전두엽 자아 정체성 강화 메커니즘"
+      "ko": "외부 가치관 닻(Visual Anchor)과 전전두엽 자아 정체성 강화 메커니즘",
+      "en": "External Value Visual Anchor and the Prefrontal Self-Identity Enhancement Mechanism",
+      "ja": "外部的価値観の視覚的アンカー（Visual Anchor）と前頭前野の自我同一性強化メカニズム",
+      "zh": "外部价值观锚（Visual Anchor）与前额叶自我身份认同强化机制",
+      "es": "Ancla Visual de Valores Externos y Mecanismo de Refuerzo de la Autoidentidad Prefrontal",
+      "de": "Visueller Anker externer Werte und der präfrontale Mechanismus zur Stärkung der Selbstidentität",
+      "fr": "Ancrage Visuel des Valeurs Externes et Mécanisme de Renforcement de l'Identité Personnelle Préfrontale",
+      "pt": "Âncora Visual de Valores Externos e Mecanismo de Reforço da Autoidentidade Pré-Frontal",
+      "id": "Penambat Visual Nilai Eksternal dan Mekanisme Penguatan Identitas Diri Prefrontal"
     },
     "whyDesc": {
-      "ko": "사람의 감정과 순간적 욕망은 뇌의 시상하부와 변연계의 영향을 받아 수시로 변덕을 부립니다. 아쇼카 대왕처럼 자신의 핵심 신념을 눈에 보이는 물리적 구조물로 외재화(Externalization)하면, 뇌는 물리적 텍스트를 인식하는 즉시 <strong>'시각적 닻 내리기(Visual Anchoring)'</strong> 효과를 발동시킵니다.\n\n매일 정해진 시각에 자신의 핵심 가치를 눈으로 보고 읽는 행위는 전전두엽 피질의 <strong>'자기 참조 처리 회로(Self-Referential Processing)'</strong>를 강하게 자극하여, 순간적 유혹이나 피로 속에서도 자신이 지켜야 할 올바른 행동을 선제적으로 선택하도록 돕습니다."
+      "ko": "사람의 감정과 순간적 욕망은 뇌의 시상하부와 변연계의 영향을 받아 수시로 변덕을 부립니다. 아쇼카 대왕처럼 자신의 핵심 신념을 눈에 보이는 물리적 구조물로 외재화(Externalization)하면, 뇌는 물리적 텍스트를 인식하는 즉시 <strong>'시각적 닻 내리기(Visual Anchoring)'</strong> 효과를 발동시킵니다.\n\n매일 정해진 시각에 자신의 핵심 가치를 눈으로 보고 읽는 행위는 전전두엽 피질의 <strong>'자기 참조 처리 회로(Self-Referential Processing)'</strong>를 강하게 자극하여, 순간적 유혹이나 피로 속에서도 자신이 지켜야 할 올바른 행동을 선제적으로 선택하도록 돕습니다.",
+      "en": "Human emotions and momentary desires fluctuate frequently under the influence of the hypothalamus and limbic system. When you externalize your core beliefs into visible physical structures like King Ashoka, the brain immediately activates the <strong>'Visual Anchoring'</strong> effect upon recognizing the physical text.\n\nThe act of seeing and reading your core values at a set time every day strongly stimulates the <strong>'Self-Referential Processing'</strong> circuit in the prefrontal cortex, helping you proactively choose the right actions you must uphold, even amid momentary temptations or fatigue.",
+      "ja": "人の感情や瞬間的な欲望は、脳の視床下部や辺縁系の影響を受けて頻繁に移り変わります。アショカ大王のように自身の核心的信念を目に見える物理的構造物として外在化（Externalization）すると、脳は物理的テキストを認識するやいなや<strong>「視覚的アンカリング（Visual Anchoring）」</strong>効果を発動させます。\n\n毎日決まった時間に自身の核心的価値を目で見て朗読する行為は、前頭前野皮質の<strong>「自己参照処理回路（Self-Referential Processing）」</strong>を強力に刺激し、瞬間的な誘惑や疲労の中でも自身が守るべき正しい行動を先制的に選択できるよう助けてくれます。",
+      "zh": "人的情绪与瞬间的欲望受到大脑下丘脑与边缘系统的影响，时刻都在变幻莫测。像阿育王一样，将自己的核心信念外在化（Externalization）为可见的物理结构物，大脑在识别物理文本的瞬间就会触发<strong>“视觉锚定（Visual Anchoring）”</strong>效应。\n\n每天在固定时间用眼睛看并念诵自己的核心价值观，能强效刺激前额叶皮层的<strong>“自我参照处理回路（Self-Referential Processing）”</strong>，帮助人们即便在瞬间的诱惑或疲惫中，也能预先选择自己应当恪守的正当行为。",
+      "es": "Las emociones humanas y los deseos momentáneos fluctúan con frecuencia bajo la influencia del hipotálamo y el sistema límbico. Cuando exterioriza sus creencias fundamentales en estructuras físicas visibles como el Rey Ashoka, el cerebro activa de inmediato el efecto de <strong>'Anclaje Visual (Visual Anchoring)'</strong> al reconocer el texto físico.\n\nEl acto de ver y leer sus valores fundamentales a una hora fija todos los días estimula fuertemente el circuito de <strong>'Procesamiento Auto-Referencial (Self-Referential Processing)'</strong> en la corteza prefrontal, ayudándole a elegir de forma proactiva las acciones correctas que debe mantener, incluso en medio de tentaciones momentáneas o fatiga.",
+      "de": "Menschliche Emotionen und momentane Begierden schwanken unter dem Einfluss des Hypothalamus und des limbischen Systems häufig. Wenn Sie Ihre Kernüberzeugungen wie König Ashoka in sichtbaren physischen Strukturen externalisieren, aktiviert das Gehirn beim Erkennen des physischen Textes sofort den Effekt des <strong>'Visuellen Ankerns (Visual Anchoring)'</strong>.\n\nDer Akt des Sehens und Lesens Ihrer Kernwerte zu einer festen Zeit jeden Tag stimuliert den Schaltkreis des <strong>'Selbstreferenziellen Prozessierens (Self-Referential Processing)'</strong> im Präfrontalkortex stark und hilft Ihnen, selbst inmitten momentaner Versuchungen oder Erschöpfung proaktiv die richtigen Handlungen zu wählen, die Sie bewahren müssen.",
+      "fr": "Les émotions humaines et les désirs momentanés fluctuent fréquemment sous l'influence de l'hypothalamus et du système limbique. Lorsque vous externalisez vos croyances fondamentales dans des structures physiques visibles comme le Roi Ashoka, le cerveau active immédiatement l'effet d'<strong>« Ancrage Visuel (Visual Anchoring) »</strong> dès qu'il reconnaît le texte physique.\n\nLe fait de voir et de lire vos valeurs fondamentales à une heure fixe chaque jour stimule fortement le circuit de <strong>« Traitement Auto-Référentiel (Self-Referential Processing) »</strong> dans le cortex préfrontal, vous aidant à choisir de manière proactive les bonnes actions à maintenir, même au milieu des tentations passagères ou de la fatigue.",
+      "pt": "As emoções humanas e os desejos momentâneos flutuam com frequência sob a influência do hipotálamo e do sistema límbico. Quando você externaliza suas crenças fundamentais em estruturas físicas visíveis como o Rei Ashoka, o cérebro ativa imediatamente o efeito de <strong>'Ancoragem Visual (Visual Anchoring)'</strong> ao reconhecer o texto físico.\n\nO ato de ver e ler seus valores fundamentais em um horário fixo todos os dias estimula fortemente o circuito de <strong>'Processamento Auto-Referencial (Self-Referential Processing)'</strong> no córtex pré-frontal, ajudando você a escolher proativamente as ações corretas que deve manter, mesmo em meio a tentações momentâneas ou fadiga.",
+      "id": "Emosi manusia dan hasrat sesaat sering kali berfluktuasi di bawah pengaruh hipotalamus dan sistem limbik. Ketika Anda mengeksternalisasi keyakinan inti Anda ke dalam struktur fisik yang terlihat seperti Raja Ashoka, otak langsung mengaktifkan efek <strong>'Penambatan Visual (Visual Anchoring)'</strong> begitu mengenali teks fisik tersebut.\n\nTindakan melihat dan membaca nilai-nilai inti Anda pada waktu yang ditentukan setiap hari sangat merangsang sirkuit <strong>'Pemrosesan Auto-Referensial (Self-Referential Processing)'</strong> pada korteks prefrontal, membantu Anda secara proaktif memilih tindakan benar yang harus Anda pertahankan, bahkan di tengah godaan sesaat atau kelelahan."
     },
     "cautionTitle": {
-      "ko": "가치관 선언의 일회성 이벤트화 및 형식주의 주의"
+      "ko": "가치관 선언의 일회성 이벤트화 및 형식주의 주의",
+      "en": "Beware of Value Declarations Becoming One-Off Events and Empty Formalism",
+      "ja": "価値観宣言の1回限りのイベント化および形式主義への注意",
+      "zh": "警惕价值观宣告演变成一次性活动与形式主义",
+      "es": "Tenga Cuidado de que las Declaraciones de Valores Se Conviertan en Eventos Únicos y Formalismo Vacío",
+      "de": "Hüten Sie sich davor, dass Werterklärungen zu einmaligen Ereignissen und bloßem Formalismus werden",
+      "fr": "Méfiez-vous des déclarations de valeurs devenant des événements ponctuels et un formalisme vide",
+      "pt": "Cuidado para que as Declarações de Valores Não Se Tornem Eventos Únicos e Formalismo Vazio",
+      "id": "Waspadai Deklarasi Nilai Menjadi Acara Saja dan Formalisme Hampa"
     },
     "cautionDesc": {
-      "ko": "가치관 카드를 예쁘게 적어 붙여놓고 다시는 읽지 않는다면 아무런 뇌과학적 닻 효과가 일어나지 않습니다. 아쇼카 대왕이 석주 비문을 매일 되새긴 것처럼, 핵심은 '매일 눈으로 확인하고 낭송하는 일상적 반복'에 있습니다."
+      "ko": "가치관 카드를 예쁘게 적어 붙여놓고 다시는 읽지 않는다면 아무런 뇌과학적 닻 효과가 일어나지 않습니다. 아쇼카 대왕이 석주 비문을 매일 되새긴 것처럼, 핵심은 '매일 눈으로 확인하고 낭송하는 일상적 반복'에 있습니다.",
+      "en": "If you write a value card nicely, stick it up, and never read it again, no neuroscientific anchoring effect will occur. As King Ashoka reflected on the pillar inscriptions every day, the core lies in 'daily repetition of visually checking and reciting'.",
+      "ja": "価値観カードを綺麗に書いて貼っておくだけで二度と読まないなら、何の脳科学的アンカリング効果も起きません。アショカ大王が石柱の碑文を毎日胸に刻んだように、核心は「毎日目で確認して朗読する日常的な反復」にあります。",
+      "zh": "如果把价值观卡片书写工整贴好后就再也不读，就不会产生任何脑科学上的锚定效应。正如阿育王每天重温石柱碑文一样，核心在于“每天用眼睛确认并念诵的日常重复”。",
+      "es": "Si escribe una tarjeta de valores de forma bonita, la pega y nunca la vuelve a leer, no se producirá ningún efecto de anclaje neurocientífico. Así como el Rey Ashoka reflexionaba sobre las inscripciones de los pilares todos los días, la clave reside en la 'repetición diaria de comprobar visualmente y recitar'.",
+      "de": "Wenn Sie eine Wertekarte schön aufschreiben, sie aufkleben und nie wieder lesen, tritt kein neurowissenschaftlicher Ankereffekt ein. Wie König Ashoka jeden Tag über die Säuleninschriften nachdachte, liegt der Kern in der 'täglichen Wiederholung des visuellen Überprüfens und Aufsagens'.",
+      "fr": "Si vous rédigez joliment une carte de valeurs, la collez et ne la relisez plus jamais, aucun effet d'ancrage neuroscientifique ne se produira. Tout comme le Roi Ashoka méditait chaque jour sur les inscriptions des piliers, l'essentiel réside dans la « répétition quotidienne du contrôle visuel et de la récitation ».",
+      "pt": "Se você escrever um cartão de valores de forma bonita, colá-lo e nunca mais lê-lo, nenhum efeito de ancoragem neurocientífica ocorrerá. Assim como o Rei Ashoka refletia sobre as inscrições dos pilares todos os dias, a chave reside na 'repetição diária de checar visualmente e recitar'.",
+      "id": "Jika Anda menulis kartu nilai dengan rapi, menempelkannya, dan tidak pernah membacanya lagi, tidak akan ada efek penambatan neurosains yang terjadi. Sebagaimana Raja Ashoka merenungkan prasasti pilar setiap hari, intinya terletak pada 'pengulangan harian dengan memeriksa secara visual dan membacanya'."
     },
     "steps": [
       {
         "name": {
-          "ko": "나만의 핵심 가치관 3가지 단어 선언"
+          "ko": "나만의 핵심 가치관 3가지 단어 선언",
+          "en": "Step 1: Declaring 3 Core Value Words of Your Own",
+          "ja": "ステップ1：自分だけの核心的価値観3つの言葉の宣言",
+          "zh": "步骤1：宣告专属的3个核心价值观词汇",
+          "es": "Paso 1: Declaración de 3 Palabras de Valores Fundamentales Propios",
+          "de": "Schritt 1: Deklaration von 3 eigenen Kernwert-Wörtern",
+          "fr": "Étape 1 : Déclaration de 3 Mots de Valeurs Fondamentales Personnelles",
+          "pt": "Passo 1: Declaração de 3 Palavras de Valores Fundamentais Próprios",
+          "id": "Langkah 1: Mendeklarasikan 3 Kata Nilai Inti Pribadi Anda"
         },
         "text": {
-          "ko": "자신이 일상에서 결코 타협하고 싶지 않은 최우선 인격적 가치(예: 정직, 지속성, 몰입) 3가지를 단어로 명확히 정의합니다."
+          "ko": "자신이 일상에서 결코 타협하고 싶지 않은 최우선 인격적 가치(예: 정직, 지속성, 몰입) 3가지를 단어로 명확히 정의합니다.",
+          "en": "Clearly define in words 3 top character values you never want to compromise on in daily life (e.g., Honesty, Consistency, Immersion).",
+          "ja": "自身が日常で決して妥協したくない最優先の品格的価値（例：正直、持続性、没頭）の3つを言葉で明確に定義します。",
+          "zh": "用词汇清晰定义自己在日常生活中绝不愿妥协的3个最高优先级的品格价值（例如：诚实、持续性、沉浸）。",
+          "es": "Defina claramente en palabras 3 valores de carácter prioritarios con los que nunca quiera comprometerse en la vida diaria (por ejemplo: Honestidad, Constancia, Inmersión).",
+          "de": "Definieren Sie 3 oberste Charakterwerte, bei denen Sie im Alltag niemals Kompromisse eingehen wollen, klar in Wörtern (z. B. Ehrlichkeit, Beständigkeit, Fokus).",
+          "fr": "Définissez clairement en mots 3 valeurs morales prioritaires sur lesquelles vous ne voulez jamais faire de compromis au quotidien (ex. : Honnêteté, Régularité, Immersion).",
+          "pt": "Defina claramente em palavras 3 valores de caráter prioritários dos quais você nunca deseja abrir mão no dia a dia (por exemplo: Honestidade, Constância, Imersão).",
+          "id": "Definisikan secara jelas dalam kata-kata 3 nilai karakter prioritas utama yang tidak ingin Anda kompromikan dalam kehidupan sehari-hari (contoh: Kejujuran, Konsistensi, Fokus)."
         }
       },
       {
         "name": {
-          "ko": "시각적 닻(Visual Anchor) 카드 작성 및 정면 배치"
+          "ko": "시각적 닻(Visual Anchor) 카드 작성 및 정면 배치",
+          "en": "Step 2: Creating a Visual Anchor Card and Placing It Front and Center",
+          "ja": "ステップ2：視覚的アンカー（Visual Anchor）カードの作成と正面配置",
+          "zh": "步骤2：撰写视觉锚（Visual Anchor）卡片并置于正前方",
+          "es": "Paso 2: Creación de una Tarjeta de Ancla Visual (Visual Anchor) y Colocación Frontal",
+          "de": "Schritt 2: Erstellung einer visuellen Ankerkarte (Visual Anchor) und sichtbare Platzierung",
+          "fr": "Étape 2 : Création d'une Carte d'Ancrage Visuel (Visual Anchor) et Placement en Face de Soi",
+          "pt": "Passo 2: Criação de um Cartão de Âncora Visual (Visual Anchor) e Posicionamento Frontal",
+          "id": "Langkah 2: Menulis Kartu Penambat Visual (Visual Anchor) dan Meletakkannya di Depan Mata"
         },
         "text": {
-          "ko": "선정한 3가지 가치관을 카드나 인덱스 노트에 적어 모니터 옆, 책상 앞, 혹은 스마트폰 잠금화면 등 매일 수십 번 시선이 닿는 곳에 붙여둡니다."
+          "ko": "선정한 3가지 가치관을 카드나 인덱스 노트에 적어 모니터 옆, 책상 앞, 혹은 스마트폰 잠금화면 등 매일 수십 번 시선이 닿는 곳에 붙여둡니다.",
+          "en": "Write down the selected 3 core values on a card or index note and place it where your eyes land dozens of times a day, such as next to your monitor, in front of your desk, or on your smartphone lock screen.",
+          "ja": "選定した3つの価値観をカードやインデックスノートに書き、モニターの横、デスクの前、あるいはスマートフォンのロック画面など、毎日数十回視線が届く場所に貼っておきます。",
+          "zh": "将选出的3个价值观写在卡片或便签纸上，贴在显示器旁、书桌前或手机锁屏界面等每天目光能触及数十次的地方。",
+          "es": "Escriba los 3 valores seleccionados en una tarjeta o nota índice y colóquela donde sus ojos se posen docenas de veces al día, como al lado del monitor, frente a su escritorio o en la pantalla de bloqueo de su teléfono inteligente.",
+          "de": "Schreiben Sie die ausgewählten 3 Kernwerte auf eine Karte oder eine Notizkarte und platzieren Sie sie dort, wo Ihr Blick täglich dutzende Male hinfällt, z. B. neben den Monitor, vor Ihren Schreibtisch oder auf den Sperrbildschirm Ihres Smartphones.",
+          "fr": "Inscrivez les 3 valeurs choisies sur une carte ou une fiche et placez-la là où votre regard se pose des dizaines de fois par jour, par exemple à côté de votre écran, devant votre bureau ou sur l'écran de verrouillage de votre smartphone.",
+          "pt": "Escreva os 3 valores selecionados em um cartão ou nota de índice e coloque-o onde seus olhos se voltem dezenas de vezes ao dia, como ao lado do monitor, em frente à sua mesa ou na tela de bloqueio do seu smartphone.",
+          "id": "Tuliskan 3 nilai inti yang dipilih pada kartu atau catatan indeks dan tempelkan di tempat yang terpapar pandangan Anda puluhan kali sehari, seperti di samping monitor, di depan meja, atau di layar kunci smartphone."
         }
       },
       {
         "name": {
-          "ko": "하루 마감 시 가치관 부합 여부 1분 낭송 및 점검"
+          "ko": "하루 마감 시 가치관 부합 여부 1분 낭송 및 점검",
+          "en": "Step 3: 1-Minute Recitation and Alignment Check at the End of the Day",
+          "ja": "ステップ3：一日の締めくくりにおける価値観の符合度1分間朗読および点検",
+          "zh": "步骤3：一日结束时朗读1分钟并复盘是否契合价值观",
+          "es": "Paso 3: Recitación de 1 Minuto y Comprobación de Alineación de Valores al Final del Día",
+          "de": "Schritt 3: 1-minütiges Aufsagen und Überprüfen der Werteübereinstimmung am Tagesende",
+          "fr": "Étape 3 : Récitation de 1 Minute et Contrôle de Conformité aux Valeurs en Fin de Journée",
+          "pt": "Passo 3: Recitação de 1 Minuto e Checagem de Alinhamento de Valores ao Final do Dia",
+          "id": "Langkah 3: Pembacaan 1 Menit dan Pemeriksaan Kesesuaian Nilai Saat Menutup Hari"
         },
         "text": {
-          "ko": "하루를 마감하며 카드의 가치관 단어를 입으로 나지막이 읽고, '오늘 나의 결정이 이 가치와 일치했는가?'를 1분간 성찰합니다."
+          "ko": "하루를 마감하며 카드의 가치관 단어를 입으로 나지막이 읽고, '오늘 나의 결정이 이 가치와 일치했는가?'를 1분간 성찰합니다.",
+          "en": "At the end of the day, softly recite the value words on the card aloud and reflect for 1 minute on the question: 'Did my decisions today align with these values?'",
+          "ja": "一日を締めくくる際、カードの価値観の言葉を口で低く読み上げ、「今日の私の決定はこの価値と一致していたか？」を1分間省察します。",
+          "zh": "在结束一天时，轻声念出卡片上的价值观词汇，并花1分钟反思：“今天我的决定是否与这些价值观保持了一致？”",
+          "es": "Al finalizar el día, recite suavemente en voz alta las palabras de valores de la tarjeta y reflexione durante 1 minuto sobre la pregunta: '¿Coincidieron mis decisiones de hoy con estos valores?'",
+          "de": "Sagen Sie am Ende des Tages die Wertewörter auf der Karte leise laut auf und denken Sie 1 Minute lang über die Frage nach: 'Stimmten meine heutigen Entscheidungen mit diesen Werten überein?'",
+          "fr": "En fin de journée, récitez à voix basse les mots de valeurs figurant sur la carte et méditez pendant 1 minute sur la question : « Mes décisions d'aujourd'hui ont-elles été conformes à ces valeurs ? »",
+          "pt": "Ao finalizar o dia, recite suavemente em voz alta as palavras de valores do cartão e reflita por 1 minuto sobre a pergunta: 'Minhas decisões de hoje estiveram alinhadas com estes valores?'",
+          "id": "Saat menutup hari, bacalah kata-kata nilai pada kartu dengan suara perlahan dan renungkan selama 1 menit pertanyaan: 'Apakah keputusan saya hari ini sudah selaras dengan nilai-nilai ini?'"
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "가치관 단어가 3개보다 많아도 괜찮나요?"
+          "ko": "가치관 단어가 3개보다 많아도 괜찮나요?",
+          "en": "Is it okay to have more than 3 value words?",
+          "ja": "価値観の言葉が3つより多くても大丈夫ですか？",
+          "zh": "价值观词汇多于3个也没关系吗？",
+          "es": "¿Está bien tener más de 3 palabras de valores?",
+          "de": "Ist es in Ordnung, mehr als 3 Wertewörter zu haben?",
+          "fr": "Est-il possible d'avoir plus de 3 mots de valeurs ?",
+          "pt": "Tem problema ter mais de 3 palavras de valores?",
+          "id": "Apakah boleh jika kata nilai inti lebih dari 3?"
         },
         "answer": {
-          "ko": "가급적 3개 이내로 제한하는 것을 강력히 권장합니다. 가치관 숫자가 5개 이상으로 늘어나면 작업 기억(Working Memory)에 부하가 걸려 닻 내리기 효과가 급격히 약화됩니다."
+          "ko": "가급적 3개 이내로 제한하는 것을 강력히 권장합니다. 가치관 숫자가 5개 이상으로 늘어나면 작업 기억(Working Memory)에 부하가 걸려 닻 내리기 효과가 급격히 약화됩니다.",
+          "en": "It is strongly recommended to limit it to 3 or fewer. If the number of values increases to 5 or more, working memory suffers from overload, rapidly weakening the anchoring effect.",
+          "ja": "できるだけ3つ以内に制限することを強く推奨します。価値観の数が5つ以上に増えると作業記憶（Working Memory）に負荷がかかり、アンカリング効果が急激に弱まります。",
+          "zh": "强烈建议将数量限制在3个以内。如果价值观的数量增加到5个以上，工作记忆（Working Memory）就会承载过重，从而急剧削弱锚定效应。",
+          "es": "Se recomienda encarecidamente limitarlo a 3 o menos. Si la cantidad de valores aumenta a 5 o más, la memoria de trabajo (Working Memory) se sobrecarga, debilitando rápidamente el efecto de anclaje.",
+          "de": "Es wird dringend empfohlen, sich auf maximal 3 zu beschränken. Wenn die Anzahl der Werte auf 5 oder mehr steigt, leidet das Arbeitsgedächtnis (Working Memory) unter Überlastung, was den Ankereffekt rasch schwächt.",
+          "fr": "Il est fortement recommandé de se limiter à 3 ou moins. Si le nombre de valeurs passe à 5 ou plus, la mémoire de travail (Working Memory) subit une surcharge, affaiblissant rapidement l'effet d'ancrage.",
+          "pt": "Recomenda-se fortemente limitar a 3 ou menos. Se o número de valores aumentar para 5 ou mais, a memória de trabalho (Working Memory) sofre com a sobrecarga, enfraquecendo rapidamente o efeito de ancoragem.",
+          "id": "Sangat direkomendasikan untuk membatasinya hingga 3 atau kurang. Jika jumlah nilai bertambah menjadi 5 atau lebih, memori kerja (Working Memory) akan mengalami beban berlebih, yang dengan cepat melemahkan efek penambatan."
         }
       },
       {
         "question": {
-          "ko": "시간이 지나 가치관 단어를 바꿔도 되나요?"
+          "ko": "시간이 지나 가치관 단어를 바꿔도 되나요?",
+          "en": "Can I change my value words over time?",
+          "ja": "時間が経ってから価値観の言葉を変更しても大丈夫ですか？",
+          "zh": "过了一段时间后可以更换价值观词汇吗？",
+          "es": "¿Puedo cambiar mis palabras de valores con el tiempo?",
+          "de": "Kann ich meine Wertewörter im Laufe der Zeit ändern?",
+          "fr": "Puis-je changer mes mots de valeurs au fil du temps ?",
+          "pt": "Posso mudar minhas palavras de valores com o tempo?",
+          "id": "Apakah saya boleh mengubah kata-kata nilai seiring berjalannya waktu?"
         },
         "answer": {
-          "ko": "네, 물론입니다! 분기별(3개월)로 자신의 삶의 단계와 목표 변화에 맞춰 가치관 카드를 재정의하고 갱신하는 것은 전전두엽에 새로운 자극을 주는 매우 좋은 습관입니다."
+          "ko": "네, 물론입니다! 분기별(3개월)로 자신의 삶의 단계와 목표 변화에 맞춰 가치관 카드를 재정의하고 갱신하는 것은 전전두엽에 새로운 자극을 주는 매우 좋은 습관입니다.",
+          "en": "Yes, absolutely! Redefining and updating your value card quarterly (every 3 months) in alignment with changes in your life stage and goals is a wonderful habit that provides fresh stimulation to the prefrontal cortex.",
+          "ja": "はい、もちろんです！四半期ごと（3ヶ月）に自身の人生の段階や目標の変化に合わせて価値観カードを再定義し、更新することは、前頭前野に新しい刺激を与える非常に良い習慣です。",
+          "zh": "当然可以！每季度（3个月）根据自己的人生阶段与目标变化重新定义并更新价值观卡片，是给前额叶带来新鲜刺激的极佳习惯。",
+          "es": "¡Sí, por supuesto! Redefinir y actualizar su tarjeta de valores trimestralmente (cada 3 meses) según los cambios en la etapa de su vida y sus metas es un hábito excelente que proporciona un estímulo fresco a la corteza prefrontal.",
+          "de": "Ja, absolut! Das vierteljährliche (alle 3 Monate) Neudefinieren und Aktualisieren Ihrer Wertekarte entsprechend den Veränderungen Ihrer Lebensphase und Ziele ist eine hervorragende Gewohnheit, die dem Präfrontalkortex neue Reize liefert.",
+          "fr": "Oui, absolument ! Redéfinir et mettre à jour votre carte de valeurs chaque trimestre (tous les 3 mois) en fonction de l'évolution de votre étape de vie et de vos objectifs est une excellente habitude qui fournit un nouveau stimulus au cortex préfrontal.",
+          "pt": "Sim, com certeza! Redefinir e atualizar seu cartão de valores trimestralmente (a cada 3 meses) de acordo com as mudanças na sua fase de vida e nos seus objetivos é um excelente hábito que fornece novos estímulos ao córtex pré-frontal.",
+          "id": "Ya, tentu saja! Mendefinisikan ulang dan memperbarui kartu nilai Anda secara triwulanan (setiap 3 bulan) sesuai dengan perubahan tahap kehidupan dan tujuan Anda adalah kebiasaan yang sangat baik yang memberikan stimulasi baru bagi korteks prefrontal."
         }
       }
     ]

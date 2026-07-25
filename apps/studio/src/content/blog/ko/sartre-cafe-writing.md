@@ -26,7 +26,7 @@ faqs:
 
 사르트르는 매일 아침 파리 카페 드 플로르의 지정 좌석에 앉아 은은한 백색 소음과 커피 향 속에서 집필했습니다. 적당한 사람들의 온기와 소음이 존재하는 환경이 그의 창작 각성도를 최상으로 유지해 주었습니다.
 
-오늘 BuildSelf에서는 사르트르의 카페 백색 소음 집필 루틴에 담긴 창의적 인지 자극 매커니즘을 소개합니다.
+오늘 포스트에서는 사르트르의 카페 백색 소음 집필 루틴에 담긴 창의적 인지 자극 매커니즘을 소개합니다.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

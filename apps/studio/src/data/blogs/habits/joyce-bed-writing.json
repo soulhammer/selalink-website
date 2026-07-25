@@ -1,70 +1,214 @@
 {
   "joyce-bed-writing": {
     "title": {
-      "ko": "침대에 누워 파란 색연필로 쓰다: 제임스 조이스의 에너지 보존 집필 루틴"
+      "ko": "침대에 누워 파란 색연필로 쓰다: 제임스 조이스의 에너지 보존 집필 루틴과 일차 시각 피질(V1) 피로 완화",
+      "en": "Writing in Bed with Blue Crayons: James Joyce's Energy Preservation Writing Routine and Primary Visual Cortex (V1) Fatigue Relief",
+      "ja": "ベッドに横たわり青い色鉛筆で書く：ジェイムズ・ジョイスのエネルギー保存執筆ルーティンと一次視覚皮質（V1）疲労緩和",
+      "zh": "斜卧床榻以蓝色彩铅挥毫：詹姆斯·乔伊斯的大能保留写作习惯与初级视觉皮层（V1）视疲劳纾解",
+      "es": "Escribir en la Cama con Lápices de Colores Azules: La Rutina de Escritura para la Conservación de Energía y Alivio de la Fatiga de la Corteza Visual Primaria (V1) de James Joyce",
+      "de": "Im Bett mit blauen Buntstiften schreiben: James Joyces Energiespar-Schreibroutine und Entlastung des primären visuellen Kortex (V1)",
+      "fr": "Écrire au lit avec des crayons de couleur bleus : La routine d'écriture d'économie d'énergie et de soulagement de la fatigue du cortex visuel primaire (V1) de James Joyce",
+      "pt": "Escrever na Cama com Lápis de Cor Azuis: A Rotina de Escrita para Conservação de Energia e Alívio da Fadiga do Córtex Visual Primário (V1) de James Joyce",
+      "id": "Menulis di Tempat Tidur dengan Pensil Warna Biru: Rutinitas Penulisan Penghematan Energi dan Meredakan Kelelahan Korteks Visual Primer (V1) James Joyce"
     },
     "description": {
-      "ko": "심각한 안질환 속에서도 침대에 누워 거대한 문학 걸작을 남긴 제임스 조이스의 루틴을 소개합니다. 감각 피로를 최소화하여 두뇌 에너지를 효율적으로 분배하는 과학을 다룹니다."
+      "ko": "심각한 안질환 속에서도 침대에 누워 거대한 문학 걸작을 남긴 제임스 조이스. 감각 피로를 최소화하고 신체 중력 부하를 줄여 전전두엽으로 두뇌 에너지를 효율적으로 분배하는 과학과 3단계 실천법을 다룹니다.",
+      "en": "Discover how James Joyce crafted literary masterpieces like Finnegans Wake while lying in bed despite severe ocular diseases. Explore the neuroscience of reducing gravitational muscle load, alleviating primary visual cortex (V1) fatigue, and optimizing prefrontal brain energy.",
+      "ja": "深刻な眼疾患の中でもベッドに横たわり巨大な文学的傑作を残したジェイムズ・ジョイス。感覚疲労を最小限に抑え身体の重力負荷を減らして前頭前野へと脳エネルギーを効率的に分配する科学と3段階実践法を解き明かします。",
+      "zh": "探索詹姆斯·乔伊斯如何在身患严重眼疾的极压绝境下，斜卧床榻缔造出《芬尼根的守灵夜》等文学巨著。揭示卸除躯体重力负荷、纾解初级视觉皮层（V1）疲劳与向前额叶皮层高效配置脑力的神经科学原理及3步骤指南。",
+      "es": "Descubra cómo James Joyce creó obras maestras literarias recostado en la cama a pesar de graves enfermedades oculares. Explore la neurociencia de reducir la carga muscular gravitacional, aliviar la fatiga de la corteza visual primaria (V1) y optimizar la energía prefrontal.",
+      "de": "Erfahren Sie, wie James Joyce trotz schwerer Augenleiden im Bett liegend literarische Meisterwerke schuf. Entdecken Sie die Neurowissenschaften zur Verringerung der Muskelbelastung, Entlastung des primären visuellen Kortex (V1) und Optimierung der Energie im präfrontalen Kortex.",
+      "fr": "Découvrez comment James Joyce a conçu des chefs-d'œuvre littéraires allongé dans son lit malgré de graves pathologies oculaires. Explorez la neuroscience de la réduction de la charge musculaire gravitationnelle, du soulagement de la fatigue du cortex visuel primaire (V1) et de l'optimisation de l'énergie préfrontale.",
+      "pt": "Descubra como James Joyce criou obras-primas literárias deitado na cama apesar de graves doenças oculares. Explore a neurociência da redução da carga muscular gravitacional, alívio da fadiga do córtex visual primário (V1) e otimização da energia pré-frontal.",
+      "id": "Pelajari bagaimana James Joyce menciptakan mahakarya sastra sambil berbaring di tempat tidur meskipun menderita penyakit mata parah. Temukan neurosains tentang mengurangi beban otot gravitasi, meredakan kelelahan korteks visual primer (V1), dan mengoptimalkan energi prefrontal."
     },
     "authority": {
-      "ko": "제임스 조이스 평전 및 리처드 엘만(Richard Ellmann) 전기 사료 『제임스 조이스(James Joyce)』 고증 & 인지신경과학(Cognitive Neuroscience) 및 안지각(Visual Perception) 연구"
+      "ko": "제임스 조이스 평전 및 리처드 엘만(Richard Ellmann) 전기 사료 『제임스 조이스(James Joyce)』 고증 & 인지신경과학(Cognitive Neuroscience) 및 안지각(Visual Perception) 연구",
+      "en": "Historical Verification from Richard Ellmann's *James Joyce* Biography, Joyce Archives & Cognitive Neuroscience and Visual Perception Research",
+      "ja": "ジェイムズ・ジョイス評伝およびリチャード・エルマン（Richard Ellmann）伝記史料『ジェイムズ・ジョイス（James Joyce）』考証＆認知神経科学（Cognitive Neuroscience）および視知覚（Visual Perception）研究",
+      "zh": "詹姆斯·乔伊斯传记与理查德·埃尔曼（Richard Ellmann）传记史料《詹姆斯·乔伊斯（James Joyce）》考证及认知神经科学（Cognitive Neuroscience）与视觉知觉（Visual Perception）研究",
+      "es": "Verificación Histórica de la Biografía de Richard Ellmann *James Joyce*, Archivos de Joyce e Investigación en Neurociencia Cognitiva y Percepción Visual",
+      "de": "Historische Überprüfung aus Richard Ellmanns Biografie *James Joyce*, Joyce-Archiven & Forschung der kognitiven Neurowissenschaften und visuellen Wahrnehmung",
+      "fr": "Vérification Historique issue de la biographie de Richard Ellmann *James Joyce*, des archives de Joyce & de la Recherche en Neurosciences Cognitives et Perception Visuelle",
+      "pt": "Verificação Histórica da Biografia de Richard Ellmann *James Joyce*, Arquivos de Joyce e Pesquisa em Neurociência Cognitiva e Percepção Visual",
+      "id": "Verifikasi Historis dari Biografi Richard Ellmann *James Joyce*, Arsip Joyce & Penelitian Neurosains Kognitif serta Persepsi Visual"
     },
     "intro": {
-      "ko": "\"문학이란 영혼의 한계를 시험하고, 육체의 한계를 극복하는 아름다운 투쟁이다.\" 🚶‍♂️\n\n의식의 흐름 기법을 통해 20세기 모더니즘 문학의 선구자로 자리 잡은 거장 제임스 조이스. 그는 평생 홍채염과 백내장, 녹내장 등 25차례가 넘는 안구 수술을 견뎌내며 극심한 안질환과 쇠약해진 체력 속에서 집필을 이어가야 했습니다.\n\n글을 쓰기조차 힘들었던 가혹한 조건 속에서 그가 선택한 전략은 하얀 코트를 입고 침대에 누워 커다란 파란색 색연필로 종이 위에 글을 적는 것이었습니다. 흰 코트는 부족한 빛을 원고지에 반사시키는 반사판 역할을 했고, 두껍고 진한 파란 색연필은 극도로 약해진 시력으로도 문자를 식별할 수 있게 도왔습니다. 몸과 감각의 피로를 최소화하고 지적 집중력을 극대화한 조이스의 에너지 절약 루틴을 살펴봅니다."
+      "ko": "\"문학이란 영혼의 한계를 시험하고, 육체의 한계를 극복하는 아름다운 투쟁이다.\" ✍️\n\n『율리시스(Ulysses)』와 『핀네간의 경야(Finnegans Wake)』를 저술하며 의식의 흐름(Stream of Consciousness) 기법으로 20세기 모더니즘 문학의 패러다임을 영구히 바꾼 아일랜드의 대문호 제임스 조이스(James Joyce, 1882–1941). 그는 평생 홍채염, 백내장, 녹내장 등 25차례가 넘는 혹독한 안구 수술을 견뎌내야 했으며, 인생의 후반기에는 문자를 제대로 식별하기조차 어려울 정도의 극심한 안질환과 쇠약해진 체력 속에서 집필을 이어가야 했습니다.\n\n몸을 일으켜 의자에 앉아 글을 쓰기조차 힘들었던 가혹한 물리적 조건 속에서 그가 선택한 독창적인 전략은, 침대에 편안히 누워 하얀색 코트를 입고 커다란 파란색 색연필로 대형 종이판 위에 글을 적어 내려가는 것이었습니다. 조이스가 착용한 하얀 코트는 실내 조명을 원고지 위로 반사시키는 '아날로그 반사판' 역할을 하여 시야를 밝혀주었고, 두껍고 진한 파란 색연필은 극도로 약해진 시력으로도 글자의 궤적을 손쉽게 식별할 수 있게 도왔습니다. 신체 중력 부하와 감각 피로를 최소화하고 절약된 두뇌 에너지를 오직 전전두엽의 창의적 사유에 집약시킨 조이스의 에너지 보존 집필 루틴은 그를 불멸의 걸작으로 이끈 핵심 비결이었습니다.\n\n오늘 포스트에서는 제임스 조이스의 '침대 누워 쓰기' 루틴에 담긴 뇌과학적 작동 원리와 현대인들이 육체적·시각적 피로를 줄여 지적 집중력을 극대화하는 3단계 실천법을 소개합니다.",
+      "en": "\"Literature is a beautiful struggle to test the limits of the soul and overcome the boundaries of the body.\" ✍️\n\nJames Joyce (1882–1941) was the monumental Irish author whose masterworks *Ulysses* and *Finnegans Wake* revolutionized 20th-century modernist literature through the stream of consciousness technique. Throughout his adult life, Joyce endured catastrophic eye afflictions—including severe iritis, cataracts, and glaucoma—undergoing over 25 agonizing ocular surgeries. During the composition of *Finnegans Wake*, he was legally blind and physically frail.\n\nFaced with immense physical suffering, Joyce engineered an ingenious ergonomic adaptation documented in Richard Ellmann's definitive biography. He wrote while lying flat on his stomach in bed, wearing a bright white coat and wielding oversized blue crayons on large cardboard sheets. The white coat acted as an analog light reflector, bouncing ambient room light onto his manuscript paper without harsh glare, while the thick blue crayon provided high contrast that his failing retinas could easily track. By stripping away gravitational muscle strain and visual strain, Joyce directed 100% of his preserved prefrontal cognitive bandwidth into linguistic creation.\n\nIn today's post, we unpack the cognitive neuroscience behind James Joyce's 'bed writing and blue crayon' routine and present a modern 3-step action guide to minimize sensory fatigue and optimize mental performance.",
+      "ja": "「文学とは魂の限界を試み、肉体の限界を克服する美しい闘いである。」 ✍️\n\n『ユリシーズ（Ulysses）』や『フィネガンズ・ウェイク（Finnegans Wake）』を執筆し、意識の流れ（Stream of Consciousness）技法で20世紀モダニズム文学のパラダイムを永久に変えたアイルランドの大文豪ジェイムズ・ジョイス（James Joyce、1882–1941）。彼は生涯にわたり虹彩炎、白内障、緑内障など25回を超える過酷な眼科手術に耐えなければならず、人生の後半には文字を適切に識別することすら困難なほどの極度な眼疾患と衰弱した体力の中で執筆を続けなければなりませんでした。\n\n体を起こして椅子に座って文章を書くことすら難しかった過酷な物理的条件の中で彼が選択した独創的な戦略は、ベッドに快適に横たわり白のコートを着て大きな青い色鉛筆で大型の紙の上に文字を書き下ろしていくことでした。ジョイスが着用した白いコートは室内照明を原稿用紙の上へと反射させる「アナログ反射板」の役割を果たして視野を明るくし、太く濃い青の色鉛筆は極度に弱まった視力でも文字の軌跡を容易に識別できるよう助けました。身体の重力負荷と感覚疲労を最小限に抑え、節約された脳エネルギーをただ前頭前野の創造的思索に集約させたジョイスのエネルギー保存執筆ルーティンは、彼を不滅の傑作へと導いた核心的秘密でした。\n\n本日の記事では、ジェイムズ・ジョイスの「ベッド横たわり書き」ルーティンに込められた脳科学的作動原理と、現代人が身体的・視覚的疲労を減らして知的集中力を極大化する3段階の実践法を紹介します。",
+      "zh": "“文学，乃是一场拷问灵魂极限、克服躯体壁垒的壮美抗争。” ✍️\n\n凭《尤利西斯（Ulysses）》与《芬尼根的守灵夜（Finnegans Wake）》问世、借由“意识流（Stream of Consciousness）”技法永久重塑20世纪现代主义文学范式的爱尔兰文学巨擘——詹姆斯·乔伊斯（James Joyce，1882–1941）。在其成年后的大半生涯中，他被迫忍受着虹膜炎、白内障与青光眼等惨烈的眼疾摧残，历经了超25次痛苦不堪的眼部手术。在创作《芬尼根的守灵夜》期间，他几乎处于法律意义上的失明与肉体极度虚弱状态。\n\n在难以挺直躯体静坐于书桌前的严酷物理局限下，乔伊斯开创了一套记录于理查德·埃尔曼（Richard Ellmann）权威传记中的绝妙人体工学适应习惯：他斜卧于床榻之上，身着一袭洁白的长袍外套，手持粗大的蓝色彩铅在大号卡纸上挥毫疾书。白色的外套扮演着“模拟反光板”的角色，将室内环境光线柔和地漫反射至稿纸上而绝无刺眼眩光，而粗浓的蓝色彩铅则赋予了极佳的对比度，使其受损的视网膜得以精准追踪笔迹。通过彻底切除躯体重力肌肉负担与视觉紧绷，乔伊斯得以将100%保留下来的前额叶皮层认知带宽倾注于语言艺术缔造中。\n\n在今天的文章中，我们将深度解构詹姆斯·乔伊斯“卧床写作与蓝色彩铅”习惯背后的神经科学运作机制，并分享一套助现代人极小化感官疲劳、拉满心智专注力的3步骤实践指南。",
+      "es": "\"La literatura es una hermosa lucha para probar los límites del alma y superar las barreras del cuerpo.\" ✍️\n\nJames Joyce (1882–1941) fue el monumental autor irlandés cuyas obras maestras *Ulises* y *Finnegans Wake* revolucionaron la literatura modernista del siglo XX mediante la técnica del flujo de conciencia. A lo largo de su vida adulta, Joyce sufrió graves afecciones oculares —como iritis, cataratas y glaucoma— enfrentando más de 25 cirugías oculares. Durante la redacción de *Finnegans Wake*, estaba prácticamente ciego.\n\nAnte estas condiciones físicas extremas, Joyce ideó una adaptación ergonómica genial registrada en la biografía de Richard Ellmann. Escribía recostado en la cama, vistiendo una bata blanca y usando lápices de colores azules sobre grandes hojas de cartón. La bata blanca actuaba como un reflector analógico que proyectaba luz sobre el papel sin deslumbrar, mientras que el lápiz azul proporcionaba un alto contraste visual. Al eliminar la tensión muscular gravitacional y la fatiga ocular, canalizó el 100% de su energía prefrontal a la creación literaria.\n\nEn la publicación de hoy, analizamos la neurociencia cognitiva detrás de la rutina de 'escritura en cama y lápiz azul' de James Joyce y presentamos una guía práctica de 3 pasos para minimizar la fatiga sensorial.",
+      "de": "\"Literatur ist ein schöner Kampf, um die Grenzen der Seele zu testen und die Fesseln des Körpers zu überwinden.\" ✍️\n\nJames Joyce (1882–1941) war der irische Schriftsteller, dessen Meisterwerke *Ulysses* und *Finnegans Wake* die modernistische Literatur des 20. Jahrhunderts durch die Technik des Bewusstseinsstroms revolutionierten. Zeit seines Erwachsenenlebens litt Joyce an schweren Augenerkrankungen – darunter Iritis, Grauer Star und Grüner Star – und musste sich über 25 Operationen unterziehen. Während er an *Finnegans Wake* arbeitete, war er nahezu blind.\n\nUnter diesen erschwerten Bedingungen entwickelte Joyce eine erstaunliche Methode, die in Richard Ellmanns Biografie dokumentiert ist. Er schrieb im Bett liegend, trug einen weißen Mantel und nutzte dicke blaue Buntstifte auf großen Papierbögen. Der weiße Mantel diente als Lichtreflektor, der das Raumlicht blendfrei auf das Papier warf, während der dicke blaue Buntstift einen hohen Kontrast bot, den seine geschädigten Augen erkennen konnten. Indem er Muskelspannung und Augenbelastung minimierte, bündelte er seine geistige Energie im präfrontalen Kortex.\n\nIm heutigen Beitrag untersuchen wir die Neurowissenschaften hinter James Joyces 'Bett-Schreibroutine' und bieten eine 3-Schritte-Anleitung zur Verringerung sensorischer Erschöpfung.",
+      "fr": "« La littérature est un beau combat pour tester les limites de l'âme et surmonter les barrières du corps. » ✍️\n\nJames Joyce (1882–1941) fut le célèbre auteur irlandais dont les chefs-d'œuvre *Ulysse* et *Finnegans Wake* ont révolutionné la littérature moderniste du XXe siècle par la technique du courant de conscience. Tout au long de sa vie, Joyce souffrit de graves affections oculaires — dont l'iritis, la cataracte et le glaucome —, subissant plus de 25 interventions chirurgicales. Pendant la rédaction de *Finnegans Wake*, il était presque aveugle.\n\nFace a ces contraintes physiques, Joyce conçut una adaptation ergonomique ingénieuse rapportée dans la biographie de Richard Ellmann. Il écrivait allongé dans son lit, vêtu d'un manteau blanc et maniant de gros crayons de couleur bleus sur de larges feuilles. Le manteau blanc agissait comme un réflecteur de lumière naturel projetant la clarté sur le papier sans éblouissement, tandis que le crayon bleu offrait un contraste élevé facilement déchiffrable par ses yeux. En éliminant la fatigue musculaire et oculaire, il préserva toute sa bande passante préfrontale.\n\nDans cet article, nous analysons la neuroscience cognitive sous-jacente à la routine d'« écriture au lit et crayon bleu » de James Joyce et proposons un guide en 3 étapes pour réduire la fatigue sensorielle.",
+      "pt": "\"A literatura é uma bela luta para testar os limites da alma e superar as barreiras do corpo.\" ✍️\n\nJames Joyce (1882–1941) foi o monumental autor irlandês cujas obras-primas *Ulisses* e *Finnegans Wake* revolucionaram a literatura modernista do século XX por meio do fluxo de consciência. Ao longo da vida adulta, Joyce sofreu graves afecções oculares — incluindo irite, catarata e glaucoma —, enfrentando mais de 25 cirurgias oculares. Durante a escrita de *Finnegans Wake*, estava praticamente cego.\n\nDiante dessas condições extremas, Joyce desenvolveu uma adaptação ergonômica genial registrada na biografia de Richard Ellmann. Ele escrevia deitado na cama, vestindo um casaco branco e usando lápis de cor azuis em grandes folhas de papel. O casaco branco funcionava como um refletor analógico de luz sobre o papel, enquanto o lápis azul fornecia alto contraste para sua visão debilitada. Ao eliminar a tensão muscular gravitacional e a fadiga ocular, canalizou 100% da sua capacidade pré-frontal para a criação.\n\nNo artigo de hoje, analisamos a neurociência cognitiva por trás da rotina de 'escrita na cama com lápis azul' de James Joyce e apresentamos um guia prático de 3 passos para minimizar a fadiga sensorial.",
+      "id": "\"Sastra adalah perjuangan indah untuk menguji batas-batas jiwa dan mengatasi hambatan tubuh.\" ✍️\n\nJames Joyce (1882–1941) adalah penulis Irlandia monumental yang mahakaryanya *Ulysses* dan *Finnegans Wake* merevolusi sastra modernis abad ke-20 melalui teknik aliran kesadaran (stream of consciousness). Sepanjang kehidupan dewasanya, Joyce menderita penyakit mata yang parah—termasuk iritis, katarak, dan glaukoma—menjalani lebih dari 25 operasi mata. Saat merangkai *Finnegans Wake*, ia hampir buta secara hukum.\n\nMenghadapi penderitaan fisik yang berat, Joyce merancang adaptasi ergonomis yang jenius seperti yang didokumentasikan dalam biografi Richard Ellmann. Ia menulis sambil berbaring di tempat tidur, mengenakan jubah putih dan menggunakan pensil warna biru berukuran besar di atas kertas karton besar. Jubah putih berfungsi sebagai pemantul cahaya analog, memantulkan cahaya ruangan ke kertas naskahnya tanpa silau, sementara pensil warna biru tebal memberikan kontras tinggi. Dengan menghilangkan ketegangan otot dan kelelahan visual, Joyce mengarahkan 100% energi kognitif prefrontal yang tersisa ke dalam kreasi berbahasa.\n\nDalam postingan hari ini, kami menganalisis neurosains kognitif di balik rutinitas 'menulis di tempat tidur dan pensil warna biru' James Joyce dan menyajikan panduan praktis 3 langkah."
     },
     "whyTitle": {
-      "ko": "신체 중력 부하 절감과 일차 시각 피질(V1) 감각 피로 완화"
+      "ko": "신체 중력 부하 절감과 일차 시각 피질(V1) 감각 피로 완화",
+      "en": "Reducing Gravitational Muscle Load and Alleviating Primary Visual Cortex (V1) Fatigue",
+      "ja": "身体の重力負荷軽減と一次視覚皮質（V1）感覚疲労の緩和",
+      "zh": "卸除躯体重力负荷与纾解初级视觉皮层（V1）感官疲劳机制",
+      "es": "Reducción de la Carga Muscular Gravitacional y Alivio de la Fatiga de la Corteza Visual Primaria (V1)",
+      "de": "Verringerung der Muskelbelastung und Entlastung des primären visuellen Kortex (V1)",
+      "fr": "Réduction de la charge musculaire gravitationnelle et soulagement de la fatigue du cortex visuel primaire (V1)",
+      "pt": "Redução da Carga Muscular Gravitacional e Alívio da Fadiga do Córtex Visual Primário (V1)",
+      "id": "Pengurangan Beban Otot Gravitasi dan Meredakan Kelelahan Korteks Visual Primer (V1)"
     },
     "whyDesc": {
-      "ko": "척추를 수평으로 편안하게 눕히거나 기댄 자세는 전신의 중력 부하를 줄이고 심박수를 안정시켜 신체적인 근육 에너지 소모를 최소화합니다. 이로 인해 심장으로부터 공급되는 산소와 혈류가 뇌의 <strong>전전두엽(Prefrontal Cortex)</strong> 사고 영역으로 집중될 수 있습니다.\n\n또한 백색 광원 아래에서 대비도가 높은 두꺼운 파란색 필기도구를 사용하면 뇌의 <strong>일차 시각 피질(V1, Primary Visual Cortex)</strong>의 가독 식별 처리가 원활해져, 신경학적인 <strong>시각 피로(Visual Fatigue)</strong>를 획기적으로 줄여줍니다."
+      "ko": "척추를 수평으로 편안하게 눕히거나 기댄 자세는 전신의 중력 부하를 줄이고 심박수를 안정시켜 신체적인 근육 에너지 소모를 최소화합니다. 이로 인해 심장으로부터 공급되는 산소와 혈류가 뇌의 <strong>전전두엽(Prefrontal Cortex)</strong> 사고 영역으로 집중될 수 있습니다. 또한 백색 광원 아래에서 대비도가 높은 두꺼운 파란색 필기도구를 사용하면 뇌의 <strong>일차 시각 피질(V1, Primary Visual Cortex)</strong>의 가독 식별 처리가 원활해져, 신경학적인 <strong>시각 피질 피로(Visual Fatigue)</strong>를 획기적으로 줄여줍니다.",
+      "en": "Lying flat or reclining comfortably reduces postural muscle tension and stabilizes heart rate, minimizing physical energy expenditure. This allows oxygenated blood flow to concentrate heavily inside executive processing centers of the <strong>Prefrontal Cortex</strong>. Furthermore, utilizing thick, high-contrast blue writing tools under reflected light reduces decoding strain in the brain's <strong>Primary Visual Cortex (V1)</strong>, drastically mitigating neurological <strong>Visual Fatigue</strong> and eye strain.",
+      "ja": "脊椎を水平に快適に横たえたり寄りかかる姿勢は、全身の重力負荷を減らし心拍数を安定させて身体的な筋肉エネルギー消耗を最小限に抑えます。これにより、心臓から供給される酸素と血流が脳の<strong>前頭前野（Prefrontal Cortex）</strong>思考領域へと集中できるようになります。また、白色光源の下でコントラストの高い太い青色の筆記具を使用すると、脳の<strong>一次視覚皮質（V1, Primary Visual Cortex）</strong>の可読識別処理が円滑になり、神経学的な<strong>視覚疲労（Visual Fatigue）</strong>を画期的に減らしてくれます。",
+      "zh": "将脊柱平素从容舒展地斜卧或倚靠，能大幅卸除全闪躯体的重力负荷并沉淀心率，将肌肉能量挥霍降至极低。得益于此，心脏与循环系统输送的充氧血流得以强力集中于大脑<strong>前额叶皮层（Prefrontal Cortex）</strong>的高阶思维区域。此外，在反射光源下使用具备极高对比度的粗浓蓝色书写工具，能使大脑<strong>初级视觉皮层（V1，Primary Visual Cortex）</strong>的字迹解译辨识流程极为顺畅，进而跨越式降解神经层面的<strong>视疲劳（Visual Fatigue）</strong>与眼部紧绷。",
+      "es": "Recostarse o reclinarse reduce la tensión muscular postural y estabiliza el ritmo cardíaco, minimizando el gasto de energía física. Esto permite que el flujo sanguíneo oxigenado se concentre en la <strong>Corteza Prefrontal</strong>. Además, usar herramientas de escritura azules gruesas y de alto contraste bajo luz proyectada reduce el esfuerzo en la <strong>Corteza Visual Primaria (V1)</strong>, disminuyendo la <strong>Fatiga Visual</strong> neurológica.",
+      "de": "Das flache Liegen oder Anlehnen senkt die Muskelspannung und stabilisiert den Herzschlag, was den körperlichen Energieverbrauch minimiert. Dadurch kann die Sauerstoffversorgung im <strong>präfrontalen Kortex</strong> gebündelt werden. Zudem erleichtert die Nutzung dicker, kontrastreicher blauer Stifte die Verarbeitung im <strong>primären visuellen Kortex (V1)</strong> und reduziert kognitive <strong>Sehbelastung (Visual Fatigue)</strong>.",
+      "fr": "S'allonger ou s'adosser confortablement réduit la tension musculaire et stabilise le rythme cardiaque, minimisant la dépense d'énergie physique. Cela permet d'orienter le flux sanguin oxygéné vers le <strong>Cortex Préfrontal</strong>. De plus, utiliser des feutres bleus larges à fort contraste sous une lumière indirecte facilite le traitement dans le <strong>Cortex Visuel Primaire (V1)</strong>, réduisant la <strong>Fatigue Visuelle</strong>.",
+      "pt": "Deitar-se ou reclinar-se confortavelmente reduz a tensão muscular e estabiliza o ritmo cardíaco, minimizando o gasto de energia física. Isso permite que o fluxo sanguíneo oxigenado se concentre no <strong>Córtex Pré-frontal</strong>. Além disso, usar instrumentos de escrita azuis grossos e de alto contraste sob luz refletida reduz o esforço no <strong>Córtex Visual Primário (V1)</strong>, diminuindo a <strong>Fadiga Visual</strong>.",
+      "id": "Berbaring datar atau bersandar dengan nyaman mengurangi ketegangan otot postural dan menstabilkan detak jantung, meminimalkan pengeluaran energi fisik. Ini memungkinkan aliran darah beroksigen berkonsentrasi tinggi di dalam pusat pemrosesan eksekutif <strong>Korteks Prefrontal</strong>. Selain itu, menggunakan alat tulis biru tebal berkontras tinggi mengurangi beban pemrosesan di <strong>Korteks Visual Primer (V1)</strong>."
     },
     "cautionTitle": {
-      "ko": "신체 피로 신호를 수용하고 시각적 대비를 높이는 실천 수칙"
+      "ko": "신체 피로 신호를 수용하고 시각적 대비를 높이는 실천 수칙",
+      "en": "Caution: Embracing Physical Fatigue Signals and Maximizing Visual Contrast",
+      "ja": "注意事項：身体の疲労信号を受容し視覚的コントラストを高めるルール",
+      "zh": "注意事项：接纳躯体疲劳信号，强化视觉对比度指南",
+      "es": "Precaución: Acepte las Señales de Fatiga Física y Aumente el Contraste Visual",
+      "de": "Vorsichtsmaßnahme: Signale körperlicher Ermüdung annehmen und visuellen Kontrast erhöhen",
+      "fr": "Mise en garde : Écouter les signaux de fatigue physique et amplifier le contraste visuel",
+      "pt": "Precaução: Acolha os Sinais de Fadiga Física e Aumente o Contraste Visual",
+      "id": "Perhatian: Menerima Sinyal Kelelahan Fisik dan Memaksimalkan Kontras Visual"
     },
     "cautionDesc": {
-      "ko": "제임스 조이스에게 침대에서의 집필은 신체적 한계를 극복하기 위한 영리한 생존 전략이었습니다. 육체와 안구 피로가 극에 달했을 때 억지로 딱딱한 의자에 앉아 머리를 쥐어짜지 마세요. 등에 쿠션을 대고 자세를 낮춘 채, 두꺼운 펜과 무지 노트로 편안하게 아이디어를 끄적여보세요."
+      "ko": "제임스 조이스에게 침대에서의 집필은 신체적 한계를 극복하기 위한 영리한 생존 전략이었습니다. 육체와 안구 피로가 극에 달했을 때 억지로 딱딱한 의자에 앉아 머리를 쥐어짜지 마세요. 등에 쿠션을 대고 자세를 낮춘 채, 두꺼운 펜과 무지 노트로 편안하게 아이디어를 끄적여보세요.",
+      "en": "For James Joyce, writing in bed was a brilliant survival adaptation to overcome physical constraints. When physical or ocular exhaustion peaks, avoid forcing yourself to sit rigidly in a hard chair. Recline with supportive back cushions and casually sketch thoughts using thick blue markers and plain unlined paper.",
+      "ja": "ジェイムズ・ジョイスにとってベッドでの執筆は、身体的限界を克服するための賢明な生存戦略でした。肉体と眼球の疲労が極に達した時、無理に硬い椅子に座って頭を絞り出さないでください。背中にクッションを当てて姿勢を低く保ち、太いペンと無地のノートで快適にアイデアを書き留めてみてください。",
+      "zh": "对于詹姆斯·乔伊斯而言，卧床写作乃是攻克躯体极限极聪慧的生存适应策略。当肉体与眼球疲惫攀至巅峰之际，切勿强行死磕于硬质座椅上绞尽脑汁。可在背后垫上靠枕低卧躯体，手持粗管彩笔与无格笔记本从容勾勒灵感。",
+      "es": "Para James Joyce, escribir en la cama fue una adaptación brillante para superar limitaciones físicas. Cuando el agotamiento físico u ocular sea alto, evite forzarse a estar sentado en una silla dura. Reclínese con cojines de apoyo y anote ideas de forma relajada con marcadores gruesos en papel liso.",
+      "de": "Für James Joyce war das Schreiben im Bett eine Anpassung an seine körperlichen Grenzen. Wenn körperliche oder visuelle Erschöpfung ihren Höhepunkt erreichen, quälen Sie sich nicht auf einem harten Stuhl. Lehnen Sie sich mit Kissen zurück und skizzieren Sie Ihre Gedanken mit dicken Stiften auf weißem Papier.",
+      "fr": "Pour James Joyce, écrire au lit constituait una adaptation remarquable pour surmonter ses limites physiques. Quand la fatigue physique ou oculaire est forte, évitez de vous forcer a rester assis sur una chaise dure. Adossez-vous a des coussins et notez vos idées avec de larges feutres sur du papier vierge.",
+      "pt": "Para James Joyce, escrever na cama foi uma adaptação brilhante para superar limitações físicas. Quando o esgotamento físico ou ocular for elevado, evite forçar-se a sentar em uma cadeira dura. Recline-se com almofadas de apoio e anote ideias de forma relaxada com marcadores grossos em papel liso.",
+      "id": "Bagi James Joyce, menulis di tempat tidur adalah adaptasi bertahan hidup yang cemerlang untuk mengatasi keterbatasan fisik. Saat kelelahan fisik atau visual mencapai puncaknya, hindari memaksakan diri Anda untuk duduk secara kaku di kursi yang keras. Bersandarlah dengan bantal penopang dan sketsa pemikiran secara santai."
     },
     "steps": [
       {
         "name": {
-          "ko": "1단계: 신체 근 긴장도를 최소화하는 수평·경사 자세 구축"
+          "ko": "1단계: 신체 근 긴장도를 최소화하는 수평·경사 자세 구축",
+          "en": "Step 1: Establishing a Reclined Ergonomic Position to Minimize Muscle Tension",
+          "ja": "ステップ1：身体の筋緊張度を最小化する水平・傾斜姿勢の構築",
+          "zh": "步骤1：搭建极小化肌张力的低卧/斜靠人体工学姿态",
+          "es": "Paso 1: Configurar una Posición Reclinada para Minimizar la Tensión Muscular",
+          "de": "Schritt 1: Einrichten einer liegenden Haltung zur Verringerung der Muskelspannung",
+          "fr": "Étape 1 : Installation d'una position allongée réduisant la tension musculaire",
+          "pt": "Passo 1: Configurar uma Posição Reclinada para Minimizar a Tensão Muscular",
+          "id": "Langkah 1: Menyiapkan Posisi Bersandar Ergonomis untuk Meminimalkan Ketegangan Otot"
         },
         "text": {
-          "ko": "극도로 피로할 때 목과 척추를 완벽하게 받쳐주는 쿠션이나 매트리스를 활용하여 편안한 자세를 취합니다. 몸의 근육 에너지를 덜어내 지적 작업에만 뇌 용량을 집약합니다."
+          "ko": "극도로 피로할 때 목과 척추를 완벽하게 받쳐주는 쿠션이나 매트리스를 활용하여 편안한 자세를 취합니다. 몸의 근육 에너지를 덜어내 지적 작업에만 뇌 용량을 집약합니다.",
+          "en": "When experiencing severe fatigue, position supportive cushions or a mattress to align your neck and spine comfortably. Offload muscular energy expenditure to reserve cognitive capacity strictly for executive tasks.",
+          "ja": "極度に疲労している時、首と脊椎を完璧に支えるクッションやマットレスを活用して快適な姿勢をとります。身体の筋肉エネルギーを減らし、知的作業にのみ脳容量を集約させます。",
+          "zh": "在感到剧烈疲惫时，借助能完美支撑颈椎与脊柱的靠垫或床垫切入舒适体位。剥离躯体肌肉能量损耗，将大脑容量完全集约注入于智力攻坚中。",
+          "es": "Cuando sienta fatiga extrema, coloque cojines o un colchón para apoyar su cuello y columna. Reduzca el gasto energético muscular para reservar capacidad mental a tareas intelectuales.",
+          "de": "Nutzen Sie bei extremer Müdigkeit Kissen oder eine Liege, um Nacken und Wirbelsäule abzustützen. Beseitigen Sie körperliche Muskelarbeit, um die Kapazität für kognitive Aufgaben freizuhalten.",
+          "fr": "En cas de fatigue intense, installez des coussins pour soutenir votre nuque et votre colonne. Réduisez la dépense énergétique musculaire pour réserver votre capacité cognitive aux tâches intellectuelles.",
+          "pt": "Quando sentir fadiga extrema, use almofadas para apoiar o pescoço e a coluna. Reduza o gasto de energia muscular para reservar capacidade mental exclusivamente para tarefas intelectuais.",
+          "id": "Saat mengalami kelelahan parah, posisikan bantal penopang atau kasur untuk menyangga leher dan tulang belakang Anda dengan nyaman. Alihkan pengeluaran energi otot untuk mencadangkan kapasitas kognitif."
         }
       },
       {
         "name": {
-          "ko": "2단계: 시각적 노이즈를 줄이는 고대비 필기 도구 세팅"
+          "ko": "2단계: 시각적 노이즈를 줄이는 고대비 필기 도구 세팅",
+          "en": "Step 2: Preparing High-Contrast Writing Instruments to Eliminate Visual Noise",
+          "ja": "ステップ2：視覚的ノイズを減らす高コントラスト筆記具のセットアップ",
+          "zh": "步骤2：配置极低视觉噪点的高对比度书写工具",
+          "es": "Paso 2: Preparación de Instrumentos de Escritura de Alto Contraste",
+          "de": "Schritt 2: Bereitstellen von kontrastreichen Stiften zur Ablenkungsreduzierung",
+          "fr": "Étape 2 : Préparation d'instruments d'écriture à fort contraste",
+          "pt": "Passo 2: Preparação de Instrumentos de Escrita de Alto Contraste",
+          "id": "Langkah 2: Menyiapkan Alat Tulis Berkontras Tinggi untuk Menghilangkan Kebisingan Visual"
         },
         "text": {
-          "ko": "흰 무지 노트와 진한 네이비/블루 계열의 부드러운 두꺼운 중성펜이나 싸인펜을 준비합니다. 정교한 시각 초점 조절이 필요하여 안구 피로를 유발하는 디지털 화면 사용을 자제합니다."
+          "ko": "흰 무지 노트와 진한 네이비/블루 계열의 부드러운 두꺼운 중성펜이나 싸인펜을 준비합니다. 정교한 시각 초점 조절이 필요하여 안구 피로를 유발하는 디지털 화면 사용을 자제합니다.",
+          "en": "Select plain unlined paper paired with a thick, smooth navy or dark blue marker. Avoid blue-light digital screens that demand intense accommodation focus and accelerate ocular fatigue.",
+          "ja": "白い無地のノートと濃いネイビー/ブルー系の柔らかく太い水性ペンやサインペンを用意します。精緻な視覚焦影調節が必要で眼球疲労を誘発するデジタル画面の使用を自制します。",
+          "zh": "选择白色无格笔记本，搭配笔触顺滑的深蓝/藏青色粗管水性笔或马克笔。避开需要精细视觉变焦、极易引发眼球疲劳的数字液晶屏幕。",
+          "es": "Seleccione papel liso blanco junto a un rotulador o bolígrafo grueso de color azul oscuro. Evite las pantallas digitales que requieren un enfoque continuo y aceleran la fatiga ocular.",
+          "de": "Wählen Sie weißes unliniertes Papier und einen dicken, dunklen blauen Stift. Vermeiden Sie digitale Bildschirme, die das Auge belasten und Sehermüdung fördern.",
+          "fr": "Choisissez du papier blanc vierge et un feutre large bleu foncé à glisse fluide. Évitez les écrans numériques qui sollicitent l'accommodation visuelle et accélèrent la fatigue oculaire.",
+          "pt": "Selecione papel liso branco junto a um marcador ou caneta grossa azul-escuro. Evite telas digitais que exigem foco contínuo e aceleram a fadiga ocular.",
+          "id": "Pilih kertas putih polos yang dipadukan dengan spidol atau pena tebal berwarna biru tua yang halus. Hindari layar digital yang membutuhkan fokus intensif dan mempercepat kelelahan visual."
         }
       },
       {
         "name": {
-          "ko": "3단계: 형식에 구애받지 않는 자율적 기호 및 키워드 기록"
+          "ko": "3단계: 형식에 구애받지 않는 자율적 기호 및 키워드 기록",
+          "en": "Step 3: Unstructured Freewriting of Keyphrase Diagrams and Conceptual Clues",
+          "ja": "ステップ3：形式に囚われない自律的記号およびキーワードの記録",
+          "zh": "步骤3：开展打破形式束缚的自由图解与关键词手记",
+          "es": "Paso 3: Escritura Libre de Símbolos y Palabras Clave Sin Restricciones",
+          "de": "Schritt 3: Freies Aufschreiben von Stichwörtern und Symbolen ohne Formzwang",
+          "fr": "Étape 3 : Prise de note libre de mots-clés et schémas sans contrainte de forme",
+          "pt": "Passo 3: Escrita Livre de Símbolos e Palavras-Chave Sem Restrições",
+          "id": "Langkah 3: Menulis Bebas Kata Kunci dan Simbol Tanpa Terikat Format"
         },
         "text": {
-          "ko": "글씨 모양이나 맞춤법에 얽매이지 않고 하루를 정리하는 키워드나 아이디어를 낙서하듯 자유롭게 기록하여 머릿속을 환기하고 생각을 정돈합니다."
+          "ko": "글씨 모양이나 맞춤법에 얽매이지 않고 하루를 정리하는 키워드나 아이디어를 낙서하듯 자유롭게 기록하여 머릿속을 환기하고 생각을 정돈합니다.",
+          "en": "Disregarding neat penmanship or formal grammar, freely scribble raw keyphrases, mind maps, or creative sparks onto the paper to clear mental clutter and organize executive thoughts.",
+          "ja": "文字の形や正しい綴りに拘泥されず、1日を整理するキーワードやアイデアを落書きするように自由に記録し、頭の中を換気して思考を整えます。",
+          "zh": "无需纠结字迹美观或语法规制，如随手涂鸦般自由描画整理总结全天的关键词或创意火花，清扫大脑杂音，理顺核心思路。",
+          "es": "Sin preocuparse por la caligrafía o la gramática, garabatee libremente palabras clave, esquemas o ideas en el papel para despejar el desorden mental y organizar sus pensamientos.",
+          "de": "Schreiben Sie ohne Rücksicht auf Schriftbild oder Grammatik Stichwörter, Skizzen oder Ideen frei auf das Papier, um den Kopf zu klären und Gedanken zu ordnen.",
+          "fr": "Sans vous soucier de l'écriture ou de la grammaire, griffonnez librement des mots-clés, des schémas ou des idées sur le papier pour clarifier votre esprit et structurer vos pensées.",
+          "pt": "Sem se preocupar com a caligrafia ou gramática, rabisque livremente palavras-chave, esquemas ou ideias no papel para limpar a mente e organizar seus pensamentos.",
+          "id": "Tanpa memedulikan kerapihan tulisan tangan atau tata bahasa, tulislah secara bebas kata kunci utama, peta pikiran, atau ide pada kertas untuk membersihkan kelelahan mental."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "조이스는 왜 침대에서 글을 쓸 때 하얀 코트를 입었나요?"
+          "ko": "조이스는 왜 침대에서 글을 쓸 때 하얀 코트를 입었나요?",
+          "en": "Why did James Joyce wear a white coat while writing in bed?",
+          "ja": "ジョイスはなぜベッドで文章を書く時、白いコートを着たのですか？",
+          "zh": "詹姆斯·乔伊斯在卧床写作之际，为何特意穿戴白色外套？",
+          "es": "¿Por qué vestía James Joyce una bata blanca al escribir en la cama?",
+          "de": "Warum trug James Joyce beim Schreiben im Bett einen weißen Mantel?",
+          "fr": "Pourquoi James Joyce portait-il un manteau blanc lorsqu'il écrivait au lit ?",
+          "pt": "Por que James Joyce vestia um casaco branco ao escrever na cama?",
+          "id": "Mengapa James Joyce mengenakan jubah putih saat menulis di tempat tidur?"
         },
         "answer": {
-          "ko": "하얀 코트가 조명을 원고지 위로 반사시키는 자연스러운 반사판 역할을 하여, 극도로 약해진 그의 눈에 눈부심(Glare)을 주지 않으면서도 글씨가 잘 보이도록 도와주는 일종의 '아날로그 조명 보조 장치'였기 때문입니다."
+          "ko": "하얀 코트가 조명을 원고지 위로 반사시키는 자연스러운 반사판 역할을 하여, 극도로 약해진 그의 눈에 눈부심(Glare)을 주지 않으면서도 글씨가 잘 보이도록 도와주는 일종의 '아날로그 조명 보조 장치'였기 때문입니다.",
+          "en": "The white coat acted as a natural light reflector, bouncing ambient room light directly onto his manuscript paper without harsh glare. It served as a brilliant analog lighting-assist tool that allowed his severely damaged retinas to perceive written words clearly.",
+          "ja": "白いコートが照明を原稿用紙の上へと反射させる自然な反射板の役割を果たし、極度に弱まった彼の目に眩しさ（Glare）を与えずに文字がよく見えるよう助ける、一種の「アナログ照明補助装置」だったからです。",
+          "zh": "因白色长袍外套扮演着将室内环境光漫反射至稿纸之上的自然“反光板”角色。这一“模拟照明辅助装置”能在不诱发眩光（Glare）刺眼感的前提下增亮纸面，助其严重损伤的视网膜精准定格笔迹。",
+          "es": "La bata blanca actuaba como un reflector natural que proyectaba la luz ambiente sobre el papel sin causar deslumbramiento. Funcionaba como una herramienta analógica de iluminación que ayudaba a sus ojos dañados a distinguir las palabras.",
+          "de": "Der weiße Mantel diente als natürlicher Lichtreflektor, der das Raumlicht ohne störende Blendung auf das Papier warf. Er funktionierte wie eine analoge Beleuchtungshilfe, mit der seine geschädigten Augen die Schrift besser erkennen konnten.",
+          "fr": "Le manteau blanc agissait comme un réflecteur de lumière naturel renvoyant la clarté sur le papier sans éblouissement. Il constituait un outil d'éclairage analogique permettant a ses yeux abîmés de mieux distinguer les mots.",
+          "pt": "O casaco branco funcionava como um refletor natural que projetava a luz ambiente sobre o papel sem causar ofuscamento. Funcionava como uma ferramenta analógica de iluminação que ajudava sua visão debilitada a distinguir as palavras.",
+          "id": "Jubah putih berfungsi sebagai pemantul cahaya alami, memantulkan cahaya ruangan langsung ke kertas naskahnya tanpa silau yang keras. Ini berfungsi sebagai alat bantu pencahayaan analog yang memungkinkan retinanya melihat kata-kata tertulis dengan jelas."
         }
       },
       {
         "question": {
-          "ko": "침대나 소파에 누워서 작업하면 졸음이 오지 않나요?"
+          "ko": "침대나 소파에 누워서 작업하면 졸음이 오지 않나요?",
+          "en": "Doesn't working while lying in bed or on a sofa induce drowsiness?",
+          "ja": "ベッドやソファに横たわって作業すると眠気が襲ってきませんか？",
+          "zh": "斜卧于床榻或沙发上开展工作，难道不会诱发阵阵困意吗？",
+          "es": "¿Trabajar recostado en la cama o sofá no produce somnolencia?",
+          "de": "Führt das Arbeiten im Bett oder auf dem Sofa nicht zu Schläfrigkeit?",
+          "fr": "Travailler allongé au lit ou sur un canapé ne risque-t-il pas de provoquer la somnolence ?",
+          "pt": "Trabalhar deitado na cama ou sofá não causa sonolência?",
+          "id": "Apakah bekerja sambil berbaring di tempat tidur atau sofa tidak menyebabkan kantuk?"
         },
         "answer": {
-          "ko": "졸음을 예방하기 위해서는 완전히 평평하게 눕기보다 상체를 30~45도 정도 비스듬히 세우는 경사 쿠션을 활용하고, 20분 단위로 짧게 아이디어를 스케치한 뒤 수평 휴식을 취하는 방식으로 뇌의 각성 상태를 제어하는 것이 좋습니다."
+          "ko": "졸음을 예방하기 위해서는 완전히 평평하게 눕기보다 상체를 30~45도 정도 비스듬히 세우는 경사 쿠션을 활용하고, 20분 단위로 짧게 아이디어를 스케치한 뒤 수평 휴식을 취하는 방식으로 뇌의 각성 상태를 제어하는 것이 좋습니다.",
+          "en": "To prevent falling asleep, avoid lying completely flat. Prop your upper body up at a 30 to 45-degree angle using supportive wedge cushions, and work in brief 20-minute ideation sprints followed by short horizontal rests to regulate cortical arousal.",
+          "ja": "眠気を予防するためには、完全な水平に横たわるよりは上半身を30〜45度ほど斜めに起こす傾斜クッションを活用し、20分単位で短くアイデアをスケッチした後に水平の休息をとる方式で、脳の覚醒状態をコントロールすることが望ましいです。",
+          "zh": "为规避昏睡，宜避免完全180度平躺。可使用斜角靠垫将上半身抬高30至45度，并采取20分钟一轮的极速灵感勾勒冲刺、随后辅以短暂水平休憩的节奏，精准管控大脑皮层的觉醒度。",
+          "es": "Para evitar dormirse, evite estar completamente plano. Eleve su torso entre 30 y 45 grados usando cojines en cuña y trabaje en bloques cortas de 20 minutos seguidas de breves descansos para regular la alerta cerebral.",
+          "de": "Um Schläfrigkeit zu vermeiden, sollten Sie nicht flach liegen. Stützen Sie den Oberkörper mit einem Keilkissen in einem Winkel von 30 bis 45 Grad ab und arbeiten Sie in kurzen 20-minütigen Abschnitten, um die Wachheit zu steuern.",
+          "fr": "Pour éviter le sommeil, ne vous allongez pas à plat. Relevez le buste de 30 à 45 degrés à l'aide de coussins et travaillez par sessions courtes de 20 minutes suivies de brefs repos pour réguler votre niveau d'éveil.",
+          "pt": "Para evitar o sono, evite ficar completamente plano. Eleve o tronco entre 30 e 45 graus usando almofadas e trabalhe em blocos curtos de 20 minutos seguidos de descansos para regular o alerta cerebral.",
+          "id": "Untuk mencegah tertidur, hindari berbaring terlalu datar. Sandarkan tubuh bagian atas Anda pada sudut 30 hingga 45 derajat menggunakan bantal penopang, dan bekerjalah dalam sesi ideasi singkat selama 20 menit."
         }
       }
     ]

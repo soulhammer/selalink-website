@@ -1,70 +1,214 @@
 {
   "kafka-late-night-writing": {
     "title": {
-      "ko": "극도의 침묵 속에서 걸작을 낳다? 프란츠 카프카의 한밤중 집필 루틴"
+      "ko": "극도의 침묵 속에서 걸작을 낳다: 프란츠 카프카의 한밤중 집필 루틴과 전두엽 하향 조절",
+      "en": "Birthing Masterpieces in Absolute Silence: Franz Kafka's Late-Night Writing Routine and Frontal Down-Regulation",
+      "ja": "極度の沈黙の中で傑作を生み出す：フランツ・カフカの真夜中の執筆ルーティンと前頭葉下降調節",
+      "zh": "极静沈寂中孕育不朽巨著：弗兰兹·卡夫卡子夜写作习惯与前额叶下调机制",
+      "es": "Dar a Luz Obras Maestras en el Silencio Absoluto: La Rutina de Escritura Nocturna de Franz Kafka y la Down-Regulation Frontal",
+      "de": "Meisterwerke in absoluter Stille gebären: Franz Kafkas nächtliche Schreibroutine und frontale Down-Regulation",
+      "fr": "Donner naissance a des chefs-d'œuvre dans un silence absolu : La routine d'écriture nocturne de Franz Kafka et la régulation descendante frontale",
+      "pt": "Dar à Luz Obras-Primas no Silêncio Absoluto: A Rotina de Escrita Noturna de Franz Kafka e a Regulação Descendente Frontal",
+      "id": "Melahirkan Mahakarya dalam Keheningan Mutlak: Rutinitas Menulis Tengah Malam Franz Kafka dan Down-Regulation Frontal"
     },
     "description": {
-      "ko": "20세기 문학의 거장 프란츠 카프카. 낮의 소음과 피로를 피해 밤 11시부터 새벽까지 창작에 몰입했던 그의 집필 습관과 뇌 과학적 집중의 원리를 소개합니다."
+      "ko": "20세기 문학의 거장 프란츠 카프카. 낮의 소음과 피로를 피해 밤 11시부터 새벽까지 창작에 몰입했던 그의 집필 습관과 전두엽 하향 조절(Frontal Down-regulation), 작업 기억 몰입의 뇌과학적 원리를 소개합니다.",
+      "en": "Discover how 20th-century literary titan Franz Kafka composed masterpieces like The Metamorphosis by writing from 11 PM until dawn in absolute silence. Explore the neuroscience of frontal down-regulation and working memory immersion.",
+      "ja": "20世紀文学の巨匠フランツ・カフカ。昼の騒音と疲労を避け、夜11時から明け方まで創作に没頭した彼の執筆習慣と前頭葉下降調節（Frontal Down-regulation）、作業記憶没頭の脳科学的原理を紹介します。",
+      "zh": "探索20世纪现代主义文学巨匠弗兰兹·卡夫卡如何在子夜11点至破晓时分、在绝对沉寂中创作出《变形记》等不朽名篇。揭示前额叶下调（Frontal Down-regulation）与工作记忆深度沉浸的神经科学原理。",
+      "es": "Descubra cómo el titán literario del siglo XX Franz Kafka compuso obras maestras como La metamorfosis escribiendo desde las 11 PM hasta el amanecer en absoluto silencio. Explore la neurociencia de la regulación descendante frontal y la memoria de trabajo.",
+      "de": "Erfahren Sie, wie der Literat des 20. Jahrhunderts, Franz Kafka, Meisterwerke wie Die Verwandlung schuf, indem er von 23 Uhr bis zum Morgengrauen in absoluter Stille schrieb. Entdecken Sie die Neurowissenschaften frontaler Down-Regulation.",
+      "fr": "Découvrez comment le géant de la littérature du XXe siècle Franz Kafka a composé des chefs-d'œuvre comme La Métamorphose en écrivant de 23h a l'aube dans un silence absolu. Explorez la neuroscience de la régulation descendante frontale.",
+      "pt": "Descubra como o gigante literário do século XX Franz Kafka compôs obras-primas como A Metamorfose escrevendo das 23h ao amanhecer em absoluto silêncio. Explore a neurociência da regulação descendente frontal e imersão da memória de trabalho.",
+      "id": "Pelajari bagaimana raksasa sastra abad ke-20 Franz Kafka merangkai mahakarya seperti Metamorfosis dengan menulis dari jam 11 malam hingga fajar dalam keheningan mutlak. Temukan neurosains down-regulation frontal dan imersi memori kerja."
     },
     "authority": {
-      "ko": "막스 브로트 『프란츠 카프카 평전(Franz Kafka: Eine Biographie)』 및 일기 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+      "ko": "막스 브로트 『프란츠 카프카 평전(Franz Kafka: Eine Biographie)』 및 일기 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+      "en": "Historical Verification from Max Brod's *Franz Kafka: A Biography*, Kafka's Diaries & Cognitive Neuroscience Research",
+      "ja": "マックス・ブロート『フランツ・カフカ評伝（Franz Kafka: Eine Biographie）』および日記史料考証＆認知神経科学（Cognitive Neuroscience）研究",
+      "zh": "麦克斯·布洛德《卡夫卡传（Franz Kafka: Eine Biographie）》与日记史料考证及认知神经科学（Cognitive Neuroscience）研究",
+      "es": "Verificación Histórica de la Biografía de Max Brod *Franz Kafka*, Diarios de Kafka e Investigación en Neurociencia Cognitiva",
+      "de": "Historische Überprüfung aus Max Brods *Franz Kafka: Eine Biographie*, Kafkas Tagebüchern & Forschung der kognitiven Neurowissenschaften",
+      "fr": "Vérification Historique issue de la biographie de Max Brod *Franz Kafka*, des Journaux de Kafka & de la Recherche en Neurosciences Cognitives",
+      "pt": "Verificação Histórica da Biografia de Max Brod *Franz Kafka*, Diários de Kafka e Pesquisa em Neurociência Cognitiva",
+      "id": "Verifikasi Historis dari Biografi Max Brod *Franz Kafka*, Harian Kafka & Penelitian Neurosains Kognitif"
     },
     "intro": {
-      "ko": "\"내 방의 문은 닫혀 있고, 사방은 고요하며, 이 침묵이 나를 지탱해 준다.\" 🕯️\n\n현대인의 불안과 소외를 날카롭게 그려내며 실존주의 문학의 선구자로 평가받는 프란츠 카프카. 그의 창작 세계는 낮 동안의 번잡함이 완전히 멈춘 고요한 밤에 비로소 열렸습니다. 카프카는 낮에는 주노동재해보험공사의 충실한 관리직 직원으로 근무하며 사회적 역할을 다했습니다. 하지만 어둠이 깊어지고 가족과 이웃의 소음이 잦아드는 밤 11시가 되면, 그는 비로소 책상 앞에 앉아 깃펜을 들었습니다.\n\n카프카는 매일 밤 11시부터 새벽 2~3시, 때로는 동이 틀 때까지 극도의 조용함 속에서 글을 썼습니다. 세상의 모든 자극이 사라지고 오직 자신과 백지만이 남았을 때, 그의 상상력은 가장 맑고 명징하게 깨어났습니다. 오늘 포스트에서는 카프카가 고수했던 '한밤중의 집필' 루틴의 인지 과학적 원리와 현대인들이 이를 집중력 강화에 적용하는 방법을 소개합니다."
+      "ko": "\"내 방의 문은 잠겨 있고, 사방은 완전한 정적 속에 싸여 있다. 이 깊은 침묵만이 내 영혼의 집필을 지탱해 준다. 글쓰기란 기도의 한 형태다.\" 🕯️\n\n현대인의 불안, 부조리, 그리고 소외를 날카롭게 그려내며 『변신(Die Verwandlung)』, 『소송(Der Process)』, 『성(Das Schloss)』 등 20세기 실존주의 문학의 선구자로 평가받는 거장 프란츠 카프카(Franz Kafka, 1883–1924). 그의 독창적이고 심오한 창작 세계는 낮 동안의 번잡함과 사회적 소음이 완전히 멈춘 고요한 밤에 비로소 열렸습니다.\n\n카프카는 낮 동안 프라하의 노동자재보험공사(Arbeiter-Unfallversicherungs-Anstalt)에서 관리직 직원으로 근무하며 성실히 사회적 역할을 다했습니다. 그러나 어둠이 깊어지고 가족과 이웃의 소음이 완전히 잦아드는 밤 11시가 되면, 그는 비로소 자신만의 조용한 책상 앞에 앉아 깃펜을 들었습니다. 카프카의 절친했던 친구 막스 브로트(Max Brod)의 평전에 기록되어 있듯, 카프카는 매일 밤 11시부터 새벽 2~3시, 때로는 동이 트는 아침 6시까지 극도의 정적 속에서 글을 썼습니다. 세상의 모든 자극이 사라지고 오직 자신과 백지만이 남았을 때, 이성적 억압이 풀리고 무의식의 심연 속에 잠들어 있던 독창적인 상상력이 가장 맑고 명징하게 깨어났던 것입니다.\n\n오늘 포스트에서는 카프카가 고수했던 '한밤중의 집필' 루틴의 인지과학적 원리와 현대인들이 이를 집중력 강화에 적용하는 방법을 소개합니다.",
+      "en": "\"My room's door is locked, total silence surrounds me, and this profound quiet sustains my soul. Writing is a form of prayer.\" 🕯️\n\nFranz Kafka (1883–1924) was the iconic Czech-born German-language novelist whose haunting masterworks—including *The Metamorphosis* (*Die Verwandlung*), *The Trial* (*Der Process*), and *The Castle* (*Das Schloss*)—profoundly articulated the absurdity, alienation, and existential anxiety of modern humanity. Remarkably, his visionary literary universe was unlocked only in the dead of night, after the daytime world fell completely dormant.\n\nBy day, Kafka worked dutifully as a legal officer at the Workers' Accident Insurance Institute in Prague. However, as documented in Max Brod's biography and Kafka's personal letters to Felice Bauer, he initiated his true life's work at 11:00 PM, once his family slept and street noises vanished. From 11:00 PM until 2:00 or 3:00 AM—and occasionally until dawn at 6:00 AM—Kafka wrote in extreme silence. Stripped of external sensory stimulation, his brain disengaged top-down executive filtering, allowing raw subconscious associations to pour effortlessly onto the blank page.\n\nIn today's post, we unpack the cognitive neuroscience behind Franz Kafka's 'late-night writing' routine and present a modern 3-step action guide to harness frontal down-regulation and establish a golden hour of distraction-free focus.",
+      "ja": "「私の部屋のドアは施錠され、四方は完全な静寂に包まれている。この深い沈黙だけが私の魂の執筆を支えてくれる。書くこととは一種の祈りなのだ。」 🕯️\n\n現代人の不安、不条理、そして疎外を鋭く描き出し、『変身（Die Verwandlung）』、『審判（Der Process）』、『城（Das Schloss）』など20世紀実存主義文学の先駆者と評価される巨匠フランツ・カフカ（Franz Kafka、1883–1924）。彼の独創的で深遠な創作世界は、昼の間の繁雑さと社会的ノイズが完全に止まった静かな夜に初めて開かれました。\n\nカフカは昼の間、プラハの労働者災害保険協会（Arbeiter-Unfallversicherungs-Anstalt）で管理職職員として勤務し、誠実に社会的役割を果たしました。しかし闇が深まり、家族や近所の騒音が完全に静まる夜11時になると、彼はようやく自分だけの静かなデスクの前に座り羽根ペンを手に取りました。カフカの親友であったマックス・ブロート（Max Brod）の評伝に記録されているように、カフカは毎夜11時から夜中2〜3時、時には夜が明ける朝6時まで極度の静寂の中で文章を書きました。世界のすべての刺激が消え去り、ただ自分と白紙だけが残された時、理性的抑圧が解かれ無意識の深淵の中に眠っていた独創的な想像力が最も澄み渡り明瞭に呼び覚まされたのです。\n\n本日の記事では、カフカが貫いた「真夜中の執筆」ルーティンの認知科学的原理と、現代人がこれを集中力強化に適用する方法を紹介します。",
+      "zh": "“我房间的大门已紧锁，四下沉浸于极致的宁静中。唯有这深邃的寂静支撑着我灵魂的挥毫。写作，乃是祈祷的一种形式。” 🕯️\n\n以敏锐笔触剖析现代人的焦虑、荒诞与疏离感、被奉为《变形记（Die Verwandlung）》、《审判（Der Process）》、《城堡（Das Schloss）》等20世纪存在主义文学先驱的伟大巨擘——弗兰兹·卡夫卡（Franz Kafka，1883–1924）。他那天马行空且深邃无垠的创作世界，唯有在白天喧嚣与社会噪点彻底沉寂的黑夜，方能轰然开启。\n\n在白昼，卡夫卡身为布拉格“工人事故保险局（Arbeiter-Unfallversicherungs-Anstalt）”的高级职员，兢兢业业地履行着社会职责。然而，当夜色转浓、家族与街坊的喧闹彻底归于寂静的子夜11点，他方能伏案于独属于他的幽静书桌前，拿起羽毛笔。正如卡夫卡挚友麦克斯·布洛德（Max Brod）在传记中所记载，卡夫卡每晚自11点起一直挥毫至凌晨2-3点、有时甚至直至破晓清晨6点。当大千世界的一切刺激退散、仅余自己与白纸对峙之际，大脑的理性压抑得以解脱，沉睡于潜意识深处的独到想象力迎来了最至极清明的觉醒。\n\n在今天的文章中，我们将深度解构卡夫卡所恪守的“子夜写作”习惯背后的神经科学原理，并分享一套助现代人在日常中提炼专注力的3步骤实践指南。",
+      "es": "\"La puerta de mi habitación está cerrada, un silencio absoluto me rodea y esta quietud profunda sostiene mi alma. Escribir es una forma de oración.\" 🕯️\n\nFranz Kafka (1883–1924) fue el célebre autor en lengua alemana cuyas deslumbrantes obras maestras —incluyendo *La metamorfosis*, *El proceso* y *El castillo*— retrataron la alienación y el absurdo de la condición humana. Su universo literario se abría en medio de la noche, cuando el ruido del mundo desaparecía por completo.\n\nDe día, Kafka trabajaba como funcionario en el Instituto de Seguros de Accidentes de Trabajadores en Praga. Sin embargo, como documentó Max Brod y revelan sus cartas a Felice Bauer, comenzaba su verdadera labor creativa a las 11:00 PM, cuando su familia dormía. Desde las 11:00 PM hasta las 2:00 o 3:00 AM —y a veces hasta el amanecer— Kafka escribía en un silencio absoluto. Al verse libre de estímulos externos, su cerebro relajaba los filtros de control ejecutivo, permitiendo que sus asociaciones subconscientes fluyeran al papel.\n\nEn la publicación de hoy, analizamos la neurociencia cognitiva detrás de la rutina de 'escritura nocturna' de Franz Kafka y presentamos una guía práctica de 3 pasos para aprovechar la regulación descendente frontal y lograr un enfoque libre de distracciones.",
+      "de": "\"Die Tür meines Zimmers ist verschlossen, vollkommene Stille umgibt mich, und diese Stille trägt meine Seele. Schreiben ist eine Form des Gebets.\" 🕯️\n\nFranz Kafka (1883–1924) war der deutschsprachige Schriftsteller aus Prag, dessen Werk – darunter *Die Verwandlung*, *Der Process* und *Das Schloss* – die Existenzangst und Entfremdung des modernen Menschen einfing. Seine fantastische Literatur entstand in den späten Nachtstunden, wenn der Lärm des Tages verstummt war.\n\nTagsüber arbeitete Kafka Pflichtbewusst bei der Arbeiter-Unfallversicherungs-Anstalt in Prag. Doch wie Max Brod in seiner Biografie und Kafka in seinen Briefen an Felice Bauer schilderte, begann seine eigentliche Arbeit erst um 23:00 Uhr, wenn die Familie schlief. Von 23:00 Uhr bis 2:00 oder 3:00 Uhr morgens – manchmal bis zum Morgengrauen – schrieb Kafka in tiefster Stille. Ohne äußere Reize lockerte sein Gehirn die kognitive Kontrolle, sodass unbewusste Gedanken frei fließen konnten.\n\nIm heutigen Beitrag untersuchen wir die Neurowissenschaften hinter Franz Kafkas 'nächtlicher Schreibroutine' und bieten einen 3-Schritte-Plan zur Nutzung frontaler Down-Regulation für ungestörte Konzentration.",
+      "fr": "« La porte de ma chambre est fermée, un silence absolu m'entoure, et ce calme profond soutient mon âme. Écrire est una forme de prière. » 🕯️\n\nFranz Kafka (1883–1924) fut l'écrivain de langue allemande dont les chefs-d'œuvre — dont *La Métamorphose*, *Le Procès* et *Le Château* — ont exprimé l'absurdité et l'aliénation de l'homme moderne. Son univers poétique s'éveillait au cœur de la nuit, quand l'agitation diurne s'éteignait enfin.\n\nLe jour, Kafka travaillait comme juriste a l'Institut d'assurance contre les accidents du travail de Prague. Mais comme le rapporte Max Brod et le révèlent ses lettres a Felice Bauer, il débutait son œuvre a 23h00, une fois sa famille endormie. De 23h00 a 2h00 ou 3h00 du matin — parfois jusqu'à l'aube —, Kafka écrivait dans un silence total. Libéré des stimulations extérieures, son cerveau relâchait le contrôle préfrontal, laissant émerger librement ses associations subconscientes.\n\nDans cet article, nous analysons la neuroscience cognitive sous-jacente a la routine d'« écriture nocturne » de Franz Kafka et proposons un guide en 3 étapes pour exploiter la régulation descendante frontale et instaurer una heure de concentration intense.",
+      "pt": "\"A porta do meu quarto está trancada, o silêncio absoluto me envolve e essa quietude profunda sustenta minha alma. Escrever é uma forma de oração.\" 🕯️\n\nFranz Kafka (1883–1924) foi o célebre autor de língua alemã cujas obras-primas — incluindo *A Metamorfose*, *O Processo* e *O Castelo* — retrataram a alienação e a ansiedade da condição humana. Seu universo literário despertava no meio da noite, quando o ruído do dia desaparecia completamente.\n\nDe dia, Kafka trabalhava no Instituto de Seguros de Acidentes do Trabalho em Praga. No entanto, como documentou Max Brod e revelam suas cartas a Felice Bauer, iniciava seu verdadeiro trabalho às 23h, quando sua família dormia. Das 23h às 2h ou 3h da manhã — e às vezes até o amanhecer —, Kafka escrevia em absoluto silêncio. Livre de estímulos externos, seu cérebro relaxava o controle pré-frontal, permitindo que associações subconscientes fluíssem para o papel.\n\nNo artigo de hoje, analisamos a neurociência cognitiva por trás da rotina de 'escrita noturna' de Franz Kafka e apresentamos um guia prático de 3 passos para aproveitar a regulação descendente frontal para um foco profundo.",
+      "id": "\"Pintu kamar saya terkunci, keheningan total mengelilingi saya, dan ketenangan yang mendalam ini menopang jiwa saya. Menulis adalah sebuah bentuk doa.\" 🕯️\n\nFranz Kafka (1883–1924) adalah novelis berbahasa Jerman kelahiran Ceko yang mahakaryanya—termasuk *Metamorfosis* (*Die Verwandlung*), *Ujian* (*Der Process*), dan *Kastil* (*Das Schloss*)—secara mendalam mengartikulasikan keanehan dan kecemasan eksistensial manusia modern. Luar biasanya, alam semesta sastra visionernya terbuka hanya di larut malam, setelah dunia siang hari tertidur pulas.\n\nDi siang hari, Kafka bekerja secara tekun sebagai pejabat hukum di Lembaga Asuransi Kecelakaan Kerja di Praha. Namun, seperti yang didokumentasikan dalam biografi Max Brod dan surat-surat pribadi Kafka kepada Felice Bauer, ia memulai karya hidupnya yang sebenarnya pada pukul 23:00, setelah keluarganya tidur. Dari pukul 23:00 hingga 02:00 atau 03:00 pagi—dan terkadang hingga fajar pada pukul 06:00 pagi—Kafka menulis dalam keheningan yang ekstrem.\n\nDalam postingan hari ini, kami menganalisis neurosains kognitif di balik rutinitas 'menulis tengah malam' Franz Kafka dan menyajikan panduan praktis 3 langkah."
     },
     "whyTitle": {
-      "ko": "전두엽 하향 조절(Frontal Down-regulation)과 극단적 정적의 몰입 뇌과학"
+      "ko": "전두엽 하향 조절(Frontal Down-regulation)과 극단적 정적의 몰입 뇌과학",
+      "en": "Frontal Down-Regulation and the Cognitive Neuroscience of Absolute Silence Immersion",
+      "ja": "前頭葉下降調節（Frontal Down-regulation）と極端的静寂の没頭脳科学",
+      "zh": "前额叶下调（Frontal Down-regulation）与极致沉寂专注神经科学原理",
+      "es": "Regulación Descendente Frontal y Neurociencia de la Inmersión en el Silencio Absoluto",
+      "de": "Frontale Down-Regulation und die Neurowissenschaften absoluter Stille-Immersion",
+      "fr": "Régulation descendante frontale et neuroscience de l'immersion dans le silence absolu",
+      "pt": "Regulação Descendente Frontal e Neurociência da Imersão no Silêncio Absoluto",
+      "id": "Down-Regulation Frontal dan Neurosains Imersi Keheningan Mutlak"
     },
     "whyDesc": {
-      "ko": "낮 동안 우리의 전두엽은 사회적 규범과 논리적 이성, 그리고 주의 집중에 필요한 인지 에너지를 활발히 소모합니다. 그러나 에너지가 고갈된 늦은 밤이 되면 전두엽의 강력한 통제 필터가 일시적으로 약화되는데, 이를 인지과학에서는 <strong>'전두엽 하향 조절(Frontal Down-regulation)'</strong> 상태라고 합니다.\n\n통제가 풀린 뇌는 이성적인 억압에서 벗어나 평소에는 접근하기 힘들었던 감정의 심연, 무의식적 연상, 독창적인 창의성을 거침없이 뿜어냅니다. 카프카가 어두운 밤에 기괴하면서도 깊은 울림을 주는 명작들을 쓸 수 있었던 생리적 원동력이 바로 여기에 있습니다. 또한, 한밤중의 완벽한 물리적 침묵은 <strong>작업 기억(Working Memory)</strong>을 교란하는 외부 소음 자극을 원천 차단하여, 뇌가 단 하나의 화두에 극도로 몰입할 수 있는 최적의 신경화학적 환경을 조성합니다."
+      "ko": "낮 동안 우리의 전두엽은 사회적 규범과 논리적 이성, 그리고 주의 집중에 필요한 인지 에너지를 활발히 소모합니다. 그러나 에너지가 고갈된 늦은 밤이 되면 전두엽의 강력한 통제 필터가 일시적으로 약화되는데, 이를 인지과학에서는 <strong>'전두엽 하향 조절(Frontal Down-regulation)'</strong> 상태라고 합니다. 통제가 풀린 뇌는 이성적인 억압에서 벗어나 평소에는 접근하기 힘들었던 감정의 심연, 무의식적 연상, 독창적인 창의성을 거침없이 뿜어냅니다. 카프카가 어두운 밤에 기괴하면서도 깊은 울림을 주는 명작들을 쓸 수 있었던 생리적 원동력이 바로 여기에 있습니다. 또한, 한밤중의 완벽한 물리적 침묵은 <strong>작업 기억(Working Memory)</strong>을 교란하는 외부 소음 자극을 원천 차단하여, 뇌가 단 하나의 화두에 극도로 몰입할 수 있는 최적의 신경화학적 환경을 조성합니다.",
+      "en": "During daylight hours, the <strong>Prefrontal Cortex</strong> expends immense cognitive energy maintaining top-down inhibitory control, social compliance, and logical filtering. In late night hours, circadian fatigue relaxes this prefrontal control filter—a state known in cognitive neuroscience as <strong>Frontal Down-regulation</strong>. Freed from top-down censorship, the brain gains direct access to subconscious associations, emotional depth, and unorthodox creative synthesis. This physiological shift empowered Kafka to write haunting, highly original prose. Concurrently, late-night acoustic silence eliminates ambient auditory interference in <strong>Working Memory</strong> buffers, creating an optimal neurochemical environment for deep single-topic focus.",
+      "ja": "昼の間、私たちの前頭葉は社会的規範と論理的理性、そして注意集中に必要な認知エネルギーを活発に消耗します。しかしエネルギーが枯渇した夜遅くになると、前頭葉の強力な統制フィルターが一時的に弱まりますが、これを認知科学では<strong>「前頭葉下降調節（Frontal Down-regulation）」</strong>状態と呼びます。統制が解けた脳は理性的抑圧から抜け出し、日頃はアクセスしにくかった感情の深淵、無意識的連想、独創的な創造性を躊躇なく噴出させます。カフカが暗い夜に怪奇でありながらも深い響きを与える名作を書くことができた生理的原動力がまさにここにあります。また、真夜中の完璧な物理的沈黙は、<strong>作業記憶（Working Memory）</strong>を攪乱する外部の騒音刺激を源泉遮断し、脳がただ一つの課題に極度に没頭できる最適な神経化学的環境を醸成します。",
+      "zh": "在白昼时分，我们的大脑<strong>前额叶皮层（Prefrontal Cortex）</strong>为维持下达抑制性控制、符合社会规范与逻辑审查而挥霍巨额能量。然而，随着子夜降临与昼夜节律性疲劳交加，前额叶强悍的审查过滤网被无形放缓，这在认知科学中被称为<strong>“前额叶下调（Frontal Down-regulation）”</strong>状态。松绑后的脑部解脱了理性压抑，得以无拘无束地喷涌出平素难以触及的潜意识联想、情感深渊与异想天开的创造力。这正是卡夫卡得以在沉寂黑夜创作出荒诞而具震慑力之名篇的生理源泉。同时，深夜物理层面的绝对寂静彻底阻断了干扰<strong>工作记忆（Working Memory）</strong>的杂音噪点，为大脑极精聚焦于单一议题缔造了绝佳的神经化学微环境。",
+      "es": "Durante el día, la <strong>Corteza Prefrontal</strong> consume energía manteniendo el control inhibidor y el filtro lógico. Por la noche, la fatiga relaja este filtro prefrontal, un estado conocido en neurociencia cognitiva como <strong>Regulación Descendente Frontal (Frontal Down-regulation)</strong>. Liberado de la censura, el cerebro accede al subconsciente, las emociones profundas y la creatividad desinhibida. Esta transición permitió a Kafka redactar una prosa única. Al mismo tiempo, el silencio nocturno elimina las interferencias auditivas en la <strong>Memoria de Trabajo</strong>, creando un entorno neuroquímico ideal para la concentración profunda.",
+      "de": "Tagsüber verbraucht der <strong>präfrontale Kortex</strong> kognitive Energie, um die Ausführung zu steuern und Reize zu filtern. In den späten Nachtstunden lockert Müdigkeit diesen Filter – in den Neurowissenschaften als <strong>frontale Down-Regulation</strong> bekannt. Befreit von kognitiver Zensur erlangt das Gehirn Zugang zu unbewussten Verknüpfungen, Gefühlen und Ideen. Diese Umstellung ermöglichte es Kafka, tiefgründige Werke zu schaffen. Gleichzeitig beseitigt die nächtliche Stille Störungen im <strong>Arbeitsgedächtnis</strong>.",
+      "fr": "Pendant la journée, le <strong>Cortex Préfrontal</strong> consomme una énergie considérable a maintenir le contrôle inhibiteur et le filtrage logique. Tard dans la nuit, la fatigue relâche ce filtre, un état appelé en neuroscience la <strong>Régulation descendante frontale (Frontal Down-regulation)</strong>. Libéré de la censure logique, le cerveau accède aux associations subconscientes et a una créativité débridée. Ce basculement a permis a Kafka de rédiger una prose unique. Parallèlement, le silence nocturne élimine les interférences dans la <strong>Mémoire de Travail</strong>.",
+      "pt": "Durante o dia, o <strong>Córtex Pré-frontal</strong> gasta energia mantendo o controle inibitório e o filtro lógico. À noite, a fadiga relaxa esse filtro, um estado conhecido na neurociência cognitiva como <strong>Regulação Descendente Frontal (Frontal Down-regulation)</strong>. Liberto da censura, o cérebro acessa o subconsciente, emoções profundas e a criatividade desinibida. Essa transição permitiu a Kafka criar uma prosa singular. Simultaneamente, o silêncio noturno elimina interferências na <strong>Memória de Trabalho</strong>.",
+      "id": "Selama jam siang hari, <strong>Korteks Prefrontal</strong> mengeluarkan energi kognitif yang sangat besar untuk mempertahankan kontrol hambatan, kepatuhan sosial, dan penyaringan logis. Di larut malam, kelelahan merilekskan filter kontrol prefrontal ini—suatu kondisi yang dikenal dalam neurosains kognitif sebagai <strong>Frontal Down-regulation</strong>. Bebas dari sensor logis, otak memperoleh akses langsung ke asosiasi bawah sadar dan kreativitas."
     },
     "cautionTitle": {
-      "ko": "수면 패턴 파괴 없이 정적 골든아워를 확보하는 수칙"
+      "ko": "수면 패턴 파괴 없이 정적 골든아워를 확보하는 수칙",
+      "en": "Caution: Securing a Golden Hour of Silence Without Disrupting Circadian Sleep Health",
+      "ja": "注意事項：睡眠パターンを破壊せず静寂のゴールデンアワーを確保するルール",
+      "zh": "注意事项：规避作息紊乱，精细锁定沉寂黄金1小时指南",
+      "es": "Precaución: Asegure una Hora Dorada de Silencio Sin Alterar su Salud de Sueño",
+      "de": "Vorsichtsmaßnahme: Stille-Phasen nutzen, ohne den Schlaf-Rhythmus zu stören",
+      "fr": "Mise en garde : Réserver una heure dorée de silence sans perturber le sommeil",
+      "pt": "Precaução: Garanta uma Hora Dourada de Silêncio Sem Prejudicar a Saúde do Sono",
+      "id": "Perhatian: Mengamankan Jam Emas Keheningan Tanpa Mengganggu Kesehatan Tidur Sirkadian"
     },
     "cautionDesc": {
-      "ko": "카프카처럼 늦은 밤에 무작정 깨어있는 행동은 만성 수면 부족과 건강 악화를 초래할 수 있습니다. 본 루틴의 핵심은 밤샘이 아니라, 단 1시간이라도 외부 소음과 시각적 자극이 완벽히 차단된 정적의 환경을 의도적으로 만드는 데 있습니다. 무리하게 밤을 새우기보다 소음 차단 헤드폰을 사용하거나 기상 직후 이른 아침 시간을 활용해 자신만의 정적 골든아워를 설계하세요."
+      "ko": "카프카처럼 늦은 밤에 무작정 깨어있는 행동은 만성 수면 부족과 건강 악화를 초래할 수 있습니다. 본 루틴의 핵심은 밤샘이 아니라, 단 1시간이라도 외부 소음과 시각적 자극이 완벽히 차단된 정적의 환경을 의도적으로 만드는 데 있습니다. 무리하게 밤을 새우기보다 소음 차단 헤드폰을 사용하거나 기상 직후 이른 아침 시간을 활용해 자신만의 정적 골든아워를 설계하세요.",
+      "en": "Replicating Kafka's routine by staying up late blindly risks chronic sleep deprivation and physical burnout. The core mechanism is not sleep loss, but intentionally carving out 1 hour where external auditory and visual noise is completely eliminated. Rather than pulling all-nighters, use noise-canceling headphones or leverage quiet early morning hours to construct your personal golden hour of silence.",
+      "ja": "カフカのように夜遅くに無闇に起きている行動は、慢性的な睡眠不足と健康悪化を招く可能性があります。本ルーティンの核心は徹夜ではなく、たった1時間であっても外部の騒音と視覚的刺激が完全に遮断された静寂の環境を意図的に作ることです。無理に徹夜をするよりはノイズキャンセリングヘッドホンを使用したり、起床直後の早朝の時間を活用して自分だけの静寂のゴールデンアワーを設計してください。",
+      "zh": "机械照搬卡夫卡通宵熬夜的行为，极易诱发慢性睡眠匮乏与躯体健康恶化。本习惯的神经科学内核绝对并非死磕熬夜，而在于“有意识地打造长达1小时彻底切断外界声光噪点的极致沉寂微环境”。相比于强行通宵，更宜借助降噪耳机或开发醒来后的清晨晨间时段，精心辟出独属于您的沉寂黄金1小时。",
+      "es": "Replicar la rutina de Kafka trasnochando a ciegas arriesga privación de sueño y agotamiento físico. La clave no es perder el sueño, sino crear intencionadamente 1 hora donde el ruido externo se elimine por completo. En lugar de pasar la noche en blanco, use auriculares con cancelación de ruido o aproveche las primeras horas de la mañana.",
+      "de": "Kafkas Routine durch wahllose Nachtarbeit zu kopieren, birgt das Risiko von Schlafmangel und Erschöpfung. Der Kern der Methode ist nicht das Wachbleiben, sondern das bewusste Schaffen von 1 Stunde absoluter Reizarmut. Nutzen Sie Noise-Cancelling-Kopfhörer oder die frühen Morgenstunden für Ihre eigene Stille-Phase.",
+      "fr": "Copier la routine de Kafka en veillant tard à l'aveuglette risque de provoquer un manque de sommeil chronique et un épuisement physique. L'essentiel ne réside pas dans la nuit blanche, mais dans le fait d'aménager 1 heure affranchie de tout bruit. Privilégiez un casque anti-bruit ou les premières heures du matin.",
+      "pt": "Replicar a rotina de Kafka virando a noite sem planejamento arrisca privação de sono e esgotamento físico. O segredo não é perder o sono, mas criar intencionalmente 1 hora onde o ruído externo seja eliminado. Em vez de passar a noite em claro, use fones com cancelamento de ruído ou aproveite as primeiras horas da manhã.",
+      "id": "Mereplikasi rutinitas Kafka dengan begadang secara buta berisiko memicu kurang tidur kronis dan kelelahan fisik. Mekanisme utamanya bukanlah kehilangan waktu tidur, melainkan secara sengaja menyisihkan 1 jam di mana kebisingan eksternal dieliminasi secara total. Gunakan headphone peredam bising."
     },
     "steps": [
       {
         "name": {
-          "ko": "1단계: 외부 소음 차단 및 물리적 몰입 환경 조성"
+          "ko": "1단계: 외부 소음 차단 및 물리적 몰입 환경 조성",
+          "en": "Step 1: Eliminating External Noise & Establishing a Physical Immersion Sanctuary",
+          "ja": "ステップ1：外部騒音の遮断および物理的没頭環境の醸成",
+          "zh": "步骤1：阻断外界噪音与搭建物理沉浸微环境",
+          "es": "Paso 1: Eliminación del Ruido Externo y Creación de un Santuario Físico",
+          "de": "Schritt 1: Ausschalten äußerer Störungen & Schaffen eines ungestörten Raums",
+          "fr": "Étape 1 : Élimination du bruit extérieur & Création d'un sanctuaire physique",
+          "pt": "Passo 1: Eliminação do Ruído Externo e Criação de um Santuário Físico",
+          "id": "Langkah 1: Mengeliminasi Kebisingan Eksternal & Membangun Ruang Imersi Fisik"
         },
         "text": {
-          "ko": "모든 알람과 연락이 조용해진 시간(늦은 밤 또는 새벽)을 확보하거나, 방음이 잘되는 공간 혹은 노이즈 캔슬링 헤드폰을 활용해 외부 소리를 원천 배제할 수 있는 환경을 정비합니다."
+          "ko": "모든 알람과 연락이 조용해진 시간(늦은 밤 또는 새벽)을 확보하거나, 방음이 잘되는 공간 혹은 노이즈 캔슬링 헤드폰을 활용해 외부 소리를 원천 배제할 수 있는 환경을 정비합니다.",
+          "en": "Secure a timeframe when notifications settle (late night or early morning), or equip noise-canceling headphones in a quiet space to systematically eliminate ambient auditory noise.",
+          "ja": "すべてのアラームや連絡が静かになった時間（夜遅くまたは早朝）を確保するか、防音の行き届いた空間またはノイズキャンセリングヘッドホンを活用して、外部の音を源泉排除できる環境を整備します。",
+          "zh": "锁定所有弹窗与打扰彻底熄灭的时段（子夜或破晓清晨），或在幽静空间内佩戴主动降噪耳机，严苛剔除外部环境背景声响噪点。",
+          "es": "Reserve un momento en que las notificaciones cesen (noche o madrugada), o use auriculares con cancelación de ruido en un espacio tranquilo para eliminar el ruido ambiental.",
+          "de": "Sichern Sie sich eine Zeitspanne ohne Unterbrechungen (später Abend oder früher Morgen) oder nutzen Sie Noise-Cancelling-Kopfhörer in einem ruhigen Raum.",
+          "fr": "Réservez un créneau libéré de toute notification (tard le soir ou tôt le matin), ou utilisez un casque anti-bruit dans un endroit calme pour éliminer le bruit ambiant.",
+          "pt": "Reserve um momento em que as notificações cessem (noite ou madrugada), ou use fones com cancelamento de ruído em um espaço silencioso para eliminar o ruído ambiental.",
+          "id": "Amankan kerangka waktu saat notifikasi hening (larut malam atau fajar), atau gunakan headphone peredam bising di ruang yang tenang untuk mengeliminasi kebisingan."
         }
       },
       {
         "name": {
-          "ko": "2단계: 은은한 단일 조명을 활용한 시각 자극 및 블루라이트 최소화"
+          "ko": "2단계: 은은한 단일 조명을 활용한 시각 자극 및 블루라이트 최소화",
+          "en": "Step 2: Minimizing Visual Stimuli & Blue Light Using Soft Warm Lighting",
+          "ja": "ステップ2：ほのかな単一照明を活用した視覚刺激およびブルーライトの最小化",
+          "zh": "步骤2：借助柔和单一点光源极小化视觉刺激与蓝光",
+          "es": "Paso 2: Minimizar Estímulos Visuales y Luz Azul Usando Iluminación Cálida",
+          "de": "Schritt 2: Minimieren visueller Reize & Blaulicht durch warmes Einzel-Licht",
+          "fr": "Étape 2 : Minimisation des stimulations visuelles et de la lumière bleue",
+          "pt": "Passo 2: Minimizar Estímulos Visuais e Luz Azul Usando Iluminação Suave",
+          "id": "Langkah 2: Meminimalkan Stimulus Visual & Cahaya Biru Menggunakan Pencahayaan Hangat"
         },
         "text": {
-          "ko": "밝은 천장 불빛을 끄고 노란빛을 내는 은은한 단일 스탠드 조명만을 켭니다. 스마트폰이나 파란빛(블루라이트) 방출 기기를 멀리하여 뇌의 시각 처리 영역의 부담을 덜어줍니다."
+          "ko": "밝은 천장 불빛을 끄고 노란빛을 내는 은은한 단일 스탠드 조명만을 켭니다. 스마트폰이나 파란빛(블루라이트) 방출 기기를 멀리하여 뇌의 시각 처리 영역의 부담을 덜어줍니다.",
+          "en": "Turn off bright overhead lights, illuminating your workspace exclusively with a dim, warm desk lamp. Distance yourself from smartphones and blue-light emitting screens to reduce processing load in the visual cortex.",
+          "ja": "明るい天井の照明を消し、暖かい光を放つほのかな単一のスタンド照明だけをつけます。スマートフォンや青い光（ブルーライト）を放出する機器を遠ざけ、脳の視覚処理領域の負担を減らします。",
+          "zh": "熄灭明亮的顶灯，仅保留一盏散发暖黄柔光的单一点光源台灯。移走手机与高亮蓝光屏幕设备，大幅减轻大脑视觉皮层处理负荷。",
+          "es": "Apague las luces del techo e ilumine su espacio únicamente con una lámpara de escritorio tenue y cálida. Aleje teléfonos y pantallas para reducir la carga de la corteza visual.",
+          "de": "Schalten Sie helle Deckenlichter aus und nutzen Sie nur eine warme Schreibtischlampe. Halten Sie Smartphones und Bildschirme fern, um den visuellen Kortex zu entlasten.",
+          "fr": "Éteignez les plafonniers et éclairez votre espace uniquement avec una lampe de bureau douce et chaude. Éloignez les téléphones et écrans pour réduire la charge du cortex visuel.",
+          "pt": "Desligue as luzes do teto e ilumine seu espaço apenas com um abajur de luz suave e quente. Mantenha celulares e telas longe para reduzir a carga do córtex visual.",
+          "id": "Matikan lampu langit-langit yang terang, terangi ruang kerja Anda secara eksklusif dengan lampu meja yang hangat. Jauhkan diri Anda dari ponsel pintar dan layar pemancar cahaya biru."
         }
       },
       {
         "name": {
-          "ko": "3단계: 백지 위 단 하나의 핵심 화두 몰입"
+          "ko": "3단계: 백지 위 단 하나의 핵심 화두 몰입",
+          "en": "Step 3: Immersing Intensely in a Single Core Objective on Blank Paper",
+          "ja": "ステップ3：白紙の上のただ一つの核心課題への没頭",
+          "zh": "步骤3：于白纸之上死锁单一核心课题开展攻坚",
+          "es": "Paso 3: Inmersión en un Único Objetivo Clave Sobre Papel en Blanco",
+          "de": "Schritt 3: Fokussieren auf ein einzelnes Kernthema auf weißem Papier",
+          "fr": "Étape 3 : Immersion dans un objectif unique sur una feuille blanche",
+          "pt": "Passo 3: Imersão em um Único Objetivo Essencial Sobre Papel em Branco",
+          "id": "Langkah 3: Terbenam Secara Intens dalam Satu Tujuan Inti di Atas Kertas Kosong"
         },
         "text": {
-          "ko": "완성하고자 하는 단 한 줄의 문장, 해결되지 않았던 한 가지 디자인이나 기획 등 명확한 화두를 백지에 적어둡니다. 불필요한 상상을 억제하고 30분 이상 고요하게 오직 그 주제에만 정신을 몰입하여 해결책을 도출합니다."
+          "ko": "완성하고자 하는 단 한 줄의 문장, 해결되지 않았던 한 가지 디자인이나 기획 등 명확한 화두를 백지에 적어둡니다. 불필요한 상상을 억제하고 30분 이상 고요하게 오직 그 주제에만 정신을 몰입하여 해결책을 도출합니다.",
+          "en": "Write down a single clear target—a key sentence to draft, a complex design challenge, or a strategic solution—on a blank sheet of paper. Spend 30 minutes in total silence focusing exclusively on that topic until clarity emerges.",
+          "ja": "完成させたい1行の文章、解決しなかった1つのデザインや企画など、明確な課題を白紙に書き記します。不必要な想像を抑え、30分以上静かにただそのテーマにのみ精神を没頭させて解決策を導き出します。",
+          "zh": "在白纸中央写下拟攻克的单一具象目标——如待落笔的一行核心文案、未决的一处架构设计或方案破解点。在长达30分钟以上的绝对寂静中，全情将注意力死死锁定于该议题中，直至破局解法浮出水面。",
+          "es": "Escriba un único objetivo claro (una frase clave, un desafío de diseño o una solución) en una hoja en blanco. Dedique 30 minutos en silencio a enfocarse en ese tema hasta obtener claridad.",
+          "de": "Notieren Sie ein klares Ziel (einen Kerngedanken, eine Designaufgabe oder eine Lösung) auf einem Blatt Papier. Konzentrieren Sie sich 30 Minuten lang in Stille auf dieses Thema.",
+          "fr": "Inscrivez un objectif clair (una phrase clé, un défi créatif ou una solution) sur una feuille blanche. Consacrez 30 minutes de silence absolu a ce sujet jusqu'à faire émerger la solution.",
+          "pt": "Escreva um único objetivo claro (uma frase-chave, um desafio de design ou uma solução) em uma folha em branco. Dedique 30 minutos em silêncio para focar nesse tema até obter clareza.",
+          "id": "Tuliskan satu target yang jelas—kalimat utama yang akan disusun, tantangan desain yang rumit, atau solusi strategis—di atas selembar kertas kosong. Luangkan waktu 30 menit dalam keheningan total untuk berfokus."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "카프카처럼 밤늦게 일하는 것이 수면 주기를 깨뜨리지 않을까요?"
+          "ko": "카프카처럼 밤늦게 일하는 것이 수면 주기를 깨뜨리지 않을까요?",
+          "en": "Doesn't working late at night like Kafka disrupt natural circadian sleep cycles?",
+          "ja": "カフカのように夜遅く働くことが睡眠周期を崩すのではないでしょうか？",
+          "zh": "如卡夫卡般深夜通宵高强度工作，难道不会彻底打乱自然昼夜节律与睡眠周期吗？",
+          "es": "¿Trabajar hasta tarde como Kafka no altera el ciclo natural de sueño?",
+          "de": "Stört späte Nachtarbeit wie bei Kafka nicht den natürlichen Schlaf-Rhythmus?",
+          "fr": "Travailler tard le soir comme Kafka ne perturbe-t-il pas le cycle du sommeil ?",
+          "pt": "Trabalhar até tarde como Kafka não prejudica o ciclo natural do sono?",
+          "id": "Apakah bekerja hingga larut malam seperti Kafka tidak mengganggu siklus tidur sirkadian alami?"
         },
         "answer": {
-          "ko": "네, 무리한 밤샘은 건강을 해칠 수 있습니다. 이 루틴의 핵심은 '늦은 밤'이라는 시간대 자체보다 외부의 방해가 완전히 사라진 '극단적 정적의 1시간'을 확보하는 것입니다. 이를 위해 소음 차단 장치를 활용하거나 이른 아침 시간을 대신 활용하는 것을 권장합니다."
+          "ko": "네, 무리한 밤샘은 건강을 해칠 수 있습니다. 이 루틴의 핵심은 '늦은 밤'이라는 시간대 자체보다 외부의 방해가 완전히 사라진 '극단적 정적의 1시간'을 확보하는 것입니다. 이를 위해 소음 차단 장치를 활용하거나 이른 아침 시간을 대신 활용하는 것을 권장합니다.",
+          "en": "Yes, excessive all-nighters damage physical health. The core mechanism is not the late hour itself, but securing '1 hour of absolute silence' devoid of external interruptions. Achieving this via noise-canceling technology or quiet early morning hours delivers identical cognitive benefits without compromising sleep health.",
+          "ja": "はい、無理な徹夜は健康を害する可能性があります。このルーティンの核心は「夜遅く」という時間帯自体より、外部の邪魔が完全に消えた「極端的静寂の1時間」を確保することにあります。このために騒音遮断装置を活用したり、早朝の時間を代わりに活用することをお勧めします。",
+          "zh": "是的，过度熬夜通宵必将对躯体健康施加沉重损害。本习惯的神经科学本质绝非执念于“深夜”这一时段，而在于锁定“外界打扰完全归零的极致沉寂1小时”。完全可通过佩戴降噪耳塞或置换为破晓清晨时段来等效达致，绝无必要牺牲睡眠健康。",
+          "es": "Sí, trasnochar en exceso perjudica la salud. La clave no es la hora nocturna en sí, sino asegurar '1 hora de silencio absoluto' libre de interrupciones. Lograr esto mediante tecnología de cancelación de ruido o en las primeras horas de la mañana ofrece los mismos beneficios cognitivos.",
+          "de": "Ja, exzessives Nachtarbeiten schadet der Gesundheit. Der Kern der Methode ist nicht die Nachtstunde selbst, sondern das Erreichen '1 Stunde absoluter Stille' ohne Ablenkungen. Das Nutzen von Noise-Cancelling-Technik oder frühen Morgenstunden bietet dieselben kognitiven Vorteile.",
+          "fr": "Oui, les nuits blanches excessives nuisent à la santé. L'essentiel ne réside pas dans l'horaire nocturne, mais dans le fait de garantir '1 heure de silence absolu' sans interruption. Y parvenir grâce aux casques anti-bruit ou tôt le matin procure des bénéfices cognitifs identiques.",
+          "pt": "Sim, virar a noite em excesso prejudica a saúde. O segredo não é o horário noturno em si, mas garantir '1 hora de silêncio absoluto' sem interrupções. Alcançar isso via cancelamento de ruído ou nas primeiras horas da manhã garante os mesmos benefícios cognitivos.",
+          "id": "Ya, begadang secara berlebihan mengganggu kesehatan fisik. Mekanisme utamanya bukanlah jam larut malam itu sendiri, melainkan mengamankan '1 jam keheningan mutlak' yang bebas dari gangguan eksternal. Mencapai hal ini melalui teknologi peredam bising memberikan manfaat yang identik."
         }
       },
       {
         "question": {
-          "ko": "밤시간이 아닌 낮에 이 카프카식 정적 몰입법을 실천하려면 어떻게 하나요?"
+          "ko": "밤시간이 아닌 낮에 이 카프카식 정적 몰입법을 실천하려면 어떻게 하나요?",
+          "en": "How can I adapt Kafka's silence immersion routine during daylight hours?",
+          "ja": "夜の時間ではなく昼間にこのカフカ式静寂没頭法を実践するにはどうすればよいですか？",
+          "zh": "若欲在白昼时段复刻卡夫卡式的沉寂专注习惯，具体的实操要领为何？",
+          "es": "¿Cómo puedo adaptar la rutina de silencio de Kafka durante el día?",
+          "de": "Wie lässt sich Kafkas Stille-Routine tagsüber anwenden?",
+          "fr": "Comment appliquer la routine de silence de Kafka pendant la journée ?",
+          "pt": "Como posso adaptar a rotina de silêncio de Kafka durante o dia?",
+          "id": "Bagaimana cara mengadaptasi rutinitas keheningan Kafka selama jam-jam siang hari?"
         },
         "answer": {
-          "ko": "낮 시간대에도 노이즈 캔슬링 귀마개나 헤드폰을 착용해 음향적 소음을 차단하고, 조명을 다소 어둡게 조율하거나 암막 커튼을 치는 방식으로 외부 시각 자극을 줄여 동일하게 뇌의 '정적 골든아워'를 의도적으로 만들어낼 수 있습니다."
+          "ko": "낮 시간대에도 노이즈 캔슬링 귀마개나 헤드폰을 착용해 음향적 소음을 차단하고, 조명을 다소 어둡게 조율하거나 암막 커튼을 치는 방식으로 외부 시각 자극을 줄여 동일하게 뇌의 '정적 골든아워'를 의도적으로 만들어낼 수 있습니다.",
+          "en": "During daytime hours, wear noise-canceling earplugs or headphones to block acoustic chatter, dim overhead lighting, or draw blackout curtains. Minimizing environmental visual and auditory inputs artificially constructs a 'golden hour of silence' for your brain.",
+          "ja": "昼の時間帯であってもノイズキャンセリング耳栓やヘッドホンを着用して音響的騒音を遮断し、照明をやや暗めに調整したり遮光カーテンを引く方式で外部の視覚刺激を減らし、同様に脳の「静寂のゴールデンアワー」を意図的に作り出すことができます。",
+          "zh": "即便在白昼，亦可戴上主动降噪耳塞或耳机阻断环境噪音，并调暗室内灯光或拉上遮光窗帘，压缩外界视觉与听觉噪点输入，人工打造出属于大脑的“沉寂黄金1小时”。",
+          "es": "Durante el día, use tapones o auriculares con cancelación de ruido para bloquear el sonido, atenúe las luces o cierre cortinas opacas. Minimizar los estímulos visuales y auditivos crea de forma artificial una 'hora dorada de silencio' para su cerebro.",
+          "de": "Nutzen Sie tagsüber Ohrstöpsel oder Noise-Cancelling-Kopfhörer, dimmen Sie das Licht oder schließen Sie Vorhänge. Das Verringern visueller und auditiver Reize erzeugt künstlich eine ungestörte 'Stille-Phase' für Ihr Gehirn.",
+          "fr": "Pendant la journée, portez des bouchons d'oreilles ou un casque anti-bruit, tamisez la lumière ou tirez des rideaux occultants. Réduire les stimulations visuelles et auditives crée artificiellement una 'heure dorée de silence' pour votre cerveau.",
+          "pt": "Durante o dia, use protetores auriculares ou fones com cancelamento de ruído para bloquear o som, diminua as luzes ou feche cortinas blackout. Minimizar estímulos visuais e auditivos cria uma 'hora dourada de silêncio' para o cérebro.",
+          "id": "Selama jam siang hari, kenakan sumbat telinga peredam bising atau headphone untuk memblokir obrolan akustik, redupkan pencahayaan, atau tutup tirai anti-cahaya. Meminimalkan masukan visual dan pendengaran secara buatan menciptakan 'jam emas keheningan'."
         }
       }
     ]

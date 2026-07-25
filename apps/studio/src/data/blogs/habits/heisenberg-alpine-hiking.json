@@ -1,70 +1,214 @@
 {
   "heisenberg-alpine-hiking": {
     "title": {
-      "ko": "자연이 준 불확정성의 힌트: 하이젠베르크의 알프스 하이킹 습관"
+      "ko": "자연이 준 불확정성의 힌트: 하이젠베르크의 알프스 하이킹 습관과 DMN 인큐베이션 루틴",
+      "en": "Uncertainty Hints Gifted by Nature: Werner Heisenberg's Alpine Hiking Habit and DMN Incubation Routine",
+      "ja": "自然が与えた不確定性のヒント：ハイゼンベルクのアルプスハイキング習慣とDMNインキュベーションルーティン",
+      "zh": "大自然赋予的不确定性灵感：海森堡的阿尔卑斯徒步习惯与DMN孵化指南",
+      "es": "Pistas de Incertidumbre Regaladas por la Naturaleza: La Rutina de Senderismo Alpino y la Incubación DMN de Werner Heisenberg",
+      "de": "Hinweise zur Unschärfe aus der Natur: Werner Heisenbergs Alpin-Wandergewohnheit und DMN-Inkubationsroutine",
+      "fr": "Les indices d'incertitude offerts par la nature : La routine de randonnée alpine et d'incubation DMN de Werner Heisenberg",
+      "pt": "Pistas de Incerteza Dadas pela Natureza: A Rotina de Caminhada Alpina e Incubação DMN de Werner Heisenberg",
+      "id": "Petunjuk Ketidakpastian dari Alam: Kebiasaan Mendaki Alpina Werner Heisenberg dan Rutinitas Inkubasi DMN"
     },
     "description": {
-      "ko": "양자역학의 난제를 풀기 위해 바이에른 알프스를 홀로 하이킹하며 생각에 잠겼던 베르너 하이젠베르크. 자연 속 걷기가 뇌의 주의력을 회복시키고 창조적 인큐베이션(부화)을 유도하는 과학적 원리를 알아봅니다."
+      "ko": "양자역학의 난제를 풀기 위해 바이에른 알프스를 홀로 하이킹하며 생각에 잠겼던 베르너 하이젠베르크. 자연 속 걷기가 뇌의 주의력을 회복시키고 기본 모드 네트워크(DMN)의 창조적 인큐베이션(부화)을 유도하는 과학적 원리를 알아봅니다.",
+      "en": "Discover how Werner Heisenberg solved quantum mechanics dilemmas by hiking alone through the Bavarian Alps. Explore the science of Attention Restoration Theory (ART), Default Mode Network (DMN) incubation, and nature walks.",
+      "ja": "量子力学の難題を解くためバイエルン・アルプスを一人ハイキングし思索に耽ったヴェルナー・ハイゼンベルク。自然の中を歩くことが脳の注意力を回復させ、デフォルト・モード・ネットワーク（DMN）の創造的インキュベーション（孵化）を誘導する科学的原理を解き明かします。",
+      "zh": "探索为破解量子力学谜题而独游巴伐利亚阿尔卑斯山深思的维尔纳·海森堡。揭示自然漫步修复大脑注意力与拉动预设模式网络（DMN）开展创造性孵化的科学原理。",
+      "es": "Descubra cómo Werner Heisenberg resolvió dilemas de la mecánica cuántica caminando solo por los Alpes Bávaros. Explore la ciencia de la Teoría de Restauración de la Atención (ART) y la incubación en la Red por Defecto (DMN).",
+      "de": "Erfahren Sie, wie Werner Heisenberg quantenmechanische Rätsel löste, indem er alleine durch die Bayerischen Alpen wanderte. Entdecken Sie die Wissenschaft der Aufmerksamkeitswiederherstellung und DMN-Inkubation.",
+      "fr": "Découvrez comment Werner Heisenberg a résolu les énigmes de la mécanique quantique en randonnant seul dans les Alpes bavaroises. Explorez la science de la théorie de restauration de l'attention et l'incubation DMN.",
+      "pt": "Descubra como Werner Heisenberg resolveu dilemas da mecânica quântica caminhando sozinho pelos Alpes Bávaros. Explore a ciência da Teoria da Restauração da Atenção (ART) e a incubação na Rede de Modo Padrão (DMN).",
+      "id": "Pelajari bagaimana Werner Heisenberg memecahkan dilema mekanika kuantum dengan mendaki sendirian melintasi Pegunungan Alpen Bavaria. Temukan ilmu tentang Teori Restorasi Perhatian (ART) dan inkubasi Default Mode Network (DMN)."
     },
     "authority": {
-      "ko": "베르너 하이젠베르크 자서전 『부분과 전체(Der Teil und das Ganze)』 및 바이에른 학술원 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 환경심리학(Environmental Psychology) 연구"
+      "ko": "베르너 하이젠베르크 자서전 『부분과 전체(Der Teil und das Ganze)』 및 바이에른 학술원(Bayerische Akademie der Wissenschaften) 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 환경심리학(Environmental Psychology) 연구",
+      "en": "Historical Verification from Werner Heisenberg's *Der Teil und das Ganze*, Bavarian Academy of Sciences Archives & Cognitive Neuroscience Research",
+      "ja": "ヴェルナー・ハイゼンベルク自伝『部分と全体（Der Teil und das Ganze）』およびバイエルン科学アカデミー（Bayerische Akademie der Wissenschaften）史料考証＆認知神経科学（Cognitive Neuroscience）および環境心理学（Environmental Psychology）研究",
+      "zh": "维尔纳·海森堡自传《部分与整体（Der Teil und das Ganze）》与巴伐利亚科学院史料考证及认知神经科学（Cognitive Neuroscience）与环境心理学（Environmental Psychology）研究",
+      "es": "Verificación Histórica de *La parte y el todo (Der Teil und das Ganze)* de Werner Heisenberg, Archivos de la Academia Bárava de Ciencias e Investigación en Neurociencia Cognitiva",
+      "de": "Historische Überprüfung aus Werner Heisenbergs *Der Teil und das Ganze*, Archiven der Bayerischen Akademie der Wissenschaften & Forschung der kognitiven Neurowissenschaften und Umweltpsychologie",
+      "fr": "Vérification Historique issue de *La partie et le tout (Der Teil und das Ganze)* de Werner Heisenberg, des archives de l'Académie bavaroise des sciences & de la Recherche en Neurosciences Cognitives",
+      "pt": "Verificação Histórica de *A Parte e o Todo (Der Teil und das Ganze)* de Werner Heisenberg, Arquivos da Academia Bávara de Ciências e Pesquisa em Neurociência Cognitiva",
+      "id": "Verifikasi Historis dari *Der Teil und das Ganze* karya Werner Heisenberg, Arsip Akademi Ilmu Pengetahuan Bavaria & Penelitian Neurosains Kognitif"
     },
     "intro": {
-      "ko": "\"나는 광활한 알프스의 숲길을 걸으며 복잡한 수학 공식의 잔재를 비우고, 비로소 자연의 깊은 내면을 응시한다.\" 🌲\n\n현대 물리학의 패러다임을 뿌리째 뒤흔든 '불확정성 원리'를 창안하며 현대 양자역학의 초석을 다지고 노벨 물리학상을 수상한 독일의 위대한 과학자 베르너 하이젠베르크. 젊은 시절의 그는 전자의 궤도 전이와 매트릭스 계산이라는 인류 미답의 수학적 난제에 가로막혀 지독한 불면증과 뇌의 피로(Cognitive Burnout)에 시달렸습니다. 논리가 꽉 막혀 더는 생각에 진전이 없을 때마다, 하이젠베르크는 바이에른 알프스 산맥의 깊은 침엽수림으로 떠났습니다. 그는 며칠 동안 산의 침묵 속을 하이킹하며 조용히 사색의 고유 속도를 조율했습니다. 1925년 가을, 북해의 고립된 요양지 헬골란트 섬과 알프스 산책을 거치며 양자역학의 가장 결정적인 돌파구 수식이 도출된 배경에는 그의 등산 사색 루틴이 있었습니다. 자연의 숲길 걷기가 지친 뇌를 충전하고 창의성을 일깨우는 인지과학적 메커니즘을 밝혀냅니다."
+      "ko": "\"나는 광활한 알프스의 숲길을 걸으며 복잡한 수학 공식의 잔재를 비우고, 비로소 자연의 깊은 내면을 응시한다.\" 🌲\n\n현대 물리학의 패러다임을 뿌리째 뒤흔든 '불확정성 원리(Uncertainty Principle)'와 '행렬역학(Matrix Mechanics)'을 창안하며 현대 양자역학의 초석을 다지고 1932년 노벨 물리학상을 수상한 독일의 위대한 과학자 베르너 하이젠베르크(Werner Heisenberg, 1901–1976). 젊은 시절 20대의 그는 전자의 궤도 전이와 매트릭스 계산이라는 인류 미답의 수학적 난제에 가로막혀 지독한 불면증, 꽃가루 알레르기, 그리고 뇌의 심각한 인지적 번아웃(Cognitive Burnout)에 시달렸습니다.\n\n논리가 꽉 막혀 더는 생각에 진전이 없을 때마다, 하이젠베르크는 바이에른 알프스 산맥의 깊은 침엽수림으로 떠났습니다. 그는 며칠 동안 산의 침묵 속을 하이킹하며 조용히 사색의 고유 속도를 조율했습니다. 1925년 가을, 북해의 고립된 요양지 헬골란트 섬과 알프스 산책을 거치며 양자역학의 가장 결정적인 돌파구 수식이 도출된 배경에는 그의 등산 사색 루틴이 있었습니다. 자연의 숲길 걷기가 지친 뇌를 충전하고 창의성을 일깨우는 인지과학적 메커니즘을 밝혀냅니다.",
+      "en": "\"Walking through the vast Alpine forest trails, I clear away the residue of complex mathematical formulas and finally contemplate the deep inner reality of nature.\" 🌲\n\nWerner Heisenberg (1901–1976) was the legendary German theoretical physicist awarded the 1932 Nobel Prize in Physics for inventing matrix mechanics and formulating the Uncertainty Principle—accomplishments that fundamentally reshaped quantum mechanics. In his mid-20s, while struggling to solve the non-linear mathematical equations governing electron quantum jumps, Heisenberg suffered from severe insomnia, hay fever, and profound cognitive burnout.\n\nWhenever his logical progress dead-ended, Heisenberg escaped into the pine forests of the Bavarian Alps. Hiking for days through mountain silence, he recalibrated his mental velocity. As documented in his memoir *Der Teil und das Ganze* (*Physics and Beyond*), his transformative 1925 breakthroughs on Helgoland Island and the Alpine trails occurred when he temporarily abandoned conscious mathematical calculations. Stepping away allowed his subconscious mind to synthesize complex theoretical models into elegant equations.\n\nIn today's post, we dissect the cognitive neuroscience and environmental psychology behind Werner Heisenberg's 'Alpine hiking' routine and present a practical guide to trigger subconscious cognitive incubation.",
+      "ja": "「私は広大なアルプスの森の道を歩きながら、複雑な数学公式の残骸を空け渡し、ようやく自然の深い内面を凝視する。」 🌲\n\n現代物理学のパラダイムを根本から揺るがした「不確定性原理（Uncertainty Principle）」と「行列力学（Matrix Mechanics）」を創안し、現代量子力学の礎を築いて1932年にノーベル物理学賞を受賞したドイツの偉大な科学者ヴェルナー・ハイゼンベルク（Werner Heisenberg、1901–1976）。若き日の20代の彼は、電子の軌道遷移とマトリックス計算という人類未踏の数学的難題に阻まれ、ひどい不眠症、花粉アレルギー、そして脳の深刻な認知的バーンアウト（Cognitive Burnout）に苦しんでいました。\n\n論理が詰まってこれ以上思考に進展がないたび、ハイゼンベルクはバイエルン・アルプス山脈の深い針葉樹林へと旅立ちました。彼は数日間のあいだ山の沈黙の中をハイキングし、静かに思索の固有速度を調律しました。1925年秋、北海の孤立した療養地ヘルゴラント島とアルプスの散策を経て、量子力学の最も決定的な突破口の数式が導き出された背景には、彼の登山思索ルーティンがありました。自然の森の道を歩くことが疲弊した脳を充電し、創造性を呼び覚ます認知科学的メカニズムを解き明かします。",
+      "zh": "“踱步于浩瀚阿尔卑斯森林小径，我得以清空繁复数学公式的残留羁绊，方能凝神审视大自然的深邃内在。” 🌲\n\n创制从根本上撼动现代物理学范式的“不确定性原理（Uncertainty Principle）”与“矩阵力学（Matrix Mechanics）”、奠定现代量子力学基石并荣获1932年诺贝尔物理学奖的德国科学泰斗——维尔纳·海森堡（Werner Heisenberg，1901–1976）。正值弱冠之年的他，曾因遭遇电子轨道跃迁与矩阵演算这一人类未涉的数学难题，而遭受严重的失眠症、花粉过敏与极度大脑认知倦怠（Cognitive Burnout）的折磨。\n\n每当逻辑陷入死胡同、推演无法推进半步时，海森堡便会动身步入巴伐利亚阿尔卑斯山脉蔚为壮观的针叶林深处。在漫长数日的山峦寂静中徒步漫步，静静调控自身沉思的固有节奏。1925年秋，经由在北海孤岛黑尔戈兰岛（Helgoland）与阿尔卑斯山的漫步，量子力学最具划时代意义的破局公式应运而生，其背后正藏着他登临山峦沉思的习惯。在今天的文章中，我们将揭示自然森林小径漫步抚平大脑疲惫、唤醒创造力的认知科学机制。",
+      "es": "\"Caminando por los senderos de los Alpes, limpio los residuos de complejas fórmulas matemáticas y contemplo la realidad profunda de la naturaleza.\" 🌲\n\nWerner Heisenberg (1901–1976) fue el físico teórico alemán galardonado con el Premio Nobel de Física en 1932 por crear la mecánica matricial y formular el Principio de Incertidumbre. A sus 20 años, al intentar resolver las ecuaciones matemáticas de los saltos cuánticos de los electrones, sufrió de insomnio severo, fiebre del heno y agotamiento cognitivo.\n\nCada vez que su lógica se estancaba, se refugiaba en los bosques de pinos de los Alpes Bávaros. Al caminar durante días por el silencio de la montaña, reajustaba su ritmo mental. Como documentó en sus memorias *La parte y el todo*, sus descubrimientos de 1925 en la isla de Helgoland y en las rutas alpinas ocurrieron al abandonar temporalmente los cálculos conscientes. Alejarse permitió a su mente subconsciente sintetizar los modelos teóricos.\n\nEn la publicación de hoy, analizamos la neurociencia cognitiva y la psicología ambiental detrás de la rutina de 'senderismo alpino' de Werner Heisenberg y presentamos una guía práctica para activar la incubación cognitiva.",
+      "de": "\"Auf den Pfaden der Alpen streife ich die Reste komplexer Formeln ab und blicke in das tiefe Innere der Natur.\" 🌲\n\nWerner Heisenberg (1901–1976) war der deutsche Physiker, der 1932 den Nobelpreis für Physik für die Begründung der Matrizenmechanik und die Formulierung der Unschärferelation erhielt. In seinen Zwanzigern litt Heisenberg beim Versuch, quantenmechanische Gleichungen zu lösen, unter Schlaflosigkeit, Heuschnupfen und kognitiver Erschöpfung.\n\nWann immer seine Überlegungen feststeckten, zog er sich in die Nadelwälder der Bayerischen Alpen zurück. Beim tagelangen Wandern in der Stille der Berge verlangsamte er sein Denktempo. Wie in seinen Memoiren *Der Teil und das Ganze* festgehalten, gelangen ihm seine Durchbrüche 1925 auf Helgoland und in den Alpen, als er die bewussten Berechnungen ruhen ließ. Das Fernbleiben vom Schreibtisch ermöglichte seinem Unterbewusstsein die Lösung.\n\nIm heutigen Beitrag untersuchen wir die Neurowissenschaften und Umweltpsychologie hinter Werner Heisenbergs 'Alpin-Wanderroutine' und bieten eine Anleitung zur kognitiven Inkubation.",
+      "fr": "« En arpentant les sentiers des Alpes, j'efface les résidus de formules mathématiques complexes et contemple la réalité profonde de la nature. » 🌲\n\nWerner Heisenberg (1901–1976) fut le physicien théoricien allemand couronné par le prix Nobel de physique en 1932 pour avoir créé la mécanique matricielle et formulé le Principe d'incertitude. Vers l'âge de 25 ans, alors qu'il se heurtait aux équations régissant les sauts quantiques des électrons, Heisenberg souffrit d'insomnie sévère, du rhume des foins et d'un épuisement cognitif intense.\n\nChaque fois que sa logique bloquait, il se réfugiait dans les forêts de pins des Alpes bavaroises. Marchant pendant des jours dans le silence des montagnes, il réajustait son rythme mental. Comme il le raconte dans ses mémoires *La partie et le tout*, ses découvertes de 1925 sur l'île de Helgoland et dans les Alpes survinrent lorsqu'il cessa temporairement de calculer. Prendre du recul permit à son esprit inconscient de structurer les modèles théoriques.\n\nDans cet article, nous analysons la neuroscience cognitive et la psychologie environnementale sous-jacentes a la routine de « randonnée alpine » de Werner Heisenberg et proposons un guide pour activer l'incubation cognitive.",
+      "pt": "\"Caminhando pelos trilhos dos Alpes, limpo os resíduos de fórmulas matemáticas complexas e contemplo a realidade profunda da natureza.\" 🌲\n\nWerner Heisenberg (1901–1976) foi o físico teórico alemão laureado com o Prêmio Nobel de Física em 1932 por criar a mecânica matricial e formular o Princípio da Incerteza. Aos 20 anos, ao tentar resolver as equações dos saltos quânticos, sofreu de insônia severa, febre do feno e esgotamento cognitivo.\n\nSempre que sua lógica estancava, refugiava-se nas florestas dos Alpes Bávaros. Caminhando por dias no silêncio da montanha, reajustava seu ritmo mental. Como documentou em suas memórias *A Parte e o Todo*, seus avanços de 1925 na ilha de Helgoland e nas trilhas alpinas ocorreram ao abandonar temporariamente os cálculos conscientes. Afastar-se permitiu à sua mente subconsciente sintetizar os modelos teóricos.\n\nNo artigo de hoje, analisamos a neurociência cognitiva e a psicologia ambiental por trás da rotina de 'caminhada alpina' de Werner Heisenberg e apresentamos um guia prático para ativar a incubação cognitiva.",
+      "id": "\"Berjalan melintasi jalur hutan Alpen yang luas, saya membersihkan sisa-sisa rumus matematika yang rumit dan akhirnya merenungkan realitas terdalam alam.\" 🌲\n\nWerner Heisenberg (1901–1976) adalah fisikawan teoritis Jerman yang dianugerahi Hadiah Nobel Fisika pada tahun 1932 atas penemuan mekanika matriks dan merumuskan Prinsip Ketidakpastian. Di usia pertengahan 20-an, saat berjuang menyelesaikan persamaan matematika lompatan kuantum elektron, Heisenberg menderita insomnia parah, alergi serbuk sari, dan kelelahan kognitif yang mendalam.\n\nSetiap kali kemajuan logisnya menemui jalan buntu, Heisenberg melarikan diri ke hutan pinus di Pegunungan Alpen Bavaria. Mendaki selama berhari-hari melintasi keheningan gunung, ia mengalibrasi ulang kecepatan mentalnya. Seperti yang dicatat dalam memoarnya *Der Teil und das Ganze*, terobosan transformatifnya pada tahun 1925 di Pulau Helgoland dan jalur Alpen terjadi ketika ia menghentikan kalkulasi matematis secara sadar. Melangkah pergi memungkinkan pikiran bawah sadarnya menyintesis model teoritis."
     },
     "whyTitle": {
-      "ko": "주의 회복 이론(ART)과 기본 모드 네트워크(DMN)의 인지적 부화"
+      "ko": "주의 회복 이론(ART)과 기본 모드 네트워크(DMN)의 인지적 부화",
+      "en": "Attention Restoration Theory (ART) and Subconscious DMN Incubation",
+      "ja": "注意回復理論（ART）とデフォルト・モード・ネットワーク（DMN）の認知的孵化",
+      "zh": "注意力恢复理论（ART）与预设模式网络（DMN）潜意识孵化原理",
+      "es": "Teoría de Restauración de la Atención (ART) e Incubación Cognitiva en la Red por Defecto (DMN)",
+      "de": "Aufmerksamkeitswiederherstellungs-Theorie (ART) und kognitive Inkubation im Default Mode Network (DMN)",
+      "fr": "Théorie de restauration de l'attention (ART) et incubation cognitive du Réseau du Mode par Défaut (DMN)",
+      "pt": "Teoria da Restauração da Atenção (ART) e Incubação Cognitiva na Rede de Modo Padrão (DMN)",
+      "id": "Teori Restorasi Perhatian (ART) dan Inkubasi Kognitif Default Mode Network (DMN)"
     },
     "whyDesc": {
-      "ko": "모니터 화면과 숫자에 장시간 집중할 때, 뇌는 의지적 주의력(Directed Attention) 자원을 소모하여 주의력 피로 상태에 빠집니다.\n\n하이젠베르크처럼 우거진 자연을 등산하며 걸을 때, 인지과학의 <strong>'주의 회복 이론(Attention Restoration Theory, ART)'</strong>이 작동합니다. 자연의 <strong>부드러운 매혹(Soft Fascination)</strong> 자극은 의지적 뇌 활동을 쉬게 하고 전두엽의 긴장을 풀어줍니다. 이때 뇌의 잠재의식적 처리 경로인 <strong>'기본 모드 네트워크(Default Mode Network, DMN)'</strong>가 기동되어, 얽혀 있던 복잡한 수학 공식과 개념의 조각들을 무의식 속에서 재정렬하는 <strong>'인지적 부화(Cognitive Incubation)'</strong>가 일어나 결정적인 창의적 통찰을 이끌어냅니다."
+      "ko": "모니터 화면과 숫자에 장시간 집중할 때, 뇌는 의지적 주의력(Directed Attention) 자원을 소모하여 주의력 피로 상태에 빠집니다. 하이젠베르크처럼 우거진 자연을 등산하며 걸을 때, 인지과학의 <strong>'주의 회복 이론(Attention Restoration Theory, ART)'</strong>이 작동합니다. 자연의 <strong>부드러운 매혹(Soft Fascination)</strong> 자극은 의지적 뇌 활동을 쉬게 하고 전두엽의 긴장을 풀어줍니다. 이때 뇌의 잠재의식적 처리 경로인 <strong>'기본 모드 네트워크(Default Mode Network, DMN)'</strong>가 기동되어, 얽혀 있던 복잡한 수학 공식과 개념의 조각들을 무의식 속에서 재정렬하는 <strong>'인지적 부화(Cognitive Incubation)'</strong>가 일어나 결정적인 창의적 통찰을 이끌어냅니다.",
+      "en": "Prolonged focus on digital screens or numerical models drains prefrontal executive resources, inducing Directed Attention Fatigue. When walking through dense natural environments as Heisenberg did, Stephen Kaplan's <strong>Attention Restoration Theory (ART)</strong> engages. Natural sensory inputs—such as swaying foliage, rustling wind, and mountain vistas—provide <strong>'Soft Fascination'</strong>, resting directed attention and lowering prefrontal arousal. This disengagement activates the brain's <strong>Default Mode Network (DMN)</strong>, initiating <strong>Cognitive Incubation</strong>—a process where the subconscious mind reorganizes fragmented mathematical concepts and complex theoretical paradoxes into breakthrough creative insights.",
+      "ja": "モニター画面や数字に長時間集中する時、脳は意図的注意力（Directed Attention）の資源を消耗し、注意力疲労状態に陥ります。ハイゼンベルクのように生い茂る自然を登山しながら歩く時、認知科学の<strong>「注意回復理論（Attention Restoration Theory, ART）」</strong>が作動します。自然の<strong>「柔らかな魅惑（Soft Fascination）」</strong>の刺激は意図的な脳の活動を休ませ、前頭葉の緊張をほぐします。この時、脳の潜在意識的処理経路である<strong>「デフォルト・モード・ネットワーク（Default Mode Network, DMN）」</strong>が起動し、絡み合っていた複雑な数学公式や概念のピースを無意識の中で再整列する<strong>「認知的孵化（Cognitive Incubation）」</strong>が起こり、決定的な創造的洞察を引き出します。",
+      "zh": "长时间专注于电脑屏幕或抽象数据，会过度耗损前额叶皮层的“定向注意力（Directed Attention）”资源，引发注意力疲劳。当如海森堡这般漫步于郁郁葱葱的大自然中时，认知科学中的<strong>“注意力恢复理论（Attention Restoration Theory，ART）”</strong>被激活。自然界所赋予的<strong>“柔性吸引（Soft Fascination）”</strong>刺激——如摇曳的树叶、微风声与山峦天际，能让定向集中的大脑活动获得休息，抚平前额叶的紧绷。此刻，大脑潜意识处理通道机制——<strong>“预设模式网络（Default Mode Network，DMN）”</strong>全面运转，展开在无意识间将错综复杂的数学公式与概念碎片重新排布的<strong>“认知孵化（Cognitive Incubation）”</strong>，从而孕育出划时代的创造性洞见。",
+      "es": "La concentración prolongada en pantallas o números agota los recursos ejecutivos, causando fatiga de la atención dirigida. Al caminar por la naturaleza como Heisenberg, se activa la <strong>Teoría de Restauración de la Atención (ART)</strong>. Los estímulos naturales brindan <strong>'Fascinación Suave' (Soft Fascination)</strong>, descansando la atención dirigida y reduciendo la tensión prefrontal. Esto activa la <strong>Red por Defecto (DMN)</strong>, desencadenando la <strong>Incubación Cognitiva</strong>, donde el subconsciente reorganiza fórmulas complejas para generar visiones creativas.",
+      "de": "Das lange Blicken auf Bildschirme oder Zahlen verbraucht die Ressourcen der gerichteten Aufmerksamkeit. Beim Wandern in der Natur greift die <strong>Aufmerksamkeitswiederherstellungs-Theorie (ART)</strong>. Natürliche Reize erzeugen <strong>'sanfte Faszination' (Soft Fascination)</strong> und entlasten den Kortex. Dadurch wird das <strong>Default Mode Network (DMN)</strong> aktiviert, was die <strong>kognitive Inkubation</strong> auslöst – das unterbewusste Umstrukturieren komplexer Formeln zu Durchbrüchen.",
+      "fr": "L'attention prolongée sur les écrans épuise le cortex préfrontal, provoquant la fatigue de l'attention dirigée. Marcher dans la nature comme Heisenberg active la <strong>Théorie de restauration de l'attention (ART)</strong>. Les stimulations naturelles offrent une <strong>« Fascination douce » (Soft Fascination)</strong>, reposant l'esprit. Cela sollicite le <strong>Réseau du Mode par Défaut (DMN)</strong>, déclenchant l'<strong>Incubation cognitive</strong>, un processus où l'inconscient réorganise des concepts complexes pour révéler des intuitions.",
+      "pt": "A concentração prolongada em telas ou números esgota os recursos pré-frontais, causando fadiga da atenção dirigida. Ao caminhar pela natureza como Heisenberg, ativa-se a <strong>Teoria da Restauração da Atenção (ART)</strong>. Os estímulos naturais oferecem <strong>'Fascinação Suave' (Soft Fascination)</strong>, descansando a atenção dirigida. Isso aciona a <strong>Rede de Modo Padrão (DMN)</strong>, disparando a <strong>Incubação Cognitiva</strong>, em que o subconsciente reorganiza fórmulas complexas.",
+      "id": "Fokus dalam waktu lama pada layar atau angka menguras sumber daya eksekutif, menyebabkan Kelelahan Perhatian Terarah. Saat berjalan melintasi lingkungan alam seperti Heisenberg, <strong>Teori Restorasi Perhatian (ART)</strong> aktif. Masukan sensorik alami memberikan <strong>'Pesona Halus' (Soft Fascination)</strong>, mengistirahatkan perhatian terarah. Ini mengaktifkan <strong>Default Mode Network (DMN)</strong>, memicu <strong>Inkubasi Kognitif</strong> di mana pikiran bawah sadar menyusun ulang rumus rumit."
     },
     "cautionTitle": {
-      "ko": "디지털 자극을 차단하고 무의식적 부화를 이끄는 산림 하이킹 수칙"
+      "ko": "디지털 자극을 차단하고 무의식적 부화를 이끄는 산림 하이킹 수칙",
+      "en": "Caution: Eliminating Digital Stimuli to Permit Subconscious DMN Incubation",
+      "ja": "注意事項：デジタル刺激を遮断し無意識的孵化を導く森林ハイキングルール",
+      "zh": "注意事项：阻断数字干扰与导向潜意识深层孵化的森林徒步指南",
+      "es": "Precaución: Elimine Estímulos Digitales para Permitir la Incubación Subconsciente en la DMN",
+      "de": "Vorsichtsmaßnahme: Digitale Reize ausschalten, um unterbewusste Inkubation im DMN zu ermöglichen",
+      "fr": "Mise en garde : Éliminer les stimulations numériques pour permettre l'incubation inconsciente du DMN",
+      "pt": "Precaução: Elimine Estímulos Digitais para Permitir a Incubação Subconsciente na DMN",
+      "id": "Perhatian: Menghilangkan Stimulus Digital untuk Memungkinkan Inkubasi Subkesadaran DMN"
     },
     "cautionDesc": {
-      "ko": "산림 하이킹을 통한 사색을 진행할 때 주의해야 할 최악의 방해 요인은 스마트폰으로 팟캐스트를 듣거나 이메일을 확인하는 것입니다. 자연 속에 있으면서도 디지털 화면에 자발적 주의력을 지속해서 소모한다면 뇌의 주의력 회복과 DMN의 무의식적 부화는 완전히 차단됩니다. 스마트폰을 비행기 모드로 전환하고, 오직 자연의 소리와 발걸음의 진동에 온전히 집중해야 합니다."
+      "ko": "산림 하이킹을 통한 사색을 진행할 때 주의해야 할 최악의 방해 요인은 스마트폰으로 팟캐스트를 듣거나 이메일을 확인하는 것입니다. 자연 속에 있으면서도 디지털 화면에 자발적 주의력을 지속해서 소모한다면 뇌의 주의력 회복과 DMN의 무의식적 부화는 완전히 차단됩니다. 스마트폰을 비행기 모드로 전환하고, 오직 자연의 소리와 발걸음의 진동에 온전히 집중해야 합니다.",
+      "en": "The single greatest obstacle during a contemplative forest hike is consuming digital content—listening to podcasts or checking email on a smartphone. Consuming screen information while outdoors continues to exhaust Directed Attention, completely blocking Attention Restoration and DMN Incubation. Switch your smartphone to Airplane Mode, immersing your awareness entirely in the ambient sounds of nature and the physical rhythm of your footsteps.",
+      "ja": "森林ハイキングを通じた思索を進める際、注意すべき最悪の妨害要因はスマートフォンでポッドキャストを聞いたりメールを確認することです。自然の中にいながらもデジタル画面に自発的注意力を継続して消耗するなら、脳の注意力回復とDMNの無意識的孵化は完全に遮断されます。スマートフォンを機内モードに切り替え、ただ自然の音と足取りの振動に完全に集中しなければなりません。",
+      "zh": "在通过森林徒步开展深思时，须严加忌讳的破坏性因素莫过于边踱步边用手机收听播客或查阅邮件。若身处自然却依然向数字屏幕持续交出有意识注意力，大脑的注意力修复与DMN潜意识孵化将被彻底阻断。请将手机切至飞行模式，将全部感官意识完全归还于自然的清风鸟鸣与双脚跨步的物理震动感中。",
+      "es": "El peor obstáculo durante una caminata contemplativa es consumir contenido digital: escuchar podcasts o revisar correos. Consumir información en pantalla mientras está al aire libre sigue agotando la Atención Dirigida, bloqueando la restauración y la incubación en la DMN. Ponga su teléfono en Modo Avión e inmerja su mente en los sonidos naturales y el ritmo de sus pasos.",
+      "de": "Das größte Hindernis bei einer Denk-Wanderung ist digitaler Medienkonsum – wie Podcasts hören oder E-Mails lesen. Das Verbrauchen von Bildschirmdaten im Freien erschöpft die gerichtete Aufmerksamkeit weiter und blockiert die DMN-Inkubation vollständig. Schalten Sie das Smartphone in den Flugmodus und konzentrieren Sie sich auf die Naturgeräusche und den Schrittrhythmus.",
+      "fr": "Le pire obstacle lors d'une marche méditative est de consommer du contenu numérique : écouter des podcasts ou consulter ses e-mails. Consulter des écrans en plein air continue d'épuiser l'Attention Dirigée, bloquant la restauration et l'incubation du DMN. Passez votre téléphone en Mode Avion et immergez votre esprit dans les sons de la nature et le rythme de vos pas.",
+      "pt": "O maior obstáculo durante uma caminhada reflexiva é consumir conteúdo digital: ouvir podcasts ou checar e-mails. Consumir informações em telas ao ar livre continua esgotando a Atenção Dirigida, bloqueando a restauração e a incubação na DMN. Coloque o celular no Modo Avião e mergulhe nos sons da natureza e no ritmo dos passos.",
+      "id": "Hambatan terbesar selama pendakian kontemplatif adalah mengonsumsi konten digital—mendengarkan podcast atau memeriksa email di ponsel pintar. Mengonsumsi informasi layar saat berada di luar ruangan terus menguras Perhatian Terarah, memblokir Restorasi Perhatian dan Inkubasi DMN secara total. Ubah ponsel pintar ke Mode Pesawat."
     },
     "steps": [
       {
         "name": {
-          "ko": "1단계: 디지털 기기 차단 및 자연 하이킹 경로 확보"
+          "ko": "1단계: 디지털 기기 차단 및 자연 하이킹 경로 확보",
+          "en": "Step 1: Digital Isolation & Securing a Natural Hiking Route",
+          "ja": "ステップ1：デジタル機器の遮断および自然ハイキングルートの確保",
+          "zh": "步骤1：屏蔽数字设备与确定自然徒步路线",
+          "es": "Paso 1: Aislamiento Digital y Definición de una Ruta de Senderismo Natural",
+          "de": "Schritt 1: Digitale Isolierung & Festlegen einer natürlichen Wanderroute",
+          "fr": "Étape 1 : Isolement numérique & Sélection d'un itinéraire naturel",
+          "pt": "Passo 1: Isolamento Digital e Definição de uma Rota de Caminhada Natural",
+          "id": "Langkah 1: Isolasi Digital & Penentuan Rute Pendakian Alami"
         },
         "text": {
-          "ko": "스마트폰을 비행기 모드로 전환하거나 가방 깊숙이 넣어 외부 자극을 차단하고, 수목이 우거진 공원이나 산림 하이킹 경로를 세팅합니다."
+          "ko": "스마트폰을 비행기 모드로 전환하거나 가방 깊숙이 넣어 외부 자극을 차단하고, 수목이 우거진 공원이나 산림 하이킹 경로를 세팅합니다.",
+          "en": "Switch your smartphone to Airplane Mode or stow it deep inside your backpack to eliminate external alerts. Select a densely forested park or nature trail for your walk.",
+          "ja": "スマートフォンを機内モードに切り替えるかカバンの奥深くに入れて外部刺激を遮断し、樹木が生い茂る公園や森林ハイキングルートをセットアップします。",
+          "zh": "将手机切至飞行模式或深塞于背包底部剔除外界通知。挑选一条树木葱茏的公园绿道或森林徒步路线。",
+          "es": "Ponga el teléfono en Modo Avión o guárdelo en la mochila para eliminar alertas. Seleccione un parque boscoso o un sendero natural para su caminata.",
+          "de": "Schalten Sie Ihr Smartphone in den Flugmodus oder verstauen Sie es tief im Rucksack. Wählen Sie einen bewaldeten Park oder Naturpfad für Ihren Spaziergang.",
+          "fr": "Passez votre téléphone en Mode Avion ou rangez-le au fond de votre sac pour supprimer les alertes. Choisissez un parc boisé ou un sentier naturel pour votre marche.",
+          "pt": "Coloque o celular no Modo Avião ou guarde-o no fundo da mochila para eliminar alertas. Selecione um parque arborizado ou uma trilha natural para sua caminhada.",
+          "id": "Ubah ponsel pintar Anda ke Mode Pesawat atau simpan di bagian dalam ransel Anda untuk menghilangkan peringatan eksternal. Pilih taman yang rindang atau jalur alam untuk jalan Anda."
         }
       },
       {
         "name": {
-          "ko": "2단계: 30분간의 무목적 완보 및 부드러운 매혹(Soft Fascination) 몰입"
+          "ko": "2단계: 30분간의 무목적 완보 및 부드러운 매혹(Soft Fascination) 몰입",
+          "en": "Step 2: 30 Minutes of Purpose-Free Strolling & Soft Fascination Immersion",
+          "ja": "ステップ2：30分間の無目的緩歩および柔らかな魅惑（Soft Fascination）没頭",
+          "zh": "步骤2：开展30分钟无目的漫步与沉浸柔性吸引（Soft Fascination）",
+          "es": "Paso 2: 30 Minutos de Paseo Sin Objetivo e Inmersión en la Fascinación Suave",
+          "de": "Schritt 2: 30 Minuten zielloses Gehen & Eintauchen in sanfte Faszination",
+          "fr": "Étape 2 : 30 minutes de marche sans but & Immersion dans la fascination douce",
+          "pt": "Passo 3: 30 Minutos de Caminhada Sem Objetivo e Imersão na Fascinação Suave",
+          "id": "Langkah 2: Berjalan Tanpa Tujuan Selama 30 Menit & Imersi Pesona Halus"
         },
         "text": {
-          "ko": "해결해야 할 난제의 압박을 잠시 내려놓고, 발바닥의 진동, 바람의 감촉, 자연의 소리에 주의를 맡기며 30분간 조용히 완보합니다."
+          "ko": "해결해야 할 난제의 압박을 잠시 내려놓고, 발바닥의 진동, 바람의 감촉, 자연의 소리에 주의를 맡기며 30분간 조용히 완보합니다.",
+          "en": "Temporarily set aside the pressure of solving your core challenge. Stroll casually for 30 minutes, allowing your sensory awareness to rest on the physical impact of your steps, breeze temperature, and natural ambient sounds.",
+          "ja": "解決すべき難題の圧迫感をしばしば脇に置き、足の裏の振動、風の感触、自然の音に注意を預けながら30分間静かに緩歩します。",
+          "zh": "暂时放归待破解难题的高压焦虑。步履从容地漫步30分钟，将感官注意柔和投于脚底触地的物理节奏、微风的温度与自然的林涛鸟鸣中。",
+          "es": "Deje a un lado temporalmente la presión por resolver su desafío. Camine tranquilamente durante 30 minutos, dejando que sus sentidos descansen en el ritmo de sus pasos, la brisa y los sonidos naturales.",
+          "de": "Lassen Sie den Druck zur Problemlösung für eine Weile los. Schlendern Sie 30 Minuten lang entspannt dahin und lassen Sie die Sinneseindrücke von Schrittrhythmus, Wind und Naturgeräuschen auf sich wirken.",
+          "fr": "Laissez de côté la pression de votre défi. Flânez paisiblement pendant 30 minutes, en laissant vos sens se reposer sur le rythme de vos pas, la brise et les sons de la nature.",
+          "pt": "Deixe de lado temporariamente a pressão para resolver seu desafio. Caminhe tranquilamente por 30 minutos, deixando que seus sentidos descansem no ritmo dos passos, na brisa e nos sons naturais.",
+          "id": "Sisihkan sementara tekanan untuk memecahkan tantangan utama Anda. Berjalanlah secara santai selama 30 menit, membiarkan kesadaran sensorik Anda beristirahat pada pijakan kaki, suhu angin, dan suara alam."
         }
       },
       {
         "name": {
-          "ko": "3단계: 기본 모드 네트워크(DMN)가 포착한 무의식적 힌트 즉각 수기 기록"
+          "ko": "3단계: 기본 모드 네트워크(DMN)가 포착한 무의식적 힌트 즉각 수기 기록",
+          "en": "Step 3: Immediate Handwriting of Subconscious DMN Breakthrough Insights",
+          "ja": "ステップ3：デフォルト・モード・ネットワーク（DMN）が捉えた無意識的ヒントの即座手書き記録",
+          "zh": "步骤3：趁热手写誊录预设模式网络（DMN）捕获的潜意识破局灵感",
+          "es": "Paso 3: Registro Manuscrito Inmediato de las Ideas Subconscientes de la DMN",
+          "de": "Schritt 3: Sofortiges handschriftliches Festhalten unterbewusster DMN-Erkenntnisse",
+          "fr": "Étape 3 : Consignation manuscrite immédiate des intuitions émergées du DMN",
+          "pt": "Passo 3: Registro Manuscrito Imediato das Percepções Subconscientes da DMN",
+          "id": "Langkah 3: Pencatatan Tulisan Tangan Langsung dari Wawasan Subkesadaran DMN"
         },
         "text": {
-          "ko": "하이킹 직후 DMN의 무의식적 정보 재조합을 통해 번뜩 떠오른 해결책이나 아이디어의 핵심 단서를 노트에 즉시 손글씨로 기록합니다."
+          "ko": "하이킹 직후 DMN의 무의식적 정보 재조합을 통해 번뜩 떠오른 해결책이나 아이디어의 핵심 단서를 노트에 즉시 손글씨로 기록합니다.",
+          "en": "Immediately after concluding your hike—while DMN incubation is fresh—transcribe breakthrough concepts or core structural clues into a pocket notebook using a pen.",
+          "ja": "ハイキング直後、DMNの無意識的情報再結合を通じてひらめいた解決策やアイデアの核心的ヒントを、ノートに即座に手書きで記録します。",
+          "zh": "徒步结束后的第一时间——正值DMN潜意识重组的巅峰期，手持纸笔将脑海中猝然闪现的突破性解决方案或核心破局线索手写誊录于随身小本上。",
+          "es": "Inmediatamente después de la caminata, mientras la incubación de la DMN está fresca, transcriba a mano las ideas innovadoras o pistas estructurales en una libreta de bolsillo.",
+          "de": "Halten Sie direkt nach dem Wandern – solange die DMN-Inkubation frisch ist – spontane Lösungsansätze oder Schlüsselideen handschriftlich in einem Notizbuch fest.",
+          "fr": "Aussitôt la marche terminée, pendant que l'incubation du DMN est vive, transcrivez à la main les idées neuves ou indices clés dans un carnet de poche.",
+          "pt": "Logo após a caminhada, enquanto a incubação da DMN está fresca, transcreva à mão as ideias inovadoras ou pistas estruturais em um caderno de bolso.",
+          "id": "Segera setelah menyelesaikan pendakian Anda—saat inkubasi DMN masih segar—transkripsikan konsep terobosan atau petunjuk struktural utama ke dalam buku catatan saku menggunakan pena."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "도심에 거주하여 하이킹이나 산행을 가기 힘들 때는 어떻게 대체하나요?"
+          "ko": "도심에 거주하여 하이킹이나 산행을 가기 힘들 때는 어떻게 대체하나요?",
+          "en": "How can I adapt this routine if I live in a dense city far from hiking trails?",
+          "ja": "都心に居住していてハイキングや登山に行くことが難しい場合はどのように代替しますか？",
+          "zh": "若居于高密度都市、远离山川绿道，该如何等效替代？",
+          "es": "¿Cómo adapto esta rutina si vivo en una ciudad densa lejos de senderos?",
+          "de": "Wie lässt sich die Routine anpassen, wenn man in der Stadt weit weg von Wanderwegen wohnt?",
+          "fr": "Comment adapter cette routine si j'habite en ville loin des sentiers de randonnée ?",
+          "pt": "Como posso adaptar essa rotina se eu morar em uma cidade grande longe de trilhas?",
+          "id": "Bagaimana cara mengadaptasi rutinitas ini jika saya tinggal di kota padat yang jauh dari jalur pendakian?"
         },
         "answer": {
-          "ko": "도심 속 공원이나 가로수길을 스마트폰 없이 자연 풍경을 탐색하며 30분 이상 걷는 것으로 대체할 수 있습니다. 야외 활동을 통한 시공간 감각 자극과 뇌혈류 활성화가 핵심입니다."
+          "ko": "도심 속 공원이나 가로수길을 스마트폰 없이 자연 풍경을 탐색하며 30분 이상 걷는 것으로 대체할 수 있습니다. 야외 활동을 통한 시공간 감각 자극과 뇌혈류 활성화가 핵심입니다.",
+          "en": "Substitute mountain trails with a 30-minute walk through an urban park, botanical garden, or tree-lined boulevard without your smartphone. Activating visuospatial sensory pathways and boosting cerebral perfusion via light walking remain the core mechanisms.",
+          "ja": "都心の中の公園や街路樹の道を、スマートフォンなしで自然の風景を探索しながら30分以上歩くことで代替できます。屋外活動を通じた視空間感覚の刺激と脳血流の活性化が核心です。",
+          "zh": "可以漫步于城市公园、植物园或林荫大道30分钟以上进行替代，全程切勿使用手机。机制的核心在于借助户外踱步激活视空间感官通路与拉升大脑充氧血流。",
+          "es": "Sustituya los senderos de montaña por un paseo de 30 minutos por un parque urbano, jardín botánico o avenida arbolada sin teléfono. Lo esencial es activar los sentidos visoespaciales y aumentar el flujo sanguíneo cerebral.",
+          "de": "Ersetzen Sie Bergpfade durch einen 30-minütigen Spaziergang durch einen Park, botanischen Garten oder eine Allee ohne Smartphone. Entscheidend sind die Aktivierung der visuellen Wahrnehmung und die Gehirndurchblutung.",
+          "fr": "Remplacez les sentiers de montagne par une marche de 30 minutes dans un parc urbain, un jardin botanique ou une allée arborée, sans téléphone. L'essentiel est d'activer la perception visuo-spatiale et l'irrigation cérébrale.",
+          "pt": "Substitua as trilhas por uma caminhada de 30 minutos em um parque urbano, jardim botânico ou avenida arborizada, sem celular. O essencial é ativar os sentidos visoespaciais e aumentar o fluxo sanguíneo cerebral.",
+          "id": "Ganti jalur gunung dengan berjalan kaki selama 30 menit melintasi taman kota, kebun raya, atau jalan rindang tanpa ponsel pintar Anda. Mengaktifkan jalur sensorik visuospasial dan meningkatkan sirkulasi darah otak adalah mekanisme utamanya."
         }
       },
       {
         "question": {
-          "ko": "하이킹 중 떠오른 아이디어를 잊지 않고 기록하는 팁이 있나요?"
+          "ko": "하이킹 중 떠오른 아이디어를 잊지 않고 기록하는 팁이 있나요?",
+          "en": "What is the best way to capture ideas that surface during a hike without disrupting focus?",
+          "ja": "ハイキング中に浮かんだアイデアを忘れずに記録するコツはありますか？",
+          "zh": "在徒步途中闪现灵感时，有何既能精准保留又不妨碍沉浸踱步的记录技巧？",
+          "es": "¿Cuál es la mejor manera de capturar las ideas que surgen durante la caminata sin perder el enfoque?",
+          "de": "Wie hält man Gedanken während des Wanderns am besten fest, ohne den Denkfluss zu stören?",
+          "fr": "Quelle est la meilleure méthode pour consigner les idées émergées pendant la marche sans rompre le rythme ?",
+          "pt": "Qual é a melhor maneira de capturar as ideias que surgem durante a caminhada sem perder o foco?",
+          "id": "Apa cara terbaik untuk menangkap ide yang muncul selama pendakian tanpa mengganggu fokus?"
         },
         "answer": {
-          "ko": "주머니에 작은 메모 수첩과 펜을 소지하여 생각나는 즉시 핵심 단어만 간단히 수기 기록하거나, 걷기에 방해되지 않도록 음성 메모 기능으로 즉석 녹음하는 방안을 추천합니다."
+          "ko": "주머니에 작은 메모 수첩과 펜을 소지하여 생각나는 즉시 핵심 단어만 간단히 수기 기록하거나, 걷기에 방해되지 않도록 음성 메모 기능으로 즉석 녹음하는 방안을 추천합니다.",
+          "en": "Carry a pocket notebook and pen to jot down key trigger words the moment an idea strikes. Alternatively, use a brief hands-free voice memo recorder so you can record insights instantly without interrupting your walking rhythm.",
+          "ja": "ポケットに小さなメモ手帳とペンを携帯し、思い浮かんだら即座に核心単語だけを簡単に手書き記録するか、歩行の邪魔にならないよう音声メモ機能で low-friction に録音する方法をお勧めします。",
+          "zh": "随身携带袖珍便签与铅笔，在灵感闪现的当下仅速记几个核心主词；或使用蓝牙/单键语音备忘录功能快速口述录音，避免因繁琐打字中断步行韵律。",
+          "es": "Lleve una libreta de bolsillo y un bolígrafo para anotar palabras clave en el momento en que surja una idea. Alternativamente, use una grabadora de notas de voz de un solo toque para no interrumpir el ritmo.",
+          "de": "Tragen Sie ein kleines Notizbuch und einen Stift bei sich, um Schlüsselwörter sofort aufzuschreiben. Alternativ können Sie kurze Sprachnachrichten aufnehmen, ohne Ihren Gehfluss zu unterbrechen.",
+          "fr": "Emportez un carnet de poche et un crayon pour noter quelques mots-clés dès qu'une idée surgit. Vous pouvez aussi utiliser un enregistreur vocal rapide pour ne pas interrompre votre allure.",
+          "pt": "Carregue um caderno de bolso e uma caneta para anotar palavras-chave no momento em que surgir uma ideia. Como alternativa, use um gravador de voz rápido para não interromper o ritmo.",
+          "id": "Bawa buku catatan saku dan pena untuk mencatat kata kunci utama saat sebuah ide muncul. Atau, gunakan perekam memo suara sekali sentuh agar Anda dapat merekam wawasan secara instan tanpa mengganggu ritme jalan Anda."
         }
       }
     ]

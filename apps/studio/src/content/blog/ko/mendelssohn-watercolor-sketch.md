@@ -8,10 +8,10 @@ tags: ["위습관","루틴"]
 heroImage: "/images/blog/mendelssohn_watercolor_sketch.png"
 app: "buildself"
 formatVersion: 4
-authority: "펠릭스  역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+authority: "펠릭스 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
 steps:
-  - name: "5분간의 시각적 자연 및  묵도"
-    text: "아침에 일어나 창문을 열고 밖의 나무나 구름, 또는 책상 위  하나를 가만히 정해서 시각 정보를 분석하듯 5분간 관찰합니다. 대상을 머리로 비판적으로 해석하지 않고 형태와 색채 자체를 수용하는 명상입니다."
+  - name: "5분간의 시각적 자연 및 묵도"
+    text: "아침에 일어나 창문을 열고 밖의 나무나 구름, 또는 책상 위 하나를 가만히 정해서 시각 정보를 분석하듯 5분간 관찰합니다. 대상을 머리로 비판적으로 해석하지 않고 형태와 색채 자체를 수용하는 명상입니다."
   - name: "비언어적 감각 스케치 드로잉"
     text: "수첩이나 디지털 드로잉 앱을 활용해 관찰한 대상의 윤곽을 선으로 부드럽게 스케치합니다. 색연필이나 마커 등이 있다면 밝고 조화로운 색채를 가볍게 채워 시각 촉각적인 신체적 동작을 완성합니다."
   - name: "주 활동(음악, 코딩, 기획)으로의 즉각 감각 전이"
@@ -26,7 +26,7 @@ faqs:
 
 멘델스존은 오케스트라 리허설이나 지독한 악보 작업 사이사이, 휴대용 붓과 수채화 물감 상자를 들고 야외 산책을 나섰습니다. 그는 바람 부는 언덕이나 고풍스러운 건물의 정경을 은은한 수채화 물감으로 스케치북에 담아냈습니다. 음악적 청각 자극에서 시각적 미술 표현으로 감각 채널을 전환하는 이 수채화 리셋 루틴이 그의 뇌에 새로운 영감의 오아시스를 제공했습니다.
 
-오늘 BuildSelf에서는 멘델스존의 수채화 스케치 교차 루틴에 담긴 감각 전환(Cross-Sensory Shifting)과 우뇌 창의성 활성화의 인지과학을 소개합니다.
+오늘 포스트에서는 멘델스존의 수채화 스케치 교차 루틴에 담긴 감각 전환(Cross-Sensory Shifting)과 우뇌 창의성 활성화의 인지과학을 소개합니다.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -35,7 +35,7 @@ faqs:
       역사적 및 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>펠릭스  역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 mendelssohn-watercolor-sketch 루틴을 다룹니다.
+      본 콘텐츠는 <strong>펠릭스 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 mendelssohn-watercolor-sketch 루틴을 다룹니다.
     </p>
   </div>
 </div>
@@ -57,10 +57,10 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">5분간의 시각적 자연 및  묵도</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">5분간의 시각적 자연 및 묵도</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    아침에 일어나 창문을 열고 밖의 나무나 구름, 또는 책상 위  하나를 가만히 정해서 시각 정보를 분석하듯 5분간 관찰합니다. 대상을 머리로 비판적으로 해석하지 않고 형태와 색채 자체를 수용하는 명상입니다.
+    아침에 일어나 창문을 열고 밖의 나무나 구름, 또는 책상 위 하나를 가만히 정해서 시각 정보를 분석하듯 5분간 관찰합니다. 대상을 머리로 비판적으로 해석하지 않고 형태와 색채 자체를 수용하는 명상입니다.
   </p>
 </div>
 

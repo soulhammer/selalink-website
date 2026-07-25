@@ -1,70 +1,214 @@
 {
   "fdr-stamp-collecting": {
     "title": {
-      "ko": "프랭클린 D. 루스벨트의 '우표 분류': 격무 속 뇌를 구한 인지적 이완 루틴"
+      "ko": "프랭클린 D. 루스벨트의 '우표 분류': 격무 속 뇌를 구한 인지적 이완 루틴과 아날로그 숙면법",
+      "en": "Franklin D. Roosevelt's Stamp Sorting Routine: Cognitive Relaxation and Analog Sleep Rituals",
+      "ja": "フランクリン・D・ルーズベルトの「切手分類」：過酷な業務から脳を救った認知的リラックスルーティンとアナログ熟眠法",
+      "zh": "富兰克林·D·罗斯福的“集邮分类”：在重压下拯救大脑的认知放松习惯与模拟睡眠法",
+      "es": "La Rutina de Clasificación de Sellos de Franklin D. Roosevelt: Relajación Cognitiva y Ritual Análogo de Sueño",
+      "de": "Franklin D. Roosevelts Briefmarkensortier-Routine: Kognitive Entspannung und analoges Schlafritual",
+      "fr": "La routine de tri de timbres de Franklin D. Roosevelt : Relaxation cognitive et rituel de sommeil analogique",
+      "pt": "A Rotina de Classificação de Selos de Franklin D. Roosevelt: Relaxamento Cognitivo e Ritual Analógico de Sono",
+      "id": "Rutinitas Memilah Prangko Franklin D. Roosevelt: Relaksasi Kognitif dan Ritual Tidur Analog"
     },
     "description": {
-      "ko": "전쟁과 경제 위기의 스트레스 속에서도 매일 밤 우표 분류로 뇌의 긴장을 풀었던 루스벨트 대통령. 숙면과 스트레스 해소를 돕는 인지적 이완의 원리를 알아봅니다."
+      "ko": "전쟁과 경제 위기의 스트레스 속에서도 매일 밤 우표 분류로 뇌의 긴장을 풀었던 루스벨트 대통령. 숙면과 스트레스 해소를 돕는 인지적 이완의 원리와 뇌과학적 메커니즘을 알아봅니다.",
+      "en": "Discover how President Roosevelt eased brain tension every night by sorting stamps amid wartime and economic crisis. Explore the neuroscience of cognitive relaxation and melatonin regulation for restorative sleep.",
+      "ja": "戦争と経済危機のストレスの中でも、毎夜切手の分類で脳の緊張をほぐしたルーズベルト大統領。熟眠とストレス解消を助ける認知的リラックスの原理と脳科学的メカニズムを解き明かします。",
+      "zh": "深入剖析罗斯福总统在战争与经济危机的高压下，每晚通过整理邮票抚平大脑紧张情绪的习惯。揭示助益深度睡眠与舒缓压力的认知放松原理与神经科学机制。",
+      "es": "Descubra cómo el presidente Roosevelt aliviaba la tensión mental clasificando sellos cada noche durante crisis bélicas y económicas. Explore la neurociencia de la relajación cognitiva y la melatonina.",
+      "de": "Erfahren Sie, wie Präsident Roosevelt seine Gehirnspannung während Kriegs- und Wirtschaftskrisen jeden Abend durch das Sortieren von Briefmarken abbaute. Entdecken Sie die Neurowissenschaften kognitiver Entspannung.",
+      "fr": "Découvrez comment le président Roosevelt apaisait sa tension mentale en triant des timbres chaque soir pendant les crises. Explorez la neuroscience de la relaxation cognitive et du sommeil réparateur.",
+      "pt": "Descubra como o presidente Roosevelt aliviava a tensão mental classificando selos todas as noites durante crises. Explore a neurociência do relaxamento cognitivo e do sono reparador.",
+      "id": "Pelajari bagaimana Presiden Roosevelt meredakan ketegangan otak setiap malam dengan memilah prangko di tengah krisis perang dan ekonomi. Temukan neurosains tentang relaksasi kognitif dan tidur nyenyak."
     },
     "authority": {
-      "ko": "프랭클린 D. 루스벨트 평전 및 FDR 대통령 도서관(FDR Presidential Library) 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+      "ko": "프랭클린 D. 루스벨트 평전 및 FDR 대통령 도서관(FDR Presidential Library) 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+      "en": "Historical Verification from Franklin D. Roosevelt Biographies, FDR Presidential Library Archives & Cognitive Neuroscience Research",
+      "ja": "フランクリン・D・ルーズベルト評伝およびFDR大統領図書館（FDR Presidential Library）史料考証＆認知神経科学（Cognitive Neuroscience）研究",
+      "zh": "富兰克林·D·罗斯福传记与罗斯福总统图书馆（FDR Presidential Library）史料考证及认知神经科学（Cognitive Neuroscience）研究",
+      "es": "Verificación Histórica de las Biografías de Franklin D. Roosevelt, Archivos de la Biblioteca Presidencial FDR e Investigación en Neurociencia Cognitiva",
+      "de": "Historische Überprüfung aus Franklin D. Roosevelt-Biografien, Archiven der FDR Presidential Library & Forschung der kognitiven Neurowissenschaften",
+      "fr": "Vérification Historique issue des biographies de Franklin D. Roosevelt, des archives de la FDR Presidential Library & de la Recherche en Neurosciences Cognitives",
+      "pt": "Verificação Histórica das Biografias de Franklin D. Roosevelt, Arquivos da Biblioteca Presidencial FDR e Pesquisa em Neurociência Cognitiva",
+      "id": "Verifikasi Historis dari Biografi Franklin D. Roosevelt, Arsip Perpustakaan Presidensial FDR & Penelitian Neurosains Kognitif"
     },
     "intro": {
-      "ko": "\"나는 우표 수집 덕분에 내 삶의 온전한 정신을 지킬 수 있었다.\" ✉️\n\n역사상 전무후무한 미국 대통령 4선 당선자이자 대공황 극복을 위한 뉴딜 정책을 펼치고 제2차 세계대전을 연합국의 승리로 이끈 위대한 행정가 프랭클린 D. 루스벨트. 그는 온 세계의 운명을 양어깨에 짊어진 채 국가적 위기와 전쟁 지휘라는 인간의 한계를 시험하는 격무 속에 평생을 살았습니다.\n\n게다가 소아마비로 평생을 휠체어에 의지해야 했던 신체적 고통 속에서도, 그가 항상 밝고 낙관적인 에너지를 잃지 않았던 원천 중 하나는 매일 밤 잠들기 직전에 가졌던 우표 정리 루틴이었습니다. 그는 보좌관들에게 '아무리 비상상황이어도 내 취침 전 30분은 방해하지 말라'고 엄포를 놨습니다. 모든 공문서를 치우고 핀셋과 우표첩을 꺼내 작은 종이 조각들을 대륙별, 발행연도별로 분류하며 그는 전쟁의 소음 속에서 뇌를 완전히 정화했습니다.\n\n오늘 포스트에서는 루스벨트의 '우표 분류' 루틴 속에 숨겨진 뇌과학적 원리와 스트레스가 일상을 지배하는 현대인들이 하루를 안전하게 마감하는 아날로그 이완 방법을 알아봅니다."
+      "ko": "\"나는 우표 수집 덕분에 내 삶의 온전한 정신을 지킬 수 있었다.\" ✉️\n\n역사상 전무후무한 미국 대통령 4선 당선자이자 대공황 극복을 위한 뉴딜 정책을 펼치고 제2차 세계대전을 연합국의 승리로 이끈 위대한 행정가 프랭클린 D. 루스벨트(Franklin D. Roosevelt, 1882–1945). 그는 온 세계의 운명을 양어깨에 짊어진 채 국가적 위기와 전쟁 지휘라는 인간의 한계를 시험하는 격무 속에 평생을 살았습니다.\n\n게다가 39세에 소아마비를 앓아 평생을 휠체어에 의지해야 했던 신체적 고통 속에서도, 그가 항상 밝고 낙관적인 에너지를 잃지 않았던 원천 중 하나는 매일 밤 잠들기 직전에 가졌던 우표 정리 루틴이었습니다. 8세 때 우표 수집을 시작해 평생 120만 장 이상의 우표를 모은 그는 보좌관들에게 '아무리 비상상황이어도 내 취침 전 30분은 방해하지 말라'고 엄포를 놨습니다. 모든 공문서를 치우고 핀셋과 우표첩을 꺼내 작은 종이 조각들을 대륙별, 발행연도별로 분류하며 그는 전쟁의 소음 속에서 뇌를 완전히 정화했습니다.\n\n오늘 포스트에서는 루스벨트의 '우표 분류' 루틴 속에 숨겨진 뇌과학적 원리와 스트레스가 일상을 지배하는 현대인들이 하루를 안전하게 마감하는 아날로그 이완 방법을 알아봅니다.",
+      "en": "\"I owe my life's sanity to stamp collecting.\" ✉️\n\nFranklin D. Roosevelt (1882–1945) was the only US President elected to four terms, steering the nation through the Great Depression with his New Deal and leading the Allies to victory in World War II. Carrying the fate of the free world on his shoulders, FDR endured unprecedented executive pressure and grueling decision-making.\n\nDespite contracting polio at age 39 and relying on a wheelchair for the rest of his life, Roosevelt maintained a remarkably optimistic, resilient spirit. One of his core secrets was a non-negotiable bedtime routine: stamp collecting. Having started philately at age 8 and building a personal collection of over 1.2 million stamps, FDR instructed his aides never to disturb him during the final 30 minutes before sleep, regardless of national emergencies. Clearing away all government documents, he picked up his tweezers and albums, sorting tiny paper squares by continent and date. In doing so, he silenced the clamor of war and refreshed his mind.\n\nIn today's post, we unpack the brain science underlying FDR's 'stamp sorting' routine and present an analog evening framework to help modern professionals unwind and achieve restorative sleep.",
+      "ja": "「私は切手収集のおかげで、人生における健全な精神を保つことができた。」 ✉️\n\n史上前無古後無の米国大統領4選当選者であり、大恐慌克服のためのニューディール政策を推進し、第二次世界大戦を連合国の勝利へと導いた偉大な行政家フランクリン・D・ルーズベルト（Franklin D. Roosevelt、1882–1945）。彼は全世界の運命を両肩に背負い、国家的危機と戦争指揮という人間の限界を試す激務の中で生涯を送りました。\n\nさらに39歳でポリオを患い、生涯車椅子に頼らざるを得なかった身体的苦痛の中でも、彼が常に明るく楽観的なエネルギーを失わなかった源泉の一つは、毎夜眠りにつく直前に持った切手整理ルーティンでした。8歳の時に切手収集を始め、生涯で120万枚以上の切手を集めた彼は、側近たちに「どんなに緊急事態であっても、私の就寝前30分は邪魔するな」と厳命しました。すべての公文書を片付け、ピンセットと切手帳を取り出して小さな紙片を大陸別、発行年別に分類しながら、彼は戦争の喧騒の中で脳を完全に浄化しました。\n\n本日の記事では、ルーズベルトの「切手分類」ルーティンに隠された脳科学的原理と、ストレスが日常を支配する現代人が1日を安全に締めくくるアナログリラックス方法を解き明かします。",
+      "zh": "“正是得益于集邮，我才得以在生命的大风大浪中守住健全的神智。” ✉️\n\n富兰克林·D·罗斯福（Franklin D. Roosevelt，1882–1945）是美国历史上唯一连任四届的传奇总统，通过“新政”拯救国家于大萧条之中，并领导盟军赢得了第二次世界大战的胜利。将整个自由世界的命运担于双肩的他，终身承受着前所未有的超负荷决策与国政高压。\n\n即便在39岁罹患脊髓灰质炎（小儿麻痹症）、余生不得不与轮椅为伴的肉体剧痛中，他依然维持着令人惊叹的乐观与充沛精力，其核心源泉之一便在于他绝不妥协的睡前集邮习惯。自8岁起便沉迷集邮、一生搜集了超120万枚邮票的他，曾向幕僚下达铁律：“纵有天大的紧急国事，也绝不可打扰我睡前的最后30分钟。”收起所有公文，拿起镊子与邮册，将方寸纸片依大陆与年份分门别类，他借此在战争喧嚣中彻底洗涤净去了大脑的疲惫。\n\n在今天的文章中，我们将深度解构罗斯福“集邮分类”习惯背后的脑科学原理，并为身处高压日常中的现代人提供一套安全收盘的模拟放松方案。",
+      "es": "\"Le debo a la filatelia la cordura de mi vida.\" ✉️\n\nFranklin D. Roosevelt (1882–1945) fue el único presidente de EE. UU. elegido para cuatro mandatos, superando la Gran Depresión con el New Deal y guiando a los Aliados a la victoria en la Segunda Guerra Mundial. Con el destino del mundo sobre sus hombros, soportó una presión ejecutiva inigualable.\n\nA pesar de contraer poliomielitis a los 39 años y depender de una silla de ruedas, mantuvo una mente optimista. Uno de sus secretos principales era su rutina inamovible antes de dormir: clasificar sellos. Habiendo comenzado a los 8 años y acumulado más de 1.2 millones de sellos, Roosevelt ordenó a sus asesores no interrumpirlo durante los últimos 30 minutos del día, sin importar las emergencias. Guardando los documentos oficiales, tomaba sus pinzas y álbumes para clasificar sellos por continente y fecha, despejando su mente del ruido de la guerra.\n\nEn la publicación de hoy, analizamos la neurociencia detrás de la rutina de clasificar sellos de FDR y presentamos un marco analógico para ayudar a los profesionales a relajarse y dormir bien.",
+      "de": "\"Ich verdanke dem Briefmarkensammeln den Erhalt meines Verstandes.\" ✉️\n\nFranklin D. Roosevelt (1882–1945) war der einzige US-Präsident, der für vier Amtszeiten gewählt wurde. Er führte die USA durch die Weltwirtschaftskrise und leitete die Alliierten im Zweiten Weltkrieg. Mit der Verantwortung für die Weltpolitik auf seinen Schultern bewältigte er eine enorme Entscheidungsortslast.\n\nTrotz seiner Polio-Erkrankung im Alter von 39 Jahren bewahrte sich FDR eine optimistische Lebenseinstellung. Sein Geheimnis war eine feste Abendroutine: das Sortieren von Briefmarken. Er sammelte seit seinem 8. Lebensjahr und besaß über 1,2 Millionen Briefmarken. Er wies seine Mitarbeiter an, ihn in den letzten 30 Minuten vor dem Schlafengehen unter keinen Umständen zu stören. Er räumte alle Akten beiseite, griff zu Pinzette und Album und sortierte die Marken nach Kontinenten und Jahren. So reinigte er seinen Verstand vom Lärm des Krieges.\n\nIm heutigen Beitrag untersuchen wir die Neurowissenschaften hinter FDRs Routine und zeigen, wie Sie abends analog entspannen und besser schlafen können.",
+      "fr": "« Je dois à la philatélie le maintien de ma santé mentale. » ✉️\n\nFranklin D. Roosevelt (1882–1945) fut le seul président américain élu pour quatre mandats, surmontant la Grande Dépression avec le New Deal et menant les Alliés à la victoire durant la Seconde Guerre mondiale. Portant le destin du monde libre sur ses épaules, il a enduré une pression décisionnelle sans précédent.\n\nMalgré la poliomyélite contractée à 39 ans et l'usage permanent d'un fauteuil roulant, Roosevelt conservait un esprit optimiste. Son secret tenait en un rituel nocturne strict : le tri de timbres. Collectionneur depuis l'âge de 8 ans avec plus de 1,2 million de timbres, FDR exigeait qu'on ne le dérange sous aucun prétexte pendant les 30 dernières minutes de sa journée. Rangeant les dossiers officiels, il saisissait ses pinces et albums pour classer ses timbres par continent et par date, purgeant son esprit des bruits de la guerre.\n\nDans cet article, nous analysons la neuroscience cognitive sous-jacente au rituel de tri de timbres de FDR et proposons une méthode analogique pour apaiser l'esprit avant le sommeil.",
+      "pt": "\"Devo à filatelia a sanidade da minha vida.\" ✉️\n\nFranklin D. Roosevelt (1882–1945) foi o único presidente dos EUA eleito para quatro mandatos, guiando o país durante a Grande Depressão com o New Deal e liderando os Aliados à vitória na Segunda Guerra Mundial. Carregando o destino do mundo livre nos ombros, enfrentou uma pressão decisória sem precedentes.\n\nApesar de ter contraído poliomielite aos 39 anos e depender de uma cadeira de rodas, Roosevelt mantinha um espírito otimista. Um de seus segredos era uma rotina noturna inegociável: classificar selos. Tendo começado aos 8 anos e reunido mais de 1,2 milhão de selos, FDR proibiu seus assessores de interrompê-lo nos últimos 30 minutos antes de dormir. Guardando os documentos oficiais, pegava suas pinças e álbuns para organizar os selos por continente e data, limpando a mente dos ruídos da guerra.\n\nNo artigo de hoje, analisamos a neurociência por trás da rotina de selos de FDR e apresentamos um guia analógico para relaxar e dormir melhor.",
+      "id": "\"Saya berhutang kesehatan mental saya pada hobi mengumpulkan prangko.\" ✉️\n\nFranklin D. Roosevelt (1882–1945) adalah satu-satunya Presiden AS yang terpilih selama empat masa jabatan, memimpin negara melewati Depresi Besar dengan New Deal dan membawa Sekutu menuju kemenangan dalam Perang Dunia II. Memikul nasib dunia di pundaknya, FDR menanggung beban pengambilan keputusan yang belum pernah ada sebelumnya.\n\nMeskipun menderita polio pada usia 39 tahun dan bergantung pada kursi roda seumur hidupnya, Roosevelt mempertahankan semangat yang sangat optimistis. Salah satu rahasia utamanya adalah rutinitas malam hari yang tidak dapat diganggu gugat: memilah prangko. Memulai filateli pada usia 8 tahun dan mengumpulkan lebih dari 1,2 juta prangko, FDR memerintahkan para pembantunya untuk tidak pernah mengganggunya selama 30 menit terakhir sebelum tidur. Menyingkirkan dokumen resmi, ia mengambil pinset dan albumnya untuk memilah kertas-kertas kecil menurut benua dan tahun, membersihkan otaknya dari kebisingan perang.\n\nDalam postingan hari ini, kami menganalisis neurosains kognitif di balik rutinitas 'memilah prangko' FDR dan menyajikan kerangka kerja malam analog untuk membantu profesional modern bersantai dan mencapai tidur nyenyak."
     },
     "whyTitle": {
-      "ko": "과열된 작업 기억을 식히는 인지적 이완"
+      "ko": "과열된 작업 기억을 식히는 인지적 이완과 부교감신경 활성화",
+      "en": "Cooling Overheated Working Memory via Cognitive Relaxation and Parasympathetic Activation",
+      "ja": "過熱した作業記憶を冷ます認知的リラックスと副交感神経の活性化",
+      "zh": "平息过载工作记忆的认知放松与副交感神经激活机制",
+      "es": "Enfriar la Memoria de Trabajo Sobrecargada Mediante Relajación Cognitiva y Activación Parasimpática",
+      "de": "Abkühlen des überhitzten Arbeitsgedächtnisses durch kognitive Entspannung und parasympathische Aktivierung",
+      "fr": "Apaiser la mémoire de travail surchauffée par la relaxation cognitive et l'activation parasympathique",
+      "pt": "Esfriar a Memória de Trabalho Sobrecarregada via Relaxamento Cognitivo e Ativação Parassimpática",
+      "id": "Mendinginkan Memori Kerja yang Terlalu Panas Melalui Relaksasi Kognitif dan Aktivasi Parasimpatis"
     },
     "whyDesc": {
-      "ko": "중요한 비즈니스 의사결정이나 스트레스가 높은 업무를 수행할 때, 뇌의 전전두엽 피질은 쉴 새 없이 회전하며 막대한 에너지를 소모합니다. 업무가 끝난 후에도 이 긴장이 풀리지 않고 인지적 잔류가 뇌에 남아 있으면 수면 장애를 유발하고 장기적으로 뇌신경 세포를 손상시킵니다.\n\n루스벨트의 우표 분류처럼 업무와 무관한 정밀한 시각-촉각적 취미를 즐기는 것은 뇌에 '안전 신호'를 보내 전두엽의 전반적인 각성 수준을 부드럽게 가라앉힙니다. 뇌과학 연구에 따르면, 이러한 인지적 이완(Cognitive Shifting)은 숙면을 유도하는 멜라토닌과 신체 복구를 돕는 성장 호르몬 방출을 촉진합니다. 즉, 의도적인 아날로그 쉼표를 통해 과열된 뇌를 식혀주는 필수적인 냉각 시스템 역할을 하는 것입니다."
+      "ko": "중요한 비즈니스 의사결정이나 스트레스가 높은 업무를 수행할 때, 뇌의 전전두엽 피질은 쉴 새 없이 회전하며 막대한 에너지를 소모합니다. 업무가 끝난 후에도 이 긴장이 풀리지 않고 인지적 잔류가 뇌에 남아 있으면 수면 장애를 유발하고 장기적으로 뇌신경 세포를 손상시킵니다. 루스벨트의 우표 분류처럼 업무와 무관한 정밀한 시각-촉각적 취미를 즐기는 것은 뇌에 '안전 신호'를 보내 전두엽의 전반적인 각성 수준을 부드럽게 가라앉힙니다. 뇌과학 연구에 따르면, 이러한 인지적 이완(Cognitive Shifting)은 숙면을 유도하는 멜라토닌과 신체 복구를 돕는 성장 호르몬 방출을 촉진합니다. 즉, 의도적인 아날로그 쉼표를 통해 과열된 뇌를 식혀주는 필수적인 냉각 시스템 역할을 하는 것입니다.",
+      "en": "High-stakes executive decision-making hyper-activates the prefrontal cortex, depleting vast amounts of neural energy. When work ends but mental tension persists, 'cognitive residue' impairs sleep quality and causes neural fatigue over time. Engaging in precise visual-tactile hobbies unrelated to work—such as FDR's stamp sorting—sends an explicit 'safety signal' to the brain, downregulating prefrontal arousal. Cognitive neuroscience shows that this cognitive shifting transitions the autonomic nervous system to parasympathetic dominance, boosting sleep-inducing melatonin and restorative growth hormone release. An intentional analog pause serves as an essential cooling system for an overheated brain.",
+      "ja": "重要なビジネス意思決定やストレスの高い業務を遂行する時、脳の前頭前野皮質は休みなく回転し、 막大なエネルギーを消費します。業務が終わった後もこの緊張が解けず、認知的残留が脳に残っていると、睡眠障害を引き起こし長期的には脳神経細胞を損傷させます。ルーズベルトの切手分類のように業務と無関係な精密な視覚・触覚的趣味を楽しむことは、脳に「安全信号」を送り前頭葉の全般的な覚醒レベルを穏やかに鎮めます。脳科学の研究によると、このような認知的リラックス（Cognitive Shifting）は熟眠を誘導するメラトニンと身体復旧を助ける成長ホルモンの放出を促進します。つまり、意図的なアナログの句読点を通じて過熱した脳を冷ます必須の冷却システムとして機能するのです。",
+      "zh": "在进行高风险商业决策或高压工作时，大脑前额叶皮层处于超负荷运转状态，消耗大量神经能量。若下班后紧绷的神经仍未放松，“认知残留”会导致睡眠障碍，长此以往更会损伤神经元。像罗斯福那样沉浸于与工作无关的精细视觉与触觉爱好（如整理邮票），能向大脑发送清晰的“安全信号”，柔和拉低前额叶的过度兴奋。神经科学研究证实，这种认知切换（Cognitive Shifting）能促使自主神经系统切入副交感神经为主导的状态，促进诱发深睡的褪黑素与修复身体的生长激素释放。换言之，人为打造的模拟休止符，构成了冷却过热大脑不可或缺的降温系统。",
+      "es": "Tomar decisiones de alto nivel hiperactiva la corteza prefrontal, agotando la energía mental. Cuando el trabajo termina pero la tensión persiste, el 'residuo cognitivo' degrada la calidad del sueño. Dedicarse a un pasatiempo visual y táctil ajeno al trabajo —como la clasificación de sellos de FDR— envía una 'señal de seguridad' al cerebro, reduciendo la excitación prefrontal. La neurociencia demuestra que este cambio cognitivo activa el sistema parasimpático, aumentando la melatonina y la hormona del crecimiento para un sueño reparador.",
+      "de": "Komplexe Entscheidungen überstimulieren den präfrontalen Kortex und verbrauchen Energie. Wenn nach der Arbeit mentale Spannungen bestehen bleiben, beeinträchtigen 'kognitive Rückstände' den Schlaf. Ein präzises visuell-taktiles Hobby ohne Arbeitsbezug – wie Roosevelts Briefmarkensortieren – sendet ein 'Sicherheitssignal' an das Gehirn und senkt die präfrontale Erregung. Diese kognitive Umstellung aktiviert den Parasympathikus und fördert die Ausschüttung von Melatonin.",
+      "fr": "Les décisions complexes surstimulent le cortex préfrontal, épuisant l'énergie mentale. Lorsque la tension persiste après le travail, le « résidu cognitif » altère le sommeil. S'adonner à un loisir visuel et tactile sans rapport avec le travail — comme le tri de timbres de FDR — envoie un « signal de sécurité » au cerveau, apaisant l'excitation préfrontale. La neuroscience montre que cette bascule cognitive active le système parasympathique, stimulant la mélatonine pour un sommeil réparateur.",
+      "pt": "Tomar decisões complexas sobrecarrega o córtex pré-frontal, esgotando a energia mental. Quando a tensão persiste após o trabalho, o 'resíduo cognitivo' prejudica o sono. Dedicar-se a um hobby visual e tátil sem relação com o trabalho — como a classificação de selos de FDR — envia um 'sinal de segurança' ao cérebro, reduzindo a excitação pré-frontal. A neurociência mostra que essa transição cognitiva ativa o sistema parassimpático, estimulando a melatonina.",
+      "id": "Pengambilan keputusan eksekutif berisiko tinggi mengaktifkan korteks prefrontal secara berlebihan, menguras energi saraf. Saat pekerjaan selesai tetapi ketegangan mental bertahan, 'residu kognitif' merusak kualitas tidur. Melakukan hobi visual-taktil presisi yang tidak terkait dengan pekerjaan—seperti memilah prangko FDR—mengirimkan 'sinyal keselamatan' ke otak, menurunkan gairah prefrontal. Neurosains menunjukkan bahwa peralihan kognitif ini mengalihkan sistem saraf otonom ke dominasi parasimpatis, meningkatkan melatonin untuk tidur nyenyak."
     },
     "cautionTitle": {
-      "ko": "취침 전 디지털 화면을 끄고 아날로그 활동에 초점을 맞추세요"
+      "ko": "취침 전 디지털 화면을 끄고 아날로그 활동에 초점을 맞추세요",
+      "en": "Caution: Power Off Digital Screens and Focus on Analog Bedtime Rituals",
+      "ja": "注意事項：就寝前デジタル画面を消しアナログ活動に焦点を合わせてください",
+      "zh": "注意事项：睡前关闭数字屏幕，聚焦实体模拟手作活动",
+      "es": "Precaución: Apague las Pantallas Digitales y Enfóquese en Actividades Analógicas",
+      "de": "Vorsichtsmaßnahme: Schalten Sie Bildschirme aus und setzen Sie auf analoge Aktivitäten",
+      "fr": "Mise en garde : Éteignez les écrans et privilégiez les activités analogiques",
+      "pt": "Precaução: Desligue as Telas e Foque em Atividades Analógicas Antes de Dormir",
+      "id": "Perhatian: Matikan Layar Digital dan Berfokuslah pada Aktivitas Analog"
     },
     "cautionDesc": {
-      "ko": "많은 이들이 침대에 누워 스마트폰으로 영상을 보며 쉰다고 착각하지만, 디지털 화면의 블루라이트와 끊임없는 자극 정보는 뇌를 계속해서 각성 상태로 만듭니다. 수면 호르몬인 멜라토닌이 원활히 분비되게 하려면, 취침 전 반드시 아날로그 도구나 손끝 감각을 사용하는 활동에 초점을 맞추는 시간을 가져야 합니다."
+      "ko": "많은 이들이 침대에 누워 스마트폰으로 영상을 보며 쉰다고 착각하지만, 디지털 화면의 블루라이트와 끊임없는 자극 정보는 뇌를 계속해서 각성 상태로 만듭니다. 수면 호르몬인 멜라토닌이 원활히 분비되게 하려면, 취침 전 반드시 아날로그 도구나 손끝 감각을 사용하는 활동에 초점을 맞추는 시간을 가져야 합니다.",
+      "en": "Many mistakenly assume that lying in bed watching smartphone videos provides rest. In reality, blue light emitted from digital screens and high-velocity content streams keep the brain trapped in high arousal, suppressing sleep-inducing melatonin. To enable healthy sleep architecture, replace digital inputs before bed with analog tools that engage tactile, physical senses.",
+      "ja": "多くの人がベッドに横たわってスマートフォンで動画を見ながら休んでいると 착覚しますが、デジタル画面のブルーライトと絶え間ない刺激情報は脳を継続して覚醒状態にさせます。睡眠ホルモンであるメラトニンが円滑に分泌されるようにするには、就寝前に必ずアナログ道具や指先の感覚を使う活動に焦点を合わせる時間を持たなければなりません。",
+      "zh": "许多人误以为躺在床上用手机刷短视频便是在休息，然而数字屏幕散发的蓝光与源源不断的高刺激信息流，会促使大脑持续处于高度兴奋状态，严重抑止褪黑素的分泌。欲保障高品质睡眠，睡前务必关停屏幕，将焦点转向调用手指触觉的实体模拟手作活动中。",
+      "es": "Muchos asumen erróneamente que ver videos en el teléfono desde la cama los descansa. En realidad, la luz azul y la estimulación continua mantienen al cerebro en estado de alerta, suprimiendo la melatonina. Para garantizar un buen descanso, reemplace las pantallas con actividades analógicas que usen el tacto.",
+      "de": "Viele glauben fälschlicherweise, dass das Anschauen von Smartphone-Videos im Bett der Entspannung dient. In Wahrheit halten Blaulicht und ständige Reize das Gehirn in Erregung und hemmen Melatonin. Ersetzen Sie Bildschirme vor dem Schlafen durch analoge Tätigkeiten, die Ihre Hände beschäftigen.",
+      "fr": "Beaucoup pensent à tort que regarder des vidéos sur smartphone au lit repose l'esprit. En réalité, la lumière bleue et les flux d'informations stimulants maintiennent le cerveau éveillé, bloquant la mélatonine. Pour favoriser le sommeil, remplacez les écrans par des activités analogiques sollicitant le toucher.",
+      "pt": "Muitos acreditam erroneamente que assistir a vídeos no celular na cama proporciona descanso. Na verdade, a luz azul e o estímulo contínuo mantêm o cérebro em alerta, inibindo a melatonina. Para garantir um sono saudável, substitua as telas por atividades analógicas que utilizem o tátil.",
+      "id": "Banyak orang keliru menganggap bahwa berbaring di tempat tidur sambil menonton video di ponsel pintar memberikan istirahat. Pada kenyataannya, cahaya biru dan aliran konten berkecepatan tinggi membuat otak tetap dalam kondisi gairah tinggi, menekan melatonin. Untuk memungkinkan tidur yang sehat, gantilah layar digital sebelum tidur dengan alat analog yang melibatkan indra peraba."
     },
     "steps": [
       {
         "name": {
-          "ko": "1단계: 집무 문서 치우기 및 물리적 경계 설정"
+          "ko": "1단계: 집무 문서 치우기 및 물리적 경계 설정",
+          "en": "Step 1: Clearing Work Documents & Establishing Physical Boundaries",
+          "ja": "ステップ1：執務文書の片付けおよび物理的境界の設定",
+          "zh": "步骤1：清空案头工作公文与设立物理防护边界",
+          "es": "Paso 1: Retirar Documentos de Trabajo y Establecer Límites Físicos",
+          "de": "Schritt 1: Wegräumen von Arbeitsunterlagen & Physische Grenzen setzen",
+          "fr": "Étape 1 : Rangement des documents de travail & Frontières physiques",
+          "pt": "Passo 1: Guardar Documentos de Trabalho e Definir Limites Físicos",
+          "id": "Langkah 1: Menyingkirkan Dokumen Kerja & Menetapkan Batasan Fisik"
         },
         "text": {
-          "ko": "침대 주변이나 책상 위에서 일과 연관된 서류, 다이어리, 노트북 등을 보이지 않는 서랍 안으로 치웁니다. 업무 공간과 이완 공간의 물리적 경계를 짓는 필수 행동입니다."
+          "ko": "침대 주변이나 책상 위에서 일과 연관된 서류, 다이어리, 노트북 등을 보이지 않는 서랍 안으로 치웁니다. 업무 공간과 이완 공간의 물리적 경계를 짓는 필수 행동입니다.",
+          "en": "Clear all work-related documents, planners, and laptops away from your desk or bed, stowing them inside drawers out of sight. This physically establishes a clear cognitive boundary between work and relaxation.",
+          "ja": "ベッド周辺やデスクの上から仕事に関連する書類、ダイアリー、ノートパソコンなどを目に見えない引き出しの中へ片付けます。業務空間とリラックス空間の物理的境界を設ける必須の行動です。",
+          "zh": "将床头或书桌上所有与工作相关的公文、日程本与笔记本电脑收纳进视线之外的抽屉中。这是划清工作空间与舒缓空间物理防护界限的必经步骤。",
+          "es": "Guarde todos los documentos de trabajo, agendas y ordenadores fuera de su vista en cajones. Esto establece un límite físico claro entre el espacio de trabajo y el de descanso.",
+          "de": "Räumen Sie alle Arbeitsunterlagen, Planer und Laptops aus dem Blickfeld in Schubladen. Das schafft eine physische Grenze zwischen Arbeits- und Entspannungsbereich.",
+          "fr": "Rangez tous les documents professionnels, agendas et ordinateurs hors de vue dans des tiroirs. Cela établit une frontière physique nette entre travail et détente.",
+          "pt": "Guarde todos os documentos de trabalho, agendas e notebooks fora da sua vista em gavetas. Isso estabelece um limite físico claro entre o espaço de trabalho e o de descanso.",
+          "id": "Singkirkan semua dokumen terkait pekerjaan, agenda, dan laptop dari meja atau tempat tidur Anda, simpan di dalam laci yang tidak terlihat. Ini secara fisik menetapkan batasan kognitif yang jelas antara ruang kerja dan relaksasi."
         }
       },
       {
         "name": {
-          "ko": "2단계: 손끝 감각을 활용하는 아날로그 소일거리 선택"
+          "ko": "2단계: 손끝 감각을 활용하는 아날로그 소일거리 선택",
+          "en": "Step 2: Selecting a Tactile Analog Micro-Hobby",
+          "ja": "ステップ2：指先の感覚を活用する手軽なアナログ手作業の選択",
+          "zh": "步骤2：甄选一项调用手指触觉的精细模拟手作",
+          "es": "Paso 2: Seleccionar un Pasatiempo Analógico y Táctil",
+          "de": "Schritt 2: Auswählen einer analogen, taktilen Aktivität",
+          "fr": "Étape 2 : Sélection d'une activité analogique et tactile",
+          "pt": "Passo 2: Selecionar um Hobby Analógico e Tátil",
+          "id": "Langkah 2: Memilih Hobi Mikro Analog Taktil"
         },
         "text": {
-          "ko": "퍼즐 맞추기, 우표 정리, 드로잉, 악기 손질 등 손끝의 감각을 사용하고 결과를 즉각 눈으로 확인할 수 있는 아날로그 취미 활동을 준비합니다."
+          "ko": "퍼즐 맞추기, 우표 정리, 드로잉, 악기 손질 등 손끝의 감각을 사용하고 결과를 즉각 눈으로 확인할 수 있는 아날로그 취미 활동을 준비합니다.",
+          "en": "Prepare a simple tactile activity that provides immediate visual-spatial feedback—such as assembling puzzles, organizing stamps, sketching, or tuning an instrument.",
+          "ja": "パズル合わせ、切手整理、ドローイング、楽器の手入れなど、指先の感覚を使い結果を即座に目で確認できるアナログ趣味活動を用意します。",
+          "zh": "准备一项能带来即时视空间反馈、调用手指触觉的轻量手作——如拼图、整理卡片/邮票、手绘或打理保养小乐器。",
+          "es": "Prepare una actividad táctil sencilla que proporcione retroalimentación visual inmediata: resolver puzles, organizar sellos, dibujar o limpiar un instrumento.",
+          "de": "Bereiten Sie eine einfache taktile Aktivität vor, die sofortiges visuelles Feedback liefert: Puzzles bauen, Briefmarken ordnen, Skizzieren oder ein Instrument pflegen.",
+          "fr": "Préparez une activité tactile simple offrant un retour visuel immédiat : assembler des puzzles, trier des timbres, dessiner ou entretenir un instrument.",
+          "pt": "Prepare uma atividade tátil simples que proporcione feedback visual imediato: montar quebra-cabeças, organizar selos, desenhar ou limpar um instrumento.",
+          "id": "Siapkan aktivitas taktil sederhana yang memberikan umpan balik visual-spasial secara langsung—seperti menyusun teka-teki, memilah prangko, menggambar, atau merawat alat musik."
         }
       },
       {
         "name": {
-          "ko": "3단계: 30분간의 무목적 몰입 및 심신 이완"
+          "ko": "3단계: 30분간의 무목적 몰입 및 심신 이완",
+          "en": "Step 3: 30 Minutes of Purpose-Free Immersion & Mind-Body Relaxation",
+          "ja": "ステップ3：30分間の無目的没頭および心身リラックス",
+          "zh": "步骤3：沉浸于30分钟无功利手作与身心全面放松",
+          "es": "Paso 3: 30 Minutos de Inmersión Sin Propósito y Relajación Mental",
+          "de": "Schritt 3: 30 Minuten zweckfreies Eintauchen & Entspannung",
+          "fr": "Étape 3 : 30 minutes d'immersion sans objectif & Relaxation globale",
+          "pt": "Passo 3: 30 Minutos de Imersão Sem Propósito e Relaxamento Mental",
+          "id": "Langkah 3: Imersi Tanpa Tujuan Selama 30 Menit & Relaksasi Jiwa-Raga"
         },
         "text": {
-          "ko": "어떤 생산적 의무나 효율성을 버리고 오직 해당 소일거리의 색상, 촉각, 형태에만 집중하여 30분간 시간을 보냅니다. 마음의 평화와 호흡의 차분함을 유지하는 것에 전념합니다."
+          "ko": "어떤 생산적 의무나 효율성을 버리고 오직 해당 소일거리의 색상, 촉각, 형태에만 집중하여 30분간 시간을 보냅니다. 마음의 평화와 호흡의 차분함을 유지하는 것에 전념합니다.",
+          "en": "Spend 30 minutes focusing purely on the colors, textures, and forms of your activity, shedding all productivity pressures. Concentrate entirely on stabilizing your breathing and achieving mental peace.",
+          "ja": "いかなる生産的義務や効率性も捨て、ただ該当する手作業の色彩、触覚、形態だけに集中して30分間過ごします。心の平和と呼吸の静けさを維持することに専念します。",
+          "zh": "抛却一切功利性的生产力包袱与效率执念，用足30分钟纯粹沉浸于该手作的色彩、触感与造型中。全神贯注于平稳呼吸与回归内心的宁静。",
+          "es": "Dedique 30 minutos a concentrarse únicamente en los colores, texturas y formas de la actividad, dejando de lado la productividad. Enfoque su mente en estabilizar la respiración.",
+          "de": "Verbringen Sie 30 Minuten damit, sich nur auf Farben, Formen und Berührungen der Aktivität zu konzentrieren, frei von Leistungsdruck. Fokussieren Sie sich auf ruhige Atmung.",
+          "fr": "Consacrez 30 minutes a vous concentrer uniquement sur les couleurs, textures et formes de l'activité, sans chercher la productivité. Concentrez-vous sur la stabilisation de votre respiration.",
+          "pt": "Dedique 30 minutos concentrando-se apenas nas cores, texturas e formas da atividade, deixando de lado a produtividade. Concentre-se em estabilizar a respiração e alcançar a paz.",
+          "id": "Luangkan waktu 30 menit untuk berfokus murni pada warna, tekstur, dan bentuk aktivitas Anda, melepaskan semua tekanan produktivitas. Berfokuslah sepenuhnya untuk menstabilkan napas Anda."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "스마트폰 게임이나 영상 시청도 인지적 이완에 도움이 되나요?"
+          "ko": "스마트폰 게임이나 영상 시청도 인지적 이완에 도움이 되나요?",
+          "en": "Do smartphone games or watching video streams help achieve cognitive relaxation?",
+          "ja": "スマートフォンゲームや動画視聴も認知的リラックスに役立ちますか？",
+          "zh": "玩手机游戏或刷短视频流有助于达成认知放松吗？",
+          "es": "¿Jugar juegos móviles o ver videos ayuda a lograr una relajación cognitiva?",
+          "de": "Helfen Smartphone-Spiele oder Videos bei der kognitiven Entspannung?",
+          "fr": "Les jeux sur smartphone ou le visionnage de vidéos aident-ils a la relaxation cognitive ?",
+          "pt": "Jogar no celular ou assistir a vídeos ajuda a alcançar o relaxamento cognitivo?",
+          "id": "Apakah bermain game di ponsel pintar atau menonton video membantu mencapai relaksasi kognitif?"
         },
         "answer": {
-          "ko": "그렇지 않습니다. 디지털 화면의 블루라이트와 자극적인 정보 피드는 뇌를 쉬게 하는 것이 아니라 각성 상태를 유지하여 수면 호르몬인 멜라토닌 분비를 방해합니다. 인지적 이완을 위해서는 반드시 아날로그 도구나 손끝을 사용하는 소일거리를 활용해야 합니다."
+          "ko": "그렇지 않습니다. 디지털 화면의 블루라이트와 자극적인 정보 피드는 뇌를 쉬게 하는 것이 아니라 각성 상태를 유지하여 수면 호르몬인 멜라토닌 분비를 방해합니다. 인지적 이완을 위해서는 반드시 아날로그 도구나 손끝을 사용하는 소일거리를 활용해야 합니다.",
+          "en": "No, they do not. Blue light and stimulating digital algorithms prevent brain rest by maintaining high cortical arousal and suppressing melatonin secretion. True cognitive relaxation requires analog activities that engage tactile sensations without screen exposure.",
+          "ja": "そうではありません。デジタル画面のブルーライトと刺激的な情報フィードは脳を休ませるのではなく覚醒状態を維持させ、睡眠ホルモンであるメラトニンの分泌を妨げます。認知的リラックスのためには、必ずアナログ道具や指先を使う手作業を活用しなければなりません。",
+          "zh": "完全不能。数字屏幕产生的蓝光与高刺激算法推送不仅无法让大脑得到休息，反而会强行维持皮层的兴奋度，严重妨碍睡眠霍尔蒙褪黑素的正常分泌。欲达成真正的认知放松，必须选用不接触屏幕、依靠手指触觉的实体手作活动。",
+          "es": "No. La luz azul y los algoritmos estimulantes mantienen al cerebro en alerta e inhiben la melatonina. La verdadera relajación cognitiva requiere actividades analógicas que usen el tacto sin pantallas.",
+          "de": "Nein. Blaulicht und digitale Reize halten das Gehirn in Erregung und hemmen die Melatoninausschüttung. Echte kognitive Entspannung erfordert analoge Tätigkeiten ohne Bildschirmkontakt.",
+          "fr": "Non. La lumière bleue et les contenus stimulants maintiennent l'éveil cérébral et bloquent la mélatonine. La vraie relaxation cognitive nécessite des activités analogiques sollicitant le toucher sans écran.",
+          "pt": "Não. A luz azul e os algoritmos estimulantes mantêm o cérebro em alerta e inibem a melatonina. O verdadeiro relaxamento cognitivo requer atividades analógicas que utilizem o tátil sem telas.",
+          "id": "Tidak. Cahaya biru dan algoritma digital yang merangsang mencegah istirahat otak dengan mempertahankan gairah kortikal yang tinggi dan menekan sekresi melatonin. Relaksasi kognitif sejati membutuhkan aktivitas analog yang melibatkan indra peraba."
         }
       },
       {
         "question": {
-          "ko": "매일 밤 30분이 너무 길게 느껴질 때는 어떻게 하나요?"
+          "ko": "매일 밤 30분이 너무 길게 느껴질 때는 어떻게 하나요?",
+          "en": "What if dedicating 30 minutes every night feels too long or difficult to schedule?",
+          "ja": "毎夜30分が長すぎると感じる時はどうすればよいですか？",
+          "zh": "若感到每晚固定挤出30分钟过于漫长或难以安排，该如何调整？",
+          "es": "¿Qué pasa si dedicar 30 minutos todas las noches parece demasiado largo?",
+          "de": "Was tun, wenn 30 Minuten jeden Abend zu lang oder schwer einzuplanen sind?",
+          "fr": "Que faire si consacrer 30 minutes chaque soir semble trop long ou difficile ?",
+          "pt": "O que fazer se dedicar 30 minutos todas as noites parecer muito longo?",
+          "id": "Bagaimana jika meluangkan waktu 30 menit setiap malam terasa terlalu lama atau sulit dijadwalkan?"
         },
         "answer": {
-          "ko": "시간이 부족하다면 단 10분만이라도 좋습니다. 노트북을 덮고 좋아하는 드로잉 북에 낙서를 하거나 가벼운 아날로그 일기를 쓰는 등의 동작을 통해 뇌에 '일과가 끝났다'는 안전 신호만 확실히 피드백해 주어도 효과가 있습니다."
+          "ko": "시간이 부족하다면 단 10분만이라도 좋습니다. 노트북을 덮고 좋아하는 드로잉 북에 낙서를 하거나 가벼운 아날로그 일기를 쓰는 등의 동작을 통해 뇌에 '일과가 끝났다'는 안전 신호만 확실히 피드백해 주어도 효과가 있습니다.",
+          "en": "Starting with just 10 minutes is entirely effective. Closing your laptop to doodle in a sketchbook or write a brief entry in an analog journal clearly feeds a 'workday is finished' safety signal to your brain, successfully triggering parasympathetic relaxation.",
+          "ja": "時間が不足しているなら、わずか10分だけでも十分です。ノートパソコンを閉じてお気に入りのドローイングブックに落書きをしたり、軽いアナログ日記を書くなどの動作を通じて、脳に「1日の業務が終わった」という安全信号を確実にフィードバックしてあげるだけでも効果があります。",
+          "zh": "哪怕仅抽出10分钟也同样行之有效。合上笔记本电脑，在草稿本上随意涂鸦，或在实体日记本上书写寥寥数行，只要能向大脑明确传递出“今日工作已圆满收盘”的安全信号，便足以成功触发副交感神经的放松机制。",
+          "es": "Comenzar con solo 10 minutos es perfectamente efectivo. Cerrar el portátil para garabatear en un cuaderno o escribir un diario analógico breve envía al cerebro la señal de que 'el día ha terminado', activando la relajación.",
+          "de": "Selbst 10 Minuten sind effektiv. Das Zuklappen des Laptops, um im Skizzenbuch zu zeichnen oder ins Notizbuch zu schreiben, signalisiert dem Gehirn 'Der Arbeitstag ist vorbei' und leitet Entspannung ein.",
+          "fr": "Commencer par seulement 10 minutes est très efficace. Fermer votre ordinateur pour griffonner dans un carnet ou écrire quelques lignes envoie le signal que « la journée est terminée », déclenchant la relaxation.",
+          "pt": "Começar com apenas 10 minutos é eficaz. Fechar o notebook para rabiscar em um bloco ou escrever um diário analógico curto envia ao cérebro o sinal de que 'o dia acabou', ativando o relaxamento.",
+          "id": "Memulai hanya dengan 10 menit sudah sangat efektif. Menutup laptop Anda untuk mencoret-coret di buku sketsa atau menulis entri singkat di jurnal analog memberikan 'sinyal keselamatan bahwa hari kerja telah usai' ke otak Anda."
         }
       }
     ]

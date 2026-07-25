@@ -1,70 +1,214 @@
 {
   "eisenhower-matrix-decision": {
     "title": {
-      "ko": "중요한 일에 집중하는 힘: 드와이트 아이젠하워의 우선순위 4분면 의사결정 습관"
+      "ko": "중요한 일에 집중하는 힘: 드와이트 아이젠하워의 우선순위 4분면 의사결정 습관",
+      "en": "The Power of Focusing on What Matters: Dwight D. Eisenhower's Priority 4-Quadrant Decision-Making Habit",
+      "ja": "重要なことに集中する力：ドワイト・アイゼンハワーの優先順位4象限意思決定習慣",
+      "zh": "聚焦于真正要事的力量：德怀特·艾森豪威尔的四象限优先权决策习惯",
+      "es": "El Poder de Enfocarse en lo Importante: El Hábito de Decisión de 4 Cuadrantes de Dwight D. Eisenhower",
+      "de": "Die Kraft, sich auf das Wichtige zu konzentrieren: Dwight D. Eisenhowers Prioritäten-4-Quadranten-Entscheidungsgewohnheit",
+      "fr": "Le pouvoir de se concentrer sur l'essentiel : La routine de décision à 4 cadrans de Dwight D. Eisenhower",
+      "pt": "O Poder de Focar no que Importa: O Hábito de Decisão em 4 Quadrantes de Dwight D. Eisenhower",
+      "id": "Kekuatan Berfokus pada Hal Penting: Kebiasaan Pengambilan Keputusan 4 Kuadran Prioritas Dwight D. Eisenhower"
     },
     "description": {
-      "ko": "전쟁과 국정 운영이라는 거대한 의사결정의 무게를 견뎌낸 아이젠하워 대통령. 사소한 급박함에 휘둘리지 않고 본질적이고 중요한 일에 뇌의 에너지를 배정했던 그의 시간 관리 비결과 인지과학적 메커니즘을 분석합니다."
+      "ko": "전쟁과 국정 운영이라는 거대한 의사결정의 무게를 견뎌낸 아이젠하워 대통령. 사소한 급박함에 휘둘리지 않고 본질적이고 중요한 일에 뇌의 에너지를 배정했던 그의 시간 관리 비결과 인지과학적 메커니즘을 분석합니다.",
+      "en": "President Eisenhower endured the immense weight of decision-making during wartime and national governance. Discover his time management secret of allocating brain energy to essential matters without being swayed by minor urgencies, analyzed through cognitive neuroscience.",
+      "ja": "戦争と国政運営という巨大な意思決定の重みに耐え抜いたアイゼンハワー大統領。些細な緊急性に振り回されず、本質的で重要な仕事に脳のエネルギーを配分した彼の時間管理の秘訣と認知科学的メカニズムを分析します。",
+      "zh": "艾森豪威尔总统担负着战时统帅与国政掌舵的巨大决策重任。本文深入剖析他不被无谓紧迫感绑架、将大脑能量精准倾注于本质要事的时间管理秘诀与认知神经科学机制。",
+      "es": "El presidente Eisenhower soportó el enorme peso de las decisiones durante la guerra y la gobernanza nacional. Analizamos su secreto de gestión del tiempo para asignar energía mental a lo esencial sin dejarse llevar por urgencias menores, respaldado por la neurociencia cognitiva.",
+      "de": "Präsident Eisenhower trug die immense Last strategischer Entscheidungen in Krieg und Staatsführung. Wir analysieren sein Zeitmanagement-Geheimnis, mentale Energie auf das Wesentliche zu lenken, ohne sich von belanglosen Dringlichkeiten ablenken zu lassen, sowie die kognitiven Mechanismen dahinter.",
+      "fr": "Le président Eisenhower a porté le poids de décisions colossales pendant la guerre et au sommet de l'État. Découvrez son secret de gestion du temps pour allouer l'énergie cérébrale à l'essentiel sans céder aux urgences mineures, analysé par les neurosciences cognitives.",
+      "pt": "O presidente Eisenhower suportou o enorme peso de decisões durante a guerra e a governança nacional. Analisamos seu segredo de gestão do tempo para alocar energia mental ao que é essencial sem se deixar levar por urgências menores, sob a ótica da neurociência cognitiva.",
+      "id": "Presiden Eisenhower menanggung beban keputusan yang sangat besar selama perang dan pemerintahan negara. Pelajari rahasia manajemen waktunya dalam mengalokasikan energi otak untuk hal-hal penting tanpa tergoyahkan oleh urgensi sepele, dianalisis melalui neurosains kognitif."
     },
     "authority": {
-      "ko": "드와이트 D. 아이젠하워 자서전 『평화주의자(At Ease: Stories I Tell to Friends)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+      "ko": "드와이트 D. 아이젠하워 자서전 『평화주의자(At Ease: Stories I Tell to Friends)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+      "en": "Historical Verification from Dwight D. Eisenhower's Autobiography *At Ease: Stories I Tell to Friends* & Cognitive Neuroscience Research",
+      "ja": "ドワイト・D・アイゼンハワー自伝『At Ease: Stories I Tell to Friends（気楽に話そう）』考証＆認知神経科学（Cognitive Neuroscience）研究",
+      "zh": "德怀特·D·艾森豪威尔自传《轻松谈往（At Ease: Stories I Tell to Friends）》考证及认知神经科学（Cognitive Neuroscience）研究",
+      "es": "Verificación Histórica de la Autobiografía de Dwight D. Eisenhower *At Ease: Stories I Tell to Friends* e Investigación en Neurociencia Cognitiva",
+      "de": "Historische Überprüfung aus Dwight D. Eisenhowers Autobiografie *At Ease: Stories I Tell to Friends* & Forschung der kognitiven Neurowissenschaften",
+      "fr": "Vérification Historique issue de l'autobiographie de Dwight D. Eisenhower *At Ease: Stories I Tell to Friends* & Recherche en Neurosciences Cognitives",
+      "pt": "Verificação Histórica da Autobiografia de Dwight D. Eisenhower *At Ease: Stories I Tell to Friends* e Pesquisa em Neurociência Cognitiva",
+      "id": "Verifikasi Historis dari Autobiografi Dwight D. Eisenhower *At Ease: Stories I Tell to Friends* & Penelitian Neurosains Kognitif"
     },
     "intro": {
-      "ko": "\"나에게는 두 가지 종류의 문제가 있다. 하나는 긴급한 것이고, 다른 하나는 중요한 것이다. 긴급한 문제는 보통 중요하지 않고, 중요한 문제는 결코 긴급하지 않다.\" 📊\n\n제2차 세계대전 연합군 최고사령관이자 제34대 미국 대통령이었던 드와이트 D. 아이젠하워. 그는 인류 역사상 가장 복잡하고 광범위한 결정을 매일 내려야 했던 인물입니다. 수많은 군사 작전과 외교 문제, 그리고 방대한 행정 업무 속에서 그가 평생 유지한 단순하고 강력한 습관이 있었습니다. 그것은 바로 매일 아침 집무실에서 빈 종이에 십자선(+)을 그려 네 개의 구역으로 업무를 나누는 것이었습니다. 그는 스스로에게 질문했습니다. '이 일은 정말 중요한가? 아니면 그저 긴급한 것인가?' 긴급함의 덫에서 벗어나 인생의 본질적인 중요성에 주의를 집중하게 만드는 아이젠하워 매트릭스의 심리학적 원리를 파헤칩니다."
+      "ko": "\"나에게는 두 가지 종류의 문제가 있다. 하나는 긴급한 것이고, 다른 하나는 중요한 것이다. 긴급한 문제는 보통 중요하지 않고, 중요한 문제는 결코 긴급하지 않다.\" 📊\n\n제2차 세계대전 연합군 최고사령관으로서 노르망디 상륙작전을 성공시키고 제34대 미국 대통령과 NATO 초대 최고사령관을 지낸 드와이트 D. 아이젠하워(Dwight D. Eisenhower, 1890–1969). 그는 군사 작전, 외교적 치열한 대립, 그리고 주간 고속도로망 구축 등 인류 역사상 가장 복잡하고 광범위한 결정을 매일 내려야 했던 인물입니다. 수많은 군사 작전과 외교 문제, 그리고 방대한 행정 업무 속에서 그가 평생 유지한 단순하고 강력한 습관이 있었습니다. 그것은 바로 매일 아침 집무실에서 빈 종이에 십자선(+)을 그려 네 개의 구역으로 업무를 나누는 것이었습니다. 그는 스스로에게 질문했습니다. '이 일은 정말 중요한가? 아니면 그저 긴급한 것인가?' 긴급함의 덫에서 벗어나 인생의 본질적인 중요성에 주의를 집중하게 만드는 아이젠하워 매트릭스의 심리학적 원리를 파헤칩니다.",
+      "en": "\"I have two kinds of problems, the urgent and the important. The urgent are not important, and the important are never urgent.\" 📊\n\nDwight D. Eisenhower (1890–1969) was the Supreme Commander of the Allied Expeditionary Force in World War II who orchestrated the D-Day Normandy invasion, first Supreme Commander of NATO, and the 34th President of the United States. Tasked with managing continental-scale military operations, cold-war diplomacy, and monumental domestic projects like the Interstate Highway System, he bore one of the heaviest decision-making burdens in human history. To navigate this relentless torrent of administrative and strategic demands, Eisenhower practiced a deceptively simple ritual: every morning at his desk, he drew a large cross (+), dividing a sheet of paper into four distinct quadrants. He constantly asked himself: 'Is this task truly important, or merely urgent?' In today's post, we unpack the psychological and cognitive principles behind the Eisenhower Matrix that liberate the brain from the trap of urgency to focus on what truly drives long-term success.",
+      "ja": "「私には2種類の問題がある。一つは緊急なもので、もう一つは重要なものだ。緊急な問題は通常重要ではなく、重要な問題は決して緊急ではない。」 📊\n\n第二次世界大戦で連合国遠征軍最高司令官としてノルマンディー上陸作戦を指揮し、第34代米国大統領および初代NATO最高司令官を歴任したドワイト・D・アイゼンハワー（Dwight D. Eisenhower、1890–1969）。彼は人類史上最も複雑で広範な軍事作戦、冷戦下の外交交渉、全米高速道路網の構築などの決定を毎日下さなければならない人物でした。膨大な行政業務と戦略的課題の渦中で、彼が生涯維持したシンプルで強力な習慣がありました。それは毎朝執務室で白い紙に十字（+）を描き、4つの領域にタスクを分類することでした。彼は自問しました。「この仕事は本当に重要なのか？それとも単に緊急なだけか？」緊急性の罠から抜け出し、人生の本質的な重要性に脳の注意を集中させるアイゼンハワー・マトリックスの心理学的原理を解き明かします。",
+      "zh": "“我手头有两类问题：紧急的和重要的。紧急的问题往往不重要，而重要的问题绝不紧急。” 📊\n\n德怀特·D·艾森豪威尔（Dwight D. Eisenhower，1890–1969）是第二次世界大战中指挥诺曼底登陆的盟军最高司令、北约首任最高司令以及美国第34任总统。在掌舵庞大军事行动、冷战外交对峙以及跨州高速公路网建设等人类历史上最复杂庞杂的决策日常中，他终身恪守着一项看似简约却无比强大的铁律：每天清晨在案头的一张白纸上划出一个巨大的十字（+），将所有待办事项归入四个象限。他反复叩问自己：“这项工作究竟是真正重要，还是仅仅紧迫？”在今天的文章中，我们将深度剖析艾森豪威尔矩阵背后的心理学与神经科学原理，带你打破“伪紧急”的枷锁，将核心注意力重新聚焦于决定长远成败的要事上。",
+      "es": "\"Tengo dos tipos de problemas, los urgentes y los importantes. Los urgentes no son importantes, y los importantes nunca son urgentes.\" 📊\n\nDwight D. Eisenhower (1890–1969) fue Comandante Supremo de las Fuerzas Aliadas en la Segunda Guerra Mundial, orquestador del desembarco de Normandía, primer Comandante Supremo de la NATO y 34.º Presidente de los Estados Unidos. Con la responsabilidad de gestionar operaciones militares a gran escala, diplomacia internacional y proyectos monumentales como la red de autopistas interestatales, Eisenhower enfrentó una de las mayores cargas de decisión de la historia. Para dominar esta marea de tareas, practicaba un hábito sencillo: cada mañana dibujaba una cruz (+) dividiendo una hoja de papel en cuatro cuadrantes y se preguntaba: '¿Esta tarea es realmente importante o simplemente urgente?' En la publicación de hoy, desglosamos los principios psicológicos del Matriz de Eisenhower para liberar al cerebro de la trampa de la urgencia.",
+      "de": "\"Ich habe zwei Arten von Problemen, die dringenden und die wichtigen. Die dringenden sind nicht wichtig, und die wichtigen sind niemals dringend.\" 📊\n\nDwight D. Eisenhower (1890–1969) war Oberbefehlshaber der Alliierten Streitkräfte im Zweiten Weltkrieg, Planer der Landung in der Normandie, erster NATO-Oberbefehlshaber und 34. Präsident der Vereinigten Staaten. Konfrontiert mit weltpolitischen Entscheidungen, militärischen Operationen und der Planung des Interstate-Highway-Systems, trug er eine ungeheure Verantwortung. Um dieser Flut an Aufgaben zu begegnen, nutzte er eine einfache Methode: Jeden Morgen zeichnete er ein großes Kreuz (+) auf ein Blatt Papier und unterteilte seine Aufgaben in vier Quadranten. Er fragte sich stets: 'Ist diese Aufgabe wirklich wichtig oder nur dringend?' Im heutigen Beitrag analysieren wir die psychologischen Prinzipien hinter der Eisenhower-Matrix, um das Gehirn aus der Dringlichkeitsfalle zu befreien.",
+      "fr": "« J'ai deux sortes de problèmes, les urgents et les importants. Les urgents ne sont pas importants, et les importants ne sont jamais urgents. » 📊\n\nDwight D. Eisenhower (1890–1969) fut le commandant suprême des forces alliées pendant la Seconde Guerre mondiale, orchestrateur du débarquement de Normandie, premier commandant suprême de l'OTAN et 34e président des États-Unis. Confronté à des choix militaires, diplomatiques et stratégiques majeurs comme la création du réseau d'autoroutes inter-États, il portait une charge décisionnelle colossale. Pour gérer ce flux ininterrompu, Eisenhower appliquait un rituel d'une grande simplicité : chaque matin, il traçait une croix (+) sur une feuille blanche pour diviser ses tâches en quatre cadrans. Il se demandait : « Cette tâche est-elle vraiment importante ou simplement urgente ? » Dans cet article, nous décortiquons les principes psychologiques de la matrice d'Eisenhower pour libérer le cerveau du piège de l'urgence.",
+      "pt": "\"Tenho dois tipos de problemas, os urgentes e os importantes. Os urgentes não são importantes, e os importantes nunca são urgentes.\" 📊\n\nDwight D. Eisenhower (1890–1969) foi Comandante Supremo das Forças Aliadas na Segunda Guerra Mundial, organizador do desembarque na Normandia, primeiro Comandante Supremo da NATO e 34.º Presidente dos Estados Unidos. Responsável por gerenciar operações militares colossais, diplomacia de guerra fria e grandes obras nacionais, ele carregava um enorme peso decisório. Para lidar com essa demanda, Eisenhower mantinha um hábito simples: todas as manhãs, desenhava uma cruz (+) dividindo uma folha de papel em quatro quadrantes, perguntando-se: 'Esta tarefa é realmente importante ou apenas urgente?' No artigo de hoje, analisamos os princípios psicológicos por trás da Matriz de Eisenhower para libertar o cérebro da armadilha da urgência.",
+      "id": "\"Saya memiliki dua jenis masalah, yang mendesak dan yang penting. Yang mendesak tidak penting, dan yang penting tidak pernah mendesak.\" 📊\n\nDwight D. Eisenhower (1890–1969) adalah Panglima Tertinggi Pasukan Sekutu dalam Perang Dunia II yang merancang invasi Normandia, Panglima Tertinggi pertama NATO, dan Presiden Amerika Serikat ke-34. Bertanggung jawab mengelola operasi militer skala besar, diplomasi Perang Dingin, serta proyek infrastruktur raksasa, ia menanggung beban pengambilan keputusan yang sangat berat. Untuk mengelola arus tugas yang tak henti-hentinya, Eisenhower menerapkan ritual sederhana: setiap pagi di meja kerjanya, ia menggambar salib (+) besar yang membagi selembar kertas menjadi empat kuadran. Ia selalu bertanya pada dirinya sendiri: 'Apakah tugas ini benar-benar penting, atau hanya mendesak?' Dalam postingan hari ini, kami menganalisis prinsip-prinsip psikologis di balik Matriks Eisenhower yang membebaskan otak dari jebakan urgensi untuk berfokus pada apa yang benar-benar penting."
     },
     "whyTitle": {
-      "ko": "의사결정 피로(Decision Fatigue) 방지와 대뇌 피질의 인지 제어"
+      "ko": "의사결정 피로(Decision Fatigue) 방지와 대뇌 피질의 인지 제어",
+      "en": "Preventing Decision Fatigue and Optimizing Prefrontal Cognitive Control",
+      "ja": "意思決定疲労（Decision Fatigue）防止と大脳皮質の認知制御",
+      "zh": "预防决策疲劳（Decision Fatigue）与大脑皮层的认知控制",
+      "es": "Prevención de la Fatiga de Decisión y Control Cognitivo Prefrontal",
+      "de": "Vermeidung von Entscheidungsmüdigkeit und kognitive Kontrolle des Kortex",
+      "fr": "Prévention de la fatigue décisionnelle et contrôle cognitif préfrontal",
+      "pt": "Prevenção da Fadiga de Decisão e Controle Cognitivo Pré-frontal",
+      "id": "Mencegah Kelelahan Keputusan (Decision Fatigue) dan Kontrol Kognitif Korteks Prefrontal"
     },
     "whyDesc": {
-      "ko": "인간의 대뇌 전두엽(Prefrontal Cortex)은 의사결정과 계획 수립을 담당하지만, 하루에 처리할 수 있는 에너지 자원(인지적 대역폭)이 극도로 한정되어 있습니다. 사소하고 긴급한 일들에 반복해서 노출되면 뇌는 쉽게 '의사결정 피로' 상태에 빠져, 정말 중요한 순간에 합리적인 판단을 내리지 못하게 됩니다. 아이젠하워 매트릭스는 시각적으로 업무의 우선순위를 정렬함으로써 뇌가 겪는 선택의 가짓수를 줄이고 인지 부하를 획기적으로 덜어줍니다. 이를 통해 뇌는 스트레스 수준이 낮아진 이완된 집중 상태를 유지하며 고도의 전략적 사고를 효과적으로 수행하게 됩니다."
+      "ko": "인간의 대뇌 전두엽(Prefrontal Cortex)은 의사결정과 계획 수립을 담당하지만, 하루에 처리할 수 있는 에너지 자원(인지적 대역폭)이 극도로 한정되어 있습니다. 사소하고 긴급한 일들에 반복해서 노출되면 뇌는 쉽게 '의사결정 피로' 상태에 빠져, 정말 중요한 순간에 합리적인 판단을 내리지 못하게 됩니다. 아이젠하워 매트릭스는 시각적으로 업무의 우선순위를 정렬함으로써 뇌가 겪는 선택의 가짓수를 줄이고 인지 부하를 획기적으로 덜어줍니다. 이를 통해 뇌는 스트레스 수준이 낮아진 이완된 집중 상태를 유지하며 고도의 전략적 사고를 효과적으로 수행하게 됩니다.",
+      "en": "The human prefrontal cortex governs executive functions, planning, and decision-making, but its daily energy pool—known as cognitive bandwidth—is strictly limited. Repeated exposure to trivial yet urgent tasks plunges the brain into 'decision fatigue', severely draining executive functioning and compromising high-level judgment. The Eisenhower Matrix visually organizes priorities, dramatically reducing choice paralysis and cognitive load. By structuring tasks into clear categories, it preserves prefrontal energy, allowing the brain to maintain a state of relaxed focus and execute high-level strategic thinking without cognitive exhaustion.",
+      "ja": "人間の大脳前頭前野（Prefrontal Cortex）は意思決定や計画立案を司りますが、1日に処理できるエネルギー資源（認知的帯域幅）は極めて限られています。些細で緊急な出来事に繰り返し露出されると、脳は容易に「意思決定疲労」状態に陥り、本当に重要な瞬間で合理的判断を下せなくなります。アイゼンハワー・マトリックスは視覚的にタスクの優先順位を整列させることで、脳が直面する選択肢の数を減らし、認知負荷を飛躍的に軽減させます。これにより脳はストレスレベルが低下したリラックスした集中状態を維持し、高度な戦略的思考を効果的に遂行できるようになります。",
+      "zh": "人类的大脑前额叶皮层（Prefrontal Cortex）主导着决策与规划，但其每日可调用的能量资源（认知带宽）极其有限。若频繁曝露于琐碎却紧迫的事项中，大脑极易滑入“决策疲劳（Decision Fatigue）”状态，导致在关键抉择时刻丧失理性判断力。艾森豪威尔矩阵通过将待办事项进行可视化优先级排布，砍掉了大脑面对的纷繁选择，大幅削减了认知负荷。这使得大脑能够维持低压力水平下的松弛专注状态，高效开展高阶的战略性思考。",
+      "es": "La corteza prefrontal humana dirige las funciones ejecutivas y las decisiones, pero su reserva diaria de energía (ancho de banda cognitivo) es estrictamente limitada. La exposición repetida a tareas triviales pero urgentes hunde al cerebro en la 'fatiga de decisión', deteriorando el juicio. La Matriz de Eisenhower organiza las prioridades de forma visual, reduciendo drásticamente la parálisis por elección y la carga cognitiva. Esto preserva la energía prefrontal, permitiendo al cerebro mantener un enfoque relajado y ejecutar un pensamiento estratégico de alto nivel.",
+      "de": "Der präfrontale Kortex steuert exekutive Funktionen und Entscheidungen, doch seine tägliche Kapazität (kognitive Bandbreite) ist stark begrenzt. Ständige Konfrontation mit belanglosen, aber dringenden Aufgaben führt zu 'Entscheidungsmüdigkeit' und verschlechtert die Urteilskraft. Die Eisenhower-Matrix strukturiert Prioritäten visuell und verringert die Auswahlüberforderung sowie die kognitive Last drastisch. Dadurch wird mentale Energie gespart, sodass das Gehirn in einem entspannten Fokus hochrangiges strategisches Denken ausführen kann.",
+      "fr": "Le cortex préfrontal régit les fonctions exécutives et les décisions, mais son réservoir quotidien d'énergie (bande passante cognitive) est très limité. L'exposition répétée à des tâches futiles mais urgentes plonge le cerveau dans la « fatigue décisionnelle », altérant le jugement. La matrice d'Eisenhower organise visuellement les priorités, réduisant la paralysie du choix et la charge cognitive. Cela préserve l'énergie préfrontale, permettant au cerveau de maintenir une concentration sereine et de mener une réflexion stratégique de haut niveau.",
+      "pt": "O córtex pré-frontal humano governa as funções executivas e decisões, mas sua reserva diária de energia (largura de banda cognitiva) é estritamente limitada. A exposição repetida a tarefas triviais, mas urgentes, afunda o cérebro na 'fadiga de decisão', comprometendo o julgamento. A Matriz de Eisenhower organiza as prioridades visualmente, reduzindo drasticamente a paralisia de escolha e a carga cognitiva. Isso preserva a energia pré-frontal, permitindo ao cérebro manter um foco relaxado e executar pensamentos estratégicos elevados.",
+      "id": "Korteks prefrontal manusia mengatur fungsi eksekutif, perencanaan, dan pengambilan keputusan, tetapi sumber daya energi hariannya (lebar pita kognitif) sangat terbatas. Paparan berulang pada tugas-tugas sepele namun mendesak menjerumuskan otak ke dalam 'kelelahan keputusan', yang merusak pertimbangan rasional. Matriks Eisenhower mengorganisasi prioritas secara visual, secara drastis mengurangi kelumpuhan pilihan dan beban kognitif. Ini menjaga energi prefrontal, memungkinkan otak mempertahankan kondisi fokus yang tenang dan menjalankan pemikiran strategis tingkat tinggi."
     },
     "cautionTitle": {
-      "ko": "2영역(중요하지만 긴급하지 않은 일) 시간 선점 수칙"
+      "ko": "2영역(중요하지만 긴급하지 않은 일) 시간 선점 수칙",
+      "en": "Protocol for Pre-allocating Time to Quadrant 2 (Important but Not Urgent)",
+      "ja": "第2領域（重要だが緊急ではない仕事）の時間先取りルール",
+      "zh": "第2象限（重要但不紧急）时间预先锁定准则",
+      "es": "Regla de Reserva de Tiempo para el Cuadrante 2 (Importante pero No Urgente)",
+      "de": "Zeit-Reservierungsregel für Quadrant 2 (Wichtig, aber nicht dringend)",
+      "fr": "Règle de réservation du temps pour le Cadran 2 (Important mais non urgent)",
+      "pt": "Regra de Reserva de Tempo para o Quadrante 2 (Importante, mas Não Urgente)",
+      "id": "Aturan Alokasi Waktu Terlebih Dahulu untuk Kuadran 2 (Penting tetapi Tidak Mendesak)"
     },
     "cautionDesc": {
-      "ko": "우선순위 분류 습관을 도입할 때 흔히 저지르는 실수는 1영역(긴급하고 중요한 일)에만 온종일 매달리는 것입니다. 1영역에만 쫓기며 하루를 보내면 부신 피질 호르몬(코르티솔)이 과다 분비되어 뇌가 만성 피로와 스트레스에 노출됩니다. 핵심은 2영역(긴급하지 않지만 중요한 일)인 독서, 기획, 건강 관리, 인간관계 구축 등에 매일 의도적으로 최소 20%의 인지 자원을 먼저 할당하는 것입니다. 2영역의 업무가 선행되어야 장기적인 성장이 가능하며, 미래에 긴급한 소방수식 문제(1영역)가 발생하는 빈도를 근본적으로 줄일 수 있습니다."
+      "ko": "우선순위 분류 습관을 도입할 때 흔히 저지르는 실수는 1영역(긴급하고 중요한 일)에만 온종일 매달리는 것입니다. 1영역에만 쫓기며 하루를 보내면 부신 피질 호르몬(코르티솔)이 과다 분비되어 뇌가 만성 피로와 스트레스에 노출됩니다. 핵심은 2영역(긴급하지 않지만 중요한 일)인 독서, 기획, 건강 관리, 인간관계 구축 등에 매일 의도적으로 최소 20%의 인지 자원을 먼저 할당하는 것입니다. 2영역의 업무가 선행되어야 장기적인 성장이 가능하며, 미래에 긴급한 소방수식 문제(1영역)가 발생하는 빈도를 근본적으로 줄일 수 있습니다.",
+      "en": "A common mistake when adopting priority classification is spending the entire day reactive in Quadrant 1 (Urgent & Important). Constantly firefighting in Quadrant 1 overstimulates the adrenal cortex, flooding the brain with cortisol and triggering chronic stress and burnout. The core secret is proactively reserving at least 20% of your daily cognitive bandwidth for Quadrant 2 (Not Urgent but Important)—such as strategic planning, learning, health, and relationship building. Prioritizing Quadrant 2 guarantees sustainable long-term growth and fundamentally prevents future crises from exploding in Quadrant 1.",
+      "ja": "優先順位分類の習慣を導入する際に陥りがちな過ちは、1日中第1領域（緊急かつ重要な仕事）だけに追われることです。第1領域だけに追われて1日を過ごすと、副腎皮質ホルモン（コルチゾール）が過剰分泌され、脳が慢性疲労とストレスに晒されます。核心は第2領域（緊急ではないが重要な仕事）である読書、企画、健康管理、人間関係の構築などに、毎日意図的に最低20%の認知資源をあらかじめ配分することです。第2領域のタスクが先行してこそ長期的な成長が可能となり、将来的に緊急の消火作業的な問題（第1領域）が発生する頻度を根本的に減らすことができます。",
+      "zh": "在使用优先级分类时，人们最常犯的错误便是通宵达旦地缠斗于第1象限（紧急且重要）。全天被第1象限驱赶着奔跑会导致肾上腺皮质激素（皮质醇）过量分泌，使大脑陷入慢性疲劳与高压。核心秘诀在于：每天务必主动将至少20%的认知资源优先划拨给第2象限（不紧急但重要）——如深度阅读、战略规划、健康管理与人际关怀。只有优先推进第2象限的工作，才能实现可持续的长效成长，并从根本上消减未来第1象限“紧急灭火”类危机的爆发频率。",
+      "es": "Un error común al clasificar prioridades es pasar todo el día en el Cuadrante 1 (Urgente e Importante). Estar constantemente apagando incendios sobreestimula las glándulas suprarrenales, inundando el cerebro con cortisol y provocando estrés crónico. La clave es reservar intencionadamente al menos el 20% de su capacidad mental diaria para el Cuadrante 2 (No Urgente pero Importante), como la planificación, lectura, salud y relaciones. Dar prioridad al Cuadrante 2 garantiza el crecimiento a largo plazo y reduce radicalmente la aparición de crisis futuras en el Cuadrante 1.",
+      "de": "Ein häufiger Fehler bei der Priorisierung ist es, den gesamten Tag im Quadranten 1 (Dringend & Wichtig) zu verbringen. Ständiges Reagieren überstimuliert die Nebennieren und überflutet das Gehirn mit Cortisol, was zu chronischem Stress führt. Der Schlüssel liegt darin, täglich bewusst mindestens 20 % der mentalen Kapazität für Quadrant 2 (Nicht dringend, aber wichtig) wie Planung, Weiterbildung, Gesundheit und Beziehungen zu reservieren. Nur so sichern Sie langfristiges Wachstum und reduzieren das künftige Entstehen von Notfällen in Quadrant 1.",
+      "fr": "L'erreur classique lors de la classification consiste à passer la journée dans le Cadran 1 (Urgent & Important). Réagir en permanence aux urgences surstimule les glandes surrénales, inondant le cerveau de cortisol et générant un stress chronique. Le secret réside dans le fait de réserver intentionnellement au moins 20 % de ses ressources cognitives au Cadran 2 (Non urgent mais important) : planification, apprentissage, santé et relations. Prioriser le Cadran 2 garantit un développement durable et réduit considérablement l'apparition de crises dans le Cadran 1.",
+      "pt": "Um erro comum ao classificar prioridades é passar o dia todo no Quadrante 1 (Urgente e Importante). Apagar incêndios constantemente sobreestimula o córtex adrenal, inundando o cérebro com cortisol e gerando estresse crônico. O segredo é reservar intencionalmente pelo menos 20% da sua capacidade mental diária para o Quadrante 2 (Não Urgente, mas Importante) — como planejamento, leitura, saúde e relacionamentos. Priorizar o Quadrante 2 garante o crescimento a longo prazo e reduz drasticamente o surgimento de crises futuras no Quadrante 1.",
+      "id": "Kesalahan umum saat menerapkan klasifikasi prioritas adalah menghabiskan sepanjang hari secara reaktif di Kuadran 1 (Mendesak & Penting). Terus-menerus memadamkan kebakaran di Kuadran 1 menstimulasi korteks adrenal secara berlebihan, membanjiri otak dengan kortisol dan memicu stres kronis. Rahasia utamanya adalah secara proaktif mengalokasikan setidaknya 20% dari lebar pita kognitif harian Anda untuk Kuadran 2 (Tidak Mendesak tetapi Penting)—seperti perencanaan strategis, belajar, kesehatan, dan membangun hubungan. Memprioritaskan Kuadran 2 menjamin pertumbuhan jangka panjang yang berkelanjutan dan secara mendasar mencegah krisis mendesak di Kuadran 1 di masa depan."
     },
     "steps": [
       {
         "name": {
-          "ko": "1단계: 십자선을 통한 4분면 캔버스 작성"
+          "ko": "1단계: 십자선을 통한 4분면 캔버스 작성",
+          "en": "Step 1: Creating a 4-Quadrant Canvas via a Cross Grid",
+          "ja": "ステップ1：十字線による4象限キャンバスの作成",
+          "zh": "步骤1：绘制十字格打造四象限画布",
+          "es": "Paso 1: Crear un Lienzo de 4 Cuadrantes Mediante una Cruz",
+          "de": "Schritt 1: Erstellen eines 4-Quadranten-Rasters mittels Kreuz",
+          "fr": "Étape 1 : Création d'un canevas à 4 cadrans à l'aide d'une croix",
+          "pt": "Passo 1: Criar uma Tela de 4 Quadrantes Usando uma Cruz",
+          "id": "Langkah 1: Membuat Kanvas 4 Kuadran Melalui Garis Salib"
         },
         "text": {
-          "ko": "매일 아침 일과를 시작하기 전, 흰 종이나 빈 노트에 십자선을 크게 그어 네 영역을 나눕니다. 각 영역의 상단에 '중요함/중요하지 않음', 좌측에 '긴급함/긴급하지 않음'의 라벨을 명확하게 표시합니다."
+          "ko": "매일 아침 일과를 시작하기 전, 흰 종이나 빈 노트에 십자선을 크게 그어 네 영역을 나눕니다. 각 영역의 상단에 '중요함/중요하지 않음', 좌측에 '긴급함/긴급하지 않음'의 라벨을 명확하게 표시합니다.",
+          "en": "Every morning before starting your routine, draw a large cross (+) on a sheet of paper or blank notebook to divide it into four sections. Clearly label 'Important / Not Important' across the top axis and 'Urgent / Not Urgent' down the left axis.",
+          "ja": "毎朝業務を開始する前、白い紙や空のノートに十字線を大きく引いて4つの領域に分けます。各領域の上部に「重要/重要でない」、左側に「緊急/緊急でない」のラベルを明確に表示します。",
+          "zh": "每天清晨在开启工作前，在一张白纸或空白笔记本上划出一个巨大的十字，划分出四个区域。在上方横轴标注“重要/不重要”，左侧纵轴标注“紧急/不紧急”的字样。",
+          "es": "Cada mañana, antes de comenzar su jornada, dibuje una gran cruz (+) en una hoja para dividirla en cuatro áreas. Etiquete claramente 'Importante / No Importante' en la parte superior y 'Urgente / No Urgente' en el lateral izquierdo.",
+          "de": "Zeichnen Sie jeden Morgen vor Arbeitsbeginn ein großes Kreuz (+) auf ein Blatt Papier. Beschriften Sie die obere Achse mit 'Wichtig / Nicht wichtig' und die linke Achse mit 'Dringend / Nicht dringend'.",
+          "fr": "Chaque matin avant de commencer votre journée, tracez une grande croix (+) sur une feuille blanche pour la diviser en quatre zones. Inscrivez clairement « Important / Non important » en haut et « Urgent / Non urgent » à gauche.",
+          "pt": "Todas as manhãs, antes de começar o trabalho, desenhe uma grande cruz (+) em um papel para dividi-lo em quatro áreas. Marque claramente 'Importante / Não Importante' no topo e 'Urgente / Não Urgente' na lateral esquerda.",
+          "id": "Setiap pagi sebelum memulai rutinitas, gambar salib (+) besar di selembar kertas atau buku catatan kosong untuk membaginya menjadi empat area. Labeli dengan jelas 'Penting / Tidak Penting' di bagian atas dan 'Mendesak / Tidak Mendesak' di sisi kiri."
         }
       },
       {
         "name": {
-          "ko": "2단계: 업무 필터링 및 매트릭스 배치"
+          "ko": "2단계: 업무 필터링 및 매트릭스 배치",
+          "en": "Step 2: Task Filtering and Matrix Placement",
+          "ja": "ステップ2：タスクフィルタリングとマトリックス配置",
+          "zh": "步骤2：任务筛选与象限精准归类",
+          "es": "Paso 2: Filtrado de Tareas y Ubicación en la Matriz",
+          "de": "Schritt 2: Aufgabenfilterung und Matrix-Zuordnung",
+          "fr": "Étape 2 : Filtrage des tâches et disposition dans la matrice",
+          "pt": "Passo 2: Filtragem de Tarefas e Alocação na Matriz",
+          "id": "Langkah 2: Penyaringan Tugas dan Penempatan Matriks"
         },
         "text": {
-          "ko": "오늘 처리해야 할 모든 목록(To-Do)을 냉정하게 검토합니다. 남들의 시선이나 감정적 조급함을 배제하고, 오직 장기적인 가치(중요도)와 즉각적인 마감(긴급성)을 기준으로 삼아 네 개의 영역에 각각 하나씩 배치합니다."
+          "ko": "오늘 처리해야 할 모든 목록(To-Do)을 냉정하게 검토합니다. 남들의 시선이나 감정적 조급함을 배제하고, 오직 장기적인 가치(중요도)와 즉각적인 마감(긴급성)을 기준으로 삼아 네 개의 영역에 각각 하나씩 배치합니다.",
+          "en": "Dispassionately review your entire to-do list for the day. Stripping away emotional pressure or external expectations, categorize every task into one of the four quadrants based strictly on long-term value (importance) and immediate deadline (urgency).",
+          "ja": "今日処理すべきすべてのToDoリストを冷静に検討します。他人の視線や感情的な焦りを除外し、ただ長期的な価値（重要度）と即座の締め切り（緊急性）のみを基準にして、4つの領域にそれぞれ配置します。",
+          "zh": "冷静审视今日需处理的所有待办清单。剥离他人的目光或情绪化的焦虑，仅凭长远价值（重要性）与即刻截止时间（紧迫性）为客观基准，将各项任务归入对应的四个象限中。",
+          "es": "Examine con frialdad toda su lista de tareas pendientes para el día. Excluyendo presiones externas o prisas emocionales, coloque cada tarea en uno de los cuatro cuadrantes basándose únicamente en el valor a largo plazo y la urgencia.",
+          "de": "Gehen Sie Ihre To-Do-Liste für den Tag sachlich durch. Blenden Sie fremde Erwartungen und emotionale Hektik aus und ordnen Sie jede Aufgabe strikt nach langfristigem Wert (Wichtigkeit) und Frist (Dringlichkeit) in die vier Quadranten ein.",
+          "fr": "Examinez froidement l'ensemble de votre liste de tâches du jour. En éliminant la pression extérieure et la précipitation émotionnelle, classez chaque tâche dans l'un des quatre cadrans en vous basant uniquement sur la valeur à long terme et l'urgence.",
+          "pt": "Examine com frieza toda a sua lista de tarefas do dia. Eliminando pressões externas ou ansiedade emocional, aloque cada tarefa em um dos quatro quadrantes com base estritamente no valor a longo prazo e na urgência.",
+          "id": "Tinjau semua daftar tugas (To-Do) Anda untuk hari ini secara dingin. Singkirkan tekanan emosional atau ekspektasi luar, dan tempatkan setiap tugas ke dalam salah satu dari empat kuadran murni berdasarkan nilai jangka panjang (kepentingan) dan tenggat waktu segera (urgensi)."
         }
       },
       {
         "name": {
-          "ko": "3단계: 영역별 실행 수칙의 기계적 이행"
+          "ko": "3단계: 영역별 실행 수칙의 기계적 이행",
+          "en": "Step 3: Systematic Execution of Quadrant Guidelines",
+          "ja": "ステップ3：領域別実行ルールの機械的履行",
+          "zh": "步骤3：机械化贯彻各象限执行指令",
+          "es": "Paso 3: Ejecución Sistemática de las Directrices por Cuadrante",
+          "de": "Schritt 3: Systematische Ausführung der Quadranten-Regeln",
+          "fr": "Étape 3 : Application systématique des consignes par cadran",
+          "pt": "Passo 3: Execução Sistemática das Diretrizes por Quadrante",
+          "id": "Langkah 3: Pelaksanaan Sistematis Pedoman Setiap Kuadran"
         },
         "text": {
-          "ko": "분류가 완료되면 기계적으로 실행 지침을 따릅니다. 1영역은 즉시 처리하고, 2영역의 일은 캘린더에 시간을 선점하여 고정하며, 3영역(긴급하지만 중요치 않은 일)은 자동화하거나 타인에게 권한을 위임하고, 4영역은 오늘 계획에서 완전히 삭제합니다."
+          "ko": "분류가 완료되면 기계적으로 실행 지침을 따릅니다. 1영역은 즉시 처리하고, 2영역의 일은 캘린더에 시간을 선점하여 고정하며, 3영역(긴급하지만 중요치 않은 일)은 자동화하거나 타인에게 권한을 위임하고, 4영역은 오늘 계획에서 완전히 삭제합니다.",
+          "en": "Once categorized, execute rules mechanically: Execute Quadrant 1 tasks immediately; Schedule and block time on your calendar for Quadrant 2; Delegate or automate Quadrant 3 tasks (Urgent & Not Important); and completely Eliminate Quadrant 4 tasks from your daily plan.",
+          "ja": "分類が完了したら、機械的に実行指針に従います。第1領域は即座に処理し、第2領域の仕事はカレンダーに時間を先取りして固定し、第3領域（緊急だが重要でない仕事）は自動化するか他人に権限を委任し、第4領域は今日の計画から完全に削除します。",
+          "zh": "分类完毕后，如机械般严明执行指令：第1象限当即动手解决；第2象限在日历中预先锁定专属时间段；第3象限（紧急但不重要）进行自动化处理或授权委派他人；第4象限则从今日计划中斩草除根完全剔除。",
+          "es": "Una vez clasificadas, aplique las reglas de forma sistemática: Ejecute el Cuadrante 1 inmediatamente; Reserve tiempo en su calendario para el Cuadrante 2; Delegue o automatice el Cuadrante 3 (Urgente pero No Importante); y Elimine por completo el Cuadrante 4 de su plan.",
+          "de": "Befolgen Sie nach der Einteilung die Regeln konsequent: Erledigen Sie Quadrant 1 sofort; Blockieren Sie feste Zeiten im Kalender für Quadrant 2; Delegieren oder automatisieren Sie Quadrant 3 (Dringend, aber nicht wichtig); und Löschen Sie Quadrant 4 vollständig aus dem Tagesplan.",
+          "fr": "Une fois le classement effectué, appliquez les consignes avec discipline : Exécutez le Cadran 1 immédiatement ; Bloquez des créneaux dans votre agenda pour le Cadran 2 ; Déléguez ou automatisez le Cadran 3 (Urgent mais non important) ; et Éliminez totalement le Cadran 4 de votre programme.",
+          "pt": "Após a classificação, siga as diretrizes com precisão: Execute o Quadrante 1 imediatamente; Agende e bloqueie horários no calendário para o Quadrante 2; Delegue ou automatize o Quadrante 3 (Urgente, mas Não Importante); e Elimine completamente o Quadrante 4 do seu plano diário.",
+          "id": "Setelah dikategorikan, jalankan aturan secara mekanis: Kerjakan tugas Kuadran 1 secara langsung; Jadwalkan dan kunci waktu di kalender untuk Kuadran 2; Delegasikan atau otomatisasi tugas Kuadran 3 (Mendesak & Tidak Penting); dan Hapus tugas Kuadran 4 sepenuhnya dari rencana harian Anda."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "회사 업무 특성상 모든 일이 긴급하게 쏟아지는데 2영역(중요하지만 안 긴급한 일)을 어떻게 챙기나요?"
+          "ko": "회사 업무 특성상 모든 일이 긴급하게 쏟아지는데 2영역(중요하지만 안 긴급한 일)을 어떻게 챙기나요?",
+          "en": "How can I protect Quadrant 2 (Important but Not Urgent) when urgent work constantly pours in at my job?",
+          "ja": "会社の業務の特性上、すべての仕事が緊急に押し寄せてくるのですが、第2領域（重要だが緊急でない仕事）をどのように確保すればよいですか？",
+          "zh": "在工作中所有任务都显得无比紧急，究竟该如何守住第2象限（重要但不紧急）的事项？",
+          "es": "¿Cómo puedo proteger el Cuadrante 2 (Importante pero No Urgente) cuando constantemente me bombardean con trabajo urgente?",
+          "de": "Wie kann ich Quadrant 2 (Wichtig, aber nicht dringend) schützen, wenn bei der Arbeit ständig dringende Aufgaben hereinbrechen?",
+          "fr": "Comment préserver le Cadran 2 (Important mais non urgent) lorsque les urgences s'accumulent au travail ?",
+          "pt": "Como posso proteger o Quadrante 2 (Importante, mas Não Urgente) quando o trabalho urgente não para de chegar?",
+          "id": "Bagaimana cara menjaga Kuadran 2 (Penting tetapi Tidak Mendesak) ketika semua pekerjaan kantor tampak menumpuk secara mendesak?"
         },
         "answer": {
-          "ko": "모든 일이 긴급해 보인다면, 타인의 마감기한이 나의 중요도보다 우선시되고 있기 때문입니다. 아침 첫 30분 동안 이메일과 메신저를 켜지 않고 오직 2영역의 기획이나 학습에 몰입하는 '나만의 방해 금지 블록'을 강제로 설정하십시오. 이 작은 시간 확보가 장기적으로 사후 수습 업무를 줄이는 촉매가 됩니다."
+          "ko": "모든 일이 긴급해 보인다면, 타인의 마감기한이 나의 중요도보다 우선시되고 있기 때문입니다. 아침 첫 30분 동안 이메일과 메신저를 켜지 않고 오직 2영역의 기획이나 학습에 몰입하는 '나만의 방해 금지 블록'을 강제로 설정하십시오. 이 작은 시간 확보가 장기적으로 사후 수습 업무를 줄이는 촉매가 됩니다.",
+          "en": "If everything feels urgent, it means external demands are overriding your internal priorities. Create a strict 'Do Not Disturb' block for the first 30 minutes of your workday without checking emails or messaging apps, devoting that window exclusively to Quadrant 2 strategy or learning. Securing this small focus window acts as a catalyst to prevent future firefighting.",
+          "ja": "すべての仕事が緊急に見えるなら、他人の締め切りが自分の重要度より優先されているからです。朝の最初の30分間はメールやメッセンジャーを開かず、ただ第2領域の企画や学習に没頭する「自分だけの妨害禁止ブロック」を強制的に設定してください。この小さな時間の確保が、長期的に事後収拾タスクを減らす触媒となります。",
+          "zh": "若感到一切均告紧急，意味着他人的截止期限正肆意凌驾于你自身的重要性之上。请强制设立一个“个人防打扰时光”，在清晨开工的前30分钟内绝不打开邮件与即时通讯软件，全神贯注于第2象限的规划或学习。锁定这一微小的时间阵地，将成为长远削减事后“补救清扫工作”的强效催化剂。",
+          "es": "Si todo parece urgente, significa que las demandas externas están anulando sus prioridades. Establezca un bloque estricto de 'No Molestar' durante los primeros 30 minutos de su jornada sin abrir el correo o mensajería, dedicándolo exclusivamente al Cuadrante 2. Asegurar este bloque actúa como catalizador para evitar futuras crisis.",
+          "de": "Wenn alles dringend erscheint, priorisieren Sie fremde Fristen über Ihre eigenen Werte. Richten Sie für die ersten 30 Minuten des Arbeitstages einen strikten 'Nicht-Stören'-Block ein, ohne E-Mails zu öffnen, und widmen Sie diese Zeit Quadrant 2. Zeitfenster dieser Art reduzieren langfristig künftige Notfälle.",
+          "fr": "Si tout paraît urgent, c'est que les exigences extérieures priment sur vos priorités. Mettez en place un créneau strict de « Ne pas déranger » pendant les 30 premières minutes de votre journée, sans consulter vos e-mails, dédié exclusivement au Cadran 2. Réserver ce moment est le catalyseur qui réduira les urgences futures.",
+          "pt": "Se tudo parece urgente, as demandas externas estão se sobrepondo às suas prioridades. Crie um bloco estrito de 'Não Perturbe' nos primeiros 30 minutos do dia sem abrir e-mails ou aplicativos de mensagem, dedicando esse tempo ao Quadrante 2. Garantir esse pequeno bloco é o catalisador para reduzir incêndios no futuro.",
+          "id": "Jika segala sesuatu tampak mendesak, itu berarti tuntutan eksternal mengesampingkan prioritas Anda. Buat blok 'Jangan Ganggu' yang ketat selama 30 menit pertama di pagi hari tanpa membuka email atau pesan, dan khususkan waktu tersebut untuk perencanaan Kuadran 2. Amankan blok waktu kecil ini sebagai katalisator untuk mengurangi pekerjaan perbaikan di masa depan."
         }
       },
       {
         "question": {
-          "ko": "무엇이 '중요한 일'이고 무엇이 '긴급한 일'인지 객관적으로 구분하는 기준은 무엇인가요?"
+          "ko": "무엇이 '중요한 일'이고 무엇이 '긴급한 일'인지 객관적으로 구분하는 기준은 무엇인가요?",
+          "en": "What is the objective standard for distinguishing between 'Important' and 'Urgent' tasks?",
+          "ja": "何が「重要な仕事」で、何が「緊急な仕事」なのかを客観的に区分する基準は何ですか？",
+          "zh": "区分“重要事项”与“紧急事项”的客观判定标准是什么？",
+          "es": "¿Cuál es el criterio objetivo para distinguir entre tareas 'Importantes' y 'Urgentes'?",
+          "de": "Was ist das objektive Kriterium zur Unterscheidung zwischen 'wichtigen' und 'dringenden' Aufgaben?",
+          "fr": "Quel est le critère objectif pour distinguer les tâches « Importantes » des tâches « Urgentes » ?",
+          "pt": "Qual é o critério objetivo para distinguir entre tarefas 'Importantes' e 'Urgentes'?",
+          "id": "Apa kriteria objektif untuk membedakan antara tugas 'Penting' dan 'Mendesak'?"
         },
         "answer": {
-          "ko": "'긴급한 일'은 타인의 일정과 요청에 의해 발생하며 즉각적인 반응을 요구하는 과제(메일, 메신저 알림, 당장의 마감)입니다. 반면 '중요한 일'은 타인의 요구와 상관없이 나의 장기적인 목표, 역량 강화, 핵심 가치를 실현하는 과제입니다. '이 일을 처리하지 않았을 때 1년 후 내 삶에 큰 영향을 미치는가?'를 질문해 보면 명확히 구분됩니다."
+          "ko": "'긴급한 일'은 타인의 일정과 요청에 의해 발생하며 즉각적인 반응을 요구하는 과제(메일, 메신저 알림, 당장의 마감)입니다. 반면 '중요한 일'은 타인의 요구와 상관없이 나의 장기적인 목표, 역량 강화, 핵심 가치를 실현하는 과제입니다. '이 일을 처리하지 않았을 때 1년 후 내 삶에 큰 영향을 미치는가?'를 질문해 보면 명확히 구분됩니다.",
+          "en": "'Urgent tasks' are driven by external demands requiring immediate reaction (emails, messaging alerts, impending deadlines). Conversely, 'Important tasks' directly align with your long-term goals, core values, and capability building, regardless of external pressure. Ask yourself: 'Will ignoring this task significantly impact my life 1 year from now?' If yes, it is Important.",
+          "ja": "「緊急な仕事」は他人のスケジュールや要請によって発生し、即座の反応を要求する課題（メール、メッセンジャーの通知、目の前の締め切り）です。一方、「重要な仕事」は他人の要求とは関係なく、自分の長期的な目標、能力強化、コアバリューを実現する課題です。「この仕事を処理しなかった場合、1年後の自分の人生に大きな影響を与えるか？」と自問してみれば明確に区分できます。",
+          "zh": "“紧急事项”多由他人的日程与诉求所驱动，要求即刻做出被动响应（如新邮件、即时通讯弹窗、眼前临近的截止日）。而“重要事项”则与他人的索求无关，直接指向你本人的长远目标、能力塑造与核心价值。不妨扪心自问：“若不处理此事，一年后会对我的生活产生重大深远的影响吗？”答案显而易见。",
+          "es": "Las 'tareas urgentes' son impulsadas por demandas externas que exigen reacción inmediata (correos, notificaciones, plazos). Por el contrario, las 'tareas importantes' contribuyen a sus objetivos a largo plazo y valores principales. Pregúntese: 'Si no realizo esta tarea, ¿tendrá un impacto significativo en mi vida dentro de un año?' Si la respuesta es sí, es Importante.",
+          "de": "'Dringende Aufgaben' werden durch fremde Anforderungen erzeugt und verlangen sofortige Reaktion (E-Mails, Benachrichtigungen, Fristen). 'Wichtige Aufgaben' hingegen zahlen auf Ihre langfristigen Ziele und Kompetenzen ein. Fragen Sie sich: 'Hat das Nicht-Erledigen dieser Aufgabe in einem Jahr spürbare Auswirkungen auf mein Leben?'",
+          "fr": "Les « tâches urgentes » sont générées par des demandes extérieures exigeant une réaction immédiate (e-mails, notifications, échéances). Les « tâches importantes » contribuent directement à vos objectifs à long terme et compétences clés. Posez-vous la question : « Si je ne traite pas cette tâche, aura-t-elle un impact majeur sur ma vie dans un an ? »",
+          "pt": "As 'tarefas urgentes' são geradas por demandas externas que exigem reação imediata (e-mails, notificações, prazos). Já as 'tarefas importantes' estão ligadas aos seus objetivos de longo prazo e competências. Pergunte-se: 'Se eu não realizar esta tarefa, isso terá um impacto significativo na minha vida daqui a 1 ano?'",
+          "id": "'Tugas mendesak' didorong oleh tuntutan eksternal yang memerlukan reaksi segera (email, notifikasi pesan, tenggat waktu mendesak). Sebaliknya, 'tugas penting' selaras dengan tujuan jangka panjang dan pengembangan diri Anda. Tanyakan pada diri sendiri: 'Jika saya tidak mengerjakan tugas ini, apakah akan berdampak besar pada hidup saya 1 tahun dari sekarang?'"
         }
       }
     ]

@@ -8,19 +8,19 @@ tags: ["위습관","루틴"]
 heroImage: "/images/blog/euclid_axiomatic_thinking.png"
 app: "buildself"
 formatVersion: 4
-authority: "Euclid Axiomatic Thinking 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+authority: "유클리드 『원론(Elements)』 및 프로클로스 『원론 주석서(Commentary on Euclid's Elements)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
 steps:
-  - name: "기존 가정과 고정관념 해체하기"
-    text: "해결하려는 문제에서 검증되지 않은 소문, 막연한 불안, 타인의 고정관념을 완전히 벗겨냅니다."
-  - name: "가장 명백한 공리(Axiom) 3가지 정립"
-    text: "누구도 부인할 수 없는 객관적인 사실 3가지를 노트에 명확히 작성합니다. 외부의 산만 요소를 철저히 단단히 차단하고, 뇌의 전두엽에 명확한 실행 목표와 프레임을 확립하는 데 온전히 집중합니다."
-  - name: "연역적 논리 사슬 한 단계씩 쌓기"
-    text: "정립된 3가지 공리로부터 논리적 인과관계에 따라 다음 행동 플랜을 한 단계씩 연역적으로 유도합니다."
+  - name: "1단계: 기존 가정과 고정관념의 완벽한 해체"
+    text: "해결하려는 문제에서 검증되지 않은 소문, 막연한 불안, 타인의 고정관념 등 관습적인 전제들을 가차 없이 벗겨내고 0의 상태로 돌립니다."
+  - name: "2단계: 더 이상 의심할 수 없는 명백한 공리(Axiom) 3가지 정립"
+    text: "누구도 부인할 수 없는 객관적인 사실 3가지를 노트에 작성합니다. 검증된 숫자와 물리적 제약 등 오직 본질적인 기본 사실에만 전전두엽의 인지 자원을 할당합니다."
+  - name: "3단계: 연역적 논리 사슬의 단계별 구축"
+    text: "정립된 3가지 공리로부터 출발하여, 논리적 인과관계에 따라 다음 행동 플랜과 돌파구를 한 단계씩 연역적으로 유도하여 최적의 결론을 구축합니다."
 faqs:
   - question: "비즈니스나 복잡한 업무 의사결정에 어떻게 적용할 수 있나요?"
-    answer: "프로젝트의 비용, 물리적 제약, 사용자의 근본적 니즈라는 3가지 기본 사실로 문제를 분해한 뒤 전략을 다시 설계하세요."
+    answer: "프로젝트의 물리적 제약, 실제 예산, 사용자의 근본적 니즈처럼 '더 이상 쪼갤 수 없는 기본 사실' 3가지를 먼저 정의한 뒤, 그 기반 위에서 전략을 처음부터 다시 설계하는 방식으로 적용할 수 있습니다."
   - question: "일반적인 논리적 사고와 유클리드의 제1원리 사고는 무엇이 다른가요?"
-    answer: "일반 논리는 기존 관습이나 과거 사례를 전제로 출발하지만, 제1원리 사고는 모든 가정을 0으로 되돌리고 자명한 본질에서 출발합니다."
+    answer: "일반 논리는 과거의 사례나 기존 습관(유사성)을 전제로 출발하는 반면, 제1원리 사고는 모든 가정을 0으로 되돌리고 더 이상 해체 불가능한 자명한 본질에서부터 연역적으로 논리를 쌓아 올린다는 점이 다릅니다."
 
 ---
 
@@ -39,7 +39,7 @@ faqs:
       역사적 및 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Euclid Axiomatic Thinking 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 euclid-axiomatic-thinking 루틴을 다룹니다.
+      본 콘텐츠는 <strong>유클리드 『원론(Elements)』 및 프로클로스 『원론 주석서(Commentary on Euclid's Elements)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 euclid-axiomatic-thinking 루틴을 다룹니다.
     </p>
   </div>
 </div>
@@ -48,41 +48,41 @@ faqs:
 
 ## 공리적 재조합이 뇌의 인지 과부하와 편향을 방지하는 이유
 
-인지심리학 연구에 따르면 인간의 뇌는 휴리스틱(직관적 편향)에 쉽게 의존하여 그릇된 판단을 내립니다. 제1원리 사고는 불확실한 가정을 제거하고 검증된 본질적 사실에만 인지 자원을 할당함으로써 뇌의 불필요한 과부하를 즉각 줄여줍니다. 뇌과학적 분석에 따르면, 이 과정은 전전두엽 피질의 인지 과부하를 방지하고 두정엽의 시공간 스케치북과 기하학적 연산 회로를 자극하여 복잡한 과제를 일목요연하게 구조화하도록 돕습니다.
+인지심리학 연구에 따르면 인간의 뇌는 기존 관습이나 경험적 직관인 휴리스틱(Heuristics)에 오염되어 판단 오류를 범하기 쉽습니다. 유클리드의 공리적 사고는 더 이상 해체 불가능한 <strong>'제1원리(First Principles)'</strong>와 자명한 사실(Axiom)만을 도출해 판단의 출발점으로 삼습니다. 이러한 공리적 재조합 메커니즘은 불확실한 가정을 사전에 제거함으로써 전전두엽 피질(Prefrontal Cortex)의 인지 과부하를 즉각 줄여줍니다. 또한 두정엽의 시공간 스케치북과 논리 연산 회로를 극대화하여 복잡한 난제를 본질부터 일목요연하게 구조화하도록 돕습니다.
 
 ---
 
-## 유클리드 사고법 주의사항 및 인지 팁
+## 검증되지 않은 가정을 '공리'로 착각하지 않는 수칙
 
-증명되지 않은 경험이나 타인의 주장을 '기본 사실'로 착각해서는 안 됩니다. 해결책을 도출하기 전에 반드시 100% 명백한 사실 3가지를 명확히 분리해 내야 합니다. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다.
+증명되지 않은 경험이나 타인의 주장을 '기본 사실'로 착각해서는 안 됩니다. 해결책을 도출하기 전에 반드시 더 이상 분해할 수 없는 100% 명백한 본질적 사실(공리)만을 분리해 내야 하며, 전제 조건이 틀리면 그 뒤의 연역적 결론도 도미노처럼 무너진다는 점을 명심해야 합니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">기존 가정과 고정관념 해체하기</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">1단계: 기존 가정과 고정관념의 완벽한 해체</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    해결하려는 문제에서 검증되지 않은 소문, 막연한 불안, 타인의 고정관념을 완전히 벗겨냅니다.
+    해결하려는 문제에서 검증되지 않은 소문, 막연한 불안, 타인의 고정관념 등 관습적인 전제들을 가차 없이 벗겨내고 0의 상태로 돌립니다.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">가장 명백한 공리(Axiom) 3가지 정립</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">2단계: 더 이상 의심할 수 없는 명백한 공리(Axiom) 3가지 정립</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    누구도 부인할 수 없는 객관적인 사실 3가지를 노트에 명확히 작성합니다. 외부의 산만 요소를 철저히 단단히 차단하고, 뇌의 전두엽에 명확한 실행 목표와 프레임을 확립하는 데 온전히 집중합니다.
+    누구도 부인할 수 없는 객관적인 사실 3가지를 노트에 작성합니다. 검증된 숫자와 물리적 제약 등 오직 본질적인 기본 사실에만 전전두엽의 인지 자원을 할당합니다.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">연역적 논리 사슬 한 단계씩 쌓기</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">3단계: 연역적 논리 사슬의 단계별 구축</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    정립된 3가지 공리로부터 논리적 인과관계에 따라 다음 행동 플랜을 한 단계씩 연역적으로 유도합니다.
+    정립된 3가지 공리로부터 출발하여, 논리적 인과관계에 따라 다음 행동 플랜과 돌파구를 한 단계씩 연역적으로 유도하여 최적의 결론을 구축합니다.
   </p>
 </div>
 
@@ -97,7 +97,7 @@ faqs:
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      프로젝트의 비용, 물리적 제약, 사용자의 근본적 니즈라는 3가지 기본 사실로 문제를 분해한 뒤 전략을 다시 설계하세요.
+      프로젝트의 물리적 제약, 실제 예산, 사용자의 근본적 니즈처럼 '더 이상 쪼갤 수 없는 기본 사실' 3가지를 먼저 정의한 뒤, 그 기반 위에서 전략을 처음부터 다시 설계하는 방식으로 적용할 수 있습니다.
     </p>
   </details>
   <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
@@ -107,7 +107,7 @@ faqs:
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      일반 논리는 기존 관습이나 과거 사례를 전제로 출발하지만, 제1원리 사고는 모든 가정을 0으로 되돌리고 자명한 본질에서 출발합니다.
+      일반 논리는 과거의 사례나 기존 습관(유사성)을 전제로 출발하는 반면, 제1원리 사고는 모든 가정을 0으로 되돌리고 더 이상 해체 불가능한 자명한 본질에서부터 연역적으로 논리를 쌓아 올린다는 점이 다릅니다.
     </p>
   </details>
 </div>

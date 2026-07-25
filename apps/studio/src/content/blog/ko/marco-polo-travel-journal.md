@@ -28,7 +28,7 @@ faqs:
 
 마르코 폴로는 매일 밤 낯선 거친 탐험지에서도 양피지와 수첩을 펼쳐 그날 목격한 생소한 풍경, 낯선 향기와 언어, 시장의 거래품과 대화들을 상세히 기록했습니다. 오감의 미세한 감각 정보를 매일 밤 꼼꼼히 채록하는 습관은 그에게 압도적인 인지적 에피소드 기억 보관소를 구축해 주었습니다.
 
-오늘 BuildSelf에서는 마르코 폴로의 야간 감각 일지 루틴과 에피소드 기억의 과학을 소개합니다.
+오늘 포스트에서는 마르코 폴로의 야간 감각 일지 루틴과 에피소드 기억의 과학을 소개합니다.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

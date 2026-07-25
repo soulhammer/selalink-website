@@ -1,6 +1,6 @@
 ---
-title: "뇌 건강을 깨우는 발걸음? 존 아담스의 속보 산책과 성찰 기록 루틴"
-description: "미국 제2대 대통령 존 아담스는 매일 5마일의 빠른 속보 산책과 저녁 성찰 쓰기를 고수했습니다. BDNF 분비를 자극하는 건강한 뇌 습관을 알아봅니다."
+title: "뇌 건강을 깨우는 발걸음? 존 퀸시 애덤스의 속보 산책과 성찰 기록 루틴"
+description: "미국 제6대 대통령 존 퀸시 애덤스는 매일 5마일의 빠른 속보 산책과 저녁 성찰 쓰기를 고수했습니다. BDNF 분비를 자극하는 건강한 뇌 습관을 알아봅니다."
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
@@ -8,7 +8,7 @@ tags: ["위습관","루틴"]
 heroImage: "/images/blog/adams_morning_walk.png"
 app: "buildself"
 formatVersion: 4
-authority: "존 아담스 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+authority: "존 퀸시 애덤스 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
 steps:
   - name: "아침 20분 속보 산책"
     text: "아침 식사 전후, 약간 숨이 차서 옆 사람과 긴 대화를 나누기는 힘들 정도의 빠른 보폭으로 20분간 산책합니다."
@@ -28,7 +28,7 @@ faqs:
 
 애덤스는 매일 아침 해가 뜨기 전 포토맥강으로 나가 차가운 강물에서 수영을 하거나, 5마일(약 8km) 이상의 거친 숲길을 빠른 보폭으로 걷는 혹독한 신체 루틴을 평생 지켰습니다. 신체 전신의 혈류를 끌어올린 그는 저녁이 되면 조용히 서재에 앉아 오늘 하루 탐독한 책의 정수와 배운 점을 다이어리에 수기로 정성껏 기록했습니다. 신체 활력과 서사적 성찰이 조화를 이룬 이 루틴이 그의 인지 방어막이었습니다.
 
-오늘 BuildSelf에서는 존 퀸시 애덤스의 아침 속보 산책 및 저녁 성찰 수기 루틴에 담긴 뇌 유전성 신경영양인자(BDNF) 방출과 시냅스 강화의 과학을 소개합니다.
+오늘 포스트에서는 존 퀸시 애덤스의 아침 속보 산책 및 저녁 성찰 수기 루틴에 담긴 뇌 유전성 신경영양인자(BDNF) 방출과 시냅스 강화의 과학을 소개합니다.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -37,7 +37,7 @@ faqs:
       역사적 및 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>존 아담스 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 adams-morning-walk 루틴을 다룹니다.
+      본 콘텐츠는 <strong>존 퀸시 애덤스 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 adams-morning-walk 루틴을 다룹니다.
     </p>
   </div>
 </div>
@@ -54,7 +54,7 @@ faqs:
 
 ## 무릎 관절과 체력에 맞춰 속도를 조절하세요
 
-아담스는 매일 5마일의 아주 빠른 속보를 수행했으나, 이는 오랜 기간 단련된 체력 기준입니다. 현대인이 갑자기 고강도 걷기를 시작하면 무릎 관절이나 척추에 무리가 갈 수 있습니다. 본인의 기초 체력에 맞춰 가벼운 속보로 15분에서 시작해 서서히 시간과 보폭을 넓혀 나가는 것이 무리를 피하는 지름길입니다.
+애덤스는 매일 5마일의 아주 빠른 속보를 수행했으나, 이는 오랜 기간 단련된 체력 기준입니다. 현대인이 갑자기 고강도 걷기를 시작하면 무릎 관절이나 척추에 무리가 갈 수 있습니다. 본인의 기초 체력에 맞춰 가벼운 속보로 15분에서 시작해 서서히 시간과 보폭을 넓혀 나가는 것이 무리를 피하는 지름길입니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">

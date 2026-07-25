@@ -1,70 +1,214 @@
 {
   "franklin-air-bath": {
     "title": {
-      "ko": "매일 아침 30분, 벤자민 프랭클린의 기묘한 '공기욕(Air Bath)' 건강법"
+      "ko": "매일 아침 30분, 벤자민 프랭클린의 기묘한 '공기욕(Air Bath)' 건강법과 자율신경계 리셋 루틴",
+      "en": "30 Minutes Every Morning: Benjamin Franklin's Curious 'Air Bath' Health Method and Autonomic Reset Routine",
+      "ja": "毎朝30分、ベンジャミン・フランクリンの奇妙な「空気浴（Air Bath）」健康法と自律神経系リセットルーティン",
+      "zh": "每天清晨30分钟，本杰明·富兰克林的奇妙“空气浴（Air Bath）”养生法与自律神经重置习惯",
+      "es": "30 Minutos Cada Mañana: El Curioso 'Baño de Aire' de Benjamin Franklin y la Rutina de Reinicio Autonómico",
+      "de": "Jeden Morgen 30 Minuten: Benjamin Franklins merkwürdiges 'Luftbad' und seine Routine zur autonomen Nervensystem-Regeneration",
+      "fr": "30 minutes chaque matin : Le curieux « Bain d'air » de Benjamin Franklin et sa routine de réinitialisation du système nerveux autonome",
+      "pt": "30 Minutos Todas as Manhãs: O Curioso 'Banho de Ar' de Benjamin Franklin e a Rotina de Reinício do Sistema Nervoso Autônomo",
+      "id": "30 Menit Setiap Pagi: Metode Kesehatan 'Mandi Udara' Benjamin Franklin yang Unik dan Rutinitas Reset Saraf Otonom"
     },
     "description": {
-      "ko": "피뢰침을 발명하고 미국의 건국을 이끈 벤자민 프랭클린. 그가 매일 아침 나체로 창문을 열어두고 바람을 맞았던 '공기욕' 루틴의 과학적 효과와 실천법을 소개합니다."
+      "ko": "피뢰침을 발명하고 미국의 건국을 이끈 벤자민 프랭클린. 그가 매일 아침 나체로 창문을 열어두고 바람을 맞았던 '공기욕' 루틴의 과학적 효과와 피부 저온 수용체 자극, 노르에피네프린 각성 메커니즘을 알아봅니다.",
+      "en": "Discover how Benjamin Franklin, lightning rod inventor and US Founding Father, practiced his daily morning 'air bath' sitting naked by open windows. Explore the neuroscience of skin cold receptors (TRPM8), norepinephrine arousal, and autonomic nervous system regulation.",
+      "ja": "避雷針を発明しアメリカの建国を率いたベンジャミン・フランクリン。彼が毎朝全裸で窓を開け風を浴びた「空気浴」ルーティンの科学的効果と、皮膚低温受容体刺激、ノルアドレナリン覚醒メカニズムを解き明かします。",
+      "zh": "探索发明避雷针并缔造美国建国伟业的本杰明·富兰克林，如何在每天清晨推开窗户赤裸感受清风。揭示“空气浴”背后的皮肤冷觉受体（TRPM8）刺激、去甲肾上腺素觉醒与自律神经调节原理。",
+      "es": "Descubra cómo Benjamin Franklin, inventor del pararrayos y Padre Fundador de EE. UU., practicaba su 'baño de aire' matutino desnudo frente a ventanas abiertas. Explore la neurociencia de los receptores de frío cutáneos (TRPM8) y la noradrenalina.",
+      "de": "Erfahren Sie, wie Benjamin Franklin, Erfinder des Blitzableiters und Gründervater der USA, jeden Morgen nackt bei offenem Fenster ein 'Luftbad' nahm. Entdecken Sie die Neurowissenschaften der Kälterezeptoren (TRPM8) und Noradrenalin-Ausschüttung.",
+      "fr": "Découvrez comment Benjamin Franklin, inventeur du paratonnerre et Père fondateur des États-Unis, pratiquait son « bain d'air » matinal nu devant des fenêtres ouvertes. Explorez la neuroscience des récepteurs cutanés au froid (TRPM8) et de la noradrénaline.",
+      "pt": "Descubra como Benjamin Franklin, inventor do para-raios e Pai Fundador dos EUA, praticava seu 'banho de ar' matinal nu diante de janelas abertas. Explore a neurociência dos receptores de frio (TRPM8) e da noradrenalina.",
+      "id": "Pelajari bagaimana Benjamin Franklin, penemu penangkal petir dan Pendiri AS, mempraktikkan 'mandi udara' pagi hari secara bertelanjang di dekat jendela terbuka. Temukan neurosains tentang reseptor dingin kulit (TRPM8) dan norepinefrin."
     },
     "authority": {
-      "ko": "벤자민 프랭클린 자서전 『프랭클린 자서전(The Autobiography of Benjamin Franklin)』 및 친필 서간집 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+      "ko": "벤자민 프랭클린 자서전 『프랭클린 자서전(The Autobiography of Benjamin Franklin)』 및 친필 서간집(Letters to M. Barbeu Dubourg) 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+      "en": "Historical Verification from *The Autobiography of Benjamin Franklin*, Franklin's Letters to M. Barbeu Dubourg & Cognitive Neuroscience Research",
+      "ja": "ベンジャミン・フランクリン自伝『フランクリン自伝（The Autobiography of Benjamin Franklin）』および親筆書簡集（Letters to M. Barbeu Dubourg）考証＆認知神経科学（Cognitive Neuroscience）研究",
+      "zh": "本杰明·富兰克林自传《富兰克林自传（The Autobiography of Benjamin Franklin）》与致巴尔贝·杜堡书信集考证及认知神经科学（Cognitive Neuroscience）研究",
+      "es": "Verificación Histórica de la *Autobiografía de Benjamin Franklin*, Cartas a M. Barbeu Dubourg e Investigación en Neurociencia Cognitiva",
+      "de": "Historische Überprüfung aus *Die Autobiographie von Benjamin Franklin*, Briefen an M. Barbeu Dubourg & Forschung der kognitiven Neurowissenschaften",
+      "fr": "Vérification Historique issue de *L'Autobiographie de Benjamin Franklin*, des Lettres à M. Barbeu Dubourg & de la Recherche en Neurosciences Cognitives",
+      "pt": "Verificação Histórica da *Autobiografia de Benjamin Franklin*, Cartas a M. Barbeu Dubourg e Pesquisa em Neurociência Cognitiva",
+      "id": "Verifikasi Historis dari *The Autobiography of Benjamin Franklin*, Surat-Surat Franklin kepada M. Barbeu Dubourg & Penelitian Neurosains Kognitif"
     },
     "intro": {
-      "ko": "미국의 100달러 지폐에 새겨진 인물이자 피뢰침을 발명한 천재 과학자, 그리고 철저한 자기관리로 유명한 벤자민 프랭클린. 그가 매일 아침 침대에서 일어나 행했던 아주 독특하고 기묘한 건강법을 아시나요? 💨\n\n당시 18세기 사람들은 찬 바람을 맞으면 즉시 감기에 걸리거나 큰 병을 얻는다고 믿었습니다. 하지만 프랭클린은 이와 정반대의 생각을 가지고 있었습니다. 그는 매일 아침 옷을 전혀 입지 않은 나체 상태로 창문을 활짝 열고, 찬 공기를 온몸으로 맞으며 30분에서 1시간 동안 책을 읽거나 글을 썼습니다. 그는 이를 '공기욕(Air Bath)'이라 불렀습니다.\n\n오늘 포스트에서는 미국의 건국 아버지가 사랑했던 이 기상천외한 아침 루틴 속에 숨겨진 과학적 원리와, 현대 바쁜 일상 속에서 안전하게 이를 실천하는 방법을 소개합니다."
+      "ko": "미국의 100달러 지폐에 새겨진 인물이자 피뢰침과 이중초점렌즈를 발명한 천재 과학자, 미국 독립선언서에 서명한 '건국의 아버지', 그리고 철저한 자기관리의 대명사인 벤자민 프랭클린(Benjamin Franklin, 1706–1790). 그가 매일 아침 침대에서 일어나 행했던 아주 독특하고 기묘한 건강법을 아시나요? 💨\n\n당시 18세기 유럽과 미국 사람들은 찬 바람을 직접 맞으면 즉시 감기에 걸리거나 큰 병을 얻는다고 믿었습니다. 하지만 프랭클린은 이와 정반대의 과학적 소신을 가지고 있었습니다. 그는 프랑스의 번역가 바르뵈 뒤부르 박사에게 보낸 편지에서 \"나는 매일 아침 옷을 전혀 입지 않은 나체 상태로 창문을 활짝 열어두고 30분에서 1시간 동안 책을 읽거나 글을 쓴다. 이것은 차가운 물목욕보다 신체에 유해하지 않으면서도 대단히 상쾌하다\"라고 기술했습니다. 그는 이를 '공기욕(Air Bath)'이라 불렀습니다.\n\n오늘 포스트에서는 미국의 건국 아버지가 사랑했던 이 기상천외한 아침 루틴 속에 숨겨진 뇌과학적 원리와, 현대 바쁜 일상 속에서 안전하게 이를 실천하는 방법을 소개합니다.",
+      "en": "\"I rise early almost every morning, and sit in my chamber without any clothes whatever, half an hour or an hour... This I call my Air Bath.\" 💨\n\nBenjamin Franklin (1706–1790) was the polymathic Founding Father of the United States whose face graces the $100 bill, famed for inventing the lightning rod, bifocal glasses, and the Franklin stove. Renowned for his legendary self-discipline, Franklin practiced a uniquely eccentric morning health routine.\n\nIn the 18th century, popular wisdom held that exposure to cold air caused severe disease or chills. Franklin held the exact opposite view. In a famous 1768 letter to Dr. Barbeu Dubourg, Franklin described his ritual: every morning upon waking, he opened his bedroom windows completely, sitting stark naked for 30 to 60 minutes while reading or writing. He deemed cold water baths too violent a shock to the human nervous system, preferring his gentle 'Air Bath' to awaken the mind and strengthen constitution.\n\nIn today's post, we uncover the brain science behind Benjamin Franklin's 'air bath' routine and present a modern, safe practical framework to reset your autonomic nervous system each morning.",
+      "ja": "米国の100ドル紙幣に描かれた人物であり、避雷針や遠近両用レンズを発明した天才科学者、米国独立宣言に署名した「建国の父」、そして徹底した self-management（自己管理）の代名詞であるベンジャミン・フランクリン（Benjamin Franklin、1706–1790）。彼が毎朝ベッドから起きて行った非常にユニークで奇妙な健康法をご存知でしょうか？ 💨\n\n当時18世紀の欧米の人々は、冷たい風に直接当たるとすぐに風邪を引いたり重病にかかると信じていました。しかしフランクリンはこれと正反対の科学的持論を持っていました。彼はフランスの翻訳者バルブー・デュブルグ博士に送った手紙で「私は毎朝服を全く着ない全裸の状態で窓を大きく開け放ち、30分から1時間の間本を読んだり文章を書く。これは冷たい水風呂よりも身体に有害でなく、非常に爽快だ」と記述しました。彼はこれを「空気浴（Air Bath）」と呼びました。\n\n本日の記事では、アメリカの建国の父が愛したこの奇想天外な朝のルーティンに隠された脳科学的原理と、現代の忙しい日常の中で安全にこれを実践する方法を紹介します。",
+      "zh": "作为镌刻于美国100美元纸币上的传奇人物、发明了避雷针与双焦点眼镜的天才科学家、签署《独立宣言》的美国“建国之父”，以及极律自我管理的代名词——本杰明·富兰克林（Benjamin Franklin，1706–1790）。你可知他每天清晨起床后所执行的一项极具特色的奇妙养生习惯？ 💨\n\n在18世纪，社会大众普遍笃信直面冷风吹拂会当即招致感冒或染上重病。然而富兰克林却持截然相反的科学见解。他在1768年致法国译者巴尔贝·杜堡博士的信中写道：“我几乎每天清晨早起，全裸一丝不挂地坐在卧室里30分钟至1小时，或阅读或写作。我称之为‘空气浴（Air Bath）’，它对神经系统的冲击远比冷水澡温和，却能带来令人无比神清气爽的畅快。”\n\n在今天的文章中，我们将深度解构这位美国建国元勋钟爱的奇想晨间习惯背后的脑科学原理，并提供一套可在现代日常中安全复刻的自律神经重置方案。",
+      "es": "\"Me levanto temprano casi todas las mañanas y me siento en mi habitación sin ropa alguna, media hora o una hora... A esto lo llamo mi Baño de Aire.\" 💨\n\nBenjamin Franklin (1706–1790) fue el polímata y Padre Fundador de EE. UU. cuyo rostro adorna el billete de 100 dólares, famoso por inventar el pararrayos, las lentes bifocales y la estufa Franklin. Conocido por su legendaria autodisciplina, Franklin practicaba una rutina matutina sumamente curiosa.\n\nEn el siglo XVIII, se creía que exponerse al aire frío provocaba graves enfermedades. Franklin sostenía lo opuesto. En una célebre carta de 1768 al Dr. Barbeu Dubourg, describió su ritual: cada mañana, abría las ventanas de su dormitorio por completo y se sentaba totalmente desnudo durante 30 a 60 minutos para leer o escribir. Consideraba que los baños de agua fría eran un choque demasiado violento para el sistema nervioso, prefiriendo el suave 'Baño de Aire'.\n\nEn la publicación de hoy, revelamos la ciencia cerebral detrás de la rutina de Benjamin Franklin y presentamos una guía práctica para reiniciar su sistema nervioso autónomo.",
+      "de": "\"Ich stehe fast jeden Morgen früh auf und sitze eine halbe oder ganze Stunde ohne Kleidung in meinem Zimmer... Das nenne ich mein Luftbad.\" 💨\n\nBenjamin Franklin (1706–1790) war der amerikanische Gründervater, dessen Porträt den 100-Dollar-Schein ziert und der den Blitzableiter sowie die Gleitsichtbrille erfand. Bekannt für seine Selbstdisziplin, pflegte Franklin eine ungewöhnliche Morgenroutine.\n\nIm 18. Jahrhundert glaubte man, dass kalte Luft schwere Krankheiten verursache. Franklin sah das anders. In einem Brief an Dr. Barbeu Dubourg im Jahr 1768 beschrieb er seine Methode: Jeden Morgen öffnete er die Fenster seines Schlafzimmers weit und saß 30 bis 60 Minuten lang nackt im Raum, um zu lesen oder zu schreiben. Er empfand kalte Wasserbäder als zu heftigen Schock für das Nervensystem und bevorzugte sein 'Luftbad'.\n\nIm heutigen Beitrag enthüllen wir die Neurowissenschaften hinter Benjamin Franklins 'Luftbad' und zeigen, wie Sie Ihr autonomes Nervensystem morgens sicher regenerieren.",
+      "fr": "« Je me lève tôt presque chaque matin et je reste dans ma chambre sans aucun vêtement, une demi-heure ou une heure... C'est ce que j'appelle mon Bain d'air. » 💨\n\nBenjamin Franklin (1706–1790) était le Père fondateur des États-Unis dont le visage figure sur les billets de 100 dollars, célèbre pour avoir inventé le paratonnerre et les verres double foyer. Connu pour sa discipline de fer, Franklin pratiquait une routine matinale très originale.\n\nAu XVIIIe siècle, la croyance populaire voulait que l'exposition à l'air froid provoque de graves maladies. Franklin pensait l'inverse. Dans une lettre de 1768 au Dr Barbeu Dubourg, il décrivait son rituel : chaque matin, il ouvrait en grand les fenêtres de sa chambre et restait nu pendant 30 a 60 minutes pour lire ou écrire. Il jugeait les bains d'eau froide trop violents pour le système nerveux, leur préférant la douceur du « Bain d'air ».\n\nDans cet article, nous révélons la science cérébrale sous-jacente au « bain d'air » de Benjamin Franklin et proposons un guide pratique pour réinitialiser votre système nerveux autonome.",
+      "pt": "\"Levanto-me cedo quase todas as manhãs e me sento no quarto sem roupa alguma, por meia hora ou uma hora... A isso chamo de meu Banho de Ar.\" 💨\n\nBenjamin Franklin (1706–1790) foi o polímata e Pai Fundador dos EUA cujo rosto estampa a nota de 100 dólares, famoso por inventar o para-raios e os óculos bifocais. Famoso por sua autodisciplina, Franklin praticava uma rotina matinal peculiar.\n\nNo século XVIII, acreditava-se que o ar frio causava doenças graves. Franklin pensava o oposto. Em uma carta de 1768 ao Dr. Barbeu Dubourg, descreveu seu ritual: todas as manhãs, abria as janelas do quarto e sentava-se nu por 30 a 60 minutos para ler ou escrever. Ele considerava os banhos de água fria um choque violento para o sistema nervoso, preferindo a suavidade do 'Banho de Ar'.\n\nNo artigo de hoje, revelamos a ciência cerebral por trás da rotina de Benjamin Franklin e apresentamos um guia prático para reiniciar seu sistema nervoso autônomo.",
+      "id": "\"Saya bangun pagi hampir setiap hari, dan duduk di kamar saya tanpa pakaian sama sekali, setengah jam atau satu jam... Ini saya sebut Mandi Udara saya.\" 💨\n\nBenjamin Franklin (1706–1790) adalah Pendiri Amerika Serikat yang wajahnya menghiasi uang kertas $100, terkenal karena menemukan penangkal petir, kacamata bifokal, dan kompor Franklin. Dikenal karena disiplin dirina yang luar biasa, Franklin mempraktikkan rutinitas kesehatan pagi yang unik.\n\nPada abad ke-18, masyarakat percaya bahwa paparan udara dingin menyebabkan penyakit parah. Franklin memiliki pandangan sebaliknya. Dalam surat terkenal tahun 1768 kepada Dr. Barbeu Dubourg, Franklin menjelaskan ritualnya: setiap pagi, ia membuka jendela kamar tidurnya lebar-lebar, duduk bertelanjang bulat selama 30 hingga 60 menit sambil membaca atau menulis. Ia menganggap mandi air dingin terlalu keras bagi sistem saraf, dan lebih menyukai 'Mandi Udara'.\n\nDalam postingan hari ini, kami mengungkap neurosains kognitif di balik rutinitas 'mandi udara' Benjamin Franklin dan menyajikan panduan praktis untuk mereset sistem saraf otonom Anda."
     },
     "whyTitle": {
-      "ko": "피부 저온 수용체 자극과 자율신경계 교감-부교감 밸런스"
+      "ko": "피부 저온 수용체 자극과 자율신경계 교감-부교감 밸런스",
+      "en": "Cutaneous Cold Receptor Stimulation and Autonomic Sympathetic-Parasympathetic Balance",
+      "ja": "皮膚低温受容体刺激と自律神経系交感・副交感バランス",
+      "zh": "皮肤冷觉受体刺激与自律神经交感-副交感平衡机制",
+      "es": "Estimulación de Receptores de Frío Cutáneos y Equilibrio Simpático-Parasimpático",
+      "de": "Stimulation von Kälterezeptoren der Haut und autonomes Nervensystem-Gleichgewicht",
+      "fr": "Stimulation des récepteurs cutanés au froid et équilibre sympathique-parasympatique",
+      "pt": "Estimulação de Receptores de Frio Cutâneos e Equilíbrio Simpático-Parassimpático",
+      "id": "Stimulasi Reseptor Dingin Kulit dan Keseimbangan Simpatis-Parasimpatis Otonom"
     },
     "whyDesc": {
-      "ko": "피부의 냉감 수용체(TRPM8)가 서늘한 공기 자극을 받아들이면, 뇌의 시상하부와 자율신경계가 활성화되어 모세혈관의 미세 수축과 이완을 촉진합니다. 이 과정에서 청반(Locus Coeruleus)이 자극받아 분비되는 <strong>노르에피네프린(Norepinephrine)</strong>과 <strong>도파민(Dopamine)</strong>은 뇌의 각성 상태를 깨우고 전전두엽의 주의 집중력을 단번에 끌어올립니다.\n\n또한 저온의 신선한 공기 자극 후 체온이 다시 회복되는 과정에서 미체 신경 및 부교감 신경 반응이 활성화되어, 만성 스트레스로 과열된 교감신경의 불균형을 리셋하고 정서적 평정심을 선사합니다."
+      "ko": "피부의 냉감 수용체(TRPM8)가 서늘한 공기 자극을 받아들이면, 뇌의 시상하부와 자율신경계가 활성화되어 모세혈관의 미세 수축과 이완을 촉진합니다. 이 과정에서 청반(Locus Coeruleus)이 자극받아 분비되는 <strong>노르에피네프린(Norepinephrine)</strong>과 <strong>도파민(Dopamine)</strong>은 뇌의 각성 상태를 깨우고 전전두엽의 주의 집중력을 단번에 끌어올립니다. 또한 저온의 신선한 공기 자극 후 체온이 다시 회복되는 과정에서 미체 신경 및 부교감 신경 반응이 활성화되어, 만성 스트레스로 과열된 교감신경의 불균형을 리셋하고 정서적 평정심을 선사합니다.",
+      "en": "When cutaneous cold-sensing receptors (TRPM8) detect cool air exposure, signals travel to the hypothalamus and autonomic nervous system, promoting micro-constriction and dilation of skin capillaries. This pathway stimulates the brainstem's <strong>locus coeruleus</strong>, releasing <strong>norepinephrine</strong> and <strong>dopamine</strong> to dispel morning grogginess and sharply elevate prefrontal executive focus. Furthermore, as body temperature naturally recovers after cool air exposure, vagal nerve activity and parasympathetic responses engage, resetting sympathetic hyper-arousal caused by chronic stress and restoring emotional equilibrium.",
+      "ja": "皮膚の冷感受容体（TRPM8）が涼しい空気の刺激を受け入れると、脳の視床下部と自律神経系が活性化され毛細血管の微細な収縮と弛緩を促進します。この過程で青斑核（Locus Coeruleus）が刺激されて分泌される<strong>ノルアドレナリン（Norepinephrine）</strong>と<strong>ドパミン（Dopamine）</strong>は脳の覚醒状態を呼び覚まし、前頭前野の注意集中力を一気に引き上げます。また、低温の新鮮な空気刺激の後に体温が再び回復する過程で迷走神経および副交感神経反応が活性化され、慢性ストレスで過熱した交感神経の不均衡をリセットし、情緒的平静をもたらします。",
+      "zh": "当皮肤的冷觉受体（TRPM8）接收到清凉空气的刺激时，大脑下丘脑与自律神经系统被即刻激活，促使微血管展开微观收缩与舒张。在此过程中，脑干的<strong>蓝斑核（Locus Coeruleus）</strong>受激大量释放<strong>去甲肾上腺素（Norepinephrine）</strong>与<strong>多巴胺（Dopamine）</strong>，驱散晨间昏沉，瞬间拉升前额叶皮层的专注力。此外，在受凉后体温自然回升的过程中，迷走神经与副交感神经应答被唤醒，进而重置因慢性高压而处于亢奋状态的交感神经失衡，赋予内心沉静的平稳感。",
+      "es": "Cuando los receptores de frío cutáneos (TRPM8) detectan aire fresco, las señales viajan al hipotálamo y al sistema nervioso autónomo, estimulando los capilares. Esta vía activa el <strong>locus coeruleus</strong>, liberando <strong>noradrenalina</strong> y <strong>dopamina</strong> para eliminar la somnolencia e intensificar el enfoque prefrontal. Además, a medida que la temperatura corporal se recupera, se activa la respuesta parasimpática a través del nervio vago, reiniciando la hiperactivación simpática y restaurando el equilibrio emocional.",
+      "de": "Wenn Kälterezeptoren der Haut (TRPM8) kühle Luft wahrnehmen, werden Signale an den Hypothalamus und das autonome Nervensystem gesendet. Dieser Pfad stimuliert den <strong>Locus Coeruleus</strong> im Gehirn, was zur Ausschüttung von <strong>Noradrenalin</strong> und <strong>Dopamin</strong> führt. Dies vertreibt Morgenmüdigkeit und steigert die Konzentration im Präfrontalkortex. Wenn sich die Körpertemperatur anschließend erholt, wird das parasympathische Nervensystem aktiviert, was chronischen Stress abbaut.",
+      "fr": "Lorsque les récepteurs cutanés au froid (TRPM8) détectent de l'air frais, les signaux atteignent l'hypothalamus et le système nerveux autonome, stimulant les capillaires. Ce circuit active le <strong>locus coeruleus</strong>, libérant de la <strong>noradérnaline</strong> et de la <strong>dopamine</strong> pour dissiper la fatigue matinale et aiguiser la concentration préfrontale. De plus, lors du réchauffement corporel, le système parasympathique s'active via le nerf vague, apaisant l'hyper-stimulation sympathique.",
+      "pt": "Quando os receptores de frio (TRPM8) detectam ar fresco, os sinais chegam ao hipotálamo e ao sistema nervoso autônomo, estimulando os capilares. Essa via ativa o <strong>locus coeruleus</strong>, liberando <strong>noradrenalina</strong> e <strong>dopamina</strong> para eliminar a sonolência e elevar o foco pré-frontal. Além disso, à medida que a temperatura corporal se recupera, a resposta parassimpática é ativada, redefinindo o hiperalerta simpático.",
+      "id": "Ketika reseptor dingin kulit (TRPM8) mendeteksi udara sejuk, sinyal bergerak ke hipotalamus dan sistem saraf otonom, mendorong mikrokontraksi dan dilatasi kapiler. Jalur ini menstimulasi <strong>locus coeruleus</strong>, melepaskan <strong>norepinefrin</strong> dan <strong>dopamin</strong> untuk mengusir kantuk pagi dan meningkatkan fokus prefrontal. Selain itu, saat suhu tubuh pulih secara alami, respon parasimpatis aktif, mereset ketegangan saraf."
     },
     "cautionTitle": {
-      "ko": "과도한 체온 저하를 막는 적정 시간과 저온 자극 수칙"
+      "ko": "과도한 체온 저하를 막는 적정 시간과 저온 자극 수칙",
+      "en": "Caution: Protocol for Exposure Duration to Prevent Hypothermia and Extreme Cold",
+      "ja": "注意事項：過度な体温低下を防ぐ適正時間と低温刺激ルール",
+      "zh": "注意事项：控制 exposure 时间以防体温过低与过度寒冷刺激",
+      "es": "Precaución: Protocolo de Tiempo de Exposición para Evitar la Hipotermia",
+      "de": "Vorsichtsmaßnahme: Richtlinien zur Expositionsdauer gegen Auskühlung",
+      "fr": "Mise en garde : Consignes sur la durée d'exposition pour éviter l'hypothermie",
+      "pt": "Precaução: Protocolo de Tempo de Exposição para Evitar a Hipotermia",
+      "id": "Perhatian: Protokol Durasi Paparan untuk Mencegah Hipotermia dan Dingin Ekstrem"
     },
     "cautionDesc": {
-      "ko": "공기욕은 오한을 참아내는 극기 훈련이 아닙니다. 과도하게 강추위에 노출되면 급격한 혈관 수축으로 인한 혈압 상승이나 면역력 저하를 초래할 수 있습니다. 쾌적함을 느끼는 서늘한 온도 범위에서 10~15분 이내로 실행해야 자율신경계 리셋 효과를 안전하게 누릴 수 있습니다."
+      "ko": "공기욕은 오한을 참아내는 극기 훈련이 아닙니다. 과도하게 강추위에 노출되면 급격한 혈관 수축으로 인한 혈압 상승이나 면역력 저하를 초래할 수 있습니다. 쾌적함을 느끼는 서늘한 온도 범위에서 10~15분 이내로 실행해야 자율신경계 리셋 효과를 안전하게 누릴 수 있습니다.",
+      "en": "An air bath is not an endurance test of shivering through extreme frost. Excessive exposure to freezing cold induces severe vasoconstriction, leading to elevated blood pressure or suppressed immune function. To safely achieve autonomic reset benefits, limit exposure to a comfortable, cool temperature range for 10 to 15 minutes maximum.",
+      "ja": "空気浴は寒気に耐える忍耐訓練ではありません。過度に厳しい寒さに露出されると、急激な血管収縮による血圧上昇や免疫力低下を招く恐れがあります。快適さを感じる涼しい温度範囲で10〜15分以内に実行してこそ、自律神経系リセット効果を安全に享受できます。",
+      "zh": "“空气浴”绝非强忍瑟瑟发抖的耐寒苦行。过度暴露于严寒风雪中会导致血管剧烈收缩，引发血压飙升或免疫力下滑。须将环境控制于体感舒适的凉爽区间，并将时间限定在10-15分钟以内，方能安全享受到重置自律神经的生理益处。",
+      "es": "Un baño de aire no es una prueba de resistencia al frío extremo. La exposición excesiva al congelamiento causa vasoconstricción severa, aumentando la presión arterial o reduciendo las defensas. Para reiniciar el sistema de forma segura, limite el proceso a un clima fresco y confortable durante 10 a 15 minutos máximo.",
+      "de": "Ein Luftbad ist kein Ausdauertest bei extremer Kälte. Übermäßige Kälteexposition führt zu Gefäßverengung, Blutdruckanstieg und geschwächter Immunabwehr. Um das autonome Nervensystem sicher zu regenerieren, beschränken Sie die Dauer bei angenehm kühler Temperatur auf maximal 10 bis 15 Minuten.",
+      "fr": "Un bain d'air n'est pas un test d'endurance face au gel. Une exposition excessive au froid provoque une forte vasoconstriction, élevant la tension artérielle et affaiblissant l'immunité. Pour obtenir les bénéfices en toute sécurité, limitez la séance a une température fraîche et confortable pendant 10 à 15 minutes maximum.",
+      "pt": "Um banho de ar não é um teste de resistência ao frio extremo. A exposição excessiva ao frio intenso causa vasoconstrição severa, aumentando a pressão arterial ou enfraquecendo a imunidade. Para obter benefícios com segurança, limite o processo a uma temperatura fresca e confortável por no máximo 10 a 15 minutos.",
+      "id": "Mandi udara bukanlah ujian ketahanan dalam suhu dingin yang ekstrem. Paparan berlebihan terhadap suhu beku menyebabkan vasokonstriksi parah, memicu kenaikan tekanan darah atau penurunan kekebalan tubuh. Untuk mencapai manfaat reset secara aman, batasi paparan pada suhu sejuk yang nyaman selama maksimal 10 hingga 15 menit."
     },
     "steps": [
       {
         "name": {
-          "ko": "1단계: 기상 직후 실내 환기 및 아침 공기 접촉 세팅"
+          "ko": "1단계: 기상 직후 실내 환기 및 아침 공기 접촉 세팅",
+          "en": "Step 1: Post-Waking Indoor Ventilation & Skin Exposure Setup",
+          "ja": "ステップ1：起床直後の室内換気および朝の空気接触セットアップ",
+          "zh": "步骤1：醒后通风换气与搭建皮肤接触凉风环境",
+          "es": "Paso 1: Ventilación Matutina y Configuración para la Exposición Cutánea",
+          "de": "Schritt 1: Lüften nach dem Aufstehen & Vorbereitung der Hautexposition",
+          "fr": "Étape 1 : Aération de la pièce au réveil & Exposition cutanée",
+          "pt": "Passo 1: Ventilação Matinal e Preparação para a Exposição da Pele",
+          "id": "Langkah 1: Ventilasi Ruangan Setelah Bangun & Pengaturan Paparan Kulit"
         },
         "text": {
-          "ko": "아침 기상 직후 창문을 활짝 열어 실내의 정체된 공기를 환기하고, 얇은 가운이나 편안한 차림(또는 피부 노출 면적이 넓은 복장)으로 서늘한 공기가 피부에 직접 닿도록 세팅합니다."
+          "ko": "아침 기상 직후 창문을 활짝 열어 실내의 정체된 공기를 환기하고, 얇은 가운이나 편안한 차림(또는 피부 노출 면적이 넓은 복장)으로 서늘한 공기가 피부에 직접 닿도록 세팅합니다.",
+          "en": "Immediately upon waking, open bedroom windows wide to flush out stale indoor air. Wear a light robe or comfortable loose clothing that maximizes skin exposure, allowing cool morning air to contact your body directly.",
+          "ja": "朝の起床直後に窓を大きく開けて室内の停滞した空気を換気し、薄いガウンや気楽な格好（または皮膚の露出面積が広い服装）で涼しい空気が皮膚に直接触れるようセットアップします。",
+          "zh": "清晨醒来后立即推开窗户，排出室内停滞的浊气。穿着轻薄睡袍或宽松衣物（或极大化裸露肌肤的服装），使清凉的晨风能直接拂过皮肤。",
+          "es": "Inmediatamente al despertar, abra las ventanas para renovar el aire. Use una bata ligera o ropa holgada que maximice la exposición de la piel, permitiendo que el aire fresco entre en contacto directo con su cuerpo.",
+          "de": "Öffnen Sie direkt nach dem Aufstehen die Fenster, um die Raumluft auszutauschen. Tragen Sie einen leichten Morgenmantel oder weite Kleidung, die viel Haut freilässt, damit die kühle Luft direkt wirken kann.",
+          "fr": "Dès le réveil, ouvrez les fenêtres en grand pour renouveler l'air ambiant. Portez un peignoir léger ou des vêtements amples dégageant la peau pour que l'air frais entre en contact direct avec votre corps.",
+          "pt": "Imediatamente ao acordar, abra as janelas para renovar o ar. Use um roupão leve ou roupas largas que maximizem a exposição da pele, permitindo que o ar fresco entre em contato direto com o corpo.",
+          "id": "Segera setelah bangun tidur, buka jendela kamar lebar-lebar untuk mengganti udara. Kenakan jubah ringan atau pakaian longgar yang memaksimalkan paparan kulit, memungkinkan udara sejuk menyentuh tubuh Anda."
         }
       },
       {
         "name": {
-          "ko": "2단계: 10~15분간 서늘한 바람 속 신체 이완과 사색"
+          "ko": "2단계: 10~15분간 서늘한 바람 속 신체 이완과 사색",
+          "en": "Step 2: 10 to 15 Minutes of Body Relaxation & Contemplation in Cool Air",
+          "ja": "ステップ2：10〜15分間の涼しい風の中での身体リラックスと思索",
+          "zh": "步骤2：在清风拂照下沉浸身心与静心思索10-15分钟",
+          "es": "Paso 2: 10 a 15 Minutos de Relajación Corporal y Reflexión en Aire Fresco",
+          "de": "Schritt 2: 10 bis 15 Minuten Entspannung und Reflexion in kühler Luft",
+          "fr": "Étape 2 : 10 à 15 minutes de relaxation et méditation dans l'air frais",
+          "pt": "Passo 2: 10 a 15 Minutos de Relaxamento Corporal e Reflexão no Ar Fresco",
+          "id": "Langkah 2: Relaksasi Tubuh & Perenungan Selama 10 hingga 15 Menit di Udara Sejuk"
         },
         "text": {
-          "ko": "창가 근처에서 서늘한 아침 공기를 피부로 마주하며 10~15분간 깊은 호흡을 진행합니다. 프랭클린처럼 가벼운 독서나 사색을 겸하며 피부 감각과 호흡에 인지 자원을 집중시킵니다."
+          "ko": "창가 근처에서 서늘한 아침 공기를 피부로 마주하며 10~15분간 깊은 호흡을 진행합니다. 프랭클린처럼 가벼운 독서나 사색을 겸하며 피부 감각과 호흡에 인지 자원을 집중시킵니다.",
+          "en": "Sit near the open window, taking slow, deep breaths while embracing the cool morning air for 10 to 15 minutes. Like Franklin, engage in light reading or journaling, focusing your awareness on tactile skin sensations and steady breathing.",
+          "ja": "窓辺の近くで涼しい朝の空気を肌で感じながら10〜15分間深い呼吸を行います。フランクリンのように軽い読書と思索を兼ね、皮膚の感覚と呼吸に認知資源を集中させます。",
+          "zh": "伫立或静坐于窗边，在清凉晨风的包裹下深呼吸10-15分钟。效法富兰克林，翻阅轻松书籍或静心思考，将注意力定格于肌肤的微温触感与平稳呼吸中。",
+          "es": "Siéntese cerca de la ventana abierta, respirando profundamente mientras siente el aire fresco durante 10 a 15 minutos. Como Franklin, lea tranquilamente o escriba, enfocándose en la sensación táctil de la piel.",
+          "de": "Setzen Sie sich ans offene Fenster und atmen Sie 10 bis 15 Minuten lang tief ein und aus. Lesen oder reflektieren Sie wie Franklin und konzentrieren Sie sich auf die Kältereize der Haut und Ihre Atmung.",
+          "fr": "Asseyez-vous près de la fenêtre, en respirant profondément au contact de l'air frais pendant 10 à 15 minutes. Comme Franklin, lisez ou méditez paisiblement en vous concentrant sur les sensations cutanées.",
+          "pt": "Sente-se perto da janela aberta, respirando fundo enquanto sente o ar fresco por 10 a 15 minutos. Como Franklin, leia tranquilamente ou escreva, focando nas sensações da pele e na respiração.",
+          "id": "Duduklah di dekat jendela yang terbuka, tarik napas dalam-dalam sambil merasakan udara sejuk selama 10 hingga 15 menit. Seperti Franklin, bacalah dengan santai atau bertafakur, berfokus pada sensasi taktil kulit."
         }
       },
       {
         "name": {
-          "ko": "3단계: 온열 회복 및 정상 자율신경계 리셋"
+          "ko": "3단계: 온열 회복 및 정상 자율신경계 리셋",
+          "en": "Step 3: Thermal Recovery & Autonomic Nervous System Rebound",
+          "ja": "ステップ3：温熱回復および正常自律神経系リセット",
+          "zh": "步骤3：温热归位与触发自律神经系统副交感重置",
+          "es": "Paso 3: Recuperación Térmica y Reinicio del Sistema Nervioso Autónomo",
+          "de": "Schritt 3: Erwärmung & Erholung des autonomen Nervensystems",
+          "fr": "Étape 3 : Réchauffement corporel & Réinitialisation du système nerveux",
+          "pt": "Passo 3: Recuperação Térmica e Reinício do Sistema Nervoso Autônomo",
+          "id": "Langkah 3: Pemulihan Suhu & Reset Sistem Saraf Otonom"
         },
         "text": {
-          "ko": "공기욕이 끝나면 창문을 닫고 미온수로 샤워하거나 따뜻한 옷을 입어 체온을 되찾습니다. 피부 온도가 회복되면서 부교감 신경이 활성화되어 맑고 이완된 뇌 상태를 완성합니다."
+          "ko": "공기욕이 끝나면 창문을 닫고 미온수로 샤워하거나 따뜻한 옷을 입어 체온을 되찾습니다. 피부 온도가 회복되면서 부교감 신경이 활성화되어 맑고 이완된 뇌 상태를 완성합니다.",
+          "en": "After concluding your air bath, close the windows and take a lukewarm shower or put on warm clothing to restore core body temperature. As skin temperature recovers, parasympathetic tone engages, solidifying a calm, highly alert mental state.",
+          "ja": "空気浴が終わったら窓を閉め、ぬるま湯でシャワーを浴びるか温かい服を着て体温を取り戻します。皮膚温度が回復するにつれ副交感神経が活性化され、澄んでリラックスした脳の状態を完成させます。",
+          "zh": "结束空气浴后，关上窗户，冲温水澡或换上保暖衣物恢复体温。随着皮肤表面温度回升，副交感神经应答被强力激活，呈现清醒且从容的大脑巅峰状态。",
+          "es": "Tras concluir el baño de aire, cierre las ventanas y tome una ducha templada o póngase ropa abrigada para recuperar la temperatura. Al recalentarse la piel, se activa el sistema parasimpático, consolidando un estado mental sereno y alerta.",
+          "de": "Schließen Sie nach dem Luftbad die Fenster und duschen Sie lau warm oder ziehen Sie warme Kleidung an. Wenn sich die Haut erwärmt, setzt die parasympathische Wirkung ein und hinterlässt einen wachen, entspannten Geist.",
+          "fr": "Après le bain d'air, fermez les fenêtres et prenez une douche tiède ou habillez-vous chaudement pour retrouver votre température. Ce réchauffement active le système parasympathique, procurant un esprit calme et lucide.",
+          "pt": "Após o banho de ar, feche as janelas e tome um banho morno ou vista roupas quentes para recuperar a temperatura. O aquecimento da pele ativa a resposta parassimpática, consolidando um estado mental sereno e alerta.",
+          "id": "Setelah menyelesaikannya, tutup jendela dan mandilah dengan air hangat atau kenakan pakaian hangat untuk memulihkan suhu tubuh. Saat kulit memanas, respon parasimpatis aktif, menghasilkan kondisi mental yang tenang."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "공기욕(Air Bath)이 정말 면역력 강화와 정신 각성에 도움이 되나요?"
+          "ko": "공기욕(Air Bath)이 정말 면역력 강화와 정신 각성에 도움이 되나요?",
+          "en": "Does an Air Bath genuinely aid immune resilience and mental alertness?",
+          "ja": "空気浴（Air Bath）は本当に免疫力強化と精神的覚醒に役立ちますか？",
+          "zh": "空气浴（Air Bath）真的有助于提升免疫韧性与大脑清醒度吗？",
+          "es": "¿Realmente un Baño de Aire ayuda a fortalecer la inmunidad y la agudeza mental?",
+          "de": "Hilft ein Luftbad wirklich zur Stärkung des Immunsystems und der geistigen Wachheit?",
+          "fr": "Un Bain d'air aide-t-il vraiment a renforcer l'immunité et la vigilance mentale ?",
+          "pt": "Um Banho de Ar realmente ajuda a fortalecer a imunidade e o alerta mental?",
+          "id": "Apakah Mandi Udara benar-benar membantu ketahanan imun dan kesadaran mental?"
         },
         "answer": {
-          "ko": "네, 피부 저온 자극은 교감-부교감 신경계의 탄력성을 키우며, 자율신경계 리셋을 통해 뇌의 노르에피네프린 분비를 촉진함으로써 아침 피로감을 제거하고 전전두엽의 인지 각성을 돕습니다."
+          "ko": "네, 피부 저온 자극은 교감-부교감 신경계의 탄력성을 키우며, 자율신경계 리셋을 통해 뇌의 노르에피네프린 분비를 촉진함으로써 아침 피로감을 제거하고 전전두엽의 인지 각성을 돕습니다.",
+          "en": "Yes. Mild cutaneous cold exposure enhances autonomic nervous system flexibility. By triggering norepinephrine release, it eliminates morning brain fog and sharpens prefrontal executive control.",
+          "ja": "はい、皮膚の低温刺激は交感・副交感神経系の柔軟性を育て、自律神経系リセットを通じて脳のノルアドレナリン分泌を促進することで、朝の疲労感を除去し前頭前野の認知覚醒を助けます。",
+          "zh": "完全行之有效。温和的皮肤冷觉刺激能显著锻炼交感与副交感神经系统的弹性。通过倒逼脑内去甲肾上腺素分泌，能瞬间击碎晨间大脑昏沉，极速拉升前额叶皮层的专注力。",
+          "es": "Sí. La exposición suave al frío estimula la flexibilidad del sistema nervioso autónomo. Al desencadenar noradrenalina, elimina la niebla mental matutina y fortalece el control ejecutivo prefrontal.",
+          "de": "Ja. Milde Kältereize stärken die Flexibilität des autonomen Nervensystems. Durch die Ausschüttung von Noradrenalin wird Morgenmüdigkeit vertrieben und die präfrontale Steuerung geschärft.",
+          "fr": "Oui. Une exposition modérée au froid renforce la souplesse du système nerveux autonome. En stimulant la noradrénaline, elle dissipe le brouillard matinal et aiguise la concentration préfrontale.",
+          "pt": "Sim. A exposição suave ao frio melhora a flexibilidade do sistema nervoso autônomo. Ao disparar a noradrenalina, elimina a névoa mental matinal e eleva o foco pré-frontal.",
+          "id": "Ya. Paparan dingin ringan pada kulit meningkatkan fleksibilitas sistem saraf otonom. Dengan memicu pelepasan norepinefrin, mandi udara mengusir kabut otak pagi hari dan mempertajam kontrol prefrontal."
         }
       },
       {
         "question": {
-          "ko": "추운 겨울철에는 공기욕을 어떻게 실천해야 안전한가요?"
+          "ko": "추운 겨울철에는 공기욕을 어떻게 실천해야 안전한가요?",
+          "en": "How should I safely practice an Air Bath during freezing winter months?",
+          "ja": "寒い冬の季節には空気浴をどのように実践すれば安全ですか？",
+          "zh": "在寒冷的冬季，应当如何安全地践行“空气浴”？",
+          "es": "¿Cómo debo practicar un Baño de Aire de forma segura durante los meses fríos de invierno?",
+          "de": "Wie sollte man ein Luftbad im kalten Winter sicher durchführen?",
+          "fr": "Comment pratiquer un Bain d'air en toute sécurité pendant les mois d'hiver ?",
+          "pt": "Como devo praticar um Banho de Ar com segurança durante os meses frios de inverno?",
+          "id": "Bagaimana cara mempraktikkan Mandi Udara secara aman selama musim dingin yang membekukan?"
         },
         "answer": {
-          "ko": "겨울철에는 나체로 오랫동안 외부에 노출되는 것은 위험합니다. 창문을 1~2분간 짧게 열어 실내 공기를 빠르게 순환시킨 뒤, 서늘해진 실내 공기 속에서 3~5분 정도 가볍게 피부 자극을 느끼는 미니 공기욕으로 진행하는 것이 안전합니다."
+          "ko": "겨울철에는 나체로 오랫동안 외부에 노출되는 것은 위험합니다. 창문을 1~2분간 짧게 열어 실내 공기를 빠르게 순환시킨 뒤, 서늘해진 실내 공기 속에서 3~5분 정도 가볍게 피부 자극을 느끼는 미니 공기욕으로 진행하는 것이 안전합니다.",
+          "en": "In winter, prolonged nudity near open windows is unsafe. Instead, practice a 'Mini Air Bath': crack windows open for 1 to 2 minutes to circulate fresh air, then close them and enjoy gentle skin exposure in the cooled indoor room for 3 to 5 minutes.",
+          "ja": "冬場は裸で長時間外部に露出することは危険です。窓を1〜2分間短く開けて室内の空気を素早く循環させた後、涼しくなった室内空気の中で3〜5分ほど軽く皮膚の刺激を感じるミニ空気浴として進行するのが安全です。",
+          "zh": "冬季切忌长时间裸露赤身于严寒风口下。安全的替代方案是执行“微型空气浴”：开窗1-2分钟让室内空气快速对流循环，随后关窗，在降温后的室内凉爽空气中静坐3-5分钟，轻度感受肌肤微凉刺激即可。",
+          "es": "En invierno, la exposición prolongada frente a ventanas abiertas es riesgosa. Practique un 'Mini Baño de Aire': abra las ventanas solo 1-2 minutos para renovar el aire y disfrute del ambiente fresco de la habitación cubierta durante 3 a 5 minutos.",
+          "de": "Im Winter ist lange Nacktheit bei offenem Fenster gefährlich. Führen Sie ein 'Mini-Luftbad' durch: Öffnen Sie das Fenster nur 1 bis 2 Minuten kurz zum Lüften und genießen Sie die kühle Raumluft danach 3 bis 5 Minuten lang.",
+          "fr": "En hiver, rester nu longtemps devant une fenêtre ouverte est dangereux. Adaptez le rituel en « Mini bain d'air » : ouvrez la fenêtre 1 à 2 minutes pour renouveler l'air, puis refermez-la et profitez de l'air frais de la pièce pendant 3 à 5 minutes.",
+          "pt": "No inverno, a exposição prolongada diante de janelas abertas é arriscada. Faça um 'Mini Banho de Ar': abra as janelas por 1 a 2 minutos para renovar o ar e aproveite a temperatura fresca do quarto fechado por 3 a 5 minutos.",
+          "id": "Di musim dingin, bertelanjang lama di dekat jendela terbuka sangat tidak aman. Terapkan 'Mandi Udara Mini': buka jendela selama 1 hingga 2 menit untuk sirkulasi udara, lalu tutup kembali dan nikmati paparan kulit ringan di dalam ruangan sejuk selama 3 hingga 5 menit."
         }
       }
     ]

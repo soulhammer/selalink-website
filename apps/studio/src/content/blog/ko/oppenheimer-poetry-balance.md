@@ -28,7 +28,7 @@ faqs:
 
 오펜하이머는 밤이 되면 치열한 물리학 방정식 연구를 멈추고 고전 시집이나 산스크리트어 시를 직접 원어로 읽었습니다. 수치적 계산과 이론물리학의 고도의 좌뇌 집착에서 벗어나 시적 아날로그 언어에 몰입하는 시간은 그에게 가장 완벽한 '인지적 균형 스위치'였습니다.
 
-오늘 BuildSelf에서는 오펜하이머의 야간 시 독서 루틴과 뇌 이완의 과학을 소개합니다.
+오늘 포스트에서는 오펜하이머의 야간 시 독서 루틴과 뇌 이완의 과학을 소개합니다.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

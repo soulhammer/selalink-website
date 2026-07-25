@@ -1,70 +1,214 @@
 {
   "george-washington-morning-rounds": {
     "title": {
-      "ko": "조지 워싱턴의 '영농 일지': 초대 대통령의 행정력을 낳은 새벽 순찰과 기록"
+      "ko": "조지 워싱턴의 '영농 일지': 초대 대통령의 행정력을 낳은 새벽 순찰과 기록 및 메타인지 루틴",
+      "en": "George Washington's Farm Logbook: The Dawn Inspection and Record-Keeping Routine That Forged Presidential Governance",
+      "ja": "ジョージ・ワシントンの「営農日誌」：初代大統領の行政力を生んだ早朝巡回と記録およびメタ認知ルーティン",
+      "zh": "乔治·华盛顿的“农事日志”：缔造首任总统治理能力的黎明巡视与精准记录习惯",
+      "es": "El Diario Agrícola de George Washington: La Rutina de Inspección y Registro al Amanecer que Forjó la Gobernanza Presidencial",
+      "de": "George Washingtons Landwirtschafts-Tagebuch: Die morgendliche Inspektions- und Aufzeichnungsroutine, die die Präsidialverwaltung prägte",
+      "fr": "Le journal agricole de George Washington : La routine d'inspection et de consignation à l'aube qui a forgé la gouvernance présidentielle",
+      "pt": "O Diário Agrícola de George Washington: A Rotina de Inspeção e Registro ao Amanhecer que Forjou a Governança Presidencial",
+      "id": "Buku Catatan Pertanian George Washington: Rutinitas Inspeksi dan Pencatatan Fajar yang Membentuk Tata Kelola Presidensial"
     },
     "description": {
-      "ko": "새벽 4시 기상 후 직접 마운트 버넌 농장을 돌며 기후와 농작물 수치를 정밀 기록했던 조지 워싱턴. 국가 행정의 뼈대가 된 메타 인지 습관을 탐구합니다."
+      "ko": "새벽 4시 기상 후 직접 마운트 버넌 농장을 돌며 기후와 농작물 수치를 정밀 기록했던 조지 워싱턴. 국가 행정의 뼈대가 된 메타인지 습관과 외측 전전두엽 피질 활성화의 뇌과학적 원리를 탐구합니다.",
+      "en": "Discover how George Washington, who rose at 4 AM to inspect Mount Vernon and record precise agricultural metrics, built the administrative foundation of a nation. Explore the neuroscience of metacognition and lateral prefrontal cortex activation.",
+      "ja": "早朝4時に起床し自らマウントバーノン農場を回り、気候と農作物の数値を精密記録したジョージ・ワシントン。国家行政の骨組みとなったメタ認知習慣と外側前頭前野皮質活性化の脳科学的原理を探求します。",
+      "zh": "探索乔治·华盛顿如何在清晨4点即起踏遍弗吉尼亚的弗农山庄、精细记录气候与农作物数据。揭示构成国家行政基石的元认知习惯与外侧前额叶皮层激活原理。",
+      "es": "Descubra cómo George Washington, que se levantaba a las 4 AM para inspeccionar Mount Vernon y registrar métricas agrícolas precisas, construyó los cimientos administrativos de una nación. Explore la neurociencia de la metacognición y la corteza prefrontal lateral.",
+      "de": "Erfahren Sie, wie George Washington, der um 4 Uhr morgens aufstand, um Mount Vernon zu inspizieren und Daten zu erfassen, das administrative Fundament einer Nation schuf. Entdecken Sie die Neurowissenschaften der Metakognition.",
+      "fr": "Découvrez comment George Washington, qui se levait à 4h00 pour inspecter Mount Vernon et consigner des données agricoles précises, a bâti les fondations administratives d'une nation. Explorez la neuroscience de la métacognition.",
+      "pt": "Descubra como George Washington, que acordava às 4h para inspecionar Mount Vernon e registrar métricas agrícolas precisas, construiu os alicerces administrativos de uma nação. Explore a neurociência da metacognição e do córtex pré-frontal lateral.",
+      "id": "Pelajari bagaimana George Washington, yang bangun jam 4 pagi untuk menginspeksi Mount Vernon dan mencatat metrik pertanian yang presisi, membangun fondasi administratif sebuah negara. Temukan neurosains metakognisi dan korteks prefrontal lateral."
     },
     "authority": {
-      "ko": "조지 워싱턴 평전 및 마운트 버넌(Mount Vernon) 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+      "ko": "조지 워싱턴 평전 및 마운트 버넌(Mount Vernon) 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+      "en": "Historical Verification from George Washington Biographies, Mount Vernon Estate Archives & Cognitive Neuroscience Research",
+      "ja": "ジョージ・ワシントン評伝およびマウントバーノン（Mount Vernon）史料考証＆認知神経科学（Cognitive Neuroscience）研究",
+      "zh": "乔治·华盛顿传记与弗农山庄（Mount Vernon）史料考证及认知神经科学（Cognitive Neuroscience）研究",
+      "es": "Verificación Histórica de las Biografías de George Washington, Archivos de la Finca Mount Vernon e Investigación en Neurociencia Cognitiva",
+      "de": "Historische Überprüfung aus George Washington-Biografien, Archiven des Anwesens Mount Vernon & Forschung der kognitiven Neurowissenschaften",
+      "fr": "Vérification Historique issue des biographies de George Washington, des archives du domaine de Mount Vernon & de la Recherche en Neurosciences Cognitives",
+      "pt": "Verificação Histórica das Biografias de George Washington, Arquivos da Fazenda Mount Vernon e Pesquisa em Neurociência Cognitiva",
+      "id": "Verifikasi Historis dari Biografi George Washington, Arsip Perkebunan Mount Vernon & Penelitian Neurosains Kognitif"
     },
     "intro": {
-      "ko": "\"글을 남기는 습관은 생각의 불완전함을 바로잡아 주는 가장 정직한 거울이다.\" ☀️\n\n미국의 독립 전쟁을 승리로 이끈 영웅적인 총사령관이자 신생 미국의 건립을 주도한 위대한 초대 대통령 조지 워싱턴. 그는 미국의 모든 행정적 기틀을 잡고 내각을 조직해야 했던 행정의 대가였습니다. 그가 독립군 군대를 안정적으로 통솔하고 국가 제도를 정비하는 압도적인 수치 분석력과 통제력을 가질 수 있었던 배후에는 한 평생 이어졌던 새벽 농장 경영 루틴이 있었습니다.\n\n워싱턴은 젊은 시절부터 은퇴한 말년까지 언제나 새벽 4시에 기상했습니다. 그는 스스로 촛불을 밝히고 책상을 정리한 뒤 말을 타고 넓은 마운트 버넌 농장 구석구석을 면밀히 직접 순찰했습니다. 그리고 서재로 들어와 그날 농장에서 채집한 온도, 바람, 씨앗 실험 결과, 비료 사용량 등을 가죽으로 제본된 영농 일지(Logbook) 공책에 수치와 표로 매우 상세하게 한 자 한 자 손수 기록했습니다. 직관에 빠지지 않고 정밀한 수치에 기반해 의사를 결정하는 이 새벽 습관이 바로 신생 국가를 안전하게 조율해 낸 워싱턴 행정력의 초석이었습니다.\n\n오늘 포스트에서는 워싱턴이 실천했던 '새벽 순찰 및 영농 일지' 루틴 속에 내포된 인지과학적 기능과 현대인들이 메타 인지를 활성화하여 비즈니스와 일상 지표를 장악하는 방법을 분석합니다."
+      "ko": "\"글을 남기는 습관은 생각의 불완전함을 바로잡아 주는 가장 정직한 거울이다.\" ☀️\n\n미국 1달러 지폐의 표지를 장식하고 독립전쟁을 승리로 이끈 총사령관이자 신생 미국의 건립을 주도한 위대한 초대 대통령 조지 워싱턴(George Washington, 1732–1799). 그는 미국의 모든 행정적 기틀을 잡고 내각을 조직해야 했던 행정의 대가였습니다. 그가 독립군 군대를 안정적으로 통솔하고 국가 제도를 정비하는 압도적인 수치 분석력과 통제력을 가질 수 있었던 배후에는 한 평생 이어졌던 새벽 농장 경영 루틴이 있었습니다.\n\n워싱턴은 젊은 시절부터 은퇴한 말년까지 언제나 새벽 4시에 기상했습니다. 그는 스스로 촛불을 밝히고 책상을 정리한 뒤 말을 타고 넓은 마운트 버넌(Mount Vernon) 농장 구석구석을 면밀히 직접 순찰했습니다. 그리고 서재로 들어와 그날 농장에서 채집한 온도, 바람, 씨앗 실험 결과, 비료 사용량 등을 가죽으로 제본된 영농 일지(Logbook) 공책에 수치와 표로 매우 상세하게 한 자 한 자 손수 기록했습니다. 직관이나 막연한 어림짐작에 빠지지 않고 정밀한 수치에 기반해 의사를 결정하는 이 새벽 습관이 바로 신생 국가를 안전하게 조율해 낸 워싱턴 행정력의 초석이었습니다.\n\n오늘 포스트에서는 워싱턴이 실천했던 '새벽 순찰 및 영농 일지' 루틴 속에 내포된 인지과학적 기능과 현대인들이 메타 인지를 활성화하여 비즈니스와 일상 지표를 장악하는 방법을 분석합니다.",
+      "en": "\"The habit of record-keeping is the most honest mirror for correcting the imperfections of thought.\" ☀️\n\nGeorge Washington (1732–1799) was the heroic Commander-in-Chief of the Continental Army who won the American Revolutionary War and served as the first President of the United States, immortalized on the $1 bill. Tasked with constructing a federal government from scratch and forming the first presidential Cabinet, Washington was a master of executive logistics. Where did he cultivate his extraordinary capacity for quantitative precision and self-discipline?\n\nThroughout his life, both as a military leader and retired statesman, Washington rose unfailingly at 4:00 AM every morning. Lighting his own candle, he cleared his desk, mounted his horse, and spent hours personally inspecting every corner of his vast Mount Vernon estate. Returning to his study, he recorded detailed weather metrics, temperature, crop yields, fertilizer ratios, and experimental seed data into leather-bound logbooks. Refusing to rely on vague intuition, Washington made data-driven decisions that allowed him to pivot Mount Vernon from failing tobacco crops to profitable wheat rotation. This rigorous morning logging routine served as the bedrock for his legendary administrative governance.\n\nIn today's post, we analyze the cognitive neuroscience behind George Washington's 'dawn inspection and farm logbook' routine and provide a practical guide to activate metacognition and master your daily performance metrics.",
+      "ja": "「文字を残す習慣は、思考の不完全さを正してくれる最も正直な鏡である。」 ☀️\n\n米国1ドル紙幣の顔を飾り、独立戦争を勝利に導いた総司令官であり、新生アメリカの建立を主導した偉大な初代大統領ジョージ・ワシントン（George Washington、1732–1799）。彼はアメリカのすべての行政的礎を築き、内閣を組織しなければならなかった行政の巨匠でした。彼が独立軍の軍隊を安定的に統率し、国家制度を整備する圧倒的な数値分析力と統制力を持つことができた背景には、生涯にわたって続いた早朝の農場経営ルーティンがありました。\n\nワシントンは若い頃から引退した晩年まで、常に早朝4時に起床しました。彼は自らキャンドルを灯してデスクを整理した後、馬に乗って広大なマウントバーノン（Mount Vernon）農場の隅々を綿密に直接巡回しました。そして書斎に入り、その日農場で採集した気温、風、種子の実験結果、肥料の使用量などを、革で製本された営農日誌（Logbook）のノートに数値と表で非常に詳細に一字一字手ずから記録しました。直感や漠然とした推測に陥らず、精密な数値に基づいて意思決定を下すこの早朝の習慣こそが、新生国家を安全に調律し上げたワシントンの行政力の礎でした。\n\n本日の記事では、ワシントンが実践した「早朝巡回および営農日誌」ルーティンに内包された認知科学的機能と、現代人がメタ認知を活性化してビジネスや日常の指標を掌握する方法を分析します。",
+      "zh": "“记录数据与文字的习惯，是纠正思维缺失的最为诚实的镜子。” ☀️\n\n头像镌刻于美国1美元纸币之上、率领大陆军赢得独立战争胜利并主持缔造北美新国家的伟大的首任总统——乔治·华盛顿（George Washington，1732–1799）。他是一位须从零搭建国家行政架构、组建首届总统内阁的治国统筹大师。在他得以沉稳统率军队与确立国家制度的卓越数据分析力与强悍把控力背后，正藏着他贯穿终身的清晨农场经营习惯。\n\n华盛顿从青年时代直至退隐晚年，始终坚持于清晨4:00准时起身。他亲自点燃蜡烛、整理案头，随后骑上骏马巡视占地辽阔的弗农山庄（Mount Vernon）的每一个角落。返回书房后，他将当天在农场采集的气温、风向、种子实验结果与肥料配比等数据，逐字手写抄录于皮革封面的农事日志（Logbook）中，整理成精细的表单与数据。绝不听信主观直觉或模糊凭空臆测、完全基于精确数据做决策的清晨习惯，正是华盛顿稳健掌舵新国政务的基石。\n\n在今天的文章中，我们将深度解构华盛顿“清晨巡视与农事日志”习惯背后的认知科学机制，并分享一套助现代人激活元认知、全面掌控商业与日常指标的实践指南。",
+      "es": "\"El hábito de llevar registros es el espejo más honesto para corregir las imperfecciones del pensamiento.\" ☀️\n\nGeorge Washington (1732–1799) fue el comandante en jefe del Ejército Continental que logró la independencia y se convirtió en el primer presidente de los Estados Unidos, inmortalizado en el billete de 1 dólar. Con la tarea de construir una estructura gubernamental desde cero, Washington era un maestro de la logística administrativa. ¿Dónde cultivó su extraordinaria precisión cuantitativa y autodisciplina?\n\nA lo largo de su vida, Washington se levantaba sin falta a las 4:00 AM cada mañana. Encendiendo su propia vela, ordenaba su escritorio, montaba a caballo e inspeccionaba cada rincón de su gran finca Mount Vernon. Al regresar a su despacho, registraba detalladas métricas meteorológicas, cosechas y uso de fertilizantes en diarios encuadernados en cuero. Al negarse a confiar en la intuición vaga, tomaba decisiones basadas en datos que le permitieron transformar su finca. Esta rigurosa rutina de registro matutino sirvió como pilar para su célebre gobernanza.\n\nEn la publicación de hoy, analizamos la neurociencia cognitiva detrás de la rutina de George Washington y presentamos un marco práctico para activar la metacognición.",
+      "de": "\"Die Gewohnheit der Buchführung ist der ehrlichste Spiegel, um die Unvollkommenheiten des Denkens zu korrigieren.\" ☀️\n\nGeorge Washington (1732–1799) war der Oberbefehlshaber der Kontinentalarmee im Unabhängigkeitskrieg und der erste Präsident der Vereinigten Staaten, dessen Porträt die 1-Dollar-Note ziert. Vor die Aufgabe gestellt, einen Staat aufzubauen, war Washington ein Meister der Administration. Woher stammte seine Neigung zu Präzision und Datenerfassung?\n\nSein Leben lang stand Washington jeden Morgen um 4:00 Uhr auf. Zündete eine Kerze an, ordnete seinen Schreibtisch, stieg aufs Pferd und inspizierte sein Anwesen Mount Vernon. Nach der Rückkehr trug er Wetterdaten, Ernteerträge und Düngerverhältnisse in ledergebundene Tagebücher ein. Er verließ sich nicht auf Bauchgefühl, sondern traf datenbasierte Entscheidungen, was Mount Vernon wirtschaftlich erfolgreich machte. Diese Dokumentationsroutine bildete das Fundament seiner Führungskunst.\n\nIm heutigen Beitrag analysieren wir die Kognitionswissenschaft hinter George Washingtons Routine und zeigen Ihnen, wie Sie Metakognition nutzen, um Kennzahlen im Alltag zu steuern.",
+      "fr": "« L'habitude de tenir des registres est le miroir le plus honnête pour corriger les imperfections de la pensée. » ☀️\n\nGeorge Washington (1732–1799) fut le commandant en chef de l'Armée continentale et le premier président des États-Unis, immortalisé sur le billet de 1 dollar. Chargé de bâtir l'administration fédérale à partir de zéro, Washington était un maître de la logistique. Où puisait-il sa rigueur quantique et son autodiscipline ?\n\nToute sa vie, Washington se levait sans faillir a 4h00 du matin. Allumant sa propre bougie, il rangeait son bureau, montait a cheval et inspectait son domaine de Mount Vernon. De retour dans son bureau, il consignait méticuleusement la température, le vent, le rendement des cultures et l'utilisation des engrais dans des registres en cuir. Refusant de se fier à des intuitions floues, il prenait des décisions guidées par les faits. Ce rituel matinal de consignation constituait le socle de sa gouvernance.\n\nDans cet article, nous analysons la neuroscience cognitive sous-jacente a la routine de George Washington et proposons un guide pour activer la métacognition.",
+      "pt": "\"O hábito de manter registros é o espelho mais honesto para corrigir as imperfeições do pensamento.\" ☀️\n\nGeorge Washington (1732–1799) foi o comandante do Exército Continental e o primeiro presidente dos Estados Unidos, imortalizado na nota de 1 dólar. Com a missão de construir o governo federal do zero, Washington era um mestre da logística administrativa. Onde cultivou sua precisão quantitativa e autodisciplina?\n\nDurante toda a vida, Washington acordava às 4h todas as manhãs. Acendia sua vela, organizava a mesa, montava a cavalo e inspecionava sua fazenda em Mount Vernon. De volta ao gabinete, registrava métricas meteorológicas, colheitas e proporções de fertilizantes em diários de couro. Recusando-se a confiar na intuição vaga, tomava decisões baseadas em dados. Essa rotina rigorosa serviu como pilar para sua governança.\n\nNo artigo de hoje, analisamos a neurociência cognitiva por trás da rotina de George Washington e apresentamos um guia prático para ativar a metacognição.",
+      "id": "\"Kebiasaan menyimpan catatan adalah cermin paling jujur untuk memperbaiki ketidaksempurnaan pikiran.\" ☀️\n\nGeorge Washington (1732–1799) adalah Panglima Tertinggi Tentara Kontinental yang memenangkan Perang Revolusi dan menjabat sebagai Presiden pertama Amerika Serikat, diabadikan dalam uang kertas $1. Bertugas membangun pemerintahan dari awal, Washington adalah mahluk logistik administratif. Dari mana ia memupuk kapasitasnya yang luar biasa untuk presisi kuantitatif?\n\nSepanjang hidupnya, Washington bangun pada pukul 04.00 setiap pagi. Menyulut lilinnya sendiri, ia merapikan meja kerja, menunggang kuda, dan menginspeksi setiap sudut perkebunan Mount Vernon. Kembali ke ruang kerjanya, ia mencatat metrik cuaca, suhu, hasil panen, dan rasio pupuk ke dalam buku catatan bersampul kulit. Menolak untuk mengandalkan intuisi yang samar, ia membuat keputusan berbasis data. Rutinitas pencatatan pagi ini berfungsi sebagai fondasi tata kelola kepresidenannya.\n\nDalam postingan hari ini, kami menganalisis neurosains kognitif di balik rutinitas 'inspeksi fajar dan buku catatan pertanian' George Washington."
     },
     "whyTitle": {
-      "ko": "정교한 수치 기록이 메타 인지를 깨우는 원리"
+      "ko": "정교한 수치 기록이 메타 인지를 깨우는 원리와 외측 전전두엽 활성화",
+      "en": "How Precision Quantitative Tracking Awakens Metacognition and Activates the Lateral Prefrontal Cortex",
+      "ja": "精緻な数値記録がメタ認知を呼び醒ます原理と外側前頭前野の活性化",
+      "zh": "精准数据记录唤醒元认知与激活外侧前额叶皮层的原理",
+      "es": "Cómo el Registro Cuantitativo de Precisión Despierta la Metacognición y Activa la Corteza Prefrontal Lateral",
+      "de": "Wie präzise Datenerfassung die Metakognition weckt und den lateralen präfrontalen Kortex aktiviert",
+      "fr": "Comment la consignation quantitative de précision éveille la métacognition et active le cortex préfrontal latéral",
+      "pt": "Como o Registro Quantitativo de Precisão Desperta a Metacognição e Ativa o Córtex Pré-frontal Lateral",
+      "id": "Bagaimana Pencatatan Kuantitatif Presisi Membangunkan Metakognisi dan Mengaktifkan Korteks Prefrontal Lateral"
     },
     "whyDesc": {
-      "ko": "뇌의 <strong>메타인지(Metacognition)</strong>는 '내가 아는 것과 모르는 것을 정확하게 판별하는 인지 능력'입니다. 메타인지가 약하면 자신이 처한 비효율성이나 리스크를 제대로 자각하지 못한 채 피상적인 감각에 의존해 오판을 내리게 됩니다.\n\n조지 워싱턴처럼 매일 기후 조건이나 작물 상태 같은 복잡한 실측 수치를 직접 수작업으로 꼼꼼히 기록하는 행동은 뇌의 <strong>외측 전전두엽 피질(Lateral Prefrontal Cortex)</strong>을 강력하게 활성화합니다. 모호한 가설을 버리고 실측값에만 뇌를 정조준함으로써, <strong>인지적 착각(Cognitive Illusion)</strong>을 걷어내고 가장 객관적인 팩트를 인지하여 신속하고 오차 없는 자원 분배 의사결정을 내릴 수 있게 이끕니다."
+      "ko": "뇌의 <strong>메타인지(Metacognition)</strong>는 '내가 아는 것과 모르는 것을 정확하게 판별하는 인지 능력'입니다. 메타인지가 약하면 자신이 처한 비효율성이나 리스크를 제대로 자각하지 못한 채 피상적인 감각에 의존해 오판을 내리게 됩니다. 조지 워싱턴처럼 매일 기후 조건이나 작물 상태 같은 복잡한 실측 수치를 직접 수작업으로 꼼꼼히 기록하는 행동은 뇌의 <strong>외측 전전두엽 피질(Lateral Prefrontal Cortex)</strong>을 강력하게 활성화합니다. 모호한 가설을 버리고 실측값에만 뇌를 정조준함으로써, <strong>인지적 착각(Cognitive Illusion)</strong>을 걷어내고 가장 객관적인 팩트를 인지하여 신속하고 오차 없는 자원 분배 의사결정을 내릴 수 있게 이끕니다.",
+      "en": "In cognitive neuroscience, <strong>Metacognition</strong> refers to the higher-order executive capacity to monitor and evaluate one's own state of knowledge and operational efficiency. Weak metacognitive monitoring leads individuals to rely on superficial feelings and confirmation bias, making miscalculations inevitable. George Washington's habit of manually recording exact quantitative metrics—such as temperatures, crop yields, and labor ratios—intensely stimulates the <strong>Lateral Prefrontal Cortex</strong>. By replacing vague assumptions with hard empirical data, this logging mechanism strips away <strong>Cognitive Illusions</strong>, anchoring executive decision-making in objective reality and enabling swift, error-free resource allocation.",
+      "ja": "脳の<strong>メタ認知（Metacognition）</strong>は「自分が知っていることと知らないことを正確に判別する認知能力」です。メタ認知が弱いと、自分が直面している非効率性やリスクを正しく自覚できないまま、表面的な感覚に頼って誤った判断を下すことになります。ジョージ・ワシントンのように毎日気候条件や作物の状態のような複雑な実測数値を直接手作業で丁寧に記録する行動は、脳の<strong>外側前頭前野皮質（Lateral Prefrontal Cortex）</strong>を強力に活性化させます。曖昧な仮説を捨てて実測値だけに脳の照準を合わせることで、<strong>認知的錯覚（Cognitive Illusion）</strong>を払い除け、最も客観的なファクトを認知して迅速かつ誤差のない資源分配の意思決定を下せるよう導きます。",
+      "zh": "大脑的<strong>元认知（Metacognition）</strong>是指“准确评估自身所知与未知的高阶认知监控能力”。若元认知监控较弱，个体极易在无法觉察潜在风险或低效隐患的情况下，凭凭被动主观体感做出误判。如乔治·华盛顿这般每天亲手精准誊录气象变幻、农作物产出等微观硬核数据的习惯，能强力激活大脑的<strong>外侧前额叶皮层（Lateral Prefrontal Cortex）</strong>。通过以硬核数据替代含混主观假设，此机制能彻底扫除<strong>认知幻觉（Cognitive Illusion）</strong>，将决策锁定于客观事实之上，促成极速且零失误的资源调度与决断。",
+      "es": "La <strong>Metacognición</strong> se refiere a la capacidad ejecutiva de evaluar los propios conocimientos y la eficiencia operativa. Una metacognición débil lleva a confiar en sensaciones superficiales, provocando errores de cálculo. El hábito de George Washington de registrar manualmente métricas cuantitativas precisas estimula la <strong>Corteza Prefrontal Lateral</strong>. Al reemplazar suposiciones con datos empíricos, este sistema elimina las <strong>Ilusiones Cognitivas</strong>, anclando las decisiones en la realidad objetiva y optimizando la asignación de recursos.",
+      "de": "Unter <strong>Metakognition</strong> versteht man die Fähigkeit, das eigene Wissen und die eigene Effizienz objektiv zu bewerten. Ist diese Funktion schwach, verlässt man sich auf Bauchgefühle und unterliegt Denkfehlern. George Washingtons Gewohnheit, präzise Kennzahlen handschriftlich zu erfassen, stimuliert den <strong>lateralen präfrontalen Kortex</strong>. Durch das Ersetzen von Annahmen durch reale Daten werden <strong>kognitive Täuschungen</strong> beseitigt, was präzise Entscheidungen ermöglicht.",
+      "fr": "La <strong>Métacognition</strong> désigne la capacité a évaluer objectivement ses propres connaissances et son efficacité. Une métacognition faible conduit a se fier a des impressions superficielles, entraînant des erreurs de jugement. L'habitude de George Washington de consignes manuellement des données chiffrées précises stimule fortement le <strong>Cortex Préfrontal Latéral</strong>. En remplaçant les hypothèses floues par des données empiriques, ce système dissipe les <strong>Illusions Cognitives</strong> et sécurise la prise de décision.",
+      "pt": "A <strong>Metacognição</strong> refere-se à capacidade de avaliar os próprios conhecimentos e eficiência. Uma metacognição fraca faz com que a pessoa confie em impressões superficiais, gerando erros de cálculo. O hábito de George Washington de registrar métricas quantitativas precisas estimula o <strong>Córtex Pré-frontal Lateral</strong>. Ao substituir suposições por dados reais, esse sistema elimina <strong>Ilusões Cognitivas</strong> e otimiza decisões.",
+      "id": "<strong>Metakognisi</strong> mengacu pada kapasitas eksekutif untuk memantau dan mengevaluasi tingkat pengetahuan dan efisiensi operasional diri sendiri. Pemantauan metakognitif yang lemah membuat individu mengandalkan perasaan superfisial. Kebiasaan George Washington mencatat metrik kuantitatif secara manual menstimulasi <strong>Korteks Prefrontal Lateral</strong>. Dengan mengganti asumsi samar dengan data empiris, mekanisme ini menghilangkan <strong>Ilusi Kognitif</strong>."
     },
     "cautionTitle": {
-      "ko": "주관적 감정 기록을 배제하고 정량적 지표에 집중하는 수칙"
+      "ko": "주관적 감정 기록을 배제하고 정량적 지표에 집중하는 수칙",
+      "en": "Caution: Excluding Subjective Emotional Impressions to Focus Strictly on Quantitative Metrics",
+      "ja": "注意事項：主観的感情記録を排除し定量的な指標に集中するルール",
+      "zh": "注意事项：排除主观情绪感受，严苛聚焦定量数据指标",
+      "es": "Precaución: Excluir Impresiones Emocionales Subjetivas para Centrarse en Métricas Cuantitativas",
+      "de": "Vorsichtsmaßnahme: Subjektive emotionale Eindrücke ausschließen und sich strikt auf quantitative Kennzahlen konzentrieren",
+      "fr": "Mise en garde : Éliminer les impressions émotionnelles subjectives pour se concentrer strictement sur des indicateurs quantitatifs",
+      "pt": "Precaução: Excluir Impressões Emocionais Subjetivas para Focar Estritamente em Métricas Quantitativas",
+      "id": "Perhatian: Mengecualikan Kesan Emosional Subjektif untuk Berfokus Secara Ketat pada Metrik Kuantitatif"
     },
     "cautionDesc": {
-      "ko": "'오늘 기분이 피곤했다' 같은 단순한 감정 감상은 메타인지를 활성화하지 못합니다. 조지 워싱턴의 일지처럼 기상 시간, 공부 페이지 수, 작업 시간, 운동 세트 수처럼 객관적인 '수치'를 직접 기입할 때만 인지 회로가 활성화되고 비효율을 고칠 수 있는 통제력이 생겨납니다."
+      "ko": "'오늘 기분이 피곤했다' 같은 단순한 감정 감상은 메타인지를 활성화하지 못합니다. 조지 워싱턴의 일지처럼 기상 시간, 공부 페이지 수, 작업 시간, 운동 세트 수처럼 객관적인 '수치'를 직접 기입할 때만 인지 회로가 활성화되고 비효율을 고칠 수 있는 통제력이 생겨납니다.",
+      "en": "Vague emotional reflections such as 'I felt tired today' fail to trigger metacognitive circuits. Metacognition engages strictly when recording objective numerical data—such as wake-up timestamp, exact pages read, deep work hours, or exercise set counts. Mirroring Washington's logbook, recording hard metrics unlocks executive agency to diagnose and eliminate operational inefficiencies.",
+      "ja": "「今日は気分が疲れていた」といった単純な感情の感想はメタ認知を活性化させません。ジョージ・ワシントンの日誌のように、起床時間、勉強したページ数、作業時間、運動のセット数のようにお客観的な「数値」を直接記入する時にのみ認知回路が活性化され、非効率を修正できる統制力が生まれます。",
+      "zh": "如“今天感觉挺累的”这类模糊的主观感叹，根本无法撬动元认知回路。元认知唯有在手写抄录客观的“数据指标”时方能被强力激活——如精准的起居时刻、阅读页数、深度专注工时、或健身组数。唯有如华盛顿日志般恪守硬核数据归档，方能生发甄别与铲除低效瑕疵的自我掌控力。",
+      "es": "Reflexiones emocionales vahas como 'hoy me sentí cansado' no activan los circuitos metacognitivos. La metacognición se activa únicamente al registrar datos numéricos objetivos: hora de despertar, páginas leídas, horas de trabajo concentrado o repeticiones de ejercicio. Registrar métricas reales permite diagnosticar y eliminar ineficiencias.",
+      "de": "Vage emotionale Eindrücke wie 'Ich war heute müde' aktivieren keine metakognitiven Schaltkreise. Metakognition entsteht erst beim Erfassen objektiver Zahlen: Aufwachzeit, gelesene Seiten, Arbeitsstunden oder Trainingssätze. Erst das Dokumentieren harter Fakten ermöglicht das Erkennen und Beheben von Schwachstellen.",
+      "fr": "Les impressions émotionnelles vagues comme « je me sentais fatigué aujourd'hui » n'activent pas les circuits métacognitifs. La métacognition s'enclenche uniquement lors de la consignation de données numériques objectives : heure du réveil, nombre de pages lues, heures de travail intense. Consigner des données brutes permet d'éliminer les inefficacités.",
+      "pt": "Reflexões emocionais vgas como 'hoje me senti cansado' não ativam os circuitos metacognitivos. A metacognição se ativa apenas ao registrar dados numéricos objetivos: horário de despertar, páginas lidas, horas de trabalho focado ou repetições. Registrar métricas reais permite eliminar ineficiências.",
+      "id": "Refleksi emosional samar seperti 'saya merasa lelah hari ini' gagal memicu sirkuit metakognitif. Metakognisi terlibat secara ketat saat mencatat data numerik objektif—seperti stempel waktu bangun, jumlah halaman yang dibaca, jam kerja mendalam, atau hitungan set latihan."
     },
     "steps": [
       {
         "name": {
-          "ko": "1단계: 매일 측정할 핵심 정량 지표(KPI) 선정"
+          "ko": "1단계: 매일 측정할 핵심 정량 지표(KPI) 선정",
+          "en": "Step 1: Selecting Daily Quantitative Core Key Performance Indicators (KPIs)",
+          "ja": "ステップ1：毎日測定する核心定量指標（KPI）の選定",
+          "zh": "步骤1：设定每日量化核心绩效指标（KPI）",
+          "es": "Paso 1: Selección de Indicadores Clave de Rendimiento Cuantitativos (KPI)",
+          "de": "Schritt 1: Festlegen täglicher quantitativer Kernkennzahlen (KPIs)",
+          "fr": "Étape 1 : Sélection d'indicateurs clés de performance quantitatifs (KPI)",
+          "pt": "Passo 1: Seleção de Indicadores-Chave de Desempenho Quantitativos (KPIs)",
+          "id": "Langkah 1: Memilih Indikator Kinerja Utama Kuantitatif Harian (KPI)"
         },
         "text": {
-          "ko": "기상 시간, 독서량(페이지), 코딩/업무 몰입 시간 등 내 하루 생산성을 가늠할 수 있는 2~3개의 객관적 항목을 규정합니다."
+          "ko": "기상 시간, 독서량(페이지), 코딩/업무 몰입 시간 등 내 하루 생산성을 가늠할 수 있는 2~3개의 객관적 항목을 규정합니다.",
+          "en": "Define 2 to 3 objective quantitative metrics that directly gauge your daily productivity—such as exact wake-up time, book pages read, or uninterrupted deep focus hours.",
+          "ja": "起床時間、読書量（ページ）、コーディング/業務没頭時間など、自分の1日の生産性を測ることができる2〜3個の客観的な項目を規定します。",
+          "zh": "明确界定2-3项能够客观衡量你全天生产力的硬核指标——如精准起床时刻、阅读页数、或无打扰深度专注工时。",
+          "es": "Defina de 2 a 3 métricas cuantitativas objetivas que midan su productividad diaria: hora exacta de despertar, páginas leídas u horas de enfoque profundo.",
+          "de": "Legen Sie 2 bis 3 quantitative Kennzahlen fest, die Ihre Tagesproduktivität messen: exakte Aufwachzeit, gelesene Buchseiten oder Stunden konzentrierter Arbeit.",
+          "fr": "Définissez 2 à 3 indicateurs quantitatifs objectifs mesurant votre productivité quotidienne : heure exacte du réveil, pages lues ou heures de concentration.",
+          "pt": "Defina 2 a 3 métricas quantitativas objetivas que meçam sua produtividade diária: horário exato de despertar, páginas lidas ou horas de foco profundo.",
+          "id": "Tentukan 2 hingga 3 metrik kuantitatif objektif yang secara langsung mengukur produktivitas harian Anda—seperti waktu bangun tidur yang tepat, halaman buku yang dibaca, atau jam fokus."
         }
       },
       {
         "name": {
-          "ko": "2단계: 중간 점검을 통한 현장 및 프로세스 지표 진찰"
+          "ko": "2단계: 중간 점검을 통한 현장 및 프로세스 지표 진찰",
+          "en": "Step 2: Midday Inspection & Real-Time Process Diagnostic",
+          "ja": "ステップ2：中間点検を通じた現場およびプロセス指標の診察",
+          "zh": "步骤2：开展午间巡视点检与过程指标实时审校",
+          "es": "Paso 2: Inspección a Mitad del Día y Diagnóstico del Proceso en Tiempo Real",
+          "de": "Schritt 2: Tägliche Zwischenprüfung & Prozessdiagnose in Echtzeit",
+          "fr": "Étape 2 : Inspection de mi-journée & Diagnostic du processus en temps réel",
+          "pt": "Passo 2: Inspeção no Meio do Dia e Diagnóstico do Processo em Tempo Real",
+          "id": "Langkah 2: Inspeksi Tengah Hari & Diagnosis Proses Real-Time"
         },
         "text": {
-          "ko": "하루의 중간 지점인 오후나 일과 직전, 설정한 핵심 수치의 중간 진척 상황을 감정에 치우치지 않고 직관적으로 파악합니다."
+          "ko": "하루의 중간 지점인 오후나 일과 직전, 설정한 핵심 수치의 중간 진척 상황을 감정에 치우치지 않고 직관적으로 파악합니다.",
+          "en": "At midday or mid-afternoon, conduct a quick inspection of your target numbers. Dispassionately evaluate your current progress without emotional judgment.",
+          "ja": "1日の中間地点である午後や日課の直前、設定した核心数値の中間進捗状況を感情に偏らず直感的に把握します。",
+          "zh": "在一天中段的午后或工作间歇，对设定的核心指标进行快速巡视点检。剥离主观情绪偏见，客观审视各项指标的中期达成进度。",
+          "es": "A mitad del día o por la tarde, realice una rápida inspección de sus métricas. Evalúe su progreso actual de forma objetiva sin juzgarse emocionalmente.",
+          "de": "Führen Sie am Nachmittag eine kurze Überprüfung Ihrer Zielzahlen durch. Bewerten Sie Ihren aktuellen Fortschritt sachlich und ohne emotionale Wertung.",
+          "fr": "À mi-journée ou dans l'après-midi, effectuez un contrôle rapide de vos chiffres cibles. Évaluez vos progrès de manière objective sans jugement émotionnel.",
+          "pt": "No meio do dia ou à tarde, faça uma rápida inspeção das suas métricas. Avalie seu progresso atual de forma objetiva sem julgamentos emocionais.",
+          "id": "Di tengah hari atau sore hari, lakukan inspeksi singkat terhadap angka target Anda. Evaluasi kemajuan Anda saat ini secara dingin tanpa penilaian emosional."
         }
       },
       {
         "name": {
-          "ko": "3단계: 일일 수치 기록(Logbook) 및 주간 추이 분석"
+          "ko": "3단계: 일일 수치 기록(Logbook) 및 주간 추이 분석",
+          "en": "Step 3: Evening Logbook Entry & Weekly Trend Analysis",
+          "ja": "ステップ3：日日数値記録（Logbook）および週間推移分析",
+          "zh": "步骤3：夜间登录农事日志（Logbook）与按周追踪趋势分析",
+          "es": "Paso 3: Registro Diario en el Libro de Métricas y Análisis de Tendencias Semanales",
+          "de": "Schritt 3: Täglicher Tagebucheintrag & Analyse wöchentlicher Trends",
+          "fr": "Étape 3 : Saisie du journal quotidien & Analyse des tendances hebdomadaires",
+          "pt": "Passo 3: Registro Diário no Livro de Métricas e Análise de Tendências Semanais",
+          "id": "Langkah 3: Pengisian Buku Catatan Harian & Analisis Tren Mingguan"
         },
         "text": {
-          "ko": "일과 종료 직후, 공책이나 기록 툴을 열고 측정된 실측 수치를 있는 그대로 꼼꼼히 기록하고, 일주일 단위의 평균값 추이를 관찰해 비효율을 진단합니다."
+          "ko": "일과 종료 직후, 공책이나 기록 툴을 열고 측정된 실측 수치를 있는 그대로 꼼꼼히 기록하고, 일주일 단위의 평균값 추이를 관찰해 비효율을 진단합니다.",
+          "en": "Immediately after concluding your workday, open your notebook or logging tool. Record measured values precisely as they are, and review weekly average trends to spot operational friction.",
+          "ja": "日課終了直後、ノートや記録ツールを開き、測定された実測数値をそのまま丁寧に記録し、1週間単位の平均値の推移を観察して非効率を診断します。",
+          "zh": "收工后当即翻开纸质日志本或工具，原汁原味如实记录实测数值。复盘一周单位的平均值走势，诊断并厘清运营流程中的低效症结。",
+          "es": "Inmediatamente después de terminar su jornada laboral, abra su libreta o herramienta. Anote los valores reales con precisión y revise las tendencias semanales para detectar ineficiencias.",
+          "de": "Öffnen Sie direkt nach Arbeitsende Ihr Notizbuch. Tragen Sie die gemessenen Werte exakt ein und analysieren Sie wöchentliche Durchschnittstrends, um Schwachstellen aufzudecken.",
+          "fr": "Aussitôt la journée terminée, ouvrez votre carnet. Consignez les valeurs mesurées avec précision et analysez les tendances hebdomadaires pour repérer les inefficacités.",
+          "pt": "Logo após encerrar o dia de trabalho, abra seu caderno. Registre os valores reais com precisão e analise as tendências semanais para identificar ineficiências.",
+          "id": "Segera setelah menyelesaikan hari kerja Anda, buka buku catatan Anda. Catat nilai yang diukur secara presisi, dan tinjau tren rata-rata mingguan untuk menemukan efisiensi."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "수치가 좋지 않게 측정된 날에는 일지를 쓰기가 싫어집니다. 이럴 때는 어떻게 하나요?"
+          "ko": "수치가 좋지 않게 측정된 날에는 일지를 쓰기가 싫어집니다. 이럴 때는 어떻게 하나요?",
+          "en": "What should I do if I feel discouraged and resist writing in my logbook on low-performing days?",
+          "ja": "数値が良くなく測定された日には日誌を書くのが嫌になります。このような時はどうすればよいですか？",
+          "zh": "当全天数据指标表现不佳时，心里会产生抵触抵抗情绪、不想填录日志，该怎么办？",
+          "es": "¿Qué debo hacer si me siento desanimado y me resisto a escribir en el diario en días de bajo rendimiento?",
+          "de": "Was kann ich tun, wenn ich mich an schlechten Tagen davor drücke, das Tagebuch auszufüllen?",
+          "fr": "Que faire si je me sens découragé et répugne a remplir mon journal les jours de faible performance ?",
+          "pt": "O que fazer se eu me sentir desanimado e evitar escrever no diário em dias de baixo desempenho?",
+          "id": "Apa yang harus saya lakukan jika saya merasa berkecil hati dan enggan mengisi buku catatan pada hari-hari dengan kinerja rendah?"
         },
         "answer": {
-          "ko": "메타 인지 활성화의 핵심은 '성공'이 아니라 '정확한 모니터링'에 있습니다. 목표를 성취하지 못한 날의 낮은 수치를 정직하게 대면하여 적어 나가는 행동이 왜곡된 인지적 착각을 걷어내고 내일의 전략을 설계할 회복력을 키워 줍니다."
+          "ko": "메타 인지 활성화의 핵심은 '성공'이 아니라 '정확한 모니터링'에 있습니다. 목표를 성취하지 못한 날의 낮은 수치를 정직하게 대면하여 적어 나가는 행동이 왜곡된 인지적 착각을 걷어내고 내일의 전략을 설계할 회복력을 키워 줍니다.",
+          "en": "The neuroscientific core of metacognition is not achieving perfection, but practicing 'accurate self-monitoring'. Honestly confronting and logging low numbers on underperforming days dissolves cognitive denial and builds executive resilience to recalibrate tomorrow's strategy.",
+          "ja": "メタ認知活性化の核心は「成功」ではなく「正確なモニタリング」にあります。目標を達成できなかった日の低い数値を正直に向き合って書き進める行動が、歪んだ認知的錯覚を払い除け、明日の戦略を設計する回復力を育ててくれます。",
+          "zh": "元认知激活的核心奥义在于“精准客观的自我监控”，而非强求每日完满。坦然接纳并诚实地记录落后指标，恰是打碎自我欺骗与认知逃避、建立重构明日战术复原力的关键环扣。",
+          "es": "El núcleo de la metacognición no es alcanzar la perfección, sino el 'monitoreo preciso'. Enfrentar y registrar honestamente cifras bajas en días malos elimina la negación cognitiva y desarrolla la resiliencia para recalibrar su estrategia.",
+          "de": "Der Kern der Metakognition ist nicht Perfektion, sondern 'präzise Selbstüberwachung'. Das ehrliche Aufschreiben niedriger Zahlen an schlechten Tagen beseitigt kognitive Verdrängung und stärkt die Widerstandskraft.",
+          "fr": "Le cœur de la métacognition n'est pas la perfection, mais un « auto-contrôle précis ». Confronter et consigner honnêtement des chiffres bas élimine le déni cognitif et renforce la résilience pour ajuster la stratégie.",
+          "pt": "O núcleo da metacognição não é a perfeição, mas o 'monitoramento preciso'. Enfrentar e registrar números baixos em dias ruins elimina a negação cognitiva e desenvolve a resiliência para recalibrar sua estratégia.",
+          "id": "Inti neurosains dari metakognisi bukanlah mencapai kesempurnaan, melainkan mempraktikkan 'pemantauan diri yang akurat'. Secara jujur menghadapi dan mencatat angka-angka rendah pada hari-hari berkinerja buruk menghilangkan penyangkalan kognitif."
         }
       },
       {
         "question": {
-          "ko": "모든 지표를 노션이나 엑셀로만 관리해도 되나요?"
+          "ko": "모든 지표를 노션이나 엑셀로만 관리해도 되나요?",
+          "en": "Is it fully effective to manage all metrics exclusively through digital tools like Notion or Excel?",
+          "ja": "すべての指標をNotionやExcelだけで管理してもよいですか？",
+          "zh": "能否完全依赖Notion或Excel等数字表格软件管理所有绩效指标？",
+          "es": "¿Es completamente efectivo gestionar todas las métricas solo con herramientas digitales como Notion o Excel?",
+          "de": "Reicht es aus, alle Kennzahlen ausschließlich über digitale Tools wie Notion oder Excel zu verwalten?",
+          "fr": "Est-il totalement efficace de gérer tous les indicateurs uniquement via des outils numériques comme Notion ou Excel ?",
+          "pt": "É totalmente eficaz gerenciar todas as métricas apenas com ferramentas digitais como Notion ou Excel?",
+          "id": "Apakah sepenuhnya efektif untuk mengelola semua metrik secara eksklusif melalui alat digital seperti Notion atau Excel?"
         },
         "answer": {
-          "ko": "디지털 기기는 기록 도중에 SNS나 메일 알림 등의 유혹이 큽니다. 가급적 조지 워싱턴처럼 종이 일지와 아날로그 펜을 사용하여 하루 지표를 수작업으로 적는 시간이 두뇌 인지 정화와 깊은 통찰 형성에 훨씬 강력한 몰입을 보장합니다."
+          "ko": "디지털 기기는 기록 도중에 SNS나 메일 알림 등의 유혹이 큽니다. 가급적 조지 워싱턴처럼 종이 일지와 아날로그 펜을 사용하여 하루 지표를 수작업으로 적는 시간이 두뇌 인지 정화와 깊은 통찰 형성에 훨씬 강력한 몰입을 보장합니다.",
+          "en": "Digital devices expose the brain to notifications, app-switching fatigue, and screen scatter. As George Washington practiced, manually writing daily metrics in a paper logbook with an analog pen engages fine motor feedback, promoting deeper metacognitive reflection and cognitive clarity.",
+          "ja": "デジタル端末は記録の最中にSNSやメールの通知などの誘惑が大きいです。なるべくジョージ・ワシントンのように紙の日誌とアナログペンを使用し、1日の指標を手作業で書く時間が、脳の認知浄化と深い洞察形成により強力な没頭を保証します。",
+          "zh": "数字设备在录入过程中极易诱发应用切换与弹窗提醒干扰。正如华盛顿所做的那般，手握实体笔在纸质日志上亲手抄录每日指标，能通过指尖触觉反馈带来更高质量的心理清理与深度反思沉浸感。",
+          "es": "Los dispositivos digitales introducen distracciones con las notificaciones. Como hacía Washington, anotar manualmente las métricas diarias en un libro de papel con bolígrafo proporciona una retroalimentación motora fina, promoviendo una reflexión metacognitiva más profunda.",
+          "de": "Digitale Geräte bergen das Risiko von Ablenkungen durch Benachrichtigungen. Wie Washington zeigt, fördert das handschriftliche Eintragen von Werten in ein Papiertagebuch die tiefe metakognitive Reflexion und geistige Klarheit.",
+          "fr": "Les appareils numériques exposent aux distractions et aux notifications. Comme le pratiquait Washington, inscrire manuellement ses indicateurs dans un registre papier procure un retour moteur fin qui favorise une réflexion métacognitive plus profonde.",
+          "pt": "Dispositivos digitais expõem o cérebro a distrações de notificações. Como praticava Washington, escrever manualmente as métricas diárias em um diário de papel com caneta promove uma reflexão metacognitiva mais profunda.",
+          "id": "Perangkat digital membuat otak terpapar notifikasi dan gangguan layar. Seperti yang dipraktikkan Washington, mencatat metrik harian secara manual di buku catatan kertas dengan pena analog memberikan umpan balik motorik halus, mendorong refleksi metakognitif yang lebih mendalam."
         }
       }
     ]

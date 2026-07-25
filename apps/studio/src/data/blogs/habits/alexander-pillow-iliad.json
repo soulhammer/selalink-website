@@ -1,70 +1,214 @@
 {
   "alexander-pillow-iliad": {
     "title": {
-      "ko": "알렉산드로스 대왕의 '베개 밑 일리아스': 거대한 도전을 지탱한 밤의 비전 독서"
+      "ko": "알렉산드로스 대왕의 '베개 밑 일리아스': 거대한 도전을 지탱한 밤의 비전 독서",
+      "en": "Alexander the Great's 'Iliad Under the Pillow': Nighttime Vision Reading That Sustained Immense Challenges",
+      "ja": "アレクサンドロス大王の「枕の下のイリアス」：巨大な挑戦を支えた夜のビジョン読書",
+      "zh": "亚历山大大帝的“枕边伊利亚特”：支撑巨大挑战的夜间愿景阅读",
+      "es": "La 'Ilíada Bajo la Almohada' de Alejandro Magno: Lectura Nocturna de Visión que Sostuvo Grandes Desafíos",
+      "de": "Alexander des Großen 'Ilias unter dem Kissen': Nächtliche Visionslektüre, die gewaltige Herausforderungen stützte",
+      "fr": "L'« Iliade sous l'oreiller » d'Alexandre le Grand : La lecture nocturne de vision qui a soutenu d'immenses défis",
+      "pt": "A 'Ilíada debaixo do Travesseiro' de Alexandre, o Grande: Leitura Noturna de Visão que Sustentou Grandes Desafios",
+      "id": "'Iliad di Bawah Bantal' Alexander Agung: Membaca Visi Malam Hari yang Menopang Tantangan Besar"
     },
     "description": {
-      "ko": "매일 밤 단검과 일리아스를 베개 밑에 두고 읽으며 전장에서 용기를 잃지 않았던 알렉산드로스 대왕. 잠재의식을 자극하는 비전 독서의 힘을 살펴봅니다."
+      "ko": "매일 밤 단검과 일리아스를 베개 밑에 두고 읽으며 전장에서 용기를 잃지 않았던 알렉산드로스 대왕. 잠재의식을 자극하는 비전 독서의 힘을 살펴봅니다.",
+      "en": "Alexander the Great never lost courage on the battlefield, keeping a dagger and the Iliad under his pillow every night. Explore the power of vision reading that stimulates the subconscious.",
+      "ja": "毎夜、短剣とイリアスを枕の下に置き読みながら戦場で勇気を失わなかったアレクサンドロス大王。潜在意識を刺激するビジョン読書の力を探ります。",
+      "zh": "亚历山大大帝每晚将短剑与《伊利亚特》放在枕下阅读，在战场上从未失去勇气。探索刺激潜意识的愿景阅读的力量。",
+      "es": "Alejandro Magno nunca perdió el valor en el campo de batalla, guardando una daga y la Ilíada bajo su almohada cada noche. Explore el poder de la lectura de visión que estimula el subconsciente.",
+      "de": "Alexander der Große verlor auf dem Schlachtfeld nie den Mut und bewahrte jede Nacht einen Dolch und die Ilias unter seinem Kissen auf. Erkunden Sie die Kraft der Visionslektüre, die das Unterbewusstsein stimuliert.",
+      "fr": "Alexandre le Grand ne perdait jamais courage sur le champ de bataille, gardant chaque nuit un poignard et l'Iliade sous son oreiller. Découvrez le pouvoir de la lecture de vision qui stimule le subconscient.",
+      "pt": "Alexandre, o Grande nunca perdeu a coragem no campo de batalha, guardando um adaga e a Ilíada debaixo do travesseiro todas as noites. Explore o poder da leitura de visão que estimula o subconsciente.",
+      "id": "Alexander Agung tidak pernah kehilangan keberanian di medan perang, menyimpan belati dan Iliad di bawah bantalnya setiap malam. Pelajari kekuatan membaca visi yang merangsang alam bawah sadar."
     },
     "authority": {
-      "ko": "플루타르코스 『영웅전(Life of Alexander)』 역사적 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+      "ko": "플루타르코스 『영웅전(Life of Alexander)』 역사적 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+      "en": "Historical Verification from Plutarch's *Life of Alexander* & Cognitive Neuroscience Research",
+      "ja": "プルタルコス『英雄伝（Life of Alexander）』歴史的考証＆認知神経科学（Cognitive Neuroscience）研究",
+      "zh": "普鲁塔克《希腊罗马名人传（Life of Alexander）》历史考证与认知神经科学（Cognitive Neuroscience）研究",
+      "es": "Verificación Histórica de *Vidas Paralelas (Life of Alexander)* de Plutarco e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)",
+      "de": "Historische Überprüfung aus Plutarchs *Life of Alexander* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)",
+      "fr": "Vérification Historique issue de *La Vie d'Alexandre* de Plutarque & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)",
+      "pt": "Verificação Histórica das *Vidas Paralelas (Life of Alexander)* de Plutarco e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)",
+      "id": "Verifikasi Historis dari *Life of Alexander* karya Plutarch & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"
     },
     "intro": {
-      "ko": "\"도전하는 자에게 불가능한 일이란 없다.\" ⚔️\n\n스무 살의 젊은 나이에 왕위에 올라 마케도니아에서 인도 접경에 이르는 광활한 인류 역사상 전무후무한 대제국을 건설했던 정복 군주 알렉산드로스 대왕. 그는 뛰어난 지략과 용맹성으로 수많은 전투를 치렀지만, 그만큼 가혹한 심리적 긴장과 도전에 직면해야 했습니다.\n\n그가 거대한 불안감을 다스리고 아킬레우스와 같은 용기를 얻은 최고의 비결은 바로 그의 베개 밑에 숨겨져 있었습니다. 알렉산드로스는 그리스 철학의 정수인 아리스토텔레스로부터 손수 교정본을 받은 호메로스의 서사시 '일리아스' 책을 늘 애지중지했습니다. 그는 전장에서 텐트를 치고 잘 때도 이 일리아스를 단검과 함께 베개 밑에 두고 매일 밤 정독했습니다. 고전 서사시를 정독하며 대왕은 마음속의 두려움을 몰아내고 내일의 영웅으로 각성할 준비를 매일 밤 마쳤던 것입니다.\n\n오늘 포스트에서는 알렉산드로스의 '베개 밑 일리아스' 루틴의 과학적 근거와 목표를 잃어버리기 쉬운 현대인들이 잠재의식을 활용해 의지력을 정립하는 방법을 소개합니다."
+      "ko": "\"도전하는 자에게 불가능한 일이란 없다.\" ⚔️\n\n스무 살의 젊은 나이에 왕위에 올라 마케도니아에서 인도 접경에 이르는 광활한 인류 역사상 전무후무한 대제국을 건설했던 정복 군주 알렉산드로스 대왕. 그는 뛰어난 지략과 용맹성으로 수많은 전투를 치렀지만, 그만큼 가혹한 심리적 긴장과 도전에 직면해야 했습니다.\n\n그가 거대한 불안감을 다스리고 아킬레우스와 같은 용기를 얻은 최고의 비결은 바로 그의 베개 밑에 숨겨져 있었습니다. 알렉산드로스는 그리스 철학의 정수인 아리스토텔레스로부터 손수 교정본을 받은 호메로스의 서사시 '일리아스' 책을 늘 애지중지했습니다. 그는 전장에서 텐트를 치고 잘 때도 이 일리아스를 단검과 함께 베개 밑에 두고 매일 밤 정독했습니다. 고전 서사시를 정독하며 대왕은 마음속의 두려움을 몰아내고 내일의 영웅으로 각성할 준비를 매일 밤 마쳤던 것입니다.\n\n오늘 포스트에서는 알렉산드로스의 '베개 밑 일리아스' 루틴의 과학적 근거와 목표를 잃어버리기 쉬운 현대인들이 잠재의식을 활용해 의지력을 정립하는 방법을 소개합니다.",
+      "en": "\"There is nothing impossible to him who will try.\" ⚔️\n\nAlexander the Great, the conquering monarch who ascended the throne at the young age of twenty and built an unprecedented empire stretching from Macedonia to the borders of India in human history. Though he fought numerous battles with brilliant strategy and valor, he had to face equally harsh psychological tension and daunting challenges.\n\nHis greatest secret to managing immense anxiety and attaining Achilles-like courage was hidden right beneath his pillow. Alexander always cherished the book of Homer's epic poem, the 'Iliad', which he received as a personally annotated edition from Aristotle, the pinnacle of Greek philosophy. Even when sleeping in a tent on the battlefield, he kept this Iliad under his pillow alongside a dagger and read it thoroughly every night. By reading the classical epic intently, the king drove away fear from his mind and completed his preparations every night to awaken as tomorrow's hero.\n\nIn today's post, we introduce the scientific grounds of Alexander's 'Iliad Under the Pillow' routine and explore how modern individuals who easily lose sight of their goals can utilize their subconscious to establish willpower.",
+      "ja": "「挑戦する者にとって不可能なことなどない。」 ⚔️\n\n20歳の若さで王位に就き、マケドニアからインド国境に至る広大な、人類史上前代未聞の大帝国を建設した征服君主アレクサンドロス大王。彼は優れた知略と勇猛さで数々の戦闘を繰り広げましたが、それだけに苛酷な心理的緊張と挑戦に直面しなければなりませんでした。\n\n彼が巨大な不安感をコントロールし、アキレウスのような勇気を得た最大の秘訣は、まさに彼の枕の下に隠されていました。アレクサンドロスはギリシャ哲学の髄であるアリストテレスから手ずから校正本を受け取ったホメロスの叙事詩「イリアス」の書物を常に愛蔵していました。彼は戦場でテントを張って寝る時も、このイリアスを短剣と共に枕の下に置き、毎夜熟読しました。古典叙事詩を熟読することで、大王は心の中の恐怖を追い払い、明日の英雄として覚醒する準備を毎夜完了させていたのです。\n\n本日の記事では、アレクサンドロスの「枕の下のイリアス」ルーティンの科学的根拠と、目標を見失いがちな現代人が潜在意識を活用して意志力を確立する方法をご紹介します。",
+      "zh": "“对于敢于挑战的人来说，没有什么是不可能的。” ⚔️\n\n在年仅二十岁的轻盈之年即位，建立了从马其顿延伸至印度边境的在人类历史上空前绝后的庞大帝国——征服君主亚历山大大帝。他凭借出色的智谋与英勇进行了无数次战斗，但同时也必须面对无比严酷的心理紧张与挑战。\n\n他战胜巨大不安并获得如阿喀琉斯般勇气的最高秘诀，就藏在他的枕头底下。亚历山大始终珍爱着从古希腊哲学集大成者亚里士多德处亲手接过校订本的荷马史诗《伊利亚特》。即便是在战场扎营露宿时，他也将这本《伊利亚特》与短剑一同放在枕下，每晚细细研读。通过精读古典史诗，大王每晚都驱散了心中的恐惧，做好了觉醒为明日英雄的准备。\n\n在今天的文章中，我们将介绍亚历山大“枕边伊利亚特”习惯的科学依据，以及容易迷失目标的现代人如何利用潜意识建立意志力的方法。",
+      "es": "\"Nada es imposible para aquel que lo intenta.\" ⚔️\n\nAlejandro Magno, el monarca conquistador que ascendió al trono a la temprana edad de veinte años y construyó un imperio sin precedentes en la historia humana, extendiéndose desde Macedonia hasta las fronteras de la India. Aunque libró numerosas batallas con brillante estrategia y valor, tuvo que enfrentarse a una tensión psicológica y a desafíos igualmente severos.\n\nSu mayor secreto para dominar la inmensa ansiedad y obtener una valentía digna de Aquiles estaba oculto justo debajo de su almohada. Alejandro siempre atesoró el libro del poema épico de Homero, la 'Ilíada', que recibió como una edición revisada personalmente por Aristóteles, cúspide de la filosofía griega. Incluso cuando dormía en una tienda en el campo de batalla, guardaba esta Ilíada debajo de su almohada junto a una daga y la leía detenidamente cada noche. Al leer la epopeya clásica intensamente, el rey ahuyentaba el temor de su mente y completaba cada noche sus preparativos para despertar como el héroe del mañana.\n\nEn la publicación de hoy, presentamos los fundamentos científicos de la rutina de la 'Ilíada Bajo la Almohada' de Alejandro y cómo las personas modernas, que fácilmente pierden de vista sus metas, pueden utilizar el subconsciente para consolidar la fuerza de voluntad.",
+      "de": "\"Für den, der es wagt, ist nichts unmöglich.\" ⚔️\n\nAlexander der Große, der erobernde Monarch, der im jungen Alter von zwanzig Jahren den Thron bestieg und ein in der Menschheitsgeschichte beispielloses Großreich errichtete, das sich von Makedonien bis an die Grenzen Indiens erstreckte. Obwohl er zahlreiche Schlachten mit brillanter Strategie und Tapferkeit schlug, musste er sich ebenso harter psychischer Anspannung und gewaltigen Herausforderungen stellen.\n\nSein größtes Geheimnis, um immense Ängste zu bewältigen und einen Heldenmut wie den von Achilles zu erlangen, lag direkt unter seinem Kissen verborgen. Alexander schätzte das Buch von Homers Epos 'Ilias', das er als persönlich korrigierte Ausgabe von Aristoteles, dem Höhepunkt der griechischen Philosophie, erhalten hatte, stets wie einen Schatz. Selbst wenn er in einem Zelt auf dem Schlachtfeld schlief, behielt er diese Ilias zusammen mit einem Dolch unter seinem Kissen und las jede Nacht aufmerksam darin. Durch das intensive Lesen des klassischen Epos vertrieb der König die Furcht aus seinem Herzen und vollendete jede Nacht seine Vorbereitung, um als Held des morgigen Tages zu erwachen.\n\nIm heutigen Beitrag stellen wir die wissenschaftlichen Grundlagen von Alexanders Routine der 'Ilias unter dem Kissen' vor und zeigen, wie moderne Menschen, die leicht ihre Ziele aus den Augen verlieren, ihr Unterbewusstsein nutzen können, um Willenskraft aufzubauen.",
+      "fr": "« Rien n'est impossible à celui qui essaie. » ⚔️\n\nAlexandre le Grand, le monarque conquérant qui est monté sur le trône au jeune âge de vingt ans et a bâti un empire sans précédent dans l'histoire humaine, s'étendant de la Macédoine aux frontières de l'Inde. Bien qu'il ait livré de nombreuses batailles avec une stratégie brillante et de la bravoure, il a dû faire face à une tension psychologique et des défis tout aussi sévères.\n\nSon plus grand secret pour maîtriser son immense anxiété et acquérir un courage digne d'Achille était caché juste sous son oreiller. Alexandre chérissait par-dessus tout le livre du poème épique d'Homère, l'« Iliade », qu'il avait reçu sous forme d'une édition révisée en personne par Aristote, sommet de la philosophie grecque. Même lorsqu'il dormait sous une tente sur le champ de bataille, il gardait cette Iliade sous son oreiller avec un poignard et la lisait attentivement chaque nuit. En lisant intensément cette épopée classique, le roi chassait la peur de son esprit et achevait chaque nuit ses préparatifs pour s'éveiller comme le héros du lendemain.\n\nDans l'article d'aujourd'hui, nous présentons les bases scientifiques de la routine de l'« Iliade sous l'oreiller » d'Alexandre et la manière dont les individus modernes, qui perdent facilement leurs objectifs de vue, peuvent utiliser leur subconscient pour forger leur volonté.",
+      "pt": "\"Nada é impossível para aquele que tenta.\" ⚔️\n\nAlexandre, o Grande, o monarca conquistador que subiu ao trono com a jovem idade de vinte anos e construiu um império sem precedentes na história humana, estendendo-se da Macedônia até as fronteiras da Índia. Embora tenha travado inúmeras batalhas com brilhante estratégia e bravura, ele teve que enfrentar uma tensão psicológica e desafios igualmente severos.\n\nSeu maior segredo para dominar a imensa ansiedade e obter uma coragem digna de Aquiles estava escondido bem debaixo de seu travesseiro. Alexandre sempre tesourou o livro do poema épico de Homero, a 'Ilíada', que recebeu como uma edição revisada pessoalmente por Aristóteles, o ápice da filosofia grega. Mesmo quando dormia em uma tenda no campo de batalha, mantinha essa Ilíada debaixo do travesseiro ao lado de um adaga e a lia atentamente todas as noites. Ao ler a epopeia clássica com intensidade, o rei espantava o medo de sua mente e concluía a cada noite suas preparações para despertar como o herói do amanhã.\n\nNo artigo de hoje, apresentamos os fundamentos científicos da rotina da 'Ilíada debaixo do Travesseiro' de Alexandre e como as pessoas modernas, que facilmente perdem de vista seus objetivos, podem utilizar o subconsciente para estabelecer a força de vontade.",
+      "id": "\"Tidak ada yang tidak mungkin bagi mereka yang mau berusaha.\" ⚔️\n\nAlexander Agung, raja penakluk yang naik tahta pada usia muda dua puluh tahun dan membangun kekaisaran megah yang belum pernah ada tandingannya dalam sejarah manusia, membentang dari Makedonia hingga perbatasan India. Meskipun ia bertempur dalam banyak pertempuran dengan strategi cemerlang dan keberanian, ia harus menghadapi ketegangan psikologis dan tantangan yang sangat berat.\n\nRahasia terbesarnya untuk mengendalikan kecemasan yang luar biasa dan memperoleh keberanian seperti Achilles tersembunyi tepat di bawah bantalnya. Alexander selalu menyayangi buku puisi epik karya Homer, 'Iliad', yang ia terima secara pribadi sebagai edisi revisi dari Aristoteles, puncak filsafat Yunani. Bahkan ketika tidur di tenda di medan perang, ia menyimpan Iliad ini di bawah bantalnya bersama sebuah belati dan membacanya dengan cermat setiap malam. Dengan membaca epik klasik secara mendalam, sang raja mengusir rasa takut dari pikirannya dan menyelesaikan persiapannya setiap malam untuk bangkit sebagai pahlawan esok hari.\n\nDalam postingan hari ini, kami memperkenalkan landasan ilmiah dari rutinitas 'Iliad di Bawah Bantal' Alexander dan bagaimana masyarakat modern yang mudah kehilangan arah tujuan dapat memanfaatkan alam bawah sadar untuk membangun kekuatan kehendak."
     },
     "whyTitle": {
-      "ko": "잠재의식 정렬을 유도하는 가치 지향 독서"
+      "ko": "잠재의식 정렬을 유도하는 가치 지향 독서",
+      "en": "Value-Oriented Reading That Induces Subconscious Alignment",
+      "ja": "潜在意識の整列を誘導する価値指向の読書",
+      "zh": "引导潜意识对齐的价值导向阅读",
+      "es": "Lectura Orientada a Valores que Induce la Alineación Subconsciente",
+      "de": "Wertorientiertes Lesen, das die Ausrichtung des Unterbewusstseins fördert",
+      "fr": "Lecture orientée sur les valeurs induisant l'alignement subconscient",
+      "pt": "Leitura Orientada a Valores que Induz o Alinhamento Subconsciente",
+      "id": "Membaca Berorientasi Nilai yang Mendorong Penyelarasan Alam Bawah Sadar"
     },
     "whyDesc": {
-      "ko": "뇌가 잠들기 시작할 때의 뇌파는 알파파와 세타파로 전환되며, 이때 주입되는 정보는 평상시보다 장기 기억 저장소인 해마와 잠재의식을 형성하는 대뇌 피질 깊숙한 곳에 훨씬 쉽게 도달합니다. \n\n알렉산드로스 대왕이 잠들기 전 읽었던 일리아스는 단순한 시간 때우기가 아니었습니다. 영웅의 가치, 용맹성, 도전 정신을 뇌가 휴면 모드로 들어가기 직전에 반복적으로 노출시킴으로써, 그의 자아 정체성과 목표 지향적 신경망을 가치 지향(Value Alignment)으로 동기화했습니다. 현대 뇌과학에서도 잠들기 직전 긍정적이고 주도적인 스토리에 집중하는 행위는 잠재의식적 문제 해결 능력을 활성화하고 자존감을 회복시키는 도구로 유용하게 입증되었습니다."
+      "ko": "뇌가 잠들기 시작할 때의 뇌파는 알파파와 세타파로 전환되며, 이때 주입되는 정보는 평상시보다 장기 기억 저장소인 해마와 잠재의식을 형성하는 대뇌 피질 깊숙한 곳에 훨씬 쉽게 도달합니다. \n\n알렉산드로스 대왕이 잠들기 전 읽었던 일리아스는 단순한 시간 때우기가 아니었습니다. 영웅의 가치, 용맹성, 도전 정신을 뇌가 휴면 모드로 들어가기 직전에 반복적으로 노출시킴으로써, 그의 자아 정체성과 목표 지향적 신경망을 가치 지향(Value Alignment)으로 동기화했습니다. 현대 뇌과학에서도 잠들기 직전 긍정적이고 주도적인 스토리에 집중하는 행위는 잠재의식적 문제 해결 능력을 활성화하고 자존감을 회복시키는 도구로 유용하게 입증되었습니다.",
+      "en": "When the brain begins to fall asleep, brainwaves transition to alpha and theta waves, and information introduced during this time reaches the hippocampus (the long-term memory storehouse) and deep within the cerebral cortex (which forms the subconscious) much more easily than usual.\n\nThe Iliad that Alexander the Great read before sleeping was not merely to pass the time. By repeatedly exposing his brain to hero values, valor, and adventurous spirit right before entering dormant mode, he synchronized his self-identity and goal-oriented neural networks through Value Alignment. In modern neuroscience as well, focusing on positive and proactive narratives right before sleep has been proven to be a useful tool for activating subconscious problem-solving abilities and restoring self-esteem.",
+      "ja": "脳が眠り始める時の脳波はアルファ波とシータ波に転換し、この時に注入される情報は平常時よりも長期記憶の保管庫である海馬と、潜在意識を形成する大脳皮質の深層に遥かに到達しやすくなります。\n\nアレクサンドロス大王が眠る前に読んだイリアスは単なる時間つぶしではありませんでした。英雄の価値、勇猛さ、挑戦精神を脳が休眠モードに入る直前に反復的に露出させることで、彼の自我同一性と目標指向の神経網を価値指向（Value Alignment）に同期させました。現代の脳科学でも、眠る直前に肯定的で主導的なストーリーに集中する行為は、潜在意識的な問題解決能力を活性化させ、自尊心を回復させるツールとして有用であることが証明されています。",
+      "zh": "当大脑开始入睡时，脑电波会转变为阿尔法波与西塔波，此时输入的信息比平时更容易到达长期记忆储存库海马体以及形成潜意识的大脑皮层深处。\n\n亚历山大大帝睡前阅读《伊利亚特》绝非单纯地打发时间。通过在大脑进入休眠模式前反复接触英雄的价值、英勇与挑战精神，他将其自我认同与目标导向的神经网络同价值对齐（Value Alignment）进行了同步。在现代脑科学中，睡前专注于积极且具主导性的故事，也被证实是激活潜意识解决问题能力并恢复自尊心的有效工具。",
+      "es": "Cuando el cerebro comienza a quedarse dormido, las ondas cerebrales se transicionan a ondas alfa y teta, y la información introducida durante este tiempo llega al hipocampo (el almacén de memoria a largo plazo) y a lo profundo de la corteza cerebral (que forma el subconsciente) con mucha más facilidad que de costumbre.\n\nLa Ilíada que leía Alejandro Magno antes de dormir no era para simplemente pasar el tiempo. Al exponer repetidamente a su cerebro a los valores heroicos, el valor y el espíritu de desafío justo antes de entrar en modo latente, sincronizó su autoidentidad y sus redes neuronales orientadas a metas mediante la Alineación de Valores (Value Alignment). En la neurociencia moderna también se ha demostrado que concentrarse en historias positivas y proactivas justo antes de dormir es una herramienta útil para activar las habilidades subconscientes de resolución de problemas y restaurar la autoestima.",
+      "de": "Wenn das Gehirn einzuschlafen beginnt, wechseln die Gehirnwellen in Alpha- und Theta-Wellen, und in dieser Zeit zugeführte Informationen erreichen das Hippocampus (den Langzeitgedächtnisspeicher) und die Tiefen der Großhirnrinde (die das Unterbewusstsein bildet) weitaus leichter als gewöhnlich.\n\nDie Ilias, die Alexander der Große vor dem Schlafengehen las, diente nicht bloß dem Zeitvertreib. Indem er sein Gehirn unmittelbar vor dem Eintritt in den Ruhemodus wiederholt Heldenwerten, Tapferkeit und Herausforderungsgeist aussetzte, synchronisierte er seine Selbstidentität und zielorientierten neuronalen Netzwerke durch Wertausrichtung (Value Alignment). Auch in der modernen Neurowissenschaft ist bewiesen, dass die Konzentration auf positive und proaktive Geschichten direkt vor dem Schlafen ein nützliches Werkzeug ist, um unterbewusste Problemlösungsfähigkeiten zu aktivieren und das Selbstwertgefühl wiederherzustellen.",
+      "fr": "Lorsque le cerveau commence à s'endormir, les ondes cérébrales passent aux ondes alpha et thêta, et les informations introduites pendant ce temps atteignent l'hippocampe (le réservoir de la mémoire à long terme) et le cortex cérébral profond (qui forme le subconscient) bien plus facilement que d'habitude.\n\nL'Iliade qu'Alexandre le Grand lisait avant de s'endormir n'était pas un simple moyen de passer le temps. En exposant à plusieurs reprises son cerveau aux valeurs héroïques, à la bravoure et à l'esprit d'aventure juste avant d'entrer en mode de repos, il a synchronisé son identité personnelle et ses réseaux neuronaux orientés vers les objectifs grâce à l'alignement sur les valeurs (Value Alignment). En neurosciences modernes également, le fait de se concentrer sur des récits positifs et proactifs juste avant le sommeil s'est avéré être un outil utile pour activer les capacités subconscientes de résolution de problèmes et restaurer l'estime de soi.",
+      "pt": "Quando o cérebro começa a adormecer, as ondas cerebrais transicionam para ondas alfa e teta, e as informações introduzidas durante esse período atingem o hipocampo (o repositório de memória de longo prazo) e as profundezas do córtex cerebral (que forma o subconsciente) com muito mais facilidade do que o habitual.\n\nA Ilíada que Alexandre, o Grande lia antes de dormir não era apenas para passar o tempo. Ao expor repetidamente seu cérebro aos valores heróicos, à bravura e ao espírito de desafio logo antes de entrar em modo latente, ele sincronizou sua autoidentidade e suas redes neurais orientadas a metas por meio do Alinhamento de Valores (Value Alignment). Na neurociência moderna também se provou que focar em narrativas positivas e proativas logo antes de dormir é uma ferramenta útil para ativar habilidades subconscientes de resolução de problemas e restaurar a autoestima.",
+      "id": "Saat otak mulai tertidur, gelombang otak beralih ke gelombang alfa dan teta, dan informasi yang masuk selama waktu ini mencapai hipokampus (penyimpanan memori jangka panjang) serta bagian dalam korteks serebral (yang membentuk alam bawah sadar) jauh lebih mudah daripada biasanya.\n\nIliad yang dibaca Alexander Agung sebelum tidur bukan sekadar pengisi waktu luang. Dengan berulang kali memaparkan otaknya pada nilai-nilai pahlawan, keberanian, dan semangat tantangan tepat sebelum memasuki mode istirahat, ia menyelaraskan identitas diri dan jaringan saraf berorientasi tujuannya melalui Penyelarasan Nilai (Value Alignment). Dalam neurosains modern juga terbukti bahwa berfokus pada narasi positif dan proaktif tepat sebelum tidur merupakan alat yang berguna untuk mengaktifkan kemampuan pemecahan masalah secara bawah sadar dan memulihkan rasa percaya diri."
     },
     "cautionTitle": {
-      "ko": "어떤 텍스트를 읽는지가 잠재의식을 결정합니다"
+      "ko": "어떤 텍스트를 읽는지가 잠재의식을 결정합니다",
+      "en": "The Text You Read Determines Your Subconscious",
+      "ja": "どのようなテキストを読むかが潜在意識を決定します",
+      "zh": "阅读怎样的文本决定了你的潜意识",
+      "es": "El Texto que Lee Determina su Subconsciente",
+      "de": "Welchen Text Sie lesen, bestimmt Ihr Unterbewusstsein",
+      "fr": "Le texte que vous lisez détermine votre subconscient",
+      "pt": "O Texto que Você Lê Determina o Seu Subconsciente",
+      "id": "Teks yang Anda Baca Menentukan Alam Bawah Sadar Anda"
     },
     "cautionDesc": {
-      "ko": "소셜 미디어나 뉴스 기사처럼 두려움, 질투, 비판을 자극하는 콘텐츠를 밤늦게 소비하면 잠재의식이 부정적인 자극에 정렬되어 깊은 수면을 방해하고 아침에 피로한 상태로 깨어나게 만듭니다. 의도적으로 고결한 고전이나 나의 가치를 높여줄 책을 머리맡에 비치하세요."
+      "ko": "소셜 미디어나 뉴스 기사처럼 두려움, 질투, 비판을 자극하는 콘텐츠를 밤늦게 소비하면 잠재의식이 부정적인 자극에 정렬되어 깊은 수면을 방해하고 아침에 피로한 상태로 깨어나게 만듭니다. 의도적으로 고결한 고전이나 나의 가치를 높여줄 책을 머리맡에 비치하세요.",
+      "en": "Consuming content late at night that stimulates fear, jealousy, or criticism—such as social media or news articles—aligns your subconscious with negative stimuli, disrupting deep sleep and causing you to wake up exhausted in the morning. Intentionally place noble classics or books that elevate your value by your bedside.",
+      "ja": "SNSやニュース記事のように恐怖、嫉妬、批判を刺激するコンテンツを夜遅くに消費すると、潜在意識が否定的な刺激に整列し、深い睡眠を妨げ、朝疲弊した状態で目覚めることになります。意図的に高潔な古典や自身の価値を高めてくれる本を枕元に備えてください。",
+      "zh": "深夜接收社交媒体或新闻报道等刺激恐惧、嫉妒、批判的内容，会让潜意识与消极刺激相关联，从而干扰深度睡眠，使你在早晨醒来时感到疲惫不堪。请有意识地在床头摆放高尚的古典著作或提升自身价值的书籍。",
+      "es": "Consumir contenido a altas horas de la noche que estimule el miedo, los celos o la crítica (como las redes sociales o los artículos de noticias) alinea su subconsciente con estímulos negativos, lo que interrumpe el sueño profundo y hace que se despierte fatigado por la mañana. Coloque intencionadamente en su mesita de noche clásicos nobles o libros que eloven su valor.",
+      "de": "Der späte Konsum von Inhalten, die Angst, Eifersucht oder Kritik schüren – wie soziale Medien oder Nachrichtenartikel –, richtet Ihr Unterbewusstsein auf negative Reize aus, was den Tiefschlaf stört und dazu führt, dass Sie morgens erschöpft aufwachen. Platzieren Sie bewusst edle Klassiker oder Bücher, die Ihren Wert steigern, an Ihrem Bett.",
+      "fr": "Consommer tard le soir des contenus qui stimulent la peur, la jalousie ou la critique — comme les réseaux sociaux ou les articles d'actualité — aligne votre subconscient sur des stimuli négatifs, perturbant le sommeil profond et vous faisant vous réveiller fatigué le matin. Placez intentionnellement près de votre lit des classiques nobles ou des livres qui élèvent votre valeur.",
+      "pt": "Consumir conteúdo tarde da noite que estimule o medo, a inveja ou a crítica — como redes sociais ou artigos de notícias — alinha seu subconsciente com estímulos negativos, perturbando o sono profundo e fazendo você acordar cansado pela manhã. Coloque intencionalmente à beira da cama clássicos nobres ou livros que elevem seu valor.",
+      "id": "Mengonsumsi konten larut malam yang memicu rasa takut, cemburu, atau kritik—seperti media sosial atau berita—akan menyelaraskan alam bawah sadar Anda dengan stimulasi negatif, yang mengganggu tidur nyenyak dan membuat Anda terbangun dalam kondisi lelah di pagi hari. Letakkan buku-buku klasik yang luhur atau buku yang meningkatkan nilai diri Anda di samping tempat tidur secara sengaja."
     },
     "steps": [
       {
         "name": {
-          "ko": "비전 서적 선정 및 배치"
+          "ko": "비전 서적 선정 및 배치",
+          "en": "Selecting and Placing a Vision Book",
+          "ja": "ビジョン書籍の選定および配置",
+          "zh": "精选与摆放愿景书籍",
+          "es": "Selección y Colocación de un Libro de Visión",
+          "de": "Auswahl und Platzierung eines Visionsbuchs",
+          "fr": "Sélection et placement d'un livre de vision",
+          "pt": "Seleção e Posicionamento de um Livro de Visão",
+          "id": "Memilih dan Meletakkan Buku Visi"
         },
         "text": {
-          "ko": "내가 지향하고자 하는 최고의 정체성과 비전을 자극해 줄 한 권의 책을 선택하여 침대 머리맡에 두고 스마트폰을 완전히 치웁니다."
+          "ko": "내가 지향하고자 하는 최고의 정체성과 비전을 자극해 줄 한 권의 책을 선택하여 침대 머리맡에 두고 스마트폰을 완전히 치웁니다.",
+          "en": "Choose one book that stimulates the highest identity and vision you aim for, place it by your bedside, and put away your smartphone completely.",
+          "ja": "自分が目指す最高の自我とビジョンを刺激してくれる1冊の本を選び、ベッドの枕元に置き、スマートフォンを完全に遠ざけます。",
+          "zh": "选择一本能激发你所追求的最高身份认同与愿景的书籍放在床头，并将智能手机彻底收起。",
+          "es": "Elija un libro que estimule la mejor identidad y visión a la que aspira, colóquelo al cabecero de su cama y guarde por completo su teléfono inteligente.",
+          "de": "Wählen Sie ein Buch aus, das die höchste Identität und Vision stimuliert, die Sie anstreben, legen Sie es an Ihr Bett und legen Sie Ihr Smartphone vollständig weg.",
+          "fr": "Choisissez un livre qui stimule l'identité et la vision les plus élevées que vous recherchez, placez-le au chevet de votre lit et rangez complètement votre smartphone.",
+          "pt": "Escolha um livro que estimule a mais alta identidade e visão que você almeja, coloque-o à beira da cama e guarde completamente o smartphone.",
+          "id": "Pilih satu buku yang merangsang identitas dan visi tertinggi yang ingin Anda tuju, letakkan di dekat tempat tidur, dan jauhkan smartphone sepenuhnya."
         }
       },
       {
         "name": {
-          "ko": "취침 전 15분 영웅전 정독"
+          "ko": "취침 전 15분 영웅전 정독",
+          "en": "15 Minutes of Intensive Reading Before Bed",
+          "ja": "就寝前15分の英雄伝熟読",
+          "zh": "睡前15分钟精读英雄传",
+          "es": "Lectura Intensa de 15 Minutos Antes de Dormir",
+          "de": "15 Minuten intensives Lesen vor dem Schlafen",
+          "fr": "15 minutes de lecture intensive avant le coucher",
+          "pt": "Leitura Atenta de 15 Minutos Antes de Dormir",
+          "id": "Membaca Intensif 15 Menit Sebelum Tidur"
         },
         "text": {
-          "ko": "누워서 대충 훑어보는 것이 아닌, 바른 자세로 앉아 책 속의 고결한 문장들을 음미하며 15분간 깊게 생각하며 읽습니다. 텍스트가 뇌세포에 스며들도록 깊은 주의를 기울입니다."
+          "ko": "누워서 대충 훑어보는 것이 아닌, 바른 자세로 앉아 책 속의 고결한 문장들을 음미하며 15분간 깊게 생각하며 읽습니다. 텍스트가 뇌세포에 스며들도록 깊은 주의를 기울입니다.",
+          "en": "Instead of skimming while lying down, sit in an upright posture and read deeply for 15 minutes, savoring the noble sentences in the book. Pay deep attention so that the text permeates your brain cells.",
+          "ja": "横になって適当に目を通すのではなく、正しい姿勢で座り、本の中の高潔な文章を吟味しながら15分間深く考えて読みます。テキストが脳細胞にしみ込むよう、深い注意を払います。",
+          "zh": "切勿躺着草草翻阅，而要端正坐姿，细细品味书中高尚的语句，深入思考地阅读15分钟。保持高度专注，让文字渗透进脑细胞中。",
+          "es": "En lugar de hojear acostado, siéntese con una postura correcta y lea profundamente durante 15 minutos, saboreando las frases nobles del libro. Preste especial atención para que el texto se impregne en sus células cerebrales.",
+          "de": "Anstatt im Liegen flüchtig zu überfliegen, sitzen Sie in aufrechter Haltung und lesen Sie 15 Minuten lang tiefgründig, während Sie die edlen Sätze des Buches genießen. Richten Sie Ihre Aufmerksamkeit intensiv darauf, damit der Text Ihre Gehirnzellen durchdringt.",
+          "fr": "Au lieu de survoler en étant allongé, asseyez-vous dans une posture correcte et lisez en profondeur pendant 15 minutes, en savourant les nobles phrases du livre. Prêtez une attention soutenue pour que le texte imprègne vos cellules cérébrales.",
+          "pt": "Em vez de folhear deitado, sente-se com a postura correta e leia profundamente por 15 minutos, saboreando as frases nobres do livro. Preste muita atenção para que o texto penetre em suas células cerebrais.",
+          "id": "Daripada membaca sekilas sambil berbaring, duduklah dengan postur yang baik dan bacalah secara mendalam selama 15 menit sambil menikmati kalimat-kalimat luhur dalam buku. Berikan perhatian penuh agar teks menyerap ke dalam sel-sel otak Anda."
         }
       },
       {
         "name": {
-          "ko": "비전 각인 및 취침"
+          "ko": "비전 각인 및 취침",
+          "en": "Engraving the Vision and Going to Sleep",
+          "ja": "ビジョンの刻印および就寝",
+          "zh": "铭记愿景与入睡",
+          "es": "Grabado de la Visión y Acostarse",
+          "de": "Einprägen der Vision und Schlafengehen",
+          "fr": "Ancrage de la vision et coucher",
+          "pt": "Gravação da Visão e Dormir",
+          "id": "Mengukir Visi dan Tidur"
         },
         "text": {
-          "ko": "읽은 내용을 머리맡에 내려놓고, 눈을 감은 뒤 오늘 읽은 영웅의 모습이나 나의 내일 목표를 1~2분간 시각화하며 잠자리에 듭니다. 잠재의식이 밤새 이 방향으로 움직이도록 유도합니다."
+          "ko": "읽은 내용을 머리맡에 내려놓고, 눈을 감은 뒤 오늘 읽은 영웅의 모습이나 나의 내일 목표를 1~2분간 시각화하며 잠자리에 듭니다. 잠재의식이 밤새 이 방향으로 움직이도록 유도합니다.",
+          "en": "Set what you read down by your bedside, close your eyes, and visualize the figure of the hero you read about today or your goals for tomorrow for 1 to 2 minutes before going to sleep. Guide your subconscious to move in this direction overnight.",
+          "ja": "読んだ内容を枕元に置き、目を閉じた後、今日読んだ英雄の姿や自分の明日の目標を1〜2分間視覚化しながら眠りにつきます。潜在意識が一晩中この方向に動くよう誘導します。",
+          "zh": "将读完的内容放回床头，闭上双眼，在脑海中对今天读到的英雄形象或自己明天的目标进行1~2分钟的具象化想象，然后入睡。以此引导潜意识整夜朝着这一方向运作。",
+          "es": "Deje lo leído en la mesita de noche, cierre los ojos y visualice la imagen del héroe leído hoy o sus metas para mañana durante 1 o 2 minutos antes de dormirse. Induzca a su subconsciente a moverse en esa dirección durante toda la noche.",
+          "de": "Legen Sie das Gelesene an Ihr Bett, schließen Sie die Augen und visualisieren Sie 1 bis 2 Minuten lang die Gestalt des heute gelesenen Helden oder Ihre morgigen Ziele, bevor Sie einschlafen. Leiten Sie Ihr Unterbewusstsein an, die ganze Nacht über in diese Richtung zu arbeiten.",
+          "fr": "Posez votre lecture au chevet de votre lit, fermez les yeux et visualisez pendant 1 à 2 minutes la figure du héros découvert aujourd'hui ou vos objectifs de demain avant de vous endormir. Incitez votre subconscient à s'orienter dans cette direction toute la nuit.",
+          "pt": "Deixe o livro na beira da cama, feche os olhos e visualize a imagem do herói lido hoje ou seus objetivos para amanhã por 1 a 2 minutos antes de adormecer. Induza seu subconsciente a se mover nessa direção durante toda a noite.",
+          "id": "Meletakkan bacaan di samping tempat tidur, pejamkan mata, lalu visualisasikan sosok pahlawan yang dibaca hari ini atau tujuan esok hari selama 1-2 menit sebelum tidur. Pandulah alam bawah sadar Anda untuk bergerak ke arah ini sepanjang malam."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "소설이나 만화책을 잠들기 전에 읽어도 비전 고전 독서 루틴과 같은 효과가 있나요?"
+          "ko": "소설이나 만화책을 잠들기 전에 읽어도 비전 고전 독서 루틴과 같은 효과가 있나요?",
+          "en": "Does reading novels or comic books before bed have the same effect as the vision classic reading routine?",
+          "ja": "小説や漫画本を眠る前に読んでも、ビジョン古典読書ルーティンと同じ効果がありますか？",
+          "zh": "睡前阅读小说或漫画书，能起到与愿景经典阅读习惯相同的效果吗？",
+          "es": "¿Leer novelas o cómics antes de dormir tiene el mismo efecto que la rutina de lectura de clásicos de visión?",
+          "de": "Hat das Lesen von Romanen oder Comics vor dem Schlafen die gleiche Wirkung wie die Visions-Klassiker-Leseroutine?",
+          "fr": "Lire des romans ou des bandes dessinées avant de s'endormir a-t-il le même effet que la routine de lecture classique de vision ?",
+          "pt": "Ler romances ou histórias em quadrinhos antes de dormir tem o mesmo efeito da rotina de leitura de clássicos de visão?",
+          "id": "Apakah membaca novel atau komik sebelum tidur memiliki efek yang sama dengan rutinitas membaca klasik visi?"
         },
         "answer": {
-          "ko": "가벼운 픽션도 두뇌의 스트레스를 해소하는 냉각 효과는 있지만, 알렉산드로스 루틴처럼 자아 정체성을 정렬하고 실행 의지력을 고취하는 '가치 지향 동기부여' 효과를 내려면 내적인 울림과 성찰을 주는 고전 서사시, 철학서, 위인전 등을 선택하는 것이 훨씬 좋습니다."
+          "ko": "가벼운 픽션도 두뇌의 스트레스를 해소하는 냉각 효과는 있지만, 알렉산드로스 루틴처럼 자아 정체성을 정렬하고 실행 의지력을 고취하는 '가치 지향 동기부여' 효과를 내려면 내적인 울림과 성찰을 주는 고전 서사시, 철학서, 위인전 등을 선택하는 것이 훨씬 좋습니다.",
+          "en": "Light fiction also offers a cooling effect that relieves brain stress, but to achieve a 'value-oriented motivational' effect that aligns self-identity and inspires execution willpower like Alexander's routine, it is far better to choose classic epics, philosophy books, or biographies of great people that provide inner resonance and reflection.",
+          "ja": "軽いフィクションも脳のストレスを解消するクーリング効果はありますが、アレクサンドロスのルーティンのように自我同一性を整列させ、実行意志力を高める「価値指向の動機付け」効果を出すには、内面的な響きと省察を与える古典叙事詩、哲学書、偉人伝などを選ぶ方がはるかに効果的です。",
+          "zh": "轻度的虚构作品虽然能起到缓解大脑压力的冷却效果，但要像亚历山大习惯那样产生对齐自我认同并激发执行意志力的“价值导向动机”，选择能够带来内心共鸣与省察的古典史诗、哲学书籍或伟人传记效果要好得多。",
+          "es": "La ficción ligera también ofrece un efecto refrescante que alivia el estrés cerebral, pero para lograr un efecto de 'motivación orientada a valores' que alinee la autoidentidad e inspire la fuerza de voluntad de ejecución como en la rutina de Alejandro, es mucho mejor elegir epopeyas clásicas, libros de filosofía o biografías que brinden una resonancia e introspección profundas.",
+          "de": "Leichte Belletristik bietet zwar einen abkühlenden Effekt, der den Gehirnstres abbaut, aber um einen 'wertorientierten Motivationseffekt' zu erzielen, der die Selbstidentität ausrichtet und die Umsetzungswillenskraft wie bei Alexanders Routine anregt, ist es weitaus besser, klassische Epen, Philosophiebücher oder Biografien großer Persönlichkeiten zu wählen, die innere Resonanz und Reflexion bieten.",
+          "fr": "La fiction légère offre également un effet de refroidissement qui soulage le stress cérébral, mais pour obtenir un effet de « motivation orientée sur les valeurs » qui aligne l'identité personnelle et stimule la volonté d'exécution comme la routine d'Alexandre, il est bien préférable de choisir des épopées classiques, des livres de philosophie ou des biographies d'illustres personnages qui apportent une résonance et une réflexion intérieures.",
+          "pt": "A ficção leve também oferece um efeito de resfriamento que alivia o estresse cerebral, mas para alcançar um efeito de 'motivação orientada a valores' que alinhe a autoidentidade e inspire a força de vontade de execução como na rotina de Alexandre, é muito melhor escolher epopeias clássicas, livros de filosofia ou biografias que ofereçam ressonância e reflexão internas.",
+          "id": "Fiksi ringan juga menawarkan efek mendinginkan yang meredakan stres otak, tetapi untuk mencapai efek 'motivasi berorientasi nilai' yang menyelaraskan identitas diri dan menginspirasi kekuatan kehendak eksekusi seperti rutinitas Alexander, jauh lebih baik memilih epik klasik, buku filsafat, atau biografi tokoh-tokoh besar yang memberikan resonansi dan refleksi mendalam."
         }
       },
       {
         "question": {
-          "ko": "누워서 이북 리더기로 책을 읽어도 되나요?"
+          "ko": "누워서 이북 리더기로 책을 읽어도 되나요?",
+          "en": "Is it okay to read books using an e-book reader while lying down?",
+          "ja": "横になって電子書籍リーダーで本を読んでも大丈夫ですか？",
+          "zh": "躺着使用电子书阅读器看书可以吗？",
+          "es": "¿Está bien leer libros con un lector de libros electrónicos mientras se está acostado?",
+          "de": "Ist es in Ordnung, im Liegen mit einem E-Book-Reader zu lesen?",
+          "fr": "Est-il possible de lire des livres sur une liseuse numérique en étant allongé ?",
+          "pt": "É ter problema ler livros usando um leitor de e-book deitado?",
+          "id": "Apakah boleh membaca buku menggunakan e-book reader sambil berbaring?"
         },
         "answer": {
-          "ko": "이북 리더기나 태블릿 화면은 빛 방출로 인해 뇌가 낮으로 착각하여 멜라토닌 분비를 억제할 위험이 큽니다. 잠재의식 정렬과 깊은 숙면을 유도하는 최적의 효과를 위해서는 가급적 은은한 조명 아래서 실물 종이 책을 직접 손으로 넘기며 정독하는 것을 권장합니다."
+          "ko": "이북 리더기나 태블릿 화면은 빛 방출로 인해 뇌가 낮으로 착각하여 멜라토닌 분비를 억제할 위험이 큽니다. 잠재의식 정렬과 깊은 숙면을 유도하는 최적의 효과를 위해서는 가급적 은은한 조명 아래서 실물 종이 책을 직접 손으로 넘기며 정독하는 것을 권장합니다.",
+          "en": "E-book readers or tablet screens carry a high risk of suppressing melatonin secretion because light emissions cause the brain to mistake night for day. For optimal results in inducing subconscious alignment and deep sleep, it is recommended to read a physical paper book directly by turning pages by hand under soft lighting whenever possible.",
+          "ja": "電子書籍リーダーやタブレットの画面は光の放出により、脳が昼間だと錯覚してメラトニンの分泌を抑制するリスクが大きいです。潜在意識の整列と深い熟眠を誘導する最適な効果のためには、できるだけほのかな照明の下で実際の紙の本を直接手でめくりながら熟読することをお勧めします。",
+          "zh": "电子书阅读器或平板电脑屏幕发出的光线极易让大脑误以为是白天，从而抑制褪黑素的分泌。为了获得引导潜意识对齐与深度睡眠的最佳效果，建议尽量在柔和的灯光下，用手亲自翻阅实体纸质书进行精读。",
+          "es": "Las pantallas de los lectores de libros electrónicos o tabletas conllevan un alto riesgo de suprimir la secreción de melatonina porque la emisión de luz hace que el cerebro confunda la noche con el día. Para obtener los mejores resultados al inducir la alineación subconsciente y un sueño profundo, se recomienda leer un libro de papel físico pasando las páginas a mano bajo una luz suave siempre que sea posible.",
+          "de": "Bildschirme von E-Book-Readern oder Tablets bergen ein hohes Risiko, die Melatonin-Ausschüttung zu unterdrücken, da die Lichtemission das Gehirn dazu verleitet, die Nacht für Tag zu halten. Für optimale Ergebnisse bei der Ausrichtung des Unterbewusstseins und einem tiefen Schlaf wird empfohlen, nach Möglichkeit ein physisches Papierbuch unter sanfter Beleuchtung direkt mit der Hand umzuschlagen und zu lesen.",
+          "fr": "Les écrans de liseuses ou de tablettes comportent un risque élevé de réprimer la sécrétion de mélatonine, car les émissions lumineuses amènent le cerveau à confondre la nuit et le jour. Pour des résultats optimaux dans l'alignement subconscient et un sommeil profond, il est recommandé de lire un livre papier physique en tournant directement les pages à la main sous une lumière douce autant que possible.",
+          "pt": "As telas de leitores de e-books ou tablets carregam um grande risco de suprimir a secreção de melatonina, pois a emissão de luz faz o cérebro confundir a noite com o dia. Para obter os melhores resultados no alinhamento subconsciente e em um sono profundo, recomenda-se ler um livro de papel físico folheando as páginas diretamente com a mão sob iluminação suave sempre que possível.",
+          "id": "Layar e-book reader atau tablet berisiko tinggi menekan sekresi melatonin karena pancaran cahaya membuat otak mengira malam sebagai siang hari. Untuk hasil optimal dalam merangsang penyelarasan alam bawah sadar dan tidur nyenyak, disarankan untuk membaca buku kertas fisik secara langsung dengan membalik halaman pakai tangan di bawah pencahayaan yang lembut jika memungkinkan."
         }
       }
     ]

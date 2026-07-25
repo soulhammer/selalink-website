@@ -1,70 +1,214 @@
 {
   "bohr-dialogue-dictation": {
     "title": {
-      "ko": "물리학을 직조한 대화: 닐스 보어의 구술 토론 습관"
+      "ko": "대화로 직조한 물리학: 닐스 보어의 구술 토론과 메타인지 집필법",
+      "en": "Physics Woven Through Dialogue: Niels Bohr's Dictation-Discussion and Metacognitive Writing Method",
+      "ja": "対話で織りなす物理学：ニールス・ボーアの口述討論とメタ認知執筆法",
+      "zh": "通过对话交织的物理学：尼尔斯·玻尔的口述讨论与元认知写作法",
+      "es": "La Física Tejida a Través del Diálogo: El Método de Dictado-Discusión y Escritura Metacognitiva de Niels Bohr",
+      "de": "Durch Dialog gewebte Physik: Niels Bohrs Diktat-Diskussions- und metakognitive Schreibmethode",
+      "fr": "La physique tressée par le dialogue : La méthode de dictée-discussion et d'écriture métacognitive de Niels Bohr",
+      "pt": "A Física Tecida Através do Diálogo: O Método de Ditado-Discussão e Escrita Metacognitiva de Niels Bohr",
+      "id": "Fisika yang Ditenun Melalui Dialog: Metode Mendikte-Diskusi dan Penulisan Metakognitif ala Niels Bohr"
     },
     "description": {
-      "ko": "글을 혼자 쓰는 대신 타인과의 끊임없는 구술 토론을 통해 양자역학 논문을 완성했던 닐스 보어. 말하기가 내면의 생각을 외적 언어로 객관화하여 상위 인지를 깨우는 원리를 규명합니다."
+      "ko": "양자역학의 거장 닐스 보어가 동료들과의 구술 토론과 구술 필기를 통해 복잡한 물리 논문을 완성했던 독특한 루틴. 내면의 아이디어를 외적 언어로 객관화하여 메타인지를 활성화하는 신경과학적 원리를 밝힙니다.",
+      "en": "Explore how quantum mechanics pioneer Niels Bohr authored complex physics papers through relentless oral discussion and dictation with colleagues, and discover the neuroscientific principle where externalizing inner thoughts into spoken language activates metacognition.",
+      "ja": "量子力学の巨匠ニールス・ボーアが同僚たちとの口述討論と口述筆記を通じて複雑な物理論文を完成させた独自のルーティン。内面のアイデアを外的言語として客観化しメタ認知を活性化させる神経科学的原理を解き明かします。",
+      "zh": "探索量子力学大师尼尔斯·玻尔如何通过与同伴的不懈口述讨论与口述听写来完成复杂的物理论文，揭示将内心想法客体化为外部语言以激活元认知的神经科学原理。",
+      "es": "Descubra cómo Niels Bohr, gigante de la mecánica cuántica, redactó complejos artículos de física mediante incesantes discusiones orales y dictados con sus colegas, y explore el principio neurocientífico donde la externalización de pensamientos hacia el lenguaje hablado activa la metacognición.",
+      "de": "Erkunden Sie, wie der Quantenmechanik-Pionier Niels Bohr komplexe physikalische Arbeiten durch unermüdliche mündliche Diskussionen und Diktate mit Kollegen verfasste, und entdecken Sie das neurowissenschaftliche Prinzip, bei dem die Externalisierung innerer Gedanken in gesprochene Sprache die Metakognition aktiviert.",
+      "fr": "Découvrez comment Niels Bohr, géant de la mécanique quantique, a rédigé de complexes articles de physique grâce à d'incessantes discussions orales et dictées avec ses collègues, et percez le principe neuroscientifique selon lequel l'externalisation de la pensée vers le langage parlé active la métacognition.",
+      "pt": "Descubra como Niels Bohr, gigante da mecânica quântica, redigiu complexos artigos de física por meio de incessantes discussões orais e ditados com seus colegas, e explore o princípio neurocientífico em que a externalização de pensamentos para a linguagem falada ativa a metacognição.",
+      "id": "Pelajari bagaimana pelopor mekanika kuantum Niels Bohr menulis makalah fisika rumit melalui diskusi lisan dan dikte tanpa henti bersama rekan-rekannya, dan temukan prinsip neurosains di mana mengeksternalkan pikiran batin ke dalam bahasa lisan mengaktifkan metakognisi."
     },
     "authority": {
-      "ko": "아브라함 파이스 『닐스 보어 평전(Niels Bohr's Times)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+      "ko": "아브라함 파이스 평전 『닐스 보어 평전(Niels Bohr's Times: In Physics, Philosophy, and Polity)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+      "en": "Historical Verification from Abraham Pais's Biography *Niels Bohr's Times: In Physics, Philosophy, and Polity* & Cognitive Neuroscience Research",
+      "ja": "アブラハム・パイス伝記『Niels Bohr's Times: In Physics, Philosophy, and Polity』考証＆認知神経科学（Cognitive Neuroscience）研究",
+      "zh": "亚伯拉罕·派斯传记《尼尔斯·玻尔时代的物理、哲学与政治（Niels Bohr's Times）》考证与认知神经科学（Cognitive Neuroscience）研究",
+      "es": "Verificación Histórica de la Biografía de Abraham Pais *Niels Bohr's Times: In Physics, Philosophy, and Polity* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)",
+      "de": "Historische Überprüfung aus Abraham Pais' Biografie *Niels Bohr's Times: In Physics, Philosophy, and Polity* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)",
+      "fr": "Vérification Historique issue de la biographie d'Abraham Pais *Niels Bohr's Times: In Physics, Philosophy, and Polity* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)",
+      "pt": "Verificação Histórica da Biografia de Abraham Pais *Niels Bohr's Times: In Physics, Philosophy, and Polity* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)",
+      "id": "Verifikasi Historis dari Biografi Abraham Pais *Niels Bohr's Times: In Physics, Philosophy, and Polity* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"
     },
     "intro": {
-      "ko": "\"우리는 타인에게 내 생각을 가볍게 말하는 과정을 통해서만 비로소 내가 진짜 무슨 생각을 하고 있었는지 발견한다.\" 🗣️\n\n양자역학의 아버지이자 코펜하겐 해석을 확립하여 원자 구조의 비밀을 푼 노벨 물리학상 수상자 닐스 보어. 20세기 최고의 과학적 영감을 지닌 인물이었지만, 그는 역설적으로 혼자 서재에 앉아 하얀 원고지 위에 조용히 생각을 문장으로 받아적는 행위를 극도로 힘들어했습니다. 보어에게는 자신의 머릿속에 가득 찬 복잡한 이론들을 끄집어내는 독특한 사색 의식이 있었습니다. 그는 항상 아내 마르그레테나 하이젠베르크 등 동료와 제자들을 칠판 앞에 세워 두었습니다. 그리고 방 안을 뱅뱅 돌며 중얼중얼 개념을 설명하고 토론을 자극했으며, 상대방이 납득하는 지점의 언어들을 구술하여 받아적게 했습니다. 뇌과학적으로 이 치열한 '대화형 구술'이 뇌 내부의 메타인지 인지 필터를 가동하고 아이디어를 정교하게 다듬은 비결을 해부합니다."
+      "ko": "\"우리는 타인에게 내 생각을 가볍게 말하는 과정을 통해서만 비로소 내가 진짜 무슨 생각을 하고 있었는지 발견한다.\" 🗣️\n\n원자 구조의 비밀을 밝혀내 1922년 노벨 물리학상을 수상하고, 코펜하겐 해석을 확립하여 현대 양자역학의 거대한 기틀을 다진 덴마크의 위대한 물리학자 닐스 보어(Niels Bohr, 1885–1962). 코펜하겐 이론물리학 연구소를 설립하여 베르너 하이젠베르크, 볼프강 파울리 등 당대 최고의 지성들을 끌어모았던 그는, 20세기 최고의 과학적 영감을 지닌 인물이었음에도 역설적으로 혼자 서재에 앉아 조용히 하얀 원고지 위에 글을 쓰는 행위를 극도로 힘들어했습니다.\n\n보어에게는 머릿속에 가득 찬 복잡하고 모호한 물리적 직관을 끄집어내는 독특한 사색 루틴이 있었습니다. 그는 홀로 글을 쓰는 대신, 사랑하는 아내 마르그레테(Margrethe)나 하이젠베르크, 파울리 등 동료와 제자들을 칠판 앞에 세워두었습니다. 그리고 방 안을 뱅뱅 돌며 중얼중얼 개념을 설명하고 토론을 유도한 뒤, 상대방이 완전히 납득하는 지점의 정교한 문장을 구술하여 받아적게 했습니다. 보어에게 대화는 단순한 의견 교환이 아니라, 모호한 무의식적 직관을 명료한 언어적 현실로 재조합하는 강력한 사색 장치였습니다.\n\n오늘 포스트에서는 닐스 보어의 '대화형 구술 집필법'에 담긴 뇌과학적 원리를 분석하고, 현대인이 모호한 아이디어를 구체화하고 메타인지를 활성화할 수 있는 3단계 실천 방안을 소개합니다.",
+      "en": "\"We only discover what we were truly thinking through the process of casually speaking our thoughts aloud to others.\" 🗣️\n\nNiels Bohr (1885–1962) was a legendary Danish physicist who unlocked the secrets of atomic structure to win the 1922 Nobel Prize in Physics and established the Copenhagen interpretation, laying the foundation for modern quantum mechanics. As founder of the Institute for Theoretical Physics in Copenhagen, he gathered brilliant minds like Werner Heisenberg and Wolfgang Pauli. Yet, despite possessing unmatched scientific intuition, he found sitting alone in a quiet room writing prose on paper extremely painful.\n\nBohr utilized a unique contemplation routine to draw out complex, intuitive physics concepts locked in his head. Instead of writing in solitude, he placed a sounding board in the room—his devoted wife Margrethe, or colleagues and disciples like Heisenberg and Pauli. Pacing around the room while muttering concepts aloud, he stimulated intense debate, continuously polishing sentences until his listener fully grasped them, at which point he dictated the final phrasing to be written down. For Bohr, dialogue was not mere social interaction, but a cognitive engine that converted vague mental models into precise linguistic reality.\n\nIn today's post, we examine the brain science underlying Niels Bohr's 'dialogue-driven dictation' method and present a 3-step practical action plan for modern individuals to solidify ambiguous ideas and activate metacognition.",
+      "ja": "「私たちは他人に自分の考えを何気なく話す過程を通じて初めて、自分が本当に何を考えていたのかを発見するのだ。」 🗣️\n\n原子構造の秘密を解き明かして1922年にノーベル物理学賞を受賞し、コペンハーゲン解釈を確立して現代量子力学の巨大な礎を築いたデンマークの偉大な物理学者、ニールス・ボーア（Niels Bohr、1885–1962）。コペンハーゲン理論物理学研究所を設立し、ヴェルナー・ハイゼンベルクやヴォルフガング・パウリなど当時代最高の知性たちを集めた彼は、20世紀最高の科学的インスピレーションを持つ人物であったにもかかわらず、逆説的に一人で書斎に座り静かに白い原稿用紙の上に文章を書く行為を極度に苦手としていました。\n\nボーアには、頭の中に満ちた複雑で曖昧な物理的直感を引き出す独自の思索ルーティンがありました。彼は一人で文章を書く代わりに、愛する妻マルグレーテ（Margrethe）やハイゼンベルク、パウリなどの同僚や弟子たちを黒板の前に立たせました。そして部屋の中をぐるぐる回りながらつぶやきつつ概念を説明し討論を誘導した後、相手が完全に納得する地点の精緻な文章を口述して書き留めさせました。ボーアにとって対話は単なる意見交換ではなく、曖昧な無意識的直感を明瞭な言語的現実へと再組合せする強力な思索装置でした。\n\n本日の記事では、ニールス・ボーアの「対話型口述執筆法」に秘められた脳科学的原理を分析し、現代人が曖昧なアイデアを具体化しメタ認知を活性化できる3ステップの実践方案を紹介します。",
+      "zh": "“唯有在向他人平淡述说自身想法的过程中，我们才能真正发现自己究竟在思考什么。” 🗣️\n\n丹麦伟大的物理学家尼尔斯·玻尔（Niels Bohr，1885–1962）揭开了原子结构的奥秘，荣获1922年诺贝尔物理学奖，并创立了哥本哈根诠释，奠定了现代量子力学的宏伟基石。他创办了哥本哈根理论物理研究所，吸引了维尔纳·海森堡、沃尔夫冈·泡利等当时最杰出的智慧大脑。尽管拥有20世纪最顶尖的科学灵感，但他却反常地极度厌恶独自坐在书房里静静地在白纸上写字。\n\n为了将脑海中充斥的复杂且模糊的物理直觉释放出来，玻尔拥有一套独特的思考习惯。他从不孤立写作，而是将深爱的妻子玛格丽特（Margrethe）或海森堡、泡利等同行及弟子安排在黑板前。他在房间里踱来踱去，边嘀咕边解释概念并引导探讨，直至对方完全理解，他才口述出精炼的语句让对方记录下来。对玻尔而言，对话并非单纯的观点交流，而是一个将模糊的无意识直觉重构为清晰语言现实的强大思维引擎。\n\n在今天的文章中，我们将分析尼尔斯·玻尔“对话式口述写作法”背后的脑科学原理，并为现代人具体化模糊灵感、激活元认知提供3步骤实践方案。",
+      "es": "\"Solo descubrimos lo que verdaderamente estábamos pensando a través del proceso de expresar casualmente nuestros pensamientos en voz alta a otros.\" 🗣️\n\nNiels Bohr (1885–1962), insigne físico danés que descifró los secretos de la estructura atómica para ganar el Premio Nobel de Física en 1922 y estableció la interpretación de Copenhague, sentando las bases de la mecánica cuántica moderna. Fundador del Instituto de Física Teórica en Copenhague, reunió a las mentes más brillantes de su época como Werner Heisenberg y Wolfgang Pauli. Sin embargo, a pesar de poseer una intuición científica incomparable, le resultaba un tormento sentarse solo en un estudio a escribir en silencio sobre el papel.\n\nBohr utilizaba una rutina de contemplación singular para proyectar los complejos e intuitivos conceptos de la física atrapados en su mente. En lugar de escribir en soledad, colocaba un interlocutor en la habitación: su amada esposa Margrethe, o colegas y discípulos como Heisenberg y Pauli. Paseando por la habitación mientras murmuraba ideas en voz alta, estimulaba intensos debates y pulía las oraciones hasta que su oyente las comprendía del todo, momento en el que dictaba el redactado final para que fuera escrito. Para Bohr, el diálogo no era un mero intercambio social, sino un motor cognitivo que convertía modelos mentales vagos en una realidad lingüística precisa.\n\nEn la publicación de hoy, analizamos la ciencia cerebral de la 'escritura por dictado conversacional' de Niels Bohr y presentamos un plan práctico de 3 pasos para que las personas modernas concreten ideas ambiguas y activen la metacognición.",
+      "de": "\"Wir entdecken erst, was wir wirklich gedacht haben, wenn wir unsere Gedanken anderen gegenüber beiläufig aussprechen.\" 🗣️\n\nNiels Bohr (1885–1962) war ein legendärer dänischer Physiker, der die Geheimnisse der Atomstruktur entschlüsselte, 1922 den Nobelpreis für Physik erhielt und mit der Kopenhagener Interpretation das Fundament der modernen Quantenmechanik legte. Als Gründer des Instituts für Theoretische Physik in Kopenhagen scharte er brillante Köpfe wie Werner Heisenberg und Wolfgang Pauli um sich. Doch obwohl er über eine unvergleichliche wissenschaftliche Intuition verfügte, empfand er es als extrem quälend, allein im Arbeitszimmer zu sitzen und leise Sätze auf Papier zu schreiben.\n\nBohr nutzte eine einzigartige Denkroutine, um die komplexen intuitiven Physikkonzepte in seinem Kopf freizusetzen. Statt in Isolation zu schreiben, platzierte er einen Zuhörer im Raum – seine geliebte Frau Margrethe oder Kollegen und Schüler wie Heisenberg und Pauli. Während er im Raum auf und ab ging und Konzepte laut vor sich hin murmelte, regte er Diskussionen an und feilte so lange an Formulierungen, bis sein Gegenüber sie vollkommen verstand, um ihnen dann die finale Fassung zu diktieren. Für Bohr war der Dialog kein bloßer Austausch, sondern ein kognitiver Motor, der vage mentale Modelle in präzise sprachliche Realität verwandelte.\n\nIm heutigen Beitrag untersuchen wir die Neurowissenschaft hinter Niels Bohrs Methode des 'dialoggeführten Diktats' und stellen einen praktischen 3-Schritte-Aktionsplan vor, mit dem moderne Menschen vage Ideen konkretisieren und Metakognition aktivieren können.",
+      "fr": "« Nous ne découvrons ce que nous pensions vraiment qu'en exprimant librement nos pensées à voix haute à autrui. » 🗣️\n\nNiels Bohr (1885–1962), grand physicien danois qui a percé les secrets de la structure atomique pour remporter le prix Nobel de physique en 1922 et établi l'interprétation de Copenhague, posant les bases de la mécanique quantique moderne. Fondateur de l'Institut de physique théorique de Copenhague, il a rassemblé les esprits les plus brillants de son temps tels que Werner Heisenberg et Wolfgang Pauli. Pourtant, malgré une intuition scientifique hors pair, il lui était extrêmement pénible de rester seul à son bureau pour rédiger en silence sur du papier.\n\nBohr utilisait une routine de réflexion unique pour extraire les concepts physiques complexes et intuitifs logés dans son esprit. Au lieu d'écrire dans la solitude, il faisait appel à un interlocuteur — son épouse dévouée Margrethe, ou des collègues et disciples comme Heisenberg et Pauli. En arpentant la pièce tout en murmurant ses réflexions, il stimulait un débat intense et affinait ses phrases jusqu'à ce que son auditeur les comprenne parfaitement, moment où il dictait le texte final à consigner. Pour Bohr, le dialogue n'était pas un simple échange social, mais un moteur cognitif transformant des modèles mentaux flous en une réalité linguistique précise.\n\nDans l'article d'aujourd'hui, nous analysons la science cérébrale sous-jacente à l'« écriture par dictée dialoguée » de Niels Bohr et proposons un plan d'action pratique en 3 étapes permettant aux individus modernes de concrétiser leurs idées ambiguës et d'activer leur métacognition.",
+      "pt": "\"Só descobrimos o que realmente estávamos pensando através do processo de falar casualmente nossos pensamentos em voz alta para os outros.\" 🗣️\n\nNiels Bohr (1885–1962) foi um célebre físico dinamarquês que desvendou os segredos da estrutura atômica, conquistando o Prêmio Nobel de Física em 1922, e estabeleceu a interpretação de Copenhague, lançando as bases da mecânica quântica moderna. Fundador do Instituto de Física Teórica em Copenhague, ele reuniu mentes brilhantes como Werner Heisenberg e Wolfgang Pauli. No entanto, apesar de possuir uma intuição científica inigualável, achava extremamente penoso sentar-se sozinho em seu escritório e escrever silenciosamente no papel.\n\nBohr utilizava uma rotina de reflexão singular para extrair os conceitos físicos complexos e intuitivos presos em sua mente. Em vez de escrever em solidão, ele mantinha um interlocutor na sala — sua amada esposa Margrethe, ou colegas e discípulos como Heisenberg e Pauli. Caminhando pela sala enquanto resmungava conceitos em voz alta, estimulava debates intensos e lapidava frases até que seu ouvinte as compreendesse totalmente, momento em que ditava a versão final para ser escrita. Para Bohr, o diálogo não era um mero intercâmbio social, mas um motor cognitivo que convertia modelos mentais vagos em uma realidade linguística precisa.\n\nNo artigo de hoje, analisamos a ciência cerebral por trás do método de 'escrita por ditado dialogado' de Niels Bohr e apresentamos um plano prático de 3 passos para as pessoas modernas concretizarem ideias ambíguas e ativarem a metacognição.",
+      "id": "\"Kita hanya menemukan apa yang benar-benar kita pikirkan melalui proses menyuarakan pikiran kita secara santai kepada orang lain.\" 🗣️\n\nNiels Bohr (1885–1962) adalah fisikawan legendaris Denmark yang mengungkap rahasia struktur atom hingga meraih Hadiah Nobel Fisika pada tahun 1922 dan mendirikan interpretasi Kopenhagen, meletakkan fondasi bagi mekanika kuantum modern. Sebagai pendiri Institut Fisika Teori di Kopenhagen, ia mengumpulkan pikiran-pikiran cemerlang seperti Werner Heisenberg dan Wolfgang Pauli. Namun, terlepas dari intuisi ilmiahnya yang tak tertandingi, ia merasa sangat kesulitan untuk duduk sendirian di ruang kerja dan menulis kalimat secara hening di atas kertas.\n\nBohr menggunakan rutinitas kontemplasi unik untuk mengeluarkan konsep fisika yang intuitif dan rumit dari dalam kepalanya. Alih-alih menulis dalam kesendirian, ia menempatkan teman bicara di dalam ruangan—istrinya tercinta Margrethe, atau rekan dan muridnya seperti Heisenberg dan Pauli. Sambil berjalan melangkah mengelilingi ruangan dan bergumam melafalkan konsep, ia memicu diskusi sengit dan terus mengasah kalimat sampai pendengarnya paham sepenuhnya, pada titik mana ia mendiktekan formulasi akhir untuk dicatat. Bagi Bohr, dialog bukan sekadar pertukaran sosial, melainkan mesin kognitif yang mengubah model mental yang samar menjadi realitas kebahasaan yang presisi."
     },
     "whyTitle": {
-      "ko": "내적 언어의 외재화와 메타인지 활성화 효과"
+      "ko": "내적 언어의 외재화와 메타인지 활성화의 신경 메커니즘",
+      "en": "Neural Mechanisms of Internal Speech Externalization and Metacognition Activation",
+      "ja": "内的言語の外在化とメタ認知活性化の神経メカニズム",
+      "zh": "内在语言的外在化与元认知激活的神经机制",
+      "es": "Mecanismos Neuronales de la Externalización del Lenguaje Interno y Activación de la Metacognición",
+      "de": "Neuronale Mechanismen der Externalisierung innerer Sprache und Metakognitions-Aktivierung",
+      "fr": "Mécanismes neuronaux de l'externalisation du langage intérieur et d'activation de la métacognition",
+      "pt": "Mecanismos Neuronais da Externalização da Linguagem Interna e Ativação da Metacognição",
+      "id": "Mekanisme Saraf Eksternalisasi Bahasa Batin dan Aktivasi Metakognisi"
     },
     "whyDesc": {
-      "ko": "머릿속으로만 생각하는 '내적 언어(Inner Speech)'는 논리적 비약과 모호함으로 가득 차 있어 복잡한 문제를 해결할 때 인지 왜곡을 야기하기 쉽습니다. 이를 소리 내어 밖으로 뱉어내는 '외적 언어(External Speech)'로 치환하는 순간, 뇌는 자신의 아이디어를 마치 제3자의 주장처럼 객관적으로 듣고 분석하는 메타인지(Metacognition) 상태로 돌입합니다. 특히 보어처럼 대화 상대방의 즉각적인 질문과 반응이라는 인지적 자극을 결합하면, 좌우 뇌의 연합 피질이 연쇄 작동하여 흩어져 있던 정보 조각들을 논리적으로 재조합하는 강력한 연결망을 만듭니다."
+      "ko": "머릿속으로만 생각하는 '내적 언어(Inner Speech)'는 논리적 비약과 모호함이 숨겨져 있어 복잡한 문제를 해결할 때 착시를 일으키기 쉽습니다. 이를 소리 내어 밖으로 표현하는 '외적 언어(External Speech)'로 치환하는 순간, 뇌는 자신의 아이디어를 제3자의 관점에서 객관적으로 청취하며 가공하는 메타인지(Metacognition) 회로를 작동시킵니다. 특히 보어처럼 상대방의 반응과 즉각적인 질의응답이라는 사회적 자극을 결합하면, 좌우 뇌의 언어 피질과 집행 제어 네트워크가 강하게 연쇄 가동하여 흩어져 있던 무의식적 직관을 명료한 논리 체계로 정교하게 재조합합니다.",
+      "en": "Mental 'Inner Speech' often conceals logical leaps and ambiguities, easily creating illusions of understanding when solving complex problems. The moment this is converted into spoken 'External Speech', the brain activates metacognitive circuits, allowing it to objectively listen to and process its own ideas from a third-person perspective. Furthermore, pairing speech with interactive social stimuli—such as a listener's immediate feedback and questions, as Bohr did—strongly engages the language cortex and executive control networks across both hemispheres, effectively recombining scattered intuitive fragments into explicit, logical frameworks.",
+      "ja": "頭の中だけで考える「内的言語（Inner Speech）」は論理的な飛躍や曖昧さが隠されており、複雑な問題を解決する際に錯覚を引き起こしがちです。これを声に出して外へ表現する「外的言語（External Speech）」に置換した瞬間、脳は自分のアイデアを第三者の視点から客観的に聴取し加工するメタ認知（Metacognition）回路を作動させます。特にボーアのように相手の反応や即座の質疑応答という社会的刺激を組み合わせると、左右の脳の言語皮質と執行制御ネットワークが強く連鎖稼働し、散らばっていた無意識的直感を明瞭な論理体系へと精緻に再重合させます。",
+      "zh": "仅在脑海中进行的“内在语言（Inner Speech）”往往隐藏着逻辑跳跃与模糊性，在解决复杂问题时极易带来理解的错觉。一旦将其转化为脱口而出的“外在语言（External Speech）”，大脑便会启动元认知（Metacognition）回路，使人得以从第三者视角客观地倾听并再加工自身的想法。此外，若像玻尔那样引入听众的即时反馈与提问等社交互动刺激，大脑两侧半球的语言皮层与执行控制网络就会发生强效连锁联动，从而将零散的无意识直觉精细重构为清晰的逻辑体系。",
+      "es": "El 'Lenguaje Interno (Inner Speech)' meramente mental suele ocultar saltos lógicos y ambigüedades, creando ilusiones de comprensión al resolver problemas complejos. En el momento en que se convierte en 'Lenguaje Externo (External Speech)' hablado, el cerebro activa circuitos metacognitivos, permitiéndole escuchar y procesar objetivamente sus propias ideas desde una perspectiva en tercera persona. Además, combinar el habla con estímulos sociales interactivos —como las preguntas y la retroalimentación inmediata del oyente, como hacía Bohr— activa fuertemente la corteza del lenguaje y las redes de control ejecutivo, recombinando fragmentos intuitivos en marcos lógicos explícitos.",
+      "de": "Gedankliche 'Innere Sprache (Inner Speech)' verbirgt oft logische Sprünge und Unklarheiten, was beim Lösen komplexer Probleme leicht zu Täuschungen führt. In dem Moment, in dem diese in gesprochene 'Äußere Sprache (External Speech)' umgewandelt wird, aktiviert das Gehirn metakognitive Schaltkreise, die es ihm ermöglichen, seine eigenen Ideen aus der Perspektive Dritter objektiv zu hören und zu verarbeiten. Die Kombination des Sprechens mit interaktiven sozialen Reizen – wie Bohrs sofortige Rückmeldungen und Fragen des Zuhörers – verbindet zudem Sprachkortex und exekutive Steuerungsnetzwerke, um intuitive Fragmente in explizite logische Systeme umzustrukturieren.",
+      "fr": "Le « Langage Intérieur (Inner Speech) » purement mental masque souvent des sauts logiques et des ambiguïtés, créant une illusion de compréhension lors de la résolution de problèmes complexes. Dès qu'il est converti en « Langage Extérieur (External Speech) » parlé, le cerveau active des circuits métacognitifs lui permettant d'écouter et de traiter objectivement ses propres idées selon une perspective à la troisième personne. De plus, combiner la parole avec des stimuli sociaux interactifs — comme les questions et retours immédiats d'un auditeur à la manière de Bohr — sollicite puissamment le cortex du langage et les réseaux de contrôle exécutif, réorganisant des intuitions éparses en structures logiques explicites.",
+      "pt": "A 'Linguagem Interna (Inner Speech)' meramente mental costuma ocultar saltos lógicos e ambiguidades, criando ilusões de compreensão ao resolver problemas complexos. No momento em que é convertida em 'Linguagem Externa (External Speech)' falada, o cérebro ativa circuitos metacognitivos, permitindo-lhe ouvir e processar objetivamente suas próprias ideias a partir de uma perspectiva em terceira pessoa. Além disso, combinar a fala com estímulos sociais interativos — como as perguntas e o feedback imediato do ouvinte, como fazia Bohr — ativa fortemente o córtex da linguagem e as redes de controle executivo, recombinando fragmentos intuitivos em estruturas lógicas explícitas.",
+      "id": "'Bahasa Batin (Inner Speech)' yang hanya ada di dalam pikiran sering kali menyembunyikan lompatan logika dan ambiguitas, dengan mudah menciptakan ilusi pemahaman saat menyelesaikan masalah rumit. Begitu diubah menjadi 'Bahasa Luar (External Speech)' yang terucap, otak mengaktifkan sirkuit metakognitif, memungkinkannya mendengarkan dan memproses ide-idenya sendiri secara objektif dari sudut pandang orang ketiga. Lebih jauh lagi, menggabungkan ucapan dengan stimulasi sosial interaktif—seperti umpan balik dan pertanyaan langsung dari pendengar seperti yang dilakukan Bohr—secara kuat melibatkan korteks bahasa dan jaringan kontrol eksekutif, merakit ulang fragmen intuitif yang tersebar menjadi kerangka logis yang eksplisit."
     },
     "cautionTitle": {
-      "ko": "주의사항 및 팁"
+      "ko": "주의사항 및 팁: 비목적적 잡담 경계 및 구조화된 시간 규격 설정",
+      "en": "Caution & Tips: Guarding Against Aimless Chatter & Setting Structured Time Limits",
+      "ja": "注意事項＆ヒント：非目的的雑談の警戒と構造化された時間規格の設定",
+      "zh": "注意事项与提示：警惕无目的漫谈与设定结构化时间规范",
+      "es": "Precauciones y Consejos: Evitar la Charla Sin Rumbo y Establecer Límites de Tiempo Estructurados",
+      "de": "Vorsichtsmaßnahmen & Tipps: Warnung vor ziellosem Plaudern & Festlegen strukturierter Zeitrahmen",
+      "fr": "Précautions & Conseils : Éviter le bavardage sans but & Établir des limites de temps structurées",
+      "pt": "Precauções e Dicas: Cuidado com Conversas Sem Foco e Estabelecimento de Limites de Tempo Estruturados",
+      "id": "Perhatian & Tip: Waspada Terhadap Obrolan Tanpa Arah & Menetapkan Batas Waktu Terstruktur"
     },
     "cautionDesc": {
-      "ko": "구술 대화 습관을 적용할 때 주의해야 할 위험 요소는 단순한 사담이나 잡담으로 흘러가 버리는 것입니다. 명확한 문제 중심의 대화 가이드라인 없이 파트너와 대화를 시작하면, 시간만 낭비하고 본래의 아이디어 구체화 목적을 잃어버리기 쉽습니다. 따라서 구술 대화를 시작할 때는 해결하려는 하나의 명확한 질문을 파트너에게 선언한 뒤 논의에 돌입해야 하며, 15분 내외의 집중된 대화 시간 규격을 설정하여 사용하는 것이 좋습니다."
+      "ko": "구술 대화 습관을 적용할 때 가장 큰 함정은 논점이 흐려진 잡담으로 대화가 빠지는 것입니다. 명확한 문제 가이드라인 없이 토론을 시작하면 인지적 에너지와 시간만 소모되고 본래의 구체화 목적을 잃어버리기 쉽습니다. 구술 대화를 시작할 때는 해결하려는 '단 하나의 명확한 질문'을 상대방에게 선언한 후 논의에 돌입해야 하며, 15~20분 내외의 집중된 대화 타임 블록을 설정하여 긴장감을 유지해야 합니다.",
+      "en": "The biggest pitfall when applying a dictation-dialogue routine is devolving into aimless chatter. Starting a discussion without a clear question guideline consumes cognitive energy and time while derailing the objective of solidifying ideas. Before speaking, explicitly state a 'single clear question' you aim to solve to your partner, and enforce a focused time block of 15 to 20 minutes to maintain constructive cognitive tension.",
+      "ja": "口述会話ルーティンを適用する際の最大の落とし穴は、論点がぼやけた雑談へと会話が流れてしまうことです。明確な問題ガイドラインなしに討論を始めると、認知的エネルギーと時間だけが消費され、本来の具体化の目的を見失いがちです。口述会話を始める時は、解決したい「たった一つの明確な質問」を相手に宣言してから議論に入り、15〜20分程度の集中した会話タイムブロックを設定して緊張感を維持すべきです。",
+      "zh": "在应用口述对话习惯时，最大的陷阱是偏离主题演变为无目的漫谈。若无明确的问题导向便展开探讨，只会白白消耗认知能量与时间，偏离构思具体化的初衷。开始口述对话前，务必向对方明确界定并明确宣布“唯一待解决的核心问题”，并设定15至20分钟的集中对话时间块，以维持建设性的思维张力。",
+      "es": "La mayor trampa al aplicar una rutina de dictado y diálogo es caer en charlas sin rumbo. Iniciar una discusión sin una pauta clara consume energía cognitiva y tiempo, desviando el objetivo de concretar ideas. Antes de hablar, declare explícitamente a su interlocutor la 'pregunta única y clara' que busca resolver, y establezca un bloque de tiempo enfocado de 15 a 20 minutos para mantener una tensión cognitiva constructiva.",
+      "de": "Die größte Falle bei der Anwendung einer Diktat-Dialog-Routine ist das Abgleiten in zielloses Plaudern. Eine Diskussion ohne klare Fragestellung zu beginnen, raubt kognitive Energie und Zeit und verfehlt das Ziel, Ideen zu konkretisieren. Formulieren Sie vor dem Sprechen explizit eine 'einzige klare Frage', die gelöst werden soll, und halten Sie ein fokussiertes Zeitfenster von 15 bis 20 Minuten ein, um die kognitive Spannung aufrechtzuerhalten.",
+      "fr": "Le plus grand piège lors de l'application d'une routine de dictée-dialogue est de dériver vers un bavardage stérile. Démarrer une discussion sans orientation claire consomme de l'énergie cognitive et du temps tout en détournant de l'objectif de concrétisation. Avant de parler, énoncez explicitement à votre interlocuteur la « question claire et unique » que vous cherchez à résoudre, et imposez un bloc de temps focalisé de 15 à 20 minutes pour maintenir une tension cognitive constructive.",
+      "pt": "A maior armadilha ao aplicar uma rotina de ditado e diálogo é cair em conversas fútis. Iniciar uma discussão sem uma diretriz clara consome energia cognitiva e tempo, desviando do objetivo de concretizar ideias. Antes de falar, declare explicitamente ao seu interlocutor a 'única pergunta clara' que busca resolver e estabeleça um bloco de tempo focado de 15 a 20 minutos para manter uma tensão cognitiva construtiva.",
+      "id": "Jebakan terbesar saat menerapkan rutinitas dikte-dialog adalah melebar ke dalam obrolan tanpa arah. Memulai diskusi tanpa pedoman pertanyaan yang jelas menguras energi kognitif dan waktu sambil mengaburkan tujuan mengonkretkan ide. Sebelum berbicara, nyatakan secara eksplisit 'satu pertanyaan jelas' yang ingin Anda selesaikan kepada mitra bicara Anda, dan berlakukan blok waktu terfokus selama 15 hingga 20 menit untuk mempertahankan ketegangan kognitif yang konstruktif."
     },
     "steps": [
       {
         "name": {
-          "ko": "구술을 위한 러닝 파트너 지정"
+          "ko": "1단계: 구술 대화를 위한 청자 파트너 지정",
+          "en": "Step 1: Designating a Listening Partner for Dictation",
+          "ja": "ステップ1：口述会話のための聴手パートナーの指定",
+          "zh": "步骤1：确定口述对话的倾听伙伴",
+          "es": "Paso 1: Designación de un Compañero Oyente para el Dictado",
+          "de": "Schritt 1: Bestimmung eines Zuhör-Partners für das Diktat",
+          "fr": "Étape 1 : Désignation d'un partenaire d'écoute pour la dictée",
+          "pt": "Passo 1: Designação de um Parceiro Ouvinte para o Ditado",
+          "id": "Langkah 1: Menentukan Mitra Pendengar untuk Dikte"
         },
         "text": {
-          "ko": "아이디어를 성실히 들어주고 질문을 던져줄 동료나 러닝 파트너를 지정하거나, 가상의 인공지능 대화형 어시스턴트를 켭니다."
+          "ko": "아이디어를 경청하고 질문을 던져줄 동료나 러닝 파트너를 지정하거나, 가상의 대화형 AI 어시스턴트를 실행합니다.",
+          "en": "Designate a trusted colleague or learning partner who will listen attentively and ask clarifying questions, or launch a conversational AI assistant.",
+          "ja": "アイデアを傾聴し質問を投げかけてくれる同僚やラーニングパートナーを指定するか、対話型AIアシスタントを起動します。",
+          "zh": "指定一位能认真倾听并提出澄清性问题的同事或学习伙伴，或开启交互式AI助手。",
+          "es": "Designe a un colega o compañero de aprendizaje que escuche con atención y haga preguntas aclaratorias, o inicie un asistente de IA conversacional.",
+          "de": "Bestimmen Sie einen Kollegen oder Lernpartner, der aufmerksam zuhört und klärende Fragen stellt, oder starten Sie einen interaktiven KI-Assistenten.",
+          "fr": "Désignez un collègue ou partenaire d'apprentissage qui écoutera attentivement et posera des questions d'éclaircissement, ou lancez un assistant IA conversationnel.",
+          "pt": "Designe um colega ou parceiro de aprendizagem que escute com atenção e faça perguntas esclarecedoras, ou inicie um assistente de IA conversacional.",
+          "id": "Tentukan rekan atau mitra belajar yang akan mendengarkan dengan penuh perhatian dan mengajukan pertanyaan klasifikasi, atau jalankan asisten AI interaktif."
         }
       },
       {
         "name": {
-          "ko": "핵심 질문 선언 후 설명 개시"
+          "ko": "2단계: 핵심 질문 선언 및 소리 내어 가볍게 설명하기",
+          "en": "Step 2: Stating the Core Question & Explaining Ideas Aloud",
+          "ja": "ステップ2：核心質問の宣言と声に出した軽やかな説明",
+          "zh": "步骤2：界定核心问题与轻快口述阐述",
+          "es": "Paso 2: Declaración de la Pregunta Principal y Explicación en Voz Alta",
+          "de": "Schritt 2: Formulieren der Kernfrage & Lautes Erklären von Ideen",
+          "fr": "Étape 2 : Énonciation de la question essentielle & Explication des idées à voix haute",
+          "pt": "Passo 2: Declaração da Pergunta Central e Explicação em Voz Alta",
+          "id": "Langkah 2: Menyatakan Pertanyaan Inti & Menjelaskan Ide Secara Nyaring"
         },
         "text": {
-          "ko": "해결해야 하는 단 하나의 질문을 파트너에게 선언한 뒤, 가상의 칠판에 그리듯이 자신의 생각을 소리 내어 가볍게 설명하기 시작합니다."
+          "ko": "해결하고자 하는 단 하나의 핵심 질문을 상대방에게 선언한 뒤, 가상의 칠판에 그리듯 자신의 생각을 소리 내어 가볍게 설명하기 시작합니다.",
+          "en": "State the single core question you wish to resolve to your partner, then begin casually explaining your thoughts aloud as if drawing on an imaginary chalkboard.",
+          "ja": "解決したいたった一つの核心質問を相手に宣言した後、仮想の黒板に描くように自分の考えを声に出して軽やかに説明し始めます。",
+          "zh": "向对方明确界定拟解决的唯一核心问题，然后像在虚拟黑板上书画一样，将自己的想法脱口阐述。",
+          "es": "Declare a su interlocutor la pregunta principal que desea resolver, y luego comience a explicar sus pensamientos en voz alta como si dibujara en una pizarra imaginaria.",
+          "de": "Formulieren Sie die Kernfrage, die Sie lösen möchten, gegenüber Ihrem Partner und beginnen Sie, Ihre Gedanken laut zu erklären, als ob Sie an einer imaginären Tafel zeichnen.",
+          "fr": "Énoncez la question essentielle que vous souhaitez résoudre à votre partenaire, puis commencez à expliciter vos pensées à voix haute comme si vous dessiniez sur un tableau virtuel.",
+          "pt": "Declare ao seu parceiro a pergunta central que deseja resolver e comece a explicar seus pensamentos em voz alta como se estivesse desenhando em um quadro imaginário.",
+          "id": "Nyatakan satu pertanyaan inti yang ingin Anda selesaikan kepada mitra bicara Anda, lalu mulailah menjelaskan pikiran Anda secara nyaring seolah-olah menggambar di papan tulis imajiner."
         }
       },
       {
         "name": {
-          "ko": "질문에 기반한 생각 수정 및 메모"
+          "ko": "3단계: 질문 기반의 모순 수정 및 핵심 구술 받아적기",
+          "en": "Step 3: Refining Contradictions via Questions & Transcribing Key Phrasings",
+          "ja": "ステップ3：質問に基づく矛盾の修正と核心口述の書き留め",
+          "zh": "步骤3：基于提问修正矛盾与记录核心口述",
+          "es": "Paso 3: Refinación de Contradicciones Mediante Preguntas y Transcripción de Frases Clave",
+          "de": "Schritt 3: Korrigieren von Widersprüchen durch Fragen & Aufzeichnen von Schlüsselformulierungen",
+          "fr": "Étape 3 : Correction des contradictions via les questions & Transcription des formulations clés",
+          "pt": "Passo 3: Correção de Contradições via Perguntas e Transcrição de Frases-Chave",
+          "id": "Langkah 3: Memperbaiki Kontradiksi Melalui Pertanyaan & Mencatat Formulasi Kunci"
         },
         "text": {
-          "ko": "파트너의 질문이나 자신의 구술 과정에서 발견된 아이디어의 모순점과 정돈된 해결책의 실마리를 즉시 노트에 기록하여 수집합니다."
+          "ko": "상대방의 질의나 스스로 말하는 과정에서 감지된 아이디어의 모순점을 수정하고, 명료하게 정돈된 문장이나 단어를 즉시 노트나 문서로 받아적어 기록합니다.",
+          "en": "Fix logical flaws or contradictions exposed through your partner's questions or your own speaking process, and immediately write down or dictate refined sentences and key concepts into notes.",
+          "ja": "相手の質問や自ら語る過程で感知されたアイデアの矛盾点を修正し、明瞭に整理された文章や単語を直ちにノートや文書に書き留めて記録します。",
+          "zh": "基于对方的提问或自身述说过程中察觉到的漏洞修正逻辑矛盾，并立即将厘清的语句与核心概念记录于笔记或文档中。",
+          "es": "Corrija fallos lógicos o contradicciones expuestas a través de las preguntas de su compañero o de su propio discurso, y anote o dicte de inmediato oraciones refinadas y conceptos clave en sus notas.",
+          "de": "Beheben Sie logische Schwachstellen oder Widersprüche, die durch Fragen Ihres Partners oder beim Sprechen aufgedeckt werden, und notieren oder diktieren Sie präzisierte Sätze und Schlüsselkonzepte sofort.",
+          "fr": "Corrigez les failles logiques ou contradictions révélées par les questions de votre partenaire ou votre propre prise de parole, et notez ou dictez immédiatement les phrases affinées et concepts clés dans vos notes.",
+          "pt": "Corrija falhas lógicas ou contradições expostas pelas perguntas do parceiro ou pelo seu próprio discurso, e anote ou dite imediatamente frases refinadas e conceitos-chave em suas notas.",
+          "id": "Perbaiki kelemahan logika atau kontradiksi yang terungkap melalui pertanyaan mitra bicara atau proses berbicara Anda sendiri, lalu segera catat atau mendiktekan kalimat yang telah disempurnakan dan konsep kunci ke dalam catatan."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "대화를 나눌 파트너나 동료가 없는 1인 환경에서는 어떻게 실천하나요?"
+          "ko": "대화를 나눌 파트너나 동료가 없는 1인 환경에서는 어떻게 실천하나요?",
+          "en": "How can I practice this routine in a solo environment without a partner?",
+          "ja": "対話するパートナーや同僚がいない1人環境ではどのように実践しますか？",
+          "zh": "在没有沟通伙伴或同事的独处环境下该如何践行？",
+          "es": "¿Cómo puedo practicar esta rutina en un entorno solitario sin un compañero?",
+          "de": "Wie kann ich diese Routine in einer Einzelsituation ohne Partner praktizieren?",
+          "fr": "Comment pratiquer cette routine dans un environnement solitaire sans partenaire ?",
+          "pt": "Como posso praticar esta rotina em um ambiente solo sem um parceiro?",
+          "id": "Bagaimana cara mempraktikkan rutinitas ini dalam lingkungan solo tanpa mitra bicara?"
         },
         "answer": {
-          "ko": "스마트폰의 음성 메모나 AI 녹음기를 켜놓고 혼잣말로 설명하듯 생각을 읊조리는 것으로 대체할 수 있습니다. 중요한 것은 청자의 존재가 아닌, 생각을 소리 내어 언어로 객관화하는 대뇌 자극 프로세스입니다."
+          "ko": "스마트폰의 음성 메모나 AI 녹음 앱을 켜두고 가상의 청자에게 설명하듯 소리 내어 말하는 것으로 대체할 수 있습니다. 핵심은 청자의 실제 유무가 아니라, 내면의 생각을 소리(외적 언어)로 변환해 뇌로 다시 청취하는 인지 자극 프로세스에 있습니다.",
+          "en": "You can substitute by turning on a smartphone voice memo or AI recorder app and speaking aloud as if explaining to an imaginary listener. The crucial factor is not the physical presence of a listener, but the cognitive stimulation process of converting inner thoughts into external spoken language and re-auditing them.",
+          "ja": "スマートフォンの音声メモやAI録音アプリを起動し、仮想の聴手に説明するように声に出して話すことで代替できます。重要なのは聴手の実際の有無ではなく、内面の考えを声（外的言語）へと変換し脳で再び聴取する認知刺激プロセスにあります。",
+          "zh": "可以通过开启手机语音备忘录或AI录音应用，像向虚拟听众讲解一样脱口阐述来进行替代。关键不在于听众是否真实存在，而在于将内在想法转化为声音（外在语言）并由大脑重新倾听的认知刺激过程。",
+          "es": "Puede sustituirlo encendiendo la grabadora de voz o una aplicación de notas de voz por IA en su teléfono y hablando en voz alta como si le explicara a un oyente imaginario. El factor crucial no es la presencia física de un oyente, sino el proceso de estimulación cognitiva de convertir los pensamientos internos en lenguaje hablado externo para auditarlos nuevamente.",
+          "de": "Sie können dies ersetzen, indem Sie eine Sprachmemo- oder KI-Diktat-App auf Ihrem Smartphone einschalten und laut sprechen, als ob Sie es einem imaginären Zuhörer erklären. Der entscheidende Faktor ist nicht die physische Anwesenheit eines Zuhörers, sondern der kognitive Stimulationsprozess, innere Gedanken in äußere gesprochene Sprache umzuwandeln und diese neu zu auditieren.",
+          "fr": "Vous pouvez y suppléer en activant un enregistreur vocal ou une application IA sur votre smartphone et en parlant à voix haute comme si vous expliquiez à un auditeur virtuel. Le facteur crucial n'est pas la présence physique d'un auditeur, mais le processus de stimulation cognitive consistant à convertir la pensée intérieure en langage parlé externe pour le réécouter.",
+          "pt": "Você pode substituir ligando um gravador de voz ou aplicativo de notas de voz com IA no celular e falando em voz alta como se estivesse explicando a um ouvinte imaginário. O fator crucial não é a presença física de um ouvinte, mas o processo de estimulação cognitiva de converter pensamentos internos em linguagem falada externa para reauditá-los.",
+          "id": "Anda dapat menggantinya dengan mengaktifkan memo suara smartphone atau aplikasi perekam AI dan berbicara secara nyaring seolah-olah menjelaskan kepada pendengar imajiner. Faktor krusial bukanlah keberadaan fisik pendengar, melainkan proses stimulasi kognitif dalam mengonversi pikiran batin menjadi bahasa lisan luar dan mendengarkannya kembali."
         }
       },
       {
         "question": {
-          "ko": "구술 토론 중 나온 내용을 어떻게 생산적인 결과물로 연결하나요?"
+          "ko": "구술 토론 중 나온 대화 내용을 어떻게 생산적인 문서 결과물로 연결하나요?",
+          "en": "How can I translate the output of oral discussion into productive written documentation?",
+          "ja": "口述討論中に出た会話内容をどのように生産的な文書成果物へと接続しますか？",
+          "zh": "如何将口述讨论中产生的想法转化为高产出的文档成果？",
+          "es": "¿Cómo puedo convertir el contenido de la discusión oral en documentación escrita productiva?",
+          "de": "Wie kann ich die Ergebnisse mündlicher Diskussionen in produktive schriftliche Dokumente umwandeln?",
+          "fr": "Comment transformer le contenu d'une discussion orale en un document écrit productif ?",
+          "pt": "Como posso converter o conteúdo da discussão oral em documentação escrita produtiva?",
+          "id": "Bagaimana cara mengubah hasil diskusi lisan menjadi dokumentasi tertulis yang produktif?"
         },
         "answer": {
-          "ko": "말하는 도중 얻은 깨달음을 즉시 수첩에 간단히 적어두거나, AI 음성 인식(STT) 변환 결과를 나중에 문서로 저장하여 핵심 아이디어 노드로 정리하면 좋습니다."
+          "ko": "말하는 도중 불현듯 얻은 통찰을 수첩에 키워드로 즉시 기록하거나, 음성-텍스트 변환(STT, Speech-to-Text) 앱을 활용해 자동으로 텍스트화한 뒤, 딥 워크 시간에 핵심 구조로 재정리하는 방식을 추천합니다.",
+          "en": "We recommend immediately jotting down sudden insights as keywords during speech, or utilizing Speech-to-Text (STT) tools to automatically transcribe the session, and then re-structuring the raw text into a core outline during deep work.",
+          "ja": "語っている途中でふと得た洞察をメモ帳にキーワードで即座に記録するか、音声テキスト変換（STT、Speech-to-Text）ツールを活用して自動的にテキスト化し、ディープ・ワークの時間に核心構造へと再整理する方式をお勧めします。",
+          "zh": "建议在表达过程中将突发的洞察以关键词形式记录于随身手册中，或利用语音转文字（STT）工具进行自动记录，随后在深度工作时间将原始文本重新梳理为核心逻辑框架。",
+          "es": "Recomendamos anotar de inmediato las intuiciones repentinas como palabras clave mientras habla, o utilizar herramientas de voz a texto (STT) para transcribir la sesión automáticamente, para luego reestructurar el texto preliminar en un esquema principal durante el trabajo profundo.",
+          "de": "Wir empfehlen, plötzliche Erkenntnisse während des Sprechens sofort als Schlüsselwörter zu notieren oder Speech-to-Text-Tools (STT) zu nutzen, um die Sitzung automatisch zu transkribieren und den Text dann während einer Deep-Work-Phase in eine Kernstruktur umzuordnen.",
+          "fr": "Nous recommandons de noter immédiatement les intuitions soudaines sous forme de mots-clés pendant le discours, ou d'utiliser des outils de reconnaissance vocale (STT) pour transcrire automatiquement la session, puis de réorganiser le texte brut en un plan structuré pendant le travail profond.",
+          "pt": "Recomendamos anotar imediatamente percepções repentinas como palavras-chave enquanto fala, ou utilizar ferramentas de voz para texto (STT) para transcrever a sessão automaticamente, e depois reestruturar o texto em um esboço principal durante o trabalho profundo.",
+          "id": "Kami menyarankan untuk segera mencatat wawasan yang tiba-tiba muncul sebagai kata kunci saat berbicara, atau menggunakan alat Speech-to-Text (STT) untuk mentranskripsikan sesi secara otomatis, lalu merapikan ulang teks mentah menjadi kerangka inti selama sesi kerja mendalam."
         }
       }
     ]

@@ -8,7 +8,7 @@ tags: ["위습관","루틴"]
 heroImage: "/images/blog/anchangho_mirror_smile.png"
 app: "buildself"
 formatVersion: 4
-authority: "Anchangho Mirror Smile 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+authority: "도산 안창호 평전 및 흥사단(興士團) 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
 steps:
   - name: "기상 직후 거울 앞 30초 미소 짓기"
     text: "아침에 잠에서 깨어나 화장실로 향한 직후, 거울 속 나의 눈을 똑바로 응시하며 의도적으로 30초 동안 밝게 미소를 짓는 안면 근육 의식을 치릅니다."
@@ -28,7 +28,7 @@ faqs:
 
 많은 현대인들이 복잡한 생각과 아침의 무기력함에 짓눌려 하루를 시작하곤 합니다. 하지만 거울 앞에서 인위적으로라도 미소를 짓는 것과 주변 환경을 시각적으로 정돈하는 일은 인지과학적으로 뇌에 강력한 리프레시 자극을 주는 검증된 행동 요법입니다. 뇌는 표정 근육의 긴장을 통해 감정을 역추적하며, 깨끗한 환경은 뇌가 정보 처리에 소모하는 인지적 에너지를 절약해 줍니다.
 
-오늘 BuildSelf에서는 도산 안창호가 평생 실천한 거울 미소와 청결 루틴 속에 내포된 안면 피드백 이론과 공간 심리학의 원리를 분석하고, 현대인이 매일 아침 인지적 각성과 삶의 에너지를 회복하는 3단계 실천 방안을 제시합니다.
+오늘 포스트에서는 도산 안창호가 평생 실천한 거울 미소와 청결 루틴 속에 내포된 안면 피드백 이론과 공간 심리학의 원리를 분석하고, 현대인이 매일 아침 인지적 각성과 삶의 에너지를 회복하는 3단계 실천 방안을 제시합니다.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -37,7 +37,7 @@ faqs:
       역사적 및 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Anchangho Mirror Smile 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 anchangho-mirror-smile 루틴을 다룹니다.
+      본 콘텐츠는 <strong>도산 안창호 평전 및 흥사단(興士團) 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 anchangho-mirror-smile 루틴을 다룹니다.
     </p>
   </div>
 </div>

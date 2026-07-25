@@ -8,7 +8,7 @@ tags: ["위습관","루틴"]
 heroImage: "/images/blog/ashoka_edict_inscribed_reflection.png"
 app: "buildself"
 formatVersion: 4
-authority: "아쇼카 대왕 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+authority: "아쇼카 대왕 석주 칙령(Edicts of Ashoka) 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
 steps:
   - name: "나만의 핵심 가치관 3가지 단어 선언"
     text: "자신이 일상에서 결코 타협하고 싶지 않은 최우선 인격적 가치(예: 정직, 지속성, 몰입) 3가지를 단어로 명확히 정의합니다."
@@ -28,7 +28,7 @@ faqs:
 
 아쇼카 대왕은 자신의 죄책감과 성찰, 그리고 제국이 지켜야 할 평화와 도덕적 가치(Dharma)를 거대한 바위와 석주에 새겨 제국 전역의 영토 길목에 세웠습니다. 그는 단순히 백성들을 가르치기 위함이 아니라, 왕인 자기 자신도 매일 석주에 새겨진 비문을 되새기며 자신의 행동이 가치관에 부합하는지 점검했습니다. 굳건한 바위에 새겨진 비문은 변덕스러운 인간의 감정에 흔들리지 않는 강력한 시각적 닻(Visual Anchor) 역할을 해주었습니다.
 
-오늘 BuildSelf에서는 아쇼카 대왕의 '가치관 비문 되새김' 루틴의 뇌과학적 작동 원리와 현대인들이 자신의 핵심 가치를 일상에서 복원하는 3단계 실천 가이드를 공개합니다.
+오늘 포스트에서는 아쇼카 대왕의 '가치관 비문 되새김' 루틴의 뇌과학적 작동 원리와 현대인들이 자신의 핵심 가치를 일상에서 복원하는 3단계 실천 가이드를 공개합니다.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -37,7 +37,7 @@ faqs:
       역사적 및 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>아쇼카 대왕 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 ashoka-edict-inscribed-reflection 루틴을 다룹니다.
+      본 콘텐츠는 <strong>아쇼카 대왕 석주 칙령(Edicts of Ashoka) 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 ashoka-edict-inscribed-reflection 루틴을 다룹니다.
     </p>
   </div>
 </div>
@@ -46,9 +46,9 @@ faqs:
 
 ## 외부 가치관 닻(Visual Anchor)과 전전두엽 자아 정체성 강화 메커니즘
 
-사람의 감정과 순간적 욕망은 뇌의 시상하부와 변연계의 영향을 받아 수시로 변덕을 부립니다. 아쇼카 대왕처럼 자신의 핵심 신념을 눈에 보이는 물리적 구조물로 외재화(Externalization)하면, 뇌는 물리적 텍스트를 인식하는 즉시 <strong></strong> 효과를 발동시킵니다.
+사람의 감정과 순간적 욕망은 뇌의 시상하부와 변연계의 영향을 받아 수시로 변덕을 부립니다. 아쇼카 대왕처럼 자신의 핵심 신념을 눈에 보이는 물리적 구조물로 외재화(Externalization)하면, 뇌는 물리적 텍스트를 인식하는 즉시 <strong>'시각적 닻 내리기(Visual Anchoring)'</strong> 효과를 발동시킵니다.
 
-매일 정해진 시각에 자신의 핵심 가치를 눈으로 보고 읽는 행위는 전전두엽 피질의 <strong></strong>를 강하게 자극하여, 순간적 유혹이나 피로 속에서도 자신이 지켜야 할 올바른 행동을 선제적으로 선택하도록 돕습니다.
+매일 정해진 시각에 자신의 핵심 가치를 눈으로 보고 읽는 행위는 전전두엽 피질의 <strong>'자기 참조 처리 회로(Self-Referential Processing)'</strong>를 강하게 자극하여, 순간적 유혹이나 피로 속에서도 자신이 지켜야 할 올바른 행동을 선제적으로 선택하도록 돕습니다.
 
 ---
 

@@ -1,70 +1,214 @@
 {
   "da-vinci-notepad": {
     "title": {
-      "ko": "허리춤에 항상 수첩을 매달아 둔 천재? 레오나르도 다 빈치의 즉시 메모 습관"
+      "ko": "허리춤에 항상 수첩을 매달아 둔 천재: 레오나르도 다 빈치의 즉시 메모 습관과 작업 기억 외재화",
+      "en": "The Genius Who Always Wore a Notebook at His Waist: Leonardo da Vinci's Instant Note-Taking and Working Memory Externalization",
+      "ja": "腰にいつも手帳をぶら下げていた天才：レオナルド・ダ・ヴィンチの即時メモ習慣と作業記憶の外在化",
+      "zh": "腰间时刻佩戴手账的天才：列奥纳多·达·芬奇的即时笔记与工作记忆外化习惯",
+      "es": "El Genio que Siempre Llevaba un Cuaderno en la Cintura: La Rutina de Anotación Inmediata y Externalización de Memoria de Leonardo da Vinci",
+      "de": "Das Genie mit dem Notizbuch am Gürtel: Leonardo da Vincis sofortige Notizroutine und Externalisierung des Arbeitsgedächtnisses",
+      "fr": "Le génie qui portait toujours un carnet à la ceinture : La routine de prise de notes instantanée et d'externalisation de la mémoire de Léonard de Vinci",
+      "pt": "O Gênio que Sempre Carregava um Caderno na Cintura: A Rotina de Anotação Imediata e Externalização de Memória de Leonardo da Vinci",
+      "id": "Genius yang Selalu Membawa Buku Catatan di Pinggangnya: Rutinitas Pencatatan Seketika dan Eksternalisasi Memori Kerja ala Leonardo da Vinci"
     },
     "description": {
-      "ko": "역사상 가장 다재다능한 천재 레오나르도 다 빈치. 항상 수첩을 소지하며 떠오르는 생각을 즉시 기록했던 그의 메모 습관과 뇌과학적 원리, 현대인을 위한 3단계 실천법을 전합니다."
+      "ko": "르네상스의 거장 레오나르도 다 빈치가 허리춤에 가죽 수첩을 매달고 관찰과 영감을 즉시 기록했던 메모 습관. 작업 기억(Working Memory) 용량을 비워내는 '외재화(Externalization)'와 인지 부하 감소의 인지신경과학적 원리를 밝깁니다.",
+      "en": "Discover how Renaissance polymath Leonardo da Vinci kept a leather-bound notebook tied to his waist to instantly record observations and ideas. Explore the cognitive neuroscience of externalizing working memory to clear cognitive load.",
+      "ja": "ルネサンスの巨匠レオナルド・ダ・ヴィンチが腰に革の手帳をぶら下げ観察とインスピレーションを即座に記録したメモ習慣。作業記憶（Working Memory）容量を空ける「外在化（Externalization）」と認知負荷減少の神経科学的原理を解き明かします。",
+      "zh": "探索文艺复兴巨匠列奥纳多·达·芬奇腰间系着皮质手账随手捕捉观察与灵感的习惯，揭示释放工作记忆（Working Memory）容量的“外化（Externalization）”与降低认知负荷的神经科学原理。",
+      "es": "Descubra cómo el polímata del Renacimiento Leonardo da Vinci llevaba un cuaderno de cuero atado a la cintura para registrar observaciones. Explore la neurociencia cognitiva de externalizar la memoria de trabajo para liberar carga cognitiva.",
+      "de": "Erkunden Sie, wie das Renaissance-Genie Leonardo da Vinci ein ledergebundenes Notizbuch am Gürtel trug, um Beobachtungen sofort festzuhalten. Entdecken Sie die kognitiven Neurowissenschaften der Externalisierung des Arbeitsgedächtnisses.",
+      "fr": "Découvrez comment le polymathe de la Renaissance Léonard de Vinci gardait un carnet attaché à la ceinture pour consigner ses observations. Explorez la neuroscience cognitive de l'externalisation de la mémoire de travail pour libérer la charge cognitive.",
+      "pt": "Descubra como o polímata renascentista Leonardo da Vinci mantinha um caderno de couro preso à cintura para registrar observações. Explore a neurociência cognitiva de externalizar a memória de trabalho para liberar carga cognitiva.",
+      "id": "Pelajari bagaimana cendekiawan Renaisans Leonardo da Vinci menyimpan buku catatan bersampul kulit yang diikatkan ke pinggangnya untuk mencatat pengamatan. Temukan neurosains kognitif dari mengamankan memori kerja untuk mengosongkan beban kognitif."
     },
     "authority": {
-      "ko": "월터 아이작슨 『레오나르도 다 빈치(Leonardo da Vinci)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+      "ko": "월터 아이작슨 평전 『레오나르도 다 빈치(Leonardo da Vinci)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+      "en": "Historical Verification from Walter Isaacson's Biography *Leonardo da Vinci* & Cognitive Neuroscience Research",
+      "ja": "ウォルター・アイザックソン伝記『Leonardo da Vinci』考証＆認知神経科学（Cognitive Neuroscience）研究",
+      "zh": "沃尔特·艾萨克森传记《达·芬奇传（Leonardo da Vinci）》考证与认知神经科学（Cognitive Neuroscience）研究",
+      "es": "Verificación Histórica de la Biografía de Walter Isaacson *Leonardo da Vinci* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)",
+      "de": "Historische Überprüfung aus Walter Isaacsons Biografie *Leonardo da Vinci* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)",
+      "fr": "Vérification Historique issue de la biographie de Walter Isaacson *Léonard de Vinci (Leonardo da Vinci)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)",
+      "pt": "Verificação Histórica da Biografia de Walter Isaacson *Leonardo da Vinci* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)",
+      "id": "Verifikasi Historis dari Biografi Walter Isaacson *Leonardo da Vinci* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"
     },
     "intro": {
-      "ko": "미술, 과학, 해부학, 기하학, 음악, 토목 공학 등 다방면에서 인류 역사상 유례를 찾을 수 없는 초인적인 업적을 남긴 르네상스의 절대적 거장, 레오나르도 다 빈치. 그가 가졌던 천재적인 창의성과 지식 융합 능력의 원천은 어디에 있었을까요? 📓\n\n그 비밀은 바로 그가 평생 고수했던 아주 단순하지만 강력한 습관에 있습니다. 다 빈치는 길을 걷거나, 사람들과 대화를 나누거나, 일을 하다가도 언제 어디서든 영감이 떠오르면 즉시 기록할 수 있도록 평생 가죽으로 제본된 작은 수첩을 허리띠에 묶어 매달고 다녔습니다.\n\n그는 시장통에서 기이한 외모나 독특한 표정을 지닌 사람을 발견하면 그가 시야에서 완전히 사라질 때까지 집요하게 쫓아가며 수첩에 크로키를 그렸고, 강물의 물소용돌이나 새의 날개짓을 관찰하면 그 물리적 규칙을 즉석에서 스케치했습니다. 그가 남긴 이 낙서와 메모들은 훗날 회화, 비행체 설계, 해부학적 발견의 밑바탕이 된 수천 장의 '다빈치 코덱스(Codex)'로 발전하여 오늘날까지 인류의 보물로 남아있습니다.\n\n오늘 포스트에서는 다 빈치의 메모 습관 속에 숨겨진 뇌과학적 비밀과 현대인들이 일상에서 아이디어를 놓치지 않는 즉시 메모 실천법을 소개합니다."
+      "ko": "\"눈에 보이는 모든 사물과 스쳐 지나가는 모든 생각을 즉시 기록하라. 기억에만 의존하는 자는 지식의 거대한 유산을 잃게 된다.\" 📓\n\n미술, 과학, 해부학, 기하학, 음악, 토목 공학 등 다방면에서 인류 역사상 유례를 찾을 수 없는 초인적인 업적을 남긴 르네상스의 절대적 거장 레오나르도 다 빈치(Leonardo da Vinci, 1452–1519). 『모나리자』와 『다빈치 인체도』를 탄생시키고 비행체, 탱크, 수운 운하를 설계했던 그가 가졌던 천재적인 창의성과 독보적인 지식 융합 능력의 원천은 어디에 있었을까요?\n\n그 비밀은 바로 그가 평생 고수했던 아주 단순하지만 강력한 '즉시 메모 습관'에 있었습니다. 다 빈치는 길을 걷거나, 사람들과 대화를 나누거나, 길거리에서 이상한 표정을 한 사람을 마주칠 때 언제 어디서든 영감을 기록할 수 있도록 평생 가죽으로 제본된 작은 수첩을 허리띠에 묶어 매달고 다녔습니다. 그는 소용돌이치는 물의 물리적 운동, 새의 날개짓, 시장통 사람들의 얼굴 윤곽을 현장에서 즉시 스케치하고 텍스트로 적었습니다. 이 파편화된 노트들은 훗날 7,000장에 달하는 '다빈치 코덱스(Codex)'로 모여 세상을 바꾼 불멸의 아이디어가 되었습니다. 즉각적 외재화(Externalization)는 그의 뇌 속 작업 기억(RAM) 공간을 완전 공백 상태로 비워두어 무한한 연상 작용을 가능케 했던 기제였습니다.\n\n오늘 포스트에서는 레오나르도 다 빈치의 '허리춤 수첩 및 즉시 기록' 루틴에 담긴 뇌과학적 원리를 분석하고, 현대인이 아이디어를 유실하지 않고 전전두엽 인지 자원을 최상으로 유지하는 3단계 실천 방안을 소개합니다.",
+      "en": "\"Fix your eye upon the detail, and instantly commit it to paper. He who relies solely on memory loses the greatest heritage of knowledge.\" 📓\n\nLeonardo da Vinci (1452–1519) was the quintessential Renaissance polymath whose unparalleled achievements spanned painting, anatomy, engineering, hydrodynamics, and optics. Celebrated for creating the 'Mona Lisa' and the 'Vitruvian Man' while conceptualizing flying machines and armored vehicles centuries ahead of his time, where did his inexhaustible creative synthesis originate?\n\nThe foundation of his genius was a daily habit of immediate note-taking. Da Vinci permanently attached small, leather-bound notebooks to his waist belt using cords. Whether walking through Milan markets, observing water eddies along riverbanks, or talking with friends, he drew anatomical structures and recorded mechanical physics instantly. These raw jottings accumulated into over 7,000 surviving pages of the 'Da Vinci Codices'. By immediately transferring thoughts from his mind onto paper, he emptied his working memory (RAM), freeing prefrontal processing power for high-level creative synthesis.\n\nIn today's post, we analyze the brain science underlying Leonardo da Vinci's 'belt-attached notebook and instant externalization' routine and present a 3-step practical action plan for modern individuals to eliminate cognitive load and capture fleeting insights.",
+      "ja": "「目に見えるすべての物体とかすめて過ぎるすべての考えを即座に記録せよ。記憶だけに依存する者は知識の巨大な遺産を失うことになる。」 📓\n\n美術、科学、解剖学、幾何学、音楽、土木工学など多方面で人類史上類を見ない超人的な業績を残したルネサンスの絶対的巨匠レオナルド・ダ・ヴィンチ（Leonardo da Vinci、1452–1519）。『モナ・リザ』や『ウィトルウィウス的人体図』を誕生させ、飛行体、戦車、水運運河を設計した彼が持っていた天才的な創造性と独歩的な知識融合能力の原動力はどこにあったのでしょうか？\n\nその秘密は、まさに彼が生涯貫いた非常にシンプルだが強力な「即時メモ習慣」にありました。ダ・ヴィンチは街を歩いたり、人々と会話を交わしたり、街角で奇妙な表情の人に出会った時、いつどこででもインスピレーションを記録できるよう、生涯革で製本された小さな手帳をベルトに縛り付けて持ち歩きました。彼は渦巻く水の物理的運動、鳥の羽ばたき、市場の人々の顔の輪郭を現場で即座にスケッチしテキストとして書き留めました。この断片的なノートは後になんと7,000ページに及ぶ「ダ・ヴィンチ手帳（Codex）」として集まり、世界を変えた不滅のアイデアとなりました。即時的な外在化（Externalization）は、彼の脳内の作業記憶（RAM）空間を完全な空白状態として空けておき、無限の連想作用を可能にさせたメカニズムでした。\n\n本日の記事では、レオナルド・ダ・ヴィンチの「腰の手帳および即時記録」ルーティンに秘められた脳科学的原理を分析し、現代人がアイデアを流出させず前頭前野の認知リソースを最上に維持する3ステップの実践方案を紹介します。",
+      "zh": "\"将双眼所见之物与脑海划过的灵感即刻记录于纸上。唯独依赖记忆者，必将失却知识的宏大遗产。\" 📓\n\n在美术、科学、解剖学、几何学、音乐与土木工程等众多领域皆缔造出人类历史上无与伦比超凡成就的文艺复兴绝对巨匠——列奥纳多·达·芬奇（Leonardo da Vinci，1452–1519）。创作出《蒙娜丽莎》与《维特鲁威人》、并超前时代设计出飞行器、坦克与水利运河的他，其源源不断的创造力与跨学科知识融合能力究竟源自何处？\n\n秘密正源于他终生坚持的极简却强效的“即时笔记习惯”。达·芬奇在腰带上常年系着一本用皮质装订的小巧手账，以便在漫步街头、与人交谈或在集市偶遇奇特面容时，能随时随地将灵感即刻记录下来。他会在现场当即勾勒出漩涡水流的物理动态、鸟类振翅的骨骼轨迹以及过客的面部轮廓。这些零散的手稿最终汇聚成了长达7,000多页的《达·芬奇手稿（Codex）》，成为了改写人类历史的宝贵财富。即时外化（Externalization）能够将他大脑的工作记忆（RAM）彻底腾空，从而为高阶的自由联想释放无限空间。\n\n在今天的文章中，我们将分析列奥纳多·达·芬奇“腰间手账与即时外化”习惯背后的脑科学原理，并为不遗漏任何闪光灵感、维持前额叶皮层极佳认知状态的现代人提供3步骤实践方案。",
+      "es": "\"Fija tu mirada en el detalle e inscríbelo al instante en el papel. Quien confía únicamente en la memoria pierde el mayor legado del conocimiento.\" 📓\n\nLeonardo da Vinci (1452–1519) fue el polímata renacentista cuyos logros abarcaron la pintura, la anatomía, la ingeniería y la óptica. Creador de la 'Mona Lisa' y el 'Hombre de Vitruvio', y diseñador de máquinas voladoras, ¿de dónde procedía su inagotable capacidad de síntesis creativa?\n\nLa base de su genio era su hábito diario de tomar notas de inmediato. Da Vinci llevaba siempre pequeños cuadernos de cuero atados a su cinturón con cordones. Ya fuera caminando por Milán, observando remolinos de agua o conversando con amigos, dibujaba estructuras anatómicas y anotaba principios físicos al instante. Estos apuntes se acumularon en más de 7.000 páginas conservadas en los 'Códices Da Vinci'. Al transferir inmediatamente sus pensamientos al papel, liberaba su memoria de trabajo (RAM), despejando la capacidad prefrontal para una síntesis creativa superior.\n\nEn la publicación de hoy, analizamos la ciencia cerebral que sustenta la rutina de 'cuaderno en el cinturón y externalización inmediata' de Leonardo da Vinci y presentamos un plan práctico de 3 pasos para que las personas modernas eliminen la carga cognitiva y capturen ideas fugaces.",
+      "de": "\"Richte deinen Blick auf das Detail und halte es sofort auf Papier fest. Wer sich nur auf sein Gedächtnis verlässt, verliert das größte Erbe des Wissens.\" 📓\n\nLeonardo da Vinci (1452–1519) war das Renaissance-Genie, dessen Errungenschaften Malerei, Anatomie, Ingenieurwesen und Optik umfassten. Schöpfer der 'Mona Lisa' und des 'Vitruvianischen Menschen' – woher stammte seine unerschöpfliche Kreativität?\n\nDas Fundament seines Genies war das sofortige Notieren. Da Vinci trug stets kleine, ledergebundene Notizbücher am Gürtel. Ob er durch Mailand spazierte, Wasserwirbel beobachtete oder sich unterhielt – er skizzierte anatomische Strukturen und verfasste Notizen auf der Stelle. Diese Aufzeichnungen summierten sich auf über 7.000 Seiten der 'Da-Vinci-Codices'. Durch das Aufschreiben entlastete er sein Arbeitsgedächtnis (RAM) und schaffte Platz für kreatives Denken.\n\nIm heutigen Beitrag analysieren wir die Neurowissenschaft hinter Leonardo da Vincis Routine des 'Notizbuchs am Gürtel und der sofortigen Externalisierung' und stellen einen praktischen 3-Schritte-Aktionsplan für moderne Menschen vor, um kognitive Belastung abzubauen und Ideen festzuhalten.",
+      "fr": "« Fixez votre regard sur le détail et consignez-le immédiatement sur le papier. Celui qui se fie uniquement à sa mémoire perd le plus grand héritage du savoir. » 📓\n\nLéonard de Vinci (1452–1519) était le polymathe de la Renaissance dont les réalisations ont embrassé la peinture, l'anatomie, l'ingénierie et l'optique. Créateur de 'La Joconde' et de 'L'Homme de Vitruve', d'où provenait son inépuisable synthèse créative ?\n\nLa clé de son génie résidait dans une prise de notes instantanée. De Vinci gardait en permanence de petits carnets en cuir attachés à sa ceinture. Qu'il se promène dans Milan, observe les remous de l'eau ou discute avec des amis, il dessinait des structures anatomiques et notait des principes physiques sur-le-champ. Ces ébauches ont formé les 7 000 pages des 'Codex de Vinci'. En transférant immédiatement ses pensées sur le papier, il libérait sa mémoire de travail (RAM), rendant son cortex préfrontal disponible pour la création.\n\nDans l'article d'aujourd'hui, nous analysons la science cérébrale sous-jacente à la routine de « carnet à la ceinture et externalisation immédiate » de Léonard de Vinci et proposons un plan d'action en 3 étapes permettant aux individus modernes d'éliminer la charge cognitive.",
+      "pt": "\"Fixe o olhar no detalhe e registre-o imediatamente no papel. Quem confia apenas na memória perde a maior herança do conhecimento.\" 📓\n\nLeonardo da Vinci (1452–1519) foi o polímata renascentista cujas conquistas abrangeram a pintura, a anatomia, a engenharia e a óptica. Criador da 'Mona Lisa' e do 'Homem Vitruviano', de onde vinha sua inesgotável síntese criativa?\n\nA base do seu gênio era seu hábito diário de tomar notas imediatamente. Da Vinci mantinha pequenos cadernos de couro presos ao cinto com cordões. Fosse caminhando por Milão, observando redemoinhos de água ou conversando com amigos, desenhava estruturas anatômicas e anotava princípios físicos no ato. Esses rascunhos acumularam-se em mais de 7.000 páginas nos 'Códices Da Vinci'. Ao transferir seus pensamentos para o papel, liberava sua memória de trabalho (RAM).\n\nNo artigo de hoje, analisamos a ciência cerebral por trás da rotina do 'caderno no cinto e externalização imediata' de Leonardo da Vinci e apresentamos um plano prático de 3 passos para as pessoas modernas eliminarem a carga cognitiva e capturarem ideias fugazes.",
+      "id": "\"Tataplah detail dengan cermat, dan segera tuangkan ke atas kertas. Siapa yang hanya mengandalkan ingatan akan kehilangan warisan pengetahuan terbesar.\" 📓\n\nLeonardo da Vinci (1452–1519) adalah cendekiawan Renaisans sejati yang pencapaiannya mencakup seni lukis, anatomi, teknik, dan optik. Pencipta 'Mona Lisa' dan 'Vitruvian Man', dari mana sintesis kreatifnya yang tak pernah habis itu berasal?\n\nFondasi dari kejeniusannya adalah kebiasaan harian mencatat secara seketika. Da Vinci secara permanen mengikatkan buku catatan bersampul kulit kecil ke sabuk pinggangnya. Baik saat berjalan menyusuri pasar Milan, mengamati pusaran air, atau berbicara dengan teman-teman, ia langsung menggambar struktur anatomi dan mencatat fisika mekanis pada saat itu juga. Coretan mentah ini terakumulasi menjadi lebih dari 7.000 halaman 'Codex Da Vinci'. Dengan segera mentransfer pikiran dari otaknya ke atas kertas, ia mengosongkan memori kerjanya (RAM).\n\nDalam postingan hari ini, kami menganalisis sains otak di balik rutinitas 'buku catatan di sabuk dan eksternalisasi seketika' Leonardo da Vinci dan menyajikan rencana tindakan praktis 3 langkah bagi masyarakat modern untuk mengeliminasi beban kognitif."
     },
     "whyTitle": {
-      "ko": "뇌의 램(RAM) 용량을 비워주는 외재화 효과"
+      "ko": "작업 기억(RAM) 용량을 비워내는 외재화(Externalization)와 인지 부하 감소",
+      "en": "Working Memory (RAM) Offloading via Externalization and Cognitive Load Reduction",
+      "ja": "作業記憶（RAM）容量を空ける外在化（Externalization）と認知負荷減少",
+      "zh": "通过外化（Externalization）清空工作记忆（RAM）与降低认知负荷机制",
+      "es": "Liberación de la Memoria de Trabajo (RAM) Mediante la Externalización y Reducción de Carga Cognitiva",
+      "de": "Entlastung des Arbeitsgedächtnisses (RAM) durch Externalisierung und kognitive Entlastung",
+      "fr": "Libération de la mémoire de travail (RAM) via l'externalisation et la réduction de la charge cognitive",
+      "pt": "Liberação da Memória de Trabalho (RAM) Via Externalização e Redução da Carga Cognitiva",
+      "id": "Pelepasan Memori Kerja (RAM) Melalui Eksternalisasi dan Pengurangan Beban Kognitif"
     },
     "whyDesc": {
-      "ko": "우리의 뇌는 아이디어를 보관하는 창고라기보다는, 정보를 처리하고 연상하는 CPU(중앙처리장치)에 가깝습니다.\n\n인지심리학에 따르면, 인간의 작동 기억(Working Memory) 용량은 극히 한계가 있어 새로 떠오른 영감이나 정보를 기록하지 않고 머릿속에만 가두어 두면 이를 유지하기 위해 엄청난 인지적 에너지(Cognitive Load)를 지속적으로 소모하게 됩니다. 다 빈치처럼 영감을 수첩에 즉시 적어 물리적으로 옮겨 담는 '외재화(Externalization)' 과정을 거치면, 뇌는 정보 유지 의무에서 해방되어 뇌의 작업 기억 영역(RAM)을 깨끗하게 비우게 됩니다. 비워진 뇌는 비로소 새로운 연상을 펼치며 고차원적인 창의적 사유를 시작할 수 있게 됩니다."
+      "ko": "인간의 뇌는 아이디어를 장기 보관하는 창고라기보다, 정보를 가공하고 연상하는 대뇌 CPU(중앙처리장치)에 가깝습니다. 인지심리학 연구에 따르면, 인간의 작업 기억(Working Memory) 용량은 3~5개의 덩어리로 극히 제한되어 있어, 새로 떠오른 아이디어를 글로 적지 않고 머릿속에 억지로 가두어 두면 이를 유지하기 위해 전전두엽 자원(Cognitive Load)을 불필요하게 소모하게 됩니다. 다 빈치처럼 영감을 수첩에 즉시 기재하여 물리적 매체로 옮기는 '외재화(Externalization)' 프로세스를 거치면, 뇌는 정보 유지 부하에서 벗어나 작업 기억(RAM)을 완전 공백 상태로 비우게 됩니다. 비워진 전전두엽은 비로소 고차원적인 창의적 사유와 자발적 연상 작용을 폭발적으로 가동시킵니다.",
+      "en": "The human brain functions less like a permanent storage warehouse and more like a processing CPU that active-associates ideas. Cognitive psychology shows that human Working Memory capacity is strictly limited to 3 to 5 chunks of information. Holding onto fleeting thoughts without recording them forces the prefrontal cortex to burn glucose maintaining that data, inducing severe Cognitive Load. Instant 'Externalization'—physically writing down or sketching ideas the second they emerge—offloads working memory (RAM). Clearing working memory frees prefrontal executive capacity, allowing the brain to spontaneously link disparate ideas and execute high-level creative synthesis.",
+      "ja": "人間の脳はアイデアを長期保管する倉庫というよりは、情報を加工し連想する大脳CPU（中央処理装置）に近いです。認知心理学の研究によると、人間の作業記憶（Working Memory）容量は3〜5個のチャンクに極めて制限されており、新しく浮かんだアイデアを文章として書かずに頭の中に無理に閉じ込めておくと、これを維持するために前頭前野のリソース（Cognitive Load）を不要に消費することになります。ダ・ヴィンチのようにインスピレーションを手帳に即座に記載して物理的媒体に移す「外在化（Externalization）」プロセスを経ると、脳は情報維持の負荷から脱出し、作業記憶（RAM）を完全な空白状態として空けることになります。空けられた前頭前野は初めて高度な創造的思索と自発的連想作用を爆発的に稼働させます。",
+      "zh": "人类的大脑相比于长期存贮信息的仓库，更接近于处理与联想信息的大脑中央处理器（CPU）。根据认知心理学研究，人类的工作记忆（Working Memory）容量极其有限（仅能容纳3-5个信息块），若将最新涌现的灵感强行留存于脑海中而不书写下来，前额叶皮层便不得不耗费宝贵的资源（Cognitive Load）去维持这些数据。像达·芬奇那样将灵感当即记录于手账并转移至物理介质的“外化（Externalization）”过程，能够使大脑从维持信息的重负中解脱出来，将工作记忆（RAM）彻底清空。被腾空的前额叶皮层方能爆发式启动高阶的创造性思考与自发联想重组。",
+      "es": "El cerebro humano funciona menos como un almacén permanente y más como una CPU procesadora. La psicología cognitiva muestra que la capacidad de la Memoria de Trabajo es limitada (de 3 a 5 elementos). Retener pensamientos sin registrarlos obliga a la corteza prefrontal a consumir glucosa, generando Carga Cognitiva. La 'Externalización' inmediata —escribir o dibujar ideas en cuanto surgen— libera la memoria de trabajo (RAM). Al limpiarla, se despeja la capacidad prefrontal, permitiendo al cerebro conectar ideas dispersas y realizar una síntesis creativa.",
+      "de": "Das menschliche Gehirn funktioniert weniger wie ein Lagerhaus, sondern wie ein Prozessor (CPU). Die kognitive Psychologie zeigt, dass die Kapazität des Arbeitsgedächtnisses stark begrenzt ist (3 bis 5 Einheiten). Das Festhalten von Gedanken ohne Aufzeichnen erzwingt kognitive Belastung (Cognitive Load). Die sofortige 'Externalisierung' – das Aufschreiben oder Skizzieren von Ideen – entlastet das Arbeitsgedächtnis (RAM). Dies setzt präfrontale Kapazitäten frei, was spontane Assoziationen ermöglicht.",
+      "fr": "Le cerveau humain fonctionne moins comme un entrepôt de stockage que comme un processeur (CPU). La psychologie cognitive montre que la capacité de la mémoire de travail est limitée (3 à 5 éléments). Conserver des pensées sans les consigner force le cortex préfrontal à consommer de l'énergie, provoquant une Charge Cognitive. L'« Externalisation » immédiate — écrire ou dessiner les idées dès leur apparition — décharge la mémoire de travail (RAM). Cette libération rend disponible le cortex préfrontal pour la synthèse créative.",
+      "pt": "O cérebro humano funciona menos como um armazém permanente e mais como uma CPU processadora. A psicologia cognitiva demonstra que a capacidade da Memória de Trabalho é limitada (3 a 5 elementos). Reter pensamentos sem registrá-los obriga o córtex pré-frontal a consumir glicose, gerando Carga Cognitiva. A 'Externalização' imediata — escrever ou desenhar ideias assim que surgem — descarrega a memória de trabalho (RAM). Ao limpá-la, libera-se a capacidade pré-frontal para a síntese criativa.",
+      "id": "Otak manusia berfungsi kurang seperti gudang penyimpanan permanen dan lebih seperti CPU pemroses yang secara aktif mengasosiasikan ide. Psikologi kognitif menunjukkan bahwa kapasitas Memori Kerja manusia sangat terbatas (3 hingga 5 kelompok informasi). Menahan pikiran tanpa mencatatnya memaksa korteks prefrontal membakar glukosa untuk mempertahankan data tersebut, memicu Beban Kognitif yang parah. 'Eksternalisasi' seketika—secara fisik menuliskan atau menggambar ide saat muncul—melepas memori kerja (RAM). Mengosongkan memori kerja membebaskan kapasitas eksekutif prefrontal."
     },
     "cautionTitle": {
-      "ko": "성공적인 루틴을 위한 뇌과학적 한마디"
+      "ko": "주의사항 및 팁: 즉시 외재화와 머릿속 인지적 유지 스트레스 차단",
+      "en": "Caution & Tips: Immediate Externalization & Blocking Internal Retention Stress",
+      "ja": "注意事項＆ヒント：即時外在化と頭の中の認知的維持ストレスの遮断",
+      "zh": "注意事项与提示：做到即时外化与阻断脑海存留带来的认知压力",
+      "es": "Precauciones y Consejos: Externalización Imediata y Bloqueo del Estrés de Retención Interna",
+      "de": "Vorsichtsmaßnahmen & Tipps: Sofortige Externalisierung & Vermeidung gedanklicher Überlastung",
+      "fr": "Précautions & Conseils : Externalisation immédiate & Prévention du stress de rétention",
+      "pt": "Precauções e Dicas: Externalização Imediata e Bloqueio do Estresse de Retenção Interna",
+      "id": "Perhatian & Tip: Eksternalisasi Seketika & Memblokir Stres Retensi Internal"
     },
     "cautionDesc": {
-      "ko": "<strong>메모는 뇌의 인지적 피로를 막는 방패입니다.</strong>\n\n기억해 두려고 애쓰는 행위 자체가 뇌에 미세한 스트레스와 피로를 축적합니다. 다 빈치처럼 영감을 즉시 외부 공간으로 옮겨 담는 습관을 들이면, 뇌는 온전히 '생각하고 창조하는 본연의 역할'에 백퍼센트의 에너지를 쏟을 수 있습니다. 일상 속 소소한 생각이라도 떠오른 순간 가볍게 기록해 두는 습관을 오늘부터 시작해 보세요."
+      "ko": "메모 습관의 목적은 뇌에 기억 유치의 부담을 주지 않는 데 있습니다. \"나중에 적어야지\"하고 영감을 머릿속에 붙잡아두는 행동은 전전두엽에 미세한 스트레스와 인지 피로를 누적시킵니다. 정교하게 정돈해서 적으려 하지 말고, 단어 하나나 거친 스케치라도 좋으니 영감이 스친 직후 5초 이내에 외부 매체에 즉시 던져 넣어야 뇌의 작업 기억 영역이 완벽하게 보호됩니다.",
+      "en": "The core goal of note-taking is removing the mental burden of retention from your brain. Thinking 'I'll write this down later' forces your prefrontal cortex to continuously hold data, generating subtle stress and cognitive fatigue. Do not worry about neatness or structure during initial capture. Writing down even a single keyword or rough doodle within 5 seconds of an insight emerging empties working memory and preserves prefrontal processing power.",
+      "ja": "メモ習慣の目的は、脳に記憶維持の負担を与えないことにあります。「後で書こう」とインスピレーションを頭の中に留めておく行動は、前頭前野に微細なストレスと認知疲労を蓄積させます。精緻に整理して書こうとせず、単語一つや荒いスケッチでも良いので、インスピレーションがかすめた直後5秒以内に外部媒体へと即座に投げ込んでこそ、脳の作業記憶領域が完璧に保護されます。",
+      "zh": "随手笔记习惯的本质，在于彻底卸下大脑维持记忆的重负。抱着“过会儿再记”的心态将灵感留存于脑海中，会导致前额叶皮层不断积聚微观压力与认知疲劳。初次记录时切忌追求整洁严密，即便是单一词汇或潦草图鸦，也请在灵感划过的5秒内当即投射至外部介质上，如此方能完美保护大脑的工作记忆区。",
+      "es": "El objetivo central de tomar notas es eliminar la carga mental de la retención. Pensar 'lo escribiré más tarde' obliga a la corteza prefrontal a retener datos, generando estrés y fatiga. No se preocupe por el orden o la pulcritud al capturar la idea. Escribir una palabra clave o un garabato dentro de los 5 segundos posteriores a una idea libera la memoria de trabajo.",
+      "de": "Das Hauptziel des Notierens ist das Befreien des Gehirns von der Last des Behaltens. Der Gedanke 'Das schreibe ich später auf' zwingt den Präfrontalkortex, Daten aktiv zu halten, was zu Stress und Ermüdung führt. Sorgen Sie sich beim ersten Festhalten nicht um Ordentlichkeit. Das Aufschreiben eines Stichworts innerhalb von 5 Sekunden schützt das Arbeitsgedächtnis.",
+      "fr": "L'objectif principal de la prise de notes est de soulager le cerveau de la charge de rétention. Penser « je le noterai plus tard » force le cortex préfrontal à maintenir les données, générant du stress et de la fatigue. Ne vous souciez pas de la présentation lors de la saisie. Consigner un mot-clé ou un croquis dans les 5 secondes préserve la mémoire de travail.",
+      "pt": "O objetivo central de tomar notas é eliminar a carga mental de retenção. Pensar 'escreverei mais tarde' obriga o córtex pré-frontal a reter dados, gerando estresse e fadiga. Não se preocupe com a organização ao capturar a ideia. Escrever uma palavra-chave ou rabisco dentro de 5 segundos libera a memória de trabalho.",
+      "id": "Tujuan utama dari mengambil catatan adalah menghilangkan beban mental retensi dari otak Anda. Berpikir 'saya akan menulis ini nanti' memaksa korteks prefrontal Anda untuk secara terus-menerus menahan data, menghasilkan stres halus dan kelelahan kognitif. Jangan khawatir tentang kerapian saat penangkapan awal. Menuliskan bahkan satu kata kunci atau coretan kasar dalam waktu 5 detik membebaskan memori kerja."
     },
     "steps": [
       {
         "name": {
-          "ko": "1단계: 항시 소지 가능한 수첩 준비 및 디지털 환경 세팅"
+          "ko": "1단계: 손이 바로 닿는 물리적/디지털 메모 환경 상시 구축",
+          "en": "Step 1: Establishing Frictionless Analog/Digital Capture Environments",
+          "ja": "ステップ1：手がすぐ届く物理的/デジタルメモ環境の常時構築",
+          "zh": "步骤1：常态化建构触手可及的纸质/数字记录环境",
+          "es": "Paso 1: Establecer Entornos de Captura Analógicos/Digitales Sin Fricción",
+          "de": "Schritt 1: Bereitstellen reibungsloser analoger/digitaler Erfassungsumgebungen",
+          "fr": "Étape 1 : Création d'un environnement de capture analogique/numérique sans friction",
+          "pt": "Passo 1: Estabelecer Ambientes de Captura Analógicos/Digitais Sem Fricção",
+          "id": "Langkah 1: Membangun Lingkungan Penangkapan Analog/Digital Tanpa Hambatan"
         },
         "text": {
-          "ko": "주머니나 가방 속 손이 잘 닿는 곳에 미니 수첩과 펜을 상시 소지합니다. 디지털 도구를 선호한다면 스마트폰 홈 화면에 잠금 해제 없이 바로 작성 가능한 텍스트 또는 음성 메모 위젯을 배치해 둡니다."
+          "ko": "주머니나 가방 속 손이 바로 닿는 자리에 미니 수첩과 펜을 항상 휴대하거나, 스마트폰 홈 화면에 잠금 해제 없이 1초 만에 실행되는 메모 위젯을 세팅합니다.",
+          "en": "Carry a mini notebook and pen in an easily accessible pocket, or place a 1-tap note/voice widget directly on your smartphone home screen to eliminate capture friction.",
+          "ja": "ポケットやバッグの中の手がすぐ届く場所にミニ手帳とペンを常に携帯するか、スマートフォンのホーム画面にロック解除なしで1秒で実行されるメモウィジェットをセットします。",
+          "zh": "在口袋或随身包囊伸手即达之处常备微型手账与钢笔，或在手机主屏幕上置顶无需解锁即可1秒开启的极速笔记组件，以此消除接触阻力。",
+          "es": "Lleve un minicuaderno y un bolígrafo en un bolsillo accesible, o coloque un widget de notas de 1 toque directamente en la pantalla de inicio del teléfono para eliminar fricciones.",
+          "de": "Tragen Sie ein Mininotizbuch und einen Stift in einer leicht zugänglichen Tasche oder platzieren Sie ein Notiz-Widget direkt auf dem Startbildschirm Ihres Smartphones.",
+          "fr": "Gardez un mini-carnet et un stylo dans une poche accessible, ou placez un widget de note en 1 clic directement sur l'écran d'accueil de votre smartphone pour éliminer toute friction.",
+          "pt": "Carregue um mini caderno e uma caneta num bolso acessível, ou coloque um widget de notas de 1 toque diretamente na tela inicial do celular para eliminar atritos.",
+          "id": "Bawa buku catatan mini dan pena di saku yang mudah dijangkau, atau pasang widget catatan/suara 1-ketukan secara langsung di layar utama smartphone Anda untuk mengeliminasi gesekan."
         }
       },
       {
         "name": {
-          "ko": "2단계: 영감이 스친 직후 5초 이내 키워드 즉시 기록"
+          "ko": "2단계: 영감이 스친 직후 5초 이내 키워드/크로키 즉시 인출",
+          "en": "Step 2: Instant Keyword or Sketch Capture Within 5 Seconds",
+          "ja": "ステップ2：インスピレーションがかすめた直後5秒以内のキーワード/クロッキーの即時抽出",
+          "zh": "步骤2：灵感闪现5秒内即时摘录关键词/速写",
+          "es": "Paso 2: Captura Imediata de Palabras Clave o Bocetos en Menos de 5 Segundos",
+          "de": "Schritt 2: Sofortiges Erfassen von Stichwörtern oder Skizzen innerhalb von 5 Sekunden",
+          "fr": "Étape 2 : Capture instantanée de mots-clés ou croquis en moins de 5 secondes",
+          "pt": "Passo 2: Captura Imediata de Palavras-Chave ou Esboços em Menos de 5 Segundos",
+          "id": "Langkah 2: Penangkapan Kata Kunci atau Sketsa Seketika Dalam Waktu 5 Detik"
         },
         "text": {
-          "ko": "'나중에 생각나면 적어야지'하는 생각은 즉각적인 망각으로 이어집니다. 대화나 이동 중 흥미로운 아이디어나 관찰 포인트가 떠오른 찰나, 5초 이내에 몇 개의 단어나 단문으로 수첩에 즉시 기록합니다."
+          "ko": "대화, 이동, 혹은 직감적 관찰 중 아이디어가 떠오른 찰나, 다듬지 않은 1~2개의 키워드나 단순 형태 스케치로 5초 이내에 수첩에 즉시 적어 물리적으로 옮겨 담습니다.",
+          "en": "The moment an idea, observation, or curiosity strikes during conversations or movement, record 1 or 2 unpolished keywords or a quick sketch on paper within 5 seconds.",
+          "ja": "会話、移動、あるいは直感的な観察中にアイデアが浮かんだ瞬間、整えていない1〜2個のキーワードや単純な形態のスケッチで5秒以内に手帳に即座に書いて物理的に移し替えます。",
+          "zh": "在交谈、步行或直觉观察中灵感闪现的刹那，无需拘泥于措辞，在5秒内将1-2个粗糙的关键词或线条图鸦即时誊抄于手账上展开物理转移。",
+          "es": "En el momento en que surja una idea o curiosidad durante una conversación o trayecto, registre 1 o 2 palabras clave sin pulir o un boceto rápido en papel en menos de 5 segundos.",
+          "de": "Wenn Ihnen während eines Gesprächs oder unterwegs eine Idee kommt, notieren Sie innerhalb von 5 Sekunden 1 bis 2 rohe Stichwörter oder eine schnelle Skizze auf Papier.",
+          "fr": "Dès qu'une idée ou observation surgit lors d'une conversation ou d'un déplacement, consignez 1 ou 2 mots-clés bruts ou un croquis rapide sur du papier dans les 5 secondes.",
+          "pt": "No momento em que surgir uma ideia ou curiosidade durante conversas ou deslocamentos, registre 1 ou 2 palavras-chave brutas ou um esboço rápido no papel em menos de 5 segundos.",
+          "id": "Saat sebuah ide, pengamatan, atau rasa ingin tahu muncul selama percakapan atau perjalanan, catat 1 atau 2 kata kunci mentah atau sketsa cepat di atas kertas dalam waktu 5 detik."
         }
       },
       {
         "name": {
-          "ko": "3단계: 하루 마감 5분 메모 복기 및 아카이빙"
+          "ko": "3단계: 하루 마감 5분 메모 복기 및 장기 기억 체계화",
+          "en": "Step 3: 5-Minute End-of-Day Review & Long-Term Schema Integration",
+          "ja": "ステップ3：一日締めくくり5分間のメモ復習と長期記憶の体系化",
+          "zh": "步骤3：日终复盘5分钟速记与长期记忆体系化",
+          "es": "Paso 3: Revisión de 5 Minutos al Final del Día e Integración en la Memoria",
+          "de": "Schritt 3: 5-minütige Durchsicht am Tagesende & Reorganisation im Gedächtnis",
+          "fr": "Étape 3 : Révision de 5 minutes en fin de journée & Structuration de la mémoire",
+          "pt": "Passo 3: Revisão de 5 Minutos no Fim do Dia e Integração na Memória",
+          "id": "Langkah 3: Tinjauan 5 Menit di Akhir Hari & Integrasi Skema Jangka Panjang"
         },
         "text": {
-          "ko": "매일 밤 취침 전이나 하루를 마감하며 오늘 수집한 거친 메모들을 5분간 훑어봅니다. 이 복기 과정을 통해 파편화된 기억이 장기 기억으로 고정되고, 가치 있는 생각은 기획서나 일기에 별도로 정돈되어 인지적 지식 체계로 승화됩니다."
+          "ko": "취침 전 5분간 오늘 적은 파편화된 메모들을 통독합니다. 가치 있는 생각은 메인 플래너나 작업 문서로 옮겨 적어 해마의 장기 기억 및 고차원 인지 지식으로 고정시킵니다.",
+          "en": "Spend 5 minutes before sleep scanning today's raw notes. Transfer valuable ideas into a primary workspace or document, anchoring fragmented thoughts into long-term cognitive schemas.",
+          "ja": "就寝前5分間、今日書いた断片的なメモを通読します。価値のある考えはメインプランナーや作業文書に移し書き、海馬の長期記憶および高度な認知知識として固定させます。",
+          "zh": "在睡前抽出5分钟通读当天的零散速记。将具备价值的闪光灵感誊抄至主工作日志或策划文档中，将其固化为海马体的长期记忆与高阶认知知识。",
+          "es": "Dedique 5 minutos antes de dormir a revisar las notas del día. Transfiera las ideas valiosas a su cuaderno principal o documento, consolidando pensamientos dispersos en la memoria a largo plazo.",
+          "de": "Überfliegen Sie vor dem Schlafengehen 5 Minuten lang Ihre Notizen. Übertragen Sie wertvolle Ideen in ein Hauptdokument, um Fragmente im Langzeitgedächtnis zu verankern.",
+          "fr": "Consacrez 5 minutes avant de dormir à parcourir les notes de la journée. Transférez les idées importantes dans votre document principal, ancrant ces réflexions dans votre mémoire à long terme.",
+          "pt": "Dedique 5 minutos antes de dormir para revisar as notas do dia. Transfira as ideias valiosas para seu documento principal, consolidando pensamentos dispersos na memória de longo prazo.",
+          "id": "Luangkan waktu 5 menit sebelum tidur untuk memindai catatan mentah hari ini. Transfer ide-ide berharga ke dalam ruang kerja atau dokumen utama Anda, memantapkan pikiran yang terfragmentasi ke dalam skema kognitif jangka panjang."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "다 빈치는 왜 항상 허리에 수첩을 찼나요?"
+          "ko": "다 빈치는 왜 항상 가죽 수첩을 허리춤에 묶고 다녔나요?",
+          "en": "Why did Leonardo da Vinci specifically tie a leather notebook to his waist belt?",
+          "ja": "ダ・ヴィンチはなぜいつも革の手帳を腰に縛り付けて持ち歩いたのですか？",
+          "zh": "达·芬奇当年为何特意将皮质手账系在腰间？",
+          "es": "¿Por qué Leonardo da Vinci llevaba específicamente un cuaderno de cuero atado a su cinturón?",
+          "de": "Warum band Leonardo da Vinci ein Notizbuch ausdrücklich an seinen Gürtel?",
+          "fr": "Pourquoi Léonard de Vinci attachait-il spécifiquement un carnet en cuir à sa ceinture ?",
+          "pt": "Por que Leonardo da Vinci mantinha especificamente um caderno de couro preso ao cinto?",
+          "id": "Mengapa Leonardo da Vinci secara khusus mengikatkan buku catatan kulit ke sabuk pinggangnya?"
         },
         "answer": {
-          "ko": "머릿속을 스쳐가는 즉각적인 호기심과 관찰, 아이디어를 단 1초도 유실하지 않고 즉시 기록하여 두뇌 인지 에너지를 확보해 두기 위함이었습니다."
+          "ko": "호기심이 생기거나 아이디어가 떠오른 찰나, 물리적 접근 장벽(Friction)을 0으로 만들어 단 1초의 지연도 없이 영감을 수첩으로 외재화하기 위해서였습니다. 이는 뇌의 작업 기억을 항상 빈 상태로 유지하여 무한한 창의적 연상 공간을 보존하는 극상의 환경 설계였습니다.",
+          "en": "To reduce physical access friction to absolute zero, allowing him to externalize observations within seconds without losing a single thought. This frictionless design kept his working memory clean, preserving prefrontal capacity for creative associations.",
+          "ja": "好奇心が湧いたりアイデアが浮かんだ瞬間、物理的な接近障壁（Friction）をゼロにして、たった1秒の遅延もなくインスピレーションを手帳へと外在化するためでした。これは脳の作業記憶を常に空の状態で維持し、無限の創造的連想空間を保存する極上の環境設計でした。",
+          "zh": "目的在于将物理接触阻力（Friction）降至绝对的零，从而在灵感闪现的刹那毫不迟疑地将其外化于手账中。这项毫无阻力的物理设计能让大脑的工作记忆始终处于清空状态，为前额叶皮层的创造性联想预留出无限空间。",
+          "es": "Para reducir la fricción de acceso físico a cero, lo que le permitía externalizar observaciones en segundos sin perder ningún pensamiento. Este diseño sin fricciones mantenía limpia su memoria de trabajo, reservando la capacidad prefrontal para asociaciones creativas.",
+          "de": "Um körperliche Hürden auf null zu reduzieren, sodass er Beobachtungen innerhalb von Sekunden festhalten konnte. Dieses reibungslose Design hielt sein Arbeitsgedächtnis frei und bewahrte präfrontale Kapazitäten für kreative Ideen.",
+          "fr": "Pour réduire la friction d'accès physique à zéro, lui permettant d'externaliser ses observations en quelques secondes sans perdre la moindre pensée. Cette conception sans friction préservait sa mémoire de travail pour les associations créatives.",
+          "pt": "Para reduzir o atrito de acesso físico a zero, permitindo-lhe externalizar observações em segundos sem perder nenhum pensamento. Esse design sem atrito mantinha limpa sua memória de trabalho, reservando a capacidade pré-frontal para associações criativas.",
+          "id": "Untuk mengurangi gesekan akses fisik hingga nol mutlak, memungkinkannya mengamankan pengamatan dalam hitungan detik tanpa kehilangan satu pikiran pun. Pengaturan tanpa hambatan ini menjaga memori kerjanya tetap bersih, mempertahankan kapasitas prefrontal untuk asosiasi kreatif."
         }
       },
       {
         "question": {
-          "ko": "종이 수첩 대신 스마트폰 메모 앱을 사용하는 것도 동일한 외재화 효과가 있나요?"
+          "ko": "종이 수첩 대신 스마트폰 메모 앱을 사용하는 것도 동일한 작업 기억 외재화 효과가 있나요?",
+          "en": "Does using a smartphone note app provide the same working memory externalization benefits as a paper notebook?",
+          "ja": "紙の手帳の代わりにスマートフォンのメモアプリを使用することも同じ作業記憶の外在化効果がありますか？",
+          "zh": "以此取代纸质手账，使用手机备忘录应用能否获得同等的工作记忆外化效果？",
+          "es": "¿Utilizar una aplicación de notas en el móvil produce los mismos beneficios de externalización que un cuaderno de papel?",
+          "de": "Bietet die Nutzung einer Notiz-App auf dem Smartphone dieselben Vorteile zur Entlastung des Arbeitsgedächtnisses wie ein Notizbuch?",
+          "fr": "L'utilisation d'une application de notes sur smartphone procure-t-elle les mêmes bénéfices d'externalisation qu'un carnet papier ?",
+          "pt": "Usar um aplicativo de notas no celular produz os mesmos benefícios de externalização que um caderno de papel?",
+          "id": "Apakah menggunakan aplikasi catatan smartphone memberikan manfaat eksternalisasi memori kerja yang sama seperti buku catatan kertas?"
         },
         "answer": {
-          "ko": "네, 핵심은 영감을 '외부 매체로 즉시 옮겨 뇌의 작업 기억(RAM)을 비우는 것'에 있으므로 메모 앱도 효과적입니다. 다만, 종이에 손글씨나 크로키로 기록하는 물리적 촉각 피드백이 대뇌 운동 피질을 더 넓게 자극하여 인지 고정 효과는 더욱 뛰어납니다."
+          "ko": "네, 완벽히 효과적입니다. 핵심은 영감을 '외부 매체로 즉시 전달해 뇌의 작업 기억(RAM)을 비우는 것'에 있기 때문입니다. 다만, 종이에 손글씨나 크로키로 기록할 때 발생하는 물리적 촉각 피드백이 대뇌 운동 피질과 시각 피질을 동시에 자극하여 인지 고정 및 회상 효과는 종이 매체가 다소 우수합니다.",
+          "en": "Yes, absolutely. The underlying mechanism is offloading information to an external medium to clear working memory (RAM). However, handwriting or sketching on physical paper provides tactile sensory feedback that engages both motor and visual cortices, offering slightly superior memory consolidation.",
+          "ja": "はい、完全に効果的です。ポイントはインスピレーションを「外部媒体へ即座に伝えて脳の作業記憶（RAM）を空けること」にあるためです。ただし、紙に手書きやクロッキーで記録する時に発生する物理的な触覚フィードバックが、大脳運動皮質と視覚皮質を同時に刺激し、認知固定および回想効果は紙の媒体がやや優れています。",
+          "zh": "是的，完全有效。核心机制在于“将信息即时转移至外部介质以清空大脑的工作记忆（RAM）”。不过，在纸上进行手写或速写时产生的物理触觉反馈，能够同时拉动大脑运动皮层与视觉皮层，因此在记忆固化与回想层面，纸质介质表现稍胜一筹。",
+          "es": "Sí, por supuesto. El mecanismo fundamental es transferir la información a un medio externo para liberar la memoria de trabajo (RAM). Sin embargo, escribir a mano o dibujar en papel proporciona una retroalimentación táctil que estimula las cortezas motora y visual, ofreciendo una consolidación superior.",
+          "de": "Ja, absolut. Der Grundmechanismus ist das Auslagern von Informationen auf ein externes Medium zur Entlastung des Arbeitsgedächtnisses (RAM). Das handschriftliche Schreiben oder Skizzieren auf Papier liefert jedoch taktiles Feedback, das motorische und visuelle Areale stimuliert und die Erinnerung stärkt.",
+          "fr": "Oui, tout à fait. Le mécanisme essentiel est le transfert d'informations vers un support externe pour libérer la mémoire de travail (RAM). Cependant, l'écriture manuscrite ou le dessin sur papier procure une rétroaction tactile qui sollicite les cortex moteur et visuel, offrant une consolidation supérieure.",
+          "pt": "Sim, com certeza. O mecanismo fundamental é transferir a informação para um meio externo para liberar a memória de trabalho (RAM). No entanto, escrever à mão ou desenhar no papel fornece uma retroalimentação tátil que estimula os córtex motor e visual, oferecendo uma consolidação superior.",
+          "id": "Ya, tentu saja. Mekanisme mendasarnya adalah mengalihkan informasi ke media eksternal untuk mengosongkan memori kerja (RAM). Namun, menulis tangan atau menggambar di atas kertas fisik memberikan umpan balik sensorik taktil yang melibatkan korteks motorik dan visual, menawarkan pemantapan memori yang sedikit lebih unggul."
         }
       }
     ]

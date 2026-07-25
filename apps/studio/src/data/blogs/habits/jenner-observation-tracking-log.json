@@ -1,70 +1,214 @@
 {
   "jenner-observation-tracking-log": {
     "title": {
-      "ko": "천연두를 정복한 백신의 아버지? 에드워드 제너의 현장 관찰 기록 루틴"
+      "ko": "천연두를 정복한 백신의 아버지: 에드워드 제너의 현장 관찰 기록 루틴과 그릿(Grit)의 뇌과학",
+      "en": "The Father of Immunology Who Conquered Smallpox: Edward Jenner's Field Observation Tracking Routine and the Neuroscience of Grit",
+      "ja": "天然痘を征服したワクチンの父：エドワード・ジェンナーの現場観察記録ルーティンとグリット（Grit）の脳科学",
+      "zh": "征服天花的疫苗之父：爱德华·詹纳的现场观察跟踪习惯与坚韧（Grit）脑科学",
+      "es": "El Padre de la Inmunología que Conquistó la Viruela: La Rutina de Registro de Campo y la Neurociencia del Grit de Edward Jenner",
+      "de": "Der Vater der Impfung, der die Pocken besiegte: Edward Jenners Feldbeobachtungs-Routine und die Neurowissenschaften von Grit",
+      "fr": "Le père de la vaccination qui a vaincu la variole : La routine de journal de terrain et la neuroscience du Grit d'Edward Jenner",
+      "pt": "O Pai da Imunologia que Conquistou a Varíola: A Rotina de Diário de Campo e a Neurociência do Grit de Edward Jenner",
+      "id": "Bapak Imunologi yang Menaklukkan Cacar: Rutinitas Catatan Pengamatan Lapangan dan Neurosains Grit Edward Jenner"
     },
     "description": {
-      "ko": "인류를 전염병에서 구한 의사 에드워드 제너가 매일 마을 가구를 직접 방문하며 우두 관찰 기록을 수년간 누적해 백신을 발명한 과학적 습관."
+      "ko": "인류를 전염병에서 구한 의사 에드워드 제너가 매일 마을 가구를 직접 방문하며 우두 관찰 기록을 수년간 누적해 백신을 발명한 과학적 습관. 과정 중심 도파민 보상 회로 재편과 전전두엽 그릿(Grit) 활성화의 뇌과학을 탐구합니다.",
+      "en": "Discover how country doctor Edward Jenner invented the smallpox vaccine by accumulating years of field observation logs across local farms. Explore the neuroscience of process-oriented dopamine reward circuits and prefrontal grit.",
+      "ja": "人類を感染症から救った医師エドワード・ジェンナーが、毎日村の農家を直接訪問し牛痘の観察記録を数年間蓄積してワクチンを発明した科学的習慣。過程中心のドパミン報酬回路再編と前頭前野グリット（Grit）活性化の脳科学を探求します。",
+      "zh": "探索将人类从瘟疫中解救出来的医师爱德华·詹纳，如何通过数年如一日逐户走访农家、累积牛痘观察手记而发明疫苗。揭示过程导向的多巴胺奖赏回路重塑与前额叶坚韧（Grit）激活的神经科学原理。",
+      "es": "Descubra cómo el médico rural Edward Jenner inventó la vacuna contra la viruela acumulando años de diarios de observación de campo. Explore la neurociencia de los circuitos de recompensa de dopamina orientados al proceso y el grit prefrontal.",
+      "de": "Erfahren Sie, wie der Landarzt Edward Jenner die Pockenimpfung erfand, indem er jahrelang Beobachtungstagebücher in Bauernhöfen führte. Entdecken Sie die Neurowissenschaften prozessorientierter Dopamin-Belohnungssysteme und präfrontaler Ausdauer (Grit).",
+      "fr": "Découvrez comment le médecin de campagne Edward Jenner a conçu le vaccin contre la variole en accumulant des années de notes de terrain. Explorez la neuroscience des circuits de récompense dopaminergiques axés sur le processus et la ténacité préfrontale (Grit).",
+      "pt": "Descubra como o médico rural Edward Jenner inventou a vacina contra a varíola acumulando anos de diários de observação de campo. Explore a neurociência dos circuitos de recompensa de dopamina orientados ao processo e o grit pré-frontal.",
+      "id": "Pelajari bagaimana dokter pedesaan Edward Jenner menemukan vaksin cacar dengan mengumpulkan catatan pengamatan lapangan bertahun-tahun. Temukan neurosains sirkuit imbalan dopamin berorientasi proses dan grit prefrontal."
     },
     "authority": {
-      "ko": "에드워드 제너 논문 『우두 백신의 원인과 효과에 관한 연구(An Inquiry into the Causes and Effects of the Variolae Vaccinae)』 및 왕립학회 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 의학사(History of Medicine) 연구"
+      "ko": "에드워드 제너 논문 『우두 백신의 원인과 효과에 관한 연구(An Inquiry into the Causes and Effects of the Variolae Vaccinae, 1798)』 및 왕립학회 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 의학사(History of Medicine) 연구",
+      "en": "Historical Verification from Edward Jenner's Treatise *An Inquiry into the Causes and Effects of the Variolae Vaccinae* (1798), Royal Society Archives & Cognitive Neuroscience and History of Medicine Research",
+      "ja": "エドワード・ジェンナー論文『牛痘の causal と効果に関する研究（An Inquiry into the Causes and Effects of the Variolae Vaccinae, 1798）』および王立協会史料考証＆認知神経科学（Cognitive Neuroscience）および医学史（History of Medicine）研究",
+      "zh": "爱德华·詹纳论文《牛痘的成因与效果研究（An Inquiry into the Causes and Effects of the Variolae Vaccinae, 1798）》与英国皇家学会档案考证及认知神经科学（Cognitive Neuroscience）与医学史（History of Medicine）研究",
+      "es": "Verificación Histórica del Tratado de Edward Jenner *Investigación sobre las causas y efectos de las viruelas vacunas (1798)*, Archivos de la Royal Society e Investigación en Neurociencia Cognitiva e Historia de la Medicina",
+      "de": "Historische Überprüfung aus Edward Jenners Abhandlung *An Inquiry into the Causes and Effects of the Variolae Vaccinae* (1798), Archiven der Royal Society & Forschung der kognitiven Neurowissenschaften und Medizin geschichte",
+      "fr": "Vérification Historique issue du traité d'Edward Jenner *Recherche sur les causes et effets de la variole vaccine* (1798), des archives de la Royal Society & de la Recherche en Neurosciences Cognitives et Histoire de la Médecine",
+      "pt": "Verificação Histórica do Tratado de Edward Jenner *Uma Investigação sobre as Causas e Efeitos da Vacina da Varíola* (1798), Arquivos da Royal Society e Pesquisa em Neurociência Cognitiva e História da Medicina",
+      "id": "Verifikasi Historis dari Risalah Edward Jenner *An Inquiry into the Causes and Effects of the Variolae Vaccinae* (1798), Arsip Royal Society & Penelitian Neurosains Kognitif serta Sejarah Kedokteran"
     },
     "intro": {
-      "ko": "인류 역사상 가장 지독했던 전염병 천연두(Smallpox)를 지구상에서 마침내 퇴치하고 의학사상 최초의 '우두 백신'을 발명하여 수억 명의 인류 생명을 구한 영국의 시골 의사, 에드워드 제너(Edward Jenner). 세계 의학사를 바꾼 그의 위대한 의학적 발견은 대체 어떻게 시작될 수 있었을까요? 🩺\n\n제너는 글로스터셔의 농촌 마을에서 '소 전염병 우두를 앓았던 우유 짜기 여인들은 천연두에 걸리지 않는다'는 시골 민간설을 그냥 흘려듣지 않았습니다. 그는 매일 오후 수년간 직접 마을 농가를 찾아다니며 환자들의 피부 상태와 면역 반응의 미세한 변화를 '현장 관찰 추적 일지(Observation Log)'에 정량적으로 기록했습니다. 수년에 걸친 진득한 데이터 추적이 인류 구원의 백신을 완성했습니다.\n\n오늘 포스트에서는 에드워드 제너 박사의 현장 추적 일지 루틴에 담긴 장기 데이터 누적과 그릿(Grit)의 뇌과학적 원리를 소개합니다."
+      "ko": "\"진정한 과학적 발견은 순간의 직관이 아닌, 수년에 걸쳐 현장의 객관적 사실을 빠짐없이 축적한 정직한 관찰 일지 위에서 피어난다.\" 🩺\n\n인류 역사상 가장 지독했던 전염병 천연두(Smallpox)를 지구상에서 마침내 퇴치하고 의학사상 최초의 '우두 백신'을 발명하여 수억 명의 인류 생명을 구한 영국의 시골 의사 에드워드 제너(Edward Jenner, 1749–1823). 세계 의학사를 바꾼 그의 위대한 의학적 발견은 대체 어떻게 시작될 수 있었을까요?\n\n글로스터셔주 버클리 마을의 시골 의사였던 제너는 '소 전염병 우두(Cowpox)를 앓았던 우유 짜기 여인들은 천연두에 걸리지 않는다'는 시골 민간설을 그냥 흘려듣지 않았습니다. 그는 1796년 우두에 걸린 소젖 짜는 여인 사라인 넬름스(Sarah Nelmes)의 농포에서 진물을 채취해 소년 제임스 핍스(James Phipps)에게 접종하는 대담한 임상을 수행한 후에도 결코 서두르지 않았습니다. 제너는 매일 오후 수년간 직접 마을 농가를 찾아다니며 환자들의 피부 상태, 경과, 면역 반응의 미세한 변화, 그리고 가설에 반대되는 예외 사례까지 '현장 관찰 추적 일지(Observation Log)'에 정량적으로 기재했습니다. 1798년 출판된 기념비적 논문 『우두 백신의 원인과 효과에 관한 연구』를 탄생시킨 힘은 바로 이 수년에 걸친 진득한 현장 데이터 누적 루틴이었습니다.\n\n오늘 포스트에서는 에드워드 제너 박사의 현장 추적 일지 루틴에 담긴 장기 데이터 누적과 그릿(Grit)의 뇌과학적 원리를 소개합니다.",
+      "en": "\"True scientific discovery blooms not from a momentary flash of intuition, but upon an honest observation log accumulated over years of recording field facts.\" 🩺\n\nEdward Jenner (1749–1823) was the English country doctor from Berkeley, Gloucestershire, who eradicated smallpox—one of the deadliest contagious diseases in human history—by inventing the world's very first vaccine. How did he arrive at this world-changing medical breakthrough?\n\nJenner refused to dismiss local rural folklore claiming that milkmaids who contracted cowpox (*Variolae Vaccinae*) became immune to smallpox. In May 1796, Jenner extracted fluid from cowpox lesions on milkmaid Sarah Nelmes and inoculated young James Phipps. Yet his work was far from complete. For years, Jenner traveled door-to-door across Gloucestershire farms, systematically tracking patients' skin conditions, fever symptoms, and immune responses. Most importantly, he diligently recorded counter-evidence and unexpected exceptions into his field observation logs. This multi-year empirical logging culminated in his historic 1798 publication, *An Inquiry into the Causes and Effects of the Variolae Vaccinae*.\n\nIn today's post, we examine the cognitive neuroscience behind Edward Jenner's 'field observation tracking log' routine and explore how long-term data tracking re-anchors dopamine reward circuits and activates prefrontal grit.",
+      "ja": "「真の科学的発見は瞬間の直感ではなく、数年間にわたり現場の客観的事実を欠かさず蓄積した正直な観察日誌の上にこそ花開く。」 🩺\n\n人類史上最もひどかった感染症である天然痘（Smallpox）を地球上からついに撲滅し、医学史上初の「牛痘ワクチン」を発明して数億人の人類の命を救ったイギリスの田舎医師、エドワード・ジェンナー（Edward Jenner、1749–1823）。世界医学史を変えた彼の偉大な医学的発見は、一体どのように始まることができたのでしょうか？\n\nグロスターシャー州バークレー村の田舎医師だったジェンナーは、「牛の感染症である牛痘（Cowpox）を患った乳搾りの女性たちは天然痘にかからない」という田舎の民間説をそのまま聞き流しませんでした。彼は1796年、牛痘にかかった乳搾りの女性サラ・ネルムス（Sarah Nelmes）の膿疱から膿を採取し、少年ジェームズ・フィップス（James Phipps）に接種する大胆な臨床を遂行した後も、決して急ぎませんでした。ジェンナーは毎日午後、数年間にわたり直接村の農家を訪ね歩き、患者たちの皮膚状態、経過、免疫反応の微細な変化、そして仮説に反対する例外事例まで「現場観察追跡日誌（Observation Log）」に定量的に記載しました。1798年に出版された金字塔的論文『牛痘の causal と効果に関する研究』を誕生させた力こそ、まさにこの数年間にわたる粘り強い現場データ蓄積ルーティンでした。\n\n本日の記事では、エドワード・ジェンナー博士の現場追跡日誌ルーティンに込められた長期データ蓄積とグリット（Grit）の脳科学的原理を紹介します。",
+      "zh": "“真正的科学发现绝非绽放于一瞬的直觉，而唯独萌发于数年来将现场客观事实毫无遗漏地精细累积的诚实观察手记之上。” 🩺\n\n将人类历史上至为惨烈的瘟疫天花（Smallpox）彻底从地球上终结、发明医学史上首个“牛痘疫苗”并拯救了数以亿计人类生命的英国乡村医师——爱德华·詹纳（Edward Jenner，1749–1823）。改写世界医学史的这项伟大发现，究竟是如何拉开序幕的？\n\n身为格洛斯特郡伯克利小镇的乡村医师，詹纳绝未将“患过牛痘（Cowpox）的挤奶女工绝不会染上天花”这句乡村民谚视作荒诞流言。1796年，在从感染牛痘的挤奶女工莎拉·内尔姆斯（Sarah Nelmes）的痘疱中提取汁液、并接种于少年詹姆斯·菲普斯（James Phipps）体内展开大胆临床后，他亦绝未急功近利。詹纳在长达数年的时间里，每天下午亲自穿行走访村庄农户，将患者皮肤图景、病程演变、免疫反应的微观变化，乃至与既定假设相反的例外反例，逐一定量如实填入“现场观察跟踪手记（Observation Log）”中。正是在长达数年坚韧不拔的现场数据累积习惯的支撑下，方孕育出了于1798年出版的划时代名篇《牛痘的成因与效果研究》。\n\n在今天的文章中，我们将深度解构爱德华·詹纳医师“现场跟踪手记”习惯背后蕴含的长效数据累积与坚韧（Grit）的神经科学原理。",
+      "es": "\"El verdadero descubrimiento científico no florece de una intuición momentánea, sino sobre un diario de observación honesto acumulado a lo largo de años de registrar hechos.\" 🩺\n\nEdward Jenner (1749–1823) fue el médico rural inglés de Berkeley, Gloucestershire, que erradicó la viruela —una de las enfermedades infecciosas más mortales de la historia— al inventar la primera vacuna del mundo. ¿Cómo logró este avance médico transformador?\n\nJenner se negó a descartar el folclore local que afirmaba que las lecheras que contraían viruela vacuna (*Variolae Vaccinae*) quedaban inmunes a la viruela humana. En mayo de 1796, Jenner extrajo fluido de las lesiones de la lechera Sarah Nelmes e inoculó al joven James Phipps. Sin embargo, su trabajo apenas comenzaba. Durante años, Jenner viajó de puerta en puerta por las granjas de Gloucestershire, registrando metódicamente el estado de la piel, los síntomas y las respuestas inmunitarias de los pacientes. Además, anotó con diligencia las contraevidencias y excepciones imprevistas en sus diarios de campo. Esta acumulación de datos culminó en su histórica publicación de 1798, *Investigación sobre las causas y efectos de las viruelas vacunas*.\n\nEn la publicación de hoy, analizamos la neurociencia cognitiva detrás de la rutina de 'diario de observación de campo' de Edward Jenner y exploramos cómo el seguimiento de datos reorienta los circuitos de recompensa de dopamina e impulsa el grit prefrontal.",
+      "de": "\"Echte wissenschaftliche Entdeckungen sprießen nicht aus spontaner Intuition, sondern auf dem Boden eines ehrlichen Beobachtungstagebuchs, das über Jahre hinweg Fakten sammelt.\" 🩺\n\nEdward Jenner (1749–1823) war der englische Landarzt aus Berkeley, Gloucestershire, der die Pocken – eine der tödlichsten Seuchen der Menschheit – durch die Erfindung der weltweit ersten Impfung ausrottete. Wie gelang ihm dieser medizinische Durchbruch?\n\nJenner weigerte sich, den Volksglauben abzutun, dass Milchmädchen, die sich mit Kuhpocken (*Variolae Vaccinae*) infiziert hatten, gegen die echten Pocken immun waren. Im Mai 1796 entnahm Jenner Wundflüssigkeit von der Milchmagd Sarah Nelmes und impfte den Jungen James Phipps. Doch damit begnügte er sich nicht. Jahrelang reiste Jenner von Hof zu Hof in Gloucestershire und dokumentierte Hautveränderungen, Symptome und Immunreaktionen systematisch. Er hielt auch Gegenbeweise und unerwartete Ausnahmen gewissenhaft in seinen Feldtagebüchern fest. Diese jahrelange Datensammlung mündete 1798 in seiner Veröffentlichung *An Inquiry into the Causes and Effects of the Variolae Vaccinae*.\n\nIm heutigen Beitrag untersuchen wir die Neurowissenschaften hinter Edward Jenners 'Feldbeobachtungs-Routine' und zeigen, wie langristige Datenerfassung das Dopamin-System neu ausrichtet und präfrontale Ausdauer (Grit) stärkt.",
+      "fr": "« Une véritable découverte scientifique ne s'épanouit pas dans una intuition soudaine, mais sur un journal d'observation honnête accumulant des faits pendant des années. » 🩺\n\nEdward Jenner (1749–1823) fut le médecin de campagne anglais de Berkeley, dans le Gloucestershire, qui a éradiqué la variole — l'une des maladies infectieuses les plus meurtrières de l'histoire — en inventant le tout premier vaccin au monde. Comment est-il parvenu à cette avancée médicale majeure ?\n\nJenner refusa de rejeter la croyance populaire voulant que les fermières ayant contracté la variole bovine (*Variolae Vaccinae*) soient immunisées contre la variole humaine. En mai 1796, Jenner préleva du pus sur la fermière Sarah Nelmes et inocula le jeune James Phipps. Pourtant, son travail ne faisait que commencer. Pendant des années, Jenner sillonna les fermes du Gloucestershire, consignant méthodiquement l'état de la peau, les symptômes et les réactions immunitaires des patients. Surtout, il notait scrupuleusement les contre-exemples et exceptions dans ses carnets de terrain. Cette accumulation de données permit la publication en 1798 de son ouvrage historique, *Recherche sur les causes et effets de la variole vaccine*.\n\nDans cet article, nous analysons la neuroscience cognitive sous-jacente à la routine de « journal d'observation de terrain » d'Edward Jenner et explorons comment le suivi de données réoriente les circuits de récompense dopaminergiques et stimule le grit préfrontal.",
+      "pt": "\"Uma verdadeira descoberta científica não floresce de uma intuição momentânea, mas sobre um diário de observação honesto acumulado ao longo de anos de registro de fatos.\" 🩺\n\nEdward Jenner (1749–1823) foi o médico rural inglês de Berkeley, Gloucestershire, que erradicou a varíola — uma das doenças infecciosas mais mortais da história — ao inventar a primeira vacina do mundo. Como ele alcançou esse avanço médico transformador?\n\nJenner recusou-se a descartar a crença popular de que as ordenhadeiras que contraíam a varíola bovina (*Variolae Vaccinae*) ficavam imunes à varíola humana. Em maio de 1796, Jenner extraiu fluido das lesões da ordenhadeira Sarah Nelmes e inoculou o jovem James Phipps. No entanto, seu trabalho estava apenas começando. Durante anos, Jenner percorreu as fazendas de Gloucestershire, registrando metodicamente o estado da pele, os sintomas e as respostas imunes dos pacientes. Além disso, anotou as contraevidências e exceções em seus diários de campo. Essa acumulação de dados culminou em sua histórica publicação de 1798, *Uma Investigação sobre as Causas e Efeitos da Vacina da Varíola*.\n\nNo artigo de hoje, analisamos a neurociência cognitiva por trás da rotina de 'diário de observação de campo' de Edward Jenner e exploramos como o acompanhamento de dados reorienta os circuitos de recompensa de dopamina e ativa o grit pré-frontal.",
+      "id": "\"Penemuan ilmiah sejati tidak berkembang dari kilatan intuisi sesaat, melainkan di atas catatan pengamatan jujur yang dikumpulkan selama bertahun-tahun mencatat fakta lapangan.\" 🩺\n\nEdward Jenner (1749–1823) adalah dokter pedesaan Inggris dari Berkeley, Gloucestershire, yang memusnahkan cacar—salah satu penyakit menular paling mematikan dalam sejarah manusia—dengan menemukan vaksin pertama di dunia. Bagaimana ia mencapai terobosan medis yang mengubah dunia ini?\n\nJenner menolak mengabaikan cerita rakyat setempat yang mengklaim bahwa pemerah susu yang terkena cacar sapi (*Variolae Vaccinae*) menjadi kebal terhadap cacar air. Pada bulan Mei 1796, Jenner mengambil cairan dari lesi cacar sapi pada pemerah susu Sarah Nelmes dan menginokulasi pemuda James Phipps. Namun tugasnya belum selesai. Selama bertahun-tahun, Jenner bepergian dari rumah ke rumah di pedesaan Gloucestershire, secara sistematis melacak kondisi kulit, gejala, dan respons imun pasien. Yang terpenting, ia mencatat bukti tandingan dan pengecualian yang tidak terduga ke dalam jurnal lapangan. Pengumpulan data bertahun-tahun ini memuncak pada publikasi bersejarahnya pada tahun 1798, *An Inquiry into the Causes and Effects of the Variolae Vaccinae*.\n\nDalam postingan hari ini, kami menganalisis neurosains kognitif di balik rutinitas 'catatan pengamatan lapangan' Edward Jenner."
     },
     "whyTitle": {
-      "ko": "도파민 보상 회로(Dopamine Reward Circuit)의 과정 중심 재편과 그릿(Grit)의 뇌과학"
+      "ko": "도파민 보상 회로(Dopamine Reward Circuit)의 과정 중심 재편과 그릿(Grit)의 뇌과학",
+      "en": "Process-Oriented Re-Anchoring of the Dopamine Reward Circuit and the Neuroscience of Grit",
+      "ja": "ドパミン報酬回路（Dopamine Reward Circuit）の過程中心再編とグリット（Grit）の脳科学",
+      "zh": "多巴胺奖赏回路（Dopamine Reward Circuit）的过程导向重塑与坚韧（Grit）神经科学原理",
+      "es": "Reorientación Orientada al Proceso del Circuito de Recompensa de Dopamina y Neurociencia del Grit",
+      "de": "Prozessorientierte Neuausrichtung des Dopamin-Belohnungssystems und die Neurowissenschaften von Grit",
+      "fr": "Réorientation axée sur le processus du circuit de récompense dopaminergique et neuroscience du Grit",
+      "pt": "Reorientação Orientada ao Processo do Circuito de Recompensa de Dopamina e Neurociência do Grit",
+      "id": "Re-Ankor Sirkuit Imbalan Dopamin Berorientasi Proses dan Neurosains Grit"
     },
     "whyDesc": {
-      "ko": "단기 결과에만 목을 메면 가설이 조금만 안 맞아도 금방 포기하고 슬럼프에 빠지기 쉽습니다.\n\n제너처럼 매일 현장을 직접 관찰하고 데이터를 정직하게 기재하는 <strong>'장기 현장 관찰 일지'</strong>는 뇌의 <strong>도파민 보상 회로(Dopamine Reward Circuit)</strong>축을 단기 결과가 아닌 '관찰과 기록 행위 자체'로 이동시킵니다. 이는 <strong>전전두엽(Prefrontal Cortex)</strong>의 장기 계획 기능을 자극하여 가설을 끝까지 검증해 내는 압도적 <strong>그릿(Grit)</strong>과 지속적인 집행 동력을 선사합니다."
+      "ko": "단기 결과에만 목을 메면 가설이 조금만 안 맞아도 금방 포기하고 슬럼프에 빠지기 쉽습니다. 제너처럼 매일 현장을 직접 관찰하고 데이터를 정직하게 기재하는 <strong>'장기 현장 관찰 일지'</strong>는 뇌의 <strong>도파민 보상 회로(Dopamine Reward Circuit)</strong>축을 단기 결과가 아닌 '관찰과 기록 행위 자체'로 이동시킵니다. 이는 <strong>전전두엽(Prefrontal Cortex)</strong>의 장기 계획 기능을 자극하여 가설을 끝까지 검증해 내는 압도적 <strong>그릿(Grit)</strong>과 지속적인 집행 동력을 선사합니다.",
+      "en": "Obsessing strictly over short-term results causes rapid demotivation and cognitive burnout whenever initial hypotheses fail. Practicing Jenner's <strong>Long-Term Field Observation Log</strong> routine shifts the brain's <strong>Dopamine Reward Circuit</strong> axis away from short-term outcome bias and onto the physical act of daily observation and logging itself. This procedural re-anchoring stimulates long-term executive planning networks in the <strong>Prefrontal Cortex</strong>, cultivating profound <strong>Grit</strong> and resilient execution drive to test complex hypotheses to completion.",
+      "ja": "短期的な結果にのみ固執すると、仮説が少しでも合わないとすぐに諦めてスランプに陥りやすくなります。ジェンナーのように毎日現場を直接観察し、データを正直に記載する<strong>「長期現場観察日誌」</strong>は、脳の<strong>ドパミン報酬回路（Dopamine Reward Circuit）</strong>の軸を短期的な結果ではなく「観察と記録行為自体」へと移動させます。これは<strong>前頭前野（Prefrontal Cortex）</strong>の長期計画機能を刺激し、仮説を最後まで検証し切る圧倒的な<strong>グリット（Grit）</strong>と持続的な実行動力を与えてくれます。",
+      "zh": "若死磕短期的结果，一旦初始假设遭遇挫折，极易陷入心理崩盘与倦怠期。如詹纳这般每天走访现场如实记录数据的<strong>“长效现场观察手记”</strong>习惯，能将大脑<strong>多巴胺奖赏回路（Dopamine Reward Circuit）</strong>的枢轴从短期成败偏移至“观察与誊录行为本身”。这一过程重塑能强力拉动<strong>前额叶皮层（Prefrontal Cortex）</strong>的长效规划网络，赋予将假设验证进行到底的超凡<strong>坚韧（Grit）</strong>与笃定不衰的执行冲劲。",
+      "es": "Obsesionarse solo con los resultados a corto plazo genera desmotivación cuando las hipótesis iniciales fallan. Practicar el <strong>Diario de Observación de Campo a Largo Plazo</strong> de Jenner desplaza el eje del <strong>Circuito de Recompensa de Dopamina</strong> del resultado inmediato hacia el acto físico de observar y registrar. Esta reorientación estimula la planificación en la <strong>Corteza Prefrontal</strong>, cultivando un <strong>Grit</strong> superior y un impulso constante para probar hipótesis hasta el final.",
+      "de": "Wer sich nur auf kurzfristige Ergebnisse versteift, verliert bei Rückschlägen schnell die Motivation. Jenners <strong>langfristiges Feldbeobachtungs-Tagebuch</strong> verlagert die Achse des <strong>Dopamin-Belohnungssystems</strong> von kurzfristigen Erfolgen auf die Ausführung des Beobachtens und Aufzeichnens selbst. Diese Umstellung stimuliert die Langzeitplanung im <strong>präfrontalen Kortex</strong> und stärkt die Ausdauer (<strong>Grit</strong>).",
+      "fr": "S'obséder uniquement sur les résultats à court terme entraîne une démotivation rapide en cas d'échec initial. La pratique du <strong>Journal d'observation de terrain à long terme</strong> de Jenner déplace l'axe du <strong>Circuit de récompense dopaminergique</strong> du résultat immédiat vers l'acte d'observer et de consigner lui-même. Cette réorientation stimule les réseaux de planification du <strong>Cortex Préfrontal</strong>, développant une ténacité (<strong>Grit</strong>) exceptionnelle.",
+      "pt": "Obsessar-se apenas com resultados a curto prazo gera desmotivação quando as hipóteses iniciais falham. Praticar o <strong>Diário de Observação de Campo a Longo Prazo</strong> de Jenner desloca o eixo do <strong>Circuito de Recompensa de Dopamina</strong> do resultado imediato para o ato de observar e registrar em si. Essa reorientação estimula o planejamento no <strong>Córtex Pré-frontal</strong>, cultivando um <strong>Grit</strong> superior.",
+      "id": "Terobsesi secara ketat pada hasil jangka pendek menyebabkan demotivasi cepat ketika hipotesis awal gagal. Mempraktikkan <strong>Catatan Pengamatan Lapangan Jangka Panjang</strong> Jenner menggeser poros <strong>Sirkuit Imbalan Dopamin</strong> otak dari bias hasil jangka pendek ke tindakan fisik mengamati dan mencatat itu sendiri. Re-ankor prosedural ini menstimulasi jaringan perencanaan eksekutif jangka panjang di <strong>Korteks Prefrontal</strong>, menumbuhkan <strong>Grit</strong> yang mendalam."
     },
     "cautionTitle": {
-      "ko": "확증 편향(Confirmation Bias)을 배제하고 객관적 예외 데이터까지 수용하는 수칙"
+      "ko": "확증 편향(Confirmation Bias)을 배제하고 객관적 예외 데이터까지 수용하는 수칙",
+      "en": "Caution: Eliminating Confirmation Bias to Embrace Objective Counter-Evidence and Exceptions",
+      "ja": "注意事項：確証バイアス（Confirmation Bias）を排除し客観的例外データまで受容するルール",
+      "zh": "注意事项：规避确认偏误（Confirmation Bias），包容客观反例与例外数据指南",
+      "es": "Precaución: Elimine el Sesgo de Confirmación para Aceptar Datos de Excepción Objetivos",
+      "de": "Vorsichtsmaßnahme: Bestätigungsfehler ausschließen und objektive Ausnahmedaten erfassen",
+      "fr": "Mise en garde : Éliminer le biais de confirmation pour accueillir les contre-exemples objectifs",
+      "pt": "Precaução: Elimine o Viés de Confirmação para Acolher Dados de Exceção Objetivos",
+      "id": "Perhatian: Menghilangkan Bias Konfirmasi untuk Menerima Bukti Tandingan dan Pengecualian Objektif"
     },
     "cautionDesc": {
-      "ko": "에드워드 제너의 위대함은 내 가설에 유리한 데이터만 모은 것이 아니라, 가설에 반대되는 예외 사례까지 솔직하게 일지에 담았다는 점입니다. 확증 편향에 빠지지 않고 현장에서 관찰된 객관적 팩트와 정직한 수치를 기재해야 뇌가 왜곡 없는 진실을 식별할 수 있습니다."
+      "ko": "에드워드 제너의 위대함은 내 가설에 유리한 데이터만 모은 것이 아니라, 가설에 반대되는 예외 사례까지 솔직하게 일지에 담았다는 점입니다. 확증 편향에 빠지지 않고 현장에서 관찰된 객관적 팩트와 정직한 수치를 기재해야 뇌가 왜곡 없는 진실을 식별할 수 있습니다.",
+      "en": "Edward Jenner's scientific genius lay in his refusal to selectively gather only data that supported his theories; he meticulously logged counter-evidence and unexpected exceptions in his journals. To prevent falling into Confirmation Bias, record raw empirical facts and exact numerical metrics honestly, allowing your prefrontal cortex to identify unvarnished truths.",
+      "ja": "エドワード・ジェンナーの偉大さは、自分の仮説に有利なデータだけを集めたのではなく、仮説に反対する例外事例まで正直に日誌に収めた点にあります。確証バイアスに陥らず、現場で観察された客観的ファクトと正直な数値を記載してこそ、脳が歪みのない真実を識別できるようになります。",
+      "zh": "爱德华·詹纳之伟大，绝非仅在于收集迎合个人预设假设的数据，更在于将背离假设的例外反例一并坦诚罗列于手记中。须严防陷于确认偏误（Confirmation Bias），如实记录现场目击的客观事实与精准数据，大脑方能精准辨识毫无曲解的真理。",
+      "es": "La grandeza de Edward Jenner radicó en su negativa a recopilar únicamente los datos que favorecían sus hipótesis; registró minuciosamente las contraevidencias y excepciones. Para evitar el Sesgo de Confirmación, registre los hechos reales y métricas exactas con honestidad, permitiendo a su cerebro identificar la verdad sin distorsiones.",
+      "de": "Edward Jenners Stärke lag darin, dass er nicht nur Daten sammelte, die seine Vermutung stützten, sondern auch Ausnahmen und Gegenbeweise im Tagebuch festhielt. Um Bestätigungsfehlern vorzubeugen, müssen Sie beobachtete Tatsachen und genaue Zahlen ehrlich notieren. Nur so erkennt das Gehirn unverfälschte Zusammenhänge.",
+      "fr": "La grandeur d'Edward Jenner résidait dans son refus de ne collecter que les données favorables a ses hypothèses ; il consignait scrupuleusement les contre-exemples et exceptions. Pour éviter le biais de confirmation, inscrivez les faits bruts et les chiffres exacts avec honnêteté, permettant a votre cerveau d'identifier la vérité sans fard.",
+      "pt": "A grandeza de Edward Jenner esteve em sua recusa em coletar apenas os dados que favoreciam suas hipóteses; ele registrou minuciosamente as contraevidências e exceções. Para evitar o Viés de Confirmação, registre os fatos e métricas exatas com honestidade, permitindo ao cérebro identificar a verdade sem distorções.",
+      "id": "Kejeniusan ilmiah Edward Jenner terletak pada penolakannya untuk hanya mengumpulkan data yang mendukung teorinya secara selektif; ia secara cermat mencatat bukti tandingan dan pengecualian yang tidak terduga ke dalam jurnalnya. Untuk mencegah jatuh ke dalam Bias Konfirmasi, catat fakta empiris mentah dan metrik numerik yang tepat secara jujur."
     },
     "steps": [
       {
         "name": {
-          "ko": "1단계: 오후 10분 현장 지표 및 데이터 추적 세션"
+          "ko": "1단계: 오후 10분 현장 지표 및 데이터 추적 세션",
+          "en": "Step 1: Daily 10-Minute Afternoon Field Data & Indicator Tracking Session",
+          "ja": "ステップ1：午後10分間の現場指標およびデータ追跡セッション",
+          "zh": "步骤1：部署午后10分钟现场指标与数据跟踪",
+          "es": "Paso 1: Sesión Diaria de 10 Minutos por la Tarde para Rastreo de Datos",
+          "de": "Schritt 1: Täglich 10-minütige Nachmittags-Sitzung zur Daten-Erfassung",
+          "fr": "Étape 1 : Session quotidienne de 10 minutes l'après-midi pour le suivi des données",
+          "pt": "Passo 1: Sessão Diária de 10 Minutos à Tarde para Rastreamento de Dados",
+          "id": "Langkah 1: Sesi Pelacakan Data & Indikator Lapangan Siang Hari 10 Menit"
         },
         "text": {
-          "ko": "매일 오후 10분간 책상을 떠나 사용자 피드백, 시스템 통계 지표, 혹은 현장의 반응을 직접 관찰하고 기록할 준비를 합니다."
+          "ko": "매일 오후 10분간 책상을 떠나 사용자 피드백, 시스템 통계 지표, 혹은 현장의 반응을 직접 관찰하고 기록할 준비를 합니다.",
+          "en": "Dedicate 10 minutes every afternoon stepping away from routine work to directly observe and prepare to log real-time user feedback, system analytics, or field reactions.",
+          "ja": "毎日午後10分間デスクを離れ、ユーザーフィードバック、システム統計指標、あるいは現場の反応を直接観察し記録する準備をします。",
+          "zh": "每天下午抽出10分钟步离日常桌案，准备直接观察与记录实时用户反馈、系统数据指标或一线现场真实反响。",
+          "es": "Dedique 10 minutos cada tarde a alejarse del trabajo rutinario para observar y registrar directamente los comentarios de los usuarios, las analíticas del sistema o las reacciones del campo.",
+          "de": "Nehmen Sie sich jeden Nachmittag 10 Minuten Zeit, um abseits der Routine Nutzerfeedback, Systemkennzahlen oder Reaktionen direkt vor Ort zu beobachten und zu dokumentieren.",
+          "fr": "Consacrez 10 minutes chaque après-midi a quitter vos tâches quotidiennes pour observer et consigner directement les retours d'utilisateurs, les indicateurs système ou les réactions du terrain.",
+          "pt": "Dedique 10 minutos todas as tardes afastando-se do trabalho rotineiro para observar e registrar diretamente o feedback dos usuários, estatísticas do sistema ou reações no campo.",
+          "id": "Luangkan waktu 10 menit setiap sore untuk melangkah keluar dari pekerjaan rutin guna mengamati secara langsung dan bersiap mencatat umpan balik pengguna, analitik sistem, atau reaksi lapangan."
         }
       },
       {
         "name": {
-          "ko": "2단계: 객관적 현장 관찰 지표 3줄 정직 기재"
+          "ko": "2단계: 객관적 현장 관찰 지표 3줄 정직 기재",
+          "en": "Step 2: Honest 3-Line Entry of Objective Field Observations",
+          "ja": "ステップ2：客観的現場観察指標の3行正直記載",
+          "zh": "步骤2：如实三行誊录客观现场观察指标",
+          "es": "Paso 2: Registro Honesto de 3 Líneas de Observaciones Objetivas de Campo",
+          "de": "Schritt 2: Ehrliches Eintragen von 3 Zeilen objektiver Beobachtungen",
+          "fr": "Étape 2 : Consignation honnête en 3 lignes des observations objectives",
+          "pt": "Passo 2: Registro Honesto de 3 Linhas de Observações Objetivas de Campo",
+          "id": "Langkah 2: Pencatatan Jujur 3 Baris dari Pengamatan Lapangan Objektif"
         },
         "text": {
-          "ko": "1) 관찰된 객관적 현상, 2) 예상치 못한 예외 사례, 3) 누적된 핵심 지표 수치를 관찰 일지 노트에 3줄로 타협 없이 정직하게 적습니다."
+          "ko": "1) 관찰된 객관적 현상, 2) 예상치 못한 예외 사례, 3) 누적된 핵심 지표 수치를 관찰 일지 노트에 3줄로 타협 없이 정직하게 적습니다.",
+          "en": "Record 3 distinct lines into your observation journal with uncompromising honesty: 1) raw observed empirical facts, 2) unexpected exceptions or counter-evidence, and 3) cumulative key metric figures.",
+          "ja": "1）観察された客観的現象、2）予期せぬ例外事例、3）蓄積された核心指標数値を、観察日誌ノートに3行で妥協なく正直に書き記します。",
+          "zh": "绝不妥协地将以下三项如实填入观察手记中：1）目击到的客观现象，2）意料之外的例外反例，3）累积的核心指标精准数值。",
+          "es": "Anote 3 líneas en su diario de observación con honestidad inquebrantable: 1) hechos empíricos observados, 2) excepciones imprevistas o contraevidencias, y 3) cifras de métricas clave acumuladas.",
+          "de": "Tragen Sie 3 Zeilen ohne Kompromisse in Ihr Beobachtungstagebuch ein: 1) beobachtete Fakten, 2) unerwartete Ausnahmen oder Gegenbeweise und 3) kumulierte Hauptkennzahlen.",
+          "fr": "Inscrivez 3 lignes dans votre journal d'observation avec una honnêteté sans compromis : 1) faits empiriques observés, 2) exceptions imprévues ou contre-exemples, et 3) chiffres des indicateurs clés cumulés.",
+          "pt": "Anote 3 linhas em seu diário de observação com honestidade incondicional: 1) fatos empíricos observados, 2) exceções imprevistas ou contraevidências e 3) números de métricas-chave acumuladas.",
+          "id": "Catat 3 baris secara terpisah ke dalam jurnal pengamatan Anda dengan kejujuran tanpa kompromi: 1) fakta empiris mentah yang diamati, 2) pengecualian atau bukti tandingan yang tidak terduga, dan 3) angka metrik utama akumulatif."
         }
       },
       {
         "name": {
-          "ko": "3단계: 누적 패턴 파악 및 가설 고도화"
+          "ko": "3단계: 누적 패턴 파악 및 가설 고도화",
+          "en": "Step 3: Identifying Cumulative Patterns and Refining Hypotheses",
+          "ja": "ステップ3：蓄積パターンの把握および仮説の高度化",
+          "zh": "步骤3：梳理累积数据模式与精细重塑假说",
+          "es": "Paso 3: Identificar Patrones Acumulados y Refinar Hipótesis",
+          "de": "Schritt 3: Erkennen kumulierter Muster & Nachbessern von Hypothesen",
+          "fr": "Étape 3 : Identification des motifs cumulés & Affinement des hypothèses",
+          "pt": "Passo 3: Identificar Padrões Acumulados e Refinar Hipóteses",
+          "id": "Langkah 3: Mengidentifikasi Pola Akumulatif dan Mempertajam Hipotesis"
         },
         "text": {
-          "ko": "주말이나 정기 검토 시 일주일간 축적된 관찰 기록을 모아보며, 파편화된 데이터 속 숨겨진 공통 패턴을 발견하여 다음 가설과 전략에 적용합니다."
+          "ko": "주말이나 정기 검토 시 일주일간 축적된 관찰 기록을 모아보며, 파편화된 데이터 속 숨겨진 공통 패턴을 발견하여 다음 가설과 전략에 적용합니다.",
+          "en": "During weekly reviews, aggregate logged data across days. Identify hidden overarching patterns within the fragmented entries and apply those insights to upgrade your next strategy or hypothesis.",
+          "ja": "週末や定期的なレビューの際、一週間蓄積された観察記録を集めて見渡し、断片化されたデータの中に隠された共通パターンを発見して次の仮説と戦略に適用します。",
+          "zh": "在周末或定期复盘节点，集中查看全周沉淀的观察手记。搜寻散乱碎片数据中潜藏的共性底层模式，并将其注入下一阶段的战略与假设迭代中。",
+          "es": "Durante las revisiones semanales, agrupe los datos registrados. Identifique patrones clave dentro de las notas fragmentadas y aplique esas conclusiones para perfeccionar su próxima estrategia o hipótesis.",
+          "de": "Sammeln Sie bei wöchentlichen Überprüfungen die erfassten Daten. Erkennen Sie verborgene Muster in den Notizen und nutzen Sie diese Erkenntnisse zur Anpassung Ihrer Strategie.",
+          "fr": "Lors des révisions hebdomadaires, rassemblez les données consignées. Identifiez les structures cachées sous les notes éparses et appliquez ces enseignements pour perfectionner votre stratégie.",
+          "pt": "Durante as revisões semanais, reúna os dados registrados. Identifique padrões ocultos nas anotações fragmentadas e aplique esses aprendizados para aprimorar sua próxima estratégia.",
+          "id": "Selama peninjauan mingguan, kumpulkan data yang dicatat. Identifikasi pola utama yang tersembunyi di dalam entri yang terfragmentasi dan terapkan wawasan tersebut untuk memperbarui strategi."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "관찰 일지를 매일 적는데 의미 있는 패턴이 안 보이면 어떻게 하나요?"
+          "ko": "관찰 일지를 매일 적는데 의미 있는 패턴이 안 보이면 어떻게 하나요?",
+          "en": "What should I do if no meaningful pattern emerges despite logging data daily?",
+          "ja": "観察日誌を毎日書いているのに意味のあるパターンが見えない場合はどうすればよいですか？",
+          "zh": "若每天坚持填写观察手记，却迟迟抓取不到有意义的底向模式，该如何应对？",
+          "es": "¿Qué debo hacer si no surge ningún patrón significativo a pesar de registrar datos diariamente?",
+          "de": "Was tun, wenn sich trotz täglicher Aufzeichnungen keine klaren Muster zeigen?",
+          "fr": "Que faire si aucun motif significatif n'émerge malgré un suivi quotidien ?",
+          "pt": "O que fazer se nenhum padrão significativo surgir apesar de registrar dados diariamente?",
+          "id": "Apa yang harus saya lakukan jika tidak ada pola bermakna yang muncul meskipun mencatat data setiap hari?"
         },
         "answer": {
-          "ko": "패턴이 당장 안 보이는 데이터조차 소중한 '노이즈 제거' 과정입니다. 1개월 이상 정량 데이터가 축적되면 전전두엽이 스스로 맥락을 연결하여 유의미한 패턴을 찾아냅니다."
+          "ko": "패턴이 당장 안 보이는 데이터조차 소중한 '노이즈 제거' 과정입니다. 1개월 이상 정량 데이터가 축적되면 전전두엽이 스스로 맥락을 연결하여 유의미한 패턴을 찾아냅니다.",
+          "en": "Data that displays no immediate pattern serves a valuable purpose in filtering out sensory noise. Once quantitative entries accumulate over 30 days, prefrontal networks synthesize contextual connections and surface hidden underlying patterns automatically.",
+          "ja": "パターンがすぐに見えないデータであっても、貴重な「ノイズ除去」の過程です。1ヶ月以上定量データが蓄積されれば、前頭前野が自ら文脈を連結し、意味のあるパターンを見つけ出します。",
+          "zh": "即便是当下看不出规律的数据，也是剔除感官噪点极其宝贵的“滤噪”过程。一旦定量数据沉淀达1个月以上，前额叶皮层便会自动串联上下文脉络，自发显现出深具价值的底层模式。",
+          "es": "Los datos que no muestran un patrón inmediato sirven para filtrar el ruido. Una vez que las entradas cuantitativas se acumulan durante más de 30 días, la corteza prefrontal sintetiza conexiones y revela patrones ocultos de forma automática.",
+          "de": "Daten ohne sofort erkennbare Muster dienen dem Ausfiltern von Störfaktoren. Wenn über einen Monat lang Daten gesammelt werden, verknüpft der präfrontale Kortex Zusammenhänge automatisch und bringt verborgene Muster ans Licht.",
+          "fr": "Des données sans motif immédiat servent a éliminer le bruit. Une fois les chiffres accumulés sur plus de 30 jours, le cortex préfrontal fait des liens et révèle automatiquement des structures cachées.",
+          "pt": "Dados que não mostram um padrão imediato servem para filtrar o ruído. Quando os dados se acumulam por mais de 30 dias, o córtex pré-frontal sintetiza conexões e revela padrões ocultos automaticamente.",
+          "id": "Data yang tidak menunjukkan pola segera berfungsi untuk menyaring kebisingan sensorik. Setelah entri kuantitatif terakumulasi selama lebih dari 30 hari, jaringan prefrontal akan menyintesis koneksi kontekstual."
         }
       },
       {
         "question": {
-          "ko": "제너처럼 시골 의사가 아닌 일반 현대 사무직도 현장 조사가 가능한가요?"
+          "ko": "제너처럼 시골 의사가 아닌 일반 현대 사무직도 현장 조사가 가능한가요?",
+          "en": "Can modern office workers or non-medical professionals conduct field tracking like Jenner?",
+          "ja": "ジェンナーのように田舎の医師ではない一般的な現代のオフィスワーカーも現場調査が可能ですか？",
+          "zh": "非乡村医师的普通现代职场白领，同样能实施此类现场调查与跟踪吗？",
+          "es": "¿Pueden los trabajadores de oficina modernos o profesionales no médicos realizar rastreos de campo como Jenner?",
+          "de": "Können auch moderne Büroangestellte oder Nicht-Mediziner solche Feldbeobachtungen durchführen?",
+          "fr": "Les employés de bureau modernes ou non-médicaux peuvent-ils mener des observations de terrain à l'image de Jenner ?",
+          "pt": "Trabalhadores de escritório modernos ou profissionais de outras áreas podem realizar rastreamentos de campo como Jenner?",
+          "id": "Bisakah pekerja kantor modern atau profesional non-medis melakukan pelacakan lapangan seperti Jenner?"
         },
         "answer": {
-          "ko": "네, 완벽히 가능합니다! 사용자 후기, CS 문의 텍스트, Google Analytics 지표, 사내 팀원들의 반응 관찰이 현대 사무직의 가장 위대한 '현장'입니다."
+          "ko": "네, 완벽히 가능합니다! 사용자 후기, CS 문의 텍스트, Google Analytics 지표, 사내 팀원들의 반응 관찰이 현대 사무직의 가장 위대한 '현장'입니다.",
+          "en": "Yes, absolutely! Reviewing raw user feedback, customer support ticket text, Google Analytics metrics, or observing internal team operational signals represent the primary 'field' for modern knowledge workers.",
+          "ja": "はい、完璧に可能です！ユーザーの口コミ、CS問い合わせのテキスト、Google Analyticsの指標、社内チームメンバーの反応の観察こそが、現代のオフィスワーカーの最も偉大な「現場」です。",
+          "zh": "完全可以！用户真实评价、客服工单文本、Google Analytics数据指标、以及对内部团队成员微观反应的观照，正是现代知识型白领最为宏伟的“现场”。",
+          "es": "¡Sí, totalmente! Revisar comentarios de usuarios, textos de soporte al cliente, métricas de Google Analytics o analizar reacciones del equipo representan el 'campo' ideal para trabajadores modernos.",
+          "de": "Ja, absolut! Das Auswerten von Nutzerbewertungen, Kundenservice-Meldungen, Google-Analytics-Daten oder Reaktionen im Team ist das 'Feld' moderner Wissensarbeiter.",
+          "fr": "Oui, tout à fait ! Examiner les avis d'utilisateurs, les tickets de support client, les données Google Analytics ou observer les réactions des équipes constituent le « terrain » idéal du travailleur du savoir.",
+          "pt": "Sim, com certeza! Analisar avaliações de usuários, chamados de suporte, métricas do Google Analytics ou reações da equipe interna representam o 'campo' ideal para trabalhadores modernos.",
+          "id": "Ya, tentu saja! Meninjau umpan balik pengguna mentah, teks tiket layanan pelanggan, metrik Google Analytics, atau mengamati sinyal tim internal mewakili 'lapangan' utama bagi pekerja pengetahuan modern."
         }
       }
     ]

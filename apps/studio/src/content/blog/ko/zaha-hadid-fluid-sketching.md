@@ -28,7 +28,7 @@ faqs:
 
 하디드는 고정된 수평·수직 격자의 툴을 내려놓고 대형 무지 스케치북 위에 먹물과 펜으로 물결치듯 자유로운 곡선과 비정형 선들을 끊임없이 손으로 그렸습니다. 손의 유기적 움직임 속에 포착된 시공간 힌트들이 비선형적 공간 3차원 구상의 도파민 회로를 극적으로 자극했습니다.
 
-오늘 BuildSelf에서는 자하 하디드의 '자유 곡선 스케치' 루틴과 현대인을 위한 3단계 발상 실천법을 탐구합니다.
+오늘 포스트에서는 자하 하디드의 '자유 곡선 스케치' 루틴과 현대인을 위한 3단계 발상 실천법을 탐구합니다.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

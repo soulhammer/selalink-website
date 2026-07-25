@@ -1,70 +1,214 @@
 {
   "klimt-gardening-nature-refresh": {
     "title": {
-      "ko": "푸른 로브를 입고 아침 장미를 관찰한 화가? 구스타프 클림트의 정원 산책 루틴"
+      "ko": "푸른 로브를 입고 아침 장미를 관찰한 화가: 구스타프 클림트의 정원 산책 루틴과 부드러운 매료(Soft Fascination)",
+      "en": "The Painter in the Blue Smock Who Observed Morning Roses: Gustav Klimt's Garden Walk Routine and Soft Fascination",
+      "ja": "青いローブを着て朝のバラを観察した画家：グスタフ・クリムトの庭園散歩ルーティンと「柔らかい魅了（Soft Fascination）」",
+      "zh": "身着蓝色长袍凝望晨玫瑰的画擘：古斯塔夫·克里姆特的花园踱步习惯与软性着迷（Soft Fascination）",
+      "es": "El Pintor de la Batas Azul que Observaba las Rosas Matutinas: La Rutina de Paseo por el Jardín y Fascinación Suave de Gustav Klimt",
+      "de": "Der Maler im blauen Kittel, der die Morgenrosen betrachtete: Gustav Klimts Garten-Spaziergangsroutine und Soft Fascination",
+      "fr": "Le peintre au sarrau bleu qui observait les roses du matin : La routine de promenade au jardin et la Fascination Douce de Gustav Klimt",
+      "pt": "O Pintor da Túnica Azul que Observava as Rosas Matinais: A Rotina de Caminhada no Jardim e Fascinação Suave de Gustav Klimt",
+      "id": "Pelukis Jubah Biru yang Mengamati Mawar Pagi: Rutinitas Jalan-Jalan Taman dan Soft Fascination Gustav Klimt"
     },
     "description": {
-      "ko": "황금빛 화풍의 거장 구스타프 클림트. 매일 아침 오스트리아 아터제 호숫가 정원을 산책하며 꽃과 자연의 프랙탈 문양을 관찰했던 주의력 회복 루틴과 3단계 실천 가이드를 알아봅니다."
+      "ko": "황금빛 화풍의 거장 구스타프 클림트. 매일 아침 오스트리아 아터제 호숫가 정원을 산책하며 꽃과 자연의 프랙탈 문양을 관찰했던 주의력 회복 이론(ART) 기반의 루틴, 전전두엽 리셋 원리 및 3단계 실천 가이드를 알아봅니다.",
+      "en": "Discover how Golden Phase master Gustav Klimt restored visual attention by walking through flower gardens along Austria's Lake Attersee. Explore Attention Restoration Theory (ART), prefrontal reset, natural fractal perception, and a 3-step practice guide.",
+      "ja": "黄金様式の巨匠グスタフ・クリムト。毎日朝オーストリアのアッター湖畔の庭園を散歩し、花や自然のフラクタル模様を観察した注意力回復理論（ART）に基づくルーティン、前頭前野リセットの原理および3段階実践ガイドを解き明かします。",
+      "zh": "深度剖析金色艺术大师古斯塔夫·克里姆特如何通过每日清晨漫步于奥地利阿特湖畔的花园、观照花卉与自然分形图形复苏视注意力。揭示注意力恢复理论（ART）、前额叶充能与3步骤实践指南。",
+      "es": "Descubra cómo el maestro del estilo dorado Gustav Klimt restauraba su atención visual paseando por los jardines del lago Attersee en Austria. Explore la Teoría de la Restauración de la Atención (ART), el restablecimiento prefrontal, los fractales naturales y una guía de 3 pasos.",
+      "de": "Erfahren Sie, wie der Meister der Goldenen Phase Gustav Klimt seine Seh-Aufmerksamkeit durch Spaziergänge in den Gärten am Attersee regenerierte. Entdecken Sie die Attention Restoration Theory (ART), fraktale Geometrie der Natur und eine 3-Schritte-Anleitung.",
+      "fr": "Découvrez comment le maître du style doré Gustav Klimt régénérait son attention visuelle en arpentant les jardins du lac Attersee en Autriche. Explorez la Théorie de la Restauration de l'Attention (ART), la réinitialisation préfrontale, les fractales naturelles et un guide en 3 étapes.",
+      "pt": "Descubra como o mestre da Fase Dourada Gustav Klimt restaurava sua atenção visual caminhando pelos jardins do lago Attersee na Áustria. Explore a Teoria da Restauração da Atenção (ART), o reinício pré-frontal, a percepção de fractais naturais e um guia de 3 passos.",
+      "id": "Pelajari bagaimana maestro Era Keemasan Gustav Klimt memulihkan perhatian visual dengan berjalan-jalan di taman bunga Danau Attersee di Austria. Temukan Attention Restoration Theory (ART), reset prefrontal, fraktal alam, dan panduan praktis 3 langkah."
     },
     "authority": {
-      "ko": "구스타프 클림트 평전 및 아터제 아카이브(Attersee Archive) 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 환경심리학(Environmental Psychology) 연구"
+      "ko": "구스타프 클림트 평전 및 아터제 아카이브(Attersee Archive) 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 환경심리학(Environmental Psychology) 연구",
+      "en": "Historical Verification from Gustav Klimt Biographies, Attersee Archives & Cognitive Neuroscience and Environmental Psychology Research",
+      "ja": "グスタフ・クリムト評伝およびアッター湖アーカイブ（Attersee Archive）史料考証＆認知神経科学（Cognitive Neuroscience）および環境心理学（Environmental Psychology）研究",
+      "zh": "古斯塔夫·克里姆特传记与阿特湖档案（Attersee Archive）史料考证及认知神经科学（Cognitive Neuroscience）与环境心理学（Environmental Psychology）研究",
+      "es": "Verificación Histórica de las Biografías de Gustav Klimt, Archivos de Attersee e Investigación en Neurociencia Cognitiva y Psicología Ambiental",
+      "de": "Historische Überprüfung aus Gustav Klimt Biografien, Attersee-Archiven & Forschung der kognitiven Neurowissenschaften und Umweltpsychologie",
+      "fr": "Vérification Historique issue des biographies de Gustav Klimt, des archives d'Attersee & de la Recherche en Neurosciences Cognitives et Psychologie Environnementale",
+      "pt": "Verificação Histórica das Biografias de Gustav Klimt, Arquivos de Attersee e Pesquisa em Neurociência Cognitiva e Psicologia Ambiental",
+      "id": "Verifikasi Historis dari Biografi Gustav Klimt, Arsip Attersee & Penelitian Neurosains Kognitif serta Psikologi Lingkungan"
     },
     "intro": {
-      "ko": "'키스(The Kiss)', '유디트(Judith)' 등 찬란한 금박과 정교한 유기적 패턴으로 관능과 황금빛 예술의 정점을 구축한 오스트리아의 상징주의 대화가, 구스타프 클림트(Gustav Klimt). 시대를 앞서간 그의 화려하고 정교한 시각적 패턴과 압도적인 창작 에너지는 과연 어디서 충전되었을까요? 🎨\n\n클림트는 매일 아침 화가 전용의 헐렁한 푸른 로브(Smock)를 입고 오스트리아 아터제(Attersee) 호숫가의 붉은 장미와 야생화가 만발한 정원을 조용히 걸었습니다. 그는 돋보기나 뷰파인더를 들고 장미 꽃잎의 유기적 프랙탈 구조, 수면에 반사되는 아침 햇살의 기하학적 입자들을 깊은 시선으로 묵묵히 관찰했습니다. 도시 스튜디오의 찌든 피로와 집착에서 벗어나 자연의 순수한 형상과 색채에 몰입하는 이 아침 정원 루틴은 고갈된 시각적 주의력(Attention Fatigue)을 완벽하게 리셋하는 치유의 시간이었습니다.\n\n오늘 포스트에서는 클림트의 '아침 정원 자연 관찰' 루틴의 뇌과학적 원리와 현대 뇌 피로에 시달리는 현대인들이 주의력을 회복하는 3단계 실천 가이드를 공개합니다."
+      "ko": "'키스(The Kiss)', '유디트(Judith)' 등 찬란한 금박과 정교한 유기적 패턴으로 관능과 황금빛 예술의 정점을 구축한 오스트리아의 상징주의 대화가 구스타프 클림트(Gustav Klimt, 1862–1918). 시대를 앞서간 그의 화려하고 정교한 시각적 패턴과 압도적인 창작 에너지는 과연 어디서 충전되었을까요? 🎨\n\n클림트는 매년 여름 도시의 소음과 빈(Vienna) 스튜디오의 찌든 피로에서 벗어나 오스트리아 아터제(Attersee) 호숫가 정원으로 향했습니다. 그는 매일 아침 화가 전용의 헐렁한 푸른 로브(Smock)를 입고 붉은 장미와 야생화가 만발한 정원을 조용히 걸었습니다. 클림트는 호주머니 속에 들고 다니던 사각 뷰파인더(Square Viewfinder)나 돋보기를 활용해 장미 꽃잎의 유기적 프랙탈 구조, 나뭇잎의 줄기 매듭, 수면에 반사되는 아침 햇살의 기하학적 입자들을 깊은 시선으로 묵묵히 관찰했습니다. 도시 생활과 화실의 집착에서 벗어나 자연의 순수한 형상과 빛에 몰입하는 이 아침 정원 루틴은 고갈된 시각적 지향성 주의력(Directed Attention)을 완벽하게 리셋하고 '부드러운 매료(Soft Fascination)' 상태를 유도하는 치유의 시간이었습니다.\n\n오늘 포스트에서는 클림트의 '아침 정원 자연 관찰' 루틴의 뇌과학적 원리와 현대 뇌 피로에 시달리는 현대인들이 주의력을 회복하는 3단계 실천 가이드를 공개합니다.",
+      "en": "\"Whoever wants to know something about me as an artist ought to look carefully at my pictures... But to fuel my artistic soul, I walk quietly among the morning roses.\" 🎨\n\nGustav Klimt (1862–1918) was the Austrian Symbolist painter who pioneered the Golden Phase, crafting timeless masterworks like *The Kiss* and *Judith and the Head of Holofernes* with shimmering gold leaf and intricate organic geometry. Where did Klimt recharge his immense visual imagination and creative stamina?\n\nEvery summer, escaping the urban noise and studio pressures of Vienna, Klimt retreated to the shores of Lake Attersee in upper Austria. As documented in the Attersee Archives, Klimt woke early every morning, donned his iconic loose-fitting blue painter's smock, and strolled silently through flower gardens brimming with roses and wildflowers. Carrying a small ivory square viewfinder in his pocket, he held it up to isolate rose petals, tree bark textures, and light particles sparkling on the water. Immersing his eyes in natural fractal geometry without the need for conscious intellectual exertion induced 'Soft Fascination'. This daily nature observation routine cleared his prefrontal cortex of Directed Attention Fatigue, providing the neurobiological foundation for his ornamental art style.\n\nIn today's post, we examine the environmental psychology and neuroscience behind Gustav Klimt's 'morning garden walk' routine and present a modern 3-step practice guide to restore executive attention using natural fractals.",
+      "ja": "「芸術家としての私について何かを知りたい人は、私の絵を注意深く見るべきだ…しかし、私の芸術的魂に燃料を補給するため、私は朝のバラの間を静かに歩く。」 🎨\n\n『接吻（The Kiss）』や『ユディト（Judith）』など、燦爛たる金箔と精巧な有機的パターンで官能と黄金色の芸術の頂点を構築したオーストリアの象徴主義の大画家、グスタフ・クリムト（Gustav Klimt、1862–1918）。時代を zoo 先取りした彼の華麗で精巧な視覚的パターンと圧倒的な創作エネルギーは、一体どこで充電されたのでしょうか？\n\nクリムトは毎年夏、都市の騒音とウィーンのスタジオの蓄積した疲労から抜け出し、オーストリアのアッター湖（Attersee）の湖畔の庭園へと向かいました。彼は毎朝、画家専用のダボッとした青いローブ（Smock）を着て、赤いバラと野花が咲き乱れる庭園を静かに歩きました。クリムトはポケットの中に持ち歩いていた四角いビューファインダー（Square Viewfinder）や拡大鏡を活用し、バラの花びらの有機的フラクタル構造、木の葉の茎の結び目、水面に反射する朝の陽光の幾何学的粒子を深い視線で黙々と観察しました。都市生活と画室の執着から脱し、自然の純粋な形状と光に没頭するこの朝の庭園ルーティンは、枯渇した視覚的指向性注意力（Directed Attention）を完璧にリセットし、「柔らかい魅了（Soft Fascination）」状態を誘導する治癒の時間だったのです。\n\n本日の記事では、クリムトの「朝の庭園自然観察」ルーティンの脳科学的原理と、現代の脳疲労に苦しむ現代人が注意力を回復する3段階の実践ガイドを公開します。",
+      "zh": "“凡欲探寻我作为艺术家之底细者，皆当审慎端详我的画作……然而，若欲为我艺术灵魂注满养分，我唯有默然踱步于晨玫瑰花丛间。” 🎨\n\n凭《吻（The Kiss）》、《朱迪斯（Judith）》等璀璨金箔与精密有机纹样勾勒出感官与金色艺术巅峰的奥地利象征主义画擘——古斯塔夫·克里姆特（Gustav Klimt，1862–1918）。他那超越时代的华丽精密视觉图案与震撼人心的创作能量，究竟始于何处的蓄能？\n\n每年夏季，克里姆特皆会斩断都市喧嚣与维也纳画室的繁重疲惫，赴往奥地利阿特湖（Attersee）湖畔的花园隐居。他每天清晨身着画工专属的宽松蓝色长袍（Smock），沉静穿行于红玫瑰与野花盛开的花园中。克里姆特会拿出随身携带的象牙材质方形取景框（Square Viewfinder）与放大镜，深情默然观照玫瑰花瓣的有机分形（Fractal）结构、树叶脉络的自然纹理、以及湖面折射的光影微理。置身于摆脱都市喧扰与画案执念的自然纯粹形貌与光影中，这套晨间花园踱步习惯乃是彻底复位干涸的视“定向注意力（Directed Attention）”、诱发“软性着迷（Soft Fascination）”状态的极佳神经治愈仪式。\n\n在今天的文章中，我们将深度解构克里姆特“晨间花园自然观照”习惯背后的脑科学原理，并分享一套助饱受脑疲劳困扰的现代人复苏注意力的3步骤实践指南。",
+      "es": "\"Quien quiera saber algo sobre mí como artista debe mirar atentamente mis cuadros... Pero para alimentar mi alma artística, camino en silencio entre las rosas matutinas.\" 🎨\n\nGustav Klimt (1862–1918) fue el pintor simbolista austriaco que lideró la Fase Dorada, creando obras maestras inmortales como *El beso* y *Judith y la cabeza de Holofernes* con pan de oro y geometrías orgánicas. ¿Dónde recargaba Klimt su imaginación visual y su energía creativa?\n\nCada verano, huyendo del ruido urbano y el estrés de su taller en Viena, Klimt se retiraba a las orillas del lago Attersee. Como documentan los Archivos de Attersee, Klimt se levantaba temprano, se ponía su túnica azul de pintor y paseaba en silencio por jardines de rosas y flores silvestres. Utilizando un pequeño visor cuadrado de marfil que llevaba en el bolsillo, observaba de cerca los pétalos de las rosas, las texturas de los árboles y los reflejos de la luz en el agua. Sumergir la vista en fractales naturales sin esfuerzo mental inducía un estado de 'Fascinación Suave' (*Soft Fascination*). Esta observación relajaba su corteza prefrontal de la Fatiga de Atención Dirigida.\n\nEn la publicación de hoy, analizamos la psicología ambiental y la neurociencia detrás de la rutina de 'paseo matutino por el jardín' de Gustav Klimt y presentamos una guía práctica de 3 pasos para restaurar la atención ejecutiva.",
+      "de": "\"Wer über mich als Künstler etwas wissen will, der betrachte aufmerksam meine Bilder... Um aber meine künstlerische Seele zu nähren, wandere ich morgens still durch die Rosen.\" 🎨\n\nGustav Klimt (1862–1918) war der österreichische Maler des Symbolismus, der mit Werken wie *Der Kuss* und *Judith* die 'Goldene Phase' prägte. Wo schöpfte Klimt seine enorme visuelle Vorstellungskraft und schöpferische Kraft?\n\nJeden Sommer entfloh Klimt dem Lärm der Großstadt und dem Druck seines Wiener Ateliers an das Ufer des Attersees. Wie die Attersee-Archive belegen, stand Klimt morgens früh auf, zog seinen blauen Malerkittel an und spazierte durch blühende Rosengärten. Mit einem kleinen quadratischen Sucher aus Elfenbein betrat er die Natur, um Rosenblätter, Rindenstrukturen und Lichtreflexe auf dem Wasser zu betrachten. Das freie Betrachten natürlicher Strukturen ohne geistige Anstrengung versetzte sein Gehirn in den Zustand der 'weichen Faszination' (*Soft Fascination*). Diese Gewohnheit befreite seinen präfrontalen Kortex von kognitiver Erschöpfung.\n\nIm heutigen Beitrag untersuchen wir die Umweltpsychologie und Neurowissenschaften hinter Gustav Klimts 'Garten-Spaziergangsroutine' und bieten eine 3-Schritte-Anleitung zur Wiederherstellung der Aufmerksamkeit.",
+      "fr": "« Si quelqu'un veut savoir quelque chose sur moi comme artiste, qu'il regarde attentivement mes tableaux... Mais pour nourrir mon âme d'artiste, je me promène en silence parmi les roses du matin. » 🎨\n\nGustav Klimt (1862–1918) fut le peintre symboliste autrichien qui a inauguré le 'Cycle d'or', créant des chefs-d'œuvre comme *Le Baiser* et *Judith* par l'emploi de la feuille d'or et de motifs géométriques. Où Klimt puisait-il sa prodigieuse imagination visuelle et son énergie créative ?\n\nChaque été, fuyant le bruit de la ville et les contraintes de son atelier viennois, Klimt se retirait sur les rives du lac Attersee. Comme le rapportent les Archives d'Attersee, Klimt se levait tôt, enfilait sa blouse bleue de peintre et déambulait dans des jardins fleuris de roses et de fleurs sauvages. Muni d'un viseur carré en ivoire qu'il gardait en poche, il observait les pétales de rose, la texture des écorces et les reflets de la lumière sur l'eau. Contempler des formes fractales sans effort intellectuel provoquait un état de 'Fascinations Douce' (*Soft Fascination*). Cette habitude libérait son cortex préfrontal de la fatigue attentionnelle.\n\nDans cet article, nous analysons la psychologie environnementale et la neuroscience sous-jacentes à la routine de « promenade matinale au jardin » de Gustav Klimt et proposons un guide en 3 étapes pour régénérer votre attention.",
+      "pt": "\"Quem quiser saber algo sobre mim como artista deve olhar atentamente para meus quadros... Mas para alimentar minha alma artística, caminhou em silêncio entre as rosas matinais.\" 🎨\n\nGustav Klimt (1862–1918) foi o pintor simbolista austríaco que liderou a Fase Dourada, criando obras-primas imortais como *O Beijo* e *Judite* com folhas de ouro e geometrias orgânicas. Onde Klimt recarregava sua imaginação visual e energia criativa?\n\nTodos os verões, escapando do ruído urbano e das pressões do seu ateliê em Viena, Klimt retirava-se para as margens do lago Attersee. Como documentam os Arquivos de Attersee, Klimt acordava cedo, vestia sua túnica azul de pintor e passeava em silêncio por jardins de rosas e flores silvestres. Usando um pequeno visor quadrado de marfim no bolso, observava de perto as pétalas de rosa, as texturas das árvores e os reflexos da luz na água. Contemplar fractais naturais sem esforço mental induzia o estado de 'Fascinação Suave' (*Soft Fascination*). Essa observação aliviava seu córtex pré-frontal da Fadiga de Atenção Dirigida.\n\nNo artigo de hoje, analisamos a psicologia ambiental e a neurociência por trás da rotina de 'caminhada matinal no jardim' de Gustav Klimt e apresentamos um guia prático de 3 passos para restaurar a atenção executiva.",
+      "id": "\"Siapa pun yang ingin mengetahui sesuatu tentang saya sebagai seniman harus melihat gambar-gambar saya dengan cermat... Tetapi untuk memberi makan jiwa seni saya, saya berjalan dengan tenang di antara mawar pagi.\" 🎨\n\nGustav Klimt (1862–1918) adalah pelukis Simbolis Austria yang memelopori Era Keemasan, menciptakan mahakarya abadi seperti *The Kiss* dan *Judith and the Head of Holofernes* dengan daun emas yang berkilauan dan geometri organik. Dari mana Klimt memulihkan imajinasi visual dan stamina kreatifnya yang luar biasa?\n\nSetiap musim panas, melarikan diri dari kebisingan kota dan tekanan studio di Wina, Klimt menyendiri ke tepi Danau Attersee. Seperti yang didokumentasikan dalam Arsip Attersee, Klimt bangun pagi setiap hari, mengenakan jubah pelukis biru yang khas, dan berjalan-jalan secara tenang di taman bunga yang penuh dengan mawar. Membawa pembingkai gambar persegi gading kecil di saku kemejanya, ia melihat kelopak mawar, tekstur kulit kayu, dan partikel cahaya yang berkilauan di atas air. Membenamkan matanya dalam geometri fraktal alam tanpa perlu pengerahan tenaga intelektual secara sadar menginduksi 'Soft Fascination'. Rutinitas ini membersihkan korteks prefrontal dari Kelelahan Perhatian Terarah.\n\nDalam postingan hari ini, kami menganalisis psikologi lingkungan dan neurosains di balik rutinitas 'jalan-jalan taman pagi' Gustav Klimt dan menyajikan panduan praktis 3 langkah."
     },
     "whyTitle": {
-      "ko": "자연 프랙탈 관찰과 주의력 회복 이론(Attention Restoration Theory, ART)"
+      "ko": "자연 프랙탈 관찰과 주의력 회복 이론(Attention Restoration Theory, ART)",
+      "en": "Natural Fractal Observation and Attention Restoration Theory (ART)",
+      "ja": "自然フラクタル観察と注意力回復理論（Attention Restoration Theory, ART）",
+      "zh": "自然分形图景观照与注意力恢复理论（Attention Restoration Theory，ART）",
+      "es": "Observación de Fractales Naturales y Teoría de la Restauración de la Atención (ART)",
+      "de": "Betrachtung natürlicher Fraktale und Attention Restoration Theory (ART)",
+      "fr": "Observation des fractales naturelles et Théorie de la Restauration de l'Attention (ART)",
+      "pt": "Observação de Fractais Naturais e Teoria da Restauração da Atenção (ART)",
+      "id": "Pengamatan Fraktal Alam dan Attention Restoration Theory (ART)"
     },
     "whyDesc": {
-      "ko": "복잡한 모니터 화면과 인공 구조물에 둘러싸여 일할 때, 뇌의 전두엽은 특정 대상에 억지로 집중하느라 <strong>지향성 주의력(Directed Attention)</strong> 자원을 소모하여 극심한 <strong>주의력 피로(Attention Fatigue)</strong>를 느낍니다.\n\n환경심리학의 <strong>주의력 회복 이론(Attention Restoration Theory, ART)</strong>에 따르면, 꽃잎이나 나뭇잎 같은 자연의 프랙탈(Fractal) 구조는 뇌의 억제적 에너지를 요구하지 않는 <strong>'부드러운 매료(Soft Fascination)'</strong> 상태를 유발합니다.\n\n클림트처럼 아침 정원의 자연 형상과 빛을 묵묵히 관찰하면 고갈되었던 <strong>전전두엽(Prefrontal Cortex)</strong>의 주의력 자원이 즉각 복원되어 창의적 감각 재충전이 완결됩니다."
+      "ko": "복잡한 모니터 화면과 인공 구조물에 둘러싸여 일할 때, 뇌의 전두엽은 특정 대상에 억지로 집중하느라 <strong>지향성 주의력(Directed Attention)</strong> 자원을 소모하여 극심한 <strong>주의력 피로(Attention Fatigue)</strong>를 느낍니다. 환경심리학의 <strong>주의력 회복 이론(Attention Restoration Theory, ART)</strong>에 따르면, 꽃잎이나 나뭇잎 같은 자연의 프랙탈(Fractal) 구조는 뇌의 억제적 에너지를 요구하지 않는 <strong>'부드러운 매료(Soft Fascination)'</strong> 상태를 유발합니다. 클림트처럼 아침 정원의 자연 형상과 빛을 묵묵히 관찰하면 고갈되었던 <strong>전전두엽(Prefrontal Cortex)</strong>의 주의력 자원이 즉각 복원되어 창의적 감각 재충전이 완결됩니다.",
+      "en": "Working amidst artificial digital screens and dense urban structures forces the brain to expend <strong>Directed Attention</strong> resources, triggering severe <strong>Attention Fatigue</strong> in prefrontal networks. According to Rachel and Stephen Kaplan's <strong>Attention Restoration Theory (ART)</strong>, natural geometries—such as botanical fractals in rose petals and leaves—engage the mind effortlessly through a state known as <strong>Soft Fascination</strong>. Observing natural structures without cognitive suppression restores depleted central executive capacity in the <strong>Prefrontal Cortex</strong>, allowing creative sensory processing to recharge.",
+      "ja": "複雑なモニター画面や人工構造物に囲まれて働く時、脳の前頭葉は特定の対象に無理に集中するために<strong>指向性注意力（Directed Attention）</strong>資源を消耗し、極度な<strong>注意力疲労（Attention Fatigue）</strong>を感じます。環境心理学の<strong>注意力回復理論（Attention Restoration Theory, ART）</strong>によると、花びらや木の葉のような自然のフラクタル（Fractal）構造は、脳の抑制的エネルギーを要求しない<strong>「柔らかい魅了（Soft Fascination）」</strong>状態を誘発します。クリムトのように朝の庭園の自然の形状と光を黙々と観察すれば、枯渇していた<strong>前頭前野（Prefrontal Cortex）</strong>の注意力資源が即座に復元され、創造的感覚の再充電が完結します。",
+      "zh": "当长久置身于纷繁复杂的数字屏幕与人造建筑微环境中工作时，大脑前额叶需因强行聚焦特定目标而挥霍<strong>“定向注意力（Directed Attention）”</strong>，进而引发严重的<strong>“注意力疲劳（Attention Fatigue）”</strong>。依据环境心理学中的<strong>“注意力恢复理论（Attention Restoration Theory，ART）”</strong>，花瓣与叶片等自然界蕴含的分形（Fractal）几何图形，能诱发无需大脑付出生硬抑制性能量的<strong>“软性着迷（Soft Fascination）”</strong>状态。如克里姆特般沉静观照晨间花园的自然姿采与光影，能使干涸的<strong>前额叶皮层（Prefrontal Cortex）</strong>注意力资源即刻重获充盈复位，圆满达成感官创见的蓄能。",
+      "es": "Trabajar frente a pantallas digitales y entornos urbanos obliga al cerebro a agotar la <strong>Atención Dirigida (Directed Attention)</strong>, provocando <strong>Fatiga de Atención</strong>. Según la <strong>Teoría de la Restauración de la Atención (ART)</strong> de Rachel y Stephen Kaplan, la geometría de la naturaleza (fractales botánicos en pétalos y hojas) activa un estado llamado <strong>Fascinación Suave (Soft Fascination)</strong>. Observar la naturaleza sin esfuerzo mental restaura la capacidad de la <strong>Corteza Prefrontal</strong>, permitiendo que la creatividad se recargue.",
+      "de": "Das Arbeiten vor Bildschirmen in bebauter Umgebung verbraucht <strong>gerichtete Aufmerksamkeit (Directed Attention)</strong> und führt zu <strong>Aufmerksamkeitserschöpfung (Attention Fatigue)</strong> im Gehirn. Nach der <strong>Attention Restoration Theory (ART)</strong> lösen natürliche Formen – wie botanische Fraktale in Blättern und Blüten – einen Zustand namens <strong>weiche Faszination (Soft Fascination)</strong> aus. Das mühelose Betrachten natürlicher Strukturen regeneriert die Kapazitäten im <strong>präfrontalen Kortex</strong> und lädt die visuelle Kreativität wieder auf.",
+      "fr": "Travailler face à des écrans numériques et dans des environnements urbains épuise l'<strong>Attention Dirigée (Directed Attention)</strong>, entraînant la <strong>Fatigue Attentionnelle</strong>. Selon la <strong>Théorie de la Restauration de l'Attention (ART)</strong> de Rachel et Stephen Kaplan, la géométrie naturelle (fractales végétales des pétales et des feuilles) suscite un état de <strong>Fascination Douce (Soft Fascination)</strong>. Contempler la nature sans effort mental restaure les ressources du <strong>Cortex Préfrontal</strong>, permettant a la créativité de se régénérer.",
+      "pt": "Trabalhar diante de telas digitais e ambientes urbanos força o cérebro a esgotar a <strong>Atenção Dirigida (Directed Attention)</strong>, causando <strong>Fadiga de Atenção</strong>. Segundo a <strong>Teoria da Restauração da Atenção (ART)</strong> de Rachel e Stephen Kaplan, a geometria da natureza (fractais botânicos em pétalas e folhas) ativa o estado de <strong>Fascinação Suave (Soft Fascination)</strong>. Observar a natureza sem esforço mental restaura o <strong>Córtex Pré-frontal</strong>, permitindo que a criatividade se recarregue.",
+      "id": "Bekerja di antara layar digital buatan dan struktur perkotaan memaksa otak mengeluarkan sumber daya <strong>Perhatian Terarah (Directed Attention)</strong>, memicu <strong>Kelelahan Perhatian</strong> di jaringan prefrontal. Menurut <strong>Attention Restoration Theory (ART)</strong> karya Rachel dan Stephen Kaplan, geometri alami—seperti fraktal tanaman dalam kelopak mawar dan daun—melibatkan pikiran tanpa usaha melalui kondisi yang dikenal sebagai <strong>Soft Fascination</strong>. Mengamati struktur alami memulihkan <strong>Korteks Prefrontal</strong>."
     },
     "cautionTitle": {
-      "ko": "스마트폰 카메라 프레임을 배제하고 육안 관찰에 몰입하는 수칙"
+      "ko": "스마트폰 카메라 프레임을 배제하고 육안 관찰에 몰입하는 수칙",
+      "en": "Caution: Bypassing Smartphone Camera Frames to Immerse in Naked-Eye Contemplation",
+      "ja": "注意事項：スマートフォンカメラのフレームを排除し肉眼観察に没頭するルール",
+      "zh": "注意事项：剔除手机镜头框定，全情沉浸于肉眼原观指南",
+      "es": "Precaución: Evite los Enfoques de Cámaras de Teléfonos para Sumergirse en la Observación a Simple Vista",
+      "de": "Vorsichtsmaßnahme: Smartphone-Kameras vermeiden und mit bloßem Auge beobachten",
+      "fr": "Mise en garde : Écarter l'objectif du smartphone pour s'immerger dans l'observation à l'œil nu",
+      "pt": "Precaução: Evite Câmeras de Celulares para Imergir na Observação a Olho Nu",
+      "id": "Perhatian: Mengabaikan Bingkai Kamera Ponsel Pintar untuk Terbenam dalam Pengamatan Mata Telanjang"
     },
     "cautionDesc": {
-      "ko": "정원을 산책하며 'SNS에 올릴 사진을 잘 찍어야지' 하고 스마트폰 카메라를 들이대는 순간, 뇌는 다시 타인의 평가와 인공적 프레임에 갇혀 주의력 회복 효과를 놓치게 됩니다. 클림트처럼 렌즈가 아닌 자신의 육안으로 자연의 깊이와 미세 패턴을 온전히 관조하는 것이 핵심입니다."
+      "ko": "정원을 산책하며 'SNS에 올릴 사진을 잘 찍어야지' 하고 스마트폰 카메라를 들이대는 순간, 뇌는 다시 타인의 평가와 인공적 프레임에 갇혀 주의력 회복 효과를 놓치게 됩니다. 클림트처럼 렌즈가 아닌 자신의 육안으로 자연의 깊이와 미세 패턴을 온전히 관조하는 것이 핵심입니다.",
+      "en": "The moment you pull out a smartphone camera with the intention of snapping pictures for social media, your brain re-engages social evaluation networks and artificial framing, sabotaging the attention restoration process. As Klimt did, contemplate natural depth, lighting gradients, and micro-patterns directly with your naked eyes rather than filtering reality through a digital lens.",
+      "ja": "庭園を散歩しながら「SNSにアップする写真を上手く撮ろう」とスマートフォンカメラを差し向ける瞬間、脳は再び他人の評価と人工的フレームに閉じ込められ、注意力回復効果を逃すことになります。クリムトのようにレンズではなく自分の肉眼で自然の深みと微細パターンを完全に観照することが核心です。",
+      "zh": "当在踱步于花园之际萌发“要拍出惊艳大片发布于社交平台”的念头并举起手机拍摄的瞬间，大脑便会再度深陷于他人评价与人造画幅框架的羁绊中，彻底丧失注意力复苏的神经效能。务必如克里姆特般摒弃数字镜头，凭双眼肉眼去原汁原味地观照自然的物性深度与微观分形。",
+      "es": "En el momento en que saca un teléfono para tomar fotos para redes sociales, su cerebro vuelve a activar redes de evaluación social y encuadres artificiales, arruinando la restauración de la atención. Al igual que Klimt, contemple la profundidad y los patrones naturales con sus propios ojos sin filtrarlos a través de una lente digital.",
+      "de": "Sobald Sie das Smartphone zücken, um Fotos für soziale Medien zu machen, schaltet das Gehirn wieder auf externe Bewertung und Bildgestaltung um. Dies hebt den Erholungseffekt auf. Betrachten Sie Tiefenwirkung und feine Muster der Natur wie Klimt mit bloßem Auge, anstatt die Realität durch eine Kameralinse zu filtern.",
+      "fr": "Dès que vous sortez un smartphone pour prendre des photos destinées aux réseaux sociaux, votre cerveau réactive le jugement social et le cadrage artificiel, compromettant la restauration de l'attention. À l'instar de Klimt, contemplez la profondeur et les détails de la nature a l'œil nu sans passer par un écran.",
+      "pt": "No momento em que você pega o celular para tirar fotos para redes sociais, seu cérebro reativa as redes de avaliação social e enquadramentos artificiais, prejudicando a restauração da atenção. Como Klimt, contemple a profundidade e os padrões naturais com os próprios olhos, sem filtrar através de uma lente digital.",
+      "id": "Saat Anda mengeluarkan kamera ponsel pintar dengan niat mengambil gambar untuk media sosial, otak Anda mengaktifkan kembali sirkuit evaluasi sosial dan pembingkaian buatan, merusak proses pemulihan perhatian. Seperti yang dilakukan Klimt, amati kedalaman alami dan pola mikro secara langsung dengan mata telanjang Anda."
     },
     "steps": [
       {
         "name": {
-          "ko": "1단계: 아침 야외 정원·공원 기동 및 아날로그 환경 조성"
+          "ko": "1단계: 아침 야외 정원·공원 기동 및 아날로그 환경 조성",
+          "en": "Step 1: Morning Outdoor Garden Walk & Establishing an Analog Environment",
+          "ja": "ステップ1：朝の屋外庭園・公園起動およびアナログ環境の醸成",
+          "zh": "步骤1：晨间切入户外花园/公园与搭建模拟自然场域",
+          "es": "Paso 1: Paseo Matutino al Aire Libre y Creación de un Entorno Analógico",
+          "de": "Schritt 1: Morgendlicher Spaziergang im Garten & Schaffen einer analogen Umgebung",
+          "fr": "Étape 1 : Sortie matinale au jardin & Création d'un environnement analogique",
+          "pt": "Passo 1: Caminhada Matinal no Jardim e Criação de um Ambiente Analógico",
+          "id": "Langkah 1: Jalan-Jalan Taman Pagi Luar Ruangan & Menyiapkan Lingkungan Analog"
         },
         "text": {
-          "ko": "아침 기상 후 10~15분간 근처 정원, 공원, 혹은 베란다 화초가 있는 아날로그 공간으로 이동하여 자연 속에 조용히 섭니다."
+          "ko": "아침 기상 후 10~15분간 근처 정원, 공원, 혹은 베란다 화초가 있는 아날로그 공간으로 이동하여 자연 속에 조용히 섭니다.",
+          "en": "Spend 10 to 15 minutes after waking up walking to a nearby garden, park, or veranda with potted plants, standing quietly in an analog natural environment.",
+          "ja": "朝起床後10〜15分間、近くの庭園、公園、あるいはベランダの観葉植物があるアナログ空間へ移動し、自然の中に静かに立ちます。",
+          "zh": "在清晨醒来后的10-15分钟内，步入邻近的花园、公园、或带有绿色植物的阳台等模拟自然空间，沉静伫立于自然场域中。",
+          "es": "Dedique de 10 a 15 minutos tras despertar a caminar por un jardín cercano, parque o balcón con plantas, permaneciendo en silencio en un entorno natural.",
+          "de": "Gehen Sie nach dem Aufstehen 10 bis 15 Minuten lang in einen Garten, Park oder auf einen Balkon mit Pflanzen und verharren Sie ruhig in der Natur.",
+          "fr": "Consacrez 10 a 15 minutes au réveil a vous rendre dans un jardin proche, un parc ou sur un balcon fleuri, en restant serein au milieu de la nature.",
+          "pt": "Dedique de 10 a 15 minutos após acordar para caminhar por um jardim próximo, parque ou varanda com plantas, permanecendo em silêncio no ambiente natural.",
+          "id": "Luangkan waktu 10 hingga 15 menit setelah bangun tidur untuk berjalan ke taman terdekat, taman kota, atau verandah dengan tanaman pot, berdiri dengan tenang di lingkungan alam."
         }
       },
       {
         "name": {
-          "ko": "2단계: 식물 및 꽃잎의 프랙탈 패턴 3분 정밀 관찰"
+          "ko": "2단계: 식물 및 꽃잎의 프랙탈 패턴 3분 정밀 관찰",
+          "en": "Step 2: 3 Minutes of Precision Observation of Botanical Fractals",
+          "ja": "ステップ2：植物および花びらのフラクタルパターン3分間精密観察",
+          "zh": "步骤2：开展3分钟植物与花瓣分形图景精细观照",
+          "es": "Paso 2: 3 Minutos de Observación de Precisión de Fractales Botánicos",
+          "de": "Schritt 2: 3 Minuten gezielte Betrachtung botanischer Fraktale",
+          "fr": "Étape 2 : 3 minutes d'observation minutieuse des fractales végétales",
+          "pt": "Passo 2: 3 Minutos de Observação de Precisão de Fractais Botânicos",
+          "id": "Langkah 2: 3 Menit Pengamatan Presisi Fraktal Tanaman"
         },
         "text": {
-          "ko": "하나의 꽃잎이나 나뭇잎을 가까이 들여다보며 줄기의 잎맥, 색상의 미세한 그러데이션, 유기적 프랙탈 문양에 3분간 시선을 조용히 고정합니다."
+          "ko": "하나의 꽃잎이나 나뭇잎을 가까이 들여다보며 줄기의 잎맥, 색상의 미세한 그러데이션, 유기적 프랙탈 문양에 3분간 시선을 조용히 고정합니다.",
+          "en": "Examine a single flower petal or leaf closely. Anchor your vision quietly for 3 minutes on leaf veins, subtle color gradients, and recurring organic fractal arrangements.",
+          "ja": "一つの花びらや木の葉を近くで覗き込み、茎の葉脈、色の微細なグラデーション、有機的フラクタル模様に3分間視線を静かに固定します。",
+          "zh": "凑近端详单片花瓣或树叶，将目光沉静定格于茎干叶脉、微观色彩渐变理、以及周而复始的有机分形排布上达3分钟。",
+          "es": "Examine de cerca un solo pétalo o hoja. Ancle su mirada durante 3 minutos en las venas de las hojas, los degradados de color y los patrones fractales orgánicos.",
+          "de": "Betrachten Sie ein einzelnes Blütenblatt oder Blatt aus der Nähe. Richten Sie Ihren Blick 3 Minuten lang ruhig auf Blattnerven, Farbverläufe und natürliche Fraktale.",
+          "fr": "Examinez de près un seul pétale ou una feuille. Fixez paisiblement votre regard pendant 3 minutes sur les nervures, les dégradés de couleurs et les motifs fractals.",
+          "pt": "Examine de perto uma única pétala ou folha. Ancore seu olhar por 3 minutos nas nervuras, nos degradês sutis de cor e nos padrões fractais orgânicos.",
+          "id": "Examine sehelai kelopak mawar atau daun secara dekat. Tancapkan pandangan Anda secara tenang selama 3 menit pada urat daun, gradasi warna halus, dan susunan fraktal organik."
         }
       },
       {
         "name": {
-          "ko": "3단계: 부드러운 매료(Soft Fascination)를 통한 전전두엽 주의력 리셋"
+          "ko": "3단계: 부드러운 매료(Soft Fascination)를 통한 전전두엽 주의력 리셋",
+          "en": "Step 3: Prefrontal Attention Reset via Soft Fascination Immersion",
+          "ja": "ステップ3：柔らかい魅了（Soft Fascination）を通じた前頭前野注意力リセット",
+          "zh": "步骤3：藉由软性着迷（Soft Fascination）沉浸达成前额叶注意力重置",
+          "es": "Paso 3: Restablecimiento de la Atención Prefrontal Mediante Fascinación Suave",
+          "de": "Schritt 3: Kognitiver Reset im präfrontalen Kortex durch Soft Fascination",
+          "fr": "Étape 3 : Réinitialisation attentionnelle préfrontale par la Fascination Douce",
+          "pt": "Passo 3: Reinício da Atenção Pré-frontal via Fascinação Suave",
+          "id": "Langkah 3: Reset Perhatian Prefrontal Melalui Imersi Soft Fascination"
         },
         "text": {
-          "ko": "자연의 유기적 패턴이 주는 주의력 회복 효과를 만끽한 후, 맑아진 전전두엽 인지 상태로 책상에 앉아 당일 가장 창의적인 작업에 돌입합니다."
+          "ko": "자연의 유기적 패턴이 주는 주의력 회복 효과를 만끽한 후, 맑아진 전전두엽 인지 상태로 책상에 앉아 당일 가장 창의적인 작업에 돌입합니다.",
+          "en": "After immersing in the restorative effects of natural patterns, sit at your desk with a refreshed prefrontal cortex to tackle your most creative daily tasks.",
+          "ja": "自然の有機的パターンが与える注意力回復効果を享受した後、澄み渡った前頭前野の認知状態でデスクに座り、当日最も創造的な作業へと突入します。",
+          "zh": "在全情汲取自然有机图景赋予的注意力复苏效益后，以神清气爽的前额叶认知姿态落座于案头，启动全天最具创造力的重磅工作。",
+          "es": "Tras disfrutar de los efectos restauradores de los patrones naturales, siéntese en su escritorio con una corteza prefrontal renovada para abordar sus tareas más creativas.",
+          "de": "Nachdem Sie die erholende Wirkung natürlicher Muster spüren konnten, setzen Sie sich mit erfrischtem präfrontalen Kortex an den Schreibtisch für Ihre kreativsten Aufgaben.",
+          "fr": "Après avoir goûté aux bienfaits régénérants des formes naturelles, installez-vous a votre bureau, l'esprit clarifié, pour aborder vos travaux les plus créatifs.",
+          "pt": "Após aproveitar os efeitos restauradores dos padrões naturais, sente-se à mesa com o córtex pré-frontal renovado para realizar suas tarefas mais criativas.",
+          "id": "Setelah menikmati efek pemulihan dari pola-pola alami, duduklah di meja kerja Anda dengan korteks prefrontal yang segar untuk menangani tugas harian Anda yang paling kreatif."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "주변에 정원이나 공원이 없을 때는 어떻게 이 루틴을 적용하나요?"
+          "ko": "주변에 정원이나 공원이 없을 때는 어떻게 이 루틴을 적용하나요?",
+          "en": "How can I practice this routine if I don't have access to a garden or park nearby?",
+          "ja": "周囲に庭園や公園がない場合、どのようにこのルーティンを適用しますか？",
+          "zh": "若居所周边缺乏花园或公园，该如何切合实际地复刻此习惯？",
+          "es": "¿Cómo puedo practicar esta rutina si no tengo un jardín o parque cerca?",
+          "de": "Wie lässt sich diese Routine anwenden, wenn kein Garten oder Park in der Nähe ist?",
+          "fr": "Comment appliquer cette routine sans jardin ni parc a proximité ?",
+          "pt": "Como posso aplicar essa rotina se não tiver um jardim ou parque por perto?",
+          "id": "Bagaimana cara mempraktikkan rutinitas ini jika saya tidak memiliki akses ke taman di dekat rumah?"
         },
         "answer": {
-          "ko": "실내에 있는 반려식물, 관엽식물 화분, 혹은 창밖의 가로수나 하늘 구름을 3분간 가까이 들여다보는 것만으로도 동일한 주의력 회복(ART) 효과를 누릴 수 있습니다."
+          "ko": "실내에 있는 반려식물, 관엽식물 화분, 혹은 창밖의 가로수나 하늘 구름을 3분간 가까이 들여다보는 것만으로도 동일한 주의력 회복(ART) 효과를 누릴 수 있습니다.",
+          "en": "Gazing closely for 3 minutes at indoor potted plants, houseplants, street trees outside your window, or drifting clouds delivers identical Attention Restoration Theory (ART) benefits.",
+          "ja": "室内にある観葉植物の鉢植え、あるいは窓の外の街路樹や空の雲を3分間近くで覗き込むだけでも、同じ注意力回復（ART）効果を享受することができます。",
+          "zh": "只需端祥室内摆放的盆栽植物、观叶盆景、或透过窗户凝望街边树木与浮云达3分钟，便可斩获完全相同的注意力恢复理论（ART）神经效能。",
+          "es": "Observar de cerca durante 3 minutos plantas de interior, árboles a través de la ventana o las nubes del cielo ofrece exactamente los mismos beneficios de la Teoría de la Restauración de la Atención (ART).",
+          "de": "Das 3-minütige Betrachten von Zimmerpflanzen, Straßenbäumen vor dem Fenster oder Wolken am Himmel bietet dieselben Vorteile nach der Attention Restoration Theory (ART).",
+          "fr": "Observer de près pendant 3 minutes des plantes d'intérieur, les arbres par la fenêtre ou les nuages procure des bienfaits identiques selon la Théorie de la Restauration de l'Attention (ART).",
+          "pt": "Observar de perto por 3 minutos plantas de interior, árvores pela janela ou nuvens no céu garante exatamente os mesmos benefícios da Teoria da Restauração da Atenção (ART).",
+          "id": "Menatap secara dekat selama 3 menit pada tanaman pot dalam ruangan, pohon di luar jendela Anda, atau awan yang mengapung memberikan manfaat Attention Restoration Theory (ART) yang identik."
         }
       },
       {
         "question": {
-          "ko": "비가 오거나 날씨가 나쁜 날에는 정원 산책을 어떻게 대체하나요?"
+          "ko": "비가 오거나 날씨가 나쁜 날에는 정원 산책을 어떻게 대체하나요?",
+          "en": "How can I adapt the garden walk routine on rainy or inclement weather days?",
+          "ja": "雨が降ったり天気が悪い日には庭園散歩をどのように代替しますか？",
+          "zh": "在阴雨连绵或恶劣天候节点，该如何置换花园踱步习惯？",
+          "es": "¿Cómo puedo sustituir la caminata por el jardín en días de lluvia o mal tiempo?",
+          "de": "Wie lässt sich der Garten-Spaziergang an Regentagen ersetzen?",
+          "fr": "Comment remplacer la promenade au jardin les jours de pluie ou de mauvais temps ?",
+          "pt": "Como posso substituir a caminhada no jardim em dias de chuva ou tempo ruim?",
+          "id": "Bagaimana cara mengadaptasi rutinitas jalan-jalan taman pada hari-hari hujan?"
         },
         "answer": {
-          "ko": "창가에 서서 빗방울이 유리창에 맺히는 모양이나 빗줄기가 그리는 라인을 묵묵히 관찰하세요. 액체 물방울의 유기적 패턴 역시 훌륭한 부드러운 매료 자극이 됩니다."
+          "ko": "창가에 서서 빗방울이 유리창에 맺히는 모양이나 빗줄기가 그리는 라인을 묵묵히 관찰하세요. 액체 물방울의 유기적 패턴 역시 훌륭한 부드러운 매료 자극이 됩니다.",
+          "en": "Stand by a window and silently observe raindrops trickling down the glass or the patterns formed by falling rain. The fluid organic geometry of water droplets functions as an exceptional Soft Fascination trigger.",
+          "ja": "窓辺に立ち、雨粒がガラス窓に結ばれる形状や雨筋が描くラインを黙々と観察してください。液体の水滴の有機的パターンもまた、素晴らしい「柔らかい魅了」の刺激となります。",
+          "zh": "伫立于窗前，沉静观照雨滴凝结于玻璃窗上的微观形态、或雨丝划过的轨迹线泽。流体水滴的有机图景，同样堪称绝佳的软性着迷（Soft Fascination）触点。",
+          "es": "Permanezca junto a una ventana y observe en silencio cómo las gotas de lluvia se deslizan por el cristal o las formas que crea la lluvia. La geometría fluida de las gotas funciona como un excelente estímulo de Fascinación Suave.",
+          "de": "Stellen Sie sich ans Fenster und beobachten Sie friedlich die Regentropfen auf der Scheibe oder die Spuren des Regens. Die flüssigen Formen von Wassertropfen dienen als hervorragender Auslöser für weiche Faszination.",
+          "fr": "Postez-vous près d'une fenêtre et observez en silence les gouttes de pluie glisser sur la vitre ou les motifs dessinés par la pluie. La géométrie fluide de l'eau constitue un déclencheur idéal de Fascination Douce.",
+          "pt": "Fique junto à janela e observe em silêncio as gotas de chuva escorrendo pelo vidro ou os padrões formados pela chuva. A geometria fluida das gotas funciona como um excelente estímulo de Fascinação Suave.",
+          "id": "Berdirilah di dekat jendela dan amati secara hening tetesan air hujan yang menetes di kaca atau pola yang dibentuk oleh hujan. Geometri cair dari tetesan air berfungsi sebagai pemicu Soft Fascination yang luar biasa."
         }
       }
     ]

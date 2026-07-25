@@ -8,12 +8,12 @@ tags: ["위습관","루틴"]
 heroImage: "/images/blog/bach_pattern_transcription.png"
 app: "buildself"
 formatVersion: 4
-authority: "Johann Nikolaus Forkel, *Life of Johann Sebastian Bach* (1802) & *Journal of Neuroscience*"
+authority: "요한 니콜라우스 포르켈 『바흐의 생애와 예술(1802)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
 steps:
   - name: "논리 밀도가 촘촘한 대상 텍스트 준비"
     text: "내가 깊이 습득하고자 하는 선언문, 인문학 클래식 저서의 문장, 혹은 뛰어난 설계도가 담긴 영문 보고서나 고품질 코드의 핵심 코드 블록을 선정합니다. 연필이나 만년필, 아날로그 공책을 함께 배치합니다."
   - name: "펜끝과 종이의 접촉 질감에 10분 몰입하기"
-    text: "선택한 텍스트나 기호를 펜으로 한 줄 한 줄 정성껏 베껴 씁니다. 스마트폰이나 모니터는 꺼두고, 펜 촉이 종이를 긁으며 지나가는 사각거리는 서각, 종이의 결, 손끝의 압력 변화 등 육체적 미세 감각에 의식을 온전히 일치시켜 10분간 지속합니다."
+    text: "선택한 텍스트나 기호를 펜으로 한 줄 한 줄 정성껏 베껴 씁니다. 스마트폰이나 모니터는 꺼두고, 펜촉이 종이를 긁으며 지나가는 사각거리는 소리, 종이의 결, 손끝의 압력 변화 등 육체적 미세 감각에 의식을 온전히 일치시켜 10분간 지속합니다."
   - name: "필사한 텍스트의 구조적 논리 패턴 감상"
     text: "베껴 쓰기를 마친 후, 종이에 정렬된 텍스트 구조를 위에서 아래로 조용히 훑어보며 그들의 논리 관계와 배치 방식을 시각적으로 다시 정리합니다. 이 시각적-논리적 매칭 단계는 전두엽에 확실한 구조 프레임을 확립합니다."
 faqs:
@@ -26,7 +26,7 @@ faqs:
 
 그것은 바로 밤마다 당대의 최고 거장들이 쓴 악보들을 깃펜으로 한 줄 한 줄 베껴 쓰는 '악보 필사(Transcription) 습관'이었습니다. 10대 소년 시절, 엄격했던 형의 서재에서 몰래 거장들의 악보를 훔쳐내어 달빛에 의지해 밤새 악보를 필사했던 일화는 유명합니다. 바흐에게 필사는 단순히 곡을 눈으로 훑는 학습이 아니었습니다. 깃펜을 들고 손끝의 미세 운동 감각을 기동하여, 음표 간의 수학적 배치와 화성의 전개 원리를 자신의 신경계에 고스란히 새겨 넣는 강력한 뇌각인 의식이었습니다. 그는 거장들의 작곡 방식을 관찰하는 것에 그치지 않고 손으로 직접 그려내어 그들의 논리 공식을 자신의 뇌에 동기화시켰습니다.
 
-오늘 BuildSelf에서는 바흐의 필사 습관에 숨겨진 뇌과학적 원리와 지적 문제 해결력 및 학습력을 극대화하는 현대적 아날로그 필사 리추얼 설계법을 분석합니다.
+오늘 포스트에서는 바흐의 필사 습관에 숨겨진 뇌과학적 원리와 지적 문제 해결력 및 학습력을 극대화하는 현대적 아날로그 필사 리추얼 설계법을 분석합니다.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -35,7 +35,7 @@ faqs:
       역사적 및 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Johann Nikolaus Forkel, *Life of Johann Sebastian Bach* (1802) & *Journal of Neuroscience*</strong>에 근거하여 bach-pattern-transcription 루틴을 다룹니다.
+      본 콘텐츠는 <strong>요한 니콜라우스 포르켈 『바흐의 생애와 예술(1802)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 bach-pattern-transcription 루틴을 다룹니다.
     </p>
   </div>
 </div>
@@ -72,7 +72,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">펜끝과 종이의 접촉 질감에 10분 몰입하기</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    선택한 텍스트나 기호를 펜으로 한 줄 한 줄 정성껏 베껴 씁니다. 스마트폰이나 모니터는 꺼두고, 펜 촉이 종이를 긁으며 지나가는 사각거리는 서각, 종이의 결, 손끝의 압력 변화 등 육체적 미세 감각에 의식을 온전히 일치시켜 10분간 지속합니다.
+    선택한 텍스트나 기호를 펜으로 한 줄 한 줄 정성껏 베껴 씁니다. 스마트폰이나 모니터는 꺼두고, 펜촉이 종이를 긁으며 지나가는 사각거리는 소리, 종이의 결, 손끝의 압력 변화 등 육체적 미세 감각에 의식을 온전히 일치시켜 10분간 지속합니다.
   </p>
 </div>
 

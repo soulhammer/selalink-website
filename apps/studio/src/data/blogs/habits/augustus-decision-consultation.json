@@ -1,70 +1,214 @@
 {
   "augustus-decision-consultation": {
     "title": {
-      "ko": "천천히 서둘러 내린 황제의 결단: 아우구스투스의 다각도 조언 경청 습관"
+      "ko": "천천히 서둘러 내린 황제의 결단: 아우구스투스의 다각도 조언 경청 습관",
+      "en": "The Emperor's Decisive 'Make Haste Slowly': Augustus's Multi-Angle Consultation Habit",
+      "ja": "ゆっくり急いで下した皇帝の決断：アウグストゥスの多角的助言傾聴習慣",
+      "zh": "皇帝“欲速则不达”的果断决策：奥古斯都的多角度倾听建议习惯",
+      "es": "La Decisión del Emperador de 'Apresurarse Despacio': El Hábito de Escucha Multiangular de Augusto",
+      "de": "Des Kaisers Entschluss 'Eile mit Weile': Augusts Gewohnheit des vielseitigen Zuhörens",
+      "fr": "La décision de l'empereur « Hâte-toi lentement » : L'habitude d'écoute multi-angle d'Auguste",
+      "pt": "A Decisão do Imperador de 'Apressar-se Devagar': O Hábito de Escuta Multiangular de Augusto",
+      "id": "Keputusan Sang Kaisar 'Bergegas dengan Perlahan': Kebiasaan Mendengarkan Masukan dari Berbagai Sudut Pandang ala Augustus"
     },
     "description": {
-      "ko": "시저의 암살 이후 독단 대신 마이케나스, 아그리파 등 참모들의 이견을 철저히 경청하여 결정을 단순화했던 로마 황제 아우구스투스. 최초의 판단을 맹신하는 확증 편향을 깨뜨리는 경청과 필터링의 뇌과학적 원리를 규명합니다."
+      "ko": "시저의 암살 이후 독단 대신 마이케나스, 아그리파 등 참모들의 이견을 철저히 경청하여 결정을 단순화했던 로마 황제 아우구스투스. 최초의 판단을 맹신하는 확증 편향을 깨뜨리는 경청과 필터링의 뇌과학적 원리를 규명합니다.",
+      "en": "Roman Emperor Augustus, who simplified decisions after Caesar's assassination by thoroughly listening to dissenting opinions from advisors like Maecenas and Agrippa instead of acting dogmatically. Explore the neuroscientific principles of listening and filtering to break confirmation bias.",
+      "ja": "シーザーの暗殺以降、独断の代わりにマイケナスやアグリッパら参謀たちの異論を徹底的に傾聴し、決定を単純化したローマ皇帝アウグストゥス。最初の判断を盲信する確証バイアスを打ち破る傾聴とフィルタリングの脳科学的原理を解明します。",
+      "zh": "罗马皇帝奥古斯都于恺撒遇刺后，弃独断专行，彻底倾听梅塞纳斯、阿格里帕等幕僚的不同意见，从而简化决策。揭示通过倾听与过滤破除盲信最初判断之确认偏误的脑科学原理。",
+      "es": "El emperador romano Augusto, quien simplificó sus decisiones tras el asesinato de César escuchando exhaustivamente las opiniones disidentes de asesores como Mecenas y Agripa en lugar de actuar dogmáticamente. Explore los principios neurocientíficos de la escucha y el filtrado para romper el sesgo de confirmación.",
+      "de": "Römischer Kaiser Augustus, der nach Cäsars Ermordung seine Entscheidungen vereinfachte, indem er gründlich den abweichenden Meinungen von Beratern wie Mäcenas und Agrippa zuhörte, anstatt eigenmächtig zu handeln. Erkunden Sie die neurowissenschaftlichen Prinzipien des Zuhörens und Filterns zur Überwindung des Bestätigungsfehlers.",
+      "fr": "L'empereur romain Auguste, qui a simplifié ses décisions après l'assassinat de César en écoutant minutieusement les avis divergents de conseillers comme Mécène et Agrippa au lieu d'agir unilatéralement. Découvrez les principes neuroscientifiques de l'écoute et du filtrage pour briser le biais de confirmation.",
+      "pt": "O imperador romano Augusto, que simplificou suas decisões após o assassinato de César ouvindo exaustivamente as opiniões divergentes de conselheiros como Mecenas e Agripa em vez de agir dogmaticamente. Explore os princípios neurocientíficos da escuta e da filtragem para quebrar o vício da confirmação.",
+      "id": "Kaisar Romawi Augustus, yang menyederhanakan keputusan pasca-pembunuhan Caesar dengan mendengarkan pendapat berbeda dari penasihat seperti Maecenas dan Agrippa alih-alih bertindak dogmatis. Pelajari prinsip neurosains dari mendengarkan dan memfilter untuk mematahkan bias konfirmasi."
     },
     "authority": {
-      "ko": "수에토니우스 『황제전(De vita Caesarum)』 & 카시우스 디오 『로마사』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+      "ko": "수에토니우스 『황제전(De vita Caesarum)』 & 카시우스 디오 『로마사』 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+      "en": "Historical Verification from Suetonius's *De vita Caesarum* & Cassius Dio's *Roman History* & Cognitive Neuroscience Research",
+      "ja": "スエトニウス『皇帝伝（De vita Caesarum）』＆カシウス・ディオ『ローマ史』考証＆認知神経科学（Cognitive Neuroscience）研究",
+      "zh": "苏埃托尼乌斯《罗马十二帝王传（De vita Caesarum）》与卡西乌斯·狄奥《罗马史》考证与认知神经科学（Cognitive Neuroscience）研究",
+      "es": "Verificación Histórica de *Las vidas de los doce césares (De vita Caesarum)* de Suetonio y *Historia romana* de Dión Casio e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)",
+      "de": "Historische Überprüfung aus Suetons *De vita Caesarum* & Cassius Dios *Römische Geschichte* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)",
+      "fr": "Vérification Historique issue de *Vie des douze Césars (De vita Caesarum)* de Suétone & *Histoire romaine* de Cassius Dion & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)",
+      "pt": "Verificação Histórica de *As Vidas dos Doze Césares (De vita Caesarum)* de Suetônio e *História Romana* de Cássio Dione e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)",
+      "id": "Verifikasi Historis dari *De vita Caesarum* karya Suetonius & *Sejarah Romawi* karya Cassius Dio & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"
     },
     "intro": {
-      "ko": "\"천천히 서둘러라. 준비되지 않은 의사결정은 승리를 가져다줄 수 없다.\" 🏛️\n\n로마 최초의 황제이자 백 년의 내전을 종식시키고 200년간 지속된 로마의 평화(Pax Romana)의 기틀을 마련한 아우구스투스. 그는 젊은 날 요절했던 양부 줄리어스 시저와 달리, 신체적으로 매우 병약했으며 특출난 군사적 재능도 없었습니다. 그러나 그는 로마 역사상 가장 오랜 기간 황좌를 지키며 제국을 번영시켰습니다. 그 비결은 그가 매번 중대 결정을 내릴 때 가동했던 '의사결정 전 다각도 조언 경청 루틴'이었습니다. 아우구스투스는 독단적 결정을 내리는 대신, 마이케나스(외교), 아그리파(군사) 등 최고의 전문가들을 곁에 두고 그들이 자유롭게 다른 의견을 제시하도록 부추겼습니다. 황제의 권위 뒤에 숨지 않고 참모들의 날카로운 이견을 이성적 필터로 활용한 아우구스투스의 현명한 의사결정 공식을 해부합니다."
+      "ko": "\"천천히 서둘러라. 준비되지 않은 의사결정은 승리를 가져다줄 수 없다.\" 🏛️\n\n로마 최초의 황제이자 백 년의 내전을 종식시키고 200년간 지속된 로마의 평화(Pax Romana)의 기틀을 마련한 아우구스투스. 그는 젊은 날 요절했던 양부 줄리어스 시저와 달리, 신체적으로 매우 병약했으며 특출난 군사적 재능도 없었습니다. 그러나 그는 로마 역사상 가장 오랜 기간 황좌를 지키며 제국을 번영시켰습니다. 그 비결은 그가 매번 중대 결정을 내릴 때 가동했던 '의사결정 전 다각도 조언 경청 루틴'이었습니다. 아우구스투스는 독단적 결정을 내리는 대신, 마이케나스(외교), 아그리파(군사) 등 최고의 전문가들을 곁에 두고 그들이 자유롭게 다른 의견을 제시하도록 부추겼습니다. 황제의 권위 뒤에 숨지 않고 참모들의 날카로운 이견을 이성적 필터로 활용한 아우구스투스의 현명한 의사결정 공식을 해부합니다.",
+      "en": "\"Make haste slowly. An unprepared decision cannot bring victory.\" 🏛️\n\nAugustus, Rome's first emperor, who ended a century of civil war and laid the foundation for the 200-year Pax Romana. Unlike his adoptive father Julius Caesar, who died young, Augustus was physically frail and lacked exceptional military talent. Yet he held the throne longer than anyone in Roman history and brought prosperity to the empire. His secret was the 'multi-angle consultation routine before decision-making' that he activated for every major choice. Rather than making dogmatic decisions, Augustus kept top experts like Maecenas (diplomacy) and Agrippa (military) by his side, encouraging them to freely present opposing views. We dissect Augustus's wise decision-making formula, which used his staff's sharp dissents as a rational filter rather than hiding behind imperial authority.",
+      "ja": "「ゆっくり急げ。準備のない意思決定は勝利をもたらさない。」 🏛️\n\nローマ最初の皇帝であり、百年の内戦を終息させ200年間続いたローマの平和（Pax Romana）の礎を築いたアウグストゥス。彼は若くして早世した養父ジュリアス・シーザーとは異なり、身体的に非常に病弱で突出した軍事的才能もありませんでした。しかし、彼はローマ史上最も長い期間皇帝の座を守り、帝国を繁栄させました。その秘訣は、彼が重大な決定を下すたびに稼働させた「意思決定前の多角的助言傾聴ルーティン」でした。アウグストゥスは独断的な決定を下す代わりに、マイケナス（外交）やアグリッパ（軍事）などの最高の専門家を側に置き、彼らが自由に異なる意見を提示するよう促しました。皇帝の権威の陰に隠れることなく、参謀たちの鋭い異論を理性的フィルターとして活用したアウグストゥスの賢明な意思決定公式を解剖します。",
+      "zh": "“欲速则不达。未经准备的决策无法带来胜利。” 🏛️\n\n作为罗马帝国的第一位皇帝，平息百年内战并奠定延续200年之久的“罗马和平（Pax Romana）”基石的奥古斯都。与年轻时英年早逝的养父儒略·恺撒不同，他身体极其病弱，也没有出众的军事才能。然而，他却成为了罗马历史上在位时间最长、并使帝国走向繁荣的皇帝。其秘诀就在于他每次做出重大决策时都会启用的“决策前多角度倾听建议惯例”。奥古斯都并没有独断专行，而是将梅塞纳斯（外交）、阿格里帕（军事）等顶级专家留在身边，鼓励他们自由地提出不同意见。我们将剖析奥古斯都聪明的决策公式：他不藏匿于皇帝的权威之后，而是将幕僚们犀利的不同意见用作理性的过滤器。",
+      "es": "\"Apresúrate despacio. Una decisión no preparada no puede traer la victoria.\" 🏛️\n\nAugusto, el primer emperador de Roma, quien puso fin a un siglo de guerras civiles y sentó las bases de la Pax Romana, que duró 200 años. A diferencia de su padre adoptivo Julio César, que murió joven, Augusto era físicamente frágil y carecía de un talento militar excepcional. Sin embargo, ocupó el trono más tiempo que nadie en la historia de Roma y llevó la prosperidad al imperio. Su secreto fue la 'rutina de consulta multiangular antes de la toma de decisiones' que activaba para cada elección importante. En lugar de tomar decisiones dogmáticas, Augusto mantuvo a su lado a expertos de primer nivel como Mecenas (diplomacia) y Agripa (militar), animándolos a presentar libremente puntos de vista opuestos. Desglosamos la sabia fórmula de toma de decisiones de Augusto, que utilizó las agudas objeciones de su personal como un filtro racional en lugar de esconderse tras la autoridad imperial.",
+      "de": "\"Eile mit Weile. Eine unvorbereitete Entscheidung kann keinen Sieg bringen.\" 🏛️\n\nAugustus, Roms erster Kaiser, der einen einhundertjährigen Bürgerkrieg beendete und das Fundament für die 200 Jahre andauernde Pax Romana legte. Anders als sein Adoptivvater Julius Cäsar, der jung starb, war Augustus körperlich gebrechlich und besaß kein außergewöhnliches militärisches Talent. Dennoch saß er so lange auf dem Thron wie niemand sonst in der römischen Geschichte und führte das Reich zu Wohlstand. Sein Geheimnis war die 'Routine des vielseitigen Zuhörens vor der Entscheidungsfindung', die er vor jeder wichtigen Wahl aktivierte. Anstatt eigenmächtige Entscheidungen zu treffen, hielt Augustus Spitzenexperten wie Mäcenas (Diplomatie) und Agrippa (Militär) an seiner Seite und ermutigte sie, frei abweichende Meinungen zu äußern. Wir analysieren Augustus' kluge Entscheidungsformel, die die scharfen Einwände seiner Berater als rationalen Filter nutzte, anstatt sich hinter kaiserlicher Autorität zu verstecken.",
+      "fr": "« Hâte-toi lentement. Une décision non préparée ne peut apporter la victoire. » 🏛️\n\nAuguste, le premier empereur de Rome, qui a mis fin à un siècle de guerres civiles et posé les bases de la Pax Romana pendant 200 ans. Contrairement à son père adoptif Jules César, mort jeune, Auguste était physiquement fragile et ne possédait pas de talent militaire exceptionnel. Pourtant, il a occupé le trône plus longtemps que quiconque dans l'histoire romaine et a fait prospérer l'empire. Son secret résidait dans sa 'routine d'écoute multi-angle avant la prise de décision' qu'il activait pour chaque choix majeur. Au lieu de prendre des décisions dogmatiques, Auguste s'est entouré d'experts de premier ordre comme Mécène (diplomatie) et Agrippa (affaires militaires), les incitant à exprimer librement des avis divergents. Nous décortiquons la sage formule décisionnelle d'Auguste, qui utilisait les objections aiguisées de ses conseillers comme un filtre rationnel plutôt que de se retrancher derrière l'autorité impériale.",
+      "pt": "\"Apresse-se devagar. Uma decisão não preparada não pode trazer a vitória.\" 🏛️\n\nAugusto, o primeiro imperador de Roma, que pôs fim a um século de guerras civis e lançou as bases para os 200 anos de Pax Romana. Ao contrário de seu pai adotivo Júlio César, que morreu jovem, Augusto era fisicamente frágil e carecia de um talento militar excepcional. No entanto, ele ocupou o trono por mais tempo do que qualquer outro na história de Roma e trouxe prosperidade ao império. Seu segredo foi a 'rotina de escuta multiangular antes da tomada de decisão' que ele ativava para cada escolha importante. Em vez de tomar decisões dogmáticas, Augusto manteve especialistas de ponta ao seu lado, como Mecenas (diplomacia) e Agripa (militar), incentivando-os a apresentar livremente pontos de vista opostos. Dissecamos a sábia fórmula de tomada de decisão de Augusto, que usou as divergências afiadas de sua equipe como um filtro racional em vez de se esconder atrás da autoridade imperial.",
+      "id": "\"Bergegaslah dengan perlahan. Keputusan yang tidak dipersiapkan tidak akan mendatangkan kemenangan.\" 🏛️\n\nAugustus, kaisar pertama Romawi, yang mengakhiri perang saudara selama satu abad dan meletakkan fondasi bagi Pax Romana yang berlangsung selama 200 tahun. Berbeda dengan ayah angkatnya Julius Caesar yang meninggal di usia muda, Augustus secara fisik sangat rapuh dan tidak memiliki bakat militer yang menonjol. Namun, ia bertakhta paling lama dalam sejarah Romawi dan membawa kemakmuran bagi kekaisaran. Rahasianya adalah 'rutinitas mendengarkan masukan dari berbagai sudut pandang sebelum mengambil keputusan' yang selalu ia jalankan dalam setiap pilihan besar. Alih-alih mengambil keputusan secara dogmatis, Augustus menempatkan pakar-pakar terbaik seperti Maecenas (diplomasi) dan Agrippa (militer) di sisinya, mendorong mereka untuk menyampaikan pandangan berbeda secara bebas. Kami mengulas formula pengambilan keputusan Augustus yang bijak, yang menggunakan sanggahan tajam dari para penasihatnya sebagai filter rasional alih-alih bersembunyi di balik otoritas kekaisaran."
     },
     "whyTitle": {
-      "ko": "확증 편향의 억제와 dlPFC 인지 필터의 작동 원리"
+      "ko": "확증 편향의 억제와 dlPFC 인지 필터의 작동 원리",
+      "en": "Suppression of Confirmation Bias and Working Mechanism of the dlPFC Cognitive Filter",
+      "ja": "確証バイアスの抑制とdlPFC認知フィルターの作動原理",
+      "zh": "确认偏误的抑制与dlPFC认知过滤器的运行原理",
+      "es": "Supresión del Sesgo de Confirmación y Principios de Funcionamiento del Filtro Cognitivo dlPFC",
+      "de": "Unterdrückung des Bestätigungsfehlers und Wirkungsweise des kognitiven dlPFC-Filters",
+      "fr": "Suppression du biais de confirmation et principe de fonctionnement du filtre cognitif dlPFC",
+      "pt": "Supressão do Vício da Confirmação e Princípios de Funcionamento do Filtro Cognitivo dlPFC",
+      "id": "Penekanan Bias Konfirmasi dan Prinsip Kerja Filter Kognitif dlPFC"
     },
     "whyDesc": {
-      "ko": "인간의 뇌는 본능적으로 가장 먼저 떠오른 생각이나 호감을 정당화하려는 시스템 1(직관) 오류에 빠지기 쉽습니다. 아우구스투스처럼 자신의 결론에 이의를 제기할 수 있는 다각도의 전문가 피드백을 수용하면, 뇌는 의사 결정을 조절하는 '외측 전전두엽 피질(dlPFC)'을 자극해 정보의 논리적 틈새를 찾아내는 검증 필터를 작동시킵니다. 또한 갈등 조절 중추인 '전대상회(ACC)'를 연동시켜, 주관적 감정을 걷어내고 객관적 사실 데이터만을 구조화해 최선의 이성적 결정을 내릴 수 있게 돕습니다."
+      "ko": "인간의 뇌는 본능적으로 가장 먼저 떠오른 생각이나 호감을 정당화하려는 시스템 1(직관) 오류에 빠지기 쉽습니다. 아우구스투스처럼 자신의 결론에 이의를 제기할 수 있는 다각도의 전문가 피드백을 수용하면, 뇌는 의사 결정을 조절하는 <strong>'외측 전전두엽 피질(dlPFC)'</strong>을 자극해 정보의 논리적 틈새를 찾아내는 검증 필터를 작동시킵니다. 또한 갈등 조절 중추인 <strong>'전대상회(ACC)'</strong>를 연동시켜, 주관적 감정을 걷어내고 객관적 사실 데이터만을 구조화해 최선의 이성적 결정을 내릴 수 있게 돕습니다.",
+      "en": "The human brain is instinctively prone to System 1 (intuitive) errors, justifying the first thought or preference that comes to mind. Accepting multi-angle expert feedback that challenges your conclusion—like Augustus did—stimulates the brain's <strong>'dorsolateral Prefrontal Cortex (dlPFC)'</strong>, which regulates decision-making, activating a verification filter that seeks out logical gaps in information. It also engages the conflict-monitoring center, the <strong>'Anterior Cingulate Cortex (ACC)'</strong>, stripping away subjective emotions and structuring objective factual data to help make the best rational decision.",
+      "ja": "人の脳は本能的に最も最初に浮かんだ考えや好感を正当化しようとするシステム1（直感）の偏りに陥りがちです。アウグストゥスのように自身の結論に異議を唱え得る多角的な専門家のフィードバックを受け入れると、脳は意思決定を調節する<strong>「背外側前頭前野（dlPFC）」</strong>を刺激し、情報の論理的隙間を探し出す検証フィルターを作動させます。また、葛藤調節の中枢である<strong>「前帯状皮質（ACC）」</strong>を連動させ、主観的な感情を取り払い、客観的な事実データのみを構造化して最善の理性的決定を下せるよう助けます。",
+      "zh": "人类的大脑本能地容易陷入试图将最先浮现的想法或喜好合理化的系统1（直觉）误区。如果像奥古斯都那样接纳能够对自己结论提出异议的多角度专家反馈，大脑就会刺激调节决策的<strong>“背外侧前额叶皮层（dlPFC）”</strong>，启动找出信息逻辑漏洞的验证过滤器。此外，它还会联动冲突调节中枢<strong>“前扣带回皮层（ACC）”</strong>，剔除主观情绪，仅对客观事实数据进行结构化整理，从而帮助做出最佳的理性决策。",
+      "es": "El cerebro humano es instintivamente propenso a los errores del Sistema 1 (intuitivo), justificando el primer pensamiento o preferencia que le viene a la mente. Aceptar comentarios de expertos desde múltiples ángulos que desafíen su conclusión, como hizo Augusto, estimula la <strong>'Corteza Prefrontal Dorsolateral (dlPFC)'</strong> del cerebro, que regula la toma de decisiones, activando un filtro de verificación que busca vacíos lógicos en la información. También involucra al centro de control de conflictos, la <strong>'Corteza Cingulada Anterior (ACC)'</strong>, eliminando las emociones subjetivas y estructurando datos fácticos objetivos para ayudar a tomar la mejor decisión racional.",
+      "de": "Das menschliche Gehirn neigt instinktiv zu Fehlern des Systems 1 (intuitiv), indem es den ersten Gedanken oder die erste Vorliebe rechtfertigt, die ihm in den Sinn kommt. Die Akzeptanz von vielseitigem Expertenfeedback, das die eigene Schlussfolgerung infrage stellt – wie es Augustus tat –, stimuliert den <strong>'dorsolateralen Präfrontalkortex (dlPFC)'</strong> des Gehirns, der Entscheidungen reguliert, und aktiviert einen Verifizierungsfilter, der nach logischen Lücken in Informationen sucht. Es schaltet auch das Konfliktüberwachungszentrum, den <strong>'Anterioren Cingulären Kortex (ACC)'</strong>, ein, um subjektive Emotionen abzustreifen und objektive Faktendaten zu strukturieren, was hilft, die beste rationale Entscheidung zu treffen.",
+      "fr": "Le cerveau humain est instinctivement enclin aux erreurs du Système 1 (intuitif), cherchant à justifier la première pensée ou préférence qui lui vient à l'esprit. Accepter des retours d'experts sous plusieurs angles qui remettent en question votre conclusion — comme le faisait Auguste — stimule le <strong>« cortex préfrontal dorsolatéral (dlPFC) »</strong> du cerveau, qui régule la prise de décision, en activant un filtre de vérification qui traque les lacunes logiques dans l'information. Cela sollicite également le centre de contrôle des conflits, le <strong>« cortex cingulaire antérieur (ACC) »</strong>, éliminant les émotions subjectives et structurant les données factuelles objectives pour aider à prendre la meilleure décision rationnelle.",
+      "pt": "O cérebro humano é instintivamente propenso a erros do Sistema 1 (intuitivo), justificando o primeiro pensamento ou preferência que lhe vem à mente. Aceitar o feedback de especialistas sob múltiplos ângulos que desafie sua conclusão — como fez Augusto — estimula o <strong>'Córtex Pré-Frontal Dorsolateral (dlPFC)'</strong> do cérebro, que regula a tomada de decisões, ativando um filtro de verificação que busca lacunas lógicas na informação. Também engaja o centro de controle de conflitos, o <strong>'Córtex Cingulado Anterior (ACC)'</strong>, desfazendo-se de emoções subjetivas e estruturando dados fáticos objetivos para ajudar a tomar a melhor decisão racional.",
+      "id": "Otak manusia secara instingtif rentan terhadap kesalahan Sistem 1 (intuitif), membenarkan pikiran atau preferensi pertama yang muncul dalam benak. Menerima masukan pakar dari berbagai sudut pandang yang menantang kesimpulan Anda—seperti yang dilakukan Augustus—merangsang <strong>'Korteks Prefrontal Dorsolateral (dlPFC)'</strong> otak, yang mengatur pengambilan keputusan, mengaktifkan filter verifikasi yang mencari celah logis dalam informasi. Hal ini juga melibatkan pusat pemantau konflik, yaitu <strong>'Korteks Cingulate Anterior (ACC)'</strong>, mengikis emosi subjektif dan menata data faktual yang objektif untuk membantu mengambil keputusan rasional terbaik."
     },
     "cautionTitle": {
-      "ko": "주의사항 및 팁"
+      "ko": "주의사항 및 팁",
+      "en": "Precautions and Tips",
+      "ja": "注意事項およびヒント",
+      "zh": "注意事项与建议",
+      "es": "Precauciones y Consejos",
+      "de": "Vorsichtsmaßnahmen und Tipps",
+      "fr": "Précautions et conseils",
+      "pt": "Precauções e Dicas",
+      "id": "Peringatan dan Tips"
     },
     "cautionDesc": {
-      "ko": "조언 경청의 가장 큰 함정은 무분별한 의견 수집으로 인해 결정 장애(Analysis Paralysis)에 빠지는 것입니다. 지나치게 많은 익명의 사람들에게 의견을 구하면 인지적 과부하가 생겨 우선순위를 결정하지 못하고 혼란에 빠집니다. 의사결정을 할 때는 아우구스투스처럼 신뢰도가 확실히 입증된 소수의 전문가(마이케나스, 아그리파 등)로 자문단을 3명 이내로 제한해야 하며, 최종 결정과 책임은 철저히 자신이 지는 경계를 지켜야 합니다."
+      "ko": "조언 경청의 가장 큰 함정은 무분별한 의견 수집으로 인해 결정 장애(Analysis Paralysis)에 빠지는 것입니다. 지나치게 많은 익명의 사람들에게 의견을 구하면 인지적 과부하가 생겨 우선순위를 결정하지 못하고 혼란에 빠집니다. 의사결정을 할 때는 아우구스투스처럼 신뢰도가 확실히 입증된 소수의 전문가(마이케나스, 아그리파 등)로 자문단을 3명 이내로 제한해야 하며, 최종 결정과 책임은 철저히 자신이 지는 경계를 지켜야 합니다.",
+      "en": "The biggest trap of listening to advice is falling into Analysis Paralysis due to indiscriminate opinion gathering. Seeking opinions from too many anonymous people creates cognitive overload, causing confusion and an inability to set priorities. When making decisions, limit your advisory team to no more than 3 proven, trusted experts (like Maecenas and Agrippa), and strictly maintain the boundary that final decisions and responsibility rest entirely with you.",
+      "ja": "助言傾聴の最大の落とし穴は、無分別な意見収集によって決定障害（Analysis Paralysis）に陥ることです。あまりにも多くの匿名の人々に意見を求めると認知的過負荷が生じ、優先順位を決定できずに混乱に陥ります。意思決定を行う際は、アウグストゥスのように信頼性が確実に立証された少数の専門家（マイケナス、アグリッパなど）に諮問団を3人以内に制限すべきであり、最終決定と責任は徹底して自身が負うという境界線を守らなければなりません。",
+      "zh": "倾听建议的最大陷阱是由于无节制地收集意见而陷入决策瘫痪（Analysis Paralysis）。如果向过多的匿名人群寻求意见，就会产生认知过载，导致无法决定优先顺序而陷入混乱。在做决策时，应像奥古斯都那样，将咨询团队限制在不超过3名经过确凿证实的可信专家（如梅塞纳斯、阿格里帕等）之内，并严格恪守最终决定与责任完全由自己承担的界限。",
+      "es": "La mayor trampa de escuchar consejos es caer en la Parálisis por Análisis (Analysis Paralysis) debido a la recopilación indiscriminada de opiniones. Buscar opiniones de demasiadas personas anónimas genera una sobrecarga cognitiva, causando confusión e incapacidad para establecer prioridades. Al tomar decisiones, limite su equipo consultor a no más de 3 expertos probados y de confianza (como Mecenas y Agripa), y mantenga estrictamente el límite de que la decisión final y la responsabilidad recaen por completo en usted.",
+      "de": "Die größte Falle beim Einholen von Ratschlägen besteht darin, durch unbedachte Meinungseinholung in eine Analyse-Paralyse (Analysis Paralysis) zu geraten. Wenn Sie die Meinung zu vieler anonymer Personen einholen, entsteht eine kognitive Überlastung, die zu Verwirrung führt und das Setzen von Prioritäten unmöglich macht. Beschränken Sie Ihr Beraterteam bei Entscheidungen wie Augustus auf maximal 3 bewährte, vertrauenswürdige Experten (wie Mäcenas und Agrippa) und wahren Sie strikt die Grenze, dass die letzte Entscheidung und Verantwortung allein bei Ihnen liegen.",
+      "fr": "Le plus grand piège de l'écoute de conseils est de tomber dans la Paralysie par l'Analyse (Analysis Paralysis) en raison d'une collecte d'avis indifférenciée. Solliciter l'avis de trop de personnes anonymes crée une surcharge cognitive, entraînant la confusion et l'incapacité de fixer des priorités. Lors de la prise de décision, limitez votre équipe consultative à 3 experts éprouvés et de confiance au maximum (comme Mécène et Agrippa), et maintenez strictement la règle selon laquelle la décision finale et la responsabilité vous incombent totalement.",
+      "pt": "A maior armadilha de ouvir conselhos é cair na Paralisia por Análise (Analysis Paralysis) devido à coleta indiscriminada de opiniões. Buscar opiniões de muitas pessoas anônimas gera uma sobrecarga cognitiva, causando confusão e incapacidade de definir prioridades. Ao tomar decisões, limite sua equipe consultiva a no máximo 3 especialistas provados e de confiança (como Mecenas e Agripa), e mantenha estritamente o limite de que a decisão final e a responsabilidade cabem inteiramente a você.",
+      "id": "Jebakan terbesar dalam mendengarkan masukan adalah jatuh ke dalam Kelumpuhan Analisis (Analysis Paralysis) akibat pengumpulan pendapat secara tanpa kendali. Meminta pendapat dari terlalu banyak orang tak dikenal menciptakan beban kognitif berlebih, menyebabkan kebingungan dan ketidakmampuan menentukan prioritas. Saat mengambil keputusan, batasi tim penasihat Anda tidak lebih dari 3 pakar terpercaya yang terbukti (seperti Maecenas dan Agrippa), dan pegang teguh batasan bahwa keputusan akhir dan tanggung jawab sepenuhnya berada di tangan Anda."
     },
     "steps": [
       {
         "name": {
-          "ko": "신뢰할 수 있는 3인의 자문위원 지정"
+          "ko": "신뢰할 수 있는 3인의 자문위원 지정",
+          "en": "Step 1: Designating Up to 3 Trusted Advisors",
+          "ja": "ステップ1：信頼できる3人の諮問委員の指定",
+          "zh": "步骤1：指定至多3名可信赖的咨询委员",
+          "es": "Paso 1: Designación de Hasta 3 Asesores de Confianza",
+          "de": "Schritt 1: Festlegung von bis zu 3 vertrauenswürdigen Beratern",
+          "fr": "Étape 1 : Désigner Jusqu'à 3 Conseillers de Confiance",
+          "pt": "Passo 1: Designação de Até 3 Conselheiros de Confiança",
+          "id": "Langkah 1: Menentukan Hingga 3 Penasihat Terpercaya"
         },
         "text": {
-          "ko": "자신의 주관적 아집을 지적해 줄 수 있으며, 해당 의사결정 분야의 객관적인 전문성을 지닌 3인 이내의 참모를 선별합니다."
+          "ko": "자신의 주관적 아집을 지적해 줄 수 있으며, 해당 의사결정 분야의 객관적인 전문성을 지닌 3인 이내의 참모를 선별합니다.",
+          "en": "Select no more than 3 advisors who possess objective expertise in the relevant decision-making field and are capable of pointing out your subjective stubbornness.",
+          "ja": "自身の主観的な我執を指摘することができ、該当する意思決定分野の客観的な専門性を持つ3人以内の参謀を選別します。",
+          "zh": "挑选不超过3名在相关决策领域具备客观专业知识、且能够指正自己主观固执的幕僚。",
+          "es": "Seleccione no más de 3 asesores que posean experiencia objetiva en el campo de decisión relevante y sean capaces de señalar su terquedad subjetiva.",
+          "de": "Wählen Sie maximal 3 Berater aus, die über objektive Expertise im jeweiligen Entscheidungsbereich verfügen und in der Lage sind, auf Ihre subjektive Sturheit hinzuweisen.",
+          "fr": "Sélectionnez au maximum 3 conseillers possédant une expertise objective dans le domaine décisionnel concerné et capables de pointer du doigt votre entêtement subjectif.",
+          "pt": "Selecione no máximo 3 conselheiros que possuam experiência objetiva no campo de decisão relevante e sejam capazes de apontar sua teimosia subjetiva.",
+          "id": "Pilih tidak lebih dari 3 penasihat yang memiliki keahlian objektif di bidang pengambilan keputusan terkait dan mampu menunjukkan kepicikan subjektif Anda."
         }
       },
       {
         "name": {
-          "ko": "비대면 서면 피드백 접수"
+          "ko": "비대면 서면 피드백 접수",
+          "en": "Step 2: Receiving Non-Face-to-Face Written Feedback",
+          "ja": "ステップ2：非対面での書面フィードバックの受け取り",
+          "zh": "步骤2：接收非面对面的书面反馈",
+          "es": "Paso 2: Recepción de Comentarios Escritos No Presenciales",
+          "de": "Schritt 2: Einholung von schriftlichem Feedback ohne persönlichen Kontakt",
+          "fr": "Étape 2 : Réception de Retours Écrits Non En Personne",
+          "pt": "Passo 2: Recebimento de Feedback Escrito Não Presencial",
+          "id": "Langkah 2: Menerima Masukan Tertulis Secara Tidak Langsung"
         },
         "text": {
-          "ko": "대면 토론 시 발생하는 감정적 동조나 권위 압박을 피하기 위해, 결정안의 취약점을 적은 짧은 서면 피드백을 개별적으로 접수합니다."
+          "ko": "대면 토론 시 발생하는 감정적 동조나 권위 압박을 피하기 위해, 결정안의 취약점을 적은 짧은 서면 피드백을 개별적으로 접수합니다.",
+          "en": "To avoid emotional conformity or authority pressure that occurs during face-to-face discussions, individually collect short written feedback detailing the vulnerabilities of the proposal.",
+          "ja": "対面討論時に発生する感情的な同調や権威の圧力を避けるため、決定案の脆弱点を記した短い書面フィードバックを個別で受け取ります。",
+          "zh": "为避免面对面讨论时产生的从众情绪或权威压迫，单独接收列出方案漏洞的简短书面反馈。",
+          "es": "Para evitar el conformismo emocional o la presión de autoridad que ocurren en las discusiones presenciales, recopile individualmente comentarios escritos breves que detallen las vulnerabilidades de la propuesta.",
+          "de": "Um emotionale Konformität oder Autoritätsdruck zu vermeiden, die bei persönlichen Diskussionen entstehen, holen Sie einzeln kurzes schriftliches Feedback ein, das die Schwachstellen des Entwurfs aufzeigt.",
+          "fr": "Pour éviter le conformisme émotionnel ou la pression d'autorité qui surviennent lors de discussions en personne, recueillez individuellement de brefs retours écrits détaillant les vulnérabilités de la proposition.",
+          "pt": "Para evitar o conformismo emocional ou a pressão de autoridade que ocorrem em discussões presenciais, colete individualmente breves feedbacks escritos detalhando as vulnerabilidades da proposta.",
+          "id": "Untuk menghindari konformitas emosional atau tekanan otoritas yang terjadi selama diskusi tatap muka, kumpulkan masukan tertulis singkat secara individual yang merinci titik lemah dari usulan tersebut."
         }
       },
       {
         "name": {
-          "ko": "반대 인지 필터 적용 후 단순화 결정"
+          "ko": "반대 인지 필터 적용 후 단순화 결정",
+          "en": "Step 3: Applying Opposing Cognitive Filters and Making a Simplified Decision",
+          "ja": "ステップ3：反対の認知フィルター適用後の単純化決定",
+          "zh": "步骤3：应用反对意见认知过滤器后做出简化决策",
+          "es": "Paso 3: Aplicar Filtros Cognitivos Opuestos y Tomar una Decisión Simplificada",
+          "de": "Schritt 3: Anwendung gegensätzlicher kognitiver Filter und Treffen einer vereinfachten Entscheidung",
+          "fr": "Étape 3 : Appliquer des Filtres Cognitifs Opposés et Prendre une Décision Simplifiée",
+          "pt": "Passo 3: Aplicar Filtros Cognitivos Opostos e Tomar uma Decisão Simplificada",
+          "id": "Langkah 3: Menerapkan Filter Kognitif Sanggahan dan Mengambil Keputusan yang Sederhana"
         },
         "text": {
-          "ko": "이견의 핵심 논리와 팩트를 자신의 결정안에 대조하고 취약점을 적극 보완한 뒤, 가장 실행력이 높은 최선의 결정을 내립니다."
+          "ko": "이견의 핵심 논리와 팩트를 자신의 결정안에 대조하고 취약점을 적극 보완한 뒤, 가장 실행력이 높은 최선의 결정을 내립니다.",
+          "en": "Compare the core logic and facts of dissenting views against your draft decision, actively supplement vulnerabilities, and then make the best decision with the highest executability.",
+          "ja": "異論の核心的論理とファクトを自身の決定案と対比させ、脆弱点を積極的に補完した後、最も実行力の高い最善の決定を下します。",
+          "zh": "将异议的核心逻辑与事实对照自己的决策预案，积极弥补漏洞，然后做出执行力最高的最佳决定。",
+          "es": "Compare la lógica central y los hechos de las opiniones disidentes con su borrador de decisión, complemente activamente las vulnerabilidades y luego tome la mejor decisión con la mayor ejecutabilidad.",
+          "de": "Gleichen Sie die Kernlogik und Fakten der abweichenden Meinungen mit Ihrem Entscheidungsentwurf ab, bessern Sie Schwachstellen aktiv nach und treffen Sie dann die beste Entscheidung mit der höchsten Umsetzbarkeit.",
+          "fr": "Comparez la logique clé et les faits des avis divergents avec votre projet de décision, comblez activement les vulnérabilités, puis prenez la meilleure décision offrant la plus haute faisabilité.",
+          "pt": "Compare a lógica principal e os fatos das opiniões divergentes com o seu rascunho de decisão, complemente ativamente as vulnerabilidades e tome a melhor decisão com a maior executabilidade.",
+          "id": "Bandingkan logika utama dan fakta dari pandangan yang berbeda dengan draf keputusan Anda, lengkapi titik-titik lemah secara aktif, lalu ambil keputusan terbaik dengan tingkat eksekusi tertinggi."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "동료들의 피드백을 들을 때 감정적으로 설득당하지 않으려면 어떻게 하나요?"
+          "ko": "동료들의 피드백을 들을 때 감정적으로 설득당하지 않으려면 어떻게 하나요?",
+          "en": "How can I avoid being emotionally persuaded when listening to colleagues' feedback?",
+          "ja": "同僚のフィードバックを聞く時、感情的に説得されないようにするにはどうすればいいですか？",
+          "zh": "在听取同事的反馈时，如何避免在情感上被说服？",
+          "es": "¿Cómo puedo evitar ser persuadido emocionalmente al escuchar los comentarios de mis colegas?",
+          "de": "Wie kann ich vermeiden, emotional überzeugt zu werden, wenn ich mir das Feedback von Kollegen anhöre?",
+          "fr": "Comment puis-je éviter d'être persuadé émotionnellement en écoutant les retours de mes collègues ?",
+          "pt": "Como posso evitar ser persuadido emocionalmente ao ouvir o feedback de colegas?",
+          "id": "Bagaimana agar tidak terbawa emosi saat mendengarkan masukan dari rekan kerja?"
         },
         "answer": {
-          "ko": "그래서 '비대면 서면 접수'가 유리합니다. 대면 미팅을 하면 권위나 동조 압력, 화술에 의해 감정적인 설득이 일어나기 쉽습니다. 참모들이 개별적으로 작성해 준 서면의 날카로운 논리와 팩트 데이터만을 따로 모아 분석해야 이성적으로 판단할 수 있습니다."
+          "ko": "그래서 '비대면 서면 접수'가 유리합니다. 대면 미팅을 하면 권위나 동조 압력, 화술에 의해 감정적인 설득이 일어나기 쉽습니다. 참모들이 개별적으로 작성해 준 서면의 날카로운 논리와 팩트 데이터만을 따로 모아 분석해야 이성적으로 판단할 수 있습니다.",
+          "en": "That is why 'non-face-to-face written submission' is advantageous. In face-to-face meetings, emotional persuasion easily occurs due to authority, conformity pressure, or eloquent speech. You can judge rationally only when you separately collect and analyze the sharp logic and factual data written individually by your advisors.",
+          "ja": "だからこそ「非対面での書面受け取り」が有利なのです。対面ミーティングを行うと、権威や同調圧力、話術によって感情的な説得が起きやすくなります。参謀たちが個別で作成してくれた書面の鋭い論理とファクトデータだけを別途集めて分析してこそ、理性的に判断できます。",
+          "zh": "这就是为什么“非面对面书面接收”更有利。召开面对面会议时，容易因权威、从众压力或辩才而发生情感上的说服。只有将幕僚们单独撰写的书面材料中犀利的逻辑与事实数据单独收集并加以分析，才能做出理性的判断。",
+          "es": "Es por eso que la 'recepción escrita no presencial' es ventajosa. En las reuniones presenciales, la persuasión emocional ocurre fácilmente debido a la autoridad, la presión de conformidad o la elocuencia. Solo puede juzgar racionalmente cuando recopila y analiza por separado la lógica aguda y los datos fácticos escritos individualmente por sus asesores.",
+          "de": "Deshalb ist die 'schriftliche Einholung ohne persönlichen Kontakt' von Vorteil. Bei persönlichen Treffen kommt es durch Autorität, Konformitätsdruck oder Redekunst leicht zu emotionaler Überzeugung. Sie können nur dann rational urteilen, wenn Sie die scharfe Logik und die Faktendaten, die von Ihren Beratern einzeln verfasst wurden, separat sammeln und analysieren.",
+          "fr": "C'est pourquoi la 'réception écrite non en personne' est avantageuse. Lors de réunions en personne, la persuasion émotionnelle survient facilement en raison de l'autorité, de la pression de conformité ou de l'éloquence. Vous ne pouvez juger rationnellement que si vous rassemblez et analysez séparément la logique rigoureuse et les données factuelles rédigées individuellement par vos conseillers.",
+          "pt": "É por isso que o 'recebimento escrito não presencial' é vantajoso. Em reuniões presenciais, a persuasão emocional ocorre facilmente devido à autoridade, pressão de conformidade ou elocorrência. Você só pode julgar racionalmente quando coleta e analisa separadamente a lógica afiada e os dados fáticos escritos individualmente por seus conselheiros.",
+          "id": "Itulah mengapa 'penerimaan tertulis secara tidak langsung' sangat menguntungkan. Dalam pertemuan tatap muka, bujukan emosional mudah terjadi karena otoritas, tekanan konformitas, atau kelancaran berbicara. Anda hanya dapat menilai secara rasional jika mengumpulkan dan menganalisis logika tajam serta data faktual yang ditulis secara individual oleh penasihat Anda secara terpisah."
         }
       },
       {
         "question": {
-          "ko": "자문단의 인원은 어느 정도가 가장 적당한가요?"
+          "ko": "자문단의 인원은 어느 정도가 가장 적당한가요?",
+          "en": "What is the most appropriate size for an advisory team?",
+          "ja": "諮問団の人数はどれくらいが最も適していますか？",
+          "zh": "咨询团队的人数多少最为合适？",
+          "es": "¿Cuál es el tamaño más adecuado para un equipo consultor?",
+          "de": "Was ist die angemessenste Größe für ein Beraterteam?",
+          "fr": "Quelle est la taille la plus appropriée pour une équipe consultative ?",
+          "pt": "Qual é o tamanho mais adequado para uma equipe consultiva?",
+          "id": "Berapa jumlah anggota tim penasihat yang paling ideal?"
         },
         "answer": {
-          "ko": "최대 3명 이내를 강력하게 추천합니다. 인원이 늘어나면 정보의 과부하로 인해 결정을 짓지 못하는 결정 장애(Analysis Paralysis)가 발생합니다. 각 분야(예: 마케팅, 기술, 법률)를 대변하는 핵심 전문가 1명씩만 배치하여 자문을 수렴하십시오."
+          "ko": "최대 3명 이내를 강력하게 추천합니다. 인원이 늘어나면 정보의 과부하로 인해 결정을 짓지 못하는 결정 장애(Analysis Paralysis)가 발생합니다. 각 분야(예: 마케팅, 기술, 법률)를 대변하는 핵심 전문가 1명씩만 배치하여 자문을 수렴하십시오.",
+          "en": "We strongly recommend a maximum of 3 people. As headcount increases, Analysis Paralysis occurs due to information overload, preventing decision-making. Place just 1 core expert representing each field (e.g., marketing, technology, legal) to gather consultation.",
+          "ja": "最大3人以内を強く推奨します。人数が増えると情報の過負荷によって決定を下せない決定障害（Analysis Paralysis）が発生します。各分野（例：マーケティング、技術、法律）を代表する核心専門家を1人ずつだけ配置して助言を集約してください。",
+          "zh": "强烈推荐最多不超过3人。随着人数增加，会因信息过载而引发无法做出决定的决策瘫痪（Analysis Paralysis）。请仅针对各个领域（例如：营销、技术、法律）分别安排1名核心专家来收集咨询意见。",
+          "es": "Recomendamos encarecidamente un máximo de 3 personas. A medida que aumenta el número de personas, se produce la Parálisis por Análisis (Analysis Paralysis) debido a la sobrecarga de información, lo que impide tomar decisiones. Coloque solo 1 experto clave que represente a cada campo (por ejemplo: marketing, tecnología, legal) para recopilar consultas.",
+          "de": "Wir empfehlen dringend maximal 3 Personen. Mit steigender Personenzahl entsteht durch Informationsüberlastung eine Analyse-Paralyse (Analysis Paralysis), die Entscheidungen verhindert. Setzen Sie genau 1 Kernexperten ein, der jeden Bereich vertritt (z. B. Marketing, Technologie, Recht), um Beratungen einzuholen.",
+          "fr": "Nous recommandons fortement un maximum de 3 personnes. Lorsque l'effectif augmente, la Paralysie par l'Analyse (Analysis Paralysis) survient en raison de la surcharge d'informations, empêchant la prise de décision. Placez seulement 1 expert clé représentant chaque domaine (ex. : marketing, technologie, juridique) pour recueillir des avis.",
+          "pt": "Recomendamos fortemente um máximo de 3 pessoas. Conforme o número de pessoas aumenta, a Paralisia por Análise (Analysis Paralysis) ocorre devido à sobrecarga de informações, impedindo a tomada de decisões. Aloque apenas 1 especialista principal representando cada área (por exemplo: marketing, tecnologia, jurídico) para reunir consultas.",
+          "id": "Kami sangat merekomendasikan maksimal 3 orang. Seiring bertambahnya jumlah orang, Kelumpuhan Analisis (Analysis Paralysis) terjadi karena kelebihan informasi, yang menghambat pengambilan keputusan. Tempatkan hanya 1 pakar utama yang mewakili setiap bidang (misalnya pemasaran, teknologi, hukum) untuk mengumpulkan konsultasi."
         }
       }
     ]

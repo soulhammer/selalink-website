@@ -8,14 +8,14 @@ tags: ["위습관","루틴"]
 heroImage: "/images/blog/babbage_difference_engine.png"
 app: "buildself"
 formatVersion: 4
-authority: "Babbage Difference Engine 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+authority: "찰스 배비지 자서전 『Passages from the Life of a Philosopher』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
 steps:
   - name: "방대하고 복잡한 과제 정의하기"
-    text: "오차가 자주 발생하거나 한눈에 파악하기 힘든 거대 프로젝트나 복잡한 난제를 선정합니다. 외부의 산만 요소를 철저히 단단히 차단하고, 뇌의 전두엽에 명확한 실행 목표와 프레임을 확립하는 데 온전히 집중합니다."
+    text: "오차가 자주 발생하거나 한눈에 파악하기 힘든 거대 프로젝트나 복잡한 난제를 선정합니다. 외부의 산만 요소를 철저하게 차단하고, 뇌의 전두엽에 명확한 실행 목표와 프레임을 확립하는 데 온전히 집중합니다."
   - name: "독립적 톱니바퀴 모듈로 분해하기"
     text: "전체 프로세스를 3 - 5개의 독립된 최소 단위 톱니바퀴 모듈로 해체하고 청사진을 작성합니다."
   - name: "순차적 톱니바퀴 연쇄 완성 스프린트"
-    text: "첫 번째 모듈부터 오차 없이 완벽하게 완성한 후 다음 모듈로 넘어가 연결합니다. 외부의 산만 요소를 철저히 단단히 차단하고, 뇌의 전두엽에 명확한 실행 목표와 프레임을 확립하는 데 온전히 집중합니다."
+    text: "첫 번째 모듈부터 오차 없이 완벽하게 완성한 후 다음 모듈로 순차적으로 연결합니다. 앞 단계의 결과물이 다음 단계의 입력값으로 매끄럽게 작동하는지 확인하며 진행합니다."
 faqs:
   - question: "이 모듈화 분해법을 소프트웨어 코딩이나 업무 설계에도 적용할 수 있나요?"
     answer: "네! 현대 마이크로서비스 및 모듈러 프로그래밍의 핵심 개념이 바로 찰스 배비지의 차분기관 톱니바퀴 모듈화 논리에서 직접 유래한 것입니다."
@@ -39,7 +39,7 @@ faqs:
       역사적 및 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Babbage Difference Engine 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 babbage-difference-engine 루틴을 다룹니다.
+      본 콘텐츠는 <strong>찰스 배비지 자서전 『Passages from the Life of a Philosopher』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 babbage-difference-engine 루틴을 다룹니다.
     </p>
   </div>
 </div>
@@ -52,7 +52,7 @@ faqs:
 
 ---
 
-## 찰스 배비지 모듈화 주의사항 및 팁
+## 기계적 오차를 막는 시스템 모듈화 정렬 주의사항
 
 분해된 모듈의 순서를 무작위로 섞어 실행하지 마세요. 반드시 앞 모듈의 출력이 다음 모듈의 입력으로 매끄럽게 연결되도록 인과관계를 정렬해야 합니다. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다.
 
@@ -62,7 +62,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">방대하고 복잡한 과제 정의하기</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    오차가 자주 발생하거나 한눈에 파악하기 힘든 거대 프로젝트나 복잡한 난제를 선정합니다. 외부의 산만 요소를 철저히 단단히 차단하고, 뇌의 전두엽에 명확한 실행 목표와 프레임을 확립하는 데 온전히 집중합니다.
+    오차가 자주 발생하거나 한눈에 파악하기 힘든 거대 프로젝트나 복잡한 난제를 선정합니다. 외부의 산만 요소를 철저하게 차단하고, 뇌의 전두엽에 명확한 실행 목표와 프레임을 확립하는 데 온전히 집중합니다.
   </p>
 </div>
 
@@ -82,7 +82,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">순차적 톱니바퀴 연쇄 완성 스프린트</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    첫 번째 모듈부터 오차 없이 완벽하게 완성한 후 다음 모듈로 넘어가 연결합니다. 외부의 산만 요소를 철저히 단단히 차단하고, 뇌의 전두엽에 명확한 실행 목표와 프레임을 확립하는 데 온전히 집중합니다.
+    첫 번째 모듈부터 오차 없이 완벽하게 완성한 후 다음 모듈로 순차적으로 연결합니다. 앞 단계의 결과물이 다음 단계의 입력값으로 매끄럽게 작동하는지 확인하며 진행합니다.
   </p>
 </div>
 

@@ -1,70 +1,214 @@
 {
   "andersen-paper-cutting": {
     "title": {
-      "ko": "우울증을 치료하는 가위질? 안데르센의 종이 오리기 루틴"
+      "ko": "우울증을 치료하는 가위질? 안데르센의 종이 오리기 루틴",
+      "en": "Scissor Work That Heals Depression? Andersen's Paper-Cutting Routine",
+      "ja": "うつ病を治療するハサミ使い？アンデルセンの切り絵（ペーパーカッティング）ルーティン",
+      "zh": "治愈抑郁症的剪纸艺术？安徒生的剪纸惯例",
+      "es": "¿El Uso de Tijeras que Cura la Depresión? La Rutina de Recorte de Papel de Andersen",
+      "de": "Scherenarbeit zur Behandlung von Depressionen? Andersens Papierschneide-Routine",
+      "fr": "Le découpage au ciseau qui soigne la dépression ? La routine de découpage de papier d'Andersen",
+      "pt": "O Uso da Tesoura que Cura a Depressão? A Rotina de Recorte de Papel de Andersen",
+      "id": "Guntingan Kertas yang Menyembuhkan Depresi? Rutinitas Memotong Kertas Andersen"
     },
     "description": {
-      "ko": "세계적인 동화 작가 한스 크리스티안 안데르센. 평생의 우울증과 심리적 결핍 속에서도 아름다운 상상력을 꽃피운 비결인 '종이 오리기(Paper Cutting)'의 정신의학적 치유 원리와 3단계 가이드를 제안합니다."
+      "ko": "세계적인 동화 작가 한스 크리스티안 안데르센. 평생의 우울증과 심리적 결핍 속에서도 아름다운 상상력을 꽃피운 비결인 '종이 오리기(Paper Cutting)'의 정신의학적 치유 원리와 3단계 가이드를 제안합니다.",
+      "en": "World-renowned fairy tale author Hans Christian Andersen. Discover the psychiatric healing principles and 3-step guide to 'Paper Cutting'—the secret behind blossoming beautiful imagination despite a lifetime of depression and emotional deprivation.",
+      "ja": "世界的な童話作家ハンス・クリスチャン・アンデルセン。一生涯のうつ病と心理的欠乏の中でも美しい想像力を開花させた秘訣である「切り絵（Paper Cutting）」の精神医学的治療原理と3ステップガイドをご提案します。",
+      "zh": "世界级童话作家汉斯·克里斯蒂安·安徒生。为您介绍他在终身抑郁与心理匮乏中开出美丽想象之花的秘诀——“剪纸（Paper Cutting）”的精神医学治疗原理与3步骤指南。",
+      "es": "El mundialmente famoso autor de cuentos de hadas Hans Christian Andersen. Presentamos los principios de curación psiquiátrica y una guía de 3 pasos de 'Recorte de Papel' (Paper Cutting), el secreto para hacer florecer una hermosa imaginación a pesar de una vida de depresión y carencia psicológica.",
+      "de": "Der weltberühmte Märchenerzähler Hans Christian Andersen. Wir stellen die psychiatrischen Heilprinzipien und einen 3-Schritte-Leitfaden zum 'Papierschneiden' (Paper Cutting) vor – das Geheimnis hinter seiner blühenden Fantasie trotz lebenslanger Depression und psychischer Mängel.",
+      "fr": "L'auteur de contes de fées mondialement célèbre Hans Christian Andersen. Découvrez les principes de guérison psychiatrique et le guide en 3 étapes du « découpage de papier » (Paper Cutting), le secret pour faire fleurir une belle imagination malgré une vie de dépression et de privation psychologique.",
+      "pt": "O mundialmente famoso autor de contos de fadas Hans Christian Andersen. Apresentamos os princípios de cura psiquiátrica e um guia de 3 passos para o 'Recorte de Papel' (Paper Cutting) — o segredo para fazer florescer uma bela imaginação apesar de uma vida de depressão e carência psicológica.",
+      "id": "Penulis dongeng ternama dunia Hans Christian Andersen. Pelajari prinsip penyembuhan psikiatris dan panduan 3 langkah dari 'Memotong Kertas' (Paper Cutting)—rahasia di balik mekarnya imajinasi yang indah di tengah depresi seumur hidup dan kekurangan psikologis."
     },
     "authority": {
-      "ko": "덴마크 오덴세 안데르센 박물관(Hans Christian Andersen Museum) 종이 아카이브 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+      "ko": "덴마크 오덴세 안데르센 박물관(Hans Christian Andersen Museum) 종이 아카이브 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+      "en": "Historical Verification from the Paper Archives of the Hans Christian Andersen Museum in Odense, Denmark & Cognitive Neuroscience Research",
+      "ja": "デンマーク・オーデンセのアンデルセン博物館（Hans Christian Andersen Museum）紙アーカイブの考証＆認知神経科学（Cognitive Neuroscience）研究",
+      "zh": "丹麦欧登塞安徒生博物馆（Hans Christian Andersen Museum）剪纸档案考证与认知神经科学（Cognitive Neuroscience）研究",
+      "es": "Verificación Histórica de los Archivos de Papel del Museo Hans Christian Andersen en Odense, Dinamarca e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)",
+      "de": "Historische Überprüfung aus den Papierarchiven des Hans Christian Andersen Museums in Odense, Dänemark & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)",
+      "fr": "Vérification Historique issue des archives de papier du Musée Hans Christian Andersen à Odense, Danemark & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)",
+      "pt": "Verificação Histórica dos Arquivos de Papel do Museu Hans Christian Andersen em Odense, Dinamarca e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)",
+      "id": "Verifikasi Historis dari Arsip Kertas Museum Hans Christian Andersen di Odense, Denmark & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"
     },
     "intro": {
-      "ko": "\"내 가위질은 동화의 첫 장이다. 가위가 종이를 스치는 순간, 내 상상도 날개를 편다.\" ✂️\n\n인어공주, 미운 오리 새끼, 성냥팔이 소녀 등 전 세계 어린이들과 어른들에게 시대를 초월한 꿈과 감동을 안겨준 동화의 아버지, 한스 크리스티안 안데르센. 평생을 지독한 가난, 극심한 우울증, 유기 불안, 그리고 외모 콤플렉스에 시달렸던 그가 냉혹한 현실 앞에서도 상상력을 잃지 않고 마음에 잔잔한 평온을 얻었던 비결은 어디에 있었을까요?\n\n안데르센은 동화를 구상하거나 사색에 잠길 때, 주머니 속에서 종이 한 장과 가위를 늘 꺼내 들었습니다. 그는 즉흥적인 동화 이야기를 지어내고 말하며 손으로는 종이를 접고 정밀하게 가위질(Paper Cutting)을 해 나갔습니다. 이야기가 끝났을 때 종이를 싹 펼치면 백조, 백합, 요정 등 기발하고 아름다운 형상의 대칭 작품이 눈앞에 펼쳐졌습니다. 손끝을 바삐 놀리며 종이를 자르던 이 감각 루틴은 그에게 가혹한 현실에서 벗어나 정신적 평안을 얻게 한 가장 친근한 정서 치유제였습니다.\n\n오늘 포스트에서는 안데르센의 '종이 오리기' 루틴의 정신의학적 치유 이점과 현대인을 위해 재구성한 수작업 몰입 루틴을 소개합니다."
+      "ko": "\"내 가위질은 동화의 첫 장이다. 가위가 종이를 스치는 순간, 내 상상도 날개를 편다.\" ✂️\n\n인어공주, 미운 오리 새끼, 성냥팔이 소녀 등 전 세계 어린이들과 어른들에게 시대를 초월한 꿈과 감동을 안겨준 동화의 아버지, 한스 크리스티안 안데르센. 평생을 지독한 가난, 극심한 우울증, 유기 불안, 그리고 외모 콤플렉스에 시달렸던 그가 냉혹한 현실 앞에서도 상상력을 잃지 않고 마음에 잔잔한 평온을 얻었던 비결은 어디에 있었을까요?\n\n안데르센은 동화를 구상하거나 사색에 잠길 때, 주머니 속에서 종이 한 장과 가위를 늘 꺼내 들었습니다. 그는 즉흥적인 동화 이야기를 지어내고 말하며 손으로는 종이를 접고 정밀하게 가위질(Paper Cutting)을 해 나갔습니다. 이야기가 끝났을 때 종이를 싹 펼치면 백조, 백합, 요정 등 기발하고 아름다운 형상의 대칭 작품이 눈앞에 펼쳐졌습니다. 손끝을 바삐 놀리며 종이를 자르던 이 감각 루틴은 그에게 가혹한 현실에서 벗어나 정신적 평안을 얻게 한 가장 친근한 정서 치유제였습니다.\n\n오늘 포스트에서는 안데르센의 '종이 오리기' 루틴의 정신의학적 치유 이점과 현대인을 위해 재구성한 수작업 몰입 루틴을 소개합니다.",
+      "en": "\"My scissor-work is the first chapter of a fairy tale. The moment the scissors touch the paper, my imagination takes flight.\" ✂️\n\nHans Christian Andersen, the father of fairy tales who brought timeless dreams and inspiration to children and adults worldwide through works like The Little Mermaid, The Ugly Duckling, and The Little Match Girl. Suffering throughout his life from severe poverty, intense depression, abandonment anxiety, and a complex about his appearance, where did he find the secret to retaining his imagination and gaining serene peace of mind in the face of harsh reality?\n\nWhen Andersen conceived fairy tales or immersed himself in reflection, he always pulled out a piece of paper and a pair of scissors from his pocket. As he invented and spoke improvised fairy tales, his hands folded paper and executed precise paper cutting. When the story ended and he unfolded the paper, symmetrical artwork of whimsical and beautiful figures such as swans, lilies, and fairies appeared before everyone's eyes. This sensory routine of cutting paper while keeping his fingertips busy was his closest emotional remedy for escaping brutal reality and attaining mental peace.\n\nIn today's post, we introduce the psychiatric healing benefits of Andersen's 'Paper Cutting' routine and a manual immersion routine re-engineered for modern individuals.",
+      "ja": "「私のハサミ使いは童話の第一章だ。ハサミが紙をかすめる瞬間、私の想像も羽ばたく。」 ✂️\n\n『人魚姫』、『みにくいアヒルの子』、『マッチ売りの少女』など、世界中の子供たちや大人たちに時代を超えた夢と感動を与えた童話の父、ハンス・クリスチャン・アンデルセン。一生涯にわたりひどい貧困、極度のうつ病、見捨てられ不安、そして外見コンプレックスに苦しんだ彼が、冷酷な現実の前でも想像力を失わず、心に穏やかな安らぎを得た秘訣はどこにあったのでしょうか？\n\nアンデルセンは童話を構想したり思索にふける時、ポケットから紙一枚とハサミをいつも取り出しました。彼は即興の童話を作り出して語りながら、手では紙を折り、精密にハサミを入れていきました（Paper Cutting）。お話が終わった時に紙をサッと広げると、白鳥、百合、妖精など奇抜で美しい形状の対称作品が目の前に広がりました。指先を忙しく動かして紙を切るこの感覚ルーティンは、彼にとって過酷な現実から逃れ、精神的な安らぎを得るための最も親しい情緒的治療薬でした。\n\n本日の記事では、アンデルセンの「切り絵」ルーティンの精神医学的治療の利点と、現代人のために再構成した手作業没頭ルーティンをご紹介します。",
+      "zh": "“我的剪裁是童话的第一章。在剪刀划过纸张的瞬间，我的想象也展开了翅膀。” ✂️\n\n创作了《海的女儿》、《丑小鸭》、《卖火柴的小女孩》等名作，为全世界儿童与成人带来超越时代之梦想与感动的童话之父——汉斯·克里斯蒂安·安徒生。一生饱受极度贫困、剧烈抑郁、被抛弃焦虑以及外貌自卑折磨的他，究竟是如何在冷酷的现实面前保留想象力并在心中获得安宁与平静的呢？\n\n安徒生在构思童话或沉思时，总是会从口袋里拿出一张纸和一把剪刀。他一边即兴编造并讲述童话故事，一边用手折叠纸张并精细地进行剪纸（Paper Cutting）。故事讲完时将纸张一展，天鹅、百合、仙女等新颖而美妙对称的艺术作品便展现眼前。这种忙碌地动着指尖剪纸的感官惯例，是他摆脱残酷现实、获得精神安宁的最亲密的心灵疗愈剂。\n\n在今天的文章中，我们将介绍安徒生“剪纸”惯例的精神医学治疗益处，以及为现代人重新构建的手工沉浸惯例。",
+      "es": "\"Mi trabajo de tijeras es el primer capítulo de un cuento de hadas. En el momento en que las tijeras rozan el papel, mi imaginación despliega sus alas.\" ✂️\n\nHans Christian Andersen, el padre de los cuentos de hadas que brindó sueños e inspiración atemporales a niños y adultos de todo el mundo con obras como La Sirenita, El Patito Feo y La Cerillera. Sufriendo a lo largo de su vida una severa pobreza, una intensa depresión, ansiedad por abandono y un complejo sobre su apariencia, ¿dónde encontró el secreto para no perder la imaginación y obtener una calma serena frente a la dura realidad?\n\nCuando Andersen concebía cuentos de hadas o se sumergía en la reflexión, siempre sacaba un papel y unas tijeras de su bolsillo. Mientras inventaba y relataba cuentos improvisados, sus manos doblaban el papel y realizaban recortes precisos (Paper Cutting). Al terminar la historia, al desplegar el papel, obras simétricas con figuras ingeniosas y hermosas como cisnes, lirios y hadas se desplegaban ante los ojos de todos. Esta rutina sensorial de cortar papel moviendo ágilmente las yemas de los dedos fue su remedio emocional más cercano para escapar de la cruda realidad y alcanzar la paz mental.\n\nEn la publicación de hoy, presentamos los beneficios curativos psiquiátricos de la rutina de 'Recorte de Papel' de Andersen y una rutina de inmersión manual rediseñada para el individuo moderno.",
+      "de": "\"Meine Scherenarbeit ist das erste Kapitel eines Märchens. In dem Moment, in dem die Schere das Papier berührt, entfaltet meine Fantasie ihre Flügel.\" ✂️\n\nHans Christian Andersen, der Vater der Märchen, der Kindern und Erwachsenen weltweit mit Werken wie Die kleine Meerjungfrau, Das hässliche Entlein und Das kleine Mädchen mit den Schwefelhölzern zeitlose Träume und Rührung schenkte. Wie gelang es ihm, der sein Leben lang unter extremer Armut, schwerer Depression, Verlassensängsten und einem Komplex wegen seines Aussehens litt, angesichts der kalten Realität seine Fantasie nicht zu verlieren und eine sanfte Seelenruhe zu erlangen?\n\nWenn Andersen Märchen ersann oder in Nachdenken versank, holte er stets ein Blatt Papier und eine Schere aus der Tasche. Er dachte sich improvisierte Märchengeschichten aus und erzählte sie, während seine Hände das Papier falteten und präzise Papierschnitte (Paper Cutting) ausführen. Wenn die Geschichte zu Ende war und er das Papier auseinanderfaltete, entfalteten sich vor aller Augen symmetrische Kunstwerke von neuartigen und schönen Gestalten wie Schwänen, Lilien und Feen. Diese sensorische Routine, bei der er seine Fingerspitzen emsig bewegte und Papier schnitt, war sein vertrautestes emotionales Heilmittel, um der harten Realität zu entkommen und geistigen Frieden zu finden.\n\nIm heutigen Beitrag stellen wir die psychiatrischen Heilvorteile von Andersens 'Papierschneide'-Routine und eine für moderne Menschen neu gestaltete Routine zum manuellen Eintauchen vor.",
+      "fr": "« Mon travail aux ciseaux est le premier chapitre d'un conte de fées. Au moment où les ciseaux effleurent le papier, mon imagination prend son envol. » ✂️\n\nHans Christian Andersen, le père des contes de fées qui a offert des rêves et des émotions intemporels aux enfants et aux adultes du monde entier avec des œuvres comme La Petite Sirène, Le Vilain Petit Canard et La Petite Fille aux allumettes. Souffrant toute sa vie d'une pauvreté extrême, d'une profonde dépression, d'une angoisse de l'abandon et d'un complexe physique, où a-t-il trouvé le secret pour ne pas perdre son imagination et trouver un calme paisible face à la dure réalité ?\n\nLorsqu'Andersen concevait des contes ou se livrait à la méditation, il sortait toujours une feuille de papier et des ciseaux de sa poche. Tout en inventant et en racontant des contes improvisés, ses mains pliaient le papier et réalisaient des découpages précis (Paper Cutting). Lorsque l'histoire se terminait et qu'il dépliait le papier, des œuvres symétriques aux formes originales et magnifiques telles que des cygnes, des lys et des fées se révélaient devant les yeux de tous. Cette routine sensorielle consistant à découper du papier en s'activant du bout des doigts était son remède émotionnel le plus précieux pour échapper à la dure réalité et acquérir la paix mentale.\n\nDans l'article d'aujourd'hui, nous présentons les bienfaits thérapeutiques psychiatriques de la routine de « découpage de papier » d'Andersen et une routine d'immersion manuelle réorganisée pour l'homme moderne.",
+      "pt": "\"O meu trabalho de tesoura é o primeiro capítulo de um conto de fadas. No momento em que a tesoura toca o papel, a minha imaginação ganha asas.\" ✂️\n\nHans Christian Andersen, o pai dos contos de fadas que trouxe sonhos e emoções intemporais a crianças e adultos em todo o mundo com obras como A Pequena Sereia, O Patinho Feio e A Pequena Vendedora de Fósforos. Sofrendo ao longo de toda a vida de uma pobreza extrema, uma profunda depressão, ansiedade de abandono e um complexo com a sua aparência, onde encontrou ele o segredo para não perder a imaginação e alcançar uma calma serena perante a realidade dura?\n\nQuando Andersen concebia contos de fadas ou se entregava à reflexão, tirava sempre do bolso uma folha de papel e uma tesoura. Enquanto inventava e contava contos improvisados, as suas mãos dobravam o papel e faziam recortes precisos (Paper Cutting). Quando a história terminava e ele desdobrava o papel, obras simétricas com formas originais e belas, como cisnes, lírios e fadas, revelavam-se diante dos olhos de todos. Esta rotina sensorial de cortar papel movendo agilmente as pontas dos dedos era o seu remédio emocional mais próximo para escapar da realidade cruel e alcançar a paz mental.\n\nNo artigo de hoje, apresentamos os benefícios de cura psiquiátrica da rotina de 'Recorte de Papel' de Andersen e uma rotina de imersão manual reformulada para os indivíduos modernos.",
+      "id": "\"Karya guntinganku adalah bab pertama dari sebuah dongeng. Di saat gunting menyentuh kertas, imajinasiku pun mengepakkan sayapnya.\" ✂️\n\nHans Christian Andersen, bapak dongeng yang memberikan mimpi dan keharuan abadi bagi anak-anak dan orang dewasa di seluruh dunia melalui karya-karya seperti Putri Duyung, Itik Buruk Rupa, dan Gadis Penjual Korek Api. Menderita kemiskinan parah, depresi hebat, kecemasan akan penelantaran, dan kompleks penampilan sepanjang hidupnya, di manakah rahasianya mempertahankan imajinasi dan mendapatkan ketenangan jiwa di hadapan kenyataan yang dingin?\n\nKetika Andersen merancang dongeng atau tenggelam dalam perenungan, ia selalu mengeluarkan selembar kertas dan sepasang gunting dari saku bajunya. Sambil mengarang dan menceritakan dongeng secara improvisasi, tangannya melipat kertas dan melakukan pemotongan presisi (Paper Cutting). Ketika cerita berakhir dan ia membuka lipatan kertas, karya seni simetris berwujud indah seperti angsa, bunga lili, dan peri pun terhampar di depan mata सभी orang. Rutinitas sensorik memotong kertas dengan jemari yang sibuk ini adalah obat emosional paling karib baginya untuk melarikan diri dari kenyataan yang keras dan meraih kedamaian mental.\n\nDalam postingan hari ini, kami memperkenalkan manfaat penyembuhan psikiatris dari rutinitas 'Memotong Kertas' Andersen dan rutinitas immersi manual yang dirancang ulang untuk masyarakat modern."
     },
     "whyTitle": {
-      "ko": "정교한 수작업에 따른 디폴트 모드 네트워크(DMN) 안정"
+      "ko": "정교한 수작업에 따른 디폴트 모드 네트워크(DMN) 안정",
+      "en": "Stabilization of the Default Mode Network (DMN) via Delicate Manual Work",
+      "ja": "精巧な手作業によるデフォルト・モード・ネットワーク（DMN）の安定",
+      "zh": "精细手工精炼带来的默认模式网络（DMN）稳定",
+      "es": "Estabilización de la Red por Defecto (DMN) Mediante el Trabajo Manual Delicado",
+      "de": "Stabilisierung des Default Mode Network (DMN) durch feine Handarbeit",
+      "fr": "Stabilisation du réseau du mode par défaut (DMN) grâce au travail manuel délicat",
+      "pt": "Estabilização da Rede de Modo Padrão (DMN) Através do Trabalho Manual Delicado",
+      "id": "Stabilisasi Default Mode Network (DMN) Melalui Pekerjaan Tangan yang Presisi"
     },
     "whyDesc": {
-      "ko": "뇌가 특별한 과업을 수행하지 않고 쉴 때 작동하는 <strong>'디폴트 모드 네트워크(Default Mode Network, DMN)'</strong>는 현대인에게 과거의 후회와 미래의 불안 같은 불필요한 과잉 생각(Overthinking)을 증폭하는 원인이 됩니다. 작업치료 및 신경과학 연구에 따르면, 손가락 끝을 섬세하게 제어하는 가위질이나 드로잉 같은 <strong>'정교한 수작업'</strong>은 뇌의 운동 피질을 넓게 예열하는 동시에, 과부하된 DMN의 이상 활성화를 즉각 차단(Deactivation)합니다. 눈앞의 종이를 접고 슥슥 오려내는 단순 대칭적 촉각 자극은 과잉 생각을 멈추고 뇌에 깊은 인지적 휴식을 제공합니다."
+      "ko": "뇌가 특별한 과업을 수행하지 않고 쉴 때 작동하는 <strong>'디폴트 모드 네트워크(Default Mode Network, DMN)'</strong>는 현대인에게 과거의 후회와 미래의 불안 같은 불필요한 과잉 생각(Overthinking)을 증폭하는 원인이 됩니다. 작업치료 및 신경과학 연구에 따르면, 손가락 끝을 섬세하게 제어하는 가위질이나 드로잉 같은 <strong>'정교한 수작업'</strong>은 뇌의 운동 피질을 넓게 예열하는 동시에, 과부하된 DMN의 이상 활성화를 즉각 차단(Deactivation)합니다. 눈앞의 종이를 접고 슥슥 오려내는 단순 대칭적 촉각 자극은 과잉 생각을 멈추고 뇌에 깊은 인지적 휴식을 제공합니다.",
+      "en": "The <strong>'Default Mode Network (DMN)'</strong>, which operates when the brain rests without performing a specific task, amplifies unnecessary overthinking such as past regrets and future anxieties in modern individuals. According to occupational therapy and neuroscience research, <strong>'delicate manual work'</strong> like scissor-cutting or drawing, which delicately controls the fingertips, broadly warms up the brain's motor cortex while immediately deactivating the hyperactive, overloaded DMN. The simple, symmetrical tactile stimulation of folding and cutting paper right before your eyes stops overthinking and provides deep cognitive rest to the brain.",
+      "ja": "脳が特別なタスクを実行せずに休んでいる時に作動する<strong>「デフォルト・モード・ネットワーク（Default Mode Network, DMN）」</strong>は、現代人にとって過去の后悔や未来の不安といった不必要な過剰思考（Overthinking）を増幅させる原因となります。作業療法および神経科学の研究によると、指先を繊細にコントロールするハサミ使いやドローイングのような<strong>「精巧な手作業」</strong>は、脳の運動皮質を広くウォーミングアップさせると同時に、オーバーロードされたDMNの異常な活性化を即座に遮断（Deactivation）します。目の前の紙を折り、サクサクと切り抜く単純で対称的な触覚刺激は過剰思考を止め、脳に深い認知的休息を提供します。",
+      "zh": "在大脑不执行特定任务而休息时运转的<strong>“默认模式网络（Default Mode Network, DMN）”</strong>，是放大现代人诸如对过去的后悔与对未来的焦虑等不必要的过度思考（Overthinking）的原因。根据作业治疗与神经科学研究，像精细控制指尖的剪纸或绘画等<strong>“精细手工”</strong>，在广泛预热大脑运动皮层的同时，能立即阻断（Deactivation）超载DMN的异常激活。折叠眼前纸张并顺畅剪裁的简单对称性触觉刺激，能止住过度思考，并为大脑提供深度的认知休息。",
+      "es": "La <strong>'Red por Defecto (Default Mode Network, DMN)'</strong>, que opera cuando el cerebro descansa sin realizar una tarea específica, amplifica el sobrepensamiento (Overthinking) innecesario, como los arrepentimientos del pasado y las ansiedades del futuro, en las personas modernas. Según la terapia ocupacional e investigaciones en neurociencia, el <strong>'trabajo manual delicado'</strong>, como el uso de tijeras o el dibujo, que controla delicadamente las yemas de los dedos, calienta ampliamente la corteza motora del cerebro al tiempo que desactiva de inmediato la DMN sobrecargada. La estimulación táctil simétrica y simple de doblar y cortar papel frente a sus ojos detiene el sobrepensamiento y proporciona un profundo descanso cognitivo al cerebro.",
+      "de": "Das <strong>'Default Mode Network (DMN)'</strong>, das aktiv ist, wenn das Gehirn ruht, ohne eine bestimmte Aufgabe auszuführen, verstärkt bei modernen Menschen unnötiges Nachdenken (Overthinking) wie Reue über die Vergangenheit und Zukunftsängste. Laut Ergotherapie und neurowissenschaftlicher Forschung wärmt <strong>'feine Handarbeit'</strong> wie Scherenarbeiten oder Zeichnen, die die Fingerspitzen feinfühlig steuert, den motorischen Kortex des Gehirns auf und deaktiviert gleichzeitig sofort das überlastete DMN. Die einfache, symmetrische taktile Stimulation des Faltens und Schneidens von Papier direkt vor Ihren Augen stoppt das Nachdenken und schenkt dem Gehirn eine tiefe kognitive Pause.",
+      "fr": "Le <strong>« réseau du mode par défaut (Default Mode Network, DMN) »</strong>, qui fonctionne lorsque le cerveau se repose sans accomplir de tâche particulière, amplifie chez l'homme moderne la surpensée (Overthinking) inutile, comme les regrets du passé et les angoisses du futur. Selon l'ergothérapie et la recherche en neurosciences, le <strong>« travail manuel délicat »</strong> comme le découpage au ciseau ou le dessin, qui contrôle délicatement le bout des doigts, réchauffe largement le cortex moteur du cerveau tout en désactivant immédiatement le DMN surchargé. La simple stimulation tactile symétrique consistant à plier et découper du papier devant ses yeux stoppe la surpensée et offre un profond repos cognitif au cerveau.",
+      "pt": "A <strong>'Rede de Modo Padrão (Default Mode Network, DMN)'</strong>, que opera quando o cérebro descansa sem realizar uma tarefa específica, amplifica o pensamento excessivo (Overthinking) desnecessário, como arrependimentos do passado e ansiedades do futuro, nos indivíduos modernos. De acordo com a terapia ocupacional e pesquisas em neurociência, o <strong>'trabalho manual delicado'</strong>, como o corte com tesoura ou o desenho, que controla delicadamente as pontas dos dedos, aquece amplamente o córtex motor do cérebro enquanto desativa imediatamente o DMN sobrecarregado. A estimulação tátil simétrica e simples de dobrar e cortar papel diante dos seus olhos interrompe o pensamento excessivo e proporciona um profundo descanso cognitivo ao cérebro.",
+      "id": "<strong>'Default Mode Network (Default Mode Network, DMN)'</strong>, yang beroperasi saat otak beristirahat tanpa melakukan tugas tertentu, memperbesar pikiran berlebihan (Overthinking) yang tidak perlu seperti penyesalan masa lalu dan kecemasan masa depan pada masyarakat modern. Menurut terapi okupasi dan penelitian neurosains, <strong>'pekerjaan tangan yang presisi'</strong> seperti memotong dengan gunting atau menggambar, yang mengontrol ujung jari secara halus, memanaskan korteks motorik otak secara luas sekaligus menonaktifkan (Deactivation) DMN yang mengalami beban berlebih secara langsung. Stimulasi taktil simetris sederhana berupa melipat dan memotong kertas di depan mata menghentikan pikiran berlebihan dan memberikan istirahat kognitif yang mendalam bagi otak."
     },
     "cautionTitle": {
-      "ko": "완벽한 디자인 설계가 아닌, 손끝의 궤적과 자르는 소리에 집중하세요"
+      "ko": "완벽한 디자인 설계가 아닌, 손끝의 궤적과 자르는 소리에 집중하세요",
+      "en": "Focus on the Trajectory of Your Fingertips and the Cutting Sound, Not Perfect Design",
+      "ja": "完璧なデザイン設計ではなく、指先の軌跡と切る音に集中してください",
+      "zh": "请专注于指尖的轨迹与剪裁声音，而非完美的设计图稿",
+      "es": "Enfóquese en la Trayectoria de las Yemas de los Dedos y el Sonido del Corte, No en un Diseño Perfecto",
+      "de": "Konzentrieren Sie sich auf die Flugbahn Ihrer Fingerspitzen und das Schneidegeräusch, nicht auf perfektes Design",
+      "fr": "Concentrez-vous sur la trajectoire du bout des doigts et le bruit du découpage, non sur un design parfait",
+      "pt": "Foque na Trajetória das Pontas dos Dedos e no Som do Corte, Não no Design Perfeito",
+      "id": "Fokuslah pada Lintasan Ujung Jari dan Suara Guntingan, Bukan Desain yang Sempurna"
     },
     "cautionDesc": {
-      "ko": "가위질 루틴을 통한 뇌의 휴식 효과를 누리려면 멋진 결과물을 만들어야 한다는 강박을 내려놓아야 합니다. '예쁜 무늬를 완성해야지'라며 머리로 도안을 설계하기 시작하면 전두엽의 기획 및 제어 영역이 과열되어 DMN 차단 효과를 얻기 어렵습니다. 안데르센이 눈을 감고 손이 움직이는 대로 슥슥 오려내었듯, 가위가 종이를 자를 때 나는 사각거리는 마찰음과 손가락 끝의 아날로그 진동에만 온전히 주의를 맡기는 것이 이완의 첫걸음입니다."
+      "ko": "가위질 루틴을 통한 뇌의 휴식 효과를 누리려면 멋진 결과물을 만들어야 한다는 강박을 내려놓아야 합니다. '예쁜 무늬를 완성해야지'라며 머리로 도안을 설계하기 시작하면 전두엽의 기획 및 제어 영역이 과열되어 DMN 차단 효과를 얻기 어렵습니다. 안데르센이 눈을 감고 손이 움직이는 대로 슥슥 오려내었듯, 가위가 종이를 자를 때 나는 사각거리는 마찰음과 손가락 끝의 아날로그 진동에만 온전히 주의를 맡기는 것이 이완의 첫걸음입니다.",
+      "en": "To enjoy the brain-resting effects of the scissor-cutting routine, you must let go of the obsession to create a wonderful output. If you start mentally designing a pattern thinking 'I must complete a pretty pattern', the planning and control areas of the prefrontal cortex overheat, making it difficult to achieve the DMN deactivation effect. Just as Andersen closed his eyes and cut as his hands moved, entirely entrusting your attention solely to the crisp friction sound of the scissors cutting paper and the analog vibration at your fingertips is the first step toward relaxation.",
+      "ja": "ハサミ使いルーティンによる脳の休息効果を享受するためには、素晴らしい成果物を作らなければならないという強迫観念を捨てなければなりません。「綺麗な模様を完成させよう」と頭でデザインを設計し始めると、前頭葉の企画および制御領域がオーバーヒートし、DMN遮断効果を得にくくなります。アンデルセンが目を閉じて手が動くままにサクサクと切り抜いたように、ハサミが紙を切る際に出るサクサクという摩擦音と指先のアナログな振動だけに全注意を委ねることがリラックスへの第一歩です。",
+      "zh": "为了通过剪纸惯例享受大脑的休息效果，必须放下必须做成惊艳作品的强迫观念。如果开始用大脑设计图稿想着“我要完成漂亮的图案”，前额叶的规划与控制区域就会过热，从而难以获得降低DMN的效果。正如安徒生闭上双眼随手剪裁一样，将注意力完全倾注于剪刀剪开纸张时发出的沙沙摩擦声与指尖触感到的模拟震动上，才是放松的第一步。",
+      "es": "Para disfrutar del efecto de descanso cerebral de la rutina de recortes con tijeras, debe abandonar la obsesión por crear un resultado maravilloso. Si comienza a diseñar mentalmente un patrón pensando 'debo completar un diseño bonito', las áreas de planificación y control del lóbulo prefrontal se sobrecalientan, lo que dificulta lograr el efecto de desactivación de la DMN. Tal como Andersen cerraba los ojos y cortaba según se movían sus manos, confiar plenamente su atención solo al crujiente sonido de fricción de las tijeras al cortar papel y a la vibración analógica en las yemas de sus dedos es el primer paso hacia la relajación.",
+      "de": "Um die gehirnentlastende Wirkung der Scherenarbeits-Routine zu genießen, müssen Sie den Zwang loslassen, ein wunderbares Ergebnis zu erzielen. Wenn Sie beginnen, gedanklich ein Muster zu entwerfen und denken: 'Ich muss ein schönes Muster fertigstellen', überhitzen die Planungs- und Steuerungsbereiche des Präfrontalkortex, was es schwierig macht, die DMN-Deaktivierungswirkung zu erzielen. Genau wie Andersen seine Augen schloss und schnitt, wie sich seine Hände bewegten, ist das völlige Anvertrauen Ihrer Aufmerksamkeit allein auf das knusprige Reibungsgeräusch der Schere beim Schneiden von Papier und die analoge Vibration an Ihren Fingerspitzen der erste Schritt zur Entspannung.",
+      "fr": "Pour profiter des effets de repos cérébral de la routine de découpage au ciseau, vous devez abandonner l'obsession de créer un résultat magnifique. Si vous commencez à concevoir mentalement un motif en vous disant « je dois réussir un joli dessin », les zones de planification et de contrôle du cortex préfrontal surchauffent, ce qui rend difficile l'obtention de l'effet de désactivation du DMN. Tout comme Andersen fermait les yeux et découpait au gré du mouvement de ses mains, confier entièrement votre attention au doux bruit de friction des ciseaux effleurant le papier et à la vibration analogique au bout de vos doigts constitue le premier pas vers la relaxation.",
+      "pt": "Para aproveitar os efeitos de descanso cerebral da rotina de corte com tesoura, você deve abandonar a obsessão de criar um resultado maravilhoso. Se começar a projetar mentalmente um padrão pensando 'devo completar um desenho bonito', as áreas de planejamento e controle do lobo pré-frontal superaquecem, tornando difícil alcançar o efeito de desativação do DMN. Assim como Andersen fechava os olhos e cortava conforme suas mãos se moviam, confiar totalmente sua atenção apenas ao som suave de fricção da tesoura cortando papel e à vibração analógica nas pontas dos dedos é o primeiro passo para o relaxamento.",
+      "id": "Untuk menikmati efek istirahat otak dari rutinitas menggunting, Anda harus melepaskan obsesi untuk menghasilkan karya yang indah. Jika Anda mulai merancang pola secara mental dengan berpikir 'Saya harus menyelesaikan pola yang cantik', area perencanaan dan kontrol pada korteks prefrontal akan mengalami panas berlebih sehingga sulit mencapai efek penonaktifan DMN. Sebagaimana Andersen memejamkan mata dan memotong mengikuti gerakan tangannya, menyerahkan perhatian Anda sepenuhnya hanya pada suara gesekan renyah saat gunting memotong kertas dan getaran analog di ujung jari Anda adalah langkah pertama menuju relaksasi."
     },
     "steps": [
       {
         "name": {
-          "ko": "종이 한 장과 가위 세팅"
+          "ko": "종이 한 장과 가위 세팅",
+          "en": "Step 1: Preparing a Sheet of Paper and Scissors",
+          "ja": "ステップ1：紙1枚とハサミのセッティング",
+          "zh": "步骤1：准备一张纸与一把剪刀",
+          "es": "Paso 1: Preparación de una Hoja de Papel y Tijeras",
+          "de": "Schritt 1: Bereitstellen eines Blattes Papier und einer Schere",
+          "fr": "Étape 1 : Préparation d'une feuille de papier et de ciseaux",
+          "pt": "Passo 1: Preparação de uma Folha de Papel e Tesoura",
+          "id": "Langkah 1: Menyiapkan Selembar Kertas dan Gunting"
         },
         "text": {
-          "ko": "오후 혹은 일과 종료 후, 스마트폰 알림을 끈 상태로 일반 종이(이면지나 편지봉투 등) 한 장과 안전한 가위를 책상 위에 올려놓습니다."
+          "ko": "오후 혹은 일과 종료 후, 스마트폰 알림을 끈 상태로 일반 종이(이면지나 편지봉투 등) 한 장과 안전한 가위를 책상 위에 올려놓습니다.",
+          "en": "In the afternoon or after finishing your workday, turn off smartphone notifications and place a sheet of regular paper (such as scrap paper or an envelope) along with safe scissors on your desk.",
+          "ja": "午後あるいは仕事終了後、スマートフォンの通知をオフにした状態で、一般的な紙（裏紙や手紙の封筒など）1枚と安全なハサミをデスクの上に置きます。",
+          "zh": "在下午或工作结束后，关闭手机通知，将一张普通纸张（草稿纸或信封等）与一把安全剪刀放在桌上。",
+          "es": "Por la tarde o al terminar la jornada laboral, apague las notificaciones del teléfono inteligente y coloque una hoja de papel común (como papel borrador o un sobre) junto con unas tijeras seguras sobre el escritorio.",
+          "de": "Legen Sie am Nachmittag oder nach Feierabend bei ausgeschalteten Smartphone-Benachrichtigungen ein Blatt normales Papier (z. B. Konzeptpapier oder einen Briefumschlag) und eine sichere Schere auf den Schreibtisch.",
+          "fr": "Dans l'après-midi ou à la fin de votre journée de travail, désactivez les notifications de votre smartphone et posez une feuille de papier ordinaire (papier de brouillon, enveloppe, etc.) ainsi que des ciseaux sécurisés sur votre bureau.",
+          "pt": "À tarde ou após terminar a jornada de trabalho, desligue as notificações do smartphone e coloque uma folha de papel comum (como rascunho ou um envelope) e uma tesoura segura sobre a mesa.",
+          "id": "Di sore hari atau setelah menyelesaikan pekerjaan harian, matikan notifikasi smartphone dan letakkan selembar kertas biasa (seperti kertas bekas atau amplop) beserta gunting yang aman di atas meja."
         }
       },
       {
         "name": {
-          "ko": "단순 규칙 없는 접기 및 오리기"
+          "ko": "단순 규칙 없는 접기 및 오리기",
+          "en": "Step 2: Rule-Free Folding and Cutting",
+          "ja": "ステップ2：単純なルールなしの折ると切り抜き",
+          "zh": "步骤2：无规则的任意折叠与剪裁",
+          "es": "Paso 2: Doblado y Recorte Libre Sin Reglas",
+          "de": "Schritt 2: Regel-freies Falten und Schneiden",
+          "fr": "Étape 2 : Pliage et découpage libres sans règles",
+          "pt": "Passo 2: Dobradura e Corte Livres Sem Regras",
+          "id": "Langkah 2: Melipat dan Memotong Tanpa Aturan"
         },
         "text": {
-          "ko": "종이를 임의의 모양으로 2번 혹은 4번 접습니다. 어떤 규칙이나 목표 무늬 설계 없이, 가위를 쥐고 손이 가는 대로 자유롭게 종이를 싹둑 오려냅니다."
+          "ko": "종이를 임의의 모양으로 2번 혹은 4번 접습니다. 어떤 규칙이나 목표 무늬 설계 없이, 가위를 쥐고 손이 가는 대로 자유롭게 종이를 싹둑 오려냅니다.",
+          "en": "Fold the paper in any random shape twice or four times. Without any rules or target pattern designs, hold the scissors and cut through the paper freely wherever your hand leads.",
+          "ja": "紙を任意の形に2回または4回折ります。ルールや目標とする模様の設計なしに、ハサミを握って手の向かうままに自由自在に紙をチョキチョキと切り抜きます。",
+          "zh": "将纸张随机折叠2次或4次。无需任何规则或目标图案设计，握住剪刀，随心所欲地自由剪裁纸张。",
+          "es": "Doble el papel en cualquier forma aleatoria 2 o 4 veces. Sin reglas ni diseños de patrones objetivos, sostenga las tijeras y corte libremente el papel donde lo lleve la mano.",
+          "de": "Falten Sie das Papier 2- oder 4-mal in eine beliebige Form. Vor ohne Regeln oder Zielmusterentwürfe halten Sie die Schere und schneiden Sie das Papier frei zurecht, wohin Ihre Hand Sie führt.",
+          "fr": "Pliez le papier de façon aléatoire 2 ou 4 fois. Sans règle ni projet de motif cible, tenez les ciseaux et découpez librement le papier au gré de vos mouvements.",
+          "pt": "Dobre o papel em qualquer formato aleatório 2 ou 4 vezes. Sem regras ou projetos de padrões alvo, segure a tesoura e corte livremente o papel para onde sua mão o levar.",
+          "id": "Lipat kertas secara acak sebanyak 2 atau 4 kali. Tanpa aturan atau desain pola target, pegang gunting dan potong kertas secara bebas ke mana pun tangan Anda bergerak."
         }
       },
       {
         "name": {
-          "ko": "사각 소리와 촉감에 몰입"
+          "ko": "사각 소리와 촉감에 몰입",
+          "en": "Step 3: Immersing in Crisp Sounds and Tactile Sensations",
+          "ja": "ステップ3：サクサクという音と触感への没頭",
+          "zh": "步骤3：沉浸于沙沙声与触感中",
+          "es": "Paso 3: Inmersión en el Sonido Crujiente y las Sensaciones Táctiles",
+          "de": "Schritt 3: Eintauchen in knusprige Geräusche und taktile Empfindungen",
+          "fr": "Étape 3 : Immersion dans le doux bruit et les sensations tactiles",
+          "pt": "Passo 3: Imersão no Som Suave e nas Sensações Tácteis",
+          "id": "Langkah 3: Tenggelam dalam Suara Renyah dan Sensasi Taktil"
         },
         "text": {
-          "ko": "가위질을 하는 5분 동안 가위가 종이를 스치며 내는 사각거리는 소리, 종이가 잘려 떨어질 때 느껴지는 손끝의 시원한 반동에만 온 주의를 집중합니다."
+          "ko": "가위질을 하는 5분 동안 가위가 종이를 스치며 내는 사각거리는 소리, 종이가 잘려 떨어질 때 느껴지는 손끝의 시원한 반동에만 온 주의를 집중합니다.",
+          "en": "For the 5 minutes of scissor-cutting, focus all your attention exclusively on the crisp friction sound of the scissors brushing against paper and the refreshing recoil felt at your fingertips as the paper falls away.",
+          "ja": "ハサミを入れる5分間、ハサミが紙をすれ違う際に出るサクサクという音、紙が切れて落ちる時に感じられる指先の爽快な反動だけに全注意を集中させます。",
+          "zh": "在剪裁的5分钟里，将全副注意力集中于剪刀划过纸张发出的沙沙声，以及纸张剪断脱落时指尖感受到的清爽反作用力上。",
+          "es": "Durante los 5 minutos de corte, concentre toda su atención exclusivamente en el sonido crujiente de fricción de las tijeras al rozar el papel y en el refrescante retroceso que siente en la yema de los dedos cuando el papel cae cortado.",
+          "de": "Konzentrieren Sie während der 5 Minuten des Schneidens Ihre gesamte Aufmerksamkeit ausschließlich auf das knusprige Reibungsgeräusch der Schere auf dem Papier und den erfrischenden Rückstoß an Ihren Fingerspitzen, wenn das Papier abfällt.",
+          "fr": "Pendant les 5 minutes de découpage, concentrez toute votre attention sur le doux bruit de friction des ciseaux effleurant le papier et sur le rebond rafraîchissant ressenti au bout de vos doigts lorsque le papier découpé tombe.",
+          "pt": "Durante os 5 minutos de corte, concentre toda a sua atenção exclusivamente no som suave de fricção da tesoura ao tocar o papel e no recuo revigorante sentido nas pontas dos dedos quando o papel cortado cai.",
+          "id": "Selama 5 menit memotong, fokuskan seluruh perhatian Anda secara eksklusif pada suara gesekan renyah saat gunting menyentuh kertas dan daya pantul menyegarkan yang dirasakan di ujung jari saat kertas terpotong dan jatuh."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "예술적 감각이 없고 오리기를 못 하는데 그래도 괜찮은가요?"
+          "ko": "예술적 감각이 없고 오리기를 못 하는데 그래도 괜찮은가요?",
+          "en": "Is it okay if I lack artistic sense and am not good at cutting?",
+          "ja": "芸術的センスがなく、ハサミ切りが苦手なのですが大丈夫ですか？",
+          "zh": "缺乏艺术细胞、剪不好纸也没关系吗？",
+          "es": "¿Está bien si carezco de sentido artístico y no soy bueno cortando?",
+          "de": "Ist es in Ordnung, wenn ich kein künstlerisches Händchen habe und nicht gut schneiden kann?",
+          "fr": "Est-ce sans danger si je n'ai aucun sens artistique et ne sais pas découper ?",
+          "pt": "Não tem problema se eu não tiver sentido artístico e não for bom a cortar?",
+          "id": "Apakah tidak apa-apa jika saya tidak memiliki bakat seni dan tidak pandai menggunting?"
         },
         "answer": {
-          "ko": "물론입니다. 오히려 도안 없이 무작위로 오려내는 행동이 DMN을 낮추는 데 더 효과적입니다. 완성된 무늬가 이상하든 삐뚤빼뚤하든 뇌는 전혀 상관하지 않습니다. 중요한 것은 형태의 정밀함이 아니라 손끝 근육의 섬세한 움직임과 청각 자극 자체입니다. 실패가 없는 무가치한 창작 활동이므로 편하게 가위질을 즐기세요."
+          "ko": "물론입니다. 오히려 도안 없이 무작위로 오려내는 행동이 DMN을 낮추는 데 더 효과적입니다. 완성된 무늬가 이상하든 삐뚤빼뚤하든 뇌는 전혀 상관하지 않습니다. 중요한 것은 형태의 정밀함이 아니라 손끝 근육의 섬세한 움직임과 청각 자극 자체입니다. 실패가 없는 무가치한 창작 활동이므로 편하게 가위질을 즐기세요.",
+          "en": "Of course. In fact, cutting randomly without a design is more effective in reducing DMN activity. The brain does not care at all whether the completed pattern looks strange or crooked. What matters is not the precision of the shape, but the delicate movement of fingertip muscles and the auditory stimulation itself. Since this is a fail-safe, value-free creative activity, enjoy cutting comfortably.",
+          "ja": "もちろんです。むしろ図案なしで無造作に切り抜く行為の方が、DMNを下げるのに効果的です。完成した模様がおかしかろうが歪んでいようが、脳は全く気にしません。重要なのは形態の精密さではなく、指先の筋肉の繊細な動きと聴覚刺激そのものです。失敗のない価値評価から解放された創作活動ですので、気楽にハサミ切りを楽しんでください。",
+          "zh": "当然可以。实际上，没有图稿随机剪裁的行为对于降低DMN更为有效。无论完成的图案是怪异还是歪歪扭扭，大脑都完全不在意。重要的不是形态的精确度，而是指尖肌肉的细微运动与听觉刺激本身。这是没有失败、不受价值评估束缚的创作活动，请轻松享受剪裁吧。",
+          "es": "Por supuesto. De hecho, el acto de cortar al azar sin un patrón es más efectivo para reducir la DMN. Al cerebro no le importa en absoluto si el patrón completado parece extraño o torcido. Lo que importa no es la precisión de la forma, sino el movimiento delicado de los músculos de la yema del dedo y la estimulación auditiva en sí. Como esta es una actividad creativa libre de valoraciones y sin posibilidad de fracaso, disfrute del corte con tranquilidad.",
+          "de": "Selbstverständlich. Tatsächlich ist zufälliges Schneiden ohne Vorlage effektiver bei der Reduzierung der DMN-Aktivität. Dem Gehirn ist es völlig egal, ob das fertige Muster seltsam oder krumm aussieht. Entscheidend ist nicht die Präzision der Form, sondern die feine Bewegung der Fingerspitzenmuskeln und die akustische Stimulation selbst. Da dies eine fehlerfreie, wertfreie kreative Aktivität ist, genießen Sie das Schneiden ganz entspannt.",
+          "fr": "Absolument. En fait, le fait de découper au hasard sans motif est plus efficace pour réduire l'activité du DMN. Le cerveau se moque totalement que le motif final soit étrange ou de travers. Ce qui compte, ce n'est pas la précision de la forme, mais le mouvement délicat des muscles du bout des doigts et la stimulation auditive elle-même. Puisqu'il s'agit d'une activité créative sans risque d'échec ni jugement de valeur, profitez simplement du découpage.",
+          "pt": "Com certeza. Na verdade, cortar aleatoriamente sem um desenho é mais eficaz para reduzir a atividade do DMN. O cérebro não se importa minimamente se o padrão concluído parecer estranho ou torto. O que importa não é a precisão da forma, mas o movimento delicado dos músculos das pontas dos dedos e a própria estimulação auditiva. Sendo esta uma atividade criativa sem risco de falha e livre de avaliações, desfrute do corte com tranquilidade.",
+          "id": "Tentu saja. Justru tindakan memotong secara acak tanpa pola lebih efektif dalam menurunkan aktivitas DMN. Otak sama sekali tidak peduli apakah pola yang dihasilkan aneh atau bengkok. Yang terpenting bukanlah kepresisian bentuk, melainkan gerakan halus otot ujung jari dan stimulasi pendengaran itu sendiri. Karena ini adalah aktivitas kreatif tanpa kegagalan dan bebas dari penilaian, nikmatilah kegiatan memotong kertas dengan santai."
         }
       },
       {
         "question": {
-          "ko": "자르고 난 뒤 쓰레기가 나오는데 정리에 방해받지는 않나요?"
+          "ko": "자르고 난 뒤 쓰레기가 나오는데 정리에 방해받지는 않나요?",
+          "en": "Does generating paper scraps after cutting disrupt the relaxation during cleanup?",
+          "ja": "切った後にゴミが出ますが、片付けによってリラックスが妨げられませんか？",
+          "zh": "剪完后会产生碎纸垃圾，清理过程会打扰放松状态吗？",
+          "es": "¿El hecho de generar desperdicios de papel tras cortar interrumpe la relajación al limpiar?",
+          "de": "Stört der entstehende Papiermüll nach dem Schneiden die Entspannung beim Aufräumen?",
+          "fr": "La création de déchets de papier après le découpage ne perturbe-t-elle pas la relaxation lors du rangement ?",
+          "pt": "A geração de resíduos de papel após o corte não prejudica o relaxamento durante a limpeza?",
+          "id": "Apakah potongan sampah kertas yang dihasilkan akan mengganggu relaksasi saat merapikannya?"
         },
         "answer": {
-          "ko": "쓰레기가 생기는 게 염려된다면 애초에 책상 위에 작은 쓰레기통이나 쟁반을 두고 그 위에서 오리기를 진행해 보세요. 잘린 종이들이 자연스럽게 한 곳으로 모이게 세팅해 두면, 루틴이 끝난 후 한 번에 집어서 휴지통에 넣는 가벼운 물리적 행동(10초)으로 마감할 수 있어 정서적 이완 상태를 해치지 않습니다."
+          "ko": "쓰레기가 생기는 게 염려된다면 애초에 책상 위에 작은 쓰레기통이나 쟁반을 두고 그 위에서 오리기를 진행해 보세요. 잘린 종이들이 자연스럽게 한 곳으로 모이게 세팅해 두면, 루틴이 끝난 후 한 번에 집어서 휴지통에 넣는 가벼운 물리적 행동(10초)으로 마감할 수 있어 정서적 이완 상태를 해치지 않습니다.",
+          "en": "If you are concerned about generating scraps, try placing a small trash bin or tray on your desk from the start and cutting over it. Setting it up so cut paper pieces naturally gather in one place allows you to finish with a quick physical action (10 seconds) of picking them up and tossing them into the trash bin after the routine, preserving your emotional state of relaxation.",
+          "ja": "ゴミができることが心配なら、最初からデスクの上に小さなゴミ箱やトレーを置き、その上で切り抜きを行ってみてください。切られた紙が自然と一箇所に集まるようセッティングしておけば、ルーティンが終わった後に一度にまとめてゴミ箱に入れる軽い物理的行動（10秒）で終了でき、情緒的なリラックス状態を損ないません。",
+          "zh": "如果担心产生碎纸垃圾，不妨一开始就在桌上放一个小垃圾桶或托盘，在其上方进行剪裁。预先设置好让剪下的碎纸自然汇聚于一处，在惯例结束后只需通过抓起并扔进垃圾桶的轻微物理动作（10秒）即可结束，不会破坏情绪放松的状态。",
+          "es": "Si le preocupa generar desperdicios, intente colocar una pequeña papelera o bandeja sobre el escritorio desde el principio y realizar los recortes sobre ella. Configurarlo para que los trozos de papel cortados se junten de forma natural en un solo lugar le permite finalizar con una rápida acción física (10 segundos) de recogerlos y tirarlos a la papelera al terminar la rutina, sin perjudicar su estado de relajación emocional.",
+          "de": "Wenn Sie besorgt wegen des Mülls sind, stellen Sie von Anfang an einen kleinen Papierkorb oder ein Tablett auf den Schreibtisch und schneiden Sie darüber. Wenn Sie es so einrichten, dass sich die abgeschnittenen Papierstücke natürlich an einem Ort sammeln, können Sie die Routine mit einer kurzen physischen Handlung (10 Sekunden) beenden, indem Sie sie aufheben und in den Müll werfen, ohne Ihren emotionalen Entspannungszustand zu beeinträchtigen.",
+          "fr": "Si la création de déchets vous préoccupe, essayez de placer dès le départ une petite poubelle ou un plateau sur votre bureau et de découper au-dessus. En installant les choses de sorte que les morceaux de papier découpés se rassemblent naturellement en un seul endroit, vous pouvez conclure par une action physique rapide (10 secondes) consistant à les ramasser et les jeter à la poubelle après la routine, sans altérer votre état de relaxation émotionnelle.",
+          "pt": "Se a geração de resíduos o preocupa, tente colocar uma pequena lixeira ou bandeja sobre a mesa desde o início e fazer os cortes sobre ela. Configurar para que os pedaços de papel cortados se ajuntem naturalmente em um só lugar permite concluir com uma ação física rápida (10 segundos) de os recolher e jogar na lixeira após a rotina, sem prejudicar o seu estado de relaxamento emocional.",
+          "id": "Jika Anda khawatir tentang sampah yang dihasilkan, cobalah meletakkan tempat sampah kecil atau nampan di atas meja sejak awal dan lakukan pemotongan di atasnya. Mengaturnya agar potongan-potongan kertas terkumpul secara alami di satu tempat memungkinkan Anda menyelesaikannya dengan tindakan fisik ringan (10 detik) berupa memungutnya dan membuangnya ke tempat sampah setelah rutinitas selesai, tanpa merusak kondisi relaksasi emosional Anda."
         }
       }
     ]

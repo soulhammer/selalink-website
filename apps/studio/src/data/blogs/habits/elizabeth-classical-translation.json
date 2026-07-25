@@ -1,70 +1,214 @@
 {
   "elizabeth-classical-translation": {
     "title": {
-      "ko": "엘리자베스 1세의 '고전 번역': 통치자의 논리적 뇌를 벼려낸 아침 습관"
+      "ko": "엘리자베스 1세의 '고전 번역': 통치자의 논리적 뇌를 벼려낸 아침 습관",
+      "en": "Queen Elizabeth I's 'Classical Translation': The Morning Routine That Honed a Monarch's Logical Brain",
+      "ja": "エリザベス1世の「古典翻訳」：統治者の論理的脳を鍛え上げた朝の習慣",
+      "zh": "伊丽莎白一世的“古典翻译”：锻造君主逻辑大脑的晨间习惯",
+      "es": "La 'Traducción Clásica' de Isabel I: La Rutina Matutina que Forjó el Cerebro Lógico de una Monarca",
+      "de": "Königin Elisabeths I. 'Klassische Übersetzung': Die Morgenroutine, die das logische Gehirn einer Herrscherin schärfte",
+      "fr": "La « Traduction Classique » d'Élisabeth Ire : La routine matinale qui a forgé le cerveau logique d'une souveraine",
+      "pt": "A 'Tradução Clássica' de Isabel I: A Rotina Matinal que Forjou o Cérebro Lógico de uma Monarca",
+      "id": "'Penerjemahan Klasik' Ratu Elizabeth I: Rutinitas Pagi yang Mengasah Otak Logis Seorang Penguasa"
     },
     "description": {
-      "ko": "매일 아침 라틴어 고전을 영어로 번역하며 강인한 이성과 논리력을 길렀던 엘리자베스 1세 여왕. 고차원적 인지 능력을 활성화하는 번역 루틴의 과학을 알아봅니다."
+      "ko": "매일 아침 라틴어 고전을 영어로 번역하며 강인한 이성과 논리력을 길렀던 엘리자베스 1세 여왕. 고차원적 인지 능력을 활성화하는 번역 루틴의 과학을 알아봅니다.",
+      "en": "Queen Elizabeth I cultivated fierce rationality and logical prowess by translating Latin classics into English every morning. Explore the cognitive neuroscience of translation routines that activate high-level cognitive control.",
+      "ja": "毎日朝ラテン語の古典を英語に翻訳し、強靭な理性と論理力を養ったエリザベス1世女王。高次元の認知能力を活性化する翻訳ルーティンの科学を解き明かします。",
+      "zh": "伊丽莎白一世女王每天清晨将拉丁语古典名著翻译为英语，以此锤炼强大理性与严密逻辑。本文深度剖析激活高阶认知能力与脑力的翻译习惯原理。",
+      "es": "La reina Isabel I cultivó una feroz racionalidad y lógica traduciendo clásicos latinos al inglés cada mañana. Explore la neurociencia cognitiva de la traducción para activar un control cognitivo de alto nivel.",
+      "de": "Königin Elisabeth I. kultivierte eine scharfe Vernunft und Logik, indem sie jeden Morgen lateinische Klassiker ins Englische übersetzte. Entdecken Sie die Kognitionswissenschaft hinter dieser Methode.",
+      "fr": "La reine Élisabeth Ire cultivait une rationalité et une logique redoutables en traduisant chaque matin des classiques latins en anglais. Explorez la neuroscience cognitive de la traduction.",
+      "pt": "A rainha Isabel I cultivou uma feroz racionalidade e lógica traduzindo clássicos latinos para o inglês todas as manhãs. Explore a neurociência cognitiva por trás dessa rotina.",
+      "id": "Ratu Elizabeth I mengasah rasionalitas dan kemampuan logis yang tangguh dengan menerjemahkan karya klasik Latin ke bahasa Inggris setiap pagi. Pelajari neurosains kognitif dari rutinitas penerjemahan ini."
     },
     "authority": {
-      "ko": "엘리자베스 1세 번역 저작집 『Elizabeth I: Translations(Janel Mueller & Joshua Scodel)』 및 역사 평전 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+      "ko": "엘리자베스 1세 번역 저작집 『Elizabeth I: Translations(Janel Mueller & Joshua Scodel)』 및 역사 평전 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+      "en": "Historical Verification from *Elizabeth I: Translations* (Janel Mueller & Joshua Scodel), Historical Biographies & Cognitive Neuroscience Research",
+      "ja": "エリザベス1世翻訳著作集『Elizabeth I: Translations（Janel Mueller & Joshua Scodel）』および歴史評伝考証＆認知神経科学（Cognitive Neuroscience）研究",
+      "zh": "伊丽莎白一世翻译著作集《Elizabeth I: Translations（Janel Mueller & Joshua Scodel）》与历史传记考证及认知神经科学（Cognitive Neuroscience）研究",
+      "es": "Verificación Histórica de la Colección *Elizabeth I: Translations* (Janel Mueller y Joshua Scodel), Biografías Históricas e Investigación en Neurociencia Cognitiva",
+      "de": "Historische Überprüfung aus *Elizabeth I: Translations* (Janel Mueller & Joshua Scodel), historischen Biografien & Forschung der kognitiven Neurowissenschaften",
+      "fr": "Vérification Historique issue de l'ouvrage *Elizabeth I: Translations* (Janel Mueller & Joshua Scodel), des biographies historiques & de la Recherche en Neurosciences Cognitives",
+      "pt": "Verificação Histórica da Coleção *Elizabeth I: Translations* (Janel Mueller & Joshua Scodel), Biografias Históricas e Pesquisa em Neurociência Cognitiva",
+      "id": "Verifikasi Historis dari Kumpulan Karya Penerjemahan *Elizabeth I: Translations* (Janel Mueller & Joshua Scodel), Biografi Historis & Penelitian Neurosains Kognitif"
     },
     "intro": {
-      "ko": "\"나는 사자의 가슴과 위장을 가졌으며, 이는 잉글랜드 국왕의 것이다.\" 👑\n\n16세기 영국의 사상 가장 빛나는 황금기인 '엘리자베스 시대'를 이끌며 약소국이었던 잉글랜드를 전 세계 해상의 강대국으로 거듭나게 만든 영국의 위대한 여왕 엘리자베스 1세. 그녀는 잉글랜드 국왕으로서 끊임없는 반란 음모와 종교 분쟁, 스페인 무적함대와의 전쟁이라는 거대한 국정 압박 속에 살았습니다.\n\n그녀가 이 격변하는 역사 속에서 감정에 치우치지 않고 냉철한 논리력과 통치력을 지켜낼 수 있었던 최고의 비결은 다름 아닌 매일 아침 집무를 시작하기 전 첫 1시간 동안 실천했던 라틴어 고전 번역 루틴이었습니다. 그녀는 매일 아침 일찍 일어나 세네카나 키케로의 조밀하고 난해한 라틴어 및 그리스어 철학 서적을 직접 영어로 번역했습니다. 복잡한 고전 외국어의 문법을 분석하고 최적의 자국어로 재배치하는 행위는 그녀의 뇌를 지적으로 벼려내어, 가장 논리적인 눈으로 복잡한 정세를 판별하게 도왔습니다.\n\n오늘 포스트에서는 엘리자베스 1세의 '고전 번역' 루틴 속에 얽힌 뇌과학적 원리와 바쁜 아침 논리적 사고력을 완전히 가동하는 현대적 낭독 및 번역 습관을 제시합니다."
+      "ko": "\"나는 비록 연약한 여인의 몸을 가졌으나, 영국 국왕의 심장과 위장을 가졌노라.\" 👑\n\n16세기 영국의 가장 빛나는 황금기인 '엘리자베스 시대'를 열어젖히고, 스페인 무적함대를 격파하며 약소국이었던 잉글랜드를 전 세계 해상의 대영제국 기틀로 올려놓은 위대한 여왕 엘리자베스 1세(Elizabeth I, 1533–1603). 어린 시절 런던탑 감금이라는 죽음의 위기를 이겨내고 왕위에 오른 그녀는, 끊임없는 암살 음모, 종교적 내분, 그리고 강대국들의 침략 위협이라는 거대한 국정 압박 속에서 평생을 살았습니다.\n\n유명한 인문학자 로저 애스컴(Roger Ascham) 밑에서 라틴어, 그리스어, 프랑스어, 이탈리아어 등 6개 국어를 완벽히 익힌 여왕이 이 격변하는 역사 속에서 감정에 치우치지 않고 냉철한 논리력과 지도력을 지켜낼 수 있었던 최고의 비결은 무엇이었을까요? 그것은 바로 매일 아침 국정을 시작하기 전 첫 1시간 동안 실천했던 라틴어 및 그리스어 고전 번역 루틴이었습니다. 그녀는 세네카, 키케로, 타키투스, 그리고 보에티우스의 조밀하고 난해한 철학 서적을 직접 영국어로 번역했습니다. 60세가 넘은 나이에도 하루 2시간씩 단 12일 만에 보에티우스의 난해한 라틴어 원본을 완역해 낼 정도로 열정적이었습니다. 복잡한 고전 언어의 문법을 분석하고 최적의 자국어로 재배치하는 행위는 그녀의 뇌를 지적으로 벼려내어, 가장 논리적인 눈으로 복잡한 정세를 판별하게 도왔습니다.\n\n오늘 포스트에서는 엘리자베스 1세의 '고전 번역' 루틴 속에 얽힌 뇌과학적 원리와 바쁜 아침 논리적 사고력을 완전히 가동하는 현대적 낭독 및 번역 습관을 제시합니다.",
+      "en": "\"I know I have the body of a weak and feeble woman, but I have the heart and stomach of a king, and of a king of England too.\" 👑\n\nQueen Elizabeth I (1533–1603) ushered in England's Golden Age, defeated the formidable Spanish Armada, and laid the maritime foundations for a global empire. Having survived imprisonment in the Tower of London during her youth before ascending the throne, she spent her reign navigating relentless assassination plots, religious rebellions, and geopolitical existential threats.\n\nTrained by the renowned Renaissance humanist Roger Ascham, Elizabeth mastered six languages, including Latin, Ancient Greek, French, and Italian. How did she maintain razor-sharp composure and logical statecraft amidst immense stress? Her secret was a strict morning ritual: spending her first hour every day translating dense Latin and Greek classical texts—such as Seneca, Cicero, Tacitus, and Boethius—directly into English. Even in her sixties, she translated Boethius's complex *Consolation of Philosophy* in just 12 days. Deconstructing classical grammar and restructuring it into English served as an intellectual whetstone, purging emotional noise and refining her executive brain for governance.\n\nIn today's post, we examine the cognitive neuroscience behind Queen Elizabeth I's 'classical translation' routine and present a modern action plan to ignite your prefrontal cortex each morning.",
+      "ja": "「私は弱く儚い女性の身体しか持っていないが、国王の心臓と胃袋を持っている。それもイングランド国王のものをだ。」 👑\n\n16世紀の最も華려な黄金期である「エリザベス朝」を開き、スペインの無敵艦隊を撃破して弱小国であったイングランドを世界的な海上大国の礎へと押し上げた偉大な女王エリザベス1世（Elizabeth I、1533–1603）。幼少期にロンドン塔監禁という死の危機を乗り越えて王位に就いた彼女は、 끊이지 않는 暗殺陰謀、宗教的内紛、そして強国からの侵略の脅威という巨大な国政の圧力の中で生涯を送りました。\n\n著名な人文学者ロジャー・アスカム（Roger Ascham）のもとでラテン語、ギリシャ語、フランス語、イタリア語など6カ国語を完璧に修得した女王が、この激動する歴史の中で感情に流されず冷徹な論理力と統治力を維持できた最高の秘訣は何だったのでしょうか？ それはまさに、毎日朝執務を開始する前の最初の1時間、ラテン語およびギリシャ語の古典翻訳ルーティンを実践することでした。彼女はセネカ、キケロ、タキトゥス、そしてボエティウスの緻密で難解な哲学書を自ら英語へと翻訳しました。60歳を過ぎた歳でも1日2時間ずつわずか12日間でボエティウスの難解なラテン語原本を完訳するほど熱心でした。複雑な古典言語の文法を分析し最適の自国語へと再配置する行為は、彼女の脳を知的に鍛え上げ、最も論理的な眼識で複雑な情勢を判別する手助けをしたのです。\n\n本日の記事では、エリザベス1世の「古典翻訳」ルーティンに秘められた脳科学的原理と、忙しい朝に論理的思考力を完全に稼働させる現代的な朗読および翻訳習慣を提案します。",
+      "zh": "“我虽只有弱女子之躯，却拥有一颗英国国王的雄心与铁石心肠。” 👑\n\n伊丽莎白一世（Elizabeth I，1533–1603）开创了16世纪英国最为璀璨的“伊丽莎白时代”，力挫西班牙无敌舰队，将原本偏安一隅的英格兰推上了大英帝国海上霸权的奠基之路。早年经历过伦敦塔囚禁等生死劫难才登基的她，终其一生都在暗杀阴谋、宗教内讧以及强国环伺的巨大国政高压下掌舵。\n\n受教于文艺复兴名儒罗杰·阿斯卡姆（Roger Ascham）的她，精通拉丁语、古希腊语、法语、意大利语等6门语言。在这波谲云诡的政治风浪中，她究竟如何保持绝不感情用事的冷峻逻辑与卓越治国理政能力？答案正是她每天清晨理政前坚持执行的第一小时拉丁语与希腊语古典翻译习惯。她亲手将塞内加、西塞罗、塔西佗以及波爱修斯的晦涩哲学著作译为英语。即便是年逾花甲，她仍创下每天2小时、仅用12天便完译波爱修斯复杂拉丁文《哲学之慰》的惊人记录。剖析复杂的古典语法并将其重构为本土语言，构成了锻造其大脑逻辑的智力试金石，助其以无懈可击的理性辨析错综复杂的局势。\n\n在今天的文章中，我们将深度解析伊丽莎白一世“古典翻译”习惯背后的脑科学原理，并提供一套可在忙碌清晨全面激活逻辑思维能力的现代实践指南。",
+      "es": "\"Sé que tengo el cuerpo de una mujer débil, pero tengo el corazón y el estómago de un rey, y además de un rey de Inglaterra.\" 👑\n\nLa reina Isabel I (1533–1603) inauguró la Era Dorada de Inglaterra, derrotó a la Gran Armada Española y sentó las bases marítimas de un imperio global. Habiendo sobrevivido al encarcelamiento en la Torre de Londres antes de ascender al trono, gobernó rodeada de conspiraciones de asesinato, rebeliones religiosas y amenazas geopolíticas.\n\nEducada por el humanista Roger Ascham, Isabel dominó seis idiomas, incluidos el latín y el griego antiguo. ¿Cómo mantuvo una compostura lógica implacable en medio del estrés? Su secreto era un hábito matutino estricto: dedicar la primera hora del día a traducir textos clásicos latinos y griegos (Séneca, Cicerón, Tácito, Boecio) al inglés. Incluso a los 60 años, tradujo *La consolación de la filosofía* de Boecio en solo 12 días. Descomponer la gramática clásica y reestructurarla sirvió como piedra de afilar intelectual para su cerebro ejecutivo.\n\nEn la publicación de hoy, examinamos la neurociencia cognitiva detrás de la 'traducción clásica' de la reina Isabel I y presentamos un plan práctico moderno para encender su corteza prefrontal cada mañana.",
+      "de": "\"Ich weiß, dass ich den Körper einer schwachen Frau habe, aber ich habe das Herz und den Magen eines Königs, und zwar eines Königs von England.\" 👑\n\nKönigin Elisabeth I. (1533–1603) begründete das Goldene Zeitalter Englands, besiegte die Spanische Armada und legte den Grundstein für das spätere Weltreich. Nachdem sie vor ihrer Thronbesteigung die Gefangenschaft im Tower von London überlebt hatte, meisterte sie ständige Anschlagspläne, religiöse Unruhen und geopolitische Krisen.\n\nAusgebildet vom Humanisten Roger Ascham, beherrschte Elisabeth sechs Sprachen fließend, darunter Latein und Altgriechisch. Wie bewahrte sie inmitten von Dauerstress ihre kühle Logik? Ihr Geheimnis war eine eiserne Morgenroutine: Die erste Stunde des Tages verbrachte sie damit, anspruchsvolle lateinische und griechische Texte von Seneca, Cicero, Tacitus und Boethius ins Englische zu übersetzen. Selbst mit über 60 Jahren übersetzte sie Boethius' *Trost der Philosophie* in nur 12 Tagen. Das Zerlegen und Neuordnen komplexer Satzstrukturen schärfte ihren Verstand für strategische Entscheidungen.\n\nIm heutigen Beitrag analysieren wir die Kognitionswissenschaft hinter Königin Elisabeths Routine und zeigen, wie Sie Ihr Gehirn morgens auf Höchstleistung bringen.",
+      "fr": "« Je sais que j'ai le corps d'une femme faible, mais j'ai le cœur et l'estomac d'un roi, et d'un roi d'Angleterre. » 👑\n\nLa reine Élisabeth Ire (1533–1603) a inauguré l'Âge d'Or de l'Angleterre, vaincu l'Invincible Armada espagnole et posé les bases maritimes d'un empire mondial. Après avoir survécu à l'emprisonnement à la Tour de Londres avant son couronnement, elle a dirigé son royaume au milieu des complots d'assassinat, des tensions religieuses et des menaces d'invasion.\n\nFormée par l'humaniste Roger Ascham, Élisabeth maîtrisait six langues, dont le latin et le grec ancien. Comment maintenait-elle une logique et un sang-froid redoutables ? Son secret résidait dans un rituel matinal strict : consacrer sa première heure à traduire des textes classiques latins et grecs (Sénèque, Cicéron, Tacite, Boèce) en anglais. Même après 60 ans, elle a traduit *La Consolation de la Philosophie* de Boèce en 12 jours seulement. Déconstruire la grammaire classique et la restructurer en anglais aiguisait son cerveau exécutif.\n\nDans cet article, nous analysons la neuroscience cognitive sous-jacente à la « traduction classique » d'Élisabeth Ire et proposons un plan pratique pour stimuler votre cortex préfrontal chaque matin.",
+      "pt": "\"Sei que tenho o corpo de uma mulher fraca, mas tenho o coração e o estômago de um rei, e de um rei da Inglaterra.\" 👑\n\nA rainha Isabel I (1533–1603) inaugurou a Era de Ouro da Inglaterra, derrotou a Armada Espanhola e lançou as bases marítimas de um império global. Tendo sobrevivido ao aprisionamento na Torre de Londres antes de ascender ao trono, governou cercada por conspirações de assassinato, conflitos religiosos e ameaças geopolíticas.\n\nEducada pelo humanista Roger Ascham, Isabel dominava seis idiomas, incluindo latim e grego antigo. Como ela mantinha uma lógica e liderança implacáveis diante de tanto estresse? Seu segredo era um ritual matinal estrito: dedicar a primeira hora do dia à tradução de textos clássicos em latim e grego (Sêneca, Cícero, Tácito, Boécio) para o inglês. Mesmos aos 60 anos, traduziu *A Consolação da Filosofia* de Boécio em apenas 12 dias. Desconstruir a gramática clássica e reestruturá-la funcionava como uma amoladora intelectual para seu cérebro.\n\nNo artigo de hoje, examinamos a neurociência cognitiva por trás da 'tradução clássica' da rainha Isabel I e apresentamos um guia prático para ativar seu córtex pré-frontal todas as manhãs.",
+      "id": "\"Saya tahu saya memiliki tubuh seorang wanita yang lemah, tetapi saya memiliki hati dan lambung seorang raja, dan juga seorang raja Inggris.\" 👑\n\nRatu Elizabeth I (1533–1603) membuka Era Keemasan Inggris, mengalahkan Armada Spanyol yang perkasa, dan meletakkan fondasi maritim bagi kekaisaran global. Setelah selamat dari pemenjaraan di Menara London sebelum naik takhta, ia memimpin di tengah ancaman pembunuhan, pemberontakan agama, dan krisis geopolitik.\n\nDididik oleh humanist ternama Roger Ascham, Elizabeth menguasai enam bahasa, termasuk bahasa Latin dan Yunani Kuno. Bagaimana ia mempertahankan ketenangan dan logika kepemimpinan yang tajam? Rahasianya adalah ritual pagi yang ketat: menghabiskan satu jam pertama setiap hari menerjemahkan teks klasik Latin dan Yunani (Seneca, Cicero, Tacitus, Boethius) langsung ke bahasa Inggris. Bahkan di usianya yang ke-60, ia menerjemahkan *Consolation of Philosophy* karya Boethius hanya dalam 12 hari. Menguraikan tata bahasa klasik dan menyusunnya kembali menjadi bahasa Inggris mengasah otak eksekutifnya untuk mengambil keputusan strategis.\n\nDalam postingan hari ini, kami menganalisis neurosains kognitif di balik rutinitas 'penerjemahan klasik' Ratu Elizabeth I dan menyajikan rencana aksi modern untuk menyalakan korteks prefrontal Anda setiap pagi."
     },
     "whyTitle": {
-      "ko": "번역 작업이 두뇌 전두엽 피질에 미치는 효과"
+      "ko": "번역 작업이 두뇌 전두엽 피질에 미치는 효과",
+      "en": "Neurological Impact of Manual Translation on the Dorsolateral Prefrontal Cortex",
+      "ja": "翻訳作業が脳の前頭前野皮質に及ぼす効果",
+      "zh": "手动翻译对大脑背外侧前额叶皮层的神经学影响",
+      "es": "Efectos Neurológicos de la Traducción Manual en la Corteza Prefrontal Dorsolateral",
+      "de": "Neurologische Auswirkungen der manuellen Übersetzung auf den dorsolateralen präfrontalen Kortex",
+      "fr": "Effets neurologiques de la traduction manuelle sur le cortex préfrontal dorsolatéral",
+      "pt": "Efeitos Neurológicos da Tradução Manual no Córtex Pré-frontal Dorsolateral",
+      "id": "Dampak Neurologis Penerjemahan Manual pada Korteks Prefrontal Dorsolateral"
     },
     "whyDesc": {
-      "ko": "번역은 뇌의 시각적 문자 인지 영역뿐만 아니라 고도의 논리적 규칙 전환을 담당하는 배외측 전전두엽 피질(dlPFC)을 전방위적으로 활성화합니다. 단순히 글을 읽는 독서와 달리, 한 언어의 의미와 맥락을 분해하여 다른 언어의 정확한 단어 구조로 치환하는 작업은 컴퓨터의 프로세서가 100% 가동하는 것과 같은 극도의 인지 제어(Cognitive Control) 훈련입니다.\n\n이를 통해 뇌는 단어 간의 개념적 깊이를 이해하고, 복잡한 인과 관계 속에서 오류를 식별하는 분석 능력을 비약적으로 발달시킵니다. 엘리자베스 1세가 매일 수행했던 라틴어 번역은 감정적 노이즈를 필터링하고 차분하게 본질에 집중하게 만드는 강력한 인지적 해독제였습니다."
+      "ko": "번역은 뇌의 시각적 문자 인지 영역뿐만 아니라 고도의 논리적 규칙 전환을 담당하는 배외측 전전두엽 피질(dlPFC)을 전방위적으로 활성화합니다. 단순히 글을 읽는 독서와 달리, 한 언어의 의미와 맥락을 분해하여 다른 언어의 정확한 단어 구조로 치환하는 작업은 컴퓨터의 프로세서가 100% 가동하는 것과 같은 극도의 인지 제어(Cognitive Control) 훈련입니다. 이를 통해 뇌는 단어 간의 개념적 깊이를 이해하고, 복잡한 인과 관계 속에서 오류를 식별하는 분석 능력을 비약적으로 발달시킵니다. 엘리자베스 1세가 매일 수행했던 라틴어 번역은 감정적 노이즈를 필터링하고 차분하게 본질에 집중하게 만드는 강력한 인지적 해독제였습니다.",
+      "en": "Translation engages not only visual language processing, but intensely activates the dorsolateral prefrontal cortex (dlPFC), which governs cognitive control and logical rule switching. Unlike passive reading, deconstructing semantic structures from one language and synthesizing them into precise grammatical frameworks of another acts as a high-intensity workout for executive function—akin to running a CPU at 100% capacity. This process dramatically enhances analytical reasoning, conceptual depth, and error detection within complex causal chains. Queen Elizabeth I's daily Latin translation routine served as a potent cognitive antidote, filtering out emotional noise and anchoring her brain in calm, objective focus.",
+      "ja": "翻訳は脳の視覚的文字認知領域だけでなく、高度な論理的ルール切り替えを司る背外側前頭前野皮質（dlPFC）を全方位的に活性化させます。単に文章を読む読書とは異なり、一つの言語の意味と文脈を分解して他の言語の正確な単語構造へと置換する作業は、コンピューターのプロセッサーが100%稼働するような極度の認知制御（Cognitive Control）訓練です。これにより脳は単語間の概念的深みを理解し、複雑な因果関係の中でエラーを識別する分析能力を飛躍的に発達させます。エリザベ스1世が毎日遂行したラテン語翻訳は、感情的ノイズをフィルタリングし静かに本質に集中させる強力な認知的解毒剤でした。",
+      "zh": "翻译不仅能拉动大脑的视觉文字认知区域，更能全方位激活主导高阶逻辑规则切换的背外侧前额叶皮层（dlPFC）。与单纯被动阅读不同，解构一种语言的语意与上下文并将其重组置换为另一种语言精准语法结构的过程，是一场执行功能的高强度“满载训练”——堪比CPU以100%的极速满载运转。此举能显著提升大脑在复杂因果链条中的概念理解力与缜密推查力。伊丽莎白一世每日坚持的拉丁语翻译，乃是一剂绝佳的“认知解毒剂”，过滤掉情绪化的杂音，使大脑镇定自若地定格于本质之上。",
+      "es": "La traducción activa no solo el procesamiento visual del lenguaje, sino intensamente la corteza prefrontal dorsolateral (dlPFC), que gobierna el control cognitivo y la alternancia de reglas lógicas. A diferencia de la lectura pasiva, descomponer estructuras semánticas de un idioma y sintetizarlas en marcos gramaticales precisos de otro actúa como un entrenamiento de alta intensidad para la función ejecutiva, equivalente a hacer funcionar una CPU al 100%. Este proceso mejora drásticamente el razonamiento analítico y la detección de errores. La rutina diaria de traducción de Isabel I sirvió como un antídoto cognitivo para filtrar el ruido emocional y anclar su cerebro en un enfoque calmo.",
+      "de": "Übersetzung aktiviert nicht nur die visuelle Sprachverarbeitung, sondern intensiv den dorsolateralen präfrontalen Kortex (dlPFC), der für kognitive Kontrolle und logischen Regelwechsel zuständig ist. Anders als passives Lesen ist das Zerlegen semantischer Strukturen einer Sprache und deren präzise Rekonstruktion in einer anderen ein Hochintensitätstraining für die exekutiven Funktionen – vergleichbar mit einem Prozessor bei 100 % Auslastung. Dies steigert analytisches Denken und Fehlererkennung in komplexen Zusammenhängen. Königin Elisabeths I. Routine filterte emotionalen Stress heraus und verankerte das Gehirn in ruhigem Fokus.",
+      "fr": "La traduction sollicite non seulement le traitement visuel du langage, mais active intensément le cortex préfrontal dorsolatéral (dlPFC), qui régit le contrôle cognitif et la bascule de règles logiques. Contrairement à la lecture passive, déconstruire les structures sémantiques d'une langue pour les synthétiser dans une autre constitue un entraînement de haute intensité pour la fonction exécutive — comparablement à un processeur tournant à 100 %. Ce processus améliore le raisonnement analytique et la détection d'erreurs. La routine de traduction d'Élisabeth Ire agissait comme un antidote cognitif filtrant le bruit émotionnel.",
+      "pt": "A tradução ativa não apenas o processamento visual da linguagem, mas intensamente o córtex pré-frontal dorsolateral (dlPFC), que governa o controle cognitivo e a alternância de regras lógicas. Ao contrário da leitura passiva, desconstruir estruturas semânticas de um idioma e sintetizá-las em outro atua como um treino de alta intensidade para a função executiva, equivalente a rodar uma CPU a 100%. Esse processo melhora o raciocínio analítico e a detecção de erros. A rotina diária da rainha Isabel I serviu como um antídoto cognitivo para filtrar ruídos emocionais e focar no essencial.",
+      "id": "Penerjemahan tidak hanya melibatkan pemrosesan bahasa visual, tetapi juga sangat mengaktifkan korteks prefrontal dorsolateral (dlPFC), yang mengatur kontrol kognitif dan peralihan aturan logis. Berbeda dengan membaca pasif, menguraikan struktur semantik dari satu bahasa dan mensintesisnya ke dalam kerangka tata bahasa yang tepat dari bahasa lain bertindak sebagai latihan intensitas tinggi untuk fungsi eksekutif—mirip dengan menjalankan CPU pada kapasitas 100%. Proses ini secara drastis meningkatkan penalaran analitis dan deteksi kesalahan. Rutinitas penerjemahan Latin harian Ratu Elizabeth I berfungsi sebagai penawar kognitif ampuh yang menyaring kebisingan emosional."
     },
     "cautionTitle": {
-      "ko": "기계적 자동화 번역은 효과가 없습니다"
+      "ko": "기계적 자동화 번역은 효과가 없습니다",
+      "en": "Caution: Mechanical Automated Translation Yields Zero Cognitive Benefit",
+      "ja": "注意事項：機械的自動化翻訳は効果がありません",
+      "zh": "注意事项：依赖机械自动化翻译无法带来任何神经益处",
+      "es": "Precaución: La Traducción Automática Mecánica No Genera Beneficio Cognitivo",
+      "de": "Vorsichtsmaßnahme: Mechanische automatische Übersetzung bringt keinen kognitiven Nutzen",
+      "fr": "Mise en garde : La traduction automatique n'apporte aucun bénéfice cognitif",
+      "pt": "Precaução: A Tradução Automática Mecânica Não Gera Benefício Cognitivo",
+      "id": "Perhatian: Penerjemahan Otomatis Secara Mekanis Tidak Memberikan Manfaat Kognitif"
     },
     "cautionDesc": {
-      "ko": "인공지능 번역기나 사전 앱의 버튼 하나만으로 텍스트를 바로 확인하는 행동은 뇌의 전두엽 회로를 자극하지 않습니다. 속도가 조금 느리더라도 스스로 단어를 찾고 문장을 수작업으로 재구축하며 머리를 쥐어짜는 과정 속에서만 전두엽 시냅스의 연결이 비약적으로 성장합니다."
+      "ko": "인공지능 번역기나 사전 앱의 버튼 하나만으로 텍스트를 바로 확인하는 행동은 뇌의 전두엽 회로를 자극하지 않습니다. 속도가 조금 느리더라도 스스로 단어를 찾고 문장을 수작업으로 재구축하며 머리를 쥐어짜는 과정 속에서만 전두엽 시냅스의 연결이 비약적으로 성장합니다.",
+      "en": "Instant verification via AI translators or translation apps fails to stimulate prefrontal neural circuits. Cognitive growth and synaptic plasticity occur strictly during the manual struggle—wrestling with dictionaries, deciphering roots, and manually constructing sentence syntax.",
+      "ja": "人工知能翻訳機や辞書アプリのボタン一つでテキストをすぐ確認する行動は、脳の前頭前野回路を刺激しません。速度が少し遅くても、自ら単語を探し文章を手作業で再構築しながら頭を絞り出す過程の中でこそ、前頭前野のシナプスの結合が飛躍的に成長します。",
+      "zh": "通过人工智能翻译器或查词应用一键获取译文的行为，根本无法对前额叶回路产生实质刺激。神经元突触的强韧与认知能力的飞跃，唯有在人工抠字眼、翻阅字典、手动拆解重构句式结构的“思维磨砺”过程中方能达成。",
+      "es": "La verificación instantánea a través de traductores de IA no estimula los circuitos neuronales prefrontales. El crecimiento cognitivo ocurre estrictamente durante el esfuerzo manual: buscar en diccionarios, descifrar raíces y reestructurar frases a mano.",
+      "de": "Das sofortige Abrufen von Ergebnissen über KI-Übersetzer regt die präfrontalen Schaltkreise nicht an. Kognitives Wachstum findet nur durch die manuelle Anstrengung statt: Wörter nachschlagen, Strukturen analysieren und Sätze eigenhändig formulieren.",
+      "fr": "Obtenir un résultat instantané via des traducteurs IA ne stimule pas les circuits neuronaux préfrontaux. La croissance cognitive survient exclusivement lors de l'effort manuel : chercher dans un dictionnaire, déchiffrer les racines et reconstruire manuellement les phrases.",
+      "pt": "A verificação instantânea por meio de tradutores de IA não estimula os circuitos neuronais pré-frontais. O crescimento cognitivo ocorre estritamente durante o esforço manual: buscar em dicionários, decifrar raízes e reconstruir frases à mão.",
+      "id": "Verifikasi instan melalui penerjemah AI atau aplikasi penerjemah gagal menstimulasi sirkuit saraf prefrontal. Pertumbuhan kognitif dan plastisitas sinaptik terjadi secara ketat selama perjuangan manual—bergulat dengan kamus, memecahkan akar kata, dan menyusun sintaksis kalimat secara manual."
     },
     "steps": [
       {
         "name": {
-          "ko": "1단계: 라틴어 또는 타깃 고전 텍스트 선정"
+          "ko": "1단계: 라틴어 또는 타깃 고전 텍스트 선정",
+          "en": "Step 1: Selecting a Dense Latin or Target Classical Text",
+          "ja": "ステップ1：ラテン語またはターゲット古典テキストの選定",
+          "zh": "步骤1：挑选高密度拉丁文或目标精深古典文本",
+          "es": "Paso 1: Seleccionar un Texto Clásico Complejo en Latín u Otro Idioma",
+          "de": "Schritt 1: Auswählen eines anspruchsvollen lateinischen oder klassischen Textes",
+          "fr": "Étape 1 : Sélection d'un texte classique dense en latin ou langue cible",
+          "pt": "Passo 1: Selecionar um Texto Clássico Denso em Latim ou Idioma Alvo",
+          "id": "Langkah 1: Memilih Teks Latin atau Klasik Target yang Padat"
         },
         "text": {
-          "ko": "단순히 회화를 넘어서, 문장 구조가 정밀하고 복잡한 철학서, 명언집, 영문 명문 등 3~4문장의 실물 자료를 선정하여 아침 책상에 올려둡니다."
+          "ko": "단순히 회화를 넘어서, 문장 구조가 정밀하고 복잡한 철학서, 명언집, 영문 명문 등 3~4문장의 실물 자료를 선정하여 아침 책상에 올려둡니다.",
+          "en": "Move beyond casual conversational prose; select 3 to 4 dense sentences from a philosophical treatise, classical essay, or formal text with complex syntax, placing the physical material on your morning desk.",
+          "ja": "単なる日常会話を超えて、文章構造が精密で複雑な哲学書、名言集、英文の正文など3〜4文章の実物資料を選定し、朝のデスクの上に置いておきます。",
+          "zh": "越过日常生活口语对话，甄选3-4句句式精密复杂、哲理深邃的哲学名著、古文典籍或正式文章，将其纸质打印件置于清晨案头。",
+          "es": "Vaya más allá de la conversación casual; seleccione de 3 a 4 oraciones complejas de un tratado filosófico o texto clásico formal y coloque el material físico en su escritorio.",
+          "de": "Wählen Sie 3 bis 4 anspruchsvolle Sätze aus einem philosophischen Werk oder einem klassischen Text mit komplexer Grammatik und legen Sie das ausgedruckte Material bereit.",
+          "fr": "Dépassez la simple conversation ; sélectionnez 3 à 4 phrases denses issues d'un traité philosophique ou d'un texte classique complexe et posez le document sur votre bureau le matin.",
+          "pt": "Vá além da conversa informal; selecione de 3 a 4 frases complexas de um tratado filosófico ou texto clássico formal e coloque o material físico na sua mesa.",
+          "id": "Melangkah lebih jauh dari prosa percakapan biasa; pilih 3 hingga 4 kalimat padat dari risalah filosofis, esai klasik, atau teks formal dengan sintaksis rumit, lalu letakkan materi fisik tersebut di meja pagi Anda."
         }
       },
       {
         "name": {
-          "ko": "2단계: 30분간의 아날로그 수작업 직접 번역"
+          "ko": "2단계: 30분간의 아날로그 수작업 직접 번역",
+          "en": "Step 2: 30-Minute Analog Manual Translation",
+          "ja": "ステップ2：30分間のアナログ手作業直接翻訳",
+          "zh": "步骤2：开展30分钟纯手写纸质手动翻译",
+          "es": "Paso 2: 30 Minutos de Traducción Manual Analógica",
+          "de": "Schritt 2: 30 Minuten analoge manuelle Übersetzung",
+          "fr": "Étape 2 : 30 minutes de traduction manuelle analogique",
+          "pt": "Passo 2: 30 Minutos de Tradução Manual Analógica",
+          "id": "Langkah 2: Penerjemahan Manual Analog 30 Menit"
         },
         "text": {
-          "ko": "인터넷 번역기를 일절 끄고, 종이 사전이나 전자단어장만 사용하여 단어의 기원을 파악하며 공책에 직접 손으로 문장을 번역해 나갑니다."
+          "ko": "인터넷 번역기를 일절 끄고, 종이 사전이나 전자단어장만 사용하여 단어의 기원을 파악하며 공책에 직접 손으로 문장을 번역해 나갑니다.",
+          "en": "Completely turn off AI translators. Using only paper dictionaries or vocabulary tools, decipher word etymologies and manually write out the translated syntax by hand in a notebook.",
+          "ja": "インターネット翻訳機を一切消し、紙の辞書や電子単語帳のみを使用して単語の語源を把握しながら、ノートに直接手で文章を翻訳していきます。",
+          "zh": "彻底切断AI翻译软件与在线翻译引擎。仅借助纸质字典或单字查词工具，查考字词词源，在笔记本上用笔逐字手写抠译出完整句式。",
+          "es": "Apague por completo los traductores automáticos. Usando solo diccionarios físicos o vocabulario, descifre las etimologías y escriba a mano la traducción en un cuaderno.",
+          "de": "Schalten Sie automatische Übersetzer aus. Nutzen Sie nur Wörterbücher, um Wortursprünge zu verstehen, und schreiben Sie die Übersetzung von Hand in ein Notizbuch.",
+          "fr": "Éteignez complètement les traducteurs IA. En utilisant uniquement des dictionnaires papier ou lexiques, déchiffrez l'étymologie et rédigez manuellement la traduction dans un carnet.",
+          "pt": "Desligue totalmente os tradutores de IA. Usando apenas dicionários físicos ou vocabulários, decifre as etimologias e escreva a tradução à mão em um caderno.",
+          "id": "Matikan penerjemah AI sepenuhnya. Hanya dengan menggunakan kamus kertas atau alat kosa kata, uraikan etimologi kata dan tuliskan sintaksis terjemahan secara manual dengan tangan di buku catatan."
         }
       },
       {
         "name": {
-          "ko": "3단계: 논리 구조 비교 및 퇴고 정제"
+          "ko": "3단계: 논리 구조 비교 및 퇴고 정제",
+          "en": "Step 3: Comparing Logical Structures and Polishing Syntax",
+          "ja": "ステップ3：論理構造の比較および推敲・精製",
+          "zh": "步骤3：对比逻辑框架与精细润色推敲",
+          "es": "Paso 3: Comparar Estructuras Lógicas y Pulir la Sintaxis",
+          "de": "Schritt 3: Vergleichen der logischen Strukturen und Überarbeiten",
+          "fr": "Étape 3 : Comparaison des structures logiques et peaufinage",
+          "pt": "Passo 3: Comparar Estruturas Lógicas e Lapidar a Sintaxe",
+          "id": "Langkah 3: Membandingkan Struktur Logis dan Memoles Sintaksis"
         },
         "text": {
-          "ko": "번역이 끝난 문장을 읽어보며 원래 텍스트의 논리 구조가 온전히 한글 문맥으로 연결되는지 비교하고, 문맥을 가장 자연스럽고 단단하게 다듬는 교정 작업을 거쳐 아침의 분석적 뇌 활성화를 마칩니다."
+          "ko": "번역이 끝난 문장을 읽어보며 원래 텍스트의 논리 구조가 온전히 한글 문맥으로 연결되는지 비교하고, 문맥을 가장 자연스럽고 단단하게 다듬는 교정 작업을 거쳐 아침의 분석적 뇌 활성화를 마칩니다.",
+          "en": "Read over your draft, comparing whether the core logical arguments of the source text flow seamlessly into your native syntax. Refine the wording to make it solid and coherent, completing your morning analytical warm-up.",
+          "ja": "翻訳が終わった文章を読み返し、元のテキストの論理構造が完全に自国語の文脈として繋がっているか比較し、文脈を最も自然で堅固に整える校正作業を経て、朝の分析的脳活性化を完了します。",
+          "zh": "重读初译文，比对源文本的核心逻辑链条是否完整无缝地对构入母语语境中。修饰校订文辞，使其凝练严密，由此完成清晨的大脑分析力预热。",
+          "es": "Lea su borrador, comparando si los argumentos lógicos fluyen sin problemas en su idioma nativo. Refine la redacción para que sea coherente y sólida, completando su activación mental analítica.",
+          "de": "Lesen Sie Ihren Entwurf und prüfen Sie, ob die Logik des Originaltextes im deutschen Satzbau erhalten bleibt. Feilen Sie an den Formulierungen, um den morgendlichen Denkprozess abzurunden.",
+          "fr": "Relisez votre ébauche, en vérifiant que la logique du texte source s'intègre parfaitement dans votre langue. Peaufinez la rédaction pour la rendre fluide et rigoureuse, achevant votre réveil analytique.",
+          "pt": "Leia seu rascunho, comparando se a lógica do texto original flui perfeitamente no seu idioma nativo. Refine o texto para torná-lo sólido e coerente, concluindo sua ativação analítica matinal.",
+          "id": "Baca ulang draf Anda, bandingkan apakah argumen logis inti dari teks sumber mengalir dengan lancar ke dalam tata bahasa asli Anda. Poles tata bahasanya agar kokoh dan koheren, menyelesaikan pemanasan analitis pagi Anda."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "인공지능 번역기를 사용하여 텍스트를 바로 맞춰보는 것은 효과가 없나요?"
+          "ko": "인공지능 번역기를 사용하여 텍스트를 바로 맞춰보는 것은 효과가 없나요?",
+          "en": "Is it ineffective to instantly verify translation results using AI translators?",
+          "ja": "人工知能翻訳機を使用してテキストをすぐ突き合わせてみるのは効果がありませんか？",
+          "zh": "使用AI翻译软件直接比对对照译文真的毫无效果吗？",
+          "es": "¿Es ineficaz verificar instantáneamente los resultados con traductores de IA?",
+          "de": "Ist das sofortige Vergleichen der Ergebnisse mit KI-Übersetzern wirkungslos?",
+          "fr": "Est-il inefficace de vérifier instantanément les résultats avec des traducteurs IA ?",
+          "pt": "É ineficaz verificar instantaneamente os resultados com tradutores de IA?",
+          "id": "Apakah tidak efektif untuk memverifikasi hasil terjemahan secara instan menggunakan penerjemah AI?"
         },
         "answer": {
-          "ko": "네, 버튼 하나로 결과를 얻는 것은 뇌의 인지 연결망을 자극하지 못합니다. 다소 번거롭고 느리더라도 사전을 직접 뒤적이며 문장의 뼈대를 맞추는 '머리를 쓰는 저항 과정'을 거칠 때에만 전두엽 피질의 시냅스가 활발히 발달합니다."
+          "ko": "네, 버튼 하나로 결과를 얻는 것은 뇌의 인지 연결망을 자극하지 못합니다. 다소 번거롭고 느리더라도 사전을 직접 뒤적이며 문장의 뼈대를 맞추는 '머리를 쓰는 저항 과정'을 거칠 때에만 전두엽 피질의 시냅스가 활발히 발달합니다.",
+          "en": "Yes, absolutely. Obtaining instant answers with a single click fails to challenge your brain's cognitive networks. Synaptic connections in the prefrontal cortex strengthen only through 'cognitive friction'—the manual effort of flipping dictionary pages and assembling grammatical frameworks yourself.",
+          "ja": "はい、ボタン一つで結果を得ることは脳の認知ネットワークを刺激できません。多少煩わしく遅くても、辞書を直接めくりながら文章の骨組みを合わせる「頭を使う抵抗過程」を経てこそ、前頭前野皮質のシナプスが活発に発達します。",
+          "zh": "是的，完全无效。一键获取现成答案无法对大脑的认知网络形成任何硬核挑战。前额叶皮层的神经元突触，唯有在翻阅字典、考据词义与拆构句法的“智力磨砺与阻抗”中才能得到真正强化。",
+          "es": "Sí, absolutamente. Obtener respuestas instantáneas no ejercita la red cognitiva del cerebro. Las conexiones sinápticas prefrontales se fortalecen solo a través de la 'fricción cognitiva': el esfuerzo manual de buscar en diccionarios y ensamblar la gramática.",
+          "de": "Ja, absolut. Sofortige Ergebnisse fordern die kognitiven Netzwerke nicht heraus. Synaptische Verbindungen im präfrontalen Kortex verstärken sich nur durch 'kognitive Reibung' – das eigene Suchen im Wörterbuch und Zusammensetzen der Sätze.",
+          "fr": "Oui, tout à fait. Obtenir des réponses instantanées ne sollicite pas les réseaux cognitifs. Les connexions synaptiques du cortex préfrontal se renforcent uniquement par la « friction cognitive » : l'effort manuel d'assembler la grammaire soi-même.",
+          "pt": "Sim, com certeza. Obter respostas instantâneas não exercita a rede cognitiva. As conexões sinápticas no córtex pré-frontal se fortalecem apenas através da 'fricção cognitiva': o esforço manual de consultar dicionários e montar a gramática.",
+          "id": "Ya, tentu saja. Mendapatkan jawaban instan dengan satu klik gagal menantang jaringan kognitif otak Anda. Koneksi sinaptik di korteks prefrontal menguat hanya melalui 'gesekan kognitif'—upaya manual membuka halaman kamus dan merangkai kerangka tata bahasa sendiri."
         }
       },
       {
         "question": {
-          "ko": "그리스어와 라틴어 같은 고전어만 공부해야 효과가 있나요?"
+          "ko": "그리스어와 라틴어 같은 고전어만 공부해야 효과가 있나요?",
+          "en": "Does this technique only work with classical languages like Latin and Ancient Greek?",
+          "ja": "ギリシャ語やラテン語のような古典語だけを勉強しなければ効果はありませんか？",
+          "zh": "必须学习像拉丁文与古希腊文这样的古典语言才能奏效吗？",
+          "es": "¿Esta técnica solo funciona con idiomas clásicos como el latín y el griego antiguo?",
+          "de": "Funktioniert diese Methode nur mit klassischen Sprachen wie Latein und Altgriechisch?",
+          "fr": "Cette technique ne fonctionne-t-elle qu'avec des langues classiques comme le latin et le grec ?",
+          "pt": "Esta técnica só funciona com idiomas clássicos como latim e grego antigo?",
+          "id": "Apakah teknik ini hanya berfungsi dengan bahasa klasik seperti Latin dan Yunani Kuno?"
         },
         "answer": {
-          "ko": "아닙니다. 영어, 중국어, 독일어 등 문장 구성의 논리 체계가 한국어와 다른 모든 종류의 현대 외국어 텍스트도 훌륭한 훈련 도구가 됩니다. 중요한 것은 일상적인 대화체가 아닌 밀도 높고 격식 있는 철학이나 칼럼 등의 텍스트를 정밀하게 직조하듯 번역해 내는 것입니다."
+          "ko": "아닙니다. 영어, 중국어, 독일어 등 문장 구성의 논리 체계가 한국어와 다른 모든 종류의 현대 외국어 텍스트도 훌륭한 훈련 도구가 됩니다. 중요한 것은 일상적인 대화체가 아닌 밀도 높고 격식 있는 철학이나 칼럼 등의 텍스트를 정밀하게 직조하듯 번역해 내는 것입니다.",
+          "en": "No. Any modern foreign language (such as English, German, French, or Chinese) with logical syntax distinct from your native tongue serves as an excellent training medium. The key is translating dense, formal texts—such as philosophy, essays, or editorials—rather than casual conversational prose.",
+          "ja": "いいえ。英語、中国語、ドイツ語など文章構成の論理体系が自国語と異なるすべての種類の現代外国語テキストも素晴らしい訓練道具になります。重要なのは日常的な会話体ではなく、密度が高く格調高い哲学やコラムなどのテキストを精密に織り上げるように翻訳することです。",
+          "zh": "完全不是。任何语法结构与母语迥异的现代外语（如英语、德语、法语、日语等）皆是绝佳的训练媒介。核心要义在于精选逻辑严密、格调高雅的哲学论著、学术专栏或精辟文集，而非日常随性的口语对话。",
+          "es": "No. Cualquier idioma moderno (como inglés, alemán, francés o chino) con una sintaxis distinta a la de su lengua materna sirve como excelente medio. La clave es traducir textos formales y densos (filosofía, ensayos, editoriales) en lugar de conversaciones casuales.",
+          "de": "Nein. Jede moderne Fremdsprache (wie Englisch, Französisch oder Chinesisch) mit anderer Grammatik eignet sich hervorragend. Entscheidend ist das Übersetzen anspruchsvoller Texte (Philosophie, Essays, Leitartikel) anstelle von Alltagsgesprächen.",
+          "fr": "Non. Toute langue vivante (anglais, allemand, chinois, etc.) ayant une syntaxe différente de votre langue maternelle constitue un excellent entraînement. L'important est de traduire des textes denses et soutenus (philosophie, essais, éditoriaux) plutôt que des dialogues informels.",
+          "pt": "Não. Qualquer idioma moderno (como inglês, alemão, francês ou chinês) com uma sintaxe diferente da sua língua materna serve como excelente meio. O segredo é traduzir textos formais e densos (filosofia, ensaios, editoriais) em vez de conversas casuais.",
+          "id": "Tidak. Bahasa asing modern apa pun (seperti Inggris, Jerman, Prancis, atau Mandarin) dengan sintaksis logis yang berbeda dari bahasa asli Anda berfungsi sebagai media latihan yang luar biasa. Kuncinya adalah menerjemahkan teks-teks formal yang padat—seperti filsafat, esai, atau tajuk rencana—daripada percakapan santai sehari-hari."
         }
       }
     ]

@@ -1,62 +1,214 @@
 {
   "bryant-four-am-workout": {
     "title": {
-      "ko": "새벽 4시의 기적: 코비 브라이언트의 맘바 훈련 루틴"
+      "ko": "새벽 4시의 기적: 코비 브라이언트의 맘바 훈련 루틴",
+      "en": "Miracle at 4 AM: Kobe Bryant's Mamba Training Routine",
+      "ja": "午前4時の奇跡：コービー・ブライアントのマンバ訓練ルーティン",
+      "zh": "凌晨4点的奇迹：科比·布莱恩特的曼巴训练习惯",
+      "es": "Milagro a las 4 AM: La Rutina de Entrenamiento Mamba de Kobe Bryant",
+      "de": "Wunder um 4 Uhr morgens: Kobe Bryants Mamba-Trainingsroutine",
+      "fr": "Miracle à 4 heures du matin : La routine d'entraînement Mamba de Kobe Bryant",
+      "pt": "Milagre às 4h da Manhã: A Rotina de Treinamento Mamba de Kobe Bryant",
+      "id": "Mukjizat Pukul 4 Pagi: Rutinitas Latihan Mamba ala Kobe Bryant"
     },
     "description": {
-      "ko": "매일 새벽 4시에 첫 훈련을 수행했던 농구 황제 코비 브라이언트. 매일 같은 새벽 시간대의 강도 높은 훈련이 일주기 리듬을 고정시키고 신체 활성을 최고조로 끌어올리는 원리를 규명합니다."
+      "ko": "매일 새벽 4시에 첫 훈련을 수행했던 농구 황제 코비 브라이언트. 매일 같은 새벽 시간대의 강도 높은 훈련이 일주기 리듬을 고정시키고 신체 활성을 최고조로 끌어올리는 신경과학적 및 생리학적 원리를 밝힙니다.",
+      "en": "Discover how basketball icon Kobe Bryant initiated his first training session at 4 AM daily, and explore the neuroscientific and physiological principles of how consistent early-morning workouts lock circadian rhythms and peak physical performance.",
+      "ja": "毎日午前4時に最初の訓練を行ったバスケットボールの皇帝コービー・ブライアント。毎日同じ早朝の時間帯の強度が高い訓練が概日リズムを固定し、身体活性を最高潮に引き上げる神経科学的・生理学的原理を解き明かします。",
+      "zh": "探索篮球巨星科比·布莱恩特每天凌晨4点展开首轮训练的习惯，揭示每日固定早晨的高强度训练如何锚定昼夜节律并将身体活性推向巅峰的神经科学与生理学原理。",
+      "es": "Descubra cómo el ícono del baloncesto Kobe Bryant iniciaba su primer entrenamiento a las 4 AM diariamente, y explore los principios neurocientíficos y fisiológicos de cómo los entrenamientos a la misma hora matutina fijan el ritmo circadiano y maximizan el rendimiento.",
+      "de": "Erkunden Sie, wie die Basketball-Ikone Kobe Bryant täglich um 4 Uhr morgens seine erste Trainingseinheit begann, und entdecken Sie die neurowissenschaftlichen und physiologischen Prinzipien, wie beständiges Frühtraining den zirkadianen Rhythmus festigt und die körperliche Leistungsfähigkeit steigert.",
+      "fr": "Découvrez comment l'icône du basket-ball Kobe Bryant débutait sa première session d'entraînement à 4h chaque matin, et explorez les principes neuroscientifiques et physiologiques montrant comment un entraînement matinal régulier verrouille le rythme circadien et optimise la performance physique.",
+      "pt": "Descubra como o ícone do basquete Kobe Bryant iniciava seu primeiro treino às 4h da manhã diariamente, e explore os princípios neurocientíficos e fisiológicos de como os treinos matinais regulares fixam o ritmo circadiano e elevam o desempenho ao pico.",
+      "id": "Pelajari bagaimana ikon bola basket Kobe Bryant memulai sesi latihan pertamanya pukul 4 pagi setiap hari, serta temukan prinsip neurosains dan fisiologis tentang bagaimana latihan pagi yang konsisten mengunci ritme sirkadian dan mengoptimalkan performa fisik puncak."
     },
     "authority": {
-      "ko": "코비 브라이언트 자서전 『맘바 멘탈리티(The Mamba Mentality)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+      "ko": "코비 브라이언트 자서전 『맘바 멘탈리티(The Mamba Mentality: How I Play)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+      "en": "Historical Verification from Kobe Bryant's Autobiography *The Mamba Mentality: How I Play* & Cognitive Neuroscience Research",
+      "ja": "コービー・ブライアント自伝『The Mamba Mentality: How I Play』考証＆認知神経科学（Cognitive Neuroscience）研究",
+      "zh": "科比·布莱恩特自传《曼巴精神（The Mamba Mentality: How I Play）》考证与认知神经科学（Cognitive Neuroscience）研究",
+      "es": "Verificación Histórica de la Autobiografía de Kobe Bryant *Mentalidad Mamba: Los secretos de mi juego (The Mamba Mentality: How I Play)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)",
+      "de": "Historische Überprüfung aus Kobe Bryants Autobiografie *Mentalität Mamba: Wie ich spiele (The Mamba Mentality: How I Play)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)",
+      "fr": "Vérification Historique issue de l'autobiographie de Kobe Bryant *Mentalité Mamba : Ma façon de jouer (The Mamba Mentality: How I Play)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)",
+      "pt": "Verificação Histórica da Autobiografia de Kobe Bryant *Mentalidade Mamba: Como eu jogo (The Mamba Mentality: How I Play)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)",
+      "id": "Verifikasi Historis dari Autobiografi Kobe Bryant *The Mamba Mentality: How I Play* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"
     },
     "intro": {
-      "ko": "\"새벽 4시의 정적 속에서 훈련을 소화할 때, 나는 다른 모든 경쟁자보다 인지적으로 한 걸음 앞서가고 있음을 확신한다.\" 🏀\n\n역사상 가장 위대한 농구 선수 중 한 명이자 승부욕의 화신인 코비 브라이언트. 그는 매일 새벽 4시, 칠흑 같은 정적 속에서 훈련을 개시했습니다. 올림픽 소집 당시 동료들이 자고 있는 새벽에 홀로 체육관의 불을 켜고 연습을 시작했던 그의 행동은 전설적인 맘바 멘탈리티의 기둥이었습니다. 코비는 이 절대적인 시간의 선점을 통해 승리를 자신했습니다. 뇌과학 및 생리학적으로 새벽 4시 루틴이 우리 몸을 어떻게 강력한 퍼포먼스 상태로 동기화시키는지 알아봅니다.\n\n많은 사람이 기분이나 컨디션에 따라 아침 루틴과 기상 시간을 조절하곤 합니다. 하지만 코비 브라이언트는 피로의 여부나 외부 환경의 변화에 타협하지 않고 새벽 4시라는 상징적인 시간을 일관되게 고수했습니다. 그의 새벽 훈련은 단순히 남들보다 많이 연습한다는 물리적인 양의 우세를 넘어, 뇌와 신경망의 생체 시계를 아침 수행 모드로 완전히 고정시키는 최첨단의 인지적 적응 훈련이었습니다.\n\n오늘 포스트에서는 코비의 새벽 4시 루틴의 생리학적 기반을 밝히고, 일상의 한계를 극복하려는 현대인들이 자신의 기상 리듬과 활동을 지배해 첫 시간부터 최고 수준의 신체 반응과 집중력을 발휘하는 3단계 실천 방안을 제안합니다."
+      "ko": "\"새벽 4시의 정적 속에서 훈련을 소화할 때, 나는 다른 모든 경쟁자보다 인지적으로 한 걸음 앞서가고 있음을 확신한다.\" 🏀\n\nNBA 역사상 가장 위대한 선수 중 한 명이자 승부욕의 화신으로 불린 전설적인 농구 스타 코비 브라이언트(Kobe Bryant, 1978–2020). LA 레이커스에서만 20시즌을 뛰며 5번의 NBA 우승, 18차례 올스타 선정, 2차례 올림픽 금메달을 거머쥔 그의 압도적인 기량은 불굴의 정신력인 '맘바 멘탈리티(Mamba Mentality)'에서 나왔습니다. 그리고 그 맘바 멘탈리티를 받쳐준 가장 강렬한 지지대는 바로 '새벽 4시 첫 훈련' 루틴이었습니다.\n\n코비는 매일 새벽 4시, 세상이 깊은 정적에 빠진 시각에 홀로 체육관 불을 켜고 고강도 훈련을 개시했습니다. 2008년 베이징 올림픽 당시 미국 국가대표팀에 소집되었을 때도, 다른 동료 선수들이 잠들어 있던 새벽 시간에 혼자 웨이트 트레이닝과 사격형 투구 훈련을 마쳐 동료들에게 거대한 인지적 자극을 안겨주었습니다. 코비는 정해진 시간에 절대 타협하지 않는 이 새벽 시간의 선점을 통해 경쟁자들보다 하루에 1~2회의 훈련 세션을 추가로 확보하고 승리를 확신할 수 있었습니다. 뇌과학 및 운동생리학적으로 새벽 4시의 규칙적 각성과 신체 활동은 생체 시계를 아침 수행 모드로 고정시키는 최첨단의 신경 적응 루틴이었습니다.\n\n오늘 포스트에서는 코비 브라이언트의 새벽 4시 루틴에 담긴 생리학적·신경과학적 작동 원리를 규명하고, 현대인이 자신의 일주기 리듬을 지배하여 기상 직후부터 최상의 집중력과 신체 반응성을 발휘할 수 있는 3단계 실천 방안을 제안합니다.",
+      "en": "\"When I train in the silence of 4 AM, I am absolutely certain I am taking a step ahead of every competitor cognitively.\" 🏀\n\nKobe Bryant (1978–2020) was one of the greatest players in NBA history and the embodiment of competitive drive. Spending 20 seasons exclusively with the Los Angeles Lakers, he won 5 NBA championships, earned 18 All-Star selections, and secured 2 Olympic gold medals. His legendary performance stemmed directly from his unyielding philosophy, the 'Mamba Mentality'—and its bedrock was his relentless 4 AM workout routine.\n\nEvery day at 4 AM, while the world was asleep, Bryant unlocked the gym and turned on the lights alone for high-intensity training. During the 2008 Beijing Olympics, while Team USA teammates were still sleeping, Bryant completed intense weight and shooting sessions before sunrise, delivering a profound shock to his peers. By locking in this non-negotiable 4 AM anchor, he gained 1 or 2 extra training sessions every single day over his rivals. Neuroscientifically and physiologically, this consistent early-morning awakening programmed his circadian clock into peak performance mode.\n\nIn today's post, we examine the physiological and neuroscientific mechanisms behind Kobe Bryant's 4 AM workout routine and present a 3-step action plan for modern individuals to master their circadian rhythm and unlock peak alertness from the first hour of the day.",
+      "ja": "「午前4時の静寂の中で訓練をこなす時、私は他のすべての競合相手よりも認知的に一歩先を行っていることを確信する。」 🏀\n\nNBA史上最も偉大な選手の一人であり、勝負 attempted の化身と呼ばれた伝説的なバスケットボールスター、コービー・ブライアント（Kobe Bryant、1978–2020）。ロサンゼルス・レイカーズ一筋で20シーズンを戦い抜き、5度のNBA優勝、18回のオールスター選出、2度のオリンピック金メダルを獲得した彼の圧倒的な技量は、不屈の精神力である「マンバ・メンタルティ（Mamba Mentality）」から生まれました。そしてそのマンバ・メンタルティを支えた最も強烈な支柱こそ、まさに「午前4時の最初の訓練」ルーティンでした。\n\nコービーは毎日午前4時、世界が深い静寂に包まれた時刻に一人で体育館の明かりを点け、高強度の訓練を開始しました。2008年の北京オリンピック当時、アメリカ代表チームに召集された際も、他のチームメイトたちが眠っている早朝の時間に一人でウェイトトレーニングとシュート練習を終え、同僚たちに巨大な認知的刺激を与えました。コービーは決められた時間に絶対に妥協しないこの早朝時間の先占を通じて、競合相手よりも一日に1〜2回の訓練セッションを追加で確保し、勝利を確信することができました。脳科学および運動生理学的に、午前4時の規則的な覚醒と身体活動は、体内時計を朝の遂行モードへと固定させる最先端の神経適応ルーティンだったのです。\n\n本日の記事では、コービー・ブライアントの午前4時ルーティンに秘められた生理学的・神経科学的作動原理を解明し、現代人が自分の概日リズムを支配して起床直後から最上の集中力と身体反応性を発揮できる3ステップの実践方案を提案します。",
+      "zh": "“当我在凌晨4点的寂静中完成训练时，我确信自己在认知层面已领先所有竞争对手一步。” 🏀\n\n作为NBA历史上最伟大的球员之一、兼具决绝好胜心化身的传奇篮球巨星——科比·布莱恩特（Kobe Bryant，1978–2020）。在洛杉矶湖人队独效力20个赛季、斩获5次NBA总冠军、18次入选全明星以及2枚奥运金牌的他，其碾压式的统治力源于坚韧不拔的“曼巴精神（Mamba Mentality）”。而支撑这项曼巴精神的最强有力支柱，正是“凌晨4点首轮训练”习惯。\n\n每天凌晨4点，当全世界尚沉浸于深沉的宁静中时，科比便会独自推开球馆大门、拉开灯光展开高强度训练。在2008年北京奥运会为美国国家队效力期间，当其他队友仍在梦乡中时，科比早已在清晨完成了力量训练与投篮特训，给队友们带来了极大的认知震撼。通过抢占这一决不妥协的凌晨时间块，他每天能比竞争对手额外多出1至2次训练时段，从而奠定了必胜的信念。从脑科学与运动生理学角度来看，凌晨4点规律的觉醒与身体活动，是一套将生物钟强效锚定于清晨高效执行模式的高阶神经适应习惯。\n\n在今天的文章中，我们将揭示科比·布莱恩特凌晨4点习惯背后的生理学与神经科学原理，并为现代人掌控自身的昼夜节律、在起床之初即爆发顶级专注力与身体敏捷度提供3步骤实践方案。",
+      "es": "\"Cuando entreno en el silencio de las 4 AM, estoy absolutamente seguro de que voy un paso por delante de cada competidor a nivel cognitivo.\" 🏀\n\nKobe Bryant (1978–2020) fue uno de los jugadores más grandes en la historia de la NBA y la encarnación misma del espíritu competitivo. Jugando 20 temporadas exclusivamente con los Los Angeles Lakers, ganó 5 campeonatos de la NBA, fue seleccionado 18 veces al All-Star y obtuvo 2 medallas de oro olímpicas. Su rendimiento legendario se derivaba directamente de su filosofía inquebrantable, la 'Mentalidad Mamba (Mamba Mentality)', cuyo pilar fundamental era su implacable rutina de entrenamiento a las 4 AM.\n\nTodos los días a las 4 AM, mientras el mundo dormía, Bryant encendía las luces del gimnasio en solitario para iniciar entrenamientos de alta intensidad. Durante los Juegos Olímpicos de Pekín 2008, mientras sus compañeros de la selección estadounidense dormían, Bryant completaba intensas sesiones de pesas y tiros antes del amanecer, causando un gran impacto en sus colegas. Al fijar este horario innegociable a las 4 AM, lograba de 1 a 2 sesiones de entrenamiento adicionales cada día en comparación con sus rivales. Neurocientífica y fisiológicamente, este despertar matutino programaba su reloj circadiano en modo de máximo rendimiento.\n\nEn la publicación de hoy, analizamos los mecanismos fisiológicos y neurocientíficos tras la rutina de entrenamiento a las 4 AM de Kobe Bryant y presentamos un plan de acción de 3 pasos para que las personas modernas dominen su ritmo circadiano y alcancen un estado de alerta máximo desde la primera hora del día.",
+      "de": "\"Wenn ich in der Stille um 4 Uhr morgens trainiere, bin ich mir absolut sicher, dass ich jedem Konkurrenten kognitiv einen Schritt voraus bin.\" 🏀\n\nKobe Bryant (1978–2020) war einer der größten Spieler der NBA-Geschichte und die Verkörperung echten Kampfgeistes. In seinen 20 Saisons bei den Los Angeles Lakers gewann er 5 NBA-Meisterschaften, wurde 18 Mal ins All-Star-Team berufen und holte 2 olympische Goldmedaillen. Seine legendären Leistungen entsprangen seiner unnachgiebigen Philosophie, der 'Mamba-Mentalität (Mamba Mentality)' – deren Fundament seine eiserne Trainingsroutine um 4 Uhr morgens war.\n\nJeden Tag um 4 Uhr morgens, während die Welt schlief, schaltete Bryant allein das Licht in der Halle für hochintensives Training ein. Während der Olympischen Spiele 2008 in Peking absolvierte Bryant vor Sonnenaufgang intensive Kraft- und Wurfeinheiten, während seine Mitspieler des US-Teams noch schliefen – was seinen Kollegen tiefen Respekt einflößte. Durch das Festhalten an dieser unverhandelbaren Zeit sicherte er sich täglich 1 bis 2 zusätzliche Trainingseinheiten gegenüber seinen Konkurrenten. Neurowissenschaftlich und physiologisch programmierte dieses morgendliche Erwachen seine innere Uhr auf Höchstleistung.\n\nIm heutigen Beitrag untersuchen wir die physiologischen und neurowissenschaftlichen Mechanismen hinter Kobe Bryants Trainingsroutine um 4 Uhr morgens und stellen einen praktischen 3-Schritte-Aktionsplan für moderne Menschen vor, um den eigenen zirkadianen Rhythmus zu meistern und ab der ersten Stunde des Tages maximale Wachheit freizusetzen.",
+      "fr": "« Quand je m'entraîne dans le silence de 4 heures du matin, je suis absolument certain d'avoir une longueur d'avance cognitive sur tous mes concurrents. » 🏀\n\nKobe Bryant (1978–2020) était l'un des plus grands joueurs de l'histoire de la NBA et l'incarnation de la hargne victorieuse. Disputant 20 saisons sous les couleurs exclusives des Los Angeles Lakers, il a remporté 5 titres NBA, décroché 18 sélections au All-Star Game et glané 2 médailles d'or olympiques. Ses performances légendaires découlaient directement de sa philosophie inébranlable, la « Mentalité Mamba (Mamba Mentality) » — dont le socle était sa routine d'entraînement à 4 heures du matin.\n\nChaque jour à 4h, pendant que le monde dormait, Bryant allumait seul les lumières de la salle de sport pour entamer des entraînements de haute intensité. Lors des Jeux Olympiques de Pékin en 2008, alors que ses coéquipiers de l'équipe américaine dormaient encore, Bryant bouclait d'intenses séances de musculation et de tirs avant le lever du soleil, suscitant l'admiration de ses pairs. En verrouillant ce rendez-vous non négociable de 4h du matin, il s'assurait 1 à 2 sessions d'entraînement supplémentaires par jour par rapport à ses rivaux. Sur les plans neuroscientifique et physiologique, ce réveil matinal programmait son horloge circadienne en mode de performance maximale.\n\nDans l'article d'aujourd'hui, nous analysons les mécanismes physiologiques et neuroscientifiques sous-jacents à la routine d'entraînement à 4h du matin de Kobe Bryant, et proposons un plan d'action en 3 étapes permettant aux individus modernes de maîtriser leur rythme circadien et de libérer un éveil maximal dès la première heure de la journée.",
+      "pt": "\"Quando me treino no silêncio das 4h da manhã, tenho absoluta certeza de que estou dando um passo à frente de cada concorrente cognitivamente.\" 🏀\n\nKobe Bryant (1978–2020) foi um dos maiores jogadores da história da NBA e a própria encarnação da competitividade. Jogando 20 temporadas exclusivamente pelo Los Angeles Lakers, ele venceu 5 campeonatos da NBA, foi selecionado 18 vezes para o All-Star e conquistou 2 medalhas de ouro olímpicas. Seu desempenho lendário derivava diretamente de sua filosofia inabalável, a 'Mentalidade Mamba (Mamba Mentality)' — e a base dessa mentalidade era sua rotina de treinos às 4h da manhã.\n\nTodos os dias às 4h da manhã, enquanto o mundo dormia, Bryant acendia as luzes do ginásio sozinho para iniciar treinos de alta intensidade. Durante os Jogos Olímpicos de Pequim em 2008, enquanto seus companheiros da seleção norte-americana ainda dormiam, Bryant concluía intensas sessões de musculação e arremessos antes do amanhecer, causando um enorme impacto em seus colegas. Ao fixar esse horário inegociável às 4h da manhã, ele garantia de 1 a 2 sessões de treino adicionais por dia em comparação aos seus rivais. Do ponto de vista neurocientífico e fisiológico, esse despertar matutino programava seu relógio circadiano no modo de desempenho máximo.\n\nNo artigo de hoje, analisamos os mecanismos fisiológicos e neurocientíficos por trás da rotina de treinos às 4h da manhã de Kobe Bryant e apresentamos um plano de ação de 3 passos para as pessoas modernas dominarem seu ritmo circadiano e liberarem o estado de alerta máximo desde a primeira hora do dia.",
+      "id": "\"Ketika saya berlatih dalam keheningan pukul 4 pagi, saya sangat yakin bahwa saya mengambil satu langkah di depan setiap pesaing secara kognitif.\" 🏀\n\nKobe Bryant (1978–2020) adalah salah satu pemain terbesar dalam sejarah NBA dan perwujudan dari dorongan kompetitif. Menghabiskan 20 musim secara eksklusif bersama Los Angeles Lakers, ia memenangkan 5 gelar juara NBA, meraih 18 kali seleksi All-Star, dan mengamankan 2 medali emas Olimpiade. Performa legendarisnya berasal langsung dari filosofinya yang tak tergoyahkan, 'Mamba Mentality'—dan fondasinya adalah rutinitas latihan pukul 4 pagi yang tanpa kompromi.\n\nSetiap hari pukul 4 pagi, saat dunia masih tertidur, Bryant menyalakan lampu ruang olahraga sendirian untuk latihan intensitas tinggi. Selama Olimpiade Beijing 2008, ketika rekan satu timnya di Tim AS masih tidur, Bryant telah menyelesaikan sesi beban dan tembakan yang intens sebelum matahari terbit, memberikan kejutan kognitif yang besar bagi rekan-rekannya. Dengan mengunci jangkar pukul 4 pagi yang tidak dapat ditawar ini, ia mendapatkan 1 atau 2 sesi latihan tambahan setiap hari dibandingkan rival-rivalnya. Secara neurosains dan fisiologis, kebangkitan pagi yang konsisten ini memprogram jam sirkadiannya ke dalam mode performa puncak.\n\nDalam postingan hari ini, kami menganalisis mekanisme fisiologis dan neurosains di balik rutinitas latihan pukul 4 pagi Kobe Bryant dan menyajikan rencana tindakan 3 langkah bagi masyarakat modern untuk menguasai ritme sirkadian mereka dan membuka kewaspadaan puncak sejak jam pertama hari itu."
     },
     "whyTitle": {
-      "ko": "새벽 각성이 신체 운동 신경과 일주기 리듬을 고정하는 생리적 기전"
+      "ko": "시교차상핵(SCN) 재정렬과 운동 신경 각성의 생리학적 메커니즘",
+      "en": "Physiological Mechanisms of Suprachiasmatic Nucleus (SCN) Realignment and Motor Neural Arousal",
+      "ja": "視交叉上核（SCN）再整列と運動神経覚醒の生理学的メカニズム",
+      "zh": "视交叉上核（SCN）重校准与运动神经唤醒的生理学机制",
+      "es": "Mecanismos Fisiológicos de Realineación del Núcleo Supraquiasmático (NSQ) y Estimulación Neuronal Motora",
+      "de": "Physiologische Mechanismen der Neuausrichtung des suprachiasmatischen Nukleus (SCN) und motorischen neuronalen Aktivierung",
+      "fr": "Mécanismes physiologiques du réalignement du noyau suprachiasmatique (NSQ) et d'éveil neuronal moteur",
+      "pt": "Mecanismos Fisiológicos de Realinhamento do Núcleo Supraquiasmático (NSQ) e Estimulação Neuronal Motora",
+      "id": "Mekanisme Fisiologis dari Penyelarasan Ulang Nukleus Suprakiasmatik (SCN) dan Stimulasi Saraf Motorik"
     },
     "whyDesc": {
-      "ko": "매일 똑같이 이른 새벽 시간대에 활발한 신체 운동을 실행하면 우리 몸의 생체 시계가 이에 정렬됩니다. 첫째, 뇌의 시교차상핵이 정해진 새벽 시간에 체온을 높이고 코르티솔 분비를 개시하도록 프로그래밍되어 기상 직후 발생하기 쉬운 운동 신경 저하를 무력화합니다. 둘째, 규칙적인 새벽 운동은 자율신경계가 대사 에너지를 조기에 최적 배분하도록 유도하여 신체 반응성과 심폐 효율을 주간 시간대만큼 민첩하게 끌어올립니다."
+      "ko": "매일 동일한 이른 새벽시간대에 신체 운동과 각성을 실행하면 시상하부의 '시교차상핵(SCN, Suprachiasmatic Nucleus)'이 해당 시각에 맞추어 생체 시계를 정렬합니다. 1) SCN은 정해진 새벽 시각에 맞춰 가시광선 입력 없이도 코르티솔(Cortisol) 분비를 개시하고 심기능 및 체온을 선제적으로 끌어올려 기상 직후의 수면 관성(Sleep Inertia) 및 운동 신경 저하를 무력화합니다. 2) 규칙적인 고강도 새벽 운동은 자율신경계(Autonomic Nervous System)의 대사 에너지를 조기에 최적 배분하도록 유도하여 신체 반응성과 심폐 효율, 집행 제어 기능을 주간 시간대만큼 민첩하게 가동시킵니다.",
+      "en": "Consistently executing high-intensity movement at an identical early-morning hour aligns the hypothalamus's 'Suprachiasmatic Nucleus (SCN)' to that schedule. 1) The SCN initiates early cortisol secretion and proactively raises core body temperature and cardiovascular tone, neutralizing post-waking sleep inertia and motor deficits. 2) Regular early workout routines condition the Autonomic Nervous System (ANS) to optimize metabolic energy allocation early in the day, elevating neuromuscular responsiveness, cardiorespiratory efficiency, and executive control to daytime peaks.",
+      "ja": "毎日同じ早朝の時間帯に身体運動と覚醒を実行すると、視床下部の「視交叉上核（SCN、Suprachiasmatic Nucleus）」が該当時刻に合わせて体内時計を整列させます。1）SCNは定められた早朝時刻に合わせて可視光線の入力がなくともコルチゾール（Cortisol）の分泌を開始し、心機能および体温を先制的に引き上げて、起床直後の睡眠慣性（Sleep Inertia）および運動神経の低下を無力化します。2）規則的な高強度の早朝運動は自律神経系（Autonomic Nervous System）の代謝エネルギーを早期に最適配分するよう誘導し、身体反応性と心肺効率、執行制御機能を昼間の時間帯と同じくらい敏捷に稼働させます。",
+      "zh": "每天在同一早晨固定时段展开身体运动与觉醒，会促使下丘脑的“视交叉上核（SCN，Suprachiasmatic Nucleus）”据此对生物钟进行精准对齐。1）SCN会在预设的凌晨时刻，即便在缺乏可见光刺激的情况下，也能提前启动皮质醇（Cortisol）分泌，并预先提升心功能与体温，从而消除刚起床时的睡眠惯性（Sleep Inertia）与运动神经迟钝。2）规律的高强度清晨运动能引导自主神经系统（Autonomic Nervous System）在早间进行代谢能量的优化分配，使神经肌肉敏捷度、心肺效率与执行控制功能达到白天的巅峰水平。",
+      "es": "Ejecutar de forma consistente ejercicio de alta intensidad a una hora matutina idéntica alinea el 'Núcleo Supraquiasmático (NSQ)' del hipotálamo a ese horario. 1) El NSQ inicia la secreción temprana de cortisol (Cortisol) y eleva de forma preventiva la temperatura corporal y el tono cardiovascular, neutralizando la inercia del sueño (Sleep Inertia) y los déficits motores tras despertar. 2) El ejercicio matutino regular condiciona el Sistema Nervioso Autónomo (SNA) para optimizar la asignación de energía metabólica temprano en el día, elevando la respuesta neuromuscular, la eficiencia cardiorrespiratoria y el control ejecutivo a picos diurnos.",
+      "de": "Das beständige Ausführen intensiven Trainings zur selben Morgenstunde richtet den 'Suprachiasmatischen Nukleus (SCN)' des Hypothalamus auf diesen Zeitplan aus. 1) Der SCN leitet die frühzeitige Cortisolausschüttung (Cortisol) ein und erhöht präventiv die Ker Körpertemperatur sowie die Herz-Kreislauf-Aktivität, was die Schlafträgheit (Sleep Inertia) und motorische Defizite nach dem Aufwachen neutralisiert. 2) Regelmäßiges frühes Training konditioniert das Autonome Nervensystem (ANS) darauf, die Stoffwechselenergie früh am Tag optimal zu verteilen, was die neuromuskuläre Reaktionsfähigkeit, die kardiorespiratorische Effizienz und die exekutive Steuerung auf Tageshöchstwerte hebt.",
+      "fr": "Exécuter de façon constante un entraînement de haute intensité à une heure matinale identique aligne le 'Noyau Suprachiasmatique (NSQ)' de l'hypothalamus sur cet horaire. 1) Le NSQ enclenche la sécrétion précoce de cortisol (Cortisol) et élève de manière préventive la température corporelle et le tonus cardiovasculaire, neutralisant l'inertie du sommeil (Sleep Inertia) et les déficits moteurs du réveil. 2) Un entraînement matinal régulier conditionne le Système Nerveux Autonome (SNA) à optimiser la répartition de l'énergie métabolique tôt dans la journée, élevant la réactivité neuromusculaire, l'efficacité cardiorespiratoire et le contrôle exécutif à des niveaux diurnes.",
+      "pt": "Executar de forma consistente treinos de alta intensidade em um horário matinal idêntico alinha o 'Núcleo Supraquiasmático (NSQ)' do hipotálamo a esse cronograma. 1) O NSQ inicia a secreção precoce de cortisol (Cortisol) e eleva preventivamente a temperatura corporal e o tônus cardiovascular, neutralizando a inércia do sono (Sleep Inertia) e déficits motores pós-despertar. 2) O treino matinal regular condiciona o Sistema Nervoso Autônomo (SNA) a otimizar a alocação de energia metabólica no início do dia, elevando a resposta neuromuscular, a eficiência cardiorrespiratória e o controle executivo a picos diurnos.",
+      "id": "Secara konsisten mengeksekusi gerakan intensitas tinggi pada jam pagi yang identik menyelaraskan 'Nukleus Suprakiasmatik (SCN)' hipotalamus ke jadwal tersebut. 1) SCN memulai sekresi kortisol (Cortisol) lebih awal dan secara proaktif meningkatkan suhu tubuh inti serta tonus kardiovaskular, menetralkan inersia tidur (Sleep Inertia) dan defisit motorik pasca-bangun. 2) Rutinitas latihan pagi yang teratur mengondisikan Sistem Saraf Otonom (ANS) untuk mengoptimalkan alokasi energi metabolik di awal hari, meningkatkan responsivitas neuromuskular, efisiensi kardiorespirasi, dan kontrol eksekutif ke puncak siang hari."
     },
     "cautionTitle": {
-      "ko": "주의사항 및 팁"
+      "ko": "주의사항 및 팁: 수면 총량(7~8시간) 확보 및 필수 웜업",
+      "en": "Caution & Tips: Securing Total Sleep Quantity (7–8 Hours) & Essential Warm-Up",
+      "ja": "注意事項＆ヒント：睡眠総量（7〜8時間）の確保と必須ウォーミングアップ",
+      "zh": "注意事项与提示：保障总睡眠时长（7-8小时）与必备热身",
+      "es": "Precauciones y Consejos: Garantizar la Cantidad Total de Sueño (7–8 Horas) y Calentamiento Esencial",
+      "de": "Vorsichtsmaßnahmen & Tipps: Sicherstellung der Gesamtschlafmenge (7–8 Stunden) & essenzielles Aufwärmen",
+      "fr": "Précautions & Conseils : Garantir un temps de sommeil total (7 à 8 heures) & Échauffement indispensable",
+      "pt": "Precauções e Dicas: Garantir a Quantidade Total de Sono (7–8 Horas) e Aquecimento Essencial",
+      "id": "Perhatian & Tip: Memastikan Jumlah Tidur Total (7–8 Jam) & Pemanasan Sangat Penting"
     },
     "cautionDesc": {
-      "ko": "새벽 기상은 수면 부족을 전제로 해서는 결코 성립될 수 없습니다. 새벽 4시에 일어나기 위해서는 전날 밤 9시에서 10시 사이에 잠드는 7~8시간의 수면 총량 확보가 선행되어야 합니다. 또한 새벽 직후에는 신체 관절과 혈관이 경직되어 있으므로 본 활동을 시작하기 전에 반드시 10분 이상의 온전한 웜업 스트레칭을 마쳐 부상을 방지해야 합니다."
+      "ko": "새벽 4시 기상은 수면 부족을 전제로 성립될 수 없습니다. 새벽 기상을 위해서는 전날 밤 9시~10시 사이에 취침하여 7~8시간의 필수 수면 시간을 확보하는 선행 조건이 필수적입니다. 수면을 줄인 상태에서의 새벽 루틴은 중추신경계 피로와 면역력 저하를 초과 유발합니다. 또한 새벽 직후에는 신체 관절, 인대, 혈관이 경직되어 있으므로 본 활동 시작 전 반드시 10분 이상의 관절 웜업과 동적 스트레칭을 이행해야 부상을 예방할 수 있습니다.",
+      "en": "A 4 AM wake-up routine cannot succeed on sleep deprivation. To rise at 4 AM, you must secure 7 to 8 hours of essential sleep by going to bed between 9 PM and 10 PM the night before. Executing early routines on sleep deficit induces central nervous system fatigue and immune suppression. Furthermore, because joints, ligaments, and blood vessels are rigid right after waking, performing at least 10 minutes of dynamic warm-up and joint mobilization is mandatory to prevent injury.",
+      "ja": "午前4時起床は睡眠不足を前提として成立することはできません。午前4時に起きるためには、前日の夜9時〜10時の間に就寝し、7〜8時間の必須睡眠時間を確保する先行条件が不可欠です。睡眠を削った状態での早朝ルーティンは、中枢神経系の疲労と免疫力の低下を過剰に引き起こします。また、早朝直後は身体の関節、靭帯、血管が硬直しているため、本活動を開始する前に必ず10分以上の関節ウォーミングアップと動的ストレッチを行い、怪我を予防しなければなりません。",
+      "zh": "凌晨4点起床习惯绝对不能建立在牺牲睡眠的基础上。为保证凌晨4点顺畅起床，前提条件必须是前晚9点至10点之间入睡，确保7-8小时的刚性睡眠时间。在睡眠不足状态下硬撑早起，会导致中枢神经系统严重疲劳与免疫力下降。此外，晨起之初关节、韧带与血管处于僵硬状态，在开始主线活动前务必进行10分钟以上的动态热身与关节激活，以防运动损伤。",
+      "es": "Una rutina de despertarse a las 4 AM no puede prosperar con privación de sueño. Para levantarse a las 4 AM, es imprescindible acostarse entre las 9 PM y las 10 PM la noche anterior para garantizar de 7 a 8 horas de sueño esencial. Realizar rutinas tempranas con déficit de sueño provoca fatiga del sistema nervioso central y supresión inmunológica. Además, como las articulaciones y los vasos sanguíneos están rígidos al despertar, es obligatorio realizar al menos 10 minutos de calentamiento dinámico para prevenir lesiones.",
+      "de": "Eine Routine mit Aufstehen um 4 Uhr morgens kann bei Schlafmangel nicht funktionieren. Um um 4 Uhr aufzustehen, müssen Sie am Vorabend zwischen 21 und 22 Uhr ins Bett gehen, um 7 bis 8 Stunden Schlaf zu sichern. Das Ausführen von Frühroutinen bei Schlafdefizit führt zu zentralnervöser Erschöpfung und Immunschwäche. Da Gelenke und Gefäße nach dem Aufwachen steif sind, ist ein mindestens 10-minütiges dynamisches Aufwärmen Pflicht, um Verletzungen vorzubeugen.",
+      "fr": "Une routine de réveil à 4h ne peut fonctionner sur la privation de sommeil. Pour vous lever à 4h, vous devez impérativement vous coucher entre 21h et 22h la veille pour garantir 7 à 8 heures de sommeil. Exécuter des routines matinales en manque de sommeil entraîne une fatigue du système nerveux central et une baisse de l'immunité. De plus, les articulations et vaisseaux sanguins étant rigides au réveil, un échauffement dynamique d'au moins 10 minutes est obligatoire pour éviter les blessures.",
+      "pt": "Uma rotina de acordar às 4h não pode funcionar sob privação de sono. Para se levantar às 4h, é indispensável ir para a cama entre 21h e 22h na noite anterior para garantir de 7 a 8 horas de sono essencial. Executar rotinas matinais sob déficit de sono induz fadiga do sistema nervoso central e queda na imunidade. Além disso, como articulações e vasos sanguíneos estão rígidos ao acordar, realizar pelo menos 10 minutos de aquecimento dinâmico é obrigatório para prevenir lesões.",
+      "id": "Rutinitas bangun pukul 4 pagi tidak dapat berhasil jika didasarkan pada kurang tidur. Untuk bangun pukul 4 pagi, Anda harus memastikan 7 hingga 8 jam tidur penting dengan tidur antara pukul 21.00 dan 22.00 pada malam sebelumnya. Melakukan rutinitas pagi saat kurang tidur menyebabkan kelelahan sistem saraf pusat dan penurunan kekebalan tubuh. Lebih jauh lagi, karena sendi, ligamen, dan pembuluh darah bersifat kaku tepat setelah bangun, melakukan pemanasan dinamis minimal 10 menit adalah hal yang wajib untuk mencegah cedera."
     },
     "steps": [
       {
         "name": {
-          "ko": "전날 취침 타이밍 통제 및 수면량 확보"
+          "ko": "1단계: 전날 취침 타임라인 통제 및 수면량 확보",
+          "en": "Step 1: Controlling Evening Bedtime & Securing Total Sleep Hours",
+          "ja": "ステップ1：前日の就寝タイムラインの統制と睡眠量の確保",
+          "zh": "步骤1：掌控前晚入睡时间线与保障睡眠总量",
+          "es": "Paso 1: Control del Horario Nocturno y Garantía de Horas de Sueño",
+          "de": "Schritt 1: Kontrolle der Schlafenszeit am Vorabend & Sicherung der Schlafstunden",
+          "fr": "Étape 1 : Contrôle de l'heure du coucher la veille & Respect du temps de sommeil",
+          "pt": "Passo 1: Controle do Horário de Dormir na Noite Anterior e Garantia de Horas de Sono",
+          "id": "Langkah 1: Mengontrol Jadwal Tidur Malam Hari & Memastikan Jumlah Jam Tidur"
         },
         "text": {
-          "ko": "새벽 4시 기상을 위해 전날 저녁 10시 이전에 불을 끄고 누우며, 스마트폰 차단 등 침실 환경을 어둡게 제어해 7시간 이상의 순수 수면 시간을 지켜냅니다."
+          "ko": "새벽 4시 기상을 위해 전날 저녁 10시 이전 암막 환경을 조성하고 수면 모드로 들어갑니다. 스마트폰을 차단하고 7시간 이상의 순수 수면 시간을 확보합니다.",
+          "en": "To wake up at 4 AM, create a blackout bedroom environment before 10 PM the previous night. Turn off smartphones and secure over 7 hours of undisturbed sleep.",
+          "ja": "午前4時起床のため、前日の夜10時前に遮光環境を作り、睡眠モードに入ります。スマートフォンを遮断し、7時間以上の純粋な睡眠時間を確保します。",
+          "zh": "为保障凌晨4点顺利起床，在前晚10点前营造全黑卧室环境并进入睡眠模式。切断手机干扰，保障7小时以上的纯粹睡眠时长。",
+          "es": "Para despertarse a las 4 AM, cree un entorno a oscuras antes de las 10 PM de la noche anterior. Apague el teléfono inteligente y garantice más de 7 horas de sueño ininterrumpido.",
+          "de": "Schaffen Sie am Vorabend vor 22 Uhr eine abgedunkelte Schlafzimmerumgebung, um um 4 Uhr aufzustehen. Schalten Sie Smartphones aus und sichern Sie über 7 Stunden ungestörten Schlaf.",
+          "fr": "Pour vous lever à 4h, créez un environnement sombre dans la chambre avant 22h la veille. Éteignez votre smartphone et garantissez plus de 7 heures de sommeil ininterrompu.",
+          "pt": "Para acordar às 4h, crie um ambiente totalmente escuro antes das 22h da noite anterior. Desligue o smartphone e garanta mais de 7 horas de sono ininterrupto.",
+          "id": "Untuk bangun pukul 4 pagi, ciptakan lingkungan kamar tidur yang gelap sebelum pukul 22.00 malam sebelumnya. Matikan smartphone dan pastikan tidur tanpa gangguan selama lebih dari 7 jam."
         }
       },
       {
         "name": {
-          "ko": "즉시 기상 및 온전한 관절 웜업"
+          "ko": "2단계: 즉각 기상 후 미지근한 수분 공급 및 10분 관절 웜업",
+          "en": "Step 2: Immediate Rising, Lukewarm Hydration & 10-Minute Joint Warm-Up",
+          "ja": "ステップ2：即座の起床後のぬるま湯の水分補給と10分間の関節ウォーミングアップ",
+          "zh": "步骤2：即时起床、饮用温水与10分钟关节热身",
+          "es": "Paso 2: Levantarse de Inmediato, Hidratación con Agua Tibia y Calentamiento de 10 Minutos",
+          "de": "Schritt 2: Sofortiges Aufstehen, lauwarme Hydratisierung & 10-minütiges Gelenk-Aufwärmen",
+          "fr": "Étape 2 : Réveil immédiat, hydratation à l'eau tiède & 10 minutes d'échauffement articulaire",
+          "pt": "Passo 2: Levantar-se de Imediato, Hidratação com Água Morna e Aquecimento de 10 Minutos",
+          "id": "Langkah 2: Bangun Segera, Hidrasi Air Hangat & Pemanasan Sendi 10 Menit"
         },
         "text": {
-          "ko": "알람 소리에 고민 없이 몸을 일으켜 따뜻한 물 한 잔을 마신 뒤, 10분간 손목, 발목, 목, 허리를 늘려주는 스트레칭으로 신체 온도를 올립니다."
+          "ko": "알람 소리에 머뭇거리지 않고 몸을 일으켜 미지근한 물 한 잔을 마십니다. 이후 10분간 관절 회전, 목, 허리, 발목 동적 스트레칭으로 신체 체온을 올립니다.",
+          "en": "Rise immediately upon hearing the alarm without hesitation and drink a glass of lukewarm water. Perform 10 minutes of dynamic stretching—focusing on joints, neck, waist, and ankles—to raise body temperature.",
+          "ja": "アラーム音にためらうことなく身体を起こし、ぬるま湯を1杯飲みます。その後10分間、関節の回転、首、腰、足首の動的ストレッチで身体の体温を上げます。",
+          "zh": "听见闹钟响声毫不犹豫立即起身，饮用一杯温水。随后进行10分钟的动态拉伸（重点旋转活动关节、颈部、腰部与踝部），以提升体温。",
+          "es": "Levántese de inmediato al sonar la alarma sin dudar y beba un vaso de agua tibia. Realice 10 minutos de estiramientos dinámicos —centrándose en articulaciones, cuello, cintura y tobillos— para elevar la temperatura corporal.",
+          "de": "Stehen Sie beim Klingeln des Weckers ohne Zögern auf und trinken Sie ein Glas lauwarmes Wasser. Führen Sie 10 Minuten lang dynamisches Dehnen durch, um die Körpertemperatur zu erhöhen.",
+          "fr": "Levez-vous immédiatement au son de l'alarme sans hésiter et buvez un verre d'eau tiède. Effectuez 10 minutes d'étirements dynamiques — ciblant les articulations, le cou, la taille et les chevilles — pour élever la température corporelle.",
+          "pt": "Levante-se de imediato ao tocar o alarme sem hesitar e beba um copo de água morna. Realize 10 minutos de alongamentos dinâmicos — focando em articulações, pescoço, cintura e tornozelos — para elevar a temperatura corporal.",
+          "id": "Bangun segera saat mendengar alarm tanpa ragu-ragu dan minumlah segelas air hangat. Lakukan pemanasan dinamis selama 10 menit—berfokus pada sendi, leher, pinggang, dan pergelangan kaki—untuk meningkatkan suhu tubuh."
         }
       },
       {
         "name": {
-          "ko": "점진적 강도 조절과 첫 루틴 시작"
+          "ko": "3단계: 점진적 강도 조절을 통한 첫 메인 루틴 수행",
+          "en": "Step 3: Gradually Ramping Intensity & Executing Your Primary Morning Routine",
+          "ja": "ステップ3：漸進的な強度調節を通じた最初のメインルーティンの遂行",
+          "zh": "步骤3：循序渐进调节强度与展开首个核心主线",
+          "es": "Paso 3: Incremento Gradual de Intensidad y Ejecución de la Primera Rutina Principal",
+          "de": "Schritt 3: Stufenweise Intensitätssteigerung & Ausführung der ersten Hauptroutine",
+          "fr": "Étape 3 : Augmentation progressive de l'intensité & Exécution de la première routine principale",
+          "pt": "Passo 3: Aumento Gradual de Intensidade e Execução da Primeira Rotina Principal",
+          "id": "Langkah 3: Meningkatkan Intensitas secara Bertahap & Mengeksekusi Rutinitas Utama Pertama"
         },
         "text": {
-          "ko": "가벼운 훈련이나 집중을 요하는 독서, 작업 등 자신이 정한 아침의 첫 목표 행동을 개시하되, 초반 20분은 낮은 강도로 진행하며 점진적으로 몰입도를 높입니다."
+          "ko": "운동, 독서, 서류 집필 등 그날의 첫 목표 행동에 착수하되, 초반 20분은 낮고 가벼운 강도로 진행하여 뇌와 신체를 부드럽게 몰입 상태로 유도합니다.",
+          "en": "Initiate your morning target task—whether workout, focused reading, or deep writing—maintaining low-to-moderate intensity for the first 20 minutes to transition your brain smoothly into deep immersion.",
+          "ja": "運動、読書、書類執筆など、その日の最初の目標行動に着手しますが、前半の20分は低く軽い強度で進め、脳と身体をスムーズに没頭状態へと誘導します。",
+          "zh": "投入当天的首个目标任务（如运动、沉浸式阅读或深度写作），在前20分钟内保持中低强度，平稳引导大脑与身体过渡至高阶专注状态。",
+          "es": "Inicie su primera tarea objetivo del día —ya sea ejercicio, lectura profunda o escritura—, manteniendo una intensidad baja o moderada durante los primeros 20 minutos para guiar al cerebro hacia una inmersión profunda.",
+          "de": "Beginnen Sie mit Ihrer ersten Zielaufgabe des Morgens – ob Training, vertieftes Lesen oder Schreiben –, wobei Sie in den ersten 20 Minuten eine geringe Intensität beibehalten, um Ihr Gehirn sanft in den Fokus zu führen.",
+          "fr": "Entamez votre première tâche cible de la journée — qu'il s'agisse de sport, de lecture ou d'écriture —, en maintenant une intensité faible à modérée pendant les 20 premières minutes pour guider votre cerveau vers une immersion profonde.",
+          "pt": "Inicie sua primeira tarefa do dia — seja exercício, leitura profunda ou escrita —, mantendo uma intensidade baixa a moderada nos primeiros 20 minutos para guiar suavemente o cérebro ao estado de imersão profunda.",
+          "id": "Mulailah tugas target pagi Anda—baik itu olahraga, membaca fokus, atau penulisan mendalam—menjaga intensitas rendah hingga sedang selama 20 menit pertama untuk mentransisikan otak Anda secara mulus ke dalam imersi mendalam."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "주말에도 새벽 4시에 일어나야 하나요?"
+          "ko": "주말이나 휴일에도 새벽 4시 기상 시간을 똑같이 유지해야 하나요?",
+          "en": "Should I strictly maintain the 4 AM wake-up schedule on weekends and holidays?",
+          "ja": "週末や休日にも午前4時の起床時間を同じように維持しなければなりませんか？",
+          "zh": "周末或节假日也必须严格保持凌晨4点起床吗？",
+          "es": "¿Debo mantener estrictamente el horario de despertar a las 4 AM los fines de semana y festivos?",
+          "de": "Sollte ich den Zeitplan mit Aufstehen um 4 Uhr morgens auch an Wochenenden und Feiertagen strikt einhalten?",
+          "fr": "Faut-il maintenir strictement l'horaire de réveil à 4h du matin le week-end et les jours fériés ?",
+          "pt": "Devo manter estritamente o horário de acordar às 4h nos fins de semana e feriados?",
+          "id": "Apakah saya harus mempertahankan jadwal bangun pukul 4 pagi secara ketat di akhir pekan dan hari libur?"
         },
         "answer": {
-          "ko": "일주기 리듬의 생리적 교정을 위해서는 주말과 평일의 기상 시간 오차를 최대 1시간 이내로 조율하는 것이 권장됩니다. 주말에 과도한 늦잠을 자게 되면 뇌의 생체 시계가 리셋되어 평일 새벽 기상의 고통이 가중되므로 일관성을 지키는 것이 이롭습니다."
+          "ko": "일주기 리듬의 완벽한 생리적 교정을 위해서는 주말과 평일의 기상 시간 오차를 최대 1시간 이내로 통제하는 것이 이상적입니다. 주말에 과도한 늦잠을 자게 되면 SCN의 생체 시계가 리셋되어 평일 새벽 기상의 피로감이 가중되므로 생체 일관성을 지키는 것이 유익합니다.",
+          "en": "For optimal circadian alignment, it is ideal to keep weekend wake-up variations within 1 hour of your weekday routine. Excessive weekend sleeping resets the SCN's internal clock, compounding Monday morning fatigue. Consistency is key to preserving circadian health.",
+          "ja": "概日リズムの完璧な生理的校正のためには、週末と平日における起床時間の誤差を最大1時間以内に統制することが理想的です。週末に過度な寝坊をするとSCNの体内時計がリセットされ、平日の早朝起床の疲労感が増大するため、生体の一貫性を守ることが有益です。",
+          "zh": "为了实现昼夜节律的最佳生理校准，建议将周末与平时的起床时间偏差控制在1小时以内。周末若过度补觉沉睡，会导致SCN的生物钟发生紊乱，进而加重周一早起时的疲劳感。保持生物节律的一致性大有裨益。",
+          "es": "Para una alineación circadiana óptima, lo ideal es mantener las variaciones del despertar de fin de semana dentro de 1 hora con respecto a la rutina diaria. Dormir en exceso el fin de semana reinicia el reloj interno del NSQ, aumentando la fatiga matutina en días laborables. La consistencia es clave.",
+          "de": "Für eine optimale Anpassung des zirkadianen Rhythmus ist es ideal, die Abweichungen der Aufstehzeit am Wochenende auf maximal 1 Stunde zu begrenzen. Exzessives Ausschlafen am Wochenende setzt die innere Uhr des SCN zurück und verstärkt die Müdigkeit unter der Woche. Beständigkeit ist entscheidend.",
+          "fr": "Pour un alignement circadien optimal, il est idéal de maintenir les variations de réveil du week-end à moins d'une heure d'écart par rapport à la semaine. Un sommeil excessif le week-end réinitialise l'horloge interne du NSQ, ce qui accentue la fatigue le reste de la semaine. La régularité est primordiale.",
+          "pt": "Para um alinhamento circadiano ideal, o recomendável é manter as variações do despertar nos fins de semana em no máximo 1 hora em relação à rotina dos dias úteis. Dormir demais no fim de semana reinicia o relógio interno do NSQ, aumentando a fadiga matinal durante a semana. A consistência é fundamental.",
+          "id": "Untuk penyelarasan sirkadian yang optimal, idealnya jaga variasi bangun tidur di akhir pekan dalam rentang 1 jam dari rutinitas hari kerja Anda. Tidur berlebihan di akhir pekan mereset jam internal SCN, memperparah kelelahan di pagi hari kerja. Konsistensi adalah kunci untuk menjaga kesehatan sirkadian."
+        }
+      },
+      {
+        "question": {
+          "ko": "새벽 4시 운동 직후 지적 작업(업무, 독서)을 수행하면 두뇌 집중력에 도움이 되나요?",
+          "en": "Does performing intellectual tasks (work, reading) immediately following a 4 AM workout boost brain focus?",
+          "ja": "午前4時の運動直後に知的作業（業務、読書）を行うと、脳の集中力に役立ちますか？",
+          "zh": "凌晨4点运动后立即开展智力工作（如工作、阅读），是否有助于提升大脑专注力？",
+          "es": "¿Realizar tareas intelectuales (trabajo, lectura) inmediatamente después de un entrenamiento a las 4 AM mejora la concentración cerebral?",
+          "de": "Fördert das Ausführen intellektueller Aufgaben (Arbeit, Lesen) direkt nach einem 4-Uhr-Training die Konzentration?",
+          "fr": "Réaliser des tâches intellectuelles (travail, lecture) immédiatement après un entraînement à 4h améliore-t-il la concentration ?",
+          "pt": "Realizar tarefas intelectuais (trabalho, leitura) imediatamente após um treino às 4h melhora a concentração cerebral?",
+          "id": "Apakah melakukan tugas-tugas intelektual (pekerjaan, membaca) segera setelah latihan pukul 4 pagi meningkatkan fokus otak?"
+        },
+        "answer": {
+          "ko": "네, 매우 강력한 시너지를 냅니다. 고강도 및 유산소 운동 직후 방출되는 뇌유래신경영양인자(BDNF)와 도파민, 노르에피네프린의 조합은 시냅스 가소성을 최상으로 끌어올리므로, 운동 후 1~2시간 동안 깊은 지적 작업이나 학습을 수행하면 인지 흡수율과 작업 기억력이 극대화됩니다.",
+          "en": "Yes, it creates a powerful cognitive synergy. The surge of BDNF, dopamine, and norepinephrine released right after aerobic and strength training elevates synaptic neuroplasticity. Engaging in deep intellectual work or learning for 1 to 2 hours post-workout maximizes cognitive retention and prefrontal working memory.",
+          "ja": "はい、非常に強力なシナジーを生み出します。高強度および有酸素運動の直後に放出される脳由来神経栄養因子（BDNF）とドパミン、ノルアドレナリンの組み合わせはシナプス可塑性を最上に引き上げるため、運動後1〜2時間で深い知的作業や学習を行うと、認知吸収率と作業記憶力が極大化されます。",
+          "zh": "是的，能产生极其强大的协同效应。有氧与力量训练后立即促发的脑源性神经营养因子（BDNF）、多巴胺与去甲肾上腺素组合，能将突触可塑性推向巅峰。在运动后的1-2小时内展开深度智力工作或学习，可使认知吸收率与工作记忆力提升至最大化。",
+          "es": "Sí, crea una poderosa sinergia cognitiva. La oleada de BDNF, dopamina y norepinefrina liberada tras el ejercicio eleva la neuroplasticidad sináptica al máximo. Dedicarse al trabajo intelectual profundo o al aprendizaje durante 1 a 2 horas después del entrenamiento maximiza la retención y la memoria de trabajo.",
+          "de": "Ja, es erzeugt eine kognitive Synergie. Die Ausschüttung von BDNF, Dopamin und Norepinephrin direkt nach dem Training hebt die synaptische Neuroplastizität auf Höchstwerte. Das Ausführen tiefer intellektueller Arbeit in den 1 bis 2 Stunden nach dem Training maximiert die Informationsaufnahme und das Arbeitsgedächtnis.",
+          "fr": "Oui, cela crée une puissante synergie cognitive. Le pic de BDNF, de dopamine et de noradrénaline libéré juste après l'exercice élève la neuroplasticité synaptique à son niveau maximal. S'adonner à un travail intellectuel profond pendant 1 à 2 heures après l'entraînement séduit une rétention cognitive et une mémoire de travail optimales.",
+          "pt": "Sim, cria uma poderosa sinergia cognitiva. A onda de BDNF, dopamina e noradrenalina liberada após o exercício eleva a neuroplasticidade sináptica ao nível máximo. Dedicar-se ao trabalho intelectual profundo ou aprendizado por 1 a 2 horas após o treino maximiza a retenção cognitiva e a memória de trabalho.",
+          "id": "Ya, ini menciptakan sinergi kognitif yang sangat kuat. Pelepasan BDNF, dopamin, dan norepinefrin tepat setelah olahraga meningkatkan neuroplastisitas sinaptik ke tingkat tertinggi. Melakukan pekerjaan intelektual mendalam atau pembelajaran selama 1 hingga 2 jam setelah berolahraga memaksimalkan retensi kognitif dan memori kerja."
         }
       }
     ]

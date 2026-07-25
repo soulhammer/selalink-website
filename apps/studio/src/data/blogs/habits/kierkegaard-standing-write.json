@@ -1,70 +1,214 @@
 {
   "kierkegaard-standing-write": {
     "title": {
-      "ko": "산책하고 오자마자 모자 쓴 채 서서 글을 쓴 철학자? 키르케고르의 즉시 포착 습관"
+      "ko": "산책하고 오자마자 모자 쓴 채 서서 글을 쓴 철학자: 쇠렌 키르케고르의 즉시 포착 습관과 인지적 예열",
+      "en": "Writing Standing Up in a Hat Right After Walking: Søren Kierkegaard's Instant Capture Habit and Cognitive Warm-Up",
+      "ja": "散歩から戻るやいなや帽子を被ったまま立って文章を書いた哲学者：セーレン・キルケゴールの即時捕捉習慣と知的ウォーミングアップ",
+      "zh": "踱步归来即刻戴帽站立挥毫：索伦·克尔凯郭尔的即时捕获习惯与认知预热指南",
+      "es": "Escribir de Pie con Sombrero Justo Después de Caminar: El Hábito de Captura Inmediata y Calentamiento Cognitivo de Søren Kierkegaard",
+      "de": "Direkt nach dem Spaziergang mit Hut im Stehen schreiben: Søren Kierkegaards Sofort-Erfassungs-Routine und kognitives Aufwärmen",
+      "fr": "Écrire debout avec son chapeau juste après la marche : La routine de capture instantanée et d'échauffement cognitif de Søren Kierkegaard",
+      "pt": "Escrever de Pé com Chapéu Logo Após Caminhar: O Hábito de Captura Imediata e Aquecimento Cognitivo de Søren Kierkegaard",
+      "id": "Menulis Sambil Berdiri Mengenakan Topi Segera Setelah Jalan-Jalan: Kebiasaan Penangkapan Instan dan Pemanasan Kognitif Søren Kierkegaard"
     },
     "description": {
-      "ko": "실존주의 철학자 쇠렌 키르케고르가 번뜩이는 사색을 잃지 않았던 방법. 문을 열자마자 옷도 벗지 않고 스탠딩 책상으로 향해 서서 글을 썼던 그의 독특한 영감 보존법을 파헤쳐 봅니다."
+      "ko": "실존주의 철학자 쇠렌 키르케고르가 번뜩이는 사색을 잃지 않았던 방법. 문을 열자마자 옷도 벗지 않고 스탠딩 책상으로 향해 서서 글을 썼던 그의 독특한 영감 보존법과 인지적 예열, 작업 기억 보존의 뇌과학을 알아봅니다.",
+      "en": "Discover how existentialist philosopher Søren Kierkegaard preserved fleeting insights by writing standing up at tall desks immediately after walks without taking off his hat or coat. Explore the neuroscience of cognitive warm-up, working memory preservation, and attention residue prevention.",
+      "ja": "実存主義哲学者セーレン・キルケゴールがひらめく思索を失わなかった方法。ドアを開けるやいなや上着も脱がずにスタンディングデスクに向かい立って文章を書いた彼のユニークなインスピレーション保存法と、知的ウォーミングアップ、作業記憶保存の脳科学を解き明かします。",
+      "zh": "探索存在主义哲学先驱索伦·克尔凯郭尔如何在推门归家之际，连外套帽子都顾不上脱下便直奔立式书桌站立记录。揭示认知预热、工作记忆保留、防范注意力残留（Attention Residue）与3步骤实践指南。",
+      "es": "Descubra cómo el filósofo existencialista Søren Kierkegaard preservaba sus ideas escribiendo de pie en escritorios altos justo después de caminar, sin quitarse el sombrero ni el abrigo. Explore la neurociencia del calentamiento cognitivo y la memoria de trabajo.",
+      "de": "Erfahren Sie, wie der Existenzphilosoph Søren Kierkegaard flüchtige Gedanken bewahrte, indem er direkt nach Spaziergängen mit Hut und Mantel an Stehpulten schrieb. Entdecken Sie die Neurowissenschaften von kognitivem Aufwärmen und Arbeitsgedächtnis.",
+      "fr": "Découvrez comment le philosophe existentialiste Søren Kierkegaard préservait ses intuitions en écrivant debout à des pupitres hauts dès son retour de marche, sans retirer son chapeau ni son manteau. Explorez la neuroscience de l'échauffement cognitif et de la mémoire de travail.",
+      "pt": "Descubra como o filósofo existencialista Søren Kierkegaard preservava suas ideias escrevendo de pé em escrivaninhas altas logo após caminhar, sem tirar o chapéu nem o sobretudo. Explore a neurociência do aquecimento cognitivo e memória de trabalho.",
+      "id": "Pelajari bagaimana filsuf eksistensialis Søren Kierkegaard melestarikan wawasan yang sekilas dengan menulis sambil berdiri di meja tinggi segera setelah jalan-jalan tanpa melepas topi atau mantelnya. Temukan neurosains pemanasan kognitif."
     },
     "authority": {
-      "ko": "쇠렌 키르케고르 일기 사료 『키르케고르의 일기(Journals of Søren Kierkegaard)』 및 평전 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+      "ko": "쇠렌 키르케고르 일기 사료 『키르케고르의 일기(Journals of Søren Kierkegaard)』 및 평전 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+      "en": "Historical Verification from *The Journals of Søren Kierkegaard*, Joakim Garff's *Søren Kierkegaard: A Biography* & Cognitive Neuroscience Research",
+      "ja": "セーレン・キルケゴール日記史料『キルケゴールの日記（Journals of Søren Kierkegaard）』および評伝史料考証＆認知神経科学（Cognitive Neuroscience）研究",
+      "zh": "索伦·克尔凯郭尔日记史料《克尔凯郭尔日记（Journals of Søren Kierkegaard）》与约阿希姆·加尔夫（Joakim Garff）传记史料考证及认知神经科学（Cognitive Neuroscience）研究",
+      "es": "Verificación Histórica de los *Diarios de Søren Kierkegaard*, Biografía de Joakim Garff e Investigación en Neurociencia Cognitiva",
+      "de": "Historische Überprüfung aus den *Tagebüchern von Søren Kierkegaard*, Joakim Garffs Biografie & Forschung der kognitiven Neurowissenschaften",
+      "fr": "Vérification Historique issue des *Journaux de Søren Kierkegaard*, de la biographie de Joakim Garff & de la Recherche en Neurosciences Cognitives",
+      "pt": "Verificação Histórica dos *Diários de Søren Kierkegaard*, Biografia de Joakim Garff e Pesquisa em Neurociência Cognitiva",
+      "id": "Verifikasi Historis dari *Journals of Søren Kierkegaard*, Biografi karya Joakim Garff & Penelitian Neurosains Kognitif"
     },
     "intro": {
-      "ko": "\"나는 걸으면서 내 최고의 생각들을 얻었다. 걸어서 해결할 수 없을 만큼 무거운 생각이란 없다.\" 🎩\n\n19세기 덴마크가 낳은 실존주의 철학의 선구자이자 신학자인 쇠렌 키르케고르. 그는 오직 개별적인 인간 주체의 주관적 진리를 탐구하며 단독자로서의 고뇌를 치열하게 철학적 문장으로 승화시켰습니다.\n\n그가 남긴 예리하고 독창적인 철학적 아포리즘과 수많은 저술들은 집 안 곳곳에 설치되었던 여러 개의 높은 책상들에서 완성되었습니다. 키르케고르는 날씨와 관계없이 매일 코펜하겐 거리를 천천히 유람하며 사색하는 독특한 산책가였습니다. 그는 길에서 건져 올린 영감이 집 안에서 겉옷을 정리하고 신발을 벗는 가사 일상 속에 휘발되어 버리는 것을 병적으로 염려했습니다. 그리하여 그는 문을 열고 방에 들어오자마자 모자와 외출복을 입은 상태 그대로 높은 책상 앞에 버티고 서서 생각들을 즉시 기록했습니다. 키르케고르에게 서서 빠르게 글을 받아 적는 것은 산책의 열정이 완전히 소실되기 전에 지면 위에 영감을 동결시키는 소중한 습관이었습니다.\n\n오늘 포스트에서는 키르케고르의 입식 집필 루틴에 깃든 뇌과학적 원리와 일상 속 유동적인 아이디어를 손실 없이 스마트하게 포착하는 즉각적 기록법을 전해 드립니다."
+      "ko": "\"나는 걸으면서 내 최고의 생각들을 얻었다. 걸어서 해결할 수 없을 만큼 무거운 생각이란 없다.\" 🎩\n\n19세기 덴마크가 낳은 실존주의 철학의 선구자이자 신학자인 쇠렌 키르케고르(Søren Kierkegaard, 1813–1855). 그는 오직 개별적인 인간 주체의 주관적 진리를 탐구하며 『이것이냐 저것이냐』, 『공포와 전율』 등 단독자로서의 고뇌를 치열하게 철학적 문장으로 승화시켰습니다.\n\n그가 남긴 예리하고 독창적인 철학적 아포리즘과 수많은 저술들은 집 안 곳곳에 설치되었던 여러 개의 높은 스탠딩 책상들에서 완성되었습니다. 키르케고르는 날씨와 관계없이 매일 코펜하겐 거리를 천천히 유람하며 사색하는 독특한 산책가였습니다. 그는 길에서 건져 올린 영감이 집 안에서 겉옷을 정리하고 신발을 벗는 가사 일상 속에 휘발되어 버리는 것을 병적으로 염려했습니다. 그리하여 그는 문을 열고 방에 들어오자마자 모자와 외출복을 입은 상태 그대로 높은 책상 앞에 버티고 서서 생각들을 즉시 기록했습니다. 키르케고르에게 서서 빠르게 글을 받아 적는 것은 산책의 열정과 운동성 각성이 완전히 소실되기 전에 지면 위에 영감을 동결시키는 소중한 습관이었습니다.\n\n오늘 포스트에서는 키르케고르의 입식 집필 루틴에 깃든 뇌과학적 원리와 일상 속 유동적인 아이디어를 손실 없이 스마트하게 포착하는 즉각적 기록법을 전해 드립니다.",
+      "en": "\"I have walked myself into my best thoughts, and I know of no thought so burdensome that one cannot walk away from it.\" 🎩\n\nSøren Kierkegaard (1813–1855) was the 19th-century Danish theologian and philosopher widely regarded as the father of Christian existentialism. Exploring subjective truth, individual despair, and personal faith in masterworks like *Either/Or* and *Fear and Trembling*, Kierkegaard produced an astonishing volume of razor-sharp philosophical prose.\n\nHis secret to capturing brilliant ideas lay in a distinct physical habit. Kierkegaard walked through the streets of Copenhagen every day, engaging in lively mental wanderings. However, he harbored a near-obsessive fear that the brilliant epiphanies harvested on the street would evaporate during the mundane transition of entering his home—taking off his coat, hanging up his hat, or sitting down. To prevent this cognitive loss, Kierkegaard strategically placed high standing desks throughout his apartment. The moment he unlocked his door, without even removing his top hat, coat, or walking stick, he walked straight to a standing desk and immediately transcribed his thoughts. Standing up while writing locked in the momentum of his walk before attentional decay set in.\n\nIn today's post, we examine the cognitive neuroscience behind Søren Kierkegaard's 'standing instant capture' routine and present a modern 3-step action guide to capture ideas seamlessly during cognitive warm-up.",
+      "ja": "「私は歩くことで最高の思考を得た。歩いて解決できないほど重い思考など存在しない。」 🎩\n\n19世紀デンマークが生んだ実存主義哲学の先駆者であり神学者、セーレン・キルケゴール（Søren Kierkegaard、1813–1855）。彼はただ個別的な人間主体の主観的真理を探求し、『あれかこれか』、『恐れと戦慄』など単独者としての苦悩を熾烈に哲学的文章へと昇華させました。\n\n彼が残した鋭く独創的な哲学的アフォリズムと数々の著述は、家の中の至る所に設置されていた複数の高いスタンディングデスクで完成されました。キルケゴールは天候に関係なく、毎日コペンハーゲンの街をゆっくりと歩き回りながら思索するユニークな散歩家でした。彼は道で拾い上げたインスピレーションが、家の中で上着を整理し靴を脱ぐという家事日常の中に揮発してしまうことを病的に恐れました。そのため、彼はドアを開けて部屋に入るやいなや、帽子と外出着を着用した状態のまま高いデスクの前に仁王立ちして、思考を即座に記録しました。キルケゴールにとって立って素早く文章を書き留めることは、散歩の情熱と運動性覚醒が完全に消失する前に、紙の上にインスピレーションを凍結させる貴重な習慣だったのです。\n\n本日の記事では、キルケゴールの立式執筆ルーティンに宿る脳科学的原理と、日常の中の流動的なアイデアを損失なくスマートに捕捉する即時的記録法をお伝えします。",
+      "zh": "“我借由踱步寻得了我至为卓绝的思想。世上绝无沉重至无法通过踱步解降的思虑。” 🎩\n\n作为19世纪丹麦孕育的存在主义哲学先驱与神学家——索伦·克尔凯郭尔（Søren Kierkegaard，1813–1855）。他倾情探索个体主体的主观真理，将独行者在绝境中的煎熬升华为《非此即彼》、《恐惧与颤栗》等哲理名篇。\n\n他所留下的极其敏锐独到的哲学格言与浩瀚著作，皆撰述于散置于其居所各处的高耸立式书桌上。克尔凯郭尔乃是一位无论风雨均会穿行于哥本哈根街头漫步沉思的行者。然而，他近乎病态地担忧在路角捕获的闪光灵感会在推门归家、脱下外套、解下鞋带等琐碎日常中挥发殆尽。为此，他选择在推开房门的第一时间，连高顶礼帽与外衣都顾不上脱下，便直接伫立于立式书桌前，将灵感即刻定格于纸上。对于克尔凯郭尔而言，站立速记乃是在踱步带来的热情与运动觉醒退散前、将闪光灵感冷冻于纸面上的重磅习惯。\n\n在今天的文章中，我们将深度解构克尔凯郭尔“立式即时捕获”习惯背后蕴含的神经科学原理，并分享一套助现代人在日常中毫无损耗地抓取流动灵感的3步骤实践指南。",
+      "es": "\"He encontrado mis mejores pensamientos caminando, y no conozco ningún pensamiento tan pesado como para no poder alejarme de él caminando.\" 🎩\n\nSøren Kierkegaard (1813–1855) fue el teólogo y filósofo danés considerado el padre del existencialismo cristiano. Explorando la verdad subjetiva y la fe individual en obras maestras como *O lo uno o lo otro* y *Temor y temblor*, produjo una impresionante obra filosófica.\n\nSu secreto para capturar ideas brillantes radicaba en un hábito físico único. Kierkegaard caminaba diariamente por las calles de Copenhague. Sin embargo, sentía un temor casi obsesivo de que sus ideas se desvanecieran al llegar a casa —mientras se quitaba el abrigo, el sombrero o se sentaba—. Para evitar esta pérdida, colocó escritorios altos de pie por toda su casa. Al abrir la puerta, sin quitarse el sombrero ni el abrigo, caminaba directamente hacia un escritorio y escribía sus pensamientos de inmediato. Escribir de pie mantenía la activación de su caminata antes de que la atención decayera.\n\nEn la publicación de hoy, analizamos la neurociencia cognitiva detrás de la rutina de 'captura inmediata de pie' de Søren Kierkegaard y presentamos una guía de 3 pasos.",
+      "de": "\"Ich habe mir meine besten Gedanken ergangen, und ich kenne keinen Gedanken, der so schwer wäre, dass man ihn nicht gehend abstreifen könnte.\" 🎩\n\nSøren Kierkegaard (1813–1855) war der dänische Philosoph und Theologe, der als Begründer der Existenzphilosophie gilt. In Werken wie *Entweder – Oder* und *Furcht und Zittern* hinterließ er ein umfangreiches philosophisches Werk.\n\nSein Geheimnis zur Festhaltung von Gedanken lag in einer besonderen Haltung. Kierkegaard spazierte täglich durch Kopenhagen. Er befürchtete jedoch, dass seine Ideen beim Betreten der Wohnung verfliegen könnten – während er den Mantel ablegte oder sich hinsetzte. Um diesen kognitiven Verlust zu verhindern, stellte er in seiner Wohnung mehrere Stehpulte auf. Sobald er die Tür öffnete, trat er ohne Hut oder Mantel abzulegen an ein Stehpult und schrieb seine Gedanken auf. Das Schreiben im Stehen nutzte den Schwung des Gehens, bevor die Konzentration nachließ.\n\nIm heutigen Beitrag untersuchen wir die Neurowissenschaften hinter Søren Kierkegaards 'Sofort-Erfassungs-Routine' und bieten eine 3-Schritte-Anleitung zur Nutzung kognitiver Aufwärmphasen.",
+      "fr": "« C'est en marchant que j'ai trouvé mes meilleures pensées, et je ne connais aucune pensée si lourde qu'on ne puisse s'en éloigner en marchant. » 🎩\n\nSøren Kierkegaard (1813–1855) fut le théologien et philosophe danois considéré comme le père de l'existentialisme. Explorant la vérité subjective et la foi dans des œuvres majeures comme *Ou bien... ou bien* et *Crainte et Tremblement*, il a produit una œuvre philosophique incisive.\n\nSon secret pour capturer les idées éphémères reposait sur una habitude physique singulière. Kierkegaard arpentait chaque jour les rues de Copenhague. Mais il redoutait que ses intuitions ne s'évaporent au moment de rentrer chez lui — en retirant son manteau ou en s'asseyant. Pour prévenir cette perte, il disposa plusieurs pupitres hauts dans son appartement. Dès le seuil franchi, sans même ôter son chapeau ni son manteau, il se dirigeait vers un pupitre et consignait immédiatement ses pensées. Écrire debout prolongeait l'élan de la marche avant que l'attention ne faiblisse.\n\nDans cet article, nous analysons la neuroscience cognitive sous-jacente à la routine de « capture immédiate debout » de Søren Kierkegaard et proposons un guide en 3 étapes.",
+      "pt": "\"Caminhando alcancei meus melhores pensamentos, e não conheço nenhum pensamento tão pesado do qual não se possa afastar caminhando.\" 🎩\n\nSøren Kierkegaard (1813–1855) foi o teólogo e filósofo dinamarquês considerado o pai do existencialismo. Explorando a verdade subjetiva e a fé em obras como *Ou Isso, Ou Aquilo* e *Temor e Tremor*, produziu uma impressionante obra filosófica.\n\nSeu segredo para capturar ideias brilhantes residia em um hábito físico único. Kierkegaard caminhava diariamente por Copenhague. No entanto, temia que suas ideias desaparecessem ao chegar em casa — enquanto tirava o sobretudo ou se sentava. Para evitar essa perda, instalou escrivaninhas altas de pé por toda a casa. Ao abrir a porta, sem tirar o chapéu nem o sobretudo, ia direto para a escrivaninha e anotava seus pensamentos imediatamente. Escrever de pé mantinha o impulso da caminhada antes que a atenção diminuísse.\n\nNo artigo de hoje, analisamos a neurociência cognitiva por trás da rotina de 'captura imediata de pé' de Søren Kierkegaard e apresentamos um guia prático de 3 passos.",
+      "id": "\"Saya telah berjalan menuju pemikiran terbaik saya, dan saya tidak tahu ada pemikiran yang begitu berat sehingga seseorang tidak dapat melepaskannya dengan berjalan kaki.\" 🎩\n\nSøren Kierkegaard (1813–1855) adalah teolog dan filsuf Denmark abad ke-19 yang secara luas dianggap sebagai bapak eksistensialisme Kristen. Menjelajahi kebenaran subjektif dan keputusasaan individu dalam karya-karya agung seperti *Either/Or* dan *Fear and Trembling*, Kierkegaard menghasilkan volume prosa filosofis yang tajam.\n\nRahasianya dalam menangkap ide-ide cemerlang terletak pada kebiasaan fisik yang unik. Kierkegaard berjalan-jalan di jalanan Kopenhagen setiap hari. Namun, ia memiliki ketakutan obsesif bahwa epifani cemerlang yang dipanen di jalanan akan menguap selama transisi harian memasuki rumahnya—melepas mantel, menggantung topi, atau duduk. Untuk mencegah kehilangan kognitif ini, Kierkegaard menempatkan meja berdiri tinggi di seluruh apartemennya. Saat ia membuka pintu, tanpa melepas topi atau mantelnya, ia berjalan lurus ke meja berdiri dan segera mentranskripsikan pemikirannya.\n\nDalam postingan hari ini, kami menganalisis neurosains kognitif di balik rutinitas 'penangkapan instan berdiri' Søren Kierkegaard."
     },
     "whyTitle": {
-      "ko": "인지적 예열(Cognitive Warm-up)과 작업 기억(Working Memory) 보존"
+      "ko": "인지적 예열(Cognitive Warm-up)과 작업 기억(Working Memory) 보존",
+      "en": "Cognitive Warm-up and Working Memory Preservation",
+      "ja": "知的ウォーミングアップ（Cognitive Warm-up）と作業記憶（Working Memory）保存",
+      "zh": "认知预热（Cognitive Warm-up）与工作记忆（Working Memory）保留机制",
+      "es": "Calentamiento Cognitivo y Preservación de la Memoria de Trabajo",
+      "de": "Kognitives Aufwärmen und Erhalt des Arbeitsgedächtnisses",
+      "fr": "Échauffement cognitif et préservation de la mémoire de travail",
+      "pt": "Aquecimento Cognitivo e Preservação da Memória de Trabalho",
+      "id": "Pemanasan Kognitif dan Pelestarian Memori Kerja"
     },
     "whyDesc": {
-      "ko": "신체적 활동(산책) 직후의 뇌는 <strong>도파민(Dopamine)</strong>과 <strong>노르에피네프린(Norepinephrine)</strong> 분비가 활발한 이른바 <strong>'인지적 예열(Cognitive Warm-up)'</strong> 상태에 놓입니다.\n\n이때 주의 집중을 딴데로 분산시키지 않고 즉각 기록으로 연결하면, 이동 중 잉태된 아이디어가 뇌의 논리 영역으로 원형 그대로 이식됩니다.\n\n또한 서서 기록하는 입식 작업(Standing Work)은 다리와 코어 근육을 미세하게 자극하여 뇌로 향하는 혈류량을 유지하고, <strong>작업 기억(Working Memory)</strong>의 처리 속도를 높입니다. 이는 생각의 단절 및 <strong>주의 잔여물(Attention Residue)</strong>이 발생하기 전에 사유의 흐름을 지면 위로 옮겨 적는 가장 과학적인 아이디어 포착 기술입니다."
+      "ko": "신체적 활동(산책) 직후의 뇌는 <strong>도파민(Dopamine)</strong>과 <strong>노르에피네프린(Norepinephrine)</strong> 분비가 활발한 이른바 <strong>'인지적 예열(Cognitive Warm-up)'</strong> 상태에 놓입니다. 이때 주의 집중을 딴데로 분산시키지 않고 즉각 기록으로 연결하면, 이동 중 잉태된 아이디어가 뇌의 논리 영역으로 원형 그대로 이식됩니다. 또한 서서 기록하는 입식 작업(Standing Work)은 다리와 코어 근육을 미세하게 자극하여 뇌로 향하는 혈류량을 유지하고, <strong>작업 기억(Working Memory)</strong>의 처리 속도를 높입니다. 이는 생각의 단절 및 <strong>주의 잔여물(Attention Residue)</strong>이 발생하기 전에 사유의 흐름을 지면 위로 옮겨 적는 가장 과학적인 아이디어 포착 기술입니다.",
+      "en": "Immediately following physical activity such as walking, the brain enters a heightened state of <strong>Cognitive Warm-up</strong> driven by surges of <strong>dopamine</strong> and <strong>norepinephrine</strong>. Converting thoughts into writing during this neurohormonal window ports fluid insights into logical prefrontal networks without information loss. Furthermore, standing work maintains postural muscle engagement in the legs and core, preserving cerebral blood flow and accelerating <strong>Working Memory</strong> processing speed. This prevents cognitive fragmentation and eliminates <strong>Attention Residue</strong> before the train of thought dissolves.",
+      "ja": "身体的活動（散歩）直後の脳は、<strong>ドパミン（Dopamine）</strong>と<strong>ノルエピネフリン（Norepinephrine）</strong>の分泌が活発な、いわゆる<strong>「知的ウォーミングアップ（Cognitive Warm-up）」</strong>状態に置かれます。この時、注意集中を他へ分散させずに即座に記録へとつなげると、移動中に生まれたアイデアが脳の論理領域へと原形のまま移植されます。また、立って記録する立式作業（Standing Work）は脚とコア筋肉を微細に刺激して脳に向かう血流量を維持し、<strong>作業記憶（Working Memory）</strong>の処理速度を高めます。これは思考の断絶および<strong>注意残留物（Attention Residue）</strong>が発生する前に、思索の流れを紙の上へと移し書く最も科学的なアイデア捕捉技術です。",
+      "zh": "在刚完成躯体运动（踱步）后的微观间隙，大脑处于<strong>多巴胺（Dopamine）</strong>与<strong>去甲肾上腺素（Norepinephrine）</strong>高频分泌的<strong>“认知预热（Cognitive Warm-up）”</strong>状态。若能在此时毫不撕裂注意力地即刻转译为文字，行走中孕育的灵感便能原封不动地移植至前额叶逻辑网络中。此外，站立记录的立式工作（Standing Work）能微观拉动双腿与核心肌群，维持指向大脑的充氧血流，拉升<strong>工作记忆（Working Memory）</strong>的加工算力。此乃在思绪断层与<strong>注意力残留（Attention Residue）</strong>滋生前，将思维流向落定于纸面之上的极科学灵感捕获技术。",
+      "es": "Inmediatamente después de caminar, el cerebro entra en un estado de <strong>Calentamiento Cognitivo (Cognitive Warm-up)</strong> impulsado por la <strong>dopamina</strong> y la <strong>norepinefrina</strong>. Trasladar las ideas al papel durante este periodo permite registrarlas en la corteza prefrontal sin pérdida de información. Además, trabajar de pie mantiene la activación muscular, preservando el flujo sanguíneo cerebral y acelerando la <strong>Memoria de Trabajo</strong>. Esto evita la fragmentación cognitiva y elimina los <strong>Residuos de Atención (Attention Residue)</strong>.",
+      "de": "Direkt nach Bewegung wie einem Spaziergang befindet sich das Gehirn durch die Ausschüttung von <strong>Dopamin</strong> und <strong>Noradrenalin</strong> in einem Zustand <strong>kognitiven Aufwärmens</strong>. Das direkte Aufschreiben der Gedanken in diesem Fenster überträgt flüchtige Ideen ohne Informationsverlust in logische Netzwerke. Zudem hält das Arbeiten im Stehen die Muskelaktivität aufrecht, was die Durchblutung des Gehirns sichert und das <strong>Arbeitsgedächtnis</strong> beschleunigt. Dies verhindert Unterbrechungen im Denkprozess.",
+      "fr": "Juste après une activité physique comme la marche, le cerveau entre dans un état d'<strong>Échauffement Cognitif (Cognitive Warm-up)</strong> stimulé par la <strong>dopamine</strong> et la <strong>noradrénaline</strong>. Transcrire ses pensées durant cette fenêtre permet de les fixer dans le cortex préfrontal sans déperdition. De plus, travailler debout maintient la tonicité musculaire, préservant le flux sanguin cérébral et accélérant la <strong>Mémoire de Travail</strong>. Cela prévient la fragmentation cognitive et élimine le <strong>Reste d'Attention (Attention Residue)</strong>.",
+      "pt": "Imediatamente após caminhar, o cérebro entra em um estado de <strong>Aquecimento Cognitivo (Cognitive Warm-up)</strong> impulsionado pela <strong>dopamina</strong> e <strong>noradrenalina</strong>. Registrar os pensamentos nesse período permite transferi-los para as redes pré-frontais sem perda de informação. Além disso, trabalhar de pé mantém a ativação muscular, preservando o fluxo sanguíneo cerebral e acelerando a <strong>Memória de Trabalho</strong>. Isso evita a fragmentação e elimina os <strong>Resíduos de Atenção (Attention Residue)</strong>.",
+      "id": "Segera setelah aktivitas fisik seperti berjalan-jalan, otak memasuki kondisi <strong>Pemanasan Kognitif</strong> yang didorong oleh lonjakan <strong>dopamin</strong> dan <strong>norepinefrin</strong>. Mengubah pemikiran menjadi tulisan selama jendela neurohormonal ini memindahkan wawasan secara langsung ke jaringan prefrontal logis tanpa kehilangan informasi. Selain itu, bekerja sambil berdiri mempertahankan keterlibatan otot postural, melestarikan aliran darah serebral dan mempercepat pemrosesan <strong>Memori Kerja</strong>."
     },
     "cautionTitle": {
-      "ko": "주의 분산과 주의 잔여물(Attention Residue)을 막는 귀가 직후 즉시 포착 수칙"
+      "ko": "주의 분산과 주의 잔여물(Attention Residue)을 막는 귀가 직후 즉시 포착 수칙",
+      "en": "Caution: Immediate Post-Walk Capture Protocol to Eliminate Attention Residue",
+      "ja": "注意事項：注意分散と注意残留物（Attention Residue）を防ぐ帰宅直後の即時捕捉ルール",
+      "zh": "注意事项：归家即刻抓取，杜绝注意力分散与注意力残留（Attention Residue）指南",
+      "es": "Precaución: Protocolo de Captura Inmediata para Eliminar Residuos de Atención",
+      "de": "Vorsichtsmaßnahme: Sofortige Erfassung nach dem Heimkommen zur Vermeidung von Ablenkungen",
+      "fr": "Mise en garde : Consigne de capture immédiate au retour pour éliminer le reste d'attention",
+      "pt": "Precaução: Protocolo de Captura Imediata ao Chegar para Eliminar Resíduos de Atenção",
+      "id": "Perhatian: Protokol Penangkapan Segera Setelah Pulang untuk Mengeliminasi Residu Perhatian"
     },
     "cautionDesc": {
-      "ko": "우리의 뇌는 이동 후 정지 상태로 전환될 때 수많은 인지 스위치를 내립니다. 귀가 후 가방을 정리하고 소파에 앉는 단 5분의 유예 시간 동안 번뜩이던 아이디어의 세부 맥락은 연기처럼 사라집니다. 생각의 고리가 끊어지기 전에 짐을 풀기 전 5~10분간 서서 핵심 뼈대를 즉시 적어 내리는 순서 고정이 핵심입니다."
+      "ko": "우리의 뇌는 이동 후 정지 상태로 전환될 때 수많은 인지 스위치를 내립니다. 귀가 후 가방을 정리하고 소파에 앉는 단 5분의 유예 시간 동안 번뜩이던 아이디어의 세부 맥락은 연기처럼 사라집니다. 생각의 고리가 끊어지기 전에 짐을 풀기 전 5~10분간 서서 핵심 뼈대를 즉시 적어 내리는 순서 고정이 핵심입니다.",
+      "en": "When transitioning from movement to a stationary home environment, the brain naturally ramps down executive arousal. Spending even 5 minutes unpacking bags, taking off shoes, or sitting on a sofa causes the intricate context of a creative insight to vanish. To prevent cognitive decay, fix your operational sequence: spend 5 to 10 minutes writing standing up before engaging in any domestic chores.",
+      "ja": "私たちの脳は移動後に停止状態に移行する時、数多くの認知スイッチをオフにします。帰宅後にバッグを整理しソファに座るたった5分の猶予時間の間に、ひらめいていたアイデアの細部文脈は煙のように消え去ります。思考の鎖が切れる前に、荷物を解く前の5〜10分間立って核心骨組みを即座に書き下ろす順序の固定が核心です。",
+      "zh": "当大脑由动态步行切换至静态居家状态时，会自发关闭大量执掌觉醒开关。即便仅耗费5分钟整理包袋、摆放鞋履或小憩于沙发，灵感闪现的微观上下文脉络便会如烟雾般消散。在思维链条断裂之前，将“卸放行李前先站立速记5-10分钟”固化为不可颠倒的铁律，乃是绝对核心。",
+      "es": "Al pasar del movimiento a la quietud en casa, el cerebro reduce de forma natural el nivel de alerta. Pasar tan solo 5 minutos desempacando o sentándose en el sofá hace que los detalles de una idea se desvanezcan. Para evitar esta pérdida, fije su secuencia: dedique de 5 a 10 minutos a escribir de pie antes de atender tareas domésticas.",
+      "de": "Beim Übergang von Bewegung zur Ruhe zu Hause schaltet das Gehirn die Aktivierung herunter. Schon 5 Minuten Auspacken oder Hinsetzen reichen aus, damit die Details einer Idee verblassen. Um diesen Verlust zu vermeiden, legen Sie die Reihenfolge fest: Schreiben Sie 5 bis 10 Minuten im Stehen, bevor Sie sich häuslichen Dingen widmen.",
+      "fr": "Lors du passage du mouvement au repos au domicile, le cerveau diminue naturellement son niveau d'éveil. Consacrer seulement 5 minutes a poser ses affaires ou s'asseoir fait disparaître les détails d'una idée. Pour prévenir cette perte, fixez votre ordre de priorité : consacrez 5 a 10 minutes a écrire debout avant toute tâche ménagère.",
+      "pt": "Ao passar do movimento ao repouso em casa, o cérebro reduz naturalmente o nível de alerta. Passar apenas 5 minutos desfazendo as malas ou sentando no sofá faz com que os detalhes de uma ideia desapareçam. Para evitar essa perda, fixe sua sequência: dedique de 5 a 10 minutos para escrever de pé antes de cuidar da casa.",
+      "id": "Saat beralih dari gerakan ke lingkungan rumah yang diam, otak secara alami menurunkan gairah eksekutif. Menghabiskan bahkan 5 menit untuk membongkar tas, melepas sepatu, atau duduk di sofa menyebabkan konteks rumit dari wawasan kreatif lenyap. Untuk mencegah degradasi kognitif, tetapkan urutan operasional Anda: luangkan waktu 5 hingga 10 menit untuk menulis sambil berdiri."
     },
     "steps": [
       {
         "name": {
-          "ko": "1단계: 귀가·이동 직후 스탠딩 자세 확보 및 일상 리추얼 유예"
+          "ko": "1단계: 귀가·이동 직후 스탠딩 자세 확보 및 일상 리추얼 유예",
+          "en": "Step 1: Immediate Post-Walk Standing Position Setup & Deferring Domestic Rituals",
+          "ja": "ステップ1：帰宅・移動直後のスタンディング姿勢確保および日常リチュアルの猶予",
+          "zh": "步骤1：归家即刻锁定站立姿态与延后日常杂务仪式",
+          "es": "Paso 1: Configurar la Posición de Pie Inmediatamente y Posponer Tareas Domésticas",
+          "de": "Schritt 1: Sofortiges Einnehmen einer Stehposition nach dem Heimkommen & Aufschieben von Routinen",
+          "fr": "Étape 1 : Posture debout immédiate au retour & Report des tâches quotidiennes",
+          "pt": "Passo 1: Adotar a Posição de Pé Imediatamente e Adiar Tarefas Domésticas",
+          "id": "Langkah 1: Menyiapkan Posisi Berdiri Segera Setelah Jalan-Jalan & Menunda Ritual Harian"
         },
         "text": {
-          "ko": "외출이나 산책 후 문을 열자마자 짐 정리나 의자에 앉는 일상 리추얼을 잠시 유예하고, 곧바로 스탠딩 책상이나 높은 선반 앞으로 다가갑니다."
+          "ko": "외출이나 산책 후 문을 열자마자 짐 정리나 의자에 앉는 일상 리추얼을 잠시 유예하고, 곧바로 스탠딩 책상이나 높은 선반 앞으로 다가갑니다.",
+          "en": "Immediately upon entering your room after a walk or commute, defer routine domestic habits like unpacking or sitting down, and walk straight to a standing desk or high counter.",
+          "ja": "外出や散歩の後、ドアを開けるやいなや荷物の整理や椅子に座る日常のリチュアルを一時猶予し、直ちにスタンディングデスクや高い棚の前へと近づきます。",
+          "zh": "在踱步归家推开房门的第一时间，暂且延后清理行囊或落座于座椅上的日常仪式，直奔立式书桌或高位案台前。",
+          "es": "Inmediatamente al entrar a su habitación tras caminar, posponga hábitos como desempacar o sentarse, e diríjase directamente a un escritorio de pie o barra alta.",
+          "de": "Gehen Sie direkt nach dem Spaziergang ohne Auspacken oder Hinsetzen an ein Stehpult oder eine hohe Ablage.",
+          "fr": "Dès le seuil franchi après la marche, différez les habitudes comme poser vos affaires ou vous asseoir, et avancez directement vers un pupitre haut.",
+          "pt": "Imediatamente ao entrar no quarto após caminhar, adie hábitos como desarrumar mochilas ou sentar-se, e vá direto para uma escrivaninha alta.",
+          "id": "Segera setelah memasuki ruangan Anda setelah jalan-jalan, tunda kebiasaan harian seperti membongkar tas atau duduk, dan berjalanlah lurus ke meja berdiri atau konter tinggi."
         }
       },
       {
         "name": {
-          "ko": "2단계: 외출복 차림 5~10분간의 즉시 영감 인출 및 뼈대 수기 기록"
+          "ko": "2단계: 외출복 차림 5~10분간의 즉시 영감 인출 및 뼈대 수기 기록",
+          "en": "Step 2: 5–10 Minutes of Immediate Idea Extraction While Still in Outerwear",
+          "ja": "ステップ2：外出着姿での5〜10分間の即時インスピレーション引き出しおよび骨組み手書き記録",
+          "zh": "步骤2：保持外出服穿戴姿态展开5-10分钟即时灵感倾吐与框架手写",
+          "es": "Paso 2: 5 a 10 Minutos de Extracción Inmediata de Ideas con Ropa de Calle",
+          "de": "Schritt 2: 5–10 Minuten Sofort-Aufschreiben der Kernideen in Straßenkleidung",
+          "fr": "Étape 2 : 5 à 10 minutes de transcription immédiate des idées avec ses vêtements d'extérieur",
+          "pt": "Passo 2: 5 a 10 Minutos de Extração Imediata de Ideias Ainda com Roupa de Sair",
+          "id": "Langkah 2: Penarikan Ide Segera 5–10 Menit Saat Masih Mengenakan Pakaian Luar"
         },
         "text": {
-          "ko": "겉옷을 걸친 상태 그대로 펜을 잡습니다. 일상의 소음이 사색의 맥을 끊기 전에 머릿속에 떠오른 핵심 아이디어의 뼈대와 문장들을 5~10분간 쏟아내듯 빠르게 적습니다."
+          "ko": "겉옷을 걸친 상태 그대로 펜을 잡습니다. 일상의 소음이 사색의 맥을 끊기 전에 머릿속에 떠오른 핵심 아이디어의 뼈대와 문장들을 5~10분간 쏟아내듯 빠르게 적습니다.",
+          "en": "Hold your pen without removing your coat. Rapidly pour out core concepts, outlines, and sentences onto paper for 5 to 10 minutes before environmental noise breaks your train of thought.",
+          "ja": "上着を着た状態のままペンを握ります。日常の騒音が思索の脈を切る前に、頭の中に浮かんだ核心アイデアの骨組みと文章を5〜10分間吐き出すように素早く書き留めます。",
+          "zh": "在身着外衣外套的状态下直接抓起书写笔。在日常噪点掐断思考脉络之前，将大脑中涌现的核心创意骨架与文句以倾泻之姿极速誊写5-10分钟。",
+          "es": "Tome el bolígrafo sin quitarse el abrigo. Vierta rápidamente los conceptos principales, esquemas y frases en el papel durante 5 a 10 minutos antes de que el entorno distraiga su mente.",
+          "de": "Greifen Sie mit dem Mantel am Körper zum Stift. Schreiben Sie Kernaussagen und Satzfragmente 5 bis 10 Minuten lang zügig auf, bevor Alltagsreize den Gedankenfluss unterbrechen.",
+          "fr": "Saisissez un stylo sans retirer votre manteau. Rédigez rapidement les notions clés et les structures de phrases pendant 5 a 10 minutes avant que le bruit ambiant ne rompe votre fil de pensée.",
+          "pt": "Pegue a caneta sem tirar o casaco. Escreva rapidamente os conceitos principais, esboços e frases no papel por 5 a 10 minutos antes que as distrações interrompam seu raciocínio.",
+          "id": "Pegang pena Anda tanpa melepas mantel. Tuangkan konsep inti, garis besar, dan kalimat dengan cepat ke atas kertas selama 5 hingga 10 menit sebelum kebisingan lingkungan memutus jalan pikiran Anda."
         }
       },
       {
         "name": {
-          "ko": "3단계: 초안 뼈대 완성 후 외출복 해제 및 세부 퇴고 진행"
+          "ko": "3단계: 초안 뼈대 완성 후 외출복 해제 및 세부 퇴고 진행",
+          "en": "Step 3: Outerwear Removal & Detailed Editing After Framework Is Anchored",
+          "ja": "ステップ3：草案骨組み完成後の外出着解除および詳細推敲の進行",
+          "zh": "步骤3：落定初稿框架后解脱外衣与展开深度润色",
+          "es": "Paso 3: Quitarse la Ropa de Calle y Edición Detallada Tras Fijar el Esquema",
+          "de": "Schritt 3: Ablegen der Ausgehkleidung & Ausarbeitung nach Verankerung des Entwurfs",
+          "fr": "Étape 3 : Retrait des vêtements d'extérieur & Relecture détaillée une fois la trame fixée",
+          "pt": "Passo 3: Retirar a Roupa de Sair e Edição Detalhada Após Fixar a Estrutura",
+          "id": "Langkah 3: Melepas Pakaian Luar & Pengeditan Detail Setelah Kerangka Tertambat"
         },
         "text": {
-          "ko": "생각의 큰 얼개가 지면 위에 정착되었음을 확인한 후 비로소 겉옷을 벗고 짐을 정리합니다. 이후 편안하게 앉아 적어 둔 러프한 초안을 정교하게 다듬고 정리합니다."
+          "ko": "생각의 큰 얼개가 지면 위에 정착되었음을 확인한 후 비로소 겉옷을 벗고 짐을 정리합니다. 이후 편안하게 앉아 적어 둔 러프한 초안을 정교하게 다듬고 정리합니다.",
+          "en": "Once the structural framework of your idea is safely anchored on paper, remove your coat and unpack. Then sit comfortably to refine and polish the rough draft.",
+          "ja": "思考の大きな枠組みが紙の上に定着したことを確認した後、初めて上着を脱いで荷物を整理します。その後快適に座り、書き留めておいたラフな草案を精緻に整え整理します。",
+          "zh": "在确认思考的大致框架已稳固定格于纸面之上后，方可脱下外套整理行囊。随后坐下，对先前极速誊写出的草稿展开精细化打磨与润色。",
+          "es": "Una vez que la estructura de su idea esté bien fijada en el papel, quítese el abrigo y ordene sus cosas. Luego, siéntese cómodamente para pulir el borrador.",
+          "de": "Sobald das Grundgerüst Ihrer Idee auf dem Papier steht, legen Sie den Mantel ab. Setzen Sie sich danach entspannt hin, um den Entwurf auszuarbeiten.",
+          "fr": "Une fois la structure de votre idée ancrée sur le papier, retirez votre manteau et rangez vos affaires. Installez-vous ensuite confortablement pour peaufiner le brouillon.",
+          "pt": "Assim que a estrutura da sua ideia estiver fixada no papel, tire o casaco e arrume suas coisas. Em seguida, sente-se confortavelmente para refinar o rascunho.",
+          "id": "Setelah kerangka struktural dari ide Anda tertambat secara aman di atas kertas, lepaskan mantel Anda dan bongkar muatan. Kemudian duduklah dengan nyaman untuk memperhalus draf kasar tersebut."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "꼭 서서 써야 하나요? 앉아서 쓰면 안 되나요?"
+          "ko": "꼭 서서 써야 하나요? 앉아서 쓰면 안 되나요?",
+          "en": "Is it mandatory to write standing up? Can I sit down instead?",
+          "ja": "必ず立って書かなければなりませんか？座って書いてはいけませんか？",
+          "zh": "是否必须强行站立记录？直接坐下撰写是否具备同等效能？",
+          "es": "¿Es obligatorio escribir de pie? ¿Puedo sentarme en su lugar?",
+          "de": "Muss man unbedingt im Stehen schreiben? Kann man sich nicht auch hinsetzen?",
+          "fr": "Est-il obligatoire d'écrire debout ? Puis-je m'asseoir à la place ?",
+          "pt": "É obrigatório escrever de pé? Posso me sentar em vez disso?",
+          "id": "Apakah wajib menulis sambil berdiri? Bisakah saya duduk saja?"
         },
         "answer": {
-          "ko": "귀가 직후 소파나 의자에 앉으면 신체가 급격한 이완 상태로 진입하여 각성도가 빠르게 떨어집니다. 서 있는 자세(Standing)는 신체적 각성을 유지해 뇌의 작업 기억력을 보존해 주므로, 아이디어의 핵심 얼개를 받아 적는 10분 동안은 서서 작성하는 것이 인지적으로 훨씬 유리합니다."
+          "ko": "귀가 직후 소파나 의자에 앉으면 신체가 급격한 이완 상태로 진입하여 각성도가 빠르게 떨어집니다. 서 있는 자세(Standing)는 신체적 각성을 유지해 뇌의 작업 기억력을 보존해 주므로, 아이디어의 핵심 얼개를 받아 적는 10분 동안은 서서 작성하는 것이 인지적으로 훨씬 유리합니다.",
+          "en": "Sitting down immediately upon returning home triggers a rapid drop in physical motor tone and autonomic arousal, lulling the brain into deep relaxation. Standing preserves motor engagement and physical alertness, protecting working memory capacity for those critical 10 minutes.",
+          "ja": "帰宅直後にソファや椅子に座ると、身体が急激なリラックス状態へと進入し覚醒度が急速に低下します。立っている姿勢（Standing）は身体的覚醒を維持して脳の作業記憶力を保存してくれるため、アイデアの核心骨組みを書き留める10分間は立って作成することが知的により有利です。",
+          "zh": "归家后若当即落座于沙发或座椅，躯体会瞬间切入剧烈的松弛塌陷状态，觉醒度急剧下滑。站立姿态（Standing）能维持躯体运动觉醒，庇护大脑工作记忆容量，因而在将灵感核心框架凝炼于纸面上的头10分钟内，站立记录在认知层面具备绝对优势。",
+          "es": "Sentarse inmediatamente al llegar a casa provoca una rápida caída en la alerta física, llevando al cerebro a un estado de relajación profunda. Estar de pie mantiene la activación corporal y protege la memoria de trabajo durante esos 10 minutos clave.",
+          "de": "Das sofortige Hinsetzen nach dem Heimkommen lässt die körperliche Anspannung und Wachheit schnell abfallen. Die Stehposition bewahrt die körperliche Aktivierung und schützt das Arbeitsgedächtnis für diese entscheidenden 10 Minuten.",
+          "fr": "S'asseoir immédiatement au retour provoque una baisse rapide de l'éveil physique, plongeant le cerveau dans un état de relaxation profonde. La station debout maintient l'éveil corporel et préserve la mémoire de travail pendant ces 10 minutes décisives.",
+          "pt": "Sentar-se imediatamente ao chegar em casa causa uma queda rápida no alerta físico, levando o cérebro a um relaxamento profundo. Ficar de pé mantém a ativação corporal e protege a memória de trabalho durante esses 10 minutos cruciais.",
+          "id": "Duduk segera setelah kembali ke rumah memicu penurunan cepat dalam tonus motorik fisik dan gairah otonom, menenangkan otak ke dalam relaksasi mendalam. Berdiri mempertahankan keterlibatan motorik dan kewaspadaan fisik, melindungi kapasitas memori kerja."
         }
       },
       {
         "question": {
-          "ko": "집에 스탠딩 책상이나 높은 선반이 없는데 어떻게 실천할 수 있나요?"
+          "ko": "집에 스탠딩 책상이나 높은 선반이 없는데 어떻게 실천할 수 있나요?",
+          "en": "How can I practice this routine if I don't own a standing desk or high counter?",
+          "ja": "家にスタンディングデスクや高い棚がない場合、どのように実践できますか？",
+          "zh": "若居室中缺乏立式书桌或高位案台，该如何低门槛实操复刻？",
+          "es": "¿Cómo puedo practicar esta rutina si no tengo un escritorio de pie o barra alta?",
+          "de": "Wie lässt sich diese Routine umsetzen, wenn man kein Stehpult besitzt?",
+          "fr": "Comment appliquer cette routine sans pupitre haut ni bureau debout ?",
+          "pt": "Como posso praticar essa rotina se não tiver uma escrivaninha alta?",
+          "id": "Bagaimana cara mempraktikkan rutinitas ini jika saya tidak memiliki meja berdiri atau konter tinggi?"
         },
         "answer": {
-          "ko": "아일랜드 식탁, 높은 서랍장 위, 혹은 일반 책상 위에 두꺼운 책이나 독서대를 잠시 올려 높이를 맞추는 것만으로도 충분합니다. 핵심은 가구를 새로 사는 것이 아니라, 귀가 직후 앉지 않고 서서 5~10분간 생각을 바로 인출하는 동작 환경을 조성하는 데 있습니다."
+          "ko": "아일랜드 식탁, 높은 서랍장 위, 혹은 일반 책상 위에 두꺼운 책이나 독서대를 잠시 올려 높이를 맞추는 것만으로도 충분합니다. 핵심은 가구를 새로 사는 것이 아니라, 귀가 직후 앉지 않고 서서 5~10분간 생각을 바로 인출하는 동작 환경을 조성하는 데 있습니다.",
+          "en": "Placing a thick book or laptop stand on a standard table, kitchen island, or tall dresser is completely sufficient. The core objective is not purchasing new furniture, but setting up a frictionless standing posture to extract ideas for 5 to 10 minutes right upon entering.",
+          "ja": "アイランドキッチン、高い引き出しタンスの上、あるいは普通のデスクの上に厚い本や読書台を一時的に置いて高さを合わせるだけで十分です。核心は家具を新しく買うことではなく、帰宅直後に座らず立って5〜10分間思考を直ちに引き出す動作環境を醸成することにあります。",
+          "zh": "在普通餐桌、厨房岛台或高脚柜上方暂且垫上厚重图书或立式看书架调整高度，便已完全足够。核心要义决非购置新家具，而在于打造一套在归家瞬间无卡顿站立、速记5-10分钟思想的动线微环境。",
+          "es": "Colocar un libro grueso o soporte para portátil sobre una mesa estándar, barra de cocina o cómoda alta es suficiente. El objetivo no es comprar muebles nuevos, sino crear una postura de pie sin fricción para volcar ideas durante 5 a 10 minutos al llegar.",
+          "de": "Das Auflegen eines dicken Buches oder Laptop-Ständers auf einen normalen Tisch, eine Kücheninsel oder Kommode reicht völlig aus. Entscheidend ist nicht das Möbelstück, sondern das Schaffen einer Stehposition zur schnellen Gedankenerfassung.",
+          "fr": "Placer un livre épais ou un support pour ordinateur sur una table classique, un plan de travail ou una commode suffit amplement. L'objectif n'est pas d'acheter des meubles, mais d'adopter una posture debout pour retranscrire ses idées pendant 5 a 10 minutes.",
+          "pt": "Colocar um livro grosso ou suporte de notebook sobre uma mesa comum, balcão de cozinha ou cômoda alta é suficiente. O objetivo não é comprar móveis novos, mas criar uma postura de pé sem atrito para registrar ideias por 5 a 10 minutos ao chegar.",
+          "id": "Menempatkan buku tebal atau dudukan laptop di atas meja standar, pulau dapur, atau lemari tinggi sudah sangat cukup. Tujuan utamanya bukanlah membeli furnitur baru, melainkan menyiapkan postur berdiri tanpa hambatan untuk mengekstrak ide."
         }
       }
     ]

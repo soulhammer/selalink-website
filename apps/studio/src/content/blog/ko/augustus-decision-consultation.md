@@ -8,7 +8,7 @@ tags: ["위습관","루틴"]
 heroImage: "/images/blog/augustus_decision_consultation.png"
 app: "buildself"
 formatVersion: 4
-authority: "Augustus Decision Consultation 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+authority: "수에토니우스 『황제전(De vita Caesarum)』 & 카시우스 디오 『로마사』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
 steps:
   - name: "신뢰할 수 있는 3인의 자문위원 지정"
     text: "자신의 주관적 아집을 지적해 줄 수 있으며, 해당 의사결정 분야의 객관적인 전문성을 지닌 3인 이내의 참모를 선별합니다."
@@ -35,7 +35,7 @@ faqs:
       역사적 및 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Augustus Decision Consultation 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 augustus-decision-consultation 루틴을 다룹니다.
+      본 콘텐츠는 <strong>수에토니우스 『황제전(De vita Caesarum)』 & 카시우스 디오 『로마사』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 augustus-decision-consultation 루틴을 다룹니다.
     </p>
   </div>
 </div>
@@ -44,7 +44,7 @@ faqs:
 
 ## 확증 편향의 억제와 dlPFC 인지 필터의 작동 원리
 
-인간의 뇌는 본능적으로 가장 먼저 떠오른 생각이나 호감을 정당화하려는 시스템 1(직관) 오류에 빠지기 쉽습니다. 아우구스투스처럼 자신의 결론에 이의를 제기할 수 있는 다각도의 전문가 피드백을 수용하면, 뇌는 의사 결정을 조절하는 '외측 전전두엽 피질(dlPFC)'을 자극해 정보의 논리적 틈새를 찾아내는 검증 필터를 작동시킵니다. 또한 갈등 조절 중추인 '전대상회(ACC)'를 연동시켜, 주관적 감정을 걷어내고 객관적 사실 데이터만을 구조화해 최선의 이성적 결정을 내릴 수 있게 돕습니다.
+인간의 뇌는 본능적으로 가장 먼저 떠오른 생각이나 호감을 정당화하려는 시스템 1(직관) 오류에 빠지기 쉽습니다. 아우구스투스처럼 자신의 결론에 이의를 제기할 수 있는 다각도의 전문가 피드백을 수용하면, 뇌는 의사 결정을 조절하는 <strong>'외측 전전두엽 피질(dlPFC)'</strong>을 자극해 정보의 논리적 틈새를 찾아내는 검증 필터를 작동시킵니다. 또한 갈등 조절 중추인 <strong>'전대상회(ACC)'</strong>를 연동시켜, 주관적 감정을 걷어내고 객관적 사실 데이터만을 구조화해 최선의 이성적 결정을 내릴 수 있게 돕습니다.
 
 ---
 

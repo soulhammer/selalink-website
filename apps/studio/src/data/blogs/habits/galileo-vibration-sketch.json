@@ -1,70 +1,214 @@
 {
   "galileo-vibration-sketch": {
     "title": {
-      "ko": "갈릴레오의 흔들림 스케치: 공간 인지력을 자극해 복잡한 구조를 단순화하는 법"
+      "ko": "갈릴레오의 흔들림 스케치: 공간 인지력을 자극해 복잡한 구조를 단순화하는 법과 시공간 스케치북 루틴",
+      "en": "Galileo's Pendulum Vibration Sketches: Harnessing Spatial Cognition to Simplify Complex Structures",
+      "ja": "ガリレオの揺れスケッチ：空間認知力を刺激して複雑な構造を単純化する方法と視空間スケッチパッドルーティン",
+      "zh": "伽利略的摆动草图：解构复杂结构的空间认知简化术与视空间草图习惯",
+      "es": "Los Esbozos de Oscilación de Galileo: Cómo Estimular la Cognición Espacial para Simplificar Estructuras Complejas",
+      "de": "Galileis Pendelschwingungs-Skizzen: Wie man durch räumliche Kognition komplexe Strukturen vereinfacht",
+      "fr": "Les croquis d'oscillation de Galilée : Stimuler la cognition spatiale pour simplifier les structures complexes",
+      "pt": "Os Esboços de Oscilação de Galileu: Estimulando a Cognição Espacial para Simplificar Estruturas Complexas",
+      "id": "Sketsa Ayunan Galileo: Memanfaatkan Kognisi Spasial untuk Menyederhanakan Struktur Rumit"
     },
     "description": {
-      "ko": "현대 과학의 아버지 갈릴레오 갈릴레이가 흔들리는 진자와 등불을 관찰하며 기하학적 스케치로 복잡한 물리학 공식의 직관을 형성한 비결을 알아봅니다."
+      "ko": "현대 과학의 아버지 갈릴레오 갈릴레이가 흔들리는 진자와 등불을 관찰하며 기하학적 스케치로 복잡한 물리학 공식의 직관을 형성한 비결을 알아봅니다. 시공간 스케치북 자극과 이중 부호화 이론의 뇌과학적 원리를 탐구합니다.",
+      "en": "Discover how Galileo Galilei, the father of modern science, built intuitive physical laws by sketching geometric diagrams of swinging lamps and pendulums. Explore the cognitive neuroscience of the visuospatial sketchpad, dual-coding theory, and spatial simplification.",
+      "ja": "現代科学の父ガリレオ・ガリレイが、揺れる振り子とランプを観察しながら幾何学的スケッチで複雑な物理公式の直感を形成した秘密を解き明かします。視空間スケッチパッドの刺激と二重符号化理論の脳科学的原理を dynamic に探求します。",
+      "zh": "探索现代科学之父伽利略·伽利略如何通过绘制摆灯与单摆的几何草图构建直观的物理定律。深度剖析激活大脑视空间草图（Visuospatial Sketchpad）与双重编码理论的神经科学原理。",
+      "es": "Descubra cómo Galileo Galilei, padre de la ciencia moderna, formuló leyes físicas intuitivas dibujando diagramas geométricos de lámparas en oscilación. Explore la neurociencia de la memoria visoespacial y la codificación dual.",
+      "de": "Erfahren Sie, wie Galileo Galilei, der Vater der modernen Wissenschaft, durch geometrische Skizzen von Schwingungen physikalische Gesetze intuitiv erfasste. Entdecken Sie die Neurowissenschaften des visuell-räumlichen Notizblocks.",
+      "fr": "Découvrez comment Galilée, père de la science moderne, a élaboré des lois physiques intuitives en dessinant des schémas géométriques d'oscillations. Explorez la neuroscience du calepin visuo-spatial et du double codage.",
+      "pt": "Descubra como Galileu Galilei, pai da ciência moderna, formulou leis físicas intuitivas desenhando diagramas geométricos de pêndulos. Explore a neurociência do bloco de rascunho visoespacial e da dupla codificação.",
+      "id": "Pelajari bagaimana Galileo Galilei, bapak sains modern, membangun hukum fisik intuitif dengan menggambar diagram geometris dari lampu yang berayun. Temukan neurosains tentang sketsa visuospasial dan pengodean ganda."
     },
     "authority": {
-      "ko": "갈릴레오 갈릴레이 저작집 『새로운 두 과학(Two New Sciences)』 및 피사 대학교 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+      "ko": "갈릴레오 갈릴레이 저작집 『새로운 두 과학(Two New Sciences)』 및 『일 사지아토레(Il Saggiatore)』, 피사 대학교 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+      "en": "Historical Verification from Galileo Galilei's *Two New Sciences* & *Il Saggiatore*, University of Pisa Archives & Cognitive Neuroscience Research",
+      "ja": "ガリレオ・ガリレイ著作集『新科学対話（Two New Sciences）』および『偽金鑑識官（Il Saggiatore）』、ピサ大学史料考証＆認知神経科学（Cognitive Neuroscience）연구",
+      "zh": "伽利略·伽利略著作集《关于两门新科学的谈话（Two New Sciences）》与《试金者（Il Saggiatore）》、比萨大学史料考证及认知神经科学（Cognitive Neuroscience）研究",
+      "es": "Verificación Histórica de *Consideraciones y demostraciones matemáticas sobre dos nuevas ciencias* e *Il Saggiatore* de Galileo Galilei, Archivos de la Universidad de Pisa e Investigación en Neurociencia Cognitiva",
+      "de": "Historische Überprüfung aus Galileo Galileis *Unterredungen und mathematische Demonstrationen über zwei neue Wissenschaftszweige* & *Il Saggiatore*, Archiven der Universität Pisa & Forschung der kognitiven Neurowissenschaften",
+      "fr": "Vérification Historique issue des *Discours concernant deux sciences nouvelles* et de *L'Essayeur (Il Saggiatore)* de Galilée, des archives de l'Université de Pise & de la Recherche en Neurosciences Cognitives",
+      "pt": "Verificação Histórica de *Duas Novas Ciências* e *Il Saggiatore* de Galileu Galilei, Arquivos da Universidade de Pisa e Pesquisa em Neurociência Cognitiva",
+      "id": "Verifikasi Historis dari *Two New Sciences* & *Il Saggiatore* karya Galileo Galilei, Arsip Universitas Pisa & Penelitian Neurosains Kognitif"
     },
     "intro": {
-      "ko": "\"우주라는 위대한 책은 기하학이라는 언어로 쓰여 있다.\" 📐\n\n관측 천문학의 아버지 갈릴레오 갈릴레이에게는 평생 이어진 습관이 있었습니다. 피사 성당의 흔들리는 청동 등불을 맥박으로 측정하면서도, 그는 손으로 진도의 호를 스케치했습니다. 수면의 파동, 밧줄의 떨림 등 자연계의 모든 흔들림을 스케치북에 기하학적 도형으로 기록했습니다. 그에게 스케치는 추상적인 물리 법칙을 눈으로 확인하고 구체화하는 가장 직관적인 도구였습니다.\n\n아이디어나 문제 상황의 구도를 간단한 기하학 도형과 벡터 선으로 복기하여 종이 위에 스케치하는 드로잉 습관은 복잡한 다차원적 뇌 영역을 활성화하는 시각적 열쇠입니다."
+      "ko": "\"우주라는 위대한 책은 기하학이라는 언어로 쓰여 있다. 그 기호는 삼각형, 원, 그리고 기타 기하학적 도형들이다.\" 📐\n\n망원경을 직접 제작하여 목성의 4대 위성을 관측하고 관측 천문학과 현대 물리학의 시대를 연 거장 갈릴레오 갈릴레이(Galileo Galilei, 1564–1642). 1581년 피사 대학교 학생이던 17세의 갈릴레오는 피사 대성당 천장에 달린 청동 등불이 공중에 떠서 흔들리는 모습을 보며 자신의 맥박(Pulse)을 짚어 시간을 측정했습니다. 그리고 그 진폭과 상관없이 등불이 한 번 왕복하는 시간이 일정하다는 '진자의 등시성(Isochronism of the Pendulum)'을 세계 최초로 발견했습니다.\n\n당시 갈릴레오에게는 평생 이어진 결정적인 습관이 있었습니다. 그는 청동 등불의 흔들림을 관찰할 때도, 수면 위에 파동이 일어날 때도, 밧줄이 진동할 때도 항상 손으로 진도의 호와 파동 궤적을 종이 위에 기하학적 도형과 선으로 스케치했습니다. 그에게 스케치는 단순히 현상을 그리는 미술이 아니라, 머릿속의 복잡한 물리 법칙과 수식 계산을 시공간적 실체로 변환하여 눈으로 검증하는 가장 정밀한 인지 도구였습니다. 아이디어나 문제 상황의 구도를 간단한 기하학 도형과 벡터 선으로 복기하여 종이 위에 스케치하는 드로잉 습관은 복잡한 다차원적 뇌 영역을 활성화하는 시각적 열쇠입니다.\n\n오늘 포스트에서는 갈릴레오의 '흔들림 기하학 스케치' 루틴 속에 숨겨진 뇌과학적 원리와 현대인들이 복잡한 난제를 본질부터 한눈에 파악하는 시공간 드로잉 기법을 분석합니다.",
+      "en": "\"The grand book of the universe is written in the language of mathematics, and its characters are triangles, circles, and other geometric figures.\" 📐\n\nGalileo Galilei (1564–1642), reverently called the 'Father of Modern Science', revolutionized astronomy by fashioning his own telescopes to discover Jupiter's four largest moons and formulating the principles of dynamics. In 1581, as a 17-year-old student at the University of Pisa, Galileo observed a bronze lamp swinging from the ceiling of the Pisa Cathedral. Using his own pulse as a timer, he made the groundbreaking discovery of the 'Isochronism of the Pendulum'—noting that the time taken for a pendulum to complete a swing remains constant regardless of amplitude.\n\nThroughout his life, Galileo relied on a foundational cognitive routine: whenever he observed mechanical motion, wave dynamics, or falling bodies, he immediately rendered them on paper as geometric shapes, vectors, and arcs. Sketching was not an artistic pastime for Galileo; it was a spatial externalization process that converted abstract equations into tangible visual geometry. By projecting complex dynamic relations onto paper, he disengaged his prefrontal cortex from cognitive overload and discovered fundamental physical truths.\n\nIn today's post, we unpack the cognitive neuroscience behind Galileo Galilei's 'vibration sketch' routine and present a practical visual framework to simplify complex operational structures.",
+      "ja": "「宇宙という偉大な書物は数学という言語で書かれている。その記号は三角形、円、そしてその他の幾何学的図形である。」 📐\n\n望遠鏡を自ら製作して木星の4大衛星を観測し、観測天文学と現代物理学の時代を切り開いた巨匠ガリレオ・ガリレイ（Galileo Galilei、1564–1642）。1581年にピサ大学の学生であった17歳のガリレオは、ピサ大聖堂の天井に吊るされた青銅のランプが空中を揺れる姿を見ながら、自分の脈拍（Pulse）を測って時間を測定しました。そしてその振幅に関係なく、ランプが1回往復する時間が一定であるという「振子の等時性（Isochronism of the Pendulum）」を世界で初めて発見しました。\n\n当時ガリレオには生涯続いた決定的な習慣がありました。彼は青銅のランプの揺れを観察する時も、水面に波動が起きる時も、ロープが振動する時も、常に手で振度の弧と波動の軌跡を紙の上に幾何学的な図形と線でスケッチしました。彼にとってスケッチは単に現象を描く美術ではなく、頭の中の複雑な物理法則と数式計算を視空間的実体へと変換し、目で検証する最も精密な認知道具だったのです。アイデアや問題状況の構図を簡単な幾何学図形とベクトル線で復元して紙の上にスケッチするドローイング習慣は、複雑な多次元的脳領域を活性化する視覚的鍵です。\n\n本日の記事では、ガリレオの「揺れ幾何学スケッチ」ルーティンに隠された脳科学的原理と、現代人が複雑な難題を本質から一目で把握する視空間ドローイング技法を分析します。",
+      "zh": "“宇宙这本浩瀚的大书是以数学的语言书就的，而它的符号则是三角形、圆形以及其他几何图形。” 📐\n\n亲手制作望远镜观测到木星四大卫星、开启观测天文学与现代物理学纪元的泰斗——伽利略·伽利略（Galileo Galilei，1564–1642）。1581年，年仅17岁且就读于比萨大学的伽利略，在比萨大教堂凝视着悬挂于天花板上的青铜吊灯摇曳。他按着自己的脉搏（Pulse）记录时间，惊奇地发现了无沦摆幅大小、吊灯单摆往复一次耗时均恒定不变的“单摆等时性（Isochronism of the Pendulum）”。\n\n彼时的伽利略拥有一项贯穿终身的决定性习惯：无论是观察吊灯摆动、水面涟漪还是绳索震荡，他总是习惯于用笔将摆动的弧度与波动轨迹转化为纸面上的几何图形与线条。对伽利略而言，绘制草图绝非陶冶情操的绘画艺术，而是一套将脑海中抽象复杂的物理规律与公式推演转化为视空间实体、并以此进行目测校验的极致精密认知工具。将创意或难题的架构具象化为极简几何图形与矢量线条的图解习惯，恰是唤醒大脑多维区域的视觉钥匙。\n\n在今天的文章中，我们将深度解构伽利略“摆动几何草图”习惯背后的脑科学原理，并提供一套助你从本质上一目了然破译复杂难题的视空间绘图指南。",
+      "es": "\"El grandioso libro del universo está escrito en el lenguaje de las matemáticas, y sus caracteres son triángulos, círculos y otras figuras geométricas.\" 📐\n\nGalileo Galilei (1564–1642), el 'Padre de la Ciencia Moderna', revolucionó la astronomía fabricando sus propios telescopios para descubrir las cuatro lunas mayores de Júpiter. En 1581, siendo un estudiante de 17 años en la Universidad de Pisa, observó una lámpara de bronce oscilar en la Catedral de Pisa. Midiendo el tiempo con su propio pulso, descubrió el 'Isocronismo del Péndulo': el tiempo que tarda un péndulo en completar una oscilación es constante sin importar la amplitud.\n\nA lo largo de su vida, Galileo mantuvo un hábito cognitivo fundamental: siempre que observaba movimiento mecánico o dinámica de ondas, dibujaba en papel figuras geométricas, vectores y arcos. Dibujar no era un pasatiempo artístico; era un proceso de externalización espacial que convertía ecuaciones abstractas en geometría visual tangible. Al proyectar relaciones complejas en papel, liberaba a la corteza prefrontal de la sobrecarga cognitiva y descubría verdades físicas.\n\nEn la publicación de hoy, analizamos la neurociencia cognitiva detrás de los 'esbozos de oscilación' de Galileo y presentamos un marco práctico para simplificar estructuras complejas.",
+      "de": "\"Das große Buch des Universums ist in der Sprache der Mathematik geschrieben, und seine Zeichen sind Dreiecke, Kreise und andere geometrische Figuren.\" 📐\n\nGalileo Galilei (1564–1642), der 'Vater der modernen Wissenschaft', revolutionierte die Astronomie, indem er eigene Teleskope baute, um die Jupitermonde zu entdecken. 1581 beobachtete er als 17-jähriger Student im Dom von Pisa eine schwingende Bronze-Ampel. Indem er die Zeit mit seinem eigenen Puls maß, entdeckte er die 'Isochronie des Pendels' – dass die Schwingungsdauer eines Pendels unabhängig von der Auslenkung konstant bleibt.\n\nZeitlebens pflegte Galilei eine kognitive Gewohnheit: Bei allen mechanischen Beobachtungen zeichnete er geometrische Formen, Vektoren und Bogenlinien auf Papier. Das Skizzieren war für ihn kein künstlerischer Zeitvertreib, sondern die räumliche Auslagerung abstrakter Formeln in sichtbare Geometrie. Durch das Übertragen komplexer Zusammenhänge auf Papier entlastete er seinen präfrontalen Kortex.\n\nIm heutigen Beitrag untersuchen wir die Neurowissenschaften hinter Galileo Galileis Skizzier-Routine und zeigen, wie Sie komplexe Strukturen visuell vereinfachen können.",
+      "fr": "« Le grand livre de l'univers est écrit dans le langage des mathématiques, et ses caractères sont des triangles, des cercles et d'autres figures géométriques. » 📐\n\nGalilée (1564–1642), le « Père de la science moderne », a révolutionné l'astronomie en fabriquant ses propres lunettes pour découvrir les satellites de Jupiter. En 1581, alors étudiant de 17 ans à l'Université de Pise, Galilée observa une lampe en bronze osciller dans la cathédrale de Pise. En mesurant le temps au rythme de son propre pouls, il fit la découverte majeure de l'« Isochronisme du pendule » : la durée d'une oscillation reste constante quelle que soit l'amplitude.\n\nToute sa vie, Galilée s'appuya sur un rituel cognitif : lorsqu'il étudiait un mouvement mécanique ou une onde, il le traduisait sur le papier sous forme de figures géométriques, vecteurs et arcs. Pour Galilée, le dessin n'était pas un art décoratif, mais un processus d'externalisation spatiale convertissant des équations abstraites en géométrie visuelle tangible. En projetant des relations complexes sur le papier, il libérait son cortex préfrontal de la surcharge cognitive.\n\nDans cet article, nous analysons la neuroscience cognitive sous-jacente aux croquis d'oscillation de Galilée et proposons un cadre pratique pour simplifier les structures complexes.",
+      "pt": "\"O grande livro do universo está escrito na linguagem da matemática, e seus caracteres são triângulos, círculos e outras figuras geométricas.\" 📐\n\nGalileu Galilei (1564–1642), o 'Pai da Ciência Moderna', revolucionou a astronomia ao construir seus próprios telescópios para descobrir as luas de Júpiter. Em 1581, aos 17 anos, como estudante na Universidade de Pisa, observou uma luminária de bronze balançando na Catedral de Pisa. Medindo o tempo pelo próprio pulso, descobriu o 'Isocronismo do Pêndulo': o tempo de oscilação permanece constante independentemente da amplitude.\n\nDurante toda a vida, Galileu usou uma rotina cognitiva fundamental: ao observar o movimento mecânico ou a dinâmica de ondas, desenhava no papel figuras geométricas, vetores e arcos. Desenhar não era um passatempo artístico; era um processo de externalização espacial que convertia equações abstratas em geometria visual tangível. Ao projetar relações complexas no papel, liberava o córtex pré-frontal da sobrecarga cognitiva.\n\nNo artigo de hoje, analisamos a neurociência cognitiva por trás dos esboços de oscilação de Galileu Galilei e apresentamos um guia prático para simplificar estruturas complexas.",
+      "id": "\"Buku besar alam semesta ditulis dalam bahasa matematika, dan karakternya adalah segitiga, lingkaran, dan bentuk geometris lainnya.\" 📐\n\nGalileo Galilei (1564–1642), yang dijuluki sebagai 'Bapak Sains Modern', merevolusi astronomi dengan merancang teleskopnya sendiri untuk menemukan empat bulan terbesar Jupiter. Pada tahun 1581, sebagai mahasiswa berusia 17 tahun di Universitas Pisa, Galileo mengamati lampu perunggu yang berayun di Katedral Pisa. Menggunakan denyut nadinya sendiri sebagai pengukur waktu, ia menemukan 'Isokronisme Pendulum'—mencatat bahwa waktu yang dibutuhkan pendulum untuk menyelesaikan satu ayunan tetap konstan tanpa memandang amplitudo.\n\nSepanjang hidupnya, Galileo mengandalkan rutinitas kognitif dasar: setiap kali mengamati gerakan mekanis atau dinamika gelombang, ia segera menuangkannya ke atas kertas sebagai bentuk geometris, vektor, dan lengkungan. Menggambar bukanlah hobi artistik bagi Galileo; itu adalah proses eksternalisasi spasial yang mengubah persamaan abstrak menjadi geometri visual yang nyata."
     },
     "whyTitle": {
-      "ko": "시공간 스케치북 자극과 이중 부호화의 뇌과학"
+      "ko": "시공간 스케치북 자극과 이중 부호화의 뇌과학",
+      "en": "Stimulating the Visuospatial Sketchpad and the Neuroscience of Dual-Coding Theory",
+      "ja": "視空間スケッチパッド刺激と二重符号化の脳科学",
+      "zh": "刺激视空间草图与双重编码理论的神经科学原理",
+      "es": "Estimulación de la Memoria Visoespacial y Neurociencia de la Codificación Dual",
+      "de": "Stimulation des visuell-räumlichen Notizblocks und die Neurowissenschaften der dualen Kodierung",
+      "fr": "Stimulation du calepin visuo-spatial et neuroscience de la théorie du double codage",
+      "pt": "Estimulação do Bloco Visoespacial e Neurociência da Teoria da Dupla Codificação",
+      "id": "Stimulasi Sketsa Visuospasial dan Neurosains Teori Pengodean Ganda"
     },
     "whyDesc": {
-      "ko": "추상적인 아이디어를 기하학적 도형으로 스케치하는 과정은 대뇌 <strong>두정엽과 후두엽</strong>의 시공간 정보 처리 중심지인 <strong>시공간 스케치북(Visuospatial Sketchpad)</strong>을 강력하게 자극합니다.\n\n시각적 이미지와 텍스트를 동시에 활용하는 <strong>이중 부호화 이론(Dual-Coding Theory)</strong>은 뇌 속에 견고한 정신적 모델을 형성하고 전두엽의 인지 부하를 크게 덜어 줍니다. 관계 간의 거리나 흐름을 종이에 그려 구조화함으로써, 텍스트만으로는 알아채기 힘든 논리적 오류를 식별하고 단순하고 명쾌한 해결책을 찾아낼 수 있습니다."
+      "ko": "추상적인 아이디어를 기하학적 도형으로 스케치하는 과정은 대뇌 <strong>두정엽과 후두엽</strong>의 시공간 정보 처리 중심지인 <strong>시공간 스케치북(Visuospatial Sketchpad)</strong>을 강력하게 자극합니다. 시각적 이미지와 텍스트를 동시에 활용하는 <strong>이중 부호화 이론(Dual-Coding Theory)</strong>은 뇌 속에 견고한 정신적 모델을 형성하고 전두엽의 인지 부하를 크게 덜어 줍니다. 관계 간의 거리나 흐름을 종이에 그려 구조화함으로써, 텍스트만으로는 알아채기 힘든 논리적 오류를 식별하고 단순하고 명쾌한 해결책을 찾아낼 수 있습니다.",
+      "en": "Sketching abstract concepts as geometric structures intensely stimulates the <strong>Visuospatial Sketchpad</strong>—the working memory hub housed across the <strong>parietal and occipital lobes</strong>. Harnessing Allan Paivio's <strong>Dual-Coding Theory</strong> by combining verbal text with non-verbal visual imagery builds robust mental models while substantially reducing prefrontal cognitive load. By visually mapping relationships, directional vectors, and spatial proximity on paper, the brain immediately detects hidden logical flaws and structural bottlenecks that remain invisible in plain text.",
+      "ja": "抽象的なアイデアを幾何学的な図形としてスケッチする過程は、大脳<strong>頭頂葉と後頭葉</strong>の視空間情報処理の中心地である<strong>視空間スケッチパッド（Visuospatial Sketchpad）</strong>を強力に刺激します。視覚的イメージとテキストを同時に活用する<strong>二重符号化理論（Dual-Coding Theory）</strong>は、脳内に堅固な精神的モデルを形成し、前頭葉の認知負荷を大幅に軽減します。関係間の距離やフローを紙に描いて構造化することにより、テキストだけでは気づきにくい論理的エラーを識別し、単純で明快な解決策を見出すことができます。",
+      "zh": "将抽象概念描绘为几何图块的过程，能强力拉动位于大脑<strong>顶叶与枕叶</strong>交界处的视空间信息处理中枢——<strong>视空间草图（Visuospatial Sketchpad）</strong>。依据阿兰·白比奥的<strong>双重编码理论（Dual-Coding Theory）</strong>，将文本语言与非语言视觉意象高度融合，可在脑海中建构起极其坚固的心智模型，大幅摊薄前额叶皮层的认知负荷。通过在纸面上绘制关联距离与矢量流向，大脑能瞬间辨识出单纯被动阅读文本时难以察觉的逻辑死角与结构瓶颈，从而提炼出极简明快的破局方案。",
+      "es": "Traducir conceptos abstractos a figuras geométricas estimula la <strong>Memoria Visoespacial (Visuospatial Sketchpad)</strong>, ubicada en los <strong>lóbulos parietal u occipital</strong>. Basado en la <strong>Teoría de la Codificación Dual</strong>, combinar texto con imágenes visuales crea modelos mentales sólidos y reduce la carga cognitiva prefrontal. Al mapear visualmente relaciones y vectores direccionales en papel, el cerebro identifica de inmediato fallos lógicos o cuellos de botella que pasan desapercibidos en el texto plano.",
+      "de": "Das Skizzieren abstrakter Ideen als geometrische Formen stimuliert den <strong>visuell-räumlichen Notizblock</strong> in den <strong>Scheitel- und Hinterhauptlappen</strong>. Gemäß der <strong>Dualen Kodierungstheorie</strong> baut die Kombination von Sprache und Bildern mentale Modelle auf und entlastet den präfrontalen Kortex. Durch das Zeichnen von Beziehungen und Vektoren auf Papier erkennt das Gehirn sofort logische Lücken, die in reinen Texten verborgen bleiben.",
+      "fr": "Représenter des concepts abstraits sous forme géométrique stimule le <strong>Calepin Visuo-Spatial</strong>, situé dans les <strong>lobes pariétaux et occipitaux</strong>. En s'appuyant sur la <strong>Théorie du double codage</strong>, l'association du texte et de l'image visuelle bâtit des modèles mentaux solides et allège la charge cognitive préfrontale. En cartographiant visuellement les flux et vecteurs sur le papier, le cerveau décèle immédiatement les failles logiques invisibles à la simple lecture.",
+      "pt": "Traduzir conceitos abstratos em figuras geométricas estimula o <strong>Bloco de Rascunho Visoespacial</strong>, localizado nos <strong>lóbulos parietal e occipital</strong>. Com base na <strong>Teoria da Dupla Codificação</strong>, combinar texto com imagens cria modelos mentais sólidos e reduz a carga cognitiva pré-frontal. Ao mapear visualmente relações e vetores no papel, o cérebro identifica falhas lógicas e gargalos estruturais ocultos no texto.",
+      "id": "Menggambar konsep abstrak sebagai struktur geometris secara intensif menstimulasi <strong>Sketsa Visuospasial</strong>—pusat memori kerja yang terletak di <strong>lobus parietal dan oksipital</strong>. Memanfaatkan <strong>Teori Pengodean Ganda</strong> dengan menggabungkan teks verbal dan citra visual non-verbal membangun model mental yang kuat sekaligus mengurangi beban kognitif prefrontal secara signifikan."
     },
     "cautionTitle": {
-      "ko": "예술적 미화보다 구조적 단순성에 집중하는 수칙"
+      "ko": "예술적 미화보다 구조적 단순성에 집중하는 수칙",
+      "en": "Caution: Prioritize Structural Simplicity Over Artistic Embellishment",
+      "ja": "注意事項：芸術的美化より構造的単純性に集中するルール",
+      "zh": "注意事项：聚焦结构极简主义，摒弃无谓艺术美化",
+      "es": "Precaución: Priorice la Simplicidad Estructural sobre la Decoración Artística",
+      "de": "Vorsichtsmaßnahme: Strukturierte Einfachheit vor künstlerischer Gestaltung priorisieren",
+      "fr": "Mise en garde : Prioriser la simplicité structurelle sur l'esthétique artistique",
+      "pt": "Precaução: Priorize a Simplicidade Estrutural em Vez do Acabamento Artístico",
+      "id": "Perhatian: Prioritaskan Kesederhanaan Struktural di Atas Sentuhan Artistik"
     },
     "cautionDesc": {
-      "ko": "그림을 화려하고 정밀하게 그리는 예술적 묘사에 시간을 낭비해서는 안 됩니다. 갈릴레오의 스케치처럼 본질적인 '구조의 표현'에 충실해야 합니다. 단순한 원, 직사각형, 선, 화살표를 사용하여 흐름이나 상관관계를 빠르게 모식화하는 것에 초점을 맞추세요. 예쁘게 그리려다 보면 정작 논리에 쓰여야 할 에너지가 소모됩니다."
+      "ko": "그림을 화려하고 정밀하게 그리는 예술적 묘사에 시간을 낭비해서는 안 됩니다. 갈릴레오의 스케치처럼 본질적인 '구조의 표현'에 충실해야 합니다. 단순한 원, 직사각형, 선, 화살표를 사용하여 흐름이나 상관관계를 빠르게 모식화하는 것에 초점을 맞추세요. 예쁘게 그리려다 보면 정작 논리에 쓰여야 할 에너지가 소모됩니다.",
+      "en": "Do not waste cognitive energy trying to produce elaborate, artistic drawings. Like Galileo's raw diagrams, focus strictly on capturing the essential 'underlying structure'. Limit your visual vocabulary to simple circles, rectangles, lines, and directional arrows to quickly map workflows. Obsessing over aesthetics consumes precious prefrontal bandwidth meant for logical processing.",
+      "ja": "絵を華やかで精密に描く芸術的な描写に時間を浪費してはなりません。ガリレオのスケッチのように本質的な「構造の表現」に忠実でなければなりません。単純な円、長方形、線、矢印を使用して、フローや相関関係を素早く図式化することに焦点を当ててください。きれいに描こうとすると、かえって論理に使われるべきエネルギーが消費されてしまいます。",
+      "zh": "切勿将宝贵脑力浪掷于绘制华丽精细的工笔画或艺术描摹上。须如伽利略的质朴图解一般，牢牢定格于本质的“结构化表达”。仅凭简易圆形、矩形、连线与方向矢量箭头，快速将逻辑节点与关联图解化。过于纠结画面美观，反倒会掏空原本应倾注于逻辑推演上的前额叶能量。",
+      "es": "No malgaste energía cognitiva intentando hacer dibujos artísticos detallados. Como los diagramas esquemáticos de Galileo, concéntrese en capturar la 'estructura esencial'. Limite su lenguaje visual a círculos, rectángulos, líneas y flechas para mapear flujos. Obsesionarse con la estética consume recursos mentales destinados a la lógica.",
+      "de": "Verschwenden Sie keine Energie auf künstlerische Zeichnungen. Konzentrieren Sie sich wie Galilei auf die reine 'Strukturdarstellung'. Nutzen Sie nur Kreise, Rechtecke, Linien und Pfeile, um Abläufe zu skizzieren. Der Versuch, 'schön' zu zeichnen, raubt Energie für das logische Denken.",
+      "fr": "Ne gaspillez pas d'énergie cognitive à réaliser des dessins artistiques élaborés. À l'instar des schémas de Galilée, concentrez-vous uniquement sur la « structure essentielle ». Limitez votre vocabulaire visuel à des cercles, rectangles, lignes et flèches. S'attarder sur l'esthétique consomme l'énergie dédiée à la logique.",
+      "pt": "Não desperdice energia cognitiva tentando fazer desenhos artísticos detalhados. Como os diagramas de Galileu, foque em capturar a 'estrutura essencial'. Limite seu vocabulário visual a círculos, retângulos, linhas e setas para mapear fluxos. Obsessionar-se com a estética consome energia destinada à lógica.",
+      "id": "Jangan membuang energi kognitif untuk mencoba menghasilkan gambar artistik yang rumit. Seperti diagram mentah Galileo, berfokuslah pada menangkap 'struktur dasar' yang penting. Batasi kosakata visual Anda pada lingkaran, persegi panjang, garis, dan panah sederhana. Terlalu memikirkan estetika menguras lebar pita prefrontal yang seharusnya digunakan untuk pemrosesan logis."
     },
     "steps": [
       {
         "name": {
-          "ko": "1단계: 핵심 구성 요소를 원과 사각형으로 구도 잡기"
+          "ko": "1단계: 핵심 구성 요소를 원과 사각형으로 구도 잡기",
+          "en": "Step 1: Mapping Core Elements into Circles and Rectangles",
+          "ja": "ステップ1：核心構成要素を円と長方形で構図をとる",
+          "zh": "步骤1：运用圆形与矩形锚定核心要素版图",
+          "es": "Paso 1: Mapear Elementos Principales en Círculos y Rectángulos",
+          "de": "Schritt 1: Aufteilen der Kernelemente in Kreise und Rechtecke",
+          "fr": "Étape 1 : Cartographie des éléments clés en cercles et rectangles",
+          "pt": "Passo 1: Mapear Elementos-Chave em Círculos e Retângulos",
+          "id": "Langkah 1: Memetakan Elemen Inti Menjadi Lingkaran dan Persegi Panjang"
         },
         "text": {
-          "ko": "해결하려는 문제나 기획의 핵심 개념들을 노트에 동그라미나 네모 등의 간단한 도형으로 적어 배치합니다. 추상적인 생각을 종이라는 물리적 공간에 먼저 고정하는 단계입니다."
+          "ko": "해결하려는 문제나 기획의 핵심 개념들을 노트에 동그라미나 네모 등의 간단한 도형으로 적어 배치합니다. 추상적인 생각을 종이라는 물리적 공간에 먼저 고정하는 단계입니다.",
+          "en": "Write down key target concepts inside simple geometric shapes—such as circles or rectangles—and position them spatially on your page. This step anchors abstract thoughts into a physical visual dimension.",
+          "ja": "解決しようとする問題や企画の核心概念をノートに丸や四角などの簡単な図形で書いて配置します。抽象的な思考を紙という物理的な空間にまず固定する段階です。",
+          "zh": "将待解决课题或方案的核心概念书写于极简几何图块（如圆形或矩形）内部，并散例摆放于纸面上。此步旨在将大脑深处的抽象思绪落地锚定于物理纸面空间中。",
+          "es": "Escriba los conceptos clave dentro de formas geométricas simples (círculos o rectángulos) y distribúyalos en la página. Este paso ancla los pensamientos abstractos en una dimensión física visual.",
+          "de": "Schreiben Sie zentrale Begriffe in einfache geometrische Formen (Kreise oder Rechtecke) und ordnen Sie diese auf der Seite an. So verankern Sie abstrakte Gedanken visuell.",
+          "fr": "Inscrivez les concepts clés à l'intérieur de formes géométriques simples (cercles ou rectangles) et disposez-les sur la page. Cette étape ancre les pensées abstraites dans un espace visuel.",
+          "pt": "Escreva os conceitos-chave dentro de formas geométricas simples (círculos ou retângulos) e distribua-os na página. Este passo ancora pensamentos abstratos em uma dimensão visual.",
+          "id": "Tuliskan konsep target utama di dalam bentuk geometris sederhana—seperti lingkaran atau persegi panjang—dan atur posisinya di halaman Anda. Langkah ini menancapkan pemikiran abstrak ke dalam dimensi visual fisik."
         }
       },
       {
         "name": {
-          "ko": "2단계: 화살표와 파동선으로 인과관계 및 흐름 연결"
+          "ko": "2단계: 화살표와 파동선으로 인과관계 및 흐름 연결",
+          "en": "Step 2: Connecting Causality and Flow via Arrows and Wave Lines",
+          "ja": "ステップ2：矢印と波線で因果関係およびフローを連結",
+          "zh": "步骤2：借助指向箭头与波浪线勾勒因果脉络",
+          "es": "Paso 2: Conectar la Causalidad y el Flujo Mediante Flechas y Ondas",
+          "de": "Schritt 2: Verbinden von Kausalitäten und Abläufen durch Pfeile und Wellenlinien",
+          "fr": "Étape 2 : Connexion de la causalité et du flux par des flèches et lignes ondulées",
+          "pt": "Passo 2: Conectar Causalidade e Fluxo via Setas e Linhas Onduladas",
+          "id": "Langkah 2: Menghubungkan Kausalitas dan Alur Melalui Panah dan Garis Gelombang"
         },
         "text": {
-          "ko": "도형들 사이에 화살표를 그려 관계와 인과의 방향을 표시합니다. 영향력이 큰 관계는 선을 굵게 그리거나 물결 모양으로 파동의 세기를 묘사하여 구조적 긴밀성을 시각화합니다."
+          "ko": "도형들 사이에 화살표를 그려 관계와 인과의 방향을 표시합니다. 영향력이 큰 관계는 선을 굵게 그리거나 물결 모양으로 파동의 세기를 묘사하여 구조적 긴밀성을 시각화합니다.",
+          "en": "Draw arrows between shapes to define directional causality and process relationships. Thicken lines or use wavy wave-like lines to represent high impact or signal intensity, visually representing relational strength.",
+          "ja": "図形と図形の間に矢印を描き、関係と因果の方向を表示します。影響力が大きい関係は線を太く描いたり、波模様で波動の強さを描写して構造的緊密性を視覚化します。",
+          "zh": "在各个几何图形板块间拉画箭头，注定向因果与工序流向。对于影响力巨大的关键节点，可通过加粗线条或描绘波浪折线来展现冲击强度，将结构关联度可视化。",
+          "es": "Dibuje flechas entre las formas para definir la causalidad y las relaciones. Engrose las líneas o use trazos ondulados para representar un alto impacto, visualizando la intensidad del vínculo.",
+          "de": "Zeichnen Sie Pfeile zwischen die Formen, um Kausalitäten und Abläufe darzustellen. Versträrken Sie Linien oder nutzen Sie Wellenlinien, um hohe Einflussstärken visuell hervorzuheben.",
+          "fr": "Tracez des flèches entre les formes pour définir la causalité et le sens des flux. Épaississez les traits ou utilisez des lignes ondulées pour représenter les impacts forts et la puissance des liaisons.",
+          "pt": "Desenhe setas entre as formas para definir a causalidade e a relação entre os processos. Engrosse as linhas ou use traços ondulados para representar alto impacto, visualizando a força relacional.",
+          "id": "Gambarlah panah di antara bentuk-bentuk untuk menentukan kausalitas dan hubungan proses. Tebalkan garis atau gunakan garis bergelombang untuk mewakili dampak tinggi atau intensitas sinyal."
         }
       },
       {
         "name": {
-          "ko": "3단계: 도식적 최적화 및 불필요한 노이즈 제거"
+          "ko": "3단계: 도식적 최적화 및 불필요한 노이즈 제거",
+          "en": "Step 3: Diagrammatic Optimization & Pruning Unnecessary Noise",
+          "ja": "ステップ3：図式的最適化および不必要なノイズの除去",
+          "zh": "步骤3：图解方案优化与剪除繁杂噪点",
+          "es": "Paso 3: Optimización del Esquema y Eliminación de Ruido Innecesario",
+          "de": "Schritt 3: Diagramm-Optimierung & Entfernen von unnötigem Ballast",
+          "fr": "Étape 3 : Optimisation du schéma & Élimination du bruit inutile",
+          "pt": "Passo 3: Otimização do Esquema e Eliminação de Ruído Desnecessário",
+          "id": "Langkah 3: Optimasi Diagram & Pemangkasan Kebisingan yang Tidak Perlu"
         },
         "text": {
-          "ko": "완성된 스케치를 멀리서 바라봅니다. 흐름이 복잡하게 얽히거나 충돌하는 지점이 눈에 띄면, 해당 부분을 결합하거나 불필요한 링크를 삭제하여 가장 조화롭고 단순한 최종 다이어그램으로 최적화합니다."
+          "ko": "완성된 스케치를 멀리서 바라봅니다. 흐름이 복잡하게 얽히거나 충돌하는 지점이 눈에 띄면, 해당 부분을 결합하거나 불필요한 링크를 삭제하여 가장 조화롭고 단순한 최종 다이어그램으로 최적화합니다.",
+          "en": "Step back and view your complete sketch from a distance. Where relationships cross chaotically or create bottlenecks, consolidate nodes or prune unnecessary links, optimizing your diagram into its simplest, most harmonious final form.",
+          "ja": "完成したスケッチを遠くから眺めます。フローが複雑に絡み合ったり衝突するポイントが目に留まったら、該当する部分を結合するか不必要なリンクを削除し、最も調和の取れた単純な最終ダイアグラムへと最適化します。",
+          "zh": "退后半步，从全局视距审视整幅草图。若目击连接线条错综缠绕或发生碰撞冲突之处，当即合并重叠节点或裁撤无谓连线，将其精炼优化为最和谐干练的终极流程图解。",
+          "es": "Tome distancia y observe su boceto completo. Si detecta flujos cruzados o cuellos de botella, fusione nodos o elimine enlaces innecesarios para optimizar el esquema a su forma más simple.",
+          "de": "Betrachten Sie die Skizze mit etwas Abstand. Wenn Verbindungen chaotisch kreuzen, fassen Sie Knoten zusammen oder streichen Sie überflüssige Linien, um das Diagramm auf das Wesentliche zu reduzieren.",
+          "fr": "Prenez du recul et observez votre croquis dans son ensemble. Si des flux s'enchevêtrent, fusionnez des nœuds ou supprimez des liaisons superflues pour optimiser votre schéma.",
+          "pt": "Afaste-se e observe o esboço completo. Se detectar cruzamentos caóticos ou gargalos, una nós ou elimine conexões desnecessárias, otimizando o diagrama para sua forma mais simples.",
+          "id": "Mundurlah dan lihat sketsa lengkap Anda dari jarak jauh. Jika hubungan saling bersilangan secara kacau atau menciptakan kemacetan, gabungkan simpul atau pangkas tautan yang tidak perlu."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "그림 실력이 전혀 없어도 기하학적 스케치 루틴을 실천할 수 있나요?"
+          "ko": "그림 실력이 전혀 없어도 기하학적 스케치 루틴을 실천할 수 있나요?",
+          "en": "Can I practice the geometric sketching routine if I have no drawing skills whatsoever?",
+          "ja": "絵の才能が全くなくても幾何学的スケッチルーティンを実践できますか？",
+          "zh": "丝毫没有绘画基础或艺术细胞的人也能践行这套几何草图习惯吗？",
+          "es": "¿Puedo practicar la rutina de esquemas geométricos sin tener ninguna habilidad para el dibujo?",
+          "de": "Kann man die geometrische Skizzier-Routine auch ohne zeichnerisches Talent anwenden?",
+          "fr": "Puis-je pratiquer la routine de schéma géométrique sans aucun talent en dessin ?",
+          "pt": "Posso praticar a rotina de esboços geométricos sem ter qualquer habilidade para desenhar?",
+          "id": "Bisakah saya mempraktikkan rutinitas sketsa geometris jika saya tidak memiliki keterampilan menggambar sama sekali?"
         },
         "answer": {
-          "ko": "네, 완벽하게 실천할 수 있습니다! 이 루틴은 정교한 그림을 그리는 미술이 아니라 원, 사각형, 선, 화살표라는 4가지 기본 기하학 요소로 생각의 구조를 시각화하는 인지 훈련입니다. 대충 그린 도식이라도 뇌의 시공간 스케치북을 활성화하는 데 충분합니다."
+          "ko": "네, 완벽하게 실천할 수 있습니다! 이 루틴은 정교한 그림을 그리는 미술이 아니라 원, 사각형, 선, 화살표라는 4가지 기본 기하학 요소로 생각의 구조를 시각화하는 인지 훈련입니다. 대충 그린 도식이라도 뇌의 시공간 스케치북을 활성화하는 데 충분합니다.",
+          "en": "Yes, absolutely! This technique is not art; it is a cognitive structured exercise utilizing just four basic geometric elements: circles, rectangles, lines, and arrows. Even rough, hastily drawn shapes are completely sufficient to intensely stimulate the brain's Visuospatial Sketchpad.",
+          "ja": "はい、完璧に実践できます！このルーティンは精巧な絵を描く美術ではなく、円、長方形、線、矢印という4つの基本幾何学要素で思考の構造を可視化する認知訓練です。大雑把に描いた図式であっても、脳の視空間スケッチパッドを活性化させるのに十分です。",
+          "zh": "完全可以！这套习惯绝非讲求精妙画工的艺术创作，而是一场仅需动用“圆形、矩形、线条与箭头”4种基础几何元素的认知架构训练。即便是寥寥数笔勾勒出的简陋草图，也完全足以强力拉动大脑的视空间草图。",
+          "es": "¡Sí, totalmente! Esta técnica no es arte, sino un ejercicio cognitivo estructurado que utiliza solo cuatro elementos: círculos, rectángulos, líneas y flechas. Incluso trazados esquemáticos rápidos son suficientes para activar la memoria visoespacial.",
+          "de": "Ja, absolut! Es geht nicht um Kunst, sondern um kognitives Training mit vier Elementen: Kreise, Rechtecke, Linien und Pfeile. Selbst grobe Skizzen reichen völlig aus, um den visuell-räumlichen Notizblock im Gehirn zu aktivieren.",
+          "fr": "Oui, tout à fait ! Il ne s'agit pas d'art, mais d'un entraînement cognitif s'appuyant sur quatre éléments de base : cercles, rectangles, lignes et flèches. Même un schéma rudimentaire suffit à stimuler le calepin visuo-spatial.",
+          "pt": "Sim, com certeza! Esta técnica não é arte, mas um exercício cognitivo que usa apenas quatro elementos: círculos, retângulos, linhas e setas. Mesmo esboços simples são suficientes para ativar o bloco visoespacial.",
+          "id": "Ya, tentu saja! Teknik ini bukanlah seni; ini adalah latihan kognitif terstruktur yang hanya menggunakan empat elemen geometris dasar: lingkaran, persegi panjang, garis, dan panah. Bahkan bentuk kasar yang digambar dengan cepat sudah cukup untuk menstimulasi Sketsa Visuospasial otak."
         }
       },
       {
         "question": {
-          "ko": "디지털 드로잉 앱(태블릿)을 사용해서 스케치해도 동일한 효과가 있나요?"
+          "ko": "디지털 드로잉 앱(태블릿)을 사용해서 스케치해도 동일한 효과가 있나요?",
+          "en": "Does sketching on digital drawing apps using tablets deliver identical cognitive benefits?",
+          "ja": "デジタルドローイングアプリ（タブレット）を使用してスケッチしても同じ効果がありますか？",
+          "zh": "在平板电脑上使用数字绘图应用进行草图描绘能斩获同等效益吗？",
+          "es": "¿Dibujar en aplicaciones digitales con tabletas ofrece los mismos beneficios cognitivos?",
+          "de": "Bietet das Skizzieren auf Tablets mit digitalen Zeichen-Apps dieselben Vorteile?",
+          "fr": "Le fait de schématiser sur des applications numériques via une tablette offre-t-il les mêmes bénéfices ?",
+          "pt": "Desenhar em aplicativos digitais usando tablets oferece os mesmos benefícios cognitivos?",
+          "id": "Apakah menggambar di aplikasi lukis digital menggunakan tablet memberikan manfaat kognitif yang sama?"
         },
         "answer": {
-          "ko": "디지털 펜슬을 사용하는 것도 좋은 대안이지만, 가급적 실제 종이와 펜을 추천합니다. 종이 표면의 미세한 마찰력이 손가락 끝의 체성감각 피드백을 전달하여 뇌의 인지 오프로딩 효과를 더 높여주기 때문입니다."
+          "ko": "디지털 펜슬을 사용하는 것도 좋은 대안이지만, 가급적 실제 종이와 펜을 추천합니다. 종이 표면의 미세한 마찰력이 손가락 끝의 체성감각 피드백을 전달하여 뇌의 인지 오프로딩 효과를 더 높여주기 때문입니다.",
+          "en": "Using a digital stylus is a functional alternative, but real paper and pen remain superior. The micro-friction of a physical paper surface generates tactile somatosensory feedback through your fingertips, achieving a deeper level of cognitive offloading and neural engagement.",
+          "ja": "デジタルペンシルを使用することも良い代替案ですが、なるべく実際の紙とペンをお勧めします。紙の表面の微細な摩擦力が指先の体性感覚フィードバックを伝達し、脳の認知オフローディング効果をより高めてくれるためです。",
+          "zh": "搭配触控笔使用数字设备固然也是可行的替代方案，但仍强烈推荐使用实体纸笔。纸张表面的物理微观摩擦阻力可经由指尖向大脑传递丰富的体感反馈，从而缔造更深层次的认知外置与神经沉浸。",
+          "es": "Utilizar un lápiz óptico es una alternativa funcional, pero el papel y bolígrafo reales siguen siendo superiores. La microfricción del papel genera una retroalimentación somatosensorial en los dedos que logra una mayor externalización cognitiva.",
+          "de": "Ein digitaler Stift ist eine brauchbare Alternative, aber echtes Papier bleibt überlegen. Die Reibung auf der Papieroberfläche erzeugt taktiles Feedback über die Fingerspitzen, was zu einer tiefeneren kognitiven Entlastung führt.",
+          "fr": "L'utilisation d'un stylet numérique est une alternative valable, mais le papier et le crayon restent supérieurs. La micro-friction de la surface du papier génère un retour somatosensoriel qui approfondit l'externalisation cognitive.",
+          "pt": "Usar uma caneta digital é uma alternativa viável, mas o papel e a caneta reais continuam sendo superiores. A microfricção do papel gera um feedback somatossensorial nos dedos que alcança um nível mais profundo de externalização.",
+          "id": "Menggunakan stylus digital adalah alternatif yang fungsional, tetapi kertas dan pena nyata tetap lebih unggul. Gesekan mikro dari permukaan kertas fisik menghasilkan umpan balik somatosensori taktil melalui ujung jari Anda, mencapai tingkat eksternalisasi kognitif yang lebih mendalam."
         }
       }
     ]

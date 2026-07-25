@@ -1,70 +1,214 @@
 {
   "goethe-botany-observation": {
     "title": {
-      "ko": "정원을 걸으며 씨앗을 모은 대문호? 괴테의 아침 관찰 습관"
+      "ko": "정원을 걸으며 씨앗을 모은 대문호: 괴테의 아침 관찰 습관과 주의 회복 루틴",
+      "en": "The Literary Giant Who Collected Seeds in His Garden: Goethe's Morning Observation Habit and Attention Restoration Routine",
+      "ja": "庭園を歩きながら種を集めた大文豪：ゲーテの朝の観察習慣と注意回復ルーティン",
+      "zh": "漫步漫步庭院搜集种子的大文豪：歌德的清晨观察习惯与注意力恢复指南",
+      "es": "El Gigante Literario que Recogía Semillas en su Jardín: La Rutina Matutina de Observación y Restauración de la Atención de Goethe",
+      "de": "Der Literaturgigant, der Samen im Garten sammelte: Goethes morgendliche Beobachtungsgewohnheit und Aufmerksamkeitserholung",
+      "fr": "Le géant de la littérature qui collectionnait des graines dans son jardin : La routine matinale d'observation et de restauration de l'attention de Goethe",
+      "pt": "O Gigante Literário que Coletava Sementes em Seu Jardim: A Rotina Matinal de Observação e Restauração da Atenção de Goethe",
+      "id": "Raksasa Sastra yang Mengumpulkan Biji-bijian di Tamannya: Kebiasaan Pengamatan Pagi dan Rutinitas Restorasi Perhatian Goethe"
     },
     "description": {
-      "ko": "매일 아침 돋보기로 식물을 정밀 관찰하며 자연의 영감을 얻은 요한 볼프강 폰 괴테. 자연 노출이 인지 피로를 급격히 낮추는 '주의 회복 이론'의 비밀과 괴테의 아침 관찰 산책법을 제시합니다."
+      "ko": "매일 아침 돋보기로 식물을 정밀 관찰하며 자연의 영감을 얻은 요한 볼프강 폰 괴테. 자연 노출이 인지 피로를 급격히 낮추는 '주의 회복 이론'의 비밀과 괴테의 아침 관찰 산책법, 뇌과학적 메커니즘을 제시합니다.",
+      "en": "Discover how Johann Wolfgang von Goethe gained profound inspiration by observing plants through a magnifying glass every morning. Explore Attention Restoration Theory (ART), fractal geometry, and his morning botanical walk routine.",
+      "ja": "毎日朝、拡大鏡で植物を精密観察し自然のインスピレーションを得たヨハン・ヴォルフガング・フォン・ゲーテ。自然露出が認知疲労を劇的に下げる「注意回復理論」の秘密と、ゲーテの朝の観察散歩法、脳科学的メカニズムを解き明かします。",
+      "zh": "探索约翰·沃尔夫冈·冯·歌德每天清晨借助放大镜精细观察植物、获取自然灵感的习惯。揭示自然接触大幅降低认知疲劳的“注意力恢复理论（ART）”原理与歌德晨间观察散步法。",
+      "es": "Descubra cómo Johann Wolfgang von Goethe obtenía inspiración observando plantas con una lupa cada mañana. Explore la Teoría de Restauración de la Atención (ART), la geometría fractal y su rutina de paseo botánico matutino.",
+      "de": "Erfahren Sie, wie Johann Wolfgang von Goethe durch die morgendliche Pflanzenbeobachtung mit der Lupe tiefe Inspiration gewann. Entdecken Sie die Theorie der Wiederherstellung der Aufmerksamkeit (ART) und Goethes Routine.",
+      "fr": "Découvrez comment Johann Wolfgang von Goethe puisait son inspiration en observant les plantes a la loupe chaque matin. Explorez la théorie de restauration de l'attention (ART) et sa routine de marche botanique matinale.",
+      "pt": "Descubra como Johann Wolfgang von Goethe obtinha inspiração observando plantas com uma lupa todas as manhãs. Explore a Teoria da Restauração da Atenção (ART), a geometria fractal e sua rotina de caminhada botânica matinal.",
+      "id": "Pelajari bagaimana Johann Wolfgang von Goethe mendapatkan inspirasi mendalam dengan mengamati tumbuhan melalui kaca pembesar setiap pagi. Temukan Teori Restorasi Perhatian (ART) dan rutinitas jalan botanis paginya."
     },
     "authority": {
-      "ko": "요한 볼프강 폰 괴테 자서전 『시와 진실(Dichtung und Wahrheit)』 및 식물학 논문 『식물 변형론(Metamorphose der Pflanzen)』 고증 & 인지신경과학(Cognitive Neuroscience) 및 환경심리학(Environmental Psychology) 연구"
+      "ko": "요한 볼프강 폰 괴테 자서전 『시와 진실(Dichtung und Wahrheit)』 및 식물학 논문 『식물 변형론(Metamorphose der Pflanzen)』 고증 & 인지신경과학(Cognitive Neuroscience) 및 환경심리학(Environmental Psychology) 연구",
+      "en": "Historical Verification from Johann Wolfgang von Goethe's *Dichtung und Wahrheit* & *The Metamorphosis of Plants*, Weimar Museum Archives & Cognitive Neuroscience Research",
+      "ja": "ヨハン・ヴォルフガング・フォン・ゲーテ自伝『詩と真実（Dichtung und Wahrheit）』および植物学論文『植物変態論（Metamorphose der Pflanzen）』考証＆認知神経科学（Cognitive Neuroscience）および環境心理学（Environmental Psychology）研究",
+      "zh": "约翰·沃尔夫冈·冯·歌德自传《诗与真（Dichtung und Wahrheit）》与植物学论文《植物变形记（Metamorphose der Pflanzen）》考证及认知神经科学（Cognitive Neuroscience）与环境心理学（Environmental Psychology）研究",
+      "es": "Verificación Histórica de *Poesía y verdad (Dichtung und Wahrheit)* y *La metamorfosis de las plantas* de Johann Wolfgang von Goethe, Archivos del Museo de Weimar e Investigación en Neurociencia Cognitiva",
+      "de": "Historische Überprüfung aus Johann Wolfgang von Goethes *Dichtung und Wahrheit* & *Versuch die Metamorphose der Pflanzen*, Weimarer Museumsarchiven & Forschung der kognitiven Neurowissenschaften und Umweltpsychologie",
+      "fr": "Vérification Historique issue de *Poésie et Vérité (Dichtung und Wahrheit)* et *La Métamorphose des plantes* de Johann Wolfgang von Goethe, des archives du Musée de Weimar & de la Recherche en Neurosciences Cognitives",
+      "pt": "Verificação Histórica de *Poesia e Verdade (Dichtung und Wahrheit)* e *A Metamorfose das Plantas* de Johann Wolfgang von Goethe, Arquivos do Museu de Weimar e Pesquisa em Neurociência Cognitiva",
+      "id": "Verifikasi Historis dari *Dichtung und Wahrheit* & *The Metamorphosis of Plants* karya Johann Wolfgang von Goethe, Arsip Museum Weimar & Penelitian Neurosains Kognitif"
     },
     "intro": {
-      "ko": "독일 문학의 정점이자 세계 문학사의 위대한 대작 《파우스트》와 소설 《젊은 베르테르의 슬픔》을 탄생시킨 요한 볼프강 폰 괴테. 그는 문학가일 뿐만 아니라 식물학, 색채학, 해부학을 깊이 탐구하며 식물 관찰 논문 《식물 변형론》까지 저술한 만능 지식인이었습니다. 과학과 문학의 경계를 넘나들던 그의 창조적인 아이디어 배후에는 매일 아침 집무를 시작하기 전 실천했던 놀라운 아침 의식이 있었습니다. 🌱\n\n그것은 바로 정원을 산책하며 야생 식물을 정교하게 들여다보고 씨앗을 채집하는 '정원 관찰 산책 습관'이었습니다. 그는 매일 아침 바이마르의 자택 정원과 숲길을 느린 걸음으로 걸었습니다. 괴테는 단순한 산책에 그치지 않고 채집용 봉투와 돋보기를 늘 챙겨 다녔습니다. 돋보기를 들고 꽃잎의 무늬, 이파리의 성장선, 씨앗의 나선 패턴 등을 마치 현미경을 보듯 극도로 정밀하게 관찰했고 맘에 드는 씨앗은 소중하게 봉투에 모았습니다. 괴테에게 이 시간은 집무의 압박에서 벗어나 자연의 디자인 법칙을 시각화하고, 뇌의 피로를 씻어내어 맑은 사유를 기동하는 인지 충전소였습니다.\n\n오늘 포스트에서는 괴테의 아침 관찰 산책 속에 깃든 환경심리학적 원리와 인지적 주의력을 회복하고 하루의 통찰력을 높이는 현대적 15분 아침 관찰법을 공유합니다."
+      "ko": "\"자연은 깊은 고요 속에서 언제나 우리에게 진실을 말해준다. 자연의 아주 작은 신비에 집중하는 시간이야말로 뇌의 가장 맑은 사유를 깨우는 충전소이다.\" 🌱\n\n독일 문학의 정점이자 세계 문학사의 위대한 대작 『파우스트(Faust)』와 소설 『젊은 베르테르의 슬픔』을 탄생시킨 거장 요한 볼프강 폰 괴테(Johann Wolfgang von Goethe, 1749–1832). 그는 문학가일 뿐만 아니라 식물학, 색채학, 해부학을 깊이 탐구하며 1790년 식물 관찰 논문 『식물 변형론(Metamorphose der Pflanzen)』까지 저술한 만능 지식인이었습니다. 과학과 문학의 경계를 넘나들던 그의 창조적인 아이디어 배후에는 매일 아침 집무를 시작하기 전 실천했던 놀라운 아침 의식이 있었습니다.\n\n그것은 바로 바이마르 자택 정원과 일름 공원(Park an der Ilm)을 산책하며 야생 식물을 정교하게 들여다보고 씨앗을 채집하는 '정원 관찰 산책 습관'이었습니다. 괴테는 단순한 산책에 그치지 않고 외투 주머니 속에 채집용 종이 봉투와 돋보기를 늘 챙겨 다녔습니다. 돋보기를 들고 꽃잎의 무늬, 이파리의 성장선, 씨앗의 나선 패턴 등을 마치 현미경을 보듯 극도로 정밀하게 관찰했고 맘에 드는 씨앗은 소중하게 봉투에 모았습니다. 그는 모든 식물의 근원적 형태인 '원식물(*Urpflanze*)'의 기하학적 비밀을 시각적으로 탐색했습니다. 괴테에게 이 시간은 국정 집무의 압박에서 벗어나 자연의 디자인 법칙을 시각화하고, 뇌의 피로를 씻어내어 맑은 사유를 기동하는 인지 충전소였습니다.\n\n오늘 포스트에서는 괴테의 아침 관찰 산책 속에 깃든 환경심리학적 원리와 인지적 주의력을 회복하고 하루의 통찰력을 높이는 현대적 15분 아침 관찰법을 공유합니다.",
+      "en": "\"Nature speaks to us in deep quiet. Focusing on the smallest mysteries of nature is the recharge station that awakens the brain's clearest thoughts.\" 🌱\n\nJohann Wolfgang von Goethe (1749–1832) was the undisputed titan of German literature who authored world-literary masterpieces including *Faust* and *The Sorrows of Young Werther*. Beyond his literary brilliance, Goethe was a passionate polymath who conducted rigorous scientific research in botany, optics, and anatomy—publishing his groundbreaking 1790 scientific treatise, *The Metamorphosis of Plants* (*Versuch die Metamorphose der Pflanzen*).\n\nWhat was the daily routine that nourished his creative capacity across both science and art? It was his strict morning habit of botanical observation. Every morning before beginning his administrative duties in Weimar, Goethe walked slowly through his garden and the nearby Park an der Ilm. Carrying a magnifying glass and paper collection envelopes in his coat pockets, he examined wild flora with microscopic precision—studying leaf venation patterns, petal symmetry, and seed spirals in search of the *Urpflanze* (the archetypal primal plant). To Goethe, this daily ritual was an essential cognitive sanctuary that cleared mental fatigue and primed his brain for deep creative insight.\n\nIn today's post, we analyze the environmental psychology and cognitive neuroscience behind Goethe's 'botanical observation walk' routine and present a modern 15-minute protocol to restore your prefrontal focus.",
+      "ja": "「自然は深い静寂の中で、常に私たちに真実を語りかける。自然のごく小さな神秘に集中する時間こそ、脳の最も澄んだ思索を呼び覚ます充電所である。」 🌱\n\nドイツ文学の頂点であり、世界文学史の偉大な大作『ファウスト（Faust）』や小説『若きウェルテルの悩み』を生み出した巨匠ヨハン・ヴォルフガング・フォン・ゲーテ（Johann Wolfgang von Goethe、1749–1832）。彼は文学者であるだけでなく、植物学、色彩学、解剖学を深く探求し、1790年に植物観察論文『植物変態論（Metamorphose der Pflanzen）』まで著した万能の知識人でした。科学と文学の境界を行き来した彼の創造的なアイデアの背後には、毎日朝執務を開始する前に実践した驚くべき朝の儀式がありました。\n\nそれは、ワイマールの自宅の庭園やイルム公園（Park an der Ilm）を散歩しながら野生植物を精緻に覗き込み、種子を採集する「庭園観察散歩習慣」でした。ゲーテは単なる散歩にとどまらず、コートのポケットの中に採集用の紙袋と拡大鏡を常に忍ばせて持ち歩きました。拡大鏡を手にして花びらの模様、葉の成長線、種子の螺旋パターンなどを、あたかも顕微鏡をのぞくように極めて精密に観察し、気に入った種子は大切に袋に集めました。彼はすべての植物の根源的形態である「原植物（Urpflanze）」の幾何学的秘密を視覚的に探求したのです。ゲーテにとってこの時間は、国政執務の圧力から解放されて自然のデザイン法則を可視化し、脳の疲労を洗い流して澄んだ思索を稼働させる認知充電所でした。\n\n本日の記事では、ゲーテの朝の観察散歩に宿る環境心理学的原理と、認知的注意力を回復して1日の洞察力を高める現代的な15分朝の観察法を共有します。",
+      "zh": "“自然在深邃的沉静中，时刻向我们倾吐真谛。全神贯注于大自然微观奥秘的时分，正是唤醒大脑最清明思索的能量充电站。” 🌱\n\n作为德国文学的巍峨巅峰、世界文学史巨著《浮士德（Faust）》与小说《少年维特的烦恼》的缔造者——约翰·沃尔夫冈·フォン·歌德（Johann Wolfgang von Goethe，1749–1832）。他不仅是一位伟大的文学家，更在植物学、色彩学与解剖学领域深耕笃行，并于1790年发表了划时代的植物学论文《植物变形记（Metamorphose der Pflanzen）》。在这位穿梭于科学与文学藩篱间的博学巨擘背后，正藏着他每天清晨开启工作前所践行的奇妙晨间仪式。\n\n那便是漫步于魏玛的私人庭院与伊尔姆公园（Park an der Ilm）、细致端详野生植物并收集种子的“庭院观察散步习惯”。歌德绝非走马观花地散步，他的大衣口袋里总是随身揣着放大镜与采集纸袋。他手持放大镜，如使用显微镜般极其精细地端详花瓣脉络、叶片的生长纹理与种子的螺旋图案，并将心仪的种子慎重收纳于纸袋中。他在直观视觉层面探寻着作为万千植物始祖雏形的“原植物（Urpflanze）”几何奥秘。对歌德而言，这段时光是摆脱国务高压、将自然界的设计法则可视化、洗涤大脑疲惫并启动清明思考的绝佳“认知充电站”。\n\n在今天的文章中，我们将深度解构歌德“清晨观察散步”习惯背后的环境心理学原理，并分享一套助你修复认知注意力、拉满全天洞察力的现代15分钟晨间观察方案。",
+      "es": "\"La naturaleza nos habla en un profundo silencio. Concentrarse en los pequeños misterios de la naturaleza es la estación de recarga que despierta los pensamientos más claros del cerebro.\" 🌱\n\nJohann Wolfgang von Goethe (1749–1832) fue el gigante indiscutible de la literatura alemana, autor de obras maestras universales como *Fausto* y *Las cuitas del joven Werther*. Más allá de su genio literario, Goethe fue un polímata fascinado por la botánica, la óptica y la anatomía, publicando en 1790 su tratado *La metamorfosis de las plantas* (*Versuch die Metamorphose der Pflanzen*).\n\n¿Cuál era la rutina diaria que alimentaba su creatividad tanto en la ciencia como en el arte? Su hábito matutino de observación botánica. Cada mañana, antes de iniciar sus labores administrativas en Weimar, Goethe caminaba despacio por su jardín y el Parque Ilm. Con una lupa y sobres de papel en los bolsillos, examinaba la flora silvestre con precisión microscópica: estudiaba la nervadura de las hojas, la simetría de los pétalos y las espirales de las semillas en busca de la *Urpflanze* (la planta primordial). Para Goethe, este ritual era un santuario cognitivo que limpiaba la fatiga mental.\n\nEn la publicación de hoy, analizamos la psicología ambiental y la neurociencia cognitiva detrás de la 'caminata de observación botánica' de Goethe y presentamos un protocolo moderno de 15 minutos para restaurar su enfoque prefrontal.",
+      "de": "\"Die Natur spricht in der tiefen Stille zu uns. Das Sich-Vertiefen in die kleinsten Geheimnisse der Natur ist die Ladestation, die die klarsten Gedanken des Gehirns weckt.\" 🌱\n\nJohann Wolfgang von Goethe (1749–1832) war der Dichterfürst der deutschen Literatur, der Meisterwerke wie *Faust* und *Die Leiden des jungen Werthers* schuf. Neben seinen literarischen Erfolgen erforschte Goethe die Botanik, Farbenlehre und Anatomie und veröffentlichte 1790 die Abhandlung *Versuch die Metamorphose der Pflanzen*.\n\nWelche Morgenroutine nährte seine Kreativität in Wissenschaft und Kunst? Es war seine botanische Beobachtungsgewohnheit. Jeden Morgen vor Beginn seiner Amtsgeschäfte in Weimar ging Goethe langsam durch seinen Garten und den Park an der Ilm. Mit einer Lupe und Papiertüten in den Mantentaschen untersuchte er die Pflanzenwelt mit mikroskopischer Präzision. Er studierte Blattadern, Blütensymmetrien und Samenmuster auf der Suche nach der *Urpflanze*. Für Goethe war dieses Ritual eine Erholung für das Gehirn, die mentale Erschöpfung beseitigte.\n\nIm heutigen Beitrag analysieren wir die Umweltpsychologie und Neurowissenschaften hinter Goethes 'botanischer Beobachtungsroutine' und bieten eine 15-minütige Anleitung zur Wiederherstellung der Konzentration.",
+      "fr": "« La nature nous parle dans un profond silence. Se concentrer sur ses plus petits mystères est la station de recharge qui éveille les pensées les plus limpides. » 🌱\n\nJohann Wolfgang von Goethe (1749–1832) fut le géant incontesté de la littérature allemande, auteur de chefs-d'œuvre tels que *Faust* et *Les Souffrances du jeune Werther*. Au-delà de sa création littéraire, Goethe était un érudit passionné de botanique, d'optique et d'anatomie, publiant en 1790 son traité scientifique *La Métamorphose des plantes* (*Versuch die Metamorphose der Pflanzen*).\n\nQuelle routine quotidienne alimentait sa créativité a la fois scientifique et artistique ? Son habitude matinale d'observation botanique. Chaque matin avant de commencer ses tâches administratives à Weimar, Goethe arpentait lentement son jardin et le Parc de l'Ilm. Muni d'une loupe et de enveloppes en papier dans ses poches, il étudiait la flore avec une précision microscopique : nervures des feuilles, symétrie des pétales et spirales des graines en quête de l'*Urpflanze* (la plante originelle). Pour Goethe, ce rituel était un sanctuaire cognitif qui dissipait la fatigue mentale.\n\nDans cet article, nous analysons la psychologie environnementale et la neuroscience cognitive sous-jacentes a la « marche d'observation botanique » de Goethe et proposons un protocole moderne de 15 minutes pour restaurer l'attention.",
+      "pt": "\"A natureza nos fala em profundo silêncio. Concentrar-se nos menores mistérios da natureza é a estação de recarga que desperta os pensamentos mais claros do cérebro.\" 🌱\n\nJohann Wolfgang von Goethe (1749–1832) foi o gigante da literatura alemã, autor de obras-primas como *Fausto* e *Os Sofrimentos do Jovem Werther*. Além de seu gênio literário, Goethe foi um polímata fascinado por botânica, óptica e anatomia, publicando em 1790 seu tratado científico *A Metamorfose das Plantas* (*Versuch die Metamorphose der Pflanzen*).\n\nQual era a rotina diária que alimentava sua capacidade criativa tanto na ciência quanto na arte? Seu hábito matinal de observação botânica. Todas as manhãs, antes de iniciar suas tarefas em Weimar, Goethe caminhava devagar por seu jardim e pelo Parque Ilm. Com uma lupa e envelopes de papel nos bolsos, examinava a flora com precisão microscópica: estudava as nervuras das folhas, a simetria das pétalas e as espirais das sementes em busca da *Urpflanze* (a planta primordial). Para Goethe, esse ritual era um santuário cognitivo que limpava a fadiga mental.\n\nNo artigo de hoje, analisamos a psicologia ambiental e a neurociência cognitiva por trás da 'caminhada de observação botânica' de Goethe e apresentamos um guia prático de 15 minutos para restaurar seu foco pré-frontal.",
+      "id": "\"Alam berbicara kepada kita dalam keheningan yang mendalam. Berfokus pada misteri alam terkecil adalah stasiun pengisian ulang yang membangunkan pemikiran paling jernih dari otak.\" 🌱\n\nJohann Wolfgang von Goethe (1749–1832) adalah raksasa sastra Jerman yang menulis mahakarya sastra dunia termasuk *Faust* dan *The Sorrows of Young Werther*. Di luar kejeniusan sastranya, Goethe adalah seorang cendekiawan yang melakukan penelitian ilmiah ketat dalam bidang botani, optik, dan anatomi—menerbitkan risalah ilmiahnya tahun 1790, *The Metamorphosis of Plants* (*Versuch die Metamorphose der Pflanzen*).\n\nApa rutinitas harian yang memberi makan kapasitas kreatifnya di bidang sains dan seni? Kebiasaan pengamatan botanis di pagi hari. Setiap pagi sebelum memulai tugas administratifnya di Weimar, Goethe berjalan perlahan melintasi tamannya dan Park an der Ilm. Membawa kaca pembesar dan amplop kertas di saku mantelnya, ia memeriksa flora liar dengan presisi mikroskopis—mempelajari pola tulang daun, simetri kelopak, dan spiral biji untuk mencari *Urpflanze* (tanaman purba utama). Bagi Goethe, ritual ini adalah tempat perlindungan kognitif yang membersihkan kelelahan mental."
     },
     "whyTitle": {
-      "ko": "자연 노출과 '주의 회복 이론(ART)'의 뇌과학"
+      "ko": "자연 노출과 '주의 회복 이론(ART)'의 뇌과학",
+      "en": "Nature Exposure and the Brain Science of Attention Restoration Theory (ART)",
+      "ja": "自然露出と「注意回復理論（ART）」の脳科学",
+      "zh": "自然接触与“注意力恢复理论（ART）”的脑科学机制",
+      "es": "Exposición a la Naturaleza y la Ciencia Cerebral de la Teoría de Restauración de la Atención (ART)",
+      "de": "Naturerlebnis und die Neurowissenschaften der Theorie der Wiederherstellung der Aufmerksamkeit (ART)",
+      "fr": "Exposition à la nature et science cérébrale de la théorie de restauration de l'attention (ART)",
+      "pt": "Exposição à Natureza e a Ciência Cerebral da Teoria da Restauração da Atenção (ART)",
+      "id": "Paparan Alam dan Ilmu Otak di Balik Teori Restorasi Perhatian (ART)"
     },
     "whyDesc": {
-      "ko": "컴퓨터 화면의 데이터 분석, 조밀한 글자 읽기, 복잡한 업무 기획 등은 대뇌 전두엽이 인지적 에너지를 지속 소모하는 <strong>'의도적 주의 집중(Directed Attention)'</strong> 상태를 유발합니다. 이 상태가 지속되면 뇌는 집중 피로(Directed Attention Fatigue)를 겪으며 주의력과 창의력이 급감합니다.\n\n환경심리학자 스티븐 카플란(Stephen Kaplan)이 제안한 <strong>'주의 회복 이론(Attention Restoration Theory, ART)'</strong>에 따르면, 식물의 프랙탈 구조, 흩날리는 잎사귀, 씨앗 무늬와 같이 인위적인 노력이 필요 없는 자연물의 비의도적 주의 집중 대상을 관찰할 때 뇌의 의도적 주의 회복 스위치가 켜집니다. 아침에 정원을 정밀하게 관찰하며 15분간 느리게 산책하는 리추얼은 전두엽의 인지 피로를 해소하고 스트레스 호르몬인 코르티솔 수치를 낮추어, 하루 종일 직관과 통찰의 깊이를 유지하도록 돕습니다."
+      "ko": "컴퓨터 화면의 데이터 분석, 조밀한 글자 읽기, 복잡한 업무 기획 등은 대뇌 전두엽이 인지적 에너지를 지속 소모하는 <strong>'의도적 주의 집중(Directed Attention)'</strong> 상태를 유발합니다. 이 상태가 지속되면 뇌는 집중 피로(Directed Attention Fatigue)를 겪으며 주의력과 창의력이 급감합니다. 환경심리학자 스티븐 카플란(Stephen Kaplan)이 제안한 <strong>'주의 회복 이론(Attention Restoration Theory, ART)'</strong>에 따르면, 식물의 프랙탈 구조, 흩날리는 잎사귀, 씨앗 무늬와 같이 인위적인 노력이 필요 없는 자연물의 비의도적 주의 집중 대상을 관찰할 때 뇌의 의도적 주의 회복 스위치가 켜집니다. 아침에 정원을 정밀하게 관찰하며 15분간 느리게 산책하는 리추얼은 전두엽의 인지 피로를 해소하고 스트레스 호르몬인 코르티솔 수치를 낮추어, 하루 종일 직관과 통찰의 깊이를 유지하도록 돕습니다.",
+      "en": "Analyzing data on screens, reading dense text, and executing complex work strategies trap the prefrontal cortex in a state of continuous energy depletion known as <strong>Directed Attention</strong>. Prolonged exposure causes Directed Attention Fatigue, sharply degrading problem-solving capacity and focus. According to Stephen and Rachel Kaplan's <strong>Attention Restoration Theory (ART)</strong>, observing natural elements—such as botanical fractal geometry, rustling leaves, or seed spirals—engages 'Soft Fascination' (Involuntary Attention), requiring zero cognitive effort. A 15-minute slow morning walk spent examining nature resets prefrontal fatigue and downregulates cortisol, sustaining intuitive clarity and deep insight throughout the day.",
+      "ja": "コンピューター画面のデータ分析、緻密な文字の読書、複雑な業務企画などは、大脳前頭葉が認知エネルギーを消費し続ける<strong>「意図的注意力（Directed Attention）」</strong>状態を引き起こします。この状態が持続すると、脳は集中疲労（Directed Attention Fatigue）を経験し、注意力と創造力が急減します。環境心理学者スティーブン・カプラン（Stephen Kaplan）が提案した<strong>「注意回復理論（Attention Restoration Theory, ART）」</strong>によると、植物のフラクタル構造、舞い散る葉、種子の模様のように人為的な努力を必要としない自然物の非意図的注意力集中対象を観察する時、脳の意図的注意回復スイッチがオンになります。朝庭園を精密に観察しながら15分間ゆっくり散歩するリチュアルは、前頭葉の認知疲労を解消し、ストレスホルモンであるコルチゾール数値を下げ、終日直感と洞察の深さを維持するよう助けます。",
+      "zh": "在屏幕前分析数据、阅读密密麻麻的文字或推演复杂的工作策划，会使大脑前额叶皮层陷于持续消耗神经能量的<strong>“定向注意力（Directed Attention）”</strong>状态。该状态长时间持续会导致定向注意力疲劳（Directed Attention Fatigue），使专注力与创造力剧烈下滑。根据环境心理学家斯蒂芬·卡普兰（Stephen Kaplan）提出的<strong>“注意力恢复理论（Attention Restoration Theory，ART）”</strong>，当倾注注意力于植物的分形几何结构、随风摇曳的树叶或种子的螺旋纹理等无需消耗认知努力的自然物象（即“柔性吸引 Soft Fascination”）时，大脑的定向注意力修复开关便会被开启。清晨花15分钟细致观照植物并慢速踱步，能彻底清扫前额叶的认知疲劳，拉低应激激素皮质醇水平，确保整天保有深邃的直觉与洞察力。",
+      "es": "Analizar datos en pantallas o leer texto denso atrapa a la corteza prefrontal en un estado de agotamiento de energía conocido como <strong>Atención Dirigida</strong>. La exposición prolongada causa Fatiga de la Atención Dirigida, reduciendo la creatividad. Según la <strong>Teoría de Restauración de la Atención (ART)</strong> de Stephen Kaplan, observar elementos naturales (geometría fractal, hojas o espirales) activa la 'Fascinación Suave' (Atención Involuntaria) sin esfuerzo mental. Un paseo de 15 minutos observando la naturaleza reinicia la fatiga prefrontal y reduce el cortisol, manteniendo la claridad intuitiva durante el día.",
+      "de": "Das Analysieren von Daten auf Bildschirmen oder das Lesen dichter Texte versetzt den präfrontalen Kortex in den Zustand der dauerhaften <strong>gerichteten Aufmerksamkeit (Directed Attention)</strong>. Dies führt zu Erschöpfung. Nach Stephen Kaplans <strong>Theorie der Wiederherstellung der Aufmerksamkeit (ART)</strong> aktiviert das Betrachten von Naturelementen (fraktale Strukturen, Blätterrauschen, Samenmuster) die 'sanfte Faszination' (unwillkürliche Aufmerksamkeit) ohne Anstrengung. Ein 15-minütiger Beobachtungsspaziergang entlastet das Stirnhirn und senkt den Cortisolspiegel.",
+      "fr": "L'analyse de données sur écran ou la lecture dense maintiennent le cortex préfrontal dans un état d'épuisement énergétique appelé <strong>Attention Dirigée</strong>. Une exposition prolongée provoque la Fatigue de l'Attention Dirigée, réduisant la créativité. Selon la <strong>Théorie de la restauration de l'attention (ART)</strong> de Stephen Kaplan, l'observation d'éléments naturels (géométrie fractale, feuilles, spirales) sollicite la « Fascination douce » (Attention involontaire) sans effort cognitif. Une marche de 15 minutes a observer la nature réinitialise le cortex préfrontal et diminue le cortisol.",
+      "pt": "Analisar dados em telas ou ler textos densos mantém o córtex pré-frontal em um estado de esgotamento de energia chamado <strong>Atenção Dirigida</strong>. A exposição prolongada causa Fadiga da Atenção Dirigida, reduzindo a criatividade. Segundo a <strong>Teoria da Restauração da Atenção (ART)</strong> de Stephen Kaplan, observar elementos naturais (geometria fractal, folhas ou espirais) aciona a 'Fascinação Suave' (Atenção Involuntária) sem esforço mental. Uma caminhada de 15 minutos observando a natureza reinicia a fadiga pré-frontal e reduz o cortisol.",
+      "id": "Menganalisis data di layar atau membaca teks yang padat menjebak korteks prefrontal dalam kondisi pengurasan energi yang dikenal sebagai <strong>Perhatian Terarah (Directed Attention)</strong>. Paparan dalam waktu lama menyebabkan Kelelahan Perhatian Terarah. Menurut <strong>Teori Restorasi Perhatian (ART)</strong> Stephen Kaplan, mengamati elemen alami (geometri fraktal, dedaunan, atau spiral biji) melibatkan 'Pesona Halus' (Perhatian Tak Disengaja) tanpa usaha kognitif. Berjalan santai selama 15 menit sambil mengamati alam mereset kelelahan prefrontal dan menurunkan kortisol."
     },
     "cautionTitle": {
-      "ko": "자연 프랙탈 구조 정밀 관찰을 통한 전두엽 인지 피로 회복 수칙"
+      "ko": "자연 프랙탈 구조 정밀 관찰을 통한 전두엽 인지 피로 회복 수칙",
+      "en": "Caution: Protocol for Engaging Natural Fractals to Restore Prefrontal Cognitive Fatigue",
+      "ja": "注意事項：自然のフラクタル構造の精密観察による前頭葉認知疲労回復ルール",
+      "zh": "注意事项：借助自然界分形几何结构精细观照复原前额叶认知疲劳指南",
+      "es": "Precaución: Protocolo para la Observación de Fractales Naturales y Restauración Prefrontal",
+      "de": "Vorsichtsmaßnahme: Regeln zur Betrachtung natürlicher Fraktale zur Erholung des Stirnhirns",
+      "fr": "Mise en garde : Consignes pour l'observation des fractales naturelles et la récupération préfrontale",
+      "pt": "Precaução: Protocolo de Observação de Fractais Naturais para Restauração Pré-frontal",
+      "id": "Perhatian: Protokol Mengamati Fraktal Alami untuk Memulihkan Kelelahan Kognitif Prefrontal"
     },
     "cautionDesc": {
-      "ko": "모니터 속 문자나 인포그래픽은 뇌에 의도적 주의 집중을 강요하여 전두엽을 쉽게 방전시킵니다. 인위적 자극이 없는 자연물의 이파리, 잎맥, 씨앗 무늬 등의 프랙탈 구조를 15분간 관찰하는 것만으로도 뇌의 주의 회복 스위치가 켜집니다. 단, 디지털 화면을 보며 걷지 말고 자연 대상 자체에 주의를 가볍게 던져두어야 완전한 인지 리셋이 일어납니다."
+      "ko": "모니터 속 문자나 인포그래픽은 뇌에 의도적 주의 집중을 강요하여 전두엽을 쉽게 방전시킵니다. 인위적 자극이 없는 자연물의 이파리, 잎맥, 씨앗 무늬 등의 프랙탈 구조를 15분간 관찰하는 것만으로도 뇌의 주의 회복 스위치가 켜집니다. 단, 디지털 화면을 보며 걷지 말고 자연 대상 자체에 주의를 가볍게 던져두어야 완전한 인지 리셋이 일어납니다.",
+      "en": "Digital text and screen infographics enforce intense Directed Attention, rapidly draining prefrontal energy. Observing natural fractal geometry—such as leaf veins, bark textures, or seed spirals—for 15 minutes activates the brain's attention restoration mechanism without cognitive effort. To achieve a complete cognitive reset, refrain from checking smartphone screens during the walk, allowing your focus to rest gently on natural objects.",
+      "ja": "モニター内の文字やインフォグラフィックは脳に意図的注意力集中を強要し、前頭葉を容易に放電させます。人為的刺激のない自然物の葉、葉脈、種子の模様などのフラクタル構造を15分間観察するだけで、脳の注意回復スイッチがオンになります。ただし、デジタル画面を見ながら歩かず、自然の対象そのものに注意を軽やかに預けておいてこそ、完全な認知リセットが起こります。",
+      "zh": "屏幕上的文字与各类图表信息会强迫大脑进行定向集中，极易榨干前额叶能量。只需专注观照天然无雕琢的植物叶片、脉络或种子形貌等分形几何结构15分钟，便能开启大脑的注意力修复机制。切记：漫步途中绝勿翻看手机屏幕，须将注意力柔和置于自然本体之上，方能达成真正的认知重置。",
+      "es": "El texto digital y las infografías fuerzan la Atención Dirigida, agotando la energía prefrontal. Observar la geometría fractal natural (venas de hojas, texturas, espirales) durante 15 minutos activa el mecanismo de restauración sin esfuerzo mental. Para lograr un reinicio completo, evite mirar la pantalla del teléfono durante la caminata.",
+      "de": "Bildschirmtexte und Infografiken verlangen gerichtete Aufmerksamkeit und ermüden das Stirnhirn. Das 15-minütige Betrachten natürlicher Fraktalstrukturen (Blattadern, Rindenmuster, Samenspiralen) aktiviert die Erholung des Gehirns ohne Anstrengung. Vermeiden Sie während des Spaziergangs den Blick auf Smartphones, um eine vollständige Regeneration zu erreichen.",
+      "fr": "Les textes numériques et infographies imposent une Attention Dirigée qui épuise le cortex préfrontal. Observer les fractales naturelles (nervures de feuilles, écorces, spirales) pendant 15 minutes active la restauration de l'attention sans effort. Pour un réalignement complet, évitez de consulter votre téléphone pendant la marche.",
+      "pt": "Textos digitais e infográficos exigem Atenção Dirigida, esgotando o córtex pré-frontal. Observar a geometria fractal natural (nervuras de folhas, cascas, espirais) por 15 minutos ativa a restauração da atenção sem esforço mental. Para um reinício completo, evite olhar a tela do celular durante a caminhada.",
+      "id": "Teks digital dan infografis layar memaksakan Perhatian Terarah yang menguras energi prefrontal. Mengamati geometri fraktal alami (tulang daun, tekstur kulit kayu, spiral biji) selama 15 menit mengaktifkan mekanisme restorasi perhatian tanpa usaha kognitif. Hindari melihat layar ponsel pintar selama berjalan."
     },
     "steps": [
       {
         "name": {
-          "ko": "1단계: 인근 자연 녹지 공간 및 관찰 대상 탐색"
+          "ko": "1단계: 인근 자연 녹지 공간 및 관찰 대상 탐색",
+          "en": "Step 1: Locating a Nearby Green Space & Selecting an Observation Subject",
+          "ja": "ステップ1：近隣の自然緑地空間および観察対象の探索",
+          "zh": "步骤1：寻找就近绿色自然空间与确定观察目标",
+          "es": "Paso 1: Localizar un Espacio Verde Cercano y Seleccionar un Objeto de Observación",
+          "de": "Schritt 1: Aufsuchen einer nahegelegenen Grünfläche & Auswahl des Beobachtungsobjekts",
+          "fr": "Étape 1 : Repérage d'un espace vert proche & Choix du sujet d'observation",
+          "pt": "Passo 1: Localizar um Espaço Verde Próximo e Selecionar um Objeto de Observação",
+          "id": "Langkah 1: Menemukan Area Hijau Terdekat & Memilih Subjek Pengamatan"
         },
         "text": {
-          "ko": "정원, 조용한 공원, 혹은 녹지가 조성된 산책로 등 식물이 자라는 장소를 찾습니다. 디지털 기기를 주머니에 넣어 차단하고 자연 자체에 인지 자원을 몰입시킬 환경을 조성합니다."
+          "ko": "정원, 조용한 공원, 혹은 녹지가 조성된 산책로 등 식물이 자라는 장소를 찾습니다. 디지털 기기를 주머니에 넣어 차단하고 자연 자체에 인지 자원을 몰입시킬 환경을 조성합니다.",
+          "en": "Find a garden, quiet park, or tree-lined walking path where vegetation thrives. Stow digital devices securely in your pocket to block notifications and create an environment that invites total immersion in nature.",
+          "ja": "庭園、静かな公園、あるいは緑地が整備された散歩道など、植物が育つ場所を探します。デジタル機器をポケットに入れて遮断し、自然そのものに認知資源を没頭させる環境を整えます。",
+          "zh": "前往花园、幽静的公园或植被茂密的绿道小径。将手机关停并揣进口袋中断通知干扰，营造能将认知资源完全沉浸于自然的微环境。",
+          "es": "Busque un jardín, parque tranquilo o sendero arbolado. Guarde sus dispositivos digitales en el bolsillo para bloquear notificaciones y crear un entorno que le permita sumergirse en la naturaleza.",
+          "de": "Suchen Sie einen Garten, ruhigen Park oder grünen Spazierweg auf. Stecken Sie digitale Geräte weg, um Benachrichtigungen auszublenden und ganz in die Natur einzutauchen.",
+          "fr": "Trouvez un jardin, un parc calme ou une allée bordée d'arbres. Rangez vos appareils numériques dans votre poche pour bloquer les notifications et créer un environnement propice a l'immersion.",
+          "pt": "Procure um jardim, parque tranquilo ou caminho arborizado. Guarde seus dispositivos no bolso para bloquear notificações e criar um ambiente de imersão total na natureza.",
+          "id": "Temukan taman, area terbuka yang tenang, atau jalur berjalan yang rindang. Simpan perangkat digital di saku Anda untuk memblokir notifikasi dan menciptakan lingkungan yang memfasilitasi imersi total."
         }
       },
       {
         "name": {
-          "ko": "2단계: 식물 패턴 및 프랙탈 구조 돋보기/초점 관찰"
+          "ko": "2단계: 식물 패턴 및 프랙탈 구조 돋보기/초점 관찰",
+          "en": "Step 2: Micro-Observation of Plant Patterns and Fractal Geometry",
+          "ja": "ステップ2：植物パターンおよびフラクタル構造の拡大鏡/焦点観察",
+          "zh": "步骤2：借助焦点特写与放大视角对微观分形几何开展精密观测",
+          "es": "Paso 2: Microobservación de Patrones Vegetales y Geometría Fractal",
+          "de": "Schritt 2: Mikro-Beobachtung von Pflanzenmustern und fraktaler Geometrie",
+          "fr": "Étape 2 : Micro-observation des motifs végétaux et de la géométrie fractale",
+          "pt": "Passo 2: Micro-observação de Padrões Vegetais e Geometria Fractal",
+          "id": "Langkah 2: Pengamatan Mikro terhadap Pola Tumbuhan dan Geometri Fraktal"
         },
         "text": {
-          "ko": "잎사귀나 꽃잎 앞에 멈춰 서서 잎맥의 흐름, 표면의 질감, 색상 변화나 나선형 패턴을 돋보기를 보듯 10초 이상 정밀 응시하며 시각 피질에 자연 프랙탈 자극을 공급합니다."
+          "ko": "잎사귀나 꽃잎 앞에 멈춰 서서 잎맥의 흐름, 표면의 질감, 색상 변화나 나선형 패턴을 돋보기를 보듯 10초 이상 정밀 응시하며 시각 피질에 자연 프랙탈 자극을 공급합니다.",
+          "en": "Pause before a leaf, petal, or seed pod. Examine the vein architecture, surface texture, subtle color gradients, or spiral patterns closely for at least 10 seconds, feeding natural fractal inputs directly into your visual cortex.",
+          "ja": "葉っぱや花びらの前で立ち止まり、葉脈の流れ、表面の質感、色の変化や螺旋パターンを拡大鏡で見るように10秒以上精密に凝視し、視覚皮質に自然のフラクタル刺激を供給します。",
+          "zh": "驻足于某片树叶、花瓣或果实面前。宛如使用放大镜般，专注凝视其叶脉走向、表面肌理、色彩渐变或螺旋排列10秒以上，向视觉皮层直接输送天然分形刺激。",
+          "es": "Deténgase ante una hoja, pétalo o vaina. Examine la arquitectura de las venas, la textura de la superficie y las espirales detenidamente durante al menos 10 segundos, alimentando la corteza visual con fractales naturales.",
+          "de": "Halten Sie vor einem Blatt, einer Blüte oder Samenkapsel inne. Betrachten Sie die Blattadern, Oberflächenstrukturen und Spiralmuster mindestens 10 Sekunden lang aufmerksam, um dem visuellen Kortex Reize zuzuführen.",
+          "fr": "Marquez une pause devant une feuille, un pétale ou une graine. Examinez le réseau de nervures, la texture et les spirales pendant au moins 10 secondes, alimentant le cortex visuel en données fractales.",
+          "pt": "Pare diante de uma folha, pétala ou semente. Examine a arquitetura das nervuras, a textura da superfície e as espirais atentamente por pelo menos 10 segundos, alimentando o córtex visual com fractais.",
+          "id": "Berhentilah di depan daun, kelopak bunga, atau biji. Periksa arsitektur tulang daun, tekstur permukaan, atau pola spiral secara cermat selama setidaknya 10 detik, memberi masukan fraktal alami langsung ke korteks visual."
         }
       },
       {
         "name": {
-          "ko": "3단계: 5~10분간의 느린 완보 및 전두엽 주의 회복 완결"
+          "ko": "3단계: 5~10분간의 느린 완보 및 전두엽 주의 회복 완결",
+          "en": "Step 3: 5 to 10 Minutes of Slow Strolling & Completing Prefrontal Attention Restoration",
+          "ja": "ステップ3：5〜10分間の遅い緩歩および前頭葉注意回復の完結",
+          "zh": "步骤3：漫步踱步5-10分钟与圆满达成前额叶注意力修复",
+          "es": "Paso 3: 5 a 10 Minutos de Paseo Lento y Finalización de la Restauración Atencional",
+          "de": "Schritt 3: 5 bis 10 Minuten langsames Gehen & Vollendung der Aufmerksamkeitserholung",
+          "fr": "Étape 3 : 5 à 10 minutes de marche lente & Achèvement de la restauration de l'attention",
+          "pt": "Passo 3: 5 a 10 Minutos de Caminhada Lenta e Conclusão da Restauração Atencional",
+          "id": "Langkah 3: Berjalan Santai Selama 5 hingga 10 Menit & Menyelesaikan Restorasi Perhatian Prefrontal"
         },
         "text": {
-          "ko": "가벼운 걸음으로 5~10분간 더 걸으며 나뭇가지와 하늘의 조화를 자연스럽게 응시합니다. 의도적 주의 집중 스위치가 꺼지고 주의 회복 메커니즘이 완성되어 전두엽이 상쾌하게 리셋됩니다."
+          "ko": "가벼운 걸음으로 5~10분간 더 걸으며 나뭇가지와 하늘의 조화를 자연스럽게 응시합니다. 의도적 주의 집중 스위치가 꺼지고 주의 회복 메커니즘이 완성되어 전두엽이 상쾌하게 리셋됩니다.",
+          "en": "Stroll casually for an additional 5 to 10 minutes, letting your gaze absorb tree branches and sky contrast softly. This disengages Directed Attention completely, allowing the attention restoration process to refresh prefrontal networks.",
+          "ja": "軽い足取りで5〜10分間さらに歩き、木の枝と空の調和を自然に凝視します。意図的注意力集中のスイッチがオフになり、注意回復メカニズムが完成して前頭葉が爽やかにリセットされます。",
+          "zh": "以步履从容的姿态再踱步5-10分钟，将视线自然漫投于树梢交错与蓝天流云的和谐景象中。彻底关停“定向注意力”开关，使注意力恢复机制圆满运转，让前额叶重获神清气爽的重置。",
+          "es": "Camine de forma relajada durante 5 a 10 minutos más, observando la armonía entre las ramas y el cielo. Esto apaga la Atención Dirigida, completando el proceso de restauración para refrescar las redes prefrontales.",
+          "de": "Schlendern Sie weitere 5 bis 10 Minuten ohne Eile dahin und lassen Sie den Blick über Baumkronen und den Himmel gleiten. Dies schaltet die gerichtete Aufmerksamkeit ab und schließt die Erholung ab.",
+          "fr": "Flânez pendant 5 à 10 minutes supplémentaires, en contemplant la silhouette des branches sur le ciel. Cela désactive l'Attention Dirigée, achevant le processus de restauration pour rafraîchir le cortex préfrontal.",
+          "pt": "Caminhe de forma relaxada por mais 5 a 10 minutos, contemplando a harmonia entre os galhos e o céu. Isso desliga a Atenção Dirigida, completando o processo de restauração para renovar as redes pré-frontais.",
+          "id": "Berjalanlah secara santai selama 5 hingga 10 menit lagi, membiarkan pandangan Anda menikmati keharmonisan dahan pohon dan langit secara lembut. Ini mematikan Perhatian Terarah sepenuhnya, menyegarkan jaringan prefrontal."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "집에 있는 반려식물이나 화초를 관찰하는 것도 도움이 되나요?"
+          "ko": "집에 있는 반려식물이나 화초를 관찰하는 것도 도움이 되나요?",
+          "en": "Is observing indoor house plants or potted flowers effective for attention restoration?",
+          "ja": "家にある観葉植物や鉢植えの花を観察することも役に立ちますか？",
+          "zh": "观照案头或家中养育的室内观叶植物/盆栽也具备等同疗效吗？",
+          "es": "¿Es efectivo observar plantas de interior o macetas para restaurar la atención?",
+          "de": "Ist das Betrachten von Zimmerpflanzen oder Topfblumen zur Aufmerksamkeitserholung wirksam?",
+          "fr": "L'observation de plantes d'intérieur ou de fleurs en pot est-elle efficace pour restaurer l'attention ?",
+          "pt": "Observar plantas de interior ou vasos de flores é eficaz para restaurar a atenção?",
+          "id": "Apakah mengamati tanaman hias dalam ruangan atau bunga dalam pot efektif untuk restorasi perhatian?"
         },
         "answer": {
-          "ko": "네, 실내 화초나 반려식물의 잎맥과 나선형 패턴을 돋보기를 대듯 정밀 관찰하는 것도 비의도적 주의를 자극하여 전두엽 피로를 줄여줍니다. 다만 햇빛(자연광) 노출과 가벼운 보행이 동반되는 야외 관찰이 종합적인 인지력 및 신경 회복에 가장 효과적입니다."
+          "ko": "네, 실내 화초나 반려식물의 잎맥과 나선형 패턴을 돋보기를 대듯 정밀 관찰하는 것도 비의도적 주의를 자극하여 전두엽 피로를 줄여줍니다. 다만 햇빛(자연광) 노출과 가벼운 보행이 동반되는 야외 관찰이 종합적인 인지력 및 신경 회복에 가장 효과적입니다.",
+          "en": "Yes. Examining micro-patterns and leaf venation on indoor house plants engages Soft Fascination, reducing prefrontal fatigue. However, outdoor observation paired with natural sunlight exposure and gentle walking delivers maximum systemic cognitive and neurological restoration.",
+          "ja": "はい、室内の鉢植えや観葉植物の葉脈や螺旋パターンを拡大鏡を当てるように精密観察することも、非意図的注意を刺激して前頭葉の疲労を軽減させます。ただし、日光（自然光）への露出と軽い歩行が伴う屋外観察が、総合的な認知力および神経回復に最も効果的です。",
+          "zh": "完全有效。如使用放大镜般对室内观叶植物的脉络与螺旋生长纹进行精细观测，同样能拉动“柔性吸引”并缓解前额叶疲劳。不过，若能将户外自然光照曝露与步行散步有机结合，对于整体神经与认知功能的修复效果将臻至最佳。",
+          "es": "Sí. Examinar micro-patrones en plantas de interior activa la Fascinación Suave, reduciendo la fatiga prefrontal. Sin embargo, la observación al aire libre combinada con luz solar y caminata suave ofrece la mayor restauración cognitiva y neurológica.",
+          "de": "Ja. Das Untersuchen von Mustern an Zimmerpflanzen aktiviert die sanfte Faszination und senkt die Ermüdung. Die Beobachtung im Freien in Kombination mit Tageslicht und Bewegung erzielt jedoch die besten Erfolge für die kognitive Regeneration.",
+          "fr": "Oui. L'examen des motifs sur des plantes d'intérieur sollicite la Fascination douce, réduisant la fatigue préfrontale. Néanmoins, l'observation en extérieur associée a la lumière naturelle et a la marche procure une restauration cognitive maximale.",
+          "pt": "Sim. Examinar micro-padrões em plantas de interior ativa a Fascinação Suave, reduzindo a fadiga pré-frontal. No entanto, a observação ao ar livre combinada com luz solar e caminhada leve oferece a maior restauração cognitiva.",
+          "id": "Ya. Memeriksa pola mikro pada tanaman rumah dalam ruangan melibatkan Pesona Halus, mengurangi kelelahan prefrontal. Namun, pengamatan luar ruangan yang dipadukan dengan paparan sinar matahari alami dan jalan santai memberikan restorasi sistemik terbaik."
         }
       },
       {
         "question": {
-          "ko": "괴테처럼 실제로 돋보기나 채집 봉투를 들고 다녀야 하나요?"
+          "ko": "괴테처럼 실제로 돋보기나 채집 봉투를 들고 다녀야 하나요?",
+          "en": "Do I genuinely need to carry an actual magnifying glass or collection envelopes like Goethe?",
+          "ja": "ゲーテのように実際に拡大鏡や採集袋を持ち歩かなければなりませんか？",
+          "zh": "必须如歌德那般在现实中随身携带放大镜与纸质采集袋吗？",
+          "es": "¿Realmente necesito llevar una lupa y sobres de recolección como Goethe?",
+          "de": "Muss man wie Goethe tatsächlich eine Lupe und Sammeltüten bei sich tragen?",
+          "fr": "Faut-il vraiment se munir d'une loupe et d'enveloppes de collecte comme Goethe ?",
+          "pt": "É realmente necessário carregar uma lupa e envelopes de coleta como Goethe?",
+          "id": "Apakah saya benar-benar perlu membawa kaca pembesar dan amplop pengumpul seperti Goethe?"
         },
         "answer": {
-          "ko": "실제 돋보기를 활용하면 미세 프랙탈 구조가 시각 피질을 더 강하게 자극하는 장점이 있지만, 필수 요소는 아닙니다. 맨눈으로 잎사귀나 꽃잎의 잎맥, 씨앗 나선 무늬를 세심하게 관찰하는 것만으로도 주의 회복 이론(ART)에 따른 대뇌 피로 회복 효과를 충분히 누릴 수 있습니다."
+          "ko": "실제 돋보기를 활용하면 미세 프랙탈 구조가 시각 피질을 더 강하게 자극하는 장점이 있지만, 필수 요소는 아닙니다. 맨눈으로 잎사귀나 꽃잎의 잎맥, 씨앗 나선 무늬를 세심하게 관찰하는 것만으로도 주의 회복 이론(ART)에 따른 대뇌 피질 회복 효과를 충분히 누릴 수 있습니다.",
+          "en": "Using a physical magnifying glass heightens visual resolution and stimulates the visual cortex intensely, but it is not strictly mandatory. Simply engaging in a naked-eye, careful examination of leaf veins, flower petals, or seed patterns is fully sufficient to capture Attention Restoration Theory (ART) benefits.",
+          "ja": "実際の拡大鏡を活用すると、微細なフラクタル構造が視覚皮質をより強力に刺激するメリットがありますが、必須要素ではありません。裸眼で葉っぱや花びらの葉脈、種子の螺旋模様を細心に観察するだけでも、注意回復理論（ART）に従う大脳皮質の回復効果を十分に享受できます。",
+          "zh": "配合物理放大镜固然能更强力地将微观分形几何投射于视觉皮层，但并非硬性要求。只需用裸眼审慎打量树叶细脉、花瓣形貌或种子的螺旋轨迹，在神经科学与“注意力恢复理论（ART）”层面便能获得完全充分的脑力修复效益。",
+          "es": "Utilizar una lupa aumenta la resolución visual y estimula intensamente la corteza visual, pero no es obligatorio. Observar atentamente a simple vista la nervadura de las hojas o los patrones de semillas es suficiente para obtener los beneficios de la Teoría de Restauración de la Atención (ART).",
+          "de": "Eine Lupe erhöht die visuelle Auflösung und stimuliert den Kortex stark, ist aber nicht zwingend erforderlich. Das sorgfältige Betrachten von Blattadern oder Samenmustern mit bloßem Auge reicht aus, um die Vorteile der Aufmerksamkeitswiederherstellung zu nutzen.",
+          "fr": "L'utilisation d'une loupe augmente la résolution visuelle et stimule le cortex, mais n'est pas obligatoire. L'observation a l'œil nu des nervures ou des motifs de graines suffit amplement a bénéficier de la Théorie de la restauration de l'attention (ART).",
+          "pt": "Usar uma lupa aumenta a resolução visual e estimula o córtex, mas não é obrigatório. Observar atentamente a olho nu as nervuras das folhas ou padrões de sementes é suficiente para obter os benefícios da Teoria da Restauração da Atenção (ART).",
+          "id": "Menggunakan kaca pembesar fisik meningkatkan resolusi visual dan menstimulasi korteks visual secara intensif, tetapi tidak wajib. Cukup dengan mengamati tulang daun atau pola biji secara cermat dengan mata telanjang sudah lebih dari cukup untuk mendapatkan manfaat Teori Restorasi Perhatian (ART)."
         }
       }
     ]

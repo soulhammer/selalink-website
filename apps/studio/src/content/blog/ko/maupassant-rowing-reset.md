@@ -28,7 +28,7 @@ faqs:
 
 모파상은 맹렬하게 소설을 써 내려간 후 오후가 되면 망설임 없이 센강(Seine River)으로 나가 노를 저어 배를 몰거나 강물 속에 몸을 던져 수영을 했습니다. 전신 근육을 격렬하게 움직이는 노젓기 운동은 머리에 쏠려 있던 과도한 혈류를 온몸으로 분산시키고 뇌를 완벽히 리셋해 주었습니다.
 
-오늘 BuildSelf에서는 기 드 모파상의 노젓기 유산소 루틴과 BDNF(뇌유래신경영양인자) 분비의 과학을 소개합니다.
+오늘 포스트에서는 기 드 모파상의 노젓기 유산소 루틴과 BDNF(뇌유래신경영양인자) 분비의 과학을 소개합니다.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

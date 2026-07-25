@@ -26,7 +26,7 @@ faqs:
 
 테슬라는 평소 하루에 단 2시간만 자는 극단적인 수면 패턴을 고수하면서도 지치지 않고 수많은 발명을 이어나갔습니다. 그 비결 중 하나는 바로 매일 밤 침대에 누워 양쪽 발가락을 각각 100번씩 꽉 쥐었다 펴는 독특한 수면 리추얼이었습니다.
 
-오늘 BuildSelf에서는 역사적인 천재의 기상천외한 습관 속에 담긴 과학적 원리와, 이를 우리 일상에 적용하는 방법을 소개합니다.
+오늘 포스트에서는 역사적인 천재의 기상천외한 습관 속에 담긴 과학적 원리와, 이를 우리 일상에 적용하는 방법을 소개합니다.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

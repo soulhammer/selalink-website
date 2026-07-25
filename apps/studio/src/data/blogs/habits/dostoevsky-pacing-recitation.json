@@ -1,70 +1,214 @@
 {
   "dostoevsky-pacing-recitation": {
     "title": {
-      "ko": "방 안을 맴도는 목소리: 도스토옙스키의 서성임과 구술 집필법"
+      "ko": "방 안을 맴도는 목소리: 도스토옙스키의 서성임과 구술 집필법 및 운동-언어 피질 결합",
+      "en": "The Voice Echoing in the Room: Fyodor Dostoevsky's Pacing Recitation and Motor-Language Cortical Integration",
+      "ja": "部屋を巡る声：ドストエフスキーの彷徨いと口述執筆法および運動-言語皮質結合",
+      "zh": "徘徊于房间的声音：陀思妥耶夫斯基的踱步口述写作习惯与运动-语言皮层缝合机制",
+      "es": "La Voz que Resuena en la Habitación: La Rutina de Recitación en Marcha y Dictado de Fiódor Dostoyevski",
+      "de": "Die Stimme im Raum: Fjodor Dostojewskis Routine des Umhergehens und Diktierens",
+      "fr": "La voix résonnant dans la pièce : La routine de déclamation en marchant et de dictée de Fiodor Dostoïevski",
+      "pt": "A Voz a Ecoar no Quarto: A Rotina de Recitação em Marcha e Ditado de Fiódor Dostoiévski",
+      "id": "Suara yang Bergema di Ruangan: Rutinitas Membaca Nyaring Sambil Berjalan dan Pendiktean ala Fyodor Dostoevsky"
     },
     "description": {
-      "ko": "『죄와 벌』의 작가 도스토옙스키가 방 안을 서성이며 대사를 직접 연기해 본 비결. 신체 움직임과 구두 인지가 어떻게 언어 중추와 표현력을 증진시키는지 분석합니다."
+      "ko": "『죄와 벌』의 작가 도스토옙스키가 방 안을 서성이며 대사를 직접 연기해 본 루틴. 신체 움직임(Pacing)과 구두 인지(Oral Cognition)가 운동 피질, 브로카·베르니케 영역, 거울 뉴런을 활성화하는 인지신경과학적 원리를 밝깁니다.",
+      "en": "Discover how Fyodor Dostoevsky, author of 'Crime and Punishment', paced his room while acting out dialogue before dictating to his wife Anna. Explore the cognitive neuroscience of motor cortex stimulation, Broca's and Wernicke's area activation, and mirror neuron recruitment.",
+      "ja": "『罪と罰』の著者ドストエフスキーが部屋の中を彷徨いながら台詞を直接演じたルーティン。身体運動（Pacing）と口頭認知（Oral Cognition）が運動皮質、ブローカ・ウェルニッケ野、鏡ニューロンを活性化する認知神経科学的原理を解き明かします。",
+      "zh": "探索《罪与罚》作者陀思妥耶夫斯基在踱步中演绎角色台词而后向妻子口述踱步创作的习惯，揭示肢体运动（Pacing）与口语认知（Oral Cognition）拉动运动皮层、布罗卡与韦尼克区以及镜向神经元的神经科学原理。",
+      "es": "Descubra cómo Fiódor Dostoyevski, autor de 'Crimen y castigo', recorría su habitación interpretando diálogos antes de dictarlos. Explore la neurociencia cognitiva del estímulo de la corteza motora, las áreas de Broca y Wernicke, y las neuronas espejo.",
+      "de": "Erkunden Sie, wie Fjodor Dostojewski im Zimmer umherging und Dialoge laut vorsprach, bevor er sie seiner Frau diktierte. Entdecken Sie die kognitiven Neurowissenschaften zur Verknüpfung von Sprach- und Motorikzentren.",
+      "fr": "Découvrez comment Fiodor Dostoïevski, auteur de 'Crime et Châtiment', arpentait sa pièce en jouant les dialogues avant de les dicter. Explorez la neuroscience cognitive de la stimulation du cortex moteur et des aires de Broca et Wernicke.",
+      "pt": "Descubra como Fiódor Dostoiévski, autor de 'Crime e Castigo', percorria seu quarto interpretando diálogos antes de ditá-los. Explore a neurociência cognitiva da estimulação do córtex motor, áreas de Broca e Wernicke e neurônios-espelho.",
+      "id": "Pelajari bagaimana Fyodor Dostoevsky, penulis 'Crime and Punishment', berjalan menyusuri ruangannya sambil memerankan dialog sebelum mendiktekannya. Temukan neurosains kognitif tentang stimulasi korteks motorik, area Broca dan Wernicke, serta neuron cermin."
     },
     "authority": {
-      "ko": "안나 도스토옙스카야 『도스토옙스키 회고록(Reminiscences)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+      "ko": "안나 도스토옙스카야 회고록 『도스토옙스키 회고록(Reminiscences)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+      "en": "Historical Verification from Anna Dostoevskaya's Memoirs *Reminiscences* & Cognitive Neuroscience Research",
+      "ja": "アンナ・ドストエフスカヤ回顧録『Reminiscences（ドストエフスキー回想録）』考証＆認知神経科学（Cognitive Neuroscience）研究",
+      "zh": "安娜·陀思妥耶夫斯卡娅回忆录《陀思妥耶夫斯基回忆录（Reminiscences）》考证与认知神经科学（Cognitive Neuroscience）研究",
+      "es": "Verificación Histórica de las Memorias de Anna Dostoyévskaya *Memorias (Reminiscences)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)",
+      "de": "Historische Überprüfung aus Anna Dostojewskajas Memoiren *Erinnerungen (Reminiscences)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)",
+      "fr": "Vérification Historique issue des mémoires d'Anna Dostoïevskaïa *Mémoires (Reminiscences)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)",
+      "pt": "Verificação Histórica das Memórias de Anna Dostoiévskaia *Memórias (Reminiscences)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)",
+      "id": "Verifikasi Historis dari Memoar Anna Dostoevskaya *Reminiscences* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"
     },
     "intro": {
-      "ko": "\"문장은 입 밖으로 나와 귀로 들었을 때 비로소 진실해진다.\" 🗣️\n\n『죄와 벌』, 『카라마조프 가의 형제들』 등 불후의 세계적 고전을 저술하며 인간 심리 묘사의 깊은 정점을 개척한 표도르 도스토옙스키. 그의 서사는 어떻게 이토록 압도적인 생동감과 극적인 몰입을 줄 수 있었을까요? 그의 구술 기록 대필가이자 아내였던 안나의 기록에 따르면, 그는 집필할 때 방 안을 미친 듯이 서성거리며 스스로 작중 인물처럼 소리를 지르고 독백을 읊었습니다. 입 밖으로 내뱉는 소리와 걸음이 결합된 이 독특한 창작 방식의 비밀을 추적합니다.\n\n많은 창작자와 기획자가 노트북 키보드 앞에 경직된 자세로 몇 시간씩 앉아 머리를 쥐어짜며 글을 씁니다. 하지만 도스토옙스키는 방 안을 왔다 갔다 하는 격렬한 신체 움직임을 통해 생각을 가속했습니다. 등장인물의 독백이나 대화 장면을 집필할 때는 방을 빠르게 배회하며 실제로 연극을 하듯 실감 나게 대사를 내뱉은 후, 그 대사의 감정과 억양이 가장 자연스럽고 설득력이 있을 때 비로소 아내에게 구술 대필하도록 하였습니다.\n\n오늘 포스트에서는 신체와 언어가 결합한 도스토옙스키식 '구두 사색 리추얼'의 인지과학적 가치를 조명하고, 현대인들이 기획서나 글을 쓸 때 막히는 문장을 풀어내고 논리적 입체감을 높이기 위한 3단계 실천 방안을 제시합니다."
+      "ko": "\"문장은 입 밖으로 나와 귀로 들었을 때 비로소 진실해진다.\" 🗣️\n\n『죄와 벌』, 『카라마조프 가의 형제들』 등 불후의 세계적 고전을 저술하며 인간 심리 묘사의 깊은 정점을 개척한 러시아의 문호 표도르 도스토옙스키(Fyodor Dostoevsky, 1821–1881). 그의 서사는 어떻게 이토록 압도적인 생동감과 극적인 인물 몰입감을 전달할 수 있었을까요?\n\n그의 구술 기록 대필가이자 아내였던 안나 그리거리예브나(Anna Dostoevskaya)의 회고록에 따르면, 도스토옙스키는 집필할 때 정적인 자세로 의자에 앉아 머리를 쥐어짜는 법이 없었습니다. 그는 방 안을 미친 듯이 왔다 갔다 서성거리며 스스로 작중 인물로 빙의하여 큰 소리로 대사를 내뱉고 독백을 읊었습니다. 등장인물의 감정과 억양이 입 밖으로 소리 내어 울리고 가장 자연스럽고 완벽하게 조율되었을 때, 비로소 아내 안나에게 해당 문장을 구술하여 대필하도록 하였습니다. 신체 보행과 구두 발성이 결합된 이 독특한 사색 리추얼은 대뇌 운동 피질과 언어 조절 영역을 동시 자극하여 문장에 강렬한 생명력과 논리적 입체감을 부여했던 신경학적 촉진제였습니다.\n\n오늘 포스트에서는 도스토옙스키의 '서성임과 구술 집필' 루틴에 담긴 뇌과학적 작동 원리를 분석하고, 현대인이 막힌 글이나 기획안을 풀어나갈 수 있는 3단계 실천 방안을 소개합니다.",
+      "en": "\"A sentence only becomes true when it leaves the mouth and rings in the ear.\" 🗣️\n\nFyodor Dostoevsky (1821–1881) was the Russian titan of world literature whose masterpieces, including 'Crime and Punishment' and 'The Brothers Karamazov', explore the absolute depths of human psychology. How did his prose achieve such breathless dramatic intensity and psychological authenticity?\n\nAccording to the memoirs of his wife and stenographer, Anna Grigoryevna Dostoevskaya, Dostoevsky never wrote sitting passively at a desk when crafting intense scenes. Instead, he paced frantically back and forth across his study, acting out dialogue at the top of his voice as if performing on stage. Only when a spoken monologue felt entirely natural and emotionally piercing would he dictate the finalized sentence to Anna, who recorded it in shorthand. Coupling rhythmic physical movement with loud oral recitation acted as a neuro-cognitive catalyst, activating his motor cortex alongside speech processing centers to infuse his writing with unmatched realism.\n\nIn today's post, we analyze the brain science underlying Fyodor Dostoevsky's 'pacing recitation and oral dictation' routine and present a 3-step practical guide for modern creators to unblock writing friction and build structural rhythm.",
+      "ja": "「文章は口の外に出て耳で聞いて初めて真実になる。」 🗣️\n\n『罪と罰』、『カラマーゾフの兄弟』など不朽の世界的名作を著し、人間心理描写の深い頂点を開拓したロシアの文豪フョードル・ドストエフスキー（Fyodor Dostoevsky、1821–1881）。彼の叙事はどのようにしてこれほど圧倒的な躍動感と劇的な人物没頭感を伝えることができたのでしょうか？\n\n彼の口述記録の代筆者であり妻であったアンナ（Anna Dostoevskaya）の回顧録によると、ドストエフスキーは執筆する時、静的な姿勢で椅子に座り頭を抱え込むことがありませんでした。彼は部屋の中を狂ったように行き来しながら彷徨い、自ら作中人物になりきって大きな声で台詞を発し独白を詠じました。登場人物の感情と抑揚が口の外へ出て響き、最も自然で完璧に調律された時、初めて妻アンナに該当の文章を口述して代筆させました。身体歩行と口頭発声が結合したこのユニークな思索リチュアルは、大脳運動皮質と言語統御領域を同時刺激し、文章に強烈な生命力と論理的立体感を与えた神経科学的促進剤でした。\n\n本日の記事では、ドストエフスキーの「彷徨いと口述執筆」ルーティンに秘められた脳科学的作動原理を分析し、現代人が行き詰まった文章や企画案を紐解く3ステップの実践方案を紹介します。",
+      "zh": "\"句段唯有脱口而出并响于耳畔，方显真切。” 🗣️\n\n通过创作《罪与罚》、《卡拉马佐夫兄弟》等不朽世界名著、开辟出心理描写极致峰峦的俄国文学巨匠——费奥多尔·陀思妥妥耶夫斯基（Fyodor Dostoevsky，1821–1881）。其作品中的叙事究竟是如何彰显出如此震撼人心的生命力与戏剧张力的？\n\n据其速记代笔兼妻子安娜（Anna Dostoevskaya）的回忆录记载，陀思妥耶夫斯基在创作高潮章节时，绝不会僵坐于椅子上绞尽脑汁。相反，他在书房内疯狂地来回踱步，把自己完全代入剧中人物，大声咆哮演练台词与独白。唯有当口中呼出的台词语气与情感韵律显得极其自然且无懈可击时，他才会向安娜口述，由后者速记抄录。这项将肢体徒步与大声口述高度缝合的沉思仪式，能够同时拉动大脑运动皮层与语言管制区域，成为赋予文字无与伦比立体感与现实感的强效神经催化剂。\n\n在今天的文章中，我们将分析费奥多尔·陀思妥耶夫斯基“踱步口述创作”习惯背后的脑科学原理，并为打破文稿卡壳与方案阻力的现代人 provide 3步骤实践方案。",
+      "es": "\"Una frase solo se vuelve verdadera cuando sale de la boca y resuena en el oído.\" 🗣️\n\nFiódor Dostoyevski (1821–1881) fue el gigante ruso de la literatura universal cuyas obras maestras, como 'Crimen y castigo' y 'Los hermanos Karamázov', exploran las profundidades de la psicología humana. ¿Cómo logró su prosa esa intensidad dramática y autenticidad psicológica?\n\nSegún las memorias de su esposa y taquígrafa, Anna Grigórievna, Dostoyevski nunca escribía sentado al elaborar escenas intensas. En su lugar, recorría frenéticamente su estudio de un lado a otro, interpretando los diálogos a viva voz como en un escenario. Solo cuando un monólogo sonaba natural y conmovedor, le dictaba la frase a Anna. Combinar el movimiento físico rítmico con la recitación oral actuaba como un catalizador neurocognitivo, activando su corteza motora y las áreas del habla.",
+      "de": "\"Ein Satz wird erst wahr, wenn er den Mund verlässt und im Ohr klingt.\" 🗣️\n\nFjodor Dostojewski (1821–1881) war der russische Gigant der Weltliteratur, dessen Meisterwerke wie 'Schuld und Sühne' und 'Die Brüder Karamasow' die menschliche Psyche ergründen. Wie erreichte seine Prosa diese dramatische Intensität?\n\nLaut den Memoiren seiner Frau und Stenografin Anna Grigorjewna saß Dostojewski beim Verfassen intensiver Szenen nie ruhig am Schreibtisch. Stattdessen ging er in seinem Arbeitszimmer auf und ab und sprach Dialoge laut vor. Erst wenn ein Monolog natürlich klang, diktierte er die Sätze seiner Frau Anna. Die Kombination aus körperlicher Bewegung und lautem Vorsprechen aktivierte seinen motorischen Kortex und die Sprachzentren.",
+      "fr": "« Une phrase ne devient vraie que lorsqu'elle quitte la bouche et résonne à l'oreille. » 🗣️\n\nFiodor Dostoïevski (1821–1881) était le géant russe de la littérature mondiale dont les chefs-d'œuvre, tels que 'Crime et Châtiment' et 'Les Frères Karamazov', explorent les profondeurs de la psychologie humaine. Comment sa prose atteignait-elle una telle intensité dramatique ?\n\nSelon les mémoires de son épouse et sténographe, Anna Grigorievna, Dostoïevski ne restait jamais assis pour composer ses scènes majeures. Au contraire, il arpentait son cabinet de travail, déclamant les dialogues à voix haute comme sur scène. Ce n'est que lorsqu'un monologue lui semblait naturel qu'il le dictait à Anna. Associer le mouvement physique rythmé à la déclamation orale activait son cortex moteur et ses centres du langage.",
+      "pt": "\"Uma frase só se torna verdadeira quando sai da boca e ressoa no ouvido.\" 🗣️\n\nFiódor Dostoiévski (1821–1881) foi o gigante russo da literatura mundial cujas obras-primas, como 'Crime e Castigo' e 'Os Irmãos Karamazov', exploram as profundezas da psicologia humana. Como sua prosa alcançou tal intensidade dramática?\n\nSegundo as memórias de sua esposa e taquígrafa, Anna Grigórievna, Dostoiévski nunca escrevia sentado ao elaborar cenas intensas. Em vez disso, percorria seu estúdio de um lado para o outro, interpretando diálogos em voz alta como num palco. Somente quando um monólogo soava natural, ditava a frase para Anna. Combinar o movimento físico rítmico com a recitação oral atuava como um catalisador neurocognitivo, ativando seu córtex motor e as áreas de linguagem.",
+      "id": "\"Sebuah kalimat baru menjadi benar ketika keluar dari mulut dan terdengar di telinga.\" 🗣️\n\nFyodor Dostoevsky (1821–1881) adalah raksasa sastra dunia dari Rusia yang mahakaryanya, termasuk 'Crime and Punishment' dan 'The Brothers Karamazov', menjelajahi kedalaman psikologi manusia. Bagaimana prosanya mencapai intensitas dramatis yang begitu mendalam?\n\nMenurut memoar istri dan juru ketiknya, Anna Grigoryevna, Dostoevsky tidak pernah menulis sambil duduk secara pasif saat merancang adegan-adegan yang intens. Sebaliknya, ia berjalan dengan cepat bolak-balik di ruang kerjanya, memerankan dialog dengan suara keras seolah-olah tampil di atas panggung. Hanya ketika monolog terucap terasa alami, ia mendiktekan kalimat tersebut kepada Anna. Menggabungkan gerakan fisik berirama dengan pembacaan nyaring bertindak sebagai katalis neuro-kognitif."
     },
     "whyTitle": {
-      "ko": "신체 가속과 구두 낭독이 두뇌 언어망을 깨우는 과학"
+      "ko": "신체 가속 운동과 구두 낭독이 두뇌 언어망 및 거울 뉴런을 깨우는 신경학",
+      "en": "Neuroscience of Coupling Physical Pacing and Oral Recitation to Activate Speech Networks and Mirror Neurons",
+      "ja": "身体歩行運動と口頭朗読が脳の言語網および鏡ニューロンを呼び覚ます神経学",
+      "zh": "肢体踱步与口语朗读唤醒大脑语言网络与镜向神经元的神经学原理",
+      "es": "Neurociencia de Vincular el Paso Físico y la Recitación Oral para Activar Redes del Habla y Neuronas Espejo",
+      "de": "Neurowissenschaft der Verbindung von Gehen und lautem Sprechen zur Aktivierung von Sprachzentren und Spiegelneuronen",
+      "fr": "Neuroscience de l'association de la marche et de la déclamation orale pour activer les réseaux du langage et les neurones miroirs",
+      "pt": "Neurociência da Combinação da Caminhada e Recitação Oral para Ativar Redes da Fala e Neurônios-Espelho",
+      "id": "Neurosains Penggabungan Jalan Kaki dan Pembacaan Nyaring untuk Mengaktifkan Jaringan Bicara dan Neuron Cermin"
     },
     "whyDesc": {
-      "ko": "방 안을 걷는 신체 움직임(Pacing)은 대뇌 운동 피질을 자극해 뇌의 혈류량과 산소 공급을 즉각 가속하며, 대사를 입 밖으로 내뱉는 구두 인지(Oral Cognition) 행동은 브로카 영역과 베르니케 영역 등 두뇌의 언어 조절 영역을 통합 활성화합니다. 또한 작중 인물을 연기하며 서술하는 과정은 뇌의 <strong>거울 뉴런(Mirror Neurons)</strong>을 직접적으로 가동시켜, 3인칭의 추상적 문장 대신 1인칭의 생생한 입체감을 문장 속에 불어넣습니다."
+      "ko": "방 안을 걷는 보행 신체 움직임(Pacing)은 대뇌 운동 피질(Motor Cortex)을 자극하여 대뇌 혈류량과 산소 공급을 가속시킵니다. 대사를 입 밖으로 내뱉는 구두 인지(Oral Cognition) 행동은 브로카 영역(Broca's Area, 언어 생성)과 베르니케 영역(Wernicke's Area, 언어 수용)의 청각-운동 피드백 회로(Auditory-Motor Feedback Loop)를 강력히 연결합니다. 또한 작중 인물을 연기하며 서술하는 과정은 대뇌의 거울 뉴런(Mirror Neurons) 시스템을 직접 가동시킵니다. 이 물리적·청각적 시너지는 3인칭의 추상적 문장 생성 모드를 깨뜨리고 1인칭의 생생한 심리적 입체감을 문장 속에 불어넣습니다.",
+      "en": "Physical pacing stimulates the motor cortex, boosting cerebral blood flow and oxygenation to prefrontal networks. Simultaneously, oral recitation (Oral Cognition) establishes a tight Auditory-Motor Feedback Loop, co-activating Broca's area (speech production) and Wernicke's area (language comprehension). Furthermore, physically acting out characters directly recruits the brain's Mirror Neuron system. This motor-auditory synergy breaks static, abstract text processing, enabling creators to embed visceral, 1st-person psychological depth into written arguments and narratives.",
+      "ja": "部屋の中を歩く歩行身体運動（Pacing）は、大脳運動皮質（Motor Cortex）を刺激して大脳血流量と酸素供給を加速させます。台詞を口の外へ出す口頭認知（Oral Cognition）行動は、ブローカ野（Broca's Area、言語生成）とウェルニッケ野（Wernicke's Area、言語受容）の聴覚-運動フィードバック回路（Auditory-Motor Feedback Loop）を強力に結合させます。また作中人物を演じながら叙述する過程は、大脳の鏡ニューロン（Mirror Neurons）システムを直接稼働させます。この物理的・聴覚的シナジーは、3人称の抽象的な文章生成モードを打破し、1人称の生き生きとした心理的立体感を文章の中へと吹き込みます。",
+      "zh": "在室内踱步（Pacing）能够强效刺激大脑运动皮层（Motor Cortex），飙升脑血流量与供氧率。将文句大声说出的口语认知（Oral Cognition）动作，能够缝合负责语言生成的布罗卡区（Broca's Area）与负责语言接收理解的韦尼克区（Wernicke's Area），构建起“听觉-运动”反馈回路（Auditory-Motor Feedback Loop）。此外，亲声演绎角色的过程能拉动大脑的镜向神经元（Mirror Neurons）系统。这种肉体运动与声学反馈的协同效应，能够打碎呆板抽象的三人称叙事，将栩栩如生的一人称心理真实感灌注于方案与文本之中。",
+      "es": "Recorrer la habitación estimula la corteza motora, aumentando el flujo sanguíneo cerebral y la oxigenación de las redes prefrontales. Al mismo tiempo, la recitación oral (Cognición Oral) establece un Bucle de Retroalimentación Auditivo-Motor, activando el área de Broca (producción del habla) y el área de Wernicke (comprensión). Además, interpretar físicamente a los personajes recluta el sistema de Neuronas Espejo, infundiendo profundidad psicológica a la escritura.",
+      "de": "Das Umhergehen stimuliert den motorischen Kortex und steigert die Durchblutung sowie die Sauerstoffversorgung im Gehirn. Das laute Sprechen verbindet das Broca-Areal (Sprachproduktion) und das Wernicke-Areal (Sprachverständnis) über eine auditorisch-motorische Rückkopplungsschleife. Zudem aktiviert das schauspielerische Nachempfinden die Spiegelneuronen, was dem Geschriebenen eine tiefere psychologische Dimension verleiht.",
+      "fr": "Marcher dans la pièce stimule le cortex moteur, augmentant le flux sanguin cérébral et l'oxygénation. Simultanément, la déclamation orale crée une boucle de rétroaction audito-motrice, coactivant l'aire de Broca (production du langage) et l'aire de Wernicke (compréhension). De plus, incarner physiquement les personnages sollicite le système des neurones miroirs, insufflant una relief psychologique à l'écriture.",
+      "pt": "Caminhar pelo quarto estimula o córtex motor, aumentando o fluxo sanguíneo cerebral e a oxigenação. Ao mesmo tempo, a recitação oral estabelece um Loop de Retroalimentação Auditivo-Motor, ativando a área de Broca e a área de Wernicke. Além disso, interpretar personagens aciona o sistema de Neurônios-Espelho, atribuindo profundidade psicológica à escrita.",
+      "id": "Berjalan kaki menyusuri ruangan merangsang korteks motorik, meningkatkan aliran darah otak dan oksigenasi ke jaringan prefrontal. Secara bersamaan, pembacaan nyaring (Kognisi Oral) membangun Loop Umpan Balik Auditorik-Motorik yang ketat, mengaktifkan area Broca (produksi bicara) dan area Wernicke (pemahaman bahasa). Lebih jauh lagi, memerankan karakter secara fisik merekrut sistem Neuron Cermin otak."
     },
     "cautionTitle": {
-      "ko": "자신만의 안전한 개인 공간 확보가 필수입니다"
+      "ko": "주의사항 및 팁: 안전한 독점 공간 확보 및 사회적 평가 시선 차단",
+      "en": "Caution & Tips: Securing a Safe Private Space & Preventing Social Evaluation Interference",
+      "ja": "注意事項＆ヒント：安全な独占空間の確保と社会的評価視線の遮断",
+      "zh": "注意事项与提示：确保安全绝对私人空间与屏除外部社交审视干扰",
+      "es": "Precauciones y Consejos: Garantizar un Espacio Privado Seguro y Evitar Interferencias Sociales",
+      "de": "Vorsichtsmaßnahmen & Tipps: Sichern eines ungestörten Raumes & Vermeidung von Hemmungen",
+      "fr": "Précautions & Conseils : Réservation d'un espace privé & Protection contre le regard d'autrui",
+      "pt": "Precauções e Dicas: Garantir um Espaço Privado Seguro e Evitar Interferências Sociais",
+      "id": "Perhatian & Tip: Memastikan Ruang Pribadi yang Aman & Mencegah Gangguan Evaluasi Sosial"
     },
     "cautionDesc": {
-      "ko": "주의할 점은 목소리를 크게 내어 말하는 훈련이기 때문에 타인의 시선이나 간섭이 있는 개방적인 사무실 등에서 실행하면 극심한 인지 방해가 생길 수 있다는 점입니다. 따라서 이 훈련은 타인의 시선에 구애받지 않고 오직 자기 목소리에만 집중할 수 있는 <strong>자신만의 안전한 개인 공간</strong>(개인 서재, 차량 내부 등)을 활용해야 온전한 낭독 효과를 얻을 수 있습니다."
+      "ko": "구술 낭독 훈련은 소리를 내어 말을 내뱉는 과정이므로, 타인의 시선이나 감시가 존재하는 개방형 사무실이나 공공장소에서 실행할 경우 대뇌 편도체가 사회적 평가 불안(Social Evaluation Anxiety)을 느껴 극심한 인지 방해가 일어납니다. 따라서 이 훈련은 타인의 시선에 구애받지 않고 오직 자기 목소리의 울림에만 100% 집중할 수 있는 자신만의 안전한 전용 개인 공간(개인 서재, 차량 내부, 문을 닫은 회의실)에서 수행해야 온전한 효과를 얻을 수 있습니다.",
+      "en": "Because oral recitation involves vocalization and dramatic expression, practicing in open offices or public spaces triggers Social Evaluation Anxiety, prompting amygdala arousal and severely disrupting cognitive flow. To obtain full benefits, execute this routine strictly within a secure private space—such as a personal study, enclosed office, or private vehicle—where you can articulate out loud without fear of judgment.",
+      "ja": "口頭朗読トレーニングは声を出して言葉を吐き出す過程であるため、他人の視線や監視が存在する開放型オフィスや公共の場所で実行する場合、大脳扁桃体が社会的評価不安（Social Evaluation Anxiety）を感じて極度の認知妨害が起こります。したがって、このトレーニングは他人の視線に拘束されず、ただ自分の声の響きにのみ100％集中できる自分だけの安全な専用個人空間（個人書斎、車内、ドアを閉めた会議室）で遂行してこそ完全な効果を得ることができます。",
+      "zh": "鉴于口语朗读训练涉及出声说话与情绪演绎，若在人流攒动的开放式办公室或公共场合施行，大脑杏仁核会拉响社交审视焦虑（Social Evaluation Anxiety）警报，造成严重的认知阻碍。因此，该特训必须在绝无他人目光打扰、能够100%专注于自身声学共振的绝对私人空间（个人书房、关上门的会议室或私家车车厢内）开展，方能获得完整成效。",
+      "es": "Debido a que la recitación oral implica vocalización, practicar en oficinas abiertas o espacios públicos desencadena Ansiedad de Evaluación Social, activando la amígdala y alterando el flujo cognitivo. Para obtener todos los beneficios, ejecute esta rutina en un espacio privado seguro —como un estudio personal, una oficina cerrada o un vehículo privado—.",
+      "de": "Da laut gesprochen wird, löst die Durchführung in Großraumbüros soziale Hemmungen aus und aktiviert die Amygdala. Um die volle Wirkung zu erzielen, führen Sie diese Routine in einem ungestörten privaten Raum aus – wie einem separaten Arbeitszimmer, einem geschlossenen Raum oder im Auto.",
+      "fr": "La déclamation orale impliquant la vocalisation, la pratiquer dans un open space déclenche una Anxiété d'Évaluation Sociale, stimulant l'amygdale et perturbant la concentration. Pour bénéficier de ses effets, effectuez cette routine dans un espace privé — un bureau fermé, una pièce isolée ou un véhicule.",
+      "pt": "Como a recitação oral envolve vocalização, praticar em escritórios abertos ou espaços públicos desencadeia Ansiedade de Avaliação Social, ativando a amídala e interrompendo o fluxo cognitivo. Para obter todos os benefícios, execute esta rotina num espaço privado seguro — como um escritório fechado ou veículo privado.",
+      "id": "Karena pembacaan nyaring melibatkan vokalisasi, mempraktikkannya di kantor terbuka atau ruang publik memicu Kecemasan Evaluasi Sosial, mendorong stimulasi amigdala dan mengganggu alur kognitif secara parah. Untuk mendapatkan manfaat penuh, jalankan rutinitas ini secara ketat di dalam ruang pribadi yang aman—seperti ruang kerja pribadi, kantor tertutup, atau kendaraan pribadi."
     },
     "steps": [
       {
         "name": {
-          "ko": "1단계: 글쓰기/기획 중 막힌 생각의 즉각적 기립"
+          "ko": "1단계: 글쓰기/기획 막힘 발생 시 즉각적 의자 기립",
+          "en": "Step 1: Instantly Standing Up Upon Encountering Cognitive Blocks",
+          "ja": "ステップ1：執筆/企画の詰まり発生時の即時的椅子からの起立",
+          "zh": "步骤1：文稿/方案出现阻力卡壳时当即起立",
+          "es": "Paso 1: Levantarse de Inmediato al Encontrar Bloqueos Cognitivos",
+          "de": "Schritt 1: Sofortiges Aufstehen bei kognitiven Blockaden",
+          "fr": "Étape 1 : Se lever immédiatement en cas de blocage créatif",
+          "pt": "Passo 1: Levantar-se de Imediato ao Encontrar Bloqueios Criativos",
+          "id": "Langkah 1: Segera Berdiri Saat Menemui Hambatan Kognitif"
         },
         "text": {
-          "ko": "문서 작성이나 아이디어가 막혀 뇌에 정체가 발생하는 즉시 의자에서 일어나 신체를 가볍게 세팅합니다."
+          "ko": "문서 작성이나 아이디어가 막혀 전전두엽에 정체가 발생하는 즉시 키보드에서 손을 떼고 의자에서 일어나 신체를 가볍게 세팅합니다.",
+          "en": "The instant writing or planning stalls and prefrontal congestion occurs, remove your hands from the keyboard and stand up to change your physical posture.",
+          "ja": "文書作成やアイデアが行き詰まり前頭前野に停滞が発生した瞬間、キーボードから手を離し椅子から立ち上がって身体を軽くセットします。",
+          "zh": "在撰写文档或构思方案遭遇卡壳阻力、前额叶皮层陷于停滞的极瞬，将双手推开键盘并从椅子上起立，重置肉体姿态。",
+          "es": "En el instante en que la escritura o la planificación se estanquen, retire las manos del teclado y levántese para cambiar su postura física.",
+          "de": "Sobald das Schreiben oder Planen ins Stocken gerät, nehmen Sie die Hände von der Tastatur und stehen Sie auf, um die Körperhaltung zu verändern.",
+          "fr": "Dès que l'écriture ou la planification bloque, retirez vos mains du clavier et levez-vous pour modifier votre posture.",
+          "pt": "No instante em que a escrita ou o planejamento travar, retire as mãos do teclado e levante-se para mudar sua postura física.",
+          "id": "Saat penulisan atau perencanaan terhenti dan terjadi kemacetan prefrontal, lepaskan tangan Anda dari papan ketik dan berdirilah untuk mengubah postur fisik Anda."
         }
       },
       {
         "name": {
-          "ko": "2단계: 공간 서성임과 생각의 구두 낭독 실행"
+          "ko": "2단계: 공간 서성임과 핵심 구절/논리 큰 소리 구술 연기",
+          "en": "Step 2: Physical Pacing & Loud Oral Recitation of Core Arguments",
+          "ja": "ステップ2：空間の彷徨いと核心フレーズ/論理の大きな声での口頭演技",
+          "zh": "步骤2：空间踱步与大声口语化演绎核心文句/逻辑",
+          "es": "Paso 2: Paso Físico y Recitación Oral en Voz Alta de Argumentos",
+          "de": "Schritt 2: Umhergehen im Raum & Lautes Aussprechen der Kernargumente",
+          "fr": "Étape 2 : Marche dans la pièce & Déclamation à voix haute des points clés",
+          "pt": "Passo 2: Caminhada e Recitação Oral em Voz Alta dos Argumentos",
+          "id": "Langkah 2: Berjalan Menyusuri Ruangan & Membaca Nyaring Argumen Utama"
         },
         "text": {
-          "ko": "방 내부나 복도를 천천히 왔다 갔다 서성이며, 적고자 하는 요점이나 기획 문장을 마치 타인에게 설명하듯 큰 소리로 직접 말해 봅니다."
+          "ko": "방 안을 일정한 템포로 걸어 다니며, 작성하고자 하는 요점이나 대사를 마치 청중이나 상대방에게 직접 설명하고 연기하듯 명확한 목소리로 내뱉습니다.",
+          "en": "Pace the room at a steady rhythm, speaking your intended core points or dialogue out loud in a clear, expressive voice as if presenting to an audience or executing a dramatic scene.",
+          "ja": "部屋の中を一定のテンポで歩き回り、作成したい要点や台詞をまるで聴衆や相手に直接説明し演技するように明確な声で吐き出します。",
+          "zh": "在室内以稳定节奏迈步踱步，将试图表达的核心要点或角色对话，如面对听众宣讲或演戏般，用清晰有力的声音脱口喊出。",
+          "es": "Recorra la habitación a un ritmo constante, expresando los puntos clave o diálogos en voz alta y clara, como si los presentara ante una audiencia.",
+          "de": "Gehen Sie mit gleichmäßigem Tempo im Raum umher und sprechen Sie Ihre Gedanken oder Dialoge laut und deutlich aus, als würden Sie sie jemandem erklären.",
+          "fr": "Arpentez la pièce à un rythme régulier, en exprimant vos idées clés ou dialogues à voix haute et claire, comme si vous vous adressiez à un public.",
+          "pt": "Percorra o quarto num ritmo constante, expressando os pontos-chave ou diálogos em voz alta e clara, como se estivesse apresentando para um público.",
+          "id": "Berjalanlah menyusuri ruangan dengan irama yang stabil, ucapkan poin-poin utama atau dialog secara nyaring dengan suara yang jelas seolah-olah mempresentasikannya di depan audiens."
         }
       },
       {
         "name": {
-          "ko": "3단계: 자연스럽게 들린 구어체 표현의 즉각 기록"
+          "ko": "3단계: 귀로 검증된 가장 자연스러운 표현의 즉각 텍스트 아카이빙",
+          "en": "Step 3: Immediate Text Archiving of Auditory-Verified Formulations",
+          "ja": "ステップ3：耳で検証された最も自然な表現の即時テキストアーカイブ",
+          "zh": "步骤3：即时誊写或录入经由双耳校验的生动口语表达",
+          "es": "Paso 3: Registro Inmediato en Texto de Expresiones Verificadas por el Oído",
+          "de": "Schritt 3: Sofortiges Aufschreiben der auditiv geprüften Ausdrücke",
+          "fr": "Étape 3 : Consignation immédiate des expressions validées à l'oreille",
+          "pt": "Passo 3: Registro Imediato em Texto das Expressões Verificadas pelo Ouvido",
+          "id": "Langkah 3: Pengarsipan Teks Seketika dari Formulasi yang Terverifikasi"
         },
         "text": {
-          "ko": "입으로 내뱉어 귀로 확인한 가장 직관적이고 군더더기 없는 자연스러운 문장 구조를 즉각 노트북이나 종이에 적어 서사를 완성합니다."
+          "ko": "입으로 내뱉어 귀로 청음했을 때 가장 문맥이 입체적이고 깔끔하게 들린 문장 구조를 즉시 수첩, 노트북, 혹은 음성-텍스트 변환(STT) 앱에 기록해 서사를 완성합니다.",
+          "en": "The moment a spoken phrase sounds smooth, rhythmic, and convincing to your ears, immediately record or transcribe it into your notebook, laptop, or voice-to-text app.",
+          "ja": "口から出して耳で聴音した時、最も文脈が立体的で綺麗に聞こえた文章構造を即座に手帳、ノートPC、あるいは音声-テキスト変換（STT）アプリに記録して叙述を完成させます。",
+          "zh": "在脱口而出并经由双耳审听确认逻辑最为通顺流畅的极其瞬间，立即将其誊抄于手账、笔记本电脑或录入语音转文字（STT）软件中，完成创作闭环。",
+          "es": "En el momento en que una frase suene fluida y convincente para sus oídos, regístrela o transcríbala de inmediato en su libreta, ordenador o aplicación de voz a texto.",
+          "de": "Sobald eine Äußerung für Ihre Ohren schlüssig klingt, halten Sie sie sofort im Notizbuch, auf dem Laptop oder per Sprach-zu-Text-App fest.",
+          "fr": "Dès qu'une formule vous semble fluide et convaincante à l'oreille, notez-la ou transcrivez-la immédiatement dans votre carnet, ordinateur ou application de dictée.",
+          "pt": "No momento em que uma frase soar fluida e convincente para seus ouvidos, registre-a ou transcreva-a de imediato num caderno, computador ou aplicativo de voz para texto.",
+          "id": "Saat sebuah frasa lisan terdengar lancar dan meyakinkan di telinga Anda, segera catat atau transkripsikan ke dalam buku catatan, laptop, atau aplikasi pengubah suara ke teks."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "말을 소리 내어 하는 대신 속삭이거나 속으로 읽는 건 효과가 없나요?"
+          "ko": "소리를 내어 말을 하는 대신 속삭이거나 입속으로 삼키며 읽는 것도 똑같은 효과가 있나요?",
+          "en": "Does whispering or silently mouth-reading produce the same cognitive benefits as speaking out loud?",
+          "ja": "声を出して話す代わりに囁いたり口の中で呑み込みながら読むことも同じ効果がありますか？",
+          "zh": "以低声默念或含于口中的默读替代大声呼出，是否具有相同的成效？",
+          "es": "¿Murmurar o leer en silencio produce los mismos beneficios cognitivos que hablar en voz alta?",
+          "de": "Bietet Flüstern oder leises Mumble-Lesen dieselben kognitiven Vorteile wie lautes Sprechen?",
+          "fr": "Chuchoter ou lire silencieusement procure-t-il les mêmes bénéfices cognitifs que de parler à voix haute ?",
+          "pt": "Sussurrar ou ler em silêncio produz os mesmos benefícios cognitivos que falar em voz alta?",
+          "id": "Apakah berbisik atau membaca dalam hati memberikan manfaat kognitif yang sama seperti berbicara nyaring?"
         },
         "answer": {
-          "ko": "속으로 삼키는 생각은 뇌의 언어 조절 및 구두 인지 피드백 활성을 크게 유도하지 못하므로, 가래가 끓지 않을 정도의 명확한 목소리로 완전히 발성해야 시너지 인지 효과가 발생합니다."
+          "ko": "아닙니다. 속삭임이나 입속 묵독은 성대 근육 및 조음 기관의 완전한 수축을 일으키지 못하며 청각 피질로 유입되는 소리 에너지가 미약합니다. 명확한 발성으로 본인의 목소리를 공기 중으로 쏘아 올려 귀로 되듣는 '청각-운동 피드백 회로'가 완성되어야 브로카 영역과 베르니케 영역의 시너지 활성화가 일어납니다.",
+          "en": "No. Whispering or silent subvocalization fails to fully engage articulatory motor muscles and generates insufficient auditory feedback. You must articulate clearly so your voice travels through the air and returns through the ears, completing the Auditory-Motor Feedback Loop that co-activates Broca's and Wernicke's areas.",
+          "ja": "いいえ。囁きや口の中での黙読は、声帯筋肉および発音器官の完全な収縮を引き起こせず、聴覚皮質へと流入する音エネルギーが微弱です。明確な発声で自分の声を空気中へと放ち耳で聞き返す「聴覚-運動フィードバック回路」が完成して初めて、ブローカ野とウェルニッケ野のシナジー活性化が起こります。",
+          "zh": "无法达成同等效果。默念或低语无法完全调动声带肌肉与发音器官的物理收缩，且投向听觉皮层的声学能量极其微弱。唯有通过清晰的发音将自身的声浪释放至空气中、再经由双耳重新审听，完成“听觉-运动”反馈回路，布罗卡区与韦尼克区的协同激活方能被触发。",
+          "es": "No. Murmurar o la subvocalización no logra activar los músculos articulatorios ni genera suficiente retroalimentación auditiva. Debe articular con claridad para completar el Bucle de Retroalimentación Auditivo-Motor que activa conjuntamente las áreas de Broca y Wernicke.",
+          "de": "Nein. Flüstern aktiviert die Sprachmuskulatur nicht vollständig und erzeugt zu wenig auditives Feedback. Sie müssen deutlich sprechen, um die auditorisch-motorische Rückkopplungsschleife zu schließen, die das Broca- und Wernicke-Areal gleichzeitig aktiviert.",
+          "fr": "Non. Chuchoter ne sollicite pas pleinement les muscles articulateurs et génère un retour auditif insuffisant. Vous devez articuler clairement pour compléter la boucle de rétroaction audito-motrice qui coactive les aires de Broca et Wernicke.",
+          "pt": "Não. Sussurrar não consegue engajar totalmente os músculos articulatórios e gera retroalimentação auditiva insuficiente. Você deve articular com clareza para completar o Loop de Retroalimentação Auditivo-Motor que ativa as áreas de Broca e Wernicke.",
+          "id": "Tidak. Berbisik atau subvokalisasi hening gagal melibatkan otot motorik artikulasi secara penuh dan menghasilkan umpan balik pendengaran yang tidak cukup. Anda harus mengartikulasikan dengan jelas sehingga suara Anda merambat melalui udara dan kembali melalui telinga, menyempurnakan Loop Umpan Balik Auditorik-Motorik."
         }
       },
       {
         "question": {
-          "ko": "혼자 서성이며 말하는 동안 나오는 표현을 스마트폰 음성 메모 앱으로 기록해도 되나요?"
+          "ko": "서성이며 구술하는 동안 스쳐 가는 문장들을 스마트폰 음성 메모나 STT 앱으로 기록하는 것은 효과적인가요?",
+          "en": "Is it effective to record spoken thoughts using smartphone voice memos or Speech-to-Text (STT) apps while pacing?",
+          "ja": "彷徨いながら口述する間にすれ違う文章をスマートフォンの音声メモやSTTアプリで記録することは効果的ですか？",
+          "zh": "在踱步口述期间，借助手机语音备忘录或语音转文字（STT）应用实时录音记录是否成效显著？",
+          "es": "¿Es efectivo registrar los pensamientos hablados con mementos de voz o aplicaciones de voz a texto (STT) mientras se camina?",
+          "de": "Ist es effektiv, gesprochene Gedanken beim Gehen per Sprachnotiz oder Speech-to-Text-App (STT) aufzunehmen?",
+          "fr": "Est-il efficace d'enregistrer ses pensées déclamées à l'aide de mémos vocaux ou d'applications de dictée (STT) pendant la marche ?",
+          "pt": "É eficaz registrar os pensamentos falados usando notas de voz ou aplicativos de voz para texto (STT) enquanto se caminha?",
+          "id": "Apakah efektif untuk merekam pemikiran lisan menggunakan memo suara smartphone atau aplikasi Speech-to-Text (STT) saat berjalan?"
         },
         "answer": {
-          "ko": "네, 매우 효과적인 방법입니다. 서성이며 구술한 목소리를 음성 메모나 자동 음성-텍스트 변환(STT) 앱으로 녹음해 둔 뒤, 이를 바탕으로 문장을 정돈하면 뇌의 인지 부하를 줄이면서 도스토옙스키의 구술 집필 효과를 그대로 누릴 수 있습니다."
+          "ko": "네, 현대 기술을 활용한 최고의 도스토옙스키식 구술 매칭법입니다. 서성이며 내뱉는 말을 음성 메모나 STT(Speech-to-Text) 앱으로 자동 변환해 두면, 손으로 적느라 보행 및 발성의 흐름이 단절되는 현상을 막고 뇌의 인지 부하를 줄여 구술 집필 효과를 극대화할 수 있습니다.",
+          "en": "Yes, this is an outstanding modern implementation of Dostoevsky's routine. Capturing your spoken thoughts via voice memos or STT apps prevents physical handwriting from interrupting your walking and vocal flow, lowering cognitive friction and maximizing creative dictation.",
+          "ja": "はい、現代技術を活用した最高のドストエフスキー的口述マッチング法です。彷徨いながら吐き出す言葉を音声メモやSTT（Speech-to-Text）アプリで自動変換しておけば、手で書くために歩行と発声の流れが断絶される現象を防ぎ、脳の認知負荷を減らして口述執筆効果を極大化できます。",
+          "zh": "是的，这正是依托现代科技对陀思妥耶夫斯基口述习惯的绝佳重现。通过语音备忘录或STT（Speech-to-Text）软件自动将踱步口述的台词转化为文字，能够彻底防范因停下笔录而导致的体感步态与发音节律中断，削减大脑认知阻力并极大化口述撰写效果。",
+          "es": "Sí, es una excelente adaptación moderna de la rutina de Dostoyevski. Registrar sus pensamientos hablados con aplicaciones de voz a texto evita que la escritura manual interrumpa el flujo del paseo y del habla, reduciendo la fricción cognitiva.",
+          "de": "Ja, das ist eine hervorragende moderne Umsetzung von Dostojewskis Routine. Die automatische Erfassung Ihrer gesprochenen Gedanken verhindert, dass das Aufschreiben den Fluss des Gehens und Sprechens unterbricht.",
+          "fr": "Oui, c'est une excellente adaptation moderne de la routine de Dostoïevski. Capturer vos pensées déclamées via des applications de dictée évite que l'écriture manuscrite n'interrompe le rythme de la marche et de la parole.",
+          "pt": "Sim, é uma excelente adaptação moderna da rotina de Dostoiévski. Capturar seus pensamentos falados via aplicativos de voz para texto evita que a escrita manual interrompa o fluxo da caminhada e da fala, reduzindo o atrito cognitivo.",
+          "id": "Ya, ini adalah implementasi modern yang luar biasa dari rutinitas Dostoevsky. Menangkap pemikiran lisan Anda melalui memo suara atau aplikasi STT mencegah tulisan tangan fisik mengganggu alur jalan kaki dan vokal Anda, menurunkan gesekan kognitif."
         }
       }
     ]

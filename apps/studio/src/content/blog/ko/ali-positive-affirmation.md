@@ -8,7 +8,7 @@ tags: ["위습관","루틴"]
 heroImage: "/images/blog/ali_positive_affirmation.png"
 app: "buildself"
 formatVersion: 4
-authority: "무하마드 알리 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+authority: "무하마드 알리 자서전 『The Greatest: My Own Story』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
 steps:
   - name: "긍정 확언 문장 작성"
     text: "현재형으로 작성된 짧고 강력한 자신만의 긍정 확언 문장(예: '나는 스스로를 믿고 한 걸음씩 나아간다')을 카드나 스마트폰 메모에 작성해 둡니다."
@@ -30,7 +30,7 @@ faqs:
 
 알리는 매일 아침 거울을 보며, 그리고 훈련 도중 기자들 앞에서도 큰 소리로 "나는 최고다(I am the greatest)"라고 외쳤습니다. 그는 단순한 과시가 아니라, 스스로의 뇌와 잠재의식에 승리의 마인드셋을 깊게 아로새기는 자기 확신 선언(Affirmation)을 지켰습니다. 대중과 언론의 압박을 이겨내고 스스로를 진정한 챔피언으로 만든 힘은, 매일 아침 거울 앞에서 단호하게 외치던 그의 긍정적인 자기 선언이었습니다.
 
-오늘 BuildSelf에서는 무하마드 알리의 '자기 확신' 루틴의 스포츠 심리학적 원리와 현대적 마인드셋 루틴을 소개합니다.
+오늘 포스트에서는 무하마드 알리의 '자기 확신' 루틴의 스포츠 심리학적 원리와 현대적 마인드셋 루틴을 소개합니다.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -39,7 +39,7 @@ faqs:
       역사적 및 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>무하마드 알리 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 ali-positive-affirmation 루틴을 다룹니다.
+      본 콘텐츠는 <strong>무하마드 알리 자서전 『The Greatest: My Own Story』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 ali-positive-affirmation 루틴을 다룹니다.
     </p>
   </div>
 </div>

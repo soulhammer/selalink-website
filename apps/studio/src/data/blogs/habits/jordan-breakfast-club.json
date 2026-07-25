@@ -1,70 +1,214 @@
 {
   "jordan-breakfast-club": {
     "title": {
-      "ko": "아침 6시 불패의 멘탈셋업? 마이클 조던의 브랙퍼스트 클럽"
+      "ko": "아침 6시 불패의 멘탈셋업: 마이클 조던의 브랙퍼스트 클럽과 승자 효과",
+      "en": "Unbeatable 6 AM Mental Setup: Michael Jordan's Breakfast Club and the Winner Effect",
+      "ja": "朝6時百戦百勝のメンタルセットアップ：マイケル・ジョーダンのブレックファスト・クラブと勝者効果",
+      "zh": "清晨6点不败的心智重塑：迈克尔·乔丹的早餐俱乐部与赢家效应",
+      "es": "Configuración Mental Imbatible a las 6 AM: El Club del Desayuno de Michael Jordan y el Efecto Ganador",
+      "de": "Unbesiegbares 6-Uhr-Morgen-Setup: Michael Jordans Breakfast Club und der Winner-Effekt",
+      "fr": "Configuration mentale imbattable à 6h du matin : Le Breakfast Club de Michael Jordan et l'effet gagnant",
+      "pt": "Configuração Mental Inabalável às 6h: O Clube do Café da Manhã de Michael Jordan e o Efeito Vencedor",
+      "id": "Pengaturan Mental 6 Pagi yang Tak Terkalahkan: Breakfast Club Michael Jordan dan Efek Pemenang"
     },
     "description": {
-      "ko": "농구 황제 마이클 조던의 피지컬과 멘탈 한계를 돌파한 아침 6시 훈련 루틴 '브랙퍼스트 클럽'의 과학적 원리와 아침 멘탈셋업 가이드를 알아봅니다."
+      "ko": "농구 황제 마이클 조던의 피지컬과 멘탈 한계를 돌파한 아침 6시 훈련 루틴 '브랙퍼스트 클럽'. 승자 효과(Winner Effect), 도파민·테스토스테론 분비 및 아침 멘탈셋업 3단계 가이드를 알아봅니다.",
+      "en": "Discover how basketball legend Michael Jordan surpassed physical and mental limits with his 6 AM 'Breakfast Club' routine. Explore the neuroscience of the Winner Effect, dopamine and testosterone surges, and a 3-step morning setup.",
+      "ja": "バスケットボールの神様マイケル・ジョーダンのフィジカルとメンタルの限界を突破した朝6時トレーニングルーティン「ブレックファスト・クラブ」。勝者効果（Winner Effect）、ドパミン・テストステロン分泌および朝のメンタルセットアップ3段階ガイドを解き明かします。",
+      "zh": "探索篮球之神迈克尔·乔丹如何通过清晨6点的“早餐俱乐部”训练习惯突破体能与心理极限。揭示赢家效应（Winner Effect）、多巴胺与睾酮分泌机制及3步骤晨间心智重塑指南。",
+      "es": "Descubra cómo la leyenda del baloncesto Michael Jordan superó sus límites físicos y mentales con su rutina de las 6 AM 'Breakfast Club'. Explore la neurociencia del Efecto Ganador, los picos de dopamina y testosterona, y un guía de 3 pasos.",
+      "de": "Erfahren Sie, wie Basketball-Legende Michael Jordan mit seinem 'Breakfast Club' um 6 Uhr morgens physische und mentale Grenzen überwand. Entdecken Sie die Neurowissenschaften des Winner-Effekts, Dopamin- und Testosteronschübe und einen 3-Schritte-Plan.",
+      "fr": "Découvrez comment la légende du basket-ball Michael Jordan a dépassé ses limits physiques et mentales grâce au 'Breakfast Club' de 6h du matin. Explorez la neuroscience de l'effet gagnant, des pics de dopamine et de testostérone, et un guide en 3 étapes.",
+      "pt": "Descubra como a lenda do basquete Michael Jordan superou limites físicos e mentais com sua rotina das 6h 'Breakfast Club'. Explore a neurociência do Efeito Vencedor, picos de dopamina e testosterona, e um guia prático de 3 passos.",
+      "id": "Pelajari bagaimana legenda bola basket Michael Jordan melampaui batas fisik dan mental dengan rutinitas 'Breakfast Club' jam 6 pagi. Temukan neurosains Efek Pemenang, lonjakan dopamin dan testosteron, serta panduan 3 langkah."
     },
     "authority": {
-      "ko": "마이클 조던 자서전 『드라이븐 프롬 위드인(Driven from Within)』 및 평전 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 운동생리학(Exercise Physiology) 연구"
+      "ko": "마이클 조던 자서전 『드라이븐 프롬 위드인(Driven from Within)』 및 평전 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 운동생리학(Exercise Physiology) 연구",
+      "en": "Historical Verification from Michael Jordan's *Driven from Within*, Biographies & Cognitive Neuroscience and Exercise Physiology Research",
+      "ja": "マイケル・ジョーダン自伝『Driven from Within』および評伝史料考証＆認知神経科学（Cognitive Neuroscience）および運動生理学（Exercise Physiology）研究",
+      "zh": "迈克尔·乔丹自传《Driven from Within》与传记史料考证及认知神经科学（Cognitive Neuroscience）与运动生理学（Exercise Physiology）研究",
+      "es": "Verificación Histórica de la Autobiografía de Michael Jordan *Driven from Within*, Biografías e Investigación en Neurociencia Cognitiva y Fisiología del Ejercicio",
+      "de": "Historische Überprüfung aus Michael Jordans Autobiografie *Driven from Within*, Biografien & Forschung der kognitiven Neurowissenschaften und Leistungsphysiologie",
+      "fr": "Vérification Historique issue de l'autobiographie de Michael Jordan *Driven from Within*, des biographies & de la Recherche en Neurosciences Cognitives et Physiologie de l'Exercice",
+      "pt": "Verificação Histórica da Autobiografia de Michael Jordan *Driven from Within*, Biografias e Pesquisa em Neurociência Cognitiva e Fisiologia do Exercício",
+      "id": "Verifikasi Historis dari Autobiografi Michael Jordan *Driven from Within*, Biografi & Penelitian Neurosains Kognitif serta Fisiologi Olahraga"
     },
     "intro": {
-      "ko": "\"나는 실패를 받아들일 수 있다. 누구든 실패하기 때문이다. 하지만 시도하지 않는 것은 받아들일 수 없다.\" 🏀\n\n농구 역사상 가장 위대한 선수이자 지독한 승부욕의 상징인 마이클 조던. 1990년대 초 디트로이트 피스톤스의 거친 수비 전술에 가로막혀 우승 문턱에서 번번이 좌절을 겪었을 때, 그는 포기하는 대신 몸을 더 강인하게 단련하기로 결심했습니다. 그렇게 탄생한 것이 바로 전설적인 아침 6시 훈련 루틴인 '브랙퍼스트 클럽(Breakfast Club)'입니다.\n\n조던은 매일 아침 6시, 팀원들을 자신의 집 체육관으로 불러 고강도 근력 트레이닝을 진행하고 운동이 끝나면 전담 요리사가 준비한 아침 식사를 함께 나누며 결속을 다졌습니다. 이 지독한 새벽 루틴은 그에게 경기장에 발을 들이기 전 이미 경쟁자를 이겼다는 강력한 심리적 무기이자 승리의 확신을 심어주었습니다.\n\n오늘 포스트에서는 마이클 조던의 아침 6시 훈련이 뇌과학적으로 어떤 의지력 자원을 깨웠는지, 현대인들이 이를 어떻게 일상에 접목할 수 있는지 알아봅니다."
+      "ko": "\"나는 실패를 받아들일 수 있다. 누구든 실패하기 때문이다. 하지만 시도조차 하지 않는 것은 절대 받아들일 수 없다. 다른 이들이 오전 8시 반에 겨우 눈을 뜰 때, 나는 이미 그들을 이길 모든 준비를 마쳤다.\" 🏀\n\n농구 역사상 가장 위대한 선수이자 6회 NBA 우승 및 지독한 승부욕의 대명사 마이클 조던(Michael Jordan, 1936–). 1980년대 후반, 그는 디트로이트 피스톤스의 거친 수비 전술인 일명 '조던 룰(Jordan Rules)'의 거친 몸싸움에 가로막혀 플레이오프에서 번번이 좌절을 겪었습니다. 그러나 그는 포기하는 대신 자신의 몸을 압도적인 고기능성 무기로 재개조하기로 결심했습니다. 1989년 트레이너 팀 그로버(Tim Grover)를 영입하면서 탄생한 것이 바로 전설적인 아침 6시 훈련 루틴인 '브랙퍼스트 클럽(Breakfast Club)'입니다.\n\n조던은 매일 아침 6시, 스코티 피펜, 론 하퍼 등 핵심 팀원들을 하이랜드 파크 자택 체육관으로 불렀습니다. 그들은 코트 훈련이 시작되기 훨씬 전인 새벽 시간에 고강도 웨이트 트레이닝과 코어 근력 운동을 완수했고, 운동 직후 전담 셰프가 준비한 단백질 중심의 아침 식사를 함께 나누며 결속을 다졌습니다. 이 지독한 새벽 루틴은 그에게 경기장에 발을 들이기 전 이미 경쟁자를 제압했다는 강력한 심리적 무기이자 승리의 확신을 심어주었으며, 시카고 불스의 첫 3연속 우승(1991–1993)을 이끈 원동력이 되었습니다.\n\n오늘 포스트에서는 마이클 조던의 아침 6시 훈련이 뇌과학적으로 어떤 의지력 자원을 깨웠는지, 현대인들이 이를 어떻게 일상에 접목할 수 있는지 알아봅니다.",
+      "en": "\"I can accept failure, everyone fails at something. But I can't accept not trying. While my opponents are waking up at 8:30 AM, I've already put in two hours of work to defeat them.\" 🏀\n\nMichael Jordan (1963–) is universally recognized as the greatest basketball player of all time, capturing 6 NBA Championships with his unmatched competitive drive. In the late 1980s, Jordan faced brutal physical opposition from the Detroit Pistons' 'Bad Boys', whose aggressive 'Jordan Rules' defense repeatedly halted his playoff runs. Rather than submitting to defeat, Jordan resolved to harden his physical frame into an unbreakable armor.\n\nIn 1989, partnering with trainer Tim Grover, Jordan launched the legendary 6 AM 'Breakfast Club'. Every morning at dawn, Jordan invited core teammates like Scottie Pippen and Ron Harper to the private gym inside his Highland Park mansion. Before official team practices began, they completed punishing weight-lifting, core stability, and agility workouts. Immediately following training, Jordan's personal chef served a custom, protein-rich breakfast where the players bonded over strategy and mindset. This unrelenting morning ritual imparted a profound psychological edge—an absolute conviction that they had outworked their rivals before the sun even fully rose.\n\nIn today's post, we examine the cognitive neuroscience and exercise physiology behind Michael Jordan's 'Breakfast Club' routine and present a practical 3-step morning mental setup guide to cultivate the Winner Effect.",
+      "ja": "「私は失敗を受け入れることができる。誰もが失敗するからだ。しかし、試みもしないことは絶対に受け入れられない。ライバルたちが午前8時半にようやく目を覚ます時、私は既に彼らに勝つためのすべての準備を終えている。」 🏀\n\nバスケットボール史上最も偉大な選手であり、6回のNBA優勝と凄まじい勝負欲の代名詞マイケル・ジョーダン（Michael Jordan、1963–）。1980年代後半、彼はデトロイト・ピストンズの荒々しい守備戦術である通称「ジョーダン・ルール（Jordan Rules）」の激しい身体接触に阻まれ、プレーオフで何度も挫折を味わいました。しかし彼は諦める代わりに、自分の体を圧倒的な高機能兵器へと再改造することを決意しました。1989年にトレーナーのティム・グローバー（Tim Grover）を招聘したことで誕生したのが、まさに伝説の朝6時トレーニングルーティン「ブレックファスト・クラブ（Breakfast Club）」です。\n\nジョーダンは毎朝6時、スコッティ・ピッペン、ロン・ハーパーら核心チームメイトたちをハイランド・パークの自宅体育館に呼び寄せました。彼らはコート練習が始まる遥か前の早朝の時間帯に、高強度のウエイトトレーニングとコア筋力運動を完遂し、運動直後に専属シェフが準備したタンパク質中心の朝食を共にして結束を固めました。この凄まじい早朝ルーティンは、彼にコートに足を踏み入れる前に既にライバルを制圧したという強力な心理的武器と勝利の確信を植え付け、シカゴ・ブルズの初の3連続優勝（1991–1993）を導く原動力となりました。\n\n本日の記事では、マイケル・ジョーダンの朝6時トレーニングが脳科学的にどのような意志力資源を呼び覚ましたのか、現代人がこれをどのように日常に接木できるかを解明します。",
+      "zh": "“我能接受失败，因世人皆有败绩。但我绝无法接受未曾拼尽全力的懦弱。当竞逐对手们在上午8点半才慵懒睁眼之际，我早已完成了将他们彻底击溃的一切准备。” 🏀\n\n作为篮球史上最伟大的传奇巨星、荣斩6届NBA总冠军与极度好胜心之象征——迈克尔·乔丹（Michael Jordan，1963–）。1980年代末期，他曾因底特律活塞队强悍粗暴的“坏孩子军团”肉搏防守战术（即著名的“乔丹规则 Jordan Rules”）而在季后赛屡屡受挫。然而，他绝未向肉体对抗屈服，而是下定决心将躯体锻造为坚不可摧的终极武器。1989年随着金牌训练师蒂姆·格罗弗（Tim Grover）的加盟，划时代的清晨6点训练习惯——“早餐俱乐部（Breakfast Club）”由此应运而生。\n\n乔丹每天清晨6点准时将斯蒂芬·皮蓬（Scottie Pippen）、朗·哈珀（Ron Harper）等核心队友召集至位于高兰公园（Highland Park）的私人豪宅体育馆中。在球队正式球场合练开启前的黎明时分，他们便已高质高 participated 完高强度的力量举重与核心肌群训练；训练结束后，众人围坐于私人主厨精心调配的高蛋白早餐案头，共进早餐并沉淀战术默契。这套决绝的晨间习惯，赋予了他尚未踏上赛场便已在心理层面凌驾于对手之上的绝顶自信，构成了驱动芝加哥公牛队斩获首次三连冠（1991–1993）的硬核基石。\n\n在今天的文章中，我们将深度解构迈克尔·乔丹清晨6点训练习惯背后唤醒的意志力神经科学机制，并分享一套助现代人接轨晨间心智重塑与拉满赢家效应的3步骤实践指南。",
+      "es": "\"Puedo aceptar el fracaso, todos fracasan en algo. Pero no puedo aceptar no intentarlo. Mientras mis rivales despiertan a las 8:30 AM, yo ya he trabajado dos horas para derrotarlos.\" 🏀\n\nMichael Jordan (1963–) es reconocido como el mejor jugador de baloncesto de todos los tiempos, conquistando 6 campeonatos de la NBA con su mentalidad competitiva. A finales de la década de 1980, Jordan enfrentó una defensa física brutal por parte de los 'Bad Boys' de los Detroit Pistons, cuyas agresivas 'Reglas de Jordan' frenaron sus aspiraciones. En lugar de rendirse, resolvió fortalecer su cuerpo hasta convertirlo en una armadura imbatible.\n\nEn 1989, junto al entrenador Tim Grover, Jordan creó el 'Breakfast Club' a las 6 AM. Cada mañana al amanecer, convocaba a compañeros como Scottie Pippen y Ron Harper al gimnasio de su mansión en Highland Park. Antes de las prácticas oficiales, completaban intensas sesiones de pesas y entrenamiento de fuerza. Inmediatamente después, el chef personal de Jordan servía un desayuno rico en proteínas donde compartían estrategias. Este hábito matutino les otorgó una ventaja psicológica absoluta: la certeza de haber trabajado más que sus rivales antes de que saliera el sol.\n\nEn la publicación de hoy, analizamos la neurociencia cognitiva y la fisiología del ejercicio detrás de la rutina de Michael Jordan y presentamos una guía de 3 pasos para cultivar el Efecto Ganador.",
+      "de": "\"Ich kann Niederlagen akzeptieren, jeder scheitert einmal. Aber ich kann nicht akzeptieren, es nicht versucht zu haben. Während meine Gegner um 8:30 Uhr aufstehen, habe ich bereits zwei Stunden gearbeitet, um sie zu besiegen.\" 🏀\n\nMichael Jordan (1963–) gilt als der größte Basketballspieler aller Zeiten, der 6 NBA-Meisterschaften mit unerschütterlichem Siegeswillen gewann. Ende der 1980er-Jahre traf Jordan auf die 'Bad Boys' der Detroit Pistons, deren 'Jordan Rules' seine Titelträume bremsten. Anstatt aufzugeben, beschloss Jordan, seinen Körper gestärkt aufzubauen.\n\n1889 gründete er mit dem Trainer Tim Grover den 'Breakfast Club' um 6 Uhr morgens. Jeden Morgen traf er sich mit Teamkollegen wie Scottie Pippen und Ron Harper in der Halle seines Anwesens in Highland Park. Vor den regulären Trainingseinheiten absolvierten sie intensives Krafttraining. Direkt im Anschluss servierte Jordans Privatkoch ein proteinreiches Frühstück, bei dem sie sich über Einstellungen und Taktik austauschten. Diese Morgenroutine schenkte ihm einen mentalen Vorsprung und die Gewissheit, mehr geleistet zu haben als die Konkurrenz.\n\nIm heutigen Beitrag untersuchen wir die Neurowissenschaften und Leistungsphysiologie hinter Michael Jordans 'Breakfast Club'-Routine und bieten eine 3-Schritte-Anleitung für ein erfolgreiches Morgen-Setup.",
+      "fr": "« Je peux accepter l'échec, tout le monde échoue parfois. Mais je ne peux pas accepter de ne pas essayer. Quand mes adversaires se réveillent a 8h30, j'ai déjà travaillé deux heures pour les vaincre. » 🏀\n\nMichael Jordan (1963–) est universellement considéré comme le plus grand joueur de basket-ball de tous les temps, fort de 6 titres de champion NBA. À la fin des années 1980, Jordan se heurta a la défense physique des 'Bad Boys' des Pistons de Détroit, dont les 'Jordan Rules' stoppaient ses ambitions. Refusant la défaite, il décida de sculpter son corps pour résister au choc.\n\nEn 1989, avec le préparateur physique Tim Grover, Jordan fonda le célèbre 'Breakfast Club' de 6h du matin. Chaque jour à l'aube, Jordan réunissait des coéquipiers clés comme Scottie Pippen et Ron Harper dans la salle de sa résidence de Highland Park. Avant l'entraînement officiel, ils enchaînaient des séances de musculation intenses. Après l'effort, le chef cuisinier de Jordan servait un petit-déjeuner protéiné où l'équipe renforçait son esprit de corps. Ce rituel matinal leur offrait un avantage psychologique décisif : la certitude d'avoir surpassé leurs rivaux avant le lever du jour.\n\nDans cet article, nous analysons la neuroscience cognitive et la physiologie de l'exercice sous-jacentes à la routine de Michael Jordan et proposons un guide en 3 étapes pour cultiver l'Effet Gagnant.",
+      "pt": "\"Posso aceitar a falha, todos falham em algo. Mas não posso aceitar não tentar. Enquanto meus adversários acordam às 8h30, eu já trabalhei duas horas para derrotá-los.\" 🏀\n\nMichael Jordan (1963–) é mundialmente reconhecido como o maior jogador de basquete de todos os tempos, conquistando 6 títulos da NBA com sua determinação. No final dos anos 1980, Jordan enfrentou a defesa física dos 'Bad Boys' do Detroit Pistons, cujas 'Regras de Jordan' travaram suas campanhas. Em vez de aceitar a derrota, decidiu fortalecer seu físico até torná-lo imbatível.\n\nEm 1989, junto com o preparador físico Tim Grover, Jordan criou o lendário 'Breakfast Club' às 6h. Todas as manhãs ao amanhecer, reunia parceiros de equipe como Scottie Pippen e Ron Harper na academia de sua mansão em Highland Park. Antes dos treinos oficiais, cumpriam sessões intensas de musculação. Logo após, o chef pessoal de Jordan servia um café da manhã rico em proteínas para alinhar estratégias. Essa rotina matinal garantia uma vantagem psicológica absoluta: a certeza de ter trabalhado mais do que os rivais antes do sol nascer.\n\nNo artigo de hoje, analisamos a neurociência cognitiva e a fisiologia do exercício por trás da rotina de Michael Jordan e apresentamos um guia prático de 3 passos para cultivar o Efeito Vencedor.",
+      "id": "\"Saya dapat menerima kegagalan, semua orang pernah gagal pada suatu hal. Namun saya tidak dapat menerima jika tidak mencoba. Saat lawan-lawan saya bangun jam 8:30 pagi, saya telah bekerja selama dua jam untuk mengalahkan mereka.\" 🏀\n\nMichael Jordan (1963–) diakui secara universal sebagai pemain bola basket terbesar sepanjang masa, meraih 6 Gelar Juara NBA dengan dorongan kompetitifnya yang tak tertandingi. Pada akhir 1980-an, Jordan menghadapi perlawanan fisik brutal dari 'Bad Boys' Detroit Pistons, yang pertahanan agresif 'Jordan Rules'-nya berulang kali menghentikan langkahnya di playoff. Daripada menyerah pada kekalahan, Jordan memutuskan untuk memperkuat fisiknya.\n\nPada tahun 1989, bermitra dengan pelatih Tim Grover, Jordan meluncurkan 'Breakfast Club' jam 6 pagi yang legendaris. Setiap pagi saat fajar, Jordan mengundang rekan tim utamanya seperti Scottie Pippen dan Ron Harper ke gym pribadi di kediamannya di Highland Park. Sebelum latihan resmi tim dimulai, mereka menyelesaikan latihan beban dan stabilitas inti yang berat. Segera setelah latihan, koki pribadi Jordan menyajikan sarapan kaya protein di mana para pemain memperkuat ikatan strategi dan pola pikir. Ritual pagi yang tidak kenal lelah ini memberikan keunggulan psikologis yang mendalam."
     },
     "whyTitle": {
-      "ko": "승자 효과(Winner Effect)와 도파민·테스토스테론의 뇌과학"
+      "ko": "승자 효과(Winner Effect)와 도파민·테스토스테론의 뇌과학",
+      "en": "The Winner Effect and the Neuroscience of Dopamine and Testosterone Surges",
+      "ja": "勝者効果（Winner Effect）とドパミン・テストステロンの脳科学",
+      "zh": "胜者效应（Winner Effect）与多巴胺及睾酮激增神经机制",
+      "es": "El Efecto Ganador y la Neurociencia de la Dopamina y la Testosterona",
+      "de": "Der Winner-Effekt und die Neurowissenschaften von Dopamin und Testosteron",
+      "fr": "L'Effet Gagnant et la neuroscience des pics de dopamine et de testostérone",
+      "pt": "O Efeito Vencedor e a Neurociência da Dopamina e Testosterona",
+      "id": "Efek Pemenang dan Neurosains Lonjakan Dopamin serta Testosteron"
     },
     "whyDesc": {
-      "ko": "하루 중 가장 이른 아침에 자신의 한계를 돌파하는 신체 활동을 완수하면, 뇌는 즉각적으로 <strong>도파민(Dopamine)</strong>과 <strong>테스토스테론(Testosterone)</strong>을 분비하여 높은 성취감을 느낍니다. 이는 인지과학적으로 <strong>'승자 효과(Winner Effect)'</strong>를 유도하여 하루 전반에 걸쳐 도전적인 과제를 마주할 때 높은 주도성과 자신감을 발휘하도록 돕습니다.\n\n또한 동료들과 함께 모여 훈련하고 식사를 함께하는 과정은 사회적 호르몬인 <strong>옥시토신(Oxytocin)</strong>을 자극하여 정서적 결속력을 형성하고, 루틴 유지율을 비약적으로 향상시킵니다."
+      "ko": "하루 중 가장 이른 아침에 자신의 한계를 돌파하는 신체 활동을 완수하면, 뇌는 즉각적으로 <strong>도파민(Dopamine)</strong>과 <strong>테스토스테론(Testosterone)</strong>을 분비하여 높은 성취감을 느낍니다. 이는 인지과학적으로 <strong>'승자 효과(Winner Effect)'</strong>를 유도하여 하루 전반에 걸쳐 도전적인 과제를 마주할 때 높은 주도성과 자신감을 발휘하도록 돕습니다. 또한 동료들과 함께 모여 훈련하고 식사를 함께하는 과정은 사회적 호르몬인 <strong>옥시토신(Oxytocin)</strong>을 자극하여 정서적 결속력을 형성하고, 루틴 유지율을 비약적으로 향상시킵니다.",
+      "en": "Completing a physical challenge that pushes your boundaries first thing in the morning triggers the brainstem and striatum to immediately secrete high concentrations of <strong>dopamine</strong> and <strong>testosterone</strong>. Neuroscientifically, this activates the <strong>Winner Effect</strong>—a positive feedback loop that elevates dominant drive, self-efficacy, and executive risk-tolerance throughout the remainder of the day. Furthermore, exercising and sharing a protein-rich meal with peers stimulates <strong>oxytocin</strong> secretion, reinforcing team cohesion and driving long-term habit adherence.",
+      "ja": "1日の中で最も早い早朝に自分の限界を突破する身体活動を完遂すると、脳は即座に<strong>ドパミン（Dopamine）</strong>と<strong>テストステロン（Testosterone）</strong>を分泌し、高い達成感を感じます。これは認知科学的に<strong>「勝者効果（Winner Effect）」</strong>を誘導し、1日全体を通じて挑戦的な課題に直面した際、高い主導性と自信を発揮するよう助けます。また、仲間たちと共に集まってトレーニングし食事を共にする過程は、社会的ホルモンである<strong>オキシトシン（Oxytocin）</strong>を刺激して情緒的結束力を形成し、ルーティン維持率を飛躍的に向上させます。",
+      "zh": "在一天的清晨时分率先达成攻坚突破个人极限的重磅体力训练，大脑会当即于中枢神经系统剧烈拉动<strong>多巴胺（Dopamine）</strong>与<strong>睾酮（Testosterone）</strong>的高浓度分泌，赋予极高的成就感。在认知科学层面，这能强力唤醒<strong>“胜者效应（Winner Effect）”</strong>正向反馈闭环，助人在全天面对各类具挑战性的硬核任务时展现出卓绝的主动性与自信。此外，与队友或同伴共集一堂训练并共进高蛋白早餐的过程，更可强效刺激社交神经递质<strong>催产素（Oxytocin）</strong>，构建情绪粘性，跨越式提升习惯的长效留存率。",
+      "es": "Completar un desafío físico que supere sus límites temprano en la mañana estimula al cerebro para secretar <strong>dopamina</strong> y <strong>testosterona</strong>. Esto activa el <strong>Efecto Ganador (Winner Effect)</strong>, un bucle de retroalimentación positiva que eleva la iniciativa y la confianza durante todo el día. Además, entrenar y compartir una comida con compañeros estimula la <strong>oxitocina</strong>, reforzando la cohesión y la constancia de la rutina.",
+      "de": "Das Bewältigen einer körperlichen Herausforderung am frühen Morgen veranlasst das Gehirn zur Ausschüttung von <strong>Dopamin</strong> und <strong>Testosteron</strong>. Dies aktiviert den <strong>Winner-Effekt</strong> – eine neurobiologische Rückkopplung, die Tatkraft und Selbstvertrauen für den gesamten Tag steigert. Das gemeinsame Training und anschließende Essen fördert zudem die Ausschüttung von <strong>Oxytocin</strong>, was den Gruppenzusammenhalt und die Disziplin stärkt.",
+      "fr": "Réussir un défi physique exigeant dès le début de la journée incitera le cerveau a sécréter de la <strong>dopamine</strong> et de la <strong>testostérone</strong>. Ce processus enclenche l'<strong>Effet Gagnant (Winner Effect)</strong>, une boucle de rétroaction élevant l'initiative et la confiance au quotidien. De plus, s'entraîner et partager un repas avec ses pairs stimule l'<strong>oxytocine</strong>, renforçant la cohésion et la régularité du rituel.",
+      "pt": "Concluir um desafio físico exigente no início da manhã estimula o cérebro a liberar <strong>dopamina</strong> e <strong>testosterona</strong>. Isso ativa o <strong>Efeito Vencedor (Winner Effect)</strong>, uma alça de retroalimentação positiva que eleva a iniciativa e a confiança ao longo do dia. Além disso, treinar e compartilhar uma refeição com parceiros estimula a <strong>oxitocina</strong>, reforçando a coesão e a consistência da rotina.",
+      "id": "Menyelesaikan tantangan fisik yang mendorong batas kemampuan Anda di pagi hari memicu otak untuk segera menyekresi konsentrasi tinggi <strong>dopamin</strong> dan <strong>testosteron</strong>. Secara neurosains, ini mengaktifkan <strong>Efek Pemenang (Winner Effect)</strong>—lingkaran umpan balik positif yang meningkatkan dorongan dominan, efikasi diri, dan toleransi risiko eksekutif sepanjang sisa hari. Selain itu, berolahraga dan berbagi makanan kaya protein dengan rekan-rekan menstimulasi sekresi <strong>oksitosin</strong>."
     },
     "cautionTitle": {
-      "ko": "기분에 의존하지 않고 전전두엽 인지 마찰을 줄이는 수칙"
+      "ko": "기분에 의존하지 않고 전전두엽 인지 마찰을 줄이는 수칙",
+      "en": "Caution: Reducing Prefrontal Friction by Bypassing Emotional Deliberation",
+      "ja": "注意事項：気分に依存せず前頭前野の認知摩擦を減らすルール",
+      "zh": "注意事项：不依靠主观情绪拉扯，极小化前额叶认知摩擦指南",
+      "es": "Precaución: Reduzca la Fricción Prefrontal Evitando la Deliberación Emocional",
+      "de": "Vorsichtsmaßnahme: Kognitive Hürden abbauen, ohne auf die Tagesform zu warten",
+      "fr": "Mise en garde : Réduire la friction préfrontale sans se fier a l'humeur matinale",
+      "pt": "Precaução: Reduza a Fricção Pré-frontal Evitando a Hesitação Emocional",
+      "id": "Perhatian: Mengurangi Gesekan Prefrontal dengan Memotong Pertimbangan Emosional"
     },
     "cautionDesc": {
-      "ko": "아침 훈련 루틴의 핵심은 매일 아침의 기분에 의존하지 않고 정해진 시각에 신체를 기동하는 것입니다. 기상 직후 뇌가 '더 잘까, 말까' 고민할 틈을 주지 않고 즉시 일어나 운동 공간으로 이동해야만 <strong>전전두엽(Prefrontal Cortex)</strong>의 인지적 마찰과 에너지 소모를 최소화할 수 있습니다."
+      "ko": "아침 훈련 루틴의 핵심은 매일 아침의 기분에 의존하지 않고 정해진 시각에 신체를 기동하는 것입니다. 기상 직후 뇌가 '더 잘까, 말까' 고민할 틈을 주지 않고 즉시 일어나 운동 공간으로 이동해야만 전전두엽(Prefrontal Cortex)의 인지적 마찰과 에너지 소모를 최소화할 수 있습니다.",
+      "en": "The key to maintaining a morning training routine is operating mechanically rather than relying on daily subjective feelings. Do not allow your brain a window to negotiate 'Should I sleep more or get up?' The moment your alarm rings, physically move your body into action to minimize prefrontal cognitive friction and conserve executive energy.",
+      "ja": "朝のトレーニングルーティンの核心は、毎朝の気分に依存せず決められた時間に身体を起動することです。起床直後に脳が「もう少し寝ようか、起きようか」と悩む隙を与えず即座に起き上がり運動空間へと移動してこそ、前頭前野（Prefrontal Cortex）の認知的摩擦とエネルギー消耗を最小限に抑えることができます。",
+      "zh": "晨间训练习惯的核心要义在于如机械般硬核启动躯体，绝非妥协于每天醒来时的主观情绪。醒来瞬间绝不留给大脑“要不要再睡会”的讨价还价余地，当即起床移步至训练微环境，方能将前额叶皮层（Prefrontal Cortex）的认知内耗摩擦与能量挥霍压缩至极限极低。",
+      "es": "La clave para mantener una rutina matutina es actuar de forma automática sin depender de su estado de ánimo. No dé tiempo a su cerebro para dudar entre seguir durmiendo o levantarse. Al sonar la alarma, mueva su cuerpo de inmediato para minimizar la fricción cognitiva prefrontal y ahorrar energía.",
+      "de": "Der Schlüssel zu einer morgendlichen Routine liegt im automatischen Handeln ohne Rücksicht auf die Tagesform. Geben Sie dem Gehirn nach dem Aufwachen keine Zeit zum Zögern. Stehen Sie beim Wecksignal sofort auf und bewegen Sie sich zum Trainingsort, um kognitive Reibung im präfrontalen Kortex zu minimieren.",
+      "fr": "La clé pour maintenir una routine matinale est d'agir de manière automatique sans dépendre de son humeur. Ne laissez pas à votre cerveau le temps d'hésiter entre se rendormir ou se lever. Dès la sonnerie, mettez votre corps en mouvement pour réduire la friction cognitive préfrontale et préserver votre énergie.",
+      "pt": "O segredo para manter uma rotina matinal é agir de forma automática sem depender do estado de espírito. Não dê tempo ao cérebro para ponderar entre continuar dormindo ou levantar. Ao soar o alarme, mova o corpo imediatamente para minimizar a fricção cognitiva pré-frontal.",
+      "id": "Kunci untuk mempertahankan rutinitas latihan pagi adalah beroperasi secara mekanis alih-alih mengandalkan perasaan subjektif harian. Jangan beri otak Anda celah untuk mempertimbangkan 'Apakah saya harus tidur lagi atau bangun?' Saat alarm berbunyi, gerakkan tubuh Anda secara fisik untuk meminimalkan gesekan kognitif prefrontal."
     },
     "steps": [
       {
         "name": {
-          "ko": "1단계: 고민 없는 즉각적인 기상과 신체 기동"
+          "ko": "1단계: 고민 없는 즉각적인 기상과 신체 기동",
+          "en": "Step 1: Frictionless Waking & Immediate Physical Movement",
+          "ja": "ステップ1：悩みのない即座の起床と身体起動",
+          "zh": "步骤1：零犹豫阻力的极速起床与躯体唤醒",
+          "es": "Paso 1: Despertar Inmediato Sin Dudas y Movimiento Físico",
+          "de": "Schritt 1: Reibungsloses Aufstehen & Sofortige Bewegung",
+          "fr": "Étape 1 : Réveil immédiat sans hésitation & Mise en mouvement",
+          "pt": "Passo 1: Despertar Imediato Sem Hesitação e Movimento Físico",
+          "id": "Langkah 1: Bangun Tidur Tanpa Hambatan & Gerakan Fisik Segera"
         },
         "text": {
-          "ko": "정해진 아침 시각(예: 아침 6시)에 알람이 울리면 스마트폰을 보거나 침대에서 머뭇거리지 않고, 3초 이내에 몸을 일으켜 첫발을 바닥에 내딛습니다."
+          "ko": "정해진 아침 시각(예: 아침 6시)에 알람이 울리면 스마트폰을 보거나 침대에서 머뭇거리지 않고, 3초 이내에 몸을 일으켜 첫발을 바닥에 내딛습니다.",
+          "en": "The moment your alarm sounds at your target time (e.g., 6:00 AM), avoid checking your smartphone or lingering in bed. Stand up within 3 seconds and plant your feet firmly on the floor.",
+          "ja": "決められた朝の時間（例：朝6時）にアラームが鳴ったら、スマートフォンを見たりベッドで躊躇することなく、3秒以内に体を起こして第一歩を床に踏み出します。",
+          "zh": "当预设的晨间闹钟在特定节点（如：清晨6点）响起时，切勿查看手机弹窗或在床榻翻滚犹豫，在3秒内立起躯体、将双足坚定踏落于地面上。",
+          "es": "Cuando suene la alarma a la hora fijada (p. ej., 6:00 AM), evite mirar el teléfono o quedarse en la cama. Levántese en menos de 3 segundos y apoye los pies firmemente en el suelo.",
+          "de": "Wenn der Wecker zur festgelegten Zeit klingelt (z. B. 6:00 Uhr), greifen Sie nicht zum Smartphone. Stehen Sie innerhalb von 3 Sekunden auf und stellen Sie die Füße auf den Boden.",
+          "fr": "Dès que l'alarme sonne a l'heure fixée (ex. : 6h00), évitez de regarder votre téléphone. Levez-vous en moins de 3 secondes et posez fermement vos pieds au sol.",
+          "pt": "Quando o alarme tocar no horário definido (ex.: 6h), evite olhar o celular ou hesitar na cama. Levante-se em menos de 3 segundos e apoie os pés no chão.",
+          "id": "Saat alarm Anda berbunyi pada waktu target (misalnya, 06.00), hindari memeriksa ponsel pintar Anda atau berdiam diri di tempat tidur. Bangunlah dalam waktu 3 detik dan tancapkan kaki Anda di lantai."
         }
       },
       {
         "name": {
-          "ko": "2단계: 신체 한계를 돌파하는 30~60분 고강도 트레이닝"
+          "ko": "2단계: 신체 한계를 돌파하는 30~60분 고강도 트레이닝",
+          "en": "Step 2: 30 to 60 Minutes of High-Intensity Boundary-Pushing Training",
+          "ja": "ステップ2：身体の限界を突破する30〜60分間の高強度トレーニング",
+          "zh": "步骤2：开展30-60分钟突破躯体极限的高强度训练",
+          "es": "Paso 2: 30 a 60 Minutos de Entrenamiento de Alta Intensidad",
+          "de": "Schritt 2: 30 bis 60 Minuten hochintensives Training zur Grenzüberwindung",
+          "fr": "Étape 2 : 30 à 60 minutes d'entraînement haute intensité",
+          "pt": "Passo 2: 30 a 60 Minutos de Treinamento de Alta Intensidade",
+          "id": "Langkah 2: Latihan Intensitas Tinggi 30 hingga 60 Menit yang Mendorong Batas"
         },
         "text": {
-          "ko": "30분~1시간 동안 푸시업, 스쿼트, 버피 또는 서킷 웨이트 트레이닝 등 호흡이 가쁘고 근육에 자극을 주는 수준의 고강도 신체 훈련을 완수합니다."
+          "ko": "30분~1시간 동안 푸시업, 스쿼트, 버피 또는 서킷 웨이트 트레이닝 등 호흡이 가쁘고 근육에 자극을 주는 수준의 고강도 신체 훈련을 완수합니다.",
+          "en": "Execute 30 to 60 minutes of high-intensity physical conditioning—such as circuit weight training, push-ups, bodyweight squats, or burpees—that elevates heart rate and challenges muscular stamina.",
+          "ja": "30分〜1時間の間、プッシュアップ、スクワット、バーピー、またはサーキットウェイトトレーニングなど、息が切れ筋肉に刺激を与えるレベルの高強度身体トレーニングを完遂します。",
+          "zh": "开展时长30分钟至1小时的高强度体能训练——如俯卧撑、深蹲、波比跳或循环负重力量训练，达到心率拉升、肌肉承受显著深层刺激的攻坚状态。",
+          "es": "Realice de 30 a 60 minutos de acondicionamiento físico de alta intensidad (entrenamiento de pesas en circuito, flexiones, sentadillas o burpees) que eleve la frecuencia cardíaca y exija resistencia muscular.",
+          "de": "Absolvieren Sie 30 bis 60 Minuten intensives Training – wie Zirkeltraining, Liegestütze, Kniebeugen oder Burpees –, das den Puls steigert und die Muskeln beansprucht.",
+          "fr": "Exécutez 30 a 60 minutes de conditionnement physique haute intensité — musculation en circuit, pompes, squats ou burpees — stimulant le rythme cardiaque et le tonus musculaire.",
+          "pt": "Realize de 30 a 60 minutos de condicionamento físico de alta intensidade (treino em circuito, flexões, agachamentos ou burpees) que eleve a frequência cardíaca e desafie a resistência.",
+          "id": "Lakukan pengondisian fisik intensitas tinggi selama 30 hingga 60 menit—seperti latihan beban sirkuit, push-up, squat, atau burpee—yang meningkatkan detak jantung."
         }
       },
       {
         "name": {
-          "ko": "3단계: 단백질 중심 식사 및 하루 목표 정렬"
+          "ko": "3단계: 단백질 중심 식사 및 하루 목표 정렬",
+          "en": "Step 3: Protein-Dense Post-Workout Meal & Goal Realignment",
+          "ja": "ステップ3：タンパク質中心の食事および1日の目標の整列",
+          "zh": "步骤3：摄入高蛋白补充餐与全天核心目标重塑对齐",
+          "es": "Paso 3: Comida Comprobada Rica en Proteínas y Alineación de Objetivos",
+          "de": "Schritt 3: Proteinreiche Mahlzeit & Ausrichtung auf die Tagesziele",
+          "fr": "Étape 3 : Repas protéiné après l'effort & Alignement des objectifs",
+          "pt": "Passo 3: Refeição Rica em Proteínas e Alinhamento de Metas",
+          "id": "Langkah 3: Makanan Kaya Protein Setelah Latihan & Penyelarasan Target Harian"
         },
         "text": {
-          "ko": "운동 직후 단백질 중심의 균형 잡힌 식사로 뇌와 근육에 영양을 공급하고, 오늘 해내야 할 핵심 과제들을 시각화하며 승자의 정신력을 재정비합니다."
+          "ko": "운동 직후 단백질 중심의 균형 잡힌 식사로 뇌와 근육에 영양을 공급하고, 오늘 해내야 할 핵심 과제들을 시각화하며 승자의 정신력을 재정비합니다.",
+          "en": "Replenish your muscles and brain with a balanced, protein-rich breakfast immediately after working out. Visualize your top priority objectives for the day, cementing your winning mindset.",
+          "ja": "運動直後にタンパク質中心のバランスの取れた食事で脳と筋肉に栄養を供給し、今日果たすべき核心課題を可視化しながら勝者の精神力を再整備します。",
+          "zh": "训练结束后当即摄入搭配均衡的高蛋白早餐，为肌肉与大脑补充精纯养分；同步在脑海中可视化推演全天需攻坚的核心优先任务，定格胜者心态。",
+          "es": "Nutra sus músculos y cerebro con un desayuno equilibrado y rico en proteínas inmediatamente después de entrenar. Visualice sus objetivos prioritarios para el día, afianzando su mentalidad ganadora.",
+          "de": "Versorgen Sie Muskeln und Gehirn direkt nach dem Training mit einem proteinreichen Frühstück. Visualisieren Sie Ihre wichtigsten Tagesziele, um Ihre Gewinner-Mentalität zu festigen.",
+          "fr": "Nourrissez vos muscles et votre cerveau avec un petit-déjeuner équilibré et protéiné dès la fin de l'effort. Visualisez vos objectifs prioritaires de la journée pour ancrer un état d'esprit gagnant.",
+          "pt": "Nutra seus músculos e cérebro com um café da manhã equilibrado e rico em proteínas logo após o treino. Visualize suas prioridades para o dia, consolidando sua mentalidade vencedora.",
+          "id": "Isi ulang otot dan otak Anda dengan sarapan seimbang yang kaya protein segera setelah berolahraga. Visualisasikan tujuan prioritas utama Anda untuk hari itu, memantapkan pola pikir pemenang Anda."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "새벽에 일어나는 것이 유독 힘든 야간형 인간은 어떻게 해야 하나요?"
+          "ko": "새벽에 일어나는 것이 유독 힘든 야간형 인간은 어떻게 해야 하나요?",
+          "en": "How can night owls or late risers adapt this routine effectively?",
+          "ja": "早朝に起きるのが特に辛い夜型人間はどうすればよいですか？",
+          "zh": "对于习惯于晚睡晚起的夜型作息人群，该如何切合实际地等效复刻？",
+          "es": "¿Cómo pueden adaptar esta rutina las personas nocturnas a las que les cuesta madrugar?",
+          "de": "Wie können Nachtmenschen, denen das frühe Aufstehen schwerfällt, diese Routine anpassen?",
+          "fr": "Comment les personnes couche-tard peuvent-elles adapter cette routine sans souffrir ?",
+          "pt": "Como pessoas noturnas que têm dificuldade para acordar cedo podem adaptar essa rotina?",
+          "id": "Bagaimana tipe orang malam yang kesulitan bangun pagi dapat mengadaptasi rutinitas ini secara efektif?"
         },
         "answer": {
-          "ko": "핵심은 시간의 절대값이 아니라 '기상 직후의 한계 돌파 훈련'입니다. 반드시 6시가 아니더라도, 본인이 기상하는 첫 시간에 몸에 인지적/신체적 부하를 가하는 방식을 취하면 동일한 호르몬 분비와 심리적 우위 효과를 누릴 수 있습니다."
+          "ko": "핵심은 시간의 절대값이 아니라 '기상 직후의 한계 돌파 훈련'입니다. 반드시 6시가 아니더라도, 본인이 기상하는 첫 시간에 몸에 인지적/신체적 부하를 가하는 방식을 취하면 동일한 호르몬 분비와 심리적 우위 효과를 누릴 수 있습니다.",
+          "en": "The core neuroscientific mechanism lies not in the absolute clock time of 6 AM, but in 'executing a boundary-pushing challenge immediately upon waking'. Regardless of your wake-up time, completing an intense physical workout right after waking delivers identical winner-effect hormonal surges and psychological superiority.",
+          "ja": "核心は時間の絶対値ではなく「起床直後の限界突破トレーニング」にあります。必ずしも6時でなくても、ご自身が起床する最初の時間に身体に知的・身体的負荷を加える方式をとれば、同じホルモン分泌と心理的優位効果を享受できます。",
+          "zh": "核心要义并非死磕“钟表上的清晨6点”，而在于“醒来第一时间内完成突破极限的硬核训练”。无论您的实际醒来节点为何时，只要在起床后的第一个时段向躯体施加高强度训练，便可斩获完全相同的激素激增与掌控全局的心理优势。",
+          "es": "La clave no es la hora exacta de las 6 AM, sino 'completar un entrenamiento exigente inmediatamente al despertar'. Sin importar su hora de levantarse, realizar un entrenamiento intenso justo al despertar ofrece los mismos beneficios hormonales y de confianza.",
+          "de": "Der Kern der Methode liegt nicht in der Uhrzeit 6:00 Uhr, sondern in der 'Grenzüberwindung direkt nach dem Aufstehen'. Unabhängig von Ihrer Aufstehzeit erzielt ein intensives Training direkt nach dem Aufwachen dieselben Hormonschübe und kognitiven Vorteile.",
+          "fr": "L'essentiel ne réside pas dans l'horaire précis de 6h00, mais dans 'l'effort physique intense accompli dès le réveil'. Quelle que soit votre heure de lever, effectuer un entraînement stimulant au réveil procure des pics hormonaux et des bénéfices psychologiques identiques.",
+          "pt": "O segredo não é o horário exato das 6h, mas 'concluir um treino exigente imediatamente ao acordar'. Independentemente da sua hora de acordar, realizar um treino intenso logo ao se levantar garante os mesmos benefícios hormonais e de confiança.",
+          "id": "Mekanisme neurosains utamanya terletak bukan pada waktu jam 6 pagi yang mutlak, melainkan pada 'mengeksekusi tantangan yang mendorong batas segera setelah bangun tidur'. Tanpa memandang waktu bangun Anda, menyelesaikan latihan fisik intensif memberikan lonjakan hormonal."
         }
       },
       {
         "question": {
-          "ko": "매일 고강도 운동을 하면 몸에 무리가 가지 않나요?"
+          "ko": "매일 고강도 운동을 하면 몸에 무리가 가지 않나요?",
+          "en": "Will daily high-intensity training cause physical overtraining or injury?",
+          "ja": "毎日高強度の運動をすると身体に無理がかかりませんか？",
+          "zh": "每天开展高强度体能训练，是否会导致躯体过度疲劳或运动损伤？",
+          "es": "¿El entrenamiento diario de alta intensidad no causa sobreentrenamiento o lesiones?",
+          "de": "Führt tägliches hochintensives Training nicht zu Überlastung oder Verletzungen?",
+          "fr": "Un entraînement quotidien haute intensité ne risque-t-il pas de provoquer un surentraînement ?",
+          "pt": "O treino diário de alta intensidade não causa overtraining ou lesões?",
+          "id": "Apakah latihan intensitas tinggi setiap hari tidak akan menyebabkan overtraining atau cedera?"
         },
         "answer": {
-          "ko": "조던의 루틴도 점진적인 적응 과정을 거쳤습니다. 초보자라면 주 3회로 시작하여 점진적으로 강도와 빈도를 늘리는 것이 좋습니다. 신체 상태에 따라 격렬한 근력 훈련과 가벼운 기능성 훈련을 격일로 교대하여 신체 피로 누적을 방지하십시오."
+          "ko": "조던의 루틴도 점진적인 적응 과정을 거쳤습니다. 초보자라면 주 3회로 시작하여 점진적으로 강도와 빈도를 늘리는 것이 좋습니다. 신체 상태에 따라 격렬한 근력 훈련과 가벼운 기능성 훈련을 격일로 교대하여 신체 피로 누적을 방지하십시오.",
+          "en": "Jordan's routine evolved through gradual conditioning. Beginners should start at 3 days per week, progressively scaling volume and frequency. Alternating between intense weight lifting and lighter functional mobility workouts on alternate days prevents chronic physical fatigue.",
+          "ja": "ジョーダンのルーティンも漸進的な適応過程を経ました。初心者であれば週3回から始めて徐々に強度と頻度を増やすことが望ましいです。身体の状態に応じて激しい筋力トレーニングと軽い機能性トレーニングを隔日で交互に行い、身体的疲労の蓄積を予防してください。",
+          "zh": "即便是乔布斯或乔丹的训练习惯，亦经历了循序渐进的系统适应期。初学者宜从每周3次起步，平稳拉升强度与频次。可根据躯体恢复状态，将高强度力量举重与轻度功能性拉伸训练按单双日交替进行，防范慢性身体疲劳交加。",
+          "es": "La rutina de Jordan evolucionó gradualmente. Los principiantes deben comenzar con 3 días a la semana, aumentando progresivamente la intensidad. Alternar entre fuerza intensa y ejercicios de movilidad ligera en días alternos previene el agotamiento físico.",
+          "de": "Jordans Routine beruhte auf stufenweiser Anpassung. Anfänger sollten mit 3 Tagen pro Woche beginnen und Intensität sowie Häufigkeit langsam steigern. Das Wechseln zwischen schwerem Krafttraining und leichten Beweglichkeitsübungen schützt vor Erschöpfung.",
+          "fr": "La routine de Jordan s'est construite de manière progressive. Les débutants doivent commencer par 3 séances par semaine, en augmentant l'intensité petit à petit. Alterner musculation lourde et mobilité légère prévient la fatigue physique.",
+          "pt": "A rotina de Jordan evoluiu gradualmente. Iniciantes devem começar com 3 dias por semana, aumentando progressivamente a intensidade. Alternar entre treino de força e mobilidade leve em dias alternados evita o esgotamento físico.",
+          "id": "Rutinitas Jordan berkembang melalui pengondisian bertahap. Pemula harus mulai dengan 3 hari per minggu, secara bertahap meningkatkan volume dan frekuensi. Berselang-seling antara latihan beban intensif dan latihan mobilitas fungsional yang lebih ringan mencegah kelelahan fisik kronis."
         }
       }
     ]

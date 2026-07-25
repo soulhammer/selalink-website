@@ -1,70 +1,214 @@
 {
   "jeong-yakyong-transcription": {
     "title": {
-      "ko": "유배지 500권 저술의 원동력? 다산 정약용의 초서와 편지 쓰기"
+      "ko": "유배지 500권 저술의 원동력: 다산 정약용의 초서와 편지 쓰기 및 인지적 부호화 루틴",
+      "en": "The Engine Behind 500 Volumes in Exile: Dasan Jeong Yak-yong's Selective Transcription, Letter-Writing, and Cognitive Encoding Routine",
+      "ja": "流配地での500巻著述の原動力：茶山・丁若鏞の抄書と手紙書きおよび知的符号化ルーティン",
+      "zh": "流放地巨著500卷的动力源泉：茶山丁若镛的抄书摘录、书信撰写与认知编码习惯",
+      "es": "El Motor Detrás de 500 Volúmenes en el Exilio: La Rutina de Transcripción Selectiva, Cartas y Codificación Cognitiva de Dasan Jeong Yak-yong",
+      "de": "Der Antrieb hinter 500 Bänden im Exil: Dasan Jeong Yak-yongs selektives Abschreiben, Briefeschreiben und kognitive Kodierungsroutine",
+      "fr": "Le moteur derrière 500 volumes en exil : La routine de transcription sélective, d'épistolier et d'encodage cognitif de Dasan Jeong Yak-yong",
+      "pt": "O Motor Por Trás de 500 Volumes no Exílio: A Rotina de Transcrição Seletiva, Cartas e Codificação Cognitiva de Dasan Jeong Yak-yong",
+      "id": "Pendorong di Balik 500 Jilid Karya di Pengasingan: Rutinitas Transkripsi Selektif, Penulisan Surat, dan Penyandian Kognitif Dasan Jeong Yak-yong"
     },
     "description": {
-      "ko": "조선 최고의 실학자 다산 정약용. 18년의 유배 생활 동안 지식을 요약·필기하는 '초서'와 매일 아들의 학문을 훈계했던 편지 쓰기의 학습 효율성 비밀을 파헤칩니다."
+      "ko": "조선 최고의 실학자 다산 정약용. 18년의 강진 유배 생활 동안 지식을 요약·필기하는 '초서(抄書)'와 두 아들에게 학문을 훈계했던 편지 쓰기의 뇌과학적 원리, 체성감각 피질 자극 및 메타인지 강화 효과를 탐구합니다.",
+      "en": "Discover how Joseon's greatest Silhak scholar, Dasan Jeong Yak-yong, authored over 500 volumes during his 18-year exile through 'Choseo' (selective transcription) and letter-writing to his sons. Explore the neuroscience of graphomotor cognitive encoding and metacognitive integration.",
+      "ja": "朝鮮最高の実学者・茶山（タサン）丁若鏞（チョン・ヤギョン）。18年間の康津流配生活の中で知識を要約・筆記する「抄書（チョソ）」と二人の息子に学問を訓戒した手紙書きの脳科学的原理、体性感覚皮質刺激およびメタ認知強化効果を探求します。",
+      "zh": "深度剖析朝鲜王朝伟大的实学集大成者茶山丁若镛如何在长达18年的康津流放岁月中，通过“抄书（精选摘录）”与给两个儿子撰写训诫家书完成500余卷著作。揭示书写运动认知编码与元认知升华的神经科学原理。",
+      "es": "Descubra cómo Dasan Jeong Yak-yong, el gran erudito Silhak de Joseon, escribió más de 500 volúmenes durante sus 18 años de exilio mediante la transcripción selectiva ('Choseo') y cartas a sus hijos. Explore la neurociencia de la codificación cognitiva y la metacognición.",
+      "de": "Erfahren Sie, wie Joseons bedeutendster Silhak-Gelehrter, Dasan Jeong Yak-yong, während seines 18-jährigen Exils über 500 Bände durch selektives Abschreiben ('Choseo') und Briefe an seine Söhne verfasste. Entdecken Sie die Neurowissenschaften der graphomotorischen kognitiven Kodierung.",
+      "fr": "Découvrez comment Dasan Jeong Yak-yong, le plus grand érudit Silhak de la dynastie Joseon, a rédigé plus de 500 volumes pendant ses 18 ans d'exil grâce au 'Choseo' (transcription sélective) et aux lettres à ses fils. Explorez la neuroscience de l'encodage cognitif graphomoteur.",
+      "pt": "Descubra como Dasan Jeong Yak-yong, o maior erudito Silhak de Joseon, escreveu mais de 500 volumes durante seus 18 anos de exílio por meio da transcrição seletiva ('Choseo') e cartas aos filhos. Explore a neurociência da codificação cognitiva e metacognição.",
+      "id": "Pelajari bagaimana cendekiawan Silhak terbesar Joseon, Dasan Jeong Yak-yong, menulis lebih dari 500 jilid selama 18 tahun pengasingannya melalui 'Choseo' (transkripsi selektif) dan surat kepada putra-putranya. Temukan neurosains penyandian kognitif graphomotor dan integrasi metakognitif."
     },
     "authority": {
-      "ko": "다산 정약용 저작집 『여유당전서(與猶堂全書)』 및 자서전 『사암연보(俟菴年譜)』 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 메타인지(Metacognition) 연구"
+      "ko": "다산 정약용 저작집 『여유당전서(與猶堂全書)』 및 자서전 『사암연보(俟菴年譜)』 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 메타인지(Metacognition) 연구",
+      "en": "Historical Verification from Dasan Jeong Yak-yong's Collected Works *Yeoyudang Jeonseo*, Autobiography *Saam Yeonbo* & Cognitive Neuroscience and Metacognition Research",
+      "ja": "茶山・丁若鏞著作集『與猶堂全書（ヨユダンゼンショ）』および自伝『俟菴年譜（サアムネンポ）』史料考証＆認知神経科学（Cognitive Neuroscience）およびメタ認知（Metacognition）研究",
+      "zh": "茶山丁若镛著作集《与犹堂全书》与自传《俟菴年谱》史料考证及认知神经科学（Cognitive Neuroscience）与元认知（Metacognition）研究",
+      "es": "Verificación Histórica de las Obras Completas de Dasan Jeong Yak-yong *Yeoyudang Jeonseo*, Autobiografía *Saam Yeonbo* e Investigación en Neurociencia Cognitiva y Metacognición",
+      "de": "Historische Überprüfung aus Dasan Jeong Yak-yongs Gesamtausgabe *Yeoyudang Jeonseo*, Autobiografie *Saam Yeonbo* & Forschung der kognitiven Neurowissenschaften und Metakognition",
+      "fr": "Vérification Historique issue des Œuvres complètes de Dasan Jeong Yak-yong *Yeoyudang Jeonseo*, de l'autobiographie *Saam Yeonbo* & de la Recherche en Neurosciences Cognitives et Métacognition",
+      "pt": "Verificação Histórica das Obras Completas de Dasan Jeong Yak-yong *Yeoyudang Jeonseo*, Autobiografia *Saam Yeonbo* e Pesquisa em Neurociência Cognitiva e Metacognição",
+      "id": "Verifikasi Historis dari Kumpulan Karya Dasan Jeong Yak-yong *Yeoyudang Jeonseo*, Autobiografi *Saam Yeonbo* & Penelitian Neurosains Kognitif serta Metakognisi"
     },
     "intro": {
-      "ko": "\"독서에 있어서 필기(초서)하지 않는 독서는 아무런 도움이 되지 않는다. 기억은 흐릿해지고 흔적 없이 사라지기 때문이다.\" 🖋️\n\n조선 후기 실학 사상을 집대성하고, 국가 개혁의 마스터플랜인 목민심서와 경세유표 등 무려 500여 권의 방대한 저술을 남긴 대학자 다산 정약용. 그는 반대 정파의 모함으로 18년 동안 전라남도 강진의 열악한 초가집에 유배되는 긴 고난을 겪었습니다. 일생을 감옥과 다름없는 고립된 곳에서 보냈던 그가 좌절을 극복하고 역사에 길이 남을 막대한 학문적 업적을 쌓을 수 있었던 비결은 무엇이었을까요?\n\n다산은 귀양지에서 수많은 도서를 탐독하며 단순히 읽는 데 그치지 않고, 핵심 지식을 발췌하고 요약하여 주제별로 완전히 다시 써 내려가는 '초서(抄書, 발췌 필기)' 습관을 매일 실천했습니다. 또한 멀리 한양에 두고 온 두 아들에게 매일같이 학문의 태도와 일상의 절제를 당부하는 편지를 써 보냈습니다. 이 철저한 기록과 피드백 소통은 그가 가혹한 현실을 이겨내고 불후의 저작을 남기며, 폐족의 위기에 처한 가문을 훌륭한 학자 가문으로 재건하게 한 핵심 습관이었습니다.\n\n오늘 포스트에서는 다산 정약용의 '초서 및 서신 교환' 루틴에 담긴 인지 심리학적 메커니즘과 현대인을 위한 지식 구조화 노하우를 소개합니다."
+      "ko": "\"독서에 있어서 초서(抄書, 요약·필기)하지 않는 독서는 아무런 도움이 되지 않는다. 기억은 흐릿해지고 흔적 없이 사라지기 때문이다.\" 🖋️\n\n조선 후기 실학(實學) 사상을 집대성하고, 국가 개혁의 마스터플랜인 목민심서(牧民心書), 경세유표(經世遺表), 흠흠신서(欽欽新書) 등 무려 500여 권의 방대한 저술을 남긴 대학자 다산 정약용(茶山 丁若鏞, 1762–1836). 그는 1801년 신유박해로 인한 반대 정파의 모함으로 18년 동안 전라남도 강진의 열악한 초가집(다산초당)에 유배되는 긴 고난을 겪었습니다. 일생을 감옥과 다름없는 고립된 곳에서 보냈던 그가 좌절을 극복하고 역사에 길이 남을 막대한 학문적 업적을 쌓을 수 있었던 비결은 무엇이었을까요?\n\n다산은 귀양지에서 수많은 도서를 탐독하며 단순히 읽는 데 그치지 않고, 핵심 지식을 발췌하고 요약하여 주제별로 완전히 다시 써 내려가는 '초서(抄書, 발췌 필기)' 습관을 매일 실천했습니다. 또한 멀리 한양에 두고 온 두 아들(학유, 학연)에게 매일같이 학문의 태도, 농사법, 일상의 절제를 당부하는 편지를 써 보냈습니다. 이 철저한 기록과 피드백 소통은 그가 가혹한 현실을 이겨내고 불후의 저작을 남기며, 폐족의 위기에 처한 가문을 훌륭한 학자 가문으로 재건하게 한 핵심 습관이었습니다.\n\n오늘 포스트에서는 다산 정약용의 '초서 및 서신 교환' 루틴에 담긴 인지 심리학적 메커니즘과 현대인을 위한 지식 구조화 노하우를 소개합니다.",
+      "en": "\"Reading without 'Choseo' (selective hand-transcription and annotation) provides no lasting value. Memories grow hazy and vanish without a trace.\" 🖋️\n\nDasan Jeong Yak-yong (1762–1836) was the preeminent Silhak ('Practical Learning') polymath of late Joseon Dynasty Korea who synthesized statecraft, jurisprudence, agronomy, and philosophy into a monumental 500-volume canon, *Yeoyudang Jeonseo*, featuring masterworks like *Mongmin Simseo* and *Gyeongse Yupyo*. In 1801, political factionalism and religious persecutions led to his 18-year forced exile in the remote village of Gangjin, Jeolla Province.\n\nConfined to small thatch-roofed huts like Dasan Chodang, how did he transform isolation into unparalleled academic productivity? Every day, Jeong practiced 'Choseo'—reading extensively, extracting key concepts, categorizing passages by subject, and handwriting critical commentaries below each excerpt. Furthermore, he penned hundreds of detailed educational epistles to his sons (Hak-yoo and Hak-yeon) in Hanyang, instructing them on discipline, philosophy, and agriculture. Writing to teach compelled him to restructure complex knowledge into crystal-clear long-term memory frameworks.\n\nIn today's post, we unpack the cognitive neuroscience behind Dasan Jeong Yak-yong's 'selective transcription and epistolary teaching' routine and present a 3-step action guide to structure knowledge into durable executive mastery.",
+      "ja": "「読書において抄書（チョソ、要約・筆記）しない読書は何の役にも立たない。記憶は霞み、痕跡もなく消え去るからだ。」 🖋️\n\n朝鮮後期の実学（實學）思想を集大成し、国家改革のマスタープランである『牧民心書』、『経世遺表』、『欽欽新書』など実に500余巻に及ぶ膨大な著述を残した大学者、茶山（タサン）・丁若鏞（チョン・ヤギョン、1762–1836）。彼は1801年の辛酉迫害による反対政派の誣告により、18年間にわたり全羅南道・康津の劣悪な草葺き屋根の家（茶山草堂）に流配される長い苦難を経験しました。一生を監獄と変わらない孤立した場所で過ごした彼が挫折を克服し、歴史に長く残る莫大な学問的業績を積み上げることができた秘密は何だったのでしょうか？\n\n茶山は流配地で数多くの書籍を貪読しながら、単に読むだけにとどまらず、核心知識を抜粋して要約し、テーマ別に完全に書き直していく「抄書（抄書、抜粋筆記）」の習慣を毎日実践しました。また、遠く漢陽に置いてきた二人の息子（学游、学淵）に毎日のように学問の態度、農法、日常の節制を諭す手紙を書き送りました。この徹底した記録とフィードバックのコミュニケーションは、彼が過酷な現実を乗り越えて不朽の著作を残し、廃族の危機に瀕した家門を立派な学者家門へと再建させた核心習慣でした。\n\n本日の記事では、茶山・丁若鏞の「抄書および書信交換」ルーティンに込められた認知心理学的メカニズムと、現代人のための知識構造化ノウハウを紹介します。",
+      "zh": "“治学读书若不施以‘抄书’（精选摘录与手写注解），则读书毫无裨益。盖因记忆终将日渐模糊，乃至荡然无存。” 🖋️\n\n集朝鲜王朝后期“实学（實學）”思想之大成、留下了包含经世济民纲领《牧民心書》、《经世遗表》、《钦钦新书》等高达500余卷浩瀚著作的学界泰斗——茶山丁若镛（Dasan Jeong Yak-yong，1762–1836）。1801年，因政治派系倾轧与辛酉邪狱，他被贬发配至全罗南道康津偏狭的草庐（茶山草堂）中，渡过了长达18载严酷的流放岁月。在如囚笼般的孤绝绝境中，他究竟如何战胜绝望、缔造出名垂青史的宏伟学术奇迹？\n\n茶山在流放地博览群书之际，绝非止步于泛泛目览，而是每天恪守“抄书（精选摘录、分类归档并手写撰注）”习惯。此外，他日复一日给远在汉阳的两个儿子（學游、學淵）寄去长篇家书，谆谆教诲学问之道、躬耕之术与修身克己之理。将自身汲取的知识重构为教导他人的言语，构成了他战胜严酷现实、重振陷入倾覆危机的家族、并留存不朽巨著的核心习惯。\n\n在今天的文章中，我们将深度解构茶山丁若镛“抄书摘录与书信教授”习惯背后蕴含的认知心理学机制，并分享一套助现代人构建长效知识架构的3步骤实践指南。",
+      "es": "\"Lectura sin 'Choseo' (transcripción selectiva y anotación a mano) no aporta ningún valor duradero. Los recuerdos se desvanecen sin dejar rastro.\" 🖋️\n\nDasan Jeong Yak-yong (1762–1836) fue el erudito Silhak ('Aprendizaje Práctico') más prominente del periodo tardío de Joseon, quien sintetizó el gobierno, la jurisprudencia y la filosofía en un canon monumental de 500 volúmenes, *Yeoyudang Jeonseo*, que incluye *Mongmin Simseo* y *Gyeongse Yupyo*. En 1801, la persecución política lo llevó a un exilio forzado de 18 años en la remota región de Gangjin.\n\nConfinado en chozas de paja como Dasan Chodang, ¿cómo transformó el aislamiento en una productividad académica sin precedentes? Todos los días practicaba el 'Choseo': leía ampliamente, extraía conceptos clave, clasificaba los pasajes por tema y escribía comentarios críticos a mano debajo de cada extracto. Además, envió cientos de cartas educativas a sus hijos en Hanyang, orientándolos sobre disciplina y filosofía. Escribir para enseñar lo obligó a reestructurar conocimientos complejos en un marco de memoria duradero.\n\nEn la publicación de hoy, analizamos la neurociencia cognitiva detrás de la rutina de 'transcripción selectiva y enseñanza epistolar' de Dasan Jeong Yak-yong y presentamos una guía práctica de 3 pasos.",
+      "de": "\"Lesen ohne 'Choseo' (selektives Abschreiben und Kommentieren) bringt keinen dauerhaften Nutzen. Erinnerungen verblassen spurlos.\" 🖋️\n\nDasan Jeong Yak-yong (1762–1836) war der überragende Silhak-Gelehrte der späten Joseon-Dynastie, der Staatskunst, Rechtswissenschaft und Philosophie in einer 500-bändigen Gesamtausgabe (*Yeoyudang Jeonseo*) zusammenfasste. Im Jahr 1801 führte politische Verfolgung zu seiner 18-jährigen Verbannung ins abgelegene Gangjin.\n\nWie verwandelte er seine Isolation in Strohhütten wie Dasan Chodang in akademische Höchstleistungen? Jeden Tag wandte er 'Choseo' an: Er las aufmerksam, wählte Schlüsselstellen aus, ordnete die Auszüge nach Themen und versah sie handschriftlich mit Anmerkungen. Zudem verfasste er Hunderte von Erziehungsbriefen an seine Söhne in Hanyang. Das Schreiben zur Wissensvermittlung zwang ihn, komplexe Zusammenhänge strukturiert im Langzeitgedächtnis zu verankern.\n\nIm heutigen Beitrag untersuchen wir die Neurowissenschaften hinter Dasan Jeong Yak-yongs 'Schreib- und Lernroutine' und bieten eine 3-Schritte-Anleitung zur kognitiven Wissensstrukturierung.",
+      "fr": "« Lire sans 'Choseo' (transcription sélective et annotation manuscrite) n'apporte aucune valeur durable. Les souvenirs s'estompent sans laisser de trace. » 🖋️\n\nDasan Jeong Yak-yong (1762–1836) fut le plus grand érudit du Silhak ('Savoir pratique') de la fin de la dynastie Joseon, ayant synthétisé la philosophie et le droit dans una œuvre monumentale de 500 volumes, *Yeoyudang Jeonseo*. En 1801, des luttes politiques le condamnèrent a 18 ans d'exil dans la région isolée de Gangjin.\n\nConfiné dans de simples chaumières comme Dasan Chodang, comment a-t-il transformé cet isolement en una productivité académique inégalée ? Chaque jour, il pratiquait le 'Choseo' : il lisait abondamment, extrait les notions clés, classait les passages par sujet et rédigeait a la main des commentaires sous chaque extrait. De plus, il adressa des centaines de lettres pédagogiques a ses fils a Hanyang. Écrire pour transmettre l'obligeait a structurer ses connaissances en une mémoire durable.\n\nDans cet article, nous analysons la neuroscience cognitive sous-jacente a la routine de « transcription sélective et enseignement épistolaire » de Dasan Jeong Yak-yong et proposons un guide en 3 étapes pour organiser vos connaissances.",
+      "pt": "\"Ler sem 'Choseo' (transcrição seletiva e anotação manual) não traz valor duradouro. As memórias desaparecem sem deixar rastros.\" 🖋️\n\nDasan Jeong Yak-yong (1762–1836) foi o maior erudito Silhak ('Aprendizado Prático') do final da Dinastia Joseon, sintetizando a ciência política, jurisprudência e filosofia em uma obra monumental de 500 volumes, *Yeoyudang Jeonseo*. Em 1801, a perseguição política o levou a 18 anos de exílio na remota região de Gangjin.\n\nConfinado em cabanas de palha como Dasan Chodang, como transformou o isolamento em produtividade acadêmica sem precedentes? Todos os dias praticava o 'Choseo': lia amplamente, extraía conceitos-chave, clasificava trechos por assunto e escrevia comentários à mão abaixo de cada trecho. Além disso, enviou centenas de cartas educativas aos filhos em Hanyang. Escrever para ensinar o forçava a reestruturar conhecimentos complexos na memória de longo prazo.\n\nNo artigo de hoje, analisamos a neurociência cognitiva por trás da rotina de 'transcrição seletiva e ensino epistolar' de Dasan Jeong Yak-yong e apresentamos um guia prático de 3 passos para estruturar o conhecimento.",
+      "id": "\"Membaca tanpa 'Choseo' (transkripsi selektif dan catatan tangan) tidak memberikan nilai yang bertahan lama. Memori memudar tanpa bekas.\" 🖋️\n\nDasan Jeong Yak-yong (1762–1836) adalah cendekiawan Silhak utama di akhir Dinasti Joseon yang menyintesis tata negara, hukum, dan filsafat ke dalam 500 jilid karya monumental, *Yeoyudang Jeonseo*, yang menampilkan karya agung seperti *Mongmin Simseo*. Pada tahun 1801, persekusi politik membawanya ke pengasingan selama 18 tahun di Gangjin.\n\nTerisolasi di pondok atap jerami seperti Dasan Chodang, bagaimana ia mengubah isolasi menjadi produktivitas akademis yang tidak tertandingi? Setiap hari, Jeong mempraktikkan 'Choseo': membaca secara luas, mengesktrak konsep kunci, mengategorikan bagian berdasarkan subjek, dan menuliskan komentar kritis di bawah setiap kutipan. Selain itu, ia menulis ratusan surat pendidikan kepada putra-putranya di Hanyang. Menulis untuk mengajar memaksanya menyusun pengetahuan rumit ke dalam kerangka memori jangka panjang."
     },
     "whyTitle": {
-      "ko": "손-뇌 동기화를 통한 인지적 부호화(Cognitive Encoding)와 메타인지"
+      "ko": "손-뇌 동기화를 통한 인지적 부호화(Cognitive Encoding)와 메타인지",
+      "en": "Cognitive Encoding via Hand-Brain Synchronization and Metacognition",
+      "ja": "手と脳の同期を通じた知的符号化（Cognitive Encoding）とメタ認知",
+      "zh": "借助手脑同步达成认知编码（Cognitive Encoding）与元认知（Metacognition）机制",
+      "es": "Codificación Cognitiva Mediante la Sincronización Mano-Cerebro y Metacognición",
+      "de": "Kognitive Kodierung durch Hand-Gehirn-Synchronisation und Metakognition",
+      "fr": "Encodage cognitif par la synchronisation main-cerveau et métacognition",
+      "pt": "Codificação Cognitiva via Sincronização Mão-Cérebro e Metacognição",
+      "id": "Penyandian Kognitif Melalui Sinkronisasi Tangan-Otak dan Metakognisi"
     },
     "whyDesc": {
-      "ko": "텍스트를 눈으로 읽는 것과 손을 써서 종이에 받아 적는 행위는 뇌의 활동에서 완전히 다른 신경망을 활성화합니다.\n\n펜을 직접 쥐고 요약하며 필기하는 촉각 행동은 <strong>체성감각 피질(Somatosensory Cortex)</strong>을 자극하여 <strong>전두엽(Prefrontal Cortex)</strong>과 <strong>연합 피질(Association Cortex)</strong>로 인지 신호를 전송함으로써 <strong>'인지적 부호화(Cognitive Encoding)'</strong>를 강력히 유도합니다.\n\n또한 자신이 정립한 지식을 타인(자녀 또는 동료)에게 가르치는 형태로 재구성하여 편지나 글로 작성하는 행위는 <strong>메타인지(Metacognition)</strong> 능력을 비약적으로 끌어올려, 지식을 가장 체계적이고 장기적인 기억 구조로 정착시킵니다."
+      "ko": "텍스트를 눈으로 읽는 것과 손을 써서 종이에 받아 적는 행위는 뇌의 활동에서 완전히 다른 신경망을 활성화합니다. 펜을 직접 쥐고 요약하며 필기하는 촉각 행동은 <strong>체성감각 피질(Somatosensory Cortex)</strong>을 자극하여 <strong>전두엽(Prefrontal Cortex)</strong>과 <strong>연합 피질(Association Cortex)</strong>로 인지 신호를 전송함으로써 <strong>'인지적 부호화(Cognitive Encoding)'</strong>를 강력히 유도합니다. 또한 자신이 정립한 지식을 타인(자녀 또는 동료)에게 가르치는 형태로 재구성하여 편지나 글로 작성하는 행위는 <strong>메타인지(Metacognition)</strong> 능력을 비약적으로 끌어올려, 지식을 가장 체계적이고 장기적인 기억 구조로 정착시킵니다.",
+      "en": "Passively reading text engages fundamentally different neural networks than physically transcribing and summarizing passages with a pen. Fine graphomotor movement co-stimulates the <strong>Somatosensory Cortex</strong>, transmitting robust tactile inputs to the <strong>Prefrontal Cortex</strong> and <strong>Association Cortex</strong> to drive deep <strong>Cognitive Encoding</strong>. Furthermore, restructuring personal knowledge to teach others via letters leverages the 'Protegé Effect', dramatically sharpening <strong>Metacognition</strong> and anchoring complex information into durable, highly structured long-term memory networks.",
+      "ja": "テキストを目で読むことと、手を使って紙に書き写す行為は、脳の活動において完全に異なる神経網を活性化させます。ペンを直接握って要約し筆記する触覚行動は、<strong>体性感覚皮質（Somatosensory Cortex）</strong>を刺激し、<strong>前頭葉（Prefrontal Cortex）</strong>と<strong>連合皮質（Association Cortex）</strong>へ認知信号を送信することで<strong>「知的符号化（Cognitive Encoding）」</strong>を強力に誘導します。また、自分が確立した知識を他者（子供や同僚）に教える形態で再構成して手紙や文章として作成する行為は、<strong>メタ認知（Metacognition）</strong>能力を飛躍的に引き上げ、知識を最も体系的で長期的な記憶構造へと定着させます。",
+      "zh": "仅凭双眼浏览文本与亲自挥笔在纸上摘录与总结，在大脑中唤醒的神经网络截然不同。手持书写工具按节律摘录总结的精细触觉动作，能强力拉动<strong>体感皮层（Somatosensory Cortex）</strong>，向<strong>前额叶皮层（Prefrontal Cortex）</strong>与<strong>联合皮层（Association Cortex）</strong>输送密集的神经信号，进而深度诱发<strong>“认知编码（Cognitive Encoding）”</strong>。此外，将自身汲取的知识重构为教导他人（如子女或同僚）的书信文本，能完美借力“门徒效应（Protegé Effect）”，跨越式拉升<strong>元认知（Metacognition）</strong>能力，促使知识内化为极其系统且深厚的长效记忆架构。",
+      "es": "Leer texto de forma pasiva activa redes neuronales completamente diferentes que transcribir y resumir pasajes a mano. El movimiento grafomotor estimula la <strong>Corteza Somatosensorial</strong>, enviando señales a la <strong>Corteza Prefrontal</strong> y a la <strong>Corteza de Asociación</strong> para impulsar la <strong>Codificación Cognitiva</strong>. Además, reestructurar el conocimiento para enseñarlo a otros a través de cartas potencia la <strong>Metacognición</strong>, consolidando la información en la memoria a largo plazo.",
+      "de": "Passives Lesen aktiviert völlig andere neuronale Netzwerke als das händische Zusammenfassen von Texten. Feinmotorische Schreibbewegungen stimulieren den <strong>somatosensorischen Kortex</strong> und senden Signale an den <strong>präfrontalen Kortex</strong> und den <strong>Assoziationskortex</strong>, was die <strong>kognitive Kodierung (Cognitive Encoding)</strong> stärkt. Das Aufbereiten von Wissen zur Vermittlung an andere stärkt zudem die <strong>Metakognition</strong> und verankert Informationen im Langzeitgedächtnis.",
+      "fr": "Lire passivement sollicite des réseaux neuronaux très différents de la transcription et du résumé manuscrits. Le geste graphomoteur stimule le <strong>Cortex Somatosensoriel</strong>, transmettant des signaux au <strong>Cortex Préfrontal</strong> et au <strong>Cortex d'Association</strong> pour favoriser l'<strong>Encodage Cognitif</strong>. De plus, réorganiser ses connaissances pour les transmettre par écrit développe la <strong>Métacognition</strong>, consolidant les données dans la mémoire a long terme.",
+      "pt": "Ler passivamente ativa redes neuronais totalmente diferentes do que transcrever e resumir trechos à mão. O movimento grafomotor estimula o <strong>Córtex Somatossensorial</strong>, enviando sinais ao <strong>Córtex Pré-frontal</strong> e ao <strong>Córtex de Associação</strong> para impulsionar a <strong>Codificação Cognitiva</strong>. Além disso, reestruturar o conhecimento para ensiná-lo a outros por meio de cartas fortalece a <strong>Metacognição</strong>, fixando a informação na memória.",
+      "id": "Membaca teks secara pasif melibatkan jaringan saraf yang berbeda dari mentranskripsikan dan meringkas paragraf dengan pena secara fisik. Gerakan grafomotorik halus menstimulasi <strong>Korteks Somatosensori</strong>, memancarkan masukan taktil ke <strong>Korteks Prefrontal</strong> dan <strong>Korteks Asosiasi</strong> untuk mendorong <strong>Penyandian Kognitif</strong>. Selain itu, menyusun ulang pengetahuan untuk mengajar orang lain melalui surat memperkuat <strong>Metakognisi</strong>."
     },
     "cautionTitle": {
-      "ko": "단순 기계적 필사를 넘어 능동적 초록화와 가공에 집중하는 수칙"
+      "ko": "단순 기계적 필사를 넘어 능동적 초록화와 가공에 집중하는 수칙",
+      "en": "Caution: Focusing on Active Summarization and Commentary Over Mindless Transcribing",
+      "ja": "注意事項：単純な機械的転写を超え能動的要約と加工に集中するルール",
+      "zh": "注意事项：超越机械式誊抄，专注主动摘录重构与个人图解指南",
+      "es": "Precaución: Concéntrese en el Resumen Activo y los Comentarios en Lugar de Copiar Mecánicamente",
+      "de": "Vorsichtsmaßnahme: Fokus auf aktives Zusammenfassen und Anmerken statt mechanischem Abschreiben",
+      "fr": "Mise en garde : Se concentrer sur la synthèse active et le commentaire plutôt que sur la copie mécanique",
+      "pt": "Precaução: Foque no Resumo Ativo e Comentários em Vez de Copiar Mecanicamente",
+      "id": "Perhatian: Berfokus pada Penyarian Aktif dan Komentar daripada Transkripsi Tanpa Berpikir"
     },
     "cautionDesc": {
-      "ko": "초서 습관을 진행할 때 범하기 쉬운 오류는 '책의 내용을 그대로 기계처럼 베껴 쓰는 것'입니다. 뇌를 거치지 않고 글자만 그대로 베껴 적으면 단순한 유용한 노동에 그쳐 기억 부호화가 일어나지 않습니다. 문장을 완전히 이해하고, 자신의 인지 구조로 필터링한 핵심 요약과 자기만의 인사이트를 한 줄이라도 덧붙여야 진짜 지식으로 축적됩니다."
+      "ko": "초서 습관을 진행할 때 범하기 쉬운 오류는 '책의 내용을 그대로 기계처럼 베껴 쓰는 것'입니다. 뇌를 거치지 않고 글자만 그대로 베껴 적으면 단순한 유용한 노동에 그쳐 기억 부호화가 일어나지 않습니다. 문장을 완전히 이해하고, 자신의 인지 구조로 필터링한 핵심 요약과 자기만의 인사이트를 한 줄이라도 덧붙여야 진짜 지식으로 축적됩니다.",
+      "en": "The most common trap in note-taking is mindlessly copying raw text like a human typewriter. Verbatim transcription without active prefrontal processing fails to induce cognitive encoding. True knowledge builds only when you digest the material, distill key summaries through your own cognitive filters, and append at least one line of personal insight.",
+      "ja": "抄書の習慣を進める際、犯しやすい過ちは「本の内容をそのまま機械のように書き写すこと」です。脳を通さず文字だけをそのまま書き写すと、単なる手作業にとどまり記憶の符号化が起こりません。文章を完全に理解し、自分の認知構造でフィルタリングした核心要約と自分だけのインサイトを1行でも書き加えてこそ、本物の知識として蓄積されます。",
+      "zh": "践行“抄书”习惯时极易陷入的误区，乃是“如复印机般机械照抄原文”。未经大脑前额叶皮层深度加工的单纯字词誊抄，充其量仅为低效的物理劳作，无法完成神经记忆编码。唯有彻底咀嚼理解文本，通过个人认知结构重构出极简摘要、并附上一行个人独到洞见时，方能蜕变为真正的底层知识。",
+      "es": "La trampa más común al tomar notas es copiar texto crudo mecánicamente. La transcripción literal sin procesamiento prefrontal activo no logra generar codificación cognitiva. El verdadero conocimiento se construye solo cuando sintetiza las ideas principales a través de sus propios filtros e incluye al menos una línea de reflexión personal.",
+      "de": "Die größte Falle beim Abschreiben ist das unüberlegte Kopieren von Texten. Wörtliches Abschreiben ohne eigene gedankliche Leistung führt nicht zu kognitiver Kodierung. Echtes Wissen entsteht erst, wenn Sie Inhalte mit eigenen Worten zusammenfassen und um eigene Gedanken ergänzen.",
+      "fr": "Le piège classique lors de la prise de notes est de recopier machinalement le texte. La transcription littérale sans traitement préfrontal actif ne produit aucun encodage cognitif. Le véritable savoir ne s'élabore que si vous synthétisez les idées clés à travers vos propres mots et y ajoutez una réflexion personnelle.",
+      "pt": "A armadilha mais comum ao tomar notas é copiar texto mecanicamente. A transcrição literal sem processamento pré-frontal ativo não gera codificação cognitiva. O verdadeiro conhecimento se constrói apenas quando você sintetiza as ideias principais com suas próprias palavras e adiciona uma reflexão pessoal.",
+      "id": "Jebakan paling umum dalam mencatat adalah menyalin teks mentah secara tanpa berpikir. Transkripsi kata demi kata tanpa pemrosesan prefrontal aktif gagal menginduksi penyandian kognitif. Pengetahuan sejati terbangun hanya ketika Anda menyuling ringkasan utama melalui filter kognitif Anda sendiri."
     },
     "steps": [
       {
         "name": {
-          "ko": "1단계: 독서 중 핵심 가치 및 지식 발췌"
+          "ko": "1단계: 독서 중 핵심 가치 및 지식 발췌",
+          "en": "Step 1: Extracting Core Knowledge & High-Value Quotes During Reading",
+          "ja": "ステップ1：読書中の核心価値および知識の抜粋",
+          "zh": "步骤1：于阅读中甄选精萃知识与划선摘录",
+          "es": "Paso 1: Extracción de Conocimiento Clave y Frases Relevantes Durante la Lectura",
+          "de": "Schritt 1: Herausfiltern von Kernaussagen und wichtigem Wissen beim Lesen",
+          "fr": "Étape 1 : Extraction des connaissances clés et passages marquants lors de la lecture",
+          "pt": "Passo 1: Extração de Conhecimento Essencial e Trechos Relevantes Durante a Leitura",
+          "id": "Langkah 1: Mengesktrak Pengetahuan Inti & Kutipan Bernilai Tinggi Saat Membaca"
         },
         "text": {
-          "ko": "책이나 전문 문헌을 읽는 동안, 나에게 깊은 통찰력을 선사하거나 중요한 지식이 담긴 구절에 밑줄을 긋거나 별도로 발췌해 둡니다."
+          "ko": "책이나 전문 문헌을 읽는 동안, 나에게 깊은 통찰력을 선사하거나 중요한 지식이 담긴 구절에 밑줄을 긋거나 별도로 발췌해 둔다.",
+          "en": "While reading books or technical documents, highlight or extract passages containing high-value insights, foundational data, or pivotal arguments.",
+          "ja": "本や専門文献を読む間、自分に深い洞察力を与えたり重要な知識が含まれた一節に下線を引いたり、別途抜粋しておく。",
+          "zh": "在研读图书或专业文献时，将赋予个人深度启发或包含核心重磅数据的段落打上下划线、或独立摘录于侧。",
+          "es": "Mientras lee libros o documentos técnicos, subraye o extraiga los pasajes que contengan ideas valiosas, datos clave o argumentos fundamentales.",
+          "de": "Unterstreichen oder notieren Sie beim Lesen von Büchern oder Fachliteratur Abschnitte mit wichtigen Erkenntnissen oder kernhaften Daten.",
+          "fr": "Lors de vos lectures d'ouvrages ou de documents techniques, soulignez ou extrayez les passages contenant des réflexions majeures ou des données clés.",
+          "pt": "Durante a leitura de livros ou documentos técnicos, sublinhe ou extraia trechos que contenham ideias valiosas, dados ou argumentos fundamentais.",
+          "id": "Saat membaca buku atau dokumen teknis, soroti atau ekstrak paragraf yang berisi wawasan bernilai tinggi, data mendasar, atau argumen penting."
         }
       },
       {
         "name": {
-          "ko": "2단계: 노트 수기 필사(초서) 및 인지적 한 줄 요약 가공"
+          "ko": "2단계: 노트 수기 필사(초서) 및 인지적 한 줄 요약 가공",
+          "en": "Step 2: Handwritten 'Choseo' Logging & Adding a 1-Line Cognitive Re-interpretation",
+          "ja": "ステップ2：ノート手書き筆写（抄書）および知的1行要約加工",
+          "zh": "步骤2：笔记本手写“抄书”与附上一行认知重构摘要",
+          "es": "Paso 2: Registro Manuscrito 'Choseo' y Adición de una Línea de Reinterpretación",
+          "de": "Schritt 2: Handschriftliches 'Choseo'-Notieren & Einzeilige kognitive Zusammenfassung",
+          "fr": "Étape 2 : Prise de note manuscrite 'Choseo' & Ajout d'una ligne de réinterprétation",
+          "pt": "Passo 2: Registro Manuscrito 'Choseo' e Adição de uma Linha de Reinterpretação",
+          "id": "Langkah 2: Pencatatan Tulisan Tangan 'Choseo' & Menambahkan 1 Baris Reinterpretasi Kognitif"
         },
         "text": {
-          "ko": "발췌한 문장을 노트에 펜으로 직접 받아 적은 뒤, 그 아래에 내 언어로 재해석한 한 줄 요약이나 삶에 적용할 아이디어를 한 문장 추가합니다."
+          "ko": "발췌한 문장을 노트에 펜으로 직접 받아 적은 뒤, 그 아래에 내 언어로 재해석한 한 줄 요약이나 삶에 적용할 아이디어를 한 문장 추가한다.",
+          "en": "Transcribe the extracted passages into a physical journal with a pen. Directly below the excerpt, write a 1-line summary synthesized in your own words or a concrete application rule.",
+          "ja": "抜粋した文章をノートにペンで直接書き写した後、その下に自分の言葉で再解釈した1行の要約や生活に適用するアイデアを1文章追加する。",
+          "zh": "用手笔将摘录的句段亲手誊写于笔记本上。在文句下方，以个人口吻写下一行重构摘要，或追加一条可落地的实体行动细则。",
+          "es": "Transcriba los pasajes extraídos en una libreta física con bolígrafo. Justo debajo del extracto, escriba una línea de resumen formulada con sus propias palabras o una regla de aplicación.",
+          "de": "Übertragen Sie die Auszüge mit einem Stift in ein Notizbuch. Schreiben Sie direkt darunter eine einzeilige Zusammenfassung in eigenen Worten oder eine Anwendungsregel.",
+          "fr": "Recopiez les passages extraits dans un carnet physique au stylo. Juste en dessous, inscrivez une ligne de synthèse rédigée avec vos propres mots ou una règle d'application.",
+          "pt": "Transcreva os trechos extraídos em um caderno físico com caneta. Logo abaixo do trecho, escreva uma linha de resumo formulada com suas próprias palavras ou uma regra prática.",
+          "id": "Transkripsikan paragraf yang diekstrak ke dalam jurnal fisik dengan pena. Tepat di bawah kutipan, tulis ringkasan 1 baris yang disintesis dalam kata-kata Anda sendiri."
         }
       },
       {
         "name": {
-          "ko": "3단계: 타인 대상 지식 재구성 및 서신·게시글 공유"
+          "ko": "3단계: 타인 대상 지식 재구성 및 서신·게시글 공유",
+          "en": "Step 3: Knowledge Restructuring for Others & Sharing via Letters or Posts",
+          "ja": "ステップ3：他者対象の知識再構成および書信・投稿の共有",
+          "zh": "步骤3：面向他人的知识重理与藉由书信/文章进行分享",
+          "es": "Paso 3: Reestructuración del Conocimiento para Otros y Compartir vía Cartas o Publicaciones",
+          "de": "Schritt 3: Aufbereitung des Wissens für andere & Teilen per Brief oder Beitrag",
+          "fr": "Étape 3 : Restructuration des connaissances pour autrui & Partage par lettre ou publication",
+          "pt": "Passo 3: Reestruturação do Conhecimento para Outros e Compartilhamento via Cartas ou Posts",
+          "id": "Langkah 3: Penstrukturan Ulang Pengetahuan untuk Orang Lain & Berbagi via Surat atau Postingan"
         },
         "text": {
-          "ko": "정리한 지식을 자녀, 동료, 또는 커뮤니티에 이메일, 편지, SNS 게시글 형태로 가르치듯 재구성하여 공유하고, 설명하는 과정을 통해 메타인지적 통합을 완결합니다."
+          "ko": "정리한 지식을 자녀, 동료, 또는 커뮤니티에 이메일, 편지, SNS 게시글 형태로 가르치듯 재구성하여 공유하고, 설명하는 과정을 통해 메타인지적 통합을 완결한다.",
+          "en": "Restructure your processed notes into an instructional letter, team email, or community essay aimed at teaching children, colleagues, or peers. Explaining concepts to others completes metacognitive integration.",
+          "ja": "整理した知識を子供、同僚、またはコミュニティに電子メール、手紙、SNS投稿の形で教えるように再構成して共有し、説明する過程を通じてメタ認知的統合を完結させる。",
+          "zh": "将精炼好的知识转译为教导式的家书、团队邮件或社区博文，分享给子女、同事或同好。在向他人深入浅出解析的过程中，圆满达成元认知融会贯通。",
+          "es": "Reestructure sus notas en una carta educativa, correo o publicación orientada a enseñar a sus hijos, colegas o comunidad. Explicar conceptos a otros completa la integración metacognitiva.",
+          "de": "Fassen Sie Ihre Notizen als lehrreichen Brief, E-Mail oder Beitrag für Ihre Kinder, Kollegen oder die Community zusammen. Das Erklären festigt das Wissen im Gehirn.",
+          "fr": "Restructurez vos notes sous la forme d'una lettre pédagogique, d'un e-mail ou d'une publication destinée a vos proches ou collègues. Expliquer des notions a autrui parachève l'intégration métacognitive.",
+          "pt": "Reestruture suas anotações em uma carta educativa, e-mail ou postagem para ensinar filhos, colegas ou comunidade. Explicar conceitos a outros completa a integração metacognitiva.",
+          "id": "Susun ulang catatan Anda yang telah diproses menjadi surat instruksional, email tim, atau esai komunitas yang ditujukan untuk mengajar anak-anak, rekan kerja, atau kolega. Menjelaskan konsep kepada orang lain melengkapi integrasi metakognitif."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "수기 필기 대신 키보드로 타이핑하여 지식을 정리하는 것도 효과가 같나요?"
+          "ko": "수기 필기 대신 키보드로 타이핑하여 지식을 정리하는 것도 효과가 같나요?",
+          "en": "Does typing notes on a digital keyboard yield identical cognitive encoding benefits as handwriting?",
+          "ja": "手書きの筆記の代わりにキーボードでタイピングして知識を整理することも同じ効果がありますか？",
+          "zh": "使用键盘打字整理知识，是否能获得与纸笔手写完全相同的认知编码效益？",
+          "es": "¿Mecanografiar notas en un teclado digital ofrece los mismos beneficios de codificación que escribir a mano?",
+          "de": "Bietet das Tippen von Notizen auf der Tastatur dieselben Vorteile für die kognitive Kodierung wie das Schreiben von Hand?",
+          "fr": "Saisir des notes sur un clavier numérique procure-t-il les mêmes avantages d'encodage cognitif que l'écriture manuscrite ?",
+          "pt": "Digitar anotações em um teclado digital oferece os mesmos benefícios de codificação que escrever à mão?",
+          "id": "Apakah mengetik catatan pada papan ketik digital memberikan manfaat penyandian kognitif yang identik dengan tulisan tangan?"
         },
         "answer": {
-          "ko": "아닙니다. 펜으로 종이에 직접 쓰면 뇌의 체성감각 피질이 강하게 자극되어 기억의 부호화 효율이 훨씬 높아집니다. 키보드 타이핑은 입력 속도는 빠르지만, 모든 자판의 누름 감각이 동일하여 인지적 촉각 자극이 부족합니다. 중요한 장기 기억 형성을 원한다면 수기 초서가 훨씬 강력합니다."
+          "ko": "아닙니다. 펜으로 종이에 직접 쓰면 뇌의 체성감각 피질이 강하게 자극되어 기억의 부호화 효율이 훨씬 높아집니다. 키보드 타이핑은 입력 속도는 빠르지만, 모든 자판의 누름 감각이 동일하여 인지적 촉각 자극이 부족합니다. 중요한 장기 기억 형성을 원한다면 수기 초서가 훨씬 강력합니다.",
+          "en": "No. Handwriting with a pen on paper intensely stimulates the somatosensory cortex, dramatically boosting cognitive encoding efficiency. While typing is faster, pressing identical plastic keys provides uniform tactile feedback, offering minimal neural stimulation. For deep long-term memory consolidation, manual 'Choseo' handwriting remains far more powerful.",
+          "ja": "いいえ、違います。ペンで紙に直接書くと、脳の体性感覚皮質が強く刺激され、記憶の符号化効率が遥かに高まります。キーボードのタイピングは入力速度は速いですが、すべてのキーの押し心地が同一であるため知的触覚刺激が不足します。重要な長期記憶の形成を望むなら、手書きの抄書が遥かに強力です。",
+          "zh": "绝非如此。手持钢笔在纸面上行笔，能剧烈拉动大脑体感皮层，将记忆编码效率拉升至极高水准。虽然键盘打字键入迅捷，但按下每个塑料键帽的触感完全均一，缺乏神经触觉刺激。若欲构建深厚长效的长期记忆，纸笔手写“抄书”远为霸道强悍。",
+          "es": "No. Escribir a mano con bolígrafo en papel estimula intensamente la corteza somatosensorial, mejorando la codificación cognitiva. Aunque teclear es más rápido, presionar teclas idénticas ofrece una retroalimentación táctil uniforme sin estimulación neural. Para consolidar la memoria a largo plazo, la transcripción manual es mucho más eficaz.",
+          "de": "Nein. Das Schreiben mit der Hand auf Papier stimuliert den somatosensorischen Kortex stark und erhöht die Kodierungseffizienz. Tippen ist zwar schneller, das Drücken gleicher Tasten bietet jedoch kaum haptische Anreize. Für ein dauerhaftes Langzeitgedächtnis ist das handschriftliche Notieren weit überlegen.",
+          "fr": "Non. L'écriture manuscrite au stylo stimule intensément le cortex somatosensoriel, démultipliant l'efficacité de l'encodage cognitif. Bien que la saisie soit plus rapide, frapper des touches identiques offre un retour tactile uniforme sans véritable stimulation neuronale. Pour consolider la mémoire a long terme, le 'Choseo' manuscrit est bien plus puissant.",
+          "pt": "Não. Escrever à mão com caneta no papel estimula intensamente o córtex somatossensorial, aumentando a eficiência da codificação cognitiva. Embora digitar seja mais rápido, pressionar teclas idênticas oferece feedback tátil uniforme sem estimulação neural. Para consolidar a memória a longo prazo, a transcrição manual é muito mais eficaz.",
+          "id": "Tidak. Tulisan tangan dengan pena di atas kertas secara intensif menstimulasi korteks somatosensori, secara dramatis meningkatkan efisiensi penyandian kognitif. Meskipun mengetik lebih cepat, menekan tombol yang identik memberikan umpan balik taktil yang seragam tanpa stimulasi saraf."
         }
       },
       {
         "question": {
-          "ko": "꼭 편지 형태가 아니더라도 남에게 설명해 주면 메타인지 효과가 일어나나요?"
+          "ko": "꼭 편지 형태가 아니더라도 남에게 설명해 주면 메타인지 효과가 일어나나요?",
+          "en": "Does explaining concepts to others trigger metacognitive benefits even if not formatted as a written letter?",
+          "ja": "必ずしも手紙の形でなくても、人に説明してあげればメタ認知効果が起きますか？",
+          "zh": "即便并非书写实体家书信函，口头向他人讲授或撰写文章是否同样能触发元认知效益？",
+          "es": "¿Explicar conceptos a otros activa los beneficios metacognitivos aunque no sea mediante una carta escrita?",
+          "de": "Löst das Erklären von Inhalten gegenüber anderen auch ohne Briefform metakognitive Effekte aus?",
+          "fr": "Expliquer des concepts a d'autres personnes déclenche-t-il des effets métacognitifs même sans rédiger de lettre ?",
+          "pt": "Explicar conceitos a outros ativa os benefícios metacognitivos mesmo que não seja por meio de uma carta escrita?",
+          "id": "Apakah menjelaskan konsep kepada orang lain memicu manfaat metakognitif meskipun tidak dalam bentuk surat tertulis?"
         },
         "answer": {
-          "ko": "네, 맞습니다. 학습 피라미드 이론에 따르면 남에게 설명해 주는 학습법은 인지 보존율을 90%까지 끌어올리는 가장 강력한 방법입니다. 편지나 이메일 쓰기뿐만 아니라, 거울 속 나 자신에게 설명하기, 동료나 친구에게 대화로 알려주기 모두 메타인지 자극에 훌륭한 효과를 발휘합니다."
+          "ko": "네, 맞습니다. 학습 피율 이론에 따르면 남에게 설명해 주는 학습법은 인지 보존율을 90%까지 끌어올리는 가장 강력한 방법입니다. 편지나 이메일 쓰기뿐만 아니라, 거울 속 나 자신에게 설명하기, 동료나 친구에게 대화로 알려주기 모두 메타인지 자극에 훌륭한 효과를 발휘합니다.",
+          "en": "Yes, absolutely! According to learning pyramid research, teaching or explaining concepts to others yields up to a 90% knowledge retention rate. Beyond writing formal letters or emails, explaining ideas to colleagues in conversation, giving team presentations, or even explaining concepts aloud to yourself in a mirror triggers identical metacognitive benefits.",
+          "ja": "はい、その通りです。学習ピラミッド理論によると、人に説明してあげる学習法は認知定着率を90％まで引き上げる最も強力な方法です。手紙や電子メールを書くことだけでなく、鏡の中の自分自身に説明すること、同僚や友人に会話で教えることのすべてがメタ認知刺激に素晴らしい効果を発揮します。",
+          "zh": "完全正确！根据“学习金字塔”理论，向他人授课解惑乃是将知识留存率拉升至90%的最强学习法。除撰写家书或邮件外，在对谈中向同事朋友讲解、做团队分享、甚至对着镜子中的自己口述讲解，均可完美激活元认知。",
+          "es": "¡Sí, totalmente! Según la pirámide del aprendizaje, enseñar o explicar conceptos a otros ofrece una tasa de retención de hasta el 90%. Más allá de escribir cartas o correos, explicar ideas a colegas en una conversación o hablar frente al espejo activa los mismos beneficios metacognitivos.",
+          "de": "Ja, absolut! Laut der Lernpyramide führt das Erklären von Inhalten zu einer Behaltensquote von bis zu 90 %. Neben Briefen oder E-Mails aktivieren auch Gespräche mit Kollegen, Präsentationen oder das Selbstgespräch vor dem Spiegel dieselben metakognitiven Effekte.",
+          "fr": "Oui, tout à fait ! Selon la pyramide de l'apprentissage, enseigner des notions a autrui permet d'atteindre un taux de rétention de 90 %. Au-delà des lettres ou des e-mails, expliquer des idées a des collègues ou parler à voix haute devant un miroir procure des bienfaits métacognitifs identiques.",
+          "pt": "Sim, com certeza! Segundo a pirâmide da aprendizagem, ensinar ou explicar conceitos a outros garante uma taxa de retenção de até 90%. Além de escrever cartas ou e-mails, explicar ideias a colegas em conversas ou falar diante do espelho ativa os mesmos benefícios metacognitivos.",
+          "id": "Ya, tentu saja! Menurut penelitian piramida pembelajaran, mengajar atau menjelaskan konsep kepada orang lain memberikan tingkat retensi pengetahuan hingga 90%. Selain menulis surat atau email, menjelaskan ide kepada rekan kerja dalam percakapan atau berbicara sendiri di depan cermin memicu manfaat metakognitif yang identik."
         }
       }
     ]

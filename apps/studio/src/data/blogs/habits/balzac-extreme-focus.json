@@ -1,62 +1,190 @@
 {
   "balzac-extreme-focus": {
     "title": {
-      "ko": "매일 자정에 일어나 커피와 함께 12시간 집필? 발자크의 극한 초몰입 루틴"
+      "ko": "새벽 0시의 각성: 오노레 드 발자크의 커피와 12시간 초몰입 집필법",
+      "en": "Midnight Awakening: Honoré de Balzac's 12-Hour Hyperfocus Writing Method with Coffee",
+      "ja": "午前0時の覚醒：オノレ・ド・バルザックのコーヒーと12時間超没頭執筆法",
+      "zh": "午夜0点的觉醒：巴尔扎克结合咖啡的12小时超专注写作法",
+      "es": "Despertar a la Medianoche: El Método de Escritura de 12 Horas de Hiperenfoque con Café de Honoré de Balzac",
+      "de": "Mitternächtliches Erwachen: Honoré de Balzacs 12-Stunden-Hyperfokus-Schreibmethode mit Kaffee",
+      "fr": "L'éveil de minuit : La méthode d'écriture en hyperfocus de 12 heures au café d'Honoré de Balzac",
+      "pt": "O Despertar da Meia-Noite: O Método de Escrita de 12 Horas em Hiperfoco com Café de Honoré de Balzac",
+      "id": "Kebangkitan Tengah Malam: Metode Menulis Hyperfocus 12 Jam dengan Kopi ala Honoré de Balzac"
     },
     "description": {
-      "ko": "19세기 프랑스 문학의 거장 오노레 드 발자크가 실천했던 독특한 시간 관리 비법. 자정 기상과 커피 각성을 통해 주의 산만 요소를 극복한 초몰입법의 과학적 효과를 파헤쳐봅니다."
+      "ko": "19세기 프랑스 사실주의 문학의 거장 오노레 드 발자크가 실천했던 심야 집필과 커피 각성 루틴. 외부 자극을 원천 차단하고 뇌의 주의력을 극한으로 끌어올리는 초몰입의 신경과학적 메커니즘을 밝힙니다.",
+      "en": "Explore the late-night writing and coffee arousal routine practiced by Honoré de Balzac, master of 19th-century French realism, and uncover the neuroscientific mechanism of hyperfocus that cuts off external stimuli and elevates brain focus to the extreme.",
+      "ja": "19世紀フランス写実主義文学の巨匠オノレ・ド・バルザックが実践した深夜執筆とコーヒー覚醒ルーティン。外部刺激を遮断し、脳の注意力を極限まで引き上げる超没頭の神経科学的メカニズムを解き明かします。",
+      "zh": "探索19世纪法国批判现实主义文学大师奥诺雷·德·巴尔扎克践行的深夜写作与咖啡唤醒习惯，揭示彻底阻断外部刺激并将大脑注意力提升至极限的超专注神经科学机制。",
+      "es": "Explore la rutina de escritura nocturna y estimulación con café practicada por Honoré de Balzac, maestro del realismo francés del siglo XIX, y descubra el mecanismo neurocientífico de hiperenfoque que bloquea los estímulos externos y eleva la atención cerebral al extremo.",
+      "de": "Erkunden Sie die von Honoré de Balzac, dem Meister des französischen Realismus des 19. Jahrhunderts, praktizierte nächtliche Schreib- und Kaffee-Weckroutine und entdecken Sie den neurowissenschaftlichen Mechanismus des Hyperfokus, der externe Reize ausschaltet und die gehirneigene Konzentration auf das Äußerste steigert.",
+      "fr": "Découvrez la routine d'écriture nocturne et de stimulation au café pratiquée par Honoré de Balzac, maître du réalisme français du XIXe siècle, et percez le mécanisme neuroscientifique d'hyperfocus qui coupe les stimuli externes et élève l'attention cérébrale à son paroxysme.",
+      "pt": "Explore a rotina de escrita noturna e estimulação com café praticada por Honoré de Balzac, mestre do realismo francês do século XIX, e descubra o mecanismo neurocientífico de hiperfoco que bloqueia estímulos externos e eleva a atenção cerebral ao extremo.",
+      "id": "Pelajari rutinitas menulis larut malam dan stimulasi kopi yang dipraktikkan oleh Honoré de Balzac, maestro realisme Prancis abad ke-19, dan temukan mekanisme neurosains hyperfocus yang memblokir stimulasi luar dan meningkatkan perhatian otak hingga ke tingkat ekstrem."
     },
     "authority": {
-      "ko": "스테판 츠바이크 『발자크 평전(Balzac)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+      "ko": "스테판 츠바이크 평전 『발자크(Balzac)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+      "en": "Historical Verification from Stefan Zweig's Biography *Balzac* & Cognitive Neuroscience Research",
+      "ja": "シュテファン・ツヴァイク伝記『バルザック（Balzac）』考証＆認知神経科学（Cognitive Neuroscience）研究",
+      "zh": "斯蒂芬·茨威格传记《巴尔扎克（Balzac）》考证与认知神经科学（Cognitive Neuroscience）研究",
+      "es": "Verificación Histórica de la Biografía de Stefan Zweig *Balzac* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)",
+      "de": "Historische Überprüfung aus Stefan Zweigs Biografie *Balzac* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)",
+      "fr": "Vérification Historique issue de la biographie de Stefan Zweig *Balzac* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)",
+      "pt": "Verificação Histórica da Biografia de Stefan Zweig *Balzac* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)",
+      "id": "Verifikasi Historis dari Biografi Stefan Zweig *Balzac* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"
     },
     "intro": {
-      "ko": "\"커피가 위장으로 흘러 들어가는 순간, 모든 것이 움직이기 시작한다. 생각들이 마치 위대한 군대처럼 진군해 온다.\" ☕\n\n19세기 프랑스 사실주의 문학의 절대적인 거장으로, 방대한 연작 소설 《인간 희극》을 집필하며 근대 소설의 기틀을 마련한 작가 오노레 드 발자크. 당시의 복잡한 사회상과 역동적인 인간 군상을 마치 해부하듯 세밀하게 적어 내린 그의 탁월한 집필력은 엄청난 양의 창작 노동에서 비롯되었습니다.\n\n그 방대한 분량의 창작을 가능케 한 원동력은 바로 자정에 기상하여 12시간 동안 이어졌던 극단적인 '초몰입' 루틴에 있었습니다. 발자크는 저녁 6시에 일찍 잠자리에 든 뒤, 세상이 깊은 침묵에 빠진 밤 12시에 기상했습니다. 그는 흰 가운을 입고 오직 촛불 두 자루만 켠 뒤 외부의 모든 방해 요소를 지웠습니다. 그리고 다음 날 정오까지 약 12시간 동안 집필에 매진했습니다. 그가 이 혹독한 몰입의 고독을 버티기 위해 동원한 강력한 도구는 다름 아닌 강한 블랙커피였습니다. 그는 매일 수십 잔의 커피를 마시며 뇌를 강제로 각성시켰습니다. 발자크에게 밤의 어둠과 커피 한 잔은 창조적 번뇌로부터 도망치지 않고 소설에 몰입할 수 있게 해 준 최고의 도구였습니다.\n\n오늘 포스트에서는 발자크의 극한 초몰입 습관에 숨겨진 뇌과학적 원리와 현대인들이 복잡한 업무를 빠르게 끝내기 위해 고요한 통집중 블록을 활용하는 지혜를 소개합니다."
+      "ko": "\"커피가 위장으로 흘러 들어가는 순간, 모든 것이 움직이기 시작한다. 생각들이 마치 위대한 군대처럼 진군해 온다.\" ☕\n\n19세기 프랑스 사실주의 문학의 거장이자, 90여 편의 소설을 하나의 거대한 세계관으로 엮은 불후의 연작 《인간 희극(La Comédie humaine)》을 남긴 대문호 오노레 드 발자크(Honoré de Balzac, 1799–1850). 『고리오 옹』, 『유진 그랑데』 등을 통해 당시 자본주의 사회의 인간 욕망과 부조리를 날카롭게 해부했던 그의 압도적인 창작력은, 매일 자신을 극한으로 밀어붙인 독특한 집필 루틴에서 나왔습니다.\n\n발자크는 밤낮이 완전히 바뀐 정밀한 '초몰입' 스케줄을 실천했습니다. 저녁 6시에 일찍 잠자리에 든 뒤, 세상이 깊은 고요에 잠긴 자정에 일어났습니다. 그는 흰 수도사 가운을 입고 촛불 두 자루만 켠 채 외부의 모든 방해 요소를 차단했습니다. 그리고 다음 날 정오까지 약 12시간 동안 오직 펜과 종이에만 영혼을 쏟아부었습니다. 이 혹독한 몰입의 고독을 버티기 위해 그가 동원한 강력한 각성제는 다름 아닌 강한 블랙커피였습니다. 매일 수십 잔의 커피를 마시며 뇌의 각성을 유지했던 그의 루틴은, 방해 요소가 제로인 고요함 속에서 뇌의 모든 주의 자원을 한 곳에 폭발적으로 쏟아붓는 강력한 몰입 장치였습니다.\n\n오늘 포스트에서는 발자크의 심야 몰입 루틴에 담긴 뇌과학적 원리를 분석하고, 현대인이 복잡하고 중대한 과제를 신속히 완수하기 위해 고요한 통집중 블록(Deep Work Block)을 활용하는 3단계 실천 방안을 제시합니다.",
+      "en": "\"As soon as coffee is in your stomach, there is a general commotion. Ideas begin to move like the battalions of the grand army.\" ☕\n\nHonoré de Balzac (1799–1850) was a titan of 19th-century French realist literature and the literary giant who authored 'La Comédie humaine', a monumental collection of over 90 novels interwoven into a single expansive narrative universe. Through masterpieces like 'Father Goriot' and 'Eugénie Grandet', he sharply dissected human desire and societal absurdities. His staggering creative output stemmed directly from an extraordinary writing routine that pushed his body and mind to their absolute limits.\n\nBalzac followed a rigorous 'hyperfocus' schedule with a completely inverted sleep-wake cycle. Going to bed early at 6 PM, he woke up at midnight when the world fell into deep silence. Dressed in a white monk's robe and illuminated by just two candles, he eliminated all external distractions, pouring his soul into pen and paper for roughly 12 hours until noon the following day. To sustain this brutal solitude of deep work, his ultimate stimulant of choice was concentrated black coffee. Consuming dozens of cups daily, he kept his brain in a state of high alertness—an intense setup that funneled all cognitive resources into a single task amidst zero-interruption stillness.\n\nIn today's post, we analyze the brain science behind Balzac's midnight hyperfocus routine and present a 3-step practical guide for modern individuals to utilize quiet Deep Work Blocks to tackle complex, high-priority tasks efficiently.",
+      "ja": "「コーヒーが胃の中に流れ込んだ瞬間、すべてが動き始める。アイデアがまるで偉大な大軍のように行進してくるのだ。」 ☕\n\n19世紀フランス写実主義文学의 巨匠であり、90篇余りの小説を一つの巨大な世界観として織り上げた不朽の連作『人間喜劇（La Comédie humaine）』を遺した大文豪、オノレ・ド・バルザック（Honoré de Balzac、1799–1850）。『ゴリオ爺さん』や『ウジェニー・グランデ』などを通じて当時の資本主義社会における人間の欲望と不条理を鋭く解剖した彼の圧倒的な創作力は、毎日自分を極限まで追い込んだ独自の執筆ルーティンから生まれました。\n\nバルザックは昼夜が完全に逆転した精密な「超没頭」スケジュールを実践しました。夕方6時に早く就寝した後、世界が深い静寂に包まれる午前0時に起床しました。彼は白い修道士のガウンを着て、たった2本のローソクだけを灯し、外部のあらゆる邪魔要素を遮断しました。そして翌日の正午までの約12時間、ひたすらペンと紙だけに魂を注ぎ込みました。この過酷な没頭の孤独に耐えるために彼が動員した強力な覚醒剤は、他ならぬ濃いブラックコーヒーでした。毎日数十杯のコーヒーを飲みながら脳の覚醒を維持した彼のルーティンは、障害要素がゼロの静けさの中で脳のすべての注意リソースを一箇所に爆発的に注ぎ込む強力な集中装置でした。\n\n本日の記事では、バルザックの深夜没頭ルーティンに秘められた脳科学的原理を分析し、現代人が複雑で重大な課題を迅速に完了するために静かな集中ブロック（Deep Work Block）を活用する3ステップの実践方案を提示します。",
+      "zh": "“当咖啡落入胃中的那一刻，一切都开始沸腾。想法犹如伟大军队的营队般浩浩荡荡地向前挺进。” ☕\n\n作为19世纪法国批判现实主义文学的巨擘，奥诺雷·德·巴尔扎克（Honoré de Balzac，1799–1850）创作了将90多部小说编织成宏大世界观的不朽巨著《人间喜剧（La Comédie humaine）》。通过《高老头》、《欧也妮·葛朗台》等作品，他敏锐地剖析了当时资本主义社会的欲望与荒谬。他那令人惊叹的惊人产出，直接源于每天将自己推向极限的独特写作习惯。\n\n巴尔扎克践行着一套颠倒昼夜的精密“超专注”作息表。他在傍晚6点早早入睡，然后在万籁俱寂的午夜0点起床。他穿上白色的修道士长袍，仅点燃两支蜡烛，阻断外界的一切干扰，在接下来的12个小时里（直至次日正午）将灵魂完全倾注于纸笔之间。为了抵抗这种严酷的高强度孤独，他所借助的强大刺激剂正是浓黑咖啡。他每天饮用数十杯咖啡以维持大脑的高度觉醒——在零干扰的宁静中，这套习惯将大脑的所有注意力资源爆发性地聚焦于单一任务上。\n\n在今天的文章中，我们将分析巴尔扎克午夜超专注习惯背后的脑科学原理，并为现代人提供利用宁静的深度工作时间块（Deep Work Block）高效完成复杂重大任务的3步骤实践方案。",
+      "es": "\"Tan pronto como el café llega al estómago, se produce una conmoción general. Las ideas comienzan a avanzarse como los batallones del gran ejército.\" ☕\n\nHonoré de Balzac (1799–1850), gigante de la literatura realista francesa del siglo XIX, fue el gran maestro autor de 'La Comedia Humana (La Comédie humaine)', una monumental serie de más de 90 novelas entrelazadas en un único e imponente universo narrativo. A través de obras maestras como 'Papá Goriot' y 'Eugenia Grandet', analizó con precisión quirúrgica las pasiones humanas y las absurdeces de la sociedad de su época. Su asombrosa capacidad creativa procedía de una rutina de escritura extrema que llevaba su cuerpo y mente al límite diario.\n\nBalzac seguía un riguroso horario de 'hiperenfoque' con un ciclo de sueño completamente invertido. Acostándose temprano a las 6 PM, se despertaba a la medianoche cuando el mundo caía en un profundo silencio. Vestido con una túnica blanca de monje e iluminado únicamente por dos velas, eliminaba toda distracción externa y vertía su alma sobre el papel durante unas 12 horas hasta el mediodía del día siguiente. Para soportar la dura soledad de esta concentración extrema, su estimulante clave era el café solo concentrado. Al consumir docenas de tazas al día, mantenía su cerebro en un estado de máxima alerta, canalizando todos los recursos cognitivos hacia una única tarea en medio de un silencio libre de interrupciones.\n\nEn la publicación de hoy, analizamos los principios neurocientíficos de la rutina nocturna de hiperenfoque de Balzac y presentamos una guía práctica de 3 pasos para que las personas modernas utilicen bloques de trabajo profundo (Deep Work Blocks) en silencio y resuelvan tareas complejas y prioritarias.",
+      "de": "\"Sobald der Kaffee im Magen ist, entsteht eine allgemeine Aufruhr. Die Ideen beginnen wie die Bataillone der großen Armee zu marschieren.\" ☕\n\nHonoré de Balzac (1799–1850) war ein Titan der französischen realistischen Literatur des 19. Jahrhunderts und der literarische Gigant, der 'Die menschliche Komödie (La Comédie humaine)' verfasste – ein monumentales Werk aus über 90 Romanen, die zu einem riesigen Erzähluniversum verwoben sind. Durch Meisterwerke wie 'Vater Goriot' und 'Eugénie Grandet' sezierte er messerscharf menschliche Begierden und gesellschaftliche Fehlentwicklungen. Seine erstaunliche Schaffenskraft entsprang direkt einer extremen Schreibroutine, die seinen Körper und Geist täglich an die Grenzen trieb.\n\nBalzac folgte einem strengen 'Hyperfokus'-Plan mit einem völlig umgekehrten Schlaf-Wach-Rhythmus. Er ging bereits um 18 Uhr zu Bett und wachte um Mitternacht auf, wenn die Welt in tiefe Stille versank. Bekleidet mit einer weißen Mönchskutte und erhellt von nur zwei Kerzen, eliminierte er alle äußeren Ablenkungen und goss seine Seele bis zum folgenden Mittag etwa 12 Stunden lang in Stift und Papier. Um die harten Stunden dieser tiefen Isolation durchzustehen, war sein bevorzugtes Wundermittel starker schwarzer Kaffee. Mit Dutzenden Tassen täglich hielt er sein Gehirn in höchster Alarmbereitschaft – ein intensiver Zustand, der alle kognitiven Ressourcen in völliger Ungestörtheit auf eine einzige Aufgabe bündelte.\n\nIm heutigen Beitrag analysieren wir die neurowissenschaftlichen Grundlagen von Balzacs mitternächtlicher Hyperfokus-Routine und stellen einen praktischen 3-Schritte-Leitfaden vor, mit dem moderne Menschen ruhige Deep-Work-Blöcke nutzen können, um komplexe und wichtige Aufgaben effizient zu bewältigen.",
+      "fr": "« Dès que le café est dans votre estomac, c'est une agitation générale. Les idées commencent à s'ébranler comme les bataillons de la grande armée. » ☕\n\nHonoré de Balzac (1799–1850) était un géant de la littérature réaliste française du XIXe siècle et l'auteur de 'La Comédie humaine', un monument littéraire réunissant plus de 90 romans interconnectés dans un univers narratif d'une ampleur inédite. À travers des chefs-d'œuvre tels que 'Le Père Goriot' et 'Eugénie Grandet', il a disséqué avec acuité les désirs humains et les absurdités de la société. Son impressionnante productivité découlait directement d'une routine d'écriture extrême qui poussait son corps et son esprit aux limites du possible.\n\nBalzac suivait un programme d'« hyperfocus » rigoureux avec un cycle de sommeil complètement inversé. Se couchant tôt à 18h, il se réveillait à minuit quand le monde plongeait dans un silence absolute. Vêtu d'une robe de moine blanche et éclairé par seulement deux bougies, il éliminait toute distraction extérieure et déversait son âme sur le papier pendant environ 12 heures jusqu'à midi le lendemain. Pour supporter la solitude austère de cette immersion, son stimulant de prédilection était le café noir très serré. En consommant des dizaines de tasses par jour, il maintenait son cerveau dans un état d'éveil maximal, canalisant toutes ses ressources cognitives vers une tâche unique au milieu d'un calme sans aucune interruption.\n\nDans l'article d'aujourd'hui, nous analysons les principes neuroscientifiques de la routine d'hyperfocus nocturne de Balzac et proposons un guide pratique en 3 étapes permettant aux individus modernes d'utiliser des blocs de travail profond (Deep Work Blocks) silencieux pour accomplir rapidement des tâches complexes et majeures.",
+      "pt": "\"Assim que o café chega ao estômago, há uma comoção geral. As ideias começam a se mover como os batalhões do grande exército.\" ☕\n\nHonoré de Balzac (1799–1850) foi um gigante da literatura realista francesa do século XIX e o mestre que concebeu 'A Comédia Humana (La Comédie humaine)', uma obra monumental de mais de 90 romances entrelaçados num único universo narrativo. Através de obras-primas como 'O Pai Goriot' e 'Eugênia Grandet', ele analisou com precisão as paixões humanas e as contradições sociais. A sua impressionante capacidade criativa derivava de uma rotina de escrita extrema que levava seu corpo e mente ao limite diariamente.\n\nBalzac seguia uma rotina rigorosa de 'hiperfoco' com um ciclo de sono totalmente invertido. Indo para a cama cedo, às 18h, ele acordava à meia-noite, quando o mundo caía em um silêncio profundo. Vestido com um hábito branco de monge e iluminado por apenas duas velas, ele eliminava todas as distrações externas e dedicava sua alma ao papel por cerca de 12 horas até o meio-dia do dia seguinte. Para suportar a dura solidão desse trabalho profundo, seu estimulante favorito era o café preto concentrado. Consumindo dezenas de xícaras diariamente, ele mantinha o cérebro em estado de alerta máximo, direcionando todos os recursos cognitivos para uma única tarefa num ambiente sem interrupções.\n\nNo artigo de hoje, analisamos os princípios neurocientíficos da rotina noturna de hiperfoco de Balzac e apresentamos um guia prático de 3 passos para que as pessoas modernas utilizem blocos de trabalho profundo (Deep Work Blocks) em silêncio para concluir tarefas complexas e prioritárias.",
+      "id": "\"Begitu kopi masuk ke dalam perut, terjadi kegemparan umum. Ide-ide mulai bergerak seperti batalyon tentara agung.\" ☕\n\nHonoré de Balzac (1799–1850) adalah raksasa sastra realis Prancis abad ke-19 dan mahakarya sastra yang menulis 'Komedi Manusia (La Comédie humaine)', sebuah kumpulan monumental lebih dari 90 novel yang saling terjalin dalam satu alam semesta naratif yang luas. Melalui karya-karya besar seperti 'Papa Goriot' dan 'Eugénie Grandet', ia secara tajam membedah hasrat manusia dan ketidakadilan sosial. Produktivitas kreatifnya yang luar biasa berasal langsung dari rutinitas menulis ekstrem yang mendorong tubuh dan pikirannya hingga ke batas maksimal.\n\nBalzac mengikuti jadwal 'hyperfocus' yang ketat dengan siklus tidur yang terbalik sepenuhnya. Tidur lebih awal pada pukul 18.00, ia bangun pada tengah malam ketika dunia jatuh ke dalam keheningan yang dalam. Mengenakan jubah biarawan putih dan hanya diterangi oleh dua lilin, ia menghilangkan semua gangguan dari luar, mengesampingkan jiwanya ke atas kertas selama sekitar 12 jam hingga tengah hari berikutnya. Untuk bertahan dalam kesendirian kerja mendalam yang keras ini, stimulan utamanya adalah kopi hitam pekat. Mengonsumsi puluhan cangkir setiap hari, ia menjaga otaknya dalam kondisi kewaspadaan tinggi—sebuah pengaturan intensif yang menyalurkan seluruh sumber daya kognitif ke dalam satu tugas tunggal di tengah keheningan tanpa gangguan.\n\nDalam postingan hari ini, kami menganalisis prinsip-prinsip neurosains di balik rutinitas hyperfocus tengah malam Balzac dan menyajikan panduan praktis 3 langkah bagi masyarakat modern untuk memanfaatkan blok kerja mendalam (Deep Work Block) yang tenang guna menyelesaikan tugas-tugas rumit dan penting secara efisien."
     },
     "whyTitle": {
-      "ko": "인지 소음이 제로가 되는 심야 시간과 카페인 각성의 시너지"
+      "ko": "인지 소음 완전 차단과 아데노신 억제의 시너지",
+      "en": "Synergy of Total Cognitive Noise Elimination and Adenosine Inhibition",
+      "ja": "認知ノイズの完全遮断とアデノシン抑制のシナジー",
+      "zh": "完全阻断认知噪音与抑制腺苷的协同效应",
+      "es": "Sinergia entre la Eliminación Total del Ruido Cognitivo y la Inhibición de la Adenosina",
+      "de": "Synergie von vollständiger kognitiver Rauschunterdrückung und Adenosin-Hemmung",
+      "fr": "Synergie de l'élimination totale du bruit cognitif et de l'inhibition de l'adénosine",
+      "pt": "Sinergia da Eliminação Total do Ruído Cognitivo e da Inibição da Adenosina",
+      "id": "Sinergi Eliminasi Total Kebisingan Kognitif dan Inhibisi Adenosin"
     },
     "whyDesc": {
-      "ko": "뇌가 정보를 처리할 때 겪는 방해 요소인 '인지 소음(Cognitive Noise)'이 완벽히 사라지는 심야 혹은 새벽 시간은 주의 장악력을 늘리는 최적의 몰입 시간대입니다. 모두가 잠든 시간은 전화나 메신저 알림이 오지 않아 뇌가 능동적으로 몰입의 끈을 유지하기 쉽습니다.\n\n여기에 더해 커피 속 카페인은 뇌의 피로를 인지하게 만드는 아데노신(Adenosine) 물질의 작용을 원천 차단합니다. 그 결과 도파민(Dopamine)과 노르에피네프린(Norepinephrine)이 추가 분비되면서 정신적 긴장도와 고도의 장시간 주의력을 날카롭게 형성합니다. 단, 지나친 카페인 남용은 자율신경계를 흔들 수 있어 현대인들은 이를 통제된 2~3시간의 몰입 시간 블록에만 선별적으로 대입해야 합니다."
+      "ko": "뇌가 집중할 때 가장 큰 장애물은 외부에서 들어오는 '인지 소음(Cognitive Noise)'과 시각적·청각적 자극입니다. 전화나 메신저 알림이 완전히 멈춘 심야 시간은 전두엽의 인지 제어 자원이 온전히 하나의 과제에만 투입될 수 있는 최적의 환경을 제공합니다. 여기에 커피 속 카페인은 뇌에 피로 신호를 전달하는 아데노신(Adenosine) 수용체를 결합 차단하여 피로감을 느끼지 못하게 만듭니다. 그 결과 도파민(Dopamine)과 노르에피네프린(Norepinephrine)의 분비가 촉진되어 장시간 날카로운 집중력과 정신적 각성을 유지할 수 있게 됩니다.",
+      "en": "The biggest obstacle to brain focus is incoming 'Cognitive Noise' and ambient visual or auditory stimuli. Late-night hours, free from phone calls and messenger notifications, offer an optimal environment where prefrontal cognitive control resources can be dedicated entirely to a single task. In addition, caffeine blocks adenosine receptors that signal fatigue to the brain, preventing the sensation of tiredness. Consequently, the release of dopamine and norepinephrine is stimulated, sharpening concentration and maintaining mental alertness over extended periods.",
+      "ja": "脳が集中する際の最大の障害は、外部から入ってくる「認知ノイズ（Cognitive Noise）」や視覚的・聴覚的刺激です。電話やメッセージの通知が完全に止まる深夜時間は、前頭葉の認知制御リソースが完全に一つの課題にのみ投入できる最適な環境を提供します。これに加え、コーヒーに含まれるカフェインは、脳に疲労信号を伝えるアデノシン（Adenosine）受容体の結合を遮断し、疲労感を感じさせなくします。その結果、ドパミン（Dopamine）やノルアドレナリン（Norepinephrine）の分泌が促進され、長時間の鋭い集中力と精神的覚醒を維持できるようになります。",
+      "zh": "大脑专注时的最大障碍是来自外部的“认知噪音（Cognitive Noise）”以及视觉和听觉刺激。电话与即时通讯通知完全停歇的深夜，提供了让前额叶皮层认知控制资源能够全数投入单一任务的最佳环境。此外，咖啡中的咖啡因能够阻断向大脑传递疲劳信号的腺苷（Adenosine）受体，从而消除疲惫感。结果，这促进了多巴胺（Dopamine）和去甲肾上腺素（Norepinephrine）的分泌，使人得以长期保持敏锐的专注力与精神觉醒。",
+      "es": "El mayor obstáculo para la concentración cerebral es el 'Ruido Cognitivo' entrante y los estímulos visuales o auditivos del entorno. Las horas nocturnas, libres de llamadas y notificaciones, ofrecen un entorno óptimo donde los recursos de control cognitivo prefrontal se dedican por completo a una sola tarea. Además, la cafeína bloquea los receptores de adenosina (Adenosine) que señalan fatiga al cerebro, evitando la sensación de cansancio. Como resultado, se estimula la liberación de dopamina (Dopamine) y norepinefrina (Norepinephrine), agudizando la concentración y manteniendo el estado de alerta mental durante períodos prolongados.",
+      "de": "Das größte Hindernis für die gehirneigene Konzentration ist eingehender 'Kognitiver Lärm (Cognitive Noise)' sowie visuelle oder auditive Umgebungsreize. Die späten Nachtstunden ohne Telefonanrufe oder Nachrichten-Benachrichtigungen bieten eine optimale Umgebung, in der die kognitiven Steuerungsressourcen des Präfrontalkortex vollständig einer einzigen Aufgabe gewidmet werden können. Darüber hinaus blockiert Koffein die Adenosinrezeptoren (Adenosine), die dem Gehirn Müdigkeit signalisieren, und verhindert so das Gefühl der Erschöpfung. Infolgedessen wird die Ausschüttung von Dopamin (Dopamine) und Norepinephrin (Norepinephrine) angeregt, was die Konzentration schärft und die geistige Wachheit über längere Zeiträume aufrechterhält.",
+      "fr": "Le plus grand obstacle à la concentration du cerveau est le « Bruit Cognitif » entrant et les stimuli visuels ou auditifs ambiants. Les heures tardives de la nuit, exemptes d'appels téléphoniques et de notifications de messagerie, offrent un environnement optimal où les ressources de contrôle cognitif préfrontal peuvent être entièrement consacrées à une seule tâche. De plus, la caféine bloque les récepteurs de l'adénosine (Adenosine) qui signalent la fatigue au cerveau, empêchant la sensation d'épuisement. En conséquence, la libération de dopamine (Dopamine) et de noradrénaline (Norepinephrine) est stimulée, affûtant la concentration et maintenant l'éveil mental sur de longues périodes.",
+      "pt": "O maior obstáculo ao foco cerebral é o 'Ruído Cognitivo' de entrada e os estímulos visuais ou auditivos do ambiente. As horas tardias da noite, livres de chamadas telefônicas e notificações de mensagens, oferecem um ambiente ideal onde os recursos de controle cognitivo pré-frontal podem ser dedicados inteiramente a uma única tarefa. Além disso, a cafeína bloqueia os receptores de adenosina (Adenosine) que sinalizam fadiga ao cérebro, prevenindo a sensação de cansaço. Como resultado, a liberação de dopamina (Dopamine) e norepinefrina (Norepinephrine) é estimulada, aguçando a concentração e mantendo o alerta mental por longos períodos.",
+      "id": "Hambatan terbesar bagi fokus otak adalah 'Kebisingan Kognitif' yang masuk serta stimulasi visual atau pendengaran di sekitar. Jam-jam larut malam, bebas dari panggilan telepon dan notifikasi pesan, menawarkan lingkungan optimal di mana sumber daya kontrol kognitif prefrontal dapat didedikasikan sepenuhnya untuk satu tugas tunggal. Selain itu, kafein memblokir reseptor adenosin (Adenosine) yang memberi sinyal kelelahan ke otak, mencegah rasa lelah. Akibatnya, pelepasan dopamin (Dopamine) dan norepinefrin (Norepinephrine) dirangsang, mengasah konsentrasi dan mempertahankan kewaspadaan mental selama periode yang lama."
     },
     "cautionTitle": {
-      "ko": "성공적인 루틴을 위한 뇌과학적 한마디"
+      "ko": "생체 리듬 보호 및 카페인 오남용 경계",
+      "en": "Protecting Circadian Rhythms & Guarding Against Caffeine Abuse",
+      "ja": "生体リズムの保護とカフェイン誤用・乱用の警戒",
+      "zh": "保护生物钟与警惕咖啡因滥用",
+      "es": "Protección de los Ritmos Circadianos y Cuidado con el Abuso de Cafeína",
+      "de": "Schutz des zirkadianen Rhythmus & Warnung vor Koffeinmissbrauch",
+      "fr": "Protection des rythmes circadiens et mise en garde contre l'abus de caféine",
+      "pt": "Proteção dos Ritmos Circadianos e Cuidado com o Abuso de Cafeína",
+      "id": "Melindungi Ritme Sirkadian & Waspada Terhadap Penyalahgunaan Kafein"
     },
     "cautionDesc": {
-      "ko": "<strong>생체 리듬 파괴와 카페인 오남용을 경계하세요</strong>\n\n발자크의 자정 기상과 수십 잔의 커피 투혼은 극단적인 신체 부담을 초래했습니다. (실제로 발자크는 과도한 카페인 섭취와 수면 부족으로 인한 심장 질환으로 51세에 일찍 세상을 떠났습니다.) 현대인이 이 몰입법을 활용할 때는 일상의 생체 리듬을 깨뜨리지 않는 선에서, 집중이 잘 되는 2~3시간의 고요한 시간 블록만 선별적으로 활용하는 지혜가 필요합니다."
+      "ko": "발자크의 자정 기상과 과도한 카페인 섭취는 신체에 극심한 스트레스를 주었습니다. (실제로 발자크는 수면 부족과 과도한 커피 복용으로 인한 심장 질환으로 51세라는 이른 나이에 요절했습니다.) 따라서 현대인이 이 몰입 전략을 적용할 때는 매일 수면 패턴을 파괴하는 대신, 생체 리듬을 유지하는 선에서 집중도가 높은 2~3시간의 고요한 시간 블록만 선별적으로 활용해야 합니다.",
+      "en": "Balzac's midnight wake-up and excessive caffeine intake inflicted severe stress on his body. (In fact, Balzac passed away at the early age of 51 due to heart disease exacerbated by sleep deprivation and heavy coffee consumption.) Therefore, when applying this focus strategy, modern individuals should avoid destroying daily sleep patterns and instead selectively utilize quiet 2-to-3-hour focus blocks while preserving their natural circadian rhythm.",
+      "ja": "バルザックの午前0時起床と過度なカフェイン摂取は、身体に極度のストレスを与えました。（実際にバルザックは睡眠不足と過剰なコーヒー服用による心臓疾患のため、51歳という若さで早世しました。）したがって、現代人がこの没頭戦略を適用する際は、毎日の睡眠パターンを破壊するのではなく、生体リズムを維持する範囲で、集中の高い2〜3時間の静かな時間ブロックのみを選別して活用すべきです。",
+      "zh": "巴尔扎克的午夜起床与过量咖啡因摄入对其身体造成了极大的负担。（事实上，巴尔扎克因长期睡眠不足与过量饮用咖啡引发心血管疾病，在51岁的盛年便不幸英年早逝。）因此，现代人在应用这一专注策略时，不应破坏日常睡眠模式，而应在保持正常生物钟的前提下，选择性地利用高度专注且宁静的2至3小时时间块。",
+      "es": "El despertar a la medianoche de Balzac y el consumo excesivo de cafeína infligieron un estrés severo a su cuerpo. (De hecho, Balzac falleció a la temprana edad de 51 años debido a enfermedades cardíacas agravadas por la falta de sueño y el alto consumo de café). Por lo tanto, al aplicar esta estrategia de concentración, las personas modernas deben evitar destruir sus patrones de sueño diarios y, en su lugar, utilizar de forma selectiva bloques de enfoque tranquilos de 2 a 3 horas preservando su ritmo circadiano.",
+      "de": "Balzacs Aufstehen um Mitternacht und sein übermäßiger Koffeinkonsum setzten seinen Körper extremem Stress aus. (Tatsächlich starb Balzac bereits im Alter von 51 Jahren an einer Herzerkrankung, die durch Schlafmangel und übermäßigen Kaffeekonsum verschlimmert wurde.) Wenn moderne Menschen diese Fokusstrategie anwenden, sollten sie daher vermeiden, ihre täglichen Schlafmuster zu zerstören, und stattdessen selektiv ruhige 2- bis 3-stündige Fokusblöcke nutzen, während sie ihren natürlichen zirkadianen Rhythmus bewahren.",
+      "fr": "Le réveil à minuit de Balzac et sa consommation excessive de caféine ont infligé un stress sévère à son organisme. (En fait, Balzac est décédé à l'âge précoce de 51 ans en raison de maladies cardiaques aggravées par le manque de sommeil et la surconsommation de café.) Par conséquent, en appliquant cette stratégie de concentration, les individus modernes doivent éviter de détruire leurs rythmes de sommeil quotidiens et privilégier plutôt l'utilisation sélective de blocs de focalisation calmes de 2 à 3 heures tout en préservant leur rythme circadien.",
+      "pt": "O despertar à meia-noite de Balzac e o consumo excessivo de cafeína causaram um estresse severo ao seu corpo. (Na verdade, Balzac faleceu aos 51 anos de idade devido a complicações cardíacas agravadas pela privação de sono e consumo excessivo de café). Portanto, ao aplicar essa estratégia de foco, as pessoas modernas devem evitar destruir seus padrões diários de sono e, em vez disso, utilizar seletivamente blocos de foco tranquilos de 2 a 3 horas, preservando seu ritmo circadiano.",
+      "id": "Kebiasaan bangun tengah malam Balzac dan asupan kafein yang berlebihan menimbulkan stres berat pada tubuhnya. (Bahkan, Balzac meninggal dunia pada usia muda 51 tahun akibat penyakit jantung yang diperparah oleh kurang tidur dan konsumsi kopi berat.) Oleh karena itu, saat menerapkan strategi fokus ini, masyarakat modern harus menghindari merusak pola tidur harian dan sebaliknya secara selektif memanfaatkan blok fokus yang tenang selama 2 hingga 3 jam sambil tetap menjaga ritme sirkadian alami mereka."
     },
     "steps": [
       {
         "name": {
-          "ko": "주 2회 고요한 심야/새벽 시간 확보"
+          "ko": "1단계: 주 1~2회 고요한 집중 시간 블록(2~3시간) 예약",
+          "en": "Step 1: Reserving a Quiet Focus Block (2-3 Hours) 1-2 Times a Week",
+          "ja": "ステップ1：週1〜2回、静かな集中時間ブロック（2〜3時間）の予約",
+          "zh": "步骤1：每周预约1-2次宁静专注时间块（2-3小时）",
+          "es": "Paso 1: Reservar un Bloque de Enfoque Tranquilo (2-3 Horas) 1-2 Veces por Semana",
+          "de": "Schritt 1: Reservieren Sie 1-2 Mal pro Woche einen ruhigen Fokusblock (2-3 Stunden)",
+          "fr": "Étape 1 : Réserver un bloc de focalisation calme (2 à 3 heures) 1 à 2 fois par semaine",
+          "pt": "Passo 1: Reservar um Bloco de Foco Tranquilo (2-3 Horas) 1-2 Vezes por Semana",
+          "id": "Langkah 1: Memesan Blok Fokus yang Tenang (2-3 Jam) 1-2 Kali Seminggu"
         },
         "text": {
-          "ko": "매일 심야에 활동하는 것은 신체에 부담이 가므로, 일주일에 1~2회 정도 외부 연락이 완전히 뜸해지는 밤 10시 이후 혹은 새벽 시간을 핵심 업무를 위한 통몰입 시간으로 지정합니다."
+          "ko": "매일 심야에 활동하는 것은 건강을 해치므로, 일주일에 1~2회 외부 연락이 끊기는 밤 10시 이후나 새벽 시간을 지정하여 2~3시간 동안 몰입하는 시간을 확보합니다.",
+          "en": "Working late at night every day damages health. Instead, designate 1-2 times a week after 10 PM or early morning when external contact drops off, securing 2-3 hours of undisturbed immersion.",
+          "ja": "毎日深夜に活動することは健康を害するため、週に1〜2回、外部の連絡が途絶える夜10時以降や早朝時間を指定し、2〜3時間の没頭時間を確保します。",
+          "zh": "每天深夜活动会损害健康，因此每周指定1-2次在晚上10点以后或清晨外部联系减少的时间段，确保2-3小时不受打扰的专注时间。",
+          "es": "Trabajar hasta tarde todas las noches daña la salud. En su lugar, designe 1-2 veces por semana después de las 10 PM o temprano en la mañana cuando el contacto externo disminuye, asegurando 2-3 horas de inmersión ininterrumpida.",
+          "de": "Jeden Tag spät in der Nacht zu arbeiten, schadet der Gesundheit. Bestimmen Sie stattdessen 1-2 Mal pro Woche Zeiten nach 22 Uhr oder am frühen Morgen, wenn externe Kontakte nachlassen, um 2-3 Stunden ungestörte Vertiefung zu sichern.",
+          "fr": "Travailler tard le soir chaque jour nuit à la santé. Désignez plutôt 1 à 2 fois par semaine après 22h ou tôt le matin, lorsque les contacts extérieurs diminuent, pour garantir 2 à 3 heures d'immersion ininterrompue.",
+          "pt": "Trabalhar até tarde todas as noites prejudica a saúde. Em vez disso, designe 1-2 vezes por semana após as 22h ou no início da manhã, quando o contato externo diminui, garantindo 2-3 horas de imersão ininterrupta.",
+          "id": "Bekerja larut malam setiap hari dapat merusak kesehatan. Sebaliknya, tentukan 1-2 kali seminggu setelah pukul 22.00 atau pagi-pagi sekali ketika kontak dari luar berkurang, guna mengamankan 2-3 jam imersi tanpa gangguan."
         }
       },
       {
         "name": {
-          "ko": "시각적 및 환경 자극 극도 단순화"
+          "ko": "2단계: 시각적 및 디지털 자극의 완전한 단절",
+          "en": "Step 2: Complete Disconnection from Visual and Digital Stimuli",
+          "ja": "ステップ2：視覚的およびデジタル刺激の完全遮断",
+          "zh": "步骤2：彻底切断视觉与数字刺激",
+          "es": "Paso 2: Desconexión Completa de Estímulos Visuales y Digitales",
+          "de": "Schritt 2: Vollständige Trennung von visuellen und digitalen Reizen",
+          "fr": "Étape 2 : Déconnexion complète des stimuli visuels et numériques",
+          "pt": "Passo 2: Desconexão Completa de Estímulos Visuais e Digitais",
+          "id": "Langkah 2: Pemutusan Total dari Stimulasi Visual dan Digital"
         },
         "text": {
-          "ko": "방 안의 형광등을 끄고 집중 대상인 책상만 비추는 스탠드 조명 하나만 켭니다. 스마트폰은 무음 처리하여 눈에 보이지 않는 서랍 속에 넣어 주의 분산을 원천 봉쇄합니다."
+          "ko": "방 전체 조명을 낮추고 책상 스탠드 하나만 켜서 시선을 집중시킵니다. 스마트폰은 무음 모드로 전환한 뒤 서랍에 넣어 시각적·알림 자극을 차단합니다.",
+          "en": "Lower the overall room lighting and turn on a single desk lamp to lock your gaze. Set your smartphone to silent and place it inside a drawer to block visual and notification distractions.",
+          "ja": "部屋全体の照明を落とし、デスクのスタンドライト1つだけを点けて視線を集中させます。スマートフォンはマナーモードにして引き出しに入れ、視覚・通知刺激を遮断します。",
+          "zh": "调暗房间整体照明，仅开启一盏台灯以聚焦视线。将手机调至静音并放入抽屉，以此阻断视觉与通知干扰。",
+          "es": "Reduzca la iluminación general de la habitación y encienda una sola lámpara de escritorio para enfocar su mirada. Configure su teléfono en silencio y colóquelo dentro de un cajón para bloquear distracciones visuales y de notificaciones.",
+          "de": "Dimmen Sie die Raumbeleuchtung und schalten Sie eine einzelne Schreibtischlampe ein, um den Blick zu bündeln. Stellen Sie Ihr Smartphone auf stumm und legen Sie es in eine Schublade, um visuelle und Benachrichtigungsreize zu blockieren.",
+          "fr": "Baissez la lumière globale de la pièce et allumez une seule lampe de bureau pour focaliser votre regard. Réglez votre smartphone sur silencieux et placez-le dans un tiroir pour bloquer les distractions visuelles et les notifications.",
+          "pt": "Diminua a iluminação geral do cômodo e ligue apenas uma luminária de mesa para focar o olhar. Defina seu smartphone para o modo silencioso e coloque-o dentro de uma gaveta para bloquear distrações visuais e notificações.",
+          "id": "Redupkan pencahayaan ruangan secara keseluruhan dan nyalakan satu lampu meja untuk memfokuskan pandangan. Atur smartphone Anda ke mode hening dan masukkan ke dalam laci untuk memblokir gangguan visual dan notifikasi."
         }
       },
       {
         "name": {
-          "ko": "따뜻한 음료 준비 및 1개 핵심 과제 몰입"
+          "ko": "3단계: 음료 곁들임 및 단 하나의 핵심 과제 몰입",
+          "en": "Step 3: Pairing a Beverage & Immersing in a Single Core Task",
+          "ja": "ステップ3：飲み物の用意と単一の核心課題への没頭",
+          "zh": "步骤3：搭配饮品与专注于单一核心任务",
+          "es": "Paso 3: Acompañar con una Bebida e Inmergirse en una Sola Tarea Principal",
+          "de": "Schritt 3: Getränk bereitstellen & Vertiefung in eine einzelne Hauptaufgabe",
+          "fr": "Étape 3 : Accompagnement d'une boisson et immersion dans une seule tâche essentielle",
+          "pt": "Passo 3: Acompanhar com uma Bebida e Imersão em uma Única Tarefa Principal",
+          "id": "Langkah 3: Menyediakan Minuman & Tenggelam dalam Satu Tugas Inti"
         },
         "text": {
-          "ko": "뇌의 집중을 도울 따뜻한 커피나 차를 한 잔 곁들입니다. 준비된 집중 시간 동안 여러 작업을 동시에 수행(멀티태스킹)하지 않고, 사전에 정의한 가장 가치 있고 무거운 '단 1개의 과제'에만 전력 투구합니다."
+          "ko": "따뜻한 커피나 차 한 잔을 준비한 뒤, 멀티태스킹을 피하고 사전에 선정한 가장 중요하고 중대한 단 하나의 과제(Single Task)에만 모든 에너지를 쏟아붓습니다.",
+          "en": "Prepare a cup of warm coffee or tea, avoid multitasking, and pour all your energy exclusively into a single, highly important task pre-selected for this block.",
+          "ja": "温かいコーヒーやお茶を一杯用意し、マルチタスクを避けて、事前に選定した最も重要で重大な単一の課題（Single Task）にのみすべてのエネルギーを注ぎ込みます。",
+          "zh": "准备一杯温热的咖啡或茶，避免多任务处理，将所有精力集中于预先挑选的唯一最重要重大任务（Single Task）上。",
+          "es": "Prepare una taza de café o té caliente, evite la multitarea y vierta toda su energía exclusivamente en una sola tarea de gran importancia preseleccionada.",
+          "de": "Bereiten Sie eine Tasse warmen Kaffee oder Tee zu, vermeiden Sie Multitasking und stecken Sie Ihre gesamte Energie ausschließlich in eine einzige, im Voraus ausgewählte Hauptaufgabe.",
+          "fr": "Préparez une tasse de café ou de thé chaud, évitez le multitasking et consacrez toute votre énergie exclusivement à une seule tâche majeure présélectionnée.",
+          "pt": "Prepare uma xícara de café ou chá quente, evite a multitarefa e dedique toda a sua energia exclusivamente a uma única tarefa de alta importância pré-selecionada.",
+          "id": "Siapkan secangkir kopi atau teh hangat, hindari multitasking, dan curahkan seluruh energi Anda secara eksklusif hanya pada satu tugas berbobot tinggi yang telah dipilih sebelumnya."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "밤늦은 시간에 카페인을 섭취하면 수면에 방해가 되지 않나요?"
+          "ko": "늦은 밤이나 새벽에 커피를 마시면 수면에 방해가 되지 않나요?",
+          "en": "Does consuming coffee late at night or early in the morning interfere with sleep?",
+          "ja": "夜遅くや早朝にコーヒーを飲むと睡眠の妨げになりませんか？",
+          "zh": "深夜或清晨饮用咖啡会影响睡眠吗？",
+          "es": "¿Consumir café a altas horas de la noche o temprano en la mañana interfiere con el sueño?",
+          "de": "Stört der Konsum von Kaffee spät in der Nacht oder am frühen Morgen den Schlaf?",
+          "fr": "Consommer du café tard le soir ou tôt le matin perturbe-t-il le sommeil ?",
+          "pt": "Consumir café tarde da noite ou de madrugada interfere no sono?",
+          "id": "Apakah mengonsumsi kopi saat larut malam atau pagi-pagi sekali mengganggu tidur?"
         },
         "answer": {
-          "ko": "네, 수면의 질을 저하시킬 수 있습니다. 발자크처럼 매일 자정에 깨는 생활은 현대 직장인에게 부적절하므로, 카페인에 민감하신 분들은 디카페인 커피나 민트 티 등의 대체 음료를 사용하고, 몰입 블록은 가급적 퇴근 직후나 이른 아침 시간에 배치하는 것을 권장합니다."
+          "ko": "네, 수면의 질을 저하시킬 수 있습니다. 발자크처럼 자정에 일어나는 라이프스타일은 현대인에게 맞지 않으므로, 카페인에 민감하다면 디카페인 음료나 따뜻한 허브티로 대체하고, 몰입 블록 역시 퇴근 직후나 출근 전 이른 아침으로 배치하는 것이 바람직합니다.",
+          "en": "Yes, it can degrade sleep quality. Since Balzac's midnight wake-up lifestyle is impractical for modern individuals, if you are sensitive to caffeine, replace it with decaffeinated coffee or warm herbal tea, and schedule focus blocks right after work or early in the morning before commuting.",
+          "ja": "はい、睡眠の質を低下させる可能性があります。バルザックのように午前0時に起きるライフスタイルは現代人には不適切であるため、カフェインに敏感な方はディカフェ飲料や温かいハーブティーに代替し、没頭ブロックも退勤直後や出勤前の早朝時間に配置するのが望ましいです。",
+          "zh": "是的，这可能会降低睡眠质量。像巴尔扎克这样午夜起床的生活方式并不适合现代人，因此如果您对咖啡因敏感，建议替换为无咖啡因饮品或温热的花草茶，并将专注时间块安排在下班后或上班前的清晨。",
+          "es": "Sí, puede deteriorar la calidad del sueño. Como el estilo de vida de despertar a medianoche de Balzac no es práctico para las personas modernas, si es sensible a la cafeína, reemplácela con café descafeinado o té de hierbas caliente, y programe sus bloques de enfoque justo después del trabajo o temprano en la mañana antes de ir a trabajar.",
+          "de": "Ja, es kann die Schlafqualität beeinträchtigen. Da Balzacs Lebensstil mit dem Aufstehen um Mitternacht für moderne Menschen unpraktisch ist, ersetzen Sie Koffein bei Empfindlichkeit durch entkoffeinierten Kaffee oder warmen Kräutertee und legen Sie Fokusblöcke direkt nach der Arbeit oder morgens vor dem Pendeln fest.",
+          "fr": "Oui, cela peut détériorer la qualité du sommeil. Le mode de vie de Balzac consistant à se réveiller à minuit étant inadapté aux individus modernes, si vous êtes sensible à la caféine, remplacez-la par du café décaféiné ou une tisane chaude, et planifiez vos blocs de focalisation juste après le travail ou tôt le matin avant de partir travailler.",
+          "pt": "Sim, pode prejudicar a qualidade do sono. Como o estilo de vida de Balzac de acordar à meia-noite é impraticável para as pessoas modernas, se você for sensível à cafeína, substitua-a por café descafeinado ou chá de ervas quente e agende os blocos de foco logo após o trabalho ou no início da manhã antes de ir trabalhar.",
+          "id": "Ya, itu dapat menurunkan kualitas tidur. Karena gaya hidup bangun tengah malam ala Balzac tidak praktis bagi masyarakat modern, jika Anda sensitif terhadap kafein, gantilah dengan kopi dekafen atau teh herbal hangat, serta jadwalkan blok fokus tepat setelah pulang kerja atau pagi-pagi sekali sebelum berangkat kerja."
         }
       }
     ]

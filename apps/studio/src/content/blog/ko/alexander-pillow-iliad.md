@@ -8,7 +8,7 @@ tags: ["위습관","루틴"]
 heroImage: "/images/blog/alexander_pillow_iliad.png"
 app: "buildself"
 formatVersion: 4
-authority: "Alexander Pillow Iliad 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+authority: "플루타르코스 『영웅전(Life of Alexander)』 역사적 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
 steps:
   - name: "비전 서적 선정 및 배치"
     text: "내가 지향하고자 하는 최고의 정체성과 비전을 자극해 줄 한 권의 책을 선택하여 침대 머리맡에 두고 스마트폰을 완전히 치웁니다."
@@ -28,9 +28,9 @@ faqs:
 
 스무 살의 젊은 나이에 왕위에 올라 마케도니아에서 인도 접경에 이르는 광활한 인류 역사상 전무후무한 대제국을 건설했던 정복 군주 알렉산드로스 대왕. 그는 뛰어난 지략과 용맹성으로 수많은 전투를 치렀지만, 그만큼 가혹한 심리적 긴장과 도전에 직면해야 했습니다.
 
-그가 거대한 불안감을 다스리고 아킬레우스와 같은 용기를 얻은 최고의 비결은 바로 그의 베개 밑에 숨겨져 있었습니다. 알렉산드로스는 그리스 철학의 정수인 아리스토텔레스로부터 손수 교정본을 받은 호메로스의 서사시 '일리아스' 책을 늘 애지중지했습니다. 그는 전장에서 텐트를 치고 잘 때도 이 일리아스를 단검과 함께 베개 밑에 고이 접어 보관하며 매일 밤 잠들기 전 정독했습니다. 고전 서사시를 정독하며 대왕은 마음속의 두려움을 몰아내고 내일의 영웅으로 각성할 준비를 매일 밤 마쳤던 것입니다.
+그가 거대한 불안감을 다스리고 아킬레우스와 같은 용기를 얻은 최고의 비결은 바로 그의 베개 밑에 숨겨져 있었습니다. 알렉산드로스는 그리스 철학의 정수인 아리스토텔레스로부터 손수 교정본을 받은 호메로스의 서사시 '일리아스' 책을 늘 애지중지했습니다. 그는 전장에서 텐트를 치고 잘 때도 이 일리아스를 단검과 함께 베개 밑에 두고 매일 밤 정독했습니다. 고전 서사시를 정독하며 대왕은 마음속의 두려움을 몰아내고 내일의 영웅으로 각성할 준비를 매일 밤 마쳤던 것입니다.
 
-오늘 BuildSelf에서는 알렉산드로스의 '베개 밑 일리아스' 루틴의 과학적 근거와 목표를 잃어버리기 쉬운 현대인들이 잠재의식을 활용해 의지력을 정립하는 방법을 소개합니다.
+오늘 포스트에서는 알렉산드로스의 '베개 밑 일리아스' 루틴의 과학적 근거와 목표를 잃어버리기 쉬운 현대인들이 잠재의식을 활용해 의지력을 정립하는 방법을 소개합니다.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -39,7 +39,7 @@ faqs:
       역사적 및 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Alexander Pillow Iliad 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 alexander-pillow-iliad 루틴을 다룹니다.
+      본 콘텐츠는 <strong>플루타르코스 『영웅전(Life of Alexander)』 역사적 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 alexander-pillow-iliad 루틴을 다룹니다.
     </p>
   </div>
 </div>

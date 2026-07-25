@@ -8,7 +8,7 @@ tags: ["위습관","루틴"]
 heroImage: "/images/blog/angelou_hotel_isolation.png"
 app: "buildself"
 formatVersion: 4
-authority: "Angelou Hotel Isolation 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+authority: "마야 안젤루 자서전 기록 & 메이슨 커리 『리추얼(Daily Rituals)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
 steps:
   - name: "오직 몰입 작업만을 위한 전용 공간 지정하기"
     text: "특정 책상이나 도서관 좌석, 혹은 정돈된 방 한 구석을 나만의 몰입 구역으로 지정하세요. 이 공간에서는 휴식이나 휴대전화 사용을 금지하고 엄격히 집중 작업에만 활용합니다."
@@ -22,7 +22,13 @@ faqs:
 
 ---
 
-역사상 가장 전설적인 시인이자 인권 운동가인 마야 안젤루는 집필에 깊이 몰입하기 위해 매일 아침 6시 30분에 근처 호텔 방으로 들어갔습니다. 그녀는 호텔 직원에게 벽에 걸린 그림과 장식을 모두 치워 달라고 요청하고 최소한의 도구만 남겼습니다. BuildSelf와 함께 자극 없는 빈 공간이 뇌의 집중력을 어떻게 극적으로 끌어올리는지 알아봅니다.
+"명작은 우연히 태어나지 않는다. 오직 집요한 몰입과 자기 규율 속에서 피어날 뿐이다." 🖋️
+
+자서전 『새장에 갇힌 새가 왜 노래하는지 나는 아네』를 비롯해 시대를 울린 명작을 남기며, 인종차별과 유년기의 깊은 상처를 극복하고 미국 문학사상 가장 위대한 시인이자 인권 운동가로 거듭난 마야 안젤루(Maya Angelou). 그녀는 극심한 세상의 소음과 자극 속에서도 어떻게 오롯이 자신의 내면에 집중하여 불후의 문장들을 써 내려갈 수 있었을까요?
+
+안젤루는 완벽한 집필 몰입 환경을 구축하기 위해 매일 아침 6시 30분, 집 근처의 작은 호텔 방으로 향했습니다. 그녀는 호텔 직원에게 벽에 걸린 모든 그림과 장식을 치워달라고 요청하여 시각적 자극을 완전히 차단한 빈 방을 만들었습니다. 그곳에는 오직 차 한 잔, 노란 법률 서식지(Legal Pad), 셰익스피어 시집, 그리고 도수가 높은 술 한 병과 담배라는 최소한의 도구만 존재했습니다. 가정과 사회의 모든 인지적 소음으로부터 자신을 격리한 이 엄격한 루틴이 바로 그녀의 문학적 영감을 극대화한 몰입 요새였습니다.
+
+오늘 포스트에서는 마야 안젤루의 '호텔 격리 집필' 루틴에 담긴 환경 자극 통제와 전두엽 인지 에너지 보존의 뇌과학적 원리를 분석하고, 현대인이 일상에서 몰입 환경을 구축할 수 있는 3단계 가이드를 소개합니다.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -31,7 +37,7 @@ faqs:
       역사적 및 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Angelou Hotel Isolation 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 angelou-hotel-isolation 루틴을 다룹니다.
+      본 콘텐츠는 <strong>마야 안젤루 자서전 기록 & 메이슨 커리 『리추얼(Daily Rituals)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 angelou-hotel-isolation 루틴을 다룹니다.
     </p>
   </div>
 </div>

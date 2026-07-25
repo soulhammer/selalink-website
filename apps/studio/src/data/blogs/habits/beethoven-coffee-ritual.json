@@ -1,62 +1,214 @@
 {
   "beethoven-coffee-ritual": {
     "title": {
-      "ko": "매일 아침 원두 60알을 세어 커피를 내린 작곡가? 베토벤의 집중력 의식"
+      "ko": "원두 60알의 정교함: 베토벤의 아침 커피 리추얼과 마인드풀니스",
+      "en": "Precision of 60 Coffee Beans: Beethoven's Morning Coffee Ritual and Mindfulness",
+      "ja": "コーヒー豆60粒の精緻さ：ベートーヴェンの朝のコーヒーリチュアルとマインドフルネス",
+      "zh": "60粒咖啡豆的精密：贝多芬的晨间咖啡仪式与正念",
+      "es": "La Precisión de 60 Granos de Café: El Ritual Matutino de Café y Mindfulness de Beethoven",
+      "de": "Die Präzision von 60 Kaffeebohnen: Beethovens morgendliches Kaffeeritual und Achtsamkeit",
+      "fr": "La précision de 60 grains de café : Le rituel caféier matinal et le mindfulness de Beethoven",
+      "pt": "A Precisão de 60 Grãos de Café: O Ritual Matinal de Café e Mindfulness de Beethoven",
+      "id": "Presisi 60 Biji Kopi: Ritual Kopi Pagi dan Mindfulness ala Beethoven"
     },
     "description": {
-      "ko": "시대를 초월한 위대한 작곡가 루트비히 판 베토벤. 매일 아침 정확히 60알의 원두를 세며 마음을 정돈했던 그의 독특한 루틴과 뇌를 깨우는 마인드풀니스 실천법을 알아봅니다."
+      "ko": "시대를 초월한 위대한 작곡가 루트비히 판 베토벤이 매일 아침 정확히 60알의 원두를 세어 커피를 내린 독특한 습관. 미세 감각 조작이 디폴트 모드 네트워크(DMN)를 안정시키고 뇌의 몰입 스위치를 켜는 신경과학적 원리를 규명합니다.",
+      "en": "Discover Ludwig van Beethoven's unique routine of counting exactly 60 coffee beans every morning, and explore the neuroscientific mechanism where fine sensory control calms the Default Mode Network (DMN) and flips the brain's focus switch.",
+      "ja": "時代を超えた偉大な作曲家ルートヴィヒ・ヴァン・ベートーヴェンが毎朝正確に60粒のコーヒー豆を数えて淹れた独自の習慣。微細な感覚調節がデフォルト・モード・ネットワーク（DMN）を安定させ、脳の没頭スイッチを入れる神経科学的原理を解き明かします。",
+      "zh": "探索跨越时代的伟大作曲家路德维希·凡·贝多芬每天清晨精准数出60粒咖啡豆冲泡咖啡的独特习惯，并揭示微细感官控制如何稳定预设模式网络（DMN）并开启大脑专注开关的神经科学原理。",
+      "es": "Descubra el hábito único de Ludwig van Beethoven, quien contaba exactamente 60 granos de café cada mañana, y explore el mecanismo neurocientífico donde el control sensorial fino calma la Red por Defecto (DMN) y activa el enfoque mental.",
+      "de": "Entdecken Sie die einzigartige Gewohnheit von Ludwig van Beethoven, der jeden Morgen genau 60 Kaffeebohnen abzählte, und erkunden Sie den neurowissenschaftlichen Mechanismus, bei dem feine sensorische Kontrolle das Default Mode Network (DMN) beruhigt und den gehirneigenen Fokus-Schalter umlegt.",
+      "fr": "Découvrez l'habitude unique de Ludwig van Beethoven qui comptait exactement 60 grains de café chaque matin, et explorez le mécanisme neuroscientifique où le contrôle sensoriel fin calme le réseau en mode par défaut (DMN) et active l'hyperfocus.",
+      "pt": "Descubra o hábito único de Ludwig van Beethoven de contar exatamente 60 grãos de café todas as manhãs e explore o mecanismo neurocientífico em que o controle sensorial fino acalma a Rede de Modo Padrão (DMN) e ativa o foco mental.",
+      "id": "Pelajari kebiasaan unik Ludwig van Beethoven yang menghitung persis 60 biji kopi setiap pagi, dan temukan mekanisme neurosains di mana kontrol sensorik halus menenangkan Default Mode Network (DMN) dan mengaktifkan sakelar fokus otak."
     },
     "authority": {
-      "ko": "안톤 쉰들러 『베토벤 평전(Biography of Ludwig van Beethoven)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+      "ko": "안톤 쉰들러 평전 『베토벤 평전(Biography of Ludwig van Beethoven)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+      "en": "Historical Verification from Anton Schindler's Biography *Biography of Ludwig van Beethoven* & Cognitive Neuroscience Research",
+      "ja": "アントン・シンドラー伝記『ベートーヴェン全集（Biography of Ludwig van Beethoven）』考証＆認知神経科学（Cognitive Neuroscience）研究",
+      "zh": "安东·辛德勒传记《贝多芬传（Biography of Ludwig van Beethoven）》考证与认知神经科学（Cognitive Neuroscience）研究",
+      "es": "Verificación Histórica de la Biografía de Anton Schindler *Biografía de Ludwig van Beethoven* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)",
+      "de": "Historische Überprüfung aus Anton Schindlers Biografie *Ludwig van Beethoven* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)",
+      "fr": "Vérification Historique issue de la biographie d'Anton Schindler *Biographie de Ludwig van Beethoven* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)",
+      "pt": "Verificação Histórica da Biografia de Anton Schindler *Biografia de Ludwig van Beethoven* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)",
+      "id": "Verifikasi Historis dari Biografi Anton Schindler *Biography of Ludwig van Beethoven* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"
     },
     "intro": {
-      "ko": "청각 장애라는 음악가에게 사형 선고와도 같은 시련을 극복하고 《운명 교향곡》, 《합창 교향곡》 등 인류 역사상 가장 위대한 선율을 탄생시킨 작곡가, 루트비히 판 베토벤. 평생 동안 불같은 성격과 예술가적 예민함을 보였던 그가 아침에 눈을 떠 작곡을 시작하기 전, 매우 차분하고 엄격하게 치렀던 기묘한 행동을 알고 계신가요? ☕\n\n그것은 바로 커피 원두를 정확히 '60알' 세어서 내리는 아침 커피 의식이었습니다. 베토벤은 커피의 맛과 향에 무척 예민했고 완벽한 비율을 고집했습니다. 그는 유리를 달구어 사이폰식으로 커피를 추출했는데, 매일 아침 유리관 안을 들여다보며 손끝으로 생원두를 딱 60알 세어서 분쇄기에 넣었습니다. 귀한 손님이 방문했을 때도 한 잔당 정확히 60알이라는 엄격한 규칙을 단 한 알의 오차도 없이 고수했습니다. 이 60알의 원두를 세는 시간은 그에게 단순한 음료 준비가 아닌, 어수선한 외부 소음으로부터 마음을 닫고 고요히 자신의 내면 음악 세계로 들어가는 신성한 아침의 진입로였습니다.\n\n오늘 포스트에서는 베토벤의 기묘한 원두 60알 의식 속에 깃든 과학적 비밀과 이를 통해 하루의 몰입도를 극대화하는 아침 리추얼 설계법을 소개합니다."
+      "ko": "\"음악은 남성의 마음에서 불을 뿜어내야 하고, 여성의 눈에서 눈물을 흘리게 해야 한다.\" ☕\n\n청각 장애라는 음악가로서 절망적인 시련 속에서도 《운명 교향곡》, 《합창 교향곡》, 《장엄 미사》 등 인류 역사상 가장 위대한 불멸의 선율을 써 내려간 음악의 거장 루트비히 판 베토벤(Ludwig van Beethoven, 1770–1827). 고전주의를 완결짓고 낭만주의의 문을 연 그는, 불같은 성격과 극도의 예민함 속에서도 창작의 순간만큼은 놀라울 정도의 차분함과 정교함을 유지했습니다.\n\n그 비밀은 바로 매일 아침 작곡에 들어가기 전 치렀던 엄격한 '원두 60알 커피 리추얼'에 있었습니다. 베토벤은 커피의 풍미에 매우 까다로워 한 잔을 추출할 때 손끝으로 생원두를 딱 60알 세어서 분쇄기에 넣었습니다. 귀한 손님이 와도 이 '60알'의 규칙을 단 한 알의 오차도 없이 지켰습니다. 귀가 어두워지며 외부 세상과의 소통이 차단되었던 그에게, 60알의 원두를 세는 둔탁하고도 세밀한 감각적 시간은 불안을 잠재우고 내면의 음악적 사유로 진입하는 거룩한 아침의 각성 통로였습니다.\n\n오늘 포스트에서는 베토벤의 기묘한 원두 60알 의식 속에 깃든 뇌과학적 원리를 분석하고, 현대인이 하루의 몰입도를 극대화할 수 있는 3단계 아침 리추얼 실천 방안을 소개합니다.",
+      "en": "\"Music should strike fire from the heart of man, and bring tears to the eyes of woman.\" ☕\n\nLudwig van Beethoven (1770–1827) was a musical titan who, despite the catastrophic ordeal of hearing loss, composed immortal masterpieces such as Symphony No. 5 ('Fate'), Symphony No. 9 ('Choral'), and 'Missa Solemnis'. Bridging the Classical era and Romanticism, he was famous for his fiery temperament and extreme sensitivity; yet, at the moment of creation, he maintained astonishing calm and precision.\n\nThe secret lay in his strict morning '60-bean coffee ritual' performed right before composing. Uncompromising about his coffee's flavor, Beethoven meticulously counted out exactly 60 raw beans by hand for every single cup before placing them into the grinder. Even when entertaining honored guests, he observed this '60-bean' rule without a single bean's deviation. For a man whose connection to the outer world was waning due to deafness, those tactile moments spent counting 60 beans served as a sacred morning gateway—soothing anxiety and transitioning his mind into inner musical creation.\n\nIn today's post, we analyze the brain science embedded in Beethoven's curious 60-bean ritual and present a 3-step practical guide for modern individuals to maximize daily focus through a morning ritual.",
+      "ja": "「音楽は男の心から火を打ち出し、女の目から涙を流させなければならない。」 ☕\n\n聴覚障害という音楽家にとって絶望的な試練の中でも『運命交響曲』、『合唱交響曲』、『ミサ・ソレムニス』など人類史上最も偉大な不滅の旋律を紡ぎ出した音楽の巨匠、ルートヴィヒ・ヴァン・ベートーヴェン（Ludwig van Beethoven、1770–1827）。古典派を完成させロマン派の扉を開いた彼は、激しい性格と極度の神経質さの中でも、創作の瞬間だけは驚くほどの平静さと精緻さを維持しました。\n\nその秘密は、毎朝作曲に入る前に行っていた厳格な「コーヒー豆60粒リチュアル」にありました。ベートーヴェンはコーヒーの風味に非常にこだわり、1杯を抽出する際、指先で生のコーヒー豆を正確に60粒数えてミルに入れました。貴賓が訪れた際も、この「60粒」のルールをたった1粒の誤差もなく守り抜きました。耳が不自由になり外部世界との途絶を感じていた彼にとって、60粒の豆を数える素朴で繊細な感覚の時間は、不安を鎮め内面の音楽的思考へと進入する聖なる朝の覚醒経路でした。\n\n本日の記事では、ベートーヴェンの奇妙な60粒の豆の儀式に秘められた脳科学的原理を分析し、現代人が1日の没頭度を極大化できる3ステップの朝のリチュアル実践方案を紹介します。",
+      "zh": "“音乐应当使男人的心灵吐露火花，使女人的双眼流出泪水。” ☕\n\n面对听力丧失这一对音乐家而言致命的试炼，路德维希·凡·贝多芬（Ludwig van Beethoven，1770–1827）依然创作出了《命运交响曲》、《合唱交响曲》、《庄严弥赛亚》等人类历史上最伟大的不朽旋律。作为终结古典主义并开启浪漫主义的大师，他在烈火般的脾气与极度敏感中，却在创作时刻保持着令人惊叹的平静与严谨。\n\n其中的秘密就在于他每天清晨进入作曲状态前执行的严苛“60粒咖啡豆仪式”。贝多芬对咖啡的风味极其挑剔，每冲泡一杯，都会用指尖精确数出60粒生咖啡豆放入研磨机中。即便贵客临门，他也绝不容许“60粒”的规则出现哪怕一粒的偏差。对于听觉逐渐失聪、与外界沟通受阻的他而言，数60粒咖啡豆的触觉时光是抚平焦虑、通向内心音乐思维的圣洁晨间觉醒通道。\n\n在今天的文章中，我们将分析贝多芬这套独特的60粒咖啡豆仪式背后的脑科学原理，并为现代人提供通过晨间仪式最大化每日专注力的3步骤实践方案。",
+      "es": "\"La música debe hacer saltar fuego del alma del hombre y lágrimas de los ojos de la mujer.\" ☕\n\nLudwig van Beethoven (1770–1827) fue un titán de la música que, a pesar de la catastrófica prueba de la sordera, compuso obras maestras inmortales como la Sinfonía n.º 5 ('Del Destino'), la Sinfonía n.º 9 ('Coral') y la 'Missa Solemnis'. Uniendo el Clasicismo y el Romanticismo, era famoso por su temperamento apasionado y su extrema sensibilidad; sin embargo, en el momento de la creación, mantenía una calma y precisión asombrosas.\n\nEl secreto residía en su estricto 'ritual de café de 60 granos' cada mañana antes de componer. Inflexible con el sabor del café, Beethoven contaba meticulosamente a mano exactamente 60 granos de café para cada taza antes de molerlos. Incluso al recibir a invitados distinguidos, mantenía esta regla sin la variación de un solo grano. Para un hombre cuya conexión con el mundo exterior se debilitaba debido a la sordera, esos momentos táctiles contando 60 granos sirvieron como una entrada sagrada matutina: calmar la ansiedad y conducir su mente hacia la creación musical interior.\n\nEn la publicación de hoy, analizamos la ciencia cerebral del curioso ritual de 60 granos de Beethoven y presentamos un plan práctico de 3 pasos para que las personas modernas maximicen su enfoque diario a través de un ritual matutino.",
+      "de": "\"Musik sollte Feuer aus dem Geist des Mannes schlagen und Tränen aus den Augen der Frau treiben.\" ☕\n\nLudwig van Beethoven (1770–1827) war ein musikalischer Titan, der trotz des katastrophalen Schicksals der Ertaubung unsterbliche Meisterwerke wie die 5. Sinfonie ('Schicksalssinfonie'), die 9. Sinfonie ('Chorsinfonie') und die 'Missa Solemnis' schuf. Als Brückenbauer zwischen Klassik und Romantik war er für sein feuriges Temperament und seine extreme Sensibilität bekannt; im Moment des Schaffens bewahrte er jedoch eine erstaunliche Ruhe und Präzision.\n\nDas Geheimnis lag in seinem strengen morgendlichen '60-Bohnen-Kaffeeritual' direkt vor dem Komponieren. Kompromisslos beim Kaffeegeschmack zählte Beethoven vor dem Mahlen für jede Tasse akribisch genau 60 Kaffeebohnen von Hand ab. Selbst beim Empfang von Ehrengästen befolgte er diese '60-Bohnen'-Regel ohne Abweichung einer einzigen Bohne. Für einen Mann, dessen Verbindung zur Außenwelt durch die Taubheit schwand, dienten diese haptischen Momente des Bohnenzählens als heiliges morgendliches Tor – um Ängste zu beruhigen und seinen Geist in die innere musikalische Kreation zu überführen.\n\nIm heutigen Beitrag analysieren wir die Neurowissenschaft hinter Beethovens merkwürdigem 60-Bohnen-Ritual und stellen einen praktischen 3-Schritte-Leitfaden vor, mit dem moderne Menschen ihren täglichen Fokus durch ein Morgenritual maximieren können.",
+      "fr": "« La musique doit faire jaillir le feu du cœur de l'homme et faire couler des larmes des yeux de la femme. » ☕\n\nLudwig van Beethoven (1770–1827) était un géant de la musique qui, malgré l'épreuve tragique de la surdité, a composé des chefs-d'œuvre immortels tels que la 5e Symphonie (« Du Destin »), la 9e Symphonie (« Avec Chœur ») et la « Missa Solemnis ». Unissant le classicisme et le romantisme, il était célèbre pour son tempérament emporté et son extrême sensibilité ; pourtant, au moment de la création, il faisait preuve d'un calme et d'une précision stupéfiants.\n\nLe secret résidait dans son strict « rituel du café aux 60 grains » chaque matin avant de composer. Inflexible sur le goût du café, Beethoven comptait méticuleusement à la main exactement 60 grains de café par tasse avant de les moudre. Même lorsqu'il recevait des invités de marque, il respectait cette règle des « 60 grains » sans le moindre écart. Pour un homme dont le lien avec le monde extérieur s'amenuisait en raison de sa surdité, ces instants tactiles à compter 60 grains servaient de porte d'entrée matinale sacrée : apaiser l'anxiété et guider son esprit vers la création musicale intérieure.\n\nDans l'article d'aujourd'hui, nous analysons la science cérébrale du curieux rituel de 60 grains de Beethoven et proposons un guide pratique en 3 étapes permettant aux individus modernes de maximiser leur concentration quotidienne grâce à un rituel matinal.",
+      "pt": "\"A música deve fazer jorrar fogo do coração do homem e lágrimas dos olhos da mulher.\" ☕\n\nLudwig van Beethoven (1770–1827) foi um gigante da música que, apesar do terrível desafio da surdez, compôs obras-primas imortais como a 5ª Sinfonia ('Do Destino'), a 9ª Sinfonia ('Coral') e a 'Missa Solemnis'. Unindo o Clássico e o Romantismo, ele era famoso por seu temperamento forte e extrema sensibilidade; no entanto, no momento da criação, mantinha uma calma e precisão impressionantes.\n\nO segredo residia em seu rigoroso 'ritual de café de 60 grãos' todas as manhãs antes de compor. Exigente com o sabor do café, Beethoven contava meticulosamente à mão exatamente 60 grãos de café para cada xícara antes de moê-los. Mesmo ao receber convidados ilustres, ele mantinha essa regra sem a variação de um único grão. Para um homem cuja conexão com o mundo exterior enfraquecia devido à surdez, aqueles momentos táticos contando 60 grãos serviam como um portal matinal sagrado: acalmar a ansiedade e conduzir sua mente para a criação musical interior.\n\nNo artigo de hoje, analisamos a ciência cerebral por trás do curioso ritual de 60 grãos de Beethoven e apresentamos um guia prático de 3 passos para que as pessoas modernas maximizem seu foco diário por meio de um ritual matinal.",
+      "id": "\"Musik harus menyalakan api dari jiwa pria, dan meneteskan air mata dari mata wanita.\" ☕\n\nLudwig van Beethoven (1770–1827) adalah raksasa musik yang, terlepas dari cobaan berat berupa ketulian, menciptakan mahakarya abadi seperti Simfoni No. 5 ('Takdir'), Simfoni No. 9 ('Koral'), dan 'Missa Solemnis'. Menjembatani era Klasik dan Romantis, ia terkenal dengan temperamennya yang berapi-api dan sensitivitas yang tinggi; namun, pada saat berkreasi, ia mempertahankan ketenangan dan presisi yang luar biasa.\n\nRahasianya terletak pada 'ritual kopi 60 biji' yang ketat setiap pagi sebelum menggubah musik. Sangat tegas soal rasa kopi, Beethoven menghitung secara teliti dengan tangannya tepat 60 biji kopi mentah untuk setiap cangkir sebelum dimasukkan ke dalam penggiling. Bahkan saat menyambut tamu kehormatan, ia mematuhi aturan '60 biji' ini tanpa penyimpangan satu biji pun. Bagi seorang pria yang hubungannya dengan dunia luar melemah akibat ketulian, momen taktil yang dihabiskan untuk menghitung 60 biji berfungsi sebagai pintu gerbang pagi yang sakral—meredakan kecemasan dan mengalihkan pikirannya ke dalam kreasi musik batin.\n\nDalam postingan hari ini, kami menganalisis sains otak di balik ritual 60 biji kopi Beethoven yang unik dan menyajikan panduan praktis 3 langkah bagi masyarakat modern untuk memaksimalkan fokus harian melalui ritual pagi."
     },
     "whyTitle": {
-      "ko": "전두엽을 깨우는 마인드풀니스와 '인지적 프레이밍'"
+      "ko": "미세 감각 집중을 통한 DMN 과활성화 억제와 인지적 프레이밍",
+      "en": "Suppression of DMN Hyper-activation and Cognitive Framing via Fine Sensory Focus",
+      "ja": "微細感覚集中によるDMN過剰活性化の抑制と認知的フレーミング",
+      "zh": "通过微细感官专注抑制DMN过度激活与认知框架构建",
+      "es": "Supresión de la Hiperactivación de la DMN y Enmarcado Cognitivo Mediante Enfoque Sensorial Fino",
+      "de": "Unterdrückung von DMN-Hyperaktivierung und kognitivem Framing durch feine sensorische Fokussierung",
+      "fr": "Suppression de l'hyperactivation du DMN et cadrage cognitif via une focalisation sensorielle fine",
+      "pt": "Supressão da Hiperativação da DMN e Enquadramento Cognitivo via Foco Sensorial Fino",
+      "id": "Penekanan Hiperaktivasi DMN dan Framing Kognitif Melalui Fokus Sensorik Halus"
     },
     "whyDesc": {
-      "ko": "손끝으로 작고 둥근 원두의 촉감을 느끼며 숫자를 하나하나 세는 정교한 행동은 뇌과학적으로 훌륭한 '마인드풀니스(Mindfulness, 마음챙김)' 훈련입니다.\n\n우리가 아침에 눈을 뜨면 뇌는 어제 끝내지 못한 걱정거리나 오늘 해야 할 복잡한 업무 계획을 연상하며 디폴트 모드 네트워크(DMN)를 과도하게 활성화시킵니다. 이 상태는 뇌의 에너지를 낭비하고 은연중에 불안을 유발합니다. 이때 베토벤의 원두 세기처럼 단순하고 세밀한 신체적 감각과 동작에 온전히 의식을 집중하면, DMN의 과활성화가 억제되고 현재 순간의 뇌 감각 영역이 깨어납니다. 또한 매일 똑같은 행동 의식을 거치는 것은 뇌에 '이제 고도의 집중 상태로 진입한다'는 프레임을 씌워주는 인지적 트리거로 작동합니다."
+      "ko": "아침 기상 직후 뇌는 어제의 걱정이나 오늘의 과제를 떠올리며 '디폴트 모드 네트워크(DMN)'를 과도하게 가동시켜 인지 에너지를 낭비하고 불안감을 높입니다. 이때 손끝으로 작고 둥근 원두의 촉감을 느끼며 숫자를 세는 정교한 미세 모터 동작(Fine Motor Task)은 뇌의 주의를 '현재의 감각'으로 강제로 전환시키는 훌륭한 마인드풀니스(Mindfulness) 훈련이 됩니다. 이는 DMN의 방황하는 잡념을 잠재우고 감각 피질과 집행 제어 네트워크를 일깨웁니다. 또한 매일 동일하게 수행되는 이 동작은 뇌에 '이제 고도의 창작 모드로 들어간다'는 신호를 보내는 강력한 인지적 트리거(Cognitive Trigger)로 작용합니다.",
+      "en": "Right after waking up in the morning, the brain often overactivates the Default Mode Network (DMN) by recalling yesterday's worries or today's tasks, wasting cognitive energy and raising anxiety. At this moment, a precise fine motor task—such as feeling the tactile texture of small, round coffee beans and counting them one by one—serves as an excellent mindfulness exercise that forcefully shifts the brain's focus to the 'present sense'. This quiets the wandering thoughts of the DMN and awakens the sensory cortex and executive control networks. Furthermore, performing this identical sequence daily acts as a powerful cognitive trigger, signaling to the brain that it is now entering a state of high-level creative focus.",
+      "ja": "朝の起床直後、脳は昨日の心配事や今日の課題を思い浮かべて「デフォルト・モード・ネットワーク（DMN）」を過剰に稼働させ、認知エネルギーを浪費し不安感を高めがちです。この時、指先で小さく丸いコーヒー豆の触感を感じながら数字を数える精緻な微細モータートレーニング（Fine Motor Task）は、脳の注意を「現在の感覚」へと強制的に転換させる素晴らしいマインドフルネス（Mindfulness）の訓練となります。これはDMNの彷徨う雑念を静め、感覚皮質と執行制御ネットワークを呼び醒まします。また、毎日同様に遂行されるこの動作は、脳に「これから高度な創作モードに入る」という信号を送る強力な認知的トリガー（Cognitive Trigger）として作用します。",
+      "zh": "清晨刚起床时，大脑常常通过回忆昨天的烦恼或今天的任务过度激活“预设模式网络（DMN）”，从而浪费认知能量并加剧焦虑。此时，用指尖感受小巧圆润的咖啡豆触感并逐一数数的精细动作（Fine Motor Task），是一项绝佳的正念（Mindfulness）训练，能够强行将大脑的注意力转移至“当下感官”。这能压制DMN漫游的杂念，唤醒感官皮层与执行控制网络。此外，每天重复相同动作犹如一个强大的认知触发器（Cognitive Trigger），向大脑发出“即将进入高阶创作模式”的信号。",
+      "es": "Justo después de despertarse por la mañana, el cerebro a menudo hiperactiva la Red por Defecto (DMN) al recordar las preocupaciones de ayer o las tareas de hoy, desperdiciando energía cognitiva y aumentando la ansiedad. En este momento, una tarea motora fina y precisa (Fine Motor Task) —como sentir la textura táctil de los granos de café y contarlos uno a uno— sirve como un excelente ejercicio de mindfulness que traslada por la fuerza el enfoque del cerebro hacia el 'sentido presente'. Esto calma los pensamientos errantes de la DMN y despierta la corteza sensorial y las redes de control ejecutivo. Además, realizar esta secuencia idéntica a diario actúa como un potente disparador cognitivo (Cognitive Trigger), señalando al cerebro que está ingresando a un estado de enfoque creativo de alto nivel.",
+      "de": "Gleich nach dem Aufstehen am Morgen überaktiviert das Gehirn oft das Default Mode Network (DMN), indem es sich an die Sorgen von gestern oder die Aufgaben von heute erinnert, was kognitive Energie verschwendet und Ängste schürt. In diesem Moment dient eine präzise feinmotorische Aufgabe (Fine Motor Task) – wie das Fühlen der haptischen Textur kleiner, runder Kaffeebohnen und deren einzelnes Zählen – als hervorragende Achtsamkeitsübung, die den Fokus des Gehirns gewaltsam auf die 'Gegenwart' lenkt. Dies beruhigt die schweifenden Gedanken des DMN und weckt den sensorischen Kortex sowie die exekutiven Steuerungsnetzwerke. Darüber hinaus wirkt die tägliche Ausführung dieser identischen Sequenz als mächtiger kognitiver Auslöser (Cognitive Trigger), der dem Gehirn signalisiert, dass es nun in einen Zustand hoher kreativer Konzentration eintritt.",
+      "fr": "Juste après le réveil le matin, le cerveau suractive souvent le réseau en mode par défaut (DMN) en se remémorant les soucis de la veille ou les tâches du jour, gaspillant de l'énergie cognitive et augmentant l'anxiété. À ce moment, une tâche motrice fine et précise (Fine Motor Task) — comme ressentir la texture tactile de petits grains de café et les compter un par un — sert d'excellent exercice de mindfulness qui déplace de force la focalisation du cerveau vers le « sens présent ». Cela apaise les pensées vagabondes du DMN et éveille le cortex sensoriel et les réseaux de contrôle exécutif. De plus, l'exécution quotidienne de cette séquence identique agit comme un déclencheur cognitif (Cognitive Trigger) puissant, signalant au cerveau qu'il entre désormais dans un état de haute concentration créative.",
+      "pt": "Logo após acordar de manhã, o cérebro frequentemente hiperativa a Rede de Modo Padrão (DMN) ao relembrar as preocupações de ontem ou as tarefas de hoje, desperdiçando energia cognitiva e aumentando a ansiedade. Nesse momento, uma tarefa motora fina e precisa (Fine Motor Task) — como sentir a textura tátil dos pequenos grãos de café e contá-los um a um — serve como um excelente exercício de mindfulness que força o foco do cérebro para o 'sentido presente'. Isso acalma os pensamentos dispersos da DMN e desperta o córtex sensorial e as redes de controle executivo. Além disso, executar essa sequência idêntica diariamente atua como um poderoso gatilho cognitivo (Cognitive Trigger), sinalizando ao cérebro que ele está entrando em um estado de alto foco criativo.",
+      "id": "Tepat setelah bangun tidur di pagi hari, otak sering kali mengaktifkan Default Mode Network (DMN) secara berlebihan dengan mengingat kekhawatiran kemarin atau tugas hari ini, membuang-buang energi kognitif dan meningkatkan kecemasan. Pada saat ini, tugas motorik halus yang presisi (Fine Motor Task)—seperti merasakan tekstur taktil biji kopi dan menghitungnya satu per satu—berfungsi sebagai latihan mindfulness yang luar biasa yang secara paksa mengalihkan fokus otak ke 'indra saat ini'. Ini menenangkan pikiran DMN yang berkeliaran dan membangunkan korteks sensorik serta jaringan kontrol eksekutif. Selain itu, melakukan urutan identik ini setiap hari bertindak sebagai pemicu kognitif (Cognitive Trigger) yang kuat, memberi sinyal ke otak bahwa ia sekarang memasuki kondisi fokus kreatif tingkat tinggi."
     },
     "cautionTitle": {
-      "ko": "성공적인 루틴을 위한 뇌과학적 한마디"
+      "ko": "주의사항 및 팁: 정교한 아날로그 감각의 유지",
+      "en": "Caution & Tips: Preserving Refined Analog Sensory Engagement",
+      "ja": "注意事項＆ヒント：精緻なアナログ感覚の維持",
+      "zh": "注意事项与提示：保持精细的模拟感官体验",
+      "es": "Precauciones y Consejos: Mantenimiento de una Participación Sensorial Analógica Refinada",
+      "de": "Vorsichtsmaßnahmen & Tipps: Bewahrung verfeinerter analoger sensorischer Einbindung",
+      "fr": "Précautions & Conseils : Maintien d'un engagement sensoriel analogique raffiné",
+      "pt": "Precauções e Dicas: Manutenção de um Engajamento Sensorial Analógico Refinado",
+      "id": "Perhatian & Tip: Menjaga Keterlibatan Sensorik Analog yang Halus"
     },
     "cautionDesc": {
-      "ko": "<strong>하루의 몰입은 아침의 정교함에서 나옵니다</strong>\n\n바쁜 아침 시간에 허둥지둥 준비해 출근하면 하루 종일 뇌는 어수선한 상태에서 헤어 나오지 못합니다. 베토벤처럼 단 5분만이라도 나를 위해 온전한 감각에 집중하는 정교한 아침 리추얼을 고수해 보세요. 뇌를 차분하게 동기화하고 정돈해 둔 상태에서 시작하는 하루는 집중력의 깊이 자체가 완전히 다릅니다."
+      "ko": "아침 리추얼을 진행할 때 스마트폰으로 뉴스나 SNS를 확인하거나 자동 가전 버튼만 누르는 행동은 뇌의 마인드풀니스 상태 유지를 방해합니다. 손의 미세한 감각, 도구의 질감, 향기와 소리 등 아날로그 감각 자극에만 몰입해야 뇌의 인지적 동기화가 원활하게 이루어집니다.",
+      "en": "When conducting your morning ritual, checking news or social media on a smartphone or simply pressing buttons on automatic appliances hinders the brain from sustaining a mindfulness state. Immerse yourself strictly in analog sensory stimuli—such as fine hand sensations, the tactile texture of tools, aromas, and sounds—to facilitate smooth cognitive synchronization in the brain.",
+      "ja": "朝のリチュアルを行う際、スマートフォンでニュースやSNSを確認したり、自動家電のボタンを押すだけの行動は、脳のマインドフルネス状態の維持を妨げます。手の微細な感覚、道具の質感、香りや音など、アナログな感覚刺激にのみ没頭することで、脳の認知的同期がスムーズに行われます。",
+      "zh": "在执行晨间仪式时，用手机查看新闻或社交媒体，或者仅按下自动化家电按钮，都会阻碍大脑维持正念状态。请完全沉浸于模拟感官刺激中（如手部的细微触感、器具的质感、香气与声音），如此才能顺畅地实现大脑的认知同步。",
+      "es": "Al realizar su ritual matutino, consultar noticias o redes sociales en un teléfono inteligente o simplemente presionar botones en electrodomésticos automáticos impide que el cerebro mantenga un estado de mindfulness. Sumérjase estrictamente en estímulos sensoriales analógicos —como las sensaciones finas de las manos, la textura táctil de los utensilios, los aromas y los sonidos— para facilitar una sincronización cognitiva fluida en el cerebro.",
+      "de": "Wenn Sie Ihr Morgenritual durchführen, hindert das Überprüfen von Nachrichten oder sozialen Medien auf dem Smartphone oder das bloße Drücken von Knöpfen an automatischen Geräten das Gehirn daran, einen Achtsamkeitszustand aufrechtzuerhalten. Tauchen Sie strikt in analoge sensorische Reize ein – wie feine Handempfindungen, die Haptik von Werkzeugen, Aromen und Geräusche –, um eine reibungslose kognitive Synchronisation im Gehirn zu erleichtern.",
+      "fr": "Lors de votre rituel matinal, consulter les actualités ou les réseaux sociaux sur un smartphone ou simplement appuyer sur les boutons d'appareils automatiques empêche le cerveau de maintenir un état de mindfulness. Immergez-vous strictement dans des stimuli sensoriels analogiques — comme les sensations fines des mains, la texture tactile des ustensiles, les arômes et les sons — pour faciliter une synchronisation cognitive fluide dans le cerveau.",
+      "pt": "Ao realizar seu ritual matinal, checar notícias ou redes sociais no smartphone ou simplesmente apertar botões em eletrodomésticos automáticos impede o cérebro de manter um estado de mindfulness. Mergulhe estritamente em estímulos sensoriais analógicos — como as sensações finas das mãos, a textura tátil das ferramentas, aromas e sons — para facilitar uma sincronização cognitiva fluida no cérebro.",
+      "id": "Saat melakukan ritual pagi, memeriksa berita atau media sosial di smartphone atau sekadar menekan tombol pada peralatan otomatis menghambat otak untuk mempertahankan kondisi mindfulness. Tenggelamkan diri Anda secara ketat dalam stimulasi sensorik analog—seperti sensasi tangan yang halus, tekstur taktil dari alat, aroma, dan suara—untuk memfasilitasi sinkronisasi kognitif yang mulus di otak."
     },
     "steps": [
       {
         "name": {
-          "ko": "나만의 정교한 아침 리추얼 도구 세팅"
+          "ko": "1단계: 손끝 감각을 쓰는 정교한 아침 리추얼 도구 지정",
+          "en": "Step 1: Selecting Refined Morning Ritual Tools Engaging Fine Touch",
+          "ja": "ステップ1：指先の感覚を使う精緻な朝のリチュアル道具の指定",
+          "zh": "步骤1：挑选需运用指尖触感的精致晨间仪式器具",
+          "es": "Paso 1: Selección de Herramientas de Ritual Matutino Refinadas que Involucren el Tacto Fino",
+          "de": "Schritt 1: Auswahl verfeinerter Morgenritual-Werkzeuge für feine Handarbeit",
+          "fr": "Étape 1 : Sélection d'outils de rituel matinal raffinés sollicitant le toucher fin",
+          "pt": "Passo 1: Seleção de Ferramentas de Ritual Matinal Refinadas que Envolvam o Toque Fino",
+          "id": "Langkah 1: Memilih Alat Ritual Pagi yang Membutuhkan Sentuhan Halus"
         },
         "text": {
-          "ko": "인스턴트 커피나 버튼 하나로 끝나는 기계 대신, 핸드드립 도구나 차(Tea) 다기 세트처럼 손을 써서 미세 감각을 조작할 수 있는 아침 전용 도구를 선택합니다."
+          "ko": "버튼 하나로 끝나는 디지털 기기 대신 핸드드립 다기 세트, 원두 분쇄기 등 손의 미세 근육과 촉감을 직접 사용하는 아날로그 도구를 선택합니다.",
+          "en": "Instead of digital appliances operated by a single button, select analog tools—such as a manual pour-over set, tea paraphernalia, or a hand coffee grinder—that directly engage fine hand muscles and tactile sensations.",
+          "ja": "ボタン一つで終わるデジタル機器の代わりに、ハンドドリップの茶器セットや手動コーヒーミルなど、手の微細な筋肉と触感を直接使うアナログ道具を選択します。",
+          "zh": "放弃只需按下一个按钮的数字家电，选择需要直接运用手部肌肉与触感的模拟工具（如手冲咖啡具、茶具或手摇磨豆机）。",
+          "es": "En lugar de electrodomésticos digitales operados con un solo botón, seleccione herramientas analógicas —como un juego de café de goteo manual, utensilios de té o un molinillo manual— que involucren directamente los músculos finos de las manos y las sensaciones táctiles.",
+          "de": "Wählen Sie anstelle von digitalen Geräten, die per Knopfdruck bedient werden, analoge Werkzeuge – wie ein manuelles Handfilter-Set, Tee-Utensilien oder eine Handkaffeemühle –, die die Feinmotorik der Hände und taktile Empfindungen direkt einbinden.",
+          "fr": "Au lieu d'appareils numériques fonctionnant par un simple bouton, sélectionnez des outils analogiques — comme un service pour café filtre manuel, un service à thé ou un moulin à café manuel — qui sollicitent directement les muscles fins des mains et les sensations tactiles.",
+          "pt": "Em vez de eletrodomésticos digitais operados por um único botão, selecione ferramentas analógicas — como um conjunto de café coado manual, utensílios de chá ou um moedor manual — que envolvam diretamente os músculos finos das mãos e as sensações táteis.",
+          "id": "Alih-alih peralatan digital yang dioperasikan dengan satu tombol, pilihlah alat analog—seperti set pour-over manual, perlengkapan teh, atau penggiling kopi manual—yang secara langsung melibatkan otot halus tangan dan sensasi taktil."
         }
       },
       {
         "name": {
-          "ko": "5분간의 외부 자극 완벽 차단과 감각 집중"
+          "ko": "2단계: 5분간의 언어 자극 차단 및 신체 감각 집중",
+          "en": "Step 2: 5 Minutes of Eliminating Linguistic Stimuli & Focusing on Physical Senses",
+          "ja": "ステップ2：5分間の言語刺激遮断と身体感覚への集中",
+          "zh": "步骤2：5分钟切断语言刺激并专注于身体感官",
+          "es": "Paso 2: 5 Minutos de Eliminación de Estímulos Lingüísticos y Enfoque en los Sentidos Físicos",
+          "de": "Schritt 2: 5 Minuten Unterbrechung sprachlicher Reize & Fokus auf körperliche Sinne",
+          "fr": "Étape 2 : 5 minutes d'élimination des stimuli linguistiques & Focalisation sur les sens physiques",
+          "pt": "Passo 2: 5 Minutos de Eliminação de Estímulos Linguísticos e Foco nos Sentidos Físicos",
+          "id": "Langkah 2: 5 Menit Mengeliminasi Stimulus Kebahasaan & Berfokus pada Indra Fisik"
         },
         "text": {
-          "ko": "원두를 세거나 차를 우려내는 5분 동안은 스마트폰 화면을 절대 보지 않고 뉴스나 대화 같은 언어 자극을 차단합니다. 원두의 촉감, 분쇄 시의 진동, 물이 끓는 소리와 커피 향기 등 아날로그 신체 감각에만 온 의식을 집중합니다."
+          "ko": "리추얼을 수행하는 5분 동안 스마트폰과 TV 등 언어 및 시각적 자극을 차단하고, 도구의 질감, 물소리, 향기 등 신체 감각에만 의식을 집중합니다.",
+          "en": "For 5 minutes while performing your ritual, block out linguistic and visual stimuli from smartphones and TVs, focusing your awareness solely on physical senses such as tool textures, water sounds, and aromas.",
+          "ja": "リチュアルを行う5分間、スマートフォンやTVなどの言語的・視覚的刺激を遮断し、道具の質感、水の音、香りなどの身体感覚にのみ意識を集中させます。",
+          "zh": "在执行仪式的5分钟内，阻断来自手机与电视的语言及视觉刺激，将意识完全集中于器具的质感、水流声、香气等身体感官上。",
+          "es": "Durante los 5 minutos que realiza su ritual, bloquee los estímulos lingüísticos y visuales de teléfonos inteligentes y televisores, enfocando su conciencia únicamente en los sentidos físicos como la textura de los utensilios, el sonido del agua y los aromas.",
+          "de": "Schalten Sie während der 5 Minuten Ihres Rituals sprachliche und visuelle Reize von Smartphones und Fernsehern aus und richten Sie Ihre Aufmerksamkeit ausschließlich auf körperliche Sinne wie Werkzeugtexturen, Wassergeräusche und Aromen.",
+          "fr": "Pendant les 5 minutes de votre rituel, coupez les stimuli linguistiques et visuels des smartphones et télévisions, en concentrant votre conscience uniquement sur les sens physiques tels que la texture des outils, le bruit de l'eau et les arômes.",
+          "pt": "Durante os 5 minutos de realização do seu ritual, bloqueie estímulos linguísticos e visuais de smartphones e TVs, focando sua consciência unicamente nos sentidos físicos, como a textura das ferramentas, o som da água e os aromas.",
+          "id": "Selama 5 menit saat melakukan ritual, blokir stimulus kebahasaan dan visual dari smartphone dan TV, dengan memfokuskan kesadaran Anda semata-mata pada indra fisik seperti tekstur alat, suara air, dan aroma."
         }
       },
       {
         "name": {
-          "ko": "천천히 음미하며 몰입 모드 개시"
+          "ko": "3단계: 음미 후 즉각적인 핵심 과업으로의 연결",
+          "en": "Step 3: Savoring & Transitioning Immediately to the Core Task",
+          "ja": "ステップ3：味わった後の即座な核心課題への接続",
+          "zh": "步骤3：细细品味并立即过渡至核心任务",
+          "es": "Paso 3: Saborear y Transicionar Inmediatamente a la Tarea Principal",
+          "de": "Schritt 3: Genießen & Sofortiger Übergang zur Hauptaufgabe",
+          "fr": "Étape 3 : Savourer & Transition immédiate vers la tâche essentielle",
+          "pt": "Passo 3: Saborear e Transitar Imediatamente para a Tarefa Principal",
+          "id": "Langkah 3: Menikmati & Segera Beralih ke Tugas Inti"
         },
         "text": {
-          "ko": "정성껏 내린 음료를 천천히 음미하며 뇌를 정돈합니다. 이 차분해진 각성 상태를 유지한 채 즉시 하루의 가장 중요한 첫 번째 과업에 들어갑니다. 이 일련의 행동을 매일 아침 반복하면 음료의 맛과 향이 뇌에 몰입 스위치로 각인됩니다."
+          "ko": "완성된 음료를 정성껏 음미하며 정돈된 각성 상태를 확인한 뒤, 딴길로 새지 않고 곧바로 그날의 가장 중요한 '핵심 과업'에 착수합니다.",
+          "en": "Savor the prepared beverage mindfully, confirming a calibrated state of alertness, and then immediately initiate the day's most critical core task without getting side-tracked.",
+          "ja": "完成した飲み物を心を込めて味わい、整った覚醒状態を確認した後、脇道に逸れることなく直ちにその日の最も重要な「核心課題」に着手します。",
+          "zh": "用心品味制作好的饮品，在确认大脑处于平稳觉醒状态后，不分散注意力，立即投入当天最重要的“核心任务”中。",
+          "es": "Saboree la bebida preparada de forma consciente, confirmando un estado de alerta calibrado, e inicie de inmediato la tarea principal más crítica del día sin desviarse.",
+          "de": "Genießen Sie das zubereitete Getränk achtsam, bestätigen Sie den geordneten Wachezustand und beginnen Sie dann sofort mit der wichtigsten Hauptaufgabe des Tages, ohne sich ablenken zu lassen.",
+          "fr": "Savourez la boisson préparée en pleine conscience, en confirmant un état d'éveil calibré, puis initiez immédiatement la tâche essentielle la plus critique de la journée sans vous disperser.",
+          "pt": "Saboreie a bebida preparada com atenção plena, confirmando um estado de alerta calibrado, e inicie imediatamente a tarefa principal mais crítica do dia sem se distrair.",
+          "id": "Nikmati minuman yang disiapkan dengan penuh kesadaran, mengonfirmasi kondisi kewaspadaan yang terselaraskan, lalu segera mulai tugas inti paling krusial hari itu tanpa teralih perhatiannya."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "베토벤은 왜 원두 60알을 고집했나요?"
+          "ko": "베토벤은 왜 하필 정확히 원두 60알을 고집했나요?",
+          "en": "Why did Beethoven strictly insist on exactly 60 coffee beans?",
+          "ja": "ベートーヴェンはなぜよりによって正確に60粒のコーヒー豆にこだわったのですか？",
+          "zh": "贝多芬为何偏偏要坚持精准数出60粒咖啡豆？",
+          "es": "¿Por qué Beethoven insistía estrictamente en exactamente 60 granos de café?",
+          "de": "Warum bestand Beethoven strikt auf genau 60 Kaffeebohnen?",
+          "fr": "Pourquoi Beethoven insistait-il strictement sur exactement 60 grains de café ?",
+          "pt": "Por que Beethoven insistia estritamente em exatamente 60 grãos de café?",
+          "id": "Mengapa Beethoven sangat bersikeras pada persis 60 biji kopi?"
         },
         "answer": {
-          "ko": "작업 직전 아침 원두 60알을 직접 세는 단순 반복 행위를 통해 인지 에너지를 한곳으로 수렴하고 몰입의 트리거 신호로 삼기 위함이었습니다."
+          "ko": "60알이라는 엄격한 수치는 완벽한 정량화를 통해 커피의 맛을 통제하려는 목적도 있었지만, 숫자를 정밀하게 세는 행위 자체로 뇌의 무익한 잡념을 차단하고 고도의 집행 제어 네트워크를 가동하는 일종의 인지적 트리거였기 때문입니다.",
+          "en": "The strict figure of 60 beans controlled coffee taste through perfect quantification, but counting numbers precisely was itself a cognitive trigger that cut off useless wandering thoughts and activated the brain's high-level executive control network.",
+          "ja": "60粒という厳格な数値は、完璧な定量化を通じてコーヒーの味を統制する目的もありましたが、数字を精密に数える行為自体が、脳の無益な雑念を遮断し高度な執行制御ネットワークを稼働させる一種の認知的トリガーだったからです。",
+          "zh": "“60粒”这一定量标准固然有通过精准量化来把控咖啡风味的考量，但精准数数的行为本身更像是一个认知触发器，能够切断无用的杂念，激活大脑的高阶执行控制网络。",
+          "es": "La cifra estricta de 60 granos controlaba el sabor del café mediante una cuantificación perfecta, pero el acto de contar números con precisión era en sí mismo un disparador cognitivo que cortaba los pensamientos inútiles y activaba la red de control ejecutivo de alto nivel del cerebro.",
+          "de": "Die strikte Zahl von 60 Bohnen diente der Kontrolle des Kaffeegeschmacks durch perfekte Quantifizierung, aber das präzise Zählen selbst war ein kognitiver Auslöser, der unnütze wandernde Gedanken abschaltete und das hochstufige exekutive Steuerungsnetzwerk des Gehirns aktivierte.",
+          "fr": "Le chiffre strict de 60 grains contrôlait le goût du café par une quantification parfaite, mais l'acte de compter précisément était en soi un déclencheur cognitif qui coupait les pensées parasites et activait le réseau de contrôle exécutif de haut niveau du cerveau.",
+          "pt": "O número estrito de 60 grãos controlava o sabor do café por meio de uma quantificação perfeita, mas o ato de contar com precisão era em si um gatilho cognitivo que cortava pensamentos inúteis e ativava a rede de controle executivo de alto nível do cérebro.",
+          "id": "Angka ketat 60 biji kopi mengontrol rasa kopi melalui kuantifikasi sempurna, tetapi tindakan menghitung angka secara presisi itu sendiri merupakan pemicu kognitif yang memotong pikiran tak berguna dan mengaktifkan jaringan kontrol eksekutif tingkat tinggi pada otak."
+        }
+      },
+      {
+        "question": {
+          "ko": "커피를 마시지 않는 사람도 이 마인드풀니스 루틴을 적용할 수 있나요?",
+          "en": "Can non-coffee drinkers apply this mindfulness routine?",
+          "ja": "コーヒーを飲まない人もこのマインドフルネス・ルーティンを適用できますか？",
+          "zh": "不喝咖啡的人也能应用这项正念习惯吗？",
+          "es": "¿Pueden las personas que no consumen café aplicar esta rutina de mindfulness?",
+          "de": "Können Nicht-Kaffeetrinker diese Achtsamkeitsroutine anwenden?",
+          "fr": "Les personnes qui ne boivent pas de café peuvent-elles appliquer cette routine de mindfulness ?",
+          "pt": "Pessoas que não bebem café podem aplicar esta rotina de mindfulness?",
+          "id": "Apakah orang yang tidak minum kopi dapat menerapkan rutinitas mindfulness ini?"
+        },
+        "answer": {
+          "ko": "네, 가능합니다. 찻잎의 무게를 정밀하게 달거나, 아침에 찻잔을 닦아 물을 다스리는 행위, 혹은 규칙적인 스트레칭과 명상처럼 촉감과 미세 움직임에 주의를 완전히 쏟는 행동이라면 동일한 DMN 억제 및 몰입 촉진 효과를 얻을 수 있습니다.",
+          "en": "Yes, absolutely. Any action that directs full attention to touch and fine movements—such as precisely weighing tea leaves, wiping a teacup, or engaging in structured stretching and meditation—yields the same DMN-suppressing and focus-enhancing effects.",
+          "ja": "はい、可能です。茶葉の重量を精密に測定したり、朝に茶碗を拭いてお湯を整える行為、あるいは規則的なストレッチや瞑想のように、触感や微細な動きに注意を完全に注ぐ行動であれば、同様のDMN抑制および没頭促進効果を得ることができます。",
+          "zh": "当然可以。只要是能将注意力完全倾注于触感与微细动作的行为（如精准称化茶叶重量、晨间擦拭茶具以及规律的拉伸与冥想），都能获得同样的抑制DMN及促进深度专注的效果。",
+          "es": "Sí, por supuesto. Cualquier acción que dirija la atención total al tacto y a los movimientos finos —como pesar con precisión hojas de té, limpiar una taza o realizar estiramientos estructurados y meditación— produce los mismos efectos de supresión de la DMN y mejora del enfoque.",
+          "de": "Ja, absolut. Jede Handlung, die die volle Aufmerksamkeit auf Berührung und feine Bewegungen lenkt – wie das präzise Abwiegen von Teeblättern, das Auswischen einer Teetasse oder strukturiertes Dehnen und Meditieren –, erzielt dieselben DMN-unterdrückenden und fokusfördernden Effekte.",
+          "fr": "Oui, tout à fait. Toute action qui dirige une attention totale vers le toucher et les mouvements fins — comme peser précisément des feuilles de thé, essuyer une tasse ou pratiquer un étirement structuré et de la méditation — produit les mêmes effets de suppression du DMN et d'amélioration de la focalisation.",
+          "pt": "Sim, com certeza. Qualquer ação que direcione atenção total ao toque e a movimentos finos — como pesar com precisão folhas de chá, limpar uma xícara ou praticar alongamentos estruturados e meditação — produz os mesmos efeitos de supressão da DMN e aprimoramento do foco.",
+          "id": "Ya, tentu saja. Tindakan apa pun yang mengarahkan perhatian penuh pada sentuhan dan gerakan halus—seperti menimbang daun teh secara presisi, menyapu cangkir teh, atau melakukan peregangan terstruktur dan meditasi—memberikan efek penekanan DMN dan peningkatan fokus yang sama."
         }
       }
     ]

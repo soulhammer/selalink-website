@@ -8,7 +8,7 @@ tags: ["위습관","루틴"]
 heroImage: "/images/blog/asimov_project_switching.png"
 app: "buildself"
 formatVersion: 4
-authority: "아이작 아시모프 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+authority: "아이작 아시모프 자서전 『I, Asimov: A Memoir』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
 steps:
   - name: "인지적 특성이 다른 다양한 업무 준비"
     text: "뇌의 다른 피로 영역을 교차 활용하기 위해, 고도의 문장력이 요구되는 집필 업무와, 직관적인 수치 입력이 필요한 예산안 정리, 혹은 외국어 단어 암기 등 인지 회로가 중복되지 않는 2~3가지 성격의 업무를 늘 나란히 준비해 둡니다."
@@ -28,7 +28,7 @@ faqs:
 
 그것은 바로 '작업의 자율적 전환'이었습니다. 아시모프는 자신의 집무실에 여러 대의 타자기를 나란히 배치해 두고 각각 다른 주제의 프로젝트(소설, 과학 해설서, 에세이 등)를 세팅했습니다. 하나의 원고를 쓰다가 문맥이 막히거나 머리가 지루해지면, 억지로 쥐어짜며 스트레스를 받는 대신 가볍게 일어나 옆 타자기로 이동하여 전혀 다른 분야의 원고를 연이어 집필했습니다.
 
-오늘 BuildSelf에서는 아이작 아시모프의 '타자기 전환' 루틴 속에 숨겨진 인지과학적 원리와 현대인들이 한 가지 일에서 겪는 인지적 정체를 극복하고 업무 효율을 극대화하는 3단계 실천 방안을 제안합니다.
+오늘 포스트에서는 아이작 아시모프의 '타자기 전환' 루틴 속에 숨겨진 인지과학적 원리와 현대인들이 한 가지 일에서 겪는 인지적 정체를 극복하고 업무 효율을 극대화하는 3단계 실천 방안을 제안합니다.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -37,7 +37,7 @@ faqs:
       역사적 및 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>아이작 아시모프 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 asimov-project-switching 루틴을 다룹니다.
+      본 콘텐츠는 <strong>아이작 아시모프 자서전 『I, Asimov: A Memoir』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 asimov-project-switching 루틴을 다룹니다.
     </p>
   </div>
 </div>

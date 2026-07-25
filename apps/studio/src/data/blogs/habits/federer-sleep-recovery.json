@@ -1,70 +1,214 @@
 {
   "federer-sleep-recovery": {
     "title": {
-      "ko": "하루 12시간 자고 수십 개의 우승컵을 든 황제? 로저 페더러의 수면 회복 루틴"
+      "ko": "하루 10~12시간 자고 수십 개의 우승컵을 든 황제: 로저 페더러의 수면 회복 루틴과 뇌 정화 메커니즘",
+      "en": "The Emperor Who Won Dozens of Trophies Sleeping 12 Hours a Day: Roger Federer's Sleep Recovery Routine and Brain Cleansing Mechanism",
+      "ja": "1日12時間眠り数十個の優勝カップを掲げた皇帝：ロジャー・フェデラーの睡眠回復ルーティンと脳浄化メカニズム",
+      "zh": "每天睡眠12小时捧起几十座冠军奖杯的帝王：罗杰·费德勒的睡眠恢复习惯与大脑排毒机制",
+      "es": "El Emperador que Ganó Docenas de Trofeos Durmiendo 12 Horas al Día: La Rutina de Recuperación de Sueño y Limpieza Cerebral de Roger Federer",
+      "de": "Der Kaiser, der mit 12 Stunden Schlaf Dutzende Trophäen gewann: Roger Federers Schlaf-Regenerationsroutine und Gehirn-Reinigungssystem",
+      "fr": "L'empereur qui a remporté des dizaines de trophées en dormant 12 heures par jour : La routine de sommeil et de nettoyage cérébral de Roger Federer",
+      "pt": "O Imperador que Venceu Dezenas de Troféus Dormindo 12 Horas por Dia: A Rotina de Recuperação de Sono e Limpeza Cerebral de Roger Federer",
+      "id": "Kaisar yang Memenangkan Puluhan Trofi dengan Tidur 12 Jam Sehari: Rutinitas Pemulihan Tidur dan Pembersihan Otak Roger Federer"
     },
     "description": {
-      "ko": "테니스 황제 로저 페더러. 40세가 넘는 나이까지 세계 최고 기량을 유지한 비결인 하루 10~12시간 고급 수면 및 렘(REM) 수면 회복 루틴과 3단계 실천 가이드를 깊이 있게 알아봅니다."
+      "ko": "테니스 황제 로저 페더러. 40세가 넘는 나이까지 세계 최고 기량을 유지한 비결인 하루 10~12시간 고급 수면 및 렘(REM) 수면 회복 루틴과 글림프 시스템의 뇌과학적 메커니즘, 3단계 실천 가이드를 깊이 있게 알아봅니다.",
+      "en": "Discover tennis legend Roger Federer's secret to sustaining peak athletic and cognitive performance into his 40s: sleeping 10 to 12 hours a day. Explore the neuroscience of glymphatic brain cleansing, REM sleep motor consolidation, and a 3-step action guide.",
+      "ja": "テニス界の皇帝ロジャー・フェデラー。40歳を超える年齢まで世界最高峰の技量を維持した秘訣である1日10〜12時間の高級睡眠およびレム（REM）睡眠回復ルーティンとグリンパティック系の脳科学的メカニズム、3段階実践ガイドを深く解き明かします。",
+      "zh": "探索网球天王罗杰·费德勒年过四十依然维持世界顶尖竞技状态的秘诀：每天10-12小时的高品质睡眠。揭示胶质淋巴系统（Glymphatic System）排毒、快速眼动（REM）睡眠整合运动记忆的神经科学原理与3步骤实践指南。",
+      "es": "Descubra el secreto del astro del tenis Roger Federer para mantener su rendimiento pasados los 40 años: dormir de 10 a 12 horas al día. Explore la neurociencia del sistema glinfático, el sueño REM y una guía práctica de 3 pasos.",
+      "de": "Erfahren Sie das Geheimnis von Tennislegende Roger Federer, der bis über seinen 40. Geburtstag hinaus Höchstleistungen erbrachte: 10 bis 12 Stunden Schlaf pro Tag. Entdecken Sie die Neurowissenschaften des glymphatischen Systems, des REM-Schlafs und einen 3-Schritte-Plan.",
+      "fr": "Découvrez le secret du roi du tennis Roger Federer pour maintenir des performances exceptionnelles passé 40 ans : dormir 10 à 12 heures par jour. Explorez la neuroscience du système glymphatique, du sommeil REM et un guide pratique en 3 étapes.",
+      "pt": "Descubra o segredo de Roger Federer para manter o alto desempenho até os 40 anos: dormir de 10 a 12 horas por dia. Explore a neurociência do sistema glinfático, o sono REM e um guia prático de 3 passos.",
+      "id": "Temukan rahasia legenda tenis Roger Federer untuk mempertahankan performa puncak hingga usia 40-an: tidur 10 hingga 12 jam sehari. Temukan neurosains tentang sistem glimfatik, tidur REM, dan panduan aksi 3 langkah."
     },
     "authority": {
-      "ko": "크리스 보워 『로저 페더러 평전(Roger Federer: The Greatest)』 및 ATP 공식 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+      "ko": "크리스 보워 『로저 페더러 평전(Roger Federer: The Greatest)』 및 ATP 공식 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+      "en": "Historical Verification from Chris Bowers's Biography *Roger Federer: The Greatest*, ATP Official Archives & Cognitive Neuroscience Research",
+      "ja": "クリス・バウワー『ロジャー・フェデラー評伝（Roger Federer: The Greatest）』およびATP公式史料考証＆認知神経科学（Cognitive Neuroscience）研究",
+      "zh": "克里斯·鲍尔传记《罗杰·费德勒传（Roger Federer: The Greatest）》与ATP官方史料考证及认知神经科学（Cognitive Neuroscience）研究",
+      "es": "Verificación Histórica de la Biografía de Chris Bowers *Roger Federer: The Greatest*, Archivos Oficiales de la ATP e Investigación en Neurociencia Cognitiva",
+      "de": "Historische Überprüfung aus Chris Bowers' Biografie *Roger Federer: The Greatest*, offiziellen ATP-Archiven & Forschung der kognitiven Neurowissenschaften",
+      "fr": "Vérification Historique issue de la biographie de Chris Bowers *Roger Federer: The Greatest*, des archives officielles de l'ATP & de la Recherche en Neurosciences Cognitives",
+      "pt": "Verificação Histórica da Biografia de Chris Bowers *Roger Federer: The Greatest*, Arquivos Oficiais da ATP e Pesquisa em Neurociência Cognitiva",
+      "id": "Verifikasi Historis dari Biografi Chris Bowers *Roger Federer: The Greatest*, Arsip Resmi ATP & Penelitian Neurosains Kognitif"
     },
     "intro": {
-      "ko": "메이저 대회 20회 우승, 310주 세계 랭킹 1위, 40세가 넘는 나이까지 세계 최고의 인지 순발력과 체력을 유지하며 테니스 역사를 새로 쓴 황제, 로저 페더러(Roger Federer). 혹독한 경기 일정 속에서도 그가 20년 이상 정상의 자리를 유지할 수 있었던 가장 강력한 신체적·정신적 회복 비밀은 무엇일까요? 🎾\n\n페더러는 '충분한 수면이 없다면 나는 코트 위에서 내 실력의 50%도 발휘할 수 없다'고 단언했습니다. 그는 밤 시간 10시간의 깊은 본 수면과 경기 및 훈련 사이 1~2시간의 낮잠을 합쳐 하루 평균 10~12시간의 수면을 철저한 최우선 순위로 스케줄링했습니다. 수면을 훈련의 일부이자 인지 가소성(Neuroplasticity)의 핵심 엔진으로 본 그의 철학은 신체 세포 재배열과 뇌의 정교한 반응 속도를 극한으로 보존시켰습니다.\n\n오늘 포스트에서는 페더러의 '12시간 수면 회복' 루틴의 뇌과학적 작동 원리와 현대인들이 수면의 질을 대폭 향상시키는 3단계 실천법을 공개합니다."
+      "ko": "\"충분한 수면이 없다면 나는 코트 위에서 내 실력의 50%도 발휘할 수 없다.\" 🎾\n\n메이저 대회(그랜드슬램) 20회 우승, 통산 103회 ATP 단식 타이틀, 연속 237주를 포함해 총 310주 세계 랭킹 1위, 그리고 40세가 넘는 나이까지 세계 최고의 인지 순발력과 체력을 유지하며 테니스 역사를 새로 쓴 황제 로저 페더러(Roger Federer, 1981–). 혹독한 해외 투어 스케줄과 치열한 승부 속에서도 그가 20년 이상 정상의 자리를 유지할 수 있었던 가장 강력한 신체적·정신적 회복 비밀은 무엇일까요?\n\n페더러는 수면을 옵션이 아닌 승리를 위한 필수 전략이자 인지 가소성(Neuroplasticity)과 신체 재배열의 핵심 엔진으로 여겼습니다. 그는 밤 시간 10시간의 깊은 본 수면과 경기 및 훈련 사이 1~2시간의 낮잠을 합쳐 하루 평균 10~12시간의 수면을 철저한 최우선 순위로 스케줄링했습니다. 수면 시간을 줄여 더 연습하라는 주장의 통념을 깨고, 정교한 회복을 통해 뇌의 정교한 시각 판별 반응 속도와 신체 근육을 극한으로 보존시킨 것입니다.\n\n오늘 포스트에서는 페더러의 '12시간 수면 회복' 루틴의 뇌과학적 작동 원리와 현대인들이 수면의 질을 대폭 향상시키는 3단계 실천법을 공개합니다.",
+      "en": "\"If I don't sleep 11 to 12 hours a day, I can't play at the highest level.\" 🎾\n\nRoger Federer (1981–) redefined tennis history by capturing 20 Grand Slam singles titles, 103 ATP singles trophies, and holding the World No. 1 ranking for 310 weeks—including an unprecedented 237 consecutive weeks. Competing at the absolute zenith of elite sport well into his 40s, what was his ultimate physical and mental recovery secret amidst grueling international travel and high-stakes matches?\n\nFederer treated sleep not as a luxury, but as a non-negotiable performance strategy—the primary engine of neuroplasticity and cellular repair. He strictly prioritized sleeping 10 to 12 hours every single day: 10 hours of deep nocturnal sleep paired with 1 to 2 hours of afternoon napping between training sessions and matches. Shattering the hustle myth of cutting sleep for extra practice, Federer relied on sleep recovery to preserve his razor-sharp visual reaction speeds, court agility, and cognitive endurance.\n\nIn today's post, we examine the brain science behind Roger Federer's '12-hour sleep recovery' routine and present a 3-step actionable framework to optimize sleep architecture and restore cognitive sharpness.",
+      "ja": "「十分な睡眠がなければ、私はコート上で自分の実力の50%も発揮できない。」 🎾\n\nメジャー大会（グランドスラム）20回優勝、通算103回ATPシングルスタイトル、連続237週間を含む通算310週間世界ランキング1位、そして40歳を超える年齢まで世界最高の認知反射神経と体力を維持してテニス史を塗り替えた皇帝ロジャー・フェデラー（Roger Federer、1981–）。過酷な海外ツアーのスケジュールと熾烈な勝負の中でも、彼が20年以上頂点の座を維持できた最も強力な身体的・精神的回復の秘密は何だったのでしょうか？\n\nフェデラーは睡眠をオプションではなく勝利のための必須戦略、かつ認知可塑性（Neuroplasticity）と身体再配列の核心エンジンとみなしました。彼は夜間10時間の深い本睡眠と、試合およびトレーニングの合間の1〜2時間の昼寝を合わせ、1日平均10〜12時間の睡眠を徹底した最優先順位としてスケジューリングしました。睡眠時間を削って練習量を増やせという世間の通念を打ち破り、精緻な回復を通じて脳の繊細な視覚判別反応速度と身体の筋肉を極限まで保存したのです。\n\n本日の記事では、フェデラーの「12時間睡眠回復」ルーティンの脳科学的作動原理と、現代人が睡眠の質を大幅に向上させる3段階の実践法を公開します。",
+      "zh": "“若得不到充足的睡眠，我在球场上连一半的实力都施展不出来。” 🎾\n\n斩获20座大满贯单打冠军、103个ATP单打头衔、雄踞世界第一长达310周（含连续237周史诗级纪录），且年过四十依然保有全球顶尖反应速度与体能的网球帝王——罗杰·费德勒（Roger Federer，1981–）。在密集喧嚣的全球巡回赛与高压角逐中，他得以在网坛立于不败之地长达二十余载的最强身心恢复秘诀究竟是什么？\n\n费德勒从不将睡眠视作可有可无的奢侈品，而是将其奉为赢得胜利的核心战略以及神经可塑性（Neuroplasticity）与细胞修复的核心引擎。他将夜间10小时的深沉主睡眠与训练比赛间隙1-2小时的午睡高度整合，确保每天10-12小时的高品质睡眠享有绝对优先权。他打破了“挤占睡眠去苦练”的旧有迷思，凭借精密的睡眠恢复，将大脑精准的视空间判别反应速度与肌肉爆发力锁死在巅峰状态。\n\n在今天的文章中，我们将深度解析费德勒“12小时睡眠恢复”习惯背后的脑科学原理，并为现代人提供一套大幅提升睡眠质量的3步骤实践方案。",
+      "es": "\"Si no duermo de 11 a 12 horas al día, no puedo rendir al máximo nivel.\" 🎾\n\nRoger Federer (1881–) redefinió la historia del tenis al ganar 20 títulos de Grand Slam, 103 trofeos ATP y permanecer 310 semanas como Número 1 del mundo (237 semanas consecutivas). Compitiendo en la élite pasados los 40 años, ¿cuál fue su secreto supremo de recuperación física y mental?\n\nFederer consideraba el sueño como una estrategia fundamental para el rendimiento: el motor principal de la neuroplasticidad y la reparación celular. Priorizaba de 10 a 12 horas de descanso diario: 10 horas de sueño nocturno profundo combinadas con 1 a 2 horas de siesta por la tarde entre entrenamientos y partidos. Desmintiendo el mito de restar horas de sueño para entrenar más, Federer confió en la recuperación para preservar sus reflejos visuales y su agilidad mental.\n\nEn la publicación de hoy, analizamos la neurociencia detrás de la rutina de '12 horas de descanso' de Roger Federer y presentamos una guía práctica de 3 pasos para optimizar la calidad del sueño.",
+      "de": "\"Wenn ich nicht 11 bis 12 Stunden am Tag schlafe, kann ich nicht auf höchstem Niveau spielen.\" 🎾\n\nRoger Federer (1981–) prägte das moderne Tennis mit 20 Grand-Slam-Titeln, 103 ATP-Einzeltiteln und 310 Wochen an der Spitze der Weltrangliste (davon 237 Wochen in Folge). Wie gelang es ihm, bis über seinen 40. Geburtstag hinaus Weltklasse-Leistungen auf dem Platz abzurufen?\n\nFederer betrachtete Schlaf nicht als Luxus, sondern als unverzichtbare Strategie für Höchstleistungen – als Motor für Neuroplastizität und Zellregeneration. Er priorisierte täglich 10 bis 12 Stunden Schlaf: 10 Stunden tiefen Nachtschlaf kombiniert mit 1 bis 2 Stunden Nickerchen am Nachmittag zwischen Trainingseinheiten und Matches. Anstatt Schlaf für mehr Training zu opfern, nutzte Federer den Schlaf, um seine visuellen Reaktionszeiten und seine mentale Ausdauer zu sichern.\n\nIm heutigen Beitrag untersuchen wir die Neurowissenschaften hinter Roger Federers Routine und zeigen Ihnen einen 3-Schritte-Plan zur Steigerung der Schlafqualität.",
+      "fr": "« Si je ne dors pas 11 a 12 heures par jour, je ne peux pas évoluer a mon meilleur niveau. » 🎾\n\nRoger Federer (1981–) a réécrit l'histoire du tennis en remportant 20 titres du Grand Chelem, 103 tournois ATP et en occupant la tête du classement mondial pendant 310 semaines (dont 237 consécutives). Compétitif au plus haut niveau jusqu'à plus de 40 ans, quel était son secret ultime de récupération physique et mentale ?\n\nFederer ne considérait pas le sommeil comme un luxe, mais comme une stratégie de performance essentielle — le moteur principal de la neuroplasticité et de la régénération cellulaire. Il planifiait strictement 10 a 12 heures de sommeil par jour : 10 heures de sommeil nocturne profond associées à 1 à 2 heures de sieste l'après-midi. En brisant le mythe selon lequel il faut réduire son sommeil pour s'entraîner davantage, Federer préservait ses réflexes visuels et sa vivacité d'esprit.\n\nDans cet article, nous analysons la neuroscience sous-jacente a la routine de « 12 heures de sommeil » de Roger Federer et proposons un plan d'action en 3 étapes pour optimiser votre sommeil.",
+      "pt": "\"Se eu não dormir de 11 a 12 horas por dia, não consigo jogar no meu nível mais alto.\" 🎾\n\nRoger Federer (1981–) redefiniu a história do tênis ao conquistar 20 títulos de Grand Slam, 103 troféus ATP e liderar o ranking mundial por 310 semanas (sendo 237 consecutivas). Competindo em alto nível até os 40 anos, qual era seu segredo supremo de recuperação física e mental?\n\nFederer não via o sono como luxo, mas como uma estratégia de desempenho essencial — o motor principal da neuroplasticidade e regeneração celular. Ele priorizava estritamente de 10 a 12 horas de sono por dia: 10 horas de sono noturno profundo combinadas com 1 a 2 horas de soneca à tarde. Quebrando o mito de cortar o sono para treinar mais, Federer confiava na recuperação para preservar seus reflexos visuais e agilidade mental.\n\nNo artigo de hoje, analisamos a neurociência por trás da rotina de '12 horas de sono' de Roger Federer e apresentamos um guia prático de 3 passos para otimizar o sono.",
+      "id": "\"Jika saya tidak tidur 11 hingga 12 jam sehari, saya tidak bisa bermain di tingkat tertinggi.\" 🎾\n\nRoger Federer (1981–) merevolusi sejarah tenis dengan meraih 20 gelar Grand Slam, 103 gelar ATP, dan memegang peringkat 1 Dunia selama 310 minggu—termasuk rekor 237 minggu berturut-turut. Bertanding di puncak olahraga elit hingga usia 40-an, apa rahasia pemulihan fisik dan mental terbesarnya di tengah jadwal tur internasional yang padat?\n\nFederer menganggap tidur bukan sebagai kemewahan, melainkan strategi performa utama—mesin utama neuroplastisitas dan pemulihan sel. Ia memprioritaskan tidur 10 hingga 12 jam setiap hari: 10 jam tidur malam yang nyenyak dipadukan dengan 1 hingga 2 jam tidur siang di antara sesi latihan dan pertandingan. Mematahkan mitos mengurangi tidur untuk latihan ekstra, Federer mengandalkan pemulihan tidur untuk menjaga kecepatan reaksi visual dan ketahanan kognitifnya.\n\nDalam postingan hari ini, kami menganalisis neurosains kognitif di balik rutinitas 'pemulihan tidur 12 jam' Roger Federer dan menyajikan kerangka aksi 3 langkah untuk meningkatkan kualitas tidur."
     },
     "whyTitle": {
-      "ko": "글림프 시스템 청소와 렘(REM) 수면 신경 가소성 회복 메커니즘"
+      "ko": "글림프 시스템 청소와 렘(REM) 수면 신경 가소성 회복 메커니즘",
+      "en": "Glymphatic Brain Cleansing and REM Sleep Neuroplasticity Recovery Mechanisms",
+      "ja": "グリンパティック系の洗浄とレム（REM）睡眠の神経可塑性回復メカニズム",
+      "zh": "胶质淋巴系统（Glymphatic System）排毒与快速眼动（REM）睡眠神经可塑性修复机制",
+      "es": "Limpieza Cerebral Glinfática y Mecanismos de Consolidación Neural del Sueño REM",
+      "de": "Glymphatische Gehirnreinigung und Neuroplastizitäts-Regeneration im REM-Schlaf",
+      "fr": "Nettoyage cérébral glymphatique et mécanismes de neuroplasticité du sommeil REM",
+      "pt": "Limpeza Cerebral Glinfática e Mecanismos de Neuroplasticidade do Sono REM",
+      "id": "Pembersihan Otak Glimfatik dan Mekanisme Pemulihan Neuroplastisitas Tidur REM"
     },
     "whyDesc": {
-      "ko": "깊은 수면 상태에 접어들면 뇌의 <strong>글림프 시스템(Glymphatic System)</strong>이 활성화되어 낮 동안 뇌세포 사이에 쌓인 베타 아밀로이드 등 독성 노폐물을 시원하게 세척합니다. 또한 수면 후반부의 <strong>렘(REM) 수면</strong>은 운동 절차 기억과 인지 순발력을 고도화하는 신경 가소성을 촉진합니다.\n\n페더러처럼 충분한 수면 시간을 보장할 때, 뇌는 스트레스 호르몬인 코르티솔 수치를 낮추고 성장 호르몬 분비를 촉진하여 신체 근육과 뇌의 집중력을 최고 상태로 복원합니다."
+      "ko": "깊은 수면 상태에 접어들면 뇌의 <strong>글림프 시스템(Glymphatic System)</strong>이 활성화되어 낮 동안 뇌세포 사이에 쌓인 베타 아밀로이드 등 독성 노폐물을 시원하게 세척합니다. 또한 수면 후반부의 <strong>렘(REM) 수면</strong>은 운동 절차 기억과 인지 순발력을 고도화하는 신경 가소성을 촉진합니다. 페더러처럼 충분한 수면 시간을 보장할 때, 뇌는 스트레스 호르몬인 코르티솔 수치를 낮추고 성장 호르몬 분비를 촉진하여 신체 근육과 뇌의 집중력을 최고 상태로 복원합니다.",
+      "en": "During deep slow-wave sleep, the brain's <strong>Glymphatic System</strong> activates, expanding interstitial space by up to 60% to flush out neurotoxic metabolic waste—such as beta-amyloid—accumulated during waking hours. Furthermore, <strong>REM sleep</strong> in late sleep cycles drives neuroplasticity, consolidating complex motor sequences and fine-tuning visual-cognitive processing speeds. Securing 10 to 12 hours of sleep downregulates stress hormones like cortisol while maximizing growth hormone release, fully restoring physical muscle tissue and executive brain focus to peak capacity.",
+      "ja": "深い睡眠状態に入ると、脳の<strong>グリンパティック系（Glymphatic System）</strong>が活性化され、日中に脳細胞の間に溜まったベータアミロイドなどの毒性老廃物を綺麗に洗浄します。また、睡眠後半の<strong>レム（REM）睡眠</strong>は、運動手続記憶と認知反射神経を高度化させる神経可塑性を促進します。フェデラーのように十分な睡眠時間を確保する時、脳はストレスホルモンであるコルチゾール数値を下げ、成長ホルモンの分泌を促進して身体の筋肉と脳の集中力を最高の状態へと復元させます。",
+      "zh": "沉入深度慢波睡眠期时，大脑的<strong>胶质淋巴系统（Glymphatic System）</strong>全面激活，细胞间隙扩大60%以上，利用脑脊液强力冲刷清理白昼积聚的贝塔-阿米洛受（Beta-Amyloid）等神经毒性代谢废物。此外，睡眠后半程的<strong>快速眼动（REM）睡眠</strong>可有力拉动神经可塑性，将复杂的运动肌肉记忆与目测认知反应速度固化于小脑与运动皮层中。保障充足睡眠能显著压低皮质醇，并促进生长激素大量释放，使肌肉组织与前额叶专注力完美回归巅峰状态。",
+      "es": "Durante el sueño profundo, el <strong>Sistema Glinfático</strong> del cerebro se activa, expandiendo el espacio intersticial para eliminar deshechos neurotóxicos como la beta-amiloide acumulados durante el día. Además, el <strong>sueño REM</strong> promueve la neuroplasticidad, consolidando secuencias motoras complejas y afinando los reflejos visuales. Asegurar un descanso prolongado reduce el cortisol y maximiza la liberación de hormona del crecimiento, restaurando el tejido muscular y el enfoque cerebral.",
+      "de": "Im tiefen Langsamwellenschlaf aktiviert sich das <strong>glymphatische System</strong> des Gehirns und spült neurotoxische Abfallprodukte wie Beta-Amyloid aus. Der <strong>REM-Schlaf</strong> in späten Schlafzyklen fördert zudem die Neuroplastizität und festigt komplexe Bewegungsabläufe sowie kognitive Reaktionen. Ausreichend Schlaf senkt das Stresshormon Cortisol und steigert die Ausschüttung von Wachstumshormonen, was Muskeln und Fokus regeneriert.",
+      "fr": "Pendant le sommeil profond, le <strong>Système Glymphatique</strong> du cerveau s'active, éliminant les déchets neurotoxiques comme la bêta-amyloïde accumulés durant la journée. De plus, le <strong>sommeil REM</strong> favorise la neuroplasticité, consolidant les séquences motrices complexes et la vivacité cognitive. Garantir un sommeil suffisant diminue le cortisol et stimule l'hormone de croissance, restaurant muscles et concentration.",
+      "pt": "Durante o sono profundo, o <strong>Sistema Glinfático</strong> do cérebro se ativa, eliminando resíduos neurotóxicos como a beta-amiloide acumulados durante o dia. Além disso, o <strong>sono REM</strong> impulsiona a neuroplasticidade, consolidando sequências motoras complexas e a agilidade cognitiva. Garantir um descanso prolongado reduz o cortisol e maximiza o hormônio do crescimento, restaurando músculos e foco.",
+      "id": "Selama tidur gelombang lambat yang dalam, <strong>Sistem Glimfatik</strong> otak diaktifkan, membilas limbah neurotoksik seperti beta-amiloid yang terakumulasi selama jam bangun. Selain itu, <strong>tidur REM</strong> mendorong neuroplastisitas, mengonsolidasi memori motorik dan mempertajam kecepatan pemrosesan kognitif. Tidur yang cukup menekan hormon kortisol dan memaksimalkan hormon pertumbuhan."
     },
     "cautionTitle": {
-      "ko": "수면 시간을 줄여 의지력으로 버티려는 착각 경계"
+      "ko": "수면 시간을 줄여 의지력으로 버티려는 착각 경계",
+      "en": "Caution: Guard Against the Illusion of Sacrificing Sleep for Willpower",
+      "ja": "注意事項：睡眠時間を削って意志力で耐えようとする錯覚への警戒",
+      "zh": "注意事项：警惕通过牺牲睡眠、死磕意志力来硬撑的迷思",
+      "es": "Precaución: Evite la Ilusión de Sacrificar el Sueño Confiando en la Fuerza de Voluntad",
+      "de": "Vorsichtsmaßnahme: Warnung vor der Illusion, Schlaf durch Willenskraft zu ersetzen",
+      "fr": "Mise en garde : Mfiez-vous de l'illusion de sacrifier le sommeil au profit de la volonté",
+      "pt": "Precaução: Cuidado com a Ilusão de Sacrificar o Sono Confiando na Força de Vontade",
+      "id": "Perhatian: Waspadai Ilusi Mengorbankan Tidur demi Mengandalkan Kemauan Hard"
     },
     "cautionDesc": {
-      "ko": "잠을 줄여가며 일하는 것은 알코올 음주 상태에서 운전하는 것과 동일한 수준의 인지 오류를 유발합니다. 페더러의 말처럼 최고의 성과는 억지로 버티는 시간에서 나오는 것이 아니라, 정교한 수면 회복이 선사하는 맑은 몰입에서 비롯됩니다."
+      "ko": "잠을 줄여가며 일하는 것은 알코올 음주 상태에서 운전하는 것과 동일한 수준의 인지 오류를 유발합니다. 페더러의 말처럼 최고의 성과는 억지로 버티는 시간에서 나오는 것이 아니라, 정교한 수면 회복이 선사하는 맑은 몰입에서 비롯됩니다.",
+      "en": "Working on restricted sleep impairs executive judgment to a degree equivalent to legally intoxicated driving. As Federer asserted, supreme performance does not come from pushing through sleep-deprived exhaustion, but from the razor-sharp clarity delivered by meticulous sleep recovery.",
+      "ja": "睡眠を削って働くことは、アルコール飲料を飲んだ状態で運転することと同等レベルの認知エラーを引き起こします。フェデラーの言葉のように、最高の成果は無理に耐える時間から生まれるのではなく、精緻な睡眠回復がもたらす澄み切った没頭から生まれるのです。",
+      "zh": "剥夺睡眠强行工作所引发的大脑认知失误，与醉酒驾驶处于同一危险水平。正如费德勒所言，顶尖的卓越产出绝非源于牺牲睡眠后的苦撑疲态，而始于精细睡眠恢复所带来的极速清醒与高度沉浸。",
+      "es": "Trabajar privado de sueño provoca errores de juicio equivalentes a conducir ebrio. Como afirmaba Federer, el máximo rendimiento no proviene de resistir el agotamiento, sino de la claridad mental que proporciona una recuperación profunda.",
+      "de": "Arbeiten bei Schlafmangel führt zu kognitiven Leistungseinbußen, die Fahren unter Alkoholeinfluss entsprechen. Wie Federer betonte, entsteht Höchstleistung nicht durch Erschöpfung, sondern durch die Klarheit einer Regenerationsphase.",
+      "fr": "Travailler en état de privation de sommeil génère des erreurs de jugement équivalentes à la conduite en état d'ivresse. Comme le soulignait Federer, les meilleures performances ne naissent pas de l'épuisement, mais de la clarté offerte par une vraie récupération.",
+      "pt": "Trabalhar privado de sono causa falhas de julgamento equivalentes a dirigir embriagado. Como destacava Federer, o rendimento máximo não vem de suportar o cansaço, mas da clareza mental proporcionada por uma recuperação profunda.",
+      "id": "Bekerja dalam kondisi kurang tidur memicu kesalahan penilaian yang setara com mengemudi dalam keadaan mabuk. Seperti yang ditegaskan Federer, performa puncak tidak datang dari memaksakan diri dalam kelelahan, melainkan dari kejelasan mental yang dihasilkan oleh pemulihan tidur."
     },
     "steps": [
       {
         "name": {
-          "ko": "1단계: 취침 1시간 전 입면 환경 암막·절전 세팅"
+          "ko": "1단계: 취침 1시간 전 입면 환경 암막·절전 세팅",
+          "en": "Step 1: 1-Hour Pre-Bed Environment Setup (Blackout & Cooling)",
+          "ja": "ステップ1：就寝1時間前の入眠環境遮光・節電セットアップ",
+          "zh": "步骤1：睡前1小时搭建入睡环境（全遮光与降温）",
+          "es": "Paso 1: Configuración del Entorno 1 Hora Antes de Dormir (Oscuridad y Temperatura)",
+          "de": "Schritt 1: Einrichten der Schlafumgebung 1 Stunde vor dem Schlafen (Verdunkelung & Kühlung)",
+          "fr": "Étape 1 : Aménagement de l'environnement 1 heure avant le coucher (Obscurité & Température)",
+          "pt": "Passo 1: Configuração do Ambiente 1 Hora Antes de Dormir (Escuridão e Temperatura)",
+          "id": "Langkah 1: Menyiapkan Lingkungan 1 Jam Sebelum Tidur (Gelap Total & Suhu Sejuk)"
         },
         "text": {
-          "ko": "취침 1시간 전 스마트폰 사용을 중단하고, 침실 온도를 섭씨 18~20도로 서늘하게 유지하며 암막 커튼을 내려 불빛을 완전 차단합니다."
+          "ko": "취침 1시간 전 스마트폰 사용을 중단하고, 침실 온도를 섭씨 18~20도로 서늘하게 유지하며 암막 커튼을 내려 불빛을 완전 차단합니다.",
+          "en": "Disconnect from all digital screens 1 hour before sleep. Cool your bedroom temperature to a crisp 18–20°C (64–68°F) and lower blackout curtains to completely block ambient light.",
+          "ja": "就寝1時間前にスマートフォンの使用を中断し、寝室の温度を摂氏18〜20度に涼しく維持し、遮光カーテンを下ろして光を完全に遮断します。",
+          "zh": "睡前1小时切断手机与电脑屏幕。将卧室温度调至18-20摄氏度的凉爽区间，拉下遮光窗帘阻断一切光源。",
+          "es": "Desconecte las pantallas 1 hora antes de dormir. Mantenga su dormitorio fresco (18–20 °C) y baje las persianas para bloquear la luz por completo.",
+          "de": "Schalten Sie 1 Stunde vor dem Schlafen alle Bildschirme aus. Kühlen Sie das Schlafzimmer auf 18–20 °C und dunkeln Sie den Raum vollständig ab.",
+          "fr": "Éteignez tous les écrans 1 heure avant de dormir. Maintenez la chambre à une température fraîche (18–20 °C) et fermez les volets pour bloquer toute lumière.",
+          "pt": "Desconecte-se de telas 1 hora antes de dormir. Mantenha o quarto fresco (18–20 °C) e use cortinas blackout para bloquear a luz completamente.",
+          "id": "Matikan semua layar 1 jam sebelum tidur. Jaga suhu kamar tidur Anda tetap sejuk pada 18–20°C dan turunkan tirai gelap untuk memblokir cahaya sepenuhnya."
         }
       },
       {
         "name": {
-          "ko": "2단계: 최소 8시간 본 수면 시간 엄격 스케줄링"
+          "ko": "2단계: 최소 8시간 본 수면 시간 엄격 스케줄링",
+          "en": "Step 2: Strict Pre-Scheduling of 8+ Hours Main Sleep Window",
+          "ja": "ステップ2：最低8時間の本睡眠時間の厳格なスケジューリング",
+          "zh": "步骤2：预先锁定至少8小时的主睡眠时间窗口",
+          "es": "Paso 2: Programación Estricta de al Menos 8 Horas de Sueño Principal",
+          "de": "Schritt 2: Strikte Vorab-Planung von mindestens 8 Stunden Hauptschlaf",
+          "fr": "Étape 2 : Planification stricte d'au moins 8 heures de sommeil principal",
+          "pt": "Passo 2: Agendamento Estrito de pelo Menos 8 Horas de Sono Principal",
+          "id": "Langkah 2: Penjadwalan Ketat Waktu Tidur Utama Minimal 8 Jam"
         },
         "text": {
-          "ko": "하루 일정에서 수면을 남는 시간에 하는 것이 아니라, 바쁜 업무 스케줄보다 먼저 8시간의 취침 및 기상 시간을 확정해 배치합니다."
+          "ko": "하루 일정에서 수면을 남는 시간에 하는 것이 아니라, 바쁜 업무 스케줄보다 먼저 8시간의 취침 및 기상 시간을 확정해 배치합니다.",
+          "en": "Treat sleep as an unshakeable primary appointment. Lock in an 8-hour bedtime and wake-up window on your calendar before scheduling work or social obligations.",
+          "ja": "1日のスケジュールで睡眠を余った時間でするのではなく、忙しい業務スケジュールよりも前に8時間の就寝および起床時間を確定して配置します。",
+          "zh": "切勿将睡眠置于日程剩余的空档中。在编排繁重工作或社交日程前，优先在日历中锁定8小时雷打不动的入睡与起床时间段。",
+          "es": "Trate el sueño como un compromiso inamovible. Bloquee un intervalo de 8 horas para dormir y despertarse en su agenda antes de programar trabajo o compromisos.",
+          "de": "Betrachten Sie Schlaf als festen Termin. Blockieren Sie ein 8-stündiges Fenster zum Schlafen in Ihrem Kalender, bevor Sie Arbeitszeiten eintragen.",
+          "fr": "Considérez le sommeil comme un rendez-vous prioritaire. Bloquez un créneau de 8 heures pour dormir dans votre agenda avant d'organiser votre travail.",
+          "pt": "Trate o sono como um compromisso inegociável. Bloqueie uma janela de 8 horas para dormir no seu calendário antes de agendar compromissos de trabalho.",
+          "id": "Perlakukan tidur sebagai janji utama yang tidak dapat diganggu gugat. Kunci jendela tidur dan bangun selama 8 jam di kalender Anda sebelum menjadwalkan pekerjaan."
         }
       },
       {
         "name": {
-          "ko": "3단계: 오후 1~3시 20분간의 리프레시 미니 낮잠"
+          "ko": "3단계: 오후 1~3시 20분간의 리프레시 미니 낮잠",
+          "en": "Step 3: 20-Minute Power Nap Between 1 PM and 3 PM",
+          "ja": "ステップ3：午後1〜3時、20分間のリフレッシュ・ミニ昼寝",
+          "zh": "步骤3：在下午1点至3点间开展20分钟高效午休",
+          "es": "Paso 3: Siesta Corta de 20 Minutos Entre la 1 PM y las 3 PM",
+          "de": "Schritt 3: 20-minütiges Power-Nickerchen zwischen 13 und 15 Uhr",
+          "fr": "Étape 3 : Sieste flash de 20 minutes entre 13h et 15h",
+          "pt": "Passo 3: Soneca Rápida de 20 Minutos Entre 13h e 15h",
+          "id": "Langkah 3: Tidur Siang Singkat 20 Menit Antara Jam 1 Siang hingga 3 Sore"
         },
         "text": {
-          "ko": "오후 집중력이 떨어지는 시간대에 20분간 가볍게 눈을 감고 낮잠을 취해 뇌의 작업 기억을 초기화하고 오후 성능을 리셋합니다."
+          "ko": "오후 집중력이 떨어지는 시간대에 20분간 가볍게 눈을 감고 낮잠을 취해 뇌의 작업 기억을 초기화하고 오후 성능을 리셋합니다.",
+          "en": "When circadian alertness dips in the early afternoon, close your eyes for a light 20-minute power nap to purge working memory clutter and reset afternoon cognitive acuity.",
+          "ja": "午後の集中力が低下する時間帯に20分間軽く目を閉じて昼寝をとり、脳の作業記憶を初期化して午後のパフォーマンスをリセットします。",
+          "zh": "在下午节律性专注力下滑的时段，合眼微憩20分钟进行高效午休，清空工作记忆中的过载杂质，全面重启后半天的脑力敏锐度。",
+          "es": "Cuando la atención disminuya a primera hora de la tarde, cierre los ojos para una siesta corta de 20 minutos para reiniciar la memoria de trabajo y el rendimiento.",
+          "de": "Wenn die Konzentration am frühen Nachmittag nachlässt, schließen Sie für ein 20-minütiges Nickerchen die Augen, um das Arbeitsgedächtnis zu leeren.",
+          "fr": "Lorsque la vigilance chute en début d'après-midi, fermez les yeux pour une sieste de 20 minutes afin de réinitialiser la mémoire de travail.",
+          "pt": "Quando o foco diminuir no início da tarde, feche os olhos para uma soneca de 20 minutos para reiniciar a memória de trabalho e o desempenho.",
+          "id": "Saat kewaspadaan berkurang di awal sore, pejamkan mata Anda untuk tidur siang singkat selama 20 menit untuk menyegarkan memori kerja dan mereset performa."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "밤에 잠이 잘 오지 않는 불면증이 있을 때는 어떻게 하나요?"
+          "ko": "밤에 잠이 잘 오지 않는 불면증이 있을 때는 어떻게 하나요?",
+          "en": "What should I do if I suffer from insomnia and struggle to fall asleep?",
+          "ja": "夜に眠りにつけない不眠症がある時はどうすればよいですか？",
+          "zh": "夜间遭遇入睡困难或失眠困扰时该如何应对？",
+          "es": "¿Qué debo hacer si sufro de insomnio y me cuesta conciliar el sueño?",
+          "de": "Was kann ich tun, wenn ich unter Schlafstörungen leide und nicht einschlafen kann?",
+          "fr": "Que faire en cas d'insomnie et de difficultés a s'endormir ?",
+          "pt": "O que devo fazer se sofrer de insônia e tiver dificuldade para adormecer?",
+          "id": "Apa yang harus saya lakukan jika saya menderita insomnia dan kesulitan tidur?"
         },
         "answer": {
-          "ko": "침대 위에서 억지로 잠들려 애쓰지 말고, 20분이 지나도 잠이 오지 않으면 거실로 나와 붉은 조명 아래서 가벼운 독서를 하다가 졸음이 올 때 다시 침실로 들어가는 자극 통제 치료법(Stimulus Control)을 권장합니다."
+          "ko": "침대 위에서 억지로 잠들려 애쓰지 말고, 20분이 지나도 잠이 오지 않으면 거실로 나와 붉은 조명 아래서 가벼운 독서를 하다가 졸음이 올 때 다시 침실로 들어가는 자극 통제 치료법(Stimulus Control)을 권장합니다.",
+          "en": "Avoid forcing sleep in bed. If you remain awake after 20 minutes, apply Stimulus Control Therapy: get out of bed, move to a dimly lit room, read a physical book under warm lighting, and return to bed only when genuine drowsiness strikes.",
+          "ja": "ベッドの上で無理に眠ろうとあがくのではなく、20分が過ぎても眠れない場合はリビングに出て赤い照明の下で軽い読書をし、眠気が差した時に再び寝室に戻る刺激統制療法（Stimulus Control）をお勧めします。",
+          "zh": "切勿躺在床上死磕硬睡。若卧床20分钟后仍毫无睡意，请应用“刺激控制疗法（Stimulus Control Therapy）”：起身离床，移步至暗光房间，在暖色弱光下翻阅实体书，待倦意袭来时再重返床榻。",
+          "es": "No se fuerce a dormir. Si sigue despierto tras 20 minutos, aplique la Terapia de Control de Estímulos: levántese, vaya a otra habitación con luz tenue, lea un libro físico y vuelva a la cama solo cuando sienta sueño.",
+          "de": "Zwingen Sie sich nicht zum Schlafen. Wenn Sie nach 20 Minuten wach sind, nutzen Sie die Stimulus-Kontroll-Therapie: Stehen Sie auf, gehen Sie in einen gedimmten Raum, lesen Sie ein Buch und kehren Sie erst ins Bett zurück, wenn Sie müde sind.",
+          "fr": "Ne vous forcez pas à dormir. Si vous ne dormez pas après 20 minutes, appliquez la thérapie de contrôle des stimulations : levez-vous, allez dans une pièce sombre, lisez un livre papier et ne retournez au lit que lorsque le sommeil arrive.",
+          "pt": "Não se force a dormir. Se continuar acordado após 20 minutos, aplique a Terapia de Controle de Estímulos: levante-se, vá para um ambiente com luz fraca, leia um livro e volte à cama apenas quando sentir sono.",
+          "id": "Hindari memaksakan diri untuk tidur. Jika Anda tetap terjaga setelah 20 menit, terapkan Terapi Kontrol Stimulus: bangkit dari tempat tidur, pindah ke ruangan berlampu redup, baca buku fisik, dan kembali ke tempat tidur hanya saat kantuk datang."
         }
       },
       {
         "question": {
-          "ko": "낮잠을 자고 나면 오히려 머리가 더 무거워지는데 이유가 무엇인가요?"
+          "ko": "낮잠을 자고 나면 오히려 머리가 더 무거워지는데 이유가 무엇인가요?",
+          "en": "Why do I feel groggy and heavy-headed after taking a nap?",
+          "ja": "昼寝をした後、かえって頭が重く感じられる理由は何ですか？",
+          "zh": "为何醒来后非但没有神清气爽，反而感到头脑昏沉发木？",
+          "es": "¿Por qué me siento aturdido y pesado después de tomar una siesta?",
+          "de": "Warum fühle ich mich nach einem Nickerchen oft gerädert und müde?",
+          "fr": "Pourquoi me sens-je vaseux et lourd après une sieste ?",
+          "pt": "Por que me sinto tonto e pesado depois de uma soneca?",
+          "id": "Mengapa saya merasa pusing dan berat setelah tidur siang?"
         },
         "answer": {
-          "ko": "낮잠 시간이 30분을 초과하여 깊은 서파 수면(Slow-Wave Sleep) 단계에 진입했기 때문입니다. 수면 관성(Sleep Inertia)을 방지하려면 낮잠 알람을 반드시 15~20분으로 세팅하세요."
+          "ko": "낮잠 시간이 30분을 초과하여 깊은 서파 수면(Slow-Wave Sleep) 단계에 진입했기 때문입니다. 수면 관성(Sleep Inertia)을 방지하려면 낮잠 알람을 반드시 15~20분으로 세팅하세요.",
+          "en": "This grogginess stems from 'Sleep Inertia', which occurs when a nap exceeds 30 minutes and plunges your brain into deep Slow-Wave Sleep (N3). To prevent sleep inertia, cap your afternoon nap alarm strictly at 15 to 20 minutes.",
+          "ja": "昼寝時間が30分を超えて深い徐波睡眠（Slow-Wave Sleep）段階に入ったためです。睡眠慣性（Sleep Inertia）を防ぐには、昼寝のアラームを必ず15〜20分に設定してください。",
+          "zh": "这种昏沉感源于“睡眠惯性（Sleep Inertia）”——当午休超时30分钟并坠入深层慢波睡眠期（N3）时被强行唤醒所致。欲杜绝此现象，请务必将午休闹钟严格定为15-20分钟。",
+          "es": "Esa pesadez se debe a la 'Inercia del Sueño', que ocurre cuando la siesta supera los 30 minutos y entra en el sueño profundo de onda lenta. Para evitarlo, programe su alarma estrictamente a 15-20 minutos.",
+          "de": "Diese Trägheit entsteht durch 'Schlafträgheit' (Sleep Inertia), wenn ein Nickerchen 30 Minuten überschreitet und das Gehirn in den Tiefschlaf fällt. Stellen Sie Ihren Wecker strikt auf 15 bis 20 Minuten.",
+          "fr": "Cette lourdeur provient de l'« Inertie du sommeil », qui survient quand une sieste dépasse 30 minutes et plonge le cerveau dans le sommeil profond. Pour l'éviter, réglez votre alarme à 15–20 minutes.",
+          "pt": "Essa sensação vem da 'Inércia do Sono', que ocorre quando a soneca passa de 30 minutos e entra no sono profundo. Para evitar isso, programe seu alarme para 15 a 20 minutos.",
+          "id": "Rasa pusing ini berasal dari 'Inersia Tidur' (Sleep Inertia), yang terjadi ketika tidur siang melebihi 30 menit dan membuat otak masuk ke tidur gelombang lambat yang dalam. Untuk mencegahnya, atur alarm Anda secara ketat pada 15 hingga 20 menit."
         }
       }
     ]

@@ -28,7 +28,7 @@ faqs:
 
 슈바이처 박사는 헌신적인 진료를 마친 고단한 밤마다 밀림 속에 마련된 페달 피아노에 앉아 바흐의 곡을 조용히 연주했습니다. 웅장하고 질서 정연한 바흐의 음악 선율에 몰입하는 시간은 그에게 지친 심신을 안정시키고 감정적 고갈을 방지하는 최고의 '신경계 리셋 루틴'이었습니다.
 
-오늘 BuildSelf에서는 슈바이처 박사의 밤 오르간 연주 루틴에 담긴 자율신경계 이완의 과학을 소개합니다.
+오늘 포스트에서는 슈바이처 박사의 밤 오르간 연주 루틴에 담긴 자율신경계 이완의 과학을 소개합니다.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

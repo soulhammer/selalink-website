@@ -1,70 +1,214 @@
 {
   "erasmus-notebook-travel": {
     "title": {
-      "ko": "에라스무스의 여행용 수첩: 이동 중에 번뜩이는 아이디어를 포착하는 법"
+      "ko": "에라스무스의 여행용 수첩: 이동 중에 번뜩이는 아이디어를 포착하는 마이크로 플래닝과 몰입 루틴",
+      "en": "Desiderius Erasmus's Travel Notebook Routine: Capturing Flashes of Insight On the Move",
+      "ja": "エラズムスの旅行用手帳：移動中にひらめくアイデアを捉えるノート術と没頭ルーティン",
+      "zh": "埃罗士谟的旅行手记：在漫漫旅途中捕获灵感碎片的记录习惯与沉浸法",
+      "es": "El Cuaderno de Viaje de Erasmo: Cómo Capturar Chispas de Inspiración en Movimiento",
+      "de": "Erasmus von Rotterdams Reise-Notizbuch: Gedankenblitze unterwegs festhalten",
+      "fr": "Le carnet de voyage d'Érasme : Capturer les étincelles d'inspiration en déplacement",
+      "pt": "O Caderno de Viagem de Erasmo: Capturando Faíscas de Inspiração em Movimento",
+      "id": "Buku Catatan Perjalanan Erasmus: Menangkap Percikan Ide Saat Dalam Perjalanan"
     },
     "description": {
-      "ko": "르네상스 대표 석학 에라스무스가 유럽을 횡단하는 마차 안에서 주머니 수첩을 활용해 《우신예찬》의 초고를 집필하고 아이디어를 낚아챈 비결을 살펴봅니다."
+      "ko": "르네상스 대표 석학 에라스무스가 유럽을 횡단하는 마차 안에서 주머니 수첩을 활용해 《우신예찬》의 초고를 집필하고 아이디어를 낚아챈 비결을 살펴봅니다. 알파파 유도와 시각 흐름의 인지신경과학적 원리를 해부합니다.",
+      "en": "Discover how Renaissance scholar Desiderius Erasmus drafted 'In Praise of Folly' while traveling across Europe on horseback with a pocket notebook. Explore the neuroscience of alpha waves, visual flow, and movement-induced creativity.",
+      "ja": "ルネサンスの代表的学者エラズマスが欧州を横断する馬車の中でポケット手帳を活用し『愚神礼賛』の草稿を執筆しアイデアを捉えた秘訣を解き明かします。アルファ波誘導と視覚的フローの認知神経科学的原理を解剖します。",
+      "zh": "探索文艺复兴巨擘埃罗士谟如何在穿梭欧洲的马背与马车上借助口袋手记撰写《愚神礼赞》初稿。深度剖析 alpha 波诱发与视觉流动激发创意的神经科学原理。",
+      "es": "Descubra cómo el erudito renacentista Erasmo redactó 'Elogio de la locura' mientras viajaba por Europa a caballo con un cuaderno de bolsillo. Explore la neurociencia de las ondas alfa, el flujo visual y la creatividad impulsada por el movimiento.",
+      "de": "Erfahren Sie, wie der Renaissance-Gelehrte Erasmus von Rotterdam 'Lob der Torheit' auf Reisen durch Europa mit einem Taschennotizbuch verfasste. Entdecken Sie die Neurowissenschaften hinter Alphawellen und visueller Bewegung.",
+      "fr": "Découvrez comment l'érudit de la Renaissance Érasme a rédigé « Éloge de la folie » en voyageant à travers l'Europe avec un carnet de poche. Explorez la neuroscience des ondes alpha, du flux visuel et de la créativité liée au mouvement.",
+      "pt": "Descubra como o erudito renascentista Erasmo redigiu 'O Elogio da Loucura' enquanto viajava pela Europa a cavalo com um caderno de bolso. Explore a neurociência das ondas alfa, do fluxo visual e da criatividade induzida pelo movimento.",
+      "id": "Pelajari bagaimana cendekiawan Renaisans Desiderius Erasmus menyusun draf 'Pujian atas Kebodohan' saat bepergian melintasi Eropa dengan buku catatan saku. Temukan neurosains tentang gelombang alfa dan aliran visual."
     },
     "authority": {
-      "ko": "데시데리우스 에라스무스 서간집(Epistolae) 및 요한 하이징하 『에라스무스(Erasmus)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+      "ko": "데시데리우스 에라스무스 서간집(Epistolae) 및 요한 하이징하 평전 『에라스무스(Erasmus)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+      "en": "Historical Verification from Desiderius Erasmus's *Epistolae*, Johan Huizinga's Biography *Erasmus* & Cognitive Neuroscience Research",
+      "ja": "デシデリウス・エラズマス書簡集（Epistolae）およびヨハン・ホイジンガ評伝『エラズマス（Erasmus）』考証＆認知神経科学（Cognitive Neuroscience）研究",
+      "zh": "德西德里乌斯·埃罗士谟书信集《Epistolae》与约翰·胡伊青加传记《埃罗士谟（Erasmus）》考证及认知神经科学（Cognitive Neuroscience）研究",
+      "es": "Verificación Histórica de las *Epistolae* de Desiderio Erasmo, la Biografía de Johan Huizinga *Erasmo* e Investigación en Neurociencia Cognitiva",
+      "de": "Historische Überprüfung aus Desiderius Erasmus' *Epistolae*, Johan Huizingas Biografie *Erasmus* & Forschung der kognitiven Neurowissenschaften",
+      "fr": "Vérification Historique issue des *Epistolae* de Didier Érasme, de la biographie de Johan Huizinga *Érasme* & de la Recherche en Neurosciences Cognitives",
+      "pt": "Verificação Histórica das *Epistolae* de Desidério Erasmo, da Biografia de Johan Huizinga *Erasmo* e Pesquisa em Neurociência Cognitiva",
+      "id": "Verifikasi Historis dari *Epistolae* Desiderius Erasmus, Biografi Johan Huizinga *Erasmus* & Penelitian Neurosains Kognitif"
     },
     "intro": {
-      "ko": "\"여행은 지혜의 참된 원천이며, 수첩은 지혜를 담는 지도다.\" 📓\n\n르네상스의 위대한 인문주의자 데시데리우스 에라스무스는 유럽 전역을 누비는 영원한 노마드 학자였습니다. 그는 이동 시간을 단순한 대기 시간으로 보지 않고, 항상 외투 주머니 속에 작은 가죽 수첩을 품고 다녔습니다. 마차의 심한 흔들림 속에서도 스치는 생각과 만났던 사람들의 목소리를 기록했으며, 그의 명저 《우신예찬》의 상당 부분도 이탈리아에서 영국으로 건너가는 고단한 이동 과정에서 잉크로 채워졌습니다.\n\n장시간 마차를 타고 이동하는 육체적 불편함 속에서도 지적 몰입을 멈추지 않았던 그의 수첩 메모 습관은 현대 뇌생리학과 인지 심리학 측면에서도 독창적인 생각의 연결고리를 설계하는 과학적 방법입니다."
+      "ko": "\"여행은 지혜의 참된 원천이며, 수첩은 그 지혜를 담아두는 지도다.\" 📓\n\n16세기 르네상스 시대를 번뜩이게 한 '인문주의자의 국왕' 데시데리우스 에라스무스(Desiderius Erasmus, 1466–1536). 그는 평생 특정 국가나 대학에 얽매이지 않고 로테르담, 파리, 바젤, 베네치아, 런던을 누빈 영원한 노마드 지성인이었습니다.\n\n그는 도로 사정이 열악했던 당시 장시간 이동 시간을 단순한 버리는 시간으로 보지 않았습니다. 항상 외투 주머니 속에 작은 가죽 수첩(*Adversaria*)을 품고 다녔던 에라스무스는, 마차의 심한 흔들림이나 말 위에서도 스치는 생각과 현장에서 마주친 인물들의 생생한 목소리를 적어 내려갔습니다. 1509년 이탈리아에서 알프스산맥을 넘어 영국으로 건너가던 고단한 길 위에서 그가 수첩에 써 내려간 찰나의 구상들은, 영국 도착 후 친구 토머스 모어의 집에서 인류 문학사의 불후의 명작인 《우신예찬(Moriae Encomium)》으로 탄생했습니다.\n\n육체적 불편함 속에서도 지적 몰입을 멈추지 않았던 그의 수첩 메모 습관은, 현대 뇌생리학과 인지 심리학 측면에서도 독창적인 생각의 연결고리를 설계하는 가장 과학적인 생각 포착 기법입니다.",
+      "en": "\"Travel is a true source of wisdom, and a notebook is the map that preserves it.\" 📓\n\nDesiderius Erasmus (1466–1536) was the revered 'Prince of the Humanists' whose intellect illuminated the 16th-century European Renaissance. Refusing to be bound to a single institution, Erasmus lived as a perpetual intellectual nomad, traveling across Rotterdam, Paris, Venice, Basel, and London.\n\nRather than viewing exhausting transit across rugged European roads as wasted time, Erasmus carried a small leather pocket notebook (*Adversaria*) inside his coat at all times. On horseback and in jarring horse-drawn carriages, he continually jotted down passing insights, satires, and conversations. In 1509, while making an arduous trek over the Alps from Italy to England, he penned fleeting fragments in his notebook that he compiled into his timeless masterpiece, *In Praise of Folly* (*Moriae Encomium*), upon arriving at Thomas More's home.\n\nErasmus's habit of capturing thought bursts amidst physical motion aligns perfectly with modern cognitive neuroscience, offering a proven strategy to bypass mental censorship and harness movement-induced creativity.",
+      "ja": "「旅行は知恵の真の源泉であり、手帳はその知恵を収める地図である。」 📓\n\n16世紀ルネサンス時代を輝かせた「人文学者の王」デシデリウス・エラズマス（Desiderius Erasmus、1466–1536）。彼は生涯特定の国家や大学に縛られず、ロッテルダム、パリ、バーゼル、ヴェネツィア、ロンドンを駆け巡った永遠のノマド知的文化人でした。\n\n彼は道路事情が劣悪だった当時、長時間の移動時間を単なる捨てられた時間とは見なしませんでした。常にコートのポケットの中に小さな革の手帳（Adversaria）を忍ばせていたエラズマスは、馬車の激しい揺れの中や馬の上でも、すれ違う思考や現場で出会った人々のみずみずしい声を書き留めました。1509年、イタリアからアルプス山脈を越えてイギリスへ渡る過酷な道のりで彼が手帳に書き留めた瞬間の構想は、イギリス到着後、友人トーマス・モアの家で人類文学史の不朽の名作『愚神礼賛（Moriae Encomium）』として誕生しました。\n\n身体的な不便さの中でも知的没頭を止めなかった彼のメモ習慣は、現代の脳生理学と認知心理学の側面からも独創的な思考の繋がりを設計する最も科学的な思考捉獲技法です。",
+      "zh": "“旅行乃智慧之源，而口袋手记则是收藏这份智慧的地图。” 📓\n\n德西德里乌斯·埃罗士谟（Desiderius Erasmus，1466–1536）是照亮16世纪欧洲文艺复兴光芒的“人文主义者之王”。他终生不受单一机构或国家的羁绊，游历于鹿特丹、巴黎、威尼斯、巴塞尔与伦敦之间，是名副其实的游牧式思想大师。\n\n在路况极差的时代，埃罗士谟绝不将漫长颠簸的旅途视作无谓的蹉跎。他始终在皮衣口袋里随身揣着一本小巧的皮革手记（Adversaria）。无论是在剧烈晃动的马车上还是马背之上，他随时速记下脑海中划过的幽默讽刺、深刻洞见与市井对话。1509年，在翻越阿尔卑斯山脉从意大利前往英国的艰辛旅途中，他在手记里零星落下的绝妙构思，在抵达好友托马斯·莫尔家中后，被迅速整理凝炼成了名垂青史的伟大著作《愚神礼赞（Moriae Encomium）》。\n\n在身体颠簸中依然保持智力沉浸的习惯，完美契合了现代脑生理学与认知心理学机制，是突破思维定势、捕捉原创灵感的最科学方法。",
+      "es": "\"El viaje es una verdadera fuente de sabiduría, y un cuaderno es el mapa que la conserva.\" 📓\n\nDesiderio Erasmo (1466–1536) fue el 'Príncipe de los Humanistas' cuya inteligencia iluminó el Renacimiento europeo. Sin quedar atado a una sola nación, vivió como un nómada intelectual viajando por Rotterdam, París, Venecia, Basilea y Londres.\n\nEn lugar de considerar el transporte como tiempo perdido, Erasmo llevaba siempre un pequeño cuaderno de cuero (*Adversaria*) en su abrigo. A caballo o en carruajes, anotaba continuamente ideas y conversaciones. En 1509, durante un arduo viaje sobre los Alpes de Italia a Inglaterra, anotó en su cuaderno los fragmentos que, al llegar a casa de su amigo Tomás Moro, se convirtieron en su obra maestra, *Elogio de la locura* (*Moriae Encomium*).\n\nSu hábito de capturar pensamientos en movimiento se alinea con la neurociencia cognitiva moderna, ofreciendo una estrategia para aprovechar la creatividad inducida por el movimiento.",
+      "de": "\"Reisen ist eine wahre Quelle der Weisheit, und ein Notizbuch ist die Karte, die sie bewahrt.\" 📓\n\nDesiderius Erasmus (1466–1536) war der 'Fürst der Humanisten', dessen Verstand die europäische Renaissance prägte. Als geistiger Nomade reiste er durch Rotterdam, Paris, Venedig, Basel und London.\n\nAnstatt lange Reisezeiten als verloren anzusehen, trug Erasmus stets ein kleines Leder-Taschenbuch (*Adversaria*) bei sich. Auf dem Pferderücken und in holprigen Kutschen notierte er flüchtige Gedanken. Während einer Reise über die Alpen von Italien nach England im Jahr 1509 hielt er Fragmente fest, die nach seiner Ankunft bei seinem Freund Thomas Morus zu seinem Meisterwerk *Lob der Torheit* (*Moriae Encomium*) wurden.\n\nSeine Angewohnheit, Gedanken in der Bewegung festzuhalten, deckt sich mit den Erkenntnissen der modernen Neurowissenschaften über bewegungsinduzierte Kreativität.",
+      "fr": "« Le voyage est une vraie source de sagesse, et le carnet est la carte qui la préserve. » 📓\n\nDidier Érasme (1466–1536) était le « Prince des Humanistes » dont l'esprit a éclairé la Renaissance européenne. Refusant de se fixer, il vécut en nomade intellectuel à travers Rotterdam, Paris, Venise, Bâle et Londres.\n\nPlutôt que de considérer les trajets comme du temps perdu, Érasme gardait toujours un petit carnet en cuir (*Adversaria*) dans son manteau. À cheval ou en diligence, il notait sans cesse ses intuitions. En 1509, lors d'une traversée éprouvante des Alpes, il a consigné dans son carnet les notes qui sont devenues, dès son arrivée chez son ami Thomas More, son chef-d'œuvre immortel, *Éloge de la folie* (*Moriae Encomium*).\n\nSa routine de capture d'idées en mouvement correspond parfaitement aux neurosciences cognitives modernes sur la créativité liée au mouvement.",
+      "pt": "O viagem é uma verdadeira fonte de sabedoria, e um caderno é o mapa que a preserva.\" 📓\n\nDesidério Erasmo (1466–1536) foi o 'Príncipe dos Humanistas' cujo intelecto iluminou o Renascimento europeu. Recusando fixar-se em um único local, viveu como um nômade intelectual viajando por Roterdã, Paris, Veneza, Basileia e Londres.\n\nEm vez de ver as viagens como tempo perdido, Erasmo levava um pequeno caderno de couro (*Adversaria*) no casaco. A cavalo ou em carruagens, anotava continuamente ideias e conversas. Em 1509, durante uma viagem pelos Alpes da Itália para a Inglaterra, anotou fragmentos que, ao chegar à casa de seu amigo Thomas More, se transformaram em sua obra-prima, *O Elogio da Loucura* (*Moriae Encomium*).\n\nSeu hábito de capturar pensamentos em movimento se alinha com a neurociência cognitiva moderna sobre a criatividade induzida pelo movimento.",
+      "id": "\"Perjalanan adalah sumber kebijaksanaan sejati, dan buku catatan adalah peta yang menyimpannya.\" 📓\n\nDesiderius Erasmus (1466–1536) adalah 'Pangeran Para Humanis' yang pemikirannya menerangi Renaisans Eropa. Menolak terikat pada satu tempat, Erasmus hidup sebagai pengembara intelektual yang bepergian melintasi Rotterdam, Paris, Venesia, Basel, dan London.\n\nAlih-alih menganggap waktu perjalanan sebagai waktu yang terbuang, Erasmus selalu membawa buku catatan saku kecil (*Adversaria*) di dalam mantelnya. Di atas kuda dan di dalam kereta kuda, ia terus menuliskan wawasan sekilas dan percakapan. Pada tahun 1509, saat melakukan perjalanan melintasi Pegunungan Alpen, ia mencatat fragmen-fragmen yang kemudian disusun menjadi karya besarnya, *Pujian atas Kebodohan* (*Moriae Encomium*), setelah tiba di rumah sahabatnya, Thomas More.\n\nKebiasaannya menangkap pemikiran saat bergerak sangat selaras dengan neurosains kognitif modern tentang kreativitas yang dipicu oleh gerakan."
     },
     "whyTitle": {
-      "ko": "신체적 이동이 독창적 아이디어를 유도하는 과학적 원리"
+      "ko": "신체적 이동과 시각적 흐름이 독창적 아이디어를 유도하는 과학적 원리",
+      "en": "Neurological Mechanisms of Physical Movement and Visual Flow in Driving Creativity",
+      "ja": "身体的移動と視覚的フローが独創的アイデアを誘導する科学的原理",
+      "zh": "身体位移与视觉流动诱发原创灵感的神经学原理",
+      "es": "Mecanismos Neurológicos del Movimiento Físico y el Flujo Visual en la Creatividad",
+      "de": "Neurologische Mechanismen von Bewegung und visuellem Fluss bei der Ideenfindung",
+      "fr": "Mécanismes neurologiques du mouvement physique et du flux visuel sur la créativité",
+      "pt": "Mecanismos Neurológicos do Movimento Físico e do Fluxo Visual na Criatividade",
+      "id": "Mekanisme Neurologis Gerakan Fisik dan Aliran Visual dalam Mendorong Kreativitas"
     },
     "whyDesc": {
-      "ko": "물리적인 위치를 이동하거나 차량에 탑승하는 환경 변화는 뇌에 끊임없는 시각 흐름의 변화를 제공하여 신경 가소성을 환기시킵니다. 마차나 열차의 리드미컬하고 수동적인 움직임과 잔잔한 소음은 뇌에서 긴장을 풀고 창의력을 높이는 알파파(Alpha Wave)를 유도합니다. 이 상태에서는 엄격하게 논리를 쥐어짜는 전두엽의 검열 네트워크가 일시적으로 누그러져, 평소 책상 앞에 앉아 있을 때는 도달하기 힘든 기발하고 독창적인 생각의 연결 고리가 쉽게 연결됩니다."
+      "ko": "물리적인 위치를 이동하거나 차량에 탑승하는 환경 변화는 뇌에 끊임없는 시각 흐름의 변화를 제공하여 신경 가소성을 환기시킵니다. 마차나 열차의 리드미컬하고 수동적인 움직임과 잔잔한 소음은 뇌에서 긴장을 풀고 창의력을 높이는 알파파(Alpha Wave)를 유도합니다. 이 상태에서는 엄격하게 논리를 쥐어짜는 전두엽의 검열 네트워크가 일시적으로 누그러져, 평소 책상 앞에 앉아 있을 때는 도달하기 힘든 기발하고 독창적인 생각의 연결 고리가 쉽게 연결됩니다.",
+      "en": "Environments involving physical movement or transit expose the brain to continuous visual flow, stirring neural plasticity. The rhythmic, passive movement and low-level ambient noise of carriages or trains induce alpha brainwaves (8–12 Hz), relaxing executive stress and promoting creative daydreaming. In this state, the prefrontal cortex's rigid cognitive censorship network temporarily relaxes, enabling the Default Mode Network (DMN) to link disparate concepts and generate novel insights that rarely emerge while sitting at a static desk.",
+      "ja": "物理的な位置を移動したり乗り物に乗る環境の変化は、脳に絶え間のない視覚的フローの変化を提供し、神経可塑性を喚起します。馬車や列車のリズムカルで受動的な動きと静かな騒音は、脳から緊張をほぐし創造性を高めるアルファ波（Alpha Wave）を誘導します。この状態では厳格に論理を絞り出す前頭葉の検閲ネットワークが一時的に和らぎ、普段デスクの前に座っている時には到達しにくい奇抜で独創的な思考の繋がりが容易に結合されます。",
+      "zh": "身处移动的交通工具中为大脑提供了持续流动的视觉刺激，进而激活神经可塑性。马车或列车的节律性被动晃动与微弱环境音，可诱发大脑产生放松并升华创造力的 alpha 波（Alpha Waves）。在此状态下，前额叶皮层严苛的逻辑审查网络得以暂时松绑，预设模式网络（DMN）得以将散落的抽象概念进行跨界整合，促成死磕案头时难以诞生的惊人文采与突破。",
+      "es": "Los entornos de transporte exponen al cerebro a un flujo visual continuo, estimulando la plasticidad neuronal. El movimiento rítmico e involuntario de los vehículos induce ondas cerebrales alfa (8–12 Hz), relajando el estrés y promoviendo el pensamiento creativo. En este estado, la red de censura lógica de la corteza prefrontal se atenúa, permitiendo a la Red por Defecto conectar conceptos dispares que rara vez emergen frente a un escritorio estático.",
+      "de": "Umgebungen in Bewegung setzen das Gehirn einem visuellen Fluss aus und stimulieren die neuronale Plastizität. Die rhythmische Bewegung von Fahrzeugen induziert Alpha-Gehirnwellen (8–12 Hz), was Stress abbaut und Tagträume fördert. In diesem Zustand entspannt sich das Kontrollnetzwerk des Präfrontalkortex, sodass das Default Mode Network ungleiche Konzepte verknüpfen kann.",
+      "fr": "Les environnements en mouvement exposent le cerveau à un flux visuel continu, stimulant la plasticité neuronale. Le mouvement rythmique des transports induit des ondes cérébrales alpha (8–12 Hz), apaisant le stress et favorisant la rêverie créative. Dans cet état, le réseau de censure logique du cortex préfrontal se relâche, permettant au Réseau du Mode par Défaut de relier des concepts éloignés.",
+      "pt": "Ambientes em movimento expõem o cérebro a um fluxo visual contínuo, estimulando a plasticidade neuronal. O movimento rítmico dos veículos induz ondas cerebrais alfa (8–12 Hz), relaxando o estresse e promovendo o pensamento criativo. Nesse estado, a rede de censura lógica do córtex pré-frontal relaxa, permitindo conectar conceitos díspares.",
+      "id": "Lingkungan yang melibatkan gerakan fisik membuat otak terpapar aliran visual yang terus-menerus, memicu plastisitas saraf. Gerakan ritmis dan suara sekitar dalam transportasi menginduksi gelombang otak alfa (8–12 Hz), merelaksasi stres dan mendorong pemikiran kreatif. Dalam kondisi ini, jaringan sensor kognitif kaku dari korteks prefrontal melonggar, memungkinkan penghubungan konsep-konsep unik."
     },
     "cautionTitle": {
-      "ko": "이동 중 고자극 디지털 미디어 소비 차단 수칙"
+      "ko": "이동 중 고자극 디지털 미디어 소비 차단 수칙",
+      "en": "Caution: Blocking High-Stimulus Digital Media Consumption During Transit",
+      "ja": "注意事項：移動中の高刺激デジタルメディア消費遮断ルール",
+      "zh": "注意事项：切断旅途中的高刺激数字媒体灌入",
+      "es": "Precaución: Bloquear el Consumo de Medios Digitales de Estímulo Alto",
+      "de": "Vorsichtsmaßnahme: Hochstimulierenden digitalen Medienkonsum unterwegs unterbinden",
+      "fr": "Mise en garde : Bloquer la consommation de médias numériques stimulants en trajet",
+      "pt": "Precaução: Bloquear o Consumo de Mídias Digitais de Alto Estímulo",
+      "id": "Perhatian: Memblokir Konsumsi Media Digital Berstimulus Tinggi Saat Perjalanan"
     },
     "cautionDesc": {
-      "ko": "이동 시간 동안 소셜 미디어를 보거나 모바일 게임에 시각을 빼앗기는 행위는 뇌의 창의적 배양 기회를 완전히 박살 냅니다. 고자극 디지털 인풋은 알파파 상태를 즉시 무력화합니다. 모빌리티 사색을 활성화하려면 가끔 창밖의 흘러가는 풍경을 멍하니 쳐다보며 생각이 마음껏 떠돌아다니도록 놔두고, 수첩을 손에 쥔 채 대기하세요."
+      "ko": "이동 시간 동안 소셜 미디어를 보거나 모바일 게임에 시각을 빼앗기는 행위는 뇌의 창의적 배양 기회를 완전히 박살 냅니다. 고자극 디지털 인풋은 알파파 상태를 즉시 무력화합니다. 모빌리티 사색을 활성화하려면 가끔 창밖의 흘러가는 풍경을 멍하니 쳐다보며 생각이 마음껏 떠돌아다니도록 놔두고, 수첩을 손에 쥔 채 대기하세요.",
+      "en": "Consuming social media feeds or playing mobile games during transit completely destroys your brain's opportunity for creative incubation. High-stimulus digital input instantly collapses the alpha wave state into cognitive exhaustion. To unlock movement-driven contemplation, gaze idly out the window, allow your mind to wander freely, and keep your notebook ready in hand.",
+      "ja": "移動時間中にソーシャルメディアを見たりモバイルゲームに視覚を奪われる行為は、脳の創造的培養の機会を完全に打ち砕きます。高刺激なデジタルインプットはアルファ波状態を即座に無力化させます。モビリティ思索を活性化させるには、時々窓の外の流れる風景をぼんやりと眺め、思考が思いのままに彷徨うように放置し、手帳を手に握ったまま待機してください。",
+      "zh": "在途中刷社交媒体或玩手机游戏会彻底扼杀大脑的创意孕育机会。高刺激的数字内容会瞬间打散 alpha 波，引发深度认知疲劳。欲开启“旅途沉思”，不妨凝望窗外掠过的风景，任有益的遐想自由驰骋，手握笔记准备随时捕获闪现的火花。",
+      "es": "Consumir redes sociales o jugar juegos móviles durante los trayectos destruye la oportunidad de incubación creativa. Las entradas digitales de alto estímulo anulan el estado de ondas alfa. Para activar la contemplación, mire tranquilamente por la ventana, deje que su mente vague y mantenga el cuaderno listo.",
+      "de": "Das Scrollen durch soziale Medien oder Spielen unterwegs zerstört die Gelegenheit zur kreativen Inkubation. Hochstimulierende digitale Inhalte bringen den Alphawellen-Zustand zum Einsturz. Blicken Sie stattdessen aus dem Fenster, lassen Sie die Gedanken schweifen und halten Sie Ihr Notizbuch bereit.",
+      "fr": "Consulter les réseaux sociaux ou jouer sur mobile en trajet détruit la phase d'incubation créative. Les flux numériques stimulants éliminent les ondes alpha. Pour libérer la réflexion, contemplez le paysage par la fenêtre, laissez vagabonder vos pensées et gardez votre carnet à la main.",
+      "pt": "Consumir redes sociais ou jogar no celular durante os trajetos destrói a incubação criativa. Entradas digitais de alto estímulo anulam as ondas alfa. Para ativar a contemplação, olhe pela janela, deixe a mente vagar e mantenha o caderno à mão.",
+      "id": "Mengonsumsi media sosial atau bermain game seluler saat transit menghancurkan peluang inkubasi kreatif otak Anda. Masukan digital berstimulus tinggi secara instan merusak kondisi gelombang alfa. Untuk memicu perenungan, tataplah pemandangan di luar jendela, biarkan pikiran Anda mengalir bebas, dan bersiaplah dengan buku catatan di tangan."
     },
     "steps": [
       {
         "name": {
-          "ko": "1단계: 이동 중 오프라인 환경 구축 및 수첩 세팅"
+          "ko": "1단계: 이동 중 오프라인 환경 구축 및 수첩 세팅",
+          "en": "Step 1: Setting Up an Offline Environment & Preparing Your Pocket Notebook",
+          "ja": "ステップ1：移動中のオフライン環境構築および手帳セットアップ",
+          "zh": "步骤1：确立离线无干扰微环境与装备便携手记",
+          "es": "Paso 1: Configurar un Entorno Fuera de Línea y Preparar el Cuaderno",
+          "de": "Schritt 1: Einrichten einer Offline-Umgebung & Bereithalten des Notizbuchs",
+          "fr": "Étape 1 : Création d'un environnement hors ligne & Préparation du carnet",
+          "pt": "Passo 1: Configurar um Ambiente Offline e Preparar o Caderno",
+          "id": "Langkah 1: Menyiapkan Lingkungan Luring & Menyiapkan Buku Catatan Saku"
         },
         "text": {
-          "ko": "지하철, 버스, 혹은 택시에 탑승했을 때 스마트폰을 무음으로 돌리거나 가방에 넣습니다. 한 손에 쉽게 쥘 수 있는 포켓용 작은 수첩과 펜을 꺼내어 손에 쥡니다."
+          "ko": "지하철, 버스, 혹은 택시에 탑승했을 때 스마트폰을 무음으로 돌리거나 가방에 넣습니다. 한 손에 쉽게 쥘 수 있는 포켓용 작은 수첩과 펜을 꺼내어 손에 쥡니다.",
+          "en": "Upon entering a subway, bus, or taxi, switch your smartphone to silent or stow it in your bag. Hold a compact, palm-sized pocket notebook and pen ready in your hand.",
+          "ja": "地下鉄、バス、またはタクシーに乗った時、スマートフォンをマナーモードにするかバッグにしまいます。片手で簡単に握れるポケット用の小さな手帳とペンを取り出して手に握ります。",
+          "zh": "当踏入地铁、公交车或出租车时，将手机置于静音模式或收进包内。手里平握一本可单手持握的口袋小册子与一支笔。",
+          "es": "Al subir al metro, autobús o taxi, ponga el teléfono en silencio o guárdelo. Sostenga en la mano un cuaderno de bolsillo compacto y un bolígrafo.",
+          "de": "Schalten Sie beim Betreten von U-Bahn, Bus oder Taxis das Smartphone stumm. Halten Sie ein kompaktes Taschennotizbuch und einen Stift griffbereit in der Hand.",
+          "fr": "En montant dans le métro, le bus ou un taxi, mettez votre téléphone en sourdine ou rangez-le. Tenez en main un petit carnet de poche et un stylo.",
+          "pt": "Ao entrar no metrô, ônibus ou táxi, coloque o celular no silencioso e guarde-o na bolsa. Segure um caderno de bolso compacto e uma caneta na mão.",
+          "id": "Saat naik kereta bawah tanah, bus, atau taksi, ubah ponsel pintar ke mode senyap atau simpan di dalam tas. Pegang buku catatan saku dan pena di tangan Anda."
         }
       },
       {
         "name": {
-          "ko": "2단계: 창밖 시각 흐름을 응시하며 몽상(Daydream) 유도"
+          "ko": "2단계: 창밖 시각 흐름을 응시하며 몽상(Daydream) 유도",
+          "en": "Step 2: Gazing at Passing Visual Flow to Induce Daydreaming",
+          "ja": "ステップ2：窓の外の視覚的フローを凝視し夢想（Daydream）を誘導",
+          "zh": "步骤2：凝视窗外流转视觉风光以引向放空漫想（Daydream）",
+          "es": "Paso 2: Observar el Flujo Visual Exterior para Inducir el Ensueño",
+          "de": "Schritt 2: Betrachten des visuellen Flusses zur Aktivierung von Tagträumen",
+          "fr": "Étape 2 : Contemplation du paysage défilant pour induire la rêverie",
+          "pt": "Passo 2: Contemplar o Fluxo Visual Externo para Induzir o Devaneio",
+          "id": "Langkah 2: Menatap Aliran Visual Luar untuk Mendorong Melamun"
         },
         "text": {
-          "ko": "창밖으로 빠르게 스쳐 지나가는 외부 풍경을 편안하게 응시합니다. 시선에 힘을 빼고 흘러가는 풍경의 흐름을 관찰하며, 뇌가 자연스러운 몽상 상태에 진입하도록 둡니다."
+          "ko": "창밖으로 빠르게 스쳐 지나가는 외부 풍경을 편안하게 응시합니다. 시선에 힘을 빼고 흘러가는 풍경의 흐름을 관찰하며, 뇌가 자연스러운 몽상 상태에 진입하도록 둡니다.",
+          "en": "Gaze comfortably at the scenery sweeping past the window. Soften your gaze, observe the flowing motion, and allow your brain to gently transition into a relaxed daydreaming state.",
+          "ja": "窓の外に素早く通り過ぎる外部の風景を快適に凝視します。視線から力を抜き、流れる風景の流れを観察しながら、脳が自然な夢想状態へと進入するように放置します。",
+          "zh": "将视线平缓投向窗外掠过的风光。软化聚焦焦点，静静感受景致的流转，任由大脑自然而然地沉入舒缓的放空漫想状态。",
+          "es": "Contemple con calma el paisaje que pasa por la ventana. Desenfoque ligeramente la mirada y permita que su cerebro entre naturalmente en un estado de ensueño relajado.",
+          "de": "Blicken Sie entspannt aus dem Fenster auf die vorbeiziehende Landschaft. Lassen Sie den Blick weich werden und erlauben Sie Ihrem Gehirn, in einen leichten Tagtraum abzugleiten.",
+          "fr": "Contemplez paisiblement le paysage qui défile par la fenêtre. Relâchez le regard et laissez votre cerveau basculer naturellement dans un état de rêverie.",
+          "pt": "Contemple com calma a paisagem passando pela janela. Suavize o olhar e permita que seu cérebro entre naturalmente em um estado de devaneio relaxado.",
+          "id": "Tataplah pemandangan yang lewat di luar jendela dengan santai. Lembutkan pandangan Anda dan biarkan otak Anda secara alami beralih ke kondisi melamun yang santai."
         }
       },
       {
         "name": {
-          "ko": "3단계: 번뜩이는 아이디어의 즉각적 현장 기록"
+          "ko": "3단계: 번뜩이는 아이디어의 즉각적 현장 기록",
+          "en": "Step 3: Instant On-the-Spot Capture of Fleeting Insights",
+          "ja": "ステップ3：ひらめくアイデアの即座な現場記録",
+          "zh": "步骤3：趁热打铁当场捕捉划过脑海的绝妙顿悟",
+          "es": "Paso 3: Captura Inmediata y al Instante de las Ideas Fugaces",
+          "de": "Schritt 3: Sofortiges Aufschreiben flüchtiger Gedankenblitze vor Ort",
+          "fr": "Étape 3 : Consignation immédiate des idées émergentes sur le champ",
+          "pt": "Passo 3: Captura Imediata no Local de Insights Fugazes",
+          "id": "Langkah 3: Menangkap Wawasan Sekilas Secara Instan di Lokasi"
         },
         "text": {
-          "ko": "머릿속에 기발한 비유나 해결책이 스치는 찰나, 즉시 포켓 수첩을 펼쳐 핵심 단어들을 받아 적습니다. 목적지에 도착한 뒤 적으려 하면 이미 아이디어가 휘발되어 사라지므로 그 즉시 기록해야 합니다."
+          "ko": "머릿속에 기발한 비유나 해결책이 스치는 찰나, 즉시 포켓 수첩을 펼쳐 핵심 단어들을 받아 적습니다. 목적지에 도착한 뒤 적으려 하면 이미 아이디어가 휘발되어 사라지므로 그 즉시 기록해야 합니다.",
+          "en": "The second a clever metaphor or solution flashes through your mind, open your pocket notebook immediately and write down key words. Waiting until you reach your destination allows the insight to evaporate entirely.",
+          "ja": "頭の中に奇抜な比喩や解決策がかすめた瞬間、即座にポケット手帳を開いて核心単語を書き留めます。目的地に到着した後に書こうとすると、すでにアイデアが蒸発して消えてしまうため、その場で即座に記録しなければなりません。",
+          "zh": "当绝妙的隐喻或破局方案划过脑海的微秒间，当即翻开手中的口袋小册子，抄录下核心关键词。若企图留待抵达目的地后再行书写，灵感早已挥发殆尽。",
+          "es": "En el instante en que una metáfora o solución cruce su mente, abra su cuaderno de bolsillo y anote las palabras clave. Esperar a llegar a su destino hará que la idea se evapore.",
+          "de": "In dem Moment, in dem ein Gedanke aufblitzt, öffnen Sie das Notizbuch und schreiben Schlüsselwörter auf. Wenn Sie bis zum Ziel warten, ist die Idee verflogen.",
+          "fr": "Dès qu'une métaphore ou une solution traverse votre esprit, ouvrez votre carnet et notez les mots-clés. Attendre d'être arrivé fera évaporer l'idée.",
+          "pt": "No instante em que uma metáfora ou solução cruzar sua mente, abra o caderno e anote as palavras-chave. Esperar até chegar ao destino fará a ideia evaporar.",
+          "id": "Saat metafora atau solusi melintas di pikiran Anda, segera buka buku catatan saku Anda dan tuliskan kata-kata kunci. Menunggu hingga Anda tiba di tujuan akan membuat ide tersebut menguap sepenuhnya."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "이동 수단을 탈 때마다 매일 수첩을 적어야 하나요?"
+          "ko": "이동 수단을 탈 때마다 매일 수첩을 적어야 하나요?",
+          "en": "Do I need to write in my notebook every single time I travel?",
+          "ja": "乗り物に乗るたびに毎日手帳を書かなければなりませんか？",
+          "zh": "每次乘坐交通工具时都必须提笔书写手记吗？",
+          "es": "¿Debo escribir en el cuaderno cada vez que me desplazo?",
+          "de": "Muss ich bei jeder Fahrt im Notizbuch schreiben?",
+          "fr": "Dois-je écrire dans mon carnet à chaque déplacement ?",
+          "pt": "Preciso escrever no caderno todas as vezes que viajar?",
+          "id": "Apakah saya harus menulis di buku catatan setiap kali bepergian?"
         },
         "answer": {
-          "ko": "매일 거창한 글을 쓸 필요는 없습니다. 대중교통이나 차량으로 이동하는 10~20분의 시간 동안 스마트폰 대신 창밖을 보며 생각에 잠기고, 스쳐 지나가는 단상 하나를 메모하는 것만으로도 뇌의 디폴트 모드 네트워크(DMN)와 알파파를 활성화하기에 충분합니다."
+          "ko": "매일 거창한 글을 쓸 필요는 없습니다. 대중교통이나 차량으로 이동하는 10~20분의 시간 동안 스마트폰 대신 창밖을 보며 생각에 잠기고, 스쳐 지나가는 단상 하나를 메모하는 것만으로도 뇌의 디폴트 모드 네트워크(DMN)와 알파파를 활성화하기에 충분합니다.",
+          "en": "No, grand writing is not required daily. Spending 10 to 20 minutes gazing out the window during transit—letting your mind process thoughts and writing down a single passing insight—is more than enough to activate the brain's Default Mode Network (DMN) and alpha waves.",
+          "ja": "毎日大げさな文章を書く必要はありません。公共交通機関や車で移動する10〜20分の時間中、スマートフォンの代わりに窓の外を眺めて思考に浸り、通り過ぎる断片一つをメモする me だけでも、脳のデフォルト・モード・ネットワーク（DMN）とアルファ波を活性化させるのに十分に効果的です。",
+          "zh": "绝无必要每天洋洋洒洒书写长篇。只需在乘坐公共交通的10-20分钟旅途中，收起手机凝视窗外，任由思绪飞扬并记录下一句感悟，便足以拉动大脑的预设模式网络（DMN）并激活 alpha 波。",
+          "es": "No, no necesita escribir grandes textos. Pasar de 10 a 20 minutos mirando por la ventana durante el trayecto y anotando un solo pensamiento es suficiente para activar la Red por Defecto y las ondas alfa.",
+          "de": "Nein. Es reicht aus, während einer 10- bis 20-minütigen Fahrt aus dem Fenster zu blicken, Gedanken nachzugehen und einen Satz zu notieren, um das Default Mode Network und Alphawellen zu aktivieren.",
+          "fr": "Non. Passer 10 à 20 minutes à regarder par la fenêtre en trajet et noter une seule pensée suffit amplement à stimuler le Réseau du Mode par Défaut et les ondes alpha.",
+          "pt": "Não. Passar de 10 a 20 minutos olhando pela janela durante o trajeto e anotando um único pensamento é suficiente para ativar a Rede de Modo Padrão e as ondas alfa.",
+          "id": "Tidak, Anda tidak perlu menulis tulisan besar setiap hari. Meluangkan waktu 10 hingga 20 menit untuk menatap luar jendela selama transit dan mencatat satu wawasan sekilas sudah lebih dari cukup untuk mengaktifkan Default Mode Network dan gelombang alfa."
         }
       },
       {
         "question": {
-          "ko": "대중교통 안에서 손으로 수첩에 글을 쓰면 흔들려서 힘든데, 스마트폰 메모 앱이나 음성 메모로 대체해도 되나요?"
+          "ko": "대중교통 안에서 손으로 수첩에 글을 쓰면 흔들려서 힘든데, 스마트폰 메모 앱이나 음성 메모로 대체해도 되나요?",
+          "en": "Can I replace paper notebooks with smartphone note apps or voice memos if transit shaking makes writing difficult?",
+          "ja": "公共交通機関の中で手で手帳に文字を書くと揺れて難しいですが、スマートフォンのメモアプリや音声メモで代替してもよいですか？",
+          "zh": "在公共交通工具上颠簸导致手写困难时，可用手机便签或语音备忘录替代吗？",
+          "es": "¿Puedo usar aplicaciones de notas o notas de voz si los vaivenes dificultan escribir a mano?",
+          "de": "Kann ich Notiz-Apps oder Sprachmemos nutzen, wenn Wackeln das Schreiben erschwert?",
+          "fr": "Puis-je utiliser des applications de notes ou des mémo vocaux si les secousses gênent l'écriture ?",
+          "pt": "Posso usar aplicativos de notas ou áudios se os solavancos dificultarem a escrita à mão?",
+          "id": "Bisakah saya mengganti buku catatan kertas dengan aplikasi catatan ponsel pintar atau memo suara jika guncangan membuat penulisan sulit?"
         },
         "answer": {
-          "ko": "네, 얼마든지 대체 가능합니다. 핵심은 매체의 종류가 아니라 '이동 중 고자극 콘텐츠(숏폼, SNS, 게임)의 유입을 차단하고 뇌에 사색할 여백을 주는 것'입니다. 화면 알림을 차단한 오프라인 메모 앱이나 음성 녹음 기능도 훌륭한 현대식 이동용 수첩이 됩니다."
+          "ko": "네, 얼마든지 대체 가능합니다. 핵심은 매체의 종류가 아니라 '이동 중 고자극 콘텐츠(숏폼, SNS, 게임)의 유입을 차단하고 뇌에 사색할 여백을 주는 것'입니다. 화면 알림을 차단한 오프라인 메모 앱이나 음성 녹음 기능도 훌륭한 현대식 이동용 수첩이 됩니다.",
+          "en": "Yes, absolutely. The critical factor is not the physical medium, but blocking high-stimulus digital clutter (short-form videos, social media, games) during transit to provide cognitive breathing room. Offline note apps with notifications disabled or voice recorders serve as excellent modern travel notebooks.",
+          "ja": "はい、いくらでも代替可能です。核心は媒体の種類ではなく「移動中の高刺激コンテンツ（ショート動画、SNS、ゲーム）の流入を遮断し、脳と思索する余白を与えること」にあります。画面通知を遮断したオフラインメモアプリや音声録音機能も、素晴らしい現代的移動用手帳になります。",
+          "zh": "完全可以。机制的核心不在于载体是纸张还是屏幕，而在于“在旅途中杜绝高刺激数字杂音（如短视频、社交媒体、手游）的诱惑，给大脑留出思考的空白”。彻底隔离通知提醒的离线便签应用或语音录音，皆是极其优秀的现代版移动手记。",
+          "es": "Sí, totalmente. Lo fundamental no es el soporte, sino bloquear el contenido digital hiperestimulante (videos cortos, redes sociales, juegos) para darle espacio al cerebro. Las aplicaciones fuera de línea o las notas de voz son excelentes alternativas.",
+          "de": "Ja, absolut. Entscheidend ist nicht das Medium, sondern das Unterbinden hochstimulierender Inhalte (Shorts, Social Media, Spiele), um Raum für Gedanken zu schaffen. Offline-Notiz-Apps oder Diktierfunktionen sind hervorragende moderne Reise-Notizbücher.",
+          "fr": "Oui, tout à fait. L'important n'est pas le support, mais d'éliminer les contenus stimulants (vidéos courtes, réseaux sociaux, jeux) pour offrir de l'espace à la réflexion. Les applications hors ligne ou enregistreurs vocaux sont d'excellentes alternatives.",
+          "pt": "Sim, com certeza. O importante não é o suporte, mas bloquear conteúdos de alto estímulo (vídeos curtos, redes sociais, jogos) para dar espaço ao cérebro. Aplicativos offline ou gravadores de voz funcionam perfeitamente.",
+          "id": "Ya, tentu saja. Faktor utamanya bukan pada medianya, melainkan memblokir gangguan digital berstimulus tinggi (video pendek, media sosial, game) selama perjalanan untuk memberikan ruang bernapas bagi kognitif. Aplikasi catatan luring atau perekam suara berfungsi sebagai buku catatan perjalanan modern yang luar biasa."
         }
       }
     ]
