@@ -15,7 +15,7 @@ steps:
   - name: "Paso 2: Construcción de un Santuario Dedicado Sin Vías de Escape"
     text: "Entre en su espacio de trabajo manteniendo solo las herramientas esenciales. Establezca un límite físico y psicológico estricto donde no sea posible salir antes de la hora acordada."
   - name: "Paso 3: Ejecución de Enfoque Prefrontal al 100% en Aislamiento Total"
-    text: "Con el contacto externo y las vías de escape bloqueadas, dirija el 100% de sus recursos cognitivos prefrontales a la tarea objetivo, superando la fecha límite."
+    text: "Con el contacto externo y las vías de escape bloqs, dirija el 100% de sus recursos cognitivos prefrontales a la tarea objetivo, superando la fecha límite."
 faqs:
   - question: "¿Realmente Victor Hugo se afeitó la mitad del cabello y de la barba para escribir su novela?"
     answer: "Sí, totalmente. A finales de 1830, ante una fecha límite estricta para *Nuestra Señora de París*, Hugo se afeitó la mitad de la cabeza y la barba e hizo guardar su ropa de salir para aislarse en casa hasta terminar la novela."
@@ -82,7 +82,7 @@ No intente superar las notificaciones o tentaciones solo con fuerza de voluntad.
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Paso 3: Ejecución de Enfoque Prefrontal al 100% en Aislamiento Total</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Con el contacto externo y las vías de escape bloqueadas, dirija el 100% de sus recursos cognitivos prefrontales a la tarea objetivo, superando la fecha límite.
+    Con el contacto externo y las vías de escape bloqs, dirija el 100% de sus recursos cognitivos prefrontales a la tarea objetivo, superando la fecha límite.
   </p>
 </div>
 

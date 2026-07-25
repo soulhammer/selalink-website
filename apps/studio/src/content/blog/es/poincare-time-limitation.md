@@ -42,7 +42,7 @@ faqs:
 
 Según la ciencia cognitiva, el cerebro funciona en dos modos: 'Modo Enfocado' y 'Modo Difuso'. En el Modo Enfocado, al trabajar intensamente en un escritorio, la corteza prefrontal reduce su alcance a vías neuronales específicas. Sin embargo, al descansar o pasear, el cerebro pasa al Modo Difuso, activando la Red Neuronal por Defecto (DMN).
 
-Durante el Modo Difuso, el subconsciente realiza la 'Incubación': reorganizando aleatoriamente piezas de información. Las soluciones a ecuaciones complejas surgen durante el descanso porque el Modo Difuso derriba las barreras de control cognitivo, formando conexiones neuronales novedosas que estaban bloqueadas durante la concentración intensa.
+Durante el Modo Difuso, el subconsciente realiza la 'Incubación': reorganizando aleatoriamente piezas de información. Las soluciones a ecuaciones complejas surgen durante el descanso porque el Modo Difuso derriba las barreras de control cognitivo, formando conexiones neuronales novedosas que estaban bloqs durante la concentración intensa.
 
 ---
 

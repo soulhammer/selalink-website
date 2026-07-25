@@ -13,7 +13,7 @@ steps:
   - name: "Step 1: Preparing a Pocket Notebook & Securing an Observation Post"
     text: "Keep a palm-sized mini notebook and pen (or a single-line digital note app) ready, positioning yourself at an observation hub like a waiting room, cafe, or transit stop."
   - name: "Step 2: Capturing 1-3 Micro-Details in a Flash & Recording Them"
-    text: "Scan a passing individual or environment within 1 second for 1 to 3 distinct micro-features (a loose sleeve thread, an eye twitch, a scuffed shoe) and immediately jot them down."
+    text: "Scan a passing individual or environment within 1 second for 1 to 3 distinct micro-features (a loose sleeve thread, an eye twitch, a sc￭ shoe) and immediately jot them down."
   - name: "Step 3: 1 Minute of Inferring Emotional Context & Metacognitive Analysis"
     text: "Based on the captured micro-details, spend 1 minute mentally inferring the person's likely occupation, emotional state (anxiety, exhaustion, pride), and behavioral motivations to finalize cognitive resolution."
 faqs:
@@ -72,7 +72,7 @@ When practicing micro-observation, guard against staring directly at individuals
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Step 2: Capturing 1-3 Micro-Details in a Flash & Recording Them</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Scan a passing individual or environment within 1 second for 1 to 3 distinct micro-features (a loose sleeve thread, an eye twitch, a scuffed shoe) and immediately jot them down.
+    Scan a passing individual or environment within 1 second for 1 to 3 distinct micro-features (a loose sleeve thread, an eye twitch, a sc￭ shoe) and immediately jot them down.
   </p>
 </div>
 

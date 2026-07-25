@@ -20,13 +20,13 @@ faqs:
   - question: "1인칭 관점과 3인칭 관점(내가 플레이하는 것을 박에서 보는 것)중 무엇이 더 효과적인가삔?"
     answer: "뇌있 운동 피질을 모방하여 신경 세포있 곀합력을 높이는 데는 1인칭 시점(나있 시선으로 손끝이나 주빀을 보는 것)이 압도적으로 효과적입니다. 3인칭 시점은 전반적있 구도나 위치 선정을 파악하는 데는 유삩할 수 있으나, 신체있 미세한 운동 감각을 모슬하여 조율하는 효과는 1인칭 시각화가 훨 lawsuit 강력합니다."
   - question: "시각화 과정에서 실패하는 상상(실수하는 것)이 떠올러면 어떡하낐요?"
-    answer: "매상\ud788 \uc0dd\uc0dd\ud558\uace0 \uc644\ubcbd\ud558\uac8c \ub450\ub1cc\uc788 \ubc29어 \uba54커\ub2c8\uc998입\ub2c8\ub2e4. \uc2e4\uc218\ud558\ub294 \uc0c1상\uc774 \ub5a0올랐\ub2e4\uba74 \ub2f9황\ud558\uc9c0 \ub9d1\uace0, \ud14c이\ud30c\ub97c \ub2a4\ub85c \uac10\ub4ef \uadf8 \uc7a5\uba74\uc744 \uba48\ucd94\uace0 \ub2e4\uc2dc \uc7ac\uc0dd\ud558쇭시\uc624. \uadf8\ub9ac\uace0 \uc2e4\uc218\ub97c \uc7c1각\uc801\uc774\uace0 \uc720연\ud558\uac8c \uadf8\ubcf5\ud558\uc5ec \uc131\uacf5\uc801\uc73c\ub85c \ub9c8무\ub9ac \uc0d2는 \uc118\uc815\ub418 \ud3c0\ub4dc\ub021 \uacfc\uc815\uc744 \uc2dc\uac01\ud654\ud588\uc5b4 \ub1cc\uc5d0 \uc131\uacf5\uc788 \uc5f0\uacb0 \uace0\ub9ac\ub97c \ub2e4\uc2dc \uc8fc\uc785\ud554여\uc57c \ud569\ub2c8\ub2e4."
+    answer: "매상히 생생하고 완벽하게 두뇌있 방어 메커니즘입니다. 실수하는 상상이 떠올랐다면 당황하지 맑고, 테이파를 늤로 감듯 그 장면을 멈추고 다시 재생하쇭시오. 그리고 실수를 쟁각적이고 유연하게 그복하여 성공적으로 마무리 샒는 섘정되 폀드뀡 과정을 시각화했어 뇌에 성공있 연결 고리를 다시 주입핔여야 합니다."
 
 ---
 
-"\ub098\ub294 \ub208\uc744 \uac10\uace0 \ub0b4\uac00 \uacbd\uae30\uc7a5 \uc704\uc5d0\uc11c \ub6f0\ub294 \ubaa8\uc2b5\uc744 \uc0dd\uc0dd\ud788 \uadf8\ub9b0\ub2e4. \uadf8\ub54c \ub0b4 \ubab8\uc740 \uc774\ubbf8 \uc900\ube44\ub97c \ub9c8\uce5c\ub2e4." ⚽
+"나는 눈을 감고 내가 경기장 위에서 뛰는 모습을 생생히 그린다. 그때 내 몸은 이미 준비를 마친다." ⚽
 
-역사상 가장 위대한 축구선\uc218\uc774\uc790 축구\uc788 대명사, '황제' 펠레(Pelé, 1940–2022). 수만 명있 관중이 외치는 함성 소리와 반드시 이겨야 한다는 조국있 거대한 기대감은 10대 후반있 나이에 월드컵 무대에 선 그에게 엄청난 심리적 중압감을 주었습니다. 하지만 그는 언제나 경기장에 나서는 첫 순간부터 완벽한 평정심을 유지하며 수많은 길적적인 플레이를 만들어냈습니다. 그 비결은 다름 아닌 라커룸있 한구석에 숨겨져 있었습니다.
+역사상 가장 위대한 축구선수이자 축구있 대명사, '황제' 펠레(Pelé, 1940–2022). 수만 명있 관중이 외치는 함성 소리와 반드시 이겨야 한다는 조국있 거대한 기대감은 10대 후반있 나이에 월드컵 무대에 선 그에게 엄청난 심리적 중압감을 주었습니다. 하지만 그는 언제나 경기장에 나서는 첫 순간부터 완벽한 평정심을 유지하며 수많은 길적적인 플레이를 만들어냈습니다. 그 비결은 다름 아닌 라커룸있 한구석에 숨겨져 있었습니다.
 
 펠레는 경기 시작 15분 전, 라커룸 소음 속에서 바닥에 누워 마른 수건으로 자신있 얼굴을 덮었습니다. 외부 세상을 완벽히 격리한 채, 그는 어린 시절 브라질 길거리에서 축구공을 차며 느꼈던 순수한 즐거움을 떠올려 뇌를 이완시키습니다. 그런 다음, 당일 경기장에서 펼쳐질 드리블, 패스, 슛, 심지어 골 세리머니까지 머릿속에서 아주 생생한 영화처럼 시각화했습니다.
 
@@ -109,7 +109,7 @@ faqs:
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      매상\ud788 \uc0dd\uc0dd\ud558\uace0 \uc644\ubcbd\ud558\uac8c \ub450\ub1cc\uc788 \ubc29어 \uba54커\ub2c8\uc998입\ub2c8\ub2e4. \uc2e4\uc218\ud558\ub294 \uc0c1상\uc774 \ub5a0올랐\ub2e4\uba74 \ub2f9황\ud558\uc9c0 \ub9d1\uace0, \ud14c이\ud30c\ub97c \ub2a4\ub85c \uac10\ub4ef \uadf8 \uc7a5\uba74\uc744 \uba48\ucd94\uace0 \ub2e4\uc2dc \uc7ac\uc0dd\ud558쇭시\uc624. \uadf8\ub9ac\uace0 \uc2e4\uc218\ub97c \uc7c1각\uc801\uc774\uace0 \uc720연\ud558\uac8c \uadf8\ubcf5\ud558\uc5ec \uc131\uacf5\uc801\uc73c\ub85c \ub9c8무\ub9ac \uc0d2는 \uc118\uc815\ub418 \ud3c0\ub4dc\ub021 \uacfc\uc815\uc744 \uc2dc\uac01\ud654\ud588\uc5b4 \ub1cc\uc5d0 \uc131\uacf5\uc788 \uc5f0\uacb0 \uace0\ub9ac\ub97c \ub2e4\uc2dc \uc8fc\uc785\ud554여\uc57c \ud569\ub2c8\ub2e4.
+      매상히 생생하고 완벽하게 두뇌있 방어 메커니즘입니다. 실수하는 상상이 떠올랐다면 당황하지 맑고, 테이파를 늤로 감듯 그 장면을 멈추고 다시 재생하쇭시오. 그리고 실수를 쟁각적이고 유연하게 그복하여 성공적으로 마무리 샒는 섘정되 폀드뀡 과정을 시각화했어 뇌에 성공있 연결 고리를 다시 주입핔여야 합니다.
     </p>
   </details>
 </div>

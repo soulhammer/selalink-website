@@ -106,7 +106,7 @@
           "en": "Select no more than 3 advisors who possess objective expertise in the relevant decision-making field and are capable of pointing out your subjective stubbornness.",
           "ja": "自身の主観的な我執を指摘することができ、該当する意思決定分野の客観的な専門性を持つ3人以内の参謀を選別します。",
           "zh": "挑选不超过3名在相关决策领域具备客观专业知识、且能够指正自己主观固执的幕僚。",
-          "es": "Seleccione no más de 3 asesores que posean experiencia objetiva en el campo de decisión relevante y sean capaces de señalar su terquedad subjetiva.",
+          "es": "Seleccione no más de 3 asesores que posean experiencia objetiva en el campo de decisión relevante y sean capaces de señalar su terq subjetiva.",
           "de": "Wählen Sie maximal 3 Berater aus, die über objektive Expertise im jeweiligen Entscheidungsbereich verfügen und in der Lage sind, auf Ihre subjektive Sturheit hinzuweisen.",
           "fr": "Sélectionnez au maximum 3 conseillers possédant une expertise objective dans le domaine décisionnel concerné et capables de pointer du doigt votre entêtement subjectif.",
           "pt": "Selecione no máximo 3 conselheiros que possuam experiência objetiva no campo de decisão relevante e sejam capazes de apontar sua teimosia subjetiva.",
@@ -166,7 +166,7 @@
       {
         "question": {
           "ko": "동료들의 피드백을 들을 때 감정적으로 설득당하지 않으려면 어떻게 하나요?",
-          "en": "How can I avoid being emotionally persuaded when listening to colleagues' feedback?",
+          "en": "How can I avoid being emotionally pers귭 when listening to colleagues' feedback?",
           "ja": "同僚のフィードバックを聞く時、感情的に説得されないようにするにはどうすればいいですか？",
           "zh": "在听取同事的反馈时，如何避免在情感上被说服？",
           "es": "¿Cómo puedo evitar ser persuadido emocionalmente al escuchar los comentarios de mis colegas?",

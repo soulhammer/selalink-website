@@ -20,7 +20,7 @@ faqs:
   - question: "¿Leer literatura, como novelas o ensayos, desencadena los mismos efectos de control cognitivo prefrontal?"
     answer: "Sí, siempre que el texto exija un esfuerzo cognitivo activo. Mientras que la ficción ligera ofrece una estimulación prefrontal mínima, la literatura clásica o los ensayos ricos en motivaciones complejas y dilemas morales involucran fuertemente las redes de control cognitivo prefrontales."
   - question: "¿Las tabletas o lectores de tinta electrónica proporcionan los mismos beneficios de reestructuración cognitiva que los libros físicos?"
-    answer: "Sí, siempre que las distracciones estén bloqueadas. Si usa una tableta estándar, active el modo No molestar. Se prefieren los libros físicos de papel y los lectores de tinta electrónica, ya que el paso táctil de páginas y la ausencia de parpadeos de luz reducen la fatiga visual."
+    answer: "Sí, siempre que las distracciones estén bloqs. Si usa una tableta estándar, active el modo No molestar. Se prefieren los libros físicos de papel y los lectores de tinta electrónica, ya que el paso táctil de páginas y la ausencia de parpadeos de luz reducen la fatiga visual."
 
 ---
 
@@ -107,7 +107,7 @@ Para obtener los beneficios cognitivos protectores de esta rutina, abandone el m
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Sí, siempre que las distracciones estén bloqueadas. Si usa una tableta estándar, active el modo No molestar. Se prefieren los libros físicos de papel y los lectores de tinta electrónica, ya que el paso táctil de páginas y la ausencia de parpadeos de luz reducen la fatiga visual.
+      Sí, siempre que las distracciones estén bloqs. Si usa una tableta estándar, active el modo No molestar. Se prefieren los libros físicos de papel y los lectores de tinta electrónica, ya que el paso táctil de páginas y la ausencia de parpadeos de luz reducen la fatiga visual.
     </p>
   </details>
 </div>

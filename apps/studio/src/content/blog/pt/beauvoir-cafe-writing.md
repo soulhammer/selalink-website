@@ -18,7 +18,7 @@ steps:
     text: "Execute suas tarefas com foco durante um bloco de tempo definido (2-4 horas) e, se o ruído ao redor ultrapassar os níveis aceitáveis, ative imediatamente dispositivos de cancelamento de ruído para proteger seu estado cognitivo."
 faqs:
   - question: "Por que Simone de Beauvoir escolheu o Café de Flore como seu espaço de escrita?"
-    answer: "Durante o frio rigoroso da década de 1940 em Paris, o Café de Flore mantinha seu aquecedor quente e oferecia uma atmosfera acolhedora para os artistas, onde os intelectuais podiam ficar por horas sem pressão, tornando-o um espaço de criação ideal."
+    answer: "Durante o frio rigoroso da década de 1940 em Paris, o Café de Flore mantinha seu aqor quente e oferecia uma atmosfera acolhedora para os artistas, onde os intelectuais podiam ficar por horas sem pressão, tornando-o um espaço de criação ideal."
   - question: "Posso implementar um Script Cognitivo semelhante em um ambiente de trabalho em casa ou remoto?"
     answer: "Sim, com certeza. Você pode induzir o mesmo efeito de alternância cognitiva em casa simplesmente ligando uma luminária de mesa específica em um canto dedicado, usando uma xícara exclusiva para o foco e reproduzindo faixas de ruído branco de 50 a 60 dB."
 
@@ -97,7 +97,7 @@ Nem todo ruído é benéfico para o cérebro. Músicas altas acima de 70 decibé
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Durante o frio rigoroso da década de 1940 em Paris, o Café de Flore mantinha seu aquecedor quente e oferecia uma atmosfera acolhedora para os artistas, onde os intelectuais podiam ficar por horas sem pressão, tornando-o um espaço de criação ideal.
+      Durante o frio rigoroso da década de 1940 em Paris, o Café de Flore mantinha seu aqor quente e oferecia uma atmosfera acolhedora para os artistas, onde os intelectuais podiam ficar por horas sem pressão, tornando-o um espaço de criação ideal.
     </p>
   </details>
   <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>

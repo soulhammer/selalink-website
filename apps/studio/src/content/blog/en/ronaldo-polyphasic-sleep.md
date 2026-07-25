@@ -50,7 +50,7 @@ Ronaldo's 90-minute polyphasic sleep respects the natural unit of the brain's sl
 
 ## Blackout Environment and Sleep Posture Determine Sleep Efficiency
 
-To succeed with polyphasic sleep or power naps, environmental control must be absolute. Minor light leaks or ambient noises disrupt deep brain relaxation. To reduce cardiovascular stress and keep the spine aligned, sleep in a fetal position lying on your side with knees gently bent.
+To s쳮d with polyphasic sleep or power naps, environmental control must be absolute. Minor light leaks or ambient noises disrupt deep brain relaxation. To reduce cardiovascular stress and keep the spine aligned, sleep in a fetal position lying on your side with knees gently bent.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">

@@ -20,7 +20,7 @@ faqs:
   - question: "¿Qué debo hacer si no tengo nada que escribir a diario o me falta tiempo?"
     answer: "No hay necesidad de escribir extensamente; solo tres líneas son suficientes. Al resumir 'una cosa que más me agotó hoy', 'mi emoción en ese momento' y 'una cosa de esas que puedo corregir mañana', el mecanismo de objetivación emocional del cerebro funciona exactamente igual."
   - question: "¿Tiene el mismo efecto escribir en una aplicación de diario en el teléfono o tecleando?"
-    answer: "En principio, la escritura a mano analógica en papel con un bolígrafo es la más efectiva, ya que la retroalimentación táctil que envía datos sensoriales precisos despierta mejor el control cognitivo en el lóbulo frontal. Sin embargo, si escribe al teclado manteniendo un estado concentrado con las notificaciones bloqueadas y redacta con honestidad, aún puede experimentar amplios beneficios de regulación emocional."
+    answer: "En principio, la escritura a mano analógica en papel con un bolígrafo es la más efectiva, ya que la retroalimentación táctil que envía datos sensoriales precisos despierta mejor el control cognitivo en el lóbulo frontal. Sin embargo, si escribe al teclado manteniendo un estado concentrado con las notificaciones bloqs y redacta con honestidad, aún puede experimentar amplios beneficios de regulación emocional."
 
 ---
 
@@ -107,7 +107,7 @@ Para disfrutar plenamente del efecto de purificación emocional de un diario ref
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      En principio, la escritura a mano analógica en papel con un bolígrafo es la más efectiva, ya que la retroalimentación táctil que envía datos sensoriales precisos despierta mejor el control cognitivo en el lóbulo frontal. Sin embargo, si escribe al teclado manteniendo un estado concentrado con las notificaciones bloqueadas y redacta con honestidad, aún puede experimentar amplios beneficios de regulación emocional.
+      En principio, la escritura a mano analógica en papel con un bolígrafo es la más efectiva, ya que la retroalimentación táctil que envía datos sensoriales precisos despierta mejor el control cognitivo en el lóbulo frontal. Sin embargo, si escribe al teclado manteniendo un estado concentrado con las notificaciones bloqs y redacta con honestidad, aún puede experimentar amplios beneficios de regulación emocional.
     </p>
   </details>
 </div>

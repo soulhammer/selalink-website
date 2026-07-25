@@ -20,7 +20,7 @@ faqs:
   - question: "Dois-je effectuer ce rituel de rangement quotidiennement avant de travailler ?"
     answer: "Oui, nettoyer les objectifs ou ranger votre bureau envoie un signal d'ordre cognitif au cerveau pour maximiser l'attention."
   - question: "Comment remplacer cela si je n'ai pas de microscope ou de chiffon en microfibre ?"
-    answer: "Essuyer votre \u00e9cran d'ordinateur, ranger votre bureau ou nettoyer votre smartphone avant de commencer produit exactement le mê me effet."
+    answer: "Essuyer votre écran d'ordinateur, ranger votre bureau ou nettoyer votre smartphone avant de commencer produit exactement le mê me effet."
 
 ---
 
@@ -105,7 +105,7 @@ Ne vous surmenez pas par perfectionnisme. Pratiquer confortablement 3 minutes pa
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Essuyer votre \u00e9cran d'ordinateur, ranger votre bureau ou nettoyer votre smartphone avant de commencer produit exactement le mê me effet.
+      Essuyer votre écran d'ordinateur, ranger votre bureau ou nettoyer votre smartphone avant de commencer produit exactement le mê me effet.
     </p>
   </details>
 </div>

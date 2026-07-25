@@ -42,7 +42,7 @@ faqs:
 
 Segundo a ciência cognitiva, o cérebro opera em dois modos: 'Modo Focado' e 'Modo Difuso'. No Modo Focado, ao trabalhar intensamente, o córtex pré-frontal restringe seu escopo a caminhos específicos. Contudo, ao caminhar ou descansar, o cérebro passa para o Modo Difuso, ativando a Rede de Modo Padrão (DMN).
 
-Durante o Modo Difuso, o subconsciente realiza a 'Incubação' — recombinando aleatoriamente pedaços de conhecimento. As soluções para equações difíceis surgem durante o descanso porque o Modo Difuso derruba as barreiras de controle, formando novas conexões neurais que estavam bloqueadas durante o foco intenso.
+Durante o Modo Difuso, o subconsciente realiza a 'Incubação' — recombinando aleatoriamente pedaços de conhecimento. As soluções para equações difíceis surgem durante o descanso porque o Modo Difuso derruba as barreiras de controle, formando novas conexões neurais que estavam bloqs durante o foco intenso.
 
 ---
 

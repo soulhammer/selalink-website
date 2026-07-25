@@ -26,7 +26,7 @@ faqs:
 
 Friedrich Schiller, the great poet and playwright who led the golden age of German Weimar Classicism alongside Johann Wolfgang von Goethe, left an indelible mark on literary history with masterpieces like 'The Robbers' (Die Räuber) and 'William Tell' (Wilhelm Tell). However, inside his study desk drawer lay a bizarre and pungent secret.
 
-One day, his close friend Goethe visited Schiller's home and waited in his study while Schiller was out. Goethe soon felt dizzy from a sharp, strange odor permeating the room. Searching for the source, he opened Schiller's desk drawer, only to find it filled with decaying apples. According to Schiller's wife, Charlotte, Schiller claimed he could not concentrate or find creative inspiration without the intense fermented aroma emitted by rotten apples, intentionally keeping his drawers stuffed with them.
+One day, his close friend Goethe visited Schiller's home and waited in his study while Schiller was out. Goethe soon felt dizzy from a sharp, strange odor permeating the room. Searching for the source, he opened Schiller's desk drawer, only to find it filled with decaying apples. According to Schiller's wife, Charlotte, Schiller claimed he could not concentrate or find creative inspiration without the intense fermented aroma emitted by rotten apples, intentionally keeping his drawers st￭ with them.
 
 Here we examine the scientific basis behind Schiller's unique 'olfactory reset' routine and introduce 'aroma anchoring'—a safe, sophisticated modern adaptation.
 

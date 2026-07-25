@@ -17,7 +17,7 @@ steps:
   - name: "Step 3: Applying Opposing Cognitive Filters and Making a Simplified Decision"
     text: "Compare the core logic and facts of dissenting views against your draft decision, actively supplement vulnerabilities, and then make the best decision with the highest executability."
 faqs:
-  - question: "How can I avoid being emotionally persuaded when listening to colleagues' feedback?"
+  - question: "How can I avoid being emotionally pers귭 when listening to colleagues' feedback?"
     answer: "That is why 'non-face-to-face written submission' is advantageous. In face-to-face meetings, emotional persuasion easily occurs due to authority, conformity pressure, or eloquent speech. You can judge rationally only when you separately collect and analyze the sharp logic and factual data written individually by your advisors."
   - question: "What is the most appropriate size for an advisory team?"
     answer: "We strongly recommend a maximum of 3 people. As headcount increases, Analysis Paralysis occurs due to information overload, preventing decision-making. Place just 1 core expert representing each field (e.g., marketing, technology, legal) to gather consultation."
@@ -89,7 +89,7 @@ The biggest trap of listening to advice is falling into Analysis Paralysis due t
   
   <details class="group cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>How can I avoid being emotionally persuaded when listening to colleagues' feedback?</span>
+      <span>How can I avoid being emotionally pers귭 when listening to colleagues' feedback?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">

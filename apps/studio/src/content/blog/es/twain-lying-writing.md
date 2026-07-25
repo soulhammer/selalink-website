@@ -18,7 +18,7 @@ steps:
     text: "Calme su respiración en esta postura relajada y escriba los pensamientos que fluyen por su mente en su estado puro sin censurarlos lógicamente. Cualquier formato, como frases, dibujos o mapas mentales, es válido. Externalice sus pensamientos libremente durante al menos 15 minutos."
 faqs:
   - question: "¿Trabajar en la cama no provoca sueño o pereza?"
-    answer: "Puede ocurrir. Por lo tanto, esta rutina no consiste simplemente en tumbarse, sino en mantener un estado de 'relajación alerta' apoyando con firmeza el torso con almohadas. Además, es importante establecer de antemano un tiempo de trabajo concentrado con distracciones bloqueadas."
+    answer: "Puede ocurrir. Por lo tanto, esta rutina no consiste simplemente en tumbarse, sino en mantener un estado de 'relajación alerta' apoyando con firmeza el torso con almohadas. Además, es importante establecer de antemano un tiempo de trabajo concentrado con distracciones bloqs."
 
 ---
 
@@ -95,7 +95,7 @@ Reclinarse en la cama puede ejercer una gran presión sobre la columna o el cuel
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Puede ocurrir. Por lo tanto, esta rutina no consiste simplemente en tumbarse, sino en mantener un estado de 'relajación alerta' apoyando con firmeza el torso con almohadas. Además, es importante establecer de antemano un tiempo de trabajo concentrado con distracciones bloqueadas.
+      Puede ocurrir. Por lo tanto, esta rutina no consiste simplemente en tumbarse, sino en mantener un estado de 'relajación alerta' apoyando con firmeza el torso con almohadas. Además, es importante establecer de antemano un tiempo de trabajo concentrado con distracciones bloqs.
     </p>
   </details>
 </div>

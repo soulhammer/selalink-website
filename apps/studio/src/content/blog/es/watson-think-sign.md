@@ -26,7 +26,7 @@ faqs:
 
 Thomas J. Watson (1874–1956) fue un líder empresarial legendario que convirtió a IBM en un gigante tecnológico global, dirigiendo la compañía de 1914 a 1956. Exigió que se colocaran carteles con la palabra 'THINK' en cada espacio clave de la empresa. Cada mañana, se sentaba en silencio durante al menos 15 minutos sin documentos ni bolígrafos, inmerso en una profunda reflexión.
 
-Mientras que muchos celebran reuniones constantes y buscan información sin cesar, Watson señaló la 'pereza conductual'—embriagarse con la mera actividad omitiendo la meditación esencial—como la causa principal del fracaso. Para él, el cartel THINK era un interruptor cognitivo que bloqueaba reacciones inmediatas e inconscientes.
+Mientras que muchos celebran reuniones constantes y buscan información sin cesar, Watson señaló la 'pereza conductual'—embriagarse con la mera actividad omitiendo la meditación esencial—como la causa principal del fracaso. Para él, el cartel THINK era un interruptor cognitivo que bloq reacciones inmediatas e inconscientes.
 
 En la publicación de hoy, presentamos los mecanismos científicos de la 'rutina de reflexión de 15 minutos sin estímulos' de Thomas Watson y un plan de acción práctico de 3 pasos.
 

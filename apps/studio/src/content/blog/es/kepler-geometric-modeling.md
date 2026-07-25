@@ -28,7 +28,7 @@ faqs:
 
 Johannes Kepler (1571–1630) fue el astrónomo y matemático alemán cuya formulación de las Tres Leyes del Movimiento Planetario demostró el heliocentrismo y sentó las bases para la gravitación de Isaac Newton. En el siglo XVII, sin computadoras, Kepler pasaba meses inmerso en cálculos matemáticos para resolver discrepancias en los datos de Tycho Brahe.
 
-Cuando su progreso se bloqueaba entre fórmulas bidimensionales, Kepler dejaba de escribir. Como detalló en su obra de 1596 *Mysterium Cosmographicum*, utilizaba navajas, tijeras, madera y arcilla para esculpir modelos geométricos tridimensionales del universo. Al crear representaciones de los cinco sólidos platónicos dentro de esferas concéntricas, utilizaba una visualización espacial háptica. Traducir datos abstractos a una manipulación física en 3D estimulaba su lóbulo parietal, evitando la sobrecarga cognitiva prefrontal y mejorando el razonamiento espacial.
+Cuando su progreso se bloq entre fórmulas bidimensionales, Kepler dejaba de escribir. Como detalló en su obra de 1596 *Mysterium Cosmographicum*, utilizaba navajas, tijeras, madera y arcilla para esculpir modelos geométricos tridimensionales del universo. Al crear representaciones de los cinco sólidos platónicos dentro de esferas concéntricas, utilizaba una visualización espacial háptica. Traducir datos abstractos a una manipulación física en 3D estimulaba su lóbulo parietal, evitando la sobrecarga cognitiva prefrontal y mejorando el razonamiento espacial.
 
 En la publicación de hoy, analizamos la neurociencia cognitiva detrás de la rutina de 'visualización espacial háptica' de Johannes Kepler y presentamos una guía práctica de 3 pasos.
 

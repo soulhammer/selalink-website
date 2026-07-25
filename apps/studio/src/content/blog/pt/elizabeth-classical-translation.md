@@ -28,7 +28,7 @@ faqs:
 
 A rainha Isabel I (1533–1603) inaugurou a Era de Ouro da Inglaterra, derrotou a Armada Espanhola e lançou as bases marítimas de um império global. Tendo sobrevivido ao aprisionamento na Torre de Londres antes de ascender ao trono, governou cercada por conspirações de assassinato, conflitos religiosos e ameaças geopolíticas.
 
-Educada pelo humanista Roger Ascham, Isabel dominava seis idiomas, incluindo latim e grego antigo. Como ela mantinha uma lógica e liderança implacáveis diante de tanto estresse? Seu segredo era um ritual matinal estrito: dedicar a primeira hora do dia à tradução de textos clássicos em latim e grego (Sêneca, Cícero, Tácito, Boécio) para o inglês. Mesmos aos 60 anos, traduziu *A Consolação da Filosofia* de Boécio em apenas 12 dias. Desconstruir a gramática clássica e reestruturá-la funcionava como uma amoladora intelectual para seu cérebro.
+Ed쫚 pelo humanista Roger Ascham, Isabel dominava seis idiomas, incluindo latim e grego antigo. Como ela mantinha uma lógica e liderança implacáveis diante de tanto estresse? Seu segredo era um ritual matinal estrito: dedicar a primeira hora do dia à tradução de textos clássicos em latim e grego (Sêneca, Cícero, Tácito, Boécio) para o inglês. Mesmos aos 60 anos, traduziu *A Consolação da Filosofia* de Boécio em apenas 12 dias. Desconstruir a gramática clássica e reestruturá-la funcionava como uma amoladora intelectual para seu cérebro.
 
 No artigo de hoje, examinamos a neurociência cognitiva por trás da 'tradução clássica' da rainha Isabel I e apresentamos um guia prático para ativar seu córtex pré-frontal todas as manhãs.
 

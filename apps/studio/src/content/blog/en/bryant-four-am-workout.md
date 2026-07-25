@@ -54,7 +54,7 @@ Consistently executing high-intensity movement at an identical early-morning hou
 
 ## Caution & Tips: Securing Total Sleep Quantity (7–8 Hours) & Essential Warm-Up
 
-A 4 AM wake-up routine cannot succeed on sleep deprivation. To rise at 4 AM, you must secure 7 to 8 hours of essential sleep by going to bed between 9 PM and 10 PM the night before. Executing early routines on sleep deficit induces central nervous system fatigue and immune suppression. Furthermore, because joints, ligaments, and blood vessels are rigid right after waking, performing at least 10 minutes of dynamic warm-up and joint mobilization is mandatory to prevent injury.
+A 4 AM wake-up routine cannot s쳮d on sleep deprivation. To rise at 4 AM, you must secure 7 to 8 hours of essential sleep by going to bed between 9 PM and 10 PM the night before. Executing early routines on sleep deficit induces central nervous system fatigue and immune suppression. Furthermore, because joints, ligaments, and blood vessels are rigid right after waking, performing at least 10 minutes of dynamic warm-up and joint mobilization is mandatory to prevent injury.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">

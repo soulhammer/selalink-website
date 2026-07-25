@@ -19,7 +19,7 @@ steps:
 faqs:
   - question: "毎日作業の前にこの整頓儀式を行うべきですか？"
     answer: "はい、作業を開始する前にレンズを丁寧に拭くことで脳に認知的整頓の信号を与え、集​​中力を極大化させます。"
-  - question: "顕微鏡やDedicatedクロスがない場合、ちちう\u4ee3\u7528すればいいですか？"
+  - question: "顕微鏡やDedicatedクロスがない場合、ちちう代用すればいいですか？"
     answer: "毎日の作業前にパソコンのモニターをクロスで拭いたり、デスクを整頓しスマートフォンの画面を拭くことで同様の効果が得られます。"
 
 ---
@@ -101,7 +101,7 @@ faqs:
   <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>顕微鏡やDedicatedクロスがない場合、ちちう\u4ee3\u7528すればいいですか？</span>
+      <span>顕微鏡やDedicatedクロスがない場合、ちちう代用すればいいですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">

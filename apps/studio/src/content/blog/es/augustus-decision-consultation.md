@@ -11,7 +11,7 @@ formatVersion: 4
 authority: "Verificación Histórica de *Las vidas de los doce césares (De vita Caesarum)* de Suetonio y *Historia romana* de Dión Casio e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)"
 steps:
   - name: "Paso 1: Designación de Hasta 3 Asesores de Confianza"
-    text: "Seleccione no más de 3 asesores que posean experiencia objetiva en el campo de decisión relevante y sean capaces de señalar su terquedad subjetiva."
+    text: "Seleccione no más de 3 asesores que posean experiencia objetiva en el campo de decisión relevante y sean capaces de señalar su terq subjetiva."
   - name: "Paso 2: Recepción de Comentarios Escritos No Presenciales"
     text: "Para evitar el conformismo emocional o la presión de autoridad que ocurren en las discusiones presenciales, recopile individualmente comentarios escritos breves que detallen las vulnerabilidades de la propuesta."
   - name: "Paso 3: Aplicar Filtros Cognitivos Opuestos y Tomar una Decisión Simplificada"
@@ -58,7 +58,7 @@ La mayor trampa de escuchar consejos es caer en la Parálisis por Análisis (Ana
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Paso 1: Designación de Hasta 3 Asesores de Confianza</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Seleccione no más de 3 asesores que posean experiencia objetiva en el campo de decisión relevante y sean capaces de señalar su terquedad subjetiva.
+    Seleccione no más de 3 asesores que posean experiencia objetiva en el campo de decisión relevante y sean capaces de señalar su terq subjetiva.
   </p>
 </div>
 

@@ -20,7 +20,7 @@ faqs:
   - question: "Warum wird im Meeting still gelesen, anstatt die Teilnehmer das Dokument vorab lesen zu lassen?"
     answer: "Wird das Vorab-Lesen verlangt, führt ein voller Terminkalender oft dazu, dass Dokumente nur überflogen oder gar nicht gelesen werden. Durch das erzwungene 30-minütige stille Lesen im Meeting garantierte Bezos eine vollständige kognitive Synchronisation aller Teilnehmer auf demselben Niveau."
   - question: "Erfordert das Verfassen eines 6-seitigen Memos nicht zu viel Zeit und Aufwand?"
-    answer: "Ja, es erfordert deutlich mehr Sorgfalt und kognitiven Aufwand vom Verfasser. Der Schreibprozess selbst dient jedoch als strenge Selbstprüfung, die logische Lücken im Voraus aufdeckt, wodurch unnötige Folge-Meetings vermieden und Entscheidungen beschleunigt werden."
+    answer: "Ja, es erfordert deutlich mehr Sorgfalt und kognitiven Aufwand vom Verfasser. Der Schreibprozess selbst dient jedoch als strenge Selbstprüfung, die logische Lücken im Voraus a﷬kt, wodurch unnötige Folge-Meetings vermieden und Entscheidungen beschleunigt werden."
 
 ---
 
@@ -107,7 +107,7 @@ Achten Sie beim Verfassen eines 6-seitigen Fließtext-Memos darauf, kurze Stichp
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Ja, es erfordert deutlich mehr Sorgfalt und kognitiven Aufwand vom Verfasser. Der Schreibprozess selbst dient jedoch als strenge Selbstprüfung, die logische Lücken im Voraus aufdeckt, wodurch unnötige Folge-Meetings vermieden und Entscheidungen beschleunigt werden.
+      Ja, es erfordert deutlich mehr Sorgfalt und kognitiven Aufwand vom Verfasser. Der Schreibprozess selbst dient jedoch als strenge Selbstprüfung, die logische Lücken im Voraus a﷬kt, wodurch unnötige Folge-Meetings vermieden und Entscheidungen beschleunigt werden.
     </p>
   </details>
 </div>

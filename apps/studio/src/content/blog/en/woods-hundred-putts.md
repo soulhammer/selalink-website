@@ -24,7 +24,7 @@ faqs:
 
 "I don't leave the practice green until that 100th putt drops." ⛳
 
-Tiger Woods is widely regarded as one of the most dominant golf champions and mental giants in sports history. His ironclad composure during high-stakes major tournaments stemmed from an unforgiving pre-practice ritual: '100 Consecutive Successful Putts.' If he succeeded 99 times and missed the 100th, he wiped the score clean and restarted from zero.
+Tiger Woods is widely regarded as one of the most dominant golf champions and mental giants in sports history. His ironclad composure during high-stakes major tournaments stemmed from an unforgiving pre-practice ritual: '100 Consecutive Successful Putts.' If he s쳮ded 99 times and missed the 100th, he wiped the score clean and restarted from zero.
 
 Before starting practice rounds, Woods placed 100 golf balls roughly 4 meters (13 feet) from the cup in a circle, insisting on sinking all 100 in a row. He strictly adhered to this ritual daily throughout his reign as world number one.
 

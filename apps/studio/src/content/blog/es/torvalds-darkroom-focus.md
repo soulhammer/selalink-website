@@ -56,7 +56,7 @@ La rutina de enfoque en habitación oscura de Linus Torvalds fue una máxima exp
 
 ## En la oscuridad, la lógica del programador se vuelve cristalina
 
-Para Linus Torvalds, la habitación oscura del lavadero era una fortaleza cognitiva que bloqueaba tentaciones externas y estímulos menores en su fuente. Si su hogar es una distracción y le cuesta profundizar en su trabajo malgastando su atención, intente despejar el área de su escritorio de toda decoración visual y atenuar la iluminación circundante antes de culpar a su concentración. Experimentará una inmersión sorprendente.
+Para Linus Torvalds, la habitación oscura del lavadero era una fortaleza cognitiva que bloq tentaciones externas y estímulos menores en su fuente. Si su hogar es una distracción y le cuesta profundizar en su trabajo malgastando su atención, intente despejar el área de su escritorio de toda decoración visual y atenuar la iluminación circundante antes de culpar a su concentración. Experimentará una inmersión sorprendente.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">

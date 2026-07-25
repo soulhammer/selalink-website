@@ -18,7 +18,7 @@ steps:
     text: "Calme sua respiração na postura relaxada e anote os pensamentos que fluem de sua mente em sua forma bruta, sem censurá-los logicamente. Qualquer formato, como frases, desenhos ou mapas mentais, é válido. Externalize seus pensamentos livremente por pelo menos 15 minutos."
 faqs:
   - question: "Trabalhar na cama não dá sono ou preguiça?"
-    answer: "Isso pode acontecer. Portanto, essa rotina não se trata simplesmente de deitar, mas de manter um estado de 'relaxamento alerta', apoiando firmemente a parte superior do corpo com travesseiros. Além disso, é essencial definir um tempo de trabalho focado com distrações bloqueadas."
+    answer: "Isso pode acontecer. Portanto, essa rotina não se trata simplesmente de deitar, mas de manter um estado de 'relaxamento alerta', apoiando firmemente a parte superior do corpo com travesseiros. Além disso, é essencial definir um tempo de trabalho focado com distrações bloqs."
 
 ---
 
@@ -95,7 +95,7 @@ Reclinar-se na cama pode colocar uma grande pressão sobre a coluna ou o pescoç
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Isso pode acontecer. Portanto, essa rotina não se trata simplesmente de deitar, mas de manter um estado de 'relaxamento alerta', apoiando firmemente a parte superior do corpo com travesseiros. Além disso, é essencial definir um tempo de trabalho focado com distrações bloqueadas.
+      Isso pode acontecer. Portanto, essa rotina não se trata simplesmente de deitar, mas de manter um estado de 'relaxamento alerta', apoiando firmemente a parte superior do corpo com travesseiros. Além disso, é essencial definir um tempo de trabalho focado com distrações bloqs.
     </p>
   </details>
 </div>

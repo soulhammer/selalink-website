@@ -17,7 +17,7 @@ steps:
   - name: "Paso 3: Ejecución Secuencial de Trabajo Profundo y Posposición de Trivialidades"
     text: "Sumérjase por completo en la tarea n.º 1 hasta terminarla, avanzando en secuencia, y posponga revisar bandejas de entrada, responder mensajes u organizar hasta que las 3 estén listas."
 faqs:
-  - question: "¿Qué sucede si no logro completar una de las TOP 3 tareas durante el día?"
+  - question: "¿Qué s컞 si no logro completar una de las TOP 3 tareas durante el día?"
     answer: "Está completamente bien. No es un fracaso, sino prueba de que concentró su energía en un proyecto sustancial de alto impacto. Simplemente reprograme el elemento no completado como la tarea n.º 1 de mañana por la mañana cuando su corteza prefrontal esté más despejada."
   - question: "¿Cuáles son las alternativas de ejercicio moderno a la equitación matutina?"
     answer: "15 minutos de trote, bicicleta estática, balanceos con pesa rusa (kettlebell), estiramientos Tabata o caminata rápida proporcionan exactamente el mismo efecto neurofisiológico de aumentar el flujo sanguíneo cerebral y liberar BDNF y dopamina."
@@ -93,7 +93,7 @@ Taclear primero tareas sencillas y triviales le da al cerebro una sensación mom
   
   <details class="group cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>¿Qué sucede si no logro completar una de las TOP 3 tareas durante el día?</span>
+      <span>¿Qué s컞 si no logro completar una de las TOP 3 tareas durante el día?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">

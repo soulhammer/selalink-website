@@ -15,7 +15,7 @@ steps:
   - name: "Passo 2: Construção de um Santuário Dedicado Sem Rotas de Fuga"
     text: "Entre no seu espaço de trabalho mantendo apenas as ferramentas essenciais. Estabeleça um limite físico e psicológico rígido onde não seja possível sair antes do horário definido."
   - name: "Passo 3: Execução de Foco Pré-frontal a 100% em Isolamento Total"
-    text: "Com o contato externo e as rotas de fuga bloqueadas, direcione 100% dos seus recursos cognitivos pré-frontais para a tarefa principal, concluindo antes do prazo."
+    text: "Com o contato externo e as rotas de fuga bloqs, direcione 100% dos seus recursos cognitivos pré-frontais para a tarefa principal, concluindo antes do prazo."
 faqs:
   - question: "Victor Hugo realmente raspou metade do cabelo e da barba para escrever seu livro?"
     answer: "Sim, com certeza. No final de 1830, diante de um prazo rígido para *O Corcunda de Notre-Dame*, Hugo raspou metade da cabeça e da barba e mandou trancar suas roupas de sair para se isolar até concluir o romance."
@@ -82,7 +82,7 @@ Não tente superar notificações ou tentações apenas com força de vontade. C
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Passo 3: Execução de Foco Pré-frontal a 100% em Isolamento Total</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Com o contato externo e as rotas de fuga bloqueadas, direcione 100% dos seus recursos cognitivos pré-frontais para a tarefa principal, concluindo antes do prazo.
+    Com o contato externo e as rotas de fuga bloqs, direcione 100% dos seus recursos cognitivos pré-frontais para a tarefa principal, concluindo antes do prazo.
   </p>
 </div>
 

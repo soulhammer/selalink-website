@@ -30,7 +30,7 @@ Ernesto 'Che' Guevara (1928–1967) war Arzt, Militärkommandeur der Kubanischen
 
 Selbst wenn er seinen Rucksack bei erschöpfenden Märschen auf das Nötigste reduzieren musste, bestand Guevara darauf, schwere Bände über Geschichte, Philosophie, Ökonomie und Literatur mitzuschleppen. Sobald die Kämpfe pausierten, kletterte er auf Bäume oder setzte sich in Erdschützengräben, um im Kerzenschein tief in Bücher einzutauchen. Für ihn war Lesen kein Entkommen aus der Realität, sondern ein kognitives Protokoll zur Bewahrung der mentalen Ruhe und Schärfung des Verstandes unter Belastung.
 
-Im heutigen Beitrag analysieren wir die Neurowissenschaft hinter Che Guevaras 'vertiefter Leseroutine im Dschungel' und stellen einen praktischen 3-Schritte-Aktionsplan für moderne Menschen vor, um digitale Ermüdung abzufedern und langfristige intellektuelle Widerstandskraft aufzubauen.
+Im heutigen Beitrag analysieren wir die Neurowissenschaft hinter Che Guevaras 'vertiefter Leseroutine im Dschungel' und stellen einen praktischen 3-Schritte-Aktionsplan für moderne Menschen vor, um digitale Ermüdung abzﻞrn und langfristige intellektuelle Widerstandskraft aufzubauen.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

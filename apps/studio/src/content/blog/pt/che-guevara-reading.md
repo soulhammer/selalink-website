@@ -20,7 +20,7 @@ faqs:
   - question: "Ler literatura, como romances ou ensaios, desencadeia os mesmos efeitos de controle cognitivo pré-frontal?"
     answer: "Sim, desde que o texto exija um esforço cognitivo ativo. Enquanto a ficção leve oferece uma estimulação pré-frontal mínima, ler literatura clássica ou ensaios ricos em motivações complexas e dilemas morais engaja fortemente as redes de controle cognitivo pré-frontais."
   - question: "Tablets ou leitores de e-ink proporcionam os mesmos benefícios de reestruturação cognitiva que livros físicos?"
-    answer: "Sim, desde que as distrações estejam bloqueadas. Se usar um tablet padrão, ative o modo Não perturbe. Livros físicos de papel e leitores de e-ink são preferíveis, pois o manuseio das páginas e a ausência de luz de fundo reduzem o cansaço visual."
+    answer: "Sim, desde que as distrações estejam bloqs. Se usar um tablet padrão, ative o modo Não perturbe. Livros físicos de papel e leitores de e-ink são preferíveis, pois o manuseio das páginas e a ausência de luz de fundo reduzem o cansaço visual."
 
 ---
 
@@ -107,7 +107,7 @@ Para obter os benefícios cognitivos protetores desta rotina, abandone a leitura
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Sim, desde que as distrações estejam bloqueadas. Se usar um tablet padrão, ative o modo Não perturbe. Livros físicos de papel e leitores de e-ink são preferíveis, pois o manuseio das páginas e a ausência de luz de fundo reduzem o cansaço visual.
+      Sim, desde que as distrações estejam bloqs. Se usar um tablet padrão, ative o modo Não perturbe. Livros físicos de papel e leitores de e-ink são preferíveis, pois o manuseio das páginas e a ausência de luz de fundo reduzem o cansaço visual.
     </p>
   </details>
 </div>
