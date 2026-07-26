@@ -8,7 +8,7 @@
         "description": "Korean Shorthair, with strong hunting instincts. Learn proper hydration methods to prevent feline cystitis and a 3-step daily routine for territorial comfort.",
         "authority": "Cornell Feline Health Center Behavioral Guide & NIAS Companion Animal Care Manual",
         "profile": {
-          "breed": "Korean Shorthair",
+          "breed": "Korean Shorthair (Felis catus)",
           "lifespan": "13 ~ 15 years",
           "sleep_pattern": "15 ~ 18 hours (vertical & nocturnal)",
           "temperament": "Independent, Strong Hunting Instinct, Curious"
@@ -53,10 +53,10 @@
           }
         ],
         "tags": [
-          "Korean Shorthair",
+          "KoreanShorthair",
           "FLUTD",
-          "Hydration Care",
-          "Cat Care"
+          "HydrationCare",
+          "CatCare"
         ]
       },
       "ja": {
@@ -64,14 +64,14 @@
         "description": "強靭な狩猟本能を持つコリアンショートヘア。特有の膀胱炎を予防するための正しい水分補給法と、領域の安定のための3段階デイリールーティンを紹介します。",
         "authority": "コーネル猫健康センター(Cornell Feline Health Center)猫の行動学＆国立畜産科学院ガイド",
         "profile": {
-          "breed": "コリアンショートヘア",
+          "breed": "コリアンショートヘア (Felis catus)",
           "lifespan": "13 ~ 15年",
           "sleep_pattern": "15 ~ 18時間（垂直・夜行性）",
           "temperament": "独立心旺盛、狩猟本能、好奇心旺盛"
         },
-        "intro": "韓国の在来猫であるコリアンショートヘアは、野生本能が残っているため丈夫な体格と強靭な生命力を誇る魅力的な猫です。甘えん坊な反面、見知らぬ人には警戒心を示し、おもちゃの狩り遊びには非常に高い集中力を見せます。🐈\n\nしかし、コリアンショートヘアの飼い主なら誰でも直面する2つの遺伝的な悩みがあります。1つは水平・垂直領域の制限による**領域の不安感**、もう1つは冬場の飲水量低下などから発生する**特発性膀胱炎（FLUTD）と尿路結石**です。これらは日常の細やかな環境管理が不可欠です。\n\n本日、PetSelfではコリアンショートヘアの信頼シグナルを理解し、膀胱と領域の健康を守る3段階デイリールーティンを公開します。",
+        "intro": "韓国の在来猫であるコリアンショートヘアは、野生本能が残っているため丈夫な体格と強靭な生命力を誇る魅力的な猫です。甘えん坊な反面、見知らぬ人には警戒心を示し、おもちゃの狩り遊びには非常に高い集中力を見せます。🐈\n\nしかし、コリアンショートヘアの飼い主なら誰でも直面する2つの遺伝的な悩みがあります。1つは水平・垂直領域の制限による**領域の不安感**、もう1つは冬場の飲水量低下などから発生する**特発性膀胱炎（FLUTD）と尿路結石**です。これらは日常の細やかな環境管理が不可欠です。\n\n本日PetSelfでは、コリアンショートヘアの信頼シグナルを理解し、膀胱と領域の健康を守る3段階デイリールーティンを公開します。",
         "whyTitle": "猫のボディランゲージ：最高の信頼のサイン",
-        "whyDesc": "猫が飼い主に見せる最も強力な信頼の表現が、**「尾を立てる」**と**「ゴロゴロ音」**です。尾を天に向かって垂直にピント立てて近づくのは、親密さの表れであり、コミュニケーションを求めるサインです。また、ゴロゴロという音は脳内でエンドルフィンを分泌させ、心を落ち着かせます。注意すべきは、この音は体調が悪い時に自らを治療する「自己治癒」のサインでもあるため、暗い場所に隠れて悲しそうに鳴る場合は健康チェックが必要です。",
+        "whyDesc": "猫が飼い主に見せる最も強力な信頼の表現が、**「尾を立てる（Tail Up）」**と**「ゴロゴロ音（Purring）」**です。尾を天に向かって垂直にピンと立てて近づくのは、親密さの表れであり、コミュニケーションを求めるサインです。また、ゴロゴロという音は脳内でエンドルフィンを分泌させ、心を落ち着かせます。注意すべきは、この音は体調が悪い時に自らを治療する「自己治癒」のサインでもあるため、暗い場所に隠れて悲しそうに鳴る場合は健康チェックが必要です。",
         "body_signals": [
           {
             "name": "しっぽ立て (Tail Up)",
@@ -116,90 +116,90 @@
         ]
       },
       "zh": {
-        "title": "难以驯服的本能？针对野生血统的中华田园猫领地与饮水量3步惯例",
-        "description": "拥有强健捕猎天性的中华田园猫。介绍预防猫下泌尿道综合征的饮水方法，以及实现领域安全感的日常3步护理惯例。",
+        "title": "难以驯服的本能？针对野生血统的中华田园猫领地与饮水量3步日常护理流程",
+        "description": "拥有强健捕猎天性的中华田园猫。介绍预防猫下泌尿道综合征 responses 饮水方法，以及实现领域安全感 responses 日常3步护理流程。",
         "authority": "康奈尔猫科健康中心行为指南与韩国国立畜产科学院伴侣动物看护手册",
         "profile": {
-          "breed": "中华田园猫 (科绍特)",
+          "breed": "中华田园猫 (Felis catus / 科绍特)",
           "lifespan": "13 ~ 15年",
           "sleep_pattern": "15 ~ 18小时（垂直与夜行性）",
           "temperament": "独立、捕猎天性强、好奇心旺盛"
         },
-        "intro": "中华田园猫（简称科绍特）保留了优良的野生捕猎天性，拥有结实的体格和顽强的生命力。它们在熟人面前非常爱撒娇，但对陌生人十分警惕，并且极其沉迷于捕猎游戏。🐈\n\n然而，正是这些天性使它们在室内生活时容易面临两大压力源。第一是由于水平和垂直空间受限带来的**领地焦虑感**；第二是因为饮水量不足导致的**猫下泌尿道疾病（FLUTD）与尿路结石**。这些疾病会让猫咪承受巨大痛苦，极其需要家长在日常生活中进行细致入微的环境管理。\n\n今天，PetSelf 将带您解读它们的信任信号，并公开全面呵护其泌尿系统与领地健康的日常3步惯例。",
-        "whyTitle": "猫咪的身体语言：极致信任的表达",
-        "whyDesc": "猫咪向家长发出信任最强烈的身体语言是**“竖起尾巴”**和**“发出呼噜声”**。尾巴垂直竖起并朝您走来是友善和渴望交流的明确信号。此外，呼噜声会刺激大脑释放内啡肽以帮助它们平静。需要注意的是，呼噜声也可能是它们在感到疼痛或不安时自我安抚的“自愈”信号。如果猫咪躲在阴暗角落，神情沮丧却持续发出呼噜声，需要家长高度关注其健康状况。",
+        "intro": "中华田园猫（简称科绍特）保留了优良 responses 野生捕猎天性，拥有结实 responses 体格和顽强 responses 生命力。它们在熟人面前非常爱撒娇，但对陌生人十分警惕，并且极其沉迷于捕猎游戏。🐈\n\n然而，正是这些天性使它们在室内生活时容易面临两大压力源。第一是由于水平和垂直空间受限带来 responses **领地焦虑感**；第二是因为饮水量不足导致 responses **猫下泌尿道疾病（FLUTD）与尿路结石**。这些疾病会让猫咪承受巨大痛苦，极其需要家长在日常生活中进行细致入微 responses 环境管理。\n\n今天，PetSelf 将带您解读它们 responses 信任信号，并公开全面呵护其泌尿系统与领地健康 responses 日常3步护理流程。",
+        "whyTitle": "猫咪 responses 身体语言：极致信任 responses 表达",
+        "whyDesc": "猫咪向家长发出信任最强烈 responses 身体语言是 **“竖起尾巴（Tail Up）”** 和 **“发出呼噜声（Purring）”**。尾巴垂直竖起并朝您走来是友善和渴望交流 responses 明确信号。此外，呼噜声会刺激大脑释放内啡肽以帮助它们平静。需要注意 responses 是，呼噜声也可能是它们在感到疼痛或不安时自我安抚 responses “自愈”信号。如果猫咪躲在阴暗角落，神情沮丧却持续发出呼噜声，需要家长高度关注其健康状况。",
         "body_signals": [
           {
             "name": "竖起尾巴 (Tail Up)",
-            "meaning": "对家长表达强烈的亲近感、积极交流的意愿以及喜悦之情。",
-            "response": "此时可与猫咪进行温柔的眼神接触，或轻轻抚摸其下巴，进行积极的双向互动。"
+            "meaning": "对家长表达强烈的亲近感、积极交流 responses 意愿以及喜悦之情。",
+            "response": "此时可与猫咪进行温柔 responses 眼神接触，或轻轻抚摸其下巴，进行积极 responses 双向互动。"
           },
           {
             "name": "发出呼噜声 (Purring)",
-            "meaning": "通常在感到快乐时发出，但也可能是缓解疼痛或焦虑的自我安抚与自愈信号。",
+            "meaning": "通常在感到快乐时发出，但也可能是缓解疼痛或焦虑 responses 自我安抚与自愈信号。",
             "response": "如果猫咪躲在阴暗角落里持续发出呼噜声，请仔细检查以确保它们没有受伤或生病。"
           }
         ],
         "daily_routine": [
           {
             "name": "早晨：垂直空间整理与开窗观景设置",
-            "text": "早晨通风时，拉开阳台窗旁或房间的百叶窗，创造一个可以从猫爬架眺望窗外的环境。确保充足的垂直空间并提供观察窗外景色（猫咪电视）的视觉刺激，能极大降低室内猫咪因生活单调和空间受限带来的压力。"
+            "text": "早晨通风时，拉开阳台窗旁或房间 responses 百叶窗，创造一个可以从猫爬架眺望窗外 responses 环境。确保充足 responses 垂直空间并提供观察窗外景色（猫咪电视） responses 视觉刺激，能极大降低室内猫咪因生活单调和空间受限带来 responses 压力。"
           },
           {
-            "name": "下午：15分钟模拟捕猎游戏惯例",
-            "text": "每天进行一次为期15分钟的逗猫棒模拟捕猎游戏。猫是天生的捕食者，让它们追逐玩具并获得“捕猎成功的满足感”，可以防止产生挫折感，同时增加运动量。"
+            "name": "下午：15分钟模拟捕猎游戏流程",
+            "text": "每天进行一次为期15分钟 responses 逗猫棒模拟捕猎游戏。猫是天生 responses 捕食者，让它们追逐玩具并获得“捕猎成功 responses 满足感”，可以防止产生挫折感，同时增加运动量。"
           },
           {
             "name": "晚上：水源补充与放松梳理",
-            "text": "晚上换上新鲜的饮用水，并在家中的不同角落放置至少3个水碗，以鼓励它们多喝水。睡觉前，用专用梳子温柔地梳理面颊和下巴等释放费洛蒙的腺体部位，以引导它们情绪放松。"
+            "text": "晚上换上新鲜 responses 饮用水，并在家中 responses 不同角落放置至少3个水碗，以鼓励它们多喝水。睡觉前，用专用梳子温柔地梳理面颊和下巴等释放费洛蒙 responses 腺体部位，以引导它们情绪放松。"
           }
         ],
         "faqs": [
           {
-            "question": "猫为什么总喜欢往狭窄且高的地方爬？",
-            "answer": "猫在本能上通过居高临下俯瞰自己的领地来获得掌控感和安全感。如果缺乏猫爬架等垂直空间，会导致它们产生严重的领地压力。"
+            "question": "猫为什么总喜欢往狭窄且高 responses 地方爬？",
+            "answer": "猫在本能上通过居高临下俯瞰自己 responses 领地来获得掌控感和安全感。如果缺乏猫爬架等垂直空间，会导致它们产生严重 responses 领地压力。"
           },
           {
-            "question": "预防猫膀胱炎最有效的方法是什么？",
-            "answer": "预防的关键在于增加饮水量。将水碗放置在远离猫粮盆的多个地方，并利用猫咪偏爱流动水源的特性使用分水式猫咪饮水机。"
+            "question": "预防猫膀胱炎最有效 responses 方法是什么？",
+            "answer": "预防 responses 关键在于增加饮水量。将水碗放置在远离猫粮盆 responses 多个地方，并利用猫咪偏爱流动水源 responses 特性使用分水式猫咪饮水机。"
           }
         ],
         "tags": [
-          "科修特猫",
+          "中华田园猫",
           "下泌尿道疾病",
           "饮水护理",
           "猫咪护理"
         ]
       },
       "es": {
-        "title": "¿Un instinto indomable? Una rutina de 3 pasos para el territorio e hidratación del shorthair coreano",
+        "title": "¿Un instinto indomable? Una rutina diaria de 3 pasos para el territorio e hidratación del shorthair coreano",
         "description": "El shorthair coreano, con fuertes instintos de caza. Conozca los métodos de hidratación adecuados para prevenir la cistitis felina y una rutina diaria de 3 pasos para la comodidad territorial.",
-        "authority": "Guía de comportamento del Cornell Feline Health Center y manual de cuidado de NIAS",
+        "authority": "Guía Comportamental del Cornell Feline Health Center y Manual de Cuidado del NIAS",
         "profile": {
-          "breed": "Shorthair coreano",
+          "breed": "Shorthair Coreano (Felis catus)",
           "lifespan": "13 ~ 15 años",
           "sleep_pattern": "15 ~ 18 horas (vertical y nocturno)",
           "temperament": "Independiente, Fuerte instinto de caza, Curioso"
         },
-        "intro": "El shorthair coreano, un gato nativo, cuenta con una estructura robusta y una gran vitalidad debido a sus instintos salvajes conservados. Aunque son amigables, pueden ser cautelosos con los extraños y muy concentrados durante el juego de caza. 🐕\n\nSin embargo, estos rasgos los hacen vulnerables a dos factores de estrés en interiores: la **ansiedad territorial** por limitaciones de espacio y la **enfermedad de las vías urinarias inferiores felinas (FLUTD)**. El manejo de estas condiciones requiere una atención diaria cuidadosa.\n\nHoy, PetSelf explora el lenguaje corporal de estos felinos y comparte una rutina de cuidado diario de 3 pasos.",
-        "whyTitle": "Lenguaje corporal felino: la máxima expresión de confianza",
-        "whyDesc": "Una de las mayores expresiones de confianza de un gato hacia su dueño es la **'cola vertical hacia arriba'** y el **'ronroneo'**. Acercarse con la cola erguida es una señal amistosa y de comunicación. Además, el ronroneo calma su mente. Tenga en cuenta que el ronroneo también puede ser una señal de autocuración por dolor. Si se esconde en un lugar oscuro y ronronea con expressão triste, controle su salud.",
+        "intro": "El shorthair coreano, un gato nativo, cuenta con una estructura robusta y una gran vitalidad debido a sus instintos salvajes conservados. Aunque son amigables, pueden ser cautelosos con los extraños y estar muy concentrados durante el juego de caza. 🐈\n\nSin embargo, estos rasgos los hacen vulnerables a dos factores de estrés en interiores: la **ansiedad territorial** por limitaciones de espacio y la **enfermedad de las vías urinarias inferiores felinas (FLUTD)** o cálculos causados por baja hidratación. El manejo de estas condiciones requiere una atención diaria cuidadosa.\n\nHoy, PetSelf explora el lenguaje corporal de estos felinos y comparte una rutina de cuidado diario de 3 pasos para garantizar su salud territorial e hidratación.",
+        "whyTitle": "Lenguaje corporal felino: La máxima expresión de confianza",
+        "whyDesc": "Una de las mayores expresiones de confianza de un gato hacia su dueño es la **'cola vertical hacia arriba' (Tail Up)** y el **'ronroneo' (Purring)**. Acercarse con la cola erguida es una señal amistosa y de comunicación. Además, el ronroneo calma su mente liberando endorfinas. Tenga en cuenta que el ronroneo también puede ser una señal de autocuración por dolor. Si se esconde en un lugar oscuro y ronronea abatido, controle su salud.",
         "body_signals": [
           {
-            "name": "Cola arriba",
+            "name": "Cola arriba (Tail Up)",
             "meaning": "Una expresión de fuerte amistad, comunicación positiva y alegría hacia el dueño.",
             "response": "Responda con un contacto visual suave o una caricia suave en la barbilla para mejorar el vínculo."
           },
           {
-            "name": "Ronroneo",
-            "meaning": "Normalmente lo hacen cuando están felices, pero también puede ser una señal de autocuración para el dolor.",
-            "response": "Si ronronean mientras se esconden en rincones oscuros, verifique de cerca si están enfermos."
+            "name": "Ronroneo (Purring)",
+            "meaning": "Normalmente lo hacen cuando están felices, pero también puede ser una señal de autocuración para aliviar el dolor o la ansiedad.",
+            "response": "Si ronronean mientras se esconden en rincones oscuros, verifique de cerca si están lesionados o enfermos."
           }
         ],
         "daily_routine": [
           {
             "name": "Mañana: Inspección de espacio vertical y visualización de ventanas",
-            "text": "Con la ventilación matutina, suba las persianas cerca de las torres para gatos de las ventanas. Asegurar el espacio vertical y permitirles ver el exterior (Cat TV) proporciona estimulación mental y reduce drásticamente el estrés por encierro."
+            "text": "Con la ventilación matutina, suba las persianas cerca de las torres para gatos en las ventanas. Asegurar el espacio vertical y permitirles ver el exterior (Cat TV) proporciona estimulación mental y reduce drásticamente el estrés por encierro."
           },
           {
             "name": "Tarde: Rutina de juego de caza simulada de 15 minutos",
@@ -221,35 +221,35 @@
           }
         ],
         "tags": [
-          "Común Coreano",
+          "ShorthairCoreano",
           "FLUTD",
-          "Cuidado de Hidratación",
-          "Cuidado de Gatos"
+          "CuidadoDeHidratación",
+          "CuidadoDeGatos"
         ]
       },
       "fr": {
-        "title": "Un instinct indomptable ? Une routine en 3 étapes pour le territoire et l'hydratation du shorthair coréen",
+        "title": "Un instinct indomptable ? Une routine quotidienne en 3 étapes pour le territoire et l'hydratation du shorthair coréen",
         "description": "Le shorthair coréen, aux instincts de chasse développés. Apprenez les méthodes d'hydratation pour prévenir la cystite féline et une routine quotidienne en 3 étapes pour le confort territorial.",
-        "authority": "Guide comportemental du Cornell Feline Health Center et manuel de soins du NIAS",
+        "authority": "Guide Comportemental du Cornell Feline Health Center et Manuel de Soins du NIAS",
         "profile": {
-          "breed": "Shorthair coréen",
+          "breed": "Shorthair Coréen (Felis catus)",
           "lifespan": "13 ~ 15 ans",
           "sleep_pattern": "15 ~ 18 heures (vertical et nocturne)",
           "temperament": "Indépendant, Fort instinct de chasse, Curieux"
         },
-        "intro": "Le shorthair coréen, un chat indigène, possède une constitution robuste et une grande vitalité grâce à la préservation de ses instincts sauvages. Bien qu'amicaux, ils peuvent être méfiants envers les étrangers et très concentrés pendant le jeu. 🐕\n\nCependant, ces traits les rendent vulnérables à deux facteurs de stress en intérieur : l'**anxiété territoriale** due aux limites d'espace et les **maladies du bas appareil urinaire félin (MBAUF)** causées par une faible hydratation. Une gestion quotidienne de l'environnement est requise.\n\nAujourd'hui, PetSelf étudie le langage corporal de ces chats et partage une routine de soins quotidiens en 3 étapes.",
-        "whyTitle": "Langage corporel félin : l'expression ultime de la confiance",
-        "whyDesc": "L'une des plus fortes expressions de confiance d'un chat envers son maître est la **queue dressée à la verticale** et le **ronronnement**. S'approcher avec la queue levée est un au signal amical et une demande de communication. De plus, le ronronnement calme leur esprit. Notez que le ronronnement peut aussi être un signal d'autoguérison en cas de douleur. Si le chat se cache dans un endroit sombre et ronronne avec un air abattu, surveillez-le.",
+        "intro": "Le shorthair coréen, un chat indigène, possède une constitution robuste et une grande vitalité grâce à la préservation de ses instincts sauvages. Bien qu'amicaux, ils peuvent être méfiants envers les étrangers et très concentrés pendant le jeu. 🐈\n\nCependant, ces traits les rendent vulnérables à deux facteurs de stress en intérieur : l'**anxiété territoriale** due aux limites d'espace et les **maladies du bas appareil urinaire félin (MBAUF/FLUTD)** causées par une faible hydratation. Une gestion quotidienne de l'environnement est requise.\n\nAujourd'hui, PetSelf étudie le langage corporel de ces chats et partage une routine de soins quotidiens en 3 étapes.",
+        "whyTitle": "Langage corporel félin : L'expression ultime de la confiance",
+        "whyDesc": "L'une des plus fortes expressions de confiance d'un chat envers son maître est la **« queue dressée à la verticale » (Tail Up)** et le **« ronronnement » (Purring)**. S'approcher avec la queue levée est un signal amical et une demande de communication. De plus, le ronronnement calme leur esprit. Notez que le ronronnement peut aussi être un signal d'autoguérison en cas de douleur. Si le chat se cache dans un endroit sombre et ronronne avec un air abattu, surveillez-le attentivement.",
         "body_signals": [
           {
-            "name": "Queue dressée",
+            "name": "Queue dressée (Tail Up)",
             "meaning": "Une expression de grande amitié, de communication positive et de joie envers le maître.",
             "response": "Répondez par un contact visuel doux ou une caresse sous le menton pour renforcer le lien."
           },
           {
-            "name": "Ronronnement",
-            "meaning": "Généralement émis quand il est heureux, mais peut aussi être un signal d'auto-apaisement face à la douleur.",
-            "response": "S'il ronronne en se cachant dans un coin sombre, observez-le pour vous assurer qu'il n'est pas malade."
+            "name": "Ronronnement (Purring)",
+            "meaning": "Généralement émis quand il est heureux, mais peut aussi être un signal d'auto-apaisement face à la douleur ou l'anxiété.",
+            "response": "S'il ronronne en se cachant dans un coin sombre, observez-le pour vous assurer qu'il n'est pas blessé ou malade."
           }
         ],
         "daily_routine": [
@@ -269,43 +269,43 @@
         "faqs": [
           {
             "question": "Pourquoi les chats montent-ils toujours dans des espaces étroits et élevés ?",
-            "answer": "Les chats se sentent en sécurité et dominants lorsqu'ils surveillent leur territoire depuis les hauteurs. Un manque d'espace vertical entraîne du stress."
+            "answer": "Les chats se sentent en sécurité et dominants lorsqu'ils surveillent leur territoire depuis les hauteurs. Un manque d'espace vertical entraîne du stress territorial."
           },
           {
             "question": "Quelle est la meilleure façon de prévenir la cystite féline ?",
-            "answer": "La clé est d'augmenter l'hydratation. Placez plusieurs bols d'eau loin de la nourriture et utilisez des fontaines à eau."
+            "answer": "La clé est d'augmenter l'hydratation. Placez plusieurs bols d'eau loin de la nourriture et utilisez des fontaines à eau courante."
           }
         ],
         "tags": [
-          "Européen Coréen",
+          "ShorthairCoréen",
           "MBAUF",
-          "Soins d'hydratation",
-          "Soins des chats"
+          "SoinsHydratation",
+          "SoinsDesChats"
         ]
       },
       "de": {
-        "title": "Ein wilder Instinkt? Eine 3-Schritte-Routine für Territorium und Flüssigkeitszufuhr der Koreanisch Kurzhaar",
+        "title": "Ein wilder Instinkt? Eine tägliche 3-Schritte-Routine für Territorium und Flüssigkeitszufuhr der Koreanisch Kurzhaar",
         "description": "Die Koreanisch Kurzhaar mit starkem Jagdinstinkt. Erfahren Sie mehr über die Flüssigkeitszufuhr zur Vorbeugung von Blasenentzündungen und eine tägliche 3-Schritte-Routine.",
-        "authority": "Körpersprache-Führer des Cornell Feline Health Centers und NIAS-Pflegehandbuch",
+        "authority": "Verhaltensführer des Cornell Feline Health Centers und NIAS-Pflegehandbuch",
         "profile": {
-          "breed": "Koreanisch Kurzhaar",
+          "breed": "Koreanisch Kurzhaar (Felis catus)",
           "lifespan": "13 ~ 15 Jahre",
           "sleep_pattern": "15 ~ 18 Stunden (vertikal & nachtaktiv)",
           "temperament": "Unabhängig, Starker Jagdtrieb, Neugierig"
         },
-        "intro": "Die Koreanisch Kurzhaar, eine einheimische Katze, verfügt über einen robusten Körperbau und eine starke Vitalität, da ihre wilden Instinkte erhalten geblieben sind. Sie sind zwar freundlich, können aber Fremden gegenüber vorsichtig sein und sind beim Jagdspiel hochkonzentriert. 🐕\n\nDiese Eigenschaften machen sie jedoch anfällig für zwei Stressfaktoren in Innenräumen: **territoriale Ängste** aufgrund von Platzmangel und **Erkrankungen der unteren Harnwege bei Katzen (FLUTD)** durch zu geringe Flüssigkeitsaufnahme. Die Bewältigung dieser Probleme erfordert eine sorgfältige tägliche Pflege.\n\nHeute befasst sich PetSelf mit der Körpersprache dieser Katzen und stellt eine sichere, tägliche 3-Schritte-Pflegeroutine vor.",
+        "intro": "Die Koreanisch Kurzhaar, eine einheimische Katze, verfügt über einen robusten Körperbau und eine starke Vitalität, da ihre wilden Instinkte erhalten geblieben sind. Sie sind zwar freundlich, können aber Fremden gegenüber vorsichtig sein und sind beim Jagdspiel hochkonzentriert. 🐈\n\nDiese Eigenschaften machen sie jedoch anfällig für zwei Stressfaktoren in Innenräumen: **territoriale Ängste** aufgrund von Platzmangel und **Erkrankungen der unteren Harnwege bei Katzen (FLUTD)** durch zu geringe Flüssigkeitsaufnahme. Die Bewältigung dieser Probleme erfordert eine sorgfältige tägliche Pflege.\n\nHeute befasst sich PetSelf mit der Körpersprache dieser Katzen und stellt eine tägliche 3-Schritte-Pflegeroutine vor.",
         "whyTitle": "Körpersprache bei Katzen: Der ultimative Ausdruck von Vertrauen",
-        "whyDesc": "Einer der stärksten Vertrauensbeweise einer Katze gegenüber ihrem Besitzer ist die **senkrecht aufgerichtete Rute** und das **Schnurren**. Das Annähern mit aufgerichteter Rute ist ein freundliches Signal. Schnurren setzt Endorphine im Gehirn frei. Beachten Sie, dass Schnurren auch ein Selbstheilungssignal bei Schmerzen sein kann. Wenn sich eine Katze an einem dunklen Ort versteckt und mit traurigem Gesicht schnurrt, sollten Sie ihre Gesundheit überwachen.",
+        "whyDesc": "Einer der stärksten Vertrauensbeweise einer Katze gegenüber ihrem Besitzer ist die **senkrecht aufgerichtete Rute (Tail Up)** und das **Schnurren (Purring)**. Das Annähern mit aufgerichteter Rute ist ein freundliches Signal. Schnurren setzt Endorphine im Gehirn frei. Beachten Sie, dass Schnurren auch ein Selbstheilungssignal bei Schmerzen sein kann. Wenn sich eine Katze an einem dunklen Ort versteckt und mit traurigem Gesicht schnurrt, sollten Sie ihre Gesundheit überwachen.",
         "body_signals": [
           {
-            "name": "Rute hoch",
+            "name": "Rute hoch (Tail Up)",
             "meaning": "Ein Ausdruck von starker Freundlichkeit, positiver Kommunikation und Freude gegenüber dem Besitzer.",
             "response": "Reagieren Sie mit sanftem Blickkontakt oder Kraulen am Kinn, um die Bindung zu stärken."
           },
           {
-            "name": "Schnurren",
+            "name": "Schnurren (Purring)",
             "meaning": "Wird meist bei Zufriedenheit erzeugt, kann aber auch ein Selbstheilungssignal bei Schmerz oder Angst sein.",
-            "response": "Wenn sie schnurren, während sie sich in dunklen Ecken verstecken, untersuchen Sie sie auf Krankheiten."
+            "response": "Wenn sie schnurren, während sie sich in dunklen Ecken verstecken, untersuchen Sie sie gründlich auf Krankheiten."
           }
         ],
         "daily_routine": [
@@ -319,7 +319,7 @@
           },
           {
             "name": "Abend: Trinkstellenprüfung und Entspannungsbürsten",
-            "text": "Erneuern Sie abends das Wasser in den Näpfen und richtet Sie mindestens drei Trinkstellen ein. Bürsten Sie vor dem Schlafen die Duftdrüsenbereiche an Wangen und Kinn sanft, um die Entspannung zu fördern."
+            "text": "Erneuern Sie abends das Wasser in den Näpfen und richten Sie mindestens drei Trinkstellen ein. Bürsten Sie vor dem Schlafen die Duftdrüsenbereiche an Wangen und Kinn sanft, um die Entspannung zu fördern."
           }
         ],
         "faqs": [
@@ -333,35 +333,35 @@
           }
         ],
         "tags": [
-          "Koreanische Kurzhaarkatze",
+          "KoreanischKurzhaar",
           "FLUTD",
           "Trinkwasserpflege",
           "Katzenpflege"
         ]
       },
       "pt": {
-        "title": "Um instinto indomável? Uma rotina de 3 passos para o território e hidratação do shorthair coreano",
-        "description": "O shorthair coreano, com fortes instintos de caça. Conheça os métodos de hidratação adequados para prevenir la cistitis felina e uma rotina diária de 3 passos para o conforto territorial.",
-        "authority": "Guia de comportamento do Cornell Feline Health Center e manual de cuidados do NIAS",
+        "title": "Um instinto indomável? Uma rotina diária de 3 passos para o território e hidratação do shorthair coreano",
+        "description": "O shorthair coreano, com fortes instintos de caça. Conheça os métodos de hidratação adequados para prevenir a cistite felina e uma rotina diária de 3 passos para o conforto territorial.",
+        "authority": "Guia de Comportamento do Cornell Feline Health Center e Manual de Cuidados do NIAS",
         "profile": {
-          "breed": "Shorthair coreano",
+          "breed": "Shorthair Coreano (Felis catus)",
           "lifespan": "13 ~ 15 anos",
           "sleep_pattern": "15 ~ 18 horas (vertical e noturno)",
           "temperament": "Independente, Forte instinto de caça, Curioso"
         },
-        "intro": "O shorthair coreano, um gato nativo, possui uma estrutura robusta e uma grande vitalidade devido aos seus instintos selvagens preservados. Embora amigáveis, podem ser cautelosos com estranhos e muito concentrados durante o jogo de caça. 🐕\n\nNo entanto, esses traços os tornam vulneráveis a dois estressores internos: a **ansiedade territorial** por limitações de espaço e a **doença das vias urinárias inferiores felinas (FLUTD)**. O controle dessas condições requer atenção diária cuidadosa.\n\nHoje, o PetSelf explora o linguagem corporal desses felinos e compartilha uma rotina de cuidados diários segura de 3 passos.",
-        "whyTitle": "Linguagem corporal felina: a expressão máxima de confiança",
-        "whyDesc": "Uma das maiores expressões de confiança de um gato para com o seu dono é a **'cauda erguida na vertical'** e o **'ronrono'**. Aproximar-se com a cauda erguida é um sinal amistoso de comunicação. Além disso, o ronrono acalma sua mente. Note que o ronrono também pode ser um sinal de autocura por dor. Se o gato se esconder num local escuro e ronronar com expressão triste, controle sua saúde.",
+        "intro": "O shorthair coreano, um gato nativo, possui uma estrutura robusta e uma grande vitalidade devido aos seus instintos selvagens preservados. Embora amigáveis, podem ser cautelosos com estranhos e muito concentrados durante o jogo de caça. 🐈\n\nNo entanto, esses traços os tornam vulneráveis a dois estressores internos: a **ansiedade territorial** por limitações de espaço e a **doença das vias urinárias inferiores felinas (FLUTD)** por baixa hidratação. O controle dessas condições requer atenção diária cuidadosa.\n\nHoj, o PetSelf explora a linguagem corporal desses felinos e compartilha uma rotina de cuidados diários segura de 3 passos.",
+        "whyTitle": "Linguagem corporal felina: A expressão máxima de confiança",
+        "whyDesc": "Uma das maiores expressões de confiança de um gato para com o seu dono é a **'cauda erguida na vertical' (Tail Up)** e o **'ronrono' (Purring)**. Aproximar-se com a cauda erguida é um sinal amistoso de comunicação. Além disso, o ronrono acalma sua mente liberando endorfinas. Note que o ronrono também pode ser um sinal de autocura por dor. Se o gato se esconder num local escuro e ronronar com expressão triste, controle sua saúde.",
         "body_signals": [
           {
-            "name": "Cauda erguida",
+            "name": "Cauda erguida (Tail Up)",
             "meaning": "Uma expressão de forte amizade, comunicação positiva e alegria em relação ao dono.",
             "response": "Responda com um contato visual suave ou um carinho no queixo para fortalecer o vínculo."
           },
           {
-            "name": "Ronrono",
-            "meaning": "Geralmente emitido quando felizes, mas também pode ser um sinal de autocura para aliviar a dor.",
-            "response": "Se ronronarem enquanto se escondem em cantos escuros, verifique se não estão doentes ou feridos."
+            "name": "Ronrono (Purring)",
+            "meaning": "Geralmente emitido quando felizes, mas também pode ser um sinal de autocura para aliviar a dor ou ansiedade.",
+            "response": "Se ronronarem enquanto se escondem em cantos escuros, verifique de perto se não estão doentes ou feridos."
           }
         ],
         "daily_routine": [
@@ -389,34 +389,34 @@
           }
         ],
         "tags": [
-          "Pelo Curto Coreano",
+          "ShorthairCoreano",
           "FLUTD",
-          "Cuidado de Hidratación",
-          "Cuidado de Gatos"
+          "CuidadoDeHidratação",
+          "CuidadoDeGatos"
         ]
       },
       "id": {
-        "title": "Insting yang Liar? Rutinitas 3 Langkah untuk Teritori dan Hidrasi Korean Shorthair",
+        "title": "Insting yang Liar? Rutinitas Harian 3 Langkah untuk Teritori dan Hidrasi Korean Shorthair",
         "description": "Korean Shorthair, dengan insting berburu yang kuat. Pelajari metode hidrasi yang tepat untuk mencegah sistitis pada kucing dan rutinitas harian 3 langkah untuk kenyamanan teritorial.",
         "authority": "Panduan Perilaku Cornell Feline Health Center & Manual Perawatan Hewan Pendamping NIAS",
         "profile": {
-          "breed": "Korean Shorthair",
+          "breed": "Korean Shorthair (Felis catus)",
           "lifespan": "13 ~ 15 tahun",
           "sleep_pattern": "15 ~ 18 jam (vertikal & nokturnal)",
           "temperament": "Mandiri, Insting Berburu Kuat, Penasaran"
         },
-        "intro": "Korean Shorthair, kucing asli Korea, memiliki fisik yang kokoh dan vitalitas yang kuat karena insting liar yang masih terjaga. Meskipun ramah, mereka bisa waspada terhadap orang asing dan sangat fokus selama permainan berburu. 🐕\n\nNamun, sifat-sifat ini membuat mereka rentan terhadap dua stresor dalam ruangan: kecemasan teritorial dari keterbatasan ruang, dan Feline Lower Urinary Tract Disease (FLUTD) atau batu kemih akibat hidrasi yang rendah. Mengelola kondisi ini membutuhkan perawatan harian yang cermat.\n\nHari ini, PetSelf mengeksplorasi bahasa tubuh kucing-kucing ini dan membagikan rutinitas perawatan harian 3 langkah.",
+        "intro": "Korean Shorthair, kucing asli Korea, memiliki fisik yang kokoh dan vitalitas yang kuat karena insting liar yang masih terjaga. Meskipun ramah, mereka bisa waspada terhadap orang asing dan sangat fokus selama permainan berburu. 🐈\n\nNamun, sifat-sifat ini membuat mereka rentan terhadap dua stresor dalam ruangan: kecemasan teritorial dari keterbatasan ruang, dan Feline Lower Urinary Tract Disease (FLUTD) atau batu kemih akibat hidrasi yang rendah. Mengelola kondisi ini membutuhkan perawatan harian yang cermat.\n\nHari ini, PetSelf mengeksplorasi bahasa tubuh kucing-kucing ini dan membagikan 3 langkah rutinitas harian untuk menjaga kesehatan hidrasi dan teritori mereka.",
         "whyTitle": "Bahasa Tubuh Kucing: Ekspresi Kepercayaan Tertinggi",
-        "whyDesc": "Salah satu ekspresi kepercayaan terkuat yang dikirimkan kucing kepada pemiliknya adalah **'menaikkan ekor secara vertikal'** dan **'mendengkur'**. Mendekat dengan ekor tegak lurus ke atas adalah sinyal ramah dan permintaan untuk berkomunikasi. Selain itu, dengkuran merangsang endorfin, menenangkan mereka. Perhatikan bahwa mendengkur juga bisa menjadi sinyal penyembuhan diri saat mereka kesakitan. Jika kucing bergeming di tempat gelap dan mendengkur dengan ekspresi tertekan, pantau kesehatan mereka.",
+        "whyDesc": "Salah satu ekspresi kepercayaan terkuat yang dikirimkan kucing kepada pemiliknya adalah **'menaikkan ekor secara vertikal' (Tail Up)** dan **'mendengkur' (Purring)**. Mendekat dengan ekor tegak lurus ke atas adalah sinyal ramah dan permintaan untuk berkomunikasi. Selain itu, dengkuran merangsang endorfin untuk menenangkan pikiran mereka. Perhatikan bahwa mendengkur juga bisa menjadi sinyal penyembuhan diri saat mereka kesakitan. Jika kucing bersembunyi di tempat gelap dan mendengkur dengan ekspresi tertekan, pantau kesehatan mereka secara teliti.",
         "body_signals": [
           {
-            "name": "Ekor Tegak",
+            "name": "Ekor Tegak (Tail Up)",
             "meaning": "Ekspresi keramahan yang kuat, komunikasi positif, dan kegembiraan terhadap pemilik.",
             "response": "Berikan kontak mata yang lembut atau belai dagu mereka untuk interaksi positif."
           },
           {
-            "name": "Mendengkur",
-            "meaning": "Biasanya dilakukan saat senang, tetapi bisa juga menjadi tanda penyembuhan diri dari rasa sakit.",
+            "name": "Mendengkur (Purring)",
+            "meaning": "Biasanya dilakukan saat senang, tetapi bisa juga menjadi tanda penyembuhan diri dari rasa sakit atau kecemasan.",
             "response": "Jika mereka mendengkur saat bersembunyi di tempat gelap, periksa dengan teliti kesehatannya."
           }
         ],
@@ -445,10 +445,10 @@
           }
         ],
         "tags": [
-          "Kucing Bulu Pendek Korea",
+          "KoreanShorthair",
           "FLUTD",
-          "Perawatan Hidrasi",
-          "Perawatan Kucing"
+          "PerawatanHidrasi",
+          "PerawatanKucing"
         ]
       },
       "ko": {
@@ -456,14 +456,14 @@
         "description": "강인한 사냥 본능을 지닌 코리안 숏헤어. 고양이 방광염 방지를 위한 올바른 음수량 보충 방법과 영역 안정감을 위한 3단계 데일리 교감 루틴을 다룹니다.",
         "authority": "Cornell Feline Health Center 고양이 행동 백서 및 농촌진흥청 국립축산과학원 가이드",
         "profile": {
-          "breed": "코리안 숏헤어 (Korean Shorthair)",
+          "breed": "코리안 숏헤어 (Felis catus)",
           "lifespan": "13 ~ 15년",
           "sleep_pattern": "15 ~ 18시간 (수직/야행성)",
           "temperament": "독립적, 사냥 본능, 호기심 왕성"
         },
         "intro": "한국의 토종 고양이인 코리안 숏헤어(코숏)는 야생성이 잘 보존되어 있어 튼튼한 체격과 강인한 생명력을 자랑하는 매력적인 고양이입니다. 애교가 넘치다가도 낯선 사람에게는 경계심을 보이며, 사냥 놀이에 매우 높은 몰입도를 보입니다. 🐈\n\n하지만 이러한 특성 때문에 실내 생활을 할 때 두 가지 주요한 스트레스 요인에 직면하기 쉽습니다. 첫 번째는 수평/수직 영역의 제한에서 오는 **영역 불안감**이고, 두 번째는 유전적 요인 및 겨울철 급격한 음수량 저하로 발생하는 **특발성 방광염(FLUTD)과 요로결석**입니다. 이 두 질병은 고양이에게 극심한 고통을 주며, 반려인의 지속적이고 세밀한 생활 환경 관리가 절대적으로 요구됩니다.\n\n오늘 PetSelf에서는 코숏의 신뢰 신호를 이해하고, 방광과 영역 건강을 완벽히 챙겨주는 3단계 데일리 라이프스타일 루틴을 공개합니다.",
         "whyTitle": "고양이의 바디 랭귀지: 최고의 신뢰 표현",
-        "whyDesc": "고양이가 보호자에게 보내는 가장 강력한 신뢰의 표현 중 하나는 **'꼬리 세우기'**와 **'골골송(Purring)'**입니다. 꼬리를 하늘을 향해 수직으로 꼿꼿이 세우고 다가오는 행동은 친근함의 표시이자 소통을 원한다는 적극적인 신호입니다. 또한, 골골거리는 소리는 뇌에서 엔도르핀을 촉진해 마음을 안정시킵니다. 주의할 점은, 골골송이 신체적 통증을 완화하고 스스로를 치료하는 '자가 치유' 신호일 수도 있으므로, 만약 고양이가 어두운 곳에 숨어서 우울한 표정으로 골골 소리를 낸다면 주의 깊은 건강 상태 관찰이 필요합니다.",
+        "whyDesc": "고양이가 보호자에게 보내는 가장 강력한 신뢰의 표현 중 하나는 **'꼬리 세우기(Tail Up)'**와 **'골골송(Purring)'**입니다. 꼬리를 하늘을 향해 수직으로 꼿꼿이 세우고 다가오는 행동은 친근함의 표시이자 소통을 원한다는 적극적인 신호입니다. 또한, 골골거리는 소리는 뇌에서 엔도르핀을 촉진해 마음을 안정시킵니다. 주의할 점은, 골골송이 신체적 통증을 완화하고 스스로를 치료하는 '자가 치유' 신호일 수도 있으므로, 만약 고양이가 어두운 곳에 숨어서 우울한 표정으로 골골 소리를 낸다면 주의 깊은 건강 상태 관찰이 필요합니다.",
         "body_signals": [
           {
             "name": "꼬리 세우기 (Tail Up)",
@@ -502,9 +502,9 @@
         ],
         "tags": [
           "코리안숏헤어",
-          "특발성 방광염",
-          "음수량 케어",
-          "반려묘 케어"
+          "특발성방광염",
+          "음수량케어",
+          "반려묘케어"
         ]
       }
     },

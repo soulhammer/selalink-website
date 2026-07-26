@@ -5,7 +5,7 @@ description: "Comprehensive care guide for the crested Cockatiel. Learn to decod
 pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Cockatiel"]
+tags: ["PetCare","PetHealth","Cockatiel (Nymphicus hollandicus)"]
 heroImage: "/images/blog/cockatiel_care.png"
 app: "petself"
 formatVersion: 4
@@ -13,7 +13,7 @@ authority: "Association of Avian Veterinarians (AAV) & Avian Behavior Advisory S
 steps:
   - name: "Cockatiel Communication Language: Deciphering Crest Movements and Head Bowing"
     text: "A Cockatiel's head crest acts as a sensitive emotional antenna revealing its inner state. A crest held flat against the skull versus one fully erect indicates completely different mindsets, while lowering the head is a profound gesture of trust."
-  - name: "Cockatiel's Body Language & Signals"
+  - name: "Cockatiel (Nymphicus hollandicus)'s Body Language & Signals"
     text: "* Fully Erect Crest & Vertical Posture (Fully Erect Crest): Indicates intense curiosity or alert vigilance toward an unfamiliar noise, object, or sudden movement in the room. (Avoid reaching in suddenly. Speak in low, comforting tones while allowing the bird to safely observe and assess the situation.)
 
 * Head Lowered & Neck Extended Forward (Head Lowering for Scratches): A sign of deep trust and affection, explicitly requesting head and cheek (crest base) preening from the caregiver. (Gently stroke the base of the crest and orange cheek feathers against the grain using your fingertip.)"
@@ -60,7 +60,7 @@ Characterized by bright orange cheeks and an elegant head crest, the Cockatiel i
 
 ---
 
-## 2. Cockatiel's Body Language & Signals
+## 2. Cockatiel (Nymphicus hollandicus)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

@@ -3,7 +3,7 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Independência do Shiba Inu e cuidado de pelagem dupla: rotina de 3 passos"
 description: "O Shiba Inu é muito independente e sensível ao toque. Aprenda técnicas de escovação para pelagem dupla e uma rotina de 3 passos para contato sem estresse."
 pubDate: "2026-01-29"
-updatedDate: "2026-01-29"
+updatedDate: "2026-07-26"
 category: "FreshSelf"
 tags: ["CuidadoPets","SaudePets","Shiba Inu"]
 heroImage: "/images/blog/shiba_care.png"
@@ -12,25 +12,25 @@ formatVersion: 4
 authority: "Club Nacional do Shiba Inu da América e diretrizes de modificação de comportamento da IAABC"
 steps:
   - name: "Linguagem corporal do Shiba Inu: sinais de pressão e alívio do estresse"
-    text: "Os Shiba Inus expressam seus limites de forma clara e silenciosa. Os sinais principais incluem 'desviar o olhar' e 'sacudir-se'. Quando uma pessoa estende a mão para tocá-los e o Shiba desvia a cabeça, é um pedido cortês de 'por favor, não me toque agora'. Da mesma forma, sacudir todo o corpo após um evento estresante é um mecanismo instintivo para liberar a tensão física e restaurar seu estado psicológico."
+    text: "Os Shiba Inus expressam seus limites de forma clara e silenciosa. Os sinais principais incluem 'desviar o olhar' e 'sacudir-se'. Quando uma pessoa estende a mão para tocá-los e o Shiba desvia a cabeça, é um pedido cortês de 'por favor, não me toque agora'. Da mesma forma, sacudir todo o corpo após um evento estressante é um mecanismo instintivo para liberar a tensão física e restaurar seu estado psicológico."
   - name: "Shiba Inu's Body Language & Signals"
     text: "* Desviar o olhar: Um pedido cortês pedindo à pessoa que pare de se aproximar ou tocá-lo, expressando pressão. (Se ver isso, não tente tocá-lo. Retire a mão e dê-lhe espaço.)
 
 * Sacudir-se: Uma ação destinada a sacudir o estresse ou a tensão física experimentados recentemente. (Se eles se sacudirem durante a escovação, estão liberando tensão. Pare a atividade e deixe-os descansar.)"
   - name: "Customized 3-Step Home Care Routine"
-    text: "* STEP 1. Manhã: Dessensibilização ao toque em áreas sensíveis: Toque suas patas ou quadris brevemente por 1 segundo e, em seguida, recompense imediatamente com um petisco. Repita para criar associações positivas.
+    text: "* STEP 1. Manhã: Dessensibilização ao toque em áreas sensíveis: Toque suas patas ou quadris brevemente por 1 segundo e, em seguida, recompense imediatamente com um petisco de alto valor. Repita para criar associações positivas.
 
 * STEP 2. Tarde: Escovação de baixo estresse para pelagem dupla: Use uma rasqueadeira para escovar suavemente na direção do crescimento do pelo. Se mostrar qualquer sinal de desconforto ou rosnar, pare imediatamente.
 
 * STEP 3. Noite: Respeitar a zona de segurança independente: Quando o seu Shiba se retirar para a caixa de transporte ou canto seguro para descansar, não o force a sair nem o acaricie. Permita-lhe descansar em solidão."
 faqs:
   - question: "Por que o meu Shiba Inu grita durante a escovação?"
-    answer: "Isso é conhecido como o 'Grito Shiba'. É uma expressão de medo e pressão reais, não apenas manha. Pare imediatamente e reinicie o treino desde o nível básico."
+    answer: "Isso é conhecido como o 'Grito Shiba'. É uma expressão de medo e pressão reais, não apenas manha. Pare imediatamente e reinicie o treino desde o nível básico, como recompensá-lo apenas por olhar para a escova."
   - question: "Por que o meu Shiba Inu não é tão carinhoso ou agitado como outros cães?"
-    answer: "Os Shibas são naturalmente parecidos com gatos e valorizam seu espaço. Só porque não abanam a cauda com entusiasmo não significa que não gostem de você; deitar-se calmamente perto de você é a forma deles de mostrar carinho."
+    answer: "Os Shibas são naturalmente parecidos com gatos e valorizam seu espaço pessoal. Só porque não abanam a cauda com entusiasmo não significa que não gostem de você; deitar-se calmamente perto de você é a forma deles de mostrar carinho."
 ---
 
-Os Shiba Inus são amados globalmente por sua aparência de raposa e cauda enrolada. No entanto, possuem uma independência felina, vontade forte e natureza alerta. 🐕 São notoriamente sensíveis a toques nas patas, orelhas ou cauda. Se forem forçados durante a escovação ou corte de unhas, costumam soltar o 'grito Shiba' em protesto. Além disso, têm pelagem dupla espessa que cai muito. Hoje, o PetSelf explora como respeitar os limites de seu Shiba com uma rotina de 3 passos.
+Os Shiba Inus são amados globalmente por sua aparência de raposa e cauda enrolada. No entanto, possuem uma independência felina, vontade forte e natureza alerta. 🐕 São notoriamente sensíveis a toques nas patas, orelhas ou cauda. Se forem forçados durante a escovação ou corte de unhas, costumam soltar o 'grito Shiba' em protesto. Além disso, têm pelagem dupla espessa que cai muito durante as trocas de estação. Hoje, o PetSelf explora como respeitar os limites de seu Shiba com uma rotina de 3 passos.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -54,7 +54,7 @@ Os Shiba Inus são amados globalmente por sua aparência de raposa e cauda enrol
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Linguagem corporal do Shiba Inu: sinais de pressão e alívio do estresse</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Os Shiba Inus expressam seus limites de forma clara e silenciosa. Os sinais principais incluem 'desviar o olhar' e 'sacudir-se'. Quando uma pessoa estende a mão para tocá-los e o Shiba desvia a cabeça, é um pedido cortês de 'por favor, não me toque agora'. Da mesma forma, sacudir todo o corpo após um evento estresante é um mecanismo instintivo para liberar a tensão física e restaurar seu estado psicológico.
+    Os Shiba Inus expressam seus limites de forma clara e silenciosa. Os sinais principais incluem 'desviar o olhar' e 'sacudir-se'. Quando uma pessoa estende a mão para tocá-los e o Shiba desvia a cabeça, é um pedido cortês de 'por favor, não me toque agora'. Da mesma forma, sacudir todo o corpo após um evento estressante é um mecanismo instintivo para liberar a tensão física e restaurar seu estado psicológico.
   </p>
 </div>
 
@@ -94,7 +94,7 @@ Os Shiba Inus são amados globalmente por sua aparência de raposa e cauda enrol
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Manhã: Dessensibilização ao toque em áreas sensíveis</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Toque suas patas ou quadris brevemente por 1 segundo e, em seguida, recompense imediatamente com um petisco. Repita para criar associações positivas.
+    Toque suas patas ou quadris brevemente por 1 segundo e, em seguida, recompense imediatamente com um petisco de alto valor. Repita para criar associações positivas.
   </p>
 </div>
 
@@ -133,7 +133,7 @@ Os Shiba Inus são amados globalmente por sua aparência de raposa e cauda enrol
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Isso é conhecido como o 'Grito Shiba'. É uma expressão de medo e pressão reais, não apenas manha. Pare imediatamente e reinicie o treino desde o nível básico.
+      Isso é conhecido como o 'Grito Shiba'. É uma expressão de medo e pressão reais, não apenas manha. Pare imediatamente e reinicie o treino desde o nível básico, como recompensá-lo apenas por olhar para a escova.
     </p>
   </details>
 
@@ -143,7 +143,7 @@ Os Shiba Inus são amados globalmente por sua aparência de raposa e cauda enrol
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Os Shibas são naturalmente parecidos com gatos e valorizam seu espaço. Só porque não abanam a cauda com entusiasmo não significa que não gostem de você; deitar-se calmamente perto de você é a forma deles de mostrar carinho.
+      Os Shibas são naturalmente parecidos com gatos e valorizam seu espaço pessoal. Só porque não abanam a cauda com entusiasmo não significa que não gostem de você; deitar-se calmamente perto de você é a forma deles de mostrar carinho.
     </p>
   </details>
 </div>

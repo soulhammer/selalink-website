@@ -1,7 +1,7 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Panduan Vitamin C Marmut Abyssinian dan Rutinitas 3 Langkah Kesehatan Pernapasan"
-description: "Merawat marmut Abyssinian berbulu pusaran (rosettes). Pelajari cara memenuhi kebutuhan vitamin C dan kelola kandang dari debu jerami."
+description: "Perawatan esensial untuk marmut Abyssinian berbulu pusaran (rosettes). Pelajari cara memenuhi kebutuhan vitamin C dan kelola kandang dari debu jerami."
 pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "FreshSelf"
@@ -9,28 +9,28 @@ tags: ["PerawatanHewan","KesehatanHewan","Marmut Abyssinian (Guinea Pig)"]
 heroImage: "/images/blog/abyssinian_guinea_pig_care.png"
 app: "petself"
 formatVersion: 4
-authority: "Pedoman Perawatan Hewan Pengerat RSPCA dan Standar Medis Dokter Hewan Eksotis"
+authority: "Pedoman Perawatan Hewan Pengerat RSPCA dan Standar Klinis Dokter Hewan Eksotis"
 steps:
   - name: "Komunikasi Marmut: Wheeking dan Popcorning"
-    text: "Marmut adalah hewan yang vokal dan ekspresif. Mereka mengeluarkan suara cicitan nyaring yang disebut 'wheeking' saat meminta makanan. Di sisi lain, mereka melakukan lompatan mendadak di udara yang disebut 'popcorning' saat merasa sangat gembira dan aman."
+    text: "Marmut adalah hewan yang sangat vokal dan ekspresif. Mereka mengeluarkan suara cicitan nyaring yang disebut 'wheeking' saat meminta makanan. Di sisi lain, mereka melakukan lompatan mendadak di udara yang disebut 'popcorning' saat merasa sangat gembira dan aman."
   - name: "Marmut Abyssinian (Guinea Pig)'s Body Language & Signals"
-    text: "* Cicitan Nyaring (Wheeking): Panggilan kegembiraan atau permintaan makan, biasanya terdengar saat mereka mendengar suara kantong sayur dibuka. (Berikan potongan paprika segar atau suplemen vitamin C untuk membangun ikatan persahabatan.)
+    text: "* Cicitan Nyaring (Wheeking): Panggilan kegembiraan atau permintaan makan, biasanya terdengar saat mereka mendengar suara kantong sayur atau melihat pemilik mendekat. (Berikan potongan paprika segar kaya vitamin C atau suplemen khusus untuk mempererat hubungan emosional.)
 
-* Lompatan Popcorn (Popcorning): Melompat tegak ke udara secara mendadak sebagai ekspresi kegembiraan murni dan rasa aman. (Pastikan area bermain bebas dari benda keras tajam agar mereka tidak cedera saat melompat gembira.)"
+* Lompatan Popcorn (Popcorning): Melompat tegak ke udara secara mendadak sebagai ekspresi kegembiraan murni, stamina tinggi, dan rasa aman. (Pastikan area bermain bebas dari benda keras atau tajam agar mereka tidak cedera saat melompat gembira.)"
   - name: "Customized 3-Step Home Care Routine"
-    text: "* STEP 1. Pagi: Suplementasi Vitamin C & Jerami Segar: Berikan suplemen vitamin C khusus secara langsung (hindari mencampur ke air karena cepat rusak). Isi rak dengan jerami Timothy segar.
+    text: "* STEP 1. Pagi: Suplementasi Vitamin C & Jerami Segar: Berikan suplemen vitamin C khusus secara langsung atau beri paprika segar (hindari mencampur ke air karena cepat terdegradasi). Isi rak dengan jerami Timothy segar.
 
-* STEP 2. Siang: Pembersihan Kandang & Pencegahan Debu: Bersihkan alas kandang yang basah. Kebaskan jerami di luar ruangan sebelum dimasukkan kandang agar debunya berkurang.
+* STEP 2. Siang: Pembersihan Kandang & Pencegahan Debu: Bersihkan alas kandang yang basah untuk mencegah penumpukan gas amonia. Kebaskan jerami di luar ruangan sebelum dimasukkan kandang agar debu terbuang.
 
-* STEP 3. Malam: Pemeriksaan Pernapasan & Sosialisasi: Pastikan hidung tidak berlendir (gejala infeksi paru) dan periksa kulit di sela rosettes bulu. Ajak berinteraksi ramah."
+* STEP 3. Malam: Pemeriksaan Pernapasan & Sosialisasi: Pastikan hidung dan mata bebas dari lendir (gejala awal infeksi saluran napas) dan periksa kulit di sela rosettes bulu. Ajak berinteraksi dengan lembut."
 faqs:
   - question: "Bolehkah saya memberikan buah jeruk kepada marmut untuk vitamin C?"
-    answer: "Buah sitrus terlalu asam dan tinggi gula, yang dapat memicu luka mulut dan diare. Paprika hijau atau tablet vitamin C khusus jauh lebih aman."
+    answer: "Buah sitrus terlalu asam dan tinggi gula, yang dapat memicu luka di mulut (cheilitis) dan diare. Paprika manis (bell pepper) atau tablet vitamin C khusus jauh lebih aman."
   - question: "Apakah marmut Abyssinian bisa dipelihara sendirian?"
-    answer: "Tidak. Marmut adalah hewan koloni yang sangat sosial. Memelihara satu ekor saja akan membuat mereka depresi karena kesepian. Sebaiknya peliharalah berpasangan."
+    answer: "Tidak. Marmut adalah hewan koloni yang sangat sosial. Memelihara satu ekor saja akan membuat mereka depresi berat dan kehilangan nafsu makan. Sebaiknya dipelihara berpasangan sesama jenis atau kelompok."
 ---
 
-Marmut Abyssinian disukai karena pola pusaran bulu ('rosettes') yang unik serta sifatnya yang aktif. Seperti semua marmut (guinea pig), tubuh mereka tidak dapat memproduksi vitamin C sendiri. Kekurangan vitamin C dapat memicu penyakit sariawan/skorbut, sendi bengkak, dan penurunan imun. Selain itu, pernapasan mereka sangat sensitif sehingga kebersihan kandang dan jerami bebas debu sangat vital. Hari ini, PetSelf mengurai bahasa tubuh marmut dan membagikan 3 langkah rutinitas pemenuhan vitamin C serta kesehatan pernapasan.
+Marmut Abyssinian disukai karena pola pusaran bulu ('rosettes') yang unik serta sifatnya yang aktif dan penuh rasa ingin tahu. Karena tidak memiliki enzim untuk memproduksi vitamin C secara alami, kekurangan nutrisi ini dapat memicu penyakit skorbut (sariawan berat), sendi bengkak, dan penurunan imun. Selain itu, pernapasan mereka yang sensitif membuat kebersihan kandang dan jerami bebas debu sangat vital. Hari ini, PetSelf mengulas bahasa tubuh marmut dan membagikan 3 langkah rutinitas pemenuhan vitamin C serta kesehatan pernapasan.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -39,7 +39,7 @@ Marmut Abyssinian disukai karena pola pusaran bulu ('rosettes') yang unik serta 
       Bukti Dokter Hewan & Perilaku
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Konten ini didasarkan pada <strong>Pedoman Perawatan Hewan Pengerat RSPCA dan Standar Medis Dokter Hewan Eksotis</strong>.
+      Konten ini didasarkan pada <strong>Pedoman Perawatan Hewan Pengerat RSPCA dan Standar Klinis Dokter Hewan Eksotis</strong>.
     </p>
   </div>
 </div>
@@ -54,7 +54,7 @@ Marmut Abyssinian disukai karena pola pusaran bulu ('rosettes') yang unik serta 
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Komunikasi Marmut: Wheeking dan Popcorning</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Marmut adalah hewan yang vokal dan ekspresif. Mereka mengeluarkan suara cicitan nyaring yang disebut 'wheeking' saat meminta makanan. Di sisi lain, mereka melakukan lompatan mendadak di udara yang disebut 'popcorning' saat merasa sangat gembira dan aman.
+    Marmut adalah hewan yang sangat vokal dan ekspresif. Mereka mengeluarkan suara cicitan nyaring yang disebut 'wheeking' saat meminta makanan. Di sisi lain, mereka melakukan lompatan mendadak di udara yang disebut 'popcorning' saat merasa sangat gembira dan aman.
   </p>
 </div>
 
@@ -68,8 +68,8 @@ Marmut Abyssinian disukai karena pola pusaran bulu ('rosettes') yang unik serta 
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Cicitan Nyaring (Wheeking)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Arti:</strong> Panggilan kegembiraan atau permintaan makan, biasanya terdengar saat mereka mendengar suara kantong sayur dibuka.<br/>
-    <strong>• Tindakan:</strong> Berikan potongan paprika segar atau suplemen vitamin C untuk membangun ikatan persahabatan.
+    <strong>• Arti:</strong> Panggilan kegembiraan atau permintaan makan, biasanya terdengar saat mereka mendengar suara kantong sayur atau melihat pemilik mendekat.<br/>
+    <strong>• Tindakan:</strong> Berikan potongan paprika segar kaya vitamin C atau suplemen khusus untuk mempererat hubungan emosional.
   </p>
 </div>
 
@@ -79,8 +79,8 @@ Marmut Abyssinian disukai karena pola pusaran bulu ('rosettes') yang unik serta 
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Lompatan Popcorn (Popcorning)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Arti:</strong> Melompat tegak ke udara secara mendadak sebagai ekspresi kegembiraan murni dan rasa aman.<br/>
-    <strong>• Tindakan:</strong> Pastikan area bermain bebas dari benda keras tajam agar mereka tidak cedera saat melompat gembira.
+    <strong>• Arti:</strong> Melompat tegak ke udara secara mendadak sebagai ekspresi kegembiraan murni, stamina tinggi, dan rasa aman.<br/>
+    <strong>• Tindakan:</strong> Pastikan area bermain bebas dari benda keras atau tajam agar mereka tidak cedera saat melompat gembira.
   </p>
 </div>
 
@@ -94,7 +94,7 @@ Marmut Abyssinian disukai karena pola pusaran bulu ('rosettes') yang unik serta 
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pagi: Suplementasi Vitamin C & Jerami Segar</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Berikan suplemen vitamin C khusus secara langsung (hindari mencampur ke air karena cepat rusak). Isi rak dengan jerami Timothy segar.
+    Berikan suplemen vitamin C khusus secara langsung atau beri paprika segar (hindari mencampur ke air karena cepat terdegradasi). Isi rak dengan jerami Timothy segar.
   </p>
 </div>
 
@@ -104,7 +104,7 @@ Marmut Abyssinian disukai karena pola pusaran bulu ('rosettes') yang unik serta 
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Siang: Pembersihan Kandang & Pencegahan Debu</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Bersihkan alas kandang yang basah. Kebaskan jerami di luar ruangan sebelum dimasukkan kandang agar debunya berkurang.
+    Bersihkan alas kandang yang basah untuk mencegah penumpukan gas amonia. Kebaskan jerami di luar ruangan sebelum dimasukkan kandang agar debu terbuang.
   </p>
 </div>
 
@@ -114,7 +114,7 @@ Marmut Abyssinian disukai karena pola pusaran bulu ('rosettes') yang unik serta 
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Malam: Pemeriksaan Pernapasan & Sosialisasi</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Pastikan hidung tidak berlendir (gejala infeksi paru) dan periksa kulit di sela rosettes bulu. Ajak berinteraksi ramah.
+    Pastikan hidung dan mata bebas dari lendir (gejala awal infeksi saluran napas) dan periksa kulit di sela rosettes bulu. Ajak berinteraksi dengan lembut.
   </p>
 </div>
 
@@ -133,7 +133,7 @@ Marmut Abyssinian disukai karena pola pusaran bulu ('rosettes') yang unik serta 
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Buah sitrus terlalu asam dan tinggi gula, yang dapat memicu luka mulut dan diare. Paprika hijau atau tablet vitamin C khusus jauh lebih aman.
+      Buah sitrus terlalu asam dan tinggi gula, yang dapat memicu luka di mulut (cheilitis) dan diare. Paprika manis (bell pepper) atau tablet vitamin C khusus jauh lebih aman.
     </p>
   </details>
 
@@ -143,7 +143,7 @@ Marmut Abyssinian disukai karena pola pusaran bulu ('rosettes') yang unik serta 
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Tidak. Marmut adalah hewan koloni yang sangat sosial. Memelihara satu ekor saja akan membuat mereka depresi karena kesepian. Sebaiknya peliharalah berpasangan.
+      Tidak. Marmut adalah hewan koloni yang sangat sosial. Memelihara satu ekor saja akan membuat mereka depresi berat dan kehilangan nafsu makan. Sebaiknya dipelihara berpasangan sesama jenis atau kelompok.
     </p>
   </details>
 </div>

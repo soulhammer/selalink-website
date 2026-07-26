@@ -1,22 +1,22 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "Jogos mentais e cuidados com as orelhas: rotina de 3 passos para o poodle inteligente"
-description: "Descubra como aliviar o tédio em poodles inteligentes com jogos mentais e prevenir infecções de ouvido com uma rotina de 3 passos."
+title: "Jogos mentais e cuidados com as orelhas: Rotina diária de 3 passos para o Poodle inteligente"
+description: "Descubra como aliviar o tédio em poodles inteligentes com jogos mentais e prevenir infecções de ouvido com uma rotina diária de 3 passos."
 pubDate: "2026-01-26"
 updatedDate: "2026-01-26"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Poodle"]
+tags: ["CuidadoPets","SaudePets","Poodle (Canis lupus familiaris)"]
 heroImage: "/images/blog/poodle_care.png"
 app: "petself"
 formatVersion: 4
-authority: "Guia oficial de raças do American Kennel Club (AKC) e protocolos de comportamento da IAABC"
+authority: "Guia Oficial de Raças do American Kennel Club (AKC) e Protocolos de Comportamento da IAABC"
 steps:
-  - name: "Linguagem corporal do poodle: distinguindo exigência de estresse"
-    text: "Devido à sua inteligência, os poodles comunicam-se ativamente por meio da linguagem corporal. Os sinais típicos incluem 'levantar a pata' e 'piscar'. Quando um poodle levanta uma pata dianteira, parece um pedido de carinho, mas muitas vezes é uma mensagem dizendo 'dê-me atenção' ou um sinal de calma que significa 'estou um pouco tenso, por favor, seja gentil'. Olhar suavemente e piscar lentamente é sua forma de mostrar carinho."
-  - name: "Poodle's Body Language & Signals"
-    text: "* Levantar a pata: Uma expressão que busca atenção ou tenta acalmar uma leve tensão ou ansiedade. (Se notar, evite dar ordens enérgicas. Fale em um tom calmo e acaricie-o suavemente.)
+  - name: "Linguagem corporal do poodle: Distinguindo exigência de estresse"
+    text: "Devido à sua inteligência, os poodles comunicam-se ativamente por meio da linguagem corporal. Os sinais típicos incluem 'levantar a pata' (Paw Raising) e 'piscar suavemente' (Soft Blinking). Quando um poodle levanta uma pata dianteira, parece um pedido de carinho, mas muitas vezes é uma mensagem dizendo 'dê-me atenção' ou um sinal de calma que significa 'estou um pouco tenso, por favor, seja gentil'. Olhar suavemente e piscar lentamente é sua forma de mostrar carinho."
+  - name: "Poodle (Canis lupus familiaris)'s Body Language & Signals"
+    text: "* Levantar a pata (Paw Raising): Uma expressão que busca atenção ou tenta acalmar uma leve tensão ou ansiedade. (Se notar, evite dar ordens enérgicas. Fale em um tom calmo e acaricie-o suavemente.)
 
-* Piscar suavemente: Um sinal de profunda confiança e carinho, confirmando que se sentem seguros com você. (Quando se olharem, pisque de volta lentamente para compartilhar e reforçar essa sensação de paz.)"
+* Piscar suavemente (Soft Blinking): Um sinal de profunda confiança e carinho, confirmando que se sentem seguros com você. (Quando se olharem, pisque de volta lentamente para compartilhar e reforçar essa sensação de paz.)"
   - name: "Customized 3-Step Home Care Routine"
     text: "* STEP 1. Manhã: Alívio cognitivo com brinquedos inteligentes: Além dos passeios físicos, use comedouros interativos ou tapetes de faro para estimular sua mente ativa, ajudando a canalizar o excesso de energia.
 
@@ -27,10 +27,10 @@ faqs:
   - question: "É normal o meu poodle sacudir a cabeça vigorosamente após a limpeza das orelhas?"
     answer: "Sim, é uma reação normal de autolimpeza. Ajuda a expelir o limpador com a sujeira do interior da orelha. Apenas limpe a parte externa da orelha com cuidado."
   - question: "Como faço para o meu poodle parar de roer móveis?"
-    answer: "Poodles costumam roer por tédio devido à falta de estimulação mental. Em vez de brinquedos de mastigar comuns, introduza quebra-cabeças e jogos interativos."
+    answer: "Poodles costumam roer por tédio devido à falta de estimulação mental. Em vez de brinquedos de mastigar comuns, introduza quebra-cabeças e jogos interativos para exercitar o cérebro."
 ---
 
-Os poodles são reconhecidos como uma das raças de cães mais inteligentes do mundo. Embora sejam muito adestráveis e sensíveis às emoções de seus donos, eles podem ficar entediados e estressados facilmente devido às suas mentes ativas. 🐩 Além disso, como suas orelhas caídas cobrem o canal auditivo, eles são propensos a infecções crônicas de ouvido devido à má ventilação. Hoje, o PetSelf compartilha dicas para manter seu poodle mentalmente estimulado e apresenta uma rotina de cuidados de 3 passos para manter suas orelhas limpas e saudáveis.
+Os poodles são reconhecidos como uma das raças de cães mais inteligentes do mundo. Embora sejam muito adestráveis e sensíveis às emoções de seus tutores, eles podem ficar entediados e estressados facilmente devido às suas mentes ativas. 🐩 Além disso, como suas orelhas caídas cobrem o canal auditivo, eles são propensos a infecções crônicas de ouvido devido à má ventilação. Hoje, o PetSelf compartilha dicas para manter seu poodle mentalmente estimulado e apresenta uma rotina de cuidados diários de 3 passos para manter suas orelhas limpas e saudáveis.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -39,33 +39,33 @@ Os poodles são reconhecidos como uma das raças de cães mais inteligentes do m
       Evidência Veterinária e Comportamental
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Este conteúdo baseia-se em <strong>Guia oficial de raças do American Kennel Club (AKC) e protocolos de comportamento da IAABC</strong>.
+      Este conteúdo baseia-se em <strong>Guia Oficial de Raças do American Kennel Club (AKC) e Protocolos de Comportamento da IAABC</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 1. Linguagem corporal do poodle: distinguindo exigência de estresse
+## 1. Linguagem corporal do poodle: Distinguindo exigência de estresse
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Linguagem corporal do poodle: distinguindo exigência de estresse</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Linguagem corporal do poodle: Distinguindo exigência de estresse</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Devido à sua inteligência, os poodles comunicam-se ativamente por meio da linguagem corporal. Os sinais típicos incluem 'levantar a pata' e 'piscar'. Quando um poodle levanta uma pata dianteira, parece um pedido de carinho, mas muitas vezes é uma mensagem dizendo 'dê-me atenção' ou um sinal de calma que significa 'estou um pouco tenso, por favor, seja gentil'. Olhar suavemente e piscar lentamente é sua forma de mostrar carinho.
+    Devido à sua inteligência, os poodles comunicam-se ativamente por meio da linguagem corporal. Os sinais típicos incluem 'levantar a pata' (Paw Raising) e 'piscar suavemente' (Soft Blinking). Quando um poodle levanta uma pata dianteira, parece um pedido de carinho, mas muitas vezes é uma mensagem dizendo 'dê-me atenção' ou um sinal de calma que significa 'estou um pouco tenso, por favor, seja gentil'. Olhar suavemente e piscar lentamente é sua forma de mostrar carinho.
   </p>
 </div>
 
 ---
 
-## 2. Poodle's Body Language & Signals
+## 2. Poodle (Canis lupus familiaris)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Sinal Corporal 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Levantar a pata</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Levantar a pata (Paw Raising)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• Significado:</strong> Uma expressão que busca atenção ou tenta acalmar uma leve tensão ou ansiedade.<br/>
@@ -76,7 +76,7 @@ Os poodles são reconhecidos como uma das raças de cães mais inteligentes do m
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Sinal Corporal 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Piscar suavemente</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Piscar suavemente (Soft Blinking)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• Significado:</strong> Um sinal de profunda confiança e carinho, confirmando que se sentem seguros com você.<br/>
@@ -143,7 +143,7 @@ Os poodles são reconhecidos como uma das raças de cães mais inteligentes do m
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Poodles costumam roer por tédio devido à falta de estimulação mental. Em vez de brinquedos de mastigar comuns, introduza quebra-cabeças e jogos interativos.
+      Poodles costumam roer por tédio devido à falta de estimulação mental. Em vez de brinquedos de mastigar comuns, introduza quebra-cabeças e jogos interativos para exercitar o cérebro.
     </p>
   </details>
 </div>

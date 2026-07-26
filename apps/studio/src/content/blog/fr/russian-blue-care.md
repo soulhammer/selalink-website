@@ -1,22 +1,22 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "Havre de paix et création de confiance : routine en 3 étapes pour le Bleu Russe"
+title: "Havre de paix et création de confiance : Routine quotidienne en 3 étapes pour le Bleu Russe"
 description: "Le Bleu Russe est timide et sensible au bruit. Apprenez à lui créer un havre de paix sans stress et appliquez une routine en 3 étapes pour gagner sa confiance."
 pubDate: "2026-03-26"
 updatedDate: "2026-03-26"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Bleu Russe"]
+tags: ["SoinAnimaux","SanteAnimaux","Bleu Russe (Felis catus / Russian Blue)"]
 heroImage: "/images/blog/russian_blue_care.png"
 app: "petself"
 formatVersion: 4
 authority: "Guide de la Cat Fanciers' Association (CFA) et Cornell Feline Health Center"
 steps:
-  - name: "Langage corporel du Bleu Russe : lire les signes de panique"
-    text: "De nature douce, le Bleu Russe émet des signaux d'avertissement discrets. Les signes clés de panique sont les 'pupilles dilatées' et la 'posture accroupie' (crouching). Face à un bruit ou un inconnu, ses pupilles s'agrandissent. S'il plaque son corps au sol et replie ses oreilles sur les côtés, il ressent une peur intense et s'apprête à fuir."
-  - name: "Bleu Russe's Body Language & Signals"
-    text: "* Pupilles dilatées: Une réponse physique indiquant qu'il est très alerte, tendu ou effrayé. (Tamisez les lumières et arrêtez immédiatement la source de stress (bruit d'appareil ménager).)
+  - name: "Langage corporel du Bleu Russe : Lire les signes de panique"
+    text: "De nature douce, le Bleu Russe émet des signaux d'avertissement discrets. Les signes clés de panique sont les « pupilles dilatées » (Dilated Pupils) et la « posture accroupie » (Crouching). Face à un bruit ou un inconnu, ses pupilles s'agrandissent. S'il plaque son corps au sol et replie ses oreilles sur les côtés, il ressent une peur intense et s'apprête à fuir."
+  - name: "Bleu Russe (Felis catus / Russian Blue)'s Body Language & Signals"
+    text: "* Pupilles dilatées (Dilated Pupils): Une réponse physique indiquant qu'il est très alerte, tendu ou effrayé. (Tamisez les lumières et arrêtez immédiatement la source de stress (bruit d'appareil ménager).)
 
-* Posture accroupie: Un signe de panique défensive, montrant qu'il se sent acculé ou terrifié. (Ne le forcez pas au contact physique. Laissez-le se réfugier dans une pièce calme ou un placard.)"
+* Posture accroupie (Crouching): Un signe de panique défensive, montrant qu'il se sent acculé ou terrifié. (Ne le forcez pas au contact physique. Laissez-le se réfugier dans une pièce calme ou un placard.)"
   - name: "Customized 3-Step Home Care Routine"
     text: "* STEP 1. Matin : Entretien sécurisé de la litière et des gamelles: Nettoyez la litière tôt. Assurez-vous que ses gamelles sont placées dans un coin calme, à l'écart des passages et du bruit.
 
@@ -26,7 +26,7 @@ steps:
 faqs:
   - question: "Dois-je faire sortir mon Bleu Russe de sa cachette quand j'ai des invités ?"
     answer: "Absolument pas. Le forcer à sortir de son refuge provoquerait une panique et briserait sa confiance en vous. Laissez-le caché jusqu'au départ des invités."
-  - question: "Quel is le moyen le plus efficace de s'apprivoiser un Bleu Russe timide ?"
+  - question: "Quel est le moyen le plus efficace de s'apprivoiser un Bleu Russe timide ?"
     answer: "Baissez-vous et évitez de le regarder fixement, ce que les chats perçoivent comme une menace. Laissez-le renifler votre doigt et récompensez-le avec des friandises."
 ---
 
@@ -46,26 +46,26 @@ Le Bleu Russe est un félin réputé pour son pelage bleu argenté et ses yeux v
 
 ---
 
-## 1. Langage corporel du Bleu Russe : lire les signes de panique
+## 1. Langage corporel du Bleu Russe : Lire les signes de panique
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Langage corporel du Bleu Russe : lire les signes de panique</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Langage corporel du Bleu Russe : Lire les signes de panique</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    De nature douce, le Bleu Russe émet des signaux d'avertissement discrets. Les signes clés de panique sont les 'pupilles dilatées' et la 'posture accroupie' (crouching). Face à un bruit ou un inconnu, ses pupilles s'agrandissent. S'il plaque son corps au sol et replie ses oreilles sur les côtés, il ressent une peur intense et s'apprête à fuir.
+    De nature douce, le Bleu Russe émet des signaux d'avertissement discrets. Les signes clés de panique sont les « pupilles dilatées » (Dilated Pupils) et la « posture accroupie » (Crouching). Face à un bruit ou un inconnu, ses pupilles s'agrandissent. S'il plaque son corps au sol et replie ses oreilles sur les côtés, il ressent une peur intense et s'apprête à fuir.
   </p>
 </div>
 
 ---
 
-## 2. Bleu Russe's Body Language & Signals
+## 2. Bleu Russe (Felis catus / Russian Blue)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Signal Corporel 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pupilles dilatées</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pupilles dilatées (Dilated Pupils)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• Signification:</strong> Une réponse physique indiquant qu'il est très alerte, tendu ou effrayé.<br/>
@@ -76,7 +76,7 @@ Le Bleu Russe est un félin réputé pour son pelage bleu argenté et ses yeux v
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Signal Corporel 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Posture accroupie</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Posture accroupie (Crouching)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• Signification:</strong> Un signe de panique défensive, montrant qu'il se sent acculé ou terrifié.<br/>
@@ -139,7 +139,7 @@ Le Bleu Russe est un félin réputé pour son pelage bleu argenté et ses yeux v
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Quel is le moyen le plus efficace de s'apprivoiser un Bleu Russe timide ?</span>
+      <span>Quel est le moyen le plus efficace de s'apprivoiser un Bleu Russe timide ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">

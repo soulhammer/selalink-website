@@ -5,32 +5,32 @@ description: "장난기 많고 유연한 육식 소동물 마샬 페럿. 기쁨�
 pubDate: "2026-05-06"
 updatedDate: "2026-05-06"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","마샬 페럿 (Marshall Ferret)"]
+tags: ["반려동물","펫케어","마샬 페럿 (Mustela putorius furo / Marshall Ferret)"]
 heroImage: "/images/blog/marshall_ferret_care.png"
 app: "petself"
 formatVersion: 4
 authority: "American Ferret Association 페럿 행동 표준 및 소동물 수의 행동의학 가이드"
 steps:
   - name: "마샬 페럿의 놀이 의사소통: 페럿 댄스와 슉슉 소리"
-    text: "마샬 페럿은 흥분이 극에 달하면 입을 크게 벌리고 등을 동그랗게 구부린 채 이리저리 부딪치며 춤을 추는 '페럿 댄스(Weasel War Dance)' 행동으로 압도적인 기쁨을 드러냅니다. 또한 신나게 냄새를 추적할 때는 목구멍으로 '슉슉거리는 소리(Dooking)'를 냄으로써 보호자에게 재미있는 상태임을 끊임없이 전달합니다."
-  - name: "마샬 페럿 (Marshall Ferret)의 몸짓 언어와 바디 시그널"
-    text: "* 페럿 댄스 (Weasel War Dance): 위협적으로 보이지만 사실은 에너지가 폭발해 주체할 수 없을 만큼 행복하고 신난 놀이 권장 의사표현입니다. (가구 틈새 등에 부딪쳐 골절되지 않도록 미끄럼 방지 장치가 있는 탁 트인 공간에서 공을 굴려주며 함께 놉니다.)
+    text: "마샬 페럿은 흥분이 극에 달하면 입을 크게 벌리고 등을 동그랗게 구부린 채 이리저리 부딪치며 춤을 추는 '페럿 댄스(Weasel War Dance)' 행동으로 압도적인 기쁨을 드러냅니다. 또한 신나게 냄새를 추적하거나 터널을 통과할 때는 목구멍으로 '슉슉거리는 소리(Dooking)'를 냄으로써 보호자에게 현재 매우 즐거운 상태임을 끊임없이 전달합니다."
+  - name: "마샬 페럿 (Mustela putorius furo / Marshall Ferret)의 몸짓 언어와 바디 시그널"
+    text: "* 페럿 댄스 (Weasel War Dance): 위협적으로 보이지만 사실은 에너지가 폭발해 주체할 수 없을 만큼 행복하고 신난 놀이 권장 의사표현입니다. (가구 틈새 등에 부딪쳐 골절되지 않도록 모서리가 완충된 미끄럼 방지 공간에서 공이나 터널을 이용해 함께 놀아 줍니다.)
 
 * 낮은 슉슉 소리 (Dooking): 새로운 냄새나 장난감 미로를 마주하여 높은 호기심과 즐거움을 표현하고 있는 안전한 감정 상태입니다. (바스락거리는 비닐 터널이나 종이 상자를 제공해 페럿의 굴 파기 사냥 본능을 깊이 자극해 줍니다.)"
-  - name: "마샬 페럿 (Marshall Ferret) 맞춤형 3단계 홈케어 루틴"
-    text: "* STEP 1. 아침: 육식 전용 고단백 식사 및 식수 공급 상태 점검: 장이 매우 짧아 수시로 사료를 먹어야 하므로 탄수화물이나 곡물이 배제된 육류 위주의 전용 사료를 넉넉하게 리필합니다.
+  - name: "마샬 페럿 (Mustela putorius furo / Marshall Ferret) 맞춤형 3단계 홈케어 루틴"
+    text: "* STEP 1. 아침: 육식 전용 고단백 식사 및 식수 공급 상태 점검: 장이 매우 짧아 수시로 사료를 먹어야 하므로 탄수화물이나 곡물이 배제된 육류 위주의 전용 사료를 넉넉하게 리필하고 깨끗한 물을 채워 줍니다.
 
-* STEP 2. 낮: 최소 4시간 이상 거실 안전 구역 자유 방목 놀이: 케이지에 장시간 방치하면 심한 무기력증에 빠지므로, 끼일 수 있는 좁은 배수구나 가구 틈을 원천 봉쇄한 후 거실에 자유롭게 풀어 둡니다.
+* STEP 2. 낮: 최소 4시간 이상 거실 안전 구역 자유 방목 놀이: 케이지에 장시간 방치하면 심한 무기력증에 빠지므로, 끼일 수 있는 좁은 배수구나 가구 밑 틈을 원천 봉쇄한 후 안전한 거실 공간에 자유롭게 풀어 둡니다.
 
-* STEP 3. 저녁: 해먹 침구 상태 점검 및 귀 청결 건조 확인: 땀샘이 없어 온도에 예민한 페럿의 침구를 매일 털어주고, 귀 내부에 진드기가 번식하지 않았는지 갈색 삼출물을 점검합니다."
+* STEP 3. 저녁: 해먹 침구 상태 점검 및 귀 청결 건조 확인: 땀샘이 없어 온도에 예민한 페럿의 침구를 매일 털어주고 세탁하며, 귀 내부에 진드기가 번식하지 않았는지 갈색 삼출물 유무를 점검합니다."
 faqs:
   - question: "페럿이 갑자기 기절한 것처럼 흔들어도 자고 있는데 큰 병인가요?"
-    answer: "페럿은 잠을 잘 때 주변 소음이나 진동에도 전혀 깨지 않고 온몸이 축 늘어지는 '페럿 데드 슬립(Ferret Dead Sleep)'을 흔하게 겪습니다. 체온이 따뜻하고 숨을 평온하게 쉬고 있다면 자궁이나 질병이 아닌 깊은 꿈을 꾸고 있는 것이니 깨우지 말고 자도록 둡니다."
+    answer: "페럿은 잠을 잘 때 주변 소음이나 진동에도 전혀 깨지 않고 온몸이 축 늘어지는 '페럿 데드 슬립(Ferret Dead Sleep)'을 흔하게 겪습니다. 체온이 따뜻하고 숨을 평온하게 쉬고 있다면 질병이 아닌 깊은 수면 상태이니 억지로 깨우지 말고 자도록 둡니다."
   - question: "페럿 특유의 누린내와 냄새를 없애고 싶어요."
     answer: "페럿은 피지선에서 고유의 머스크 향이 나므로, 냄새를 없애기 위해 잦은 목욕을 시키면 오히려 피부가 건조해져 피지 분비가 폭발하고 냄새가 악화됩니다. 목욕은 월 1회로 한정하고 페럿이 닿는 해먹과 담요를 자주 세탁해 주는 것이 가장 이상적입니다."
 ---
 
-길쭉하고 유연한 허리와 장난기 깃든 눈망울을 가진 마샬 페럿은 사교성이 대단히 뛰어나 반려인과 직접 교감하고 놀이를 즐길 수 있는 특별한 동물입니다. 하지만 포식 본능과 왕성한 탐색 욕구를 품고 있어 매일 일정 시간 방목하여 에너지를 방출해 주어야 우울해하지 않으며, 귀에 생기기 쉬운 갈색 귀진드기와 귓병은 정기 예방이 필수적입니다. 또한, 너무 신나면 몸을 뒤틀며 통통 튀는 독특한 춤사위를 보여 줍니다. 오늘 PetSelf에서는 마샬 페럿의 흥분 댄스와 슉슉거리는 소리 신호를 이해하고, 매일 건강한 탐험을 지원하는 3단계 홈케어 루틴을 소개합니다.
+길쭉하고 유연한 허리와 장난기 깃든 눈망울을 가진 마샬 페럿은 사교성이 대단히 뛰어난 육식 소동물로, 반려인과 직접 교감하고 다양한 놀이를 즐길 수 있는 특별한 존재입니다. 하지만 강한 포식 본능과 왕성한 탐색 욕구를 품고 있어 매일 일정 시간 이상 방목하여 에너지를 방출해 주어야 우울감과 행동 문제를 예방할 수 있습니다. 또한 구조상 귀에 갈색 귀진드기가 생기거나 귓병이 발생하기 쉬워 정기적인 예방과 청결 관리가 필수적입니다. 페럿은 기분이 너무 좋거나 흥분하면 몸을 휘어잡고 통통 튀며 무시무시하면서도 귀여운 춤사위를 보여줍니다. 오늘 PetSelf에서는 마샬 페럿의 흥분 댄스와 슉슉거리는 소리 신호를 해독하고, 안전하고 건강한 일상 탐험을 지원하는 3단계 데일리 홈케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -54,13 +54,13 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">마샬 페럿의 놀이 의사소통: 페럿 댄스와 슉슉 소리</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    마샬 페럿은 흥분이 극에 달하면 입을 크게 벌리고 등을 동그랗게 구부린 채 이리저리 부딪치며 춤을 추는 '페럿 댄스(Weasel War Dance)' 행동으로 압도적인 기쁨을 드러냅니다. 또한 신나게 냄새를 추적할 때는 목구멍으로 '슉슉거리는 소리(Dooking)'를 냄으로써 보호자에게 재미있는 상태임을 끊임없이 전달합니다.
+    마샬 페럿은 흥분이 극에 달하면 입을 크게 벌리고 등을 동그랗게 구부린 채 이리저리 부딪치며 춤을 추는 '페럿 댄스(Weasel War Dance)' 행동으로 압도적인 기쁨을 드러냅니다. 또한 신나게 냄새를 추적하거나 터널을 통과할 때는 목구멍으로 '슉슉거리는 소리(Dooking)'를 냄으로써 보호자에게 현재 매우 즐거운 상태임을 끊임없이 전달합니다.
   </p>
 </div>
 
 ---
 
-## 2. 마샬 페럿 (Marshall Ferret)의 몸짓 언어와 바디 시그널
+## 2. 마샬 페럿 (Mustela putorius furo / Marshall Ferret)의 몸짓 언어와 바디 시그널
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -69,7 +69,7 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 의미:</strong> 위협적으로 보이지만 사실은 에너지가 폭발해 주체할 수 없을 만큼 행복하고 신난 놀이 권장 의사표현입니다.<br/>
-    <strong>• 대처법:</strong> 가구 틈새 등에 부딪쳐 골절되지 않도록 미끄럼 방지 장치가 있는 탁 트인 공간에서 공을 굴려주며 함께 놉니다.
+    <strong>• 대처법:</strong> 가구 틈새 등에 부딪쳐 골절되지 않도록 모서리가 완충된 미끄럼 방지 공간에서 공이나 터널을 이용해 함께 놀아 줍니다.
   </p>
 </div>
 
@@ -86,7 +86,7 @@ faqs:
 
 ---
 
-## 3. 마샬 페럿 (Marshall Ferret) 맞춤형 3단계 홈케어 루틴
+## 3. 마샬 페럿 (Mustela putorius furo / Marshall Ferret) 맞춤형 3단계 홈케어 루틴
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -94,7 +94,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">아침: 육식 전용 고단백 식사 및 식수 공급 상태 점검</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    장이 매우 짧아 수시로 사료를 먹어야 하므로 탄수화물이나 곡물이 배제된 육류 위주의 전용 사료를 넉넉하게 리필합니다.
+    장이 매우 짧아 수시로 사료를 먹어야 하므로 탄수화물이나 곡물이 배제된 육류 위주의 전용 사료를 넉넉하게 리필하고 깨끗한 물을 채워 줍니다.
   </p>
 </div>
 
@@ -104,7 +104,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">낮: 최소 4시간 이상 거실 안전 구역 자유 방목 놀이</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    케이지에 장시간 방치하면 심한 무기력증에 빠지므로, 끼일 수 있는 좁은 배수구나 가구 틈을 원천 봉쇄한 후 거실에 자유롭게 풀어 둡니다.
+    케이지에 장시간 방치하면 심한 무기력증에 빠지므로, 끼일 수 있는 좁은 배수구나 가구 밑 틈을 원천 봉쇄한 후 안전한 거실 공간에 자유롭게 풀어 둡니다.
   </p>
 </div>
 
@@ -114,7 +114,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">저녁: 해먹 침구 상태 점검 및 귀 청결 건조 확인</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    땀샘이 없어 온도에 예민한 페럿의 침구를 매일 털어주고, 귀 내부에 진드기가 번식하지 않았는지 갈색 삼출물을 점검합니다.
+    땀샘이 없어 온도에 예민한 페럿의 침구를 매일 털어주고 세탁하며, 귀 내부에 진드기가 번식하지 않았는지 갈색 삼출물 유무를 점검합니다.
   </p>
 </div>
 
@@ -133,7 +133,7 @@ faqs:
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      페럿은 잠을 잘 때 주변 소음이나 진동에도 전혀 깨지 않고 온몸이 축 늘어지는 '페럿 데드 슬립(Ferret Dead Sleep)'을 흔하게 겪습니다. 체온이 따뜻하고 숨을 평온하게 쉬고 있다면 자궁이나 질병이 아닌 깊은 꿈을 꾸고 있는 것이니 깨우지 말고 자도록 둡니다.
+      페럿은 잠을 잘 때 주변 소음이나 진동에도 전혀 깨지 않고 온몸이 축 늘어지는 '페럿 데드 슬립(Ferret Dead Sleep)'을 흔하게 겪습니다. 체온이 따뜻하고 숨을 평온하게 쉬고 있다면 질병이 아닌 깊은 수면 상태이니 억지로 깨우지 말고 자도록 둡니다.
     </p>
   </details>
 

@@ -5,16 +5,16 @@ description: "护理独居且夜行性的金仓鼠。了解涵盖白天安静环
 pubDate: "2026-01-21"
 updatedDate: "2026-01-21"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","金仓鼠 (Golden Hamster)"]
+tags: ["宠物护理","宠物健康","金仓鼠 (Mesocricetus auratus / 叙利亚仓鼠)"]
 heroImage: "/images/blog/golden_hamster_care.png"
 app: "petself"
 formatVersion: 4
 authority: "Humane Society 仓鼠护理指南及兽医行为标准"
 steps:
   - name: "金仓鼠的沟通方式：磨牙警告与警惕行为"
-    text: "金仓鼠在极度愤怒或害怕时，会发出独特的磨牙声“磨牙及咯咯声(Teeth Chattering)”，警告人类保持距离。此外，当受到突然的噪音惊吓时，它们会表现出“压低耳朵并静止的动作(Ear Flattening)”，对周围进行强烈警惕。快速捕捉这些敏感的身体语言信号并提供舒适的独立空间是照顾它们的关键。"
-  - name: "金仓鼠 (Golden Hamster)'s Body Language & Signals"
-    text: "* 磨牙咯咯声 (Teeth Chattering): 感到威胁或极度敏感的强烈警告，意思是不要靠近。 (立即停止互动 or 清理，给它们安静的空间在躲避穴中冷静下来。)
+    text: "金仓鼠在极度愤怒或害怕时，会发出独特的磨牙声 “磨牙及咯咯声 (Teeth Chattering)”，警告人类保持距离。此外，当受到突然的噪音惊吓时，它们会表现出 “压低耳朵并静止的动作 (Ear Flattening)”，对周围进行强烈警惕。快速捕捉这些敏感的身体语言信号并提供舒适的独立空间是照顾它们的关键。"
+  - name: "金仓鼠 (Mesocricetus auratus / 叙利亚仓鼠)'s Body Language & Signals"
+    text: "* 磨牙咯咯声 (Teeth Chattering): 感到威胁或极度敏感的强烈警告，意思是不要靠近。 (立即停止互动或清理，给它们安静的空间在躲避穴中冷静下来。)
 
 * 压低耳朵并静止 (Ear Flattening): 由突然的震动或陌生的视觉刺激引起的极度紧张和警惕状态。 (避免在附近发出大声或突然移动，调暗灯光以保持房间黑暗和舒适。)"
   - name: "Customized 3-Step Home Care Routine"
@@ -54,13 +54,13 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">金仓鼠的沟通方式：磨牙警告与警惕行为</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    金仓鼠在极度愤怒或害怕时，会发出独特的磨牙声“磨牙及咯咯声(Teeth Chattering)”，警告人类保持距离。此外，当受到突然的噪音惊吓时，它们会表现出“压低耳朵并静止的动作(Ear Flattening)”，对周围进行强烈警惕。快速捕捉这些敏感的身体语言信号并提供舒适的独立空间是照顾它们的关键。
+    金仓鼠在极度愤怒或害怕时，会发出独特的磨牙声 “磨牙及咯咯声 (Teeth Chattering)”，警告人类保持距离。此外，当受到突然的噪音惊吓时，它们会表现出 “压低耳朵并静止的动作 (Ear Flattening)”，对周围进行强烈警惕。快速捕捉这些敏感的身体语言信号并提供舒适的独立空间是照顾它们的关键。
   </p>
 </div>
 
 ---
 
-## 2. 金仓鼠 (Golden Hamster)'s Body Language & Signals
+## 2. 金仓鼠 (Mesocricetus auratus / 叙利亚仓鼠)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -69,7 +69,7 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 感到威胁或极度敏感的强烈警告，意思是不要靠近。<br/>
-    <strong>•  national:</strong> 立即停止互动 or 清理，给它们安静的空间在躲避穴中冷静下来。
+    <strong>•  national:</strong> 立即停止互动或清理，给它们安静的空间在躲避穴中冷静下来。
   </p>
 </div>
 

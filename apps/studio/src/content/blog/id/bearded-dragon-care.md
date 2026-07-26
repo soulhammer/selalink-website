@@ -1,36 +1,36 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "Panduan Berjemur Bearded Dragon dan Rutinitas 3 Langkah Kalsium-UVB"
-description: "Merawat kadal Bearded Dragon yang jinak. Pahami arti head bobbing dan cegah penyakit tulang metabolik (MBD) dengan lampu dan kalsium."
+title: "Panduan Berjemur Bearded Dragon dan Rutinitas Harian 3 Langkah Kalsium-UVB"
+description: "Cara merawat kadal Bearded Dragon yang jinak. Pahami arti gerakan kepala dan cegah Penyakit Tulang Metabolik (MBD) dengan 3 langkah pencahayaan dan kalsium."
 pubDate: "2026-03-17"
 updatedDate: "2026-03-17"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Bearded Dragon"]
+tags: ["PerawatanHewan","KesehatanHewan","Bearded Dragon (Pogona vitticeps)"]
 heroImage: "/images/blog/bearded_dragon_care.png"
 app: "petself"
 formatVersion: 4
-authority: "Pedoman Pemeliharaan Association of Reptilian and Amphibian Veterinarians (ARAV) dan Standar Herpetologi"
+authority: "Pedoman Pemeliharaan Association of Reptilian and Amphibian Veterinarians (ARAV) dan Standar Perilaku Kedokteran Hewan Klinis Herpetologi"
 steps:
-  - name: "Komunikasi Bearded Dragon: Anggukan Kepala dan Lambaian Kaki"
-    text: "Bearded dragon menggunakan gerakan tubuh untuk berkomunikasi. Mengangguk kepala ke atas dan bawah dengan cepat ('head bobbing') menunjukkan dominasi atau klaim wilayah. Sebaliknya, melambaikan satu kaki depan melingkar secara perlahan ('arm waving') menandakan ketundukan atau sapaan damai."
-  - name: "Bearded Dragon's Body Language & Signals"
-    text: "* Mengangguk Cepat (Head bobbing): Tanda dominasi atau teritorial, sering dilakukan saat melihat reptil lain atau pantulan diri di kaca. (Pelihara kadal ini sendirian (memelihara bersama memicu stres berat) dan tutupi dinding kaca yang memantulkan bayangan.)
+  - name: "Bahasa Perilaku Bearded Dragon: Mengangguk dan Melambaikan Kaki"
+    text: "Bearded dragon menggunakan gerakan tubuh yang khas untuk menunjukkan hierarki dan menyampaikan emosi. Menganggukkan kepala ke atas dan ke bawah secara cepat—yang dikenal sebagai 'Head Bobbing'—merupakan bentuk dominasi dan klaim wilayah yang kuat. Sebaliknya, memutar satu kaki depan secara perlahan di udara—yang disebut 'Arm Waving'—adalah sinyal sosial berupa ketundukan, kedamaian, dan keramahan yang menandakan 'saya bukan ancaman'."
+  - name: "Bearded Dragon (Pogona vitticeps)'s Body Language & Signals"
+    text: "* Head Bobbing (Menganggukkan Kepala dengan Cepat): Bentuk penegasan dominasi dan klaim wilayah. Sering terjadi saat melihat individu lain atau saat terstimulasi oleh pantulan bayangan sendiri di dinding kaca. (Pelihara kadal secara terpisah (soliter) untuk mencegah stres akibat pemeliharaan bersama, dan gunakan stiker anti-reflektif pada dinding kaca.)
 
-* Melambaikan Kaki Depan (Arm waving): Tanda ketundukan yang menyatakan 'saya bukan ancaman' kepada manusia atau naga yang lebih besar. (Dekati secara perlahan setinggi matanya, ajak bicara dengan tenang, dan beri serangga kecil untuk membangun kepercayaan.)"
+* Arm Waving (Memutar Kaki Depan secara Perlahan): Sinyal sosial yang damai dan tunduk untuk menunjukkan tidak adanya niat menyerang, ditunjukkan kepada makhluk yang lebih besar atau pemiliknya. (Mendekatlah dari posisi rendah secara perlahan, ajak bicara dengan suara yang tenang, dan berikan hadiah makanan agar reptil mengenali pemiliknya sebagai sosok yang aman.)"
   - name: "Customized 3-Step Home Care Routine"
-    text: "* STEP 1. Pagi: Menyalakan Lampu Basking & UVB: Nyalakan lampu terrarium. Pastikan titik basking mencapai 35-40 °C agar mereka dapat menaikkan suhu tubuh untuk mencerna makanan.
+    text: "* STEP 1. Pagi: Menyalakan Pemanas Basking & Lampu UVB: Nyalakan lampu pemanas (spotlight) dan lampu UVB. Pastikan suhu titik berjemur mencapai 35–40 °C agar suhu tubuhnya naik dan enzim pencernaan dapat bekerja.
 
-* STEP 2. Siang: Pemberian Pakan Serangga Berbalut Kalsium: Berikan serangga yang telah ditaburi bubuk kalsium (dengan D3 untuk reptil indoor). Sediakan sayuran hijau segar.
+* STEP 2. Siang: Pemberian Pakan Serangga Bernutrisi & Taburan Kalsium: Berikan serangga pakan hidup yang telah ditaburi bubuk kalsium (mengandung D3 untuk pemeliharaan dalam ruangan) serta sayuran tinggi kalsium seperti chicory dan pakcoy.
 
-* STEP 3. Malam: Mematikan Lampu & Penurunan Suhu: Matikan semua lampu. Pastikan suhu malam turun secara alami namun tidak berada di bawah 18 °C demi menjaga metabolismenya."
+* STEP 3. Malam: Mematikan Lampu & Menjaga Suhu Malam yang Aman: Matikan seluruh lampu di dalam kandang. Biarkan suhu turun secara alami di malam hari untuk istirahat metabolisme, namun pastikan suhu tidak turun di bawah 18 °C."
 faqs:
-  - question: "Seberapa sering saya harus mengganti lampu UVB?"
-    answer: "Lampu UVB kehilangan radiasi efektifnya jauh sebelum lampunya mati. Lampu UVB harus diganti setiap 6 hingga 12 meses meskipun masih menyala terang."
+  - question: "Seberapa sering lampu UVB bearded dragon harus diganti?"
+    answer: "Lampu UVB akan kehilangan intensitas radiasi ultraviolatnya jauh sebelum lampunya benar-benar padam secara visual. Terlepas dari apakah lampu masih menyala terang, lampu UVB wajib diganti setiap 6 hingga 12 bulan."
   - question: "Apa saja gejala awal Penyakit Tulang Metabolik (MBD)?"
-    answer: "Gejalanya meliputi rahang bawah yang lunak, kaki bengkak, gemetar pada otot, atau kelemahan saat merayap. Jika terlihat tanda ini, ganti lampu UVB dan bawa ke dokter hewan eksotis."
+    answer: "Rahang bawah yang melunak, pembengkakan pada sendi kaki, otot gemetar, dan kaki yang lemas atau terseret saat berjalan adalah gejala awalnya. Jika menemukan tanda-tanda ini, segera perbaiki peralatan pencahayaan dan periksakan ke dokter hewan spesialis hewan eksotis."
 ---
 
-Bearded dragon adalah salah satu reptil peliharaan paling populer karena sifat mereka yang ramah. Namun, sebagai hewan berdarah dingin, mereka bergantung sepenuhnya pada panas luar dan radiasi UVB untuk mencerna makanan dan menyerap kalsium. Tanpa lampu UVB dan suhu hangat yang tepat, mereka dapat menderita Penyakit Tulang Metabolik (MBD) yang membuat tulang lunak. Hari ini, PetSelf mengurai bahasa tubuh bearded dragon dan membagikan 3 langkah rutinitas kalsium dan penyinaran harian.
+Berkat sifatnya yang tenang dan ekspresinya yang menggemaskan, bearded dragon menjadi salah satu reptil peliharaan paling populer di seluruh dunia. Namun, sebagai hewan ektotermik, mereka tidak dapat mengatur suhu tubuhnya sendiri dan bergantung sepenuhnya pada sumber panas luar serta pencahayaan UVB untuk mencerna makanan, mensintesis vitamin D3, dan menyerap kalsium. Tanpa area berjemur dan paparan UVB yang memadai, mereka sangat rentan terkena Penyakit Tulang Metabolik (MBD) yang menyebabkan tulang melunak hingga kelumpuhan. Hari ini, PetSelf akan mengulas bahasa tubuh bearded dragon dan membagikan 3 langkah rutinitas pencahayaan dan kalsium harian untuk menjaga kesehatan tulangnya.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -39,48 +39,48 @@ Bearded dragon adalah salah satu reptil peliharaan paling populer karena sifat m
       Bukti Dokter Hewan & Perilaku
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Konten ini didasarkan pada <strong>Pedoman Pemeliharaan Association of Reptilian and Amphibian Veterinarians (ARAV) dan Standar Herpetologi</strong>.
+      Konten ini didasarkan pada <strong>Pedoman Pemeliharaan Association of Reptilian and Amphibian Veterinarians (ARAV) dan Standar Perilaku Kedokteran Hewan Klinis Herpetologi</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 1. Komunikasi Bearded Dragon: Anggukan Kepala dan Lambaian Kaki
+## 1. Bahasa Perilaku Bearded Dragon: Mengangguk dan Melambaikan Kaki
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Komunikasi Bearded Dragon: Anggukan Kepala dan Lambaian Kaki</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Bahasa Perilaku Bearded Dragon: Mengangguk dan Melambaikan Kaki</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Bearded dragon menggunakan gerakan tubuh untuk berkomunikasi. Mengangguk kepala ke atas dan bawah dengan cepat ('head bobbing') menunjukkan dominasi atau klaim wilayah. Sebaliknya, melambaikan satu kaki depan melingkar secara perlahan ('arm waving') menandakan ketundukan atau sapaan damai.
+    Bearded dragon menggunakan gerakan tubuh yang khas untuk menunjukkan hierarki dan menyampaikan emosi. Menganggukkan kepala ke atas dan ke bawah secara cepat—yang dikenal sebagai 'Head Bobbing'—merupakan bentuk dominasi dan klaim wilayah yang kuat. Sebaliknya, memutar satu kaki depan secara perlahan di udara—yang disebut 'Arm Waving'—adalah sinyal sosial berupa ketundukan, kedamaian, dan keramahan yang menandakan 'saya bukan ancaman'.
   </p>
 </div>
 
 ---
 
-## 2. Bearded Dragon's Body Language & Signals
+## 2. Bearded Dragon (Pogona vitticeps)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Sinyal Tubuh 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Mengangguk Cepat (Head bobbing)</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Head Bobbing (Menganggukkan Kepala dengan Cepat)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Arti:</strong> Tanda dominasi atau teritorial, sering dilakukan saat melihat reptil lain atau pantulan diri di kaca.<br/>
-    <strong>• Tindakan:</strong> Pelihara kadal ini sendirian (memelihara bersama memicu stres berat) dan tutupi dinding kaca yang memantulkan bayangan.
+    <strong>• Arti:</strong> Bentuk penegasan dominasi dan klaim wilayah. Sering terjadi saat melihat individu lain atau saat terstimulasi oleh pantulan bayangan sendiri di dinding kaca.<br/>
+    <strong>• Tindakan:</strong> Pelihara kadal secara terpisah (soliter) untuk mencegah stres akibat pemeliharaan bersama, dan gunakan stiker anti-reflektif pada dinding kaca.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Sinyal Tubuh 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Melambaikan Kaki Depan (Arm waving)</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Arm Waving (Memutar Kaki Depan secara Perlahan)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Arti:</strong> Tanda ketundukan yang menyatakan 'saya bukan ancaman' kepada manusia atau naga yang lebih besar.<br/>
-    <strong>• Tindakan:</strong> Dekati secara perlahan setinggi matanya, ajak bicara dengan tenang, dan beri serangga kecil untuk membangun kepercayaan.
+    <strong>• Arti:</strong> Sinyal sosial yang damai dan tunduk untuk menunjukkan tidak adanya niat menyerang, ditunjukkan kepada makhluk yang lebih besar atau pemiliknya.<br/>
+    <strong>• Tindakan:</strong> Mendekatlah dari posisi rendah secara perlahan, ajak bicara dengan suara yang tenang, dan berikan hadiah makanan agar reptil mengenali pemiliknya sebagai sosok yang aman.
   </p>
 </div>
 
@@ -91,30 +91,30 @@ Bearded dragon adalah salah satu reptil peliharaan paling populer karena sifat m
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pagi: Menyalakan Lampu Basking & UVB</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pagi: Menyalakan Pemanas Basking & Lampu UVB</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Nyalakan lampu terrarium. Pastikan titik basking mencapai 35-40 °C agar mereka dapat menaikkan suhu tubuh untuk mencerna makanan.
+    Nyalakan lampu pemanas (spotlight) dan lampu UVB. Pastikan suhu titik berjemur mencapai 35–40 °C agar suhu tubuhnya naik dan enzim pencernaan dapat bekerja.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Siang: Pemberian Pakan Serangga Berbalut Kalsium</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Siang: Pemberian Pakan Serangga Bernutrisi & Taburan Kalsium</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Berikan serangga yang telah ditaburi bubuk kalsium (dengan D3 untuk reptil indoor). Sediakan sayuran hijau segar.
+    Berikan serangga pakan hidup yang telah ditaburi bubuk kalsium (mengandung D3 untuk pemeliharaan dalam ruangan) serta sayuran tinggi kalsium seperti chicory dan pakcoy.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Malam: Mematikan Lampu & Penurunan Suhu</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Malam: Mematikan Lampu & Menjaga Suhu Malam yang Aman</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Matikan semua lampu. Pastikan suhu malam turun secara alami namun tidak berada di bawah 18 °C demi menjaga metabolismenya.
+    Matikan seluruh lampu di dalam kandang. Biarkan suhu turun secara alami di malam hari untuk istirahat metabolisme, namun pastikan suhu tidak turun di bawah 18 °C.
   </p>
 </div>
 
@@ -129,11 +129,11 @@ Bearded dragon adalah salah satu reptil peliharaan paling populer karena sifat m
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Seberapa sering saya harus mengganti lampu UVB?</span>
+      <span>Seberapa sering lampu UVB bearded dragon harus diganti?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Lampu UVB kehilangan radiasi efektifnya jauh sebelum lampunya mati. Lampu UVB harus diganti setiap 6 hingga 12 meses meskipun masih menyala terang.
+      Lampu UVB akan kehilangan intensitas radiasi ultraviolatnya jauh sebelum lampunya benar-benar padam secara visual. Terlepas dari apakah lampu masih menyala terang, lampu UVB wajib diganti setiap 6 hingga 12 bulan.
     </p>
   </details>
 
@@ -143,7 +143,7 @@ Bearded dragon adalah salah satu reptil peliharaan paling populer karena sifat m
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Gejalanya meliputi rahang bawah yang lunak, kaki bengkak, gemetar pada otot, atau kelemahan saat merayap. Jika terlihat tanda ini, ganti lampu UVB dan bawa ke dokter hewan eksotis.
+      Rahang bawah yang melunak, pembengkakan pada sendi kaki, otot gemetar, dan kaki yang lemas atau terseret saat berjalan adalah gejala awalnya. Jika menemukan tanda-tanda ini, segera perbaiki peralatan pencahayaan dan periksakan ke dokter hewan spesialis hewan eksotis.
     </p>
   </details>
 </div>

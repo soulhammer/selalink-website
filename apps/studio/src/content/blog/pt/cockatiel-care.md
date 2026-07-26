@@ -5,7 +5,7 @@ description: "Guia completo de cuidados para Calopsita. Entenda a linguagem da c
 pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Calopsita (Cockatiel)"]
+tags: ["CuidadoPets","SaudePets","Calopsita (Nymphicus hollandicus / Cockatiel)"]
 heroImage: "/images/blog/cockatiel_care.png"
 app: "petself"
 formatVersion: 4
@@ -13,10 +13,10 @@ authority: "Associação de Veterinários de Aves (AAV) & Padrões Comportamenta
 steps:
   - name: "Comunicação da Calopsita: O Que a Crista e a Cabeça Abaixada Revelam"
     text: "A crista é uma antena emocional. Erguida verticalmente sinaliza alerta; a cabeça abaixada é um pedido explícito de carinho na nuca."
-  - name: "Calopsita (Cockatiel)'s Body Language & Signals"
+  - name: "Calopsita (Nymphicus hollandicus / Cockatiel)'s Body Language & Signals"
     text: "* Crista Totalmente Erguida (Fully Erect Crest): Alerta máximo ou curiosidade intensa diante de um novo som ou objeto no ambiente. (Fale com voz calma e evite aproximações bruscas com as mãos.)
 
-* Cabeça Abaixada e Pescoço Estendido (Head Lowering): Demonstração de profunda confiança pedindo carinho nas bochechas e nuca. (Coce suavemente as penas da bochecha e base da crista no sentido oposto às penas.)"
+* Cabeça Abaixada e Pescoço Estendido (Head Lowering for Scratches): Demonstração de profunda confiança pedindo carinho nas bochechas e nuca. (Coce suavemente as penas da bochecha e base da crista no sentido oposto às penas.)"
   - name: "Customized 3-Step Home Care Routine"
     text: "* STEP 1. Manhã: Ventilação, Inspeção e Ração Extrusada Fresca: Descubra a gaiola, troque a água e a ração extrusada e observe a agilidade de voo.
 
@@ -60,7 +60,7 @@ Famosa pelas bochechas laranjas e crista graciosa, a Calopsita é uma ave inteli
 
 ---
 
-## 2. Calopsita (Cockatiel)'s Body Language & Signals
+## 2. Calopsita (Nymphicus hollandicus / Cockatiel)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -76,7 +76,7 @@ Famosa pelas bochechas laranjas e crista graciosa, a Calopsita é uma ave inteli
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Sinal Corporal 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Cabeça Abaixada e Pescoço Estendido (Head Lowering)</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Cabeça Abaixada e Pescoço Estendido (Head Lowering for Scratches)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• Significado:</strong> Demonstração de profunda confiança pedindo carinho nas bochechas e nuca.<br/>

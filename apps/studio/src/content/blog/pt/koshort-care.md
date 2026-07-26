@@ -1,22 +1,22 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "Um instinto indomável? Uma rotina de 3 passos para o território e hidratação do shorthair coreano"
-description: "O shorthair coreano, com fortes instintos de caça. Conheça os métodos de hidratação adequados para prevenir la cistitis felina e uma rotina diária de 3 passos para o conforto territorial."
+title: "Um instinto indomável? Uma rotina diária de 3 passos para o território e hidratação do shorthair coreano"
+description: "O shorthair coreano, com fortes instintos de caça. Conheça os métodos de hidratação adequados para prevenir a cistite felina e uma rotina diária de 3 passos para o conforto territorial."
 pubDate: "2026-03-15"
 updatedDate: "2026-03-15"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Shorthair coreano"]
+tags: ["CuidadoPets","SaudePets","Shorthair Coreano (Felis catus)"]
 heroImage: "/images/blog/koshort_care.png"
 app: "petself"
 formatVersion: 4
-authority: "Guia de comportamento do Cornell Feline Health Center e manual de cuidados do NIAS"
+authority: "Guia de Comportamento do Cornell Feline Health Center e Manual de Cuidados do NIAS"
 steps:
-  - name: "Linguagem corporal felina: a expressão máxima de confiança"
-    text: "Uma das maiores expressões de confiança de um gato para com o seu dono é a 'cauda erguida na vertical' e o 'ronrono'. Aproximar-se com a cauda erguida é um sinal amistoso de comunicação. Além disso, o ronrono acalma sua mente. Note que o ronrono também pode ser um sinal de autocura por dor. Se o gato se esconder num local escuro e ronronar com expressão triste, controle sua saúde."
-  - name: "Shorthair coreano's Body Language & Signals"
-    text: "* Cauda erguida: Uma expressão de forte amizade, comunicação positiva e alegria em relação ao dono. (Responda com um contato visual suave ou um carinho no queixo para fortalecer o vínculo.)
+  - name: "Linguagem corporal felina: A expressão máxima de confiança"
+    text: "Uma das maiores expressões de confiança de um gato para com o seu dono é a 'cauda erguida na vertical' (Tail Up) e o 'ronrono' (Purring). Aproximar-se com a cauda erguida é um sinal amistoso de comunicação. Além disso, o ronrono acalma sua mente liberando endorfinas. Note que o ronrono também pode ser um sinal de autocura por dor. Se o gato se esconder num local escuro e ronronar com expressão triste, controle sua saúde."
+  - name: "Shorthair Coreano (Felis catus)'s Body Language & Signals"
+    text: "* Cauda erguida (Tail Up): Uma expressão de forte amizade, comunicação positiva e alegria em relação ao dono. (Responda com um contato visual suave ou um carinho no queixo para fortalecer o vínculo.)
 
-* Ronrono: Geralmente emitido quando felizes, mas também pode ser um sinal de autocura para aliviar a dor. (Se ronronarem enquanto se escondem em cantos escuros, verifique se não estão doentes ou feridos.)"
+* Ronrono (Purring): Geralmente emitido quando felizes, mas também pode ser um sinal de autocura para aliviar a dor ou ansiedade. (Se ronronarem enquanto se escondem em cantos escuros, verifique de perto se não estão doentes ou feridos.)"
   - name: "Customized 3-Step Home Care Routine"
     text: "* STEP 1. Manhã: Inspeção de espaço vertical e visualização de janelas: Com a ventilação matinal, abra as persianas perto das torres para gatos nas janelas. Garantir o espaço vertical e permitir-lhes ver o exterior (Cat TV) fornece estimulação mental e reduz o estresse por confinamento.
 
@@ -30,11 +30,11 @@ faqs:
     answer: "A chave é aumentar a hidratação. Coloque várias tigelas de água longe da comida e use fontes de água corrente."
 ---
 
-O shorthair coreano, um gato nativo, possui uma estrutura robusta e uma grande vitalidade devido aos seus instintos selvagens preservados. Embora amigáveis, podem ser cautelosos com estranhos e muito concentrados durante o jogo de caça. 🐕
+O shorthair coreano, um gato nativo, possui uma estrutura robusta e uma grande vitalidade devido aos seus instintos selvagens preservados. Embora amigáveis, podem ser cautelosos com estranhos e muito concentrados durante o jogo de caça. 🐈
 
-No entanto, esses traços os tornam vulneráveis a dois estressores internos: a ansiedade territorial por limitações de espaço e a doença das vias urinárias inferiores felinas (FLUTD). O controle dessas condições requer atenção diária cuidadosa.
+No entanto, esses traços os tornam vulneráveis a dois estressores internos: a ansiedade territorial por limitações de espaço e a doença das vias urinárias inferiores felinas (FLUTD) por baixa hidratação. O controle dessas condições requer atenção diária cuidadosa.
 
-Hoje, o PetSelf explora o linguagem corporal desses felinos e compartilha uma rotina de cuidados diários segura de 3 passos.
+Hoj, o PetSelf explora a linguagem corporal desses felinos e compartilha uma rotina de cuidados diários segura de 3 passos.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -43,33 +43,33 @@ Hoje, o PetSelf explora o linguagem corporal desses felinos e compartilha uma ro
       Evidência Veterinária e Comportamental
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Este conteúdo baseia-se em <strong>Guia de comportamento do Cornell Feline Health Center e manual de cuidados do NIAS</strong>.
+      Este conteúdo baseia-se em <strong>Guia de Comportamento do Cornell Feline Health Center e Manual de Cuidados do NIAS</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 1. Linguagem corporal felina: a expressão máxima de confiança
+## 1. Linguagem corporal felina: A expressão máxima de confiança
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Linguagem corporal felina: a expressão máxima de confiança</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Linguagem corporal felina: A expressão máxima de confiança</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Uma das maiores expressões de confiança de um gato para com o seu dono é a 'cauda erguida na vertical' e o 'ronrono'. Aproximar-se com a cauda erguida é um sinal amistoso de comunicação. Além disso, o ronrono acalma sua mente. Note que o ronrono também pode ser um sinal de autocura por dor. Se o gato se esconder num local escuro e ronronar com expressão triste, controle sua saúde.
+    Uma das maiores expressões de confiança de um gato para com o seu dono é a 'cauda erguida na vertical' (Tail Up) e o 'ronrono' (Purring). Aproximar-se com a cauda erguida é um sinal amistoso de comunicação. Além disso, o ronrono acalma sua mente liberando endorfinas. Note que o ronrono também pode ser um sinal de autocura por dor. Se o gato se esconder num local escuro e ronronar com expressão triste, controle sua saúde.
   </p>
 </div>
 
 ---
 
-## 2. Shorthair coreano's Body Language & Signals
+## 2. Shorthair Coreano (Felis catus)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Sinal Corporal 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Cauda erguida</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Cauda erguida (Tail Up)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• Significado:</strong> Uma expressão de forte amizade, comunicação positiva e alegria em relação ao dono.<br/>
@@ -80,11 +80,11 @@ Hoje, o PetSelf explora o linguagem corporal desses felinos e compartilha uma ro
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Sinal Corporal 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Ronrono</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Ronrono (Purring)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Significado:</strong> Geralmente emitido quando felizes, mas também pode ser um sinal de autocura para aliviar a dor.<br/>
-    <strong>• Resposta:</strong> Se ronronarem enquanto se escondem em cantos escuros, verifique se não estão doentes ou feridos.
+    <strong>• Significado:</strong> Geralmente emitido quando felizes, mas também pode ser um sinal de autocura para aliviar a dor ou ansiedade.<br/>
+    <strong>• Resposta:</strong> Se ronronarem enquanto se escondem em cantos escuros, verifique de perto se não estão doentes ou feridos.
   </p>
 </div>
 

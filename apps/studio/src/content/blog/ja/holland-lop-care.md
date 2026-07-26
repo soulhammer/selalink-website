@@ -5,29 +5,29 @@ description: "愛くるしい垂れ耳のホーランドロップ。外耳炎予
 pubDate: "2026-07-15"
 updatedDate: "2026-07-15"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","ホーランドロップ (Holland Lop)"]
+tags: ["ペットケア","ペット健康","ホーランドロップ (Oryctolagus cuniculus / Holland Lop)"]
 heroImage: "/images/blog/holland_lop_care.png"
 app: "petself"
 formatVersion: 4
-authority: "House Rabbit Society (HRS) & 特殊小動物獣医師会 (AEMV)"
+authority: "House Rabbit Society (HRS) 指針および特殊小動物獣医師会 (AEMV) 臨床基準"
 steps:
   - name: "ホーランドロップの感情表現：ビンキーダンスと足ダンの解読"
-    text: "ウサギは声よりも全身のしぐさで感情を表現します。空中へジャンプして体をひねる「ビンキー（Binky）」は最高潮の喜びの舞であり、後ろ足で床を叩く「足ダン（Thumping）」は警戒のサインです。"
-  - name: "ホーランドロップ (Holland Lop)'s Body Language & Signals"
-    text: "* 空中ジャンプして体をひねる (Binky Dance): 環境と飼い主に心から安心し、最高の喜びを感じている幸運のサインです。 (滑らないラグやマットを敷いた広いスペースで楽しく走らせてあげましょう。)
+    text: "ウサギは声よりも全身のしぐさで感情を表現します。空中へジャンプして体をひねる「ビンキー（Binky）ダンス」は最高潮の喜びの舞であり、後ろ足で床を叩く「足ダン（Thumping）」は警戒や不満のサインです。"
+  - name: "ホーランドロップ (Oryctolagus cuniculus / Holland Lop)'s Body Language & Signals"
+    text: "* 空中ジャンプして体をひねる (Binky Dance): 環境と飼い主に心から安心し、最高の喜びを感じている状態を示すサインです。 (滑らないラグやマットを敷いた広いスペースで楽しく走らせてあげましょう。)
 
-* 後ろ足で床を強力に叩く (Thumping / 足ダン): 大きな音や見慣れない匂いに警戒し、恐怖や不満を周囲に警告しています。 (何に驚いたか原因を確認し、優しく低い声で声をかけて落ち着かせます。)"
+* 後ろ足で床を強力に叩く (Thumping / 足ダン): 大きな音や見慣れない匂いに警戒し、恐怖や強い不満を周囲に警告しています。 (何に驚いたか環境（騒音や他動物）を確認し、優しく低い声で声をかけて落ち着かせます。)"
   - name: "Customized 3-Step Home Care Routine"
-    text: "* STEP 1. 朝：新鮮なチモシーの無制限補給と給水器の水交換: 胃腸の動きを止めることのないよう、1番刈りチモシー牧草をたっぷりと補給します。
+    text: "* STEP 1. 朝：新鮮なチモシーの無制限補給と給水器の水交換: 胃腸の動きを止めることのないよう、1番刈りチモシー牧草をたっぷりと補給し、清潔な水を与えます。
 
-* STEP 2. 昼：垂れ耳内部の通気チェックと昼間の静かな睡眠: 耳を優しくめくって赤みや汚れがないか確認し、静かに休ませます。
+* STEP 2. 昼：垂れ耳内部の通気チェックと昼間の静かな睡眠: 耳を優しくめくって赤みや異物がないか確認し、昼間の十分な睡眠を保障します。
 
 * STEP 3. 夜：トンネル運動と毛球症予防のグルーミング: サークルを広げてトンネル遊びをさせ、毛玉の誤飲を防ぐブラッシングを行います。"
 faqs:
   - question: "ウサギがご飯を食べずフンも出ない（うっ滞）時はどうすればいいですか？"
     answer: "うっ滞(GI Stasis)は12時間以内に命に関わる緊急事態です。無理に食べさせず、すぐにエキゾチックアニマル専門の獣医に見せてください。"
   - question: "耳を頻繁に振ったり足で掻いたりするのは正常ですか？"
-    answer: "垂れ耳は湿気がこもりやすく外耳炎やダニが発生しやすいです。黒い耳垢や頻繁なダニ掻きが見られたら獣医師の診察が必要です。"
+    answer: "垂れ耳は湿気がこもりやすく外耳炎やダニが発生しやすいです。黒い耳垢や頻繁な耳掻きが見られたら獣医師の診察が必要です。"
 ---
 
 丸い顔と垂れ耳が特徴のホーランドロップは、世界中で大人気の小型ウサギです。HRS（アメリカ家兎協会）およびAEMVのガイドラインに基づき、構造上外耳炎になりやすい垂れ耳の衛生管理と、致死的なうっ滞（GI Stasis）を防ぐ24時間チモシー無制限給餌が健康の根幹です。
@@ -39,7 +39,7 @@ faqs:
       獣医学・行動学的根拠
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      本コンテンツは、<strong>House Rabbit Society (HRS) & 特殊小動物獣医師会 (AEMV)</strong>に基づいています。
+      本コンテンツは、<strong>House Rabbit Society (HRS) 指針および特殊小動物獣医師会 (AEMV) 臨床基準</strong>に基づいています。
     </p>
   </div>
 </div>
@@ -54,13 +54,13 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">ホーランドロップの感情表現：ビンキーダンスと足ダンの解読</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    ウサギは声よりも全身のしぐさで感情を表現します。空中へジャンプして体をひねる「ビンキー（Binky）」は最高潮の喜びの舞であり、後ろ足で床を叩く「足ダン（Thumping）」は警戒のサインです。
+    ウサギは声よりも全身のしぐさで感情を表現します。空中へジャンプして体をひねる「ビンキー（Binky）ダンス」は最高潮の喜びの舞であり、後ろ足で床を叩く「足ダン（Thumping）」は警戒や不満のサインです。
   </p>
 </div>
 
 ---
 
-## 2. ホーランドロップ (Holland Lop)'s Body Language & Signals
+## 2. ホーランドロップ (Oryctolagus cuniculus / Holland Lop)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -68,7 +68,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">空中ジャンプして体をひねる (Binky Dance)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• 意味:</strong> 環境と飼い主に心から安心し、最高の喜びを感じている幸運のサインです。<br/>
+    <strong>• 意味:</strong> 環境と飼い主に心から安心し、最高の喜びを感じている状態を示すサインです。<br/>
     <strong>• 対処法:</strong> 滑らないラグやマットを敷いた広いスペースで楽しく走らせてあげましょう。
   </p>
 </div>
@@ -79,8 +79,8 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">後ろ足で床を強力に叩く (Thumping / 足ダン)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• 意味:</strong> 大きな音や見慣れない匂いに警戒し、恐怖や不満を周囲に警告しています。<br/>
-    <strong>• 対処法:</strong> 何に驚いたか原因を確認し、優しく低い声で声をかけて落ち着かせます。
+    <strong>• 意味:</strong> 大きな音や見慣れない匂いに警戒し、恐怖や強い不満を周囲に警告しています。<br/>
+    <strong>• 対処法:</strong> 何に驚いたか環境（騒音や他動物）を確認し、優しく低い声で声をかけて落ち着かせます。
   </p>
 </div>
 
@@ -94,7 +94,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">朝：新鮮なチモシーの無制限補給と給水器の水交換</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    胃腸の動きを止めることのないよう、1番刈りチモシー牧草をたっぷりと補給します。
+    胃腸の動きを止めることのないよう、1番刈りチモシー牧草をたっぷりと補給し、清潔な水を与えます。
   </p>
 </div>
 
@@ -104,7 +104,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">昼：垂れ耳内部の通気チェックと昼間の静かな睡眠</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    耳を優しくめくって赤みや汚れがないか確認し、静かに休ませます。
+    耳を優しくめくって赤みや異物がないか確認し、昼間の十分な睡眠を保障します。
   </p>
 </div>
 
@@ -143,7 +143,7 @@ faqs:
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      垂れ耳は湿気がこもりやすく外耳炎やダニが発生しやすいです。黒い耳垢や頻繁なダニ掻きが見られたら獣医師の診察が必要です。
+      垂れ耳は湿気がこもりやすく外耳炎やダニが発生しやすいです。黒い耳垢や頻繁な耳掻きが見られたら獣医師の診察が必要です。
     </p>
   </details>
 </div>

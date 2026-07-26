@@ -5,15 +5,15 @@ description: "Panduan lengkap merawat Leopard Gecko. Pahami gerak ekor pertahana
 pubDate: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Leopard Gecko"]
+tags: ["PerawatanHewan","KesehatanHewan","Leopard Gecko (Eublepharis macularius)"]
 heroImage: "/images/blog/leopard_gecko_care.png"
 app: "petself"
 formatVersion: 4
-authority: "Association of Reptilian and Amphibian Veterinarians (ARAV) Care Guidelines"
+authority: "Association of Reptilian and Amphibian Veterinarians (ARAV) Care Guidelines & Standar Klinis"
 steps:
   - name: "Bahasa Tubuh Gecko: Gerakan Ekor Pertahanan & Tanda Moulting"
     text: "Ekor gecko yang gemuk berfungsi sebagai cadangan lemak dan alat komunikasi. Membedakan gerakan ekor perlahan saat terancam dengan getaran gembira saat berburu sangat penting agar tidak menimbulkan stres."
-  - name: "Leopard Gecko's Body Language & Signals"
+  - name: "Leopard Gecko (Eublepharis macularius)'s Body Language & Signals"
     text: "* Ekor Diangkat & Mengayun Perlahan Bentuk 'S' (Slow Tail Waving): Postur pertahanan kewaspadaan tinggi saat gecko merasa terancam atau kaget oleh potensi bahaya. (Hentikan memegang gecko segera, tarik tangan perlahan, dan biarkan gecko bersembunyi tanpa gangguan.)
 
 * Kulit Memucat Putih Kusam & Menggosok Mata (Pre-Shedding Signal): Tanda awal proses berganti kulit (moulting/ecdysis); lapisan kulit lama terlepas dan membutuhkan kelembapan tinggi. (Semprotkan air hangat pada alas di dalam tempat sembunyi lembap untuk menaikkan kelembapan di atas 70%.)"
@@ -39,7 +39,7 @@ Dengan senyuman khas dan ekor bintik-bintik yang indah, Leopard Gecko adalah pil
       Bukti Dokter Hewan & Perilaku
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Konten ini didasarkan pada <strong>Association of Reptilian and Amphibian Veterinarians (ARAV) Care Guidelines</strong>.
+      Konten ini didasarkan pada <strong>Association of Reptilian and Amphibian Veterinarians (ARAV) Care Guidelines & Standar Klinis</strong>.
     </p>
   </div>
 </div>
@@ -60,7 +60,7 @@ Dengan senyuman khas dan ekor bintik-bintik yang indah, Leopard Gecko adalah pil
 
 ---
 
-## 2. Leopard Gecko's Body Language & Signals
+## 2. Leopard Gecko (Eublepharis macularius)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

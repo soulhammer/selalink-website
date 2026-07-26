@@ -1,7 +1,7 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "American Shorthair Herz- und Gewichtspflege: 3-Schritte-Routine zur HCM-Vorbeugung und Adipositas-Kontrolle"
-description: "American Shorthairs sind robuste Katzen, neigen aber zu Übergewicht und hypertropher Kardiomyopathie (HCM). Lernen Sie eine Routine für Futter und Herzgesundheit kennen."
+description: "American Shorthairs sind robuste Katzen, neigen aber zu Übergewicht und hypertropher Kardiomyopathie (HCM). Lernen Sie eine 3-Schritte-Routine für Ernährung, Spiel und Herzgesundheit kennen."
 pubDate: "2026-03-02"
 updatedDate: "2026-03-02"
 category: "FreshSelf"
@@ -9,28 +9,28 @@ tags: ["Haustierpflege","Haustiergesundheit","American Shorthair"]
 heroImage: "/images/blog/american_shorthair_care.png"
 app: "petself"
 formatVersion: 4
-authority: "Richtlinien der CFA & Studien des Cornell Feline Health Center"
+authority: "CFA (Cat Fanciers' Association) Rassestandard & Studien des Cornell Feline Health Center"
 steps:
   - name: "Körpersprache der American Shorthair: Herzbelastung und Atmen mit offenem Maul"
-    text: "Katzen hecheln selten. Zeigt eine American Shorthair ein 'Atmen mit offenem Maul' oder 'ermüdet sie rasch' beim Spielen, deutet dies auf eine Herzbelastung hin. Schnelles Handeln kann Leben retten."
+    text: "Im Gegensatz zu Hunden hecheln Katzen selten zur Wärmeregulierung. Wenn eine American Shorthair 'mit offenem Maul atmet' oder beim Spielen 'rasch ermüdet', ist dies ein ernstes Warnsignal für eine Herzbelastung. Früherkennung ist hierbei lebensrettend."
   - name: "American Shorthair's Body Language & Signals"
-    text: "* Atmen mit offenem Maul: Atmen mit geöffnetem Maul und herausgestreckter Zunge, was auf schweren Sauerstoffmangel hindeutet. (Vermeiden Sie Stress und bringen Sie die Katze sofort in eine Tierklinik zur Sauerstoffbehandlung.)
+    text: "* Atmen mit offenem Maul (Open-Mouth Breathing): Schweres Atmen mit geöffnetem Maul, was auf einen akuten Sauerstoffmangel durch Herz-Lungen-Überlastung oder extremen Stress hindeutet. (Minimieren Sie sofort jeglichen Stress, setzen Sie die Katze in eine Transportbox und bringen Sie sie umgehend in eine 24-Stunden-Tierklinik zur Sauerstofftherapie.)
 
-* Schnelle Ermüdung & Hinlegen: Spielabbruch und flaches Hinlegen auf die Seite nach wenigen Minuten wegen verminderter Herzleistung. (Stoppen Sie das Spielen. Lassen Sie ein Herzultraschall beim Tierarzt durchführen, um HCM auszuschließen.)"
+* Schnelle Ermüdung und Hinlegen (Quick Fatigue): Spielabbruch und flaches Hinlegen auf die Seite nach nur wenigen Minuten Bewegung aufgrund verminderter Herzpumpleistung. (Schränken Sie anstrengende Aktivitäten ein und lassen Sie jährlich eine Abhöruntersuchung sowie ein Herzultraschall (inkl. proBNP-Test) zur HCM-Kontrolle durchführen.)"
   - name: "Customized 3-Step Home Care Routine"
-    text: "* STEP 1. Morgen: Portionierte Fütterung zur Vermeidung von Übergewicht: Vermeiden Sie Ad-libitum-Fütterung. Wiegen Sie die tägliche Futterration genau ab, um das Herz zu entlasten.
+    text: "* STEP 1. Morgen: Portionierte Fütterung zur Vorbeugung von Übergewicht: Verzichten Sie auf ständige Futterverfügbarkeit (Ad-libitum). Teilen Sie die tägliche Kalorienmenge abgemessen auf morgens und abends auf, um das Gewicht zu kontrollieren und die Gefäße zu schützen.
 
-* STEP 2. Nachmittag: Interaktives Spiel & Fettverbrennung: Spielen Sie mindestens zweimal täglich 15 Minuten lang mit Federangeln, um den Jagdtrieb zu fördern.
+* STEP 2. Nachmittag: 15 Minuten interaktives Spiel zur Fettverbrennung: Fördern Sie den Jagdtrieb mindestens zweimal täglich für 15 Minuten mit Federangeln oder Spielmäusen, um die Kalorienverbrennung anzuregen.
 
-* STEP 3. Abend: Wöchentliches Bürsten gegen Haarballen: Bürsten Sie das dichte Fell ein- bis zweimal pro Woche, um tote Haare zu entfernen und Haarballenbrechen vorzubeugen."
+* STEP 3. Abend: Wöchentliches Bürsten und Haarballen-Prophylaxe: Trotz des kurzen Fells besitzt die Rasse sehr dichtes Unterfell. Bürsten Sie die Katze 1-2 Mal pro Woche mit einer Zupfbürste, um totes Haar zu entfernen und Erbrechen von Haarballen vorzubeugen."
 faqs:
   - question: "Was ist hypertrophe Kardiomyopathie (HCM) bei Katzen?"
-    answer: "Eine genetische Erkrankung, bei der sich der Herzmuskel verdickt und das Blut nicht mehr effizient gepumpt wird. Jährliche Ultraschalluntersuchungen helfen bei der Früherkennung."
-  - question: "Wie kann Übergewicht bei American Shorthair verhindert werden?"
-    answer: "Wichtig sind abgewogene Rationen, der Verzicht auf ständige Futterverfügbarkeit und Spielzeuge, aus denen sich die Katze Futter erarbeiten muss."
+    answer: "Es handelt sich um eine erbliche Herzerkrankung, bei der sich die Wand der linken Herzkammer verdickt, wodurch das Kammervolumen schrumpft und die Pumpleistung sinkt. Da sie zum plötzlichen Herztod führen kann, ist eine jährliche Ultraschalluntersuchung essenziell."
+  - question: "Wie lässt sich Übergewicht bei der American Shorthair am besten vermeiden?"
+    answer: "Wählen Sie ein Futter mit hohem Protein- und niedrigem Kohlenhydratgehalt. Geben Sie einen Teil des Futters in Intelligenzspielzeuge (Futterlabyrinthe), damit sich die Katze ihr Futter erarbeiten muss."
 ---
 
-Bekannt für ihre silberne Tabby-Zeichnung und den muskulösen Körper sind American Shorthairs treue Begleiter. Ihre gemütliche Art führt jedoch oft zu Trägheit und Übergewicht, was das Herz belastet. Zudem haben sie ein genetisches Risiko für hypertrophie Kardiomyopathie (HCM). Heute erklärt PetSelf Herzwarnsignale und stellt eine 3-Schritte-Routine vor.
+Bekannt für ihr schönes Silver-Tabby-Muster und ihren muskulösen Körperbau sind American Shorthairs sanftmütige und anpassungsfähige Begleiter. Ihr guter Appetit und ihr gemütliches Wesen führen jedoch leicht zu Übergewicht, was das Herz-Kreislauf-System stark belastet. Zudem besitzt diese Rasse eine genetische Veranlagung für die hypertrophe Kardiomyopathie (HCM), bei der sich die Herzwand verdickt. Heute entschlüsselt PetSelf Herzwarnsignale und stellt eine 3-Schritte-Routine vor.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -39,7 +39,7 @@ Bekannt für ihre silberne Tabby-Zeichnung und den muskulösen Körper sind Amer
       Veterinärmedizinische & verhaltensbedingte Nachweise
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Dieser Inhalt basiert auf <strong>Richtlinien der CFA & Studien des Cornell Feline Health Center</strong>.
+      Dieser Inhalt basiert auf <strong>CFA (Cat Fanciers' Association) Rassestandard & Studien des Cornell Feline Health Center</strong>.
     </p>
   </div>
 </div>
@@ -54,7 +54,7 @@ Bekannt für ihre silberne Tabby-Zeichnung und den muskulösen Körper sind Amer
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Körpersprache der American Shorthair: Herzbelastung und Atmen mit offenem Maul</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Katzen hecheln selten. Zeigt eine American Shorthair ein 'Atmen mit offenem Maul' oder 'ermüdet sie rasch' beim Spielen, deutet dies auf eine Herzbelastung hin. Schnelles Handeln kann Leben retten.
+    Im Gegensatz zu Hunden hecheln Katzen selten zur Wärmeregulierung. Wenn eine American Shorthair 'mit offenem Maul atmet' oder beim Spielen 'rasch ermüdet', ist dies ein ernstes Warnsignal für eine Herzbelastung. Früherkennung ist hierbei lebensrettend.
   </p>
 </div>
 
@@ -65,22 +65,22 @@ Bekannt für ihre silberne Tabby-Zeichnung und den muskulösen Körper sind Amer
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Körpersignal 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Atmen mit offenem Maul</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Atmen mit offenem Maul (Open-Mouth Breathing)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Bedeutung:</strong> Atmen mit geöffnetem Maul und herausgestreckter Zunge, was auf schweren Sauerstoffmangel hindeutet.<br/>
-    <strong>• Reaktion:</strong> Vermeiden Sie Stress und bringen Sie die Katze sofort in eine Tierklinik zur Sauerstoffbehandlung.
+    <strong>• Bedeutung:</strong> Schweres Atmen mit geöffnetem Maul, was auf einen akuten Sauerstoffmangel durch Herz-Lungen-Überlastung oder extremen Stress hindeutet.<br/>
+    <strong>• Reaktion:</strong> Minimieren Sie sofort jeglichen Stress, setzen Sie die Katze in eine Transportbox und bringen Sie sie umgehend in eine 24-Stunden-Tierklinik zur Sauerstofftherapie.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Körpersignal 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Schnelle Ermüdung & Hinlegen</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Schnelle Ermüdung und Hinlegen (Quick Fatigue)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Bedeutung:</strong> Spielabbruch und flaches Hinlegen auf die Seite nach wenigen Minuten wegen verminderter Herzleistung.<br/>
-    <strong>• Reaktion:</strong> Stoppen Sie das Spielen. Lassen Sie ein Herzultraschall beim Tierarzt durchführen, um HCM auszuschließen.
+    <strong>• Bedeutung:</strong> Spielabbruch und flaches Hinlegen auf die Seite nach nur wenigen Minuten Bewegung aufgrund verminderter Herzpumpleistung.<br/>
+    <strong>• Reaktion:</strong> Schränken Sie anstrengende Aktivitäten ein und lassen Sie jährlich eine Abhöruntersuchung sowie ein Herzultraschall (inkl. proBNP-Test) zur HCM-Kontrolle durchführen.
   </p>
 </div>
 
@@ -91,30 +91,30 @@ Bekannt für ihre silberne Tabby-Zeichnung und den muskulösen Körper sind Amer
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Morgen: Portionierte Fütterung zur Vermeidung von Übergewicht</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Morgen: Portionierte Fütterung zur Vorbeugung von Übergewicht</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Vermeiden Sie Ad-libitum-Fütterung. Wiegen Sie die tägliche Futterration genau ab, um das Herz zu entlasten.
+    Verzichten Sie auf ständige Futterverfügbarkeit (Ad-libitum). Teilen Sie die tägliche Kalorienmenge abgemessen auf morgens und abends auf, um das Gewicht zu kontrollieren und die Gefäße zu schützen.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Nachmittag: Interaktives Spiel & Fettverbrennung</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Nachmittag: 15 Minuten interaktives Spiel zur Fettverbrennung</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Spielen Sie mindestens zweimal täglich 15 Minuten lang mit Federangeln, um den Jagdtrieb zu fördern.
+    Fördern Sie den Jagdtrieb mindestens zweimal täglich für 15 Minuten mit Federangeln oder Spielmäusen, um die Kalorienverbrennung anzuregen.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Abend: Wöchentliches Bürsten gegen Haarballen</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Abend: Wöchentliches Bürsten und Haarballen-Prophylaxe</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Bürsten Sie das dichte Fell ein- bis zweimal pro Woche, um tote Haare zu entfernen und Haarballenbrechen vorzubeugen.
+    Trotz des kurzen Fells besitzt die Rasse sehr dichtes Unterfell. Bürsten Sie die Katze 1-2 Mal pro Woche mit einer Zupfbürste, um totes Haar zu entfernen und Erbrechen von Haarballen vorzubeugen.
   </p>
 </div>
 
@@ -133,17 +133,17 @@ Bekannt für ihre silberne Tabby-Zeichnung und den muskulösen Körper sind Amer
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Eine genetische Erkrankung, bei der sich der Herzmuskel verdickt und das Blut nicht mehr effizient gepumpt wird. Jährliche Ultraschalluntersuchungen helfen bei der Früherkennung.
+      Es handelt sich um eine erbliche Herzerkrankung, bei der sich die Wand der linken Herzkammer verdickt, wodurch das Kammervolumen schrumpft und die Pumpleistung sinkt. Da sie zum plötzlichen Herztod führen kann, ist eine jährliche Ultraschalluntersuchung essenziell.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Wie kann Übergewicht bei American Shorthair verhindert werden?</span>
+      <span>Wie lässt sich Übergewicht bei der American Shorthair am besten vermeiden?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Wichtig sind abgewogene Rationen, der Verzicht auf ständige Futterverfügbarkeit und Spielzeuge, aus denen sich die Katze Futter erarbeiten muss.
+      Wählen Sie ein Futter mit hohem Protein- und niedrigem Kohlenhydratgehalt. Geben Sie einen Teil des Futters in Intelligenzspielzeuge (Futterlabyrinthe), damit sich die Katze ihr Futter erarbeiten muss.
     </p>
   </details>
 </div>

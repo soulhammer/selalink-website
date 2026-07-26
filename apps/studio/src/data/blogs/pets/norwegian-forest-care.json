@@ -3,467 +3,19 @@
     "pubDate": "2026-04-08",
     "updatedDate": "2026-04-08",
     "locales": {
-      "en": {
-        "title": "Vertical Play and Triple Coat Waterproof Grooming for Norwegian Forest Cats",
-        "description": "Satisfy climbing drive of Norwegian Forest Cats and manage waterproof triple coats.",
-        "authority": "The International Cat Association (TICA) Guide & Feline Behavior Science",
-        "profile": {
-          "breed": "Norwegian Forest Cat",
-          "lifespan": "12 ~ 16 Years",
-          "sleep_pattern": "14 ~ 16 Hours (Vertical Wild Type)",
-          "temperament": "Intelligent, Mild-mannered, Bold, Nature-loving"
-        },
-        "intro": "The Norwegian Forest Cat, or 'Wegie', has evolved to survive harsh winter, developing a water-repellent triple coat. Today at PetSelf, we show you how to fulfill their climbing needs and manage triple coats. Providing consistent daily health care and a safe home environment ensures your pet's long-term wellness. Providing consistent daily health care and a safe home environment ensures your pet's long-term wellness.",
-        "whyTitle": "Norwegian Forest Cat Body Language: Trust and Wild Alerts",
-        "whyDesc": "Approaching slowly with a vertical tail slightly curved shows deep trust and friendliness.",
-        "body_signals": [
-          {
-            "name": "Upright Tail with Question Mark Curve",
-            "meaning": "Friendly, relaxed, and curious to interact.",
-            "response": "Respond with a soft voice and gently rub their cheeks."
-          },
-          {
-            "name": "Dilated Pupils & Airplane Ears",
-            "meaning": "Tense due to sudden noises or unfamiliar surroundings.",
-            "response": "Avoid direct eye contact. Let them retreat to high shelves."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Morning: Vertical Wand Toys to Mimic Climb Hunt",
-            "text": "Play dynamically with a wand toy up and down cat towers."
-          },
-          {
-            "name": "Afternoon: Deep Slicker Brushing to Remove Undercoat",
-            "text": "Brush chest and armpits using slicker and metal comb."
-          },
-          {
-            "name": "Evening: Impact-absorbing Landing Zone and Claw Trim",
-            "text": "Place padded mats under tall cat trees and trim claws."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Is their shedding worse than other cats?",
-            "answer": "Yes. Triple coat sheds heavily in spring/autumn. Daily brushing is needed."
-          },
-          {
-            "question": "Is it true they love water?",
-            "answer": "Waterproof outer coat makes them less fearful of water."
-          }
-        ],
-        "tags": [
-          "Norwegian Forest Cat",
-          "Triple Coat",
-          "Joint Health",
-          "Cat Toys"
-        ]
-      },
-      "ja": {
-        "title": "ノルウェージャンフォレストキャットの上下運動と三重毛の被毛ケア習慣",
-        "description": "北欧生まれの大型猫、ノルウェージャンフォレストキャット。高所を好む彼らの欲求を満たす遊びと、美しい防寒三重毛をケアする3ステップを提案します。",
-        "authority": "国際猫協会(TICA)品種ガイドおよび猫行動学専門指針",
-        "profile": {
-          "breed": "ノルウェージャンフォレストキャット (Norwegian Forest Cat)",
-          "lifespan": "12 〜 16年",
-          "sleep_pattern": "14 〜 16時間 (高所設置活動型)",
-          "temperament": "賢く温厚、自然を愛し堂々としている"
-        },
-        "intro": "ノルウェージャンフォレストキャットは、北欧の過酷な冬に耐えるため防水性のある豊かな三重毛（トリプルコート）と頑丈な骨格を持つ大型猫です。「ノル」の愛称で親しまれ、活動的で高い場所に登ることを好む本能が特に強いです。毛量が多く密集しているため、毛球症を予防するためにグルーミングが必要です。本日、PetSelfでは高所運動欲求を満し、自慢の被毛を保つホームケアを学びます。",
-        "whyTitle": "ノルウェージャンのボディランゲージ：親愛と野生のシグナル",
-        "whyDesc": "落ち着いた性格で聡明な彼らは、意思表示が控えめです。尻尾を真っ直ぐ立てて先端を緩やかに曲げて近づくのは、親近感のサインです。一方、イカ耳を見せる時は、警戒や不安を抱いています。",
-        "body_signals": [
-          {
-            "name": "尻尾を立てて先端を疑問符のように曲げる",
-            "meaning": "リラックスしており、飼い主に甘えたい半面で好奇心が高まっている合図です。",
-            "response": "優しい声で答えながら、顎や額の周りなどを優しく撫でてあげましょう。"
-          },
-          {
-            "name": "イカ耳になり、瞳孔が開く",
-            "meaning": "大きな物音や知らない人に対して強く警戒している状態です。",
-            "response": "無理に構わず、猫がキャットタワーなどの高い場所や隠れ場所に逃げ込めるようにします."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "朝：高低差を利用した立体的なおもちゃ遊びによる運動",
-            "text": "キャットタワーの上下を移動するように猫じゃらしを動かし、クライミング本能を満たします。"
-          },
-          {
-            "name": "午後：コームとスリッカーによる三重毛の死毛処理",
-            "text": "絡まりやすい胸元や脇の下を中心に、スリッカーと金櫛を使って不要な抜け毛をしっかりすき取ります。"
-          },
-          {
-            "name": "夜：大型猫の軟骨と脊椎保護のための高い落下着地点点検",
-            "text": "飛び降りる場所に滑り止めマットやクッションを敷き, 爪を切って滑り防止を行い、関節への負荷を軽減します。"
-          }
-        ],
-        "faqs": [
-          {
-            "question": "他の猫に比べて抜け毛は多いですか？",
-            "answer": "トリプルコートのため、換毛期には大量の毛が抜けます。この時期は朝晩のブラッシングで死毛を取り除いてください。"
-          },
-          {
-            "question": "お風呂を嫌がらないというのは本当ですか？",
-            "answer": "野生由来で被毛に強い撥水性があるため、水への抵抗感が薄い子もいます。ただし、無理に浴槽に入れるのは避けてください。"
-          }
-        ],
-        "tags": [
-          "ノルウェージャン",
-          "トリプルコート",
-          "高所遊び",
-          "大型猫ケア"
-        ]
-      },
-      "zh": {
-        "title": "挪威森林猫的垂直空间游戏与三重防寒毛被毛梳理常规",
-        "description": "满足大猫挪威森林猫爬树本能与三重被毛打理常规。",
-        "authority": "国际猫协会(TICA)指南及猫科动物行为科学",
-        "profile": {
-          "breed": "挪威森林猫 (Norwegian Forest Cat)",
-          "lifespan": "12 ~ 16 年",
-          "sleep_pattern": "14 ~ 16 小时 (垂直空间野生型)",
-          "temperament": "聪明、温和、大胆、热爱自然"
-        },
-        "intro": "挪威森林猫为了在严酷的北欧冬季生存，进化出了防水的三重被毛。毛量大，需要仔细打理以防吞下毛球。今天PetSelf介绍高空运动与被毛打理步骤。 提供持续的日常健康护理与安全的生活环境，可确保您的宠物长期保持健康快乐。 提供持续的日常健康护理与安全的生活环境，可确保您的宠物长期保持健康快乐。",
-        "whyTitle": "挪威森林猫的身体语言：信任与野生警惕",
-        "whyDesc": "尾巴垂直竖起、末端微弯靠近表示深厚的信任。相反，飞机耳表示警惕 or 防卫。",
-        "body_signals": [
-          {
-            "name": "尾巴直立且末端呈问号状",
-            "meaning": "心情愉快、好奇，希望与主人互动。",
-            "response": "用温柔的声音回应，并轻柔地抚摸它们的脸颊。"
-          },
-          {
-            "name": "瞳孔放大 & 飞机耳",
-            "meaning": "由于突然的警报 or 噪音而感到紧张警戒。",
-            "response": "不要强行对视。让猫咪退避到觉得安全的猫爬架高处。"
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "早晨：利用高低差的立体羽毛玩具捕猎游戏",
-            "text": "引导猫咪在猫爬架上下攀爬，模拟高空捕猎。"
-          },
-          {
-            "name": "下午：使用针梳和排梳清理底毛",
-            "text": "重点打理易打结的胸前 and 腋下部位，彻底梳掉死毛。"
-          },
-          {
-            "name": "晚上：大型猫关节着地缓冲与剪爪甲",
-            "text": "在高处着地处放置防滑缓冲垫，定期修剪指甲。"
-          }
-        ],
-        "faqs": [
-          {
-            "question": "挪威森林猫掉毛比其他猫严重吗？",
-            "answer": "是的。三重毛换毛期掉毛非常厉害，需要每日梳理。"
-          },
-          {
-            "question": "挪威森林猫真的喜欢 water 吗？",
-            "answer": "它们外层毛防水，对水恐惧较小。有些喜欢流水。"
-          }
-        ],
-        "tags": [
-          "挪威森林猫",
-          "被毛打理",
-          "大型猫关节",
-          "捕猎游戏"
-        ]
-      },
-      "es": {
-        "title": "Juego vertical y mantenimiento del pelaje triple del gato Bosque de Noruega",
-        "description": "Instinto trepador del gato Bosque de Noruega y cuidado de pelaje triple.",
-        "authority": "Guía de la Asociación Internacional de Gatos (TICA) y ciencia felina",
-        "profile": {
-          "breed": "Gato Bosque de Noruega (Norwegian Forest Cat)",
-          "lifespan": "12 ~ 16 años",
-          "sleep_pattern": "14 ~ 16 horas (Espacio vertical)",
-          "temperament": "Inteligente, dócil, valiente, amante de la naturaleza"
-        },
-        "intro": "El gato Bosque de Noruega ha evolucionado con un espeso pelaje triple repelente al agua. Su grueso pelaje requiere cepillado constante. Hoy en PetSelf te enseñamos a cuidar su pelaje. Brindar atención médica diaria constante y un entorno seguro garantiza el bienestar a largo plazo de su mascota. Brindar atención médica diaria constante y un entorno seguro garantiza el bienestar a largo plazo de su mascota.",
-        "whyTitle": "Lenguaje corporal del Bosque de Noruega: Confianza",
-        "whyDesc": "Acercarse lentamente con la cola erguida indica confianza.",
-        "body_signals": [
-          {
-            "name": "Cola erguida con punta curvada",
-            "meaning": "Amistoso, relajado y con curiosidad por interactuar.",
-            "response": "Háblale con voz suave y acaricia sus mejillas."
-          },
-          {
-            "name": "Pupilas dilatadas y orejas planas",
-            "meaning": "Tensión o miedo debido a ruidos fuertes.",
-            "response": "Evita el contacto visual. Deja que se esconda en un lugar alto."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Mañana: Juguetes de varita vertical en rascadores",
-            "text": "Mueve varita de arriba a abajo en rascadores para estimular caza."
-          },
-          {
-            "name": "Tarde: Cepillado profundo para remover el pelo muerto",
-            "text": "Cepilla pecho y axilas usando cepillo slicker y peine metálico."
-          },
-          {
-            "name": "Noche: Alfombras de amortiguación y recorte de uñas",
-            "text": "Coloca alfombras acolchadas debajo de rascadores y corta uñas."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "¿Su muda de pelo es peor que la de otros gatos?",
-            "answer": "Sí. Muda abundantemente en primavera y otoño. El cepillado es necesario."
-          },
-          {
-            "question": "¿Es cierto que les gusta el agua?",
-            "answer": "Su pelaje impermeable hace que no teman tanto al agua."
-          }
-        ],
-        "tags": [
-          "Bosque de Noruega",
-          "Pelaje triple",
-          "Kinesiología",
-          "Gatos"
-        ]
-      },
-      "fr": {
-        "title": "Jeu vertical et entretien du pelage triple imperméable du chat Norvégien",
-        "description": "Comblez l'instinct de grimpeur du Norvégien et entretenez son pelage triple.",
-        "authority": "Guide de l'Association Internationale des Chats (TICA) et éthologie féline",
-        "profile": {
-          "breed": "Norvégien (Norwegian Forest Cat)",
-          "lifespan": "12 ~ 16 ans",
-          "sleep_pattern": "14 ~ 16 heures (Espace vertical)",
-          "temperament": "Intelligent, doux, audacieux, amoureux de l'aventure"
-        },
-        "intro": "Le chat Norvégien a évolué avec un pelage triple imperméable dense. Son pelage épais nécessite un brossage régulier. Aujourd'hui chez PetSelf, nous expliquons comment préserver sa fourrure. Offrir des soins de santé quotidiens constants et un environnement sûr garantit le bien-être à long terme de votre animal.",
-        "whyTitle": "Langage corporel du Norvégien : Signaux de confiance",
-        "whyDesc": "S'approcher avec la queue dressée et l'extrémité incurvée montre de la confiance.",
-        "body_signals": [
-          {
-            "name": "Queue dressée avec extrémité incurvée",
-            "meaning": "Amical, détendu et curieux d'interagir.",
-            "response": "Répondez d'une voix douce et caressez ses joues."
-          },
-          {
-            "name": "Pupilles dilatées et oreilles plates",
-            "meaning": "Tension causée par des bruits forts.",
-            "response": "Évitez le contact visuel. Laissez-le se réfugier en hauteur."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Matin : Jeux de plumeau vertical sur les arbres à griffer",
-            "text": "Agitez plumeau sur les arbres à griffer pour stimuler l'instinct."
-          },
-          {
-            "name": "Après-midi : Brossage profond pour retirer les poils morts",
-            "text": "Brossez poitrail et aisselles avec brosse carde et peigne métallique."
-          },
-          {
-            "name": "Soir : Zone de réception amortissante et coupe des griffes",
-            "text": "Placez tapis amortissants sous les arbres à chat."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "La perte de poils est-elle pire que d'autres chats ?",
-            "answer": "Oui. Pelage triple mue énormément. Brossage quotidien nécessaire."
-          },
-          {
-            "question": "Est-il vrai qu'ils aiment l'eau ?",
-            "answer": "Pelage imperméable réduit la peur. Baignades forcées stressantes."
-          }
-        ],
-        "tags": [
-          "Norvégien",
-          "Pelage triple",
-          "Arbre à chat",
-          "Soin chat"
-        ]
-      },
-      "de": {
-        "title": "Kletterbeschäftigung und Pflege des wasserabweisenden Fells der Norwegischen Waldkatze",
-        "description": "Erfüllen Sie den Klettertrieb der Norwegischen Waldkatze und pflegen Sie ihr Dreifachfell.",
-        "authority": "Richtlinien der International Cat Association (TICA) und Katzenverhaltensforschung",
-        "profile": {
-          "breed": "Norwegische Waldkatze (Norwegian Forest Cat)",
-          "lifespan": "12 ~ 16 Jahre",
-          "sleep_pattern": "14 ~ 16 Stunden (Vertikales Klettern)",
-          "temperament": "Intelligent, sanftmütig, kühn, naturliebend"
-        },
-        "intro": "Die Norwegische Waldkatze hat ein dichtes, wasserabweisendes Dreifachfell entwickelt. Ihr dichtes Fell erfordert regelmäßige Pflege. Heute bei PetSelf zeigen wir Ihnen eine Kletter-Routine. Die Bereitstellung einer konsistenten täglichen Gesundheitspflege und einer sicheren Umgebung sichert das Wohlbefinden Ihres Haustieres.",
-        "whyTitle": "Körpersprache der Norwegischen Waldkatze: Vertrauen",
-        "whyDesc": "Ein langsames Annähern mit aufgerichteter Rute zeigt tiefes Vertrauen.",
-        "body_signals": [
-          {
-            "name": "Aufgerichtete Rute mit gebogener Spitze",
-            "meaning": "Freundlich, entspannt und bereit für Interaktion.",
-            "response": "Antworten Sie mit sanfter Stimme und kraulen Sie Wangen."
-          },
-          {
-            "name": "Weite Pupillen und flache Ohren",
-            "meaning": "Anspannung durch laute Geräusche oder fremde Umgebung.",
-            "response": "Vermeiden Sie Augenkontakt. Lassen Sie die Katze auf hohe Kratzbäume flüchten."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Morgen: Angelspiel am Kratzbaum",
-            "text": "Bewegen Sie Spielzeug am Kratzbaum auf und ab, um den Klettertrieb auszulasten."
-          },
-          {
-            "name": "Nachmittag: Tiefenpflege zur Entfernung der Unterwolle",
-            "text": "Bürsten Sie Brust und Achseln mit einer Zupfbürste und einem Metallkamm aus."
-          },
-          {
-            "name": "Abend: Stoßdämpfung am Boden und Krallenpflege",
-            "text": "Legen Sie Matten unter hohe Kletterbäume und kürzen Sie Krallen."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Haaren sie stärker als andere Katzen?",
-            "answer": "Ja. Ihr dreifaches Fell haart im Herbst extrem. Tägliches Bürsten ist Pflicht."
-          },
-          {
-            "question": "Stimmt es, dass Norwegische Waldkatzen Wasser lieben?",
-            "answer": "Wasserabweisendes Deckhaar reduziert Angst. Erzwungene Bäder sind stressig."
-          }
-        ],
-        "tags": [
-          "Norwegische Waldkatze",
-          "Dreifachfell",
-          "Kratzbaum",
-          "Fellpflege"
-        ]
-      },
-      "pt": {
-        "title": "Atividades de escalada e cuidados com o pelo triplo do gato Bosque da Noruega",
-        "description": "Instinto de escalada do gato Bosque da Noruega e cuidados com pelo triplo.",
-        "authority": "Diretrizes da Associação Internacional de Gatos (TICA) e comportamento felino",
-        "profile": {
-          "breed": "Gato Bosque da Noruega (Norwegian Forest Cat)",
-          "lifespan": "12 ~ 16 anos",
-          "sleep_pattern": "14 ~ 16 horas (Perfil de escalada)",
-          "temperament": "Inteligente, dócil, corajoso, amante da natureza"
-        },
-        "intro": "O gato Bosque da Noruega adaptou-se aos invernos escandinavos rígidos com pelo triplo impermeável. A pelagem exige escovação regular. Hoje na PetSelf, trazemos rotina de escalada. Oferecer cuidados de saúde diários constantes e um ambiente seguro garante o bem-estar a longo prazo do seu animal.",
-        "whyTitle": "Linguagem corporal do Bosque da Noruega: Confiança",
-        "whyDesc": "Uma aproximação lenta com a cauda erguida e ponta curvada indica confiança.",
-        "body_signals": [
-          {
-            "name": "Cauda erguida com ponta curvada",
-            "meaning": "Amigável, relaxado e pronto para interagir.",
-            "response": "Responda com voz suave e acaricie bochechas ou queixo."
-          },
-          {
-            "name": "Pupilas dilatadas e orelhas planas",
-            "meaning": "Tensão ou medo devido a barulhos altos.",
-            "response": "Evite contato visual. Deixe o gato se retirar para lugar alto."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Manhã: Brincadeira de varinha vertical no arranhador",
-            "text": "Mova um brinquedo de varinha para cima e para baixo no arranhador."
-          },
-          {
-            "name": "Tarde: Escovação profunda do pelo triplo para remover fios mortos",
-            "text": "Escove as zonas com tendência a nós, usando rasqueadeira e pente de metal."
-          },
-          {
-            "name": "Noite: Amortecimento de impacto no chão e corte de unhas",
-            "text": "Coloque tapetes acolchados sob arranhadores altos e corte as unhas."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Eles soltam mais pelo do que outros gatos?",
-            "answer": "Sim. O pelo triplo espesso solta muito na primavera. A escovação é obrigatória."
-          },
-          {
-            "question": "É verdade que os Bosques da Noruega gostam de água?",
-            "answer": "O pelo impermeável deles reduz o medo de água. Banhos são estressantes."
-          }
-        ],
-        "tags": [
-          "Bosque da Noruega",
-          "Pelo triplo",
-          "Arranhador",
-          "Gatos"
-        ]
-      },
-      "id": {
-        "title": "Aktivitas Memanjat dan Perawatan Bulu Triple Coat Kucing Hutan Norwegia",
-        "description": "Penuhi insting memanjat kucing Hutan Norwegia and kelola bulu triple coat mereka yang lebat.",
-        "authority": "Panduan TICA & Ilmu Perilaku Kucing Internasional",
-        "profile": {
-          "breed": "Kucing Hutan Norwegia (Norwegian Forest Cat)",
-          "lifespan": "12 ~ 16 tahun",
-          "sleep_pattern": "14 ~ 16 jam (Pemanjat tinggi)",
-          "temperament": "Cerdas, lembut, berani, pencinta alam"
-        },
-        "intro": "Kucing Hutan Norwegia berevolusi dengan bulu triple coat tahan air untuk bertahan di musim dingin yang ekstrem. Mereka berukuran besar and gemar memanjat tempat tinggi. Bulu mereka yang tebal memerlukan perawatan khusus untuk mencegah hairball. Hari ini PetSelf membagikan tips memanjat and menyisir bulu kucing Hutan Norwegia.",
-        "whyTitle": "Bahasa Tubuh Kucing Hutan Norwegia: Kepercayaan",
-        "whyDesc": "Mendekat dengan ekor tegak lurus melengkung menunjukkan rasa percaya penuh. Sebaliknya, telinga rata (airplane ears) menandakan ketakutan.",
-        "body_signals": [
-          {
-            "name": "Ekor tegak dengan ujung melengkung seperti tanda tanya",
-            "meaning": "Merasa senang, rileks, and ingin berinteraksi dengan pemilik.",
-            "response": "Sambut dengan suara ramah and elus dagu serta pipinya perlahan."
-          },
-          {
-            "name": "Pupil mata membesar dengan telinga rata ke samping",
-            "meaning": "Waspada atau takut karena suara bising di sekitarnya.",
-            "response": "Hindari kontak mata langsung and biarkan kucing bersembunyi di tempat tinggi."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Pagi: Permainan pancing bulu interaktif di area vertikal",
-            "text": "Ajak kucing berburu mainan dengan memanjat naik-turun cat tower."
-          },
-          {
-            "name": "Siang: Menyikat bulu lebat menggunakan slicker brush",
-            "text": "Sisir area rawan kusut seperti dada and ketiak untuk mengangkat bulu mati."
-          },
-          {
-            "name": "Malam: Memasang alas empuk di area pendaratan cat tower",
-            "text": "Letakkan alas empuk di lantai bawah cat tower and potong kuku kucing untuk mencegah cedera."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Apakah kerontokan bulu Hutan Norwegia sangat parah?",
-            "answer": "Ya, bulu triple coat mereka rontok sangat banyak pada musim semi/gugur. Sisir bulu mereka setiap hari."
-          },
-          {
-            "question": "Apakah benar mereka menyukai air?",
-            "answer": "Bulu terluar mereka kedap air sehingga mereka tidak terlalu takut air, tetapi jangan memaksa mereka mandi."
-          }
-        ],
-        "tags": [
-          "Norwegian Forest Cat",
-          "Bulu lebat",
-          "Cat tower",
-          "Kucing"
-        ]
-      },
       "ko": {
-        "title": "숲속의 사냥꾼 노르웨이 숲 고양이를 위한 수직 공간 놀이와 웅장한 삼중모 방수 털 관리",
-        "description": "대형 묘종이자 북유럽의 강인함을 품은 노르웨이 숲. 이들의 등반 본능을 충족하는 놀이와 방수 기능이 있는 두꺼운 삼중모 털 관리법을 제안합니다.",
+        "title": "숲속의 사냥꾼 노르웨이 숲 고양이를 위한 수직 공간 놀이와 웅장한 삼중모 방수 털 관리 3단계 루틴",
+        "description": "대형 묘종이자 북유럽의 강인함을 품은 노르웨이 숲. 이들의 등반 본능을 충족하는 놀이와 방수 기능이 있는 두꺼운 삼중모 털 관리법, 관절 보호 3단계 루틴을 제안합니다.",
         "authority": "국제고양이협회(TICA) 가이드 및 고양이 수의행동학 학술 지침",
         "profile": {
-          "breed": "노르웨이 숲 (Norwegian Forest Cat)",
+          "breed": "노르웨이 숲 (Felis catus / Norwegian Forest Cat)",
           "lifespan": "12 ~ 16년",
           "sleep_pattern": "14 ~ 16시간 (수직 공간 야생형)",
           "temperament": "똑똑하고 온화함, 자연 친화적이며 대범함"
         },
-        "intro": "노르웨이 숲 고양이는 혹독한 북유럽의 겨울을 견디기 위해 진화한 크고 단단한 골격과 방수 기능을 가진 오밀조밀한 삼중모를 지니고 있습니다. '놀숲'이라는 애칭으로 많은 사랑을 받는 이들은 대형 묘종으로서 활동량이 많고 높은 곳을 올라가려는 강한 본능을 지니고 있습니다. 🐈 또한 털이 매우 굵고 풍성하여 정기적으로 관리하지 않으면 커다란 털 뭉치를 삼켜 소화 장애를 겪을 수 있습니다. 오늘 PetSelf에서는 노르웨이 숲의 등반 욕구를 풀어주고 웅장한 피모를 지키는 3단계 홈케어 루틴을 소개합니다.",
+        "intro": "노르웨이 숲 고양이는 혹독한 북유럽의 겨울을 견디기 위해 진화한 크고 단단한 골격과 방수 기능을 가진 오밀조밀한 삼중모를 지니고 있습니다. '놀숲'이라는 애칭으로 많은 사랑을 받는 이들은 대형 묘종으로서 활동량이 많고 높은 곳을 올라가려는 강한 본능을 지니고 있습니다. 🐈 또한 털이 매우 굵고 풍성하여 정기적으로 관리하지 않으면 커다란 털 뭉치를 삼켜 소화 장애(헤어볼)를 겪을 수 있으며, 높은 곳에서의 낙하 충격이 관절에 무리를 줄 수 있습니다. 오늘 PetSelf에서는 노르웨이 숲의 등반 욕구를 풀어주고 웅장한 피모와 관절 건강을 지키는 3단계 홈케어 루틴을 소개합니다.",
         "whyTitle": "노르웨이 숲의 바디 랭귀지: 야생 본능과 친화력의 지표",
-        "whyDesc": "노르웨이 숲은 야생의 당당함을 간직하고 있어 의사 표현이 점잖고 영리합니다. 꼬리를 수직으로 바짝 세우고 끝을 가볍게 구부린 채 천천히 다가오는 것은 깊은 신뢰와 친근감의 표시입니다. 반면 동공이 넓어지고 귀를 옆으로 납작하게 누이는 '마징가 귀'를 보일 때는 주변 환경에서 강한 위협이나 불안을 감지했음을 뜻합니다.",
+        "whyDesc": "노르웨이 숲은 야생의 당당함을 간직하고 있어 의사 표현이 점잖고 영리합니다. 꼬리를 수직으로 바짝 세우고 끝을 가볍게 물음표(?) 모양으로 구부린 채 천천히 다가오는 것은 깊은 신뢰와 친근감의 표시입니다. 반면 동공이 넓어지고 귀를 옆으로 납작하게 누이는 '마징가 귀'를 보일 때는 주변 환경에서 강한 위협이나 불안을 감지했음을 뜻합니다.",
         "body_signals": [
           {
             "name": "꼬리를 수직으로 세우고 끝을 물음표 모양으로 구부림",
@@ -471,7 +23,7 @@
             "response": "다정한 목소리로 반응해주며 부드럽게 머리나 볼 주변을 쓰다듬어 유대감을 높여줍니다."
           },
           {
-            "name": "동공이 커지고 귀를 양옆으로 납작하게 눕힘",
+            "name": "동공이 커지고 귀를 양옆으로 납작하게 눕힘 (마징가 귀)",
             "meaning": "급작스러운 소음이나 낯선 환경 때문에 긴장하고 경계하는 상태입니다.",
             "response": "눈을 억지로 마주치지 말고 고양이가 안정을 취할 수 있는 높은 수직 공간이나 은신처로 스스로 피하도록 내버려 두십시오."
           }
@@ -502,9 +54,457 @@
         ],
         "tags": [
           "노르웨이숲",
-          "삼중모 관리",
-          "대형묘 관절",
-          "사냥 놀이"
+          "삼중모관리",
+          "대형묘관절",
+          "사냥놀이"
+        ]
+      },
+      "en": {
+        "title": "Vertical Space Play and Waterproof Triple Coat Grooming Guide for Norwegian Forest Cats",
+        "description": "Caring for the majestic Norwegian Forest Cat. Learn how to fulfill their climbing instincts and manage their dense waterproof triple coat with a 3-step daily routine.",
+        "authority": "The International Cat Association (TICA) Breed Standards & Feline Veterinary Behavior Protocols",
+        "profile": {
+          "breed": "Norwegian Forest Cat (Felis catus)",
+          "lifespan": "12 ~ 16 Years",
+          "sleep_pattern": "14 ~ 16 Hours (Vertical & High-Perch Preferred)",
+          "temperament": "Intelligent, Gentle, Bold, Nature-loving"
+        },
+        "intro": "The Norwegian Forest Cat, affectionately called the 'Wegie', evolved to survive the harsh Scandinavian winters, developing a large, sturdy skeleton and a dense, water-repellent triple coat. As a large feline breed, they possess high active energy and a powerful natural instinct to climb high spaces. 🐈 However, their heavy coat requires consistent grooming to prevent severe hairballs and skin inflammation, while jumping from high towers can place strain on their joints. Today, PetSelf decodes the unique body language of the Norwegian Forest Cat and introduces a 3-step homecare routine to satisfy their vertical drive and protect their coat and joints.",
+        "whyTitle": "Norwegian Forest Cat Body Language: Indicators of Trust and Wild Alertness",
+        "whyDesc": "Norwegian Forest Cats carry a dignified wild presence and communicate their emotions with gentle intelligence. Approaching slowly with a vertical tail slightly curved at the tip like a question mark (?) is a clear sign of deep trust and friendly affection. Conversely, when their pupils dilate and their ears flatten sideways into **'airplane ears'**, it indicates they have sensed a threat or feel anxious in their environment.",
+        "body_signals": [
+          {
+            "name": "Upright Tail Curved Like a Question Mark",
+            "meaning": "A signal of contentment, curiosity, and friendly affection when approaching the owner.",
+            "response": "Respond with a soft, gentle voice and lightly stroke around their head and cheeks to deepen your bond."
+          },
+          {
+            "name": "Dilated Pupils & Flattened Airplane Ears",
+            "meaning": "A state of high tension and alertness triggered by sudden noises or an unfamiliar environment.",
+            "response": "Avoid direct eye contact, and allow the cat to retreat independently to a high cat tree or quiet hideout."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: Dynamic Vertical Hunting Play Session",
+            "text": "Wave feather or laser wands up and down cat towers and poles to stimulate their innate climbing and hunting instincts."
+          },
+          {
+            "name": "Afternoon: Undercoat De-Shedding Brushing for Water-Repellent Triple Coat",
+            "text": "Use a slicker brush and a steel comb to comb deeply into mat-prone areas like the armpits and chest ruff, removing dead undercoat."
+          },
+          {
+            "name": "Evening: Landing Zone Shock Absorption Check & Claw Trimming",
+            "text": "Place shock-absorbing mats beneath high landing spots of cat trees, and trim claws regularly to prevent slipping injuries on floors."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Is their shedding significantly worse than other cats?",
+            "answer": "Yes. Due to their dense double/triple coat, they shed heavily during seasonal changes in spring and autumn. Brushing at least twice daily during shedding season is essential to prevent hairballs."
+          },
+          {
+            "question": "Is it true that Norwegian Forest Cats love water?",
+            "answer": "Because they are a natural breed with water-repellent guard hairs, many show less fear around water. However, forcing them into baths causes extreme stress, so never force water bathing."
+          }
+        ],
+        "tags": [
+          "NorwegianForestCat",
+          "TripleCoatCare",
+          "LargeCatJoints",
+          "VerticalPlay"
+        ]
+      },
+      "ja": {
+        "title": "森のハンター、ノルウェージャンフォレストキャットの上下運動と三重毛ケアの3ステップ日常ルーティン",
+        "description": "北欧の強靭さを秘めた大型猫ノルウェージャンフォレストキャット。登坂本能を満たす遊びと撥水性のある三重毛の管理法、関節を守る3ステップケアを解説します。",
+        "authority": "国際猫協会(TICA)品種基準および猫臨床行動医学ガイドライン",
+        "profile": {
+          "breed": "ノルウェージャンフォレストキャット (Felis catus / Norwegian Forest Cat)",
+          "lifespan": "12 〜 16年",
+          "sleep_pattern": "14 〜 16時間（高所アクティブ型）",
+          "temperament": "聡明、温厚、自然を愛する、大まか・堂々としている"
+        },
+        "intro": "ノルウェージャンフォレストキャットは、北欧の過酷な冬に耐えるため進化してきた大きな骨格と、高い防水性を持つ密生した三重毛（トリプルコート）を備えた人気の大型猫です。「ノル」の愛称で親しまれる彼らは、非常に活動的で高い場所に登りたがる強い野生本能を持っています。🐈 また、毛量が非常に多く毛玉（ヘアボール）を作りやすいため、定期的で適切な被毛ケアが不可欠です。本日PetSelfでは、ノルウェージャンフォレストキャットの登坂欲求を満たし、美しい被毛と関節の健康を守る3ステップの日常ルーティンをご紹介します。",
+        "whyTitle": "ノルウェージャンのボディランゲージ：野生の気品と信頼のサイン",
+        "whyDesc": "ノルウェージャンフォレストキャットは野生の堂々とした気品を保っており、感情表現が静かで聡明です。尻尾を垂直にピンと立て、先端をゆるやかに疑問符（？）のように曲げて近づくのは、飼い主への深い信頼と愛情の兆しです。一方、瞳孔が大きく開いて耳を横に寝かせる**「イカ耳（Airplane Ears）」**を見せる時は、周囲の環境に強い脅威や不安を感じています。",
+        "body_signals": [
+          {
+            "name": "尻尾を立てて先端を疑問符型に曲げる",
+            "meaning": "非常に満足しており、好奇心に満ちて飼い主に親しく近づく歓迎のサインです。",
+            "response": "優しく穏やかな声で返事をしながら、頭や頬の周りを撫でてあげ、信頼関係を深めましょう。"
+          },
+          {
+            "name": "瞳孔が開き耳を横に寝かせる (イカ耳)",
+            "meaning": "突発的な騒音や見知らぬ環境に対して緊張し、強い警戒心を持っている状態です。",
+            "response": "無理に目を合わせようとせず、猫が安心できる高いキャットタワーや隠れ家に自ら避難できるよう見守りましょう。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：登坂本能を刺激する立体的なハンティング遊び",
+            "text": "キャットタワーやキャットポールの上でじゃらしおもちゃを動かし、特有のクライミング能力と狩猟本能を満たします。"
+          },
+          {
+            "name": "昼：防水三重毛の通気を高めるスリッカー＆コームブラシ",
+            "text": "脇の下や胸元など絡まりやすい部位を中心に、スリッカーブラシと金属コームで奥の死毛をしっかり梳き取ります。"
+          },
+          {
+            "name": "夜：着地時の関節保護マット点検と爪切りケア",
+            "text": "キャットタワーから飛び降りる着地点に衝撃吸収マットを設置し、爪を整えてフローリングでの滑りを防ぎます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "他の猫に比べて抜け毛は非常に激しいですか？",
+            "answer": "はい。豊富な三重毛を持っているため、春と秋の換毛期には大量の抜け毛が発生します。この時期は1日2回以上の丁寧なブラッシングで毛玉（ヘアボール）の飲み込みを防ぐ必要があります。"
+          },
+          {
+            "question": "水遊びが好きというのは本当ですか？",
+            "answer": "自然発生種であり、被毛に強い撥水性があるため水に対する恐怖心が薄い個体が多いです。ただし、無理なお風呂はストレスになりますので、嫌がる場合は無理に洗わないでください。"
+          }
+        ],
+        "tags": [
+          "ノルウェージャンフォレストキャット",
+          "三重毛ケア",
+          "大型猫の関節",
+          "狩り遊び"
+        ]
+      },
+      "zh": {
+        "title": "森林猎手挪威森林猫的垂直空间游戏与三重防水被毛3步日常护理流程",
+        "description": "大型猫种挪威森林猫护理指南。满足其攀爬本能，并通过3步日常护理流程妥善打理防水三重被毛并保护关节健康。",
+        "authority": "国际猫协会 (TICA) 品种标准与猫科临床行为医学指南",
+        "profile": {
+          "breed": "挪威森林猫 (Felis catus / Norwegian Forest Cat)",
+          "lifespan": "12 ~ 16年",
+          "sleep_pattern": "14 ~ 16小时（高空攀爬型）",
+          "temperament": "聪明、温和、大胆、热爱自然"
+        },
+        "intro": "挪威森林猫是为了适应北欧严酷 responses 冬日环境而进化出 responses 天然猫种，拥有庞大结实 responses 骨骼和具备强大防水功能 responses 密实三重被毛。作为深受喜爱 responses 大型猫种，它们体力充沛，且拥有极其强烈 responses 攀爬高处 responses 本能。🐈 此外，由于毛量极大且毛质粗厚，若不定期梳理，极易因吞入过多毛发而患上毛球症或发生皮肤炎。今天 PetSelf 将为您解析挪威森林猫 responses 肢体语言，并分享一套满足其高空运动需求 responses 同时养护丰盈被毛与关节 responses 3步日常护理流程。",
+        "whyTitle": "挪威森林猫 responses 身体语言：野性气场与信任信号",
+        "whyDesc": "挪威森林猫保留着野性 responses 沉稳与高贵，情绪表达极其优雅而聪明。当它们将尾巴高高竖起、末端像问号（？）一样微弯并缓缓靠近时，是表达高度信任与亲近 responses 信号。相反，当它们瞳孔放大、双耳向两侧压平呈现 **“飞机耳（Airplane Ears）”** 时，则意味着它们感知到了外界环境 responses 威胁或不安。",
+        "body_signals": [
+          {
+            "name": "尾巴直立且末端呈问号状",
+            "meaning": "心情非常愉悦且充满好奇，主动靠近家长表达亲密 responses 友好信号。",
+            "response": "用温柔低沉 responses 声音回应，并轻柔地抚摸其头部和脸颊以增进感情。"
+          },
+          {
+            "name": "瞳孔放大与飞机耳 (压平双耳)",
+            "meaning": "因突发 responses 噪音或陌生环境而感到高度紧张 responses 警惕状态。",
+            "response": "切勿强行对视，允许猫咪自行退避至高处 responses 猫爬架或隐蔽 responses 躲避窝中。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早上：激发攀爬本能 responses 立体高空捕猎游戏",
+            "text": "在猫爬架和猫通天柱上下快速移动羽毛逗猫棒，模拟高空捕猎，满足其特有 responses 攀爬运动需求。"
+          },
+          {
+            "name": "中午：针梳与排梳深层梳理防水三重毛",
+            "text": "重点打理腋下、胸前等极易结团 responses 部位，使用针梳与金属排梳深层梳理底毛，防止毛球症。"
+          },
+          {
+            "name": "晚上：大型猫落地点减震垫检查与修剪爪甲",
+            "text": "在猫爬架高空跳落 responses 着地区域铺设减震防滑垫，并定期修剪爪甲以防在光滑地面打滑损伤关节。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "挪威森林猫 responses 掉毛量比其他猫咪更严重吗？",
+            "answer": "是的。由于拥有丰盈 responses 三重被毛，在春秋换毛季时掉毛量非常惊人。在此期间建议每日至少梳毛2次以上，以防止毛球积聚。"
+          },
+          {
+            "question": "听说挪威森林猫不怕水，这是真的吗？",
+            "answer": "作为自然演化品种，它们 responses 外层被毛具有极强 responses 防水性，因此对水 responses 恐惧感通常较低。但强行洗澡依然会引发应激，切勿违背其意愿强行水洗。"
+          }
+        ],
+        "tags": [
+          "挪威森林猫",
+          "三重毛护理",
+          "大型猫关节",
+          "捕猎游戏"
+        ]
+      },
+      "es": {
+        "title": "Guía del cazador del bosque: Juego en espacio vertical y rutina diaria de 3 pasos para el manto triple del Bosque de Noruega",
+        "description": "Cuidados del imponente gato Bosque de Noruega. Conozca cómo satisfacer su instinto de escalada y mantener su pelaje triple impermeable con esta rutina diaria de 3 pasos.",
+        "authority": "Estándares de la Cat Fanciers' Association (TICA) y Directrices de Medicina del Comportamiento Felino",
+        "profile": {
+          "breed": "Gato Bosque de Noruega (Felis catus / Norwegian Forest Cat)",
+          "lifespan": "12 ~ 16 años",
+          "sleep_pattern": "14 ~ 16 horas (patrón activo en alturas)",
+          "temperament": "Inteligente, dócil, valiente, amante de la naturaleza"
+        },
+        "intro": "El gato Bosque de Noruega es una raza natural adaptada para sobrevivir a los gélidos inviernos escandinavos, caracterizada por una estructura ósea grande y un denso manto triple impermeable. Conocidos por su temperamento equilibrado y audaz, poseen una gran energía y un instinto innato para trepar a zonas elevadas. 🐈 Además, su pelaje frondoso requiere una higiene constante para evitar la formación de bolas de pelo, mientras que sus saltos desde grandes alturas exigen protección articular. Hoy, PetSelf analiza el lenguaje corporal del Bosque de Noruega y presenta una rutina de 3 pasos para cuidar su pelaje y satisfacer sus necesidades físicas.",
+        "whyTitle": "Lenguaje corporal del Bosque de Noruega: Señales de confianza y alerta silvestre",
+        "whyDesc": "El Bosque de Noruega conserva una nobleza silvestre con una forma de comunicarse tranquila e inteligente. Acercarse despacio con la cola erguida verticalmente y la punta curvada en forma de signo de interrogación (?) es un claro mensaje de profunda confianza y afecto. Por el contrario, las pupilas dilatadas junto a las **'orejas en avión'** planas señalan que el felino percibe una amenaza o siente ansiedad en su entorno.",
+        "body_signals": [
+          {
+            "name": "Cola erguida con punta curvada en signo de interrogación",
+            "meaning": "Señal de satisfacción y curiosidad que expresa alegría y afecto al acercarse al dueño.",
+            "response": "Responda con voz suave y acaricie con delicadeza la zona de la cabeza y mejillas para fortalecer la unión."
+          },
+          {
+            "name": "Pupilas dilatadas y orejas planas en avión",
+            "meaning": "Estado de alerta y tensión provocado por ruidos repentinos o un ambiente extraño.",
+            "response": "Evite el contacto visual directo y deje que el gato se refugie por sí mismo en un árbol rascador alto o escondite tranquilo."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Juego dinámico de caza vertical en árboles rascadores",
+            "text": "Mueva varitas con plumas arriba y abajo en torres para gatos para estimular su capacidad natural de escalada e instinto cazador."
+          },
+          {
+            "name": "Tarde: Cepillado profundo del manto triple impermeable con carda y peine",
+            "text": "Focalice el cepillado en axilas y pecho para eliminar el subpelo muerto con un peine metálico y carda, evitando nudos y dermatitis."
+          },
+          {
+            "name": "Noche: Verificación de alfombras amortiguadoras y corte de uñas",
+            "text": "Coloque alfombras acolchadas en las zonas de desembarco del rascador para amortiguar el impacto del peso y recorte las uñas para evitar resbalones."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Su pérdida de pelo es más intensa que en otros gatos?",
+            "answer": "Sí. Su manto triple experimenta mudas copiosas durante la primavera y el otoño. Durante estas épocas, es obligatorio cepillar al menos dos veces al día para evitar la ingesta de bolas de pelo."
+          },
+          {
+            "question": "¿Es cierto que a los gatos Bosque de Noruega les gusta el agua?",
+            "answer": "Al ser una raza natural con un pelaje exterior muy impermeable, suelen mostrar poco temor al agua. No obstante, los baños forzados causan un gran estrés, por lo que no debe bañarlo de forma obligada."
+          }
+        ],
+        "tags": [
+          "BosqueDeNoruega",
+          "MantoTriple",
+          "ArticulacionesFelinas",
+          "JuegoDeCaza"
+        ]
+      },
+      "fr": {
+        "title": "Le chasseur des forêts : Jeu en espace vertical et routine quotidienne en 3 étapes pour le pelage triple du Norvégien",
+        "description": "Soin du majestueux chat Norvégien. Répondez à son besoin de grimper et entretenez son pelage triple imperméable grâce à une routine en 3 étapes.",
+        "authority": "Directives de The International Cat Association (TICA) et Éthologie Clinique Féline",
+        "profile": {
+          "breed": "Norvégien (Felis catus / Norwegian Forest Cat)",
+          "lifespan": "12 ~ 16 ans",
+          "sleep_pattern": "14 ~ 16 heures (actif en hauteur)",
+          "temperament": "Intelligent, doux, audacieux, amoureux de la nature"
+        },
+        "intro": "Le chat Norvégien est une race naturelle qui a évolué pour résister aux hivers rigoureux de Scandinavie, développant une puissante ossature et un pelage triple très dense et imperméable. Réputé pour son tempérament calme et majestueux, il possède une grande énergie et un puissant instinct naturel pour l'escalade en hauteur. 🐈 Cependant, son pelage épais nécessite un brossage régulier pour éviter les boules de poils (trichobézoards), tandis que ses réceptions de sauts sollicitent ses articulations. Aujourd'hui, PetSelf décrypte le langage corporel du Norvégien et vous propose une routine en 3 étapes pour entretenir sa fourrure et combler ses besoins physiques.",
+        "whyTitle": "Langage corporel du Norvégien : Signaux de confiance et vigilance sauvage",
+        "whyDesc": "Le Norvégien exprime ses émotions avec calme et intelligence. S'avancer doucement avec la queue dressée verticalement, dont l'extrémité se courbe en point d'interrogation (?), est une marque de confiance totale et d'affection. À l'inverse, des pupilles dilatées accompagnées d'oreilles couchées en **« oreilles d'avion »** indiquent qu'il ressent une menace ou de l'anxiété.",
+        "body_signals": [
+          {
+            "name": "Queue dressée avec extrémité en point d'interrogation",
+            "meaning": "Signal d'apaisement, de curiosité et d'affection amicale lors de l'approche vers son maître.",
+            "response": "Répondez avec une voix douce et caressez gentiment sa tête et ses joues pour renforcer votre complicité."
+          },
+          {
+            "name": "Pupilles dilatées et oreilles en avion (aplaties)",
+            "meaning": "État de tension et de grande vigilance provoqué par un bruit soudain ou un environnement inconnu.",
+            "response": "Évitez le contact visuel direct et laissez le chat se réfugier de lui-même sur un arbre à chat élevé ou dans une cachette calme."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Session de jeu de chasse verticale sur l'arbre à chat",
+            "text": "Agitez des plumeaux ou lasers de haut en bas le long de l'arbre à chat pour stimuler ses capacités d'escalade et son instinct de prédateur."
+          },
+          {
+            "name": "Après-midi : Brossage profond au peigne et à la carde du pelage triple",
+            "text": "Insistez sur la collerette et les aisselles pour retirer le sous-poil mort à l'aide d'un peigne métallique et d'une carde afin d'aérer la peau."
+          },
+          {
+            "name": "Soir : Protection des zones de réception et coupe des griffes",
+            "text": "Installez des tapis amortisseurs aux pieds des arbres à chat pour réduire l'impact sur ses articulations, et coupez ses griffes pour éviter les glissades."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mue-t-il plus que les autres chats ?",
+            "answer": "Oui. Doté d'un pelage triple très fourni, il subit de très fortes mues au printemps et à l'automne. Un brossage au moins deux fois par jour est nécessaire pendant cette période pour éviter les boules de poils."
+          },
+          {
+            "question": "Est-il vrai que le chat Norvégien aime l'eau ?",
+            "answer": "Son poil de couverture imperméable réduit sa peur de l'eau. Cependant, les bains forcés restent très stressants, il ne faut donc jamais le forcer à se baigner."
+          }
+        ],
+        "tags": [
+          "Norvégien",
+          "PelageTriple",
+          "ArticulationsChat",
+          "JeuDeChasse"
+        ]
+      },
+      "de": {
+        "title": "Jäger des Waldes: Kletterspiel und tägliche 3-Schritte-Pflege für das Dreifachfell der Norwegischen Waldkatze",
+        "description": "Pflege für die majestätische Norwegische Waldkatze. Erfüllen Sie den Klettertrieb und pflegen Sie das wasserabweisende Dreifachfell mit dieser 3-Schritte-Routine.",
+        "authority": "Rasse-Standards der The International Cat Association (TICA) und Klinische Verhaltensmedizin für Katzen",
+        "profile": {
+          "breed": "Norwegische Waldkatze (Felis catus / Norwegian Forest Cat)",
+          "lifespan": "12 ~ 16 Jahre",
+          "sleep_pattern": "14 ~ 16 Stunden (aktiv in der Vertikalen)",
+          "temperament": "Intelligent, sanftmütig, kühn, naturliebend"
+        },
+        "intro": "Die Norwegische Waldkatze ist eine Naturrasse, die sich an die harten skandinavischen Winter angepasst hat und ein kräftiges Skelett sowie ein dichtes, wasserabweisendes Dreifachfell besitzt. Bekannt für ihr sanftes und würdevolles Wesen, verfügen sie über viel Energie und einen ausgeprägten Trieb, hohe Plätze zu erklimmen. 🐈 Ihr dichtes Fell erfordert regelmäßige Pflege zur Vermeidung von Haarballen, während Sprünge aus großer Höhe die Gelenke belasten. Heute entschlüsselt PetSelf die Körpersprache der Norwegischen Waldkatze und stellt eine 3-Schritte-Routine für Fell und Bewegung vor.",
+        "whyTitle": "Körpersprache der Norwegischen Waldkatze: Vertrauen und wilde Wachsamkeit",
+        "whyDesc": "Norwegische Waldkatzen besitzen eine ruhige Würde und drücken Gefühle sehr intelligent aus. Ein langsames Annähern mit steil aufgerichteter Rute, deren Spitze sich wie ein Fragezeichen (?) biegt, ist ein Zeichen von tiefem Vertrauen und Zuneigung. Weite Pupillen und flach angelegte **'Frachtflugzeug-Ohren' (Airplane Ears)** signalisieren dagegen, dass die Katze eine Bedrohung wahrnimmt.",
+        "body_signals": [
+          {
+            "name": "Aufgerichtete Rute mit fragezeichenartig gebogener Spitze",
+            "meaning": "Ausdruck von Zufriedenheit und freundlicher Neugier beim Annähern an den Halter.",
+            "response": "Antworten Sie mit ruhiger Stimme und kraulen Sie sanft Kopf und Wangen zur Festigung der Bindung."
+          },
+          {
+            "name": "Weite Pupillen und flache Flugzeug-Ohren",
+            "meaning": "Anspannung und Wachsamkeit durch plötzlichen Lärm oder eine ungewohnte Umgebung.",
+            "response": "Vermeiden Sie direkten Blickkontakt und lassen Sie die Katze selbstständig auf einen hohen Kratzbaum flüchten."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Dynamisches Kletter-Jagdspiel am Kratzbaum",
+            "text": "Bewegen Sie Spielangeln am Kratzbaum hinauf und hinab, um den natürlichen Kletter- und Jagdtrieb auszulasten."
+          },
+          {
+            "name": "Nachmittag: Tiefenpflege des wasserabweisenden Fells mit Zupfbürste und Kamm",
+            "text": "Kämmen Sie verfilzungsgefährdete Zonen wie Achseln und Brustkragen mit Metallkamm und Zupfbürste tief aus, um abgestorbene Unterwolle zu entfernen."
+          },
+          {
+            "name": "Abend: Dämpfung der Landezonen und Krallenpflege",
+            "text": "Legen Sie Dämpfungsmatten unter die Landepunkte hoher Kletterbäume und kürzen Sie die Krallen, um Rutschverletzungen auf glatten Böden zu vermeiden."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Haart die Norwegische Waldkatze stärker als andere Katzen?",
+            "answer": "Ja. Aufgrund des dichten Dreifachfells kommt es im Frühjahr und Herbst zu extrem starkem Fellwechsel. Tägliches Bürsten ist in dieser Zeit Pflicht, um Haarballenbildung vorzubeugen."
+          },
+          {
+            "question": "Stimmt es, dass Norwegische Waldkatzen Wasser mögen?",
+            "answer": "Da sie als Naturrasse ein stark wasserabweisendes Deckhaar besitzen, haben viele Individuen weniger Scheu vor Wasser. Erzwungene Bäder erzeugen jedoch Stress und sollten vermieden werden."
+          }
+        ],
+        "tags": [
+          "NorwegischeWaldkatze",
+          "DreifachfellPflege",
+          "GelenkeGrosserKatzen",
+          "Jagdspiel"
+        ]
+      },
+      "pt": {
+        "title": "Guia do caçador da floresta: Brincadeiras verticais e rotina diária de 3 passos para o pelo triplo do Gato Bosque da Noruega",
+        "description": "Cuidados com o majestoso Gato Bosque da Noruega. Atenda ao seu instinto de escalada e mantenha a pelagem tripla impermeável com esta rotina de 3 passos.",
+        "authority": "Diretrizes da The International Cat Association (TICA) e Protocolos de Medicina Comportamental Felina",
+        "profile": {
+          "breed": "Gato Bosque da Noruega (Felis catus / Norwegian Forest Cat)",
+          "lifespan": "12 ~ 16 anos",
+          "sleep_pattern": "14 ~ 16 horas (perfil ativo de escalada)",
+          "temperament": "Inteligente, dócil, corajoso, amante da natureza"
+        },
+        "intro": "O gato Bosque da Noruega é uma raça natural adaptada para resistir aos rigorosos invernos escandinavos, possuindo uma ossatura forte e uma pelagem tripla extremamente densa e impermeável. Conhecidos pelo temperamento calmo e nobre, possuem alta energia e um instinto poderoso para escalar alturas. 🐈 A sua pelagem espessa exige escovação constante para evitar bolas de pelo (tricobezoares), enquanto saltos de grandes alturas exigem amortecimento articular. Hoje, o PetSelf decodifica a linguagem corporal do Bosque da Noruega e apresenta uma rotina diária de 3 passos para cuidar da pelagem e atender ao seu instinto.",
+        "whyTitle": "Linguagem corporal do Bosque da Noruega: Sinais de confiança e alerta selvagem",
+        "whyDesc": "O Bosque da Noruega mantém uma postura nobre e comunica-se de forma inteligente. Aproximar-se devagar com a cauda erguida e a ponta curvada em formato de ponto de interrogação (?) é uma demonstração clara de profunda confiança e afeto. Por outro lado, pupilas dilatadas e **'orelhas em avião' (Airplane Ears)** abertas para os lados indicam tensão e percepção de ameaça no ambiente.",
+        "body_signals": [
+          {
+            "name": "Cauda erguida com ponta curvada em ponto de interrogação",
+            "meaning": "Sinal de satisfação e curiosidade que expressa alegria ao aproximar-se do tutor.",
+            "response": "Responda com voz suave e afague a cabeça e bochechas para reforçar o vínculo."
+          },
+          {
+            "name": "Pupilas dilatadas e orelhas em avião (achatadas)",
+            "meaning": "Estado de tensão e alerta provocado por barulhos repentinos ou ambientes estranhos.",
+            "response": "Evite contato visual direto e permita que o gato se refugie sozinho num arranhador alto ou esconderijo calmo."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Brincadeira de caça vertical em arranhadores altos",
+            "text": "Mova varinhas de penas para cima e para baixo em torres para gatos para estimular a habilidade de escalada e o instinto caçador."
+          },
+          {
+            "name": "Tarde: Escovação profunda do pelo triplo com rasqueadeira e pente de metal",
+            "text": "Escove áreas de atrito como axilas e peitoral para remover o subpelo morto e evitar nós e dermatites."
+          },
+          {
+            "name": "Noite: Amortecimento de impacto na área de pouso e corte de unhas",
+            "text": "Coloque tapetes acolchoados sob os pontos de desembarque de arranhadores e corte as unhas para evitar escorregões."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "A queda de pelos é mais intensa do que em outros gatos?",
+            "answer": "Sim. A pelagem tripla espessa solta muitos pelos durante a primavera e o outono. Nesses períodos, escovar pelo menos duas vezes ao dia é fundamental para evitar a formação de bolas de pelo."
+          },
+          {
+            "question": "É verdade que os gatos Bosque da Noruega gostam de água?",
+            "answer": "Como raça natural com pelagem externa impermeável, muitos exemplares têm menos medo de água. No entanto, banhos forçados geram estresse e não devem ser impostos."
+          }
+        ],
+        "tags": [
+          "BosqueDaNoruega",
+          "PelagemTripla",
+          "ArticulaçõesFelinas",
+          "JogoDeCaça"
+        ]
+      },
+      "id": {
+        "title": "Pemburu dari Hutan: Permainan Vertikal dan Rutinitas Harian 3 Langkah Perawatan Bulu Triple Coat Kucing Hutan Norwegia",
+        "description": "Cara merawat kucing Hutan Norwegia yang anggun. Penuhi insting memanjat mereka dan kelola bulu triple coat tahan air dengan 3 langkah rutinitas harian.",
+        "authority": "Standar Ras The International Cat Association (TICA) & Panduan Kedokteran Perilaku Kucing",
+        "profile": {
+          "breed": "Kucing Hutan Norwegia (Felis catus / Norwegian Forest Cat)",
+          "lifespan": "12 ~ 16 tahun",
+          "sleep_pattern": "14 ~ 16 jam (pola aktif di tempat tinggi)",
+          "temperament": "Cerdas, lembut, berani, pencinta alam"
+        },
+        "intro": "Kucing Hutan Norwegia adalah ras alami yang berevolusi untuk bertahan di musim dingin Skandinavia yang ekstrem, memiliki kerangka tubuh besar dan bulu triple coat lebat yang tahan air. Dikenal dengan sebutan 'Wegie', mereka adalah kucing besar yang energik dengan insting memanjat yang sangat kuat. 🐈 Bulu tebal mereka memerlukan penyisiran rutin untuk mencegah gumpalan bulu (hairball), sementara lompatan dari tempat tinggi membutuhkan perlindungan sendi. Hari ini, PetSelf mengulas bahasa tubuh kucing Hutan Norwegia dan membagikan 3 langkah rutinitas harian untuk merawat bulu dan kesehatan mereka.",
+        "whyTitle": "Bahasa Tubuh Kucing Hutan Norwegia: Sinyal Kepercayaan dan Kewaspadaan Liar",
+        "whyDesc": "Kucing Hutan Norwegia memiliki ekspresi yang tenang dan cerdas. Mendekat secara perlahan dengan ekor tegak lurus dan ujungnya melengkung seperti tanda tanya (?) adalah tanda kepercayaan dan kasih sayang yang mendalam. Sebaliknya, pupil mata yang membesar dengan telinga rata ke samping **'Telinga Pesawat' (Airplane Ears)** menandakan kucing merasa terancam atau cemas.",
+        "body_signals": [
+          {
+            "name": "Ekor tegak dengan ujung melengkung seperti tanda tanya",
+            "meaning": "Sinyal keramahan, rasa puas, dan keinginan untuk berinteraksi dengan pemilik.",
+            "response": "Sambut dengan suara lembut dan elus area kepala serta pipinya untuk mempererat ikatan."
+          },
+          {
+            "name": "Pupil membesar dan telinga rata ke samping (Telinga Pesawat)",
+            "meaning": "Kondisi tegang dan waspada yang dipicu oleh suara bising mendadak atau lingkungan asing.",
+            "response": "Hindari kontak mata langsung dan biarkan kucing berpindah sendiri ke pohon kucing yang tinggi atau tempat sembunyi yang tenang."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Permainan Berburu Vertikal di Pohon Kucing",
+            "text": "Ayunkan mainan pancingan bulu naik dan turun di pohon kucing (cat tower) untuk memuaskan insting memanjat dan berburu alami mereka."
+          },
+          {
+            "name": "Siang: Menyikat Bulu Lapisan Dalam Tahan Air dengan Sikat Slicker dan Sisir Besi",
+            "text": "Sisir area rawan kusut seperti ketiak dan bulu dada hingga ke lapisan dalam menggunakan sisir besi dan sikat slicker untuk mengangkat bulu mati."
+          },
+          {
+            "name": "Malam: Pemeriksaan Karpet Peredam Pendaratan & Pemotongan Kuku",
+            "text": "Pasang matras peredam benturan di area pendaratan pohon kucing untuk melindungi sendi tubuh besarnya, serta potong kuku secara rutin agar tidak licin."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apakah kerontokan bulu Kucing Hutan Norwegia sangat parah dibanding kucing lain?",
+            "answer": "Ya. Memiliki bulu triple coat yang lebat membuat mereka mengalami kerontokan sangat banyak pada pergantian musim semi dan gugur. Menyikat bulu minimal dua kali sehari selama periode ini sangat penting untuk mencegah hairball."
+          },
+          {
+            "question": "Apakah benar Kucing Hutan Norwegia menyukai air?",
+            "answer": "Karena merupakan ras alami dengan bulu terluar yang kedap air, banyak dari mereka yang tidak takut pada air. Namun, memandikan secara paksa tetap memicu stres berat, jadi jangan pernah memaksa mereka mandi air."
+          }
+        ],
+        "tags": [
+          "KucingHutanNorwegia",
+          "PerawatanBuluTripleCoat",
+          "SendiKucingBesar",
+          "PermainanBerburu"
         ]
       }
     },

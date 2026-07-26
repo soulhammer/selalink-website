@@ -1,36 +1,36 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "Proteção de articulações e vias respiratórias do Spitz Alemão: rotina de 3 passos"
-description: "Os Spitz Alemães são propensos à luxação patelar e ao colapso traqueal. Descubra dicas para evitar lesões articulares e aliviar problemas respiratórios."
+title: "Proteção de articulações e vias respiratórias do Spitz Alemão: Rotina diária de 3 passos"
+description: "Os Spitz Alemães são propensos à luxação patelar e ao colapso traqueal. Descubra dicas para evitar lesões articulares e aliviar problemas respiratórios com uma rotina de 3 passos."
 pubDate: "2026-01-05"
 updatedDate: "2026-01-05"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Spitz Alemão"]
+tags: ["CuidadoPets","SaudePets","Spitz Alemão / Lulu da Pomerânia (Canis lupus familiaris)"]
 heroImage: "/images/blog/pomeranian_care.png"
 app: "petself"
 formatVersion: 4
-authority: "Guia oficial de raças do American Pomeranian Club e manual veterinário da AVMA"
+authority: "Guia Oficial de Raças do American Pomeranian Club e Manual Veterinário da AVMA"
 steps:
-  - name: "Linguagem corporal do Spitz Alemão: distinguindo o brincar da ansiedade"
-    text: "Os Spitz Alemães são muito expressivos. Os sinais principais incluem a 'posição de convite para brincar' (Play Bow) e 'lamber os lábios'. Quando baixa a parte dianteira do corpo e levanta o quadril, é um convite clássico para brincar. No entanto, se parecer abanar a cauda mas lamber os lábios continuamente, é sinal de ansiedade interna. Não confunda isso com entusiasmo."
-  - name: "Spitz Alemão's Body Language & Signals"
-    text: "* Convite para brincar: Abaixar a parte dianteira e levantar o quadril, representando um convite feliz para brincar. (Responda alegremente jogando um brinquedo ou começando uma brincadeira de perseguição leve.)
+  - name: "Linguagem corporal do Spitz Alemão: Distinguir o brincar da ansiedade"
+    text: "Os Spitz Alemães são muito expressivos e mudam de emoção rapidamente. Os sinais principais incluem a 'posição de convite para brincar' (Play Bow) e 'lamber os lábios' (Lip Licking). Quando baixa a parte dianteira do corpo e levanta o quadril, é um convite clássico para brincar. No entanto, se parecer abanar a cauda mas lamber os lábios continuamente, é um sinal de calma que indica ansiedade ou estresse interno. Não confunda isso com entusiasmo."
+  - name: "Spitz Alemão / Lulu da Pomerânia (Canis lupus familiaris)'s Body Language & Signals"
+    text: "* Convite para brincar (Play Bow): Abaixar a parte dianteira e levantar o quadril, representando um convite feliz e aberto para brincar. (Responda alegremente jogando um brinquedo ou começando uma brincadeira de perseguição leve.)
 
-* Lamber os lábios: Não é expectativa de comida; é um sinal de calma usado para controlar a ansiedade ou o estresse. (Se ver isso durante os passeios, afaste-o do estímulo para garantir sua tranquilidade.)"
+* Lamber os lábios (Lip Licking): Não é expectativa de comida; é um sinal de calma usado para controlar a ansiedade ou estresse ambiental. (Se ver isso durante os passeios ou em locais novos, afaste-o do estímulo para garantir sua tranquilidade.)"
   - name: "Customized 3-Step Home Care Routine"
-    text: "* STEP 1. Manhã: Manutenção antiderrapante e prevenção de saltos: Certifique-se de que os tapetes antiderrapantes estejam bem posicionados. Treine-os para usar escadas para pets em vez de pular.
+    text: "* STEP 1. Manhã: Manutenção antiderrapante e prevenção de saltos: Certifique-se de que os tapetes antiderrapantes estejam bem posicionados ao redor de camas e sofás. Treine-os para usar escadas para pets em vez de pular.
 
-* STEP 2. Tarde: Escovação com escova de pinos contra o pelo: Use uma escova de pinos para escovar suavemente da cauda para a cabeça. Isso evita nós na subpelagem e permite o fluxo de ar na pele.
+* STEP 2. Tarde: Escovação com escova de pinos contra o pelo: Use uma escova de pinos para escovar suavemente da cauda para a cabeça a contrapelo. Isso evita nós na subpelagem e permite o fluxo de ar na pele.
 
-* STEP 3. Noite: Massagem no pescoço e verificação do peitoral para evitar tensão traqueal: Para proteger sua traqueia frágil, use peitoral em Y e evite coleiras. Massageie suavemente as laterais do pescoço para aliviar a tensão."
+* STEP 3. Noite: Massagem no pescoço e verificação do peitoral para evitar tensão traqueal: Para proteger sua traqueia frágil, use peitoral em forma de Y e evite coleiras. Massageie suavemente as laterais do pescoço para aliviar a tensão muscular."
 faqs:
-  - question: "O que devo fazer quando o meu Spitz Alemão faz um grasnido de ganso?"
-    answer: "Isso costuma ser um sintoma de colapso traqueal. Mantenha a calma, pegue o pet no colo, acaricie o pescoço ou tampe as narinas por 1 segundo para forçar a respiração nasal."
+  - question: "O que devo fazer quando o meu Spitz Alemão faz um grasnido de ganso ao respirar?"
+    answer: "Isso costuma ser um sintoma de colapso traqueal. Mantenha a calma, pegue o pet no colo, acaricie o pescoço suavemente ou tape as narinas por 1 segundo para forçar a respiração nasal e interromper o espasmo."
   - question: "É possível curar a luxação patelar sem cirurgia, apenas com cuidados em casa?"
-    answer: "Graus avançados (Grau 3 ou 4) requerem correção cirúrgica. Os cuidados em casa (peso saudável, evitar pisos lisos e exercícios) servem no Grau 1 ou 2 para retardar a evolução."
+    answer: "Graus avançados (Grau 3 ou 4) com deformidade física requerem correção cirúrgica. Os cuidados em casa (peso saudável, evitar pisos lisos e fortalecimento muscular) servem no Grau 1 ou 2 para retardar a evolução."
 ---
 
-Os Spitz Alemães são cães toy populares, amados por sua pelagem fofa e andar confiante. São extrovertidos e inteligentes, mas sua herança de caça pode torná-los sensíveis a sons e propensos a latir. 🐕 Os donos frequentemente enfrentam duas preocupações: a luxação patelar e o colapso traqueal (que causa uma tosse parecida com grasnido de ganso). Essas condições pioram em pisos rescorregadios. Hoje, o PetSelf apresenta uma rotina de 3 passos para as articulações e traqueia.
+Os Spitz Alemães (Lulu da Pomerânia) são cães toy populares, amados por sua pelagem dupla fofa e andar confiante. São extrovertidos e inteligentes, mas sua herança do grupo Spitz pode torná-los sensíveis a sons e propensos a latir. 🐕 Os tutores frequentemente enfrentam duas preocupações de saúde principais: a luxação patelar (patelas deslocadas devido à estrutura óssea fina) e o colapso traqueal (que causa uma tosse parecida com grasnido de ganso). Essas condições pioram em pisos escorregadios. Hoje, o PetSelf apresenta uma rotina de 3 passos para as articulações e traqueia.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -39,36 +39,36 @@ Os Spitz Alemães são cães toy populares, amados por sua pelagem fofa e andar 
       Evidência Veterinária e Comportamental
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Este conteúdo baseia-se em <strong>Guia oficial de raças do American Pomeranian Club e manual veterinário da AVMA</strong>.
+      Este conteúdo baseia-se em <strong>Guia Oficial de Raças do American Pomeranian Club e Manual Veterinário da AVMA</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 1. Linguagem corporal do Spitz Alemão: distinguindo o brincar da ansiedade
+## 1. Linguagem corporal do Spitz Alemão: Distinguir o brincar da ansiedade
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Linguagem corporal do Spitz Alemão: distinguindo o brincar da ansiedade</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Linguagem corporal do Spitz Alemão: Distinguir o brincar da ansiedade</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Os Spitz Alemães são muito expressivos. Os sinais principais incluem a 'posição de convite para brincar' (Play Bow) e 'lamber os lábios'. Quando baixa a parte dianteira do corpo e levanta o quadril, é um convite clássico para brincar. No entanto, se parecer abanar a cauda mas lamber os lábios continuamente, é sinal de ansiedade interna. Não confunda isso com entusiasmo.
+    Os Spitz Alemães são muito expressivos e mudam de emoção rapidamente. Os sinais principais incluem a 'posição de convite para brincar' (Play Bow) e 'lamber os lábios' (Lip Licking). Quando baixa a parte dianteira do corpo e levanta o quadril, é um convite clássico para brincar. No entanto, se parecer abanar a cauda mas lamber os lábios continuamente, é um sinal de calma que indica ansiedade ou estresse interno. Não confunda isso com entusiasmo.
   </p>
 </div>
 
 ---
 
-## 2. Spitz Alemão's Body Language & Signals
+## 2. Spitz Alemão / Lulu da Pomerânia (Canis lupus familiaris)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Sinal Corporal 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Convite para brincar</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Convite para brincar (Play Bow)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Significado:</strong> Abaixar a parte dianteira e levantar o quadril, representando um convite feliz para brincar.<br/>
+    <strong>• Significado:</strong> Abaixar a parte dianteira e levantar o quadril, representando um convite feliz e aberto para brincar.<br/>
     <strong>• Resposta:</strong> Responda alegremente jogando um brinquedo ou começando uma brincadeira de perseguição leve.
   </p>
 </div>
@@ -76,11 +76,11 @@ Os Spitz Alemães são cães toy populares, amados por sua pelagem fofa e andar 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Sinal Corporal 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Lamber os lábios</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Lamber os lábios (Lip Licking)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Significado:</strong> Não é expectativa de comida; é um sinal de calma usado para controlar a ansiedade ou o estresse.<br/>
-    <strong>• Resposta:</strong> Se ver isso durante os passeios, afaste-o do estímulo para garantir sua tranquilidade.
+    <strong>• Significado:</strong> Não é expectativa de comida; é um sinal de calma usado para controlar a ansiedade ou estresse ambiental.<br/>
+    <strong>• Resposta:</strong> Se ver isso durante os passeios ou em locais novos, afaste-o do estímulo para garantir sua tranquilidade.
   </p>
 </div>
 
@@ -94,7 +94,7 @@ Os Spitz Alemães são cães toy populares, amados por sua pelagem fofa e andar 
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Manhã: Manutenção antiderrapante e prevenção de saltos</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Certifique-se de que os tapetes antiderrapantes estejam bem posicionados. Treine-os para usar escadas para pets em vez de pular.
+    Certifique-se de que os tapetes antiderrapantes estejam bem posicionados ao redor de camas e sofás. Treine-os para usar escadas para pets em vez de pular.
   </p>
 </div>
 
@@ -104,7 +104,7 @@ Os Spitz Alemães são cães toy populares, amados por sua pelagem fofa e andar 
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: Escovação com escova de pinos contra o pelo</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Use uma escova de pinos para escovar suavemente da cauda para a cabeça. Isso evita nós na subpelagem e permite o fluxo de ar na pele.
+    Use uma escova de pinos para escovar suavemente da cauda para a cabeça a contrapelo. Isso evita nós na subpelagem e permite o fluxo de ar na pele.
   </p>
 </div>
 
@@ -114,7 +114,7 @@ Os Spitz Alemães são cães toy populares, amados por sua pelagem fofa e andar 
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noite: Massagem no pescoço e verificação do peitoral para evitar tensão traqueal</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Para proteger sua traqueia frágil, use peitoral em Y e evite coleiras. Massageie suavemente as laterais do pescoço para aliviar a tensão.
+    Para proteger sua traqueia frágil, use peitoral em forma de Y e evite coleiras. Massageie suavemente as laterais do pescoço para aliviar a tensão muscular.
   </p>
 </div>
 
@@ -129,11 +129,11 @@ Os Spitz Alemães são cães toy populares, amados por sua pelagem fofa e andar 
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>O que devo fazer quando o meu Spitz Alemão faz um grasnido de ganso?</span>
+      <span>O que devo fazer quando o meu Spitz Alemão faz um grasnido de ganso ao respirar?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Isso costuma ser um sintoma de colapso traqueal. Mantenha a calma, pegue o pet no colo, acaricie o pescoço ou tampe as narinas por 1 segundo para forçar a respiração nasal.
+      Isso costuma ser um sintoma de colapso traqueal. Mantenha a calma, pegue o pet no colo, acaricie o pescoço suavemente ou tape as narinas por 1 segundo para forçar a respiração nasal e interromper o espasmo.
     </p>
   </details>
 
@@ -143,7 +143,7 @@ Os Spitz Alemães são cães toy populares, amados por sua pelagem fofa e andar 
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Graus avançados (Grau 3 ou 4) requerem correção cirúrgica. Os cuidados em casa (peso saudável, evitar pisos lisos e exercícios) servem no Grau 1 ou 2 para retardar a evolução.
+      Graus avançados (Grau 3 ou 4) com deformidade física requerem correção cirúrgica. Os cuidados em casa (peso saudável, evitar pisos lisos e fortalecimento muscular) servem no Grau 1 ou 2 para retardar a evolução.
     </p>
   </details>
 </div>

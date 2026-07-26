@@ -5,19 +5,19 @@ description: "다리가 짧은 먼치킨 고양이 케어법. 관절 이상 신�
 pubDate: "2026-05-31"
 updatedDate: "2026-05-31"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","먼치킨 고양이 (Munchkin Cat)"]
+tags: ["반려동물","펫케어","먼치킨 고양이 (Felis catus / Munchkin Cat)"]
 heroImage: "/images/blog/munchkin_care.png"
 app: "petself"
 formatVersion: 4
 authority: "국제고양이애호가협회(CFA) 먼치킨 품종 표준 및 수의 정형외과 가이드라인"
 steps:
   - name: "먼치킨 고양이의 행동 표현: 캥거루 서기와 점프 머뭇거림"
-    text: "먼치킨 고양이는 다리가 짧아 다른 고양이들과 구별되는 특별한 행동을 보입니다. 주변을 살피기 위해 뒷발로 곧게 서는 '캥거루 서기'는 호기심의 표현이며 안전합니다. 그러나 평소 오르내리던 침대나 소파 높이를 두고 '점프를 머뭇거리거나 포기하는 행동'은 관절에 통증을 느끼고 있다는 명확한 이상 신호입니다."
-  - name: "먼치킨 고양이 (Munchkin Cat)의 몸짓 언어와 바디 시그널"
+    text: "먼치킨 고양이는 다리가 짧아 다른 고양이들과 구별되는 특별한 행동을 보입니다. 주변을 살피기 위해 뒷발로 곧게 서는 '캥거루 서기(Kangaroo Standing)'는 호기심의 표현이며 안전합니다. 그러나 평소 오르내리던 침대나 소파 높이를 두고 '점프를 머뭇거리거나 포기하는 행동'은 관절에 통증을 느끼고 있다는 명확한 이상 신호입니다."
+  - name: "먼치킨 고양이 (Felis catus / Munchkin Cat)의 몸짓 언어와 바디 시그널"
     text: "* 캥거루 서기 (뒷발 곧게 서기): 낮은 눈높이를 보완하기 위해 뒷발과 엉덩이만으로 밸런스를 잡아 서는 자연스러운 시선 확장 행동입니다. (일어설 때 미끄러져 골반이나 관절에 무리가 가지 않도록 바닥에 매트나 카페트를 깔아 줍니다.)
 
 * 점프 전 머뭇거림 혹은 포기: 낮은 가구에 올라갈 때도 고개를 몇 번이고 움직이며 재다가 결국 포기하는 척추 및 뒷다리 관절 통증의 경고입니다. (억지로 높은 곳에 오르게 하지 말고 전용 계단이나 경사로를 배치해 주며, 지속 시 정형외과 진단을 받습니다.)"
-  - name: "먼치킨 고양이 (Munchkin Cat) 맞춤형 3단계 홈케어 루틴"
+  - name: "먼치킨 고양이 (Felis catus / Munchkin Cat) 맞춤형 3단계 홈케어 루틴"
     text: "* STEP 1. 아침: 아침 보행 확인 및 걸음걸이 관찰: 일어난 후 걸음걸이에 뻣뻣함이 없는지 살핍니다. 관절이 굳기 쉬운 추운 날씨에는 뒷다리 강직 여부를 세심히 관찰합니다.
 
 * STEP 2. 낮: 바닥 위주의 저지대 굴리기 놀이: 높이 뛰어야 하는 낚싯대 놀이 대신, 바닥으로 굴리는 공이나 쥐 장난감을 이용하여 관절 충격 없이 운동량을 채워 줍니다.
@@ -54,13 +54,13 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">먼치킨 고양이의 행동 표현: 캥거루 서기와 점프 머뭇거림</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    먼치킨 고양이는 다리가 짧아 다른 고양이들과 구별되는 특별한 행동을 보입니다. 주변을 살피기 위해 뒷발로 곧게 서는 '캥거루 서기'는 호기심의 표현이며 안전합니다. 그러나 평소 오르내리던 침대나 소파 높이를 두고 '점프를 머뭇거리거나 포기하는 행동'은 관절에 통증을 느끼고 있다는 명확한 이상 신호입니다.
+    먼치킨 고양이는 다리가 짧아 다른 고양이들과 구별되는 특별한 행동을 보입니다. 주변을 살피기 위해 뒷발로 곧게 서는 '캥거루 서기(Kangaroo Standing)'는 호기심의 표현이며 안전합니다. 그러나 평소 오르내리던 침대나 소파 높이를 두고 '점프를 머뭇거리거나 포기하는 행동'은 관절에 통증을 느끼고 있다는 명확한 이상 신호입니다.
   </p>
 </div>
 
 ---
 
-## 2. 먼치킨 고양이 (Munchkin Cat)의 몸짓 언어와 바디 시그널
+## 2. 먼치킨 고양이 (Felis catus / Munchkin Cat)의 몸짓 언어와 바디 시그널
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ faqs:
 
 ---
 
-## 3. 먼치킨 고양이 (Munchkin Cat) 맞춤형 3단계 홈케어 루틴
+## 3. 먼치킨 고양이 (Felis catus / Munchkin Cat) 맞춤형 3단계 홈케어 루틴
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

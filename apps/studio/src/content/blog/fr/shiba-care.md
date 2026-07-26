@@ -3,7 +3,7 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Indépendance et double pelage du Shiba Inu : routine en 3 étapes"
 description: "Le Shiba Inu est très indépendant et sensible au toucher. Apprenez le brossage de son double pelage et une routine en 3 étapes pour un contact sans stress."
 pubDate: "2026-01-29"
-updatedDate: "2026-01-29"
+updatedDate: "2026-07-26"
 category: "FreshSelf"
 tags: ["SoinAnimaux","SanteAnimaux","Shiba Inu"]
 heroImage: "/images/blog/shiba_care.png"
@@ -12,25 +12,25 @@ formatVersion: 4
 authority: "National Shiba Club of America et directives de modification du comportement de l'IAABC"
 steps:
   - name: "Langage corporel du Shiba Inu : signaux de pression et soulagement du stress"
-    text: "Le Shiba Inu exprime ses limites clairement et discrètement. Les signaux clés incluent détourner le regard et s'ébrouer. Lorsqu'une personne s'approche pour le toucher et qu'il détourne la tête, ce n'est pas un jeu ; c'est une demande polie disant 's'il te plaît, ne me touche pas maintenant'. De même, s'ébrouer après un événement stressant est un mécanisme instinctif pour relâcher la tension physique et réinitialiser son état."
+    text: "Le Shiba Inu exprime ses limites clairement et discrètement. Les signaux clés incluent détourner le regard et s'ébrouer. Lorsqu'une personne s'approche pour le toucher et qu'il détourne la tête, ce n'est pas un jeu ; c'est une demande polie disant 's'il te plaît, ne me touche pas maintenant'. De même, s'ébrouer après un événement stressant est un mécanisme instinctif pour relâcher la tension physique et réinitialiser son état psychologique."
   - name: "Shiba Inu's Body Language & Signals"
-    text: "* Détourner le regard: Une demande polie demandant à l'observateur d'arrêter de s'approcher ou de le toucher. (Si vous voyez cela, n'essayez pas de le toucher. Retirez votre main et laissez-lui de l'espace.)
+    text: "* Détourner le regard: Une demande polie demandant à l'observateur d'arrêter de s'approcher ou de le toucher, exprimant une pression. (Si vous voyez cela, n'essayez pas de le toucher. Retirez votre main et laissez-lui de l'espace.)
 
 * S'ébrouer: Un geste pour relâcher le stress ou la tension physique accumulés récemment. (S'il s'ébroue pendant le brossage, il relâche sa tension. Arrêtez l'activité et laissez-le se reposer.)"
   - name: "Customized 3-Step Home Care Routine"
-    text: "* STEP 1. Matin : Désensibilisation au toucher des zones sensibles: Touchez brièvement leurs pattes ou leurs hanches pendant 1 seconde, puis offrez immédiatement une friandise. Répétez pour créer une association positive.
+    text: "* STEP 1. Matin : Désensibilisation au toucher des zones sensibles: Touchez brièvement leurs pattes ou leurs hanches pendant 1 seconde, puis offrez immédiatement une friandise de haute valeur. Répétez pour créer une association positive.
 
 * STEP 2. Après-midi : Brossage à faible stress du double pelage: Utilisez une carde pour brosser délicatement dans le sens du poil. S'il montre des signes d'inconfort ou grogne, arrêtez immédiatement.
 
 * STEP 3. Soir : Respect de la zone de sécurité indépendante: Lorsque votre Shiba se retire dans sa cage ou son coin de repos, ne le forcez pas à sortir et ne le caressez pas. Laissez-le se reposer dans le calme."
 faqs:
   - question: "Pourquoi mon Shiba Inu crie-t-il pendant le toilettage ?"
-    answer: "C'est le fameux 'Shiba Scream'. Il exprime une peur réelle et une pression, ce n'est pas de la comédie. Arrêtez immédiatement et reprenez l'éducation à la base."
+    answer: "C'est le fameux 'Shiba Scream'. Il exprime une peur réelle et une pression, ce n'est pas de la comédie. Arrêtez immédiatement et reprenez l'éducation à la base, comme le récompenser simplement lorsqu'il regarde la brosse."
   - question: "Pourquoi mon Shiba Inu n'est-il pas aussi affectueux ou frétillant que les autres chiens ?"
-    answer: "Les Shibas ressemblent aux chats et aiment leur espace. Ne pas remuer la queue avec enthousiasme ne signifie pas qu'il ne vous aime pas ; s'allonger calmement près de vous est sa façon de montrer son affection."
+    answer: "Les Shibas ressemblent aux chats et aiment leur espace personnel. Ne pas remuer la queue avec enthousiasme ne signifie pas qu'il ne vous aime pas ; s'allonger calmement près de vous est sa façon de montrer son affection."
 ---
 
-Le Shiba Inu est adoré dans le monde entier pour son physique de renard et sa queue enroulée. Cependant, il possède une indépendance de chat, un caractère bien trempé et une nature alerte. 🐕 Les Shibas sont très sensibles au toucher sur les pattes, les oreilles ou la queue. S'ils sont contraints lors du brossage ou de la coupe des griffes, ils poussent souvent un cri aigu dit 'Shiba Scream' en signe de protestation. De plus, ils ont un double pelage épais qui mue fortement. Aujourd'hui, PetSelf explique comment respecter les limites de votre Shiba avec une routine en 3 étapes.
+Le Shiba Inu est adoré dans le monde entier pour son physique de renard et sa queue enroulée. Cependant, il possède une indépendance de chat, un caractère bien trempé et une nature alerte. 🐕 Les Shibas sont très sensibles au toucher sur les pattes, les oreilles ou la queue. S'ils sont contraints lors du brossage ou de la coupe des griffes, ils poussent souvent un cri aigu dit 'Shiba Scream' en signe de protestation. De plus, ils ont un double pelage épais qui mue fortement lors des changements de saison. Aujourd'hui, PetSelf explique comment respecter les limites de votre Shiba avec une routine en 3 étapes.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -54,7 +54,7 @@ Le Shiba Inu est adoré dans le monde entier pour son physique de renard et sa q
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Langage corporel du Shiba Inu : signaux de pression et soulagement du stress</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Le Shiba Inu exprime ses limites clairement et discrètement. Les signaux clés incluent détourner le regard et s'ébrouer. Lorsqu'une personne s'approche pour le toucher et qu'il détourne la tête, ce n'est pas un jeu ; c'est une demande polie disant 's'il te plaît, ne me touche pas maintenant'. De même, s'ébrouer après un événement stressant est un mécanisme instinctif pour relâcher la tension physique et réinitialiser son état.
+    Le Shiba Inu exprime ses limites clairement et discrètement. Les signaux clés incluent détourner le regard et s'ébrouer. Lorsqu'une personne s'approche pour le toucher et qu'il détourne la tête, ce n'est pas un jeu ; c'est une demande polie disant 's'il te plaît, ne me touche pas maintenant'. De même, s'ébrouer après un événement stressant est un mécanisme instinctif pour relâcher la tension physique et réinitialiser son état psychologique.
   </p>
 </div>
 
@@ -68,7 +68,7 @@ Le Shiba Inu est adoré dans le monde entier pour son physique de renard et sa q
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Détourner le regard</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Signification:</strong> Une demande polie demandant à l'observateur d'arrêter de s'approcher ou de le toucher.<br/>
+    <strong>• Signification:</strong> Une demande polie demandant à l'observateur d'arrêter de s'approcher ou de le toucher, exprimant une pression.<br/>
     <strong>• Reponse:</strong> Si vous voyez cela, n'essayez pas de le toucher. Retirez votre main et laissez-lui de l'espace.
   </p>
 </div>
@@ -94,7 +94,7 @@ Le Shiba Inu est adoré dans le monde entier pour son physique de renard et sa q
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Matin : Désensibilisation au toucher des zones sensibles</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Touchez brièvement leurs pattes ou leurs hanches pendant 1 seconde, puis offrez immédiatement une friandise. Répétez pour créer une association positive.
+    Touchez brièvement leurs pattes ou leurs hanches pendant 1 seconde, puis offrez immédiatement une friandise de haute valeur. Répétez pour créer une association positive.
   </p>
 </div>
 
@@ -133,7 +133,7 @@ Le Shiba Inu est adoré dans le monde entier pour son physique de renard et sa q
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      C'est le fameux 'Shiba Scream'. Il exprime une peur réelle et une pression, ce n'est pas de la comédie. Arrêtez immédiatement et reprenez l'éducation à la base.
+      C'est le fameux 'Shiba Scream'. Il exprime une peur réelle et une pression, ce n'est pas de la comédie. Arrêtez immédiatement et reprenez l'éducation à la base, comme le récompenser simplement lorsqu'il regarde la brosse.
     </p>
   </details>
 
@@ -143,7 +143,7 @@ Le Shiba Inu est adoré dans le monde entier pour son physique de renard et sa q
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Les Shibas ressemblent aux chats et aiment leur espace. Ne pas remuer la queue avec enthousiasme ne signifie pas qu'il ne vous aime pas ; s'allonger calmement près de vous est sa façon de montrer son affection.
+      Les Shibas ressemblent aux chats et aiment leur espace personnel. Ne pas remuer la queue avec enthousiasme ne signifie pas qu'il ne vous aime pas ; s'allonger calmement près de vous est sa façon de montrer son affection.
     </p>
   </details>
 </div>

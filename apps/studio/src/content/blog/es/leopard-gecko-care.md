@@ -5,15 +5,15 @@ description: "Guía completa de cuidado para el Gecko Leopardo. Interpreta el mo
 pubDate: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Gecko Leopardo (Leopard Gecko)"]
+tags: ["CuidadoMascotas","SaludMascotas","Gecko Leopardo (Eublepharis macularius / Leopard Gecko)"]
 heroImage: "/images/blog/leopard_gecko_care.png"
 app: "petself"
 formatVersion: 4
-authority: "Asociación de Veterinarios de Reptiles y Anfibios (ARAV) Guías de Cuidado"
+authority: "Asociación de Veterinarios de Reptiles y Anfibios (ARAV) Guías de Cuidado y Estándares Clínicos"
 steps:
   - name: "Lenguaje Corporal del Gecko: Movimientos de Cola y Muda de Piel"
     text: "Su cola regordeta es una reserva de grasa y una herramienta de comunicación. Diferenciar el balanceo lento defensivo de la agitación alegre durante la caza previene el estrés."
-  - name: "Gecko Leopardo (Leopard Gecko)'s Body Language & Signals"
+  - name: "Gecko Leopardo (Eublepharis macularius / Leopard Gecko)'s Body Language & Signals"
     text: "* Balanceo Lento de Cola en Forma de 'S' (Slow Tail Waving): Señal de advertencia defensiva de alta alerta cuando se siente amenazado o asustado. (Detén la manipulación de inmediato, retira la mano despacio y deja que se refugie.)
 
 * Piel Pálida Blanquecina y Frotado de Ojos (Pre-Shedding Signal): Inicio del proceso de muda de piel; las capas viejas se desprenden y requieren alta humedad. (Pulveriza agua tibia en la cueva húmeda para elevar la humedad por encima del 70%.)"
@@ -39,7 +39,7 @@ El Gecko Leopardo es el reptil doméstico más popular del mundo. Según la ARAV
       Evidencia Veterinaria y Comportamental
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Este contenido se basa en <strong>Asociación de Veterinarios de Reptiles y Anfibios (ARAV) Guías de Cuidado</strong>.
+      Este contenido se basa en <strong>Asociación de Veterinarios de Reptiles y Anfibios (ARAV) Guías de Cuidado y Estándares Clínicos</strong>.
     </p>
   </div>
 </div>
@@ -60,7 +60,7 @@ El Gecko Leopardo es el reptil doméstico más popular del mundo. Según la ARAV
 
 ---
 
-## 2. Gecko Leopardo (Leopard Gecko)'s Body Language & Signals
+## 2. Gecko Leopardo (Eublepharis macularius / Leopard Gecko)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

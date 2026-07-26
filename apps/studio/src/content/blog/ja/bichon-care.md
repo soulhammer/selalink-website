@@ -5,32 +5,32 @@ description: "アフロヘアーのような頭で人気のビション・フリ
 pubDate: "2026-05-10"
 updatedDate: "2026-05-10"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","ビション・フリーゼ"]
+tags: ["ペットケア","ペット健康","ビション・フリーゼ (Bichon Frise)"]
 heroImage: "/images/blog/bichon_care.png"
 app: "petself"
 formatVersion: 4
 authority: "Bichon Frise Club of Americaガイドライン＆AVMA獣医学指針"
 steps:
   - name: "ビション・フリーゼのボディランゲージ：ビションタイムと関心のサイン"
-    text: "ビションは興奮すると室内を激しく走り回る「ビションタイム（Bichon Blitz）」を行い、エネルギーを消費します。これは自然な本能です。また、飼い主の足や腕を前脚で軽くたたく「前脚タッチ」は、関心を求め遊ぼうと誘うサインです。"
-  - name: "ビション・フリーゼ's Body Language & Signals"
-    text: "* ビションタイム (Bichon Blitz): 体内に溜まったエネルギーを、激しい走りを通じて発散させる本能的な遊び行動です. (走る進路にある障害物を片付け、滑り止めマットの上で自然に止まるまで見守ってください。)
+    text: "ビション・フリーゼは興奮すると室内を激しく走り回る「ビションタイム（Bichon Blitz）」を行い、体内のエネルギーを瞬間的に消費します。これは本能的なエネルギー発散行動です。また、飼い主の膝や腕を前脚で軽くたたく「前脚タッチ（Paw Tap）」は、注意を引いて遊んでほしいと伝える愛らしく平和的なサインです。"
+  - name: "ビション・フリーゼ (Bichon Frise)'s Body Language & Signals"
+    text: "* ビションタイム (Bichon Blitz): 体内に溜まった余剰エネルギーを激しい動きによって素早く発散させる本能的な遊び要求行動です。 (走るルートにある家具の角に protective パッドを設置し、滑り止めマットを敷いて自然に止まるまで静かに見守りましょう。)
 
-* 前脚タッチ (Paw Tap): 自分に注意を向け、スキンシップを求めるビション特有のフレンドリーなコミュニケーションです. (優しく目を合わせながらなでてあげるか、簡単な芸の練習で脳に刺激を与えてください。)"
+* 前脚タッチ (Paw Tap): 自分に関心を取り、ふれあいを求めるビション・フリーゼ特有の平和で友好的なコミュニケーションです。 (優しく目を合わせてから撫でてあげるか、簡単な「おすわり/お手」のトレーニングで認知的な刺激を与えてあげましょう。)"
   - name: "Customized 3-Step Home Care Routine"
-    text: "* STEP 1. 朝：軽いおもちゃ追いかけとターグ遊び: 家具への衝突を防ぐため、朝に柔らかい布製のおもちゃで軽く引っ張り合いをしてエネルギーを消費させます.
+    text: "* STEP 1. 朝：軽いおもちゃ追いかけとターグ遊び: 家具やドア枠への衝突を防ぐため、朝は柔らかい布製のおもちゃを揺らして引っ張り合いをしてエネルギーを徐々に消費させ、リラックス状態へと導きます。
 
-* STEP 2. 昼：スリッカーとコームを交差させた10分間ブラシ練習: 縮れた巻き毛が皮膚を引っ張らないよう、スプレーを吹きかけてからお腹や脚の内側をスリッカーでほぐし、コームで確認します.
+* STEP 2. 昼：スリッカーとコームを交差させた10分間ブラッシング: 密生した巻き毛の束が皮膚を締め付けないよう、ブラッシングミストを吹きかけてからお腹や脚の内側をスリッカーでほぐし、スチールコームで毛筋ごとに一本ずつもつれがないか確認します。
 
-* STEP 3. 夜：極細コームによる目元の毛梳きと涙やけの乾燥: 白い毛が涙で汚れたり皮膚炎を起こさないよう、目の周りを極細コームで整え、水分をコットンで拭き取ります."
+* STEP 3. 夜：極細コームによる目元ケアと涙やけの乾燥: 白い被毛が涙で汚れたり皮膚炎を起こしたりしないよう、目の周りを専用の顔用コームで整え、目元の水分をコットンで乾かすように拭き取ります。"
 faqs:
-  - question: "ビションタイムにはどうやって落ち着かせればいいですか？"
-    answer: "ビションタイムは自然な感情表現です. 無理に捕まえようと叫ぶと、遊びと勘違いしてさらに激しく走ります。滑って怪我をしないようマットを整え、見守ってください."
+  - question: "ビションタイム（Bichon Blitz）の時はどうやって落ち着かせればいいですか？"
+    answer: "ビションタイムは非常に自然な感情発散行動です。無理に捕まえたり大声を出すと遊びと勘違いしてますます激しく走ってしまいます。フローリングで滑って膝蓋骨脱臼を起こさないようマットを整え、静かに見守って自然に落ち着くのを待ちましょう。"
   - question: "ビション・フリーゼの毛のもつれはなぜ危険ですか？"
-    answer: "ビションの毛は細く絡まりやすいため, 放置すると束になって固まります。これが皮膚を締め付け血行を悪くし, 皮膚炎を引き起こす原因になります。"
+    answer: "ビションの毛は細く密生した巻き毛のため、ブラッシングを怠ると毛同士が絡まり合って分厚いフェルト状の毛玉になります。この状態が長く続くと毛根を引っ張って皮膚を締め付け、血行を阻害して接触性皮膚炎やかゆみを引き起こします。"
 ---
 
-綿あめのように白くふわふわしたビション・フリーゼは、陽気で愛嬌があり人気の犬種です。しかし、細い巻き毛はブラッシングを怠ると根元から絡まり、皮膚炎の原因になります。また、突然猛スピードで走り回る行動（ビションタイム）は関節に大きな負担をかけます。本日、PetSelfではビションのしぐさを理解し、巻き毛と関節を守る3段階ルーティンを紹介します。 毎日の継続的なケアと安全な環境を提供することで、ペットの長期的で健やかな健康を維持できます。
+綿あめのように白くふわふわしたビション・フリーゼは、地道で陽気な性格と愛嬌で多くの飼い主に幸せを与える犬種です。しかし、細く密生したダブルコートの巻き毛はブラッシングを怠るとアンダーコートから固まり、耳や足の周りのもつれは接触性皮膚炎を直接引き起こします。また、室内で過剰なエネルギーが爆発する猛スピードのダッシュ行動（ビションタイム、FRAPs）は膝蓋骨や脊椎に大きな負担を与えます。本日PetSelfでは、ビションの楽しげなボディランゲージを解読し、毛玉を防ぐブラッシングとビションタイム時のケガ予防を助ける3段階ケア operational ルーティンをご紹介します。
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -54,13 +54,13 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">ビション・フリーゼのボディランゲージ：ビションタイムと関心のサイン</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    ビションは興奮すると室内を激しく走り回る「ビションタイム（Bichon Blitz）」を行い、エネルギーを消費します。これは自然な本能です。また、飼い主の足や腕を前脚で軽くたたく「前脚タッチ」は、関心を求め遊ぼうと誘うサインです。
+    ビション・フリーゼは興奮すると室内を激しく走り回る「ビションタイム（Bichon Blitz）」を行い、体内のエネルギーを瞬間的に消費します。これは本能的なエネルギー発散行動です。また、飼い主の膝や腕を前脚で軽くたたく「前脚タッチ（Paw Tap）」は、注意を引いて遊んでほしいと伝える愛らしく平和的なサインです。
   </p>
 </div>
 
 ---
 
-## 2. ビション・フリーゼ's Body Language & Signals
+## 2. ビション・フリーゼ (Bichon Frise)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -68,8 +68,8 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">ビションタイム (Bichon Blitz)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• 意味:</strong> 体内に溜まったエネルギーを、激しい走りを通じて発散させる本能的な遊び行動です.<br/>
-    <strong>• 対処法:</strong> 走る進路にある障害物を片付け、滑り止めマットの上で自然に止まるまで見守ってください。
+    <strong>• 意味:</strong> 体内に溜まった余剰エネルギーを激しい動きによって素早く発散させる本能的な遊び要求行動です。<br/>
+    <strong>• 対処法:</strong> 走るルートにある家具の角に protective パッドを設置し、滑り止めマットを敷いて自然に止まるまで静かに見守りましょう。
   </p>
 </div>
 
@@ -79,8 +79,8 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">前脚タッチ (Paw Tap)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• 意味:</strong> 自分に注意を向け、スキンシップを求めるビション特有のフレンドリーなコミュニケーションです.<br/>
-    <strong>• 対処法:</strong> 優しく目を合わせながらなでてあげるか、簡単な芸の練習で脳に刺激を与えてください。
+    <strong>• 意味:</strong> 自分に関心を取り、ふれあいを求めるビション・フリーゼ特有の平和で友好的なコミュニケーションです。<br/>
+    <strong>• 対処法:</strong> 優しく目を合わせてから撫でてあげるか、簡単な「おすわり/お手」のトレーニングで認知的な刺激を与えてあげましょう。
   </p>
 </div>
 
@@ -94,27 +94,27 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">朝：軽いおもちゃ追いかけとターグ遊び</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    家具への衝突を防ぐため、朝に柔らかい布製のおもちゃで軽く引っ張り合いをしてエネルギーを消費させます.
+    家具やドア枠への衝突を防ぐため、朝は柔らかい布製のおもちゃを揺らして引っ張り合いをしてエネルギーを徐々に消費させ、リラックス状態へと導きます。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">昼：スリッカーとコームを交差させた10分間ブラシ練習</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">昼：スリッカーとコームを交差させた10分間ブラッシング</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    縮れた巻き毛が皮膚を引っ張らないよう、スプレーを吹きかけてからお腹や脚の内側をスリッカーでほぐし、コームで確認します.
+    密生した巻き毛の束が皮膚を締め付けないよう、ブラッシングミストを吹きかけてからお腹や脚の内側をスリッカーでほぐし、スチールコームで毛筋ごとに一本ずつもつれがないか確認します。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">夜：極細コームによる目元の毛梳きと涙やけの乾燥</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">夜：極細コームによる目元ケアと涙やけの乾燥</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    白い毛が涙で汚れたり皮膚炎を起こさないよう、目の周りを極細コームで整え、水分をコットンで拭き取ります.
+    白い被毛が涙で汚れたり皮膚炎を起こしたりしないよう、目の周りを専用の顔用コームで整え、目元の水分をコットンで乾かすように拭き取ります。
   </p>
 </div>
 
@@ -129,11 +129,11 @@ faqs:
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>ビションタイムにはどうやって落ち着かせればいいですか？</span>
+      <span>ビションタイム（Bichon Blitz）の時はどうやって落ち着かせればいいですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      ビションタイムは自然な感情表現です. 無理に捕まえようと叫ぶと、遊びと勘違いしてさらに激しく走ります。滑って怪我をしないようマットを整え、見守ってください.
+      ビションタイムは非常に自然な感情発散行動です。無理に捕まえたり大声を出すと遊びと勘違いしてますます激しく走ってしまいます。フローリングで滑って膝蓋骨脱臼を起こさないようマットを整え、静かに見守って自然に落ち着くのを待ちましょう。
     </p>
   </details>
 
@@ -143,7 +143,7 @@ faqs:
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      ビションの毛は細く絡まりやすいため, 放置すると束になって固まります。これが皮膚を締め付け血行を悪くし, 皮膚炎を引き起こす原因になります。
+      ビションの毛は細く密生した巻き毛のため、ブラッシングを怠ると毛同士が絡まり合って分厚いフェルト状の毛玉になります。この状態が長く続くと毛根を引っ張って皮膚を締め付け、血行を阻害して接触性皮膚炎やかゆみを引き起こします。
     </p>
   </details>
 </div>

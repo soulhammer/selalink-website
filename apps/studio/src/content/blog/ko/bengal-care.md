@@ -5,7 +5,7 @@ description: "활발하고 지능적인 벵갈 고양이 케어법. 벵갈의 �
 pubDate: "2026-04-18"
 updatedDate: "2026-04-18"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","벵갈 고양이 (Bengal Cat)"]
+tags: ["반려동물","펫케어","벵갈 고양이 (Prionailurus bengalensis × Felis catus)"]
 heroImage: "/images/blog/bengal_care.png"
 app: "petself"
 formatVersion: 4
@@ -13,11 +13,11 @@ authority: "국제고양이협회(TICA) 벵갈 품종 가이드 및 고양이 �
 steps:
   - name: "벵갈 고양이의 감정 표현: 새소리 울음과 꼬리 떨림"
     text: "벵갈 고양이는 매우 의사소통이 활발하며 감정을 명확히 표현합니다. 일반적인 야옹 소리 외에도, 놀이를 요구하거나 지루할 때 새소리와 유사한 '짹짹 소리(Chirping)'를 냅니다. 이 소리와 함께 꼬리를 빠르게 흔드는 행동을 파악해 스트레스성 문제 행동을 예방해 주어야 합니다."
-  - name: "벵갈 고양이 (Bengal Cat)의 몸짓 언어와 바디 시그널"
+  - name: "벵갈 고양이 (Prionailurus bengalensis × Felis catus)의 몸짓 언어와 바디 시그널"
     text: "* 짹짹 소리 (Chirping) 및 큰 울음: 적극적인 상호작용 요구로, 현재 지루함을 느끼고 있으니 신체적/정신적 놀이를 시작해 달라는 신호입니다. (지루해하지 않도록 깃털 낚싯대 등으로 즉시 사냥 놀이를 시작하고 무시하지 않는 것이 중요합니다.)
 
 * 꼬리를 빠르게 흔들며 엉덩이를 치켜드는 자세: 사냥감에 고도로 집중했거나 넘치는 에너지를 주체할 수 없는 극도의 흥분 상태입니다. (레이저 포인터나 자동 장난감을 이용해 넓은 공간을 격렬하게 뛰놀며 사냥 본능을 소모하게 돕습니다.)"
-  - name: "벵갈 고양이 (Bengal Cat) 맞춤형 3단계 홈케어 루틴"
+  - name: "벵갈 고양이 (Prionailurus bengalensis × Felis catus) 맞춤형 3단계 홈케어 루틴"
     text: "* STEP 1. 아침: 고강도 인터랙티브 사냥 놀이: 깃털 낚싯대 장난감을 이용해 15분간 적극적인 놀이를 진행합니다. 사냥감의 빠른 움직임을 흉내 내어 사냥 본능을 자극합니다.
 
 * STEP 2. 낮: 수직 캣타워 안전 점검 및 조망 공간 확보: 높은 곳을 좋아하는 특성에 맞춰 캣타워와 수직 벽선반이 흔들리지 않는지 점검하고, 창밖을 관찰할 수 있는 자리를 마련해 줍니다.
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. 벵갈 고양이 (Bengal Cat)의 몸짓 언어와 바디 시그널
+## 2. 벵갈 고양이 (Prionailurus bengalensis × Felis catus)의 몸짓 언어와 바디 시그널
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ faqs:
 
 ---
 
-## 3. 벵갈 고양이 (Bengal Cat) 맞춤형 3단계 홈케어 루틴
+## 3. 벵갈 고양이 (Prionailurus bengalensis × Felis catus) 맞춤형 3단계 홈케어 루틴
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

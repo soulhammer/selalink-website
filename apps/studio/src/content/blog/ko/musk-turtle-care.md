@@ -5,7 +5,7 @@ description: "가장 널리 키워지는 반수생 거북이 품종인 커먼 �
 pubDate: "2026-04-03"
 updatedDate: "2026-04-03"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","커먼 머스크 터틀 (Common Musk Turtle)"]
+tags: ["반려동물","펫케어","커먼 머스크 터틀 (Sternotherus odoratus / Common Musk Turtle)"]
 heroImage: "/images/blog/musk_turtle_care.png"
 app: "petself"
 formatVersion: 4
@@ -13,11 +13,11 @@ authority: "World Chelonian Association 거북이 위생 가이드 및 반수생
 steps:
   - name: "머스크 터틀의 감정 표현: 다리 쭉 펴기와 등껍질 방어 신호"
     text: "커먼 머스크 터틀은 육지에 올라와 완전히 안심하고 햇살을 즐길 때 '육지 위에서 뒷다리 쭉 펴기(Back-Leg Stretching)' 자세를 취해 몸 표면적을 넓힙니다. 반대로 강한 소리나 위협적인 움직임을 감지하면 머리를 재빨리 삼키는 '머리 숨기기(Shell Retraction)' 행동으로 단단한 껍질 속으로 들어가 자신을 철저히 보호합니다."
-  - name: "커먼 머스크 터틀 (Common Musk Turtle)의 몸짓 언어와 바디 시그널"
+  - name: "커먼 머스크 터틀 (Sternotherus odoratus / Common Musk Turtle)의 몸짓 언어와 바디 시그널"
     text: "* 육지 뒷다리 펴기 (Back-Leg Stretching): UV 램프 아래에서 긴장을 풀고 온몸으로 열을 받으며 체온을 올리는 최적의 릴랙스 상태입니다. (가까이 다가가 깜짝 놀라게 해 물속으로 뛰어들지 않도록 방해를 피하고 멀리서 램프를 작동해 둡니다.)
 
 * 등껍질 속에 몸 숨기기 (Shell Retraction): 위쪽에서 내려다보는 손이나 그림자, 큰 파동에 위협을 느껴 껍질 속으로 도망친 경계 상태입니다. (스스로 진정해 머리를 내밀 때까지 수조 앞에서 급하게 움직이지 말고 한참 물러서 줍니다.)"
-  - name: "커먼 머스크 터틀 (Common Musk Turtle) 맞춤형 3단계 홈케어 루틴"
+  - name: "커먼 머스크 터틀 (Sternotherus odoratus / Common Musk Turtle) 맞춤형 3단계 홈케어 루틴"
     text: "* STEP 1. 아침: 수온 25 ~ 28도 점검 및 영양 균형 사료 공급: 거북이의 대사 작용 활성화를 돕기 위해 온도계 수온을 체크하고 전용 거북이 사료와 영양 사료를 소량 나누어 급여합니다.
 
 * STEP 2. 낮: UV-B 및 열 스팟 램프 오작동 확인: 비타민 D가 부족하면 뼈가 말랑해지는 대사성 골질환(MBD)에 취약해지므로 일광욕 육지용 램프의 불빛 작동 여부를 확인합니다.
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. 커먼 머스크 터틀 (Common Musk Turtle)의 몸짓 언어와 바디 시그널
+## 2. 커먼 머스크 터틀 (Sternotherus odoratus / Common Musk Turtle)의 몸짓 언어와 바디 시그널
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ faqs:
 
 ---
 
-## 3. 커먼 머스크 터틀 (Common Musk Turtle) 맞춤형 3단계 홈케어 루틴
+## 3. 커먼 머스크 터틀 (Sternotherus odoratus / Common Musk Turtle) 맞춤형 3단계 홈케어 루틴
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

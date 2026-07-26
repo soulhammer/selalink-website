@@ -5,15 +5,15 @@ description: "Guia completo de cuidados para o Gecko Leopardo. Interprete os mov
 pubDate: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Gecko Leopardo (Leopard Gecko)"]
+tags: ["CuidadoPets","SaudePets","Gecko Leopardo (Eublepharis macularius / Leopard Gecko)"]
 heroImage: "/images/blog/leopard_gecko_care.png"
 app: "petself"
 formatVersion: 4
-authority: "Associação de Veterinários de Répteis e Anfíbios (ARAV)"
+authority: "Associação de Veterinários de Répteis e Anfíbios (ARAV) & Padrões Clínicos"
 steps:
   - name: "Linguagem Corporal: Balanço da Cauda e Mudança de Pele"
     text: "Sua cauda armazena gordura e serve de comunicação. Diferenciar o balanço lento de defesa do balanço rápido de caça evita estresse."
-  - name: "Gecko Leopardo (Leopard Gecko)'s Body Language & Signals"
+  - name: "Gecko Leopardo (Eublepharis macularius / Leopard Gecko)'s Body Language & Signals"
     text: "* Balanço Lento da Cauda em Formato de 'S' (Slow Tail Waving): Sinal de defesa quando se sente ameaçado ou assustado por algum perigo. (Pare o manuseio imediatamente, retire a mão devagar e deixe-o recuar para a toca.)
 
 * Pele Opaca Esbranquiçada e Fricção nos Olhos (Pre-Shedding Signal): Início do processo de troca de pele (muda); exige alta umidade local. (Umedeça a toca úmida com água morna para elevar a umidade acima de 70%.)"
@@ -39,7 +39,7 @@ O Gecko Leopardo é o réptil de estimação mais querido do mundo. Conforme a A
       Evidência Veterinária e Comportamental
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Este conteúdo baseia-se em <strong>Associação de Veterinários de Répteis e Anfíbios (ARAV)</strong>.
+      Este conteúdo baseia-se em <strong>Associação de Veterinários de Répteis e Anfíbios (ARAV) & Padrões Clínicos</strong>.
     </p>
   </div>
 </div>
@@ -60,7 +60,7 @@ O Gecko Leopardo é o réptil de estimação mais querido do mundo. Conforme a A
 
 ---
 
-## 2. Gecko Leopardo (Leopard Gecko)'s Body Language & Signals
+## 2. Gecko Leopardo (Eublepharis macularius / Leopard Gecko)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

@@ -1,9 +1,9 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "El problema genético detrás de la ternura: Cuidado de 3 pasos para las articulaciones y oídos del Scottish Fold"
-description: "Scottish Folds, famosos por sus orejas caídas. Son propensos a dolor articular genético e infecciones de oído. Descubra una rutina de 3 pasos para las articulaciones y oídos."
+description: "Los Scottish Folds son famosos por sus orejas caídas, pero son genéticamente propensos a dolor articular crónico e infecciones de oído. Descubra cómo usar alfombras protectoras y una rutina de 3 pasos para su higiene articular y auditiva."
 pubDate: "2026-02-10"
-updatedDate: "2026-02-12"
+updatedDate: "2026-07-26"
 category: "FreshSelf"
 tags: ["CuidadoMascotas","SaludMascotas","Scottish Fold"]
 heroImage: "/images/blog/scottish_fold_care.png"
@@ -12,29 +12,29 @@ formatVersion: 4
 authority: "Protocolo de cartílago hereditario de la ISFM (International Society of Feline Medicine) y directrices de GCCF"
 steps:
   - name: "Lenguaje corporal del Fold: Posición de Buda y cola oculta"
-    text: "Los Scottish Folds usan posturas únicas para manejar el dolor articular. Las señales clave incluyen la 'posición de Buda' y la 'cola oculta'. Sentarse con las patas estiradas (posición de Buda) es una postura para aliviar la presión del peso. Ocultar la cola entre las patas advierte de dolor en la cola. Evite tocar su parte trasera cuando vea esto."
+    text: "Los Scottish Folds usan posturas únicas para responder al dolor articular genético. Las dos señales más evidentes son la 'posición de Buda' y la 'cola oculta o caíada'. Sentarse apoyando la cadera con la espalda reclinada y las patas estiradas hacia adelante (posición de Buda) no es un truco tierno; es una postura instintiva para dispersar el peso corporal y aliviar la presión sobre las articulaciones rígidas. Ocultar la cola o mantenerla baja advierte que las vértebras caudales sufren dolor o rigidez. Evite tocar su columna lumbar o cola cuando observe estas actitudes."
   - name: "Scottish Fold's Body Language & Signals"
-    text: "* Posición de Buda: Una postura instintiva para dispersar el peso y reducir el dolor del cartílago. (No les obligue a cambiar de postura. Coloque un cojín suave detrás para apoyar su espalda.)
+    text: "* Posición de Buda: Una postura instintiva para dispersar el peso corporal y reducir el dolor articular causado por la enfermedad hereditaria del cartílago. (No les obligue a cambiar de postura. Coloque un cojín suave detrás para apoyar su espalda cómodamente.)
 
-* Cola oculta o caigunda: Una señal defensiva que muestra que las articulaciones de la cola están rígidas o doloridas. (Deje de tocar la cola o la espalda baja inmediatamente y llévelo a un cojín cómodo.)"
+* Cola oculta o caída: Una señal defensiva que muestra que las articulaciones de la cola están rígidas o doloridas, rechazando el contacto físico. (Deje de tocar la cola o la espalda baja inmediatamente y guíelo suavemente hacia un cojín cómodo.)"
   - name: "Customized 3-Step Home Care Routine"
-    text: "* STEP 1. Mañana: Análisis de marcha y suplementos de cartílago: Observe su marcha durante 30 segundos al despertar. Administre suplementos articulares (glucosamina, MSM) con la comida de la mañana.
+    text: "* STEP 1. Mañana: Análisis de marcha y suplementos de cartílago: Observe su marcha durante 30 segundos al despertar para detectar cojera o rigidez matutina. Administre suplementos para las articulaciones (glucosamina, condroitina, MSM, Omega-3) con su comida de la mañana.
 
-* STEP 2. Tarde: Inspección del canal auditivo y limpieza semanal: Las orejas dobladas acumulan humedad. No use bastoncillos de algodón. Aplique limpiador de oídos, masajee y limpie el residuo exterior con algodón.
+* STEP 2. Tarde: Inspección del canal auditivo y limpieza semanal: Las orejas dobladas acumulan humedad por falta de ventilación. Nunca use bastoncillos de algodón dentro del canal. Aplique gotas de limpiador auricular felino, masajee suavemente la base, deje que la mascota sacuda la cabeza y limpie los residuos externos con una torunda de algodón.
 
-* STEP 3. Noche: Alfombras amortiguadoras de impacto y juego moderado: Saltar causa dolor de cartílago. Coloque alfombras amortiguadoras y juegue a ras de suelo para evitar saltos o giros bruscos."
+* STEP 3. Noche: Alfombras amortiguadoras de impacto y juego moderado: Saltar desde alturas causa un fuerte impacto en el cartílago rígido. Coloque alfombras amortiguadoras en sus zonas de aterrizaje y realice juegos a ras de suelo sin saltos ni giros bruscos."
 faqs:
   - question: "¿La 'posición de Buda' de un Scottish Fold es señal de dolor?"
-    answer: "Sí. Sentarse sobre los glúteos con las patas extendidas es una respuesta instintiva para dispersar el peso corporal, aliviando la presión y el dolor en las articulaciones rígidas."
+    answer: "Sí, absolutamente. Sentarse sobre los glúteos con las patas extendidas es una respuesta instintiva para dispersar el peso corporal, aliviando la presión y dolor en las articulaciones rígidas de las patas y tobillos."
   - question: "¿Por qué no se deben usar bastoncillos para limpiar los oídos del Fold?"
-    answer: "Debido a su oreja doblada, el canal es estrecho y curvo. Los bastoncillos pueden empujar la suciedad hacia adentro y dañar la piel sensible, causando infecciones."
+    answer: "Debido a su oreja doblada, el canal es estrecho y curvo. Los bastoncillos empujan la cera hacia adentro y pueden lesionar la sensible piel del oído, provocando otitis externa bacteriana o micótica."
 ---
 
-Los Scottish Folds cautivan corazones con sus orejas dobladas y apariencia de búho. Tienen una naturaleza dulce y disfrutan de la compañía tranquila de sus dueños. 🐈
+Los Scottish Folds cautivan corazones en todo el mundo con sus orejas dobladas y apariencia de búho o pequeño oso. Tienen una naturaleza dulce, silenciosa y afable, disfrutando de la compañía tranquila al lado de sus dueños. 🐈
 
-Sin embargo, el gen de sus orejas dobladas también causa Osteocondrodiplasia (enfermedad hereditaria del cartílago). Esto endurece el cartílago de sus articulaciones, provocando dolor crónico. Además, sus orejas dobladas restringen el flujo de aire, lo que facilita infecciones.
+Sin embargo, detrás del encanto de sus orejas dobladas se encuentra una grave enfermedad genética llamada Osteocondrodisplasia (enfermedad hereditaria del cartílago). El mismo gen responsable del pliegue en las orejas afecta el desarrollo de los huesos y cartílagos de todo el cuerpo, provocando rigidez articular y dolor crónico en patas y cola. Además, debido a que sus orejas dobladas bloquean el flujo de aire natural, la humedad y suciedad se acumulan fácilmente, volviéndolos propensos a ácaros y otitis externa crónica.
 
-Hoy, PetSelf decodifica las señales de dolor del Scottish Fold e introduce una rutina de 3 pasos para proteger sus articulaciones y oídos.
+Hoy, PetSelf decodifica las señales físicas de dolor del Scottish Fold e introduce una rutina de cuidados de 3 pasos para reducir el impacto en las articulaciones y mantener la higiene auditiva.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -58,7 +58,7 @@ Hoy, PetSelf decodifica las señales de dolor del Scottish Fold e introduce una 
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Lenguaje corporal del Fold: Posición de Buda y cola oculta</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Los Scottish Folds usan posturas únicas para manejar el dolor articular. Las señales clave incluyen la 'posición de Buda' y la 'cola oculta'. Sentarse con las patas estiradas (posición de Buda) es una postura para aliviar la presión del peso. Ocultar la cola entre las patas advierte de dolor en la cola. Evite tocar su parte trasera cuando vea esto.
+    Los Scottish Folds usan posturas únicas para responder al dolor articular genético. Las dos señales más evidentes son la 'posición de Buda' y la 'cola oculta o caíada'. Sentarse apoyando la cadera con la espalda reclinada y las patas estiradas hacia adelante (posición de Buda) no es un truco tierno; es una postura instintiva para dispersar el peso corporal y aliviar la presión sobre las articulaciones rígidas. Ocultar la cola o mantenerla baja advierte que las vértebras caudales sufren dolor o rigidez. Evite tocar su columna lumbar o cola cuando observe estas actitudes.
   </p>
 </div>
 
@@ -72,19 +72,19 @@ Hoy, PetSelf decodifica las señales de dolor del Scottish Fold e introduce una 
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Posición de Buda</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Significado:</strong> Una postura instintiva para dispersar el peso y reducir el dolor del cartílago.<br/>
-    <strong>• Respuesta:</strong> No les obligue a cambiar de postura. Coloque un cojín suave detrás para apoyar su espalda.
+    <strong>• Significado:</strong> Una postura instintiva para dispersar el peso corporal y reducir el dolor articular causado por la enfermedad hereditaria del cartílago.<br/>
+    <strong>• Respuesta:</strong> No les obligue a cambiar de postura. Coloque un cojín suave detrás para apoyar su espalda cómodamente.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Señal Corporal 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Cola oculta o caigunda</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Cola oculta o caída</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Significado:</strong> Una señal defensiva que muestra que las articulaciones de la cola están rígidas o doloridas.<br/>
-    <strong>• Respuesta:</strong> Deje de tocar la cola o la espalda baja inmediatamente y llévelo a un cojín cómodo.
+    <strong>• Significado:</strong> Una señal defensiva que muestra que las articulaciones de la cola están rígidas o doloridas, rechazando el contacto físico.<br/>
+    <strong>• Respuesta:</strong> Deje de tocar la cola o la espalda baja inmediatamente y guíelo suavemente hacia un cojín cómodo.
   </p>
 </div>
 
@@ -98,7 +98,7 @@ Hoy, PetSelf decodifica las señales de dolor del Scottish Fold e introduce una 
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Mañana: Análisis de marcha y suplementos de cartílago</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Observe su marcha durante 30 segundos al despertar. Administre suplementos articulares (glucosamina, MSM) con la comida de la mañana.
+    Observe su marcha durante 30 segundos al despertar para detectar cojera o rigidez matutina. Administre suplementos para las articulaciones (glucosamina, condroitina, MSM, Omega-3) con su comida de la mañana.
   </p>
 </div>
 
@@ -108,7 +108,7 @@ Hoy, PetSelf decodifica las señales de dolor del Scottish Fold e introduce una 
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: Inspección del canal auditivo y limpieza semanal</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Las orejas dobladas acumulan humedad. No use bastoncillos de algodón. Aplique limpiador de oídos, masajee y limpie el residuo exterior con algodón.
+    Las orejas dobladas acumulan humedad por falta de ventilación. Nunca use bastoncillos de algodón dentro del canal. Aplique gotas de limpiador auricular felino, masajee suavemente la base, deje que la mascota sacuda la cabeza y limpie los residuos externos con una torunda de algodón.
   </p>
 </div>
 
@@ -118,7 +118,7 @@ Hoy, PetSelf decodifica las señales de dolor del Scottish Fold e introduce una 
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noche: Alfombras amortiguadoras de impacto y juego moderado</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Saltar causa dolor de cartílago. Coloque alfombras amortiguadoras y juegue a ras de suelo para evitar saltos o giros bruscos.
+    Saltar desde alturas causa un fuerte impacto en el cartílago rígido. Coloque alfombras amortiguadoras en sus zonas de aterrizaje y realice juegos a ras de suelo sin saltos ni giros bruscos.
   </p>
 </div>
 
@@ -137,7 +137,7 @@ Hoy, PetSelf decodifica las señales de dolor del Scottish Fold e introduce una 
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Sí. Sentarse sobre los glúteos con las patas extendidas es una respuesta instintiva para dispersar el peso corporal, aliviando la presión y el dolor en las articulaciones rígidas.
+      Sí, absolutamente. Sentarse sobre los glúteos con las patas extendidas es una respuesta instintiva para dispersar el peso corporal, aliviando la presión y dolor en las articulaciones rígidas de las patas y tobillos.
     </p>
   </details>
 
@@ -147,7 +147,7 @@ Hoy, PetSelf decodifica las señales de dolor del Scottish Fold e introduce una 
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Debido a su oreja doblada, el canal es estrecho y curvo. Los bastoncillos pueden empujar la suciedad hacia adentro y dañar la piel sensible, causando infecciones.
+      Debido a su oreja doblada, el canal es estrecho y curvo. Los bastoncillos empujan la cera hacia adentro y pueden lesionar la sensible piel del oído, provocando otitis externa bacteriana o micótica.
     </p>
   </details>
 </div>

@@ -3,75 +3,131 @@
     "pubDate": "2026-01-20",
     "updatedDate": "2026-01-22",
     "locales": {
+      "ko": {
+        "title": "참지 않는 말티즈? 슬개골과 눈가 건강을 위한 3단계 보호막 루틴",
+        "description": "한국인들이 가장 사랑하는 강아지 말티즈. 유전적으로 취약한 슬개골 탈구 방지 팁과 눈가 눈물자국 관리를 위한 3단계 데일리 교감 루틴을 소개합니다.",
+        "authority": "American Kennel Club (AKC) 공식 견종 가이드 및 IAABC 행동학 프로토콜",
+        "profile": {
+          "breed": "말티즈 (Canis lupus familiaris / Maltese)",
+          "lifespan": "12 ~ 15년",
+          "sleep_pattern": "12 ~ 14시간 (보호자 밀착형)",
+          "temperament": "활발함, 다정다감, 참지 않음"
+        },
+        "intro": "하얗고 부드러운 털과 까만 세 개의 점(눈과 코)이 매력적인 말티즈는 전 세계적으로 오랫동안 큰 사랑을 받아온 반려견입니다. 활발하고 다정다감하지만, 자신의 의사를 아주 명확하게 표현해 간혹 '참지 않는 말티즈'라는 귀여운 별명으로 불리기도 합니다. 🐕\n\n하지만 말티즈를 키우는 반려인이라면 누구나 고민하는 두 가지 치명적인 유전 질환이 있습니다. 첫 번째는 무릎 뼈가 옆으로 빠지는 **슬개골 탈구(Patellar Luxation)**이고, 두 번째는 하얀 얼굴에 붉은 자국을 남기며 피부염을 유발하기 쉬운 **눈물자국(Tear Staining)**입니다. 이 두 가지는 병원 치료도 중요하지만, 일상에서의 보호막 루틴이 평생의 건강을 좌우합니다.\n\n오늘 PetSelf에서는 말티즈의 행동 언어 이해를 돕고, 관절과 눈가를 매일 보호할 수 있는 안전하고 과학적인 3단계 케어 루틴을 소개합니다.",
+        "whyTitle": "말티즈의 바디 랭귀지: 스트레스와 안정의 표현",
+        "whyDesc": "말티즈는 보호자에 대한 의존도가 높은 만큼 자신의 심리적 불안을 조용히 몸짓으로 나타냅니다. 대표적인 카밍 시그널(Calming Signal)은 **'코 핥기(Nose Licking)'**와 **'하품하기(Yawning)'**입니다. 긴장되거나 낯선 환경에 처했을 때 자신의 코를 낼름 핥거나 크게 하품을 하는 행동은 졸려서가 아니라 스스로를 진정시키고 주변에 '공격할 의사가 없으니 나를 위협하지 말아달라'는 평화의 메시지입니다. 이때 보호자가 과도한 스킨십을 계속하면 스트레스 지수가 올라가므로, 뒤로 한 걸음 물러나 공간을 제공해 주는 것이 좋습니다.",
+        "body_signals": [
+          {
+            "name": "하품하기 (Yawning)",
+            "meaning": "졸려서가 아니라 스스로와 상대방을 달래는 '진정해요'의 의사 표시입니다.",
+            "response": "트레이닝이나 발톱 깎기 도중 하품을 하면 즉시 중단하고 휴식을 취하게 하십시오."
+          },
+          {
+            "name": "코 핥기 (Nose Licking)",
+            "meaning": "현재 자신이 처한 상황이 어색하고 불안하다는 자기 진정의 표현입니다.",
+            "response": "안아주거나 낯선 사람이 다가왔을 때 이 행동을 보이면 과도한 접촉을 피하고 거리를 두십시오."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 미끄럼 방지 환경 점검 및 관절 스트레칭",
+            "text": "아침에 일어나 반려견 전용 매트가 밀리지 않았는지 확인하고, 말티즈가 가볍게 기지개를 켤 때 뒷다리 관절 부위를 부드럽게 마사지하여 굳어 있는 근육을 풀어줍니다. 발바닥 패드가 털에 가려지지 않도록 점검하는 것도 필수입니다."
+          },
+          {
+            "name": "낮/오후: 빗질을 이용한 1:1 눈가 위생 관리",
+            "text": "하루 한 번, 미세한 눈곱 빗과 전용 세정액을 사용해 눈 주변의 젖은 털을 정돈해 줍니다. 젖은 상태의 털이 방치되면 붉은 눈물자국과 함께 피부염이 발생하기 쉬우므로, 빗질 후 마른 화장솜으로 남은 수분을 완전히 닦아내 건조하게 유지합니다."
+          },
+          {
+            "name": "저녁: 관절 영양제 급여 및 터치 둔감화 교감",
+            "text": "슬개골 탈구 예방 영양제(콘드로이친 등)를 급여한 뒤, 말티즈가 가장 싫어하는 부위인 발끝을 가볍게 만졌다가 떼며 칭찬 보상을 해 줍니다. 이 둔감화 과정을 거쳐야 발톱 깎기나 관절 점검 시 보호자를 물거나 예민하게 반응하는 것을 예방합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "말티즈는 발을 만지면 왜 싫어하나요?",
+            "answer": "말티즈는 말초 감각이 매우 발달한 소형견으로 발끝에 신경이 집중되어 있어 본능적으로 접촉을 꺼립니다. 강압적인 터치 대신 평소 발끝을 가볍게 댔다가 떼며 칭찬 보상을 해 주는 둔감화 훈련이 필요합니다."
+          },
+          {
+            "question": "소파 계단만 있으면 슬개골 탈구를 완전히 예방할 수 있나요?",
+            "answer": "안전 계단은 충격을 줄여주는 좋은 도구이지만, 미끄러운 마룻바닥과 발바닥 털 관리도 중요합니다. 발바닥 패드 사이의 털을 항상 짧게 정리하고 실내 매트를 깔아주는 것이 병행되어야 시너지 효과가 납니다."
+          }
+        ],
+        "tags": [
+          "말티즈",
+          "슬개골탈구",
+          "눈물자국",
+          "반려견케어"
+        ]
+      },
       "en": {
-        "title": "The Feisty Maltese? A 3-Step Protective Routine for Joint and Eye Care",
-        "description": "Maltese, the most beloved dog. Discover tips to prevent genetically vulnerable patellar luxation and a 3-step daily routine for tear stain management.",
+        "title": "The Spunky Maltese? A 3-Step Protective Routine for Joint and Eye Care",
+        "description": "Maltese, the most beloved companion dog. Discover tips to prevent genetically vulnerable patellar luxation and a 3-step daily bonding routine for tear stain management.",
         "authority": "Official American Kennel Club (AKC) Breed Guide & IAABC Behavioral Protocols",
         "profile": {
-          "breed": "Maltese",
+          "breed": "Maltese (Canis lupus familiaris)",
           "lifespan": "12 ~ 15 years",
           "sleep_pattern": "12 ~ 14 hours (attached to owner)",
           "temperament": "Lively, Affectionate, Spunky"
         },
-        "intro": "Maltese, with their white, silky coat and three black dots (eyes and nose), are beloved companion dogs worldwide. While lively and affectionate, they express their boundaries clearly, earning them a spunky reputation. 🐕\n\nHowever, Maltese owners often worry about two genetic issues: **Patellar Luxation** (dislocated kneecaps) and **Tear Staining**, which causes red streaks and potential skin infections. Daily lifestyle adjustments are crucial for managing these conditions.\n\nToday, PetSelf explores Maltese body language and introduces a safe, 3-step daily care routine to protect their joints and eyes.",
+        "intro": "Maltese dogs, with their white, silky coat and three adorable black dots (eyes and nose), are long-cherished companion dogs around the world. While lively and affectionate, they express their boundaries clearly, earning them a cute 'spunky' reputation. 🐕\n\nHowever, Maltese owners often worry about two critical genetic issues: **Patellar Luxation** (dislocated kneecaps) and **Tear Staining** (epiphora), which leaves red-brown streaks on white fur and easily triggers facial dermatitis. Daily lifestyle protective routines are crucial for managing these conditions.\n\nToday, PetSelf explores Maltese body language and introduces a safe, 3-step daily care routine to protect their joints and eyes.",
         "whyTitle": "Maltese Body Language: Signals of Stress and Comfort",
-        "whyDesc": "As dogs with high dependency on their owners, Maltese silently show their psychological state through body gestures. Typical calming signals include **'nose licking'** and **'yawning'**. When facing a tense or unfamiliar environment, licking their nose or yawning is not due to sleepiness; it is a peaceful message to calm themselves down and ask others not to threaten them. If owners continue excessive contact during this time, their stress increases. It is best to take a step back and give them space.",
+        "whyDesc": "As dogs with high psychological dependency on their owners, Maltese silently express their inner anxiety through subtle body gestures. Typical calming signals include **'Nose Licking'** and **'Yawning'**. When facing a tense or unfamiliar environment, licking their nose or yawning is not due to hunger or sleepiness; it is a peaceful message to soothe themselves and signal 'I mean no harm, please don't threaten me'. If owners continue excessive handling during this time, stress levels spike, so it is best to take a step back and provide space.",
         "body_signals": [
           {
             "name": "Yawning",
-            "meaning": "Not due to sleepiness; it is a 'please calm down' signal to soothe themselves and others.",
-            "response": "If they yawn during training or grooming, stop immediately and provide a quiet space."
+            "meaning": "Not due to fatigue; it is a calming signal saying 'please quiet down' to soothe themselves and those around them.",
+            "response": "If they yawn during training or nail clipping, halt immediately and provide a quiet resting space."
           },
           {
             "name": "Nose Licking",
             "meaning": "An expression of self-soothing when they feel awkward, tense, or anxious in their current situation.",
-            "response": "If shown when held or approached by strangers, stop the physical contact and give them space."
+            "response": "If shown when held or approached by strangers, stop physical contact and step back to grant them space."
           }
         ],
         "daily_routine": [
           {
             "name": "Morning: Slip Prevention Check and Joint Stretching",
-            "text": "Check that pet mats are secure. When your Maltese stretches in the morning, gently massage their hind leg joints to loosen stiff muscles. Ensure paw pad fur is trimmed."
+            "text": "Check that pet mats haven't slipped. When your Maltese stretches in the morning, gently massage their hind leg joints to loosen stiff muscles. Ensure paw pad fur is trimmed to keep pads exposed."
           },
           {
             "name": "Afternoon: 1:1 Eye Hygiene and Combing Routine",
-            "text": "Once a day, comb eye areas with fine-tooth combs and cleaning solutions. Wet fur leads to red stains and infections, so wipe moisture with cotton pads to keep dry."
+            "text": "Once a day, comb eye areas using fine-tooth flea/tear combs and specialized eye cleansing solutions. Damp fur leads to red stains and bacterial dermatitis, so thoroughly dry remaining moisture with a cotton pad."
           },
           {
-            "name": "Evening: Joint Supplement and Paw Desensitization",
-            "text": "Administer joint supplements. Touch their paws gently and immediately reward them with treats. This desensitization prevents aggressive reactions during claw clipping or physical checks."
+            "name": "Evening: Joint Supplement and Paw Touch Desensitization",
+            "text": "Administer joint supplements (such as chondroitin). Gently touch their sensitive paws and immediately offer treats. This desensitization prevents aggressive biting during claw trimming or joint checks."
           }
         ],
         "faqs": [
           {
             "question": "Why do Maltese hate having their paws touched?",
-            "answer": "Maltese are toy dogs with highly developed sensory nerves concentrated in their paws, causing them to instinctively avoid touch. Desensitization training, gently touching the paws and rewarding them, is recommended."
+            "answer": "Maltese are toy dogs with highly developed peripheral sensory nerves concentrated in their paw pads, making them instinctively avoid paw contact. Desensitization training—gently touching paw tips and rewarding with treats—is required rather than forced handling."
           },
           {
             "question": "Can safety stairs completely prevent patellar luxation?",
-            "answer": "While stairs reduce impact, slippery floors and overgrown paw fur also play major roles. You must keep the paw pads trimmed and lay down non-slip mats in the house for optimal results."
+            "answer": "While stairs reduce landing impact, slippery floors and overgrown paw fur also play major roles. You must keep paw pad fur trimmed short and lay down non-slip floor mats indoors for optimal prevention."
           }
         ],
         "tags": [
           "Maltese",
-          "Patellar Luxation",
-          "Tear Staining",
-          "Dog Care"
+          "PatellarLuxation",
+          "TearStaining",
+          "DogCare"
         ]
       },
       "ja": {
         "title": "怒れるマルチーズ？関節と目の健康のための3段階プロテクトルーティン",
-        "description": "日本や韓国で大人気のマルチーズ。遺伝的に弱い膝蓋骨脱臼の予防法と、涙やけケアのための3段階デイリールーティンを紹介します。",
+        "description": "大人気のマルチーズ。遺伝的に弱い膝蓋骨脱臼の予防法と、涙やけケアのための3段階デイリールーティンを紹介します。",
         "authority": "アメリカンケネルクラブ(AKC)公式犬種ガイド＆IAABC行動学プロトコル",
         "profile": {
-          "breed": "マルチーズ",
+          "breed": "マルチーズ (Canis lupus familiaris / Maltese)",
           "lifespan": "12 ~ 15年",
           "sleep_pattern": "12 ~ 14時間（飼い主密着型）",
           "temperament": "活発、甘えん坊、我慢しない"
         },
-        "intro": "白くふわふわした毛並みと黒い3つの点（目と鼻）が愛らしいマルチーズは、世界中で長く愛されてきた愛玩犬です。活発で甘えん坊ですが、自己主張がはっきりしており、「我慢しないマルチーズ」という可愛い別名もあります。🐕\n\nしかし、マルチーズの飼い主なら誰しも直面する2つの遺伝的悩みがあります。1つは膝の骨がずれる**膝蓋骨脱臼（パテラ）**、もう1つは白い顔に赤い跡を残し皮膚炎を起こしやすい**涙やけ（涙管閉塞）**です。これらは日常のルーティンが一生の健康を左右します。\n\n本日、PetSelfではマルチーズのボディランゲージを理解し、関節と目を保護する科学的な3段階ルーティンを紹介します。",
+        "intro": "白くふわふわした毛並みと黒い3つの点（目と鼻）が愛らしいマルチーズは、世界中で長く愛されてきた愛玩犬です。活発で甘えん坊ですが、自己主張がはっきりしており、「我慢しないマルチーズ」という可愛い別名もあります。🐕\n\nしかし、マルチーズの飼い主なら誰しも直面する2つの遺伝的悩みがあります。1つは膝の骨がずれる**膝蓋骨脱臼（パテラ）**、もう1つは白い顔に赤い跡を残し皮膚炎を起こしやすい**涙やけ（涙管閉塞）**です。これらは日常のルーティンが一生の健康を左右します。\n\n本日PetSelfでは、マルチーズのボディランゲージを理解し、関節と目を保護する科学的な3段階ルーティンを紹介します。",
         "whyTitle": "マルチーズのボディランゲージ：ストレスと安定のサイン",
-        "whyDesc": "マルチーズは飼い主への依存度が高い分、心理的な不安を静かにしぐさで表します。代表的なカーミングシグナルは**「鼻舐め」**と**「あくび」**です。緊張したり不慣れな環境に置かれた時、鼻をペロリと舐めたりあくびをする行動は、眠いからではなく自分を落ち着かせ、周囲に「敵意はないから脅かさないで」と伝える平和のサインです。この時に無理なスキンシップを続けるとストレスが高まるため、一歩引いて見守ることが大切です。",
+        "whyDesc": "マルチーズは飼い主への依存度が高い分、心理的な不安を静かにしぐさで表します。代表的なカーミングシグナルは**「鼻舐め（Nose Licking）」**と**「あくび（Yawning）」**です。緊張したり不慣れな環境に置かれた時、鼻をペロリと舐めたりあくびをする行動は、眠いからではなく自分を落ち着かせ、周囲に「敵意はないから脅かさないで」と伝える平和のサインです。この時に無理なスキンシップを続けるとストレスが高まるため、一歩引いて見守ることが大切です。",
         "body_signals": [
           {
             "name": "あくび (Yawning)",
@@ -80,7 +136,7 @@
           },
           {
             "name": "鼻舐め (Nose Licking)",
-            "meaning": "現在の環境が気まずく、不安を感じているサインです。",
+            "meaning": "現在の環境が気まずく、不安を感じている自制のサインです。",
             "response": "抱っこしたり近づいた時にこのサインが出たら、過度な接触をやめ、少し距離を置いてください。"
           }
         ],
@@ -112,31 +168,31 @@
           "マルチーズ",
           "膝蓋骨脱臼",
           "涙やけ",
-          "犬のケア"
+          "愛犬ケア"
         ]
       },
       "zh": {
-        "title": "绝不妥协的马尔济斯？呵护关节与眼部健康的日常3步保护惯例",
-        "description": "深受大家喜爱的马尔济斯犬。介绍预防遗传性膝盖骨脱臼的诀窍，以及用于 management 泪痕的3步日常护理惯例。",
+        "title": "绝不妥协的马尔济斯？呵护关节与眼部健康的日常3步保护护理流程",
+        "description": "深受大家喜爱的马尔济斯犬。介绍预防遗传性膝盖骨脱臼 responses 诀窍，以及用于管理泪痕 responses 3步日常护理流程。",
         "authority": "美国养犬俱乐部 (AKC) 官方犬种指南与 IAABC 行为学协议",
         "profile": {
-          "breed": "马尔济斯犬",
+          "breed": "马尔济斯犬 (Canis lupus familiaris / Maltese)",
           "lifespan": "12 ~ 15年",
           "sleep_pattern": "12 ~ 14小时（依赖家长型）",
           "temperament": "活泼、爱撒娇、绝不妥协"
         },
-        "intro": "马尔济斯犬拥有洁白丝滑的毛发和三个黑色斑点（眼睛和鼻子），是深受全世界喜爱的伴侣犬。它们活泼且充满爱意，但也会非常清晰地表达自己的界限，因此得到了“不妥协的马尔济斯”这一可爱的绰号。🐕\n\n然而，马尔济斯犬的家长们常常担心两个遗传性问题：**膝盖骨脱臼**（髌骨脱位）和易在面部留下红褐色痕迹并诱发皮肤炎的**泪痕**。日常的生活习惯调整对于管理这些状况至关重要。\n\n今天，PetSelf 将带您解读马尔济斯犬的身体语言，并介绍一套安全的日常3步护理惯例，以保护它们的关节和眼睛。",
-        "whyTitle": "马尔济斯的身体语言：压力与放松的表达",
-        "whyDesc": "马尔济斯犬对家长的依赖度很高，因此它们会用微妙的身体姿势默默表达内心的不安。最典型的放松信号（Calming Signal）是“舔鼻子”和“打哈欠”。当处于紧张或陌生的环境中时，它们舔鼻（nose licking）或打大哈欠并不是因为疲倦，而是为了让自己冷静下来，并向周围传递“我没有恶意，请不要伤害我”的和平信息。如果家长此时继续过度抚摸，会导致其压力飙升，因此最好退后一步，给它们留出空间。",
+        "intro": "马尔济斯犬拥有洁白丝滑 responses 毛发和三个黑色斑点（眼睛和鼻子），是深受全世界喜爱 responses 伴侣犬。它们活泼且充满爱意，但也会非常清晰地表达自己 responses 界限，因此得到了“不妥协 responses 马尔济斯”这一可爱的绰号。🐕\n\n然而，马尔济斯犬 responses 家长们常常担心两个遗传性问题：**膝盖骨脱臼**（髌骨脱位）和易在面部留下红褐色痕迹并诱发皮肤炎 responses **泪痕**（溢泪症）。日常 responses 生活习惯调整对于管理这些状况至关重要。\n\n今天 PetSelf 将带您解读马尔济斯犬 responses 身体语言，并介绍一套安全 responses 日常3步护理流程，以保护它们 responses 关节和眼睛。",
+        "whyTitle": "马尔济斯 responses 身体语言：压力与放松 responses 表达",
+        "whyDesc": "马尔济斯犬对家长 responses 依赖度很高，因此它们会用微妙 responses 身体姿势默默表达内心的不安。最典型 responses 放松信号（Calming Signal）是 **“舔鼻子（Nose Licking）”** 和 **“打哈欠（Yawning）”**。当处于紧张或陌生 responses 环境中时，它们舔鼻或打大哈欠并不是因为疲倦，而是为了让自己冷静下来，并向周围传递“我没有恶意，请不要伤害我” responses 和平信息。如果家长此时继续过度抚摸，会导致其压力飙升，因此最好退后一步，给它们留出空间。",
         "body_signals": [
           {
             "name": "打哈欠 (Yawning)",
-            "meaning": "并非因为困倦，而是为了安抚自己与对方而发出的“请冷静”的信号。",
-            "response": "如果在训练或修剪指甲过程中它们开始打哈欠，应立即停止并给予安静的空间。"
+            "meaning": "并非因为困倦，而是为了安抚自己与对方而发出 responses “请冷静” responses 信号。",
+            "response": "如果在训练或修剪指甲过程中它们开始打哈欠，应立即停止并给予安静 responses 休息空间。"
           },
           {
             "name": "舔鼻 (Nose Licking)",
-            "meaning": "在当前环境中感到尴尬、紧张或焦虑时自我安抚的表达。",
+            "meaning": "在当前环境中感到尴尬、紧张或焦虑时自我安抚 responses 表达。",
             "response": "如果抱它们或有陌生人靠近时出现此动作，请停止身体接触并退后留出空间。"
           }
         ],
@@ -147,51 +203,51 @@
           },
           {
             "name": "中午/下午：使用排梳进行眼部卫生护理",
-            "text": "每天一次，使用细齿排梳与专用洗眼液整理眼周湿润的毛发。湿毛发长期氧化会产生红褐色泪痕并诱发皮肤炎，梳理后需用干棉球擦干水分以保持干燥。"
+            "text": "每天一次，使用细齿排梳与专用洗眼液整理眼周湿润 responses 毛发。湿毛发长期氧化会产生红褐色泪痕并诱发皮肤炎，梳理后需用干棉球擦干水分以保持干燥。"
           },
           {
             "name": "晚上：喂食关节营养品与触碰脱敏训练",
-            "text": "喂食关节保健品（如软骨素）。轻轻触碰马尔济斯最敏感的脚尖并立即给予零食奖励，通过此脱敏过程可有效预防修爪甲或检查关节时的咬人与敏感抗拒行为。"
+            "text": "喂食关节保健品（如软骨素）。轻轻触碰马尔济斯最敏感 responses 脚尖并立即给予零食奖励，通过此脱敏过程可有效预防修剪爪甲或检查关节时的咬人与敏感抗拒行为。"
           }
         ],
         "faqs": [
           {
             "question": "马尔济斯为什么讨厌被碰爪子？",
-            "answer": "马尔济斯属于末梢感觉极其发达的小型犬，爪尖集中了大量神经，因此本能地排斥被触碰。不要强行抓握，而应在平时轻轻碰一下后给予零食奖励，进行脱敏训练。"
+            "answer": "马尔济斯属于末梢感觉极其发达 responses 小型犬，爪尖集中了大量神经，因此本能地排斥被触碰。不要强行抓握，而应在平时轻轻碰一下后给予零食奖励，进行脱敏训练。"
           },
           {
             "question": "仅靠沙发踏步能完全预防膝盖骨脱臼吗？",
-            "answer": "安全踏步是减轻冲击的有效工具，但防滑地面和足底被毛的管理也同样重要。必须保持足底肉垫处的毛发修剪整齐，并铺设室内防滑垫，双管齐下才能发挥最佳效果。"
+            "answer": "安全踏步是减轻冲击 responses 有效工具，但防滑地面和足底被毛 responses 管理也同样重要。必须保持足底肉垫处 responses 毛发修剪整齐，并铺设室内防滑垫，双管齐下才能发挥最佳效果。"
           }
         ],
         "tags": [
           "马尔济斯犬",
           "髌骨脱位",
-          "泪痕",
+          "泪痕护理",
           "犬类护理"
         ]
       },
       "es": {
-        "title": "¿El maltés audaz? Una rutina protectora de 3 pasos para el cuidado articular y ocular",
-        "description": "El maltés, el perro más querido. Descubra consejos para prevenir la luxación patelar genéticamente vulnerable y una rutina diaria de 3 pasos para el control de las manchas de lágrimas.",
-        "authority": "Guía oficial de razas del American Kennel Club (AKC) y protocolos de comportamiento de IAABC",
+        "title": "¿El maltés audaz? Una rutina protectora diaria de 3 pasos para el cuidado articular y ocular",
+        "description": "El maltés, el perro de compañía más querido. Descubra consejos para prevenir la luxación patelar genéticamente vulnerable y una rutina diaria de 3 pasos para el control de las manchas de lágrimas.",
+        "authority": "Guía Oficial de Razas del American Kennel Club (AKC) y Protocolos de Comportamiento de IAABC",
         "profile": {
-          "breed": "Maltés",
+          "breed": "Maltés (Canis lupus familiaris / Maltese)",
           "lifespan": "12 ~ 15 años",
           "sleep_pattern": "12 ~ 14 horas (apegado al dueño)",
           "temperament": "Vivaz, Afectuoso, Valiente"
         },
-        "intro": "Los malteses, con su pelaje blanco y sedoso y tres puntos negros (ojos y nariz), son perros de compañía muy queridos en todo el mundo. Aunque son vivaces y afectuosos, expresan sus límites con claridad, lo que les ha valido una reputación de valientes. 🐕\n\nSin embargo, los dueños de malteses a menudo se preocupan por dos problemas genéticos: la **luxación patelar** (rótulas dislocadas) y las **manchas de lágrimas**, que causan rayas rojas y posibles infecciones en la piel. Los ajustes diarios en el estilo de vida son cruciales para controlar estas condiciones.\n\nHoy, PetSelf explora el lenguaje corporal del maltés e introduce una rutina de cuidado diario segura de 3 pasos para proteger sus articulaciones y ojos.",
-        "whyTitle": "Lenguaje corporal del maltés: señales de estrés y comodidad",
-        "whyDesc": "Al ser perros con alta dependencia de sus dueños, los malteses muestran silenciosamente su estado psicológico a través de gestos corporales. Las señales de calma típicas incluyen **'lamerse la nariz'** y **'bostezar'**. Al enfrentarse a un entorno tenso o desconocido, lamerse la nariz o bostezar no es por sueño; es un mensaje pacífico para calmarse a sí mismos y pedir a los demás que no los amenacen. Si los dueños continúan con un contacto excesivo, aumenta su estrés. Lo mejor es dar un paso atrás y darles espacio.",
+        "intro": "Los malteses, con su pelaje blanco y sedoso y tres adorables puntos negros (ojos y nariz), son perros de compañía muy queridos en todo el mundo. Aunque son vivaces y afectuosos, expresan sus límites con claridad, lo que les ha valido una reputación de audaces e inflexibles. 🐕\n\nSin embargo, los dueños de malteses a menudo se preocupan por dos problemas genéticos críticos: la **luxación patelar** (rótulas dislocadas) y las **manchas de lágrimas** (epífora), que causan marcas rojas en el rostro y posibles infecciones cutáneas. Los ajustes diarios en el estilo de vida son cruciales para controlar estas condiciones.\n\nHoy, PetSelf explora el lenguaje corporal del maltés e introduce una rutina de cuidado diario segura de 3 pasos para proteger sus articulaciones y ojos.",
+        "whyTitle": "Lenguaje corporal del maltés: Señales de estrés y comodidad",
+        "whyDesc": "Al ser perros con alta dependencia psicológica de sus dueños, los malteses muestran silenciosamente su estado de ánimo a través de gestos corporales. Las señales de calma típicas incluyen **'lamerse la nariz' (Nose Licking)** y **'bostezar' (Yawning)**. Al enfrentarse a un entorno tenso o desconocido, lamerse la nariz o bostezar no es por sueño; es un mensaje pacífico para calmarse a sí mismos y pedir a los demás que no los amenacen. Si los dueños continúan con un contacto excesivo, aumenta su estrés. Lo mejor es dar un paso atrás y darles espacio.",
         "body_signals": [
           {
-            "name": "Bostezar",
-            "meaning": "No es por sueño; es una señal de 'por favor, cálmate' para calmarse a sí mismos y a los demás.",
+            "name": "Bostezar (Yawning)",
+            "meaning": "No es por fatiga; es una señal de 'por favor, cálmate' para calmarse a sí mismos y a los demás.",
             "response": "Si bostezan durante el entrenamiento o el aseo, deténgase inmediatamente y ofrezca un espacio tranquilo."
           },
           {
-            "name": "Lamerse la nariz",
+            "name": "Lamerse la nariz (Nose Licking)",
             "meaning": "Una expresión de autocalma cuando se sienten incómodos o ansiosos en su situación actual.",
             "response": "Si se muestra al cargarlo o al acercarse extraños, detenga el contacto físico y déles espacio."
           }
@@ -199,111 +255,111 @@
         "daily_routine": [
           {
             "name": "Mañana: Control antideslizante y estiramiento articular",
-            "text": "Revise que las alfombras estén firmes. Cuando se estire por la mañana, masajee suavemente las articulaciones traseras. Asegúrese de recortar el pelo de las almohadillas."
+            "text": "Revise que las alfombras no se hayan desplazado. Cuando se estire por la mañana, masajee suavemente las articulaciones traseras. Asegúrese de recortar el pelo de las almohadillas."
           },
           {
-            "name": "Tarde: Higiene ocular diaria y cepillado",
-            "text": "Una vez al día, limpie la zona de los ojos con peines finos y soluciones limpiadoras. El pelo húmedo genera manchas rojas e infecciones; seque con algodón."
+            "name": "Tarde: Higiene ocular diaria y cepillado de zona facial",
+            "text": "Una vez al día, limpie la zona de los ojos con peines finos y soluciones limpiadoras. El pelo húmedo genera manchas rojas e infecciones; seque minuciosamente con algodón."
           },
           {
             "name": "Noche: Suplemento articular y desensibilización al tacto",
-            "text": "Administre suplementos articulares. Toque las patas suavemente y premie de inmediato. Esto evita reacciones agresivas durante el corte de uñas o chequeos físicos."
+            "text": "Administre suplementos articulares (como condroitina). Toque las patas suavemente y premie de inmediato. Esto evita reacciones agresivas durante el corte de uñas o chequeos físicos."
           }
         ],
         "faqs": [
           {
             "question": "¿Por qué a los malteses no les gusta que les toquen las patas?",
-            "answer": "Los malteses son perros pequeños con nervios sensoriales muy desarrollados en sus patas, por lo que evitan el contacto de forma instintiva. Se recomienda el entrenamiento de desensibilización, tocando suavemente y premiando."
+            "answer": "Los malteses son perros pequeños con nervios sensoriales periféricos muy desarrollados en sus patas, por lo que evitan el contacto de forma instintiva. Se recomienda el entrenamiento de desensibilización, tocando suavemente y premiando en lugar del manejo forzado."
           },
           {
             "question": "¿Las escaleras de seguridad previenen la luxación patelar por completo?",
-            "answer": "Aunque las escaleras reducen el impacto, los suelos resbaladizos y el pelo largo de las patas influyen mucho. Se deben recortar los pelos de las almohadillas y usar alfombras antideslizantes."
+            "answer": "Aunque las escaleras reducen el impacto del salto, los suelos resbaladizos y el pelo largo de las patas influyen mucho. Se deben recortar los pelos de las almohadillas y usar alfombras antideslizantes de forma conjunta."
           }
         ],
         "tags": [
           "Maltés",
-          "Luxación Patelar",
-          "Manchas de Lágrimas",
-          "Cuidado de Perros"
+          "LuxaciónPatelar",
+          "ManchasDeLágrimas",
+          "CuidadoDePerros"
         ]
       },
       "fr": {
-        "title": "Le fougueux bichon maltais ? Une routine protectrice en 3 étapes pour la santé des articulations et des yeux",
-        "description": "Le bichon maltais, le chien le plus aimé. Découvrez des conseils pour prévenir la luxation de la rotule et une routine en 3 étapes pour les taches de larmes.",
-        "authority": "Guide officiel des races de l'American Kennel Club (AKC) et protocoles comportementaux de l'IAABC",
+        "title": "Le fougueux bichon maltais ? Une routine protectrice quotidienne en 3 étapes pour les articulations et les yeux",
+        "description": "Le bichon maltais, le chien de compagnie le plus aimé. Découvrez des conseils para prévenir la luxation de la rotule et une routine en 3 étapes pour les taches de larmes.",
+        "authority": "Guide Officiel des Races de l'American Kennel Club (AKC) et Protocoles Comportementaux de l'IAABC",
         "profile": {
-          "breed": "Bichon maltais",
+          "breed": "Bichon maltais (Canis lupus familiaris / Maltese)",
           "lifespan": "12 ~ 15 ans",
           "sleep_pattern": "12 ~ 14 heures (attaché au maître)",
           "temperament": "Vif, Affectueux, Fougueux"
         },
-        "intro": "Le bichon maltais, avec son pelage blanc et soyeux et ses trois points noirs (les yeux et la truffe), est un chien de compagnie adoré dans le monde entier. Bien que vif et affectueux, il exprime clairement ses limites, ce qui lui vaut une réputation de chien fougueux. 🐕\n\nCependant, les propriétaires de bichons maltais s'inquiètent souvent de deux problèmes génétiques : la **luxation de la rotule** (rotules disloquées) et les **taches de larmes** (oxydation des larmes), qui provoquent des traces rouges et de potentielles infections cutanées. Des ajustements quotidiens du mode de vie sont cruciaux pour gérer ces conditions.\n\nAujourd'hui, PetSelf étudie le langage corporel du bichon maltais et présente une routine de soins quotidiens sécurisée en 3 étapes pour protéger ses articulations et ses yeux.",
-        "whyTitle": "Langage corporel du bichon maltais : signaux de stress et de confort",
-        "whyDesc": "En tant que chiens très dépendants de leurs maîtres, les bichons maltais montrent silencieusement leur état psychologique par des gestes corporels. Les signaux d'apaisement typiques incluent le fait de **se lécher la truffe** et de **bâiller**. Face à un environnement tendu ou inconnu, se lécher la truffe ou bâiller n'est pas dû à la fatigue ; c'est un message pacifique pour se calmer et demander aux autres de ne pas les menacer. Si les maîtres continuent le contact, leur stress augmente. Il est préférable de prendre du recul.",
+        "intro": "Le bichon maltais, avec son pelage blanc et soyeux et ses trois points noirs (les yeux et la truffe), est un chien de compagnie adoré dans le monde entier. Bien que vif et affectueux, il exprime clairement ses limites, ce qui lui vaut une réputation de chien fougueux et déterminé. 🐕\n\nCependant, les propriétaires de bichons maltais s'inquiètent souvent de deux problèmes génétiques : la **luxation de la rotule** (rotules disloquées) et les **taches de larmes** (épiphora), qui provoquent des traces rouges et des infections cutanées. Des ajustements quotidiens du mode de vie sont cruciaux pour gérer ces conditions.\n\nAujourd'hui, PetSelf étudie le langage corporel du bichon maltais et présente une routine de soins quotidiens sécurisée en 3 étapes pour protéger ses articulations et ses yeux.",
+        "whyTitle": "Langage corporel du bichon maltais : Signaux de stress et de confort",
+        "whyDesc": "En tant que chiens très dépendants de leurs maîtres, les bichons maltais montrent silencieusement leur état psychologique par des gestes corporels. Les signaux d'apaisement (Calming Signals) typiques incluent le fait de **se lécher la truffe (Nose Licking)** et de **bâiller (Yawning)**. Face à un environnement tendu ou inconnu, se lécher la truffe ou bâiller n'est pas dû à la fatigue ; c'est un message pacifique pour se calmer et demander aux autres de ne pas les menacer. Si les maîtres continuent le contact, leur stress augmente. Il est préférable de prendre du recul.",
         "body_signals": [
           {
-            "name": "Bâiller",
-            "meaning": "Ce n'est pas de la fatigue ; c'est un signal d'apaisement pour se calmer et calmer l'autre.",
+            "name": "Bâiller (Yawning)",
+            "meaning": "Ce n'est pas de la fatigue ; c'est un signal d'apaisement pour se calmer et apaiser l'entourage.",
             "response": "S'il bâille pendant l'éducation ou le toilettage, arrêtez immédiatement et offrez un espace calme."
           },
           {
-            "name": "Se lécher la truffe",
-            "meaning": "Une expression d'auto-apaisement lorsqu'il se sent mal à l'aise ou anxieux.",
+            "name": "Se lécher la truffe (Nose Licking)",
+            "meaning": "Une expression d'auto-apaisement lorsqu'il se sent mal à l'aise ou anxieux dans sa situation actuelle.",
             "response": "Si ce geste apparaît lorsqu'il est porté ou approché par des inconnus, cessez le contact et laissez-lui de l'espace."
           }
         ],
         "daily_routine": [
           {
             "name": "Matin : Contrôle anti-glisse et étirements des articulations",
-            "text": "Vérifiez que les tapis de protection sont bien en place. Lors des étirements du matin, massez doucement les articulations arrière. Veillez à couper les poils sous les pattes."
+            "text": "Vérifiez que les tapis de protection ne glissent pas. Lors des étirements du matin, massez doucement les articulations arrière pour détendre les muscles. Veillez à couper les poils sous les pattes."
           },
           {
-            "name": "Après-midi : Hygiène oculaire et brossage ciblé",
-            "text": "Une fois par jour, peignez le contour des yeux avec un peigne fin et une lotion adaptée. Les poils humides favorisent les traces rouges et les infections ; séchez avec un coton."
+            "name": "Après-midi : Hygiène oculaire quotidienne et brossage ciblé",
+            "text": "Une fois par jour, peignez le contour des yeux avec un peigne fin et une lotion adaptée. Les poils humides favorisent les traces rouges et les infections ; séchez minutieusement avec un coton."
           },
           {
             "name": "Soir : Supplément articulaire et désensibilisation des pattes",
-            "text": "Donnez les compléments pour les articulations. Touchez doucement ses pattes et récompensez-le aussitôt. Cela évite les réactions agressives lors de la coupe des griffes."
+            "text": "Donnez les compléments pour les articulations (chondroïtine). Touchez doucement ses pattes et récompensez-le aussitôt. Cela évite les réactions agressives lors de la coupe des griffes."
           }
         ],
         "faqs": [
           {
             "question": "Pourquoi les bichons maltais détestent-ils qu'on leur touche les pattes ?",
-            "answer": "Les bichons maltais sont des chiens miniatures aux nerfs sensoriels très développés concentrés dans leurs pattes, ce qui les pousse à éviter le toucher. Un entraînement de désensibilisation, en touchant doucement puis en récompensant, est conseillé."
+            "answer": "Les bichons maltais sont des chiens miniatures aux nerfs sensoriels très développés concentrés dans leurs coussinets, ce qui les pousse à éviter le toucher. Un entraînement de désensibilisation, en touchant doucement puis en récompensant, est recommandé."
           },
           {
             "question": "Les escaliers de sécurité empêchent-ils complètement la luxation rotulienne ?",
-            "answer": "Bien que les escaliers réduisent l'impact, les sols glissants et les poils des pattes jouent un rôle majeur. Il faut couper les poils des coussinets et poser des tapis antidérapants."
+            "answer": "Bien que les escaliers réduisent l'impact, les sols glissants et les poils des pattes jouent un rôle majeur. Il faut couper les poils des coussinets et poser des tapis antidérapants conjointement."
           }
         ],
         "tags": [
-          "Bichon maltais",
-          "Luxation de la rotule",
-          "Taches de larmes",
-          "Soins des chiens"
+          "BichonMaltais",
+          "LuxationDeLaRotule",
+          "TachesDeLarmes",
+          "SoinsDesChiens"
         ]
       },
       "de": {
-        "title": "Der temperamentvolle Malteser? Eine 3-Schritte-Schutzroutine für Gelenk- und Augenpflege",
+        "title": "Der temperamentvolle Malteser? Eine tägliche 3-Schritte-Schutzroutine für Gelenk- und Augenpflege",
         "description": "Der beliebte Malteser. Entdecken Sie Tipps zur Vorbeugung von Patellaluxation und eine tägliche 3-Schritte-Routine zur Pflege von Tränenflecken.",
-        "authority": "Offizieller Rasseführer des American Kennel Clubs (AKC) und IAABC-Verhaltensprotokolle",
+        "authority": "Offizieller Rasseführer des American Kennel Club (AKC) und IAABC-Verhaltensprotokolle",
         "profile": {
-          "breed": "Malteser",
+          "breed": "Malteser (Canis lupus familiaris / Maltese)",
           "lifespan": "12 ~ 15 Jahre",
           "sleep_pattern": "12 ~ 14 Stunden (besitzerbezogen)",
           "temperament": "Lebhaft, Anhänglich, Temperamentvoll"
         },
-        "intro": "Malteser sind mit ihrem weißen, seidigen Fell und den drei schwarzen Punkten (Augen und Nase) weltweit beliebte Begleithunde. Sie sind zwar lebhaft und anhänglich, drücken aber ihre Grenzen klar aus, was ihnen den Ruf einträgt, temperamentvoll zu sein. 🐕\n\nMalteser-Besitzer sorgen sich jedoch oft um zwei genetische Probleme: **Patellaluxation** (ausgekugelte Kniescheiben) und **Tränenflecken**, die rote Streifen und mögliche Hautinfektionen verursachen. Tägliche Anpassungen des Lebensstils sind entscheidend für den Umgang mit diesen Beschwerden.\n\nHeute befasst sich PetSelf mit der Körpersprache des Maltesers und stellt eine sichere, tägliche 3-Schritte-Pflegeroutine zum Schutz seiner Gelenke und Augen vor.",
+        "intro": "Malteser sind mit ihrem weißen, seidigen Fell und den drei schwarzen Punkten (Augen und Nase) weltweit beliebte Begleithunde. Sie sind zwar lebhaft und anhänglich, drücken aber ihre Grenzen klar aus, was ihnen den Ruf einträgt, temperamentvoll und kompromisslos zu sein. 🐕\n\nMalteser-Besitzer sorgen sich jedoch oft um zwei genetische Probleme: **Patellaluxation** (ausgekugelte Kniescheiben) und **Tränenflecken** (Epiphora), die rote Streifen und mögliche Hautinfektionen verursachen. Tägliche Anpassungen des Lebensstils sind entscheidend für den Umgang mit diesen Beschwerden.\n\nHeute befasst sich PetSelf mit der Körpersprache des Maltesers und stellt eine sichere, tägliche 3-Schritte-Pflegeroutine zum Schutz seiner Gelenke und Augen vor.",
         "whyTitle": "Körpersprache des Maltesers: Signale von Stress und Komfort",
-        "whyDesc": "Da sie sehr auf ihre Besitzer fixiert sind, zeigen Malteser ihren psychischen Zustand lautlos durch Körpergesten. Typische Beschwichtigungssignale (Calming Signals) sind **'Nasenlecken'** und **'Gähnen'**. In einer angespannten oder ungewohnten Umgebung ist das Lecken der Nase oder das Gähnen nicht auf Müdigkeit zurückzuführen; es ist eine friedliche Botschaft, um sich selbst zu beruhigen und andere aufzufordern, sie nicht zu bedrohen. Wenn Besitzer in dieser Zeit übermäßigen Konakt fortsetzen, steigt der Stress. Am besten ist es, einen Schritt zurückzutreten und ihnen Freiraum zu geben.",
+        "whyDesc": "Da sie sehr auf ihre Besitzer fixiert sind, zeigen Malteser ihren psychischen Zustand lautlos durch Körpergesten. Typische Beschwichtigungssignale (Calming Signals) sind **'Nasenlecken' (Nose Licking)** und **'Gähnen' (Yawning)**. In einer angespannten oder ungewohnten Umgebung ist das Lecken der Nase oder das Gähnen nicht auf Müdigkeit zurückzuführen; es ist eine friedliche Botschaft, um sich selbst zu beruhigen und andere aufzufordern, sie nicht zu bedrohen. Wenn Besitzer in dieser Zeit übermäßigen Kontakt fortsetzen, steigt der Stress. Am besten ist es, einen Schritt zurückzutreten und ihnen Freiraum zu geben.",
         "body_signals": [
           {
-            "name": "Gähnen",
+            "name": "Gähnen (Yawning)",
             "meaning": "Nicht aus Müdigkeit; es ist ein Beschwichtigungssignal, um sich und andere zu beruhigen.",
             "response": "Wenn sie beim Training oder Pflegen gähnen, brechen Sie sofort ab und sorgen Sie für einen ruhigen Ort."
           },
           {
-            "name": "Nasenlecken",
+            "name": "Nasenlecken (Nose Licking)",
             "meaning": "Ein Ausdruck der Selbstberuhigung, wenn sie sich in ihrer aktuellen Situation unwohl oder ängstlich fühlen.",
             "response": "Wenn dies beim Halten oder Annähern von Fremden gezeigt wird, beenden Sie den Kontakt und geben Sie ihnen Freiraum."
           }
@@ -319,7 +375,7 @@
           },
           {
             "name": "Abend: Gelenk-Nahrungsergänzung und Pfotendesensibilisierung",
-            "text": "Geben Sie Gelenkpräparate. Berühren Sie die Pfoten sanft und belohnen Sie sofort. Dies beugt Abwehrreaktionen beim Krallenschneiden oder bei Untersuchungen vor."
+            "text": "Geben Sie Gelenkpräparate (wie Chondroitin). Berühren Sie die Pfoten sanft und belohnen Sie sofort. Dies beugt Abwehrreaktionen beim Krallenschneiden vor."
           }
         ],
         "faqs": [
@@ -340,26 +396,26 @@
         ]
       },
       "pt": {
-        "title": "O valente maltês? Uma rotina protetora de 3 passos para a saúde articular e ocular",
+        "title": "O valente maltês? Uma rotina diária de proteção em 3 passos para a saúde articular e ocular",
         "description": "O maltês, o cão mais amado. Descubra dicas para evitar a luxação patelar e uma rotina diária de 3 passos para cuidar das manchas de lágrimas.",
-        "authority": "Guia oficial de raças do American Kennel Club (AKC) e protocolos de comportamento da IAABC",
+        "authority": "Guia Oficial de Raças do American Kennel Club (AKC) e Protocolos de Comportamento da IAABC",
         "profile": {
-          "breed": "Maltês",
+          "breed": "Maltês (Canis lupus familiaris / Maltese)",
           "lifespan": "12 ~ 15 anos",
-          "sleep_pattern": "12 ~ 14 horas (apegado ao dono)",
-          "temperament": "Vivaz, Afectuoso, Valente"
+          "sleep_pattern": "12 ~ 14 horas (apegado ao tutor)",
+          "temperament": "Vivaz, Afetuoso, Valente"
         },
-        "intro": "Os malteses, com sua pelagem branca e sedosa e três pontos pretos (olhos e nariz), são cães de companhia amados em todo o mundo. Embora vivazes e afetuosos, expressam seus limites claramente, o que lhes rende uma reputação de valentes. 🐕\n\nNo entanto, os donos de malteses frequentemente se preocupam com dois problemas genéticos: a **luxação patelar** (patelas deslocadas) e as **manchas de lágrimas**, que causam manchas avermelhadas e potenciais infecções de pele. Ajustes diários no estilo de vida son cruciais para controlar estas condições.\n\nHoje, o PetSelf explora a linguagem corporal del maltês e apresenta uma rotina de cuidados diários de 3 passos segura para proteger suas articulações e olhos.",
-        "whyTitle": "Linguagem corporal del maltês: sinais de estresse e conforto",
-        "whyDesc": "Como cães com alta dependência de seus donos, os malteses mostram silenciosamente seu estado psicológico por meio de gestos corporais. Os sinais de calma típicos incluem **'lamber o nariz'** e **'bocejar'**. Ao enfrentar um ambiente tenso ou desconhecido, lamber o nariz ou bocejar não é por sono; é uma mensagem pacífica para se acalmarem e pedirem aos outros que não os ameacem. Se os donos continuarem com contato excessivo, o estresse aumenta. O melhor é dar um passo atrás e dar-lhes espaço.",
+        "intro": "Os malteses, com sua pelagem branca e sedosa e três pontos pretos (olhos e nariz), são cães de companhia amados no mundo todo. Embora vivazes e afetuosos, expressam seus limites claramente, o que lhes rende uma reputação de valentes e decididos. 🐕\n\nNo entanto, os tutores de malteses frequentemente se preocupam com dois problemas genéticos: a **luxação patelar** (patelas deslocadas) e as **manchas de lágrimas** (epífora), que causam marcas avermelhadas e potenciais infecções de pele. Ajustes diários no estilo de vida são cruciais para controlar estas condições.\n\nHoje, o PetSelf explora a linguagem corporal do maltês e apresenta uma rotina de cuidados diários de 3 passos segura para proteger suas articulações e olhos.",
+        "whyTitle": "Linguagem corporal do maltês: Sinais de estresse e conforto",
+        "whyDesc": "Como cães com alta dependência de seus tutores, os malteses mostram silenciosamente seu estado psicológico por meio de gestos corporais. Os sinais de calma (Calming Signals) típicos incluem **'lamber o nariz' (Nose Licking)** e **'bocejar' (Yawning)**. Ao enfrentar um ambiente tenso ou desconhecido, lamber o nariz ou bocejar não é por sono; é uma mensagem pacífica para se acalmarem e pedirem aos outros que não os ameacem. Se os tutores continuarem com contato excessivo, o estresse aumenta. O melhor é dar um passo atrás e dar-lhes espaço.",
         "body_signals": [
           {
-            "name": "Bocejar",
+            "name": "Bocejar (Yawning)",
             "meaning": "Não por sono; é um sinal de 'por favor, acalme-se' para acalmar a si mesmos e aos outros.",
             "response": "Se bocejarem durante o treino ou cuidados, pare imediatamente e ofereça um espaço tranquilo."
           },
           {
-            "name": "Lamber o nariz",
+            "name": "Lamber o nariz (Nose Licking)",
             "meaning": "Uma expressão de autotranquilização quando se sentem desconfortáveis ou ansiosos na situação atual.",
             "response": "Se mostrado ao pegar no colo ou ao se aproximar de estranhos, pare o contato físico e dê-lhes espaço."
           }
@@ -367,55 +423,55 @@
         "daily_routine": [
           {
             "name": "Manhã: Verificação antiderrapante e alongamento articular",
-            "text": "Verifique se os tapetes estão firmes. Quando alongarem de manhã, massageie suavemente as articulações traseiras. Garanta o corte dos pelos das almofadas."
+            "text": "Verifique se os tapetes estão firmes. Quando alongarem de manhã, massageie suavemente as articulações traseiras para soltar os músculos. Garanta o corte dos pelos das almofadas."
           },
           {
-            "name": "Tarde: Higiene ocular diária e escovação",
-            "text": "Uma vez ao dia, limpe a área dos olhos com pentes finos e loção de limpeza. O pelo úmido gera manchas e infecções; seque bem com algodão."
+            "name": "Tarde: Higiene ocular diária e escovação da área facial",
+            "text": "Uma vez ao dia, limpe a área dos olhos com pentes finos e solução de limpeza. O pelo úmido gera manchas e infecções; seque bem com algodão."
           },
           {
             "name": "Noite: Suplemento articular e dessensibilização ao toque",
-            "text": "Ofereça suplemento articular. Toque as patas suavemente e recompense em seguida. Isso evita reações agressivas durante o corte de unhas ou exames físicos."
+            "text": "Ofereça suplemento articular (como condroitina). Toque as patas suavemente e recompense em seguida. Isso evita reações agressivas durante o corte de unhas ou exames físicos."
           }
         ],
         "faqs": [
           {
             "question": "Por que os malteses não gostam que toquem nas suas patas?",
-            "answer": "Os malteses são cães de companhia com nervos sensoriais altamente desenvolvidos nas patas, evitando o toque instintivamente. Recomenda-se o treino de dessensibilização, tocando suavemente e premiando."
+            "answer": "Os malteses são cães de companhia com nervos sensoriais periféricos altamente desenvolvidos nas patas, evitando o toque instintivamente. Recomenda-se o treino de dessensibilização, tocando suavemente e premiando em vez do manejo forçado."
           },
           {
             "question": "As escadas de segurança previnem a luxação patelar completamente?",
-            "answer": "Embora as escadas reduzam o impacto, os pisos escorregadios e o pelo comprido das patas também influenciam. Deve-se aparar os pelos das almofadas e usar tapetes antiderrapantes."
+            "answer": "Embora as escadas reduzam o impacto, os pisos escorregadios e o pelo comprido das patas também influenciam. Deve-se aparar os pelos das almofadas e usar tapetes antiderrapantes de forma conjunta."
           }
         ],
         "tags": [
           "Maltês",
-          "Luxação Patelar",
-          "Manchas de Lágrimas",
-          "Cuidado de Cães"
+          "LuxaçãoPatelar",
+          "ManchasDeLágrimas",
+          "CuidadoDeCães"
         ]
       },
       "id": {
-        "title": "Maltese yang Pemberani? Rutinitas Perlindungan 3 Langkah untuk Kesehatan Sendi dan Mata",
-        "description": "Maltese, anjing yang paling dicintai. Temukan tips untuk mencegah luksasi patela secara genetik dan rutinitas harian 3 langkah untuk mengatasi noda air mata.",
+        "title": "Maltese yang Pemberani? Rutinitas Perlindungan Harian 3 Langkah untuk Kesehatan Sendi dan Mata",
+        "description": "Maltese, anjing pendamping yang paling dicintai. Temukan tips untuk mencegah luksasi patela secara genetik dan rutinitas harian 3 langkah untuk mengatasi noda air mata.",
         "authority": "Panduan Ras Resmi American Kennel Club (AKC) & Protokol Perilaku IAABC",
         "profile": {
-          "breed": "Maltese",
+          "breed": "Maltese (Canis lupus familiaris)",
           "lifespan": "12 ~ 15 tahun",
           "sleep_pattern": "12 ~ 14 jam (melekat pada pemilik)",
           "temperament": "Lincah, Penuh Kasih Sayang, Berani"
         },
-        "intro": "Maltese, dengan bulu putih selembut sutra dan tiga titik hitam (mata dan hidung), adalah anjing pendamping yang dicintai di seluruh dunia. Meskipun lincah dan penuh kasih sayang, mereka mengekspresikan batasan mereka dengan jelas, memberi mereka reputasi sebagai anjing yang berani. 🐕\n\nNamun, pemilik Maltese sering khawatir tentang dua masalah genetik: **Luksasi Patela** (tempurung lutut bergeser) and **Noda Air Mata** (tear staining), yang menyebabkan garis kemerahan dan potensi infeksi kulit. Penyesuaian gaya hidup sehari-hari sangat penting untuk mengelola kondisi ini.\n\nHari ini, PetSelf mengeksplorasi bahasa tubuh Maltese dan memperkenalkan rutinitas perawatan harian 3 langkah yang aman untuk melindungi sendi dan mata mereka.",
+        "intro": "Maltese, dengan bulu putih selembut sutra dan tiga titik hitam (mata dan hidung), adalah anjing pendamping yang dicintai di seluruh dunia. Meskipun lincah dan penuh kasih sayang, mereka mengekspresikan batasan mereka dengan jelas, memberi mereka reputasi sebagai anjing yang berani. 🐕\n\nNamun, pemilik Maltese sering khawatir tentang dua masalah genetik: **Luksasi Patela** (tempurung lutut bergeser) dan **Noda Air Mata** (epifora), yang menyebabkan garis kemerahan dan potensi infeksi kulit. Penyesuaian gaya hidup sehari-hari sangat penting untuk mengelola kondisi ini.\n\nHari ini, PetSelf mengeksplorasi bahasa tubuh Maltese dan memperkenalkan rutinitas perawatan harian 3 langkah yang aman untuk melindungi sendi dan mata mereka.",
         "whyTitle": "Bahasa Tubuh Maltese: Sinyal Stres dan Kenyamanan",
-        "whyDesc": "Sebagai anjing dengan ketergantungan tinggi pada pemiliknya, Maltese secara diam-diam menunjukkan keadaan psikologis mereka melalui gerakan tubuh. Sinyal penenang yang khas termasuk **'menjilat hidung'** and **'menguap'**. Saat menghadapi lingkungan yang tegang atau asing, menjilat hidung atau menguap bukan karena mengantuk; itu adalah pesan damai untuk menenangkan diri dan meminta orang lain untuk tidak mengancam mereka. Jika pemilik terus melakukan kontak berlebihan selama waktu ini, stres mereka akan meningkat. Yang terbaik adalah mundur selangkah dan memberi mereka ruang.",
+        "whyDesc": "Sebagai anjing dengan ketergantungan tinggi pada pemiliknya, Maltese secara diam-diam menunjukkan keadaan psikologis mereka melalui gerakan tubuh. Sinyal penenang (Calming Signal) yang khas termasuk **'menjilat hidung' (Nose Licking)** dan **'menguap' (Yawning)**. Saat menghadapi lingkungan yang tegang atau asing, menjilat hidung atau menguap bukan karena mengantuk; itu adalah pesan damai untuk menenangkan diri dan meminta orang lain untuk tidak mengancam mereka. Jika pemilik terus melakukan kontak berlebihan selama waktu ini, stres mereka akan meningkat. Yang terbaik adalah mundur selangkah dan memberi mereka ruang.",
         "body_signals": [
           {
-            "name": "Menguap",
+            "name": "Menguap (Yawning)",
             "meaning": "Bukan karena mengantuk; ini adalah sinyal 'tolong tenang' untuk menenangkan diri mereka sendiri dan orang lain.",
             "response": "Jika mereka menguap selama pelatihan atau perawatan, segera hentikan dan berikan ruang yang tenang."
           },
           {
-            "name": "Menjilat Hidung",
+            "name": "Menjilat Hidung (Nose Licking)",
             "meaning": "Ekspresi menenangkan diri ketika mereka merasa canggung atau cemas dengan situasi saat ini.",
             "response": "Jika terlihat saat dipeluk atau didekati orang asing, hentikan kontak fisik dan beri mereka ruang."
           }
@@ -431,80 +487,24 @@
           },
           {
             "name": "Malam: Pemberian Suplemen Sendi dan Desensitisasi Sentuhan",
-            "text": "Berikan suplemen sendi. Sentuh cakar mereka dengan lembut dan segera beri hadiah berupa camilan. Desensitisasi ini mencegah reaksi agresif saat memotong kuku atau pemeriksaan fisik."
+            "text": "Berikan suplemen sendi (seperti kondroitin). Sentuh cakar mereka dengan lembut dan segera beri hadiah berupa camilan. Desensitisasi ini mencegah reaksi agresif saat memotong kuku atau pemeriksaan fisik."
           }
         ],
         "faqs": [
           {
             "question": "Mengapa Maltese tidak suka kaki mereka disentuh?",
-            "answer": "Maltese adalah anjing kecil dengan saraf sensorik yang sangat berkembang di cakar mereka, membuat mereka secara naluriah menghindari sentuhan. Latihan desensitisasi, menyentuh kaki dengan lembut dan memberi hadiah, sangat disarankan."
+            "answer": "Maltese adalah anjing kecil dengan saraf sensorik tepi yang sangat berkembang di cakar mereka, membuat mereka secara naluriah menghindari sentuhan. Latihan desensitisasi, menyentuh kaki dengan lembut dan memberi hadiah, sangat disarankan daripada pemaksaan."
           },
           {
             "question": "Apakah tangga pengaman dapat mencegah luksasi patela sepenuhnya?",
-            "answer": "Meskipun tangga mengurangi benturan, lantai yang licin dan bulu kaki yang panjang juga berperan penting. Anda harus menjaga bulu cakar tetap pendek dan memasang keset antislip."
+            "answer": "Meskipun tangga mengurangi benturan, lantai yang licin dan bulu kaki yang panjang juga berperan penting. Anda harus menjaga bulu cakar tetap pendek dan memasang keset antislip secara bersamaan."
           }
         ],
         "tags": [
           "Maltese",
-          "Luksasi Patela",
-          "Noda Air Mata",
-          "Perawatan Anjing"
-        ]
-      },
-      "ko": {
-        "title": "참지 않는 말티즈? 슬개골과 눈가 건강을 위한 3단계 보호막 루틴",
-        "description": "한국인들이 가장 사랑하는 강아지 말티즈. 유전적으로 취약한 슬개골 탈구 방지 팁과 눈가 눈물자국 관리를 위한 3단계 데일리 교감 루틴을 소개합니다.",
-        "authority": "American Kennel Club (AKC) 공식 견종 가이드 및 IAABC 행동학 프로토콜",
-        "profile": {
-          "breed": "말티즈 (Maltese)",
-          "lifespan": "12 ~ 15년",
-          "sleep_pattern": "12 ~ 14시간 (보호자 밀착형)",
-          "temperament": "활발함, 다정다감, 참지 않음"
-        },
-        "intro": "하얗고 부드러운 털과 까만 세 개의 점(눈과 코)이 매력적인 말티즈는 전 세계적으로 오랫동안 큰 사랑을 받아온 반려견입니다. 활발하고 다정다감하지만, 자신의 의사를 아주 명확하게 표현해 간혹 '참지 않는 말티즈'라는 귀여운 별명으로 불리기도 합니다. 🐕\n\n하지만 말티즈를 키우는 반려인이라면 누구나 고민하는 두 가지 치명적인 유전 질환이 있습니다. 첫 번째는 무릎 뼈가 옆으로 빠지는 **슬개골 탈구(Patellar Luxation)**이고, 두 번째는 하얀 얼굴에 붉은 자국을 남기며 피부염을 유발하기 쉬운 **눈물자국(Tear Staining)**입니다. 이 두 가지는 병원 치료도 중요하지만, 일상에서의 보호막 루틴이 평생의 건강을 좌우합니다.\n\n오늘 PetSelf에서는 말티즈의 행동 언어 이해를 돕고, 관절과 눈가를 매일 보호할 수 있는 안전하고 과학적인 3단계 케어 루틴을 소개합니다.",
-        "whyTitle": "말티즈의 바디 랭귀지: 스트레스와 안정의 표현",
-        "whyDesc": "말티즈는 보호자에 대한 의존도가 높은 만큼 자신의 심리적 불안을 조용히 몸짓으로 나타냅니다. 대표적인 카밍 시그널(Calming Signal)은 **'코 핥기'**와 **'하품하기'**입니다. 긴장되거나 낯선 환경에 처했을 때 자신의 코를 낼름 핥거나 크게 하품을 하는 행동은 졸려서가 아니라 스스로를 진정시키고 주변에 '공격할 의사가 없으니 나를 위협하지 말아달라'는 평화의 메시지입니다. 이때 보호자가 과도한 스킨십을 계속하면 스트레스 지수가 올라가므로, 뒤로 한 걸음 물러나 공간을 제공해 주는 것이 좋습니다.",
-        "body_signals": [
-          {
-            "name": "하품하기 (Yawning)",
-            "meaning": "졸려서가 아니라 스스로와 상대방을 달래는 '진정해요'의 의사 표시입니다.",
-            "response": "트레이닝이나 발톱 깎기 도중 하품을 하면 즉시 중단하고 휴식을 취하게 하십시오."
-          },
-          {
-            "name": "코 핥기 (Nose Licking)",
-            "meaning": "현재 자신이 처한 상황이 어색하고 불안하다는 자기 진정의 표현입니다.",
-            "response": "안아주거나 낯선 사람이 다가왔을 때 이 행동을 보이면 과도한 접촉을 피하고 거리를 두십시오."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "아침: 미끄럼 방지 환경 점검 및 관절 스트레칭",
-            "text": "아침에 일어나 반려견 전용 매트가 밀리지 않았는지 확인하고, 말티즈가 가볍게 기지개를 켤 때 뒷다리 관절 부위를 부드럽게 마사지하여 굳어 있는 근육을 풀어줍니다. 발바닥 패드가 털에 가려지지 않도록 점검하는 것도 필수입니다."
-          },
-          {
-            "name": "낮/오후: 빗질을 이용한 1:1 눈가 위생 관리",
-            "text": "하루 한 번, 미세한 눈곱 빗과 전용 세정액을 사용해 눈 주변의 젖은 털을 정돈해 줍니다. 젖은 상태의 털이 방치되면 붉은 눈물자국과 함께 피부염이 발생하기 쉬우므로, 빗질 후 마른 화장솜으로 남은 수분을 완전히 닦아내 건조하게 유지합니다."
-          },
-          {
-            "name": "저녁: 관절 영양제 급여 및 터치 둔감화 교감",
-            "text": "슬개골 탈구 예방 영양제(콘드로이친 등)를 급여한 뒤, 말티즈가 가장 싫어하는 부위인 발끝을 가볍게 만졌다가 떼며 칭찬 보상(어포, 간식)을 해 줍니다. 이 둔감화 과정을 거쳐야 발톱 깎기나 관절 점검 시 보호자를 물거나 예민하게 반응하는 것을 예방합니다."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "말티즈는 발을 만지면 왜 싫어하나요?",
-            "answer": "말티즈는 말초 감각이 매우 발달한 소형견으로 발끝에 신경이 집중되어 있어 본능적으로 접촉을 꺼립니다. 강압적인 터치 대신 평소 발끝을 가볍게 댔다가 떼며 칭찬 보상을 해 주는 둔감화 훈련이 필요합니다."
-          },
-          {
-            "question": "소파 계단만 있으면 슬개골 탈구를 완전히 예방할 수 있나요?",
-            "answer": "안전 계단은 충격을 줄여주는 좋은 도구이지만, 미끄러운 마룻바닥과 발바닥 털 관리도 중요합니다. 발바닥 패드 사이의 털을 항상 짧게 정리하고 실내 매트를 깔아주는 것이 병행되어야 시너지 효과가 납니다."
-          }
-        ],
-        "tags": [
-          "말티즈",
-          "슬개골 탈구",
-          "눈물자국",
-          "반려견 케어"
+          "LuksasiPatela",
+          "NodaAirMata",
+          "PerawatanAnjing"
         ]
       }
     },

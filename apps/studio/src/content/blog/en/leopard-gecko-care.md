@@ -5,15 +5,15 @@ description: "Comprehensive care guide for Leopard Geckos. Learn to decode tail-
 pubDate: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Leopard Gecko"]
+tags: ["PetCare","PetHealth","Leopard Gecko (Eublepharis macularius)"]
 heroImage: "/images/blog/leopard_gecko_care.png"
 app: "petself"
 formatVersion: 4
-authority: "Association of Reptilian and Amphibian Veterinarians (ARAV) Care Guidelines"
+authority: "Association of Reptilian and Amphibian Veterinarians (ARAV) Care Guidelines & Reptile Clinical Standards"
 steps:
   - name: "Leopard Gecko Body Language: Deciphering Tail Movements and Pre-Shedding Clues"
     text: "A gecko's plump tail is both a vital fat reservoir and a primary communication instrument. Distinguishing between slow, defensive tail waving and joyful tail wiggles during feeding prevents unnecessary handling stress."
-  - name: "Leopard Gecko's Body Language & Signals"
+  - name: "Leopard Gecko (Eublepharis macularius)'s Body Language & Signals"
     text: "* Tail Elevated & Waved Slowly in S-Curves (Slow Tail Waving): A high-alert defensive posture indicating the gecko feels threatened or startled by a predator signal. (Immediately halt handling, withdraw your hand slowly, and allow the gecko to retreat into its shelter undisturbed.)
 
 * Skin Becoming Dull White & Eye Rubbing (Pre-Shedding Signal): The imminent onset of shedding (ecdysis); old keratin layers are loosening and require high humidity. (Generously mist moss or paper towels inside the humid hide with warm water to raise local humidity above 70%.)"
@@ -39,7 +39,7 @@ With their smiling expressions and distinctive spotted tails, Leopard Geckos are
       Veterinary & Behavioral Evidence
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      This content is based on <strong>Association of Reptilian and Amphibian Veterinarians (ARAV) Care Guidelines</strong>.
+      This content is based on <strong>Association of Reptilian and Amphibian Veterinarians (ARAV) Care Guidelines & Reptile Clinical Standards</strong>.
     </p>
   </div>
 </div>
@@ -60,7 +60,7 @@ With their smiling expressions and distinctive spotted tails, Leopard Geckos are
 
 ---
 
-## 2. Leopard Gecko's Body Language & Signals
+## 2. Leopard Gecko (Eublepharis macularius)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

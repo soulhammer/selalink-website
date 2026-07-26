@@ -1,36 +1,36 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "Panduan Sosialisasi dan Rutinitas Perawatan Bulu Ganda Anjing Jindo yang Setia"
-description: "Cara melatih sosialisasi Jindo yang waspada terhadap orang asing dan 3 rutinitas merawat bulu ganda."
+title: "Panduan Sosialisasi dan Rutinitas Harian 3 Langkah Perawatan Bulu Ganda Anjing Jindo yang Setia"
+description: "Cara melatih sosialisasi Jindo yang waspada terhadap orang asing dan 3 langkah rutinitas harian merawat bulu ganda agar tidak rontok parah."
 pubDate: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Anjing Jindo (Jindo Dog)"]
+tags: ["PerawatanHewan","KesehatanHewan","Anjing Jindo (Canis lupus familiaris)"]
 heroImage: "/images/blog/jindo_care.png"
 app: "petself"
 formatVersion: 4
-authority: "Lembaga Ilmu Peternakan Nasional Korea & Protokol Pakar Perilaku KKC"
+authority: "Pedoman Standar Jindo Lembaga Ilmu Peternakan Nasional Korea & Protokol Pakar Perilaku KKC"
 steps:
-  - name: "Bahasa Tubuh Jindo: Kesetiaan dan Kewaspadaan"
-    text: "Jindo mengekspresikan emosi dengan tenang lewat telinga dan ekor. Ekor tegak dan telinga condong ke depan menunjukkan kewaspadaan, sedangkan ekor rendah bergoyang perlahan menandakan kepatuhan."
-  - name: "Anjing Jindo (Jindo Dog)'s Body Language & Signals"
-    text: "* Ekor tegak dan telinga condong ke depan: Waspada dan fokus pada target yang tidak dikenal. (Hindari kontak mendadak, minta orang asing tidak menyentuh, dan tenangkan anjing secara perlahan.)
+  - name: "Bahasa Tubuh Jindo: Sinyal Kesetiaan dan Kewaspadaan"
+    text: "Jindo mengekspresikan emosi secara tenang lewat telinga dan ekor. Ekor tegak lurus dan telinga condong ke depan menunjukkan kewaspadaan tinggi dan fokus; sentuhan mendadak dari orang asing bisa memicu reaksi defensif. Sebaliknya, ekor rendah yang bergoyang perlahan dengan telinga rata menandakan kepatuhan dan rasa percaya pada pemilik."
+  - name: "Anjing Jindo (Canis lupus familiaris)'s Body Language & Signals"
+    text: "* Ekor tegak dan telinga condong ke depan: Waspada dan fokus pada target yang tidak dikenal dalam kondisi tegang. (Hindari kontak mendadak atau tatapan mata, minta orang asing tidak menyentuh, dan biarkan pemilik menenangkan anjing.)
 
-* Ekor rendah bergoyang perlahan dan telinga rata: Kepatuhan mendalam dan rasa percaya kepada pemilik. (Elus dengan lembut untuk memperkuat hubungan positif secara konsisten.)"
+* Ekor rendah bergoyang perlahan dan telinga rata: Kepatuhan mendalam, rasa percaya, dan kasih sayang kepada pemilik. (Elus dengan lembut dan berikan pujian untuk memperkuat hubungan positif secara konsisten.)"
   - name: "Customized 3-Step Home Care Routine"
-    text: "* STEP 1. Pagi: Jalan-jalan sosialisasi santai dengan fokus penciuman: Berjalan di pagi hari saat sepi agar anjing terbiasa dengan berbagai aroma lingkungan.
+    text: "* STEP 1. Pagi: Jalan-jalan Sosialisasi Santai Fokus Penciuman (Nosework): Berjalan di pagi hari yang tenang agar anjing terbiasa dengan lingkungan melalui aroma.
 
-* STEP 2. Siang: Menyikat bulu ganda untuk menghilangkan bulu mati: Gunakan slicker brush dan sisir besi untuk membersihkan bulu mati dan mencegah infeksi kulit.
+* STEP 2. Siang: Menyikat Bulu Ganda untuk Menghilangkan Bulu Mati: Gunakan sikat slicker dan sisir besi untuk membersihkan bulu mati lapisan dalam agar tidak menggumpal dan memicu dermatitis.
 
-* STEP 3. Sore: Latihan desensitisasi sentuhan: Sentuh area sensitif seperti cakar dan telinga sambil memberikan camilan untuk membangun memori positif."
+* STEP 3. Malam: Latihan Desensitisasi Sentuhan dan Penguatan Positif: Sentuh area sensitif seperti cakar, telinga, dan moncong sambil memberikan camilan untuk membangun memori positif."
 faqs:
   - question: "Apakah sulit memelihara Jindo di dalam rumah?"
-    answer: "Bisa beradaptasi dengan baik jika Anda rutin mengajaknya buang air di luar dan membersihkan bulu rontok. Jalan-jalan 2 kali sehari wajib dilakukan."
+    answer: "Mereka beradaptasi baik jika Anda memaklumi kebiasaan buang air di luar dan kerontokan bulu ganda. Jalan-jalan minimal dua kali sehari dan stimulasi otak sangat wajib."
   - question: "Anjing Jindo saya tidak ramah dengan anjing lain, apakah wajar?"
-    answer: "Wajar karena mereka mandiri dan teritorial. Targetkan respon netral (tenang tanpa menggonggong) saat berpapasan dengan anjing lain."
+    answer: "Wajar karena mereka mandiri dan teritorial. Targetkan 'netralitas sosial'—bisa berjalan melewati anjing lain dengan tenang tanpa menggonggong."
 ---
 
-Anjing Jindo adalah harta karun nasional Korea yang diakui dunia karena kesetiaan dan kecerdasannya. Mereka memiliki ikatan kuat dengan pemiliknya, tetapi kewaspadaan tinggi membuat mereka defensif jika kurang sosialisasi. Bulu ganda mereka rontok parah saat pergantian musim. Hari ini PetSelf membagikan tips sosialisasi dan perawatan bulu Jindo.
+Anjing Jindo adalah harta karun nasional Korea yang diakui dunia karena kesetiaan dan kecerdasannya. Mereka memiliki ikatan yang sangat kuat dengan satu pemilik, tetapi kewaspadaan tinggi membuat mereka sangat defensif terhadap orang asing jika kurang sosialisasi. 🐕 Bulu ganda mereka yang lebat rontok parah saat pergantian musim. Hari ini PetSelf membagikan tips sosialisasi dan 3 langkah rutinitas harian perawatan bulu Jindo.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -39,28 +39,28 @@ Anjing Jindo adalah harta karun nasional Korea yang diakui dunia karena kesetiaa
       Bukti Dokter Hewan & Perilaku
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Konten ini didasarkan pada <strong>Lembaga Ilmu Peternakan Nasional Korea & Protokol Pakar Perilaku KKC</strong>.
+      Konten ini didasarkan pada <strong>Pedoman Standar Jindo Lembaga Ilmu Peternakan Nasional Korea & Protokol Pakar Perilaku KKC</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 1. Bahasa Tubuh Jindo: Kesetiaan dan Kewaspadaan
+## 1. Bahasa Tubuh Jindo: Sinyal Kesetiaan dan Kewaspadaan
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Bahasa Tubuh Jindo: Kesetiaan dan Kewaspadaan</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Bahasa Tubuh Jindo: Sinyal Kesetiaan dan Kewaspadaan</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Jindo mengekspresikan emosi dengan tenang lewat telinga dan ekor. Ekor tegak dan telinga condong ke depan menunjukkan kewaspadaan, sedangkan ekor rendah bergoyang perlahan menandakan kepatuhan.
+    Jindo mengekspresikan emosi secara tenang lewat telinga dan ekor. Ekor tegak lurus dan telinga condong ke depan menunjukkan kewaspadaan tinggi dan fokus; sentuhan mendadak dari orang asing bisa memicu reaksi defensif. Sebaliknya, ekor rendah yang bergoyang perlahan dengan telinga rata menandakan kepatuhan dan rasa percaya pada pemilik.
   </p>
 </div>
 
 ---
 
-## 2. Anjing Jindo (Jindo Dog)'s Body Language & Signals
+## 2. Anjing Jindo (Canis lupus familiaris)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -68,8 +68,8 @@ Anjing Jindo adalah harta karun nasional Korea yang diakui dunia karena kesetiaa
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Ekor tegak dan telinga condong ke depan</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Arti:</strong> Waspada dan fokus pada target yang tidak dikenal.<br/>
-    <strong>• Tindakan:</strong> Hindari kontak mendadak, minta orang asing tidak menyentuh, dan tenangkan anjing secara perlahan.
+    <strong>• Arti:</strong> Waspada dan fokus pada target yang tidak dikenal dalam kondisi tegang.<br/>
+    <strong>• Tindakan:</strong> Hindari kontak mendadak atau tatapan mata, minta orang asing tidak menyentuh, dan biarkan pemilik menenangkan anjing.
   </p>
 </div>
 
@@ -79,8 +79,8 @@ Anjing Jindo adalah harta karun nasional Korea yang diakui dunia karena kesetiaa
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Ekor rendah bergoyang perlahan dan telinga rata</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Arti:</strong> Kepatuhan mendalam dan rasa percaya kepada pemilik.<br/>
-    <strong>• Tindakan:</strong> Elus dengan lembut untuk memperkuat hubungan positif secara konsisten.
+    <strong>• Arti:</strong> Kepatuhan mendalam, rasa percaya, dan kasih sayang kepada pemilik.<br/>
+    <strong>• Tindakan:</strong> Elus dengan lembut dan berikan pujian untuk memperkuat hubungan positif secara konsisten.
   </p>
 </div>
 
@@ -91,30 +91,30 @@ Anjing Jindo adalah harta karun nasional Korea yang diakui dunia karena kesetiaa
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pagi: Jalan-jalan sosialisasi santai dengan fokus penciuman</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pagi: Jalan-jalan Sosialisasi Santai Fokus Penciuman (Nosework)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Berjalan di pagi hari saat sepi agar anjing terbiasa dengan berbagai aroma lingkungan.
+    Berjalan di pagi hari yang tenang agar anjing terbiasa dengan lingkungan melalui aroma.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Siang: Menyikat bulu ganda untuk menghilangkan bulu mati</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Siang: Menyikat Bulu Ganda untuk Menghilangkan Bulu Mati</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Gunakan slicker brush dan sisir besi untuk membersihkan bulu mati dan mencegah infeksi kulit.
+    Gunakan sikat slicker dan sisir besi untuk membersihkan bulu mati lapisan dalam agar tidak menggumpal dan memicu dermatitis.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Sore: Latihan desensitisasi sentuhan</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Malam: Latihan Desensitisasi Sentuhan dan Penguatan Positif</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Sentuh area sensitif seperti cakar dan telinga sambil memberikan camilan untuk membangun memori positif.
+    Sentuh area sensitif seperti cakar, telinga, dan moncong sambil memberikan camilan untuk membangun memori positif.
   </p>
 </div>
 
@@ -133,7 +133,7 @@ Anjing Jindo adalah harta karun nasional Korea yang diakui dunia karena kesetiaa
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Bisa beradaptasi dengan baik jika Anda rutin mengajaknya buang air di luar dan membersihkan bulu rontok. Jalan-jalan 2 kali sehari wajib dilakukan.
+      Mereka beradaptasi baik jika Anda memaklumi kebiasaan buang air di luar dan kerontokan bulu ganda. Jalan-jalan minimal dua kali sehari dan stimulasi otak sangat wajib.
     </p>
   </details>
 
@@ -143,7 +143,7 @@ Anjing Jindo adalah harta karun nasional Korea yang diakui dunia karena kesetiaa
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Wajar karena mereka mandiri dan teritorial. Targetkan respon netral (tenang tanpa menggonggong) saat berpapasan dengan anjing lain.
+      Wajar karena mereka mandiri dan teritorial. Targetkan 'netralitas sosial'—bisa berjalan melewati anjing lain dengan tenang tanpa menggonggong.
     </p>
   </details>
 </div>

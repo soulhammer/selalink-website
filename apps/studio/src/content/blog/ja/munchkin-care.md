@@ -1,22 +1,22 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "マンチカン猫の関節保護ガイドと低位置3ステップ日常ルーチン"
-description: "短足のマンチカン猫のケア。関節の不調を示す警告サインを見極め、3ステップの日常ルーチンで健康的な動きを維持しましょう。"
+title: "マンチカン猫の関節保護ガイドと低位置3段階日常ルーティン"
+description: "短足のマンチカン猫のケア方法。関節の不調サインを察知し、低位置の日常ルーティンで関節炎や椎間板ヘルニアを予防する方法を学びます。"
 pubDate: "2026-05-31"
 updatedDate: "2026-05-31"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","マンチカン (Munchkin Cat)"]
+tags: ["ペットケア","ペット健康","マンチカン (Felis catus / Munchkin Cat)"]
 heroImage: "/images/blog/munchkin_care.png"
 app: "petself"
 formatVersion: 4
-authority: "キャットファンシアーズアソシエーション（CFA）マンチカン基準および獣医整形外科ガイドライン"
+authority: "キャットファンシアーズアソシエーション（CFA）マンチカン標準および獣医整形外科ガイドライン"
 steps:
   - name: "マンチカン猫の感情表現：カンガルー立ちとジャンプの躊躇"
-    text: "足の短いマンチカンは、独特なポーズを見せます。周囲を見渡すために後ろ足で直立する「カンガルー立ち」は好奇心の表れであり体に害はありません。しかし、今まで上れていた低い家具へのジャンプをためらったり諦めたりする行動は、関節や背骨に痛みを感じている危険なサインです。"
-  - name: "マンチカン (Munchkin Cat)'s Body Language & Signals"
+    text: "足の短いマンチカンは、独特なポーズを見せます。周囲を見渡すために後ろ足で直立する「カンガルー立ち（Kangaroo Standing）」は好奇心の表れであり体に害はありません。しかし、今まで上れていた低い家具へのジャンプを「ためらったり諦めたりする行動」は、関節や背骨に痛みを感じている危険なサインです。"
+  - name: "マンチカン (Felis catus / Munchkin Cat)'s Body Language & Signals"
     text: "* カンガルー立ち（後ろ足直立）: 短い体高を補うために、後ろ足と臀部でバランスを取り直立して視界を広げる自然な姿勢です。 (直立時に滑って股関節に負担がかからないよう、床には必ず滑り止めのマットを敷いておきます。)
 
-* ジャンプ時の躊躇（ためらい）: 低い場所に上る際にも何度も首を振ったり見上げたりして躊躇する動作で、関節の痛みを示すSOSです。 (無理に上らせず、ステップやペットスロープを置いて高低差を緩やかにし、動物病院で診察を受けてください。)"
+* ジャンプ前の躊躇（ためらい）または断念: 低い場所に上る際にも何度も首を振ったり見上げたりして躊躇する動作で、脊椎や後肢関節の痛みを示すSOSです。 (無理に上らせず、ステップやペットスロープを置いて高低差を緩やかにし、症状が続く場合は動物病院で診察を受けてください。)"
   - name: "Customized 3-Step Home Care Routine"
     text: "* STEP 1. 朝：歩行状態と関節の柔軟性チェック: 朝起きた後の歩き方に不自然さがないか観察します。特に関節が硬くなりやすい寒い時期は、足をかばう仕草に注意します。
 
@@ -30,7 +30,7 @@ faqs:
     answer: "体重の増加は短い脚や背骨に直接負担をかけ、関節炎や椎間板ヘルニアを早期に誘発します。適切な給餌量によりスリムな体型を維持することが最善の予防です。"
 ---
 
-短い手足と愛らしい性格で多くの人を魅了するマンチカン。非常に活発でよく走り回りますが、足が短いため、ジャンプ時の着地衝撃が背骨や関節に大きく伝わりやすい特徴があります。そのため、遺伝的に脊柱湾曲症（Lordosis）や早期の変形性関節症になりやすい傾向があります。今回は、マンチカンが見せる関節の不調シグナルを分析し、背骨を守り生涯の歩行能力をサポートする3ステップの日常ルーチンをご紹介します。
+短い手足と愛らしい性格で多くの人を魅了するマンチカン。非常に活発でよく走り回りますが、足が短いため、ジャンプ時の着地衝撃が背骨や関節に大きく伝わりやすい特徴があります。そのため、遺伝的に脊柱湾曲症（Lordosis）や早期の変形性関節症になりやすい傾向があります。今回は、マンチカンが見せる関節の不調シグナルを分析し、背骨を守り生涯の歩行能力をサポートする3ステップの日常ルーティンをご紹介します。
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -39,7 +39,7 @@ faqs:
       獣医学・行動学的根拠
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      本コンテンツは、<strong>キャットファンシアーズアソシエーション（CFA）マンチカン基準および獣医整形外科ガイドライン</strong>に基づいています。
+      本コンテンツは、<strong>キャットファンシアーズアソシエーション（CFA）マンチカン標準および獣医整形外科ガイドライン</strong>に基づいています。
     </p>
   </div>
 </div>
@@ -54,13 +54,13 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">マンチカン猫の感情表現：カンガルー立ちとジャンプの躊躇</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    足の短いマンチカンは、独特なポーズを見せます。周囲を見渡すために後ろ足で直立する「カンガルー立ち」は好奇心の表れであり体に害はありません。しかし、今まで上れていた低い家具へのジャンプをためらったり諦めたりする行動は、関節や背骨に痛みを感じている危険なサインです。
+    足の短いマンチカンは、独特なポーズを見せます。周囲を見渡すために後ろ足で直立する「カンガルー立ち（Kangaroo Standing）」は好奇心の表れであり体に害はありません。しかし、今まで上れていた低い家具へのジャンプを「ためらったり諦めたりする行動」は、関節や背骨に痛みを感じている危険なサインです。
   </p>
 </div>
 
 ---
 
-## 2. マンチカン (Munchkin Cat)'s Body Language & Signals
+## 2. マンチカン (Felis catus / Munchkin Cat)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -76,11 +76,11 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">ボディシグナル 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">ジャンプ時の躊躇（ためらい）</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">ジャンプ前の躊躇（ためらい）または断念</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• 意味:</strong> 低い場所に上る際にも何度も首を振ったり見上げたりして躊躇する動作で、関節の痛みを示すSOSです。<br/>
-    <strong>• 対処法:</strong> 無理に上らせず、ステップやペットスロープを置いて高低差を緩やかにし、動物病院で診察を受けてください。
+    <strong>• 意味:</strong> 低い場所に上る際にも何度も首を振ったり見上げたりして躊躇する動作で、脊椎や後肢関節の痛みを示すSOSです。<br/>
+    <strong>• 対処法:</strong> 無理に上らせず、ステップやペットスロープを置いて高低差を緩やかにし、症状が続く場合は動物病院で診察を受けてください。
   </p>
 </div>
 

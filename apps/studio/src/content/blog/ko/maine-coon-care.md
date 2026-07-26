@@ -5,7 +5,7 @@ description: "사자 같은 외모를 지닌 신사적인 거대 고양이 메�
 pubDate: "2026-04-20"
 updatedDate: "2026-04-20"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","메인쿤 (Maine Coon)"]
+tags: ["반려동물","펫케어","메인쿤 (Felis catus / Maine Coon)"]
 heroImage: "/images/blog/maine_coon_care.png"
 app: "petself"
 formatVersion: 4
@@ -13,11 +13,11 @@ authority: "Maine Coon Breeders & Fanciers Association (MCBFA) 및 AAFP 대형�
 steps:
   - name: "메인쿤의 바디 랭귀지: 친근한 트릴링과 경계의 꼬리 부풀리기"
     text: "메인쿤은 성격이 유순하고 호기심이 많은 만큼 다른 고양이와 달리 소통하려는 욕구가 큽니다. 대표적인 카밍 시그널은 '트릴링(Chirping/Trilling)'과 '꼬리 부풀리기(Puffed Tail)'입니다. '뇨롱' 또는 '끼루룩' 소리를 내며 다가오는 트릴링은 보호자를 아주 반갑게 맞이하고 애정을 교류하자는 소통 신호입니다. 반면, 예측하지 못한 가전제품 소음이나 낯선 환경에 놀랐을 때 꼬리 전체의 털이 부풀어 올라 커다란 솔 모양으로 변합니다. 이때는 꼬리가 복원되어 차분해질 때까지 독립된 공간을 주고 지켜보는 것이 최선입니다."
-  - name: "메인쿤 (Maine Coon)의 몸짓 언어와 바디 시그널"
+  - name: "메인쿤 (Felis catus / Maine Coon)의 몸짓 언어와 바디 시그널"
     text: "* 트릴링 (Trilling): 보호자를 향한 최고의 신뢰와 깊은 호감을 건네는 다정한 대화 요청 소리입니다. (보호자도 부드러운 하이톤 목소리로 화답해 주거나 가벼운 스킨십을 나누어 교감하세요.)
 
-* 꼬리 부풀리기 (Puffed Tail): 갑작스러운 시각/청각적 공포 요소를 마주하여 흥분 및 경계 상태가 극대화된 시그널입니다. (놀라게 한 요소를 즉시 차단하고, 고양이가 스스로 안정을 취하도록 억지로 다가가지 마세요.)"
-  - name: "메인쿤 (Maine Coon) 맞춤형 3단계 홈케어 루틴"
+* 꼬리 부풀리기 (Puffed Tail): 갑작스러운 시각/청각적 공포 요소를 마주하여 흥분 및 경계 상태가 극대화된 시그널입니다. (놀라게 한 요소를 즉시 차단하고, 고양이가 스스로 안정을 취하도록 억지로 다가지 마세요.)"
+  - name: "메인쿤 (Felis catus / Maine Coon) 맞춤형 3단계 홈케어 루틴"
     text: "* STEP 1. 아침: 정량 사료 급여를 통한 체중 및 HCM 위험 관리: 메인쿤의 비대성 심근증(HCM)은 비만 시 악화합니다. 매일 아침 전용 저울을 사용해 칼로리에 맞춰 정량 급여하고, 충분한 음수 공급을 확인합니다.
 
 * STEP 2. 낮: 장모 이중모 엉킴 방지 쇠빗 전신 브러싱: 사자 갈기 같은 목 주변과 겨드랑이 털은 쉽게 뭉쳐 피부염을 유발합니다. 일자 쇠빗(콤)으로 속털까지 깊숙이 빗어 뭉침을 풀고 브러싱해 비듬을 예방합니다.
@@ -64,7 +64,7 @@ faqs:
 
 ---
 
-## 2. 메인쿤 (Maine Coon)의 몸짓 언어와 바디 시그널
+## 2. 메인쿤 (Felis catus / Maine Coon)의 몸짓 언어와 바디 시그널
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -84,13 +84,13 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 의미:</strong> 갑작스러운 시각/청각적 공포 요소를 마주하여 흥분 및 경계 상태가 극대화된 시그널입니다.<br/>
-    <strong>• 대처법:</strong> 놀라게 한 요소를 즉시 차단하고, 고양이가 스스로 안정을 취하도록 억지로 다가가지 마세요.
+    <strong>• 대처법:</strong> 놀라게 한 요소를 즉시 차단하고, 고양이가 스스로 안정을 취하도록 억지로 다가지 마세요.
   </p>
 </div>
 
 ---
 
-## 3. 메인쿤 (Maine Coon) 맞춤형 3단계 홈케어 루틴
+## 3. 메인쿤 (Felis catus / Maine Coon) 맞춤형 3단계 홈케어 루틴
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

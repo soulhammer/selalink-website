@@ -5,7 +5,7 @@ description: "愛くるしい冠羽を持つオカメインコ。夜間のパニ
 pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","オカメインコ (Cockatiel)"]
+tags: ["ペットケア","ペット健康","オカメインコ (Nymphicus hollandicus / Cockatiel)"]
 heroImage: "/images/blog/cockatiel_care.png"
 app: "petself"
 formatVersion: 4
@@ -13,10 +13,10 @@ authority: "鳥類獣医師協会 (AAV) および行動学アドバイザリー�
 steps:
   - name: "オカメインコの感情表現：冠羽の動きとおねだりポーズの解読"
     text: "頭の冠羽（Crest）は感情や警戒状態をリアルタイムで伝えるアンテナです。頭にピッタリ伏せている時と垂直に立ち上がっている時では意味が全く異なり、頭を低く下げて首を差し出すのは深い信頼の証です。"
-  - name: "オカメインコ (Cockatiel)'s Body Language & Signals"
-    text: "* 冠羽をピンと垂直に立てる (Fully Erect Crest): 周囲の新しい音や物体に強い好奇心を感じているか、緊張して警戒している状態を示します。 (急に手を伸びさず、優しく穏やかな声で話しかけ、インコ自身が状況を安全だと判断するのを待ちます。)
+  - name: "オカメインコ (Nymphicus hollandicus / Cockatiel)'s Body Language & Signals"
+    text: "* 冠羽をピンと垂直に立てる (Fully Erect Crest): 周囲の新しい音や物体に強い好奇心を感じているか、緊張して警戒している状態を示します。 (急に手を伸ばさず、優しく穏やかな声で話しかけ、インコ自身が状況を安全だと判断するのを待ちます。)
 
-* 頭を低く下げて首を差し出す (Head Lowering for Scratches): 飼い主を深く信頼しており、頭やほっぺの周り（冠羽の root）をカキカキしてほしいという愛情表現です。 (指先で毛並みと逆方向に、ほっぺのオレンジ色の羽周辺を優しく撫でてあげましょう。)"
+* 頭を低く下げて首を差し出す (Head Lowering for Scratches): 飼い主を深く信頼しており、頭やほっぺの周り（冠羽の根元）をカキカキしてほしいという愛情表現です。 (指先で毛並みと逆方向に、ほっぺのオレンジ色の羽周辺を優しく撫でてあげましょう。)"
   - name: "Customized 3-Step Home Care Routine"
     text: "* STEP 1. 朝：自然光での換気、羽の健康チェックと新鮮なペレット給餌: 朝のケージカバーを外し、ペレットと水を新鮮なものに交換し、羽の傷や目の輝き、飛行状態を確認します。
 
@@ -27,7 +27,7 @@ faqs:
   - question: "夜中にケージの中で暴れ出した（ナイトフライト）時はどうすればいいですか？"
     answer: "すぐに部屋の電気をつけて優しい声で安心させ、羽やクチバシに怪我がないか確認してください。予防のためケージの横に小さな常夜灯を常に点灯させておくことが推奨されます。"
   - question: "オカメインコの白い粉（脂粉）がたくさん飛ぶのは正常ですか？"
-    answer: "はい、オカメインコは羽を保護するための脂粉（Powder Down）を自然に分泌する me 種です。空気清浄機を稼働させ、週に2 - 3回霧吹きで水浴びをさせてあげると脂粉の飛び散りを抑えられます。"
+    answer: "はい、オカメインコは羽を保護するための脂粉（Powder Down）を自然に分泌する犬種・鳥種です。空気清浄機を稼働させ、週に2 - 3回霧吹きで水浴びをさせてあげると脂粉の飛び散りを抑えられます。"
 ---
 
 鮮やかなオレンジ色のほっぺと頭の美しい冠羽が特徴のオカメインコは、世界中で最も愛されている小型インコです。飼い主と強い絆を結び、口笛を真似るのが大好きな反面、捕食される側の野生本能が残っているため、夜間の僅かな光や音に驚いてケージ内で暴れる「ナイトフライト（夜間パニック）」を起こしやすい一面があります。鳥類獣医師協会（AAV）のガイドラインに基づき、オカメインコの感情サインを読み解き、健康な鳥生をサポートするデイリーケアを解説します。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. オカメインコ (Cockatiel)'s Body Language & Signals
+## 2. オカメインコ (Nymphicus hollandicus / Cockatiel)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -69,7 +69,7 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 意味:</strong> 周囲の新しい音や物体に強い好奇心を感じているか、緊張して警戒している状態を示します。<br/>
-    <strong>• 対処法:</strong> 急に手を伸びさず、優しく穏やかな声で話しかけ、インコ自身が状況を安全だと判断するのを待ちます。
+    <strong>• 対処法:</strong> 急に手を伸ばさず、優しく穏やかな声で話しかけ、インコ自身が状況を安全だと判断するのを待ちます。
   </p>
 </div>
 
@@ -79,7 +79,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">頭を低く下げて首を差し出す (Head Lowering for Scratches)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• 意味:</strong> 飼い主を深く信頼しており、頭やほっぺの周り（冠羽の root）をカキカキしてほしいという愛情表現です。<br/>
+    <strong>• 意味:</strong> 飼い主を深く信頼しており、頭やほっぺの周り（冠羽の根元）をカキカキしてほしいという愛情表現です。<br/>
     <strong>• 対処法:</strong> 指先で毛並みと逆方向に、ほっぺのオレンジ色の羽周辺を優しく撫でてあげましょう。
   </p>
 </div>
@@ -143,7 +143,7 @@ faqs:
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      はい、オカメインコは羽を保護するための脂粉（Powder Down）を自然に分泌する me 種です。空気清浄機を稼働させ、週に2 - 3回霧吹きで水浴びをさせてあげると脂粉の飛び散りを抑えられます。
+      はい、オカメインコは羽を保護するための脂粉（Powder Down）を自然に分泌する犬種・鳥種です。空気清浄機を稼働させ、週に2 - 3回霧吹きで水浴びをさせてあげると脂粉の飛び散りを抑えられます。
     </p>
   </details>
 </div>

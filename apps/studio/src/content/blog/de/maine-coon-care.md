@@ -1,40 +1,40 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "Der sanfte Riese Maine Coon: Hergesundheit und prachtvolles Doppelfell in 3 Schritten"
-description: "Der sanfte Riese Maine Coon. Entdecken Sie Schutzmaßnahmen für Gelenke aufgrund ihres Gewichts und eine 3-Schritte-Routine für Herzgesundheit und Fellpflege."
+title: "Der sanfte Riese Maine Coon: Tägliche 3-Schritte-Routine für Herzgesundheit und prachtvolles Doppelfell"
+description: "Pflege für den sanften Riesen Maine Coon mit löwenartigem Aussehen. Entdecken Sie Dämpfungsmaßnahmen für Gelenke bei hohem Gewicht und eine 3-Schritte-Routine zur HCM-Überwachung."
 pubDate: "2026-04-20"
 updatedDate: "2026-04-20"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Maine Coon"]
+tags: ["Haustierpflege","Haustiergesundheit","Maine Coon (Felis catus)"]
 heroImage: "/images/blog/maine_coon_care.png"
 app: "petself"
 formatVersion: 4
-authority: "Leitfaden der Maine Coon Breeders & Fanciers Association (MCBFA) und AAFP-Protokolle für Großkatzen"
+authority: "Offizieller Leitfaden der Maine Coon Breeders & Fanciers Association (MCBFA) und AAFP-Protokolle für Großkatzen"
 steps:
   - name: "Körpersprache der Maine Coon: Freundliches Trillern und aufgeplusterter Schwanz"
-    text: "Maine Coons sind sehr sozial und kommunikativ. Zu den Signalen gehören Trillern und Schwanz aufplustern. Ein weiches Trillern bei der Annäherung ist eine freundliche Begrüßung. Bei Schreck plustert sich der Schwanz auf wie eine Flaschenbürste. Lassen Sie sie dann in Ruhe sich abregen."
-  - name: "Maine Coon's Body Language & Signals"
-    text: "* Trillern: Ein freundlicher Laut, der Vertrauen und Zuneigung zeigt und um Aufmerksamkeit bittet. (Antworten Sie mit sanfter Stimme oder streicheln Sie sie leicht, um die Liebe zu erwidern.)
+    text: "Maine Coons sind sehr sozial und haben ein starkes Bedürfnis nach Kommunikation. Zu den typischen Signalen gehören das 'Trillern' (Trilling) und der 'aufgeplusterte Schwanz' (Puffed Tail). Ein leises 'Gurren' beim Annähern ist eine freundliche Begrüßung. Wenn sie sich dagegen erschrecken, plustert sich das Fell am Schwanz wie eine Flaschenbürste auf. Entfernen Sie dann den Auslöser und lassen Sie die Katze in Ruhe abkühlen."
+  - name: "Maine Coon (Felis catus)'s Body Language & Signals"
+    text: "* Trillern (Trilling): Ein freundlicher Laut, der tiefes Vertrauen und Zuneigung ausdrückt und um Aufmerksamkeit bittet. (Antworten Sie mit sanfter, freundlicher Stimme oder streicheln Sie die Katze leicht, um die Liebe zu erwidern.)
 
-* Schwanz aufplustern: Eine Angstreaktion auf plötzliche Geräusche oder Reize, die hohe Alarmbereitschaft zeigt. (Beseitigen Sie den Schreckreiz. Zwingen Sie sie nicht zum Kontakt; lassen Sie sie sich beruhigen.)"
+* Aufgeplusterter Schwanz (Puffed Tail): Eine Schreckreaktion auf plötzliche Geräusche oder visuelle Reize, die höchste Alarmbereitschaft anzeigt. (Beseitigen Sie den Schreckreiz sofort. Zwingen Sie die Katze nicht zum Kontakt, sondern lassen Sie sie sich beruhigen.)"
   - name: "Customized 3-Step Home Care Routine"
-    text: "* STEP 1. Morgen: Futterportionierung zur Gewichtskontrolle und HCM-Vorsorge: HCM verschlimmert sich durch Übergewicht. Wiegen Sie das Futter täglich für eine genaue Kalorienkontrolle ab und sorgen Sie für frisches Wasser.
+    text: "* STEP 1. Morgen: Futterportionierung zur Gewichtskontrolle und HCM-Vorsorge: HCM verschlimmert sich durch Übergewicht. Wiegen Sie das Futter täglich mit einer Digitalwaage exakt ab und sorgen Sie für frisches Wasser.
 
-* STEP 2. Nachmittag: Unterfellpflege mit Metallkamm und Slicker-Bürste: Das Fell am Hals und unter den Achseln verfilzt leicht und führt zu Entzündungen. Kämmen Sie tief mit einem Metallkamm, um Verfilzungen zu lösen.
+* STEP 2. Nachmittag: Unterfellpflege mit Metallkamm und Zupfbürste: Das dichte Fell an Mähne und Achseln verfilzt leicht und führt zu Hautentzündungen. Kämmen Sie mit einem Metallkamm tief bis zur Unterwolle durch.
 
-* STEP 3. Abend: Prüfung stoßdämpfender Matten und Atemfrequenzkontrolle: Ihr Gewicht verstärkt den Aufprall beim Herabspringen. Prüfen Sie Dämpfungsmatten und überwachen Sie die Atemfrequenz im Schlaf (unter 30 Atemzüge/Min.)."
+* STEP 3. Abend: Prüfung stoßdämpfender Matten und Atemfrequenzkontrolle: Ihr hohes Gewicht verstärkt den Aufprall beim Herabspringen. Prüfen Sie Dämpfungsmatten unter Rascgbäumen und kontrollieren Sie die Atemfrequenz im Schlaf (unter 30 Atemzüge/Minute)."
 faqs:
   - question: "Wie sollte ich das hohe HCM-Risiko der Maine Coon bewältigen?"
-    answer: "Regelmäßige Herz-Ultraschalluntersuchungen sind wichtig. Vermeiden Sie Übergewicht durch portionierte Fütterung. Wenn die Atemfrequenz im Schlaf 30 Atemzüge/Min. übersteigt, sofort untersuchen lassen."
+    answer: "Regelmäßige Ultraschalluntersuchungen des Herzens beim Tierarzt sind entscheidend. Vermeiden Sie Übergewicht durch streng portionierte Fütterung. Liegt die Atemfrequenz im Schlaf dauerhaft über 30 Atemzügen pro Minute, suchen Sie sofort einen Tierarzt auf."
   - question: "Was passiert, wenn ich verfilztes Fell bei einer Maine Coon gewaltsam ausbürste?"
-    answer: "Aufgrund ihrer Größe und Kraft können sie bei Schmerzen die Pflege verweigern, was die Handhabung erschwert. Nutzen Sie Entwirrungsspray und bürsten Sie in kurzen Einheiten."
+    answer: "Aufgrund ihrer Größe und Kraft können Maine Coons bei Schmerzen sehr wehrhaft werden, was die Pflege unmöglich macht. Sprühen Sie Knoten mit Entwirrungsspray ein und kämmen Sie sie vorsichtig in kleinen Schritten aus."
 ---
 
-Maine Coons sind die „sanften Riesen“ der Katzenwelt. Bekannt für ihre Mähne und die Pinselohren, sind sie anhänglich und lieben das Wasser. 🐈
+Die Maine Coon aus Nordamerika ist als 'sanfter Riese' (Gentle Giant) der Katzenwelt bekannt. Charakteristisch sind die löwenartige Halskrause, die Ohrpinsel (Luchspinsel) und die kräftige Schnauze. Trotz ihrer Größe besitzen sie ein sanftmütiges Wesen, verstehen sich gut mit Kindern und lieben überraschenderweise das Spiel mit Wasser. 🐈
 
-Da sie 8 bis 12 kg wiegen, sind ihre Gelenke hoher Belastung ausgesetzt. Zudem sind sie genetisch anfällig für Hypertrophe Kardiomyopathie (HCM). Die Überwachung der Atemfrequenz und der Schutz der Gelenke sind entscheidend.
+Da ausgewachsene Kater jedoch oft 8 bis 12 kg wiegen, ist die Belastung für Gelenke und Knochen hoch. Zudem neigen Maine Coons genetisch zu Hypertropher Kardiomyopathie (HCM). Die tägliche Kontrolle der Atemfrequenz im Schlaf sowie stoßdämpfende Unterlagen gehören daher zur Grundpflege.
 
-Heute entschlüsselt PetSelf die Körpersprache der Maine Coon und stellt eine 3-Schritte-Routine vor, um ihr Herz zu schützen und das Fell zu pflegen. Die Bereitstellung einer konsistenten täglichen Gesundheitspflege und einer sicheren Umgebung sichert das Wohlbefinden Ihres Haustieres.
+Heute entschlüsselt PetSelf die Körpersprache der Maine Coon und stellt eine 3-Schritte-Routine vor, um das Herz zu schützen und das dichte Doppelfell zu pflegen.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -43,7 +43,7 @@ Heute entschlüsselt PetSelf die Körpersprache der Maine Coon und stellt eine 3
       Veterinärmedizinische & verhaltensbedingte Nachweise
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Dieser Inhalt basiert auf <strong>Leitfaden der Maine Coon Breeders & Fanciers Association (MCBFA) und AAFP-Protokolle für Großkatzen</strong>.
+      Dieser Inhalt basiert auf <strong>Offizieller Leitfaden der Maine Coon Breeders & Fanciers Association (MCBFA) und AAFP-Protokolle für Großkatzen</strong>.
     </p>
   </div>
 </div>
@@ -58,33 +58,33 @@ Heute entschlüsselt PetSelf die Körpersprache der Maine Coon und stellt eine 3
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Körpersprache der Maine Coon: Freundliches Trillern und aufgeplusterter Schwanz</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Maine Coons sind sehr sozial und kommunikativ. Zu den Signalen gehören Trillern und Schwanz aufplustern. Ein weiches Trillern bei der Annäherung ist eine freundliche Begrüßung. Bei Schreck plustert sich der Schwanz auf wie eine Flaschenbürste. Lassen Sie sie dann in Ruhe sich abregen.
+    Maine Coons sind sehr sozial und haben ein starkes Bedürfnis nach Kommunikation. Zu den typischen Signalen gehören das 'Trillern' (Trilling) und der 'aufgeplusterte Schwanz' (Puffed Tail). Ein leises 'Gurren' beim Annähern ist eine freundliche Begrüßung. Wenn sie sich dagegen erschrecken, plustert sich das Fell am Schwanz wie eine Flaschenbürste auf. Entfernen Sie dann den Auslöser und lassen Sie die Katze in Ruhe abkühlen.
   </p>
 </div>
 
 ---
 
-## 2. Maine Coon's Body Language & Signals
+## 2. Maine Coon (Felis catus)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Körpersignal 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Trillern</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Trillern (Trilling)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Bedeutung:</strong> Ein freundlicher Laut, der Vertrauen und Zuneigung zeigt und um Aufmerksamkeit bittet.<br/>
-    <strong>• Reaktion:</strong> Antworten Sie mit sanfter Stimme oder streicheln Sie sie leicht, um die Liebe zu erwidern.
+    <strong>• Bedeutung:</strong> Ein freundlicher Laut, der tiefes Vertrauen und Zuneigung ausdrückt und um Aufmerksamkeit bittet.<br/>
+    <strong>• Reaktion:</strong> Antworten Sie mit sanfter, freundlicher Stimme oder streicheln Sie die Katze leicht, um die Liebe zu erwidern.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Körpersignal 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Schwanz aufplustern</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Aufgeplusterter Schwanz (Puffed Tail)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Bedeutung:</strong> Eine Angstreaktion auf plötzliche Geräusche oder Reize, die hohe Alarmbereitschaft zeigt.<br/>
-    <strong>• Reaktion:</strong> Beseitigen Sie den Schreckreiz. Zwingen Sie sie nicht zum Kontakt; lassen Sie sie sich beruhigen.
+    <strong>• Bedeutung:</strong> Eine Schreckreaktion auf plötzliche Geräusche oder visuelle Reize, die höchste Alarmbereitschaft anzeigt.<br/>
+    <strong>• Reaktion:</strong> Beseitigen Sie den Schreckreiz sofort. Zwingen Sie die Katze nicht zum Kontakt, sondern lassen Sie sie sich beruhigen.
   </p>
 </div>
 
@@ -98,17 +98,17 @@ Heute entschlüsselt PetSelf die Körpersprache der Maine Coon und stellt eine 3
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Morgen: Futterportionierung zur Gewichtskontrolle und HCM-Vorsorge</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    HCM verschlimmert sich durch Übergewicht. Wiegen Sie das Futter täglich für eine genaue Kalorienkontrolle ab und sorgen Sie für frisches Wasser.
+    HCM verschlimmert sich durch Übergewicht. Wiegen Sie das Futter täglich mit einer Digitalwaage exakt ab und sorgen Sie für frisches Wasser.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Nachmittag: Unterfellpflege mit Metallkamm und Slicker-Bürste</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Nachmittag: Unterfellpflege mit Metallkamm und Zupfbürste</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Das Fell am Hals und unter den Achseln verfilzt leicht und führt zu Entzündungen. Kämmen Sie tief mit einem Metallkamm, um Verfilzungen zu lösen.
+    Das dichte Fell an Mähne und Achseln verfilzt leicht und führt zu Hautentzündungen. Kämmen Sie mit einem Metallkamm tief bis zur Unterwolle durch.
   </p>
 </div>
 
@@ -118,7 +118,7 @@ Heute entschlüsselt PetSelf die Körpersprache der Maine Coon und stellt eine 3
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Abend: Prüfung stoßdämpfender Matten und Atemfrequenzkontrolle</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Ihr Gewicht verstärkt den Aufprall beim Herabspringen. Prüfen Sie Dämpfungsmatten und überwachen Sie die Atemfrequenz im Schlaf (unter 30 Atemzüge/Min.).
+    Ihr hohes Gewicht verstärkt den Aufprall beim Herabspringen. Prüfen Sie Dämpfungsmatten unter Rascgbäumen und kontrollieren Sie die Atemfrequenz im Schlaf (unter 30 Atemzüge/Minute).
   </p>
 </div>
 
@@ -137,7 +137,7 @@ Heute entschlüsselt PetSelf die Körpersprache der Maine Coon und stellt eine 3
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Regelmäßige Herz-Ultraschalluntersuchungen sind wichtig. Vermeiden Sie Übergewicht durch portionierte Fütterung. Wenn die Atemfrequenz im Schlaf 30 Atemzüge/Min. übersteigt, sofort untersuchen lassen.
+      Regelmäßige Ultraschalluntersuchungen des Herzens beim Tierarzt sind entscheidend. Vermeiden Sie Übergewicht durch streng portionierte Fütterung. Liegt die Atemfrequenz im Schlaf dauerhaft über 30 Atemzügen pro Minute, suchen Sie sofort einen Tierarzt auf.
     </p>
   </details>
 
@@ -147,7 +147,7 @@ Heute entschlüsselt PetSelf die Körpersprache der Maine Coon und stellt eine 3
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Aufgrund ihrer Größe und Kraft können sie bei Schmerzen die Pflege verweigern, was die Handhabung erschwert. Nutzen Sie Entwirrungsspray und bürsten Sie in kurzen Einheiten.
+      Aufgrund ihrer Größe und Kraft können Maine Coons bei Schmerzen sehr wehrhaft werden, was die Pflege unmöglich macht. Sprühen Sie Knoten mit Entwirrungsspray ein und kämmen Sie sie vorsichtig in kleinen Schritten aus.
     </p>
   </details>
 </div>

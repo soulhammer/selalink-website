@@ -5,7 +5,7 @@ description: "세상에서 가장 작은 토끼 품종인 네덜란드 드워프
 pubDate: "2026-02-17"
 updatedDate: "2026-02-17"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","네덜란드 드워프 토끼 (Netherland Dwarf Rabbit)"]
+tags: ["반려동물","펫케어","네덜란드 드워프 토끼 (Oryctolagus cuniculus)"]
 heroImage: "/images/blog/dwarf_rabbit_care.png"
 app: "petself"
 formatVersion: 4
@@ -13,14 +13,14 @@ authority: "House Rabbit Society 토끼 메디컬 가이드 및 소동물 수의
 steps:
   - name: "드워프 토끼의 감정 표현: 뒷발 쿵쿵 소리와 이 가는 신호"
     text: "네덜란드 드워프 토끼는 강한 불만이나 위협을 감지하면 뒷발로 바닥을 세게 구르는 '뒷발 쿵쿵 구르기(Thumping)' 행동을 하여 위험을 경고합니다. 이와 반대로 편안하고 기쁠 때는 턱을 가볍게 움직이며 드르륵거리는 '이 갈기(Teeth Purring)' 애정 표현을 합니다. 이 감정 신호들을 세심하게 파악하여 돌보는 것이 중요합니다."
-  - name: "네덜란드 드워프 토끼 (Netherland Dwarf Rabbit)의 몸짓 언어와 바디 시그널"
-    text: "* 뒷발 쿵쿵 구르기 (Thumping): 위험을 주위에 알리거나 현재 큰 스트레스와 분노를 느끼고 있다는 단호한 의사표시입니다. (자극 원인을 파악해 소음이나 다른 동물의 접근을 막고 토끼가 안전하다고 느낄 때까지 관찰합니다.)
+  - name: "네덜란드 드워프 토끼 (Oryctolagus cuniculus)의 몸짓 언어와 바디 시그널"
+    text: "* 뒷발 쿵쿵 구르기 (Thumping): 위험을 주위에 알리거나 현재 큰 스트레스와 분노, 거부 의사를 느끼고 있다는 단호한 표현입니다. (자극 원인을 파악해 소음이나 다른 동물의 접근을 막고 토끼가 안전하다고 느낄 때까지 관찰합니다.)
 
 * 이 갈기 및 턱 떨림 (Teeth Purring): 보호자의 쓰다듬을 받거나 편안한 환경에서 고양이의 골골송처럼 기쁨과 안정을 누리고 있는 상태입니다. (이마와 귀 뒤쪽의 뼈 라인을 부드럽게 마사지해 교감 강도를 높여 줍니다.)"
-  - name: "네덜란드 드워프 토끼 (Netherland Dwarf Rabbit) 맞춤형 3단계 홈케어 루틴"
+  - name: "네덜란드 드워프 토끼 (Oryctolagus cuniculus) 맞춤형 3단계 홈케어 루틴"
     text: "* STEP 1. 아침: 고섬유질 티모시 건초 급여 및 신선한 수분 공급: 이빨의 정상 마모와 위장 작동을 위해 아침 일찍 먼지를 턴 무제한 건초를 채우고, 물병 대신 편하게 마실 수 있는 물그릇을 씻어 줍니다.
 
-* STEP 2. 낮: 화장실 모래판 오물 수거 및 발바닥 패드 확인: 위생적인 배변 유지를 위해 모래판을 세척하고, 미끄러짐으로 인한 비절병을 방지하도록 바닥 매트 and 발바닥 상태를 확인합니다.
+* STEP 2. 낮: 화장실 모래판 오물 수거 및 발바닥 패드 확인: 위생적인 배변 유지를 위해 모래판을 세척하고, 미끄러짐으로 인한 비절병을 방지하도록 바닥 매트와 발바닥 상태를 확인합니다.
 
 * STEP 3. 저녁: 이갈이용 나뭇가지 상태 정비 및 발톱 마모 검사: 야간 활동량이 느는 시기에 맞춰 사과나무 이갈이를 보충하고 가구 훼손이나 부상을 막기 위해 정기 발톱 길이를 점검합니다."
 faqs:
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. 네덜란드 드워프 토끼 (Netherland Dwarf Rabbit)의 몸짓 언어와 바디 시그널
+## 2. 네덜란드 드워프 토끼 (Oryctolagus cuniculus)의 몸짓 언어와 바디 시그널
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -68,7 +68,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">뒷발 쿵쿵 구르기 (Thumping)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• 의미:</strong> 위험을 주위에 알리거나 현재 큰 스트레스와 분노를 느끼고 있다는 단호한 의사표시입니다.<br/>
+    <strong>• 의미:</strong> 위험을 주위에 알리거나 현재 큰 스트레스와 분노, 거부 의사를 느끼고 있다는 단호한 표현입니다.<br/>
     <strong>• 대처법:</strong> 자극 원인을 파악해 소음이나 다른 동물의 접근을 막고 토끼가 안전하다고 느낄 때까지 관찰합니다.
   </p>
 </div>
@@ -86,7 +86,7 @@ faqs:
 
 ---
 
-## 3. 네덜란드 드워프 토끼 (Netherland Dwarf Rabbit) 맞춤형 3단계 홈케어 루틴
+## 3. 네덜란드 드워프 토끼 (Oryctolagus cuniculus) 맞춤형 3단계 홈케어 루틴
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -104,7 +104,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">낮: 화장실 모래판 오물 수거 및 발바닥 패드 확인</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    위생적인 배변 유지를 위해 모래판을 세척하고, 미끄러짐으로 인한 비절병을 방지하도록 바닥 매트 and 발바닥 상태를 확인합니다.
+    위생적인 배변 유지를 위해 모래판을 세척하고, 미끄러짐으로 인한 비절병을 방지하도록 바닥 매트와 발바닥 상태를 확인합니다.
   </p>
 </div>
 

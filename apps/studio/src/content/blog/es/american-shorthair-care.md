@@ -1,7 +1,7 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "Cuidado Cardiaco y de Peso del American Shorthair: Rutina de 3 pasos para la prevención de la HCM y control de obesidad"
-description: "Los American Shorthairs son gatos robustos pero propensos a la obesidad y a la miocardiopatía hipertrófica (HCM). Conozca una rutina para controlar su peso y corazón."
+title: "Cuidado cardíaco y de peso del American Shorthair: Rutina diaria de 3 pasos para la prevención de la HCM y el control de la obesidad"
+description: "Los American Shorthair son gatos robustos pero propensos a la obesidad y a la miocardiopatía hipertrófica (HCM). Conozca una rutina de 3 pasos para controlar su peso y salud cardíaca."
 pubDate: "2026-03-02"
 updatedDate: "2026-03-02"
 category: "FreshSelf"
@@ -9,28 +9,28 @@ tags: ["CuidadoMascotas","SaludMascotas","American Shorthair"]
 heroImage: "/images/blog/american_shorthair_care.png"
 app: "petself"
 formatVersion: 4
-authority: "Cat Fanciers' Association (CFA) & Centro de Salud Felina de Cornell"
+authority: "Estándar de raza de la Cat Fanciers' Association (CFA) e investigaciones del Cornell Feline Health Center"
 steps:
-  - name: "Lenguaje corporal del American Shorthair: sobrecarga cardiaca y respiración con boca abierta"
-    text: "Los gatos no jadean de forma natural. Si tu American Shorthair muestra una 'respiración con la boca abierta' o se 'fatiga rápido' al jugar, es aviso de un problema cardiaco. Reconocer estas señales es crucial."
+  - name: "Lenguaje corporal del American Shorthair: Sobrecarga cardíaca y respiración con la boca abierta"
+    text: "A diferencia de los perros, los gatos raramente jadean para regular su temperatura. Si un American Shorthair presenta 'respiración con la boca abierta' o se 'fatiga rápidamente' durante el juego, se trata de una advertencia grave de sobrecarga cardíaca. Detectarlo a tiempo puede salvar su vida."
   - name: "American Shorthair's Body Language & Signals"
-    text: "* Respiración con Boca Abierta: Respirar con boca abierta y lengua fuera, señal de deficiencia severa de oxígeno o falla cardiaca pulmonar. (Evite estresarlo y llévelo inmediatamente a emergencias veterinarias para recibir oxigenoterapia.)
+    text: "* Respiración con la boca abierta (Open-Mouth Breathing): Estado de respiración fatigosa con la boca abierta, indicativo de deficiencia severa de oxígeno por sobrecarga cardiorrespiratoria o estrés extremo. (Minimice el estrés inmediatamente, coloque al gato en su transportín y llévelo de urgencia a una clínica veterinaria 24 horas para recibir oxigenoterapia.)
 
-* Fatiga Rápida al Jugar: Fatigarse y tumbarse de lado tras minutos de juego por un bajo gasto cardiaco. (Suspenda el juego y solicite al veterinario un eco cardiograma para descartar la HCM.)"
+* Fatiga rápida y acostamiento (Quick Fatigue): Interrupción del juego para tumbarse de lado tras breves minutos de actividad, debido a un gasto cardíaco insuficiente. (Limite los ejercicios intensos y realice chequeos anuales con auscultación y ecocardiograma (incluyendo prueba proBNP) para vigilar la HCM.)"
   - name: "Customized 3-Step Home Care Routine"
-    text: "* STEP 1. Mañana: Control de porciones alimentarias para evitar obesidad: Evite la alimentación libre. Divida su ración de calorías diaria en porciones pesadas para cuidar su sistema vascular.
+    text: "* STEP 1. Mañana: Control estricto de raciones para prevenir la obesidad: Evite la alimentación a libre disposición. Divida el requerimiento calórico diario en porciones pesadas por la mañana y la noche para evitar el sobrepeso y proteger los vasos sanguíneos.
 
-* STEP 2. Tarde: Sesión de juego interactivo de 15 minutos para quemar calorías: Juegue con cañas de plumas o punteros láser dos veces al día por 15 minutos para mantenerlo en movimiento.
+* STEP 2. Tarde: Sesión de juego interactivo de 15 minutos para quemar calorías: Estimule su instinto cazador al menos dos veces al día durante 15 minutos con cañas de plumas o ratones de juguete para aumentar el gasto calórico.
 
-* STEP 3. Noche: Cepillado semanal contra bolas de pelo: Aunque su pelo es corto, tiene alta densidad. Cepíllelo una o dos veces por semana para prevenir vómitos por tricobezoares."
+* STEP 3. Noche: Cepillado semanal y prevención de bolas de pelo: Aunque es de pelo corto, su densidad es muy alta. Cepíllelo una o dos veces por semana para eliminar el pelo muerto y prevenir vómitos de tricobezoares y molestias gástricas."
 faqs:
   - question: "¿Qué es la miocardiopatía hipertrófica (HCM) felina?"
-    answer: "Es una enfermedad hereditaria en la que el músculo cardiaco se engrosa, dificultando el bombeo. Como suele ser silenciosa al inicio, se recomiendan ecocardiografías anuales."
-  - question: "¿Cómo puedo regular el peso de mi American Shorthair?"
-    answer: "Es clave usar alimentos altos en proteína, medir las porciones y usar juguetes dispensadores para que el gato deba moverse para obtener su comida."
+    answer: "Es una enfermedad genética hereditaria donde la pared del ventrículo izquierdo se engrosa, reduciendo el espacio interno del corazón y su capacidad de bombeo. En casos graves provoca muerte súbita, por lo que el control ecográfico anual es fundamental."
+  - question: "¿Qué consejos nutricionales ayudan a prevenir la obesidad en el American Shorthair?"
+    answer: "Seleccione un alimento alto en proteína y bajo en carbohidratos, y sirva parte de su ración dentro de juguetes interactivos dispensadores para motivarlo a moverse mientras come."
 ---
 
-Conocido por su patrón atigrado plateado y su cuerpo fuerte, el American Shorthair es un gato equilibrado y cariñoso. Su carácter calmado suele llevarlos a la pereza y la obesidad, lo que daña su corazón. Tienen además predisposición genética a la miocardiopatía hipertrófica (HCM). Hoy, PetSelf descifra sus señales y presenta una rutina diaria de cuidado en 3 pasos.
+Conocido por su hermoso patrón atigrado plateado y su complexión muscular, el American Shorthair es un compañero dócil y de gran adaptabilidad. Sin embargo, su amor por la comida y su naturaleza tranquila suelen conducirlo a la obesidad, lo que ejerce una gran presión sobre su sistema cardiovascular. Además, esta raza tiene predisposición genética a la miocardiopatía hipertrófica (HCM), una patología donde el músculo cardíaco se engrosa. Hoy, PetSelf descifra sus señales de alerta cardíaca y presenta una rutina de cuidado en 3 pasos.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -39,22 +39,22 @@ Conocido por su patrón atigrado plateado y su cuerpo fuerte, el American Shorth
       Evidencia Veterinaria y Comportamental
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Este contenido se basa en <strong>Cat Fanciers' Association (CFA) & Centro de Salud Felina de Cornell</strong>.
+      Este contenido se basa en <strong>Estándar de raza de la Cat Fanciers' Association (CFA) e investigaciones del Cornell Feline Health Center</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 1. Lenguaje corporal del American Shorthair: sobrecarga cardiaca y respiración con boca abierta
+## 1. Lenguaje corporal del American Shorthair: Sobrecarga cardíaca y respiración con la boca abierta
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Lenguaje corporal del American Shorthair: sobrecarga cardiaca y respiración con boca abierta</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Lenguaje corporal del American Shorthair: Sobrecarga cardíaca y respiración con la boca abierta</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Los gatos no jadean de forma natural. Si tu American Shorthair muestra una 'respiración con la boca abierta' o se 'fatiga rápido' al jugar, es aviso de un problema cardiaco. Reconocer estas señales es crucial.
+    A diferencia de los perros, los gatos raramente jadean para regular su temperatura. Si un American Shorthair presenta 'respiración con la boca abierta' o se 'fatiga rápidamente' durante el juego, se trata de una advertencia grave de sobrecarga cardíaca. Detectarlo a tiempo puede salvar su vida.
   </p>
 </div>
 
@@ -65,22 +65,22 @@ Conocido por su patrón atigrado plateado y su cuerpo fuerte, el American Shorth
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Señal Corporal 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Respiración con Boca Abierta</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Respiración con la boca abierta (Open-Mouth Breathing)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Significado:</strong> Respirar con boca abierta y lengua fuera, señal de deficiencia severa de oxígeno o falla cardiaca pulmonar.<br/>
-    <strong>• Respuesta:</strong> Evite estresarlo y llévelo inmediatamente a emergencias veterinarias para recibir oxigenoterapia.
+    <strong>• Significado:</strong> Estado de respiración fatigosa con la boca abierta, indicativo de deficiencia severa de oxígeno por sobrecarga cardiorrespiratoria o estrés extremo.<br/>
+    <strong>• Respuesta:</strong> Minimice el estrés inmediatamente, coloque al gato en su transportín y llévelo de urgencia a una clínica veterinaria 24 horas para recibir oxigenoterapia.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Señal Corporal 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Fatiga Rápida al Jugar</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Fatiga rápida y acostamiento (Quick Fatigue)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Significado:</strong> Fatigarse y tumbarse de lado tras minutos de juego por un bajo gasto cardiaco.<br/>
-    <strong>• Respuesta:</strong> Suspenda el juego y solicite al veterinario un eco cardiograma para descartar la HCM.
+    <strong>• Significado:</strong> Interrupción del juego para tumbarse de lado tras breves minutos de actividad, debido a un gasto cardíaco insuficiente.<br/>
+    <strong>• Respuesta:</strong> Limite los ejercicios intensos y realice chequeos anuales con auscultación y ecocardiograma (incluyendo prueba proBNP) para vigilar la HCM.
   </p>
 </div>
 
@@ -91,10 +91,10 @@ Conocido por su patrón atigrado plateado y su cuerpo fuerte, el American Shorth
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Mañana: Control de porciones alimentarias para evitar obesidad</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Mañana: Control estricto de raciones para prevenir la obesidad</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Evite la alimentación libre. Divida su ración de calorías diaria en porciones pesadas para cuidar su sistema vascular.
+    Evite la alimentación a libre disposición. Divida el requerimiento calórico diario en porciones pesadas por la mañana y la noche para evitar el sobrepeso y proteger los vasos sanguíneos.
   </p>
 </div>
 
@@ -104,17 +104,17 @@ Conocido por su patrón atigrado plateado y su cuerpo fuerte, el American Shorth
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: Sesión de juego interactivo de 15 minutos para quemar calorías</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Juegue con cañas de plumas o punteros láser dos veces al día por 15 minutos para mantenerlo en movimiento.
+    Estimule su instinto cazador al menos dos veces al día durante 15 minutos con cañas de plumas o ratones de juguete para aumentar el gasto calórico.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noche: Cepillado semanal contra bolas de pelo</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noche: Cepillado semanal y prevención de bolas de pelo</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Aunque su pelo es corto, tiene alta densidad. Cepíllelo una o dos veces por semana para prevenir vómitos por tricobezoares.
+    Aunque es de pelo corto, su densidad es muy alta. Cepíllelo una o dos veces por semana para eliminar el pelo muerto y prevenir vómitos de tricobezoares y molestias gástricas.
   </p>
 </div>
 
@@ -133,17 +133,17 @@ Conocido por su patrón atigrado plateado y su cuerpo fuerte, el American Shorth
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Es una enfermedad hereditaria en la que el músculo cardiaco se engrosa, dificultando el bombeo. Como suele ser silenciosa al inicio, se recomiendan ecocardiografías anuales.
+      Es una enfermedad genética hereditaria donde la pared del ventrículo izquierdo se engrosa, reduciendo el espacio interno del corazón y su capacidad de bombeo. En casos graves provoca muerte súbita, por lo que el control ecográfico anual es fundamental.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>¿Cómo puedo regular el peso de mi American Shorthair?</span>
+      <span>¿Qué consejos nutricionales ayudan a prevenir la obesidad en el American Shorthair?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Es clave usar alimentos altos en proteína, medir las porciones y usar juguetes dispensadores para que el gato deba moverse para obtener su comida.
+      Seleccione un alimento alto en proteína y bajo en carbohidratos, y sirva parte de su ración dentro de juguetes interactivos dispensadores para motivarlo a moverse mientras come.
     </p>
   </details>
 </div>

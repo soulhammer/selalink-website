@@ -1,22 +1,22 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "Sicherer Hafen und Vertrauensbildung: Eine 3-Schritte-Routine für Russisch Blau"
+title: "Sicherer Hafen und Vertrauensbildung: Tägliche 3-Schritte-Routine für Russisch Blau"
 description: "Russisch Blau Katzen sind von Natur aus scheu und geräuschempfindlich. Erfahren Sie, wie Sie eine stressfreie Schutzzone schaffen und Vertrauen aufbauen."
 pubDate: "2026-03-26"
 updatedDate: "2026-03-26"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Russisch Blau"]
+tags: ["Haustierpflege","Haustiergesundheit","Russisch Blau (Felis catus / Russian Blue)"]
 heroImage: "/images/blog/russian_blue_care.png"
 app: "petself"
 formatVersion: 4
 authority: "Rasseführer der Cat Fanciers' Association (CFA) & Cornell Feline Health Center"
 steps:
   - name: "Körpersprache der Russisch Blau: Warnzeichen von Panik lesen"
-    text: "Aufgrund ihres sanften Wesens zeigen Russisch Blau Warnsignale sehr leise. Wichtige Paniksignale sind 'erweiterte Pupillen' und 'Ducken'. Bei plötzlichen Geräuschen erweitern sich die Pupillen. Wenn sie sich flach an den Boden pressen und die Ohren anlegen, haben sie extreme Angst und bereiten sich auf die Flucht vor."
-  - name: "Russisch Blau's Body Language & Signals"
-    text: "* Erweiterte Pupillen: Eine physische Reaktion, die zeigt, dass sie hochalarmiert, angespannt oder verängstigt sind. (Dimmen Sie das Licht und schalten Sie die Störquelle (wie Staubsauger oder Mixer) sofort aus.)
+    text: "Aufgrund ihres sanften Wesens zeigen Russisch Blau Warnsignale sehr leise. Wichtige Paniksignale sind 'erweiterte Pupillen' (Dilated Pupils) und 'Ducken' (Crouching). Bei plötzlichen Geräuschen erweitern sich die Pupillen. Wenn sie sich flach an den Boden pressen und die Ohren anlegen, haben sie extreme Angst und bereiten sich auf die Flucht vor."
+  - name: "Russisch Blau (Felis catus / Russian Blue)'s Body Language & Signals"
+    text: "* Erweiterte Pupillen (Dilated Pupils): Eine physische Reaktion, die zeigt, dass sie hochalarmiert, angespannt oder verängstigt sind. (Dimmen Sie das Licht und schalten Sie die Störquelle (wie Staubsauger oder Mixer) sofort aus.)
 
-* Ducken: Ein Zeichen von defensiver Panik, das zeigt, dass sie sich in die Enge getrieben fühlen. (Zwingen Sie sie nicht zum Kontakt. Lassen Sie sie in einen ruhigen Raum oder Schrank flüchten.)"
+* Ducken (Crouching): Ein Zeichen von defensiver Panik, das zeigt, dass sie sich in die Enge getrieben fühlen. (Zwingen Sie sie nicht zum Kontakt. Lassen Sie sie in einen ruhigen Raum oder Schrank flüchten.)"
   - name: "Customized 3-Step Home Care Routine"
     text: "* STEP 1. Morgen: Pflege von Katzenklo und Futterplatz zur Beruhigung: Reinigen Sie das Katzenklo früh. Stellen Sie sicher, dass Futter- und Wassernapf in einer ruhigen Ecke ohne Laufverkehr stehen.
 
@@ -54,18 +54,18 @@ Russisch Blau Katzen haben ein silbrig-blaues Fell und grüne Augen. Sie sind ru
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Körpersprache der Russisch Blau: Warnzeichen von Panik lesen</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Aufgrund ihres sanften Wesens zeigen Russisch Blau Warnsignale sehr leise. Wichtige Paniksignale sind 'erweiterte Pupillen' und 'Ducken'. Bei plötzlichen Geräuschen erweitern sich die Pupillen. Wenn sie sich flach an den Boden pressen und die Ohren anlegen, haben sie extreme Angst und bereiten sich auf die Flucht vor.
+    Aufgrund ihres sanften Wesens zeigen Russisch Blau Warnsignale sehr leise. Wichtige Paniksignale sind 'erweiterte Pupillen' (Dilated Pupils) und 'Ducken' (Crouching). Bei plötzlichen Geräuschen erweitern sich die Pupillen. Wenn sie sich flach an den Boden pressen und die Ohren anlegen, haben sie extreme Angst und bereiten sich auf die Flucht vor.
   </p>
 </div>
 
 ---
 
-## 2. Russisch Blau's Body Language & Signals
+## 2. Russisch Blau (Felis catus / Russian Blue)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Körpersignal 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Erweiterte Pupillen</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Erweiterte Pupillen (Dilated Pupils)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• Bedeutung:</strong> Eine physische Reaktion, die zeigt, dass sie hochalarmiert, angespannt oder verängstigt sind.<br/>
@@ -76,7 +76,7 @@ Russisch Blau Katzen haben ein silbrig-blaues Fell und grüne Augen. Sie sind ru
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Körpersignal 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Ducken</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Ducken (Crouching)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• Bedeutung:</strong> Ein Zeichen von defensiver Panik, das zeigt, dass sie sich in die Enge getrieben fühlen.<br/>

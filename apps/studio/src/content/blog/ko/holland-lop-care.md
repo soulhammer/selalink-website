@@ -5,19 +5,19 @@ description: "귀여운 처진 귀가 매력적인 홀랜드 롭(Holland Lop). �
 pubDate: "2026-07-15"
 updatedDate: "2026-07-15"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","홀랜드 롭 토끼 (Holland Lop Rabbit)"]
+tags: ["반려동물","펫케어","홀랜드 롭 토끼 (Oryctolagus cuniculus / Holland Lop)"]
 heroImage: "/images/blog/holland_lop_care.png"
 app: "petself"
 formatVersion: 4
-authority: "House Rabbit Society (HRS) & Association of Exotic Mammal Veterinarians (AEMV)"
+authority: "House Rabbit Society (HRS) 및 Association of Exotic Mammal Veterinarians (AEMV) 수생/특수동물 표준"
 steps:
   - name: "홀랜드 롭의 감정 표현: 빙키(Binky) 춤과 발 쿵쿵거리기(Thumping)"
-    text: "토끼는 소리보다 온몸의 가벼운 동작으로 기분을 표현합니다. 공중으로 뛰어오르며 몸을 꼬는 '빙키 춤'은 최고조의 행복을 의미하며, 뒷발로 바닥을 강하게 치는 '쿵쿵이'는 경계 신호입니다."
-  - name: "홀랜드 롭 토끼 (Holland Lop Rabbit)의 몸짓 언어와 바디 시그널"
+    text: "토끼는 소리보다 온몸의 가벼운 동작으로 기분을 표현합니다. 공중으로 뛰어오르며 몸을 꼬는 '빙키(Binky) 춤'은 최고조의 행복을 의미하며, 뒷발로 바닥을 강하게 치는 '쿵쿵이(Thumping)'는 경계 신호입니다."
+  - name: "홀랜드 롭 토끼 (Oryctolagus cuniculus / Holland Lop)의 몸짓 언어와 바디 시그널"
     text: "* 공중으로 소용돌이치듯 뛰어오르며 몸 비틀기 (Binky Dance): 현재 사육 환경과 보호자의 행동에 대해 극도의 기쁨과 행복감을 느낄 때 나타나는 최고의 기쁨 신호입니다. (토끼가 신나게 달릴 수 있도록 미끄러지지 않는 안심 매트 공간을 넓혀주고 함께 기뻐해 줍니다.)
 
 * 뒷발로 바닥을 강하게 쿵쿵 소리 내어 치기 (Thumping): 주변에 위협적인 소리나 낯선 냄새가 나거나, 원하는 간식을 주지 않아 강한 불만을 경고하는 신호입니다. (무엇이 토끼를 놀라게 했는지 주변 환경(소음, 다른 동물)을 체크하고 낮고 부드러운 목소리로 달래줍니다.)"
-  - name: "홀랜드 롭 토끼 (Holland Lop Rabbit) 맞춤형 3단계 홈케어 루틴"
+  - name: "홀랜드 롭 토끼 (Oryctolagus cuniculus / Holland Lop) 맞춤형 3단계 홈케어 루틴"
     text: "* STEP 1. 아침: 티모시 건초 무제한 채우기 및 신선한 식수 수액기 교체: 장운동을 지속하기 위해 신선한 1번 칼티모시 건초를 건초대에 가득 채우고 깨끗한 물을 제공합니다.
 
 * STEP 2. 낮: 처진 귀 안쪽 통풍 통증 상태 확인 및 정적 유지: 늘어진 귀 내부를 부드럽게 젖혀 이물질이나 붉은 귓병 전조가 없는지 살피고 낮 수면을 보장합니다.
@@ -39,7 +39,7 @@ faqs:
       수의학적 & 행동학적 근거
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>House Rabbit Society (HRS) & Association of Exotic Mammal Veterinarians (AEMV)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 <strong>House Rabbit Society (HRS) 및 Association of Exotic Mammal Veterinarians (AEMV) 수생/특수동물 표준</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -54,13 +54,13 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">홀랜드 롭의 감정 표현: 빙키(Binky) 춤과 발 쿵쿵거리기(Thumping)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    토끼는 소리보다 온몸의 가벼운 동작으로 기분을 표현합니다. 공중으로 뛰어오르며 몸을 꼬는 '빙키 춤'은 최고조의 행복을 의미하며, 뒷발로 바닥을 강하게 치는 '쿵쿵이'는 경계 신호입니다.
+    토끼는 소리보다 온몸의 가벼운 동작으로 기분을 표현합니다. 공중으로 뛰어오르며 몸을 꼬는 '빙키(Binky) 춤'은 최고조의 행복을 의미하며, 뒷발로 바닥을 강하게 치는 '쿵쿵이(Thumping)'는 경계 신호입니다.
   </p>
 </div>
 
 ---
 
-## 2. 홀랜드 롭 토끼 (Holland Lop Rabbit)의 몸짓 언어와 바디 시그널
+## 2. 홀랜드 롭 토끼 (Oryctolagus cuniculus / Holland Lop)의 몸짓 언어와 바디 시그널
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ faqs:
 
 ---
 
-## 3. 홀랜드 롭 토끼 (Holland Lop Rabbit) 맞춤형 3단계 홈케어 루틴
+## 3. 홀랜드 롭 토끼 (Oryctolagus cuniculus / Holland Lop) 맞춤형 3단계 홈케어 루틴
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

@@ -1,24 +1,24 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "Permainan Otak dan Perawatan Telinga: Rutinitas 3 Langkah untuk Poodle yang Cerdas"
-description: "Temukan cara mengatasi kebosanan pada Poodle yang cerdas dengan permainan otak dan mencegah infeksi telinga menggunakan rutinitas 3 langkah."
+title: "Permainan Otak dan Perawatan Telinga: Rutinitas Harian 3 Langkah untuk Poodle yang Cerdas"
+description: "Temukan cara mengatasi kebosanan pada Poodle yang cerdas dengan permainan otak dan mencegah infeksi telinga menggunakan 3 langkah rutinitas harian."
 pubDate: "2026-01-26"
 updatedDate: "2026-01-26"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Poodle"]
+tags: ["PerawatanHewan","KesehatanHewan","Poodle (Canis lupus familiaris)"]
 heroImage: "/images/blog/poodle_care.png"
 app: "petself"
 formatVersion: 4
 authority: "Panduan Ras Resmi American Kennel Club (AKC) & Protokol Perilaku IAABC"
 steps:
   - name: "Bahasa Tubuh Poodle: Membedakan Permintaan dengan Stres"
-    text: "Karena kecerdasan mereka, Poodle aktif berkomunikasi menggunakan bahasa tubuh. Sinyal yang khas meliputi 'mengangkat kaki depan' dan 'berkedip'. Saat Poodle mengangkat kaki depan, itu terlihat seperti meminta bersalaman, tetapi sering kali merupakan pesan yang mengatakan 'beri aku perhatian' atau sinyal penenang yang berarti 'aku agak tegang, harap lembut.' Menatap lembut dan berkedip perlahan adalah cara mereka menunjukkan kepercayaan dan kasih sayang."
-  - name: "Poodle's Body Language & Signals"
-    text: "* Mengangkat Kaki Depan: Ekspresi mencari perhatian atau mencoba menenangkan ketegangan atau kecemasan ringan. (Jika terlihat, hindari memberikan perintah yang memaksa. Bicaralah dengan nada tenang dan belai dengan lembut.)
+    text: "Karena kecerdasan mereka, Poodle aktif berkomunikasi menggunakan bahasa tubuh. Sinyal yang khas meliputi 'mengangkat kaki depan' (Paw Raising) dan 'berkedip lembut' (Soft Blinking). Saat Poodle mengangkat kaki depan, itu terlihat seperti meminta bersalaman, tetapi sering kali merupakan pesan yang mengatakan 'beri aku perhatian' atau sinyal penenang yang berarti 'aku agak tegang, harap lembut.' Menatap lembut dan berkedip perlahan adalah cara mereka menunjukkan kepercayaan dan kasih sayang."
+  - name: "Poodle (Canis lupus familiaris)'s Body Language & Signals"
+    text: "* Mengangkat Kaki Depan (Paw Raising): Ekspresi mencari perhatian atau mencoba menenangkan ketegangan atau kecemasan ringan. (Jika terlihat, hindari memberikan perintah yang memaksa. Bicaralah dengan nada tenang dan belai dengan lembut.)
 
-* Berkedip Lembut: Tanda kepercayaan dan kasih sayang yang mendalam, menegaskan bahwa mereka merasa aman dengan Anda. (Saat mata saling bertatapan, berkedip kembalilah perlahan untuk membagikan perasaan tenang tersebut.)"
+* Berkedip Lembut (Soft Blinking): Tanda kepercayaan dan kasih sayang yang mendalam, menegaskan bahwa mereka merasa aman dengan Anda. (Saat mata saling bertatapan, berkedip kembalilah perlahan untuk membagikan perasaan tenang tersebut.)"
   - name: "Customized 3-Step Home Care Routine"
-    text: "* STEP 1. Pagi: Peredaan Kognitif dengan Mainan Otak: Selain jalan-jalan fisik, gunakan mangkuk labirin atau alas pengendus untuk merangsang pikiran aktif mereka, membantu mengarahkan kelebihan energi mereka.
+    text: "* STEP 1. Pagi: Peredaan Kognitif dengan Mainan Otak: Selain jalan-jalan fisik, gunakan mangkuk labirin atau alas pengendus untuk merangsang pikiran aktif mereka, membantu mengarahkan kelebihan energi mereka secara produktif.
 
 * STEP 2. Siang: Pemeriksaan Telinga dan Pijat Pembersihan Lembut: Teteskan 2-3 tetes pembersih telinga ke dalam saluran telinga, pijat perlahan pangkal telinga, dan seka kotoran yang larut dengan kapas untuk mencegah otitis.
 
@@ -27,10 +27,10 @@ faqs:
   - question: "Apakah normal bagi Poodle saya menggelengkan kepalanya dengan kuat setelah pembersihan telinga?"
     answer: "Ya, itu adalah reaksi pembersihan diri yang normal. Ini membantu mengeluarkan pembersih beserta kotoran dari dalam telinga. Cukup seka daun telinga bagian luar secara perlahan."
   - question: "Bagaimana cara menghentikan Poodle saya menggigit furnitur?"
-    answer: "Poodle sering menggigit karena bosan akibat kurangnya stimulasi mental. Alih-alih mainan kunyah biasa, perkenalkan teka-teki dan permainan interaktif untuk melatih mental mereka."
+    answer: "Poodle sering menggigit karena bosan akibat kurangnya stimulasi mental. Alih-alih mainan kunyah biasa, perkenalkan teka-teki dan permainan interaktif untuk melatih otak mereka."
 ---
 
-Poodle secara luas diakui sebagai salah satu ras anjing paling cerdas di dunia. Meskipun mereka sangat mudah dilatih dan peka terhadap emosi pemiliknya, mereka dapat dengan mudah bosan dan stres karena pikiran mereka yang aktif. 🐩 Selain itu, karena telinga mereka yang terkulai menutupi saluran telinga, mereka sangat rentan terhadap infeksi telinga kronis (otitis) akibat ventilasi yang buruk. Hari ini, PetSelf membagikan tips untuk menjaga Poodle cerdas Anda terstimulasi secara mental dan memperkenalkan rutinitas perawatan 3 langkah untuk menjaga telinga mereka tetap bersih dan sehat.
+Poodle secara luas diakui sebagai salah satu ras anjing paling cerdas di dunia. Meskipun mereka sangat mudah dilatih dan peka terhadap emosi pemiliknya, mereka dapat dengan mudah bosan dan stres karena pikiran mereka yang aktif. 🐩 Selain itu, karena telinga mereka yang terkulai menutupi saluran telinga, mereka sangat rentan terhadap infeksi telinga kronis (otitis) akibat ventilasi yang buruk. Hari ini, PetSelf membagikan tips untuk menjaga Poodle cerdas Anda terstimulasi secara mental dan memperkenalkan 3 langkah rutinitas harian untuk menjaga telinga mereka tetap bersih dan sehat.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -54,18 +54,18 @@ Poodle secara luas diakui sebagai salah satu ras anjing paling cerdas di dunia. 
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Bahasa Tubuh Poodle: Membedakan Permintaan dengan Stres</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Karena kecerdasan mereka, Poodle aktif berkomunikasi menggunakan bahasa tubuh. Sinyal yang khas meliputi 'mengangkat kaki depan' dan 'berkedip'. Saat Poodle mengangkat kaki depan, itu terlihat seperti meminta bersalaman, tetapi sering kali merupakan pesan yang mengatakan 'beri aku perhatian' atau sinyal penenang yang berarti 'aku agak tegang, harap lembut.' Menatap lembut dan berkedip perlahan adalah cara mereka menunjukkan kepercayaan dan kasih sayang.
+    Karena kecerdasan mereka, Poodle aktif berkomunikasi menggunakan bahasa tubuh. Sinyal yang khas meliputi 'mengangkat kaki depan' (Paw Raising) dan 'berkedip lembut' (Soft Blinking). Saat Poodle mengangkat kaki depan, itu terlihat seperti meminta bersalaman, tetapi sering kali merupakan pesan yang mengatakan 'beri aku perhatian' atau sinyal penenang yang berarti 'aku agak tegang, harap lembut.' Menatap lembut dan berkedip perlahan adalah cara mereka menunjukkan kepercayaan dan kasih sayang.
   </p>
 </div>
 
 ---
 
-## 2. Poodle's Body Language & Signals
+## 2. Poodle (Canis lupus familiaris)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Sinyal Tubuh 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Mengangkat Kaki Depan</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Mengangkat Kaki Depan (Paw Raising)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• Arti:</strong> Ekspresi mencari perhatian atau mencoba menenangkan ketegangan atau kecemasan ringan.<br/>
@@ -76,7 +76,7 @@ Poodle secara luas diakui sebagai salah satu ras anjing paling cerdas di dunia. 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Sinyal Tubuh 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Berkedip Lembut</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Berkedip Lembut (Soft Blinking)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• Arti:</strong> Tanda kepercayaan dan kasih sayang yang mendalam, menegaskan bahwa mereka merasa aman dengan Anda.<br/>
@@ -94,7 +94,7 @@ Poodle secara luas diakui sebagai salah satu ras anjing paling cerdas di dunia. 
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pagi: Peredaan Kognitif dengan Mainan Otak</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Selain jalan-jalan fisik, gunakan mangkuk labirin atau alas pengendus untuk merangsang pikiran aktif mereka, membantu mengarahkan kelebihan energi mereka.
+    Selain jalan-jalan fisik, gunakan mangkuk labirin atau alas pengendus untuk merangsang pikiran aktif mereka, membantu mengarahkan kelebihan energi mereka secara produktif.
   </p>
 </div>
 
@@ -143,7 +143,7 @@ Poodle secara luas diakui sebagai salah satu ras anjing paling cerdas di dunia. 
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Poodle sering menggigit karena bosan akibat kurangnya stimulasi mental. Alih-alih mainan kunyah biasa, perkenalkan teka-teki dan permainan interaktif untuk melatih mental mereka.
+      Poodle sering menggigit karena bosan akibat kurangnya stimulasi mental. Alih-alih mainan kunyah biasa, perkenalkan teka-teki dan permainan interaktif untuk melatih otak mereka.
     </p>
   </details>
 </div>

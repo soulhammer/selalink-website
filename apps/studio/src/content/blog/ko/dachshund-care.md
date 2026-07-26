@@ -5,19 +5,19 @@ description: "허리가 길고 다리가 짧은 닥스훈트 케어법. 척추 �
 pubDate: "2026-06-20"
 updatedDate: "2026-06-20"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","닥스훈트 (Dachshund)"]
+tags: ["반려동물","펫케어","닥스훈트 (Canis lupus familiaris)"]
 heroImage: "/images/blog/dachshund_care.png"
 app: "petself"
 formatVersion: 4
 authority: "미국 캔넬 클럽(AKC) 닥스훈트 건강 가이드 및 수의학 척추 연합 권고사항"
 steps:
   - name: "닥스훈트 척추 경고 신호: 서 있기와 몸 늘이기"
-    text: "닥스훈트는 척추에 무리가 가거나 통증이 있을 때 미묘한 몸짓으로 표현합니다. 흔히 귀엽다고 생각하는 두 발로 서는 '구걸 자세'는 요추에 엄청난 하중을 싣는 위험한 신호입니다. 또한 등을 둥글게 굽히거나 목을 길게 늘이는 자세는 디스크 초기 통증의 징후일 수 있으므로 빠른 대처가 필요합니다."
-  - name: "닥스훈트 (Dachshund)의 몸짓 언어와 바디 시그널"
+    text: "닥스훈트는 척추에 무리가 가거나 통증이 있을 때 미묘한 몸짓으로 표현합니다. 흔히 귀엽다고 생각하는 두 발로 서는 '구걸 자세'는 요추에 엄청난 하중을 싣는 위험한 신호입니다. 또한 등을 둥글게 굽히거나 목을 길게 늘이는 자세는 디스크 초기 신경 압박에 따른 통증의 징후일 수 있으므로 빠른 대처가 필요합니다."
+  - name: "닥스훈트 (Canis lupus familiaris)의 몸짓 언어와 바디 시그널"
     text: "* 두 발로 서기 (구걸 자세): 허리 척추에 강한 압박을 가하는 자세로, 주로 간식 요구나 보호자 주의를 끌기 위해 행합니다. (해당 자세를 취하지 못하도록 즉시 부드럽게 제지하고, 가구 옆에 전용 경사로를 설치해 점프를 방지합니다.)
 
 * 등을 굽히고 목 늘이기: 척추 통증이나 디스크 초기 신경 압박으로 인해 몸을 웅크리고 통증을 참는 자세입니다. (움직임을 즉시 제한하고, 안아 올릴 때 가슴과 엉덩이를 동시에 받쳐 척추 수평을 유지한 후 병원을 찾습니다.)"
-  - name: "닥스훈트 (Dachshund) 맞춤형 3단계 홈케어 루틴"
+  - name: "닥스훈트 (Canis lupus familiaris) 맞춤형 3단계 홈케어 루틴"
     text: "* STEP 1. 아침: 아침 관절 상태 점검 및 가벼운 마사지: 본격적인 활동 전 걸음걸이의 뻣뻣함을 확인하고, 척추 라인을 따라 가볍게 마사지하여 통증 반응을 확인합니다.
 
 * STEP 2. 낮: 척추 안전 생활 환경 점검 및 수평 유지: 침대나 소파 옆의 반려견용 경사로 각도와 미끄럼 방지 상태를 점검하고, 계단 진입로에 안전문을 설치해 계단 이용을 차단합니다.
@@ -54,13 +54,13 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">닥스훈트 척추 경고 신호: 서 있기와 몸 늘이기</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    닥스훈트는 척추에 무리가 가거나 통증이 있을 때 미묘한 몸짓으로 표현합니다. 흔히 귀엽다고 생각하는 두 발로 서는 '구걸 자세'는 요추에 엄청난 하중을 싣는 위험한 신호입니다. 또한 등을 둥글게 굽히거나 목을 길게 늘이는 자세는 디스크 초기 통증의 징후일 수 있으므로 빠른 대처가 필요합니다.
+    닥스훈트는 척추에 무리가 가거나 통증이 있을 때 미묘한 몸짓으로 표현합니다. 흔히 귀엽다고 생각하는 두 발로 서는 '구걸 자세'는 요추에 엄청난 하중을 싣는 위험한 신호입니다. 또한 등을 둥글게 굽히거나 목을 길게 늘이는 자세는 디스크 초기 신경 압박에 따른 통증의 징후일 수 있으므로 빠른 대처가 필요합니다.
   </p>
 </div>
 
 ---
 
-## 2. 닥스훈트 (Dachshund)의 몸짓 언어와 바디 시그널
+## 2. 닥스훈트 (Canis lupus familiaris)의 몸짓 언어와 바디 시그널
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ faqs:
 
 ---
 
-## 3. 닥스훈트 (Dachshund) 맞춤형 3단계 홈케어 루틴
+## 3. 닥스훈트 (Canis lupus familiaris) 맞춤형 3단계 홈케어 루틴
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

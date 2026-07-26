@@ -1,7 +1,7 @@
 {
   "shiba-care": {
     "pubDate": "2026-01-29",
-    "updatedDate": "2026-01-29",
+    "updatedDate": "2026-07-26",
     "locales": {
       "en": {
         "title": "Managing Shiba Inu Independence and Double Coat: A 3-Step Routine",
@@ -64,7 +64,7 @@
         "description": "独立心が強くスキンシップに敏感な柴犬。二重毛の抜け毛を防ぐ正しいブラッシング方法と、嫌がらないスキンシップのための3段階ルーティンを紹介します。",
         "authority": "全米柴犬クラブ(NSCA)＆IAABC行動治療ガイドライン",
         "profile": {
-          "breed": "柴犬",
+          "breed": "柴犬 (Shiba Inu)",
           "lifespan": "12 ~ 15年",
           "sleep_pattern": "12 ~ 14時間（パーソナルスペース重視型）",
           "temperament": "独立心が強い、警戒心が強い、大胆"
@@ -120,14 +120,14 @@
         "description": "柴犬性格独立且对触碰较为敏感。介绍预防双层毛脱落的正确梳理方法，以及减少抵触感的日常3步触碰惯例。",
         "authority": "美国国家柴犬俱乐部 (NSCA) 与 IAABC 行为矫正指南",
         "profile": {
-          "breed": "柴犬",
+          "breed": "柴犬 (Shiba Inu)",
           "lifespan": "12 ~ 15年",
           "sleep_pattern": "12 ~ 14小时（注重个人空间型）",
           "temperament": "独立、警惕、大胆"
         },
         "intro": "柴犬因其狐狸般的外表和卷曲的尾巴而在全球深受喜爱。然而，它们拥有像猫一样的独立性格、强烈的意志和警惕的本能。🐕柴犬对爪子、耳朵或尾部被触碰极为敏感。如果在理毛或剪指甲时强迫它们，它们往往会发出尖锐的“柴犬尖叫”以示抗议。此外，它们拥有浓密的双层被毛，在换毛季节脱落非常严重。今天，PetSelf 将介绍如何在尊重柴犬界限的同时，通过日常3步护理惯例维护其被毛并进行温和触碰。",
         "whyTitle": "柴犬的身体语言：压力与释放压力的信号",
-        "whyDesc": "柴犬在个人空间受到侵犯时，会静静地表达抗拒。关键动作是“避开视线（扭头）”和“抖身体”。当有人伸手想摸它，它避开头或扭过脸时，并不是在开玩笑，而是在委婉地请求“请现在不要碰我”。同样，在经历压力事件（如剪指甲或打针）后，它们大幅度抖动全身，是一种本能的调节机制，用以释放身体紧张并调整心理状态。",
+        "whyDesc": "柴犬在个人空间受到侵犯时，会静静地表达抗拒。关键动作是**“避开视线（扭头）”**和**“抖身体”**。当有人伸手想摸它，它避开头或扭过脸时，并不是在开玩笑，而是在委婉地请求“请现在不要碰我”。同样，在经历压力事件（如剪指甲或打针）后，它们大幅度抖动全身，是一种本能的调节机制，用以释放身体紧张并调整心理状态。",
         "body_signals": [
           {
             "name": "避开视线 (Looking Away)",
@@ -181,7 +181,7 @@
           "sleep_pattern": "12 ~ 14 horas (orientado al espacio personal)",
           "temperament": "Independiente, Alerta, Audaz"
         },
-        "intro": "Los Shiba Inus son amados globalmente por su aspecto de zorro y su cola rizada. Sin embargo, poseen una independencia similar a la de los gatos, una fuerte voluntad y una naturaleza alerta. 🐕 Son notablemente sensibles a que les toquen las patas, las orejas o la cola. Si se les obliga a acicalarse o cortarse las uñas, suelen emitir un 'grito Shiba' en señal de protesta. Además, tienen un manto doble grueso que se desprende mucho. Hoy, PetSelf explora cómo respetar los límites de su Shiba con una rutina de 3 pasos.",
+        "intro": "Los Shiba Inus son amados globalmente por su aspecto de zorro y su cola rizada. Sin embargo, poseen una independencia similar a la de los gatos, una fuerte voluntad y una naturaleza alerta. 🐕 Son notablemente sensibles a que les toquen las patas, las orejas o la cola. Si se les obliga a acicalarse o cortarse las uñas, suelen emitir un 'grito Shiba' en señal de protesta. Además, tienen un manto doble grueso que se desprende mucho durante los cambios de estación. Hoy, PetSelf explora cómo respetar los límites de su Shiba con una rutina de 3 pasos.",
         "whyTitle": "Lenguaje corporal del Shiba Inu: señales de presión y alivio de tensión",
         "whyDesc": "Los Shiba Inus expresan sus límites de forma clara y silenciosa. Las señales clave incluyen **'evitar la mirada'** y **'sacudirse'**. Cuando una persona se acerca para tocarlos y el Shiba aparta la cabeza, es una petición cortés de 'por favor no me toques ahora'. Del mismo modo, sacudir todo el cuerpo después de un evento estresante es un mecanismo instintivo para liberar la tensión física y reiniciar su estado psicológico.",
         "body_signals": [
@@ -199,7 +199,7 @@
         "daily_routine": [
           {
             "name": "Mañana: Desensibilización al tacto en zonas sensibles",
-            "text": "Toque sus patas o caderas brevemente por 1 segundo, luego premie de inmediato con un bocadillo. Repita para crear asociaciones positivas con el tacto."
+            "text": "Toque sus patas o caderas brevemente por 1 segundo, luego premie de inmediato con un bocadillo de alto valor. Repita para crear asociaciones positivas con el tacto."
           },
           {
             "name": "Tarde: Cepillado de bajo estrés para el manto doble",
@@ -213,11 +213,11 @@
         "faqs": [
           {
             "question": "¿Por qué mi Shiba Inu grita durante el acicalamiento?",
-            "answer": "Esto se conoce como el 'Grito Shiba'. Es una expresión de miedo y presión genuinos, no solo una actuación. Detenga la actividad y reinicie el entrenamiento desde el nivel básico."
+            "answer": "Esto se conoce como el 'Grito Shiba'. Es una expresión de miedo y presión genuinos, no solo una actuación. Detenga la actividad y reinicie el entrenamiento desde el nivel básico, como premiarlo solo por mirar el cepillo."
           },
           {
             "question": "¿Por qué mi Shiba Inu no es tan cariñoso o inquieto como otros perros?",
-            "answer": "Los Shibas son naturalmente similares a los gatos y valoran su espacio. Que no muevan la cola con entusiasmo no significa que no lo quieran; estar acostados cerca de usted es su forma de mostrar afecto."
+            "answer": "Los Shibas son naturalmente similares a los gatos y valoran su espacio personal. Que no muevan la cola con entusiasmo no significa que no lo quieran; estar acostados cerca de usted es su forma de mostrar afecto."
           }
         ],
         "tags": [
@@ -237,13 +237,13 @@
           "sleep_pattern": "12 ~ 14 heures (orienté vers son espace personnel)",
           "temperament": "Indépendant, Alerte, Audacieux"
         },
-        "intro": "Le Shiba Inu est adoré dans le monde entier pour son physique de renard et sa queue enroulée. Cependant, il possède une indépendance de chat, un caractère bien trempé et une nature alerte. 🐕 Les Shibas sont très sensibles au toucher sur les pattes, les oreilles ou la queue. S'ils sont contraints lors du brossage ou de la coupe des griffes, ils poussent souvent un cri aigu dit 'Shiba Scream' en signe de protestation. De plus, ils ont un double pelage épais qui mue fortement. Aujourd'hui, PetSelf explique comment respecter les limites de votre Shiba avec une routine en 3 étapes.",
+        "intro": "Le Shiba Inu est adoré dans le monde entier pour son physique de renard et sa queue enroulée. Cependant, il possède une indépendance de chat, un caractère bien trempé et une nature alerte. 🐕 Les Shibas sont très sensibles au toucher sur les pattes, les oreilles ou la queue. S'ils sont contraints lors du brossage ou de la coupe des griffes, ils poussent souvent un cri aigu dit 'Shiba Scream' en signe de protestation. De plus, ils ont un double pelage épais qui mue fortement lors des changements de saison. Aujourd'hui, PetSelf explique comment respecter les limites de votre Shiba avec une routine en 3 étapes.",
         "whyTitle": "Langage corporel du Shiba Inu : signaux de pression et soulagement du stress",
-        "whyDesc": "Le Shiba Inu exprime ses limites clairement et discrètement. Les signaux clés incluent **détourner le regard** et **s'ébrouer**. Lorsqu'une personne s'approche pour le toucher et qu'il détourne la tête, ce n'est pas un jeu ; c'est une demande polie disant 's'il te plaît, ne me touche pas maintenant'. De même, s'ébrouer après un événement stressant est un mécanisme instinctif pour relâcher la tension physique et réinitialiser son état.",
+        "whyDesc": "Le Shiba Inu exprime ses limites clairement et discrètement. Les signaux clés incluent **détourner le regard** et **s'ébrouer**. Lorsqu'une personne s'approche pour le toucher et qu'il détourne la tête, ce n'est pas un jeu ; c'est une demande polie disant 's'il te plaît, ne me touche pas maintenant'. De même, s'ébrouer après un événement stressant est un mécanisme instinctif pour relâcher la tension physique et réinitialiser son état psychologique.",
         "body_signals": [
           {
             "name": "Détourner le regard",
-            "meaning": "Une demande polie demandant à l'observateur d'arrêter de s'approcher ou de le toucher.",
+            "meaning": "Une demande polie demandant à l'observateur d'arrêter de s'approcher ou de le toucher, exprimant une pression.",
             "response": "Si vous voyez cela, n'essayez pas de le toucher. Retirez votre main et laissez-lui de l'espace."
           },
           {
@@ -255,7 +255,7 @@
         "daily_routine": [
           {
             "name": "Matin : Désensibilisation au toucher des zones sensibles",
-            "text": "Touchez brièvement leurs pattes ou leurs hanches pendant 1 seconde, puis offrez immédiatement une friandise. Répétez pour créer une association positive."
+            "text": "Touchez brièvement leurs pattes ou leurs hanches pendant 1 seconde, puis offrez immédiatement une friandise de haute valeur. Répétez pour créer une association positive."
           },
           {
             "name": "Après-midi : Brossage à faible stress du double pelage",
@@ -269,11 +269,11 @@
         "faqs": [
           {
             "question": "Pourquoi mon Shiba Inu crie-t-il pendant le toilettage ?",
-            "answer": "C'est le fameux 'Shiba Scream'. Il exprime une peur réelle et une pression, ce n'est pas de la comédie. Arrêtez immédiatement et reprenez l'éducation à la base."
+            "answer": "C'est le fameux 'Shiba Scream'. Il exprime une peur réelle et une pression, ce n'est pas de la comédie. Arrêtez immédiatement et reprenez l'éducation à la base, comme le récompenser simplement lorsqu'il regarde la brosse."
           },
           {
             "question": "Pourquoi mon Shiba Inu n'est-il pas aussi affectueux ou frétillant que les autres chiens ?",
-            "answer": "Les Shibas ressemblent aux chats et aiment leur espace. Ne pas remuer la queue avec enthousiasme ne signifie pas qu'il ne vous aime pas ; s'allonger calmement près de vous est sa façon de montrer son affection."
+            "answer": "Les Shibas ressemblent aux chats et aiment leur espace personnel. Ne pas remuer la queue avec enthousiasme ne signifie pas qu'il ne vous aime pas ; s'allonger calmement près de vous est sa façon de montrer son affection."
           }
         ],
         "tags": [
@@ -299,8 +299,8 @@
         "body_signals": [
           {
             "name": "Wegschauen",
-            "meaning": "Eine höfliche Bitte, sich nicht weiter zu nähern, da dies Druck auf den Hund ausübt.",
-            "response": "Wenn Sie dies sehen, versuchen Sie nicht, ihn anzufassen. Ziehen Sie die Hand zurück."
+            "meaning": "Eine höfliche Bitte, sich nicht weiter zu nähern oder den Hund anzufassen, da dies Druck ausübt.",
+            "response": "Wenn Sie dies sehen, versuchen Sie nicht, ihn anzufassen. Ziehen Sie die Hand zurück und geben Sie ihm Raum."
           },
           {
             "name": "Abschütteln",
@@ -311,7 +311,7 @@
         "daily_routine": [
           {
             "name": "Morgen: Desensibilisierung an empfindlichen Stellen",
-            "text": "Berühren Sie Pfoten oder Hüften kurz für 1 Sekunde und geben Sie sofort ein Leckerli. Wiederholen Sie dies, um positive Assoziationen aufzubauen."
+            "text": "Berühren Sie Pfoten oder Hüften kurz für 1 Sekunde und geben Sie sofort ein hochwertiges Leckerli. Wiederholen Sie dies, um positive Assoziationen aufzubauen."
           },
           {
             "name": "Nachmittag: Stressfreie Pflege des doppelten Fells",
@@ -319,13 +319,13 @@
           },
           {
             "name": "Abend: Respektieren der unabhängigen Schutzzone",
-            "text": "Wenn sich Ihr Shiba am Abend in seine Box oder eine sichere Ecke zurückzieht, zwingen Sie ihn nicht heraus. Lassen Sie ihn in völliger Ruhe entspannen."
+            "text": "Wenn sich Ihr Shiba am Abend in seine Box oder eine sichere Ecke zurückzieht, zwingen Sie ihn nicht heraus und streicheln Sie ihn nicht. Lassen Sie ihn in völliger Ruhe entspannen."
           }
         ],
         "faqs": [
           {
             "question": "Warum schreit mein Shiba Inu beim Pflegen?",
-            "answer": "Dies ist als 'Shiba-Schrei' bekannt. Es ist ein Ausdruck von echter Angst und Druck. Brechen Sie sofort ab und beginnen Sie das Training von vorn, z. B. Belohnung nur für das Ansehen der Bürste."
+            "answer": "Dies ist als 'Shiba-Schrei' bekannt. Es ist ein Ausdruck von echter Angst und Druck, kein einfaches Theater. Brechen Sie sofort ab und beginnen Sie das Training von vorn, z. B. Belohnung nur für das Ansehen der Bürste."
           },
           {
             "question": "Warum ist mein Shiba Inu nicht so anhänglich wie andere Hunde?",
@@ -349,9 +349,9 @@
           "sleep_pattern": "12 ~ 14 horas (orientado ao espaço pessoal)",
           "temperament": "Independente, Alerta, Audaz"
         },
-        "intro": "Os Shiba Inus são amados globalmente por sua aparência de raposa e cauda enrolada. No entanto, possuem uma independência felina, vontade forte e natureza alerta. 🐕 São notoriamente sensíveis a toques nas patas, orelhas ou cauda. Se forem forçados durante a escovação ou corte de unhas, costumam soltar o 'grito Shiba' em protesto. Além disso, têm pelagem dupla espessa que cai muito. Hoje, o PetSelf explora como respeitar os limites de seu Shiba com uma rotina de 3 passos.",
+        "intro": "Os Shiba Inus são amados globalmente por sua aparência de raposa e cauda enrolada. No entanto, possuem uma independência felina, vontade forte e natureza alerta. 🐕 São notoriamente sensíveis a toques nas patas, orelhas ou cauda. Se forem forçados durante a escovação ou corte de unhas, costumam soltar o 'grito Shiba' em protesto. Além disso, têm pelagem dupla espessa que cai muito durante as trocas de estação. Hoje, o PetSelf explora como respeitar os limites de seu Shiba com uma rotina de 3 passos.",
         "whyTitle": "Linguagem corporal do Shiba Inu: sinais de pressão e alívio do estresse",
-        "whyDesc": "Os Shiba Inus expressam seus limites de forma clara e silenciosa. Os sinais principais incluem **'desviar o olhar'** e **'sacudir-se'**. Quando uma pessoa estende a mão para tocá-los e o Shiba desvia a cabeça, é um pedido cortês de 'por favor, não me toque agora'. Da mesma forma, sacudir todo o corpo após um evento estresante é um mecanismo instintivo para liberar a tensão física e restaurar seu estado psicológico.",
+        "whyDesc": "Os Shiba Inus expressam seus limites de forma clara e silenciosa. Os sinais principais incluem **'desviar o olhar'** e **'sacudir-se'**. Quando uma pessoa estende a mão para tocá-los e o Shiba desvia a cabeça, é um pedido cortês de 'por favor, não me toque agora'. Da mesma forma, sacudir todo o corpo após um evento estressante é um mecanismo instintivo para liberar a tensão física e restaurar seu estado psicológico.",
         "body_signals": [
           {
             "name": "Desviar o olhar",
@@ -367,7 +367,7 @@
         "daily_routine": [
           {
             "name": "Manhã: Dessensibilização ao toque em áreas sensíveis",
-            "text": "Toque suas patas ou quadris brevemente por 1 segundo e, em seguida, recompense imediatamente com um petisco. Repita para criar associações positivas."
+            "text": "Toque suas patas ou quadris brevemente por 1 segundo e, em seguida, recompense imediatamente com um petisco de alto valor. Repita para criar associações positivas."
           },
           {
             "name": "Tarde: Escovação de baixo estresse para pelagem dupla",
@@ -381,11 +381,11 @@
         "faqs": [
           {
             "question": "Por que o meu Shiba Inu grita durante a escovação?",
-            "answer": "Isso é conhecido como o 'Grito Shiba'. É uma expressão de medo e pressão reais, não apenas manha. Pare imediatamente e reinicie o treino desde o nível básico."
+            "answer": "Isso é conhecido como o 'Grito Shiba'. É uma expressão de medo e pressão reais, não apenas manha. Pare imediatamente e reinicie o treino desde o nível básico, como recompensá-lo apenas por olhar para a escova."
           },
           {
             "question": "Por que o meu Shiba Inu não é tão carinhoso ou agitado como outros cães?",
-            "answer": "Os Shibas são naturalmente parecidos com gatos e valorizam seu espaço. Só porque não abanam a cauda com entusiasmo não significa que não gostem de você; deitar-se calmamente perto de você é a forma deles de mostrar carinho."
+            "answer": "Os Shibas são naturalmente parecidos com gatos e valorizam seu espaço pessoal. Só porque não abanam a cauda com entusiasmo não significa que não gostem de você; deitar-se calmamente perto de você é a forma deles de mostrar carinho."
           }
         ],
         "tags": [
@@ -405,9 +405,9 @@
           "sleep_pattern": "12 ~ 14 jam (berorientasi ruang pribadi)",
           "temperament": "Mandiri, Waspada, Berani"
         },
-        "intro": "Shiba Inu dicintai secara global karena penampilan mirip rubah dan ekor melingkar mereka. Namun, mereka memiliki kemandirian mirip kucing, kemauan keras, dan sifat waspada. 🐕 Shiba sangat sensitif terhadap sentuhan pada kaki, telinga, atau ekor mereka. Jika dipaksa selama perawatan atau pemotongan kuku, mereka sering mengeluarkan 'Shiba Scream' bernada tinggi sebagai protes. Selain itu, mereka memiliki bulu ganda tebal yang rontok parah. Hari ini, PetSelf mengeksplorasi cara menghormati batasan Shiba Anda dengan rutinitas 3 langkah.",
-        "whyTitle": "Cara Membaca Isyarat Tubuh dan Tanda Stres pada Anjing Shiba",
-        "whyDesc": "Shiba Inu mengekspresikan batasan mereka secara jelas dan tenang. Sinyal utama meliputi **'memalingkan muka'** dan **'mengibaskan tubuh'**. Ketika seseorang mengulurkan tangan untuk menyentuh mereka dan Shiba memalingkan kepala, itu adalah permintaan sopan yang mengatakan 'tolong jangan sentuh aku sekarang.' Mengibaskan tubuh setelah kejadian stres adalah mekanisme naluriah untuk melepaskan ketegangan fisik.",
+        "intro": "Shiba Inu dicintai secara global karena penampilan mirip rubah dan ekor melingkar mereka. Namun, mereka memiliki kemandirian mirip kucing, kemauan keras, dan sifat waspada. 🐕 Shiba sangat sensitif terhadap sentuhan pada kaki, telinga, atau ekor mereka. Jika dipaksa selama perawatan atau pemotongan kuku, mereka sering mengeluarkan 'Shiba Scream' bernada tinggi sebagai protes. Selain itu, mereka memiliki bulu ganda tebal yang rontok parah saat pergantian musim. Hari ini, PetSelf mengeksplorasi cara menghormati batasan Shiba Anda dengan rutinitas 3 langkah.",
+        "whyTitle": "Bahasa Tubuh Shiba Inu: Isyarat Tekanan dan Pelepasan Stres",
+        "whyDesc": "Shiba Inu mengekspresikan batasan mereka secara jelas dan tenang. Sinyal utama meliputi **'memalingkan muka'** dan **'mengibaskan tubuh'**. Ketika seseorang mengulurkan tangan untuk menyentuh mereka dan Shiba memalingkan kepala, itu adalah permintaan sopan yang mengatakan 'tolong jangan sentuh aku sekarang.' Mengibaskan tubuh setelah kejadian stres adalah mekanisme naluriah untuk melepaskan ketegangan fisik dan memulihkan kondisi mental.",
         "body_signals": [
           {
             "name": "Memalingkan Muka",
@@ -423,7 +423,7 @@
         "daily_routine": [
           {
             "name": "Pagi: Desensitisasi Sentuhan Area Sensitif",
-            "text": "Sentuh kaki atau pinggul mereka sebentar selama 1 detik, lalu beri hadiah berupa camilan lezat. Ulangi untuk membangun asosiasi positif dengan sentuhan."
+            "text": "Sentuh kaki atau pinggul mereka sebentar selama 1 detik, lalu beri hadiah berupa camilan lezat bernilai tinggi. Ulangi untuk membangun asosiasi positif dengan sentuhan."
           },
           {
             "name": "Siang: Menyikat Bulu Ganda dengan Stres Rendah",
@@ -431,13 +431,13 @@
           },
           {
             "name": "Malam: Menghormati Zona Aman Mandiri",
-            "text": "Ketika Shiba mundur ke kandang atau sudut aman mereka untuk istirahat malam, jangan paksa mereka keluar atau membelainya. Biarkan mereka beristirahat."
+            "text": "Ketika Shiba mundur ke kandang atau sudut aman mereka untuk istirahat malam, jangan paksa mereka keluar atau membelainya. Biarkan mereka beristirahat dalam ketenangan."
           }
         ],
         "faqs": [
           {
             "question": "Mengapa Shiba Inu saya berteriak saat dirawat?",
-            "answer": "Ini dikenal sebagai 'Shiba Scream.' Ini adalah ekspresi ketakutan dan tekanan yang tulus, bukan sekadar berakting. Hentikan segera dan mulai kembali pelatihan dari tingkat dasar."
+            "answer": "Ini dikenal sebagai 'Shiba Scream.' Ini adalah ekspresi ketakutan dan tekanan yang tulus, bukan sekadar berakting. Hentikan segera dan mulai kembali pelatihan dari tingkat dasar, seperti memberinya hadiah hanya karena melihat sikat."
           },
           {
             "question": "Mengapa Shiba Inu saya tidak semesra atau seaktif anjing lainnya?",

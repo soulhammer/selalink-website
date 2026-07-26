@@ -3,7 +3,7 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Kemandirian Shiba Inu dan Perawatan Bulu Ganda: Rutinitas 3 Langkah"
 description: "Shiba Inu sangat mandiri dan sensitif terhadap sentuhan. Pelajari teknik menyikat bulu ganda mereka dan rutinitas 3 langkah untuk sentuhan tanpa stres."
 pubDate: "2026-01-29"
-updatedDate: "2026-01-29"
+updatedDate: "2026-07-26"
 category: "FreshSelf"
 tags: ["PerawatanHewan","KesehatanHewan","Shiba Inu"]
 heroImage: "/images/blog/shiba_care.png"
@@ -11,26 +11,26 @@ app: "petself"
 formatVersion: 4
 authority: "Klub Nasional Shiba Inu Amerika & Pedoman Modifikasi Perilaku IAABC"
 steps:
-  - name: "Cara Membaca Isyarat Tubuh dan Tanda Stres pada Anjing Shiba"
-    text: "Shiba Inu mengekspresikan batasan mereka secara jelas dan tenang. Sinyal utama meliputi 'memalingkan muka' dan 'mengibaskan tubuh'. Ketika seseorang mengulurkan tangan untuk menyentuh mereka dan Shiba memalingkan kepala, itu adalah permintaan sopan yang mengatakan 'tolong jangan sentuh aku sekarang.' Mengibaskan tubuh setelah kejadian stres adalah mekanisme naluriah untuk melepaskan ketegangan fisik."
+  - name: "Bahasa Tubuh Shiba Inu: Isyarat Tekanan dan Pelepasan Stres"
+    text: "Shiba Inu mengekspresikan batasan mereka secara jelas dan tenang. Sinyal utama meliputi 'memalingkan muka' dan 'mengibaskan tubuh'. Ketika seseorang mengulurkan tangan untuk menyentuh mereka dan Shiba memalingkan kepala, itu adalah permintaan sopan yang mengatakan 'tolong jangan sentuh aku sekarang.' Mengibaskan tubuh setelah kejadian stres adalah mekanisme naluriah untuk melepaskan ketegangan fisik dan memulihkan kondisi mental."
   - name: "Shiba Inu's Body Language & Signals"
     text: "* Memalingkan Muka: Permintaan sopan yang meminta orang tersebut berhenti mendekat atau menyentuh, mengekspresikan tekanan. (Jika melihat ini, jangan mencoba menyentuh mereka. Tarik tangan Anda dan beri mereka ruang.)
 
 * Mengibaskan Tubuh: Tindakan yang dimaksudkan untuk melepaskan stres atau ketegangan fisik setelah suatu kejadian. (Jika mereka mengibas selama perawatan, mereka sedang melepaskan ketegangan. Hentikan aktivitas dan biarkan mereka istirahat.)"
   - name: "Customized 3-Step Home Care Routine"
-    text: "* STEP 1. Pagi: Desensitisasi Sentuhan Area Sensitif: Sentuh kaki atau pinggul mereka sebentar selama 1 detik, lalu beri hadiah berupa camilan lezat. Ulangi untuk membangun asosiasi positif dengan sentuhan.
+    text: "* STEP 1. Pagi: Desensitisasi Sentuhan Area Sensitif: Sentuh kaki atau pinggul mereka sebentar selama 1 detik, lalu beri hadiah berupa camilan lezat bernilai tinggi. Ulangi untuk membangun asosiasi positif dengan sentuhan.
 
 * STEP 2. Siang: Menyikat Bulu Ganda dengan Stres Rendah: Gunakan sikat slicker untuk menyikat lembut searah pertumbuhan bulu. Jika mereka menunjukkan tanda ketidaknyamanan atau menggeram, segera hentikan.
 
-* STEP 3. Malam: Menghormati Zona Aman Mandiri: Ketika Shiba mundur ke kandang atau sudut aman mereka untuk istirahat malam, jangan paksa mereka keluar atau membelainya. Biarkan mereka beristirahat."
+* STEP 3. Malam: Menghormati Zona Aman Mandiri: Ketika Shiba mundur ke kandang atau sudut aman mereka untuk istirahat malam, jangan paksa mereka keluar atau membelainya. Biarkan mereka beristirahat dalam ketenangan."
 faqs:
   - question: "Mengapa Shiba Inu saya berteriak saat dirawat?"
-    answer: "Ini dikenal sebagai 'Shiba Scream.' Ini adalah ekspresi ketakutan dan tekanan yang tulus, bukan sekadar berakting. Hentikan segera dan mulai kembali pelatihan dari tingkat dasar."
+    answer: "Ini dikenal sebagai 'Shiba Scream.' Ini adalah ekspresi ketakutan dan tekanan yang tulus, bukan sekadar berakting. Hentikan segera dan mulai kembali pelatihan dari tingkat dasar, seperti memberinya hadiah hanya karena melihat sikat."
   - question: "Mengapa Shiba Inu saya tidak semesra atau seaktif anjing lainnya?"
     answer: "Shiba secara alami mirip kucing dan menghargai ruang pribadi mereka. Hanya karena mereka tidak menggoyangkan ekor dengan antusias, bukan berarti mereka tidak mencintai Anda; berbaring dengan tenang di dekat Anda adalah cara mereka menunjukkan kasih sayang."
 ---
 
-Shiba Inu dicintai secara global karena penampilan mirip rubah dan ekor melingkar mereka. Namun, mereka memiliki kemandirian mirip kucing, kemauan keras, dan sifat waspada. 🐕 Shiba sangat sensitif terhadap sentuhan pada kaki, telinga, atau ekor mereka. Jika dipaksa selama perawatan atau pemotongan kuku, mereka sering mengeluarkan 'Shiba Scream' bernada tinggi sebagai protes. Selain itu, mereka memiliki bulu ganda tebal yang rontok parah. Hari ini, PetSelf mengeksplorasi cara menghormati batasan Shiba Anda dengan rutinitas 3 langkah.
+Shiba Inu dicintai secara global karena penampilan mirip rubah dan ekor melingkar mereka. Namun, mereka memiliki kemandirian mirip kucing, kemauan keras, dan sifat waspada. 🐕 Shiba sangat sensitif terhadap sentuhan pada kaki, telinga, atau ekor mereka. Jika dipaksa selama perawatan atau pemotongan kuku, mereka sering mengeluarkan 'Shiba Scream' bernada tinggi sebagai protes. Selain itu, mereka memiliki bulu ganda tebal yang rontok parah saat pergantian musim. Hari ini, PetSelf mengeksplorasi cara menghormati batasan Shiba Anda dengan rutinitas 3 langkah.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -46,15 +46,15 @@ Shiba Inu dicintai secara global karena penampilan mirip rubah dan ekor melingka
 
 ---
 
-## 1. Cara Membaca Isyarat Tubuh dan Tanda Stres pada Anjing Shiba
+## 1. Bahasa Tubuh Shiba Inu: Isyarat Tekanan dan Pelepasan Stres
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Cara Membaca Isyarat Tubuh dan Tanda Stres pada Anjing Shiba</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Bahasa Tubuh Shiba Inu: Isyarat Tekanan dan Pelepasan Stres</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Shiba Inu mengekspresikan batasan mereka secara jelas dan tenang. Sinyal utama meliputi 'memalingkan muka' dan 'mengibaskan tubuh'. Ketika seseorang mengulurkan tangan untuk menyentuh mereka dan Shiba memalingkan kepala, itu adalah permintaan sopan yang mengatakan 'tolong jangan sentuh aku sekarang.' Mengibaskan tubuh setelah kejadian stres adalah mekanisme naluriah untuk melepaskan ketegangan fisik.
+    Shiba Inu mengekspresikan batasan mereka secara jelas dan tenang. Sinyal utama meliputi 'memalingkan muka' dan 'mengibaskan tubuh'. Ketika seseorang mengulurkan tangan untuk menyentuh mereka dan Shiba memalingkan kepala, itu adalah permintaan sopan yang mengatakan 'tolong jangan sentuh aku sekarang.' Mengibaskan tubuh setelah kejadian stres adalah mekanisme naluriah untuk melepaskan ketegangan fisik dan memulihkan kondisi mental.
   </p>
 </div>
 
@@ -94,7 +94,7 @@ Shiba Inu dicintai secara global karena penampilan mirip rubah dan ekor melingka
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pagi: Desensitisasi Sentuhan Area Sensitif</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Sentuh kaki atau pinggul mereka sebentar selama 1 detik, lalu beri hadiah berupa camilan lezat. Ulangi untuk membangun asosiasi positif dengan sentuhan.
+    Sentuh kaki atau pinggul mereka sebentar selama 1 detik, lalu beri hadiah berupa camilan lezat bernilai tinggi. Ulangi untuk membangun asosiasi positif dengan sentuhan.
   </p>
 </div>
 
@@ -114,7 +114,7 @@ Shiba Inu dicintai secara global karena penampilan mirip rubah dan ekor melingka
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Malam: Menghormati Zona Aman Mandiri</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Ketika Shiba mundur ke kandang atau sudut aman mereka untuk istirahat malam, jangan paksa mereka keluar atau membelainya. Biarkan mereka beristirahat.
+    Ketika Shiba mundur ke kandang atau sudut aman mereka untuk istirahat malam, jangan paksa mereka keluar atau membelainya. Biarkan mereka beristirahat dalam ketenangan.
   </p>
 </div>
 
@@ -133,7 +133,7 @@ Shiba Inu dicintai secara global karena penampilan mirip rubah dan ekor melingka
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Ini dikenal sebagai 'Shiba Scream.' Ini adalah ekspresi ketakutan dan tekanan yang tulus, bukan sekadar berakting. Hentikan segera dan mulai kembali pelatihan dari tingkat dasar.
+      Ini dikenal sebagai 'Shiba Scream.' Ini adalah ekspresi ketakutan dan tekanan yang tulus, bukan sekadar berakting. Hentikan segera dan mulai kembali pelatihan dari tingkat dasar, seperti memberinya hadiah hanya karena melihat sikat.
     </p>
   </details>
 

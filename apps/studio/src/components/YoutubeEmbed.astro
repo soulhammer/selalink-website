@@ -3,7 +3,7 @@ interface Props {
   id: string;
   title?: string;
   isShorts?: boolean;
-  app?: 'freshsnap' | 'freshself' | 'buildself' | 'logself' | 'general' | 'petself';
+  app?: string;
 }
 
 const { id, title = "YouTube Video", isShorts = true, app = 'freshsnap' } = Astro.props;

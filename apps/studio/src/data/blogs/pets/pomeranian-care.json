@@ -3,467 +3,19 @@
     "pubDate": "2026-01-05",
     "updatedDate": "2026-01-05",
     "locales": {
-      "en": {
-        "title": "Protecting Pomeranian Joints and Airway: A 3-Step Daily Routine",
-        "description": "Pomeranians are highly prone to patellar luxation and tracheal collapse. Discover tips to prevent joint injuries and relieve breathing issues using a 3-step routine.",
-        "authority": "Official American Pomeranian Club Breed Guide & AVMA Veterinary Manual",
-        "profile": {
-          "breed": "Pomeranian",
-          "lifespan": "12 ~ 16 years",
-          "sleep_pattern": "12 ~ 14 hours (prefers sleeping near owner's pillow)",
-          "temperament": "Outgoing, Intelligent, Lively"
-        },
-        "intro": "Pomeranians are highly popular toy dogs, beloved for their fluffy double coat and confident, active gait. They are outgoing and intelligent, but their hunting dog heritage can make them sensitive to sounds and prone to barking. 🐕 Pomeranian owners often face two significant health concerns: **Patellar Luxation** (dislocated kneecaps due to thin bones) and **Tracheal Collapse** (which causes a honking, goose-like cough). These conditions can easily worsen in slippery indoor environments. Today, PetSelf provides key insights into Pomeranian body language and introduces a protective 3-step home care routine for their joints and trachea.",
-        "whyTitle": "Pomeranian Body Language: Distinguishing Playfulness from Anxiety",
-        "whyDesc": "Pomeranians are highly expressive and shift emotions rapidly. Key body language signals include the **'play bow'** (stretching) and **'lip licking'**. When a Pomeranian lowers their front body while raising their hips, it is the classic 'play bow,' indicating an open invitation to play. However, if they appear to wag their tail but continuously lick their lips, it is a sign of internal anxiety or stress. Owners should not mistake this for excitement and should help calm them down.",
-        "body_signals": [
-          {
-            "name": "Play Bow",
-            "meaning": "Lowering the front body while raising the hips, representing an open and happy invitation to play.",
-            "response": "Respond joyfully by throwing a favorite toy or starting a gentle chase game."
-          },
-          {
-            "name": "Lip Licking",
-            "meaning": "Not anticipating food; it is a calming signal used to control internal anxiety or stress.",
-            "response": "If seen during walks or in new places, guide them away from the stimulus to ensure safety."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Morning: Floor Grip Maintenance and Jump Prevention",
-            "text": "Ensure non-slip mats are correctly placed around furniture to protect their thin bones. Train them to use pet stairs instead of jumping down."
-          },
-          {
-            "name": "Afternoon: Pin Brushing Against Hair Direction",
-            "text": "Use a pin brush to gently brush the coat from tail to head, fluffing it up. This prevents undercoat matting and allows healthy air flow to the skin."
-          },
-          {
-            "name": "Evening: Neck Massage and Harness Check to Avoid Tracheal Strain",
-            "text": "To protect their fragile trachea, examine your Y-shaped harness and avoid collars completely. Massage the sides of their neck gently to relieve muscle tension."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "What should I do when my Pomeranian makes a goose-like honking sound?",
-            "answer": "This Honking is a common symptom of tracheal collapse. Do not panic; hold your Pomeranian close, rub their throat gently, or temporarily cover their nostrils for 1 second to encourage nose breathing."
-          },
-          {
-            "question": "Can home care cure patellar luxation without surgery?",
-            "answer": "No. Advanced stages (Grade 3 or 4) require surgical correction. Home care (maintaining healthy weight, preventing slips, and muscle-building exercises) is effective in early stages (Grade 1 or 2) to slow progression and prevent recurrence post-surgery."
-          }
-        ],
-        "tags": [
-          "Pomeranian",
-          "Patellar Care",
-          "Tracheal Collapse",
-          "Double Coat Brushing"
-        ]
-      },
-      "ja": {
-        "title": "ポメラニアンの膝蓋骨と呼吸器安定のための3段階プロテクトルーティン",
-        "description": "小型犬ポメラニアンの遺伝的弱点である膝蓋骨脱臼の予防法と、気管虚脱（ガチョウの鳴き声のような呼吸音）の緩和のための3段階ケアを紹介します。",
-        "authority": "アメリカンポメラニアンクラブ公式犬種ガイド＆AVMA獣医学マニュアル",
-        "profile": {
-          "breed": "ポメラニアン",
-          "lifespan": "12 ~ 16年",
-          "sleep_pattern": "12 ~ 14時間（飼い主の枕元優先型）",
-          "temperament": "外向的、聡明、活気がある"
-        },
-        "intro": "ポメラニアンは、小さな体に見事な被毛、そして明るく堂々とした歩き方で、世界中で最も人気のある超小型犬の一つです。非常に外向的で聡明、愛嬌たっぷりですが、犬としての本能から音に敏感で、少しけたたましく吠えることもあります。🐕しかし、ポメラニアンの飼い主に共通する2つの健康の悩みがあります。1つは骨が細いために起こる**膝蓋骨脱臼（パテラ）**、もう1つは気管が平らにつぶれてガチョウのような呼吸音を出す**気管虚脱**です。これらは日本の滑りやすい床環境で悪化しやすいです。本日、PetSelfでは関節と呼吸器を同時に保護する3段階ルーティンを紹介します。",
-        "whyTitle": "ポメラニアンのボディランゲージ：遊び心と不安の判別",
-        "whyDesc": "ポメラニানেরは小さな体で素早く感情を切り替え、表情豊かなしぐさを見せます。代表的なサインは**「プレイバウ（お辞儀のポーズ）」**と**「唇舐め」**です。ポメラニアンが前足を低く下げ、お尻を高く持ち上げるポーズは、楽しい遊びの誘いです。一方、しっぽを振って喜んでいるように見えても、頻繁に唇をペロペロ舐めるのは、現在の環境に精神的な負担や不安を感じて落ち着こうとするサインです。",
-        "body_signals": [
-          {
-            "name": "お辞儀のポーズ (Play Bow)",
-            "meaning": "前足を下げてお尻を持ち上げた状態で、相手に一緒に遊ぼうと誘うとてもハッピーなサインです。",
-            "response": "おもちゃを投げてあげたり、軽く追いかけっこをして楽しく応えてあげてください。"
-          },
-          {
-            "name": "唇を舐める (Lip Licking)",
-            "meaning": "食べ物を期待しているのではなく、周囲の環境による精神的不安を和らげようとするしぐさです。",
-            "response": "散歩の途中や不慣れな場所でこのしぐさをしたら、不安の要素から距離を置いてあげてください。"
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "朝：滑り止めマットの整理とジャンプ禁止トレーニング",
-            "text": "超小型犬であるポメラニアンがベッド等から飛び降りる衝撃を防ぐため、滑り止めマットの位置を確認し、スロープや階段の使用を促します。"
-          },
-          {
-            "name": "午後：皮膚の空気循環のためのピンブラシ逆方向ブラッシング",
-            "text": "豊かな綿毛（アンダーコート）が絡まって空気が遮断されやすいポメラニアンのため、ピンブラシで毛を尻尾から頭の方向へ優しく立たせるように梳かします。"
-          },
-          {
-            "name": "夜：気管虚脱予防のための首マッサージと散歩用ハーネスの点検",
-            "text": "遺伝的に細くて弱い気管を圧迫しないよう、夜の散歩時は首輪ではなくY字型ハーネスの調整を確認し、首の下の軟骨周りを優しくマッサージします。"
-          }
-        ],
-        "faqs": [
-          {
-            "question": "ポメラニアンが突然興奮して「カッカッ」とガチョウのような鳴き声でむせる時はどうしますか？",
-            "answer": "気管虚脱の一時的な症状です。慌てずに抱き上げ、首周りを優しく撫でたり、鼻の穴を1秒ほど指でそっと塞ぐと、鼻呼吸が促されて早く落ち着きます。"
-          },
-          {
-            "question": "膝蓋骨脱臼は手術なしでホームケアだけで完治しますか？",
-            "answer": "膝蓋骨脱臼がすでに進行したステージ3〜4の物理的な変形は手術が必要です。ホームケアは、ステージ1〜2の初期段階で悪化を遅らせ、手術後の再発を防止するための非常に強力な予防手段です。"
-          }
-        ],
-        "tags": [
-          "ポメラニアン",
-          "膝蓋骨ケア",
-          "気管虚脱",
-          "二重毛のブラッシング"
-        ]
-      },
-      "zh": {
-        "title": "博美犬的髌骨与呼吸道保护：日常3步保护惯例",
-        "description": "博美犬极易发生髌骨脱位和气管塌陷。介绍预防关节损伤及缓解呼吸问题的日常3步保护惯例。",
-        "authority": "美国博美犬俱乐部官方犬种指南与 AVMA 兽医学手册",
-        "profile": {
-          "breed": "博美犬",
-          "lifespan": "12 ~ 16年",
-          "sleep_pattern": "12 ~ 14小时（偏好在家长枕头旁型）",
-          "temperament": "外向、聪明、活泼气派"
-        },
-        "intro": "博美犬以其娇小的体型、蓬松的双层被毛以及自信活泼的步态而备受喜爱。它们外向且聪明，但其猎犬血统也使其对声音较敏感，易吠叫。🐕博美犬家长经常面临两个重要的健康隐忧：**髌骨脱位**（因骨骼纤细导致膝盖骨易脱位）和**气管塌陷**（导致发出鹅叫般的咳嗽声）。这些状况在滑溜的室内地板上极易恶化。今天，PetSelf 将带您了解博美犬的身体语言，并介绍一套日常3步护理惯例，以保护它们的关节和气管健康。 提供持续的日常健康护理与安全的生活环境，可确保您的宠物长期保持健康快乐。",
-        "whyTitle": "博美犬的身体语言：区分玩耍与焦虑",
-        "whyDesc": "博美犬极富表现力，情绪变化迅速。关键的肢体语言包括“邀请玩耍姿势（Play Bow）”和“舔嘴唇”。当博美犬降低前半身并抬高臀部时，这是经典的邀请玩耍姿势。然而，如果它们看似在摇尾巴，却不断地用舌头舔嘴唇，这实际上是内心焦虑或压力的表现。家长不应将其误认为兴奋，而应该帮助它们冷静下来。",
-        "body_signals": [
-          {
-            "name": "邀请玩耍姿势 (Play Bow)",
-            "meaning": "前半身贴地而臀部抬起，表示非常高兴并向家长或伙伴发出一起玩耍的邀请。",
-            "response": "扔出它们喜欢的玩具，或者开始一场温柔的追逐游戏以快乐地回应它们。"
-          },
-          {
-            "name": "舔嘴唇 (Lip Licking)",
-            "meaning": "并非期待食物，而是一种用来平复内心焦虑或压力的放松信号。",
-            "response": "如果在散步或陌生环境中看到这个动作，请引导它们远离刺激源以确保安全感。"
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "早晨：防滑地垫整理与防止跳跃训练",
-            "text": "确保家具周围正确铺设防滑垫，以保护它们纤细的的骨骼。引导它们使用宠物台阶，避免直接跳下造成的冲击。"
-          },
-          {
-            "name": "下午：逆毛发生长方向梳理以促进空气流通",
-            "text": "使用针梳从尾部向头部方向轻轻梳理毛发，使其蓬松。这可以防止双层被毛结块，并促进皮肤的健康空气流通。"
-          },
-          {
-            "name": "晚上：预防气管压力的颈部按摩与胸背带检查",
-            "text": "为了保护其脆弱的气管，请完全避免使用项圈，而应使用Y字形胸背带。轻轻按摩其颈部两侧，以缓解肌肉紧张。"
-          }
-        ],
-        "faqs": [
-          {
-            "question": "博美犬突然像鹅一样发出“咳咳”的 honking 咳嗽声，我该怎么办？",
-            "answer": "这通常是气管塌陷的暂时性症状。请保持冷静，抱起您的博美犬，轻轻抚摸它们的喉部，或短暂用手遮住其鼻孔1秒钟以促使其改用鼻子呼吸，症状通常会迅速缓解。"
-          },
-          {
-            "question": "仅仅依靠家庭护理能治愈髌骨脱位而无需手术吗？",
-            "answer": "对于已经发展至3至4期的物理性移位，必须进行手术矫正。家庭护理（控制体重、防止打滑、加强后肢肌肉）在早期（1至2期）能有效延缓病情进展，并在术后防止复发。"
-          }
-        ],
-        "tags": [
-          "博美犬",
-          "髌骨护理",
-          "气管塌陷",
-          "双层毛梳理"
-        ]
-      },
-      "es": {
-        "title": "Protección de articulaciones y vías respiratorias del Pomerania: rutina de 3 pasos",
-        "description": "Los Pomeranias son propensos a la luxación patelar y al colapso traqueal. Descubra consejos para prevenir lesiones articulares y aliviar problemas respiratorios.",
-        "authority": "Guía oficial de razas del American Pomeranian Club y manual veterinario de la AVMA",
-        "profile": {
-          "breed": "Pomerania",
-          "lifespan": "12 ~ 16 años",
-          "sleep_pattern": "12 ~ 14 horas (prefiere dormir cerca de la almohada del dueño)",
-          "temperament": "Extrovertido, Inteligente, Vivaz"
-        },
-        "intro": "Los Pomeranias son perros toy muy populares por su pelaje esponjoso y su andar seguro. Son extrovertidos e inteligentes, pero su herencia cazadora los hace sensibles a los sonidos y propensos a ladrar. 🐕 Los dueños a menudo enfrentan dos problemas de salud: la **luxación patelar** y el **colapso traqueal** (que causa una tos similar al graznido de un ganso). Estas condiciones pueden empeorar en interiores resbaladizos. Hoy, PetSelf presenta una rutina de 3 pasos para proteger sus articulaciones y tráquea.",
-        "whyTitle": "Lenguaje corporal del Pomerania: distinguir el juego de la ansiedad",
-        "whyDesc": "Los Pomeranias son muy expresivos y cambian de emoción rápidamente. Las señales clave incluyen el **'saludo de juego'** y **'lamerse los labios'**. Cuando baja la parte delantera de su cuerpo y levanta las caderas, es una invitación a jugar. Sin embargo, si parece mover la cola pero se lame continuamente los labios, es un signo de ansiedad interna. Los dueños no deben confundir esto con entusiasmo.",
-        "body_signals": [
-          {
-            "name": "Saludo de juego",
-            "meaning": "Bajar la parte delantera y levantar las caderas, representando una invitación feliz para jugar.",
-            "response": "Responda alegremente lanzando un juguete o comenzando un juego suave de persecución."
-          },
-          {
-            "name": "Lamerse los labios",
-            "meaning": "No es por anticipar comida; es una señal de calma utilizada para controlar la ansiedad o el estrés.",
-            "response": "Si lo ve durante paseos, guíelo lejos del estímulo para garantizar su tranquilidad."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Mañana: Mantenimiento antideslizante y prevención de saltos",
-            "text": "Asegúrese de que las alfombras antideslizantes estén bien colocadas. Enséñeles a usar escaleras para mascotas en lugar de saltar."
-          },
-          {
-            "name": "Tarde: Cepillado con cepillo de púas contra el pelo",
-            "text": "Use un cepillo de púas para cepillar suavemente desde la cola hacia la cabeza. Esto evita enredos y permite el flujo de aire en la piel."
-          },
-          {
-            "name": "Noche: Masaje de cuello y control de arnés para evitar tensión traqueal",
-            "text": "Para proteger su frágil tráquea, examine su arnés en forma de Y y evite por completo los collares. Masajee suavemente los lados del cuello."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "¿Qué debo hacer si mi Pomerania hace un graznido de ganso al respirar?",
-            "answer": "Esto suele ser un síntoma de colapso traqueal. No se alarme; cargue al perro, acaricie su cuello o tape sus orificios nasales por 1 segundo para forzar la respiración nasal."
-          },
-          {
-            "question": "¿Se puede curar la luxación patelar solo con cuidados en casa?",
-            "answer": "Las etapas avanzadas (Grado 3 o 4) requieren cirugía. El cuidado en casa (control de peso, evitar resbalones y fortalecer músculos) sirve en etapas tempranas (Grado 1 o 2) para retrasar el progreso."
-          }
-        ],
-        "tags": [
-          "Pomerania",
-          "Cuidado de Rótula",
-          "Colapso Traqueal",
-          "Cepillado de Manto"
-        ]
-      },
-      "fr": {
-        "title": "Protéger les articulations et la trachée du Loulou de Poméranie : routine en 3 étapes",
-        "description": "Le Loulou de Poméranie est sujet à la luxation de la rotule et au collapsus trachéal. Découvrez des conseils pour préserver ses articulations et sa trachée.",
-        "authority": "Guide officiel de race de l'American Pomeranian Club et manuel vétérinaire de l'AVMA",
-        "profile": {
-          "breed": "Loulou de Poméranie",
-          "lifespan": "12 ~ 16 ans",
-          "sleep_pattern": "12 ~ 14 heures (préfère dormir près de l'oreiller du maître)",
-          "temperament": "Extroverti, Intelligent, Vif"
-        },
-        "intro": "Le Loulou de Poméranie est un chien miniature très populaire, adoré pour sa fourrure bouffante et sa démarche fière. Extroverti et intelligent, il garde un instinct de garde qui le rend sensible aux bruits. 🐕 Les propriétaires de Poméraniens font face à deux soucis de santé majeurs : la **luxation de la rotule** (fragilité osseuse) et le **collapsus trachéal** (qui se traduit par une toux rappelant le cri de l'oie). Ces affections s'aggravent sur les sols glissants. Aujourd'hui, PetSelf présente une routine en 3 étapes pour protéger ses articulations et sa trachée.",
-        "whyTitle": "Langage corporel du Poméranien : distinguer le jeu de l'anxiété",
-        "whyDesc": "Le Poméranien est très expressif et change d'émotion rapidement. Les signaux clés incluent la **'révérence de jeu'** (play bow) et le **'lèche-babines'**. Lorsqu'il abaisse le train avant et lève l'arrière-train, c'est une invitation classique au jeu. Cependant, s'il remue la queue tout en se léchant continuellement les babines, c'est un signe d'anxiété interne. Les maîtres ne doivent pas confondre cela avec de l'excitation.",
-        "body_signals": [
-          {
-            "name": "Révérence de jeu",
-            "meaning": "Abaissement du train avant et arrière-train levé, représentant une invitation joyeuse à jouer.",
-            "response": "Répondez joyeusement en jetant un jouet ou en commençant un jeu de poursuite doux."
-          },
-          {
-            "name": "Lèche-babines",
-            "meaning": "Il ne réclame pas de nourriture ; c'est un signal d'apaisement pour contrôler son anxiété.",
-            "response": "Si vous l'observez en promenade, éloignez-le de la source de stress pour le rassurer."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Matin : Entretien des tapis anti-glisse et apprentissage du non-saut",
-            "text": "Vérifiez que les tapis anti-glisse sont bien positionnés. Incitez-le à utiliser des escaliers pour chiens plutôt que de sauter des meubles."
-          },
-          {
-            "name": "Après-midi : Brossage avec brosse à picots à rebrousse-poil",
-            "text": "Utilisez une brosse à picots pour brosser délicatement de la queue vers la tête. Cela évite les nœuds de sous-poil et permet à la peau de respirer."
-          },
-          {
-            "name": "Soir : Massage du cou et vérification du harnais anti-traction",
-            "text": "Pour protéger sa trachée fragile, vérifiez le harnais en Y et proscrivez les colliers. Massez doucement les côtés du cou pour relâcher la tension."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Que faire lorsque mon Poméranien émet un bruit de klaxon rappelant l'oie ?",
-            "answer": "C'est un symptôme de collapsus trachéal. Gardez votre calme, prenez-le dans vos bras, massez doucement sa gorge ou obstruez brièvement ses narines pendant 1 seconde pour forcer la respiration nasale."
-          },
-          {
-            "question": "Le soin à la maison peut-il guérir la luxation de rotule sans chirurgie ?",
-            "answer": "Les stades avancés (Grade 3 ou 4) nécessitent une chirurgie. Le soin à la maison (poids idéal, tapis, exercices) est efficace aux stades précoces (Grade 1 ou 2) pour ralentir l'évolution."
-          }
-        ],
-        "tags": [
-          "Loulou de Poméranie",
-          "Soin de Rotule",
-          "Collapsus Trachéal",
-          "Brossage Double Pelage"
-        ]
-      },
-      "de": {
-        "title": "Zwergspitz Gelenk- und Atemwegsschutz: Eine 3-Schritte-Routine",
-        "description": "Zwergspitze sind anfällig für Patellaluxation und Trachealkollaps. Erfahren Sie Tipps zur Gelenkvorsorge und Entlastung der Atemwege mit einer 3-Schritte-Routine.",
-        "authority": "Offizieller Rasseführer des American Pomeranian Clubs & Tierärztliches Handbuch der AVMA",
-        "profile": {
-          "breed": "Zwergspitz",
-          "lifespan": "12 ~ 16 Jahre",
-          "sleep_pattern": "12 ~ 14 Stunden (bevorzugt Kissenbereich des Besitzers)",
-          "temperament": "Extrovertiert, Intelligent, Lebhaft"
-        },
-        "intro": "Zwergspitze sind beliebte Gesellschaftshunde, die für ihr plüschiges Fell und ihren selbstbewussten Gang bekannt sind. Sie sind extrovertiert und klug, können aber aufgrund ihres Erbes geräuschempfindlich sein und zum Bellen neigen. 🐕 Besitzer sorgen sich oft um zwei Gesundheitsprobleme: **Patellaluxation** (Kniescheibenluxation aufgrund feiner Knochen) und **Trachealkollaps** (der zu einem gänsehustenartigen Keuchen führt). Diese Beschwerden verschlimmern sich auf rutschigen Böden. Heute stellt PetSelf eine 3-Schritte-Routine vor.",
-        "whyTitle": "Körpersprache des Zwergspitzes: Unterscheidung zwischen Spieltrieb und Angst",
-        "whyDesc": "Zwergspitze sind sehr ausdrucksstark. Wichtige Signale sind die **'Spielaufforderung'** (Vorderkörper absenken) und das **'Lippenlecken'**. Wenn ein Zwergspitz den Vorderkörper senkt und das Hinterteil hebt, ist das eine Spielaufforderung. Wenn er jedoch mit dem Schwanz wedelt, aber ständig die Lippen leckt, deutet dies auf innere Unruhe oder Stress hin. Verwechseln Sie dies nicht mit Freude.",
-        "body_signals": [
-          {
-            "name": "Spielaufforderung",
-            "meaning": "Absenken des Vorderkörpers bei gehobenem Hinterteil, was eine freudige Einladung zum Spiel darstellt.",
-            "response": "Reagieren Sie freudig, indem Sie ein Spielzeug werfen oder ein sanftes Nachlaufspiel starten."
-          },
-          {
-            "name": "Lippenlecken",
-            "meaning": "Keine Vorfreude auf Futter; ein Beschwichtigungssignal zur Bewältigung von innerer Unruhe.",
-            "response": "Wenn Sie dies beim Spaziergang sehen, führen Sie ihn aus der Situation heraus."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Morgen: Rutschschutzprüfung und Sprungvermeidungstraining",
-            "text": "Stellen Sie sicher, dass rutschfeste Matten richtig liegen. Gewöhnen Sie ihn daran, Hundetreppen zu benutzen, anstatt herunterzuspringen."
-          },
-          {
-            "name": "Nachmittag: Bürsten gegen den Strich zur Hautbelüftung",
-            "text": "Nutzen Sie eine Stiftbürste, um das Fell sanft von der Rute zum Kopf gegen den Strich zu bürsten. Dies verhindert Verfilzungen und lüftet die Haut."
-          },
-          {
-            "name": "Abend: Halsmassage und Brustgeschirr-Prüfung zur Atemwegsentlastung",
-            "text": "Um die empfindliche Luftröhre zu schützen, nutzen Sie ein Y-Geschirr statt eines Halsbands. Massieren Sie die Halsseiten sanft, um Muskeln zu entspannen."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Was soll ich tun, wenn mein Zwergspitz ein gänsehustenartiges Keuchen zeigt?",
-            "answer": "Dies ist ein Symptom des Trachealkollapses. Bleiben Sie ruhig; halten Sie ihn fest, streicheln Sie die Kehle sanft oder halten Sie die Nasenlöcher für 1 Sekunde zu, um Nasenatmung anzuregen."
-          },
-          {
-            "question": "Kann die Kniescheibenluxation ohne Operation durch Pflege geheilt werden?",
-            "answer": "Fortgeschrittene Stadien (Grad 3 oder 4) erfordern eine Operation. Pflege zu Hause (Gewichtskontrolle, rutschfeste Böden) ist in frühen Stadien (Grad 1 oder 2) wirksam, um das Fortschreiten zu verlangsamen."
-          }
-        ],
-        "tags": [
-          "Zwergspitz",
-          "Kniescheibenpflege",
-          "Trachealkollaps",
-          "Fellbürsten"
-        ]
-      },
-      "pt": {
-        "title": "Proteção de articulações e vias respiratórias do Spitz Alemão: rotina de 3 passos",
-        "description": "Os Spitz Alemães são propensos à luxação patelar e ao colapso traqueal. Descubra dicas para evitar lesões articulares e aliviar problemas respiratórios.",
-        "authority": "Guia oficial de raças do American Pomeranian Club e manual veterinário da AVMA",
-        "profile": {
-          "breed": "Spitz Alemão",
-          "lifespan": "12 ~ 16 anos",
-          "sleep_pattern": "12 ~ 14 horas (prefere dormir perto do travesseiro do dono)",
-          "temperament": "Extrovertido, Inteligente, Vivaz"
-        },
-        "intro": "Os Spitz Alemães são cães toy populares, amados por sua pelagem fofa e andar confiante. São extrovertidos e inteligentes, mas sua herança de caça pode torná-los sensíveis a sons e propensos a latir. 🐕 Os donos frequentemente enfrentam duas preocupações: a **luxação patelar** e o **colapso traqueal** (que causa uma tosse parecida com grasnido de ganso). Essas condições pioram em pisos rescorregadios. Hoje, o PetSelf apresenta uma rotina de 3 passos para as articulações e traqueia.",
-        "whyTitle": "Linguagem corporal do Spitz Alemão: distinguindo o brincar da ansiedade",
-        "whyDesc": "Os Spitz Alemães são muito expressivos. Os sinais principais incluem a **'posição de convite para brincar'** (Play Bow) e **'lamber os lábios'**. Quando baixa a parte dianteira do corpo e levanta o quadril, é um convite clássico para brincar. No entanto, se parecer abanar a cauda mas lamber os lábios continuamente, é sinal de ansiedade interna. Não confunda isso com entusiasmo.",
-        "body_signals": [
-          {
-            "name": "Convite para brincar",
-            "meaning": "Abaixar a parte dianteira e levantar o quadril, representando um convite feliz para brincar.",
-            "response": "Responda alegremente jogando um brinquedo ou começando uma brincadeira de perseguição leve."
-          },
-          {
-            "name": "Lamber os lábios",
-            "meaning": "Não é expectativa de comida; é um sinal de calma usado para controlar a ansiedade ou o estresse.",
-            "response": "Se ver isso durante os passeios, afaste-o do estímulo para garantir sua tranquilidade."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Manhã: Manutenção antiderrapante e prevenção de saltos",
-            "text": "Certifique-se de que os tapetes antiderrapantes estejam bem posicionados. Treine-os para usar escadas para pets em vez de pular."
-          },
-          {
-            "name": "Tarde: Escovação com escova de pinos contra o pelo",
-            "text": "Use uma escova de pinos para escovar suavemente da cauda para a cabeça. Isso evita nós na subpelagem e permite o fluxo de ar na pele."
-          },
-          {
-            "name": "Noite: Massagem no pescoço e verificação do peitoral para evitar tensão traqueal",
-            "text": "Para proteger sua traqueia frágil, use peitoral em Y e evite coleiras. Massageie suavemente as laterais do pescoço para aliviar a tensão."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "O que devo fazer quando o meu Spitz Alemão faz um grasnido de ganso?",
-            "answer": "Isso costuma ser um sintoma de colapso traqueal. Mantenha a calma, pegue o pet no colo, acaricie o pescoço ou tampe as narinas por 1 segundo para forçar a respiração nasal."
-          },
-          {
-            "question": "É possível curar a luxação patelar sem cirurgia, apenas com cuidados em casa?",
-            "answer": "Graus avançados (Grau 3 ou 4) requerem correção cirúrgica. Os cuidados em casa (peso saudável, evitar pisos lisos e exercícios) servem no Grau 1 ou 2 para retardar a evolução."
-          }
-        ],
-        "tags": [
-          "Spitz Alemão",
-          "Cuidado Patelar",
-          "Colapso Traqueal",
-          "Escovação de Pelagem"
-        ]
-      },
-      "id": {
-        "title": "Melindungi Sendi dan Saluran Napas Pomeranian: Rutinitas 3 Langkah",
-        "description": "Pomeranian rentan terhadap luksasi patela dan kolaps trakea. Temukan tips mencegah cedera sendi dan meredakan masalah pernapasan dengan rutinitas 3 langkah.",
-        "authority": "Panduan Ras Resmi American Pomeranian Club & Panduan Dokter Hewan AVMA",
-        "profile": {
-          "breed": "Pomeranian",
-          "lifespan": "12 ~ 16 tahun",
-          "sleep_pattern": "12 ~ 14 jam (lebih suka tidur di dekat bantal pemilik)",
-          "temperament": "Ekstrovert, Cerdas, Lincah"
-        },
-        "intro": "Pomeranian adalah anjing mainan yang sangat populer, dicintai karena bulu ganda mereka yang lembut dan gaya berjalan mereka yang percaya diri. Mereka ekstrovert dan cerdas, tetapi warisan anjing pemburu dapat membuat mereka sensitif terhadap suara dan cenderung menggonggong. 🐕 Pemilik sering menghadapi dua masalah kesehatan utama: **Luksasi Patela** dan **Kolaps Trakea** (yang menyebabkan batuk mirip angsa). Kondisi ini dapat memburuk di lantai licin. Hari ini, PetSelf memperkenalkan rutinitas 3 langkah.",
-        "whyTitle": "Bahasa Tubuh Pomeranian: Membedakan Bermain dengan Kecemasan",
-        "whyDesc": "Pomeranian sangat ekspresif dan mengubah emosi dengan cepat. Sinyal bahasa tubuh utama meliputi **'posisi mengajak bermain'** (play bow) dan **'menjilat bibir'**. Saat Pomeranian menurunkan tubuh bagian depan sambil mengangkat pinggul, itu adalah ajakan bermain klasik. Namun, jika mereka menggoyangkan ekor tetapi terus menjilat bibir, itu adalah tanda kecemasan internal.",
-        "body_signals": [
-          {
-            "name": "Posisi Mengajak Bermain",
-            "meaning": "Menurunkan tubuh bagian depan sambil mengangkat pinggul, mewakili ajakan bermain yang bahagia.",
-            "response": "Tanggapi dengan gembira dengan melemparkan mainan favorit atau memulai permainan kejar-kejaran lembut."
-          },
-          {
-            "name": "Menjilat Bibir",
-            "meaning": "Bukan mengantisipasi makanan; ini adalah sinyal penenang untuk mengendalikan kecemasan.",
-            "response": "Jika terlihat saat jalan-jalan, jauhkan mereka dari stimulus untuk memastikan ketenangan."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Pagi: Perawatan Lapisan Antiselip dan Pencegahan Lompat",
-            "text": "Pastikan keset antiselip diletakkan dengan benar di sekitar furnitur. Latih mereka menggunakan tangga hewan daripada melompat turun."
-          },
-          {
-            "name": "Siang: Menyikat Bulu Berlawanan Arah dengan Sikat Pin",
-            "text": "Gunakan sikat pin untuk menyikat bulu secara lembut dari ekor ke kepala. Ini mencegah kusut dan melancarkan aliran udara ke kulit."
-          },
-          {
-            "name": "Malam: Pijat Leher dan Pemeriksaan Harness untuk Hindari Ketegangan Trakea",
-            "text": "Untuk melindungi trakea mereka yang rapuh, gunakan harness berbentuk Y dan hindari kalung leher. Pijat perlahan sisi leher untuk meredakan ketegangan."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Apa yang harus saya lakukan saat Pomeranian saya mengeluarkan batuk mirip klakson angsa?",
-            "answer": "Ini adalah gejala umum kolaps trakea. Jangan panik; peluk Pomeranian Anda, usap tenggorokan mereka dengan lembut, atau tutup lubang hidung mereka selama 1 detik untuk memicu pernapasan hidung."
-          },
-          {
-            "question": "Dapatkah perawatan rumahan menyembuhkan luksasi patela tanpa operasi?",
-            "answer": "Tidak. Tahap lanjut (Tingkat 3 atau 4) memerlukan koreksi bedah. Perawatan rumahan (berat badan sehat, mencegah slip) efektif pada tahap awal (Tingkat 1 atau 2) untuk memperlambat perkembangan."
-          }
-        ],
-        "tags": [
-          "Pomeranian",
-          "Perawatan Patela",
-          "Kolaps Trakea",
-          "Menyikat Bulu Ganda"
-        ]
-      },
       "ko": {
         "title": "포메라니안의 슬개골 및 호흡기 안정을 위한 3단계 보호막 루틴",
         "description": "소형견 포메라니안의 유전적 취약점인 슬개골 탈구 방지 팁과 기관지 협착증(거위소리) 완화를 위한 3단계 데일리 케어를 소개합니다.",
         "authority": "American Pomeranian Club 공식 견종 가이드 및 AVMA 수의학 매뉴얼",
         "profile": {
-          "breed": "포메라니안 (Pomeranian)",
+          "breed": "포메라니안 (Canis lupus familiaris / Pomeranian)",
           "lifespan": "12 ~ 16년",
           "sleep_pattern": "12 ~ 14시간 (보호자 머리맡 선호형)",
           "temperament": "외향적, 총명함, 활기참"
         },
-        "intro": "포메라니안은 작은 몸집에 풍성한 털, 그리고 밝고 당당한 걸음걸이로 전 세계에서 가장 인기 있는 초소형 반려견 중 하나입니다. 매우 외향적이고 총명하며, 애교가 넘치지만 고유의 사냥 개 유전자가 있어 소리에 예민하고 다소 앙칼지게 짖기도 합니다. 🐕 하지만 포메라니안을 키우는 반려인들의 공통적인 두 가지 건강 고민이 있습니다. 첫째는 뼈가 너무 얇아 발생하는 **슬개골 탈구(Patellar Luxation)**이고, 둘째는 기관지가 납작하게 눌려 거위 울음소리를 내는 **기관지 협착증(Tracheal Collapse)**입니다. 이 두 질환은 아파트 등 한국의 실내 환경에서 악화되기 쉽습니다. 오늘 PetSelf에서는 포메라니안의 신체 구조에 맞추어 슬개골과 호흡기를 동시에 안전하게 보호할 수 있는 3단계 홈케어 루틴을 소개합니다.",
+        "intro": "포메라니안은 작은 몸집에 풍성한 이중모, 그리고 밝고 당당한 걸음걸이로 전 세계에서 가장 인기 있는 초소형 반려견 중 하나입니다. 매우 외향적이고 총명하며 애교가 넘치지만, 고유의 스피츠 계열 유전자가 있어 소리에 예민하고 다소 앙칼지게 짖기도 합니다. 🐕 하지만 포메라니안을 키우는 반려인들의 공통적인 두 가지 건강 고민이 있습니다. 첫째는 뼈가 너무 얇아 발생하는 **슬개골 탈구(Patellar Luxation)**이고, 둘째는 기관지가 납작하게 눌려 거위 울음소리를 내는 **기관지 협착증(Tracheal Collapse)**입니다. 이 두 질환은 아파트 등 마룻바닥 중심의 실내 환경에서 악화되기 쉽습니다. 오늘 PetSelf에서는 포메라니안의 신체 구조에 맞추어 슬개골과 호흡기를 동시에 안전하게 보호할 수 있는 3단계 홈케어 루틴을 소개합니다.",
         "whyTitle": "포메라니안의 바디 랭귀지: 기쁨과 흥분의 조절",
-        "whyDesc": "포메라니안은 작은 몸집만큼 신속하게 기분을 전환하며, 적극적인 몸짓 언어를 구사합니다. 대표적인 언어는 **'기지개 켜기(Play Bow)'**와 **'입술 핥기'**입니다. 포메라니안이 앞발을 낮추고 엉덩이를 번쩍 드는 기지개 동작은 기분 좋은 놀이 신청의 전형입니다. 반면, 흥분하여 꼬리를 흔드는 듯 보이지만 혀를 내밀어 입술을 낼름 핥는 것은 현재 상황에 심리적인 압박이나 불안감을 느껴 스스로를 통제하려는 시그널이므로 안정이 필요합니다.",
+        "whyDesc": "포메라니안은 작은 몸집만큼 신속하게 기분을 전환하며, 적극적인 몸짓 언어를 구사합니다. 대표적인 언어는 **'기지개 켜기(Play Bow)'**와 **'입술 핥기(Lip Licking)'**입니다. 포메라니안이 앞발을 낮추고 엉덩이를 번쩍 드는 기지개 동작은 기분 좋은 놀이 신청의 전형입니다. 반면, 흥분하여 꼬리를 흔드는 듯 보이지만 혀를 내밀어 입술을 낼름 핥는 것은 현재 상황에 심리적인 압박이나 불안감을 느껴 스스로를 통제하려는 시그널이므로 안정이 필요합니다.",
         "body_signals": [
           {
             "name": "기지개 켜기 (Play Bow)",
@@ -472,7 +24,7 @@
           },
           {
             "name": "입술 핥기 (Lip Licking)",
-            "meaning": "음식을 기대하는 것이 아니라, 주변 환경에 의해 정신적인 불안감을 억누르는 행동입니다.",
+            "meaning": "음식을 기대하는 것이 아니라, 주변 환경에 의해 정신적인 불안감을 억누르는 카밍 시그널입니다.",
             "response": "산책 도중이나 낯선 환경에서 이 행동을 하면 자극 원인으로부터 거리를 확보해 주십시오."
           }
         ],
@@ -502,9 +54,457 @@
         ],
         "tags": [
           "포메라니안",
-          "슬개골 예방",
-          "기관지 협착증",
-          "이중모 빗질"
+          "슬개골예방",
+          "기관지협착증",
+          "이중모빗질"
+        ]
+      },
+      "en": {
+        "title": "Protecting Pomeranian Joints and Airway: A 3-Step Daily Routine",
+        "description": "Pomeranians are highly prone to patellar luxation and tracheal collapse. Discover tips to prevent joint injuries and relieve breathing issues using a 3-step routine.",
+        "authority": "Official American Pomeranian Club Breed Guide & AVMA Veterinary Manual",
+        "profile": {
+          "breed": "Pomeranian (Canis lupus familiaris)",
+          "lifespan": "12 ~ 16 years",
+          "sleep_pattern": "12 ~ 14 hours (prefers sleeping near owner's pillow)",
+          "temperament": "Outgoing, Intelligent, Lively"
+        },
+        "intro": "Pomeranians are highly popular toy dogs, beloved for their fluffy double coat and confident, active gait. They are outgoing and intelligent, but their Spitz heritage can make them sensitive to sounds and prone to sharp barking. 🐕 Pomeranian owners often face two significant health concerns: **Patellar Luxation** (dislocated kneecaps due to thin bone structure) and **Tracheal Collapse** (which causes a honking, goose-like cough). These conditions can easily worsen in indoor environments with slippery floors. Today, PetSelf provides key insights into Pomeranian body language and introduces a protective 3-step home care routine for their joints and trachea.",
+        "whyTitle": "Pomeranian Body Language: Distinguishing Playfulness from Anxiety",
+        "whyDesc": "Pomeranians are highly expressive and shift emotions rapidly. Key body language signals include the **'play bow'** and **'lip licking'**. When a Pomeranian lowers their front body while raising their hips, it is the classic 'play bow,' indicating an open, happy invitation to play. However, if they appear to wag their tail but continuously lick their lips with their tongue, it is a calming signal indicating internal anxiety or stress. Owners should not mistake this for excitement and should help calm them down.",
+        "body_signals": [
+          {
+            "name": "Play Bow",
+            "meaning": "Lowering the front body while raising the hips, representing an open and happy invitation to play.",
+            "response": "Respond joyfully by throwing a favorite toy or starting a gentle chase game."
+          },
+          {
+            "name": "Lip Licking",
+            "meaning": "Not anticipating food; it is a calming signal used to control internal anxiety or environmental stress.",
+            "response": "If seen during walks or in new places, guide them away from the stimulus to ensure safety and quietness."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: Floor Grip Maintenance and Jump Prevention",
+            "text": "Ensure non-slip mats are correctly placed around beds and sofas to protect their thin bones. Train them to use pet stairs instead of jumping down."
+          },
+          {
+            "name": "Afternoon: Pin Brushing Against Hair Direction for Airflow",
+            "text": "Use a pin brush to gently brush the coat from tail to head, fluffing it up. This prevents undercoat matting and allows healthy air flow to the skin."
+          },
+          {
+            "name": "Evening: Neck Massage and Harness Check to Avoid Tracheal Strain",
+            "text": "To protect their fragile trachea, examine your Y-shaped harness and avoid neck collars completely. Massage the sides of their neck gently to relieve muscle tension."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "What should I do when my Pomeranian makes a goose-like honking sound?",
+            "answer": "This honking is a common symptom of tracheal collapse. Do not panic; hold your Pomeranian close, rub their throat gently, or temporarily cover their nostrils for 1 second to encourage nose breathing, which helps settle the spasm quickly."
+          },
+          {
+            "question": "Can home care cure patellar luxation without surgery?",
+            "answer": "No. Advanced stages (Grade 3 or 4) with physical deformity require surgical correction. Home care (maintaining healthy weight, preventing slips, and building muscle) is highly effective in early stages (Grade 1 or 2) to slow progression and prevent post-surgery recurrence."
+          }
+        ],
+        "tags": [
+          "Pomeranian",
+          "PatellarCare",
+          "TrachealCollapse",
+          "DoubleCoatBrushing"
+        ]
+      },
+      "ja": {
+        "title": "ポメラニアンの膝蓋骨と呼吸器安定のための3段階プロテクトルーティン",
+        "description": "小型犬ポメラニアンの遺伝的弱点である膝蓋骨脱臼の予防法と、気管虚脱（ガチョウの鳴き声のような呼吸音）の緩和のための3段階ケアを紹介します。",
+        "authority": "アメリカンポメラニアンクラブ公式犬種ガイド＆AVMA獣医学マニュアル",
+        "profile": {
+          "breed": "ポメラニアン (Canis lupus familiaris / Pomeranian)",
+          "lifespan": "12 ~ 16年",
+          "sleep_pattern": "12 ~ 14時間（飼い主の枕元優先型）",
+          "temperament": "外向的、聡明、活気がある"
+        },
+        "intro": "ポメラニアンは、小さな体に見事な被毛、そして明るく堂々とした歩き方で、世界中で最も人気のある超小型犬の一つです。非常に外向的で聡明、愛嬌たっぷりですが、スピッツ系の本能から音に敏感で、少しけたたましく吠えることもあります。🐕 しかし、ポメラニアンの飼い主に共通する2つの健康の悩みがあります。1つは骨が細いために起こる**膝蓋骨脱臼（パテラ）**、もう1つは気管が平らにつぶれてガチョウのような呼吸音を出す**気管虚脱**です。これらはフローリングなどの滑りやすい床環境で悪化しやすいです。本日PetSelfでは、関節と呼吸器を同時に保護する3段階ルーティンを紹介します。",
+        "whyTitle": "ポメラニアンのボディランゲージ：遊び心と不安の判別",
+        "whyDesc": "ポメラニアンは小さな体で素早く感情を切り替え、表情豊かなしぐさを見せます。代表的なサインは**「プレイバウ（お辞儀のポーズ）」**と**「唇舐め（Lip Licking）」**です。ポメラニアンが前足を低く下げ、お尻を高く持ち上げるポーズは、楽しい遊びの誘いです。一方、しっぽを振って喜んでいるように見えても、頻繁に唇をペロペロ舐めるのは、現在の環境に精神的な負担や不安を感じて落ち着こうとするカーミングシグナルです。",
+        "body_signals": [
+          {
+            "name": "お辞儀のポーズ (Play Bow)",
+            "meaning": "前足を下げてお尻を持ち上げた状態で、相手に一緒に遊ぼうと誘うとてもハッピーなサインです。",
+            "response": "おもちゃを投げてあげたり、軽く追いかけっこをして楽しく応えてあげてください。"
+          },
+          {
+            "name": "唇を舐める (Lip Licking)",
+            "meaning": "食べ物を期待しているのではなく、周囲の環境による精神的不安を和らげようとするカーミングシグナルです。",
+            "response": "散歩の途中や不慣れな場所でこのしぐさをしたら、不安の要素から距離を置いてあげてください。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：滑り止めマットの整理とジャンプ禁止トレーニング",
+            "text": "超小型犬であるポメラニアンがベッド等から飛び降りる衝撃を防ぐため、滑り止めマットの位置を確認し、スロープや階段の使用を促します。"
+          },
+          {
+            "name": "昼：皮膚の空気循環のためのピンブラシ逆方向ブラッシング",
+            "text": "豊かな綿毛（アンダーコート）が絡まって空気が遮断されやすいポメラニアンのため、ピンブラシで毛を尻尾から頭の方向へ優しく立たせるように梳かします。"
+          },
+          {
+            "name": "夜：気管虚脱予防のための首マッサージと散歩用ハーネスの点検",
+            "text": "遺伝的に細くて弱い気管を圧迫しないよう、夜の散歩時は首輪ではなくY字型ハーネスの調整を確認し、首の下の軟骨周りを優しくマッサージします。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "ポメラニアンが突然興奮して「カッカッ」とガチョウのような鳴き声でむせる時はどうしますか？",
+            "answer": "気管虚脱の一時的な症状の可能性があります。慌てずに抱き上げ、首周りを優しく撫でたり、鼻の穴を1秒ほど指でそっと塞ぐと、鼻呼吸が促されて早く落ち着きます。"
+          },
+          {
+            "question": "膝蓋骨脱臼は手術なしでホームケアだけで完治しますか？",
+            "answer": "膝蓋骨脱臼がすでに進行したステージ3〜4の物理的な変形は手術が必要です。ホームケアは、ステージ1〜2の初期段階で悪化を遅らせ、手術後の再発を防止するための非常に強力な予防手段です。"
+          }
+        ],
+        "tags": [
+          "ポメラニアン",
+          "膝蓋骨ケア",
+          "気管虚脱",
+          "二重毛のブラッシング"
+        ]
+      },
+      "zh": {
+        "title": "博美犬的髌骨与呼吸道保护：日常3步保护护理流程",
+        "description": "博美犬极易发生髌骨脱位和气管塌陷。介绍预防关节损伤及缓解呼吸问题的日常3步保护护理流程。",
+        "authority": "美国博美犬俱乐部官方犬种指南与 AVMA 兽医学手册",
+        "profile": {
+          "breed": "博美犬 (Canis lupus familiaris / Pomeranian)",
+          "lifespan": "12 ~ 16年",
+          "sleep_pattern": "12 ~ 14小时（偏好在家长枕头旁型）",
+          "temperament": "外向、聪明、活泼气派"
+        },
+        "intro": "博美犬以其娇小的体型、蓬松的双层被毛以及自信活泼的步态而备受喜爱。它们外向且聪明，但其狐狸犬种血统也使其对声音较敏感，易吠叫。🐕 博美犬家长经常面临两个重要的健康隐忧：**髌骨脱位（Patellar Luxation）**（因骨骼纤细导致膝盖骨易脱位）和**气管塌陷（Tracheal Collapse）**（导致发出鹅叫般的咳嗽声）。这些状况在滑溜的室内地板上极易恶化。今天 PetSelf 将带您了解博美犬的身体语言，并介绍一套日常3步护理流程，以保护它们的关节和气管健康。",
+        "whyTitle": "博美犬的身体语言：区分玩耍与焦虑",
+        "whyDesc": "博美犬极富表现力，情绪变化迅速。关键的肢体语言包括 **“邀请玩耍姿势（Play Bow）”** 和 **“舔嘴唇（Lip Licking）”**。当博美犬降低前半身并抬高臀部时，这是经典的邀请玩耍姿势。然而，如果它们看似在摇尾巴，却不断地用舌头舔嘴唇，这实际上是用于平复内心焦虑或压力的放松信号。家长不应将其误认为兴奋，而应该帮助它们冷静下来。",
+        "body_signals": [
+          {
+            "name": "邀请玩耍姿势 (Play Bow)",
+            "meaning": "前半身贴地而臀部抬起，表示非常高兴并向家长或伙伴发出一起玩耍的邀请。",
+            "response": "扔出它们喜欢的玩具，或者开始一场温柔的追逐游戏以快乐地回应它们。"
+          },
+          {
+            "name": "舔嘴唇 (Lip Licking)",
+            "meaning": "并非期待食物，而是一种用来平复内心焦虑或环境压力的放松信号。",
+            "response": "如果在散步或陌生环境中看到这个动作，请引导它们远离刺激源以确保安全感。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早晨：防滑地垫整理与防止跳跃训练",
+            "text": "确保家具周围正确铺设防滑垫，以保护它们纤细的骨骼。引导它们使用宠物台阶，避免直接跳下造成的冲击。"
+          },
+          {
+            "name": "下午：逆毛发生长方向梳理以促进空气流通",
+            "text": "使用针梳从尾部向头部方向轻轻梳理毛发，使其蓬松。这可以防止双层被毛结块，并促进皮肤的健康空气流通。"
+          },
+          {
+            "name": "晚上：预防气管压力的颈部按摩与胸背带检查",
+            "text": "为了保护其脆弱的气管，请完全避免使用项圈，而应使用Y字形胸背带。轻轻按摩其颈部两侧，以缓解肌肉紧张。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "博美犬突然像鹅一样发出“咳咳”的咳嗽声，我该怎么办？",
+            "answer": "这通常是气管塌陷的暂时性症状。请保持冷静，抱起您的博美犬，轻轻抚摸它们的喉部，或短暂用手遮住其鼻孔1秒钟以促使其改用鼻子呼吸，症状通常会迅速缓解。"
+          },
+          {
+            "question": "仅仅依靠家庭护理能治愈髌骨脱位而无需手术吗？",
+            "answer": "对于已经发展至3至4期的物理性移位，必须进行手术矫正。家庭护理（控制体重、防止打滑、加强后肢肌肉）在早期（1至2期）能有效延缓病情进展，并在术后防止复发。"
+          }
+        ],
+        "tags": [
+          "博美犬",
+          "髌骨护理",
+          "气管塌陷",
+          "双层毛梳理"
+        ]
+      },
+      "es": {
+        "title": "Protección de articulaciones y vías respiratorias del Pomerania: Rutina diaria de 3 pasos",
+        "description": "Los Pomeranias son propensos a la luxación patelar y al colapso traqueal. Descubra consejos para prevenir lesiones articulares y aliviar problemas respiratorios con una rutina de 3 pasos.",
+        "authority": "Guía Oficial de Razas del American Pomeranian Club y Manual Veterinario de la AVMA",
+        "profile": {
+          "breed": "Pomerania (Canis lupus familiaris / Pomeranian)",
+          "lifespan": "12 ~ 16 años",
+          "sleep_pattern": "12 ~ 14 horas (prefiere dormir cerca de la almohada del dueño)",
+          "temperament": "Extrovertido, Inteligente, Vivaz"
+        },
+        "intro": "Los Pomeranias son perros toy muy populares por su pelaje doble esponjoso y su andar seguro y activo. Son extrovertidos e inteligentes, pero su herencia del grupo Spitz los hace sensibles a los sonidos y propensos a ladrar. 🐕 Los dueños a menudo enfrentan dos problemas de salud principales: la **luxación patelar** (rótulas dislocadas debido a una estructura ósea fina) y el **colapso traqueal** (que causa una tos similar al graznido de un ganso). Estas condiciones pueden empeorar en interiores con suelos resbaladizos. Hoy, PetSelf presenta una rutina diaria de 3 pasos para proteger sus articulaciones y tráquea.",
+        "whyTitle": "Lenguaje corporal del Pomerania: Distinguir el juego de la ansiedad",
+        "whyDesc": "Los Pomeranias son muy expresivos y cambian de emoción rápidamente. Las señales clave del lenguaje corporal incluyen la **'posición de inclinación de juego' (Play Bow)** y **'lamerse los labios' (Lip Licking)**. Cuando baja la parte delantera de su cuerpo y levanta las caderas, es una invitación abierta a jugar. Sin embargo, si parece mover la cola pero se lame continuamente los labios con la lengua, es una señal de calma que indica ansiedad interna o estrés. Los dueños no deben confundir esto con entusiasmo.",
+        "body_signals": [
+          {
+            "name": "Posición de inclinación de juego (Play Bow)",
+            "meaning": "Bajar la parte delantera del cuerpo y levantar las caderas, representando una invitación feliz para jugar.",
+            "response": "Responda alegremente lanzando un juguete o comenzando un juego suave de persecución."
+          },
+          {
+            "name": "Lamerse los labios (Lip Licking)",
+            "meaning": "No es por anticipar comida; es una señal de calma utilizada para controlar la ansiedad o el estrés ambiental.",
+            "response": "Si lo ve durante paseos o en lugares nuevos, guíelo lejos del estímulo para garantizar su tranquilidad."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Mantenimiento antideslizante y prevención de saltos",
+            "text": "Asegúrese de que las alfombras antideslizantes estén bien colocadas alrededor de camas y sofás para proteger sus huesos finos. Enséñeles a usar escaleras para mascotas en lugar de saltar."
+          },
+          {
+            "name": "Tarde: Cepillado con cepillo de púas contra la dirección del pelo",
+            "text": "Use un cepillo de púas para cepillar suavemente desde la cola hacia la cabeza a contrapelo. Esto evita enredos en el subpelo y permite el flujo de aire en la piel."
+          },
+          {
+            "name": "Noche: Masaje de cuello y control de arnés para evitar tensión traqueal",
+            "text": "Para proteger su frágil tráquea, examine su arnés en forma de Y y evite por completo los collares. Masajee suavemente los lados del cuello para aliviar la tensión muscular."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Qué debo hacer si mi Pomerania hace un graznido de ganso al respirar?",
+            "answer": "Suele ser un síntoma de colapso traqueal. No se alarme; cargue al perro con calma, acaricie su garganta suavemente o tape sus orificios nasales por 1 segundo para forzar la respiración nasal y calmar el espasmo."
+          },
+          {
+            "question": "¿Se puede curar la luxación patelar solo con cuidados en casa?",
+            "answer": "Las etapas avanzadas (Grado 3 o 4) con deformidad física requieren cirugía. El cuidado en casa (control de peso, evitar resbalones y fortalecer músculos) es muy eficaz en etapas tempranas (Grado 1 o 2) para retrasar el progreso."
+          }
+        ],
+        "tags": [
+          "Pomerania",
+          "CuidadoDeRótula",
+          "ColapsoTraqueal",
+          "CepilladoDeMantoDoble"
+        ]
+      },
+      "fr": {
+        "title": "Protéger les articulations et la rotule du Loulou de Poméranie : Routine quotidienne en 3 étapes",
+        "description": "Le Loulou de Poméranie est sujet à la luxation de la rotule et au collapsus trachéal. Découvrez des conseils pour préserver ses articulations et sa respiration avec une routine en 3 étapes.",
+        "authority": "Guide Officiel de Race de l'American Pomeranian Club et Manuel Vétérinaire de l'AVMA",
+        "profile": {
+          "breed": "Loulou de Poméranie (Canis lupus familiaris / Pomeranian)",
+          "lifespan": "12 ~ 16 ans",
+          "sleep_pattern": "12 ~ 14 heures (préfère dormir près de l'oreiller du maître)",
+          "temperament": "Extroverti, Intelligent, Vif"
+        },
+        "intro": "Le Loulou de Poméranie est un chien miniature très populaire, adoré pour sa fourrure doublée bouffante et sa démarche fière et dynamique. Extroverti et intelligent, il garde un héritage de Spitz qui le rend sensible aux bruits et sujet aux aboiements. 🐕 Les propriétaires de Poméraniens font face à deux soucis de santé majeurs : la **luxation de la rotule** (rotules disloquées dues à une ossature fine) et le **collapsus trachéal** (qui se traduit par une toux rappelant le cri de l'oie). Ces affections s'aggravent sur les sols glissants. Aujourd'hui, PetSelf présente une routine en 3 étapes pour protéger ses articulations et sa trachée.",
+        "whyTitle": "Langage corporel du Poméranien : Distinguer le jeu de l'anxiété",
+        "whyDesc": "Le Poméranien est très expressif et change d'émotion rapidement. Les signaux clés du langage corporel incluent la **'révérence de jeu' (Play Bow)** et le **'lèche-babines' (Lip Licking)**. Lorsqu'il abaisse le train avant et lève l'arrière-train, c'est une invitation classique au jeu. Cependant, s'il remue la queue tout en se léchant continuellement les babines avec la langue, c'est un signal d'apaisement traduisant une anxiété ou un stress interne. Les maîtres ne doivent pas confondre cela avec de l'excitation.",
+        "body_signals": [
+          {
+            "name": "Révérence de jeu (Play Bow)",
+            "meaning": "Abaissement du train avant et arrière-train levé, représentant une invitation joyeuse à jouer.",
+            "response": "Répondez joyeusement en jetant un jouet ou en commençant un jeu de poursuite doux."
+          },
+          {
+            "name": "Lèche-babines (Lip Licking)",
+            "meaning": "Il ne réclame pas de nourriture ; c'est un signal d'apaisement pour contrôler son anxiété ou son stress environnemental.",
+            "response": "Si vous l'observez en promenade ou dans un lieu nouveau, éloignez-le de la source de stress pour le rassurer."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Entretien des tapis anti-glisse et apprentissage du non-saut",
+            "text": "Vérifiez que les tapis anti-glisse sont bien positionnés autour du lit et du canapé pour protéger ses os fins. Incitez-le à utiliser des escaliers pour chiens plutôt que de sauter."
+          },
+          {
+            "name": "Après-midi : Brossage avec brosse à picots à rebrousse-poil pour aérer la peau",
+            "text": "Utilisez une brosse à picots pour brosser délicatement de la queue vers la tête. Cela évite les nœuds du sous-poil et permet à la peau de respirer."
+          },
+          {
+            "name": "Soir : Massage du cou et vérification du harnais anti-traction",
+            "text": "Pour protéger sa trachée fragile, vérifiez le harnais en Y et proscrivez les colliers. Massez doucement les côtés du cou pour relâcher la tension musculaire."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Que faire lorsque mon Poméranien émet un bruit de klaxon rappelant l'oie ?",
+            "answer": "C'est un symptôme fréquent du collapsus trachéal. Gardez votre calme, prenez-le dans vos bras, massez doucement sa gorge ou obstruez brièvement ses narines pendant 1 seconde pour forcer la respiration nasale et calmer le spasme."
+          },
+          {
+            "question": "Le soin à la maison peut-il guérir la luxation de rotule sans chirurgie ?",
+            "answer": "Les stades avancés (Grade 3 ou 4) nécessitent une chirurgie. Le soin à la maison (poids idéal, tapis anti-glisse, renforcement musculaire) est très efficace aux stades précoces (Grade 1 ou 2) pour ralentir l'évolution et éviter les récidives."
+          }
+        ],
+        "tags": [
+          "LoulouDePoméranie",
+          "SoinDeRotule",
+          "CollapsusTrachéal",
+          "BrossageDoublePelage"
+        ]
+      },
+      "de": {
+        "title": "Zwergspitz Gelenk- und Atemwegsschutz: Eine tägliche 3-Schritte-Routine",
+        "description": "Zwergspitze sind anfällig für Patellaluxation und Trachealkollaps. Erfahren Sie Tipps zur Gelenkvorsorge und Entlastung der Atemwege mit einer 3-Schritte-Routine.",
+        "authority": "Offizieller Rasseführer des American Pomeranian Clubs & Tierärztliches Handbuch der AVMA",
+        "profile": {
+          "breed": "Zwergspitz (Canis lupus familiaris / Pomeranian)",
+          "lifespan": "12 ~ 16 Jahre",
+          "sleep_pattern": "12 ~ 14 Stunden (bevorzugt Kissenbereich des Besitzers)",
+          "temperament": "Extrovertiert, Intelligent, Lebhaft"
+        },
+        "intro": "Zwergspitze sind beliebte Gesellschaftshunde, die für ihr plüschiges Doppelfell und ihren selbstbewussten Gang bekannt sind. Sie sind extrovertiert und klug, können aber aufgrund ihres Spitz-Erbes geräuschempfindlich sein und zum Bellen neigen. 🐕 Besitzer sorgen sich oft um zwei Hauptgesundheitsprobleme: **Patellaluxation** (Kniescheibenluxation aufgrund feiner Knochen) und **Trachealkollaps** (der zu einem gänsehustenartigen Keuchen führt). Diese Beschwerden verschlimmern sich auf glatten Böden. Heute stellt PetSelf eine 3-Schritte-Routine zum Schutz von Gelenken und Luftröhre vor.",
+        "whyTitle": "Körpersprache des Zwergspitzes: Unterscheidung zwischen Spieltrieb und Angst",
+        "whyDesc": "Zwergspitze sind sehr ausdrucksstark. Wichtige Körpersprachesignale sind die **'Spielaufforderung' (Play Bow)** und das **'Lippenlecken' (Lip Licking)**. Wenn ein Zwergspitz den Vorderkörper senkt und das Hinterteil hebt, ist das eine freudige Einladung zum Spiel. Wenn er jedoch mit dem Schwanz wedelt, aber ständig die Lippen leckt, ist das ein Beschwichtigungssignal zur Bewältigung von innerer Unruhe. Verwechseln Sie dies nicht mit Freude.",
+        "body_signals": [
+          {
+            "name": "Spielaufforderung (Play Bow)",
+            "meaning": "Absenken des Vorderkörpers bei gehobenem Hinterteil, was eine freudige Einladung zum Spiel darstellt.",
+            "response": "Reagieren Sie freudig, indem Sie ein Spielzeug werfen oder ein sanftes Nachlaufspiel starten."
+          },
+          {
+            "name": "Lippenlecken (Lip Licking)",
+            "meaning": "Keine Vorfreude auf Futter; ein Beschwichtigungssignal zur Bewältigung von innerer Unruhe oder Umweltstress.",
+            "response": "Wenn Sie dies beim Spaziergang oder an fremden Orten sehen, führen Sie ihn aus der Situation heraus."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Rutschschutzprüfung und Sprungvermeidungstraining",
+            "text": "Stellen Sie sicher, dass rutschfeste Matten an Betten und Sofas richtig liegen. Gewöhnen Sie ihn daran, Hundetreppen zu benutzen, anstatt herunterzuspringen."
+          },
+          {
+            "name": "Nachmittag: Bürsten gegen den Strich zur Hautbelüftung",
+            "text": "Nutzen Sie eine Stiftbürste, um das dichte Fell sanft von der Rute zum Kopf gegen den Strich zu bürsten. Dies verhindert Verfilzungen der Unterwolle und lüftet die Haut."
+          },
+          {
+            "name": "Abend: Halsmassage und Brustgeschirr-Prüfung zur Atemwegsentlastung",
+            "text": "Um die empfindliche Luftröhre zu schützen, nutzen Sie ein Y-Geschirr statt eines Halsbands. Massieren Sie die Halsseiten sanft, um Muskeln zu entspannen."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Was soll ich tun, wenn mein Zwergspitz ein gänsehustenartiges Keuchen zeigt?",
+            "answer": "Dies ist ein häufiges Symptom des Trachealkollapses. Bleiben Sie ruhig; halten Sie den Hund fest, streicheln Sie die Kehle sanft oder halten Sie die Nasenlöcher für 1 Sekunde zu, um Nasenatmung anzuregen."
+          },
+          {
+            "question": "Kann die Kniescheibenluxation ohne Operation durch Pflege geheilt werden?",
+            "answer": "Fortgeschrittene Stadien (Grad 3 oder 4) erfordern eine Operation. Pflege zu Hause (Gewichtskontrolle, rutschfeste Böden, Muskelaufbau) ist in frühen Stadien (Grad 1 oder 2) wirksam, um das Fortschreiten zu verlangsamen."
+          }
+        ],
+        "tags": [
+          "Zwergspitz",
+          "Kniescheibenpflege",
+          "Trachealkollaps",
+          "Fellbuersten"
+        ]
+      },
+      "pt": {
+        "title": "Proteção de articulações e vias respiratórias do Spitz Alemão: Rotina diária de 3 passos",
+        "description": "Os Spitz Alemães são propensos à luxação patelar e ao colapso traqueal. Descubra dicas para evitar lesões articulares e aliviar problemas respiratórios com uma rotina de 3 passos.",
+        "authority": "Guia Oficial de Raças do American Pomeranian Club e Manual Veterinário da AVMA",
+        "profile": {
+          "breed": "Spitz Alemão / Lulu da Pomerânia (Canis lupus familiaris)",
+          "lifespan": "12 ~ 16 anos",
+          "sleep_pattern": "12 ~ 14 horas (prefere dormir perto do travesseiro do tutor)",
+          "temperament": "Extrovertido, Inteligente, Vivaz"
+        },
+        "intro": "Os Spitz Alemães (Lulu da Pomerânia) são cães toy populares, amados por sua pelagem dupla fofa e andar confiante. São extrovertidos e inteligentes, mas sua herança do grupo Spitz pode torná-los sensíveis a sons e propensos a latir. 🐕 Os tutores frequentemente enfrentam duas preocupações de saúde principais: a **luxação patelar** (patelas deslocadas devido à estrutura óssea fina) e o **colapso traqueal** (que causa uma tosse parecida com grasnido de ganso). Essas condições pioram em pisos escorregadios. Hoje, o PetSelf apresenta uma rotina de 3 passos para as articulações e traqueia.",
+        "whyTitle": "Linguagem corporal do Spitz Alemão: Distinguir o brincar da ansiedade",
+        "whyDesc": "Os Spitz Alemães são muito expressivos e mudam de emoção rapidamente. Os sinais principais incluem a **'posição de convite para brincar' (Play Bow)** e **'lamber os lábios' (Lip Licking)**. Quando baixa a parte dianteira do corpo e levanta o quadril, é um convite clássico para brincar. No entanto, se parecer abanar a cauda mas lamber os lábios continuamente, é um sinal de calma que indica ansiedade ou estresse interno. Não confunda isso com entusiasmo.",
+        "body_signals": [
+          {
+            "name": "Convite para brincar (Play Bow)",
+            "meaning": "Abaixar a parte dianteira e levantar o quadril, representando um convite feliz e aberto para brincar.",
+            "response": "Responda alegremente jogando um brinquedo ou começando uma brincadeira de perseguição leve."
+          },
+          {
+            "name": "Lamber os lábios (Lip Licking)",
+            "meaning": "Não é expectativa de comida; é um sinal de calma usado para controlar a ansiedade ou estresse ambiental.",
+            "response": "Se ver isso durante os passeios ou em locais novos, afaste-o do estímulo para garantir sua tranquilidade."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Manutenção antiderrapante e prevenção de saltos",
+            "text": "Certifique-se de que os tapetes antiderrapantes estejam bem posicionados ao redor de camas e sofás. Treine-os para usar escadas para pets em vez de pular."
+          },
+          {
+            "name": "Tarde: Escovação com escova de pinos contra o pelo",
+            "text": "Use uma escova de pinos para escovar suavemente da cauda para a cabeça a contrapelo. Isso evita nós na subpelagem e permite o fluxo de ar na pele."
+          },
+          {
+            "name": "Noite: Massagem no pescoço e verificação do peitoral para evitar tensão traqueal",
+            "text": "Para proteger sua traqueia frágil, use peitoral em forma de Y e evite coleiras. Massageie suavemente as laterais do pescoço para aliviar a tensão muscular."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "O que devo fazer quando o meu Spitz Alemão faz um grasnido de ganso ao respirar?",
+            "answer": "Isso costuma ser um sintoma de colapso traqueal. Mantenha a calma, pegue o pet no colo, acaricie o pescoço suavemente ou tape as narinas por 1 segundo para forçar a respiração nasal e interromper o espasmo."
+          },
+          {
+            "question": "É possível curar a luxação patelar sem cirurgia, apenas com cuidados em casa?",
+            "answer": "Graus avançados (Grau 3 ou 4) com deformidade física requerem correção cirúrgica. Os cuidados em casa (peso saudável, evitar pisos lisos e fortalecimento muscular) servem no Grau 1 ou 2 para retardar a evolução."
+          }
+        ],
+        "tags": [
+          "SpitzAlemão",
+          "CuidadoPatelar",
+          "ColapsoTraqueal",
+          "EscovaçãoDePelagem"
+        ]
+      },
+      "id": {
+        "title": "Melindungi Sendi dan Saluran Napas Pomeranian: Rutinitas Harian 3 Langkah",
+        "description": "Pomeranian rentan terhadap luksasi patela dan kolaps trakea. Temukan tips mencegah cedera sendi dan meredakan masalah pernapasan dengan 3 langkah rutinitas harian.",
+        "authority": "Panduan Ras Resmi American Pomeranian Club & Panduan Dokter Hewan AVMA",
+        "profile": {
+          "breed": "Pomeranian (Canis lupus familiaris)",
+          "lifespan": "12 ~ 16 tahun",
+          "sleep_pattern": "12 ~ 14 jam (lebih suka tidur di dekat bantal pemilik)",
+          "temperament": "Ekstrovert, Cerdas, Lincah"
+        },
+        "intro": "Pomeranian adalah anjing mainan yang sangat populer, dicintai karena bulu ganda mereka yang lembut dan gaya berjalan mereka yang percaya diri. Mereka ekstrovert dan cerdas, tetapi warisan anjing spitz membuat mereka sensitif terhadap suara dan cenderung menggonggong. 🐕 Pemilik sering menghadapi dua masalah kesehatan utama: **Luksasi Patela** (tempurung lutut bergeser karena tulang tipis) dan **Kolaps Trakea** (yang menyebabkan batuk mirip angsa). Kondisi ini dapat memburuk di lantai licin. Hari ini, PetSelf memperkenalkan rutinitas 3 langkah untuk melindungi sendi dan trakea mereka.",
+        "whyTitle": "Bahasa Tubuh Pomeranian: Membedakan Bermain dengan Kecemasan",
+        "whyDesc": "Pomeranian sangat ekspresif dan mengubah emosi dengan cepat. Sinyal bahasa tubuh utama meliputi **'posisi mengajak bermain' (Play Bow)** dan **'menjilat bibir' (Lip Licking)**. Saat Pomeranian menurunkan tubuh bagian depan sambil mengangkat pinggul, itu adalah ajakan bermain yang bahagia. Namun, jika mereka menggoyangkan ekor tetapi terus menjilat bibir dengan lidah, itu adalah sinyal penenang yang menandakan kecemasan internal atau stres.",
+        "body_signals": [
+          {
+            "name": "Posisi Mengajak Bermain (Play Bow)",
+            "meaning": "Menurunkan tubuh bagian depan sambil mengangkat pinggul, mewakili ajakan bermain yang bahagia.",
+            "response": "Tanggapi dengan gembira dengan melemparkan mainan favorit atau memulai permainan kejar-kejaran lembut."
+          },
+          {
+            "name": "Menjilat Bibir (Lip Licking)",
+            "meaning": "Bukan mengantisipasi makanan; ini adalah sinyal penenang untuk mengendalikan kecemasan atau stres lingkungan.",
+            "response": "Jika terlihat saat jalan-jalan atau di tempat baru, jauhkan mereka dari stimulus untuk memastikan ketenangan."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Perawatan Lapisan Antiselip dan Pencegahan Lompat",
+            "text": "Pastikan keset antiselip diletakkan dengan benar di sekitar tempat tidur dan sofa. Latih mereka menggunakan tangga hewan daripada melompat turun."
+          },
+          {
+            "name": "Siang: Menyikat Bulu Berlawanan Arah dengan Sikat Pin",
+            "text": "Gunakan sikat pin untuk menyikat bulu secara lembut dari ekor ke kepala berlawanan arah. Ini mencegah bulu halus menggumpal dan melancarkan aliran udara ke kulit."
+          },
+          {
+            "name": "Malam: Pijat Leher dan Pemeriksaan Harness untuk Hindari Ketegangan Trakea",
+            "text": "Untuk melindungi trakea mereka yang rapuh, gunakan harness berbentuk Y dan hindari kalung leher. Pijat perlahan sisi leher untuk meredakan ketegangan otot."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apa yang harus saya lakukan saat Pomeranian saya mengeluarkan batuk mirip klakson angsa?",
+            "answer": "Ini adalah gejala umum kolaps trakea. Jangan panik; peluk Pomeranian Anda dengan tenang, usap tenggorokan mereka dengan lembut, atau tutup lubang hidung mereka selama 1 detik untuk memicu pernapasan hidung dan meredakan spasme."
+          },
+          {
+            "question": "Dapatkah perawatan rumahan menyembuhkan luksasi patela tanpa operasi?",
+            "answer": "Tidak. Tahap lanjut (Tingkat 3 atau 4) dengan deformitas fisik memerlukan koreksi bedah. Perawatan rumahan (berat badan sehat, mencegah slip, dan membangun otot) sangat efektif pada tahap awal (Tingkat 1 atau 2) untuk memperlambat perkembangan."
+          }
+        ],
+        "tags": [
+          "Pomeranian",
+          "PerawatanPatela",
+          "KolapsTrakea",
+          "MenyikatBuluGanda"
         ]
       }
     },

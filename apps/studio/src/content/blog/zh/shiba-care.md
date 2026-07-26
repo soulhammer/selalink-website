@@ -3,9 +3,9 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "柴犬的独立性格与双层毛梳理：日常3步触碰惯例"
 description: "柴犬性格独立且对触碰较为敏感。介绍预防双层毛脱落的正确梳理方法，以及减少抵触感的日常3步触碰惯例。"
 pubDate: "2026-01-29"
-updatedDate: "2026-01-29"
+updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","柴犬"]
+tags: ["宠物护理","宠物健康","柴犬 (Shiba Inu)"]
 heroImage: "/images/blog/shiba_care.png"
 app: "petself"
 formatVersion: 4
@@ -13,7 +13,7 @@ authority: "美国国家柴犬俱乐部 (NSCA) 与 IAABC 行为矫正指南"
 steps:
   - name: "柴犬的身体语言：压力与释放压力的信号"
     text: "柴犬在个人空间受到侵犯时，会静静地表达抗拒。关键动作是“避开视线（扭头）”和“抖身体”。当有人伸手想摸它，它避开头或扭过脸时，并不是在开玩笑，而是在委婉地请求“请现在不要碰我”。同样，在经历压力事件（如剪指甲或打针）后，它们大幅度抖动全身，是一种本能的调节机制，用以释放身体紧张并调整心理状态。"
-  - name: "柴犬's Body Language & Signals"
+  - name: "柴犬 (Shiba Inu)'s Body Language & Signals"
     text: "* 避开视线 (Looking Away): 表示家长的接近带来了压力，恳请家长停止靠近或触碰的礼貌请求。 (如果看到这个动作，请停止抚摸，收回手并给它们留出空间。)
 
 * 抖落压力 (Shake Off): 用以抖落刚刚在某种环境中积累的压力或身体紧张的调节行为。 (如果在梳毛等活动过程中它们抖动身体，说明正在释放压力。请立即停止并让它们休息。)"
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. 柴犬's Body Language & Signals
+## 2. 柴犬 (Shiba Inu)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

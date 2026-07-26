@@ -1,11 +1,11 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "세상에서 가장 작은 용사 치와와, 천문 보호와 저혈당 방지 3단계 케어"
+title: "세상에서 가장 작은 용사 치와와, 천문 보호와 저혈당 방지 3단계 루틴"
 description: "용감하고 작지만 약한 면을 가진 치와와. 두개골 상부 천문 부위의 충격 방지 팁과 혈당 급감에 따른 쇼크를 예방하기 위한 3단계 데일리 라이프 루틴을 설계합니다."
 pubDate: "2026-07-01"
 updatedDate: "2026-07-01"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","치와와 (Chihuahua)"]
+tags: ["반려동물","펫케어","치와와 (Canis lupus familiaris)"]
 heroImage: "/images/blog/chihuahua_care.png"
 app: "petself"
 formatVersion: 4
@@ -13,11 +13,11 @@ authority: "Chihuahua Club of America 및 AVMA 초소형견 대사/건강 케어
 steps:
   - name: "치와와가 보내는 신호: 감정의 온몸 떨림과 두려움의 으르렁"
     text: "치와와는 성격이 예민하고 신체가 작아 주변의 위협에 대해 격렬한 시그널을 보냅니다. 대표적인 반응은 '온몸 떨림(Shivering)'과 '으르렁거리기(Growling)'입니다. 치와와가 부르르 떠는 것은 추울 때뿐만 아니라 기쁨, 흥분, 불안 등 강한 감정을 주체하지 못할 때 뇌가 척수에 신호를 보내 근육을 떠는 감정적 표현입니다. 또한 으르렁거리며 콧주름을 세우는 것은 무서우니 더 다가오지 말라는 극도의 공포 방어 신호입니다. 이때 억지로 안으려 하면 손을 물 수 있으므로 즉시 거리를 두는 것이 안전합니다."
-  - name: "치와와 (Chihuahua)의 몸짓 언어와 바디 시그널"
+  - name: "치와와 (Canis lupus familiaris)의 몸짓 언어와 바디 시그널"
     text: "* 온몸 떨림 (Shivering): 추위에 취약한 신체 구조 또는 흥분, 두려움, 긴장 등 감정이 격해졌을 때 나타납니다. (따뜻한 담요로 덮어 체온을 높여주고, 소음이 없는 곳에서 조용히 안아 안심시키세요.)
 
 * 이빨 보이며 으르렁거리기 (Growling): 자신을 향한 접촉이 공포스럽거나 두려워 다가오지 말라는 강력한 경고입니다. (만지거나 다가가던 것을 즉시 멈추고 거리를 두어 치와와가 스스로 안정을 취하게 하세요.)"
-  - name: "치와와 (Chihuahua) 맞춤형 3단계 홈케어 루틴"
+  - name: "치와와 (Canis lupus familiaris) 맞춤형 3단계 홈케어 루틴"
     text: "* STEP 1. 아침: 정수리 보호 및 보온 실내 온도 세팅: 머리 위 천문(Molera)에 압박이 생기지 않도록 정수리 터치를 금지하고, 추위에 취약한 치와와를 위해 실내 온도를 항상 24 ~ 26도 내외로 따뜻하게 확인합니다.
 
 * STEP 2. 낮: 가벼운 노즈워크 산책 및 소리 둔감화 교감: 경계심이 강하므로 산책 시 무리한 강아지 대면을 피하고, 냄새 탐색 노즈워크를 시켜주며 집에서는 초인종 소리에 짖지 않도록 간식 보상 둔감화 교육을 5분 나눕니다.
@@ -64,7 +64,7 @@ faqs:
 
 ---
 
-## 2. 치와와 (Chihuahua)의 몸짓 언어와 바디 시그널
+## 2. 치와와 (Canis lupus familiaris)의 몸짓 언어와 바디 시그널
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -90,7 +90,7 @@ faqs:
 
 ---
 
-## 3. 치와와 (Chihuahua) 맞춤형 3단계 홈케어 루틴
+## 3. 치와와 (Canis lupus familiaris) 맞춤형 3단계 홈케어 루틴
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

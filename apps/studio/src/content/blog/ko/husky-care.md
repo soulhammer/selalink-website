@@ -5,7 +5,7 @@ description: "시베리아 혹한을 버티는 늠름한 썰매견 시베리안 
 pubDate: "2026-03-29"
 updatedDate: "2026-03-30"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","시베리안 허스키 (Siberian Husky)"]
+tags: ["반려동물","펫케어","시베리안 허스키 (Canis lupus familiaris)"]
 heroImage: "/images/blog/husky_care.png"
 app: "petself"
 formatVersion: 4
@@ -13,11 +13,11 @@ authority: "Siberian Husky Club of America 및 IAABC 썰매견 행동 인지/활
 steps:
   - name: "허스키의 바디 랭귀지: 불만의 하울링과 무릎에 앞발 올리기"
     text: "시베리안 허스키는 썰매견으로서 동료들과 소통하던 습성이 남아 소리와 행동으로 자기 의사를 적극적으로 어필합니다. 대표적인 언어는 '하울링(Howling)'과 '앞발 올리기(Paw Offering)'입니다. 허스키가 목을 위로 빼고 길게 우는 하울링은 외로움의 표현이기도 하지만, 실내 생활이 지루하고 활동량 부족에 대한 불만을 어필하는 대표적인 신호입니다. 또한 정면으로 눈을 마주하며 묵직한 앞발을 툭 얹는 행동은 '심심하니 나랑 같이 밖으로 나가자'는 의존적인 요구입니다. 이때 지시어 훈련이나 장난감으로 에너지를 다른 데로 유도해 주어야 합니다."
-  - name: "시베리안 허스키 (Siberian Husky)의 몸짓 언어와 바디 시그널"
+  - name: "시베리안 허스키 (Canis lupus familiaris)의 몸짓 언어와 바디 시그널"
     text: "* 하울링 및 웅얼거림 (Howling): 부족한 활동량에 따른 지루함과 불만족을 표출하고 소통을 요구하는 신호입니다. (실외로 나가 냄새 산책을 활발히 유도하거나 인지 발달 노즈워크 매트를 세팅해 주세요.)
 
 * 눈 마주치며 앞발 올리기 (Paw Offering): 동등한 사회적 관계에서 장난을 걸거나 산책 및 상호작용을 집요하게 요구하는 표현입니다. (단순 요구에 매번 응하지 말고, 지시(앉아 등)를 내린 후 복종 보상 간식을 주어 질서를 가르치세요.)"
-  - name: "시베리안 허스키 (Siberian Husky) 맞춤형 3단계 홈케어 루틴"
+  - name: "시베리안 허스키 (Canis lupus familiaris) 맞춤형 3단계 홈케어 루틴"
     text: "* STEP 1. 아침: Y형 하네스 착용 및 썰매견 견인력 제어 확인: 산책 시 강하게 끄는 본능이 있으므로 목 압박을 차단하는 Y형 하네스를 단단히 세팅하고, 보호자와 걷는 동조 페이스 상태를 확인합니다.
 
 * STEP 2. 낮: 냉방 쿨링 매트 가동 및 이중모 속 죽은 털 대량 제거: 더위에 취약해 실내 온도를 항상 선선하게 가동하고, 빽빽한 극지방 이중모 사이 엉킨 털을 슬리커 브러시와 코트킹으로 모근까지 시원하게 빗어 열 방출을 돕습니다.
@@ -64,7 +64,7 @@ faqs:
 
 ---
 
-## 2. 시베리안 허스키 (Siberian Husky)의 몸짓 언어와 바디 시그널
+## 2. 시베리안 허스키 (Canis lupus familiaris)의 몸짓 언어와 바디 시그널
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -90,7 +90,7 @@ faqs:
 
 ---
 
-## 3. 시베리안 허스키 (Siberian Husky) 맞춤형 3단계 홈케어 루틴
+## 3. 시베리안 허스키 (Canis lupus familiaris) 맞춤형 3단계 홈케어 루틴
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

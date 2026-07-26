@@ -1,36 +1,36 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "Panduan Proteksi Punggung Dachshund dan Rutinitas 3 Langkah Penguatan Otot Core"
-description: "Merawat Dachshund bertubuh panjang dan berkaki pendek. Pelajari cara mendeteksi tanda gangguan saraf punggung dan lindungi sendi mereka."
+title: "Panduan Proteksi Punggung Dachshund dan Rutinitas Harian 3 Langkah Penguatan Otot Core"
+description: "Merawat Dachshund bertubuh panjang dan berkaki pendek. Pelajari cara mendeteksi tanda gangguan saraf punggung dan lindungi sendi mereka dengan 3 langkah rutinitas."
 pubDate: "2026-06-20"
 updatedDate: "2026-06-20"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Dachshund"]
+tags: ["PerawatanHewan","KesehatanHewan","Dachshund (Canis lupus familiaris)"]
 heroImage: "/images/blog/dachshund_care.png"
 app: "petself"
 formatVersion: 4
 authority: "Panduan Kesehatan Dachshund American Kennel Club dan Pedoman Asosiasi Tulang Belakang Veteriner"
 steps:
-  - name: "Sinyal Peringatan Tulang Belakang Dachshund: Sikap Berdiri dan Peregangan"
-    text: "Dachshund menunjukkan rasa tidak nyaman di punggung dengan gerakan halus. Berdiri dengan dua kaki belakang ('sikap meminta') memberikan beban yang sangat besar pada tulang belakang lumbar. Selain itu, punggung melengkung atau leher yang meregang kaku adalah tanda rasa sakit dini yang perlu diwaspadai."
-  - name: "Dachshund's Body Language & Signals"
-    text: "* Berdiri dengan Dua Kaki Belakang: Sikap yang memberikan tekanan berlebih pada tulang belakang lumbar, biasanya dilakukan saat meminta makanan atau perhatian. (Cegah sikap ini secara lembut, pasang tangga landai (ramps) di dekat furnitur, dan taruh mainan setinggi dada anjing.)
+  - name: "Sinyal Peringatan Tulang Belakang Dachshund: Sikap Berdiri dan Peregangan Tubuh"
+    text: "Dachshund menunjukkan rasa tidak nyaman di punggung dengan gerakan halus. Berdiri dengan dua kaki belakang ('sikap meminta') memberikan beban yang sangat besar pada tulang belakang lumbar. Selain itu, punggung melengkung atau leher yang meregang kaku adalah tanda penekanan saraf tulang belakang tahap awal yang perlu diwaspadai."
+  - name: "Dachshund (Canis lupus familiaris)'s Body Language & Signals"
+    text: "* Berdiri dengan Dua Kaki Belakang (Sikap Meminta): Sikap yang memberikan tekanan berlebih pada tulang belakang lumbar, biasanya dilakukan saat meminta makanan atau perhatian. (Cegah sikap ini segera secara lembut, pasang tangga landai (ramps) di dekat furnitur, dan taruh mainan setinggi dada anjing.)
 
-* Punggung Melengkung & Leher Meregang: Sikap melindungi tubuh akibat nyeri punggung atau tekanan saraf tulang belakang tahap awal. (Batasi gerakannya segera, gendong dengan menopang dada dan bokong secara bersamaan, dan bawa ke dokter hewan.)"
+* Punggung Melengkung & Leher Meregang: Sikap melindungi tubuh akibat nyeri punggung, kekakuan, atau tekanan saraf tulang belakang tahap awal. (Batasi gerakannya segera, gendong dengan menopang dada dan bokong secara bersamaan agar tulang belakang tetap horizontal, lalu bawa ke dokter hewan.)"
   - name: "Customized 3-Step Home Care Routine"
     text: "* STEP 1. Pagi: Pemeriksaan Mobilitas Tulang Belakang & Pijat Ringan: Sebelum beraktivitas, amati apakah jalannya kaku. Pijat lembut di sepanjang garis tulang belakang untuk melihat reaksi nyeri.
 
-* STEP 2. Siang: Penataan Lingkungan yang Aman bagi Punggung: Pastikan kemiringan ramp di dekat sofa stabil dan tidak licin. Pasang gerbang pengaman di akses jalan tangga.
+* STEP 2. Siang: Penataan Lingkungan yang Aman bagi Punggung & Menjaga Posisi Datar: Pastikan kemiringan ramp antiselip di dekat sofa dan tempat tidur stabil. Pasang gerbang pengaman di akses jalan tangga untuk mencegah penggunaan tangga.
 
-* STEP 3. Malam: Jalan di Area Rata untuk Memperkuat Core dan Kontrol Berat Badan: Untuk melatih otot perut guna menyangga punggung, berjalanlah santai di rumput datar. Timbang makanan dengan ketat demi cegah obesitas."
+* STEP 3. Malam: Jalan di Area Rata untuk Memperkuat Core dan Kontrol Berat Badan: Untuk melatih otot perut guna menyangga punggung, berjalanlah santai di rumput datar. Atur porsi makanan secara ketat demi mencegah obesitas dan beban diskus."
 faqs:
   - question: "Apakah anjing Dachshund boleh naik turun tangga?"
-    answer: "Naik turun tangga memberikan benturan berulang dan keras pada tulang belakang Dachshund yang panjang. Sebaiknya halangi tangga dan gendong anjing Anda saat melewati tangga."
+    answer: "Karena struktur kaki pendek dan punggung panjang, naik turun tangga memberikan benturan berulang dan keras pada tulang belakang Dachshund. Sangat disarankan menghalangi tangga dengan gerbang pengaman dan menggendong anjing Anda saat melewati tangga."
   - question: "Bagaimana cara menggendong Dachshund yang benar?"
-    answer: "Topang seluruh tubuhnya. Letakkan satu tangan di bawah dada di antara kaki depan, dan tangan lainnya di bawah pantat anjing agar punggungnya tetap horizontal."
+    answer: "Topang seluruh tubuhnya secara horizontal. Letakkan satu tangan di bawah dada di antara kaki depan, dan tangan lainnya di bawah pantat dan kaki belakang anjing. Jangan pernah mengangkatnya hanya dengan menarik kaki depan atau ketiaknya."
 ---
 
-Dachshund dicintai di seluruh dunia karena bentuk tubuhnya yang unik dan kepribadiannya yang berani. Namun, karena anatomi punggung yang panjang dan kaki yang pendek, mereka sangat rentan terhadap penyakit diskus intervertebralis (IVDD). Aktivitas biasa seperti melompat dari sofa atau naik turun tangga dapat menekan tulang belakang mereka secara berbahaya. Hari ini, PetSelf mengurai bahasa tubuh anjing Dachshund yang menunjukkan stres pada punggung dan membagikan 3 langkah rutinitas perawatan untuk menjaga tulang belakang dan memperkuat otot core.
+Dachshund dicintai di seluruh dunia karena bentuk tubuhnya yang unik dan kepribadiannya yang berani serta ramah. Namun, karena anatomi punggung yang panjang dan kaki yang pendek, mereka sangat rentan terhadap penyakit diskus intervertebralis (IVDD). Aktivitas biasa seperti melompat dari sofa atau naik turun tangga dapat menekan tulang belakang mereka secara berbahaya. Hari ini, PetSelf mengurai bahasa tubuh anjing Dachshund yang menunjukkan stres pada punggung dan membagikan 3 langkah rutinitas harian untuk menjaga tulang belakang dan memperkuat otot core.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -46,30 +46,30 @@ Dachshund dicintai di seluruh dunia karena bentuk tubuhnya yang unik dan kepriba
 
 ---
 
-## 1. Sinyal Peringatan Tulang Belakang Dachshund: Sikap Berdiri dan Peregangan
+## 1. Sinyal Peringatan Tulang Belakang Dachshund: Sikap Berdiri dan Peregangan Tubuh
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Sinyal Peringatan Tulang Belakang Dachshund: Sikap Berdiri dan Peregangan</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Sinyal Peringatan Tulang Belakang Dachshund: Sikap Berdiri dan Peregangan Tubuh</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Dachshund menunjukkan rasa tidak nyaman di punggung dengan gerakan halus. Berdiri dengan dua kaki belakang ('sikap meminta') memberikan beban yang sangat besar pada tulang belakang lumbar. Selain itu, punggung melengkung atau leher yang meregang kaku adalah tanda rasa sakit dini yang perlu diwaspadai.
+    Dachshund menunjukkan rasa tidak nyaman di punggung dengan gerakan halus. Berdiri dengan dua kaki belakang ('sikap meminta') memberikan beban yang sangat besar pada tulang belakang lumbar. Selain itu, punggung melengkung atau leher yang meregang kaku adalah tanda penekanan saraf tulang belakang tahap awal yang perlu diwaspadai.
   </p>
 </div>
 
 ---
 
-## 2. Dachshund's Body Language & Signals
+## 2. Dachshund (Canis lupus familiaris)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Sinyal Tubuh 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Berdiri dengan Dua Kaki Belakang</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Berdiri dengan Dua Kaki Belakang (Sikap Meminta)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• Arti:</strong> Sikap yang memberikan tekanan berlebih pada tulang belakang lumbar, biasanya dilakukan saat meminta makanan atau perhatian.<br/>
-    <strong>• Tindakan:</strong> Cegah sikap ini secara lembut, pasang tangga landai (ramps) di dekat furnitur, dan taruh mainan setinggi dada anjing.
+    <strong>• Tindakan:</strong> Cegah sikap ini segera secara lembut, pasang tangga landai (ramps) di dekat furnitur, dan taruh mainan setinggi dada anjing.
   </p>
 </div>
 
@@ -79,8 +79,8 @@ Dachshund dicintai di seluruh dunia karena bentuk tubuhnya yang unik dan kepriba
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Punggung Melengkung & Leher Meregang</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Arti:</strong> Sikap melindungi tubuh akibat nyeri punggung atau tekanan saraf tulang belakang tahap awal.<br/>
-    <strong>• Tindakan:</strong> Batasi gerakannya segera, gendong dengan menopang dada dan bokong secara bersamaan, dan bawa ke dokter hewan.
+    <strong>• Arti:</strong> Sikap melindungi tubuh akibat nyeri punggung, kekakuan, atau tekanan saraf tulang belakang tahap awal.<br/>
+    <strong>• Tindakan:</strong> Batasi gerakannya segera, gendong dengan menopang dada dan bokong secara bersamaan agar tulang belakang tetap horizontal, lalu bawa ke dokter hewan.
   </p>
 </div>
 
@@ -101,10 +101,10 @@ Dachshund dicintai di seluruh dunia karena bentuk tubuhnya yang unik dan kepriba
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Siang: Penataan Lingkungan yang Aman bagi Punggung</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Siang: Penataan Lingkungan yang Aman bagi Punggung & Menjaga Posisi Datar</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Pastikan kemiringan ramp di dekat sofa stabil dan tidak licin. Pasang gerbang pengaman di akses jalan tangga.
+    Pastikan kemiringan ramp antiselip di dekat sofa dan tempat tidur stabil. Pasang gerbang pengaman di akses jalan tangga untuk mencegah penggunaan tangga.
   </p>
 </div>
 
@@ -114,7 +114,7 @@ Dachshund dicintai di seluruh dunia karena bentuk tubuhnya yang unik dan kepriba
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Malam: Jalan di Area Rata untuk Memperkuat Core dan Kontrol Berat Badan</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Untuk melatih otot perut guna menyangga punggung, berjalanlah santai di rumput datar. Timbang makanan dengan ketat demi cegah obesitas.
+    Untuk melatih otot perut guna menyangga punggung, berjalanlah santai di rumput datar. Atur porsi makanan secara ketat demi mencegah obesitas dan beban diskus.
   </p>
 </div>
 
@@ -133,7 +133,7 @@ Dachshund dicintai di seluruh dunia karena bentuk tubuhnya yang unik dan kepriba
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Naik turun tangga memberikan benturan berulang dan keras pada tulang belakang Dachshund yang panjang. Sebaiknya halangi tangga dan gendong anjing Anda saat melewati tangga.
+      Karena struktur kaki pendek dan punggung panjang, naik turun tangga memberikan benturan berulang dan keras pada tulang belakang Dachshund. Sangat disarankan menghalangi tangga dengan gerbang pengaman dan menggendong anjing Anda saat melewati tangga.
     </p>
   </details>
 
@@ -143,7 +143,7 @@ Dachshund dicintai di seluruh dunia karena bentuk tubuhnya yang unik dan kepriba
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Topang seluruh tubuhnya. Letakkan satu tangan di bawah dada di antara kaki depan, dan tangan lainnya di bawah pantat anjing agar punggungnya tetap horizontal.
+      Topang seluruh tubuhnya secara horizontal. Letakkan satu tangan di bawah dada di antara kaki depan, dan tangan lainnya di bawah pantat dan kaki belakang anjing. Jangan pernah mengangkatnya hanya dengan menarik kaki depan atau ketiaknya.
     </p>
   </details>
 </div>

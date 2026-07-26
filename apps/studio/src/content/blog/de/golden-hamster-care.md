@@ -5,15 +5,15 @@ description: "Pflege für den solitären und nachtaktiven Goldhamster. Lernen Si
 pubDate: "2026-01-21"
 updatedDate: "2026-01-21"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Goldhamster (Golden Hamster)"]
+tags: ["Haustierpflege","Haustiergesundheit","Goldhamster (Mesocricetus auratus)"]
 heroImage: "/images/blog/golden_hamster_care.png"
 app: "petself"
 formatVersion: 4
 authority: "Goldhamster-Pflegeleitfaden der Humane Society und Veterinär-Verhaltenstandards"
 steps:
   - name: "Goldhamster-Kommunikation: Zähneknirschen und Wachsamkeitssignale"
-    text: "Goldhamster drücken Wut oder Angst durch ein charakteristisches Zähneknirschen aus und warnen Sie, Abstand zu halten. Wenn sie durch plötzliche Geräusche erschreckt werden, legen sie zudem die Ohren flach und erstarren. Das Erkennen dieser feinen Körpersprache-Signale ist der Schlüssel zu ihrem Wohlbefinden."
-  - name: "Goldhamster (Golden Hamster)'s Body Language & Signals"
+    text: "Goldhamster drücken Wut oder Angst durch ein charakteristisches Zähneknirschen (Teeth Chattering) aus und warnen Sie, Abstand zu halten. Wenn sie durch plötzliche Geräusche erschreckt werden, legen sie zudem die Ohren flach und erstarren (Ear Flattening). Das Erkennen dieser feinen Körpersprache-Signale ist der Schlüssel zu ihrem Wohlbefinden."
+  - name: "Goldhamster (Mesocricetus auratus)'s Body Language & Signals"
     text: "* Zähneknirschen (Teeth Chattering): Eine deutliche Warnung, dass sie sich bedroht fühlen oder extrem sensibel sind. Nicht nähern. (Stoppen Sie sofort jeglichen Kontakt oder die Reinigung und geben Sie ihnen einen ruhigen Raum, um sich in ihrem Versteck zu beruhigen.)
 
 * Ohren anlegen & Erstarren (Ear Flattening): Ein Zustand hoher Anspannung und Vorsicht, ausgelöst durch plötzliche Vibrationen oder unbekannte visuelle Reize. (Vermeiden Sie laute Geräusche oder plötzliche Bewegungen in der Nähe und dimmen Sie das Licht, um den Raum dunkel und gemütlich zu halten.)"
@@ -54,13 +54,13 @@ Der kleine und niedliche Goldhamster ist ein beliebtes solitäres Heimtier. Er b
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Goldhamster-Kommunikation: Zähneknirschen und Wachsamkeitssignale</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Goldhamster drücken Wut oder Angst durch ein charakteristisches Zähneknirschen aus und warnen Sie, Abstand zu halten. Wenn sie durch plötzliche Geräusche erschreckt werden, legen sie zudem die Ohren flach und erstarren. Das Erkennen dieser feinen Körpersprache-Signale ist der Schlüssel zu ihrem Wohlbefinden.
+    Goldhamster drücken Wut oder Angst durch ein charakteristisches Zähneknirschen (Teeth Chattering) aus und warnen Sie, Abstand zu halten. Wenn sie durch plötzliche Geräusche erschreckt werden, legen sie zudem die Ohren flach und erstarren (Ear Flattening). Das Erkennen dieser feinen Körpersprache-Signale ist der Schlüssel zu ihrem Wohlbefinden.
   </p>
 </div>
 
 ---
 
-## 2. Goldhamster (Golden Hamster)'s Body Language & Signals
+## 2. Goldhamster (Mesocricetus auratus)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

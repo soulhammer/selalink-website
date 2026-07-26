@@ -5,32 +5,32 @@ description: "Pflegeanleitung für Holland Lop Zwergwidder. Otitis vorbeugen, Bi
 pubDate: "2026-07-15"
 updatedDate: "2026-07-15"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Holland Lop (Zwergwidder)"]
+tags: ["Haustierpflege","Haustiergesundheit","Holland Lop / Zwergwidder (Oryctolagus cuniculus)"]
 heroImage: "/images/blog/holland_lop_care.png"
 app: "petself"
 formatVersion: 4
-authority: "House Rabbit Society (HRS) & AEMV Standards"
+authority: "Richtlinien der House Rabbit Society (HRS) und AEMV-Veterinärstandards"
 steps:
   - name: "Körpersprache: Binky-Tanz & Klopfen mit den Hinterläufen"
-    text: "Der Binky-Sprung steht für pure Lebensfreude. Das Klopfen (Thumping) mit den Hinterbeinen signalisiert Warnung oder Unmut."
-  - name: "Holland Lop (Zwergwidder)'s Body Language & Signals"
-    text: "* Freudensprung mit Drehung in der Luft (Binky Dance): Ausdruck von tiefer Freude, Energie und vollkommenem Wohlbefinden. (Rutschfeste Teppiche für sicheres Auslaufen bereitstellen.)
+    text: "Kaninchen drücken ihre Gefühle durch Bewegungen aus. Der Luftsprung mit Drehung ('Binky') steht für pure Lebensfreude. Das Klopfen (Thumping) mit den Hinterbeinen signalisiert Warnung, Angst oder Unmut."
+  - name: "Holland Lop / Zwergwidder (Oryctolagus cuniculus)'s Body Language & Signals"
+    text: "* Freudensprung mit Drehung in der Luft (Binky Dance): Ausdruck von tiefer Freude, Energie und vollkommenem Wohlbefinden in seiner Umgebung. (Rutschfeste Teppiche für sicheres Auslaufen und Springen bereitstellen.)
 
-* Klopfen mit den Hinterläufen (Thumping): Warnung vor Geräuschen, Raubtiergerüchen oder Unzufriedenheit. (Ursache ermitteln und mit sanfter Stimme beruhigen.)"
+* Klopfen mit den Hinterläufen (Thumping): Warnung vor Geräuschen, Raubtiergerüchen oder Unzufriedenheit über fehlende Leckerlis. (Ursache im Umfeld ermitteln und das Tier mit sanfter, ruhiger Stimme beruhigen.)"
   - name: "Customized 3-Step Home Care Routine"
-    text: "* STEP 1. Morgen: Unbegrenzt Timothy-Heu & Frischwasser: Heuraufe auffüllen, um die Magen-Darm-Motorik aufrechtzuerhalten.
+    text: "* STEP 1. Morgen: Unbegrenzt Timothy-Heu & Frischwasser: Heuraufe mit frischem 1. Schnitt Timothy-Heu auffüllen, um die Magen-Darm-Motorik aufrechtzuerhalten.
 
-* STEP 2. Nachmittag: Schlappohren-Kontrolle & Ruhezeit: Ohren sanft anheben und auf Rötungen oder Ausfluss prüfen.
+* STEP 2. Nachmittag: Schlappohren-Kontrolle & Ruhezeit: Ohren sanft anheben und auf Rötungen oder Ausfluss prüfen, um eine ungestörte Ruhephase zu sichern.
 
-* STEP 3. Abend: Auslauf im Tunnel & Fellpflege: Auslauf gewähren und Fell bürsten gegen Haarballenbildung."
+* STEP 3. Abend: Auslauf im Tunnel & Fellpflege: Auslauf gewähren und das Fell gründlich bürsten, um das Verschlucken von Haaren zu verhindern."
 faqs:
   - question: "Was tun, wenn das Kaninchen nicht mehr frisst und keinen Kot absetzt?"
-    answer: "Dies ist eine lebensgefährliche Magen-Darm-Stase (GI Stasis). Bringen Sie das Tier binnen 12 Stunden zum Heimtier-Tierarzt."
+    answer: "Dies ist eine lebensgefährliche Magen-Darm-Stase (GI Stasis), die binnen 12 Stunden tödlich verlaufen kann. Nicht zwangsfüttern; bringen Sie das Tier sofort zum Heimtier-Tierarzt."
   - question: "Ist es normal, wenn das Kaninchen oft den Kopf schüttelt und die Ohren kratzt?"
-    answer: "Nein. Schlappohren neigen zu Milben und Pilzinfektionen. Bei dunklem Schmalz oder Kratzen ist ein Tierarztbesuch nötig."
+    answer: "Nein. Schlappohren neigen zu Feuchtigkeitsstau, Milben und Pilzinfektionen. Bei dunklem Schmalz oder häufigem Kratzen ist eine tierärztliche Untersuchung nötig."
 ---
 
-Der Holland Lop zeichnet sich durch seine Schlappohren aus. Gemäß HRS-Richtlinien müssen Schlappohren wegen Infektionsgefahr (Otitis) belüftet und rund um die Uhr unbegrenzt Heu zur Vermeidung von Magen-Darm-Stase gefüttert werden.
+Der Holland Lop zeichnet sich durch seine runde Kopfform und die charakteristischen Schlappohren aus. Gemäß HRS-Richtlinien müssen Schlappohren wegen Infektionsgefahr (Otitis) regelmäßig belüftet und kontrolliert werden. Zudem ist rund um die Uhr unbegrenztes Timothy-Heu zur Vermeidung lebensgefährlicher Magen-Darm-Stasen zwingend erforderlich.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -39,7 +39,7 @@ Der Holland Lop zeichnet sich durch seine Schlappohren aus. Gemäß HRS-Richtlin
       Veterinärmedizinische & verhaltensbedingte Nachweise
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Dieser Inhalt basiert auf <strong>House Rabbit Society (HRS) & AEMV Standards</strong>.
+      Dieser Inhalt basiert auf <strong>Richtlinien der House Rabbit Society (HRS) und AEMV-Veterinärstandards</strong>.
     </p>
   </div>
 </div>
@@ -54,13 +54,13 @@ Der Holland Lop zeichnet sich durch seine Schlappohren aus. Gemäß HRS-Richtlin
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Körpersprache: Binky-Tanz & Klopfen mit den Hinterläufen</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Der Binky-Sprung steht für pure Lebensfreude. Das Klopfen (Thumping) mit den Hinterbeinen signalisiert Warnung oder Unmut.
+    Kaninchen drücken ihre Gefühle durch Bewegungen aus. Der Luftsprung mit Drehung ('Binky') steht für pure Lebensfreude. Das Klopfen (Thumping) mit den Hinterbeinen signalisiert Warnung, Angst oder Unmut.
   </p>
 </div>
 
 ---
 
-## 2. Holland Lop (Zwergwidder)'s Body Language & Signals
+## 2. Holland Lop / Zwergwidder (Oryctolagus cuniculus)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -68,8 +68,8 @@ Der Holland Lop zeichnet sich durch seine Schlappohren aus. Gemäß HRS-Richtlin
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Freudensprung mit Drehung in der Luft (Binky Dance)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Bedeutung:</strong> Ausdruck von tiefer Freude, Energie und vollkommenem Wohlbefinden.<br/>
-    <strong>• Reaktion:</strong> Rutschfeste Teppiche für sicheres Auslaufen bereitstellen.
+    <strong>• Bedeutung:</strong> Ausdruck von tiefer Freude, Energie und vollkommenem Wohlbefinden in seiner Umgebung.<br/>
+    <strong>• Reaktion:</strong> Rutschfeste Teppiche für sicheres Auslaufen und Springen bereitstellen.
   </p>
 </div>
 
@@ -79,8 +79,8 @@ Der Holland Lop zeichnet sich durch seine Schlappohren aus. Gemäß HRS-Richtlin
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Klopfen mit den Hinterläufen (Thumping)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Bedeutung:</strong> Warnung vor Geräuschen, Raubtiergerüchen oder Unzufriedenheit.<br/>
-    <strong>• Reaktion:</strong> Ursache ermitteln und mit sanfter Stimme beruhigen.
+    <strong>• Bedeutung:</strong> Warnung vor Geräuschen, Raubtiergerüchen oder Unzufriedenheit über fehlende Leckerlis.<br/>
+    <strong>• Reaktion:</strong> Ursache im Umfeld ermitteln und das Tier mit sanfter, ruhiger Stimme beruhigen.
   </p>
 </div>
 
@@ -94,7 +94,7 @@ Der Holland Lop zeichnet sich durch seine Schlappohren aus. Gemäß HRS-Richtlin
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Morgen: Unbegrenzt Timothy-Heu & Frischwasser</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Heuraufe auffüllen, um die Magen-Darm-Motorik aufrechtzuerhalten.
+    Heuraufe mit frischem 1. Schnitt Timothy-Heu auffüllen, um die Magen-Darm-Motorik aufrechtzuerhalten.
   </p>
 </div>
 
@@ -104,7 +104,7 @@ Der Holland Lop zeichnet sich durch seine Schlappohren aus. Gemäß HRS-Richtlin
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Nachmittag: Schlappohren-Kontrolle & Ruhezeit</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Ohren sanft anheben und auf Rötungen oder Ausfluss prüfen.
+    Ohren sanft anheben und auf Rötungen oder Ausfluss prüfen, um eine ungestörte Ruhephase zu sichern.
   </p>
 </div>
 
@@ -114,7 +114,7 @@ Der Holland Lop zeichnet sich durch seine Schlappohren aus. Gemäß HRS-Richtlin
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Abend: Auslauf im Tunnel & Fellpflege</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Auslauf gewähren und Fell bürsten gegen Haarballenbildung.
+    Auslauf gewähren und das Fell gründlich bürsten, um das Verschlucken von Haaren zu verhindern.
   </p>
 </div>
 
@@ -133,7 +133,7 @@ Der Holland Lop zeichnet sich durch seine Schlappohren aus. Gemäß HRS-Richtlin
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Dies ist eine lebensgefährliche Magen-Darm-Stase (GI Stasis). Bringen Sie das Tier binnen 12 Stunden zum Heimtier-Tierarzt.
+      Dies ist eine lebensgefährliche Magen-Darm-Stase (GI Stasis), die binnen 12 Stunden tödlich verlaufen kann. Nicht zwangsfüttern; bringen Sie das Tier sofort zum Heimtier-Tierarzt.
     </p>
   </details>
 
@@ -143,7 +143,7 @@ Der Holland Lop zeichnet sich durch seine Schlappohren aus. Gemäß HRS-Richtlin
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Nein. Schlappohren neigen zu Milben und Pilzinfektionen. Bei dunklem Schmalz oder Kratzen ist ein Tierarztbesuch nötig.
+      Nein. Schlappohren neigen zu Feuchtigkeitsstau, Milben und Pilzinfektionen. Bei dunklem Schmalz oder häufigem Kratzen ist eine tierärztliche Untersuchung nötig.
     </p>
   </details>
 </div>

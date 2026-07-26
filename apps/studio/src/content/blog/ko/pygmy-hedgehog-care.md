@@ -5,19 +5,19 @@ description: "앙증맞은 가시를 가진 아프리칸 피그미 고슴도치.
 pubDate: "2026-05-21"
 updatedDate: "2026-05-21"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","아프리칸 피그미 고슴도치 (African Pygmy Hedgehog)"]
+tags: ["반려동물","펫케어","아프리칸 피그미 고슴도치 (Atelerix albiventris / African Pygmy Hedgehog)"]
 heroImage: "/images/blog/pygmy_hedgehog_care.png"
 app: "petself"
 formatVersion: 4
-authority: "Hedgehog Welfare Society 케어 가이드라인 및 수의학 외래동물 치료 지침"
+authority: "Hedgehog Welfare Society 케어 가이드라인 및 외래소동물 수의학 치료 지침"
 steps:
   - name: "피그미 고슴도치의 본능: 안팅 거품과 가시 경계 신호"
-    text: "아프리칸 피그미 고슴도치는 새로운 사물의 맛이나 냄새를 인지하면 입에서 거품 침을 만들어 가시에 묻히는 '안팅(Self-Anointing)' 행동을 합니다. 이는 적에게 냄새를 숨기기 위한 정상 행동입니다. 반면 두려움을 느낄 때는 몸을 축구공처럼 둥글게 말고 '슈슉' 소리를 내며 외부 접촉을 완전히 경고합니다."
-  - name: "아프리칸 피그미 고슴도치 (African Pygmy Hedgehog)의 몸짓 언어와 바디 시그널"
+    text: "아프리칸 피그미 고슴도치는 새로운 사물의 맛이나 냄새를 인지하면 입에서 거품 침을 만들어 가시에 묻히는 '안팅(Self-Anointing)' 행동을 합니다. 이는 적에게 냄새를 숨기거나 환경 냄새를 체득하기 위한 정상적인 본능 행동입니다. 반면 두려움을 느낄 때는 몸을 축구공처럼 둥글게 말고 '슈슉(Hissing)' 소리를 내며 외부 접촉을 엄격히 경고합니다."
+  - name: "아프리칸 피그미 고슴도치 (Atelerix albiventris / African Pygmy Hedgehog)의 몸짓 언어와 바디 시그널"
     text: "* 안팅 거품 칠하기 (Self-Anointing): 새롭거나 강한 향을 내는 대상을 탐색하여 그것을 자신의 몸 일부인 가시에 덧발라 은폐하려는 무해한 야생 본능입니다. (자연스러운 행동이므로 질병으로 오해하여 억지로 방해하지 말고 편안히 냄새를 체득하도록 기다려 줍니다.)
 
 * 둥글게 말며 슈슉 소리 내기 (Hissing/Ball-up): 주변에 커다란 공포를 느껴 가시를 완전히 곤두세우고 상대방의 침입을 경고하는 방어 모드입니다. (강제로 맨손으로 만져 가시를 꺾지 마시고 천이나 수건을 덮어 그늘을 만들어 준 채 한동안 내버려 둡니다.)"
-  - name: "아프리칸 피그미 고슴도치 (African Pygmy Hedgehog) 맞춤형 3단계 홈케어 루틴"
+  - name: "아프리칸 피그미 고슴도치 (Atelerix albiventris / African Pygmy Hedgehog) 맞춤형 3단계 홈케어 루틴"
     text: "* STEP 1. 아침: 배변으로 오염된 쳇바퀴 및 식기 세척: 고슴도치는 쳇바퀴를 달리며 동시에 배변을 하는 습성이 있으므로 아침에는 밤새 사용한 용품들을 빠르게 세척 및 소독합니다.
 
 * STEP 2. 낮: 사계절 실내 최적 온도 24 ~ 26도 및 가습기 정밀 세팅: 추위로 인한 저체온증 및 강제 동면 사망을 막기 위해 가열 매트와 자동 온도 조절기의 정상 작동 유무를 수시로 확인합니다.
@@ -30,7 +30,7 @@ faqs:
     answer: "고슴도치는 쥐와 달리 평생 이빨이 자라는 동물이 아닙니다. 따라서 이갈이 장난감은 필요 없으며, 딱딱한 것을 갉아 먹으면 이빨이 쉽게 파절되므로 오히려 알갱이가 지나치게 딱딱한 사료는 피해야 합니다."
 ---
 
-아프리칸 피그미 고슴도치는 얼굴을 조심히 내밀어 코를 씰룩이는 모습이 매력적이며, 조용히 관찰하는 재미가 쏠쏠한 외래 반려동물입니다. 태생적으로 매우 소심하여 가시라는 방어 수단을 쓰며, 낯선 냄새를 접하면 거품을 만들어 등 가시에 바르는 독특한 행동을 보입니다. 또한, 실내 온도가 조금만 낮아져도 목숨이 위험한 동면 상태에 빠질 수 있습니다. 오늘 PetSelf에서는 피그미 고슴도치의 본능적 가시 반응과 안전한 안팅 행동 요령, 24시간 적정 온도 및 위생을 보장하는 3단계 관리법을 알아봅니다.
+아프리칸 피그미 고슴도치는 얼굴을 조심히 내밀어 코를 씰룩이는 모습이 매력적이며, 조용히 관찰하는 재미가 쏠쏠한 외래 반려동물입니다. 태생적으로 매우 소심하여 가시라는 방어 수단을 쓰며, 낯선 냄새를 접하면 거품을 만들어 등 가시에 바르는 독특한 행동(안팅)을 보입니다. 또한, 실내 온도가 조금만 낮아져도 목숨이 위험한 동면(가사) 상태에 빠질 수 있습니다. 오늘 PetSelf에서는 피그미 고슴도치의 본능적 가시 반응과 안전한 안팅 행동 요령, 24시간 적정 온도 및 위생을 보장하는 3단계 관리법을 알아봅니다.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -39,7 +39,7 @@ faqs:
       수의학적 & 행동학적 근거
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Hedgehog Welfare Society 케어 가이드라인 및 수의학 외래동물 치료 지침</strong>에 기반하고 있습니다.
+      본 콘텐츠는 <strong>Hedgehog Welfare Society 케어 가이드라인 및 외래소동물 수의학 치료 지침</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -54,13 +54,13 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">피그미 고슴도치의 본능: 안팅 거품과 가시 경계 신호</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    아프리칸 피그미 고슴도치는 새로운 사물의 맛이나 냄새를 인지하면 입에서 거품 침을 만들어 가시에 묻히는 '안팅(Self-Anointing)' 행동을 합니다. 이는 적에게 냄새를 숨기기 위한 정상 행동입니다. 반면 두려움을 느낄 때는 몸을 축구공처럼 둥글게 말고 '슈슉' 소리를 내며 외부 접촉을 완전히 경고합니다.
+    아프리칸 피그미 고슴도치는 새로운 사물의 맛이나 냄새를 인지하면 입에서 거품 침을 만들어 가시에 묻히는 '안팅(Self-Anointing)' 행동을 합니다. 이는 적에게 냄새를 숨기거나 환경 냄새를 체득하기 위한 정상적인 본능 행동입니다. 반면 두려움을 느낄 때는 몸을 축구공처럼 둥글게 말고 '슈슉(Hissing)' 소리를 내며 외부 접촉을 엄격히 경고합니다.
   </p>
 </div>
 
 ---
 
-## 2. 아프리칸 피그미 고슴도치 (African Pygmy Hedgehog)의 몸짓 언어와 바디 시그널
+## 2. 아프리칸 피그미 고슴도치 (Atelerix albiventris / African Pygmy Hedgehog)의 몸짓 언어와 바디 시그널
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ faqs:
 
 ---
 
-## 3. 아프리칸 피그미 고슴도치 (African Pygmy Hedgehog) 맞춤형 3단계 홈케어 루틴
+## 3. 아프리칸 피그미 고슴도치 (Atelerix albiventris / African Pygmy Hedgehog) 맞춤형 3단계 홈케어 루틴
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

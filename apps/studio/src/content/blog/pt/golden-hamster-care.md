@@ -5,16 +5,16 @@ description: "Cuidado do hámster sírio (dourado), solitário e noturno. Conhe�
 pubDate: "2026-01-21"
 updatedDate: "2026-01-21"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Hámster Sírio (Golden Hamster)"]
+tags: ["CuidadoPets","SaudePets","Hámster Sírio / Dourado (Mesocricetus auratus)"]
 heroImage: "/images/blog/golden_hamster_care.png"
 app: "petself"
 formatVersion: 4
 authority: "Guia de Cuidado de Hámsters da Humane Society e Protocolos de Conduta Veterinária"
 steps:
-  - name: "Comunicação do hámster sírio: ranger de dentes e sinais de vigilância"
-    text: "Os hámsters sírios expressam raiva ou medo fazendo um som distintivo de ranger de dentes, avisando-o para se manter afastado. Além disso, quando se assustam com ruídos repentinos, mostram um comportamento de achatar as orelhas e congelam. Reconhecer estes delicados sinais de linguagem corporal é a chave para manter o seu conforto."
-  - name: "Hámster Sírio (Golden Hamster)'s Body Language & Signals"
-    text: "* Ranger de dentes (Teeth Chattering): Um aviso firme de que se sentem ameaçados ou extremamente sensíveis. Não se aproxime. (PARE imediatamente a manipulação ou a limpeza, e dê-lhe um espaço tranquilo para se acalmar no seu esconderijo.)
+  - name: "Comunicação do hámster sírio: Ranger de dentes e sinais de vigilância"
+    text: "Os hámsters sírios expressam raiva ou medo fazendo um som distintivo de ranger de dentes (Teeth Chattering), avisando-o para se manter afastado. Além disso, quando se assustam com ruídos repentinos, mostram um comportamento de achatar as orelhas e congelar (Ear Flattening). Reconhecer estes delicados sinais de linguagem corporal é a chave para manter o seu conforto."
+  - name: "Hámster Sírio / Dourado (Mesocricetus auratus)'s Body Language & Signals"
+    text: "* Ranger de dentes (Teeth Chattering): Um aviso firme de que se sentem ameaçados ou extremamente sensíveis. Não se aproxime. (Pare imediatamente a manipulação ou a limpeza, e dê-lhe um espaço tranquilo para se acalmar no seu esconderijo.)
 
 * Orelhas achatadas e congelamento (Ear Flattening): Um estado de alta tensão e precaução, provocado por vibrações repentinas ou estímulos visuais desconhecidos. (Evite ruídos fortes ou movimentos bruscos perto, e diminua as luzes para manter o quarto escuro e acolhedor.)"
   - name: "Customized 3-Step Home Care Routine"
@@ -46,21 +46,21 @@ O pequeno e adorável hámster sírio ou dourado é um dos animais de estimaçã
 
 ---
 
-## 1. Comunicação do hámster sírio: ranger de dentes e sinais de vigilância
+## 1. Comunicação do hámster sírio: Ranger de dentes e sinais de vigilância
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Comunicação do hámster sírio: ranger de dentes e sinais de vigilância</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Comunicação do hámster sírio: Ranger de dentes e sinais de vigilância</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Os hámsters sírios expressam raiva ou medo fazendo um som distintivo de ranger de dentes, avisando-o para se manter afastado. Além disso, quando se assustam com ruídos repentinos, mostram um comportamento de achatar as orelhas e congelam. Reconhecer estes delicados sinais de linguagem corporal é a chave para manter o seu conforto.
+    Os hámsters sírios expressam raiva ou medo fazendo um som distintivo de ranger de dentes (Teeth Chattering), avisando-o para se manter afastado. Além disso, quando se assustam com ruídos repentinos, mostram um comportamento de achatar as orelhas e congelar (Ear Flattening). Reconhecer estes delicados sinais de linguagem corporal é a chave para manter o seu conforto.
   </p>
 </div>
 
 ---
 
-## 2. Hámster Sírio (Golden Hamster)'s Body Language & Signals
+## 2. Hámster Sírio / Dourado (Mesocricetus auratus)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -69,7 +69,7 @@ O pequeno e adorável hámster sírio ou dourado é um dos animais de estimaçã
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• Significado:</strong> Um aviso firme de que se sentem ameaçados ou extremamente sensíveis. Não se aproxime.<br/>
-    <strong>• Resposta:</strong> PARE imediatamente a manipulação ou a limpeza, e dê-lhe um espaço tranquilo para se acalmar no seu esconderijo.
+    <strong>• Resposta:</strong> Pare imediatamente a manipulação ou a limpeza, e dê-lhe um espaço tranquilo para se acalmar no seu esconderijo.
   </p>
 </div>
 

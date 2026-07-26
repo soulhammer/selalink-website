@@ -1,36 +1,36 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Cuidado da Surdez e Coração do Angorá Turco: Rotina de 3 passos para gatos surdos com olhos de cores diferentes e pelos"
-description: "Gatos Angorá Turco brancos com olhos azuis ou de cores diferentes têm alta incidência de surdez congênita e HCM. Conheça a rotina de cuidados."
+description: "Gatos Angorá Turco brancos com olhos azuis ou heterocromia têm alta incidência de surdez congênita e HCM. Conheça a rotina diária de 3 passos para comunicação e escovação."
 pubDate: "2026-04-07"
-updatedDate: "2026-04-07"
+updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Angorá Turco"]
+tags: ["CuidadoPets","SaudePets","Angorá Turco (Turkish Angora)"]
 heroImage: "/images/blog/turkish_angora_care.png"
 app: "petself"
 formatVersion: 4
-authority: "Conselho de raça do Angorá Turco da CFA e estudos veterinários de surdez"
+authority: "Conselho de Raça do Angorá Turco da CFA e estudos veterinários de surdez felina"
 steps:
   - name: "Linguagem corporal do Angorá Turco: vocalização forte e captação de vibrações"
-    text: "Gatos surdos emitem 'vocalizações fortes' pois não conseguem regular a própria voz. Em contrapartida, tornam-se sensíveis a 'vibrações no chão'. Entender estes comportamentos é essencial."
-  - name: "Angorá Turco's Body Language & Signals"
-    text: "* Vocalização Forte: Miarem alto sem olhar para trás ao serem chamados, devido à surdez e falta de modulação vocal. (Evite se aproximar por trás. Use sinais visuais (gestos de mão, foco de luz) pela frente antes do contato físico.)
+    text: "Gatos surdos emitem 'vocalizações fortes não moduladas' pois não possuem o retorno auditivo da própria voz. Em contrapartida, tornam-se extremamente sensíveis à detecção de 'vibrações do solo' através dos coxins das patas. Entender estes comportamentos é essencial para evitar sustos e estresse."
+  - name: "Angorá Turco (Turkish Angora)'s Body Language & Signals"
+    text: "* Vocalização forte não modulada (Loud Unmodulated Vocalization): Miar muito alto ou gritar sem modulação de voz devido à ausência de audição, movido pelo desejo de interação ou frustração. (Evite se aproximar por trás de surpresa. Chegue sempre pelo campo de visão frontal fazendo gestos suaves com as mãos.)
 
-* Sensibilidade a Vibrações: Perceber a aproximação de pessoas através da vibração mecânica gerada no solo pelos passos. (Bata levemente no chão com o pé ou a mão antes de chegar muito perto para sinalizar sua presença.)"
+* Sensibilidade às vibrações do solo (Floor Vibration Sensitivity): Uso dos coxins das patas (corpúsculos de Pacini) para perceber vibrações mecânicas do solo e rastrear a aproximação de pessoas. (Bata levemente no chão com o pé ou a mão antes de chegar perto para sinalizar sua presença sem assustar o gato.)"
   - name: "Customized 3-Step Home Care Routine"
-    text: "* STEP 1. Manhã: Cumprimento visual e comunicação por gestos: Diga bom dia usando sinais de mão amigáveis e piscadas lentas de olhos, evitando gestos rápidos que assustem.
+    text: "* STEP 1. Manhã: Cumprimento visual e comunicação por gestos: Diga bom dia usando sinais de mão amigáveis e piscadas lentas de olhos em vez de chamados vocais, garantindo um despertar tranquilo.
 
-* STEP 2. Tarde: Enriquecimento vertical estável e verificação de segurança: Instale prateleiras e nichos bem fixados na parede. Como a surdez pode influenciar o equilíbrio, a estabilidade é vital.
+* STEP 2. Tarde: Enriquecimento vertical estável e verificação de segurança: Instale prateleiras e nichos bem fixados na parede. Como a surdez pode influenciar levemente o equilíbrio, a estabilidade é vital.
 
-* STEP 3. Noite: Escovação do pelo longo sedoso para evitar nós: A escovação diária com escova de pinos macios é necessária. Embora sem subpelo denso, o pelo fino se enreda facilmente."
+* STEP 3. Noite: Escovação do pelo longo sedoso para evitar nós: Escove o pelo fino e sedoso diariamente com uma escova de pinos. Embora sem subpelo denso, o pelo longo enreda facilmente."
 faqs:
-  - question: "Todos os Angorás Turcos brancos são surdos?"
-    answer: "Não todos, mas gatos brancos com olhos azuis têm alta probabilidade (60-80%) de surdez. Gatos com heterocromia (um olho azul) costumam ser surdos no ouvido do mesmo lado."
-  - question: "Como adaptar a casa para um gato com surdez?"
-    answer: "Mantenha-o exclusivamente dentro de casa, evite toques surpresa acordando-o com vibrações no colchão e aproxime-se de frente."
+  - question: "Todos os Angorás Turcos brancos de olhos azuis ou heterocromia são surdos?"
+    answer: "Não todos, mas gatos brancos de olhos azuis têm alta probabilidade (60–80%) de surdez congênita devido ao gene $W$. Em gatos com heterocromia (um olho azul), a surdez costuma ser unilateral, afetando o ouvido do mesmo lado do olho azul."
+  - question: "Como adaptar a casa para um gato Angorá Turco surdo?"
+    answer: "Mantenha-o 100% estritamente dentro de casa, pois ele não percebe perigos externos como veículos. Instale redes de proteção duplas em janelas e portas e avise sua presença criando leves vibrações no chão antes do toque."
 ---
 
-Com pelagem longa e sedosa e olhos expressivos, o Angorá Turco é muito inteligente e ativo. Devido à genética, os gatos brancos com olhos azuis (incluindo heterocromia) apresentam alta probabilidade de surdez congênita. Além disso, exames cardiológicos são necessários na velhice. Hoje, o PetSelf decifra seus sinais de surdez e apresenta uma rotina em 3 passos.
+Com sua pelagem longa e sedosa e olhos expressivos, o Angorá Turco (Turkish Angora) é um gato extremamente inteligente e ativo. No entanto, exemplares brancos com olhos azuis ou heterocromia (olhos de cores diferentes) apresentam alta probabilidade de surdez neurossensorial congênita ligada ao gene branco dominante ($W$). Além disso, exames cardiológicos para miocardiopatia hipertrófica (HCM) são necessários com a idade. Hoje, o PetSelf decifra o comportamento do Angorá Turco surdo e apresenta uma rotina de 3 passos baseada em sinais visuais e vibrações.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -39,7 +39,7 @@ Com pelagem longa e sedosa e olhos expressivos, o Angorá Turco é muito intelig
       Evidência Veterinária e Comportamental
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Este conteúdo baseia-se em <strong>Conselho de raça do Angorá Turco da CFA e estudos veterinários de surdez</strong>.
+      Este conteúdo baseia-se em <strong>Conselho de Raça do Angorá Turco da CFA e estudos veterinários de surdez felina</strong>.
     </p>
   </div>
 </div>
@@ -54,33 +54,33 @@ Com pelagem longa e sedosa e olhos expressivos, o Angorá Turco é muito intelig
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Linguagem corporal do Angorá Turco: vocalização forte e captação de vibrações</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Gatos surdos emitem 'vocalizações fortes' pois não conseguem regular a própria voz. Em contrapartida, tornam-se sensíveis a 'vibrações no chão'. Entender estes comportamentos é essencial.
+    Gatos surdos emitem 'vocalizações fortes não moduladas' pois não possuem o retorno auditivo da própria voz. Em contrapartida, tornam-se extremamente sensíveis à detecção de 'vibrações do solo' através dos coxins das patas. Entender estes comportamentos é essencial para evitar sustos e estresse.
   </p>
 </div>
 
 ---
 
-## 2. Angorá Turco's Body Language & Signals
+## 2. Angorá Turco (Turkish Angora)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Sinal Corporal 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Vocalização Forte</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Vocalização forte não modulada (Loud Unmodulated Vocalization)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Significado:</strong> Miarem alto sem olhar para trás ao serem chamados, devido à surdez e falta de modulação vocal.<br/>
-    <strong>• Resposta:</strong> Evite se aproximar por trás. Use sinais visuais (gestos de mão, foco de luz) pela frente antes do contato físico.
+    <strong>• Significado:</strong> Miar muito alto ou gritar sem modulação de voz devido à ausência de audição, movido pelo desejo de interação ou frustração.<br/>
+    <strong>• Resposta:</strong> Evite se aproximar por trás de surpresa. Chegue sempre pelo campo de visão frontal fazendo gestos suaves com as mãos.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Sinal Corporal 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Sensibilidade a Vibrações</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Sensibilidade às vibrações do solo (Floor Vibration Sensitivity)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Significado:</strong> Perceber a aproximação de pessoas através da vibração mecânica gerada no solo pelos passos.<br/>
-    <strong>• Resposta:</strong> Bata levemente no chão com o pé ou a mão antes de chegar muito perto para sinalizar sua presença.
+    <strong>• Significado:</strong> Uso dos coxins das patas (corpúsculos de Pacini) para perceber vibrações mecânicas do solo e rastrear a aproximação de pessoas.<br/>
+    <strong>• Resposta:</strong> Bata levemente no chão com o pé ou a mão antes de chegar perto para sinalizar sua presença sem assustar o gato.
   </p>
 </div>
 
@@ -94,7 +94,7 @@ Com pelagem longa e sedosa e olhos expressivos, o Angorá Turco é muito intelig
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Manhã: Cumprimento visual e comunicação por gestos</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Diga bom dia usando sinais de mão amigáveis e piscadas lentas de olhos, evitando gestos rápidos que assustem.
+    Diga bom dia usando sinais de mão amigáveis e piscadas lentas de olhos em vez de chamados vocais, garantindo um despertar tranquilo.
   </p>
 </div>
 
@@ -104,7 +104,7 @@ Com pelagem longa e sedosa e olhos expressivos, o Angorá Turco é muito intelig
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: Enriquecimento vertical estável e verificação de segurança</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Instale prateleiras e nichos bem fixados na parede. Como a surdez pode influenciar o equilíbrio, a estabilidade é vital.
+    Instale prateleiras e nichos bem fixados na parede. Como a surdez pode influenciar levemente o equilíbrio, a estabilidade é vital.
   </p>
 </div>
 
@@ -114,7 +114,7 @@ Com pelagem longa e sedosa e olhos expressivos, o Angorá Turco é muito intelig
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noite: Escovação do pelo longo sedoso para evitar nós</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    A escovação diária com escova de pinos macios é necessária. Embora sem subpelo denso, o pelo fino se enreda facilmente.
+    Escove o pelo fino e sedoso diariamente com uma escova de pinos. Embora sem subpelo denso, o pelo longo enreda facilmente.
   </p>
 </div>
 
@@ -129,21 +129,21 @@ Com pelagem longa e sedosa e olhos expressivos, o Angorá Turco é muito intelig
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Todos os Angorás Turcos brancos são surdos?</span>
+      <span>Todos os Angorás Turcos brancos de olhos azuis ou heterocromia são surdos?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Não todos, mas gatos brancos com olhos azuis têm alta probabilidade (60-80%) de surdez. Gatos com heterocromia (um olho azul) costumam ser surdos no ouvido do mesmo lado.
+      Não todos, mas gatos brancos de olhos azuis têm alta probabilidade (60–80%) de surdez congênita devido ao gene $W$. Em gatos com heterocromia (um olho azul), a surdez costuma ser unilateral, afetando o ouvido do mesmo lado do olho azul.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Como adaptar a casa para um gato com surdez?</span>
+      <span>Como adaptar a casa para um gato Angorá Turco surdo?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Mantenha-o exclusivamente dentro de casa, evite toques surpresa acordando-o com vibrações no colchão e aproxime-se de frente.
+      Mantenha-o 100% estritamente dentro de casa, pois ele não percebe perigos externos como veículos. Instale redes de proteção duplas em janelas e portas e avise sua presença criando leves vibrações no chão antes do toque.
     </p>
   </details>
 </div>

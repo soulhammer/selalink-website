@@ -1,24 +1,24 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "¿Un instinto indomable? Una rutina de 3 pasos para el territorio e hidratación del shorthair coreano"
+title: "¿Un instinto indomable? Una rutina diaria de 3 pasos para el territorio e hidratación del shorthair coreano"
 description: "El shorthair coreano, con fuertes instintos de caza. Conozca los métodos de hidratación adecuados para prevenir la cistitis felina y una rutina diaria de 3 pasos para la comodidad territorial."
 pubDate: "2026-03-15"
 updatedDate: "2026-03-15"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Shorthair coreano"]
+tags: ["CuidadoMascotas","SaludMascotas","Shorthair Coreano (Felis catus)"]
 heroImage: "/images/blog/koshort_care.png"
 app: "petself"
 formatVersion: 4
-authority: "Guía de comportamento del Cornell Feline Health Center y manual de cuidado de NIAS"
+authority: "Guía Comportamental del Cornell Feline Health Center y Manual de Cuidado del NIAS"
 steps:
-  - name: "Lenguaje corporal felino: la máxima expresión de confianza"
-    text: "Una de las mayores expresiones de confianza de un gato hacia su dueño es la 'cola vertical hacia arriba' y el 'ronroneo'. Acercarse con la cola erguida es una señal amistosa y de comunicación. Además, el ronroneo calma su mente. Tenga en cuenta que el ronroneo también puede ser una señal de autocuración por dolor. Si se esconde en un lugar oscuro y ronronea con expressão triste, controle su salud."
-  - name: "Shorthair coreano's Body Language & Signals"
-    text: "* Cola arriba: Una expresión de fuerte amistad, comunicación positiva y alegría hacia el dueño. (Responda con un contacto visual suave o una caricia suave en la barbilla para mejorar el vínculo.)
+  - name: "Lenguaje corporal felino: La máxima expresión de confianza"
+    text: "Una de las mayores expresiones de confianza de un gato hacia su dueño es la 'cola vertical hacia arriba' (Tail Up) y el 'ronroneo' (Purring). Acercarse con la cola erguida es una señal amistosa y de comunicación. Además, el ronroneo calma su mente liberando endorfinas. Tenga en cuenta que el ronroneo también puede ser una señal de autocuración por dolor. Si se esconde en un lugar oscuro y ronronea abatido, controle su salud."
+  - name: "Shorthair Coreano (Felis catus)'s Body Language & Signals"
+    text: "* Cola arriba (Tail Up): Una expresión de fuerte amistad, comunicación positiva y alegría hacia el dueño. (Responda con un contacto visual suave o una caricia suave en la barbilla para mejorar el vínculo.)
 
-* Ronroneo: Normalmente lo hacen cuando están felices, pero también puede ser una señal de autocuración para el dolor. (Si ronronean mientras se esconden en rincones oscuros, verifique de cerca si están enfermos.)"
+* Ronroneo (Purring): Normalmente lo hacen cuando están felices, pero también puede ser una señal de autocuración para aliviar el dolor o la ansiedad. (Si ronronean mientras se esconden en rincones oscuros, verifique de cerca si están lesionados o enfermos.)"
   - name: "Customized 3-Step Home Care Routine"
-    text: "* STEP 1. Mañana: Inspección de espacio vertical y visualización de ventanas: Con la ventilación matutina, suba las persianas cerca de las torres para gatos de las ventanas. Asegurar el espacio vertical y permitirles ver el exterior (Cat TV) proporciona estimulación mental y reduce drásticamente el estrés por encierro.
+    text: "* STEP 1. Mañana: Inspección de espacio vertical y visualización de ventanas: Con la ventilación matutina, suba las persianas cerca de las torres para gatos en las ventanas. Asegurar el espacio vertical y permitirles ver el exterior (Cat TV) proporciona estimulación mental y reduce drásticamente el estrés por encierro.
 
 * STEP 2. Tarde: Rutina de juego de caza simulada de 15 minutos: Realice un juego de caza simulado con juguetes de varita durante 15 minutos una vez al día. Dado que los gatos son depredadores naturales, perseguir juguetes y experimentar el atrapamiento previene la frustración y aumenta la actividad física.
 
@@ -30,11 +30,11 @@ faqs:
     answer: "La clave es aumentar la hidratación. Coloque varios tazones de agua lejos de la comida y use fuentes de agua corriente."
 ---
 
-El shorthair coreano, un gato nativo, cuenta con una estructura robusta y una gran vitalidad debido a sus instintos salvajes conservados. Aunque son amigables, pueden ser cautelosos con los extraños y muy concentrados durante el juego de caza. 🐕
+El shorthair coreano, un gato nativo, cuenta con una estructura robusta y una gran vitalidad debido a sus instintos salvajes conservados. Aunque son amigables, pueden ser cautelosos con los extraños y estar muy concentrados durante el juego de caza. 🐈
 
-Sin embargo, estos rasgos los hacen vulnerables a dos factores de estrés en interiores: la ansiedad territorial por limitaciones de espacio y la enfermedad de las vías urinarias inferiores felinas (FLUTD). El manejo de estas condiciones requiere una atención diaria cuidadosa.
+Sin embargo, estos rasgos los hacen vulnerables a dos factores de estrés en interiores: la ansiedad territorial por limitaciones de espacio y la enfermedad de las vías urinarias inferiores felinas (FLUTD) o cálculos causados por baja hidratación. El manejo de estas condiciones requiere una atención diaria cuidadosa.
 
-Hoy, PetSelf explora el lenguaje corporal de estos felinos y comparte una rutina de cuidado diario de 3 pasos.
+Hoy, PetSelf explora el lenguaje corporal de estos felinos y comparte una rutina de cuidado diario de 3 pasos para garantizar su salud territorial e hidratación.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -43,33 +43,33 @@ Hoy, PetSelf explora el lenguaje corporal de estos felinos y comparte una rutina
       Evidencia Veterinaria y Comportamental
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Este contenido se basa en <strong>Guía de comportamento del Cornell Feline Health Center y manual de cuidado de NIAS</strong>.
+      Este contenido se basa en <strong>Guía Comportamental del Cornell Feline Health Center y Manual de Cuidado del NIAS</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 1. Lenguaje corporal felino: la máxima expresión de confianza
+## 1. Lenguaje corporal felino: La máxima expresión de confianza
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Lenguaje corporal felino: la máxima expresión de confianza</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Lenguaje corporal felino: La máxima expresión de confianza</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Una de las mayores expresiones de confianza de un gato hacia su dueño es la 'cola vertical hacia arriba' y el 'ronroneo'. Acercarse con la cola erguida es una señal amistosa y de comunicación. Además, el ronroneo calma su mente. Tenga en cuenta que el ronroneo también puede ser una señal de autocuración por dolor. Si se esconde en un lugar oscuro y ronronea con expressão triste, controle su salud.
+    Una de las mayores expresiones de confianza de un gato hacia su dueño es la 'cola vertical hacia arriba' (Tail Up) y el 'ronroneo' (Purring). Acercarse con la cola erguida es una señal amistosa y de comunicación. Además, el ronroneo calma su mente liberando endorfinas. Tenga en cuenta que el ronroneo también puede ser una señal de autocuración por dolor. Si se esconde en un lugar oscuro y ronronea abatido, controle su salud.
   </p>
 </div>
 
 ---
 
-## 2. Shorthair coreano's Body Language & Signals
+## 2. Shorthair Coreano (Felis catus)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Señal Corporal 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Cola arriba</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Cola arriba (Tail Up)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• Significado:</strong> Una expresión de fuerte amistad, comunicación positiva y alegría hacia el dueño.<br/>
@@ -80,11 +80,11 @@ Hoy, PetSelf explora el lenguaje corporal de estos felinos y comparte una rutina
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Señal Corporal 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Ronroneo</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Ronroneo (Purring)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Significado:</strong> Normalmente lo hacen cuando están felices, pero también puede ser una señal de autocuración para el dolor.<br/>
-    <strong>• Respuesta:</strong> Si ronronean mientras se esconden en rincones oscuros, verifique de cerca si están enfermos.
+    <strong>• Significado:</strong> Normalmente lo hacen cuando están felices, pero también puede ser una señal de autocuración para aliviar el dolor o la ansiedad.<br/>
+    <strong>• Respuesta:</strong> Si ronronean mientras se esconden en rincones oscuros, verifique de cerca si están lesionados o enfermos.
   </p>
 </div>
 
@@ -98,7 +98,7 @@ Hoy, PetSelf explora el lenguaje corporal de estos felinos y comparte una rutina
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Mañana: Inspección de espacio vertical y visualización de ventanas</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Con la ventilación matutina, suba las persianas cerca de las torres para gatos de las ventanas. Asegurar el espacio vertical y permitirles ver el exterior (Cat TV) proporciona estimulación mental y reduce drásticamente el estrés por encierro.
+    Con la ventilación matutina, suba las persianas cerca de las torres para gatos en las ventanas. Asegurar el espacio vertical y permitirles ver el exterior (Cat TV) proporciona estimulación mental y reduce drásticamente el estrés por encierro.
   </p>
 </div>
 

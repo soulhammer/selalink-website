@@ -1,24 +1,24 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "Juegos mentales y cuidado de oídos: una rutina de 3 pasos para el inteligente caniche"
-description: "Descubra cómo aliviar el aburrimiento en caniches inteligentes con juegos mentales y prevenir infecciones de oído con una rutina de 3 pasos."
+title: "Juegos mentales y cuidado de oídos: Rutina diaria de 3 pasos para el inteligente Caniche"
+description: "Descubra cómo aliviar el aburrimiento en caniches inteligentes con juegos mentales y prevenir infecciones de oído con una rutina diaria de 3 pasos."
 pubDate: "2026-01-26"
 updatedDate: "2026-01-26"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Caniche"]
+tags: ["CuidadoMascotas","SaludMascotas","Caniche (Canis lupus familiaris / Poodle)"]
 heroImage: "/images/blog/poodle_care.png"
 app: "petself"
 formatVersion: 4
-authority: "Guía oficial de razas del American Kennel Club (AKC) y protocolos de comportamiento de IAABC"
+authority: "Guía Oficial de Razas del American Kennel Club (AKC) y Protocolos de Comportamiento de IAABC"
 steps:
-  - name: "Lenguaje corporal del caniche: distinguir la demanda del estrés"
-    text: "Debido a su inteligencia, los caniches se comunican activamente mediante el lenguaje corporal. Las señales típicas incluyen 'levantar la pata' y 'parpadear'. Cuando un caniche levanta una pata delantera, parece una petición de un truco, pero a menudo es un mensaje que dice 'préstame atención' o una señal de calma que significa 'estoy un poco tenso, por favor sé amable'. Mirar suavemente y parpadear lentamente es su forma de mostrar confianza y afecto."
-  - name: "Caniche's Body Language & Signals"
-    text: "* Levantar la pata: Una expresión que busca atención o intenta calmar una leve tensión o ansiedad. (Si lo nota, evite dar órdenes enérgicas. Hable en un tono tranquilo y acarícielo suavemente.)
+  - name: "Lenguaje corporal del caniche: Distinguir la demanda del estrés"
+    text: "Debido a su inteligencia, los caniches se comunican activamente mediante el lenguaje corporal. Las señales típicas incluyen 'levantar la pata' (Paw Raising) y 'parpadear suavemente' (Soft Blinking). Cuando un caniche levanta una pata delantera, parece una petición de un truco, pero a menudo es un mensaje que dice 'préstame atención' o una señal de calma que significa 'estoy un poco tenso, por favor sé amable'. Mirar suavemente y parpadear lentamente es su forma de mostrar confianza y afecto."
+  - name: "Caniche (Canis lupus familiaris / Poodle)'s Body Language & Signals"
+    text: "* Levantar la pata (Paw Raising): Una expresión que busca atención o intenta calmar una leve tensión o ansiedad. (Si lo nota, evite dar órdenes enérgicas. Hable en un tono tranquilo y acaríecielo suavemente.)
 
-* Parpadear suavemente: Una señal de profunda confianza y afecto, que confirma que se sienten seguros con usted. (Cuando crucen miradas, parpadee lentamente para compartir y reforzar esa sensación de paz.)"
+* Parpadear suavemente (Soft Blinking): Una señal de profunda confianza y afecto, que confirma que se sienten seguros con usted. (Cuando crucen miradas, parpadee lentamente para compartir y reforzar esa sensación de paz.)"
   - name: "Customized 3-Step Home Care Routine"
-    text: "* STEP 1. Mañana: Alivio cognitivo con juguetes interactivos: Además de los paseos físicos, use comederos interactivos o alfombras de olfato untuk estimular su mente activa, ayudándoles a canalizar el exceso de energía.
+    text: "* STEP 1. Mañana: Alivio cognitivo con juguetes interactivos: Además de los paseos físicos, use comederos interactivos o alfombras de olfato para estimular su mente activa, ayudándoles a canalizar el exceso de energía.
 
 * STEP 2. Tarde: Control de oídos y masaje suave de limpieza: Coloque 2-3 gotas de limpiador de oídos en el canal, masajee suavemente la base de la oreja y limpie la cera disuelta con un disco de algodón para prevenir la otitis.
 
@@ -27,10 +27,10 @@ faqs:
   - question: "¿Es normal que mi caniche sacuda la cabeza vigorosamente después de la limpieza de oídos?"
     answer: "Sí, es una reacción normal de autolimpieza. Ayuda a expulsar el limpiador con la suciedad del interior del oído. Simplemente limpie la parte exterior de la oreja con cuidado."
   - question: "¿Cómo evito que mi caniche muerda los muebles?"
-    answer: "A menudo muerden por aburrimiento debido a la falta de estimulación mental. En lugar de juguetes masticables comunes, introduzca rompecabezas y juegos interactivos."
+    answer: "A menudo muerden por aburrimiento debido a la falta de estimulación mental. En lugar de juguetes masticables comunes, introduzca rompecabezas y juegos interactivos para cansar su cerebro."
 ---
 
-Los caniches son reconocidos como una de las razas de perros más inteligentes del mundo. Si bien son muy dóciles y sensibles a las emociones de sus dueños, pueden aburrirse y estresarse fácilmente debido a sus mentes activas. 🐩 Además, debido a que sus orejas caídas cubren el canal auditivo, son muy propensos a infecciones de oído crónicas debido a la mala ventilación. Hoy, PetSelf comparte consejos para mantener a su caniche mentalmente estimulado e introduce una rutina de cuidado de 3 pasos para mantener sus oídos limpios y saludables.
+Los caniches son reconocidos como una de las razas de perros más inteligentes del mundo. Si bien son muy dóciles y sensibles a las emociones de sus dueños, pueden aburrirse y estresarse fácilmente debido a sus mentes activas. 🐩 Además, debido a que sus orejas caídas cubren el canal auditivo, son muy propensos a infecciones de oído crónicas (otitis) por la mala ventilación. Hoy, PetSelf comparte consejos para mantener a su caniche mentalmente estimulado e introduce una rutina de cuidado diario de 3 pasos para mantener sus oídos limpios y saludables.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -39,44 +39,44 @@ Los caniches son reconocidos como una de las razas de perros más inteligentes d
       Evidencia Veterinaria y Comportamental
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Este contenido se basa en <strong>Guía oficial de razas del American Kennel Club (AKC) y protocolos de comportamiento de IAABC</strong>.
+      Este contenido se basa en <strong>Guía Oficial de Razas del American Kennel Club (AKC) y Protocolos de Comportamiento de IAABC</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 1. Lenguaje corporal del caniche: distinguir la demanda del estrés
+## 1. Lenguaje corporal del caniche: Distinguir la demanda del estrés
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Lenguaje corporal del caniche: distinguir la demanda del estrés</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Lenguaje corporal del caniche: Distinguir la demanda del estrés</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Debido a su inteligencia, los caniches se comunican activamente mediante el lenguaje corporal. Las señales típicas incluyen 'levantar la pata' y 'parpadear'. Cuando un caniche levanta una pata delantera, parece una petición de un truco, pero a menudo es un mensaje que dice 'préstame atención' o una señal de calma que significa 'estoy un poco tenso, por favor sé amable'. Mirar suavemente y parpadear lentamente es su forma de mostrar confianza y afecto.
+    Debido a su inteligencia, los caniches se comunican activamente mediante el lenguaje corporal. Las señales típicas incluyen 'levantar la pata' (Paw Raising) y 'parpadear suavemente' (Soft Blinking). Cuando un caniche levanta una pata delantera, parece una petición de un truco, pero a menudo es un mensaje que dice 'préstame atención' o una señal de calma que significa 'estoy un poco tenso, por favor sé amable'. Mirar suavemente y parpadear lentamente es su forma de mostrar confianza y afecto.
   </p>
 </div>
 
 ---
 
-## 2. Caniche's Body Language & Signals
+## 2. Caniche (Canis lupus familiaris / Poodle)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Señal Corporal 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Levantar la pata</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Levantar la pata (Paw Raising)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• Significado:</strong> Una expresión que busca atención o intenta calmar una leve tensión o ansiedad.<br/>
-    <strong>• Respuesta:</strong> Si lo nota, evite dar órdenes enérgicas. Hable en un tono tranquilo y acarícielo suavemente.
+    <strong>• Respuesta:</strong> Si lo nota, evite dar órdenes enérgicas. Hable en un tono tranquilo y acaríecielo suavemente.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Señal Corporal 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Parpadear suavemente</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Parpadear suavemente (Soft Blinking)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• Significado:</strong> Una señal de profunda confianza y afecto, que confirma que se sienten seguros con usted.<br/>
@@ -94,7 +94,7 @@ Los caniches son reconocidos como una de las razas de perros más inteligentes d
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Mañana: Alivio cognitivo con juguetes interactivos</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Además de los paseos físicos, use comederos interactivos o alfombras de olfato untuk estimular su mente activa, ayudándoles a canalizar el exceso de energía.
+    Además de los paseos físicos, use comederos interactivos o alfombras de olfato para estimular su mente activa, ayudándoles a canalizar el exceso de energía.
   </p>
 </div>
 
@@ -143,7 +143,7 @@ Los caniches son reconocidos como una de las razas de perros más inteligentes d
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      A menudo muerden por aburrimiento debido a la falta de estimulación mental. En lugar de juguetes masticables comunes, introduzca rompecabezas y juegos interactivos.
+      A menudo muerden por aburrimiento debido a la falta de estimulación mental. En lugar de juguetes masticables comunes, introduzca rompecabezas y juegos interactivos para cansar su cerebro.
     </p>
   </details>
 </div>

@@ -3,7 +3,7 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "시바견의 독립성과 이중모 빗질을 위한 3단계 스킨십 루틴"
 description: "독립적이고 스킨십에 민감한 시바견. 이중모 털빠짐을 예방하는 올바른 브러싱법과 거부감 없는 스킨십 교감을 위한 3단계 루틴을 알아봅니다."
 pubDate: "2026-01-29"
-updatedDate: "2026-01-29"
+updatedDate: "2026-07-26"
 category: "FreshSelf"
 tags: ["반려동물","펫케어","시바견 (Shiba Inu)"]
 heroImage: "/images/blog/shiba_care.png"

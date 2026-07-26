@@ -1,22 +1,22 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "Refúgio seguro e geração de confiança: rotina de 3 passos para o Azul Russo"
-description: "Os Azuis Rusos são tímidos e sensíveis ao ruído. Aprenda a criar uma zona segura sem estresse e uma rotina de 3 passos para ganhar sua confiança."
+title: "Refúgio seguro e geração de confiança: Rotina diária de 3 passos para o Azul Russo"
+description: "Os Azuis Russos são tímidos e sensíveis ao ruído. Aprenda a criar uma zona segura sem estresse e uma rotina de 3 passos para ganhar sua confiança."
 pubDate: "2026-03-26"
 updatedDate: "2026-03-26"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Azul Russo"]
+tags: ["CuidadoPets","SaudePets","Azul Russo (Felis catus / Russian Blue)"]
 heroImage: "/images/blog/russian_blue_care.png"
 app: "petself"
 formatVersion: 4
-authority: "Guia de raças da Cat Fanciers' Association (CFA) e Cornell Feline Health Center"
+authority: "Guia de Raças da Cat Fanciers' Association (CFA) e Cornell Feline Health Center"
 steps:
-  - name: "Linguagem corporal do Azul Russo: leitura dos sinais de pânico"
-    text: "Devido à sua natureza gentil, os Azuis Rusos mostram sinais de alerta em silêncio. Os sinais de pânico principais incluem 'pupilas dilatadas' e 'encolher-se' (crouching). Se houver um ruído ou aproximação de estranho, suas pupilas se dilatam. Se achatar o corpo contra o chão e deitar as orelhas para os lados, está com medo extremo."
-  - name: "Azul Russo's Body Language & Signals"
-    text: "* Pupilas dilatadas: Uma resposta física que indica que estão muito alertas, tensos ou assustados. (Diminua as luzes e interrompa imediatamente a fonte de estimulação (ruído de eletrodomésticos).)
+  - name: "Linguagem corporal do Azul Russo: Leitura dos sinais de pânico"
+    text: "Devido à sua natureza gentil, os Azuis Russos mostram sinais de alerta em silêncio. Os sinais de pânico principais incluem 'pupilas dilatadas' (Dilated Pupils) e 'encolher-se' (Crouching). Se houver um ruído ou aproximação de estranho, suas pupilas se dilatam. Se achatar o corpo contra o chão e deitar as orelhas para os lados, está com medo extremo."
+  - name: "Azul Russo (Felis catus / Russian Blue)'s Body Language & Signals"
+    text: "* Pupilas dilatadas (Dilated Pupils): Uma resposta física que indica que estão muito alertas, tensos ou assustados. (Diminua as luzes e interrompa imediatamente a fonte de estimulação (ruído de eletrodomésticos).)
 
-* Encolher-se: Um sinal de pânico defensivo, mostrando que se sentem encurralados ou aterrorizados. (Não o force ao contato físico. Permita-lhe retirar-se para um quarto ou armário silencioso.)"
+* Encolher-se (Crouching): Um sinal de pânico defensivo, mostrando que se sentem encurralados ou aterrorizados. (Não o force ao contato físico. Permita-lhe retirar-se para um quarto ou armário silencioso.)"
   - name: "Customized 3-Step Home Care Routine"
     text: "* STEP 1. Manhã: Rotina de segurança no caixote de areia e comedouro: Limpe o caixote de areia cedo. Certifique-se de que os pratos de comida e água estejam em um canto silencioso longe da passagem.
 
@@ -30,7 +30,7 @@ faqs:
     answer: "Abaixe o corpo e evite o contato visual direto, o qual os felinos veem como ameaça. Deixe-o cheirar seu dedo primeiro e recompense a aproximação com petiscos."
 ---
 
-Os Azuis Rusos são felinos conhecidos por sua pelagem azul prateada e olhos verdes. Embora silenciosos e leais à sua família, são geneticamente tímidos e sensíveis a ruídos fortes. 🐱 É por isso que se escondem rapidamente quando há visitas ou soa o aspirador. Forçá-los a sair causa pânico. Hoje, o PetSelf detalha como criar um espaço seguro com uma rotina de 3 passos.
+Os Azuis Russos são felinos conhecidos por sua pelagem azul prateada e olhos verdes. Embora silenciosos e leais à sua família, são geneticamente tímidos e sensíveis a ruídos fortes. 🐱 É por isso que se escondem rapidamente quando há visitas ou soa o aspirador. Forçá-los a sair causa pânico. Hoje, o PetSelf detalha como criar um espaço seguro com uma rotina de 3 passos.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -39,33 +39,33 @@ Os Azuis Rusos são felinos conhecidos por sua pelagem azul prateada e olhos ver
       Evidência Veterinária e Comportamental
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Este conteúdo baseia-se em <strong>Guia de raças da Cat Fanciers' Association (CFA) e Cornell Feline Health Center</strong>.
+      Este conteúdo baseia-se em <strong>Guia de Raças da Cat Fanciers' Association (CFA) e Cornell Feline Health Center</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 1. Linguagem corporal do Azul Russo: leitura dos sinais de pânico
+## 1. Linguagem corporal do Azul Russo: Leitura dos sinais de pânico
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Linguagem corporal do Azul Russo: leitura dos sinais de pânico</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Linguagem corporal do Azul Russo: Leitura dos sinais de pânico</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Devido à sua natureza gentil, os Azuis Rusos mostram sinais de alerta em silêncio. Os sinais de pânico principais incluem 'pupilas dilatadas' e 'encolher-se' (crouching). Se houver um ruído ou aproximação de estranho, suas pupilas se dilatam. Se achatar o corpo contra o chão e deitar as orelhas para os lados, está com medo extremo.
+    Devido à sua natureza gentil, os Azuis Russos mostram sinais de alerta em silêncio. Os sinais de pânico principais incluem 'pupilas dilatadas' (Dilated Pupils) e 'encolher-se' (Crouching). Se houver um ruído ou aproximação de estranho, suas pupilas se dilatam. Se achatar o corpo contra o chão e deitar as orelhas para os lados, está com medo extremo.
   </p>
 </div>
 
 ---
 
-## 2. Azul Russo's Body Language & Signals
+## 2. Azul Russo (Felis catus / Russian Blue)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Sinal Corporal 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pupilas dilatadas</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pupilas dilatadas (Dilated Pupils)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• Significado:</strong> Uma resposta física que indica que estão muito alertas, tensos ou assustados.<br/>
@@ -76,7 +76,7 @@ Os Azuis Rusos são felinos conhecidos por sua pelagem azul prateada e olhos ver
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Sinal Corporal 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Encolher-se</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Encolher-se (Crouching)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• Significado:</strong> Um sinal de pânico defensivo, mostrando que se sentem encurralados ou aterrorizados.<br/>

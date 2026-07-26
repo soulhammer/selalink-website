@@ -8,7 +8,7 @@
         "description": "사교적이고 머리 벼슬(우관)이 매력적인 왕관앵무. 밤에 깜짝 놀라는 나이트 파닉(Night Fright) 예방과 깃털 긁기 시그널 해독, 맞춤형 3단계 데일리 케어 루틴을 소개합니다.",
         "authority": "Association of Avian Veterinarians (AAV) & Avian Behavior Advisory Standards",
         "profile": {
-          "breed": "왕관앵무 (Cockatiel)",
+          "breed": "왕관앵무 (Nymphicus hollandicus / Cockatiel)",
           "lifespan": "15 ~ 20년",
           "sleep_pattern": "10 ~ 12시간 (규칙적인 암막 조용 수면 필수)",
           "temperament": "사교적임, 호기심 다분, 음률 애호, 예민함"
@@ -65,7 +65,7 @@
         "description": "Comprehensive care guide for the crested Cockatiel. Learn to decode crest body language, prevent nocturnal night frights, and master a 3-step daily routine recommended by AAV.",
         "authority": "Association of Avian Veterinarians (AAV) & Avian Behavior Advisory Standards",
         "profile": {
-          "breed": "Cockatiel",
+          "breed": "Cockatiel (Nymphicus hollandicus)",
           "lifespan": "15 - 20 Years",
           "sleep_pattern": "10 - 12 Hours (Requires Strict Dark & Quiet Sleep)",
           "temperament": "Highly Social, Curious, Melodic, Environmentally Sensitive"
@@ -122,7 +122,7 @@
         "description": "愛くるしい冠羽を持つオカメインコ。夜間のパニック（ナイトフライト）予防と冠羽の感情解読、AAV基準に準拠した3ステップルーチンを解説します。",
         "authority": "鳥類獣医師協会 (AAV) および行動学アドバイザリー基準",
         "profile": {
-          "breed": "オカメインコ (Cockatiel)",
+          "breed": "オカメインコ (Nymphicus hollandicus / Cockatiel)",
           "lifespan": "15 - 20年",
           "sleep_pattern": "10 - 12時間 (暗く静かな規則正しい睡眠が必須)",
           "temperament": "社交的、好奇心旺盛、メロディ好き、繊細"
@@ -134,11 +134,11 @@
           {
             "name": "冠羽をピンと垂直に立てる (Fully Erect Crest)",
             "meaning": "周囲の新しい音や物体に強い好奇心を感じているか、緊張して警戒している状態を示します。",
-            "response": "急に手を伸びさず、優しく穏やかな声で話しかけ、インコ自身が状況を安全だと判断するのを待ちます。"
+            "response": "急に手を伸ばさず、優しく穏やかな声で話しかけ、インコ自身が状況を安全だと判断するのを待ちます。"
           },
           {
             "name": "頭を低く下げて首を差し出す (Head Lowering for Scratches)",
-            "meaning": "飼い主を深く信頼しており、頭やほっぺの周り（冠羽の root）をカキカキしてほしいという愛情表現です。",
+            "meaning": "飼い主を深く信頼しており、頭やほっぺの周り（冠羽の根元）をカキカキしてほしいという愛情表現です。",
             "response": "指先で毛並みと逆方向に、ほっぺのオレンジ色の羽周辺を優しく撫でてあげましょう。"
           }
         ],
@@ -163,7 +163,7 @@
           },
           {
             "question": "オカメインコの白い粉（脂粉）がたくさん飛ぶのは正常ですか？",
-            "answer": "はい、オカメインコは羽を保護するための脂粉（Powder Down）を自然に分泌する me 種です。空気清浄機を稼働させ、週に2 - 3回霧吹きで水浴びをさせてあげると脂粉の飛び散りを抑えられます。"
+            "answer": "はい、オカメインコは羽を保護するための脂粉（Powder Down）を自然に分泌する犬種・鳥種です。空気清浄機を稼働させ、週に2 - 3回霧吹きで水浴びをさせてあげると脂粉の飛び散りを抑えられます。"
           }
         ],
         "tags": [
@@ -175,16 +175,16 @@
         ]
       },
       "zh": {
-        "title": "玄凤鹦鹉冠羽情绪语言与预防夜惊 responses 3步日常护理",
+        "title": "玄凤鹦鹉冠羽情绪语言与预防夜惊的3步日常护理",
         "description": "全方位玄凤鹦鹉（Cockatiel）护理指南。解析冠羽肢体语言，科学预防夜间暴冲惊厥（Night Fright），建立AAV标准的3步日常流程。",
         "authority": "国际鸟类兽医协会 (AAV) 行为护理标准",
         "profile": {
-          "breed": "玄凤鹦鹉 (Cockatiel)",
+          "breed": "玄凤鹦鹉 (Nymphicus hollandicus / Cockatiel)",
           "lifespan": "15 - 20年",
           "sleep_pattern": "10 - 12小时 (需要定时遮光安静睡眠)",
           "temperament": "社交性强、好歌唱、温和、环境敏感"
         },
-        "intro": "拥有鲜艳红腮和优雅头顶冠羽的玄凤鹦鹉（Cockatiel）是全球最受喜爱的伴侣鸟之一。它们能与主人建立深厚的情感联结并喜爱吹笛模仿歌曲，但野外被捕食者的本能使其在夜间极易因微弱光影或异响发生扑腾撞笼的‘夜惊’（Night Fright）。遵照AAV国际兽医标准，本文将详细拆解其情绪信号与日常护理 key。",
+        "intro": "拥有鲜艳红腮和优雅头顶冠羽的玄凤鹦鹉（Cockatiel）是全球最受喜爱的伴侣鸟之一。它们能与主人建立深厚的情感联结并喜爱吹笛模仿歌曲，但野外被捕食者的本能使其在夜间极易因微弱光影或异响发生扑腾撞笼的‘夜惊’（Night Fright）。遵照AAV国际兽医标准，本文将详细拆解其情绪信号与日常护理要点。",
         "whyTitle": "玄凤鹦鹉的情绪语言：冠羽形态与低头求摸解密",
         "whyDesc": "玄凤鹦鹉头顶的冠羽是其心理状态的晴雨表。完全紧贴头骨与直立竖起代表着截然不同的情绪，而主动低头伸长脖子则是对主人表达极度信任的专属姿态。",
         "body_signals": [
@@ -236,7 +236,7 @@
         "description": "Guía completa de cuidado para la ninfa (Cockatiel). Descifra su lenguaje corporal, previene sustos nocturnos y aplica la rutina diaria avalada por la AAV.",
         "authority": "Asociación de Veterinarios de Aves (AAV) & Normas de Comportamiento Aviar",
         "profile": {
-          "breed": "Ninfa / Carolina (Cockatiel)",
+          "breed": "Ninfa / Carolina (Nymphicus hollandicus / Cockatiel)",
           "lifespan": "15 - 20 años",
           "sleep_pattern": "10 - 12 horas (Sueño estricto en oscuridad y silencio)",
           "temperament": "Muy sociable, curiosa, melódica, sensible"
@@ -251,7 +251,7 @@
             "response": "Evita movimientos bruscos. Háblale con voz suave y permite que evalúe su entorno con calma."
           },
           {
-            "name": "Cabeza Agachada y Cuello Extendido (Head Lowering)",
+            "name": "Cabeza Agachada y Cuello Extendido (Head Lowering for Scratches)",
             "meaning": "Muestra de gran confianza solicitando rascados en la nuca y las mejillas.",
             "response": "Rasca suavemente la zona de la cresta y mejillas a contrapelo con la yema del dedo."
           }
@@ -293,13 +293,13 @@
         "description": "Guide complet pour la Calopsitte élégante. Décodez la huppe, prévenez les frayeurs nocturnes et suivez la routine recommandée par l'AAV.",
         "authority": "Association of Avian Veterinarians (AAV) & Normes de Comportement Aviaire",
         "profile": {
-          "breed": "Calopsitte Élégante (Cockatiel)",
+          "breed": "Calopsitte Élégante (Nymphicus hollandicus / Cockatiel)",
           "lifespan": "15 - 20 ans",
-          "sleep_pattern": "10 - 12 heures (Sommeil obscur et calme exige)",
+          "sleep_pattern": "10 - 12 heures (Sommeil obscur et calme exigé)",
           "temperament": "Très sociable, curieuse, mélodieuse, sensible"
         },
         "intro": "Reconnue pour ses joues oranges et sa huppe expressive, la Calopsitte est un oiseau de compagnie très affectueux. Elle développe un lien fort avec son humain mais reste sujette aux frayeurs nocturnes (Night Frights). Suivez les normes de l'AAV pour la décoder et la protéger.",
-        "whyTitle": "Communication de la Calopsitte: Signification de la Huppe et Demand de Gratouilles",
+        "whyTitle": "Communication de la Calopsitte: Signification de la Huppe et Demande de Gratouilles",
         "whyDesc": "La huppe est une véritable antenne émotionnelle. Dressée verticalement, elle traduit l'alerte; penchée en avant avec la tête baissée, elle demande de l'affection.",
         "body_signals": [
           {
@@ -308,8 +308,8 @@
             "response": "Parlez doucement et évitez les gestes brusques pour la rassurer."
           },
           {
-            "name": "Tête Baissée vers l'Avant (Head Lowering)",
-            "meaning": "Marque de confiance totale sollicitant des gratouilles sur les joues et la nappe de la huppe.",
+            "name": "Tête Baissée vers l'Avant (Head Lowering for Scratches)",
+            "meaning": "Marque de confiance totale sollicitant des gratouilles sur les joues et la base de la huppe.",
             "response": "Grattez doucement la base de la huppe à rebrousse-poil."
           }
         ],
@@ -350,14 +350,14 @@
         "description": "Pflegeanleitung für Nymphensittiche. Haubensprache verstehen, Night Frights vermeiden und eine 3-Schritte-Routine nach AAV-Standards etablieren.",
         "authority": "Association of Avian Veterinarians (AAV) & Verhaltensempfehlungen",
         "profile": {
-          "breed": "Nymphensittich (Cockatiel)",
+          "breed": "Nymphensittich (Nymphicus hollandicus / Cockatiel)",
           "lifespan": "15 - 20 Jahre",
           "sleep_pattern": "10 - 12 Stunden (Dunkle und ruhige Nachtruhe)",
           "temperament": "Gesellig, neugierig, melodisch, sensibel"
         },
         "intro": "Der Nymphensittich mit seinen roten Bäckchen und der eleganten Haube gehört zu den beliebtesten Heimvögeln. Trotz ihrer Verschmustheit neigen sie wegen ihres Fluchtinstinkts zu nächtlicher Panik ('Night Frights'). Gemäß AAV-Standards lernen Sie hier ihre Sprache kennen. Die Bereitstellung einer konsistenten täglichen Gesundheitspflege und einer sicheren Umgebung sichert das Wohlbefinden Ihres Haustieres.",
         "whyTitle": "Kommunikation des Nymphensittichs: Die Sprache der Haube",
-        "whyDesc": "Die Haube verrät die Stimmung des Vogels. Steht sie steil aufgerichtet, ist er wachsam; neigt er den Kopf, fordert er Kraulneinheiten ein.",
+        "whyDesc": "Die Haube verrät die Stimmung des Vogels. Steht sie steil aufgerichtet, ist er wachsam; neigt er den Kopf, fordert er Krauleinheiten ein.",
         "body_signals": [
           {
             "name": "Steil Aufgerichtete Haube (Fully Erect Crest)",
@@ -365,7 +365,7 @@
             "response": "Ruhig sprechen und keine hastigen Bewegungen machen, bis sich der Vogel beruhigt hat."
           },
           {
-            "name": "Gesenkter Kopf und Vorgebeugter Nacken (Head Lowering)",
+            "name": "Gesenkter Kopf und Vorgebeugter Nacken (Head Lowering for Scratches)",
             "meaning": "Großes Vertrauen und die Bitte um Kraulen an den Wangen und am Hinterkopf.",
             "response": "Sanft entgegen der Federrichtung an den Wangenfedern kraulen."
           }
@@ -407,7 +407,7 @@
         "description": "Guia completo de cuidados para Calopsita. Entenda a linguagem da crista, previna o pânico noturno e siga uma rotina recomendada pela AAV.",
         "authority": "Associação de Veterinários de Aves (AAV) & Padrões Comportamentais",
         "profile": {
-          "breed": "Calopsita (Cockatiel)",
+          "breed": "Calopsita (Nymphicus hollandicus / Cockatiel)",
           "lifespan": "15 - 20 anos",
           "sleep_pattern": "10 - 12 horas (Sono escuro e tranquilo obrigatório)",
           "temperament": "Muito sociável, curiosa, melódica, sensível"
@@ -422,7 +422,7 @@
             "response": "Fale com voz calma e evite aproximações bruscas com as mãos."
           },
           {
-            "name": "Cabeça Abaixada e Pescoço Estendido (Head Lowering)",
+            "name": "Cabeça Abaixada e Pescoço Estendido (Head Lowering for Scratches)",
             "meaning": "Demonstração de profunda confiança pedindo carinho nas bochechas e nuca.",
             "response": "Coce suavemente as penas da bochecha e base da crista no sentido oposto às penas."
           }
@@ -464,7 +464,7 @@
         "description": "Panduan lengkap merawat burung Cockatiel (Parkit Australia). Pahami bahasa tubuh jambul, cegah panik malam (Night Fright), dan terapkan rutinitas AAV.",
         "authority": "Association of Avian Veterinarians (AAV) & Standar Perilaku Burung",
         "profile": {
-          "breed": "Cockatiel (Parkit Australia)",
+          "breed": "Cockatiel / Parkit Australia (Nymphicus hollandicus)",
           "lifespan": "15 - 20 Tahun",
           "sleep_pattern": "10 - 12 Jam (Butuh Gelap & Tenang)",
           "temperament": "Sangat Sosial, Ingin Tahu, Melodis, Sensitif"
@@ -479,14 +479,14 @@
             "response": "Bicara dengan nada lembut dan hindari gerakan mendadak agar burung merasa aman."
           },
           {
-            "name": "Menundukkan Kepala & Menjulurkan Leher (Head Lowering)",
+            "name": "Menundukkan Kepala & Menjulurkan Leher (Head Lowering for Scratches)",
             "meaning": "Tanda kepercayaan mendalam dan meminta elusan di area pipi serta pangkal jambul.",
             "response": "Usap lembut bulu di sekitar pipi oranye dan pangkal jambul berlawanan arah bulu."
           }
         ],
         "daily_routine": [
           {
-            "name": "Pagi: Ventilasi Udara, Inspeção Bulu & Pelet Segar",
+            "name": "Pagi: Ventilasi Udara, Inspeksi Bulu & Pelet Segar",
             "text": "Buka penutup kandang, ganti air bersih dan pelet nutrisi, lalu amati kelincahan terbangnya."
           },
           {

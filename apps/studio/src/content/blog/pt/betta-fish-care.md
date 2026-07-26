@@ -1,36 +1,36 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "Sinais de Flaring do Peixe Betta e Rotina em 3 Passos Para Nadadeiras Saudáveis"
-description: "Guia completo de cuidados para o Peixe Betta. Entenda o comportamento de abertura de nadadeiras, respiração por labirinto e rotina WSAVA."
+title: "Guia de sinais territoriais de Flaring no Peixe Betta e rotina de 3 passos para preservar as nadadeiras"
+description: "Cuidados com o Peixe Betta de nadadeiras exuberantes. Entenda as exibições de Flaring por estresse, o controle do fluxo de água e a respiração pelo órgão labirinto."
 pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Peixe Betta (Lutador do Sião)"]
+tags: ["CuidadoPets","SaudePets","Peixe Betta (Betta splendens / Peixe de Briga Siamês)"]
 heroImage: "/images/blog/betta_fish_care.png"
 app: "petself"
 formatVersion: 4
-authority: "Associação Mundial de Veterinários de Pequenos Animais (WSAVA)"
+authority: "Diretrizes de Saúde de Animais Aquáticos da Associação Mundial de Veterinários de Pequenos Animais (WSAVA) e Padrões Clínicos para Peixes Ornamentais"
 steps:
-  - name: "Comunicação do Betta: Flaring e Descanso na Superfície"
-    text: "Abrir as guelras e nadadeiras (Flaring) é um sinal territorial. Exercícios diários curtos de 5 minutos ajudam a evitar a fusão das nadadeiras."
-  - name: "Peixe Betta (Lutador do Sião)'s Body Language & Signals"
-    text: "* Abertura de Guelras e Nadadeiras (Flaring): Agressão ou defesa territorial diante do espelho no vidro. (Remova espelhos para evitar estresse constante superior a 5 minutos.)
+  - name: "Comunicação do Betta: Abertura de guelras (Flaring) e descanso na superfície"
+    text: "Abrir os opérculos das guelras e expandir totalmente as nadadeiras — o chamado 'Flaring' — é um forte sinal de alerta territorial e excitação. Exercícios moderados de 5 minutos diários ajudam a exercitar as nadadeiras, mas o Flaring constante reduz a imunidade."
+  - name: "Peixe Betta (Betta splendens / Peixe de Briga Siamês)'s Body Language & Signals"
+    text: "* Guelras abertas e nadadeiras totalmente expandidas (Flaring): Alerta de invasão territorial ou manifestação de agressividade e estresse desencadeada pelo próprio reflexo no vidro. (Remova espelhos ou objetos reflexivos próximos ao aquário para garantir que o evento não passe de 5 minutos.)
 
-* Deitado em Folhas Perto da Superfície (Labyrinth Resting): Sono natural permitindo respirar ar facilmente. (Diminua as luzes e garanta que o filtro tenha fluxo fraco.)"
+* Deitado imóvel sobre folhas perto da superfície (Labyrinth Resting): Comportamento normal de repouso para aliviar o peso das nadadeiras enquanto respira pelo órgão labirinto durante o sono profundo. (Não é doença; reduza a iluminação e ajuste o filtro de esponja para evitar correntes de água fortes.)"
   - name: "Customized 3-Step Home Care Routine"
-    text: "* STEP 1. Manhã: Controle de Temperatura (24°C ~ 26°C) e Fluxo: Verifique o aquecedor e a vazão suave do filtro de esponja.
+    text: "* STEP 1. Manhã: Verificação de temperatura (24°C ~ 26°C) e do fluxo suave de água: Confira o termômetro para verificar o aquecedor e garanta que não haja correntes fortes que dificultem o nado do Betta.
 
-* STEP 2. Tarde: Ração Específica e Remoção de Sobras: Alimente com 3 - 4 grãos de ração para Betta e retire as sobras.
+* STEP 2. Tarde: Alimentação fracionada com ração específica e remoção de sobras: Forneça de 3 a 4 grãos de ração específica rica em proteínas e remova as sobras com um conta-gotas em até 5 minutos.
 
-* STEP 3. Noite: Observação de Ninho de Bolhas e Exercício: Mostre um espelho por 3 - 5 minutos para exercitar as nadadeiras."
+* STEP 3. Noite: Observação do ninho de bolhas (Bubble Nest) e 5 minutos de exercício de Flaring: Examine a estrutura do ninho de bolhas na superfície e aproxime um espelho por 3 a 5 minutos para exercitar a musculatura das nadadeiras e evitar fusões."
 faqs:
-  - question: "O que fazer se as pontas das nadadeiras estiverem rasgadas ou pretas?"
-    answer: "Isso é sintoma de podridão das nadadeiras (Fin Rot). Faça trocas parciais de água de 25%."
-  - question: "Posso criar o Betta em um aquário pequeno sem filtro?"
-    answer: "Embora respirem ar, aquários sem filtro acumulam amônia rapidamente. Recomenda-se um aquário de pelo menos 15 litros com filtro."
+  - question: "Por que as pontas das nadadeiras estão desfiadas e ficando escuras?"
+    answer: "Este é um sintoma clássico da podridão das nadadeiras (Fin Rot), causada por poluição da água (filtragem inadequada) ou estresse. Faça trocas parciais de água frequentes (20 ~ 30%) e aplique medicamentos veterinários se necessário."
+  - question: "Posso manter meu Betta em um aquário pequeno sem filtro?"
+    answer: "Embora os Bettas consigam respirar o ar atmosférico, aquários pequenos sem filtro não desenvolvem bactérias nitrificantes e a água se deteriora rapidamente. Recomenda-se um aquário de pelo menos 15 litros com filtro de esponja de fluxo suave."
 ---
 
-Famoso por suas nadadeiras exuberantes, o Betta possui um órgão labirinto para respirar ar atmosférico. Conforme a WSAVA, mantenha água morna (24°C ~ 26°C), fluxo suave e folhas de descanso. Oferecer cuidados de saúde diários constantes e um ambiente seguro garante o bem-estar a longo prazo do seu animal.
+Com nadadeiras deslumbrantes que se abrem como um vestido e um nado elegante, o peixe Betta é uma verdadeira joia entre os peixes ornamentais. De acordo com as diretrizes de bem-estar aquático da Associação Mundial de Veterinários de Pequenos Animais (WSAVA), os Bettas possuem o 'órgão labirinto', que lhes permite respirar o oxigênio do ar diretamente na superfície, tornando indispensáveis as plantas ou camas de folhas para descanso. Manter fluxos de água suaves e uma temperatura estável (24°C ~ 26°C) é crucial para prevenir a podridão das nadadeiras (Fin Rot).
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -39,48 +39,48 @@ Famoso por suas nadadeiras exuberantes, o Betta possui um órgão labirinto para
       Evidência Veterinária e Comportamental
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Este conteúdo baseia-se em <strong>Associação Mundial de Veterinários de Pequenos Animais (WSAVA)</strong>.
+      Este conteúdo baseia-se em <strong>Diretrizes de Saúde de Animais Aquáticos da Associação Mundial de Veterinários de Pequenos Animais (WSAVA) e Padrões Clínicos para Peixes Ornamentais</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 1. Comunicação do Betta: Flaring e Descanso na Superfície
+## 1. Comunicação do Betta: Abertura de guelras (Flaring) e descanso na superfície
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Comunicação do Betta: Flaring e Descanso na Superfície</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Comunicação do Betta: Abertura de guelras (Flaring) e descanso na superfície</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Abrir as guelras e nadadeiras (Flaring) é um sinal territorial. Exercícios diários curtos de 5 minutos ajudam a evitar a fusão das nadadeiras.
+    Abrir os opérculos das guelras e expandir totalmente as nadadeiras — o chamado 'Flaring' — é um forte sinal de alerta territorial e excitação. Exercícios moderados de 5 minutos diários ajudam a exercitar as nadadeiras, mas o Flaring constante reduz a imunidade.
   </p>
 </div>
 
 ---
 
-## 2. Peixe Betta (Lutador do Sião)'s Body Language & Signals
+## 2. Peixe Betta (Betta splendens / Peixe de Briga Siamês)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Sinal Corporal 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Abertura de Guelras e Nadadeiras (Flaring)</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Guelras abertas e nadadeiras totalmente expandidas (Flaring)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Significado:</strong> Agressão ou defesa territorial diante do espelho no vidro.<br/>
-    <strong>• Resposta:</strong> Remova espelhos para evitar estresse constante superior a 5 minutos.
+    <strong>• Significado:</strong> Alerta de invasão territorial ou manifestação de agressividade e estresse desencadeada pelo próprio reflexo no vidro.<br/>
+    <strong>• Resposta:</strong> Remova espelhos ou objetos reflexivos próximos ao aquário para garantir que o evento não passe de 5 minutos.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Sinal Corporal 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Deitado em Folhas Perto da Superfície (Labyrinth Resting)</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Deitado imóvel sobre folhas perto da superfície (Labyrinth Resting)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Significado:</strong> Sono natural permitindo respirar ar facilmente.<br/>
-    <strong>• Resposta:</strong> Diminua as luzes e garanta que o filtro tenha fluxo fraco.
+    <strong>• Significado:</strong> Comportamento normal de repouso para aliviar o peso das nadadeiras enquanto respira pelo órgão labirinto durante o sono profundo.<br/>
+    <strong>• Resposta:</strong> Não é doença; reduza a iluminação e ajuste o filtro de esponja para evitar correntes de água fortes.
   </p>
 </div>
 
@@ -91,30 +91,30 @@ Famoso por suas nadadeiras exuberantes, o Betta possui um órgão labirinto para
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Manhã: Controle de Temperatura (24°C ~ 26°C) e Fluxo</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Manhã: Verificação de temperatura (24°C ~ 26°C) e do fluxo suave de água</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Verifique o aquecedor e a vazão suave do filtro de esponja.
+    Confira o termômetro para verificar o aquecedor e garanta que não haja correntes fortes que dificultem o nado do Betta.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: Ração Específica e Remoção de Sobras</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: Alimentação fracionada com ração específica e remoção de sobras</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Alimente com 3 - 4 grãos de ração para Betta e retire as sobras.
+    Forneça de 3 a 4 grãos de ração específica rica em proteínas e remova as sobras com um conta-gotas em até 5 minutos.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noite: Observação de Ninho de Bolhas e Exercício</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noite: Observação do ninho de bolhas (Bubble Nest) e 5 minutos de exercício de Flaring</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Mostre um espelho por 3 - 5 minutos para exercitar as nadadeiras.
+    Examine a estrutura do ninho de bolhas na superfície e aproxime um espelho por 3 a 5 minutos para exercitar a musculatura das nadadeiras e evitar fusões.
   </p>
 </div>
 
@@ -129,21 +129,21 @@ Famoso por suas nadadeiras exuberantes, o Betta possui um órgão labirinto para
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>O que fazer se as pontas das nadadeiras estiverem rasgadas ou pretas?</span>
+      <span>Por que as pontas das nadadeiras estão desfiadas e ficando escuras?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Isso é sintoma de podridão das nadadeiras (Fin Rot). Faça trocas parciais de água de 25%.
+      Este é um sintoma clássico da podridão das nadadeiras (Fin Rot), causada por poluição da água (filtragem inadequada) ou estresse. Faça trocas parciais de água frequentes (20 ~ 30%) e aplique medicamentos veterinários se necessário.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Posso criar o Betta em um aquário pequeno sem filtro?</span>
+      <span>Posso manter meu Betta em um aquário pequeno sem filtro?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Embora respirem ar, aquários sem filtro acumulam amônia rapidamente. Recomenda-se um aquário de pelo menos 15 litros com filtro.
+      Embora os Bettas consigam respirar o ar atmosférico, aquários pequenos sem filtro não desenvolvem bactérias nitrificantes e a água se deteriora rapidamente. Recomenda-se um aquário de pelo menos 15 litros com filtro de esponja de fluxo suave.
     </p>
   </details>
 </div>

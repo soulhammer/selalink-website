@@ -5,15 +5,15 @@ description: "Cuidado del hámster sirio (dorado), solitario y nocturno. Conozca
 pubDate: "2026-01-21"
 updatedDate: "2026-01-21"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Hámster Sirio (Golden Hamster)"]
+tags: ["CuidadoMascotas","SaludMascotas","Hámster Sirio / Dorado (Mesocricetus auratus)"]
 heroImage: "/images/blog/golden_hamster_care.png"
 app: "petself"
 formatVersion: 4
 authority: "Guía de Cuidado de Hámsters de la Humane Society y Protocolos de Conducta Veterinaria"
 steps:
-  - name: "Comunicación del hámster sirio: castañeo de dientes y señales de vigilancia"
-    text: "Los hámsters sirios expresan enojo o miedo haciendo un sonido distintivo de castañeo de dientes, advirtiéndole que se mantenga alejado. Además, cuando se sobresaltan por ruidos repentinos, muestran un comportamiento de aplanar las orejas y se congelan. Reconocer estas delicadas señales de lenguaje corporal es la clave para mantener su comodidad."
-  - name: "Hámster Sirio (Golden Hamster)'s Body Language & Signals"
+  - name: "Comunicación del hámster sirio: Castañeo de dientes y señales de vigilancia"
+    text: "Los hámsters sirios expresan enojo o miedo haciendo un sonido distintivo de castañeo de dientes (Teeth Chattering), advirtiéndole que se mantenga alejado. Además, cuando se sobresaltan por ruidos repentinos, muestran un comportamiento de aplanar las orejas y congelarse (Ear Flattening). Reconocer estas delicadas señales de lenguaje corporal es la clave para mantener su comodidad."
+  - name: "Hámster Sirio / Dorado (Mesocricetus auratus)'s Body Language & Signals"
     text: "* Castañeo de dientes (Teeth Chattering): Una advertencia firme de que se sienten amenazados o extremadamente sensibles. No se acerque. (Detenga inmediatamente la manipulación o la limpieza, y dele un espacio tranquilo para calmarse en su escondite.)
 
 * Orejas aplanadas y congelamiento (Ear Flattening): Un estado de alta tensión y precaución, provocado por vibraciones repentinas o estímulos visuales desconocidos. (Evite ruidos fuertes o movimientos bruscos cerca, y atenúe las luces para mantener la habitación oscura y acogedora.)"
@@ -46,21 +46,21 @@ El pequeño y adorable hámster sirio o dorado es una de las mascotas solitarias
 
 ---
 
-## 1. Comunicación del hámster sirio: castañeo de dientes y señales de vigilancia
+## 1. Comunicación del hámster sirio: Castañeo de dientes y señales de vigilancia
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Comunicación del hámster sirio: castañeo de dientes y señales de vigilancia</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Comunicación del hámster sirio: Castañeo de dientes y señales de vigilancia</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Los hámsters sirios expresan enojo o miedo haciendo un sonido distintivo de castañeo de dientes, advirtiéndole que se mantenga alejado. Además, cuando se sobresaltan por ruidos repentinos, muestran un comportamiento de aplanar las orejas y se congelan. Reconocer estas delicadas señales de lenguaje corporal es la clave para mantener su comodidad.
+    Los hámsters sirios expresan enojo o miedo haciendo un sonido distintivo de castañeo de dientes (Teeth Chattering), advirtiéndole que se mantenga alejado. Además, cuando se sobresaltan por ruidos repentinos, muestran un comportamiento de aplanar las orejas y congelarse (Ear Flattening). Reconocer estas delicadas señales de lenguaje corporal es la clave para mantener su comodidad.
   </p>
 </div>
 
 ---
 
-## 2. Hámster Sirio (Golden Hamster)'s Body Language & Signals
+## 2. Hámster Sirio / Dorado (Mesocricetus auratus)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

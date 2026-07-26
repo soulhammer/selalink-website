@@ -5,32 +5,32 @@ description: "Guia completo de cuidados para o coelho Holland Lop. Previna otite
 pubDate: "2026-07-15"
 updatedDate: "2026-07-15"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Coelho Holland Lop (Holland Lop)"]
+tags: ["CuidadoPets","SaudePets","Coelho Holland Lop (Oryctolagus cuniculus)"]
 heroImage: "/images/blog/holland_lop_care.png"
 app: "petself"
 formatVersion: 4
-authority: "House Rabbit Society (HRS) & AEMV Normas de Coelhos"
+authority: "Diretrizes da House Rabbit Society (HRS) e Padrões Veterinários da AEMV"
 steps:
   - name: "Comunicação do Holland Lop: A Dança Binky e as Batidas de Pata"
-    text: "O 'Binky' (salto giratório no ar) é a expressão máxima de felicidade. Batidas fortes com as patas traseiras indicam alerta ou insatisfação."
-  - name: "Coelho Holland Lop (Holland Lop)'s Body Language & Signals"
-    text: "* Salto e Giro no Ar (Binky Dance): Expressão de pura alegria e segurança total no ambiente. (Ofereça espaço com tapete antiderrapante.)
+    text: "Os coelhos expressam suas emoções por meio de movimentos corporais. O salto com torção no ar conhecido como 'Binky' é a expressão máxima de felicidade. Batidas fortes com as patas traseiras (Thumping) indicam alerta ou insatisfação."
+  - name: "Coelho Holland Lop (Oryctolagus cuniculus)'s Body Language & Signals"
+    text: "* Salto e Giro no Ar (Binky Dance): Expressão de pura alegria, entusiasmo e segurança total no ambiente e com o tutor. (Ofereça espaço com tapete antiderrapante para que ele possa correr e pular com segurança.)
 
-* Batida Forte com Pata Traseira (Thumping): Sinal de alerta diante de barulhos ou insatisfação. (Acalme o coelho falando baixinho e suave.)"
+* Batida Forte com Pata Traseira (Thumping): Sinal de alerta diante de barulhos assustadores, cheiros estranhos ou insatisfação. (Identifique o fator de estresse e acalme o coelho falando baixinho com voz suave.)"
   - name: "Customized 3-Step Home Care Routine"
-    text: "* STEP 1. Manhã: Feno Timothy Ilimitado e Água Fresca: Encha o porta-feno com feno Timothy fresco de 1º corte.
+    text: "* STEP 1. Manhã: Feno Timothy Ilimitado e Água Fresca: Encha o porta-feno com feno Timothy fresco de 1º corte para manter a motilidade intestinal e o desgaste dentário.
 
-* STEP 2. Tarde: Inspeção de Orelhas Caídas e Descanso: Levante suavemente as orelhas para checar se há vermelhidão.
+* STEP 2. Tarde: Inspeção de Orelhas Caídas e Descanso: Levante suavemente as orelhas para checar se há vermelhidão ou secreções e garanta um descanso tranquilo.
 
-* STEP 3. Noite: Exercício em Túneis e Escovação: Deixe-o correr no recinto e escove a pelagem contra bolas de pelo."
+* STEP 3. Noite: Exercício em Túneis e Escovação: Deixe-o correr no recinto e escove a pelagem para evitar a formação de bolas de pelo."
 faqs:
   - question: "O que fazer se o coelho parar de comer e defecar?"
-    answer: "Isso é Estase Gastrointestinal (GI Stasis), uma emergência médica vital em 12h. Leve imediatamente a um veterinário de exóticos."
+    answer: "Isso é Estase Gastrointestinal (GI Stasis), uma emergência médica que pode ser fatal em 12h. Não force a alimentação e leve-o imediatamente a um veterinário de exóticos."
   - question: "É normal balançar a cabeça e coçar muito as orelhas?"
-    answer: "Não. Orelhas caídas acumulam umidade e ácaros. Se houver cera escura ou coceira, consulte um veterinário."
+    answer: "Não. Orelhas caídas acumulam umidade e favorecem ácaros e otite. Se houver cera escura ou coceira, consulte um veterinário especializado."
 ---
 
-O Holland Lop é muito querido por suas orelhas caídas. Conforme a House Rabbit Society (HRS), suas orelhas necessitam de atenção para evitar otite e feno constante 24/7 contra estase intestinal vital. Oferecer cuidados de saúde diários constantes e um ambiente seguro garante o bem-estar a longo prazo do seu animal.
+O Holland Lop é uma das raças de coelho mais amadas do mundo devido à sua cabeça redonda e orelhas caídas. Conforme a House Rabbit Society (HRS) e a AEMV, a anatomia de suas orelhas necessita de atenção constante para evitar otite, e o fornecimento de feno Timothy 24/7 é vital para prevenir a estase gastrointestinal.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -39,7 +39,7 @@ O Holland Lop é muito querido por suas orelhas caídas. Conforme a House Rabbit
       Evidência Veterinária e Comportamental
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Este conteúdo baseia-se em <strong>House Rabbit Society (HRS) & AEMV Normas de Coelhos</strong>.
+      Este conteúdo baseia-se em <strong>Diretrizes da House Rabbit Society (HRS) e Padrões Veterinários da AEMV</strong>.
     </p>
   </div>
 </div>
@@ -54,13 +54,13 @@ O Holland Lop é muito querido por suas orelhas caídas. Conforme a House Rabbit
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Comunicação do Holland Lop: A Dança Binky e as Batidas de Pata</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    O 'Binky' (salto giratório no ar) é a expressão máxima de felicidade. Batidas fortes com as patas traseiras indicam alerta ou insatisfação.
+    Os coelhos expressam suas emoções por meio de movimentos corporais. O salto com torção no ar conhecido como 'Binky' é a expressão máxima de felicidade. Batidas fortes com as patas traseiras (Thumping) indicam alerta ou insatisfação.
   </p>
 </div>
 
 ---
 
-## 2. Coelho Holland Lop (Holland Lop)'s Body Language & Signals
+## 2. Coelho Holland Lop (Oryctolagus cuniculus)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -68,8 +68,8 @@ O Holland Lop é muito querido por suas orelhas caídas. Conforme a House Rabbit
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Salto e Giro no Ar (Binky Dance)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Significado:</strong> Expressão de pura alegria e segurança total no ambiente.<br/>
-    <strong>• Resposta:</strong> Ofereça espaço com tapete antiderrapante.
+    <strong>• Significado:</strong> Expressão de pura alegria, entusiasmo e segurança total no ambiente e com o tutor.<br/>
+    <strong>• Resposta:</strong> Ofereça espaço com tapete antiderrapante para que ele possa correr e pular com segurança.
   </p>
 </div>
 
@@ -79,8 +79,8 @@ O Holland Lop é muito querido por suas orelhas caídas. Conforme a House Rabbit
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Batida Forte com Pata Traseira (Thumping)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Significado:</strong> Sinal de alerta diante de barulhos ou insatisfação.<br/>
-    <strong>• Resposta:</strong> Acalme o coelho falando baixinho e suave.
+    <strong>• Significado:</strong> Sinal de alerta diante de barulhos assustadores, cheiros estranhos ou insatisfação.<br/>
+    <strong>• Resposta:</strong> Identifique o fator de estresse e acalme o coelho falando baixinho com voz suave.
   </p>
 </div>
 
@@ -94,7 +94,7 @@ O Holland Lop é muito querido por suas orelhas caídas. Conforme a House Rabbit
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Manhã: Feno Timothy Ilimitado e Água Fresca</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Encha o porta-feno com feno Timothy fresco de 1º corte.
+    Encha o porta-feno com feno Timothy fresco de 1º corte para manter a motilidade intestinal e o desgaste dentário.
   </p>
 </div>
 
@@ -104,7 +104,7 @@ O Holland Lop é muito querido por suas orelhas caídas. Conforme a House Rabbit
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: Inspeção de Orelhas Caídas e Descanso</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Levante suavemente as orelhas para checar se há vermelhidão.
+    Levante suavemente as orelhas para checar se há vermelhidão ou secreções e garanta um descanso tranquilo.
   </p>
 </div>
 
@@ -114,7 +114,7 @@ O Holland Lop é muito querido por suas orelhas caídas. Conforme a House Rabbit
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noite: Exercício em Túneis e Escovação</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Deixe-o correr no recinto e escove a pelagem contra bolas de pelo.
+    Deixe-o correr no recinto e escove a pelagem para evitar a formação de bolas de pelo.
   </p>
 </div>
 
@@ -133,7 +133,7 @@ O Holland Lop é muito querido por suas orelhas caídas. Conforme a House Rabbit
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Isso é Estase Gastrointestinal (GI Stasis), uma emergência médica vital em 12h. Leve imediatamente a um veterinário de exóticos.
+      Isso é Estase Gastrointestinal (GI Stasis), uma emergência médica que pode ser fatal em 12h. Não force a alimentação e leve-o imediatamente a um veterinário de exóticos.
     </p>
   </details>
 
@@ -143,7 +143,7 @@ O Holland Lop é muito querido por suas orelhas caídas. Conforme a House Rabbit
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Não. Orelhas caídas acumulam umidade e ácaros. Se houver cera escura ou coceira, consulte um veterinário.
+      Não. Orelhas caídas acumulam umidade e favorecem ácaros e otite. Se houver cera escura ou coceira, consulte um veterinário especializado.
     </p>
   </details>
 </div>

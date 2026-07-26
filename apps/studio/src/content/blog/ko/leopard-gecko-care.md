@@ -5,19 +5,19 @@ description: "입문용 반려 파충류 1위 레오파드 게코. 꼬리 흔들
 pubDate: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","레오파드 게코 (Leopard Gecko)"]
+tags: ["반려동물","펫케어","레오파드 게코 (Eublepharis macularius)"]
 heroImage: "/images/blog/leopard_gecko_care.png"
 app: "petself"
 formatVersion: 4
-authority: "Association of Reptilian and Amphibian Veterinarians (ARAV) Care Guidelines"
+authority: "양서파충류 수의학회(ARAV) 사육 가이드라인 및 파충류 임상 표준"
 steps:
   - name: "레오파드 게코의 신체 언어: 꼬리 흔들기와 탈피 전조 신호"
     text: "게코의 통통한 꼬리는 영양 저장소이자 감정의 표현 장치입니다. 천천히 꼬리를 파도치듯 흔드는 행동과 사냥 시 꼬리 끝을 기분 좋게 털어대는 시그널을 구분할 수 있어야 합니다."
-  - name: "레오파드 게코 (Leopard Gecko)의 몸짓 언어와 바디 시그널"
+  - name: "레오파드 게코 (Eublepharis macularius)의 몸짓 언어와 바디 시그널"
     text: "* 꼬리를 높이 들고 천천히 좌우로 흔듦 (Slow Tail Waving): 위협을 느끼거나 낯선 개체를 경계하며 '나도 공격할 수 있다'는 신호를 보내는 강한 경계 상태입니다. (핸들링을 즉시 중단하고 손을 천천히 밖으로 빼며 게코가 안정을 찾을 때까지 자극하지 않습니다.)
 
 * 몸 색이 하얗게 뜨고 눈을 자주 비빔 (Pre-Shedding Signal): 묵은 허물을 벗겨내기 위한 탈피(Shedding) 직전 단계로, 피부가 건조해지고 민감해진 상태입니다. (습성 은신처의 습지를 촉촉하게 적셔주고 탈피 부전이 생기지 않도록 습도를 70% 이상 올려줍니다.)"
-  - name: "레오파드 게코 (Leopard Gecko) 맞춤형 3단계 홈케어 루틴"
+  - name: "레오파드 게코 (Eublepharis macularius) 맞춤형 3단계 홈케어 루틴"
     text: "* STEP 1. 아침: 핫존/쿨존 온도계 확인 및 습성 은신처 수분 분무: 하부 히팅 매트 온도(30°C ~ 32°C)를 점검하고 습성 은신처 내부 키친타월/수태에 온수를 촉촉하게 분무합니다.
 
 * STEP 2. 낮: 정적 유지를 통한 주간 야행성 수면 환경 보장: 직사광선을 피하고 낮 동안 깊은 수면을 취할 수 있도록 조용하고 어두운 은신처 상태를 유지합니다.
@@ -39,7 +39,7 @@ faqs:
       수의학적 & 행동학적 근거
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Association of Reptilian and Amphibian Veterinarians (ARAV) Care Guidelines</strong>에 기반하고 있습니다.
+      본 콘텐츠는 <strong>양서파충류 수의학회(ARAV) 사육 가이드라인 및 파충류 임상 표준</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. 레오파드 게코 (Leopard Gecko)의 몸짓 언어와 바디 시그널
+## 2. 레오파드 게코 (Eublepharis macularius)의 몸짓 언어와 바디 시그널
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ faqs:
 
 ---
 
-## 3. 레오파드 게코 (Leopard Gecko) 맞춤형 3단계 홈케어 루틴
+## 3. 레오파드 게코 (Eublepharis macularius) 맞춤형 3단계 홈케어 루틴
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

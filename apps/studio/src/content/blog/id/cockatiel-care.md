@@ -5,7 +5,7 @@ description: "Panduan lengkap merawat burung Cockatiel (Parkit Australia). Paham
 pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Cockatiel (Parkit Australia)"]
+tags: ["PerawatanHewan","KesehatanHewan","Cockatiel / Parkit Australia (Nymphicus hollandicus)"]
 heroImage: "/images/blog/cockatiel_care.png"
 app: "petself"
 formatVersion: 4
@@ -13,12 +13,12 @@ authority: "Association of Avian Veterinarians (AAV) & Standar Perilaku Burung"
 steps:
   - name: "Komunikasi Cockatiel: Arti Gerakan Jambul dan Menundukkan Kepala"
     text: "Jambul di kepala adalah antena emosi. Jambul tegak lurus menunjukkan kewaspadaan atau rasa ingin tahu tinggi, sementara menundukkan kepala adalah ekspresi kepercayaan mendalam."
-  - name: "Cockatiel (Parkit Australia)'s Body Language & Signals"
+  - name: "Cockatiel / Parkit Australia (Nymphicus hollandicus)'s Body Language & Signals"
     text: "* Jambul Tegak Lurus & Postur Vertikal (Fully Erect Crest): Rasa ingin tahu tinggi atau kewaspadaan terhadap suara maupun benda baru di ruangan. (Bicara dengan nada lembut dan hindari gerakan mendadak agar burung merasa aman.)
 
-* Menundukkan Kepala & Menjulurkan Leher (Head Lowering): Tanda kepercayaan mendalam dan meminta elusan di area pipi serta pangkal jambul. (Usap lembut bulu di sekitar pipi oranye dan pangkal jambul berlawanan arah bulu.)"
+* Menundukkan Kepala & Menjulurkan Leher (Head Lowering for Scratches): Tanda kepercayaan mendalam dan meminta elusan di area pipi serta pangkal jambul. (Usap lembut bulu di sekitar pipi oranye dan pangkal jambul berlawanan arah bulu.)"
   - name: "Customized 3-Step Home Care Routine"
-    text: "* STEP 1. Pagi: Ventilasi Udara, Inspeção Bulu & Pelet Segar: Buka penutup kandang, ganti air bersih dan pelet nutrisi, lalu amati kelincahan terbangnya.
+    text: "* STEP 1. Pagi: Ventilasi Udara, Inspeksi Bulu & Pelet Segar: Buka penutup kandang, ganti air bersih dan pelet nutrisi, lalu amati kelincahan terbangnya.
 
 * STEP 2. Siang: Terbang Bebas Aman & Mainan Foraging: Beri waktu 1 - 2 jam terbang bebas di ruangan aman dengan mainan pencari makan (foraging toys).
 
@@ -60,7 +60,7 @@ Cockatiel terkenal dengan pipi oranye ikonik dan jambul indahnya. Burung sosial 
 
 ---
 
-## 2. Cockatiel (Parkit Australia)'s Body Language & Signals
+## 2. Cockatiel / Parkit Australia (Nymphicus hollandicus)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -76,7 +76,7 @@ Cockatiel terkenal dengan pipi oranye ikonik dan jambul indahnya. Burung sosial 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Sinyal Tubuh 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Menundukkan Kepala & Menjulurkan Leher (Head Lowering)</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Menundukkan Kepala & Menjulurkan Leher (Head Lowering for Scratches)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• Arti:</strong> Tanda kepercayaan mendalam dan meminta elusan di area pipi serta pangkal jambul.<br/>
@@ -91,7 +91,7 @@ Cockatiel terkenal dengan pipi oranye ikonik dan jambul indahnya. Burung sosial 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pagi: Ventilasi Udara, Inspeção Bulu & Pelet Segar</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pagi: Ventilasi Udara, Inspeksi Bulu & Pelet Segar</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Buka penutup kandang, ganti air bersih dan pelet nutrisi, lalu amati kelincahan terbangnya.

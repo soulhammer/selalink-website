@@ -1,28 +1,28 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "Ein wilder Instinkt? Eine 3-Schritte-Routine für Territorium und Flüssigkeitszufuhr der Koreanisch Kurzhaar"
+title: "Ein wilder Instinkt? Eine tägliche 3-Schritte-Routine für Territorium und Flüssigkeitszufuhr der Koreanisch Kurzhaar"
 description: "Die Koreanisch Kurzhaar mit starkem Jagdinstinkt. Erfahren Sie mehr über die Flüssigkeitszufuhr zur Vorbeugung von Blasenentzündungen und eine tägliche 3-Schritte-Routine."
 pubDate: "2026-03-15"
 updatedDate: "2026-03-15"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Koreanisch Kurzhaar"]
+tags: ["Haustierpflege","Haustiergesundheit","Koreanisch Kurzhaar (Felis catus)"]
 heroImage: "/images/blog/koshort_care.png"
 app: "petself"
 formatVersion: 4
-authority: "Körpersprache-Führer des Cornell Feline Health Centers und NIAS-Pflegehandbuch"
+authority: "Verhaltensführer des Cornell Feline Health Centers und NIAS-Pflegehandbuch"
 steps:
   - name: "Körpersprache bei Katzen: Der ultimative Ausdruck von Vertrauen"
-    text: "Einer der stärksten Vertrauensbeweise einer Katze gegenüber ihrem Besitzer ist die senkrecht aufgerichtete Rute und das Schnurren. Das Annähern mit aufgerichteter Rute ist ein freundliches Signal. Schnurren setzt Endorphine im Gehirn frei. Beachten Sie, dass Schnurren auch ein Selbstheilungssignal bei Schmerzen sein kann. Wenn sich eine Katze an einem dunklen Ort versteckt und mit traurigem Gesicht schnurrt, sollten Sie ihre Gesundheit überwachen."
-  - name: "Koreanisch Kurzhaar's Body Language & Signals"
-    text: "* Rute hoch: Ein Ausdruck von starker Freundlichkeit, positiver Kommunikation und Freude gegenüber dem Besitzer. (Reagieren Sie mit sanftem Blickkontakt oder Kraulen am Kinn, um die Bindung zu stärken.)
+    text: "Einer der stärksten Vertrauensbeweise einer Katze gegenüber ihrem Besitzer ist die senkrecht aufgerichtete Rute (Tail Up) und das Schnurren (Purring). Das Annähern mit aufgerichteter Rute ist ein freundliches Signal. Schnurren setzt Endorphine im Gehirn frei. Beachten Sie, dass Schnurren auch ein Selbstheilungssignal bei Schmerzen sein kann. Wenn sich eine Katze an einem dunklen Ort versteckt und mit traurigem Gesicht schnurrt, sollten Sie ihre Gesundheit überwachen."
+  - name: "Koreanisch Kurzhaar (Felis catus)'s Body Language & Signals"
+    text: "* Rute hoch (Tail Up): Ein Ausdruck von starker Freundlichkeit, positiver Kommunikation und Freude gegenüber dem Besitzer. (Reagieren Sie mit sanftem Blickkontakt oder Kraulen am Kinn, um die Bindung zu stärken.)
 
-* Schnurren: Wird meist bei Zufriedenheit erzeugt, kann aber auch ein Selbstheilungssignal bei Schmerz oder Angst sein. (Wenn sie schnurren, während sie sich in dunklen Ecken verstecken, untersuchen Sie sie auf Krankheiten.)"
+* Schnurren (Purring): Wird meist bei Zufriedenheit erzeugt, kann aber auch ein Selbstheilungssignal bei Schmerz oder Angst sein. (Wenn sie schnurren, während sie sich in dunklen Ecken verstecken, untersuchen Sie sie gründlich auf Krankheiten.)"
   - name: "Customized 3-Step Home Care Routine"
     text: "* STEP 1. Morgen: Vertikalbereichsprüfung und Fensterblick-Einrichtung: Öffnen Sie morgens beim Lüften die Jalousien in der Nähe des Kratzbaums am Fenster. Das Einrichten von Vertikalbereichen und das Ermöglichen des Blicks nach draußen (Katzen-TV) reduziert den Stress durch das Eingesperrtsein erheblich.
 
 * STEP 2. Nachmittag: 15-minütige Jagdspiel-Routine: Spielen Sie einmal täglich 15 Minuten lang Jagdspiele mit Katzenangeln. Da Katzen Raubtiere sind, verhindert das Jagen von Spielzeug Frustration und erhöht die Bewegung.
 
-* STEP 3. Abend: Trinkstellenprüfung und Entspannungsbürsten: Erneuern Sie abends das Wasser in den Näpfen und richtet Sie mindestens drei Trinkstellen ein. Bürsten Sie vor dem Schlafen die Duftdrüsenbereiche an Wangen und Kinn sanft, um die Entspannung zu fördern."
+* STEP 3. Abend: Trinkstellenprüfung und Entspannungsbürsten: Erneuern Sie abends das Wasser in den Näpfen und richten Sie mindestens drei Trinkstellen ein. Bürsten Sie vor dem Schlafen die Duftdrüsenbereiche an Wangen und Kinn sanft, um die Entspannung zu fördern."
 faqs:
   - question: "Warum klettern Katzen immer auf hohe und enge Plätze?"
     answer: "Katzen fühlen sich sicher und dominant, wenn sie ihr Revier von oben betrachten. Ein Mangel an Vertikalbereichen führt zu Revierstress."
@@ -30,11 +30,11 @@ faqs:
     answer: "Der Schlüssel liegt in der Erhöhung der Flüssigkeitszufuhr. Stellen Sie mehrere Wasserschalen abseits des Futters auf und nutzen Sie Trinkbrunnen."
 ---
 
-Die Koreanisch Kurzhaar, eine einheimische Katze, verfügt über einen robusten Körperbau und eine starke Vitalität, da ihre wilden Instinkte erhalten geblieben sind. Sie sind zwar freundlich, können aber Fremden gegenüber vorsichtig sein und sind beim Jagdspiel hochkonzentriert. 🐕
+Die Koreanisch Kurzhaar, eine einheimische Katze, verfügt über einen robusten Körperbau und eine starke Vitalität, da ihre wilden Instinkte erhalten geblieben sind. Sie sind zwar freundlich, können aber Fremden gegenüber vorsichtig sein und sind beim Jagdspiel hochkonzentriert. 🐈
 
 Diese Eigenschaften machen sie jedoch anfällig für zwei Stressfaktoren in Innenräumen: territoriale Ängste aufgrund von Platzmangel und Erkrankungen der unteren Harnwege bei Katzen (FLUTD) durch zu geringe Flüssigkeitsaufnahme. Die Bewältigung dieser Probleme erfordert eine sorgfältige tägliche Pflege.
 
-Heute befasst sich PetSelf mit der Körpersprache dieser Katzen und stellt eine sichere, tägliche 3-Schritte-Pflegeroutine vor.
+Heute befasst sich PetSelf mit der Körpersprache dieser Katzen und stellt eine tägliche 3-Schritte-Pflegeroutine vor.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -43,7 +43,7 @@ Heute befasst sich PetSelf mit der Körpersprache dieser Katzen und stellt eine 
       Veterinärmedizinische & verhaltensbedingte Nachweise
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Dieser Inhalt basiert auf <strong>Körpersprache-Führer des Cornell Feline Health Centers und NIAS-Pflegehandbuch</strong>.
+      Dieser Inhalt basiert auf <strong>Verhaltensführer des Cornell Feline Health Centers und NIAS-Pflegehandbuch</strong>.
     </p>
   </div>
 </div>
@@ -58,18 +58,18 @@ Heute befasst sich PetSelf mit der Körpersprache dieser Katzen und stellt eine 
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Körpersprache bei Katzen: Der ultimative Ausdruck von Vertrauen</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Einer der stärksten Vertrauensbeweise einer Katze gegenüber ihrem Besitzer ist die senkrecht aufgerichtete Rute und das Schnurren. Das Annähern mit aufgerichteter Rute ist ein freundliches Signal. Schnurren setzt Endorphine im Gehirn frei. Beachten Sie, dass Schnurren auch ein Selbstheilungssignal bei Schmerzen sein kann. Wenn sich eine Katze an einem dunklen Ort versteckt und mit traurigem Gesicht schnurrt, sollten Sie ihre Gesundheit überwachen.
+    Einer der stärksten Vertrauensbeweise einer Katze gegenüber ihrem Besitzer ist die senkrecht aufgerichtete Rute (Tail Up) und das Schnurren (Purring). Das Annähern mit aufgerichteter Rute ist ein freundliches Signal. Schnurren setzt Endorphine im Gehirn frei. Beachten Sie, dass Schnurren auch ein Selbstheilungssignal bei Schmerzen sein kann. Wenn sich eine Katze an einem dunklen Ort versteckt und mit traurigem Gesicht schnurrt, sollten Sie ihre Gesundheit überwachen.
   </p>
 </div>
 
 ---
 
-## 2. Koreanisch Kurzhaar's Body Language & Signals
+## 2. Koreanisch Kurzhaar (Felis catus)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Körpersignal 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Rute hoch</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Rute hoch (Tail Up)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• Bedeutung:</strong> Ein Ausdruck von starker Freundlichkeit, positiver Kommunikation und Freude gegenüber dem Besitzer.<br/>
@@ -80,11 +80,11 @@ Heute befasst sich PetSelf mit der Körpersprache dieser Katzen und stellt eine 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Körpersignal 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Schnurren</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Schnurren (Purring)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• Bedeutung:</strong> Wird meist bei Zufriedenheit erzeugt, kann aber auch ein Selbstheilungssignal bei Schmerz oder Angst sein.<br/>
-    <strong>• Reaktion:</strong> Wenn sie schnurren, während sie sich in dunklen Ecken verstecken, untersuchen Sie sie auf Krankheiten.
+    <strong>• Reaktion:</strong> Wenn sie schnurren, während sie sich in dunklen Ecken verstecken, untersuchen Sie sie gründlich auf Krankheiten.
   </p>
 </div>
 
@@ -118,7 +118,7 @@ Heute befasst sich PetSelf mit der Körpersprache dieser Katzen und stellt eine 
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Abend: Trinkstellenprüfung und Entspannungsbürsten</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Erneuern Sie abends das Wasser in den Näpfen und richtet Sie mindestens drei Trinkstellen ein. Bürsten Sie vor dem Schlafen die Duftdrüsenbereiche an Wangen und Kinn sanft, um die Entspannung zu fördern.
+    Erneuern Sie abends das Wasser in den Näpfen und richten Sie mindestens drei Trinkstellen ein. Bürsten Sie vor dem Schlafen die Duftdrüsenbereiche an Wangen und Kinn sanft, um die Entspannung zu fördern.
   </p>
 </div>
 

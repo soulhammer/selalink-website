@@ -4,74 +4,74 @@
     "updatedDate": "2026-07-01",
     "locales": {
       "en": {
-        "title": "The World's Smallest Warrior: Chihuahua's Molera Protection and Hypoglycemia 3-Step Care",
+        "title": "The World's Smallest Warrior: Chihuahua's Molera Protection and Hypoglycemia 3-Step Routine",
         "description": "Chihuahuas, the smallest brave dogs. Discover tips to protect their open skull fontanelle (molera) and a 3-step daily routine to prevent hypoglycemia and shivering.",
         "authority": "Official Chihuahua Club of America Breed Manual & AVMA Toy Breed Metabolic Care Guidelines",
         "profile": {
-          "breed": "Chihuahua",
+          "breed": "Chihuahua (Canis lupus familiaris)",
           "lifespan": "12 ~ 20 years",
           "sleep_pattern": "12 ~ 14 hours (burrowing under blankets)",
           "temperament": "Courageous, Loyally Devoted, Alertly Defensive"
         },
-        "intro": "Chihuahuas, originating from Mexico, are the smallest dogs in the world but boast a courageous, lion-like personality. Known for their large ears, big eyes, and proud steps, they are fiercely loyal to their owner. 🐕\n\nHowever, their tiny frames come with serious structural vulnerabilities. First is the Molera (open fontanelle), an opening in their skull bones. Pressure on their forehead translates directly to the brain, requiring special handling. Also, they have minimal body fat and high metabolic rates, making them susceptible to shivering and Hypoglycemia (low blood sugar) during long fasting periods.\n\nToday, PetSelf decodes Chihuahua body language and introduces a precise 3-step home care routine for molera protection and metabolic health.",
+        "intro": "Chihuahuas, originating from Mexico, are the smallest dogs in the world but boast a courageous, lion-like personality as true 'little warriors'. Known for their large ears, big round eyes, and proud steps, they are fiercely loyal to their owner. 🐕\n\nHowever, their tiny frames come with serious structural vulnerabilities. First is the Molera (open fontanelle), an opening in their skull bones. Pressure on their forehead translates directly to the brain, requiring special handling to prevent impacts. Also, they have minimal body fat and high metabolic rates, making them susceptible to shivering and Hypoglycemia (low blood sugar shock) during long fasting periods.\n\nToday, PetSelf decodes Chihuahua body language and introduces a precise 3-step homecare routine for molera protection and metabolic health.",
         "whyTitle": "Chihuahua's Signals: Emotional Shivering and Defensive Growling",
-        "whyDesc": "Chihuahuas are highly sensitive and express strong alerts due to their tiny size. Key behaviors include 'shivering' and 'growling'. Shivering occurs not only due to cold but when experiencing intense emotions like excitement or fear; their brain signals muscles to contract. Growling while showing teeth is a warning born of fear, asking you to step back. Forcing physical contact during this time can trigger defensive biting. Always give them space.",
+        "whyDesc": "Chihuahuas are highly sensitive and express strong alerts due to their tiny size. Key behaviors include **'shivering'** and **'growling'**. Shivering occurs not only due to cold but when experiencing intense emotions like excitement, fear, or anxiety, as their hyper-sensitive nervous system triggers muscle contractions. Growling while showing teeth is an alert born of fear, asking you to step back. Forcing physical contact during this time can trigger defensive biting. Always give them space.",
         "body_signals": [
           {
-            "name": "Shivering/Trembling",
-            "meaning": "Occurs due to cold weather, or as a physical response to intense emotions like excitement or fear.",
+            "name": "Shivering / Trembling",
+            "meaning": "Occurs due to cold weather, or as a physical response when intense emotions like excitement, fear, or tension peak.",
             "response": "Wrap them in a warm blanket and hold them quietly in a noise-free room to calm their nerves."
           },
           {
             "name": "Growling with Teeth Shown",
-            "meaning": "A strong warning derived from fear, asking you to stop physical contact and step back.",
+            "meaning": "A strong warning derived from fear that contact feels threatening, asking you to stop and step back.",
             "response": "Stop moving or touching immediately, back away, and let them calm down on their own."
           }
         ],
         "daily_routine": [
           {
             "name": "Morning: Forehead Protection Check and Indoor Warmth Setup",
-            "text": "Do not apply pressure to their forehead (molera). Chihuahuas are sensitive to cold, so check that indoor temperature is kept warm around 24-26°C."
+            "text": "Do not apply pressure to their forehead (molera). Chihuahuas are sensitive to cold, so ensure the indoor temperature is kept warm around 24-26°C."
           },
           {
-            "name": "Afternoon: Short Nosework and Sound Desensitization Session",
-            "text": "Avoid forced dog socializations. Let them sniff/nosework, and practice 5-minute counter-conditioning (giving treats when doors/bells ring) to prevent warning barks."
+            "name": "Afternoon: Short Nosework Walk and Sound Desensitization Session",
+            "text": "Avoid forced dog socializations due to high alertness. Let them sniff/nosework, and practice 5-minute counter-conditioning (giving treats when doorbell rings) to prevent barks."
           },
           {
-            "name": "Evening: Timely Meal Feeding for Hypoglycemia and Paw Care",
-            "text": "Their small size makes them prone to low blood sugar shocks. Keep to strict evening feeding times, and trim hair between paw pads to prevent slipping indoors."
+            "name": "Evening: Timely Meal Feeding for Hypoglycemia and Paw Pad Care",
+            "text": "Their small size makes them prone to low blood sugar shocks. Keep to strict evening feeding schedules, and trim hair between paw pads to prevent slipping indoors."
           }
         ],
         "faqs": [
           {
             "question": "Does the Chihuahua's molera (open fontanelle) have to close? Is it dangerous if it doesn't?",
-            "answer": "About 80-90% of Chihuahuas live their entire lives with an open molera. While not a disease, it means their skull has an opening that doesn't fully protect the brain. Physical impacts to their forehead must be strictly avoided."
+            "answer": "About 80-90% of Chihuahuas live their entire lives with an open molera. While not a disease itself, it means their skull has an opening that doesn't fully protect the brain. Physical impacts or pressing on their forehead must be strictly avoided."
           },
           {
             "question": "Does the Chihuahua's shivering always mean they are cold?",
-            "answer": "They lack undercoats and body fat, so they shiver easily in the cold. However, they also tremble when experiencing intense emotions like excitement or fear, as their hyper-sensitive nervous system triggers muscle contractions."
+            "answer": "They lack undercoats and body fat, so they shiver easily in the cold. However, they also tremble when experiencing intense emotions like extreme joy or alertness, as their sensitive nervous system triggers muscle contractions. Observe the context to determine the cause."
           }
         ],
         "tags": [
           "Chihuahua",
           "Molera Protection",
-          "Hypoglycemia",
+          "Hypoglycemia Prevention",
           "Toy Breed Care"
         ]
       },
       "ja": {
-        "title": "世界で最も小さな戦士チワワ、泉門保護と低血糖予防の3段階ケア",
+        "title": "世界で最も小さな戦士チワワ、泉門保護と低血糖予防の3段階日常ルーティン",
         "description": "勇敢で小さいけれどデリケートなチワワ。頭蓋骨の泉門（モレラ）への衝撃防止と、低血糖によるショックを予防する3段階デイリールーティンを紹介します。",
         "authority": "チワワクラブオブアメリカ公式マニュアル＆AVMA超小型犬代謝・健康ケアガイドライン",
         "profile": {
-          "breed": "チワワ",
+          "breed": "チワワ (Canis lupus familiaris)",
           "lifespan": "12 ~ 20年",
           "sleep_pattern": "12 ~ 14時間（布団潜り込み型）",
           "temperament": "勇敢、忠誠心、デリケートな自己防衛"
         },
-        "intro": "チワワ(Chihuahua)はメキシコ原産で、世界で最も小さな体格ですが、ライオンにも負けない強気な性格を持つ「小さな戦士」です。大きな耳と丸い瞳、そして堂々とした歩き方が魅力的で、飼い主への忠誠心と独占欲が非常に強い犬種です。🐕\n\nしかし、超小型犬ゆえに身体的にデリケートな点も多いです。1つ目は、頭蓋骨の頭頂部が完全に閉じずに隙間が残っている「泉門（モレラ）」の存在です。頭頂部への圧迫が脳に直接伝わるため、衝撃を防ぐ配慮が必須です。また、体脂肪が少なく代謝が極端に早いため、寒さに弱く、空腹が少し長引くだけでショックを引き起こす「低血糖症」の危険があります。\n\n本日、PetSelfではチワワのボディランゲージを解読し、頭蓋骨を守り低血糖を防ぐ3段階のケアを紹介します。",
+        "intro": "チワワ(Chihuahua)はメキシコ原産で、世界で最も小さな体格ですが、ライオンにも負けない強気な性格を持つ「小さな戦士」です。大きな耳と丸い瞳、そして堂々とした歩き方が魅力的で、飼い主への忠誠心と独占欲が非常に強い犬種です。🐕\n\nしかし、超小型犬ゆえに身体的にデリケートな点も多いです。1つ目は、頭蓋骨の頭頂部が完全に閉じずに隙間が残っている「泉門（モレラ）」の存在です。頭頂部への圧迫が脳に直接伝わるため、衝撃を防ぐ配慮が必須です。また、体脂肪が少なく代謝が極端に早いため、寒さに弱く、空腹が少し長引くだけでショックを引き起こす「低血糖症」の危険があります。\n\n本日PetSelfでは、チワワのボディランゲージを解読し、頭蓋骨を守り低血糖を防ぐ3段階のホームケアルーティンを紹介します。",
         "whyTitle": "チワワの発信するサイン：興奮のブルブルと自己防衛の唸り声",
-        "whyDesc": "チワワはデリケートで体が小さいため、脅威に対して激しいシグナルを発信します。代表的な反応は「全身の震え」と「唸り声」です。チワワのブルブル震える動作は、寒い時だけでなく、嬉しさや不安などの強い感情を処理する時に起きる感情表現です。また、歯を剥き出して唸る行動は、「これ以上近づかないで」という恐怖と自己防衛のサインです。無理に抱こうとすると噛む恐れがあるため、距離を置きましょう。",
+        "whyDesc": "チワワはデリケートで体が小さいため、脅威に対して激しいシグナルを発信します。代表的な反応は**「全身の震え（Shivering）」**と**「唸り声（Growling）」**です。チワワのブルブル震える動作は、寒い時だけでなく、嬉しさや不安などの強い感情を処理する時に起きる感情表現です。また、歯を剥き出して唸る行動は、「これ以上近づかないで」という恐怖と自己防衛のサインです。無理に抱こうとすると噛む恐れがあるため、距離を置きましょう。",
         "body_signals": [
           {
             "name": "全身の震え (Shivering)",
@@ -112,46 +112,46 @@
           "チワワ",
           "泉門保護",
           "低血糖予防",
-          "超小型犬のケア"
+          "超小型犬ケア"
         ]
       },
       "zh": {
-        "title": "世界上最小的勇士吉娃娃，囟门保护与预防低血糖3步日常护理",
-        "description": "勇敢娇小但也有脆弱一面的吉娃娃。介绍保护其颅骨顶部囟门（Molera）免受冲击的窍门，以及用于预防血糖急剧下降引发休克的3步日常护理惯例。",
+        "title": "世界上最小的勇士吉娃娃，囟门保护与预防低血糖3步日常护理流程",
+        "description": "勇敢娇小但也有脆弱一面的吉娃娃。介绍保护其颅骨顶部囟门（Molera）免受冲击的窍门，以及用于预防血糖急剧下降引发休克的3步日常护理流程。",
         "authority": "美国吉娃娃俱乐部官方手册与 AVMA 超小型犬代谢与健康护理指南",
         "profile": {
-          "breed": "吉娃娃",
+          "breed": "吉娃娃 (Canis lupus familiaris)",
           "lifespan": "12 ~ 20年",
           "sleep_pattern": "12 ~ 14小时（偏好钻入保暖被窝）",
           "temperament": "勇敢独立、绝对忠诚、敏感防卫"
         },
-        "intro": "吉娃娃（Chihuahua）源自墨西哥，虽然拥有世界上最小的体型，但却展现出不输给雄狮般的刚强性格，是名副其实的“小勇士”。大耳朵、圆眼睛以及自信的步伐极具魅力，对家长有着极强的忠诚心与独占欲。🐕\n\n然而，作为超小型犬，其身体结构也存在许多脆弱之处。首先是颅骨顶部接合处可能未完全闭合而留有孔洞的“囟门（Molera）”特征。这意味着施加在头顶的压力会直接传导至大脑，因此防止头顶受冲击的技巧至关重要。此外，吉娃娃体脂极低且新陈代谢极其敏感，不仅极易怕冷发抖，且空腹时间稍长就容易引发导致休克的“低血糖症”。\n\n今天，PetSelf 将为您深度解读吉娃娃的身体语言，并分享一套旨在保护颅脑安全及维持血糖平衡的3步精准日常护理惯例。",
+        "intro": "吉娃娃（Chihuahua）源自墨西哥，虽然拥有世界上最小的体型，但却展现出不输给雄狮般的刚强性格，是名副实 responses “小勇士”。大耳朵、圆眼睛以及自信的步伐极具魅力，对家长有着极强的忠诚心与独占欲。🐕\n\n然而，作为超小型犬，其身体结构也存在许多脆弱之处。首先是颅骨顶部接合处可能未完全闭合而留有孔洞 responses “囟门（Molera）”特征。这意味着施加在头顶 responses 压力会直接传导至大脑，因此防止头顶受冲击 responses 技巧至关重要。此外，吉娃娃体脂极低且新陈代谢极其敏感，不仅极易怕冷发抖，且空腹时间稍长就容易引发导致休克 responses “低血糖症”。\n\n今天，PetSelf 将为您深度解读吉娃娃 responses 身体语言，并分享一套旨在保护颅脑安全及维持血糖平衡 responses 3步精准日常护理流程。",
         "whyTitle": "吉娃娃发出的信号：情绪性发抖与防卫性低吼",
-        "whyDesc": "吉娃娃因性格敏感且体型娇小，面对周围的威胁会发出剧烈的警告信号。最典型的反应是“全身发抖（Shivering）”和“低吼警示（Growling）”。吉娃娃发抖不仅是在怕冷，也包含喜悦、兴奋、焦虑等情绪剧烈波动时，大脑向脊髓发送信号导致肌肉收缩的情绪化表达。而皱起口吻发出低吼，是出于极度恐惧而发出的“请勿靠近”防卫信号。此时若强行去抱可能导致被咬，因此立刻保持距离才是安全做法。",
+        "whyDesc": "吉娃娃因性格敏感且体型娇小，面对周围的威胁会发出剧烈的警告信号。最典型的反应是 **“全身发抖（Shivering）”** 和 **“低吼警示（Growling）”**。吉娃娃发抖不仅是在怕冷，也包含喜悦、兴奋、焦虑等情绪剧烈波动时，大脑向脊髓发送信号导致肌肉收缩 responses 情绪化表达。而皱起口吻发出低吼，是出于极度恐惧而发出 responses “请勿靠近”防卫信号。此时若强行去抱可能导致被咬，因此立刻保持距离才是安全做法。",
         "body_signals": [
           {
             "name": "全身发抖 (Shivering)",
-            "meaning": "由于怕冷的身躯，或在兴奋、恐惧、紧张等情绪发生剧烈波动时产生。",
-            "response": "使用温暖的毯子包裹以提升体温，并在无噪音的地方安静拥抱以使其安宁。"
+            "meaning": "由于怕冷 responses 身躯，或在兴奋、恐惧、紧张等情绪发生剧烈波动时产生。",
+            "response": "使用温暖 responses 毯子包裹以提升体温，并在无噪音 responses 地方安静拥抱以使其安宁。"
           },
           {
             "name": "露齿低吼 (Growling)",
-            "meaning": "对试图触碰它的行为感到恐惧或防范，发出请勿靠近的强烈警告。",
+            "meaning": "对试图触碰它的行为感到恐惧或防范，发出请勿靠近 responses 强烈警告。",
             "response": "应立即停止触碰或靠近，拉开距离以让吉娃娃自己恢复平静。"
           }
         ],
         "daily_routine": [
           {
             "name": "早晨：头顶囟门防护与保温室温设定",
-            "text": "为防头顶囟门（Molera）受压，严禁触摸或抓捏其头顶，并确认怕冷的吉娃娃生活的室内温度保持在 24~26 度左右的温暖状态。"
+            "text": "为防头顶囟门（Molera）受压，严禁触摸或抓捏其头顶，并确认怕冷 responses 吉娃娃生活 responses 室内温度保持在 24~26 度左右 responses 温暖状态。"
           },
           {
-            "name": "中午：轻松的嗅闻散步与声音脱敏交流",
-            "text": "因警惕性强，散步时避免强行与其他狗社交，多让其进行嗅闻探寻。在家里可进行5分钟的声音脱敏训练（听到门铃声给零食奖励），防止神经质乱叫。"
+            "name": "中午：轻松 responses 嗅闻散步与声音脱敏交流",
+            "text": "因警惕性强，散步时避免强行与其他狗社交，多让其进行嗅闻探寻。在家里可进行5分钟 responses 声音脱敏训练（听到门铃声给零食奖励），防止神经质乱叫。"
           },
           {
             "name": "晚上：严守给食周期以防低血糖休克与肉垫打滑修剪",
-            "text": "体型极小因此易发生空腹低血糖休克。应严格管理晚餐给食的时间间隔周期，并用理发器剃除足底肉垫间的杂毛以防在室内打滑。"
+            "text": "体型极小因此易发生空腹低血糖休克。应严格管理晚餐给食 responses 时间间隔周期，并用理发器剃除足底肉垫间的杂毛以防在室内打滑。"
           }
         ],
         "faqs": [
@@ -161,150 +161,150 @@
           },
           {
             "question": "吉娃娃浑身发抖总是因为感到寒冷吗？",
-            "answer": "由于缺乏底毛和皮下脂肪，它们确实易因寒冷而发抖。但除此之外，在极度喜悦、对陌生环境产生防备等情绪剧烈兴奋时，其极度敏感 class 神经系统也会引发肌肉震颤收缩。应根据当时情境判断原因。"
+            "answer": "由于缺乏底毛和皮下脂肪，它们确实易因寒冷而发抖。但除此之外，在极度喜悦、对陌生环境产生防备等情绪剧烈兴奋时，其极度敏感 responses 神经系统也会引发肌肉震颤收缩。应根据当时情境判断原因。"
           }
         ],
         "tags": [
           "吉娃娃",
           "囟门保护",
-          "低血糖预防",
+          "预防低血糖",
           "超小型犬护理"
         ]
       },
       "es": {
-        "title": "El guerrero más pequeño del mundo: Protección de molera y cuidado de hipoglucemia de 3 pasos del Chihuahua",
+        "title": "El guerrero más pequeño del mundo: Protección de molera y rutina diaria de 3 pasos para la hipoglucemia del Chihuahua",
         "description": "El Chihuahua, el guerrero más pequeño. Descubra cómo proteger su cabeza (molera abierta) y una rutina de 3 pasos para evitar la hipoglucemia y temblores.",
-        "authority": "Manual de raza de la Chihuahua Club of America y directrices de cuidado metabólico de razas miniatura de AVMA",
+        "authority": "Manual de raza de la Chihuahua Club of America y Directrices de Cuidado Metabólico de Razas Miniatura de la AVMA",
         "profile": {
-          "breed": "Chihuahua",
+          "breed": "Chihuahua (Canis lupus familiaris)",
           "lifespan": "12 ~ 20 años",
           "sleep_pattern": "12 ~ 14 horas (les gusta meterse bajo mantas)",
           "temperament": "Valiente, Leal, Alerta y defensivo"
         },
-        "intro": "Los Chihuahuas son los perros más pequeños del mundo pero tienen un temperamento valiente. Son muy leales y protectores con sus dueños. 🐕\n\nSin embargo, su diminuto cuerpo tiene debilidades. La primera es la molera (fontanela abierta) en su cráneo. La presión en su cabeza afecta directamente a su cerebro. Además, tienen poca grasa corporal y metabolizan rápido, siendo propensos a temblores e hipoglucemia (bajo azúcar en sangre).\n\nHoy, PetSelf descodifica su lenguaje corporal e introduce una rutina de 3 pasos para la protección de la molera y el azúcar.",
+        "intro": "Los Chihuahuas son los perros más pequeños del mundo pero tienen un temperamento valiente de auténticos 'pequeños guerreros'. Son muy leales y protectores con sus dueños. 🐕\n\nSin embargo, su diminuto cuerpo tiene debilidades estructurales. La primera es la molera (fontanela abierta) en su cráneo. La presión en su cabeza afecta directamente a su cerebro, requiriendo un manejo delicado para evitar impactos. Además, tienen poca grasa corporal y metabolizan rápido, siendo propensos a temblores e hipoglucemia (shock por bajo azúcar en sangre).\n\nHoy, PetSelf descodifica su lenguaje corporal e introduce una rutina de 3 pasos para la protección de la molera y el azúcar.",
         "whyTitle": "Señales del Chihuahua: Temblores emocionales y gruñido defensivo",
-        "whyDesc": "Los Chihuahuas son sensibles y se ponen en alerta rápido. Las señales clave son 'temblores' y 'gruñidos'. Los temblores ocurren por frío o por emociones como excitación o miedo. El gruñido mostrando dientes es una advertencia de miedo; forzar el contacto puede provocar una mordedura. Déle espacio.",
+        "whyDesc": "Los Chihuahuas son muy sensibles y se ponen en alerta rápido. Las señales clave son **'temblores' (Shivering)** y **'gruñidos' (Growling)**. Los temblores ocurren por frío o por emociones como excitación, miedo o tensión, ya que su sistema nervioso sensible genera contracciones musculares. El gruñido mostrando dientes es una advertencia de miedo; forzar el contacto puede provocar una mordedura. Déle espacio.",
         "body_signals": [
           {
-            "name": "Temblores",
-            "meaning": "Ocurre debido al frío, o como respuesta física a emociones intensas como excitación o miedo.",
+            "name": "Temblores (Shivering)",
+            "meaning": "Ocurre debido al frío, o como respuesta física a emociones intensas como excitación, miedo o tensión.",
             "response": "Envuélvalo en una manta cálida y sosténgalo en una habitación silenciosa para calmarlo."
           },
           {
-            "name": "Gruñido defensivo",
-            "meaning": "Una advertencia de miedo, que le pide que detenga el contacto y retroceda.",
+            "name": "Gruñido defensivo (Growling)",
+            "meaning": "Una advertencia de miedo, que le pide que detenga el contacto y retroceda inmediatamente.",
             "response": "Deje de tocarlo o acercarse de inmediato, retírese y deje que se calme solo."
           }
         ],
         "daily_routine": [
           {
             "name": "Mañana: Control de molera y ajuste de calefacción",
-            "text": "Evite presionar su cabeza (molera). Mantenga la temperatura interior cálida, alrededor de 24-26°C, ya que son vulnerables al frío."
+            "text": "Evite presionar su cabeza (molera). Mantenga la temperatura interior cálida, alrededor de 24-26°C, ya que son muy vulnerables al frío."
           },
           {
             "name": "Tarde: Paseos cortos de olfato y desensibilización al ruido",
-            "text": "Evite socializaciones forzadas. Deje que olfatee y practique 5 minutos de desensibilización al timbre con premios para evitar ladridos."
+            "text": "Evite socializaciones forzadas con otros perros. Deje que olfatee y practique 5 minutos de desensibilización al timbre con premios para evitar ladridos."
           },
           {
             "name": "Noche: Alimentación puntual para evitar hipoglucemia y cuidado de patas",
-            "text": "Su pequeño tamaño facilita bajadas de azúcar. Cumpla los horarios de comida y recorte el pelo de las patas para evitar resbalones."
+            "text": "Su pequeño tamaño facilita bajadas de azúcar. Cumpla los horarios de comida y recorte el pelo de las almohadillas para evitar resbalones."
           }
         ],
         "faqs": [
           {
             "question": "¿La molera del Chihuahua debe cerrarse obligatoriamente?",
-            "answer": "El 80-90% de los Chihuahuas viven con la molera abierta. No es una enfermedad, pero significa que su cráneo no protege del todo su cerebro. Se deben evitar golpes en la cabeza."
+            "answer": "El 80-90% de los Chihuahuas viven con la molera abierta. No es una enfermedad en sí, pero significa que su cráneo no protege del todo su cerebro. Se deben evitar estrictamente golpes o presiones en la cabeza."
           },
           {
             "question": "¿Los temblores del Chihuahua siempre significan que tienen frío?",
-            "answer": "Tienen poca grasa y tiemblan con el frío, pero también lo hacen por emociones intensas como excitación o miedo, ya que su sistema nervioso sensible provoca contracciones musculares."
+            "answer": "Tienen poca grasa y tiemblan con el frío, pero también lo hacen por emociones intensas como alegría extrema o alerta, ya que su sistema nervioso sensible provoca contracciones musculares. Observe el contexto para determinar la causa."
           }
         ],
         "tags": [
           "Chihuahua",
-          "Protección de Molera",
-          "Hipoglucemia",
-          "Cuidado de Perros Toy"
+          "ProtecciónDeMolera",
+          "PrevenciónDeHipoglucemia",
+          "CuidadoDePerrosToy"
         ]
       },
       "fr": {
-        "title": "Le plus petit guerrier du monde : Routine en 3 étapes pour la protection de la fontanelle et l'hypoglycémie du Chihuahua",
+        "title": "Le plus petit guerrier du monde : Routine quotidienne en 3 étapes pour la fontanelle et l'hypoglycémie du Chihuahua",
         "description": "Le Chihuahua, le plus petit guerrier. Découvrez comment protéger son crâne (fontanelle ouverte) et une routine en 3 étapes pour éviter l'hypoglycémie.",
-        "authority": "Manuel de race du Chihuahua Club of America et directives pour les soins métaboliques des races toy de l'AVMA",
+        "authority": "Manuel de race du Chihuahua Club of America et Directives pour les Soins Métaboliques des Races Toy de l'AVMA",
         "profile": {
-          "breed": "Chihuahua",
+          "breed": "Chihuahua (Canis lupus familiaris)",
           "lifespan": "12 ~ 20 ans",
           "sleep_pattern": "12 ~ 14 heures (aime s'enfouir sous les couvertures)",
           "temperament": "Courageux, Fidèle, Alerte et défensif"
         },
-        "intro": "Le Chihuahua est le plus petit chien au monde, mais il possède un tempérament fier et courageux. Il se montre extrêmement dévoué et loyal envers son maître. 🐕\n\nCependant, son corps minuscule présente des fragilités structurelles. La première est la fontanelle ouverte (molera) sur son crâne. Toute pression sur la tête est transmise au cerveau. De plus, il a très peu de graisse corporelle, ce qui le rend sensible au froid et sujet à l'hypoglycémie.\n\nAujourd'hui, PetSelf décode le langage corporel du Chihuahua et présente une routine en 3 étapes pour le protéger des chocs à la tête et réguler son taux de sucre.",
+        "intro": "Le Chihuahua est le plus petit chien au monde, mais il possède un tempérament fier et courageux de véritable 'petit guerrier'. Il se montre extrêmement dévoué et loyal envers son maître. 🐕\n\nCependant, son corps minuscule présente des fragilités structurelles. La première est la fontanelle ouverte (molera) sur son crâne. Toute pression sur la tête est transmise au cerveau, exigeant des précautions pour éviter les chocs. De plus, il a très peu de graisse corporelle, ce qui le rend sensible au froid et sujet à l'hypoglycémie (choc de glycémie basse).\n\nAujourd'hui, PetSelf décode le langage corporel du Chihuahua et présente une routine en 3 étapes pour le protéger des chocs à la tête et réguler son taux de sucre.",
         "whyTitle": "Signaux du Chihuahua : Tremblements émotionnels et grognement défensif",
-        "whyDesc": "Le Chihuahua est très sensible et se montre réactif en raison de sa taille. Les comportements clés incluent les tremblements et les grognements. Les tremblements surviennent avec le froid ou les émotions fortes (peur, joie). Grogner en montrant les dents est un avertissement de peur. Cessez le contact.",
+        "whyDesc": "Le Chihuahua est très sensible et se montre réactif en raison de sa taille. Les comportements clés incluent les **tremblements (Shivering)** et les **grognements (Growling)**. Les tremblements surviennent avec le froid ou les émotions fortes (peur, joie, anxiété), son système nerveux très réactif provoquant des contractions. Grogner en montrant les dents est un avertissement de peur. Cessez le contact.",
         "body_signals": [
           {
-            "name": "Tremblements",
-            "meaning": "Survient en raison du froid, ou comme réaction physique à des émotions fortes (excitation, peur).",
+            "name": "Tremblements (Shivering)",
+            "meaning": "Survient en raison du froid, ou comme réaction physique à des émotions fortes (excitation, peur, tension).",
             "response": "Enveloppez-le dans une couverture chaude et tenez-le calmement dans une pièce silencieuse."
           },
           {
-            "name": "Grognement défensif",
-            "meaning": "Un avertissement né de la peur, demandant d'arrêter le contact et de reculer.",
+            "name": "Grognement défensif (Growling)",
+            "meaning": "Un avertissement né de la peur que le contact soit menaçant, demandant d'arrêter le contact et de reculer.",
             "response": "Arrêtez immédiatement de le toucher, reculez et laissez-le se calmer seul."
           }
         ],
         "daily_routine": [
           {
             "name": "Matin : Contrôle de la molera et réglage du chauffage",
-            "text": "Évitez toute pression sur la tête (molera). Gardez la température intérieure chaude, autour de 24-26°C, car ils sont sensibles au froid."
+            "text": "Évitez toute pression sur la tête (molera). Gardez la température intérieure chaude, autour de 24-26°C, car ils sont très sensibles au froid."
           },
           {
             "name": "Après-midi : Promenade olfactive courte et désensibilisation au bruit",
             "text": "Évitez les rencontres forcées avec d'autres chiens. Laissez-le renifler, et pratiquez 5 min de désensibilisation à la sonnette avec des friandises."
           },
           {
-            "name": "Soir : Repas à heure fixe pour éviter l'hypoglycémie et soins des pattes",
+            "name": "Soir : Repas à heure fixe pour éviter l'hypoglycémie et soins des coussinets",
             "text": "Sa petite taille favorise les crises d'hypoglycémie. Respectez les heures de repas et tondez les poils sous les pattes pour éviter les glissades."
           }
         ],
         "faqs": [
           {
             "question": "La fontanelle ouverte (molera) du Chihuahua doit-elle se refermer ?",
-            "answer": "Environ 80 à 90 % des Chihuahuas vivent avec une fontanelle ouverte. Ce n'est pas une maladie, mais leur cerveau est moins protégé. Tout choc sur le front doit être strictement évité."
+            "answer": "Environ 80 à 90 % des Chihuahuas vivent avec une fontanelle ouverte. Ce n'est pas une maladie en soi, mais leur cerveau est moins protégé. Tout choc ou pression sur le front doit être strictement évité."
           },
           {
             "question": "Le tremblement du Chihuahua signifie-t-il toujours qu'il a froid ?",
-            "answer": "Ils ont peu de graisse et tremblent facilement avec le froid. Cependant, ils tremblent aussi sous le coup d'émotions fortes (joie, peur), leur système nerveux déclenchant des contractions."
+            "answer": "Ils ont peu de graisse et tremblent facilement avec le froid. Cependant, ils tremblent aussi sous le coup d'émotions fortes (joie, peur), leur système nerveux déclenchant des contractions. Observez le contexte pour diagnostiquer la cause."
           }
         ],
         "tags": [
           "Chihuahua",
-          "Protection Molera",
-          "Hypoglycémie",
-          "Soins Races Toy"
+          "ProtectionMolera",
+          "PréventionHypoglycémie",
+          "SoinsRacesToy"
         ]
       },
       "de": {
-        "title": "Der kleinste Krieger der Welt: Chihuahuas Molera-Schutz und 3-Schritte-Unterzuckerungspflege",
+        "title": "Der kleinste Krieger der Welt: Chihuahuas Molera-Schutz und 3-Schritte-Tagesroutine zur Unterzuckerungsprävention",
         "description": "Der Chihuahua, der kleinste Krieger. Erfahren Sie, wie Sie seinen Kopf (offene Molera) schützen, und eine 3-Schritte-Routine zur Vermeidung von Unterzuckerung.",
         "authority": "Rassehandbuch des Chihuahua Club of America und AVMA-Richtlinien für den Stoffwechsel von Zwergrassen",
         "profile": {
-          "breed": "Chihuahua",
+          "breed": "Chihuahua (Canis lupus familiaris)",
           "lifespan": "12 ~ 20 Jahre",
           "sleep_pattern": "12 ~ 14 Stunden (graben sich gerne unter Decken ein)",
           "temperament": "Mutig, Treu ergeben, Wachsam und abwehrbereit"
         },
-        "intro": "Chihuahuas sind die kleinsten Hunde der Welt, besitzen aber ein mutiges Wesen. Sie sind ihrem Besitzer gegenüber äußerst treu ergeben. 🐕\n\nIhr winziger Körper bringt jedoch anatomische Schwachstellen mit sich. Erste ist die offene Molera (Fontanelle) in ihrem Schädel. Druck auf den Kopf wirkt direkt auf das Gehirn. Zudem haben sie wenig Körperfett und einen schnellen Stoffwechsel, was sie anfällig für Hypoglykämie (Unterzuckerung) macht.\n\nHeute entschlüsselt PetSelf die Körpersprache des Chihuahuas und stellt eine 3-Schritte-Routine zum Schutz des Kopfes und zur Stoffwechselpflege vor.",
+        "intro": "Chihuahuas sind die kleinsten Hunde der Welt, besitzen aber das mutige Wesen eines wahren 'kleinen Kriegers'. Sie sind ihrem Besitzer gegenüber äußerst treu ergeben. 🐕\n\nIhr winziger Körper bringt jedoch anatomische Schwachstellen mit sich. Erste ist die offene Molera (Fontanelle) in ihrem Schädel. Druck auf den Kopf wirkt direkt auf das Gehirn, was besondere Vorsicht vor Stößen erfordert. Zudem haben sie wenig Körperfett und einen schnellen Stoffwechsel, was sie anfällig für Hypoglykämie (Unterzuckerungsschock) macht.\n\nHeute entschlüsselt PetSelf die Körpersprache des Chihuahuas und stellt eine 3-Schritte-Routine zum Schutz des Kopfes und zur Stoffwechselpflege vor.",
         "whyTitle": "Signale des Chihuahuas: Emotionales Zittern und defensives Knurren",
-        "whyDesc": "Chihuahuas sind sensibel und senden aufgrund ihrer Größe starke Signale. Zu den Reaktionen gehören Zittern und Knurren. Zittern tritt bei Kälte oder starken Emotionen wie Aufregung auf. Knurren mit Zähnefletschen ist eine Warnung aus Angst. Zwingen Sie sich nicht auf und halten Sie Abstand.",
+        "whyDesc": "Chihuahuas sind sensibel und senden aufgrund ihrer Größe starke Signale. Zu den Reaktionen gehören **Zittern (Shivering)** und **Knurren (Growling)**. Zittern tritt bei Kälte oder starken Emotionen wie Aufregung, Angst oder Anspannung auf. Knurren mit Zähnefletschen ist eine Warnung aus Angst. Zwingen Sie sich nicht auf und halten Sie Abstand.",
         "body_signals": [
           {
-            "name": "Zittern",
-            "meaning": "Tritt bei Kälte auf oder als körperliche Reaktion auf intensive Emotionen wie Aufregung.",
+            "name": "Zittern (Shivering)",
+            "meaning": "Tritt bei Kälte auf oder als körperliche Reaktion auf intensive Emotionen wie Aufregung, Angst oder Anspannung.",
             "response": "In eine warme Decke wickeln und in einem ruhigen Raum halten, um die Nerven zu beruhigen."
           },
           {
-            "name": "Defensives Knurren",
-            "meaning": "Eine Warnung aus Angst, die Sie auffordert, den Kontakt abzubrechen und zurückzutreten.",
+            "name": "Defensives Knurren (Growling)",
+            "meaning": "Eine Warnung aus Angst, dass Kontakt als Bedrohung empfunden wird, die Sie auffordert, den Kontakt abzubrechen.",
             "response": "Sofort aufhören zu berühren, zurücktreten und sie sich allein beruhigen lassen."
           }
         ],
@@ -325,49 +325,49 @@
         "faqs": [
           {
             "question": "Muss sich die Molera des Chihuahuas schließen? Ist es gefährlich, wenn sie offen bleibt?",
-            "answer": "Etwa 80-90 % der Chihuahuas leben ihr Leben lang mit einer offenen Molera. Dies ist keine Krankheit, bedeutet aber, dass der Schädel offen ist. Stöße auf den Kopf müssen streng vermieden werden."
+            "answer": "Etwa 80-90 % der Chihuahuas leben ihr Leben lang mit einer offenen Molera. Dies ist keine Krankheit an sich, bedeutet aber, dass der Schädel offen ist. Stöße oder starkes Drücken auf den Kopf müssen streng vermieden werden."
           },
           {
             "question": "Bedeutet das Zittern des Chihuahuas immer, dass ihm kalt ist?",
-            "answer": "Sie haben wenig Fett und frieren schnell. Sie zittern jedoch auch bei starken Emotionen wie Aufregung oder Angst, da ihr sensibles Nervensystem Muskelkontraktionen auslöst."
+            "answer": "Sie haben wenig Fett und frieren schnell. Sie zittern jedoch auch bei starken Emotionen wie großer Freude oder Wachsamkeit, da ihr sensibles Nervensystem Muskelkontraktionen auslöst. Betrachten Sie den Kontext zur Ursachenfindung."
           }
         ],
         "tags": [
           "Chihuahua",
-          "Molera-Schutz",
-          "Hypoglykämie",
+          "MoleraSchutz",
+          "HypoglykaemiePraevention",
           "Zwergrassenpflege"
         ]
       },
       "pt": {
-        "title": "O menor guerreiro do mundo: Proteção de moleira e cuidado de hipoglicemia de 3 passos do Chihuahua",
+        "title": "O menor guerreiro do mundo: Proteção de moleira e rotina diária de 3 passos para hipoglicemia do Chihuahua",
         "description": "O Chihuahua, o menor guerreiro. Descubra como proteger sua cabeça (moleira aberta) e uma rotina de 3 passos para evitar hipoglicemia e tremores.",
-        "authority": "Manual de raça do Chihuahua Club of America e diretrizes de cuidado metabólico de raças miniatura da AVMA",
+        "authority": "Manual de raça do Chihuahua Club of America e Diretrizes de Cuidado Metabólico de Raças Miniatura da AVMA",
         "profile": {
-          "breed": "Chihuahua",
+          "breed": "Chihuahua (Canis lupus familiaris)",
           "lifespan": "12 ~ 20 anos",
           "sleep_pattern": "12 ~ 14 horas (gostam de entrar sob as cobertas)",
           "temperament": "Valente, Fiel, Alerta e defensivo"
         },
-        "intro": "Os Chihuahuas são os menores cães do mundo mas possuem um temperamento muito valente. São extremamente leais e apegados aos donos. 🐕\n\nNo entanto, seu corpo diminuto apresenta fragilidades. A primeira é a moleira (fontanela aberta) em seu crânio. A pressão na cabeça afeta diretamente o cérebro. Além disso, metabolizam muito rápido, sendo propensos a tremores e hipoglicemia (baixo açúcar no sangue).\n\nHou, o PetSelf decodifica sua linguagem corporal e apresenta uma rotina de 3 passos para proteger a moleira e o açúcar.",
+        "intro": "Os Chihuahuas são os menores cães do mundo mas possuem o temperamento valente de verdadeiros 'pequenos guerreiros'. São extremamente leais e apegados aos donos. 🐕\n\nNo entanto, seu corpo diminuto apresenta fragilidades estruturais. A primeira é a moleira (fontanela aberta) em seu crânio. A pressão na cabeça afeta diretamente o cérebro, exigindo cuidados para evitar impactos. Além disso, metabolizam muito rápido e possuem pouca gordura corporal, sendo propensos a tremores e hipoglicemia (choque de baixo açúcar no sangue).\n\nHoje, o PetSelf decodifica sua linguagem corporal e apresenta uma rotina de 3 passos para proteger a moleira e o açúcar.",
         "whyTitle": "Sinais do Chihuahua: Tremores emocionais e rosnado defensivo",
-        "whyDesc": "Os Chihuahuas são sensíveis e ficam em alerta rápido. Os sinais chave são 'temblores' e 'rosnados'. Os tremores ocorrem por frio ou emoções como excitação ou medo. O rosnado mostrando dentes é um aviso de medo; forçar o contato pode provocar mordida. Dê espaço.",
+        "whyDesc": "Os Chihuahuas são sensíveis e ficam em alerta rápido. Os sinais chave são **'tremores' (Shivering)** e **'rosnados' (Growling)**. Os tremores ocorrem por frio ou emoções intensas como excitação, medo ou tensão, já que o sistema nervoso sensível causa contrações. O rosnado mostrando dentes é um aviso de medo; forçar o contato pode provocar mordida. Dê espaço.",
         "body_signals": [
           {
-            "name": "Tremores",
-            "meaning": "Ocorre devido ao frio, ou como resposta física a emoções intensas como excitação ou medo.",
+            "name": "Tremores (Shivering)",
+            "meaning": "Ocorre devido ao frio, ou como resposta física a emoções intensas como excitação, medo ou tensão.",
             "response": "Envolva-o em cobertor quente e segure-o em local silencioso para acalmá-lo."
           },
           {
-            "name": "Rosnado defensivo",
-            "meaning": "Um aviso de medo, pedindo que interrompa o contato e recue.",
+            "name": "Rosnado defensivo (Growling)",
+            "meaning": "Um aviso de medo de que o contato é ameaçador, pedindo que interrompa o contato e recue.",
             "response": "Pare de tocar ou se aproximar imediatamente, afaste-se e deixe que se acalme sozinho."
           }
         ],
         "daily_routine": [
           {
             "name": "Manhã: Controle de moleira e ajuste de aquecimento",
-            "text": "Evite pressionar a cabeça (moleira). Mantenha a temperatura interna morna, em torno de 24-26°C, pois são sensíveis ao frio."
+            "text": "Evite pressionar a cabeça (moleira). Mantenha a temperatura interna morna, em torno de 24-26°C, pois são muito sensíveis ao frio."
           },
           {
             "name": "Tarde: Passeios curtos de faro e dessensibilização a ruídos",
@@ -381,42 +381,42 @@
         "faqs": [
           {
             "question": "A moleira do Chihuahua deve fechar obrigatoriamente?",
-            "answer": "Cerca de 80-90% dos Chihuahuas vivem com a moleira aberta. Não é doença, mas significa que o crânio não protege totalmente o cérebro. Devem-se evitar pancadas na cabeça."
+            "answer": "Cerca de 80-90% dos Chihuahuas vivem com a moleira aberta. Não é uma doença em si, mas significa que o crânio não protege totalmente o cérebro. Pancadas ou pressões na cabeça devem ser estritamente evitadas."
           },
           {
             "question": "Os tremores do Chihuahua sempre significam que ele tem frio?",
-            "answer": "Eles têm pouca gordura e tremem no frio, mas também o fazem por emoções intensas como excitação ou medo, já que seu sistema nervoso sensível causa contrações."
+            "answer": "Eles têm pouca gordura e tremem no frio, mas também o fazem por emoções intensas como excitação ou alerta, já que seu sistema nervoso sensível causa contrações. Analise o contexto para determinar a causa."
           }
         ],
         "tags": [
           "Chihuahua",
-          "Proteção de Moleira",
-          "Hipoglicemia",
-          "Cuidado de Cães Toy"
+          "ProtecaoDeMoleira",
+          "PrevencaoDeHipoglicemia",
+          "CuidadoDeCaesToy"
         ]
       },
       "id": {
-        "title": "Prajurit Terkecil di Dunia: Perlindungan Molera dan Perawatan Hipoglikemia 3 Langkah Chihuahua",
+        "title": "Prajurit Terkecil di Dunia: Perlindungan Molera dan Rutinitas Harian 3 Langkah Perawatan Hipoglikemia Chihuahua",
         "description": "Chihuahua, anjing berani terkecil. Temukan tips melindungi fontanela tengkorak terbuka (molera) mereka dan rutinitas 3 langkah untuk mencegah hipoglikemia.",
         "authority": "Panduan Ras Resmi Chihuahua Club of America & Pedoman Perawatan Metabolik Ras Kecil AVMA",
         "profile": {
-          "breed": "Chihuahua",
+          "breed": "Chihuahua (Canis lupus familiaris)",
           "lifespan": "12 ~ 20 tahun",
           "sleep_pattern": "12 ~ 14 jam (suka bersarang di bawah selimut)",
           "temperament": "Berani, Setia, Waspada dan Protektif"
         },
-        "intro": "Chihuahua adalah anjing terkecil di dunia tetapi memiliki kepribadian pemberani. Mereka sangat setia kepada pemiliknya. 🐕\n\nNamun, tubuh kecil mereka memiliki kerentanan struktural yang serius. Pertama adalah molera (fontanela terbuka) pada tengkorak. Tekanan pada dahi diteruskan langsung ke otak. Mereka juga memiliki lemak tubuh minimal, sehingga rentan terhadap gemetar dan hipoglikemia (gula darah rendah).\n\nHari ini, PetSelf menguraikan bahasa tubuh Chihuahua dan menjelaskan rutinitas 3 langkah untuk perlindungan molera dan gula darah.",
+        "intro": "Chihuahua adalah anjing terkecil di dunia tetapi memiliki kepribadian pemberani layaknya 'prajurit kecil'. Mereka sangat setia kepada pemiliknya. 🐕\n\nNamun, tubuh kecil mereka memiliki kerentanan struktural yang serius. Pertama adalah molera (fontanela terbuka) pada tengkorak. Tekanan pada dahi diteruskan langsung ke otak, membutuhkan penanganan hati-hati dari benturan. Mereka juga memiliki lemak tubuh minimal, sehingga rentan terhadap gemetar dan hipoglikemia (syok gula darah rendah).\n\nHari ini, PetSelf menguraikan bahasa tubuh Chihuahua dan menjelaskan 3 langkah rutinitas harian untuk perlindungan molera dan gula darah.",
         "whyTitle": "Sinyal Chihuahua: Gemetar Emosional dan Geraman Defensif",
-        "whyDesc": "Chihuahua sangat sensitif dan mengekspresikan kewaspadaan yang kuat. Perilaku utama meliputi 'gemetar' and 'geraman'. Gemetar terjadi karena dingin atau emosi kuat seperti cemas atau gembira. Geraman sambil memperlihatkan gigi adalah peringatan agar Anda mundur. Berikan ruang.",
+        "whyDesc": "Chihuahua sangat sensitif dan mengekspresikan kewaspadaan yang kuat. Perilaku utama meliputi **'gemetar' (Shivering)** dan **'geraman' (Growling)**. Gemetar terjadi karena dingin atau emosi kuat seperti cemas, gembira, atau tegang, akibat sistem saraf sensitif memicu kontraksi. Geraman sambil memperlihatkan gigi adalah peringatan agar Anda mundur. Berikan ruang.",
         "body_signals": [
           {
-            "name": "Gemetar",
-            "meaning": "Terjadi karena dingin, atau sebagai respons fisik terhadap emosi intens seperti cemas atau gembira.",
+            "name": "Gemetar (Shivering)",
+            "meaning": "Terjadi karena dingin, atau sebagai respons fisik terhadap emosi intens seperti cemas, gembira, atau tegang.",
             "response": "Bungkus dengan selimut hangat dan peluk dengan tenang di ruangan bebas bising untuk menenangkan."
           },
           {
-            "name": "Geraman dengan Memperlihatkan Gigi",
-            "meaning": "Peringatan keras yang berasal dari rasa takut, meminta Anda menghentikan kontak dan mundur.",
+            "name": "Geraman dengan Memperlihatkan Gigi (Growling)",
+            "meaning": "Peringatan keras yang berasal dari rasa takut bahwa sentuhan mengancam, meminta Anda mundur.",
             "response": "Hentikan gerakan atau sentuhan segera, menjauhlah, dan biarkan mereka tenang sendiri."
           }
         ],
@@ -437,33 +437,33 @@
         "faqs": [
           {
             "question": "Apakah molera (fontanela terbuka) Chihuahua harus menutup?",
-            "answer": "Sekitar 80-90% Chihuahua hidup dengan molera terbuka. Meskipun bukan penyakit, itu berarti tengkorak mereka memiliki celah yang tidak melindungi otak sepenuhnya. Hindari benturan kepala."
+            "answer": "Sekitar 80-90% Chihuahua hidup dengan molera terbuka. Meskipun bukan penyakit, itu berarti tengkorak mereka memiliki celah yang tidak melindungi otak sepenuhnya. Benturan atau tekanan pada dahi harus dihindari secara ketat."
           },
           {
             "question": "Apakah gemetar pada Chihuahua selalu berarti mereka kedinginan?",
-            "answer": "Mereka tidak memiliki bulu halus dan lemak tubuh rendah, sehingga mudah gemetar saat dingin. Namun, mereka juga gemetar karena emosi intens, karena sistem saraf sensitif memicu kontraksi otot."
+            "answer": "Mereka tidak memiliki bulu halus dan lemak tubuh rendah, sehingga mudah gemetar saat dingin. Namun, mereka juga gemetar karena emosi intens seperti gembira atau waspada, karena sistem saraf sensitif memicu kontraksi otot. Amati konteks untuk menentukan penyebabnya."
           }
         ],
         "tags": [
           "Chihuahua",
-          "Perlindungan Molera",
-          "Hipoglikemia",
-          "Perawatan Ras Kecil"
+          "PerlindunganMolera",
+          "PencegahanHipoglikemia",
+          "PerawatanRasKecil"
         ]
       },
       "ko": {
-        "title": "세상에서 가장 작은 용사 치와와, 천문 보호와 저혈당 방지 3단계 케어",
+        "title": "세상에서 가장 작은 용사 치와와, 천문 보호와 저혈당 방지 3단계 루틴",
         "description": "용감하고 작지만 약한 면을 가진 치와와. 두개골 상부 천문 부위의 충격 방지 팁과 혈당 급감에 따른 쇼크를 예방하기 위한 3단계 데일리 라이프 루틴을 설계합니다.",
         "authority": "Chihuahua Club of America 및 AVMA 초소형견 대사/건강 케어 지침",
         "profile": {
-          "breed": "치와와 (Chihuahua)",
+          "breed": "치와와 (Canis lupus familiaris)",
           "lifespan": "12 ~ 20년",
           "sleep_pattern": "12 ~ 14시간 (보온 이불 파고들기)",
           "temperament": "용감함, 충성심, 예민한 자기방어"
         },
         "intro": "치와와(Chihuahua)는 멕시코 지역 출신으로, 전 세계에서 가장 작은 체구를 가졌지만 사자 못지않은 강단 있는 성격을 자랑하는 '꼬마 전사' 강아지입니다. 큰 귀와 동그란 눈, 그리고 당당한 발걸음이 매력적이며 보호자를 향한 충성심과 독점욕이 무척 강합니다. 🐕\n\n하지만 초소형견이기 때문에 신체 구조적으로 약한 면도 많습니다. 첫 번째는 두개골 뼈 상부 접합부가 완전히 닫히지 않고 구멍으로 남아있는 '천문(Molera)' 뼈의 특성입니다. 정수리에 가해지는 압박이 뇌에 바로 전해지기 때문에 충격을 방지하는 노하우가 필수적입니다. 또한, 체지방량이 적고 신진대사가 극도로 민감하여 추위에 쉽게 떨며, 공복 상태가 조금만 길어져도 쇼크를 유발하는 '저혈당증(Hypoglycemia)'에 노출되기 쉽습니다.\n\n오늘 PetSelf에서는 예민한 치와와의 바디 랭귀지를 완벽 해독하고, 두개골 보호 및 혈당 평형을 유지할 수 있는 3단계 정밀 데일리 홈케어 루틴을 공유합니다.",
         "whyTitle": "치와와가 보내는 신호: 감정의 온몸 떨림과 두려움의 으르렁",
-        "whyDesc": "치와와는 성격이 예민하고 신체가 작아 주변의 위협에 대해 격렬한 시그널을 보냅니다. 대표적인 반응은 '온몸 떨림(Shivering)'과 '으르렁거리기(Growling)'입니다. 치와와가 부르르 떠는 것은 추울 때뿐만 아니라 기쁨, 흥분, 불안 등 강한 감정을 주체하지 못할 때 뇌가 척수에 신호를 보내 근육을 떠는 감정적 표현입니다. 또한 으르렁거리며 콧주름을 세우는 것은 무서우니 더 다가오지 말라는 극도의 공포 방어 신호입니다. 이때 억지로 안으려 하면 손을 물 수 있으므로 즉시 거리를 두는 것이 안전합니다.",
+        "whyDesc": "치와와는 성격이 예민하고 신체가 작아 주변의 위협에 대해 격렬한 시그널을 보냅니다. 대표적인 반응은 **'온몸 떨림(Shivering)'**과 **'으르렁거리기(Growling)'**입니다. 치와와가 부르르 떠는 것은 추울 때뿐만 아니라 기쁨, 흥분, 불안 등 강한 감정을 주체하지 못할 때 뇌가 척수에 신호를 보내 근육을 떠는 감정적 표현입니다. 또한 으르렁거리며 콧주름을 세우는 것은 무서우니 더 다가오지 말라는 극도의 공포 방어 신호입니다. 이때 억지로 안으려 하면 손을 물 수 있으므로 즉시 거리를 두는 것이 안전합니다.",
         "body_signals": [
           {
             "name": "온몸 떨림 (Shivering)",
@@ -502,9 +502,9 @@
         ],
         "tags": [
           "치와와",
-          "천문 보호",
-          "저혈당 예방",
-          "초소형견 케어"
+          "천문보호",
+          "저혈당예방",
+          "초소형견케어"
         ]
       }
     },

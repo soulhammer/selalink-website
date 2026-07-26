@@ -1,36 +1,36 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "Klopfzeichen des Farbenzwergkaninchens und 3-Schritt-Routine für die Verdauungsgesundheit"
+title: "Klopfzeichen des Farbenzwergkaninchens und tägliche 3-Schritt-Routine für die Verdauungsgesundheit"
 description: "Pflege für die kleinste Kaninchenrasse, das Farbenzwergkaninchen. Lernen Sie, auf Warnklopfen zu reagieren, und unterstützen Sie das empfindliche Verdauungssystem mit einer 3-Schritt-Heuroutine."
 pubDate: "2026-02-17"
 updatedDate: "2026-02-17"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Farbenzwergkaninchen (Netherland Dwarf Rabbit)"]
+tags: ["Haustierpflege","Haustiergesundheit","Farbenzwergkaninchen (Oryctolagus cuniculus)"]
 heroImage: "/images/blog/dwarf_rabbit_care.png"
 app: "petself"
 formatVersion: 4
 authority: "Medizinische Richtlinien der House Rabbit Society und Tierärztliche Standards für Kleintiere"
 steps:
   - name: "Kaninchen-Emotionsausdruck: Hinterpfoten-Klopfen und Zähneknirschen"
-    text: "Farbenzwergkaninchen klopfen laut mit den Hinterpfoten auf den Boden 'Klopfen mit den Hinterpfoten (Thumping)', um vor Gefahren zu warnen oder tiefe Frustration auszudrücken. Umgekehrt reiben sie bei Entspannung und Freude leicht mit den Zähnen, um ein leises Klicken zu erzeugen, das 'Zähneknirschen (Teeth Purring)' genannt wird. Das Erkennen dieser Signale sichert eine glückliche und gesunde Bindung."
-  - name: "Farbenzwergkaninchen (Netherland Dwarf Rabbit)'s Body Language & Signals"
-    text: "* Pfotenklopfen (Thumping): Eine deutliche Warnung, um andere vor Gefahren zu warnen oder starken Ärger und Stress auszudrücken. (Identifizieren Sie den Stressfaktor, blockieren Sie plötzlichen Lärm oder andere Haustiere und beobachten Sie aus der Ferne, bis sie sich sicher fühlen.)
+    text: "Farbenzwergkaninchen klopfen laut mit den Hinterpfoten auf den Boden 'Klopfen mit den Hinterpfoten (Thumping)', um vor Gefahren zu warnen oder tiefe Frustration und Ablehnung auszudrücken. Umgekehrt reiben sie bei Entspannung und Freude leicht mit den Zähnen, um ein leises Klicken zu erzeugen, das 'Zähneknirschen (Teeth Purring)' genannt wird. Das Erkennen dieser Signale sichert eine glückliche und gesunde Bindung."
+  - name: "Farbenzwergkaninchen (Oryctolagus cuniculus)'s Body Language & Signals"
+    text: "* Pfotenklopfen (Thumping): Eine deutliche Warnung, um andere vor Gefahren zu warnen oder starken Ärger, Stress und Ablehnung auszudrücken. (Identifizieren Sie den Stressfaktor, blockieren Sie plötzlichen Lärm oder andere Haustiere und beobachten Sie aus der Ferne, bis sie sich sicher fühlen.)
 
-* Zähneknirschen (Teeth Purring): Ein Zeichen von Freude und Sicherheit, ähnlich dem Schnurren einer Katze, das oft beim Streicheln zu spüren ist. (Massieren Sie sanft die Stirn und die Basis der Ohren, um die emotionale Bindung zu vertiefen.)"
+* Zähneknirschen (Teeth Purring): Ein Zeichen von Freude und Sicherheit, ähnlich dem Schnurren einer Katze, das oft beim sanften Streicheln zu spüren ist. (Massieren Sie sanft die Stirn und die Basis der Ohren, um die emotionale Bindung zu vertiefen.)"
   - name: "Customized 3-Step Home Care Routine"
-    text: "* STEP 1. Morgen: Fütterung von Timothy-Heu und frischem Wasser: Für den Zahnabrieb und eine aktive Verdauung füllen Sie die Heuraufe mit frischem, staubfreiem Timothy-Heu und reinigen Sie den Wassernapf.
+    text: "* STEP 1. Morgen: Fütterung von balanciertem Timothy-Heu und frischem Wasser: Für den Zahnabrieb und eine aktive Darmperistaltik füllen Sie die Heuraufe früh morgens mit frischem, staubfreiem Timothy-Heu und reinigen Sie den Wassernapf für frisches Trinkwasser.
 
-* STEP 2. Nachmittag: Reinigung der Katzentoilette und Kontrolle der Pfotenballen: Reinigen Sie die Katzentoilette, um die Hygiene zu wahren, und kontrollieren Sie die Pfotenballen zur Vermeidung von wunden Läufen (Pododermatitis).
+* STEP 2. Nachmittag: Reinigung der Toilettenschale und Kontrolle der Pfotenballen: Reinigen Sie die Toilettenschale für gute Hygiene und kontrollieren Sie die Pfotenballen und Bodenmatten zur Vermeidung von wunden Läufen (Pododermatitis).
 
-* STEP 3. Abend: Überprüfung des Knabberspielzeugs und Krallenschneiden: Stellen Sie frische Apfelbaumzweige bereit, um den Knabbertrieb zu befriedigen, und überprüfen Sie die Krallenlänge, um Hängenbleiben zu verhindern."
+* STEP 3. Abend: Überprüfung von Knabberholz und regelmäßiges Krallenschneiden: Stellen Sie frische Apfelbaumzweige während der abendlichen Aktivitätsphase bereit und überprüfen Sie die Krallenlänge, um Verletzungen vorzubeugen."
 faqs:
   - question: "Sollte ich mein Kaninchen im Wasser baden?"
-    answer: "Nein. Kaninchen haben eine sehr dünne Haut, und das Nasswerden kann zu schwerer Unterkühlung oder einem tödlichen Schock führen. Sie reinigen sich selbst durch Putzen. Reinigen Sie verschmutzte Bereiche nur vorsichtig mit einem feuchten Tuch."
+    answer: "Nein. Kaninchen haben eine sehr dünne Haut, und das Nasswerden kann zu schwerer Unterkühlung oder einem tödlichen Schock führen, da sie die Thermoregulation verlieren. Sie reinigen sich selbst durch Putzen. Reinigen Sie verschmutzte Bereiche nur vorsichtig mit einem feuchten Tuch."
   - question: "Was tun, wenn der Kot meines Kaninchens kleiner wird oder es aufhört zu fressen?"
-    answer: "Ein plötzlicher Appetitverlust oder winzige Kotkügelchen sind frühe Anzeichen einer Magen-Darm-Stase. Da ein Darmstillstand beim Kaninchen schnell tödlich sein kann, kontaktieren Sie sofort einen Tierarzt für exotische Kleintiere."
+    answer: "Ein plötzlicher Appetitverlust für Heu oder winzige Kotkügelchen sind frühe Anzeichen einer Magen-Darm-Stase. Da ein Darmstillstand beim Pflanzenfresser schnell tödlich sein kann, kontaktieren Sie sofort einen Tierarzt für exotische Kleintiere."
 ---
 
-Mit winzigen Ohren und einem kompakten runden Körper ist das Farbenzwergkaninchen weltweit beliebt. Aufgrund ihrer geringen Größe sind sie jedoch leicht erschreckbar und neigen bei unzureichender Rohfaseraufnahme leicht zu lebensbedrohlichen Problemen wie der Magen-Darm-Hefe-Verstopfung (GI-Stasis). Bei Angst klopfen sie als starkes Warnsignal mit den Hinterpfoten auf den Boden. Heute analysiert PetSelf diese Klopfverhaltensweisen und teilt eine 3-Schritt-Tagesroutine für Verdauungsgesundheit und Krallensicherheit.
+Mit winzigen Ohren und einem kompakten runden Körper ist das Farbenzwergkaninchen weltweit beliebt. Aufgrund ihrer geringen Größe sind sie jedoch leicht erschreckbar und sehr empfindlich gegenüber Umweltveränderungen. Bei unzureichender Rohfaseraufnahme neigen sie zu lebensbedrohlichen Problemen wie der Magen-Darm-Stase (GI-Stasis). Bei Angst klopfen sie als starkes Warnsignal mit den Hinterpfoten auf den Boden. Heute analysiert PetSelf diese Klopfverhaltensweisen und teilt eine 3-Schritt-Tagesroutine für Verdauungsgesundheit und Krallensicherheit.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -54,13 +54,13 @@ Mit winzigen Ohren und einem kompakten runden Körper ist das Farbenzwergkaninch
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Kaninchen-Emotionsausdruck: Hinterpfoten-Klopfen und Zähneknirschen</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Farbenzwergkaninchen klopfen laut mit den Hinterpfoten auf den Boden 'Klopfen mit den Hinterpfoten (Thumping)', um vor Gefahren zu warnen oder tiefe Frustration auszudrücken. Umgekehrt reiben sie bei Entspannung und Freude leicht mit den Zähnen, um ein leises Klicken zu erzeugen, das 'Zähneknirschen (Teeth Purring)' genannt wird. Das Erkennen dieser Signale sichert eine glückliche und gesunde Bindung.
+    Farbenzwergkaninchen klopfen laut mit den Hinterpfoten auf den Boden 'Klopfen mit den Hinterpfoten (Thumping)', um vor Gefahren zu warnen oder tiefe Frustration und Ablehnung auszudrücken. Umgekehrt reiben sie bei Entspannung und Freude leicht mit den Zähnen, um ein leises Klicken zu erzeugen, das 'Zähneknirschen (Teeth Purring)' genannt wird. Das Erkennen dieser Signale sichert eine glückliche und gesunde Bindung.
   </p>
 </div>
 
 ---
 
-## 2. Farbenzwergkaninchen (Netherland Dwarf Rabbit)'s Body Language & Signals
+## 2. Farbenzwergkaninchen (Oryctolagus cuniculus)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -68,7 +68,7 @@ Mit winzigen Ohren und einem kompakten runden Körper ist das Farbenzwergkaninch
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pfotenklopfen (Thumping)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Bedeutung:</strong> Eine deutliche Warnung, um andere vor Gefahren zu warnen oder starken Ärger und Stress auszudrücken.<br/>
+    <strong>• Bedeutung:</strong> Eine deutliche Warnung, um andere vor Gefahren zu warnen oder starken Ärger, Stress und Ablehnung auszudrücken.<br/>
     <strong>• Reaktion:</strong> Identifizieren Sie den Stressfaktor, blockieren Sie plötzlichen Lärm oder andere Haustiere und beobachten Sie aus der Ferne, bis sie sich sicher fühlen.
   </p>
 </div>
@@ -79,7 +79,7 @@ Mit winzigen Ohren und einem kompakten runden Körper ist das Farbenzwergkaninch
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Zähneknirschen (Teeth Purring)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Bedeutung:</strong> Ein Zeichen von Freude und Sicherheit, ähnlich dem Schnurren einer Katze, das oft beim Streicheln zu spüren ist.<br/>
+    <strong>• Bedeutung:</strong> Ein Zeichen von Freude und Sicherheit, ähnlich dem Schnurren einer Katze, das oft beim sanften Streicheln zu spüren ist.<br/>
     <strong>• Reaktion:</strong> Massieren Sie sanft die Stirn und die Basis der Ohren, um die emotionale Bindung zu vertiefen.
   </p>
 </div>
@@ -91,30 +91,30 @@ Mit winzigen Ohren und einem kompakten runden Körper ist das Farbenzwergkaninch
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Morgen: Fütterung von Timothy-Heu und frischem Wasser</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Morgen: Fütterung von balanciertem Timothy-Heu und frischem Wasser</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Für den Zahnabrieb und eine aktive Verdauung füllen Sie die Heuraufe mit frischem, staubfreiem Timothy-Heu und reinigen Sie den Wassernapf.
+    Für den Zahnabrieb und eine aktive Darmperistaltik füllen Sie die Heuraufe früh morgens mit frischem, staubfreiem Timothy-Heu und reinigen Sie den Wassernapf für frisches Trinkwasser.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Nachmittag: Reinigung der Katzentoilette und Kontrolle der Pfotenballen</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Nachmittag: Reinigung der Toilettenschale und Kontrolle der Pfotenballen</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Reinigen Sie die Katzentoilette, um die Hygiene zu wahren, und kontrollieren Sie die Pfotenballen zur Vermeidung von wunden Läufen (Pododermatitis).
+    Reinigen Sie die Toilettenschale für gute Hygiene und kontrollieren Sie die Pfotenballen und Bodenmatten zur Vermeidung von wunden Läufen (Pododermatitis).
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Abend: Überprüfung des Knabberspielzeugs und Krallenschneiden</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Abend: Überprüfung von Knabberholz und regelmäßiges Krallenschneiden</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Stellen Sie frische Apfelbaumzweige bereit, um den Knabbertrieb zu befriedigen, und überprüfen Sie die Krallenlänge, um Hängenbleiben zu verhindern.
+    Stellen Sie frische Apfelbaumzweige während der abendlichen Aktivitätsphase bereit und überprüfen Sie die Krallenlänge, um Verletzungen vorzubeugen.
   </p>
 </div>
 
@@ -133,7 +133,7 @@ Mit winzigen Ohren und einem kompakten runden Körper ist das Farbenzwergkaninch
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Nein. Kaninchen haben eine sehr dünne Haut, und das Nasswerden kann zu schwerer Unterkühlung oder einem tödlichen Schock führen. Sie reinigen sich selbst durch Putzen. Reinigen Sie verschmutzte Bereiche nur vorsichtig mit einem feuchten Tuch.
+      Nein. Kaninchen haben eine sehr dünne Haut, und das Nasswerden kann zu schwerer Unterkühlung oder einem tödlichen Schock führen, da sie die Thermoregulation verlieren. Sie reinigen sich selbst durch Putzen. Reinigen Sie verschmutzte Bereiche nur vorsichtig mit einem feuchten Tuch.
     </p>
   </details>
 
@@ -143,7 +143,7 @@ Mit winzigen Ohren und einem kompakten runden Körper ist das Farbenzwergkaninch
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Ein plötzlicher Appetitverlust oder winzige Kotkügelchen sind frühe Anzeichen einer Magen-Darm-Stase. Da ein Darmstillstand beim Kaninchen schnell tödlich sein kann, kontaktieren Sie sofort einen Tierarzt für exotische Kleintiere.
+      Ein plötzlicher Appetitverlust für Heu oder winzige Kotkügelchen sind frühe Anzeichen einer Magen-Darm-Stase. Da ein Darmstillstand beim Pflanzenfresser schnell tödlich sein kann, kontaktieren Sie sofort einen Tierarzt für exotische Kleintiere.
     </p>
   </details>
 </div>

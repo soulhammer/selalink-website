@@ -3,467 +3,19 @@
     "pubDate": "2026-06-18",
     "updatedDate": "2026-06-18",
     "locales": {
-      "en": {
-        "title": "A Cat That Hugs Like a Doll? Ragdoll's Safe Holding and 3-Step Joint Home Care",
-        "description": "Ragdolls, the giant fluffy cats that go limp like dolls when held. Learn tips to protect their large frame joints and a 3-step home care routine for safe holding.",
-        "authority": "Official Cat Fanciers' Association (CFA) Breed Guide & AAFP Cat Friendly Practice Guidelines",
-        "profile": {
-          "breed": "Ragdoll",
-          "lifespan": "12 ~ 17 years",
-          "sleep_pattern": "12 ~ 14 hours (high trust in owner)",
-          "temperament": "Docile, Calm, Highly Social"
-        },
-        "intro": "Ragdolls are large, fluffy cats famous for going completely limp like a rag doll when held. With their captivating blue eyes, silky coats, and incredibly gentle personalities, they are often called 'angel cats.' 🐈\n\nHowever, because they are a large breed reaching weights of 7 to 10 kg, their lower joints carry a heavy load. Furthermore, their signature limp posture when held can put twisting stress on their spine if not supported properly. Learning correct holding techniques is essential for their lifetime skeletal health.\n\nToday, PetSelf decodes Ragdoll body language and introduces a safe 3-step daily care routine to protect their joints and build mutual trust.",
-        "whyTitle": "Ragdoll's Calming Signals: Slow Blinks and Relaxed Paw Flexing",
-        "whyDesc": "Ragdoll cats express their high trust not just by going limp, but also through eye and paw gestures. Key signals of comfort include 'slow blinks' and 'paw flexing'. Looking at you and blinking very slowly is a message of complete safety and affection. When they feel extremely happy, they flex and stretch their toes like a fan. Massaging under their chin or behind the ears during this time maximizes their feeling of security.",
-        "body_signals": [
-          {
-            "name": "Slow Blink",
-            "meaning": "A sign of affection, showing they completely trust you and feel safe in their environment.",
-            "response": "Respond by blinking back slowly to strengthen your bond and mutual trust."
-          },
-          {
-            "name": "Paw Flexing",
-            "meaning": "Indicates extreme comfort and happiness, mimicking the memory of nursing as a kitten.",
-            "response": "Continue gently stroking under their chin or neck to keep them in this relaxed state."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Morning: Light Physical Release and Stretching for Skeletal Health",
-            "text": "As a large breed, physical strain accumulates in their joints. Before they start moving, gently hold and stretch their hind legs to protect joint mobility."
-          },
-          {
-            "name": "Afternoon: Pin Brushing to Prevent Tangles and Aerate Coat",
-            "text": "Ragdoll undercoats are very soft and prone to matting. Comb along the fur pattern with a round-tipped pin brush to aerate the coat and prevent skin issues and hairballs."
-          },
-          {
-            "name": "Evening: Spine-safe Holding Technique with Hip Support",
-            "text": "Lifting only their upper body causes spine twisting and joint strain from their weight. Always support their chest with one hand and their hips with the other."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Does the Ragdoll going limp when held mean they have weak bones?",
-            "answer": "No. This is a unique genetic behavioral trait of Ragdolls where they fully relax their muscles when they feel completely safe and trust their handler. It is not a physical defect."
-          },
-          {
-            "question": "What happens if I don't support a Ragdoll's hips when holding them?",
-            "answer": "Since they are a large breed, holding them only by their armpits puts their entire weight (often over 7kg) on their spine and ribs, significantly raising the risk of disc herniation or joint subluxation."
-          }
-        ],
-        "tags": [
-          "Ragdoll Cat",
-          "Safe Holding",
-          "Joint Care",
-          "Cat Home Care"
-        ]
-      },
-      "ja": {
-        "title": "ぬいぐるみのように抱っこされる猫？ラグドールの安心抱っこと関節ホームケア3段階",
-        "description": "抱き上げるとぬいぐるみのように力を抜く愛らしい巨大長毛種ラグドール。重い体格から生じやすい下半身の関節トラブル予防と、正しい抱っこの3段階ホームケアを紹介します。",
-        "authority": "キャットファンシャーズアソシエーション(CFA)公式ラグドールガイド＆AAFP猫フレンドリーガイドライン",
-        "profile": {
-          "breed": "ラグドール",
-          "lifespan": "12 ~ 17年",
-          "sleep_pattern": "12 ~ 14時間（飼い主密着型）",
-          "temperament": "温厚、落ち着き、従順"
-        },
-        "intro": "ラグドール(Ragdoll)は、抱っこすると骨がないかのように体の力を完全に抜いて、ぬいぐるみのようにもたれかかる独特な習性で知られる大型猫です。青い宝石のような瞳と上品な被毛、そして極めて温厚でフレンドリーな性格から「天使の猫」とも呼ばれます。🐈\n\nしかし、大型猫種であるため成長が遅く、体重が7〜10kgに達することもあるため、足腰の関節に大きな負担がかかりがちです。また、独特の力を抜いた姿勢が、間違った抱き方によって脊椎に捻れのストレスを与えることがあります。正しい抱き方を習得することが一生の関節健康を左右します。\n\n本日、PetSelfではラグドールのボディランゲージを解読し、関節を守りながら信頼を高める3段階のケアを紹介します。",
-        "whyTitle": "ラグドールのカーミングシグナル：目での挨拶と指開きのしぐさ",
-        "whyDesc": "ラグドールは、体の力を抜くこと以外にも、目元や足先のしぐさで信頼を表現します。代表的なリラックスサインは「ゆっくりした瞬き」と「指を開く動作」です。飼い主を見つめながらゆっくり目を閉じて開けるしぐさは、完全な安心感と愛情の現れです。さらに心地よい時には、足の指を扇のように大きく開いたり閉じたりします。この時に顎の下などを撫でてあげると、さらなる幸福感を感じてくれます。",
-        "body_signals": [
-          {
-            "name": "ゆっくりした瞬き (Slow Blink)",
-            "meaning": "相手を全面的に信頼し、周囲の環境に安心しているという愛情サインです。",
-            "response": "こちらもゆっくり目を閉じて開ける動作で返答し、信頼関係を深めましょう。"
-          },
-          {
-            "name": "指を開く動作 (Paw Flexing)",
-            "meaning": "子猫時代に母猫に甘えていた記憶を思い出し、極上の快適さを感じているサインです。",
-            "response": "この動作を見せた時は、顎の下や首周りを撫で続けてあげるとさらに喜びます。"
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "朝：骨格を活性化させるための優しいストレッチ",
-            "text": "大型猫のため後ろ足の関節に疲労が溜まりやすいです。活動を始める前に、後ろ足を優しく持って軽く伸ばすストレッチを行い、関節を保護します。"
-          },
-          {
-            "name": "昼：毛玉防止のためのピンブラシによるブラッシング",
-            "text": "ラグドールのアンダーコートは柔らかくもつれやすいです。先端の丸いピンブラシで毛並みに沿って梳かし、通気性を良くして皮膚炎とヘアボールを予防します。"
-          },
-          {
-            "name": "夜：お尻をしっかり支えて抱っこする安心スキンシップ",
-            "text": "上半身だけを抱き上げると、体重の負荷で脊椎や関節を痛めます。必ず片手で胸を、もう片方の手でお尻をしっかりと支え、安心できる姿勢を作ってください。"
-          }
-        ],
-        "faqs": [
-          {
-            "question": "ラグドールが抱っこされた時に力を抜くのは、骨や関節が弱いからですか？",
-            "answer": "いいえ、これは遺伝的な特徴で、相手に対して強い安心感と信頼を感じた時に全身の筋肉を弛緩させるラグドール独自の性質です。身体的な異常ではありません。"
-          },
-          {
-            "question": "ラグドールを抱く時にお尻を支えないと、どうなりますか？",
-            "answer": "ラグドールは大型猫のため、お尻を支えずに脇の下だけを持ち上げると、7kg以上の荷重が脊椎関節や肋骨に集中し、ヘルニアや脱臼のリスクが高まります。"
-          }
-        ],
-        "tags": [
-          "ラグドール",
-          "抱き方",
-          "関節ケア",
-          "猫のホームケア"
-        ]
-      },
-      "zh": {
-        "title": "像玩偶一样被抱着的猫？布偶猫的安心抱姿与关节家庭护理3步惯例",
-        "description": "抱起时像玩偶般全身放松的可爱大型长毛布偶猫。介绍因体重大易导致的下肢关节痛预防方法，以及正确抱姿的3步日常护理惯例。",
-        "authority": "猫发烧友协会 (CFA) 官方布偶猫指南与 AAFP 猫咪友好诊疗指南",
-        "profile": {
-          "breed": "布偶猫",
-          "lifespan": "12 ~ 17年",
-          "sleep_pattern": "12 ~ 14小时（高度依赖与信赖家长）",
-          "temperament": "温顺、安静、极具社交性"
-        },
-        "intro": "布偶猫（Ragdoll）是一种以被抱起时像骨头消失了一样全身放松、如布娃娃般瘫软在人怀里而闻名的巨型猫咪。凭借蓝宝石般的眼睛、高贵的毛发以及令人难以置信的温顺友好性格，它们被人们亲切地称为“天使猫”。🐈\n\n然而，作为大型猫种，它们的骨骼发育缓慢，成年后体重可达 7 至 10 公斤，因此下肢关节极易承受过大负荷。此外，被抱时那种特有的瘫软姿势若抱法不当，反倒会给脊椎或关节带来扭转性冲击，因此正确的抱姿是保障其一生关节健康的关键基础。\n\n今天，PetSelf 将为您解读布偶猫的身体语言，并介绍一套既能保护关节又能加深信任的日常3步护理惯例。",
-        "whyTitle": "布偶猫的安定信号：眼部交流与放松地张开脚趾",
-        "whyDesc": "布偶猫表达对家长的极度信任，除了放松身体外，还会通过细腻的眼神和脚部动作体现。其最典型的放松信号是“眼神交流（Slow Blink）”和“张开脚趾（Paw Flexing）”。它们看着家长并非常缓慢地闭眼再睁开，是毫无戒备、完全安心的爱意表达。如果此时心情极佳，它们还会像扇子一样张开脚趾再收拢。此时轻轻抓挠其下巴或耳后，布偶猫的幸福感会瞬间拉满。",
-        "body_signals": [
-          {
-            "name": "眼神交流 (Slow Blink)",
-            "meaning": "表明它们完全信任家长并在当前环境中感到平静与安全的爱意信号。",
-            "response": "以同样的节奏回以缓慢闭眼和睁眼，以此回应它们以增进信任感。"
-          },
-          {
-            "name": "张开脚趾 (Paw Flexing)",
-            "meaning": "联想到在母猫怀里哺乳的记忆，表明此刻内心极度舒适与满足。",
-            "response": "出现此动作时，不要停止抚摸，继续揉搓其下巴或脖子周围，它们会更加享受。"
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "早晨：旨在舒缓骨骼的温和身体拉伸",
-            "text": "由于是大型猫，其下肢关节极易累积疲劳。在开始一天的活动前，温柔握住其后肢并轻轻拉伸以保护关节的活动范围。"
-          },
-          {
-            "name": "中午：防止打结 针梳梳理与被毛通风",
-            "text": "布偶猫的底毛非常柔软且浓密，极易打结。应使用针尖圆滑的针梳顺着毛流梳理，使被毛通风，提前防止皮肤炎与毛球症的产生。"
-          },
-          {
-            "name": "晚上：托住臀部的安全抱姿交流",
-            "text": "抱起时若仅提起上半身，会导致脊椎扭转，且布偶猫自身的体重会使关节受损。必须一手托住前胸，另一手稳稳托住臀部抱起，让其处于安心状态。"
-          }
-        ],
-        "faqs": [
-          {
-            "question": "布偶猫被抱时身体瘫软是因为骨骼或关节虚弱吗？",
-            "answer": "并非如此。这是布偶猫特有的行为遗传特征，当它们对抱它的人感到极度安全与信任时，会主动放松全身的紧张性肌肉。这并非身体缺陷导致。"
-          },
-          {
-            "question": "抱布偶猫时不托住臀部会有什么后果？",
-            "answer": "布偶猫是大型猫，如果不托住臀部仅提起其双腋，会导致其7公斤以上的体重全部集中在脊椎骨关节和肋骨上, 极大增加脊椎盘受损或脱位的风险。"
-          }
-        ],
-        "tags": [
-          "布偶猫",
-          "抱姿训练",
-          "关节护理",
-          "猫咪家庭护理"
-        ]
-      },
-      "es": {
-        "title": "¿Un gato que se abraza como un muñeco? Rutina de 3 pasos de sujeción segura y cuidado articular del Ragdoll",
-        "description": "Ragdolls, los gatos gigantes que se relajan como muñecos al cargarlos. Aprenda consejos para proteger sus articulaciones y una rutina de 3 pasos de sujeción segura.",
-        "authority": "Guía de razas de la Cat Fanciers' Association (CFA) y directrices de práctica amigable con los gatos de AAFP",
-        "profile": {
-          "breed": "Ragdoll",
-          "lifespan": "12 ~ 17 años",
-          "sleep_pattern": "12 ~ 14 horas (alta confianza en el dueño)",
-          "temperament": "Dócil, Tranquilo, Muy Social"
-        },
-        "intro": "Los Ragdolls son gatos grandes y peludos famosos por relajarse por completo como un muñeco de trapo al cargarlos. Con sus ojos azules, pelaje sedoso y temperamento dócil, a menudo son llamados 'gatos ángel'. 🐈\n\nSin embargo, al ser una raza grande que alcanza pesos de 7 a 10 kg, sus articulaciones inferiores soportan una carga pesada. Además, su postura relajada al cargarlos puede causar torsión en la columna si no se sostiene adecuadamente. Aprender técnicas correctas es esencial para su salud esquelética.\n\nHoy, PetSelf descodifica el lenguaje corporal del Ragdoll e introduce una rutina de cuidado diario de 3 pasos para proteger sus articulaciones.",
-        "whyTitle": "Señales de calma del Ragdoll: Parpadeos lentos y dedos relajados",
-        "whyDesc": "Los Ragdolls expresan su confianza no solo al relajarse, sino también a través de gestos con los ojos y las patas. Las señales clave incluyen 'parpadeos lentos' y 'dedos relajados'. Mirarle y parpadear lentamente es un mensaje de afecto. Cuando se sienten extremadamente felices, extienden los dedos de las patas como un abanico. Acariciar bajo su barbilla durante este momento maximiza su seguridad.",
-        "body_signals": [
-          {
-            "name": "Parpadeo lento",
-            "meaning": "Una señal de afecto, que muestra que confían en usted y se sienten seguros.",
-            "response": "Responda parpadeando lentamente para fortalecer su vínculo y confianza mutua."
-          },
-          {
-            "name": "Dedos relajados",
-            "meaning": "Indica comodidad y felicidad extrema, imitando la memoria de lactancia cuando era gatito.",
-            "response": "Siga acariciando suavemente bajo la barbilla para mantenerlos relajados."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Mañana: Estiramiento ligero para la salud esquelética",
-            "text": "Al ser una raza grande, la fatiga se acumula en las articulaciones. Antes de que se muevan, estire suavemente sus patas traseras."
-          },
-          {
-            "name": "Tarde: Cepillado con peine de púas para evitar enredos",
-            "text": "El subpelo es muy suave y propenso a enredos. Cepille con peine de púas redondeadas para ventilar el pelo y evitar dermatitis y bolas de pelo."
-          },
-          {
-            "name": "Noche: Técnica de sujeción segura con soporte en la cadera",
-            "text": "Levantar solo la parte superior del cuerpo tuerce la columna. Sostenga siempre el pecho con una mano y la cadera con la otra."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "¿El hecho de que el Ragdoll se relaje significa que tiene huesos débiles?",
-            "answer": "No. Es un rasgo genético único del Ragdoll, en el cual relajan sus músculos cuando se sienten seguros y confían en quien los sostiene. No es un defecto físico."
-          },
-          {
-            "question": "¿Qué pasa si no sostengo la cadera de mi Ragdoll al cargarlo?",
-            "answer": "Al ser una raza grande, cargarlos solo por las axilas concentra su peso (a menudo más de 7kg) en la columna, elevando el riesgo de daño discal o luxación."
-          }
-        ],
-        "tags": [
-          "Ragdoll",
-          "Sujeción Segura",
-          "Cuidado Articular",
-          "Cuidado de Gatos"
-        ]
-      },
-      "fr": {
-        "title": "Un chat qui se blottit comme une poupée ? Routine en 3 étapes pour porter et masser le Ragdoll en toute sécurité",
-        "description": "Le Ragdoll, ce chat géant qui se détend comme une poupée quand on le porte. Découvrez des conseils pour protéger ses articulations et une routine en 3 étapes.",
-        "authority": "Guide des races de la Cat Fanciers' Association (CFA) et directives pour une pratique respectueuse des chats de l'AAFP",
-        "profile": {
-          "breed": "Ragdoll",
-          "lifespan": "12 ~ 17 ans",
-          "sleep_pattern": "12 ~ 14 heures (grande confiance en son maître)",
-          "temperament": "Docile, Calme, Très Sociable"
-        },
-        "intro": "Le Ragdoll est un grand chat célèbre pour se détendre complètement comme une poupée de chiffon lorsqu'on le porte. Avec ses yeux bleus captivants, son pelage soyeux et sa personnalité incroyablement douce, il est souvent qualifié de « chat ange ». 🐈\n\nCependant, comme il s'agit d'une race de grande taille pouvant peser de 7 à 10 kg, ses articulations inférieures supportent une charge lourde. De plus, sa posture relâchée lors du portage peut fatiguer sa colonne vertébrale si elle n'est pas soutenue correctement. Apprendre les bons gestes est essentiel.\n\nAujourd'hui, PetSelf décode le langage corporel du Ragdoll et présente une routine de soins quotidiens en 3 étapes pour protéger ses articulations.",
-        "whyTitle": "Signaux d'apaisement du Ragdoll : Clignements lents et pattes détendues",
-        "whyDesc": "Le Ragdoll exprime sa grande confiance non seulement en se détendant, mais aussi par des regards et des mouvements de pattes. Les signaux clés incluent les clignements d'yeux lents et les pattes détendues. Vous regarder et cligner des yeux lentement est un message d'affection. S'il est extrêmement heureux, il écarte ses coussinets en éventail. Caressez son menton à ce moment-là pour maximiser son bien-être.",
-        "body_signals": [
-          {
-            "name": "Clignement lent",
-            "meaning": "Un signe d'affection, prouvant qu'il vous fait confiance et se sent en sécurité.",
-            "response": "Répondez en clignant des yeux en retour pour renforcer votre lien de confiance."
-          },
-          {
-            "name": "Pattes écartées",
-            "meaning": "Indique un confort extrême, rappelant le souvenir de la tété auprès de sa mère.",
-            "response": "Continuez de caresser délicatement sous le menton ou le cou pour le garder détendu."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Matin : Étirement corporel léger pour la santé du squelette",
-            "text": "En tant que grande race, la fatigue s'accumule dans ses articulations. Avant de bouger, étirez doucement ses pattes arrière."
-          },
-          {
-            "name": "Après-midi : Brossage avec une brosse à picots pour éviter les nœuds",
-            "text": "Le sous-poil est très doux et sujet aux nœuds. Brossez avec une brosse à picots arrondis pour aérer le pelage et éviter les dermatites."
-          },
-          {
-            "name": "Soir : Technique de portage sécurisée avec soutien sous le bassin",
-            "text": "Soulever uniquement le haut du corps tord la colonne vertébrale. Soutenez toujours le poitrail d'une main et le bassin de l'autre."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Le fait que le Ragdoll devienne mou lorsqu'on le porte signifie-t-il qu'il a des os fragiles ?",
-            "answer": "Non. Il s'agit d'un trait comportemental génétique unique propre au Ragdoll, qui relâche ses muscles lorsqu'il se sent en sécurité. Ce n'est pas un défaut physique."
-          },
-          {
-            "question": "Que se passe-t-il si je ne soutiens pas le bassin de mon Ragdoll en le portant ?",
-            "answer": "Comme c'est un grand chat, le porter uniquement sous les aisselles fait peser tout son poids (souvent plus de 7kg) sur sa colonne, augmentant le risque de hernie."
-          }
-        ],
-        "tags": [
-          "Ragdoll",
-          "Portage Sécurisé",
-          "Soin Articulaire",
-          "Soins Félins"
-        ]
-      },
-      "de": {
-        "title": "Eine Katze, die sich wie eine Puppe umarmen lässt? Ragdolls sicheres Halten und 3-Schritte-Gelenkpflege",
-        "description": "Ragdolls, die riesigen Katzen, die sich beim Halten wie Puppen entspannen. Erfahren Sie Tipps zum Schutz ihrer Gelenke und eine 3-Schritte-Routine für sicheres Halten.",
-        "authority": "Rasseführer der Cat Fanciers' Association (CFA) und AAFP-Richtlinien für katzenfreundliche Praxen",
-        "profile": {
-          "breed": "Ragdoll",
-          "lifespan": "12 ~ 17 Jahre",
-          "sleep_pattern": "12 ~ 14 Stunden (hohes Vertrauen zum Besitzer)",
-          "temperament": "Sanftmütig, Ruhig, Sehr Sozial"
-        },
-        "intro": "Ragdolls sind große, flauschige Katzen, die dafür bekannt sind, sich beim Halten wie eine Stoffpuppe völlig zu entspannen. Mit ihren faszinierenden blauen Augen, dem seidigen Fell und ihrem unglaublich sanften Wesen werden sie oft als „Engelkatzen“ bezeichnet. 🐈\n\nDa es sich jedoch um eine große Rasse handelt, die ein Gewicht von 7 bis 10 kg erreicht, tragen ihre Gelenke eine schwere Last. Darüber hinaus kann ihre schlaffe Haltung beim Tragen die Wirbelsäule belasten, wenn sie nicht richtig gestützt wird. Das Erlernen der richtigen Haltetechnik ist lebenswichtig.\n\nHeute entschlüsselt PetSelf die Körpersprache der Ragdoll und stellt eine sichere 3-Schritte-Routine vor, um ihre Gelenke zu schützen.",
-        "whyTitle": "Beschwichtigungssignale der Ragdoll: Langsames Blinzeln und entspanntes Zehenspreizen",
-        "whyDesc": "Ragdolls zeigen ihr Vertrauen nicht nur durch Schlaffheit, sondern auch durch Augen- und Pfotengesten. Zu den wichtigsten Signalen gehören langsames Blinzeln und entspanntes Zehenspreizen. Langsames Blinzeln drückt Zuneigung aus. Wenn sie sich sehr wohl fühlen, spreizen sie ihre Zehen wie einen Fächer. Das Streicheln unter dem Kinn in diesem Moment maximiert ihr Wohlbefinden.",
-        "body_signals": [
-          {
-            "name": "Langsames Blinzeln",
-            "meaning": "Ein Zeichen der Zuneigung, das zeigt, dass sie Ihnen vertrauen und sich sicher fühlen.",
-            "response": "Antworten Sie, indem Sie langsam zurückblinzeln, um die Bindung zu stärken."
-          },
-          {
-            "name": "Zehenspreizen",
-            "meaning": "Zeigt extremen Komfort, der an das Säugen als Kätzchen erinnert.",
-            "response": "Streicheln Sie weiter unter dem Kinn, um diesen entspannten Zustand zu erhalten."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Morgen: Dehnübungen zur Aktivierung des Bewegungsapparats",
-            "text": "Da es sich um eine große Rasse handelt, ermüden die Gelenke leicht. Dehnen Sie morgens sanft die Hinterbeine, um die Beweglichkeit zu schützen."
-          },
-          {
-            "name": "Nachmittag: Bürsten mit einer Pinbürste zur Vermeidung von Verfilzungen",
-            "text": "Das Unterfell ist weich und verfilzt leicht. Bürsten Sie mit einer abgerundeten Pinbürste, um Luft an das Fell zu lassen und Hautprobleme zu vermeiden."
-          },
-          {
-            "name": "Abend: Wirbelsäulenschonende Haltetechnik mit Hüftstütze",
-            "text": "Das Anheben nur am Oberkörper belastet die Wirbelsäule. Stützen Sie immer mit einer Hand die Brust und mit der anderen die Hüfte ab."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Bedeutet das Erschlaffen der Ragdoll beim Halten, dass sie schwache Knochen hat?",
-            "answer": "Nein. Dies ist eine genetische Eigenschaft, bei der sie ihre Muskeln entspannen, wenn sie sich sicher fühlen und dem Halter vertrauen. Es ist kein körperlicher Defekt."
-          },
-          {
-            "question": "Was passiert, wenn ich die Hüfte einer Ragdoll beim Tragen nicht stütze?",
-            "answer": "Da sie eine große Rasse sind, belastet das Halten an den Achseln die Wirbelsäule mit ihrem gesamten Gewicht (oft über 7kg) und erhöht das Risiko von Bandscheibenschäden."
-          }
-        ],
-        "tags": [
-          "Ragdoll",
-          "Sicheres Halten",
-          "Gelenkpflege",
-          "Katzenpflege"
-        ]
-      },
-      "pt": {
-        "title": "Um gato que se abraça como um boneco? Rotina de 3 passos de colo seguro e cuidado articular do Ragdoll",
-        "description": "Ragdolls, os gatos gigantes que relaxam como bonecos ao colo. Descubra dicas para proteger suas articulações e uma rotina de 3 passos de colo seguro.",
-        "authority": "Guia de raças da Cat Fanciers' Association (CFA) e diretrizes de prática amigável com gatos da AAFP",
-        "profile": {
-          "breed": "Ragdoll",
-          "lifespan": "12 ~ 17 anos",
-          "sleep_pattern": "12 ~ 14 horas (alta confiança no dono)",
-          "temperament": "Dócil, Calmo, Muito Social"
-        },
-        "intro": "Os Ragdolls são gatos grandes famosos por relaxarem completamente como uma boneca de pano ao colo. Com seus olhos azuis cativantes, pelagem sedosa e personalidade incrivelmente dócil, são chamados de 'gatos anjo'. 🐈\n\nNo entanto, por ser uma raça grande que atinge pesos de 7 a 10 kg, suas articulações inferiores suportam uma carga pesada. Além disso, a postura relaxada ao colo pode causar torção na coluna se não for apoiada de forma adequada. Aprender técnicas corretas é essencial.\n\nHoje, o PetSelf decodifica a linguagem corporal do Ragdoll e apresenta uma rotina de cuidados diários de 3 passos para proteger suas articulações.",
-        "whyTitle": "Sinais de calma do Ragdoll: Piscadas lentas e dedos relaxados",
-        "whyDesc": "Os Ragdolls expressam sua confiança não apenas relaxando, mas também por gestos com olhos e patas. Os sinais incluem 'piscadas lentas' e 'dedos relaxados'. Olhar e piscar lentamente é uma mensagem de afeto. Quando se sentem extremamente felizes, abrem os dedos como um leque. Acariciar sob o queixo maximiza sua segurança.",
-        "body_signals": [
-          {
-            "name": "Piscada lenta",
-            "meaning": "Um sinal de afeto, mostrando que confiam em você e se sentem seguros.",
-            "response": "Responda piscando de volta lentamente para fortalecer seu vínculo e confiança."
-          },
-          {
-            "name": "Dedos abertos",
-            "meaning": "Indica conforto extremo, lembrando a memória de amamentação quando filhote.",
-            "response": "Continue acariciando sob o queixo para mantê-los relaxados."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Manhã: Alongamento leve para a saúde esquelética",
-            "text": "Por ser uma raça grande, o cansaço acumula nas articulações. Antes de se moverem, alongue suavemente as patas traseiras."
-          },
-          {
-            "name": "Tarde: Escovação com escova de pinos para evitar nós",
-            "text": "O subpelo é muito macio e propenso a nós. Escove com escova de pinos arredondados para ventilar a pelagem e evitar dermatite."
-          },
-          {
-            "name": "Noite: Técnica de colo seguro com suporte nos quadris",
-            "text": "Levantar apenas a parte superior do corpo torce a coluna. Apoie sempre o peito com uma mão e os quadris com a outra."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "O Ragdoll ficar mole ao colo significa que tem ossos fracos?",
-            "answer": "Não. Este é um traço genético único do Ragdoll, no qual relaxam seus músculos quando se sentem seguros e confiam em quem os segura. Não é um defeito físico."
-          },
-          {
-            "question": "O que acontece se eu não apoiar os quadris do Ragdoll ao segurá-lo?",
-            "answer": "Sendo uma raça grande, segurá-los apenas pelas axilas concentra seu peso (muitas vezes mais de 7kg) na coluna, elevando o risco de lesão discal ou luxação."
-          }
-        ],
-        "tags": [
-          "Ragdoll",
-          "Colo Seguro",
-          "Cuidado Articular",
-          "Cuidado de Gatos"
-        ]
-      },
-      "id": {
-        "title": "Kucing yang Memeluk seperti Boneka? Rutinitas 3 Langkah Gendong Aman dan Perawatan Sendi Ragdoll",
-        "description": "Ragdoll, kucing raksasa berbulu halus yang terkulai seperti boneka saat digendong. Pelajari tips melindungi sendi tubuh besar mereka dan rutinitas 3 langkah gendong aman.",
-        "authority": "Panduan Ras Resmi Cat Fanciers' Association (CFA) & Pedoman Praktik Ramah Kucing AAFP",
-        "profile": {
-          "breed": "Ragdoll",
-          "lifespan": "12 ~ 17 tahun",
-          "sleep_pattern": "12 ~ 14 jam (kepercayaan tinggi pada pemilik)",
-          "temperament": "Penurut, Tenang, Sangat Sosial"
-        },
-        "intro": "Ragdoll adalah kucing raksasa berbulu halus yang terkenal karena tubuhnya yang benar-benar terkulai lemas seperti boneka kain saat digendong. Dengan mata biru yang menawan, bulu selembut sutra, dan kepribadian yang sangat lembut, mereka sering disebut 'kucing malaikat'. 🐈\n\nNamun, karena mereka adalah ras besar yang beratnya mencapai 7 hingga 10 kg, sendi bagian bawah mereka memikul beban yang berat. Selain itu, postur terkulai khas mereka saat digendong dapat menimbulkan ketegangan puntir pada tulang belakang jika tidak ditopang dengan benar. Mempelajari teknik menggendong yang benar sangat penting bagi kesehatan kerangka mereka.\n\nHari ini, PetSelf menguraikan bahasa tubuh Ragdoll dan memperkenalkan rutinitas perawatan harian 3 langkah yang aman untuk melindungi sendi mereka.",
-        "whyTitle": "Sinyal Penenang Ragdoll: Kedipan Lambat dan Peregangan Cakar yang Rileks",
-        "whyDesc": "Kucing Ragdoll mengekspresikan kepercayaan mereka yang tinggi tidak hanya dengan terkulai lemas, tetapi juga melalui gerakan mata dan cakar. Sinyal kenyamanan yang utama meliputi 'kedipan lambat' and 'peregangan cakar'. Memandang Anda dan berkedip sangat lambat adalah pesan keamanan dan kasih sayang. Saat merasa sangat senang, mereka meregangkan jari-jari cakar seperti kipas. Mengelus bagian bawah dagu saat ini memaksimalkan perasaan aman mereka.",
-        "body_signals": [
-          {
-            "name": "Kedipan Lambat",
-            "meaning": "Tanda kasih sayang, menunjukkan bahwa mereka sepenuhnya mempercayai Anda dan merasa aman.",
-            "response": "Balas dengan berkedip perlahan untuk memperkuat ikatan dan saling percaya."
-          },
-          {
-            "name": "Peregangan Cakar",
-            "meaning": "Menunjukkan kenyamanan luar biasa, meniru memori menyusu saat masih kecil.",
-            "response": "Lanjutkan mengelus lembut di bawah dagu atau leher agar mereka tetap rileks."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Pagi: Peregangan Fisik Ringan untuk Kesehatan Kerangka",
-            "text": "Sebagai ras besar, kelelahan menumpuk di sendi. Sebelum mereka mulai bergerak, regangkan kaki belakang dengan lembut untuk menjaga mobilitas sendi."
-          },
-          {
-            "name": "Siang: Menyikat dengan Sisir Jarum untuk Mencegah Kusut",
-            "text": "Bulu bagian bawah Ragdoll sangat lembut dan mudah kusut. Sisir searah bulu dengan sisir jarum berujung bulat untuk ventilasi bulu dan mencegah dermatitis."
-          },
-          {
-            "name": "Malam: Teknik Menggendong Aman dengan Menopang Pinggul",
-            "text": "Mengangkat bagian atas tubuh saja menyebabkan tulang belakang terpelintir. Selalu topang dada dengan satu tangan dan pinggul dengan tangan lainnya."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Apakah tubuh Ragdoll yang terkulai saat digendong berarti tulang mereka lemah?",
-            "answer": "Tidak. Ini adalah sifat perilaku genetik unik dari Ragdoll di mana mereka merilekskan otot sepenuhnya saat merasa aman dan mempercayai penggendongnya. Ini bukan cacat fisik."
-          },
-          {
-            "question": "Apa yang terjadi jika saya tidak menopang pinggul Ragdoll saat menggendongnya?",
-            "answer": "Karena mereka adalah ras besar, menggendong mereka hanya pada ketiak akan membebankan seluruh berat tubuh (seringkali lebih dari 7kg) pada tulang belakang dan tulang rusuk, meningkatkan risiko cedera diskus."
-          }
-        ],
-        "tags": [
-          "Ragdoll",
-          "Gendong Aman",
-          "Perawatan Sendi",
-          "Perawatan Kucing"
-        ]
-      },
       "ko": {
         "title": "인형처럼 안기는 고양이? 렉돌의 안심 안기 및 관절 홈케어 3단계 루틴",
         "description": "안아 올리면 인형처럼 힘을 빼는 사랑스러운 거대 장모종 렉돌. 무거운 체격으로 인해 오기 쉬운 하체 관절 통증 예방과 올바르게 안아주는 3단계 홈케어 루틴을 알아봅니다.",
         "authority": "Cat Fanciers' Association (CFA) 렉돌 표준 가이드 및 AAFP 고양이 친화 진료 지침",
         "profile": {
-          "breed": "렉돌 (Ragdoll)",
+          "breed": "렉돌 (Felis catus / Ragdoll)",
           "lifespan": "12 ~ 17년",
           "sleep_pattern": "12 ~ 14시간 (보호자 밀착 신뢰)",
           "temperament": "온순함, 차분함, 인형같은 사회성"
         },
         "intro": "렉돌(Ragdoll)은 안아 올리면 뼈가 없는 것처럼 온몸의 힘을 쭉 빼고 축 늘어져 인형처럼 안겨드는 독특한 성향으로 널리 알려진 대형 고양이입니다. 파란 보석 같은 눈과 고급스러운 털, 그리고 믿을 수 없을 정도로 온순하고 개개인에게 친근한 성격 덕분에 '천사 고양이'라는 별명으로 사랑받고 있습니다. 🐈\n\n하지만 대형 묘종인 만큼 골격 성장이 느리고 체중이 7~10kg까지 나가기 때문에 하체 관절에 상당한 부하가 가해지기 쉽습니다. 또한 보호자가 안아줄 때 렉돌 특유의 축 늘어지는 자세가 오히려 척추나 관절에 나쁜 뒤틀림 충격을 줄 수 있어, 올바른 방식으로 안아 주는 안심 스킨십이 평생 관절 건강의 기초가 됩니다.\n\n오늘 PetSelf에서는 렉돌의 몸짓 신호를 해독하고, 관절을 건강하게 지키면서 신뢰 깊은 포옹을 나눌 수 있는 3단계 데일리 케어를 안내합니다.",
         "whyTitle": "렉돌의 카밍 시그널: 눈인사와 편안한 발가락 펴기",
-        "whyDesc": "렉돌 고양이는 보호자에 대한 높은 신뢰감을 몸의 힘을 푸는 것 외에도 눈빛과 발짓으로 섬세하게 표현합니다. 대표적인 안정 신호는 '눈인사(Slow Blink)'와 '발가락 펴기(Paw Flexing)'입니다. 보호자를 바라보며 눈을 아주 천천히 감았다 뜨는 눈인사는 적의가 전혀 없고 완전히 안심했다는 사랑의 메시지입니다. 이때 기분이 극도로 좋으면 뒷발이나 앞발가락을 부채처럼 넓게 폈다 오므리는 행동을 합니다. 이때 턱밑이나 귀 뒤를 살살 긁어주면 렉돌의 행복감은 극대화됩니다.",
+        "whyDesc": "렉돌 고양이는 보호자에 대한 높은 신뢰감을 몸의 힘을 푸는 것 외에도 눈빛과 발짓으로 섬세하게 표현합니다. 대표적인 안정 신호는 **'눈인사(Slow Blink)'**와 **'발가락 펴기(Paw Flexing)'**입니다. 보호자를 바라보며 눈을 아주 천천히 감았다 뜨는 눈인사는 적의가 전혀 없고 완전히 안심했다는 사랑의 메시지입니다. 이때 기분이 극도로 좋으면 뒷발이나 앞발가락을 부채처럼 넓게 폈다 오므리는 행동을 합니다. 이때 턱밑이나 귀 뒤를 살살 긁어주면 렉돌의 행복감은 극대화됩니다.",
         "body_signals": [
           {
             "name": "눈인사 (Slow Blink)",
@@ -501,10 +53,458 @@
           }
         ],
         "tags": [
-          "렉돌 고양이",
-          "안아 올리기",
-          "관절 케어",
-          "반려묘 홈케어"
+          "렉돌",
+          "안아올리기",
+          "관절케어",
+          "반려묘홈케어"
+        ]
+      },
+      "en": {
+        "title": "A Cat That Hugs Like a Doll? Ragdoll's Safe Holding and 3-Step Joint Home Care Daily Routine",
+        "description": "Ragdolls, the giant fluffy cats that go limp like dolls when held. Discover tips to prevent lower body joint pain from their heavy frame and a 3-step home care routine for safe holding.",
+        "authority": "Cat Fanciers' Association (CFA) Ragdoll Breed Standards & AAFP Cat Friendly Practice Guidelines",
+        "profile": {
+          "breed": "Ragdoll (Felis catus)",
+          "lifespan": "12 ~ 17 years",
+          "sleep_pattern": "12 ~ 14 hours (high trust & owner-attached)",
+          "temperament": "Docile, Calm, Highly Social"
+        },
+        "intro": "Ragdolls are large, fluffy cats famous for going completely limp like a rag doll when held, as if they have no bones. With their captivating jewel-like blue eyes, luxurious coats, and incredibly gentle, affectionate personalities, they are often called 'angel cats.' 🐈\n\nHowever, as a large feline breed with slow skeletal growth reaching weights of 7 to 10 kg, their lower body joints carry a heavy gravitational load. Furthermore, their signature limp posture when held can exert twisting stress on their spine or joints if supported incorrectly. Learning proper holding techniques is the foundation of their lifetime skeletal health.\n\nToday, PetSelf decodes Ragdoll body language and introduces a safe 3-step daily care routine to protect their joints while building deep mutual trust through safe embraces.",
+        "whyTitle": "Ragdoll's Calming Signals: Slow Blinks and Relaxed Paw Flexing",
+        "whyDesc": "Ragdoll cats express their high trust toward owners not just by going limp, but also through delicate eye and paw gestures. Key calming signals include **'Slow Blinks'** and **'Paw Flexing'**. Looking at you and blinking very slowly is a peaceful message of complete security and affection without hostile intent. When feeling extremely happy, they flex and stretch their toes like a fan. Gently scratching under their chin or behind their ears at this moment maximizes their feeling of bliss.",
+        "body_signals": [
+          {
+            "name": "Slow Blink",
+            "meaning": "A signal of deep affection showing complete trust in you and feeling safe in their environment.",
+            "response": "Respond by blinking back slowly at the same tempo to deepen your bond and mutual trust."
+          },
+          {
+            "name": "Paw Flexing",
+            "meaning": "Indicates supreme psychological comfort, recalling the comforting memory of nursing as a kitten.",
+            "response": "Do not stop touching them; continue gently stroking under their chin or neck, which they will enjoy immensely."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: Light Physical Stretching for Skeletal Activation",
+            "text": "As a large breed, physical fatigue easily accumulates in their lower joints. Before starting daily activity, gently hold their hind legs and perform light extension stretches to protect their joint range of motion."
+          },
+          {
+            "name": "Afternoon: Pin Brushing to Prevent Tangles and Aerate Coat",
+            "text": "Ragdoll undercoats are exceptionally soft and dense, making them prone to matting. Comb along the fur pattern with a round-tipped pin brush to aerate the coat, preventing skin inflammation and hairballs."
+          },
+          {
+            "name": "Evening: Spine-Safe Holding Technique with Hip Support",
+            "text": "Lifting only their upper body causes spine twisting and joint strain from their heavy weight. Always support their chest with one hand and firmly support their hips with the other hand to create a secure position."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Does the Ragdoll going limp when held mean they have weak bones or joints?",
+            "answer": "No. This is a unique genetic behavioral trait of Ragdolls, where they intentionally relax all their postural muscles when feeling deep security and extreme trust toward the person holding them. It is not a physical defect."
+          },
+          {
+            "question": "What happens if I don't support a Ragdoll's hips when holding them?",
+            "answer": "Because Ragdolls are large cats, lifting them only by their armpits without supporting their rear causes their entire weight (often over 7kg) to concentrate on their spine joints and ribs, dramatically increasing the risk of disc herniation or joint subluxation."
+          }
+        ],
+        "tags": [
+          "RagdollCat",
+          "SafeHolding",
+          "JointCare",
+          "CatHomeCare"
+        ]
+      },
+      "ja": {
+        "title": "ぬいぐるみのように抱っこされる猫？ラグドールの安心抱っこと関節ホームケア3段階日常ルーティン",
+        "description": "抱き上げるとぬいぐるみのように力を抜く愛らしい巨大長毛種ラグドール。重い体格から生じやすい下半身の関節トラブル予防と、正しい抱っこの3段階日常ルーティンを紹介します。",
+        "authority": "キャットファンシャーズアソシエーション(CFA)公式ラグドール標準ガイド＆AAFP猫フレンドリー診療ガイドライン",
+        "profile": {
+          "breed": "ラグドール (Felis catus / Ragdoll)",
+          "lifespan": "12 ~ 17年",
+          "sleep_pattern": "12 ~ 14時間（飼い主密着信頼型）",
+          "temperament": "温厚、落ち着き、ぬいぐるみの如き社会性"
+        },
+        "intro": "ラグドール(Ragdoll)は、抱っこすると骨がないかのように体の力を完全に抜いて、ぬいぐるみのようにもたれかかる独特な習性で知られる大型猫です。青い宝石のような瞳と上品な被毛、そして極めて温厚でフレンドリーな性格から「天使の猫」とも呼ばれます。🐈\n\nしかし、大型猫種であるため骨格の成長が遅く、体重が7〜10kgに達することもあるため、下半身の関節に大きな負担がかかりがちです。また、保護者が抱っこする際、ラグドール特有の力を抜いた姿勢が間違った抱き方によって脊椎や関節に捻れのストレスを与えることがあります。正しい抱き方を習得することが一生の関節健康の基礎となります。\n\n本日PetSelfでは、ラグドールのボディランゲージを解読し、関節を健康に保ちながら信頼を深める3段階の日常ホームケアをご案内します。",
+        "whyTitle": "ラグドールのカーミングシグナル：目での挨拶と指開きのしぐさ",
+        "whyDesc": "ラグドールは、体の力を抜くこと以外にも、目元や足先のしぐさで高い信頼感を繊細に表現します。代表的なリラックスサインは**「ゆっくりした瞬き（Slow Blink）」**と**「指を開く動作（Paw Flexing）」**です。飼い主を見つめながらゆっくり目を閉じて開けるしぐさは、敵意が全くなく完全な安心感と愛情のメッセージです。さらに心地よい時には、足の指を扇のように大きく開いたり閉じたりします。この時に顎の下などを撫でてあげると、ラグドールの幸福感は最高潮に達します。",
+        "body_signals": [
+          {
+            "name": "ゆっくりした瞬き (Slow Blink)",
+            "meaning": "相手を全面的に信頼し、周囲の環境に平和と安定を感じているという愛情サインです。",
+            "response": "こちらもゆっくり目を閉じて開けるテンポで返答し、信頼関係を深めましょう。"
+          },
+          {
+            "name": "指を開く動作 (Paw Flexing)",
+            "meaning": "子猫時代に母猫の胸でミルクを飲んでいた記憶を思い出し、極上の心理的快適さを感じているサインです。",
+            "response": "この動作を見せた時は手を止めず、顎の下や首周りを撫で続けてあげるとさらに喜びます。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：骨格を活性化させるための優しいストレッチ",
+            "text": "大型猫のため下半身の関節に疲労が溜まりやすいです。活動を始める前に、後ろ足を優しく持って軽く伸ばすストレッチを行い、関節の可動域を保護します。"
+          },
+          {
+            "name": "昼：毛玉防止のためのピンブラシによるブラッシング",
+            "text": "ラグドールのアンダーコートは非常に柔らかく密度が高いためもつれやすいです。先端の丸いピンブラシで毛並みに沿って梳かし、通気性を良くして皮膚炎とヘアボールを予防します。"
+          },
+          {
+            "name": "夜：お尻をしっかり支えて抱っこする安心スキンシップ",
+            "text": "上半身だけを抱き上げると、脊椎が捻れラグドールの体重で関節を痛めます。必ず片手で胸を、もう片方の手でお尻をしっかりと支えて抱っこし、安心できる姿勢を作ってください。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "ラグドールが抱っこされた時に力を抜くのは、骨や関節が弱いからですか？",
+            "answer": "いいえ、これは遺伝的な特徴で、相手に対して深い安全感と極度な信頼を感じた時に全身の緊張性筋肉を弛緩させるラグドール独自の性質です。身体的な異常ではありません。"
+          },
+          {
+            "question": "ラグドールを抱く時にお尻を支えないと、どうなりますか？",
+            "answer": "ラグドールは大型猫のため、お尻を支えずに脇の下だけを持ち上げると、7kg以上の荷重が脊椎関節や肋骨に集中し、ヘルニアや脱臼のリスクが高まります。"
+          }
+        ],
+        "tags": [
+          "ラグドール",
+          "抱き方",
+          "関節ケア",
+          "愛猫ホームケア"
+        ]
+      },
+      "zh": {
+        "title": "像玩偶一样被抱着的猫？布偶猫的安心抱姿与关节家庭护理3步日常护理流程",
+        "description": "抱起时像玩偶般全身放松的可爱大型长毛布偶猫。介绍因体重大易导致的下肢关节痛预防方法，以及正确抱姿的3步日常护理流程。",
+        "authority": "猫发烧友协会 (CFA) 官方布偶猫标准指南与 AAFP 猫咪友好诊疗指南",
+        "profile": {
+          "breed": "布偶猫 (Felis catus / Ragdoll)",
+          "lifespan": "12 ~ 17年",
+          "sleep_pattern": "12 ~ 14小时（高度依赖与信赖家长）",
+          "temperament": "温顺、安静、极具社交性"
+        },
+        "intro": "布偶猫（Ragdoll）是一种以被抱起时像骨头消失了一样全身放松、如布娃娃般瘫软在人怀里而闻名的巨型猫咪。凭借蓝宝石般的眼睛、高贵的毛发以及令人难以置信的温顺友好性格，它们被人们亲切地称为“天使猫”。🐈\n\n然而，作为大型猫种，它们的骨骼发育缓慢，成年后体重可达 7 至 10 公斤，因此下肢关节极易承受过大负荷。此外，被抱时那种特有的瘫软姿势若抱法不当，反倒会给脊椎或关节带来扭转性冲击，因此正确的抱姿是保障其一生关节健康的关键基础。\n\n今天 PetSelf 将为您解读布偶猫 responses 身体语言，并介绍一套既能保护关节又能加深信任 responses 日常3步护理流程。",
+        "whyTitle": "布偶猫 responses 安定信号：眼部交流与放松地张开脚趾",
+        "whyDesc": "布偶猫表达对家长 responses 极度信任，除了放松身体外，还会通过细腻 responses 眼神和脚部动作体现。其最典型 responses 放松信号是 **“眼神交流（Slow Blink）”** 和 **“张开脚趾（Paw Flexing）”**。它们看着家长并非常缓慢地闭眼再睁开，是毫无戒备、完全安心 responses 爱意表达。如果此时心情极佳，它们还会像扇子一样张开脚趾再收拢。此时轻轻抓挠其下巴或耳后，布偶猫 responses 幸福感会瞬间拉满。",
+        "body_signals": [
+          {
+            "name": "眼神交流 (Slow Blink)",
+            "meaning": "表明它们完全信任家长并在当前环境中感到平静与安全 responses 爱意信号。",
+            "response": "以同样的节奏回以缓慢闭眼和睁眼，以此回应它们以增进信任感。"
+          },
+          {
+            "name": "张开脚趾 (Paw Flexing)",
+            "meaning": "联想到在母猫怀里哺乳 responses 记忆，表明此刻内心极度舒适与满足。",
+            "response": "出现此动作时，不要停止抚摸，继续揉搓其下巴或脖子周围，它们会更加享受。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早晨：旨在舒缓骨骼 responses 温和身体拉伸",
+            "text": "由于是大型猫，其下肢关节极易累积疲劳。在开始一天的活动前，温柔握住其后肢并轻轻拉伸以保护关节 responses 活动范围。"
+          },
+          {
+            "name": "中午：防止打结 针梳梳理与被毛通风",
+            "text": "布偶猫 responses 底毛非常柔软且浓密，极易打结。应使用针尖圆滑 responses 针梳顺着毛流梳理，使被毛通风，提前防止皮肤炎与毛球症 responses 产生。"
+          },
+          {
+            "name": "晚上：托住臀部 responses 安全抱姿交流",
+            "text": "抱起时若仅提起上半身，会导致脊椎扭转，且布偶猫自身 responses 体重会使关节受损。必须一手托住前胸，另一手稳稳托住臀部抱起，让其处于安心状态。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "布偶猫被抱时身体瘫软是因为骨骼或关节虚弱吗？",
+            "answer": "并非如此。这是布偶猫特有的行为遗传特征，当它们对抱它的人感到极度安全与信任时，会主动放松全身的紧张性肌肉。这并非身体缺陷导致。"
+          },
+          {
+            "question": "抱布偶猫时不托住臀部会有什么后果？",
+            "answer": "布偶猫是大型猫，如果不托住臀部仅提起其双腋，会导致其7公斤以上的体重全部集中在脊椎骨关节和肋骨上，极大增加脊椎盘受损或脱位的风险。"
+          }
+        ],
+        "tags": [
+          "布偶猫",
+          "抱姿训练",
+          "关节护理",
+          "猫咪家庭护理"
+        ]
+      },
+      "es": {
+        "title": "¿Un gato que se abraza como un muñeco? Rutina diaria de 3 pasos de sujeción segura y cuidado articular del Ragdoll",
+        "description": "Ragdolls, los gatos gigantes que se relajan como muñecos al cargarlos. Aprenda consejos para proteger sus articulaciones y una rutina diaria de 3 pasos de sujeción segura.",
+        "authority": "Guía de Razas de la Cat Fanciers' Association (CFA) y Directrices de Práctica Amigable con los Gatos de la AAFP",
+        "profile": {
+          "breed": "Ragdoll (Felis catus)",
+          "lifespan": "12 ~ 17 años",
+          "sleep_pattern": "12 ~ 14 horas (alta confianza en el dueño)",
+          "temperament": "Dócil, Tranquilo, Muy Social"
+        },
+        "intro": "Los Ragdolls son gatos grandes y peludos famosos por relajarse por completo como un muñeco de trapo al cargarlos, como si no tuvieran huesos. Con sus cautivadores ojos azules como joyas, pelaje sedoso y temperamento increíblemente dócil, a menudo son llamados 'gatos ángel'. 🐈\n\nSin embargo, al ser una raza grande que alcanza pesos de 7 a 10 kg, sus articulaciones inferiores soportan una carga pesada. Además, su postura relajada al cargarlos puede causar torsión en la columna si no se sostiene adecuadamente. Aprender técnicas de sujeción correctas es la base de su salud esquelética de por vida.\n\nHoy, PetSelf descodifica el lenguaje corporal del Ragdoll e introduce una rutina diaria de 3 pasos para proteger sus articulaciones y construir una confianza profunda.",
+        "whyTitle": "Señales de calma del Ragdoll: Parpadeos lentos y dedos relajados",
+        "whyDesc": "Los Ragdolls expresan su alta confianza no solo al relajarse, sino también a través de gestos delicados con ojos y patas. Las señales de calma principales incluyen **'Parpadeo lento' (Slow Blink)** y **'Dedos abiertos' (Paw Flexing)**. Mirarle y parpadear lentamente es un mensaje pacífico de afecto y seguridad total. Cuando se sienten extremadamente felices, extienden los dedos de las patas como un abanico. Acariciar bajo su barbilla o detrás de las orejas en este momento maximiza su sensación de seguridad.",
+        "body_signals": [
+          {
+            "name": "Parpadeo lento (Slow Blink)",
+            "meaning": "Una señal de profundo afecto, mostrando que confían plenamente en usted y se sienten seguros en su entorno.",
+            "response": "Responda parpadeando lentamente al mismo ritmo para fortalecer su vínculo y confianza mutua."
+          },
+          {
+            "name": "Dedos abiertos / flexión de patas (Paw Flexing)",
+            "meaning": "Indica comodidad y felicidad extrema, recordando la memoria de lactancia cuando era gatito.",
+            "response": "Siga acariciando suavemente bajo la barbilla o el cuello para mantenerlos en ese estado relajado."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Estiramiento corporal ligero para la salud esquelética",
+            "text": "Al ser una raza grande, la fatiga se acumula en las articulaciones traseras. Antes de que empiecen a moverse, estire suavemente sus patas traseras para proteger el rango de movimiento."
+          },
+          {
+            "name": "Tarde: Cepillado con peine de púas para evitar enredos y ventilar",
+            "text": "El subpelo del Ragdoll es muy suave y denso, propenso a enredarse. Cepille con peine de púas redondeadas a lo largo del pelo para ventilar el manto y evitar dermatitis y bolas de pelo."
+          },
+          {
+            "name": "Noche: Técnica de sujeción segura con soporte en la cadera",
+            "text": "Levantar solo la parte superior del cuerpo tuerce la columna y carga peso en sus articulaciones. Sostenga siempre el pecho con una mano y la cadera/glúteos firmemente con la otra."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿El hecho de que el Ragdoll se relaje al cargarlo significa que tiene huesos débiles?",
+            "answer": "No. Es un rasgo genético y conductual único del Ragdoll, en el cual relajan conscientemente sus músculos cuando se sienten seguros y confían en la persona que los sostiene. No es un defecto físico."
+          },
+          {
+            "question": "¿Qué pasa si no sostengo la cadera de mi Ragdoll al cargarlo?",
+            "answer": "Al ser una raza grande, cargarlos solo por las axilas concentra su peso (a menudo más de 7kg) en la columna vertebral y las costillas, elevando drásticamente el riesgo de hernias discales o subluxación."
+          }
+        ],
+        "tags": [
+          "Ragdoll",
+          "SujeciónSegura",
+          "CuidadoArticular",
+          "CuidadoDeGatos"
+        ]
+      },
+      "fr": {
+        "title": "Un chat qui se blottit comme une poupée ? Routine quotidienne en 3 étapes pour porter et masser le Ragdoll en toute sécurité",
+        "description": "Le Ragdoll, ce chat géant qui se détend comme une poupée quand on le porte. Découvrez des conseils pour protéger ses articulations et une routine en 3 étapes.",
+        "authority": "Guide des Races de la Cat Fanciers' Association (CFA) et Directives de Pratique Respectueuse des Chats de l'AAFP",
+        "profile": {
+          "breed": "Ragdoll (Felis catus)",
+          "lifespan": "12 ~ 17 ans",
+          "sleep_pattern": "12 ~ 14 heures (grande confiance en son maître)",
+          "temperament": "Docile, Calme, Très Sociable"
+        },
+        "intro": "Le Ragdoll est un grand chat célèbre pour se détendre complètement comme une poupée de chiffon lorsqu'on le porte, comme s'il n'avait pas d'os. Avec ses yeux bleus captivants comme des joyaux, son pelage soyeux et sa personnalité incroyablement douce, il est souvent qualifié de « chat ange ». 🐈\n\nCependant, comme il s'agit d'une race de grande taille pouvant peser de 7 à 10 kg, ses articulations inférieures supportent une charge lourde. De plus, sa posture relâchée lors du portage peut tordre sa colonne vertébrale si elle n'est pas soutenue correctement. Apprendre les bons gestes de portage est la base de sa santé osseuse.\n\nAujourd'hui, PetSelf décode le langage corporel du Ragdoll et présente une routine de soins quotidiens en 3 étapes pour protéger ses articulations et renforcer la confiance.",
+        "whyTitle": "Signaux d'apaisement du Ragdoll : Clignements lents et pattes détendues",
+        "whyDesc": "Le Ragdoll exprime sa grande confiance non seulement en se détendant, mais aussi par des regards et des gestes de pattes très délicats. Les signaux d'apaisement clés incluent les **clignements d'yeux lents (Slow Blink)** et l'**écartement des doigts (Paw Flexing)**. Vous regarder et cligner des yeux lentement est un message d'affection et de sécurité. S'il est extrêmement heureux, il écarte ses coussinets en éventail. Caresser son menton ou derrière ses oreilles à ce moment-là maximisera son bien-être.",
+        "body_signals": [
+          {
+            "name": "Clignement lent (Slow Blink)",
+            "meaning": "Un signe de profonde affection, prouvant qu'il vous fait entièrement confiance et se sent en sécurité.",
+            "response": "Répondez en clignant des yeux en retour sur le même tempo pour renforcer votre lien."
+          },
+          {
+            "name": "Pattes écartées / Flexion des coussinets (Paw Flexing)",
+            "meaning": "Indique un confort psychologique extrême, rappellant le souvenir réconfortant de la tété auprès de sa mère.",
+            "response": "Ne stoppez pas les caresses ; continuez de masser délicatement sous le menton ou le cou."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Étirement corporel léger pour la santé du squelette",
+            "text": "En tant que grande race, la fatigue s'accumule dans ses articulations arrière. Avant qu'il commence ses activités, étirez doucement ses pattes arrière pour préserver sa mobilité."
+          },
+          {
+            "name": "Après-midi : Brossage avec une brosse à picots pour éviter les nœuds",
+            "text": "Le sous-poil est très doux et dense, sujet aux nœuds. Brossez avec une brosse à picots arrondis pour aérer le pelage et éviter les dermatites et les boules de poils."
+          },
+          {
+            "name": "Soir : Technique de portage sécurisée avec soutien sous le bassin",
+            "text": "Soulever uniquement le haut du corps tord la colonne vertébrale sous l'effet de son poids. Soutenez toujours le poitrail d'une main et le bassin/arrière-train de l'autre."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Le fait que le Ragdoll devienne mou lorsqu'on le porte signifie-t-il qu'il a des os fragiles ?",
+            "answer": "Non. Il s'agit d'un trait comportemental et génétique unique propre au Ragdoll, qui relâche volontairement ses muscles lorsqu'il se sent en sécurité et en confiance. Ce n'est pas un problème physique."
+          },
+          {
+            "question": "Que se passe-t-il si je ne soutiens pas le bassin de mon Ragdoll en le portant ?",
+            "answer": "Comme c'est un grand chat, le porter uniquement sous les aisselles fait peser tout son poids (souvent plus de 7kg) sur sa colonne et ses côtes, augmentant fortement le risque de hernie ou de subluxation."
+          }
+        ],
+        "tags": [
+          "Ragdoll",
+          "PortageSécurisé",
+          "SoinArticulaire",
+          "SoinsFélins"
+        ]
+      },
+      "de": {
+        "title": "Eine Katze, die sich wie eine Puppe umarmen lässt? Ragdolls sicheres Halten und tägliche 3-Schritte-Gelenkpflege",
+        "description": "Ragdolls, die riesigen Katzen, die sich beim Halten wie Puppen entspannen. Erfahren Sie Tipps zum Schutz ihrer Gelenke und eine tägliche 3-Schritte-Routine für sicheres Halten.",
+        "authority": "Rasseführer der Cat Fanciers' Association (CFA) und AAFP-Richtlinien für katzenfreundliche Praxen",
+        "profile": {
+          "breed": "Ragdoll (Felis catus)",
+          "lifespan": "12 ~ 17 Jahre",
+          "sleep_pattern": "12 ~ 14 Stunden (hohes Vertrauen zum Besitzer)",
+          "temperament": "Sanftmütig, Ruhig, Sehr Sozial"
+        },
+        "intro": "Ragdolls sind große, flauschige Katzen, die dafür bekannt sind, sich beim Halten wie eine Stoffpuppe völlig zu entspannen, als hätten sie keine Knochen. Mit ihren faszinierenden blauen Augen, dem seidigen Fell und ihrem unglaublich sanften Wesen werden sie oft als „Engelkatzen“ bezeichnet. 🐈\n\nDa es sich jedoch um eine große Rasse handelt, deren Skelett langsam wächst und ein Gewicht von 7 bis 10 kg erreicht, tragen ihre Hintergelenke eine schwere Last. Darüber hinaus kann ihre schlaffe Haltung beim Tragen die Wirbelsäule verdrehen, wenn sie nicht richtig gestützt wird. Das Erlernen der richtigen Haltetechnik ist die Grundlage ihrer lebenslangen Knochengesundheit.\n\nHeute entschlüsselt PetSelf die Körpersprache der Ragdoll und stellt eine sichere tägliche 3-Schritte-Routine vor, um ihre Gelenke zu schützen.",
+        "whyTitle": "Beschwichtigungssignale der Ragdoll: Langsames Blinzeln und entspanntes Zehenspreizen",
+        "whyDesc": "Ragdolls zeigen ihr hohes Vertrauen nicht nur durch Erschlaffen, sondern auch durch feine Augen- und Pfotengesten. Zu den wichtigsten Beruhigungssignalen gehören **'Langsames Blinzeln' (Slow Blink)** und **'Zehenspreizen' (Paw Flexing)**. Sie anzusehen und langsam zu blinzeln ist eine friedliche Botschaft voller Zuneigung. Wenn sie sich extrem wohl fühlen, spreizen sie ihre Zehen wie einen Fächer. Das Streicheln unter dem Kinn in diesem Moment maximiert ihr Wohlbefinden.",
+        "body_signals": [
+          {
+            "name": "Langsames Blinzeln (Slow Blink)",
+            "meaning": "Ein Zeichen tiefster Zuneigung, das zeigt, dass sie Ihnen vollkommen vertrauen und sich sicher fühlen.",
+            "response": "Antworten Sie im gleichen Tempo mit langsamem Blinzeln, um die Bindung zu stärken."
+          },
+          {
+            "name": "Zehenspreizen (Paw Flexing)",
+            "meaning": "Zeigt extremen psychischen Komfort, der an das behagliche Säugen als Kätzchen erinnert.",
+            "response": "Hören Sie nicht auf zu streicheln; krauen Sie weiter sanft das Kinn oder den Halsbereich."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Leichtes Dehnen zur Aktivierung des Bewegungsapparats",
+            "text": "Da es sich um eine große Rasse handelt, ermüden die Hintergelenke leicht. Dehnen Sie morgens sanft die Hinterbeine, um die Beweglichkeit der Gelenke zu schützen."
+          },
+          {
+            "name": "Nachmittag: Bürsten mit einer Pinbürste zur Vermeidung von Verfilzungen",
+            "text": "Das Unterfell ist weich und dicht, wodurch es leicht verfilzt. Bürsten Sie mit einer abgerundeten Pinbürste entlang des Fells, um Luft an die Haut zu lassen und Hautprobleme vorzubeugen."
+          },
+          {
+            "name": "Abend: Wirbelsäulenschonende Haltetechnik mit Hüftstütze",
+            "text": "Das Anheben nur am Oberkörper verdreht die Wirbelsäule durch ihr Eigengewicht. Stützen Sie immer mit einer Hand die Brust und mit der anderen fest das Hinterteil ab."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Bedeutet das Erschlaffen der Ragdoll beim Halten, dass sie schwache Knochen oder Gelenke hat?",
+            "answer": "Nein. Dies ist eine einzigartige genetische Verhaltenseigenschaft der Ragdoll. Sie entspannen bewusst all ihre Muskeln, wenn sie sich vollkommen sicher fühlen und dem Halter vertrauen. Es ist kein körperlicher Defekt."
+          },
+          {
+            "question": "Was passiert, wenn ich die Hüfte einer Ragdoll beim Tragen nicht stütze?",
+            "answer": "Da sie eine große Rasse sind, belastet das Halten nur an den Achseln die Wirbelsäule mit ihrem gesamten Gewicht (oft über 7kg), was das Risiko von Bandscheibenschäden oder Luxationen drastisch erhöht."
+          }
+        ],
+        "tags": [
+          "Ragdoll",
+          "SicheresHalten",
+          "Gelenkpflege",
+          "Katzenpflege"
+        ]
+      },
+      "pt": {
+        "title": "Um gato que se abraça como um boneco? Rotina diária de 3 passos de colo seguro e cuidado articular do Ragdoll",
+        "description": "Ragdolls, os gatos gigantes que relaxam como bonecos ao colo. Descubra dicas para proteger suas articulações e uma rotina de 3 passos de colo seguro.",
+        "authority": "Guia de Raças da Cat Fanciers' Association (CFA) e Diretrizes de Prática Amigável com Gatos da AAFP",
+        "profile": {
+          "breed": "Ragdoll (Felis catus)",
+          "lifespan": "12 ~ 17 anos",
+          "sleep_pattern": "12 ~ 14 horas (alta confiança no tutor)",
+          "temperament": "Dócil, Calmo, Muito Social"
+        },
+        "intro": "Os Ragdolls são gatos grandes e peludos famosos por relaxarem completamente como uma boneca de pano ao colo, como se não tivessem ossos. Com seus olhos azuis cativantes como joias, pelagem sedosa e personalidade incrivelmente dócil, são chamados de 'gatos anjo'. 🐈\n\nNo entanto, por ser uma raça grande de crescimento lento que atinge pesos de 7 a 10 kg, suas articulações inferiores suportam uma carga pesada. Além disso, a postura relaxada ao colo pode causar torção na coluna se não for apoiada de forma adequada. Aprender técnicas de colo corretas é a base da sua saúde esquelética.\n\nHoje, o PetSelf decodifica a linguagem corporal do Ragdoll e apresenta uma rotina de cuidados diários de 3 passos para proteger suas articulações e fortalecer a confiança.",
+        "whyTitle": "Sinais de calma do Ragdoll: Piscadas lentas e dedos relaxados",
+        "whyDesc": "Os Ragdolls expressam sua alta confiança não apenas relaxando o corpo, mas também por gestos delicados com olhos e patas. Os sinais de calma principais incluem **'Piscada lenta' (Slow Blink)** e **'Dedos abertos' (Paw Flexing)**. Olhar e piscar lentamente é uma mensagem pacífica de afeto e segurança total. Quando se sentem extremamente felizes, abrem os dedos das patas como um leque. Acariciar sob o queixo ou atrás das orelhas maximiza sua segurança.",
+        "body_signals": [
+          {
+            "name": "Piscada lenta (Slow Blink)",
+            "meaning": "Um sinal de profundo afeto, mostrando que confiam plenamente em você e se sentem seguros no ambiente.",
+            "response": "Responda piscando de volta lentamente no mesmo ritmo para fortalecer seu vínculo."
+          },
+          {
+            "name": "Dedos abertos / Flexão de patas (Paw Flexing)",
+            "meaning": "Indica conforto e felicidade psicológica extrema, lembrando a memória de amamentação quando filhote.",
+            "response": "Não pare o carinho; continue massageando suavemente sob o queixo ou pescoço."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Alongamento leve para a saúde esquelética",
+            "text": "Por ser uma raça grande, o cansaço acumula nas articulações traseiras. Antes de se moverem, alongue suavemente as patas traseiras para proteger a amplitude articular."
+          },
+          {
+            "name": "Tarde: Escovação com escova de pinos para evitar nós e ventilar",
+            "text": "O subpelo do Ragdoll é muito macio e denso, propenso a nós. Escove com escova de pinos arredondados ao longo dos pelos para ventilar a pelagem e evitar dermatite e bolas de pelo."
+          },
+          {
+            "name": "Noite: Técnica de colo seguro com suporte nos quadris",
+            "text": "Levantar apenas a parte superior do corpo torce a coluna devido ao peso. Apoie sempre o peito com uma mão e os quadris/traseiro firmemente com a outra."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "O Ragdoll ficar mole ao colo significa que tem ossos ou articulações fracos?",
+            "answer": "Não. Este é um traço genético e comportamental único do Ragdoll, no qual relaxam conscientemente todos os músculos quando se sentem totalmente seguros e confiam em quem os segura. Não é um defeito físico."
+          },
+          {
+            "question": "O que acontece se eu não apoiar os quadris do Ragdoll ao segurá-lo?",
+            "answer": "Sendo uma raça grande, segurá-los apenas pelas axilas concentra seu peso (muitas vezes mais de 7kg) na coluna vertebral e costelas, elevando drásticamente o risco de hérnia de disco ou subluxação."
+          }
+        ],
+        "tags": [
+          "Ragdoll",
+          "ColoSeguro",
+          "CuidadoArticular",
+          "CuidadoDeGatos"
+        ]
+      },
+      "id": {
+        "title": "Kucing yang Memeluk seperti Boneka? Rutinitas Harian 3 Langkah Gendong Aman dan Perawatan Sendi Ragdoll",
+        "description": "Ragdoll, kucing raksasa berbulu halus yang terkulai seperti boneka saat digendong. Pelajari tips melindungi sendi tubuh besar mereka dan 3 langkah rutinitas harian gendong aman.",
+        "authority": "Panduan Ras Resmi Cat Fanciers' Association (CFA) & Pedoman Praktik Ramah Kucing AAFP",
+        "profile": {
+          "breed": "Ragdoll (Felis catus)",
+          "lifespan": "12 ~ 17 tahun",
+          "sleep_pattern": "12 ~ 14 jam (kepercayaan tinggi pada pemilik)",
+          "temperament": "Penurut, Tenang, Sangat Sosial"
+        },
+        "intro": "Ragdoll adalah kucing raksasa berbulu halus yang terkenal karena tubuhnya yang benar-benar terkulai lemas seperti boneka kain saat digendong, seolah-olah tidak memiliki tulang. Dengan mata biru yang menawan seperti permata, bulu selembut sutra, dan kepribadian yang sangat lembut, mereka sering disebut 'kucing malaikat'. 🐈\n\nNamun, karena mereka adalah ras besar yang tumbuh lambat dan beratnya mencapai 7 hingga 10 kg, sendi bagian bawah mereka memikul beban yang berat. Selain itu, postur terkulai khas mereka saat digendong dapat menimbulkan ketegangan puntir pada tulang belakang jika tidak ditopang dengan benar. Mempelajari teknik menggendong yang benar adalah dasar dari kesehatan kerangka mereka.\n\nHari ini, PetSelf menguraikan bahasa tubuh Ragdoll dan memperkenalkan 3 langkah rutinitas harian yang aman untuk melindungi sendi mereka dan mempererat rasa saling percaya.",
+        "whyTitle": "Sinyal Penenang Ragdoll: Kedipan Lambat dan Peregangan Cakar yang Rileks",
+        "whyDesc": "Kucing Ragdoll mengekspresikan kepercayaan mereka yang tinggi tidak hanya dengan terkulai lemas, tetapi juga melalui gerakan mata dan cakar yang halus. Sinyal kenyamanan yang utama meliputi **'Kedipan Lambat' (Slow Blink)** dan **'Peregangan Cakar' (Paw Flexing)**. Memandang Anda dan berkedip sangat lambat adalah pesan keamanan dan kasih sayang yang damai. Saat merasa sangat senang, mereka meregangkan jari-jari cakar seperti kipas. Mengelus bagian bawah dagu atau belakang telinga saat ini memaksimalkan perasaan bahagia mereka.",
+        "body_signals": [
+          {
+            "name": "Kedipan Lambat (Slow Blink)",
+            "meaning": "Tanda kasih sayang yang mendalam, menunjukkan bahwa mereka sepenuhnya mempercayai Anda dan merasa aman.",
+            "response": "Balas dengan berkedip perlahan dengan ritme yang sama untuk memperkuat ikatan dan saling percaya."
+          },
+          {
+            "name": "Peregangan Cakar (Paw Flexing)",
+            "meaning": "Menunjukkan kenyamanan psikologis luar biasa, meniru memori indah menyusu saat masih kecil.",
+            "response": "Jangan hentikan elusan; lanjutkan mengelus lembut di bawah dagu atau leher agar mereka tetap rileks."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Peregangan Fisik Ringan untuk Kesehatan Kerangka",
+            "text": "Sebagai ras besar, kelelahan menumpuk di sendi kaki belakang. Sebelum mereka mulai bergerak, regangkan kaki belakang dengan lembut untuk menjaga jangkauan gerak sendi."
+          },
+          {
+            "name": "Siang: Menyikat dengan Sisir Jarum untuk Mencegah Kusut",
+            "text": "Bulu bagian bawah Ragdoll sangat lembut dan tebal, sehingga mudah kusut. Sisir searah bulu dengan sisir jarum berujung bulat untuk sirkulasi udara dan mencegah dermatitis serta hairball."
+          },
+          {
+            "name": "Malam: Teknik Menggendong Aman dengan Menopang Pinggul",
+            "text": "Mengangkat bagian atas tubuh saja menyebabkan tulang belakang terpelintir. Selalu topang dada dengan satu tangan dan pinggul/pantat dengan tangan lainnya untuk menciptakan posisi aman."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apakah tubuh Ragdoll yang terkulai saat digendong berarti tulang atau sendi mereka lemah?",
+            "answer": "Tidak. Ini adalah sifat perilaku genetik unik dari Ragdoll di mana mereka secara sadar merilekskan seluruh otot saat merasa sangat aman dan mempercayai penggendongnya. Ini bukan cacat fisik."
+          },
+          {
+            "question": "Apa yang terjadi jika saya tidak menopang pinggul Ragdoll saat menggendongnya?",
+            "answer": "Karena mereka adalah ras besar, menggendong mereka hanya pada ketiak akan membebankan seluruh berat tubuh (seringkali lebih dari 7kg) pada tulang belakang dan tulang rusuk, meningkatkan risiko cedera diskus atau dislokasi."
+          }
+        ],
+        "tags": [
+          "Ragdoll",
+          "GendongAman",
+          "PerawatanSendi",
+          "PerawatanKucing"
         ]
       }
     },

@@ -1,20 +1,20 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "ネザーランドドワーフの足ダン警告と消化器保護の3ステップルーチン"
+title: "ネザーランドドワーフの足ダン警告と消化器保護の3ステップ日常ルーティン"
 description: "世界で最も小さなウサギであるネザーランドドワーフ。不安を示す足ダンの対処法と、草食動物特有の胃腸をいたわる3ステップの牧草ケアについて解説します。"
 pubDate: "2026-02-17"
 updatedDate: "2026-02-17"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","ネザーランドドワーフ (Netherland Dwarf Rabbit)"]
+tags: ["ペットケア","ペット健康","ネザーランドドワーフ (Oryctolagus cuniculus)"]
 heroImage: "/images/blog/dwarf_rabbit_care.png"
 app: "petself"
 formatVersion: 4
 authority: "House Rabbit Society ウサギ医療ガイドおよび小動物獣医行動マニュアル"
 steps:
   - name: "ドワーフウサギの感情表現：足ダンと歯ぎしりのサイン"
-    text: "ネザーランドドワーフは強い不満や危険を感じると、後ろ足で地面を強く叩く『足ダン（Thumping）』を行い周囲に警告します。反対に、リラックスして喜んでいる時は、顎を軽く動かしてカチカチと音を鳴らす『歯ぎしり（Teeth Purring）』の愛情表現を見せます。これらの感情表現を正しく見極めることが大切です。"
-  - name: "ネザーランドドワーフ (Netherland Dwarf Rabbit)'s Body Language & Signals"
-    text: "* 足ダン (Thumping): 周囲に危険を知らせるか、現在強い不満や怒りを感じているという明確な拒否の意思表示です。 (刺激の原因を特定して騒音や他のペットを遠ざけ、ウサギが安心できるまで静かに様子を見ます.)
+    text: "ネザーランドドワーフは強い不満や危険を感じると、後ろ足で地面を強く叩く「足ダン（Thumping）」を行い周囲に警告します。反対に、リラックスして喜んでいる時は、顎を軽く動かしてカチカチと音を鳴らす「歯の擦り合わせ（Teeth Purring）」の愛情表現を見せます。これらの感情表現を正しく見極めることが大切です。"
+  - name: "ネザーランドドワーフ (Oryctolagus cuniculus)'s Body Language & Signals"
+    text: "* 足ダン (Thumping): 周囲に危険を知らせるか、現在強い不満や怒りを感じているという明確な拒否の意思表示です。 (刺激の原因を特定して騒音や他のペットを遠ざけ、ウサギが安心できるまで静かに様子を見ます。)
 
 * 歯の擦り合わせ (Teeth Purring): 飼い主に撫でられている時など、猫のゴロゴロ音のように喜びと安心を満喫している状態です。 (額や耳の付け根を優しくマッサージし、コミュニケーションをさらに深めましょう。)"
   - name: "Customized 3-Step Home Care Routine"
@@ -30,7 +30,7 @@ faqs:
     answer: "急に牧草を食べなくなったり、糞のサイズが極端に小さくなるのは、命に関わる胃腸うっ滞の初期サインです。草食動物の消化管が止まると非常に危険なため、すぐにウサギ専門の獣医師に診てもらってください。"
 ---
 
-小さな耳と丸く愛らしい体型を持つネザーランドドワーフは、世界中で大人気のウサギ品種です。しかし、体が小さいぶん臆病で環境変化に非常に敏感であり、繊維質の摂取が不足すると毛球症や胃腸うっ滞（GI Stasis）などの致命的な病気を引き起こしやすいです。また、不安を感じると後ろ足で地面を強く叩き、激しい拒否の意思を示します。今回はドワーフウサギの足ダン不安信号を分析し、胃腸の健康と爪の安全を守る3ステップのホームケアルーチンをご紹介します。
+小さな耳と丸く愛らしい体型を持つネザーランドドワーフは、世界中で大人気のウサギ品種です。しかし、体が小さいぶん臆病で環境変化に非常に敏感であり、繊維質の摂取が不足すると毛球症や胃腸うっ滞（GI Stasis）などの致命的な病気を引き起こしやすいです。また、不安を感じると後ろ足で地面を強く叩き、激しい拒否の意思を示します。今回はドワーフウサギの足ダン不安信号を分析し、胃腸の健康と爪の安全を守る3ステップのホームケアルーティンをご紹介します。
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -54,13 +54,13 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">ドワーフウサギの感情表現：足ダンと歯ぎしりのサイン</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    ネザーランドドワーフは強い不満や危険を感じると、後ろ足で地面を強く叩く『足ダン（Thumping）』を行い周囲に警告します。反対に、リラックスして喜んでいる時は、顎を軽く動かしてカチカチと音を鳴らす『歯ぎしり（Teeth Purring）』の愛情表現を見せます。これらの感情表現を正しく見極めることが大切です。
+    ネザーランドドワーフは強い不満や危険を感じると、後ろ足で地面を強く叩く「足ダン（Thumping）」を行い周囲に警告します。反対に、リラックスして喜んでいる時は、顎を軽く動かしてカチカチと音を鳴らす「歯の擦り合わせ（Teeth Purring）」の愛情表現を見せます。これらの感情表現を正しく見極めることが大切です。
   </p>
 </div>
 
 ---
 
-## 2. ネザーランドドワーフ (Netherland Dwarf Rabbit)'s Body Language & Signals
+## 2. ネザーランドドワーフ (Oryctolagus cuniculus)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -69,7 +69,7 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 意味:</strong> 周囲に危険を知らせるか、現在強い不満や怒りを感じているという明確な拒否の意思表示です。<br/>
-    <strong>• 対処法:</strong> 刺激の原因を特定して騒音や他のペットを遠ざけ、ウサギが安心できるまで静かに様子を見ます.
+    <strong>• 対処法:</strong> 刺激の原因を特定して騒音や他のペットを遠ざけ、ウサギが安心できるまで静かに様子を見ます。
   </p>
 </div>
 

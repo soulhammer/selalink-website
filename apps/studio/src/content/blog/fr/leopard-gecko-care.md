@@ -5,15 +5,15 @@ description: "Guide complet pour le Gecko Léopard. Décodez le mouvement défen
 pubDate: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Gecko Léopard (Leopard Gecko)"]
+tags: ["SoinAnimaux","SanteAnimaux","Gecko Léopard (Eublepharis macularius / Leopard Gecko)"]
 heroImage: "/images/blog/leopard_gecko_care.png"
 app: "petself"
 formatVersion: 4
-authority: "Association of Reptilian and Amphibian Veterinarians (ARAV)"
+authority: "Association of Reptilian and Amphibian Veterinarians (ARAV) & Normes Cliniques"
 steps:
   - name: "Langage Corporel: Mouvement de Queue et Indices de Mue"
     text: "Sa queue charnue sert de réserve de graisse et d'organe de communication. Distinguer l'ondulation lente défensive du frétillement lors de la chasse évite le stress."
-  - name: "Gecko Léopard (Leopard Gecko)'s Body Language & Signals"
+  - name: "Gecko Léopard (Eublepharis macularius / Leopard Gecko)'s Body Language & Signals"
     text: "* Ondulation Lente de la Queue en S (Slow Tail Waving): Avertissement défensif; le gecko se sent menacé ou surpris par un prédateur. (Cessez toute manipulation, retirez la main lentement et laissez-le se cacher.)
 
 * Peau Blanchâtre et Frottement des Yeux (Pre-Shedding Signal): Début du processus de mue (ecdysis); la peau a besoin d'une forte humidité. (Vaporisez de l'eau tiède sur la mousse de la cachette humide pour dépasser 70% d'humidité.)"
@@ -39,7 +39,7 @@ Le Gecko Léopard est le reptile préféré des passionnés. Suivant les normes 
       Preuves Vétérinaires et Comportementales
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Ce contenu est basé sur <strong>Association of Reptilian and Amphibian Veterinarians (ARAV)</strong>.
+      Ce contenu est basé sur <strong>Association of Reptilian and Amphibian Veterinarians (ARAV) & Normes Cliniques</strong>.
     </p>
   </div>
 </div>
@@ -60,7 +60,7 @@ Le Gecko Léopard est le reptile préféré des passionnés. Suivant les normes 
 
 ---
 
-## 2. Gecko Léopard (Leopard Gecko)'s Body Language & Signals
+## 2. Gecko Léopard (Eublepharis macularius / Leopard Gecko)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

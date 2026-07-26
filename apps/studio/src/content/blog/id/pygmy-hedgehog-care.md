@@ -1,36 +1,36 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "Pengurapan Diri Landak Mini Afrika dan Rutin Perawatan Suhu 3 Langkah"
+title: "Pengurapan Diri Landak Mini Afrika dan Rutinitas Harian 3 Langkah Perawatan Suhu"
 description: "Perawatan landak mini Afrika. Pahami perilaku unik mereka mengurapi diri dengan air liur berbusa dan pertahankan suhu optimal 24-26 °C dengan rutin 3 langkah musim dingin kami yang aman."
 pubDate: "2026-05-21"
 updatedDate: "2026-05-21"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Landak Mini Afrika (African Pygmy Hedgehog)"]
+tags: ["PerawatanHewan","KesehatanHewan","Landak Mini Afrika (Atelerix albiventris / African Pygmy Hedgehog)"]
 heroImage: "/images/blog/pygmy_hedgehog_care.png"
 app: "petself"
 formatVersion: 4
-authority: "Panduan Hedgehog Welfare Society dan Protokol Veteriner Hewan Eksotis"
+authority: "Panduan Hedgehog Welfare Society dan Protokol Kedokteran Hewan Eksotis"
 steps:
   - name: "Insting Landak Mini: Busa Pengurapan Diri dan Pertahanan Duri"
-    text: "Saat landak mini Afrika merasakan atau mencium sesuatu yang baru, mereka membuat air liur berbusa dan mengoleskannya ke duri mereka, sebuah proses yang disebut 'Pengurapan Diri (Self-Anointing)'. Ini adalah perilaku normal untuk menyamarkan aroma mereka. Sebaliknya, ketika takut, mereka menggulung tubuh menjadi bola rapat dan mendesis untuk memperingatkan agar tidak disentuh."
-  - name: "Landak Mini Afrika (African Pygmy Hedgehog)'s Body Language & Signals"
+    text: "Saat landak mini Afrika merasakan atau mencium sesuatu yang baru, mereka membuat air liur berbusa dan mengoleskannya ke duri mereka, sebuah proses yang disebut 'Pengurapan Diri' (Self-Anointing). Ini adalah perilaku normal untuk menyamarkan aroma mereka. Sebaliknya, ketika takut, mereka menggulung tubuh menjadi bola rapat dan mendesis 'Mendesis' (Hissing) untuk memperingatkan agar tidak disentuh."
+  - name: "Landak Mini Afrika (Atelerix albiventris / African Pygmy Hedgehog)'s Body Language & Signals"
     text: "* Pengurapan Diri (Self-Anointing): Insting liar yang tidak berbahaya untuk mencatat dan melapisi duri mereka dengan aroma lingkungan yang baru. (Jangan ganggu mereka atau salah mengartikannya sebagai penyakit. Biarkan mereka merasa nyaman dengan aroma tersebut secara alami.)
 
 * Mendesis & Menggulung Menjadi Bola (Hissing/Ball-up): Mode defensif yang menunjukkan ketakutan parah, menegakkan duri untuk menghalangi kontak fisik apa pun. (Hindari memegang mereka dengan tangan telanjang. Tutup dengan selimut bulu domba lembut untuk membuat perlindungan yang gelap.)"
   - name: "Customized 3-Step Home Care Routine"
     text: "* STEP 1. Pagi: Membersihkan Roda Putar dan Wadah Makanan yang Kotor: Karena landak cenderung buang air besar saat berlari di roda putar, bersihkan dan sterilkan roda serta mangkuk setiap pagi.
 
-* STEP 2. Siang: Menjaga Suhu Ruangan Antara 24 hingga 26 °C: Cegah suhu tubuh rendah and hibernasi dengan memeriksa bantalan pemanas dan termostat digital secara teratur.
+* STEP 2. Siang: Menjaga Suhu Ruangan Antara 24 hingga 26 °C: Cegah suhu tubuh rendah dan hibernasi dengan memeriksa bantalan pemanas dan termostat digital secara teratur.
 
-* STEP 3. Malam: Pemberian Pakan Serangga Tinggi Protein & Pemeriksaan Kaki: Sediakan kibble berkualitas tinggi berbahan dasar serangga, dan periksa kaki mereka untuk mendeteksi luka akibat berlari di roda."
+* STEP 3. Malam: Pemberian Pakan Serangga Tinggi Protein & Pemeriksaan Kaki: Sediakan kibble berkualitas tinggi berbahan dasar serangga, dan periksa kaki mereka dengan senter untuk mendeteksi luka akibat berlari di roda."
 faqs:
   - question: "Apa tanda peringatan hipotermia atau hibernasi pada landak mini?"
-    answer: "Jika terlalu dingin, mereka berbaring datar di atas perut, kesulitan berjalan, and tampak lesu. Segera bungkus dengan handuk hangat, tempatkan di ruangan yang hangat, dan cari bantuan dokter hewan."
+    answer: "Jika terlalu dingin, mereka berbaring datar di atas perut, kesulitan berjalan, dan tampak lesu. Segera bungkus dengan handuk hangat, tempatkan di ruangan yang hangat untuk penghangatan bertahap, dan cari bantuan dokter hewan."
   - question: "Apakah landak mini membutuhkan mainan kunyah?"
-    answer: "Tidak seperti hewan pengerat, gigi landak mini tidak tumbuh terus-menerus. Mereka tidak membutuhkan mainan kunyah, and benda keras dapat mematahkan gigi mereka. Hindari kibble yang terlalu keras."
+    answer: "Tidak seperti hewan pengerat, gigi landak mini tidak tumbuh terus-menerus. Mereka tidak membutuhkan mainan kunyah, dan benda keras dapat mematahkan gigi mereka. Hindari kibble yang terlalu keras."
 ---
 
-Landak mini Afrika adalah peliharaan eksotis yang tenang dan menarik. Mereka pemalu secara alami, menggunakan duri untuk pertahanan diri dan melumuri air liur berbusa pada punggung mereka saat menemui aroma baru. Selain itu, mereka berisiko mengalami syok hibernasi fatal jika suhu ruangan turun. Hari ini di PetSelf, kami menguraikan perilaku duri landak mini, tips pengurapan diri, and rutin 3 langkah untuk menjaga kehangatan dan kebersihan tetap stabil.
+Landak mini Afrika adalah peliharaan eksotis yang tenang dan menarik. Mereka pemalu secara alami, menggunakan duri untuk pertahanan diri dan melumuri air liur berbusa pada punggung mereka saat menemui aroma baru. Selain itu, mereka berisiko mengalami syok hibernasi fatal jika suhu ruangan turun. Hari ini di PetSelf, kami menguraikan perilaku duri landak mini, tips pengurapan diri, dan 3 langkah rutinitas harian untuk menjaga kehangatan dan kebersihan tetap stabil.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -39,7 +39,7 @@ Landak mini Afrika adalah peliharaan eksotis yang tenang dan menarik. Mereka pem
       Bukti Dokter Hewan & Perilaku
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Konten ini didasarkan pada <strong>Panduan Hedgehog Welfare Society dan Protokol Veteriner Hewan Eksotis</strong>.
+      Konten ini didasarkan pada <strong>Panduan Hedgehog Welfare Society dan Protokol Kedokteran Hewan Eksotis</strong>.
     </p>
   </div>
 </div>
@@ -54,13 +54,13 @@ Landak mini Afrika adalah peliharaan eksotis yang tenang dan menarik. Mereka pem
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Insting Landak Mini: Busa Pengurapan Diri dan Pertahanan Duri</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Saat landak mini Afrika merasakan atau mencium sesuatu yang baru, mereka membuat air liur berbusa dan mengoleskannya ke duri mereka, sebuah proses yang disebut 'Pengurapan Diri (Self-Anointing)'. Ini adalah perilaku normal untuk menyamarkan aroma mereka. Sebaliknya, ketika takut, mereka menggulung tubuh menjadi bola rapat dan mendesis untuk memperingatkan agar tidak disentuh.
+    Saat landak mini Afrika merasakan atau mencium sesuatu yang baru, mereka membuat air liur berbusa dan mengoleskannya ke duri mereka, sebuah proses yang disebut 'Pengurapan Diri' (Self-Anointing). Ini adalah perilaku normal untuk menyamarkan aroma mereka. Sebaliknya, ketika takut, mereka menggulung tubuh menjadi bola rapat dan mendesis 'Mendesis' (Hissing) untuk memperingatkan agar tidak disentuh.
   </p>
 </div>
 
 ---
 
-## 2. Landak Mini Afrika (African Pygmy Hedgehog)'s Body Language & Signals
+## 2. Landak Mini Afrika (Atelerix albiventris / African Pygmy Hedgehog)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -104,7 +104,7 @@ Landak mini Afrika adalah peliharaan eksotis yang tenang dan menarik. Mereka pem
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Siang: Menjaga Suhu Ruangan Antara 24 hingga 26 °C</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Cegah suhu tubuh rendah and hibernasi dengan memeriksa bantalan pemanas dan termostat digital secara teratur.
+    Cegah suhu tubuh rendah dan hibernasi dengan memeriksa bantalan pemanas dan termostat digital secara teratur.
   </p>
 </div>
 
@@ -114,7 +114,7 @@ Landak mini Afrika adalah peliharaan eksotis yang tenang dan menarik. Mereka pem
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Malam: Pemberian Pakan Serangga Tinggi Protein & Pemeriksaan Kaki</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Sediakan kibble berkualitas tinggi berbahan dasar serangga, dan periksa kaki mereka untuk mendeteksi luka akibat berlari di roda.
+    Sediakan kibble berkualitas tinggi berbahan dasar serangga, dan periksa kaki mereka dengan senter untuk mendeteksi luka akibat berlari di roda.
   </p>
 </div>
 
@@ -133,7 +133,7 @@ Landak mini Afrika adalah peliharaan eksotis yang tenang dan menarik. Mereka pem
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Jika terlalu dingin, mereka berbaring datar di atas perut, kesulitan berjalan, and tampak lesu. Segera bungkus dengan handuk hangat, tempatkan di ruangan yang hangat, dan cari bantuan dokter hewan.
+      Jika terlalu dingin, mereka berbaring datar di atas perut, kesulitan berjalan, dan tampak lesu. Segera bungkus dengan handuk hangat, tempatkan di ruangan yang hangat untuk penghangatan bertahap, dan cari bantuan dokter hewan.
     </p>
   </details>
 
@@ -143,7 +143,7 @@ Landak mini Afrika adalah peliharaan eksotis yang tenang dan menarik. Mereka pem
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Tidak seperti hewan pengerat, gigi landak mini tidak tumbuh terus-menerus. Mereka tidak membutuhkan mainan kunyah, and benda keras dapat mematahkan gigi mereka. Hindari kibble yang terlalu keras.
+      Tidak seperti hewan pengerat, gigi landak mini tidak tumbuh terus-menerus. Mereka tidak membutuhkan mainan kunyah, dan benda keras dapat mematahkan gigi mereka. Hindari kibble yang terlalu keras.
     </p>
   </details>
 </div>

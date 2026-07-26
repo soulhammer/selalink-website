@@ -1,19 +1,19 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "コモンマスクタートルの後ろ足伸ばし日光浴と水質濾過の3ステップルーチン"
+title: "コモンマスクタートルの後ろ足伸ばし日光浴と水質濾過の3ステップ日常ルーティン"
 description: "最も広く飼育されている半水生カメであるコモンマスクタートル。日光浴中の足伸ばし行動の意味と、甲羅の病気を防ぐための3ステップ濾過ガイドを解説します。"
 pubDate: "2026-04-03"
 updatedDate: "2026-04-03"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","コモンマスクタートル (Common Musk Turtle)"]
+tags: ["ペットケア","ペット健康","コモンマスクタートル (Sternotherus odoratus / Common Musk Turtle)"]
 heroImage: "/images/blog/musk_turtle_care.png"
 app: "petself"
 formatVersion: 4
-authority: "World Chelonian Association カメ衛生ガイドおよび半水生カメ飼育基準"
+authority: "World Chelonian Association カメ衛生ガイドおよび半水生カメ飼育臨床基準"
 steps:
   - name: "マスクタートルの感情表現：足伸ばしと甲羅への引っ込みサイン"
-    text: "コモンマスクタートルは陸に上がり、完全に安心している時に『後ろ足をピーンと伸ばす（Back-Leg Stretching）』姿勢をとります。反対に、突然の影や振動を感じると『頭と足を隠す（Shell Retraction）』行動を見せ、頑丈な甲羅の中で身を守ります。"
-  - name: "コモンマスクタートル (Common Musk Turtle)'s Body Language & Signals"
+    text: "コモンマスクタートルは陸に上がり、完全に安心している時に「後ろ足を伸ばす（Back-Leg Stretching）」姿勢をとります。反対に、突然の影や振動を感じると「甲羅に頭を引っ込める（Shell Retraction）」行動を見せ、頑丈な甲羅の中で身を守ります。"
+  - name: "コモンマスクタートル (Sternotherus odoratus / Common Musk Turtle)'s Body Language & Signals"
     text: "* 後ろ足を伸ばす (Back-Leg Stretching): UVランプの下で緊張をほぐし、全身で熱を吸収して体温を上げているリラックス状態です。 (驚いて水に飛び込まないよう、近づくのを避け、離れた場所から見守りましょう。)
 
 * 甲羅に頭を引っ込める (Shell Retraction): 上からの影や振動、近づく手などに恐怖を感じて甲羅の中に避難した警戒状態です。 (カメが安心するまで水槽の前で急に動かないようにし、少し離れた場所で待ちます。)"
@@ -22,7 +22,7 @@ steps:
 
 * STEP 2. 昼：UV-Bおよびバスキングライトの動作点検: カルシウム代謝に必要なビタミンDを合成できるよう、日光浴エリアのランプが正常に点灯しているか確認します。
 
-* STEP 3. 夜：ゴミの吸引回収と週1回の部分換水の実施: 排泄物が多いため、スポイトでゴミを取り除き、フィルターを掃除して週に一度30%程度の水換えを行います."
+* STEP 3. 夜：ゴミの吸引回収と週1回の部分換水の実施: 排泄物が多いため、スポイトでゴミを取り除き、フィルターを掃除して週に一度30%程度の水換えを行います。"
 faqs:
   - question: "水道水をそのまま水槽に入れても大丈夫ですか？"
     answer: "水道水に含まれる塩素は、カメのデリケートな粘膜や皮膚に強い刺激を与え、目の病気を引き起こすことがあります。必ずカルキ抜きを使用するか、一日汲み置きした水を使用してください。"
@@ -30,7 +30,7 @@ faqs:
     answer: "カメの成長に伴い、古い甲羅が透明で薄い板のように剥がれ落ちるのは『脱皮』と呼ばれる極めて正常な現象です。ただし、白い粘液が出ていたり、甲羅が柔らかく悪臭がする場合はシェルロットの疑いがあるため、病院で診てもらってください。"
 ---
 
-小型で大きな水槽を必要としないコモンマスクタートルは、カメ飼育の初心者にも適した強健な半水生カメの品種です。一日のほとんどを水の中で過ごしますが、甲羅の殺菌、ビタミンDの合成、そして体温維持のために陸地での日光浴が絶対に欠かせません。日光浴が不足したり、水質が悪化すると、甲羅が腐る「シェルロット」などの重大な病気にかかってしまいます。今回はマスクタートルの日光浴サインと、清潔な水を保つための3ステップ水槽管理法をご紹介します。
+小型で大きな水槽を必要としないコモンマスクタートルは、カメ飼育の初心者にも適した強健な半水生カメの品種です。一日のほとんどを水の中で過ごしますが、甲羅の殺菌、ビタミンDの合成、そして体温維持のために陸地での日光浴が絶対に欠かせません。日光浴が不足したり、水質が悪化すると、甲羅が腐る「シェルロット（甲殻腐敗症）」などの重大な病気にかかってしまいます。今回はPetSelfが、マスクタートルの日光浴サインと、清潔な水と甲羅を保つための3ステップ水槽管理法をご紹介します。
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -39,7 +39,7 @@ faqs:
       獣医学・行動学的根拠
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      本コンテンツは、<strong>World Chelonian Association カメ衛生ガイドおよび半水生カメ飼育基準</strong>に基づいています。
+      本コンテンツは、<strong>World Chelonian Association カメ衛生ガイドおよび半水生カメ飼育臨床基準</strong>に基づいています。
     </p>
   </div>
 </div>
@@ -54,13 +54,13 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">マスクタートルの感情表現：足伸ばしと甲羅への引っ込みサイン</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    コモンマスクタートルは陸に上がり、完全に安心している時に『後ろ足をピーンと伸ばす（Back-Leg Stretching）』姿勢をとります。反対に、突然の影や振動を感じると『頭と足を隠す（Shell Retraction）』行動を見せ、頑丈な甲羅の中で身を守ります。
+    コモンマスクタートルは陸に上がり、完全に安心している時に「後ろ足を伸ばす（Back-Leg Stretching）」姿勢をとります。反対に、突然の影や振動を感じると「甲羅に頭を引っ込める（Shell Retraction）」行動を見せ、頑丈な甲羅の中で身を守ります。
   </p>
 </div>
 
 ---
 
-## 2. コモンマスクタートル (Common Musk Turtle)'s Body Language & Signals
+## 2. コモンマスクタートル (Sternotherus odoratus / Common Musk Turtle)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -114,7 +114,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">夜：ゴミの吸引回収と週1回の部分換水の実施</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    排泄物が多いため、スポイトでゴミを取り除き、フィルターを掃除して週に一度30%程度の水換えを行います.
+    排泄物が多いため、スポイトでゴミを取り除き、フィルターを掃除して週に一度30%程度の水換えを行います。
   </p>
 </div>
 

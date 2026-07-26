@@ -1,19 +1,19 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "Einspeicheln des Afrikanischen Weißbauchigels und thermische 3-Schritt-Pflege"
-description: "Pflege für den Afrikanischen Weißbauchigel. Verstehen Sie sein einzigartiges Verhalten des Einspeichelns mit schäumendem Speichel und halten Sie eine optimale Temperatur von 24-26 °C mit unserer winterfesten Routine."
+title: "Einspeicheln des Afrikanischen Weißbauchigels und thermische 3-Schritte-Tagesroutine"
+description: "Pflege für den Afrikanischen Weißbauchigel. Verstehen Sie sein einzigartiges Verhalten des Einspeichelns mit schäumendem Speichel und halten Sie eine optimale Temperatur von 24-26 °C mit unserer Routine."
 pubDate: "2026-05-21"
 updatedDate: "2026-05-21"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Afrikanischer Weißbauchigel (African Pygmy Hedgehog)"]
+tags: ["Haustierpflege","Haustiergesundheit","Afrikanischer Weißbauchigel (Atelerix albiventris / African Pygmy Hedgehog)"]
 heroImage: "/images/blog/pygmy_hedgehog_care.png"
 app: "petself"
 formatVersion: 4
 authority: "Richtlinien der Hedgehog Welfare Society und Veterinär-Protokolle für exotische Kleintiere"
 steps:
   - name: "Instinkte des Weißbauchigels: Selbst-Einspeicheln und Stachelverteidigung"
-    text: "Wenn Afrikanische Weißbauchigel etwas Neues schmecken oder riechen, erzeugen sie schäumenden Speichel und tragen ihn auf ihre Stacheln auf – ein Vorgang namens 'Selbst-Einspeicheln (Self-Anointing)'. Dies ist ein normales Verhalten zur Tarnung ihres Geruchs. Wenn sie sich erschrecken, rollen sie sich zu einer engen Kugel zusammen und fauchen, um Berührungen abzuwehren."
-  - name: "Afrikanischer Weißbauchigel (African Pygmy Hedgehog)'s Body Language & Signals"
+    text: "Wenn Afrikanische Weißbauchigel etwas Neues schmecken oder riechen, erzeugen sie schäumenden Speichel und tragen ihn auf ihre Stacheln auf – ein Vorgang namens 'Selbst-Einspeicheln' (Self-Anointing). Dies ist ein normales Verhalten zur Tarnung ihres Geruchs. Wenn sie sich erschrecken, rollen sie sich zu einer engen Kugel zusammen und fauchen 'Fauchen' (Hissing), um Berührungen abzuwehren."
+  - name: "Afrikanischer Weißbauchigel (Atelerix albiventris / African Pygmy Hedgehog)'s Body Language & Signals"
     text: "* Selbsteinspeicheln (Self-Anointing): Ein harmloser wilder Instinkt, um neue Umweltgerüche zu registrieren und auf ihre Stacheln aufzutragen. (Unterbrechen Sie sie nicht und verwechseln Sie es nicht mit einer Krankheit. Lassen Sie sie sich ganz natürlich an den Geruch gewöhnen.)
 
 * Fauchen & Einrollen (Hissing/Ball-up): Ein Verteidigungsmodus, der auf starke Angst hindeutet und bei dem die Stacheln aufgestellt werden, um jeden physischen Kontakt zu blockieren. (Vermeiden Sie es, sie mit bloßen Händen anzufassen. Decken Sie sie mit einer weichen Vliesdecke ab, um einen dunklen Unterschlupf zu schaffen.)"
@@ -22,15 +22,15 @@ steps:
 
 * STEP 2. Nachmittag: Raumtemperatur zwischen 24 und 26 °C halten: Vermeiden Sie eine niedrige Körpertemperatur und Winterschlaf, indem Sie Heizmatten und digitale Thermostate regelmäßig überprüfen.
 
-* STEP 3. Abend: Proteinreiche Insektenfütterung und Pfotenkontrolle: Bieten Sie hochwertiges Trockenfutter auf Insektenbasis an und überprüfen Sie die Pfoten auf Wunden, die durch das Laufen im Rad entstanden sind."
+* STEP 3. Abend: Proteinreiche Insektenfütterung und Pfotenkontrolle: Bieten Sie hochwertiges Trockenfutter auf Insektenbasis an und überprüfen Sie die Pfoten mit einer Taschenlampe auf Wunden, die durch das Laufen im Rad entstanden sind."
 faqs:
   - question: "Was sind die Warnsignale für Unterkühlung oder Winterschlaf bei Igeln?"
-    answer: "Wenn sie zu kalt sind, liegen sie flach auf dem Bauch, haben Schwierigkeiten beim Gehen und wirken lethargisch. Wickeln Sie sie sofort in ein warmes Handtuch, bringen Sie sie in einen warmen Raum und suchen Sie tierärztliche Hilfe auf."
+    answer: "Wenn sie zu kalt sind, liegen sie flach auf dem Bauch, haben Schwierigkeiten beim Gehen und wirken lethargisch. Wickeln Sie sie sofort in ein warmes Handtuch, bringen Sie sie in einen warmen Raum zur schrittweisen Erwärmung und suchen Sie tierärztliche Hilfe auf."
   - question: "Benötigen Igel Knabberspielzeug?"
     answer: "Im Gegensatz zu Nagetieren wachsen die Zähne von Igeln nicht kontinuierlich nach. Sie benötigen keine Nagespielzeuge, und harte Gegenstände können ihre Zähne brechen. Vermeiden Sie übermäßig hartes Trockenfutter."
 ---
 
-Der Afrikanische Weißbauchigel ist ein faszinierendes und ruhiges exotisches Heimtier. Sie sind von Natur aus scheu, nutzen ihre Stacheln zur Verteidigung und verteilen schäumenden Speichel auf ihrem Rücken, wenn sie auf neue Gerüche stoßen. Zudem riskieren sie einen tödlichen Winterschlaf-Schock, wenn die Umgebungstemperatur sinkt. Heute auf PetSelf beschreiben wir das Stachelverhalten des Igels, Tipps zum Selbst-Einspeicheln und eine 3-Schritt-Routine für stabile Wärme und Sauberkeit.
+Der Afrikanische Weißbauchigel ist ein faszinierendes und ruhiges exotisches Heimtier. Sie sind von Natur aus scheu, nutzen ihre Stacheln zur Verteidigung und verteilen schäumenden Speichel auf ihrem Rücken, wenn sie auf neue Gerüche stoßen. Zudem riskieren sie einen tödlichen Winterschlaf-Schock, wenn die Umgebungstemperatur sinkt. Heute auf PetSelf beschreiben wir das Stachelverhalten des Igels, Tipps zum Selbst-Einspeicheln und eine 3-Schritte-Routine für stabile Wärme und Sauberkeit.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -54,13 +54,13 @@ Der Afrikanische Weißbauchigel ist ein faszinierendes und ruhiges exotisches He
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Instinkte des Weißbauchigels: Selbst-Einspeicheln und Stachelverteidigung</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Wenn Afrikanische Weißbauchigel etwas Neues schmecken oder riechen, erzeugen sie schäumenden Speichel und tragen ihn auf ihre Stacheln auf – ein Vorgang namens 'Selbst-Einspeicheln (Self-Anointing)'. Dies ist ein normales Verhalten zur Tarnung ihres Geruchs. Wenn sie sich erschrecken, rollen sie sich zu einer engen Kugel zusammen und fauchen, um Berührungen abzuwehren.
+    Wenn Afrikanische Weißbauchigel etwas Neues schmecken oder riechen, erzeugen sie schäumenden Speichel und tragen ihn auf ihre Stacheln auf – ein Vorgang namens 'Selbst-Einspeicheln' (Self-Anointing). Dies ist ein normales Verhalten zur Tarnung ihres Geruchs. Wenn sie sich erschrecken, rollen sie sich zu einer engen Kugel zusammen und fauchen 'Fauchen' (Hissing), um Berührungen abzuwehren.
   </p>
 </div>
 
 ---
 
-## 2. Afrikanischer Weißbauchigel (African Pygmy Hedgehog)'s Body Language & Signals
+## 2. Afrikanischer Weißbauchigel (Atelerix albiventris / African Pygmy Hedgehog)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -114,7 +114,7 @@ Der Afrikanische Weißbauchigel ist ein faszinierendes und ruhiges exotisches He
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Abend: Proteinreiche Insektenfütterung und Pfotenkontrolle</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Bieten Sie hochwertiges Trockenfutter auf Insektenbasis an und überprüfen Sie die Pfoten auf Wunden, die durch das Laufen im Rad entstanden sind.
+    Bieten Sie hochwertiges Trockenfutter auf Insektenbasis an und überprüfen Sie die Pfoten mit einer Taschenlampe auf Wunden, die durch das Laufen im Rad entstanden sind.
   </p>
 </div>
 
@@ -133,7 +133,7 @@ Der Afrikanische Weißbauchigel ist ein faszinierendes und ruhiges exotisches He
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Wenn sie zu kalt sind, liegen sie flach auf dem Bauch, haben Schwierigkeiten beim Gehen und wirken lethargisch. Wickeln Sie sie sofort in ein warmes Handtuch, bringen Sie sie in einen warmen Raum und suchen Sie tierärztliche Hilfe auf.
+      Wenn sie zu kalt sind, liegen sie flach auf dem Bauch, haben Schwierigkeiten beim Gehen und wirken lethargisch. Wickeln Sie sie sofort in ein warmes Handtuch, bringen Sie sie in einen warmen Raum zur schrittweisen Erwärmung und suchen Sie tierärztliche Hilfe auf.
     </p>
   </details>
 

@@ -1,36 +1,36 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "Cuidado do Peso do British Shorthair: Rotina de 3 passos para prevenção de HCM e obesidade"
-description: "Os British Shorthairs são amados por seu porte robusto. Descubra uma rotina de 3 passos de dieta e estilo de vida para evitar a obesidade e a HCM genética."
+title: "Cuidado do Peso do British Shorthair: Rotina diária de 3 passos para prevenção de HCM e obesidade"
+description: "Os British Shorthairs são amados por seu porte robusto. Descubra uma rotina diária de 3 passos de dieta e estilo de vida para evitar a obesidade e a HCM genética."
 pubDate: "2026-03-08"
 updatedDate: "2026-03-09"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","British Shorthair"]
+tags: ["CuidadoPets","SaudePets","British Shorthair (British Shorthair)"]
 heroImage: "/images/blog/bshorthair_care.png"
 app: "petself"
 formatVersion: 4
-authority: "Padrões da GCCF para British Shorthairs e diretrizes de obesidade felina da AAFP"
+authority: "Padrões da GCCF para British Shorthairs e Diretrizes de Obesidade Felina da AAFP"
 steps:
-  - name: "Linguagem corporal do British Shorthair: olhar distante e abanar de cauda"
-    text: "Os British Shorthairs não gostam de contato físico restritivo e demonstram confiança através do 'olhar suave' à distância. Por outro lado, quando incomodados, mostram 'abanar de cauda' (bater a cauda no chão). Pegá-los no colo gerará estresse."
-  - name: "British Shorthair's Body Language & Signals"
-    text: "* Olhar suave: Uma expressão madura e independente de amor, indicando que se sentem felizes e seguros apenas por compartilhar o espaço. (Pisque lentamente para retribuir o afeto. Não se aproxime ou pegue-os no colo; deixe-os aproveitar sua presença.)
+  - name: "Linguagem corporal do British Shorthair: Olhar suave e abanar de cauda"
+    text: "Os British Shorthairs não gostam de contato físico restritivo e demonstram confiança através do 'olhar suave' (Soft Staring) à distância. Isso indica que preferem uma relação independente, mas sentem-se seguros. Por outro lado, quando incomodados, mostram o 'abanar de cauda' (Tail Swishing) batendo no chão. Pegá-los no colo nesse momento aumentará drasticamente o estresse."
+  - name: "British Shorthair (British Shorthair)'s Body Language & Signals"
+    text: "* Olhar suave (Soft Staring): Uma expressão madura e independente de amor, indicando que se sentem felizes e seguros apenas por compartilhar o mesmo espaço. (Pisque lentamente para retribuir o afeto. Não se aproxime nem os pegue no colo à força; apenas observe com calma.)
 
-* Abanar de cauda: Um sinal de alerta indicando que estão incomodados ou sendo tocados de forma bruta, pedindo que pare. (Pare de acariciar imediatamente e evite contato físico para deixar o gato se acalmar sozinho.)"
+* Abanar de cauda (Tail Swishing): Um sinal de recusa indicando que a intensidade do carinho ou do contato está incomodando e pedindo para parar. (Pare de afagar imediatamente e evite o contato físico para deixar o gato se acalmar sozinho.)"
   - name: "Customized 3-Step Home Care Routine"
-    text: "* STEP 1. Manhã: Controle rigoroso da dieta usando balança de cozinha: Para evitar a cardiomiopatia hipertrófica (HCM) causada por obesidade, pese a comida em uma balança digital.
+    text: "* STEP 1. Manhã: Controle rigoroso da dieta usando balança de precisão: Para evitar a cardiomiopatia hipertrófica (HCM) agravada pela obesidade, pese a comida em uma balança digital seguindo as calorias diárias exatas.
 
-* STEP 2. Tarde: Escovação de subpelo usando escova de borracha felina: Embora de pelo curto, sua pelagem é densa. Escove por 5 minutos com escova de borracha felina para retirar pelos mortos.
+* STEP 2. Tarde: Escovação do subpelo usando escova de borracha felina: Embora de pelo curto, sua pelagem é muito densa. Escove por 5 minutos com escova de borracha para remover pelos mortos sem irritar a pele.
 
-* STEP 3. Noite: Monitoramento da frequência respiratória para HCM e brincadeira leve: Verifique se a frequência respiratória ao dormir é inferior a 30 respirações por minuto e brinque de leve com bolinhas de lã."
+* STEP 3. Noite: Monitoramento da frequência respiratória para HCM e brincadeira leve: Verifique se a frequência respiratória ao dormir é inferior a 30 respirações por minuto para monitorar o coração e brinque levemente rolando bolinhas de lã."
 faqs:
   - question: "Por que a obesidade é mais perigosa para o British Shorthair do que para outros gatos?"
-    answer: "Eles têm porte robusto e são propensos a Cardiomiopatia Hipertrófica (HCM). A obesidade força o coração a trabalhar mais, elevando o risco cardíaco."
+    answer: "Eles têm porte pesado e arredondado, com alta incidência genética de Cardiomiopatia Hipertrófica (HCM). A obesidade aumenta o débito cardíaco e sobrecarrega o miocárdio, elevando o risco de parada cardíaca repentina."
   - question: "Por que os British Shorthairs não gostam de ser pegos no colo?"
-    answer: "Eles prezam pela independência e se sentem inseguros quando as patas perdem o contato com o chão. Colo forçado pode abalar o vínculo com o tutor."
+    answer: "Eles valorizam muito sua independência e sentem grande ansiedade quando as patas perdem o contato com o chão. Pegá-los no colo contra a vontade pode prejudicar o vínculo de confiança."
 ---
 
-Com suas faces redondas e porte musculoso, os British Shorthairs são gigantes gentis. No entanto, seu corpo robusto faz com que a obesidade sobrecarregue suas articulações. Além disso, são propensos a Cardiomiopatia Hipertrófica (HCM), agravada pelo excesso de peso. Hoje, o PetSelf apresenta uma rotina de 3 passos de dieta e atividade.
+Com suas grandes faces redondas e porte musculoso, os British Shorthairs são conhecidos como os gigantes gentis do mundo felino, sendo ideais para tutores iniciantes devido ao seu temperamento calmo. No entanto, sua estrutura óssea pesada faz com que a falta de controle de peso sobrecarregue gravemente as articulações. Além disso, são propensos à Cardiomiopatia Hipertrófica (HCM), doença em que as paredes do coração engrossam. Hoje, o PetSelf analisa sua linguagem corporal e ensina uma rotina de 3 passos para manter o coração e o peso saudáveis.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -39,48 +39,48 @@ Com suas faces redondas e porte musculoso, os British Shorthairs são gigantes g
       Evidência Veterinária e Comportamental
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Este conteúdo baseia-se em <strong>Padrões da GCCF para British Shorthairs e diretrizes de obesidade felina da AAFP</strong>.
+      Este conteúdo baseia-se em <strong>Padrões da GCCF para British Shorthairs e Diretrizes de Obesidade Felina da AAFP</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 1. Linguagem corporal do British Shorthair: olhar distante e abanar de cauda
+## 1. Linguagem corporal do British Shorthair: Olhar suave e abanar de cauda
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Linguagem corporal do British Shorthair: olhar distante e abanar de cauda</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Linguagem corporal do British Shorthair: Olhar suave e abanar de cauda</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Os British Shorthairs não gostam de contato físico restritivo e demonstram confiança através do 'olhar suave' à distância. Por outro lado, quando incomodados, mostram 'abanar de cauda' (bater a cauda no chão). Pegá-los no colo gerará estresse.
+    Os British Shorthairs não gostam de contato físico restritivo e demonstram confiança através do 'olhar suave' (Soft Staring) à distância. Isso indica que preferem uma relação independente, mas sentem-se seguros. Por outro lado, quando incomodados, mostram o 'abanar de cauda' (Tail Swishing) batendo no chão. Pegá-los no colo nesse momento aumentará drasticamente o estresse.
   </p>
 </div>
 
 ---
 
-## 2. British Shorthair's Body Language & Signals
+## 2. British Shorthair (British Shorthair)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Sinal Corporal 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Olhar suave</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Olhar suave (Soft Staring)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Significado:</strong> Uma expressão madura e independente de amor, indicando que se sentem felizes e seguros apenas por compartilhar o espaço.<br/>
-    <strong>• Resposta:</strong> Pisque lentamente para retribuir o afeto. Não se aproxime ou pegue-os no colo; deixe-os aproveitar sua presença.
+    <strong>• Significado:</strong> Uma expressão madura e independente de amor, indicando que se sentem felizes e seguros apenas por compartilhar o mesmo espaço.<br/>
+    <strong>• Resposta:</strong> Pisque lentamente para retribuir o afeto. Não se aproxime nem os pegue no colo à força; apenas observe com calma.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Sinal Corporal 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Abanar de cauda</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Abanar de cauda (Tail Swishing)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Significado:</strong> Um sinal de alerta indicando que estão incomodados ou sendo tocados de forma bruta, pedindo que pare.<br/>
-    <strong>• Resposta:</strong> Pare de acariciar imediatamente e evite contato físico para deixar o gato se acalmar sozinho.
+    <strong>• Significado:</strong> Um sinal de recusa indicando que a intensidade do carinho ou do contato está incomodando e pedindo para parar.<br/>
+    <strong>• Resposta:</strong> Pare de afagar imediatamente e evite o contato físico para deixar o gato se acalmar sozinho.
   </p>
 </div>
 
@@ -91,20 +91,20 @@ Com suas faces redondas e porte musculoso, os British Shorthairs são gigantes g
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Manhã: Controle rigoroso da dieta usando balança de cozinha</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Manhã: Controle rigoroso da dieta usando balança de precisão</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Para evitar a cardiomiopatia hipertrófica (HCM) causada por obesidade, pese a comida em uma balança digital.
+    Para evitar a cardiomiopatia hipertrófica (HCM) agravada pela obesidade, pese a comida em uma balança digital seguindo as calorias diárias exatas.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: Escovação de subpelo usando escova de borracha felina</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: Escovação do subpelo usando escova de borracha felina</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Embora de pelo curto, sua pelagem é densa. Escove por 5 minutos com escova de borracha felina para retirar pelos mortos.
+    Embora de pelo curto, sua pelagem é muito densa. Escove por 5 minutos com escova de borracha para remover pelos mortos sem irritar a pele.
   </p>
 </div>
 
@@ -114,7 +114,7 @@ Com suas faces redondas e porte musculoso, os British Shorthairs são gigantes g
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noite: Monitoramento da frequência respiratória para HCM e brincadeira leve</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Verifique se a frequência respiratória ao dormir é inferior a 30 respirações por minuto e brinque de leve com bolinhas de lã.
+    Verifique se a frequência respiratória ao dormir é inferior a 30 respirações por minuto para monitorar o coração e brinque levemente rolando bolinhas de lã.
   </p>
 </div>
 
@@ -133,7 +133,7 @@ Com suas faces redondas e porte musculoso, os British Shorthairs são gigantes g
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Eles têm porte robusto e são propensos a Cardiomiopatia Hipertrófica (HCM). A obesidade força o coração a trabalhar mais, elevando o risco cardíaco.
+      Eles têm porte pesado e arredondado, com alta incidência genética de Cardiomiopatia Hipertrófica (HCM). A obesidade aumenta o débito cardíaco e sobrecarrega o miocárdio, elevando o risco de parada cardíaca repentina.
     </p>
   </details>
 
@@ -143,7 +143,7 @@ Com suas faces redondas e porte musculoso, os British Shorthairs são gigantes g
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Eles prezam pela independência e se sentem inseguros quando as patas perdem o contato com o chão. Colo forçado pode abalar o vínculo com o tutor.
+      Eles valorizam muito sua independência e sentem grande ansiedade quando as patas perdem o contato com o chão. Pegá-los no colo contra a vontade pode prejudicar o vínculo de confiança.
     </p>
   </details>
 </div>

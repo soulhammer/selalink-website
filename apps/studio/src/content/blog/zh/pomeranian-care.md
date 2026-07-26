@@ -1,36 +1,36 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "博美犬的髌骨与呼吸道保护：日常3步保护惯例"
-description: "博美犬极易发生髌骨脱位和气管塌陷。介绍预防关节损伤及缓解呼吸问题的日常3步保护惯例。"
+title: "博美犬的髌骨与呼吸道保护：日常3步保护护理流程"
+description: "博美犬极易发生髌骨脱位和气管塌陷。介绍预防关节损伤及缓解呼吸问题的日常3步保护护理流程。"
 pubDate: "2026-01-05"
 updatedDate: "2026-01-05"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","博美犬"]
+tags: ["宠物护理","宠物健康","博美犬 (Canis lupus familiaris / Pomeranian)"]
 heroImage: "/images/blog/pomeranian_care.png"
 app: "petself"
 formatVersion: 4
 authority: "美国博美犬俱乐部官方犬种指南与 AVMA 兽医学手册"
 steps:
   - name: "博美犬的身体语言：区分玩耍与焦虑"
-    text: "博美犬极富表现力，情绪变化迅速。关键的肢体语言包括“邀请玩耍姿势（Play Bow）”和“舔嘴唇”。当博美犬降低前半身并抬高臀部时，这是经典的邀请玩耍姿势。然而，如果它们看似在摇尾巴，却不断地用舌头舔嘴唇，这实际上是内心焦虑或压力的表现。家长不应将其误认为兴奋，而应该帮助它们冷静下来。"
-  - name: "博美犬's Body Language & Signals"
+    text: "博美犬极富表现力，情绪变化迅速。关键的肢体语言包括 “邀请玩耍姿势（Play Bow）” 和 “舔嘴唇（Lip Licking）”。当博美犬降低前半身并抬高臀部时，这是经典的邀请玩耍姿势。然而，如果它们看似在摇尾巴，却不断地用舌头舔嘴唇，这实际上是用于平复内心焦虑或压力的放松信号。家长不应将其误认为兴奋，而应该帮助它们冷静下来。"
+  - name: "博美犬 (Canis lupus familiaris / Pomeranian)'s Body Language & Signals"
     text: "* 邀请玩耍姿势 (Play Bow): 前半身贴地而臀部抬起，表示非常高兴并向家长或伙伴发出一起玩耍的邀请。 (扔出它们喜欢的玩具，或者开始一场温柔的追逐游戏以快乐地回应它们。)
 
-* 舔嘴唇 (Lip Licking): 并非期待食物，而是一种用来平复内心焦虑或压力的放松信号。 (如果在散步或陌生环境中看到这个动作，请引导它们远离刺激源以确保安全感。)"
+* 舔嘴唇 (Lip Licking): 并非期待食物，而是一种用来平复内心焦虑或环境压力的放松信号。 (如果在散步或陌生环境中看到这个动作，请引导它们远离刺激源以确保安全感。)"
   - name: "Customized 3-Step Home Care Routine"
-    text: "* STEP 1. 早晨：防滑地垫整理与防止跳跃训练: 确保家具周围正确铺设防滑垫，以保护它们纤细的的骨骼。引导它们使用宠物台阶，避免直接跳下造成的冲击。
+    text: "* STEP 1. 早晨：防滑地垫整理与防止跳跃训练: 确保家具周围正确铺设防滑垫，以保护它们纤细的骨骼。引导它们使用宠物台阶，避免直接跳下造成的冲击。
 
 * STEP 2. 下午：逆毛发生长方向梳理以促进空气流通: 使用针梳从尾部向头部方向轻轻梳理毛发，使其蓬松。这可以防止双层被毛结块，并促进皮肤的健康空气流通。
 
 * STEP 3. 晚上：预防气管压力的颈部按摩与胸背带检查: 为了保护其脆弱的气管，请完全避免使用项圈，而应使用Y字形胸背带。轻轻按摩其颈部两侧，以缓解肌肉紧张。"
 faqs:
-  - question: "博美犬突然像鹅一样发出“咳咳”的 honking 咳嗽声，我该怎么办？"
+  - question: "博美犬突然像鹅一样发出“咳咳”的咳嗽声，我该怎么办？"
     answer: "这通常是气管塌陷的暂时性症状。请保持冷静，抱起您的博美犬，轻轻抚摸它们的喉部，或短暂用手遮住其鼻孔1秒钟以促使其改用鼻子呼吸，症状通常会迅速缓解。"
   - question: "仅仅依靠家庭护理能治愈髌骨脱位而无需手术吗？"
     answer: "对于已经发展至3至4期的物理性移位，必须进行手术矫正。家庭护理（控制体重、防止打滑、加强后肢肌肉）在早期（1至2期）能有效延缓病情进展，并在术后防止复发。"
 ---
 
-博美犬以其娇小的体型、蓬松的双层被毛以及自信活泼的步态而备受喜爱。它们外向且聪明，但其猎犬血统也使其对声音较敏感，易吠叫。🐕博美犬家长经常面临两个重要的健康隐忧：髌骨脱位（因骨骼纤细导致膝盖骨易脱位）和气管塌陷（导致发出鹅叫般的咳嗽声）。这些状况在滑溜的室内地板上极易恶化。今天，PetSelf 将带您了解博美犬的身体语言，并介绍一套日常3步护理惯例，以保护它们的关节和气管健康。 提供持续的日常健康护理与安全的生活环境，可确保您的宠物长期保持健康快乐。
+博美犬以其娇小的体型、蓬松的双层被毛以及自信活泼的步态而备受喜爱。它们外向且聪明，但其狐狸犬种血统也使其对声音较敏感，易吠叫。🐕 博美犬家长经常面临两个重要的健康隐忧：髌骨脱位（Patellar Luxation）（因骨骼纤细导致膝盖骨易脱位）和气管塌陷（Tracheal Collapse）（导致发出鹅叫般的咳嗽声）。这些状况在滑溜的室内地板上极易恶化。今天 PetSelf 将带您了解博美犬的身体语言，并介绍一套日常3步护理流程，以保护它们的关节和气管健康。
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -54,13 +54,13 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">博美犬的身体语言：区分玩耍与焦虑</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    博美犬极富表现力，情绪变化迅速。关键的肢体语言包括“邀请玩耍姿势（Play Bow）”和“舔嘴唇”。当博美犬降低前半身并抬高臀部时，这是经典的邀请玩耍姿势。然而，如果它们看似在摇尾巴，却不断地用舌头舔嘴唇，这实际上是内心焦虑或压力的表现。家长不应将其误认为兴奋，而应该帮助它们冷静下来。
+    博美犬极富表现力，情绪变化迅速。关键的肢体语言包括 “邀请玩耍姿势（Play Bow）” 和 “舔嘴唇（Lip Licking）”。当博美犬降低前半身并抬高臀部时，这是经典的邀请玩耍姿势。然而，如果它们看似在摇尾巴，却不断地用舌头舔嘴唇，这实际上是用于平复内心焦虑或压力的放松信号。家长不应将其误认为兴奋，而应该帮助它们冷静下来。
   </p>
 </div>
 
 ---
 
-## 2. 博美犬's Body Language & Signals
+## 2. 博美犬 (Canis lupus familiaris / Pomeranian)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -79,7 +79,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">舔嘴唇 (Lip Licking)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• 含义:</strong> 并非期待食物，而是一种用来平复内心焦虑或压力的放松信号。<br/>
+    <strong>• 含义:</strong> 并非期待食物，而是一种用来平复内心焦虑或环境压力的放松信号。<br/>
     <strong>•  national:</strong> 如果在散步或陌生环境中看到这个动作，请引导它们远离刺激源以确保安全感。
   </p>
 </div>
@@ -94,7 +94,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">早晨：防滑地垫整理与防止跳跃训练</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    确保家具周围正确铺设防滑垫，以保护它们纤细的的骨骼。引导它们使用宠物台阶，避免直接跳下造成的冲击。
+    确保家具周围正确铺设防滑垫，以保护它们纤细的骨骼。引导它们使用宠物台阶，避免直接跳下造成的冲击。
   </p>
 </div>
 
@@ -129,7 +129,7 @@ faqs:
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>博美犬突然像鹅一样发出“咳咳”的 honking 咳嗽声，我该怎么办？</span>
+      <span>博美犬突然像鹅一样发出“咳咳”的咳嗽声，我该怎么办？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">

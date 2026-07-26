@@ -61,456 +61,455 @@
         ]
       },
       "en": {
-        "title": "Axolotl Gill Curling Communication and 3-Step Care Routine for Cool-Water Preservation",
-        "description": "Comprehensive care guide for the Mexican Axolotl. Decode gill curling stress signals, maintain cool temperatures (16°C ~ 18°C), avoid gravel impaction under Amphibian Ark protocols.",
+        "title": "Axolotl External Gill Signals and 3-Step Daily Care Routine for Water Temperature Management",
+        "description": "Care guide for the mysterious Mexican salamander, the Axolotl. Understand external gill curling stress signals, maintain cool temperatures (16°C ~ 18°C), and protect their skin with a 3-step routine.",
         "authority": "International Amphibian Husbandry & Amphibian Ark Veterinary Care Protocol",
         "profile": {
           "breed": "Axolotl (Mexican Walking Fish)",
           "lifespan": "10 - 15 Years",
-          "sleep_pattern": "10 - 12 Hours (Rests in Dark Underwater Hides)",
-          "temperament": "Docile, Calm, Solitary, Highly Sensitive to Water Temperature"
+          "sleep_pattern": "10 - 12 Hours (Rests in cool, dark underwater hides)",
+          "temperament": "Docile, Calm, Solitary, Environmentally Cautious"
         },
-        "intro": "Renowned for their smiling faces and feathery external gills, Axolotls are unique aquatic amphibians capable of incredible limb regeneration. According to Amphibian Ark veterinary standards, Axolotls breathe through cutaneous skin absorption and external gills, making them extremely vulnerable to temperatures above 20°C. Maintaining cool water (16°C ~ 18°C) and bare-bottom tank setups is mandatory.",
-        "whyTitle": "Axolotl Communication: Deciphering Gill Curling & Bottom Gaping Behavior",
-        "whyDesc": "An Axolotl's feathery red gills serve as direct water quality and temperature indicators. Forward gill curling signals severe environmental stress or ammonia spikes.",
+        "intro": "Beloved for their smiling expressions and pink external gills, the Axolotl is a rare amphibian pet with extraordinary body regeneration capabilities. According to the International Amphibian Ark Veterinary Protocol, axolotls breathe through cutaneous skin absorption and external gills, making them extremely vulnerable to water temperatures above 20°C. Keeping the water temperature cool at 16°C ~ 18°C and avoiding gravel substrates that can be swallowed are the core elements of their health care.",
+        "whyTitle": "Axolotl Physical Signals: Gill Curling and Mouth Gaping",
+        "whyDesc": "An Axolotl's feathery red external gills serve as a clear indicator of water quality and temperature. Forward gill curling signals water quality deterioration or heat stress.",
         "body_signals": [
           {
-            "name": "External Gills Curled Forward & Curved Tail Tip (Gill Curling Forward)",
-            "meaning": "A high-stress warning triggered by elevated temperatures (>20°C) or ammonia accumulation.",
-            "response": "Engage aquarium cooling fans immediately to lower temperature to 16°C ~ 18°C and execute a 20% water change."
+            "name": "External Gills Curled Forward & Curled Tail (Gill Curling Forward)",
+            "meaning": "An environmental stress warning caused by elevated water temperatures (above 20°C) or rising ammonia levels.",
+            "response": "Turn on aquarium cooling fans to drop the temperature to 16°C ~ 18°C and immediately perform a partial water change (20%)."
           },
           {
-            "name": "Staring Downward & Mouth Gaping (Bottom Gaping)",
-            "meaning": "Natural foraging behavior indicating the Axolotl is actively hunting for food.",
-            "response": "Gently offer specialized sinking pellets or earthworms using long blunt tweezers near its snout."
+            "name": "Staring Blankly at the Substrate & Mouth Gaping (Bottom Gaping)",
+            "meaning": "A natural foraging signal indicating hunger or active hunting for food.",
+            "response": "Gently offer specialized fish pellets or earthworms in front of their snout using blunt tweezers."
           }
         ],
         "daily_routine": [
           {
-            "name": "Morning: Cool Water Temperature (16°C ~ 18°C) & Chiller Check",
-            "text": "Verify water chiller or cooling fan status to ensure temperatures do not exceed 18°C."
+            "name": "Morning: Water Temperature Monitoring (Maintain 16°C ~ 18°C) & Cooling System Check",
+            "text": "Check cooling fan operation to ensure water temperature does not exceed 19°C in summer, and check for condensation on tank walls."
           },
           {
-            "name": "Afternoon: Siphon Waste Spot-Cleaning & Dim Lighting Maintenance",
-            "text": "Axolotls lack eyelids and dislike bright lights; maintain a shaded tank environment and siphon out waste daily."
+            "name": "Afternoon: Siphon Waste Removal & Direct Sunlight Block",
+            "text": "Maintain a dim tank environment for axolotls due to their poor eyesight, and pick up waste daily using a long siphon."
           },
           {
-            "name": "Evening: Tongs Feeding & Feathery Gill Circulation Check",
-            "text": "Feed sinking pellets via tongs and observe bright red blood flow in feathery gill filaments."
+            "name": "Evening: Tongs Hand-Feeding & Feathery Gill Circulation Check",
+            "text": "Feed sinking fish/shrimp pellets carefully with blunt tweezers and observe whether blood flow in the feathery gills shows a healthy bright red color."
           }
         ],
         "faqs": [
           {
-            "question": "Can I use small gravel substrate at the bottom of an Axolotl tank?",
-            "answer": "Absolutely not! Axolotls feed by powerful vacuum suction and will swallow gravel, causing fatal intestinal impaction. Use a bare-bottom tank or smooth river rocks larger than their head."
+            "question": "Can I use gravel on the bottom of an Axolotl tank?",
+            "answer": "Absolutely not! Axolotls feed by powerful suction of surrounding water and substrate. Swallowing small gravel can cause fatal intestinal impaction. Use a bare-bottom tank or smooth stones larger than their head."
           },
           {
-            "question": "Why are my Axolotl's gill filaments shrinking or turning white?",
-            "answer": "This is a sign of gill damage from water pollution or fungal infection (Saprolegnia) due to high temperatures. Lower water temperature to 16°C and increase water changes."
+            "question": "Why are my Axolotl's feathery gills shrinking and turning white?",
+            "answer": "This indicates gill damage from water pollution or high temperatures, or a fungal infection (Saprolegnia). Lower the water temperature to 16°C and increase water changes."
           }
         ],
         "tags": [
           "Axolotl",
-          "Amphibian Care",
-          "Cool Water Pet",
-          "Amphibian Ark",
-          "Gill Health"
+          "AmphibianCare",
+          "CoolWaterCare",
+          "AmphibianArk"
         ]
       },
       "ja": {
-        "title": "ウーパールーパーのエラカールサインと水温管理の3ステップデイリーケア",
-        "description": "神秘的な両生類ウーパールーパー（アホロートル）。フサフサのエラが前方に曲がるストレスサイン、16°C ~ 18°Cの低温水温管理、Amphibian Ark基準のケアを解説します。",
-        "authority": "国際両生類飼育プロトコル (Amphibian Ark) 基準",
+        "title": "ウーパールーパーのエラカールサインと水温管理のための3ステップデイリーケア",
+        "description": "神秘的なメキシコサラマンダーのウーパールーパー（アホロートル）。外鰓（エラ）のカールによるストレスサイン、16°C〜18°Cの低温維持、皮膚保護の3ステップケア。",
+        "authority": "国際両生類飼育プロトコル (Amphibian Ark) 獣医ケア基準",
         "profile": {
-          "breed": "ウーパールーパー (Axolotl / アホロートル)",
-          "lifespan": "10 - 15年",
-          "sleep_pattern": "10 - 12時間 (水中シェルターで休息)",
-          "temperament": "温厚、おっとり、マイペース、水温に繊細"
+          "breed": "ウーパールーパー / アホロートル (Axolotl)",
+          "lifespan": "10 〜 15年",
+          "sleep_pattern": "10 〜 12時間 (低温の水中シェルターで休息)",
+          "temperament": "温厚、おっとり、単独行動を好む、環境に慎重"
         },
-        "intro": "愛くるしい笑顔とピンク色のフサフサした外鰓（エラ）が特徴のウーパールーパーは、驚異的な再生能力を持つ両生類です。Amphibian Arkの基準に基づき、20°C以上の高水温を避け、16°C ~ 18°Cのサーマル環境を保ち、誤飲を引き起こす小砂利を排除することが飼育の鍵です。",
-        "whyTitle": "ウーパールーパーのシグナル：エラの曲がりとパクパク行動の解読",
-        "whyDesc": "赤い外鰓は水質と水温のバロメーターです。エラが前に大きく曲がる現象は水質悪化や高水温のストレスサインです。",
+        "intro": "微笑んでいるような表情とピンク色のフサフサした外鰓（エラ）で愛されるウーパールーパー（アホロートル）は、驚異的な器官再生能力を持つ珍しい両生類ペットです。国際両生類保全プロトコル（Amphibian Ark）によると、ウーパールーパーは皮膚呼吸を行い、20°C以上の高水温に非常に脆弱です。水温を16°C〜18°Cの涼しい状態に保ち、誤飲の危険がある小さな砂利を排除することが健康管理の核心です。",
+        "whyTitle": "ウーパールーパーの身体シグナル：エラの曲がりと口のパクパク動作",
+        "whyDesc": "ウーパールーパーの赤い外鰓（エラ）は水質と水温の状態を示す指標です。エラが前方に曲がる現象は、水質悪化や高水温によるストレスを示しています。",
         "body_signals": [
           {
-            "name": "外鰓が前に大きく曲がり尾先が丸まる (Gill Curling Forward)",
-            "meaning": "水温上昇(20°C以上)やアンモニア濃度上昇による強い環境ストレスサインです。",
-            "response": "冷却ファンを稼働させて水温を16°C ~ 18°Cに下げ、20%の換水を行います。"
+            "name": "外鰓が前方に曲がり尾先が丸まる (Gill Curling Forward)",
+            "meaning": "水温上昇（20°C以上）やアンモニア濃度の上昇による環境ストレスの警告です。",
+            "response": "水槽用冷却ファンを稼働させて16°C〜18°Cに下げ、直ちに部分換水（20%）を実施します。"
           },
           {
-            "name": "底面をじっと見つめて口をパクパクさせる (Bottom Gaping)",
-            "meaning": "ご飯を探している正常な空腹・捕食サインです。",
-            "response": "ピンセットで専用ペレットや赤虫を口元に優しく運んであげましょう。"
+            "name": "底面をぼんやり見つめて口をパクパクさせる (Bottom Gaping)",
+            "meaning": "餌を探しているか空腹を感じている自然な捕食・探索シグナルです。",
+            "response": "専用ペレットやミミズをピンセットで口元へ優しく運んで与えます。"
           }
         ],
         "daily_routine": [
           {
-            "name": "朝：水温計（16°C ~ 18°C維持）と冷却装置の確認",
-            "text": "高水温を防ぐため冷却ファンの動作と水温を確認します。"
+            "name": "朝：水温計（16°C〜18°C維持）のモニタリングと冷却装置の点検",
+            "text": "夏場に水温が19°Cを超えないよう冷却ファンの作動を確認し、水槽壁面の結露をチェックします。"
           },
           {
-            "name": "昼：フンのスポイト除去と暗い水槽環境の維持",
-            "text": "光に敏感なため薄暗い環境を保ち、フンはスポイトですぐに取り除きます。"
+            "name": "昼：残った排泄物のスポイト除去と直射日光の遮断",
+            "text": "視力が弱いウーパールーパーのために薄暗い水槽環境を保ち、排泄物は長いスポイトやサイフォンで取り除きます。"
           },
           {
-            "name": "夜：ピンセットでの給餌とエラの血流状態のチェック",
-            "text": "専用フードをピンセットで与え、エラの赤みが健康か観察します。"
+            "name": "夜：ピンセットでの手動給餌とエラの血流状態の点検",
+            "text": "魚・エビ用ペレットをピンセットで丁寧に与え、エラのフサフサな血流が鮮やかな赤色を帯びているか確認します。"
           }
         ],
         "faqs": [
           {
-            "question": "底砂に細かい砂利を敷いても大丈夫ですか？",
-            "answer": "絶対に使用しないでください！ウーパールーパーは powerful な吸い込みで餌を食べるため、砂利を誤飲して腸閉塞を起こす危険があります。ベアタンク（砂なし）が推奨されます。"
+            "question": "水槽の底に砂利を敷いても大丈夫ですか？",
+            "answer": "絶対にダメです！ウーパールーパーは餌を食べる際、周囲の水と底砂を強力に吸い込みます。小さな砂利を誤飲すると腸閉塞を起こして死亡に至る可能性があるため、ベアタンク（砂なし）か頭より大きな石のみを使用してください。"
           },
           {
             "question": "エラのフサフサが短くなり白くなってきたのはなぜですか？",
-            "answer": "高水温や水質悪化によるエラダメージ、または水カビ病(Saprolegnia)の可能性があります。水温を16°Cに下げて水換え頻度を増やしてください。"
+            "answer": "水質汚染や高水温によって外鰓が損傷したか、水カビ病（Saprolegnia）に感染したためです。水温を16°Cに下げ、換水の頻度を増やしてください。"
           }
         ],
         "tags": [
           "ウーパールーパー",
           "アホロートル",
-          "両生類の飼い方",
-          "低温飼育",
-          "Amphibian Ark"
+          "両生類ケア",
+          "低温管理",
+          "AmphibianArk"
         ]
       },
       "zh": {
-        "title": "美西螈（六角恐龙）鳃羽弯曲信号与冷水护理3步日常",
-        "description": "神秘两栖宠物美西螈（Axolotl）护理指南。解读羽状外鳃前卷压力信号、维持16°C ~ 18°C冷水环境与Amphibian Ark裸缸管理。",
+        "title": "美西螈（六角恐龙）外鳃信号与水温管理的3步日常护理",
+        "description": "神秘墨西哥蝾螈美西螈（Axolotl）护理指南。解读羽状外鳃前卷压力信号、维持16°C ~ 18°C低温环境与皮肤保护3步护理。",
         "authority": "国际两栖动物保育 (Amphibian Ark) 兽医护理协议",
         "profile": {
           "breed": "美西螈 / 六角恐龙 (Axolotl)",
-          "lifespan": "10 - 15年",
-          "sleep_pattern": "10 - 12小时 (水下隐蔽处休眠)",
-          "temperament": "温和、迟钝、喜独居、水温敏感"
+          "lifespan": "10 ~ 15年",
+          "sleep_pattern": "10 ~ 12小时 (水下低温隐蔽处休息)",
+          "temperament": "温和、迟钝、喜独居、对环境谨慎"
         },
-        "intro": "拥有标志性微笑与粉色羽状外鳃的美西螈（六角恐龙）是极其独特的两栖宠物。遵照Amphibian Ark国际标准，美西螈通过皮肤与外鳃呼吸，对高于20°C的水温极度敏感。保持16°C ~ 18°C凉爽水温并采用无底砂裸缸是防止误食肠梗阻的关键。",
-        "whyTitle": "美西螈的肢体语言：外鳃前卷与捕食张嘴解密",
-        "whyDesc": "美西螈鲜红的羽状外鳃（External Gills）是水质与水温 responses 晴雨表。外鳃向前弯曲如钩状预示着严重的温湿度或氨氮压力。",
+        "intro": "拥有标志性微笑与粉色羽状外鳃的美西螈（六角恐龙）是具有神奇身体再生能力的稀有两栖宠物。根据国际两栖动物保育兽医协议（Amphibian Ark），美西螈通过皮肤吸收呼吸，对20°C以上的高水温极度敏感。将水温维持在16°C ~ 18°C凉爽状态，并杜绝可被误食的小碎石底砂，是其健康管理的核心。",
+        "whyTitle": "美西螈的身体信号：外鳃前卷与张嘴咀嚼动作",
+        "whyDesc": "美西螈鲜红的羽状外鳃（External Gills）是反映水质与水温状态的晴雨表。外鳃向前弯曲如钩状预示着水质恶化或高水温应激。",
         "body_signals": [
           {
-            "name": "外鳃向前严重弯曲且尾尖卷曲 (Gill Curling Forward)",
-            "meaning": "水温过高（>20°C）或水质恶化（氨氮超标）引发的高度应激警告。",
-            "response": "开启水族冷却风扇降温至16°C ~ 18°C，并立即换水20%。"
+            "name": "羽状外鳃向前弯曲且尾尖卷曲 (Gill Curling Forward)",
+            "meaning": "水温升高（20°C以上）或氨氮指标上升引发的有害环境应激警告。",
+            "response": "开启水族冷却风扇降温至16°C ~ 18°C，并立即进行20%的部分换水。"
           },
           {
-            "name": "凝视缸底并时不时张嘴吞咽 (Bottom Gaping)",
-            "meaning": "正在搜寻食物的自然捕食信号。",
-            "response": "用长镊子夹取沉底肉食颗粒或红虫缓慢送至其嘴边。"
+            "name": "凝视底砂并张嘴咀嚼 (Bottom Gaping)",
+            "meaning": "搜寻食物或感到饥饿的自然捕食探索信号。",
+            "response": "用圆头长镊子夹取专用鱼类/虾类颗粒或蚯蚓，平缓送至其嘴边。"
           }
         ],
         "daily_routine": [
           {
-            "name": "早晨：水温计（保持16°C ~ 18°C）与制冷设备检查",
-            "text": "检查冷水机或风扇，确保水温绝不超过18°C。"
+            "name": "早上：水温计（保持16°C ~ 18°C）监测与制冷设备检查",
+            "text": "检查冷却风扇运转情况，确保夏季水温不超过19°C，并检查缸壁结露情况。"
           },
           {
-            "name": "下午：粪便吸管清理与保持弱光暗缸",
-            "text": "美西螈无眼睑害怕强光，保持缸内遮阴并吸出排泄物。"
+            "name": "中午：残余排泄物吸管清理与遮光避光",
+            "text": "美西螈视力较差，需保持暗光水缸环境，并用长吸管/虹吸管清理排泄物。"
           },
           {
-            "name": "夜晚：镊子辅助喂食与外鳃鲜红充血观察",
-            "text": "用镊子喂食沉底颗粒，观察外鳃羽毛血流充盈状况。"
+            "name": "晚上：镊子辅助喂食与外鳃充血血流检查",
+            "text": "用镊子精心喂食沉底颗粒，观察羽状外鳃血流是否呈现鲜艳的鲜红色。"
           }
         ],
         "faqs": [
           {
-            "question": "缸底可以铺设小碎石或小砂砾吗？",
-            "answer": "绝对不行！美西螈通过负压吸食食物，小石子会被吞入体内导致致命 responses 肠梗阻。请使用裸缸或比其头部还大的光滑大鹅卵石。"
+            "question": "鱼缸底部可以铺设小碎石或小砂砾吗？",
+            "answer": "绝对不行！美西螈进食时会通过负压强力吸入周围的水和底砂。吞入小碎石会导致致命的肠梗阻，因此请使用裸缸或远大于其头部的光滑大石块。"
           },
           {
-            "question": "美西螈外鳃羽毛变短或变白是什么原因？",
-            "answer": "这是水温过高或水质恶化导致 responses 鳃部损伤或水霉病（Saprolegnia）。请降温至16°C并加大换水频率。"
+            "question": "美西螈外鳃羽毛变短且变白是什么原因？",
+            "answer": "这是水质污染或高水温导致外鳃受损，或感染了水霉病（Saprolegnia）。请将水温降至16°C并增加换水频率。"
           }
         ],
         "tags": [
           "美西螈",
           "六角恐龙",
           "两栖动物护理",
-          "冷水水族",
-          "Amphibian Ark"
+          "低温管理",
+          "AmphibianArk"
         ]
       },
       "es": {
-        "title": "Señales de las Branquias del Ajolote y Rutina de 3 Pasos para Agua Fría",
-        "description": "Guía completa de cuidado para el Ajolote (Axolotl). Interpreta la curvatura de las branquias, mantén agua fría (16°C ~ 18°C) y evita sustratos peligrosos según Amphibian Ark.",
-        "authority": "Protocolo Veterinario Internacional Amphibian Ark",
+        "title": "Señales de las branquias del ajolote y rutina diaria de 3 pasos para el control de la temperatura del agua",
+        "description": "Guía de cuidado para la misteriosa salamandra mexicana, el ajolote (Axolotl). Comprenda las señales de estrés por curvatura de las branquias, mantenga agua fría (16°C ~ 18°C) y proteja su piel con una rutina de 3 pasos.",
+        "authority": "Protocolo Veterinario Internacional de Cría de Anfibios y Amphibian Ark",
         "profile": {
           "breed": "Ajolote / Axolote (Axolotl)",
-          "lifespan": "10 - 15 años",
-          "sleep_pattern": "10 - 12 horas (Descansa en cueva acuática oscura)",
-          "temperament": "Tranquilo, apacible, solitario, sensible a la temperatura"
+          "lifespan": "10 ~ 15 años",
+          "sleep_pattern": "10 ~ 12 horas (Descansa en refugios acuáticos fríos)",
+          "temperament": "Tranquilo, apacible, solitario, cauteloso con su entorno"
         },
-        "intro": "El ajolote es un anfibio acuático fascinante capaz de regenerar sus extremidades. Según la organización Amphibian Ark, es extremadamente sensible a temperaturas superiores a 20°C. El agua debe mantenerse entre 16°C ~ 18°C y se debe evitar la grava para impedir la obstrucción intestinal.",
-        "whyTitle": "Comunicación del Ajolote: Curvatura de Branquias y Bostezo de Fondo",
-        "whyDesc": "Las branquias plumosas rojas son indicadores de la calidad del agua. Si se curvan hacia adelante como anzuelos, el ajolote sufre estrés por temperatura o amoníaco.",
+        "intro": "Amado por sus expresiones sonrientes y branquias externas rosadas, el ajolote (Axolotl) es una mascota anfibia rara con una capacidad de regeneración corporal extraordinaria. Según el Protocolo Veterinario Internacional Amphibian Ark, los ajolotes respiran a través de la piel y las branquias externas, lo que los hace extremadamente vulnerables a temperaturas superiores a 20°C. Mantener el agua fresca entre 16°C y 18°C y eliminar la grava pequeña que puedan tragar son los pilares fundamentales para su salud.",
+        "whyTitle": "Señales corporales del ajolote: Curvatura de branquias y movimientos bucales",
+        "whyDesc": "Las branquias externas rojas del ajolote sirven como un indicador directo de la calidad y temperatura del agua. La curvatura de las branquias hacia adelante señala el deterioro de la calidad del agua o estrés térmico.",
         "body_signals": [
           {
-            "name": "Branquias Curvadas Hacia Adelante (Gill Curling Forward)",
-            "meaning": "Estrés ambiental severo por agua caliente (>20°C) o mala calidad del agua.",
-            "response": "Enciende ventiladores de acuario para bajar a 16°C ~ 18°C y haz un cambio de agua del 20%."
+            "name": "Branquias externas curvadas hacia adelante y cola doblada (Gill Curling Forward)",
+            "meaning": "Una advertencia de estrés ambiental causada por el aumento de la temperatura (por encima de 20°C) o niveles elevados de amoníaco.",
+            "response": "Encienda los ventiladores de refrigeración del acuario para bajar la temperatura a 16°C ~ 18°C y realice de inmediato un cambio parcial de agua (20%)."
           },
           {
-            "name": "Mirada Hacia Abajo y Apertura de Boca (Bottom Gaping)",
-            "meaning": "Comportamiento natural de búsqueda de comida.",
-            "response": "Alimenta suavemente con pinzas cerca de su hocico."
+            "name": "Mirada fija al fondo y apertura bucal (Bottom Gaping)",
+            "meaning": "Una señal natural de búsqueda de alimento que indica hambre o comportamiento de caza.",
+            "response": "Ofrezca suavemente de comer pellets especializados para peces o lombrices frente a su hocico utilizando pinzas de punta roma."
           }
         ],
         "daily_routine": [
           {
-            "name": "Mañana: Control de Temperatura (16°C ~ 18°C) y Refrigeración",
-            "text": "Comprueba que la temperatura no supere los 18°C."
+            "name": "Mañana: Monitoreo de temperatura (16°C ~ 18°C) y revisión del sistema de refrigeración",
+            "text": "Verifique el funcionamiento de los ventiladores de refrigeración para evitar que el agua supere los 19°C en verano y revise la condensación en los cristales del acuario."
           },
           {
-            "name": "Tarde: Limpieza de Desechos con Sifón y Luz Tenue",
-            "text": "Mantén el acuario en penumbra y aspira los desechos con sifón."
+            "name": "Tarde: Limpieza de desechos con sifón y bloqueo de luz solar directa",
+            "text": "Mantenga un entorno tenue para el ajolote debido a su deficiente visión y retire los desechos diariamente con un sifón largo."
           },
           {
-            "name": "Noche: Alimentación con Pinzas y Examen de Branquias",
-            "text": "Ofrece pellets hundibles con pinzas y revisa el color rojo de sus branquias."
+            "name": "Noche: Alimentación manual con pinzas y revisión de la circulación en las branquias",
+            "text": "Alimente con pellets con ayuda de pinzas y observe si el flujo sanguíneo en las branquias plumosas presenta un color rojo brillante saludable."
           }
         ],
         "faqs": [
           {
-            "question": "¿Puedo poner grava pequeña en el fondo del acuario?",
-            "answer": "¡No! Los ajolotes tragan agua para comer y engullirán la grava, provocando una obstrucción intestinal mortal. Usa un acuario con fondo desnudo."
+            "question": "¿Puedo poner grava en el fondo del acuario de mi ajolote?",
+            "answer": "¡Absolutamente no! Los ajolotes se alimentan mediante una potente succión de agua y sustrato. Tragar grava pequeña puede provocar una obstrucción intestinal mortal. Utilice un acuario de fondo desnudo o piedras grandes y lisas, de tamaño superior a su cabeza."
           },
           {
-            "question": "¿Por qué las branquias de mi ajolote se acortan o se vuelven blancas?",
-            "answer": "Indica daño por alta temperatura o infección por hongos (Saprolegnia). Reduce la temperatura a 16°C e incrementa los cambios de agua."
+            "question": "¿Por qué las branquias plumosas de mi ajolote se encogen y se vuelven blancas?",
+            "answer": "Esto indica daño en las branquias debido a la contaminación del agua o altas temperaturas, o una infección por hongos (Saprolegnia). Reduzca la temperatura a 16°C e incremente los cambios de agua."
           }
         ],
         "tags": [
           "Ajolote",
           "Axolotl",
-          "Anfibios",
-          "Cuidados de Agua Fría",
-          "Amphibian Ark"
+          "CuidadoDeAnfibios",
+          "AguaFria",
+          "AmphibianArk"
         ]
       },
       "fr": {
-        "title": "Signaux des Branchies de l'Axolotl et Routine en 3 Étapes en Eau Froide",
-        "description": "Guide complet pour l'Axolotl. Décodez la courbure des branchies, maintenez une eau fraîche (16°C ~ 18°C) et évitez le gravier dangereux selon Amphibian Ark.",
-        "authority": "Protocoles Vétérinaires Amphibian Ark",
+        "title": "Signaux des branchies de l'axolotl et routine quotidienne en 3 étapes pour la gestion de la température",
+        "description": "Guide de soins pour la mystérieuse salamandre mexicaine, l'axolotl. Décryptez les signaux de stress des branchies, maintenez une eau fraîche (16°C ~ 18°C) et protégez sa peau en 3 étapes.",
+        "authority": "Protocoles Vétérinaires d'Élevage des Amphibiens & Amphibian Ark",
         "profile": {
           "breed": "Axolotl (Salamandre Mexicaine)",
-          "lifespan": "10 - 15 ans",
-          "sleep_pattern": "10 - 12 heures (Repos aquatique en cachette)",
-          "temperament": "Paisible, calme, solitaire, sensible"
+          "lifespan": "10 ~ 15 ans",
+          "sleep_pattern": "10 ~ 12 heures (Repos dans des cachettes aquatiques fraîches)",
+          "temperament": "Paisible, calme, solitaire, prudent avec son environnement"
         },
-        "intro": "L'Axolotl est une salamandre aquatique fascinante dotée d'une capacité de régénération unique. Selon les normes d'Amphibian Ark, il exige une eau froide (16°C ~ 18°C) et l'absence totale de petit gravier pour éviter toute occlusion digestive mortelle.",
-        "whyTitle": "Communication de l'Axolotl: Courbure des Branchies et Ouverture de Bouche",
-        "whyDesc": "Les branchies plumeuses indiquent la qualité de l'eau. Courbées vers l'avant, elles signalent un stress thermique ou une montée d'ammoniaque.",
+        "intro": "Apprécié pour son expression souriante et ses branchies externes roses plumouses, l'axolotl (Axolotl) est un animal de compagnie amphibie rare doté d'une capacité de régénération corporelle extraordinaire. Selon les protocoles vétérinaires d'Amphibian Ark, les axolotls respirent par la peau et par leurs branchies externes, ce qui les rend extrêmement vulnérables aux températures supérieures à 20°C. Maintenir l'eau fraîche entre 16°C et 18°C et éviter le petit gravier qu'ils pourraient avaler sont les clés de leur santé.",
+        "whyTitle": "Signaux corporels de l'axolotl : Courbure des branchies et mouvements de bouche",
+        "whyDesc": "Les branchies externes rouges de l'axolotl servent d'indicateur direct de la qualité et de la température de l'eau. Une courbure des branchies vers l'avant indique une dégradation de l'eau ou un stress thermique.",
         "body_signals": [
           {
-            "name": "Branchies Courbées vers l'Avant (Gill Curling Forward)",
-            "meaning": "Stress environnemental critique dû à une eau trop chaude (>20°C) ou polluée.",
-            "response": "Refroidissez l'eau à 16°C ~ 18°C et faites un changement d'eau de 20%."
+            "name": "Branchies externes courbées vers l'avant et queue recourbée (Gill Curling Forward)",
+            "meaning": "Avertissement de stress environnemental causé par une température élevée (>20°C) ou une hausse du niveau d'ammoniaque.",
+            "response": "Allumez les ventilateurs de refroidissement pour faire baisser la température à 16°C ~ 18°C et effectuez immédiatement un changement d'eau partiel (20%)."
           },
           {
-            "name": "Bouche Entrouverte vers le Sol (Bottom Gaping)",
-            "meaning": "Comportement naturel de recherche de nourriture au fond du bac.",
-            "response": "Présentez des granulés ou vers à la pince longue."
+            "name": "Regard fixe vers le sol et ouverture de la bouche (Bottom Gaping)",
+            "meaning": "Signal naturel de recherche de nourriture indiquant la faim ou le comportement de chasse.",
+            "response": "Proposez délicatement des granulés spécialisés ou des vers de terre devant son museau à l'aide d'une pince à bout rond."
           }
         ],
         "daily_routine": [
           {
-            "name": "Matin: Vérification Température Eau Froide (16°C ~ 18°C)",
-            "text": "Assurez-vous que l'eau reste bien en dessous de 18°C."
+            "name": "Matin : Surveillance de la température (16°C ~ 18°C) et vérification du système de refroidissement",
+            "text": "Vérifiez le fonctionnement des ventilateurs de refroidissement pour éviter que l'eau ne dépasse 19°C en été et contrôlez la condensation sur les vitres du bac."
           },
           {
-            "name": "Après-midi: Aspiration des Déchets & Lumière Douce",
-            "text": "Évitez la lumière directe et aspirez les déjections au sifon."
+            "name": "Après-midi : Aspiration des déjections au siphon et protection contre la lumière directe",
+            "text": "Maintenez un environnement tamisé pour l'axolotl en raison de sa faible vue, et aspirez les déjections chaque jour à l'aide d'un long siphon."
           },
           {
-            "name": "Soir: Repas à la Pince & Contrôle des Branchies",
-            "text": "Nourrissez à la pince et observez la rougeur des branchies plumeuses."
+            "name": "Soir : Repas à la pince et contrôle de la circulation sanguine dans les branchies",
+            "text": "Nourrissez avec des granulés à la pince et vérifiez si le flux sanguin dans les filaments des branchies arbore une couleur rouge vif saine."
           }
         ],
         "faqs": [
           {
-            "question": "Peut-on mettre du gravier dans le fond du bac ?",
-            "answer": "Absolument pas. L'axolotl aspire ses proies et avalera le gravier, causant une occlusion intestinale mortelle. Préférez un fond nu."
+            "question": "Puis-je mettre du gravier au fond de l'aquarium de mon axolotl ?",
+            "answer": "Absolument pas ! L'axolotl aspire ses proies en ingérant de l'eau et du substrat. Avaler du gravier peut provoquer une occlusion intestinale mortelle. Utilisez un aquarium à fond nu (bare-bottom) ou des galets très lisses plus grands que sa tête."
           },
           {
-            "question": "Pourquoi les branchies de mon axolotl rétrécissent-elles ou blanchissent-elles ?",
-            "answer": "C'est le signe d'une dégradation due à la chaleur ou à des champignons (Saprolegnia). Abaissez l'eau à 16°C et multipliez les changements d'eau."
+            "question": "Pourquoi les branchies de mon axolotl rétrécissent-elles et deviennent-elles blanches ?",
+            "answer": "Cela indique des dommages aux branchies dus à la pollution de l'eau, à une température trop élevée, ou à une infection fongique (Saprolegnia). Abaissez la température à 16°C et augmentez la fréquence des changements d'eau."
           }
         ],
         "tags": [
           "Axolotl",
-          "Amphibiens",
-          "Soins Eau Froide",
-          "Amphibian Ark"
+          "SoinsAmphibiens",
+          "EauFroide",
+          "AmphibianArk"
         ]
       },
       "de": {
-        "title": "Axolotl-Kiemensignale und 3-Schritte-Routine für Kaltwasserpflege",
-        "description": "Pflegeanleitung für Axolotl. Kiemenkrümmung verstehen, Kaltwassertemperaturen (16°C ~ 18°C) sichern und Darmverschluss vermeiden.",
-        "authority": "Amphibian Ark Veterinary Care Protocols",
+        "title": "Axolotl-Kiemensignale und 3-Schritte-Tagesroutine zur Wassertemperatur-Pflege",
+        "description": "Pflegeanleitung für den mexikanischen Schwanzlurch, den Axolotl. Kiemenkrümmung als Stresssignal verstehen, Kaltwassertemperaturen (16°C ~ 18°C) halten und Hautschutz gewährleisten.",
+        "authority": "Internationales Protokoll für Amphibienhaltung & Amphibian Ark Tiermedizinischer Standard",
         "profile": {
           "breed": "Axolotl (Mexikanischer Schwanzlurch)",
-          "lifespan": "10 - 15 Jahre",
-          "sleep_pattern": "10 - 12 Stunden (Ruht in Höhlen)",
-          "temperament": "Friedlich, ruhig, einzelgängerisch, sensibel"
+          "lifespan": "10 ~ 15 Jahre",
+          "sleep_pattern": "10 ~ 12 Stunden (Ruht in kühlen Unterwasserverstecken)",
+          "temperament": "Sanftmütig, ruhig, einzelgängerisch, umweltsensibel"
         },
-        "intro": "Der Axolotl ist ein einzigartiger Schwanzlurch mit erstaunlicher Regenerationsfähigkeit. Gemäß Amphibian Ark-Standards verträgt er keine Wassertemperaturen über 20°C. Kaltes Wasser (16°C ~ 18°C) und ein bodenfreies Aquarium sind Pflicht. Die Bereitstellung einer konsistenten täglichen Gesundheitspflege und einer sicheren Umgebung sichert das Wohlbefinden Ihres Haustieres.",
-        "whyTitle": "Körpersprache des Axolotls: Kiemenkrümmung & Futtersuche",
-        "whyDesc": "Die feinen Kiemenäste zeigen Stress an. Nach vorne gekrümmte Kiemen weisen auf Hitzestress oder schlechte Wasserwerte hin.",
+        "intro": "Der wegen seines lächelnden Ausdrucks und seiner rosa Kiemenäste beliebte Axolotl ist ein außergewöhnliches Amphibien-Haustier mit erstaunlichen Regenerationsfähigkeiten. Laut den tiermedizinischen Standards von Amphibian Ark atmen Axolotl über die Haut sowie über ihre äußeren Kiemen und reagieren extrem empfindlich auf Wassertemperaturen über 20°C. Eine kühle Wassertemperatur von 16°C bis 18°C und der Verzicht auf verschluckbaren Kiesboden sind die Grundpfeiler der Gesundheitsvorsorge.",
+        "whyTitle": "Körpersprache des Axolotls: Nach vorne gekrümmte Kiemen und Schnappbewegungen",
+        "whyDesc": "Die roten Kiemenäste des Axolotls sind ein klarer Indikator für Wasserqualität und Wassertemperatur. Nach vorne gekrümmte Kiemen deuten auf eine Verschlechterung der Wasserwerte oder Hitzestress hin.",
         "body_signals": [
           {
-            "name": "Nach vorne gekrümmte Kiemenäste (Gill Curling Forward)",
-            "meaning": "Starker Stress durch zu hohes Wassertemperatur (>20°C) oder Ammoniak.",
-            "response": "Kühlung aktivieren (16°C ~ 18°C Ziel) und 20% Wasser wechseln."
+            "name": "Nach vorne gekrümmte Kiemenäste und eingerollter Schwanz (Gill Curling Forward)",
+            "meaning": "Ein Umwelt-Stresssignal durch zu hohe Wassertemperaturen (über 20°C) oder ansteigende Ammoniakwerte.",
+            "response": "Schalten Sie Aquarium-Kühlventilatoren ein, um die Temperatur auf 16°C ~ 18°C zu senken, und führen Sie sofort einen Teilwasserwechsel (20%) durch."
           },
           {
-            "name": "Blick nach unten & Schnappen (Bottom Gaping)",
-            "meaning": "Natürliches Futter Suchverhalten am Beckenboden.",
-            "response": "Futter vorsichtig mit einer langen Pinzette vor das Maul legen."
+            "name": "Blick nach unten und schnappende Maulbewegung (Bottom Gaping)",
+            "meaning": "Ein natürliches Verhaltenssignal zur Futtersuche, das auf Hunger oder aktives Jagen hinweist.",
+            "response": "Reichen Sie spezielles Futter oder Regenwürmer vorsichtig mit einer stumpfen Pinzette direkt vor das Maul."
           }
         ],
         "daily_routine": [
           {
-            "name": "Morgen: Temperaturkontrolle (16°C ~ 18°C) & Kühlung",
-            "text": "Kühler prüfen, damit das Wasser nie über 18°C steigt."
+            "name": "Morgen: Temperaturkontrolle (16°C ~ 18°C halten) & Prüfung der Kühlung",
+            "text": "Überprüfen Sie die Kühlvorrichtung, damit die Wassertemperatur im Sommer 19°C nicht überschreitet, und kontrollieren Sie das Kondenswasser an den Scheiben."
           },
           {
-            "name": "Nachmittag: Kot absaugen & Schattendunkelheit",
-            "text": "Das Becken abgedunkelt halten und Abfälle absaugen."
+            "name": "Nachmittag: Absaugen von Ausscheidungen & Schutz vor direktem Sonnenlicht",
+            "text": "Sorgen Sie wegen des schlechten Sehvermögens des Axolotls für eine gedimmte Aquarienbeleuchtung und saugen Sie Kot täglich mit einem Mulmsauger ab."
           },
           {
-            "name": "Abend: Pinzettenfütterung & Kiemenblutfluss prüfen",
-            "text": "Sinkpellets füttern und die rote Farbe der Kiemen prüfen."
+            "name": "Abend: Pinzettenfütterung & Kontrolle der Kiemendurchblutung",
+            "text": "Füttern Sie Sinkpellets vorsichtig mit einer Pinzette und prüfen Sie, ob die Kiemenäste eine gesunde, leuchtend rote Färbung aufweisen."
           }
         ],
         "faqs": [
           {
-            "question": "Darf kleiner Kies als Bodengrund verwendet werden?",
-            "answer": "Nein! Axolotl saugen ihr Futter ein und verschlucken Kies, was zu tödlichem Darmverschluss führt. Ein fester Glasboden ist ideal."
+            "question": "Darf Kies als Bodengrund im Axolotl-Becken verwendet werden?",
+            "answer": "Niemals! Axolotl saugen ihre Nahrung mit starkem Unterdruck ein und verschlucken dabei den Bodengrund. Verschluckter Kies führt zu tödlichem Darmverschluss. Nutzen Sie ein glattes Glasbecken (Bare-bottom) oder große, glatte Steine, die deutlich größer als ihr Kopf sind."
           },
           {
-            "question": "Warum werden die Kiemen meines Axolotls kurz oder weiß?",
-            "answer": "Das deutet auf Kiemenschäden durch Hitze oder einen Pilzbefall (Saprolegnia) hin. Temperatur auf 16°C senken und Wasser wechseln."
+            "question": "Warum werden die Kiemenäste meines Axolotls kurz und weiß?",
+            "answer": "Das deutet auf Kiemenschäden durch schlechte Wasserwerte, hohe Wassertemperaturen oder einen Pilzbefall (Saprolegnia) hin. Senken Sie die Temperatur auf 16°C und erhöhen Sie die Wasserwechsel-Frequenz."
           }
         ],
         "tags": [
           "Axolotl",
-          "Kaltwasseraquaristik",
           "Amphibienpflege",
-          "Amphibian Ark"
+          "Kaltwasser",
+          "AmphibianArk"
         ]
       },
       "pt": {
-        "title": "Sinais das Brânquias do Axolote e Rotina em 3 Passos Para Água Fria",
-        "description": "Guia completo de cuidados para o Axolote (Axolotl). Entenda a curvatura das brânquias, mantenha água fria (16°C ~ 18°C) e evite substratos perigosos.",
-        "authority": "Protocolos Veterinários da Amphibian Ark",
+        "title": "Sinais das brânquias do axolote e rotina diária em 3 passos para controle da temperatura da água",
+        "description": "Guia de cuidados para a misteriosa salamandra mexicana, o axolote (Axolotl). Entenda os sinais de estresse por curvatura das brânquias, mantenha a água fria (16°C ~ 18°C) e proteja a pele em 3 passos.",
+        "authority": "Protocolo Veterinário de Manejo de Anfíbios e Amphibian Ark",
         "profile": {
           "breed": "Axolote (Axolotl)",
-          "lifespan": "10 - 15 anos",
-          "sleep_pattern": "10 - 12 horas (Descanso aquático em toca)",
-          "temperament": "Pacífico, calmo, solitário, sensível"
+          "lifespan": "10 ~ 15 anos",
+          "sleep_pattern": "10 ~ 12 horas (Descansa em abrigos aquáticos frios)",
+          "temperament": "Dócil, calmo, solitário, cauteloso com o ambiente"
         },
-        "intro": "O Axolote é um anfíbio aquático incrível com capacidade de regeneração. Conforme a Amphibian Ark, a água deve ser mantida fria (16°C ~ 18°C) e sem pedras pequenas no fundo para evitar engolimento fatal. Oferecer cuidados de saúde diários constantes e um ambiente seguro garante o bem-estar a longo prazo do seu animal.",
-        "whyTitle": "Comunicação do Axolote: Curvatura das Brânquias e Abertura da Boca",
-        "whyDesc": "As brânquias ramificadas indicam a qualidade da água. Se curvadas para a frente, o axolote está estressado com a temperatura.",
+        "intro": "Amado por sua expressão sorridente e brânquias externas rosadas, o axolote (Axolotl) é um pet anfíbio raro com incrível capacidade de regeneração corporal. Segundo o Protocolo Veterinário da Amphibian Ark, os axolotes respiram através da pele e das brânquias externas, sendo extremamente vulneráveis a temperaturas acima de 20°C. Manter a água fria entre 16°C e 18°C e evitar cascalho pequeno que possa ser engolido são os pilares essenciais para a saúde dele.",
+        "whyTitle": "Sinais corporais do axolote: Curvatura das brânquias e movimentos da boca",
+        "whyDesc": "As brânquias externas vermelhas do axolote servem como um indicador direto da qualidade e temperatura da água. A curvatura das brânquias para a frente sinaliza degradação da água ou estresse térmico.",
         "body_signals": [
           {
-            "name": "Brânquias Curvadas para a Frente (Gill Curling Forward)",
-            "meaning": "Estresse por água quente (>20°C) ou amônia elevada.",
-            "response": "Resfrie a água para 16°C ~ 18°C e troque 20% da água."
+            "name": "Brânquias externas curvadas para a frente e cauda dobrada (Gill Curling Forward)",
+            "meaning": "Um aviso de estresse ambiental causado pelo aumento da temperatura (acima de 20°C) ou níveis elevados de amônia.",
+            "response": "Ligue os coolers de refrigeração do aquário para baixar a temperatura para 16°C ~ 18°C e faça imediatamente uma troca parcial de água (20%)."
           },
           {
-            "name": "Boca Aberta Olhando para o Fundo (Bottom Gaping)",
-            "meaning": "Procura natural por comida no fundo do aquário.",
-            "response": "Alimente com pinça perto do focinho."
+            "name": "Olhar fixo no fundo e abertura da boca (Bottom Gaping)",
+            "meaning": "Um sinal natural de busca por comida, indicando fome ou comportamento de caça.",
+            "response": "Ofereça suavemente ração própria para peixes ou minhocas na frente do focinho usando uma pinça de ponta redonda."
           }
         ],
         "daily_routine": [
           {
-            "name": "Manhã: Controle de Temperatura (16°C ~ 18°C)",
-            "text": "Garanta que a água não passe de 18°C."
+            "name": "Manhã: Monitoramento da temperatura (16°C ~ 18°C) e checagem do sistema de refrigeração",
+            "text": "Verifique o funcionamento dos coolers para garantir que a água não passe de 19°C no verão e cheque a condensação nos vidros."
           },
           {
-            "name": "Tarde: Limpeza de Dejetos com Sifão e Luz Fraca",
-            "text": "Mantenha o aquário à sombra e remova os dejetos."
+            "name": "Tarde: Limpeza de dejetos com sifão e proteção contra luz solar direta",
+            "text": "Mantenha o aquário com iluminação fraca devido à visão frágil do axolote e remova os dejetos diariamente com um sifão longo."
           },
           {
-            "name": "Noite: Alimentação com Pinça e Exame das Brânquias",
-            "text": "Ofereça ração com pinça e veja a cor vermelha das brânquias."
+            "name": "Noite: Alimentação manual com pinça e checagem da circulação nas brânquias",
+            "text": "Alimente com ração apropriada usando a pinça e observe se a circulação sanguínea nas brânquias apresenta uma cor vermelha viva e saudável."
           }
         ],
         "faqs": [
           {
-            "question": "Posso usar cascalho pequeno no fundo do aquário?",
-            "answer": "Não! O axolote engolirá o cascalho ao sucionar a comida, o que causa obstrução intestinal fatal. Use fundo pelado."
+            "question": "Posso usar cascalho no fundo do aquário do axolote?",
+            "answer": "Absolutamente não! Os axolotes se alimentam sucionando água e substrato com muita força. Engolir pedras pequenas pode causar obstrução intestinal fatal. Use um aquário sem substrato (bare-bottom) ou pedras grandes e lisas, maiores que a cabeça dele."
           },
           {
-            "question": "Por que as brânquias do meu axolote estão encolhendo ou brancas?",
-            "answer": "Indica danos por calor ou infecção fúngica (Saprolegnia). Baixe a temperatura para 16°C e aumente as trocas de água."
+            "question": "Por que as brânquias do meu axolote estão encolhendo e ficando brancas?",
+            "answer": "Isso indica danos nas brânquias causados por água poluída, alta temperatura ou infecção fúngica (Saprolegnia). Baixe a temperatura para 16°C e aumente a frequência das trocas de água."
           }
         ],
         "tags": [
           "Axolote",
           "Axolotl",
-          "Anfíbios",
-          "Cuidados em Água Fria",
-          "Amphibian Ark"
+          "CuidadosComAnfibios",
+          "AguaFria",
+          "AmphibianArk"
         ]
       },
       "id": {
-        "title": "Bahasa Insang Axolotl dan Rutinitas 3 Langkah untuk Perawatan Air Dingin",
-        "description": "Panduan lengkap merawat Axolotl (Salamander Meksiko). Pahami arti insang melengkung, jaga suhu dingin (16°C ~ 18°C), dan cegah tersedak kerikil sesuai standar Amphibian Ark.",
-        "authority": "Amphibian Ark Veterinary Care Protocol & Standar Pemeliharaan",
+        "title": "Sinyal Insang Axolotl dan Rutinitas Perawatan Harian 3 Langkah untuk Pengelolaan Suhu Air",
+        "description": "Panduan perawatan salamander Meksiko yang unik, Axolotl. Pahami sinyal stres insang melengkung, jaga suhu air tetap dingin (16°C ~ 18°C), dan lindungi kulitnya dalam 3 langkah.",
+        "authority": "Protokol Perawatan Medis Anura & Amphibian Ark Veterinary Care Protocol",
         "profile": {
-          "breed": "Axolotl (Salamander Meksiko)",
-          "lifespan": "10 - 15 Tahun",
-          "sleep_pattern": "10 - 12 Jam (Tidur di Tempat Sembunyi Gelap)",
-          "temperament": "Jinak, Tenang, Soliter, Sensitif Suhu Air"
+          "breed": "Axolotl / Salamander Meksiko (Axolotl)",
+          "lifespan": "10 ~ 15 Tahun",
+          "sleep_pattern": "10 ~ 12 Jam (Istirahat di tempat sembunyi air dingin)",
+          "temperament": "Jinak, tenang, soliter, sensitif terhadap lingkungan"
         },
-        "intro": "Axolotl terkenal dengan wajah tersenyum dan insang bulunya yang unik. Salamander ini memiliki kemampuan regenerasi organ yang luar biasa. Menurut standar Amphibian Ark, Axolotl bernapas melalui kulit dan insang luar, membuatnya sangat sensitif terhadap suhu air di atas 20°C. Menjaga suhu dingin (16°C ~ 18°C) dan menggunakan akuarium polos tanpa kerikil adalah hal wajib.",
-        "whyTitle": "Komunikasi Axolotl: Insang Melengkung & Perilaku Menganga",
-        "whyDesc": "Insang bulu merah adalah indikator langsung kualitas air dan suhu. Insang yang melengkung ke depan menandakan stres berat akibat suhu panas atau amonia.",
+        "intro": "Disukai karena ekspresi wajahnya yang tampak tersenyum dan insang luar berwarna merah muda, Axolotl adalah hewan peliharaan amfibi langka dengan kemampuan regenerasi tubuh yang luar biasa. Menurut Protokol Medis Amphibian Ark, Axolotl bernapas melalui kulit dan insang luar, menjadikannya sangat rentan terhadap suhu air di atas 20°C. Menjaga suhu air tetap dingin antara 16°C hingga 18°C dan menghindari penggunaan kerikil kecil yang dapat tertelan adalah kunci utama kesehatan mereka.",
+        "whyTitle": "Sinyal Tubuh Axolotl: Insang Melengkung dan Gerakan Mulut Menganga",
+        "whyDesc": "Insang luar Axolotl yang berwarna merah adalah indikator jelas dari kualitas dan suhu air. Kondisi insang yang melengkung ke depan menandakan penurunan kualitas air atau stres akibat suhu panas.",
         "body_signals": [
           {
-            "name": "Insang Bulu Melengkung ke Depan (Gill Curling Forward)",
-            "meaning": "Stres lingkungan berat akibat suhu tinggi (>20°C) atau penumpukan amonia beracun.",
-            "response": "Nyalakan kipas pendingin hingga suhu 16°C ~ 18°C dan lakukan penggantian air 20% segera."
+            "name": "Insang luar melengkung ke depan dan ujung ekor membengkok (Gill Curling Forward)",
+            "meaning": "Peringatan stres lingkungan yang disebabkan oleh kenaikan suhu air (di atas 20°C) atau lonjakan kadar amonia.",
+            "response": "Nyalakan kipas pendingin akuarium untuk menurunkan suhu ke 16°C ~ 18°C dan segera lakukan penggantian air sebagian (20%)."
           },
           {
-            "name": "Menatap Dasar & Menganga (Bottom Gaping)",
-            "meaning": "Perilaku alami saat mencari makan di dasar akuarium.",
-            "response": "Beri makan pelet tenggelam khusus menggunakan pinset panjang di depan mulutnya."
+            "name": "Menatap dasar akuarium dan mulut menganga (Bottom Gaping)",
+            "meaning": "Sinyal alami pencarian makan yang menandakan rasa lapar atau perilaku berburu.",
+            "response": "Berikan pelet khusus ikan atau cacing tanah secara perlahan di depan mulutnya menggunakan pinset tumpul."
           }
         ],
         "daily_routine": [
           {
-            "name": "Pagi: Cek Suhu Air Dingin (16°C ~ 18°C) & Pendingin",
-            "text": "Pastikan suhu air berada di bawah 18°C dan pendingin bekerja baik."
+            "name": "Pagi: Pemantauan Suhu Air (Jaga 16°C ~ 18°C) & Pemeriksaan Alat Pendingin",
+            "text": "Periksa kinerja kipas pendingin agar suhu air tidak melebihi 19°C di musim panas, serta periksa kondensasi pada dinding akuarium."
           },
           {
-            "name": "Siang: Bersihkan Kotoran & Jaga Penerangan Redup",
-            "text": "Jaga akuarium tetap teduh tanpa cahaya silau dan sedot kotoran dengan sifon."
+            "name": "Siang: Pembersihan Kotoran dengan Sifon & Perlindungan dari Sinar Matahari Langsung",
+            "text": "Jaga lingkungan akuarium tetap redup karena penglihatan Axolotl yang lemah, dan bersihkan kotoran setiap hari menggunakan sifon panjang."
           },
           {
-            "name": "Malam: Beri Makan dengan Pinset & Cek Insang Bulu",
-            "text": "Beri makan pelet tenggelam dan amati warna merah segar insang bulunya."
+            "name": "Malam: Pemberian Makan Manual dengan Pinset & Pemeriksaan Sirkulasi Darah Insang",
+            "text": "Beri makan pelet tenggelam menggunakan pinset dan amati apakah aliran darah pada insang menunjukkan warna merah cerah yang sehat."
           }
         ],
         "faqs": [
           {
-            "question": "Bolehkah memakai kerikil kecil di dasar akuarium?",
-            "answer": "Sangat tidak boleh! Axolotl makan dengan cara menyedot air dan akan tertelan kerikil yang berakibat penyumbatan usus mematikan. Gunakan akuarium polos (bare-bottom)."
+            "question": "Bolehkah saya memberi kerikil di dasar akuarium Axolotl?",
+            "answer": "Sangat tidak boleh! Axolotl makan dengan cara menyedot air dan substrat di sekitarnya secara kuat. Tertelan kerikil kecil dapat menyebabkan penyumbatan usus (impaksi) yang mematikan. Gunakan akuarium polos tanpa dasar (bare-bottom) atau batu besar yang jauh lebih besar dari kepalanya."
           },
           {
-            "question": "Mengapa bulu insang Axolotl saya memendek atau memutih?",
-            "answer": "Ini menandakan kerusakan insang akibat suhu panas atau infeksi jamur (Saprolegnia). Turunkan suhu air ke 16°C dan tingkatkan frekuensi ganti air."
+            "question": "Mengapa bulu insang Axolotl saya memendek dan memutih?",
+            "answer": "Ini menandakan kerusakan insang akibat polusi air, suhu air yang terlalu tinggi, atau infeksi jamur (Saprolegnia). Turunkan suhu air ke 16°C dan tingkatkan frekuensi penggantian air."
           }
         ],
         "tags": [
           "Axolotl",
-          "Salamander",
-          "Perawatan Air Dingin",
-          "Standar Amphibian Ark"
+          "PerawatanAmfibi",
+          "AirDingin",
+          "AmphibianArk"
         ]
       }
     },

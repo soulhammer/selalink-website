@@ -1,510 +1,510 @@
 {
   "sphynx-care": {
     "pubDate": "2026-03-04",
-    "updatedDate": "2026-03-04",
+    "updatedDate": "2026-07-26",
     "locales": {
       "en": {
         "title": "Skin Sebum Management and Temperature Control Routine for Hairless Sphynx Cats",
-        "description": "Clean skin sebum and protect temperature on Sphynx hairless cats.",
-        "authority": "International Society of Feline Medicine (ISFM) Guidelines",
+        "description": "Sphynx cats are hairless and prone to sebum buildup and hypothermia. Learn proper skin oil cleansing techniques and a 3-step daily routine for temperature control.",
+        "authority": "International Society of Feline Medicine (ISFM) Dermatology Guidelines & Veterinary Protocols",
         "profile": {
           "breed": "Sphynx Cat",
-          "lifespan": "12 ~ 15 Years",
-          "sleep_pattern": "14 ~ 16 Hours (Heat-Seeking Sleep)",
-          "temperament": "Highly Affectionate, Outgoing, Friendly, Smart"
+          "lifespan": "12 ~ 15 years",
+          "sleep_pattern": "14 ~ 16 hours (prefers thermal-seeking sleep)",
+          "temperament": "Extremely Affectionate, Dependent, Intelligent, Social"
         },
-        "intro": "The Sphynx cat is a unique hairless breed. Having no fur leaves them vulnerable to temperature drops and sunburn. Today at PetSelf, we discuss skin care and temperature control routine. Providing consistent daily health care and a safe home environment ensures your pet's long-term wellness.",
-        "whyTitle": "Sphynx Body Language: Seeking Warmth",
-        "whyDesc": "Leaning tightly against your skin or blankets is a sign of seeking heat.",
+        "intro": "The Sphynx cat is a unique and captivating breed born without a typical coat due to a natural genetic mutation. Because they lack fur to absorb skin oils, sebum produced by their sebaceous glands accumulates directly on the skin surface, leading to brownish residue, clogged pores, and dermatitis if not cleaned regularly. 🐈 Furthermore, without a coat to insulate them, they are highly sensitive to colder temperatures and lose body heat rapidly. Today, PetSelf outlines a tailored 3-step home care routine to hygienically manage your Sphynx's skin sebum while keeping them warm and cozy.",
+        "whyTitle": "Sphynx Body Language: Heat-Seeking Behavior and Deep Affection",
+        "whyDesc": "Because Sphynx cats are prone to feeling cold, they actively seek warmth by pressing closely against your neck, lap, or under blankets. Clinging tightly to your skin or perching on your lap while purring expresses both deep affection and a practical desire to share body heat. If their skin feels cold to the touch or they curl up tightly in a ball, adjust the ambient temperature immediately.",
         "body_signals": [
           {
-            "name": "Heat-Seeking (Clinging to warm spots)",
-            "meaning": "Feeling cold and looking for heat sources.",
-            "response": "Check room temperature, dress them in clothes, and provide heating mat."
+            "name": "Heat-Seeking (Clinging to warm skin or heat sources)",
+            "meaning": "An indication that the surrounding air feels cold and their body temperature is dropping, requesting heat.",
+            "response": "Check ambient temperature (maintain 22–26°C), dress them in soft cotton clothes, and provide a safe heated pad or cave bed."
           },
           {
-            "name": "Squinting & Constant Purring",
-            "meaning": "Deeply content, warm, and expressing trust.",
-            "response": "Massage their warm body gently and let them cuddle."
+            "name": "Squinting & Purring",
+            "meaning": "A state of deep contentment, physical warmth, and complete trust in the owner.",
+            "response": "Gently stroke their warm body and allow them to rest comfortably by your side."
           }
         ],
         "daily_routine": [
           {
-            "name": "Morning: Wiping of Skin Folds with Warm Towels",
-            "text": "Wipe accumulated sebum from skin folds using a warm damp cloth."
+            "name": "Morning: Gentle Skin Fold Cleansing with Warm Towels",
+            "text": "Wipe away brownish sebum accumulated in skin folds, neck, and paws using a warm damp towel or gentle wipe to prevent blackheads and skin infections."
           },
           {
-            "name": "Afternoon: Sunlight Management to Prevent Sunburn",
-            "text": "Close curtains or tint windows to block strong direct sun rays."
+            "name": "Afternoon: Sun Protection to Prevent UV Damage",
+            "text": "Hairless skin exposed to direct sunlight can easily suffer from sunburn (solar dermatitis). Adjust curtains or blinds to block intense UV rays during peak daylight hours."
           },
           {
-            "name": "Evening: Cotton Clothes Swap and Heated Bed Check",
-            "text": "Change them into a fresh shirt to prevent skin oil buildup."
+            "name": "Evening: Fresh Cotton Clothes Swap and Warm Dome Bed Check",
+            "text": "Replace oil-soaked clothes with clean, soft cotton garments, and inspect their warm, insulated dome bed to prevent nighttime heat loss."
           }
         ],
         "faqs": [
           {
-            "question": "Are Sphynx completely hypoallergenic?",
-            "answer": "No. Cat allergies are triggered by proteins in saliva and sebum, not hair."
+            "question": "Are Sphynx cats completely hypoallergenic because they have no hair?",
+            "answer": "No, not at all. Cat allergies are primarily triggered by proteins (Fel d 1 and Fel d 4) found in saliva, sebum, and dander rather than hair itself. Because Sphynx cats produce active sebum, they can still trigger allergic reactions."
           },
           {
-            "question": "How often should I bathe Sphynx?",
-            "answer": "Typically every 1-2 weeks with a gentle pet-safe shampoo."
+            "question": "How often should I bathe a Sphynx cat?",
+            "answer": "Depending on individual sebum production, bathing them once every 1 to 2 weeks using lukewarm water and a mild, pH-balanced feline shampoo is recommended. Over-bathing can dry out the skin and trigger rebound sebum production, so rely on daily towel wipes between baths."
           }
         ],
         "tags": [
           "Sphynx Cat",
-          "Skin Care",
-          "Pet Warming",
+          "Hairless Skin Care",
+          "Cat Temperature Control",
           "Cat Bathing"
         ]
       },
       "ja": {
-        "title": "スフィンクス猫のための皮膚皮脂ケアと保温対策の3ステップホームケア",
-        "description": "無毛種のスフィンクス。毛の代わりに皮膚に溜まる皮脂を拭き取るお手入れのコツと、寒さに弱い彼らのための防寒ケアを紹介します。",
-        "authority": "国際猫医療学会(ISFM)皮膚科学研究データおよび被毛獣医学ガイドライン",
+        "title": "無毛種スフィンクスの皮膚皮脂ケアと体温保護のための3段階ホームケア",
+        "description": "被毛のないスフィンクス猫のための皮膚の皮脂ケアと体温調節について解説。ブラックヘッドを防ぐお手入れと寒さ対策の3段階デイリー外見ルーティンを紹介します。",
+        "authority": "国際猫医学会(ISFM)皮膚科学ガイドライン＆被毛獣医学プロトコル",
         "profile": {
           "breed": "スフィンクス (Sphynx Cat)",
           "lifespan": "12 〜 15年",
           "sleep_pattern": "14 〜 16時間 (保温場所優先型)",
-          "temperament": "人懐っこく温和、知的で社交的"
+          "temperament": "極めて人懐っこい、甘えん坊、知的で社交的"
         },
-        "intro": "スフィンクスは突然変異によって毛を持たずに生まれた非常に珍しい猫です。被毛がないため、皮脂腺から分泌される脂分が吸収されずに皮膚表面に蓄積しやすく、放置すると皮膚トラブルや黒ずみの原因になります。また、体温調節が難しく寒さに極めて弱いです。本日、PetSelfではデリケートな皮膚を清潔に保ち、体を暖かく包むホームケアについて解説します。",
-        "whyTitle": "スフィンクスのボディランゲージ：温もりを求める甘えん坊",
-        "whyDesc": "寒さを感じやすいスフィンクスは、人肌や温かい家電製品にぴったり寄り添う行動を取ります。飼い主の腕や膝に乗ってゴロゴロと喉を鳴らすのは、親愛の情を示すと同時に暖を取りたいという実用的なサインでもあります。",
+        "intro": "スフィンクス（Sphynx Cat）は自然発生的な遺伝子変異によって被毛を持たずに生まれた、非常に神秘的で特別な猫です。毛がないため皮脂腺から分泌される脂分が毛に吸収されず皮膚表面に蓄積するため、こまめに拭き取らないと茶色の皮脂汚れや黒ずみ（ブラックヘッド）、皮膚炎を引き起こしやすくなります。🐈また、外気から体を守る被毛がないため寒さに極めて弱く、容易に体温を失ってしまいます。本日PetSelfでは、スフィンクスのデリケートな皮膚を清潔に保ち、体温を暖かく維持するための3段階カスタマイズホームケアを紹介します。",
+        "whyTitle": "スフィンクスのボディランゲージ：暖かさを求める行動と深い信頼のサイン",
+        "whyDesc": "スフィンクスは寒さを感じやすいため、飼い主の首元や膝の上、あるいは布団の中に密着して体温を共有しようとする傾向が強くあります。飼い主の腕に体をぴったり寄せたり膝の上でゴロゴロと喉を鳴らすのは、愛着の表現であると同時に体温を維持したいという本能的な求温シグナルでもあります。皮膚が冷たかったり体を丸めている時は、すぐに室温を調整してあげましょう。",
         "body_signals": [
           {
-            "name": "温かい電化製品や飼い主の肌に体を寄せる",
-            "meaning": "体温が低下しており、積極的に暖を取りたいと感じているシグナルです。",
-            "response": "室温を上げ、ペット用洋服を着せるか、保温マット付きの暖かいベッドを用意します。"
+            "name": "体をぴったり寄せる・暖を求める (Heat-Seeking)",
+            "meaning": "周囲の空気や体温の低下を感じ、積極的に温もりの供給を求めているサインです。",
+            "response": "室温を22〜26℃に調整し、柔らかい綿の服を着せるか、暖か保温マット付きのベッドを用意してください。"
           },
           {
-            "name": "目を細めてゴロゴロと喉を鳴らす",
-            "meaning": "快適な温度で安心しており、飼い主に対して深い信頼と喜びを感じています。",
-            "response": "温かい体を手で優しく撫でてあげて、心地よいスキンシップを楽しみましょう。"
+            "name": "目を細めてゴロゴロと喉を鳴らす (Squinting & Purring)",
+            "meaning": "適温で快適な環境におり、深い安心感と飼い主への無制限の信頼を感じている状態です。",
+            "response": "温かくなった体を優しく撫でてあげて、リラックスして休めるように寄り添いましょう。"
           }
         ],
         "daily_routine": [
           {
-            "name": "朝：温かいぬれタオルを使用した全身の皮脂ふき取り",
-            "text": "皮膚のしわの間に溜まる茶色の皮脂を、温かい湿らせたタオルで優しく拭き取って清潔を保ちます。"
+            "name": "朝：温かいタオルを使用した全身のしわ・皮脂拭き取り",
+            "text": "首周りや足指の間、皮膚のしわに溜まった茶色の皮脂を、温かい湿らせたタオルで優しく拭き取り、黒ずみや皮膚トラブルを予防します。"
           },
           {
-            "name": "午後：デリケートな皮膚を守るための紫外線対策",
-            "text": "直射日光による日焼けや皮膚トラブルを防ぐため、カーテンを閉めるなどして遮光を行います."
+            "name": "昼：直射日光を遮る紫外線トラブル防止対策",
+            "text": "被毛のない皮膚は紫外線に無防備なため、日焼け（日光皮膚炎）を起こしやすいです。カーテン等で直射日光を適度に遮りましょう。"
           },
           {
-            "name": "夜：ペット用洋服の着替えと暖かいドームハウスの用意",
-            "text": "皮脂を吸い取った洋服を毎日清潔なものに交換し、夜間の寒さを凌ぐ暖かいドームベッドを確認します。"
+            "name": "夜：清潔な綿の服への着替えとドーム型ベッドの点検",
+            "text": "皮脂がついた服を清潔な新しい綿の服に着替えさせ、夜間の体温低下を防ぐため暖かく快適なドーム型ハウスを用意します。"
           }
         ],
         "faqs": [
           {
-            "question": "毛がないので猫アレルギーは起きませんか？",
-            "answer": "アレルギーの原因は毛だけでなく、猫の唾液や皮脂に含まれるタンパク質です。スフィンクスは皮脂が多いためアレルギーを引き起こすことがあり、事前の確認が必要です。"
+            "question": "毛がないので猫アレルギーは全く起きませんか？",
+            "answer": "いいえ、起きることがあります。猫アレルギーの主な原因は毛そのものではなく、唾液や皮脂腺、フケに含まれるタンパク質（Fel d 1, Fel d 4等）です。スフィンクスは皮脂分泌が活発なためアレルギーを誘発する可能性があり、事前確認が必要です。"
           },
           {
-            "question": "シャンプーの頻度はどのくらいですか？",
-            "answer": "皮脂の分泌量によりますが、通常1〜2週間に1回程度、ぬるま湯と低刺激の猫用シャンプーで軽く洗うのが良いでしょう. 普段は毎日のタオル拭きでケアします。"
+            "question": "シャンプーの頻度はどれくらいですか？",
+            "answer": "皮脂の分泌量に応じて、通常1〜2週間に1回程度、ぬるま湯と低刺激な猫用pH中性シャンプーで洗うのが理想的です。頻繁すぎるシャンプーは皮膚の乾燥を招き、逆効果として皮脂過多を起こすため、普段は毎日のタオルケアで管理します。"
           }
         ],
         "tags": [
           "スフィンクス猫",
           "無毛皮膚ケア",
-          "寒さ対策",
+          "猫の体温調節",
           "猫のシャンプー"
         ]
       },
       "zh": {
-        "title": "无毛斯芬克斯猫的皮肤油脂清理与体温保暖3步骤家庭常规",
-        "description": "清理 Sphynx 皮肤油脂与温控常规。",
-        "authority": "国际猫科医学学会(ISFM)皮肤与被毛护理指南",
+        "title": "无毛斯芬克斯猫的皮肤油脂护理与体温保暖3步骤日常惯例",
+        "description": "专为无毛斯芬克斯猫设计的皮肤皮脂清洁与体温调节指南。介绍预防黑头与皮肤炎的擦拭技巧及3步骤日常保暖护理惯例。",
+        "authority": "国际猫科医学学会 (ISFM) 皮肤学指南与猫咪被毛兽医协议",
         "profile": {
           "breed": "斯芬克斯猫 (Sphynx Cat)",
-          "lifespan": "12 ~ 15 年",
-          "sleep_pattern": "14 ~ 16 小时 (寻找暖源型睡眠)",
-          "temperament": "极其亲人、活泼、社交、聪明"
+          "lifespan": "12 ~ 15年",
+          "sleep_pattern": "14 ~ 16小时 (寻找暖源型)",
+          "temperament": "极其亲人、依恋、聪明且善于社交"
         },
-        "intro": "斯芬克斯猫因突变而没有传统被毛。由于没有毛发吸收皮脂，油脂会堆积在表面。今天PetSelf带来皮肤清洁与防寒保暖常规。 提供持续的日常健康护理与安全的生活环境，可确保您的宠物长期保持健康快乐。 提供持续的日常健康护理与安全的生活环境，可确保您的宠物长期保持健康快乐。",
-        "whyTitle": "斯芬克斯猫的身体语言：寻找温暖",
-        "whyDesc": "贴在主人皮肤上 or 钻进被窝不仅是亲人的表现，也是维持体温的实际动作。",
+        "intro": "斯芬克斯猫（Sphynx Cat）因自然基因突变而出生时几乎没有传统被毛，是一种非常特别且神秘的猫咪。由于缺乏毛发吸收皮脂腺分泌的油脂，皮脂会直接堆积在皮肤表面，若不及时擦拭，极易形成棕色油脂沉着、堵塞毛孔（黑头）及引发皮肤炎。🐈此外，缺少毛发屏障使其对寒冷极度敏感，体温散失迅速。今天，PetSelf 将为您介绍一套定制的3步骤家庭护理惯例，帮助您卫生地清理斯芬克斯猫的皮肤油脂，同时保持其身体温暖舒适。",
+        "whyTitle": "斯芬克斯猫的身体语言：寻找温暖与深厚爱意的信号",
+        "whyDesc": "斯芬克斯猫非常怕冷，因此会主动靠近主人的脖颈、怀里或钻进被窝以共享体温。紧贴您的皮肤或趴在您腿上打呼噜，既是表达深厚依恋，也是本能地寻找热源。如果发现它们的皮肤发凉或身体紧绷蜷缩，应立即调高室内温度。",
         "body_signals": [
           {
-            "name": "寻找热源 (紧贴发热电器)",
-            "meaning": "感到寒冷，正在积极寻找热源取暖。",
-            "response": "检查室内温度，给它们穿上舒适的棉质衣服，或提供宠物加热垫。"
+            "name": "紧贴主人皮肤或发热源 (Heat-Seeking)",
+            "meaning": "感到周围空气冰冷且体温下降，主动发出需要补充热源的信号。",
+            "response": "将室内温度调节至22~26°C，为其穿上柔软纯棉衣服，或提供带有加热垫的温暖猫窝。"
           },
           {
-            "name": "眯着眼睛 & 持续打呼噜",
-            "meaning": "温度适宜，感到非常满足、安心。",
-            "response": "轻柔抚摸它们温热的身体，陪伴它们一起休息分享体温。"
+            "name": "眯眼并发出打呼噜声 (Squinting & Purring)",
+            "meaning": "处于温度适宜、极度安心且对主人充满无限信任的放松状态。",
+            "response": "温柔抚摸其温暖的身体，陪伴它们安静舒适地休息。"
           }
         ],
         "daily_routine": [
           {
-            "name": "早晨：使用温水湿毛巾轻轻擦拭全身",
-            "text": "用温热无香料的湿毛巾轻轻擦拭褶皱间的皮脂。"
+            "name": "早晨：使用温毛巾温柔擦拭褶皱与皮脂",
+            "text": "用温热湿毛巾或低刺激湿巾温柔擦拭颈部、脚趾缝及皮肤褶皱处堆积的棕色油脂，预防黑头与皮肤炎。"
           },
           {
-            "name": "下午：管理日照以防紫外线晒伤",
-            "text": "拉上窗帘 or 贴防晒膜遮挡过强日光。"
+            "name": "下午：遮挡直射阳光以防紫外线损伤",
+            "text": "无毛皮肤暴露在强光下极易晒伤（日光性皮肤炎）。请拉上窗帘遮挡强烈的直射阳光。"
           },
           {
-            "name": "晚上：更换干净衣物并整理保暖猫窝",
-            "text": "更换吸附了油脂的衣服，整理保暖的窝。"
+            "name": "晚上：更换干净纯棉衣服并检查保暖猫窝",
+            "text": "更换吸附油脂的衣服，换上干净柔软的纯棉衣物，并检查保暖的圆顶猫窝，防止夜间体温散失。"
           }
         ],
         "faqs": [
           {
-            "question": "斯芬克斯猫完全不会引起过敏吗？",
-            "answer": "不会。过敏原存在于唾液、皮脂 and 皮屑中。"
+            "question": "斯芬克斯猫没有毛发，完全不会引起过敏吗？",
+            "answer": "并非如此。猫过敏的主要诱因并非毛发本身，而是唾液、皮脂腺及皮屑中含有的蛋白质（Fel d 1、Fel d 4等）。斯芬克斯猫皮脂分泌旺盛，仍可能引发过敏，建议领养前先做过敏测试。"
           },
           {
-            "question": "多长时间给斯芬克斯猫洗一次澡？",
-            "answer": "一般1到2周一次。平时每日擦拭能有效延长洗澡间隔。"
+            "question": "应该多久给斯芬克斯猫洗一次澡？",
+            "answer": "根据个体皮脂分泌情况，通常建议每1至2周用温水和低刺激pH中性猫用香波清洗一次。过度频繁洗澡会导致皮肤干燥，反而刺激皮脂过度分泌，因此平时应以每日湿巾擦拭护理为主。"
           }
         ],
         "tags": [
           "斯芬克斯猫",
-          "无毛皮肤",
-          "防寒保暖",
-          "洗澡"
+          "无毛皮肤护理",
+          "猫咪体温调节",
+          "猫咪洗澡"
         ]
       },
       "es": {
-        "title": "Cuidado del sebo de la piel y control de temperatura en gatos Sphynx",
-        "description": "Limpia exceso de grasa en gatos Sphynx y protégelos del frío.",
-        "authority": "Pautas de la Sociedad Internacional de Medicina Felina (ISFM)",
+        "title": "Cuidado del sebo de la piel y control de temperatura en gatos Sphynx: rutina de 3 pasos",
+        "description": "Aprenda la limpieza adecuada del sebo cutáneo y la regulación térmica para gatos Sphynx sin pelo. Una rutina diaria de 3 pasos para prevenir puntos negros y la hipotermia.",
+        "authority": "Pautas de dermatología de la ISFM (International Society of Feline Medicine) y protocolos veterinarios",
         "profile": {
           "breed": "Gato Sphynx (Sphynx Cat)",
           "lifespan": "12 ~ 15 años",
-          "sleep_pattern": "14 ~ 16 horas (Búsqueda de calor)",
-          "temperament": "Muy cariñoso, extrovertido, amistoso, inteligente"
+          "sleep_pattern": "14 ~ 16 horas (búsqueda activa de calor)",
+          "temperament": "Extremadamente cariñoso, dependiente, inteligente y sociable"
         },
-        "intro": "El gato Sphynx es una raza sin pelaje tradicional. Como no tienen pelo para absorber aceites, el sebo se acumula en la piel. Hoy en PetSelf presentamos una rutina para limpiar su piel. Brindar atención médica diaria constante y un entorno seguro garantiza el bienestar a largo plazo de su mascota.",
-        "whyTitle": "Lenguaje corporal del Sphynx: Búsqueda de calor",
-        "whyDesc": "Pegarse a tu piel o blankets es una muestra de búsqueda de calor.",
+        "intro": "El gato Sphynx es una raza única y fascinante nacida sin el pelaje tradicional debido a una mutación genética natural. Al no tener pelo que absorba los aceites cutáneos, el sebo producido por las glándulas sebáceas se acumula directamente en la piel, formando residuos marrones, poros obstruidos y dermatitis si no se limpia con frecuencia. 🐈 Además, sin un manto protector, sufren mucho con el frío y pierden calor corporal rápidamente. Hoy en PetSelf presentamos una rutina diaria de 3 pasos para mantener limpia la piel de su Sphynx y conservar su temperatura corporal adecuada.",
+        "whyTitle": "Lenguaje corporal del Sphynx: búsqueda de calor y señales de afecto profundo",
+        "whyDesc": "Los gatos Sphynx son muy sensibles al frío, por lo que buscan activamente el calor acurrucándose contra su cuello, regazo o bajo las mantas. Acurrucarse junto a su piel o ronronear sobre sus piernas no solo demuestra un afecto profundo, sino también una necesidad práctica de compartir calor corporal. Si nota su piel fría o lo ve acurrucado apretadamente, regule de inmediato la temperatura ambiental.",
         "body_signals": [
           {
-            "name": "Búsqueda de calor",
-            "meaning": "Siente frío y busca calor para mantener su temperatura.",
-            "response": "Ponle un jersey de algodón o enciende manta térmica."
+            "name": "Búsqueda de calor (acurrucarse en la piel o fuentes térmicas)",
+            "meaning": "Indica que el aire ambiente está frío y que su temperatura corporal está bajando, pidiendo calor.",
+            "response": "Ajuste la temperatura ambiente a 22–26°C, póngale ropa de algodón suave y proporciónele una manta térmica o cama cueva protegida."
           },
           {
-            "name": "Entrecerrar los ojos y ronroneo",
-            "meaning": "Sensación de bienestar y profunda confianza.",
-            "response": "Masajea su cuerpo cálido y permítele acurrucarse contigo."
+            "name": "Entrecerrar los ojos y ronronear",
+            "meaning": "Un estado de profunda satisfacción física, confort térmico y confianza absoluta en el dueño.",
+            "response": "Acaricie suavemente su cuerpo tibio y permítale descansar cómodamente a su lado."
           }
         ],
         "daily_routine": [
           {
-            "name": "Mañana: Limpieza de pliegues con paño tibio",
-            "text": "Limpia el sebo marrón acumulado en pliegues con paño húmedo."
+            "name": "Mañana: Limpieza suave de pliegues con paño tibio",
+            "text": "Limpie el sebo marrón acumulado en el cuello, pliegues y patas con una toalla húmeda tibia o toallita suave para prevenir puntos negros e infecciones cutáneas."
           },
           {
-            "name": "Tarde: Control de luz solar directa",
-            "text": "Cierra cortinas para evitar que el sol directo queme su piel."
+            "name": "Tarde: Protección solar para evitar daños por rayos UV",
+            "text": "La piel sin pelo expuesta al sol directo sufre fácilmente quemaduras solares (dermatitis solar). Ajuste cortinas o persianas para bloquear la luz solar intensa."
           },
           {
-            "name": "Noche: Ropa de algodón limpia y cama cerrada",
-            "text": "Ponle ropa limpia para evitar acumulación de grasa."
+            "name": "Noche: Cambio de ropa limpia de algodón y revisión de cama cueva cálida",
+            "text": "Cambie las prendas manchadas de aceite por ropa limpia de algodón y revise su cama cueva aislada para evitar pérdidas de calor nocturnas."
           }
         ],
         "faqs": [
           {
-            "question": "¿Los gatos Sphynx son hipoalergénicos?",
-            "answer": "No. Alergias son causadas por proteínas en saliva y sebo."
+            "question": "¿Los gatos Sphynx son totalmente hipoalergénicos porque no tienen pelo?",
+            "answer": "No, en absoluto. Las alergias a los gatos son causadas principalmente por proteínas (Fel d 1 y Fel d 4) presentes en la saliva, el sebo y la caspa, no por el pelo en sí. Como los Sphynx producen sebo activo, pueden desencadenar reacciones alérgicas."
           },
           {
-            "question": "¿Con qué frecuencia debo bañar a mi Sphynx?",
-            "answer": "Cada 1-2 semanas con champú suave para mascotas."
+            "question": "¿Con qué frecuencia se debe bañar a un gato Sphynx?",
+            "answer": "Según la producción individual de grasa, se recomienda bañarlo cada 1 a 2 semanas con agua tibia y un champú neutro suave específico para gatos. Bañarlo en exceso puede resecar la piel y provocar una sobreproducción de sebo por rebote, por lo que conviene apoyarse en la limpieza diaria con toalla."
           }
         ],
         "tags": [
-          "Sphynx",
-          "Piel sin pelo",
-          "Calor",
-          "Baño felino"
+          "Gato Sphynx",
+          "Piel Sin Pelo",
+          "Control de Temperatura",
+          "Baño Felino"
         ]
       },
       "fr": {
-        "title": "Soin du sébum de la peau et régulation de la température chez le Sphynx",
-        "description": "Nettoyez sébum du Sphynx et protégez-le du froid.",
-        "authority": "Directives de la Société Internationale de Médecine Féline (ISFM)",
+        "title": "Soin du sébum de la peau et régulation de la température chez le Sphynx : routine en 3 étapes",
+        "description": "Découvrez comment nettoyer le sébum et maintenir la chaleur corporelle du chat Sphynx. Une routine quotidienne en 3 étapes pour prévenir les points noirs et la perte de chaleur.",
+        "authority": "Directives de dermatologie de l'ISFM (International Society of Feline Medicine) et protocoles vétérinaires",
         "profile": {
           "breed": "Sphynx (Sphynx Cat)",
           "lifespan": "12 ~ 15 ans",
-          "sleep_pattern": "14 ~ 16 heures (Recherche de chaleur)",
-          "temperament": "Extrêmement affectueux, actif, sociable, intelligent"
+          "sleep_pattern": "14 ~ 16 heures (recherche active de chaleur)",
+          "temperament": "Extrêmement affectueux, dépendant, intelligent et sociable"
         },
-        "intro": "Le Sphynx est une race unique nue. Sans poils, il est vulnérable au froid et aux coups de soleil. Aujourd'hui chez PetSelf, nous présentons une routine pour nettoyer sa peau. Offrir des soins de santé quotidiens constants et un environnement sûr garantit le bien-être à long terme de votre animal.",
-        "whyTitle": "Langage corporel du Sphynx : Recherche de chaleur",
-        "whyDesc": "Se coller à votre peau ou couvertures est une marque de recherche de chaleur.",
+        "intro": "Le chat Sphynx est une race fascinante venue au monde sans la fourrure traditionnelle en raison d'une mutation génétique naturelle. Faute de poils pour absorber le sébum produit par les glandes sébacées, les huiles cutanées s'accumulent à la surface de sa peau, créant des dépôts brunâtres, des pores obstrués et des dermatites si elles ne sont pas nettoyées régulièrement. 🐈 De plus, dépourvu de pelage isolant, il est très vulnérable au froid et perd rapidement sa chaleur corporelle. Aujourd'hui, PetSelf vous présente une routine de soins à domicile en 3 étapes pour gérer l'hygiène de la peau du Sphynx tout en maintenant sa chaleur.",
+        "whyTitle": "Langage corporel du Sphynx : recherche de chaleur et marques d'affection",
+        "whyDesc": "Le Sphynx étant très sensible au froid, il cherche activement la chaleur en se blottissant contre votre cou, vos genoux ou sous les couvertures. Se coller contre votre peau tout en ronronnant exprime à la fois un profond attachement et un besoin instinctif de partager de la chaleur. Si sa peau est fraîche ou qu'il se met en boule, augmentez immédiatement la température ambiante.",
         "body_signals": [
           {
-            "name": "Recherche de chaleur",
-            "meaning": "Il ressent le froid et cherche à se réchauffer.",
-            "response": "Habillez-le d'un pull en coton ou offrez-lui un tapis chauffant."
+            "name": "Recherche de chaleur (se coller à la peau ou aux sources chauffantes)",
+            "meaning": "Signale que l'air ambiant est froid et que sa température baisse, réclamant de la chaleur.",
+            "response": "Ajustez la température ambiante entre 22 et 26 °C, habillez-le d'un vêtement en coton doux et installez un panier chauffant sécurisé."
           },
           {
             "name": "Cligner des yeux et ronronnement",
-            "meaning": "Bien-être thermique et confiance envers son maître.",
-            "response": "Massez doucement son corps chaud et laissez-le se blottir."
+            "meaning": "État de grand réconfort physique, de chaleur agréable et de confiance totale envers son maître.",
+            "response": "Massez doucement son corps chaud et laissez-le se reposer paisiblement à vos côtés."
           }
         ],
         "daily_routine": [
           {
-            "name": "Matin : Essuyage doux des plis de peau avec des serviettes tièdes",
-            "text": "Nettoyez le sébum marron accumulé avec un gant de toilette tiède."
+            "name": "Matin : Nettoyage doux des plis et du sébum à la serviette tiède",
+            "text": "Essuyez le sébum marron accumulé dans le cou, les plis et les coussinets à l'aide d'une serviette tiède humide pour prévenir les points noirs et les infections."
           },
           {
-            "name": "Après-midi : Gestion de l'ensoleillement pour éviter les brûlures",
-            "text": "Fermez les voilages pour bloquer le soleil direct."
+            "name": "Après-midi : Protection solaire contre les brûlures UV",
+            "text": "Une peau nue exposée au soleil direct peut subir des coups de soleil (dermatite solaire). Ajustez les voilages ou stores pour bloquer les rayons intenses."
           },
           {
-            "name": "Soir : Vêtement de coton propre et lit douillet",
-            "text": "Mettez-lui un vêtement propre pour éviter l'accumulation de sébum."
+            "name": "Soir : Changement de vêtement en coton propre et vérification du dôme chaud",
+            "text": "Remplacez les habits imprégnés d'huile par un vêtement en coton propre, et contrôlez son panier dôme isolé pour éviter les pertes de chaleur nocturnes."
           }
         ],
         "faqs": [
           {
-            "question": "Le Sphynx est-il complètement hypoallergénique ?",
-            "answer": "Non. Allergies sont causées par la salive et le sébum, pas les poils."
+            "question": "Le Sphynx est-il totalement hypoallergénique puisqu'il n'a pas de poils ?",
+            "answer": "Non, absolument pas. Les allergies aux chats sont causées par des protéines (Fel d 1 et Fel d 4) présentes dans la salive, le sébum et les squames, et non par les poils eux-mêmes. Le Sphynx produisant du sébum, il peut déclencher des réactions allergiques."
           },
           {
-            "question": "À quelle fréquence faut-il baigner un Sphynx ?",
-            "answer": "Toutes les 1-2 semaines avec shampoing doux à pH neutre."
+            "question": "À quelle fréquence faut-il baigner un chat Sphynx ?",
+            "answer": "Selon la quantité de sébum produite, il est recommandé de le baigner toutes les 1 à 2 semaines à l'eau tiède avec un shampooing doux à pH neutre pour chat. Un excès de bains assèche la peau et entraîne une hyperséborrhée réactionnelle ; privilégiez l'essuyage quotidien à la serviette."
           }
         ],
         "tags": [
           "Sphynx",
-          "Peau nue",
-          "Chaleur",
-          "Bain chat"
+          "Peau Nue",
+          "Régulation de Température",
+          "Bain du Chat"
         ]
       },
       "de": {
-        "title": "Hauttalg-Pflege und Wärmemanagement bei der haarlosen Sphynx-Katze",
-        "description": "Reinigung des Hauttalgs bei Sphynx-Katzen und Routinen zum Kälteschutz.",
-        "authority": "Richtlinien der Internationalen Gesellschaft für Katzenmedizin (ISFM)",
+        "title": "Hauttalg-Pflege und Wärmemanagement bei der haarlosen Sphynx-Katze: 3-Schritte-Routine",
+        "description": "Lernen Sie die richtige Reinigung von Hauttalg und Wärmeregulierung für haarlose Sphynx-Katzen. Eine tägliche 3-Schritte-Routine gegen Mitesser und Kälte.",
+        "authority": "Dermatologie-Richtlinien der ISFM (International Society of Feline Medicine) & tiermedizinische Protokolle",
         "profile": {
           "breed": "Sphynx-Katze (Sphynx Cat)",
           "lifespan": "12 ~ 15 Jahre",
-          "sleep_pattern": "14 ~ 16 Stunden (Wärmesuchend)",
-          "temperament": "Äußerst anhänglich, aktiv, gesellig, intelligent"
+          "sleep_pattern": "14 ~ 16 Stunden (aktive Wärmesuche)",
+          "temperament": "Äußerst anhänglich, bezogen, intelligent und gesellig"
         },
-        "intro": "Die Sphynx-Katze ist eine hauchzarte Rasse ohne Fell. Da sie keine Haare besitzen, lagert sich Talg ab. Zudem sind sie extrem kälteempfindlich. Heute bei PetSelf zeigen wir Hautreinigung. Die Bereitstellung einer konsistenten täglichen Gesundheitspflege und einer sicheren Umgebung sichert das Wohlbefinden Ihres Haustieres.",
-        "whyTitle": "Körpersprache der Sphynx: Wärmesuche",
-        "whyDesc": "Das Anschmiegen an die Haut ist Zuneigung und Wärmegewinnung zugleich.",
+        "intro": "Die Sphynx-Katze ist eine faszinierende Rasse, die aufgrund einer natürlichen Genmutation ohne das typische Fell geboren wird. Da ihnen die Haare fehlen, um den von den Talgdrüsen produzierten Talg aufzunehmen, sammelt sich dieser direkt auf der Hautoberfläche an und führt zu bräunlichen Ablagerungen, verstopften Poren und Hautentzündungen, wenn er nicht regelmäßig entfernt wird. 🐈 Zudem kühlen sie ohne schützendes Fell schnell aus. Heute stellt PetSelf eine 3-Schritte-Routine vor, um die Hauthygiene Ihrer Sphynx-Katze zu sichern und ihre Körperwärme zu bewahren.",
+        "whyTitle": "Körpersprache der Sphynx: Wärmesuche und tiefes Vertrauen",
+        "whyDesc": "Da Sphynx-Katzen leicht frieren, suchen sie aktiv nach Wärme, indem sie sich eng an Ihren Hals, Schoß oder unter die Bettdecke kuscheln. Das Anschmiegen an Ihre Haut bei gleichzeitigem Schnurren drückt sowohl tiefe Zuneigung als auch das instinktive Bedürfnis nach Körperwärme aus. Fühlt sich ihre Haut kühl an oder rollt sie sich fest zusammen, sollten Sie die Raumtemperatur umgehend anpassen.",
         "body_signals": [
           {
-            "name": "Wärmesuche (Kuscheln an Mensch)",
-            "meaning": "Die Katze friert und sucht nach Wärmequellen.",
-            "response": "Prüfen Sie Raumtemperatur und nutzen Sie eine Heizmatte."
+            "name": "Wärmesuche (Anschmiegen an Haut oder Wärmequellen)",
+            "meaning": "Signalisiert, dass die Umgebungsluft kalt ist und die Körpertemperatur sinkt; die Katze fordert Wärme ein.",
+            "response": "Passen Sie die Raumtemperatur auf 22–26 °C an, ziehen Sie der Katze weiche Baumwollkleidung an und bieten Sie eine sichere Heizmatte oder Höhle an."
           },
           {
             "name": "Augen zukneifen und Schnurren",
-            "meaning": "Thermisches Wohlbefinden, Entspannung und Vertrauen.",
-            "response": "Massieren Sie den warmen Körper sanft und lassen Sie sie nah schlafen."
+            "meaning": "Ein Zustand tiefer körperlicher Entspannung, angenehmer Wärme und vollkommenen Vertrauens in den Besitzer.",
+            "response": "Streicheln Sie den warmen Körper sanft und lassen Sie die Katze gemütlich an Ihrer Seite ruhen."
           }
         ],
         "daily_routine": [
           {
-            "name": "Morgen: Abwischen der Hautfalten mit warmem Tuch",
-            "text": "Wischen Sie braunen Talg aus den Hautfalten vorsichtig ab."
+            "name": "Morgen: Sanfte Faltenreinigung mit warmem Tuch",
+            "text": "Wischen Sie braunen Talg an Hals, Hautfalten und Pfoten vorsichtig mit einem feuchten, warmen Tuch ab, um Mitessern und Hautinfektionen vorzubeugen."
           },
           {
-            "name": "Nachmittag: Sonnenschutz zur Vermeidung von Verbrennungen",
-            "text": "Nutzen Sie Vorhänge, um direkte Sonneneinstrahlung zu blockieren."
+            "name": "Nachmittag: Sonnenschutz zur Vermeidung von UV-Schäden",
+            "text": "Haarlose Haut reagiert empfindlich auf direkte Sonne und erleidet leicht Sonnenbrand (Lichtdermatitis). Nutzen Sie Vorhänge, um intensives Sonnenlicht abzuschirmen."
           },
           {
-            "name": "Abend: Wechseln der Baumwollkleidung",
-            "text": "Ziehen Sie der Katze ein sauberes Hemd an, um Talgstau vorzubeugen."
+            "name": "Abend: Saubere Baumwollkleidung anziehen und warme Höhle prüfen",
+            "text": "Wechseln Sie talgige Kleidung gegen ein sauberes Baumwollhemd aus und überprüfen Sie das isolierte Höhlenbett, um nächtliches Auskühlen zu verhindern."
           }
         ],
         "faqs": [
           {
-            "question": "Sind Sphynx-Katzen komplett hypoallergen?",
-            "answer": "Nein. Allergien werden durch Proteine im Speichel und Talg ausgelöst."
+            "question": "Sind Sphynx-Katzen völlig hypoallergen, weil sie keine Haare haben?",
+            "answer": "Nein, überhaupt nicht. Katzenallergien werden hauptsächlich durch Proteine (Fel d 1 und Fel d 4) in Speichel, Talg und Hautschuppen ausgelöst, nicht durch die Haare selbst. Da Sphynx-Katzen Talg produzieren, können sie Allergien auslösen."
           },
           {
-            "question": "Wie oft muss man eine Sphynx baden?",
-            "answer": "Meist alle 1 bis 2 Wochen mit mildem Tiershampoo."
+            "question": "Wie oft muss man eine Sphynx-Katze baden?",
+            "answer": "Je nach Talgproduktion wird ein Bad alle 1 bis 2 Wochen mit lauwarmem Wasser und einem milden, pH-neutralen Katzenshampoo empfohlen. Zu häufiges Baden trocknet die Haut aus und regt die Talgproduktion zusätzlich an; nutzen Sie dazwischen tägliche Pflegetücher."
           }
         ],
         "tags": [
           "Sphynx-Katze",
-          "Haarlose Haut",
-          "Wärmeschutz",
+          "Haarlose Hautpflege",
+          "Katzen Wärmeregulierung",
           "Katzenbad"
         ]
       },
       "pt": {
-        "title": "Cuidados com o sebo da pele e controle de calor na gata Sphynx",
-        "description": "Limpe excesso de sebo nas gatas Sphynx e proteja-as do frio.",
-        "authority": "Diretrizes da Sociedade Internacional de Medicina Felina (ISFM)",
+        "title": "Cuidados com o sebo da pele e controle de temperatura em gatos Sphynx: rotina de 3 passos",
+        "description": "Aprenda a higienizar o sebo cutâneo e controlar a temperatura corporal dos gatos Sphynx sem pelo. Uma rotina diária de 3 passos para prevenir cravos e perda de calor.",
+        "authority": "Diretrizes de dermatologia da ISFM (International Society of Feline Medicine) e protocolos veterinários",
         "profile": {
           "breed": "Gato Sphynx (Sphynx Cat)",
           "lifespan": "12 ~ 15 anos",
-          "sleep_pattern": "14 ~ 16 hours (Busca por calor)",
-          "temperament": "Muito apegado, ativo, sociável, inteligente"
+          "sleep_pattern": "14 ~ 16 horas (busca ativa por calor)",
+          "temperament": "Extremamente afetuoso, dependente, inteligente e sociável"
         },
-        "intro": "O Sphynx é uma raça única sem pelo. Como não possuem pelos, o sebo acumula-se. Hoje na PetSelf, mostramos uma rotina para limpeza de pele. Oferecer cuidados de saúde diários constantes e um ambiente seguro garante o bem-estar a longo prazo do seu animal. Oferecer cuidados de saúde diários constantes e um ambiente seguro garante o bem-estar a longo prazo do seu animal.",
-        "whyTitle": "Linguagem corporal del Sphynx: Busca por calor",
-        "whyDesc": "Encostar na sua pele ou blankets é sinal de busca por calor.",
+        "intro": "O gato Sphynx é uma raça única e fascinante nascida sem a pelagem tradicional devido a uma mutação genética natural. Por não possuírem pelos para absorver os óleos cutâneos, o sebo produzido pelas glândulas sebáceas acumula-se diretamente na pele, formando resíduos marrons, poros obstruídos e dermatites se não for limpo com frequência. 🐈 Além disso, sem uma pelagem protetora, sentem muito frio e perdem calor corporal rapidamente. Hoje, o PetSelf apresenta uma rotina diária de 3 passos para manter a pele do seu Sphynx limpa e preservar sua temperatura corporal.",
+        "whyTitle": "Linguagem corporal do Sphynx: busca por calor e sinais de profundo afeto",
+        "whyDesc": "Os gatos Sphynx são muito sensíveis ao frio e buscam calor ativamente encostando-se no seu pescoço, colo ou debaixo dos cobertores. Encostar-se à sua pele enquanto ronrona não só expressa um carinho profundo, mas também uma necessidade instintiva de compartilhar calor corporal. Se notar a pele fria ou ele estiver encolhido, ajuste a temperatura do ambiente imediatamente.",
         "body_signals": [
           {
-            "name": "Busca por calor",
-            "meaning": "O gato sente frio e busca fontes de calor para se aquecer.",
-            "response": "Vista-o com roupa de algodão macio ou use manta térmica."
+            "name": "Busca por calor (encostar na pele ou fontes térmicas)",
+            "meaning": "Indica que o ar do ambiente está frio e a temperatura do gato está caindo, pedindo aquecimento.",
+            "response": "Ajuste a temperatura ambiente para 22–26°C, vista-o com roupa de algodão macio e forneça uma cama toca aquecida."
           },
           {
             "name": "Olhos semicerrados e ronrono",
-            "meaning": "Bem-estar térmico, relaxamento e confiança profunda.",
-            "response": "Massageie o corpo quente dele suavemente e deixe-o dormir perto."
+            "meaning": "Estado de profundo bem-estar físico, conforto térmico e confiança total no tutor.",
+            "response": "Acaricie o corpo quente dele suavemente e deixe-o descansar confortavelmente ao seu lado."
           }
         ],
         "daily_routine": [
           {
             "name": "Manhã: Limpeza suave das dobras da pele com toalha morna",
-            "text": "Limpe o sebo marrom acumulado com pano úmido e morno."
+            "text": "Limpe o sebo marrom acumulado no pescoço, dobras e patas com uma toalha úmida e morna para prevenir cravos e infecções de pele."
           },
           {
-            "name": "Tarde: Proteção solar para evitar queimaduras",
-            "text": "Use cortinas para bloquear o sol direto na pele sensível."
+            "name": "Tarde: Proteção solar para evitar queimaduras UV",
+            "text": "A pele sem pelo exposta ao sol direto sofre facilmente queimaduras solares (dermatite solar). Use cortinas ou persianas para bloquear o sol forte."
           },
           {
-            "name": "Noite: Troca de roupa de algodão e cama quente",
-            "text": "Vista-o com camiseta limpa para evitar acúmulo de sebo."
+            "name": "Noite: Troca de roupa limpa de algodão e checagem da cama toca",
+            "text": "Troque as roupas manchadas de óleo por peças limpas de algodão e verifique a cama toca isolada para evitar perdas de calor à noite."
           }
         ],
         "faqs": [
           {
-            "question": "Os gatos Sphynx são totalmente hipoalergênicos?",
-            "answer": "Não. Alergias são causadas por saliva e descamação, não no pelo."
+            "question": "Os gatos Sphynx são totalmente hipoalergênicos por não terem pelos?",
+            "answer": "Não, de forma alguma. As alergias a gatos são causadas principalmente por proteínas (Fel d 1 e Fel d 4) presentes na saliva, no sebo e na descamação, e não pelos pelos em si. Como os Sphynx produzem sebo ativo, podem desencadear reações alérgicas."
           },
           {
-            "question": "Com que frequência devo dar banho no meu Sphynx?",
-            "answer": "A cada 1 ou 2 semanas com xampu de pH neutro."
+            "question": "Com que frequência devo dar banho num gato Sphynx?",
+            "answer": "Dependendo da produção de sebo de cada gato, recomenda-se banhá-lo a cada 1 ou 2 semanas com água morna e xampu suave de pH neutro específico para gatos. Banhar em excesso resseca a pele e causa hiperseborreia reativa; prefira a limpeza diária com toalha úmida."
           }
         ],
         "tags": [
-          "Sphynx",
-          "Pele sem pelo",
-          "Calor",
-          "Banho"
+          "Gato Sphynx",
+          "Pele Sem Pelo",
+          "Controle de Temperatura",
+          "Banho Felino"
         ]
       },
       "id": {
-        "title": "Perawatan Minyak Kulit and Manajemen Suhu Kucing Sphynx yang Tidak Berbulu",
-        "description": "Cara membersihkan sebum minyak pada kulit Sphynx and menjaga kehangatan tubuh mereka.",
-        "authority": "Panduan Perawatan Kulit & Perilaku Kucing ISFM",
+        "title": "Perawatan Minyak Kulit dan Manajemen Suhu Kucing Sphynx Tanpa Bulu: Rutinitas 3 Langkah",
+        "description": "Pelajari cara membersihkan sebum minyak kulit dan mengatur suhu tubuh kucing Sphynx tanpa bulu. Rutinitas harian 3 langkah untuk mencegah komedo dan hipotermia.",
+        "authority": "Panduan Dermatologi ISFM (International Society of Feline Medicine) & Protokol Dokter Hewan",
         "profile": {
           "breed": "Kucing Sphynx (Sphynx Cat)",
           "lifespan": "12 ~ 15 tahun",
-          "sleep_pattern": "14 ~ 16 jam (Mencari kehangatan)",
-          "temperament": "Sangat manja, aktif, ramah, cerdas"
+          "sleep_pattern": "14 ~ 16 jam (pencari kehangatan aktif)",
+          "temperament": "Sangat Manja, Sangat Bergantung, Cerdas, Ramah"
         },
-        "intro": "Kucing Sphynx tidak memiliki bulu tradicional karena mutasi genetik. Minyak alami menumpuk di kulit mereka and membutuhkan pembersihan rutin. Kulit polos mereka juga rawan kedinginan and terbakar matahari. Hari ini PetSelf membagikan tips mandi kulit and pemanasan tubuh Sphynx.",
-        "whyTitle": "Bahasa Tubuh Sphynx: Mencari Kehangatan",
-        "whyDesc": "Menempel pada kulit pemilik or meringkuk di bawah selimut menandakan mereka kedinginan.",
+        "intro": "Kucing Sphynx adalah ras unik yang lahir tanpa bulu karena mutasi genetik alami. Karena tidak memiliki bulu untuk menyerap minyak alami tubuh, sebum yang dihasilkan oleh kelenjar minyak menumpuk di permukaan kulit, menyebabkan noda kecokelatan, pori-pori tersumbat, dan dermatitis jika tidak dibersihkan secara rutin. 🐈 Selain itu, tanpa bulu pelindung, mereka sangat sensitif terhadap udara dingin dan kehilangan panas tubuh dengan cepat. Hari ini, PetSelf menyajikan rutinitas perawatan 3 langkah untuk menjaga kebersihan kulit Sphynx sekaligus menjaga tubuh mereka tetap hangat.",
+        "whyTitle": "Bahasa Tubuh Sphynx: Mencari Kehangatan dan Sinyal Kasih Sayang",
+        "whyDesc": "Kucing Sphynx sangat mudah merasa kedinginan, sehingga mereka aktif mencari kehangatan dengan menempel pada leher, pangkuan, atau di bawah selimut pemiliknya. Meringkuk di kulit Anda sambil mendengkur bukan hanya bentuk kasih sayang yang dalam, tetapi juga kebutuhan naluriah untuk berbagi suhu tubuh. Jika kulit mereka terasa dingin atau tubuh mereka melingkar erat, segera naikkan suhu ruangan.",
         "body_signals": [
           {
-            "name": "Mencari sumber panas (dekat alat elektronik hangat)",
-            "meaning": "Suhu tubuh turun and sedang mencari kehangatan.",
-            "response": "Pakaikan baju katun hangat and sediakan tempat tidur dengan pet heating pad."
+            "name": "Mencari kehangatan (menempel pada kulit atau sumber panas)",
+            "meaning": "Menandakan udara sekitar dingin dan suhu tubuh mereka menurun, meminta pasokan panas.",
+            "response": "Atur suhu ruangan pada 22–26°C, pakaikan baju katun yang lembut, dan sediakan tempat tidur kubah yang hangat."
           },
           {
-            "name": "Mata setengah tertutup sambil mendengkur (purring)",
-            "meaning": "Merasa hangat, nyaman, and percaya sepenuhnya kepada pemilik.",
-            "response": "Elus perlahan tubuh hangatnya and temani mereka bersantai."
+            "name": "Menyipitkan mata & mendengkur (Purring)",
+            "meaning": "Kondisi sangat nyaman, tubuh hangat, dan kepercayaan penuh pada pemilik.",
+            "response": "Elus tubuh hangat mereka secara perlahan dan biarkan mereka beristirahat dengan tenang di samping Anda."
           }
         ],
         "daily_routine": [
           {
-            "name": "Pagi: Menyeka lipatan kulit dengan handuk basah hangat",
-            "text": "Lap minyak cokelat yang menumpuk di sela-sela lipatan kulit dengan lembut."
+            "name": "Pagi: Menyeka Lipatan Kulit dengan Handuk Hangat",
+            "text": "Bersihkan minyak kecokelatan yang menumpuk di leher, lipatan kulit, dan sela jari dengan handuk basah hangat untuk mencegah komedo dan infeksi kulit."
           },
           {
-            "name": "Siang: Menghindari sengatan matahari langsung di dalam rumah",
-            "text": "Tutup tirai tipis untuk menghalau radiasi UV yang bisa membakar kulit sensitif mereka."
+            "name": "Siang: Perlindungan Sinar Matahari untuk Cegah Kerusakan UV",
+            "text": "Kulit tanpa bulu yang terpapar sinar matahari langsung sangat mudah terbakar (dermatitis sinar matahari). Gunakan tirai untuk menghalangi paparan UV terik."
           },
           {
-            "name": "Malam: Mengganti baju katun bersih and menghangatkan kasur",
-            "text": "Ganti baju mereka dengan yang bersih agar minyak tidak menumpuk and buat kasur tetap hangat."
+            "name": "Malam: Mengganti Baju Katun Bersih dan Memeriksa Kasur Kubah Warm",
+            "text": "Ganti pakaian yang terkena minyak dengan pakaian katun bersih, dan periksa tempat tidur kubah yang hangat untuk mencegah kedinginan saat malam."
           }
         ],
         "faqs": [
           {
-            "question": "Apakah kucing Sphynx benar-benar tidak memicu alergi?",
-            "answer": "Tidak. Alergen kucing utama ada di saliva and kelenjar minyak kulit, bukan pada bulu."
+            "question": "Apakah kucing Sphynx benar-benar hipoalergenik karena tidak punya bulu?",
+            "answer": "Tidak sama sekali. Alergi kucing terutama dipicu oleh protein (Fel d 1 dan Fel d 4) yang ada pada air liur, sebum minyak, dan ketombe, bukan oleh bulu itu sendiri. Karena Sphynx menghasilkan sebum yang aktif, mereka tetap dapat memicu reaksi alergi."
           },
           {
-            "question": "Seberapa sering Sphynx harus dimandikan?",
-            "answer": "Usually setiap 1-2 weeks sekali dengan sampo lembut ber-pH netral khusus kucing."
+            "question": "Seberapa sering kucing Sphynx harus dimandikan?",
+            "answer": "Tergantung pada produksi minyak masing-masing kucing, dimandikan setiap 1 hingga 2 minggu sekali menggunakan air hangat dan sampo netral pH khusus kucing sangat dianjurkan. Mandi terlalu sering dapat mengeringkan kulit dan memicu produksi minyak berlebih, jadi gunakan sekaan handuk harian di antara jadwal mandi."
           }
         ],
         "tags": [
-          "Sphynx",
-          "Kulit sensitif",
-          "Suhu hangat",
-          "Mandi kucing"
+          "Kucing Sphynx",
+          "Perawatan Kulit Tanpa Bulu",
+          "Manajemen Suhu Kucing",
+          "Mandi Kucing"
         ]
       },
       "ko": {
-        "title": "스핑크스 피부 피지 케어 및 체온 보존",
-        "description": "털 없는 스핑크스 고양이를 위한 피부 유분 케어와 체온 조절 3단계 루틴",
-        "authority": "고양이의학협회(ISFM) 스핑크스 가이드 및 피모 관리 수의 지침",
+        "title": "털 없는 스핑크스 고양이의 피부 피지 관리와 체온 보존 3단계 홈케어",
+        "description": "털이 없는 스핑크스 고양이를 위한 피부 유분 및 피지 케어와 체온 보존을 위한 3단계 데일리 홈케어 루틴을 알아봅니다.",
+        "authority": "국제고양이의학협회(ISFM) 피부과학 가이드라인 및 피모 수의학 지침",
         "profile": {
           "breed": "스핑크스 (Sphynx Cat)",
           "lifespan": "12 ~ 15년",
           "sleep_pattern": "14 ~ 16시간 (체온 보존 추구형)",
-          "temperament": "개냥이의 정석, 극도로 다정함, 지능적이고 사교적임"
+          "temperament": "극도로 다정함, 의존적, 영리하고 사교적임"
         },
-        "intro": "스핑크스 고양이는 돌연변이에 의해 털이 거의 없이 솜털만 지니고 태어난 아주 특별하고 신비로운 품종입니다. 털이 없기 때문에 피지선에서 분비되는 유분이 털로 흡수되지 못하고 피부에 그대로 쌓여 자주 닦아주지 않으면 피부염이나 블랙헤드가 생기기 쉽습니다. 🐈 또한 외부 온도로부터 몸을 보호해 줄 피모가 없어 추위에 극도로 취약하며 쉽게 체온을 잃습니다. 오늘 PetSelf에서는 스핑크스의 민감한 피부를 깨끗하게 유지하고 따뜻하게 보살펴줄 수 있는 3단계 홈케어 루틴을 전합니다.",
-        "whyTitle": "스핑크스의 바디 랭귀지: 온기 추구와 감정 공유",
-        "whyDesc": "스핑크스 고양이는 추위를 잘 타기 때문에 보호자의 목덜미나 품에 밀착하여 체온을 나누려는 성향이 강합니다. 보호자의 팔에 몸을 강하게 비비거나 무릎 위에 올라와 골골송을 부르는 것은 단순히 애교를 부리는 것뿐만 아니라 온기를 찾는 실용적인 신호이기도 합니다.",
+        "intro": "스핑크스(Sphynx Cat)는 자연발생적 유전자 돌연변이에 의해 털이 거의 없이 피부만 드러난 아주 특별하고 신비로운 고양이입니다. 털이 없기 때문에 피지선에서 분비되는 유분이 털로 흡수되지 못하고 피부 표면에 쌓여, 제때 닦아주지 않으면 갈색 피지 착색이나 피지낭종, 피부염이 생기기 쉽습니다. 🐈 또한 외부 환경으로부터 체온을 보호해 줄 피모가 없어 추위에 매우 취약하며 손쉽게 체온을 잃습니다. 오늘 PetSelf에서는 스핑크스의 민감한 피부를 위생적으로 관리하고 체온을 따뜻하게 유지하는 3단계 맞춤형 홈케어 루틴을 소개합니다.",
+        "whyTitle": "스핑크스의 바디 랭귀지: 온기 추구와 깊은 애정 신호",
+        "whyDesc": "스핑크스 고양이는 추위에 민감하여 보호자의 목덜미, 품, 또는 이불 속에 밀착하여 체온을 공유하려는 성향이 강합니다. 보호자의 팔에 몸을 바짝 밀착하거나 무릎 위에 올라와 골골송을 부르는 행동은, 깊은 애정을 표현함과 동시에 체온을 유지하려는 본능적인 온기 추구 신호입니다. 피부가 차갑거나 몸을 웅크린다면 즉시 실내 온도를 높여주어야 합니다.",
         "body_signals": [
           {
-            "name": "보호자의 맨살이나 가전제품 주변에 몸을 바짝 밀착함",
-            "meaning": "현재 주변 공기가 차갑고 체온이 떨어져 따뜻한 온기 공급을 요청하는 시그널입니다.",
-            "response": "실내 온도를 점검하고, 부드러운 고양이 전용 옷을 입히거나 따뜻한 담요가 있는 온열 매트를 켜주십시오."
+            "name": "보호자의 맨살이나 온열 장소에 몸을 바짝 밀착함 (Heat-Seeking)",
+            "meaning": "체온이 떨어져 공기가 차갑다고 느끼며, 적극적으로 온기 공급을 요청하는 시그널입니다.",
+            "response": "실내 온도를 22~26°C로 조정하고, 부드러운 면 옷을 입히거나 따뜻한 온열 매트/보호형 은신처를 제공하십시오."
           },
           {
-            "name": "꼬리를 느슨하게 흔들며 눈을 반쯤 감고 바라봄",
-            "meaning": "신체적으로 편안하고 심리적으로 깊은 유대감และ 애정을 느끼는 상태입니다.",
-            "response": "고양이의 체온이 전달되는 따뜻한 몸통을 부드럽게 쓸어주며 함께 휴식을 취합니다."
+            "name": "눈을 반쯤 감고 골골송을 부름 (Squinting & Purring)",
+            "meaning": "적정한 체온과 쾌적한 환경에서 깊은 안도감과 무한한 신뢰를 표현하는 상태입니다.",
+            "response": "따뜻해진 몸을 부드럽게 쓰다듬어 주며 편안하게 휴식을 취하도록 응해 주십시오."
           }
         ],
         "daily_routine": [
           {
-            "name": "아침: 저자극 물티슈나 따뜻한 수건을 이용한 전신 유분 닦기",
-            "text": "피부 주름 사이에 쌓인 갈색 피지를 따뜻한 젖은 타월로 자극 없이 부드럽게 닦아내어 피부 트러블을 차단합니다."
+            "name": "아침: 따뜻한 타월을 이용한 전신 주름 및 피지 정돈",
+            "text": "목, 발가락 사이, 피부 주름에 쌓인 갈색 피지를 따뜻한 젖은 타월이나 저자극 전용 티슈로 자극 없이 부드럽게 닦아내어 블랙헤드와 피부염을 예방합니다."
           },
           {
-            "name": "오후: 자외선으로부터 무방비한 피부를 보호하기 위한 일조량 조절",
-            "text": "직사광선에 노출되면 햇볕 화상을 입을 수 있으므로, 커튼을 조절하여 실내 햇빛의 세기를 완충해 줍니다."
+            "name": "오후: 직사광선 차단을 통한 자외선 피부 손상 방지",
+            "text": "털이 없는 피부는 자외선에 무방비로 노출되면 햇볕 화상(일광피부염)을 입기 쉽습니다. 블라인드나 커튼으로 강한 직사광선을 조절해 줍니다."
           },
           {
-            "name": "저녁: 체온 보존을 위한 맞춤 옷 세탁 및 따뜻한 잠자리 구축",
-            "text": "유분이 묻은 고양이 옷을 매일 청결한 새 옷으로 갈아입히고, 밤사이 체온 저하를 막기 위해 아늑하고 따뜻한 돔형 하우스를 점검합니다."
+            "name": "저녁: 청결한 순면 옷 교체 및 온열 돔 하우스 점검",
+            "text": "피지 유분이 묻은 고양이 옷을 청결한 새 순면 옷으로 갈아입히고, 밤사이 체온 저하를 막기 위해 아늑하고 따뜻한 돔 형태의 잠자리를 점검합니다."
           }
         ],
         "faqs": [
           {
-            "question": "털이 안 빠지니 알레르기가 전혀 없나요?",
-            "answer": "고양이 알레르기는 털 자체보다 침, 비듬, 피지선에서 나오는 단백질이 주원인입니다. 스핑크스는 오히려 알레르기를 유발할 수 있으므로 분양 전 알레르기 반응을 미리 확인해야 합니다."
+            "question": "스핑크스 고양이는 털이 없어서 고양이 알레르기가 전혀 유발되지 않나요?",
+            "answer": "아닙니다. 고양이 알레르기의 주원인은 털 자체가 아니라 침, 피지선, 비듬에 존재하는 단백질(Fel d 1, Fel d 4)입니다. 스핑크스는 피지 분비가 활발하므로 알레르기를 유발할 수 있어 사전 반응 확인이 필수적입니다."
           },
           {
-            "question": "목욕은 얼마나 자주 시켜야 하나요?",
-            "answer": "피부 유분 분비 정도에 따라 대략 1~2주에 한 번 따뜻한 물로 저자극 전용 샴푸를 사용하여 가볍게 목욕시키는 것이 좋습니다. 평소에는 매일 타월로 닦아 관리해 줍니다."
+            "question": "스핑크스 고양이의 목욕은 얼마나 자주 시켜야 하나요?",
+            "answer": "개체별 피지 분비량에 따라 보통 1~2주에 1회 정도 따뜻한 물과 저자극 pH 중성 전용 샴푸로 목욕시키는 것이 좋습니다. 너무 자주 목욕시키면 오히려 피부가 건조해져 피지가 과다 분비될 수 있으므로 평소에는 데일리 타월 케어로 관리합니다."
           }
         ],
         "tags": [
           "스핑크스고양이",
-          "무모종 피부케어",
-          "고양이 체온 조절",
-          "개냥이"
+          "무모종피부케어",
+          "고양이체온조절",
+          "반려묘목욕"
         ]
       }
     },

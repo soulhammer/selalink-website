@@ -5,32 +5,32 @@ description: "Guía completa de cuidado para el conejo Holland Lop. Previene oti
 pubDate: "2026-07-15"
 updatedDate: "2026-07-15"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Conejo Holland Lop (Holland Lop)"]
+tags: ["CuidadoMascotas","SaludMascotas","Conejo Holland Lop (Oryctolagus cuniculus / Holland Lop)"]
 heroImage: "/images/blog/holland_lop_care.png"
 app: "petself"
 formatVersion: 4
-authority: "House Rabbit Society (HRS) & AEMV Normas de Conejos"
+authority: "House Rabbit Society (HRS) y Estándares Veterinarios AEMV"
 steps:
   - name: "Comunicación del Holland Lop: El Baile Binky y el Pisotón Trasero"
-    text: "Los conejos expresan su alegría con el 'Binky' (salto giratorio en el aire). El pisotón fuerte con las patas traseras es una señal de alerta o descontento."
-  - name: "Conejo Holland Lop (Holland Lop)'s Body Language & Signals"
-    text: "* Salto y Giro en el Aire (Binky Dance): Expresión de pura alegría, entusiasmo y máxima seguridad en su entorno. (Proporciona alfombras antideslizantes para que corra de forma segura sin resbalar.)
+    text: "Los conejos expresan sus emociones mediante movimientos corporales antes que vocalizaciones. El salto con giro en el aire conocido como 'Binky' indica máxima euforia, mientras que el pisotón fuerte con las patas traseras (Thumping) es una alarma defensiva o muestra de descontento."
+  - name: "Conejo Holland Lop (Oryctolagus cuniculus / Holland Lop)'s Body Language & Signals"
+    text: "* Salto y Giro en el Aire (Binky Dance): Expresión de pura alegría, entusiasmo y máxima seguridad en su entorno y cuidador. (Proporcione alfombras antideslizantes para que corra de forma segura sin resbalar.)
 
-* Pisotón Fuerte con Pata Trasera (Thumping): Señal de advertencia ante ruidos extraños, olores de depredador o molestia. (Identifica la fuente de susto y háblale con voz suave y grave.)"
+* Pisotón Fuerte con Pata Trasera (Thumping): Señal de advertencia ante ruidos extraños, olores de depredadores o profunda molestia. (Identifique la fuente de estrés en el entorno y háblale con voz suave y grave para tranquilizarlo.)"
   - name: "Customized 3-Step Home Care Routine"
-    text: "* STEP 1. Mañana: Relleno Ilimitado de Heno Timothy y Agua Fresca: Llena el henero con heno Timothy fresco de 1er corte para mantener la motilidad intestinal.
+    text: "* STEP 1. Mañana: Relleno Ilimitado de Heno Timothy y Agua Fresca: Llene el henero con heno Timothy fresco de 1er corte para mantener la motilidad intestinal continua y el desgaste dental.
 
-* STEP 2. Tarde: Inspección de Orejas Caídas y Descanso Diurno: Levanta suavemente las orejas para revisar si hay enrojecimiento o secreciones.
+* STEP 2. Tarde: Inspección de Orejas Caídas y Descanso Diurno: Levante suavemente las orejas para revisar si hay enrojecimiento, suciedad o secreciones, garantizando un descanso tranquilo.
 
-* STEP 3. Noche: Ejercicio en Túneles y Cepillado de Pelaje: Abre el parque de juegos para ejercicio y cepilla su pelaje para evitar bolas de pelo."
+* STEP 3. Noche: Ejercicio en Túneles y Cepillado de Pelaje: Abre el parque de juegos para ejercicio en túneles y cepilla su pelaje para evitar la formación de bolas de pelo."
 faqs:
   - question: "¿Qué hacer si el conejo deja de comer y defecar de repente?"
-    answer: "Es Estasis Gastrointestinal (GI Stasis), una urgencia veterinaria vital en 12 horas. Llévalo inmediatamente a un veterinario de animales exóticos."
+    answer: "Es Estasis Gastrointestinal (GI Stasis), una urgencia veterinaria vital que puede ser fatal en 12 horas. No lo alimente a la fuerza ni realice masajes bruscos; llévalo inmediatamente a un veterinario de animales exóticos."
   - question: "¿Es normal que sacuda la cabeza y se rasque mucho las orejas?"
-    answer: "No. Las orejas caídas acumulan humedad y son propensas a ácaros u otitis. Si notas cera oscura o rascado excesivo, requiere atención médica."
+    answer: "No. Las orejas caídas acumulan humedad y son propensas a ácaros u otitis fúngica. Si notas cera oscura o rascado excesivo, requiere atención médica veterinaria."
 ---
 
-El Holland Lop es una de las razas de conejos más queridas del mundo por su cara redonda y orejas caídas. Según la House Rabbit Society (HRS), su anatomía de orejas caídas requiere prevención de otitis e inspección constante, mientras que el heno Timothy ilimitado 24/7 es vital para prevenir la estasis gastrointestinal.
+El Holland Lop es una de las razas de conejos más queridas del mundo por su cara redonda y sus características orejas caídas. Según las normas de la House Rabbit Society (HRS) y la AEMV, su anatomía de orejas caídas requiere prevención de otitis e inspección constante, mientras que el suministro de heno Timothy ilimitado 24/7 es vital para prevenir la estasis gastrointestinal.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -39,7 +39,7 @@ El Holland Lop es una de las razas de conejos más queridas del mundo por su car
       Evidencia Veterinaria y Comportamental
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Este contenido se basa en <strong>House Rabbit Society (HRS) & AEMV Normas de Conejos</strong>.
+      Este contenido se basa en <strong>House Rabbit Society (HRS) y Estándares Veterinarios AEMV</strong>.
     </p>
   </div>
 </div>
@@ -54,13 +54,13 @@ El Holland Lop es una de las razas de conejos más queridas del mundo por su car
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Comunicación del Holland Lop: El Baile Binky y el Pisotón Trasero</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Los conejos expresan su alegría con el 'Binky' (salto giratorio en el aire). El pisotón fuerte con las patas traseras es una señal de alerta o descontento.
+    Los conejos expresan sus emociones mediante movimientos corporales antes que vocalizaciones. El salto con giro en el aire conocido como 'Binky' indica máxima euforia, mientras que el pisotón fuerte con las patas traseras (Thumping) es una alarma defensiva o muestra de descontento.
   </p>
 </div>
 
 ---
 
-## 2. Conejo Holland Lop (Holland Lop)'s Body Language & Signals
+## 2. Conejo Holland Lop (Oryctolagus cuniculus / Holland Lop)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -68,8 +68,8 @@ El Holland Lop es una de las razas de conejos más queridas del mundo por su car
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Salto y Giro en el Aire (Binky Dance)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Significado:</strong> Expresión de pura alegría, entusiasmo y máxima seguridad en su entorno.<br/>
-    <strong>• Respuesta:</strong> Proporciona alfombras antideslizantes para que corra de forma segura sin resbalar.
+    <strong>• Significado:</strong> Expresión de pura alegría, entusiasmo y máxima seguridad en su entorno y cuidador.<br/>
+    <strong>• Respuesta:</strong> Proporcione alfombras antideslizantes para que corra de forma segura sin resbalar.
   </p>
 </div>
 
@@ -79,8 +79,8 @@ El Holland Lop es una de las razas de conejos más queridas del mundo por su car
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pisotón Fuerte con Pata Trasera (Thumping)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Significado:</strong> Señal de advertencia ante ruidos extraños, olores de depredador o molestia.<br/>
-    <strong>• Respuesta:</strong> Identifica la fuente de susto y háblale con voz suave y grave.
+    <strong>• Significado:</strong> Señal de advertencia ante ruidos extraños, olores de depredadores o profunda molestia.<br/>
+    <strong>• Respuesta:</strong> Identifique la fuente de estrés en el entorno y háblale con voz suave y grave para tranquilizarlo.
   </p>
 </div>
 
@@ -94,7 +94,7 @@ El Holland Lop es una de las razas de conejos más queridas del mundo por su car
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Mañana: Relleno Ilimitado de Heno Timothy y Agua Fresca</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Llena el henero con heno Timothy fresco de 1er corte para mantener la motilidad intestinal.
+    Llene el henero con heno Timothy fresco de 1er corte para mantener la motilidad intestinal continua y el desgaste dental.
   </p>
 </div>
 
@@ -104,7 +104,7 @@ El Holland Lop es una de las razas de conejos más queridas del mundo por su car
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: Inspección de Orejas Caídas y Descanso Diurno</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Levanta suavemente las orejas para revisar si hay enrojecimiento o secreciones.
+    Levante suavemente las orejas para revisar si hay enrojecimiento, suciedad o secreciones, garantizando un descanso tranquilo.
   </p>
 </div>
 
@@ -114,7 +114,7 @@ El Holland Lop es una de las razas de conejos más queridas del mundo por su car
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noche: Ejercicio en Túneles y Cepillado de Pelaje</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Abre el parque de juegos para ejercicio y cepilla su pelaje para evitar bolas de pelo.
+    Abre el parque de juegos para ejercicio en túneles y cepilla su pelaje para evitar la formación de bolas de pelo.
   </p>
 </div>
 
@@ -133,7 +133,7 @@ El Holland Lop es una de las razas de conejos más queridas del mundo por su car
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Es Estasis Gastrointestinal (GI Stasis), una urgencia veterinaria vital en 12 horas. Llévalo inmediatamente a un veterinario de animales exóticos.
+      Es Estasis Gastrointestinal (GI Stasis), una urgencia veterinaria vital que puede ser fatal en 12 horas. No lo alimente a la fuerza ni realice masajes bruscos; llévalo inmediatamente a un veterinario de animales exóticos.
     </p>
   </details>
 
@@ -143,7 +143,7 @@ El Holland Lop es una de las razas de conejos más queridas del mundo por su car
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      No. Las orejas caídas acumulan humedad y son propensas a ácaros u otitis. Si notas cera oscura o rascado excesivo, requiere atención médica.
+      No. Las orejas caídas acumulan humedad y son propensas a ácaros u otitis fúngica. Si notas cera oscura o rascado excesivo, requiere atención médica veterinaria.
     </p>
   </details>
 </div>

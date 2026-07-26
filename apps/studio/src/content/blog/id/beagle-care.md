@@ -1,7 +1,7 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "Perawatan Energi dan Kecemasan Beagle: Rutinitas 3 Langkah untuk Kecemasan Perpisahan dan Telinga"
-description: "Beagle adalah anjing pemburu yang sangat ingin tahu dengan energi besar. Pelajari rutinitas 3 langkah untuk memenuhi insting mengendus, meredakan kecemasan, dan merawat telinga."
+title: "Perawatan Energi & Kecemasan Beagle: Rutinitas Harian 3 Langkah untuk Kecemasan Perpisahan dan Kesehatan Telinga"
+description: "Beagle adalah anjing melacak aroma yang sangat ingin tahu dengan energi besar. Pelajari rutinitas harian 3 langkah untuk memuaskan dorongan mengendus, meredakan kecemasan, dan mencegah infeksi telinga."
 pubDate: "2026-02-28"
 updatedDate: "2026-03-01"
 category: "FreshSelf"
@@ -9,28 +9,28 @@ tags: ["PerawatanHewan","KesehatanHewan","Beagle"]
 heroImage: "/images/blog/beagle_care.png"
 app: "petself"
 formatVersion: 4
-authority: "Manual Ras Resmi AKC untuk Beagle & Protokol Nosework IAABC"
+authority: "Standar Ras Resmi Beagle AKC & Protokol Perilaku Nosework IAABC"
 steps:
   - name: "Bahasa Tubuh Beagle: Insting Melacak dan Makna Melolong"
-    text: "Saat fokus pada bau, Beagle menunjukkan perilaku 'melacak', mengabaikan sekitarnya. Sebaliknya, 'melolong' saat sendirian adalah tanda kecemasan perpisahan. Memahami kedua sinyal ini adalah kunci untuk menjaga mereka tetap tenang."
+    text: "Saat sangat fokus pada aroma, Beagle akan menempelkan hidung ke tanah dan berjalan lurus ('Ground-Tracking'), mengabaikan suara sekitar demi menyalurkan energi. Sebaliknya, 'melolong' saat ditinggal sendiri adalah ekspresi klasik dari kecemasan perpisahan. Mengenali kedua sinyal ini adalah kunci menjaga Beagle tetap tenang."
   - name: "Beagle's Body Language & Signals"
-    text: "* Melacak: Keadaan kegembiraan normal saat mereka menjelajahi dunia dan membakar energi pemburu melalui aroma. (Jangan menyentak tali penuntun mereka; biarkan mereka mengendus dan menjelajah untuk memuaskan insting mereka.)
+    text: "* Melacak dengan Hidung di Tanah (Ground-Tracking): Kondisi stimulasi normal di mana anjing menjelajahi lingkungan melalui penciuman dan membakar energi anjing pemburu. (Jangan menyentak tali penuntun; berikan waktu bagi mereka untuk mengendus jalur aroma secara aman demi memuaskan mentalnya.)
 
-* Melolong: Ekspresi kecemasan dan pencarian perhatian yang disebabkan oleh kesepian, bosan, atau energi yang tidak tersalurkan. (Jangan memarahi mereka. Atasi penyebabnya dengan memberikan puzzle penciuman dan olahraga yang cukup.)"
+* Melolong (Howling): Ekspresi kecemasan, kesepian, kebosanan, atau energi tak tersalurkan yang mencari perhatian dan ketenangan. (Hindari memarahi anjing. Atasi penyebab utamanya dengan meningkatkan olahraga fisik dan menyediakan permainan puzzle penciuman di dalam rumah.)"
   - name: "Customized 3-Step Home Care Routine"
-    text: "* STEP 1. Pagi: Perburuan Mengendus Camilan di Dalam Ruangan: Setelah sarapan, sembunyikan camilan dalam gelas kertas di sekitar rumah untuk memuaskan insting melacak dan melatih mental mereka.
+    text: "* STEP 1. Pagi: Permainan Petak Sumpet Camilan (Nosework) di Dalam Rumah: Setelah sarapan, sembunyikan camilan dalam gelas kertas atau sudut ruangan untuk mengasah kecerdasan penciuman dan membakar energi mental sejak pagi.
 
-* STEP 2. Siang: Jalan kaki Melacak 40 Menit di Luar Ruangan: Pastikan jalan kaki minimal 40 menit setiap hari. Biarkan mereka mengendus rumput secara bebas untuk mengurangi stres.
+* STEP 2. Siang: Jalan-jalan Aktif Melacak Aroma Selama 40+ Menit: Berikan jalan-jalan outdoor minimal 40 menit setiap hari. Biarkan mereka mengendus rumput dan jalanan secara bebas tanpa batasan yang tidak perlu.
 
-* STEP 3. Malam: Aerasi Telinga Terkulai dan Pembersihan Dua Kali Seminggu: Karena telinga terkulai menghalangi aliran udara, balikkan telinga mereka untuk ventilasi, dan bersihkan dengan cairan telinga dua kali seminggu."
+* STEP 3. Malam: Aerasi Saluran Telinga & Pembersihan Telinga Dua Kali Seminggu: Buka daun telinganya secara perlahan ke belakang di malam hari agar udara ber-sirkulasi, dan bersihkan dua kali seminggu dengan cairan pembersih telinga anjing."
 faqs:
-  - question: "Bagaimana cara mencegah Beagle melolong?"
-    answer: "Melolong disebabkan oleh kecemasan kesepian dan energi yang tidak tersalurkan. Meningkatkan jalan kaki dan puzzle penciuman adalah pencegahan paling efektif."
-  - question: "Mengapa telinga terkulai Beagle mudah terinfeksi?"
-    answer: "Telinga terkulai menghalangi udara masuk ke saluran telinga, menciptakan lingkungan lembap yang ideal bagi ragi. Aerasi mingguan sangat penting."
+  - question: "Bagaimana cara mencegah Beagle saya melolong saat ditinggal sendiri?"
+    answer: "Melolong bersumber dari kecemasan terisolasi dan penumpukan energi. Menggabungkan jalan mengendus harian dengan permainan puzzle olfaktori di dalam rumah akan menguras mentalnya, memberikan ketenangan dan menghentikan melolong."
+  - question: "Mengapa telinga terkulai Beagle sangat rentan terkena infeksi telinga?"
+    answer: "Telinga terkulainya yang berat menghalangi aliran udara ke saluran telinga, menciptakan lingkungan hangat dan lembap tempat jamur (Malassezia) dan bakteri berkembang biak. Aerasi dan pembersihan rutin sangat penting."
 ---
 
-Dengan telinga terkulai yang lucu dan ekor ceria, Beagle adalah anjing pemburu aroma historis. Meskipun ramah, mereka memiliki rasa ingin tahu yang tinggi dan dorongan kuat untuk melacak bau. Tanpa penyaluran yang tepat, mereka dapat mengalami kecemasan perpisahan, melolong atau merusak furnitur. Telinga terkulai mereka rentan terhadap infeksi telinga. Hari ini, PetSelf memperkenalkan rutinitas 3 langkah.
+Disukai karena telinga terkulainya yang lebar dan ekor berujung putih yang mengibas ceria, Beagle adalah anjing pelacak aroma historis yang telah bekerja bersama manusia selama berabad-abad. Meskipun sangat ramah dan mudah beradaptasi, mereka memiliki rasa ingin tahu yang kuat dan dorongan melacak aroma. Jika energi besar ini tidak disalurkan, mereka dapat mengalami kecemasan perpisahan yang memicu melolong dan perilaku merusak. Selain itu, telinga terkulainya menahan kelembapan, memicu otitis externa. Hari ini, PetSelf mengulas sinyal Beagle dan menyajikan rutinitas 3 langkah.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -39,7 +39,7 @@ Dengan telinga terkulai yang lucu dan ekor ceria, Beagle adalah anjing pemburu a
       Bukti Dokter Hewan & Perilaku
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Konten ini didasarkan pada <strong>Manual Ras Resmi AKC untuk Beagle & Protokol Nosework IAABC</strong>.
+      Konten ini didasarkan pada <strong>Standar Ras Resmi Beagle AKC & Protokol Perilaku Nosework IAABC</strong>.
     </p>
   </div>
 </div>
@@ -54,7 +54,7 @@ Dengan telinga terkulai yang lucu dan ekor ceria, Beagle adalah anjing pemburu a
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Bahasa Tubuh Beagle: Insting Melacak dan Makna Melolong</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Saat fokus pada bau, Beagle menunjukkan perilaku 'melacak', mengabaikan sekitarnya. Sebaliknya, 'melolong' saat sendirian adalah tanda kecemasan perpisahan. Memahami kedua sinyal ini adalah kunci untuk menjaga mereka tetap tenang.
+    Saat sangat fokus pada aroma, Beagle akan menempelkan hidung ke tanah dan berjalan lurus ('Ground-Tracking'), mengabaikan suara sekitar demi menyalurkan energi. Sebaliknya, 'melolong' saat ditinggal sendiri adalah ekspresi klasik dari kecemasan perpisahan. Mengenali kedua sinyal ini adalah kunci menjaga Beagle tetap tenang.
   </p>
 </div>
 
@@ -65,22 +65,22 @@ Dengan telinga terkulai yang lucu dan ekor ceria, Beagle adalah anjing pemburu a
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Sinyal Tubuh 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Melacak</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Melacak dengan Hidung di Tanah (Ground-Tracking)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Arti:</strong> Keadaan kegembiraan normal saat mereka menjelajahi dunia dan membakar energi pemburu melalui aroma.<br/>
-    <strong>• Tindakan:</strong> Jangan menyentak tali penuntun mereka; biarkan mereka mengendus dan menjelajah untuk memuaskan insting mereka.
+    <strong>• Arti:</strong> Kondisi stimulasi normal di mana anjing menjelajahi lingkungan melalui penciuman dan membakar energi anjing pemburu.<br/>
+    <strong>• Tindakan:</strong> Jangan menyentak tali penuntun; berikan waktu bagi mereka untuk mengendus jalur aroma secara aman demi memuaskan mentalnya.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Sinyal Tubuh 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Melolong</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Melolong (Howling)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Arti:</strong> Ekspresi kecemasan dan pencarian perhatian yang disebabkan oleh kesepian, bosan, atau energi yang tidak tersalurkan.<br/>
-    <strong>• Tindakan:</strong> Jangan memarahi mereka. Atasi penyebabnya dengan memberikan puzzle penciuman dan olahraga yang cukup.
+    <strong>• Arti:</strong> Ekspresi kecemasan, kesepian, kebosanan, atau energi tak tersalurkan yang mencari perhatian dan ketenangan.<br/>
+    <strong>• Tindakan:</strong> Hindari memarahi anjing. Atasi penyebab utamanya dengan meningkatkan olahraga fisik dan menyediakan permainan puzzle penciuman di dalam rumah.
   </p>
 </div>
 
@@ -91,30 +91,30 @@ Dengan telinga terkulai yang lucu dan ekor ceria, Beagle adalah anjing pemburu a
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pagi: Perburuan Mengendus Camilan di Dalam Ruangan</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pagi: Permainan Petak Sumpet Camilan (Nosework) di Dalam Rumah</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Setelah sarapan, sembunyikan camilan dalam gelas kertas di sekitar rumah untuk memuaskan insting melacak dan melatih mental mereka.
+    Setelah sarapan, sembunyikan camilan dalam gelas kertas atau sudut ruangan untuk mengasah kecerdasan penciuman dan membakar energi mental sejak pagi.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Siang: Jalan kaki Melacak 40 Menit di Luar Ruangan</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Siang: Jalan-jalan Aktif Melacak Aroma Selama 40+ Menit</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Pastikan jalan kaki minimal 40 menit setiap hari. Biarkan mereka mengendus rumput secara bebas untuk mengurangi stres.
+    Berikan jalan-jalan outdoor minimal 40 menit setiap hari. Biarkan mereka mengendus rumput dan jalanan secara bebas tanpa batasan yang tidak perlu.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Malam: Aerasi Telinga Terkulai dan Pembersihan Dua Kali Seminggu</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Malam: Aerasi Saluran Telinga & Pembersihan Telinga Dua Kali Seminggu</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Karena telinga terkulai menghalangi aliran udara, balikkan telinga mereka untuk ventilasi, dan bersihkan dengan cairan telinga dua kali seminggu.
+    Buka daun telinganya secara perlahan ke belakang di malam hari agar udara ber-sirkulasi, dan bersihkan dua kali seminggu dengan cairan pembersih telinga anjing.
   </p>
 </div>
 
@@ -129,21 +129,21 @@ Dengan telinga terkulai yang lucu dan ekor ceria, Beagle adalah anjing pemburu a
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Bagaimana cara mencegah Beagle melolong?</span>
+      <span>Bagaimana cara mencegah Beagle saya melolong saat ditinggal sendiri?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Melolong disebabkan oleh kecemasan kesepian dan energi yang tidak tersalurkan. Meningkatkan jalan kaki dan puzzle penciuman adalah pencegahan paling efektif.
+      Melolong bersumber dari kecemasan terisolasi dan penumpukan energi. Menggabungkan jalan mengendus harian dengan permainan puzzle olfaktori di dalam rumah akan menguras mentalnya, memberikan ketenangan dan menghentikan melolong.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Mengapa telinga terkulai Beagle mudah terinfeksi?</span>
+      <span>Mengapa telinga terkulai Beagle sangat rentan terkena infeksi telinga?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Telinga terkulai menghalangi udara masuk ke saluran telinga, menciptakan lingkungan lembap yang ideal bagi ragi. Aerasi mingguan sangat penting.
+      Telinga terkulainya yang berat menghalangi aliran udara ke saluran telinga, menciptakan lingkungan hangat dan lembap tempat jamur (Malassezia) dan bakteri berkembang biak. Aerasi dan pembersihan rutin sangat penting.
     </p>
   </details>
 </div>

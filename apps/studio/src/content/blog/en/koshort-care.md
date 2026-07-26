@@ -5,7 +5,7 @@ description: "Korean Shorthair, with strong hunting instincts. Learn proper hydr
 pubDate: "2026-03-15"
 updatedDate: "2026-03-15"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Korean Shorthair"]
+tags: ["PetCare","PetHealth","Korean Shorthair (Felis catus)"]
 heroImage: "/images/blog/koshort_care.png"
 app: "petself"
 formatVersion: 4
@@ -13,7 +13,7 @@ authority: "Cornell Feline Health Center Behavioral Guide & NIAS Companion Anima
 steps:
   - name: "Feline Body Language: The Ultimate Expression of Trust"
     text: "One of the strongest expressions of trust a cat sends to its owner is 'vertical tail raising' and 'purring'. Approaching with a tail raised straight up is a friendly signal and a request to communicate. Also, purring stimulates endorphins in their brain, calming them down. Note that purring can also be a self-healing signal when they are in pain. If a cat hides in a dark place and purrs with a depressed expression, closely monitor their health."
-  - name: "Korean Shorthair's Body Language & Signals"
+  - name: "Korean Shorthair (Felis catus)'s Body Language & Signals"
     text: "* Tail Up: An expression of strong friendliness, positive communication, and joy toward the owner. (Respond with soft eye contact or a gentle chin rub to enhance the positive bond.)
 
 * Purring: Usually made when happy, but can also be a self-healing signal to relieve pain or anxiety. (If they purr while hiding in dark corners, check closely to ensure they are not injured or sick.)"
@@ -64,7 +64,7 @@ Today, PetSelf explores Korean Shorthair body language and shares a 3-step daily
 
 ---
 
-## 2. Korean Shorthair's Body Language & Signals
+## 2. Korean Shorthair (Felis catus)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

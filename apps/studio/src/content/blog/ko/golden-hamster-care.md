@@ -5,7 +5,7 @@ description: "야행성이며 단독 생활을 하는 골든 햄스터. 낮 수�
 pubDate: "2026-01-21"
 updatedDate: "2026-01-21"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","골든 햄스터 (Golden Hamster)"]
+tags: ["반려동물","펫케어","골든 햄스터 (Mesocricetus auratus)"]
 heroImage: "/images/blog/golden_hamster_care.png"
 app: "petself"
 formatVersion: 4
@@ -13,11 +13,11 @@ authority: "Humane Society 햄스터 케어 가이드 및 수의학 행동 지�
 steps:
   - name: "골든 햄스터의 의사소통: 이갈이 경고와 경계 행동"
     text: "골든 햄스터는 극도로 화가 나거나 두려움을 느낄 때 '이갈이 및 갉작거림(Teeth Chattering)' 소리를 내며 다가오지 말 것을 경고합니다. 또한 갑작스러운 소음에 놀라면 '귀를 뒤로 눕히고 굳는 행동(Ear Flattening)'으로 주변을 강하게 경계합니다. 이러한 예민한 바디 랭귀지를 빠르게 포착하여 편안한 단독 공간을 마련해 주는 것이 핵심입니다."
-  - name: "골든 햄스터 (Golden Hamster)의 몸짓 언어와 바디 시그널"
+  - name: "골든 햄스터 (Mesocricetus auratus)의 몸짓 언어와 바디 시그널"
     text: "* 이갈이 딱딱 소리 (Teeth Chattering): 위협을 느끼거나 몹시 예민해져 있으니 가까이 다가오지 말라는 강력한 경고입니다. (핸들링이나 청소를 즉시 멈추고 햄스터가 은신처에서 마음을 가라앉히도록 시간을 주며 조용히 해줍니다.)
 
 * 귀 눕히고 동작 멈추기 (Ear Flattening): 갑작스러운 진동이나 낯선 시각 자극에 큰 위협을 느끼고 숨을 죽인 긴장 상태입니다. (가까이서 소리를 지르거나 움직이지 말고 조명을 조금 낮춰 어둡고 아늑하게 유지해 줍니다.)"
-  - name: "골든 햄스터 (Golden Hamster) 맞춤형 3단계 홈케어 루틴"
+  - name: "골든 햄스터 (Mesocricetus auratus) 맞춤형 3단계 홈케어 루틴"
     text: "* STEP 1. 아침: 은신처 주변 정돈 및 신선한 식수 교체: 햄스터가 잠드는 시간인 아침에는 은신처 내부를 직접 건드리지 않고, 물그릇의 물을 깨끗하게 갈아주고 주변 오물만 가볍게 치웁니다.
 
 * STEP 2. 낮: 깊은 수면을 돕는 정적 및 암실 환경 유지: 낮 동안 긴 수면 시간을 충분히 확보할 수 있도록 케이지 주변에 시끄러운 가전 기기 사용을 자제하고 그늘막을 쳐줍니다.
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. 골든 햄스터 (Golden Hamster)의 몸짓 언어와 바디 시그널
+## 2. 골든 햄스터 (Mesocricetus auratus)의 몸짓 언어와 바디 시그널
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ faqs:
 
 ---
 
-## 3. 골든 햄스터 (Golden Hamster) 맞춤형 3단계 홈케어 루틴
+## 3. 골든 햄스터 (Mesocricetus auratus) 맞춤형 3단계 홈케어 루틴
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

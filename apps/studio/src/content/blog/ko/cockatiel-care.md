@@ -5,7 +5,7 @@ description: "사교적이고 머리 벼슬(우관)이 매력적인 왕관앵무
 pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","왕관앵무 (Cockatiel)"]
+tags: ["반려동물","펫케어","왕관앵무 (Nymphicus hollandicus / Cockatiel)"]
 heroImage: "/images/blog/cockatiel_care.png"
 app: "petself"
 formatVersion: 4
@@ -13,11 +13,11 @@ authority: "Association of Avian Veterinarians (AAV) & Avian Behavior Advisory S
 steps:
   - name: "왕관앵무의 기분 언어: 우관(벼슬)의 세밀한 신호와 긁기 표현"
     text: "왕관앵무 머리의 우관(Crest)은 기분과 경계 상태를 알려주는 안테나입니다. 우관이 머리에 바짝 붙어있을 때와 수직으로 곧게 섰을 때의 의미가 완전히 다르며, 머리를 푹 숙이고 목을 내밀 때는 깊은 신뢰의 표현입니다."
-  - name: "왕관앵무 (Cockatiel)의 몸짓 언어와 바디 시그널"
+  - name: "왕관앵무 (Nymphicus hollandicus / Cockatiel)의 몸짓 언어와 바디 시그널"
     text: "* 우관 바짝 세우기 & 수평 유지 (Fully Erect Crest): 주변 환경에 강한 호기심을 느끼거나 새로운 소리/물체에 긴장하여 유심히 경계하고 있는 상태입니다. (갑자기 손을 가져다 대지 말고 잔잔한 목소리로 대화하며 앵무새가 상황을 안전하게 파악하도록 기다려 줍니다.)
 
 * 머리 숙이고 목 내밀기 (Head Lowering for Scratches): 보호자에게 깊은 친밀감을 느끼며 머리와 뺨 주변(우관 뿌리)을 부드럽게 긁어달라는 애정 표현입니다. (손가락 끝으로 깃결의 반대 방향이나 뺨의 주황색 깃털 부위를 살살 다정하게 긁어줍니다.)"
-  - name: "왕관앵무 (Cockatiel) 맞춤형 3단계 홈케어 루틴"
+  - name: "왕관앵무 (Nymphicus hollandicus / Cockatiel) 맞춤형 3단계 홈케어 루틴"
     text: "* STEP 1. 아침: 자연광 환기, 깃털 청결 점검 및 신선한 펠릿 급여: 아침 덮개를 개봉한 후 펠릿 사료와 깨끗한 물을 교체하고, 깃털 손상이나 눈곱이 없는지 비행 상태를 살핍니다.
 
 * STEP 2. 낮: 새장 밖 자유 비행(방사) 및 아크릴 씹기 장난감 상호작용: 창문과 펜슬을 닫고 안전이 확보된 방에서 최소 1 - 2시간 자유 비행을 시키며 먹이 탐색 장난감(Foraging Toy)을 제공합니다.
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. 왕관앵무 (Cockatiel)의 몸짓 언어와 바디 시그널
+## 2. 왕관앵무 (Nymphicus hollandicus / Cockatiel)의 몸짓 언어와 바디 시그널
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ faqs:
 
 ---
 
-## 3. 왕관앵무 (Cockatiel) 맞춤형 3단계 홈케어 루틴
+## 3. 왕관앵무 (Nymphicus hollandicus / Cockatiel) 맞춤형 3단계 홈케어 루틴
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

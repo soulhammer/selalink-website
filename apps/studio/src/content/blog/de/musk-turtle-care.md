@@ -1,24 +1,24 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "Beinstrecken der Gewöhnlichen Moschusschildkröte und 3-Schritt-Wasserfiltrationsroutine"
+title: "Beinstrecken der Gewöhnlichen Moschusschildkröte und tägliche 3-Schritt-Wasserfiltrationsroutine"
 description: "Pflege für die beliebte Gewöhnliche Moschusschildkröte. Lernen Sie die Bedeutung des Beinstreckens beim Basking kennen und beugen Sie Panzererkrankungen mit einer 3-Schritt-Filtrationsroutine vor."
 pubDate: "2026-04-03"
 updatedDate: "2026-04-03"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Gewöhnliche Moschusschildkröte (Common Musk Turtle)"]
+tags: ["Haustierpflege","Haustiergesundheit","Gewöhnliche Moschusschildkröte (Sternotherus odoratus / Common Musk Turtle)"]
 heroImage: "/images/blog/musk_turtle_care.png"
 app: "petself"
 formatVersion: 4
-authority: "Basking-Richtlinien der Gewöhnlichen Moschusschildkröte der World Chelonian Association"
+authority: "Basking-Richtlinien der World Chelonian Association und Klinisches Protokoll für Wasserschildkröten"
 steps:
   - name: "Basking-Signale der Moschusschildkröte und Einziehen in den Panzer"
-    text: "Gewöhnliche Moschusschildkröten strecken beim Sonnenbaden ihre Hinterbeine nach hinten 'Beinstrecken (Back-Leg Stretching)', um die Lichtabsorption zu maximieren. Bei Bedrohung oder Vibration ziehen sie Kopf und Gliedmaßen in ihren harten Panzer zurück 'Einziehen in den Panzer (Shell Retraction)', um sich zu verteidigen."
-  - name: "Gewöhnliche Moschusschildkröte (Common Musk Turtle)'s Body Language & Signals"
+    text: "Gewöhnliche Moschusschildkröten strecken beim Sonnenbaden ihre Hinterbeine nach hinten 'Beinstrecken' (Back-Leg Stretching), um die Lichtabsorption zu maximieren, wenn sie völlig entspannt sind. Bei Bedrohung oder Vibration ziehen sie Kopf und Gliedmaßen in ihren harten Panzer zurück 'Einziehen in den Panzer' (Shell Retraction), um sich zu verteidigen."
+  - name: "Gewöhnliche Moschusschildkröte (Sternotherus odoratus / Common Musk Turtle)'s Body Language & Signals"
     text: "* Hinterbeine strecken (Back-Leg Stretching): Ein entspannter Zustand unter der UV-Lampe, Gliedmaßen strecken, um Wärme aufzunehmen und die Haut zu trocknen. (Vermeiden Sie es, sie zu erschrecken, damit sie nicht ins Wasser springen. Überwachen Sie die Lampentemperatur aus der Ferne.)
 
 * Kopf und Beine einziehen (Shell Retraction): Ein Zustand der Wachsamkeit, erschrocken durch Schatten, Bewegungen von oben oder Vibrationen. (Vermeiden Sie plötzliche Bewegungen vor dem Becken und treten Sie zurück, bis sie sich sicher genug fühlen, um herauszugucken.)"
   - name: "Customized 3-Step Home Care Routine"
-    text: "* STEP 1. Morgen: Wassertemperaturkontrolle und ausgewogene Fütterung: Überprüfen Sie das Wassertemperatur (bei 25-28 °C halten) und füttern Sie altersgerechte kommerzielle Schildkrötenpellets.
+    text: "* STEP 1. Morgen: Wassertemperaturkontrolle (25-28 °C) und ausgewogene Fütterung: Überprüfen Sie die Wassertemperatur (bei 25-28 °C halten) zur Anregung des Stoffwechsels und füttern Sie altersgerechte kommerzielle Schildkrötenpellets.
 
 * STEP 2. Nachmittag: Überprüfung der Basking-Lampe und UV-B-Birnen: Prüfen Sie, ob UV-B- und Wärme-Basking-Lampen ordnungsgemäß funktionieren, um der metabolischen Knochenerkrankung (MBD) vorzubeugen.
 
@@ -27,10 +27,10 @@ faqs:
   - question: "Ist es sicher, das Schildkrötenbecken direkt mit Leitungswasser zu füllen?"
     answer: "Nein. Chlor im Leitungswasser reizt die empfindlichen Augen und die Haut der Schildkröte, was zu Trockenheit oder Schwellungen führt. Verwenden Sie 24 Stunden abgestandenes Wasser oder Entchlorungstropfen."
   - question: "Ist es normal, dass sich die Panzerschilder meiner Schildkröte abschälen?"
-    answer: "Ja. Wenn Schildkröten wachsen, häuten sie alte Panzerschilder ab, die sich als dünne, durchsichtige Platten ablösen. Wenn Sie jedoch weißen schleimigen Ausfluss oder einen weichen, stinkenden Panzer feststellen, ist dies ein Zeichen für Panzerfäule und muss tierärztlich behandelt werden."
+    answer: "Ja. Wenn Schildkröten wachsen, häuten sie alte Panzerschilder ab, die sich als dünne, durchsichtige Platten ablösen ('Schilderhäutung'). Wenn Sie jedoch weißen schleimigen Ausfluss oder einen weichen, stinkenden Panzer feststellen, ist dies ein Zeichen für Panzerfäule und muss tierärztlich behandelt werden."
 ---
 
-Die kompakte Gewöhnliche Moschusschildkröte ist ideal für Anfänger. Obwohl sie die meiste Zeit im Wasser verbringt, ist regelmäßiges trockenes Sonnenbaden unter einer UV-Lampe für die Panzerdesinfektion, Vitamin-D-Synthese und Aufrechterhaltung der Körpertemperatur unerlässlich. Schlechte Wasserqualität und mangelndes trockenes Sonnenbaden können zu schmerzhafter Panzerfäule (Shell Rot) führen. Heute auf PetSelf erklären wir die Basking-Körpersprache, Warnzeichen und eine 3-Schritt-Beckenroutine für kristallklares Wasser.
+Die kompakte Gewöhnliche Moschusschildkröte ist aufgrund ihrer Robustheit ideal für Anfänger. Obwohl sie die meiste Zeit im Wasser verbringt, ist regelmäßiges trockenes Sonnenbaden unter einer UV-Lampe für die Panzerdesinfektion, Vitamin-D-Synthese und Aufrechterhaltung der Körpertemperatur unerlässlich. Schlechte Wasserqualität und mangelndes trockenes Sonnenbaden können zu schmerzhafter Panzerfäule (Shell Rot) führen. Heute auf PetSelf erklären wir die Basking-Körpersprache, Warnzeichen und eine 3-Schritt-Beckenroutine für kristallklares Wasser.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -39,7 +39,7 @@ Die kompakte Gewöhnliche Moschusschildkröte ist ideal für Anfänger. Obwohl s
       Veterinärmedizinische & verhaltensbedingte Nachweise
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Dieser Inhalt basiert auf <strong>Basking-Richtlinien der Gewöhnlichen Moschusschildkröte der World Chelonian Association</strong>.
+      Dieser Inhalt basiert auf <strong>Basking-Richtlinien der World Chelonian Association und Klinisches Protokoll für Wasserschildkröten</strong>.
     </p>
   </div>
 </div>
@@ -54,13 +54,13 @@ Die kompakte Gewöhnliche Moschusschildkröte ist ideal für Anfänger. Obwohl s
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Basking-Signale der Moschusschildkröte und Einziehen in den Panzer</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Gewöhnliche Moschusschildkröten strecken beim Sonnenbaden ihre Hinterbeine nach hinten 'Beinstrecken (Back-Leg Stretching)', um die Lichtabsorption zu maximieren. Bei Bedrohung oder Vibration ziehen sie Kopf und Gliedmaßen in ihren harten Panzer zurück 'Einziehen in den Panzer (Shell Retraction)', um sich zu verteidigen.
+    Gewöhnliche Moschusschildkröten strecken beim Sonnenbaden ihre Hinterbeine nach hinten 'Beinstrecken' (Back-Leg Stretching), um die Lichtabsorption zu maximieren, wenn sie völlig entspannt sind. Bei Bedrohung oder Vibration ziehen sie Kopf und Gliedmaßen in ihren harten Panzer zurück 'Einziehen in den Panzer' (Shell Retraction), um sich zu verteidigen.
   </p>
 </div>
 
 ---
 
-## 2. Gewöhnliche Moschusschildkröte (Common Musk Turtle)'s Body Language & Signals
+## 2. Gewöhnliche Moschusschildkröte (Sternotherus odoratus / Common Musk Turtle)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -91,10 +91,10 @@ Die kompakte Gewöhnliche Moschusschildkröte ist ideal für Anfänger. Obwohl s
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Morgen: Wassertemperaturkontrolle und ausgewogene Fütterung</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Morgen: Wassertemperaturkontrolle (25-28 °C) und ausgewogene Fütterung</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Überprüfen Sie das Wassertemperatur (bei 25-28 °C halten) und füttern Sie altersgerechte kommerzielle Schildkrötenpellets.
+    Überprüfen Sie die Wassertemperatur (bei 25-28 °C halten) zur Anregung des Stoffwechsels und füttern Sie altersgerechte kommerzielle Schildkrötenpellets.
   </p>
 </div>
 
@@ -143,7 +143,7 @@ Die kompakte Gewöhnliche Moschusschildkröte ist ideal für Anfänger. Obwohl s
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Ja. Wenn Schildkröten wachsen, häuten sie alte Panzerschilder ab, die sich als dünne, durchsichtige Platten ablösen. Wenn Sie jedoch weißen schleimigen Ausfluss oder einen weichen, stinkenden Panzer feststellen, ist dies ein Zeichen für Panzerfäule und muss tierärztlich behandelt werden.
+      Ja. Wenn Schildkröten wachsen, häuten sie alte Panzerschilder ab, die sich als dünne, durchsichtige Platten ablösen ('Schilderhäutung'). Wenn Sie jedoch weißen schleimigen Ausfluss oder einen weichen, stinkenden Panzer feststellen, ist dies ein Zeichen für Panzerfäule und muss tierärztlich behandelt werden.
     </p>
   </details>
 </div>

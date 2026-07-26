@@ -1,20 +1,20 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "Guide de protection articulaire du Munchkin et routine de 3 étapes à faible hauteur"
-description: "Prendre soin du chat Munchkin aux pattes courtes. Apprenez à identifier les signes de douleur articulaire et préservez sa mobilité."
+title: "Guide de protection articulaire du chat Munchkin et routine quotidienne en 3 étapes à faible hauteur"
+description: "Soins du chat Munchkin aux pattes courtes. Apprenez à détecter les signes d'inconfort articulaire et à prévenir l'arthrose et les hernies discales grâce à une routine en 3 étapes."
 pubDate: "2026-05-31"
 updatedDate: "2026-05-31"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Munchkin (Munchkin Cat)"]
+tags: ["SoinAnimaux","SanteAnimaux","Chat Munchkin (Felis catus)"]
 heroImage: "/images/blog/munchkin_care.png"
 app: "petself"
 formatVersion: 4
 authority: "Standard du Munchkin de la Cat Fanciers' Association (CFA) et Directives d'Orthopédie Vétérinaire"
 steps:
-  - name: "Signes d'inconfort du Munchkin : position de kangourou et hésitation au saut"
-    text: "En raison de leurs pattes courtes, les Munchkins ont des habitudes posturales uniques. Se dresser sur leurs pattes arrière (position de kangourou) est une attitude naturelle pour observer. En revanche, hésiter de longues secondes ou refuser de sauter sur un meuble bas est un signal de douleur articulaire."
-  - name: "Munchkin (Munchkin Cat)'s Body Language & Signals"
-    text: "* Position du kangourou: Se tenir droit sur ses pattes arrière pour élargir son champ de vision, un comportement courant pour compenser sa petite taille. (Placez des tapis antidérapants pour éviter les glissades fatigantes pour ses hanches lors de cette posture.)
+  - name: "Signes d'inconfort du Munchkin : Position de kangourou et hésitation au saut"
+    text: "En raison de leurs pattes courtes, les Munchkins ont des habitudes posturales uniques. Se dresser sur leurs pattes arrière « Position du kangourou » (Kangaroo Standing) est une attitude naturelle pour observer. En revanche, « hésiter longuement ou renoncer à sauter » sur un meuble bas est un signal clair de douleur articulaire."
+  - name: "Chat Munchkin (Felis catus)'s Body Language & Signals"
+    text: "* Position du kangourou (Kangaroo Standing): Se tenir droit sur ses pattes arrière pour élargir son champ de vision, un comportement courant pour compenser sa petite taille. (Placez des tapis antidérapants pour éviter les glissades fatigantes pour ses hanches lors de cette posture.)
 
 * Hésitation ou refus de sauter: Le chat regarde en hauteur, piétine mais refuse de sauter, ce qui témoigne d'une douleur ou d'une fragilité articulaire. (Ne le forcez jamais à sauter. Installez des rampes d'accès ou des petits escaliers et consultez un vétérinaire.)"
   - name: "Customized 3-Step Home Care Routine"
@@ -46,26 +46,26 @@ Les chats Munchkin séduisent par leur tempérament affectueux et leurs petites 
 
 ---
 
-## 1. Signes d'inconfort du Munchkin : position de kangourou et hésitation au saut
+## 1. Signes d'inconfort du Munchkin : Position de kangourou et hésitation au saut
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Signes d'inconfort du Munchkin : position de kangourou et hésitation au saut</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Signes d'inconfort du Munchkin : Position de kangourou et hésitation au saut</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    En raison de leurs pattes courtes, les Munchkins ont des habitudes posturales uniques. Se dresser sur leurs pattes arrière (position de kangourou) est une attitude naturelle pour observer. En revanche, hésiter de longues secondes ou refuser de sauter sur un meuble bas est un signal de douleur articulaire.
+    En raison de leurs pattes courtes, les Munchkins ont des habitudes posturales uniques. Se dresser sur leurs pattes arrière « Position du kangourou » (Kangaroo Standing) est une attitude naturelle pour observer. En revanche, « hésiter longuement ou renoncer à sauter » sur un meuble bas est un signal clair de douleur articulaire.
   </p>
 </div>
 
 ---
 
-## 2. Munchkin (Munchkin Cat)'s Body Language & Signals
+## 2. Chat Munchkin (Felis catus)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Signal Corporel 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Position du kangourou</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Position du kangourou (Kangaroo Standing)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• Signification:</strong> Se tenir droit sur ses pattes arrière pour élargir son champ de vision, un comportement courant pour compenser sa petite taille.<br/>

@@ -1,22 +1,22 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "怒れるマルチーズ？関節と目の健康のための3段階プロテクトルーティン"
-description: "日本や韓国で大人気のマルチーズ。遺伝的に弱い膝蓋骨脱臼の予防法と、涙やけケアのための3段階デイリールーティンを紹介します。"
+description: "大人気のマルチーズ。遺伝的に弱い膝蓋骨脱臼の予防法と、涙やけケアのための3段階デイリールーティンを紹介します。"
 pubDate: "2026-01-20"
 updatedDate: "2026-01-22"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","マルチーズ"]
+tags: ["ペットケア","ペット健康","マルチーズ (Canis lupus familiaris / Maltese)"]
 heroImage: "/images/blog/maltese_care.png"
 app: "petself"
 formatVersion: 4
 authority: "アメリカンケネルクラブ(AKC)公式犬種ガイド＆IAABC行動学プロトコル"
 steps:
   - name: "マルチーズのボディランゲージ：ストレスと安定のサイン"
-    text: "マルチーズは飼い主への依存度が高い分、心理的な不安を静かにしぐさで表します。代表的なカーミングシグナルは「鼻舐め」と「あくび」です。緊張したり不慣れな環境に置かれた時、鼻をペロリと舐めたりあくびをする行動は、眠いからではなく自分を落ち着かせ、周囲に「敵意はないから脅かさないで」と伝える平和のサインです。この時に無理なスキンシップを続けるとストレスが高まるため、一歩引いて見守ることが大切です。"
-  - name: "マルチーズ's Body Language & Signals"
+    text: "マルチーズは飼い主への依存度が高い分、心理的な不安を静かにしぐさで表します。代表的なカーミングシグナルは「鼻舐め（Nose Licking）」と「あくび（Yawning）」です。緊張したり不慣れな環境に置かれた時、鼻をペロリと舐めたりあくびをする行動は、眠いからではなく自分を落ち着かせ、周囲に「敵意はないから脅かさないで」と伝える平和のサインです。この時に無理なスキンシップを続けるとストレスが高まるため、一歩引いて見守ることが大切です。"
+  - name: "マルチーズ (Canis lupus familiaris / Maltese)'s Body Language & Signals"
     text: "* あくび (Yawning): 眠いからではなく、自分と相手を落ち着かせる「落ち着いて」の意思表示です。 (トレーニングや爪切りの途中にあくびをしたら、すぐに中止して静かな空間を提供してください。)
 
-* 鼻舐め (Nose Licking): 現在の環境が気まずく、不安を感じているサインです。 (抱っこしたり近づいた時にこのサインが出たら、過度な接触をやめ、少し距離を置いてください。)"
+* 鼻舐め (Nose Licking): 現在の環境が気まずく、不安を感じている自制のサインです。 (抱っこしたり近づいた時にこのサインが出たら、過度な接触をやめ、少し距離を置いてください。)"
   - name: "Customized 3-Step Home Care Routine"
     text: "* STEP 1. 朝：滑り止め環境の点検と関節ストレッチ: 朝起きてペット用マットがずれていないか確認し、軽いストレッチの際、後ろ足の関節部位を優しくマッサージして固まった筋肉をほぐします。足裏の肉球が毛で隠れていないか確認することも必須です。
 
@@ -34,7 +34,7 @@ faqs:
 
 しかし、マルチーズの飼い主なら誰しも直面する2つの遺伝的悩みがあります。1つは膝の骨がずれる膝蓋骨脱臼（パテラ）、もう1つは白い顔に赤い跡を残し皮膚炎を起こしやすい涙やけ（涙管閉塞）です。これらは日常のルーティンが一生の健康を左右します。
 
-本日、PetSelfではマルチーズのボディランゲージを理解し、関節と目を保護する科学的な3段階ルーティンを紹介します。
+本日PetSelfでは、マルチーズのボディランゲージを理解し、関節と目を保護する科学的な3段階ルーティンを紹介します。
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -58,13 +58,13 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">マルチーズのボディランゲージ：ストレスと安定のサイン</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    マルチーズは飼い主への依存度が高い分、心理的な不安を静かにしぐさで表します。代表的なカーミングシグナルは「鼻舐め」と「あくび」です。緊張したり不慣れな環境に置かれた時、鼻をペロリと舐めたりあくびをする行動は、眠いからではなく自分を落ち着かせ、周囲に「敵意はないから脅かさないで」と伝える平和のサインです。この時に無理なスキンシップを続けるとストレスが高まるため、一歩引いて見守ることが大切です。
+    マルチーズは飼い主への依存度が高い分、心理的な不安を静かにしぐさで表します。代表的なカーミングシグナルは「鼻舐め（Nose Licking）」と「あくび（Yawning）」です。緊張したり不慣れな環境に置かれた時、鼻をペロリと舐めたりあくびをする行動は、眠いからではなく自分を落ち着かせ、周囲に「敵意はないから脅かさないで」と伝える平和のサインです。この時に無理なスキンシップを続けるとストレスが高まるため、一歩引いて見守ることが大切です。
   </p>
 </div>
 
 ---
 
-## 2. マルチーズ's Body Language & Signals
+## 2. マルチーズ (Canis lupus familiaris / Maltese)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -83,7 +83,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">鼻舐め (Nose Licking)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• 意味:</strong> 現在の環境が気まずく、不安を感じているサインです。<br/>
+    <strong>• 意味:</strong> 現在の環境が気まずく、不安を感じている自制のサインです。<br/>
     <strong>• 対処法:</strong> 抱っこしたり近づいた時にこのサインが出たら、過度な接触をやめ、少し距離を置いてください。
   </p>
 </div>

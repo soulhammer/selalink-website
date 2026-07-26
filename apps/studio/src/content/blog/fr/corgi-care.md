@@ -1,36 +1,36 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "Soins du Welsh Corgi : Une routine en 3 étapes pour la santé du dos et des articulations"
+title: "Soins du Welsh Corgi : Une routine quotidienne en 3 étapes pour la santé du dos et des articulations"
 description: "Le Welsh Corgi, célèbre pour son derrière mignon et ses pattes courtes. Découvrez une routine en 3 étapes pour prévenir les problèmes de colonne et la luxation de la rotule."
 pubDate: "2026-04-12"
 updatedDate: "2026-04-14"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Welsh Corgi"]
+tags: ["SoinAnimaux","SanteAnimaux","Welsh Corgi (Canis lupus familiaris)"]
 heroImage: "/images/blog/corgi_care.png"
 app: "petself"
 formatVersion: 4
-authority: "Guide officiel du Pembroke Welsh Corgi Club of America et directives de santé de l'AKC"
+authority: "Guide officiel du Pembroke Welsh Corgi Club of America et Directives de Santé Canines de l'AKC"
 steps:
-  - name: "Langage corporel du Corgi : signaux du dos et des émotions"
-    text: "Comme les Corgis ont des queues très courtes, ils utilisent tout leur corps et leurs hanches pour s'exprimer. Les signaux typiques incluent le 'remuement de fesses' quand ils sont joyeux et le 'splooting' (s'étirer avec les pattes arrière à plat) quand ils sont détendus. Ces expressions physiques sont des indicateurs du confort articulaire et de la régulation thermique, aidant à évaluer leur fatigue."
-  - name: "Welsh Corgi's Body Language & Signals"
-    text: "* Remuement de fesses: Un état de joie extrême et d'excitation positive exprimé par les Corgis à queue courte. (Accueillez-le avec affection et calmez-le pour éviter qu'il ne saute sur le canapé d'excitation.)
+  - name: "Langage corporel du Corgi : Signaux du dos et des émotions"
+    text: "Comme les Corgis ont des queues très courtes ou coupées, ils utilisent tout leur corps et leurs hanches pour s'exprimer. Les signaux typiques incluent le 'remuement de fesses' (Wiggle Butt) quand ils sont joyeux et le 'splooting' (s'étirer avec les pattes arrière à plat) quand ils sont détendus. Ces expressions physiques sont des indicateurs du confort articulaire et de la régulation thermique, aidant à évaluer leur fatigue."
+  - name: "Welsh Corgi (Canis lupus familiaris)'s Body Language & Signals"
+    text: "* Remuement de fesses (Wiggle Butt): Un état de joie extrême et d'excitation positive exprimé par les Corgis à queue courte avec tout le bas du corps. (Accueillez-le avec affection et calmez-le avec douceur pour éviter qu'il ne saute sur le canapé sous le coup de l'excitation.)
 
 * Splooting: Un signal de relaxation pour refroidir la température corporelle sur un sol frais et soulager les articulations. (Il se repose confortablement. Ne le dérangez pas et assurez-lui un environnement calme.)"
   - name: "Customized 3-Step Home Care Routine"
-    text: "* STEP 1. Matin : Fixation du tapis anti-glisse et étirement des pattes arrière: Leur dos long les rendant sujets aux hernies discales, fixez les tapis près du canapé et faites un étirement doux des cuisses pendant 2 minutes le matin.
+    text: "* STEP 1. Matin : Fixation du tapis anti-glisse et étirement des pattes arrière: Leur dos long les rendant sujets aux hernies discales, fixez les tapis près du canapé et du lit, puis faites un étirement doux des cuisses pendant 2 minutes le matin.
 
-* STEP 2. Après-midi : Promenade de 30 min sur terrain plat avec harnais et pistage: Utilisez un harnais corporel plutôt qu'un collier pour réduire la tension sur le dos. Marchez sur terrain plat et évitez les escaliers pendant 30 min.
+* STEP 2. Après-midi : Promenade de 30 min sur terrain plat avec harnais et pistage: Utilisez un harnais corporel plutôt qu'un collier pour réduire la tension sur le cou et le dos. Marchez sur terrain plat en évitant les escaliers pendant 30 min.
 
-* STEP 3. Soir : Brossage du sous-poil et massage de relaxation du dos: Brossez leur double pelage pour enlever le poil mort et massez doucement les muscles le long de la colonne pour soulager la fatigue."
+* STEP 3. Soir : Brossage du sous-poil et massage de relaxation du dos: Brossez leur double pelage pour enlever le poil mort pour aérer la peau, et massez doucement les muscles le long de la colonne en petits cercles pour soulager la fatigue."
 faqs:
   - question: "Pourquoi les Corgis ne doivent-ils pas sauter des lits ou canapés ?"
-    answer: "En raison de leur dos long et de leurs pattes courtes, la réception d'un saut exerce un impact trois fois supérieur sur leur dos et leurs genoux, provoquant des hernies. Des escaliers pour chiens sont essentiels."
+    answer: "En raison de leur dos long et de leurs pattes courtes, la réception d'un saut exerce un impact trois fois supérieur sur leur dos et leurs genoux par rapport aux autres chiens. Cela provoque directement des hernies discales ou des luxations, rendant les escaliers pour chiens indispensables."
   - question: "Comment gérer la perte de poils du Welsh Corgi ?"
-    answer: "Le Corgi a un pelage double qui perd beaucoup de poils. Brossez quotidiennement avec une brosse carde pour enlever le sous-poil mort et éviter les infections de la peau."
+    answer: "Le Corgi a un pelage double qui perd énormément de poils. Brossez quotidiennement en alternant carde (slicker) et peigne démêleur pour enlever le sous-poil mort et éviter les dermatites."
 ---
 
-Le Welsh Corgi est une race adorée pour ses pattes courtes et son derrière rebondi. Anciens chiens de berger, ils sont intelligents, actifs et audacieux. Cependant, leur dos long et leurs pattes courtes exercent une forte pression sur la colonne et les articulations. L'obésité augmente le risque de hernie discale. Aujourd'hui, PetSelf étudie leur langage corporel et présente une routine en 3 étapes pour protéger leur dos et leurs rotules.
+Le Welsh Corgi est une race adorée pour ses pattes courtes et son derrière rebondi. Anciens chiens de berger, ils possèdent une grande intelligence, une énergie débordante et un caractère audacieux. Cependant, leur dos long et leurs pattes courtes exercent une forte pression structurelle sur la colonne et les articulations. L'obésité augmente drastiquement le risque de hernie discale. Aujourd'hui, PetSelf étudie leur langage corporel et présente una routine en 3 étapes pour protéger leur dos et leurs rotules.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -39,37 +39,37 @@ Le Welsh Corgi est une race adorée pour ses pattes courtes et son derrière reb
       Preuves Vétérinaires et Comportementales
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Ce contenu est basé sur <strong>Guide officiel du Pembroke Welsh Corgi Club of America et directives de santé de l'AKC</strong>.
+      Ce contenu est basé sur <strong>Guide officiel du Pembroke Welsh Corgi Club of America et Directives de Santé Canines de l'AKC</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 1. Langage corporel du Corgi : signaux du dos et des émotions
+## 1. Langage corporel du Corgi : Signaux du dos et des émotions
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Langage corporel du Corgi : signaux du dos et des émotions</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Langage corporel du Corgi : Signaux du dos et des émotions</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Comme les Corgis ont des queues très courtes, ils utilisent tout leur corps et leurs hanches pour s'exprimer. Les signaux typiques incluent le 'remuement de fesses' quand ils sont joyeux et le 'splooting' (s'étirer avec les pattes arrière à plat) quand ils sont détendus. Ces expressions physiques sont des indicateurs du confort articulaire et de la régulation thermique, aidant à évaluer leur fatigue.
+    Comme les Corgis ont des queues très courtes ou coupées, ils utilisent tout leur corps et leurs hanches pour s'exprimer. Les signaux typiques incluent le 'remuement de fesses' (Wiggle Butt) quand ils sont joyeux et le 'splooting' (s'étirer avec les pattes arrière à plat) quand ils sont détendus. Ces expressions physiques sont des indicateurs du confort articulaire et de la régulation thermique, aidant à évaluer leur fatigue.
   </p>
 </div>
 
 ---
 
-## 2. Welsh Corgi's Body Language & Signals
+## 2. Welsh Corgi (Canis lupus familiaris)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Signal Corporel 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Remuement de fesses</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Remuement de fesses (Wiggle Butt)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Signification:</strong> Un état de joie extrême et d'excitation positive exprimé par les Corgis à queue courte.<br/>
-    <strong>• Reponse:</strong> Accueillez-le avec affection et calmez-le pour éviter qu'il ne saute sur le canapé d'excitation.
+    <strong>• Signification:</strong> Un état de joie extrême et d'excitation positive exprimé par les Corgis à queue courte avec tout le bas du corps.<br/>
+    <strong>• Reponse:</strong> Accueillez-le avec affection et calmez-le avec douceur pour éviter qu'il ne saute sur le canapé sous le coup de l'excitation.
   </p>
 </div>
 
@@ -94,7 +94,7 @@ Le Welsh Corgi est une race adorée pour ses pattes courtes et son derrière reb
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Matin : Fixation du tapis anti-glisse et étirement des pattes arrière</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Leur dos long les rendant sujets aux hernies discales, fixez les tapis près du canapé et faites un étirement doux des cuisses pendant 2 minutes le matin.
+    Leur dos long les rendant sujets aux hernies discales, fixez les tapis près du canapé et du lit, puis faites un étirement doux des cuisses pendant 2 minutes le matin.
   </p>
 </div>
 
@@ -104,7 +104,7 @@ Le Welsh Corgi est une race adorée pour ses pattes courtes et son derrière reb
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Après-midi : Promenade de 30 min sur terrain plat avec harnais et pistage</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Utilisez un harnais corporel plutôt qu'un collier pour réduire la tension sur le dos. Marchez sur terrain plat et évitez les escaliers pendant 30 min.
+    Utilisez un harnais corporel plutôt qu'un collier pour réduire la tension sur le cou et le dos. Marchez sur terrain plat en évitant les escaliers pendant 30 min.
   </p>
 </div>
 
@@ -114,7 +114,7 @@ Le Welsh Corgi est une race adorée pour ses pattes courtes et son derrière reb
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Soir : Brossage du sous-poil et massage de relaxation du dos</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Brossez leur double pelage pour enlever le poil mort et massez doucement les muscles le long de la colonne pour soulager la fatigue.
+    Brossez leur double pelage pour enlever le poil mort pour aérer la peau, et massez doucement les muscles le long de la colonne en petits cercles pour soulager la fatigue.
   </p>
 </div>
 
@@ -133,7 +133,7 @@ Le Welsh Corgi est une race adorée pour ses pattes courtes et son derrière reb
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      En raison de leur dos long et de leurs pattes courtes, la réception d'un saut exerce un impact trois fois supérieur sur leur dos et leurs genoux, provoquant des hernies. Des escaliers pour chiens sont essentiels.
+      En raison de leur dos long et de leurs pattes courtes, la réception d'un saut exerce un impact trois fois supérieur sur leur dos et leurs genoux par rapport aux autres chiens. Cela provoque directement des hernies discales ou des luxations, rendant les escaliers pour chiens indispensables.
     </p>
   </details>
 
@@ -143,7 +143,7 @@ Le Welsh Corgi est une race adorée pour ses pattes courtes et son derrière reb
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Le Corgi a un pelage double qui perd beaucoup de poils. Brossez quotidiennement avec une brosse carde pour enlever le sous-poil mort et éviter les infections de la peau.
+      Le Corgi a un pelage double qui perd énormément de poils. Brossez quotidiennement en alternant carde (slicker) et peigne démêleur pour enlever le sous-poil mort et éviter les dermatites.
     </p>
   </details>
 </div>

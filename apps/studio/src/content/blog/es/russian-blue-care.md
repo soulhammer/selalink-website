@@ -1,22 +1,22 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "Refugio seguro y generación de confianza: rutina de 3 pasos para el Azul Ruso"
+title: "Refugio seguro y generación de confianza: Rutina diaria de 3 pasos para el Azul Ruso"
 description: "Los Azules Rusos son tímidos y sensibles al ruido. Aprenda a crear una zona segura sin estrés y una rutina de 3 pasos para ganarse su confianza."
 pubDate: "2026-03-26"
 updatedDate: "2026-03-26"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Azul Ruso"]
+tags: ["CuidadoMascotas","SaludMascotas","Azul Ruso (Felis catus / Russian Blue)"]
 heroImage: "/images/blog/russian_blue_care.png"
 app: "petself"
 formatVersion: 4
-authority: "Guía de razas de la Cat Fanciers' Association (CFA) y Cornell Feline Health Center"
+authority: "Guía de Razas de la Cat Fanciers' Association (CFA) y Cornell Feline Health Center"
 steps:
-  - name: "Lenguaje corporal del Azul Ruso: lectura de las señales de pánico"
-    text: "Debido a su naturaleza gentil, los Azules Rusos muestran señales de advertencia en silencio. Las señales clave incluyen 'pupilas dilatadas' y 'encogerse' (crouching). Si escucha un ruido o se acerca un extraño, sus pupilas se dilatan. Si aplasta su cuerpo contra el suelo y aplana las orejas hacia los lados, experimenta un miedo extremo y se prepara para huir."
-  - name: "Azul Ruso's Body Language & Signals"
-    text: "* Pupilas dilatadas: Una respuesta física que indica que están muy alertas, tensos o asustados. (Atenúe las luces e interrumpa de inmediato la fuente de estimulación (ruido de electrodomésticos).)
+  - name: "Lenguaje corporal del Azul Ruso: Lectura de las señales de pánico"
+    text: "Debido a su naturaleza gentil, los Azules Rusos muestran señales de advertencia en silencio. Las señales clave incluyen 'pupilas dilatadas' (Dilated Pupils) y 'encogerse' (Crouching). Si escucha un ruido o se acerca un extraño, sus pupilas se dilatan. Si aplasta su cuerpo contra el suelo y aplana las orejas hacia los lados, experimenta un miedo extremo y se prepara para huir."
+  - name: "Azul Ruso (Felis catus / Russian Blue)'s Body Language & Signals"
+    text: "* Pupilas dilatadas (Dilated Pupils): Una respuesta física que indica que están muy alertas, tensos o asustados por estímulos. (Atenúe las luces e interrumpa de inmediato la fuente de estimulación (ruido de electrodomésticos).)
 
-* Encogerse: Una señal de pánico defensivo, que muestra que se sienten acorralados o aterrorizados. (No lo obligue al contacto físico. Permítale retirarse a una habitación o armario silencioso.)"
+* Encogerse (Crouching): Una señal de pánico defensivo, que muestra que se sienten acorralados o aterrorizados. (No lo obligue al contacto físico. Permítale retirarse a una habitación o armario silencioso.)"
   - name: "Customized 3-Step Home Care Routine"
     text: "* STEP 1. Mañana: Rutina de seguridad en arenero y comedero: Limpie el arenero temprano. Asegúrese de que sus platos de comida y agua estén en un rincón tranquilo lejos del paso de la gente.
 
@@ -39,36 +39,36 @@ Los Azules Rusos son felinos conocidos por su pelaje azul plateado y sus ojos ve
       Evidencia Veterinaria y Comportamental
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Este contenido se basa en <strong>Guía de razas de la Cat Fanciers' Association (CFA) y Cornell Feline Health Center</strong>.
+      Este contenido se basa en <strong>Guía de Razas de la Cat Fanciers' Association (CFA) y Cornell Feline Health Center</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 1. Lenguaje corporal del Azul Ruso: lectura de las señales de pánico
+## 1. Lenguaje corporal del Azul Ruso: Lectura de las señales de pánico
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Lenguaje corporal del Azul Ruso: lectura de las señales de pánico</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Lenguaje corporal del Azul Ruso: Lectura de las señales de pánico</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Debido a su naturaleza gentil, los Azules Rusos muestran señales de advertencia en silencio. Las señales clave incluyen 'pupilas dilatadas' y 'encogerse' (crouching). Si escucha un ruido o se acerca un extraño, sus pupilas se dilatan. Si aplasta su cuerpo contra el suelo y aplana las orejas hacia los lados, experimenta un miedo extremo y se prepara para huir.
+    Debido a su naturaleza gentil, los Azules Rusos muestran señales de advertencia en silencio. Las señales clave incluyen 'pupilas dilatadas' (Dilated Pupils) y 'encogerse' (Crouching). Si escucha un ruido o se acerca un extraño, sus pupilas se dilatan. Si aplasta su cuerpo contra el suelo y aplana las orejas hacia los lados, experimenta un miedo extremo y se prepara para huir.
   </p>
 </div>
 
 ---
 
-## 2. Azul Ruso's Body Language & Signals
+## 2. Azul Ruso (Felis catus / Russian Blue)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Señal Corporal 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pupilas dilatadas</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pupilas dilatadas (Dilated Pupils)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Significado:</strong> Una respuesta física que indica que están muy alertas, tensos o asustados.<br/>
+    <strong>• Significado:</strong> Una respuesta física que indica que están muy alertas, tensos o asustados por estímulos.<br/>
     <strong>• Respuesta:</strong> Atenúe las luces e interrumpa de inmediato la fuente de estimulación (ruido de electrodomésticos).
   </p>
 </div>
@@ -76,7 +76,7 @@ Los Azules Rusos son felinos conocidos por su pelaje azul plateado y sus ojos ve
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Señal Corporal 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Encogerse</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Encogerse (Crouching)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• Significado:</strong> Una señal de pánico defensivo, que muestra que se sienten acorralados o aterrorizados.<br/>

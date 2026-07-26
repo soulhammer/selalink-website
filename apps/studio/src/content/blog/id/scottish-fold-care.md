@@ -1,9 +1,9 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Masalah Genetik di Balik Kelucuan: Perawatan 3 Langkah Sendi dan Telinga Scottish Fold"
-description: "Scottish Fold, terkenal dengan telinga terlipat. Mereka rentan terhadap nyeri sendi genetik dan infeksi telinga. Temukan rutinitas 3 langkah untuk perawatan sendi dan telinga."
+description: "Terkenal dengan telinga terlipat yang menggemaskan, Scottish Fold rentan secara genetik terhadap nyeri sendi kronis dan infeksi telinga. Pelajari pemasangan matras pelindung dan rutinitas harian 3 langkah."
 pubDate: "2026-02-10"
-updatedDate: "2026-02-12"
+updatedDate: "2026-07-26"
 category: "FreshSelf"
 tags: ["PerawatanHewan","KesehatanHewan","Scottish Fold"]
 heroImage: "/images/blog/scottish_fold_care.png"
@@ -12,29 +12,29 @@ formatVersion: 4
 authority: "Protokol Kartilago Herediter ISFM (International Society of Feline Medicine) & Pedoman Ras GCCF"
 steps:
   - name: "Bahasa Tubuh Fold: Posisi Buddha dan Menyelipkan Ekor"
-    text: "Scottish Fold menggunakan postur unik untuk mengelola nyeri sendi genetik. Indikator utama meliputi 'posisi Buddha' and 'menyelipkan ekor'. Duduk tegak dengan kaki terentang (posisi Buddha) adalah postur istirahat untuk meringankan tekanan berat pada tulang belakang. Menurunkan ekor atau menyelipkannya memperingatkan bahwa sendi ekor kaku atau nyeri. Hindari menyentuh bagian itu."
+    text: "Scottish Fold menggunakan postur tubuh yang unik untuk mengatasi nyeri sendi genetik. Dua sinyal peringatan utama adalah 'posisi Buddha' dan 'menurunkan/menyelipkan ekor'. Duduk tegak di atas pinggul dengan punggung bersandar dan kaki terentang ke depan (posisi Buddha) bukanlah trik lucu, melainkan postur istirahat naluriah untuk menyebarkan beban tubuh dan meringankan tekanan pada sendi kaki yang kaku. Menurunkan ekor atau menyembunyikannya di antara kaki belakang menandakan bahwa tulang ekor mulai kaku dan sakit. Hindari menyentuh punggung bawah atau ekor saat melihat posisi ini."
   - name: "Scottish Fold's Body Language & Signals"
-    text: "* Posisi Buddha: Postur naluriah untuk membagi berat badan dan mengurangi rasa sakit akibat penyakit tulang rawan genetik. (Jangan paksa mereka mengubah postur. Letakkan bantal empuk di belakang mereka untuk menopang punggung.)
+    text: "* Posisi Buddha (Buddha Position): Postur naluriah untuk membagi beban berat badan guna mengurangi rasa sakit sendi akibat penyakit tulang rawan genetik. (Jangan paksa mereka mengubah posisi. Letakkan bantal empuk di belakang punggung mereka untuk menopang tubuh dengan nyaman.)
 
-* Menyelipkan Ekor: Sinyal pertahanan yang menunjukkan bahwa sendi ekor mereka kaku atau sakit, menolak sentuhan. (Segera hentikan menyentuh ekor atau punggung bawah mereka, dan arahkan ke bantalan yang nyaman.)"
+* Menyelipkan / Menurunkan Ekor: Sinyal pertahanan diri yang menunjukkan kekakuan atau rasa sakit pada tulang ekor, menolak sentuhan pada area tersebut. (Segera hentikan sentuhan pada ekor dan punggung bawah, lalu arahkan kucing ke matras yang empuk dan nyaman.)"
   - name: "Customized 3-Step Home Care Routine"
-    text: "* STEP 1. Pagi: Analisis Gaya Berjalan dan Suplemen Tulang Rawan: Perhatikan gaya berjalan mereka selama 30 detik saat bangun tidur untuk memeriksa apakah pincang. Berikan suplemen sendi (glukosamin, MSM) pada pagi hari.
+    text: "* STEP 1. Pagi: Analisis Gaya Berjalan dan Suplemen Tulang Rawan: Perhatikan gaya berjalan mereka selama 30 detik saat bangun tidur untuk mengecek apakah ada kepincangan atau kekakuan. Berikan suplemen pelindung sendi (glukosamin, kondroitin, MSM, Omega-3) yang dicampur ke dalam makanan pagi.
 
-* STEP 2. Siang: Pemeriksaan Saluran Telinga dan Pembersihan Ventilasi Mingguan: Telinga terlipat menahan kelembapan. Jangan gunakan cotton bud. Teteskan pembersih telinga, pijat lembut, lalu seka kotoran di luar dengan kapas.
+* STEP 2. Siang: Pemeriksaan Saluran Telinga dan Pembersihan Mingguan: Telinga terlipat menahan kelembapan karena kurangnya sirkulasi udara. Dilarang keras menggunakan cotton bud di dalam saluran telinga. Teteskan cairan pembersih khusus kucing, pijat lembut pangkal telinga, biarkan kucing mengibaskan kepalanya, lalu seka kotoran di luar dengan kapas bersih.
 
-* STEP 3. Malam: Pemasangan Bantalan Lantai Penyerap Benturan dan Bermain Santai: Melompat menyebabkan nyeri tulang rawan. Letakkan matras penyerap benturan, dan bermainlah di lantai tanpa melibatkan lompatan atau putaran tajam."
+* STEP 3. Malam: Pemasangan Matras Peredam Benturan dan Bermain Santai: Melompat turun dari furnitur memberikan tekanan keras pada tulang rawan yang kaku. Pasang matras peredam benturan di area pendaratan, dan ajak bermain di lantai tanpa lompatan tinggi atau putaran tajam."
 faqs:
   - question: "Apakah 'posisi Buddha' Scottish Fold yang menyerupai manusia merupakan tanda nyeri?"
-    answer: "Ya. Duduk tegak dengan kaki terentang ke depan adalah respons naluriah untuk membagi berat badan, meringankan tekanan dan nyeri pada sendi kaki mereka yang kaku."
-  - question: "Mengapa tidak boleh menggunakan cotton bud untuk membersihkan telinga Fold?"
-    answer: "Struktur telinga terlipat membuat saluran telinga sempit dan bengkok. Cotton bud dapat mendorong kotoran lebih dalam dan merusak kulit sensitif, memicu infeksi parah."
+    answer: "Ya, benar sekali. Duduk dengan pinggul menempel di lantai dan kaki terentang ke depan adalah respons naluriah untuk membagi beban tubuh, mengurangi tekanan dan nyeri pada sendi kaki serta pergelangan yang meradang."
+  - question: "Mengapa cotton bud tidak boleh digunakan untuk membersihkan telinga Fold?"
+    answer: "Struktur telinga yang terlipat membuat saluran telinga sempit dan melengkung. Menggunakan cotton bud akan mendorong kotoran semakin dalam dan berisiko melukai kulit dalam yang sensitif, memicu infeksi telinga parah."
 ---
 
-Scottish Fold memikat hati dengan telinga terlipat dan mata bulat seperti burung hantu. Mereka memiliki sifat lembut dan menyukai persahabatan yang tenang di samping pemiliknya. 🐈
+Scottish Fold memikat hati pecinta kucing di seluruh dunia dengan telinga yang terlipat ke depan, mata bulat besar, dan penampilan menggemaskan bak burung hantu atau beruang kecil. Mereka memiliki sifat tenang, lembut, dan senang berada di dekat pemiliknya. 🐈
 
-Namun, gen yang bertanggung jawab atas telinga terlipat mereka juga membawa risiko kondisi genetik parah yang disebut Osteochondrodysplasia (penyakit kartilago herediter). Ini menyebabkan tulang rawan sendi mereka mengeras, menyebabkan nyeri kronis. Selain itu, telinga yang terlipat membatasi sirkulasi udara, memicu infeksi.
+Namun, di balik daya tarik telinga terlipat tersebut, terdapat penyakit genetik serius yang disebut Osteochondrodysplasia (penyakit kartilago herediter). Gen yang bertanggung jawab melipat tulang rawan telinga juga memengaruhi perkembangan tulang dan sendi di seluruh tubuh, menyebabkan kekakuan dan nyeri kronis pada kaki serta ekor. Selain itu, bentuk telinga terlipat menghalangi sirkulasi udara alami, menyebabkan kelembapan menumpuk sehingga mudah memicu kutu telinga dan otitis eksterna (infeksi telinga kronis).
 
-Hari ini, PetSelf menguraikan sinyal nyeri sendi Scottish Fold dan menjelaskan rutinitas perawatan 3 langkah untuk perlindungan sendi dan telinga.
+Hari ini, PetSelf menguraikan sinyal tubuh saat Scottish Fold mengalami nyeri dan membagikan rutinitas perawatan 3 langkah untuk meminimalkan benturan sendi serta menjaga kebersihan telinga.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -58,7 +58,7 @@ Hari ini, PetSelf menguraikan sinyal nyeri sendi Scottish Fold dan menjelaskan r
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Bahasa Tubuh Fold: Posisi Buddha dan Menyelipkan Ekor</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Scottish Fold menggunakan postur unik untuk mengelola nyeri sendi genetik. Indikator utama meliputi 'posisi Buddha' and 'menyelipkan ekor'. Duduk tegak dengan kaki terentang (posisi Buddha) adalah postur istirahat untuk meringankan tekanan berat pada tulang belakang. Menurunkan ekor atau menyelipkannya memperingatkan bahwa sendi ekor kaku atau nyeri. Hindari menyentuh bagian itu.
+    Scottish Fold menggunakan postur tubuh yang unik untuk mengatasi nyeri sendi genetik. Dua sinyal peringatan utama adalah 'posisi Buddha' dan 'menurunkan/menyelipkan ekor'. Duduk tegak di atas pinggul dengan punggung bersandar dan kaki terentang ke depan (posisi Buddha) bukanlah trik lucu, melainkan postur istirahat naluriah untuk menyebarkan beban tubuh dan meringankan tekanan pada sendi kaki yang kaku. Menurunkan ekor atau menyembunyikannya di antara kaki belakang menandakan bahwa tulang ekor mulai kaku dan sakit. Hindari menyentuh punggung bawah atau ekor saat melihat posisi ini.
   </p>
 </div>
 
@@ -69,22 +69,22 @@ Hari ini, PetSelf menguraikan sinyal nyeri sendi Scottish Fold dan menjelaskan r
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Sinyal Tubuh 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Posisi Buddha</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Posisi Buddha (Buddha Position)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Arti:</strong> Postur naluriah untuk membagi berat badan dan mengurangi rasa sakit akibat penyakit tulang rawan genetik.<br/>
-    <strong>• Tindakan:</strong> Jangan paksa mereka mengubah postur. Letakkan bantal empuk di belakang mereka untuk menopang punggung.
+    <strong>• Arti:</strong> Postur naluriah untuk membagi beban berat badan guna mengurangi rasa sakit sendi akibat penyakit tulang rawan genetik.<br/>
+    <strong>• Tindakan:</strong> Jangan paksa mereka mengubah posisi. Letakkan bantal empuk di belakang punggung mereka untuk menopang tubuh dengan nyaman.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Sinyal Tubuh 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Menyelipkan Ekor</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Menyelipkan / Menurunkan Ekor</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Arti:</strong> Sinyal pertahanan yang menunjukkan bahwa sendi ekor mereka kaku atau sakit, menolak sentuhan.<br/>
-    <strong>• Tindakan:</strong> Segera hentikan menyentuh ekor atau punggung bawah mereka, dan arahkan ke bantalan yang nyaman.
+    <strong>• Arti:</strong> Sinyal pertahanan diri yang menunjukkan kekakuan atau rasa sakit pada tulang ekor, menolak sentuhan pada area tersebut.<br/>
+    <strong>• Tindakan:</strong> Segera hentikan sentuhan pada ekor dan punggung bawah, lalu arahkan kucing ke matras yang empuk dan nyaman.
   </p>
 </div>
 
@@ -98,27 +98,27 @@ Hari ini, PetSelf menguraikan sinyal nyeri sendi Scottish Fold dan menjelaskan r
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pagi: Analisis Gaya Berjalan dan Suplemen Tulang Rawan</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Perhatikan gaya berjalan mereka selama 30 detik saat bangun tidur untuk memeriksa apakah pincang. Berikan suplemen sendi (glukosamin, MSM) pada pagi hari.
+    Perhatikan gaya berjalan mereka selama 30 detik saat bangun tidur untuk mengecek apakah ada kepincangan atau kekakuan. Berikan suplemen pelindung sendi (glukosamin, kondroitin, MSM, Omega-3) yang dicampur ke dalam makanan pagi.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Siang: Pemeriksaan Saluran Telinga dan Pembersihan Ventilasi Mingguan</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Siang: Pemeriksaan Saluran Telinga dan Pembersihan Mingguan</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Telinga terlipat menahan kelembapan. Jangan gunakan cotton bud. Teteskan pembersih telinga, pijat lembut, lalu seka kotoran di luar dengan kapas.
+    Telinga terlipat menahan kelembapan karena kurangnya sirkulasi udara. Dilarang keras menggunakan cotton bud di dalam saluran telinga. Teteskan cairan pembersih khusus kucing, pijat lembut pangkal telinga, biarkan kucing mengibaskan kepalanya, lalu seka kotoran di luar dengan kapas bersih.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Malam: Pemasangan Bantalan Lantai Penyerap Benturan dan Bermain Santai</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Malam: Pemasangan Matras Peredam Benturan dan Bermain Santai</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Melompat menyebabkan nyeri tulang rawan. Letakkan matras penyerap benturan, dan bermainlah di lantai tanpa melibatkan lompatan atau putaran tajam.
+    Melompat turun dari furnitur memberikan tekanan keras pada tulang rawan yang kaku. Pasang matras peredam benturan di area pendaratan, dan ajak bermain di lantai tanpa lompatan tinggi atau putaran tajam.
   </p>
 </div>
 
@@ -137,17 +137,17 @@ Hari ini, PetSelf menguraikan sinyal nyeri sendi Scottish Fold dan menjelaskan r
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Ya. Duduk tegak dengan kaki terentang ke depan adalah respons naluriah untuk membagi berat badan, meringankan tekanan dan nyeri pada sendi kaki mereka yang kaku.
+      Ya, benar sekali. Duduk dengan pinggul menempel di lantai dan kaki terentang ke depan adalah respons naluriah untuk membagi beban tubuh, mengurangi tekanan dan nyeri pada sendi kaki serta pergelangan yang meradang.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Mengapa tidak boleh menggunakan cotton bud untuk membersihkan telinga Fold?</span>
+      <span>Mengapa cotton bud tidak boleh digunakan untuk membersihkan telinga Fold?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Struktur telinga terlipat membuat saluran telinga sempit dan bengkok. Cotton bud dapat mendorong kotoran lebih dalam dan merusak kulit sensitif, memicu infeksi parah.
+      Struktur telinga yang terlipat membuat saluran telinga sempit dan melengkung. Menggunakan cotton bud akan mendorong kotoran semakin dalam dan berisiko melukai kulit dalam yang sensitif, memicu infeksi telinga parah.
     </p>
   </details>
 </div>

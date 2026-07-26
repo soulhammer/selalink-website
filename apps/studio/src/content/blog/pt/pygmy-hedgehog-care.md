@@ -1,32 +1,32 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "Ungimento do ouriço-cacheiro pigmeu africano e rotina de cuidado térmico de 3 passos"
-description: "Cuidado do ouriço-cacheiro pigmeu africano. Compreenda os seus comportamentos únicos de ungir-se com saliva espumosa e mantenha uma temperatura óptima de 24-26 °C com a nossa rotina de 3 passos segura para o inverno."
+title: "Ungimento do Ouriço-Cacheiro Pigmeu Africano e rotina diária de cuidado térmico de 3 passos"
+description: "Cuidado do ouriço-cacheiro pigmeu africano. Compreenda os seus comportamentos únicos de ungir-se com saliva espumosa e mantenha uma temperatura ótima de 24-26 °C com a nossa rotina de 3 passos."
 pubDate: "2026-05-21"
 updatedDate: "2026-05-21"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Ouriço-Cacheiro Pigmeu Africano (African Pygmy Hedgehog)"]
+tags: ["CuidadoPets","SaudePets","Ouriço-Cacheiro Pigmeu Africano (Atelerix albiventris / African Pygmy Hedgehog)"]
 heroImage: "/images/blog/pygmy_hedgehog_care.png"
 app: "petself"
 formatVersion: 4
-authority: "Diretrizes da Hedgehog Welfare Society e Protocolos Veterinários de Animais Exóticos"
+authority: "Diretrizes da Hedgehog Welfare Society e Protocolos Veterinários de Medicina de Animais Exóticos"
 steps:
-  - name: "Instintos do ouriço-cacheiro pigmeu: espuma de autoungimento e defesa com espinhos"
-    text: "Quando os ouriços pigmeus africanos provam ou cheiram algo novo, criam saliva espumosa e aplicam-na nos seus espinhos, um processo chamado 'Autoungimento (Self-Anointing)'. Este é um comportamento normal para camuflar o seu cheiro. Pelo contrário, quando se assustam, curvam-se numa bola apertada e sibilam para advertir que não se lhes toque."
-  - name: "Ouriço-Cacheiro Pigmeu Africano (African Pygmy Hedgehog)'s Body Language & Signals"
-    text: "* Autoungimento (Self-Anointing): Um instinto selvagem inofensivo para registar e recobrir os seus espinhos com novos cheiros ambientais. (Não os interrompa nem o confunda com uma doença. Deixe que se sintam confortáveis com o cheiro de forma natural.)
+  - name: "Instintos do ouriço-cacheiro pigmeu: Espuma de autoungimento e defesa com espinhos"
+    text: "Quando os ouriços pigmeus africanos provam ou cheiram algo novo, criam saliva espumosa e aplicam-na nos seus espinhos, um processo chamado 'Autoungimento' (Self-Anointing). Este é um comportamento normal para camuflar o seu cheiro. Pelo contrário, quando se assustam, curvam-se numa bola apertada e sibilam 'Sibilos' (Hissing) para advertir que não se lhes toque."
+  - name: "Ouriço-Cacheiro Pigmeu Africano (Atelerix albiventris / African Pygmy Hedgehog)'s Body Language & Signals"
+    text: "* Autoungimento (Self-Anointing): Um instinto selvagem inofensivo para registrar e recobrir os seus espinhos com novos cheiros ambientais. (Não os interrompa nem o confunda com uma doença. Deixe que se sintam confortáveis com o cheiro de forma natural.)
 
-* Sibilo e curvado em bola (Hissing/Ball-up): Um modo defensivo que indica medo severo, levantando espinhos para bloquear qualquer contacto físico. (Evite tentar manipulá-los com as mãos nuas. Cúbra-os com uma manta de feltro suave para criar um refúgio escuro.)"
+* Sibilo e curvado em bola (Hissing/Ball-up): Um modo defensivo que indica medo severo, levantando espinhos para bloquear qualquer contacto físico. (Evite tentar manipulá-los com as mãos nuas. Cubra-os com uma manta de feltro suave para criar um refúgio escuro.)"
   - name: "Customized 3-Step Home Care Routine"
-    text: "* STEP 1. Manhã: Lavagem de rodas de exercício e pratos sujos: Dado que os ouriços tendem a defecar enquanto correm na sua roda, limpie e desinfete a roda e os pratos todas as manhãs.
+    text: "* STEP 1. Manhã: Lavagem de rodas de exercício e pratos sujos: Dado que os ouriços tendem a defecar enquanto correm na sua roda, limpe e desinfete a roda e os pratos todas as manhãs.
 
 * STEP 2. Tarde: Manter a temperatura do quarto entre 24 e 26 °C: Previna a baixa temperatura corporal e a hibernação revendo as almofadas térmicas e os termostatos digitais com regularidade.
 
-* STEP 3. Noite: Alimentação com dieta insectívora alta em proteínas e controlo de patas: Proporcione ração à base de insetos de alta qualidade e reveja as suas patas para detetar feridas causadas por correr na roda."
+* STEP 3. Noite: Alimentação com dieta insectívora alta em proteínas e controlo de patas: Proporcione ração à base de insetos de alta qualidade e reveja as suas patas com lanterna para detectar feridas causadas por correr na roda."
 faqs:
-  - question: "¿Quais são os sinais de aviso de hipotermia ou hibernação nos ouriços?"
-    answer: "Se têm demasiado frio, deitam-se sobre o seu ventre, têm dificuldades para caminhar e mostram-se letárgicos. Envolva-os numa toalha morna imediatamente, coloque-os num quarto quente e procure atenção veterinária."
-  - question: "¿Os ouriços necessitam de brinquedos para mastigar?"
+  - question: "Quais são os sinais de aviso de hipotermia ou hibernação nos ouriços?"
+    answer: "Se têm demasiado frio, deitam-se sobre o seu ventre, têm dificuldades para caminhar e mostram-se letárgicos. Envolva-os numa toalha morna imediatamente, coloque-os num quarto quente para reaquecimento gradual e procure atenção veterinária."
+  - question: "Os ouriços necessitam de brinquedos para mastigar?"
     answer: "Ao contrário dos roedores, os dentes dos ouriços não crescem continuamente. Não necessitam de brinquedos para mastigar, e os objetos duros podem fraturar os seus dentes. Evite ração excessivamente dura."
 ---
 
@@ -39,28 +39,28 @@ O ouriço-cacheiro pigmeu africano é um animal de estimação exótico fascinan
       Evidência Veterinária e Comportamental
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Este conteúdo baseia-se em <strong>Diretrizes da Hedgehog Welfare Society e Protocolos Veterinários de Animais Exóticos</strong>.
+      Este conteúdo baseia-se em <strong>Diretrizes da Hedgehog Welfare Society e Protocolos Veterinários de Medicina de Animais Exóticos</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 1. Instintos do ouriço-cacheiro pigmeu: espuma de autoungimento e defesa com espinhos
+## 1. Instintos do ouriço-cacheiro pigmeu: Espuma de autoungimento e defesa com espinhos
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Instintos do ouriço-cacheiro pigmeu: espuma de autoungimento e defesa com espinhos</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Instintos do ouriço-cacheiro pigmeu: Espuma de autoungimento e defesa com espinhos</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Quando os ouriços pigmeus africanos provam ou cheiram algo novo, criam saliva espumosa e aplicam-na nos seus espinhos, um processo chamado 'Autoungimento (Self-Anointing)'. Este é um comportamento normal para camuflar o seu cheiro. Pelo contrário, quando se assustam, curvam-se numa bola apertada e sibilam para advertir que não se lhes toque.
+    Quando os ouriços pigmeus africanos provam ou cheiram algo novo, criam saliva espumosa e aplicam-na nos seus espinhos, um processo chamado 'Autoungimento' (Self-Anointing). Este é um comportamento normal para camuflar o seu cheiro. Pelo contrário, quando se assustam, curvam-se numa bola apertada e sibilam 'Sibilos' (Hissing) para advertir que não se lhes toque.
   </p>
 </div>
 
 ---
 
-## 2. Ouriço-Cacheiro Pigmeu Africano (African Pygmy Hedgehog)'s Body Language & Signals
+## 2. Ouriço-Cacheiro Pigmeu Africano (Atelerix albiventris / African Pygmy Hedgehog)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -68,7 +68,7 @@ O ouriço-cacheiro pigmeu africano é um animal de estimação exótico fascinan
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Autoungimento (Self-Anointing)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Significado:</strong> Um instinto selvagem inofensivo para registar e recobrir os seus espinhos com novos cheiros ambientais.<br/>
+    <strong>• Significado:</strong> Um instinto selvagem inofensivo para registrar e recobrir os seus espinhos com novos cheiros ambientais.<br/>
     <strong>• Resposta:</strong> Não os interrompa nem o confunda com uma doença. Deixe que se sintam confortáveis com o cheiro de forma natural.
   </p>
 </div>
@@ -80,7 +80,7 @@ O ouriço-cacheiro pigmeu africano é um animal de estimação exótico fascinan
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• Significado:</strong> Um modo defensivo que indica medo severo, levantando espinhos para bloquear qualquer contacto físico.<br/>
-    <strong>• Resposta:</strong> Evite tentar manipulá-los com as mãos nuas. Cúbra-os com uma manta de feltro suave para criar um refúgio escuro.
+    <strong>• Resposta:</strong> Evite tentar manipulá-los com as mãos nuas. Cubra-os com uma manta de feltro suave para criar um refúgio escuro.
   </p>
 </div>
 
@@ -94,7 +94,7 @@ O ouriço-cacheiro pigmeu africano é um animal de estimação exótico fascinan
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Manhã: Lavagem de rodas de exercício e pratos sujos</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Dado que os ouriços tendem a defecar enquanto correm na sua roda, limpie e desinfete a roda e os pratos todas as manhãs.
+    Dado que os ouriços tendem a defecar enquanto correm na sua roda, limpe e desinfete a roda e os pratos todas as manhãs.
   </p>
 </div>
 
@@ -114,7 +114,7 @@ O ouriço-cacheiro pigmeu africano é um animal de estimação exótico fascinan
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noite: Alimentação com dieta insectívora alta em proteínas e controlo de patas</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Proporcione ração à base de insetos de alta qualidade e reveja as suas patas para detetar feridas causadas por correr na roda.
+    Proporcione ração à base de insetos de alta qualidade e reveja as suas patas com lanterna para detectar feridas causadas por correr na roda.
   </p>
 </div>
 
@@ -129,17 +129,17 @@ O ouriço-cacheiro pigmeu africano é um animal de estimação exótico fascinan
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>¿Quais são os sinais de aviso de hipotermia ou hibernação nos ouriços?</span>
+      <span>Quais são os sinais de aviso de hipotermia ou hibernação nos ouriços?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Se têm demasiado frio, deitam-se sobre o seu ventre, têm dificuldades para caminhar e mostram-se letárgicos. Envolva-os numa toalha morna imediatamente, coloque-os num quarto quente e procure atenção veterinária.
+      Se têm demasiado frio, deitam-se sobre o seu ventre, têm dificuldades para caminhar e mostram-se letárgicos. Envolva-os numa toalha morna imediatamente, coloque-os num quarto quente para reaquecimento gradual e procure atenção veterinária.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>¿Os ouriços necessitam de brinquedos para mastigar?</span>
+      <span>Os ouriços necessitam de brinquedos para mastigar?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">

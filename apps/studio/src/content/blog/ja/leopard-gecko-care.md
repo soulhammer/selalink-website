@@ -5,15 +5,15 @@ description: "人気のヒョウモントカゲモドキ(レオパ)。しっぽ�
 pubDate: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","ヒョウモントカゲモドキ (Leopard Gecko)"]
+tags: ["ペットケア","ペット健康","ヒョウモントカゲモドキ (Eublepharis macularius / Leopard Gecko)"]
 heroImage: "/images/blog/leopard_gecko_care.png"
 app: "petself"
 formatVersion: 4
-authority: "爬虫類・両生類獣医師協会 (ARAV) 飼育ガイドライン"
+authority: "爬虫類・両生類獣医師協会 (ARAV) 飼育ガイドラインおよび臨床標準"
 steps:
   - name: "ヒョウモントカゲモドキのボディランゲージ：しっぽの動きと脱皮前兆の解読"
     text: "ぷっくりとした尾は栄養の貯蔵庫であり、感情を伝えるアンテナです。威嚇のためのゆっくりとした尾振りと、給餌時の喜びの振りを区別することが重要です。"
-  - name: "ヒョウモントカゲモドキ (Leopard Gecko)'s Body Language & Signals"
+  - name: "ヒョウモントカゲモドキ (Eublepharis macularius / Leopard Gecko)'s Body Language & Signals"
     text: "* 尾を高く上げてゆっくり左右に振る (Slow Tail Waving): 強い警戒を感じ、「攻撃するぞ」と相手を威嚇している緊急警戒状態です。 (ハンドリングを直ちに中止し、手をゆっくり引き、トカゲが落ち着くまで静かに見守ります。)
 
 * 体色が白くくすみ目をこする (Pre-Shedding Signal): 古い皮が剥がれ始める脱皮直前のサインで、皮膚が乾燥し非常に繊細になっています。 (湿性シェルター内の水苔やキッチンペーパーをぬるま湯で湿らせ、湿度を70%以上に高めます。)"
@@ -39,7 +39,7 @@ faqs:
       獣医学・行動学的根拠
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      本コンテンツは、<strong>爬虫類・両生類獣医師協会 (ARAV) 飼育ガイドライン</strong>に基づいています。
+      本コンテンツは、<strong>爬虫類・両生類獣医師協会 (ARAV) 飼育ガイドラインおよび臨床標準</strong>に基づいています。
     </p>
   </div>
 </div>
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. ヒョウモントカゲモドキ (Leopard Gecko)'s Body Language & Signals
+## 2. ヒョウモントカゲモドキ (Eublepharis macularius / Leopard Gecko)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

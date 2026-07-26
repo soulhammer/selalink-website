@@ -5,18 +5,18 @@ description: "Pflegeanleitung für Nymphensittiche. Haubensprache verstehen, Nig
 pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Nymphensittich (Cockatiel)"]
+tags: ["Haustierpflege","Haustiergesundheit","Nymphensittich (Nymphicus hollandicus / Cockatiel)"]
 heroImage: "/images/blog/cockatiel_care.png"
 app: "petself"
 formatVersion: 4
 authority: "Association of Avian Veterinarians (AAV) & Verhaltensempfehlungen"
 steps:
   - name: "Kommunikation des Nymphensittichs: Die Sprache der Haube"
-    text: "Die Haube verrät die Stimmung des Vogels. Steht sie steil aufgerichtet, ist er wachsam; neigt er den Kopf, fordert er Kraulneinheiten ein."
-  - name: "Nymphensittich (Cockatiel)'s Body Language & Signals"
+    text: "Die Haube verrät die Stimmung des Vogels. Steht sie steil aufgerichtet, ist er wachsam; neigt er den Kopf, fordert er Krauleinheiten ein."
+  - name: "Nymphensittich (Nymphicus hollandicus / Cockatiel)'s Body Language & Signals"
     text: "* Steil Aufgerichtete Haube (Fully Erect Crest): Hohe Aufmerksamkeit, Neugier oder Skepsis gegenüber neuen Reizen im Raum. (Ruhig sprechen und keine hastigen Bewegungen machen, bis sich der Vogel beruhigt hat.)
 
-* Gesenkter Kopf und Vorgebeugter Nacken (Head Lowering): Großes Vertrauen und die Bitte um Kraulen an den Wangen und am Hinterkopf. (Sanft entgegen der Federrichtung an den Wangenfedern kraulen.)"
+* Gesenkter Kopf und Vorgebeugter Nacken (Head Lowering for Scratches): Großes Vertrauen und die Bitte um Kraulen an den Wangen und am Hinterkopf. (Sanft entgegen der Federrichtung an den Wangenfedern kraulen.)"
   - name: "Customized 3-Step Home Care Routine"
     text: "* STEP 1. Morgen: Lüften, Gefiedercheck und Frisches Pelletergänzungsfutter: Käfig abdecken, frisches Wasser und Pellets anbieten sowie das Flugverhalten beobachten.
 
@@ -54,13 +54,13 @@ Der Nymphensittich mit seinen roten Bäckchen und der eleganten Haube gehört zu
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Kommunikation des Nymphensittichs: Die Sprache der Haube</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Die Haube verrät die Stimmung des Vogels. Steht sie steil aufgerichtet, ist er wachsam; neigt er den Kopf, fordert er Kraulneinheiten ein.
+    Die Haube verrät die Stimmung des Vogels. Steht sie steil aufgerichtet, ist er wachsam; neigt er den Kopf, fordert er Krauleinheiten ein.
   </p>
 </div>
 
 ---
 
-## 2. Nymphensittich (Cockatiel)'s Body Language & Signals
+## 2. Nymphensittich (Nymphicus hollandicus / Cockatiel)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -76,7 +76,7 @@ Der Nymphensittich mit seinen roten Bäckchen und der eleganten Haube gehört zu
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Körpersignal 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Gesenkter Kopf und Vorgebeugter Nacken (Head Lowering)</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Gesenkter Kopf und Vorgebeugter Nacken (Head Lowering for Scratches)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• Bedeutung:</strong> Großes Vertrauen und die Bitte um Kraulen an den Wangen und am Hinterkopf.<br/>

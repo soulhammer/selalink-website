@@ -8,55 +8,55 @@
         "description": "Caring for the active and intelligent Bengal cat. Learn to understand their high-energy body language and support their play needs with a 3-step daily routine.",
         "authority": "The International Cat Association (TICA) Bengal Breed Guide and Feline Behavioral Medicine Standards",
         "profile": {
-          "breed": "Bengal Cat",
+          "breed": "Bengal Cat (Prionailurus bengalensis × Felis catus)",
           "lifespan": "12 - 16 Years",
           "sleep_pattern": "12 - 15 Hours (Crepuscular - Highly Active Mornings & Evenings)",
           "temperament": "Active, Intelligent, Affectionate, Energetic, Curious"
         },
-        "intro": "Bengal cats are beloved for their beautiful leopard-like spots and wild appearance. However, as descendants of Asian leopard cats, they possess an extraordinary amount of athletic energy and sharp intelligence. If their stimulation needs are unmet, they can quickly display stress-related behaviors like vocalizing loudly, scratching furniture, or climbing walls. Today, PetSelf decodes Bengal body language indicating pent-up energy and shares a 3-step homecare routine to satisfy their curiosity and physical needs.",
+        "intro": "Bengal cats are beloved for their beautiful leopard-like spots and wild appearance, carrying the heritage of Asian leopard cats. They possess an extraordinary amount of athletic energy and sharp intelligence. If their physical stimulation and mental curiosity needs are unmet, they can display stress-related behaviors like vocalizing loudly, scratching furniture, or climbing walls. Today, PetSelf decodes Bengal body language indicating pent-up energy and shares a 3-step homecare routine to satisfy their curiosity and physical needs.",
         "whyTitle": "Bengal Cat Expressions: Vocal Chirping and Tail Twitching",
         "whyDesc": "Bengal cats are highly communicative and will express their feelings using distinct signals. While normal cats meow to greet, Bengals often produce a bird-like 'chirping' sound to demand play or express boredom. Recognizing these behaviors alongside rapid tail twitching helps you prevent behavioral issues from understimulation.",
         "body_signals": [
           {
             "name": "Chirping & Loud Vocalization",
-            "meaning": "An active request for interaction, indicating they have pent-up energy and need immediate mental or physical play.",
-            "response": "Engage them with toys that mimic prey immediately, and avoid ignoring them to prevent distress."
+            "meaning": "An active request for interaction, indicating they have pent-up energy, are feeling bored, and need immediate mental or physical play.",
+            "response": "Engage them with feather wand toys that mimic prey immediately, and avoid ignoring them to prevent distress."
           },
           {
-            "name": "Rapid Tail Twitching with High Stance",
-            "meaning": "A state of high arousal and excitement, showing they are focused on a target or highly stimulated.",
-            "response": "Provide a high-intensity chase toy like a feather wand or laser pointer to safely burn off this energy."
+            "name": "Rapid Tail Twitching with Raised Rear Stance",
+            "meaning": "A state of high arousal and excitement, showing they are focused on a target or highly stimulated with overflowing energy.",
+            "response": "Provide high-intensity interactive toys like feather wands or laser pointers in an open space to safely burn off this energy."
           }
         ],
         "daily_routine": [
           {
-            "name": "Morning: High-Intensity Interactive Play Session",
-            "text": "Spend 15 minutes using a feather wand or fishing pole toy. Mimic prey movements to trigger their natural hunting instincts."
+            "name": "Morning: High-Intensity Interactive Hunting Play Session",
+            "text": "Spend 15 minutes using a feather wand or fishing pole toy. Mimic swift prey movements to trigger their natural hunting instincts."
           },
           {
             "name": "Afternoon: Vertical Space & Climbing Inspection",
-            "text": "Ensure cat trees and shelves are secure. Clear paths to high window perches to satisfy their need to look down on their territory."
+            "text": "Ensure cat trees and wall shelves are secure. Clear paths to high window perches so they can look down on their territory and observe outside."
           },
           {
             "name": "Evening: Intelligence Stimulation & Food Puzzle Setup",
-            "text": "Place treats inside puzzle feeders. Stimulate their sharp minds before bedtime to prevent midnight zoomies."
+            "text": "Place treats inside puzzle feeders or nosework mats. Stimulate their sharp minds before bedtime to prevent midnight zoomies."
           }
         ],
         "faqs": [
           {
-            "question": "Do Bengal cats like water?",
-            "answer": "Yes, unlike most domestic cats, Bengals have a unique fondness for water. They may try to play with running tap water or even hop into the bathtub. Always supervise them around open water sources."
+            "question": "Do Bengal cats really like water?",
+            "answer": "Yes, unlike most domestic cats, Bengals have a unique fondness for water. They may try to play with running tap water or even hop into the bathtub. Always supervise them around open water sources to prevent accidents."
           },
           {
             "question": "Can Bengals live comfortably in a small apartment?",
-            "answer": "Yes, provided you maximize their vertical space. Tall cat trees, wall shelves, and running wheels are essential to allow them to climb and run in confined environments."
+            "answer": "Yes, provided you maximize their vertical space. Tall cat trees, wall walkways, and cat exercise wheels are essential to allow them to burn physical energy in confined environments."
           }
         ],
         "tags": [
           "Bengal Cat Care",
           "Cat Play Therapy",
           "High Energy Cats",
-          "Cat Enrichment"
+          "Cat Enrichment Toys"
         ]
       },
       "ja": {
@@ -64,388 +64,388 @@
         "description": "非常に活発で知的なベンガル猫のケア。彼らの活動的なボディランゲージを理解し、毎日の3ステップ遊びでストレスを解消させましょう。",
         "authority": "国際猫協会（TICA）ベンガル猫基準および猫の行動医学ガイドライン",
         "profile": {
-          "breed": "ベンガル猫 (Bengal Cat)",
+          "breed": "ベンガル猫 (Prionailurus bengalensis × Felis catus)",
           "lifespan": "12 〜 16年",
           "sleep_pattern": "12 〜 15時間 (薄明薄暮性 - 朝夕に最も活動的)",
           "temperament": "活動的、非常に賢い、甘えん坊、好奇心旺盛"
         },
-        "intro": "レオパード柄の美しいスポットとワイルドな外見で人気のベンガル猫。しかし、アジアンレオパードキャットの血を引く彼らは、非常に高い身体能力と優れた知能を持っています。運動不足や退屈が重なると、大声で鳴き続けたり、家具を引っ掻いたり、壁を駆け上がったりといった問題行動（ストレス行動）を引き起こしやすくなります。今回は、ベンガル猫のエネルギー過剰サインを分析し、知的好奇心と運動欲求を満たす3ステップのホームケアルーチンをご紹介します。",
+        "intro": "レオパード柄の美しいスポットとワイルドな外見で人気のベンガル猫は、アジアンレオパードキャットの血を引いており、非常に高い身体能力と優れた知能を持っています。運動不足や知的好奇心の欠如が重なると、夜昼問わない大声での鳴き声（ハウリング）、家具の破壊、壁を駆け上がるといった極度のストレス行動を引き起こしやすくなります。今回は、ベンガル猫のエネルギー過剰サインを分析し、身体的運動と知的好奇心を同時に満たす3ステップのホームケアルーチンをご紹介します。",
         "whyTitle": "ベンガル猫の感情表現：鳥のような鳴き声と尾の動き",
-        "whyDesc": "ベンガル猫は感情表現が非常に豊かです。普通の猫のようなニャーという鳴き声だけでなく、鳥のさえずりのような「チャープ音（Chirping）」を出して遊びを要求したり、退屈を訴えたりします。尾を激しく振る動きとこれらのシグナルを見極めることで、ストレスによる問題行動を防ぐことができます。",
+        "whyDesc": "ベンガル猫は非常に感情表現が豊かで、明確に意思を伝えます。普通の猫のようなニャーという鳴き声だけでなく、遊びを要求したり退屈を感じたりした際に鳥のさえずりのような**「チャープ音（Chirping）」**を出します。尾を激しく振る動きとこれらのシグナルを見極めることで、ストレスによる問題行動を予防できます。",
         "body_signals": [
           {
             "name": "チャープ音（鳥のようなさえずり）と大声",
-            "meaning": "強い関心や遊びの要求を示しており、退屈していて刺激を求めている状態です。",
-            "response": "獲物に見立てたおもちゃを使ってすぐに遊びを開始し、無視してストレスを与えないようにします。"
+            "meaning": "積極的なコミュニケーションの要求であり、退屈を感じているため精神的・身体的な遊びを開始してほしいというサインです。",
+            "response": "退屈させないよう、羽のおもちゃなどですぐにハンティング遊びを開始し、無視せずに対応することが重要です。"
           },
           {
-            "name": "尾を素早く振りながら高い姿勢をとる",
-            "meaning": "興奮状態や獲物への集中を示しており、エネルギーが満ち溢れているサインです。",
-            "response": "猫じゃらしやレーザーポインターを使い、安全に追いかけっこをさせてエネルギーを消費させます。"
+            "name": "尾を素早く振りながら腰を高く上げる姿勢",
+            "meaning": "獲物に強く集中しているか、溢れ出るエネルギーを抑えきれない極度の興奮状態を示します。",
+            "response": "レーザーポインターや自動おもちゃを活用し、広いスペースで激しく走り回らせて狩猟本能を発散させます。"
           }
         ],
         "daily_routine": [
           {
             "name": "朝：高強度のハンティング遊び",
-            "text": "猫じゃらしや羽のおもちゃを使い、15分間しっかりと遊ばせます。獲物の素早い動きを再現し、狩猟本能を刺激します。"
+            "text": "羽のおもちゃや釣り竿型おもちゃを使い、15分間しっかりと遊ばせます。獲物の素早い動きを再現し、狩猟本能を強力に刺激します。"
           },
           {
-            "name": "昼：上下運動スペースと安全の点検",
-            "text": "キャットタワーやウォールシェルフがぐらつかないか点検します。高い窓辺のスペースを確保し、外を観察できるようにします。"
+            "name": "昼：上下運動スペースの点検と眺望確保",
+            "text": "高い場所を好む特性に合わせ、キャットタワーやウォールシェルフがぐらつかないか点検し、高い窓辺から外を観察できる場所を確保します。"
           },
           {
-            "name": "夜：知育おもちゃによる脳の刺激",
-            "text": "フードパズルやおやつが入る知育玩具をセットします。夜間の突然の大運動会を防ぐため、就寝前に頭を使わせます。"
+            "name": "夜：頭脳を刺激するノーズワークと知育玩具",
+            "text": "フードパズルやおやつを隠す知育玩具を用意して頭脳を使わせます。夜間に突然走り回る（ウダダ）現象を防ぐのに効果的です。"
           }
         ],
         "faqs": [
           {
             "question": "ベンガル猫は本当に水が好きですか？",
-            "answer": "はい。ベンガル猫は水に対する恐怖心が薄く、蛇口から流れる水で遊んだり、風呂場に入ってくることもよくあります。水遊びを好みますが、溺れないよう安全管理はしっかりと行いましょう。"
+            "answer": "はい。一般的な猫とは異なり、ベンガル猫は水に対する恐怖心が薄く、水道から流れる水で遊んだり風呂場に入ってきたりします。水遊び中の事故を防ぐため、常に注意して観察しましょう。"
           },
           {
             "question": "狭いマンションでも飼うことができますか？",
-            "answer": "縦の空間（キャットタワー、キャットウォーク）を十分に確保できれば可能です。また、キャットホイール（猫用ランニングマシン）の導入も効果的です。"
+            "answer": "十分な垂直空間（キャットポール、キャットウォーク）やキャットホイール（猫用ランニングマシン）を用意すれば、狭い室内環境でもしっかりと身体エネルギーを消費させることができます。"
           }
         ],
         "tags": [
           "ベンガル猫",
           "猫の運動不足解消",
           "高エネルギー猫",
-          "知育玩具"
+          "猫用おもちゃ"
         ]
       },
       "zh": {
-        "title": "孟加拉猫能量释放指南与3阶段日常活力流程",
-        "description": "针对活泼且聪明的孟加拉猫（豹猫）护理。解读其高能量行为语言，并通过3阶段日常游戏消解其压力。",
+        "title": "孟加拉猫能量释放指南与3阶段日常活力护理流程",
+        "description": "针对活泼且聪明的孟加拉猫（豹猫）护理。解读其高能量行为语言，并通过3阶段日常游戏消解其 stress 压力。",
         "authority": "国际猫协会 (TICA) 孟加拉猫品种标准与猫科行为医学指导原则",
         "profile": {
-          "breed": "孟加拉猫 (Bengal Cat)",
+          "breed": "孟加拉猫 (Prionailurus bengalensis × Felis catus)",
           "lifespan": "12 ~ 16年",
           "sleep_pattern": "12 ~ 15小时 (晨昏活动性)",
           "temperament": "活跃、聪明、粘人、精力充沛、好奇心强"
         },
-        "intro": "孟加拉猫因其华丽的豹纹和野性外表而受到许多人的喜爱。然而，作为亚洲豹猫的后代，它们拥有惊人的运动天赋和极高的智商。如果不能满足它们的精力和智力需求，它们很容易产生焦虑，表现为持续大声嚎叫、抓挠家具或攀爬墙壁。今天，PetSelf 将分析孟加拉猫精力过剩的焦虑信号，并分享满足其好奇心与运动量的3阶段每日护理流程。",
+        "intro": "孟加拉猫因其华丽的豹纹和野性外表而深受喜爱。作为继承了亚洲豹猫血统的猫咪，它们拥有惊人的运动天赋和极高的智商。如果长期缺乏运动或智力刺激，它们极易产生焦虑，表现为昼夜大声嚎叫、破坏家具或攀爬墙壁等极端应激行为。今天，PetSelf 将为您解析孟加拉猫精力过剩的信号，并分享同时满足其体能消耗与好奇心的3阶段日常活力护理流程。",
         "whyTitle": "孟加拉猫的情感表达：鸟鸣般的叫声与尾巴摆动",
-        "whyDesc": "孟加拉猫非常擅长表达，会用独特的声音与肢体语言传达情绪。它们会发出类似鸟叫的“啁啾声 (Chirping)”来表达无聊或要求游戏。细心解读这些信号以及快速的尾巴摆动，能帮助主人有效预防因精力未得到释放引起的问题行为。",
+        "whyDesc": "孟加拉猫非常擅长交流，能够清晰地传达情绪。除了普通的喵喵叫，它们在要求游戏或感到无聊时，还会发出类似鸟鸣的 **“啁啾声 (Chirping)”**。准确解读这种叫声以及快速摆动尾巴的动作，有助于及时预防因压力引发的问题行为。",
         "body_signals": [
           {
-            "name": "鸟鸣啁啾声与大声嚎叫",
-            "meaning": "要求互动的强烈信号，表明此时它们感到无聊，需要身体或脑力的刺激。",
-            "response": "立即使用逗猫棒等模拟猎物的玩具陪伴游戏，避免冷落引发其焦虑情绪。"
+            "name": "鸟鸣啁啾声 (Chirping) 与大声嚎叫",
+            "meaning": "要求积极互动的强烈信号，表明它们此时正感到无聊，希望立即开启体能或脑力游戏。",
+            "response": "切勿冷落它们，应立即使用羽毛逗猫棒等开启捕猎游戏，消除无聊感。"
           },
           {
-            "name": "高姿态伴随尾巴快速抽动",
-            "meaning": "处于高度兴奋或专注锁定目标的状态，表明能量已经处于饱满状态。",
-            "response": "提供高强度的追逐游戏（如羽毛棒或激光笔），让它们安全地宣泄过剩的精力。"
+            "name": "尾巴快速抽动伴随高耸后躯姿态",
+            "meaning": "处于高度专注锁定目标的状态，或是体内精力过剩无法宣泄的极度兴奋表现。",
+            "response": "利用激光笔或自动玩具，在开阔区域引导其剧烈奔跑，帮助其安全消耗狩猎本能。"
           }
         ],
         "daily_routine": [
           {
-            "name": "早上：高强度模拟狩猎游戏",
-            "text": "抽出15分钟使用逗猫棒或钓竿玩具。模仿猎物的躲藏和飞窜，激发它们的捕猎天性。"
+            "name": "早上：高强度模拟狩猎互动游戏",
+            "text": "抽出15分钟使用羽毛逗猫棒或钓竿玩具。模仿猎物的快速窜动，强烈激发其捕猎天性。"
           },
           {
-            "name": "中午：三维纵向攀爬空间检查",
-            "text": "检查猫爬架和墙壁猫跳板是否牢固。清理高处窗台，满足其俯瞰领地和观察外界的本能。"
+            "name": "中午：纵向攀爬空间检查与观察点布置",
+            "text": "顺应其喜爱高处的习性，检查猫爬架与墙壁猫跳板是否牢固，并清理窗台高处以便其俯瞰领地和观察外界。"
           },
           {
-            "name": "晚上：智力开发与漏食玩具布置",
-            "text": "在智力漏食玩具中放入零食。在睡前通过动脑消耗其精力，有助于防止深夜跑酷。"
+            "name": "晚上：智力开发嗅闻与漏食玩具布置",
+            "text": "提供藏有零食的漏食玩具或嗅闻垫，让其在睡前动脑。这能有效防止其在深夜突然发疯跑酷。"
           }
         ],
         "faqs": [
           {
-            "question": "孟加拉猫喜欢水吗？",
-            "answer": "是的，与绝大多数怕水的家猫不同，孟加拉猫对水表现出极大的兴趣，常被水龙头流出的水吸引，甚至主动进入浴缸。但需要注意玩水时的安全监管。"
+            "question": "孟加拉猫真的喜欢水吗？",
+            "answer": "是的，与普通家猫不同，孟加拉猫对水几乎没有抗拒感。它们常被水龙头流出的水吸引，甚至主动跳入浴缸。玩水时请务必全程看护，防止发生意外。"
           },
           {
-            "question": "孟加拉猫适合在小公寓里饲养吗？",
-            "answer": "可以通过开发纵向高处空间来解决公寓面积狭小的问题。安装高耸的猫爬架、壁挂猫道或购买猫跑步机，能提供充足的活动量。"
+            "question": "孟加拉猫适合在狭小的公寓里饲养吗？",
+            "answer": "只要提供充足的纵向空间（如猫通天柱、猫爬架）和猫跑步机，即使在狭小的室内也能完美消耗其体能。"
           }
         ],
         "tags": [
           "孟加拉猫护理",
           "释放猫咪精力",
           "多动猫护理",
-          "猫咪智力玩具"
+          "猫咪玩具"
         ]
       },
       "es": {
-        "title": "Guía de liberación de energía del gato Bengalí y rutina de 3 pasos para la estimulación",
+        "title": "Guía de liberación de energía del gato Bengalí y rutina diaria de 3 pasos para la estimulación",
         "description": "Cuidado del gato Bengalí, activo e inteligente. Aprenda a entender su lenguaje corporal de alta energía y estimúlelo con una rutina de 3 pasos.",
         "authority": "Guía de la raza Bengalí de The International Cat Association (TICA) y Estándares de Medicina del Comportamiento Felino",
         "profile": {
-          "breed": "Gato Bengalí (Bengal)",
+          "breed": "Gato Bengalí (Prionailurus bengalensis × Felis catus)",
           "lifespan": "12 ~ 16 años",
           "sleep_pattern": "12 ~ 15 horas (crepuscular: activo por las mañanas y noches)",
           "temperament": "Activo, inteligente, cariñoso, enérgico, curioso"
         },
-        "intro": "Los gatos Bengalíes son populares por sus manchas de leopardo y su aspecto salvaje. Como descendientes del gato leopardo asiático, poseen una energía atlética asombrosa y una mente muy despierta. Si no se les proporciona suficiente estimulación, pueden estresarse rápidamente, maullando en voz alta o arañando muebles. Hoy, PetSelf descifra el lenguaje corporal del gato Bengalí cuando necesita actividad y comparte una rutina de 3 pasos para mantenerlos física y mentalmente sanos.",
+        "intro": "Los gatos Bengalíes son populares por sus hermosas manchas de leopardo y su aspecto salvaje, al heredar la sangre del gato leopardo asiático. Poseen una energía atlética asombrosa y una mente sumamente despierta. Si sufren falta de ejercicio o de estimulación mental, pueden desarrollar comportamientos de alto estrés, como maullar o aullar a todas horas, destrozar muebles o trepar por las paredes. Hoy, PetSelf descifra los signos de exceso de energía del gato Bengalí y presenta una rutina diaria de 3 pasos para satisfacer sus necesidades físicas y su curiosidad mental.",
         "whyTitle": "Expresiones del gato Bengalí: sonidos de trino y movimientos de cola",
-        "whyDesc": "Los Bengalíes son gatos muy comunicativos. Suelen hacer un sonido de trino o trinado ('chirping'), similar al canto de un pájaro, para pedir juego o manifestar aburrimiento. Saber identificar estos comportamientos junto al movimiento rápido de su cola es clave para evitar problemas de conducta.",
+        "whyDesc": "Los Bengalíes son gatos muy comunicativos que expresan sus emociones con total claridad. Además del maullido habitual, emiten un sonido similar al canto de un pájaro, llamado **'trino' (Chirping)**, para pedir juego o indicar aburrimiento. Reconocer este sonido junto al movimiento rápido de la cola permite prevenir problemas de conducta derivados del estrés.",
         "body_signals": [
           {
-            "name": "Trinados y maullidos fuertes",
-            "meaning": "Petición activa de atención, indicando que tienen mucha energía acumulada y necesitan estimulación inmediata.",
-            "response": "Comience a jugar con juguetes que imiten presas y no los ignore para evitar que se frustren."
+            "name": "Trinos (Chirping) y maullidos fuertes",
+            "meaning": "Petición activa de interacción que indica aburrimiento y la necesidad urgente de iniciar actividades físicas o mentales.",
+            "response": "Inicie de inmediato un juego de caza con varitas de plumas y evite ignorarlo para no generar mayor frustración."
           },
           {
-            "name": "Movimiento rápido de cola con postura alta",
-            "meaning": "Estado de alta excitación y enfoque, listo para cazar o atacar un objetivo.",
-            "response": "Use una varita de plumas o un puntero láser para permitirle correr y saltar de forma segura."
+            "name": "Movimiento rápido de cola con postura alta de cadera",
+            "meaning": "Estado de máxima excitación o concentración absoluta en una presa, mostrando un desbordamiento de energía acumulada.",
+            "response": "Utilice punteros láser o juguetes automáticos en un espacio amplio para que corra e hierva su instinto cazador de forma segura."
           }
         ],
         "daily_routine": [
           {
-            "name": "Mañana: Sesión de juego interactivo de alta intensidad",
-            "text": "Dedique 15 minutos a jugar con una varita de plumas. Mueva el juguete simulando la huida de una presa para activar su instinto."
+            "name": "Mañana: Sesión de juego interactivo de caza de alta intensidad",
+            "text": "Dedique 15 minutos a jugar con una varita de plumas o tipo caña de pescar. Recree movimientos rápidos de presas para activar su instinto cazador."
           },
           {
-            "name": "Tarde: Inspección y mejora del espacio vertical",
-            "text": "Asegúrese de que los árboles rascadores estén estables. Despeje las repisas altas de las ventanas para que vigilen su entorno."
+            "name": "Tarde: Inspección de estabilidad vertical y espacio de observación",
+            "text": "Revise que los árboles rascadores y estantes de pared no se tambaleen, y habilite un espacio en ventanas altas para que vigile su entorno exterior."
           },
           {
-            "name": "Noche: Rompecabezas interactivos y estimulación mental",
-            "text": "Coloque premios dentro de juguetes dispensadores de comida. Esto cansará su mente antes de dormir, evitando carreras nocturnas."
+            "name": "Noche: Estimulación mental con alfombras olfativas y rompecabezas",
+            "text": "Ofrezca dispensadores de comida tipo puzle o alfombras de olfato con premios. Hacer trabajar su mente antes de dormir evita las carreritas nocturnas."
           }
         ],
         "faqs": [
           {
-            "question": "¿A los gatos Bengalíes les gusta el agua?",
-            "answer": "Sí, al contrario que la mayoría de los gatos domésticos, los Bengalíes adoran el agua. Les gusta jugar con el grifo y pueden meterse en la bañera. Vigílelos para evitar accidentes."
+            "question": "¿A los gatos Bengalíes les gusta realmente el agua?",
+            "answer": "Sí, a diferencia de la mayoría de los gatos, el Bengalí siente poca aversión al agua. Les encanta jugar con el agua del grifo o incluso saltar a la bañera. Supervíselo siempre durante el juego con agua para evitar accidentes."
           },
           {
             "question": "¿Puede un gato Bengalí vivir en un piso pequeño?",
-            "answer": "Sí, siempre que aproveche el espacio vertical. Árboles rascadores altos, repisas en las paredes y ruedas de ejercicio para gatos son ideales."
+            "answer": "Sí, siempre que disponga de espacio vertical suficiente (mástiles altos, pasarelas de pared) y de una rueda de ejercicio para gatos. Estos elementos permiten quemar su energía física perfectamente en interiores reducidos."
           }
         ],
         "tags": [
           "Gato Bengalí",
           "Juegos para Gatos",
           "Gatos Activos",
-          "Rascadores Altos"
+          "Juguetes para Gatos"
         ]
       },
       "fr": {
-        "title": "Guide de dépenses énergétiques du Bengal et routine de 3 étapes pour la stimulation",
+        "title": "Guide de dépenses énergétiques du Bengal et routine quotidienne de 3 étapes pour la stimulation",
         "description": "Prendre soin du chat Bengal, actif et intelligent. Décryptez son langage corporel et canalisez son énergie avec une routine de 3 étapes.",
         "authority": "Standard de la race Bengal de The International Cat Association (TICA) et Comportementalisme Félin",
         "profile": {
-          "breed": "Bengal (Bengal Cat)",
+          "breed": "Bengal (Prionailurus bengalensis × Felis catus)",
           "lifespan": "12 ~ 16 ans",
           "sleep_pattern": "12 ~ 15 heures (crépusculaire : très actif le matin et le soir)",
           "temperament": "Actif, intelligent, affectueux, dynamique, curieux"
         },
-        "intro": "Les chats Bengal fascinent par leur pelage tacheté semblable à celui d'un léopard. Héritiers du chat léopard d'Asie, ils possèdent une énergie débordante et une vive intelligence. Sans activités adaptées, ils peuvent rapidement développer des troubles comportementaux (miaulements excessifs, destruction de mobilier, stress). Aujourd'hui, PetSelf vous aide à décoder les signes d'ennui chez le Bengal et propose une routine en 3 étapes pour répondre à leurs besoins physiques et mentaux.",
+        "intro": "Le chat Bengal fascine par ses superbes rosettes semblables à celles d'un léopard. Héritier du chat léopard d'Asie, il possède une énergie athlétique débordante et une vive intelligence. En cas de manque d'exercice ou de stimulation mentale, il peut développer d'importants troubles du comportement liés au stress (miaulements intenses, destruction de meubles, escalade des murs). Aujourd'hui, PetSelf vous aide à décoder les signaux de surplus d'énergie chez le Bengal et vous propose une routine en 3 étapes pour répondre à ses besoins physiques et intellectuels.",
         "whyTitle": "Moyens d'expression du Bengal : gazouillis et mouvements de queue",
-        "whyDesc": "Le Bengal est un chat particulièrement bavard. Il utilise des vocalises uniques, notamment des gazouillis ('chirping') semblables à des bruits d'oiseau, pour réclamer de l'attention ou exprimer sa frustration. Surveiller ces sons associés à des frémissements de queue permet de désamorcer l'anxiété liée au manque d'activité.",
+        "whyDesc": "Le Bengal est un chat particulièrement expressif. Outre les miaulements habituels, il émet un son semblable à un chant d'oiseau, appelé **« gazouillis » (Chirping)**, lorsqu'il réclame de l'attention ou s'ennuie. Déceler ces signaux ainsi que les frémissements rapides de sa queue permet de prévenir les comportements gênants causés par le stress.",
         "body_signals": [
           {
-            "name": "Gazouillis et miaulements insistants",
-            "meaning": "Une demande d'interaction directe signifiant que le chat s'ennuie et a besoin de stimulation.",
-            "response": "Proposez immédiatement une séance de jeu avec un plumeau pour canaliser son attention."
+            "name": "Gazouillis (Chirping) et miaulements puissants",
+            "meaning": "Demande d'interaction directe indiquant que le chat s'ennuie et souhaite lancer une session de jeu physique ou mentale.",
+            "response": "Ne l'ignorez pas et démarrez immédiatement un jeu de chasse avec un plumeau pour répondre à son besoin."
           },
           {
-            "name": "Frémissements rapides de la queue et corps tendu",
-            "meaning": "Un état de forte excitation, le chat est prêt à bondir ou est hautement stimulé.",
-            "response": "Faites-le courir avec un jouet de type canne à pêche pour lui permettre de décharger son énergie en toute sécurité."
+            "name": "Frémissements rapides de la queue et arrière-train relevé",
+            "meaning": "État de forte excitation ou de concentration maximale sur une cible, témoignant d'un surplus d'énergie prêle à exploser.",
+            "response": "Utilisez un pointeur laser ou un jouet automatique dans un grand espace pour lui faire dépenser sa fougue en toute sécurité."
           }
         ],
         "daily_routine": [
           {
-            "name": "Matin : Séance de jeu de chasse intense",
-            "text": "Jouez pendant 15 minutes avec un plumeau ou un jouet mobile. Imitez les mouvements de fuite d'une proie pour stimuler son instinct."
+            "name": "Matin : Séance de jeu de chasse interactive intense",
+            "text": "Jouez pendant 15 minutes avec un plumeau ou une canne à pêche. Imitez les mouvements rapides d'une proie pour réveiller son instinct de chasseur."
           },
           {
-            "name": "Après-midi : Aménagement de l'espace vertical",
-            "text": "Vérifiez la stabilité des arbres à chat et des étagères murales. Libérez l'accès aux fenêtres en hauteur pour qu'il observe son territoire."
+            "name": "Midi : Contrôle des parcours verticaux et poste d'observation",
+            "text": "Adapté à son amour des hauteurs, vérifiez la stabilité des arbres à chat et étagères murales, et aménagez un accès à une fenêtre haute pour qu'il observe l'extérieur."
           },
           {
-            "name": "Soir : Jeu d'intelligence et puzzle d'alimentation",
-            "text": "Proposez-lui des friandises cachées dans des jouets d'occupation (puzzles). Stimuler sa réflexion avant la nuit réduit les courses nocturnes."
+            "name": "Soir : Stimulation cérébrale avec tapis de fouille et puzzles",
+            "text": "Proposez-lui un puzzle alimentaire ou un tapis de fouille garni de friandises. Faire travailler ses méninges avant la nuit évite les folles courses nocturnes."
           }
         ],
         "faqs": [
           {
             "question": "Le chat Bengal aime-t-il vraiment l'eau ?",
-            "answer": "Oui, le Bengal adore l'eau. Il est fréquent de le voir jouer avec l'eau du robinet ou tenter de rejoindre son maître dans la baignoire. Veillez à sécuriser les accès."
+            "answer": "Oui, à l'inverse de la plupart des chats, le Bengal craint très peu l'eau. Il s'amuse souvent avec l'eau du robinet et peut même sauter dans la baignoire. Gardez toujours un œil sur lui lorsqu'il joue près de l'eau."
           },
           {
             "question": "Le Bengal peut-il vivre en appartement ?",
-            "answer": "Oui, à condition d'optimiser l'espace vertical (arbres à chat de grande taille, parcours muraux). L'achat d'une roue d'exercice pour chat est aussi recommandé."
+            "answer": "Oui, à condition d'aménager de beaux espaces verticaux (arbres à chat 'arbre-tour', parcours muraux) et de lui fournir une roue d'exercice pour chat pour brûler son énergie."
           }
         ],
         "tags": [
           "Chat Bengal",
           "Dépense Physique Chat",
           "Chats Énergiques",
-          "Enrichissement Félin"
+          "Jouets pour Chat"
         ]
       },
       "de": {
-        "title": "Bengal-Katzen Energieabbau-Leitfaden und 3-Schritt-Auslastungsroutine",
+        "title": "Bengalkatzen Energieabbau-Leitfaden und 3-Schritt-Auslastungsroutine",
         "description": "Pflege für die aktive und intelligente Bengalkatze. Lernen Sie, die Körpersprache bei hohem Energielevel zu verstehen und Langeweile vorzubeugen.",
         "authority": "Rassenleitfaden für Bengalkatzen von The International Cat Association (TICA) und Standards der Katzenverhaltensmedizin",
         "profile": {
-          "breed": "Bengalkatze (Bengal)",
+          "breed": "Bengalkatze (Prionailurus bengalensis × Felis catus)",
           "lifespan": "12 ~ 16 Jahre",
           "sleep_pattern": "12 ~ 15 Stunden (dämmerungsaktiv - morgens und abends sehr aktiv)",
           "temperament": "Aktiv, intelligent, anhänglich, energiegeladen, neugierig"
         },
-        "intro": "Bengalkatzen sind wegen ihrer wunderschönen Leopardenzeichnung und ihres wilden Aussehens beliebt. Als Nachfahren der asiatischen Leopardenkatze besitzen sie jedoch ein enormes Maß an Energie und scharfer Intelligenz. Wenn ihre Bedürfnisse nach Beschäftigung nicht erfüllt werden, zeigen sie schnell Stressreaktionen wie lautes Miauen, Zerkratzen von Möbeln oder Wändehochlaufen. Heute entschlüsselt PetSelf die Körpersprache von Bengalkatzen bei aufgestauter Energie und teilt eine 3-Schritt-Routine, um ihre Neugier zu befriedigen.",
+        "intro": "Bengalkatzen sind wegen ihrer wunderschönen Leopardenzeichnung und ihres wilden Aussehens beliebt. Da sie das Erbe der asiatischen Leopardenkatze in sich tragen, besitzen sie eine enorme körperliche Leistungsfähigkeit und scharfe Intelligenz. Wenn es an Bewegung oder geistiger Forderung fehlt, entwickeln sie schnell ausgeprägte Stressverhalten wie dauerhaftes Miauen, Zerkratzen von Möbeln oder das Hochklettern an Wänden. Heute entschlüsselt PetSelf die Körpersprache der Bengalkatze bei aufgestauter Energie und zeigt eine 3-Schritt-Routine zur Auslastung von Körper und Geist.",
         "whyTitle": "Bengalkatzen-Kommunikation: Zwitschern und Schwanzzucken",
-        "whyDesc": "Bengalkatzen sind sehr mitteilsam. Sie nutzen oft ein vogelähnliches 'Zwitschern' ('Chirping'), um Beschäftigung einzufordern oder Langeweile zu äußern. Wenn Sie dieses Verhalten zusammen mit schnellem Schwanzzucken erkennen, können Sie unerwünschtes Verhalten durch Unterforderung rechtzeitig verhindern.",
+        "whyDesc": "Bengalkatzen sind außerordentlich mitteilungsfreudig. Neben dem normalen Miauen nutzen sie ein vogelähnliches **'Zwitschern' (Chirping)**, wenn sie Aufmerksamkeit einfordern oder Langeweile verspüren. Wenn Sie dieses Verhalten zusammen mit schnellem Schwanzzucken erkennen, können Sie stressbedingten Verhaltensproblemen rechtzeitig vorbeugen.",
         "body_signals": [
           {
-            "name": "Zwitschern & lautes Vokalisieren",
-            "meaning": "Eine aktive Aufforderung zur Interaktion. Die Katze hat Energie aufgestaut und benötigt sofortige Beschäftigung.",
-            "response": "Spielen Sie sofort mit Beute-Simulationsspielzeugen und ignorieren Sie die Katze nicht, um Frust zu vermeiden."
+            "name": "Zwitschern (Chirping) & lautes Vokalisieren",
+            "meaning": "Eine aktive Aufforderung zur Interaktion. Die Katze langweilt sich und fordert sofortige körperliche oder geistige Beschäftigung.",
+            "response": "Beginnen Sie sofort ein Jagdspiel mit einer Federangel und ignorieren Sie die Katze nicht, um Frust zu vermeiden."
           },
           {
-            "name": "Schnelles Schwanzzucken mit hoher Körperhaltung",
-            "meaning": "Ein Zustand hoher Erregung und Konzentration. Die Katze ist auf ein Ziel fokussiert.",
-            "response": "Nutzen Sie eine Spielangel oder einen Laserpointer, damit die Katze die überschüssige Energie rennend abbauen kann."
+            "name": "Schnelles Schwanzzucken mit hochgezogenem Hinterteil",
+            "meaning": "Ein Zustand höchster Erregung und Konzentration auf ein Ziel, hervorgerufen durch überschüssige Energie.",
+            "response": "Nutzen Sie Laserpointer oder automatisches Spielzeug auf freier Fläche, damit die Katze ihren Jagdtrieb rennend ausleben kann."
           }
         ],
         "daily_routine": [
           {
-            "name": "Morgen: Hochintensives Jagdspiel",
-            "text": "Spielen Sie 15 Minuten lang mit einer Federangel. Ahmen Sie Beutebewegungen nach, um den natürlichen Jagdtrieb anzusprechen."
+            "name": "Morgen: Hochintensives interaktives Jagdspiel",
+            "text": "Spielen Sie 15 Minuten lang mit einer Federangel. Ahmen Sie schnelle Beutebewegungen nach, um den natürlichen Jagdtrieb anzusprechen."
           },
           {
-            "name": "Nachmittag: Kletterbereiche und erhöhte Aussichtspunkte",
-            "text": "Kontrollieren Sie Kratzbäume auf Stabilität. Halten Sie Plätze an erhöhten Fenstern frei, damit die Katze ihr Revier beobachten kann."
+            "name": "Mittag: Kletterbereiche prüfen und Ausblick sichern",
+            "text": "Prüfen Sie Kratzbäume und Kletterwände auf Stabilität und halten Sie Plätze an erhöhten Fenstern frei, damit die Katze ihr Revier beobachten kann."
           },
           {
-            "name": "Abend: Denkspiele & Fummelbretter",
-            "text": "Geben Sie Trockenfutter in Intelligenzspielzeuge (Fummelbretter). Geistige Arbeit vor dem Schlafen beugt nächtlichem Toben vor."
+            "name": "Abend: Geistige Auslastung mit Schnüffelteppichen und Fummelbrettern",
+            "text": "Geben Sie Leckerlis in Fummelbretter oder Schnüffelteppiche. Geistige Arbeit vor dem Schlafen verhindert nächtliches wildes Herumrennen."
           }
         ],
         "faqs": [
           {
-            "question": "Mögen Bengalkatzen Wasser?",
-            "answer": "Ja, Bengalkatzen spielen im Gegensatz zu den meisten Hauskatzen sehr gerne mit Wasser. Sie spielen oft am tropfenden Wasserhahn oder springen in die Badewanne."
+            "question": "Mögen Bengalkatzen wirklich Wasser?",
+            "answer": "Ja, im Gegensatz zu den meisten Hauskatzen haben Bengalkatzen kaum Scheu vor Wasser. Sie spielen gerne am laufenden Wasserhahn oder springen sogar in die Badewanne. Beaufsichtigen Sie die Katze beim Wasserspiel stets."
           },
           {
-            "question": "Kann man Bengalkatzen in einer Wohnung halten?",
-            "answer": "Ja, wenn man die Vertikale nutzt. Hohe Kratzbäume, Kletterwände und ein Katzenlaufrad sind in Wohnungen unverzichtbar, um den Bewegungsdrang zu stillen."
+            "question": "Kann man Bengalkatzen in einer kleinen Wohnung halten?",
+            "answer": "Ja, sofern ausreichend vertikaler Raum (Kletterstangen, Wandparks) sowie ein Katzenlaufrad vorhanden sind, um die körperliche Energie im Innenraum abzubauen."
           }
         ],
         "tags": [
           "Bengalkatze",
           "Katzenspieltherapie",
           "Aktive Katzen",
-          "Katzenbeschäftigung"
+          "Katzenspielzeug"
         ]
       },
       "pt": {
-        "title": "Guia de gasto de energia do gato Bengal e rotina de 3 passos para estimulação diária",
+        "title": "Guia de gasto de energia do gato Bengal e rotina diária de 3 passos para estimulação",
         "description": "Cuidado do gato Bengal, ativo e inteligente. Aprenda a decifrar a linguagem corporal e evite comportamentos indesejados com jogos diários em 3 passos.",
         "authority": "Padrão de Raça do Bengal da The International Cat Association (TICA) e Diretrizes de Comportamento Felino",
         "profile": {
-          "breed": "Bengal (Bengal Cat)",
+          "breed": "Bengal (Prionailurus bengalensis × Felis catus)",
           "lifespan": "12 ~ 16 anos",
           "sleep_pattern": "12 ~ 15 horas (crepuscular: muito ativo ao início da manhã e fim do dia)",
           "temperament": "Ativo, inteligente, afetuoso, enérgico, curioso"
         },
-        "intro": "Os gatos Bengal são muito apreciados pelas suas manchas parecidas com as de um leopardo e aspeto selvagem. Como descendentes do gato-leopardo asiático, têm uma agilidade incrível e uma inteligência apurada. Se não gastarem a sua energia física e mental, podem ficar stressados e começar a miar alto, arranhar móveis ou saltar pelas paredes. Hoje, o PetSelf analisa a linguagem corporal do Bengal com energia acumulada e ensina uma rotina de 3 passos para satisfazer a sua curiosidade.",
+        "intro": "Os gatos Bengal são muito admirados pelas suas belas manchas de leopardo e aspeto selvagem, herdando o sangue do gato-leopardo asiático. Possuem uma agilidade física incrível e uma inteligência apurada. Se houver falta de exercício ou de estímulo mental, podem desenvolver comportamentos de grande stresse, como miar alto dia e noite, arranhar móveis ou escalar paredes. Hoje, o PetSelf analisa os sinais de energia acumulada do Bengal e ensina uma rotina diária de 3 passos para satisfazer a sua energia e curiosidade.",
         "whyTitle": "Comunicação do Bengal: sons de chilrear e agitação da cauda",
-        "whyDesc": "Os Bengals são gatos muito vocais. Eles fazem um som curto semelhante a um pássaro ('chilrear' ou 'chirping') para pedir atenção ou expressar tédio. Identificar este som juntamente com movimentos rápidos da cauda ajuda-o a evitar problemas de stress por falta de estímulo.",
+        "whyDesc": "Os Bengals são gatos extremamente comunicativos que expressam as suas emoções com clareza. Além do miado normal, emitem um som semelhante ao canto de um pássaro, conhecido como **'chilreio' (Chirping)**, quando querem brincar ou sentem tédio. Identificar este som e os movimentos rápidos da cauda ajuda a prevenir problemas comportamentais derivados do stresse.",
         "body_signals": [
           {
-            "name": "Chilrear & vocalização alta",
-            "meaning": "Pedido explícito de brincadeira. Significa que o gato está aborrecido e precisa de gastar energia.",
-            "response": "Pegue imediatamente num brinquedo de varinha para brincar e evite ignorar o felino."
+            "name": "Chilreio (Chirping) e miados fortes",
+            "meaning": "Pedido explícito de interação que indica tédio e a necessidade urgente de iniciar brincadeiras físicas ou mentais.",
+            "response": "Comece imediatamente uma brincadeira de caça com varinhas de penas e evite ignorá-lo para não gerar frustração."
           },
           {
-            "name": "Cauda a agitar rapidamente com postura alta",
-            "meaning": "Estado de grande excitação e foco num alvo, indicando energia máxima acumulada.",
-            "response": "Proporcione jogos de corrida com um laser ou varinha de penas para ele correr e gastar essa energia em segurança."
+            "name": "Cauda a agitar rapidamente com a parte traseira erguida",
+            "meaning": "Estado de excitação máxima ou foco absoluto numa presa, demonstrando excesso de energia acumulada.",
+            "response": "Utilize lasers ou brinquedos automáticos num espaço amplo para que ele corra e gaste esse instinto de caça com segurança."
           }
         ],
         "daily_routine": [
           {
-            "name": "Manhã: Sessão de brincadeira interativa de alta intensidade",
-            "text": "Brinque durante 15 minutos com uma cana de pesca para gatos. Mova o brinquedo simulando uma presa em fuga para ativar a sua caça."
+            "name": "Manhã: Sessão de brincadeira interativa de caça de alta intensidade",
+            "text": "Brinque durante 15 minutos com uma cana de pesca para gatos. Mova o brinquedo simulando a fuga rápida de uma presa para ativar a sua caça."
           },
           {
-            "name": "Tarde: Manutenção do espaço vertical",
-            "text": "Verifique se as árvores de arranhar e prateleiras de parede estão seguras. Deixe as janelas altas desimpedidas para ele vigiar a casa."
+            "name": "Tarde: Inspeção do espaço vertical e ponto de observação",
+            "text": "Confira a estabilidade dos arranhadores e prateleiras de parede, e reserve um espaço numa janela alta para ele observar o exterior."
           },
           {
-            "name": "Noite: Estimulação intelectual com brinquedos de quebra-cabeça",
-            "text": "Coloque comida em comedouros de puzzle. O esforço mental antes de dormir evita correrias a meio da noite."
+            "name": "Noite: Estimulação intelectual com tapetes de olfato e puzzles",
+            "text": "Disponibilize comedouros de puzzle ou tapetes de olfato com snacks. O esforço mental antes de dormir evita as carrerinhas noturnas."
           }
         ],
         "faqs": [
           {
-            "question": "Os gatos Bengal gostam de água?",
-            "answer": "Sim, ao contrário da maioria dos gatos, os Bengals adoram água. Eles brincam com a água a correr das torneiras e podem entrar na banheira. Supervisione-os sempre perto de água."
+            "question": "Os gatos Bengal gostam mesmo de água?",
+            "answer": "Sim, ao contrário da maioria dos gatos, o Bengal quase não tem receio da água. Adoram brincar com a água a correr das torneiras e podem entrar na banheira. Supervisione-os sempre perto de água para evitar acidentes."
           },
           {
             "question": "É possível criar um Bengal num apartamento pequeno?",
-            "answer": "Sim, desde que tire partido do espaço vertical. Prateleiras na parede, arranhadores verticais altos e rodas de corrida para gatos são muito úteis."
+            "answer": "Sim, desde que tire partido do espaço vertical (arranhadores altos, passarelas) e utilize uma roda de corrida para gatos para queimar a sua energia num espaço reduzido."
           }
         ],
         "tags": [
           "Gato Bengal",
           "Brincadeiras para Gato",
           "Gatos Ativos",
-          "Estímulo Felino"
+          "Brinquedos para Gatos"
         ]
       },
       "id": {
-        "title": "Panduan Pelepasan Energi Kucing Bengal dan Rutinitas 3 Langkah Stimulasi Harian",
+        "title": "Panduan Pelepasan Energi Kucing Bengal dan Rutinitas Harian 3 Langkah Stimulasi",
         "description": "Merawat kucing Bengal yang aktif dan cerdas. Pahami bahasa tubuh berenergi tinggi mereka dan atasi stres lewat 3 langkah rutinitas bermain.",
         "authority": "Panduan Ras Bengal The International Cat Association (TICA) dan Standar Kedokteran Perilaku Feline",
         "profile": {
-          "breed": "Kucing Bengal (Bengal Cat)",
+          "breed": "Kucing Bengal (Prionailurus bengalensis × Felis catus)",
           "lifespan": "12 ~ 16 tahun",
           "sleep_pattern": "12 ~ 15 jam (krepuskular: aktif di pagi & sore hari)",
           "temperament": "Aktif, cerdas, penyayang, enerjik, penasaran"
         },
-        "intro": "Kucing Bengal disukai karena corak bintik mirip macan tutul yang indah dan penampilannya yang liar. Sebagai keturunan kucing kuwuk (Asian leopard cat), mereka memiliki energi atletis yang luar biasa dan kecerdasan yang tajam. Jika kebutuhan stimulasi mereka tidak terpenuhi, mereka dapat dengan cepat menunjukkan perilaku stres seperti mengeong keras tanpa henti, merusak furnitur, atau memanjat dinding. Hari ini, PetSelf mengulas bahasa tubuh Bengal yang menunjukkan energi terpendam dan membagikan 3 langkah rutinitas perawatan untuk menyalurkan energi fisik dan mental mereka.",
+        "intro": "Kucing Bengal disukai karena corak bintik mirip macan tutul yang indah dan penampilannya yang liar berkat darah keturunan kucing kuwuk (Asian leopard cat). Mereka memiliki energi atletis yang luar biasa dan kecerdasan yang sangat tajam. Jika kekurangan stimulasi fisik dan mental, mereka dapat menunjukkan perilaku stres berat seperti mengeong keras sepanjang hari, merusak furnitur, hingga memanjat dinding. Hari ini, PetSelf mengulas bahasa tubuh Bengal yang menunjukkan energi terpendam dan membagikan 3 langkah rutinitas harian untuk menyalurkan energi fisik dan rasa ingin tahu mereka.",
         "whyTitle": "Komunikasi Kucing Bengal: Kicauan Vokal dan Kedutan Ekor",
-        "whyDesc": "Kucing Bengal sangat komunikatif. Mereka sering mengeluarkan suara mirip kicauan burung ('chirping') untuk meminta bermain atau mengeluhkan rasa bosan. Mengenali suara ini bersamaan dengan gerakan kedutan ekor yang cepat membantu Anda mencegah masalah perilaku akibat kurangnya aktivitas.",
+        "whyDesc": "Kucing Bengal sangat komunikatif dalam menyampaikan emosinya. Selain suara ngeong biasa, mereka sering mengeluarkan suara mirip kicauan burung yang disebut **'kicauan' (Chirping)** saat ingin mengajak bermain atau merasa bosan. Mengenali suara ini bersama gerakan ekor yang cepat membantu Anda mencegah timbulnya masalah perilaku akibat stres.",
         "body_signals": [
           {
-            "name": "Kicauan Burung (Chirping) & Suara Keras",
-            "meaning": "Permintaan aktif untuk berinteraksi, menandakan mereka bosan dan butuh stimulasi fisik atau otak segera.",
-            "response": "Segera ajak bermain dengan mainan yang meniru gerakan mangsa, dan jangan diabaikan agar kucing tidak cemas."
+            "name": "Suara Kicauan (Chirping) & Mengeong Keras",
+            "meaning": "Permintaan aktif untuk berinteraksi, menandakan mereka sedang bosan dan butuh stimulasi fisik atau otak segera.",
+            "response": "Segera ajak bermain berburu dengan tongkat bulu dan jangan diabaikan agar kucing tidak merasa frustrasi."
           },
           {
-            "name": "Ekor Berkedut Cepat dengan Posisi Tegak",
-            "meaning": "Kondisi gairah tinggi dan fokus pada target, menunjukkan energi mereka siap disalurkan.",
-            "response": "Gunakan mainan kejar-kejaran seperti tali bulu atau pointer laser agar mereka bisa berlari dan membakar energinya secara aman."
+            "name": "Ekor Berkedut Cepat dengan Pinggul Terangkat",
+            "meaning": "Kondisi gairah tinggi dan fokus penuh pada target, menunjukkan energi berlebih yang siap disalurkan.",
+            "response": "Gunakan pointer laser atau mainan otomatis di area yang luas agar mereka bisa berlari dan menyalurkan insting berburunya secara aman."
           }
         ],
         "daily_routine": [
           {
-            "name": "Pagi: Sesi Bermain Interaktif Intensitas Tinggi",
-            "text": "Luangkan waktu 15 menit menggunakan mainan tongkat bulu. Gerakkan mainan menyerupai mangsa asli untuk memicu insting berburu mereka."
+            "name": "Pagi: Sesi Bermain Berburu Interaktif Intensitas Tinggi",
+            "text": "Luangkan waktu 15 menit menggunakan mainan tongkat bulu atau pancingan. Gerakkan mainan menyerupai mangsa cepat untuk memicu insting berburu mereka."
           },
           {
-            "name": "Siang: Pemeriksaan Area Vertikal & Panjatan Kucing",
-            "text": "Pastikan tiang cakaran dan papan panjat di dinding kokoh. Sediakan akses ke jendela tinggi agar kucing dapat melihat wilayahnya."
+            "name": "Siang: Pemeriksaan Area Vertikal & Penyediaan Area Memantau",
+            "text": "Sesuai sifatnya yang menyukai ketinggian, pastikan tiang panjatan dan rak dinding kokoh, serta sediakan tempat di jendela tinggi agar mereka dapat mengamati area luar."
           },
           {
-            "name": "Malam: Stimulasi Kecerdasan & Penataan Puzzle Makanan",
-            "text": "Taruh camilan di dalam mainan puzzle makanan. Memaksa mereka berpikir sebelum tidur mencegah kucing berlarian heboh di tengah malam."
+            "name": "Malam: Stimulasi Otak dengan Karpet Sniffing & Puzzle Makanan",
+            "text": "Sediakan papan puzzle makanan atau karpet olfaktori (sniffing mat) berisi camilan. Mengasah otak mereka sebelum tidur sangat efektif mencegah kucing berlarian heboh di tengah malam."
           }
         ],
         "faqs": [
           {
-            "question": "Apakah kucing Bengal menyukai air?",
-            "answer": "Ya, berbeda dari kebanyakan kucing rumah, Bengal sangat tertarik pada air. Mereka sering bermain di bawah keran air mengalir atau bahkan ikut masuk ke bak mandi. Jaga keamanan mereka saat bermain air."
+            "question": "Apakah kucing Bengal benar-benar menyukai air?",
+            "answer": "Ya, tidak seperti kucing pada umumnya, Bengal sangat tertarik pada air. Mereka sering bermain di bawah keran air mengalir atau bahkan melompat ke dalam bak mandi. Selalu dampingi mereka saat bermain air untuk mencegah kecelakaan."
           },
           {
             "question": "Apakah kucing Bengal cocok dipelihara di apartemen kecil?",
-            "answer": "Bisa, asalkan Anda menyediakan ruang panjatan vertikal yang memadai. Pohon kucing yang tinggi, panjatan dinding, dan roda lari kucing sangat membantu membakar energi mereka."
+            "answer": "Bisa, asalkan Anda menyediakan ruang panjatan vertikal yang memadai (seperti tiang panjat tiang langit-langit, tempat berjalan di dinding) dan roda lari kucing untuk membakar energi mereka di dalam ruangan."
           }
         ],
         "tags": [
-          "Perawatan Kucing Bengal",
+          "Kucing Bengal",
           "Terapi Bermain Kucing",
           "Kucing Aktif",
           "Mainan Kucing"
@@ -456,7 +456,7 @@
         "description": "활발하고 지능적인 벵갈 고양이 케어법. 벵갈의 넘치는 에너지 시그널을 이해하고 3단계 놀이 루틴으로 스트레스를 해소하는 법을 알아봅니다.",
         "authority": "국제고양이협회(TICA) 벵갈 품종 가이드 및 고양이 행동의학 표준 권고사항",
         "profile": {
-          "breed": "벵갈 고양이 (Bengal Cat)",
+          "breed": "벵갈 고양이 (Prionailurus bengalensis × Felis catus)",
           "lifespan": "12 ~ 16년",
           "sleep_pattern": "12 ~ 15시간 (아침과 저녁에 활동하는 박명박모성)",
           "temperament": "활발함, 영리함, 다정함, 에너지 넘침, 호기심 많음"

@@ -1,36 +1,36 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "フトアゴヒゲトカゲのバスキングと3ステップカルシウム・UVB管理ルーチン"
-description: "人懐っこいフトアゴヒゲトカゲの飼育。首振りの社会信号の意味と、代謝性骨疾患（MBD）を防ぐための3ステップの日常ルーチンについて解説します。"
+title: "フトアゴヒゲトカゲのバスキングガイドと3ステップカルシウム・UVB日常ルーチン"
+description: "温厚なフトアゴヒゲトカゲのケア方法。首振りの社会信号と代謝性骨疾患（MBD）を防ぐための3ステップ照明・カルシウム給餌ルーチンを解説します。"
 pubDate: "2026-03-17"
 updatedDate: "2026-03-17"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","フトアゴヒゲトカゲ (Bearded Dragon)"]
+tags: ["ペットケア","ペット健康","フトアゴヒゲトカゲ (Pogona vitticeps)"]
 heroImage: "/images/blog/bearded_dragon_care.png"
 app: "petself"
 formatVersion: 4
-authority: "爬虫類両生類獣医師会（ARAV）飼育ガイドラインおよび爬虫類学獣医標準"
+authority: "爬虫類両生類獣医師会（ARAV）飼育ガイドラインおよび爬虫類臨床標準獣医行動学"
 steps:
-  - name: "フトアゴトカゲの社会信号：ボビングとアームウェービング"
-    text: "フトアゴヒゲトカゲは、独特のボディーランゲージで周囲とコミュニケーションを取ります。頭を上下に素早く振る「ヘッドボビング（Head Bobbing）」は、自分の優位性や縄張りを主張する行動です。反対に、前足を大きくゆっくりと回す「アームウェービング（Arm Waving）」は、敵意がないことを示すお辞儀のような合図です。"
-  - name: "フトアゴヒゲトカゲ (Bearded Dragon)'s Body Language & Signals"
-    text: "* ヘッドボビング（激しい首振り）: 縄張り主張、優位性アピール、あるいは周囲への警戒を示しており、ガラスに映る自分の姿に反応することもあります。 (多頭飼育は避け（単独飼育が原則）、ケージガラスの反射を防ぐシートを貼るなどしてストレスを和らげます。)
+  - name: "フトアゴヒゲトカゲの行動言語：ヘッドボビングとアームウェービング"
+    text: "フトアゴヒゲトカゲは独特の仕草で優位性を示し、感情を伝えます。頭を上下に激しく振る「ヘッドボビング（Head Bobbing）」は、高い支配性や縄張りを主張する強い態度です。一方、片方の前足を空中でゆっくり大きく回す「アームウェービング（Arm Waving）」は、敵意がないことを示す復従と平和のサインです。"
+  - name: "フトアゴヒゲトカゲ (Pogona vitticeps)'s Body Language & Signals"
+    text: "* ヘッドボビング（激しい首振り）: 自分の優位性や縄張りを主張する行動で、他の個体を見たときやケージガラスに映る自分の姿に興奮した際に見られます。 (同居によるストレスを防ぐため単独飼育を徹底し、ガラス壁に反射防止シートを貼るなどして視覚的刺激を減らします。)
 
-* アームウェービング（前足を回す動作）: 「降伏」や「敵意がないこと」を示す社会信号で、人間や大きな個体に対して自分を小さく見せる挨拶です。 (驚かせないよう目線を合わせて優しく近づき、静かな声で話しかけながら安心感を与えます。)"
+* アームウェービング（前足を回す動作）: 相手に攻撃意思がないことを伝える復従と平和の社会信号で、自分より強い存在や飼い主に向けて行われます。 (目線を低くして優しく近づき、落ち着いた声で話しかけながら、飼い主が安全な存在であると認識できるようご褒美を与えます。)"
   - name: "Customized 3-Step Home Care Routine"
-    text: "* STEP 1. 朝：バスキングランプとUVBライトの点灯: ライトをオンにし、バスキングスポットを35〜40℃に温めます。体を温めることで消化器官を活性化させます。
+    text: "* STEP 1. 朝：バスキング熱源およびUVBランプの点灯: スポット保温球とUVBライトを点灯します。バスキングスポットの温度が35〜40℃に達し、消化酵素が働くよう体温上昇を促します。
 
-* STEP 2. 昼：栄養を含ませたエサとカルシウム添加: カルシウムパウダー（室内飼育ではビタミンD3入り）をまぶした昆虫と、小松菜やチンゲンサイなどの新鮮な野菜を与えます。
+* STEP 2. 昼：栄養を含ませた昆虫給餌とカルシウム添加: カルシウムパウダー（室内飼育ではビタミンD3入り）をまぶした生餌昆虫と、チコリやチンゲンサイなどの新鮮な高カルシウム野菜を提供します。
 
-* STEP 3. 夜：完全消灯と夜間温度の管理: すべてのライトを消します。夜間は温度を自然に下げますが、代謝維持のため18℃を下回らないよう管理します。"
+* STEP 3. 夜：完全消灯と安全な夜間温度の維持: ケージ内のすべての照明を消灯します。夜間は自然な代謝のために温度を下げますが、安全のため18℃を下回らないように管理します。"
 faqs:
-  - question: "UVBライトはどのくらいの頻度で交換すべきですか？"
-    answer: "紫外線ライトは、球切れしていなくても紫外線放出量が徐々に低下します。光が出ていても、半年から1年ごとに新品のUVBバルブに交換する必要があります。"
-  - question: "代謝性骨疾患（MBD）の初期症状は？"
-    answer: "下顎の軟化（フニャフニャになる）、手足の腫れ、筋肉の震え、歩行困難などが代表的な兆候です。これらの症状が見られた場合は直ちに紫外線と栄養補給を見直し、専門の獣医師に相談してください。"
+  - question: "UVBランプはどのくらいの頻度で交換すべきですか？"
+    answer: "UVBランプは、球切れしていなくても時間の経過とともに紫外線放出量が著しく低下します。目視で点滅していなくても、通常6〜12ヶ月周期で交換する必要があります。"
+  - question: "代謝性骨疾患（MBD）の初期サインは何ですか？"
+    answer: "下顎が柔らかくなる、足の関節の腫れ、筋肉の震え、歩行時に力なく滑るなどの症状が初期の兆候です。発見した場合は直ちに照明設備を補強し、専門の獣医師の診察を受けてください。"
 ---
 
-温和な性格と愛嬌のある表情から、爬虫類ペットとして絶大な人気を誇るフトアゴヒゲトカゲ。しかし、変温動物である彼らは、外部の熱とUVB（紫外線）がなければ、食べ物を消化したり体内でカルシウムを吸収したりすることができません。不適切な温度管理や紫外線不足は、骨が軟化し麻痺を引き起こす「代謝性骨疾患（MBD）」という致命的な病気につながります。今回は、フトアゴヒゲトカゲの代表的な感情サインを解説し、十分な保温とカルシウム補給のための3ステップのホームケアルーチンをご紹介します。
+温和な性格と愛嬌のある表情から、フトアゴヒゲトカゲは世界中で最も愛されるペット用爬虫類の一つです。しかし、変温動物である彼らは自ら体温を調節できず、外部の熱源とUVB（中波長紫外線）照明の下でのみ食べ物を消化し、ビタミンD3を合成してカルシウムを吸収することができます。適切なバスキングエリアやUVB照射が不足すると、骨が軟化して麻痺を引き起こす代謝性骨疾患（MBD）にかかりやすくなります。今回はPetSelfが、フトアゴヒゲトカゲの行動サインを解析し、骨の健康を守る3ステップのカルシウム・照明ルーチンをご紹介します。
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -39,28 +39,28 @@ faqs:
       獣医学・行動学的根拠
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      本コンテンツは、<strong>爬虫類両生類獣医師会（ARAV）飼育ガイドラインおよび爬虫類学獣医標準</strong>に基づいています。
+      本コンテンツは、<strong>爬虫類両生類獣医師会（ARAV）飼育ガイドラインおよび爬虫類臨床標準獣医行動学</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 1. フトアゴトカゲの社会信号：ボビングとアームウェービング
+## 1. フトアゴヒゲトカゲの行動言語：ヘッドボビングとアームウェービング
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">フトアゴトカゲの社会信号：ボビングとアームウェービング</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">フトアゴヒゲトカゲの行動言語：ヘッドボビングとアームウェービング</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    フトアゴヒゲトカゲは、独特のボディーランゲージで周囲とコミュニケーションを取ります。頭を上下に素早く振る「ヘッドボビング（Head Bobbing）」は、自分の優位性や縄張りを主張する行動です。反対に、前足を大きくゆっくりと回す「アームウェービング（Arm Waving）」は、敵意がないことを示すお辞儀のような合図です。
+    フトアゴヒゲトカゲは独特の仕草で優位性を示し、感情を伝えます。頭を上下に激しく振る「ヘッドボビング（Head Bobbing）」は、高い支配性や縄張りを主張する強い態度です。一方、片方の前足を空中でゆっくり大きく回す「アームウェービング（Arm Waving）」は、敵意がないことを示す復従と平和のサインです。
   </p>
 </div>
 
 ---
 
-## 2. フトアゴヒゲトカゲ (Bearded Dragon)'s Body Language & Signals
+## 2. フトアゴヒゲトカゲ (Pogona vitticeps)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -68,8 +68,8 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">ヘッドボビング（激しい首振り）</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• 意味:</strong> 縄張り主張、優位性アピール、あるいは周囲への警戒を示しており、ガラスに映る自分の姿に反応することもあります。<br/>
-    <strong>• 対処法:</strong> 多頭飼育は避け（単独飼育が原則）、ケージガラスの反射を防ぐシートを貼るなどしてストレスを和らげます。
+    <strong>• 意味:</strong> 自分の優位性や縄張りを主張する行動で、他の個体を見たときやケージガラスに映る自分の姿に興奮した際に見られます。<br/>
+    <strong>• 対処法:</strong> 同居によるストレスを防ぐため単独飼育を徹底し、ガラス壁に反射防止シートを貼るなどして視覚的刺激を減らします。
   </p>
 </div>
 
@@ -79,8 +79,8 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">アームウェービング（前足を回す動作）</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• 意味:</strong> 「降伏」や「敵意がないこと」を示す社会信号で、人間や大きな個体に対して自分を小さく見せる挨拶です。<br/>
-    <strong>• 対処法:</strong> 驚かせないよう目線を合わせて優しく近づき、静かな声で話しかけながら安心感を与えます。
+    <strong>• 意味:</strong> 相手に攻撃意思がないことを伝える復従と平和の社会信号で、自分より強い存在や飼い主に向けて行われます。<br/>
+    <strong>• 対処法:</strong> 目線を低くして優しく近づき、落ち着いた声で話しかけながら、飼い主が安全な存在であると認識できるようご褒美を与えます。
   </p>
 </div>
 
@@ -91,30 +91,30 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">朝：バスキングランプとUVBライトの点灯</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">朝：バスキング熱源およびUVBランプの点灯</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    ライトをオンにし、バスキングスポットを35〜40℃に温めます。体を温めることで消化器官を活性化させます。
+    スポット保温球とUVBライトを点灯します。バスキングスポットの温度が35〜40℃に達し、消化酵素が働くよう体温上昇を促します。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">昼：栄養を含ませたエサとカルシウム添加</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">昼：栄養を含ませた昆虫給餌とカルシウム添加</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    カルシウムパウダー（室内飼育ではビタミンD3入り）をまぶした昆虫と、小松菜やチンゲンサイなどの新鮮な野菜を与えます。
+    カルシウムパウダー（室内飼育ではビタミンD3入り）をまぶした生餌昆虫と、チコリやチンゲンサイなどの新鮮な高カルシウム野菜を提供します。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">夜：完全消灯と夜間温度の管理</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">夜：完全消灯と安全な夜間温度の維持</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    すべてのライトを消します。夜間は温度を自然に下げますが、代謝維持のため18℃を下回らないよう管理します。
+    ケージ内のすべての照明を消灯します。夜間は自然な代謝のために温度を下げますが、安全のため18℃を下回らないように管理します。
   </p>
 </div>
 
@@ -129,21 +129,21 @@ faqs:
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>UVBライトはどのくらいの頻度で交換すべきですか？</span>
+      <span>UVBランプはどのくらいの頻度で交換すべきですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      紫外線ライトは、球切れしていなくても紫外線放出量が徐々に低下します。光が出ていても、半年から1年ごとに新品のUVBバルブに交換する必要があります。
+      UVBランプは、球切れしていなくても時間の経過とともに紫外線放出量が著しく低下します。目視で点滅していなくても、通常6〜12ヶ月周期で交換する必要があります。
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>代謝性骨疾患（MBD）の初期症状は？</span>
+      <span>代謝性骨疾患（MBD）の初期サインは何ですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      下顎の軟化（フニャフニャになる）、手足の腫れ、筋肉の震え、歩行困難などが代表的な兆候です。これらの症状が見られた場合は直ちに紫外線と栄養補給を見直し、専門の獣医師に相談してください。
+      下顎が柔らかくなる、足の関節の腫れ、筋肉の震え、歩行時に力なく滑るなどの症状が初期の兆候です。発見した場合は直ちに照明設備を補強し、専門の獣医師の診察を受けてください。
     </p>
   </details>
 </div>

@@ -1,40 +1,40 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "El gigante gentil Maine Coon: Cuidado de 3 pasos para su salud cardíaca y magnífico manto doble"
-description: "El gigante gentil Maine Coon. Descubra medidas de seguridad para la columna por su gran peso y una rutina de 3 pasos para la salud cardíaca y cuidado de su manto."
+title: "El gigante gentil Maine Coon: Rutina diaria de 3 pasos para la salud cardíaca y su magnífico manto doble"
+description: "Cuidados del gigante gentil Maine Coon de apariencia leonina. Descubra medidas para amortiguar el impacto articular por peso corporal y una rutina de 3 pasos para monitorear la Miocardiopatía Hipertrófica (HCM)."
 pubDate: "2026-04-20"
 updatedDate: "2026-04-20"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Maine Coon"]
+tags: ["CuidadoMascotas","SaludMascotas","Maine Coon (Felis catus)"]
 heroImage: "/images/blog/maine_coon_care.png"
 app: "petself"
 formatVersion: 4
-authority: "Guía de la Maine Coon Breeders & Fanciers Association (MCBFA) y protocolos de manejo de gatos grandes de AAFP"
+authority: "Guía Oficial de la Maine Coon Breeders & Fanciers Association (MCBFA) y Protocolos de Manejo de Gatos Grandes de la AAFP"
 steps:
-  - name: "Lenguaje corporal del Maine Coon: Trinos amigables y cola bufada"
-    text: "Los Maine Coons son sociables y les gusta comunicarse. Las señales clave incluyen el 'trino' y la 'cola bufada'. Un trino suave al acercarse es un saludo amistoso. Por el contrario, al asustarse por ruidos fuertes, su cola se infla por completo. Cuando vea esto, retire el factor de estrés y déjelo calmarse solo."
-  - name: "Maine Coon's Body Language & Signals"
-    text: "* Trino: Una vocalización amistosa que muestra confianza y afecto, pidiendo atención. (Responda con un tono cálido o acarícielo suavemente para corresponder.)
+  - name: "Lenguaje corporal del Maine Coon: Trinos amigables y cola erizada"
+    text: "Los Maine Coons son sociables y disfrutan comunicándose. Las señales clave de comunicación incluyen el 'trino' (Trilling) y la 'cola erizada' (Puffed Tail). Un trino suave al acercarse es un saludo afectuoso para iniciar interacción. Por el contrario, cuando se asustan con ruidos fuertes o entornos desconocidos, el pelo de su cola se eriza adquiriendo forma de cepillo. Cuando observe esto, retire la fuente de estrés y déjelo calmarse a solas."
+  - name: "Maine Coon (Felis catus)'s Body Language & Signals"
+    text: "* Trino (Trilling): Una vocalización amistosa que muestra máxima confianza y afecto, solicitando una interacción calmada. (Responda con un tono de voz suave o acaricie sus mejillas para corresponder al afecto.)
 
-* Cola bufada o erizada: Una respuesta de miedo involuntaria a ruidos u objetos repentinos, que indica alta alerta. (Retire el factor de estrés. No fuerce el contacto; deje que se calme solo.)"
+* Cola erizada o bufada (Puffed Tail): Una respuesta involuntaria de miedo ante estímulos auditivos o visuales repentinos, indicando máxima alerta. (Retire inmediatamente el factor de estrés. No fuerce el contacto físico y deje que se tranquilice solo.)"
   - name: "Customized 3-Step Home Care Routine"
-    text: "* STEP 1. Mañana: Control estricto de peso e hidratación para evitar HCM: La HCM en el Maine Coon empeora con la obesidad. Pese su comida diariamente en una báscula para controlar las calorías y proporcione agua fresca.
+    text: "* STEP 1. Mañana: Control estricto de la dieta para gestión de peso y prevención de HCM: La miocardiopatía hipertrófica (HCM) en el Maine Coon empeora con la obesidad. Pese su comida diariamente en una báscula digital siguiendo las calorías necesarias y asegure agua fresca.
 
-* STEP 2. Tarde: Cepillado completo con peine de metal y carda: El pelo del cuello y las axilas se enreda fácilmente, causando dermatitis. Peine a fondo con peine de metal para soltar el subpelo.
+* STEP 2. Tarde: Cepillado del manto doble con peine de metal y carda para evitar nudos: El pelo del collar y las axilas se enreda con facilidad, pudiendo provocar dermatitis. Peine a fondo con peine de acero hasta el subpelo para deshacer nudos y eliminar la caspa.
 
-* STEP 3. Noche: Alfombras amortiguadoras y control de frecuencia respiratoria: Su gran peso aumenta el impacto al saltar. Revise alfombras amortiguadoras. Controle la frecuencia respiratoria al dormir (menos de 30 por minuto)."
+* STEP 3. Noche: Inspección de alfombras amortiguadoras y control de frecuencia respiratoria: Su gran peso aumenta el impacto al saltar desde alturas. Compruebe las alfombras protectoras bajo rascadores y monitoree su frecuencia respiratoria al dormir (menos de 30 respiraciones por minuto)."
 faqs:
-  - question: "¿Cómo debo manejar el alto riesgo de HCM en el Maine Coon?"
-    answer: "Las ecocardiografías veterinarias periódicas son esenciales. Evite la obesidad con control de raciones. Si la respiración al dormir supera las 30 por minuto, acuda al veterinario de inmediato."
+  - question: "¿Cómo debo manejar el alto riesgo de Cardiomiopatía Hipertrófica (HCM) en el Maine Coon?"
+    answer: "Las ecocardiografías veterinarias periódicas son esenciales. En casa, evite la obesidad con un control estricto de raciones. Si la frecuencia respiratoria en reposo supera las 30 respiraciones por minuto o jadea con la boca abierta, acuda al veterinario inmediatamente."
   - question: "¿Qué pasa si cepillo a la fuerza el pelo enredado de mi Maine Coon?"
-    answer: "Por su gran tamaño y fuerza, si asocian el aseo con dolor y se defienden, será muy difícil manejarlos. Use sprays desenredantes primero y cepille en sesiones cortas."
+    answer: "Por su gran tamaño y fuerza, si asocian el cepillado con dolor y reaccionan a la defensiva, será imposible manipularlos. Aplique un espray desenredante primero y cepille suavemente en sesiones breves."
 ---
 
-Los Maine Coons son los 'gigantes gentiles' del mundo felino. Tienen colas tupidas y caras leoninas. Son dulces y les encanta jugar con agua. 🐈
+Los Maine Coons, originarios de América del Norte, son los 'gigantes gentiles' del mundo felino. Son famosos por su denso collar estilo melena de león, los pinceles en las orejas (puntas de lince) y su hocico robusto. A pesar de su imponente físico, poseen un temperamento dulce, conviven bien con niños y otras mascotas, y tienen un gusto poco habitual por jugar con el agua. 🐈
 
-Sin embargo, al pesar de 8 a 12 kg, sus articulaciones sufren mucha presión. También son propensos a la Cardiomiopatía Hipertrófica (HCM), un problema cardíaco hereditario. Controlar su respiración al dormir y usar cojines de impacto en sus saltos es fundamental.
+Sin embargo, como los machos adultos pesan habitualmente entre 8 y 12 kg, la carga sobre sus articulaciones por la gravedad es considerable. Además, tienen una predisposición genética superior para desarrollar Cardiomiopatía Hipertrófica (HCM). Por ello, controlar su frecuencia respiratoria durante el sueño y amortiguar el impacto de sus saltos resulta indispensable en su rutina diaria.
 
-Hoy, PetSelf descodifica las señales del Maine Coon e introduce una rutina de 3 pasos para proteger su corazón y cuidar su hermoso pelo.
+Hoy, PetSelf descifra el lenguaje corporal del Maine Coon y presenta una rutina diaria de 3 pasos para proteger su corazón y mantener su hermoso manto doble.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -43,48 +43,48 @@ Hoy, PetSelf descodifica las señales del Maine Coon e introduce una rutina de 3
       Evidencia Veterinaria y Comportamental
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Este contenido se basa en <strong>Guía de la Maine Coon Breeders & Fanciers Association (MCBFA) y protocolos de manejo de gatos grandes de AAFP</strong>.
+      Este contenido se basa en <strong>Guía Oficial de la Maine Coon Breeders & Fanciers Association (MCBFA) y Protocolos de Manejo de Gatos Grandes de la AAFP</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 1. Lenguaje corporal del Maine Coon: Trinos amigables y cola bufada
+## 1. Lenguaje corporal del Maine Coon: Trinos amigables y cola erizada
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Lenguaje corporal del Maine Coon: Trinos amigables y cola bufada</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Lenguaje corporal del Maine Coon: Trinos amigables y cola erizada</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Los Maine Coons son sociables y les gusta comunicarse. Las señales clave incluyen el 'trino' y la 'cola bufada'. Un trino suave al acercarse es un saludo amistoso. Por el contrario, al asustarse por ruidos fuertes, su cola se infla por completo. Cuando vea esto, retire el factor de estrés y déjelo calmarse solo.
+    Los Maine Coons son sociables y disfrutan comunicándose. Las señales clave de comunicación incluyen el 'trino' (Trilling) y la 'cola erizada' (Puffed Tail). Un trino suave al acercarse es un saludo afectuoso para iniciar interacción. Por el contrario, cuando se asustan con ruidos fuertes o entornos desconocidos, el pelo de su cola se eriza adquiriendo forma de cepillo. Cuando observe esto, retire la fuente de estrés y déjelo calmarse a solas.
   </p>
 </div>
 
 ---
 
-## 2. Maine Coon's Body Language & Signals
+## 2. Maine Coon (Felis catus)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Señal Corporal 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Trino</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Trino (Trilling)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Significado:</strong> Una vocalización amistosa que muestra confianza y afecto, pidiendo atención.<br/>
-    <strong>• Respuesta:</strong> Responda con un tono cálido o acarícielo suavemente para corresponder.
+    <strong>• Significado:</strong> Una vocalización amistosa que muestra máxima confianza y afecto, solicitando una interacción calmada.<br/>
+    <strong>• Respuesta:</strong> Responda con un tono de voz suave o acaricie sus mejillas para corresponder al afecto.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Señal Corporal 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Cola bufada o erizada</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Cola erizada o bufada (Puffed Tail)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Significado:</strong> Una respuesta de miedo involuntaria a ruidos u objetos repentinos, que indica alta alerta.<br/>
-    <strong>• Respuesta:</strong> Retire el factor de estrés. No fuerce el contacto; deje que se calme solo.
+    <strong>• Significado:</strong> Una respuesta involuntaria de miedo ante estímulos auditivos o visuales repentinos, indicando máxima alerta.<br/>
+    <strong>• Respuesta:</strong> Retire inmediatamente el factor de estrés. No fuerce el contacto físico y deje que se tranquilice solo.
   </p>
 </div>
 
@@ -95,30 +95,30 @@ Hoy, PetSelf descodifica las señales del Maine Coon e introduce una rutina de 3
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Mañana: Control estricto de peso e hidratación para evitar HCM</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Mañana: Control estricto de la dieta para gestión de peso y prevención de HCM</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    La HCM en el Maine Coon empeora con la obesidad. Pese su comida diariamente en una báscula para controlar las calorías y proporcione agua fresca.
+    La miocardiopatía hipertrófica (HCM) en el Maine Coon empeora con la obesidad. Pese su comida diariamente en una báscula digital siguiendo las calorías necesarias y asegure agua fresca.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: Cepillado completo con peine de metal y carda</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: Cepillado del manto doble con peine de metal y carda para evitar nudos</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    El pelo del cuello y las axilas se enreda fácilmente, causando dermatitis. Peine a fondo con peine de metal para soltar el subpelo.
+    El pelo del collar y las axilas se enreda con facilidad, pudiendo provocar dermatitis. Peine a fondo con peine de acero hasta el subpelo para deshacer nudos y eliminar la caspa.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noche: Alfombras amortiguadoras y control de frecuencia respiratoria</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noche: Inspección de alfombras amortiguadoras y control de frecuencia respiratoria</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Su gran peso aumenta el impacto al saltar. Revise alfombras amortiguadoras. Controle la frecuencia respiratoria al dormir (menos de 30 por minuto).
+    Su gran peso aumenta el impacto al saltar desde alturas. Compruebe las alfombras protectoras bajo rascadores y monitoree su frecuencia respiratoria al dormir (menos de 30 respiraciones por minuto).
   </p>
 </div>
 
@@ -133,11 +133,11 @@ Hoy, PetSelf descodifica las señales del Maine Coon e introduce una rutina de 3
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>¿Cómo debo manejar el alto riesgo de HCM en el Maine Coon?</span>
+      <span>¿Cómo debo manejar el alto riesgo de Cardiomiopatía Hipertrófica (HCM) en el Maine Coon?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Las ecocardiografías veterinarias periódicas son esenciales. Evite la obesidad con control de raciones. Si la respiración al dormir supera las 30 por minuto, acuda al veterinario de inmediato.
+      Las ecocardiografías veterinarias periódicas son esenciales. En casa, evite la obesidad con un control estricto de raciones. Si la frecuencia respiratoria en reposo supera las 30 respiraciones por minuto o jadea con la boca abierta, acuda al veterinario inmediatamente.
     </p>
   </details>
 
@@ -147,7 +147,7 @@ Hoy, PetSelf descodifica las señales del Maine Coon e introduce una rutina de 3
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Por su gran tamaño y fuerza, si asocian el aseo con dolor y se defienden, será muy difícil manejarlos. Use sprays desenredantes primero y cepille en sesiones cortas.
+      Por su gran tamaño y fuerza, si asocian el cepillado con dolor y reaccionan a la defensiva, será imposible manipularlos. Aplique un espray desenredante primero y cepille suavemente en sesiones breves.
     </p>
   </details>
 </div>

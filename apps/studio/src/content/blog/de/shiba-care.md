@@ -3,7 +3,7 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Shiba Inu Unabhängigkeit und Fellpflege: Eine 3-Schritte-Routine"
 description: "Der Shiba Inu ist unabhängig und berührungsempfindlich. Lernen Sie Bürstentechniken für sein doppeltes Fell und eine 3-Schritte-Routine für stressfreie Berührung."
 pubDate: "2026-01-29"
-updatedDate: "2026-01-29"
+updatedDate: "2026-07-26"
 category: "FreshSelf"
 tags: ["Haustierpflege","Haustiergesundheit","Shiba Inu"]
 heroImage: "/images/blog/shiba_care.png"
@@ -14,18 +14,18 @@ steps:
   - name: "Körpersprache des Shiba Inu: Signale von Druck und Stressabbau"
     text: "Shiba Inus drücken ihre Grenzen klar und leise aus. Wichtige Signale sind 'Wegschauen' und 'Abschütteln'. Wenn eine Person nach ihnen greift und der Shiba den Kopf wegdreht, ist das eine höfliche Bitte wie 'Bitte fass mich jetzt nicht an'. Ein Abschütteln des ganzen Körpers nach einem stressigen Ereignis ist ein instinktiver Mechanismus, um körperliche Anspannung abzubauen und sich psychisch zu erholen."
   - name: "Shiba Inu's Body Language & Signals"
-    text: "* Wegschauen: Eine höfliche Bitte, sich nicht weiter zu nähern, da dies Druck auf den Hund ausübt. (Wenn Sie dies sehen, versuchen Sie nicht, ihn anzufassen. Ziehen Sie die Hand zurück.)
+    text: "* Wegschauen: Eine höfliche Bitte, sich nicht weiter zu nähern oder den Hund anzufassen, da dies Druck ausübt. (Wenn Sie dies sehen, versuchen Sie nicht, ihn anzufassen. Ziehen Sie die Hand zurück und geben Sie ihm Raum.)
 
 * Abschütteln: Eine Aktion, um Stress oder körperliche Anspannung eines kürzlichen Ereignisses abzuschütteln. (Wenn sie sich beim Pflegen schütteln, bauen sie Spannung ab. Beenden Sie die Aktivität und lassen Sie sie ruhen.)"
   - name: "Customized 3-Step Home Care Routine"
-    text: "* STEP 1. Morgen: Desensibilisierung an empfindlichen Stellen: Berühren Sie Pfoten oder Hüften kurz für 1 Sekunde und geben Sie sofort ein Leckerli. Wiederholen Sie dies, um positive Assoziationen aufzubauen.
+    text: "* STEP 1. Morgen: Desensibilisierung an empfindlichen Stellen: Berühren Sie Pfoten oder Hüften kurz für 1 Sekunde und geben Sie sofort ein hochwertiges Leckerli. Wiederholen Sie dies, um positive Assoziationen aufzubauen.
 
 * STEP 2. Nachmittag: Stressfreie Pflege des doppelten Fells: Bürsten Sie mit einer Zupfbürste sanft in Haarwuchsrichtung. Wenn der Hund Anzeichen von Unwohlsein zeigt oder knurrt, brechen Sie sofort ab.
 
-* STEP 3. Abend: Respektieren der unabhängigen Schutzzone: Wenn sich Ihr Shiba am Abend in seine Box oder eine sichere Ecke zurückzieht, zwingen Sie ihn nicht heraus. Lassen Sie ihn in völliger Ruhe entspannen."
+* STEP 3. Abend: Respektieren der unabhängigen Schutzzone: Wenn sich Ihr Shiba am Abend in seine Box oder eine sichere Ecke zurückzieht, zwingen Sie ihn nicht heraus und streicheln Sie ihn nicht. Lassen Sie ihn in völliger Ruhe entspannen."
 faqs:
   - question: "Warum schreit mein Shiba Inu beim Pflegen?"
-    answer: "Dies ist als 'Shiba-Schrei' bekannt. Es ist ein Ausdruck von echter Angst und Druck. Brechen Sie sofort ab und beginnen Sie das Training von vorn, z. B. Belohnung nur für das Ansehen der Bürste."
+    answer: "Dies ist als 'Shiba-Schrei' bekannt. Es ist ein Ausdruck von echter Angst und Druck, kein einfaches Theater. Brechen Sie sofort ab und beginnen Sie das Training von vorn, z. B. Belohnung nur für das Ansehen der Bürste."
   - question: "Warum ist mein Shiba Inu nicht so anhänglich wie andere Hunde?"
     answer: "Shibas verhalten sich ähnlich wie Katzen und schätzen ihren Freiraum. Dass sie nicht freudig mit dem Schwanz wedeln, bedeutet nicht, dass sie Sie nicht lieben; ruhiges Liegen in Ihrer Nähe ist ihr Liebesbeweis."
 ---
@@ -68,8 +68,8 @@ Shiba Inus sind weltweit für ihr fuchsartiges Aussehen und ihren geringelten Sc
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Wegschauen</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Bedeutung:</strong> Eine höfliche Bitte, sich nicht weiter zu nähern, da dies Druck auf den Hund ausübt.<br/>
-    <strong>• Reaktion:</strong> Wenn Sie dies sehen, versuchen Sie nicht, ihn anzufassen. Ziehen Sie die Hand zurück.
+    <strong>• Bedeutung:</strong> Eine höfliche Bitte, sich nicht weiter zu nähern oder den Hund anzufassen, da dies Druck ausübt.<br/>
+    <strong>• Reaktion:</strong> Wenn Sie dies sehen, versuchen Sie nicht, ihn anzufassen. Ziehen Sie die Hand zurück und geben Sie ihm Raum.
   </p>
 </div>
 
@@ -94,7 +94,7 @@ Shiba Inus sind weltweit für ihr fuchsartiges Aussehen und ihren geringelten Sc
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Morgen: Desensibilisierung an empfindlichen Stellen</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Berühren Sie Pfoten oder Hüften kurz für 1 Sekunde und geben Sie sofort ein Leckerli. Wiederholen Sie dies, um positive Assoziationen aufzubauen.
+    Berühren Sie Pfoten oder Hüften kurz für 1 Sekunde und geben Sie sofort ein hochwertiges Leckerli. Wiederholen Sie dies, um positive Assoziationen aufzubauen.
   </p>
 </div>
 
@@ -114,7 +114,7 @@ Shiba Inus sind weltweit für ihr fuchsartiges Aussehen und ihren geringelten Sc
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Abend: Respektieren der unabhängigen Schutzzone</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Wenn sich Ihr Shiba am Abend in seine Box oder eine sichere Ecke zurückzieht, zwingen Sie ihn nicht heraus. Lassen Sie ihn in völliger Ruhe entspannen.
+    Wenn sich Ihr Shiba am Abend in seine Box oder eine sichere Ecke zurückzieht, zwingen Sie ihn nicht heraus und streicheln Sie ihn nicht. Lassen Sie ihn in völliger Ruhe entspannen.
   </p>
 </div>
 
@@ -133,7 +133,7 @@ Shiba Inus sind weltweit für ihr fuchsartiges Aussehen und ihren geringelten Sc
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Dies ist als 'Shiba-Schrei' bekannt. Es ist ein Ausdruck von echter Angst und Druck. Brechen Sie sofort ab und beginnen Sie das Training von vorn, z. B. Belohnung nur für das Ansehen der Bürste.
+      Dies ist als 'Shiba-Schrei' bekannt. Es ist ein Ausdruck von echter Angst und Druck, kein einfaches Theater. Brechen Sie sofort ab und beginnen Sie das Training von vorn, z. B. Belohnung nur für das Ansehen der Bürste.
     </p>
   </details>
 

@@ -1,28 +1,28 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "ヨツユビハリネズミのアンティング習性と低体温防止の3ステップルーチン"
+title: "ヨツユビハリネズミのアンティング習性と低体温防止の3ステップ日常ルーティン"
 description: "可愛らしい棘を持つヨツユビハリネズミ。自分の体に泡を塗るアンティングの理由と、冬眠を防ぐ24〜26度の温度管理を中心とした3ステップケアを紹介します。"
 pubDate: "2026-05-21"
 updatedDate: "2026-05-21"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","ヨツユビハリネズミ (African Pygmy Hedgehog)"]
+tags: ["ペットケア","ペット健康","ヨツユビハリネズミ (Atelerix albiventris / African Pygmy Hedgehog)"]
 heroImage: "/images/blog/pygmy_hedgehog_care.png"
 app: "petself"
 formatVersion: 4
-authority: "Hedgehog Welfare Society ガイドラインおよびエキゾチック獣医学プロトコル"
+authority: "Hedgehog Welfare Society ガイドラインおよびエキゾチック小動物獣医学プロトコル"
 steps:
   - name: "ハリネズミの本能：アンティングの泡と棘の警戒サイン"
-    text: "ヨツユビハリネズミは新しい匂いや物質を察知すると、口の中に泡を溜めて棘に塗りつける『アンティング（Self-Anointing）』を行います。これは自身の匂いを隠すための正常な本能です。対して、恐怖を感じる時は丸まって『フッフッ』と声を出し接触を警告します。"
-  - name: "ヨツユビハリネズミ (African Pygmy Hedgehog)'s Body Language & Signals"
+    text: "ヨツユビハリネズミは新しい匂いや物質を察知すると、口の中に泡を溜めて棘に塗りつける「アンティング（Self-Anointing）」を行います。これは自身の匂いを隠したり環境に慣れるための正常な本能です。対して、恐怖を感じる時は丸まって「フッフッ（Hissing）」と声を出し、接触を厳しく警告します。"
+  - name: "ヨツユビハリネズミ (Atelerix albiventris / African Pygmy Hedgehog)'s Body Language & Signals"
     text: "* 泡を塗る行為 (Self-Anointing): 新しい匂いを記憶し、それを自身の体に塗ってカモフラージュしようとする野生の本能的な行動です。 (正常な行為なので病気と誤解して無理に止めず、そのまま匂いを覚えさせてあげてください。)
 
 * 丸まってフッフッと鳴く (Hissing/Ball-up): 周囲に強い恐怖を感じ、棘を完全に立てて相手の侵入を防ごうとしている防衛状態です。 (無理に素手で触らず、フリース等の布を被せて暗い環境を作ってからそっとしておいてあげましょう。)"
   - name: "Customized 3-Step Home Care Routine"
-    text: "* STEP 1. 朝：排泄物で汚れた回し車や食器の洗浄: ハリネズミは回し車を回しながら排泄する習性があるため、朝一番に用品をきれいに洗浄・消毒します。
+    text: "* STEP 1. 朝：排泄物で汚れた回し車や食器の洗浄: ハリネズミは回し車を回しながら排泄する習性があるため、朝一番に夜間使った用品をきれいに洗浄・消毒します。
 
 * STEP 2. 昼：ケージ内温度を24〜26度に保ち加湿器を設置: 寒さによる低体温症や冬眠死を防ぐため、ペットヒーターや自動温度調節器が正常に機能しているか確認します。
 
-* STEP 3. 夜：低脂肪の栄養フード給餌と足裏の怪我チェック: 夜に活動を始めるため消化に良いフードを与え、回し車で怪我をしやすい足裏に傷がないか確認します。"
+* STEP 3. 夜：低脂肪の栄養フード給餌と足裏の怪我チェック: 夜に活動を始めるため消化に良いフードを与え、回し車や砂で怪我をしやすい足裏に傷がないか懐中電灯等で確認します。"
 faqs:
   - question: "低体温症や強制冬眠に入りかけているサインは？"
     answer: "お腹を床に擦り付けるようにしてうまく歩けなくなり、体が冷たくなって呼びかけても反応が著しく鈍くなります。この場合はすぐに温かいタオル等で包み、暖かい部屋で少しずつ体温を上げて病院へ連れて行ってください。"
@@ -30,7 +30,7 @@ faqs:
     answer: "ハリネズミはげっ歯類とは異なり、生涯歯が伸び続けるわけではありません。そのためかじり木は不要です。むしろ硬いものをかじると歯が折れやすいため、極端に硬いキャットフードなどは避けるべきです。"
 ---
 
-ヨツユビハリネズミは、そっと顔を出して鼻を動かす仕草が魅力的なエキゾチックペットです。非常に臆病で棘を使った防御手段を持ち、初めて嗅ぐ匂いに出会うと口で泡を作り棘に塗る独特の行動（アンティング）を見せます。また、室温が少し下がるだけでも命の危険がある冬眠に入ってしまうことがあります。今回はハリネズミの棘の反応と、安全な温度・衛生環境を維持するための3ステップ管理法を解説します。
+ヨツユビハリネズミは、そっと顔を出して鼻を動かす仕草が魅力的なエキゾチックペットです。非常に臆病で棘を使った防御手段を持ち、初めて嗅ぐ匂いに出会うと口で泡を作り棘に塗る独特の行動（アンティング）を見せます。また、室温が少し下がるだけでも命の危険がある疑似冬眠に入ってしまうことがあります。今回はPetSelfが、ハリネズミの棘の反応と、安全な温度・衛生環境を維持するための3ステップ日常管理法を解説します。
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -39,7 +39,7 @@ faqs:
       獣医学・行動学的根拠
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      本コンテンツは、<strong>Hedgehog Welfare Society ガイドラインおよびエキゾチック獣医学プロトコル</strong>に基づいています。
+      本コンテンツは、<strong>Hedgehog Welfare Society ガイドラインおよびエキゾチック小動物獣医学プロトコル</strong>に基づいています。
     </p>
   </div>
 </div>
@@ -54,13 +54,13 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">ハリネズミの本能：アンティングの泡と棘の警戒サイン</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    ヨツユビハリネズミは新しい匂いや物質を察知すると、口の中に泡を溜めて棘に塗りつける『アンティング（Self-Anointing）』を行います。これは自身の匂いを隠すための正常な本能です。対して、恐怖を感じる時は丸まって『フッフッ』と声を出し接触を警告します。
+    ヨツユビハリネズミは新しい匂いや物質を察知すると、口の中に泡を溜めて棘に塗りつける「アンティング（Self-Anointing）」を行います。これは自身の匂いを隠したり環境に慣れるための正常な本能です。対して、恐怖を感じる時は丸まって「フッフッ（Hissing）」と声を出し、接触を厳しく警告します。
   </p>
 </div>
 
 ---
 
-## 2. ヨツユビハリネズミ (African Pygmy Hedgehog)'s Body Language & Signals
+## 2. ヨツユビハリネズミ (Atelerix albiventris / African Pygmy Hedgehog)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -94,7 +94,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">朝：排泄物で汚れた回し車や食器の洗浄</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    ハリネズミは回し車を回しながら排泄する習性があるため、朝一番に用品をきれいに洗浄・消毒します。
+    ハリネズミは回し車を回しながら排泄する習性があるため、朝一番に夜間使った用品をきれいに洗浄・消毒します。
   </p>
 </div>
 
@@ -114,7 +114,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">夜：低脂肪の栄養フード給餌と足裏の怪我チェック</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    夜に活動を始めるため消化に良いフードを与え、回し車で怪我をしやすい足裏に傷がないか確認します。
+    夜に活動を始めるため消化に良いフードを与え、回し車や砂で怪我をしやすい足裏に傷がないか懐中電灯等で確認します。
   </p>
 </div>
 

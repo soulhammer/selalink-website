@@ -5,19 +5,19 @@ description: "겁이 많고 낯선 소음에 민감한 러시안 블루. 스트�
 pubDate: "2026-03-26"
 updatedDate: "2026-03-26"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","러시안 블루 (Russian Blue)"]
+tags: ["반려동물","펫케어","러시안 블루 (Felis catus / Russian Blue)"]
 heroImage: "/images/blog/russian_blue_care.png"
 app: "petself"
 formatVersion: 4
-authority: "Cat Fanciers' Association (CFA) 묘종 표준 가이드 및 Cornell Feline Health Center"
+authority: "Cat Fanciers' Association (CFA) 묘종 표준 가이드 및 Cornell Feline Health Center 행동 지침"
 steps:
   - name: "러시안 블루의 바디 랭귀지: 경계와 불안의 극복"
-    text: "러시안 블루는 조용한 성향만큼 자신의 불편함을 약하게 호소하다가 한계에 다다르면 반응합니다. 대표적으로는 '동공 확장'과 '몸 낮춰 웅크리기(Crouching)'가 있습니다. 갑작스러운 큰 소리가 나거나 낯선 사람이 만지려 할 때 눈의 동공이 까맣고 동그랗게 커지는 것은 긴장 상태를 뜻합니다. 이때 바닥에 몸을 밀착시키고 귀를 양옆으로 눕혀 마징가 귀를 만드는 행동은 극심한 공포를 느껴 도망치거나 공격을 준비하는 방어의 신호입니다."
-  - name: "러시안 블루 (Russian Blue)의 몸짓 언어와 바디 시그널"
+    text: "러시안 블루는 조용한 성향만큼 자신의 불편함을 약하게 호소하다가 한계에 다다르면 반응합니다. 대표적으로는 '동공 확장(Dilated Pupils)'과 '몸 낮춰 웅크리기(Crouching)'가 있습니다. 갑작스러운 큰 소리가 나거나 낯선 사람이 만지려 할 때 눈의 동공이 까맣고 동그랗게 커지는 것은 긴장 상태를 뜻합니다. 이때 바닥에 몸을 밀착시키고 귀를 양옆으로 눕혀 마징가 귀를 만드는 행동은 극심한 공포를 느껴 도망치거나 공격을 준비하는 방어의 신호입니다."
+  - name: "러시안 블루 (Felis catus / Russian Blue)의 몸짓 언어와 바디 시그널"
     text: "* 동공 확장 (Dilated Pupils): 주변 위협 요소를 감지하고 스트레스 호르몬이 활성화되어 긴장했다는 표시입니다. (불을 어둡게 해주고, 자극적인 원인(가전제품 소음 등)을 즉시 정지해 주십시오.)
 
 * 낮게 웅크리기 (Crouching): 도망갈 길을 잃었거나 낯선 대상에 대해 극심한 방어적 공포를 느끼고 있다는 표시입니다. (억지로 안아 올리려 하지 말고, 고양이가 안전하다고 느낄 수 있는 방이나 은신처로 대피하게 두십시오.)"
-  - name: "러시안 블루 (Russian Blue) 맞춤형 3단계 홈케어 루틴"
+  - name: "러시안 블루 (Felis catus / Russian Blue) 맞춤형 3단계 홈케어 루틴"
     text: "* STEP 1. 아침: 화장실과 급식 공간의 청결 및 안전 확보: 예민하고 청결에 신경을 쓰는 러시안 블루를 위해, 아침 일찍 모래 화장실을 깨끗하게 청소하고 소음이 없는 구석 급식 공간 상태를 점검합니다.
 
 * STEP 2. 오후: 높고 안정감 있는 캣타워 콘도 은신처 제공: 소음이나 스트레스 요인 발생 시 신속히 피신할 수 있도록, 문이 닫히는 콘도 형태의 캣타워 안전 공간이 침실 구석에 항상 열려 있는지 점검합니다.
@@ -39,7 +39,7 @@ faqs:
       수의학적 & 행동학적 근거
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Cat Fanciers' Association (CFA) 묘종 표준 가이드 및 Cornell Feline Health Center</strong>에 기반하고 있습니다.
+      본 콘텐츠는 <strong>Cat Fanciers' Association (CFA) 묘종 표준 가이드 및 Cornell Feline Health Center 행동 지침</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -54,13 +54,13 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">러시안 블루의 바디 랭귀지: 경계와 불안의 극복</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    러시안 블루는 조용한 성향만큼 자신의 불편함을 약하게 호소하다가 한계에 다다르면 반응합니다. 대표적으로는 '동공 확장'과 '몸 낮춰 웅크리기(Crouching)'가 있습니다. 갑작스러운 큰 소리가 나거나 낯선 사람이 만지려 할 때 눈의 동공이 까맣고 동그랗게 커지는 것은 긴장 상태를 뜻합니다. 이때 바닥에 몸을 밀착시키고 귀를 양옆으로 눕혀 마징가 귀를 만드는 행동은 극심한 공포를 느껴 도망치거나 공격을 준비하는 방어의 신호입니다.
+    러시안 블루는 조용한 성향만큼 자신의 불편함을 약하게 호소하다가 한계에 다다르면 반응합니다. 대표적으로는 '동공 확장(Dilated Pupils)'과 '몸 낮춰 웅크리기(Crouching)'가 있습니다. 갑작스러운 큰 소리가 나거나 낯선 사람이 만지려 할 때 눈의 동공이 까맣고 동그랗게 커지는 것은 긴장 상태를 뜻합니다. 이때 바닥에 몸을 밀착시키고 귀를 양옆으로 눕혀 마징가 귀를 만드는 행동은 극심한 공포를 느껴 도망치거나 공격을 준비하는 방어의 신호입니다.
   </p>
 </div>
 
 ---
 
-## 2. 러시안 블루 (Russian Blue)의 몸짓 언어와 바디 시그널
+## 2. 러시안 블루 (Felis catus / Russian Blue)의 몸짓 언어와 바디 시그널
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ faqs:
 
 ---
 
-## 3. 러시안 블루 (Russian Blue) 맞춤형 3단계 홈케어 루틴
+## 3. 러시안 블루 (Felis catus / Russian Blue) 맞춤형 3단계 홈케어 루틴
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

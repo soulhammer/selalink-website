@@ -3,7 +3,7 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Managing Shiba Inu Independence and Double Coat: A 3-Step Routine"
 description: "Shiba Inus are highly independent and touch-sensitive. Learn proper brushing techniques for their double coat and a 3-step routine for stress-free contact."
 pubDate: "2026-01-29"
-updatedDate: "2026-01-29"
+updatedDate: "2026-07-26"
 category: "FreshSelf"
 tags: ["PetCare","PetHealth","Shiba Inu"]
 heroImage: "/images/blog/shiba_care.png"

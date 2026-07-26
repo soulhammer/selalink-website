@@ -5,32 +5,32 @@ description: "Panduan lengkap merawat Kelinci Holland Lop. Cegah infeksi telinga
 pubDate: "2026-07-15"
 updatedDate: "2026-07-15"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Kelinci Holland Lop"]
+tags: ["PerawatanHewan","KesehatanHewan","Kelinci Holland Lop (Oryctolagus cuniculus)"]
 heroImage: "/images/blog/holland_lop_care.png"
 app: "petself"
 formatVersion: 4
-authority: "House Rabbit Society (HRS) & Standar Dokter Hewan AEMV"
+authority: "House Rabbit Society (HRS) & Standar Medis Dokter Hewan AEMV"
 steps:
   - name: "Komunikasi Holland Lop: Tarian Binky & Menghentakkan Kaki Belakang"
-    text: "Lompatan berputar di udara (Binky) adalah ungkapan kebahagiaan tertinggi. Menghentakkan kaki belakang (Thumping) menandakan kewaspadaan atau rasa tidak suka."
-  - name: "Kelinci Holland Lop's Body Language & Signals"
-    text: "* Lompatan Berputar di Udara (Binky Dance): Ungkapan rasa gembira, antusiasme, dan kenyamanan luar biasa pada lingkungannya. (Sediakan karpet anti-licin agar kelinci dapat berlari aman tanpa terpeleset.)
+    text: "Kelinci mengekspresikan emosi melalui gerakan tubuh. Lompatan berputar di udara 'Binky' adalah ungkapan kebahagiaan tertinggi, sedangkan menghentakkan kaki belakang (Thumping) menandakan kewaspadaan atau rasa tidak suka."
+  - name: "Kelinci Holland Lop (Oryctolagus cuniculus)'s Body Language & Signals"
+    text: "* Lompatan Berputar di Udara (Binky Dance): Ungkapan rasa gembira, antusiasme, dan kenyamanan luar biasa pada lingkungan serta pemiliknya. (Sediakan karpet anti-licin agar kelinci dapat berlari dan melompat aman tanpa terpeleset.)
 
-* Menghentakkan Kaki Belakang (Thumping): Peringatan bahaya akibat suara asing, bau pemangsa, atau kekesalan. (Cari tahu penyebab kaget dan tenangkan dengan suara lembut ber-nada rendah.)"
+* Menghentakkan Kaki Belakang (Thumping): Peringatan bahaya akibat suara asing, bau pemangsa, atau kekesalan karena tidak diberi camilan. (Cari tahu penyebab kaget dan tenangkan dengan suara lembut bernada rendah.)"
   - name: "Customized 3-Step Home Care Routine"
-    text: "* STEP 1. Pagi: Isi Rumput Timothy Tanpa Batas & Ganti Air Minum: Isi tempat rumput dengan rumput Timothy segar pemotongan pertama untuk usus.
+    text: "* STEP 1. Pagi: Isi Rumput Timothy Tanpa Batas & Ganti Air Minum: Isi tempat rumput dengan rumput Timothy segar pemotongan pertama untuk menjaga pergerakan usus dan pengikisan gigi.
 
-* STEP 2. Siang: Cek Kebersihan Telinga Menggantung & Tidur Siang: Buka telinganya perlahan untuk mengecek kemerahan atau kotoran.
+* STEP 2. Siang: Cek Kebersihan Telinga Menggantung & Tidur Siang: Buka telinganya perlahan untuk mengecek kemerahan atau kotoran, dan pastikan tidur siang yang tenang.
 
-* STEP 3. Malam: Bermain Terowongan & Menyikat Bulu: Buka kandang untuk berlari dan sikat bulunya agar tidak tertelan (hairball)."
+* STEP 3. Malam: Bermain Terowongan & Menyikat Bulu: Buka kandang untuk berlari di terowongan dan sikat bulunya agar tidak tertelan (hairball)."
 faqs:
   - question: "Bagaimana jika kelinci tiba-tiba tidak mau makan dan buang air?"
-    answer: "Ini adalah GI Stasis (Stasis Pencernaan), kondisi darurat yang mengancam jiwa dalam 12 jam. Segera bawa ke dokter hewan spesialis eksotis."
+    answer: "Ini adalah GI Stasis (Stasis Pencernaan), kondisi darurat yang mengancam jiwa dalam 12 jam. Jangan dipaksa makan, segera bawa ke dokter hewan spesialis hewan eksotis."
   - question: "Apakah normal jika kelinci sering menggelengkan kepala dan menggaruk telinga?"
-    answer: "Tidak normal. Telinga menggantung mudah lembap dan terinfeksi tungau atau jamur. Jika ada kotoran hitam atau garukan hebat, segera konsultasikan ke dokter hewan."
+    answer: "Tidak normal. Telinga menggantung mudah lembap dan terinfeksi tungau atau jamur otitis. Jika ada kotoran hitam atau garukan hebat, segera konsultasikan ke dokter hewan."
 ---
 
-Holland Lop sangat disukai karena wajah bulat dan telinganya yang menggantung. Menurut standar House Rabbit Society (HRS), bentuk telinga menggantung butuh pemeriksaan rutin agar tidak infeksi otitis, serta rumput Timothy tak terbatas 24 jam untuk mencegah GI Stasis yang mematikan.
+Holland Lop sangat disukai di seluruh dunia karena wajah bulat dan telinganya yang menggantung anggun. Menurut standar House Rabbit Society (HRS) dan AEMV, bentuk telinga menggantung butuh pemeriksaan rutin agar tidak terkena infeksi otitis, serta rumput Timothy tak terbatas 24 jam untuk mencegah GI Stasis yang mematikan.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -39,7 +39,7 @@ Holland Lop sangat disukai karena wajah bulat dan telinganya yang menggantung. M
       Bukti Dokter Hewan & Perilaku
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Konten ini didasarkan pada <strong>House Rabbit Society (HRS) & Standar Dokter Hewan AEMV</strong>.
+      Konten ini didasarkan pada <strong>House Rabbit Society (HRS) & Standar Medis Dokter Hewan AEMV</strong>.
     </p>
   </div>
 </div>
@@ -54,13 +54,13 @@ Holland Lop sangat disukai karena wajah bulat dan telinganya yang menggantung. M
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Komunikasi Holland Lop: Tarian Binky & Menghentakkan Kaki Belakang</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Lompatan berputar di udara (Binky) adalah ungkapan kebahagiaan tertinggi. Menghentakkan kaki belakang (Thumping) menandakan kewaspadaan atau rasa tidak suka.
+    Kelinci mengekspresikan emosi melalui gerakan tubuh. Lompatan berputar di udara 'Binky' adalah ungkapan kebahagiaan tertinggi, sedangkan menghentakkan kaki belakang (Thumping) menandakan kewaspadaan atau rasa tidak suka.
   </p>
 </div>
 
 ---
 
-## 2. Kelinci Holland Lop's Body Language & Signals
+## 2. Kelinci Holland Lop (Oryctolagus cuniculus)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -68,8 +68,8 @@ Holland Lop sangat disukai karena wajah bulat dan telinganya yang menggantung. M
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Lompatan Berputar di Udara (Binky Dance)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Arti:</strong> Ungkapan rasa gembira, antusiasme, dan kenyamanan luar biasa pada lingkungannya.<br/>
-    <strong>• Tindakan:</strong> Sediakan karpet anti-licin agar kelinci dapat berlari aman tanpa terpeleset.
+    <strong>• Arti:</strong> Ungkapan rasa gembira, antusiasme, dan kenyamanan luar biasa pada lingkungan serta pemiliknya.<br/>
+    <strong>• Tindakan:</strong> Sediakan karpet anti-licin agar kelinci dapat berlari dan melompat aman tanpa terpeleset.
   </p>
 </div>
 
@@ -79,8 +79,8 @@ Holland Lop sangat disukai karena wajah bulat dan telinganya yang menggantung. M
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Menghentakkan Kaki Belakang (Thumping)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Arti:</strong> Peringatan bahaya akibat suara asing, bau pemangsa, atau kekesalan.<br/>
-    <strong>• Tindakan:</strong> Cari tahu penyebab kaget dan tenangkan dengan suara lembut ber-nada rendah.
+    <strong>• Arti:</strong> Peringatan bahaya akibat suara asing, bau pemangsa, atau kekesalan karena tidak diberi camilan.<br/>
+    <strong>• Tindakan:</strong> Cari tahu penyebab kaget dan tenangkan dengan suara lembut bernada rendah.
   </p>
 </div>
 
@@ -94,7 +94,7 @@ Holland Lop sangat disukai karena wajah bulat dan telinganya yang menggantung. M
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pagi: Isi Rumput Timothy Tanpa Batas & Ganti Air Minum</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Isi tempat rumput dengan rumput Timothy segar pemotongan pertama untuk usus.
+    Isi tempat rumput dengan rumput Timothy segar pemotongan pertama untuk menjaga pergerakan usus dan pengikisan gigi.
   </p>
 </div>
 
@@ -104,7 +104,7 @@ Holland Lop sangat disukai karena wajah bulat dan telinganya yang menggantung. M
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Siang: Cek Kebersihan Telinga Menggantung & Tidur Siang</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Buka telinganya perlahan untuk mengecek kemerahan atau kotoran.
+    Buka telinganya perlahan untuk mengecek kemerahan atau kotoran, dan pastikan tidur siang yang tenang.
   </p>
 </div>
 
@@ -114,7 +114,7 @@ Holland Lop sangat disukai karena wajah bulat dan telinganya yang menggantung. M
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Malam: Bermain Terowongan & Menyikat Bulu</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Buka kandang untuk berlari dan sikat bulunya agar tidak tertelan (hairball).
+    Buka kandang untuk berlari di terowongan dan sikat bulunya agar tidak tertelan (hairball).
   </p>
 </div>
 
@@ -133,7 +133,7 @@ Holland Lop sangat disukai karena wajah bulat dan telinganya yang menggantung. M
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Ini adalah GI Stasis (Stasis Pencernaan), kondisi darurat yang mengancam jiwa dalam 12 jam. Segera bawa ke dokter hewan spesialis eksotis.
+      Ini adalah GI Stasis (Stasis Pencernaan), kondisi darurat yang mengancam jiwa dalam 12 jam. Jangan dipaksa makan, segera bawa ke dokter hewan spesialis hewan eksotis.
     </p>
   </details>
 
@@ -143,7 +143,7 @@ Holland Lop sangat disukai karena wajah bulat dan telinganya yang menggantung. M
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Tidak normal. Telinga menggantung mudah lembap dan terinfeksi tungau atau jamur. Jika ada kotoran hitam atau garukan hebat, segera konsultasikan ke dokter hewan.
+      Tidak normal. Telinga menggantung mudah lembap dan terinfeksi tungau atau jamur otitis. Jika ada kotoran hitam atau garukan hebat, segera konsultasikan ke dokter hewan.
     </p>
   </details>
 </div>

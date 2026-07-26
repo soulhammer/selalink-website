@@ -6,9 +6,9 @@
       "ko": {
         "title": "레오파드 게코의 꼬리 신호와 올바른 탈피를 돕는 3단계 데일리 케어",
         "description": "입문용 반려 파충류 1위 레오파드 게코. 꼬리 흔들기 감정 신호와 은신처 습도 관리를 통한 완벽 탈피, 핫존/쿨존 온습도 3단계 케어를 정리합니다.",
-        "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) Care Guidelines",
+        "authority": "양서파충류 수의학회(ARAV) 사육 가이드라인 및 파충류 임상 표준",
         "profile": {
-          "breed": "레오파드 게코 (Leopard Gecko)",
+          "breed": "레오파드 게코 (Eublepharis macularius)",
           "lifespan": "15 ~ 20년",
           "sleep_pattern": "12 ~ 14시간 (주간 사막 은신처 수면 / 야행성)",
           "temperament": "온순함, 느긋함, 독자적, 보수적 환경 선호"
@@ -63,9 +63,9 @@
       "en": {
         "title": "Leopard Gecko Tail Communication and 3-Step Care Routine for Safe Shedding",
         "description": "Comprehensive care guide for Leopard Geckos. Learn to decode tail-waving defensive signals, manage humid hides for shedding, and structure ARAV thermal zones.",
-        "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) Care Guidelines",
+        "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) Care Guidelines & Reptile Clinical Standards",
         "profile": {
-          "breed": "Leopard Gecko",
+          "breed": "Leopard Gecko (Eublepharis macularius)",
           "lifespan": "15 - 20 Years",
           "sleep_pattern": "12 - 14 Hours (Nocturnal Desert Hide Sleep)",
           "temperament": "Docile, Calm, Solitary, Sensitive to Environment"
@@ -110,19 +110,19 @@
           }
         ],
         "tags": [
-          "Leopard Gecko",
-          "Reptile Care",
-          "Shedding Guide",
-          "ARAV Standards",
-          "Terrarium Maintenance"
+          "LeopardGecko",
+          "ReptileCare",
+          "SheddingGuide",
+          "ARAVStandards",
+          "TerrariumMaintenance"
         ]
       },
       "ja": {
         "title": "ヒョウモントカゲモドキの尾サインと脱皮不全を防ぐ3ステップデイリーケア",
         "description": "人気のヒョウモントカゲモドキ(レオパ)。しっぽの警戒サイン解読、脱皮不全を防ぐ湿性シェルター管理、ARAV基準の温度勾配を解説します。",
-        "authority": "爬虫類・両生類獣医師協会 (ARAV) 飼育ガイドライン",
+        "authority": "爬虫類・両生類獣医師協会 (ARAV) 飼育ガイドラインおよび臨床標準",
         "profile": {
-          "breed": "ヒョウモントカゲモドキ (Leopard Gecko)",
+          "breed": "ヒョウモントカゲモドキ (Eublepharis macularius / Leopard Gecko)",
           "lifespan": "15 - 20年",
           "sleep_pattern": "12 - 14時間 (夜行性・シェルター睡眠)",
           "temperament": "温厚、マイペース、単独飼育向き、環境に繊細"
@@ -175,18 +175,18 @@
         ]
       },
       "zh": {
-        "title": "豹纹守宫尾部语言与辅助顺畅蜕皮 responses 3步日常护理",
+        "title": "豹纹守宫尾部语言与辅助顺畅蜕皮的3步日常护理流程",
         "description": "首选伴侣爬宠豹纹守宫护理全攻略。解读摇尾警戒信号、湿藏避难所管理与ARAV标准的冷热温区建立。",
-        "authority": "国际两栖爬行动物兽医协会 (ARAV) 护理指南",
+        "authority": "国际两栖爬行动物兽医协会 (ARAV) 护理指南与临床标准",
         "profile": {
-          "breed": "豹纹守宫 (Leopard Gecko)",
+          "breed": "豹纹守宫 (Eublepharis macularius / Leopard Gecko)",
           "lifespan": "15 - 20年",
           "sleep_pattern": "12 - 14小时 (夜行性、躲避穴睡眠)",
           "temperament": "温顺、安静、喜独居、环境敏感"
         },
-        "intro": "豹纹守宫（Leopard Gecko）因其微笑般的面容和斑斓的尾巴而深受全球爬宠爱好者喜爱。遵照ARAV权威指南，作为依赖外部热源的变温动物，饲养缸内必须建立清晰的热区（30°C ~ 32°C）与冷区（24°C ~ 26°C），并提供湿躲避（Wet Cave）以防蜕皮不畅，这是保证其生存的关键。",
-        "whyTitle": "豹纹守宫的肢体语言：摇尾警戒与蜕皮前兆解密",
-        "whyDesc": "守宫肥硕的尾巴既是营养脂肪仓库也是重要的情绪表达器官。分清缓慢S型摇尾防卫与捕食时兴奋抖尾的区别，能有效避免应激。",
+        "intro": "豹纹守宫（Leopard Gecko）因其微笑般的面容和斑斓的尾巴而深受全球爬宠爱好者喜爱。遵照ARAV权威指南，作为依赖外部热源 responses 变温动物，饲养缸内必须建立清晰 responses 热区（30°C ~ 32°C）与冷区（24°C ~ 26°C），并提供湿躲避（Wet Cave）以防蜕皮不畅，这是保证其生存 responses 关键。",
+        "whyTitle": "豹纹守宫 responses 肢体语言：摇尾警戒与蜕皮前兆解密",
+        "whyDesc": "守宫肥硕 responses 尾巴既是营养脂肪仓库也是重要 responses 情绪表达器官。分清缓慢S型摇尾防卫与捕食时兴奋抖尾 responses 区别，能有效避免应激。",
         "body_signals": [
           {
             "name": "尾巴高举并缓慢S型摆动 (Slow Tail Waving)",
@@ -195,7 +195,7 @@
           },
           {
             "name": "全身体色发白发雾并频繁擦眼 (Pre-Shedding Signal)",
-            "meaning": "旧角质皮即脱落的蜕皮（Shedding）前兆，皮肤非常敏感干燥。",
+            "meaning": "旧角质皮即脱落 responses 蜕皮（Shedding）前兆，皮肤非常敏感干燥。",
             "response": "向湿躲避内的水苔或湿纸巾喷洒温水，保持局部高湿度达70%以上。"
           }
         ],
@@ -210,7 +210,7 @@
           },
           {
             "name": "夜晚：沾取钙粉活体喂食与清理排泄物",
-            "text": "用镊子夹取裹有钙粉的蟋蟀或面包虫喂食，并及时清理垫材上的粪便。"
+            "text": "用镊子夹取裹有钙粉 responses 蟋蟀或面包虫喂食，并及时清理垫材上 responses 粪便。"
           }
         ],
         "faqs": [
@@ -234,9 +234,9 @@
       "es": {
         "title": "Lenguaje de la Cola del Gecko Leopardo y Rutina de 3 Pasos para una Muda Sana",
         "description": "Guía completa de cuidado para el Gecko Leopardo. Interpreta el movimiento defensivo de su cola, gestiona cuevas húmedas y ajusta las zonas térmicas ARAV.",
-        "authority": "Asociación de Veterinarios de Reptiles y Anfibios (ARAV) Guías de Cuidado",
+        "authority": "Asociación de Veterinarios de Reptiles y Anfibios (ARAV) Guías de Cuidado y Estándares Clínicos",
         "profile": {
-          "breed": "Gecko Leopardo (Leopard Gecko)",
+          "breed": "Gecko Leopardo (Eublepharis macularius / Leopard Gecko)",
           "lifespan": "15 - 20 años",
           "sleep_pattern": "12 - 14 horas (Nocturno, refugio en cueva)",
           "temperament": "Dócil, tranquilo, solitario, sensible"
@@ -281,19 +281,19 @@
           }
         ],
         "tags": [
-          "Gecko Leopardo",
+          "GeckoLeopardo",
           "Reptiles",
-          "Cuidados de Mascotas",
-          "Muda de Piel",
-          "Normas ARAV"
+          "CuidadosDeMascotas",
+          "MudaDePiel",
+          "NormasARAV"
         ]
       },
       "fr": {
         "title": "Signaux de Queue du Gecko Léopard et Routine en 3 Étapes pour une Mue Réussie",
         "description": "Guide complet pour le Gecko Léopard. Décodez le mouvement défensif de la queue, gérez la cachette humide et organisez le gradient thermique ARAV.",
-        "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV)",
+        "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) & Normes Cliniques",
         "profile": {
-          "breed": "Gecko Léopard (Leopard Gecko)",
+          "breed": "Gecko Léopard (Eublepharis macularius / Leopard Gecko)",
           "lifespan": "15 - 20 ans",
           "sleep_pattern": "12 - 14 heures (Nocturne, sommeil en cachette)",
           "temperament": "Docile, calme, solitaire, sensible"
@@ -338,24 +338,24 @@
           }
         ],
         "tags": [
-          "Gecko Léopard",
+          "GeckoLéopard",
           "Reptiles",
-          "Soins Terrario",
+          "SoinsTerrario",
           "Mue",
-          "Normes ARAV"
+          "NormesARAV"
         ]
       },
       "de": {
         "title": "Leopardgecko-Schwanzsignale und 3-Schritte-Routine für eine sichere Häutung",
         "description": "Pflegeanleitung für Leopardgeckos. Schwanzbewegungen verstehen, Feuchthöhlen pflegen und ARAV-Temperaturzonen korrekt einstellen.",
-        "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV)",
+        "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) & Klinische Standards",
         "profile": {
-          "breed": "Leopardgecko (Leopard Gecko)",
+          "breed": "Leopardgecko (Eublepharis macularius / Leopard Gecko)",
           "lifespan": "15 - 20 Jahre",
           "sleep_pattern": "12 - 14 Stunden (Nachtaktiv, Höhlenruhe)",
           "temperament": "Friedlich, ruhig, einzelgängerisch, sensibel"
         },
-        "intro": "Der Leopardgecko ist das beliebteste Heimreptil. Gemäß ARAV-Richtlinien sind ein klares Temperaturgefälle (Warmzone 30°C ~ 32°C / Kaltzone 24°C ~ 26°C) und eine feuchte Häutungshöhle (Wet Cave) lebenswichtig für diese wechselwarmen Tiere. Die Bereitstellung einer konsistenten täglichen Gesundheitspflege und einer sicheren Umgebung sichert das Wohlbefinden Ihres Haustieres.",
+        "intro": "Der Leopardgecko ist das beliebteste Heimreptil. Gemäß ARAV-Richtlinien sind ein klares Temperaturgefälle (Warmzone 30°C ~ 32°C / Kaltzone 24°C ~ 26°C) und eine feuchte Häutungshöhle (Wet Cave) lebenswichtig für diese wechselwarmen Tiere.",
         "whyTitle": "Körpersprache: Schwanzwedeln & Häutungssignale Verstehen",
         "whyDesc": "Der dicke Schwanz dient als Fett-Speicher und Kommunikationsmittel. Unterscheiden Sie langsames Abwehr-Wedeln von freudigem Wackeln bei der Jagd.",
         "body_signals": [
@@ -398,16 +398,16 @@
           "Leopardgecko",
           "Reptilienpflege",
           "Häutung",
-          "ARAV-Standards",
+          "ARAVStandards",
           "Terraristik"
         ]
       },
       "pt": {
         "title": "Comunicação da Cauda do Gecko Leopardo e Rotina em 3 Passos Para Troca de Pele",
         "description": "Guia completo de cuidados para o Gecko Leopardo. Interprete os movimentos defensivos da cauda, cuide da toca úmida e ajuste as zonas de temperatura ARAV.",
-        "authority": "Associação de Veterinários de Répteis e Anfíbios (ARAV)",
+        "authority": "Associação de Veterinários de Répteis e Anfíbios (ARAV) & Padrões Clínicos",
         "profile": {
-          "breed": "Gecko Leopardo (Leopard Gecko)",
+          "breed": "Gecko Leopardo (Eublepharis macularius / Leopard Gecko)",
           "lifespan": "15 - 20 anos",
           "sleep_pattern": "12 - 14 horas (Noturno, sono na toca)",
           "temperament": "Dócil, calmo, solitário, sensível"
@@ -452,19 +452,19 @@
           }
         ],
         "tags": [
-          "Gecko Leopardo",
+          "GeckoLeopardo",
           "Répteis",
-          "Cuidados com Pet",
-          "Troca de Pele",
-          "Padrões ARAV"
+          "CuidadosComPet",
+          "TrocaDePele",
+          "PadroesARAV"
         ]
       },
       "id": {
         "title": "Bahasa Ekor Leopard Gecko dan Rutinitas 3 Langkah untuk Ganti Kulit Aman",
         "description": "Panduan lengkap merawat Leopard Gecko. Pahami gerak ekor pertahanan, kelola tempat sembunyi lembap (Wet Cave), dan atur zona suhu terarium standar ARAV.",
-        "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) Care Guidelines",
+        "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) Care Guidelines & Standar Klinis",
         "profile": {
-          "breed": "Leopard Gecko",
+          "breed": "Leopard Gecko (Eublepharis macularius)",
           "lifespan": "15 - 20 Tahun",
           "sleep_pattern": "12 - 14 Jam (Nocturnal, Tidur di Tempat Sembunyi)",
           "temperament": "Jinak, Tenang, Soliter, Sensitif Lingkungan"
@@ -509,11 +509,11 @@
           }
         ],
         "tags": [
-          "Leopard Gecko",
+          "LeopardGecko",
           "Reptil",
-          "Perawatan Gecko",
-          "Moulting Aman",
-          "Standar ARAV"
+          "PerawatanGecko",
+          "MoultingAman",
+          "StandarARAV"
         ]
       }
     },

@@ -1,36 +1,36 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "Sozialisierungsleitfaden und 3-Schritte-Routine für das doppelte Fell des loyalen Jindo-Hundes"
-description: "Lernen Sie Sozialisierungsmethoden für den Jindo-Hund und die Pflege seines dichten Doppelmantels."
+title: "Sozialisierungsleitfaden und 3-Schritte-Tagesroutine für das doppelte Fell des loyalen Jindo-Hundes"
+description: "Lernen Sie Sozialisierungsmethoden für den Jindo-Hund und die Pflege seines dichten Doppelmantels. Bauen Sie Skepsis ab mit der 3-Schritte-Routine."
 pubDate: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Jindo-Hund (Jindo Dog)"]
+tags: ["Haustierpflege","Haustiergesundheit","Jindo-Hund (Canis lupus familiaris)"]
 heroImage: "/images/blog/jindo_care.png"
 app: "petself"
 formatVersion: 4
-authority: "Richtlinien des Nationalen Instituts für Nutztierwissenschaften Koreas und der KKC"
+authority: "Richtlinien des Nationalen Instituts für Nutztierwissenschaften Koreas und KKC-Expertenprotokolle"
 steps:
-  - name: "Körpersprache des Jindos: Loyalität und Vorsicht"
-    text: "Jindo-Hunde kommunizieren über die Positionen von Rute und Ohren. Eine aufgerichtete Rute signalisiert Alarmbereitschaft."
-  - name: "Jindo-Hund (Jindo Dog)'s Body Language & Signals"
-    text: "* Aufgerichtete Rute und aufgestellte Ohren: Alarmbereitschaft auf ein unbekanntes Ziel unter Anspannung. (Vermeiden Sie plötzlichen Kontakt und beruhigen Sie ihn mit leiser Stimme.)
+  - name: "Körpersprache des Jindos: Loyalität und Vorsichtssignale"
+    text: "Jindo-Hunde drücke Gefühle eher zurückhaltend aus und nutzen Ruten- und Ohrstellungen zur Kommunikation. Eine steil aufgerichtete Rute mit nach vorne gerichteten Ohren signalisiert Alarmbereitschaft und Anspannung; Fremde sollten sich nun nicht nähern. Eine tief getragene, langsam wedelnde Rute mit angelegten Ohren bedeutet Vertrauen und Ergebenheit gegenüber dem Halter."
+  - name: "Jindo-Hund (Canis lupus familiaris)'s Body Language & Signals"
+    text: "* Aufgerichtete Rute und aufgestellte Ohren: Alarmbereitschaft und Fokus auf ein unbekanntes Ziel unter Anspannung. (Vermeiden Sie plötzlichen Kontakt oder Blickkontakt und lassen Sie den Halter den Hund ruhig beruhigen.)
 
-* Gesenkte Rute und flach angelegte Ohren: Gehorsam und Vertrauen gegenüber dem Besitzer. (Streicheln Sie ihn sanft und stärken Sie diese Bindung.)"
+* Gesenkte Rute und flach angelegte Ohren beim Annähern: Tiefer Gehorsam, Vertrauen und Zuneigung gegenüber dem Besitzer. (Streicheln Sie ihn sanft und loben Sie ihn, um die Bindung zu stärken.)"
   - name: "Customized 3-Step Home Care Routine"
-    text: "* STEP 1. Morgen: Sozialisierungsspaziergang mit Nasenarbeit: Gehen Sie morgens spazieren, um den Hund durch Schnüffeln an die Umwelt zu gewöhnen.
+    text: "* STEP 1. Morgen: Sozialisierungsspaziergang mit ruhiger Nasenarbeit: Gehen Sie morgens in reizarmen Zeiten spazieren, um den Hund durch Schnüffeln an die Umwelt zu gewöhnen.
 
-* STEP 2. Nachmittag: Bürsten des Doppelmantels zur Entfernung der Unterwolle: Verwenden Sie eine Zupfbürste, um abgestorbene Unterwolle gründlich zu entfernen.
+* STEP 2. Nachmittag: Bürsten des Doppelmantels zur Entfernung der Unterwolle: Verwenden Sie eine Zupfbürste und einen Metallkamm, um abgestorbene Unterwolle zu entfernen und Hautproblemen vorzubeugen.
 
-* STEP 3. Abend: Desensibilisierungstraining für Berührungen: Berühren Sie vorsichtig Pfoten und Ohren und belohnen Sie ihn sofort mit Leckerlis."
+* STEP 3. Abend: Desensibilisierungstraining für Berührungen: Berühren Sie vorsichtig Pfoten, Ohren und Schnauze und belohnen Sie ihn sofort mit Leckerlis."
 faqs:
   - question: "Ist die Haltung eines Jindos im Haus schwierig?"
-    answer: "Sie passen sich gut an, solange Sie das Haaren bewältigen. Täglich Spaziergänge sind Pflicht."
-  - question: "Versteht sich mein Jindo mit anderen Hunden?"
-    answer: "Jindos sind unabhängig. Streben Sie soziale Neutralität bei Begegnungen an."
+    answer: "Sie passen sich gut an, wenn man das strikte Bedürfnis nach Versäubern im Freien und den Haarausfall akzeptiert. Mindestens zwei Spaziergänge täglich sind Pflicht."
+  - question: "Mein Jindo mag keine anderen Hunde, ist das normal?"
+    answer: "Ja, Jindos sind unabhängig und territorial. Streben Sie 'soziale Neutralität' an – dass der Hund entspannt an Artgenossen vorbeigeht, ohne zu bellen."
 ---
 
-Der Jindo-Hund ist ein nationales Heiligtum Koreas. Sie bauen eine starke Bindung zu ihrem Besitzer auf, können jedoch Fremden gegenüber defensiv reagieren. Heute bei PetSelf teilen wir Tipps zur Pflege. Die Bereitstellung einer konsistenten täglichen Gesundheitspflege und einer sicheren Umgebung sichert das Wohlbefinden Ihres Haustieres.
+Der Jindo-Hund ist ein nationales Heiligtum Koreas und eine weltweit geschätzte Rasse, die für ihre Treue und Intelligenz bekannt ist. Sie bauen eine unerschütterliche Bindung zu ihrer Bezugsperson auf. Durch ihre hohe Wachsamkeit können sie ohne frühe Sozialisierung Fremden gegenüber jedoch sehr defensiv reagieren. 🐕 Zudem besitzen sie ein dichtes doppeltes Fell für saisonale Klimaschwankungen, was zu starkem Haaren führt. Heute teilt PetSelf Tipps zur Sozialisierung und eine 3-Schritte-Routine für die Fellpflege.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -39,28 +39,28 @@ Der Jindo-Hund ist ein nationales Heiligtum Koreas. Sie bauen eine starke Bindun
       Veterinärmedizinische & verhaltensbedingte Nachweise
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Dieser Inhalt basiert auf <strong>Richtlinien des Nationalen Instituts für Nutztierwissenschaften Koreas und der KKC</strong>.
+      Dieser Inhalt basiert auf <strong>Richtlinien des Nationalen Instituts für Nutztierwissenschaften Koreas und KKC-Expertenprotokolle</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 1. Körpersprache des Jindos: Loyalität und Vorsicht
+## 1. Körpersprache des Jindos: Loyalität und Vorsichtssignale
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Körpersprache des Jindos: Loyalität und Vorsicht</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Körpersprache des Jindos: Loyalität und Vorsichtssignale</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Jindo-Hunde kommunizieren über die Positionen von Rute und Ohren. Eine aufgerichtete Rute signalisiert Alarmbereitschaft.
+    Jindo-Hunde drücke Gefühle eher zurückhaltend aus und nutzen Ruten- und Ohrstellungen zur Kommunikation. Eine steil aufgerichtete Rute mit nach vorne gerichteten Ohren signalisiert Alarmbereitschaft und Anspannung; Fremde sollten sich nun nicht nähern. Eine tief getragene, langsam wedelnde Rute mit angelegten Ohren bedeutet Vertrauen und Ergebenheit gegenüber dem Halter.
   </p>
 </div>
 
 ---
 
-## 2. Jindo-Hund (Jindo Dog)'s Body Language & Signals
+## 2. Jindo-Hund (Canis lupus familiaris)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -68,19 +68,19 @@ Der Jindo-Hund ist ein nationales Heiligtum Koreas. Sie bauen eine starke Bindun
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Aufgerichtete Rute und aufgestellte Ohren</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Bedeutung:</strong> Alarmbereitschaft auf ein unbekanntes Ziel unter Anspannung.<br/>
-    <strong>• Reaktion:</strong> Vermeiden Sie plötzlichen Kontakt und beruhigen Sie ihn mit leiser Stimme.
+    <strong>• Bedeutung:</strong> Alarmbereitschaft und Fokus auf ein unbekanntes Ziel unter Anspannung.<br/>
+    <strong>• Reaktion:</strong> Vermeiden Sie plötzlichen Kontakt oder Blickkontakt und lassen Sie den Halter den Hund ruhig beruhigen.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Körpersignal 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Gesenkte Rute und flach angelegte Ohren</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Gesenkte Rute und flach angelegte Ohren beim Annähern</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Bedeutung:</strong> Gehorsam und Vertrauen gegenüber dem Besitzer.<br/>
-    <strong>• Reaktion:</strong> Streicheln Sie ihn sanft und stärken Sie diese Bindung.
+    <strong>• Bedeutung:</strong> Tiefer Gehorsam, Vertrauen und Zuneigung gegenüber dem Besitzer.<br/>
+    <strong>• Reaktion:</strong> Streicheln Sie ihn sanft und loben Sie ihn, um die Bindung zu stärken.
   </p>
 </div>
 
@@ -91,10 +91,10 @@ Der Jindo-Hund ist ein nationales Heiligtum Koreas. Sie bauen eine starke Bindun
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Morgen: Sozialisierungsspaziergang mit Nasenarbeit</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Morgen: Sozialisierungsspaziergang mit ruhiger Nasenarbeit</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Gehen Sie morgens spazieren, um den Hund durch Schnüffeln an die Umwelt zu gewöhnen.
+    Gehen Sie morgens in reizarmen Zeiten spazieren, um den Hund durch Schnüffeln an die Umwelt zu gewöhnen.
   </p>
 </div>
 
@@ -104,7 +104,7 @@ Der Jindo-Hund ist ein nationales Heiligtum Koreas. Sie bauen eine starke Bindun
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Nachmittag: Bürsten des Doppelmantels zur Entfernung der Unterwolle</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Verwenden Sie eine Zupfbürste, um abgestorbene Unterwolle gründlich zu entfernen.
+    Verwenden Sie eine Zupfbürste und einen Metallkamm, um abgestorbene Unterwolle zu entfernen und Hautproblemen vorzubeugen.
   </p>
 </div>
 
@@ -114,7 +114,7 @@ Der Jindo-Hund ist ein nationales Heiligtum Koreas. Sie bauen eine starke Bindun
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Abend: Desensibilisierungstraining für Berührungen</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Berühren Sie vorsichtig Pfoten und Ohren und belohnen Sie ihn sofort mit Leckerlis.
+    Berühren Sie vorsichtig Pfoten, Ohren und Schnauze und belohnen Sie ihn sofort mit Leckerlis.
   </p>
 </div>
 
@@ -133,17 +133,17 @@ Der Jindo-Hund ist ein nationales Heiligtum Koreas. Sie bauen eine starke Bindun
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Sie passen sich gut an, solange Sie das Haaren bewältigen. Täglich Spaziergänge sind Pflicht.
+      Sie passen sich gut an, wenn man das strikte Bedürfnis nach Versäubern im Freien und den Haarausfall akzeptiert. Mindestens zwei Spaziergänge täglich sind Pflicht.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Versteht sich mein Jindo mit anderen Hunden?</span>
+      <span>Mein Jindo mag keine anderen Hunde, ist das normal?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Jindos sind unabhängig. Streben Sie soziale Neutralität bei Begegnungen an.
+      Ja, Jindos sind unabhängig und territorial. Streben Sie 'soziale Neutralität' an – dass der Hund entspannt an Artgenossen vorbeigeht, ohne zu bellen.
     </p>
   </details>
 </div>

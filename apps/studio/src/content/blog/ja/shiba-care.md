@@ -3,9 +3,9 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "柴犬の独立性と二重毛ブラッシングのための3段階スキンシップルーティン"
 description: "独立心が強くスキンシップに敏感な柴犬。二重毛の抜け毛を防ぐ正しいブラッシング方法と、嫌がらないスキンシップのための3段階ルーティンを紹介します。"
 pubDate: "2026-01-29"
-updatedDate: "2026-01-29"
+updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","柴犬"]
+tags: ["ペットケア","ペット健康","柴犬 (Shiba Inu)"]
 heroImage: "/images/blog/shiba_care.png"
 app: "petself"
 formatVersion: 4
@@ -13,7 +13,7 @@ authority: "全米柴犬クラブ(NSCA)＆IAABC行動治療ガイドライン"
 steps:
   - name: "柴犬のボディランゲージ：負担感と緊張のサイン"
     text: "柴犬は自分のスペースが侵害されたとき、静かに拒否の意思を示します。代表なしぐさは「顔を背ける」と「体を震わせる」です。人が手を伸ばして触ろうとした時に頭を避けたり顔を背けたりするのは、おねだりしているのではなく、「今は触らないでください」という婉曲的な拒否です。また、ストレスから解放された後に体をブルブルと大きく震わせる行動は、体に溜まった不安を払い落としてリセットするための本能的な行動です。"
-  - name: "柴犬's Body Language & Signals"
+  - name: "柴犬 (Shiba Inu)'s Body Language & Signals"
     text: "* 顔を背ける (Looking Away): 相手の接近が負担なので、近づかないでほしいという丁重な要求です。 (このサインが出たら無理に触らず、手を引いてスペースを空けてください。)
 
 * 体を震わせる (Shake Off): 直前の状況で感じたストレスや物理的な緊張を和らげるための行動です。 (ブラッシングなどの途中で体を震わせたら、緊張を和らげるサインですので直ちに中止して休ませてください。)"
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. 柴犬's Body Language & Signals
+## 2. 柴犬 (Shiba Inu)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

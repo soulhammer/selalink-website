@@ -1,11 +1,11 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "玄凤鹦鹉冠羽情绪语言与预防夜惊 responses 3步日常护理"
+title: "玄凤鹦鹉冠羽情绪语言与预防夜惊的3步日常护理"
 description: "全方位玄凤鹦鹉（Cockatiel）护理指南。解析冠羽肢体语言，科学预防夜间暴冲惊厥（Night Fright），建立AAV标准的3步日常流程。"
 pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","玄凤鹦鹉 (Cockatiel)"]
+tags: ["宠物护理","宠物健康","玄凤鹦鹉 (Nymphicus hollandicus / Cockatiel)"]
 heroImage: "/images/blog/cockatiel_care.png"
 app: "petself"
 formatVersion: 4
@@ -13,7 +13,7 @@ authority: "国际鸟类兽医协会 (AAV) 行为护理标准"
 steps:
   - name: "玄凤鹦鹉的情绪语言：冠羽形态与低头求摸解密"
     text: "玄凤鹦鹉头顶的冠羽是其心理状态的晴雨表。完全紧贴头骨与直立竖起代表着截然不同的情绪，而主动低头伸长脖子则是对主人表达极度信任的专属姿态。"
-  - name: "玄凤鹦鹉 (Cockatiel)'s Body Language & Signals"
+  - name: "玄凤鹦鹉 (Nymphicus hollandicus / Cockatiel)'s Body Language & Signals"
     text: "* 冠羽高高竖起并保持垂直 (Fully Erect Crest): 对新环境、未知的声音或新物体产生了强烈的好奇心或高度戒备状态。 (切勿突然伸出手抓握，请保持动作轻柔，用温柔的声音安抚，给其自行观察评估安全的时间。)
 
 * 低头靠近并伸长脖子 (Head Lowering for Scratches): 对主人表达极高的依赖与亲密，主动请求抚摸其头颈部与腮红羽毛。 (用手指顺着羽毛逆向轻轻挠抚其腮红与冠羽根部。)"
@@ -30,7 +30,7 @@ faqs:
     answer: "非常正常。玄凤鹦鹉会自然分泌羽粉（Powder Down）用于羽毛保养。开启HEPA空气净化器并每周进行2 - 3次温和喷雾水沐浴可有效管理羽粉。"
 ---
 
-拥有鲜艳红腮和优雅头顶冠羽的玄凤鹦鹉（Cockatiel）是全球最受喜爱的伴侣鸟之一。它们能与主人建立深厚的情感联结并喜爱吹笛模仿歌曲，但野外被捕食者的本能使其在夜间极易因微弱光影或异响发生扑腾撞笼的‘夜惊’（Night Fright）。遵照AAV国际兽医标准，本文将详细拆解其情绪信号与日常护理 key。
+拥有鲜艳红腮和优雅头顶冠羽的玄凤鹦鹉（Cockatiel）是全球最受喜爱的伴侣鸟之一。它们能与主人建立深厚的情感联结并喜爱吹笛模仿歌曲，但野外被捕食者的本能使其在夜间极易因微弱光影或异响发生扑腾撞笼的‘夜惊’（Night Fright）。遵照AAV国际兽医标准，本文将详细拆解其情绪信号与日常护理要点。
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. 玄凤鹦鹉 (Cockatiel)'s Body Language & Signals
+## 2. 玄凤鹦鹉 (Nymphicus hollandicus / Cockatiel)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

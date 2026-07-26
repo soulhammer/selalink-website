@@ -3,467 +3,19 @@
     "pubDate": "2026-06-05",
     "updatedDate": "2026-06-05",
     "locales": {
-      "en": {
-        "title": "Persian Cat Longhair Care: A 3-Step Routine for Coat and Tear Stain Management",
-        "description": "Persian cats are known for their elegant coat. Learn a 3-step routine to prevent facial skin infections caused by tears and keep their double coat tangle-free.",
-        "authority": "CFA Breed Guidelines for Persians & AAFP Veterinary Standards",
-        "profile": {
-          "breed": "Persian Cat",
-          "lifespan": "12 ~ 17 years",
-          "sleep_pattern": "15 ~ 18 hours (prefers quiet, airy spots)",
-          "temperament": "Gentle, Quiet, Independent, Sensitive"
-        },
-        "intro": "With their thick coat and flat face, Persian cats are known for their gentle and calm nature. However, their flat facial structure causes excessive tearing, which can lead to bacterial infections in their skin folds. Their dense longhair coat easily tangles, causing pain and stopping air circulation. Today, PetSelf decodes Persian cat eye and coat stress signals and provides a 3-step homecare routine.",
-        "whyTitle": "Persian Cat Body Language: Silent Signs from Eyes and Ears",
-        "whyDesc": "Because Persians express emotions quietly, detecting stress can be difficult. While they show affection through **'half-closed eyes'** (blinking slowly), **'airplane ears'** (ears turned sideways) signal discomfort or annoyance. This is commonly observed when brushing is done too quickly or their face is touched roughly.",
-        "body_signals": [
-          {
-            "name": "Half-Closed Eyes",
-            "meaning": "A peaceful message indicating deep trust in the owner and a highly satisfied, comfortable state.",
-            "response": "Respond by blinking slowly at them in return and talking to them in a calm, soothing voice."
-          },
-          {
-            "name": "Airplane Ears",
-            "meaning": "An expression of discomfort caused by fur pulling during brushing or tension from surrounding noise.",
-            "response": "Immediately stop brushing or touching and give the cat space to calm down in a quiet spot."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Morning: Facial Fold Cleaning and Tear Stain Management",
-            "text": "In the morning, gently clean their facial folds and under-eye area with warm saline or a veterinary tear wipe to prevent red yeast dermatitis."
-          },
-          {
-            "name": "Afternoon: Dual Brushing with Slicker and Steel Comb",
-            "text": "Focus on high-friction areas like armpits and belly. Use a slicker brush first to detangle undercoat knots, then use a steel comb to align and check skin aeration."
-          },
-          {
-            "name": "Evening: Hairball Remedy and Water Fountain Check",
-            "text": "Give hairball paste to prevent intestinal blockage from swallowed hair, and inspect their water fountain to encourage proper hydration."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Why is skipping grooming for even a few days harmful to Persians?",
-            "answer": "Persian fur is thin, long, and dense. Skipping brushing for 2-3 days causes severe matting. Matts pull on the skin, causing pain and requiring shaving."
-          },
-          {
-            "question": "Why is fold management crucial for brachycephalic cats?",
-            "answer": "Flatted-faced cats have deep folds around the nose. Trapped tears block oxygen, leading to red yeast and bacterial infections, causing bad odor and skin irritation."
-          }
-        ],
-        "tags": [
-          "Persian Cat",
-          "Longhair Grooming",
-          "Brachycephalic",
-          "Tear Stains"
-        ]
-      },
-      "ja": {
-        "title": "ペルシアン猫の長毛ケア：毛並みと涙やけ管理のための3段階ルーティン",
-        "description": "優雅な毛並みを持つペルシアン。特有の涙による顔の皮膚炎予防と、もつれやすい長毛ケアのための3段階デイリールーティンを紹介します。",
-        "authority": "CFAペルシアン種族ガイド＆AAFP獣医学指針",
-        "profile": {
-          "breed": "ペルシアン猫",
-          "lifespan": "12 ~ 17年",
-          "sleep_pattern": "15 ~ 18時間（静かで風通しの良い場所）",
-          "temperament": "穏やか、静か、独立心、繊細"
-        },
-        "intro": "豊かな毛並みとつぶれた愛らしい顔が特徴のペルシアンは、温厚で落ち着いた性格の猫種です。しかし、短い鼻の構造上、涙が流れやすく、シワの間に汚れが溜まりやすいです。また、もつれやすい長毛は毛玉になると皮膚を引っ張り痛みを伴うため、毎日の管理が必要です。本日、PetSelfではペルシアンの繊細なサインを理解し、日常で目を守る3段階ルーティンを紹介します。 毎日の継続的なケアと安全な環境を提供することで、ペットの長期的で健やかな健康を維持できます。",
-        "whyTitle": "ペルシアンのボディランゲージ：目と耳の静かなサイン",
-        "whyDesc": "ペルシアンは感情を静かに表現するため、ストレスに気づきにくいです。愛しい時は目を細めて見つめる**「半目のサイン」**を出しますが、耳が横に倒れる**「イカ耳」**は不快感や拒否のサインです。顔まわりのブラッシングを急いだり、荒く触った時にこのサインが現れます。",
-        "body_signals": [
-          {
-            "name": "半目のサイン (Half-Closed Eyes)",
-            "meaning": "飼い主への深い信頼と、現在の環境が非常に満足でリラックスしているというメッセージです。",
-            "response": "目をゆっくり閉じて開ける（キャットインク）で返し、優しい声で応えてあげてください。"
-          },
-          {
-            "name": "イカ耳 (Airplane Ears)",
-            "meaning": "ブラッシングで毛根が引っ張られて痛むか、周囲の騒音に緊張している不快感の表れです.",
-            "response": "すぐにブラッシングや接触を中止し、静かな場所で落ち着くまで距離を置いてください。"
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "朝：顔のシワの洗浄と涙やけの拭き取り",
-            "text": "涙の出やすい朝に、専用の洗浄液か滅菌ガーゼで目の周りや鼻のシワを拭き取り、赤みや皮膚炎を予防します。"
-          },
-          {
-            "name": "昼：コームとスリッカーを併用した長毛ブラッシング",
-            "text": "もつれやすい脇や腹の毛をスリッカーでほぐした後、スチールコームで毛並みを整え、風通しが良い状態を確認します。"
-          },
-          {
-            "name": "夜：ヘアボール予防サプリの給与と循環式給水器の点検",
-            "text": "毛玉が胃腸に詰まって閉塞を起こさないよう、夜にヘアボール排出サプリを与え, 給水器のフィルターを確認して水を補給します。"
-          }
-        ],
-        "faqs": [
-          {
-            "question": "ペルシアン猫はなぜ数日ブラッシングを怠るだけでダメなのですか？",
-            "answer": "ペルシアンの毛は細く長いため、2〜3日ブラッシングを怠るとすぐに絡まってしまいます。これが皮膚を引っ張る痛みを引き起こし、最終的に丸刈りが必要になるため毎日の梳きが必要です。"
-          },
-          {
-            "question": "つぶれ顔の猫のシワ管理が重要なのはなぜですか？",
-            "answer": "顔が平らなペルシアンは鼻の周りのシワが深いです。ここに涙が溜まると細菌や酵母菌が繁殖し、悪臭や皮膚炎の原因となります。"
-          }
-        ],
-        "tags": [
-          "ペルシアン猫",
-          "長毛のブラッシング",
-          "短頭種",
-          "涙やけ"
-        ]
-      },
-      "zh": {
-        "title": "波斯猫长毛护理：呵护毛发与眼部泪痕的日常3步惯例",
-        "description": "拥有优雅毛发的波斯猫。介绍一套预防因泪水引起的脸部皮肤炎以及防止双层长毛缠结的日常3步护理惯例。",
-        "authority": "CFA 波斯猫品种指南与 AAFP 兽医学标准",
-        "profile": {
-          "breed": "波斯猫",
-          "lifespan": "12 ~ 17年",
-          "sleep_pattern": "15 ~ 18小时（偏好安静通风处）",
-          "temperament": "温和、安静、独立、敏感"
-        },
-        "intro": "波斯猫拥有浓密的毛发和扁平可爱的脸庞，性格温和且安静，是非常适合室内饲养的代表性猫咪。然而，扁平的面部结构导致它们经常流泪，眼鼻周围的褶皱处极易积攒污垢。此外，细密且容易缠结的双层长毛一旦结块，会拉扯皮肤引起剧烈疼痛，并阻碍空气流通导致皮肤炎。今天，PetSelf 将教您如何读懂波斯猫隐秘的眼部与毛发压力信号，并分享日常预防的3步家庭护理惯例。",
-        "whyTitle": "波斯猫的身体语言：眼与耳的无声信号",
-        "whyDesc": "波斯猫表达情感非常安静，因此很难察觉其压力状态。虽然它们在心情好时会用半眯着眼凝视（Blinking slowly）的方式表达爱意，但如果出现双耳向两侧平躺的“飞机耳”，则是严重的拒绝或不适信号。在急躁地梳理其面部毛发或粗暴触碰眼周褶皱时，常常能看到这种身体动作。",
-        "body_signals": [
-          {
-            "name": "半眯着眼 (Half-Closed Eyes)",
-            "meaning": "对家长深切的信任，以及表达对当前状态非常满意和放松的和平信息。",
-            "response": "通过缓慢眨眼（猫咪式眼部问候）进行回应，并用温柔的声音回应这份信任。"
-          },
-          {
-            "name": "飞机耳 (Airplane Ears)",
-            "meaning": "因过度梳理拉扯毛根引起疼痛，或因周围噪音感到紧张、敏感的不适表达。",
-            "response": "应立即停止梳毛或触碰，给猫咪留出空间，让其在没有噪音和打扰的地方恢复平静。"
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "早晨：扁脸眼鼻褶皱清洁与泪痕擦拭",
-            "text": "在早晨易流泪的时间段，使用温水浸湿的专用清洁液或无菌纱布轻轻擦拭鼻部周围的面部褶皱，以预防泪水引起的红色酵母菌皮肤炎。"
-          },
-          {
-            "name": "中午：排梳与针梳结合的长毛梳理",
-            "text": "对于容易缠结的腋下和腹部等区域，首先使用针梳将毛团梳开，再使用钢制排梳将整体毛发梳顺，以检查空气流通状态。"
-          },
-          {
-            "name": "晚上：防毛球营养剂喂食与循环饮水机检查",
-            "text": "为了防止梳理时吞下的毛发堆积引起肠梗阻，晚上应喂食化毛膏，并检查循环饮水机的过滤状态，以引导其饮用充足的水。"
-          }
-        ],
-        "faqs": [
-          {
-            "question": "为什么波斯猫即使只停几天不梳毛也不行？",
-            "answer": "波斯猫的毛发细长且浓密，只要疏忽梳理2~3天就会结成硬毛块。这会拉扯皮肤引起疼痛，最终只能被迫剃光毛发，因此每天梳毛是必须的。"
-          },
-          {
-            "question": "为什么扁脸猫的褶皱护理如此重要？",
-            "answer": "扁脸波斯猫的鼻部周围有深深的褶皱。如果泪水在此积聚，会阻断氧气，滋生细菌和酵母菌，从而导致异味和皮肤坏死性发炎。"
-          }
-        ],
-        "tags": [
-          "波斯猫",
-          "长毛梳理",
-          "扁脸猫",
-          "泪痕"
-        ]
-      },
-      "es": {
-        "title": "Cuidado del Gato Persa de Pelo Largo: Rutina de 3 pasos para el pelaje y las manchas de lágrimas",
-        "description": "Los gatos persas son conocidos por su elegante pelaje. Aprenda una rutina de 3 pasos para prevenir infecciones en la piel de la cara por lágrimas y evitar enredos.",
-        "authority": "Directrices de cría de CFA para Persas y normas veterinarias de AAFP",
-        "profile": {
-          "breed": "Gato Persa",
-          "lifespan": "12 ~ 17 años",
-          "sleep_pattern": "15 ~ 18 horas (prefiere lugares tranquilos y ventilados)",
-          "temperament": "Dócil, Silencioso, Independiente, Sensible"
-        },
-        "intro": "Con su espeso pelaje y cara plana, los gatos persas son conocidos por su naturaleza gentil y tranquila. Sin embargo, su estructura facial plana provoca un lagrimeo excesivo que puede derivar en infecciones. Su denso pelaje largo se enreda fácilmente, causando dolor. Hoy, PetSelf decodes sus señales de estrés ocular y del pelaje y proporciona una rutina de 3 pasos.",
-        "whyTitle": "Lenguaje corporal del gato Persa: señales silenciosas de ojos y orejas",
-        "whyDesc": "Dado que los Persas expresan sus emociones en silencio, detectar el estrés puede ser difícil. Muestran afecto a través de **'ojos semicerrados'**, pero las **'orejas de avión'** (orejas hacia los lados) indican incomodidad. Se observa comúnmente si el cepillado es brusco.",
-        "body_signals": [
-          {
-            "name": "Ojos semicerrados",
-            "meaning": "Mensaje pacífico de confianza en el dueño y un estado cómodo de satisfacción.",
-            "response": "Responda parpadeando lentamente y hablándoles con una voz suave y tranquila."
-          },
-          {
-            "name": "Orejas de avión",
-            "meaning": "Expresión de incomodidad por tirones de pelo durante el cepillado o tensión por el ruido ambiental.",
-            "response": "Detenga el cepillado de inmediato y dé espacio al gato en un lugar tranquilo."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Mañana: Limpieza de pliegues faciales y control de lágrimas",
-            "text": "Por la mañana, limpie suavemente los pliegues faciales con gasa estéril y solución templada para prevenir dermatitis por levaduras."
-          },
-          {
-            "name": "Tarde: Cepillado doble con cepillo slicker y peine metálico",
-            "text": "Enfoque en áreas propensas a enredos como axilas y vientre. Use una carda primero y luego un peine de acero para alinear el pelo y ventilar la piel."
-          },
-          {
-            "name": "Noche: Suplemento para bolas de pelo y control del bebedero de fuente",
-            "text": "Administre pasta para bolas de pelo para evitar obstrucciones digestivas e inspeccione la fuente de agua para animarle a beber."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "¿Por qué saltarse el cepillado aunque sea unos días daña al Persa?",
-            "answer": "El pelo del Persa es fino y denso. Dejar de cepillar por 2-3 días causa enredos graves que tiran de la piel, causando dolor y obligando a rapar."
-          },
-          {
-            "question": "¿Por qué es crucial el cuidado de pliegues en gatos braquicéfalos?",
-            "answer": "Los gatos de cara plana tienen pliegues profundos. Las lágrimas atrapadas bloquean el oxígeno, facilitando infecciones bacterianas, mal olor e irritación."
-          }
-        ],
-        "tags": [
-          "Gato Persa",
-          "Aseo de Pelo Largo",
-          "Braquicéfalo",
-          "Lágrimas"
-        ]
-      },
-      "fr": {
-        "title": "Soins du chat Persan à poil long : Routine en 3 étapes pour le pelage et les taches de larmes",
-        "description": "Le Persan est connu pour son pelage élégant. Apprenez une routine en 3 étapes pour prévenir les infections de la peau du visage dues aux larmes et éviter les nœuds.",
-        "authority": "Directives d'élevage de la CFA pour les Persans et normes vétérinaires de l'AAFP",
-        "profile": {
-          "breed": "Chat Persan",
-          "lifespan": "12 ~ 17 ans",
-          "sleep_pattern": "15 ~ 18 heures (préfère les coins calmes et aérés)",
-          "temperament": "Doux, Calme, Indépendant, Sensible"
-        },
-        "intro": "Avec leur pelage épais et leur face aplatie, les chats Persans sont doux et calmes. Cependant, leur structure faciale plate provoque des larmes excessives. Leur pelage long et dense s'emmêle facilement, causant de la douleur et bloquant l'air. Aujourd'hui, PetSelf étudie leurs signaux de stress et propose une routine de soins en 3 étapes.",
-        "whyTitle": "Langage corporel du Persan : signaux silencieux des yeux et des oreilles",
-        "whyDesc": "Comme les Persans s'expriment calmement, le stress est difficile à détecter. S'ils montrent de l'affection par des **'yeux mi-clos'**, les **'oreilles en avion'** (tournées sur le côté) indiquent l'inconfort. Cela se produit souvent si le brossage est trop rapide.",
-        "body_signals": [
-          {
-            "name": "Yeux mi-clos",
-            "meaning": "Un signal de paix indiquant une grande confiance et un état de confort et de satisfaction.",
-            "response": "Répondez en clignant lentement des yeux en retour et parlez-lui d'une voix douce."
-          },
-          {
-            "name": "Oreilles en avion",
-            "meaning": "Une expression d'inconfort causée par les tiraillements du brossage ou la tension due au bruit.",
-            "response": "Arrêtez immédiatement de brosser ou de toucher le chat et laissez-le se calmer au calme."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Matin : Nettoyage des plis du visage et des taches de larmes",
-            "text": "Le matin, nettoyez doucement les plis du visage avec une compresse stérile humide pour prévenir la dermatite."
-          },
-          {
-            "name": "Après-midi : Double brossage avec brosse carde et peigne en métal",
-            "text": "Ciblez les zones sujettes aux nœuds (aisselles et ventre). Utilisez d'abord une brosse carde, puis un peigne en métal pour aligner le poil."
-          },
-          {
-            "name": "Soir : Supplément anti-boules de poils et contrôle de la fontaine à eau",
-            "text": "Donnez de la pâte anti-boules de poils pour éviter l'occlusion, et inspectez la fontaine à eau pour l'encourager à s'hydrater."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Pourquoi négliger le brossage même quelques jours est-il nocif pour le Persan ?",
-            "answer": "Le poil du Persan est fin et dense. S'arrêter 2-3 jours provoque des nœuds serrés qui tirent sur la peau, créant de la douleur et obligeant à tondre."
-          },
-          {
-            "question": "Pourquoi le soin des plis faciaux est-il vital pour les chats au nez écrasé ?",
-            "answer": "Les chats à face plate ont des plis profonds près du nez. Les larmes stagnantes favorisent les bactéries et levures, causant des odeurs et infections."
-          }
-        ],
-        "tags": [
-          "Chat Persan",
-          "Brossage Poil Long",
-          "Brachycéphale",
-          "Larmes"
-        ]
-      },
-      "de": {
-        "title": "Perserkatzen Langhaarpflege: 3-Schritte-Routine für Fell- und Tränenfleckenmanagement",
-        "description": "Perserkatzen sind für ihr elegantes Fell bekannt. Lernen Sie eine 3-Schritte-Routine kennen, um Tränenflecken und Fellverknotungen zu vermeiden.",
-        "authority": "CFA-Perserzuchtrichtlinien und AAFP-Veterinärstandards",
-        "profile": {
-          "breed": "Perserkatze",
-          "lifespan": "12 ~ 17 Jahre",
-          "sleep_pattern": "15 ~ 18 Stunden (bevorzugt ruhige, luftige Orte)",
-          "temperament": "Sanft, Ruhig, Unabhängig, Sensibel"
-        },
-        "intro": "Mit ihrem dicken Fell und dem flachen Gesicht sind Perserkatzen für ihr sanftes Wesen bekannt. Ihre flache Gesichtsstruktur führt jedoch zu übermäßigem Tränenfluss, was zu Infektionen führen kann. Ihr dichtes Langhaarfell verknotet leicht, was Schmerzen verursacht. Heute entschlüsselt PetSelf ihre Stresssignale und bietet eine 3-Schritte-Routine.",
-        "whyTitle": "Körpersprache der Perserkatze: Stille Zeichen von Augen und Ohren",
-        "whyDesc": "Da Perser ihre Gefühle leise ausdrücken, ist Stress schwer zu erkennen. Während sie Zuneigung durch **'halbgeschlossene Augen'** zeigen, signalisieren **'Flugzeugohren'** (zur Seite gedrehte Ohren) Unbehagen. Dies wird häufig bei zu schnellem Bürsten beobachtet.",
-        "body_signals": [
-          {
-            "name": "Halbgeschlossene Augen",
-            "meaning": "Eine friedliche Botschaft, die tiefes Vertrauen zeigt und einen sehr zufriedenen Zustand anzeigt.",
-            "response": "Antworten Sie, indem Sie langsam blinzeln, und sprechen Sie mit ruhiger, sanfter Stimme."
-          },
-          {
-            "name": "Flugzeugohren",
-            "meaning": "Ein Ausdruck des Unbehagens, der durch Ziehen an den Haarwurzeln oder Lärm verursacht wird.",
-            "response": "Hören Sie sofort auf zu bürsten und geben Sie der Katze an einem ruhigen Ort Freiraum."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Morgen: Reinigung der Gesichtsfalten und Tränenfleckenpflege",
-            "text": "Reinigen Sie morgens die Gesichtsfalten unter den Augen mit steriler Gaze und milder Reinigungslösung, um Dermatitis vorzubeugen."
-          },
-          {
-            "name": "Nachmittag: Fellpflege mit Zupfbürste und Metallkamm",
-            "text": "Pflegen Sie verfilzungsanfällige Zonen wie Achseln und Bauch. Erst mit Zupfbürste entwirren, dann mit Metallkamm glätten und Belüftung prüfen."
-          },
-          {
-            "name": "Abend: Gabe von Malzpaste und Kontrolle des Trinkbrunnens",
-            "text": "Geben Sie Malzpaste zur Vorbeugung von Haarballen und überprüfen Sie den Trinkbrunnen, um eine gute Wasseraufnahme zu sichern."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Warum ist das Auslassen der Fellpflege selbst für wenige Tage schädlich?",
-            "answer": "Das Perserfell ist fein und dicht. Das Auslassen des Bürstens für 2-3 Tage führt zu Verfilzungen. Diese ziehen an der Haut und zwingen zum Scheren."
-          },
-          {
-            "question": "Warum ist die Faltenpflege bei kurzköpfigen Katzen so wichtig?",
-            "answer": "Katzen mit flachem Gesicht haben tiefe Falten um die Nase. Angestaute Tränen blockieren Sauerstoff und führen zu Bakterien- und Hefeinfektionen."
-          }
-        ],
-        "tags": [
-          "Perserkatze",
-          "Langhaarpflege",
-          "Kurzköpfig",
-          "Tränenflecken"
-        ]
-      },
-      "pt": {
-        "title": "Cuidados com o Gato Persa de Pelo Longo: Rotina de 3 passos para pelagem e manchas de lágrimas",
-        "description": "Os gatos persas são conhecidos por sua pelagem elegante. Aprenda uma rotina de 3 passos para evitar dermatites na face causadas por lágrimas e evitar nós no subpelo.",
-        "authority": "Diretrizes da CFA para gatos Persas e padrões veterinários da AAFP",
-        "profile": {
-          "breed": "Gato Persa",
-          "lifespan": "12 ~ 17 anos",
-          "sleep_pattern": "15 ~ 18 horas (prefere locais tranquilos e arejados)",
-          "temperament": "Gentil, Quieto, Independente, Sensível"
-        },
-        "intro": "Com sua pelagem densa e face achatada, os Persas são conhecidos por sua natureza dócil e calma. No entanto, sua estrutura facial plana causa lacrimejamento excessivo, levando a dermatites nas dobras da pele. Sua pelagem longa embaraça facilmente, causando dor. Hoje, o PetSelf decodifica os sinais de estresse ocular e de pelagem do Persa e apresenta uma rotina de 3 passos.",
-        "whyTitle": "Linguagem corporal do gato Persa: sinais silenciosos de olhos e orelhas",
-        "whyDesc": "Como os Persas expressam emoções silenciosamente, detectar o estresse pode ser difícil. Demonstram afeto através de **'olhos semicerrados'**, mas **'orelhas de avião'** (orelhas viradas para os lados) sinalizam desconforto. Comum ao escovar a face de forma brusca.",
-        "body_signals": [
-          {
-            "name": "Olhos semicerrados",
-            "meaning": "Uma mensagem pacífica que indica profunda confiança no tutor e um estado de conforto e satisfação.",
-            "response": "Responda piscando lentamente para eles e falando com uma voz calma e carinhosa."
-          },
-          {
-            "name": "Orelhas de avião",
-            "meaning": "Expressão de desconforto por puxões nos pelos durante a escovação ou estresse com ruído externo.",
-            "response": "Pare a escovação imediatamente e dê espaço para o gato se acalmar em um local tranquilo."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Manhã: Limpeza das dobras faciais e cuidado com lágrimas",
-            "text": "Pela manhã, limpe as dobras da pele ao redor da face com gaze estéril e loção própria para evitar dermatites causadas pelas lágrimas."
-          },
-          {
-            "name": "Tarde: Escovação dupla com rasqueadeira e pente de aço",
-            "text": "Concentre-se em áreas de fricção como axilas e abdômen. Use primeiro a rasqueadeira para desfazer nós, depois o pente de aço para alinhar os pelos."
-          },
-          {
-            "name": "Noite: Suplemento para bola de pelo e inspeção da fonte de água",
-            "text": "Forneça pasta para bolas de pelo para evitar obstruções digestivas e verifique a fonte de água para incentivar o consumo de líquidos."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Por que não escovar o Persa por alguns dias pode ser prejudicial?",
-            "answer": "A pelagem do Persa é fina e densa. Deixar de escovar por 2-3 dias causa nós graves que puxam a pele, causando dor e obrigando a tosa total."
-          },
-          {
-            "question": "Por que o cuidado das dobras da pele é vital para gatos braquicefálicos?",
-            "answer": "Gatos de focinho achatado têm dobras profundas na face. Lágrimas acumuladas facilitam infecções por leveduras e bactérias, causando mau cheiro."
-          }
-        ],
-        "tags": [
-          "Gato Persa",
-          "Escovação de Pelo Longo",
-          "Braquicefálico",
-          "Lágrimas"
-        ]
-      },
-      "id": {
-        "title": "Perawatan Kucing Persia Bulu Panjang: Rutinitas 3 Langkah untuk Bulu dan Noda Air Mata",
-        "description": "Kucing Persia dikenal dengan bulunya yang anggun. Pelajari rutinitas 3 langkah untuk mencegah infeksi kulit wajah akibat air mata dan menjaga bulu bebas kusut.",
-        "authority": "Pedoman Breed CFA untuk Persia & Standar Kedokteran Hewan AAFP",
-        "profile": {
-          "breed": "Kucing Persia",
-          "lifespan": "12 ~ 17 tahun",
-          "sleep_pattern": "15 ~ 18 jam (menyukai tempat tenang dan sejuk)",
-          "temperament": "Lembut, Tenang, Mandiri, Sensitif"
-        },
-        "intro": "Dengan bulu yang tebal dan wajah rata, kucing Persia dikenal dengan sifatnya yang lembut dan tenang. Namun, struktur wajah mereka yang rata menyebabkan air mata berlebih, yang dapat menyebabkan infeksi. Bulu panjang mereka yang lebat mudah kusut dan menyebabkan rasa sakit. Hari ini, PetSelf menguraikan sinyal stres mata dan bulu Persia serta memberikan rutinitas perawatan 3 langkah.",
-        "whyTitle": "Bahasa Tubuh Kucing Persia: Sinyal Hening dari Mata dan Telinga",
-        "whyDesc": "Karena Persia mengekspresikan emosi dengan tenang, mendeteksi stres bisa jadi sulit. Meskipun mereka menunjukkan kasih sayang melalui **'mata setengah tertutup'**, **'telinga pesawat'** (telinga menoleh ke samping) menandakan ketidaknyamanan. Hal ini biasa terjadi saat menyikat terlalu cepat.",
-        "body_signals": [
-          {
-            "name": "Mata Setengah Tertutup",
-            "meaning": "Pesan damai yang menunjukkan kepercayaan mendalam pada pemilik dan keadaan yang sangat nyaman.",
-            "response": "Balas dengan berkedip perlahan ke arah mereka dan berbicaralah dengan suara yang menenangkan."
-          },
-          {
-            "name": "Telinga Pesawat",
-            "meaning": "Ekspresi ketidaknyamanan akibat rambut tertarik saat disikat atau ketegangan akibat kebisingan sekitar.",
-            "response": "Segera hentikan menyikat atau menyentuh dan beri ruang bagi kucing untuk tenang di tempat sepi."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Pagi: Pembersihan Lipatan Wajah dan Penanganan Noda Air Mata",
-            "text": "Di pagi hari, bersihkan lipatan wajah dan area bawah mata secara lembut dengan kasa steril untuk mencegah dermatitis ragi merah."
-          },
-          {
-            "name": "Siang: Menyikat Bulu Panjang dengan Slicker dan Sisir Besi",
-            "text": "Fokus pada area yang mudah kusut seperti ketiak dan perut. Gunakan slicker untuk mengurai kusut, lalu gunakan sisir besi untuk merapikan bulu."
-          },
-          {
-            "name": "Malam: Pemberian Obat Hairball dan Pemeriksaan Dispenser Air",
-            "text": "Berikan pasta hairball untuk mencegah penyumbatan usus akibat bulu yang tertelan, dan periksa dispenser air untuk mendorong hidrasi."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Mengapa tidak menyikat bulu kucing Persia beberapa hari saja sangat merugikan?",
-            "answer": "Bulu Persia tipis dan lebat. Melewatkan menyikat 2-3 hari menyebabkan kusut parah yang menarik kulit, menyebabkan rasa sakit dan harus dicukur."
-          },
-          {
-            "question": "Mengapa perawatan lipatan kulit sangat penting bagi kucing berwajah rata?",
-            "answer": "Kucing berwajah rata memiliki lipatan dalam di sekitar hidung. Air mata yang terperangkap memicu infeksi bakteri dan ragi, menyebabkan bau tidak sedap."
-          }
-        ],
-        "tags": [
-          "Kucing Persia",
-          "Perawatan Bulu Panjang",
-          "Brakisefalik",
-          "Noda Air Mata"
-        ]
-      },
       "ko": {
         "title": "페르시안 고양이 장모 케어: 모질과 눈물자국 관리를 위한 3단계 루틴",
         "description": "우아한 털을 지닌 페르시안 고양이. 단두종 특유의 눈물로 인한 얼굴 피부염 예방과 풍성한 이중 장모의 엉킴 방지를 위한 3단계 데일리 교감 루틴을 다룹니다.",
         "authority": "Cat Fanciers' Association (CFA) 페르시안 가이드 및 AAFP 수의학 지침",
         "profile": {
-          "breed": "페르시안 고양이 (Persian Cat)",
+          "breed": "페르시안 고양이 (Felis catus / Persian Cat)",
           "lifespan": "12 ~ 17년",
           "sleep_pattern": "15 ~ 18시간 (조용하고 바람 통하는 곳 선호)",
           "temperament": "온화함, 조용함, 독립성, 예민함"
         },
         "intro": "풍성한 털과 특유의 동글납작한 얼굴이 귀여운 페르시안 고양이는 성격이 온화하고 차분하여 실내에서 기르기 좋은 대표적인 묘종입니다. 하지만 납작한 단두종 골격 때문에 눈물이 자주 흐르고 코와 눈 주변 주름에 이물질이 끼기 쉽습니다. 또한 촘촘하고 길어 뭉치기 쉬운 이중 장모는 엉켜서 굳어지면 피부를 당겨 큰 통증을 일으키고 공기 순환을 막아 피부염을 일으킵니다. 오늘 PetSelf에서는 페르시안 고양이의 은밀한 안구 및 모질 스트레스 신호를 읽어내고, 이를 일상에서 예방하는 3단계 홈케어 루틴을 공유합니다.",
-        "whyTitle": "페르시안 고양이의 바디 랭귀지: 눈과 귀의 무언가 시그널",
-        "whyDesc": "페르시안 고양이는 조용하고 우아하게 표현하기 때문에 스트레스 상태를 감지하기 어렵습니다. 기분이 좋을 때는 눈을 반쯤 감고 지긋이 바라보는 **'반쯤 감긴 눈'**으로 애정을 표시하지만, 귀가 양옆으로 비스듬히 눕는 **'귀 눕히기(마징가 귀)'**가 보인다면 이는 심각한 거절이나 불편함의 시그널입니다. 특히 얼굴 주변 빗질을 서두르거나 눈가 주름 부위를 거칠게 만질 때 이러한 몸짓을 흔히 보입니다.",
+        "whyTitle": "페르시안 고양이의 바디 랭귀지: 눈과 귀의 무언의 시그널",
+        "whyDesc": "페르시안 고양이는 조용하고 우아하게 표현하기 때문에 스트레스 상태를 감지하기 어렵습니다. 기분이 좋을 때는 눈을 반쯤 감고 지긋이 바라보는 **'반쯤 감긴 눈(Half-Closed Eyes)'**으로 애정을 표시하지만, 귀가 양옆으로 비스듬히 눕는 **'귀 눕히기(Airplane Ears)'**가 보인다면 이는 심각한 거절이나 불편함의 시그널입니다. 특히 얼굴 주변 빗질을 서두르거나 눈가 주름 부위를 거칠게 만질 때 이러한 몸짓을 흔히 보입니다.",
         "body_signals": [
           {
             "name": "반쯤 감긴 눈 (Half-Closed Eyes)",
@@ -501,10 +53,458 @@
           }
         ],
         "tags": [
-          "페르시안 고양이",
-          "장모종 빗질",
-          "단두종 관리",
+          "페르시안고양이",
+          "장모종빗질",
+          "단두종관리",
           "눈물자국"
+        ]
+      },
+      "en": {
+        "title": "Persian Cat Longhair Care: A 3-Step Routine for Coat and Tear Stain Management",
+        "description": "Persian cats are known for their elegant coat. Learn a 3-step routine to prevent facial skin infections caused by tears and keep their dense longhair double coat tangle-free.",
+        "authority": "Cat Fanciers' Association (CFA) Persian Breed Guidelines & AAFP Feline Veterinary Standards",
+        "profile": {
+          "breed": "Persian Cat (Felis catus)",
+          "lifespan": "12 ~ 17 years",
+          "sleep_pattern": "15 ~ 18 hours (prefers quiet, airy spots)",
+          "temperament": "Gentle, Quiet, Independent, Sensitive"
+        },
+        "intro": "With their plush double coat and signature round, flat faces, Persian cats are beloved indoor companions known for their gentle and calm nature. However, their brachycephalic facial structure causes tears to overflow constantly, easily trapping debris in their skin folds. Furthermore, their dense, fine longhair coat readily tangles into solid mats, pulling on the skin to cause severe pain and blocking air circulation, which triggers dermatitis. Today, PetSelf decodes Persian cat eye and coat stress signals and provides a 3-step homecare routine to prevent these issues.",
+        "whyTitle": "Persian Cat Body Language: Silent Signals from Eyes and Ears",
+        "whyDesc": "Because Persians express emotions quietly and subtly, detecting stress can be difficult for owners. While they display deep affection through **'Half-Closed Eyes'**, **'Airplane Ears'** (ears turned sideways and flattened) signal clear refusal or discomfort. This posture is commonly seen when brushing facial fur too hastily or handling delicate eye folds roughly.",
+        "body_signals": [
+          {
+            "name": "Half-Closed Eyes",
+            "meaning": "A peaceful message indicating deep trust in the owner and a highly satisfied, comfortable state.",
+            "response": "Respond by blinking slowly back at them (a slow blink greeting) and speaking in a calm, soothing voice."
+          },
+          {
+            "name": "Airplane Ears",
+            "meaning": "An expression of discomfort caused by hair pulling during brushing or tension from surrounding noise.",
+            "response": "Immediately halt brushing or touching, and grant the cat quiet space to relax undisturbed."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: Facial Fold Cleaning and Tear Stain Management",
+            "text": "In the morning when tearing is frequent, gently clean facial folds around the nose with lukewarm saline or a sterile wipe to prevent red yeast dermatitis."
+          },
+          {
+            "name": "Afternoon: Dual Brushing with Slicker Brush and Steel Comb",
+            "text": "Focus on friction-prone areas like armpits and belly. Use a slicker brush first to detangle undercoat mats, then use a steel comb strand by strand to check skin ventilation."
+          },
+          {
+            "name": "Evening: Hairball Remedy and Water Fountain Check",
+            "text": "Feed hairball paste to prevent intestinal blockages from swallowed fur, and inspect the water fountain filter to encourage optimal hydration."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Why is skipping grooming for even a few days harmful to Persians?",
+            "answer": "Persian fur is fine, long, and exceptionally dense. Skipping brushing for just 2 to 3 days causes fur to felt into hard mats that pull tightly on the skin, causing pain and eventually requiring full lion-cut shaving."
+          },
+          {
+            "question": "Why is facial fold management crucial for brachycephalic cats?",
+            "answer": "Flat-faced Persians have deep facial folds near their noses. Trapped tears block oxygen flow, creating an ideal breeding ground for bacteria and red yeast, which leads to foul odors and ulcerative skin inflammation."
+          }
+        ],
+        "tags": [
+          "PersianCat",
+          "LonghairGrooming",
+          "BrachycephalicCare",
+          "TearStains"
+        ]
+      },
+      "ja": {
+        "title": "ペルシアン猫の長毛ケア：毛並みと涙やけ管理のための3段階日常ルーティン",
+        "description": "優雅な毛並みを持つペルシアン。特有の涙による顔の皮膚炎予防と、もつれやすい長毛ケアのための3段階デイリールーティンを紹介します。",
+        "authority": "CFAペルシアン種族ガイド＆AAFP猫臨床獣医学指針",
+        "profile": {
+          "breed": "ペルシアン猫 (Felis catus / Persian Cat)",
+          "lifespan": "12 ~ 17年",
+          "sleep_pattern": "15 ~ 18時間（静かで風通しの良い場所）",
+          "temperament": "穏やか、静か、独立心、繊細"
+        },
+        "intro": "豊かな毛並みとつぶれた愛らしい顔が特徴のペルシアンは、温厚で落ち着いた性格の室内飼育に適した代表的な猫種です。しかし、短い鼻の骨格（短頭種）上、涙が流れて目や鼻の周りのシワに汚れが溜まりやすいです。また、繊細で密度が高い長毛の被毛は絡まりやすく、毛玉になると皮膚を引っ張って激しい痛みを伴い、通気性を阻害して皮膚炎を引き起こします。本日PetSelfでは、ペルシアンの繊細なストレスサインを理解し、日常で目と被毛を守る3段階ホームケアルーティンをご紹介します。",
+        "whyTitle": "ペルシアンのボディランゲージ：目と耳の静かなシグナル",
+        "whyDesc": "ペルシアンは感情を静かに表現するため、ストレスに気づきにくいです。愛しい時は目を細めて見つめる**「半目のサイン（Half-Closed Eyes）」**を出しますが、耳が横に倒れる**「イカ耳（Airplane Ears）」**は不快感や明確な拒否のサインです。顔まわりのブラッシングを急いだり、シワを荒く触った時にこのサインが現れます。",
+        "body_signals": [
+          {
+            "name": "半目のサイン (Half-Closed Eyes)",
+            "meaning": "飼い主への深い信頼と、現在の環境に大満足してリラックスしているという平和なメッセージです。",
+            "response": "目をゆっくり閉じて開ける（キャットアイ・ブリンク）で返し、優しい声で応えてあげてください。"
+          },
+          {
+            "name": "イカ耳 (Airplane Ears)",
+            "meaning": "ブラッシングで毛根が引っ張られて痛むか、周囲の騒音に緊張している不快感の表れです。",
+            "response": "すぐにブラッシングや接触を中止し、静かな場所で落ち着くまで距離を置いてください。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：顔のシワの洗浄と涙やけの拭き取り",
+            "text": "涙が出やすい朝に、専用の洗浄液か滅菌ガーゼで目の周りや鼻のシワを拭き取り、赤みや赤酵母皮膚炎を予防します。"
+          },
+          {
+            "name": "昼：コームとスリッカーを併用した長毛ブラッシング",
+            "text": "もつれやすい脇や腹の毛をスリッカーでほぐした後、スチールコームで毛並みを整え、風通しが良い状態を確認します。"
+          },
+          {
+            "name": "夜：ヘアボール予防サプリの給与と循環式給水器の点検",
+            "text": "毛玉が胃腸に詰まって閉塞を起こさないよう、夜にヘアボール排出サプリを与え、給水器のフィルターを確認して水を補給します。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "ペルシアン猫はなぜ数日ブラッシングを怠るだけでダメなのですか？",
+            "answer": "ペルシアンの毛は細く長いため、2〜3日ブラッシングを怠るとすぐに絡まって分厚い毛玉になります。これが皮膚を引っ張る痛みを引き起こし、最終的に丸刈りが必要になるため毎日のブラッシングが必須です。"
+          },
+          {
+            "question": "つぶれ顔の猫のシワ管理が重要なのはなぜですか？",
+            "answer": "顔が平らなペルシアンは鼻の周りのシワが深いです。ここに涙が溜まると酸素供給が断たれて細菌や酵母菌が繁殖し、悪臭や皮膚潰瘍の原因となります。"
+          }
+        ],
+        "tags": [
+          "ペルシアン猫",
+          "長毛のブラッシング",
+          "短頭種ケア",
+          "涙やけ"
+        ]
+      },
+      "zh": {
+        "title": "波斯猫长毛护理：呵护毛发与眼部泪痕的3步日常护理流程",
+        "description": "拥有优雅毛发的波斯猫。介绍一套预防因泪水引起的脸部皮肤炎以及防止双层长毛缠结的3步日常护理流程。",
+        "authority": "CFA 波斯猫品种指南与 AAFP 兽医学标准",
+        "profile": {
+          "breed": "波斯猫 (Felis catus / Persian Cat)",
+          "lifespan": "12 ~ 17年",
+          "sleep_pattern": "15 ~ 18小时（偏好安静通风处）",
+          "temperament": "温和、安静、独立、敏感"
+        },
+        "intro": "波斯猫拥有浓密的毛发和扁平可爱的脸庞，性格温和且安静，是非常适合室内饲养的代表性猫咪。然而，扁平的面部结构导致它们经常流泪，眼鼻周围的褶皱处极易积攒污垢。此外，细密且容易缠结的双层长毛一旦结块，会拉扯皮肤引起剧烈疼痛，并阻碍空气流通导致皮肤炎。今天 PetSelf 将带您解读波斯猫隐秘的眼部与毛发压力信号，并分享日常预防的3步家庭护理流程。",
+        "whyTitle": "波斯猫的身体语言：眼与耳的无声信号",
+        "whyDesc": "波斯猫表达情感非常安静，因此很难察觉其压力状态。虽然它们在心情好时会用半眯着眼凝视 **（Half-Closed Eyes）** 的方式表达爱意，但如果出现双耳向两侧平躺的 **“飞机耳（Airplane Ears）”**，则是严重的拒绝或不适信号。在急躁地梳理其面部毛发或粗暴触碰眼周褶皱时，常常能看到这种身体动作。",
+        "body_signals": [
+          {
+            "name": "半眯着眼 (Half-Closed Eyes)",
+            "meaning": "对家长深切的信任，以及表达对当前状态非常满意和放松的和平信息。",
+            "response": "通过缓慢眨眼（猫咪式眼部问候）进行回应，并用温柔的声音回应这份信任。"
+          },
+          {
+            "name": "飞机耳 (Airplane Ears)",
+            "meaning": "因过度梳理拉扯毛根引起疼痛，或因周围噪音感到紧张、敏感的不适表达。",
+            "response": "应立即停止梳毛或触碰，给猫咪留出空间，让其在没有噪音的地方恢复平静。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早晨：扁脸眼鼻褶皱清洁与泪痕擦拭",
+            "text": "在早晨易流泪的时间段，使用温水浸湿的专用清洁液或无菌纱布轻轻擦拭鼻部周围的面部褶皱，以预防泪水引起的红色酵母菌皮肤炎。"
+          },
+          {
+            "name": "中午：排梳与针梳结合的长毛梳理",
+            "text": "对于容易缠结的腋下和腹部等区域，首先使用针梳将毛团梳开，再使用钢制排梳将整体毛发梳顺，以检查空气流通状态。"
+          },
+          {
+            "name": "晚上：防毛球营养剂喂食与循环饮水机检查",
+            "text": "为了防止梳理时吞下的毛发堆积引起肠梗阻，晚上应喂食化毛膏，并检查循环饮水机的过滤状态，以引导其饮用充足的水。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "为什么波斯猫即使只停几天不梳毛也不行？",
+            "answer": "波斯猫的毛发细长且浓密，只要疏忽梳理2~3天就会结成硬毛块。这会拉扯皮肤引起疼痛，最终只能被迫剃光毛发，因此每天梳毛是必须的。"
+          },
+          {
+            "question": "为什么扁脸猫的褶皱护理如此重要？",
+            "answer": "扁脸波斯猫的鼻部周围有深深的褶皱。如果泪水在此积聚，会阻断氧气，滋生细菌和酵母菌，从而导致异味和皮肤坏死性发炎。"
+          }
+        ],
+        "tags": [
+          "波斯猫",
+          "长毛梳理",
+          "扁脸猫护理",
+          "泪痕"
+        ]
+      },
+      "es": {
+        "title": "Cuidado del Gato Persa de Pelo Largo: Rutina diaria de 3 pasos para el pelaje y las manchas de lágrimas",
+        "description": "Los gatos persas son conocidos por su elegante pelaje. Aprenda una rutina diaria de 3 pasos para prevenir infecciones en la piel de la cara por lágrimas y evitar enredos.",
+        "authority": "Directrices de Cría de CFA para Persas y Normas Veterinarias de la AAFP",
+        "profile": {
+          "breed": "Gato Persa (Felis catus / Persian Cat)",
+          "lifespan": "12 ~ 17 años",
+          "sleep_pattern": "15 ~ 18 horas (prefiere lugares tranquilos y ventilados)",
+          "temperament": "Dócil, Silencioso, Independiente, Sensible"
+        },
+        "intro": "Con su espeso pelaje doble y su característica cara plana y redonda, los gatos persas son compañeros de interior encantadores, conocidos por su naturaleza gentil y tranquila. Sin embargo, su estructura facial braquicefálica provoca un lagrimeo constante, acumulando suciedad fácilmente en los pliegues cutáneos. Además, su denso pelaje largo se enreda con facilidad formando nudos duros que tiran de la piel causando dolor e impidiendo la ventilación. Hoy, PetSelf descifra sus señales de estrés ocular y del pelaje y proporciona una rutina diaria de 3 pasos para cuidar su salud.",
+        "whyTitle": "Lenguaje corporal del gato Persa: Señales silenciosas de ojos y orejas",
+        "whyDesc": "Dado que los Persas expresan sus emociones en silencio, detectar el estrés puede ser difícil. Mientras muestran un profundo afecto a través de **'ojos semicerrados' (Half-Closed Eyes)**, las **'orejas de avión' (Airplane Ears)** (orejas aplanadas hacia los lados) indican molestia o rechazo claro. Esto se observa comúnmente al cepillar su cara con prisa o manipular sus pliegues de forma brusca.",
+        "body_signals": [
+          {
+            "name": "Ojos semicerrados (Half-Closed Eyes)",
+            "meaning": "Mensaje pacífico que indica profunda confianza en el dueño y un estado cómodo de máxima satisfacción.",
+            "response": "Responda parpadeando lentamente y hablándoles con una voz suave y tranquila."
+          },
+          {
+            "name": "Orejas de avión (Airplane Ears)",
+            "meaning": "Expresión de incomodidad causada por tirones en las raíces del pelo durante el cepillado o tensión por el ruido ambiental.",
+            "response": "Detenga el cepillado de inmediato y dé espacio al gato en un lugar tranquilo."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Limpieza de pliegues faciales y control de lágrimas",
+            "text": "Por la mañana, limpie suavemente los pliegues faciales alrededor de la nariz con gasa estéril o solución templada para prevenir la dermatitis por levaduras rojas."
+          },
+          {
+            "name": "Tarde: Cepillado doble con cepillo slicker y peine metálico",
+            "text": "Enfóquese en áreas propensas a enredos como axilas y vientre. Use una carda (slicker) primero y luego un peine de acero hilo por hilo para verificar la ventilación de la piel."
+          },
+          {
+            "name": "Noche: Suplemento para bolas de pelo y control del bebedero de fuente",
+            "text": "Administre pasta para bolas de pelo para evitar obstrucciones intestinales por la ingesta de pelo, e inspeccione la fuente de agua para animarle a beber suficiente agua."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Por qué saltarse el cepillado aunque sea unos días daña al gato Persa?",
+            "answer": "El pelo del Persa es fino, largo y extremadamente denso. Dejar de cepillar por solo 2 o 3 días causa enredos compactos que tiran de la piel, provocando dolor y obligando finalmente a rapar al animal."
+          },
+          {
+            "question": "¿Por qué es crucial el cuidado de los pliegues en gatos braquicéfalos?",
+            "answer": "Los gatos de cara plana tienen pliegues profundos alrededor de la nariz. Las lágrimas acumuladas bloquean el oxígeno, facilitando la proliferación de bacterias y levaduras, lo que provoca mal olor e inflamación cutánea."
+          }
+        ],
+        "tags": [
+          "GatoPersa",
+          "AseoDePeloLargo",
+          "CuidadoBraquicéfalo",
+          "ManchasDeLágrimas"
+        ]
+      },
+      "fr": {
+        "title": "Soins du chat Persan à poil long : Routine quotidienne en 3 étapes pour le pelage et les taches de larmes",
+        "description": "Le Persan est connu pour son pelage élégant. Apprenez une routine en 3 étapes pour prévenir les infections de la peau du visage dues aux larmes et éviter les nœuds du sous-poil.",
+        "authority": "Directives d'Élevage de la CFA pour les Persans et Normes Vétérinaires Féline de l'AAFP",
+        "profile": {
+          "breed": "Chat Persan (Felis catus / Persian Cat)",
+          "lifespan": "12 ~ 17 ans",
+          "sleep_pattern": "15 ~ 18 heures (préfère les coins calmes et aérés)",
+          "temperament": "Doux, Calme, Indépendant, Sensible"
+        },
+        "intro": "Avec leur pelage double épais et leur face aplatie caractéristique, les chats Persans sont des compagnons d'intérieur très appréciés pour leur nature douce et paisible. Cependant, leur structure faciale brachycéphale provoque un écoulement lacrymal continu, accumulant les résidus dans les plis de la peau. De plus, leur pelage long et dense s'emmêle facilement en paquets serrés qui tirent sur la peau, causant de la douleur et bloquant la circulation de l'air. Aujourd'hui, PetSelf étudie leurs signaux de stress et vous propose une routine en 3 étapes pour préserver leur santé.",
+        "whyTitle": "Langage corporel du Persan : Signaux silencieux des yeux et des oreilles",
+        "whyDesc": "Comme les Persans s'expriment calmement, leur stress est difficile à déceler. S'ils montrent de l'affection par des **« yeux mi-clos » (Half-Closed Eyes)**, les **« oreilles en avion » (Airplane Ears)** (oreilles plaquées sur les côtés) indiquent une gêne ou un refus clair. Cela se produit souvent si le brossage du visage est trop précipité ou si les plis sont manipulés avec brutalité.",
+        "body_signals": [
+          {
+            "name": "Yeux mi-clos (Half-Closed Eyes)",
+            "meaning": "Un signal de paix indiquant une grande confiance envers le maître et un état de confort et de satisfaction totale.",
+            "response": "Répondez en clignant lentement des yeux en retour (clin d'œil félin) et parlez-lui d'une voix douce."
+          },
+          {
+            "name": "Oreilles en avion (Airplane Ears)",
+            "meaning": "Une expression d'inconfort causée par les tiraillements sur les racines des poils lors du brossage ou une tension due au bruit ambiant.",
+            "response": "Arrêtez immédiatement de brosser ou de toucher le chat et laissez-le se calmer dans un endroit paisible."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Nettoyage des plis du visage et des taches de larmes",
+            "text": "Le matin, nettoyez doucement les plis de la peau autour du nez avec une compresse stérile humide pour prévenir la dermatite à levures."
+          },
+          {
+            "name": "Après-midi : Double brossage avec brosse carde et peigne métallique",
+            "text": "Ciblez les zones sujettes aux nœuds comme les aisselles et le ventre. Utilisez d'abord une brosse carde, puis un peigne métallique pour aligner le poil et vérifier l'aération."
+          },
+          {
+            "name": "Soir : Pâte anti-boules de poils et contrôle de la fontaine à eau",
+            "text": "Donnez de la pâte anti-boules de poils pour éviter l'occlusion intestinale due à l'ingestion de poils, et inspectez la fontaine à eau pour l'encourager à bien s'hydrater."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Pourquoi négliger le brossage même quelques jours est-il si nocif pour le Persan ?",
+            "answer": "Le poil du Persan est fin, long et extrêmement dense. S'arrêter 2 à 3 jours provoque des nœuds serrés qui tirent sur la peau, créant des douleurs vives et obligeant finalement à tondre l'animal."
+          },
+          {
+            "question": "Pourquoi le soin des plis faciaux est-il vital pour les chats brachycéphales ?",
+            "answer": "Les chats à face plate ont des plis profonds près du nez. Les larmes stagnantes privent la peau d'oxygène, favorisant la prolifération de bactéries et de levures, ce qui provoque de mauvaises odeurs et des inflammations cutanées."
+          }
+        ],
+        "tags": [
+          "ChatPersan",
+          "BrossagePoilLong",
+          "SoinBrachycéphale",
+          "TachesDeLarmes"
+        ]
+      },
+      "de": {
+        "title": "Perserkatzen Langhaarpflege: Tägliche 3-Schritte-Routine für Fell- und Tränenfleckenmanagement",
+        "description": "Perserkatzen sind für ihr elegantes Fell bekannt. Lernen Sie eine 3-Schritte-Routine kennen, um Tränenflecken und Unterwollverknotungen zu vermeiden.",
+        "authority": "CFA-Perserzuchtrichtlinien und AAFP-Veterinärstandards für Katzen",
+        "profile": {
+          "breed": "Perserkatze (Felis catus / Persian Cat)",
+          "lifespan": "12 ~ 17 Jahre",
+          "sleep_pattern": "15 ~ 18 Stunden (bevorzugt ruhige, luftige Orte)",
+          "temperament": "Sanft, Ruhig, Unabhängig, Sensibel"
+        },
+        "intro": "Mit ihrem dichten Doppelfell und dem charakteristischen flachen Gesicht sind Perserkatzen für ihr sanftes und ruhiges Wesen als Wohnungskatzen beliebt. Ihre brachyzephale Gesichtsstruktur führt jedoch zu ständigem Tränenfluss, wodurch sich leicht Schmutz in den Hautfalten sammelt. Zudem verfilzt ihr dichtes Langhaarfell schnell zu dicken Matten, was Hautschmerzen verursacht und die Luftzirkulation blockiert. Heute entschlüsselt PetSelf ihre feinen Augen- und Fellstresssignale und bietet eine 3-Schritte-Tagesroutine zur Vorsorge.",
+        "whyTitle": "Körpersprache der Perserkatze: Stille Zeichen von Augen und Ohren",
+        "whyDesc": "Da Perser ihre Gefühle leise und dezent ausdrücken, ist Stress schwer zu erkennen. Während sie Zuneigung durch **'halbgeschlossene Augen' (Half-Closed Eyes)** zeigen, signalisieren **'Flugzeugohren' (Airplane Ears)** (flach zur Seite gedrehte Ohren) Unbehagen oder Ablehnung. Dies wird häufig beobachtet, wenn das Gesicht zu schnell gebürstet oder die Falten grob berührt werden.",
+        "body_signals": [
+          {
+            "name": "Halbgeschlossene Augen (Half-Closed Eyes)",
+            "meaning": "Eine friedliche Botschaft, die tiefes Vertrauen zeigt und einen sehr zufriedenen, entspannten Zustand anzeigt.",
+            "response": "Antworten Sie mit einem langsamen Blinzeln (Katzenblinzeln) und sprechen Sie mit ruhiger, sanfter Stimme."
+          },
+          {
+            "name": "Flugzeugohren (Airplane Ears)",
+            "meaning": "Ein Ausdruck des Unbehagens, der durch Ziehen an den Haarwurzeln beim Bürsten oder Lärm verursacht wird.",
+            "response": "Hören Sie sofort auf zu bürsten und geben Sie der Katze an einem ruhigen Ort Freiraum zur Beruhigung."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Reinigung der Gesichtsfalten und Tränenfleckenpflege",
+            "text": "Reinigen Sie morgens die Gesichtsfalten unter den Augen mit steriler Gaze und milder Reinigungslösung, um Hefe-Dermatitis vorzubeugen."
+          },
+          {
+            "name": "Nachmittag: Fellpflege mit Zupfbürste und Metallkamm",
+            "text": "Pflegen Sie verfilzungsanfällige Zonen wie Achseln und Bauch. Erst mit Zupfbürste entwirren, dann mit Metallkamm glätten und Belüftung prüfen."
+          },
+          {
+            "name": "Abend: Gabe von Malzpaste und Kontrolle des Trinkbrunnens",
+            "text": "Geben Sie Malzpaste zur Vorbeugung von Haarballen im Magen-Darm-Trakt und überprüfen Sie den Trinkbrunnen, um eine gute Wasseraufnahme zu sichern."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Warum ist das Auslassen der Fellpflege selbst für wenige Tage schädlich?",
+            "answer": "Das Perserfell ist fein, lang und extrem dicht. Das Auslassen des Bürstens für nur 2 bis 3 Tage führt zu harten Verfilzungen, die an der Haut ziehen, Schmerzen verursachen und letztlich das Scheren erzwingen."
+          },
+          {
+            "question": "Warum ist die Faltenpflege bei kurzköpfigen Katzen so wichtig?",
+            "answer": "Katzen mit flachem Gesicht haben tiefe Falten um die Nase. Angestaute Tränen blockieren die Sauerstoffzufuhr und führen zu Bakterien- und Hefeinfektionen mit üblem Geruch."
+          }
+        ],
+        "tags": [
+          "Perserkatze",
+          "Langhaarpflege",
+          "BrachyzephaliePflege",
+          "Tränenflecken"
+        ]
+      },
+      "pt": {
+        "title": "Cuidados com o Gato Persa de Pelo Longo: Rotina diária de 3 passos para pelagem e manchas de lágrimas",
+        "description": "Os gatos persas são conhecidos por sua pelagem elegante. Aprenda uma rotina diária de 3 passos para evitar dermatites na face causadas por lágrimas e evitar nós no subpelo.",
+        "authority": "Diretrizes da CFA para Gatos Persas e Padrões Veterinários de Felinos da AAFP",
+        "profile": {
+          "breed": "Gato Persa (Felis catus / Persian Cat)",
+          "lifespan": "12 ~ 17 anos",
+          "sleep_pattern": "15 ~ 18 horas (prefere locais tranquilos e arejados)",
+          "temperament": "Gentil, Quieto, Independente, Sensível"
+        },
+        "intro": "Com sua pelagem dupla densa e face achatada característica, os gatos Persas são conhecidos por sua natureza dócil e calma. No entanto, sua estrutura facial braquicefálica causa lacrimejamento contínuo, acumulando sujeira nas dobras faciais. Sua pelagem longa e fina embaraça facilmente formando nós duros que puxam a pele, causando dor e impedindo a circulação de ar. Hoje, o PetSelf decodifica os sinais de estresse ocular e de pelagem do Persa e apresenta uma rotina diária em 3 passos para proteger sua saúde.",
+        "whyTitle": "Linguagem corporal do gato Persa: Sinais silenciosos de olhos e orelhas",
+        "whyDesc": "Como os Persas expressam emoções silenciosamente, detectar o estresse pode ser difícil. Enquanto demonstram afeto através de **'olhos semicerrados' (Half-Closed Eyes)**, as **'orelhas de avião' (Airplane Ears)** (orelhas viradas para os lados) sinalizam desconforto ou recusa clara. Isso é comum ao escovar a face de forma brusca.",
+        "body_signals": [
+          {
+            "name": "Olhos semicerrados (Half-Closed Eyes)",
+            "meaning": "Uma mensagem pacífica que indica profunda confiança no tutor e um estado de conforto e satisfação total.",
+            "response": "Responda piscando lentamente para eles e falando com uma voz calma e carinhosa."
+          },
+          {
+            "name": "Orelhas de avião (Airplane Ears)",
+            "meaning": "Expressão de desconforto por puxões nas raízes dos pelos durante a escovação ou estresse com ruído externo.",
+            "response": "Pare a escovação imediatamente e dê espaço para o gato se acalmar em um local tranquilo."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Limpeza das dobras faciais e cuidado com lágrimas",
+            "text": "Pela manhã, limpe as dobras da pele ao redor do nariz com gaze estéril e loção própria para evitar dermatites causadas por leveduras e lágrimas."
+          },
+          {
+            "name": "Tarde: Escovação dupla com rasqueadeira e pente de aço",
+            "text": "Concentre-se em áreas de fricção como axilas e abdômen. Use primeiro a rasqueadeira para desfazer nós, depois o pente de aço para alinhar os pelos e checar a ventilação."
+          },
+          {
+            "name": "Noite: Suplemento para bola de pelo e inspeção da fonte de água",
+            "text": "Forneça pasta para bolas de pelo para evitar obstruções digestivas por pelos ingeridos e verifique a fonte de água para incentivar o consumo de líquidos."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Por que não escovar o Persa por alguns dias pode ser prejudicial?",
+            "answer": "A pelagem do Persa é fina, longa e extremamente densa. Deixar de escovar por 2 a 3 dias causa nós graves que puxam a pele, causando dor e obrigando a tosa total."
+          },
+          {
+            "question": "Por que o cuidado das dobras da pele é vital para gatos braquicefálicos?",
+            "answer": "Gatos de focinho achatado têm dobras profundas na face. Lágrimas acumuladas bloqueiam a oxigenação da pele, facilitando infecções por leveduras e bactérias com mau cheiro."
+          }
+        ],
+        "tags": [
+          "GatoPersa",
+          "EscovaçãoDePeloLongo",
+          "CuidadoBraquicefálico",
+          "ManchasDeLágrimas"
+        ]
+      },
+      "id": {
+        "title": "Perawatan Kucing Persia Bulu Panjang: Rutinitas Harian 3 Langkah untuk Bulu dan Noda Air Mata",
+        "description": "Kucing Persia dikenal dengan bulunya yang anggun. Pelajari rutinitas harian 3 langkah untuk mencegah infeksi kulit wajah akibat air mata dan menjaga bulu bebas kusut.",
+        "authority": "Pedoman Ras CFA untuk Persia & Standar Kedokteran Hewan Kucing AAFP",
+        "profile": {
+          "breed": "Kucing Persia (Felis catus / Persian Cat)",
+          "lifespan": "12 ~ 17 tahun",
+          "sleep_pattern": "15 ~ 18 jam (menyukai tempat tenang dan sejuk)",
+          "temperament": "Lembut, Tenang, Mandiri, Sensitif"
+        },
+        "intro": "Dengan bulu ganda tebal dan wajah rata yang khas, kucing Persia dikenal karena sifatnya yang lembut dan tenang sebagai kucing rumahan. Namun, struktur wajah brakisefalik mereka menyebabkan air mata terus menetes, membuat kotoran mudah menumpuk di lipatan kulit. Selain itu, bulu panjang mereka yang lebat mudah menggumpal membentuk simpul keras yang menarik kulit, menyebabkan rasa sakit dan menyumbat sirkulasi udara. Hari ini, PetSelf menguraikan sinyal stres mata dan bulu Persia serta memberikan 3 langkah rutinitas harian untuk merawat kesehatan mereka.",
+        "whyTitle": "Bahasa Tubuh Kucing Persia: Sinyal Hening dari Mata dan Telinga",
+        "whyDesc": "Karena Persia mengekspresikan emosi dengan tenang, mendeteksi stres bisa jadi sulit bagi pemilik. Meskipun mereka menunjukkan kasih sayang melalui **'Mata Setengah Tertutup' (Half-Closed Eyes)**, **'Telinga Pesawat' (Airplane Ears)** (telinga ditekuk ke samping) menandakan ketidaknyamanan atau penolakan yang jelas. Hal ini biasa terjadi saat menyikat area wajah terlalu cepat.",
+        "body_signals": [
+          {
+            "name": "Mata Setengah Tertutup (Half-Closed Eyes)",
+            "meaning": "Pesan damai yang menunjukkan kepercayaan mendalam pada pemilik dan keadaan yang sangat nyaman serta puas.",
+            "response": "Balas dengan berkedip perlahan ke arah mereka (kedipan lembut kucing) dan berbicaralah dengan suara yang menenangkan."
+          },
+          {
+            "name": "Telinga Pesawat (Airplane Ears)",
+            "meaning": "Ekspresi ketidaknyamanan akibat akar rambut tertarik saat disikat atau ketegangan akibat kebisingan sekitar.",
+            "response": "Segera hentikan menyikat atau menyentuh dan beri ruang bagi kucing untuk tenang di tempat sepi."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Pembersihan Lipatan Wajah dan Penanganan Noda Air Mata",
+            "text": "Di pagi hari saat air mata sering menetes, bersihkan lipatan wajah di sekitar hidung secara lembut dengan kasa steril untuk mencegah dermatitis ragi merah."
+          },
+          {
+            "name": "Siang: Menyikat Bulu Panjang dengan Sikat Slicker dan Sisir Besi",
+            "text": "Fokus pada area yang mudah menggumpal seperti ketiak dan perut. Gunakan sikat slicker untuk mengurai gumpalan, lalu gunakan sisir besi helai demi helai untuk merapikan dan memeriksa sirkulasi udara."
+          },
+          {
+            "name": "Malam: Pemberian Pasta Hairball dan Pemeriksaan Dispenser Air",
+            "text": "Berikan pasta hairball untuk mencegah penyumbatan usus akibat bulu yang tertelan saat dandan, dan periksa filter dispenser air untuk mendorong hidrasi."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mengapa tidak menyikat bulu kucing Persia beberapa hari saja sangat merugikan?",
+            "answer": "Bulu Persia tipis, panjang, dan sangat lebat. Melewatkan menyikat 2 hingga 3 hari saja menyebabkan gumpalan keras yang menarik kulit, menyebabkan rasa sakit hebat dan akhirnya harus dicukur habis."
+          },
+          {
+            "question": "Mengapa perawatan lipatan kulit sangat penting bagi kucing berwajah rata?",
+            "answer": "Kucing berwajah rata memiliki lipatan dalam di sekitar hidung. Air mata yang terperangkap menyumbat pasokan oksigen, memicu perkembangbiakan bakteri dan ragi yang menyebabkan bau tidak sedap dan peradangan."
+          }
+        ],
+        "tags": [
+          "KucingPersia",
+          "PerawatanBuluPanjang",
+          "PerawatanBrakisefalik",
+          "NodaAirMata"
         ]
       }
     },

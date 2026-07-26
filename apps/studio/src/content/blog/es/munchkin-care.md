@@ -1,22 +1,22 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "Guía de protección articular del gato Munchkin y rutina de 3 pasos a baja altura"
-description: "Cuidado del gato Munchkin de patas cortas. Aprenda a identificar las señales de dolor en las articulaciones y proteja su movilidad."
+title: "Guía de protección articular del gato Munchkin y rutina diaria de 3 pasos a baja altura"
+description: "Cuidados del gato Munchkin de patas cortas. Aprenda a identificar señales de dolor articular y prevenga la artritis y la hernia discal con una rutina diaria a baja altura."
 pubDate: "2026-05-31"
 updatedDate: "2026-05-31"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Gato Munchkin"]
+tags: ["CuidadoMascotas","SaludMascotas","Gato Munchkin (Felis catus)"]
 heroImage: "/images/blog/munchkin_care.png"
 app: "petself"
 formatVersion: 4
 authority: "Estándares de la Raza Munchkin de la Cat Fanciers' Association (CFA) y Directrices de Ortopedia Veterinaria"
 steps:
-  - name: "Expresiones del Munchkin: posición de canguro y dudas al saltar"
-    text: "Debido a su baja estatura, el Munchkin adopta posturas singulares. Suelen sentarse sobre sus patas traseras ('posición de canguro') para ver mejor su entorno. Sin embargo, dudar o negarse a saltar a un mueble bajo es una señal de advertencia importante de que siente dolor en las articulaciones."
-  - name: "Gato Munchkin's Body Language & Signals"
-    text: "* Posición de canguro: Sentarse erguido apoyando solo las patas traseras y la pelvis para ampliar su campo visual debido a sus patas cortas. (Coloque alfombrillas antideslizantes para evitar que se resbale y sufra una lesión en la cadera.)
+  - name: "Expresiones del Munchkin: Posición de canguro y dudas al saltar"
+    text: "Debido a su baja estatura, el Munchkin adopta posturas singulares. Suelen sentarse sobre sus patas traseras 'Posición de canguro' (Kangaroo Standing) para ver mejor su entorno. Sin embargo, 'dudar o negarse a saltar' a un mueble bajo es una señal de advertencia importante de que siente dolor en las articulaciones."
+  - name: "Gato Munchkin (Felis catus)'s Body Language & Signals"
+    text: "* Posición de canguro (Kangaroo Standing): Sentarse erguido apoyando solo las patas traseras y la pelvis para ampliar su campo visual debido a sus patas cortas. (Coloque alfombrillas antideslizantes para evitar que se resbale y sufra una lesión en la cadera.)
 
-* Dudas al saltar o reluctancia: Mirar fijamente hacia arriba y dudar repetidamente antes de realizar un salto bajo debido a molestias articulares. (No lo obligue a saltar, coloque rampas o escalones para facilitarle el acceso a sofás o camas y consulte a un veterinario.)"
+* Dudas al saltar o renuncia: Mirar fijamente hacia arriba y dudar repetidamente antes de realizar un salto bajo debido a molestias articulares. (No lo obligue a saltar, coloque rampas o escalones para facilitarle el acceso a sofás o camas y consulte a un veterinario.)"
   - name: "Customized 3-Step Home Care Routine"
     text: "* STEP 1. Mañana: Control de la marcha y la movilidad: Examine cómo camina al despertarse. Observe si tiene rigidez en las patas traseras, especialmente en días fríos.
 
@@ -46,26 +46,26 @@ Los gatos Munchkin son famosos por su carácter cariñoso y sus patitas extremad
 
 ---
 
-## 1. Expresiones del Munchkin: posición de canguro y dudas al saltar
+## 1. Expresiones del Munchkin: Posición de canguro y dudas al saltar
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Expresiones del Munchkin: posición de canguro y dudas al saltar</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Expresiones del Munchkin: Posición de canguro y dudas al saltar</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Debido a su baja estatura, el Munchkin adopta posturas singulares. Suelen sentarse sobre sus patas traseras ('posición de canguro') para ver mejor su entorno. Sin embargo, dudar o negarse a saltar a un mueble bajo es una señal de advertencia importante de que siente dolor en las articulaciones.
+    Debido a su baja estatura, el Munchkin adopta posturas singulares. Suelen sentarse sobre sus patas traseras 'Posición de canguro' (Kangaroo Standing) para ver mejor su entorno. Sin embargo, 'dudar o negarse a saltar' a un mueble bajo es una señal de advertencia importante de que siente dolor en las articulaciones.
   </p>
 </div>
 
 ---
 
-## 2. Gato Munchkin's Body Language & Signals
+## 2. Gato Munchkin (Felis catus)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Señal Corporal 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Posición de canguro</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Posición de canguro (Kangaroo Standing)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• Significado:</strong> Sentarse erguido apoyando solo las patas traseras y la pelvis para ampliar su campo visual debido a sus patas cortas.<br/>
@@ -76,7 +76,7 @@ Los gatos Munchkin son famosos por su carácter cariñoso y sus patitas extremad
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Señal Corporal 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Dudas al saltar o reluctancia</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Dudas al saltar o renuncia</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• Significado:</strong> Mirar fijamente hacia arriba y dudar repetidamente antes de realizar un salto bajo debido a molestias articulares.<br/>

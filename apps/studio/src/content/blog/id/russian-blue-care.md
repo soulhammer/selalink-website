@@ -1,22 +1,22 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "Tempat Sembunyi Aman dan Membangun Kepercayaan: Rutinitas 3 Langkah untuk Russian Blue"
-description: "Russian Blue secara alami pemalu dan sensitif terhadap kebisingan. Pelajari cara menciptakan zona aman bebas stres dan rutinitas 3 langkah untuk membangun kepercayaan."
+title: "Tempat Sembunyi Aman dan Membangun Kepercayaan: Rutinitas Harian 3 Langkah untuk Russian Blue"
+description: "Russian Blue secara alami pemalu dan sensitif terhadap kebisingan. Pelajari cara menciptakan zona aman bebas stres dan 3 langkah rutinitas harian untuk membangun kepercayaan."
 pubDate: "2026-03-26"
 updatedDate: "2026-03-26"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Russian Blue"]
+tags: ["PerawatanHewan","KesehatanHewan","Russian Blue (Felis catus)"]
 heroImage: "/images/blog/russian_blue_care.png"
 app: "petself"
 formatVersion: 4
 authority: "Panduan Ras Cat Fanciers' Association (CFA) & Cornell Feline Health Center"
 steps:
   - name: "Bahasa Tubuh Russian Blue: Membaca Tanda Peringatan Kepanikan"
-    text: "Karena sifat mereka yang lembut, Russian Blue menunjukkan sinyal peringatan dengan tenang. Sinyal kepanikan utama meliputi 'pupil melebar' dan 'merunduk' (crouching). Ketika mendengar suara tiba-tiba, pupil mereka akan melebar. Jika mereka menekan tubuh ke lantai dan meratakan telinga, mereka bersiap untuk melarikan diri."
-  - name: "Russian Blue's Body Language & Signals"
-    text: "* Pupil Melebar: Respons fisik yang menunjukkan mereka sangat waspada atau takut oleh pemicu sekitar. (Redupkan lampu dan segera hentikan sumber stimulasi (seperti kebisingan peralatan rumah tangga).)
+    text: "Karena sifat mereka yang lembut, Russian Blue menunjukkan sinyal peringatan dengan tenang. Sinyal kepanikan utama meliputi 'pupil melebar' (Dilated Pupils) dan 'merunduk' (Crouching). Ketika mendengar suara tiba-tiba, pupil mereka akan melebar. Jika mereka menekan tubuh ke lantai dan meratakan telinga, mereka bersiap untuk melarikan diri."
+  - name: "Russian Blue (Felis catus)'s Body Language & Signals"
+    text: "* Pupil Melebar (Dilated Pupils): Respons fisik yang menunjukkan mereka sangat waspada atau takut oleh pemicu sekitar. (Redupkan lampu dan segera hentikan sumber stimulasi (seperti kebisingan peralatan rumah tangga).)
 
-* Merunduk: Tanda kepanikan defensif, menunjukkan mereka merasa terpojok atau ketakutan. (Jangan paksa mereka melakukan kontak fisik. Biarkan mereka mundur ke ruangan atau lemari yang tenang.)"
+* Merunduk (Crouching): Tanda kepanikan defensif, menunjukkan mereka merasa terpojok atau ketakutan. (Jangan paksa mereka melakukan kontak fisik. Biarkan mereka mundur ke ruangan atau lemari yang tenang.)"
   - name: "Customized 3-Step Home Care Routine"
     text: "* STEP 1. Pagi: Rutinitas Keamanan Kotak Pasir dan Area Makan: Bersihkan kotak pasir lebih awal. Pastikan mangkuk makanan dan air diletakkan di sudut yang tenang jauh dari lalu lintas orang.
 
@@ -30,7 +30,7 @@ faqs:
     answer: "Rendahkan postur Anda dan hindari kontak mata langsung, yang dianggap kucing sebagai ancaman. Biarkan mereka mengendus jari Anda terlebih dahulu."
 ---
 
-Russian Blue adalah kucing menawan yang terkenal dengan bulu biru keperakan pendek dan mata hijau mereka. Meskipun pendiam, lembut, mereka secara genetik pemalu dan sangat sensitif terhadap kebisingan. 🐱 Inilah mengapa mereka cepat bersembunyi saat ada tamu berkunjung atau penyedot debu menyala. Memaksa mereka keluar hanya menyebabkan kepanikan. Hari ini, PetSelf memperkenalkan rutinitas 3 langkah.
+Russian Blue adalah kucing menawan yang terkenal dengan bulu biru keperakan pendek dan mata hijau mereka. Meskipun pendiam dan lembut, mereka secara genetik pemalu dan sangat sensitif terhadap kebisingan. 🐱 Inilah mengapa mereka cepat bersembunyi saat ada tamu berkunjung atau penyedot debu menyala. Memaksa mereka keluar hanya menyebabkan kepanikan. Hari ini, PetSelf memperkenalkan 3 langkah rutinitas harian.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -54,18 +54,18 @@ Russian Blue adalah kucing menawan yang terkenal dengan bulu biru keperakan pend
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Bahasa Tubuh Russian Blue: Membaca Tanda Peringatan Kepanikan</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Karena sifat mereka yang lembut, Russian Blue menunjukkan sinyal peringatan dengan tenang. Sinyal kepanikan utama meliputi 'pupil melebar' dan 'merunduk' (crouching). Ketika mendengar suara tiba-tiba, pupil mereka akan melebar. Jika mereka menekan tubuh ke lantai dan meratakan telinga, mereka bersiap untuk melarikan diri.
+    Karena sifat mereka yang lembut, Russian Blue menunjukkan sinyal peringatan dengan tenang. Sinyal kepanikan utama meliputi 'pupil melebar' (Dilated Pupils) dan 'merunduk' (Crouching). Ketika mendengar suara tiba-tiba, pupil mereka akan melebar. Jika mereka menekan tubuh ke lantai dan meratakan telinga, mereka bersiap untuk melarikan diri.
   </p>
 </div>
 
 ---
 
-## 2. Russian Blue's Body Language & Signals
+## 2. Russian Blue (Felis catus)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Sinyal Tubuh 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pupil Melebar</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pupil Melebar (Dilated Pupils)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• Arti:</strong> Respons fisik yang menunjukkan mereka sangat waspada atau takut oleh pemicu sekitar.<br/>
@@ -76,7 +76,7 @@ Russian Blue adalah kucing menawan yang terkenal dengan bulu biru keperakan pend
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Sinyal Tubuh 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Merunduk</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Merunduk (Crouching)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• Arti:</strong> Tanda kepanikan defensif, menunjukkan mereka merasa terpojok atau ketakutan.<br/>

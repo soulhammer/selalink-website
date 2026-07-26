@@ -8,126 +8,126 @@
         "description": "British Shorthairs are loved for their chunky build. Discover a 3-step diet and lifestyle routine to prevent obesity, which stresses their bones and genetic HCM risk.",
         "authority": "GCCF Breed Standards for British Shorthairs & AAFP Feline Obesity Guidelines",
         "profile": {
-          "breed": "British Shorthair",
+          "breed": "British Shorthair (Felis catus)",
           "lifespan": "12 ~ 15 years",
           "sleep_pattern": "14 ~ 16 hours (prefers cool, flat floor)",
           "temperament": "Calm, Independent, Loyal, Patient"
         },
-        "intro": "With their round faces and muscular build, British Shorthairs are the gentle giants of the cat world. However, their sturdy frame means obesity places critical stress on their joints. Furthermore, they are genetically prone to **Hypertrophic Cardiomyopathy (HCM)**, a heart disease exacerbated by excess weight. Today, PetSelf decodes British Shorthair body language and shares a 3-step diet and activity routine.",
-        "whyTitle": "British Shorthair Body Language: Distant Staring and Tail Flicking",
-        "whyDesc": "British Shorthairs dislike restrictive holding and show trust through **'soft staring'** from a distance. This means they trust you but want their space. Conversely, when annoyed, they show **'tail swishing'** (hitting the floor with their tail tip). Holding them during this time will trigger stress.",
+        "intro": "With their large round faces and muscular build, British Shorthairs are known as the gentle giants of the cat world, making them an excellent match even for first-time owners due to their calm and patient demeanor. However, their heavy-boned frame means failing at weight management places critical stress on their joints. Furthermore, they are genetically prone to **Hypertrophic Cardiomyopathy (HCM)**, a heart disease where the heart walls thicken, making it crucial to prevent excess weight from straining the heart. Today, PetSelf decodes British Shorthair body language and shares a 3-step homecare routine to safely maintain their heart and weight.",
+        "whyTitle": "British Shorthair Body Language: Soft Staring and Tail Flicking Signals",
+        "whyDesc": "British Shorthairs dislike restrictive holding and show trust through **'soft staring'** from a distance. This indicates that while they prefer an independent relationship, they feel safe and trust you. Conversely, when annoyed or uncomfortable, they display **'tail swishing'** (tapping the floor with their tail tip while lying down). Forcing them into a embrace during this time will significantly raise their stress levels.",
         "body_signals": [
           {
             "name": "Soft Staring",
-            "meaning": "A mature and independent expression of love, indicating they feel happy and safe just sharing the space.",
-            "response": "Blink slowly to return the affection. Do not approach or pick them up; let them enjoy the quiet presence."
+            "meaning": "A mature and independent expression of affection, indicating they feel happy and safe just sharing the same space.",
+            "response": "Blink slowly to return the affection. Do not approach or pick them up forcibly; simply watch them quietly."
           },
           {
             "name": "Tail Swishing",
-            "meaning": "A warning sign indicating that they are annoyed or touched too roughly, asking you to stop.",
-            "response": "Immediately stop petting and avoid further contact to let the cat relax on its own."
+            "meaning": "A rejection signal showing that petting intensity or contact is bothering them, asking you to stop as stress rises.",
+            "response": "Immediately stop touching them and avoid physical stimulation so the cat can relax on its own."
           }
         ],
         "daily_routine": [
           {
-            "name": "Morning: Strict Dietary Measurement using Kitchen Scales",
-            "text": "To prevent hypertrophic cardiomyopathy (HCM) caused by obesity, weigh their food on a digital scale to ensure exact portion control."
+            "name": "Morning: Strict Dietary Portion Control using Precision Scales",
+            "text": "To prevent hypertrophic cardiomyopathy (HCM) aggravated by obesity, weigh food on a digital electronic scale to adhere to exact daily caloric requirements."
           },
           {
-            "name": "Afternoon: Undercoat Brushing using Feline Rubber Brush",
-            "text": "Although short-haired, they have dense fur. Brush for 5 minutes with a feline rubber brush to collect dead undercoat without skin irritation."
+            "name": "Afternoon: Undercoat Brushing using a Dedicated Rubber Brush",
+            "text": "Although short-haired, they have dense, thick fur. Brush for 5 minutes with a feline rubber brush to collect dead undercoat without skin irritation."
           },
           {
-            "name": "Evening: Respiration Rate Check for HCM and Low-intensity Play",
-            "text": "Count their sleeping respiration rate (should be under 30 breaths per minute) to monitor heart health, and play lightly with wool balls."
+            "name": "Evening: Respiration Rate Check for HCM Prevention and Gentle Play",
+            "text": "Monitor sleeping respiration rates (should be under 30 breaths per minute) to keep track of heart health, and engage in gentle wool ball rolling play."
           }
         ],
         "faqs": [
           {
             "question": "Why is obesity more dangerous for British Shorthairs than other cats?",
-            "answer": "British Shorthairs have a heavy frame and are genetically prone to Hypertrophic Cardiomyopathy (HCM). Obesity forces the heart to work harder, increasing heart failure risk."
+            "answer": "British Shorthairs have a heavy, rounded frame and a genetically high incidence rate of Hypertrophic Cardiomyopathy (HCM). Obesity increases cardiac output and places direct overload on the heart muscle, significantly raising the risk of sudden cardiac failure."
           },
           {
             "question": "Why do British Shorthairs dislike being held or picked up?",
-            "answer": "They value their independence and feel insecure when their paws lose contact with the ground. Forced holding can harm your bond with them."
+            "answer": "They value their independence highly and feel intense anxiety when their paws lose contact with the ground. Forced, restrictive holding against their will can damage the trust built with the owner."
           }
         ],
         "tags": [
           "British Shorthair",
           "HCM Prevention",
           "Weight Control",
-          "Obesity"
+          "Obesity Prevention"
         ]
       },
       "ja": {
-        "title": "ブリティッシュ・ショートヘアの体重ケア：HCMと肥満予防の3段階ルーティン",
-        "description": "がっしりした体格と大きな顔が特徴のブリティッシュ・ショートヘア。心臓と関節に負担をかける肥満の予防と、遺伝病の心筋症（HCM）対策の3段階ルーティンを紹介します.",
+        "title": "ブリティッシュ・ショートヘアの体重ケア：HCMと肥満予防の3段階日常ルーティン",
+        "description": "がっしりした体格と大きな顔が特徴のブリティッシュ・ショートヘア。心臓と関節に負担をかける肥満の予防と、遺伝病の心筋症（HCM）対策の3段階ルーティンを紹介します。",
         "authority": "GCCFブリティッシュ・ショートヘア基準＆AAFP猫肥満指針",
         "profile": {
-          "breed": "ブリティッシュ・ショートヘア",
+          "breed": "ブリティッシュ・ショートヘア (British Shorthair)",
           "lifespan": "12 ~ 15年",
           "sleep_pattern": "14 ~ 16時間（涼しく平らな床を好む）",
           "temperament": "落ち着いた、独立心、忠実、我慢強い"
         },
-        "intro": "丸い顔とがっしりした筋肉質の体を持つブリティッシュ・ショートヘアは、温和で我慢強く初心者に好まれる猫種です。しかし、体重管理を怠ると関節に深刻な負担がかかります。また、心臓の壁が厚くなる**肥大友心筋症（HCM）**のリスク種であるため, 肥満は絶対に防がなければなりません。本日、PetSelfでは彼らのサインを理解し、心臓を守る3段階ルーティンを紹介します. 毎日の継続的なケアと安全な環境を提供することで、ペットの長期的で健やかな健康を維持できます。",
+        "intro": "丸い顔とがっしりした筋肉質の体を持つブリティッシュ・ショートヘアは、温和で我慢強く初心者に好まれる猫種です。しかし、この骨太な体型は体重管理を怠ると関節に深刻な負担がかかります。また、遺伝的に心臓の壁が厚くなる**肥大性心筋症（HCM）**のリスク種であるため、過体重による心臓への負担増は絶対に防がなければなりません。本日PetSelfでは、彼らのサインを理解し、心臓と体重を安全に維持する3段階ホームケアルーティンをご紹介します。",
         "whyTitle": "ブリティッシュ・ショートヘアのボディランゲージ：遠くからの目線と尻尾のサイン",
-        "whyDesc": "ブリティッシュは無理な抱っこを嫌い、一定の距離から見つめる**「視線のサイン」**で信頼を示します。これは適度な距離を保ちつつも信頼しているという意味です。一方、不快な時は寝そべったまま尻尾の先で床を叩く**「尻尾振り」**をします. この時に抱き上げるとストレスが高まります.",
+        "whyDesc": "ブリティッシュ・ショートヘアは束縛的なスキンシップを嫌い、一定の距離を保ちながら保護者を見つめる**「じっと見つめる（Soft Staring）」**ことで安心感を示します。これは独立した関係を望みつつも信頼しているサインです。一方、不快な時は寝そべったまま尻尾の先で床を叩く**「尻尾振り（Tail Swishing）」**を見せます。この時に無理に抱き上げるとストレスが高まります。",
         "body_signals": [
           {
-            "name": "視線のサイン (Soft Staring)",
-            "meaning": "同じ部屋にいるだけで幸せと安心感を感じているという、独立して落ち着いた愛情の表現です.",
-            "response": "ゆっくり瞬きをして応え、無理に近づいて抱き上げず、静かに見守ってあげてください."
+            "name": "じっと見つめる (Soft Staring)",
+            "meaning": "同じ空間にいるだけで幸せと安心感を感じているという、独立して成熟した愛の表現です。",
+            "response": "ゆっくり瞬きをして応え、無理に近づいて抱き上げず、静かに見守ってあげてください。"
           },
           {
             "name": "尻尾振り (Tail Swishing)",
-            "meaning": "しつこい接触や触り方にストレスを感じており、「やめて」と要求する拒否のサインです.",
-            "response": "すぐに触るのをやめ, 猫が一人で落ち着けるよう刺激を避けてください."
+            "meaning": "触り方や強さにストレスを感じており、中断を要求する拒否のサインです。",
+            "response": "すぐに触るのをやめ、猫が一人で落ち着けるよう物理的刺激を避けてください。"
           }
         ],
         "daily_routine": [
           {
             "name": "朝：精密デジタルスケールを使用したフード量の管理",
-            "text": "肥満による心筋症（HCM）を防ぐため, デジタルスケールで1日の必要摂取カロリーを正確に測って給与します."
+            "text": "肥満による心臓肥大（HCM）を防ぐため、デジタル電子スケールで1日の必要摂取カロリーに合わせ正確に定量給与します。"
           },
           {
             "name": "昼：短毛種用ラバーブラシによる抜け毛処理",
-            "text": "短毛ですが密度の高い毛質なため、皮膚に負担の少ないラバーブラシで5分間ブラッシングし、死毛を取り除きます."
+            "text": "短毛種ですが密度の高い毛質なため、皮膚刺激の少ない専用ラバーブラシで5分間ブラッシングし、死毛を取り除きます。"
           },
           {
             "name": "夜：HCM予防のための呼吸数測定と穏やかな遊び",
-            "text": "睡眠時の1分間の呼吸数が30回未満か確認して心臓の状態を監視し、羊毛ボールなどを使用した軽い遊びをさせます."
+            "text": "睡眠時の1分間の呼吸数が30回未満か確認して心筋肥大を監視し、軽めの羊毛ボール転がし遊びをさせます。"
           }
         ],
         "faqs": [
           {
             "question": "ブリティッシュ・ショートヘアが肥満になると他の猫より危険なのはなぜですか？",
-            "answer": "がっしりした体格のブリティッシュは、遺伝的に肥大性心筋症（HCM）の発生率が高い種です。肥満になると心臓の負担が急増し, 急死などのリスクが高まります."
+            "answer": "がっしりした体格のブリティッシュ・ショートヘアは、遺伝的に肥大性心筋症（HCM）の発生率が高い種です。肥満で体重が増えると心拍出量が増加し、心筋に直接過負荷がかかるため、突然死などのリスクが急増します。"
           },
           {
             "question": "ブリティッシュ・ショートヘアが抱っこを嫌う理由は何ですか？",
-            "answer": "彼らは独立心が強く、足が宙に浮く状態に強い不安を感じます. 嫌がるのを無理に抱き上げると、飼い主との信頼関係が崩れてしまうことがあります。"
+            "answer": "彼らは独立性が高く、自分の足が地盤から離れる空中状態に強い不安を感じます。そのため、望まない無理な抱擁は保護者との信頼関係を損ねる恐れがあります。"
           }
         ],
         "tags": [
           "ブリティッシュ・ショートヘア",
           "肥大性心筋症",
           "体重管理",
-          "肥満"
+          "肥満予防"
         ]
       },
       "zh": {
-        "title": "英国短毛猫体重护理：预防肥大性心肌病（HCM）与肥胖的日常3步惯例",
-        "description": "以结实身架和圆圆大脸而闻名的英国短毛猫。介绍一套预防肥胖（加重骨骼与心脏负担）和遗传性心肌病（HCM）的日常3步饮食与护理惯例。",
+        "title": "英国短毛猫体重护理：预防肥大性心肌病（HCM）与肥胖的日常3步护理流程",
+        "description": "以结实身架和圆圆大脸而闻名的英国短毛猫。介绍一套预防肥胖（加重骨骼与心脏负担）和遗传性心肌病（HCM）的日常3步饮食与护理流程。",
         "authority": "GCCF 英国短毛猫标准与 AAFP 猫咪肥胖指南",
         "profile": {
-          "breed": "英国短毛猫",
+          "breed": "英国短毛猫 (British Shorthair)",
           "lifespan": "12 ~ 15年",
           "sleep_pattern": "14 ~ 16小时（偏好凉爽平坦的地板）",
           "temperament": "冷静、独立、忠诚、有耐心"
         },
-        "intro": "拥有大圆脸和粗壮肌肉体格的英国短毛猫，正如其“温柔巨人”的绰号一样，性格沉稳、隐忍，非常适合新手家长饲养。然而，它们粗壮的骨架一旦体重管理失败，会给关节带来严重的超载。此外，它们在遗传上属于心脏壁变厚的**肥大性心肌病（HCM）**的高危群体，因此必须防止超重加重心脏负担。今天，PetSelf 将为您分析英短的冷静安心指标及微妙的不适信号，并介绍一套保护心脏与控制体重的3步家庭护理惯例。",
+        "intro": "拥有大圆脸和粗壮肌肉体格的英国短毛猫，正如其“温柔巨人”的绰号一样，性格沉稳、隐忍，非常适合新手家长饲养。然而，它们粗壮的骨架一旦体重管理失败，会给关节带来严重的超载。此外，它们在遗传上属于心脏壁变厚的**肥大性心肌病（HCM）**的高危群体，因此必须防止超重加重心脏负担。今天，PetSelf 将为您分析英短的冷静安心指标及微妙的不适信号，并介绍一套保护心脏与控制体重的3步家庭护理流程。",
         "whyTitle": "英国短毛猫的身体语言：遥远的凝视与尾巴信号",
-        "whyDesc": "英短讨厌强迫性的抚抱，它们会在保持一定距离的情况下，通过温和地凝视（Soft staring）来表示安全感。这代表它们虽希望保持独立的关系，但对家长是信任的。相反，在感到不便或烦躁时，它们会躺着仅用尾尖轻轻拍打地面。如果此时强行抱起它们，会导致其压力飙升。",
+        "whyDesc": "英短讨厌强迫性的抚抱，它们会在保持一定距离的情况下，通过温和地凝视 **（Soft Staring）** 来表示安全感。这代表它们虽希望保持独立的关系，但对家长是信任的。相反，在感到不便或烦躁时，它们会躺着仅用尾尖轻轻拍打地面 **（Tail Swishing）**。如果此时强行抱起它们，会导致其压力飙升。",
         "body_signals": [
           {
             "name": "温和凝视 (Soft Staring)",
@@ -157,7 +157,7 @@
         "faqs": [
           {
             "question": "为什么英国短毛猫发胖会比其他猫咪更危险？",
-            "answer": "英国短毛猫虽然骨架大且结实，但遗传上属于肥大性心肌病（HCM）发病率很高的犬种。由于肥胖导致体重增加会使心脏排血量增加，给心肌带来直接超载，从而使突然死亡的风险急剧飙升。"
+            "answer": "英国短毛猫虽然骨架大且结实，但遗传上属于肥大性心肌病（HCM）发病率很高的品种。由于肥胖导致体重增加会使心脏排血量增加，给心肌带来直接超载，从而使突然死亡的风险急剧飙升。"
           },
           {
             "question": "为什么英国短毛猫讨厌被抚抱抱起？",
@@ -168,287 +168,287 @@
           "英国短毛猫",
           "肥大性心肌病",
           "体重管理",
-          "肥胖"
+          "预防肥胖"
         ]
       },
       "es": {
-        "title": "Cuidado del Peso del British Shorthair: Rutina de 3 pasos para la prevención de HCM y obesidad",
-        "description": "Los British Shorthair son queridos por su complexión robusta. Descubra una rutina de 3 pasos de dieta y estilo de vida para prevenir la obesidad y la HCM genética.",
-        "authority": "Estándares de cría de GCCF para British Shorthairs y pautas de obesidad de AAFP",
+        "title": "Cuidado del Peso del British Shorthair: Rutina diaria de 3 pasos para la prevención de HCM y obesidad",
+        "description": "Los British Shorthairs son queridos por su complexión robusta. Descubra una rutina diaria de 3 pasos de dieta y estilo de vida para prevenir la obesidad y la HCM genética.",
+        "authority": "Estándares de cría de GCCF para British Shorthairs y Pautas de Obesidad Felina de la AAFP",
         "profile": {
-          "breed": "British Shorthair",
+          "breed": "British Shorthair (British Shorthair)",
           "lifespan": "12 ~ 15 años",
           "sleep_pattern": "14 ~ 16 horas (prefiere el suelo fresco y plano)",
           "temperament": "Tranquilo, Independiente, Leal, Paciente"
         },
-        "intro": "Con sus caras redondas y complexión musculosa, los British Shorthairs son gigantes gentiles. Sin embargo, su robusto cuerpo hace que la obesidad dañe sus articulaciones. Además, son propensos a la **Cardiomiopatía Hipertrófica (HCM)**, empeorada por el sobrepeso. Hoy, PetSelf explica su lenguaje y comparte una rutina de 3 pasos.",
-        "whyTitle": "Lenguaje corporal del British Shorthair: mirada distante y movimiento de cola",
-        "whyDesc": "A los British Shorthairs no les gusta que los retengan y muestran confianza a través de la **'mirada suave'** a distancia. Por el contrario, cuando están molestos, muestran un **'movimiento de cola'**. Cargarlos en ese momento les provocará estrés.",
+        "intro": "Con sus grandes caras redondas y complexión musculosa, los British Shorthairs son conocidos como los gigantes gentiles del mundo felino, ideales incluso para dueños primerizos gracias a su temperamento paciente. Sin embargo, su robusta estructura ósea hace que la falta de control de peso cause una grave sobrecarga en sus articulaciones. Además, son propensos genéticamente a la **Cardiomiopatía Hipertrófica (HCM)**, enfermedad donde las paredes del corazón se engrosan, haciendo crucial evitar el sobrepeso. Hoy, PetSelf explica su lenguaje corporal y comparte una rutina de 3 pasos para mantener sanos su corazón y su peso.",
+        "whyTitle": "Lenguaje corporal del British Shorthair: Mirada suave y señales de cola",
+        "whyDesc": "A los British Shorthairs no les gusta que los sostengan de forma restrictiva y muestran confianza mediante la **'mirada suave' (Soft Staring)** a distancia. Esto indica que prefieren una relación independiente pero se sienten seguros. Por el contrario, cuando están molestos, muestran un **'movimiento de cola' (Tail Swishing)** golpeando el suelo. Cargarlos en ese momento elevará drásticamente su nivel de estrés.",
         "body_signals": [
           {
-            "name": "Mirada suave",
-            "meaning": "Expresión madura e independiente de amor, indicando que se sienten felices y seguros con solo compartir el espacio.",
-            "response": "Parpadee lentamente para devolver el afecto. No se acerque ni lo cargue; deje que disfrute de su presencia."
+            "name": "Mirada suave (Soft Staring)",
+            "meaning": "Expresión madura e independiente de amor, indicando que se sienten felices y seguros con solo compartir el mismo espacio.",
+            "response": "Parpadee lentamente para devolver el afecto. No se acerque ni lo cargue por la fuerza; simplemente obsérvelo con calma."
           },
           {
-            "name": "Movimiento de cola",
-            "meaning": "Señal de advertencia de que están molestos o que se les toca con brusquedad, pidiéndole que pare.",
-            "response": "Deje de acariciarlo inmediatamente y evite más contacto para que el gato se relaje solo."
+            "name": "Movimiento de cola (Tail Swishing)",
+            "meaning": "Señal de rechazo que indica que la intensidad de las caricias o el contacto les molesta, pidiéndole que pare a medida que sube el estrés.",
+            "response": "Deje de tocarlo inmediatamente y evite el contacto físico para que el gato se relaje solo."
           }
         ],
         "daily_routine": [
           {
-            "name": "Mañana: Control estricto de la dieta mediante báscula",
-            "text": "Para prevenir la cardiomiopatía hipertrófica (HCM) por obesidad, pese la comida en una báscula digital."
+            "name": "Mañana: Control estricto de la dieta mediante báscula de precisión",
+            "text": "Para prevenir la cardiomiopatía hipertrófica (HCM) agravada por la obesidad, pese la comida en una báscula digital siguiendo las calorías diarias exactas."
           },
           {
             "name": "Tarde: Cepillado del subpelo con cepillo de goma para gatos",
-            "text": "Aunque son de pelo corto, su pelaje es denso. Cepille durante 5 minutos con cepillo de goma para retirar el subpelo muerto."
+            "text": "Aunque son de pelo corto, su pelaje es muy denso. Cepille durante 5 minutos con un cepillo de goma para retirar el subpelo muerto sin irritar la piel."
           },
           {
-            "name": "Noche: Control de frecuencia respiratoria para HCM y juego moderado",
-            "text": "Verifique que su frecuencia respiratoria al dormir sea inferior a 30 respiraciones por minuto y juegue de forma moderada con bolas de lana."
+            "name": "Noche: Control respiratorio para prevención de HCM y juego moderado",
+            "text": "Verifique que la frecuencia respiratoria al dormir sea inferior a 30 respiraciones por minuto para monitorear el corazón, y juegue suavemente rodando bolas de lana."
           }
         ],
         "faqs": [
           {
             "question": "¿Por qué la obesidad es más peligrosa para el British Shorthair que para otros gatos?",
-            "answer": "Tienen un cuerpo robusto y son propensos a la Cardiomiopatía Hipertrófica (HCM). La obesidad obliga al corazón a esforzarse más, elevando el riesgo de fallo cardíaco."
+            "answer": "Tienen un cuerpo grande y redondeado, con una alta incidencia genética de Cardiomiopatía Hipertrófica (HCM). El exceso de peso aumenta el gasto cardíaco y sobrecarga directamente el miocardio, elevando el riesgo de fallo cardíaco repentino."
           },
           {
-            "question": "¿Por qué a los British Shorthairs no les gusta que los carguen?",
-            "answer": "Valoran su independencia y se sienten inseguros cuando sus patas pierden contacto con el suelo. Abrazarlos a la fuerza puede dañar la relación."
+            "question": "¿Por qué a los British Shorthairs no les gusta que los carguen en brazos?",
+            "answer": "Valoran enormemente su independencia y sienten una gran ansiedad cuando sus patas pierden contacto con el suelo. Abrazarlos a la fuerza contra su voluntad puede dañar la relación de confianza."
           }
         ],
         "tags": [
-          "British Shorthair",
-          "Prevención de HCM",
-          "Control de Peso",
-          "Obesidad"
+          "BritishShorthair",
+          "PrevenciónDeHCM",
+          "ControlDePeso",
+          "PrevenciónDeObesidad"
         ]
       },
       "fr": {
-        "title": "Soins du British Shorthair (Poids) : Routine en 3 étapes pour la prévention de la CMH et de l'obésité",
-        "description": "Le British Shorthair est aimé pour sa carrure trapue. Découvrez une routine en 3 étapes de régime et mode de vie pour prévenir l'obésité et la CMH génétique.",
-        "authority": "Normes de la GCCF pour le British Shorthair et directives sur l'obésité de l'AAFP",
+        "title": "Soins du poids du British Shorthair : Routine quotidienne en 3 étapes pour la prévention de la CMH et de l'obésité",
+        "description": "Le British Shorthair est aimé pour sa carrure trapue. Découvrez une routine quotidienne en 3 étapes pour prévenir l'obésité et la CMH génétique.",
+        "authority": "Normes de la GCCF pour le British Shorthair et Directives sur l'Obesité Féline de l'AAFP",
         "profile": {
-          "breed": "British Shorthair",
+          "breed": "British Shorthair (British Shorthair)",
           "lifespan": "12 ~ 15 ans",
           "sleep_pattern": "14 ~ 16 heures (préfère le sol frais et plat)",
           "temperament": "Calme, Indépendant, Fidèle, Patient"
         },
-        "intro": "Avec leur face ronde et leur corps musclé, les British Shorthair sont de doux géants. Cependant, leur squelette robuste fait que l'obésité pèse sur leurs articulations. Ils sont de plus sujets à la **Cardiomyopathie Hypertrophique (CMH)**, aggravée par le surpoids. Aujourd'hui, PetSelf propose une routine en 3 étapes.",
-        "whyTitle": "Langage corporel du British Shorthair : regard distant et mouvements de queue",
-        "whyDesc": "Les British Shorthairs n'aiment pas être contraints et montrent leur confiance par un **'regard doux'** à distance. En revanche, lorsqu'ils sont agacés, ils montrent des **'mouvements de queue'**. Le porter à ce moment créera du stress.",
+        "intro": "Avec leur large face ronde et leur corps musclé, les British Shorthair sont appelés les doux géants du monde félin, parfaits même pour les débutants grâce à leur caractère calme. Cependant, leur ossature lourde fait que le manque de contrôle du poids pèse lourdement sur leurs articulations. De plus, ils sont sujets à la **Cardiomyopathie Hypertrophique (CMH)**, une maladie où les parois du cœur s'épaississent. Aujourd'hui, PetSelf vous aide à décoder leur langage et vous propose une routine en 3 étapes pour préserver leur cœur et leur poids.",
+        "whyTitle": "Langage corporel du British Shorthair : Regard doux et mouvements de queue",
+        "whyDesc": "Les British Shorthairs n'aiment pas être contraints et expriment leur confiance par un **« regard doux » (Soft Staring)** à distance. Cela indique qu'ils préfèrent une relation autonome tout en se sentant en sécurité. En revanche, lorsqu'ils sont agacés, ils tapent le sol avec l'extrémité de leur queue **(Tail Swishing)**. Les porter à ce moment précis fera exploser leur niveau de stress.",
         "body_signals": [
           {
-            "name": "Regard doux",
-            "meaning": "Une expression d'amour mature et indépendante, indiquant qu'il est heureux et en sécurité de partager l'espace.",
-            "response": "Clignez lentement des yeux pour répondre. Ne vous approchez pas et ne le portez pas ; laissez-le tranquille."
+            "name": "Regard doux (Soft Staring)",
+            "meaning": "Une expression d'amour mature et indépendante, indiquant qu'il est heureux et en sécurité en partageant simplement la même pièce.",
+            "response": "Clignez lentement des yeux pour répondre. Ne vous approchez pas et ne le portez pas de force ; observez-le calmement."
           },
           {
-            "name": "Mouvements de queue",
-            "meaning": "Un signal d'avertissement indiquant qu'il est agacé ou touché trop fermement, demandant d'arrêter.",
-            "response": "Arrêtez immédiatement de le caresser et évitez tout contact pour le laisser se détendre."
+            "name": "Mouvements de queue (Tail Swishing)",
+            "meaning": "Un signal de refus indiquant que la pression des caresses l'incommode et demandant d'arrêter alors que le stress monte.",
+            "response": "Arrêtez immédiatement de le caresser et évitez tout contact physique pour laisser le chat se détendre."
           }
         ],
         "daily_routine": [
           {
-            "name": "Matin : Mesure stricte des portions avec une balance de cuisine",
-            "text": "Pour prévenir la cardiomyopathie hypertrophique (CMH) due à l'obésité, pesez les croquettes sur une balance."
+            "name": "Matin : Mesure stricte des rations avec une balance de précision",
+            "text": "Pour prévenir la cardiomyopathie hypertrophique (CMH) aggravée par l'obésité, pesez la nourriture sur une balance électronique selon les besoins caloriques quotidiens."
           },
           {
-            "name": "Après-midi : Brossage du sous-poil avec une brosse en caoutchouc",
-            "text": "Bien que de poil court, leur pelage est dense. Brossez 5 min avec une brosse en caoutchouc pour ramasser le poil mort."
+            "name": "Midi : Brossage du sous-poil avec une brosse en caoutchouc",
+            "text": "Bien que de poil court, leur pelage est très dense. Brossez pendant 5 minutes avec une brosse en caoutchouc spéciale pour retirer les poils morts sans irriter la peau."
           },
           {
             "name": "Soir : Mesure du rythme respiratoire pour la CMH et jeu calme",
-            "text": "Vérifiez que son rythme respiratoire au repos est inférieur à 30 mouvements par minute, et jouez calmement avec des balles en laine."
+            "text": "Vérifiez que son rythme respiratoire au repos est inférieur à 30 mouvements par minute pour surveiller son cœur, et jouez doucement en faisant rouler des balles en laine."
           }
         ],
         "faqs": [
           {
-            "question": "Pourquoi l'obésité est-elle plus nocive pour le British Shorthair ?",
-            "answer": "Le British Shorthair a une carrure lourde et est sujet à la CMH. L'obésité oblige le cœur à travailler plus, augmentant les risques d'insuffisance."
+            "question": "Pourquoi l'obésité est-elle plus nocive pour le British Shorthair que pour les autres chats ?",
+            "answer": "Le British Shorthair a une ossature lourde et présente un risque génétique élevé de Cardiomyopathie Hypertrophique (CMH). Le surpoids augmente le débit cardiaque et surcharge le muscle cardiaque, accroissant le risque de crise cardiaque."
           },
           {
-            "question": "Pourquoi les British Shorthairs détestent-ils être portés ?",
-            "answer": "Ils aiment leur indépendance et paniquent lorsque leurs pattes quittent le sol. Le porter de force peut détériorer le lien de confiance."
+            "question": "Pourquoi les British Shorthairs détestent-ils être portés dans les bras ?",
+            "answer": "Ils tiennent énormément à leur indépendance et paniquent lorsque leurs pattes ne touchent plus le sol. Les porter de force contre leur gré peut rompre le lien de confiance établi avec leur maître."
           }
         ],
         "tags": [
-          "British Shorthair",
-          "Prévention de CMH",
-          "Contrôle du Poids",
-          "Obésité"
+          "BritishShorthair",
+          "PréventionDeCMH",
+          "ContrôleDuPoids",
+          "PréventionObésité"
         ]
       },
       "de": {
-        "title": "British Shorthair Gewichtspflege: 3-Schritte-Routine zur HCM- und Adipositasprävention",
+        "title": "British Shorthair Gewichtspflege: Tägliche 3-Schritte-Routine zur HCM- und Adipositasprävention",
         "description": "British Shorthairs sind für ihren stämmigen Körperbau beliebt. Entdecken Sie eine 3-Schritte-Routine zur Vorbeugung von Übergewicht und genetischer HCM.",
-        "authority": "GCCF-British-Shorthair-Standards und AAFP-Adipositasrichtlinien",
+        "authority": "GCCF-British-Shorthair-Standards und AAFP-Richtlinien für Katzenadipositas",
         "profile": {
-          "breed": "British Shorthair",
+          "breed": "British Shorthair (British Shorthair)",
           "lifespan": "12 ~ 15 Jahre",
           "sleep_pattern": "14 ~ 16 Stunden (bevorzugt kühlen, flachen Boden)",
           "temperament": "Ruhig, Unabhängig, Loyal, Geduldig"
         },
-        "intro": "Mit ihren runden Gesichtern und dem muskulösen Bau sind British Shorthairs sanfte Riesen. Ihr stämmiger Körper führt jedoch dazu, dass Übergewicht Gelenkschäden verursacht. Sie sind zudem anfällig für **Hypertrophe Kardiomyopathie (HCM)**, die durch Übergewicht verschlimmert wird. Heute stellt PetSelf eine 3-Schritte-Routine vor.",
-        "whyTitle": "Körpersprache der British Shorthair: DistanzBlick und SchwanzZucken",
-        "whyDesc": "British Shorthairs mögen kein einengendes Halten und zeigen Vertrauen durch **'sanftes Anstarren'** aus der Ferne. Dagegen zeigt ein **'Schwanzzucken'** bei Ärger an. Das Halten in dieser Zeit löst Stress aus.",
+        "intro": "Mit ihren großen runden Gesichtern und dem muskulösen Bau sind British Shorthairs als sanfte Riesen der Katzenwelt bekannt und wegen ihres ruhigen Wesens auch für Anfänger ideal. Ihr stämmiger Knochenbau führt jedoch dazu, dass mangelnde Gewichtskontrolle die Gelenke stark belastet. Zudem sind sie genetisch anfällig für **Hypertrophe Kardiomyopathie (HCM)**, eine Herzerkrankung mit Verdickung der Herzwände. Heute stellt PetSelf eine 3-Schritte-Routine vor, um Herz und Gewicht sicher zu pflegen.",
+        "whyTitle": "Körpersprache der British Shorthair: Sanftes Anstarren und Schwanzzucken",
+        "whyDesc": "British Shorthairs mögen kein einengendes Halten und zeigen ihr Vertrauen durch **'sanftes Anstarren' (Soft Staring)** aus der Ferne. Dies signalisiert, dass sie eine eigenständige Beziehung bevorzugen, sich aber sicher fühlen. Dagegen zeigt das Klopfen der Schwanzspitze auf den Boden **(Tail Swishing)** Ärger an. Das Tragen in diesem Moment steigert den Stress drastisch.",
         "body_signals": [
           {
-            "name": "Sanftes Anstarren",
-            "meaning": "Ein reifer und unabhängiger Ausdruck von Liebe, der zeigt, dass sie sich allein durch das Teilen des Raums wohlfühlen.",
-            "response": "Blinzeln Sie langsam, um die Zuneigung zu erwidern. Nicht nähern oder hochheben; lassen Sie sie die Ruhe genießen."
+            "name": "Sanftes Anstarren (Soft Staring)",
+            "meaning": "Ein reifer Expression von Zuneigung, der zeigt, dass sie sich allein durch das Teilen des Raums glücklich und sicher fühlen.",
+            "response": "Blinzeln Sie langsam, um die Zuneigung zu erwidern. Nicht nähern oder hochheben; beobachten Sie die Katze einfach ruhig."
           },
           {
-            "name": "Schwanzzucken",
-            "meaning": "Ein Warnzeichen, das zeigt, dass sie verärgert oder zu grob berührt werden, mit der Bitte aufzuhören.",
-            "response": "Hören Sie sofort auf zu streicheln und vermeiden Sie weiteren Kontakt, damit sich die Katze beruhigen kann."
+            "name": "Schwanzzucken (Tail Swishing)",
+            "meaning": "Ein Ablehnungssignal, das zeigt, dass Streicheln oder Kontakt unangenehm wird und beendet werden soll.",
+            "response": "Hören Sie sofort auf zu streicheln und vermeiden Sie Körperkontakt, damit sich die Katze beruhigen kann."
           }
         ],
         "daily_routine": [
           {
-            "name": "Morgen: Strenge Messung der Futtermenge mit Küchenwaage",
-            "text": "Um einer durch Übergewicht bedingten HCM vorzubeugen, wiegen Sie das Futter auf einer Waage ab."
+            "name": "Morgen: Strenge Futterdosierung mit einer Präzisionsküchenwaage",
+            "text": "Um einer durch Übergewicht verstärkten HCM vorzubeugen, wiegen Sie das Futter auf einer elektronischen Waage exakt nach dem Tagesbedarf ab."
           },
           {
             "name": "Nachmittag: Unterfellpflege mit einer Gummi-Katzenbürste",
-            "text": "Obwohl sie kurzhaarig sind, haben sie dichtes Fell. Bürsten Sie 5 Minuten lang mit einer Gummibürste, um Haare zu entfernen."
+            "text": "Obwohl sie kurzhaarig sind, besitzen sie dichtes Fell. Bürsten Sie 5 Minuten lang mit einer Gummibürste, um lose Unterwolle ohne Hautreizung zu entfernen."
           },
           {
-            "name": "Abend: Atemfrequenzprüfung für HCM und ruhiges Spiel",
-            "text": "Prüfen Sie, ob die Atemfrequenz im Schlaf unter 30 Zügen pro Minute liegt, und spielen Sie leicht mit Wollbällen."
+            "name": "Abend: Atemfrequenzprüfung zur HCM-Prävention und ruhiges Spiel",
+            "text": "Prüfen Sie, ob die Atemfrequenz im Schlaf unter 30 Zügen pro Minute liegt, um die Herzgesundheit zu überwachen, und spielen Sie ruhig mit Wollbällen."
           }
         ],
         "faqs": [
           {
             "question": "Warum ist Übergewicht für British Shorthairs gefährlicher als für andere Katzen?",
-            "answer": "Sie haben einen schweren Körperbau und sind anfällig für HCM. Übergewicht belastet das Herz zusätzlich und erhöht das Risiko von Herzversagen."
+            "answer": "British Shorthairs haben einen schweren Körperbau und eine genetisch hohe Anfälligkeit für Hypertrophe Kardiomyopathie (HCM). Übergewicht steigert das Herzminutenvolumen und überlastet den Herzmuskel direkt, was das Risiko eines plötzlichen Herzversagens stark erhöht."
           },
           {
             "question": "Warum mögen British Shorthairs es nicht, hochgehoben zu werden?",
-            "answer": "Sie schätzen ihre Unabhängigkeit und fühlen sich unsicher, wenn ihre Pfoten den Boden verlieren. Erzwungenes Tragen kann die Bindung schädigen."
+            "answer": "Sie schätzen ihre Unabhängigkeit sehr und empfinden große Angst, wenn ihre Pfoten den Boden verlieren. Erzwungenes Tragen kann die Vertrauensbasis zum Halter beschädigen."
           }
         ],
         "tags": [
-          "British Shorthair",
-          "HCM-Prävention",
+          "BritishShorthair",
+          "HCMPraevention",
           "Gewichtskontrolle",
-          "Adipositas"
+          "AdipositasPraevention"
         ]
       },
       "pt": {
-        "title": "Cuidado do Peso do British Shorthair: Rotina de 3 passos para prevenção de HCM e obesidade",
-        "description": "Os British Shorthairs são amados por seu porte robusto. Descubra uma rotina de 3 passos de dieta e estilo de vida para evitar a obesidade e a HCM genética.",
-        "authority": "Padrões da GCCF para British Shorthairs e diretrizes de obesidade felina da AAFP",
+        "title": "Cuidado do Peso do British Shorthair: Rotina diária de 3 passos para prevenção de HCM e obesidade",
+        "description": "Os British Shorthairs são amados por seu porte robusto. Descubra uma rotina diária de 3 passos de dieta e estilo de vida para evitar a obesidade e a HCM genética.",
+        "authority": "Padrões da GCCF para British Shorthairs e Diretrizes de Obesidade Felina da AAFP",
         "profile": {
-          "breed": "British Shorthair",
+          "breed": "British Shorthair (British Shorthair)",
           "lifespan": "12 ~ 15 anos",
           "sleep_pattern": "14 ~ 16 horas (prefere o chão fresco e plano)",
           "temperament": "Calmo, Independente, Leal, Paciente"
         },
-        "intro": "Com suas faces redondas e porte musculoso, os British Shorthairs são gigantes gentis. No entanto, seu corpo robusto faz com que a obesidade sobrecarregue suas articulações. Além disso, são propensos a **Cardiomiopatia Hipertrófica (HCM)**, agravada pelo excesso de peso. Hoje, o PetSelf apresenta uma rotina de 3 passos de dieta e atividade.",
-        "whyTitle": "Linguagem corporal do British Shorthair: olhar distante e abanar de cauda",
-        "whyDesc": "Os British Shorthairs não gostam de contato físico restritivo e demonstram confiança através do **'olhar suave'** à distância. Por outro lado, quando incomodados, mostram **'abanar de cauda'** (bater a cauda no chão). Pegá-los no colo gerará estresse.",
+        "intro": "Com suas grandes faces redondas e porte musculoso, os British Shorthairs são conhecidos como os gigantes gentis do mundo felino, sendo ideais para tutores iniciantes devido ao seu temperamento calmo. No entanto, sua estrutura óssea pesada faz com que a falta de controle de peso sobrecarregue gravemente as articulações. Além disso, são propensos à **Cardiomiopatia Hipertrófica (HCM)**, doença em que as paredes do coração engrossam. Hoje, o PetSelf analisa sua linguagem corporal e ensina uma rotina de 3 passos para manter o coração e o peso saudáveis.",
+        "whyTitle": "Linguagem corporal do British Shorthair: Olhar suave e abanar de cauda",
+        "whyDesc": "Os British Shorthairs não gostam de contato físico restritivo e demonstram confiança através do **'olhar suave' (Soft Staring)** à distância. Isso indica que preferem uma relação independente, mas sentem-se seguros. Por outro lado, quando incomodados, mostram o **'abanar de cauda' (Tail Swishing)** batendo no chão. Pegá-los no colo nesse momento aumentará drasticamente o estresse.",
         "body_signals": [
           {
-            "name": "Olhar suave",
-            "meaning": "Uma expressão madura e independente de amor, indicando que se sentem felizes e seguros apenas por compartilhar o espaço.",
-            "response": "Pisque lentamente para retribuir o afeto. Não se aproxime ou pegue-os no colo; deixe-os aproveitar sua presença."
+            "name": "Olhar suave (Soft Staring)",
+            "meaning": "Uma expressão madura e independente de amor, indicando que se sentem felizes e seguros apenas por compartilhar o mesmo espaço.",
+            "response": "Pisque lentamente para retribuir o afeto. Não se aproxime nem os pegue no colo à força; apenas observe com calma."
           },
           {
-            "name": "Abanar de cauda",
-            "meaning": "Um sinal de alerta indicando que estão incomodados ou sendo tocados de forma bruta, pedindo que pare.",
-            "response": "Pare de acariciar imediatamente e evite contato físico para deixar o gato se acalmar sozinho."
+            "name": "Abanar de cauda (Tail Swishing)",
+            "meaning": "Um sinal de recusa indicando que a intensidade do carinho ou do contato está incomodando e pedindo para parar.",
+            "response": "Pare de afagar imediatamente e evite o contato físico para deixar o gato se acalmar sozinho."
           }
         ],
         "daily_routine": [
           {
-            "name": "Manhã: Controle rigoroso da dieta usando balança de cozinha",
-            "text": "Para evitar a cardiomiopatia hipertrófica (HCM) causada por obesidade, pese a comida em uma balança digital."
+            "name": "Manhã: Controle rigoroso da dieta usando balança de precisão",
+            "text": "Para evitar a cardiomiopatia hipertrófica (HCM) agravada pela obesidade, pese a comida em uma balança digital seguindo as calorias diárias exatas."
           },
           {
-            "name": "Tarde: Escovação de subpelo usando escova de borracha felina",
-            "text": "Embora de pelo curto, sua pelagem é densa. Escove por 5 minutos com escova de borracha felina para retirar pelos mortos."
+            "name": "Tarde: Escovação do subpelo usando escova de borracha felina",
+            "text": "Embora de pelo curto, sua pelagem é muito densa. Escove por 5 minutos com escova de borracha para remover pelos mortos sem irritar a pele."
           },
           {
             "name": "Noite: Monitoramento da frequência respiratória para HCM e brincadeira leve",
-            "text": "Verifique se a frequência respiratória ao dormir é inferior a 30 respirações por minuto e brinque de leve com bolinhas de lã."
+            "text": "Verifique se a frequência respiratória ao dormir é inferior a 30 respirações por minuto para monitorar o coração e brinque levemente rolando bolinhas de lã."
           }
         ],
         "faqs": [
           {
             "question": "Por que a obesidade é mais perigosa para o British Shorthair do que para outros gatos?",
-            "answer": "Eles têm porte robusto e são propensos a Cardiomiopatia Hipertrófica (HCM). A obesidade força o coração a trabalhar mais, elevando o risco cardíaco."
+            "answer": "Eles têm porte pesado e arredondado, com alta incidência genética de Cardiomiopatia Hipertrófica (HCM). A obesidade aumenta o débito cardíaco e sobrecarrega o miocárdio, elevando o risco de parada cardíaca repentina."
           },
           {
             "question": "Por que os British Shorthairs não gostam de ser pegos no colo?",
-            "answer": "Eles prezam pela independência e se sentem inseguros quando as patas perdem o contato com o chão. Colo forçado pode abalar o vínculo com o tutor."
+            "answer": "Eles valorizam muito sua independência e sentem grande ansiedade quando as patas perdem o contato com o chão. Pegá-los no colo contra a vontade pode prejudicar o vínculo de confiança."
           }
         ],
         "tags": [
-          "British Shorthair",
-          "Prevenção de HCM",
-          "Controle de Peso",
-          "Obesidade"
+          "BritishShorthair",
+          "PrevencaoDeHCM",
+          "ControleDePeso",
+          "PrevencaoDeObesidade"
         ]
       },
       "id": {
-        "title": "Perawatan Berat Badan British Shorthair: Rutinitas 3 Langkah untuk Pencegahan HCM dan Obesitas",
+        "title": "Perawatan Berat Badan British Shorthair: Rutinitas Harian 3 Langkah untuk Pencegahan HCM dan Obesitas",
         "description": "British Shorthair dicintai karena perawakannya yang kekar. Temukan rutinitas diet 3 langkah untuk mencegah obesitas dan risiko HCM genetik.",
-        "authority": "Standar Breed GCCF untuk British Shorthair & Pedoman Obesitas Feline AAFP",
+        "authority": "Standar Ras GCCF untuk British Shorthair & Pedoman Obesitas Feline AAFP",
         "profile": {
-          "breed": "British Shorthair",
+          "breed": "British Shorthair (British Shorthair)",
           "lifespan": "12 ~ 15 tahun",
           "sleep_pattern": "14 ~ 16 jam (menyukai lantai sejuk dan rata)",
           "temperament": "Tenang, Mandiri, Setia, Sabar"
         },
-        "intro": "Dengan wajah bulat dan tubuh berotot, British Shorthair adalah raksasa yang lembut. Namun, tubuh kekar mereka berarti obesitas memberi tekanan besar pada persendian. Mereka juga rentan terhadap **Kardiomiopati Hipertropik (HCM)**, yang diperburuk oleh kelebihan berat badan. Hari ini, PetSelf membagikan rutinitas 3 langkah.",
-        "whyTitle": "Bahasa Tubuh British Shorthair: Tatapan Jauh dan Kibasan Ekor",
-        "whyDesc": "British Shorthair tidak suka dipeluk secara paksa dan menunjukkan kepercayaan melalui **'tatapan lembut'** dari kejauhan. Sebaliknya, saat kesal, mereka menunjukkan **'kibasan ekor'**. Memeluk mereka saat ini akan memicu stres.",
+        "intro": "Dengan wajah bulat besar dan tubuh berotot, British Shorthair dikenal sebagai raksasa lembut di dunia kucing, sangat cocok bagi pemula karena sifatnya yang tenang. Namun, struktur tulang mereka yang berat membuat kegagalan manajemen berat badan memberi beban berat pada persendian. Selain itu, mereka secara genetik rentan terhadap **Kardiomiopati Hipertropik (HCM)**, yaitu menebalnya dinding jantung. Hari ini, PetSelf mengulas bahasa tubuh dan membagikan 3 langkah rutinitas harian untuk menjaga kesehatan jantung serta berat badan mereka.",
+        "whyTitle": "Bahasa Tubuh British Shorthair: Tatapan Lembut dan Sinyal Ekor",
+        "whyDesc": "British Shorthair tidak suka dipeluk secara paksa dan menunjukkan kepercayaan melalui **'tatapan lembut' (Soft Staring)** dari kejauhan. Ini menandakan mereka menyukai hubungan yang mandiri namun merasa aman. Sebaliknya, saat merasa terganggu, mereka menunjukkan **'kibasan ekor' (Tail Swishing)** ke lantai. Memeluk mereka saat ini akan meningkatkan tingkat stres mereka secara drastis.",
         "body_signals": [
           {
-            "name": "Tatapan Lembut",
-            "meaning": "Ungkapan kasih sayang yang mandiri dan matang, menunjukkan mereka merasa bahagia dan aman hanya dengan berbagi ruang.",
-            "response": "Berkedip perlahan untuk membalas kasih sayang. Jangan mendekat atau memeluk mereka; biarkan mereka tenang."
+            "name": "Tatapan Lembut (Soft Staring)",
+            "meaning": "Ungkapan kasih sayang yang mandiri dan dewasa, menunjukkan mereka merasa bahagia dan aman hanya dengan berada di ruangan yang sama.",
+            "response": "Berkedip perlahan untuk membalas kasih sayang. Jangan mendekat atau memeluk paksa; cukup perhatikan dari kejauhan."
           },
           {
-            "name": "Kibasan Ekor",
-            "meaning": "Tanda peringatan yang menunjukkan bahwa mereka kesal atau disentuh terlalu kasar, meminta Anda berhenti.",
-            "response": "Segera hentikan membelai dan hindari kontak lebih lanjut agar kucing dapat rileks sendiri."
+            "name": "Kibasan Ekor (Tail Swishing)",
+            "meaning": "Sinyal penolakan yang menunjukkan bahwa belaian atau kontak fisik mulai mengganggu dan meminta Anda berhenti seiring meningkatnya stres.",
+            "response": "Segera hentikan belaian dan hindari kontak fisik agar kucing dapat rileks kembali."
           }
         ],
         "daily_routine": [
           {
-            "name": "Pagi: Pengukuran Diet Ketat menggunakan Timbangan Dapur",
-            "text": "Untuk mencegah kardiomiopati hipertrofik (HCM) akibat obesitas, timbang makanan mereka pada timbangan digital."
+            "name": "Pagi: Pengukuran Diet Ketat Menggunakan Timbangan Presisi",
+            "text": "Untuk mencegah kardiomiopati hipertrofik (HCM) yang diperburuk oleh obesitas, timbang pakan pada timbangan digital sesuai kebutuhan kalori harian."
           },
           {
-            "name": "Siang: Menyikat Bulu dengan Sikat Karet Khusus Kucing",
-            "text": "Meskipun berbulu pendek, mereka memiliki bulu yang lebat. Sikat selama 5 menit dengan sikat karet khusus kucing."
+            "name": "Siang: Menyikat Bulu Halus dengan Sikat Karet Khusus",
+            "text": "Meskipun berbulu pendek, mereka memiliki bulu yang sangat lebat. Sikat selama 5 menit dengan sikat karet khusus kucing untuk mengangkat bulu mati tanpa mengiritasi kulit."
           },
           {
-            "name": "Malam: Pemeriksaan Laju Pernapasan untuk HCM dan Bermain Santai",
-            "text": "Periksa laju pernapasan saat tidur (harus di bawah 30 napas per menit) untuk memantau jantung, dan bermain dengan bola wol."
+            "name": "Malam: Pemeriksaan Laju Pernapasan Pencegahan HCM dan Bermain Santai",
+            "text": "Periksa laju pernapasan saat tidur (harus di bawah 30 napas per menit) untuk memantau kondisi jantung, dan ajak bermain santai menggelindingkan bola wol."
           }
         ],
         "faqs": [
           {
-            "question": "Mengapa obesitas lebih berbahaya bagi British Shorthair daripada kucing lain?",
-            "answer": "Mereka memiliki tubuh kekar dan rentan terhadap HCM. Obesitas memaksa jantung bekerja lebih keras, meningkatkan risiko gagal jantung."
+            "question": "Mengapa obesitas lebih berbahaya bagi British Shorthair dibanding kucing lain?",
+            "answer": "British Shorthair memiliki tubuh besar dan bulat serta risiko tinggi Kardiomiopati Hipertropik (HCM) secara genetik. Kelebihan berat badan meningkatkan beban kerja jantung secara langsung, memicu risiko gagal jantung mendadak."
           },
           {
             "question": "Mengapa British Shorthair tidak suka dipeluk atau diangkat?",
-            "answer": "Mereka menghargai kemandirian dan merasa tidak aman saat cakar mereka kehilangan kontak dengan tanah. Pelukan paksa dapat merusak ikatan."
+            "answer": "Mereka sangat menghargai kemandirian dan merasa cemas saat cakar mereka kehilangan kontak dengan lantai. Memeluk secara paksa dapat merusak ikatan kepercayaan dengan pemilik."
           }
         ],
         "tags": [
-          "British Shorthair",
-          "Pencegahan HCM",
-          "Kontrol Berat Badan",
-          "Obesitas"
+          "BritishShorthair",
+          "PencegahanHCM",
+          "KontrolBeratBadan",
+          "PencegahanObesitas"
         ]
       },
       "ko": {

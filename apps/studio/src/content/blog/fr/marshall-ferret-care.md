@@ -1,36 +1,36 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "Danse de guerre du furet de Marshall et routine d'exploration en 3 étapes"
+title: "Danse de guerre du furet de Marshall et routine d'exploration quotidienne en 3 étapes"
 description: "Soin du furet de Marshall enjoué. Apprenez à répondre à sa danse de guerre et maintenez sa curiosité active et son hygiène auriculaire avec notre guide quotidien en 3 étapes."
 pubDate: "2026-05-06"
 updatedDate: "2026-05-06"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Furet de Marshall (Marshall Ferret)"]
+tags: ["SoinAnimaux","SanteAnimaux","Furet de Marshall (Mustela putorius furo / Marshall Ferret)"]
 heroImage: "/images/blog/marshall_ferret_care.png"
 app: "petself"
 formatVersion: 4
-authority: "Normes de l'American Ferret Association et Directives Vétérinaires pour Animaux Exotiques"
+authority: "Normes de l'American Ferret Association et Directives Vétérinaires de Médecine Comportementale pour Animaux Exotiques"
 steps:
-  - name: "Communication du furet de Marshall : la danse de guerre et le dooking"
-    text: "Les furets de Marshall expriment leur joie en gonflant leur queue, en arquant leur dos et en bondissant de côté, un comportement connu sous le nom de 'Danse de guerre du furet (Weasel War Dance)'. Ils émettent également un léger caquetage appelé 'Dooking' lorsqu'ils explorent avec enthousiasme. Comprendre ces signaux aide à maximiser leur expérience de jeu."
-  - name: "Furet de Marshall (Marshall Ferret)'s Body Language & Signals"
-    text: "* Danse de guerre du furet (Weasel War Dance): Une expression spectaculaire mais inoffensive d'excitation pure, indiquant qu'ils veulent jouer. (Fournissez une zone spacieuse et antidérapante exempte de bords durs pour éviter les blessures lors de leurs sauts chaotiques.)
+  - name: "Communication du furet de Marshall : La danse de guerre et le dooking"
+    text: "Les furets de Marshall expriment leur joie en gonflant leur queue, en arquant leur dos et en bondissant de côté, un comportement connu sous le nom de « Danse de guerre du furet » (Weasel War Dance). Ils émettent également un léger caquetage appelé « Dooking » lorsqu'ils explorent avec enthousiasme. Comprendre ces signaux aide à maximiser leur expérience de jeu."
+  - name: "Furet de Marshall (Mustela putorius furo / Marshall Ferret)'s Body Language & Signals"
+    text: "* Danse de guerre du furet (Weasel War Dance): Une expression spectaculaire mais inoffensive d'excitation pure, indiquant qu'ils veulent jouer sans retenue. (Fournissez une zone spacieuse et antidérapante exempte de bords durs pour éviter les blessures lors de leurs sauts chaotiques.)
 
 * Dooking (Gloussements bas): Une expression émotionnelle de joie et d'intérêt intense lors de la rencontre d'une nouvelle odeur ou d'un tunnel. (Installez des tunnels bruyants ou des boîtes en carton pour stimuler leurs instincts naturels de creusement.)"
   - name: "Customized 3-Step Home Care Routine"
-    text: "* STEP 1. Matin : Régime carnivore riche en protéines et recharge d'eau: Les furets ont un tube digestif court. Remplissez des croquettes à base de viande, sans céréales, et vérifiez leur bouteille d'eau.
+    text: "* STEP 1. Matin : Régime carnivore riche en protéines et recharge d'eau: Les furets ont un tube digestif court et mangent fréquemment. Remplissez des croquettes à base de viande, sans céréales, et vérifiez leur bouteille d'eau.
 
 * STEP 2. Après-midi : Temps de jeu sécurisé hors de la cage pendant au moins 4 heures: Évitez la dépression en les libérant dans la pièce. Assurez-vous que tous les petits espaces sous les meubles sont scellés.
 
 * STEP 3. Soir : Nettoyage des hamacs suspendus et inspection de la santé auriculaire: Les furets ne peuvent pas transpirer. Lavez leurs hamacs en polaire et vérifiez leurs oreilles pour détecter des sécrétions sombres d'acariens."
 faqs:
-  - question: "Pourquoi mon furet dort-il si profondément qu'il ne se réveille pas ?"
-    answer: "C'est ce qu'on appelle le 'Sommeil de plomb du furet (Ferret Dead Sleep)'. Ils dorment si profondément qu'ils paraissent flasques. Si leur corps est chaud et que leur respiration est régulière, laissez-les dormir ; c'est un comportement normal."
+  - question: "Pourquoi mon furet dort-il si profondément qu'il ne se réveille pas même secoué ?"
+    answer: "C'est ce qu'on appelle le 'Sommeil de plomb du furet' (Ferret Dead Sleep). Ils dorment si profondément qu'ils paraissent complètement flasques. Si leur corps est chaud et que leur respiration est régulière, laissez-les dormir ; c'est un comportement normal."
   - question: "Comment contrôler l'odeur musquée naturelle du furet ?"
     answer: "Les furets sécrètent du musc par des glandes cutanées. Des bains fréquents dessèchent leur peau, ce qui provoque une production accrue de sébum et aggrave l'odeur. Limitez le bain à une fois par mois et lavez leur literie chaque semaine."
 ---
 
-Avec un corps long et flexible et des yeux pétillants, le furet de Marshall est un compagnon très social qui interagit étroitement avec les humains. Ils ont besoin de temps de jeu quotidien hors de la jaquette pour satisfaire leur curiosité et prévenir l'ennui. Des contrôles réguliers des oreilles sont également essentiels pour éviter les acariens. Aujourd'hui sur PetSelf, nous couvrons la danse de guerre du furet, les bruits de dooking et une routine en 3 étapes pour leurs aventures quotidiennes sécurisées.
+Avec un corps long et flexible et des yeux pétillants, le furet de Marshall est un compagnon carnivore très social qui interagit étroitement avec les humains. Ils ont besoin de temps de jeu quotidien hors de la cage pour dépenser leur énergie, satisfaire leur curiosité et prévenir l'ennui. Des contrôles réguliers des oreilles sont également essentiels pour éviter les acariens. Lorsqu'ils sont euphoriques, ils exécutent une danse désordonnée en bondissant de côté. Aujourd'hui sur PetSelf, nous couvrons la danse de guerre du furet, les bruits de dooking et une routine en 3 étapes pour leurs aventures quotidiennes sécurisées.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -39,28 +39,28 @@ Avec un corps long et flexible et des yeux pétillants, le furet de Marshall est
       Preuves Vétérinaires et Comportementales
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Ce contenu est basé sur <strong>Normes de l'American Ferret Association et Directives Vétérinaires pour Animaux Exotiques</strong>.
+      Ce contenu est basé sur <strong>Normes de l'American Ferret Association et Directives Vétérinaires de Médecine Comportementale pour Animaux Exotiques</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 1. Communication du furet de Marshall : la danse de guerre et le dooking
+## 1. Communication du furet de Marshall : La danse de guerre et le dooking
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Communication du furet de Marshall : la danse de guerre et le dooking</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Communication du furet de Marshall : La danse de guerre et le dooking</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Les furets de Marshall expriment leur joie en gonflant leur queue, en arquant leur dos et en bondissant de côté, un comportement connu sous le nom de 'Danse de guerre du furet (Weasel War Dance)'. Ils émettent également un léger caquetage appelé 'Dooking' lorsqu'ils explorent avec enthousiasme. Comprendre ces signaux aide à maximiser leur expérience de jeu.
+    Les furets de Marshall expriment leur joie en gonflant leur queue, en arquant leur dos et en bondissant de côté, un comportement connu sous le nom de « Danse de guerre du furet » (Weasel War Dance). Ils émettent également un léger caquetage appelé « Dooking » lorsqu'ils explorent avec enthousiasme. Comprendre ces signaux aide à maximiser leur expérience de jeu.
   </p>
 </div>
 
 ---
 
-## 2. Furet de Marshall (Marshall Ferret)'s Body Language & Signals
+## 2. Furet de Marshall (Mustela putorius furo / Marshall Ferret)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -68,7 +68,7 @@ Avec un corps long et flexible et des yeux pétillants, le furet de Marshall est
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Danse de guerre du furet (Weasel War Dance)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Signification:</strong> Une expression spectaculaire mais inoffensive d'excitation pure, indiquant qu'ils veulent jouer.<br/>
+    <strong>• Signification:</strong> Une expression spectaculaire mais inoffensive d'excitation pure, indiquant qu'ils veulent jouer sans retenue.<br/>
     <strong>• Reponse:</strong> Fournissez une zone spacieuse et antidérapante exempte de bords durs pour éviter les blessures lors de leurs sauts chaotiques.
   </p>
 </div>
@@ -94,7 +94,7 @@ Avec un corps long et flexible et des yeux pétillants, le furet de Marshall est
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Matin : Régime carnivore riche en protéines et recharge d'eau</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Les furets ont un tube digestif court. Remplissez des croquettes à base de viande, sans céréales, et vérifiez leur bouteille d'eau.
+    Les furets ont un tube digestif court et mangent fréquemment. Remplissez des croquettes à base de viande, sans céréales, et vérifiez leur bouteille d'eau.
   </p>
 </div>
 
@@ -129,11 +129,11 @@ Avec un corps long et flexible et des yeux pétillants, le furet de Marshall est
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Pourquoi mon furet dort-il si profondément qu'il ne se réveille pas ?</span>
+      <span>Pourquoi mon furet dort-il si profondément qu'il ne se réveille pas même secoué ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      C'est ce qu'on appelle le 'Sommeil de plomb du furet (Ferret Dead Sleep)'. Ils dorment si profondément qu'ils paraissent flasques. Si leur corps est chaud et que leur respiration est régulière, laissez-les dormir ; c'est un comportement normal.
+      C'est ce qu'on appelle le 'Sommeil de plomb du furet' (Ferret Dead Sleep). Ils dorment si profondément qu'ils paraissent complètement flasques. Si leur corps est chaud et que leur respiration est régulière, laissez-les dormir ; c'est un comportement normal.
     </p>
   </details>
 

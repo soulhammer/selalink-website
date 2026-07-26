@@ -1,19 +1,19 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "Brain Play and Ear Care: A 3-Step Routine for the Intelligent Poodle"
-description: "Discover how to relieve boredom in highly intelligent Poodles with brain games and prevent genetically vulnerable ear infections using a 3-step routine."
+title: "Brain Play and Ear Care: A 3-Step Daily Routine for the Intelligent Poodle"
+description: "Discover how to relieve boredom in highly intelligent Poodles with brain games and prevent genetically vulnerable ear infections using a 3-step daily routine."
 pubDate: "2026-01-26"
 updatedDate: "2026-01-26"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Poodle"]
+tags: ["PetCare","PetHealth","Poodle (Canis lupus familiaris)"]
 heroImage: "/images/blog/poodle_care.png"
 app: "petself"
 formatVersion: 4
 authority: "Official American Kennel Club (AKC) Breed Guide & IAABC Behavioral Protocols"
 steps:
   - name: "Poodle Body Language: Distinguishing Demand from Stress"
-    text: "Because of their intelligence, Poodles actively communicate using body language. Typical signals include 'paw raising' and 'blinking'. When a Poodle raises a front paw, it looks like a request for a trick, but it is often a message saying 'give me attention' or a calming signal meaning 'I'm slightly tense, please be gentle.' Staring softly and blinking slowly is their way of showing trust and affection, assuring you that they have no hostile intentions."
-  - name: "Poodle's Body Language & Signals"
+    text: "Because of their intelligence, Poodles actively communicate using body language. Typical signals include 'Paw Raising' and 'Soft Blinking'. When a Poodle raises a front paw, it looks like a request for a trick, but it is often a message saying 'give me attention' or a calming signal meaning 'I'm slightly tense, please be gentle.' Staring softly and blinking slowly is their way of showing trust and affection, assuring you that they have no hostile intentions."
+  - name: "Poodle (Canis lupus familiaris)'s Body Language & Signals"
     text: "* Paw Raising: An expression seeking attention or attempting to soothe minor tension or anxiety. (If noticed, avoid giving forceful commands. Speak in a calm tone and pet them gently.)
 
 * Soft Blinking: A sign of deep trust and affection, confirming they feel safe and friendly with you. (When you lock eyes, blink back slowly to share and reinforce that sense of peace.)"
@@ -54,13 +54,13 @@ Poodles are widely recognized as one of the most intelligent dog breeds in the w
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Poodle Body Language: Distinguishing Demand from Stress</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Because of their intelligence, Poodles actively communicate using body language. Typical signals include 'paw raising' and 'blinking'. When a Poodle raises a front paw, it looks like a request for a trick, but it is often a message saying 'give me attention' or a calming signal meaning 'I'm slightly tense, please be gentle.' Staring softly and blinking slowly is their way of showing trust and affection, assuring you that they have no hostile intentions.
+    Because of their intelligence, Poodles actively communicate using body language. Typical signals include 'Paw Raising' and 'Soft Blinking'. When a Poodle raises a front paw, it looks like a request for a trick, but it is often a message saying 'give me attention' or a calming signal meaning 'I'm slightly tense, please be gentle.' Staring softly and blinking slowly is their way of showing trust and affection, assuring you that they have no hostile intentions.
   </p>
 </div>
 
 ---
 
-## 2. Poodle's Body Language & Signals
+## 2. Poodle (Canis lupus familiaris)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

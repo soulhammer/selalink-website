@@ -5,15 +5,15 @@ description: "Pflegeanleitung für Leopardgeckos. Schwanzbewegungen verstehen, F
 pubDate: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Leopardgecko (Leopard Gecko)"]
+tags: ["Haustierpflege","Haustiergesundheit","Leopardgecko (Eublepharis macularius / Leopard Gecko)"]
 heroImage: "/images/blog/leopard_gecko_care.png"
 app: "petself"
 formatVersion: 4
-authority: "Association of Reptilian and Amphibian Veterinarians (ARAV)"
+authority: "Association of Reptilian and Amphibian Veterinarians (ARAV) & Klinische Standards"
 steps:
   - name: "Körpersprache: Schwanzwedeln & Häutungssignale Verstehen"
     text: "Der dicke Schwanz dient als Fett-Speicher und Kommunikationsmittel. Unterscheiden Sie langsames Abwehr-Wedeln von freudigem Wackeln bei der Jagd."
-  - name: "Leopardgecko (Leopard Gecko)'s Body Language & Signals"
+  - name: "Leopardgecko (Eublepharis macularius / Leopard Gecko)'s Body Language & Signals"
     text: "* Langsames S-förmiges Schwanzwedeln (Slow Tail Waving): Starke Abwehrreaktion bei Bedrohung oder Schreck vor Fressfeinden. (Handhabung sofort stoppen, Hand langsam zurückziehen und den Gecko in Ruhe lassen.)
 
 * Matte, weißliche Haut & Augenreiben (Pre-Shedding Signal): Bevorstehende Häutung; alte Hautschichten lösen sich und brauchen hohe Feuchtigkeit. (Feuchthöhle gründlich mit warmem Wasser einsprühen, um über 70% Luftfeuchtigkeit zu erreichen.)"
@@ -30,7 +30,7 @@ faqs:
     answer: "Der Schwanz speichert Fettreserven. Rascher Gewichtsverlust deutet auf Anorexie, Stress oder Parasitenbefall hin und erfordert einen Tierarztbesuch."
 ---
 
-Der Leopardgecko ist das beliebteste Heimreptil. Gemäß ARAV-Richtlinien sind ein klares Temperaturgefälle (Warmzone 30°C ~ 32°C / Kaltzone 24°C ~ 26°C) und eine feuchte Häutungshöhle (Wet Cave) lebenswichtig für diese wechselwarmen Tiere. Die Bereitstellung einer konsistenten täglichen Gesundheitspflege und einer sicheren Umgebung sichert das Wohlbefinden Ihres Haustieres.
+Der Leopardgecko ist das beliebteste Heimreptil. Gemäß ARAV-Richtlinien sind ein klares Temperaturgefälle (Warmzone 30°C ~ 32°C / Kaltzone 24°C ~ 26°C) und eine feuchte Häutungshöhle (Wet Cave) lebenswichtig für diese wechselwarmen Tiere.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -39,7 +39,7 @@ Der Leopardgecko ist das beliebteste Heimreptil. Gemäß ARAV-Richtlinien sind e
       Veterinärmedizinische & verhaltensbedingte Nachweise
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Dieser Inhalt basiert auf <strong>Association of Reptilian and Amphibian Veterinarians (ARAV)</strong>.
+      Dieser Inhalt basiert auf <strong>Association of Reptilian and Amphibian Veterinarians (ARAV) & Klinische Standards</strong>.
     </p>
   </div>
 </div>
@@ -60,7 +60,7 @@ Der Leopardgecko ist das beliebteste Heimreptil. Gemäß ARAV-Richtlinien sind e
 
 ---
 
-## 2. Leopardgecko (Leopard Gecko)'s Body Language & Signals
+## 2. Leopardgecko (Eublepharis macularius / Leopard Gecko)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

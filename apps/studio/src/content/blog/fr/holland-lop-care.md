@@ -5,32 +5,32 @@ description: "Guide complet pour le lapin Holland Lop. Prévenez les otites, dé
 pubDate: "2026-07-15"
 updatedDate: "2026-07-15"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Holland Lop (Lapin Bélier)"]
+tags: ["SoinAnimaux","SanteAnimaux","Holland Lop / Lapin Bélier (Oryctolagus cuniculus)"]
 heroImage: "/images/blog/holland_lop_care.png"
 app: "petself"
 formatVersion: 4
-authority: "House Rabbit Society (HRS) & AEMV Normes NAC"
+authority: "House Rabbit Society (HRS) et Normes Vétérinaires NAC AEMV"
 steps:
   - name: "Communication du Holland Lop: Danse Binky et Taper du Pied"
-    text: "Le 'Binky' (saut vrillé dans les airs) est l'expression ultime du bonheur. Taper fort du pied arrière indique la peur ou le mécontentement."
-  - name: "Holland Lop (Lapin Bélier)'s Body Language & Signals"
-    text: "* Saut Vrillé dans les Airs (Binky Dance): Signe de pure joie, de grande forme et de sécurité absolue dans son habitat. (Offrez un espace sécurisé avec tapis antidérapant.)
+    text: "Le lapin s'exprime par le corps plutôt que par la voix. Le « Binky » (saut vrillé dans les airs) est l'expression ultime du bonheur. Taper fort du pied arrière (Thumping) indique la peur, une alerte ou un profond mécontentement."
+  - name: "Holland Lop / Lapin Bélier (Oryctolagus cuniculus)'s Body Language & Signals"
+    text: "* Saut Vrillé dans les Airs (Binky Dance): Signe de pure joie, de grande forme et de sécurité absolue dans son habitat et avec son soigneur. (Offrez un espace sécurisé avec tapis antidérapant pour qu'il puisse courir sans glisser.)
 
-* Tape du Pied Arrière (Thumping): Avertissement de danger face à un bruit suspect ou un mécontentement. (Identifiez la cause et rassurez-le d'une voix douce.)"
+* Tape du Pied Arrière (Thumping): Avertissement de danger face à un bruit suspect, une odeur inconnue ou une frustration. (Identifiez la cause dans l'environnement et rassurez-le d'une voix douce et grave.)"
   - name: "Customized 3-Step Home Care Routine"
-    text: "* STEP 1. Matin: Foin de Fléole à Volonté & Eau Fraîche: Remplissez le râtelier de foin de fléole frais de 1ère coupe pour stimuler le transit.
+    text: "* STEP 1. Matin: Foin de Fléole à Volonté & Eau Fraîche: Remplissez le râtelier de foin de fléole frais de 1ère coupe pour stimuler le transit et l'usure dentaire.
 
-* STEP 2. Après-midi: Inspection des Oreilles Tombantes & Repos: Soulevez délicatement les oreilles pour vérifier l'absence d'inflammation.
+* STEP 2. Après-midi: Inspection des Oreilles Tombantes & Repos: Soulevez délicatement les oreilles pour vérifier l'absence d'inflammation ou de cérumen, et assurez un repos calme.
 
-* STEP 3. Soir: Exercice dans les Tunnels & Brossage: Laissez-le courir dans un parc sécurisé et brossez-le pour éviter l'ingestion de poils."
+* STEP 3. Soir: Exercice dans les Tunnels & Brossage Anti-Grooming: Laissez-le courir dans un parc sécurisé et brossez-le pour éviter l'ingestion de poils et les trichobézoards."
 faqs:
   - question: "Que faire si mon lapin ne mange plus et ne fait plus de crottes ?"
-    answer: "C'est une stase gastro-intestinale (GI Stasis), une urgence vitale en 12h. Consultez immédiatement un vétérinaire NAC."
+    answer: "C'est une stase gastro-intestinale (GI Stasis), une urgence vitale en moins de 12h. Ne le forcez pas à manger et consultez immédiatement un vétérinaire spécialisé NAC."
   - question: "Est-il normal qu'il secoue la tête et se gratte souvent les oreilles ?"
-    answer: "Non, ses oreilles tombantes retiennent l'humidité et favorisent les otites et gale d'oreille. Consultez un vétérinaire NAC."
+    answer: "Non, ses oreilles tombantes retiennent l'humidité et favorisent les otites et la gale d'oreille. En cas de cérumen noir ou de grattage, consultez un vétérinaire NAC."
 ---
 
-Le Holland Lop est un lapin très populaire reconnaissable à sa tête ronde et ses oreilles tombantes. Suivant la House Rabbit Society (HRS), inspectez régulièrement ses oreilles pour éviter l'otite et fournissez du foin de fléole à volonté 24/7 contre la stase digestive mortelle.
+Le Holland Lop est un lapin très populaire reconnaissable à sa tête ronde et ses oreilles tombantes. Suivant la House Rabbit Society (HRS) et l'AEMV, inspectez régulièrement ses oreilles pour éviter l'otite et fournissez du foin de fléole à volonté 24/7 contre la stase digestive mortelle.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -39,7 +39,7 @@ Le Holland Lop est un lapin très populaire reconnaissable à sa tête ronde et 
       Preuves Vétérinaires et Comportementales
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Ce contenu est basé sur <strong>House Rabbit Society (HRS) & AEMV Normes NAC</strong>.
+      Ce contenu est basé sur <strong>House Rabbit Society (HRS) et Normes Vétérinaires NAC AEMV</strong>.
     </p>
   </div>
 </div>
@@ -54,13 +54,13 @@ Le Holland Lop est un lapin très populaire reconnaissable à sa tête ronde et 
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Communication du Holland Lop: Danse Binky et Taper du Pied</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Le 'Binky' (saut vrillé dans les airs) est l'expression ultime du bonheur. Taper fort du pied arrière indique la peur ou le mécontentement.
+    Le lapin s'exprime par le corps plutôt que par la voix. Le « Binky » (saut vrillé dans les airs) est l'expression ultime du bonheur. Taper fort du pied arrière (Thumping) indique la peur, une alerte ou un profond mécontentement.
   </p>
 </div>
 
 ---
 
-## 2. Holland Lop (Lapin Bélier)'s Body Language & Signals
+## 2. Holland Lop / Lapin Bélier (Oryctolagus cuniculus)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -68,8 +68,8 @@ Le Holland Lop est un lapin très populaire reconnaissable à sa tête ronde et 
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Saut Vrillé dans les Airs (Binky Dance)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Signification:</strong> Signe de pure joie, de grande forme et de sécurité absolue dans son habitat.<br/>
-    <strong>• Reponse:</strong> Offrez un espace sécurisé avec tapis antidérapant.
+    <strong>• Signification:</strong> Signe de pure joie, de grande forme et de sécurité absolue dans son habitat et avec son soigneur.<br/>
+    <strong>• Reponse:</strong> Offrez un espace sécurisé avec tapis antidérapant pour qu'il puisse courir sans glisser.
   </p>
 </div>
 
@@ -79,8 +79,8 @@ Le Holland Lop est un lapin très populaire reconnaissable à sa tête ronde et 
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tape du Pied Arrière (Thumping)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Signification:</strong> Avertissement de danger face à un bruit suspect ou un mécontentement.<br/>
-    <strong>• Reponse:</strong> Identifiez la cause et rassurez-le d'une voix douce.
+    <strong>• Signification:</strong> Avertissement de danger face à un bruit suspect, une odeur inconnue ou une frustration.<br/>
+    <strong>• Reponse:</strong> Identifiez la cause dans l'environnement et rassurez-le d'une voix douce et grave.
   </p>
 </div>
 
@@ -94,7 +94,7 @@ Le Holland Lop est un lapin très populaire reconnaissable à sa tête ronde et 
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Matin: Foin de Fléole à Volonté & Eau Fraîche</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Remplissez le râtelier de foin de fléole frais de 1ère coupe pour stimuler le transit.
+    Remplissez le râtelier de foin de fléole frais de 1ère coupe pour stimuler le transit et l'usure dentaire.
   </p>
 </div>
 
@@ -104,17 +104,17 @@ Le Holland Lop est un lapin très populaire reconnaissable à sa tête ronde et 
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Après-midi: Inspection des Oreilles Tombantes & Repos</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Soulevez délicatement les oreilles pour vérifier l'absence d'inflammation.
+    Soulevez délicatement les oreilles pour vérifier l'absence d'inflammation ou de cérumen, et assurez un repos calme.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Soir: Exercice dans les Tunnels & Brossage</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Soir: Exercice dans les Tunnels & Brossage Anti-Grooming</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Laissez-le courir dans un parc sécurisé et brossez-le pour éviter l'ingestion de poils.
+    Laissez-le courir dans un parc sécurisé et brossez-le pour éviter l'ingestion de poils et les trichobézoards.
   </p>
 </div>
 
@@ -133,7 +133,7 @@ Le Holland Lop est un lapin très populaire reconnaissable à sa tête ronde et 
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      C'est une stase gastro-intestinale (GI Stasis), une urgence vitale en 12h. Consultez immédiatement un vétérinaire NAC.
+      C'est une stase gastro-intestinale (GI Stasis), une urgence vitale en moins de 12h. Ne le forcez pas à manger et consultez immédiatement un vétérinaire spécialisé NAC.
     </p>
   </details>
 
@@ -143,7 +143,7 @@ Le Holland Lop est un lapin très populaire reconnaissable à sa tête ronde et 
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Non, ses oreilles tombantes retiennent l'humidité et favorisent les otites et gale d'oreille. Consultez un vétérinaire NAC.
+      Non, ses oreilles tombantes retiennent l'humidité et favorisent les otites et la gale d'oreille. En cas de cérumen noir ou de grattage, consultez un vétérinaire NAC.
     </p>
   </details>
 </div>

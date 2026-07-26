@@ -5,7 +5,7 @@ description: "보호자에게는 충직하지만 낯선 이에게는 경계심�
 pubDate: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","진돗개 (Jindo Dog)"]
+tags: ["반려동물","펫케어","진돗개 (Canis lupus familiaris)"]
 heroImage: "/images/blog/jindo_care.png"
 app: "petself"
 formatVersion: 4
@@ -13,11 +13,11 @@ authority: "국립축산과학원 진돗개 표준 관리 지침 및 KKC 행동 
 steps:
   - name: "진돗개의 바디 랭귀지: 충성심과 경계의 시그널"
     text: "진돗개는 감정 표현이 묵직하며, 꼬리와 귀의 각도를 통해 명확한 의사를 전달합니다. 특히 꼬리를 꼿꼿이 세우고 귀를 전방으로 쫑긋하는 것은 경계와 집중을 나타내며, 이때 낯선 이가 갑자기 다가오면 방어적 공격성이 유발될 수 있습니다. 반면 꼬리를 낮추고 천천히 흔들며 귀를 옆으로 눕히는 행동은 보호자에 대한 순종과 편안함을 의미합니다."
-  - name: "진돗개 (Jindo Dog)의 몸짓 언어와 바디 시그널"
+  - name: "진돗개 (Canis lupus familiaris)의 몸짓 언어와 바디 시그널"
     text: "* 꼬리를 세우고 귀를 전방으로 모음: 낯선 대상에 경계와 집중을 하고 있으며 긴장감이 고조된 상태입니다. (갑작스러운 접촉을 피하고, 낯선 사람에게는 만지지 말아 달라고 요청한 뒤 보호자가 차분히 진정시켜야 합니다.)
 
 * 꼬리를 낮추고 귀를 눕히며 접근: 보호자에 대한 깊은 복종과 신뢰를 뜻하며 애정을 호소하는 것입니다. (부드럽게 쓰다듬어 주며 긍정적인 관계를 지속적으로 강화합니다.)"
-  - name: "진돗개 (Jindo Dog) 맞춤형 3단계 홈케어 루틴"
+  - name: "진돗개 (Canis lupus familiaris) 맞춤형 3단계 홈케어 루틴"
     text: "* STEP 1. 아침: 평화로운 냄새 맡기(노즈워크) 중심의 사회화 산책: 낯선 자극에 무뎌질 수 있도록 자극이 적은 아침 시간에 산책하며 다양한 냄새를 충분히 맡게 해줍니다.
 
 * STEP 2. 오후: 빗질을 통한 이중모 죽은 털 제거와 모질 관리: 슬리커 브러시와 일자 빗을 사용하여 피부 속 빽빽한 속털과 죽은 털을 제거해 엉킴과 피부염을 예방합니다.
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. 진돗개 (Jindo Dog)의 몸짓 언어와 바디 시그널
+## 2. 진돗개 (Canis lupus familiaris)의 몸짓 언어와 바디 시그널
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ faqs:
 
 ---
 
-## 3. 진돗개 (Jindo Dog) 맞춤형 3단계 홈케어 루틴
+## 3. 진돗개 (Canis lupus familiaris) 맞춤형 3단계 홈케어 루틴
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

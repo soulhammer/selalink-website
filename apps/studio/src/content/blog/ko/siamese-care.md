@@ -3,7 +3,7 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "외로움이 많은 샴 고양이를 위한 정서 안정 및 사냥 놀이 3단계 루틴"
 description: "보호자에 대한 의존도가 높고 외로움을 많이 타는 샴 고양이. 정서적 결핍을 줄이는 교감법과 충분한 에너지를 발산시키는 3단계 데일리 놀이를 알아봅니다."
 pubDate: "2026-02-19"
-updatedDate: "2026-02-19"
+updatedDate: "2026-07-26"
 category: "FreshSelf"
 tags: ["반려동물","펫케어","샴 고양이 (Siamese)"]
 heroImage: "/images/blog/siamese_care.png"

@@ -1,22 +1,22 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "Insting yang Liar? Rutinitas 3 Langkah untuk Teritori dan Hidrasi Korean Shorthair"
+title: "Insting yang Liar? Rutinitas Harian 3 Langkah untuk Teritori dan Hidrasi Korean Shorthair"
 description: "Korean Shorthair, dengan insting berburu yang kuat. Pelajari metode hidrasi yang tepat untuk mencegah sistitis pada kucing dan rutinitas harian 3 langkah untuk kenyamanan teritorial."
 pubDate: "2026-03-15"
 updatedDate: "2026-03-15"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Korean Shorthair"]
+tags: ["PerawatanHewan","KesehatanHewan","Korean Shorthair (Felis catus)"]
 heroImage: "/images/blog/koshort_care.png"
 app: "petself"
 formatVersion: 4
 authority: "Panduan Perilaku Cornell Feline Health Center & Manual Perawatan Hewan Pendamping NIAS"
 steps:
   - name: "Bahasa Tubuh Kucing: Ekspresi Kepercayaan Tertinggi"
-    text: "Salah satu ekspresi kepercayaan terkuat yang dikirimkan kucing kepada pemiliknya adalah 'menaikkan ekor secara vertikal' dan 'mendengkur'. Mendekat dengan ekor tegak lurus ke atas adalah sinyal ramah dan permintaan untuk berkomunikasi. Selain itu, dengkuran merangsang endorfin, menenangkan mereka. Perhatikan bahwa mendengkur juga bisa menjadi sinyal penyembuhan diri saat mereka kesakitan. Jika kucing bergeming di tempat gelap dan mendengkur dengan ekspresi tertekan, pantau kesehatan mereka."
-  - name: "Korean Shorthair's Body Language & Signals"
-    text: "* Ekor Tegak: Ekspresi keramahan yang kuat, komunikasi positif, dan kegembiraan terhadap pemilik. (Berikan kontak mata yang lembut atau belai dagu mereka untuk interaksi positif.)
+    text: "Salah satu ekspresi kepercayaan terkuat yang dikirimkan kucing kepada pemiliknya adalah 'menaikkan ekor secara vertikal' (Tail Up) dan 'mendengkur' (Purring). Mendekat dengan ekor tegak lurus ke atas adalah sinyal ramah dan permintaan untuk berkomunikasi. Selain itu, dengkuran merangsang endorfin untuk menenangkan pikiran mereka. Perhatikan bahwa mendengkur juga bisa menjadi sinyal penyembuhan diri saat mereka kesakitan. Jika kucing bersembunyi di tempat gelap dan mendengkur dengan ekspresi tertekan, pantau kesehatan mereka secara teliti."
+  - name: "Korean Shorthair (Felis catus)'s Body Language & Signals"
+    text: "* Ekor Tegak (Tail Up): Ekspresi keramahan yang kuat, komunikasi positif, dan kegembiraan terhadap pemilik. (Berikan kontak mata yang lembut atau belai dagu mereka untuk interaksi positif.)
 
-* Mendengkur: Biasanya dilakukan saat senang, tetapi bisa juga menjadi tanda penyembuhan diri dari rasa sakit. (Jika mereka mendengkur saat bersembunyi di tempat gelap, periksa dengan teliti kesehatannya.)"
+* Mendengkur (Purring): Biasanya dilakukan saat senang, tetapi bisa juga menjadi tanda penyembuhan diri dari rasa sakit atau kecemasan. (Jika mereka mendengkur saat bersembunyi di tempat gelap, periksa dengan teliti kesehatannya.)"
   - name: "Customized 3-Step Home Care Routine"
     text: "* STEP 1. Pagi: Pemeriksaan Ruang Vertikal dan Pengaturan Pemandangan Jendela: Bersamaan dengan ventilasi pagi, buka tirai di dekat pohon kucing di samping jendela. Memastikan ruang vertikal dan memungkinkan mereka melihat pemandangan luar memberikan stimulasi mental dan secara dramatis mengurangi stres akibat kurungan.
 
@@ -30,11 +30,11 @@ faqs:
     answer: "Kuncinya adalah meningkatkan hidrasi. Letakkan beberapa wadah air jauh dari makanan, dan gunakan sistem air mancur."
 ---
 
-Korean Shorthair, kucing asli Korea, memiliki fisik yang kokoh dan vitalitas yang kuat karena insting liar yang masih terjaga. Meskipun ramah, mereka bisa waspada terhadap orang asing dan sangat fokus selama permainan berburu. 🐕
+Korean Shorthair, kucing asli Korea, memiliki fisik yang kokoh dan vitalitas yang kuat karena insting liar yang masih terjaga. Meskipun ramah, mereka bisa waspada terhadap orang asing dan sangat fokus selama permainan berburu. 🐈
 
 Namun, sifat-sifat ini membuat mereka rentan terhadap dua stresor dalam ruangan: kecemasan teritorial dari keterbatasan ruang, dan Feline Lower Urinary Tract Disease (FLUTD) atau batu kemih akibat hidrasi yang rendah. Mengelola kondisi ini membutuhkan perawatan harian yang cermat.
 
-Hari ini, PetSelf mengeksplorasi bahasa tubuh kucing-kucing ini dan membagikan rutinitas perawatan harian 3 langkah.
+Hari ini, PetSelf mengeksplorasi bahasa tubuh kucing-kucing ini dan membagikan 3 langkah rutinitas harian untuk menjaga kesehatan hidrasi dan teritori mereka.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -58,18 +58,18 @@ Hari ini, PetSelf mengeksplorasi bahasa tubuh kucing-kucing ini dan membagikan r
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Bahasa Tubuh Kucing: Ekspresi Kepercayaan Tertinggi</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Salah satu ekspresi kepercayaan terkuat yang dikirimkan kucing kepada pemiliknya adalah 'menaikkan ekor secara vertikal' dan 'mendengkur'. Mendekat dengan ekor tegak lurus ke atas adalah sinyal ramah dan permintaan untuk berkomunikasi. Selain itu, dengkuran merangsang endorfin, menenangkan mereka. Perhatikan bahwa mendengkur juga bisa menjadi sinyal penyembuhan diri saat mereka kesakitan. Jika kucing bergeming di tempat gelap dan mendengkur dengan ekspresi tertekan, pantau kesehatan mereka.
+    Salah satu ekspresi kepercayaan terkuat yang dikirimkan kucing kepada pemiliknya adalah 'menaikkan ekor secara vertikal' (Tail Up) dan 'mendengkur' (Purring). Mendekat dengan ekor tegak lurus ke atas adalah sinyal ramah dan permintaan untuk berkomunikasi. Selain itu, dengkuran merangsang endorfin untuk menenangkan pikiran mereka. Perhatikan bahwa mendengkur juga bisa menjadi sinyal penyembuhan diri saat mereka kesakitan. Jika kucing bersembunyi di tempat gelap dan mendengkur dengan ekspresi tertekan, pantau kesehatan mereka secara teliti.
   </p>
 </div>
 
 ---
 
-## 2. Korean Shorthair's Body Language & Signals
+## 2. Korean Shorthair (Felis catus)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Sinyal Tubuh 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Ekor Tegak</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Ekor Tegak (Tail Up)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• Arti:</strong> Ekspresi keramahan yang kuat, komunikasi positif, dan kegembiraan terhadap pemilik.<br/>
@@ -80,10 +80,10 @@ Hari ini, PetSelf mengeksplorasi bahasa tubuh kucing-kucing ini dan membagikan r
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Sinyal Tubuh 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Mendengkur</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Mendengkur (Purring)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Arti:</strong> Biasanya dilakukan saat senang, tetapi bisa juga menjadi tanda penyembuhan diri dari rasa sakit.<br/>
+    <strong>• Arti:</strong> Biasanya dilakukan saat senang, tetapi bisa juga menjadi tanda penyembuhan diri dari rasa sakit atau kecemasan.<br/>
     <strong>• Tindakan:</strong> Jika mereka mendengkur saat bersembunyi di tempat gelap, periksa dengan teliti kesehatannya.
   </p>
 </div>

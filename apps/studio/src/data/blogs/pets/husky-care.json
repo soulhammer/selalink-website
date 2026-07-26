@@ -8,17 +8,17 @@
         "description": "Siberian Huskies, the majestic sled dogs built for cold. Learn tips to manage heat stress and a 3-step daily routine to satisfy their huge energy levels and prevent howling.",
         "authority": "Official Siberian Husky Club of America Breed Guide & IAABC Working Dog Activity Protocols",
         "profile": {
-          "breed": "Siberian Husky",
+          "breed": "Siberian Husky (Canis lupus familiaris)",
           "lifespan": "12 ~ 15 years",
           "sleep_pattern": "10 ~ 12 hours (cool floors preferred)",
           "temperament": "Highly Energetic, Independent, Pack-oriented"
         },
         "intro": "Siberian Huskies are famous for their wolf-like looks, enchanting eyes, and history of pulling sleds in Siberian wilderness. Built with unmatched stamina and a pack-oriented mindset, they are active, independent companions. 🐕\n\nHowever, their polar heritage makes them vulnerable to hot, humid weather, putting them at high risk of heatstroke in summer. Also, because they were bred to run miles daily, failing to satisfy their energy demands leads to stress, which they express through howling or destructive house-chewing.\n\nToday, PetSelf decodes the unique vocalizations of Huskies communicating their boredom and outlines a 3-step home care guide for double coat maintenance and activity management.",
         "whyTitle": "Husky Body Language: Frustrated Howling and Pawing Interaction",
-        "whyDesc": "Siberian Huskies retain strong pack habits and use vocalizations and actions to express themselves. Key communication signals include 'howling' and 'paw offering'. A long, deep howl often communicates boredom or a demand for exercise rather than loneliness. Staring into your eyes and placing their heavy paw on your arm is a direct request for play or walking. Engage them with obedience drills or redirect their energy to chew toys to keep them occupied.",
+        "whyDesc": "Siberian Huskies retain strong pack habits and use vocalizations and actions to express themselves. Key communication signals include **'howling'** and **'paw offering'**. A long, deep howl often communicates boredom or a demand for exercise rather than loneliness. Staring into your eyes and placing their heavy paw on your arm is a direct request for play or walking. Engage them with obedience drills or redirect their energy to chew toys to keep them occupied.",
         "body_signals": [
           {
-            "name": "Howling/Vocalizing",
+            "name": "Howling / Vocalizing",
             "meaning": "An expression of extreme boredom and dissatisfaction from lack of exercise, demanding communication.",
             "response": "Take them out for an active sniff walk or set up a challenging nosework mat indoors."
           },
@@ -53,10 +53,10 @@
           }
         ],
         "tags": [
-          "Siberian Husky",
-          "Double Coat Brushing",
-          "Howling Prevention",
-          "Large Dog Walk"
+          "SiberianHusky",
+          "DoubleCoatBrushing",
+          "HowlingPrevention",
+          "LargeDogWalk"
         ]
       },
       "ja": {
@@ -64,14 +64,14 @@
         "description": "シベリアの酷寒に耐えるそり犬シベリアンハスキー。夏の暑さ対策と、爆発的な活動量を満たして遠吠えや家具の破壊を防ぐ3段階ホームケアを紹介します。",
         "authority": "シベリアンハスキークラブオブアメリカ公式ガイド＆IAABC作業犬活動プロトコル",
         "profile": {
-          "breed": "シベリアンハスキー",
+          "breed": "シベリアンハスキー (Canis lupus familiaris)",
           "lifespan": "12 ~ 15年",
           "sleep_pattern": "10 ~ 12時間（冷たい床を好む）",
           "temperament": "エネルギッシュ、独立心が強い、社交的"
         },
-        "intro": "シベリアンハスキー(Siberian Husky)は、極寒のシベリアでそりを引いて暮らしたタフな歴史と、神秘的なオッドアイ、そして凛々しい狼のような顔立ちで人気の犬種です。 尽きることのない体力と、自立しつつも群れを愛する強いパック（集団）本能を持っています。🐕\n\nしかし、極地出身であるため高温多湿な夏に非常に弱く、熱を放出しにくいため熱中症にかかりやすいです。また、元々は1日に何十キロも走るそり犬だったため、室内飼育で運動量が満たされないと、激しい退屈と欲求不満を遠吠え（ハウリング）や家具の破壊行動で発散してしまいます。\n\n本日、PetSelfではハスキーが不満を伝える独特の会話言語を解読し、二重毛の管理とエネルギー発散のための3段階ケアを紹介します。",
+        "intro": "シベリアンハスキー(Siberian Husky)は、極寒のシベリアでそりを引いて暮らしたタフな歴史と、神秘的なオッドアイ、そして凛々しい狼のような顔立ちで人気の犬種です。尽きることのない体力と、自立しつつも群れを愛する強いパック（集団）本能を持っています。🐕\n\nしかし、極地出身であるため高温多湿な夏に非常に弱く、熱を放出しにくいため熱中症にかかりやすいです。また、元々は1日に何十キロも走るそり犬だったため、室内飼育で運動量が満たされないと、激しい退屈と欲求不満を遠吠え（ハウリング）や家具の破壊行動で発散してしまいます。\n\n本日PetSelfでは、ハスキーが不満を伝える独特の会話言語を解読し、二重毛の管理とエネルギー発散のための3段階ケアを紹介します。",
         "whyTitle": "ハスキーのボディランゲージ：退屈な遠吠えと前足を乗せるしぐさ",
-        "whyDesc": "シベリアンハスキーはそり犬としての集団生活の習性が残っており、声としぐさで自己アピールします。代表的な言語は「遠吠え（ハウリング）」と「足を乗せる動作」です。首を長く伸ばして吠えるハウリングは、寂しさの表現だけでなく、運動量不足に対する退屈をアピールする信号です。また、目を合わせて前足を乗せる動作は、「退屈だから遊ぼう、外へ行こう」というアピールです。コマンドの練習やおもちゃでエネルギーをそらしてあげましょう。",
+        "whyDesc": "シベリアンハスキーはそり犬としての集団生活の習性が残っており、声としぐさで自己アピールします。代表的な言語は**「遠吠え（ハウリング）」**と**「足を乗せる動作（Paw Offering）」**です。首を長く伸ばして吠えるハウリングは、寂しさの表現だけでなく、運動量不足に対する退屈をアピールする信号です。また、目を合わせて前足を乗せる動作は、「退屈だから遊ぼう、外へ行こう」というアピールです。コマンドの練習やおもちゃでエネルギーをそらしてあげましょう。",
         "body_signals": [
           {
             "name": "遠吠え (Howling)",
@@ -94,7 +94,7 @@
             "text": "暑さに弱いためエアコンで冷涼な環境を作り、密集した極地用ダブルコートの抜け毛をスリッカーブラシで取り除いて熱放散を促します。"
           },
           {
-            "name": "夜：1時間以上の散歩記録の確認と木製シェ toys の提供",
+            "name": "夜：1時間以上の散歩記録の確認と木製シェトイの提供",
             "text": "1日最低1時間はお散歩させて運動量を満たし、夜間の遠吠えを防ぐために長く噛んで遊べる安全なコーヒーの木のウッドスティックを与えます。"
           }
         ],
@@ -117,51 +117,51 @@
       },
       "zh": {
         "title": "雪橇犬的炽热能量？西伯利亚哈士奇双层毛与运动量平衡3步日常护理",
-        "description": "适应西伯利亚严寒的雪橇犬西伯利亚哈士奇。介绍夏季暑热压力排解方法，以及满足其爆发性运动量、防止深夜嚎叫与撕家的3步日常护理惯例。",
+        "description": "适应西伯利亚严寒的雪橇犬西伯利亚哈士奇。介绍夏季暑热压力排解方法，以及满足其爆发性运动量、防止深夜嚎叫与撕家的3步日常护理流程。",
         "authority": "美国西伯利亚哈士奇俱乐部官方指南与 IAABC 工作犬活动协议",
         "profile": {
-          "breed": "西伯利亚哈士奇",
+          "breed": "西伯利亚哈士奇 (Canis lupus familiaris)",
           "lifespan": "12 ~ 15年",
           "sleep_pattern": "10 ~ 12小时（偏好凉爽的瓷砖地面）",
           "temperament": "精力充沛、独立性强、群居本能"
         },
-        "intro": "西伯利亚哈士奇（Siberian Husky）凭借在极寒气候下拖拽雪橇的强悍历史、神秘的异色瞳以及威武如狼般的面庞，是备受瞩目的犬种。它们拥有不知疲倦的超强体力，同时兼具独立与习惯群居的强烈狼群（Pack）本能。🐕\n\n然而，源自极地使得它们对高温多湿的夏季气候极其不适应，体表排热困难，在夏天极易发生威胁生命的暑热中暑。此外，作为曾日行数十公里的雪橇犬，如果室内生活完全无法满足其运动量需求，它们会将极度无聊与不满转化为深夜嚎叫或疯狂撕家等破坏性行为。\n\n今天，PetSelf 将为您解读哈士奇向家长表达不满的独特“对话”语言，并分享一套旨在养护浓密双层毛与合理消耗多余精力的3步日常护理手册。",
-        "whyTitle": "哈士奇的身体语言：不满的嚎叫与双爪搭膝",
-        "whyDesc": "西伯利亚哈士奇保留了雪橇犬时期与同伴沟通的习性，会通过声音和行为积极表达自己的诉求。最典型的语言是“长嚎（Howling）”和“搭爪（Paw Offering）”。哈士奇仰头长嚎，虽然有时代表孤独，但更多是表达室内生活枯燥、活动量未得到满足的抗议信号。而直视家长眼睛并把沉甸甸的前爪往家长膝盖上一搭, 是“我好无聊，带我出去玩吧”的直接要求。此时应通过指令训练或咀嚼玩具将精力转移引导开。",
+        "intro": "西伯利亚哈士奇（Siberian Husky）凭借在极寒气候下拖拽雪橇 responses 强悍历史、神秘 responses 异色瞳以及威武如狼般 responses 面庞，是备受瞩目 responses 犬种。它们拥有不知疲倦 responses 超强体力，同时兼具独立与习惯群居 responses 强烈狼群（Pack）本能。🐕\n\n然而，源自极地使得它们对高温多湿 responses 夏季气候极其不适应，体表排热困难，在夏天极易发生威胁生命 responses 暑热中暑。此外，作为曾日行数十公里 responses 雪橇犬，如果室内生活完全无法满足其运动量需求，它们会将极度无聊与不满转化为深夜嚎叫或疯狂撕家等破坏性行为。\n\n今天，PetSelf 将为您解读哈士奇向家长表达不满 responses 独特“对话”语言，并分享一套旨在养护浓密双层毛与合理消耗多余精力 responses 3步日常护理流程。",
+        "whyTitle": "哈士奇 responses 身体语言：不满 responses 嚎叫与双爪搭膝",
+        "whyDesc": "西伯利亚哈士奇保留了雪橇犬时期与同伴沟通 responses 习性，会通过声音和行为积极表达自己 responses 诉求。最典型 responses 语言是 **“长嚎（Howling）”** 和 **“搭爪（Paw Offering）”**。哈士奇仰头长嚎，虽然有时代表孤独，但更多是表达室内生活枯燥、活动量未得到满足 responses 抗议信号。而直视家长眼睛并把沉甸甸 responses 前爪往家长膝盖上一搭，是“我好无聊，带我出去玩吧” responses 直接要求。此时应通过指令训练或咀嚼玩具将精力转移引导开。",
         "body_signals": [
           {
             "name": "嚎叫与嘀咕 (Howling)",
-            "meaning": "宣泄因运动量不足产生的枯燥与不满，要求与家长进行互动的信号。",
-            "response": "带其去户外进行活跃的嗅闻散步，或在室内布置有难度的嗅闻垫。"
+            "meaning": "宣泄因运动量不足产生 responses 枯燥与不满，要求与家长进行互动 responses 信号。",
+            "response": "带其去户外进行活跃 responses 嗅闻散步，或在室内布置有难度 responses 嗅闻垫。"
           },
           {
             "name": "注视搭爪 (Paw Offering)",
-            "meaning": "在平等的社会关系中发起嬉戏，或执着要求外出散步和互动互换的行为。",
+            "meaning": "在平等的社会关系中发起嬉戏，或执着要求外出散步和互动互换 responses 行为。",
             "response": "不要每次都顺从其要求，应先下达指令（如“坐下”），在其完成后给以零食奖励来维护秩序。"
           }
         ],
         "daily_routine": [
           {
             "name": "早晨：佩戴 Y 型胸背带与雪橇犬拉拽力控阻检查",
-            "text": "散步时它们有强烈拉拽的本能，应牢固戴好防止压迫气管的 Y 型胸背带，并确认与家长同行时的同步步伐状态。"
+            "text": "散步时它们有强烈拉拽 responses 本能，应牢固戴好防止压迫气管 responses Y 型胸背带，并确认与家长同行时 responses 同步步伐状态。"
           },
           {
             "name": "中午：防暑冷感垫启动与双层毛深层死毛大量梳理",
-            "text": "因怕热室内需始终保持凉爽。使用针梳与 Coat King 耙梳将其茂密的极地双层被毛深层梳通，帮其排热，防止中暑。"
+            "text": "因怕热室内需始终保持凉爽。使用针梳与 Coat King 耙梳将其茂密 responses 极地双层被毛深层梳通，帮其排热，防止中暑。"
           },
           {
             "name": "晚上：累计运动量确认（散步）与耐咬木棒玩具提供",
-            "text": "确保每日至少1小时的散步运动量。为防止夜间因焦虑不满而长嚎，给其提供可供长时间咀嚼的咖啡木咬棒，消耗其剩余精力。"
+            "text": "确保每日至少1小时 responses 散步运动量。为防止夜间因焦虑不满而长嚎，给其提供可供长时间咀嚼 responses 咖啡木咬棒，消耗其剩余精力。"
           }
         ],
         "faqs": [
           {
             "question": "哈士奇精力过剩总是啃咬撕毁室内家具，应该如何解决？",
-            "answer": "哈士奇是工作雪橇犬，对身体运动量的要求极高。比起单纯的慢步散步，应加入慢跑或爬山等项目。室内应多利用藏零食的嗅闻玩具，或给予坚硬的磨牙棒/木咬胶来缓解其下颚肌肉的精力。"
+            "answer": "哈士奇是工作雪橇犬，对身体运动量 responses 要求极高。比起单纯 responses 慢步散步，应加入慢跑或爬山等项目。室内应多利用藏零食 responses 嗅闻玩具，或给予坚硬 responses 磨牙棒/木咬胶来缓解其下颚肌肉 responses 精力。"
           },
           {
-            "question": "夏天将哈士奇的双层毛用推子剃光，会让它们觉得更凉快吗？",
-            "answer": "严厉禁止。哈士奇的双层毛起到了隔绝外部热量与紫外线的“保温板”作用。如果将毛剃光，它们会失去体温调节屏障，中暑和日光灼伤的风险会急剧飙升。用毛刷彻底梳理出底毛层死毛才是唯一正确的办法。"
+            "question": "夏天将哈士奇 responses 双层毛用推子剃光，会让它们觉得更凉快吗？",
+            "answer": "严厉禁止。哈士奇 responses 双层毛起到了隔绝外部热量与紫外线 responses “保温板”作用。如果将毛剃光，它们会失去体温调节屏障，中暑和日光灼伤 responses 风险会急剧飙升。用毛刷彻底梳理出底毛层死毛才是唯一正确 responses 办法。"
           }
         ],
         "tags": [
@@ -172,283 +172,283 @@
         ]
       },
       "es": {
-        "title": "La energía ardiente de los perros de trineo: Cuidado de 3 pasos de manto doble y actividad del Husky Siberiano",
-        "description": "Husky Siberiano, el perro de trineo. Aprenda a combatir el calor y a canalizar su gran energía para evitar ladridos, aullidos y destrozos con una rutina de 3 pasos.",
-        "authority": "Guía de la Siberian Husky Club of America y protocolos de actividad para perros de trabajo de IAABC",
+        "title": "La energía ardiente de los perros de trineo: Cuidado diario de 3 pasos de manto doble y actividad del Husky Siberiano",
+        "description": "Husky Siberiano, el perro de trineo. Aprenda a combatir el calor y a canalizar su gran energía para evitar aullidos y destrozos con una rutina diaria de 3 pasos.",
+        "authority": "Guía Oficial de la Siberian Husky Club of America y Protocolos de Actividad para Perros de Trabajo de IAABC",
         "profile": {
-          "breed": "Husky Siberiano",
+          "breed": "Husky Siberiano (Canis lupus familiaris)",
           "lifespan": "12 ~ 15 años",
           "sleep_pattern": "10 ~ 12 horas (prefieren suelos fríos)",
           "temperament": "Muy Activo, Independiente, Instinto de manada"
         },
-        "intro": "Los Huskies Siberianos son famosos por su apariencia lobuna y su historia tirando trineos. Tienen una resistencia increíble y un fuerte instinto de manada. 🐕\n\nSin embargo, su herencia polar los hace vulnerables al calor y humedad, con riesgo de golpe de calor en verano. Además, si no gastan su inmensa energía diaria, se aburren y lo expresan con aullidos o destrozando la casa.\n\nHoy, PetSelf descodifica la comunicación del Husky e introduce una rutina de 3 pasos de manto doble y ejercicio.",
-        "whyTitle": "Lenguaje corporal del Husky: Aullidos de aburrimiento y pata sobre la rodilla",
-        "whyDesc": "Los Huskies retienen hábitos de manada y se expresan activamente. Las señales clave son 'aullidos' y 'ofrecer la pata'. El aullido expresa aburrimiento y demanda de ejercicio. Poner la pata sobre usted con mirada fija es una petición directa de paseo. Canalice su energía con juguetes o ejercicios.",
+        "intro": "Los Huskies Siberianos son famosos en todo el mundo por su apariencia lobuna, sus ojos encantadores y su historia tirando trineos en la intemperie siberiana. Construidos con una resistencia inigualable y una mentalidad de manada, son compañeros activos e independientes. 🐕\n\nSin embargo, su herencia polar los hace vulnerables al clima cálido y húmedo, exponiéndolos a un alto riesgo de golpe de calor en verano. Además, como fueron criados para correr kilómetros a diario, si no se satisfacen sus necesidades energéticas sufren estrés, expresándolo con aullidos o comportamientos destructivos en el hogar.\n\nHoy, PetSelf descodifica las vocalizaciones únicas del Husky e introduce una rutina diaria de 3 pasos para el mantenimiento del manto doble y la gestión del ejercicio.",
+        "whyTitle": "Lenguaje corporal del Husky: Aullidos de frustración y pata sobre la rodilla",
+        "whyDesc": "Los Huskies Siberianos conservan fuertes hábitos de manada y se expresan de forma activa a través de sonidos y acciones. Las señales clave incluyen **'aullidos' (Howling)** y **'ofrecer la pata' (Paw Offering)**. Un aullido largo y profundo a menudo comunica aburrimiento o exigencia de ejercicio en lugar de soledad. Mirarle fijamente a los ojos y poner su pata pesada sobre su brazo es una petición directa de juego o paseo. Canalice su energía con ejercicios de obediencia o mordedores.",
         "body_signals": [
           {
-            "name": "Aullidos",
-            "meaning": "Una expresión de aburrimiento extremo y descontento por falta de ejercicio, que demanda atención.",
-            "response": "Sáquelo a pasear para que olfatee activamente o prepare una alfombra de olfato en casa."
+            "name": "Aullidos / Vocalizaciones (Howling)",
+            "meaning": "Una expresión de aburrimiento extremo y descontento por falta de ejercicio, que exige interacción.",
+            "response": "Llévelo a un paseo activo con estimulación olfativa o prepare una alfombra de olfato desafiante en casa."
           },
           {
-            "name": "Ofrecer la pata con mirada fija",
-            "meaning": "Una petición asertiva de atención, juego o paseo, tratándole como a un compañero de manada.",
-            "response": "No ceda ante cada demanda. Dé una orden (sentarse, etc.) primero, luego premie para mantener el orden."
+            "name": "Ofrecer la pata con contacto visual (Paw Offering)",
+            "meaning": "Una petición firme de atención, juego o paseo, tratándole como a un compañero de manada.",
+            "response": "No ceda ante cada demanda. Dé una orden (sentado, etc.) primero y premie después para mantener la disciplina."
           }
         ],
         "daily_routine": [
           {
             "name": "Mañana: Ajuste de arnés en Y y control de tracción",
-            "text": "Tienen un fuerte instinto de tracción. Coloque un arnés en Y para evitar presión en la tráquea y controle su ritmo de paseo."
+            "text": "Tienen un fuerte instinto de tracción. Coloque un arnés en forma de Y para evitar presión en la tráquea y verifique que camine a su ritmo."
           },
           {
-            "name": "Tarde: Aire acondicionado, alfombras de frío y cepillado del subpelo",
-            "text": "Sensibles al calor, mantenga la casa fresca. Use una carda y un rastrillo para manto para cepillar su denso manto polar, liberando el calor."
+            "name": "Tarde: Aire acondicionado, alfombras de frío y cepillado intensivo del subpelo",
+            "text": "Son muy sensibles al calor, mantenga la casa fresca. Use una carda (slicker) y un rastrillo para manto para cepillar su denso manto polar, facilitando la salida del calor."
           },
           {
-            "name": "Noche: Paseo largo de 1 hora y juguetes para masticar duraderos",
-            "text": "Garantice al menos 1 hora de paseo activo. Para evitar aullidos nocturnos, proporcione un palo de madera de cafeto para masticar."
+            "name": "Noche: Paseo de 1 hora y mordedores de madera duraderos",
+            "text": "Garantice al menos 1 hora de paseo activo al día. Para evitar aullidos nocturnos por frustración, proporcione un palo de madera de cafeto seguro para masticar."
           }
         ],
         "faqs": [
           {
             "question": "¿Cómo puedo evitar que mi Husky destroce los muebles por aburrimiento?",
-            "answer": "Tienen una resistencia inmensa como perros de trabajo. Combine carreras o caminatas. En casa, use puzles con premios y mordedores de madera duros para cansar los músculos de su mandíbula."
+            "answer": "Son perros de trabajo con una resistencia enorme. Combine carreras o senderismo en sus paseos. En casa, use juguetes de ingenio con premios y mordedores duros de madera o asta para cansar los músculos de su mandíbula."
           },
           {
-            "question": "¿Afeitar el pelo de mi Husky le ayudará a estar más fresco en verano?",
-            "answer": "No. Su doble capa sirve como aislante contra el calor y los rayos UV. Afeitarlo destruye su regulación térmica, elevando el riesgo de golpe de calor y quemaduras. Lo correcto es cepillar para retirar el pelo muerto."
+            "question": "¿Afeitar el manto doble de mi Husky le ayudará a estar más fresco en verano?",
+            "answer": "Jamás. La doble capa del Husky actúa como un aislante térmico, bloqueando el calor exterior y los rayos UV. Afeitarlo destruye su termorregulación, aumentando drásticamente el riesgo de golpe de calor y quemaduras solares. Cepillar el subpelo muerto es la única solución."
           }
         ],
         "tags": [
-          "Husky Siberiano",
-          "Cepillado de Manto",
-          "Prevenir Aullidos",
-          "Paseos de Perros Grandes"
+          "HuskySiberiano",
+          "CepilladoDeMantoDoble",
+          "PrevenirAullidos",
+          "PaseoDePerrosGrandes"
         ]
       },
       "fr": {
-        "title": "L'énergie brûlante des chiens de traîneau : Routine en 3 étapes pour le double pelage et l'activité du Husky Sibérien",
+        "title": "L'énergie brûlante des chiens de traîneau : Routine quotidienne en 3 étapes pour le double pelage et l'activité du Husky Sibérien",
         "description": "Le Husky Sibérien, chien de traîneau de l'extrême. Apprenez à gérer le stress thermique et une routine en 3 étapes pour dépenser son énergie et éviter les hurlements.",
-        "authority": "Guide de la Siberian Husky Club of America et protocoles d'activité pour chiens de travail de l'IAABC",
+        "authority": "Guide Officiel de la Siberian Husky Club of America et Protocoles d'Activité pour Chiens de Travail de l'IAABC",
         "profile": {
-          "breed": "Husky Sibérien",
+          "breed": "Husky Sibérien (Canis lupus familiaris)",
           "lifespan": "12 ~ 15 ans",
           "sleep_pattern": "10 ~ 12 heures (sols frais préférés)",
           "temperament": "Très Actif, Indépendant, Instinct de meute"
         },
-        "intro": "Le Husky Sibérien est célèbre pour son allure de loup et son passé de chien de traîneau. Doté d'une endurance inépuisable et d'un fort instinct de meute, c'est un compagnon actif et indépendant. 🐕\n\nCependant, son origine polaire le rend sensible à la chaleur et à l'humidité, avec un risque élevé de coup de chaleur en été. De plus, s'il ne se dépense pas assez, il exprime sa frustration par des hurlements ou des destructions dans la maison.\n\nAujourd'hui, PetSelf décode les vocalisations du Husky et présente une routine en 3 étapes pour son double pelage et son activité.",
-        "whyTitle": "Langage corporel du Husky : Hurlements d'ennui et pose de patte",
-        "whyDesc": "Le Husky conserve des habitudes de meute et s'exprime activement. Les signaux clés incluent les hurlements et la pose de patte. Le hurlement exprime l'ennui et le besoin de se dépenser. Poser sa patte sur vous en vous regardant est une demande directe. Redirigez son énergie avec des jouets ou de l'éducation.",
+        "intro": "Le Husky Sibérien est célèbre pour son allure de loup, ses yeux envoûtants et son passé de chien de traîneau dans les immensités sibériennes. Doté d'une endurance inépuisable et d'un fort instinct de meute, c'est un compagnon actif et indépendant. 🐕\n\nCependant, son origine polaire le rend très sensible à la chaleur et à l'humidité, avec un risque élevé de coup de chaleur en été. De plus, comme il a été élevé pour courir des dizaines de kilomètres par jour, si ses besoins énergétiques ne sont pas comblés, il exprime sa frustration par des hurlements ou des destructions dans la maison.\n\nAujourd'hui, PetSelf décode les vocalisations du Husky et vous présente une routine en 3 étapes pour entretenir son double pelage et gérer son exercice.",
+        "whyTitle": "Langage corporel du Husky : Hurlements de frustration et pose de patte",
+        "whyDesc": "Le Husky conserve de forts réflexes de meute et s'exprime activement par la voix et les gestes. Les signaux clés incluent les **« hurlements » (Howling)** et la **« pose de patte » (Paw Offering)**. Un long hurlement traduit souvent l'ennui ou un besoin d'exercice plutôt que la solitude. Poser sa lourde patte sur votre bras en vous fixant du regard est une demande directe de sortie. Canalisez son énergie avec du travail d'obéissance ou des jouets à mâcher.",
         "body_signals": [
           {
-            "name": "Hurlements",
-            "meaning": "Une expression d'ennui extrême et de frustration due au manque d'exercice, demandant l'attention.",
-            "response": "Emmenez-le faire une promenade olfactive active ou préparez un tapis de fouille stimulant."
+            "name": "Hurlements et vocalises (Howling)",
+            "meaning": "Une expression d'ennui extrême et de frustration due au manque d'exercice, réclamant de l'attention et de la communication.",
+            "response": "Emmenez-le faire une promenade olfactive dynamique ou préparez un tapis de fouille stimulant à la maison."
           },
           {
-            "name": "Pose de patte avec regard fixe",
-            "meaning": "Une demande d'attention, de jeu ou de promenade, vous traitant comme un partenaire de meute.",
-            "response": "Ne cédez pas à chaque demande. Donnez un ordre (assis, etc.) d'abord, puis récompensez pour garder l'ordre."
+            "name": "Pose de patte avec regard fixe (Paw Offering)",
+            "meaning": "Une demande d'attention, de jeu ou de promenade, vous traitant comme un partenaire de meute sur un pied d'égalité.",
+            "response": "Ne cédez pas systématiquement. Donnez un ordre (assis, etc.) d'abord, puis récompensez pour maintenir la hiérarchie."
           }
         ],
         "daily_routine": [
           {
             "name": "Matin : Ajustement du harnais en Y et contrôle de la traction",
-            "text": "Ils ont un fort instinct de traction. Ajustez un harnais en Y pour éviter la pression sur la trachée et contrôlez l'allure."
+            "text": "Ils ont un fort instinct de traction. Ajustez un harnais anatomique en Y pour éviter la pression sur la trachée et entraînez la marche au pas."
           },
           {
-            "name": "Après-midi : Climatisation, tapis rafraîchissants et brossage intensif",
-            "text": "Sensibles à la chaleur, gardez l'intérieur frais. Utilisez une carde et un râteau pour sous-poil pour brosser leur pelage dense et libérer la chaleur."
+            "name": "Après-midi : Climatisation, tapis rafraîchissants et brossage intensif du sous-poil",
+            "text": "Très sensibles à la chaleur, gardez l'intérieur frais. Utilisez une carde (slicker) et un râteau démêleur pour brosser leur pelage d'hiver et évacuer la chaleur."
           },
           {
-            "name": "Soir : Promenade active de 1 heure et jouets à mâcher durables",
-            "text": "Assurez au moins 1 h de promenade active. Pour éviter les hurlements nocturnes, donnez-lui un bâton de bois de caféier à mâcher."
+            "name": "Soir : Promenade active de 1 heure et bâton de bois à mâcher",
+            "text": "Assurez au moins 1 heure de promenade active par jour. Pour éviter les hurlements nocturnes, donnez-lui un bâton de bois de caféier sécurisé à ronger."
           }
         ],
         "faqs": [
           {
             "question": "Comment empêcher mon Husky de détruire la maison par ennui ?",
-            "answer": "Le Husky est un chien de travail à l'endurance immense. Intégrez du footing ou de la randonnée. À la maison, proposez des puzzles et des bois à mâcher durs pour fatiguer les muscles de la mâchoire."
+            "answer": "Le Husky est un chien de travail à l'endurance immense. Intégrez du footing ou de la randonnée. À la maison, proposez des puzzles stimulants et des bois à mâcher durs pour fatiguer les muscles de sa mâchoire."
           },
           {
-            "question": "Tondre le double pelage de mon Husky l'aidera-t-il à avoir moins chaud ?",
-            "answer": "Absolument pas. Le pelage double sert d'isolant contre la chaleur et les UV. Le tondre détruit sa régulation thermique, augmentant le risque de coup de chaleur et de brûlures. Seul le brossage est recommandé."
+            "question": "Tondre le double pelage de mon Husky l'aidera-t-il à avoir moins chaud en été ?",
+            "answer": "Absolument pas. Le pelage double sert d'isolant thermique contre la chaleur et les rayons UV. Le tondre détruit sa régulation thermique, augmentant drastiquement le risque de coup de chaleur et de brûlures solaires. Seul le brossage du sous-poil mort est adapté."
           }
         ],
         "tags": [
-          "Husky Sibérien",
-          "Brossage Double Pelage",
-          "Prévenir Hurlements",
-          "Promenade Grand Chien"
+          "HuskySibérien",
+          "BrossageDoublePelage",
+          "PrévenirHurlements",
+          "PromenadeGrandChien"
         ]
       },
       "de": {
-        "title": "Die feurige Energie der Schlittenhunde: Sibirischer Husky Doppeltes Fell und Aktivität in 3 Schritten",
+        "title": "Die feurige Energie der Schlittenhunde: Sibirischer Husky Doppeltes Fell und 3-Schritte-Aktivitätspflege",
         "description": "Sibirischer Husky, der Schlittenhund für die Kälte. Erfahren Sie Tipps zur Hitzebewältigung und eine 3-Schritte-Routine zur Auslastung ihrer Energie, um Jaulen zu verhindern.",
-        "authority": "Leitfaden des Siberian Husky Club of America und IAABC-Aktivitätsprotokolle für Arbeitshunde",
+        "authority": "Offizieller Leitfaden des Siberian Husky Club of America und IAABC-Aktivitätsprotokolle für Arbeitshunde",
         "profile": {
-          "breed": "Sibirischer Husky",
+          "breed": "Sibirischer Husky (Canis lupus familiaris)",
           "lifespan": "12 ~ 15 Jahre",
           "sleep_pattern": "10 ~ 12 Stunden (kühle Fliesenböden bevorzugt)",
           "temperament": "Sehr Energisch, Eigenständig, Rudelorientiert"
         },
-        "intro": "Sibirische Huskies sind bekannt für ihr wolfsähnliches Aussehen und ihre Geschichte als Schlittenhunde. Sie besitzen eine unerschöpfliche Ausdauer und einen starken Rudelinstinkt. 🐕\n\nIhre polare Herkunft macht sie jedoch sehr hitzeempfindlich, was im Sommer zu Hitzschlägen führen kann. Zudem führt mangelnde Auslastung zu Frust, den sie durch Jaulen oder Zerstörungswut äußern.\n\nHeute entschlüsselt PetSelf die Körpersprache des Huskies und stellt eine 3-Schritte-Routine für doppeltes Fell und Bewegung vor.",
-        "whyTitle": "Körpersprache des Huskies: Jaulen aus Langeweile und Pfote auflegen",
-        "whyDesc": "Huskies behalten Rudelgewohnheiten bei und drücken sich aktiv aus. Zu den Signalen gehören Jaulen und Pfote auflegen. Ein langes Jaulen kommuniziert Langeweile und den Wunsch nach Bewegung. Das Auflegen der Pfote bei Blickkontakt ist eine Aufforderung zum Gehen. Lenken Sie die Energie um.",
+        "intro": "Sibirische Huskies sind weltweit bekannt für ihr wolfsähnliches Aussehen, ihre faszinierenden Augen und ihre Geschichte als Schlittenhunde in der sibirischen Wildnis. Sie besitzen eine unerschöpfliche Ausdauer und einen starken Rudelinstinkt. 🐕\n\nIhre polare Herkunft macht sie jedoch sehr hitzeempfindlich, was im Sommer zu lebensgefährlichen Hitzschlägen führen kann. Zudem führt mangelnde Auslastung zu Frust, den sie durch langes Jaulen oder Zerstörungswut im Haus äußern.\n\nHeute entschlüsselt PetSelf die Körpersprache des Huskies bei Langeweile und stellt eine 3-Schritte-Routine für die Pflege des doppelten Fells und die Bewegung vor.",
+        "whyTitle": "Körpersprache des Huskies: Frustriertes Jaulen und Pfote auflegen",
+        "whyDesc": "Huskies behalten Rudelgewohnheiten bei und drücken sich aktiv durch Lautußerungen und Gesten aus. Zu den zentralen Signalen gehören **'Jaulen' (Howling)** und **'Pfote auflegen' (Paw Offering)**. Ein langes Jaulen kommuniziert oft Langeweile und den Wunsch nach Auslastung statt Einsamkeit. Das Auflegen der Pfote bei festem Blickkontakt ist eine direkte Aufforderung zum Spielen. Lenken Sie diese Energie durch Gehorsamstraining oder Kauspielzeug um.",
         "body_signals": [
           {
-            "name": "Jaulen",
-            "meaning": "Ein Ausdruck von extremer Langeweile und Frust über mangelnde Auslastung, der Aufmerksamkeit fordert.",
-            "response": "Gehen Sie aktiv spazieren oder richten Sie einen anspruchsvollen Schnüffelteppich ein."
+            "name": "Jaulen / Vokalisieren (Howling)",
+            "meaning": "Ein Ausdruck extremer Langeweile und Frust über mangelnde Bewegung, der Kommunikation fordert.",
+            "response": "Gehen Sie aktiv spazieren oder richten Sie einen anspruchsvollen Schnüffelteppich im Haus ein."
           },
           {
-            "name": "Pfote auflegen bei Blickkontakt",
-            "meaning": "Eine nachdrückliche Bitte um Aufmerksamkeit, Spiel oder Spaziergang als Rudelpartner.",
-            "response": "Geben Sie nicht jeder Bitte nach. Geben Sie zuerst ein Kommando (Sitz usw.) und belohnen Sie dann."
+            "name": "Pfote auflegen bei Blickkontakt (Paw Offering)",
+            "meaning": "Eine nachdrückliche Bitte um Aufmerksamkeit, Spiel oder Spaziergang als gleichwertiges Rudelmitglied.",
+            "response": "Geben Sie nicht jeder Bitte nach. Geben Sie zuerst ein Kommando (Sitz usw.) und belohnen Sie erst danach."
           }
         ],
         "daily_routine": [
           {
             "name": "Morgen: Anlegen des Y-Geschirrs und Zugkraftprüfung",
-            "text": "Huskies haben einen starken Zugtrieb. Legen Sie ein Y-Geschirr an, um Druck auf die Luftröhre zu verhindern, und prüfen Sie den Gleichschritt."
+            "text": "Huskies haben einen starken Zugtrieb. Legen Sie ein ergonomisches Y-Geschirr an, um Druck auf die Luftröhre zu verhindern, und üben Sie den Gleichschritt."
           },
           {
             "name": "Nachmittag: Kühlmatten-Bereitstellung und intensives Ausbürsten des Unterfells",
-            "text": "Hitzeempfindlich, Innenräume kühl halten. Verwenden Sie eine Slicker-Bürste und einen Knorpelrechen, um das dichte Fell auszubürsten und Hitze abzuführen."
+            "text": "Da sie hitzeempfindlich sind, halten Sie Innenräume kühl. Verwenden Sie eine Zupfbürste (Slicker) und einen Unterfellrechen, um das dichte Fell tief auszubürsten."
           },
           {
             "name": "Abend: 1-stündige Spaziergangsprüfung und langlebiges Kauspielzeug",
-            "text": "Sichern Sie mindestens 1 Stunde Auslauf. Um nächtliches Jaulen zu vermeiden, stellen Sie ein langlebiges Kauspielzeug bereit."
+            "text": "Sichern Sie mindestens 1 Stunde aktiven Auslauf täglich. Um nächtliches Jaulen zu vermeiden, stellen Sie ein langlebiges Kaffeeholz-Kauspielzeug bereit."
           }
         ],
         "faqs": [
           {
             "question": "Wie kann ich verhindern, dass mein Husky Möbel zerstört und unruhig wird?",
-            "answer": "Sie sind Arbeitshunde mit enormer Ausdauer. Kombinieren Sie Joggen oder Wandern. Nutzen Sie im Haus Denkspiele und Kauspielzeuge, um die Kiefermuskeln auszulasten."
+            "answer": "Sie sind Arbeitshunde mit enormer Ausdauer. Kombinieren Sie Joggen oder Wandern mit den Spaziergängen. Nutzen Sie im Haus Denkspiele und Kauspielzeuge aus Kaffeewurzel oder Geweih, um die Kiefermuskeln auszulasten."
           },
           {
             "question": "Hilft das Scheren des Fells meinem Husky, im Sommer kühl zu bleiben?",
-            "answer": "Nein. Das doppelte Fell wirkt als Isolierung gegen Hitze und UV-Strahlen. Scheren zerstört die Wärmeregulierung und erhöht das Hitzschlag-Risiko. Regelmäßiges Bürsten ist die einzige Methode."
+            "answer": "Keinesfalls. Das doppelte Fell wirkt als Isolierung gegen Hitze und UV-Strahlen. Scheren zerstört die Wärmeregulierung und erhöht das Hitzschlag- und Sonnenbrandrisiko drastisch. Das Ausbürsten der abgestorbenen Unterwolle ist die einzige richtige Methode."
           }
         ],
         "tags": [
-          "Sibirischer Husky",
-          "Doppelfellbürsten",
-          "Jaulprävention",
-          "Spaziergang großer Hunde"
+          "SibirischerHusky",
+          "DoppelfellBuersten",
+          "JaulPraevention",
+          "SpaziergangGrosserHunde"
         ]
       },
       "pt": {
-        "title": "A energia ardente dos cães de trenó: Cuidado de 3 passos de pelagem dupla e atividade do Husky Siberiano",
-        "description": "Husky Siberiano, o cão de trenó. Aprenda a combater o calor e a canalizar sua grande energia para evitar uivos e destruição com uma rotina de 3 passos.",
-        "authority": "Guia da Siberian Husky Club of America e protocolos de atividade para cães de trabalho da IAABC",
+        "title": "A energia ardente dos cães de trenó: Cuidado diário de 3 passos de pelagem dupla e atividade do Husky Siberiano",
+        "description": "Husky Siberiano, o cão de trenó. Aprenda a combater o calor e a canalizar sua grande energia para evitar uivos e destruição com uma rotina diária de 3 passos.",
+        "authority": "Guia Oficial da Siberian Husky Club of America e Protocolos de Atividade para Cães de Trabalho da IAABC",
         "profile": {
-          "breed": "Husky Siberiano",
+          "breed": "Husky Siberiano (Canis lupus familiaris)",
           "lifespan": "12 ~ 15 anos",
           "sleep_pattern": "10 ~ 12 horas (prefere pisos frios)",
           "temperament": "Muito Ativo, Independente, Instinto de matilha"
         },
-        "intro": "Os Huskies Siberianos são famosos pela aparência de lobo e história puxando trenós. Têm resistência incrível e forte instinto de matilha. 🐕\n\nNo entanto, a herança polar os torna vulneráveis ao calor e umidade, com risco de choque térmico no verão. Além disso, se não gastarem sua imensa energia, ficam estressados, expressando com uivos e destruição.\n\nHou, o PetSelf decodifica sua comunicação e apresenta uma rotina de 3 passos de pelagem dupla e exercício.",
-        "whyTitle": "Linguagem corporal do Husky: Uivos de tédio e pata sobre o joelho",
-        "whyDesc": "Os Huskies retêm hábitos de matilha e se expressam ativamente. Os sinais chave são 'uivos' e 'oferecer a pata'. O uivo expressa tédio e demanda de exercício. Pôr a pata sobre você com olhar fixo é pedido direto de passeio. Canalize sua energia com brinquedos ou treinos.",
+        "intro": "Os Huskies Siberianos são famosos no mundo inteiro pela sua aparência de lobo, olhos encantadores e história puxando trenós na imensidão siberiana. Possuem uma resistência incrível e um forte instinto de matilha. 🐕\n\nNo entanto, sua herança polar os torna vulneráveis ao clima quente e úmido, expondo-os a um alto risco de choque térmico no verão. Além disso, como foram criados para correr quilômetros diariamente, se não gastarem sua imensa energia ficam estressados, expressando isso com uivos ou comportamentos destrutivos em casa.\n\nHoje, o PetSelf decodifica a comunicação do Husky e apresenta uma rotina diária de 3 passos para a pelagem dupla e o exercício.",
+        "whyTitle": "Linguagem corporal do Husky: Uivos de frustração e pata sobre a perna",
+        "whyDesc": "Os Huskies Siberianos mantêm fortes hábitos de matilha e expressam-se ativamente por meio de sons e ações. Os sinais chave incluem **'uivos' (Howling)** e **'oferecer a pata' (Paw Offering)**. Um uivo longo e profundo muitas vezes comunica tédio ou demanda por exercício em vez de solidão. Olhar fixamente nos seus olhos e colocar a pata pesada no seu braço é um pedido direto de passeio. Canalize essa energia com treinos de obediência ou mordedores.",
         "body_signals": [
           {
-            "name": "Uivos",
-            "meaning": "Uma expressão de tédio extremo e descontentamento por falta de exercício, exigindo atenção.",
-            "response": "Leve-o para passear e cheirar ativamente ou prepare um tapete de faro em casa."
+            "name": "Uivos e vocalizações (Howling)",
+            "meaning": "Uma expressão de tédio extremo e descontentamento por falta de exercício, exigindo atenção e comunicação.",
+            "response": "Leve-o para um passeio ativo com estimulação olfativa ou prepare um tapete de faro desafiador em casa."
           },
           {
-            "name": "Oferecer a pata com olhar fixo",
-            "meaning": "Uma petição de atenção, brincadeira ou passeio, tratando você como parceiro de matilha.",
-            "response": "Não ceda a todas as exigências. Dê um comando (sentar, etc.) primeiro, depois premie para manter a ordem."
+            "name": "Oferecer a pata com olhar fixo (Paw Offering)",
+            "meaning": "Uma petição de atenção, brincadeira ou passeio, tratando você como um parceiro de matilha.",
+            "response": "Não ceda a todas as exigências. Dê um comando (sentar, etc.) primeiro e premie depois para manter a liderança."
           }
         ],
         "daily_routine": [
           {
             "name": "Manhã: Ajuste do peitoral em Y e controle de tração",
-            "text": "Têm forte instinto de puxar. Ajuste um peitoral em Y para evitar pressão na traqueia e controle o ritmo do passeio."
+            "text": "Possuem um forte instinto de puxar. Ajuste um peitoral em forma de Y para evitar pressão na traqueia e verifique se ele caminha ao seu ritmo."
           },
           {
-            "name": "Tarde: Ar condicionado, tapetes gelados e escovação intensiva do subpelo",
-            "text": "Sensíveis ao calor, mantenha a casa fresca. Use rasqueadeira e rastelo para subpelo para escovar a pelagem densa, liberando o calor."
+            "name": "Tarde: Ar-condicionado, tapetes gelados e escovação intensiva do subpelo",
+            "text": "Muito sensíveis ao calor, mantenha a casa fresca. Use uma rasqueadeira (slicker) e um rastelo para subpelo para escovar a pelagem densa, liberando o calor."
           },
           {
-            "name": "Noite: Passeio longo de 1 hora e mordedores de madeira duráveis",
-            "text": "Garanta pelo menos 1 hora de passeio ativo. Para evitar uivos noturnos, forneça um mordedor de madeira de cafeeiro para mastigar."
+            "name": "Noite: Passeio de 1 hora e mordedores de madeira duráveis",
+            "text": "Garanta pelo menos 1 hora de passeio ativo por dia. Para evitar uivos noturnos por frustração, forneça um bastão de madeira de cafeeiro seguro para mastigar."
           }
         ],
         "faqs": [
           {
             "question": "Como posso evitar que meu Husky destrua os móveis por tédio?",
-            "answer": "Têm resistência imensa como cães de trabalho. Combine corridas ou trilhas. Em casa, use brinquedos inteligentes com petiscos e mordedores duros para cansar a mandíbula."
+            "answer": "São cães de trabalho com imensa resistência. Combine corridas ou caminhadas nos passeios. Em casa, use brinquedos inteligentes com petiscos e mordedores duros de madeira para cansar a mandíbula."
           },
           {
             "question": "Tosar o pelo do meu Husky vai ajudá-lo a ficar mais fresco no verão?",
-            "answer": "Não. A pelagem dupla serve como isolante térmico contra o calor e raios UV. Tosar destrói a regulação térmica, elevando o risco de choque térmico e queimaduras. O correto é apenas escovar o subpelo morto."
+            "answer": "Jamais. A pelagem dupla do Husky atua como um isolante térmico contra o calor e os raios UV. Tosar destrói sua termorregulação, elevando drasticamente o risco de choque térmico e queimaduras. Remover o subpelo morto com a escova é o correto."
           }
         ],
         "tags": [
-          "Husky Siberiano",
-          "Escovação de Pelagem",
-          "Prevenir Uivos",
-          "Passeios de Cães Grandes"
+          "HuskySiberiano",
+          "EscovacaoDePelagemDupla",
+          "PrevenirUivos",
+          "PasseioDeCaesGrandes"
         ]
       },
       "id": {
-        "title": "Energi Membara Anjing Penarik Kereta: Perawatan 3 Langkah Bulu Ganda dan Aktivitas Siberian Husky",
-        "description": "Siberian Husky, anjing penarik kereta salju yang tangguh. Pelajari tips mengatasi stres panas dan rutinitas 3 langkah untuk memenuhi tingkat energi mereka yang besar.",
+        "title": "Energi Membara Anjing Penarik Kereta: Perawatan Harian 3 Langkah Bulu Ganda dan Aktivitas Siberian Husky",
+        "description": "Siberian Husky, anjing penarik kereta salju yang tangguh. Pelajari tips mengatasi stres panas dan rutinitas harian 3 langkah untuk memenuhi tingkat energi mereka yang besar.",
         "authority": "Panduan Ras Resmi Siberian Husky Club of America & Protokol Aktivitas Anjing Pekerja IAABC",
         "profile": {
-          "breed": "Siberian Husky",
+          "breed": "Siberian Husky (Canis lupus familiaris)",
           "lifespan": "12 ~ 15 tahun",
           "sleep_pattern": "10 ~ 12 jam (menyukai lantai yang dingin)",
           "temperament": "Sangat Energik, Mandiri, Berinsting Kelompok"
         },
-        "intro": "Siberian Husky terkenal dengan penampilan seperti serigala dan sejarah penarik kereta salju. Dibangun dengan stamina yang tak tertandingi dan naluri kelompok, mereka aktif dan mandiri. 🐕\n\nNamun, warisan kutub membuat mereka rentan terhadap cuaca panas dan lembab, berisiko tinggi terkena heatstroke di musim panas. Selain itu, jika tingkat energi mereka tidak terpenuhi, mereka akan stres dan melolong atau merusak rumah.\n\nHari ini, PetSelf menguraikan bahasa tubuh Husky dan menjelaskan rutinitas 3 langkah untuk bulu ganda dan aktivitas mereka.",
+        "intro": "Siberian Husky terkenal di seluruh dunia dengan penampilan seperti serigala, mata yang memikat, dan sejarah penarik kereta salju di alam liar Siberia. Dibangun dengan stamina yang tak tertandingi dan naluri kelompok, mereka adalah teman yang aktif dan mandiri. 🐕\n\nNamun, warisan kutub membuat mereka rentan terhadap cuaca panas dan lembap, berisiko tinggi terkena heatstroke di musim panas. Selain itu, karena mereka dibiakkan untuk berlari jauh setiap hari, jika kebutuhan energi mereka tidak terpenuhi, mereka akan stres dan melolong atau merusak rumah.\n\nHari ini, PetSelf menguraikan bahasa tubuh Husky dan menjelaskan 3 langkah rutinitas harian untuk perawatan bulu ganda dan aktivitas mereka.",
         "whyTitle": "Bahasa Tubuh Husky: Lolongan Frustrasi dan Sentuhan Cakar",
-        "whyDesc": "Siberian Husky mempertahankan kebiasaan kelompok dan menggunakan suara serta tindakan. Sinyal utama meliputi 'lolongan' and 'sentuhan cakar'. Lolongan panjang mengomunikasikan kebosanan atau tuntutan olahraga. Menempelkan cakar adalah permintaan bermain. Alihkan energi mereka.",
+        "whyDesc": "Siberian Husky mempertahankan kebiasaan kelompok dan menggunakan suara serta tindakan untuk mengekspresikan diri. Sinyal utama meliputi **'lolongan' (Howling)** dan **'sentuhan cakar' (Paw Offering)**. Lolongan panjang sering mengomunikasikan kebosanan atau tuntutan olahraga daripada kesepian. Menatap mata Anda dan menempelkan kakinya yang berat di lengan Anda adalah permintaan langsung untuk jalan-jalan. Alihkan energi mereka dengan latihan kepatuhan atau mainan gigit.",
         "body_signals": [
           {
-            "name": "Melolong",
-            "meaning": "Ekspresi kebosanan luar biasa dan ketidakpuasan karena kurang olahraga, menuntut komunikasi.",
-            "response": "Ajak keluar untuk jalan-jalan aktif atau siapkan matras penciuman yang menantang di dalam ruangan."
+            "name": "Melolong / Bersuara (Howling)",
+            "meaning": "Ekspresi kebosanan luar biasa dan ketidakpuasan karena kurang olahraga, menuntut komunikasi dan perhatian.",
+            "response": "Ajak keluar untuk jalan-jalan aktif berendus atau siapkan matras penciuman (nosework) yang menantang di dalam ruangan."
           },
           {
-            "name": "Sentuhan Cakar dengan Kontak Mata",
-            "meaning": "Permintaan tegas untuk perhatian, bermain, atau jalan-jalan, memperlakukan Anda sebagai rekan.",
-            "response": "Jangan penuhi setiap tuntutan. Berikan perintah (duduk, dll.) terlebih dahulu, lalu beri hadiah."
+            "name": "Sentuhan Cakar dengan Kontak Mata (Paw Offering)",
+            "meaning": "Permintaan tegas untuk perhatian, bermain, atau jalan-jalan, memperlakukan Anda sebagai rekan satu kelompok.",
+            "response": "Jangan penuhi setiap tuntutan. Berikan perintah (duduk, dll.) terlebih dahulu, lalu beri hadiah untuk menjaga kedisiplinan."
           }
         ],
         "daily_routine": [
           {
             "name": "Pagi: Pemasangan Harness Y dan Pemeriksaan Gaya Tarik",
-            "text": "Husky memiliki naluri kuat untuk menarik. Pasang harness berbentuk Y untuk mencegah tekanan trakea, dan periksa keselarasan langkah."
+            "text": "Husky memiliki naluri kuat untuk menarik. Pasang harness berbentuk Y untuk mencegah tekanan pada trakea, dan periksa keselarasan langkah mereka dengan Anda."
           },
           {
-            "name": "Siang: Pendinginan dengan Matras Dingin dan Sisir Slicker Bulu Ganda",
-            "text": "Sensitif terhadap panas, jaga ruangan tetap dingin. Gunakan sikat slicker dan sisir undercoat untuk menyikat bulu ganda polar mereka."
+            "name": "Siang: Pendinginan AC dan Menyikat Bulu Halus Lapisan Dalam",
+            "text": "Sensitif terhadap panas, jaga ruangan tetap dingin. Gunakan sikat slicker dan sisir undercoat rake untuk menyikat bulu ganda tebal mereka secara mendalam agar panas terlepas."
           },
           {
             "name": "Malam: Pemeriksaan Jalan Aktif 1 Jam dan Mainan Kunyah Kayu Tahan Lama",
-            "text": "Pastikan jalan-jalan aktif minimal 1 jam. Untuk mencegah lolongan malam hari, berikan mainan kunyah kayu kopi yang aman."
+            "text": "Pastikan jalan-jalan aktif minimal 1 jam sehari. Untuk mencegah lolongan malam hari karena frustrasi, berikan mainan kunyah kayu kopi yang aman."
           }
         ],
         "faqs": [
           {
-            "question": "Bagaimana cara menghentikan Husky merusak furnitur karena gelisah?",
-            "answer": "Husky adalah anjing penarik kereta dengan stamina besar. Campurkan jogging atau hiking pada jalan-jalan mereka. Di dalam ruangan, gunakan mainan teka-teki dan kayu gigit keras untuk meletihkan otot rahang."
+            "question": "Bagaimana cara menghentikan Husky merusak furnitur dan menjadi gelisah?",
+            "answer": "Husky adalah anjing pekerja penarik kereta dengan stamina besar. Campurkan jogging atau hiking dalam jalan-jalan mereka. Di dalam ruangan, gunakan mainan teka-teki makanan dan kayu gigit keras untuk meletihkan otot rahang mereka."
           },
           {
             "question": "Apakah mencukur bulu ganda Husky akan membuat mereka lebih dingin di musim panas?",
-            "answer": "Sama sekali tidak. Bulu ganda Husky bertindak sebagai isolator terhadap panas luar dan sinar UV. Mencukurnya merusak regulasi termal, meningkatkan risiko sengatan panas dan sunburn. Menyikat bulu mati adalah cara yang benar."
+            "answer": "Sama sekali tidak. Bulu ganda Husky bertindak sebagai isolator terhadap panas luar dan sinar UV. Mencukurnya merusak regulasi termal, meningkatkan risiko sengatan panas (heatstroke) dan sunburn. Menyikat bulu halus yang mati adalah satu-satunya cara yang benar."
           }
         ],
         "tags": [
-          "Siberian Husky",
-          "Menyikat Bulu Ganda",
-          "Pencegahan Melolong",
-          "Jalan Anjing Besar"
+          "SiberianHusky",
+          "MenyikatBuluGanda",
+          "PencegahanMelolong",
+          "JalanAnjingBesar"
         ]
       },
       "ko": {
@@ -456,14 +456,14 @@
         "description": "시베리아 혹한을 버티는 늠름한 썰매견 시베리안 허스키. 여름철 더위 스트레스 해소와 폭발적인 활동량을 충족시켜 하울링과 실내 파괴를 예방하는 3단계 홈케어를 정리합니다.",
         "authority": "Siberian Husky Club of America 및 IAABC 썰매견 행동 인지/활동 에너지 지침",
         "profile": {
-          "breed": "시베리안 허스키 (Siberian Husky)",
+          "breed": "시베리안 허스키 (Canis lupus familiaris)",
           "lifespan": "12 ~ 15년",
           "sleep_pattern": "10 ~ 12시간 (선선한 타일 선호)",
           "temperament": "활기참, 독립성 강함, 무리 본능"
         },
         "intro": "시베리안 허스키(Siberian Husky)는 시베리아의 혹독한 기후를 썰매를 끌며 극복해 낸 강인한 역사와 신비로운 오드아이, 늠름한 늑대 같은 얼굴로 많은 이들의 동경을 받는 견종입니다. 지치지 않는 철인의 체력과 독립적이면서도 무리 생활에 익숙한 강한 팩(Pack) 본능을 가지고 있습니다. 🐕\n\n하지만 극지방 출신인 만큼 고온다습한 여름철 기후에 매우 취약하며, 체내 열 방출이 어려워 여름철에는 생명에 위협을 주는 열사병에 노출되기 쉽습니다. 또한, 하루에 수십 km를 달리던 썰매견 출신이기에 실내 생활에서 활동량이 전혀 충족되지 않으면 극심한 지루함과 불만을 하울링(Baying)이나 집안 가구 파손 등 파괴적 행동으로 표출합니다.\n\n오늘 PetSelf에서는 허스키가 보호자에게 불만을 표현하는 독특한 대화 언어를 해독하고, 시베리아식 이중모 관리 및 넘치는 에너지를 생산적으로 발산하는 3단계 홈케어 매뉴얼을 전해드립니다.",
         "whyTitle": "허스키의 바디 랭귀지: 불만의 하울링과 무릎에 앞발 올리기",
-        "whyDesc": "시베리안 허스키는 썰매견으로서 동료들과 소통하던 습성이 남아 소리와 행동으로 자기 의사를 적극적으로 어필합니다. 대표적인 언어는 '하울링(Howling)'과 '앞발 올리기(Paw Offering)'입니다. 허스키가 목을 위로 빼고 길게 우는 하울링은 외로움의 표현이기도 하지만, 실내 생활이 지루하고 활동량 부족에 대한 불만을 어필하는 대표적인 신호입니다. 또한 정면으로 눈을 마주하며 묵직한 앞발을 툭 얹는 행동은 '심심하니 나랑 같이 밖으로 나가자'는 의존적인 요구입니다. 이때 지시어 훈련이나 장난감으로 에너지를 다른 데로 유도해 주어야 합니다.",
+        "whyDesc": "시베리안 허스키는 썰매견으로서 동료들과 소통하던 습성이 남아 소리와 행동으로 자기 의사를 적극적으로 어필합니다. 대표적인 언어는 **'하울링(Howling)'**과 **'앞발 올리기(Paw Offering)'**입니다. 허스키가 목을 위로 빼고 길게 우는 하울링은 외로움의 표현이기도 하지만, 실내 생활이 지루하고 활동량 부족에 대한 불만을 어필하는 대표적인 신호입니다. 또한 정면으로 눈을 마주하며 묵직한 앞발을 툭 얹는 행동은 '심심하니 나랑 같이 밖으로 나가자'는 의존적인 요구입니다. 이때 지시어 훈련이나 장난감으로 에너지를 다른 데로 유도해 주어야 합니다.",
         "body_signals": [
           {
             "name": "하울링 및 웅얼거림 (Howling)",
@@ -501,10 +501,10 @@
           }
         ],
         "tags": [
-          "시베리안 허스키",
-          "이중모 브러싱",
-          "하울링 방지",
-          "대형견 산책"
+          "시베리안허스키",
+          "이중모브러싱",
+          "하울링방지",
+          "대형견산책"
         ]
       }
     },

@@ -1,22 +1,22 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "Munchkin-Katzen Gelenkschutz-Leitfaden und 3-Schritt-Niederflurroutine"
-description: "Pflege für die kurzbeinige Munchkin-Katze. Lernen Sie, Anzeichen von Gelenkbeschwerden zu erkennen und ihre Mobilität zu erhalten."
+title: "Munchkin-Katzen Gelenkschutz-Leitfaden und tägliche 3-Schritte-Niederflurroutine"
+description: "Pflege für die kurzbeinige Munchkin-Katze. Lernen Sie, Anzeichen von Gelenkbeschwerden zu erkennen und Arthrose sowie Bandscheibenvorfällen mit einer 3-Schritte-Routine vorzubeugen."
 pubDate: "2026-05-31"
 updatedDate: "2026-05-31"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Munchkin-Katze"]
+tags: ["Haustierpflege","Haustiergesundheit","Munchkin-Katze (Felis catus)"]
 heroImage: "/images/blog/munchkin_care.png"
 app: "petself"
 formatVersion: 4
 authority: "Munchkin-Rassenstandards der Cat Fanciers' Association (CFA) und Richtlinien der Tierärztlichen Orthopädie"
 steps:
   - name: "Munchkin-Körpersprache: Känguru-Stand und Zögern vor Sprüngen"
-    text: "Aufgrund ihrer kurzen Beine zeigen Munchkins ein besonderes Verhalten. Um eine bessere Aussicht zu haben, richten sie sich oft auf den Hinterbeinen auf ('Känguru-Stand'). Das Zögern oder die Weigerung, auf niedrige Möbel zu springen, ist jedoch ein ernstes Warnzeichen für Gelenkschmerzen."
-  - name: "Munchkin-Katze's Body Language & Signals"
-    text: "* Känguru-Stand: Aufrechtes Sitzen auf den Hinterbeinen. Ein natürliches Verhalten, um die geringe Körperhöhe beim Umschauen auszugleichen. (Sichern Sie den Boden mit rutschfesten Matten, damit die Katze beim Sitzen nicht wegrutscht und die Hüfte belastet.)
+    text: "Aufgrund ihrer kurzen Beine zeigen Munchkins ein besonderes Verhalten. Um eine bessere Aussicht zu haben, richten sie sich oft auf den Hinterbeinen auf 'Känguru-Stand' (Kangaroo Standing). Das 'Zögern oder Verzichten auf Sprünge' auf niedrige Möbel ist jedoch ein ernstes Warnzeichen für Gelenkschmerzen."
+  - name: "Munchkin-Katze (Felis catus)'s Body Language & Signals"
+    text: "* Känguru-Stand (Kangaroo Standing): Aufrechtes Sitzen auf den Hinterbeinen. Ein natürliches Verhalten, um die geringe Körperhöhe beim Umschauen auszugleichen. (Sichern Sie den Boden mit rutschfesten Matten, damit die Katze beim Sitzen nicht wegrutscht und die Hüfte belastet.)
 
-* Zögern vor Sprüngen: Wiederholtes Hin- und Herlaufen oder langes Hinaufsehen vor einem Sprung deutet auf Gelenkschmerzen hin. (Zwingen Sie die Katze nicht zum Springen. Stellen Sie Tiertreppen auf und lassen Sie die Gelenke tierärztlich untersuchen.)"
+* Zögern vor Sprüngen oder Verzicht: Wiederholtes Hin- und Herlaufen oder langes Hinaufsehen vor einem Sprung deutet auf Gelenkschmerzen hin. (Zwingen Sie die Katze nicht zum Springen. Stellen Sie Tiertreppen auf und lassen Sie die Gelenke tierärztlich untersuchen.)"
   - name: "Customized 3-Step Home Care Routine"
     text: "* STEP 1. Morgen: Gangbild- und Mobilitätskontrolle: Beobachten Sie das Dehnungsverhalten nach dem Aufstehen. Achten Sie auf steifen Gang oder Schonen eines Beins.
 
@@ -54,18 +54,18 @@ Munchkin-Katzen sind berühmt für ihr liebenswertes Wesen und ihre kurzen Beine
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Munchkin-Körpersprache: Känguru-Stand und Zögern vor Sprüngen</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Aufgrund ihrer kurzen Beine zeigen Munchkins ein besonderes Verhalten. Um eine bessere Aussicht zu haben, richten sie sich oft auf den Hinterbeinen auf ('Känguru-Stand'). Das Zögern oder die Weigerung, auf niedrige Möbel zu springen, ist jedoch ein ernstes Warnzeichen für Gelenkschmerzen.
+    Aufgrund ihrer kurzen Beine zeigen Munchkins ein besonderes Verhalten. Um eine bessere Aussicht zu haben, richten sie sich oft auf den Hinterbeinen auf 'Känguru-Stand' (Kangaroo Standing). Das 'Zögern oder Verzichten auf Sprünge' auf niedrige Möbel ist jedoch ein ernstes Warnzeichen für Gelenkschmerzen.
   </p>
 </div>
 
 ---
 
-## 2. Munchkin-Katze's Body Language & Signals
+## 2. Munchkin-Katze (Felis catus)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Körpersignal 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Känguru-Stand</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Känguru-Stand (Kangaroo Standing)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• Bedeutung:</strong> Aufrechtes Sitzen auf den Hinterbeinen. Ein natürliches Verhalten, um die geringe Körperhöhe beim Umschauen auszugleichen.<br/>
@@ -76,7 +76,7 @@ Munchkin-Katzen sind berühmt für ihr liebenswertes Wesen und ihre kurzen Beine
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Körpersignal 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Zögern vor Sprüngen</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Zögern vor Sprüngen oder Verzicht</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• Bedeutung:</strong> Wiederholtes Hin- und Herlaufen oder langes Hinaufsehen vor einem Sprung deutet auf Gelenkschmerzen hin.<br/>

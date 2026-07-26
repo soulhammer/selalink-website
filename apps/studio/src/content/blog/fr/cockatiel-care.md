@@ -5,18 +5,18 @@ description: "Guide complet pour la Calopsitte élégante. Décodez la huppe, pr
 pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Calopsitte Élégante (Cockatiel)"]
+tags: ["SoinAnimaux","SanteAnimaux","Calopsitte Élégante (Nymphicus hollandicus / Cockatiel)"]
 heroImage: "/images/blog/cockatiel_care.png"
 app: "petself"
 formatVersion: 4
 authority: "Association of Avian Veterinarians (AAV) & Normes de Comportement Aviaire"
 steps:
-  - name: "Communication de la Calopsitte: Signification de la Huppe et Demand de Gratouilles"
+  - name: "Communication de la Calopsitte: Signification de la Huppe et Demande de Gratouilles"
     text: "La huppe est une véritable antenne émotionnelle. Dressée verticalement, elle traduit l'alerte; penchée en avant avec la tête baissée, elle demande de l'affection."
-  - name: "Calopsitte Élégante (Cockatiel)'s Body Language & Signals"
+  - name: "Calopsitte Élégante (Nymphicus hollandicus / Cockatiel)'s Body Language & Signals"
     text: "* Huppe Complètement Dressée (Fully Erect Crest): Vigilance accrue ou curiosité vive face à un bruit ou un objet nouveau. (Parlez doucement et évitez les gestes brusques pour la rassurer.)
 
-* Tête Baissée vers l'Avant (Head Lowering): Marque de confiance totale sollicitant des gratouilles sur les joues et la nappe de la huppe. (Grattez doucement la base de la huppe à rebrousse-poil.)"
+* Tête Baissée vers l'Avant (Head Lowering for Scratches): Marque de confiance totale sollicitant des gratouilles sur les joues et la base de la huppe. (Grattez doucement la base de la huppe à rebrousse-poil.)"
   - name: "Customized 3-Step Home Care Routine"
     text: "* STEP 1. Matin: Aération, Inspection du Plumage et Extrudés Frais: Découvrez la cage, renouvelez l'eau et les granulés et vérifiez la vitalité de l'oiseau.
 
@@ -46,12 +46,12 @@ Reconnue pour ses joues oranges et sa huppe expressive, la Calopsitte est un ois
 
 ---
 
-## 1. Communication de la Calopsitte: Signification de la Huppe et Demand de Gratouilles
+## 1. Communication de la Calopsitte: Signification de la Huppe et Demande de Gratouilles
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Communication de la Calopsitte: Signification de la Huppe et Demand de Gratouilles</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Communication de la Calopsitte: Signification de la Huppe et Demande de Gratouilles</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     La huppe est une véritable antenne émotionnelle. Dressée verticalement, elle traduit l'alerte; penchée en avant avec la tête baissée, elle demande de l'affection.
@@ -60,7 +60,7 @@ Reconnue pour ses joues oranges et sa huppe expressive, la Calopsitte est un ois
 
 ---
 
-## 2. Calopsitte Élégante (Cockatiel)'s Body Language & Signals
+## 2. Calopsitte Élégante (Nymphicus hollandicus / Cockatiel)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -76,10 +76,10 @@ Reconnue pour ses joues oranges et sa huppe expressive, la Calopsitte est un ois
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Signal Corporel 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tête Baissée vers l'Avant (Head Lowering)</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tête Baissée vers l'Avant (Head Lowering for Scratches)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Signification:</strong> Marque de confiance totale sollicitant des gratouilles sur les joues et la nappe de la huppe.<br/>
+    <strong>• Signification:</strong> Marque de confiance totale sollicitant des gratouilles sur les joues et la base de la huppe.<br/>
     <strong>• Reponse:</strong> Grattez doucement la base de la huppe à rebrousse-poil.
   </p>
 </div>

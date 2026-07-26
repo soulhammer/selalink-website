@@ -1,22 +1,22 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "波斯猫长毛护理：呵护毛发与眼部泪痕的日常3步惯例"
-description: "拥有优雅毛发的波斯猫。介绍一套预防因泪水引起的脸部皮肤炎以及防止双层长毛缠结的日常3步护理惯例。"
+title: "波斯猫长毛护理：呵护毛发与眼部泪痕的3步日常护理流程"
+description: "拥有优雅毛发的波斯猫。介绍一套预防因泪水引起的脸部皮肤炎以及防止双层长毛缠结的3步日常护理流程。"
 pubDate: "2026-06-05"
 updatedDate: "2026-06-05"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","波斯猫"]
+tags: ["宠物护理","宠物健康","波斯猫 (Felis catus / Persian Cat)"]
 heroImage: "/images/blog/persian_care.png"
 app: "petself"
 formatVersion: 4
 authority: "CFA 波斯猫品种指南与 AAFP 兽医学标准"
 steps:
   - name: "波斯猫的身体语言：眼与耳的无声信号"
-    text: "波斯猫表达情感非常安静，因此很难察觉其压力状态。虽然它们在心情好时会用半眯着眼凝视（Blinking slowly）的方式表达爱意，但如果出现双耳向两侧平躺的“飞机耳”，则是严重的拒绝或不适信号。在急躁地梳理其面部毛发或粗暴触碰眼周褶皱时，常常能看到这种身体动作。"
-  - name: "波斯猫's Body Language & Signals"
+    text: "波斯猫表达情感非常安静，因此很难察觉其压力状态。虽然它们在心情好时会用半眯着眼凝视 （Half-Closed Eyes） 的方式表达爱意，但如果出现双耳向两侧平躺的 “飞机耳（Airplane Ears）”，则是严重的拒绝或不适信号。在急躁地梳理其面部毛发或粗暴触碰眼周褶皱时，常常能看到这种身体动作。"
+  - name: "波斯猫 (Felis catus / Persian Cat)'s Body Language & Signals"
     text: "* 半眯着眼 (Half-Closed Eyes): 对家长深切的信任，以及表达对当前状态非常满意和放松的和平信息。 (通过缓慢眨眼（猫咪式眼部问候）进行回应，并用温柔的声音回应这份信任。)
 
-* 飞机耳 (Airplane Ears): 因过度梳理拉扯毛根引起疼痛，或因周围噪音感到紧张、敏感的不适表达。 (应立即停止梳毛或触碰，给猫咪留出空间，让其在没有噪音和打扰的地方恢复平静。)"
+* 飞机耳 (Airplane Ears): 因过度梳理拉扯毛根引起疼痛，或因周围噪音感到紧张、敏感的不适表达。 (应立即停止梳毛或触碰，给猫咪留出空间，让其在没有噪音的地方恢复平静。)"
   - name: "Customized 3-Step Home Care Routine"
     text: "* STEP 1. 早晨：扁脸眼鼻褶皱清洁与泪痕擦拭: 在早晨易流泪的时间段，使用温水浸湿的专用清洁液或无菌纱布轻轻擦拭鼻部周围的面部褶皱，以预防泪水引起的红色酵母菌皮肤炎。
 
@@ -30,7 +30,7 @@ faqs:
     answer: "扁脸波斯猫的鼻部周围有深深的褶皱。如果泪水在此积聚，会阻断氧气，滋生细菌和酵母菌，从而导致异味和皮肤坏死性发炎。"
 ---
 
-波斯猫拥有浓密的毛发和扁平可爱的脸庞，性格温和且安静，是非常适合室内饲养的代表性猫咪。然而，扁平的面部结构导致它们经常流泪，眼鼻周围的褶皱处极易积攒污垢。此外，细密且容易缠结的双层长毛一旦结块，会拉扯皮肤引起剧烈疼痛，并阻碍空气流通导致皮肤炎。今天，PetSelf 将教您如何读懂波斯猫隐秘的眼部与毛发压力信号，并分享日常预防的3步家庭护理惯例。
+波斯猫拥有浓密的毛发和扁平可爱的脸庞，性格温和且安静，是非常适合室内饲养的代表性猫咪。然而，扁平的面部结构导致它们经常流泪，眼鼻周围的褶皱处极易积攒污垢。此外，细密且容易缠结的双层长毛一旦结块，会拉扯皮肤引起剧烈疼痛，并阻碍空气流通导致皮肤炎。今天 PetSelf 将带您解读波斯猫隐秘的眼部与毛发压力信号，并分享日常预防的3步家庭护理流程。
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -54,13 +54,13 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">波斯猫的身体语言：眼与耳的无声信号</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    波斯猫表达情感非常安静，因此很难察觉其压力状态。虽然它们在心情好时会用半眯着眼凝视（Blinking slowly）的方式表达爱意，但如果出现双耳向两侧平躺的“飞机耳”，则是严重的拒绝或不适信号。在急躁地梳理其面部毛发或粗暴触碰眼周褶皱时，常常能看到这种身体动作。
+    波斯猫表达情感非常安静，因此很难察觉其压力状态。虽然它们在心情好时会用半眯着眼凝视 （Half-Closed Eyes） 的方式表达爱意，但如果出现双耳向两侧平躺的 “飞机耳（Airplane Ears）”，则是严重的拒绝或不适信号。在急躁地梳理其面部毛发或粗暴触碰眼周褶皱时，常常能看到这种身体动作。
   </p>
 </div>
 
 ---
 
-## 2. 波斯猫's Body Language & Signals
+## 2. 波斯猫 (Felis catus / Persian Cat)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -80,7 +80,7 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 因过度梳理拉扯毛根引起疼痛，或因周围噪音感到紧张、敏感的不适表达。<br/>
-    <strong>•  national:</strong> 应立即停止梳毛或触碰，给猫咪留出空间，让其在没有噪音和打扰的地方恢复平静。
+    <strong>•  national:</strong> 应立即停止梳毛或触碰，给猫咪留出空间，让其在没有噪音的地方恢复平静。
   </p>
 </div>
 

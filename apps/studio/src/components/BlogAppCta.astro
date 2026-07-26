@@ -3,7 +3,7 @@ import { useTranslations, languages } from '../i18n/ui';
 
 interface Props {
   lang: string;
-  app: 'freshsnap' | 'freshself' | 'buildself' | 'logself' | 'general' | 'petself';
+  app: string;
 }
 
 const { lang, app } = Astro.props;
@@ -80,7 +80,7 @@ const appDetails = {
   }
 };
 
-const activeDetails = appDetails[app] || appDetails.general;
+const activeDetails = (appDetails as Record<string, any>)[app] || appDetails.general;
 
 // 앱 테마에 어울리는 글로우 스타일 변수 주입
 const styleVars = app === 'freshsnap'

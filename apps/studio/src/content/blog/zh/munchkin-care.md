@@ -1,22 +1,22 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "曼基康矮脚猫关节保护指南与低空间3阶段日常流程"
-description: "针对短腿曼基康猫（ Munchkin ）的护理。学习识别其早期关节疼痛信号，并通过低矮空间的3阶段日常流程守护其关节健康。"
+title: "曼基康矮脚猫关节保护指南与低空间3阶段日常护理流程"
+description: "短腿曼基康猫的护理方法。学习识别关节异常信号，并通过低空间日常护理流程预防关节炎与脊柱椎间盘疾病。"
 pubDate: "2026-05-31"
 updatedDate: "2026-05-31"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","曼基康猫 (Munchkin Cat)"]
+tags: ["宠物护理","宠物健康","曼基康猫 (Felis catus / Munchkin Cat)"]
 heroImage: "/images/blog/munchkin_care.png"
 app: "petself"
 formatVersion: 4
 authority: "爱猫者协会 (CFA) 曼基康猫品种标准与兽医骨科健康指导原则"
 steps:
-  - name: "矮脚猫的情感表达： kangaroo 站立与跳跃踌躇"
-    text: "四肢偏短的曼基康猫拥有特殊的行为习惯。它们经常会像兔子一样仅用后肢和臀部支撑站立，被称为“袋鼠站立”，这是出于好奇观察环境。然而，如果它们在跳向平日轻松跨越的矮凳前表现出反复犹豫或最终放弃，这是关节受损的警告信号。"
-  - name: "曼基康猫 (Munchkin Cat)'s Body Language & Signals"
-    text: "* 袋鼠式站立 (Kangaroo Standing): 仅靠后肢站立并将前爪收起。这是为了弥补身高不足、扩大视野的自然习性。 (确保站立区域的地板铺有防滑垫，防止其在后坐时打滑导致髋关节受压。)
+  - name: "矮脚猫的情感表达：袋鼠站立与跳跃踌躇"
+    text: "四肢偏短的曼基康猫拥有特殊的行为习惯。它们经常会像兔子一样仅用后肢和臀部支撑站立，被称为 “袋鼠站立（Kangaroo Standing）”，这是出于好奇观察环境。然而，如果它们在跳向平日轻松跨越的矮凳前表现出 “反复犹豫或最终放弃”，这是关节受损的明确警告信号。"
+  - name: "曼基康猫 (Felis catus / Munchkin Cat)'s Body Language & Signals"
+    text: "* 袋鼠式站立 (Kangaroo Standing): 仅靠后肢和臀部站立并将前爪收起，是为了弥补身高不足、扩大视野的自然姿态。 (确保站立区域的地板铺有防滑垫，防止其在后坐时打滑导致髋关节受压。)
 
-* 跳跃前反复踌躇: 在跳跃前不停挪动脚步或抬头测量，说明脊椎或后肢关节正处于酸痛状态。 (切勿强迫其跳跃，在其常去的高处（如床、沙发）摆放宠物踏板，并寻求兽医帮助。)"
+* 跳跃前反复踌躇或放弃: 在跳跃前不停挪动脚步或抬头测量，说明脊椎或后肢关节正处于酸痛状态。 (切勿强迫其跳跃，在其常去的高处（如床、沙发）摆放宠物台阶或斜坡，若症状持续请寻求兽医帮助。)"
   - name: "Customized 3-Step Home Care Routine"
     text: "* STEP 1. 早上：观察步态与关节舒展状况: 观察其起床伸懒腰时的姿态。注意步伐是否有跛行或僵硬感，特别是降温天气。
 
@@ -46,21 +46,21 @@ faqs:
 
 ---
 
-## 1. 矮脚猫的情感表达： kangaroo 站立与跳跃踌躇
+## 1. 矮脚猫的情感表达：袋鼠站立与跳跃踌躇
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">矮脚猫的情感表达： kangaroo 站立与跳跃踌躇</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">矮脚猫的情感表达：袋鼠站立与跳跃踌躇</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    四肢偏短的曼基康猫拥有特殊的行为习惯。它们经常会像兔子一样仅用后肢和臀部支撑站立，被称为“袋鼠站立”，这是出于好奇观察环境。然而，如果它们在跳向平日轻松跨越的矮凳前表现出反复犹豫或最终放弃，这是关节受损的警告信号。
+    四肢偏短的曼基康猫拥有特殊的行为习惯。它们经常会像兔子一样仅用后肢和臀部支撑站立，被称为 “袋鼠站立（Kangaroo Standing）”，这是出于好奇观察环境。然而，如果它们在跳向平日轻松跨越的矮凳前表现出 “反复犹豫或最终放弃”，这是关节受损的明确警告信号。
   </p>
 </div>
 
 ---
 
-## 2. 曼基康猫 (Munchkin Cat)'s Body Language & Signals
+## 2. 曼基康猫 (Felis catus / Munchkin Cat)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -68,7 +68,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">袋鼠式站立 (Kangaroo Standing)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• 含义:</strong> 仅靠后肢站立并将前爪收起。这是为了弥补身高不足、扩大视野的自然习性。<br/>
+    <strong>• 含义:</strong> 仅靠后肢和臀部站立并将前爪收起，是为了弥补身高不足、扩大视野的自然姿态。<br/>
     <strong>•  national:</strong> 确保站立区域的地板铺有防滑垫，防止其在后坐时打滑导致髋关节受压。
   </p>
 </div>
@@ -76,11 +76,11 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">肢体信号 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">跳跃前反复踌躇</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">跳跃前反复踌躇或放弃</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 在跳跃前不停挪动脚步或抬头测量，说明脊椎或后肢关节正处于酸痛状态。<br/>
-    <strong>•  national:</strong> 切勿强迫其跳跃，在其常去的高处（如床、沙发）摆放宠物踏板，并寻求兽医帮助。
+    <strong>•  national:</strong> 切勿强迫其跳跃，在其常去的高处（如床、沙发）摆放宠物台阶或斜坡，若症状持续请寻求兽医帮助。
   </p>
 </div>
 

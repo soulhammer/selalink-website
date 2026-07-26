@@ -1,7 +1,7 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "Beagle Energie- und Angstpflege: 3-Schritte-Routine bei Trennungsangst und für Ohrengesundheit"
-description: "Beagles sind neugierige Jagdhunde mit viel Energie. Lernen Sie eine 3-Schritte-Routine kennen, um ihren Schnüffeltrieb zu stillen, Angst zu lindern und Ohrenentzündungen vorzubeugen."
+title: "Beagle Energie- & Angstpflege: 3-Schritte-Tagesroutine bei Trennungsangst und für die Ohrengesundheit"
+description: "Beagles sind neugierige Laufhunde mit enormer Energie. Lernen Sie eine 3-Schritte-Tagesroutine kennen, um ihren Schnüffeltrieb zu stillen, Trennungsangst zu lindern und Ohrenentzündungen vorzubeugen."
 pubDate: "2026-02-28"
 updatedDate: "2026-03-01"
 category: "FreshSelf"
@@ -9,28 +9,28 @@ tags: ["Haustierpflege","Haustiergesundheit","Beagle"]
 heroImage: "/images/blog/beagle_care.png"
 app: "petself"
 formatVersion: 4
-authority: "Offizielles AKC-Beagle-Handbuch und IAABC-Schnüffelprotokolle"
+authority: "Offizieller AKC-Rassestandard für Beagles & IAABC-Schnüffelverhaltensprotokolle"
 steps:
-  - name: "Körpersprache des Beagles: Schnüffeltrieb und Bedeutung des Jaulens"
-    text: "Wenn sie sich auf Düfte konzentrieren, zeigen Beagles ein 'Schnüffelverhalten' und ignorieren ihre Umgebung. Dagegen ist das 'Jaulen' bei Einsamkeit ein Zeichen von Trennungsangst. Das Verständnis dieser Signale ist der Schlüssel zu ihrer Beruhigung."
+  - name: "Körpersprache des Beagles: Schnüffeltrieb und die Bedeutung des Jaulens"
+    text: "Wenn Beagles intensiv einem Geruch folgen, drücken sie die Nase auf den Boden und marschieren vorwärts ('Ground-Tracking'), wobei sie Umgebungsgeräusche ausblenden. Das 'Jaulen' bei Einsamkeit oder Unterforderung ist hingegen ein klassischer Ausdruck von Trennungsangst und Unruhe. Das Erkennen dieser zwei Signale ist der Schlüssel zu einem ausgeglichenen Beagle."
   - name: "Beagle's Body Language & Signals"
-    text: "* Schnüffeltrieb: Ein normaler Erregungszustand, während sie die Welt erkunden und Jagdenergie abbauen. (Ziehen Sie nicht an der Leine; lassen Sie sie schnüffeln und die Fährte erkunden, um ihren Trieb zu befriedigen.)
+    text: "* Fährtenverfolgung am Boden (Ground-Tracking): Ein normaler Zustand erhöhter Stimulation, bei dem der Hund seine Umwelt über die Nase erkundet und Jagdhund-Energie abbaut. (Rucken Sie nicht an der Leine; geben Sie ihm Zeit, die Geruchsspur sicher zu erkunden, um sein geistiges Bedürfnis zu befriedigen.)
 
-* Jaulen: Ein Ausdruck von Angst und Aufmerksamkeitsforderung, verursacht durch Einsamkeit oder Langeweile. (Schelten Sie sie nicht. Bieten Sie stattdessen Schnüffelspiele im Haus an und sorgen Sie für ausreichend Auslauf.)"
+* Jaulen (Howling): Ein Ausdruck von Angst, Einsamkeit, Langeweile oder ungenutzter Energie, um Aufmerksamkeit und Erleichterung zu suchen. (Vermeiden Sie Bestrafung. Bekämpfen Sie die Ursache durch mehr körperliche Auslastung und Schnüffelspiele im Haus.)"
   - name: "Customized 3-Step Home Care Routine"
-    text: "* STEP 1. Morgen: Leckerli-Suche im Haus und Schnüffelspiel: Verstecken Sie nach dem Frühstück Leckerlis in Pappbechern im Haus, um ihren Jagdtrieb zu befriedigen und sie geistig auszulasten.
+    text: "* STEP 1. Morgen: Leckerli-Suchspiel im Haus (Nosework): Verstecken Sie nach dem Frühstück Futter in Pappbechern oder im Raum, um den scharfen Geruchssinn zu fordern und geistige Energie abzubauen.
 
-* STEP 2. Nachmittag: Über 40-minütiger Fährten-Spaziergang an der frischen Luft: Planen Sie täglich einen mindestens 40-minütigen Spaziergang ein. Lassen Sie sie frei schnüffeln, um Stress abzubauen.
+* STEP 2. Nachmittag: 40+ Minuten aktiver Fährten-Spaziergang: Sorgen Sie für mindestens 40 Minuten Auslauf täglich. Lassen Sie ihn Gras und Wege frei beschnüffeln, um körperliche Energie freizusetzen.
 
-* STEP 3. Abend: Belüftung der Schlappohren und Reinigung zweimal pro Woche: Da ihre Schlappohren die Belüftung behindern, klappen Sie sie kurz um und reinigen Sie sie zweimal wöchentlich mit Ohrenreiniger."
+* STEP 3. Abend: Belüftung des Gehörgangs & Ohrenreinigung zweimal pro Woche: Klappen Sie die Schlappohren abends kurz nach hinten, damit Luft in den Gehörgang gelangt, und reinigen Sie sie zweimal wöchentlich mit einem Ohrreiniger."
 faqs:
-  - question: "Wie kann ich das Jaulen meines Beagles verhindern?"
-    answer: "Jaulen wird durch Einsamkeitsangst und ungenutzte Energie verursacht. Mehr Auslauf und Schnüffelspiele zur geistigen Erschöpfung sind die beste Vorbeugung."
-  - question: "Warum entzünden sich die Schlappohren von Beagles so leicht?"
-    answer: "Schlappohren blockieren den Luftstrom im Gehörgang, was ein feuchtwarmes Milieu für Hefepilze schafft. Wöchentliche Belüftung ist wichtig."
+  - question: "Wie kann ich verhindern, dass mein Beagle jault?"
+    answer: "Jaulen entsteht meist durch Isolationsangst und aufgestaute Energie. Die Kombination aus täglichen Schnüffel-Spaziergängen und Intelligenz-Suchspielen lastet den Hund geistig aus, schenkt ihm Sicherheit und reduziert das Jaulen."
+  - question: "Warum sind die Schlappohren des Beagles so anfällig für Ohrenentzündungen?"
+    answer: "Die schweren Hängeohren verschließen den Gehörgang, sodass ein warmes, feuchtes Klima entsteht, in dem sich Hefepilze (Malassezien) und Bakterien schnell vermehren. Regelmäßige Belüftung und Pflege sind daher essenziell."
 ---
 
-Mit ihren großen Schlappohren und der fröhlichen Rute sind Beagles historische Jagdhunde. Sie sind zwar freundlich, haben aber eine ausgeprägte Neugier und einen starken Schnüffeltrieb. Ohne Auslastung entwickeln sie Trennungsangst (Jaulen, Zerstörung). Zudem sind ihre Schlappohren anfällig für Ohrenentzündungen. Heute stellt PetSelf eine 3-Schritte-Routine vor.
+Beliebt für ihre großen Schlappohren und die fröhlich wackelnde weiße Rutenspitze, sind Beagles historische Meutehunde, die seit Jahrhunderten mit dem Menschen arbeiten. Obwohl sie sehr freundlich und anpassungsfähig sind, besitzen sie eine ausgeprägte Neugier und einen starken Trieb zur Fährtenarbeit. Wenn diese Energie nicht abgebaut wird, entwickeln sie leicht Trennungsangst, die sich in laustarkem Jaulen und Zerstörungswut äußert. Zudem begünstigen die Hängeohren ein feuchtwarmes Milieu für Hefepilz-Infektionen im Ohr. Heute erklärt PetSelf die Körpersprache des Beagles und stellt eine 3-Schritte-Routine vor.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -39,22 +39,22 @@ Mit ihren großen Schlappohren und der fröhlichen Rute sind Beagles historische
       Veterinärmedizinische & verhaltensbedingte Nachweise
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Dieser Inhalt basiert auf <strong>Offizielles AKC-Beagle-Handbuch und IAABC-Schnüffelprotokolle</strong>.
+      Dieser Inhalt basiert auf <strong>Offizieller AKC-Rassestandard für Beagles & IAABC-Schnüffelverhaltensprotokolle</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 1. Körpersprache des Beagles: Schnüffeltrieb und Bedeutung des Jaulens
+## 1. Körpersprache des Beagles: Schnüffeltrieb und die Bedeutung des Jaulens
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Körpersprache des Beagles: Schnüffeltrieb und Bedeutung des Jaulens</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Körpersprache des Beagles: Schnüffeltrieb und die Bedeutung des Jaulens</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Wenn sie sich auf Düfte konzentrieren, zeigen Beagles ein 'Schnüffelverhalten' und ignorieren ihre Umgebung. Dagegen ist das 'Jaulen' bei Einsamkeit ein Zeichen von Trennungsangst. Das Verständnis dieser Signale ist der Schlüssel zu ihrer Beruhigung.
+    Wenn Beagles intensiv einem Geruch folgen, drücken sie die Nase auf den Boden und marschieren vorwärts ('Ground-Tracking'), wobei sie Umgebungsgeräusche ausblenden. Das 'Jaulen' bei Einsamkeit oder Unterforderung ist hingegen ein klassischer Ausdruck von Trennungsangst und Unruhe. Das Erkennen dieser zwei Signale ist der Schlüssel zu einem ausgeglichenen Beagle.
   </p>
 </div>
 
@@ -65,22 +65,22 @@ Mit ihren großen Schlappohren und der fröhlichen Rute sind Beagles historische
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Körpersignal 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Schnüffeltrieb</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Fährtenverfolgung am Boden (Ground-Tracking)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Bedeutung:</strong> Ein normaler Erregungszustand, während sie die Welt erkunden und Jagdenergie abbauen.<br/>
-    <strong>• Reaktion:</strong> Ziehen Sie nicht an der Leine; lassen Sie sie schnüffeln und die Fährte erkunden, um ihren Trieb zu befriedigen.
+    <strong>• Bedeutung:</strong> Ein normaler Zustand erhöhter Stimulation, bei dem der Hund seine Umwelt über die Nase erkundet und Jagdhund-Energie abbaut.<br/>
+    <strong>• Reaktion:</strong> Rucken Sie nicht an der Leine; geben Sie ihm Zeit, die Geruchsspur sicher zu erkunden, um sein geistiges Bedürfnis zu befriedigen.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Körpersignal 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Jaulen</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Jaulen (Howling)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Bedeutung:</strong> Ein Ausdruck von Angst und Aufmerksamkeitsforderung, verursacht durch Einsamkeit oder Langeweile.<br/>
-    <strong>• Reaktion:</strong> Schelten Sie sie nicht. Bieten Sie stattdessen Schnüffelspiele im Haus an und sorgen Sie für ausreichend Auslauf.
+    <strong>• Bedeutung:</strong> Ein Ausdruck von Angst, Einsamkeit, Langeweile oder ungenutzter Energie, um Aufmerksamkeit und Erleichterung zu suchen.<br/>
+    <strong>• Reaktion:</strong> Vermeiden Sie Bestrafung. Bekämpfen Sie die Ursache durch mehr körperliche Auslastung und Schnüffelspiele im Haus.
   </p>
 </div>
 
@@ -91,30 +91,30 @@ Mit ihren großen Schlappohren und der fröhlichen Rute sind Beagles historische
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Morgen: Leckerli-Suche im Haus und Schnüffelspiel</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Morgen: Leckerli-Suchspiel im Haus (Nosework)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Verstecken Sie nach dem Frühstück Leckerlis in Pappbechern im Haus, um ihren Jagdtrieb zu befriedigen und sie geistig auszulasten.
+    Verstecken Sie nach dem Frühstück Futter in Pappbechern oder im Raum, um den scharfen Geruchssinn zu fordern und geistige Energie abzubauen.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Nachmittag: Über 40-minütiger Fährten-Spaziergang an der frischen Luft</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Nachmittag: 40+ Minuten aktiver Fährten-Spaziergang</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Planen Sie täglich einen mindestens 40-minütigen Spaziergang ein. Lassen Sie sie frei schnüffeln, um Stress abzubauen.
+    Sorgen Sie für mindestens 40 Minuten Auslauf täglich. Lassen Sie ihn Gras und Wege frei beschnüffeln, um körperliche Energie freizusetzen.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Abend: Belüftung der Schlappohren und Reinigung zweimal pro Woche</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Abend: Belüftung des Gehörgangs & Ohrenreinigung zweimal pro Woche</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Da ihre Schlappohren die Belüftung behindern, klappen Sie sie kurz um und reinigen Sie sie zweimal wöchentlich mit Ohrenreiniger.
+    Klappen Sie die Schlappohren abends kurz nach hinten, damit Luft in den Gehörgang gelangt, und reinigen Sie sie zweimal wöchentlich mit einem Ohrreiniger.
   </p>
 </div>
 
@@ -129,21 +129,21 @@ Mit ihren großen Schlappohren und der fröhlichen Rute sind Beagles historische
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Wie kann ich das Jaulen meines Beagles verhindern?</span>
+      <span>Wie kann ich verhindern, dass mein Beagle jault?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Jaulen wird durch Einsamkeitsangst und ungenutzte Energie verursacht. Mehr Auslauf und Schnüffelspiele zur geistigen Erschöpfung sind die beste Vorbeugung.
+      Jaulen entsteht meist durch Isolationsangst und aufgestaute Energie. Die Kombination aus täglichen Schnüffel-Spaziergängen und Intelligenz-Suchspielen lastet den Hund geistig aus, schenkt ihm Sicherheit und reduziert das Jaulen.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Warum entzünden sich die Schlappohren von Beagles so leicht?</span>
+      <span>Warum sind die Schlappohren des Beagles so anfällig für Ohrenentzündungen?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Schlappohren blockieren den Luftstrom im Gehörgang, was ein feuchtwarmes Milieu für Hefepilze schafft. Wöchentliche Belüftung ist wichtig.
+      Die schweren Hängeohren verschließen den Gehörgang, sodass ein warmes, feuchtes Klima entsteht, in dem sich Hefepilze (Malassezien) und Bakterien schnell vermehren. Regelmäßige Belüftung und Pflege sind daher essenziell.
     </p>
   </details>
 </div>

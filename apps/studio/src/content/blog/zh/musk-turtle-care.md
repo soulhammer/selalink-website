@@ -1,26 +1,26 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "密西西比泥龟的伸腿日光浴与水质过滤3阶段流程"
+title: "密西西比泥龟的伸腿日光浴与水质过滤3阶段日常护理流程"
 description: "护理最常作为宠物饲养的半水生龟——密西西比泥龟（小香龟）。了解其日光浴期间伸展后腿的行为意义，并通过3阶段水质过滤指南防范甲壳疾病。"
 pubDate: "2026-04-03"
 updatedDate: "2026-04-03"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","密西西比泥龟 (Common Musk Turtle)"]
+tags: ["宠物护理","宠物健康","密西西比泥龟 (Sternotherus odoratus / Common Musk Turtle)"]
 heroImage: "/images/blog/musk_turtle_care.png"
 app: "petself"
 formatVersion: 4
 authority: "World Chelonian Association 乌龟卫生指南及半水生龟饲养兽医指南"
 steps:
   - name: "密西西比泥龟的情感表达：伸展后腿与甲壳回缩防卫"
-    text: "密西西比泥龟爬上陆地并完全安心地享受阳光时，会摆出“陆地上伸展后腿(Back-Leg Stretching)”的姿势以增大会体表面积。相反，当察觉到突然的黑影或异常震动时，会快速做出“身体回缩(Shell Retraction)”动作，将头和四肢藏进坚硬的壳中以保护自己。"
-  - name: "密西西比泥龟 (Common Musk Turtle)'s Body Language & Signals"
+    text: "密西西比泥龟爬上陆地并完全安心地享受阳光时，会摆出 “陆地上伸展后腿（Back-Leg Stretching）” 的姿势以增大体表面积。相反，当察觉到突然的黑影或异常震动时，会快速做出 “身体回缩（Shell Retraction）” 动作，将头和四肢藏进坚硬的壳中以保护自己。"
+  - name: "密西西比泥龟 (Sternotherus odoratus / Common Musk Turtle)'s Body Language & Signals"
     text: "* 陆地伸展后腿 (Back-Leg Stretching): 在UV灯下放松身心、吸收热量以提高体温的放松状态。 (避免突然靠近惊吓它们使其跳回水中，保持距离并检查日光浴专用灯的温度和强度。)
 
 * 身体缩回甲壳中 (Shell Retraction): 受到从上方俯视的手、阴影或水流波动的惊吓而逃入壳中的警戒状态。 (请勿在水族箱前急促移动，退后并耐心等待其重新探出头来。)"
   - name: "Customized 3-Step Home Care Routine"
     text: "* STEP 1. 早上：水温25 ~ 28°C点检与营养均衡饲料供给: 为确保其活跃的代谢功能，检查加热棒水温，并根据年龄适量喂食乌龟专用料。
 
-* STEP 2. 白天：检查UV-B及加热射灯是否正常运行: If 缺乏维生素D，极易患上代谢性骨病（MBD）导致骨骼变软，因此需确认日光浴陆地用灯具是否亮起。
+* STEP 2. 中午：检查UV-B及加热射灯是否正常运行: 如果缺乏维生素D，极易患上代谢性骨病（MBD）导致骨骼变软，因此需确认日光浴陆地用灯具是否亮起。
 
 * STEP 3. 晚上：吸取残留杂质与每周部分换水: 在排泄物增多的时期，用滴管吸走残渣并清洗过滤器，每周换掉大约30%的水质。"
 faqs:
@@ -30,7 +30,7 @@ faqs:
     answer: "随着乌龟的成长，旧甲壳的碎片会以透明、薄板状自然脱落，这被称为“蜕甲”，是完全正常的发育过程。但如果出现白色粘液、甲壳变软并伴有恶臭，可能是细菌感染性甲壳腐烂病，需送医治疗。"
 ---
 
-密西西比泥龟（又称小香龟）因体型小巧、不需要大型水族箱而非常适合初学者，是一种生命力顽强的半水生龟品种。虽然它们的大部分时间都在水中度过，但为了甲壳杀菌、维生素D合成以及维持体温，定期在陆地上进行日光浴是绝对必需的。如果缺乏日光浴，或是在不进行过滤器维护的浑浊水中生活，极易患上甲壳腐烂病（Shell Rot），给健康带来严重威胁。今天，PetSelf 将教您观察泥龟的肢体语言和日光浴放松信号，并学习维持水质和甲壳健康的3阶段管理法。
+密西西比泥龟（又称小香龟）因体型小巧、不需要大型水族箱而非常适合初学者，是一种生命力顽强的半水生龟品种。虽然它们的大部分时间都在水中度过，但为了甲壳杀菌、维生素D合成以及维持体温，定期在陆地上进行日光浴是绝对必需的。如果缺乏日光浴，或是在不进行过滤器维护的浑浊水中生活，极易患上甲壳腐烂病（Shell Rot），给健康带来严重威胁。今天 PetSelf 将教您观察泥龟的肢体语言和日光浴放松信号，并学习维持水质和甲壳健康的3阶段日常护理流程。
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -54,13 +54,13 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">密西西比泥龟的情感表达：伸展后腿与甲壳回缩防卫</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    密西西比泥龟爬上陆地并完全安心地享受阳光时，会摆出“陆地上伸展后腿(Back-Leg Stretching)”的姿势以增大会体表面积。相反，当察觉到突然的黑影或异常震动时，会快速做出“身体回缩(Shell Retraction)”动作，将头和四肢藏进坚硬的壳中以保护自己。
+    密西西比泥龟爬上陆地并完全安心地享受阳光时，会摆出 “陆地上伸展后腿（Back-Leg Stretching）” 的姿势以增大体表面积。相反，当察觉到突然的黑影或异常震动时，会快速做出 “身体回缩（Shell Retraction）” 动作，将头和四肢藏进坚硬的壳中以保护自己。
   </p>
 </div>
 
 ---
 
-## 2. 密西西比泥龟 (Common Musk Turtle)'s Body Language & Signals
+## 2. 密西西比泥龟 (Sternotherus odoratus / Common Musk Turtle)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -101,10 +101,10 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">白天：检查UV-B及加热射灯是否正常运行</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">中午：检查UV-B及加热射灯是否正常运行</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    If 缺乏维生素D，极易患上代谢性骨病（MBD）导致骨骼变软，因此需确认日光浴陆地用灯具是否亮起。
+    如果缺乏维生素D，极易患上代谢性骨病（MBD）导致骨骼变软，因此需确认日光浴陆地用灯具是否亮起。
   </p>
 </div>
 

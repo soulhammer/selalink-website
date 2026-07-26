@@ -5,7 +5,7 @@ description: "Guía completa de cuidado para la ninfa (Cockatiel). Descifra su l
 pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Ninfa / Carolina (Cockatiel)"]
+tags: ["CuidadoMascotas","SaludMascotas","Ninfa / Carolina (Nymphicus hollandicus / Cockatiel)"]
 heroImage: "/images/blog/cockatiel_care.png"
 app: "petself"
 formatVersion: 4
@@ -13,10 +13,10 @@ authority: "Asociación de Veterinarios de Aves (AAV) & Normas de Comportamiento
 steps:
   - name: "Lenguaje de la Ninfa: Significado de la Cresta y Cabeza Agachada"
     text: "La cresta de la ninfa actúa como una antena emocional. Una cresta completamente erguida transmite alerta o curiosidad, mientras que agachar la cabeza es una petición directa de caricias."
-  - name: "Ninfa / Carolina (Cockatiel)'s Body Language & Signals"
+  - name: "Ninfa / Carolina (Nymphicus hollandicus / Cockatiel)'s Body Language & Signals"
     text: "* Cresta Totalmente Erguida (Fully Erect Crest): Alerta máxima o curiosidad intensa ante un sonido u objeto desconocido en la estancia. (Evita movimientos bruscos. Háblale con voz suave y permite que evalúe su entorno con calma.)
 
-* Cabeza Agachada y Cuello Extendido (Head Lowering): Muestra de gran confianza solicitando rascados en la nuca y las mejillas. (Rasca suavemente la zona de la cresta y mejillas a contrapelo con la yema del dedo.)"
+* Cabeza Agachada y Cuello Extendido (Head Lowering for Scratches): Muestra de gran confianza solicitando rascados en la nuca y las mejillas. (Rasca suavemente la zona de la cresta y mejillas a contrapelo con la yema del dedo.)"
   - name: "Customized 3-Step Home Care Routine"
     text: "* STEP 1. Mañana: Ventilación, Inspección y Pienso Fresco: Destapa la jaula, renueva el pienso extruido y el agua limpia, y observa su agilidad de vuelo.
 
@@ -60,7 +60,7 @@ Conocida por sus mejillas anaranjadas y su elegante cresta, la ninfa (Cockatiel)
 
 ---
 
-## 2. Ninfa / Carolina (Cockatiel)'s Body Language & Signals
+## 2. Ninfa / Carolina (Nymphicus hollandicus / Cockatiel)'s Body Language & Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -76,7 +76,7 @@ Conocida por sus mejillas anaranjadas y su elegante cresta, la ninfa (Cockatiel)
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Señal Corporal 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Cabeza Agachada y Cuello Extendido (Head Lowering)</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Cabeza Agachada y Cuello Extendido (Head Lowering for Scratches)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• Significado:</strong> Muestra de gran confianza solicitando rascados en la nuca y las mejillas.<br/>

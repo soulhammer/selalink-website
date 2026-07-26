@@ -6,448 +6,448 @@
       "en": {
         "title": "Bearded Dragon Basking Guide and 3-Step Calcium-UVB Daily Routine",
         "description": "Caring for the docile Bearded Dragon lizard. Learn how to interpret territorial head bobbing and prevent Metabolic Bone Disease (MBD) with a 3-step lighting and calcium routine.",
-        "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) Husbandry Guidelines and herpetological standards",
+        "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) Husbandry Guidelines and herpetological clinical standard veterinary behavior",
         "profile": {
-          "breed": "Bearded Dragon",
-          "lifespan": "10 - 15 Years",
-          "sleep_pattern": "10 - 12 Hours (Diurnal - Active During Day)",
+          "breed": "Bearded Dragon (Pogona vitticeps)",
+          "lifespan": "10 ~ 15 Years",
+          "sleep_pattern": "10 ~ 12 Hours (Diurnal - Active During Day)",
           "temperament": "Docile, Calm, Inquisitive, Friendly, Observant"
         },
-        "intro": "Bearded dragons are among the most popular reptile companions due to their gentle temperament and curious expressions. However, as cold-blooded reptiles, they rely entirely on external heat and UVB radiation to digest food and synthesize calcium. Without proper temperature gradients and UVB lighting, they develop Metabolic Bone Disease (MBD), which causes soft bones, deformities, and paralysis. Today, PetSelf decodes bearded dragon social signals and outlines a 3-step homecare routine for basking and calcium maintenance.",
-        "whyTitle": "Bearded Dragon Social Signs: Head Bobbing and Arm Waving",
-        "whyDesc": "Bearded dragons use unique body language to establish hierarchy and communicate. They perform rapid 'head bobbing' up and down to display dominance or claim territory. On the other hand, they slowly wave their front legs in a circular motion ('arm waving') to signal submission or acknowledge your presence.",
+        "intro": "Bearded dragons are among the most popular reptile companions worldwide due to their gentle temperament and curious expressions. However, as ectothermic reptiles, they cannot regulate their own body temperature and rely entirely on external heat sources and UVB (ultraviolet B) lighting to digest food, synthesize vitamin D3, and absorb calcium. Without proper temperature gradients and UVB lighting, they easily develop Metabolic Bone Disease (MBD), which causes soft bones, deformities, and paralysis. Today, PetSelf decodes bearded dragon social signals and outlines a 3-step daily lighting and calcium routine to safeguard their skeletal health.",
+        "whyTitle": "Bearded Dragon Behavioral Language: Head Bobbing and Arm Waving",
+        "whyDesc": "Bearded dragons use unique body language to display hierarchy and convey emotions. Rapidly bobbing their head up and down—known as **'Head Bobbing'**—is a strong display of dominance, territorial claim, or high alertness. On the other hand, slowly waving one front leg in a wide circle—known as **'Arm Waving'**—is a social signal of submission, pacification, and friendliness showing 'I am no threat'.",
         "body_signals": [
           {
-            "name": "Head Bobbing (Rapid)",
-            "meaning": "An assertion of dominance, territorial claim, or a sign of alertness, common during mating season or when seeing other reptiles.",
-            "response": "Ensure they are housed alone (cohabitation causes severe stress) and block reflections in the glass enclosure."
+            "name": "Head Bobbing (Rapid Head Shaking)",
+            "meaning": "An assertion of dominance and territorial claim. It commonly occurs when seeing another individual or when getting excited after spotting their own reflection in glass.",
+            "response": "House them individually as a strict rule to prevent cohabitation stress, and use anti-reflective sheets on glass walls to reduce environmental triggers."
           },
           {
-            "name": "Arm Waving (Slow Motion)",
-            "meaning": "A gesture of submission, pacification, or friendly acknowledgment showing 'I am no threat' to humans or larger reptiles.",
-            "response": "Approach them gently at eye level, speak in a calm voice, and reward them with a treat to build trust."
+            "name": "Arm Waving (Slow Leg Circles)",
+            "meaning": "A peaceful social signal of submission showing no harmful intent. It is communicated toward larger animals or their human keeper.",
+            "response": "Approach them gently from a low angle, speak in a calm and reassuring voice, and offer a treat reward so they recognize the keeper as a safe presence."
           }
         ],
         "daily_routine": [
           {
             "name": "Morning: Basking Heat & UVB Lamp Activation",
-            "text": "Turn on basking and UVB lamps. Ensure the basking spot reaches 95-105°F (35-40°C) so they can raise their body temperature for digestion."
+            "text": "Turn on basking spot heaters and UVB lamps. Ensure the basking spot reaches 35-40°C (95-105°F) so their body temperature rises enough to stimulate digestive enzymes."
           },
           {
             "name": "Afternoon: Gut-Loaded Insect & Calcium-Dusted Feeding",
-            "text": "Feed insects dusted with calcium powder (with D3 if indoors). Offer fresh greens like collard greens or mustard greens."
+            "text": "Provide live insects dusted with calcium powder (containing D3 for indoor keeping) alongside fresh calcium-rich greens such as chicory and bok choy."
           },
           {
-            "name": "Evening: Temperature Drop Check & Sleep Lighting",
-            "text": "Turn off all lights. Ensure the night temperature drops naturally but stays above 65°F (18°C) to allow proper metabolic rest."
+            "name": "Evening: Temperature Drop Check & Nighttime Sleep Lighting",
+            "text": "Turn off all enclosure lighting. Ensure the temperature drops naturally overnight to support proper metabolic rest, but keep it above 18°C (65°F) for safety."
           }
         ],
         "faqs": [
           {
             "question": "How often should I replace my bearded dragon's UVB bulb?",
-            "answer": "UVB bulbs stop emitting effective UV rays long before they burn out. Fluorescent tube UVB bulbs must be replaced every 6 to 12 months, even if they still emit visible light."
+            "answer": "UVB bulbs stop emitting effective UV radiation long before they visually burn out. Regardless of visible light output, they must be replaced every 6 to 12 months."
           },
           {
             "question": "What are the early warning symptoms of Metabolic Bone Disease (MBD)?",
-            "answer": "Early signs include a soft or flexible lower jaw, swollen legs, muscle tremors, lethargy, and difficulty crawling. If you observe these, adjust your UVB setup and consult a reptile vet immediately."
+            "answer": "Early signs include a soft lower jaw, swollen limb joints, muscle tremors, and slipping or dragging limbs while walking. If observed, upgrade lighting equipment immediately and consult a specialized reptile vet."
           }
         ],
         "tags": [
           "Bearded Dragon",
-          "Reptile Calcium",
-          "UVB Lighting",
+          "Reptile Calcium Feeding",
+          "UVB Lighting Care",
           "MBD Prevention"
         ]
       },
       "ja": {
-        "title": "フトアゴヒゲトカゲのバスキングと3ステップカルシウム・UVB管理ルーチン",
-        "description": "人懐っこいフトアゴヒゲトカゲの飼育。首振りの社会信号の意味と、代謝性骨疾患（MBD）を防ぐための3ステップの日常ルーチンについて解説します。",
-        "authority": "爬虫類両生類獣医師会（ARAV）飼育ガイドラインおよび爬虫類学獣医標準",
+        "title": "フトアゴヒゲトカゲのバスキングガイドと3ステップカルシウム・UVB日常ルーチン",
+        "description": "温厚なフトアゴヒゲトカゲのケア方法。首振りの社会信号と代謝性骨疾患（MBD）を防ぐための3ステップ照明・カルシウム給餌ルーチンを解説します。",
+        "authority": "爬虫類両生類獣医師会（ARAV）飼育ガイドラインおよび爬虫類臨床標準獣医行動学",
         "profile": {
-          "breed": "フトアゴヒゲトカゲ (Bearded Dragon)",
+          "breed": "フトアゴヒゲトカゲ (Pogona vitticeps)",
           "lifespan": "10 〜 15年",
           "sleep_pattern": "10 〜 12時間 (昼行性 - 日中に活動)",
           "temperament": "温厚、冷静、好奇心旺盛、人懐っこい、観察好き"
         },
-        "intro": "温和な性格と愛嬌のある表情から、爬虫類ペットとして絶大な人気を誇るフトアゴヒゲトカゲ。しかし、変温動物である彼らは、外部の熱とUVB（紫外線）がなければ、食べ物を消化したり体内でカルシウムを吸収したりすることができません。不適切な温度管理や紫外線不足は、骨が軟化し麻痺を引き起こす「代謝性骨疾患（MBD）」という致命的な病気につながります。今回は、フトアゴヒゲトカゲの代表的な感情サインを解説し、十分な保温とカルシウム補給のための3ステップのホームケアルーチンをご紹介します。",
-        "whyTitle": "フトアゴトカゲの社会信号：ボビングとアームウェービング",
-        "whyDesc": "フトアゴヒゲトカゲは、独特のボディーランゲージで周囲とコミュニケーションを取ります。頭を上下に素早く振る「ヘッドボビング（Head Bobbing）」は、自分の優位性や縄張りを主張する行動です。反対に、前足を大きくゆっくりと回す「アームウェービング（Arm Waving）」は、敵意がないことを示すお辞儀のような合図です。",
+        "intro": "温和な性格と愛嬌のある表情から、フトアゴヒゲトカゲは世界中で最も愛されるペット用爬虫類の一つです。しかし、変温動物である彼らは自ら体温を調節できず、外部の熱源とUVB（中波長紫外線）照明の下でのみ食べ物を消化し、ビタミンD3を合成してカルシウムを吸収することができます。適切なバスキングエリアやUVB照射が不足すると、骨が軟化して麻痺を引き起こす代謝性骨疾患（MBD）にかかりやすくなります。今回はPetSelfが、フトアゴヒゲトカゲの行動サインを解析し、骨の健康を守る3ステップのカルシウム・照明ルーチンをご紹介します。",
+        "whyTitle": "フトアゴヒゲトカゲの行動言語：ヘッドボビングとアームウェービング",
+        "whyDesc": "フトアゴヒゲトカゲは独特の仕草で優位性を示し、感情を伝えます。頭を上下に激しく振る**「ヘッドボビング（Head Bobbing）」**は、高い支配性や縄張りを主張する強い態度です。一方、片方の前足を空中でゆっくり大きく回す**「アームウェービング（Arm Waving）」**は、敵意がないことを示す復従と平和のサインです。",
         "body_signals": [
           {
             "name": "ヘッドボビング（激しい首振り）",
-            "meaning": "縄張り主張、優位性アピール、あるいは周囲への警戒を示しており、ガラスに映る自分の姿に反応することもあります。",
-            "response": "多頭飼育は避け（単独飼育が原則）、ケージガラスの反射を防ぐシートを貼るなどしてストレスを和らげます。"
+            "meaning": "自分の優位性や縄張りを主張する行動で、他の個体を見たときやケージガラスに映る自分の姿に興奮した際に見られます。",
+            "response": "同居によるストレスを防ぐため単独飼育を徹底し、ガラス壁に反射防止シートを貼るなどして視覚的刺激を減らします。"
           },
           {
             "name": "アームウェービング（前足を回す動作）",
-            "meaning": "「降伏」や「敵意がないこと」を示す社会信号で、人間や大きな個体に対して自分を小さく見せる挨拶です。",
-            "response": "驚かせないよう目線を合わせて優しく近づき、静かな声で話しかけながら安心感を与えます。"
+            "meaning": "相手に攻撃意思がないことを伝える復従と平和の社会信号で、自分より強い存在や飼い主に向けて行われます。",
+            "response": "目線を低くして優しく近づき、落ち着いた声で話しかけながら、飼い主が安全な存在であると認識できるようご褒美を与えます。"
           }
         ],
         "daily_routine": [
           {
-            "name": "朝：バスキングランプとUVBライトの点灯",
-            "text": "ライトをオンにし、バスキングスポットを35〜40℃に温めます。体を温めることで消化器官を活性化させます。"
+            "name": "朝：バスキング熱源およびUVBランプの点灯",
+            "text": "スポット保温球とUVBライトを点灯します。バスキングスポットの温度が35〜40℃に達し、消化酵素が働くよう体温上昇を促します。"
           },
           {
-            "name": "昼：栄養を含ませたエサとカルシウム添加",
-            "text": "カルシウムパウダー（室内飼育ではビタミンD3入り）をまぶした昆虫と、小松菜やチンゲンサイなどの新鮮な野菜を与えます。"
+            "name": "昼：栄養を含ませた昆虫給餌とカルシウム添加",
+            "text": "カルシウムパウダー（室内飼育ではビタミンD3入り）をまぶした生餌昆虫と、チコリやチンゲンサイなどの新鮮な高カルシウム野菜を提供します。"
           },
           {
-            "name": "夜：完全消灯と夜間温度の管理",
-            "text": "すべてのライトを消します。夜間は温度を自然に下げますが、代謝維持のため18℃を下回らないよう管理します。"
+            "name": "夜：完全消灯と安全な夜間温度の維持",
+            "text": "ケージ内のすべての照明を消灯します。夜間は自然な代謝のために温度を下げますが、安全のため18℃を下回らないように管理します。"
           }
         ],
         "faqs": [
           {
-            "question": "UVBライトはどのくらいの頻度で交換すべきですか？",
-            "answer": "紫外線ライトは、球切れしていなくても紫外線放出量が徐々に低下します。光が出ていても、半年から1年ごとに新品のUVBバルブに交換する必要があります。"
+            "question": "UVBランプはどのくらいの頻度で交換すべきですか？",
+            "answer": "UVBランプは、球切れしていなくても時間の経過とともに紫外線放出量が著しく低下します。目視で点滅していなくても、通常6〜12ヶ月周期で交換する必要があります。"
           },
           {
-            "question": "代謝性骨疾患（MBD）の初期症状は？",
-            "answer": "下顎の軟化（フニャフニャになる）、手足の腫れ、筋肉の震え、歩行困難などが代表的な兆候です。これらの症状が見られた場合は直ちに紫外線と栄養補給を見直し、専門の獣医師に相談してください。"
+            "question": "代謝性骨疾患（MBD）の初期サインは何ですか？",
+            "answer": "下顎が柔らかくなる、足の関節の腫れ、筋肉の震え、歩行時に力なく滑るなどの症状が初期の兆候です。発見した場合は直ちに照明設備を補強し、専門の獣医師の診察を受けてください。"
           }
         ],
         "tags": [
-          "フトアゴトカゲ",
-          "爬虫類の保温",
-          "紫外線ライト",
-          "MBD予防"
+          "フトアゴヒゲトカゲ",
+          "爬虫類カルシウム給餌",
+          "UVB照明管理",
+          "MBD骨疾患予防"
         ]
       },
       "zh": {
-        "title": "鬃狮蜥日光浴指南与3阶段钙质-UVB日常流程",
-        "description": "针对性格温顺的鬃狮蜥护理。解读其领地意识的点头行为，并通过3阶段照灯与补钙日常流程预防代谢性骨病（MBD）。",
-        "authority": "爬行动物与两栖动物兽医协会 (ARAV) 饲养指南与两栖爬行类动物兽医临床标准",
+        "title": "鬃狮蜥日光浴指南与3阶段钙质-UVB日常护理流程",
+        "description": "温顺鬃狮蜥的日常照顾方法。解读其头部的社交信号，并通过3阶段照灯与补钙流程有效预防代谢性骨病（MBD）。",
+        "authority": "爬行动物与两栖动物兽医协会 (ARAV) 饲养指南与两栖爬行类临床标准兽医行为学",
         "profile": {
-          "breed": "鬃狮蜥 (Bearded Dragon)",
+          "breed": "鬃狮蜥 (Pogona vitticeps)",
           "lifespan": "10 ~ 15年",
           "sleep_pattern": "10 ~ 12小时 (日间活动性)",
           "temperament": "温顺、平静、好奇心强、友好、善于观察"
         },
-        "intro": "鬃狮蜥因其温和的个性和充满好奇的表情，成为最受欢迎的伴侣爬行动物之一。然而，作为冷血动物，它们完全依赖外部热源和UVB（中波紫外线）辐射来消化食物并合成维生素D3以吸收钙质。缺乏充足的温度梯度和UVB光照会导致灾难性的代谢性骨病（MBD），表现为骨骼软化、变形甚至瘫痪。今天，PetSelf 将分析鬃狮蜥的社交肢体语言，并分享确保日光浴与钙质补充的3阶段每日护理流程。",
-        "whyTitle": "鬃狮蜥的社交信号：点头示威与招手求和",
-        "whyDesc": "鬃狮蜥通过独特的身体动作来表达社交关系和确立领地等级。它们快速的上下“点头 (Head Bobbing)”是宣告统治地位或宣示主权的霸道表现。相反，它们缓慢地转圈摇晃单侧前肢，即“招手 (Arm Waving)”，是为了表达顺从、无害或向主人友好打招呼。",
+        "intro": "鬃狮蜥因其温和的性格和充满好奇的表情，成为全球最受喜爱的伴侣爬行动物之一。然而，作为变温动物，它们无法自行调节体温，完全依赖外部热源与UVB（中波紫外线）灯光来消化食物、合成维生素D3并吸收钙质。如果缺乏充足的日光浴区域与UVB照射，鬃狮蜥极易患上会导致骨骼软化及瘫痪的代谢性骨病（MBD）。今天，PetSelf 将为您解析鬃狮蜥的肢体语言，并分享守护骨骼健康的3阶段钙质与灯光日常护理流程。",
+        "whyTitle": "鬃狮蜥的肢体语言：点头与招手",
+        "whyDesc": "鬃狮蜥通过独特的动作来展现等级地位并表达情绪。上下快速剧烈地点头——即 **“点头 (Head Bobbing)”**——是表达强烈统治欲望或宣示领地的行为。相反，将单侧前肢在空中缓慢大幅度地画圈——即 **“招手 (Arm Waving)”**——则是一种表达无害、顺从与和平的社交信号。",
         "body_signals": [
           {
-            "name": "快速点头 (Head Bobbing)",
-            "meaning": "宣示主权、展示强硬态度或处于高度警惕状态，常见于看到同类或镜子中的倒影时。",
-            "response": "鬃狮蜥必须单缸独养（混养会导致严重压迫致死），并用贴纸遮挡玻璃内壁以防反光刺激。"
+            "name": "点头 (Head Bobbing / 剧烈摇晃头部)",
+            "meaning": "宣示自身优势与领地主权的行为，常出现在看到其他个体或因看到缸壁玻璃上自己的倒影而感到兴奋时。",
+            "response": "必须严格实行单缸独养以避免混养压迫，并在玻璃壁上贴上防反射贴纸以减少视觉刺激。"
           },
           {
-            "name": "缓慢招手 (Arm Waving)",
-            "meaning": "认怂、示弱的社会性求和动作，向人类或体型更大的狮子表示“我没有威胁”。",
-            "response": "降低视线，从其正面温柔靠近，通过喂食适口性佳的虫子来奖励这种顺从行为，建立信任。"
+            "name": "招手 (Arm Waving / 前肢划圈)",
+            "meaning": "向对方表达毫无攻击意图的顺从与和平社交信号，通常面向比自己强壮的生物或饲主展示。",
+            "response": "放低姿态温柔靠近，用平缓的声音与其交流，并给予食物奖励，让鬃狮蜥建立起“饲主是安全存在”的认知。"
           }
         ],
         "daily_routine": [
           {
-            "name": "早上：启动晒背射灯与UVB紫外线灯",
-            "text": "开启加热灯与UVB灯管。确保晒台温度达到35-40°C（95-105°F），使身体迅速回温以进行胃肠蠕动。"
+            "name": "早上：启动晒背热源与UVB灯具",
+            "text": "开启聚热保温灯与UVB灯。确保晒台温度达到35-40°C，以提升体温并激活消化酶功能。"
           },
           {
-            "name": "中午：富集营养的昆虫虫体补钙与蔬菜喂食",
-            "text": "喂食裹满优质钙粉（室内饲养使用含D3钙粉）的活体昆虫，并提供油麦菜、芥蓝等高钙蔬菜。"
+            "name": "中午：喂食富含营养的昆虫与补充钙粉",
+            "text": "提供包裹着钙粉（室内饲养需含D3）的活体昆虫，并搭配菊苣、上海青等新鲜的高钙蔬菜。"
           },
           {
-            "name": "晚上：关闭热源夜间降温与暗光睡眠",
-            "text": "熄灭所有灯具。夜晚需自然降温，但要确保环境温度不低于18°C（65°F），以维持健康的基础代谢。"
+            "name": "晚上：夜间完全熄灯与维持安全夜温",
+            "text": "熄灭饲养箱内的所有灯具。夜晚让温度自然下降以维持正常代谢，但须注意环境温度不得低于18°C。"
           }
         ],
         "faqs": [
           {
-            "question": "鬃狮蜥的UVB灯管需要多长时间更换一次？",
-            "answer": "UVB灯管在发光完好时，其紫外线衰退早已发生。荧光灯管类UVB必须每半年至12个月强制更换一次，即使灯管依然亮着。"
+            "question": "UVB灯管需要多长时间更换一次？",
+            "answer": "UVB灯管即使照常发光，随着使用时间的增加，其紫外线输出量也会大幅衰减。无论灯管是否发亮，通常都需要每半年至12个月强制更换一次。"
           },
           {
-            "question": "代谢性骨病（MBD）的早期症状有哪些？",
-            "answer": "早期症状包括下颌骨发软、四肢关节肿大、肌肉不受控抽搐、攀爬吃力及嗜睡。一旦发现，须立刻更换全新UVB灯并紧急送医。"
+            "question": "代谢性骨病（MBD）的早期前兆有哪些？",
+            "answer": "下颌骨变软、四肢关节肿胀、肌肉不受控抽搐以及爬行时无力打滑均属于早期症状。一旦发现，须立即升级灯光设备并寻求专业异宠兽医的诊疗。"
           }
         ],
         "tags": [
-          "鬃狮蜥饲养",
+          "鬃狮蜥",
           "爬宠补钙",
-          "UVB紫外线",
-          "预防代谢性骨病"
+          "UVB灯具管理",
+          "预防MBD骨病"
         ]
       },
       "es": {
-        "title": "Guía de termorregulación del Dragón Barbudo y rutina de 3 pasos de Calcio-UVB",
-        "description": "Cuidado del lagarto Dragón Barbudo. Conozca el significado del head bobbing y prevenga la enfermedad ósea metabólica (MBD) con una rutina de iluminación y calcio.",
-        "authority": "Directrices de la Association of Reptilian and Amphibian Veterinarians (ARAV) y Estándares de Herpetología",
+        "title": "Guía de asoleamiento del Dragón Barbudo y rutina diaria de 3 pasos de Calcio y UVB",
+        "description": "Cuidados del dócil lagarto Dragón Barbudo. Aprenda a interpretar los movimientos de cabeza y prevenga la Enfermedad Ósea Metabólica (MBD) con esta rutina de 3 pasos.",
+        "authority": "Directrices de cría de la Association of Reptilian and Amphibian Veterinarians (ARAV) y estándares de conducta veterinaria clínica herpetológica",
         "profile": {
-          "breed": "Dragón Barbudo",
+          "breed": "Dragón Barbudo (Pogona vitticeps)",
           "lifespan": "10 ~ 15 años",
           "sleep_pattern": "10 ~ 12 horas (diurno: activo durante el día)",
           "temperament": "Dócil, tranquilo, curioso, amigable, observador"
         },
-        "intro": "Los dragones barbudos son unos de los reptiles más populares por su temperamento dócil. Sin embargo, al ser animales ectotermos (sangre fría), dependen totalmente del calor y la radiación UVB para digerir comida y procesar el calcio. La falta de radiación UVB adecuada causa la Enfermedad Ósea Metabólica (MBD), debilitando sus huesos. Hoy, PetSelf explica el lenguaje corporal del dragón barbudo y muestra una rutina de 3 pasos para la termorregulación diaria y el aporte de calcio.",
-        "whyTitle": "Comunicación del dragón barbudo: cabeceo y movimientos de brazo",
-        "whyDesc": "Los dragones barbudos usan movimientos corporales para comunicarse y marcar estatus social. El cabeceo rápido ('head bobbing') indica dominancia. Al contrario, mover un brazo delantero en círculos de forma muy pausada ('arm waving') es una señal de sumisión o saludo amistoso.",
+        "intro": "El dragón barbudo es uno de los reptiles de compañía más queridos en todo el mundo gracias a su carácter dócil y sus curiosas expresiones. Sin embargo, al ser un animal ectotermo, no puede regular su temperatura corporal por sí mismo y depende por completo de fuentes de calor externas y de la radiación UVB para digerir la comida, sintetizar vitamina D3 y absorber calcio. La falta de zonas de asoleamiento y luz UVB adecuadas provoca la Enfermedad Ósea Metabólica (MBD), una afección que debilita los huesos y causa parálisis. Hoy, PetSelf analiza su lenguaje corporal y presenta una rutina diaria de 3 pasos con calcio e iluminación para proteger su salud ósea.",
+        "whyTitle": "Lenguaje corporal del dragón barbudo: cabezadas y braceo",
+        "whyDesc": "Los dragones barbudos utilizan gestos únicos para marcar su jerarquía y transmitir emociones. Sacudir la cabeza enérgicamente de arriba abajo, conocido como **'Head Bobbing'**, es una clara muestra de dominancia y territorialidad. Por el contrario, mover lentamente una pata delantera en círculos en el aire, llamado **'Arm Waving'**, es una señal social de sumisión, pacificación y amabilidad que expresa 'no soy una amenaza'.",
         "body_signals": [
           {
-            "name": "Cabeceo rápido (Head bobbing)",
-            "meaning": "Muestra de dominancia o territorialidad, común cuando ven a otros reptiles o su propio reflejo en el cristal.",
-            "response": "Mantenga al reptil solo (la cohabitación causa un estrés severo) y evite los reflejos en los cristales del terrario."
+            "name": "Head Bobbing (Sacudida rápida de cabeza)",
+            "meaning": "Demostración de dominancia y reclamo territorial. Suele ocurrir al ver a otros ejemplares o al alterarse por su propio reflejo en el cristal.",
+            "response": "Manténgalo en un terrario individual como regla estricta para evitar el estrés por cohabitación, y use vinilos antirreflejantes en las paredes de cristal."
           },
           {
-            "name": "Mover el brazo (Arm waving)",
-            "meaning": "Gesto de sumisión y pacifismo. Indica 'no soy una amenaza' para humanos o dragones más grandes.",
-            "response": "Aproxímese despacio y a su altura, háblele suavemente y ofrézcale un insecto para ganar su simpatía."
+            "name": "Arm Waving (Braceo o movimiento circular)",
+            "meaning": "Señal social pacífica y de sumisión que indica la ausencia de intenciones agresivas, dirigida a seres más grandes o a su cuidador.",
+            "response": "Acérquese desde una posición baja y de forma suave, háblele con voz pausada y proporciónele un premio para que identifique al humano como una presencia segura."
           }
         ],
         "daily_routine": [
           {
-            "name": "Mañana: Encendido de luces de calor y UVB",
-            "text": "Encienda las lámparas. Asegúrese de que la zona caliente alcance los 35-40 °C (95-105 °F) para que pueda digerir el alimento."
+            "name": "Mañana: Encendido de la fuente de calor y la lámpara UVB",
+            "text": "Encienda el foco de calor focalizado y la luz UVB. Asegúrese de que el punto de asoleamiento alcance entre 35 y 40 °C para elevar su temperatura e iniciar la digestión."
           },
           {
-            "name": "Tarde: Alimentación con insectos espolvoreados con calcio",
-            "text": "Ofrezca insectos espolvoreados con calcio (con D3 para terrarios de interior). Añada verduras de hoja verde aptas."
+            "name": "Tarde: Alimentación con insectos ricos en nutrientes y calcio",
+            "text": "Ofrézcale insectos vivos espolvoreados con calcio en polvo (con D3 para ejemplares de interior) junto con verduras frescas ricas en calcio como chicoria y col china."
           },
           {
-            "name": "Noche: Apagado de terrario y descanso térmico",
-            "text": "Apague todas las luces. Asegúrese de que la temperatura nocturna no baje de los 18 °C (65 °F) para un descanso seguro."
+            "name": "Noche: Apagado de luces y mantenimiento de temperatura nocturna",
+            "text": "Apague todas las luces del terrario. Permita que la temperatura baje de forma natural durante la noche para favorecer su descanso metabólico, manteniéndola siempre por encima de los 18 °C."
           }
         ],
         "faqs": [
           {
-            "question": "¿Cada cuánto tiempo hay que cambiar la bombilla UVB?",
-            "answer": "Las bombillas UVB dejan de emitir radiación eficaz mucho antes de fundirse. Deben sustituirse cada 6 a 12 meses, aunque sigan emitiendo luz visible."
+            "question": "¿Con qué frecuencia debo cambiar la bombilla UVB de mi dragón barbudo?",
+            "answer": "Las bombillas UVB pierden su capacidad de radiación ultravioleta mucho antes de fundirse. Independientemente de que sigan emitiendo luz visible, deben sustituirse cada 6 a 12 meses."
           },
           {
-            "question": "¿Cuáles son los primeros síntomas de la Enfermedad Ósea Metabólica (MBD)?",
-            "answer": "Mandíbula blanda, inflamación en las patas, temblores musculares o debilidad al andar. Si detecta esto, cambie la bombilla UVB y acuda a un veterinario de exóticos."
+            "question": "¿Cuáles son las primeras señales de la Enfermedad Ósea Metabólica (MBD)?",
+            "answer": "La mandíbula blanda, la inflamación de las articulaciones de las patas, los temblores musculares y el arrastre o debilidad al caminar son síntomas tempranos. Si detecta estos signos, ajuste la iluminación de inmediato y acuda a un veterinario especialista."
           }
         ],
         "tags": [
           "Dragón Barbudo",
-          "Calcio para Reptiles",
+          "Suplementación de Calcio",
           "Iluminación UVB",
           "Prevención de MBD"
         ]
       },
       "fr": {
-        "title": "Guide de thermorégulation du Dragon Barbu et routine de 3 étapes Calcium-UVB",
-        "description": "Prendre soin du lézard Dragon Barbu. Apprenez à interpréter le head bobbing et prévenez l'ostéodystrophie nutritionnelle (MBD) par l'éclairage et le calcium.",
-        "authority": "Lignes directrices d'élevage de l'ARAV (Association of Reptilian and Amphibian Veterinarians) et médecine herpétologique",
+        "title": "Guide du bain de soleil pour Dragon Barbu et routine quotidienne en 3 étapes Calcio-UVB",
+        "description": "Prendre soin du dragon barbu docile. Décodez le hochement de tête territorial et prévenez l'ostéodystrophie nutritionnelle (MBD) grâce à une routine en 3 étapes.",
+        "authority": "Directives d'élevage de l'ARAV (Association of Reptilian and Amphibian Veterinarians) et médecine comportementale herpétologique clinique",
         "profile": {
-          "breed": "Dragon Barbu (Pogona)",
+          "breed": "Dragon Barbu (Pogona vitticeps)",
           "lifespan": "10 ~ 15 ans",
           "sleep_pattern": "10 ~ 12 heures (diurne : actif en journée)",
           "temperament": "Docile, calme, curieux, sociable, observateur"
         },
-        "intro": "Le dragon barbu (ou Pogona) compte parmi les reptiles les plus appréciés pour sa docilité. Toutefois, ce lézard à sang froid dépend entièrement de son environnement pour sa thermorégulation et de l'exposition aux UVB pour synthétiser le calcium. Sans un gradient thermique adapté et de bons néons UVB, il risque l'ostéodystrophie nutritionnelle (MBD), une maladie déformant ses os. Aujourd'hui, PetSelf étudie leurs codes sociaux et présente une routine en 3 étapes pour optimiser le chauffage et l'apport en calcium.",
-        "whyTitle": "Codes sociaux du dragon barbu : hochements de tête et moulinets de patte",
-        "whyDesc": "Les dragons barbus communiquent par des gestes très identifiables. Les hochements de tête rapides ('head bobbing') servent à asseoir leur dominance. À l'inverse, faire de grands cercles lents avec une patte avant ('arm waving') est un geste de soumission pour apaiser les tensions.",
+        "intro": "En raison de son tempérament calme et de ses expressions curieuses, le dragon barbu est l'un des reptiles de compagnie les plus populaires au monde. Cependant, en tant qu'animal ectotherme, il ne peut pas réguler lui-même sa température corporelle et dépend entièrement de sources de chaleur externes et de l'éclairage UVB pour digérer sa nourriture, synthétiser la vitamine D3 et absorber le calcium. Un manque de points chauds adaptés et de rayons UVB entraîne l'ostéodystrophie nutritionnelle (MBD), une maladie fragilisant les os et provoquant des paralysies. Aujourd'hui, PetSelf décrypte le langage corporel du dragon barbu et vous propose une routine en 3 étapes pour préserver sa santé osseuse.",
+        "whyTitle": "Le langage comportemental du pogona : hochements de tête et moulinets de patte",
+        "whyDesc": "Le dragon barbu utilise des gestes uniques pour marquer son rang social et exprimer ses émotions. Hocher la tête rapidement de haut en bas — le **« Head Bobbing »** — est une démonstration d'autorité et de territorialité. À l'inverse, faire de grands cercles lents avec une patte avant dans le vide — le **« Arm Waving »** — est un signal de soumission, de paix et de politesse signifiant « je ne suis pas une menace ».",
         "body_signals": [
           {
-            "name": "Hochements de tête (Head bobbing)",
-            "meaning": "Affirmation de dominance, marquage territorial ou réaction face à un reflet intrusif dans le verre.",
-            "response": "Logez-le seul (la cohabitation est source de stress mortel) et posez un fond opaque pour effacer les reflets."
+            "name": "Head Bobbing (Hochements de tête rapides)",
+            "meaning": "Affirmation de dominance et revendication territoriale. Cela survient souvent à la vue d'un congénère ou face à son propre reflet sur la vitre.",
+            "response": "Maintenez le lézard strictement seul pour éviter le stress lié à la cohabitation, et appliquez des films anti-reflets sur les vitres du terrarium."
           },
           {
-            "name": "Moulinets de patte (Arm waving)",
-            "meaning": "Signal de soumission signifiant 'je suis amical et inoffensif' envers un humain ou un congénère plus grand.",
-            "response": "Approchez doucement, parlez-lui calmement et offrez-lui une friandise (criquet) pour renforcer sa confiance."
+            "name": "Arm Waving (Moulinet lent de la patte)",
+            "meaning": "Signal social pacifique montrant une absence d'intention agressive, adressé aux individus plus grands ou au soigneur.",
+            "response": "Approchez-vous doucement en vous plaçant à sa hauteur, parlez-lui d'une voix apaisante et offrez-lui une friandise afin qu'il identifie son propriétaire comme une présence rassurante."
           }
         ],
         "daily_routine": [
           {
-            "name": "Matin : Démarrage du chauffage et des UVB",
-            "text": "Allumez la lampe chauffante et le néon UVB. Le point chaud doit atteindre 35-40 °C pour lui permettre de s'activer et de digérer."
+            "name": "Matin : Activation du chauffage de bain de soleil et du néon UVB",
+            "text": "Allumez la lampe chauffante et l'éclairage UVB. Veillez à ce que la zone de thermorégulation atteigne 35 à 40 °C afin d'augmenter sa température corporelle pour la digestion."
           },
           {
-            "name": "Après-midi : Nourrissage et saupoudrage de calcium",
-            "text": "Donnez-lui des insectes préalablement nourris et saupoudrés de calcium (avec D3 en intérieur). Offrez-lui des légumes verts frais."
+            "name": "Midi : Distribution d'insectes enrichis et saupoudrage de calcium",
+            "text": "Offrez des insectes vivants saupoudrés de poudre de calcium (avec D3 en élevage intérieur) accompagnés de légumes frais riches en calcium comme la chicorée et le chou chinois."
           },
           {
-            "name": "Soir : Extinction des feux et fraîcheur nocturne",
-            "text": "Éteignez toutes les lampes. Laissez la température baisser la nuit, mais veillez à ce qu'elle ne descende pas sous 18 °C."
+            "name": "Soir : Extinction nocturne et maintien d'une température sûre",
+            "text": "Éteignez toutes les lampes du terrarium. La température doit baisser naturellement la nuit pour le repos métabolique, sans jamais descendre sous la barre des 18 °C."
           }
         ],
         "faqs": [
           {
-            "question": "Quand faut-il remplacer le néon UVB ?",
-            "answer": "Les néons et ampoules UVB perdent leur efficacité bien avant de griller. Il est nécessaire de les remplacer tous les 6 à 12 mois, même s'ils éclairent encore."
+            "question": "À quelle fréquence faut-il remplacer l'ampoule UVB ?",
+            "answer": "Les lampes UVB perdent leur capacité d'émission d'ultraviolets bien avant de s'éteindre définitivement. Quel que soit leur niveau d'éclairage visible, elles doivent être remplacées tous les 6 à 12 mois."
           },
           {
-            "question": "Quels sont les premiers signes de la maladie des os (MBD) ?",
-            "answer": "Une mâchoire inférieure molle, des membres enflés, des tremblements musculaires ou des difficultés à se soulever. Si ces signes apparaissent, consultez un vétérinaire."
+            "question": "Quels sont les premiers symptômes de l'ostéodystrophie nutritionnelle (MBD) ?",
+            "answer": "Une mâchoire inférieure ramollie, des articulations enflées au niveau des pattes, des tremblements musculaires ou des difficultés à marcher sont des signes avant-coureurs. Si vous les observez, ajustez l'éclairage immédiatement et consultez un vétérinaire spécialisé."
           }
         ],
         "tags": [
           "Dragon Barbu",
-          "Calcium Reptile",
-          "Lampe UVB",
+          "Calcium pour Reptile",
+          "Gestion Éclairage UVB",
           "Prévention MBD"
         ]
       },
       "de": {
         "title": "Bartagamen Sonnenplatz-Leitfaden und 3-Schritt-Kalzium-UVB-Tagesroutine",
-        "description": "Pflege für die zahme Bartagame. Lernen Sie, das dominante Kopfnicken zu verstehen und metabolische Knochenerkrankungen (MBD) durch Licht und Kalzium zu vermeiden.",
-        "authority": "Haltungsrichtlinien der ARAV (Association of Reptilian and Amphibian Veterinarians) und herpetologische Standards",
+        "description": "Pflege für die zahme Bartagame. Lernen Sie das dominante Kopfnicken zu verstehen und MBD durch einen 3-Schritt-Ablauf bei Licht und Kalzium zu vermeiden.",
+        "authority": "Haltungsrichtlinien der ARAV (Association of Reptilian and Amphibian Veterinarians) und klinisch-herpetologische Verhaltenstiermedizin",
         "profile": {
-          "breed": "Bartagame",
+          "breed": "Bartagame (Pogona vitticeps)",
           "lifespan": "10 ~ 15 Jahre",
           "sleep_pattern": "10 ~ 12 Stunden (tagaktiv)",
           "temperament": "Zahm, ruhig, neugierig, freundlich, aufmerksam"
         },
-        "intro": "Bartagamen gehören aufgrund ihres sanften Wesens zu den beliebtesten Reptilien. Als wechselwarme Tiere sind sie jedoch vollständig auf externe Wärme und UVB-Strahlung angewiesen, um Nahrung zu verdauen und Kalzium aufzunehmen. Ein Mangel führt zur metabolischen Knochenerkrankung (MBD), die Knochenerweichungen und Lähmungen verursacht. Heute entschlüsselt PetSelf die sozialen Signale von Bartagamen und teilt eine 3-Schritt-Tagesroutine für Sonnenplatz und Kalziumversorgung.",
-        "whyTitle": "Bartagamen-Kommunikation: Kopfnicken und Winken",
-        "whyDesc": "Bartagamen kommunizieren über auffällige Körperbewegungen. Schnelles Auf- und Abnicken mit dem Kopf ('Head Bobbing') zeigt Dominanz oder Revieransprüche. Das langsame, kreisende Winken mit einem Vorderbein ('Arm Waving') signalisiert Unterwerfung oder freundliche Kontaktaufnahme.",
+        "intro": "Aufgrund ihres sanftmütigen Wesens und ihrer neugierigen Blicke zählen Bartagamen weltweit zu den beliebtesten Reptilien. Als wechselwarme Tiere können sie ihre Körpertemperatur jedoch nicht selbst regulieren und sind vollständig auf externe Wärmequellen und UVB-Strahlung angewiesen, um Nahrung zu verdauen, Vitamin D3 zu synthetisieren und Kalzium aufzunehmen. Ein Mangel an geeigneten Sonnenplätzen und UVB-Licht führt schnell zur metabolischen Knochenerkrankung (MBD), die mit Knochenerweichung und Lähmungen einhergeht. Heute entschlüsselt PetSelf die Körpersprache der Bartagame und stellt eine 3-Schritt-Tagesroutine für Licht und Kalzium vor, um ihre Knochengesundheit zu schützen.",
+        "whyTitle": "Verhaltenssprache der Bartagame: Kopfnicken und Winken",
+        "whyDesc": "Bartagamen nutzen charakteristische Gesten, um Rangordnungen anzuzeigen und Gefühle auszudrücken. Schnelles, heftiges Auf- und Abnicken mit dem Kopf – das sogenannte **'Head Bobbing'** – ist ein starker Ausdruck von Dominanz und Revieranspruch. Das langsame, großflächige Kreisen mit einem Vorderbein in der Luft – das **'Arm Waving'** – ist hingegen ein soziales Signal der Unterwerfung, Beruhigung und Friedfertigkeit nach dem Motto 'Ich bin keine Bedrohung'.",
         "body_signals": [
           {
-            "name": "Kopfnicken (Head Bobbing)",
-            "meaning": "Ausdruck von Dominanz, Territorialanspruch oder erhöhter Erregung, auch ausgelöst durch das eigene Spiegelbild.",
-            "response": "Halten Sie die Tiere einzeln (Paarhaltung stresst extrem) und vermeiden Sie Spiegelungen an den Terrarienscheiben."
+            "name": "Head Bobbing (Schnelles Kopfnicken)",
+            "meaning": "Ausdruck von Dominanz und Territorialverhalten. Tritt häufig auf, wenn andere Tiere wahrgenommen werden oder wenn das eigene Spiegelbild an den Terrarienscheiben Erregung auslöst.",
+            "response": "Halten Sie die Tiere grundsätzlich einzeln, um Stress durch Vergesellschaftung zu vermeiden, und bringen Sie Anti-Reflexionsfolien an den Scheiben an."
           },
           {
-            "name": "Winken (Arm Waving)",
-            "meaning": "Unterwerfungsgeste, um zu zeigen: 'Ich bin keine Bedrohung' für Menschen oder größere Artgenossen.",
-            "response": "Nähren Sie sich ruhig auf Augenhöhe, sprechen Sie leise und belohnen Sie das Verhalten mit einem Insekt."
+            "name": "Arm Waving (Langsam kreisendes Winken)",
+            "meaning": "Friedliches, unterwürfiges Signal ohne jegliche Aggressionsabsicht, das gegenüber größeren Lebewesen oder dem Halter gezeigt wird.",
+            "response": "Nähren Sie sich aus niedriger Position ganz ruhig, sprechen Sie sanft mit dem Tier und belohnen Sie es mit Futter, damit es den Halter als sichere Person wahrnimmt."
           }
         ],
         "daily_routine": [
           {
-            "name": "Morgen: Einschalten der Wärme- & UVB-Lampen",
-            "text": "Aktivieren Sie die Beleuchtung. Der Sonnenplatz muss 35-40 °C erreichen, damit die Bartagame ihre Körpertemperatur zur Verdauung hochfahren kann."
+            "name": "Morgen: Einschalten der Sonnenplatz-Wärme & UVB-Lampe",
+            "text": "Schalten Sie den Wärme-Spotstrahler und die UVB-Beleuchtung ein. Der Sonnenplatz muss 35–40 °C erreichen, um die Körpertemperatur für die Verdauungsenzyme anzuheben."
           },
           {
-            "name": "Nachmittag: Fütterung mit kalziumbestäubten Insekten",
-            "text": "Füttern Sie Futtertiere, die mit Kalziumpulver (bei Innenhaltung mit D3) bestäubt sind. Bieten Sie frisches Gemüse an."
+            "name": "Mittag: Fütterung von Nährstoff-Insekten mit Kalziumpulver",
+            "text": "Bieten Sie Lebendfutterinsekten an, die mit Kalziumpulver (bei Innenhaltung mit D3) bestäubt sind, zusammen mit frischem, kalziumreichem Gemüse wie Zichorie und Pak Choi."
           },
           {
-            "name": "Abend: Nachtabsenkung & Ausschalten der Lichter",
-            "text": "Schalten Sie alle Lichter aus. Sichern Sie eine Nachtabsenkung, die jedoch nicht unter 18 °C liegen darf."
+            "name": "Abend: Nachtabschaltung & Sichere Nachtabsenkung der Temperatur",
+            "text": "Schalten Sie alle Lichter im Terrarium aus. Lassen Sie die Temperatur nachts für den Stoffwechsel natürlich abkühlen, achten Sie jedoch darauf, dass sie nicht unter 18 °C fällt."
           }
         ],
         "faqs": [
           {
             "question": "Wie oft muss die UVB-Lampe ausgetauscht werden?",
-            "answer": "UVB-Lampen verlieren ihre UV-Leistung, lange bevor sie durchbrennen. Sie müssen alle 6 bis 12 Monate ersetzt werden, da sonst Mangelerscheinungen drohen."
+            "answer": "UVB-Lampen verlieren ihre UV-Strahlungsleistung lange bevor sie sichtbar durchbrennen. Unabhängig vom sichtbaren Licht müssen sie regelmäßig alle 6 bis 12 Monate ersetzt werden."
           },
           {
-            "question": "Was sind die ersten Symptome einer metabolischen Knochenerkrankung (MBD)?",
-            "answer": "Ein weicher Unterkiefer, geschwollene Gliedmaßen, Muskelzittern oder Kraftlosigkeit beim Gehen. Tauschen Sie sofort die UVB-Lampe und suchen Sie einen reptilienkundigen Tierarzt auf."
+            "question": "Was sind die ersten Anzeichen einer metabolischen Knochenerkrankung (MBD)?",
+            "answer": "Ein weicher Unterkiefer, geschwollene Gelenke an den Beinen, Muskelzittern und Kraftlosigkeit beim Gehen sind frühe Symptome. Passen Sie bei diesen Anzeichen sofort die Beleuchtung an und suchen Sie einen fachkundigen Tierarzt auf."
           }
         ],
         "tags": [
           "Bartagame",
-          "Kalzium für Reptilien",
-          "UVB-Lampe",
+          "Reptilien-Kalziumfütterung",
+          "UVB-Beleuchtungsmanagement",
           "MBD-Prävention"
         ]
       },
       "pt": {
-        "title": "Guia de termorregulação do Dragão Barbudo e rotina de 3 passos de Cálcio-UVB",
-        "description": "Cuidado do lagarto Dragão Barbudo. Saiba o significado do acenar de cabeça e previna a doença óssea metabólica (MBD) com iluminação e cálcio.",
-        "authority": "Diretrizes da Association of Reptilian and Amphibian Veterinarians (ARAV) e Padrões de Herpetologia",
+        "title": "Guia de aquecimento do Dragão Barbudo e rotina diária de 3 passos de Cálcio e UVB",
+        "description": "Cuidados com o dócil lagarto Dragão Barbudo. Saiba como interpretar o acenar de cabeça e previna a Doença Óssea Metabólica (MBD) com uma rotina de 3 passos.",
+        "authority": "Diretrizes de manejo da Association of Reptilian and Amphibian Veterinarians (ARAV) e padrões de comportamento veterinário clínico em herpetologia",
         "profile": {
-          "breed": "Dragão Barbudo (Pogona)",
+          "breed": "Dragão Barbudo (Pogona vitticeps)",
           "lifespan": "10 ~ 15 anos",
           "sleep_pattern": "10 ~ 12 horas (diurno: ativo durante o dia)",
           "temperament": "Dócil, calmo, curioso, amigável, observador"
         },
-        "intro": "Os dragões barbudos são dos répteis mais populares como animais de estimação devido à sua docilidade. No entanto, por serem ectotérmicos (sangue frio), dependem totalmente do calor externo e radiação UVB para processar o cálcio. A falta de iluminação UVB causa a doença óssea metabólica (MBD), enfraquecendo os seus ossos. Hoje, o PetSelf decifra os sinais corporais do dragão barbudo e partilha uma rotina de 3 passos para a termorregulação e cálcio diários.",
-        "whyTitle": "Comunicação do dragão barbudo: cabecear e acenar com a pata",
-        "whyDesc": "Os dragões barbudos utilizam movimentos corporais para comunicar status. O cabecear rápido ('head bobbing') indica dominância. Ao contrário, mover uma pata dianteira em círculos lentamente ('arm waving') é um sinal de submissão ou cumprimento amigável.",
+        "intro": "Devido ao seu temperamento dócil e às suas expressões curiosas, o dragão barbudo é um dos répteis de estimação mais populares do mundo. No entanto, por serem animais ectotérmicos, não conseguem regular a própria temperatura corporal e dependem totalmente de fontes externas de calor e de radiação UVB para digerir os alimentos, sintetizar a vitamina D3 e absorver o cálcio. A falta de zonas adequadas de aquecimento e de iluminação UVB leva ao desenvolvimento da Doença Óssea Metabólica (MBD), condição que enfraquece os ossos e causa paralisia. Hoje, o PetSelf analisa a linguagem corporal do dragão barbudo e apresenta uma rotina diária de 3 passos de iluminação e cálcio para proteger a sua saúde óssea.",
+        "whyTitle": "Linguagem comportamental do dragão barbudo: acenar de cabeça e mover as patas",
+        "whyDesc": "Os dragões barbudos utilizam gestos únicos para demonstrar hierarquia e expressar emoções. Abanar a cabeça rapidamente para cima e para baixo — o chamado **'Head Bobbing'** — é uma forte demonstração de dominância e territorialidade. Por outro lado, girar lentamente uma das patas dianteiras no ar — o **'Arm Waving'** — é um sinal social de submissão, pacificação e amizade que significa 'não sou uma ameaça'.",
         "body_signals": [
           {
-            "name": "Cabecear rápido (Head bobbing)",
-            "meaning": "Demonstração de dominância ou territorialidade, comum ao verem outros lagartos ou o reflexo no vidro.",
-            "response": "Mantenha o réptil sozinho (viver com outros causa muito stress) e evite reflexos nos vidros do terrário."
+            "name": "Head Bobbing (Movimento rápido de cabeça)",
+            "meaning": "Afirmação de dominância e marcação territorial. Ocorre frequentemente ao avistar outros indivíduos ou ao reagir ao próprio reflexo nos vidros do terrário.",
+            "response": "Mantenha o animal em alojamento individual estrito para evitar o stresse de coabitação e aplique películas antirreflexo nos vidros."
           },
           {
-            "name": "Acenar com a pata (Arm waving)",
-            "meaning": "Gesto de submissão que indica 'não sou uma ameaça' para humanos ou dragões maiores.",
-            "response": "Aproxime-se devagar e ao nível dos olhos dele, fale baixo e ofereça-lhe um inseto para ganhar a sua confiança."
+            "name": "Arm Waving (Girar a pata lentamente)",
+            "meaning": "Sinal social pacífico de submissão que demonstra a ausência de intenções agressivas, direcionado a animais maiores ou ao seu tutor.",
+            "response": "Aproxime-se devagar por baixo, fale com uma voz calma e ofereça um petisco para que ele reconheça o tutor como uma presença segura."
           }
         ],
         "daily_routine": [
           {
-            "name": "Manhã: Ligar as luzes de aquecimento e UVB",
-            "text": "Ligue as lâmpadas. Garanta que a zona de calor atinge os 35-40 °C para ele conseguir digerir o alimento."
+            "name": "Manhã: Ativação da fonte de calor e da lâmpada UVB",
+            "text": "Ligue o foco de calor e a luz UVB. Certifique-se de que o ponto de aquecimento atinge entre 35 e 40 °C para elevar a temperatura corporal e ativar as enzimas digestivas."
           },
           {
-            "name": "Tarde: Alimentação com insetos polvilhados com cálcio",
-            "text": "Ofereça insetos polvilhados com pó de cálcio (com D3 para terrários de interior). Dê vegetais frescos adequados."
+            "name": "Tarde: Alimentação com insetos nutritivos e suplementação de cálcio",
+            "text": "Forneça insetos vivos polvilhados com cálcio em pó (com D3 para exemplares mantidos no interior) acompanhados de vegetais frescos ricos em cálcio, como chicória e acelga chinesa."
           },
           {
-            "name": "Noite: Desligar as luzes e repouso térmico",
-            "text": "Desligue todas as luzes. A temperatura noturna pode baixar mas não deve descer dos 18 °C."
+            "name": "Noite: Desligamento noturno e manutenção de uma temperatura segura",
+            "text": "Desligue todas as luzes do terrário. Deixe a temperatura baixar naturalmente durante a noite para o descanso metabólico, mas garanta que não desça abaixo dos 18 °C."
           }
         ],
         "faqs": [
           {
-            "question": "¿Com que frequência se deve trocar a lâmpada UVB?",
-            "answer": "As lâmpadas UVB perdem eficácia de radiação muito antes de fundirem. Devem ser trocadas a cada 6 a 12 meses, mesmo que continuem a dar luz."
+            "question": "Com que frequência devo substituir a lâmpada UVB do dragão barbudo?",
+            "answer": "As lâmpadas UVB perdem a capacidade de emissão de radiação ultravioleta muito antes de fundirem. Independentemente de continuarem a emitir luz visível, devem ser trocadas a cada 6 a 12 meses."
           },
           {
-            "question": "¿Quais são os primeiros sinais da Doença Óssea Metabólica (MBD)?",
-            "answer": "Mandíbula mole, patas inchadas, tremores musculares ou fraqueza nas pernas ao andar. Se notar isto, troque a lâmpada e consulte o veterinário."
+            "question": "Quais são os primeiros sinais da Doença Óssea Metabólica (MBD)?",
+            "answer": "Mandíbula amolecida, articulações das patas inchadas, tremores musculares e perda de força ao andar são sinais precoces. Se notar estes sintomas, ajuste a iluminação imediatamente e consulte um veterinário especialista."
           }
         ],
         "tags": [
           "Dragão Barbudo",
-          "Cálcio para Répteis",
-          "Iluminação UVB",
+          "Suplementação de Cálcio",
+          "Manejo de Luz UVB",
           "Prevenção de MBD"
         ]
       },
       "id": {
-        "title": "Panduan Berjemur Bearded Dragon dan Rutinitas 3 Langkah Kalsium-UVB",
-        "description": "Merawat kadal Bearded Dragon yang jinak. Pahami arti head bobbing dan cegah penyakit tulang metabolik (MBD) dengan lampu dan kalsium.",
-        "authority": "Pedoman Pemeliharaan Association of Reptilian and Amphibian Veterinarians (ARAV) dan Standar Herpetologi",
+        "title": "Panduan Berjemur Bearded Dragon dan Rutinitas Harian 3 Langkah Kalsium-UVB",
+        "description": "Cara merawat kadal Bearded Dragon yang jinak. Pahami arti gerakan kepala dan cegah Penyakit Tulang Metabolik (MBD) dengan 3 langkah pencahayaan dan kalsium.",
+        "authority": "Pedoman Pemeliharaan Association of Reptilian and Amphibian Veterinarians (ARAV) dan Standar Perilaku Kedokteran Hewan Klinis Herpetologi",
         "profile": {
-          "breed": "Bearded Dragon",
+          "breed": "Bearded Dragon (Pogona vitticeps)",
           "lifespan": "10 ~ 15 tahun",
-          "sleep_pattern": "10 ~ 12 jam (diurnal: aktif di siang hari)",
+          "sleep_pattern": "10 ~ 12 jam (diurnal - aktif di siang hari)",
           "temperament": "Jinak, tenang, penasaran, ramah, pengamat"
         },
-        "intro": "Bearded dragon adalah salah satu reptil peliharaan paling populer karena sifat mereka yang ramah. Namun, sebagai hewan berdarah dingin, mereka bergantung sepenuhnya pada panas luar dan radiasi UVB untuk mencerna makanan dan menyerap kalsium. Tanpa lampu UVB dan suhu hangat yang tepat, mereka dapat menderita Penyakit Tulang Metabolik (MBD) yang membuat tulang lunak. Hari ini, PetSelf mengurai bahasa tubuh bearded dragon dan membagikan 3 langkah rutinitas kalsium dan penyinaran harian.",
-        "whyTitle": "Komunikasi Bearded Dragon: Anggukan Kepala dan Lambaian Kaki",
-        "whyDesc": "Bearded dragon menggunakan gerakan tubuh untuk berkomunikasi. Mengangguk kepala ke atas dan bawah dengan cepat ('head bobbing') menunjukkan dominasi atau klaim wilayah. Sebaliknya, melambaikan satu kaki depan melingkar secara perlahan ('arm waving') menandakan ketundukan atau sapaan damai.",
+        "intro": "Berkat sifatnya yang tenang dan ekspresinya yang menggemaskan, bearded dragon menjadi salah satu reptil peliharaan paling populer di seluruh dunia. Namun, sebagai hewan ektotermik, mereka tidak dapat mengatur suhu tubuhnya sendiri dan bergantung sepenuhnya pada sumber panas luar serta pencahayaan UVB untuk mencerna makanan, mensintesis vitamin D3, dan menyerap kalsium. Tanpa area berjemur dan paparan UVB yang memadai, mereka sangat rentan terkena Penyakit Tulang Metabolik (MBD) yang menyebabkan tulang melunak hingga kelumpuhan. Hari ini, PetSelf akan mengulas bahasa tubuh bearded dragon dan membagikan 3 langkah rutinitas pencahayaan dan kalsium harian untuk menjaga kesehatan tulangnya.",
+        "whyTitle": "Bahasa Perilaku Bearded Dragon: Mengangguk dan Melambaikan Kaki",
+        "whyDesc": "Bearded dragon menggunakan gerakan tubuh yang khas untuk menunjukkan hierarki dan menyampaikan emosi. Menganggukkan kepala ke atas dan ke bawah secara cepat—yang dikenal sebagai **'Head Bobbing'**—merupakan bentuk dominasi dan klaim wilayah yang kuat. Sebaliknya, memutar satu kaki depan secara perlahan di udara—yang disebut **'Arm Waving'**—adalah sinyal sosial berupa ketundukan, kedamaian, dan keramahan yang menandakan 'saya bukan ancaman'.",
         "body_signals": [
           {
-            "name": "Mengangguk Cepat (Head bobbing)",
-            "meaning": "Tanda dominasi atau teritorial, sering dilakukan saat melihat reptil lain atau pantulan diri di kaca.",
-            "response": "Pelihara kadal ini sendirian (memelihara bersama memicu stres berat) dan tutupi dinding kaca yang memantulkan bayangan."
+            "name": "Head Bobbing (Menganggukkan Kepala dengan Cepat)",
+            "meaning": "Bentuk penegasan dominasi dan klaim wilayah. Sering terjadi saat melihat individu lain atau saat terstimulasi oleh pantulan bayangan sendiri di dinding kaca.",
+            "response": "Pelihara kadal secara terpisah (soliter) untuk mencegah stres akibat pemeliharaan bersama, dan gunakan stiker anti-reflektif pada dinding kaca."
           },
           {
-            "name": "Melambaikan Kaki Depan (Arm waving)",
-            "meaning": "Tanda ketundukan yang menyatakan 'saya bukan ancaman' kepada manusia atau naga yang lebih besar.",
-            "response": "Dekati secara perlahan setinggi matanya, ajak bicara dengan tenang, dan beri serangga kecil untuk membangun kepercayaan."
+            "name": "Arm Waving (Memutar Kaki Depan secara Perlahan)",
+            "meaning": "Sinyal sosial yang damai dan tunduk untuk menunjukkan tidak adanya niat menyerang, ditunjukkan kepada makhluk yang lebih besar atau pemiliknya.",
+            "response": "Mendekatlah dari posisi rendah secara perlahan, ajak bicara dengan suara yang tenang, dan berikan hadiah makanan agar reptil mengenali pemiliknya sebagai sosok yang aman."
           }
         ],
         "daily_routine": [
           {
-            "name": "Pagi: Menyalakan Lampu Basking & UVB",
-            "text": "Nyalakan lampu terrarium. Pastikan titik basking mencapai 35-40 °C agar mereka dapat menaikkan suhu tubuh untuk mencerna makanan."
+            "name": "Pagi: Menyalakan Pemanas Basking & Lampu UVB",
+            "text": "Nyalakan lampu pemanas (spotlight) dan lampu UVB. Pastikan suhu titik berjemur mencapai 35–40 °C agar suhu tubuhnya naik dan enzim pencernaan dapat bekerja."
           },
           {
-            "name": "Siang: Pemberian Pakan Serangga Berbalut Kalsium",
-            "text": "Berikan serangga yang telah ditaburi bubuk kalsium (dengan D3 untuk reptil indoor). Sediakan sayuran hijau segar."
+            "name": "Siang: Pemberian Pakan Serangga Bernutrisi & Taburan Kalsium",
+            "text": "Berikan serangga pakan hidup yang telah ditaburi bubuk kalsium (mengandung D3 untuk pemeliharaan dalam ruangan) serta sayuran tinggi kalsium seperti chicory dan pakcoy."
           },
           {
-            "name": "Malam: Mematikan Lampu & Penurunan Suhu",
-            "text": "Matikan semua lampu. Pastikan suhu malam turun secara alami namun tidak berada di bawah 18 °C demi menjaga metabolismenya."
+            "name": "Malam: Mematikan Lampu & Menjaga Suhu Malam yang Aman",
+            "text": "Matikan seluruh lampu di dalam kandang. Biarkan suhu turun secara alami di malam hari untuk istirahat metabolisme, namun pastikan suhu tidak turun di bawah 18 °C."
           }
         ],
         "faqs": [
           {
-            "question": "Seberapa sering saya harus mengganti lampu UVB?",
-            "answer": "Lampu UVB kehilangan radiasi efektifnya jauh sebelum lampunya mati. Lampu UVB harus diganti setiap 6 hingga 12 meses meskipun masih menyala terang."
+            "question": "Seberapa sering lampu UVB bearded dragon harus diganti?",
+            "answer": "Lampu UVB akan kehilangan intensitas radiasi ultraviolatnya jauh sebelum lampunya benar-benar padam secara visual. Terlepas dari apakah lampu masih menyala terang, lampu UVB wajib diganti setiap 6 hingga 12 bulan."
           },
           {
             "question": "Apa saja gejala awal Penyakit Tulang Metabolik (MBD)?",
-            "answer": "Gejalanya meliputi rahang bawah yang lunak, kaki bengkak, gemetar pada otot, atau kelemahan saat merayap. Jika terlihat tanda ini, ganti lampu UVB dan bawa ke dokter hewan eksotis."
+            "answer": "Rahang bawah yang melunak, pembengkakan pada sendi kaki, otot gemetar, dan kaki yang lemas atau terseret saat berjalan adalah gejala awalnya. Jika menemukan tanda-tanda ini, segera perbaiki peralatan pencahayaan dan periksakan ke dokter hewan spesialis hewan eksotis."
           }
         ],
         "tags": [
           "Bearded Dragon",
-          "Kalsium Reptil",
-          "Lampu UVB",
+          "Pemberian Kalsium Reptil",
+          "Manajemen Lampu UVB",
           "Pencegahan MBD"
         ]
       },
@@ -456,7 +456,7 @@
         "description": "온순한 비어디 드래곤 도마뱀 케어법. 머리를 흔드는 사회적 신호와 대사성 골질환(MBD)을 예방하는 3단계 조명 및 칼슘 공급 루틴을 다룹니다.",
         "authority": "양서파충류수의학회(ARAV) 사육 가이드라인 및 파충류 임상 표준 수의 행동학",
         "profile": {
-          "breed": "비어디 드래곤 (Bearded Dragon)",
+          "breed": "비어디 드래곤 (Pogona vitticeps)",
           "lifespan": "10 ~ 15년",
           "sleep_pattern": "10 ~ 12시간 (주간 활동성)",
           "temperament": "온순함, 차분함, 호기심 많음, 친근함, 관찰력 있음"
@@ -497,7 +497,7 @@
           },
           {
             "question": "대사성 골질환(MBD)의 초기 신호는 무엇인가요?",
-            "answer": "턱뼈가 말랑해지거나 다리 관절 부종, 근육 떨림, 걸을 때 힘없이 미끄러지는 현상 등이 초기 증상입니다. 이를 발견하면 즉시 조명 설비를 보강하고 전문 수의사의 질료를 받아야 합니다."
+            "answer": "턱뼈가 말랑해지거나 다리 관절 부종, 근육 떨림, 걸을 때 힘없이 미끄러지는 현상 등이 초기 증상입니다. 이를 발견하면 즉시 조명 설비를 보강하고 전문 수의사의 진료를 받아야 합니다."
           }
         ],
         "tags": [

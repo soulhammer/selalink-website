@@ -5,7 +5,7 @@ description: "안아 올리면 인형처럼 힘을 빼는 사랑스러운 거대
 pubDate: "2026-06-18"
 updatedDate: "2026-06-18"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","렉돌 (Ragdoll)"]
+tags: ["반려동물","펫케어","렉돌 (Felis catus / Ragdoll)"]
 heroImage: "/images/blog/ragdoll_care.png"
 app: "petself"
 formatVersion: 4
@@ -13,11 +13,11 @@ authority: "Cat Fanciers' Association (CFA) 렉돌 표준 가이드 및 AAFP 고
 steps:
   - name: "렉돌의 카밍 시그널: 눈인사와 편안한 발가락 펴기"
     text: "렉돌 고양이는 보호자에 대한 높은 신뢰감을 몸의 힘을 푸는 것 외에도 눈빛과 발짓으로 섬세하게 표현합니다. 대표적인 안정 신호는 '눈인사(Slow Blink)'와 '발가락 펴기(Paw Flexing)'입니다. 보호자를 바라보며 눈을 아주 천천히 감았다 뜨는 눈인사는 적의가 전혀 없고 완전히 안심했다는 사랑의 메시지입니다. 이때 기분이 극도로 좋으면 뒷발이나 앞발가락을 부채처럼 넓게 폈다 오므리는 행동을 합니다. 이때 턱밑이나 귀 뒤를 살살 긁어주면 렉돌의 행복감은 극대화됩니다."
-  - name: "렉돌 (Ragdoll)의 몸짓 언어와 바디 시그널"
+  - name: "렉돌 (Felis catus / Ragdoll)의 몸짓 언어와 바디 시그널"
     text: "* 눈인사 (Slow Blink): 상대방을 전적으로 신뢰하며 주변 환경에서 평화와 안정을 느낀다는 애정 신호입니다. (함께 마주 보며 눈을 가볍게 감았다가 떠주는 템포로 화답해 신뢰감을 높여주세요.)
 
 * 발가락 펴기 (Paw Flexing): 어미 고양이 품에 안겨 우유를 먹던 기억이 연상되어 극도의 심리적 쾌적함을 나타냅니다. (이 행동을 보일 때는 터치를 멈추지 말고 턱밑이나 목 주변을 계속 쓸어주면 더욱 좋아합니다.)"
-  - name: "렉돌 (Ragdoll) 맞춤형 3단계 홈케어 루틴"
+  - name: "렉돌 (Felis catus / Ragdoll) 맞춤형 3단계 홈케어 루틴"
     text: "* STEP 1. 아침: 골격 활성화를 위한 가벼운 신체 이완 스트레칭: 대형 묘종이라 하체 관절에 쉽게 피로가 누적되므로, 아침 산책이나 활동을 시작하기 전 뒷다리를 부드럽게 쥐고 가볍게 펴주는 이완 스트레칭으로 다리 관절의 가동 범위를 보호합니다.
 
 * STEP 2. 낮: 엉킴 방지 핀 브러싱 및 모질 환기: 렉돌의 속털은 매우 부드럽고 촘촘해 엉키기 쉽습니다. 끝이 뭉툭한 핀 브러시로 결을 따라 빗어 모질에 공기를 통하게 해주고 피부염과 헤어볼 생성을 사전에 방지합니다.
@@ -64,7 +64,7 @@ faqs:
 
 ---
 
-## 2. 렉돌 (Ragdoll)의 몸짓 언어와 바디 시그널
+## 2. 렉돌 (Felis catus / Ragdoll)의 몸짓 언어와 바디 시그널
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -90,7 +90,7 @@ faqs:
 
 ---
 
-## 3. 렉돌 (Ragdoll) 맞춤형 3단계 홈케어 루틴
+## 3. 렉돌 (Felis catus / Ragdoll) 맞춤형 3단계 홈케어 루틴
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
