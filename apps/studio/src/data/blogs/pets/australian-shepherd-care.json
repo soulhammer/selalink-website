@@ -1,0 +1,516 @@
+{
+    "australian-shepherd-care": {
+        "pubDate": "2026-01-15",
+        "updatedDate": "2026-01-15",
+        "locales": {
+            "ko": {
+                "title": "오스트레일리안 셰퍼드의 충성·목양 신호 해석과 MDR1 유전자 변이 및 고관절 이형성증 예방을 위한 3단계 데일리 케어",
+                "description": "뛰어난 지능과 에너지를 지닌 목양견 오스트레일리안 셰퍼드(Australian Shepherd). 엉덩이 춤(Wiggle Butt) 및 발목 몰기 신호 해석, MDR1 약물 부작용·안과 질환 케어 및 관절 보호를 위한 3단계 홈케어 루틴을 소개합니다.",
+                "authority": "미국 케넬 클럽 (AKC) 및 United Australian Shepherd Association (USASA) 케어 프로토콜",
+                "profile": {
+                    "breed": "오스트레일리안 셰퍼드 (Australian Shepherd / Aussie)",
+                    "lifespan": "12 ~ 15년",
+                    "sleep_pattern": "12 ~ 14시간 (고강도 운동·작업 후 깊은 수면)",
+                    "temperament": "충직함, 영리함, 에너제틱, 목양 본능, 열정적"
+                },
+                "intro": "화려한 코트 색상과 뛰어난 지능, 폭발적인 에너지를 지닌 오스트레일리안 셰퍼드(Australian Shepherd, 일명 '오시')는 전 세계 스포츠견이자 열정적인 목양견으로 사랑받는 품종입니다. 보호자에 대한 충성심과 학습 능력이 매우 뛰어나지만, 목양 본능이 강하여 뛰는 아이나 타 동물의 발목을 무는 행동(Ankle Nipping)을 보일 수 있습니다. 또한 콜리·셰퍼드 계열 특유의 MDR1(다제내성) 유전자 변이 비율이 높아 심사상 심각한 약물 부작용을 겪을 수 있으며, 유전적 안과 질환(CEA) 및 고관절 이형성증(HD)에 취약하므로 세심한 건강 관리가 필수적입니다. 오늘 PetSelf에서는 오스트레일리안 셰퍼드의 신체 신호를 정확히 읽어내고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.",
+                "whyTitle": "오스트레일리안 셰퍼드의 바디 랭귀지: 엉덩이 춤(Wiggle Butt)과 발목 몰기·시선 고정(Ankle Nipping / Eyeing)",
+                "whyDesc": "오스트레일리안 셰퍼드는 하체 움직임과 고정된 시선으로 반가움과 목양 본능 신호를 명확히 표현합니다. 보호자를 맞이할 때 꼬리가 없거나 짧은 꼬리를 포함해 하반신 전체를 좌우로 거세게 흔드는 **'엉덩이 춤(Wiggle Butt)'**은 극도의 반가움과 애정을 나타내는 대표적 신호입니다. 반면 고개를 숙이고 상대를 뚫어지게 응시하며 발목을 살짝 무는 **'발목 몰기(Ankle Nipping / Eyeing)'**는 동물을 통제하려는 자연스러운 목양 본능 발현 신호입니다.",
+                "body_signals": [
+                    {
+                        "name": "보호자를 보고 하반신 전체를 거세게 좌우로 흔듦 (Wiggle Butt)",
+                        "meaning": "보호자에 대한 깊은 신뢰와 극도의 반가움을 표현하는 오스트레일리안 셰퍼드 특유의 애정 표현입니다.",
+                        "response": "밝은 목소리로 응답하고 차분하게 몸을 쓸어내려 주어 과도한 흥분으로 이어지지 않게 교감합니다."
+                    },
+                    {
+                        "name": "몸을 낮추고 대상을 응시하며 뛰는 사람의 뒤꿈치/발목을 물려고 함 (Ankle Nipping / Eyeing)",
+                        "meaning": "움직이는 대상을 통제하려는 본능적인 목양 자극 신호로, 방치 시 습관적 몰이 공격으로 발전할 수 있습니다.",
+                        "response": "'기다려'나 '장난감 가져와' 명령어 등으로 시선을 즉시 차단하고 지능 개발용 원반·공 놀이로 욕구를 전환시킵니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 고단백 영양 식사 급여 및 MDR1 유전자 관련 위장·약물 민감성 체크",
+                        "text": "에너지 소모량이 큰 품종 특성에 맞춘 고단백 사료를 급여하되, 구충제나 약물 복용 시 MDR1 유전자 부작용 유무를 사전에 점검합니다."
+                    },
+                    {
+                        "name": "낮: 고강도 운동(60분 이상) 및 원반(프리스비)·아질리티 지능 브레인 게임",
+                        "text": "체력 및 지능 욕구 충족을 위해 넓은 운동장에서 러닝, 원반 던지기, 노즈워크 및 높은 수준의 복종 훈련을 실시합니다."
+                    },
+                    {
+                        "name": "저녁: 풍성한 이중모(Double Coat) 빗질 및 안과·관절 상태 점검",
+                        "text": "속털 엉킴과 탈모를 방지하기 위해 핀 브러시로 결을 따라 빗어주고, 눈의 탁함 유무 및 고관절 통증 반응을 점검합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "오스트레일리안 셰퍼드 사육 시 왜 'MDR1 유전자 변이'를 반드시 검사해야 하나요?",
+                        "answer": "MDR1(Multi-Drug Resistance 1) 유전자 변이는 오스트레일리안 셰퍼드 종에서 빈번하게 발생하는 유전적 결함으로, P-글리코프로테인 펌프 기능이 저하되어 특정 심장사상충 예방약(구충제 등)이나 마취제, 설사약 투여 시 뇌로 약물이 침투하여 신경독성, 경련, 발작, 나아가 사망을 유발할 수 있습니다. 입양 후 반드시 DNA 검사를 실시하고 수의사에게 이 사실을 알려 안전한 약물을 처방받아야 합니다."
+                    },
+                    {
+                        "question": "집안에서 뛰어다니는 아이들의 발목을 자꾸 물리는데 어떻게 교정해야 하나요?",
+                        "answer": "이는 가축의 뒤꿈치를 물어 이동시키던 목양견 특유의 '힐링(Heeling/Ankle Nipping)' 본능입니다. 아이들이 뛸 때 소리를 지르면 개는 떼를 몰이하는 즐거운 상황으로 오인하므로 뛰는 동작을 멈추고 정지해야 합니다. 동시에 차분히 앉아있을 때 포상하는 복종 훈련과 프리스비, 공 던지기 같은 원활한 에너지 발산 대체 활동을 매일 제공해야 합니다."
+                    }
+                ],
+                "tags": [
+                    "오스트레일리안셰퍼드",
+                    "목양견케어",
+                    "MDR1유전자변이",
+                    "강아지아질리티"
+                ]
+            },
+            "en": {
+                "title": "Australian Shepherd Behavioral Signals and 3-Step Daily Routine for MDR1 Gene Sensitivity and Hip Dysplasia Care",
+                "description": "Care guide for the highly intelligent Australian Shepherd. Interpret the Wiggle Butt and ankle nipping signals, manage MDR1 drug sensitivities, eye diseases, and joint health in 3 steps.",
+                "authority": "American Kennel Club (AKC) & United Australian Shepherd Association (USASA) Care Standards",
+                "profile": {
+                    "breed": "Australian Shepherd (Aussie)",
+                    "lifespan": "12 - 15 Years",
+                    "sleep_pattern": "12 - 14 Hours (Restful deep sleep after intense athletic activity)",
+                    "temperament": "Loyal, Highly Intelligent, Energetic, Strong Herding Drive, Enthusiastic"
+                },
+                "intro": "Renowned for their striking coat variations, exceptional intelligence, and boundless energy, the Australian Shepherd ('Aussie') is a world-class canine athlete and devoted family companion. Highly loyal and eager to learn, Aussies possess a powerful herding instinct that may manifest as ankle-nipping toward running children or other pets. Furthermore, they carry a high prevalence of the MDR1 (Multi-Drug Resistance 1) gene mutation, making them extremely sensitive to certain routine veterinary medications. They are also prone to hereditary ocular disorders such as Collie Eye Anomaly (CEA) and Hip Dysplasia (HD). Today, PetSelf presents a 3-step daily care routine to decode your Aussie's body language and protect its health.",
+                "whyTitle": "Australian Shepherd Body Language: The Wiggle Butt and Ankle Nipping (Eyeing / Herding Drive)",
+                "whyDesc": "Australian Shepherds express joy and herding intent through expressive hindquarter movements and intense gazes. Shaking their entire lower body side-to-side upon greeting **'The Wiggle Butt'** is an iconic expression of uninhibited joy and affection. Conversely, lowering their head, fixing an intense unblinking gaze on a moving target, and nipping at heels **'Ankle Nipping / Eyeing'** is an instinctual herding signal aimed at controlling movement.",
+                "body_signals": [
+                    {
+                        "name": "Vigorously Shaking the Entire Lower Body Side-to-Side Upon Greeting (Wiggle Butt)",
+                        "meaning": "An iconic Aussie affection display signaling profound joy, excitement, and deep attachment toward their owner.",
+                        "response": "Acknowledge calmly with gentle strokes, keeping energy relaxed to prevent over-arousal."
+                    },
+                    {
+                        "name": "Lowering Head, Staring Intently, and Nipping at Heels of Moving People (Ankle Nipping / Eyeing)",
+                        "meaning": "An instinctual herding behavior used to control and direct livestock or moving objects.",
+                        "response": "Immediately interrupt the behavior with obedience commands like 'Stay' or redirect their focus to frisbee or ball fetch games."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: High-Protein Nutrition & MDR1 Drug Sensitivity Status Verification",
+                        "text": "Provide high-protein food to sustain their active metabolism, ensuring all heartworm preventatives or medications comply with their MDR1 status."
+                    },
+                    {
+                        "name": "Afternoon: High-Intensity Athletic Exercise (60+ Min) & Brain Enrichment (Agility / Frisbee)",
+                        "text": "Fulfill their athletic drive through open-field running, disc catching, agility obstacles, and advanced obedience brain games."
+                    },
+                    {
+                        "name": "Evening: Dense Double-Coat Grooming & Joint / Ocular Health Inspection",
+                        "text": "Brush their double coat with a pin brush to remove loose undercoat fur, inspecting eyes for cloudiness and checking hips for stiffness."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Why is DNA testing for the 'MDR1 Gene Mutation' critical for Australian Shepherds?",
+                        "answer": "The MDR1 (ABCB1) gene mutation reduces P-glycoprotein function, allowing drugs to cross the blood-brain barrier. If an affected Aussie receives standard doses of specific drugs (like ivermectin, loperamide, or certain anesthetics), it can cause severe neurotoxicity, seizures, paralysis, or fatal shock. Testing their MDR1 status via DNA and sharing results with your veterinarian is vital for drug safety."
+                    },
+                    {
+                        "question": "How do I manage my Aussie's instinctual behavior of nipping at children's ankles?",
+                        "answer": "Ankle nipping stems from their instinctual 'heeling' behavior used to drive cattle. High-pitched squeals or running by children encourage the dog to herd harder. Teach children to freeze completely when the dog nips. Simultaneously, provide daily outlets for their herding drive through sports like Treibball, Frisbee, or agility training."
+                    }
+                ],
+                "tags": [
+                    "AustralianShepherd",
+                    "HerdingDogCare",
+                    "MDR1GeneMutation",
+                    "CanineAgility"
+                ]
+            },
+            "ja": {
+                "title": "オーストラリアン・シェパードの忠誠・牧羊サイン解読とMDR1遺伝子変異および股関節形成不全(HD)予防のための3ステップデイリールーティン",
+                "description": "極めて高い知性とエネルギーを持つ牧羊犬オーストラリアン・シェパード（Australian Shepherd）。ウィグルバット（お尻振り）やかかと噛みサインの解読、MDR1薬物過敏症・眼疾患ケアおよび関節保護の3ステップホームケアを紹介します。",
+                "authority": "アメリカンケネルクラブ(AKC)およびUnited Australian Shepherd Association(USASA)飼育基準",
+                "profile": {
+                    "breed": "オーストラリアン・シェパード (Australian Shepherd / Aussie)",
+                    "lifespan": "12 〜 15年",
+                    "sleep_pattern": "12 〜 14時間 (高強度の運動・作業後の深い睡眠)",
+                    "temperament": "忠実、極めて知的、エネルギッシュ、牧羊本能、情熱的"
+                },
+                "intro": "美しく多彩な被毛と優れた知能、爆発的な運動能力を持つオーストラリアン・シェパード（Australian Shepherd / 愛称：オージー）は、ドッグスポーツや家庭犬として世界中で愛されている万能牧羊犬です。飼い主に対する忠誠心と学習能力が非常に高い反面、本能的な牧羊意欲から走る子供や他犬のかかとを噛む行動（Ankle Nipping）を見せることがあります。またコリー系特有のMDR1（多剤耐性）遺伝子変異の保有率が高く、一般的な寄生虫予防薬や麻酔薬で重篤な副作用を起こすリスクがあります。さらにコリー・アイ異常（CEA）や股関節形成不全（HD）にも注意が必要です。本日PetSelfでは、オージーのサインを解読し健康を守る3ステップルーティンをお届けします。",
+                "whyTitle": "オージーのボディランゲージ：ウィグルバット(Wiggle Butt)とかかと噛み・凝視(Ankle Nipping / Eyeing)",
+                "whyDesc": "オーストラリアン・シェパードは下半身の動きと鋭い視線で喜びや牧羊本能を明確に表現します。飼い主を迎える際に下半身全体を激しく左右に振る**「ウィグルバット（Wiggle Butt / お尻ダンス）」**は、溢れる親愛と歓喜のサインです。一方、姿勢を低くして対象をじっと凝視し、かかとを噛もうとする**「かかと噛み・凝視（Ankle Nipping / Eyeing）」**は、動く対象をコントロールしようとする本能的な牧羊行動サインです。",
+                "body_signals": [
+                    {
+                        "name": "飼い主を見て下半身全体を左右に激しく振る (Wiggle Butt)",
+                        "meaning": "飼い主への深い信頼と最高の喜びを表すオーストラリアン・シェパード固有の親愛表現です。",
+                        "response": "明るい声で応え、体を落ち着いて撫でてあげることで過度な興奮を抑えながらスキンシップを深めます。"
+                    },
+                    {
+                        "name": "体勢を低くして対象を注視し、走る人の足元やかかとを噛もうとする (Ankle Nipping / Eyeing)",
+                        "meaning": "動く対象を誘導・コントロールしようとする本能的な牧羊シグナルで、放っておくと噛み癖に発展します。",
+                        "response": "「まて」や指令で行動を遮断し、フリスビーやボール遊びで運動欲求を正しく発散させます。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：高タンパク食の給餌とMDR1遺伝子に伴う薬物過敏性の事前チェック",
+                        "text": "豊富な運動量を支える高タンパクフードを与え、フィラリア予防薬や投薬の際はMDR1遺伝子変異のリスクを事前に確認します。"
+                    },
+                    {
+                        "name": "昼：高強度運動(60分以上)とフリスビー・アジリティ等の知育ドッグスポーツ",
+                        "text": "広場でのランニング、フライングディスク、ドッグアジリティ、高度な服従訓練を組み合わせて知性と体力を満たします。"
+                    },
+                    {
+                        "name": "夜：豊かなダブルコートのブラッシングと眼・関節状態の点検",
+                        "text": "抜け毛や毛玉を防ぐためピンブラシで丁寧にブラッシングし、瞳の濁りや股関節の違和感がないかチェックします。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "オーストラリアン・シェパードを飼育する際、なぜ「MDR1遺伝子検査」が必要なのですか？",
+                        "answer": "MDR1（Multi-Drug Resistance 1）遺伝子変異は、オージーを含む牧羊犬種に多く見られる遺伝的欠陥です。薬物を脳から排出するタンパク質（P糖蛋白）が機能せず、イベルメクチンなどの駆虫薬や特定の麻酔薬、下痢止めを投与した際に薬物が脳に達し、神経毒性、痙攣、麻痺、ショック死を引き起こす危険があります。お迎え後にDNA検査を受け、獣医師にMDR1保有の有無を伝えることが命を守るために不可欠です。"
+                    },
+                    {
+                        "question": "子供の足を追いかけてかかとを噛もうとするのですが、どう対処すればいいですか？",
+                        "answer": "これは牛や羊のかかとを噛んで群れを動かしていた本能的な「ヒール（Heeling/Ankle Nipping）」行動です。子供が走って声を上げると犬は牧羊ゲームだと勘違いするため、噛まれそうになったら立ち止まって動きを止めることが鉄則です。同時に、「おすわり」などの制止指示の訓練を徹底し、フリスビーやボール投げで欲求を発散させてあげましょう。"
+                    }
+                ],
+                "tags": [
+                    "オーストラリアンシェパード",
+                    "牧羊犬ケア",
+                    "MDR1遺伝子変異",
+                    "ドッグアジリティ"
+                ]
+            },
+            "zh": {
+                "title": "澳大利亚牧羊犬行为信号解读与 MDR1 基因突变及髋关节发育不良 (HD) 预防的 3 步日常流程",
+                "description": "拥有极高智商与爆敏捷度的大热牧羊犬澳大利亚牧羊犬（Aussie）。解读扭屁股（Wiggle Butt）与咬脚踝信号，管理 MDR1 药物敏感、眼疾及关节保护的 3 步骤家庭护理。",
+                "authority": "美国犬业俱乐部 (AKC) 与美国澳大利亚牧羊犬协会 (USASA) 护理标准",
+                "profile": {
+                    "breed": "澳大利亚牧羊犬 / 澳牧 (Australian Shepherd / Aussie)",
+                    "lifespan": "12 ~ 15年",
+                    "sleep_pattern": "12 ~ 14小时 (高强度运动与工作后的深度高质量睡眠)",
+                    "temperament": "忠诚、极度聪明、精力充沛、驱赶本能强、充满热忱"
+                },
+                "intro": "凭其炫彩的被毛、卓越的智力以及惊人的敏捷度，澳大利亚牧羊犬（Australian Shepherd，简称“澳牧”）是风靡全球的运动犬与家庭伴侣。它们对主人无比忠诚且极具学习天赋，但由于天生携带强烈的驱赶本能，极易出现追逐并轻咬跑步儿童或宠物脚踝的行为（Ankle Nipping）。此外，澳牧携带 MDR1（多药耐药性）基因突变的概率极高，对常规驱虫药与麻醉药极度敏感。它们还易患柯利犬眼部异常（CEA）及髋关节发育不良（HD）。今天 PetSelf 将带您准确解读澳牧肢体语言，并通过 3 步骤日常护理维护其健康。",
+                "whyTitle": "澳牧肢体语言：扭屁股舞 (Wiggle Butt) 与咬脚踝·凝视 (Ankle Nipping / Eyeing)",
+                "whyDesc": "澳大利亚牧羊犬通过下半身剧烈摆动与死死凝视的眼神表达欢愉与驱赶本能。在迎接主人时连同短尾或无尾的下半身一起剧烈左右晃动**“扭屁股舞 (Wiggle Butt)”**，是表达极致亲密与喜悦的代表性行为。相反，压低身体、死死盯住移动目标并轻咬脚踝**“咬脚踝·凝视 (Ankle Nipping / Eyeing)”**，则是试图控制与驱赶目标的本能信号。",
+                "body_signals": [
+                    {
+                        "name": "见到主人时下半身及臀部剧烈左右摇摆 (Wiggle Butt)",
+                        "meaning": "表达对主人极度信任、喜悦与深厚依恋的澳牧专属标志性爱意行为。",
+                        "response": "用欢快的语气给予回应，抚摸其身体使其保持情绪稳定，避免过度亢奋。"
+                    },
+                    {
+                        "name": "压低身体、死死凝视并试图轻咬跑步者的脚踝 (Ankle Nipping / Eyeing)",
+                        "meaning": "试图控制移动目标的驱赶本能发作信号，若不加引导可能演变为习惯性轻咬攻击。",
+                        "response": "立即使用“定”或“看我”指令阻断行为，并用飞盘、抛接球等运动消耗其驱赶精力。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：投喂高蛋白营养主粮与确认 MDR1 基因药物敏感状态",
+                        "text": "投喂符合其高代谢率的高蛋白主粮，并在使用驱虫药或任何药物前确认 MDR1 突变状态。"
+                    },
+                    {
+                        "name": "中午：高强度户外运动（60分钟以上）与飞盘·敏捷障碍智力开发",
+                        "text": "在开阔场地进行跑步、接飞盘、敏捷障碍赛及高难度服从性训练，满足其运动量与高智商需求。"
+                    },
+                    {
+                        "name": "晚上：浓密双层被毛梳理与眼部·关节健康排查",
+                        "text": "用针梳顺着毛流梳理底毛以防打结，检查眼球是否混浊及髋关节是否有硬直疼痛反应。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "为什么饲养澳大利亚牧羊犬必须进行“MDR1 基因检测”？",
+                        "answer": "MDR1（ABCB1）基因突变会导致 P-糖蛋白功能缺陷，使药物极易透过血脑屏障进入脑部。若携带该突变的澳牧使用了正常剂量的伊维菌素（驱虫药）、洛哌丁胺（止泻药）或特定麻醉药，会引发严重的中枢神经毒性、抽搐、瘫痪甚至猝死。领养后务必进行 DNA 检测并将结果告知兽医。"
+                    },
+                    {
+                        "question": "澳牧总是喜欢追咬家里奔跑的小孩脚踝，应该如何纠正？",
+                        "answer": "轻咬脚踝源于牧羊犬通过咬牛羊后跟（Heeling）来驱赶牲畜的本能。孩子奔跑尖叫会被澳牧误以为是在玩驱赶游戏。正确的做法是教导孩子被追时立刻站立“冻结”不动。同时，每日必须通过飞盘、抛接球或敏捷训练为其提供合法的能量发散渠道。"
+                    }
+                ],
+                "tags": [
+                    "澳大利亚牧羊犬",
+                    "澳牧护理",
+                    "MDR1基因突变",
+                    "狗狗敏捷训练"
+                ]
+            },
+            "es": {
+                "title": "Señales de conducta en el Pastor Australiano (Aussie) y rutina diaria de 3 pasos para la sensibilidad del gen MDR1 y displasia de cadera",
+                "description": "Guía de cuidado para el altamente inteligente Pastor Australiano. Interprete el meneo de cadera (Wiggle Butt) y el mordisqueo de tobillos, controle la sensibilidad al gen MDR1 y proteja sus articulaciones en 3 pasos.",
+                "authority": "American Kennel Club (AKC) y Normas de la United Australian Shepherd Association (USASA)",
+                "profile": {
+                    "breed": "Pastor Australiano (Australian Shepherd / Aussie)",
+                    "lifespan": "12 ~ 15 años",
+                    "sleep_pattern": "12 ~ 14 horas (Sueño profundo tras intensa actividad atlética)",
+                    "temperament": "Leal, Muy inteligente, Energético, Fuerte instinto de pastoreo, Entusiasta"
+                },
+                "intro": "Famoso por su llamativo pelaje, su inteligencia excepcional y su energía inagotable, el Pastor Australiano ('Aussie') es un atleta canino de clase mundial y un perro de familia devoto. Altamente leales y receptivos al entrenamiento, poseen un instinto de pastoreo innato que puede manifestarse como mordisqueo de tobillos (Ankle Nipping) hacia niños o mascotas en movimiento. Además, la raza presenta una alta frecuencia de la mutación del gen MDR1 (resistencia multidroga), haciéndolos peligrosamente sensibles a ciertos medicamentos veterinarios. También son propensos a la Anomalía del Ojo del Collie (CEA) y Displasia de Cadera (HD). Hoy, PetSelf presenta una rutina de 3 pasos para cuidar su salud.",
+                "whyTitle": "Lenguaje corporal del Pastor Australiano: Meneo de cadera (Wiggle Butt) y mordisqueo de tobillos (Ankle Nipping / Eyeing)",
+                "whyDesc": "El Pastor Australiano comunica alegría e instinto de pastoreo mediante intensos movimientos de su parte trasera y miradas fijas. Agitar todo el tren posterior al saludar **'Meneo de cadera (Wiggle Butt)'** es su muestra icónica de afecto y entusiasmo. Por el contrario, agachar la cabeza, fijar la mirada sin parpadear y mordisquear los talones **'Mordisqueo de tobillos (Ankle Nipping / Eyeing)'** es un gesto instintivo para controlar y guiar el movimiento.",
+                "body_signals": [
+                    {
+                        "name": "Agitar efusivamente todo el cuerpo y la cadera de lado a lado al saludar (Wiggle Butt)",
+                        "meaning": "Muestra de afecto icónica del Aussie que demuestra alegría desbordante, confianza y devoción por su dueño.",
+                        "response": "Responda con voz calmada y caricias suaves para mantener la compostura sin sobreexcitarlo."
+                    },
+                    {
+                        "name": "Agachar la cabeza, mirar fijamente y mordisquear los talones de personas en movimiento (Ankle Nipping / Eyeing)",
+                        "meaning": "Señal del instinto de pastoreo utilizada para dirigir ganado; requiere canalización para evitar picotazos.",
+                        "response": "Interrumpa la conducta con órdenes de obediencia como 'Quieto' y redirija su energía lanzando un disco de frisbee."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Alimentación alta en proteína y verificación del estado del gen MDR1",
+                        "text": "Suministre alimento rico en proteínas para su alto metabolismo y confirme que los desparasitantes o fármacos sean seguros según su perfil genético MDR1."
+                    },
+                    {
+                        "name": "Tarde: Ejercicio físico de alta intensidad (60+ min) y estimulación mental con frisbee o agility",
+                        "text": "Satisface su impulso atlético corriendo en espacios abiertos, jugando al frisbee y realizando circuitos de agility o entrenamiento de obediencia."
+                    },
+                    {
+                        "name": "Noche: Cepillado del denso manto doble e inspección ocular y articular",
+                        "text": "Pase un cepillo de púas para retirar el subpelo muerto, inspeccionando los ojos para detectar opacidades y comprobando la movilidad de sus caderas."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Por qué es crucial realizar la prueba genérica del 'Gen MDR1' en el Pastor Australiano?",
+                        "answer": "La mutación del gen MDR1 (ABCB1) altera la glicoproteína P, permitiendo que ciertos fármacos crucen la barrera hematoencefálica. Si un Aussie afectado recibe dosis normales de ivermectina, loperamida o anestésicos, puede sufrir neurotoxicidad severa, convulsiones, parálisis o shock fatal. Es obligatorio testar su ADN para administrar medicamentos seguros."
+                    },
+                    {
+                        "question": "¿Cómo corrijo el hábito de mi Aussie de mordisquear los tobillos de los niños cuando corren?",
+                        "answer": "El mordisqueo de tobillos proviene de su instinto de pastoreo (Heeling). Si los niños gritan o corren, el perro interpreta que están jugando a pastorear. Enseñe a los niños a quedarse totalmente 'congelados' al ser perseguidos. A la vez, proporcione actividades diarias de pastoreo simulado como Treibball, frisbee o agilidad."
+                    }
+                ],
+                "tags": [
+                    "PastorAustraliano",
+                    "CuidadoDePerrosDePastoreo",
+                    "GenMDR1",
+                    "AgilityCanino"
+                ]
+            },
+            "fr": {
+                "title": "Signaux comportementaux du Berger Australien et routine quotidienne en 3 étapes pour la sensibilité au gène MDR1 et la prévention de la dysplasie",
+                "description": "Guide de soins pour le très intelligent Berger Australien (Aussie). Décryptez le trémoussement du train arrière (Wiggle Butt) et le mordillement des chevilles, gérez la sensibilité au gène MDR1 et protégez ses articulations en 3 étapes.",
+                "authority": "American Kennel Club (AKC) & Normes de l'United Australian Shepherd Association (USASA)",
+                "profile": {
+                    "breed": "Berger Australien (Australian Shepherd / Aussie)",
+                    "lifespan": "12 ~ 15 ans",
+                    "sleep_pattern": "12 ~ 14 heures (Sommeil réparateur après un exercice physique soutenu)",
+                    "temperament": "Loyal, Très intelligent, Énergique, Fort instinct de troupeau, Enthousiaste"
+                },
+                "intro": "Célèbre pour sa robe aux couleurs variées, son intelligence vive et son énergie débordante, le Berger Australien (« Aussie ») est un athlète canin d'exception et un compagnon familial très apprécié. Extrêmement loyal et réceptif, l'Aussie possède un instinct de troupeau très marqué qui peut le pousser à mordiller les chevilles (Ankle Nipping) des enfants qui courent. De plus, la race est très touchée par la mutation du gène MDR1 (multirésistance aux médicaments), le rendant vulnérable à certains traitements vétérinaires. Il est également sujet à l'Anomalie de l'Œil du Collie (CEA) et à la Dysplasie de la Hanche (HD). Aujourd'hui, PetSelf vous présente une routine en 3 étapes pour veiller sur sa santé.",
+                "whyTitle": "Langage corporel du Berger Australien : Le trémoussement du train arrière (Wiggle Butt) et le mordillement des chevilles (Ankle Nipping / Eyeing)",
+                "whyDesc": "Le Berger Australien exprime sa joie et son instinct de conduite par des mouvements intenses du bassin et un regard fixe. Agiter vigoureusement tout son arrière-train en guise de salut **« Trémoussement (Wiggle Butt) »** est sa signature d'affection ultime. En revanche, baisser la tête, fixer sa cible sans cligner des yeux et pincer les talons **« Mordillement des chevilles (Ankle Nipping / Eyeing) »** est un signal instinctif visant à contrôler le mouvement.",
+                "body_signals": [
+                    {
+                        "name": "Secouer énergiquement tout l'arrière-train de gauche à droite lors des retrouvailles (Wiggle Butt)",
+                        "meaning": "Démonstration d'affection emblématique de l'Aussie traduisant un bonheur immense et un attachement profond.",
+                        "response": "Accueillez-le d'une voix calme et caressez-le doucement pour favoriser un retour au calme sans surstimulation."
+                    },
+                    {
+                        "name": "Tête basse, regard fixe, tentant de pincer les talons des personnes qui courent (Ankle Nipping / Eyeing)",
+                        "meaning": "Instinct de troupeau visant à diriger et contrôler les mouvements ; nécessite d'être canalisé.",
+                        "response": "Interrompez le comportement avec des ordres d'obéissance comme 'Pas bouger' et redirigez son attention vers un frisbee."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Nutrition riche en protéines & vérification du statut génétique MDR1",
+                        "text": "Proposez une alimentation riche en protéines pour soutenir son métabolisme actif, en vérifiant la compatibilité des vermifuges avec le statut MDR1."
+                    },
+                    {
+                        "name": "Après-midi : Exercice physique soutenu (60+ min) & dépense mentale (Frisbee / Agility)",
+                        "text": "Comblez ses besoins athlétiques par de la course en liberté, du lancer de disque, des parcours d'agility et des jeux de recherche."
+                    },
+                    {
+                        "name": "Soir : Brossage du double pelage dense & inspection des yeux et des hanches",
+                        "text": "Brossez le sous-poil avec une brosse métallique pour éviter les nœuds, tout en vérifiant la clarté des yeux et la mobilité des hanches."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Pourquoi le dépistage du 'Gène MDR1' est-il indispensable chez le Berger Australien ?",
+                        "answer": "La mutation du gène MDR1 (ABCB1) altère la glycoprotéine P, permettant à certains médicaments de franchir la barrière hémato-encéphalique. Si un Aussie atteint reçoit des doses normales d'ivermectine, de lopéramide ou de certains anesthésiques, cela peut provoquer une neurotoxicité sévère, des convulsions, une paralysie ou un choc fatal. Un test ADN s'impose."
+                    },
+                    {
+                        "question": "Comment empêcher mon Aussie de pincer les chevilles des enfants lorsqu'ils courent ?",
+                        "answer": "Ce pincement est issu de l'instinct de talonner (Heeling) les bovins. Les cris et la fuite des enfants stimulent ce comportement. Apprenez aux enfants à s'immobiliser immédiatement (« faire la statue ») lorsque le chien pince. En parallèle, proposez-lui quotidiennement des jeux de lancer de balle, de frisbee ou du Treibball."
+                    }
+                ],
+                "tags": [
+                    "BergerAustralien",
+                    "SoinChienDeTroupeau",
+                    "GeneMDR1",
+                    "AgilityCanine"
+                ]
+            },
+            "de": {
+                "title": "Verhaltenssignale des Australian Shepherds und 3-Schritte-Tagesroutine für MDR1-Gendefekt-Schutz und Hüftdysplasie-Pflege",
+                "description": "Pflegeanleitung für den hochintelligenten Australian Shepherd (Aussie). Den Wackel-Popo (Wiggle Butt) und das Fesseln-Kneifen verstehen, MDR1-Arzneimittelunverträglichkeiten steuern und Gelenke in 3 Schritten schützen.",
+                "authority": "American Kennel Club (AKC) & Standards der United Australian Shepherd Association (USASA)",
+                "profile": {
+                    "breed": "Australian Shepherd (Aussie)",
+                    "lifespan": "12 ~ 15 Jahre",
+                    "sleep_pattern": "12 ~ 14 Stunden (Tiefschlaf nach intensiver sportlicher Auslastung)",
+                    "temperament": "Treu, Hochintelligent, Energetisch, Starker Hütetrieb, Begeisterungsfähig"
+                },
+                "intro": "Berühmt für sein farbenprächtiges Fell, seine schnelle Auffassungsgabe und seinen ungebremsten Arbeitswillen ist der Australian Shepherd („Aussie“) ein erstklassiger Hundesportler und treuer Begleiter. Aussies sind extrem lernwillig, besitzen jedoch einen ausgeprägten Hütetrieb, der sich im Zwicken in die Fesseln (Ankle Nipping) von rennenden Kindern äußern kann. Zudem tragen viele Aussies den MDR1-Gendefekt, der zu lebensgefährlichen Arzneimittelunverträglichkeiten führt. Auch auf die Collie Eye Anomaly (CEA) und Hüftdysplasie (HD) muss geachtet werden. Heute zeigt PetSelf eine 3-Schritte-Routine für die Gesundheit Ihres Aussies.",
+                "whyTitle": "Körpersprache des Australian Shepherds: Der Wackel-Popo (Wiggle Butt) und das Fesseln-Kneifen (Ankle Nipping / Eyeing)",
+                "whyDesc": "Der Aussie drückt Freude und Hüteabsichten durch Körpereinsatz und intensiven Blickkontakt aus. Das heftige Wackeln mit dem gesamten Hinterteil bei der Begrüßung **'Wackel-Popo (Wiggle Butt)'** ist sein Markenzeichen für überschäumende Freude. Das Senken des Kopfes, Fixieren mit starrrem Blick und Kneifen in die Hacken **'Fesseln-Kneifen (Ankle Nipping / Eyeing)'** ist dagegen der instinktive Versuch, Bewegung zu kontrollieren.",
+                "body_signals": [
+                    {
+                        "name": "Heftiges Wackeln mit dem gesamten Hinterteil bei der Begrüßung (Wiggle Butt)",
+                        "meaning": "Typischer Zuneigungsbeweis des Aussies, der tiefes Vertrauen und überschäumende Wiedersehensfreude zeigt.",
+                        "response": "Antworten Sie mit ruhiger Stimme und streicheln Sie ihn gelassen, um Übererregung zu vermeiden."
+                    },
+                    {
+                        "name": "Kopf senken, das Ziel fixieren und in die Fesseln rennender Personen zwicken (Ankle Nipping / Eyeing)",
+                        "meaning": "Instinktiver Hütetrieb zur Kontrolle von Bewegung; muss konsequent umgelenkt werden.",
+                        "response": "Unterbrechen Sie das Verhalten sofort mit Kommandos wie 'Sitz' und lenken Sie ihn mit Frisbee oder Ballspiel um."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Proteinreiche Fütterung & Statusprüfung des MDR1-Gendefekts",
+                        "text": "Füttern Sie proteinreiches Futter für den hohen Aktivitätslevel und stellen Sie sicher, dass alle Entwurmungen und Medikamente MDR1-sicher sind."
+                    },
+                    {
+                        "name": "Mittag: Intensives Sportprogramm (60+ Min) & Geistige Auslastung (Frisbee / Agility)",
+                        "text": "Fordern Sie ihn mit Freilauf, Frisbee-Laufspielen, Agility-Parcours und anspruchsvollem Gehorsamstraining mental und körperlich."
+                    },
+                    {
+                        "name": "Abend: Fellpflege des dichten Doppelfells & Kontrolle von Augen und Hüften",
+                        "text": "Kämmen Sie die Unterwolle gründlich mit einer Stiftbürste aus und kontrollieren Sie die Augen auf Trübungen sowie die Hüftbeweglichkeit."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Warum ist der DNA-Test auf den 'MDR1-Gendefekt' beim Australian Shepherd so wichtig?",
+                        "answer": "Der MDR1-Gendefekt führt zum Fehlen des P-Glykoproteins in der Blut-Hirn-Schranke. Erhalten betroffene Aussies normale Dosen bestimmter Arzneistoffe (wie Ivermectin, Loperamid oder Narkosemittel), gelangen diese ungehindert ins Gehirn und lösen schwere Neurotoxizität, Krämpfe, Koma oder den Tod aus. Ein DNA-Test vor Medikamentengabe ist lebenswichtig."
+                    },
+                    {
+                        "question": "Wie gewöhne ich meinem Aussie ab, rennenden Kindern in die Hacken zu zwicken?",
+                        "answer": "Das Fesseln-Kneifen ist der ererbte 'Heeling'-Instinkt zum Treiben von Vieh. Wenn Kinder schreien oder rennen, verstärkt das den Trieb. Bringen Sie Kindern bei, beim Verfolgen wie eine 'Statue' stehenzubleiben. Bieten Sie dem Hund gleichzeitig täglich Ersatzbeschäftigungen wie Treibball, Frisbee oder Agility."
+                    }
+                ],
+                "tags": [
+                    "AustralianShepherd",
+                    "HuetehundPflege",
+                    "MDR1Gendefekt",
+                    "HundeAgility"
+                ]
+            },
+            "pt": {
+                "title": "Sinais comportamentais do Pastor Australiano e rotina diária de 3 passos para sensibilidade ao gene MDR1 e prevenção da displasia de quadril",
+                "description": "Guia de cuidados para o altamente inteligente Pastor Australiano (Aussie). Interprete o rebolado (Wiggle Butt) e a mordida no tornozelo, controle o risco do gene MDR1 e proteja as articulações em 3 passos.",
+                "authority": "American Kennel Club (AKC) & Padrões da United Australian Shepherd Association (USASA)",
+                "profile": {
+                    "breed": "Pastor Australiano (Australian Shepherd / Aussie)",
+                    "lifespan": "12 ~ 15 anos",
+                    "sleep_pattern": "12 ~ 14 horas (Sono profundo após atividade atlética intensa)",
+                    "temperament": "Leal, Muito inteligente, Energético, Forte instinto de pastoreio, Entusiasta"
+                },
+                "intro": "Famoso por sua pelagem exuberante, inteligência notável e energia inesgotável, o Pastor Australiano ('Aussie') é um atleta canino de classe mundial e um companheiro familiar devotado. Muito leais e fáceis de treinar, possuem um instinto de pastoreio tão forte que pode se manifestar como beliscões nos tornozelos (Ankle Nipping) de crianças em movimento. Além disso, a raça apresenta alta prevalência da mutação do gene MDR1, tornando-os perigosamente sensíveis a certos medicamentos rotineiros. Também são propensos à Anomalia do Olho do Collie (CEA) e Displasia de Quadril (HD). Hoje, o PetSelf apresenta uma rotina de 3 passos para cuidar da sua saúde.",
+                "whyTitle": "Linguagem corporal do Pastor Australiano: Rebolado de quadril (Wiggle Butt) e mordida no tornozelo (Ankle Nipping / Eyeing)",
+                "whyDesc": "O Pastor Australiano expressa alegria e intenção de pastoreio através de movimentos corporais intensos e olhar fixo. Sacudir todo o quadril e traseiro ao cumprimentar **'Rebolado (Wiggle Butt)'** é sua demonstração icônica de afeto. Por outro lado, abaixar a cabeça, fixar o olhar e beliscar os calcanhares **'Mordida no tornozelo (Ankle Nipping / Eyeing)'** é um sinal instintivo para controlar movimentos.",
+                "body_signals": [
+                    {
+                        "name": "Sacudir efusivamente todo o quadril e traseiro ao cumprimentar (Wiggle Butt)",
+                        "meaning": "Demonstração de afeto icônica do Aussie que sinaliza alegria intensa, confiança e apego ao tutor.",
+                        "response": "Acolha com voz tranquila e carinhos suaves para manter o equilíbrio sem sobreexcitá-lo."
+                    },
+                    {
+                        "name": "Abaixar a cabeça, olhar fixamente e tentar beliscar os tornozelos de quem corre (Ankle Nipping / Eyeing)",
+                        "meaning": "Sinal do instinto de pastoreio para direcionar o movimento; requer redirecionamento adequado.",
+                        "response": "Interrompa com comandos como 'Fica' e redirecione sua energia com jogos de frisbee ou bola."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Nutrição rica em proteínas & verificação do perfil genético MDR1",
+                        "text": "Forneça ração de alta proteína para suprir seu metabolismo e garanta que todos os vermífugos e remédios sejam seguros para o gene MDR1."
+                    },
+                    {
+                        "name": "Tarde: Exercício físico intenso (60+ min) & estímulo mental com frisbee e agility",
+                        "text": "Satisfaça seu impulso atlético com corridas ao ar livre, treino de frisbee, circuitos de agility e treinos de obediência."
+                    },
+                    {
+                        "name": "Noite: Escovação da pelagem dupla & inspeção de olhos e articulações",
+                        "text": "Passe a escova de pino para remover o subpelo solto, checando a clareza dos olhos e a flexibilidade do quadril."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Por que o teste do 'Gene MDR1' é indispensável para o Pastor Australiano?",
+                        "answer": "A mutação do gene MDR1 (ABCB1) altera a glicoproteína P, permitindo que certos medicamentos cruzem a barreira hematoencefálica. Se um Aussie afetado receber doses normais de ivermectina, loperamida ou anestésicos, pode sofrer neurotoxicidade grave, convulsões ou choque fatal. O teste de DNA é vital para prescrever medicação segura."
+                    },
+                    {
+                        "question": "Como posso corrigir o hábito do meu Aussie de morder o tornozelo das crianças?",
+                        "answer": "Essa mordinha vem do instinto de conduzir o gado pelos calcanhares (Heeling). Se as crianças correm e gritam, o cão acha que é uma brincadeira de pastoreio. Ensine as crianças a 'congelar' quando o cão tentar morder. Em paralelo, ofereça atividades de gasto de energia diárias como frisbee, bola ou agility."
+                    }
+                ],
+                "tags": [
+                    "PastorAustraliano",
+                    "CuidadosComCaesDePastoreio",
+                    "GeneMDR1",
+                    "AgilityCanino"
+                ]
+            },
+            "id": {
+                "title": "Sinyal Perilaku Australian Shepherd dan Rutinitas Harian 3 Langkah Perawatan Sensitivitas Gen MDR1 serta Displasia Pinggul",
+                "description": "Panduan perawatan anjing ras penggembala yang sangat cerdas, Australian Shepherd (Aussie). Pahami goyang pinggul (Wiggle Butt) dan gigitan tumit, kelola sensitivitas obat gen MDR1, serta jaga kesehatan sendi dalam 3 langkah.",
+                "authority": "Standar Perawatan American Kennel Club (AKC) & United Australian Shepherd Association (USASA)",
+                "profile": {
+                    "breed": "Australian Shepherd (Aussie)",
+                    "lifespan": "12 ~ 15 tahun",
+                    "sleep_pattern": "12 ~ 14 jam (Tidur nyenyak berkualitas setelah aktivitas fisik intensif)",
+                    "temperament": "Setia, Sangat Cerdas, Energetik, Insting Gembala Kuat, Antusias"
+                },
+                "intro": "Terkenal dengan variasi warna bulunya yang menakjubkan, kecerdasannya yang luar biasa, dan energinya yang tak terbatas, Australian Shepherd ('Aussie') adalah atlet anjing kelas dunia dan pendamping keluarga yang setia. Sangat cerdas dan mudah dilatih, Aussie memiliki insting gembala yang kuat yang terkadang muncul sebagai gigitan tumit (Ankle Nipping) pada anak-anak atau hewan lain yang berlari. Selain itu, ras ini memiliki prevalensi mutasi gen MDR1 yang tinggi, membuat mereka sangat sensitif terhadap obat-obatan medis tertentu. Mereka juga rentan terhadap Collie Eye Anomaly (CEA) dan Displasia Pinggul (HD). Hari ini, PetSelf membagikan 3 langkah rutinitas harian untuk merawat kesehatan Aussie Anda.",
+                "whyTitle": "Bahasa Tubuh Australian Shepherd: Goyang Pinggul (Wiggle Butt) dan Gigitan Tumit (Ankle Nipping / Eyeing)",
+                "whyDesc": "Australian Shepherd menyampaikan kegembiraan dan insting gembala melalui gerakan tubuh bagian belakang dan tatapan mata yang tajam. Menggoyangkan seluruh tubuh bagian belakang dari sisi ke sisi saat menyapa **'Goyang Pinggul (Wiggle Butt)'** adalah ungkapan cinta dan antusiasme yang khas. Sebaliknya, menundukkan kepala, menatap tajam tanpa berkedip, dan menggigit tumit **'Gigitan Tumit (Ankle Nipping / Eyeing)'** adalah sinyal naluriah untuk mengendalikan pergerakan.",
+                "body_signals": [
+                    {
+                        "name": "Menggoyangkan Seluruh Bagian Belakang Tubuh secara Efusif Saat Menyapa (Wiggle Butt)",
+                        "meaning": "Ungkapan kasih sayang ikonis khas Aussie yang menunjukkan kegembiraan luar biasa dan ikatan batin yang kuat.",
+                        "response": "Sapa dengan suara tenang dan elus tubuhnya secara lembut agar tidak memicu kegembiraan berlebih."
+                    },
+                    {
+                        "name": "Menundukkan Kepala, Menatap Tajam, dan Menggigit Tumit Orang yang Lari (Ankle Nipping / Eyeing)",
+                        "meaning": "Sinyal insting gembala alami untuk mengarahkan atau mengendalikan objek bergerak.",
+                        "response": "Segera hentikan dengan perintah kepatuhan seperti 'Diam' dan alihkan energinya ke permainan lempar frisbee."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Nutrisi Tinggi Protein & Pemeriksaan Status Sensitivitas Obat Gen MDR1",
+                        "text": "Berikan pakan tinggi protein untuk mendukung metabolisme aktifnya, serta pastikan obat cacing atau obat medis aman bagi gen MDR1."
+                    },
+                    {
+                        "name": "Siang: Latihan Fisik Intensif (60+ Menit) & Stimulasi Otak (Frisbee / Agility)",
+                        "text": "Penuhi kebutuhan fisiknya melalui lari di lapangan terbuka, lempar frisbee, rintangan agility, dan permainan ketangkasan."
+                    },
+                    {
+                        "name": "Malam: Penyisiran Bulu Ganda Tebal & Pemeriksaan Kesehatan Mata dan Sendi",
+                        "text": "Sisir bulu ganda dengan sisir pin untuk mengangkat bulu rontok, periksa kejernihan mata, serta kelenturan sendi pinggul."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mengapa tes DNA untuk 'Mutasi Gen MDR1' sangat krusial bagi Australian Shepherd?",
+                        "answer": "Mutasi gen MDR1 (ABCB1) merusak fungsi P-glikoprotein, menyebabkan obat-obatan dapat menembus sawar darah-otak. Jika Aussie yang terinfeksi menerima dosis normal obat tertentu (seperti ivermectin, loperamide, atau obat bius), hal ini dapat memicu neurotoksisitas berat, kejang, kelumpuhan, atau kematian. Tes DNA sangat penting sebelum pemberian obat medis."
+                    },
+                    {
+                        "question": "Bagaimana cara menghentikan kebiasaan Aussie menggigit tumit anak-anak saat berlari?",
+                        "answer": "Gigitan tumit berasal dari insting alami 'heeling' untuk menggiring ternak. Teriakan atau larian anak-anak justru dianggap sebagai permainan penggembalaan. Ajari anak-anak untuk langsung 'patung' (diam berdiri) saat dikejar. Pada saat yang sama, berikan saluran energi pengganti harian seperti latihan frisbee, bola, atau agility."
+                    }
+                ],
+                "tags": [
+                    "AustralianShepherd",
+                    "PerawatanAnjingGembala",
+                    "MutasiGenMDR1",
+                    "AgilityAnjing"
+                ]
+            }
+        },
+        "category": "CareSelf",
+        "app": "careself",
+        "formatVersion": 4,
+        "heroImage": "/images/blog/australian_shepherd_care.webp"
+    }
+}

@@ -1,0 +1,516 @@
+{
+    "pug-care": {
+        "pubDate": "2026-02-05",
+        "updatedDate": "2026-02-05",
+        "locales": {
+            "ko": {
+                "title": "퍼그의 교감·호흡 신호 해석과 단두종 호흡기 증후군(BOAS) 및 안구 건조·각막 궤양 관리를 위한 3단계 데일리 케어",
+                "description": "느긋하고 애교 넘치는 소형견 퍼그(Pug). 고개 갸웃거림과 개구 호흡 신호 해석, 단두종 호흡기 케어, 각막 보호 및 비만 예방을 위한 3단계 홈케어 루틴을 소개합니다.",
+                "authority": "미국 케넬 클럽 (AKC) 및 Pug Dog Club of America (PDCA) 케어 프로토콜",
+                "profile": {
+                    "breed": "퍼그 (Pug)",
+                    "lifespan": "12 ~ 15년",
+                    "sleep_pattern": "12 ~ 14시간 (온순한 랩독, 실내 수면 위주)",
+                    "temperament": "다정함, 장난기 많음, 애교 많음, 느긋함, 사람을 좋아함"
+                },
+                "intro": "주름진 얼굴과 동그란 눈, 특유의 애교로 수세기 동안 사랑받아 온 퍼그(Pug)는 사람과의 교감을 무엇보다 중요하게 생각하는 대표적인 반려견입니다. 퍼그는 온순하고 다정한 성품을 지녔지만, 안면 구조가 납작한 단두종 특성상 단두종 호흡기 증후군(BOAS)과 열사병에 매우 취약합니다. 또한 두개골 구조상 안구가 돌출되어 있어 각막 궤양 및 안구 건조증이 자주 발생하며, 식탐이 많아 비만이 될 경우 호흡 곤란과 관절 질환이 악화될 수 있습니다. 오늘 PetSelf에서는 퍼그의 신체 신호를 정확히 이해하고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.",
+                "whyTitle": "퍼그의 바디 랭귀지: 고개 갸웃거림(Head Tilt)과 개구 호흡·눈 돌출(Open-Mouth Breathing / BOAS Distress)",
+                "whyDesc": "퍼그는 안면 표정과 호흡 소리로 감정과 신체 이상 상태를 표현합니다. 보호자의 목소리에 집중하며 고개를 좌우로 기울이는 **'고개 갸웃거림(Head Tilt)'**은 호기심과 강한 애정을 나타내는 대표적인 교감 표현입니다. 반면 혀를 내밀고 가쁘게 입으로 숨을 쉬며 눈이 크게 확장되는 **'개구 호흡(Open-Mouth Breathing / BOAS Distress)'**은 체온 조절 마비나 호흡 곤란을 나타내는 긴급 생존 위험 신호입니다.",
+                "body_signals": [
+                    {
+                        "name": "보호자를 바라보며 고개를 좌우로 기울이고 짧은 코개골 소리를 냄 (Head Tilt & Snort-Chirping)",
+                        "meaning": "보호자의 언어와 행동에 집중하고 있다는 강한 호기심과 교감 욕구 표출 행동입니다.",
+                        "response": "다정한 목소리로 말을 건네고 턱 밑이나 귀 뒤를 쓰다듬어 신뢰감을 높여 줍니다."
+                    },
+                    {
+                        "name": "혀를 내밀고 입으로 가쁘게 숨을 쉬며 눈을 크게 벌림 (Open-Mouth Breathing / BOAS Distress)",
+                        "meaning": "더위나 과도한 운동으로 인해 기도 협착이 심해져 체온 조절에 실패했다는 과열 및 호흡 곤란 위험 신호입니다.",
+                        "response": "즉시 운동을 중단하고 시원한 실내로 이동시켜 미지근한 물로 발바닥을 적셔 체온을 낮춥니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 안면 주름 위생 청결(주름 습진 예방) 및 체중 관리를 위한 정량 식사 급여",
+                        "text": "주름 사이에 이물질과 습기가 차지 않도록 전용 물티슈로 닦아 건조시키고, 비만 방지를 위해 정량 급여를 준수합니다."
+                    },
+                    {
+                        "name": "낮: 실내 온·습도 조절(BOAS 호흡기 보호) 및 저강도 짧은 산책(15~20분)",
+                        "text": "더위에 약하므로 실내 온도를 22~24°C로 유지하고, 무더운 시간대를 피해 그늘진 평지에서 가볍게 산책합니다."
+                    },
+                    {
+                        "name": "저녁: 안구 상태 점검(인공눈물 세정) 및 압박 없는 하네스 착용 점검",
+                        "text": "돌출된 안구의 이물질을 인공눈물로 씻어내어 각막 궤양을 예방하고, 목을 압박하지 않는 Y자형 하네스를 사용합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "퍼그는 왜 코를 많이 골고 무더운 날씨에 위험한가요?",
+                        "answer": "퍼그는 비강이 짧고 목젖(연구두)이 늘어져 있는 단두종 호흡기 증후군(BOAS) 구조를 가지고 있습니다. 개는 땀샘이 없어 헐떡임(Panting)으로 체온을 조절하는데, 퍼그는 기도가 좁아 열 발산이 효율적이지 못해 여름철 쉽게 열사병에 걸릴 수 있습니다. 한여름 낮 산책은 금물이며 에어컨을 통한 실내 온도 관리가 필수입니다."
+                    },
+                    {
+                        "question": "퍼그의 안구 질환과 퍼그 뇌염(PDE)은 어떻게 관리해야 하나요?",
+                        "answer": "퍼그는 돌출안 구조로 인해 풀밭이나 자극물에 눈이 긁혀 각막 궤양이 생기기 쉬우므로 산책 후 안구 세정을 권장합니다. 또한 유전성 뇌 질환인 퍼그 뇌염(PDE/괴사성 수막뇌염)은 1~3세 사이에 경련이나 발작, 보행 장애로 나타날 수 있으므로 해당 증상 목격 시 즉시 수의사에게 MRI 검사를 받아야 합니다."
+                    }
+                ],
+                "tags": [
+                    "퍼그",
+                    "소형견케어",
+                    "단두종호흡기증후군",
+                    "퍼그각막궤양"
+                ]
+            },
+            "en": {
+                "title": "Pug Behavioral Signals and 3-Step Daily Routine for Brachycephalic Airway Syndrome (BOAS) and Corneal Health Care",
+                "description": "Care guide for the charming and affectionate Pug. Interpret head tilt and open-mouth breathing signals, manage flat-faced airways, corneal protection, and weight control in 3 steps.",
+                "authority": "American Kennel Club (AKC) & Pug Dog Club of America (PDCA) Care Standards",
+                "profile": {
+                    "breed": "Pug",
+                    "lifespan": "12 - 15 Years",
+                    "sleep_pattern": "12 - 14 Hours (Affectionate lapdog, prefers indoor resting)",
+                    "temperament": "Loving, Playful, Charming, Easygoing, Human-Oriented"
+                },
+                "intro": "Cherished for centuries for their wrinkled faces, round expressive eyes, and comical affection, the Pug is an iconic companion dog that thrives on human connection. While Pugs are famously gentle and even-tempered, their flat-faced (brachycephalic) anatomy makes them extremely vulnerable to Brachycephalic Obstructive Airway Syndrome (BOAS) and heatstroke. Furthermore, their protruding eyes are prone to corneal ulcers and dry eye syndrome, while their strong appetite makes obesity a major risk factor for breathing difficulties and joint strain. Today, PetSelf presents a 3-step daily care routine to decode your Pug's body language and protect its health.",
+                "whyTitle": "Pug Body Language: The Head Tilt and Open-Mouth Breathing (BOAS Distress)",
+                "whyDesc": "Pugs communicate emotions and physical distress through facial expressions and breathing sounds. Tilting their head side-to-side while focusing on your voice **'Head Tilt'** is a signature sign of curiosity, intelligence, and affection. Conversely, gasping for air with an open mouth, extended tongue, and widened eyes **'Open-Mouth Breathing / BOAS Distress'** is a critical survival signal indicating respiratory distress or thermal overload.",
+                "body_signals": [
+                    {
+                        "name": "Tilting Head Side-to-Side with Short Snort-Chirps (Head Tilt & Snort-Chirping)",
+                        "meaning": "An iconic Pug communication display showing intense curiosity, active listening, and a desire to engage with their owner.",
+                        "response": "Speak in a warm, friendly voice and stroke under their chin or behind their ears to reinforce trust."
+                    },
+                    {
+                        "name": "Panting Heavily with Open Mouth, Extended Tongue, and Widened Eyes (Open-Mouth Breathing / BOAS Distress)",
+                        "meaning": "A danger signal indicating airway collapse, inability to thermoregulate, or acute overheating from exercise or climate.",
+                        "response": "Stop exercise immediately, move to an air-conditioned room, and apply lukewarm water to paw pads to reduce body temperature safely."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Facial Wrinkle Hygiene & Portioned Feeding for Weight Control",
+                        "text": "Gently wipe facial folds with damp pet wipes to prevent moisture buildup and fold dermatitis, strictly measuring food portions to prevent obesity."
+                    },
+                    {
+                        "name": "Afternoon: Climate-Controlled Environment (22–24°C) & Low-Impact Short Walks (15–20 Min)",
+                        "text": "Keep indoor ambient temperature cool as flat-faced breeds overheat rapidly, scheduling brief, low-impact walks during cool hours."
+                    },
+                    {
+                        "name": "Evening: Ocular Inspection & Pressure-Free Y-Harness Verification",
+                        "text": "Flush protruding eyes with sterile saline to prevent corneal ulcers, ensuring walks utilize a padded Y-harness that puts zero pressure on the trachea."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Why do Pugs snore heavily and why is hot weather dangerous for them?",
+                        "answer": "Pugs possess Brachycephalic Obstructive Airway Syndrome (BOAS), characterized by narrowed nostrils (stenotic nares) and an elongated soft palate. Because dogs rely on panting to cool down, a Pug's restricted airway makes heat dissipation inefficient, leading rapidly to fatal heatstroke in warm weather. Indoor air conditioning and avoiding summer daytime walks are mandatory."
+                    },
+                    {
+                        "question": "How should I protect my Pug's eyes and manage Pug Dog Encephalitis (PDE)?",
+                        "answer": "Because of their shallow eye sockets, Pugs are susceptible to eye trauma, dry eyes, and corneal ulcers from grass or debris; daily eye flushing is recommended. Additionally, Pug Dog Encephalitis (PDE / Necrotizing Meningoencephalitis) is a fatal hereditary brain disease occurring between 1 and 3 years old. If you observe seizures, circling, or head pressing, consult a veterinarian immediately for an MRI evaluation."
+                    }
+                ],
+                "tags": [
+                    "Pug",
+                    "SmallDogCare",
+                    "BOASAirwayCare",
+                    "PugCornealHealth"
+                ]
+            },
+            "ja": {
+                "title": "パグの親愛・呼吸サイン解読と短頭種気道症候群(BOAS)・角膜潰瘍予防のための3ステップデイリールーティン",
+                "description": "愛嬌たっぷりの愛され小形犬パグ（Pug）。首かしげや開口呼吸サインの解読、ペチャ顔の気道ケア、角膜保護および肥満予防のための3ステップホームケアを紹介します。",
+                "authority": "アメリカンケネルクラブ(AKC)およびPug Dog Club of America(PDCA)飼育基準",
+                "profile": {
+                    "breed": "パグ (Pug)",
+                    "lifespan": "12 〜 15年",
+                    "sleep_pattern": "12 〜 14時間 (人懐っこいラップドッグ、室内での休息中心)",
+                    "temperament": "愛嬌がある、陽気、人懐っこい、のんびり屋、人間大好き"
+                },
+                "intro": "シワのある顔と大きな丸い瞳、独特の愛嬌で何世紀もの間愛されてきたパグ（Pug）は、飼い主とのスキンシップを何より大切にする代表的な伴侶犬です。パグは穏やかで親しみやすい性格ですが、平らな顔立ち（短頭種）のため短頭種気道症候群（BOAS）や熱中症に非常に弱い特徴があります。また頭蓋骨の構造上、眼球が突出しており角膜潰瘍やドライアイが頻発しやすく、食いしん坊なため肥満になると呼吸困難や関節トラブルが悪化します。本日PetSelfでは、パグのサインを正確に解読し健康を守る3ステップルーティンをお届けします。",
+                "whyTitle": "パグのボディランゲージ：首かしげ(Head Tilt)と開口呼吸・眼球突出(Open-Mouth Breathing / BOAS Distress)",
+                "whyDesc": "パグは表情と呼吸音で感情や体調の異変を表現します。飼い主の声に集中して首を左右に傾ける**「首かしげ（Head Tilt）」**は、高い好奇心と深い愛情を示す代表的な親愛表現です。一方、舌を出して荒い息を口で行い、目を大きく見開く**「開口呼吸（Open-Mouth Breathing / BOAS Distress）」**は、体温調節の麻痺や気道閉塞を示す危険な SOS サインです。",
+                "body_signals": [
+                    {
+                        "name": "飼い主を見つめて首を左右に傾け、鼻をフンフン鳴らす (Head Tilt & Snort-Chirping)",
+                        "meaning": "飼い主の言葉や行動に集中していることを示す、好奇心と愛着に満ちたコミュニケーション行動です。",
+                        "response": "優しい声で話しかけ、顎の下や耳の後ろを撫でてあげて絆を深めましょう。"
+                    },
+                    {
+                        "name": "舌を出して口で荒く息をし、目を大きく見開く (Open-Mouth Breathing / BOAS Distress)",
+                        "meaning": "暑さや過度な運動により気道が狭まり、体温調節ができなくなっている熱中症・呼吸困難危険サインです。",
+                        "response": "直ちに運動を中止して涼しい室内に移動させ、足 sister や体をぬるま湯で湿らせて体温を下げてください。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：顔のシワの衛生ケア（皮膚炎予防）と肥満防止のための給餌量管理",
+                        "text": "シワの間に湿気や汚れが溜まらないよう専用シートで拭いて乾燥させ、適正体重を保つためフードの量管理を徹底します。"
+                    },
+                    {
+                        "name": "昼：室内温湿度管理（BOAS気道保護）と短時間の低強度散歩（15〜20分）",
+                        "text": "暑さに弱いため室温を22〜24℃に保ち、涼しい時間帯を選んで平地で短時間の散歩を行います。"
+                    },
+                    {
+                        "name": "夜：目元チェック（人工涙液洗浄）と気道を圧迫しないハーネスの点検",
+                        "text": "突出した眼球のゴミを点眼薬で洗い流して角膜潰瘍を防ぎ、首を圧迫しないY字型ハーネスを使用します。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "パグはなぜいびきをよくかき、暑い時期に危険なのですか？",
+                        "answer": "パグは鼻腔が短く軟頭蓋が伸びている短頭種気道症候群（BOAS）の構造を持っています。犬は汗をかけないためパンティング（ハアハアと息をすること）で体温を下げますが、パグは気道が狭いため熱放散が効率的にできません。そのため夏場は簡単に熱中症にかかります。真夏の昼間の散歩は厳禁であり、エアコンによる室温管理が必須です。"
+                    },
+                    {
+                        "question": "パグの目の病気とパグ脳炎（PDE）はどのようにケアすべきですか？",
+                        "answer": "パグは浅い眼窩のため草むらなどで目に傷がつきやすく、角膜潰瘍を起こしやすいため散歩後の目元洗浄が推奨されます。また遺伝性脳疾患であるパグ脳炎（PDE/壊死性髄膜脳炎）は1〜3歳でけいれんや発作、歩行障害として現れることがあるため、異常が見られたらすぐに動物病院でMRI検査を受けてください。"
+                    }
+                ],
+                "tags": [
+                    "パグ",
+                    "小型犬ケア",
+                    "短頭種気道症候群",
+                    "パグ角膜潰瘍"
+                ]
+            },
+            "zh": {
+                "title": "巴哥犬行为信号解读与短头颅呼吸道综合征 (BOAS) 及角膜溃疡护理的 3 步日常流程",
+                "description": "性格温和滑稽的经典小型犬巴哥犬（Pugs）。解读歪头与张口呼吸信号，护理短头颅呼吸道，保护角膜与控制体重的 3 步骤家庭护理。",
+                "authority": "美国犬业俱乐部 (AKC) 与美国巴哥犬俱乐部 (PDCA) 护理标准",
+                "profile": {
+                    "breed": "巴哥犬 / 哈巴狗 (Pug)",
+                    "lifespan": "12 ~ 15年",
+                    "sleep_pattern": "12 ~ 14小时 (温顺的伴侣犬，以室内休息为主)",
+                    "temperament": "温和、幽默、极其黏人、随和、极度亲人"
+                },
+                "intro": "凭其充满皱纹的脸庞、硕大的黑眼睛与独特的幽默爱意，巴哥犬（Pug）数百年来一直是备受全球喜爱的家庭伴侣犬。巴哥犬虽然性格极为温和随和，但由于其典型的扁平面部结构（短头结构），极易患短头颅阻塞性呼吸道综合征（BOAS）与中暑。此外，其浅眼窝结构导致眼球突出，极易发生角膜溃疡与干眼症；且由于极其贪吃，肥胖会进一步加重其呼吸困难与关节负担。今天 PetSelf 将带您准确解读巴哥犬肢体语言，并通过 3 步骤日常护理维护其健康。",
+                "whyTitle": "巴哥犬肢体语言：可爱歪头 (Head Tilt) 与张口喘气·眼球突出 (Open-Mouth Breathing / BOAS Distress)",
+                "whyDesc": "巴哥犬通过面部表情与呼吸声音清晰表达情绪与生理不适。注视主人并有节奏地左右倾斜头部**“可爱歪头 (Head Tilt)”**，是表达极强的好奇心与专注爱的代表性动作。相反，伸出舌头剧烈张口呼吸并瞪大眼球**“张口喘气 (Open-Mouth Breathing / BOAS Distress)”**，则是因高温或剧烈运动引发气道狭窄、体温调节失控的紧急求生危险信号。",
+                "body_signals": [
+                    {
+                        "name": "凝视主人并左右倾斜头部，伴有短促鼻音 (Head Tilt & Snort-Chirping)",
+                        "meaning": "表达对主人说话内容的高度专注、强烈好奇心与渴望情感互动的信号。",
+                        "response": "用温柔的声音回应，抚摸其下巴或耳后以增强安全感与信任。"
+                    },
+                    {
+                        "name": "伸出舌头剧烈张口喘气，眼球瞪大 (Open-Mouth Breathing / BOAS Distress)",
+                        "meaning": "因高温或运动导致气道狭窄加重、无法散热的严重中暑与呼吸困难警告。",
+                        "response": "立即停止运动，转移至空调房内，用温水湿润脚掌与身体进行物理降温。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：面部皱纹清洁（预防皮炎）与严格定量喂食控制体重",
+                        "text": "用宠物湿巾清理面部褶皱缝隙中的湿气与污垢并保持干燥，严格按量喂食以防肥胖加重呼吸负担。"
+                    },
+                    {
+                        "name": "中午：室内温湿度控制 (22°C~24°C) 与避开高温的短途平地散步 (15~20分钟)",
+                        "text": "短头犬极度怕热，应保持室内凉爽，避开烈日时段在平坦阴凉处进行短暂散步。"
+                    },
+                    {
+                        "name": "晚上：眼部检查（滴人工泪液）与使用不压迫气管的 Y 型胸背带",
+                        "text": "用人工泪液冲洗突出眼球上的异物以防角膜溃疡，散步时必须使用保护气管的 Y 型胸背带。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "巴哥犬为什么打呼噜很响，且在炎热天气里极度危险？",
+                        "answer": "巴哥犬拥有短头颅阻塞性呼吸道综合征（BOAS）结构，表现为鼻孔狭窄与软腭过长。由于狗狗主要依靠喘气（Panting）散热，巴哥犬狭窄的气道使其散热效率极低，在高温环境下极易发生致命的中暑。夏天白天严禁户外散步，且室内必须开启空调降温。"
+                    },
+                    {
+                        "question": "如何护理巴哥犬的眼睛并预防巴哥犬脑炎 (PDE)？",
+                        "answer": "巴哥犬浅眼窝导致眼球突出，在草丛散步时极易刮伤角膜引发溃疡，建议散步后用眼药水清洗眼部。此外，巴哥犬脑炎（PDE/坏死性脑膜脑炎）是一种高发于 1~3 岁巴哥犬的致命遗传性脑病。若出现抽搐、癫痫或转圈等异常，必须立即送医进行 MRI 脑部检查。"
+                    }
+                ],
+                "tags": [
+                    "巴哥犬",
+                    "小型犬护理",
+                    "短头综合征BOAS",
+                    "巴哥角膜溃疡"
+                ]
+            },
+            "es": {
+                "title": "Señales de conducta en el Pug y rutina diaria de 3 pasos para el síndrome braquicefálico (BOAS) y cuidado corneal",
+                "description": "Guía de cuidado para el encantador y afectuoso Pug. Interprete el ladeo de cabeza y el boqueo respiratorio, cuide sus vías respiratorias chatas, proteja la córnea y controle su peso en 3 pasos.",
+                "authority": "American Kennel Club (AKC) y Normas del Pug Dog Club of America (PDCA)",
+                "profile": {
+                    "breed": "Pug / Carlino",
+                    "lifespan": "12 ~ 15 años",
+                    "sleep_pattern": "12 ~ 14 horas (Perro de regazo afectuoso, descanso en interiores)",
+                    "temperament": "Afectuoso, Juguetón, Encantador, Sosegado, Orientado a las personas"
+                },
+                "intro": "Amado durante siglos por su rostro arrugado, sus grandes ojos expresivos y su cariñoso sentido del humor, el Pug es un icónico perro de compañía que vive para estar junto a su dueño. Aunque los Pugs son tranquilos y bonachones, su anatomía braquicefálica (chata) los hace sumamente vulnerables al Síndrome Respiratorio Obstructivo Braquicefálico (BOAS) y a los golpes de calor. Además, sus ojos prominentes sufren con frecuencia úlceras corneales y ojo seco, mientras que su gran apetito convierte la obesidad en un grave riesgo respiratorio y articular. Hoy, PetSelf presenta una rutina de 3 pasos para cuidar su salud.",
+                "whyTitle": "Lenguaje corporal del Pug: Ladeo de cabeza (Head Tilt) y boqueo por respiración dificultosa (BOAS Distress)",
+                "whyDesc": "El Pug comunica emociones y malestar físico mediante expresiones faciales y sonidos respiratorios. Ladear la cabeza hacia los lados mientras escucha tu voz **'Ladeo de cabeza (Head Tilt)'** es una muestra entrañable de curiosidad y atención. En cambio, jadear intensamente con la boca abierta, la lengua afuera y los ojos dilatados **'Boqueo respiratorio (Open-Mouth Breathing / BOAS Distress)'** es una señal de emergencia que indica sofocación o fallo en la termorregulación.",
+                "body_signals": [
+                    {
+                        "name": "Ladear la cabeza de lado a lado emitiendo pequeños resoplidos (Head Tilt & Snort-Chirping)",
+                        "meaning": "Muestra de afecto e inteligencia que indica atención absoluta a las palabras del dueño y deseo de interacción.",
+                        "response": "Háblele con voz cariñosa y acaricie su barbilla o detrás de sus orejas para reforzar la confianza."
+                    },
+                    {
+                        "name": "Jadear fuertemente con la boca abierta, lengua extendida y ojos muy abiertos (Open-Mouth Breathing / BOAS Distress)",
+                        "meaning": "Peligro inminente de golpe de calor o colapso respiratorio por estrechez de vías aéreas.",
+                        "response": "Detenga el ejercicio de inmediato, trasládelo a un espacio con aire acondicionado y humedezca sus almohadillas con agua tibia."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Higiene de pliegues faciales y racionamiento estricto de alimento para el control de peso",
+                        "text": "Limpie los pliegues del rostro con toallitas para evitar humedad y dermatitis, midiendo la comida exactamente para evitar la obesidad."
+                    },
+                    {
+                        "name": "Tarde: Control ambiental fresco (22–24°C) y paseos cortos de baja intensidad (15–20 min)",
+                        "text": "Mantenga la casa fresca ya que las razas chatas se sobrecalientan rápido, y pasee en horas frescas sobre terreno llano."
+                    },
+                    {
+                        "name": "Noche: Inspección ocular con gotas lubricantes y uso de arnés en Y que no oprima la tráquea",
+                        "text": "Lave los ojos prominentes con suero o lágrimas artificiales para evitar úlceras corneales y use siempre un arnés en Y sin presión en el cuello."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Por qué los Pugs roncan tanto y por qué el calor es tan peligroso para ellos?",
+                        "answer": "Los Pugs sufren del Síndrome Obstructivo Braquicefálico (BOAS) debido a orificios nasales estrechos y paladar blando elongado. Dado que los perros regulan su temperatura jadeando, las vías respiratorias estrechas del Pug impiden disipar el calor eficientemente, sufriendo golpes de calor mortales. El aire acondicionado en verano es indispensable."
+                    },
+                    {
+                        "question": "¿Cómo debo cuidar sus ojos y qué es la Encefalitis del Pug (PDE)?",
+                        "answer": "Al tener cuencas oculares poco profundas, los Pugs pueden rozarse los ojos con plantas sufriendo úlceras corneales; se aconseja lavar sus ojos tras el paseo. Por otro lado, la Encefalitis del Pug (PDE/Meningoencefalitis Necrosante) es una enfermedad cerebral hereditaria letal que aparece entre 1 y 3 años. Si observa convulsiones, desorientación o caminata en círculos, consulte urgentemente al veterinario para realizar una resonancia."
+                    }
+                ],
+                "tags": [
+                    "Pug",
+                    "CuidadoDePerrosPequeños",
+                    "SindromeBraquicefalicoBOAS",
+                    "UlzeraCornealPug"
+                ]
+            },
+            "fr": {
+                "title": "Signaux comportementaux du Carlin (Pug) et routine quotidienne en 3 étapes pour le syndrome brachycéphale (BOAS) et la santé cornéenne",
+                "description": "Guide de soins pour le charmant Carlin. Décryptez le penchement de tête et la respiration bouche ouverte, préservez ses voies respiratoires, ses yeux saillants et évitez l'obésité en 3 étapes.",
+                "authority": "American Kennel Club (AKC) & Normes du Pug Dog Club of America (PDCA)",
+                "profile": {
+                    "breed": "Carlin (Pug)",
+                    "lifespan": "12 ~ 15 ans",
+                    "sleep_pattern": "12 ~ 14 heures (Chien de genoux affectueux, repos intérieur)",
+                    "temperament": "Affectueux, Joueur, Charmant, Paisible, Proche de l'humain"
+                },
+                "intro": "Chéri depuis des siècles pour sa bouille ridée, ses grands yeux ronds et sa joie de vivre, le Carlin (Pug) est un chien de compagnie par excellence. Si le Carlin est d'un naturel très doux, sa morphologie brachycéphale (à nez plat) le rend extrêmement fragile face au Syndrome Obstructif Respiratoire des Races Brachycéphales (BOAS) et aux coups de chaleur. De plus, ses yeux saillants sont sujets aux ulcères cornéens et sa gourmandise fait de l'obésité un facteur aggravant la détresse respiratoire. Aujourd'hui, PetSelf vous présente une routine en 3 étapes pour prendre soin de lui.",
+                "whyTitle": "Langage corporel du Carlin : Penchement de tête (Head Tilt) et respiration bouche ouverte (BOAS Distress)",
+                "whyDesc": "Le Carlin exprime ses émotions et son inconfort par des mimiques et des bruits respiratoires. Pencher la tête de côté en écoutant votre voix **« Penchement de tête (Head Tilt) »** est sa marque de curiosité et d'attachement. En revanche, haleter la bouche ouverte avec la langue sortie et les yeux écarquillés **« Respiration bouche ouverte (Open-Mouth Breathing / BOAS Distress) »** est un signal d'urgence indiquant une asphyxie ou une surchauffe.",
+                "body_signals": [
+                    {
+                        "name": "Pencher la tête de gauche à droite en émettant de petits éternuements joyeux (Head Tilt & Snort-Chirping)",
+                        "meaning": "Signe d'attention soutenue, de curiosité vive et de désir d'échange avec son maître.",
+                        "response": "Parlez-lui d'une voix douce et caressez son menton ou derrière ses oreilles pour renforcer la complicité."
+                    },
+                    {
+                        "name": "Haleter fort la bouche ouverte, langue tirée et yeux très ouverts (Open-Mouth Breathing / BOAS Distress)",
+                        "meaning": "Détresse respiratoire ou coup de chaleur provoqué par le rétrécissement des voies aériennes.",
+                        "response": "Stoppez l'effort immédiatement, placez-le dans une pièce fraîche et rafraîchissez ses coussinets avec de l'eau tiède."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Soin des plis du visage & contrôle strict de la ration contre l'obésité",
+                        "text": "Nettoyez les plis de sa face avec une lingette pour éviter l'humidité et les dermatites, et pesez rigoureusement sa nourriture."
+                    },
+                    {
+                        "name": "Après-midi : Climatisation intérieure (22–24°C) & petites promenades calmes (15–20 min)",
+                        "text": "Maintenez le logement frais car les chiens écrasés ne supportent pas la chaleur, et promenez-le aux heures les plus fraîches."
+                    },
+                    {
+                        "name": "Soir : Inspection oculaire avec larmes artificielles & harnais en Y respectant la trachée",
+                        "text": "Rincez ses yeux saillants avec du sérum physiologique pour éviter les ulcères et utilisez toujours un harnais en Y sans pression sur la gorge."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Pourquoi le Carlin ronfle-t-il autant et pourquoi les fortes chaleurs sont-elles dangereuses ?",
+                        "answer": "Le Carlin souffre du Syndrome Obstructif Brachycéphale (BOAS) lié à des narines étroites et un voile du palais trop long. Le chien régulant sa température par le halètement, l'étroitesse des voies aériennes du Carlin empêche une bonne évacuation de la chaleur, provoquant rapidement un coup de chaleur mortel. L'air conditionné est indispensable en été."
+                    },
+                    {
+                        "question": "Comment protéger ses yeux et qu'est-ce que l'Encéphalite du Carlin (PDE) ?",
+                        "answer": "En raison d'orbites peu profondes, les yeux du Carlin frottent facilement contre les herbes, causant des ulcères cornéens qu'il faut prévenir par un nettoyage quotidien. Par ailleurs, l'Encéphalite du Carlin (PDE / Méningo-encéphalite nécrosante) est une maladie cérébrale héréditaire grave apparaissant entre 1 et 3 ans. Si le chien a des crises ou marche en cercle, consultez immédiatement pour un examen IRM."
+                    }
+                ],
+                "tags": [
+                    "Carlin",
+                    "SoinPetitChien",
+                    "SyndromeBrachycephaleBOAS",
+                    "UlcereCorneenCarlin"
+                ]
+            },
+            "de": {
+                "title": "Verhaltenssignale des Mopses und 3-Schritte-Tagesroutine für das Brachyzephale Atemwegssyndrom (BOAS) und Hornhautpflege",
+                "description": "Pflegeanleitung für den charmanten Mops (Pug). Kopfschieflegen und Munderatmung verstehen, flache Atemwege schützen, Augen pflegen und Übergewicht in 3 Schritten vorbeugen.",
+                "authority": "American Kennel Club (AKC) & Standards des Pug Dog Club of America (PDCA)",
+                "profile": {
+                    "breed": "Mops (Pug)",
+                    "lifespan": "12 ~ 15 Jahre",
+                    "sleep_pattern": "12 ~ 14 Stunden (Liebevoller Schoßhund, ruht bevorzugt im Haus)",
+                    "temperament": "Liebevoll, Verspielt, Charmant, Gelassen, Menschenbezogen"
+                },
+                "intro": "Seit Jahrhunderten für sein faltiges Gesicht, seine großen Kugelaugen und seinen fröhlichen Charakter geliebt, ist der Mops (Pug) ein weltbekannter Gesellschaftshund. Mapse sind sanftmütig, aber aufgrund ihrer flachen Gesichtsform (Brachyzephalie) extrem anfällig für das Brachyzephale Obstruktive Atemwegssyndrom (BOAS) und Hitzeschlag. Zudem neigen ihre hervorstehenden Augen zu Hornhautgeschwüren und Augentrockenheit. Da Möpse sehr verfressen sind, stellt Übergewicht ein zusätzliches Risiko für Atemnot dar. Heute zeigt PetSelf eine 3-Schritte-Routine für die Gesundheit Ihres Mopses.",
+                "whyTitle": "Körpersprache des Mopses: Das Kopfschieflegen (Head Tilt) und Mundatmung bei Atemnot (BOAS Distress)",
+                "whyDesc": "Der Mops drückt Gefühle und Atemnot durch Mimik und Atemgeräusche aus. Das schräge Neigen des Kopfes beim Zuhorchen **'Kopfschieflegen (Head Tilt)'** ist sein Markenzeichen für Neugier und Aufmerksamkeit. Hektisches Jappen mit offenem Maul, heraushängender Zunge und aufgerissenen Augen **'Mundatmung (Open-Mouth Breathing / BOAS Distress)'** ist dagegen ein lebensgefährliches Signal für Überhitzung oder Atemwegsverengung.",
+                "body_signals": [
+                    {
+                        "name": "Kopf seitlich neigen und leise Schnaufgeräusche abgeben (Head Tilt & Snort-Chirping)",
+                        "meaning": "Zeigt hohe Aufmerksamkeit, Neugier und den Wunsch nach Interaktion mit dem Halter an.",
+                        "response": "Sprechen Sie freundlich mit ihm und kraulen Sie ihn am Kinn oder hinter den Ohren."
+                    },
+                    {
+                        "name": "Schweres Jappen mit offenem Maul, langer Zunge und aufgerissenen Augen (Open-Mouth Breathing / BOAS Distress)",
+                        "meaning": "Gefahrensignal für Atemwegsverschluss oder Überhitzung durch mangelnde Hitzeregulierung.",
+                        "response": "Sofort jede Bewegung stoppen, in kühle Räume bringen und die Pfoten mit lauwarmem Wasser kühlen."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Pflege der Gesichtsfalten & Strikte Rationskontrolle gegen Übergewicht",
+                        "text": "Reinigen Sie die Gesichtsfalten mit Feuchttüchern gegen Entzündungen und wiegen Sie das Futter exakt ab."
+                    },
+                    {
+                        "name": "Mittag: Klimatisierter Innenraum (22–24 °C) & Kurze, schonende Spaziergänge (15–20 Min.)",
+                        "text": "Halten Sie die Wohnung kühl, da platte Rassen schnell überhitzen, und gehen Sie nur zu kühlen Zeiten spazieren."
+                    },
+                    {
+                        "name": "Abend: Augenkontrolle mit Pflegentropfen & Kehlkopfschonendes Y-Geschirr",
+                        "text": "Spülen Sie die Augen mit Augentropfen gegen Hornhautschäden aus und nutzen Sie stets ein Y-Geschirr ohne Druck auf die Luftröhre."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Warum schnarcht der Mops so stark und warum ist Hitze für ihn gefährlich?",
+                        "answer": "Möpse leiden unter dem Brachyzephalen Atemwegssyndrom (BOAS) mit verengten Nasenlöchern und einem verlängerten Gaumensegel. Da Hunde sich durch Hecheln kühlen, verhindert das verengte Atemrohr des Mopses eine wirksame Wärmeabgabe. Bei Sommerhitze droht schnell ein tödlicher Hitzeschlag. Klimatisierte Räume sind Pflicht."
+                    },
+                    {
+                        "question": "Wie schütze ich die Augen meines Mopses und was ist die Mops-Enzephalitis (PDE)?",
+                        "answer": "Aufgrund flacher Augenhöhlen verletzen sich Möpse die Augen leicht an Gräsern, was zu Hornhautgeschwüren führt. Zudem ist die Mops-Enzephalitis (PDE / Nekrotisierende Meningoenzephalitis) eine tödliche Erbkrankheit des Gehirns bei 1- bis 3-jährigen Möpsen. Bei Krämpfen, Orientierungslosigkeit oder Kreisblaufen ist sofort ein MRT beim Tierarzt nötig."
+                    }
+                ],
+                "tags": [
+                    "Mops",
+                    "KleineHundePflege",
+                    "BrachyzephalieBOAS",
+                    "MopsAugenpflege"
+                ]
+            },
+            "pt": {
+                "title": "Sinais comportamentais do Pug e rotina diária de 3 passos para síndrome braquicefálica (BOAS) e cuidados oculares",
+                "description": "Guia de cuidados para o adorável e afetuoso Pug. Interprete a inclinação de cabeça e a respiração de boca aberta, proteja as vias aéreas, os olhos proeminentes e evite a obesidade em 3 passos.",
+                "authority": "American Kennel Club (AKC) & Padrões do Pug Dog Club of America (PDCA)",
+                "profile": {
+                    "breed": "Pug",
+                    "lifespan": "12 ~ 15 anos",
+                    "sleep_pattern": "12 ~ 14 horas (Cão de colo carinhoso, descanso interno)",
+                    "temperament": "Amável, Brincalhão, Charmoso, Calmo, Orientado a pessoas"
+                },
+                "intro": "Amado por séculos por seu rosto enrugado, olhos grandes e expressivos e temperamento afetuoso, o Pug é um cão de companhia icônico. Embora sejam calmos e dóceis, sua anatomia braquicefálica (focinho achatado) os torna extremamente suscetíveis à Síndrome Respiratória Braquicefálica (BOAS) e a choques térmicos. Além disso, seus olhos saltados sofrem com frequência de úlceras de córnea e olho seco, enquanto o apetite insaciável faz da obesidade um grave fator de risco respiratório. Hoje, o PetSelf apresenta uma rotina de 3 passos para cuidar da sua saúde.",
+                "whyTitle": "Linguagem corporal do Pug: Inclinação de cabeça (Head Tilt) e respiração de boca aberta (BOAS Distress)",
+                "whyDesc": "O Pug comunica emoções e desconforto físico por meio de expressões e sons respiratórios. Inclinar a cabeça para os lados ao ouvir sua voz **'Inclinação de cabeça (Head Tilt)'** é uma demonstração de curiosidade e carinho. Em contrapartida, ofegar com a boca aberta, língua para fora e olhos arregalados **'Respiração de boca aberta (Open-Mouth Breathing / BOAS Distress)'** é um sinal de emergência indicando falta de ar ou superaquecimento.",
+                "body_signals": [
+                    {
+                        "name": "Inclinar a cabeça de um lado para o outro emitindo fungados curtos (Head Tilt & Snort-Chirping)",
+                        "meaning": "Sinal de atenção e curiosidade que demonstra interesse na voz e nas ações do tutor.",
+                        "response": "Fale com tom carinhoso e afague o queixo ou atrás das orelhas para fortalecer o vínculo."
+                    },
+                    {
+                        "name": "Ofegar intensamente com a boca aberta, língua exposta e olhos arregalados (Open-Mouth Breathing / BOAS Distress)",
+                        "meaning": "Sinal de perigo indicando colapso respiratório ou incapacidade de dissipar calor corporal.",
+                        "response": "Interrompa o exercício imediatamente, leve-o para um local climatizado e umedeça as patas com água morna."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Higiene das dobras faciais & controle estrito de ração contra a obesidade",
+                        "text": "Limpe as dobras do rosto com lenços umedecidos para evitar dermatites e controle a quantidade de ração rigorosamente."
+                    },
+                    {
+                        "name": "Tarde: Ambiente interno fresco (22–24°C) & passeios curtos de baixa intensidade (15–20 min)",
+                        "text": "Mantenha a casa fresca, pois cães braquicefálicos superaquecem rápido, passeando apenas em horários amenos."
+                    },
+                    {
+                        "name": "Noite: Inspeção ocular com colírio lubrificante & uso de peitoral em Y sem pressão no pescoço",
+                        "text": "Lave os olhos saltados com soro ou lágrima artificial contra úlceras e use sempre um peitoral em Y que não pressione a traqueia."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Por que o Pug ronca tanto e por que o calor é tão perigoso para ele?",
+                        "answer": "O Pug sofre da Síndrome Respiratória Braquicefálica (BOAS), com narinas estreitas e palato mole alongado. Como os cães se resfriam ofegando, o canal respiratório estreito do Pug impede a troca de calor, levando rapidamente a choques térmicos fatais no verão. O uso de ar-condicionado é indispensável."
+                    },
+                    {
+                        "question": "Como cuidar dos olhos do Pug e o que é a Encefalite do Pug (PDE)?",
+                        "answer": "Por terem órbitas oculares rasas, os olhos do Pug se ferem facilmente em plantas, causando úlceras de córnea. Além disso, a Encefalite do Pug (PDE / Meningoencefalite Necrosante) é uma doença cerebral hereditária grave que surge entre 1 e 3 anos. Se observar convulsões ou caminhada em círculos, consulte um veterinário para ressonância magnética urgente."
+                    }
+                ],
+                "tags": [
+                    "Pug",
+                    "CuidadosComCaesPequenos",
+                    "SindromeBraquicefalicaBOAS",
+                    "UlceraDeCorneaPug"
+                ]
+            },
+            "id": {
+                "title": "Sinyal Perilaku Anjing Pug dan Rutinitas Harian 3 Langkah Perawatan Sindrom Saluran Napas Brasisefalik (BOAS) serta Kesehatan Kornea",
+                "description": "Panduan perawatan anjing ras mungil menggemaskan Pug. Pahami miring kepala dan napas mulut terbuka, kelola saluran napas ras pesek, cegah ulkus kornea, serta kendalikan berat badan dalam 3 langkah.",
+                "authority": "Standar Perawatan American Kennel Club (AKC) & Pug Dog Club of America (PDCA)",
+                "profile": {
+                    "breed": "Pug",
+                    "lifespan": "12 ~ 15 tahun",
+                    "sleep_pattern": "12 ~ 14 jam (Anjing pangkuan yang penyayang, menyukai istirahat di dalam rumah)",
+                    "temperament": "Penyayang, Ceria, Menggemaskan, Santai, Suka Menempel pada Manusia"
+                },
+                "intro": "Dicintai selama berabad-abad karena wajahnya yang berkerut, matanya yang bulat besar, serta sifatnya yang jenaka, Pug adalah anjing pendamping ikonis. Meskipun Pug terkenal tenang dan ramah, anatomi wajahnya yang pesek (brasisefalik) membuat mereka sangat rentan terhadap Brachycephalic Obstructive Airway Syndrome (BOAS) dan sengatan panas (heatstroke). Selain itu, matanya yang menonjol rentan mengalami ulkus kornea dan mata kering, sedangkan nafsu makan yang besar menjadikan obesitas sebagai faktor risiko berat bagi pernapasan dan sendi. Hari ini, PetSelf membagikan 3 langkah rutinitas harian untuk merawat kesehatan Pug Anda.",
+                "whyTitle": "Bahasa Tubuh Pug: Miring Kepala (Head Tilt) dan Napas Mulut Terbuka (BOAS Distress)",
+                "whyDesc": "Pug menyampaikan emosi dan rasa sesak napas melalui ekspresi wajah dan suara napas. Memiringkan kepala ke kiri dan kanan saat mendengarkan suara Anda **'Miring Kepala (Head Tilt)'** adalah tanda rasa ingin tahu dan kasih sayang. Sebaliknya, terengah-engah dengan mulut terbuka, lidah menjulur, dan mata melebar **'Napas Mulut Terbuka (Open-Mouth Breathing / BOAS Distress)'** adalah sinyal bahaya yang menandakan sesak napas atau tubuh terlalu panas.",
+                "body_signals": [
+                    {
+                        "name": "Memiringkan Kepala ke Kiri-Kanan Sambil Mengeluarkannya Suara Dengkur Halus (Head Tilt & Snort-Chirping)",
+                        "meaning": "Tanda perhatian penuh dan rasa ingin tahu yang menunjukkan keinginan untuk berinteraksi dengan pemilik.",
+                        "response": "Bicaralah dengan suara lembut dan elus bagian dagu atau belakang telinganya untuk mempererat ikatan."
+                    },
+                    {
+                        "name": "Terengah-engah Berat dengan Mulut Terbuka, Lidah Menjulur, dan Mata Melebar (Open-Mouth Breathing / BOAS Distress)",
+                        "meaning": "Sinyal bahaya akibat penyempitan saluran napas atau kegagalan pembuangan panas tubuh.",
+                        "response": "Segera hentikan aktivitas, pindahkan ke ruangan ber-AC, dan basahi telapak kakinya dengan air hangat suam-suam kuku."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Kebersihan Lipatan Wajah & Takaran Pakan Ketat untuk Kontrol Berat Badan",
+                        "text": "Bersihkan lipatan wajah dengan tisu basah khusus agar tidak lembap dan infeksi, serta ukur takaran pakan agar tidak obesitas."
+                    },
+                    {
+                        "name": "Siang: Kontrol Suhu Ruangan Sejuk (22–24°C) & Jalan Santai Singkat (15–20 Menit)",
+                        "text": "Jaga ruangan tetap sejuk karena ras pesek cepat mengalami panas berlebih, dan ajak berjalan singkat saat cuaca dingin."
+                    },
+                    {
+                        "name": "Malam: Pemeriksaan Mata dengan Tetes Mata & Penggunaan Harness Y Tanpa Menekan Tenggorokan",
+                        "text": "Bilas mata yang menonjol dengan tetes mata steril untuk mencegah ulkus kornea, serta gunakan harness berbentuk Y saat jalan-jalan."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mengapa anjing Pug sering ngorok keras dan mengapa cuaca panas sangat berbahaya bagi mereka?",
+                        "answer": "Pug memiliki Brachycephalic Obstructive Airway Syndrome (BOAS) akibat lubang hidung yang sempit dan langit-langit mulut yang panjang. Karena anjing membuang panas tubuh lewat terengah-engah, saluran napas Pug yang sempit membuat pelepasan panas sangat tidak efisien sehingga mudah kena heatstroke mematikan di musim panas. Pendingin udara (AC) di dalam rumah hukumnya wajib."
+                    },
+                    {
+                        "question": "Bagaimana cara merawat mata Pug dan apa itu Pug Dog Encephalitis (PDE)?",
+                        "answer": "Rongga mata yang dangkal membuat mata Pug mudah tergores rumput dan mengalami ulkus kornea, sehingga disarankan membersihkan mata setelah jalan-jalan. Selain itu, Pug Dog Encephalitis (PDE/Meningoensefalitis Nekrotikan) adalah penyakit otak keturunan fatal yang menyerang usia 1–3 tahun. Jika terjadi kejang atau berjalan berputar-putar, segera bawa ke dokter hewan untuk pemeriksaan MRI."
+                    }
+                ],
+                "tags": [
+                    "Pug",
+                    "PerawatanAnjingKecil",
+                    "SindromBrasisefalikBOAS",
+                    "UlkusKorneaPug"
+                ]
+            }
+        },
+        "category": "CareSelf",
+        "app": "careself",
+        "formatVersion": 4,
+        "heroImage": "/images/blog/pug_care.webp"
+    }
+}

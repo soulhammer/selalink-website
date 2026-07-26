@@ -1,0 +1,516 @@
+{
+    "corydoras-care": {
+        "pubDate": "2026-07-06",
+        "updatedDate": "2026-07-06",
+        "locales": {
+            "ko": {
+                "title": "코리도라스의 수면 수형·장호흡 신호 해석과 수염 손상 및 아질산염 중독 예방을 위한 3단계 데일리 케어",
+                "description": "귀여운 주둥이와 바닥을 훑는 헤엄이 매력적인 소형 메기목 열대어 코리도라스(Corydoras Catfish). 장호흡 및 지느러미 수영 신호 해석, 고운 모래 바닥재 케어, 수염 손상 및 아질산염 예방을 위한 3단계 홈케어 루틴을 소개합니다.",
+                "authority": "OFI (국제 관상어 협회) 및 WAVMA (세계 수생 수의사 협회) 케어 프로토콜",
+                "profile": {
+                    "breed": "코리도라스 (Corydoras Catfish / Corydoras)",
+                    "lifespan": "3 ~ 5년 (올바른 케어 시 7년 이상)",
+                    "sleep_pattern": "8 ~ 10시간 (야행성/박명성, 밤 동안 수조 바닥에서 휴식)",
+                    "temperament": "온순함, 활발함, 바닥재 탐색 본능, 군영성(5마리 이상 추천), 평화로움"
+                },
+                "intro": "남미 아마존 강 수계 원산의 코리도라스(Corydoras Catfish)는 귀여운 수염과 바닥을 부지런히 훑는 헤엄으로 '수조의 청소부'라 불리며 전 세계 물생활 사육자들에게 사랑받는 소형 메기목 열대어입니다. 코리도라스는 온순하고 유순한 성격을 가졌지만, 주둥이 주변의 감각 수염(Barbels)이 날카로운 자갈이나 오염된 바닥재에 지속적으로 마찰될 경우 녹아내리거나 세균성 수염 염증을 겪기 쉽습니다. 또한 수질 내 암모니아 및 아질산염 축적에 매우 민감하며, 산소가 부족할 때 수면으로 올라와 순간적으로 공기를 삼키는 특이한 '장호흡(Intestinal Respiration)' 메커니즘을 가지고 있습니다. 오늘 PetSelf에서는 코리도라스의 행동 신호를 정확히 이해하고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.",
+                "whyTitle": "코리도라스의 바디 랭귀지: 수면 공기 호흡(Surface Gulping / Intestinal Respiration)과 지느러미 접기·벽 타기(Clamped Fins / Glass Surfing)",
+                "whyDesc": "코리도라스는 수중 수영 방식과 지느러미 상태로 산소 요구량 및 수질 스트레스 신호를 표현합니다. 수면 위로 빠르게 솟구쳐 올라와 '톡' 소리를 내며 공기를 삼키고 내려가는 **'수면 공기 호흡(Surface Gulping / 장호흡)'**은 특유의 생리 현상이거나 용존 산소 부족, 아질산염 상승 신호입니다. 반면 지느러미를 몸에 바짝 붙인 채 바닥에 웅크리거나 수조 벽면을 계속 위아래로 훑고 다니는 **'지느러미 접기·벽 타기(Clamped Fins / Glass Surfing)'**는 급격한 수온 하강, 암모니아 중독, 혹은 극심한 환경 스트레스 신호입니다.",
+                "body_signals": [
+                    {
+                        "name": "수면 위로 순식간에 솟구쳐 올라와 공기를 삼킴 (Surface Gulping / Intestinal Respiration)",
+                        "meaning": "코리도라스 특유의 장호흡 생리 현상이거나, 여과력 저하로 인한 수조 내 용존 산소 부족 신호입니다.",
+                        "response": "기본적인 장호흡은 정상이지만 횟수가 지나치게 잦다면 즉시 에어레이션을 강화하고 암모니아/아질산 수치를 측정합니다."
+                    },
+                    {
+                        "name": "지느러미를 바짝 접은 채 바닥에 웅크리거나 유리벽을 위아래로 왕복함 (Clamped Fins & Glass Surfing)",
+                        "meaning": "수질 오염(아질산염 중독), 급격한 수온 변화, 또는 바닥재 세균 감염으로 인한 극심한 스트레스 반응입니다.",
+                        "response": "즉시 수온(22~26°C)을 점검하고, 수조 물의 20~30%를 환수하며 바닥재 잔여물을 사이폰으로 청소합니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 수온(22~26°C) 및 수질 점검, 바닥 침강성 고단백 사료 급여",
+                        "text": "다른 어종에게 먹이를 빼앗기지 않도록 코리도라스 전용 침강성 탭/펠릿 사료를 바닥에 투여합니다."
+                    },
+                    {
+                        "name": "낮: 바닥재(고운 샌드/금사) 상태 확인 및 여과기 에어레이션(산소 공급) 점검",
+                        "text": "수염 손상을 막기 위해 날카로운 자갈 대신 입자가 고운 모래(금사/적사)를 유지하고 용존 산소량을 확보합니다."
+                    },
+                    {
+                        "name": "저녁: 사이폰을 이용한 바닥재 찌꺼기 청소(주 1~2회 환수) 및 5마리 이상 무리 상태 확인",
+                        "text": "바닥층에 암모니아와 세균이 누적되지 않도록 잔여 사료와 똥을 흡입 청소하며, 군영성을 유지시킵니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "코리도라스의 입 주변 수염이 녹아내리는(Barbels Erosion) 이유는 무엇인가요?",
+                        "answer": "코리도라스의 수염은 모래 속 먹이를 찾는 핵심 감각 기관입니다. 흑사나 흑자갈처럼 각지고 날카로운 바닥재를 사용하면 수염에 상처가 나게 되며, 바닥층에 사료 잔여물과 배설물이 부패하여 세균이 번식할 경우 상처 부위에 이차 감염이 일어나 수염이 녹아내립니다. 수염을 건강하게 유지하려면 입자가 고르고 부드러운 전용 모래(금사 등)를 깔아주고, 주기적으로 바닥 청소를 실시해야 합니다."
+                    },
+                    {
+                        "question": "코리도라스는 수조의 남은 먹이나 똥을 먹는 청소물고기인가요?",
+                        "answer": "절대 아닙니다! 코리도라스는 배설물(똥)을 먹지 않으며, 다른 물고기가 남긴 잔여물만으로는 필요한 영양을 전혀 채울 수 없어 기아로 사망하기 쉽습니다. 코리도라스는 육식성과 잡식성을 띤 열대어로, 사료 투여 시 바닥으로 가라앉는 코리 전용 고단백 침강성 펠릿 사료나 실지렁이, 냉동 장구벌레(냉짱)를 별도로 챙겨 급여해야 합니다."
+                    }
+                ],
+                "tags": [
+                    "코리도라스",
+                    "수생생물케어",
+                    "코리도라스수염관리",
+                    "바닥어종케어"
+                ]
+            },
+            "en": {
+                "title": "Corydoras Catfish Behavioral Signals and 3-Step Daily Routine for Barbel Health and Nitrite Poisoning Prevention",
+                "description": "Care guide for the bottom-dwelling Corydoras Catfish. Interpret intestinal respiration and clamped fin signals, manage soft sand substrates, and prevent barbel erosion in 3 steps.",
+                "authority": "Ornamental Fish International (OFI) & World Aquatic Veterinary Medical Association (WAVMA) Care Standards",
+                "profile": {
+                    "breed": "Corydoras Catfish (Corydoras)",
+                    "lifespan": "3 - 5 Years (Up to 7+ years with optimal care)",
+                    "sleep_pattern": "8 - 10 Hours (Nocturnal/Crepuscular, rests on aquarium floor at night)",
+                    "temperament": "Peaceful, Active, Bottom-Foraging, Schooling (5+ recommended), Gentle"
+                },
+                "intro": "Native to the freshwater rivers of South America's Amazon basin, the Corydoras Catfish ('Cory') is a beloved bottom-dwelling armored catfish cherished by aquarists worldwide for its cute barbels and industrious bottom-scanning swimming style. While famously peaceful, Corydoras catfish possess delicate sensory barbels around their mouths that easily erode or develop bacterial infections if kept on sharp gravel or dirty substrates. Furthermore, they are highly sensitive to nitrogenous waste buildup (ammonia and nitrite) and possess a specialized physiological mechanism for 'intestinal respiration,' darting to the surface to gulp air when dissolved oxygen drops. Today, PetSelf presents a 3-step daily care routine to decode your Corydoras' body language and protect its health.",
+                "whyTitle": "Corydoras Body Language: Surface Gulping (Intestinal Respiration) and Clamped Fins (Glass Surfing)",
+                "whyDesc": "Corydoras catfish signal water parameters and environmental distress through surface movements and fin posture. Darting rapidly to the waterline to gulp air before returning to the bottom **'Surface Gulping / Intestinal Respiration'** is a unique physiological trait that doubles as an indicator of low dissolved oxygen or rising nitrites. Conversely, holding fins tightly against their body or frantically swimming up and down glass walls **'Clamped Fins / Glass Surfing'** is an explicit signal of acute water shock, ammonia toxicity, or severe stress.",
+                "body_signals": [
+                    {
+                        "name": "Darting Rapidly to the Water Surface to Gulp Air (Surface Gulping / Intestinal Respiration)",
+                        "meaning": "A natural physiological adaptation for oxygen intake, but excessive frequency indicates hypoxia or poor filtration.",
+                        "response": "Occasional gulping is normal; if frequent, immediately increase aeration/bubblers and test ammonia/nitrite levels."
+                    },
+                    {
+                        "name": "Holding Fins Clamped Against Body or Pacing Glass Walls Up and Down (Clamped Fins & Glass Surfing)",
+                        "meaning": "Signals severe water contamination, sudden temperature drops, or bacterial skin/barbel irritation.",
+                        "response": "Check temperature (22–26°C), perform a 20–30% water change with conditioned water, and vacuum substrate detritus."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Water Climate (22–26°C) Check & Sinking High-Protein Pellet Feeding",
+                        "text": "Feed specialized sinking wafers/pellets directly to the bottom so mid-water fish do not starve your bottom-dwelling Corys."
+                    },
+                    {
+                        "name": "Afternoon: Soft Sand Substrate Inspection & Oxygenation / Aeration Check",
+                        "text": "Ensure smooth, fine sand substrate (smooth river sand) is present to protect delicate barbels, maintaining high dissolved oxygen levels."
+                    },
+                    {
+                        "name": "Evening: Substrate Vacuuming (Weekly 10–20% Water Change) & Schooling Group Check",
+                        "text": "Vacuum uneaten food and waste from the substrate bed to prevent bacterial barbel rot, keeping them in groups of 5 or more."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Why are my Corydoras' barbels melting away or eroding (Barbel Erosion)?",
+                        "answer": "Corydoras barbels are crucial sensory organs used to forage for food in substrate. Sharp, coarse gravel creates micro-cuts on the barbels, and when uneaten food rots on the substrate bed, opportunist bacteria invade these wounds, causing 'barbel erosion' or melting. To prevent this, always use soft, fine sand and siphon substrate detritus regularly."
+                    },
+                    {
+                        "question": "Are Corydoras Catfish 'scavengers' that eat fish poop and tank waste?",
+                        "answer": "Absolutely not! Corydoras do not eat fish feces, and relying solely on leftover flakes from surface feeders leads to slow starvation. They are omnivorous/carnivorous bottom feeders that require targeted feeding with high-protein sinking wafers, live tubifex worms, or frozen bloodworms."
+                    }
+                ],
+                "tags": [
+                    "CorydorasCatfish",
+                    "AquaticPetCare",
+                    "CorydorasBarbelCare",
+                    "BottomFeederCare"
+                ]
+            },
+            "ja": {
+                "title": "コリドラスの行動サイン解読とヒゲ溶け（Barbel Erosion）・亜硝酸塩中毒予防のための3ステップデイリールーティン",
+                "description": "底層を元気に泳ぎ回る愛くるしい熱帯魚コリドラス（Corydoras Catfish）。腸呼吸やヒレたたみの解読、細砂底砂ケア、ヒゲの損傷予防のための3ステップホームケアを紹介します。",
+                "authority": "OFI（国際観賞魚協会）およびWAVMA（世界水生獣医師会）飼育基準",
+                "profile": {
+                    "breed": "コリドラス (Corydoras Catfish / Corydoras)",
+                    "lifespan": "3 〜 5年 (適切なケアで7年以上)",
+                    "sleep_pattern": "8 〜 10時間 (夜行性/薄明薄暮性、夜間は水槽底で休息)",
+                    "temperament": "温和、活発、底砂探索本能、群泳性（5匹以上推奨）、平和的"
+                },
+                "intro": "南米アマゾン川水系原産のコリドラス（Corydoras Catfish）は、愛らしい口元のヒゲと底砂を懸命にモフモフと掘る姿から「水槽の掃除屋」として世界中のアクアリストに愛されている小型ナマズの仲間です。コリドラスは温和で大人しい性格ですが、口元の繊細な触ヒゲ（Barbels）が尖った砂利や汚れた底砂に擦れると、傷口から細菌感染を起こしてヒゲが溶けてしまう「ヒゲ溶け病（Barbel Erosion）」を起こしやすい特徴があります。また水中のアンモニアや亜硝酸塩の蓄積に極めて敏感で、酸素不足になると水面へダッシュして空気を呑み込む独特の「腸呼吸（Intestinal Respiration）」を行います。本日PetSelfでは、コリドラスのサインを正確に解読し健康を守る3ステップルーティンをお届けします。",
+                "whyTitle": "コリドラスのボディランゲージ：水面パクパク腸呼吸(Surface Gulping)とヒレたたみ・ガラス面上下泳ぎ(Clamped Fins / Glass Surfing)",
+                "whyDesc": "コリドラスは泳ぎ方とヒレの開閉状態で酸素要求量や水質ストレスを明確に表現します。水面に向かって一直線に泳ぎ切り、息を吸ってすぐ底に戻る**「水面パクパク呼吸（Surface Gulping / 腸呼吸）」**は、本種特有の生理現象ですが、頻繁な場合は酸欠や亜硝酸濃度上昇のサインです。一方、ヒレを体にピタッとたたんで底にうずくまったり、ガラス面に沿って激しく上下に往復する**「ヒレたたみ・ガラス面泳ぎ（Clamped Fins / Glass Surfing）」**は、水質悪化、急激な水温低下、または重度の環境 stress シグナルです。",
+                "body_signals": [
+                    {
+                        "name": "水面へ一気にダッシュして空気を呑み込み底へ戻る (Surface Gulping / Intestinal Respiration)",
+                        "meaning": "コリドラス特有の腸呼吸行動ですが、頻繁に行う場合はろ過不足による酸欠や亜硝酸中毒の指標です。",
+                        "response": "通常の腸呼吸は問題ありませんが、回数が多い場合はすぐにエアレーションを強化し水質を測定してください。"
+                    },
+                    {
+                        "name": "ヒレをたたんで底にうずくまる、またはガラス壁面を上下に往復し続ける (Clamped Fins & Glass Surfing)",
+                        "meaning": "水質汚染（亜硝酸塩上昇）、水温の急変、または底砂の細菌繁殖による重度のストレス反応です。",
+                        "response": "水温（22〜26℃）を確認し、20〜30%の水換えを行い、プロホース（サイフォン）で底砂の汚れを吸い出します。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：水温（22〜26℃）と水質確認、底棲魚用高タンパク沈降性フードの給餌",
+                        "text": "上層の魚に餌を食べ尽くされないよう、コリドラス専用の沈下性タブレットやペレットを底に投入します。"
+                    },
+                    {
+                        "name": "昼：やわらかい底砂（ボトムサンド/田砂）の状態点検とエアレーション（酸素供給）確認",
+                        "text": "ヒゲの損傷を防ぐため角のない細かい砂（田砂・ボトムサンド等）を維持し、水中の溶存酸素量を確保します。"
+                    },
+                    {
+                        "name": "夜：サイフォンを用いた底砂の糞・残餌の掃除（週1〜2回水換え）と5匹以上の群れ確認",
+                        "text": "底層へのアンモニアや細菌の蓄積を防ぐため、掃除機（ホース）でゴミを吸い出し、群れで安心して過ごせる環境を作ります。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "コリドラスの口元のヒゲが溶けてなくなってしまう（Barbel Erosion）のはなぜですか？",
+                        "answer": "コリドラスのヒゲは砂の中の餌を探す大切な感覚器官です。大磯砂や黒ボク石のような角のある硬い底砂を使用するとヒゲに傷がつき、そこに底層で腐敗した残餌やフンの細菌が感染して「ヒゲ溶け」を引き起こします。ヒゲを健康に保つには、角のない非常に細かい専用砂（田砂など）を敷き、定期的にプロホースで底砂の汚れを掃除することが不可欠です。"
+                    },
+                    {
+                        "question": "コリドラスは水槽のフンや残餌を食べてくれる「お掃除魚」なのですか？",
+                        "answer": "絶対に違います！コリドラスは他魚の排泄物（フン）を食べることは一切なく、他の魚の残飯だけでは栄養が完全に shortage し餓死してしまいます。コリドラスは肉食傾向のある雑食性の熱帯魚ですので、底に沈むコリドラス専用の高タンパクペレットや、イトメ（生糸ミミズ）、冷凍赤ムシを個別にあたえる必要があります。"
+                    }
+                ],
+                "tags": [
+                    "コリドラス",
+                    "観賞魚ケア",
+                    "コリドラスヒゲケア",
+                    "底棲魚ケア"
+                ]
+            },
+            "zh": {
+                "title": "鼠鱼（Corydoras Catfish）行为信号解读与胡须融化 (Barbel Erosion) 及亚硝酸盐中毒预防的 3 步日常流程",
+                "description": "活跃在水族箱底层的可爱小型观赏鱼鼠鱼（Corydoras Catfish）。解读肠呼吸与缩鳍信号，维护细沙底床，保护触须与水质的 3 步骤家庭护理。",
+                "authority": "国际观赏鱼协会 (OFI) 与世界水生兽医师协会 (WAVMA) 护理标准",
+                "profile": {
+                    "breed": "鼠鱼 / 甲鲶 (Corydoras Catfish / Corydoras)",
+                    "lifespan": "3 ~ 5年 (科学养护可达7年以上)",
+                    "sleep_pattern": "8 ~ 10小时 (夜行性/薄暮性，夜间在水族箱底部休息)",
+                    "temperament": "温和、活泼、喜翻沙翻底床、群居性 (建议5尾以上)、和平"
+                },
+                "intro": "原产于南美洲亚马逊河流域的鼠鱼（Corydoras Catfish），凭其萌态可掬的胡须与勤劳翻沙的游姿，被誉为“水族箱底层清洁工”，深受全球水族爱好者喜爱。鼠鱼性格温和无害，但嘴边的感应触须（Barbels）在粗糙、尖锐的砂石或脏污的底床摩擦时，极易破损并感染细菌导致“融须/断须（Barbel Erosion）”。此外，它们对水体中的氨氮与亚硝酸盐堆积高度敏感，且拥有在水体缺氧时冲出水面吞咽空气的独特“肠呼吸（Intestinal Respiration）”生理机制。今天 PetSelf 将带您准确解读鼠鱼肢体语言，并通过 3 步骤日常护理维护其健康。",
+                "whyTitle": "鼠鱼肢体语言：水面冲顶吞气 (Surface Gulping / 肠呼吸) 与夹鳍·蹭缸 (Clamped Fins / Glass Surfing)",
+                "whyDesc": "鼠鱼通过游动姿态与鱼鳍状态清晰表达水体溶氧量与水质应激信号。瞬间快速冲向水面吞咽空气并迅速返回水底**“水面冲顶吞气 (Surface Gulping / 肠呼吸)”**，是其特有的生理现象，但频率过高则是水体严重缺氧或亚硝酸盐偏高的警报。相反，将鱼鳍紧紧收缩贴拢身体或沿着玻璃缸壁频繁上下游动**“夹鳍·蹭缸 (Clamped Fins / Glass Surfing)”**，则是水质剧烈波动、氨氮中毒或底床细菌感染的极度应激信号。",
+                "body_signals": [
+                    {
+                        "name": "快速冲出水面吞咽空气并瞬间潜回水底 (Surface Gulping / Intestinal Respiration)",
+                        "meaning": "鼠鱼特有的肠呼吸生理辅助，但频次过高反映过滤衰退导致水体严重缺氧或亚硝酸盐过高。",
+                        "response": "偶发吞气属正常现象；若频繁发生，需立即开启气泵爆氧并检测氨氮与亚硝酸盐浓度。"
+                    },
+                    {
+                        "name": "缩紧胸鳍背鳍趴伏底床，或在玻璃缸壁频繁上下撞缸游动 (Clamped Fins & Glass Surfing)",
+                        "meaning": "水质恶化（亚硝酸盐中毒）、水温骤降或底砂细菌滋生刺激皮肤胡须导致的严重应激。",
+                        "response": "检查水温 (22°C~26°C)，使用洗沙器抽取底砂脏污，并进行 20%~30% 的困水换水。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：水温 (22°C~26°C) 与水质检测，投喂底层沉底性高蛋白专料",
+                        "text": "防止中上层鱼类抢食，将鼠鱼专用沉底贴片或沉底颗粒直接投喂至缸底。"
+                    },
+                    {
+                        "name": "中午：检查细腻底沙（热带雨林沙/金沙）状态与增加增氧爆氧",
+                        "text": "必须使用无棱角的高品质细沙（如金沙/圆粒沙）以保护娇嫩触须，并维持充足的溶氧量。"
+                    },
+                    {
+                        "name": "晚上：用洗沙器清理底床残饵与粪便（每周换水 1~2 次）及确认群居状态",
+                        "text": "使用洗沙器吸除底层堆积的有机物以防细菌繁殖烂须，维持 5 尾以上的群居合聚环境。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "鼠鱼嘴边的胡须为什么会断掉或融化 (Barbel Erosion)？",
+                        "answer": "鼠鱼的触须是寻找沙中食物的核心感觉器官。如果使用黑金沙、棱角分明的建材砂等尖锐底砂，触须会被划伤；若底层堆积大量残饵粪便发酵滋生细菌，细菌会侵入伤口导致“烂须/融须”。保持胡须健康的关键是铺设平滑圆润的细沙，并定期使用洗沙器清洗底床。"
+                    },
+                    {
+                        "question": "鼠鱼是吃鱼粪便和垃圾的“工具鱼/清道夫”吗？",
+                        "answer": "绝对不是！鼠鱼完全不吃鱼类排泄物（粪便），仅靠其他鱼吃剩的残渣根本无法满足其营养需求，极易导致营养不良饿死。鼠鱼是偏肉食性的杂食性鱼类，必须专门为其投喂沉底的高蛋白鼠鱼滋养丸、红虫（血虫）或冰冻丰年虾。"
+                    }
+                ],
+                "tags": [
+                    "鼠鱼",
+                    "观赏鱼护理",
+                    "鼠鱼融须预防",
+                    "底层鱼类护理"
+                ]
+            },
+            "es": {
+                "title": "Señales de conducta en el Pez Corydora y rutina diaria de 3 pasos para la salud de los barbillones y prevención de intoxicación por nitritos",
+                "description": "Guía de cuidado para el pez de fondo Corydora (Corydoras Catfish). Interprete la respiración intestinal y las aletas replegadas, controle el sustrato de arena fina y prevenga la erosión de barbillones en 3 pasos.",
+                "authority": "Ornamental Fish International (OFI) y Normas de la World Aquatic Veterinary Medical Association (WAVMA)",
+                "profile": {
+                    "breed": "Corydora (Corydoras Catfish / Corydoras)",
+                    "lifespan": "3 ~ 5 años (Más de 7 años con cuidados óptimos)",
+                    "sleep_pattern": "8 ~ 10 horas (Nocturno/Crepuscular, descansa en el fondo del acuario)",
+                    "temperament": "Pacífico, Activo, Explorador de fondo, Gregario (grupo de 5+), Dócil"
+                },
+                "intro": "Nativo de las cuencas del río Amazonas en América del Sur, el pez Corydora (Corydoras Catfish) es un popular pez gato acorazado amado mundialmente por sus adorables barbillones y su incesante hábito de buscar alimento en el sustrato. Aunque son peces pacíficos y resistentes, poseen delicados barbillones sensoriales alrededor de la boca que sufren abrasión o infecciones bacterianas si se mantienen sobre grava afilada o sustratos sucios. Además, son extremadamente sensibles a la acumulación de amoníaco y nitritos, y cuentan con una respiración intestinal adaptativa para tragar aire en la superficie cuando el oxígeno baja. Hoy, PetSelf presenta una rutina de 3 pasos para cuidar su salud.",
+                "whyTitle": "Lenguaje corporal de la Corydora: Boqueo en superficie (Respiración intestinal) y aletas plegadas (Glass Surfing)",
+                "whyDesc": "Las Corydoras comunican falta de oxígeno y estrés en el agua mediante desplazamientos verticales y la postura de sus aletas. Subir rápidamente a la superficie a tragar aire y bajar de inmediato **'Boqueo en superficie (Respiración Intestinal)'** es un rasgo fisiológico natural que se intensifica con poco oxígeno o nitritos altos. En cambio, plegar las aletas junto al cuerpo o nadar frenéticamente de arriba abajo por el cristal **'Aletas plegadas / Glass Surfing'** es una señal de choque por parámetros, amoníaco o irritación bacteriana.",
+                "body_signals": [
+                    {
+                        "name": "Subir velozmente a la superficie para tragar aire y volver al fondo (Surface Gulping)",
+                        "meaning": "Mecanismo de respiración intestinal adaptativo; si es excesivamente frecuente, indica falta de oxígeno o nitritos altos.",
+                        "response": "El boqueo ocasional es normal; si constante, aumente la aireación y mida amoníaco y nitritos de inmediato."
+                    },
+                    {
+                        "name": "Mantener las aletas pegadas al cuerpo o nadar pegado al cristal de arriba a abajo (Clamped Fins & Glass Surfing)",
+                        "meaning": "Estrés agudo por intoxicación con nitritos, caída de temperatura o infección bacteriana en barbillones.",
+                        "response": "Verifique la temperatura (22–26°C), realice un cambio de agua del 20 al 30% y sifone el fondo."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Control de temperatura (22–26°C) y alimentación con pastillas de fondo de alta proteína",
+                        "text": "Suministre comprimidos o gránulos específicos para peces de fondo que se hundan, evitando que los peces de superficie se lo coman."
+                    },
+                    {
+                        "name": "Tarde: Revisión del sustrato de arena fina y control de oxigenación/aereación",
+                        "text": "Asegure un suelo de arena fina y suave (sin bordes cortantes) para proteger sus barbillones y mantenga una buena aireación."
+                    },
+                    {
+                        "name": "Noche: Sifonado de detritos del fondo (cambio parcial semanal) y revisión del cardumen",
+                        "text": "Aaspire restos de comida y deyecciones con un sifón para evitar infecciones bacterianas y mantenga un grupo de al menos 5 ejemplares."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Por qué a mis Corydoras se les desgastan o desaparecen los barbillones (Barbel Erosion)?",
+                        "answer": "Los barbillones de las Corydoras son órganos sensoriales vitales para excavar en busca de alimento. Usar grava gruesa o con bordes afilados provoca microheridas que, al entrar en contacto con restos de comida en descomposición y bacterias del fondo, causan infección y la 'pérdida de barbillones'. Para evitarlo, use siempre arena fina y limpie periódicamente el sustrato."
+                    },
+                    {
+                        "question": "¿Las Corydoras son peces 'basurero' que comen excrementos de otros peces?",
+                        "answer": "¡En absoluto! Las Corydoras no comen heces y no pueden sobrevivir alimentándose únicamente de los sobrantes de otros peces. Son peces omnívoros/carnívoros de fondo que necesitan pastillas de fondo ricas en proteína, larvas de mosquito congeladas o gusanos tubifex para no morir de inanición."
+                    }
+                ],
+                "tags": [
+                    "Corydora",
+                    "PezCorydora",
+                    "CuidadoDePecesDeFondo",
+                    "BarbillonesCorydora"
+                ]
+            },
+            "fr": {
+                "title": "Signaux comportementaux du Corydoras et routine quotidienne en 3 étapes pour la santé des barbillons et la prévention de l'intoxication aux nitrites",
+                "description": "Guide de soins pour le poisson de fond Corydoras. Décryptez la respiration intestinale et les nageoires collées, gérez le sable fin et prévenez l'érosion des barbillons en 3 étapes.",
+                "authority": "Ornamental Fish International (OFI) & Normes de la World Aquatic Veterinary Medical Association (WAVMA)",
+                "profile": {
+                    "breed": "Corydoras (Corydoras Catfish)",
+                    "lifespan": "3 ~ 5 ans (Plus de 7 ans avec des soins adaptés)",
+                    "sleep_pattern": "8 ~ 10 heures (Nocturne/Crépusculaire, se repose sur le fond la nuit)",
+                    "temperament": "Paisible, Actif, Fouisseur de fond, Grégaire (groupe de 5+), Doux"
+                },
+                "intro": "Originaire des bassins de l'Amazone en Amérique du Sud, le Corydoras est un petit poisson-chat cuirassé adore des aquariophiles pour ses barbillons expressifs et son comportement fouisseur. Bien que résistant, le Corydoras possède des barbillons très sensibles qui s'érodent ou s'infectent gravement au contact de gravier coupant ou d'un sol encrassé. De plus, il est très vulnérable à la pollution par l'ammoniac et les nitrites, et possède une faculté d'assimilation d'oxygène par respiration intestinale lorsqu'il vient gober l'air en surface. Aujourd'hui, PetSelf vous présente une routine en 3 étapes pour prendre soin de sa santé.",
+                "whyTitle": "Langage corporel du Corydoras : Gobeage d'air en surface (Respiration intestinale) et nageoires collées (Glass Surfing)",
+                "whyDesc": "Le Corydoras exprime le manque d'oxygène et la pollution de l'eau par ses déplacements verticaux et la position de ses nageoires. Filer à toute vitesse vers la surface pour gober de l'air avant de redescendre **« Gobeage en surface (Respiration intestinale) »** est une fonction physiologique normale qui s'accélère si l'eau manque d'oxygène ou si les nitrites montent. En revanche, plaquer ses nageoires contre son corps ou longer frénétiquement les vitres **« Nageoires collées / Glass Surfing »** signale une forte détresse liée à l'eau ou aux bactéries du sol.",
+                "body_signals": [
+                    {
+                        "name": "Remonter à la surface à toute vitesse pour prendre de l'air et redescendre au fond (Surface Gulping)",
+                        "meaning": "Mécanisme de respiration intestinale naturel ; devenant trop fréquent, il révèle un manque d'oxygène ou un pic de nitrites.",
+                        "response": "Un gobeage occasionnel est normal ; si fréquent, augmentez le bulleur et testez l'ammoniac et les nitrites."
+                    },
+                    {
+                        "name": "Garder ses nageoires collées au corps ou effectuer des allers-retours verticaux le long de la vitre (Clamped Fins & Glass Surfing)",
+                        "meaning": "Détresse aiguë due à une eau polluée, un choc thermique ou une infection bactérienne de la peau et des barbillons.",
+                        "response": "Contrôlez la température (22–26°C), effectuez un changement d'eau de 20 à 30 % et clochez le sol."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Contrôle de la température (22–26°C) & nourriture protéinée en pastilles de fond",
+                        "text": "Donnez des pastilles ou wafers coulant directement au sol pour que les poissons de surface ne lui volent pas sa nourriture."
+                    },
+                    {
+                        "name": "Après-midi : Inspection du sol en sable fin & vérification de l'aération/oxygénation",
+                        "text": "Veillez à utiliser du sable fin non agressif (sable de Loire) pour protéger ses barbillons et maintenez un taux d'oxygène élevé."
+                    },
+                    {
+                        "name": "Soir : Siphonnage des déchets du sol (changement d'eau hebdomadaire) & vie en groupe",
+                        "text": "Aspirez les restes de nourriture et déchets sur le fond pour éviter la pourriture des barbillons, en le maintenant en groupe d'au moins 5 individus."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Pourquoi les barbillons de mes Corydoras régressent-ils ou s'érodent-ils (Barbel Erosion) ?",
+                        "answer": "Les barbillons sont des organes sensoriels fondamentaux pour fouiller le sol. L'utilisation d'un gravier Quartz ou à arêtes vives provoque des micro-coupures qui s'infectent au contact des déchets du sol, entraînant la 'fonte des barbillons'. Pour l'éviter, utilisez exclusivement du sable fin et aspirez régulièrement le fond de l'aquarium."
+                    },
+                    {
+                        "question": "Les Corydoras sont-ils des poissons 'nettoyeurs' qui mangent les déjections des autres ?",
+                        "answer": "Pas du tout ! Les Corydoras ne mangent absolument pas les fientes et ne peuvent pas survivre uniquement avec les restes des autres poissons. Ce sont des poissons de fond omnivores à tendance carnivore qui ont besoin de pastilles protéinées spécifiques, de vers de vase ou de tubifex."
+                    }
+                ],
+                "tags": [
+                    "Corydoras",
+                    "SoinPoissonAquarium",
+                    "BarbillonsCorydoras",
+                    "PoissonDeFond"
+                ]
+            },
+            "de": {
+                "title": "Verhaltenssignale des Panzerwelses (Corydoras) und 3-Schritte-Tagesroutine für Bartelgesundheit und Nitritvergiftungs-Prophylaxe",
+                "description": "Pflegeanleitung für den bodenbewohnenden Panzerwels (Corydoras Catfish). Darmatmung und Flossenklemmen verstehen, feinen Sandgrund pflegen und Bartelerosion in 3 Schritten vorbeugen.",
+                "authority": "Ornamental Fish International (OFI) & Standards der World Aquatic Veterinary Medical Association (WAVMA)",
+                "profile": {
+                    "breed": "Panzerwels (Corydoras Catfish / Corydoras)",
+                    "lifespan": "3 ~ 5 Jahre (Bei guter Pflege über 7 Jahre)",
+                    "sleep_pattern": "8 ~ 10 Stunden (Nacht-/Dämmerungsaktiv, ruht nachts am Boden)",
+                    "temperament": "Friedlich, Aktiv, Gründelnd, Gesellig (Gruppe ab 5 Tieren), Sanftmütig"
+                },
+                "intro": "Beheimatet im Amazonasbecken Südamerikas ist der Panzerwels (Corydoras) wegen seiner drolligen Barteln und seines eifrigen Gründelns am Aquariumboden ein beliebter Zierfisch. Obwohl friedlich und robust, besitzen Panzerwelse hochsensible Barteln am Maul, die auf scharfkantigem Kies oder schmutzigem Bodengrund rasch verletzen und bakterielle 'Bartelerosion' erleiden. Zudem reagieren sie empfindlich auf Ammoniak und Nitrit und verfügen über die Fähigkeit zur 'Darmatmung', bei der sie an der Oberfläche Luft schlucken, wenn der Sauerstoffgehalt sinkt. Heute zeigt PetSelf eine 3-Schritte-Routine für die Gesundheit Ihres Panzerwelses.",
+                "whyTitle": "Körpersprache des Panzerwelses: Luftholen an der Oberfläche (Darmatmung) und Flossenklemmen (Glass Surfing)",
+                "whyDesc": "Panzerwelse zeigen Sauerstoffmangel und Wasserstress durch vertikale Schwimmbewegungen und Flossenhaltung. Das blitzschnelle Hochschießen zur Wasseroberfläche zum Luftschnappen **'Luftholen (Darmatmung)'** ist eine physiologische Eigenheit, die sich bei Nitritanstieg oder Sauerstoffmangel häuft. Das dichte Anlegen der Flossen an den Körper oder unruhiges Hochschwimmen an den Scheiben **'Flossenklemmen / Glass Surfing'** signalisiert dagegen akuten Stress, Nitritbelastung oder Bodengrundinfektionen.",
+                "body_signals": [
+                    {
+                        "name": "Blitzschnelles Hochschießen zur Oberfläche zum Luftschlucken (Surface Gulping / Darmatmung)",
+                        "meaning": "Natürliche Darmatmung zur Sauerstoffaufnahme; tritt dies ständig auf, herrscht Sauerstoffmangel oder Nitritbelastung.",
+                        "response": "Gelegentliches Schnappen ist normal; bei hoher Frequenz sofort Durchlüftung steigern und Nitrit testen."
+                    },
+                    {
+                        "name": "Anlegen der Flossen an den Körper oder Hektisches Auf- und Ab-Schwimmen an den Scheiben (Clamped Fins & Glass Surfing)",
+                        "meaning": "Starker Stress durch schlechte Wasserwerte (Nitrit), Temperaturschwankungen oder Bakterien am Bodengrund.",
+                        "response": "Prüfen Sie die Temperatur (22–26 °C), führen Sie einen 20–30%igen Wasserwechsel durch und absaugen Sie den Boden."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Temperaturkontrolle (22–26 °C) & Fütterung mit sinkenden Proteintabletten",
+                        "text": "Füttern Sie spezielle Boden-Welstabletten direkt am Grund, damit Oberflächenfische ihnen das Futter nicht wegfressen."
+                    },
+                    {
+                        "name": "Mittag: Feinen Sandbodengrund kontrollieren & Durchlüftung/Sauerstoff prüfen",
+                        "text": "Nutzen Sie feinen, abgerundeten Sand (Quarzsand), um die empfindlichen Barteln zu schützen, und sichern Sie hohen Sauerstoffgehalt."
+                    },
+                    {
+                        "name": "Abend: Mulm vom Bodengrund absaugen (wöchentlicher Teilwasserwechsel) & Gruppenstärke sichern",
+                        "text": "Saugen Sie Futterreste und Mulm mit dem Mulmsauger ab, um Bartelfäule zu verhindern, und halten Sie mindestens 5 Tiere."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Warum schmelzen oder verkürzen sich die Barteln meiner Panzerwelse (Bartelerosion)?",
+                        "answer": "Die Barteln der Panzerwelse sind hochsensible Tastorgane zum Gründeln. Scharfkantiger Kies (wie mancher Glanzkies) führt zu Mikroverletzungen. Wenn sich darin Futterreste zersetzen, dringen Bakterien ein und führen zur 'Bartelfäule/Bartelerosion'. Halten Sie Panzerwelse stets auf feinem Sand und halten Sie den Boden sauber."
+                    },
+                    {
+                        "question": "Sind Panzerwelse 'Müllschlucker', die den Kot anderer Fische fressen?",
+                        "answer": "Nein, auf keinen Fall! Panzerwelse fressen keinen Fischkot und verhungern, wenn sie nur von den Resten anderer Fische leben müssen. Sie sind fleisch- und allesfressende Bodenbewohner, die gezielt mit sinkendem Welsfutter, Mückenlarven oder Tubifex gefüttert werden müssen."
+                    }
+                ],
+                "tags": [
+                    "Panzerwels",
+                    "Corydoras",
+                    "AquaristikPflege",
+                    "BartelpflegeWelse"
+                ]
+            },
+            "pt": {
+                "title": "Sinais comportamentais do Peixe Corydora e rotina diária de 3 passos para saúde dos barbilhões e prevenção de intoxicação por nitrito",
+                "description": "Guia de cuidados para o peixe de fundo Corydora (Corydoras Catfish). Interprete a respiração intestinal e barbatanas encolhidas, controle o substrato de areia fina e evite a erosão dos barbilhões em 3 passos.",
+                "authority": "Ornamental Fish International (OFI) & Padrões da World Aquatic Veterinary Medical Association (WAVMA)",
+                "profile": {
+                    "breed": "Corydora (Corydoras Catfish / Corydoras)",
+                    "lifespan": "3 ~ 5 anos (Mais de 7 anos com cuidados adequados)",
+                    "sleep_pattern": "8 ~ 10 horas (Noturno/Crepuscular, descansa no fundo do aquário à noite)",
+                    "temperament": "Pacífico, Ativo, Explorador de fundo, Gregário (grupo de 5+), Dócil"
+                },
+                "intro": "Nativo da bacia do rio Amazonas na América do Sul, o Peixe Corydora é um peixe-gato blindado muito amado no aquarismo por seus barbilhões fofos e hábito incansável de vasculhar o substrato. Embora calmas e resistentes, as Corydoras possuem barbilhões sensíveis ao redor da boca que inflamam ou desgastam se mantidas em cascalho pontiagudo ou substrato sujo. Além disso, são extremamente sensíveis à contaminação por amônia e nitrito, possuindo uma respiração intestinal especial para engolir ar na superfície quando o oxigênio cai. Hoje, o PetSelf apresenta uma rotina de 3 passos para cuidar da sua saúde.",
+                "whyTitle": "Linguagem corporal da Corydora: Ida à superfície para engolir ar (Respiração intestinal) e barbatanas encolhidas (Glass Surfing)",
+                "whyDesc": "As Corydoras comunicam falta de oxigênio e estresse na água através de movimentos verticais e postura das barbatanas. Subir rapidamente à superfície para engolir ar e voltar ao fundo **'Ida à superfície (Respiração Intestinal)'** é um traço fisiológico natural que aumenta com pouco oxigênio ou nitrito alto. Já manter as barbatanas encolhidas junto ao corpo ou nadar sem parar no vidro **'Barbatanas encolhidas / Glass Surfing'** indica choque de parâmetros, amônia ou infecção bacteriana nos barbilhões.",
+                "body_signals": [
+                    {
+                        "name": "Subir velozmente à superfície para pegar ar e voltar para o fundo (Surface Gulping)",
+                        "meaning": "Mecanismo de respiração intestinal adaptativo; se muito frequente, revela falta de oxigênio na água ou pico de nitrito.",
+                        "response": "A ida ocasional é normal; se constante, aumente o aerador/oxigenação e meça amônia e nitrito."
+                    },
+                    {
+                        "name": "Manter as barbatanas coladas ao corpo ou nadar subindo e descendo no vidro (Clamped Fins & Glass Surfing)",
+                        "meaning": "Estresse agudo por contaminação de nitritos, queda brusca de temperatura ou infecção no substrato.",
+                        "response": "Verifique a temperatura (22–26°C), faça uma troca parcial de água de 20 a 30% e sifone o fundo."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Controle de temperatura (22–26°C) & alimentação com ração de fundo proteica",
+                        "text": "Forneça pastilhas ou wafers específicos para peixes de fundo que afundem direto, evitando que peixes de superfície roubem a comida."
+                    },
+                    {
+                        "name": "Tarde: Inspeção do substrato de areia fina & verificação da aeração/oxigenação",
+                        "text": "Garantir um solo de areia fina e sem cantos vivos para proteger seus barbilhões, mantendo bom nível de oxigênio."
+                    },
+                    {
+                        "name": "Noite: Sifonagem do fundo (troca parcial semanal de água) & verificação do grupo",
+                        "text": "Sifone restos de alimentos e sujeira no fundo para evitar infecção nos barbilhões e mantenha o grupo com pelo menos 5 peixes."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Por que os barbilhões da minha Corydora estão diminuindo ou derretendo (Barbel Erosion)?",
+                        "answer": "Os barbilhões das Corydoras são órgãos sensoriais vitais para procurar comida na areia. O uso de cascalho pontiagudo provoca cortes que, em contato com restos de ração e fezes em decomposição no fundo, infeccionam e causam o 'derretimento dos barbilhões'. Use sempre areia fina e faça sifonagens periódicas."
+                    },
+                    {
+                        "question": "As Corydoras são peixes 'limpadores' que comem cocô e sujeira dos outros peixes?",
+                        "answer": "Absolutamente não! As Corydoras não comem fezes e não sobrevivem apenas de restos. São peixes carnívoros/onívoros de fundo que precisam de rações em pastilha ricas em proteína, vermes tubifex ou larvas de mosquito."
+                    }
+                ],
+                "tags": [
+                    "Corydora",
+                    "PeixeVermelhoAquario",
+                    "CuidadosComPeixesDeFundo",
+                    "BarbilhoesCorydora"
+                ]
+            },
+            "id": {
+                "title": "Sinyal Perilaku Ikan Corydoras dan Rutinitas Harian 3 Langkah Perawatan Kesehatan Sungut serta Pencegahan Keracunan Nitrit",
+                "description": "Panduan perawatan ikan dasar hias Corydoras Catfish. Pahami sinyal napas usus dan sirip kuncup, kelola pasir halus, serta cegah kerusakan sungut dalam 3 langkah.",
+                "authority": "Standar Perawatan Ornamental Fish International (OFI) & World Aquatic Veterinary Medical Association (WAVMA)",
+                "profile": {
+                    "breed": "Corydoras / Ikan Corydoras (Corydoras Catfish)",
+                    "lifespan": "3 ~ 5 tahun (Lebih dari 7 tahun dengan perawatan optimal)",
+                    "sleep_pattern": "8 ~ 10 jam (Nokturnal/Krepuskular, beristirahat di dasar akuarium saat malam)",
+                    "temperament": "Damai, Aktif, Penjelajah Dasar, Berkelompok (minimal 5 ekor), Lembut"
+                },
+                "intro": "Berasal dari perairan Sungai Amazon di Amerika Selatan, Ikan Corydoras (Corydoras Catfish) adalah ikan lele hias berzirah yang sangat dicintai pecinta akuarium karena sungutnya yang menggemaskan dan kebiasaannya mengais pakan di dasar. Meskipun tergolong ramah dan tangguh, Corydoras memiliki sungut sensorik yang sangat halus di sekitar mulutnya yang mudah tergores atau terinfeksi bakteri jika dipelihara di atas kerikil tajam atau dasar kandang kotor. Selain itu, mereka sangat sensitif terhadap akumulasi amonia dan nitrit, serta memiliki mekanisme adaptasi 'pernapasan usus' untuk mengambil udara di permukaan air saat kadar oksigen turun. Hari ini, PetSelf membagikan 3 langkah rutinitas harian untuk merawat kesehatan Ikan Corydoras Anda.",
+                "whyTitle": "Bahasa Tubuh Corydoras: Mengambil Udara di Permukaan (Napas Usus) dan Sirip Kuncup (Glass Surfing)",
+                "whyDesc": "Corydoras menunjukkan tingkat oksigen air dan stres lingkungan melalui pergerakan vertikal dan bentuk siripnya. Berenang cepat ke permukaan untuk menelan udara lalu kembali ke dasar **'Mengambil Udara (Napas Usus)'** adalah ciri fisiologis alami yang akan semakin sering terjadi jika kadar oksigen terlarut rendah atau nitrit tinggi. Sebaliknya, menguncupkan sirip rapat-rapat ke tubuh atau berenang bolak-balik di dinding kaca **'Sirip Kuncup / Glass Surfing'** adalah sinyal stres berat akibat kualitas air buruk atau infeksi bakteri.",
+                "body_signals": [
+                    {
+                        "name": "Berenang Cepat ke Permukaan Air untuk Menelan Udara Lalu Kembali ke Dasar (Surface Gulping)",
+                        "meaning": "Adaptasi pernapasan usus alami; jika terjadi terlalu sering, menandakan kurangnya oksigen atau lonjakan nitrit.",
+                        "response": "Loncatan sesekali wajar; jika sangat sering, segera tingkatkan aerasi/gelembung udara dan tes amonia/nitrit."
+                    },
+                    {
+                        "name": "Menguncupkan Sirip Rapat ke Tubuh atau Berenang Naik-Turun di Kaca Akuarium (Clamped Fins & Glass Surfing)",
+                        "meaning": "Stres berat akibat keracunan nitrit, perubahan suhu mendadak, atau infeksi bakteri pada sungut.",
+                        "response": "Periksa suhu (22–26°C), lakukan pergantian air 20–30% dengan air terendap, dan kuras kotoran dasar."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Pemeriksaan Suhu Air (22–26°C) & Pemberian Pakan Pelet Tenggelam Protein Tinggi",
+                        "text": "Berikan pelet khusus ikan dasar yang tenggelam agar pakan tidak dihabiskan oleh ikan yang berenang di lapisan atas."
+                    },
+                    {
+                        "name": "Siang: Pemeriksaan Substrat Pasir Halus & Kontrol Aerasi/Oksigen Terlarut",
+                        "text": "Gunakan pasir halus tanpa sudut tajam (pasir silika/pasir malang halus) untuk melindungi sungut dan jaga kadar oksigen."
+                    },
+                    {
+                        "name": "Malam: Penyiphonan Kotoran Dasar (Kuras Air Mingguan 10–20%) & Cek Kelompok",
+                        "text": "Sedot sisa pakan dan kotoran di dasar akuarium untuk mencegah pembusukan sungut, serta pelihara minimal 5 ekor."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mengapa sungut ikan Corydoras saya terkikis atau membusuk (Barbel Erosion)?",
+                        "answer": "Sungut Corydoras adalah organ sensorik vital untuk mengais makanan di pasir. Kerikil kasar atau tajam menyebabkan luka mikro pada sungut. Saat luka terkena pembusukan sisa makanan dan bakteri di dasar akuarium, timbul infeksi yang membuat sungut membusuk/putus. Selalu gunakan pasir halus dan rutin sedot kotoran dasar."
+                    },
+                    {
+                        "question": "Apakah Corydoras adalah ikan 'pembersih' yang memakan kotoran ikan lain?",
+                        "answer": "Sangat tidak benar! Corydoras tidak memakan kotoran ikan dan tidak bisa bertahan hidup hanya dari sisa pakan ikan lain. Mereka adalah ikan omnivora/karnivora dasar yang membutuhkan pakan pelet tenggelam berprotein tinggi, cacing sutra, atau cacing darah (bloodworm)."
+                    }
+                ],
+                "tags": [
+                    "IkanCorydoras",
+                    "CorydorasCatfish",
+                    "PerawatanIkanDasar",
+                    "PerawatanSungutCorydoras"
+                ]
+            }
+        },
+        "category": "CareSelf",
+        "app": "careself",
+        "formatVersion": 4,
+        "heroImage": "/images/blog/corydoras_care.webp"
+    }
+}

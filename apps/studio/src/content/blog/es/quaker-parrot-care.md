@@ -1,0 +1,149 @@
+---
+layout: "../../../layouts/BlogPostLayout.astro"
+title: "Señales de conducta en la Cotorra Cotorra (Quaker Parrot) y rutina diaria de 3 pasos para la prevención de lipidosis hepática y toxicidad por teflón"
+description: "Guía de cuidado para la inteligente Cotorra Cotorra o Argentina (Quaker Parrot). Interprete los temblores (Quaking) y la defensa de jaula, prevenga el hígado graso, evite el teflón y controle hormonas en 3 pasos."
+pubDate: "2026-04-10"
+updatedDate: "2026-04-10"
+category: "FreshSelf"
+tags: ["CuidadoMascotas","SaludMascotas","Cotorra Cotorra / Cotorra Argentina (Quaker Parrot / Myiopsitta monachus)"]
+heroImage: "/images/blog/quaker_parrot_care.webp"
+app: "petself"
+formatVersion: 4
+authority: "Asociación de Veterinarios Aviares (AAV) y Protocolos del World Parrot Trust"
+steps:
+  - name: "Lenguaje corporal de la Cotorra Argentina: Temblores (Quaking) y defensa de jaula (Cage Defense)"
+    text: "La Cotorra Argentina comunica entusiasmo y alerta territorial mediante temblores corporales y posturas en la jaula. Sacudir rápidamente la cabeza y el cuerpo hacia los lados 'Temblores (Quaking / Shaking)' es una conducta distintiva que expresa alegría, bienvenida o pedido de comida. En cambio, erguirse en la puerta con pupilas contraídas (Pinning) y chasquidos 'Defensa de jaula (Cage Defense)' es un aviso instintivo de protección de su nido."
+  - name: "Lenguaje corporal y señales de conducta de Cotorra Cotorra / Cotorra Argentina (Quaker Parrot / Myiopsitta monachus)"
+    text: "* Sacudir rítmicamente la cabeza y el cuerpo de lado a lado (Quaking / Shaking): Muestra de afecto icónica de la especie que indica emoción, alegría al ver al dueño o solicitud de comida. (Responda con voz suave y rasque delicadamente la parte posterior de su cabeza.)
+
+* Erguirse en la puerta de la jaula, contraer pupilas y chasquear el pico (Cage Defense): Defensa territorial instintiva desencadenada por la intrusión percibida en su nido (jaula). (Nunca introduzca la mano por la fuerza; abra la jaula y espere a que salga voluntariamente a una percha exterior.)"
+  - name: "Rutina diaria de 3 pasos para el cuidado de Cotorra Cotorra / Cotorra Argentina (Quaker Parrot / Myiopsitta monachus)"
+    text: "* STEP 1. Mañana: Pienso formulado (60–70%), vegetales ricos en vitamina A y protección contra teflón: Alimente con pienso extrusionado bajo en grasa con zanahoria y calabaza contra el hígado graso, alejando al ave de sartenes de teflón.
+
+* STEP 2. Tarde: Juguetes de forrajeo que simulen la construcción de nidos y vuelo seguro fuera de la jaula: Ofrezca juguetes de papel y ramitas para triturar evitando el picaje por aburrimiento y permita el vuelo en una habitación segura.
+
+* STEP 3. Noche: Evitar caricias en la espalda (control hormonal) y 10–12h de sueño sin interrupciones: No acaricie su espalda ni vientre para no estimular la puesta de huevos, cubriendo la jaula con una funda opaca para el descanso."
+faqs:
+  - question: "¿Por qué los vapores de teflón (PTFE) son mortales para la Cotorra Argentina?"
+    answer: "Los loros poseen un sistema respiratorio de sacos aéreos extremadamente eficiente que absorbe toxinas del aire directo a la sangre. El teflón sobrecalentado emite gases inodoros e invisibles que provocan hemorragia pulmonar fulminante y asfixia. La jaula debe ubicarse muy lejos de la cocina en una zona ventilada."
+  - question: "¿Cómo puedo corregir la agresividad territorial por la jaula (Cage Aggression)?"
+    answer: "Las cotorras son la única especie de loro que construye estructuras de nido con palos en libertad, por lo que ven su jaula como su fortaleza. Meter la mano a la fuerza genera mordiscos defensivos. La solución es abrir la puerta y permitir que salga sola a una percha externa (T-perch) antes de subirla a la mano."
+---
+
+Originaria de Sudamérica, la Cotorra Cotorra o Cotorra Argentina (Myiopsitta monachus) es una cotorra de tamaño mediano-pequeño muy admirada en todo el mundo por su asombrosa capacidad de imitación vocal, su gran audacia y su carácter cariñoso. Única entre los loros, esta especie construye enormes nidos comunales con ramas en la naturaleza, lo que les infunde un instinto territorial fiero sobre su jaula. Sin embargo, su apetito voraz las predispone a la obesidad y a la letal Lipidosis Hepática (Hígado Graso). Además, sus sacos aéreos respiratorios las hacen vulnerables a toxinas como el teflón (PTFE). Hoy, PetSelf presenta una rutina de 3 pasos para cuidar su salud.
+
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
+  <span class="text-2xl">🛡️</span>
+  <div>
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      Evidencia Veterinaria y Comportamental
+    </h5>
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
+      Este contenido se basa en <strong>Asociación de Veterinarios Aviares (AAV) y Protocolos del World Parrot Trust</strong>.
+    </p>
+  </div>
+</div>
+
+---
+
+## 1. Lenguaje corporal de la Cotorra Argentina: Temblores (Quaking) y defensa de jaula (Cage Defense)
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Lenguaje corporal de la Cotorra Argentina: Temblores (Quaking) y defensa de jaula (Cage Defense)</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    La Cotorra Argentina comunica entusiasmo y alerta territorial mediante temblores corporales y posturas en la jaula. Sacudir rápidamente la cabeza y el cuerpo hacia los lados 'Temblores (Quaking / Shaking)' es una conducta distintiva que expresa alegría, bienvenida o pedido de comida. En cambio, erguirse en la puerta con pupilas contraídas (Pinning) y chasquidos 'Defensa de jaula (Cage Defense)' es un aviso instintivo de protección de su nido.
+  </p>
+</div>
+
+---
+
+## 2. Lenguaje corporal y señales de conducta de Cotorra Cotorra / Cotorra Argentina (Quaker Parrot / Myiopsitta monachus)
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Señal Corporal 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Sacudir rítmicamente la cabeza y el cuerpo de lado a lado (Quaking / Shaking)</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• Significado:</strong> Muestra de afecto icónica de la especie que indica emoción, alegría al ver al dueño o solicitud de comida.<br/>
+    <strong>• Respuesta:</strong> Responda con voz suave y rasque delicadamente la parte posterior de su cabeza.
+  </p>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Señal Corporal 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Erguirse en la puerta de la jaula, contraer pupilas y chasquear el pico (Cage Defense)</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• Significado:</strong> Defensa territorial instintiva desencadenada por la intrusión percibida en su nido (jaula).<br/>
+    <strong>• Respuesta:</strong> Nunca introduzca la mano por la fuerza; abra la jaula y espere a que salga voluntariamente a una percha exterior.
+  </p>
+</div>
+
+---
+
+## 3. Rutina diaria de 3 pasos para el cuidado de Cotorra Cotorra / Cotorra Argentina (Quaker Parrot / Myiopsitta monachus)
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Mañana: Pienso formulado (60–70%), vegetales ricos en vitamina A y protección contra teflón</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    Alimente con pienso extrusionado bajo en grasa con zanahoria y calabaza contra el hígado graso, alejando al ave de sartenes de teflón.
+  </p>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: Juguetes de forrajeo que simulen la construcción de nidos y vuelo seguro fuera de la jaula</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    Ofrezca juguetes de papel y ramitas para triturar evitando el picaje por aburrimiento y permita el vuelo en una habitación segura.
+  </p>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noche: Evitar caricias en la espalda (control hormonal) y 10–12h de sueño sin interrupciones</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    No acaricie su espalda ni vientre para no estimular la puesta de huevos, cubriendo la jaula con una funda opaca para el descanso.
+  </p>
+</div>
+
+---
+
+
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Preguntas Frecuentes (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
+      <span>¿Por qué los vapores de teflón (PTFE) son mortales para la Cotorra Argentina?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Los loros poseen un sistema respiratorio de sacos aéreos extremadamente eficiente que absorbe toxinas del aire directo a la sangre. El teflón sobrecalentado emite gases inodoros e invisibles que provocan hemorragia pulmonar fulminante y asfixia. La jaula debe ubicarse muy lejos de la cocina en una zona ventilada.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>¿Cómo puedo corregir la agresividad territorial por la jaula (Cage Aggression)?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Las cotorras son la única especie de loro que construye estructuras de nido con palos en libertad, por lo que ven su jaula como su fortaleza. Meter la mano a la fuerza genera mordiscos defensivos. La solución es abrir la puerta y permitir que salga sola a una percha externa (T-perch) antes de subirla a la mano.
+    </p>
+  </details>
+</div>

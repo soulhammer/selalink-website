@@ -1,0 +1,516 @@
+{
+    "bernese-mountain-dog-care": {
+        "pubDate": "2026-02-25",
+        "updatedDate": "2026-02-25",
+        "locales": {
+            "ko": {
+                "title": "버니즈 마운틴 독의 애정·경계 신호 해석과 위확장-꼬임(GDV) 및 조직구 육종(암)·관절 관리를 위한 3단계 데일리 케어",
+                "description": "우아하고 다정한 대형견 버니즈 마운틴 독(Bernese Mountain Dog). 몸 기대기(Berner Lean) 및 굳은 경계 신호 해석, GDV 위꼬임 예방, 암·관절 케어를 위한 3단계 홈케어 루틴을 소개합니다.",
+                "authority": "미국 케넬 클럽 (AKC) 및 Bernese Mountain Dog Club of America (BMDCA) 케어 프로토콜",
+                "profile": {
+                    "breed": "버니즈 마운틴 독 (Bernese Mountain Dog)",
+                    "lifespan": "7 ~ 10년",
+                    "sleep_pattern": "12 ~ 14시간 (온순한 대형 작업견, 야외 활동 후 깊은 수면)",
+                    "temperament": "온순함, 충직함, 다정함, 느긋함, 가족 친화적"
+                },
+                "intro": "스위스 알프스 마터호른 지역 원산의 버니즈 마운틴 독(Bernese Mountain Dog)은 화려한 삼색 코트와 강인한 체구, 비단결 같은 마음에 유순한 성품으로 전 세계에서 사랑받는 대형 작업견입니다. 버니즈는 가족에게 깊은 충성심과 부드러운 애정을 보여주지만, 흉곽이 깊고 넓은 구조상 식사 후 급격한 운동 시 생명을 위협하는 위확장-꼬임(GDV/위비틀림)이 발생하기 매우 쉽습니다. 또한 품종 유전적으로 조직구 육종(Histiocytic Sarcoma)을 포함한 암 발병률이 매우 높으며, 큰 체구로 인해 고관절 및 주관절 이형성증(HD/ED)과 더위 반응에 민감합니다. 오늘 PetSelf에서는 버니즈 마운틴 독의 신체 신호를 정확히 읽어내고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.",
+                "whyTitle": "버니즈 마운틴 독의 바디 랭귀지: 버너 린(Berner Lean)과 굳은 경계 자세(Stiff Guarding Stance)",
+                "whyDesc": "버니즈 마운틴 독은 신체 밀착과 전신 정지 상태로 애정과 경계 신호를 구별합니다. 보호자의 다리나 몸에 온체중을 실어 바짝 붙어오는 **'버너 린(Berner Lean)'**은 보호자를 완전히 신뢰하고 정서적 안도감을 느끼는 버니즈 특유의 애정 행동입니다. 반면 전신을 꼿꼿하게 다지고 목을 세운 채 외부 대상을 가만히 주시하는 **'굳은 경계 자세(Stiff Guarding Stance)'**는 낯선 자극이나 영역 침범에 대응하는 강한 경계 및 제압 직전의 경고 신호입니다.",
+                "body_signals": [
+                    {
+                        "name": "보호자의 다리나 무릎에 체중을 실어 온몸을 밀착함 (Berner Lean)",
+                        "meaning": "보호자에 대한 깊은 신뢰와 안정감, 그리고 정서적 교감을 갈구하는 버니즈 대표 애정 행동입니다.",
+                        "response": "차분하게 쓰다듬어 주며 부드럽게 응답하고, 보호자가 언제나 든든한 보호막임을 느끼게 해 줍니다."
+                    },
+                    {
+                        "name": "몸이 단단히 굳은 채 목을 세우고 대상을 고정 응시함 (Stiff Guarding Stance)",
+                        "meaning": "영역 침범이나 잠재적 위협에 대응하는 경계 자세로, 방치 시 방어적 행동이나 경계음으로 이어질 수 있습니다.",
+                        "response": "리드줄을 짧게 잡고 자극 요소를 시야에서 차단한 뒤 '앉아'나 '나 봐' 명령어 중심의 차분한 리더십 통제를 실시합니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 고단백 저지방 식사 급여 및 위꼬임(GDV) 예방을 위한 식후 휴식 통제",
+                        "text": "깊은 가슴 체형의 급성 위꼬임을 막기 위해 슬로우 식기를 사용하고, 식사 후 최소 1시간 동안은 과격한 뛰기나 운동을 엄격히 금지합니다."
+                    },
+                    {
+                        "name": "낮: 관절 부담을 줄인 적정 운동(40~60분) 및 이중모 체온 조절(더위 차단)",
+                        "text": "고관절 및 주관절 이형성증(HD/ED) 예방을 위해 평지나 잔디밭 산책을 실시하며, 두터운 이중모 특성상 여름철 더위에 약하므로 실내 온도를 20~22°C로 시원하게 유지합니다."
+                    },
+                    {
+                        "name": "저녁: 풍성한 이중모(Double Coat) 빗질 및 정기적 종양·종괴(암) 터치 케어",
+                        "text": "털 엉킴을 막기 위해 핀 브러시로 속털을 빗겨주고, 유전적 암(조직구 육종) 조기 발견을 위해 온몸의 피부, 림프절 부어오름 유무를 매일 터치하며 체크합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "버니즈 마운틴 독에게 '조직구 육종(암)'과 건강 검진이 왜 이렇게 중요한가요?",
+                        "answer": "버니즈 마운틴 독은 모든 개 품종 중 암 발병률(특히 조직구 육종 Histiocytic Sarcoma)이 가장 높은 종 중 하나로, 전체 사망 원인의 약 40~50% 이상을 차지합니다. 초기에는 식욕 부진, 체중 감소, 피모 이상 외에 겉으로 잘 드러나지 않으므로, 4~5세 이후부터는 매년 정기적인 혈액 검사, 엑스레이, 초음파 및 피부 종괴 터치 검사를 실시하는 것이 조기 발견과 생명 연장의 핵심입니다."
+                    },
+                    {
+                        "question": "식사 후 급성 위꼬임(GDV)과 관절 질환(HD/ED)을 예방하려면 어떻게 해야 하나요?",
+                        "answer": "위확장-꼬임(GDV) 방지를 위해서는 식사를 하루 2~3회 나누어 급여하고, 식후 최소 1시간 동안 완전한 휴식이 필수입니다. 고관절 및 주관절 이형성증(HD/ED) 예방을 위해서는 성장기 과도한 체중 증가를 막고, 미끄러운 바닥 노출과 고강도 점프를 피해야 합니다."
+                    }
+                ],
+                "tags": [
+                    "버니즈마운틴독",
+                    "대형견케어",
+                    "위꼬임예방",
+                    "강아지암예방"
+                ]
+            },
+            "en": {
+                "title": "Bernese Mountain Dog Behavioral Signals and 3-Step Daily Routine for GDV Bloat, Histiocytic Sarcoma Cancer, and Joint Care",
+                "description": "Care guide for the gentle giant Bernese Mountain Dog. Interpret the Berner Lean and stiff guarding signals, prevent fatal GDV bloat, monitor cancer risks, and manage joint health in 3 steps.",
+                "authority": "American Kennel Club (AKC) & Bernese Mountain Dog Club of America (BMDCA) Care Standards",
+                "profile": {
+                    "breed": "Bernese Mountain Dog (Berner)",
+                    "lifespan": "7 - 10 Years",
+                    "sleep_pattern": "12 - 14 Hours (Gentle working giant, deep sleep after activity)",
+                    "temperament": "Gentle, Loyal, Affectionate, Easygoing, Family-Oriented"
+                },
+                "intro": "Originating from the Swiss Alps, the Bernese Mountain Dog ('Berner') is a world-renowned large working breed cherished for its striking tricolor coat, sturdy physique, and placid, loving temperament. Highly devoted and gentle with families, Berners have a deep-chested anatomical structure that makes them extremely vulnerable to life-threatening Gastric Dilatation-Volvulus (GDV/Bloat) if exercised after eating. Furthermore, they carry an exceptionally high genetic predisposition to cancers, particularly Histiocytic Sarcoma, and face joint risks such as Hip and Elbow Dysplasia (HD/ED). Today, PetSelf presents a 3-step daily care routine to decode your Berner's body language and protect its health.",
+                "whyTitle": "Bernese Mountain Dog Body Language: The Berner Lean and Stiff Guarding Stance",
+                "whyDesc": "Bernese Mountain Dogs communicate affection and territorial vigilance through physical contact and bodily rigidity. Leaning their full body weight against your legs **'The Berner Lean'** is a signature display of deep trust, physical affection, and emotional bonding. Conversely, standing completely rigid with a raised neck and an unblinking gaze **'Stiff Guarding Stance'** is an explicit alert signal indicating high arousal, threat assessment, and potential protective defense.",
+                "body_signals": [
+                    {
+                        "name": "Pressing Full Body Weight Against Owner's Legs or Lap (Berner Lean)",
+                        "meaning": "A signature Berner affection display expressing supreme trust, emotional comfort, and a desire for physical closeness.",
+                        "response": "Respond with calm, reassuring strokes to reinforce the bond and confirm your stable leadership."
+                    },
+                    {
+                        "name": "Standing Rigid with Raised Neck and Unblinking Gaze (Stiff Guarding Stance)",
+                        "meaning": "A high-alert posture triggered by strangers or territorial intrusion, signaling readiness to protect.",
+                        "response": "Shorten leash control, block line of sight to the trigger, and issue calm commands like 'Sit' or 'Look at Me'."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: High-Protein Nutrition & Strict Post-Meal Rest Control for GDV Prevention",
+                        "text": "Feed using a slow-feeder bowl to prevent swallowing air, strictly enforcing a mandatory 1-hour calm rest period after eating without running."
+                    },
+                    {
+                        "name": "Afternoon: Low-Impact Moderate Exercise (40–60 Min) & Heat Stress Prevention",
+                        "text": "Walk on soft grass to protect joints (HD/ED prevention) and maintain cool indoor ambient temperatures (20–22°C) during warm months due to their thick double coat."
+                    },
+                    {
+                        "name": "Evening: Thick Double-Coat Grooming & Daily Body Touch Check for Cancer / Lumps",
+                        "text": "Brush the dense undercoat with a pin brush to prevent mats, performing a daily tactile check over the body and lymph nodes to screen for early lumps or tumors."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Why are health screenings and cancer awareness (Histiocytic Sarcoma) so vital for Bernese Mountain Dogs?",
+                        "answer": "Bernese Mountain Dogs have one of the highest cancer rates among all canine breeds, with malignant cancers—especially Histiocytic Sarcoma—accounting for 40% to 50% of all mortalities. Because early symptoms like mild lethargy or subtle weight loss are non-specific, annual blood work, X-rays, ultrasounds, and daily body lump checks starting at age 4 to 5 are essential for early detection."
+                    },
+                    {
+                        "question": "How can I prevent Gastric Dilatation-Volvulus (GDV) and joint dysplasia (HD/ED) in my Berner?",
+                        "answer": "To prevent GDV (Bloat), divide daily food into 2 or 3 smaller meals and mandate at least 1 hour of complete rest after eating. To protect joints from Hip and Elbow Dysplasia (HD/ED), strictly manage growth-phase weight, avoid slippery flooring, and limit high-impact jumping."
+                    }
+                ],
+                "tags": [
+                    "BerneseMountainDog",
+                    "LargeDogCare",
+                    "GDVBloatPrevention",
+                    "BernerCancerScreening"
+                ]
+            },
+            "ja": {
+                "title": "バーニーズ・マウンテン・ドッグの愛嬌・警戒サイン解読と胃拡張捻転(GDV)・組織球肉腫(がん)・関節管理のための3ステップデイリールーティン",
+                "description": "優雅で穏やかな超大型作業犬バーニーズ・マウンテン・ドッグ（Bernese Mountain Dog）。バーナー・リーン（寄りかかり）や警戒姿勢の解読、GDV胃捻転・がん予防および関節保護の3ステップホームケアを紹介します。",
+                "authority": "アメリカンケネルクラブ(AKC)およびBernese Mountain Dog Club of America(BMDCA)飼育基準",
+                "profile": {
+                    "breed": "バーニーズ・マウンテン・ドッグ (Bernese Mountain Dog)",
+                    "lifespan": "7 〜 10年",
+                    "sleep_pattern": "12 〜 14時間 (温和な大型作業犬、運動後の質の高い深い睡眠)",
+                    "temperament": "穏やか、忠実、愛情深い、のんびり、家庭的"
+                },
+                "intro": "スイス・アルプス原産のバーニーズ・マウンテン・ドッグ（Bernese Mountain Dog）は、華やかな3色の被毛とたくましい体躯、絹のように優しく穏やかな性格で世界中で愛されている大型作業犬です。家族に対して深い忠誠心と溢れる愛情を示しますが、胸が深く広い体型構造のため、食後の激しい運動により致命的な胃拡張・捻転症候群（GDV）を起こしやすい犬種です。また遺伝的に組織球肉腫（Histiocytic Sarcoma）をはじめとするがんの発症率が極めて高く、股関節・肘関節形成不全（HD/ED）や暑さへの配慮が不可欠です。本日PetSelfでは、バーニーズのサインを正確に解読し健康を守る3ステップルーティンをお届けします。",
+                "whyTitle": "バーニーズのボディランゲージ：バーナー・リーン(Berner Lean)と固直警戒姿勢(Stiff Guarding Stance)",
+                "whyDesc": "バーニーズ・マウンテン・ドッグは身体の密着と全身の硬直状態で愛情と警戒を明確に区別します。飼い主の脚や体に全身の体重を預けて寄りかかる**「バーナー・リーン（Berner Lean）」**は、深い信頼と安心感を求める最高度の愛情表現です。一方、全身を硬直させて首を上げ、対象を凝視する**「固直警戒姿勢（Stiff Guarding Stance）」**は、見知らぬ対象や縄張り侵入に対する強い警戒と防衛直前の警告サインです。",
+                "body_signals": [
+                    {
+                        "name": "飼い主の脚や膝に全身の体重を預けて寄りかかる (Berner Lean)",
+                        "meaning": "飼い主への深い信頼と安心感、そしてスキンシップを求めるバーニーズ代表的な親愛行動です。",
+                        "response": "落ち着いた態度で優しく撫でて応え、頼もしいリーダーとしての安心感を与えましょう。"
+                    },
+                    {
+                        "name": "体を硬直させて首を上げ、対象を固定注視する (Stiff Guarding Stance)",
+                        "meaning": "縄張り侵入や潜在的脅威に対応する警戒姿勢であり、放置すると防衛行動へ移行する危険があります。",
+                        "response": "リードを短くコントロールし、視線を遮って「おすわり」や「アイコンタクト」で飼い主へ意識を集中させます。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：高タンパク食の給餌と胃捻転(GDV)予防のための食後安静管理",
+                        "text": "空気の呑み込みを防ぐため早食い防止食器を使用し、食後1時間は激しい運動や走り回りを厳禁として静かに休ませます。"
+                    },
+                    {
+                        "name": "昼：関節負担を軽減した適度な運動（40〜60分）とダブルコートの暑さ対策",
+                        "text": "股関節・肘関節形成不全（HD/ED）予防のため芝生の上で散歩を行い、密な被毛のため夏場は室温を20〜22℃に保ち涼しく過ごさせます。"
+                    },
+                    {
+                        "name": "夜：豊かなダブルコートのブラッシングと定期的な腫瘍・しこり(がん)触診ケア",
+                        "text": "ピンブラシでアンダーコートの毛玉を防ぎ、遺伝性がん（組織球肉腫）の早期発見のため全身の皮膚やリンパ節のしこりを毎日撫でながらチェックします。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "バーニーズ・マウンテン・ドッグにとって「組織球肉腫（がん）」と健康診断がなぜそれほど重要なのですか？",
+                        "answer": "バーニーズは全犬種の中で最もがん（特に組織球肉腫 Histiocytic Sarcoma）の発症率が高い犬種の一つで、全死因の約40〜50%以上を占めます。初期段階では軽度の食欲不振や体重減少など目立たないため、4〜5歳以降は毎年定期的な血液検査、レントゲン、超音波検査および触診を受けることが早期発見と寿命延長の鍵となります。"
+                    },
+                    {
+                        "question": "食後の胃拡張捻転(GDV)と関節疾患(HD/ED)を防ぐにはどうすればよいですか？",
+                        "answer": "胃捻転（GDV）防止にはフードを1日2〜3回に分けて与え、食後1時間の完全安静が必須です。股関節・肘関節形成不全（HD/ED）予防には成長期の過度な体重増加を防ぎ、滑りやすい床での生活や高所からのジャンプを避けさせることが重要です。"
+                    }
+                ],
+                "tags": [
+                    "バーニーズマウンテンドッグ",
+                    "超大型犬ケア",
+                    "胃捻転予防",
+                    "犬のがん予防"
+                ]
+            },
+            "zh": {
+                "title": "伯恩山犬行为信号解读与胃扭转 (GDV)、组织细胞肉瘤 (癌症) 及关节护理的 3 步日常流程",
+                "description": "性格温和高贵的大型工作犬伯恩山犬（Bernese Mountain Dog）。解读伯恩靠（Berner Lean）与僵硬警戒信号，预防 GDV 胃扭转、癌症排查与关节保护的 3 步骤家庭护理。",
+                "authority": "美国犬业俱乐部 (AKC) 与美国伯恩山犬俱乐部 (BMDCA) 护理标准",
+                "profile": {
+                    "breed": "伯恩山犬 (Bernese Mountain Dog / Berner)",
+                    "lifespan": "7 ~ 10年",
+                    "sleep_pattern": "12 ~ 14小时 (温和的大型工作犬，充分活动后深度高质量睡眠)",
+                    "temperament": "温和、忠诚、极度亲人、随和、热爱家庭"
+                },
+                "intro": "原产于瑞士阿尔卑斯山地区的伯恩山犬（Bernese Mountain Dog），凭其绚丽的三色被毛、强健的体魄以及如丝般温顺性格而备受全球喜爱。伯恩山犬对家庭成员充满忠诚与爱意，但由于其胸腔深广的体型结构，在饭后剧烈运动时极易发生危及生命的胃扩张-扭转（GDV）。此外，该犬种基因上患恶性肿瘤（特别是组织球肉瘤 Histiocytic Sarcoma）的概率极高，且易患髋关节与肘关节发育不良（HD/ED），对高温极其敏感。今天 PetSelf 将带您准确解读伯恩山犬肢体语言，并通过 3 步骤日常护理维护其健康。",
+                "whyTitle": "伯恩山犬肢体语言：伯恩靠 (Berner Lean) 与僵硬警戒姿态 (Stiff Guarding Stance)",
+                "whyDesc": "伯恩山犬通过身体贴合与全身僵硬状态清晰区分爱意与警戒。将全身重量倾斜倚靠在主人的腿部或身体上**“伯恩靠 (Berner Lean)”**，是表达高度信任、爱意与寻求安全感的专属标志姿态。相反，全身僵硬、竖起脖子并死死盯着外部目标**“僵硬警戒姿态 (Stiff Guarding Stance)”**，则是应对陌生威胁或领地侵犯前发出的明确警告信号。",
+                "body_signals": [
+                    {
+                        "name": "全身重量倾斜并紧贴主人的腿部或膝盖 (Berner Lean)",
+                        "meaning": "表达对主人极度信任、寻求安全感与肢体接触的伯恩山犬代表性爱意行为。",
+                        "response": "温和抚摸给予回应，让其感受到主人是值得信赖的坚强后盾。"
+                    },
+                    {
+                        "name": "身体硬直、竖起脖子并紧盯目标 (Stiff Guarding Stance)",
+                        "meaning": "应对领地侵犯或潜在威胁的警戒姿态，若不干预可能演变为防御攻击。",
+                        "response": "收短牵引绳，遮挡其视线，并立即使用“坐下”或“看我”指令实施领袖控制。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：投喂高蛋白主粮与预防胃扭转 (GDV) 饭后严格休息",
+                        "text": "使用慢食碗防止吞入过多空气，饭后 1 小时内严格禁止剧烈奔跑与打闹，保持安静休息。"
+                    },
+                    {
+                        "name": "中午：保护关节的适度运动 (40~60分钟) 与浓密双层毛防暑降温",
+                        "text": "选择草地进行散步以保护髋/肘关节（HD/ED 预防），夏天保持室内温度凉爽 (20°C~22°C) 以防中暑。"
+                    },
+                    {
+                        "name": "晚上：浓密双层被毛梳理与每日肿瘤·肿块 (癌症) 触诊排查",
+                        "text": "用针梳梳理底毛以防打结，每日抚摸全身检查皮肤与淋巴结是否有异常肿块，以期早期发现组织细胞肉瘤。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "为什么饲养伯恩山犬必须高度关注“组织细胞肉瘤 (癌症)”与定期体检？",
+                        "answer": "伯恩山犬是所有犬种中癌症发病率（尤其是恶性组织细胞肉瘤 Histiocytic Sarcoma）最高的犬种之一，占其总死亡原因的 40%~50% 以上。由于早期症状仅表现为轻微食欲不振或消瘦，极难察觉，因此 4~5 岁起每年定期进行血液检查、X 光、B 超及全身肿块触诊是早期发现与延长寿命的关键。"
+                    },
+                    {
+                        "question": "如何预防急性胃扭转 (GDV) 与关节发育不良 (HD/ED)？",
+                        "answer": "预防胃扭转（GDV）需分餐饲喂（每日 2~3 餐），并在饭后保持至少 1 小时完全休息。预防髋/肘关节发育不良（HD/ED）需控制生长期体重过快增长，避免在滑溜地面运动及高强度跳跃。"
+                    }
+                ],
+                "tags": [
+                    "伯恩山犬",
+                    "大型犬护理",
+                    "胃扭转预防",
+                    "狗狗癌症筛查"
+                ]
+            },
+            "es": {
+                "title": "Señales de conducta en el Boyero de Berna (Bernese Mountain Dog) y rutina diaria de 3 pasos para prevenir la torsión gástrica (GDV), el sarcoma histiocítico y cuidar articulaciones",
+                "description": "Guía de cuidado para el gigante gentil Boyero de Berna. Interprete el 'Berner Lean' y la postura de alerta, prevenga la torsión gástrica GDV, controle el riesgo de cáncer y cuide sus articulaciones en 3 pasos.",
+                "authority": "American Kennel Club (AKC) y Normas del Bernese Mountain Dog Club of America (BMDCA)",
+                "profile": {
+                    "breed": "Boyero de Berna / Bernés de la Montaña (Bernese Mountain Dog)",
+                    "lifespan": "7 ~ 10 años",
+                    "sleep_pattern": "12 ~ 14 horas (Perro gigante de trabajo, sueño profundo tras ejercicio)",
+                    "temperament": "Afectuoso, Leal, Pacífico, Sosegado, Orientado a la familia"
+                },
+                "intro": "Originario de los Alpes suizos, el Boyero de Berna (Bernese Mountain Dog) es un gigante de trabajo admirado mundialmente por su hermoso manto tricolor, su físico imponente y su carácter dulce y equilibrado. Aunque son perros de familia sumamente devotos, su tórax profundo los hace muy propensos a la letal Torsión Gástrica (GDV) si realizan ejercicio tras comer. Además, la raza presenta una tasa trágicamente elevada de cáncer hereditario, especialmente Sarcoma Histiocítico, y predisposición a la Displasia de Cadera y Codo (HD/ED). Hoy, PetSelf presenta una rutina de 3 pasos para cuidar su salud.",
+                "whyTitle": "Lenguaje corporal del Boyero de Berna: El 'Berner Lean' y la postura rígida de alerta (Stiff Guarding Stance)",
+                "whyDesc": "El Boyero de Berna comunica afecto y alerta mediante contacto físico y rigidez corporal. Apoyar todo el peso de su cuerpo contra tus piernas **'Berner Lean'** es su muestra icónica de confianza y cariño. Por el contrario, mantenerse rígido con el cuello erguido y la mirada fija en un extraño **'Postura rígida de alerta (Stiff Guarding Stance)'** es un aviso claro de alta vigilancia y potencial reacción defensiva.",
+                "body_signals": [
+                    {
+                        "name": "Apoyar todo el peso del cuerpo contra las piernas o regazo del dueño (Berner Lean)",
+                        "meaning": "Muestra de afecto característica del Berner que demuestra confianza absoluta, apego y búsqueda de cercanía.",
+                        "response": "Responda con caricias serenas para confirmar su liderazgo y brindar seguridad emocional."
+                    },
+                    {
+                        "name": "Cuerpo totalmente rígido, cuello erguido y mirada fija hacia el objetivo (Stiff Guarding Stance)",
+                        "meaning": "Postura de alerta máxima ante una posible amenaza o intrusión territorial, indicando disposición a actuar.",
+                        "response": "Acorte la correa, bloquee la visión hacia el estímulo y emita órdenes de obediencia con calma como 'Sienta' o 'Mírame'."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Alimentación alta en proteína y reposo estricto tras comer para prevenir la torsión gástrica (GDV)",
+                        "text": "Utilice un comedero lento para evitar tragar aire y garantice 1 hora de descanso absoluto tras comer sin carreras."
+                    },
+                    {
+                        "name": "Tarde: Ejercicio moderado para cuidar articulaciones (40–60 min) y prevención del estrés por calor",
+                        "text": "Pasee sobre césped para proteger caderas y codos (HD/ED) y mantenga la casa fresca (20–22°C) en verano debido a su denso pelaje."
+                    },
+                    {
+                        "name": "Noche: Cepillado del pelaje doble y palpación diaria para detectar bultos (Detección de cáncer)",
+                        "text": "Pase un cepillo de púas para retirar el subpelo muerto y palpe diariamente el cuerpo y ganglios linfáticos para detectar bultos tempranos."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Por qué los chequeos oncológicos (Sarcoma Histiocítico) son vitales en el Boyero de Berna?",
+                        "answer": "El Boyero de Berna tiene una de las tasas de cáncer más altas entre todas las razas, representando el Sarcoma Histiocítico maligno entre el 40% y el 50% de sus muertes. Dado que los síntomas iniciales como apatía o pérdida de peso son difusos, realizar analíticas, radiografías y ecografías anuales a partir de los 4 a 5 años es crucial para su detección temprana."
+                    },
+                    {
+                        "question": "¿Cómo puedo prevenir la Torsión Gástrica (GDV) y las displasias articulares (HD/ED)?",
+                        "answer": "Para prevenir la GDV (Torsión Gástrica), divida la comida en 2 o 3 raciones y exija 1 hora de reposo tras comer. Para la Displasia de Cadera y Codo (HD/ED), controle el peso en la fase de crecimiento, evite suelos resbaladizos y elimine saltos de alto impacto."
+                    }
+                ],
+                "tags": [
+                    "BoyeroDeBerna",
+                    "CuidadoDePerrosGrandes",
+                    "PrevencionTorsionGastrica",
+                    "CancerCaninoBerner"
+                ]
+            },
+            "fr": {
+                "title": "Signaux comportementaux du Bouvier Bernois (Bernese Mountain Dog) et routine quotidienne en 3 étapes pour la prévention de la torsion d'estomac (GDV), le sarcome histiocytaire et la santé articulaire",
+                "description": "Guide de soins pour le doux géant Bouvier Bernois. Décryptez le 'Berner Lean' et la posture de garde, prévenez la torsion d'estomac GDV, dépistez les cancers et protégez ses articulations en 3 étapes.",
+                "authority": "American Kennel Club (AKC) & Normes du Bernese Mountain Dog Club of America (BMDCA)",
+                "profile": {
+                    "breed": "Bouvier Bernois (Bernese Mountain Dog)",
+                    "lifespan": "7 ~ 10 ans",
+                    "sleep_pattern": "12 ~ 14 heures (Grand chien de travail, repos profond après l'effort)",
+                    "temperament": "Doux, Loyal, Affectueux, Paisible, Proche de sa famille"
+                },
+                "intro": "Originaire des Alpes suisses, le Bouvier Bernois (Bernese Mountain Dog) est un grand chien de travail célèbre dans le monde entier pour sa magnifique robe tricolore, sa carrure robuste et son caractère d'une grande douceur. Très attaché à sa famille, sa poitrine profonde le rend particulièrement sujet à la Torsion d'Estomac (GDV) en cas d'effort après les repas. La race souffre également d'une triste prédisposition génétique aux cancers, notamment au Sarcome Histiocytaire, ainsi qu'à la Dysplasie de la Hanche et du Coude (HD/ED). Aujourd'hui, PetSelf vous présente une routine en 3 étapes pour prendre soin de sa santé.",
+                "whyTitle": "Langage corporel du Bouvier Bernois : Le 'Berner Lean' et la posture de garde immobile (Stiff Guarding Stance)",
+                "whyDesc": "Le Bouvier Bernois exprime son affection et sa vigilance par le contact corporel et l'immobilité. S'appuyer de tout son poids contre vos jambes **« Berner Lean »** est sa marque d'affection emblématique. En revanche, se figer le cou tendu et fixer un intrus **« Posture de garde (Stiff Guarding Stance) »** est un signal clair de haute vigilance et de réaction défensive potentielle.",
+                "body_signals": [
+                    {
+                        "name": "S'appuyer de tout son poids contre les jambes ou les genoux du maître (Berner Lean)",
+                        "meaning": "Preuve d'affection icônique du Bouvier Bernois traduisant une confiance absolue et un besoin de réconfort physique.",
+                        "response": "Caressez-le calmement pour répondre à son amour et lui apporter une présence sécurisante."
+                    },
+                    {
+                        "name": "Corps complètement immobile, cou redressé et regard fixe sur la cible (Stiff Guarding Stance)",
+                        "meaning": "Posture d'alerte maximale face à une menace potentielle, indiquant une préparation à la défense.",
+                        "response": "Raccourcissez la laisse, coupez la ligne de vue vers le stimulus et donnez un ordre d'obéissance comme 'Assis' ou 'Regarde-moi'."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Repas équilibré & repos strict après manger pour éviter la torsion d'estomac (GDV)",
+                        "text": "Utilisez une gamelle anti-glouton pour limiter l'ingestion d'air et imposez 1 heure de calme absolu après le repas sans course."
+                    },
+                    {
+                        "name": "Après-midi : Exercice moderé préservant les articulations (40–60 min) & protection contre la chaleur",
+                        "text": "Promenez-le sur l'herbe pour protéger ses hanches/coudes (HD/ED) et maintenez le logement frais (20–22°C) en été car son sous-poil tient très chaud."
+                    },
+                    {
+                        "name": "Soir : Brossage du double pelage & palpation quotidienne de dépistage des masses (Cancer)",
+                        "text": "Brossez le sous-poil avec une brosse métallique pour éviter les nœuds, et réalisez une palpation quotidienne du corps et des ganglions pour détecter tout nodule."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Pourquoi le dépistage des cancers (Sarcome Histiocytaire) est-il capital chez le Bouvier Bernois ?",
+                        "answer": "Le Bouvier Bernois présente l'un des taux de cancer les plus élevés chez le chien, le Sarcome Histiocytaire malin représentant 40 % à 50 % de la mortalité de la race. Les premiers signes étant vagues (fatigue, perte de poids), des bilans sanguins, radiographies et palpations annuels dès l'âge de 4 à 5 ans sont vitaux pour intervenir tôt."
+                    },
+                    {
+                        "question": "Comment prévenir la Torsion d'Estomac (GDV) et les dysplasies (HD/ED) chez le Bouvier Bernois ?",
+                        "answer": "Pour prévenir la Torsion d'Estomac (GDV), fractionnez la ration en 2 ou 3 repas et observez 1 heure de repos strict après manger. Pour la Dysplasie de la Hanche et du Coude (HD/ED), contrôlez strictement le poids pendant la croissance, évitez les sols glissants et bannissez les sauts violents."
+                    }
+                ],
+                "tags": [
+                    "BouvierBernois",
+                    "SoinGrandChien",
+                    "PreventionTorsionEstomac",
+                    "CancerChienBernois"
+                ]
+            },
+            "de": {
+                "title": "Verhaltenssignale des Berner Sennenhundes und 3-Schritte-Tagesroutine für Magendrehung-Prophylaxe (GDV), Histiozytäres Sarkom (Krebs) und Gelenkpflege",
+                "description": "Pflegeanleitung für den sanften Riesen Berner Sennenhund. Das Berner Anlehnen (Berner Lean) und die Warnhaltung verstehen, Magendrehung vermeiden, Krebsrisiken überwachen und Gelenke in 3 Schritten schützen.",
+                "authority": "American Kennel Club (AKC) & Standards des Bernese Mountain Dog Club of America (BMDCA)",
+                "profile": {
+                    "breed": "Berner Sennenhund (Bernese Mountain Dog)",
+                    "lifespan": "7 ~ 10 Jahre",
+                    "sleep_pattern": "12 ~ 14 Stunden (Gutmutiger Arbeitshund, erholsamer Schlaf nach Bewegung)",
+                    "temperament": "Gutmutig, Treu, Anhänglich, Gelassen, Familienbezogen"
+                },
+                "intro": "Aus den Schweizer Alpen stammend, ist der Berner Sennenhund ein weltweit geliebter großer Arbeitshund, der für sein dreifarbiges Fell, seinen kräftigen Bau und sein sanftmütiges Wesen bekannt ist. So sehr er seine Familie liebt, so anfällig ist er durch seinen tiefen Brustkorb für die lebensgefährliche Magendrehung (GDV) bei Bewegung nach dem Fressen. Die Rasse hat zudem eine traurig hohe genetische Krebsrate – insbesondere für das Histiozytäre Sarkom – und neigt zu Hüft- und Ellbogendysplasie (HD/ED). Heute zeigt PetSelf eine 3-Schritte-Routine für die Gesundheit Ihres Berner Sennenhundes.",
+                "whyTitle": "Körpersprache des Berner Sennenhundes: Das Berner Anlehnen (Berner Lean) und die starre Wachhaltung (Stiff Guarding Stance)",
+                "whyDesc": "Der Berner Sennenhund drückt Zuneigung und Wachsamkeit durch Körperkontakt und körperliche Erstarrung aus. Das Anlehnen des gesamten Körpergewichts an Ihre Beine **'Berner Anlehnen (Berner Lean)'** ist sein Markenzeichen für tiefes Vertrauen und Anhänglichkeit. Das starre Verharren mit erhobenem Hals und festem Blick **'Starre Wachhaltung (Stiff Guarding Stance)'** ist dagegen ein deutliches Warnsignal bei Fremden oder Revierbedrohungen.",
+                "body_signals": [
+                    {
+                        "name": "Anlehnen des gesamten Körpergewichts an Beine oder Schoß des Halters (Berner Lean)",
+                        "meaning": "Typischer Vertrauensbeweis des Berners, der Nähe, Geborgenheit und körperliche Rückversicherung ausdrückt.",
+                        "response": "Reagieren Sie ruhig mit Streicheln, um die Bindung zu stärken und ihm eine souveräne Führung zu vermitteln."
+                    },
+                    {
+                        "name": "Erstarrte Körperhaltung mit erhobenem Hals und fixierendem Blick (Stiff Guarding Stance)",
+                        "meaning": "Hohe Alertheit gegenüber Reizen oder Fremden; signalisiert unmittelbare Bereitschaft zur Beschützung.",
+                        "response": "Leine kurz nehmen, Sichtkontakt zum Reiz unterbrechen und die Aufmerksamkeit mit 'Sitz' oder 'Schau mich an' umlenken."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Proteinreiche Fütterung & Strikte Ruhe nach dem Fressen zur GDV-Prophylaxe",
+                        "text": "Nutzen Sie Anti-Schling-Näpfe gegen Luftschlucken und halten Sie nach dem Fressen eine 1-stündige strikte Ruhephase ohne Toben ein."
+                    },
+                    {
+                        "name": "Mittag: Gelenkschonende Bewegung (40–60 Min.) & Hitzeschutz im Sommer",
+                        "text": "Schonen Sie die Gelenke (HD/ED) durch Spaziergänge auf Rasen und halten Sie Innenräume im Sommer kühl (20–22 °C), da das Unterfell stark isoliert."
+                    },
+                    {
+                        "name": "Abend: Pflege des dichten Doppelfells & Tägliches Abtasten auf Knoten/Tumore (Krebsvorsorge)",
+                        "text": "Kämmen Sie die Unterwolle gründlich mit einer Stiftbürste aus und tasten Sie täglich Körper und Lymphknoten ab, um Krebs früh zu erkennen."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Warum ist die Krebsvorsorge (Histiozytäres Sarkom) beim Berner Sennenhund so lebenswichtig?",
+                        "answer": "Der Berner Sennenhund hat eine der höchsten Krebsraten aller Hunderassen; bösartige Tumore wie das Histiozytäre Sarkom machen 40 bis 50 % aller Todesfälle aus. Da frühe Symptome wie Abgeschlagenheit unspezifisch sind, sind jährliche Blutbilder, Röntgen- und Ultraschalluntersuchungen ab dem 4. bis 5. Lebensjahr sowie tägliches Abtasten überlebenswichtig."
+                    },
+                    {
+                        "question": "Wie beuge ich Magendrehung (GDV) und Gelenkproblemen (HD/ED) wirksam vor?",
+                        "answer": "Zur Magendrehung-Prophylaxe (GDV) füttern Sie 2–3 kleinere Mahlzeiten täglich und halten 1 Stunde Ruhe ein. Zur Vorbeugung von Hüft- und Ellbogendysplasie (HD/ED) vermeiden Sie Übergewicht im Wachstum, rutschige Böden und Sprünge aus großer Höhe."
+                    }
+                ],
+                "tags": [
+                    "BernerSennenhund",
+                    "GrosseHundePflege",
+                    "MagendrehungProphylaxe",
+                    "BernerKrebsvorsorge"
+                ]
+            },
+            "pt": {
+                "title": "Sinais comportamentais do Bouvier Bernês (Bernese Mountain Dog) e rotina diária de 3 passos para prevenção de torção gástrica (GDV), sarcoma histiocítico e saúde articular",
+                "description": "Guia de cuidados para o gigante dócil Bouvier Bernês. Interprete o 'Berner Lean' e a postura de guarda, previna a torção gástrica GDV, monitore o risco de câncer e cuide das articulações em 3 passos.",
+                "authority": "American Kennel Club (AKC) & Padrões do Bernese Mountain Dog Club of America (BMDCA)",
+                "profile": {
+                    "breed": "Bouvier Bernês / Bernese Mountain Dog",
+                    "lifespan": "7 ~ 10 anos",
+                    "sleep_pattern": "12 ~ 14 horas (Cão gigante de trabalho, sono profundo após exercício)",
+                    "temperament": "Dócil, Leal, Afetuoso, Calmo, Orientado à família"
+                },
+                "intro": "Originário dos Alpes Suíços, o Bouvier Bernês (Bernese Mountain Dog) é um gigante de trabalho admirado no mundo todo por sua linda pelagem tricolor, porte musculoso e temperamento calmo e afetuoso. Embora seja extremamente devotado à família, seu tórax profundo o torna altamente suscetível à letal Torção Gástrica (GDV) caso se exercite após comer. Além disso, a raça apresenta uma taxa assustadoramente alta de câncer hereditário, especialmente o Sarcoma Histiocítico, além de predisposição à Displasia de Quadril e Cotovelo (HD/ED). Hoje, o PetSelf apresenta uma rotina de 3 passos para cuidar da sua saúde.",
+                "whyTitle": "Linguagem corporal do Bouvier Bernês: O 'Berner Lean' e a postura rígida de guarda (Stiff Guarding Stance)",
+                "whyDesc": "O Bouvier Bernês expressa afeto e vigilância por meio do contato físico e rigidez corporal. Encostar todo o peso do corpo contra suas pernas **'Berner Lean'** é sua demonstração característica de profunda confiança e carinho. Por outro lado, manter o corpo rígido, o pescoço erguido e o olhar fixo **'Postura rígida de guarda (Stiff Guarding Stance)'** é um sinal claro de alta vigilância e potencial reação defensiva.",
+                "body_signals": [
+                    {
+                        "name": "Encostar todo o peso do corpo nas pernas ou colo do tutor (Berner Lean)",
+                        "meaning": "Demonstração de afeto icônica do Bernês que sinaliza confiança absoluta, apego e busca por proximidade física.",
+                        "response": "Responda com carinhos calmos para reforçar o vínculo e reafirmar sua liderança tranquila."
+                    },
+                    {
+                        "name": "Corpo totalmente rígido, pescoço erguido e olhar fixo no objetivo (Stiff Guarding Stance)",
+                        "meaning": "Postura de alerta máximo diante de uma ameaça ou estranho, indicando prontidão para proteger.",
+                        "response": "Encurte a guia, bloqueie a visão para o estímulo e emita comandos de obediência como 'Senta' ou 'Olha para mim'."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Alimentação rica em proteínas & repouso estrito pós-refeição contra torção gástrica (GDV)",
+                        "text": "Utilize comedouros lentos para evitar engolir ar e garanta 1 hora de descanso tranquilo sem corridas após comer."
+                    },
+                    {
+                        "name": "Tarde: Exercício moderado para proteger articulações (40–60 min) & prevenção de estresse térmico",
+                        "text": "Caminhe sobre a grama para proteger quadril e cotovelos (HD/ED) e mantenha a casa fresca (20–22°C) no verão devido ao subpelo denso."
+                    },
+                    {
+                        "name": "Noite: Escovação da pelagem dupla & apalpação diária para detecção de nódulos (Câncer)",
+                        "text": "Passe a escova de pino para remover o subpelo e faça uma apalpação diária no corpo e linfonodos para identificar nódulos precocemente."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Por que o rastreamento oncológico (Sarcoma Histiocítico) é vital para o Bouvier Bernês?",
+                        "answer": "O Bouvier Bernês possui uma das maiores taxas de câncer entre os cães, sendo o Sarcoma Histiocítico maligno responsável por 40% a 50% dos óbitos. Como os sintomas iniciais como apatia são sutis, exames de sangue, radiografias, ultrassons e apalpação diária a partir dos 4 a 5 anos de idade são cruciais."
+                    },
+                    {
+                        "question": "Como posso prevenir a Torção Gástrica (GDV) e as displasias (HD/ED)?",
+                        "answer": "Para prevenir a Torção Gástrica (GDV), divida a comida em 2 ou 3 porções e garanta 1 hora de repouso após comer. Para prevenir Displasia de Quadril e Cotovelo (HD/ED), evite o excesso de peso no crescimento, pisos escorregadios e saltos de alto impacto."
+                    }
+                ],
+                "tags": [
+                    "BouvierBernes",
+                    "CuidadosComCaesGrandes",
+                    "PrevencaoTorcaoGastrica",
+                    "CancerCaninoBernes"
+                ]
+            },
+            "id": {
+                "title": "Sinyal Perilaku Bernese Mountain Dog dan Rutinitas Harian 3 Langkah Perawatan Torsi Lambung (GDV), Kanker Histiocytic Sarcoma, dan Sendi",
+                "description": "Panduan perawatan anjing raksasa yang lembut Bernese Mountain Dog. Pahami sandaran Berner Lean dan sikap siaga kaku, cegah kembung fatal GDV, deteksi dini kanker, serta jaga kesehatan sendi dalam 3 langkah.",
+                "authority": "Standar Perawatan American Kennel Club (AKC) & Bernese Mountain Dog Club of America (BMDCA)",
+                "profile": {
+                    "breed": "Bernese Mountain Dog (Berner)",
+                    "lifespan": "7 ~ 10 tahun",
+                    "sleep_pattern": "12 ~ 14 jam (Anjing kerja raksasa yang lembut, tidur nyenyak setelah aktivitas)",
+                    "temperament": "Lembut, Setia, Penyayang, Santai, Ramah Keluarga"
+                },
+                "intro": "Berasal dari Pegunungan Alpen Swiss, Bernese Mountain Dog ('Berner') adalah ras anjing kerja besar yang terkenal di seluruh dunia karena bulu tiga warnanya yang menawan, tubuhnya yang kokoh, serta sifatnya yang sangat lembut. Meskipun sangat setia dan penyayang terhadap keluarga, struktur dada mereka yang dalam membuat mereka sangat rentan terhadap Gastric Dilatation-Volvulus (GDV/torsi lambung) jika berolahraga setelah makan. Selain itu, ras ini memiliki risiko tinggi terkena penyakit kanker keturunan, terutama Histiocytic Sarcoma, serta masalah sendi seperti Displasia Pinggul dan Siku (HD/ED). Hari ini, PetSelf membagikan 3 langkah rutinitas harian untuk merawat kesehatan Berner Anda.",
+                "whyTitle": "Bahasa Tubuh Bernese Mountain Dog: 'Berner Lean' (Sandaran Berner) dan Sikap Siaga Kaku (Stiff Guarding Stance)",
+                "whyDesc": "Bernese Mountain Dog menyampaikan kasih sayang dan kewaspadaan melalui kontak tubuh dekat dan kekakuan postur. Menyandarkan seluruh berat badannya ke kaki Anda **'Berner Lean'** adalah tanda kasih sayang khas dari rasa percaya dan cinta yang mendalam. Sebaliknya, berdiri kaku dengan leher tegak dan menatap tajam **'Sikap Siaga Kaku (Stiff Guarding Stance)'** adalah sinyal kewaspadaan tinggi sebelum merespons ancaman.",
+                "body_signals": [
+                    {
+                        "name": "Menyandarkan Seluruh Berat Badan ke Kaki atau Pangkuan Pemilik (Berner Lean)",
+                        "meaning": "Tanda kasih sayang ikonis khas Berner yang menunjukkan rasa percaya, ikatan batin, dan pencarian rasa aman fisik.",
+                        "response": "Respons dengan elusan lembut untuk memperkuat ikatan dan menegaskan kepemimpinan yang tenang."
+                    },
+                    {
+                        "name": "Berdiri Kaku, Leher Tegak, dan Menatap Tajam Target (Stiff Guarding Stance)",
+                        "meaning": "Postura siaga tinggi terhadap potensi ancaman atau gangguan wilayah, menandakan kesiapan untuk melindungi.",
+                        "response": "Pendekkan tali tuntun, halangi pandangannya dari pemicu, dan berikan perintah 'Duduk' atau 'Lihat Saya'."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Pakan Tinggi Protein & Istirahat Ketat Pasca-Makan untuk Mencegah GDV",
+                        "text": "Gunakan tempat makan slow-feeder untuk mencegah tertelannya udara, dan wajibkan istirahat tenang selama 1 jam tanpa lari-lari."
+                    },
+                    {
+                        "name": "Siang: Olahraga Terukur Aman Sendi (40–60 Menit) & Pencegahan Stres Panas",
+                        "text": "Berjalan di atas rumput untuk melindungi sendi (HD/ED) dan jaga suhu ruangan tetap sejuk (20–22°C) saat musim panas karena bulu ganda yang tebal."
+                    },
+                    {
+                        "name": "Malam: Penyisiran Bulu Ganda Tebal & Pemeriksaan Rabaan Tubuh Harian untuk Benjolan (Kanker)",
+                        "text": "Sisir bulu halus dengan sisir pin untuk mencegah gumpalan, serta lakukan perabaan harian pada tubuh dan kelenjar getah bening untuk deteksi tumor."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mengapa pemeriksaan kesehatan dan kewaspadaan kanker (Histiocytic Sarcoma) sangat penting bagi Bernese Mountain Dog?",
+                        "answer": "Bernese Mountain Dog memiliki tingkat kanker tertinggi di antara semua ras anjing, di mana kanker ganas—terutama Histiocytic Sarcoma—menyebabkan 40% hingga 50% dari total kematian. Karena gejala awal seperti lemas atau penurunan berat badan tidak spesifik, tes darah, Rontgen, USG tahunan mulai usia 4–5 tahun serta pemeriksaan benjolan harian sangat vital."
+                    },
+                    {
+                        "question": "Bagaimana cara mencegah Torsi Lambung (GDV) dan displasia sendi (HD/ED)?",
+                        "answer": "Untuk mencegah GDV (kembung/torsi lambung), bagi makanan menjadi 2–3 porsi kecil sehari dan pastikan istirahat total 1 jam setelah makan. Untuk mencegah Displasia Pinggul dan Siku (HD/ED), kontrol berat badan saat masa pertumbuhan, hindari lantai licin, dan batasi lompatan berlebih."
+                    }
+                ],
+                "tags": [
+                    "BerneseMountainDog",
+                    "PerawatanAnjingBesar",
+                    "PencegahanTorsiLambung",
+                    "SkriningKankerAnjing"
+                ]
+            }
+        },
+        "category": "CareSelf",
+        "app": "careself",
+        "formatVersion": 4,
+        "heroImage": "/images/blog/bernese_mountain_dog_care.webp"
+    }
+}

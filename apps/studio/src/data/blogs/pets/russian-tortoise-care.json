@@ -1,0 +1,516 @@
+{
+    "russian-tortoise-care": {
+        "pubDate": "2026-06-15",
+        "updatedDate": "2026-06-15",
+        "locales": {
+            "ko": {
+                "title": "러시아/호스필드 육지거북의 행동 신호 해석과 대사성 뼈 질환(MBD) 및 요산 결석 예방을 위한 3단계 데일리 케어",
+                "description": "땅 파기를 좋아하는 소형 육지거북 러시아/호스필드 육지거북(Russian Tortoise). 등갑 은신 및 굴 파기 신호 해석, UVB 온·습도 케어, MBD와 요산 결석 예방을 위한 3단계 홈케어 루틴을 소개합니다.",
+                "authority": "ARAV (세계 파충류·양서류 수의사회) 및 Tortoise Trust 케어 프로토콜",
+                "profile": {
+                    "breed": "러시아/호스필드 육지거북 (Russian Tortoise / Agrionemys horsfieldii)",
+                    "lifespan": "40 ~ 50년 이상",
+                    "sleep_pattern": "10 ~ 12시간 (주행성, 밤 동안 깊은 버로우 상태에서 수면)",
+                    "temperament": "활발함, 호기심 많음, 굴 파기 본능 강함, 친근함, 건강함"
+                },
+                "intro": "중앙아시아의 건조한 초원과 사막 지대가 원산지인 러시아 육지거북(Russian Tortoise, 일명 호스필드 육지거북)은 성체 크기가 15~25cm로 비교적 작고 튼튼하여 전 세계 파충류 사육자들에게 큰 사랑을 받는 대표적인 주행성 소형 육지거북입니다. 앞발가락이 4개여서 '네손가락 육지거북'으로도 불리는 이들은 강력한 굴 파기(Burrowing) 본능을 지니고 있습니다. 하지만 실내 사육 시 자외선(UVB) 조사 및 칼슘 결핍으로 인한 대사성 뼈 질환(MBD)에 노출되기 쉬우며, 체내 수분 부족 시 흰색 요산이 굳어 발생하는 '요산 결석(Bladder Stones)'으로 목숨을 잃을 수 있습니다. 또한 완전 초식성(Strict Herbivore)이므로 당분이 높은 과일이나 동물성 단백질 급여는 치명적입니다. 오늘 PetSelf에서는 러시아 육지거북의 행동 신호를 정확히 읽어내고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.",
+                "whyTitle": "러시아 육지거북의 바디 랭귀지: 등갑 속 머리 집어넣기(Head Retraction)와 바닥재 파헤치기(Vigorous Digging)",
+                "whyDesc": "러시아 육지거북은 신체 은신 상태와 앞발 움직임으로 경계 및 욕구 신호를 명확히 표현합니다. 머리와 다리를 등갑 속으로 깊숙이 집어넣고 움직이지 않는 **'등갑 속 머리 집어넣기(Head Retraction / Defensive Hiding)'**는 주변 위협에 대응하는 방어 태세이거나 주변 온도가 너무 낮아 체온을 보존하려는 신호입니다. 반면 앞발로 바닥재나 사육장 벽면을 격렬하게 파헤치는 **'바닥재 파헤치기(Vigorous Digging / Pacing)'**는 강한 굴 파기 본능을 발산하거나 체온 조절을 위한 은신처 검색, 혹은 활동 공간 부족을 호소하는 신호입니다.",
+                "body_signals": [
+                    {
+                        "name": "머리와 다리를 등갑 안으로 깊숙이 넣고 거칠게 슉 소리를 냄 (Head Retraction / Defensive Hiding)",
+                        "meaning": "갑작스러운 외부 자극이나 포식자 위협에 대한 방어 반응이거나, 주위 온도가 하강하여 체온을 빼앗기지 않으려는 행동입니다.",
+                        "response": "자극 요소를 치우고 바스킹존 온도가 적정 수준(32~35°C)을 유지하고 있는지 점검합니다."
+                    },
+                    {
+                        "name": "앞발을 이용해 바닥재를 깊게 파헤치거나 벽면을 계속 긁음 (Vigorous Digging / Pacing)",
+                        "meaning": "본능적인 버로우(굴 파기) 욕구 발현, 체온 조절을 위한 적정 온도 지대 탐색, 혹은 과도한 습도로 인한 불편함 표현입니다.",
+                        "response": "깊은 바닥재(7~10cm 이상)를 조성해 주고, 사육장 내 핫존과 쿨존의 온도 구배가 올바른지 확인합니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: UVB 램프 및 바스킹존 온도(32~35°C) 점검, 100% 초식 고칼슘 샐러드 급여",
+                        "text": "MBD 예방을 위해 고출력 UVB 등과 열원을 켜고, 치커리, 청경채, 민들레 등 칼슘이 풍부한 잎채소에 칼슘 파우더를 뿌려 급여합니다."
+                    },
+                    {
+                        "name": "낮: 깊은 바닥재(7~10cm) 버로우 활동 유도 및 건조 환경(습도 40~50%) 유지",
+                        "text": "코코허스크나 바토 바닥재에서 자유롭게 굴을 파도록 유도하고, 곰팡이 및 호흡기 질환 방지를 위해 사육장 내 습도를 쾌적하게 유지합니다."
+                    },
+                    {
+                        "name": "저녁: 주 2~3회 미온수 온수욕(요산 배출 유도) 및 10~12시간 완전 수면 환경 제공",
+                        "text": "28~30°C의 미온수에서 15~20분간 온수욕을 시켜 수분을 보충하고 요산 배출을 도우며, 밤 동안 조명을 끄고 암막 상태를 유지합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "육지거북에게 '온수욕(Soaking)'이 왜 요산 결석 예방에 필수인가요?",
+                        "answer": "러시아 육지거북은 단백질 대사 부산물로 흰색 '요산(Uric Acid)'을 배출합니다. 체내 수분이 부족하면 요산이 방광 안에서 굳어 커다란 돌(요산 결석)을 형성하여 배설도를 막아 사망에 이르게 됩니다. 주 2~3회 미온수에 몸을 담가주는 온수욕은 항문 및 피부를 통한 수분 흡수를 돕고 장 운동을 촉진하여 요산과 변을 안전하게 배출시키는 가장 확실한 예방법입니다."
+                    },
+                    {
+                        "question": "러시아 육지거북에게 과일이나 곤충, 사료를 주면 왜 안 되나요?",
+                        "answer": "러시아 육지거북은 건조 지대 출신의 100% 완전 초식성(Strict Herbivore) 파충류입니다. 당분이 높은 과일을 먹이면 장내 세균총이 파괴되어 원충 번식과 치명적인 설사를 유발합니다. 또한 곤충이나 동물성 단백질을 섭취할 경우 체내 요산 수치가 급격히 높아져 신부전, 통풍, 등갑 기형(피라미딩)을 유발하므로 반드시 섬유질이 풍부한 야생초 및 녹색 잎채소만 급여해야 합니다."
+                    }
+                ],
+                "tags": [
+                    "러시아육지거북",
+                    "호스필드육지거북",
+                    "파충류케어",
+                    "육지거북MBD예방"
+                ]
+            },
+            "en": {
+                "title": "Russian Tortoise Behavioral Signals and 3-Step Daily Routine for Metabolic Bone Disease (MBD) and Bladder Stone Prevention",
+                "description": "Care guide for the active, burrowing Russian Tortoise. Interpret shell retraction and digging signals, manage UVB lighting and dry climate, and prevent MBD and uric acid bladder stones in 3 steps.",
+                "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) & Tortoise Trust Care Protocols",
+                "profile": {
+                    "breed": "Russian Tortoise (Agrionemys horsfieldii / Testudo horsfieldii)",
+                    "lifespan": "40 - 50+ Years",
+                    "sleep_pattern": "10 - 12 Hours (Diurnal, sleeps burrowed deep in substrate at night)",
+                    "temperament": "Active, Highly Curious, Strong Burrowing Drive, Friendly, Hardy"
+                },
+                "intro": "Native to the arid steppes and deserts of Central Asia, the Russian Tortoise (Agrionemys horsfieldii), also known as Horsfield's Tortoise, is a beloved small diurnal reptile kept worldwide due to its manageable adult size (15–25 cm) and robust hardiness. Possessing four clawed digits on each front paw, Russian Tortoises have an intense instinct for burrowing. However, indoor captive environments expose them to severe Metabolic Bone Disease (MBD) if UVB radiation and dietary calcium are deficient. Furthermore, dehydration causes white uric acid to solidify into lethal bladder stones, while feeding fruit or animal protein triggers severe intestinal microbial collapse and gout. Today, PetSelf presents a 3-step daily care routine to decode your Russian Tortoise's body language and protect its health.",
+                "whyTitle": "Russian Tortoise Body Language: Head Retraction and Vigorous Digging (Pacing)",
+                "whyDesc": "Russian Tortoises communicate fear, thermoregulation needs, and burrowing drive through limb retraction and front-leg scraping. Retracting their head and limbs tightly inside their shell while making a sharp huffing sound **'Head Retraction / Defensive Hiding'** is an instinctual defense mechanism against perceived threats or a reaction to cold ambient temperatures. Conversely, scraping front claws vigorously against substrate or enclosure walls **'Vigorous Digging / Pacing'** signals a strong desire to burrow, search for proper thermal gradients, or express dissatisfaction with excess humidity.",
+                "body_signals": [
+                    {
+                        "name": "Retracting Head and Limbs Tightly Into Shell with a Sharp Huffing Sound (Head Retraction)",
+                        "meaning": "Indicates fear from sudden movement, predatory defense posture, or an attempt to conserve heat in a cold environment.",
+                        "response": "Remove visual stressors and immediately verify that the basking spot reaches proper temperatures (32–35°C)."
+                    },
+                    {
+                        "name": "Scraing Front Claws Vigorously Against Substrate or Glass Walls (Vigorous Digging / Pacing)",
+                        "meaning": "Driven by instinctual burrowing desire, exploring thermal zones, or discomfort caused by excessive ambient moisture.",
+                        "response": "Provide deep (7–10+ cm) dry substrate (coco husk/topsoil) and confirm correct hot-to-cool temperature gradients."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: UVB Output & Basking Spot Check (32–35°C), 100% Herbivorous High-Calcium Salad",
+                        "text": "Turn on high-output 10.0 UVB and basking lamps to enable calcium synthesis, feeding calcium-dusted leafy greens (chicory, dandelion, bok choy)."
+                    },
+                    {
+                        "name": "Afternoon: Deep Burrowing Exercise & Arid Humidity Control (40–50%)",
+                        "text": "Allow natural burrowing in deep dry substrate while maintaining low relative humidity to prevent shell rot and respiratory infections."
+                    },
+                    {
+                        "name": "Evening: Lukewarm Water Soaking (2–3x Weekly for Uric Acid) & Blackout Night Rest",
+                        "text": "Soak in lukewarm water (28–30°C) up to chin depth for 15–20 minutes to encourage hydration and urate excretion, shutting off all lights at night."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Why is regular lukewarm water 'Soaking' crucial for preventing bladder stones in tortoises?",
+                        "answer": "Russian Tortoises excrete nitrogenous waste as white semi-solid 'uric acid' (urates). When chronically dehydrated, urates precipitate and solidify inside the urinary bladder, forming massive uroliths (bladder stones) that cause fatal blockage. Soaking 2 to 3 times weekly in lukewarm water stimulates drinking, intestinal motility, and safe flushing of urates."
+                    },
+                    {
+                        "question": "Why shouldn't I feed fruits, insects, or commercial dog/cat food to a Russian Tortoise?",
+                        "answer": "Russian Tortoises are 100% strict herbivores adapted to fibrous desert weeds. High-sugar fruits disrupt gut microflora, causing severe protozoal blooms and lethal diarrhea. Animal protein or insect feeding elevates blood uric acid rapidly, inducing visceral gout, kidney failure, and pyramiding shell deformities. Feed exclusively fibrous dark leafy greens and safe weeds."
+                    }
+                ],
+                "tags": [
+                    "RussianTortoise",
+                    "HorsfieldsTortoise",
+                    "ReptileCare",
+                    "TortoiseMBDPrevention"
+                ]
+            },
+            "ja": {
+                "title": "ロシアリクガメ（ホルスフィールドリクガメ）の行動サイン解読と代謝性骨疾患(MBD)・尿酸結石予防のための3ステップデイリールーティン",
+                "description": "穴掘りが大好きな小型リクガメ、ロシアリクガメ（Russian Tortoise）。甲羅こもりや穴掘りサインの解読、UVB・温湿度ケア、MBD・尿酸結石予防のための3ステップホームケアを紹介します。",
+                "authority": "ARAV（世界爬虫類・両生類獣医師会）およびTortoise Trust飼育基準",
+                "profile": {
+                    "breed": "ロシアリクガメ / ホルスフィールドリクガメ (Agrionemys horsfieldii / Testudo horsfieldii)",
+                    "lifespan": "40 〜 50年以上",
+                    "sleep_pattern": "10 〜 12時間 (昼行性、夜間は床材に深く潜って就寝)",
+                    "temperament": "活発、好奇心旺盛、穴掘り本能が強い、人懐っこい、丈夫"
+                },
+                "intro": "中央アジアの乾燥したステップや砂漠地帯原産のロシアリクガメ（Russian Tortoise / 別名：ホルスフィールドリクガメ、ヨツユビリクガメ）は、成体サイズが15〜25cmと小型で丈夫なことから、世界中で高い人気を誇る昼行性リクガメです。前脚の指が4本あることから「ヨツユビリクガメ」とも呼ばれ、強力な穴掘り（Burrowing）本能を持っています。しかし屋内飼育下では、紫外線（UVB）照射やカルシウムの不足による代謝性骨疾患（MBD）を発症しやすく、水分不足から白く固まる「尿酸結石（Bladder Stones）」で命を落とす危険があります。また完全草食性（Strict Herbivore）のため、糖分の多い果物や動物性タンパク質の給餌は致死的です。本日PetSelfでは、ロシアリクガメのサインを正確に解読し健康を守る3ステップルーティンをお届けします。",
+                "whyTitle": "ロシアリクガメのボディランゲージ：甲羅への引きこもり(Head Retraction)と激しい穴掘り(Vigorous Digging / Pacing)",
+                "whyDesc": "ロシアリクガメは頭足の格納と前脚の動きで警戒や環境への要求サインを表現します。頭や脚を甲羅の中に深く引っ込めて動かない**「甲羅への引きこもり（Head Retraction / 防衛姿勢）」**は、外部の脅威に対する防衛、または周囲の温度が低すぎて体温を逃がさないようにする行動です。一方、前脚で床材やケージ壁面を激しく掘り続ける**「激しい穴掘り（Vigorous Digging / 徘徊）」**は、本能的な穴掘り欲求の発散、適切な温度帯の探索、あるいは高湿度への不快感を示すサインです。",
+                "body_signals": [
+                    {
+                        "name": "頭と脚を甲羅の中に深く引き込め、シュッと音を立てる (Head Retraction)",
+                        "meaning": "突然の刺激に対する防御本能、またはケージ内の温度低下から体温を守ろうとする行動です。",
+                        "response": "驚かせないよう静かにし、バスキングエリアの温度（32〜35℃）が適正かすぐに確認します。"
+                    },
+                    {
+                        "name": "前脚で床材を深く掘り返したり、壁面を執拗にガリガリ引っ掻く (Vigorous Digging / Pacing)",
+                        "meaning": "本能的な穴掘り行動、適温ゾーンの探索、またはケージ内の湿気が高すぎることへの不満表示です。",
+                        "response": "十分な厚み（7〜10cm以上）の乾燥床材を用意し、ホットスポットとクールスポットの温度差を確認します。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：UVB照射＆バスキングゾーン（32〜35℃）点検、100%完全草食カルシウムサラダ給餌",
+                        "text": "MBD予防のため高出力UVB灯と保温球を点灯し、チコリ、チンゲンサイ、タンポポなどの葉野菜にカルシウムパウダーをまぶして与えます。"
+                    },
+                    {
+                        "name": "昼：深い床材（7〜10cm）での穴掘り運動と乾燥環境（湿度40〜50%）の維持",
+                        "text": "ヤシガラや育成土で自由に潜らせ、甲羅の蒸れや呼吸器疾患を防ぐためケージ内を適度に乾燥した状態に保ちます。"
+                    },
+                    {
+                        "name": "夜：週2〜3回のぬるま湯温浴（尿酸排出促進）と10〜12時間の完全消灯睡眠",
+                        "text": "28〜30℃のぬるま湯で15〜20分温浴させて水分補給と尿酸・フンの排出を促し、夜間は消灯して真っ暗な環境で休ませます。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "リクガメにとって「温浴（Soaking）」がなぜ尿酸結石予防に欠かせないのですか？",
+                        "answer": "ロシアリクガメはタンパク質代謝の老廃物として白い「尿酸（Uric Acid）」を排出します。体内の水分が不足すると、膀胱内で尿酸が固まって大きな結石となり、尿道を塞いで死に至ります。週2〜3回ぬるま湯に浸ける温浴は、皮膚や総排泄口からの水分補給を促し、腸の蠕動運動を刺激して結石の元となる尿酸を安全に排出させる最も効果的な予防法です。"
+                    },
+                    {
+                        "question": "ロシアリクガメに果物や昆虫、ドッグフードを与えてはいけない理由は何ですか？",
+                        "answer": "ロシアリクガメは乾燥地帯原産の100%完全草食性（Strict Herbivore）の爬虫類です。糖分の多い果物を与えると腸内細菌叢が崩れて原虫が異常繁殖し、致死的な下痢を引き起こします。また昆虫や動物性タンパク質は血中尿酸値を急上昇させ、内臓痛風や腎不全、甲羅の変形（ピラミッディング）を招くため、繊維質の多い野草や緑の葉野菜のみを与えてください。"
+                    }
+                ],
+                "tags": [
+                    "ロシアリクガメ",
+                    "ホルスフィールドリクガメ",
+                    "爬虫類ケア",
+                    "リクガメMBD予防"
+                ]
+            },
+            "zh": {
+                "title": "俄罗斯陆龟（霍斯菲尔德陆龟）行为信号解读与代谢性骨病 (MBD) 及尿酸结石预防的 3 步日常流程",
+                "description": "极喜打洞的经典小型陆龟俄罗斯陆龟（Russian Tortoise）。解读缩壳与狂刨垫料信号，维护 UVB 紫外线与干燥气候，预防 MBD 及尿酸结石的 3 步骤家庭护理。",
+                "authority": "世界两栖爬行类兽医师协会 (ARAV) 与 Tortoise Trust 护理标准",
+                "profile": {
+                    "breed": "俄罗斯陆龟 / 霍斯菲尔德陆龟 (Russian Tortoise / Agrionemys horsfieldii)",
+                    "lifespan": "40 ~ 50年以上",
+                    "sleep_pattern": "10 ~ 12小时 (昼行性，夜间深埋入垫料中睡眠)",
+                    "temperament": "活泼、好奇心强、掘洞本能极强、温和亲人、强健"
+                },
+                "intro": "原产于中亚干燥草原与沙漠地带的俄罗斯陆龟（Russian Tortoise，又称霍斯菲尔德陆龟、四爪陆龟），成体体长仅 15~25 厘米，凭其小巧的体型与强健的体质成为全球最受欢迎的昼行性小型陆龟之一。因前肢各有 4 根强壮的爪子，它们拥有极其旺盛的打洞（Burrowing）天性。然而在人工饲养环境下，若缺乏 UVB 紫外线照射与钙质，极易患上致命的代谢性骨病（MBD）；体内缺水则会导致白色尿酸在膀胱结晶形成“尿酸结石（Bladder Stones）”阻碍排泄。此外，它们是严格的纯草食性（Strict Herbivore）动物，投喂水果或动物蛋白会导致致命的肠道菌群崩溃与痛风。今天 PetSelf 将带您准确解读俄罗斯陆龟肢体语言，并通过 3 步骤日常护理维护其健康。",
+                "whyTitle": "俄罗斯陆龟肢体语言：缩头入壳 (Head Retraction) 与狂刨垫料 (Vigorous Digging / Pacing)",
+                "whyDesc": "俄罗斯陆龟通过肢体缩入与前肢扒拉动作清晰表达防御与环境需求。将头部与四肢紧紧缩入龟壳内部并发出哧哧声**“缩头入壳 (Head Retraction)”**，是应对外界威胁的本能防御，或是环境温度过低时保存体温的信号。相反，用前爪剧烈刨挖垫料或撞击箱壁**“狂刨垫料 (Vigorous Digging / Pacing)”**，则是表达强烈的打洞欲望、寻找适宜温区，或是对环境湿度过高表达不适。",
+                "body_signals": [
+                    {
+                        "name": "将头脚紧紧缩入壳内，并发出短促的“哧”声 (Head Retraction / Defensive Hiding)",
+                        "meaning": "受到突发惊吓时的本能防御姿态，或是环境温度过低导致其试图紧缩身体保存体温。",
+                        "response": "撤离惊扰源，并立即检查晒背区温度是否达到适宜的 32°C~35°C。"
+                    },
+                    {
+                        "name": "用前爪用力刨挖垫料或沿着龟箱边缘频繁爬挠 (Vigorous Digging / Pacing)",
+                        "meaning": "发泄本能的打洞挖掘欲望、寻找热点/冷点温区，或是对箱内湿度过高感到不适。",
+                        "response": "铺设厚层 (7~10 厘米以上) 干燥垫料（椰壳/椰土），并确认冷热温区梯差正确。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：UVB 紫外线灯与晒背区 (32°C~35°C) 检查，投喂 100% 纯草食高钙蔬菜拼盘",
+                        "text": "开启高输出 10.0 UVB 灯与热源以促进钙吸收，投喂撒有钙粉的羽衣甘蓝、蒲公英、菊苣等高纤维绿叶菜。"
+                    },
+                    {
+                        "name": "中午：深层垫料 (7~10 厘米) 打洞挖掘与维持干燥环境 (湿度 40%~50%)",
+                        "text": "提供厚层椰壳垫料供其自由掘洞，并保持环境干燥以防腐皮、烂甲与呼吸道感染。"
+                    },
+                    {
+                        "name": "晚上：每周 2~3 次温水泡澡 (促进尿酸排出) 与 10~12 小时完全黑暗睡眠",
+                        "text": "用 28°C~30°C 温水泡澡 15~20 分钟以补水并诱导排便排尿酸，夜间关闭所有灯光维持黑暗睡眠。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "为什么定期“温水泡澡 (Soaking)”对陆龟预防尿酸结石至关重要？",
+                        "answer": "俄罗斯陆龟代谢蛋白质的废弃物为白色的“尿酸（Uric Acid）”。当体内长期缺水时，尿酸会在膀胱内结晶凝固成巨大石块（尿酸结石），堵塞尿道引发绝食与死亡。每周 2~3 次用温水浸泡陆龟腹甲高度，能通过泄殖腔与皮肤补水，刺激肠道蠕动，安全地将尿酸和粪便排出体外。"
+                    },
+                    {
+                        "question": "为什么绝对不能给俄罗斯陆龟喂食水果、昆虫或猫狗粮？",
+                        "answer": "俄罗斯陆龟是 100% 严格纯草食性（Strict Herbivore）沙漠陆龟。高糖分的水果会破坏其肠道益生菌平衡，引发原虫爆发与致死性腹泻；而昆虫或动物蛋白会导致血液尿酸急剧升高，诱发内脏痛风、肾衰竭以及龟壳畸形隆背（Pyramiding）。必须严格喂食高纤维野生杂草与深色绿叶菜。"
+                    }
+                ],
+                "tags": [
+                    "俄罗斯陆龟",
+                    "霍斯菲尔德陆龟",
+                    "爬宠护理",
+                    "陆龟MBD预防"
+                ]
+            },
+            "es": {
+                "title": "Señales de conducta en la Tortuga Rusa y rutina diaria de 3 pasos para la prevención de la enfermedad ósea metabólica (MBD) y cálculos de ácido úrico",
+                "description": "Guía de cuidado para la activa y excavadora Tortuga Rusa (Russian Tortoise). Interprete el escondite en el caparazón y el excavado, controle la iluminación UVB, el clima seco y prevenga el MBD y cálculos urinarios en 3 pasos.",
+                "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) y Normas del Tortoise Trust",
+                "profile": {
+                    "breed": "Tortuga Rusa / de Horsfield (Agrionemys horsfieldii / Testudo horsfieldii)",
+                    "lifespan": "40 ~ 50+ años",
+                    "sleep_pattern": "10 ~ 12 horas (Diurna, duerme enterrada en el sustrato por la noche)",
+                    "temperament": "Activa, Muy curiosa, Fuerte instinto excavador, Amigable, Resistente"
+                },
+                "intro": "Originaria de las estepas áridas y desiertos de Asia Central, la Tortuga Rusa (Agrionemys horsfieldii / Tortuga de Horsfield) es un réptil diurno muy querido en todo el mundo por su tamaño compacto (15–25 cm) y su gran resistencia. Poseen cuatro garras en las patas delanteras, lo que les concede un poderoso instinto excavador. Sin embargo, en cautividad son muy vulnerables a la Enfermedad Ósea Metabólica (MBD) por falta de luz UVB y calcio. Además, la deshidratación provoca que el ácido úrico se solidifique en mortales cálculos de vejiga. También son herbívoras estrictas (Strict Herbivore), por lo que la fruta o la proteína animal dañan gravemente su digestión. Hoy, PetSelf presenta una rutina de 3 pasos para cuidar su salud.",
+                "whyTitle": "Lenguaje corporal de la Tortuga Rusa: Escondite en el caparazón (Head Retraction) y excavado intenso (Vigorous Digging)",
+                "whyDesc": "La Tortuga Rusa comunica temor, autorregulación térmica y deseos de excavar mediante la retracción de extremidades y el rascado. Esconder la cabeza y patas dentro del caparazón bufando **'Escondite en el caparazón (Head Retraction)'** es una defensa instintiva o un intento de conservar calor si baja la temperatura. En cambio, rascar con fuerza el sustrato o las paredes del terrario **'Excavado intenso (Vigorous Digging / Pacing)'** indica la necesidad de enterrarse, buscar zonas térmicas o incomodidad por humedad alta.",
+                "body_signals": [
+                    {
+                        "name": "Retraer cabeza y patas firmemente dentro del caparazón emitiendo un resoplido (Head Retraction)",
+                        "meaning": "Defensa ante una amenaza percibida o intento de retener el calor corporal cuando la temperatura desciende.",
+                        "response": "Elimine los estímulos molestos y verifique que el punto de asoleamiento alcance de 32 a 35°C."
+                    },
+                    {
+                        "name": "Excavar el sustrato fuertemente con las patas delanteras o rascar el cristal (Vigorous Digging / Pacing)",
+                        "meaning": "Instinto natural de excavado, búsqueda de gradientes de temperatura o malestar por exceso de humedad.",
+                        "response": "Proporcione un sustrato seco y profundo (7–10+ cm) y asegure zonas frías y calientes adecuadas."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Control de lámpara UVB y punto de calor (32–35°C) y ensalada 100% herbívora con calcio",
+                        "text": "Encienda las luces UVB 10.0 para asimilar el calcio y ofrezca hojas verdes (achicoria, diente de león, canónigos) espolvoreadas con calcio."
+                    },
+                    {
+                        "name": "Tarde: Ejercicio en sustrato profundo (7–10 cm) y ambiente seco (40–50% Humedad)",
+                        "text": "Permita que se entierre en sustrato seco (fibra de coco o tierra) manteniendo la humedad baja para evitar piramidismo y mocos."
+                    },
+                    {
+                        "name": "Noche: Baño en agua tibia (2–3 veces por semana para expulsar uratos) y oscuridad total",
+                        "text": "Sumerja a la tortuga en agua tibia (28–30°C) durante 15–20 minutos para hidratar y facilitar la expulsión de uratos, apagando las luces de noche."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Por qué los baños de agua tibia (Soaking) son vitales para evitar cálculos de vejiga?",
+                        "answer": "Las Tortugas Rusas eliminan sus deshechos de nitrógeno en forma de 'ácido úrico' blanco. Si se deshidratan, el ácido úrico cristaliza en la vejiga formando piedras masivas (cálculos urinarios) que bloquean la cloaca y causan la muerte. Bañarlas 2 a 3 veces por semana en agua tibia estimula el consumo de agua, la motilidad intestinal y la expulsión segura de los uratos."
+                    },
+                    {
+                        "question": "¿Por qué nunca debo alimentar a una Tortuga Rusa con fruta, insectos o pienso para perro/gato?",
+                        "answer": "La Tortuga Rusa es un animal 100% herbívoro estricto. Las frutas ricas en azúcar destruyen su flora intestinal produciendo diarreas mortales. La proteína animal o de insectos eleva bruscamente el ácido úrico en sangre, causando gota visceral, fallo renal y deformaciones en el caparazón (piramidismo). Debe comer únicamente silvestres y hojas verdes oscuras."
+                    }
+                ],
+                "tags": [
+                    "TortugaRusa",
+                    "TortugaDeHorsfield",
+                    "CuidadoDeReptiles",
+                    "PrevencionMBDTortugas"
+                ]
+            },
+            "fr": {
+                "title": "Signaux comportementaux de la Tortue Russe et routine quotidienne en 3 étapes pour la prévention de la maladie osseuse métabolique (MBD) et des calculs d'acide urique",
+                "description": "Guide de soins pour l'active Tortue Russe (Tortue de Horsfield). Décryptez le rétractation dans la carapace et le creusage, gérez l'éclairage UVB, le climat sec et prévenez la MBD et les calculs en 3 étapes.",
+                "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) & Normes du Tortoise Trust",
+                "profile": {
+                    "breed": "Tortue Russe / Tortue de Horsfield (Agrionemys horsfieldii / Testudo horsfieldii)",
+                    "lifespan": "40 ~ 50+ ans",
+                    "sleep_pattern": "10 ~ 12 heures (Diurne, dort enfouie dans le substrat la nuit)",
+                    "temperament": "Active, Très curieuse, Fort instinct de creusage, Amicale, Robuste"
+                },
+                "intro": "Originaire des steppes arides et des déserts d'Asie Centrale, la Tortue Russe (Agrionemys horsfieldii / Tortue de Horsfield) est une petite tortue terrestre diurne très populaire en raison de sa taille adulte modérée (15–25 cm) et de sa grande robustesse. Munie de quatre griffes à chaque patte avant, elle possède un instinct irrésistible de creusage (Burrowing). En captivité, elle est toutefois exposée à la Maladie Osseuse Métabolique (MBD) en cas de manque d'UVB et de calcium. De plus, la déshydratation transforme l'acide urique en calculs vésicaux mortels, tandis que les fruits ou protéines entraînent une défaillance rénale. Aujourd'hui, PetSelf vous présente une routine en 3 étapes pour prendre soin de sa santé.",
+                "whyTitle": "Langage corporel de la Tortue Russe : Rétraction dans la carapace (Head Retraction) et creusage intense (Vigorous Digging)",
+                "whyDesc": "La Tortue Russe exprime la peur, ses besoins thermiques et son envie de creuser en rentrant ses membres ou en grattant. Rentrer la tête et les pattes dans la carapace en soufflant **« Rétraction dans la carapace (Head Retraction) »** est un réflexe de défense ou une réaction à une température trop fraîche. En revanche, gratter vigoureusement le substrat ou les vitres **« Creusage intense (Vigorous Digging) »** indique un besoin de s'enfouir, une recherche de zone thermique ou une gêne face à une humidité trop élevée.",
+                "body_signals": [
+                    {
+                        "name": "Rentrer fermement la tête et les pattes dans la carapace en émettant un pffff (Head Retraction)",
+                        "meaning": "Attitude de défense face à une peur soudaine ou tentative de conserver sa chaleur si l'air se refroidit.",
+                        "response": "Éloignez les perturbations et vérifiez immédiatement que le point chaud atteint 32 à 35°C."
+                    },
+                    {
+                        "name": "Gratter énergiquement le sol avec les pattes avant ou longer les parois (Vigorous Digging / Pacing)",
+                        "meaning": "Besoin instinctif de creuser des galeries, recherche de fraîcheur/chaleur ou gêne due à une trop forte humidité.",
+                        "response": "Mettez une bonne épaisseur de substrat sec (7–10+ cm) et contrôlez le gradient thermique."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Vérification UVB & point chaud (32–35°C), salade 100% herbivore riche en calcium",
+                        "text": "Allumez le néon 10.0 UVB pour l'assimilation du calcium et distribuez des feuilles vertes (chicorée, pissenlit) saupoudrées de calcium."
+                    },
+                    {
+                        "name": "Après-midi : Creusage dans substrat profond (7–10 cm) & hygiène sèche (40–50% d'humidité)",
+                        "text": "Offrez un substrat sec et profond (éclats de coco, terre) et gardez une hygrométrie basse pour éviter les rhinites."
+                    },
+                    {
+                        "name": "Soir : Bain d'eau tiède (2–3 fois par semaine pour évacuer l'acide urique) & nuit noire",
+                        "text": "Faites baigner la tortue dans de l'eau tiède (28–30°C) pendant 15–20 min pour l'hydrater et lui faire émettre ses urates, puis éteignez tout."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Pourquoi les bains d'eau tiède (Soaking) sont-ils cruciaux pour éviter les calculs d'acide urique ?",
+                        "answer": "La Tortue Russe élimine ses déchets sous forme d'« acide urique » blanc pâteux. Si elle manque d'eau, cet acide urique cristallise dans la vessie et forme un gros calcul (urolithe) qui bloque son transit et la tue. Le bain tiède 2 à 3 fois par semaine hydrate l'animal par la cloaque, stimule son intestin et évacue les urates en toute sécurité."
+                    },
+                    {
+                        "question": "Pourquoi est-il interdit de donner des fruits, des insectes ou de la pâtée à une Tortue Russe ?",
+                        "answer": "La Tortue Russe est un reptile 100 % herbivore strict. Les fruits sucrés détraquent sa flore intestinale et provoquent des diarrhées mortelles. Les protéines animales (insectes, viande) augmentent l'acide urique dans le sang, causant la goutte, une insuffisance rénale et la déformation de la carapace (toboggan/pyramidage). Proposez uniquement des mauvaises herbes et des légumes feuillus."
+                    }
+                ],
+                "tags": [
+                    "TortueRusse",
+                    "TortueDeHorsfield",
+                    "SoinReptiles",
+                    "PreventionMBDTortue"
+                ]
+            },
+            "de": {
+                "title": "Verhaltenssignale der Steppenschildkröte (Russische Landschildkröte) und 3-Schritte-Tagesroutine zur Prävention von Metabolischen Knochenerkrankungen (MBD) und Uratsteinen",
+                "description": "Pflegeanleitung für die grabebegeisterte Steppenschildkröte (Russische Landschildkröte). Rückzug in den Panzer und Graben verstehen, UVB-Licht und trockenes Klima steuern sowie MBD und Harnsteine in 3 Schritten vorbeugen.",
+                "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) & Standards des Tortoise Trust",
+                "profile": {
+                    "breed": "Steppenschildkröte / Russische Landschildkröte (Agrionemys horsfieldii / Testudo horsfieldii)",
+                    "lifespan": "40 ~ 50+ Jahre",
+                    "sleep_pattern": "10 ~ 12 Stunden (Tagaktiv, schläft nachts tief im Substrat eingegraben)",
+                    "temperament": "Aktiv, Sehr neugierig, Straker Grabtrieb, Zutraulich, Robust"
+                },
+                "intro": "Aus den trockenen Steppen und Wüsten Zentralasiens stammend, ist die Steppenschildkröte (Agrionemys horsfieldii / Russische Landschildkröte) wegen ihrer handlichen Endgröße (15–25 cm) und Robustheit ein beliebtes Heimtier. Ausgestattet mit vier kräftigen Grabkrallen an den Vorderbeinen besitzt sie einen ausgeprägten Trieb zum Graben. In Gehegehaltung leidet sie jedoch ohne UVB-Strahlung und Calcium rasch an der Metabolischen Knochenerkrankung (MBD). Zudem führt Flüssigkeitsmangel zur Verfestigung von Harnsäure im Körper (Uratsteine), während Obst oder Fleisch den Darm schädigen. Heute zeigt PetSelf eine 3-Schritte-Routine für die Gesundheit Ihrer Steppenschildkröte.",
+                "whyTitle": "Körpersprache der Steppenschildkröte: Einziehen in den Panzer (Head Retraction) und Heftiges Graben (Vigorous Digging)",
+                "whyDesc": "Die Steppenschildkröte drückt Angst, Wärmebedürfnis und Grabtrieb durch Rückzug der Extremitäten und Scharren aus. Das tiefe Einziehen von Kopf und Beinen in den Panzer unter fauchendem Ausatmen **'Einziehen in den Panzer (Head Retraction)'** dient der Schutzabwehr oder der Wärmeerhaltung bei Kälte. Das wilde Scharren im Substrat oder an der Scheibe **'Heftiges Graben (Vigorous Digging)'** signalisiert dagegen den Drang zu buddeln, die Suche nach passenden Temperaturen oder Unwohlsein bei zu hoher Feuchtigkeit.",
+                "body_signals": [
+                    {
+                        "name": "Kopf und Beine tief in den Panzer ziehen und leise fauchen (Head Retraction)",
+                        "meaning": "Abwehrverhalten bei Überraschung oder Versuch, bei kühlen Temperaturen Körperwärme zu speichern.",
+                        "response": "Vermeiden Sie Hektik und überprüfen Sie sofort die Temperatur am Sonnenplatz (32–35 °C)."
+                    },
+                    {
+                        "name": "Mit den Vorderbeinen tief im Substrat wühlen oder an den Wänden scharren (Vigorous Digging / Pacing)",
+                        "meaning": "Natürlicher Grabtrieb, Aufsuchen von Wärmezonen oder Unbehagen durch zu hohe Luftfeuchtigkeit.",
+                        "response": "Bieten Sie eine dicke Schicht (7–10+ cm) trockenes Substrat und prüfen Sie das Temperaturgefälle."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: UVB-Beleuchtung & Sonnenplatz prüfen (32–35 °C), 100 % pflanzliche Calcium-Ration",
+                        "text": "Schalten Sie UVB-Strahler (10.0) zur Calciumaufnahme ein und füttern Sie calciumreiches Wildkraut und Blattsalate (Zichorie, Löwenzahn)."
+                    },
+                    {
+                        "name": "Mittag: Graben im tiefen Substrat (7–10 cm) & Trockenes Klima halten (40–50 % Feuchte)",
+                        "text": "Lassen Sie die Schildkröte in trockener Erde/Kokoshusk graben; halten Sie die Luftfeuchte niedrig gegen Atemwegsinfekte."
+                    },
+                    {
+                        "name": "Abend: Lauwarmes Wasserbad (2–3-mal wöchentlich zur Uratausscheidung) & Nachtruhe",
+                        "text": "Baden Sie das Tier 15–20 Min. in lauwarmem Wasser (28–30 °C) zur Hydratation und Uratabgabe und schalten Sie nachts alle Lichter aus."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Warum ist das lauwarm Wässern (Soaking) zur Vorbeugung von Uratsteinen lebenswichtig?",
+                        "answer": "Steppenschildkröten scheiden Eiweißabbauprodukte als weiße, breiige 'Harnsäure' (Urate) aus. Bei Wassermangel kristallisiert diese Harnsäure in der Blase zu riesigen Uratsteinen, die das Tier qualvoll verstopfen. Regelmäßiges Baden (2–3x wöchentlich) regt das Trinken und die Darmtätigkeit an, sodass Urate gefahrlos ausgespült werden."
+                    },
+                    {
+                        "question": "Warum darf ich eine Steppenschildkröte keinesfalls mit Obst, Insekten oder Hundefutter füttern?",
+                        "answer": "Steppenschildkröten sind 100 % reine Pflanzenfresser (Strict Herbivore). Zuckerhaltiges Obst zerstört die Darmflora und löst tödliche Durchfälle aus. Tierisches Eiweiß lässt den Harnsäurespiegel im Blut explodieren, was zu Nierenversagen, Gicht und Panzerhöckerbildung (Pyramidenwuchs) führt. Füttern Sie ausschließlich faserreiche Wiesenkräuter und dunkle Salate."
+                    }
+                ],
+                "tags": [
+                    "Steppenschildkroete",
+                    "RussischeLandschildkroete",
+                    "Reptilienpflege",
+                    "MBDProphylaxeSchildkroete"
+                ]
+            },
+            "pt": {
+                "title": "Sinais comportamentais da Tartaruga-Russa e rotina diária de 3 passos para prevenção de doença óssea metabólica (MBD) e cálculos de ácido úrico",
+                "description": "Guia de cuidados para a ativa e escavadora Tartaruga-Russa (Tartaruga de Horsfield). Interprete o recolhimento no casco e a escavação, controle luz UVB e clima seco, e previna MBD e cálculos renais em 3 passos.",
+                "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) & Padrões do Tortoise Trust",
+                "profile": {
+                    "breed": "Tartaruga-Russa / Tartaruga de Horsfield (Agrionemys horsfieldii / Testudo horsfieldii)",
+                    "lifespan": "40 ~ 50+ anos",
+                    "sleep_pattern": "10 ~ 12 horas (Diurna, dorme enterrada no substrato à noite)",
+                    "temperament": "Ativa, Muito curiosa, Forte instinto escavador, Dócil, Resistente"
+                },
+                "intro": "Originária das estepes áridas e desertos da Ásia Central, a Tartaruga-Russa (Agrionemys horsfieldii / Tartaruga de Horsfield) é um réptil diurno muito amado em todo o mundo devido ao seu tamanho compacto (15–25 cm) e excelente resistência. Possuem quatro garras nas patas dianteiras, o que lhes confere um forte instinto de escavação (Burrowing). No entanto, em cativeiro são vulneráveis à Doença Óssea Metabólica (MBD) se houver falta de lâmpada UVB e cálcio. A desidratação faz com que o ácido úrico se petrifique em cálculos urinários fatais, e o consumo de frutas ou proteínas causa falência renal. Hoje, o PetSelf apresenta uma rotina de 3 passos para cuidar da sua saúde.",
+                "whyTitle": "Linguagem corporal da Tartaruga-Russa: Recolhimento no casco (Head Retraction) e escavação intensa (Vigorous Digging)",
+                "whyDesc": "A Tartaruga-Russa comunica medo, autorregulação de temperatura e impulso de escavação encolhendo membros ou rascando o solo. Encolher cabeça e patas dentro do casco bufando **'Recolhimento no casco (Head Retraction)'** é um mecanismo de defesa ou tentativa de reter calor corporal. Por outro lado, rascar o solo ou paredes **'Escavação intensa (Vigorous Digging / Pacing)'** indica necessidade de enterrar-se, busca por zonas térmicas ou desconforto com umidade alta.",
+                "body_signals": [
+                    {
+                        "name": "Encolher cabeça e patas firmemente dentro da carapaça emitindo um sopro (Head Retraction)",
+                        "meaning": "Defesa contra ameaça ou tentativa de manter o calor corporal em ambiente frio.",
+                        "response": "Acalme o ambiente e verifique se o ponto de aquecimento está entre 32 e 35°C."
+                    },
+                    {
+                        "name": "Excavar o substrato fortemente com as patas dianteiras ou arranhar o vidro (Vigorous Digging / Pacing)",
+                        "meaning": "Instinto natural de escavação, busca por gradiente térmico ou incômodo com umidade excessiva.",
+                        "response": "Coloque uma camada profunda de substrato seco (7–10+ cm) e ajuste as temperaturas do terrário."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Checagem da lâmpada UVB e ponto de aquecimento (32–35°C) & salada 100% herbívora rica em cálcio",
+                        "text": "Ligue a lâmpada UVB 10.0 para síntese de cálcio e ofereça folhas verdes (chicória, dente-de-leão) polvilhadas com cálcio em pó."
+                    },
+                    {
+                        "name": "Tarde: Escavação em substrato profundo (7–10 cm) & ambiente seco (40–50% Umidade)",
+                        "text": "Permita que ela se enterre em substrato seco mantendo a umidade baixa para evitar infecções respiratórias e cascos moles."
+                    },
+                    {
+                        "name": "Noite: Banho de água morna (2–3x por semana para expelir uratos) & escuridão total",
+                        "text": "Deixe a tartaruga em banho morno (28–30°C) por 15–20 minutos para hidratação e liberação de uratos, apagando as luzes à noite."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Por que o banho de água morna (Soaking) é vital para evitar cálculos de ácido úrico?",
+                        "answer": "As Tartarugas-Russas excretam resíduos na forma de 'ácido úrico' branco pastoso. Quando desidratadas, esse ácido cristaliza na bexiga formando cálculos urinários gigantes que bloqueiam a cloaca e causam a morte. Banhar a tartaruga de 2 a 3 vezes por semana estimula a hidratação, funcionamento intestinal e eliminação segura dos uratos."
+                    },
+                    {
+                        "question": "Por que nunca devo alimentar uma Tartaruga-Russa com frutas, insetos ou ração para cães/gatos?",
+                        "answer": "A Tartaruga-Russa é um animal 100% herbívoro estrito. Frutas ricas em açúcar desregulam a flora intestinal e causam diarreia fatal. Proteína animal ou insetos elevam o ácido úrico no sangue, provocando gota visceral, falência renal e deformação do casco (piramidismo). Ofereça apenas plantas silvestres e folhas verdes escuras."
+                    }
+                ],
+                "tags": [
+                    "TartarugaRussa",
+                    "TartarugaDeHorsfield",
+                    "CuidadosComReptois",
+                    "PrevencaoMBDTartaruga"
+                ]
+            },
+            "id": {
+                "title": "Sinyal Perilaku Kura-kura Rusia (Russian Tortoise) dan Rutinitas Harian 3 Langkah Perawatan Pencegahan Penyakit Tulang Metabolik (MBD) serta Batu Asam Urat",
+                "description": "Panduan perawatan kura-kura darat aktif pembuat terowongan, Kura-kura Rusia (Horsfield's Tortoise). Pahami sinyal masuk tempurung dan menggali, kelola lampu UVB dan iklim kering, serta cegah MBD dan batu asam urat dalam 3 langkah.",
+                "authority": "Standar Perawatan Association of Reptilian and Amphibian Veterinarians (ARAV) & Tortoise Trust",
+                "profile": {
+                    "breed": "Kura-kura Rusia / Horsfield (Agrionemys horsfieldii / Testudo horsfieldii)",
+                    "lifespan": "40 ~ 50+ tahun",
+                    "sleep_pattern": "10 ~ 12 jam (Diurnal/aktif siang, tidur mengubur diri di dalam tanah saat malam)",
+                    "temperament": "Aktif, Sangat Ingin Tahu, Insting Menggali Kuat, Ramah, Tangguh"
+                },
+                "intro": "Berasal dari padang rumput kering dan gurun di Asia Tengah, Kura-kura Rusia (Agrionemys horsfieldii / Kura-kura Horsfield) adalah reptil darat diurnal yang sangat populer di seluruh dunia karena ukurannya yang relatif mungil (15–25 cm) dan daya tahan tubuhnya yang kuat. Memiliki empat cakar kuat pada kaki depannya, kura-kura ini memiliki insting alami yang sangat kuat untuk menggali terowongan (burrowing). Namun dalam pemeliharaan dalam ruangan, kurangnya paparan sinar UVB dan kalsium dapat memicu Penyakit Tulang Metabolik (MBD). Selain itu, dehidrasi dapat menyebabkan asam urat mengeras menjadi batu kandung kemih yang mematikan. Hari ini, PetSelf membagikan 3 langkah rutinitas harian untuk merawat kesehatan Kura-kura Rusia Anda.",
+                "whyTitle": "Bahasa Tubuh Kura-kura Rusia: Menarik Kepala ke Dalam Tempurung (Head Retraction) dan Menggali Kuat (Vigorous Digging)",
+                "whyDesc": "Kura-kura Rusia menyampaikan rasa takut, kebutuhan suhu, dan keinginan menggali melalui gerakan menarik anggota tubuh dan garukan kaki depan. Menarik kepala dan kaki dalam-dalam ke dalam tempurung sambil mendesis **'Menarik Kepala (Head Retraction)'** adalah pertahanan alami atau respons terhadap suhu dingin. Sebaliknya, menggaruk substrat atau dinding kandang secara kuat **'Menggali Kuat (Vigorous Digging / Pacing)'** menandakan dorongan menggali, pencarian zona suhu nyaman, atau ketidaknyamanan akibat kelembapan udara yang terlalu tinggi.",
+                "body_signals": [
+                    {
+                        "name": "Menarik Kepala dan Kaki Dalam-dalam ke Dalam Tempurung Sambil Mendesis (Head Retraction)",
+                        "meaning": "Sikap bertahan dari ancaman mendadak, atau usaha menjaga panas tubuh saat suhu lingkungan turun.",
+                        "response": "Jauhkan gangguan dan segera periksa apakah suhu area basking mencapai 32–35°C."
+                    },
+                    {
+                        "name": "Menggaruk Substrat Kuat-kuat dengan Kaki Depan atau Menggaruk Dinding Kaca (Vigorous Digging / Pacing)",
+                        "meaning": "Insting menggali terowongan, pencarian titik suhu hangat/dingin, atau stres akibat kelembapan terlalu tinggi.",
+                        "response": "Sediakan substrat kering yang tebal (7–10+ cm) dan pastikan gradien suhu panas-dingin di kandang sudah benar."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Pemeriksaan Lampu UVB & Area Basking (32–35°C), Serta Pakan Hijauan High-Calcium 100% Herbivora",
+                        "text": "Nyalakan lampu UVB 10.0 untuk menyintesis kalsium, dan berikan daun hijau tinggi serat (cikori, daun dandelion, pakcoy) bertabur bubuk kalsium."
+                    },
+                    {
+                        "name": "Siang: Latihan Menggali di Substrat Tebal (7–10 cm) & Kontrol Iklim Kering (Kelembapan 40–50%)",
+                        "text": "Biarkan kura-kura menggali di substrat kering (cocohusk/tanah) dan jaga kelembapan tetap rendah untuk mencegah pilek dan busuk tempurung."
+                    },
+                    {
+                        "name": "Malam: Rendam Air Hangat (2–3x Seminggu untuk Buang Urat) & Tidur Gelap Total",
+                        "text": "Rendam dalam air hangat (28–30°C) setinggi dada selama 15–20 menit untuk hidrasi dan merangsang buang air/asam urat, lalu matikan semua lampu."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mengapa merendam kura-kura dalam air hangat (Soaking) sangat penting untuk mencegah batu asam urat?",
+                        "answer": "Kura-kura Rusia membuang sisa metabolisme protein berupa 'asam urat' putih kental. Jika kura-kura dehidrasi, asam urat akan mengkristal di kandung kemih menjadi batu besar (urolith) yang menyumbat saluran kencing dan memicu kematian. Merendam kura-kura 2–3 kali seminggu dalam air hangat merangsang pencernaan, hidrasi, dan pembuangan urates secara aman."
+                    },
+                    {
+                        "question": "Mengapa Kura-kura Rusia tidak boleh diberi buah-buahan, serangga, atau pakan kucing/anjing?",
+                        "answer": "Kura-kura Rusia adalah hewan 100% herbivora murni. Buah-buahan tinggi gula merusak mikroflora usus dan memicu diare mematikan. Protein hewani atau serangga membuat kadar asam urat darah melonjak drastis, memicu asam urat organ (gout), gagal ginjal, dan piramiding tempurung. Makanan mereka harus murni terdiri dari rumput liar tinggi serat dan daun hijau tua."
+                    }
+                ],
+                "tags": [
+                    "KuraKuraRusia",
+                    "KuraKuraHorsfield",
+                    "PerawatanReptil",
+                    "PencegahanMBDKuraKura"
+                ]
+            }
+        },
+        "category": "CareSelf",
+        "app": "careself",
+        "formatVersion": 4,
+        "heroImage": "/images/blog/russian_tortoise_care.webp"
+    }
+}
