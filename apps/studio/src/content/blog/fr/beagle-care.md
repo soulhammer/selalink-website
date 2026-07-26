@@ -13,11 +13,11 @@ authority: "Standard officiel du Beagle de l'AKC et protocoles de comportement d
 steps:
   - name: "Langage corporel du Beagle : Instinct de pistage et signification des hurlements"
     text: "Lorsqu'il est absorbé par une odeur, le Beagle colle son nez au sol et avance en ligne droite ('Ground-Tracking'), ignorant les bruits extérieurs pour libérer son énergie. En revanche, le 'hurlement' lorsqu'il est seul est l'expression d'un malaise dû à l'anxiété de séparation. Comprendre ces deux comportements est la clé d'un Beagle épanoui."
-  - name: "Beagle's Body Language & Signals"
+  - name: "Langage corporel et signaux comportementaux du Beagle"
     text: "* Pistage le nez au sol (Ground-Tracking): Un état d'excitation normal où le chien explore son environnement par l'odorat et dépense son énergie de chien de chasse. (Ne tirez pas sur la laisse ; laissez-lui le temps de flairer en toute sécurité pour répondre à ses besoins mentaux.)
 
 * Hurlement (Howling): Expression d'anxiété, de solitude, d'ennui ou d'énergie non dépensée cherchant à attirer l'attention. (Ne le grondez pas. Traitez la cause sous-jacente en augmentant l'exercice physique et en lui proposant des jeux de fouille en intérieur.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Routine quotidienne en 3 étapes pour le soin du Beagle"
     text: "* STEP 1. Matin : Jeu de recherche de friandises en intérieur: Après le petit-déjeuner, cachez des friandises dans des gobelets en carton ou dans la pièce pour stimuler son odorat et canaliser son énergie mentale dès le matin.
 
 * STEP 2. Après-midi : Promenade de pistage active de plus de 40 minutes: Assurez une promenade extérieure d'au moins 40 minutes par jour. Laissez-le flairer librement l'herbe et les pistes sans contrainte inutile.
@@ -60,7 +60,7 @@ Adoré pour ses grandes oreilles tombantes et sa queue au bout blanc qui remue j
 
 ---
 
-## 2. Beagle's Body Language & Signals
+## 2. Langage corporel et signaux comportementaux du Beagle
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Adoré pour ses grandes oreilles tombantes et sa queue au bout blanc qui remue j
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Routine quotidienne en 3 étapes pour le soin du Beagle
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

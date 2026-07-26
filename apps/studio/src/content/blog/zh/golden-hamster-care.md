@@ -13,11 +13,11 @@ authority: "Humane Society 仓鼠护理指南及兽医行为标准"
 steps:
   - name: "金仓鼠的沟通方式：磨牙警告与警惕行为"
     text: "金仓鼠在极度愤怒或害怕时，会发出独特的磨牙声 “磨牙及咯咯声 (Teeth Chattering)”，警告人类保持距离。此外，当受到突然的噪音惊吓时，它们会表现出 “压低耳朵并静止的动作 (Ear Flattening)”，对周围进行强烈警惕。快速捕捉这些敏感的身体语言信号并提供舒适的独立空间是照顾它们的关键。"
-  - name: "金仓鼠 (Mesocricetus auratus / 叙利亚仓鼠)'s Body Language & Signals"
+  - name: "金仓鼠 (Mesocricetus auratus / 叙利亚仓鼠) 的肢体语言与行为信号"
     text: "* 磨牙咯咯声 (Teeth Chattering): 感到威胁或极度敏感的强烈警告，意思是不要靠近。 (立即停止互动或清理，给它们安静的空间在躲避穴中冷静下来。)
 
 * 压低耳朵并静止 (Ear Flattening): 由突然的震动或陌生的视觉刺激引起的极度紧张和警惕状态。 (避免在附近发出大声或突然移动，调暗灯光以保持房间黑暗和舒适。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "金仓鼠 (Mesocricetus auratus / 叙利亚仓鼠) 定制化 3 步家庭护理流程"
     text: "* STEP 1. 早上：整理躲避穴周围并更换新鲜饮水: 由于仓鼠在早上入睡，请勿直接触碰其躲避穴内部。更换饮水并轻轻清理笼子周围的污垢。
 
 * STEP 2. 中午：保持安静和黑暗环境以帮助其深睡眠: 在白天避免在笼子附近使用嘈杂的家电，并拉上遮光罩，以确保其有充足的无干扰睡眠时间。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. 金仓鼠 (Mesocricetus auratus / 叙利亚仓鼠)'s Body Language & Signals
+## 2. 金仓鼠 (Mesocricetus auratus / 叙利亚仓鼠) 的肢体语言与行为信号
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -69,7 +69,7 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 感到威胁或极度敏感的强烈警告，意思是不要靠近。<br/>
-    <strong>•  national:</strong> 立即停止互动或清理，给它们安静的空间在躲避穴中冷静下来。
+    <strong>• 应对:</strong> 立即停止互动或清理，给它们安静的空间在躲避穴中冷静下来。
   </p>
 </div>
 
@@ -80,13 +80,13 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 由突然的震动或陌生的视觉刺激引起的极度紧张和警惕状态。<br/>
-    <strong>•  national:</strong> 避免在附近发出大声或突然移动，调暗灯光以保持房间黑暗和舒适。
+    <strong>• 应对:</strong> 避免在附近发出大声或突然移动，调暗灯光以保持房间黑暗和舒适。
   </p>
 </div>
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. 金仓鼠 (Mesocricetus auratus / 叙利亚仓鼠) 定制化 3 步家庭护理流程
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

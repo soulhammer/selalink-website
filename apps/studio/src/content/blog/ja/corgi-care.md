@@ -13,11 +13,11 @@ authority: "Pembroke Welsh Corgi Club of America公式ガイド＆AKC健康指�
 steps:
   - name: "コーギーのボディランゲージ：腰と感情のサイン"
     text: "コーギーは尻尾が非常に短いか無いため、感情を表現する際に体全体とお尻を大きく動かします。特に喜んでいる時の「お尻振り（Wiggle Butt）」や、リラックスしている時に後ろ脚を後ろに伸ばす「ぺたんこ寝（Splooting）」はコーギーの代表的なサインです。これらの姿勢は関節の状態や体温調節を示す重要な指標であり、飼い主はこれを見て疲労度を診断できます。"
-  - name: "ウェルシュ・コーギー (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "ウェルシュ・コーギー (Canis lupus familiaris)のボディランゲージと行動サイン"
     text: "* お尻振り (Wiggle Butt): 尻尾の短いコーギーが表現できる、最高の喜びと興奮状態です。 (優しく応えながら撫でてあげ、興奮してソファーから飛び降りないように落ち着かせてください。)
 
 * ぺたんこ寝 (Splooting): お腹を冷たい床につけて体温を下げ、関節の緊張をほぐすリラックスのサインです。 (快適に休んでいる状態なので、邪魔をせずに静かな空間を確保してください。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "ウェルシュ・コーギー (Canis lupus familiaris)のための3ステップホームケアルーティン"
     text: "* STEP 1. 朝：滑り止めマットの固定と後ろ脚の2分間ストレッチ: 背中が長くヘルニアになりやすいため、朝にソファやベッドの下の滑り止めマットを確認し、後ろ脚の関節ストレッチを2分間行います。
 
 * STEP 2. 昼：ハーネスを着用した平地中心の30分間ノーズワーク散歩: 首輪の代わりに首や腰への負担が少ないハーネスを使用し、坂道や階段を避けた平地を中心に30分間のノーズワーク散歩を行います。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. ウェルシュ・コーギー (Canis lupus familiaris)'s Body Language & Signals
+## 2. ウェルシュ・コーギー (Canis lupus familiaris)のボディランゲージと行動サイン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ faqs:
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. ウェルシュ・コーギー (Canis lupus familiaris)のための3ステップホームケアルーティン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

@@ -13,11 +13,11 @@ authority: "Manual Oficial de Cuidados do Bulldog Francês do AKC e Padrões Vet
 steps:
   - name: "Linguagem corporal do Bulldog Francês: Ruídos respiratórios e sinais de calor"
     text: "Quando o fluxo de ar está comprometido devido a vias aéreas estreitas, os Bulldogs Franceses emitem sons característicos de 'estridor ou estertor'. Se esticarem o pescoço enquanto ofegam com a língua de fora, é um sinal de alerta crítico de aumento rápido de temperatura."
-  - name: "Bulldog Francês (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "Linguagem corporal e sinais de comportamento do Bulldog Francês (Canis lupus familiaris)"
     text: "* Respirar ruidoso e estridor (Stridor / Stertor): Indica fluxo de ar restrito devido a narinas estreitas e aumento da temperatura sob excitação. (Leve o cão imediatamente para um local com ar-condicionado ou sombra e ofereça água fresca para ele descansar.)
 
 * Ofegar intenso com pescoço esticado: Sinal crítico indicando que o cão busca oxigênio desesperadamente com o pescoço estendido para dissipar o calor. (Mantenha a temperatura da casa em 22-24°C e limpe as almofadas das patas com panos úmidos frios.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rotina diária de 3 passos para cuidados com Bulldog Francês (Canis lupus familiaris)"
     text: "* STEP 1. Manhã: Limpeza e secagem das rugas faciais: Limpe os pliques faciais ao redor dos olhos e focinho com lenço sem álcool e seque bem para evitar infecções fúngicas.
 
 * STEP 2. Tarde: Caminhada de 15 minutos em terreno plano para evitar choque térmico: Evite as horas mais quentes. Faça caminhadas curtas de 15 minutos em terreno plano no início da manhã ou final da noite.
@@ -60,7 +60,7 @@ Com suas orelhas de morcego e focinho achatado, o Bulldog Francês é um companh
 
 ---
 
-## 2. Bulldog Francês (Canis lupus familiaris)'s Body Language & Signals
+## 2. Linguagem corporal e sinais de comportamento do Bulldog Francês (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Com suas orelhas de morcego e focinho achatado, o Bulldog Francês é um companh
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rotina diária de 3 passos para cuidados com Bulldog Francês (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

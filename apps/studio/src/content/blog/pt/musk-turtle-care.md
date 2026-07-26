@@ -13,11 +13,11 @@ authority: "Diretrizes de Banho de Sol da World Chelonian Association e Protocol
 steps:
   - name: "Sinais de banho de sol da tartaruga almíscar comum e defesa de retracção da carapaça"
     text: "As tartarugas almíscar comum esticam as suas patas traseiras para trás enquanto apanham sol 'Alongamento de patas traseiras' (Back-Leg Stretching) para maximizar a absorção de luz quando estão em total calma. Pelo contrário, ao detetar ameaças ou vibrações, retraem a cabeça e extremidades na carapaça dura 'Retracção da carapaça' (Shell Retraction) para se defenderem."
-  - name: "Tartaruga Almíscar Comum (Sternotherus odoratus / Common Musk Turtle)'s Body Language & Signals"
+  - name: "Linguagem corporal e sinais de comportamento do Tartaruga Almíscar Comum (Sternotherus odoratus / Common Musk Turtle)"
     text: "* Alongamento de patas traseiras (Back-Leg Stretching): Um estado relaxado sob a lâmpada UV, esticando as extremidades para absorver calor e secar a pele. (Evite assustá-las para que não saltem de volta para a água. Monitorize a temperatura da lâmpada a partir de uma distância.)
 
 * Retracção de cabeça e extremidades (Shell Retraction): Um estado de vigilância, sobressaltado por sombras, movimento superior ou vibrações. (Evite movimentos bruscos em frente ao aquário e recue até que se sintam seguras de olhar para fora.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rotina diária de 3 passos para cuidados com Tartaruga Almíscar Comum (Sternotherus odoratus / Common Musk Turtle)"
     text: "* STEP 1. Manhã: Controlo de temperatura da água (25-28 °C) e alimentação equilibrada: Verifique o termómetro da água (manter a 25-28 °C) para activar o metabolismo e alimente com ração comercial de alta qualidade adequada para a idade.
 
 * STEP 2. Tarde: Verificação da lâmpada de banho de sol e lâmpadas UV-B: Verifique se as lâmpadas de calor UV-B e de banho de sol funcionam corretamente para evitar a doença metabólica óssea (MBD).
@@ -60,7 +60,7 @@ A tartaruga almíscar comum de tamanho compacto é ideal para principiantes pela
 
 ---
 
-## 2. Tartaruga Almíscar Comum (Sternotherus odoratus / Common Musk Turtle)'s Body Language & Signals
+## 2. Linguagem corporal e sinais de comportamento do Tartaruga Almíscar Comum (Sternotherus odoratus / Common Musk Turtle)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ A tartaruga almíscar comum de tamanho compacto é ideal para principiantes pela
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rotina diária de 3 passos para cuidados com Tartaruga Almíscar Comum (Sternotherus odoratus / Common Musk Turtle)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

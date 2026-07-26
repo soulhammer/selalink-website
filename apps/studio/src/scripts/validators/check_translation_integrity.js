@@ -162,15 +162,21 @@ async function checkTranslationIntegrity() {
       logError(`${relativePath}: 치환되지 않은 번역 키 노출 - "${keyLeakMatch[0]}"`);
     }
 
-    // 2. undefined, [object Object] 및 비영어 페이지 내 responses 노이즈 검출
+    // 2. undefined, [object Object], national 오타 및 비영어 페이지 내 responses 노이즈 검출
     if (plainText.includes('undefined')) {
       logError(`${relativePath}: 'undefined' 문자열 노출`);
     }
     if (plainText.includes('[object Object]')) {
       logError(`${relativePath}: '[object Object]' 문자열 노출`);
     }
+    if (plainText.includes('national:')) {
+      logError(`${relativePath}: UI 오타 단어 'national:' 이 노출되었습니다.`);
+    }
     if (lang !== 'en' && /\bresponses\b/i.test(plainText)) {
       logError(`${relativePath}: 비영어 페이지['${lang}'] 본문 내에 치환 오류 오염 단어 'responses'가 노출되었습니다.`);
+    }
+    if (lang !== 'en' && (plainText.includes("Body Language & Signals") || plainText.includes("Customized 3-Step Home Care Routine"))) {
+      logError(`${relativePath}: 비영어 페이지['${lang}'] 본문 내에 미번역 영문 헤더 문구가 노출되었습니다.`);
     }
 
     // 법적 의무 페이지 여부 판별

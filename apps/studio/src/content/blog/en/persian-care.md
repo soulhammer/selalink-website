@@ -13,11 +13,11 @@ authority: "Cat Fanciers' Association (CFA) Persian Breed Guidelines & AAFP Feli
 steps:
   - name: "Persian Cat Body Language: Silent Signals from Eyes and Ears"
     text: "Because Persians express emotions quietly and subtly, detecting stress can be difficult for owners. While they display deep affection through 'Half-Closed Eyes', 'Airplane Ears' (ears turned sideways and flattened) signal clear refusal or discomfort. This posture is commonly seen when brushing facial fur too hastily or handling delicate eye folds roughly."
-  - name: "Persian Cat (Felis catus)'s Body Language & Signals"
+  - name: "Persian Cat (Felis catus)'s Body Language & Behavioral Signals"
     text: "* Half-Closed Eyes: A peaceful message indicating deep trust in the owner and a highly satisfied, comfortable state. (Respond by blinking slowly back at them (a slow blink greeting) and speaking in a calm, soothing voice.)
 
 * Airplane Ears: An expression of discomfort caused by hair pulling during brushing or tension from surrounding noise. (Immediately halt brushing or touching, and grant the cat quiet space to relax undisturbed.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Customized 3-Step Home Care Routine for Persian Cat (Felis catus)"
     text: "* STEP 1. Morning: Facial Fold Cleaning and Tear Stain Management: In the morning when tearing is frequent, gently clean facial folds around the nose with lukewarm saline or a sterile wipe to prevent red yeast dermatitis.
 
 * STEP 2. Afternoon: Dual Brushing with Slicker Brush and Steel Comb: Focus on friction-prone areas like armpits and belly. Use a slicker brush first to detangle undercoat mats, then use a steel comb strand by strand to check skin ventilation.
@@ -60,7 +60,7 @@ With their plush double coat and signature round, flat faces, Persian cats are b
 
 ---
 
-## 2. Persian Cat (Felis catus)'s Body Language & Signals
+## 2. Persian Cat (Felis catus)'s Body Language & Behavioral Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ With their plush double coat and signature round, flat faces, Persian cats are b
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Customized 3-Step Home Care Routine for Persian Cat (Felis catus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

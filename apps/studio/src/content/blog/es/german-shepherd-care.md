@@ -13,11 +13,11 @@ authority: "Unión Mundial de Clubes del Perro Pastor Alemán (WUSV) y Estándar
 steps:
   - name: "Lenguaje corporal del Pastor Alemán: Ángulo de las orejas y señales de enfoque"
     text: "El Pastor Alemán expresa sus emociones con claridad mediante la postura y el movimiento de sus orejas. Mantener las orejas erguidas hacia adelante en postura firme indica una 'Postura de Alerta', un estado instintivo para vigilar el entorno. Por el contrario, 'Inclinar la cabeza' al escuchar es una señal de alta concentración cognitiva para ubicar el sonido e interpretar la intención del dueño."
-  - name: "Pastor Alemán (German Shepherd Dog)'s Body Language & Signals"
+  - name: "Lenguaje corporal y señales de conducta de Pastor Alemán (German Shepherd Dog)"
     text: "* Orejas erguidas y postura corporal rígida (Alert & Guarding Posture): Estado de intensa vigilancia ambiental y advertencia ante estímulos externos o extraños. (Emita una orden de desconexión con voz firme pero tranquila sin tensar la correa, redirigiendo su atención hacia usted.)
 
 * Mirar al dueño e inclinar la cabeza a ambos lados (Head Tilting): Curiosidad activa y enfoque cognitivo para analizar las señales auditivas y visuales del dueño. (Repita los comandos en un tono claro y alegre, recompensando de inmediato la respuesta correcta.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutina diaria de 3 pasos para el cuidado de Pastor Alemán (German Shepherd Dog)"
     text: "* STEP 1. Mañana: Paseo a intervalos combinado con entrenamiento de obediencia: Incorpore órdenes precisas como 'junto' o 'espera' durante la caminata para exigir esfuerzo mental y físico simultáneo.
 
 * STEP 2. Tarde: Juegos avanzados de rastreo (Nosework) y simulación de trabajo: Proporcione juguetes rompecabezas complejos o búsquedas de olores para canalizar su impulso de trabajo y evitar el aburrimiento.
@@ -60,7 +60,7 @@ El Pastor Alemán es admirado globalmente como perro de trabajo, policía y comp
 
 ---
 
-## 2. Pastor Alemán (German Shepherd Dog)'s Body Language & Signals
+## 2. Lenguaje corporal y señales de conducta de Pastor Alemán (German Shepherd Dog)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ El Pastor Alemán es admirado globalmente como perro de trabajo, policía y comp
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutina diaria de 3 pasos para el cuidado de Pastor Alemán (German Shepherd Dog)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

@@ -13,11 +13,11 @@ authority: "Normes de santé des animaux aquatiques de la World Small Animal Vet
 steps:
   - name: "Communication du Betta : Déploiement des ouïes (Flaring) et repos en surface"
     text: "Écarter l'opercule des ouïes et déployer pleinement ses nageoires — le « Flaring » — constitue un puissant signal d'avertissement territorial et d'excitation. Une séance quotidienne de 5 minutes stimule la musculature de ses voiles, mais un Flaring ininterrompu affaiblit ses défenses immunitaires."
-  - name: "Poisson Betta (Betta splendens / Combattant du Siam)'s Body Language & Signals"
+  - name: "Langage corporel et signaux comportementaux du Poisson Betta (Betta splendens / Combattant du Siam)"
     text: "* Déploiement des ouïes et nageoires grandes ouvertes (Flaring): Mise en garde contre une intrusion territoriale ou réaction d'agressivité et de stress face à son propre reflet sur la vitre. (Retirez les miroirs ou objets réfléchissants à proximité de l'aquarium pour limiter l'épisode à moins de 5 minutes.)
 
 * Immobile sur des feuilles près de la surface (Labyrinth Resting): Comportement de repos normal visant à soulager le poids de ses nageoires tout en respirant via l'organe labyrinthe pendant le sommeil. (Le poisson n'est pas malade ; diminuez la luminosité et réglez le filtre éponge pour éviter tout courant excessif.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Routine quotidienne en 3 étapes pour le soin du Poisson Betta (Betta splendens / Combattant du Siam)"
     text: "* STEP 1. Matin : Vérification de la température (24°C ~ 26°C) et contrôle du faible courant: Contrôlez le thermomètre pour vérifier le chauffage et assurez-vous qu'aucun courant fort ne gêne sa nage.
 
 * STEP 2. Midi : Distribution fractionnée de granulés protéinés et retrait des résidus: Donnez 3 à 4 granulés spécifiques pour Betta en plusieurs fois, puis aspirez les résidus non consommés au bout de 5 minutes à l'aide d'une pipette.
@@ -60,7 +60,7 @@ Arborant des nageoires somptueuses se déployant comme une robe et une nage d'un
 
 ---
 
-## 2. Poisson Betta (Betta splendens / Combattant du Siam)'s Body Language & Signals
+## 2. Langage corporel et signaux comportementaux du Poisson Betta (Betta splendens / Combattant du Siam)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Arborant des nageoires somptueuses se déployant comme une robe et une nage d'un
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Routine quotidienne en 3 étapes pour le soin du Poisson Betta (Betta splendens / Combattant du Siam)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

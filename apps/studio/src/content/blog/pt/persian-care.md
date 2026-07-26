@@ -13,11 +13,11 @@ authority: "Diretrizes da CFA para Gatos Persas e Padrões Veterinários de Feli
 steps:
   - name: "Linguagem corporal do gato Persa: Sinais silenciosos de olhos e orelhas"
     text: "Como os Persas expressam emoções silenciosamente, detectar o estresse pode ser difícil. Enquanto demonstram afeto através de 'olhos semicerrados' (Half-Closed Eyes), as 'orelhas de avião' (Airplane Ears) (orelhas viradas para os lados) sinalizam desconforto ou recusa clara. Isso é comum ao escovar a face de forma brusca."
-  - name: "Gato Persa (Felis catus / Persian Cat)'s Body Language & Signals"
+  - name: "Linguagem corporal e sinais de comportamento do Gato Persa (Felis catus / Persian Cat)"
     text: "* Olhos semicerrados (Half-Closed Eyes): Uma mensagem pacífica que indica profunda confiança no tutor e um estado de conforto e satisfação total. (Responda piscando lentamente para eles e falando com uma voz calma e carinhosa.)
 
 * Orelhas de avião (Airplane Ears): Expressão de desconforto por puxões nas raízes dos pelos durante a escovação ou estresse com ruído externo. (Pare a escovação imediatamente e dê espaço para o gato se acalmar em um local tranquilo.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rotina diária de 3 passos para cuidados com Gato Persa (Felis catus / Persian Cat)"
     text: "* STEP 1. Manhã: Limpeza das dobras faciais e cuidado com lágrimas: Pela manhã, limpe as dobras da pele ao redor do nariz com gaze estéril e loção própria para evitar dermatites causadas por leveduras e lágrimas.
 
 * STEP 2. Tarde: Escovação dupla com rasqueadeira e pente de aço: Concentre-se em áreas de fricção como axilas e abdômen. Use primeiro a rasqueadeira para desfazer nós, depois o pente de aço para alinhar os pelos e checar a ventilação.
@@ -60,7 +60,7 @@ Com sua pelagem dupla densa e face achatada característica, os gatos Persas sã
 
 ---
 
-## 2. Gato Persa (Felis catus / Persian Cat)'s Body Language & Signals
+## 2. Linguagem corporal e sinais de comportamento do Gato Persa (Felis catus / Persian Cat)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Com sua pelagem dupla densa e face achatada característica, os gatos Persas sã
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rotina diária de 3 passos para cuidados com Gato Persa (Felis catus / Persian Cat)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

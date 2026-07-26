@@ -13,11 +13,11 @@ authority: "Padrão oficial da raça Beagle do AKC e protocolos de comportamento
 steps:
   - name: "Linguagem corporal do Beagle: Instinto de rastreamento e significado do uivo"
     text: "Quando concentrados em um cheiro, os Beagles encostam o focinho no chão e andam em linha reta ('Ground-Tracking'), ignorando barulhos ao redor enquanto gastam energia. Por outro lado, o 'uivo' quando ficam sozinhos é uma expressão clássica de ansiedade de separação e estresse. Reconhecer ambos os sinais é fundamental para manter o cão equilibrado."
-  - name: "Beagle's Body Language & Signals"
+  - name: "Linguagem corporal e sinais de comportamento do Beagle"
     text: "* Rastreamento com focinho no chão (Ground-Tracking): Um estado normal de estimulação onde o cão explora o ambiente pelo olfato e gasta energia de cão de caça. (Não dê trancos na guia; dê tempo para ele farejar com segurança e explorar a trilha para satisfazer suas necessidades mentais.)
 
 * Uivo (Howling): Expressão de ansiedade, solidão, tédio ou energia acumulada buscando atenção e alívio. (Evite brigar com o cão. Resolva a causa raiz aumentando os passeios e oferecendo brinquedos de faro em casa.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rotina diária de 3 passos para cuidados com Beagle"
     text: "* STEP 1. Manhã: Jogo de caça aos petiscos dentro de casa: Após o café da manhã, esconda petiscos em copos de papel ou pela casa para exercitar a inteligência olfativa e gastar energia mental logo cedo.
 
 * STEP 2. Tarde: Caminhada ativa de rastreamento de mais de 40 minutos: Ganta um passeio diário de pelo menos 40 minutos. Deixe-o farejar a grama e o ambiente livremente, sem restrições desnecessárias.
@@ -60,7 +60,7 @@ Adorados por suas grandes orelhas caídas e cauda com ponta branca que balança 
 
 ---
 
-## 2. Beagle's Body Language & Signals
+## 2. Linguagem corporal e sinais de comportamento do Beagle
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Adorados por suas grandes orelhas caídas e cauda com ponta branca que balança 
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rotina diária de 3 passos para cuidados com Beagle
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

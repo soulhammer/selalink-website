@@ -13,11 +13,11 @@ authority: "Estándares de la Cat Fanciers' Association (TICA) y Directrices de 
 steps:
   - name: "Lenguaje corporal del Bosque de Noruega: Señales de confianza y alerta silvestre"
     text: "El Bosque de Noruega conserva una nobleza silvestre con una forma de comunicarse tranquila e inteligente. Acercarse despacio con la cola erguida verticalmente y la punta curvada en forma de signo de interrogación (?) es un claro mensaje de profunda confianza y afecto. Por el contrario, las pupilas dilatadas junto a las 'orejas en avión' planas señalan que el felino percibe una amenaza o siente ansiedad en su entorno."
-  - name: "Gato Bosque de Noruega (Felis catus / Norwegian Forest Cat)'s Body Language & Signals"
+  - name: "Lenguaje corporal y señales de conducta de Gato Bosque de Noruega (Felis catus / Norwegian Forest Cat)"
     text: "* Cola erguida con punta curvada en signo de interrogación: Señal de satisfacción y curiosidad que expresa alegría y afecto al acercarse al dueño. (Responda con voz suave y acaricie con delicadeza la zona de la cabeza y mejillas para fortalecer la unión.)
 
 * Pupilas dilatadas y orejas planas en avión: Estado de alerta y tensión provocado por ruidos repentinos o un ambiente extraño. (Evite el contacto visual directo y deje que el gato se refugie por sí mismo en un árbol rascador alto o escondite tranquilo.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutina diaria de 3 pasos para el cuidado de Gato Bosque de Noruega (Felis catus / Norwegian Forest Cat)"
     text: "* STEP 1. Mañana: Juego dinámico de caza vertical en árboles rascadores: Mueva varitas con plumas arriba y abajo en torres para gatos para estimular su capacidad natural de escalada e instinto cazador.
 
 * STEP 2. Tarde: Cepillado profundo del manto triple impermeable con carda y peine: Focalice el cepillado en axilas y pecho para eliminar el subpelo muerto con un peine metálico y carda, evitando nudos y dermatitis.
@@ -60,7 +60,7 @@ El gato Bosque de Noruega es una raza natural adaptada para sobrevivir a los gé
 
 ---
 
-## 2. Gato Bosque de Noruega (Felis catus / Norwegian Forest Cat)'s Body Language & Signals
+## 2. Lenguaje corporal y señales de conducta de Gato Bosque de Noruega (Felis catus / Norwegian Forest Cat)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ El gato Bosque de Noruega es una raza natural adaptada para sobrevivir a los gé
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutina diaria de 3 pasos para el cuidado de Gato Bosque de Noruega (Felis catus / Norwegian Forest Cat)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

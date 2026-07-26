@@ -13,11 +13,11 @@ authority: "美国养犬俱乐部 (AKC) 官方犬种指南与 IAABC 行为学协
 steps:
   - name: "马尔济斯的身体语言：压力与放松的表达"
     text: "马尔济斯犬对家长的依赖度很高，因此它们会用微妙的身体姿势默默表达内心的不安。最典型的放松信号（Calming Signal）是 “舔鼻子（Nose Licking）” 和 “打哈欠（Yawning）”。当处于紧张或陌生的环境中时，它们舔鼻或打大哈欠并不是因为疲倦，而是为了让自己冷静下来，并向周围传递“我没有恶意，请不要伤害我”的和平信息。如果家长此时继续过度抚摸，会导致其压力飙升，因此最好退后一步，给它们留出空间。"
-  - name: "马尔济斯犬 (Canis lupus familiaris / Maltese)'s Body Language & Signals"
+  - name: "马尔济斯犬 (Canis lupus familiaris / Maltese) 的肢体语言与行为信号"
     text: "* 打哈欠 (Yawning): 并非因为困倦，而是为了安抚自己与对方而发出的“请冷静”的信号。 (如果在训练或修剪指甲过程中它们开始打哈欠，应立即停止并给予安静的休息空间。)
 
 * 舔鼻 (Nose Licking): 在当前环境中感到尴尬、紧张或焦虑时自我安抚的表达。 (如果抱它们或有陌生人靠近时出现此动作，请停止身体接触并退后留出空间。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "马尔济斯犬 (Canis lupus familiaris / Maltese) 定制化 3 步家庭护理流程"
     text: "* STEP 1. 早晨：防滑环境检查与关节拉伸: 早晨起床检查防滑垫是否移位。当马尔济斯犬伸懒腰时，温柔按摩其后肢关节以舒缓僵硬肌肉。同时必须检查并修剪足底肉垫处的杂毛以防打滑。
 
 * STEP 2. 中午/下午：使用排梳进行眼部卫生护理: 每天一次，使用细齿排梳与专用洗眼液整理眼周湿润的毛发。湿毛发长期氧化会产生红褐色泪痕并诱发皮肤炎，梳理后需用干棉球擦干水分以保持干燥。
@@ -64,7 +64,7 @@ faqs:
 
 ---
 
-## 2. 马尔济斯犬 (Canis lupus familiaris / Maltese)'s Body Language & Signals
+## 2. 马尔济斯犬 (Canis lupus familiaris / Maltese) 的肢体语言与行为信号
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -73,7 +73,7 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 并非因为困倦，而是为了安抚自己与对方而发出的“请冷静”的信号。<br/>
-    <strong>•  national:</strong> 如果在训练或修剪指甲过程中它们开始打哈欠，应立即停止并给予安静的休息空间。
+    <strong>• 应对:</strong> 如果在训练或修剪指甲过程中它们开始打哈欠，应立即停止并给予安静的休息空间。
   </p>
 </div>
 
@@ -84,13 +84,13 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 在当前环境中感到尴尬、紧张或焦虑时自我安抚的表达。<br/>
-    <strong>•  national:</strong> 如果抱它们或有陌生人靠近时出现此动作，请停止身体接触并退后留出空间。
+    <strong>• 应对:</strong> 如果抱它们或有陌生人靠近时出现此动作，请停止身体接触并退后留出空间。
   </p>
 </div>
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. 马尔济斯犬 (Canis lupus familiaris / Maltese) 定制化 3 步家庭护理流程
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

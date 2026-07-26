@@ -13,11 +13,11 @@ authority: "Official Chihuahua Club of America Breed Manual & AVMA Toy Breed Met
 steps:
   - name: "Chihuahua's Signals: Emotional Shivering and Defensive Growling"
     text: "Chihuahuas are highly sensitive and express strong alerts due to their tiny size. Key behaviors include 'shivering' and 'growling'. Shivering occurs not only due to cold but when experiencing intense emotions like excitement, fear, or anxiety, as their hyper-sensitive nervous system triggers muscle contractions. Growling while showing teeth is an alert born of fear, asking you to step back. Forcing physical contact during this time can trigger defensive biting. Always give them space."
-  - name: "Chihuahua (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "Chihuahua (Canis lupus familiaris)'s Body Language & Behavioral Signals"
     text: "* Shivering / Trembling: Occurs due to cold weather, or as a physical response when intense emotions like excitement, fear, or tension peak. (Wrap them in a warm blanket and hold them quietly in a noise-free room to calm their nerves.)
 
 * Growling with Teeth Shown: A strong warning derived from fear that contact feels threatening, asking you to stop and step back. (Stop moving or touching immediately, back away, and let them calm down on their own.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Customized 3-Step Home Care Routine for Chihuahua (Canis lupus familiaris)"
     text: "* STEP 1. Morning: Forehead Protection Check and Indoor Warmth Setup: Do not apply pressure to their forehead (molera). Chihuahuas are sensitive to cold, so ensure the indoor temperature is kept warm around 24-26°C.
 
 * STEP 2. Afternoon: Short Nosework Walk and Sound Desensitization Session: Avoid forced dog socializations due to high alertness. Let them sniff/nosework, and practice 5-minute counter-conditioning (giving treats when doorbell rings) to prevent barks.
@@ -64,7 +64,7 @@ Today, PetSelf decodes Chihuahua body language and introduces a precise 3-step h
 
 ---
 
-## 2. Chihuahua (Canis lupus familiaris)'s Body Language & Signals
+## 2. Chihuahua (Canis lupus familiaris)'s Body Language & Behavioral Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -90,7 +90,7 @@ Today, PetSelf decodes Chihuahua body language and introduces a precise 3-step h
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Customized 3-Step Home Care Routine for Chihuahua (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

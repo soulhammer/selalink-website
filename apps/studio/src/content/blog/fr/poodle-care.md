@@ -13,11 +13,11 @@ authority: "Guide Officiel des Races de l'American Kennel Club (AKC) et Protocol
 steps:
   - name: "Langage corporel du caniche : Distinguer la demande du stress"
     text: "En raison de leur intelligence, les caniches communiquent activement par le langage corporel. Les signaux typiques incluent lever la patte (Paw Raising) et cligner doucement des yeux (Soft Blinking). Lorsqu'un caniche lève une patte avant, cela ressemble à une demande de poignée de main, mais c'est souvent un message disant 'occupe-toi de moi' ou un signal d'apaisement signifiant 'je suis un peu tendu, sois doux'. Regarder doucement et cligner lentement des yeux est leur façon de montrer de l'affection."
-  - name: "Caniche (Canis lupus familiaris / Poodle)'s Body Language & Signals"
+  - name: "Langage corporel et signaux comportementaux du Caniche (Canis lupus familiaris / Poodle)"
     text: "* Lever la patte (Paw Raising): Une expression pour demander de l'attention ou tenter de calmer une légère tension. (Si vous le remarquez, évitez de donner des ordres stricts. Parlez calmement et caressez-le doucement.)
 
 * Cligner doucement des yeux (Soft Blinking): Un signe de confiance profonde et d'affection, confirmant qu'il se sent en sécurité avec vous. (Quand vos regards se croisent, clignez des yeux lentement pour partager ce sentiment de paix.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Routine quotidienne en 3 étapes pour le soin du Caniche (Canis lupus familiaris / Poodle)"
     text: "* STEP 1. Matin : Stimulation cognitive avec des jeux d'intelligence: En plus des promenades physiques, utilisez des gamelles anti-glouton ou des tapis de fouille pour stimuler leur esprit vif, les aidant à canaliser leur trop-plein d'énergie.
 
 * STEP 2. Après-midi : Contrôle des oreilles et massage de nettoyage doux: Versez 2 à 3 gouttes de nettoyant auriculaire dans le conduit, massez doucement la base de l'oreille et essuyez le cérumen dissous avec un coton pour prévenir les otites.
@@ -60,7 +60,7 @@ Les caniches sont reconnus comme l'une des races de chiens les plus intelligente
 
 ---
 
-## 2. Caniche (Canis lupus familiaris / Poodle)'s Body Language & Signals
+## 2. Langage corporel et signaux comportementaux du Caniche (Canis lupus familiaris / Poodle)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Les caniches sont reconnus comme l'une des races de chiens les plus intelligente
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Routine quotidienne en 3 étapes pour le soin du Caniche (Canis lupus familiaris / Poodle)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

@@ -13,11 +13,11 @@ authority: "Asociación de Veterinarios Aviares (AAV) y Protocolos del World Par
 steps:
   - name: "Lenguaje corporal del Periquito: Rechinado de pico y contraibilidad pupilar (Pupil Pinning)"
     text: "Los periquitos comunican su estado emocional con sonidos de su pico y cambios en sus ojos. 'Rechinar el pico (Beak Grinding)' antes de dormir es un signo clásico de tranquilidad y satisfacción. En cambio, la rápida contracción y dilatación de la pupila, conocida como 'Pupil Pinning', indica alta curiosidad, excitación o intensa concentración."
-  - name: "Perico Australiano / Periquito (Budgerigar / Budgie)'s Body Language & Signals"
+  - name: "Lenguaje corporal y señales de conducta de Perico Australiano / Periquito (Budgerigar / Budgie)"
     text: "* Sonido crujiente al frotar el pico (Beak Grinding): Señala relajación profunda, seguridad y comodidad justo antes de descansar o dormir. (Evite molestarlo y atenúe las luces para crear un entorno silencioso adecuado para el sueño.)
 
 * Contracción rápida de las pupilas (Pupil Pinning): Muestra un estado de gran excitación, curiosidad o enfoque intenso ante un juguete, voz o estímulo. (Háblele con voz suave para calmar sus emociones y prevenir picotazos por sobreestimulación.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutina diaria de 3 pasos para el cuidado de Perico Australiano / Periquito (Budgerigar / Budgie)"
     text: "* STEP 1. Mañana: Alimentación con pienso extruido, verduras frescas y ventilación: Reduzca las semillas para prevenir la lipidosis hepática y proporcione pienso extruido con vegetales de hoja verde mientras renueva el aire.
 
 * STEP 2. Tarde: Juguetes de forrajeo y tiempo de vuelo seguro fuera de la jaula: Ofrezca juguetes para triturar papel que eviten el picaje por aburrimiento y permita el vuelo en una habitación segura con ventanas cerradas.
@@ -60,7 +60,7 @@ El Perico Australiano (Budgie) es un ave de compañía sumamente popular gracias
 
 ---
 
-## 2. Perico Australiano / Periquito (Budgerigar / Budgie)'s Body Language & Signals
+## 2. Lenguaje corporal y señales de conducta de Perico Australiano / Periquito (Budgerigar / Budgie)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ El Perico Australiano (Budgie) es un ave de compañía sumamente popular gracias
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutina diaria de 3 pasos para el cuidado de Perico Australiano / Periquito (Budgerigar / Budgie)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

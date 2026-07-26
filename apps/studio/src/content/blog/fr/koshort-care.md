@@ -13,11 +13,11 @@ authority: "Guide Comportemental du Cornell Feline Health Center et Manuel de So
 steps:
   - name: "Langage corporel félin : L'expression ultime de la confiance"
     text: "L'une des plus fortes expressions de confiance d'un chat envers son maître est la « queue dressée à la verticale » (Tail Up) et le « ronronnement » (Purring). S'approcher avec la queue levée est un signal amical et une demande de communication. De plus, le ronronnement calme leur esprit. Notez que le ronronnement peut aussi être un signal d'autoguérison en cas de douleur. Si le chat se cache dans un endroit sombre et ronronne avec un air abattu, surveillez-le attentivement."
-  - name: "Shorthair Coréen (Felis catus)'s Body Language & Signals"
+  - name: "Langage corporel et signaux comportementaux du Shorthair Coréen (Felis catus)"
     text: "* Queue dressée (Tail Up): Une expression de grande amitié, de communication positive et de joie envers le maître. (Répondez par un contact visuel doux ou une caresse sous le menton pour renforcer le lien.)
 
 * Ronronnement (Purring): Généralement émis quand il est heureux, mais peut aussi être un signal d'auto-apaisement face à la douleur ou l'anxiété. (S'il ronronne en se cachant dans un coin sombre, observez-le pour vous assurer qu'il n'est pas blessé ou malade.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Routine quotidienne en 3 étapes pour le soin du Shorthair Coréen (Felis catus)"
     text: "* STEP 1. Matin : Inspection de l'espace vertical et vue sur l'extérieur: Lors de l'aération matinale, ouvrez les stores près des arbres à chat situés près des fenêtres. Assurer un espace vertical et leur permettre de regarder l'extérieur offre une stimulation mentale et réduit le stress lié au confinement.
 
 * STEP 2. Après-midi : Routine de jeu de chasse simulée de 15 minutes: Faites un jeu de chasse simulé avec un plumeau ou une canne à pêche pendant 15 minutes par jour. Les chats étant des prédateurs, chasser les jouets et faire l'expérience de la capture prévient la frustration et augmente l'activité.
@@ -64,7 +64,7 @@ Aujourd'hui, PetSelf étudie le langage corporel de ces chats et partage une rou
 
 ---
 
-## 2. Shorthair Coréen (Felis catus)'s Body Language & Signals
+## 2. Langage corporel et signaux comportementaux du Shorthair Coréen (Felis catus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -90,7 +90,7 @@ Aujourd'hui, PetSelf étudie le langage corporel de ces chats et partage une rou
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Routine quotidienne en 3 étapes pour le soin du Shorthair Coréen (Felis catus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

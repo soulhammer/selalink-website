@@ -13,11 +13,11 @@ authority: "英国ヨークシャーテリアクラブ(YTC)公式被毛ガイド
 steps:
   - name: "ヨークシャーテリアのボディランゲージ：小さなハンターの警戒と甘えのサイン"
     text: "テリア種の血を引くヨーキーは、小さな体にもかかわらず強い防衛・狩猟本能を持っています。耳を後ろに密着させて尻尾を水平にピンと立てる時は、外部の微細な音に緊張・警戒しています。反対に、仰向けになってお腹を見せながら手足をバタバタさせるのは、飼い主を完全に信頼し甘えているサインです。"
-  - name: "ヨークシャーテリア (Yorkshire Terrier)'s Body Language & Signals"
+  - name: "ヨークシャーテリア (Yorkshire Terrier)のボディランゲージと行動サイン"
     text: "* 耳を後ろに引き尻尾を水平に立てる (Pinned Ears & Rigid Tail): 外部の微細な刺激や音に反応して興奮したか、防衛的な警戒態勢を取っているサインです。 (すぐに抱き上げずに床の上で落ち着いて名前を呼び、おやつで気を引いて興奮を静めましょう。)
 
 * 仰向けでお腹を見せ手足を動かす (Belly Show & Air Paddling): 極めて高い心理的安心感を感じており、飼い主の注目や愛情を求めている状態です。 (胸やお腹を優しくマッサージし、互いの信頼と絆を深めましょう。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "ヨークシャーテリア (Yorkshire Terrier)のための3ステップホームケアルーティン"
     text: "* STEP 1. 朝：被毛ミストとピンブラシによるもつれ防止ブラッシング: ブラッシング前に専用保湿ミストを軽く吹きかけ、ピンブラシで毛根から毛先まで優しく梳かして静電気と切れ毛を防ぎます。
 
 * STEP 2. 昼：膝蓋骨保護のための足裏毛カットと滑り止めマット点検: フローリングで滑って膝関節を傷めないよう足裏の毛をカットし、滑り止めマットの配置を点検します。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. ヨークシャーテリア (Yorkshire Terrier)'s Body Language & Signals
+## 2. ヨークシャーテリア (Yorkshire Terrier)のボディランゲージと行動サイン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ faqs:
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. ヨークシャーテリア (Yorkshire Terrier)のための3ステップホームケアルーティン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

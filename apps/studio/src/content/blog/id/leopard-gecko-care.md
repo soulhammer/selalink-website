@@ -13,11 +13,11 @@ authority: "Association of Reptilian and Amphibian Veterinarians (ARAV) Care Gui
 steps:
   - name: "Bahasa Tubuh Gecko: Gerakan Ekor Pertahanan & Tanda Moulting"
     text: "Ekor gecko yang gemuk berfungsi sebagai cadangan lemak dan alat komunikasi. Membedakan gerakan ekor perlahan saat terancam dengan getaran gembira saat berburu sangat penting agar tidak menimbulkan stres."
-  - name: "Leopard Gecko (Eublepharis macularius)'s Body Language & Signals"
+  - name: "Bahasa Tubuh dan Sinyal Perilaku Leopard Gecko (Eublepharis macularius)"
     text: "* Ekor Diangkat & Mengayun Perlahan Bentuk 'S' (Slow Tail Waving): Postur pertahanan kewaspadaan tinggi saat gecko merasa terancam atau kaget oleh potensi bahaya. (Hentikan memegang gecko segera, tarik tangan perlahan, dan biarkan gecko bersembunyi tanpa gangguan.)
 
 * Kulit Memucat Putih Kusam & Menggosok Mata (Pre-Shedding Signal): Tanda awal proses berganti kulit (moulting/ecdysis); lapisan kulit lama terlepas dan membutuhkan kelembapan tinggi. (Semprotkan air hangat pada alas di dalam tempat sembunyi lembap untuk menaikkan kelembapan di atas 70%.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutinitas Perawatan Harian 3 Langkah untuk Leopard Gecko (Eublepharis macularius)"
     text: "* STEP 1. Pagi: Cek Gradien Suhu Terarium & Semprot Tempat Sembunyi Lembap: Cek suhu alas pemanas (30°C ~ 32°C) dan basahi alas tempat sembunyi lembap dengan air hangat.
 
 * STEP 2. Siang: Suasana Tenang & Tempat Sembunyi Gelap untuk Tidur Siang: Jauhkan dari sinar matahari langsung dan kebisingan agar tidur nokturnalnya tidak terganggu.
@@ -60,7 +60,7 @@ Dengan senyuman khas dan ekor bintik-bintik yang indah, Leopard Gecko adalah pil
 
 ---
 
-## 2. Leopard Gecko (Eublepharis macularius)'s Body Language & Signals
+## 2. Bahasa Tubuh dan Sinyal Perilaku Leopard Gecko (Eublepharis macularius)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Dengan senyuman khas dan ekor bintik-bintik yang indah, Leopard Gecko adalah pil
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutinitas Perawatan Harian 3 Langkah untuk Leopard Gecko (Eublepharis macularius)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

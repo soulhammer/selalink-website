@@ -13,11 +13,11 @@ authority: "美国家兔协会 (HRS) 与 特殊小动物兽医师学会 (AEMV) �
 steps:
   - name: "荷兰垂耳兔的情绪语言：Binky快乐舞与跺脚警告解密"
     text: "兔子主要通过肢体动作表达情感。在空中腾空拧身跳跃的 “Binky舞” 代表极致的快乐，而用后脚猛烈跺脚 （Thumping） 则是表达警惕与强烈不满。"
-  - name: "荷兰垂耳兔 (Oryctolagus cuniculus / Holland Lop)'s Body Language & Signals"
+  - name: "荷兰垂耳兔 (Oryctolagus cuniculus / Holland Lop) 的肢体语言与行为信号"
     text: "* 空中腾空跃起并扭动身体 (Binky Dance): 对当前环境与主人感到极度安全、兴奋与幸福的最高级快乐表达。 (铺设防滑地毯，扩大活动范围，让其尽情奔跑欢跳。)
 
 * 用后脚用力跺击地面 (Thumping / 跺脚): 受到外界异常噪音、陌生气味惊吓，或因未得到食物而表达强烈的警惕与抗议。 (排查环境中的惊吓源（噪音或异宠），用轻柔低沉的声音抚慰兔子。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "荷兰垂耳兔 (Oryctolagus cuniculus / Holland Lop) 定制化 3 步家庭护理流程"
     text: "* STEP 1. 早晨：无限量提摩西干草补充与饮水器换水: 将干草架塞满新鲜1切提摩西干草，确保肠道24小时持续蠕动并促进磨牙。
 
 * STEP 2. 下午：垂耳内部通气检查与日间睡眠保护: 轻轻掀起下垂的耳朵检查耳道是否发红或有异味，保持环境安静以保证睡眠。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. 荷兰垂耳兔 (Oryctolagus cuniculus / Holland Lop)'s Body Language & Signals
+## 2. 荷兰垂耳兔 (Oryctolagus cuniculus / Holland Lop) 的肢体语言与行为信号
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -69,7 +69,7 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 对当前环境与主人感到极度安全、兴奋与幸福的最高级快乐表达。<br/>
-    <strong>•  national:</strong> 铺设防滑地毯，扩大活动范围，让其尽情奔跑欢跳。
+    <strong>• 应对:</strong> 铺设防滑地毯，扩大活动范围，让其尽情奔跑欢跳。
   </p>
 </div>
 
@@ -80,13 +80,13 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 受到外界异常噪音、陌生气味惊吓，或因未得到食物而表达强烈的警惕与抗议。<br/>
-    <strong>•  national:</strong> 排查环境中的惊吓源（噪音或异宠），用轻柔低沉的声音抚慰兔子。
+    <strong>• 应对:</strong> 排查环境中的惊吓源（噪音或异宠），用轻柔低沉的声音抚慰兔子。
   </p>
 </div>
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. 荷兰垂耳兔 (Oryctolagus cuniculus / Holland Lop) 定制化 3 步家庭护理流程
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

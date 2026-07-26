@@ -13,11 +13,11 @@ authority: "Guide Officiel des Races de l'American Kennel Club (AKC) et Protocol
 steps:
   - name: "Langage corporel du Golden Retriever : Comprendre la confiance et les signaux de communication"
     text: "Les Golden Retrievers expriment leurs émotions par des mouvements et des expressions faciales très clairs. Un signal clé de confiance est le « contact visuel doux » (Soft Eye Contact). Contrairement au regard fixe et tendu, plisser doucement les yeux tout en maintenant le contact visuel traduit une profonde affection, de la confiance et une volonté de connexion psychologique. Répondre par des félicitations calmes stimule l'ocytocine et renforce sa sérénité. En revanche, un corps raide avec la queue haute indique de la tension."
-  - name: "Golden Retriever (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "Langage corporel et signaux comportementaux du Golden Retriever (Canis lupus familiaris)"
     text: "* Contact visuel doux (Soft Eye Contact): Un contact visuel positif témoignant d'une confiance totale envers son maître, d'affection et d'un lien psychologique fort. (Répondez en clignant des yeux lentement et en le félicitant d'une voix douce et calme.)
 
 * Frétillement de tout le corps (Full Body Wagging): Une expression active de convivialité et de joie, montrant un confort extrême et un attachement profond. (Caressez doucement son poitrail ou ses épaules pour partager calmement son enthousiasme.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Routine quotidienne en 3 étapes pour le soin du Golden Retriever (Canis lupus familiaris)"
     text: "* STEP 1. Matin : Jeu de rapport pour satisfaire ses instincts de chasseur: Comme il aime transporter des objets, jouez à rapporter une balle douce pendant 5 à 10 minutes à la maison ou au jardin avant la promenade pour dépenser son énergie matinale en toute sécurité.
 
 * STEP 2. Après-midi : Promenade dynamique d'une heure avec exploration olfactive: En tant que grand chien très actif, il a besoin d'au moins une heure d'exercice par jour. Lui permettre de renifler dans des zones sûres réduit le stress et évite les comportements destructeurs à la maison.
@@ -60,7 +60,7 @@ Le Golden Retriever, adoré dans le monde entier pour son pelage doré et sa dou
 
 ---
 
-## 2. Golden Retriever (Canis lupus familiaris)'s Body Language & Signals
+## 2. Langage corporel et signaux comportementaux du Golden Retriever (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Le Golden Retriever, adoré dans le monde entier pour son pelage doré et sa dou
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Routine quotidienne en 3 étapes pour le soin du Golden Retriever (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

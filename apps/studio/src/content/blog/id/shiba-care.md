@@ -13,11 +13,11 @@ authority: "Klub Nasional Shiba Inu Amerika & Pedoman Modifikasi Perilaku IAABC"
 steps:
   - name: "Bahasa Tubuh Shiba Inu: Isyarat Tekanan dan Pelepasan Stres"
     text: "Shiba Inu mengekspresikan batasan mereka secara jelas dan tenang. Sinyal utama meliputi 'memalingkan muka' dan 'mengibaskan tubuh'. Ketika seseorang mengulurkan tangan untuk menyentuh mereka dan Shiba memalingkan kepala, itu adalah permintaan sopan yang mengatakan 'tolong jangan sentuh aku sekarang.' Mengibaskan tubuh setelah kejadian stres adalah mekanisme naluriah untuk melepaskan ketegangan fisik dan memulihkan kondisi mental."
-  - name: "Shiba Inu's Body Language & Signals"
+  - name: "Bahasa Tubuh dan Sinyal Perilaku Shiba Inu"
     text: "* Memalingkan Muka: Permintaan sopan yang meminta orang tersebut berhenti mendekat atau menyentuh, mengekspresikan tekanan. (Jika melihat ini, jangan mencoba menyentuh mereka. Tarik tangan Anda dan beri mereka ruang.)
 
 * Mengibaskan Tubuh: Tindakan yang dimaksudkan untuk melepaskan stres atau ketegangan fisik setelah suatu kejadian. (Jika mereka mengibas selama perawatan, mereka sedang melepaskan ketegangan. Hentikan aktivitas dan biarkan mereka istirahat.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutinitas Perawatan Harian 3 Langkah untuk Shiba Inu"
     text: "* STEP 1. Pagi: Desensitisasi Sentuhan Area Sensitif: Sentuh kaki atau pinggul mereka sebentar selama 1 detik, lalu beri hadiah berupa camilan lezat bernilai tinggi. Ulangi untuk membangun asosiasi positif dengan sentuhan.
 
 * STEP 2. Siang: Menyikat Bulu Ganda dengan Stres Rendah: Gunakan sikat slicker untuk menyikat lembut searah pertumbuhan bulu. Jika mereka menunjukkan tanda ketidaknyamanan atau menggeram, segera hentikan.
@@ -60,7 +60,7 @@ Shiba Inu dicintai secara global karena penampilan mirip rubah dan ekor melingka
 
 ---
 
-## 2. Shiba Inu's Body Language & Signals
+## 2. Bahasa Tubuh dan Sinyal Perilaku Shiba Inu
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Shiba Inu dicintai secara global karena penampilan mirip rubah dan ekor melingka
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutinitas Perawatan Harian 3 Langkah untuk Shiba Inu
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

@@ -13,11 +13,11 @@ authority: "Rasseführer der Cat Fanciers' Association (CFA) und AAFP-Richtlinie
 steps:
   - name: "Beschwichtigungssignale der Ragdoll: Langsames Blinzeln und entspanntes Zehenspreizen"
     text: "Ragdolls zeigen ihr hohes Vertrauen nicht nur durch Erschlaffen, sondern auch durch feine Augen- und Pfotengesten. Zu den wichtigsten Beruhigungssignalen gehören 'Langsames Blinzeln' (Slow Blink) und 'Zehenspreizen' (Paw Flexing). Sie anzusehen und langsam zu blinzeln ist eine friedliche Botschaft voller Zuneigung. Wenn sie sich extrem wohl fühlen, spreizen sie ihre Zehen wie einen Fächer. Das Streicheln unter dem Kinn in diesem Moment maximiert ihr Wohlbefinden."
-  - name: "Ragdoll (Felis catus)'s Body Language & Signals"
+  - name: "Körpersprache und Verhaltenssignale von Ragdoll (Felis catus)"
     text: "* Langsames Blinzeln (Slow Blink): Ein Zeichen tiefster Zuneigung, das zeigt, dass sie Ihnen vollkommen vertrauen und sich sicher fühlen. (Antworten Sie im gleichen Tempo mit langsamem Blinzeln, um die Bindung zu stärken.)
 
 * Zehenspreizen (Paw Flexing): Zeigt extremen psychischen Komfort, der an das behagliche Säugen als Kätzchen erinnert. (Hören Sie nicht auf zu streicheln; krauen Sie weiter sanft das Kinn oder den Halsbereich.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Maßgeschneiderte 3-Schritte-Tagesroutine für Ragdoll (Felis catus)"
     text: "* STEP 1. Morgen: Leichtes Dehnen zur Aktivierung des Bewegungsapparats: Da es sich um eine große Rasse handelt, ermüden die Hintergelenke leicht. Dehnen Sie morgens sanft die Hinterbeine, um die Beweglichkeit der Gelenke zu schützen.
 
 * STEP 2. Nachmittag: Bürsten mit einer Pinbürste zur Vermeidung von Verfilzungen: Das Unterfell ist weich und dicht, wodurch es leicht verfilzt. Bürsten Sie mit einer abgerundeten Pinbürste entlang des Fells, um Luft an die Haut zu lassen und Hautprobleme vorzubeugen.
@@ -64,7 +64,7 @@ Heute entschlüsselt PetSelf die Körpersprache der Ragdoll und stellt eine sich
 
 ---
 
-## 2. Ragdoll (Felis catus)'s Body Language & Signals
+## 2. Körpersprache und Verhaltenssignale von Ragdoll (Felis catus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -90,7 +90,7 @@ Heute entschlüsselt PetSelf die Körpersprache der Ragdoll und stellt eine sich
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Maßgeschneiderte 3-Schritte-Tagesroutine für Ragdoll (Felis catus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

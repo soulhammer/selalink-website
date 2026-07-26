@@ -13,11 +13,11 @@ authority: "Cat Fanciers' Association (CFA) Official Breed Guide & AAFP Feline B
 steps:
   - name: "Siamese Body Language: Signs of Complete Trust and Possessiveness"
     text: "Siamese cats show their affection in clear, interactive ways with rich calming signals. Typical signals include 'slow blinking' and 'bunting'. Closing their eyes slowly while maintaining eye contact is a statement of ultimate safety and peace—closing eyes in front of another in the wild is a risky move, proving they view you as a completely harmless companion. Rubbing their cheeks or forehead against your hand is their way of sharing comforting facial pheromones and marking you as their trusted person."
-  - name: "Siamese's Body Language & Signals"
+  - name: "Siamese's Body Language & Behavioral Signals"
     text: "* Slow Blink: A display of complete safety and deep affection, often described as a feline kiss. (Lock eyes gently and return the gesture by closing and opening your eyes slowly for 1.5 seconds.)
 
 * Bunting: An action leaving their facial scent (pheromones) to mark you as their safe person and confirm attachment. (Gently scratch their chin or cheeks, allowing them to happily exchange scents with you.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Customized 3-Step Home Care Routine for Siamese"
     text: "* STEP 1. Morning: 10-Minute High-Contact Greeting to Prevent Anxiety: To ease separation anxiety in this sensitive breed, spend 10 minutes petting your Siamese and speaking softly to them under the blanket immediately after waking up.
 
 * STEP 2. Afternoon: Interactive Play and Food Puzzle Placement: Keep them busy during the day with treat puzzles or foraging toys. When you return home, dedicate at least 15 minutes to high-energy feather wand chase games.
@@ -60,7 +60,7 @@ Siamese cats, originating from the royal family of Thailand, are elegant compani
 
 ---
 
-## 2. Siamese's Body Language & Signals
+## 2. Siamese's Body Language & Behavioral Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Siamese cats, originating from the royal family of Thailand, are elegant compani
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Customized 3-Step Home Care Routine for Siamese
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

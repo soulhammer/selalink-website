@@ -13,11 +13,11 @@ authority: "アメリカンケネルクラブ(AKC)公式ラブラドール・レ
 steps:
   - name: "ラブラドール・レトリバーのボディランゲージ：ソフトマウスと食欲サイン"
     text: "ラブラドール・レトリバーには、獲物を傷つけずに優しく咥えて運ぶ「ソフトマウス（Soft Mouth）」の習性があります。おもちゃや物を潰さずにそっと咥えてくる行動は、親愛と遊びの誘いのサインです。一方、膝の上に顎を乗せてじっと見つめてくる行動は、強い食欲からくるおやつのおねだりサインです。"
-  - name: "ラブラドール・レトリバー (Labrador Retriever)'s Body Language & Signals"
+  - name: "ラブラドール・レトリバー (Labrador Retriever)のボディランゲージと行動サイン"
     text: "* 物を壊さずに優しく咥えてくる (Soft Mouth): 鳥猟犬（レトリバー）としての本能的行動であり、飼い主への深い愛情と信頼の表現です。 (無理に奪い取らずに褒めてあげた後、適切なもってこい遊び（フェッチ）で欲求を満たしてあげましょう。)
 
 * 膝の上に顎を乗せて見つめる (Begging & Eye Contact): POMC遺伝子変異による慢性的な満腹感不足とおやつの要求サインです。 (無条件におやつを与えるのではなく、規則正しい食事管理と低カロリーなノーズワークで体重をコントロールしましょう。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "ラブラドール・レトリバー (Labrador Retriever)のための3ステップホームケアルーティン"
     text: "* STEP 1. 朝：スローフィーダーでの食事と股関節に優しい散歩: 早食いを防ぐために早食い防止食器（スローフィーダー）を使用し、股関節への負担を減らすため平坦なコースを中心に散歩します。
 
 * STEP 2. 昼：ボール・フリスビー回収遊びと水遊び後の耳乾燥ケア: エネルギーを効果的に発散させる回収遊びを行い、水遊びの後は垂れ耳の内部の水分を専用クリーナーで綺麗に拭き取り外耳炎を予防します。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. ラブラドール・レトリバー (Labrador Retriever)'s Body Language & Signals
+## 2. ラブラドール・レトリバー (Labrador Retriever)のボディランゲージと行動サイン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ faqs:
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. ラブラドール・レトリバー (Labrador Retriever)のための3ステップホームケアルーティン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

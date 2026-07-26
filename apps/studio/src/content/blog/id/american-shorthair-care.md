@@ -13,11 +13,11 @@ authority: "Standar Ras Cat Fanciers' Association (CFA) & Penelitian Cornell Fel
 steps:
   - name: "Bahasa Tubuh American Shorthair: Beban Jantung Berlebih dan Bernapas Lewat Mulut"
     text: "Berbeda dengan anjing, kucing jarang terengah-engah untuk mengatur suhu tubuh. Jika American Shorthair bernapas dengan 'mulut terbuka' atau 'cepat lelah' saat bermain sebentar, itu adalah peringatan serius beban jantung. Mengenali tanda ini sejak dini dapat menyelamatkan nyawanya."
-  - name: "American Shorthair's Body Language & Signals"
+  - name: "Bahasa Tubuh dan Sinyal Perilaku American Shorthair"
     text: "* Bernapas dengan Mulut Terbuka (Open-Mouth Breathing): Kondisi bernapas terengah-engah dengan mulut terbuka, menandakan kekurangan oksigen parah akibat beban jantung/paru berlebih atau stres berat. (Segera minimalkan stres, masukkan kucing ke dalam pet carrier, dan bawa ke rumah sakit hewan darurat 24 jam untuk terapi oksigen.)
 
 * Cepat Lelah & Berbaring (Quick Fatigue): Berhenti bermain dan berbaring menyamping hanya dalam beberapa menit aktivitas ringan karena curah jantung yang tidak mencukupi. (Batasi olahraga berat dan lakukan pemeriksaan tahunan berupa auskultasi dan USG jantung (termasuk tes proBNP) untuk memantau perkembangan HCM.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutinitas Perawatan Harian 3 Langkah untuk American Shorthair"
     text: "* STEP 1. Pagi: Kontrol Porsi Makan Ketat untuk Mencegah Obesitas: Hindari metode free-feeding (makanan selalu tersedia). Bagi kebutuhan kalori harian menjadi porsi terukur pagi dan malam untuk mencegah kenaikan berat badan dan melindungi pembuluh darah.
 
 * STEP 2. Siang: Bermain Interaktif 15 Menit untuk Pembakaran Kalori: Pemicu insting berburu setidaknya dua kali sehari selama 15 menit menggunakan tongkat bulu atau mainan tikus untuk mendorong pembakaran lemak.
@@ -60,7 +60,7 @@ Dikenal dengan pola silver tabby yang indah dan tubuh berototnya, American Short
 
 ---
 
-## 2. American Shorthair's Body Language & Signals
+## 2. Bahasa Tubuh dan Sinyal Perilaku American Shorthair
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Dikenal dengan pola silver tabby yang indah dan tubuh berototnya, American Short
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutinitas Perawatan Harian 3 Langkah untuk American Shorthair
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

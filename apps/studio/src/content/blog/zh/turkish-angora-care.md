@@ -13,11 +13,11 @@ authority: "CFA (爱猫者协会) 土耳其安哥拉猫委员会与猫科先天�
 steps:
   - name: "土耳其安哥拉猫的身体语言：无声世界里的高声呼唤与震动感知"
     text: "失去听力的猫咪因为无法监控自身的发声音量，常会表现出“无法调节音量的高声嚎叫”以表达诉求；作为替代，它们会利用肉垫“敏锐感知地面微弱震动”来判断周边环境。正确理解这些特征是防止其受惊并避免防御性应激反应的关键。"
-  - name: "土耳其安哥拉猫 (Turkish Angora)'s Body Language & Signals"
+  - name: "土耳其安哥拉猫 (Turkish Angora) 的肢体语言与行为信号"
     text: "* 无调律高声嚎叫 (Loud Unmodulated Vocalization): 由于听不到自己的声音而无法调节音量，出于沟通欲望或焦虑而朝向空中发出极高分贝的叫声。 (切忌从后方突然触碰使其受惊。应在其正面视线范围内，用温和的手势或灯光信号进行视觉沟通。)
 
 * 地面震动敏锐感知 (Floor Vibration Sensitivity): 利用肉垫（帕西尼氏小体）感知地面或家具传来的微弱机械震动，以此代替听觉判断人和物品的靠近。 (走近猫咪前，可用手或脚轻敲地面发出微弱震动，让其预先感知到家长的接近，避免因猝不及防而受惊。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "土耳其安哥拉猫 (Turkish Angora) 定制化 3 步家庭护理流程"
     text: "* STEP 1. 早晨：视觉手势语晨间打招呼与情感交流: 用轻缓摆手等固定视觉手势代替呼唤，配合深情慢眨眼（猫咪式吻），开启无声却温暖安定的一天。
 
 * STEP 2. 中午：稳固高空水准空间与防坠落检查: 土耳其安哥拉猫极爱攀爬，但听力障碍可能对其平衡感产生轻微影响，需检查猫爬架的紧固性并铺设缓冲垫。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. 土耳其安哥拉猫 (Turkish Angora)'s Body Language & Signals
+## 2. 土耳其安哥拉猫 (Turkish Angora) 的肢体语言与行为信号
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -69,7 +69,7 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 由于听不到自己的声音而无法调节音量，出于沟通欲望或焦虑而朝向空中发出极高分贝的叫声。<br/>
-    <strong>•  national:</strong> 切忌从后方突然触碰使其受惊。应在其正面视线范围内，用温和的手势或灯光信号进行视觉沟通。
+    <strong>• 应对:</strong> 切忌从后方突然触碰使其受惊。应在其正面视线范围内，用温和的手势或灯光信号进行视觉沟通。
   </p>
 </div>
 
@@ -80,13 +80,13 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 利用肉垫（帕西尼氏小体）感知地面或家具传来的微弱机械震动，以此代替听觉判断人和物品的靠近。<br/>
-    <strong>•  national:</strong> 走近猫咪前，可用手或脚轻敲地面发出微弱震动，让其预先感知到家长的接近，避免因猝不及防而受惊。
+    <strong>• 应对:</strong> 走近猫咪前，可用手或脚轻敲地面发出微弱震动，让其预先感知到家长的接近，避免因猝不及防而受惊。
   </p>
 </div>
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. 土耳其安哥拉猫 (Turkish Angora) 定制化 3 步家庭护理流程
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

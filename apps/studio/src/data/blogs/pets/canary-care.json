@@ -1,0 +1,516 @@
+{
+    "canary-care": {
+        "pubDate": "2026-01-15",
+        "updatedDate": "2026-07-26",
+        "locales": {
+            "ko": {
+                "title": "카나리아의 노래 신호 해석과 호흡기 및 털갈이 관리를 위한 3단계 데일리 케어",
+                "description": "화려한 울음소리의 상징 카나리아(Canary). 갑작스러운 울음 중단과 깃털 부풀림 신호 해석, 적정 일조 주기 및 털갈이·호흡기 보호를 위한 3단계 홈케어 루틴을 소개합니다.",
+                "authority": "미국 카나리아 협회(ASCC) 및 국제 조류 연맹(COM) 수의학 케어 스탠다드",
+                "profile": {
+                    "breed": "카나리아 (Canary / Serinus canaria domestica)",
+                    "lifespan": "10 ~ 15년",
+                    "sleep_pattern": "10 ~ 12시간 (일조 주기 유지 및 암막 커버)",
+                    "temperament": "독립적, 평화로움, 감미로운 울음소리(수컷), 환경 변화에 민감"
+                },
+                "intro": "감미로운 울음소리와 밝은 깃털로 오랜 시간 사랑받아 온 카나리아(Canary)는 대표적인 관상용 핀치류 조류입니다. 카나리아는 다른 앵무새와 달리 사람과의 무리한 스킨십보다는 독립적인 공간을 선호하는 품종입니다. 하지만 조류 특유의 공기주머니(Air Sacs) 호흡기 구조로 인해 유독가스(테플론, 방향제)에 매우 취약하며, 계절별 일조 시간 불균형은 극심한 털갈이 스트레스와 면역력 저하를 유발합니다. 또한 알곡 위주의 식단은 간지방증과 난산(Egg Binding)을 유발할 수 있습니다. 오늘 PetSelf에서는 카나리아의 건강 신호를 파악하고 호흡기와 깃털을 지키는 3단계 케어 루틴을 소개합니다.",
+                "whyTitle": "카나리아의 바디 랭귀지: 울음 중단과 깃털 부풀리기 (Fluffing Up)",
+                "whyDesc": "카나리아는 울음소리의 유무와 깃털의 상태로 건강과 감정을 전달합니다. 수컷이 활발하게 부르던 **'노래를 갑자기 멈추는 행동(Cessation of Song)'**은 털갈이 시기의 에너지를 소모 중이거나 질병·스트레스 상태임을 뜻합니다. 반면 몸을 공처럼 구부리고 **'깃털을 부풀린 채 가만히 있는 행동(Fluffing Up)'**은 체온 조절 장애나 심각한 질병을 나타내는 긴급 신호입니다.",
+                "body_signals": [
+                    {
+                        "name": "몸을 공처럼 둥글게 깃털을 부풀리고 있음 (Fluffing Up / Lethargy)",
+                        "meaning": "체온 유지 불능, 면역력 저하, 또는 호흡기 감염 등 심각한 질환의 대표적 병리 신호입니다.",
+                        "response": "즉시 실내 온도를 25°C~28°C로 높여 온열 케어를 실시하고 조류 전문 병원 진료를 받아야 합니다."
+                    },
+                    {
+                        "name": "수컷이 평소 즐겨 부르던 노래를 갑자기 멈춤 (Cessation of Song)",
+                        "meaning": "계절성 털갈이(Molt)로 인한 체력 소모, 일조 주기 혼란, 또는 극심한 환경 스트레스 상태입니다.",
+                        "response": "깃털 빠짐 유무를 확인하고 단백질과 비타민을 보충해 주며, 일정한 일출·일몰 라이트 사이클을 맞춰줍니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 일출 라이트 사이클 맞춤, 신선한 물 및 생야채 급여",
+                        "text": "일출 시각에 맞춰 암막 커버를 열어주고, 칼슘과 비타민 A가 풍부한 잎채소(청경채, 케일)와 신선한 음용수를 제공합니다."
+                    },
+                    {
+                        "name": "낮: 미온수 수욕(목욕) 용기 제공 및 햇빛 쬐기",
+                        "text": "깃털 위생과 습도 유지를 위해 얕은 수욕 용기를 넣어주고, 유리창을 통한 따뜻한 간접 햇빛을 쬐게 합니다."
+                    },
+                    {
+                        "name": "저녁: 공기 질 환기 점검 및 10~12시간 암막 수면",
+                        "text": "주방 유독가스와 향수 등 유해 공기를 차단하고, 일정 시각에 암막 커버를 씌워 호르몬 균형을 위한 10~12시간 숙면을 유도합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "수컷 카나리아가 갑자기 울지 않는데 왜 그런가요?",
+                        "answer": "가장 흔한 원인은 여름~가을철 진행되는 '정기 털갈이(Molt)' 때문입니다. 깃털을 새로 자라나게 하는 데 많은 에너지가 소비되어 울음을 멈추게 됩니다. 다만 털갈이 시기가 아님에도 울지 않고 깃털을 부풀리고 있다면 건강 이상일 수 있으므로 주의 깊게 관찰해야 합니다."
+                    },
+                    {
+                        "question": "카나리아도 손에 올리는 핸들링이나 짝을 맞춰주는 것이 필수인가요?",
+                        "answer": "아니요. 카나리아는 앵무새와 달리 핀치류에 속하여 과도한 스킨십이나 핸들링을 극심한 스트레스로 받아들입니다. 또한 수컷끼리는 영역 싸움을 하므로 단독 사육이 기본이며, 보는 즐거움과 소리를 감상하는 관상 케어가 적합합니다."
+                    }
+                ],
+                "tags": [
+                    "카나리아",
+                    "조류케어",
+                    "관상조류",
+                    "카나리아노래"
+                ]
+            },
+            "en": {
+                "title": "Canary Song Signals and 3-Step Daily Care Routine for Respiratory and Molting Health",
+                "description": "Care guide for the melodious Canary. Interpret stopped singing and feather puffing signals, maintain photoperiods, and protect respiration and molting in 3 steps.",
+                "authority": "American Singer Canary Club (ASCC) & Confederation Ornithologique Mondiale (COM) Avian Standards",
+                "profile": {
+                    "breed": "Canary (Serinus canaria domestica)",
+                    "lifespan": "10 - 15 Years",
+                    "sleep_pattern": "10 - 12 Hours (Photoperiod regulation with blackout cover)",
+                    "temperament": "Independent, Peaceful, Melodious Song (Males), Sensitive to Stress"
+                },
+                "intro": "Cherished for generations for their enchanting song and vibrant plumage, the Canary (Serinus canaria domestica) is a quintessential songbird. Unlike parrots, canaries value their independent space over physical handling. However, due to their delicate avian air sac respiratory system, they are hypersensitive to airborne toxins like Teflon (PTFE) fumes and scented sprays. Furthermore, irregular photoperiods disrupt hormone balance, leading to severe molting stress. Today, PetSelf presents a 3-step daily care routine to decode your canary's health signals and protect their breathing and plumage.",
+                "whyTitle": "Canary Body Language: Cessation of Song and Feather Puffing",
+                "whyDesc": "Canaries express their emotional and physical state through vocalization and feather posture. A male canary's sudden **'Cessation of Song'** indicates energy diversion during seasonal molting, stress, or onset of illness. Conversely, fluffing up feathers into a round ball while remaining motionless **'Feather Puffing (Fluffing Up)'** is an urgent warning sign of inability to regulate body temperature or serious sickness.",
+                "body_signals": [
+                    {
+                        "name": "Puffed-Up Feathers & Lethargy (Fluffing Up)",
+                        "meaning": "A critical clinical sign indicating hypothermia, immune weakness, or severe respiratory infection.",
+                        "response": "Immediately raise ambient room temperature to 25°C–28°C (77°F–82°F) for warmth and consult an avian veterinarian."
+                    },
+                    {
+                        "name": "Male Suddenly Stopping Singing (Cessation of Song)",
+                        "meaning": "Energy exhaustion caused by seasonal molting, disrupted photoperiod, or environmental stress.",
+                        "response": "Check for shedding feathers, supplement protein and vitamins, and establish a strict sunrise-to-sunset lighting cycle."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Sunrise Lighting Sync, Fresh Water & Green Feeding",
+                        "text": "Remove the blackout cover at sunrise, offering calcium and vitamin A-rich leafy greens (kale, bok choy) along with fresh drinking water."
+                    },
+                    {
+                        "name": "Afternoon: Luke-Warm Water Bathing & Indirect Sunlight Exposure",
+                        "text": "Provide a shallow bath dish for feather maintenance and hygiene, allowing warm indirect sunlight through a window."
+                    },
+                    {
+                        "name": "Evening: Air Quality Inspection & 10–12 Hour Blackout Sleep",
+                        "text": "Ensure the air is free from household fumes or perfumes, and cover the cage with a blackout cloth for 10–12 hours of uninterrupted sleep."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Why did my male canary suddenly stop singing?",
+                        "answer": "The most common reason is the annual summer/autumn molt. Growing new feathers requires immense metabolic energy, causing male canaries to pause singing. However, if stopping song is accompanied by puffed feathers outside of molting season, seek veterinary advice."
+                    },
+                    {
+                        "question": "Do canaries need hand-taming or a cage companion?",
+                        "answer": "No. Canaries belong to the finch family and naturally prefer personal space over human handling. Males are territorial and will fight if housed together. They thrive best in solitary setups focused on visual and auditory appreciation."
+                    }
+                ],
+                "tags": [
+                    "Canary",
+                    "AvianCare",
+                    "Songbird",
+                    "CanaryHealth"
+                ]
+            },
+            "ja": {
+                "title": "カナリアの歌声サイン解読と呼吸器・換羽ケアのための3ステップデイリールーティン",
+                "description": "美しい鳴き声で愛されるカナリア。歌をやめる行動や羽膨らましサインの解読、日照時間の管理と呼吸器・換羽保護のための3ステップホームケアを紹介します。",
+                "authority": "全米シンガーカナリアクラブ(ASCC)＆国際鳥類連盟(COM)獣医ケア基準",
+                "profile": {
+                    "breed": "カナリア (Canary / Serinus canaria domestica)",
+                    "lifespan": "10 〜 15年",
+                    "sleep_pattern": "10 〜 12時間 (日照サイクルの維持と遮光カバー)",
+                    "temperament": "独立心が強い、穏やか、美しい鳴き声(オス)、ストレスに敏感"
+                },
+                "intro": "美しい歌声と鮮やかな羽色で古くから愛されてきたカナリア（Canary）は、代表的な観賞用フィンチ類です。インコ類とは異なり、人との過度なスキンシップよりも独立した空間を好む特性を持ちます。しかし、鳥類特有の気嚢（Air Sacs）構造のためテフロンや芳香剤などの有毒ガスに極めて脆弱であり、日照時間の乱れは深刻な換羽ストレスや免疫力低下を引き起こします。本日PetSelfでは、カナリアの健康サインを読み解き、呼吸器と羽を保護する3ステップルーティンをお届けします。",
+                "whyTitle": "カナリアのボディランゲージ：さえずりの停止と羽膨らまし (Fluffing Up)",
+                "whyDesc": "カナリアは歌声の有無と羽の状態で健康や感情を表現します。オスが普段活発に歌っていた**「さえずりを突然やめる行動（Cessation of Song）」**は、換羽期のエネルギー消費や病気・ストレス状態を示します。一方、体を丸くして**「羽を膨らませてじっとしている行動（Fluffing Up）」**は、体温調節障害や重篤な疾患を示す緊急サインです。",
+                "body_signals": [
+                    {
+                        "name": "体を丸めて羽を膨らませている (Fluffing Up / Lethargy)",
+                        "meaning": "体温維持不能、免疫力低下、または呼吸器感染症などの深刻な疾患の代表的病理サインです。",
+                        "response": "すぐに室温を25°C〜28°Cに上げて保温ケアを行い、鳥類専門の動物病院を受診してください。"
+                    },
+                    {
+                        "name": "オスが普段楽しんでいたさえずりを突然やめる (Cessation of Song)",
+                        "meaning": "季節性の換羽（モルト）による体力消耗、日照サイクルの混乱、または環境ストレス状態です。",
+                        "response": "抜け羽の有無を確認し、タンパク質やビタミンを補給しながら、規則正しい日の出・日の入りの光サイクルを整えます。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：日の出サイクルに合わせた遮光解除と新鮮な水・青菜の給餌",
+                        "text": "日の出に合わせてカバーを外し、カルシウムとビタミンAが豊富な青菜（小松菜、ケール）と新鮮な飲み水を与えます。"
+                    },
+                    {
+                        "name": "昼：ぬるま湯での水浴び器の設置と間接日光浴",
+                        "text": "羽の清潔と湿度保持のため浅い水浴び容器を用意し、窓越しに暖かく優しい日光を浴びせます。"
+                    },
+                    {
+                        "name": "夜：空気質の点検と10〜12時間の遮光睡眠",
+                        "text": "キッチンからの有毒ガスや香水などの有害な空気を遮断し、決まった時間に遮光カバーをかけて10〜12時間の熟睡を促します。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "オスのカナリアが突然歌わなくなったのはなぜですか？",
+                        "answer": "最も一般的な原因は夏から秋にかけて行われる「定期換羽（モルト）」です。新しい羽を発生させるために多大なエネルギーが消費され、歌を休むようになります。ただし、換羽期でないのに歌わず羽を膨らませている場合は体調不良の可能性があるため注意深く観察してください。"
+                    },
+                    {
+                        "question": "カナリアも手乗り訓練やパートナー（同居鳥）が必要ですか？",
+                        "answer": "いいえ。カナリアはフィンチ類に属するため、過度なスキンシップや手乗り訓練を強いストレスと感じます。また、オス同士は縄張り争いをするため単独飼育が基本であり、姿や歌声を楽しむ観賞飼育が適しています。"
+                    }
+                ],
+                "tags": [
+                    "カナリア",
+                    "鳥類ケア",
+                    "観賞鳥",
+                    "カナリアの歌"
+                ]
+            },
+            "zh": {
+                "title": "金丝雀鸣唱信号解读与呼吸道及换羽护理的3步日常流程",
+                "description": "优雅金丝雀（Canary）护理指南。解读停止鸣唱与羽毛蓬松信号，维持光照周期，保护呼吸道与换羽健康的3步骤家庭护理。",
+                "authority": "美国歌唱金丝雀俱乐部 (ASCC) 与国际鸟类协会 (COM) 兽医护理标准",
+                "profile": {
+                    "breed": "金丝雀 / 芙蓉鸟 (Canary / Serinus canaria domestica)",
+                    "lifespan": "10 ~ 15年",
+                    "sleep_pattern": "10 ~ 12小时 (保持光照周期并使用遮光罩)",
+                    "temperament": "独立、温和、鸣声悠扬(雄鸟)、对环境变化敏感"
+                },
+                "intro": "金丝雀（Canary）因其悠扬的鸣唱和鲜艳的羽毛，数百年来一直是最受欢迎的观赏鸟之一。与鹦鹉不同，金丝雀更注重独立的私人空间，不喜欢人类过度的上手互动。然而，由于鸟类特有的气囊（Air Sacs）呼吸系统，它们对特氟龙（PTFE）有毒气体及喷雾极度敏感；此外，不规律的光照周期会导致严重的换羽应激与免疫力下降。今天 PetSelf 将带您准确解读金丝雀的健康信号，并通过3步骤日常护理保护其呼吸道与羽毛健康。",
+                "whyTitle": "金丝雀的肢体语言：停止鸣唱与羽毛蓬松 (Fluffing Up)",
+                "whyDesc": "金丝雀通过鸣唱和羽毛姿态表达健康与情绪。雄鸟突然**“停止鸣唱 (Cessation of Song)”**预示着正处于季节性换羽耗能阶段，或处于应激与患病状态。相反，将身体缩成球状并**“蓬松羽毛且蜷缩不动 (Fluffing Up)”**，则是体温调节失控或严重疾病的紧急临床信号。",
+                "body_signals": [
+                    {
+                        "name": "身体蜷缩呈球状且羽毛蓬松 (Fluffing Up / Lethargy)",
+                        "meaning": "体温无法维持、免疫力下降或严重呼吸道感染等疾病的典型病理信号。",
+                        "response": "应立即将环境温度提升至25°C~28°C进行保温护理，并及时送往鸟类专科医院就诊。"
+                    },
+                    {
+                        "name": "雄鸟突然停止平时喜爱的鸣唱 (Cessation of Song)",
+                        "meaning": "季节性换羽（Molt）导致的体力消耗、光照周期紊乱或环境应激状态。",
+                        "response": "检查是否有落羽，补充蛋白质与维生素，并建立规律的日出日落光照周期。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：顺应日出光照撤去遮光罩，喂食新鲜水与绿叶菜",
+                        "text": "顺应日出时间取下遮光罩，提供富含钙质与维生素A的绿叶蔬菜（如小油菜、甘蓝）及新鲜饮用水。"
+                    },
+                    {
+                        "name": "中午：提供温水水浴盆与间接日光浴",
+                        "text": "为保持羽毛清洁与湿度，放置浅水浴盆供其水浴，并透过玻璃接受温暖的间接日光照射。"
+                    },
+                    {
+                        "name": "晚上：空气质量检查与10~12小时遮光睡眠",
+                        "text": "严禁厨房油烟与香水等有害气体，并在固定时间加盖遮光布，确保10~12小时深度睡眠。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "雄性金丝雀为什么突然不唱歌了？",
+                        "answer": "最常见的原因是夏秋季节的换羽期（Molt）。生长新羽毛会消耗大量新陈代谢能量，导致雄鸟暂停鸣唱。但如果在非换羽季出现停止鸣唱并伴随蓬羽蜷缩，应警惕健康异常。"
+                    },
+                    {
+                        "question": "金丝雀需要上手互动或训练吗？需要准备同伴吗？",
+                        "answer": "不需要。金丝雀属于雀科鸟类，天生喜欢独立空间，过度的上手触摸会给其带来巨大压力。此外，雄鸟之间具有领地意识，单只饲养最为适宜，适合作为观赏和聆听鸣唱的宠物。"
+                    }
+                ],
+                "tags": [
+                    "金丝雀",
+                    "鸟类护理",
+                    "观赏鸟",
+                    "金丝雀鸣唱"
+                ]
+            },
+            "es": {
+                "title": "Lectura de señales de canto en el Canario y rutina diaria de 3 pasos para el cuidado respiratorio y del replumaje",
+                "description": "Guía de cuidado para el melodioso Canario. Interprete el cese del canto y el erizamiento de plumas, controle el fotoperíodo y proteja su respiración en 3 pasos.",
+                "authority": "American Singer Canary Club (ASCC) y Normas Veterinarias de la Confederación Ornitológica Mundial (COM)",
+                "profile": {
+                    "breed": "Canario (Serinus canaria domestica)",
+                    "lifespan": "10 ~ 15 años",
+                    "sleep_pattern": "10 ~ 12 horas (Regulación del fotoperíodo con funda opaca)",
+                    "temperament": "Independiente, Pacífico, Canto melodioso (machos), Sensible al estrés"
+                },
+                "intro": "Apreciado por generaciones por su canto cautivador y su brillante plumaje, el Canario (Serinus canaria domestica) es el ave de canto por excelencia. A diferencia de los loros, los canarios valoran su espacio independiente por encima del contacto físico. Sin embargo, debido a su delicado sistema respiratorio de sacos aéreos, son extremadamente sensibles a vapores tóxicos como el teflón (PTFE) y aerosoles. Además, fotoperíodos irregulares provocan estrés en la muda de plumas. Hoy, PetSelf presenta una rutina de 3 pasos para proteger su salud.",
+                "whyTitle": "Lenguaje corporal del Canario: Cese del canto y ahuecado de plumas (Fluffing Up)",
+                "whyDesc": "Los canarios expresan su salud con su canto y la postura de sus plumas. El **'Cese del canto'** en un macho indica consumo de energía durante la muda estacional, estrés o enfermedad. En cambio, ahuecar las plumas hasta formar una bola permaneciendo inmóvil **'Ahuecado de plumas (Fluffing Up)'** es una advertencia urgente de incapacidad para regular la temperatura corporal o enfermedad grave.",
+                "body_signals": [
+                    {
+                        "name": "Plumas ahuecadas e inmovilidad (Fluffing Up / Lethargy)",
+                        "meaning": "Signo clínico crítico que indica hipotermia, debilidad inmune o infección respiratoria grave.",
+                        "response": "Eleve de inmediato la temperatura ambiente a 25°C-28°C para proporcionar calor y consulte con un veterinario aviar."
+                    },
+                    {
+                        "name": "El macho deja de cantar de forma repentina (Cessation of Song)",
+                        "meaning": "Agotamiento de energía provocado por la muda estacional, fotoperíodo alterado o estrés ambiental.",
+                        "response": "Compruebe si hay plumas caídas, proporcione proteínas y vitaminas, y establezca un ciclo estricto de luz de sol a sol."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Sincronización de luz con el amanecer, agua fresca y vegetales verdes",
+                        "text": "Retire la funda opaca al amanecer y ofrezca vegetales de hoja verde ricos en calcio y vitamina A (kale, bok choy) con agua fresca."
+                    },
+                    {
+                        "name": "Tarde: Baño con agua templada y exposición a luz solar indirecta",
+                        "text": "Coloque un recipiente poco profundo para el baño y la higiene del plumaje, permitiendo la entrada de luz solar indirecta."
+                    },
+                    {
+                        "name": "Noche: Inspección de calidad del aire y 10-12 horas de sueño con cubierta opaca",
+                        "text": "Asegúrese de que el aire esté libre de vapores de cocina o perfumes, y cubra la jaula con una funda opaca para un descanso adecuado."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Por qué mi canario macho dejó de cantar repentinamente?",
+                        "answer": "La causa más común es la muda anual de verano/otoño. La formación de nuevas plumas requiere un enorme gasto metabólico, por lo que dejan de cantar temporalmente. Si el cese del canto va acompañado de plumas ahuecadas fuera de época, consulte al veterinario."
+                    },
+                    {
+                        "question": "¿Los canarios necesitan adiestramiento manual o un compañero de jaula?",
+                        "answer": "No. Los canarios pertenecen a la familia de los fringílidos y prefieren su espacio antes que el manejo humano. Los machos son territoriales y pelearán si están juntos. Prosperan mejor en alojamientos individuales orientados al disfrute visual y auditivo."
+                    }
+                ],
+                "tags": [
+                    "Canario",
+                    "CuidadoDeAves",
+                    "AveDeCanto",
+                    "SaludDelCanario"
+                ]
+            },
+            "fr": {
+                "title": "Décodage du chant du Canari et routine quotidienne en 3 étapes pour la santé respiratoire et la mue",
+                "description": "Guide de soins pour le mélodieux Canari. Décryptez l'arrêt du chant et le gonflement des plumes, gérez la photopériode et protégez sa respiration en 3 étapes.",
+                "authority": "American Singer Canary Club (ASCC) & Normes Vétérinaires de la Confédération Ornithologique Mondiale (COM)",
+                "profile": {
+                    "breed": "Canari (Serinus canaria domestica)",
+                    "lifespan": "10 ~ 15 ans",
+                    "sleep_pattern": "10 ~ 12 heures (Gestion de la photopériode avec housse occultante)",
+                    "temperament": "Indépendant, Paisible, Chant mélodieux (mâles), Sensible au stress"
+                },
+                "intro": "Apprécié depuis des générations pour son chant envoûtant et son plumage éclatant, le Canari (Serinus canaria domestica) est l'oiseau chanteur par excellence. Contrairement aux perroquets, les canaris privilégient leur espace individuel plutôt que les manipulations. Cependant, en raison de leur système respiratoire muni de sacs aériens, ils sont extrêmement sensibles aux gaz toxiques (téflon, aérosols). De plus, une photopériode irrégulière entraîne un fort stress lors de la mue. Aujourd'hui, PetSelf vous présente une routine en 3 étapes pour préserver sa santé.",
+                "whyTitle": "Langage corporel du Canari : Arrêt du chant et gonflement des plumes (Fluffing Up)",
+                "whyDesc": "Les canaris expriment leur santé par le chant et la posture de leurs plumes. L'**« Arrêt du chant »** chez le mâle traduit une dépense d'énergie pendant la mue saisonnière, du stress ou une maladie. En revanche, gonfler ses plumes en forme de boule en restant immobile **« Gonflement des plumes (Fluffing Up) »** est un signal d'urgence indiquant une hypothermie ou une maladie grave.",
+                "body_signals": [
+                    {
+                        "name": "Plumes gonflées en boule et léthargie (Fluffing Up / Lethargy)",
+                        "meaning": "Signe clinique grave indiquant une hypothermie, un affaiblissement immunitaire ou une infection respiratoire.",
+                        "response": "Augmentez immédiatement la température de la pièce à 25°C–28°C pour le réchauffer et consultez un vétérinaire aviaire."
+                    },
+                    {
+                        "name": "Le mâle cesse soudainement de chanter (Cessation of Song)",
+                        "meaning": "Épuisement lié à la mue saisonnière, perturbation de la photopériode ou stress environnemental.",
+                        "response": "Vérifiez la présence de plumes tombées, apportez des protéines et vitamines, et établissez un cycle lumineux régulier."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Synchronisation avec le lever du soleil, eau fraîche et légumes verts",
+                        "text": "Retirez la housse au lever du jour et donnez des légumes feuillus riches en calcium et vitamine A (chou kale) avec de l'eau fraîche."
+                    },
+                    {
+                        "name": "Après-midi : Baignoire d'eau tiède et exposition à la lumière indirecte",
+                        "text": "Mettez à disposition une baignoire peu profonde pour l'hygiène du plumage et laissez pénétrer une lumière solaire indirecte."
+                    },
+                    {
+                        "name": "Soir : Contrôle de la qualité de l'air et 10-12h de sommeil sous housse",
+                        "text": "Assurez-vous que l'air est exempt de vapeurs toxiques et couvrez la cage d'une housse occultante à heure fixe pour un repos réparateur."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Pourquoi mon canari mâle a-t-il arrêté de chanter ?",
+                        "answer": "La cause la plus fréquente est la mue annuelle estivale/automnale. La repousse des plumes demande une énergie métabolique considérable, ce qui interrompt le chant. Si l'arrêt du chant s'accompagne de plumes gonflées hors période de mue, consultez un vétérinaire."
+                    },
+                    {
+                        "question": "Le canari a-t-il besoin d'être apprivoisé ou d'avoir un compagnon de cage ?",
+                        "answer": "Non. Les canaris appartiennent à la famille des fringillidés et préfèrent leur autonomie aux manipulations. Les mâles étant territoriaux, ils se battent s'ils sont ensemble. Ils s'épanouissent pleinement en cage individuelle pour le plaisir des yeux et des oreilles."
+                    }
+                ],
+                "tags": [
+                    "Canari",
+                    "SoinDesOiseaux",
+                    "OiseauChanteur",
+                    "SanteDuCanari"
+                ]
+            },
+            "de": {
+                "title": "Gesangssignale beim Kanarienvogel und 3-Schritte-Tagesroutine für Atemwegs- und Mauserpflege",
+                "description": "Pflegeanleitung für den melodischen Kanarienvogel. Gesangsstopp und Aufplustern verstehen, Photoperiode steuern und Atemwege in 3 Schritten schützen.",
+                "authority": "American Singer Canary Club (ASCC) & Tiermedizinische Standards der Confederation Ornithologique Mondiale (COM)",
+                "profile": {
+                    "breed": "Kanarienvogel (Serinus canaria domestica)",
+                    "lifespan": "10 ~ 15 Jahre",
+                    "sleep_pattern": "10 ~ 12 Stunden (Lichtzyklus-Regulierung mit Abdeckung)",
+                    "temperament": "Unabhängig, Friedlich, Melodischer Gesang (Männchen), Stressempfindlich"
+                },
+                "intro": "Der wegen seines wunderschönen Gesangs und leuchtenden Gefieders geschätzte Kanarienvogel (Serinus canaria domestica) ist der klassische Stubenvogel. Anders als Papageien schätzen Kanarienvögel ihren Freiraum mehr als menschliche Berührungen. Aufgrund ihres empfindlichen Atmungssystems mit Luftsäcken reagieren sie jedoch extrem empfindlich auf giftige Dämpfe (Teflon, Aerosole). Unregelmäßige Lichtzyklen führen zudem zu starkem Mauserstress. Heute zeigt PetSelf eine 3-Schritte-Routine für die Gesundheit Ihres Kanarienvogels.",
+                "whyTitle": "Körpersprache des Kanarienvogels: Verstummen des Gesangs und Aufplustern (Fluffing Up)",
+                "whyDesc": "Kanarienvögel drücken ihren Zustand über Gesang und Gefiederhaltung aus. Das plötzliche **'Verstummen des Gesangs'** beim Männchen deutet auf den Energieverbrauch während der Mauser, Stress oder Krankheit hin. Das Kugelform-Annehmen und **'Aufplustern des Gefieders (Fluffing Up)'** bei Reglosigkeit ist dagegen ein dringendes Warnsignal für gestörte Wärmeregulierung oder schwere Erkrankung.",
+                "body_signals": [
+                    {
+                        "name": "Aufgeplustertes Gefieder und Teilnahmslosigkeit (Fluffing Up / Lethargy)",
+                        "meaning": "Kritisches Anzeichen für Unterkühlung, geschwächtes Immunsystem oder schwere Atemwegsinfektion.",
+                        "response": "Erhöhen Sie sofort die Raumtemperatur auf 25 °C–28 °C zur Wärmeversorgung und suchen Sie einen Vogeltierarzt auf."
+                    },
+                    {
+                        "name": "Männchen hört plötzlich auf zu singen (Cessation of Song)",
+                        "meaning": "Energieverbrauch durch saisonale Mauser, gestörten Lichtzyklus oder Umweltstress.",
+                        "response": "Prüfen Sie auf ausfallende Federn, ergänzen Sie Proteine und Vitamine und stellen Sie einen festen Tag-Nacht-Rhythmus her."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Abstimmung auf den Sonnenaufgang, frisches Wasser & Grünfutter",
+                        "text": "Nehmen Sie die Abdeckung bei Sonnenaufgang ab und bieten Sie calcium- und vitamin-A-reiches Grünfutter (Kohl, Brokkoli) mit frischem Wasser an."
+                    },
+                    {
+                        "name": "Mittag: Lauwarmes Badebecken & Indirektes Sonnenlicht",
+                        "text": "Stellen Sie eine flache Badeschale für die Gefiederpflege bereit und ermöglichen Sie indirektes, warmes Sonnenlicht am Fenster."
+                    },
+                    {
+                        "name": "Abend: Luftkontrolle & 10–12 Stunden abgedunkelte Nachtruhe",
+                        "text": "Achten Sie auf luftschadstofffreie Raumluft und decken Sie den Käfig zur festen Zeit ab, um 10–12 Stunden Schlaf zu gewährleisten."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Warum hat mein Kanarienhahn plötzlich aufgehört zu singen?",
+                        "answer": "Die häufigste Ursache ist die jährliche Sommer-/Herbstmauser. Das Wachstum neuer Federn kostet enorm viel Energie, weshalb der Gesang pausiert wird. Tritt das Verstummen außerhalb der Mauser zusammen mit Aufplustern auf, sollte ein Tierarzt konsultiert werden."
+                    },
+                    {
+                        "question": "Brauchen Kanarienvögel Handzahmheit oder einen Käfigpartner?",
+                        "answer": "Nein. Kanarienvögel gehören zu den Finken und empfinden Berührungen als Stress. Männchen sind territorial und kämpfen untereinander. Sie gedeihen am besten in Einzelhaltung als reine Beobachtungs- und Gesangsvögel."
+                    }
+                ],
+                "tags": [
+                    "Kanarienvogel",
+                    "Vogelpflege",
+                    "Stubenvogel",
+                    "Kanariengesang"
+                ]
+            },
+            "pt": {
+                "title": "Sinais do canto do Canário e rotina diária de 3 passos para cuidados respiratórios e da muda de penas",
+                "description": "Guia de cuidados para o melodioso Canário. Entenda a interrupção do canto e o eriçar de penas, controle o fotoperíodo e proteja sua respiração em 3 passos.",
+                "authority": "American Singer Canary Club (ASCC) & Padrões Veterinários da Confederação Ornitológica Mundial (COM)",
+                "profile": {
+                    "breed": "Canário (Serinus canaria domestica)",
+                    "lifespan": "10 ~ 15 anos",
+                    "sleep_pattern": "10 ~ 12 horas (Regulação do fotoperíodo com capa blackout)",
+                    "temperament": "Independente, Pacífico, Canto melodioso (machos), Sensível ao estresse"
+                },
+                "intro": "Apreciado por gerações devido ao seu canto encantador e plumagem vibrante, o Canário (Serinus canaria domestica) é o pássaro de canto por excelência. Diferente dos papagaios, os canários valorizam seu espaço independente mais do que o contato físico. Contudo, devido ao seu delicado sistema respiratório de sacos aéreos, são extremamente sensíveis a vapores tóxicos como teflon (PTFE) e aerossóis. Além disso, fotoperíodos irregulares causam estresse na muda de penas. Hoje, o PetSelf apresenta uma rotina de 3 passos para cuidar do seu canário.",
+                "whyTitle": "Linguagem corporal do Canário: Parada do canto e penas eriçadas (Fluffing Up)",
+                "whyDesc": "Os canários expressam sua saúde através do canto e da postura das penas. A **'Parada do canto'** no macho indica gasto de energia durante a muda sazonal, estresse ou doença. Já o ato de se encolher como uma bola e **'Eriçar as penas (Fluffing Up)'** em imobilidade é um sinal de emergência de incapacidade de regular a temperatura corporal ou doença grave.",
+                "body_signals": [
+                    {
+                        "name": "Penas eriçadas e letargia (Fluffing Up / Lethargy)",
+                        "meaning": "Sinal clínico crítico que indica hipotermia, imunidade baixa ou infecção respiratória grave.",
+                        "response": "Eleve imediatamente a temperatura ambiente para 25°C-28°C para aquecê-lo e consulte um veterinário especializado em aves."
+                    },
+                    {
+                        "name": "O macho para de cantar de repente (Cessation of Song)",
+                        "meaning": "Esgotamento de energia causado pela muda sazonal de penas, fotoperíodo desregulado ou estresse ambiental.",
+                        "response": "Verifique a presença de penas caídas, forneça proteínas e vitaminas, e estabeleça um ciclo de luz regular do amanhecer ao anoitecer."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Sincronização de luz com o amanhecer, água fresca e vegetais verdes",
+                        "text": "Retire a capa blackout ao amanhecer e ofereça vegetais de folhas verdes ricos em cálcio e vitamina A (couve) com água fresca."
+                    },
+                    {
+                        "name": "Tarde: Banho de água morna e exposição à luz solar indireta",
+                        "text": "Disponibilize uma banheira rasa para a higiene da plumagem e permita a entrada de luz solar indireta."
+                    },
+                    {
+                        "name": "Noite: Inspeção da qualidade do ar e 10-12h de sono com capa blackout",
+                        "text": "Garanta que o ar esteja livre de vapores de cozinha ou perfumes, e cubra a gaiola com uma capa blackout no horário correto."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Por que meu canário macho parou de cantar de repente?",
+                        "answer": "A causa mais comum é a muda anual de verão/outono. O crescimento de novas penas exige muita energia metabólica, fazendo-os pausar o canto. Se a parada do canto vier acompanhada de penas eriçadas fora da época de muda, consulte um veterinário."
+                    },
+                    {
+                        "question": "Canários precisam de amestramento ou de companheiro de gaiola?",
+                        "answer": "Não. Os canários pertencem à família dos fringilídeos e preferem sua autonomia ao manuseio humano. Os machos são territoriais e brigarão se ficarem juntos. Eles se desenvolvem melhor em gaiolas individuais voltadas para a apreciação visual e auditiva."
+                    }
+                ],
+                "tags": [
+                    "Canario",
+                    "CuidadosComAves",
+                    "PassaroDeCanto",
+                    "SaudeDoCanario"
+                ]
+            },
+            "id": {
+                "title": "Sinyal Kicauan Kenari dan Rutinitas Harian 3 Langkah Perawatan Pernapasan serta Mabung",
+                "description": "Panduan perawatan burung Kenari yang merdu. Pahami sinyal berhenti berkicau dan bulu mengembang, atur pencahayaan, serta lindungi pernapasan dalam 3 langkah.",
+                "authority": "American Singer Canary Club (ASCC) & Standar Perawatan Medis Avian Confederation Ornithologique Mondiale (COM)",
+                "profile": {
+                    "breed": "Kenari (Serinus canaria domestica)",
+                    "lifespan": "10 ~ 15 tahun",
+                    "sleep_pattern": "10 ~ 12 jam (Pengaturan siklus cahaya dengan kain penutup)",
+                    "temperament": "Mandiri, Tenang, Kicauan merdu (jantan), Sensitif terhadap stres"
+                },
+                "intro": "Dicintai dari generasi ke generasi karena kicauannya yang merdu dan bulunya yang indah, Kenari (Serinus canaria domestica) adalah burung penyanyi yang sangat populer. Berbeda dengan paruh bengkok, kenari lebih menyukai ruang mandiri daripada interaksi fisik dengan manusia. Namun, karena sistem pernapasan kantung udara (Air Sacs) yang sensitif, mereka sangat rentan terhadap asap beracun seperti teflon (PTFE) dan semprotan harum. Selain itu, siklus cahaya yang tidak teratur menyebabkan stres mabung yang parah. Hari ini, PetSelf membagikan 3 langkah rutinitas harian untuk menjaga kesehatan burung Kenari Anda.",
+                "whyTitle": "Bahasa Tubuh Kenari: Berhenti Berkicau dan Bulu Mengembang (Fluffing Up)",
+                "whyDesc": "Kenari menyampaikan kondisi kesehatan melalui kicauan dan postur bulu. **'Berhenti Berkicau'** pada kenari jantan menandakan pengalihan energi saat masa mabung musiman, stres, atau awal timbulnya penyakit. Sebaliknya, menggulung tubuh seperti bola dan **'Mengembangkan Bulu (Fluffing Up)'** sambil berdiam diri adalah peringatan darurat atas ketidakmampuan mengatur suhu tubuh atau penyakit serius.",
+                "body_signals": [
+                    {
+                        "name": "Bulu Mengembang & Beralih Lesu (Fluffing Up / Lethargy)",
+                        "meaning": "Tanda klinis kritis yang menunjukkan hipotermia, penurunan kekebalan tubuh, atau infeksi saluran pernapasan parah.",
+                        "response": "Segera naikkan suhu ruangan ke 25°C-28°C untuk memberi kehangatan dan konsultasikan ke dokter hewan khusus burung."
+                    },
+                    {
+                        "name": "Jantan Tiba-tiba Berhenti Berkicau (Cessation of Song)",
+                        "meaning": "Kelelahan energi akibat ganti bulu (mabung) musiman, gangguan siklus cahaya, atau stres lingkungan.",
+                        "response": "Periksa apakah ada bulu yang rontok, berikan asupan protein dan vitamin, serta tetapkan siklus cahaya matahari yang teratur."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Sinkronisasi Cahaya Matahari Terbit, Air Bersih & Sayuran Hijau",
+                        "text": "Buka kain penutup saat matahari terbit dan berikan sayuran hijau kaya kalsium dan vitamin A (kale, sawi) serta air minum segar."
+                    },
+                    {
+                        "name": "Siang: Wadah Mandi Air Hangat & Paparan Sinar Matahari Tidak Langsung",
+                        "text": "Sediakan wadah mandi dangkal untuk kebersihan bulu, dan biarkan terpapar sinar matahari hangat secara tidak langsung."
+                    },
+                    {
+                        "name": "Malam: Pemeriksaan Kualitas Udara & Tidur Gelap 10-12 Jam",
+                        "text": "Pastikan udara bebas dari asap dapur atau parfum, dan tutup sangkar dengan kain penutup pada waktu yang konsisten."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mengapa kenari jantan saya tiba-tiba berhenti berkicau?",
+                        "answer": "Penyebab paling umum adalah masa ganti bulu (mabung) tahunan di musim panas/gugur. Menumbuhkan bulu baru membutuhkan energi metabolik yang besar sehingga kenari berhenti berkicau sementara. Namun, jika berhenti berkicau disertai bulu mengembang di luar masa mabung, segera periksakan ke dokter hewan."
+                    },
+                    {
+                        "question": "Apakah burung kenari perlu dijinakkan di tangan atau diberi pasangan?",
+                        "answer": "Tidak. Kenari termasuk dalam keluarga finch yang secara alami lebih menyukai ruang pribadi ketimbang dipegang manusia. Kenari jantan bersifat teritorial dan akan bertengkar jika disatukan. Mereka paling sejahtera dipelihara secara mandiri untuk dinikmati keindahan visual dan kicauannya."
+                    }
+                ],
+                "tags": [
+                    "Kenari",
+                    "PerawatanBurung",
+                    "BurungPenyanyi",
+                    "KesehatanKenari"
+                ]
+            }
+        },
+        "category": "CareSelf",
+        "app": "careself",
+        "formatVersion": 4,
+        "heroImage": "/images/blog/canary_care.webp"
+    }
+}

@@ -13,11 +13,11 @@ authority: "Protocolo Internacional de Conservação de Répteis & Padrões Vete
 steps:
   - name: "Linguagem corporal do Gecko-Cristado: Movimento em S da cauda e limpeza ocular (Eye Wiping)"
     text: "Os geckos-cristados comunicam seu estado emocional através dos movimentos da cauda e da língua. Levantar a cauda em formato de S e balançá-la lentamente é um 'Sinal de alerta e ameaça (Tail S-Wagging)' anterior à autotomia (perda da cauda). Por outro lado, passar a língua sobre os olhos ou focinho é um 'Sinal natural de higiene e exploração (Eye Wiping)' para hidratar os olhos sem pálpebras e captar partículas de odor."
-  - name: "Gecko-Cristado (Crested Gecko)'s Body Language & Signals"
+  - name: "Linguagem corporal e sinais de comportamento do Gecko-Cristado (Crested Gecko)"
     text: "* Cauda levantada em formato de S com movimento lento (Tail S-Wagging): Aviso de estresse defensivo extremo exibido diante de ameaças ou manuseio, que costuma anteceder a perda da cauda. (Interrompa o manuseio imediatamente e retorne-o a um abrigo escuro e tranquilo para que se acalme.)
 
 * Lamber os olhos ou o focinho com a língua (Eye Wiping / Tongue Flicking): Comportamento natural que hidrata a superfície ocular sem pálpebras e transporta moléculas de odor ao órgão de Jacobson. (É um comportamento totalmente normal; não o perturbe e verifique se a umidade do terrário (60%-80%) está adequada.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rotina diária de 3 passos para cuidados com Gecko-Cristado (Crested Gecko)"
     text: "* STEP 1. Manhã: Borrifação das paredes do terrário & controle de temperatura e umidade: Borrife água nas paredes do terrário para que ele possa beber as gotas e mantenha uma temperatura diurna amena (22°C-25°C).
 
 * STEP 2. Tarde: Proteção contra luz solar direta & monitoramento do abrigo: Proteja o gecko da luz solar direta, pois ele é muito sensível a temperaturas acima de 28°C, garantindo um descanso fresco.
@@ -60,7 +60,7 @@ Famoso pelas cristas em forma de cílios sobre os olhos, o Gecko-Cristado (Corre
 
 ---
 
-## 2. Gecko-Cristado (Crested Gecko)'s Body Language & Signals
+## 2. Linguagem corporal e sinais de comportamento do Gecko-Cristado (Crested Gecko)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Famoso pelas cristas em forma de cílios sobre os olhos, o Gecko-Cristado (Corre
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rotina diária de 3 passos para cuidados com Gecko-Cristado (Crested Gecko)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

@@ -13,11 +13,11 @@ authority: "GCCF 英国短毛猫标准与 AAFP 猫咪肥胖指南"
 steps:
   - name: "英国短毛猫的身体语言：遥远的凝视与尾巴信号"
     text: "英短讨厌强迫性的抚抱，它们会在保持一定距离的情况下，通过温和地凝视 （Soft Staring） 来表示安全感。这代表它们虽希望保持独立的关系，但对家长是信任的。相反，在感到不便或烦躁时，它们会躺着仅用尾尖轻轻拍打地面 （Tail Swishing）。如果此时强行抱起它们，会导致其压力飙升。"
-  - name: "英国短毛猫 (British Shorthair)'s Body Language & Signals"
+  - name: "英国短毛猫 (British Shorthair) 的肢体语言与行为信号"
     text: "* 温和凝视 (Soft Staring): 仅呆在同一个空间里就感到幸福和安全，是一种独立且成熟的爱意表达。 (缓慢眨眼以回应这份爱意，切勿强行靠近抚抱，只需静静看着它们即可。)
 
 * 尾尖拍地 (Tail Swishing): 感到烦躁或因抚摸力度过大导致压力值上升，要求停止的拒绝信号。 (应立即停止抚摸，避免物理接触，让猫咪独自恢复平静。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "英国短毛猫 (British Shorthair) 定制化 3 步家庭护理流程"
     text: "* STEP 1. 早晨：使用精密厨房秤控制给食量的食谱配给: 为了防止肥胖引起的肥大性心肌病（HCM），应使用数码电子秤按照每日卡路里摄入标准进行定量给食。
 
 * STEP 2. 中午：使用短毛猫专用橡胶梳清理死毛: 英短虽是短毛猫但毛发密度极高，应使用对皮肤刺激较小的专用橡胶梳进行5分钟的梳理，清理并收集死毛以防乱飞。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. 英国短毛猫 (British Shorthair)'s Body Language & Signals
+## 2. 英国短毛猫 (British Shorthair) 的肢体语言与行为信号
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -69,7 +69,7 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 仅呆在同一个空间里就感到幸福和安全，是一种独立且成熟的爱意表达。<br/>
-    <strong>•  national:</strong> 缓慢眨眼以回应这份爱意，切勿强行靠近抚抱，只需静静看着它们即可。
+    <strong>• 应对:</strong> 缓慢眨眼以回应这份爱意，切勿强行靠近抚抱，只需静静看着它们即可。
   </p>
 </div>
 
@@ -80,13 +80,13 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 感到烦躁或因抚摸力度过大导致压力值上升，要求停止的拒绝信号。<br/>
-    <strong>•  national:</strong> 应立即停止抚摸，避免物理接触，让猫咪独自恢复平静。
+    <strong>• 应对:</strong> 应立即停止抚摸，避免物理接触，让猫咪独自恢复平静。
   </p>
 </div>
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. 英国短毛猫 (British Shorthair) 定制化 3 步家庭护理流程
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

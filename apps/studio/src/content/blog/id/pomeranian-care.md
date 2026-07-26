@@ -13,11 +13,11 @@ authority: "Panduan Ras Resmi American Pomeranian Club & Panduan Dokter Hewan AV
 steps:
   - name: "Bahasa Tubuh Pomeranian: Membedakan Bermain dengan Kecemasan"
     text: "Pomeranian sangat ekspresif dan mengubah emosi dengan cepat. Sinyal bahasa tubuh utama meliputi 'posisi mengajak bermain' (Play Bow) dan 'menjilat bibir' (Lip Licking). Saat Pomeranian menurunkan tubuh bagian depan sambil mengangkat pinggul, itu adalah ajakan bermain yang bahagia. Namun, jika mereka menggoyangkan ekor tetapi terus menjilat bibir dengan lidah, itu adalah sinyal penenang yang menandakan kecemasan internal atau stres."
-  - name: "Pomeranian (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "Bahasa Tubuh dan Sinyal Perilaku Pomeranian (Canis lupus familiaris)"
     text: "* Posisi Mengajak Bermain (Play Bow): Menurunkan tubuh bagian depan sambil mengangkat pinggul, mewakili ajakan bermain yang bahagia. (Tanggapi dengan gembira dengan melemparkan mainan favorit atau memulai permainan kejar-kejaran lembut.)
 
 * Menjilat Bibir (Lip Licking): Bukan mengantisipasi makanan; ini adalah sinyal penenang untuk mengendalikan kecemasan atau stres lingkungan. (Jika terlihat saat jalan-jalan atau di tempat baru, jauhkan mereka dari stimulus untuk memastikan ketenangan.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutinitas Perawatan Harian 3 Langkah untuk Pomeranian (Canis lupus familiaris)"
     text: "* STEP 1. Pagi: Perawatan Lapisan Antiselip dan Pencegahan Lompat: Pastikan keset antiselip diletakkan dengan benar di sekitar tempat tidur dan sofa. Latih mereka menggunakan tangga hewan daripada melompat turun.
 
 * STEP 2. Siang: Menyikat Bulu Berlawanan Arah dengan Sikat Pin: Gunakan sikat pin untuk menyikat bulu secara lembut dari ekor ke kepala berlawanan arah. Ini mencegah bulu halus menggumpal dan melancarkan aliran udara ke kulit.
@@ -60,7 +60,7 @@ Pomeranian adalah anjing mainan yang sangat populer, dicintai karena bulu ganda 
 
 ---
 
-## 2. Pomeranian (Canis lupus familiaris)'s Body Language & Signals
+## 2. Bahasa Tubuh dan Sinyal Perilaku Pomeranian (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Pomeranian adalah anjing mainan yang sangat populer, dicintai karena bulu ganda 
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutinitas Perawatan Harian 3 Langkah untuk Pomeranian (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

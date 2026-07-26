@@ -13,11 +13,11 @@ authority: "House Rabbit Society Medical Guidelines and Small Animal Veterinary 
 steps:
   - name: "Dwarf Rabbit Emotional Expression: Thumping and Teeth Purring"
     text: "Netherland Dwarf Rabbits thump their hind legs loudly—a behavior known as 'Thumping'—to warn others of danger or express deep frustration and anger. Conversely, when relaxed and happy, they slide their teeth to produce a soft clicking vibration called 'Teeth Purring'. Recognizing these emotional signals ensures a happy, healthy bond with your companion."
-  - name: "Netherland Dwarf Rabbit (Oryctolagus cuniculus)'s Body Language & Signals"
+  - name: "Netherland Dwarf Rabbit (Oryctolagus cuniculus)'s Body Language & Behavioral Signals"
     text: "* Hind Leg Thumping (Thumping): A firm warning notifying others of danger or expressing severe anger, distress, and refusal. (Identify the stressor, block sudden noises or other pets, and observe quietly from a distance until they feel safe.)
 
 * Teeth Purring & Jaw Vibration (Teeth Purring): A sign of deep joy, relaxation, and safety—similar to a cat's purring—often experienced during gentle petting. (Gently massage their forehead and the base of their ears to deepen the emotional connection.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Customized 3-Step Home Care Routine for Netherland Dwarf Rabbit (Oryctolagus cuniculus)"
     text: "* STEP 1. Morning: High-Fiber Timothy Hay Setup & Fresh Water Supply: For proper dental wear and active gut motility, fill the rack with fresh dust-free Timothy hay early in the morning, and thoroughly clean the water bowl to supply fresh drinking water.
 
 * STEP 2. Afternoon: Litter Box Cleaning & Sore Hock Inspection: Clean the litter tray for proper hygiene, and inspect their foot pads and floor mats to prevent sore hocks (pododermatitis) caused by hard or slippery surfaces.
@@ -60,7 +60,7 @@ With tiny ears and a compact round body, the Netherland Dwarf Rabbit is globally
 
 ---
 
-## 2. Netherland Dwarf Rabbit (Oryctolagus cuniculus)'s Body Language & Signals
+## 2. Netherland Dwarf Rabbit (Oryctolagus cuniculus)'s Body Language & Behavioral Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ With tiny ears and a compact round body, the Netherland Dwarf Rabbit is globally
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Customized 3-Step Home Care Routine for Netherland Dwarf Rabbit (Oryctolagus cuniculus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

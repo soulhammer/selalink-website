@@ -13,11 +13,11 @@ authority: "Guide officiel du Pembroke Welsh Corgi Club of America et Directives
 steps:
   - name: "Langage corporel du Corgi : Signaux du dos et des émotions"
     text: "Comme les Corgis ont des queues très courtes ou coupées, ils utilisent tout leur corps et leurs hanches pour s'exprimer. Les signaux typiques incluent le 'remuement de fesses' (Wiggle Butt) quand ils sont joyeux et le 'splooting' (s'étirer avec les pattes arrière à plat) quand ils sont détendus. Ces expressions physiques sont des indicateurs du confort articulaire et de la régulation thermique, aidant à évaluer leur fatigue."
-  - name: "Welsh Corgi (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "Langage corporel et signaux comportementaux du Welsh Corgi (Canis lupus familiaris)"
     text: "* Remuement de fesses (Wiggle Butt): Un état de joie extrême et d'excitation positive exprimé par les Corgis à queue courte avec tout le bas du corps. (Accueillez-le avec affection et calmez-le avec douceur pour éviter qu'il ne saute sur le canapé sous le coup de l'excitation.)
 
 * Splooting: Un signal de relaxation pour refroidir la température corporelle sur un sol frais et soulager les articulations. (Il se repose confortablement. Ne le dérangez pas et assurez-lui un environnement calme.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Routine quotidienne en 3 étapes pour le soin du Welsh Corgi (Canis lupus familiaris)"
     text: "* STEP 1. Matin : Fixation du tapis anti-glisse et étirement des pattes arrière: Leur dos long les rendant sujets aux hernies discales, fixez les tapis près du canapé et du lit, puis faites un étirement doux des cuisses pendant 2 minutes le matin.
 
 * STEP 2. Après-midi : Promenade de 30 min sur terrain plat avec harnais et pistage: Utilisez un harnais corporel plutôt qu'un collier pour réduire la tension sur le cou et le dos. Marchez sur terrain plat en évitant les escaliers pendant 30 min.
@@ -60,7 +60,7 @@ Le Welsh Corgi est une race adorée pour ses pattes courtes et son derrière reb
 
 ---
 
-## 2. Welsh Corgi (Canis lupus familiaris)'s Body Language & Signals
+## 2. Langage corporel et signaux comportementaux du Welsh Corgi (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Le Welsh Corgi est une race adorée pour ses pattes courtes et son derrière reb
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Routine quotidienne en 3 étapes pour le soin du Welsh Corgi (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

@@ -13,11 +13,11 @@ authority: "Association of Reptilian and Amphibian Veterinarians (ARAV) & Normes
 steps:
   - name: "Langage Corporel: Mouvement de Queue et Indices de Mue"
     text: "Sa queue charnue sert de réserve de graisse et d'organe de communication. Distinguer l'ondulation lente défensive du frétillement lors de la chasse évite le stress."
-  - name: "Gecko Léopard (Eublepharis macularius / Leopard Gecko)'s Body Language & Signals"
+  - name: "Langage corporel et signaux comportementaux du Gecko Léopard (Eublepharis macularius / Leopard Gecko)"
     text: "* Ondulation Lente de la Queue en S (Slow Tail Waving): Avertissement défensif; le gecko se sent menacé ou surpris par un prédateur. (Cessez toute manipulation, retirez la main lentement et laissez-le se cacher.)
 
 * Peau Blanchâtre et Frottement des Yeux (Pre-Shedding Signal): Début du processus de mue (ecdysis); la peau a besoin d'une forte humidité. (Vaporisez de l'eau tiède sur la mousse de la cachette humide pour dépasser 70% d'humidité.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Routine quotidienne en 3 étapes pour le soin du Gecko Léopard (Eublepharis macularius / Leopard Gecko)"
     text: "* STEP 1. Matin: Contrôle de Température & Vaporisation Humide: Contrôlez le point chaud (30°C ~ 32°C) et vaporisez la cachette humide.
 
 * STEP 2. Après-midi: Repos Diurne Calme dans l'Obscurité: Garantissez l'obscurité et le calme pour respecter son sommeil nocturne.
@@ -60,7 +60,7 @@ Le Gecko Léopard est le reptile préféré des passionnés. Suivant les normes 
 
 ---
 
-## 2. Gecko Léopard (Eublepharis macularius / Leopard Gecko)'s Body Language & Signals
+## 2. Langage corporel et signaux comportementaux du Gecko Léopard (Eublepharis macularius / Leopard Gecko)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Le Gecko Léopard est le reptile préféré des passionnés. Suivant les normes 
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Routine quotidienne en 3 étapes pour le soin du Gecko Léopard (Eublepharis macularius / Leopard Gecko)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

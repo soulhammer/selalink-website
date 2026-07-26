@@ -13,11 +13,11 @@ authority: "国際爬虫類保全プロトコル＆USARK飼育基準"
 steps:
   - name: "クレスティッドゲッコーのボディランゲージ：S字尻尾振りと目を舐める動作 (Eye Wiping)"
     text: "クレスティッドゲッコーは尻尾の動きと舌の動きで感情状態を表現します。尻尾をS字に持ち上げてゆっくり振る行動は、脅威を感じて警戒・威嚇している「警戒・威嚇サイン（Tail S-Wagging）」であり、自尾（尻尾切り）の前に見せる反応です。一方、舌で目や口の周りを舐める行動は、まぶたのない目を潤し匂い粒子を集める自然な「衛生・探索サイン（Eye Wiping）」です。"
-  - name: "オウカンミカドヤモリ / クレスティッドゲッコー (Crested Gecko)'s Body Language & Signals"
+  - name: "オウカンミカドヤモリ / クレスティッドゲッコー (Crested Gecko)のボディランゲージと行動サイン"
     text: "* 尻尾をS字に立ててゆっくり振る (Tail S-Wagging): 捕食者や脅威を感じた際に見せる自尾（尻尾切り）直前の極度の警戒およびストレス反応です。 (ハンドリングを直ちに中止し、暗く静かなシェルターへ戻して休ませてください。)
 
 * 舌で目や口の周りを舐める (Eye Wiping / Tongue Flicking): まぶたのない目の表面を湿らせ、ヤコブソン器官へ匂い粒子を運ぶ正常な行動です。 (正常な行動ですので邪魔をせず、ケージ内の湿度（60%〜80%）が適正か確認してください。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "オウカンミカドヤモリ / クレスティッドゲッコー (Crested Gecko)のための3ステップホームケアルーティン"
     text: "* STEP 1. 朝：ケージ壁面への霧吹き＆涼しい温湿度の確認: 壁面についた水滴を舐めて給水できるよう霧吹きを行い、涼しい昼間温度（22°C〜25°C）を保ちます。
 
 * STEP 2. 昼：直射日光の遮断＆シェルターでの睡眠環境モニタリング: 28°C以上の高温に非常に弱いため、直射日光を避けて涼しく暗い場所で静かに休ませます。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. オウカンミカドヤモリ / クレスティッドゲッコー (Crested Gecko)'s Body Language & Signals
+## 2. オウカンミカドヤモリ / クレスティッドゲッコー (Crested Gecko)のボディランゲージと行動サイン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ faqs:
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. オウカンミカドヤモリ / クレスティッドゲッコー (Crested Gecko)のための3ステップホームケアルーティン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

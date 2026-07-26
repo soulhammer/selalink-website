@@ -13,11 +13,11 @@ authority: "Official ISFM (International Society of Feline Medicine) Hereditary 
 steps:
   - name: "Fold Body Language: Buddha Position and Tucking the Tail"
     text: "Scottish Folds use unique postures to manage genetic bone and joint pain. The two most prominent warning signals are the 'Buddha position' and 'tail lowering or tucking'. Sitting upright on their buttocks with their spine against a surface and legs extended forward (Buddha position) is not a cute trick; it is an instinctive resting posture designed to disperse their body weight and relieve severe pressure from stiff hocks and leg joints. Lowering their tail or tucking it tightly between their hind legs signals that the caudal vertebrae are stiffening or painful. When you observe these behaviors, avoid touching their tail, lower back, or hips."
-  - name: "Scottish Fold's Body Language & Signals"
+  - name: "Scottish Fold's Body Language & Behavioral Signals"
     text: "* Buddha Position: An instinctive posture assumed to disperse body weight pressure and alleviate joint pain caused by genetic cartilage disease. (Do not force them to change posture. Place a soft cushion behind their back to support their resting position comfortably.)
 
 * Tail Lowering / Tucking: A defensive reaction indicating stiffness or pain in the tail vertebrae, rejecting physical contact on the lower spine. (Immediately stop touching their tail and lower back, and gently guide them to a comfortable, padded mat.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Customized 3-Step Home Care Routine for Scottish Fold"
     text: "* STEP 1. Morning: Gait Monitoring and Cartilage Support Supplements: Observe their gait for 30 seconds as they wake up to check for limping or morning stiffness. Administer cartilage-supporting supplements (glucosamine, chondroitin, MSM, or Omega-3s) mixed into their morning meal.
 
 * STEP 2. Afternoon: Ear Canal Inspection and Weekly Aeration Cleaning: Folded ears trap humidity and lack natural airflow. Never use cotton swabs inside the ear canal. Apply a few drops of specialized feline ear cleaner into the canal, gently massage the base of the ear, allow the cat to shake its head, and wipe away loosened debris from the outer ear entrance with a clean cotton pad.
@@ -64,7 +64,7 @@ Today, PetSelf decodes the physical signals Scottish Folds display when experien
 
 ---
 
-## 2. Scottish Fold's Body Language & Signals
+## 2. Scottish Fold's Body Language & Behavioral Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -90,7 +90,7 @@ Today, PetSelf decodes the physical signals Scottish Folds display when experien
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Customized 3-Step Home Care Routine for Scottish Fold
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

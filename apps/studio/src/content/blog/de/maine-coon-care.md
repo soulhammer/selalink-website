@@ -13,11 +13,11 @@ authority: "Offizieller Leitfaden der Maine Coon Breeders & Fanciers Association
 steps:
   - name: "Körpersprache der Maine Coon: Freundliches Trillern und aufgeplusterter Schwanz"
     text: "Maine Coons sind sehr sozial und haben ein starkes Bedürfnis nach Kommunikation. Zu den typischen Signalen gehören das 'Trillern' (Trilling) und der 'aufgeplusterte Schwanz' (Puffed Tail). Ein leises 'Gurren' beim Annähern ist eine freundliche Begrüßung. Wenn sie sich dagegen erschrecken, plustert sich das Fell am Schwanz wie eine Flaschenbürste auf. Entfernen Sie dann den Auslöser und lassen Sie die Katze in Ruhe abkühlen."
-  - name: "Maine Coon (Felis catus)'s Body Language & Signals"
+  - name: "Körpersprache und Verhaltenssignale von Maine Coon (Felis catus)"
     text: "* Trillern (Trilling): Ein freundlicher Laut, der tiefes Vertrauen und Zuneigung ausdrückt und um Aufmerksamkeit bittet. (Antworten Sie mit sanfter, freundlicher Stimme oder streicheln Sie die Katze leicht, um die Liebe zu erwidern.)
 
 * Aufgeplusterter Schwanz (Puffed Tail): Eine Schreckreaktion auf plötzliche Geräusche oder visuelle Reize, die höchste Alarmbereitschaft anzeigt. (Beseitigen Sie den Schreckreiz sofort. Zwingen Sie die Katze nicht zum Kontakt, sondern lassen Sie sie sich beruhigen.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Maßgeschneiderte 3-Schritte-Tagesroutine für Maine Coon (Felis catus)"
     text: "* STEP 1. Morgen: Futterportionierung zur Gewichtskontrolle und HCM-Vorsorge: HCM verschlimmert sich durch Übergewicht. Wiegen Sie das Futter täglich mit einer Digitalwaage exakt ab und sorgen Sie für frisches Wasser.
 
 * STEP 2. Nachmittag: Unterfellpflege mit Metallkamm und Zupfbürste: Das dichte Fell an Mähne und Achseln verfilzt leicht und führt zu Hautentzündungen. Kämmen Sie mit einem Metallkamm tief bis zur Unterwolle durch.
@@ -64,7 +64,7 @@ Heute entschlüsselt PetSelf die Körpersprache der Maine Coon und stellt eine 3
 
 ---
 
-## 2. Maine Coon (Felis catus)'s Body Language & Signals
+## 2. Körpersprache und Verhaltenssignale von Maine Coon (Felis catus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -90,7 +90,7 @@ Heute entschlüsselt PetSelf die Körpersprache der Maine Coon und stellt eine 3
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Maßgeschneiderte 3-Schritte-Tagesroutine für Maine Coon (Felis catus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

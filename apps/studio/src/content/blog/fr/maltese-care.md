@@ -13,11 +13,11 @@ authority: "Guide Officiel des Races de l'American Kennel Club (AKC) et Protocol
 steps:
   - name: "Langage corporel du bichon maltais : Signaux de stress et de confort"
     text: "En tant que chiens très dépendants de leurs maîtres, les bichons maltais montrent silencieusement leur état psychologique par des gestes corporels. Les signaux d'apaisement (Calming Signals) typiques incluent le fait de se lécher la truffe (Nose Licking) et de bâiller (Yawning). Face à un environnement tendu ou inconnu, se lécher la truffe ou bâiller n'est pas dû à la fatigue ; c'est un message pacifique pour se calmer et demander aux autres de ne pas les menacer. Si les maîtres continuent le contact, leur stress augmente. Il est préférable de prendre du recul."
-  - name: "Bichon maltais (Canis lupus familiaris / Maltese)'s Body Language & Signals"
+  - name: "Langage corporel et signaux comportementaux du Bichon maltais (Canis lupus familiaris / Maltese)"
     text: "* Bâiller (Yawning): Ce n'est pas de la fatigue ; c'est un signal d'apaisement pour se calmer et apaiser l'entourage. (S'il bâille pendant l'éducation ou le toilettage, arrêtez immédiatement et offrez un espace calme.)
 
 * Se lécher la truffe (Nose Licking): Une expression d'auto-apaisement lorsqu'il se sent mal à l'aise ou anxieux dans sa situation actuelle. (Si ce geste apparaît lorsqu'il est porté ou approché par des inconnus, cessez le contact et laissez-lui de l'espace.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Routine quotidienne en 3 étapes pour le soin du Bichon maltais (Canis lupus familiaris / Maltese)"
     text: "* STEP 1. Matin : Contrôle anti-glisse et étirements des articulations: Vérifiez que les tapis de protection ne glissent pas. Lors des étirements du matin, massez doucement les articulations arrière pour détendre les muscles. Veillez à couper les poils sous les pattes.
 
 * STEP 2. Après-midi : Hygiène oculaire quotidienne et brossage ciblé: Une fois par jour, peignez le contour des yeux avec un peigne fin et une lotion adaptée. Les poils humides favorisent les traces rouges et les infections ; séchez minutieusement avec un coton.
@@ -64,7 +64,7 @@ Aujourd'hui, PetSelf étudie le langage corporel du bichon maltais et présente 
 
 ---
 
-## 2. Bichon maltais (Canis lupus familiaris / Maltese)'s Body Language & Signals
+## 2. Langage corporel et signaux comportementaux du Bichon maltais (Canis lupus familiaris / Maltese)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -90,7 +90,7 @@ Aujourd'hui, PetSelf étudie le langage corporel du bichon maltais et présente 
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Routine quotidienne en 3 étapes pour le soin du Bichon maltais (Canis lupus familiaris / Maltese)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

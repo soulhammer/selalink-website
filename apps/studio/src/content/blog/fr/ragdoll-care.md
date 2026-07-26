@@ -13,11 +13,11 @@ authority: "Guide des Races de la Cat Fanciers' Association (CFA) et Directives 
 steps:
   - name: "Signaux d'apaisement du Ragdoll : Clignements lents et pattes détendues"
     text: "Le Ragdoll exprime sa grande confiance non seulement en se détendant, mais aussi par des regards et des gestes de pattes très délicats. Les signaux d'apaisement clés incluent les clignements d'yeux lents (Slow Blink) et l'écartement des doigts (Paw Flexing). Vous regarder et cligner des yeux lentement est un message d'affection et de sécurité. S'il est extrêmement heureux, il écarte ses coussinets en éventail. Caresser son menton ou derrière ses oreilles à ce moment-là maximisera son bien-être."
-  - name: "Ragdoll (Felis catus)'s Body Language & Signals"
+  - name: "Langage corporel et signaux comportementaux du Ragdoll (Felis catus)"
     text: "* Clignement lent (Slow Blink): Un signe de profonde affection, prouvant qu'il vous fait entièrement confiance et se sent en sécurité. (Répondez en clignant des yeux en retour sur le même tempo pour renforcer votre lien.)
 
 * Pattes écartées / Flexion des coussinets (Paw Flexing): Indique un confort psychologique extrême, rappellant le souvenir réconfortant de la tété auprès de sa mère. (Ne stoppez pas les caresses ; continuez de masser délicatement sous le menton ou le cou.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Routine quotidienne en 3 étapes pour le soin du Ragdoll (Felis catus)"
     text: "* STEP 1. Matin : Étirement corporel léger pour la santé du squelette: En tant que grande race, la fatigue s'accumule dans ses articulations arrière. Avant qu'il commence ses activités, étirez doucement ses pattes arrière pour préserver sa mobilité.
 
 * STEP 2. Après-midi : Brossage avec une brosse à picots pour éviter les nœuds: Le sous-poil est très doux et dense, sujet aux nœuds. Brossez avec une brosse à picots arrondis pour aérer le pelage et éviter les dermatites et les boules de poils.
@@ -64,7 +64,7 @@ Aujourd'hui, PetSelf décode le langage corporel du Ragdoll et présente une rou
 
 ---
 
-## 2. Ragdoll (Felis catus)'s Body Language & Signals
+## 2. Langage corporel et signaux comportementaux du Ragdoll (Felis catus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -90,7 +90,7 @@ Aujourd'hui, PetSelf décode le langage corporel du Ragdoll et présente une rou
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Routine quotidienne en 3 étapes pour le soin du Ragdoll (Felis catus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

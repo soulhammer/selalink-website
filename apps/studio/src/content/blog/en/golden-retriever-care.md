@@ -13,11 +13,11 @@ authority: "Official American Kennel Club (AKC) Breed Guide & IAABC Behavioral P
 steps:
   - name: "Golden Retriever Body Language: Understanding Trust and Communication Signals"
     text: "Golden Retrievers express emotions actively through facial expressions and body gestures. A key trust and calming signal is 'soft eye contact'. Unlike tense, adversarial staring, gently squinting while maintaining eye contact represents deep affection, trust, and a desire for psychological bonding. Responding with gentle verbal praise triggers oxytocin release, deepening their sense of security. On the contrary, a stiff body posture with a high, rigid tail indicates tension and requires caution."
-  - name: "Golden Retriever (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "Golden Retriever (Canis lupus familiaris)'s Body Language & Behavioral Signals"
     text: "* Soft Eye Contact: A positive eye contact indicating complete trust in the owner, deep affection, and psychological bonding. (Respond by blinking slowly and praising them in a calm, gentle voice.)
 
 * Full Body Wagging: An active expression of friendliness and joy, showing extreme comfort and fondness rather than simple excitement. (Gently stroke their chest or shoulders, calmly sharing and guiding their joyful energy.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Customized 3-Step Home Care Routine for Golden Retriever (Canis lupus familiaris)"
     text: "* STEP 1. Morning: Retrieving Play to Satisfy Gun-Dog Instincts: Since they derive immense satisfaction from carrying objects, play fetch with soft balls for 5-10 minutes indoors or in the yard before walks to safely burn off natural morning energy.
 
 * STEP 2. Afternoon: 1-Hour Energetic Outdoor Walk & Sniffing Session: As highly active large dogs, they require at least 1 hour of daily outdoor exercise. Providing ample sniffing opportunities in safe grassy areas lowers stress and prevents destructive indoor behavior.
@@ -60,7 +60,7 @@ The Golden Retriever, beloved worldwide for its golden coat and gentle personali
 
 ---
 
-## 2. Golden Retriever (Canis lupus familiaris)'s Body Language & Signals
+## 2. Golden Retriever (Canis lupus familiaris)'s Body Language & Behavioral Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ The Golden Retriever, beloved worldwide for its golden coat and gentle personali
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Customized 3-Step Home Care Routine for Golden Retriever (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

@@ -13,11 +13,11 @@ authority: "アメリカンケネルクラブ(AKC)公式犬種ガイド＆IAABC�
 steps:
   - name: "ゴールデンレトリバーのボディランゲージ：信頼とサインの解読"
     text: "ゴールデンレトリバーは豊かな表情としぐさで感情を活発に表現します。代表的なサインの1つが、優しく静かに見つめる「ソフトアイコンタクト」です。緊張状態の視線とは異なり、目を細めて飼い主と視線を合わせる行動は、深い愛情と信頼、情緒的な結びつきを求める安全の合図です。この時に優しい声で応えると、オキシトシンが分泌されてさらに情緒が安定します。一方で、全身を硬直させて尾をピンと立てている時は警戒が必要です。"
-  - name: "ゴールデンレトリバー (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "ゴールデンレトリバー (Canis lupus familiaris)のボディランゲージと行動サイン"
     text: "* ソフトアイコンタクト (Soft Eye Contact): 飼い主への完全な信頼と情緒的な結びつきを意味する肯定的な視線です。 (目を優しくまばたきして応え、穏やかな声で褒めてあげてください。)
 
 * ボディウェーブ (Full Body Wagging): 単なる興奮ではなく、親愛の情を積極的に伝える好意の表現です。 (胸や肩を優しくなでながら、嬉しい気持ちを落ち着いて分かち合ってください。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "ゴールデンレトリバー (Canis lupus familiaris)のための3ステップホームケアルーティン"
     text: "* STEP 1. 朝：レトリービング本能を満たすボール遊び: レトリバーは物を咥えて運ぶことに最大の喜びを感じます。朝の散歩前に、室内や庭で柔らかいボールを投げて持ってこさせる遊びを5〜10分行い、本能的なエネルギーを安全に発散させます。
 
 * STEP 2. 昼・午後：1時間以上の十分な屋外散歩: 知能が高く活動量の多い大型犬なので、毎日最低1時間以上の散歩が不可欠です。芝生などの安全な場所で十分に匂いを嗅がせる（ノーズワーク）ことで、ストレスを和らげ問題行動を防ぎます。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. ゴールデンレトリバー (Canis lupus familiaris)'s Body Language & Signals
+## 2. ゴールデンレトリバー (Canis lupus familiaris)のボディランゲージと行動サイン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ faqs:
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. ゴールデンレトリバー (Canis lupus familiaris)のための3ステップホームケアルーティン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

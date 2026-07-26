@@ -13,11 +13,11 @@ authority: "Rasse-Standards der The International Cat Association (TICA) und Kli
 steps:
   - name: "Körpersprache der Norwegischen Waldkatze: Vertrauen und wilde Wachsamkeit"
     text: "Norwegische Waldkatzen besitzen eine ruhige Würde und drücken Gefühle sehr intelligent aus. Ein langsames Annähern mit steil aufgerichteter Rute, deren Spitze sich wie ein Fragezeichen (?) biegt, ist ein Zeichen von tiefem Vertrauen und Zuneigung. Weite Pupillen und flach angelegte 'Frachtflugzeug-Ohren' (Airplane Ears) signalisieren dagegen, dass die Katze eine Bedrohung wahrnimmt."
-  - name: "Norwegische Waldkatze (Felis catus / Norwegian Forest Cat)'s Body Language & Signals"
+  - name: "Körpersprache und Verhaltenssignale von Norwegische Waldkatze (Felis catus / Norwegian Forest Cat)"
     text: "* Aufgerichtete Rute mit fragezeichenartig gebogener Spitze: Ausdruck von Zufriedenheit und freundlicher Neugier beim Annähern an den Halter. (Antworten Sie mit ruhiger Stimme und kraulen Sie sanft Kopf und Wangen zur Festigung der Bindung.)
 
 * Weite Pupillen und flache Flugzeug-Ohren: Anspannung und Wachsamkeit durch plötzlichen Lärm oder eine ungewohnte Umgebung. (Vermeiden Sie direkten Blickkontakt und lassen Sie die Katze selbstständig auf einen hohen Kratzbaum flüchten.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Maßgeschneiderte 3-Schritte-Tagesroutine für Norwegische Waldkatze (Felis catus / Norwegian Forest Cat)"
     text: "* STEP 1. Morgen: Dynamisches Kletter-Jagdspiel am Kratzbaum: Bewegen Sie Spielangeln am Kratzbaum hinauf und hinab, um den natürlichen Kletter- und Jagdtrieb auszulasten.
 
 * STEP 2. Nachmittag: Tiefenpflege des wasserabweisenden Fells mit Zupfbürste und Kamm: Kämmen Sie verfilzungsgefährdete Zonen wie Achseln und Brustkragen mit Metallkamm und Zupfbürste tief aus, um abgestorbene Unterwolle zu entfernen.
@@ -60,7 +60,7 @@ Die Norwegische Waldkatze ist eine Naturrasse, die sich an die harten skandinavi
 
 ---
 
-## 2. Norwegische Waldkatze (Felis catus / Norwegian Forest Cat)'s Body Language & Signals
+## 2. Körpersprache und Verhaltenssignale von Norwegische Waldkatze (Felis catus / Norwegian Forest Cat)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Die Norwegische Waldkatze ist eine Naturrasse, die sich an die harten skandinavi
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Maßgeschneiderte 3-Schritte-Tagesroutine für Norwegische Waldkatze (Felis catus / Norwegian Forest Cat)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

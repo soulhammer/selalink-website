@@ -13,11 +13,11 @@ authority: "Guía Oficial de Razas del American Kennel Club (AKC) y Directivas d
 steps:
   - name: "Lenguaje corporal del Samoyedo: Postura de enfriamiento y señales de dolor articular"
     text: "Cuando tienen calor, los Samoyedos se acuestan boca abajo con las patas traseras estiradas 'Acostado de rana' (Splooting) para enfriar su abdomen. En cambio, el 'Paso de conejo' (Bunny Hopping) con las patas traseras juntas revela dolor en la cadera que exige atención veterinaria."
-  - name: "Samoyedo (Canis lupus familiaris / Samoyed)'s Body Language & Signals"
+  - name: "Lenguaje corporal y señales de conducta de Samoyedo (Canis lupus familiaris / Samoyed)"
     text: "* Acostado de Rana (Splooting): Estar boca abajo con patas traseras estiradas para disipar calor mediante el contacto con el suelo frío. (Proporcione mantas refrescantes y permita que descanse en un área bien ventilada.)
 
 * Paso de Conejo (Bunny Hopping): Correr saltando con ambas patas traseras a la vez para reducir el peso sobre caderas adoloridas. (Suspenda ejercicios fuertes de inmediato y consulte al veterinario para realizar radiografías de cadera.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutina diaria de 3 pasos para el cuidado de Samoyedo (Canis lupus familiaris / Samoyed)"
     text: "* STEP 1. Mañana: Cepillado slicker para ventilar el manto doble: Cepille el denso pelo a diario con cepillo de alambre (slicker) y peine metálico para remover subpelo muerto y evitar nudos.
 
 * STEP 2. Tarde: Cuidado de articulaciones y tapetes antideslizantes: Coloque alfombras antideslizantes en suelos resbalosos, mantenga un peso controlado y dé suplementos de glucosamina.
@@ -60,7 +60,7 @@ Famoso por su pelaje blanco esponjoso y su 'Sonrisa de Samoyedo', el Samoyedo es
 
 ---
 
-## 2. Samoyedo (Canis lupus familiaris / Samoyed)'s Body Language & Signals
+## 2. Lenguaje corporal y señales de conducta de Samoyedo (Canis lupus familiaris / Samoyed)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Famoso por su pelaje blanco esponjoso y su 'Sonrisa de Samoyedo', el Samoyedo es
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutina diaria de 3 pasos para el cuidado de Samoyedo (Canis lupus familiaris / Samoyed)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

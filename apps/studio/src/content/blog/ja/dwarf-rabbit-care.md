@@ -13,11 +13,11 @@ authority: "House Rabbit Society ウサギ医療ガイドおよび小動物獣�
 steps:
   - name: "ドワーフウサギの感情表現：足ダンと歯ぎしりのサイン"
     text: "ネザーランドドワーフは強い不満や危険を感じると、後ろ足で地面を強く叩く「足ダン（Thumping）」を行い周囲に警告します。反対に、リラックスして喜んでいる時は、顎を軽く動かしてカチカチと音を鳴らす「歯の擦り合わせ（Teeth Purring）」の愛情表現を見せます。これらの感情表現を正しく見極めることが大切です。"
-  - name: "ネザーランドドワーフ (Oryctolagus cuniculus)'s Body Language & Signals"
+  - name: "ネザーランドドワーフ (Oryctolagus cuniculus)のボディランゲージと行動サイン"
     text: "* 足ダン (Thumping): 周囲に危険を知らせるか、現在強い不満や怒りを感じているという明確な拒否の意思表示です。 (刺激の原因を特定して騒音や他のペットを遠ざけ、ウサギが安心できるまで静かに様子を見ます。)
 
 * 歯の擦り合わせ (Teeth Purring): 飼い主に撫でられている時など、猫のゴロゴロ音のように喜びと安心を満喫している状態です。 (額や耳の付け根を優しくマッサージし、コミュニケーションをさらに深めましょう。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "ネザーランドドワーフ (Oryctolagus cuniculus)のための3ステップホームケアルーティン"
     text: "* STEP 1. 朝：高繊維質のチモシー給餌と新鮮な水の用意: 歯の磨耗と胃腸の働きのため、朝一番にほこりを払った新鮮なチモシーを補充し、水飲み用の器を洗って水を入れ替えます。
 
 * STEP 2. 昼：トイレ掃除と足裏パットの健康チェック: 衛生状態を保つためにトイレシートを交換し、足裏の皮膚炎（ソアホック）を防ぐため床マットや足裏の状態を確認します。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. ネザーランドドワーフ (Oryctolagus cuniculus)'s Body Language & Signals
+## 2. ネザーランドドワーフ (Oryctolagus cuniculus)のボディランゲージと行動サイン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ faqs:
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. ネザーランドドワーフ (Oryctolagus cuniculus)のための3ステップホームケアルーティン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

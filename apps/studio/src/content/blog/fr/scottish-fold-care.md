@@ -13,11 +13,11 @@ authority: "Protocole sur le cartilage héréditaire de l'ISFM (International So
 steps:
   - name: "Langage corporel du Fold : Position du Bouddha et queue basse"
     text: "Le Scottish Fold adopte des postures uniques pour soulager ses douleurs articulaires génétiques. Les signaux les plus probants sont la 'position du Bouddha' et la 'queue basse ou cachée'. S'asseoir sur le bassin en appuyant son dos et en étendant ses pattes vers l'avant (position du Bouddha) n'est pas une fantaisie mignonne ; c'est une posture instinctive destinée à répartir la charge du corps et soulager la pression sur les articulations raides. Cacher ou baisser sa queue indique une raideur ou une douleur au niveau des vertèbres caudales. Évitez de toucher le bas du dos ou la queue dans ces moments-là."
-  - name: "Scottish Fold's Body Language & Signals"
+  - name: "Langage corporel et signaux comportementaux du Scottish Fold"
     text: "* Position du Bouddha: Une posture instinctive adoptée pour répartir le poids du corps et réduire la douleur articulaire liée à la maladie héréditaire du cartilage. (Ne le forcez pas à changer de posture. Placez un coussin moelleux derrière son dos pour soutenir sa position sans contrainte.)
 
 * Queue basse ou cachée: Un signal défensif indiquant que les vertèbres de la queue sont raides ou douloureuses, rejetant tout contact physique. (Cessez immédiatement de toucher la queue ou le bas du dos, et guidez-le doucement vers un panier confortable.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Routine quotidienne en 3 étapes pour le soin du Scottish Fold"
     text: "* STEP 1. Matin : Analyse de la démarche et suppléments pour le cartilage: Observez sa démarche pendant 30 secondes au réveil pour détecter toute boiterie ou raideur. Administrez des suppléments pour le cartilage (glucosamine, chondroïtine, MSM, Oméga-3) mélangés à son repas du matin.
 
 * STEP 2. Après-midi : Inspection du conduit auditif et nettoyage hebdomadaire: Les oreilles pliées retiennent l'humidité faute d'aération. N'utilisez jamais de cotons-tiges dans le conduit. Appliquez quelques gouttes de nettoyant auriculaire félin, massez doucement la base de l'oreille, laissez le chat secouer la tête, puis essuyez les résidus externes avec une compresse ou un coton.
@@ -64,7 +64,7 @@ Aujourd'hui, PetSelf décode les signaux physiques de douleur du Scottish Fold e
 
 ---
 
-## 2. Scottish Fold's Body Language & Signals
+## 2. Langage corporel et signaux comportementaux du Scottish Fold
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -90,7 +90,7 @@ Aujourd'hui, PetSelf décode les signaux physiques de douleur du Scottish Fold e
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Routine quotidienne en 3 étapes pour le soin du Scottish Fold
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

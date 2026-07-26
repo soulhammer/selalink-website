@@ -13,11 +13,11 @@ authority: "国際猫協会(TICA)品種基準および猫臨床行動医学ガ�
 steps:
   - name: "ノルウェージャンのボディランゲージ：野生の気品と信頼のサイン"
     text: "ノルウェージャンフォレストキャットは野生の堂々とした気品を保っており、感情表現が静かで聡明です。尻尾を垂直にピンと立て、先端をゆるやかに疑問符（？）のように曲げて近づくのは、飼い主への深い信頼と愛情の兆しです。一方、瞳孔が大きく開いて耳を横に寝かせる「イカ耳（Airplane Ears）」を見せる時は、周囲の環境に強い脅威や不安を感じています。"
-  - name: "ノルウェージャンフォレストキャット (Felis catus / Norwegian Forest Cat)'s Body Language & Signals"
+  - name: "ノルウェージャンフォレストキャット (Felis catus / Norwegian Forest Cat)のボディランゲージと行動サイン"
     text: "* 尻尾を立てて先端を疑問符型に曲げる: 非常に満足しており、好奇心に満ちて飼い主に親しく近づく歓迎のサインです。 (優しく穏やかな声で返事をしながら、頭や頬の周りを撫でてあげ、信頼関係を深めましょう。)
 
 * 瞳孔が開き耳を横に寝かせる (イカ耳): 突発的な騒音や見知らぬ環境に対して緊張し、強い警戒心を持っている状態です。 (無理に目を合わせようとせず、猫が安心できる高いキャットタワーや隠れ家に自ら避難できるよう見守りましょう。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "ノルウェージャンフォレストキャット (Felis catus / Norwegian Forest Cat)のための3ステップホームケアルーティン"
     text: "* STEP 1. 朝：登坂本能を刺激する立体的なハンティング遊び: キャットタワーやキャットポールの上でじゃらしおもちゃを動かし、特有のクライミング能力と狩猟本能を満たします。
 
 * STEP 2. 昼：防水三重毛の通気を高めるスリッカー＆コームブラシ: 脇の下や胸元など絡まりやすい部位を中心に、スリッカーブラシと金属コームで奥の死毛をしっかり梳き取ります。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. ノルウェージャンフォレストキャット (Felis catus / Norwegian Forest Cat)'s Body Language & Signals
+## 2. ノルウェージャンフォレストキャット (Felis catus / Norwegian Forest Cat)のボディランゲージと行動サイン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ faqs:
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. ノルウェージャンフォレストキャット (Felis catus / Norwegian Forest Cat)のための3ステップホームケアルーティン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

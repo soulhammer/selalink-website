@@ -13,11 +13,11 @@ authority: "美国博美犬俱乐部官方犬种指南与 AVMA 兽医学手册"
 steps:
   - name: "博美犬的身体语言：区分玩耍与焦虑"
     text: "博美犬极富表现力，情绪变化迅速。关键的肢体语言包括 “邀请玩耍姿势（Play Bow）” 和 “舔嘴唇（Lip Licking）”。当博美犬降低前半身并抬高臀部时，这是经典的邀请玩耍姿势。然而，如果它们看似在摇尾巴，却不断地用舌头舔嘴唇，这实际上是用于平复内心焦虑或压力的放松信号。家长不应将其误认为兴奋，而应该帮助它们冷静下来。"
-  - name: "博美犬 (Canis lupus familiaris / Pomeranian)'s Body Language & Signals"
+  - name: "博美犬 (Canis lupus familiaris / Pomeranian) 的肢体语言与行为信号"
     text: "* 邀请玩耍姿势 (Play Bow): 前半身贴地而臀部抬起，表示非常高兴并向家长或伙伴发出一起玩耍的邀请。 (扔出它们喜欢的玩具，或者开始一场温柔的追逐游戏以快乐地回应它们。)
 
 * 舔嘴唇 (Lip Licking): 并非期待食物，而是一种用来平复内心焦虑或环境压力的放松信号。 (如果在散步或陌生环境中看到这个动作，请引导它们远离刺激源以确保安全感。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "博美犬 (Canis lupus familiaris / Pomeranian) 定制化 3 步家庭护理流程"
     text: "* STEP 1. 早晨：防滑地垫整理与防止跳跃训练: 确保家具周围正确铺设防滑垫，以保护它们纤细的骨骼。引导它们使用宠物台阶，避免直接跳下造成的冲击。
 
 * STEP 2. 下午：逆毛发生长方向梳理以促进空气流通: 使用针梳从尾部向头部方向轻轻梳理毛发，使其蓬松。这可以防止双层被毛结块，并促进皮肤的健康空气流通。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. 博美犬 (Canis lupus familiaris / Pomeranian)'s Body Language & Signals
+## 2. 博美犬 (Canis lupus familiaris / Pomeranian) 的肢体语言与行为信号
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -69,7 +69,7 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 前半身贴地而臀部抬起，表示非常高兴并向家长或伙伴发出一起玩耍的邀请。<br/>
-    <strong>•  national:</strong> 扔出它们喜欢的玩具，或者开始一场温柔的追逐游戏以快乐地回应它们。
+    <strong>• 应对:</strong> 扔出它们喜欢的玩具，或者开始一场温柔的追逐游戏以快乐地回应它们。
   </p>
 </div>
 
@@ -80,13 +80,13 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 并非期待食物，而是一种用来平复内心焦虑或环境压力的放松信号。<br/>
-    <strong>•  national:</strong> 如果在散步或陌生环境中看到这个动作，请引导它们远离刺激源以确保安全感。
+    <strong>• 应对:</strong> 如果在散步或陌生环境中看到这个动作，请引导它们远离刺激源以确保安全感。
   </p>
 </div>
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. 博美犬 (Canis lupus familiaris / Pomeranian) 定制化 3 步家庭护理流程
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

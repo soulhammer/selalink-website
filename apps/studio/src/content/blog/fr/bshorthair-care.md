@@ -13,11 +13,11 @@ authority: "Normes de la GCCF pour le British Shorthair et Directives sur l'Obes
 steps:
   - name: "Langage corporel du British Shorthair : Regard doux et mouvements de queue"
     text: "Les British Shorthairs n'aiment pas être contraints et expriment leur confiance par un « regard doux » (Soft Staring) à distance. Cela indique qu'ils préfèrent une relation autonome tout en se sentant en sécurité. En revanche, lorsqu'ils sont agacés, ils tapent le sol avec l'extrémité de leur queue (Tail Swishing). Les porter à ce moment précis fera exploser leur niveau de stress."
-  - name: "British Shorthair (British Shorthair)'s Body Language & Signals"
+  - name: "Langage corporel et signaux comportementaux du British Shorthair (British Shorthair)"
     text: "* Regard doux (Soft Staring): Une expression d'amour mature et indépendante, indiquant qu'il est heureux et en sécurité en partageant simplement la même pièce. (Clignez lentement des yeux pour répondre. Ne vous approchez pas et ne le portez pas de force ; observez-le calmement.)
 
 * Mouvements de queue (Tail Swishing): Un signal de refus indiquant que la pression des caresses l'incommode et demandant d'arrêter alors que le stress monte. (Arrêtez immédiatement de le caresser et évitez tout contact physique pour laisser le chat se détendre.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Routine quotidienne en 3 étapes pour le soin du British Shorthair (British Shorthair)"
     text: "* STEP 1. Matin : Mesure stricte des rations avec une balance de précision: Pour prévenir la cardiomyopathie hypertrophique (CMH) aggravée par l'obésité, pesez la nourriture sur une balance électronique selon les besoins caloriques quotidiens.
 
 * STEP 2. Midi : Brossage du sous-poil avec une brosse en caoutchouc: Bien que de poil court, leur pelage est très dense. Brossez pendant 5 minutes avec une brosse en caoutchouc spéciale pour retirer les poils morts sans irriter la peau.
@@ -60,7 +60,7 @@ Avec leur large face ronde et leur corps musclé, les British Shorthair sont app
 
 ---
 
-## 2. British Shorthair (British Shorthair)'s Body Language & Signals
+## 2. Langage corporel et signaux comportementaux du British Shorthair (British Shorthair)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Avec leur large face ronde et leur corps musclé, les British Shorthair sont app
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Routine quotidienne en 3 étapes pour le soin du British Shorthair (British Shorthair)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

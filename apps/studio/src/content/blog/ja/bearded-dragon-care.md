@@ -13,11 +13,11 @@ authority: "爬虫類両生類獣医師会（ARAV）飼育ガイドラインお�
 steps:
   - name: "フトアゴヒゲトカゲの行動言語：ヘッドボビングとアームウェービング"
     text: "フトアゴヒゲトカゲは独特の仕草で優位性を示し、感情を伝えます。頭を上下に激しく振る「ヘッドボビング（Head Bobbing）」は、高い支配性や縄張りを主張する強い態度です。一方、片方の前足を空中でゆっくり大きく回す「アームウェービング（Arm Waving）」は、敵意がないことを示す復従と平和のサインです。"
-  - name: "フトアゴヒゲトカゲ (Pogona vitticeps)'s Body Language & Signals"
+  - name: "フトアゴヒゲトカゲ (Pogona vitticeps)のボディランゲージと行動サイン"
     text: "* ヘッドボビング（激しい首振り）: 自分の優位性や縄張りを主張する行動で、他の個体を見たときやケージガラスに映る自分の姿に興奮した際に見られます。 (同居によるストレスを防ぐため単独飼育を徹底し、ガラス壁に反射防止シートを貼るなどして視覚的刺激を減らします。)
 
 * アームウェービング（前足を回す動作）: 相手に攻撃意思がないことを伝える復従と平和の社会信号で、自分より強い存在や飼い主に向けて行われます。 (目線を低くして優しく近づき、落ち着いた声で話しかけながら、飼い主が安全な存在であると認識できるようご褒美を与えます。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "フトアゴヒゲトカゲ (Pogona vitticeps)のための3ステップホームケアルーティン"
     text: "* STEP 1. 朝：バスキング熱源およびUVBランプの点灯: スポット保温球とUVBライトを点灯します。バスキングスポットの温度が35〜40℃に達し、消化酵素が働くよう体温上昇を促します。
 
 * STEP 2. 昼：栄養を含ませた昆虫給餌とカルシウム添加: カルシウムパウダー（室内飼育ではビタミンD3入り）をまぶした生餌昆虫と、チコリやチンゲンサイなどの新鮮な高カルシウム野菜を提供します。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. フトアゴヒゲトカゲ (Pogona vitticeps)'s Body Language & Signals
+## 2. フトアゴヒゲトカゲ (Pogona vitticeps)のボディランゲージと行動サイン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ faqs:
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. フトアゴヒゲトカゲ (Pogona vitticeps)のための3ステップホームケアルーティン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

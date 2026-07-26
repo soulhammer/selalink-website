@@ -13,11 +13,11 @@ authority: "Rassehandbuch des Chihuahua Club of America und AVMA-Richtlinien fü
 steps:
   - name: "Signale des Chihuahuas: Emotionales Zittern und defensives Knurren"
     text: "Chihuahuas sind sensibel und senden aufgrund ihrer Größe starke Signale. Zu den Reaktionen gehören Zittern (Shivering) und Knurren (Growling). Zittern tritt bei Kälte oder starken Emotionen wie Aufregung, Angst oder Anspannung auf. Knurren mit Zähnefletschen ist eine Warnung aus Angst. Zwingen Sie sich nicht auf und halten Sie Abstand."
-  - name: "Chihuahua (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "Körpersprache und Verhaltenssignale von Chihuahua (Canis lupus familiaris)"
     text: "* Zittern (Shivering): Tritt bei Kälte auf oder als körperliche Reaktion auf intensive Emotionen wie Aufregung, Angst oder Anspannung. (In eine warme Decke wickeln und in einem ruhigen Raum halten, um die Nerven zu beruhigen.)
 
 * Defensives Knurren (Growling): Eine Warnung aus Angst, dass Kontakt als Bedrohung empfunden wird, die Sie auffordert, den Kontakt abzubrechen. (Sofort aufhören zu berühren, zurücktreten und sie sich allein beruhigen lassen.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Maßgeschneiderte 3-Schritte-Tagesroutine für Chihuahua (Canis lupus familiaris)"
     text: "* STEP 1. Morgen: Molera-Schutzprüfung und Raumtemperatur-Einstellung: Keinen Druck auf die Molera ausüben. Halten Sie die Raumtemperatur für den kälteempfindlichen Hund bei etwa 24-26 °C.
 
 * STEP 2. Nachmittag: Kurze Nasenarbeit und Geräusch-Desensibilisierung: Vermeiden Sie erzwungenen Hundekontakt. Lassen Sie sie schnüffeln und üben Sie 5 Minuten Geräusch-Desensibilisierung bei Klingeltönen mit Leckerlis.
@@ -64,7 +64,7 @@ Heute entschlüsselt PetSelf die Körpersprache des Chihuahuas und stellt eine 3
 
 ---
 
-## 2. Chihuahua (Canis lupus familiaris)'s Body Language & Signals
+## 2. Körpersprache und Verhaltenssignale von Chihuahua (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -90,7 +90,7 @@ Heute entschlüsselt PetSelf die Körpersprache des Chihuahuas und stellt eine 3
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Maßgeschneiderte 3-Schritte-Tagesroutine für Chihuahua (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

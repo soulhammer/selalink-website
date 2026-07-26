@@ -13,11 +13,11 @@ authority: "Diretrizes da House Rabbit Society (HRS) e Padrões Veterinários da
 steps:
   - name: "Comunicação do Holland Lop: A Dança Binky e as Batidas de Pata"
     text: "Os coelhos expressam suas emoções por meio de movimentos corporais. O salto com torção no ar conhecido como 'Binky' é a expressão máxima de felicidade. Batidas fortes com as patas traseiras (Thumping) indicam alerta ou insatisfação."
-  - name: "Coelho Holland Lop (Oryctolagus cuniculus)'s Body Language & Signals"
+  - name: "Linguagem corporal e sinais de comportamento do Coelho Holland Lop (Oryctolagus cuniculus)"
     text: "* Salto e Giro no Ar (Binky Dance): Expressão de pura alegria, entusiasmo e segurança total no ambiente e com o tutor. (Ofereça espaço com tapete antiderrapante para que ele possa correr e pular com segurança.)
 
 * Batida Forte com Pata Traseira (Thumping): Sinal de alerta diante de barulhos assustadores, cheiros estranhos ou insatisfação. (Identifique o fator de estresse e acalme o coelho falando baixinho com voz suave.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rotina diária de 3 passos para cuidados com Coelho Holland Lop (Oryctolagus cuniculus)"
     text: "* STEP 1. Manhã: Feno Timothy Ilimitado e Água Fresca: Encha o porta-feno com feno Timothy fresco de 1º corte para manter a motilidade intestinal e o desgaste dentário.
 
 * STEP 2. Tarde: Inspeção de Orelhas Caídas e Descanso: Levante suavemente as orelhas para checar se há vermelhidão ou secreções e garanta um descanso tranquilo.
@@ -60,7 +60,7 @@ O Holland Lop é uma das raças de coelho mais amadas do mundo devido à sua cab
 
 ---
 
-## 2. Coelho Holland Lop (Oryctolagus cuniculus)'s Body Language & Signals
+## 2. Linguagem corporal e sinais de comportamento do Coelho Holland Lop (Oryctolagus cuniculus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ O Holland Lop é uma das raças de coelho mais amadas do mundo devido à sua cab
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rotina diária de 3 passos para cuidados com Coelho Holland Lop (Oryctolagus cuniculus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

@@ -13,11 +13,11 @@ authority: "爬虫類・両生類獣医師協会 (ARAV) 飼育ガイドライン
 steps:
   - name: "ヒョウモントカゲモドキのボディランゲージ：しっぽの動きと脱皮前兆の解読"
     text: "ぷっくりとした尾は栄養の貯蔵庫であり、感情を伝えるアンテナです。威嚇のためのゆっくりとした尾振りと、給餌時の喜びの振りを区別することが重要です。"
-  - name: "ヒョウモントカゲモドキ (Eublepharis macularius / Leopard Gecko)'s Body Language & Signals"
+  - name: "ヒョウモントカゲモドキ (Eublepharis macularius / Leopard Gecko)のボディランゲージと行動サイン"
     text: "* 尾を高く上げてゆっくり左右に振る (Slow Tail Waving): 強い警戒を感じ、「攻撃するぞ」と相手を威嚇している緊急警戒状態です。 (ハンドリングを直ちに中止し、手をゆっくり引き、トカゲが落ち着くまで静かに見守ります。)
 
 * 体色が白くくすみ目をこする (Pre-Shedding Signal): 古い皮が剥がれ始める脱皮直前のサインで、皮膚が乾燥し非常に繊細になっています。 (湿性シェルター内の水苔やキッチンペーパーをぬるま湯で湿らせ、湿度を70%以上に高めます。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "ヒョウモントカゲモドキ (Eublepharis macularius / Leopard Gecko)のための3ステップホームケアルーティン"
     text: "* STEP 1. 朝：温度勾配の確認と湿性シェルターの給水: パネルヒーターの温度（30°C ~ 32°C）を確認し、湿性シェルターにぬるま湯をスプレーして湿度を保ちます。
 
 * STEP 2. 昼：静かな環境での昼間睡眠の確保: 直射日光を避け、暗く静かな環境を保ち、夜行性の睡眠を妨げないようにします。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. ヒョウモントカゲモドキ (Eublepharis macularius / Leopard Gecko)'s Body Language & Signals
+## 2. ヒョウモントカゲモドキ (Eublepharis macularius / Leopard Gecko)のボディランゲージと行動サイン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ faqs:
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. ヒョウモントカゲモドキ (Eublepharis macularius / Leopard Gecko)のための3ステップホームケアルーティン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

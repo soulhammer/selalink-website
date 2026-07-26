@@ -13,11 +13,11 @@ authority: "House Rabbit Society (HRS) Guidelines & Association of Exotic Mammal
 steps:
   - name: "Holland Lop Communication: Deciphering the Binky Dance & Thumping Signals"
     text: "Rabbits express intense emotion through full-body physical movements rather than vocalization. The airborne twist jump known as a 'Binky' signals peak euphoria and happiness, whereas foot thumping is a defensive alarm or expression of strong discontent."
-  - name: "Holland Lop Rabbit (Oryctolagus cuniculus)'s Body Language & Signals"
+  - name: "Holland Lop Rabbit (Oryctolagus cuniculus)'s Body Language & Behavioral Signals"
     text: "* Mid-Air Twist & Jump (Binky Dance): An expression of pure joy, high spirits, and deep contentment with their living environment and handler. (Provide non-slip mat areas so the rabbit can safely sprint, jump, and express its happiness without slipping.)
 
 * Stomping Hard with Hind Legs (Thumping): A warning signal triggered by startling noises, unfamiliar predator scents, or strong frustration over withheld treats. (Check the surrounding environment for noise or stressors, speak in low comforting tones, and gently reassure the rabbit.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Customized 3-Step Home Care Routine for Holland Lop Rabbit (Oryctolagus cuniculus)"
     text: "* STEP 1. Morning: Unlimited 1st-Cut Timothy Hay Refill & Fresh Water Change: Fill hay racks generously with fresh 1st-cut Timothy hay to maintain continuous gut motility and promote essential tooth wear.
 
 * STEP 2. Afternoon: Floppy Ear Ventilation Inspection & Quiet Daytime Rest: Gently lift floppy ears to inspect for redness, debris, or discharge, and ensure uninterrupted, quiet daytime sleep.
@@ -60,7 +60,7 @@ Distinguished by their compact round heads and floppy ears, Holland Lops are amo
 
 ---
 
-## 2. Holland Lop Rabbit (Oryctolagus cuniculus)'s Body Language & Signals
+## 2. Holland Lop Rabbit (Oryctolagus cuniculus)'s Body Language & Behavioral Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Distinguished by their compact round heads and floppy ears, Holland Lops are amo
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Customized 3-Step Home Care Routine for Holland Lop Rabbit (Oryctolagus cuniculus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

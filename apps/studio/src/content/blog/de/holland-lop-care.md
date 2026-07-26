@@ -13,11 +13,11 @@ authority: "Richtlinien der House Rabbit Society (HRS) und AEMV-Veterinärstanda
 steps:
   - name: "Körpersprache: Binky-Tanz & Klopfen mit den Hinterläufen"
     text: "Kaninchen drücken ihre Gefühle durch Bewegungen aus. Der Luftsprung mit Drehung ('Binky') steht für pure Lebensfreude. Das Klopfen (Thumping) mit den Hinterbeinen signalisiert Warnung, Angst oder Unmut."
-  - name: "Holland Lop / Zwergwidder (Oryctolagus cuniculus)'s Body Language & Signals"
+  - name: "Körpersprache und Verhaltenssignale von Holland Lop / Zwergwidder (Oryctolagus cuniculus)"
     text: "* Freudensprung mit Drehung in der Luft (Binky Dance): Ausdruck von tiefer Freude, Energie und vollkommenem Wohlbefinden in seiner Umgebung. (Rutschfeste Teppiche für sicheres Auslaufen und Springen bereitstellen.)
 
 * Klopfen mit den Hinterläufen (Thumping): Warnung vor Geräuschen, Raubtiergerüchen oder Unzufriedenheit über fehlende Leckerlis. (Ursache im Umfeld ermitteln und das Tier mit sanfter, ruhiger Stimme beruhigen.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Maßgeschneiderte 3-Schritte-Tagesroutine für Holland Lop / Zwergwidder (Oryctolagus cuniculus)"
     text: "* STEP 1. Morgen: Unbegrenzt Timothy-Heu & Frischwasser: Heuraufe mit frischem 1. Schnitt Timothy-Heu auffüllen, um die Magen-Darm-Motorik aufrechtzuerhalten.
 
 * STEP 2. Nachmittag: Schlappohren-Kontrolle & Ruhezeit: Ohren sanft anheben und auf Rötungen oder Ausfluss prüfen, um eine ungestörte Ruhephase zu sichern.
@@ -60,7 +60,7 @@ Der Holland Lop zeichnet sich durch seine runde Kopfform und die charakteristisc
 
 ---
 
-## 2. Holland Lop / Zwergwidder (Oryctolagus cuniculus)'s Body Language & Signals
+## 2. Körpersprache und Verhaltenssignale von Holland Lop / Zwergwidder (Oryctolagus cuniculus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Der Holland Lop zeichnet sich durch seine runde Kopfform und die charakteristisc
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Maßgeschneiderte 3-Schritte-Tagesroutine für Holland Lop / Zwergwidder (Oryctolagus cuniculus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

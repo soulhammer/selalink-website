@@ -13,11 +13,11 @@ authority: "Diretrizes de Saúde de Animais Aquáticos da Associação Mundial d
 steps:
   - name: "Comunicação do Betta: Abertura de guelras (Flaring) e descanso na superfície"
     text: "Abrir os opérculos das guelras e expandir totalmente as nadadeiras — o chamado 'Flaring' — é um forte sinal de alerta territorial e excitação. Exercícios moderados de 5 minutos diários ajudam a exercitar as nadadeiras, mas o Flaring constante reduz a imunidade."
-  - name: "Peixe Betta (Betta splendens / Peixe de Briga Siamês)'s Body Language & Signals"
+  - name: "Linguagem corporal e sinais de comportamento do Peixe Betta (Betta splendens / Peixe de Briga Siamês)"
     text: "* Guelras abertas e nadadeiras totalmente expandidas (Flaring): Alerta de invasão territorial ou manifestação de agressividade e estresse desencadeada pelo próprio reflexo no vidro. (Remova espelhos ou objetos reflexivos próximos ao aquário para garantir que o evento não passe de 5 minutos.)
 
 * Deitado imóvel sobre folhas perto da superfície (Labyrinth Resting): Comportamento normal de repouso para aliviar o peso das nadadeiras enquanto respira pelo órgão labirinto durante o sono profundo. (Não é doença; reduza a iluminação e ajuste o filtro de esponja para evitar correntes de água fortes.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rotina diária de 3 passos para cuidados com Peixe Betta (Betta splendens / Peixe de Briga Siamês)"
     text: "* STEP 1. Manhã: Verificação de temperatura (24°C ~ 26°C) e do fluxo suave de água: Confira o termômetro para verificar o aquecedor e garanta que não haja correntes fortes que dificultem o nado do Betta.
 
 * STEP 2. Tarde: Alimentação fracionada com ração específica e remoção de sobras: Forneça de 3 a 4 grãos de ração específica rica em proteínas e remova as sobras com um conta-gotas em até 5 minutos.
@@ -60,7 +60,7 @@ Com nadadeiras deslumbrantes que se abrem como um vestido e um nado elegante, o 
 
 ---
 
-## 2. Peixe Betta (Betta splendens / Peixe de Briga Siamês)'s Body Language & Signals
+## 2. Linguagem corporal e sinais de comportamento do Peixe Betta (Betta splendens / Peixe de Briga Siamês)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Com nadadeiras deslumbrantes que se abrem como um vestido e um nado elegante, o 
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rotina diária de 3 passos para cuidados com Peixe Betta (Betta splendens / Peixe de Briga Siamês)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

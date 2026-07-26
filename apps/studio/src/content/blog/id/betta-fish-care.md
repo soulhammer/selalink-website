@@ -13,11 +13,11 @@ authority: "Standar Kesehatan Hewan Akuatik World Small Animal Veterinary Associ
 steps:
   - name: "Komunikasi Ikan Cupang: Mengembangkan Insang (Flaring) dan Istirahat di Permukaan Air"
     text: "Mengembangkan penutup insang dan melebarkan sirip sepenuhnya—yang dikenal sebagai 'Flaring'—merupakan sinyal peringatan teritorial dan kegembiraan yang kuat. Latihan flaring rutin selama 5 menit sehari bermanfaat untuk kesehatan sirip, namun flaring yang terus-menerus akan menurunkan daya tahan tubuh."
-  - name: "Ikan Betta (Betta splendens / Ikan Cupang)'s Body Language & Signals"
+  - name: "Bahasa Tubuh dan Sinyal Perilaku Ikan Betta (Betta splendens / Ikan Cupang)"
     text: "* Mengembangkan Penutup Insang & Sirip Mengembang Maksimal (Flaring): Peringatan atas pelanggaran wilayah atau bentuk respons stres dan agresivitas yang dipicu oleh bayangan diri sendiri di kaca aquarium. (Jauhkan cermin atau benda yang memantulkan bayangan di dekat akuarium untuk memastikan aksi flaring tidak berlangsung lebih dari 5 menit.)
 
 * Berbaring Diam di Atas Daun Dekat Permukaan Air (Labyrinth Resting): Perilaku istirahat normal untuk meringankan beban sirip sambil bernapas melalui organ labirin saat tidur nyenyak. (Bukan berarti ikan sakit; redupkan lampu dan sesuaikan filter spons agar tidak menimbulkan arus air yang terlalu kencang.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutinitas Perawatan Harian 3 Langkah untuk Ikan Betta (Betta splendens / Ikan Cupang)"
     text: "* STEP 1. Pagi: Pemeriksaan Suhu Air (24°C ~ 26°C) & Arus Filter yang Tenang: Periksa termometer dan pastikan pemanas bekerja dengan baik, serta pastikan tidak ada arus kencang yang menyulitkan ikan berenang.
 
 * STEP 2. Siang: Pemberian Pakan Pelet Protein Tinggi Bertahap & Pembersihan Sisa Makanan: Berikan 3 hingga 4 butir pelet khusus Cupang berprotein tinggi secara bertahap, dan ambil sisa pakan yang jatuh menggunakan pipet dalam waktu 5 menit.
@@ -60,7 +60,7 @@ Memiliki sirip megah yang mengembang bagaikan gaun serta gaya berenang yang angg
 
 ---
 
-## 2. Ikan Betta (Betta splendens / Ikan Cupang)'s Body Language & Signals
+## 2. Bahasa Tubuh dan Sinyal Perilaku Ikan Betta (Betta splendens / Ikan Cupang)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Memiliki sirip megah yang mengembang bagaikan gaun serta gaya berenang yang angg
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutinitas Perawatan Harian 3 Langkah untuk Ikan Betta (Betta splendens / Ikan Cupang)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

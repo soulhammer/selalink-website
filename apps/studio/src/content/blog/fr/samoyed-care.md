@@ -13,11 +13,11 @@ authority: "Manuel Officiel de l'AKC pour le Samoyède et Normes de l'OFA"
 steps:
   - name: "Langage corporel du Samoyède : Pose de fraîcheur et boiterie de la hanche"
     text: "Quand il a chaud, il s'allonge en grenouille 'Allonge de grenouille' (Splooting) pour rafraîchir son ventre contre le sol. Au contraire, le 'Saut de lapin' (Bunny Hopping) où les deux pattes arrière bougent ensemble traduit une douleur articulaire de la hanche."
-  - name: "Samoyède (Canis lupus familiaris / Samoyed)'s Body Language & Signals"
+  - name: "Langage corporel et signaux comportementaux du Samoyède (Canis lupus familiaris / Samoyed)"
     text: "* Allonge de grenouille (Splooting): Couché à plat ventre, pattes étirées vers l'arrière, pour refroidir son corps contre le sol frais. (Offrez-lui des tapis rafraîchissants et laissez-le se reposer dans un endroit ombragé et aéré.)
 
 * Saut de lapin (Bunny Hopping): Sautiller avec les deux pattes arrière en même temps pour soulager l'articulation douloureuse de la hanche. (Arrêtez l'exercice intensif immédiatement et faites réaliser un diagnostic orthopédique (radiographie) par un vétérinaire.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Routine quotidienne en 3 étapes pour le soin du Samoyède (Canis lupus familiaris / Samoyed)"
     text: "* STEP 1. Matin : Brossage régulier pour aérer le sous-poil: Brossez quotidiennement sa fourrure avec une carde (slicker) et un peigne en métal pour ôter le sous-poil mort et éviter les nœuds.
 
 * STEP 2. Après-midi : Protection articulaire et tapis antidérapants: Installez des tapis antidérapants sur les sols glissants, contrôlez son poids et donnez-lui de la glucosamine pour fortifier sa hanche.
@@ -60,7 +60,7 @@ Célèbre pour sa fourrure blanche et son doux 'Sourire de Samoyède', ce chien 
 
 ---
 
-## 2. Samoyède (Canis lupus familiaris / Samoyed)'s Body Language & Signals
+## 2. Langage corporel et signaux comportementaux du Samoyède (Canis lupus familiaris / Samoyed)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Célèbre pour sa fourrure blanche et son doux 'Sourire de Samoyède', ce chien 
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Routine quotidienne en 3 étapes pour le soin du Samoyède (Canis lupus familiaris / Samoyed)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

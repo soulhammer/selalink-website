@@ -13,11 +13,11 @@ authority: "Panduan Perilaku Cornell Feline Health Center & Manual Perawatan Hew
 steps:
   - name: "Bahasa Tubuh Kucing: Ekspresi Kepercayaan Tertinggi"
     text: "Salah satu ekspresi kepercayaan terkuat yang dikirimkan kucing kepada pemiliknya adalah 'menaikkan ekor secara vertikal' (Tail Up) dan 'mendengkur' (Purring). Mendekat dengan ekor tegak lurus ke atas adalah sinyal ramah dan permintaan untuk berkomunikasi. Selain itu, dengkuran merangsang endorfin untuk menenangkan pikiran mereka. Perhatikan bahwa mendengkur juga bisa menjadi sinyal penyembuhan diri saat mereka kesakitan. Jika kucing bersembunyi di tempat gelap dan mendengkur dengan ekspresi tertekan, pantau kesehatan mereka secara teliti."
-  - name: "Korean Shorthair (Felis catus)'s Body Language & Signals"
+  - name: "Bahasa Tubuh dan Sinyal Perilaku Korean Shorthair (Felis catus)"
     text: "* Ekor Tegak (Tail Up): Ekspresi keramahan yang kuat, komunikasi positif, dan kegembiraan terhadap pemilik. (Berikan kontak mata yang lembut atau belai dagu mereka untuk interaksi positif.)
 
 * Mendengkur (Purring): Biasanya dilakukan saat senang, tetapi bisa juga menjadi tanda penyembuhan diri dari rasa sakit atau kecemasan. (Jika mereka mendengkur saat bersembunyi di tempat gelap, periksa dengan teliti kesehatannya.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutinitas Perawatan Harian 3 Langkah untuk Korean Shorthair (Felis catus)"
     text: "* STEP 1. Pagi: Pemeriksaan Ruang Vertikal dan Pengaturan Pemandangan Jendela: Bersamaan dengan ventilasi pagi, buka tirai di dekat pohon kucing di samping jendela. Memastikan ruang vertikal dan memungkinkan mereka melihat pemandangan luar memberikan stimulasi mental dan secara dramatis mengurangi stres akibat kurungan.
 
 * STEP 2. Siang/Sore: Rutinitas Permainan Simulasi Berburu 15 Menit: Lakukan permainan simulasi berburu menggunakan mainan pancingan selama 15 menit sekali sehari. Karena kucing adalah predator alami, mengejar mainan dan merasakan 'kegembiraan menangkap' mencegah frustrasi.
@@ -64,7 +64,7 @@ Hari ini, PetSelf mengeksplorasi bahasa tubuh kucing-kucing ini dan membagikan 3
 
 ---
 
-## 2. Korean Shorthair (Felis catus)'s Body Language & Signals
+## 2. Bahasa Tubuh dan Sinyal Perilaku Korean Shorthair (Felis catus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -90,7 +90,7 @@ Hari ini, PetSelf mengeksplorasi bahasa tubuh kucing-kucing ini dan membagikan 3
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutinitas Perawatan Harian 3 Langkah untuk Korean Shorthair (Felis catus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

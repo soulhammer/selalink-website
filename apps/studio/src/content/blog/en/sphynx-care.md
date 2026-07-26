@@ -13,11 +13,11 @@ authority: "International Society of Feline Medicine (ISFM) Dermatology Guidelin
 steps:
   - name: "Sphynx Body Language: Heat-Seeking Behavior and Deep Affection"
     text: "Because Sphynx cats are prone to feeling cold, they actively seek warmth by pressing closely against your neck, lap, or under blankets. Clinging tightly to your skin or perching on your lap while purring expresses both deep affection and a practical desire to share body heat. If their skin feels cold to the touch or they curl up tightly in a ball, adjust the ambient temperature immediately."
-  - name: "Sphynx Cat's Body Language & Signals"
+  - name: "Sphynx Cat's Body Language & Behavioral Signals"
     text: "* Heat-Seeking (Clinging to warm skin or heat sources): An indication that the surrounding air feels cold and their body temperature is dropping, requesting heat. (Check ambient temperature (maintain 22–26°C), dress them in soft cotton clothes, and provide a safe heated pad or cave bed.)
 
 * Squinting & Purring: A state of deep contentment, physical warmth, and complete trust in the owner. (Gently stroke their warm body and allow them to rest comfortably by your side.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Customized 3-Step Home Care Routine for Sphynx Cat"
     text: "* STEP 1. Morning: Gentle Skin Fold Cleansing with Warm Towels: Wipe away brownish sebum accumulated in skin folds, neck, and paws using a warm damp towel or gentle wipe to prevent blackheads and skin infections.
 
 * STEP 2. Afternoon: Sun Protection to Prevent UV Damage: Hairless skin exposed to direct sunlight can easily suffer from sunburn (solar dermatitis). Adjust curtains or blinds to block intense UV rays during peak daylight hours.
@@ -60,7 +60,7 @@ The Sphynx cat is a unique and captivating breed born without a typical coat due
 
 ---
 
-## 2. Sphynx Cat's Body Language & Signals
+## 2. Sphynx Cat's Body Language & Behavioral Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ The Sphynx cat is a unique and captivating breed born without a typical coat due
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Customized 3-Step Home Care Routine for Sphynx Cat
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

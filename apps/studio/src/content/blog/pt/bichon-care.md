@@ -13,11 +13,11 @@ authority: "Diretrizes do Bichon Frise Club of America e Padrões de Saúde Vete
 steps:
   - name: "Linguagem corporal do Bichon Frisé: Bichon Blitz e busca de atenção"
     text: "Quando animados, os Bichons realizam o 'Bichon Blitz' (correr freneticamente pela casa) para gastar instantaneamente a energia acumulada. Trata-se de um comportamento instintivo de liberação energética. Além disso, tocar o joelho ou o braço do tutor com a pata ('toque de pata') é um sinal pacífico e afetuoso para pedir atenção e brincadeiras."
-  - name: "Bichon Frisé (Bichon Frise)'s Body Language & Signals"
+  - name: "Linguagem corporal e sinais de comportamento do Bichon Frisé (Bichon Frise)"
     text: "* Bichon Blitz: Comportamento instintivo de brincadeira para queimar rapidamente a energia acumulada por meio de atividade física intensa. (Coloque protetores nas quinas dos móveis ao longo do trajeto, garanta tapetes antiderrapantes e espere calmamente até que ele pare sozinho.)
 
 * Toque de pata (Paw Tap): Forma pacífica e amigável de comunicação característica do Bichon Frisé para pedir atenção e interação. (Faça contato visual suavemente e afague-o, ou faça uma sessão rápida de comandos (senta/dá a pata) para estimular a mente dele.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rotina diária de 3 passos para cuidados com Bichon Frisé (Bichon Frise)"
     text: "* STEP 1. Manhã: Brincadeira leve de buscar brinquedos e cabo de guerra suave: Para evitar colisões com móveis ou batentes de portas, faça um cabo de guerra suave pela manhã com um brinquedo de tecido para gastar a energia gradualmente.
 
 * STEP 2. Tarde: Rotina de 10 minutos de escovação alternando rasqueadeira e pente de aço: Para evitar que os nós apertados comprimam a pele, borrife spray condicionante, escove o abdômen e a parte interna das patas com a rasqueadeira e confira mecha por mecha com o pente de aço.
@@ -60,7 +60,7 @@ O Bichon Frisé é conhecido por sua pelagem branca como algodão e sua natureza
 
 ---
 
-## 2. Bichon Frisé (Bichon Frise)'s Body Language & Signals
+## 2. Linguagem corporal e sinais de comportamento do Bichon Frisé (Bichon Frise)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ O Bichon Frisé é conhecido por sua pelagem branca como algodão e sua natureza
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rotina diária de 3 passos para cuidados com Bichon Frisé (Bichon Frise)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

@@ -13,11 +13,11 @@ authority: "Guía de la raza Bengalí de The International Cat Association (TICA
 steps:
   - name: "Expresiones del gato Bengalí: sonidos de trino y movimientos de cola"
     text: "Los Bengalíes son gatos muy comunicativos que expresan sus emociones con total claridad. Además del maullido habitual, emiten un sonido similar al canto de un pájaro, llamado 'trino' (Chirping), para pedir juego o indicar aburrimiento. Reconocer este sonido junto al movimiento rápido de la cola permite prevenir problemas de conducta derivados del estrés."
-  - name: "Gato Bengalí (Prionailurus bengalensis × Felis catus)'s Body Language & Signals"
+  - name: "Lenguaje corporal y señales de conducta de Gato Bengalí (Prionailurus bengalensis × Felis catus)"
     text: "* Trinos (Chirping) y maullidos fuertes: Petición activa de interacción que indica aburrimiento y la necesidad urgente de iniciar actividades físicas o mentales. (Inicie de inmediato un juego de caza con varitas de plumas y evite ignorarlo para no generar mayor frustración.)
 
 * Movimiento rápido de cola con postura alta de cadera: Estado de máxima excitación o concentración absoluta en una presa, mostrando un desbordamiento de energía acumulada. (Utilice punteros láser o juguetes automáticos en un espacio amplio para que corra e hierva su instinto cazador de forma segura.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutina diaria de 3 pasos para el cuidado de Gato Bengalí (Prionailurus bengalensis × Felis catus)"
     text: "* STEP 1. Mañana: Sesión de juego interactivo de caza de alta intensidad: Dedique 15 minutos a jugar con una varita de plumas o tipo caña de pescar. Recree movimientos rápidos de presas para activar su instinto cazador.
 
 * STEP 2. Tarde: Inspección de estabilidad vertical y espacio de observación: Revise que los árboles rascadores y estantes de pared no se tambaleen, y habilite un espacio en ventanas altas para que vigile su entorno exterior.
@@ -60,7 +60,7 @@ Los gatos Bengalíes son populares por sus hermosas manchas de leopardo y su asp
 
 ---
 
-## 2. Gato Bengalí (Prionailurus bengalensis × Felis catus)'s Body Language & Signals
+## 2. Lenguaje corporal y señales de conducta de Gato Bengalí (Prionailurus bengalensis × Felis catus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Los gatos Bengalíes son populares por sus hermosas manchas de leopardo y su asp
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutina diaria de 3 pasos para el cuidado de Gato Bengalí (Prionailurus bengalensis × Felis catus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

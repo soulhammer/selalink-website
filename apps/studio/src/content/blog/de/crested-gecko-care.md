@@ -13,11 +13,11 @@ authority: "Internationales Reptilienschutz-Protokoll & USARK Tiermedizinische S
 steps:
   - name: "Körpersprache des Kronengeckos: S-förmiges Schwanzwedeln und Augenputzen (Eye Wiping)"
     text: "Kronengeckos drücken ihren Gemütszustand über Schwanz- und Zungenbewegungen aus. Das Anheben des Schwanzes in S-Form mit langsamem Wedeln ist ein 'Abwehr- und Warnsignal (Tail S-Wagging)' vor dem Schwanzabwurf (Autotomie). Das Überlecken der Augen oder des Mauls mit der Zunge ist dagegen ein natürliches 'Hygiene- und Erkundungssignal (Eye Wiping)', um die lidlosen Augen zu befeuchten und Geruchspartikel aufzunehmen."
-  - name: "Kronengecko (Crested Gecko)'s Body Language & Signals"
+  - name: "Körpersprache und Verhaltenssignale von Kronengecko (Crested Gecko)"
     text: "* Schwanz S-förmig aufgestellt und langsam gewedelt (Tail S-Wagging): Extreme Abwehr- und Stresswarnung bei Bedrohung oder Handling, die oft dem Schwanzabwurf vorausgeht. (Beenden Sie das Handling sofort und setzen Sie ihn in ein dunkles, ruhiges Versteck zurück, damit er sich beruhigt.)
 
 * Befeuchten der Augen oder des Mauls mit der Zunge (Eye Wiping / Tongue Flicking): Natürliches Verhalten zur Befeuchtung der lidlosen Augen und zur Übertragung von Geruchsmolekülen an das Jacobson-Organ. (Dies ist völlig normal; stören Sie ihn nicht und prüfen Sie, ob die Luftfeuchtigkeit im Terrarium (60 %–80 %) angemessen ist.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Maßgeschneiderte 3-Schritte-Tagesroutine für Kronengecko (Crested Gecko)"
     text: "* STEP 1. Morgen: Sprühen der Terrarienwände & Kontrolle von Temperatur und Feuchtigkeit: Sprühen Sie Wasser an die Wände, damit der Gecko Tropfen auflecken kann, und halten Sie eine kühle Tagestemperatur (22 °C–25 °C).
 
 * STEP 2. Mittag: Schutz vor direktem Sonnenlicht & Ruheplatzüberwachung: Schützen Sie den Gecko vor direkter Sonne, da Temperaturen über 28 °C gefährlich sind, und sorgen Sie für einen kühlen, dunklen Ruheplatz.
@@ -60,7 +60,7 @@ Der für seine wimpernartigen Kammschuppen bekannte Kronengecko (Correlophus cil
 
 ---
 
-## 2. Kronengecko (Crested Gecko)'s Body Language & Signals
+## 2. Körpersprache und Verhaltenssignale von Kronengecko (Crested Gecko)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Der für seine wimpernartigen Kammschuppen bekannte Kronengecko (Correlophus cil
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Maßgeschneiderte 3-Schritte-Tagesroutine für Kronengecko (Crested Gecko)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

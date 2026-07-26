@@ -13,11 +13,11 @@ authority: "Rasseleitfaden für Labrador Retriever des American Kennel Club (AKC
 steps:
   - name: "Körpersprache des Labrador Retrievers: 'Soft Mouth' und Bettelsignale"
     text: "Labrador Retriever besitzen den Instinkt des 'Weichen Mauls' (Soft Mouth), um Beute unbeschädigt zu apportieren. Wenn sie Gegenstände vorsichtig im Maul tragen, ohne sie zu beschädigen, ist das ein Zeichen von Zuneigung. Das Auflegen des Kinns auf Ihren Schoß bei intensivem Blickkontakt ist dagegen ein subtiles Bettelsignal ihres ständigen Appetits."
-  - name: "Labrador Retriever's Body Language & Signals"
+  - name: "Körpersprache und Verhaltenssignale von Labrador Retriever"
     text: "* Vorsichtiges Tragen von Gegenständen (Soft Mouth): Instinktives Apportierverhalten, das Vertrauen, Zuneigung und Spielbereitschaft ausdrückt. (Nehmen Sie ihm den Gegenstand nicht gewaltsam weg. Loben Sie ihn und starten Sie ein kontrolliertes Apportierspiel (Fetch).)
 
 * Kinn auf den Schoß legen & Anstarren (Betteln): Ein durch die POMC-Genmutation ausgelöstes Signal für ständigen Hunger und den Wunsch nach Leckerlis. (Geben Sie dem Betteln nicht nach. Halten Sie strikte Futterrationen ein und nutzen Sie kalorienarme Schnüffelspiele.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Maßgeschneiderte 3-Schritte-Tagesroutine für Labrador Retriever"
     text: "* STEP 1. Morgen: Fütterung mit Anti-Schling-Napf & gelenkschonender Spaziergang: Verwenden Sie einen Anti-Schling-Napf, um zu schnelles Fressen zu verhindern, und wählen Sie flaches Terrain für den Spaziergang.
 
 * STEP 2. Mittag: Apportierspiele & Ohrenpflege nach dem Schwimmen: Bauen Sie Energie durch Apportieren ab und trocknen Sie die Ohren nach dem Schwimmen gründlich mit einem Ohrreiniger für Hunde.
@@ -60,7 +60,7 @@ Der Labrador Retriever gehört wegen seines freundlichen, klugen und sanftmütig
 
 ---
 
-## 2. Labrador Retriever's Body Language & Signals
+## 2. Körpersprache und Verhaltenssignale von Labrador Retriever
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Der Labrador Retriever gehört wegen seines freundlichen, klugen und sanftmütig
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Maßgeschneiderte 3-Schritte-Tagesroutine für Labrador Retriever
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

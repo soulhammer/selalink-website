@@ -13,11 +13,11 @@ authority: "Standar Ras Munchkin Cat Fanciers' Association (CFA) & Pedoman Ortop
 steps:
   - name: "Sinyal Fisik Munchkin: Berdiri Canguru dan Ragu saat Melompat"
     text: "Kucing Munchkin memiliki kebiasaan fisik yang unik akibat kaki pendek mereka. Duduk tegak dengan kaki belakang seperti kelinci atau kanguru 'Berdiri Canguru' (Kangaroo Standing) adalah ekspresi rasa ingin tahu yang alami. Namun, jika mereka 'ragu-ragu atau menolak melompat' ke permukaan rendah yang biasa dijangkau, ini adalah peringatan jelas adanya nyeri sendi."
-  - name: "Kucing Munchkin (Felis catus)'s Body Language & Signals"
+  - name: "Bahasa Tubuh dan Sinyal Perilaku Kucing Munchkin (Felis catus)"
     text: "* Sikap Berdiri Canguru (Kangaroo Standing): Duduk tegak dengan kaki belakang dan panggul untuk memperluas pandangan karena tubuhnya pendek. (Pastikan lantai diberi karpet atau alas anti-slip agar mereka tidak tergelincir saat bertumpu pada kaki belakang.)
 
 * Ragu-ragu Sebelum Melompat atau Batal: Mondar-mandir atau menengadah berulang kali sebelum melompat rendah, menandakan nyeri sendi akibat tekanan punggung. (Hindari memaksanya melompat, pasang tangga hewan (pet steps) menuju sofa atau kasur, dan periksakan ke dokter hewan.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutinitas Perawatan Harian 3 Langkah untuk Kucing Munchkin (Felis catus)"
     text: "* STEP 1. Pagi: Pemantauan Gerakan & Cara Berjalan: Perhatikan gerakan peregangan paginya. Amati jika jalannya kaku atau pincang, terutama saat cuaca dingin.
 
 * STEP 2. Siang: Permainan Intensitas Rendah di Lantai: Ajak bermain dengan bola menggelinding di lantai. Hindari mainan gantung tinggi yang memicu lompatan tinggi atau pendaratan keras.
@@ -60,7 +60,7 @@ Kucing Munchkin terkenal karena sifatnya yang manis dan kaki-kakinya yang pendek
 
 ---
 
-## 2. Kucing Munchkin (Felis catus)'s Body Language & Signals
+## 2. Bahasa Tubuh dan Sinyal Perilaku Kucing Munchkin (Felis catus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Kucing Munchkin terkenal karena sifatnya yang manis dan kaki-kakinya yang pendek
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutinitas Perawatan Harian 3 Langkah untuk Kucing Munchkin (Felis catus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

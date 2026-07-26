@@ -13,11 +13,11 @@ authority: "AKCフレンチ・ブルドッグ飼育ガイドラインおよび�
 steps:
   - name: "フレンチ・ブルドッグのボディランゲージ：短頭種特有の呼吸音と熱中症シグナル"
     text: "呼吸の通り道が狭くなると「喘鳴やいびきのような音（Stridor/Stertor）」が発生します。また、首を長く伸ばして舌を出しながら激しく呼吸する「首を伸ばした呼吸」は、急速な体温上昇を示す危険なサインです。"
-  - name: "フレンチ・ブルドッグ (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "フレンチ・ブルドッグ (Canis lupus familiaris)のボディランゲージと行動サイン"
     text: "* 荒い息遣いと喘鳴 (Stridor / Stertor): 空気の通り道が狭くなり、酸素供給が円滑に行われず体温が上昇している興奮状態です。 (すぐにエアコンの効いた涼しい室内か日陰へ移動させ、冷たい水分を供給して安静にさせます。)
 
 * 首を伸ばした激しい呼吸: 体に過剰な熱がこもり、熱を逃がすために必死に酸素を吸い込んでいる危険な警告サインです。 (室温を22〜24℃に調整し、冷たく湿らせたタオルで足裏や体を拭いて体温を下げます。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "フレンチ・ブルドッグ (Canis lupus familiaris)のための3ステップホームケアルーティン"
     text: "* STEP 1. 朝：顔のシワの汚れ拭き取りと湿気の乾燥: 目や鼻の周りのシワに挟まった汚れをアルコールフリーのウェットティッシュで拭き取り、真菌感染を防ぐため完全に乾燥させます。
 
 * STEP 2. 昼：熱中症を避けた15分間の平地散歩: 暑い時間帯を完全に避け、早朝や夜間の涼しい時間帯に傾斜のない平地で15分程度軽く歩かせてエネルギーを循環させます。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. フレンチ・ブルドッグ (Canis lupus familiaris)'s Body Language & Signals
+## 2. フレンチ・ブルドッグ (Canis lupus familiaris)のボディランゲージと行動サイン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ faqs:
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. フレンチ・ブルドッグ (Canis lupus familiaris)のための3ステップホームケアルーティン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

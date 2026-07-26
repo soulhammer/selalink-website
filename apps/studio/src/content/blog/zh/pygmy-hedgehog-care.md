@@ -13,11 +13,11 @@ authority: "Hedgehog Welfare Society 护理指南及异宠兽医行为规程"
 steps:
   - name: "迷你刺猬的本能：涂刺泡沫与棘刺警惕信号"
     text: "非洲迷你刺猬在感知到新物体的味道或气味时，会从口中制造出泡沫唾液并涂抹在背刺上，这一过程被称为 “涂刺（Self-Anointing）”。这是正常的本能行为，用于伪装自己的气味。相反，当感到害怕时，它们会缩成球并发出 “呼呼（Hissing）”的声音来警告外界。"
-  - name: "非洲迷你刺猬 (Atelerix albiventris / African Pygmy Hedgehog)'s Body Language & Signals"
+  - name: "非洲迷你刺猬 (Atelerix albiventris / African Pygmy Hedgehog) 的肢体语言与行为信号"
     text: "* 涂抹泡沫 (Self-Anointing): 探索新气味，并将其涂抹在自身的刺上以进行掩护的无害野生本能行为。 (这是正常行为，请勿误认为疾病并强行阻止，让它们自然地适应并记录气味。)
 
 * 缩成球并发出呼呼声 (Hissing/Ball-up): 对周围感到极度恐惧，完全竖起棘刺以阻止任何物理接触的防御模式。 (请勿徒手强行抚摸，用一块毛毯覆盖以制造黑暗的遮蔽，并让其安静片刻。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "非洲迷你刺猬 (Atelerix albiventris / African Pygmy Hedgehog) 定制化 3 步家庭护理流程"
     text: "* STEP 1. 早上：清洗被排泄物污染的跑轮和餐具: 刺猬有在跑轮奔跑时排便的习性，因此早上应迅速对夜间使用的跑轮和餐具进行清洗和消毒。
 
 * STEP 2. 白天：维持室温在24-26°C并配置加湿器: 为防止因寒冷导致低体温症和冬眠死亡，随时检查宠物电热毯和自动温控器是否正常运转。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. 非洲迷你刺猬 (Atelerix albiventris / African Pygmy Hedgehog)'s Body Language & Signals
+## 2. 非洲迷你刺猬 (Atelerix albiventris / African Pygmy Hedgehog) 的肢体语言与行为信号
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -69,7 +69,7 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 探索新气味，并将其涂抹在自身的刺上以进行掩护的无害野生本能行为。<br/>
-    <strong>•  national:</strong> 这是正常行为，请勿误认为疾病并强行阻止，让它们自然地适应并记录气味。
+    <strong>• 应对:</strong> 这是正常行为，请勿误认为疾病并强行阻止，让它们自然地适应并记录气味。
   </p>
 </div>
 
@@ -80,13 +80,13 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 对周围感到极度恐惧，完全竖起棘刺以阻止任何物理接触的防御模式。<br/>
-    <strong>•  national:</strong> 请勿徒手强行抚摸，用一块毛毯覆盖以制造黑暗的遮蔽，并让其安静片刻。
+    <strong>• 应对:</strong> 请勿徒手强行抚摸，用一块毛毯覆盖以制造黑暗的遮蔽，并让其安静片刻。
   </p>
 </div>
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. 非洲迷你刺猬 (Atelerix albiventris / African Pygmy Hedgehog) 定制化 3 步家庭护理流程
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

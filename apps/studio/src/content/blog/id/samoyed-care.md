@@ -13,11 +13,11 @@ authority: "Panduan Ras Samoyed AKC & Pedoman OFA (Orthopedic Foundation for Ani
 steps:
   - name: "Bahasa Tubuh Samoyed: Posisi Pendinginan Tubuh dan Tanda Nyeri Sendi"
     text: "Saat kegerahan, Samoyed berbaring dengan kaki belakang membentang 'Tengkurap Meregang' (Splooting) untuk mendinginkan perut. Sebaliknya, cara berjalan 'Melompat Kelinci' (Bunny Hopping) (kedua kaki belakang bergerak bersamaan) menunjukkan nyeri pinggul."
-  - name: "Samoyed (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "Bahasa Tubuh dan Sinyal Perilaku Samoyed (Canis lupus familiaris)"
     text: "* Tengkurap Meregang (Splooting): Tengkurap dengan kaki belakang menjulur lurus ke belakang untuk menurunkan suhu tubuh lewat lantai dingin. (Sediakan alas pendingin atau lantai keramik dingin dan biarkan ia beristirahat di tempat teduh.)
 
 * Lompatan Kelinci (Bunny Hopping): Melompat dengan kedua kaki belakang bersamaan untuk mengurangi tumpuan pada sendi pinggul yang sakit. (Segera hentikan olahraga berat dan lakukan pemeriksaan sinar-X pinggul di klinik hewan.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutinitas Perawatan Harian 3 Langkah untuk Samoyed (Canis lupus familiaris)"
     text: "* STEP 1. Pagi: Menyikat dengan Slicker Brush untuk Ventilasi Bulu: Sikat bulu ganda mereka setiap hari menggunakan slicker brush dan sisir besi untuk membuang bulu mati di bagian dalam dan mencegah gumpalan.
 
 * STEP 2. Siang: Perlindungan Sendi & Pemasangan Karpet Antilicin: Pasang alas antilicin di lantai rumah yang licin, jaga berat badan ideal, dan berikan suplemen glukosamin untuk merawat sendinya.
@@ -60,7 +60,7 @@ Terkenal dengan bulu putih tebal dan 'Senyum Samoyed'-nya, anjing penarik kereta
 
 ---
 
-## 2. Samoyed (Canis lupus familiaris)'s Body Language & Signals
+## 2. Bahasa Tubuh dan Sinyal Perilaku Samoyed (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Terkenal dengan bulu putih tebal dan 'Senyum Samoyed'-nya, anjing penarik kereta
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutinitas Perawatan Harian 3 Langkah untuk Samoyed (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

@@ -13,11 +13,11 @@ authority: "Padrões da GCCF para British Shorthairs e Diretrizes de Obesidade F
 steps:
   - name: "Linguagem corporal do British Shorthair: Olhar suave e abanar de cauda"
     text: "Os British Shorthairs não gostam de contato físico restritivo e demonstram confiança através do 'olhar suave' (Soft Staring) à distância. Isso indica que preferem uma relação independente, mas sentem-se seguros. Por outro lado, quando incomodados, mostram o 'abanar de cauda' (Tail Swishing) batendo no chão. Pegá-los no colo nesse momento aumentará drasticamente o estresse."
-  - name: "British Shorthair (British Shorthair)'s Body Language & Signals"
+  - name: "Linguagem corporal e sinais de comportamento do British Shorthair (British Shorthair)"
     text: "* Olhar suave (Soft Staring): Uma expressão madura e independente de amor, indicando que se sentem felizes e seguros apenas por compartilhar o mesmo espaço. (Pisque lentamente para retribuir o afeto. Não se aproxime nem os pegue no colo à força; apenas observe com calma.)
 
 * Abanar de cauda (Tail Swishing): Um sinal de recusa indicando que a intensidade do carinho ou do contato está incomodando e pedindo para parar. (Pare de afagar imediatamente e evite o contato físico para deixar o gato se acalmar sozinho.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rotina diária de 3 passos para cuidados com British Shorthair (British Shorthair)"
     text: "* STEP 1. Manhã: Controle rigoroso da dieta usando balança de precisão: Para evitar a cardiomiopatia hipertrófica (HCM) agravada pela obesidade, pese a comida em uma balança digital seguindo as calorias diárias exatas.
 
 * STEP 2. Tarde: Escovação do subpelo usando escova de borracha felina: Embora de pelo curto, sua pelagem é muito densa. Escove por 5 minutos com escova de borracha para remover pelos mortos sem irritar a pele.
@@ -60,7 +60,7 @@ Com suas grandes faces redondas e porte musculoso, os British Shorthairs são co
 
 ---
 
-## 2. British Shorthair (British Shorthair)'s Body Language & Signals
+## 2. Linguagem corporal e sinais de comportamento do British Shorthair (British Shorthair)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Com suas grandes faces redondas e porte musculoso, os British Shorthairs são co
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rotina diária de 3 passos para cuidados com British Shorthair (British Shorthair)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

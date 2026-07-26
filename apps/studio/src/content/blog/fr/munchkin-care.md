@@ -13,11 +13,11 @@ authority: "Standard du Munchkin de la Cat Fanciers' Association (CFA) et Direct
 steps:
   - name: "Signes d'inconfort du Munchkin : Position de kangourou et hésitation au saut"
     text: "En raison de leurs pattes courtes, les Munchkins ont des habitudes posturales uniques. Se dresser sur leurs pattes arrière « Position du kangourou » (Kangaroo Standing) est une attitude naturelle pour observer. En revanche, « hésiter longuement ou renoncer à sauter » sur un meuble bas est un signal clair de douleur articulaire."
-  - name: "Chat Munchkin (Felis catus)'s Body Language & Signals"
+  - name: "Langage corporel et signaux comportementaux du Chat Munchkin (Felis catus)"
     text: "* Position du kangourou (Kangaroo Standing): Se tenir droit sur ses pattes arrière pour élargir son champ de vision, un comportement courant pour compenser sa petite taille. (Placez des tapis antidérapants pour éviter les glissades fatigantes pour ses hanches lors de cette posture.)
 
 * Hésitation ou refus de sauter: Le chat regarde en hauteur, piétine mais refuse de sauter, ce qui témoigne d'une douleur ou d'une fragilité articulaire. (Ne le forcez jamais à sauter. Installez des rampes d'accès ou des petits escaliers et consultez un vétérinaire.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Routine quotidienne en 3 étapes pour le soin du Chat Munchkin (Felis catus)"
     text: "* STEP 1. Matin : Observation de la démarche au réveil: Vérifiez s'il s'étire correctement et s'il ne présente pas une démarche rigide ou boiteuse, notamment par temps humide.
 
 * STEP 2. Après-midi : Activités ludiques au sol: Jouez avec des balles ou des jouets à faire rouler sur le sol. Évitez les plumeaux agités en l'air qui provoquent des sauts.
@@ -60,7 +60,7 @@ Les chats Munchkin séduisent par leur tempérament affectueux et leurs petites 
 
 ---
 
-## 2. Chat Munchkin (Felis catus)'s Body Language & Signals
+## 2. Langage corporel et signaux comportementaux du Chat Munchkin (Felis catus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Les chats Munchkin séduisent par leur tempérament affectueux et leurs petites 
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Routine quotidienne en 3 étapes pour le soin du Chat Munchkin (Felis catus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

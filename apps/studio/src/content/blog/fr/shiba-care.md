@@ -13,11 +13,11 @@ authority: "National Shiba Club of America et directives de modification du comp
 steps:
   - name: "Langage corporel du Shiba Inu : signaux de pression et soulagement du stress"
     text: "Le Shiba Inu exprime ses limites clairement et discrètement. Les signaux clés incluent détourner le regard et s'ébrouer. Lorsqu'une personne s'approche pour le toucher et qu'il détourne la tête, ce n'est pas un jeu ; c'est une demande polie disant 's'il te plaît, ne me touche pas maintenant'. De même, s'ébrouer après un événement stressant est un mécanisme instinctif pour relâcher la tension physique et réinitialiser son état psychologique."
-  - name: "Shiba Inu's Body Language & Signals"
+  - name: "Langage corporel et signaux comportementaux du Shiba Inu"
     text: "* Détourner le regard: Une demande polie demandant à l'observateur d'arrêter de s'approcher ou de le toucher, exprimant une pression. (Si vous voyez cela, n'essayez pas de le toucher. Retirez votre main et laissez-lui de l'espace.)
 
 * S'ébrouer: Un geste pour relâcher le stress ou la tension physique accumulés récemment. (S'il s'ébroue pendant le brossage, il relâche sa tension. Arrêtez l'activité et laissez-le se reposer.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Routine quotidienne en 3 étapes pour le soin du Shiba Inu"
     text: "* STEP 1. Matin : Désensibilisation au toucher des zones sensibles: Touchez brièvement leurs pattes ou leurs hanches pendant 1 seconde, puis offrez immédiatement une friandise de haute valeur. Répétez pour créer une association positive.
 
 * STEP 2. Après-midi : Brossage à faible stress du double pelage: Utilisez une carde pour brosser délicatement dans le sens du poil. S'il montre des signes d'inconfort ou grogne, arrêtez immédiatement.
@@ -60,7 +60,7 @@ Le Shiba Inu est adoré dans le monde entier pour son physique de renard et sa q
 
 ---
 
-## 2. Shiba Inu's Body Language & Signals
+## 2. Langage corporel et signaux comportementaux du Shiba Inu
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Le Shiba Inu est adoré dans le monde entier pour son physique de renard et sa q
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Routine quotidienne en 3 étapes pour le soin du Shiba Inu
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

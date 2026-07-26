@@ -13,11 +13,11 @@ authority: "Estándar de raza de la Cat Fanciers' Association (CFA) e investigac
 steps:
   - name: "Lenguaje corporal del American Shorthair: Sobrecarga cardíaca y respiración con la boca abierta"
     text: "A diferencia de los perros, los gatos raramente jadean para regular su temperatura. Si un American Shorthair presenta 'respiración con la boca abierta' o se 'fatiga rápidamente' durante el juego, se trata de una advertencia grave de sobrecarga cardíaca. Detectarlo a tiempo puede salvar su vida."
-  - name: "American Shorthair's Body Language & Signals"
+  - name: "Lenguaje corporal y señales de conducta de American Shorthair"
     text: "* Respiración con la boca abierta (Open-Mouth Breathing): Estado de respiración fatigosa con la boca abierta, indicativo de deficiencia severa de oxígeno por sobrecarga cardiorrespiratoria o estrés extremo. (Minimice el estrés inmediatamente, coloque al gato en su transportín y llévelo de urgencia a una clínica veterinaria 24 horas para recibir oxigenoterapia.)
 
 * Fatiga rápida y acostamiento (Quick Fatigue): Interrupción del juego para tumbarse de lado tras breves minutos de actividad, debido a un gasto cardíaco insuficiente. (Limite los ejercicios intensos y realice chequeos anuales con auscultación y ecocardiograma (incluyendo prueba proBNP) para vigilar la HCM.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutina diaria de 3 pasos para el cuidado de American Shorthair"
     text: "* STEP 1. Mañana: Control estricto de raciones para prevenir la obesidad: Evite la alimentación a libre disposición. Divida el requerimiento calórico diario en porciones pesadas por la mañana y la noche para evitar el sobrepeso y proteger los vasos sanguíneos.
 
 * STEP 2. Tarde: Sesión de juego interactivo de 15 minutos para quemar calorías: Estimule su instinto cazador al menos dos veces al día durante 15 minutos con cañas de plumas o ratones de juguete para aumentar el gasto calórico.
@@ -60,7 +60,7 @@ Conocido por su hermoso patrón atigrado plateado y su complexión muscular, el 
 
 ---
 
-## 2. American Shorthair's Body Language & Signals
+## 2. Lenguaje corporal y señales de conducta de American Shorthair
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Conocido por su hermoso patrón atigrado plateado y su complexión muscular, el 
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutina diaria de 3 pasos para el cuidado de American Shorthair
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

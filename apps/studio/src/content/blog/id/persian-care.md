@@ -13,11 +13,11 @@ authority: "Pedoman Ras CFA untuk Persia & Standar Kedokteran Hewan Kucing AAFP"
 steps:
   - name: "Bahasa Tubuh Kucing Persia: Sinyal Hening dari Mata dan Telinga"
     text: "Karena Persia mengekspresikan emosi dengan tenang, mendeteksi stres bisa jadi sulit bagi pemilik. Meskipun mereka menunjukkan kasih sayang melalui 'Mata Setengah Tertutup' (Half-Closed Eyes), 'Telinga Pesawat' (Airplane Ears) (telinga ditekuk ke samping) menandakan ketidaknyamanan atau penolakan yang jelas. Hal ini biasa terjadi saat menyikat area wajah terlalu cepat."
-  - name: "Kucing Persia (Felis catus / Persian Cat)'s Body Language & Signals"
+  - name: "Bahasa Tubuh dan Sinyal Perilaku Kucing Persia (Felis catus / Persian Cat)"
     text: "* Mata Setengah Tertutup (Half-Closed Eyes): Pesan damai yang menunjukkan kepercayaan mendalam pada pemilik dan keadaan yang sangat nyaman serta puas. (Balas dengan berkedip perlahan ke arah mereka (kedipan lembut kucing) dan berbicaralah dengan suara yang menenangkan.)
 
 * Telinga Pesawat (Airplane Ears): Ekspresi ketidaknyamanan akibat akar rambut tertarik saat disikat atau ketegangan akibat kebisingan sekitar. (Segera hentikan menyikat atau menyentuh dan beri ruang bagi kucing untuk tenang di tempat sepi.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutinitas Perawatan Harian 3 Langkah untuk Kucing Persia (Felis catus / Persian Cat)"
     text: "* STEP 1. Pagi: Pembersihan Lipatan Wajah dan Penanganan Noda Air Mata: Di pagi hari saat air mata sering menetes, bersihkan lipatan wajah di sekitar hidung secara lembut dengan kasa steril untuk mencegah dermatitis ragi merah.
 
 * STEP 2. Siang: Menyikat Bulu Panjang dengan Sikat Slicker dan Sisir Besi: Fokus pada area yang mudah menggumpal seperti ketiak dan perut. Gunakan sikat slicker untuk mengurai gumpalan, lalu gunakan sisir besi helai demi helai untuk merapikan dan memeriksa sirkulasi udara.
@@ -60,7 +60,7 @@ Dengan bulu ganda tebal dan wajah rata yang khas, kucing Persia dikenal karena s
 
 ---
 
-## 2. Kucing Persia (Felis catus / Persian Cat)'s Body Language & Signals
+## 2. Bahasa Tubuh dan Sinyal Perilaku Kucing Persia (Felis catus / Persian Cat)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Dengan bulu ganda tebal dan wajah rata yang khas, kucing Persia dikenal karena s
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutinitas Perawatan Harian 3 Langkah untuk Kucing Persia (Felis catus / Persian Cat)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

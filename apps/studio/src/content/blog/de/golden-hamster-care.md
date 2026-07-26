@@ -13,11 +13,11 @@ authority: "Goldhamster-Pflegeleitfaden der Humane Society und Veterinär-Verhal
 steps:
   - name: "Goldhamster-Kommunikation: Zähneknirschen und Wachsamkeitssignale"
     text: "Goldhamster drücken Wut oder Angst durch ein charakteristisches Zähneknirschen (Teeth Chattering) aus und warnen Sie, Abstand zu halten. Wenn sie durch plötzliche Geräusche erschreckt werden, legen sie zudem die Ohren flach und erstarren (Ear Flattening). Das Erkennen dieser feinen Körpersprache-Signale ist der Schlüssel zu ihrem Wohlbefinden."
-  - name: "Goldhamster (Mesocricetus auratus)'s Body Language & Signals"
+  - name: "Körpersprache und Verhaltenssignale von Goldhamster (Mesocricetus auratus)"
     text: "* Zähneknirschen (Teeth Chattering): Eine deutliche Warnung, dass sie sich bedroht fühlen oder extrem sensibel sind. Nicht nähern. (Stoppen Sie sofort jeglichen Kontakt oder die Reinigung und geben Sie ihnen einen ruhigen Raum, um sich in ihrem Versteck zu beruhigen.)
 
 * Ohren anlegen & Erstarren (Ear Flattening): Ein Zustand hoher Anspannung und Vorsicht, ausgelöst durch plötzliche Vibrationen oder unbekannte visuelle Reize. (Vermeiden Sie laute Geräusche oder plötzliche Bewegungen in der Nähe und dimmen Sie das Licht, um den Raum dunkel und gemütlich zu halten.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Maßgeschneiderte 3-Schritte-Tagesroutine für Goldhamster (Mesocricetus auratus)"
     text: "* STEP 1. Morgen: Organisation des Verstecks und Wasserwechsel: Da Hamster am Morgen schlafen, stören Sie nicht das Innere ihres Verstecks. Ersetzen Sie das Wasser und reinigen Sie leicht den Schmutz um den Käfig herum.
 
 * STEP 2. Nachmittag: Ruhige und dunkle Umgebung für tiefen Schlaf sichern: Sichern Sie ihnen einen ungestörten Schlaf, indem Sie laute Haushaltsgeräte in der Nähe vermeiden und den Käfig beschatten.
@@ -60,7 +60,7 @@ Der kleine und niedliche Goldhamster ist ein beliebtes solitäres Heimtier. Er b
 
 ---
 
-## 2. Goldhamster (Mesocricetus auratus)'s Body Language & Signals
+## 2. Körpersprache und Verhaltenssignale von Goldhamster (Mesocricetus auratus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Der kleine und niedliche Goldhamster ist ein beliebtes solitäres Heimtier. Er b
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Maßgeschneiderte 3-Schritte-Tagesroutine für Goldhamster (Mesocricetus auratus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

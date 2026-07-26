@@ -13,11 +13,11 @@ authority: "Panduan Resmi Cat Fanciers' Association (CFA) & Protokol Perilaku Ku
 steps:
   - name: "Bahasa Tubuh Siamese: Sinyal Kepercayaan dan Kepemilikan Mendalam"
     text: "Kucing Siamese menunjukkan kasih sayang mereka secara interaktif melalui isyarat menenangkan yang kaya. Sinyal khas meliputi 'berkedip lambat' (slow blink) dan 'menanduk lembut' (bunting). Menutup mata secara perlahan saat menatap Anda adalah pernyataan rasa aman mutlak; menutup mata di depan orang lain di alam liar adalah tindakan berisiko, yang membuktikan mereka menganggap Anda sangat aman. Menggosokkan pipi atau dahi ke tangan Anda adalah cara mereka membagikan feromon penenang dan menandai Anda sebagai orang terpercaya."
-  - name: "Siamese's Body Language & Signals"
+  - name: "Bahasa Tubuh dan Sinyal Perilaku Siamese"
     text: "* Berkedip Lambat (Slow Blink): Tampilan rasa aman mutlak dan kasih sayang yang mendalam, sering kali digambarkan sebagai ciuman kucing. (Tatap matanya dengan lembut dan berikan kedipan balasan secara perlahan selama 1,5 detik.)
 
 * Menanduk Lembut (Bunting): Tindakan meninggalkan aroma wajah (feromon) untuk menandai Anda sebagai orang yang aman dan mengonfirmasi ikatan. (Elus dagu atau pipi mereka dengan lembut, membiarkan mereka bertukar aroma dengan gembira.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutinitas Perawatan Harian 3 Langkah untuk Siamese"
     text: "* STEP 1. Pagi: Sambutan Kontak Erat 10 Menit untuk Cegah Kecemasan: Untuk meredakan kecemasan perpisahan pada ras yang sensitif ini, luangkan waktu 10 menit untuk membelai Siamese Anda di bawah selimut dan berbicara lembut segera setelah bangun tidur.
 
 * STEP 2. Siang: Permainan Interaktif dan Penempatan Teka-teki Makanan: Jaga agar mereka tetap sibuk di siang hari dengan teka-teki makanan atau permainan berburu. Saat Anda pulang, luangkan waktu minimal 15 menit untuk permainan kejar-kejaran dengan tongkat bulu.
@@ -60,7 +60,7 @@ Kucing Siamese, berasal dari keluarga kerajaan Thailand, adalah kucing pendampin
 
 ---
 
-## 2. Siamese's Body Language & Signals
+## 2. Bahasa Tubuh dan Sinyal Perilaku Siamese
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Kucing Siamese, berasal dari keluarga kerajaan Thailand, adalah kucing pendampin
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutinitas Perawatan Harian 3 Langkah untuk Siamese
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

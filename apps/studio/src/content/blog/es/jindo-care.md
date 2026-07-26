@@ -13,11 +13,11 @@ authority: "Pautas Estándar de Jindo del Instituto Nacional de Ciencia Animal y
 steps:
   - name: "Lenguaje corporal del Jindo: Señales de lealtad y precaución"
     text: "Los perros Jindo se comunican de forma reservada pero clara a través de la posición de la cola y las orejas. Mantener la cola erguida y las orejas hacia adelante indica alerta y concentración; un acercamiento repentino por parte de extraños en este estado puede desencadenar reacciones defensivas. Por el contrario, la cola baja oscilando lentamente con orejas planas indica sumisión y afecto hacia el dueño."
-  - name: "Perro Jindo (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "Lenguaje corporal y señales de conducta de Perro Jindo (Canis lupus familiaris)"
     text: "* Cola erguida y orejas hacia adelante: Alerta y concentración en un objetivo desconocido en estado de tensión. (Evite el contacto repentino o visual, pida a los extraños que no lo toquen y permita que el dueño lo calme con serenidad.)
 
 * Cola baja y orejas planas al acercarse: Obediencia profunda, confianza y muestra de afecto hacia el dueño. (Acarícielo suavemente y felicítelo con voz calmada para reforzar el vínculo.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutina diaria de 3 pasos para el cuidado de Perro Jindo (Canis lupus familiaris)"
     text: "* STEP 1. Mañana: Paseo de socialización enfocado en el olfato tranquilo (Nosework): Pasee durante las horas tranquilas de la mañana con menos estímulos para desensibilizar al perro mediante el olfateo.
 
 * STEP 2. Tarde: Cepillado del pelaje doble para eliminar el subpelo muerto: Usa un cepillo slicker y un peine metálico para quitar pelos sueltos del subpelo, evitando nudos y dermatitis.
@@ -60,7 +60,7 @@ El perro Jindo es un tesoro nacional de Corea y una raza reconocida mundialmente
 
 ---
 
-## 2. Perro Jindo (Canis lupus familiaris)'s Body Language & Signals
+## 2. Lenguaje corporal y señales de conducta de Perro Jindo (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ El perro Jindo es un tesoro nacional de Corea y una raza reconocida mundialmente
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutina diaria de 3 pasos para el cuidado de Perro Jindo (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

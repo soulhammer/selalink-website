@@ -13,11 +13,11 @@ authority: "Manual de raça do Chihuahua Club of America e Diretrizes de Cuidado
 steps:
   - name: "Sinais do Chihuahua: Tremores emocionais e rosnado defensivo"
     text: "Os Chihuahuas são sensíveis e ficam em alerta rápido. Os sinais chave são 'tremores' (Shivering) e 'rosnados' (Growling). Os tremores ocorrem por frio ou emoções intensas como excitação, medo ou tensão, já que o sistema nervoso sensível causa contrações. O rosnado mostrando dentes é um aviso de medo; forçar o contato pode provocar mordida. Dê espaço."
-  - name: "Chihuahua (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "Linguagem corporal e sinais de comportamento do Chihuahua (Canis lupus familiaris)"
     text: "* Tremores (Shivering): Ocorre devido ao frio, ou como resposta física a emoções intensas como excitação, medo ou tensão. (Envolva-o em cobertor quente e segure-o em local silencioso para acalmá-lo.)
 
 * Rosnado defensivo (Growling): Um aviso de medo de que o contato é ameaçador, pedindo que interrompa o contato e recue. (Pare de tocar ou se aproximar imediatamente, afaste-se e deixe que se acalme sozinho.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rotina diária de 3 passos para cuidados com Chihuahua (Canis lupus familiaris)"
     text: "* STEP 1. Manhã: Controle de moleira e ajuste de aquecimento: Evite pressionar a cabeça (moleira). Mantenha a temperatura interna morna, em torno de 24-26°C, pois são muito sensíveis ao frio.
 
 * STEP 2. Tarde: Passeios curtos de faro e dessensibilização a ruídos: Evite socializações forçadas. Deixe-o cheirar e pratique 5 minutos de dessensibilização a ruídos com petiscos para evitar latidos.
@@ -64,7 +64,7 @@ Hoje, o PetSelf decodifica sua linguagem corporal e apresenta uma rotina de 3 pa
 
 ---
 
-## 2. Chihuahua (Canis lupus familiaris)'s Body Language & Signals
+## 2. Linguagem corporal e sinais de comportamento do Chihuahua (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -90,7 +90,7 @@ Hoje, o PetSelf decodifica sua linguagem corporal e apresenta uma rotina de 3 pa
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rotina diária de 3 passos para cuidados com Chihuahua (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

@@ -13,11 +13,11 @@ authority: "Panduan Perawatan Hamster Humane Society dan Standar Perilaku Veteri
 steps:
   - name: "Komunikasi Hamster Suriah: Geretakan Gigi dan Sinyal Waspada"
     text: "Hamster Suriah mengekspresikan kemarahan atau ketakutan dengan membuat suara geretakan gigi (Teeth Chattering) yang khas, memperingatkan Anda untuk menjaga jarak. Selain itu, ketika terkejut oleh suara mendadak, mereka menunjukkan perilaku melipat telinga dan membeku (Ear Flattening). Mengenali sinyal bahasa tubuh yang halus ini adalah kunci untuk menjaga kenyamanan mereka."
-  - name: "Hamster Suriah / Emas (Mesocricetus auratus)'s Body Language & Signals"
+  - name: "Bahasa Tubuh dan Sinyal Perilaku Hamster Suriah / Emas (Mesocricetus auratus)"
     text: "* Geretakan Gigi (Teeth Chattering): Peringatan keras bahwa mereka merasa terancam atau sangat sensitif. Jangan mendekat. (Segera hentikan penanganan atau pembersihan, dan beri mereka ruang tenang untuk menenangkan diri di tempat persembunyian mereka.)
 
 * Melipat Telinga & Membeku (Ear Flattening): Keadaan tegang dan waspada yang tinggi, dipicu oleh getaran mendadak atau rangsangan visual yang tidak dikenal. (Hindari suara keras atau gerakan tiba-tiba di dekatnya, dan redupkan lampu agar ruangan tetap gelap dan nyaman.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutinitas Perawatan Harian 3 Langkah untuk Hamster Suriah / Emas (Mesocricetus auratus)"
     text: "* STEP 1. Pagi: Merapikan Sekitar Tempat Sembunyi & Penggantian Air: Karena hamster tidur di pagi hari, jangan ganggu bagian dalam tempat sembunyi mereka. Ganti air dan bersihkan kotoran di sekitar kandang dengan ringan.
 
 * STEP 2. Siang: Menjaga Lingkungan Sunyi & Gelap untuk Tidur Nyenyak: Pastikan mereka tidur tanpa gangguan dengan menghindari peralatan rumah tangga yang bising di dekatnya dan memberi peneduh pada kandang.
@@ -60,7 +60,7 @@ Hamster Suriah atau emas yang kecil dan menggemaskan adalah salah satu hewan pel
 
 ---
 
-## 2. Hamster Suriah / Emas (Mesocricetus auratus)'s Body Language & Signals
+## 2. Bahasa Tubuh dan Sinyal Perilaku Hamster Suriah / Emas (Mesocricetus auratus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Hamster Suriah atau emas yang kecil dan menggemaskan adalah salah satu hewan pel
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutinitas Perawatan Harian 3 Langkah untuk Hamster Suriah / Emas (Mesocricetus auratus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

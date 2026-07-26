@@ -13,11 +13,11 @@ authority: "Diretrizes da Hedgehog Welfare Society e Protocolos Veterinários de
 steps:
   - name: "Instintos do ouriço-cacheiro pigmeu: Espuma de autoungimento e defesa com espinhos"
     text: "Quando os ouriços pigmeus africanos provam ou cheiram algo novo, criam saliva espumosa e aplicam-na nos seus espinhos, um processo chamado 'Autoungimento' (Self-Anointing). Este é um comportamento normal para camuflar o seu cheiro. Pelo contrário, quando se assustam, curvam-se numa bola apertada e sibilam 'Sibilos' (Hissing) para advertir que não se lhes toque."
-  - name: "Ouriço-Cacheiro Pigmeu Africano (Atelerix albiventris / African Pygmy Hedgehog)'s Body Language & Signals"
+  - name: "Linguagem corporal e sinais de comportamento do Ouriço-Cacheiro Pigmeu Africano (Atelerix albiventris / African Pygmy Hedgehog)"
     text: "* Autoungimento (Self-Anointing): Um instinto selvagem inofensivo para registrar e recobrir os seus espinhos com novos cheiros ambientais. (Não os interrompa nem o confunda com uma doença. Deixe que se sintam confortáveis com o cheiro de forma natural.)
 
 * Sibilo e curvado em bola (Hissing/Ball-up): Um modo defensivo que indica medo severo, levantando espinhos para bloquear qualquer contacto físico. (Evite tentar manipulá-los com as mãos nuas. Cubra-os com uma manta de feltro suave para criar um refúgio escuro.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rotina diária de 3 passos para cuidados com Ouriço-Cacheiro Pigmeu Africano (Atelerix albiventris / African Pygmy Hedgehog)"
     text: "* STEP 1. Manhã: Lavagem de rodas de exercício e pratos sujos: Dado que os ouriços tendem a defecar enquanto correm na sua roda, limpe e desinfete a roda e os pratos todas as manhãs.
 
 * STEP 2. Tarde: Manter a temperatura do quarto entre 24 e 26 °C: Previna a baixa temperatura corporal e a hibernação revendo as almofadas térmicas e os termostatos digitais com regularidade.
@@ -60,7 +60,7 @@ O ouriço-cacheiro pigmeu africano é um animal de estimação exótico fascinan
 
 ---
 
-## 2. Ouriço-Cacheiro Pigmeu Africano (Atelerix albiventris / African Pygmy Hedgehog)'s Body Language & Signals
+## 2. Linguagem corporal e sinais de comportamento do Ouriço-Cacheiro Pigmeu Africano (Atelerix albiventris / African Pygmy Hedgehog)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ O ouriço-cacheiro pigmeu africano é um animal de estimação exótico fascinan
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rotina diária de 3 passos para cuidados com Ouriço-Cacheiro Pigmeu Africano (Atelerix albiventris / African Pygmy Hedgehog)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

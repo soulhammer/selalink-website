@@ -13,11 +13,11 @@ authority: "Panduan Perawatan Yorkshire Terrier Club (YTC) & Pedoman Ortopedi Ve
 steps:
   - name: "Bahasa Tubuh Yorkie: Isyarat Pemburu Mungil dan Ekspresi Kepercayaan"
     text: "Meskipun bertubuh kecil, Yorkie memiliki insting penjaga dan pemburu khas terrier yang kuat. Melipat telinga ke belakang dengan ekor kaku dalam posisi horizontal menandakan kewaspadaan tinggi terhadap suara luar. Sebaliknya, terlentang memperlihatkan perut sambil menggerakkan cakar di udara menandakan rasa aman mutlak dan keinginan untuk dibelai."
-  - name: "Yorkshire Terrier's Body Language & Signals"
+  - name: "Bahasa Tubuh dan Sinyal Perilaku Yorkshire Terrier"
     text: "* Telinga terlipat ke belakang & ekor kaku (Pinned Ears & Rigid Tail): Ketegangan dan sikap waspada defensif sebagai respons terhadap suara atau stimulasi luar yang halus. (Jangan langsung menggendongnya. Panggil namanya dengan tenang di sejajar lantai dan alihkan perhatiannya dengan camilan.)
 
 * Terlentang memperlihatkan perut & mengayuh cakar (Belly Show & Air Paddling): Kondisi rasa aman dan kepercayaan psikologis yang tinggi, meminta perhatian dan kasih sayang. (Elus dada dan perutnya dengan lembut untuk mempererat ikatan emosional.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutinitas Perawatan Harian 3 Langkah untuk Yorkshire Terrier"
     text: "* STEP 1. Pagi: Semprotan pelembap dan penyikatan lembut dengan pin brush: Semprotkan hair mist pelembap sebelum menyisir dengan pin brush dari akar hingga ujung bulu untuk mencegah patah dan kusut.
 
 * STEP 2. Siang: Pencukuran bulu telapak kaki dan pemeriksaan matras anti-licin: Cukur bulu di antara bantalan kaki dan periksa matras anti-licin untuk mencegah tergelincir di lantai licin.
@@ -60,7 +60,7 @@ Yorkshire Terrier, atau yang akrab disapa 'Yorkie', memiliki kepribadian yang be
 
 ---
 
-## 2. Yorkshire Terrier's Body Language & Signals
+## 2. Bahasa Tubuh dan Sinyal Perilaku Yorkshire Terrier
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Yorkshire Terrier, atau yang akrab disapa 'Yorkie', memiliki kepribadian yang be
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutinitas Perawatan Harian 3 Langkah untuk Yorkshire Terrier
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

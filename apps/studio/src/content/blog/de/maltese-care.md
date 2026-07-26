@@ -13,11 +13,11 @@ authority: "Offizieller Rasseführer des American Kennel Club (AKC) und IAABC-Ve
 steps:
   - name: "Körpersprache des Maltesers: Signale von Stress und Komfort"
     text: "Da sie sehr auf ihre Besitzer fixiert sind, zeigen Malteser ihren psychischen Zustand lautlos durch Körpergesten. Typische Beschwichtigungssignale (Calming Signals) sind 'Nasenlecken' (Nose Licking) und 'Gähnen' (Yawning). In einer angespannten oder ungewohnten Umgebung ist das Lecken der Nase oder das Gähnen nicht auf Müdigkeit zurückzuführen; es ist eine friedliche Botschaft, um sich selbst zu beruhigen und andere aufzufordern, sie nicht zu bedrohen. Wenn Besitzer in dieser Zeit übermäßigen Kontakt fortsetzen, steigt der Stress. Am besten ist es, einen Schritt zurückzutreten und ihnen Freiraum zu geben."
-  - name: "Malteser (Canis lupus familiaris / Maltese)'s Body Language & Signals"
+  - name: "Körpersprache und Verhaltenssignale von Malteser (Canis lupus familiaris / Maltese)"
     text: "* Gähnen (Yawning): Nicht aus Müdigkeit; es ist ein Beschwichtigungssignal, um sich und andere zu beruhigen. (Wenn sie beim Training oder Pflegen gähnen, brechen Sie sofort ab und sorgen Sie für einen ruhigen Ort.)
 
 * Nasenlecken (Nose Licking): Ein Ausdruck der Selbstberuhigung, wenn sie sich in ihrer aktuellen Situation unwohl oder ängstlich fühlen. (Wenn dies beim Halten oder Annähern von Fremden gezeigt wird, beenden Sie den Kontakt und geben Sie ihnen Freiraum.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Maßgeschneiderte 3-Schritte-Tagesroutine für Malteser (Canis lupus familiaris / Maltese)"
     text: "* STEP 1. Morgen: Rutschschutzprüfung und Gelenkdehnbewegung: Überprüfen Sie den Halt der Matten. Massieren Sie morgens beim Dehnen sanft die Hintergelenke, um Muskeln zu lockern. Kürzen Sie das Fell an den Pfotenballen.
 
 * STEP 2. Nachmittag: Augenhygiene und Bürstenpflege: Reinigen Sie einmal täglich die Augenpartie mit feinen Kämmen und Pflegelösungen. Nasses Fell führt zu roten Flecken und Infektionen; tupfen Sie es trocken.
@@ -64,7 +64,7 @@ Heute befasst sich PetSelf mit der Körpersprache des Maltesers und stellt eine 
 
 ---
 
-## 2. Malteser (Canis lupus familiaris / Maltese)'s Body Language & Signals
+## 2. Körpersprache und Verhaltenssignale von Malteser (Canis lupus familiaris / Maltese)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -90,7 +90,7 @@ Heute befasst sich PetSelf mit der Körpersprache des Maltesers und stellt eine 
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Maßgeschneiderte 3-Schritte-Tagesroutine für Malteser (Canis lupus familiaris / Maltese)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

@@ -13,11 +13,11 @@ authority: "Diretrizes de Raça do Samoieda do AKC e Orientações da OFA (Ortho
 steps:
   - name: "Linguagem corporal do Samoieda: Postura de alívio e claudicação"
     text: "Para aliviar o calor, Samoiedas deitam esticados 'Deitado esticado' (Splooting), encostando o abdômen em superfícies frias. Já o 'Andar de coelho' (Bunny Hopping) (correr com patas traseiras juntas) revela dor de quadril que exige avaliação médica."
-  - name: "Samoieda (Canis lupus familiaris / Samoyed)'s Body Language & Signals"
+  - name: "Linguagem corporal e sinais de comportamento do Samoieda (Canis lupus familiaris / Samoyed)"
     text: "* Deitado Esticado (Splooting): Deitar de barriga com as patas traseiras esticadas para resfriar a temperatura corporal em pisos frios. (Disponibilize tapetes gelados ou superfícies frias de azulejo e deixe-o descansar na sombra.)
 
 * Andar de Coelho (Bunny Hopping): Correr movendo as patas traseiras juntas para diminuir a carga sobre o quadril dolorido. (Interrompa atividades físicas intensas e agende um exame ortopédico veterinário com raio-X.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rotina diária de 3 passos para cuidados com Samoieda (Canis lupus familiaris / Samoyed)"
     text: "* STEP 1. Manhã: Escovação rasqueadeira para ventilação da pelagem: Escove diariamente a pelagem usando rasqueadeira e pente metálico para remover o subpelo morto e evitar nós.
 
 * STEP 2. Tarde: Proteção articular e tapetes antiderrapantes: Coloque tapetes antiderrapantes em pisos escorregadios, controle o peso e adicione glucosamina e condroitina à comida.
@@ -60,7 +60,7 @@ Famosos pela pelagem branca abundante e o 'Sorriso de Samoieda', são cães de t
 
 ---
 
-## 2. Samoieda (Canis lupus familiaris / Samoyed)'s Body Language & Signals
+## 2. Linguagem corporal e sinais de comportamento do Samoieda (Canis lupus familiaris / Samoyed)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Famosos pela pelagem branca abundante e o 'Sorriso de Samoieda', são cães de t
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rotina diária de 3 passos para cuidados com Samoieda (Canis lupus familiaris / Samoyed)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

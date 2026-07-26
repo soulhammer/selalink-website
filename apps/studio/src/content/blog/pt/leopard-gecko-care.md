@@ -13,11 +13,11 @@ authority: "Associação de Veterinários de Répteis e Anfíbios (ARAV) & Padr�
 steps:
   - name: "Linguagem Corporal: Balanço da Cauda e Mudança de Pele"
     text: "Sua cauda armazena gordura e serve de comunicação. Diferenciar o balanço lento de defesa do balanço rápido de caça evita estresse."
-  - name: "Gecko Leopardo (Eublepharis macularius / Leopard Gecko)'s Body Language & Signals"
+  - name: "Linguagem corporal e sinais de comportamento do Gecko Leopardo (Eublepharis macularius / Leopard Gecko)"
     text: "* Balanço Lento da Cauda em Formato de 'S' (Slow Tail Waving): Sinal de defesa quando se sente ameaçado ou assustado por algum perigo. (Pare o manuseio imediatamente, retire a mão devagar e deixe-o recuar para a toca.)
 
 * Pele Opaca Esbranquiçada e Fricção nos Olhos (Pre-Shedding Signal): Início do processo de troca de pele (muda); exige alta umidade local. (Umedeça a toca úmida com água morna para elevar a umidade acima de 70%.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rotina diária de 3 passos para cuidados com Gecko Leopardo (Eublepharis macularius / Leopard Gecko)"
     text: "* STEP 1. Manhã: Checagem Térmica e Umedecer Toca: Verifique a temperatura do aquecedor (30°C ~ 32°C) e borrife água na toca úmida.
 
 * STEP 2. Tarde: Ambiente Calmo e Escuro para Descanso: Evite luzes fortes e ruídos à tarde para respeitar o sono noturno.
@@ -60,7 +60,7 @@ O Gecko Leopardo é o réptil de estimação mais querido do mundo. Conforme a A
 
 ---
 
-## 2. Gecko Leopardo (Eublepharis macularius / Leopard Gecko)'s Body Language & Signals
+## 2. Linguagem corporal e sinais de comportamento do Gecko Leopardo (Eublepharis macularius / Leopard Gecko)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ O Gecko Leopardo é o réptil de estimação mais querido do mundo. Conforme a A
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rotina diária de 3 passos para cuidados com Gecko Leopardo (Eublepharis macularius / Leopard Gecko)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

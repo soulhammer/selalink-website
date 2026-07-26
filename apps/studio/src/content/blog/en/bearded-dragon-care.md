@@ -13,11 +13,11 @@ authority: "Association of Reptilian and Amphibian Veterinarians (ARAV) Husbandr
 steps:
   - name: "Bearded Dragon Behavioral Language: Head Bobbing and Arm Waving"
     text: "Bearded dragons use unique body language to display hierarchy and convey emotions. Rapidly bobbing their head up and down—known as 'Head Bobbing'—is a strong display of dominance, territorial claim, or high alertness. On the other hand, slowly waving one front leg in a wide circle—known as 'Arm Waving'—is a social signal of submission, pacification, and friendliness showing 'I am no threat'."
-  - name: "Bearded Dragon (Pogona vitticeps)'s Body Language & Signals"
+  - name: "Bearded Dragon (Pogona vitticeps)'s Body Language & Behavioral Signals"
     text: "* Head Bobbing (Rapid Head Shaking): An assertion of dominance and territorial claim. It commonly occurs when seeing another individual or when getting excited after spotting their own reflection in glass. (House them individually as a strict rule to prevent cohabitation stress, and use anti-reflective sheets on glass walls to reduce environmental triggers.)
 
 * Arm Waving (Slow Leg Circles): A peaceful social signal of submission showing no harmful intent. It is communicated toward larger animals or their human keeper. (Approach them gently from a low angle, speak in a calm and reassuring voice, and offer a treat reward so they recognize the keeper as a safe presence.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Customized 3-Step Home Care Routine for Bearded Dragon (Pogona vitticeps)"
     text: "* STEP 1. Morning: Basking Heat & UVB Lamp Activation: Turn on basking spot heaters and UVB lamps. Ensure the basking spot reaches 35-40°C (95-105°F) so their body temperature rises enough to stimulate digestive enzymes.
 
 * STEP 2. Afternoon: Gut-Loaded Insect & Calcium-Dusted Feeding: Provide live insects dusted with calcium powder (containing D3 for indoor keeping) alongside fresh calcium-rich greens such as chicory and bok choy.
@@ -60,7 +60,7 @@ Bearded dragons are among the most popular reptile companions worldwide due to t
 
 ---
 
-## 2. Bearded Dragon (Pogona vitticeps)'s Body Language & Signals
+## 2. Bearded Dragon (Pogona vitticeps)'s Body Language & Behavioral Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Bearded dragons are among the most popular reptile companions worldwide due to t
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Customized 3-Step Home Care Routine for Bearded Dragon (Pogona vitticeps)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

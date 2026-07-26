@@ -13,11 +13,11 @@ authority: "キャットファンシャーズアソシエーション(CFA)公式
 steps:
   - name: "シャム猫のボディランゲージ：完全な信頼と愛情のメッセージ"
     text: "シャム猫は積極的に愛情を伝え、豊かなカーミングシグナルを見せてくれます。代表的なのは「ゆっくり瞬きする（Slow Blink）」と「体を擦り付ける（Bunting）」です。飼い主の目を見つめ、ゆっくり目を細めて瞬きをする動作は、野生において敵に隙を見せる危険な行動であり、相手を心から信頼しているという告白です。また、頬や額を飼い主の手や体に擦り付けるのは、自分の顔の分泌腺から出るフェロモンを付着させて安心感を共有するための行動です。"
-  - name: "シャム猫 (Siamese)'s Body Language & Signals"
+  - name: "シャム猫 (Siamese)のボディランゲージと行動サイン"
     text: "* ゆっくり瞬きする (Slow Blink): 相手の前で目を閉じても良いほど、無限の信頼と愛を伝える「猫のキス」です。 (目を優しく見つめ返し、同じように1.5秒ほどゆっくり目を閉じて開けて応えてください。)
 
 * 体を擦り付ける (Bunting): 自分の匂い（フェロモン）を付着させ、「あなたは私の大切な人」という愛着を表す確認行動です。 (頬や顎の下を優しく撫でてあげて、お互いの匂いが自然に触れ合うように応じてください。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "シャム猫 (Siamese)のための3ステップホームケアルーティン"
     text: "* STEP 1. 朝：不安予防のための名前を呼ぶ10分の密着スキンシップ: 寂しがり屋で飼い主との分離に敏感なシャムのため、起床後すぐに名前を優しく呼びかけながら、布団の中でぴったり密着して撫でてあげます。
 
 * STEP 2. 昼：寂しさ予防のための知能ノーズワークと狩り遊び: 飼い主のいない昼間に退屈しないよう、おやつ用パズルやノーズワークを隠しておき、帰宅後は羽のおもちゃで15分以上活発な狩り遊びをします。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. シャム猫 (Siamese)'s Body Language & Signals
+## 2. シャム猫 (Siamese)のボディランゲージと行動サイン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ faqs:
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. シャム猫 (Siamese)のための3ステップホームケアルーティン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

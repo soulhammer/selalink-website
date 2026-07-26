@@ -13,11 +13,11 @@ authority: "缅因猫繁育与爱好者协会 (MCBFA) 官方指南与 AAFP 大�
 steps:
   - name: "缅因猫的身体语言：友好的颤音鸣叫与警惕地膨胀尾巴"
     text: "缅因猫因性格温顺且好奇心强，与其他猫相比表现出更强烈的沟通欲望。最典型的安定信号是 “颤音鸣叫（Trilling）” 和 “膨胀尾巴（Puffed Tail）”。当它们发出“咕噜噜”的颤音走近时，是极其欢迎家长并表达爱意的沟通请求。相反，当受到突发噪音或陌生环境惊吓时，其尾巴上的毛会全部炸开膨胀成松鼠尾巴状。此时应立刻消除惊吓源，让它们在安静的房间里独自恢复冷静。"
-  - name: "缅因猫 (Felis catus / Maine Coon)'s Body Language & Signals"
+  - name: "缅因猫 (Felis catus / Maine Coon) 的肢体语言与行为信号"
     text: "* 颤音鸣叫 (Trilling): 表达对家长最高度的信任与好感，发出亲切的对话邀请。 (家长也应以柔和亲切的声音回应，或者进行轻轻的抚摸来互动。)
 
 * 炸毛膨胀尾 (Puffed Tail): 遇到突发视听觉惊吓，兴奋度与警惕状态达到峰值的信号。 (立刻清除导致惊吓的因素，不要强行靠近，让猫咪自己恢复平静。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "缅因猫 (Felis catus / Maine Coon) 定制化 3 步家庭护理流程"
     text: "* STEP 1. 早晨：通过定量配给饲料来控制体重与预防 HCM 风险: 缅因猫的肥大性心肌病（HCM）会在肥胖时恶化。每天早晨使用数码秤按照卡路里标准进行定量给食，并确认水分供应充足。
 
 * STEP 2. 中午：防止长密双层被毛打结 钢排梳全身体表梳理: 鬃毛般的脖圈和双腋毛发极易结团并诱发皮肤炎。应使用钢排梳深层梳理至底毛，解开结团，清理皮屑并防止毛发打结。
@@ -64,7 +64,7 @@ faqs:
 
 ---
 
-## 2. 缅因猫 (Felis catus / Maine Coon)'s Body Language & Signals
+## 2. 缅因猫 (Felis catus / Maine Coon) 的肢体语言与行为信号
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -73,7 +73,7 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 表达对家长最高度的信任与好感，发出亲切的对话邀请。<br/>
-    <strong>•  national:</strong> 家长也应以柔和亲切的声音回应，或者进行轻轻的抚摸来互动。
+    <strong>• 应对:</strong> 家长也应以柔和亲切的声音回应，或者进行轻轻的抚摸来互动。
   </p>
 </div>
 
@@ -84,13 +84,13 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 遇到突发视听觉惊吓，兴奋度与警惕状态达到峰值的信号。<br/>
-    <strong>•  national:</strong> 立刻清除导致惊吓的因素，不要强行靠近，让猫咪自己恢复平静。
+    <strong>• 应对:</strong> 立刻清除导致惊吓的因素，不要强行靠近，让猫咪自己恢复平静。
   </p>
 </div>
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. 缅因猫 (Felis catus / Maine Coon) 定制化 3 步家庭护理流程
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

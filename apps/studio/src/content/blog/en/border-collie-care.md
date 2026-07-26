@@ -13,11 +13,11 @@ authority: "The Kennel Club (KC) Border Collie Breed Guide & Canine Cognition Be
 steps:
   - name: "Border Collie Body Language: Intense Eye Focus and Energy Signals"
     text: "Border Collies have a distinct instinctual behavior known as 'The Eye'—staring intensely to control moving objects. Lowering their body and staring represents extreme focus during herding. Conversely, opening their mouth slightly while wagging their tail in large circles is a playful signal expressing a desire to interact with their owner."
-  - name: "Border Collie's Body Language & Signals"
+  - name: "Border Collie's Body Language & Behavioral Signals"
     text: "* Lowered Body & Intense Eye Focus (The Eye): An instinctual herding state triggered by moving objects or animals. (Call their name immediately to redirect eye contact to the owner and reward them to prevent dangerous chasing behaviors.)
 
 * Open Mouth & Large Tail Wagging: Highly energized and ready to engage in enthusiastic play with the owner. (This is the perfect time for intelligent activities like Frisbee or agility rather than simple fetch.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Customized 3-Step Home Care Routine for Border Collie"
     text: "* STEP 1. Morning: Interval Running Integrated with Command Training: Combine physical sprints with commands like 'stay' or 'turn' during walks to burn energy while keeping their brain engaged.
 
 * STEP 2. Afternoon: Multi-Level Interactive Puzzle Toys (Brain Games): Provide multi-step puzzle toys requiring unlocking mechanisms to satisfy their cognitive curiosity and prevent boredom.
@@ -60,7 +60,7 @@ The Border Collie is widely known as the smartest dog breed in the world, boasti
 
 ---
 
-## 2. Border Collie's Body Language & Signals
+## 2. Border Collie's Body Language & Behavioral Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ The Border Collie is widely known as the smartest dog breed in the world, boasti
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Customized 3-Step Home Care Routine for Border Collie
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

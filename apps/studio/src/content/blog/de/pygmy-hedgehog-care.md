@@ -13,11 +13,11 @@ authority: "Richtlinien der Hedgehog Welfare Society und Veterinär-Protokolle f
 steps:
   - name: "Instinkte des Weißbauchigels: Selbst-Einspeicheln und Stachelverteidigung"
     text: "Wenn Afrikanische Weißbauchigel etwas Neues schmecken oder riechen, erzeugen sie schäumenden Speichel und tragen ihn auf ihre Stacheln auf – ein Vorgang namens 'Selbst-Einspeicheln' (Self-Anointing). Dies ist ein normales Verhalten zur Tarnung ihres Geruchs. Wenn sie sich erschrecken, rollen sie sich zu einer engen Kugel zusammen und fauchen 'Fauchen' (Hissing), um Berührungen abzuwehren."
-  - name: "Afrikanischer Weißbauchigel (Atelerix albiventris / African Pygmy Hedgehog)'s Body Language & Signals"
+  - name: "Körpersprache und Verhaltenssignale von Afrikanischer Weißbauchigel (Atelerix albiventris / African Pygmy Hedgehog)"
     text: "* Selbsteinspeicheln (Self-Anointing): Ein harmloser wilder Instinkt, um neue Umweltgerüche zu registrieren und auf ihre Stacheln aufzutragen. (Unterbrechen Sie sie nicht und verwechseln Sie es nicht mit einer Krankheit. Lassen Sie sie sich ganz natürlich an den Geruch gewöhnen.)
 
 * Fauchen & Einrollen (Hissing/Ball-up): Ein Verteidigungsmodus, der auf starke Angst hindeutet und bei dem die Stacheln aufgestellt werden, um jeden physischen Kontakt zu blockieren. (Vermeiden Sie es, sie mit bloßen Händen anzufassen. Decken Sie sie mit einer weichen Vliesdecke ab, um einen dunklen Unterschlupf zu schaffen.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Maßgeschneiderte 3-Schritte-Tagesroutine für Afrikanischer Weißbauchigel (Atelerix albiventris / African Pygmy Hedgehog)"
     text: "* STEP 1. Morgen: Reinigung der verschmutzten Laufräder und Näpfe: Da Igel beim Laufen im Laufrad koten, reinigen und desinfizieren Sie das Laufrad und die Näpfe jeden Morgen.
 
 * STEP 2. Nachmittag: Raumtemperatur zwischen 24 und 26 °C halten: Vermeiden Sie eine niedrige Körpertemperatur und Winterschlaf, indem Sie Heizmatten und digitale Thermostate regelmäßig überprüfen.
@@ -60,7 +60,7 @@ Der Afrikanische Weißbauchigel ist ein faszinierendes und ruhiges exotisches He
 
 ---
 
-## 2. Afrikanischer Weißbauchigel (Atelerix albiventris / African Pygmy Hedgehog)'s Body Language & Signals
+## 2. Körpersprache und Verhaltenssignale von Afrikanischer Weißbauchigel (Atelerix albiventris / African Pygmy Hedgehog)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Der Afrikanische Weißbauchigel ist ein faszinierendes und ruhiges exotisches He
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Maßgeschneiderte 3-Schritte-Tagesroutine für Afrikanischer Weißbauchigel (Atelerix albiventris / African Pygmy Hedgehog)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

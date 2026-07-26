@@ -13,11 +13,11 @@ authority: "Guide officiel de la Cat Fanciers' Association (CFA) et protocoles d
 steps:
   - name: "Langage corporel du Siamois : signaux de confiance et de possessivité"
     text: "Le Siamois montre son affection de manière très interactive à travers des signaux d'apaisement très riches. Les signaux typiques incluent le 'clignement d'yeux lent' et le 'marquage par frottement' (bunting). Fermer les yeux lentement tout en vous regardant est une preuve de confiance absolue, car fermer les yeux devant un autre dans la nature est risqué. Se frotter les joues ou le front contre vous est sa façon de déposer des phéromones apaisantes et de vous marquer comme son humain de confiance."
-  - name: "Siamois (Siamese)'s Body Language & Signals"
+  - name: "Langage corporel et signaux comportementaux du Siamois (Siamese)"
     text: "* Clignement lent des yeux: Une preuve de sécurité complète et d'affection profonde, souvent qualifiée de bisou félin. (Regardez-le doucement et répondez en fermant et en ouvrant les yeux lentement pendant 1,5 seconde.)
 
 * Frottement de tête (Bunting): Un geste déposant ses phéromones faciales pour vous marquer comme son humain sûr et confirmer son attachement. (Gratouillez son menton ou ses joues, lui permettant de partager ses phéromones avec joie.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Routine quotidienne en 3 étapes pour le soin du Siamois (Siamese)"
     text: "* STEP 1. Matin : Rituel de contact de 10 minutes contre l'anxiété: Pour atténuer l'anxiété de séparation chez cette race sensible, passez 10 minutes à caresser votre Siamois sous la couette dès votre réveil en lui parlant doucement.
 
 * STEP 2. Après-midi : Jeu interactif et puzzles de nourriture: Occupez-le pendant la journée avec des puzzles à friandises. À votre retour, jouez au moins 15 minutes avec un plumeau pour lui faire faire des sauts actifs.
@@ -60,7 +60,7 @@ Le chat Siamois, originaire de la famille royale de Thaïlande, est un félin é
 
 ---
 
-## 2. Siamois (Siamese)'s Body Language & Signals
+## 2. Langage corporel et signaux comportementaux du Siamois (Siamese)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Le chat Siamois, originaire de la famille royale de Thaïlande, est un félin é
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Routine quotidienne en 3 étapes pour le soin du Siamois (Siamese)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

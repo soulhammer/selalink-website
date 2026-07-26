@@ -13,11 +13,11 @@ authority: "Nationaler Shiba Inu Club von Amerika & IAABC-Verhaltensmodifikation
 steps:
   - name: "Körpersprache des Shiba Inu: Signale von Druck und Stressabbau"
     text: "Shiba Inus drücken ihre Grenzen klar und leise aus. Wichtige Signale sind 'Wegschauen' und 'Abschütteln'. Wenn eine Person nach ihnen greift und der Shiba den Kopf wegdreht, ist das eine höfliche Bitte wie 'Bitte fass mich jetzt nicht an'. Ein Abschütteln des ganzen Körpers nach einem stressigen Ereignis ist ein instinktiver Mechanismus, um körperliche Anspannung abzubauen und sich psychisch zu erholen."
-  - name: "Shiba Inu's Body Language & Signals"
+  - name: "Körpersprache und Verhaltenssignale von Shiba Inu"
     text: "* Wegschauen: Eine höfliche Bitte, sich nicht weiter zu nähern oder den Hund anzufassen, da dies Druck ausübt. (Wenn Sie dies sehen, versuchen Sie nicht, ihn anzufassen. Ziehen Sie die Hand zurück und geben Sie ihm Raum.)
 
 * Abschütteln: Eine Aktion, um Stress oder körperliche Anspannung eines kürzlichen Ereignisses abzuschütteln. (Wenn sie sich beim Pflegen schütteln, bauen sie Spannung ab. Beenden Sie die Aktivität und lassen Sie sie ruhen.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Maßgeschneiderte 3-Schritte-Tagesroutine für Shiba Inu"
     text: "* STEP 1. Morgen: Desensibilisierung an empfindlichen Stellen: Berühren Sie Pfoten oder Hüften kurz für 1 Sekunde und geben Sie sofort ein hochwertiges Leckerli. Wiederholen Sie dies, um positive Assoziationen aufzubauen.
 
 * STEP 2. Nachmittag: Stressfreie Pflege des doppelten Fells: Bürsten Sie mit einer Zupfbürste sanft in Haarwuchsrichtung. Wenn der Hund Anzeichen von Unwohlsein zeigt oder knurrt, brechen Sie sofort ab.
@@ -60,7 +60,7 @@ Shiba Inus sind weltweit für ihr fuchsartiges Aussehen und ihren geringelten Sc
 
 ---
 
-## 2. Shiba Inu's Body Language & Signals
+## 2. Körpersprache und Verhaltenssignale von Shiba Inu
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Shiba Inus sind weltweit für ihr fuchsartiges Aussehen und ihren geringelten Sc
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Maßgeschneiderte 3-Schritte-Tagesroutine für Shiba Inu
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

@@ -13,11 +13,11 @@ authority: "Rassenleitfaden für Bengalkatzen von The International Cat Associat
 steps:
   - name: "Bengalkatzen-Kommunikation: Zwitschern und Schwanzzucken"
     text: "Bengalkatzen sind außerordentlich mitteilungsfreudig. Neben dem normalen Miauen nutzen sie ein vogelähnliches 'Zwitschern' (Chirping), wenn sie Aufmerksamkeit einfordern oder Langeweile verspüren. Wenn Sie dieses Verhalten zusammen mit schnellem Schwanzzucken erkennen, können Sie stressbedingten Verhaltensproblemen rechtzeitig vorbeugen."
-  - name: "Bengalkatze (Prionailurus bengalensis × Felis catus)'s Body Language & Signals"
+  - name: "Körpersprache und Verhaltenssignale von Bengalkatze (Prionailurus bengalensis × Felis catus)"
     text: "* Zwitschern (Chirping) & lautes Vokalisieren: Eine aktive Aufforderung zur Interaktion. Die Katze langweilt sich und fordert sofortige körperliche oder geistige Beschäftigung. (Beginnen Sie sofort ein Jagdspiel mit einer Federangel und ignorieren Sie die Katze nicht, um Frust zu vermeiden.)
 
 * Schnelles Schwanzzucken mit hochgezogenem Hinterteil: Ein Zustand höchster Erregung und Konzentration auf ein Ziel, hervorgerufen durch überschüssige Energie. (Nutzen Sie Laserpointer oder automatisches Spielzeug auf freier Fläche, damit die Katze ihren Jagdtrieb rennend ausleben kann.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Maßgeschneiderte 3-Schritte-Tagesroutine für Bengalkatze (Prionailurus bengalensis × Felis catus)"
     text: "* STEP 1. Morgen: Hochintensives interaktives Jagdspiel: Spielen Sie 15 Minuten lang mit einer Federangel. Ahmen Sie schnelle Beutebewegungen nach, um den natürlichen Jagdtrieb anzusprechen.
 
 * STEP 2. Mittag: Kletterbereiche prüfen und Ausblick sichern: Prüfen Sie Kratzbäume und Kletterwände auf Stabilität und halten Sie Plätze an erhöhten Fenstern frei, damit die Katze ihr Revier beobachten kann.
@@ -60,7 +60,7 @@ Bengalkatzen sind wegen ihrer wunderschönen Leopardenzeichnung und ihres wilden
 
 ---
 
-## 2. Bengalkatze (Prionailurus bengalensis × Felis catus)'s Body Language & Signals
+## 2. Körpersprache und Verhaltenssignale von Bengalkatze (Prionailurus bengalensis × Felis catus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Bengalkatzen sind wegen ihrer wunderschönen Leopardenzeichnung und ihres wilden
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Maßgeschneiderte 3-Schritte-Tagesroutine für Bengalkatze (Prionailurus bengalensis × Felis catus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

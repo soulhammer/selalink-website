@@ -13,11 +13,11 @@ authority: "美国养犬俱乐部 (AKC) 官方犬种指南与 IAABC 行为学协
 steps:
   - name: "金毛寻回犬的身体语言：解读信任与沟通信号"
     text: "金毛寻回犬擅长通过丰富的表情与肢体动作来表达情感。其中最核心的信任信号是 “温柔的眼神接触（Soft Eye Contact）”。与紧张对峙时带有攻击性的凝视不同，金毛微微眯起双眼、温和注视家长的行为，代表着深切的爱意、信任以及对心理纽带的渴求。此时家长若以轻柔的声音回应和夸奖，会刺激其体内催产素的分泌，使安全感翻倍。相反，若它们身体僵硬且尾巴高高竖起，则暗示着警惕与紧张。"
-  - name: "金毛寻回猎犬 (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "金毛寻回猎犬 (Canis lupus familiaris) 的肢体语言与行为信号"
     text: "* 温柔的眼神接触 (Soft Eye Contact): 表达对家长完全信任、爱意与心理联结的积极眼神。 (家长也应温柔地眨眼回应，并用平静、轻柔的声音予以夸奖。)
 
 * 身体摇摆 (Full Body Wagging): 并非单纯的兴奋，而是积极传递友好、喜悦与极度舒适的示好表现。 (温柔地抚摸它们的胸口或肩膀，平静地共享并引导它们释放这种喜悦的能量。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "金毛寻回猎犬 (Canis lupus familiaris) 定制化 3 步家庭护理流程"
     text: "* STEP 1. 早晨：满足寻回天性的衔回球类游戏: 金毛通过叼回物品能获得极大的快感。在早晨散步前，可在室内或院子里用软球进行5-10分钟的抛接衔回游戏，安全释放其本能能量，开启精力充沛的一天。
 
 * STEP 2. 中午/下午：1小时以上的高能量户外散步: 作为高智商且运动量巨大的大型犬，金毛每天至少需要1小时以上的能量消耗。在草地等安全区域给予充足的嗅觉刺激（嗅闻活动），能有效舒缓压力并杜绝拆家行为。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. 金毛寻回猎犬 (Canis lupus familiaris)'s Body Language & Signals
+## 2. 金毛寻回猎犬 (Canis lupus familiaris) 的肢体语言与行为信号
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -69,7 +69,7 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 表达对家长完全信任、爱意与心理联结的积极眼神。<br/>
-    <strong>•  national:</strong> 家长也应温柔地眨眼回应，并用平静、轻柔的声音予以夸奖。
+    <strong>• 应对:</strong> 家长也应温柔地眨眼回应，并用平静、轻柔的声音予以夸奖。
   </p>
 </div>
 
@@ -80,13 +80,13 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 并非单纯的兴奋，而是积极传递友好、喜悦与极度舒适的示好表现。<br/>
-    <strong>•  national:</strong> 温柔地抚摸它们的胸口或肩膀，平静地共享并引导它们释放这种喜悦的能量。
+    <strong>• 应对:</strong> 温柔地抚摸它们的胸口或肩膀，平静地共享并引导它们释放这种喜悦的能量。
   </p>
 </div>
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. 金毛寻回猎犬 (Canis lupus familiaris) 定制化 3 步家庭护理流程
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

@@ -13,11 +13,11 @@ authority: "猫发烧友协会 (CFA) 官方布偶猫标准指南与 AAFP 猫咪�
 steps:
   - name: "布偶猫的安定信号：眼部交流与放松地张开脚趾"
     text: "布偶猫表达对家长的极度信任，除了放松身体外，还会通过细腻的眼神和脚部动作体现。其最典型的放松信号是 “眼神交流（Slow Blink）” 和 “张开脚趾（Paw Flexing）”。它们看着家长并非常缓慢地闭眼再睁开，是毫无戒备、完全安心的爱意表达。如果此时心情极佳，它们还会像扇子一样张开脚趾再收拢。此时轻轻抓挠其下巴或耳后，布偶猫的幸福感会瞬间拉满。"
-  - name: "布偶猫 (Felis catus / Ragdoll)'s Body Language & Signals"
+  - name: "布偶猫 (Felis catus / Ragdoll) 的肢体语言与行为信号"
     text: "* 眼神交流 (Slow Blink): 表明它们完全信任家长并在当前环境中感到平静与安全的爱意信号。 (以同样的节奏回以缓慢闭眼和睁眼，以此回应它们以增进信任感。)
 
 * 张开脚趾 (Paw Flexing): 联想到在母猫怀里哺乳的记忆，表明此刻内心极度舒适与满足。 (出现此动作时，不要停止抚摸，继续揉搓其下巴或脖子周围，它们会更加享受。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "布偶猫 (Felis catus / Ragdoll) 定制化 3 步家庭护理流程"
     text: "* STEP 1. 早晨：旨在舒缓骨骼的温和身体拉伸: 由于是大型猫，其下肢关节极易累积疲劳。在开始一天的活动前，温柔握住其后肢并轻轻拉伸以保护关节的活动范围。
 
 * STEP 2. 中午：防止打结 针梳梳理与被毛通风: 布偶猫的底毛非常柔软且浓密，极易打结。应使用针尖圆滑的针梳顺着毛流梳理，使被毛通风，提前防止皮肤炎与毛球症的产生。
@@ -64,7 +64,7 @@ faqs:
 
 ---
 
-## 2. 布偶猫 (Felis catus / Ragdoll)'s Body Language & Signals
+## 2. 布偶猫 (Felis catus / Ragdoll) 的肢体语言与行为信号
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -73,7 +73,7 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 表明它们完全信任家长并在当前环境中感到平静与安全的爱意信号。<br/>
-    <strong>•  national:</strong> 以同样的节奏回以缓慢闭眼和睁眼，以此回应它们以增进信任感。
+    <strong>• 应对:</strong> 以同样的节奏回以缓慢闭眼和睁眼，以此回应它们以增进信任感。
   </p>
 </div>
 
@@ -84,13 +84,13 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 联想到在母猫怀里哺乳的记忆，表明此刻内心极度舒适与满足。<br/>
-    <strong>•  national:</strong> 出现此动作时，不要停止抚摸，继续揉搓其下巴或脖子周围，它们会更加享受。
+    <strong>• 应对:</strong> 出现此动作时，不要停止抚摸，继续揉搓其下巴或脖子周围，它们会更加享受。
   </p>
 </div>
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. 布偶猫 (Felis catus / Ragdoll) 定制化 3 步家庭护理流程
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

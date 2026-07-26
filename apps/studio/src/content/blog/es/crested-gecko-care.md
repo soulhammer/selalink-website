@@ -13,11 +13,11 @@ authority: "Protocolo Internacional de Conservación de Reptiles y Estándares V
 steps:
   - name: "Lenguaje corporal del Gecko Crestado: Movimiento en S de la cola y limpieza ocular (Eye Wiping)"
     text: "Los geckos crestados comunican su estado emocional mediante el movimiento de su cola y lengua. Levantar la cola en forma de S y moverla lentamente es una 'Señal de alerta y amenaza (Tail S-Wagging)' previa a la autotomía (soltar la cola). Por el contrario, pasar la lengua sobre sus ojos o hocico es una 'Señal natural de higiene y exploración (Eye Wiping)' para hidratar sus ojos sin párpados y captar partículas de olor."
-  - name: "Gecko Crestado (Crested Gecko)'s Body Language & Signals"
+  - name: "Lenguaje corporal y señales de conducta de Gecko Crestado (Crested Gecko)"
     text: "* Cola levantada en forma de S con movimiento lento (Tail S-Wagging): Advertencia de estrés defensivo extremo exhibido ante amenazas o manipulación, que suele preceder a la pérdida de la cola. (Detenga la manipulación de inmediato y regréselo a un refugio oscuro y tranquilo para que se calme.)
 
 * Lamerse los ojos o el hocico con la lengua (Eye Wiping / Tongue Flicking): Comportamiento natural que hidrata la superficie ocular sin párpados y transporta moléculas de olor al órgano de Jacobson. (Es un comportamiento normal; no lo moleste y verifique que la humedad del terrario (60%-80%) sea la adecuada.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutina diaria de 3 pasos para el cuidado de Gecko Crestado (Crested Gecko)"
     text: "* STEP 1. Mañana: Pulverización de las paredes y control de temperatura/humedad: Rocíe agua en las paredes del terrario para que pueda beber las gotas y mantenga una temperatura diurna fresca (22°C-25°C).
 
 * STEP 2. Tarde: Bloqueo de luz solar directa y monitoreo del refugio: Proteja al gecko de la luz solar directa ya que es muy vulnerable a temperaturas superiores a 28°C, garantizando un descanso fresco y oscuro.
@@ -60,7 +60,7 @@ Famoso por las crestas en forma de pestañas sobre sus ojos, el Gecko Crestado (
 
 ---
 
-## 2. Gecko Crestado (Crested Gecko)'s Body Language & Signals
+## 2. Lenguaje corporal y señales de conducta de Gecko Crestado (Crested Gecko)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Famoso por las crestas en forma de pestañas sobre sus ojos, el Gecko Crestado (
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutina diaria de 3 pasos para el cuidado de Gecko Crestado (Crested Gecko)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

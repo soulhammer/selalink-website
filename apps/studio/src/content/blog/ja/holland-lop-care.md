@@ -13,11 +13,11 @@ authority: "House Rabbit Society (HRS) 指針および特殊小動物獣医師�
 steps:
   - name: "ホーランドロップの感情表現：ビンキーダンスと足ダンの解読"
     text: "ウサギは声よりも全身のしぐさで感情を表現します。空中へジャンプして体をひねる「ビンキー（Binky）ダンス」は最高潮の喜びの舞であり、後ろ足で床を叩く「足ダン（Thumping）」は警戒や不満のサインです。"
-  - name: "ホーランドロップ (Oryctolagus cuniculus / Holland Lop)'s Body Language & Signals"
+  - name: "ホーランドロップ (Oryctolagus cuniculus / Holland Lop)のボディランゲージと行動サイン"
     text: "* 空中ジャンプして体をひねる (Binky Dance): 環境と飼い主に心から安心し、最高の喜びを感じている状態を示すサインです。 (滑らないラグやマットを敷いた広いスペースで楽しく走らせてあげましょう。)
 
 * 後ろ足で床を強力に叩く (Thumping / 足ダン): 大きな音や見慣れない匂いに警戒し、恐怖や強い不満を周囲に警告しています。 (何に驚いたか環境（騒音や他動物）を確認し、優しく低い声で声をかけて落ち着かせます。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "ホーランドロップ (Oryctolagus cuniculus / Holland Lop)のための3ステップホームケアルーティン"
     text: "* STEP 1. 朝：新鮮なチモシーの無制限補給と給水器の水交換: 胃腸の動きを止めることのないよう、1番刈りチモシー牧草をたっぷりと補給し、清潔な水を与えます。
 
 * STEP 2. 昼：垂れ耳内部の通気チェックと昼間の静かな睡眠: 耳を優しくめくって赤みや異物がないか確認し、昼間の十分な睡眠を保障します。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. ホーランドロップ (Oryctolagus cuniculus / Holland Lop)'s Body Language & Signals
+## 2. ホーランドロップ (Oryctolagus cuniculus / Holland Lop)のボディランゲージと行動サイン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ faqs:
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. ホーランドロップ (Oryctolagus cuniculus / Holland Lop)のための3ステップホームケアルーティン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

@@ -13,11 +13,11 @@ authority: "Official American Pomeranian Club Breed Guide & AVMA Veterinary Manu
 steps:
   - name: "Pomeranian Body Language: Distinguishing Playfulness from Anxiety"
     text: "Pomeranians are highly expressive and shift emotions rapidly. Key body language signals include the 'play bow' and 'lip licking'. When a Pomeranian lowers their front body while raising their hips, it is the classic 'play bow,' indicating an open, happy invitation to play. However, if they appear to wag their tail but continuously lick their lips with their tongue, it is a calming signal indicating internal anxiety or stress. Owners should not mistake this for excitement and should help calm them down."
-  - name: "Pomeranian (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "Pomeranian (Canis lupus familiaris)'s Body Language & Behavioral Signals"
     text: "* Play Bow: Lowering the front body while raising the hips, representing an open and happy invitation to play. (Respond joyfully by throwing a favorite toy or starting a gentle chase game.)
 
 * Lip Licking: Not anticipating food; it is a calming signal used to control internal anxiety or environmental stress. (If seen during walks or in new places, guide them away from the stimulus to ensure safety and quietness.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Customized 3-Step Home Care Routine for Pomeranian (Canis lupus familiaris)"
     text: "* STEP 1. Morning: Floor Grip Maintenance and Jump Prevention: Ensure non-slip mats are correctly placed around beds and sofas to protect their thin bones. Train them to use pet stairs instead of jumping down.
 
 * STEP 2. Afternoon: Pin Brushing Against Hair Direction for Airflow: Use a pin brush to gently brush the coat from tail to head, fluffing it up. This prevents undercoat matting and allows healthy air flow to the skin.
@@ -60,7 +60,7 @@ Pomeranians are highly popular toy dogs, beloved for their fluffy double coat an
 
 ---
 
-## 2. Pomeranian (Canis lupus familiaris)'s Body Language & Signals
+## 2. Pomeranian (Canis lupus familiaris)'s Body Language & Behavioral Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Pomeranians are highly popular toy dogs, beloved for their fluffy double coat an
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Customized 3-Step Home Care Routine for Pomeranian (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

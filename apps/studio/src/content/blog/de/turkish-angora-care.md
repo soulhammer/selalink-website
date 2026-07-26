@@ -13,11 +13,11 @@ authority: "CFA (Cat Fanciers' Association) Turkish Angora Breed Council & tierm
 steps:
   - name: "Körpersprache der Türkisch Angora: Taubheitsanzeichen und Schwingungssensibilität"
     text: "Taube Katzen zeigen einzigartige Verhaltensweisen wie 'unmodulierte laute Vokalisierung', da sie ihre eigene Lautstärke nicht wahrnehmen können. Stattdessen reagieren sie extrem sensibel auf 'Bodenschwingungen', die sie über ihre Pfotenballen aufnehmen. Das Verständnis dieser Anpassungen verhindert Erschrecken und Stress."
-  - name: "Türkisch Angora (Turkish Angora)'s Body Language & Signals"
+  - name: "Körpersprache und Verhaltenssignale von Türkisch Angora (Turkish Angora)"
     text: "* Unmodulierte laute Vokalisierung (Loud Unmodulated Vocalization): Sehr lautes Miauen oder Schreien in die Luft ohne Lautstärkekontrolle, verursacht durch Taubheit und das Bedürfnis nach Interaktion. (Nähern Sie sich niemals überraschend von hinten. Treten Sie in ihr Sichtfeld und nutzen Sie sanfte Handzeichen zur visuellen Kommunikation.)
 
 * Empfindlichkeit für Bodenschwingungen (Floor Vibration Sensitivity): Wahrnehmung von mechanischen Vibrationen des Bodens über die Pfotenballen (Vater-Pacini-Körperchen), um die Annäherung von Personen zu spüren. (Klopfen Sie leicht auf den Boden oder die Wand, bevor Sie näher treten, damit die Katze Ihre Anwesenheit ohne Schreck wahrnimmt.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Maßgeschneiderte 3-Schritte-Tagesroutine für Türkisch Angora (Turkish Angora)"
     text: "* STEP 1. Morgen: Visuelle Begrüßung & Handzeichen-Training: Begrüßen Sie die Katze morgens mit ruhigen Handzeichen und langsamem Blinzeln statt mit der Stimme, um einen stressfreien Start in den Tag zu sichern.
 
 * STEP 2. Nachmittag: Hohe Liegeplätze sichern und Sturzschutz prüfen: Bieten Sie stabile Kratzbäume an, da diese Rasse das Klettern liebt. Sichern Sie die Elemente gut ab, da Taubheit das Gleichgewicht leicht beeinflussen kann.
@@ -60,7 +60,7 @@ Mit ihrem eleganten, seidigen Fell und ihren strahlenden Augen ist die Türkisch
 
 ---
 
-## 2. Türkisch Angora (Turkish Angora)'s Body Language & Signals
+## 2. Körpersprache und Verhaltenssignale von Türkisch Angora (Turkish Angora)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Mit ihrem eleganten, seidigen Fell und ihren strahlenden Augen ist die Türkisch
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Maßgeschneiderte 3-Schritte-Tagesroutine für Türkisch Angora (Turkish Angora)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

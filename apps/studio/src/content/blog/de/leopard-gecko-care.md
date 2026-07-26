@@ -13,11 +13,11 @@ authority: "Association of Reptilian and Amphibian Veterinarians (ARAV) & Klinis
 steps:
   - name: "Körpersprache: Schwanzwedeln & Häutungssignale Verstehen"
     text: "Der dicke Schwanz dient als Fett-Speicher und Kommunikationsmittel. Unterscheiden Sie langsames Abwehr-Wedeln von freudigem Wackeln bei der Jagd."
-  - name: "Leopardgecko (Eublepharis macularius / Leopard Gecko)'s Body Language & Signals"
+  - name: "Körpersprache und Verhaltenssignale von Leopardgecko (Eublepharis macularius / Leopard Gecko)"
     text: "* Langsames S-förmiges Schwanzwedeln (Slow Tail Waving): Starke Abwehrreaktion bei Bedrohung oder Schreck vor Fressfeinden. (Handhabung sofort stoppen, Hand langsam zurückziehen und den Gecko in Ruhe lassen.)
 
 * Matte, weißliche Haut & Augenreiben (Pre-Shedding Signal): Bevorstehende Häutung; alte Hautschichten lösen sich und brauchen hohe Feuchtigkeit. (Feuchthöhle gründlich mit warmem Wasser einsprühen, um über 70% Luftfeuchtigkeit zu erreichen.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Maßgeschneiderte 3-Schritte-Tagesroutine für Leopardgecko (Eublepharis macularius / Leopard Gecko)"
     text: "* STEP 1. Morgen: Temperaturkontrolle & Höhle Befeuchten: Wärmematte (30°C ~ 32°C) prüfen und das Substrat der Feuchthöhle besprühen.
 
 * STEP 2. Nachmittag: Ungestörte Tagruhe im Dunkeln Gewährleisten: Direktes Sonnenlicht und Vibrationen vermeiden, um den Schlaf nicht zu stören.
@@ -60,7 +60,7 @@ Der Leopardgecko ist das beliebteste Heimreptil. Gemäß ARAV-Richtlinien sind e
 
 ---
 
-## 2. Leopardgecko (Eublepharis macularius / Leopard Gecko)'s Body Language & Signals
+## 2. Körpersprache und Verhaltenssignale von Leopardgecko (Eublepharis macularius / Leopard Gecko)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Der Leopardgecko ist das beliebteste Heimreptil. Gemäß ARAV-Richtlinien sind e
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Maßgeschneiderte 3-Schritte-Tagesroutine für Leopardgecko (Eublepharis macularius / Leopard Gecko)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

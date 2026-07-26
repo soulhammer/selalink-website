@@ -13,11 +13,11 @@ authority: "Guia de Raças da Cat Fanciers' Association (CFA) e Cornell Feline H
 steps:
   - name: "Linguagem corporal do Azul Russo: Leitura dos sinais de pânico"
     text: "Devido à sua natureza gentil, os Azuis Russos mostram sinais de alerta em silêncio. Os sinais de pânico principais incluem 'pupilas dilatadas' (Dilated Pupils) e 'encolher-se' (Crouching). Se houver um ruído ou aproximação de estranho, suas pupilas se dilatam. Se achatar o corpo contra o chão e deitar as orelhas para os lados, está com medo extremo."
-  - name: "Azul Russo (Felis catus / Russian Blue)'s Body Language & Signals"
+  - name: "Linguagem corporal e sinais de comportamento do Azul Russo (Felis catus / Russian Blue)"
     text: "* Pupilas dilatadas (Dilated Pupils): Uma resposta física que indica que estão muito alertas, tensos ou assustados. (Diminua as luzes e interrompa imediatamente a fonte de estimulação (ruído de eletrodomésticos).)
 
 * Encolher-se (Crouching): Um sinal de pânico defensivo, mostrando que se sentem encurralados ou aterrorizados. (Não o force ao contato físico. Permita-lhe retirar-se para um quarto ou armário silencioso.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rotina diária de 3 passos para cuidados com Azul Russo (Felis catus / Russian Blue)"
     text: "* STEP 1. Manhã: Rotina de segurança no caixote de areia e comedouro: Limpe o caixote de areia cedo. Certifique-se de que os pratos de comida e água estejam em um canto silencioso longe da passagem.
 
 * STEP 2. Tarde: Manutenção do refúgio seguro em locais altos: Confirme que a cabana fechada do arranhador esteja sempre acessível. Isso lhe dá um refúgio elevado diante de ruídos ou visitas.
@@ -60,7 +60,7 @@ Os Azuis Russos são felinos conhecidos por sua pelagem azul prateada e olhos ve
 
 ---
 
-## 2. Azul Russo (Felis catus / Russian Blue)'s Body Language & Signals
+## 2. Linguagem corporal e sinais de comportamento do Azul Russo (Felis catus / Russian Blue)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Os Azuis Russos são felinos conhecidos por sua pelagem azul prateada e olhos ve
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rotina diária de 3 passos para cuidados com Azul Russo (Felis catus / Russian Blue)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

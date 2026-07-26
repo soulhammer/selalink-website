@@ -13,11 +13,11 @@ authority: "Directives de l'Institut National des Sciences Animales de Corée et
 steps:
   - name: "Langage corporel du Jindo : Signaux de fidélité et de précaution"
     text: "Les chiens Jindo s'expriment de manière stoïque à travers la position de leur queue et de leurs oreilles. Une queue dressée avec les oreilles pointées vers l'avant indique de la vigilance et une forte concentration ; l'approche d'un inconnu peut alors déclencher une réaction défensive. À l'inverse, une queue basse remuant doucement et des oreilles aplaties traduisent la soumission et l'affection envers le maître."
-  - name: "Chien Jindo (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "Langage corporel et signaux comportementaux du Chien Jindo (Canis lupus familiaris)"
     text: "* Queue dressée et oreilles vers l'avant: Vigilance et concentration sur une cible inconnue dans un état de tension. (Évitez tout contact soudain, demandez aux inconnus de ne pas le toucher et laissez le maître le calmer.)
 
 * Queue basse et oreilles aplaties à l'approche: Obéissance profonde, confiance et demande d'affection envers le maître. (Caressez-le doucement et félicitez-le pour renforcer ce lien positif.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Routine quotidienne en 3 étapes pour le soin du Chien Jindo (Canis lupus familiaris)"
     text: "* STEP 1. Matin : Promenade de socialisation axée sur le flair (Nosework): Promenez-le aux heures calmes du matin pour le désensibiliser à l'environnement par le flair.
 
 * STEP 2. Après-midi : Brossage du double pelage et élimination du sous-poil mort: Utilisez une brosse carde et un peigne métallique pour retirer le sous-poil mort, évitant les nœuds et dermatites.
@@ -60,7 +60,7 @@ Le Jindo est un trésor national coréen et une race mondialement réputée pour
 
 ---
 
-## 2. Chien Jindo (Canis lupus familiaris)'s Body Language & Signals
+## 2. Langage corporel et signaux comportementaux du Chien Jindo (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Le Jindo est un trésor national coréen et une race mondialement réputée pour
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Routine quotidienne en 3 étapes pour le soin du Chien Jindo (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

@@ -13,11 +13,11 @@ authority: "Association of Avian Veterinarians (AAV) & World Parrot Trust Avian 
 steps:
   - name: "Budgerigar Body Language: Beak Grinding and Pupil Pinning"
     text: "Budgies communicate their emotional state clearly through beak sounds and eye contractions. 'Beak Grinding' before sleep is a classic sign of contentment and relaxation. Conversely, rapid contraction and dilation of the pupils, known as 'Pupil Pinning', indicates high curiosity, intense excitement, or heightened cognitive focus."
-  - name: "Budgerigar / Budgie's Body Language & Signals"
+  - name: "Budgerigar / Budgie's Body Language & Behavioral Signals"
     text: "* Crunchy Beak Rubbing Sound (Beak Grinding): A sign of deep contentment, safety, and relaxation right before sleeping or resting. (Avoid disturbing them and dim the room lights to create a quiet environment for sleep.)
 
 * Rapid Contraction of Pupils (Pupil Pinning): A state of high excitement, intense curiosity, or focus triggered by a toy, voice, or new object. (Speak in a gentle, calming tone to settle their emotions and prevent overstimulation biting.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Customized 3-Step Home Care Routine for Budgerigar / Budgie"
     text: "* STEP 1. Morning: Formulated Pellet & Fresh Veggie Feeding with Air Ventilation: Reduce seed proportions to prevent fatty liver disease and feed nutritional pellets alongside fresh leafy greens while ensuring clean room ventilation.
 
 * STEP 2. Afternoon: Foraging Toys & Safe Out-of-Cage Flight Time: Provide shreddable paper or foraging toys to prevent feather plucking from boredom, and allow supervised flight in a secure room with closed windows.
@@ -60,7 +60,7 @@ Budgerigars (Budgies) are among the most popular pet birds worldwide, cherished 
 
 ---
 
-## 2. Budgerigar / Budgie's Body Language & Signals
+## 2. Budgerigar / Budgie's Body Language & Behavioral Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Budgerigars (Budgies) are among the most popular pet birds worldwide, cherished 
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Customized 3-Step Home Care Routine for Budgerigar / Budgie
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

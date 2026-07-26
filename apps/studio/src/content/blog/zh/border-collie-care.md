@@ -13,11 +13,11 @@ authority: "英国 Kennel Club (KC) 边境牧羊犬指南与犬类认知行为�
 steps:
   - name: "边境牧羊犬的肢体语言：眼神聚焦与能量释放"
     text: "边境牧羊犬拥有凝视目标的独特本能，被称为 “强效眼神 (The Eye)”。压低身体并死死凝视，代表着其处于控制目标的极度专注状态。相反，微微张嘴并大幅度摇摆尾巴，则表明它们体内能量充沛，正在向主人发出玩耍邀请。"
-  - name: "边境牧羊犬 (Border Collie)'s Body Language & Signals"
+  - name: "边境牧羊犬 (Border Collie) 的肢体语言与行为信号"
     text: "* 压低身体并死死凝视目标 (The Eye): 试图驱赶或控制移动物体的本能驱动极度专注状态。 (为防止演变成危险的追逐行为，应立即呼唤其名字引导其将视线转移至主人身上并给予奖励。)
 
 * 微微张嘴并大幅度摇摆尾巴: 充沛的体能与脑力能量已准备就绪，渴望与主人开启愉快的互动。 (此时非常适合开展飞盘或敏捷犬障碍赛等结合智力与体能的活动，而非简单的抛接球。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "边境牧羊犬 (Border Collie) 定制化 3 步家庭护理流程"
     text: "* STEP 1. 早上：结合服从指令训练的变速跑散步: 在散步奔跑中穿插“等待”、“转弯”等指令，让其在动脑的同时高效消耗体力。
 
 * STEP 2. 中午：提供多阶段智力拼图玩具 (Brain Games): 提供需要解锁多种机关才能获取零食的高阶益智玩具，满足其认知需求并预防无聊。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. 边境牧羊犬 (Border Collie)'s Body Language & Signals
+## 2. 边境牧羊犬 (Border Collie) 的肢体语言与行为信号
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -69,7 +69,7 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 试图驱赶或控制移动物体的本能驱动极度专注状态。<br/>
-    <strong>•  national:</strong> 为防止演变成危险的追逐行为，应立即呼唤其名字引导其将视线转移至主人身上并给予奖励。
+    <strong>• 应对:</strong> 为防止演变成危险的追逐行为，应立即呼唤其名字引导其将视线转移至主人身上并给予奖励。
   </p>
 </div>
 
@@ -80,13 +80,13 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 充沛的体能与脑力能量已准备就绪，渴望与主人开启愉快的互动。<br/>
-    <strong>•  national:</strong> 此时非常适合开展飞盘或敏捷犬障碍赛等结合智力与体能的活动，而非简单的抛接球。
+    <strong>• 应对:</strong> 此时非常适合开展飞盘或敏捷犬障碍赛等结合智力与体能的活动，而非简单的抛接球。
   </p>
 </div>
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. 边境牧羊犬 (Border Collie) 定制化 3 步家庭护理流程
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

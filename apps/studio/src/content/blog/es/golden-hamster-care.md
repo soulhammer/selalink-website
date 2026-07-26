@@ -13,11 +13,11 @@ authority: "Guía de Cuidado de Hámsters de la Humane Society y Protocolos de C
 steps:
   - name: "Comunicación del hámster sirio: Castañeo de dientes y señales de vigilancia"
     text: "Los hámsters sirios expresan enojo o miedo haciendo un sonido distintivo de castañeo de dientes (Teeth Chattering), advirtiéndole que se mantenga alejado. Además, cuando se sobresaltan por ruidos repentinos, muestran un comportamiento de aplanar las orejas y congelarse (Ear Flattening). Reconocer estas delicadas señales de lenguaje corporal es la clave para mantener su comodidad."
-  - name: "Hámster Sirio / Dorado (Mesocricetus auratus)'s Body Language & Signals"
+  - name: "Lenguaje corporal y señales de conducta de Hámster Sirio / Dorado (Mesocricetus auratus)"
     text: "* Castañeo de dientes (Teeth Chattering): Una advertencia firme de que se sienten amenazados o extremadamente sensibles. No se acerque. (Detenga inmediatamente la manipulación o la limpieza, y dele un espacio tranquilo para calmarse en su escondite.)
 
 * Orejas aplanadas y congelamiento (Ear Flattening): Un estado de alta tensión y precaución, provocado por vibraciones repentinas o estímulos visuales desconocidos. (Evite ruidos fuertes o movimientos bruscos cerca, y atenúe las luces para mantener la habitación oscura y acogedora.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutina diaria de 3 pasos para el cuidado de Hámster Sirio / Dorado (Mesocricetus auratus)"
     text: "* STEP 1. Mañana: Organización del escondite y reemplazo de agua: Dado que los hámsters duermen por la mañana, no perturbe el interior de su escondite. Reemplace el agua y limpie ligeramente la suciedad alrededor de la jaula.
 
 * STEP 2. Tarde: Mantener un ambiente silencioso y oscuro para un sueño profundo: Asegure que duerman sin interrupciones evitando electrodomésticos ruidosos cerca y sombreando la jaula.
@@ -60,7 +60,7 @@ El pequeño y adorable hámster sirio o dorado es una de las mascotas solitarias
 
 ---
 
-## 2. Hámster Sirio / Dorado (Mesocricetus auratus)'s Body Language & Signals
+## 2. Lenguaje corporal y señales de conducta de Hámster Sirio / Dorado (Mesocricetus auratus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ El pequeño y adorable hámster sirio o dorado es una de las mascotas solitarias
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutina diaria de 3 pasos para el cuidado de Hámster Sirio / Dorado (Mesocricetus auratus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

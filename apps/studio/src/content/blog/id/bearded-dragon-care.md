@@ -13,11 +13,11 @@ authority: "Pedoman Pemeliharaan Association of Reptilian and Amphibian Veterina
 steps:
   - name: "Bahasa Perilaku Bearded Dragon: Mengangguk dan Melambaikan Kaki"
     text: "Bearded dragon menggunakan gerakan tubuh yang khas untuk menunjukkan hierarki dan menyampaikan emosi. Menganggukkan kepala ke atas dan ke bawah secara cepat—yang dikenal sebagai 'Head Bobbing'—merupakan bentuk dominasi dan klaim wilayah yang kuat. Sebaliknya, memutar satu kaki depan secara perlahan di udara—yang disebut 'Arm Waving'—adalah sinyal sosial berupa ketundukan, kedamaian, dan keramahan yang menandakan 'saya bukan ancaman'."
-  - name: "Bearded Dragon (Pogona vitticeps)'s Body Language & Signals"
+  - name: "Bahasa Tubuh dan Sinyal Perilaku Bearded Dragon (Pogona vitticeps)"
     text: "* Head Bobbing (Menganggukkan Kepala dengan Cepat): Bentuk penegasan dominasi dan klaim wilayah. Sering terjadi saat melihat individu lain atau saat terstimulasi oleh pantulan bayangan sendiri di dinding kaca. (Pelihara kadal secara terpisah (soliter) untuk mencegah stres akibat pemeliharaan bersama, dan gunakan stiker anti-reflektif pada dinding kaca.)
 
 * Arm Waving (Memutar Kaki Depan secara Perlahan): Sinyal sosial yang damai dan tunduk untuk menunjukkan tidak adanya niat menyerang, ditunjukkan kepada makhluk yang lebih besar atau pemiliknya. (Mendekatlah dari posisi rendah secara perlahan, ajak bicara dengan suara yang tenang, dan berikan hadiah makanan agar reptil mengenali pemiliknya sebagai sosok yang aman.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutinitas Perawatan Harian 3 Langkah untuk Bearded Dragon (Pogona vitticeps)"
     text: "* STEP 1. Pagi: Menyalakan Pemanas Basking & Lampu UVB: Nyalakan lampu pemanas (spotlight) dan lampu UVB. Pastikan suhu titik berjemur mencapai 35–40 °C agar suhu tubuhnya naik dan enzim pencernaan dapat bekerja.
 
 * STEP 2. Siang: Pemberian Pakan Serangga Bernutrisi & Taburan Kalsium: Berikan serangga pakan hidup yang telah ditaburi bubuk kalsium (mengandung D3 untuk pemeliharaan dalam ruangan) serta sayuran tinggi kalsium seperti chicory dan pakcoy.
@@ -60,7 +60,7 @@ Berkat sifatnya yang tenang dan ekspresinya yang menggemaskan, bearded dragon me
 
 ---
 
-## 2. Bearded Dragon (Pogona vitticeps)'s Body Language & Signals
+## 2. Bahasa Tubuh dan Sinyal Perilaku Bearded Dragon (Pogona vitticeps)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Berkat sifatnya yang tenang dan ekspresinya yang menggemaskan, bearded dragon me
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutinitas Perawatan Harian 3 Langkah untuk Bearded Dragon (Pogona vitticeps)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

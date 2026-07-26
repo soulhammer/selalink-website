@@ -13,11 +13,11 @@ authority: "Guide Officiel de la Maine Coon Breeders & Fanciers Association (MCB
 steps:
   - name: "Langage corporel du Maine Coon : Roucoulements amicaux et queue gonflée"
     text: "Le Maine Coon est très sociable et aime échanger avec ses propriétaires. Les signaux clés incluent les roucoulements (Trilling) et la queue gonflée (Puffed Tail). Un léger roucoulement lorsqu'il s'approche est une salutation affectueuse. À l'inverse, s'il est surpris par un bruit soudain, les poils de sa queue se hérissent comme un goupillon. Éloignez alors la source de stress et laissez-le se calmer seul."
-  - name: "Maine Coon (Felis catus)'s Body Language & Signals"
+  - name: "Langage corporel et signaux comportementaux du Maine Coon (Felis catus)"
     text: "* Roucoulement (Trilling): Une vocalisation amicale témoignant d'une confiance absolue et d'une demande d'interaction douce. (Répondez avec une voix douce et chaleureuse ou caressez-le gentiment pour lui rendre son affection.)
 
 * Queue gonflée (Puffed Tail): Une réaction de peur involontaire face à un bruit ou un visuel soudain, indiquant une alerte maximale. (Éliminez immédiatement l'élément effrayant et ne le forcez pas au contact physique ; laissez-le retrouver son calme.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Routine quotidienne en 3 étapes pour le soin du Maine Coon (Felis catus)"
     text: "* STEP 1. Matin : Mesure stricte des rations pour le contrôle du poids et la prévention de la CMH: La cardiomyopathie hypertrophique (CMH) du Maine Coon s'aggrave en cas d'obésité. Pesez sa nourriture quotidiennement sur une balance électronique et veillez à un apport en eau suffisant.
 
 * STEP 2. Après-midi : Brossage du sous-poil au peigne métallique et à la carde: La collerette et les poils sous les aisselles s'emmêlent facilement, provoquant des dermatites. Peignez en profondeur avec un peigne métallique pour éliminer le sous-poil mort et la pellicule.
@@ -64,7 +64,7 @@ Aujourd'hui, PetSelf décrypte le langage corporel du Maine Coon et propose une 
 
 ---
 
-## 2. Maine Coon (Felis catus)'s Body Language & Signals
+## 2. Langage corporel et signaux comportementaux du Maine Coon (Felis catus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -90,7 +90,7 @@ Aujourd'hui, PetSelf décrypte le langage corporel du Maine Coon et propose une 
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Routine quotidienne en 3 étapes pour le soin du Maine Coon (Felis catus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

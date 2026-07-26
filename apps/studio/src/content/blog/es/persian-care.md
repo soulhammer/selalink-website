@@ -13,11 +13,11 @@ authority: "Directrices de Cría de CFA para Persas y Normas Veterinarias de la 
 steps:
   - name: "Lenguaje corporal del gato Persa: Señales silenciosas de ojos y orejas"
     text: "Dado que los Persas expresan sus emociones en silencio, detectar el estrés puede ser difícil. Mientras muestran un profundo afecto a través de 'ojos semicerrados' (Half-Closed Eyes), las 'orejas de avión' (Airplane Ears) (orejas aplanadas hacia los lados) indican molestia o rechazo claro. Esto se observa comúnmente al cepillar su cara con prisa o manipular sus pliegues de forma brusca."
-  - name: "Gato Persa (Felis catus / Persian Cat)'s Body Language & Signals"
+  - name: "Lenguaje corporal y señales de conducta de Gato Persa (Felis catus / Persian Cat)"
     text: "* Ojos semicerrados (Half-Closed Eyes): Mensaje pacífico que indica profunda confianza en el dueño y un estado cómodo de máxima satisfacción. (Responda parpadeando lentamente y hablándoles con una voz suave y tranquila.)
 
 * Orejas de avión (Airplane Ears): Expresión de incomodidad causada por tirones en las raíces del pelo durante el cepillado o tensión por el ruido ambiental. (Detenga el cepillado de inmediato y dé espacio al gato en un lugar tranquilo.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutina diaria de 3 pasos para el cuidado de Gato Persa (Felis catus / Persian Cat)"
     text: "* STEP 1. Mañana: Limpieza de pliegues faciales y control de lágrimas: Por la mañana, limpie suavemente los pliegues faciales alrededor de la nariz con gasa estéril o solución templada para prevenir la dermatitis por levaduras rojas.
 
 * STEP 2. Tarde: Cepillado doble con cepillo slicker y peine metálico: Enfóquese en áreas propensas a enredos como axilas y vientre. Use una carda (slicker) primero y luego un peine de acero hilo por hilo para verificar la ventilación de la piel.
@@ -60,7 +60,7 @@ Con su espeso pelaje doble y su característica cara plana y redonda, los gatos 
 
 ---
 
-## 2. Gato Persa (Felis catus / Persian Cat)'s Body Language & Signals
+## 2. Lenguaje corporal y señales de conducta de Gato Persa (Felis catus / Persian Cat)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Con su espeso pelaje doble y su característica cara plana y redonda, los gatos 
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutina diaria de 3 pasos para el cuidado de Gato Persa (Felis catus / Persian Cat)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

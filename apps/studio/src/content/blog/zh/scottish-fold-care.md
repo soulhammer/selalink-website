@@ -13,11 +13,11 @@ authority: "ISFM（国际猫科医学会）遗传性软骨疾病管理指南与 
 steps:
   - name: "折耳猫的身体语言：佛陀坐姿与夹紧尾巴"
     text: "苏格兰折耳猫在因骨骼与关节遗传病感到疼痛时，会使用非常独特的身体姿势来减轻痛苦。最明显的信号是“佛陀坐姿（Buddha Position）”和“夹紧/低垂尾巴（Tail Lowering）”。它们将屁股贴地、身体后倾、双腿向前伸直的坐姿，并不是在向家长撒娇，而是为了分散压在脊椎和腿部关节上的自身体重，以减轻痛苦的休息姿势。另外，将尾巴低垂甚至紧紧夹在两后肢之间，是尾椎骨关节开始出现僵硬或疼痛的警告。此时应避免触碰其尾部和臀部。"
-  - name: "苏格兰折耳猫's Body Language & Signals"
+  - name: "苏格兰折耳猫 的肢体语言与行为信号"
     text: "* 佛陀坐姿 (Buddha Position): 为分散体重压力、减轻遗传性软骨疾病带来的关节疼痛而做出的本能调节姿势。 (不要强行纠正其坐姿，在猫咪依靠处后方塞入柔软的靠垫以帮助其放松支撑。)
 
 * 夹紧/低垂尾巴 (Tail Lowering): 尾部软骨出现僵硬或疼痛，拒绝被触碰的自我防卫信号。 (立即停止抚摸尾巴和臀部附近，引导其移动到可放松的舒适垫子上。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "苏格兰折耳猫 定制化 3 步家庭护理流程"
     text: "* STEP 1. 早晨：步态观察与强化关节营养供给: 在猫咪起床行走时，仔细观察30秒确认有无跛行或僵硬，并将有助于软骨成分的营养品（氨基葡萄糖、软骨素、MSM、Omega-3）混入饲料中，在早晨喂食。
 
 * STEP 2. 中午：折耳内部精密检查与每周一次通风清理: 折耳内部因无法通风极易潮湿。切勿在耳道内使用棉签。滴入数滴专用洗耳液并温柔按摩耳根，待猫咪甩头后，仅用棉球将排出的脏污擦净，保持内部干燥。
@@ -64,7 +64,7 @@ faqs:
 
 ---
 
-## 2. 苏格兰折耳猫's Body Language & Signals
+## 2. 苏格兰折耳猫 的肢体语言与行为信号
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -73,7 +73,7 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 为分散体重压力、减轻遗传性软骨疾病带来的关节疼痛而做出的本能调节姿势。<br/>
-    <strong>•  national:</strong> 不要强行纠正其坐姿，在猫咪依靠处后方塞入柔软的靠垫以帮助其放松支撑。
+    <strong>• 应对:</strong> 不要强行纠正其坐姿，在猫咪依靠处后方塞入柔软的靠垫以帮助其放松支撑。
   </p>
 </div>
 
@@ -84,13 +84,13 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 尾部软骨出现僵硬或疼痛，拒绝被触碰的自我防卫信号。<br/>
-    <strong>•  national:</strong> 立即停止抚摸尾巴和臀部附近，引导其移动到可放松的舒适垫子上。
+    <strong>• 应对:</strong> 立即停止抚摸尾巴和臀部附近，引导其移动到可放松的舒适垫子上。
   </p>
 </div>
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. 苏格兰折耳猫 定制化 3 步家庭护理流程
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

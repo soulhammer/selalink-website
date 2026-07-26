@@ -13,11 +13,11 @@ authority: "AKC (美国犬业俱乐部) 比格犬标准与 IAABC 嗅闻行为协
 steps:
   - name: "比格犬的身体语言：追踪本能与嚎叫的含义"
     text: "比格犬在极度专注于嗅觉时，会表现出“将鼻子贴在地上直行（Tracking）”的行为，并会忽略周围的声音，这是其本能宣泄精力的阶段。相反，在独自留守或缺乏刺激时表现出的“嚎叫（Howling）”，则是典型的心里焦虑与压力的体现。准确捕捉这两大信号，是让比格犬保持活泼且情绪稳定的秘诀。"
-  - name: "比格犬 (Beagle)'s Body Language & Signals"
+  - name: "比格犬 (Beagle) 的肢体语言与行为信号"
     text: "* 贴地直行追踪 (Ground-Tracking): 通过周围的气味分子探索世界并释放猎犬精力的正常兴奋状态。 (散步时切勿强力拉扯牵引绳打断它们，应给它们时间安全地嗅闻与探索气味路径。)
 
 * 嚎叫 (Howling): 因孤独、无聊、精力未能释放而产生的焦虑与寻求关注的表现。 (嚎叫时请勿训斥，而应通过平时的室内嗅闻益智游戏或充足的户外散步来宣泄其过剩的精力。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "比格犬 (Beagle) 定制化 3 步家庭护理流程"
     text: "* STEP 1. 早晨：室内零食藏匿嗅闻游戏: 早餐后，为了满足比格犬敏锐的嗅觉智力，可将零食隐藏在纸杯中或房屋角落让其搜寻，提前消耗其认知精力。
 
 * STEP 2. 中午：40分钟以上充足的户外嗅闻追踪散步: 为了释放精力，每天至少进行40分钟以上的户外散步，并且不强行限制其嗅闻气味的行为，让其自由追踪。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. 比格犬 (Beagle)'s Body Language & Signals
+## 2. 比格犬 (Beagle) 的肢体语言与行为信号
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -69,7 +69,7 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 通过周围的气味分子探索世界并释放猎犬精力的正常兴奋状态。<br/>
-    <strong>•  national:</strong> 散步时切勿强力拉扯牵引绳打断它们，应给它们时间安全地嗅闻与探索气味路径。
+    <strong>• 应对:</strong> 散步时切勿强力拉扯牵引绳打断它们，应给它们时间安全地嗅闻与探索气味路径。
   </p>
 </div>
 
@@ -80,13 +80,13 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 因孤独、无聊、精力未能释放而产生的焦虑与寻求关注的表现。<br/>
-    <strong>•  national:</strong> 嚎叫时请勿训斥，而应通过平时的室内嗅闻益智游戏或充足的户外散步来宣泄其过剩的精力。
+    <strong>• 应对:</strong> 嚎叫时请勿训斥，而应通过平时的室内嗅闻益智游戏或充足的户外散步来宣泄其过剩的精力。
   </p>
 </div>
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. 比格犬 (Beagle) 定制化 3 步家庭护理流程
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

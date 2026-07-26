@@ -13,11 +13,11 @@ authority: "Maine Coon Breeders & Fanciers Association (MCBFA) Guidelines & AAFP
 steps:
   - name: "Maine Coon Body Language: Friendly Trilling and Alert Puffed Tail"
     text: "Maine Coons are highly social and curious, exhibiting a stronger urge to communicate with their owners compared to other cats. Typical communication signals include 'Trilling' and a 'Puffed Tail'. A soft, chirping 'trill' sound made while approaching is a warm greeting expressing deep affection and requesting interaction. Conversely, when startled by unexpected appliance noises or unfamiliar environments, the fur along their entire tail puffs out into a thick bottle-brush shape. When you notice a puffed tail, remove the stressor immediately and allow them time to calm down undisturbed in a quiet room."
-  - name: "Maine Coon (Felis catus)'s Body Language & Signals"
+  - name: "Maine Coon (Felis catus)'s Body Language & Behavioral Signals"
     text: "* Trilling: A friendly vocalization expressing supreme trust and affection toward the owner, requesting gentle conversation or interaction. (Reply in a soft, cheerful high tone or offer light petting on their cheeks to return the love.)
 
 * Puffed Tail: An involuntary reaction to sudden auditory or visual frights, indicating that excitement and alertness have reached a peak. (Identify and remove the frightening trigger immediately, and do not force physical contact; allow the cat to settle down on its own.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Customized 3-Step Home Care Routine for Maine Coon (Felis catus)"
     text: "* STEP 1. Morning: Portion-Controlled Feeding for Weight & HCM Risk Management: Hypertrophic Cardiomyopathy (HCM) in Maine Coons worsens with obesity. Weigh their food every morning on a digital scale based on precise daily caloric requirements, and ensure a clean, abundant water supply.
 
 * STEP 2. Afternoon: Steel Comb Full-Body Grooming to Prevent Long Double Coat Mats: The lion-like ruff and armpit fur mat easily, leading to skin inflammation. Use a steel comb to comb deeply into the undercoat to detangle knots, remove dander, and maintain proper coat ventilation.
@@ -64,7 +64,7 @@ Today, PetSelf decodes the calming signals and body language of the Maine Coon w
 
 ---
 
-## 2. Maine Coon (Felis catus)'s Body Language & Signals
+## 2. Maine Coon (Felis catus)'s Body Language & Behavioral Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -90,7 +90,7 @@ Today, PetSelf decodes the calming signals and body language of the Maine Coon w
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Customized 3-Step Home Care Routine for Maine Coon (Felis catus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

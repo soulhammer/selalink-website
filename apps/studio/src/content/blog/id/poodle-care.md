@@ -13,11 +13,11 @@ authority: "Panduan Ras Resmi American Kennel Club (AKC) & Protokol Perilaku IAA
 steps:
   - name: "Bahasa Tubuh Poodle: Membedakan Permintaan dengan Stres"
     text: "Karena kecerdasan mereka, Poodle aktif berkomunikasi menggunakan bahasa tubuh. Sinyal yang khas meliputi 'mengangkat kaki depan' (Paw Raising) dan 'berkedip lembut' (Soft Blinking). Saat Poodle mengangkat kaki depan, itu terlihat seperti meminta bersalaman, tetapi sering kali merupakan pesan yang mengatakan 'beri aku perhatian' atau sinyal penenang yang berarti 'aku agak tegang, harap lembut.' Menatap lembut dan berkedip perlahan adalah cara mereka menunjukkan kepercayaan dan kasih sayang."
-  - name: "Poodle (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "Bahasa Tubuh dan Sinyal Perilaku Poodle (Canis lupus familiaris)"
     text: "* Mengangkat Kaki Depan (Paw Raising): Ekspresi mencari perhatian atau mencoba menenangkan ketegangan atau kecemasan ringan. (Jika terlihat, hindari memberikan perintah yang memaksa. Bicaralah dengan nada tenang dan belai dengan lembut.)
 
 * Berkedip Lembut (Soft Blinking): Tanda kepercayaan dan kasih sayang yang mendalam, menegaskan bahwa mereka merasa aman dengan Anda. (Saat mata saling bertatapan, berkedip kembalilah perlahan untuk membagikan perasaan tenang tersebut.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutinitas Perawatan Harian 3 Langkah untuk Poodle (Canis lupus familiaris)"
     text: "* STEP 1. Pagi: Peredaan Kognitif dengan Mainan Otak: Selain jalan-jalan fisik, gunakan mangkuk labirin atau alas pengendus untuk merangsang pikiran aktif mereka, membantu mengarahkan kelebihan energi mereka secara produktif.
 
 * STEP 2. Siang: Pemeriksaan Telinga dan Pijat Pembersihan Lembut: Teteskan 2-3 tetes pembersih telinga ke dalam saluran telinga, pijat perlahan pangkal telinga, dan seka kotoran yang larut dengan kapas untuk mencegah otitis.
@@ -60,7 +60,7 @@ Poodle secara luas diakui sebagai salah satu ras anjing paling cerdas di dunia. 
 
 ---
 
-## 2. Poodle (Canis lupus familiaris)'s Body Language & Signals
+## 2. Bahasa Tubuh dan Sinyal Perilaku Poodle (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Poodle secara luas diakui sebagai salah satu ras anjing paling cerdas di dunia. 
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutinitas Perawatan Harian 3 Langkah untuk Poodle (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

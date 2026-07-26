@@ -13,11 +13,11 @@ authority: "Guide de la race Labrador Retriever de l'American Kennel Club (AKC) 
 steps:
   - name: "Langage corporel du Labrador Retriever : « Gueule douce » et signaux de réclamation"
     text: "Les Labradors possèdent un instinct appelé « Gueule douce » (Soft Mouth), développé pour rapporter le gibier sans l'abîmer. Porter délicatement des objets dans la gueule sans les détruire est une preuve d'affection et une invitation au jeu. À l'inverse, poser son menton sur vos genoux en vous fixant du regard est un signal discret de réclamation de nourriture lié à son appétit vorace."
-  - name: "Labrador Retriever's Body Language & Signals"
+  - name: "Langage corporel et signaux comportementaux du Labrador Retriever"
     text: "* Porter délicatement des objets (Soft Mouth): Comportement instinctif de rapporteur traduisant une profonde affection, de la confiance et l'envie d'interagir. (Évitez d'arracher l'objet brutalement. Félicitez-le et enchaînez avec un jeu de lancer-rapporter (Fetch).)
 
 * Poser le menton sur les genoux & fixer du regard (Begging): Signal de faim continu causé par la mutation du gène POMC, réclamant des friandises. (Ne cédez pas à ses demandes. Maintenez des rations strictes et utilisez des jeux de fouille (nosework) peu caloriques.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Routine quotidienne en 3 étapes pour le soin du Labrador Retriever"
     text: "* STEP 1. Matin : Repas dans une gamelle anti-glouton & promenade douce pour les articulations: Utilisez une gamelle anti-glouton pour ralentir la prise alimentaire, suivie d'une promenade sur terrain plat pour préserver ses hanches.
 
 * STEP 2. Après-midi : Jeu de lancer-rapporter & soin des oreilles après la baignade: Proposez des jeux de rapport pour dépenser son énergie et séchez soigneusement ses oreilles avec une lotion auriculaire adaptée après l'eau.
@@ -60,7 +60,7 @@ Le Labrador Retriever est l'un des chiens les plus aimés au monde grâce à son
 
 ---
 
-## 2. Labrador Retriever's Body Language & Signals
+## 2. Langage corporel et signaux comportementaux du Labrador Retriever
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Le Labrador Retriever est l'un des chiens les plus aimés au monde grâce à son
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Routine quotidienne en 3 étapes pour le soin du Labrador Retriever
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

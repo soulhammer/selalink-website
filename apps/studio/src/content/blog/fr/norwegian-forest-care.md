@@ -13,11 +13,11 @@ authority: "Directives de The International Cat Association (TICA) et Éthologie
 steps:
   - name: "Langage corporel du Norvégien : Signaux de confiance et vigilance sauvage"
     text: "Le Norvégien exprime ses émotions avec calme et intelligence. S'avancer doucement avec la queue dressée verticalement, dont l'extrémité se courbe en point d'interrogation (?), est une marque de confiance totale et d'affection. À l'inverse, des pupilles dilatées accompagnées d'oreilles couchées en « oreilles d'avion » indiquent qu'il ressent une menace ou de l'anxiété."
-  - name: "Norvégien (Felis catus / Norwegian Forest Cat)'s Body Language & Signals"
+  - name: "Langage corporel et signaux comportementaux du Norvégien (Felis catus / Norwegian Forest Cat)"
     text: "* Queue dressée avec extrémité en point d'interrogation: Signal d'apaisement, de curiosité et d'affection amicale lors de l'approche vers son maître. (Répondez avec une voix douce et caressez gentiment sa tête et ses joues pour renforcer votre complicité.)
 
 * Pupilles dilatées et oreilles en avion (aplaties): État de tension et de grande vigilance provoqué par un bruit soudain ou un environnement inconnu. (Évitez le contact visuel direct et laissez le chat se réfugier de lui-même sur un arbre à chat élevé ou dans une cachette calme.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Routine quotidienne en 3 étapes pour le soin du Norvégien (Felis catus / Norwegian Forest Cat)"
     text: "* STEP 1. Matin : Session de jeu de chasse verticale sur l'arbre à chat: Agitez des plumeaux ou lasers de haut en bas le long de l'arbre à chat pour stimuler ses capacités d'escalade et son instinct de prédateur.
 
 * STEP 2. Après-midi : Brossage profond au peigne et à la carde du pelage triple: Insistez sur la collerette et les aisselles pour retirer le sous-poil mort à l'aide d'un peigne métallique et d'une carde afin d'aérer la peau.
@@ -60,7 +60,7 @@ Le chat Norvégien est une race naturelle qui a évolué pour résister aux hive
 
 ---
 
-## 2. Norvégien (Felis catus / Norwegian Forest Cat)'s Body Language & Signals
+## 2. Langage corporel et signaux comportementaux du Norvégien (Felis catus / Norwegian Forest Cat)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Le chat Norvégien est une race naturelle qui a évolué pour résister aux hive
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Routine quotidienne en 3 étapes pour le soin du Norvégien (Felis catus / Norwegian Forest Cat)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

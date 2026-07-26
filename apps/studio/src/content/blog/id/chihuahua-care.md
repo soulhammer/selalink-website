@@ -13,11 +13,11 @@ authority: "Panduan Ras Resmi Chihuahua Club of America & Pedoman Perawatan Meta
 steps:
   - name: "Sinyal Chihuahua: Gemetar Emosional dan Geraman Defensif"
     text: "Chihuahua sangat sensitif dan mengekspresikan kewaspadaan yang kuat. Perilaku utama meliputi 'gemetar' (Shivering) dan 'geraman' (Growling). Gemetar terjadi karena dingin atau emosi kuat seperti cemas, gembira, atau tegang, akibat sistem saraf sensitif memicu kontraksi. Geraman sambil memperlihatkan gigi adalah peringatan agar Anda mundur. Berikan ruang."
-  - name: "Chihuahua (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "Bahasa Tubuh dan Sinyal Perilaku Chihuahua (Canis lupus familiaris)"
     text: "* Gemetar (Shivering): Terjadi karena dingin, atau sebagai respons fisik terhadap emosi intens seperti cemas, gembira, atau tegang. (Bungkus dengan selimut hangat dan peluk dengan tenang di ruangan bebas bising untuk menenangkan.)
 
 * Geraman dengan Memperlihatkan Gigi (Growling): Peringatan keras yang berasal dari rasa takut bahwa sentuhan mengancam, meminta Anda mundur. (Hentikan gerakan atau sentuhan segera, menjauhlah, dan biarkan mereka tenang sendiri.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutinitas Perawatan Harian 3 Langkah untuk Chihuahua (Canis lupus familiaris)"
     text: "* STEP 1. Pagi: Pemeriksaan Perlindungan Dahi dan Pengaturan Suhu Ruangan: Jangan berikan tekanan pada dahi (molera). Chihuahua sensitif terhadap dingin, jadi periksa suhu ruangan tetap hangat sekitar 24-26°C.
 
 * STEP 2. Siang: Penciuman Singkat dan Sesi Desensitisasi Suara: Hindari sosialisasi paksa dengan anjing lain. Biarkan mereka mencium bau, dan latih desensitisasi suara selama 5 menit dengan hadiah camilan.
@@ -64,7 +64,7 @@ Hari ini, PetSelf menguraikan bahasa tubuh Chihuahua dan menjelaskan 3 langkah r
 
 ---
 
-## 2. Chihuahua (Canis lupus familiaris)'s Body Language & Signals
+## 2. Bahasa Tubuh dan Sinyal Perilaku Chihuahua (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -90,7 +90,7 @@ Hari ini, PetSelf menguraikan bahasa tubuh Chihuahua dan menjelaskan 3 langkah r
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutinitas Perawatan Harian 3 Langkah untuk Chihuahua (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

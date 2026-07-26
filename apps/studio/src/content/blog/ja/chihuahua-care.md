@@ -13,11 +13,11 @@ authority: "チワワクラブオブアメリカ公式マニュアル＆AVMA超�
 steps:
   - name: "チワワの発信するサイン：興奮のブルブルと自己防衛の唸り声"
     text: "チワワはデリケートで体が小さいため、脅威に対して激しいシグナルを発信します。代表的な反応は「全身の震え（Shivering）」と「唸り声（Growling）」です。チワワのブルブル震える動作は、寒い時だけでなく、嬉しさや不安などの強い感情を処理する時に起きる感情表現です。また、歯を剥き出して唸る行動は、「これ以上近づかないで」という恐怖と自己防衛のサインです。無理に抱こうとすると噛む恐れがあるため、距離を置きましょう。"
-  - name: "チワワ (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "チワワ (Canis lupus familiaris)のボディランゲージと行動サイン"
     text: "* 全身の震え (Shivering): 寒さに弱い体の構造や、興奮・恐怖・緊張などの感情が高ぶった時に現れます。 (暖かいブランケットで包んで体温を上げ、静かな場所で優しく抱きしめて安心させてください。)
 
 * 自己防衛の唸り声 (Growling): 近づいてくるものに恐怖を感じ、「これ以上近づかないで」と伝える強い警告です。 (触るのをすぐにやめ、一歩下がってチワワが自分で落ち着くのを待ちましょう。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "チワワ (Canis lupus familiaris)のための3ステップホームケアルーティン"
     text: "* STEP 1. 朝：頭頂部の保護確認と室温の保温設定: 頭頂部の泉門（モレラ）に圧力がかからないよう頭を上から押さえず、寒さに弱いチワワのために室温を24〜26度前後に温かく保ちます。
 
 * STEP 2. 昼：短いノーズワーク散歩と音に対する脱感作トレーニング: 警戒心が強いため、散歩中に無理に他の犬と触れ合わせず、匂い嗅ぎに集中させます。家ではインターホンの音に吠えないようご褒美を使った練習を5分間行います。
@@ -64,7 +64,7 @@ faqs:
 
 ---
 
-## 2. チワワ (Canis lupus familiaris)'s Body Language & Signals
+## 2. チワワ (Canis lupus familiaris)のボディランゲージと行動サイン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -90,7 +90,7 @@ faqs:
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. チワワ (Canis lupus familiaris)のための3ステップホームケアルーティン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

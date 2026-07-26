@@ -13,11 +13,11 @@ authority: "House Rabbit Society (HRS) y Estándares Veterinarios AEMV"
 steps:
   - name: "Comunicación del Holland Lop: El Baile Binky y el Pisotón Trasero"
     text: "Los conejos expresan sus emociones mediante movimientos corporales antes que vocalizaciones. El salto con giro en el aire conocido como 'Binky' indica máxima euforia, mientras que el pisotón fuerte con las patas traseras (Thumping) es una alarma defensiva o muestra de descontento."
-  - name: "Conejo Holland Lop (Oryctolagus cuniculus / Holland Lop)'s Body Language & Signals"
+  - name: "Lenguaje corporal y señales de conducta de Conejo Holland Lop (Oryctolagus cuniculus / Holland Lop)"
     text: "* Salto y Giro en el Aire (Binky Dance): Expresión de pura alegría, entusiasmo y máxima seguridad en su entorno y cuidador. (Proporcione alfombras antideslizantes para que corra de forma segura sin resbalar.)
 
 * Pisotón Fuerte con Pata Trasera (Thumping): Señal de advertencia ante ruidos extraños, olores de depredadores o profunda molestia. (Identifique la fuente de estrés en el entorno y háblale con voz suave y grave para tranquilizarlo.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutina diaria de 3 pasos para el cuidado de Conejo Holland Lop (Oryctolagus cuniculus / Holland Lop)"
     text: "* STEP 1. Mañana: Relleno Ilimitado de Heno Timothy y Agua Fresca: Llene el henero con heno Timothy fresco de 1er corte para mantener la motilidad intestinal continua y el desgaste dental.
 
 * STEP 2. Tarde: Inspección de Orejas Caídas y Descanso Diurno: Levante suavemente las orejas para revisar si hay enrojecimiento, suciedad o secreciones, garantizando un descanso tranquilo.
@@ -60,7 +60,7 @@ El Holland Lop es una de las razas de conejos más queridas del mundo por su car
 
 ---
 
-## 2. Conejo Holland Lop (Oryctolagus cuniculus / Holland Lop)'s Body Language & Signals
+## 2. Lenguaje corporal y señales de conducta de Conejo Holland Lop (Oryctolagus cuniculus / Holland Lop)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ El Holland Lop es una de las razas de conejos más queridas del mundo por su car
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutina diaria de 3 pasos para el cuidado de Conejo Holland Lop (Oryctolagus cuniculus / Holland Lop)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

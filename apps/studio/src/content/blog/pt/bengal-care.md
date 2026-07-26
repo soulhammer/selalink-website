@@ -13,11 +13,11 @@ authority: "Padrão de Raça do Bengal da The International Cat Association (TIC
 steps:
   - name: "Comunicação do Bengal: sons de chilrear e agitação da cauda"
     text: "Os Bengals são gatos extremamente comunicativos que expressam as suas emoções com clareza. Além do miado normal, emitem um som semelhante ao canto de um pássaro, conhecido como 'chilreio' (Chirping), quando querem brincar ou sentem tédio. Identificar este som e os movimentos rápidos da cauda ajuda a prevenir problemas comportamentais derivados do stresse."
-  - name: "Bengal (Prionailurus bengalensis × Felis catus)'s Body Language & Signals"
+  - name: "Linguagem corporal e sinais de comportamento do Bengal (Prionailurus bengalensis × Felis catus)"
     text: "* Chilreio (Chirping) e miados fortes: Pedido explícito de interação que indica tédio e a necessidade urgente de iniciar brincadeiras físicas ou mentais. (Comece imediatamente uma brincadeira de caça com varinhas de penas e evite ignorá-lo para não gerar frustração.)
 
 * Cauda a agitar rapidamente com a parte traseira erguida: Estado de excitação máxima ou foco absoluto numa presa, demonstrando excesso de energia acumulada. (Utilize lasers ou brinquedos automáticos num espaço amplo para que ele corra e gaste esse instinto de caça com segurança.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rotina diária de 3 passos para cuidados com Bengal (Prionailurus bengalensis × Felis catus)"
     text: "* STEP 1. Manhã: Sessão de brincadeira interativa de caça de alta intensidade: Brinque durante 15 minutos com uma cana de pesca para gatos. Mova o brinquedo simulando a fuga rápida de uma presa para ativar a sua caça.
 
 * STEP 2. Tarde: Inspeção do espaço vertical e ponto de observação: Confira a estabilidade dos arranhadores e prateleiras de parede, e reserve um espaço numa janela alta para ele observar o exterior.
@@ -60,7 +60,7 @@ Os gatos Bengal são muito admirados pelas suas belas manchas de leopardo e aspe
 
 ---
 
-## 2. Bengal (Prionailurus bengalensis × Felis catus)'s Body Language & Signals
+## 2. Linguagem corporal e sinais de comportamento do Bengal (Prionailurus bengalensis × Felis catus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Os gatos Bengal são muito admirados pelas suas belas manchas de leopardo e aspe
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rotina diária de 3 passos para cuidados com Bengal (Prionailurus bengalensis × Felis catus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

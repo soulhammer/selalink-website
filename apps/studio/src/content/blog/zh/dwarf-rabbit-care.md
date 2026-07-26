@@ -13,11 +13,11 @@ authority: "House Rabbit Society 兔子医疗指南及小动物兽医行为手�
 steps:
   - name: "侏儒兔的情感表达：后脚跺地声与磨牙信号"
     text: "荷兰侏儒兔在感到强烈不满或检测到危险时，会用后脚用力跺地，即 “后脚跺地 (Thumping)” 以示警告。相反，当感到舒适和快乐时，它们会轻轻移动下颌并发出类似于猫咪呼噜声的“磨牙颤动 (Teeth Purring)” 来表达爱意。细心识别这些情绪信号非常重要。"
-  - name: "荷兰侏儒兔 (Oryctolagus cuniculus)'s Body Language & Signals"
+  - name: "荷兰侏儒兔 (Oryctolagus cuniculus) 的肢体语言与行为信号"
     text: "* 后脚跺地 (Thumping): 向周围告知危险，或表达当前极度不满和愤怒的明确拒绝意图。 (确定过敏原或刺激源，阻止噪音或其他宠物的接近，并保持距离观察直到其感到安全。)
 
 * 磨牙及下颌颤动 (Teeth Purring): 在接受抚摸或处于舒适环境中时，如同猫咪呼噜声一样，享受喜悦和安心的状态。 (温柔地按摩额头和耳根部位，以加深与兔子之间的情感交流。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "荷兰侏儒兔 (Oryctolagus cuniculus) 定制化 3 步家庭护理流程"
     text: "* STEP 1. 早上：高纤维提摩西草喂食与新鲜水分补充: 为确保牙齿正常磨损和胃肠蠕动，清晨更换干净除尘的无限量提摩西草，并清洗水盆更换新鲜水。
 
 * STEP 2. 中午：清理厕所便盆与足底健康检查: 更换厕所垫料以保持卫生，并检查足底状态以防止因地板湿滑或坚硬引起的脚皮炎（足底溃疡）。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. 荷兰侏儒兔 (Oryctolagus cuniculus)'s Body Language & Signals
+## 2. 荷兰侏儒兔 (Oryctolagus cuniculus) 的肢体语言与行为信号
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -69,7 +69,7 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 向周围告知危险，或表达当前极度不满和愤怒的明确拒绝意图。<br/>
-    <strong>•  national:</strong> 确定过敏原或刺激源，阻止噪音或其他宠物的接近，并保持距离观察直到其感到安全。
+    <strong>• 应对:</strong> 确定过敏原或刺激源，阻止噪音或其他宠物的接近，并保持距离观察直到其感到安全。
   </p>
 </div>
 
@@ -80,13 +80,13 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 在接受抚摸或处于舒适环境中时，如同猫咪呼噜声一样，享受喜悦和安心的状态。<br/>
-    <strong>•  national:</strong> 温柔地按摩额头和耳根部位，以加深与兔子之间的情感交流。
+    <strong>• 应对:</strong> 温柔地按摩额头和耳根部位，以加深与兔子之间的情感交流。
   </p>
 </div>
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. 荷兰侏儒兔 (Oryctolagus cuniculus) 定制化 3 步家庭护理流程
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

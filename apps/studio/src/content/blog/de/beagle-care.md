@@ -13,11 +13,11 @@ authority: "Offizieller AKC-Rassestandard für Beagles & IAABC-Schnüffelverhalt
 steps:
   - name: "Körpersprache des Beagles: Schnüffeltrieb und die Bedeutung des Jaulens"
     text: "Wenn Beagles intensiv einem Geruch folgen, drücken sie die Nase auf den Boden und marschieren vorwärts ('Ground-Tracking'), wobei sie Umgebungsgeräusche ausblenden. Das 'Jaulen' bei Einsamkeit oder Unterforderung ist hingegen ein klassischer Ausdruck von Trennungsangst und Unruhe. Das Erkennen dieser zwei Signale ist der Schlüssel zu einem ausgeglichenen Beagle."
-  - name: "Beagle's Body Language & Signals"
+  - name: "Körpersprache und Verhaltenssignale von Beagle"
     text: "* Fährtenverfolgung am Boden (Ground-Tracking): Ein normaler Zustand erhöhter Stimulation, bei dem der Hund seine Umwelt über die Nase erkundet und Jagdhund-Energie abbaut. (Rucken Sie nicht an der Leine; geben Sie ihm Zeit, die Geruchsspur sicher zu erkunden, um sein geistiges Bedürfnis zu befriedigen.)
 
 * Jaulen (Howling): Ein Ausdruck von Angst, Einsamkeit, Langeweile oder ungenutzter Energie, um Aufmerksamkeit und Erleichterung zu suchen. (Vermeiden Sie Bestrafung. Bekämpfen Sie die Ursache durch mehr körperliche Auslastung und Schnüffelspiele im Haus.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Maßgeschneiderte 3-Schritte-Tagesroutine für Beagle"
     text: "* STEP 1. Morgen: Leckerli-Suchspiel im Haus (Nosework): Verstecken Sie nach dem Frühstück Futter in Pappbechern oder im Raum, um den scharfen Geruchssinn zu fordern und geistige Energie abzubauen.
 
 * STEP 2. Nachmittag: 40+ Minuten aktiver Fährten-Spaziergang: Sorgen Sie für mindestens 40 Minuten Auslauf täglich. Lassen Sie ihn Gras und Wege frei beschnüffeln, um körperliche Energie freizusetzen.
@@ -60,7 +60,7 @@ Beliebt für ihre großen Schlappohren und die fröhlich wackelnde weiße Rutens
 
 ---
 
-## 2. Beagle's Body Language & Signals
+## 2. Körpersprache und Verhaltenssignale von Beagle
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Beliebt für ihre großen Schlappohren und die fröhlich wackelnde weiße Rutens
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Maßgeschneiderte 3-Schritte-Tagesroutine für Beagle
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

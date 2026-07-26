@@ -13,11 +13,11 @@ authority: "Humane Society Hamster Care Guide and Veterinary Behavior Standards"
 steps:
   - name: "Golden Hamster Communication: Teeth Chattering and Vigilance Signals"
     text: "Golden Hamsters express anger or fear by making a distinct teeth chattering sound, warning you to keep your distance. Additionally, when startled by sudden noises, they show ear flattening behavior and freeze. Recognizing these delicate body language signals is the key to maintaining their comfort."
-  - name: "Golden Hamster (Mesocricetus auratus / Syrian Hamster)'s Body Language & Signals"
+  - name: "Golden Hamster (Mesocricetus auratus / Syrian Hamster)'s Body Language & Behavioral Signals"
     text: "* Teeth Chattering (Grinding & Clicking): A strong warning that they feel threatened or extremely sensitive. Do not approach. (Immediately stop handling or cleaning, and give them quiet space to calm down in their hideout.)
 
 * Ear Flattening & Freezing: A state of high tension and caution, triggered by sudden vibrations or unfamiliar visual stimuli. (Avoid loud noises or sudden movements nearby, and dim the lights to keep the room dark and cozy.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Customized 3-Step Home Care Routine for Golden Hamster (Mesocricetus auratus / Syrian Hamster)"
     text: "* STEP 1. Morning: Organizing Hideout Surroundings & Water Replacement: Since hamsters sleep in the morning, do not disturb the inside of their hideout. Replace water and lightly clean waste around the cage.
 
 * STEP 2. Afternoon: Keeping a Quiet & Dark Environment for Deep Sleep: Ensure they get plenty of uninterrupted sleep by avoiding noisy home appliances nearby and shading the cage.
@@ -60,7 +60,7 @@ The small and adorable Golden Hamster is a beloved solitary pet. However, they r
 
 ---
 
-## 2. Golden Hamster (Mesocricetus auratus / Syrian Hamster)'s Body Language & Signals
+## 2. Golden Hamster (Mesocricetus auratus / Syrian Hamster)'s Body Language & Behavioral Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ The small and adorable Golden Hamster is a beloved solitary pet. However, they r
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Customized 3-Step Home Care Routine for Golden Hamster (Mesocricetus auratus / Syrian Hamster)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

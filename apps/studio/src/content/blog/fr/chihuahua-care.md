@@ -13,11 +13,11 @@ authority: "Manuel de race du Chihuahua Club of America et Directives pour les S
 steps:
   - name: "Signaux du Chihuahua : Tremblements émotionnels et grognement défensif"
     text: "Le Chihuahua est très sensible et se montre réactif en raison de sa taille. Les comportements clés incluent les tremblements (Shivering) et les grognements (Growling). Les tremblements surviennent avec le froid ou les émotions fortes (peur, joie, anxiété), son système nerveux très réactif provoquant des contractions. Grogner en montrant les dents est un avertissement de peur. Cessez le contact."
-  - name: "Chihuahua (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "Langage corporel et signaux comportementaux du Chihuahua (Canis lupus familiaris)"
     text: "* Tremblements (Shivering): Survient en raison du froid, ou comme réaction physique à des émotions fortes (excitation, peur, tension). (Enveloppez-le dans une couverture chaude et tenez-le calmement dans une pièce silencieuse.)
 
 * Grognement défensif (Growling): Un avertissement né de la peur que le contact soit menaçant, demandant d'arrêter le contact et de reculer. (Arrêtez immédiatement de le toucher, reculez et laissez-le se calmer seul.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Routine quotidienne en 3 étapes pour le soin du Chihuahua (Canis lupus familiaris)"
     text: "* STEP 1. Matin : Contrôle de la molera et réglage du chauffage: Évitez toute pression sur la tête (molera). Gardez la température intérieure chaude, autour de 24-26°C, car ils sont très sensibles au froid.
 
 * STEP 2. Après-midi : Promenade olfactive courte et désensibilisation au bruit: Évitez les rencontres forcées avec d'autres chiens. Laissez-le renifler, et pratiquez 5 min de désensibilisation à la sonnette avec des friandises.
@@ -64,7 +64,7 @@ Aujourd'hui, PetSelf décode le langage corporel du Chihuahua et présente une r
 
 ---
 
-## 2. Chihuahua (Canis lupus familiaris)'s Body Language & Signals
+## 2. Langage corporel et signaux comportementaux du Chihuahua (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -90,7 +90,7 @@ Aujourd'hui, PetSelf décode le langage corporel du Chihuahua et présente une r
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Routine quotidienne en 3 étapes pour le soin du Chihuahua (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

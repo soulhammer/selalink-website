@@ -13,11 +13,11 @@ authority: "Panduan Ras Resmi American Kennel Club (AKC) & Protokol Perilaku IAA
 steps:
   - name: "Bahasa Tubuh Golden Retriever: Memahami Sinyal Kepercayaan dan Komunikasi"
     text: "Golden Retriever mengekspresikan emosi secara aktif melalui gerakan tubuh dan ekspresi wajah. Sinyal kepercayaan utama adalah 'kontak mata yang lembut' (Soft Eye Contact). Berbeda dengan tatapan tegang, menyipitkan mata dengan lembut sambil menatap pemilik menunjukkan kasih sayang mendalam, kepercayaan, dan ikatan emosional. Menanggapi dengan pujian lembut memicu pelepasan oksitosin, meningkatkan rasa aman mereka. Sebaliknya, tubuh yang kaku dengan ekor tegang menandakan kewaspadaan."
-  - name: "Golden Retriever (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "Bahasa Tubuh dan Sinyal Perilaku Golden Retriever (Canis lupus familiaris)"
     text: "* Kontak Mata yang Lembut (Soft Eye Contact): Kontak mata positif yang menunjukkan kepercayaan penuh pada pemilik, kasih sayang mendalam, dan ikatan psikologis. (Tanggapi dengan berkedip perlahan dan memuji dengan suara tenang dan lembut.)
 
 * Menggoyangkan Seluruh Tubuh (Full Body Wagging): Ekspresi aktif keramahtamahan dan kegembiraan, menunjukkan kenyamanan dan kasih sayang mendalam. (Usap dada atau bahu mereka dengan lembut, bagikan energi gembira mereka dengan tenang.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutinitas Perawatan Harian 3 Langkah untuk Golden Retriever (Canis lupus familiaris)"
     text: "* STEP 1. Pagi: Permainan Mengambil Barang untuk Memuaskan Insting Pemburu: Karena mereka sangat suka membawa barang, bermain lempar tangkap bola lembut selama 5-10 menit di dalam rumah atau halaman sebelum jalan-jalan untuk melepaskan energi pagi secara aman.
 
 * STEP 2. Siang/Sore: Jalan-jalan Energetik 1 Jam Lebih dengan Stimulasi Penciuman: Sebagai anjing besar yang aktif, mereka membutuhkan setidaknya 1 jam latihan harian. Membiarkan mereka mengendus di area rumput yang aman menurunkan tingkat stres dan mencegah perilaku merusak.
@@ -60,7 +60,7 @@ Golden Retriever, yang dicintai di seluruh dunia karena bulu keemasannya dan kep
 
 ---
 
-## 2. Golden Retriever (Canis lupus familiaris)'s Body Language & Signals
+## 2. Bahasa Tubuh dan Sinyal Perilaku Golden Retriever (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Golden Retriever, yang dicintai di seluruh dunia karena bulu keemasannya dan kep
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutinitas Perawatan Harian 3 Langkah untuk Golden Retriever (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

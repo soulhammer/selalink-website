@@ -13,11 +13,11 @@ authority: "Guide Officiel du Bouledogue Français de l'AKC et Normes Vétérina
 steps:
   - name: "Langage corporel du Bouledogue Français : Bruits respiratoires et détresse thermique"
     text: "En cas de gêne respiratoire due à des voies aériennes rétrécies, le Bouledogue Français émet des « stridors ou stertors » caractéristiques. S'il étire longuement le cou tout en haletant fortement avec la langue sortie, c'est une alerte critique de surchauffe nécessitant une intervention immédiate."
-  - name: "Bouledogue Français (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "Langage corporel et signaux comportementaux du Bouledogue Français (Canis lupus familiaris)"
     text: "* Respiration rauque et stridor (Stridor / Stertor): Indique un flux d'air restreint dû à des narines ou voies étroites et une hausse de température sous l'excitation. (Placez le chien immédiatement dans une pièce climatisée ou à l'ombre et donnez-lui de l'eau fraîche pour favoriser le repos.)
 
 * Halètement intense avec cou étiré: Signe d'avertissement critique où le chien cherche désespérément de l'oxygène en étirant son cou pour évacuer la chaleur. (Réglez la température à 22-24°C, essuyez ses coussinets et son corps avec un linge humide et frais pour réduire la chaleur.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Routine quotidienne en 3 étapes pour le soin du Bouledogue Français (Canis lupus familiaris)"
     text: "* STEP 1. Matin : Nettoyage des plis du visage et séchage soigneux: Nettoyez les saletés logées dans les plis autour des yeux et du nez avec une lingette sans alcool, puis séchez soigneusement pour éviter les mycoses.
 
 * STEP 2. Après-midi : Balade de 15 minutes sur terrain plat pour éviter le coup de chaleur: Évitez complètement les heures chaudes. Privilégiez de courtes marches de 15 minutes sur terrain plat tôt le matin ou tard le soir.
@@ -60,7 +60,7 @@ Avec ses oreilles de chauve-souris et sa face écrasée, le Bouledogue Français
 
 ---
 
-## 2. Bouledogue Français (Canis lupus familiaris)'s Body Language & Signals
+## 2. Langage corporel et signaux comportementaux du Bouledogue Français (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Avec ses oreilles de chauve-souris et sa face écrasée, le Bouledogue Français
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Routine quotidienne en 3 étapes pour le soin du Bouledogue Français (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

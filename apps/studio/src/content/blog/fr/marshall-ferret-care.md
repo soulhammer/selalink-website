@@ -13,11 +13,11 @@ authority: "Normes de l'American Ferret Association et Directives Vétérinaires
 steps:
   - name: "Communication du furet de Marshall : La danse de guerre et le dooking"
     text: "Les furets de Marshall expriment leur joie en gonflant leur queue, en arquant leur dos et en bondissant de côté, un comportement connu sous le nom de « Danse de guerre du furet » (Weasel War Dance). Ils émettent également un léger caquetage appelé « Dooking » lorsqu'ils explorent avec enthousiasme. Comprendre ces signaux aide à maximiser leur expérience de jeu."
-  - name: "Furet de Marshall (Mustela putorius furo / Marshall Ferret)'s Body Language & Signals"
+  - name: "Langage corporel et signaux comportementaux du Furet de Marshall (Mustela putorius furo / Marshall Ferret)"
     text: "* Danse de guerre du furet (Weasel War Dance): Une expression spectaculaire mais inoffensive d'excitation pure, indiquant qu'ils veulent jouer sans retenue. (Fournissez une zone spacieuse et antidérapante exempte de bords durs pour éviter les blessures lors de leurs sauts chaotiques.)
 
 * Dooking (Gloussements bas): Une expression émotionnelle de joie et d'intérêt intense lors de la rencontre d'une nouvelle odeur ou d'un tunnel. (Installez des tunnels bruyants ou des boîtes en carton pour stimuler leurs instincts naturels de creusement.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Routine quotidienne en 3 étapes pour le soin du Furet de Marshall (Mustela putorius furo / Marshall Ferret)"
     text: "* STEP 1. Matin : Régime carnivore riche en protéines et recharge d'eau: Les furets ont un tube digestif court et mangent fréquemment. Remplissez des croquettes à base de viande, sans céréales, et vérifiez leur bouteille d'eau.
 
 * STEP 2. Après-midi : Temps de jeu sécurisé hors de la cage pendant au moins 4 heures: Évitez la dépression en les libérant dans la pièce. Assurez-vous que tous les petits espaces sous les meubles sont scellés.
@@ -60,7 +60,7 @@ Avec un corps long et flexible et des yeux pétillants, le furet de Marshall est
 
 ---
 
-## 2. Furet de Marshall (Mustela putorius furo / Marshall Ferret)'s Body Language & Signals
+## 2. Langage corporel et signaux comportementaux du Furet de Marshall (Mustela putorius furo / Marshall Ferret)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Avec un corps long et flexible et des yeux pétillants, le furet de Marshall est
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Routine quotidienne en 3 étapes pour le soin du Furet de Marshall (Mustela putorius furo / Marshall Ferret)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

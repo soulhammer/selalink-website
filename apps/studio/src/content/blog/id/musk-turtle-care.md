@@ -13,11 +13,11 @@ authority: "Panduan Berjemur World Chelonian Association dan Protokol Medis Kura
 steps:
   - name: "Sinyal Berjemur Kura-Kura Kasturi dan Pertahanan Penarikan Tempurung"
     text: "Kura-kura kasturi umum meregangkan kaki belakang ke belakang saat berjemur 'Peregangan kaki belakang' (Back-Leg Stretching) untuk memaksimalkan penyerapan cahaya saat merasa sangat tenang. Sebaliknya, ketika mendeteksi ancaman atau getaran, mereka menarik kepala dan anggota tubuh ke dalam tempurung keras 'Penarikan tempurung' (Shell Retraction) untuk pertahanan diri."
-  - name: "Kura-Kura Kasturi Umum (Sternotherus odoratus / Common Musk Turtle)'s Body Language & Signals"
+  - name: "Bahasa Tubuh dan Sinyal Perilaku Kura-Kura Kasturi Umum (Sternotherus odoratus / Common Musk Turtle)"
     text: "* Peregangan Kaki Belakang (Back-Leg Stretching): Keadaan santai di bawah lampu UV, meregangkan anggota tubuh untuk menyerap panas dan mengeringkan kulit. (Hindari mengejutkan mereka agar tidak melompat kembali ke air. Pantau suhu lampu berjemur dari jarak jauh.)
 
 * Menarik Kepala dan Anggota Tubuh (Shell Retraction): Keadaan waspada, terkejut oleh bayangan, gerakan di atas, atau getaran. (Hindari gerakan tiba-tiba di depan akuarium dan mundur sampai mereka merasa cukup aman untuk mengintip keluar.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutinitas Perawatan Harian 3 Langkah untuk Kura-Kura Kasturi Umum (Sternotherus odoratus / Common Musk Turtle)"
     text: "* STEP 1. Pagi: Pemeriksaan Suhu Air (25-28 °C) & Pemberian Makan Seimbang: Periksa termometer air (jaga pada suhu 25-28 °C) untuk mengaktifkan metabolisme dan beri pelet kura-kura komersial berkualitas tinggi yang sesuai dengan usianya.
 
 * STEP 2. Siang: Memeriksa Lampu Berjemur dan Bohlam UV-B: Periksa apakah lampu panas UV-B dan lampu berjemur berfungsi dengan baik untuk mencegah penyakit tulang metabolik (MBD).
@@ -60,7 +60,7 @@ Kura-kura kasturi umum yang berukuran kompak sangat ideal untuk pemula karena da
 
 ---
 
-## 2. Kura-Kura Kasturi Umum (Sternotherus odoratus / Common Musk Turtle)'s Body Language & Signals
+## 2. Bahasa Tubuh dan Sinyal Perilaku Kura-Kura Kasturi Umum (Sternotherus odoratus / Common Musk Turtle)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Kura-kura kasturi umum yang berukuran kompak sangat ideal untuk pemula karena da
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutinitas Perawatan Harian 3 Langkah untuk Kura-Kura Kasturi Umum (Sternotherus odoratus / Common Musk Turtle)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

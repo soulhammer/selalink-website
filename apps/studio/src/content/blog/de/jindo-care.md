@@ -13,11 +13,11 @@ authority: "Richtlinien des Nationalen Instituts für Nutztierwissenschaften Kor
 steps:
   - name: "Körpersprache des Jindos: Loyalität und Vorsichtssignale"
     text: "Jindo-Hunde drücke Gefühle eher zurückhaltend aus und nutzen Ruten- und Ohrstellungen zur Kommunikation. Eine steil aufgerichtete Rute mit nach vorne gerichteten Ohren signalisiert Alarmbereitschaft und Anspannung; Fremde sollten sich nun nicht nähern. Eine tief getragene, langsam wedelnde Rute mit angelegten Ohren bedeutet Vertrauen und Ergebenheit gegenüber dem Halter."
-  - name: "Jindo-Hund (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "Körpersprache und Verhaltenssignale von Jindo-Hund (Canis lupus familiaris)"
     text: "* Aufgerichtete Rute und aufgestellte Ohren: Alarmbereitschaft und Fokus auf ein unbekanntes Ziel unter Anspannung. (Vermeiden Sie plötzlichen Kontakt oder Blickkontakt und lassen Sie den Halter den Hund ruhig beruhigen.)
 
 * Gesenkte Rute und flach angelegte Ohren beim Annähern: Tiefer Gehorsam, Vertrauen und Zuneigung gegenüber dem Besitzer. (Streicheln Sie ihn sanft und loben Sie ihn, um die Bindung zu stärken.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Maßgeschneiderte 3-Schritte-Tagesroutine für Jindo-Hund (Canis lupus familiaris)"
     text: "* STEP 1. Morgen: Sozialisierungsspaziergang mit ruhiger Nasenarbeit: Gehen Sie morgens in reizarmen Zeiten spazieren, um den Hund durch Schnüffeln an die Umwelt zu gewöhnen.
 
 * STEP 2. Nachmittag: Bürsten des Doppelmantels zur Entfernung der Unterwolle: Verwenden Sie eine Zupfbürste und einen Metallkamm, um abgestorbene Unterwolle zu entfernen und Hautproblemen vorzubeugen.
@@ -60,7 +60,7 @@ Der Jindo-Hund ist ein nationales Heiligtum Koreas und eine weltweit geschätzte
 
 ---
 
-## 2. Jindo-Hund (Canis lupus familiaris)'s Body Language & Signals
+## 2. Körpersprache und Verhaltenssignale von Jindo-Hund (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Der Jindo-Hund ist ein nationales Heiligtum Koreas und eine weltweit geschätzte
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Maßgeschneiderte 3-Schritte-Tagesroutine für Jindo-Hund (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

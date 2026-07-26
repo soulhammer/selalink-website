@@ -13,11 +13,11 @@ authority: "英国ケネルクラブ(KC)公式ボーダーコリーガイドお�
 steps:
   - name: "ボーダーコリーのボディランゲージ：鋭い視線とエネルギー放出"
     text: "ボーダーコリーには「アイコンタクト（The Eye）」と呼ばれる、対象をじっと見つめてコントロールしようとする本能があります。姿勢を低くして凝視するのは極度の集中状態を表します。一方、口を軽く開けて尻尾を大きく振る時は、エネルギーに満ちて飼い主と遊ぶ準備が整っているサインです。"
-  - name: "ボーダーコリー (Border Collie)'s Body Language & Signals"
+  - name: "ボーダーコリー (Border Collie)のボディランゲージと行動サイン"
     text: "* 姿勢を低くして対象を強く見つめる (The Eye): 動く対象や動物をコントロールしようとする本能的集中状態です。 (危険な追いかけ行動に発展しないよう、すぐに名前を呼んで飼い主に意識を向けさせ、ご褒美を与えて行動を制制御します。)
 
 * 口を開けて尻尾を大きく振る: 体能と脳のエネルギーが満ちており、飼い主と楽しく遊ぶ準備が整っている合図です。 (単純なボール投げではなく、フリスビーやアジリティなどの知的な要素を取り入れた運動を開始しましょう。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "ボーダーコリー (Border Collie)のための3ステップホームケアルーティン"
     text: "* STEP 1. 朝：命令訓練を組み合わせたインターバルランニング散歩: 散歩中に「待て」や「ターン」などの指示を混ぜ、頭を使わせながら走らせてエネルギーを効果的に発散させます。
 
 * STEP 2. 昼：多段階の知育パズル玩具でのミッション (Brain Games): ロックを解除しておやつを探す2段階以上のパズルを与え、知的好奇心を満たして退屈によるストレスを防ぎます。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. ボーダーコリー (Border Collie)'s Body Language & Signals
+## 2. ボーダーコリー (Border Collie)のボディランゲージと行動サイン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ faqs:
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. ボーダーコリー (Border Collie)のための3ステップホームケアルーティン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

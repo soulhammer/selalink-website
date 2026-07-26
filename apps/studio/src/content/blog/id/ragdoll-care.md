@@ -13,11 +13,11 @@ authority: "Panduan Ras Resmi Cat Fanciers' Association (CFA) & Pedoman Praktik 
 steps:
   - name: "Sinyal Penenang Ragdoll: Kedipan Lambat dan Peregangan Cakar yang Rileks"
     text: "Kucing Ragdoll mengekspresikan kepercayaan mereka yang tinggi tidak hanya dengan terkulai lemas, tetapi juga melalui gerakan mata dan cakar yang halus. Sinyal kenyamanan yang utama meliputi 'Kedipan Lambat' (Slow Blink) dan 'Peregangan Cakar' (Paw Flexing). Memandang Anda dan berkedip sangat lambat adalah pesan keamanan dan kasih sayang yang damai. Saat merasa sangat senang, mereka meregangkan jari-jari cakar seperti kipas. Mengelus bagian bawah dagu atau belakang telinga saat ini memaksimalkan perasaan bahagia mereka."
-  - name: "Ragdoll (Felis catus)'s Body Language & Signals"
+  - name: "Bahasa Tubuh dan Sinyal Perilaku Ragdoll (Felis catus)"
     text: "* Kedipan Lambat (Slow Blink): Tanda kasih sayang yang mendalam, menunjukkan bahwa mereka sepenuhnya mempercayai Anda dan merasa aman. (Balas dengan berkedip perlahan dengan ritme yang sama untuk memperkuat ikatan dan saling percaya.)
 
 * Peregangan Cakar (Paw Flexing): Menunjukkan kenyamanan psikologis luar biasa, meniru memori indah menyusu saat masih kecil. (Jangan hentikan elusan; lanjutkan mengelus lembut di bawah dagu atau leher agar mereka tetap rileks.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutinitas Perawatan Harian 3 Langkah untuk Ragdoll (Felis catus)"
     text: "* STEP 1. Pagi: Peregangan Fisik Ringan untuk Kesehatan Kerangka: Sebagai ras besar, kelelahan menumpuk di sendi kaki belakang. Sebelum mereka mulai bergerak, regangkan kaki belakang dengan lembut untuk menjaga jangkauan gerak sendi.
 
 * STEP 2. Siang: Menyikat dengan Sisir Jarum untuk Mencegah Kusut: Bulu bagian bawah Ragdoll sangat lembut dan tebal, sehingga mudah kusut. Sisir searah bulu dengan sisir jarum berujung bulat untuk sirkulasi udara dan mencegah dermatitis serta hairball.
@@ -64,7 +64,7 @@ Hari ini, PetSelf menguraikan bahasa tubuh Ragdoll dan memperkenalkan 3 langkah 
 
 ---
 
-## 2. Ragdoll (Felis catus)'s Body Language & Signals
+## 2. Bahasa Tubuh dan Sinyal Perilaku Ragdoll (Felis catus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -90,7 +90,7 @@ Hari ini, PetSelf menguraikan bahasa tubuh Ragdoll dan memperkenalkan 3 langkah 
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutinitas Perawatan Harian 3 Langkah untuk Ragdoll (Felis catus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

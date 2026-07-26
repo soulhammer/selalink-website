@@ -13,11 +13,11 @@ authority: "Bichon Frise Club of Americaガイドライン＆AVMA獣医学指針
 steps:
   - name: "ビション・フリーゼのボディランゲージ：ビションタイムと関心のサイン"
     text: "ビション・フリーゼは興奮すると室内を激しく走り回る「ビションタイム（Bichon Blitz）」を行い、体内のエネルギーを瞬間的に消費します。これは本能的なエネルギー発散行動です。また、飼い主の膝や腕を前脚で軽くたたく「前脚タッチ（Paw Tap）」は、注意を引いて遊んでほしいと伝える愛らしく平和的なサインです。"
-  - name: "ビション・フリーゼ (Bichon Frise)'s Body Language & Signals"
+  - name: "ビション・フリーゼ (Bichon Frise)のボディランゲージと行動サイン"
     text: "* ビションタイム (Bichon Blitz): 体内に溜まった余剰エネルギーを激しい動きによって素早く発散させる本能的な遊び要求行動です。 (走るルートにある家具の角に protective パッドを設置し、滑り止めマットを敷いて自然に止まるまで静かに見守りましょう。)
 
 * 前脚タッチ (Paw Tap): 自分に関心を取り、ふれあいを求めるビション・フリーゼ特有の平和で友好的なコミュニケーションです。 (優しく目を合わせてから撫でてあげるか、簡単な「おすわり/お手」のトレーニングで認知的な刺激を与えてあげましょう。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "ビション・フリーゼ (Bichon Frise)のための3ステップホームケアルーティン"
     text: "* STEP 1. 朝：軽いおもちゃ追いかけとターグ遊び: 家具やドア枠への衝突を防ぐため、朝は柔らかい布製のおもちゃを揺らして引っ張り合いをしてエネルギーを徐々に消費させ、リラックス状態へと導きます。
 
 * STEP 2. 昼：スリッカーとコームを交差させた10分間ブラッシング: 密生した巻き毛の束が皮膚を締め付けないよう、ブラッシングミストを吹きかけてからお腹や脚の内側をスリッカーでほぐし、スチールコームで毛筋ごとに一本ずつもつれがないか確認します。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. ビション・フリーゼ (Bichon Frise)'s Body Language & Signals
+## 2. ビション・フリーゼ (Bichon Frise)のボディランゲージと行動サイン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ faqs:
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. ビション・フリーゼ (Bichon Frise)のための3ステップホームケアルーティン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

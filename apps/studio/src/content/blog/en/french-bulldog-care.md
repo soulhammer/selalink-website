@@ -13,11 +13,11 @@ authority: "American Kennel Club (AKC) French Bulldog Care Guide and Brachycepha
 steps:
   - name: "French Bulldog Body Language: Flat-Face Breathing and Heat Signals"
     text: "When struggling with airflow due to narrowed airways, French Bulldogs make distinctive 'stridor or stertor' sounds. If they stretch their neck out long while panting heavily with an extended tongue, it is a critical warning sign of rapid body temperature rise requiring immediate intervention."
-  - name: "French Bulldog (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "French Bulldog (Canis lupus familiaris)'s Body Language & Behavioral Signals"
     text: "* Rough Breathing & Stridor (Stridor / Stertor): Indicates restricted airflow due to narrowed nasal passages and elevated body temperature in an excited state. (Move the dog to an air-conditioned indoor area or cool shade immediately, and offer cool drinking water to promote calm rest.)
 
 * Neck-Extended Heavy Panting: A critical warning signal showing the dog is desperately inhaling oxygen with an extended neck to cool down excess body heat. (Set indoor temperature to 22-24°C, wipe their paw pads and body with a cool damp towel to reduce body heat.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Customized 3-Step Home Care Routine for French Bulldog (Canis lupus familiaris)"
     text: "* STEP 1. Morning: Facial Wrinkle Cleaning and Moisture Drying: Gently clean debris from facial folds around eyes and nose with a non-irritating, alcohol-free wipe, then thoroughly dry to prevent wrinkle yeast infections.
 
 * STEP 2. Afternoon: Heatstroke Avoidance 15-Minute Flat Walk: Avoid hot hours entirely. Take short 15-minute walks on flat, non-sloped ground early in the morning or late in the evening to maintain energy balance.
@@ -60,7 +60,7 @@ With their signature bat ears and squished faces, French Bulldogs are beloved co
 
 ---
 
-## 2. French Bulldog (Canis lupus familiaris)'s Body Language & Signals
+## 2. French Bulldog (Canis lupus familiaris)'s Body Language & Behavioral Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ With their signature bat ears and squished faces, French Bulldogs are beloved co
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Customized 3-Step Home Care Routine for French Bulldog (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

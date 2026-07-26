@@ -13,11 +13,11 @@ authority: "特殊动物兽医师协会 (AEMV) 龙猫饲养指南与啮齿类口
 steps:
   - name: "龙猫的肢体语言：流口水吐草与侧躺急促呼吸"
     text: "当龙猫出现 “流口水打湿口周毛发并吐出干草” 时，这是严重牙齿咬合不正的警示信号。而身体完全 “侧躺且急促喘气”，则意味着它们正处于中暑发作的危险边缘。"
-  - name: "龙猫 (Chinchilla lanigera)'s Body Language & Signals"
+  - name: "龙猫 (Chinchilla lanigera) 的肢体语言与行为信号"
     text: "* 流口水与吐出干草 (Drooling): 咬合不正导致过长的牙齿刺穿上颚或颊侧粘膜，引发剧痛，导致无法吞咽唾液并阻断咀嚼。 (应立即带至特殊动物专科医院，使用专业口腔工具对过长的牙齿进行磨牙（Trimming）治疗。)
 
 * 侧躺且呼吸急促: 环境温度过高导致体温急剧上升，机体瘫软、气道扩张的危险热应激状态。 (请立即开启空调将室温降至 20°C 以下，并在笼内放置冰凉的大理石板或用毛巾包裹的冰冻矿泉水瓶。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "龙猫 (Chinchilla lanigera) 定制化 3 步家庭护理流程"
     text: "* STEP 1. 早上：无限量供应粗纤维提摩西干草: 为防止牙齿无限生长，随时提供新鲜且纤维粗糙的提摩西干草，引导其在咀嚼过程中自然磨损牙齿。
 
 * STEP 2. 中午：四季防中暑与湿度严格管控: 全年通过空调的除湿机将室内温度控制在 18–21°C，湿度保持在 40–50% 以下，打造舒适的高山气候。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. 龙猫 (Chinchilla lanigera)'s Body Language & Signals
+## 2. 龙猫 (Chinchilla lanigera) 的肢体语言与行为信号
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -69,7 +69,7 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 咬合不正导致过长的牙齿刺穿上颚或颊侧粘膜，引发剧痛，导致无法吞咽唾液并阻断咀嚼。<br/>
-    <strong>•  national:</strong> 应立即带至特殊动物专科医院，使用专业口腔工具对过长的牙齿进行磨牙（Trimming）治疗。
+    <strong>• 应对:</strong> 应立即带至特殊动物专科医院，使用专业口腔工具对过长的牙齿进行磨牙（Trimming）治疗。
   </p>
 </div>
 
@@ -80,13 +80,13 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 环境温度过高导致体温急剧上升，机体瘫软、气道扩张的危险热应激状态。<br/>
-    <strong>•  national:</strong> 请立即开启空调将室温降至 20°C 以下，并在笼内放置冰凉的大理石板或用毛巾包裹的冰冻矿泉水瓶。
+    <strong>• 应对:</strong> 请立即开启空调将室温降至 20°C 以下，并在笼内放置冰凉的大理石板或用毛巾包裹的冰冻矿泉水瓶。
   </p>
 </div>
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. 龙猫 (Chinchilla lanigera) 定制化 3 步家庭护理流程
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

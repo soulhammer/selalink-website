@@ -13,11 +13,11 @@ authority: "Panduan Ras Resmi American Kennel Club (AKC) & Protokol Perilaku IAA
 steps:
   - name: "Bahasa Tubuh Maltese: Sinyal Stres dan Kenyamanan"
     text: "Sebagai anjing dengan ketergantungan tinggi pada pemiliknya, Maltese secara diam-diam menunjukkan keadaan psikologis mereka melalui gerakan tubuh. Sinyal penenang (Calming Signal) yang khas termasuk 'menjilat hidung' (Nose Licking) dan 'menguap' (Yawning). Saat menghadapi lingkungan yang tegang atau asing, menjilat hidung atau menguap bukan karena mengantuk; itu adalah pesan damai untuk menenangkan diri dan meminta orang lain untuk tidak mengancam mereka. Jika pemilik terus melakukan kontak berlebihan selama waktu ini, stres mereka akan meningkat. Yang terbaik adalah mundur selangkah dan memberi mereka ruang."
-  - name: "Maltese (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "Bahasa Tubuh dan Sinyal Perilaku Maltese (Canis lupus familiaris)"
     text: "* Menguap (Yawning): Bukan karena mengantuk; ini adalah sinyal 'tolong tenang' untuk menenangkan diri mereka sendiri dan orang lain. (Jika mereka menguap selama pelatihan atau perawatan, segera hentikan dan berikan ruang yang tenang.)
 
 * Menjilat Hidung (Nose Licking): Ekspresi menenangkan diri ketika mereka merasa canggung atau cemas dengan situasi saat ini. (Jika terlihat saat dipeluk atau didekati orang asing, hentikan kontak fisik dan beri mereka ruang.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutinitas Perawatan Harian 3 Langkah untuk Maltese (Canis lupus familiaris)"
     text: "* STEP 1. Pagi: Pemeriksaan Antiselip dan Peregangan Sendi: Periksa apakah keset antislip terpasang kuat. Saat Maltese meregangkan tubuh di pagi hari, pijat lembut sendi kaki belakang mereka untuk melemaskan otot yang kaku. Pastikan bulu bantalan cakar dicukur.
 
 * STEP 2. Siang/Sore: Kebersihan Mata dan Rutinitas Penyisiran 1:1: Sekali sehari, sisir area mata dengan sisir bergigi rapat dan cairan pembersih. Bulu yang basah menyebabkan noda merah dan infeksi, jadi seka kelembapan dengan kapas hingga kering.
@@ -64,7 +64,7 @@ Hari ini, PetSelf mengeksplorasi bahasa tubuh Maltese dan memperkenalkan rutinit
 
 ---
 
-## 2. Maltese (Canis lupus familiaris)'s Body Language & Signals
+## 2. Bahasa Tubuh dan Sinyal Perilaku Maltese (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -90,7 +90,7 @@ Hari ini, PetSelf mengeksplorasi bahasa tubuh Maltese dan memperkenalkan rutinit
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutinitas Perawatan Harian 3 Langkah untuk Maltese (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

@@ -13,11 +13,11 @@ authority: "Protokol Kartilago Herediter ISFM (International Society of Feline M
 steps:
   - name: "Bahasa Tubuh Fold: Posisi Buddha dan Menyelipkan Ekor"
     text: "Scottish Fold menggunakan postur tubuh yang unik untuk mengatasi nyeri sendi genetik. Dua sinyal peringatan utama adalah 'posisi Buddha' dan 'menurunkan/menyelipkan ekor'. Duduk tegak di atas pinggul dengan punggung bersandar dan kaki terentang ke depan (posisi Buddha) bukanlah trik lucu, melainkan postur istirahat naluriah untuk menyebarkan beban tubuh dan meringankan tekanan pada sendi kaki yang kaku. Menurunkan ekor atau menyembunyikannya di antara kaki belakang menandakan bahwa tulang ekor mulai kaku dan sakit. Hindari menyentuh punggung bawah atau ekor saat melihat posisi ini."
-  - name: "Scottish Fold's Body Language & Signals"
+  - name: "Bahasa Tubuh dan Sinyal Perilaku Scottish Fold"
     text: "* Posisi Buddha (Buddha Position): Postur naluriah untuk membagi beban berat badan guna mengurangi rasa sakit sendi akibat penyakit tulang rawan genetik. (Jangan paksa mereka mengubah posisi. Letakkan bantal empuk di belakang punggung mereka untuk menopang tubuh dengan nyaman.)
 
 * Menyelipkan / Menurunkan Ekor: Sinyal pertahanan diri yang menunjukkan kekakuan atau rasa sakit pada tulang ekor, menolak sentuhan pada area tersebut. (Segera hentikan sentuhan pada ekor dan punggung bawah, lalu arahkan kucing ke matras yang empuk dan nyaman.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutinitas Perawatan Harian 3 Langkah untuk Scottish Fold"
     text: "* STEP 1. Pagi: Analisis Gaya Berjalan dan Suplemen Tulang Rawan: Perhatikan gaya berjalan mereka selama 30 detik saat bangun tidur untuk mengecek apakah ada kepincangan atau kekakuan. Berikan suplemen pelindung sendi (glukosamin, kondroitin, MSM, Omega-3) yang dicampur ke dalam makanan pagi.
 
 * STEP 2. Siang: Pemeriksaan Saluran Telinga dan Pembersihan Mingguan: Telinga terlipat menahan kelembapan karena kurangnya sirkulasi udara. Dilarang keras menggunakan cotton bud di dalam saluran telinga. Teteskan cairan pembersih khusus kucing, pijat lembut pangkal telinga, biarkan kucing mengibaskan kepalanya, lalu seka kotoran di luar dengan kapas bersih.
@@ -64,7 +64,7 @@ Hari ini, PetSelf menguraikan sinyal tubuh saat Scottish Fold mengalami nyeri da
 
 ---
 
-## 2. Scottish Fold's Body Language & Signals
+## 2. Bahasa Tubuh dan Sinyal Perilaku Scottish Fold
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -90,7 +90,7 @@ Hari ini, PetSelf menguraikan sinyal tubuh saat Scottish Fold mengalami nyeri da
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutinitas Perawatan Harian 3 Langkah untuk Scottish Fold
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

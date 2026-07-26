@@ -13,11 +13,11 @@ authority: "Protokol Perawatan Medis Anura & Amphibian Ark Veterinary Care Proto
 steps:
   - name: "Sinyal Tubuh Axolotl: Insang Melengkung dan Gerakan Mulut Menganga"
     text: "Insang luar Axolotl yang berwarna merah adalah indikator jelas dari kualitas dan suhu air. Kondisi insang yang melengkung ke depan menandakan penurunan kualitas air atau stres akibat suhu panas."
-  - name: "Axolotl / Salamander Meksiko (Axolotl)'s Body Language & Signals"
+  - name: "Bahasa Tubuh dan Sinyal Perilaku Axolotl / Salamander Meksiko (Axolotl)"
     text: "* Insang luar melengkung ke depan dan ujung ekor membengkok (Gill Curling Forward): Peringatan stres lingkungan yang disebabkan oleh kenaikan suhu air (di atas 20°C) atau lonjakan kadar amonia. (Nyalakan kipas pendingin akuarium untuk menurunkan suhu ke 16°C ~ 18°C dan segera lakukan penggantian air sebagian (20%).)
 
 * Menatap dasar akuarium dan mulut menganga (Bottom Gaping): Sinyal alami pencarian makan yang menandakan rasa lapar atau perilaku berburu. (Berikan pelet khusus ikan atau cacing tanah secara perlahan di depan mulutnya menggunakan pinset tumpul.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutinitas Perawatan Harian 3 Langkah untuk Axolotl / Salamander Meksiko (Axolotl)"
     text: "* STEP 1. Pagi: Pemantauan Suhu Air (Jaga 16°C ~ 18°C) & Pemeriksaan Alat Pendingin: Periksa kinerja kipas pendingin agar suhu air tidak melebihi 19°C di musim panas, serta periksa kondensasi pada dinding akuarium.
 
 * STEP 2. Siang: Pembersihan Kotoran dengan Sifon & Perlindungan dari Sinar Matahari Langsung: Jaga lingkungan akuarium tetap redup karena penglihatan Axolotl yang lemah, dan bersihkan kotoran setiap hari menggunakan sifon panjang.
@@ -60,7 +60,7 @@ Disukai karena ekspresi wajahnya yang tampak tersenyum dan insang luar berwarna 
 
 ---
 
-## 2. Axolotl / Salamander Meksiko (Axolotl)'s Body Language & Signals
+## 2. Bahasa Tubuh dan Sinyal Perilaku Axolotl / Salamander Meksiko (Axolotl)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Disukai karena ekspresi wajahnya yang tampak tersenyum dan insang luar berwarna 
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutinitas Perawatan Harian 3 Langkah untuk Axolotl / Salamander Meksiko (Axolotl)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

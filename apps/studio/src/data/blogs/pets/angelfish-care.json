@@ -1,0 +1,516 @@
+{
+    "angelfish-care": {
+        "pubDate": "2026-06-18",
+        "updatedDate": "2026-07-26",
+        "locales": {
+            "ko": {
+                "title": "엔젤피쉬의 영역·서열 신호 해석과 수질 및 지느러미 관리를 위한 3단계 데일리 케어",
+                "description": "우아한 열대어의 여왕 엔젤피쉬(Angelfish). 입 맞대기 서열 싸움과 지느러미 접힘 신호 해석, 적정 수온(25°C~28°C)과 홀인더헤드 예방을 위한 3단계 홈케어 루틴을 소개합니다.",
+                "authority": "국제관상어협회(OFI) 및 시클리드 수의학 케어 프로토콜",
+                "profile": {
+                    "breed": "엔젤피쉬 (Angelfish / Pterophyllum scalare)",
+                    "lifespan": "8 ~ 10년 (올바른 수질 관리 시 10년 이상)",
+                    "sleep_pattern": "7 ~ 8시간 (조명 차단 후 수풀 근처에서 서서 정지 휴식)",
+                    "temperament": "평화로우나 영역 의식 있음, 산란기 시클리드 특유의 공격성, 소형어 포식"
+                },
+                "intro": "높고 세련된 지느러미와 우아한 헤엄으로 '열대어의 여왕'이라 불리는 엔젤피쉬(Angelfish / Pterophyllum scalare)는 시클리드과에 속하는 대표적인 중형 관상어입니다. 위아래로 길게 자라는 지느러미 특성상 높이가 높고 수심이 깊은 수조(수심 45cm 이상) 세팅이 필수적입니다. 수질 악화나 암모니아 수치 상승 시 지느러미 녹음병(Fin Rot)이나 머리에 구멍이 뚫리는 '홀인더헤드(Hexamita)' 질병에 걸리기 쉬우며, 성체가 되면 입에 들어가는 작은 소형어(네온 테트라 등)를 포식하는 자연적 본능이 있습니다. 오늘 PetSelf에서는 엔젤피쉬의 바디 랭귀지를 정확히 이해하고 깨끗한 수질을 유지하는 3단계 데일리 케어 루틴을 소개합니다.",
+                "whyTitle": "엔젤피쉬의 바디 랭귀지: 입 맞대기 서열 싸움(Jaw-Locking)과 지느러미 접힘(Clamped Fins)",
+                "whyDesc": "엔젤피쉬는 지느러미의 펼침 정도와 입의 행동으로 영역 주장과 건강 상태를 나타냅니다. 서로 입을 맞물리고 힘겨루기를 하는 **'입 맞대기 싸움(Jaw-Locking / Lip-Locking)'**은 서열을 정하거나 번식기 쌍을 맞추는 힘 겨루기 행동입니다. 반면 긴 등지느러미와 배지느러미를 몸에 바짝 붙이고 구석에 정지해 있는 **'지느러미 접힘(Clamped Fins)'**은 수질 악화, pH 쇼크, 또는 기생충 감염으로 인한 극심한 스트레스 신호입니다.",
+                "body_signals": [
+                    {
+                        "name": "서로 입을 맞물리고 정면으로 힘겨루기를 함 (Jaw-Locking / Lip-Locking)",
+                        "meaning": "서열 정리 및 주도권 경쟁, 또는 암수 번식 쌍 형성을 위한 체력 테스트 행동입니다.",
+                        "response": "상처가 나거나 지느러미 뜯김으로 발전하지 않도록 수조 내 구조물(수초/유목)을 배치해 영역을 분리해 줍니다."
+                    },
+                    {
+                        "name": "지느러미를 바짝 접고 구석에 우두커니 서 있음 (Clamped Fins)",
+                        "meaning": "암모니아/아질산 스파이크, pH 쇼크, 또는 내부 기생충(헥사미타) 감염 신호입니다.",
+                        "response": "수질 검사키트로 암모니아 및 pH를 확인하고, 염소와 온도를 맞춘 20~30% 부분 환수를 즉시 실시합니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 수온(25°C~28°C) 및 pH(6.5~7.5) 점검과 고단백 사료 급여",
+                        "text": "약산성~중성 수질을 확인하고, 지느러미 발달을 돕는 중형어 전용 부유성/서서히 침강하는 고단백 사료를 급여합니다."
+                    },
+                    {
+                        "name": "낮: 어항 수심(45cm 이상) 환경 조성 및 여과기 잔잔한 수류 조절",
+                        "text": "긴 배지느러미가 바닥에 닿지 않도록 깊은 수심을 유지하고, 수류에 약하므로 출수량을 잔잔하게 조절합니다."
+                    },
+                    {
+                        "name": "저녁: 바닥재 배설물 청소 및 홀인더헤드 예방을 위한 주간 환수",
+                        "text": "시클리드 특유의 사료 부패 및 배설물 암모니아 상승을 막기 위해 사이펀 청소를 하고 주 1회 10~20% 환수를 실시합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "엔젤피쉬 머리에 작은 구멍이 생기고 하얀 물질이 나오는데 왜 그런가요?",
+                        "answer": "'홀인더헤드(Hole-in-the-Head / Hexamita)' 질병입니다. 수질 악화, 유기물 농도 상승, 비타민/미네랄 결핍이 주원인입니다. 즉시 부분 환수와 수질 개선을 진행하고 항기생충 전용 약품 치료를 병행해야 합니다."
+                    },
+                    {
+                        "question": "네온 테트라나 구피와 함께 합사해도 되나요?",
+                        "answer": "권장하지 않습니다. 어릴 때는 함께 잘 헤엄치지만, 엔젤피쉬가 성체가 되면 야생의 포식 본능이 발현되어 입에 들어가는 작은 네온 테트라나 구피, 치어들을 밤사이에 잡아먹을 수 있습니다. 엔젤피쉬와 합사할 때는 몸집이 어느 정도 있는 중형 열대어나 서열 싸움을 피할 수 있는 어종과 합사하는 것이 좋습니다."
+                    }
+                ],
+                "tags": [
+                    "엔젤피쉬",
+                    "열대어케어",
+                    "시클리드",
+                    "수질관리"
+                ]
+            },
+            "en": {
+                "title": "Angelfish Territorial Signals and 3-Step Daily Routine for Water Quality and Fin Care",
+                "description": "Care guide for the elegant Angelfish. Interpret jaw-locking fights and clamped fins, maintain optimal water temperatures (25°C–28°C), and prevent Hole-in-the-Head disease in 3 steps.",
+                "authority": "Ornamental Fish International (OFI) & Cichlid Veterinary Care Protocols",
+                "profile": {
+                    "breed": "Angelfish (Pterophyllum scalare)",
+                    "lifespan": "8 - 10 Years (Up to 10+ years with optimal care)",
+                    "sleep_pattern": "7 - 8 Hours (Rests upright motionless near plants after lights off)",
+                    "temperament": "Peaceful yet territorial, Cichlid breeding aggression, Predatory to small fish"
+                },
+                "intro": "Renowned for their tall, elegant fins and regal swimming motion, the Angelfish (Pterophyllum scalare) is a quintessential medium-sized cichlid in the freshwater aquarium hobby. Due to their tall, vertically extended fins, providing a deep aquarium (water depth of 45cm or more) is essential. Poor water quality or rising ammonia levels easily lead to Fin Rot or 'Hole-in-the-Head' disease (Hexamita). Furthermore, as adult cichlids, they harbor a natural predatory instinct to eat small fish (such as neon tetras) that fit into their mouths. Today, PetSelf presents a 3-step daily care routine to read your Angelfish's body language and maintain pristine water quality.",
+                "whyTitle": "Angelfish Body Language: Jaw-Locking Fights and Clamped Fins",
+                "whyDesc": "Angelfish express social hierarchy and health status through fin posture and mouth interactions. Interlocking jaws and pushing against each other **'Jaw-Locking / Lip-Locking'** is a strength-testing behavior to establish rank or evaluate potential breeding partners. Conversely, holding long dorsal and ventral fins tightly against the body while staying immobile in corners **'Clamped Fins'** is a critical stress signal caused by water degradation, pH shock, or parasitic infection.",
+                "body_signals": [
+                    {
+                        "name": "Interlocking Mouths and Pushing Head-on (Jaw-Locking / Lip-Locking)",
+                        "meaning": "A social strength test used to establish dominance, resolve territorial disputes, or confirm pair bonding during breeding.",
+                        "response": "Provide aquarium decorations or tall plants to break line of sight, preventing severe injuries or fin nipping."
+                    },
+                    {
+                        "name": "Holding Fins Tightly Against the Body in Corners (Clamped Fins)",
+                        "meaning": "A sign of severe environmental stress caused by ammonia/nitrite spikes, pH shock, or internal Hexamita infection.",
+                        "response": "Test water parameters immediately for ammonia and pH, performing a 20–30% partial water change with dechlorinated water."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Water Temp (25°C–28°C) & pH (6.5–7.5) Check with High-Protein Feeding",
+                        "text": "Verify slightly acidic to neutral water parameters and feed floating or slow-sinking high-protein pellets formulated for cichlids."
+                    },
+                    {
+                        "name": "Afternoon: Deep Water Column Check (45cm+) & Gentle Current Adjustment",
+                        "text": "Maintain deep water levels so long ventral fins do not drag on the substrate, adjusting filter output to prevent harsh water currents."
+                    },
+                    {
+                        "name": "Evening: Substrate Cleanup & Weekly Partial Water Change for Hole-in-the-Head Prevention",
+                        "text": "Siphon out uneaten food and organic waste to control ammonia, performing a 10–20% weekly water change to prevent Hexamita."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Why does my Angelfish have small pits/holes on its head with white discharge?",
+                        "answer": "This indicates 'Hole-in-the-Head' disease (Hexamita). It is primarily caused by degraded water quality, high organic waste build-up, and vitamin/mineral deficiencies. Perform immediate water changes, improve filtration hygiene, and administer anti-parasitic medications if necessary."
+                    },
+                    {
+                        "question": "Can I keep Angelfish with Neon Tetras or Guppies?",
+                        "answer": "It is not recommended. While young Angelfish swim peacefully with small fish, adult Angelfish develop natural predatory instincts. Overnight, they will hunt and eat small fish like Neon Tetras, Guppies, or fry that fit into their mouths. Pair Angelfish with larger, peaceful community fish instead."
+                    }
+                ],
+                "tags": [
+                    "Angelfish",
+                    "TropicalFishCare",
+                    "CichlidCare",
+                    "WaterQuality"
+                ]
+            },
+            "ja": {
+                "title": "エンゼルフィッシュの縄張り・序列サイン解読と水質・ヒレの健康を守る3ステップデイリールーティン",
+                "description": "優雅な熱帯魚の女王エンゼルフィッシュ。口の噛み合い（リップロック）やヒレ閉じサインの解読、適正水温(25°C〜28°C)と穴あき病（ヘキサミタ）予防の3ステップホームケアを紹介します。",
+                "authority": "国際観賞魚協会(OFI)およびシクリッド獣医ケアプロトコル",
+                "profile": {
+                    "breed": "エンゼルフィッシュ (Angelfish / Pterophyllum scalare)",
+                    "lifespan": "8 〜 10年 (適切な水質管理下で10年以上)",
+                    "sleep_pattern": "7 〜 8時間 (消灯後、水草の近くで直立して静止休息)",
+                    "temperament": "温厚だが縄張り意識あり、繁殖期の攻撃性、小型魚への捕食傾向"
+                },
+                "intro": "高く伸長した美しいヒレと気品ある泳ぎから「熱帯魚の女王」と呼ばれるエンゼルフィッシュ（Angelfish / Pterophyllum scalare）は、シクリッド科を代表する中型観賞魚です。上下に大きく育つヒレの特性上、水深の深い高さを備えた水槽（水深45cm以上）の設定が不可欠です。水質悪化やアンモニア濃度の上昇により、尾腐れ病（Fin Rot）や頭部に穴が開く「穴あき病（Hexamita）」にかかりやすく、成体になると口に入る小型魚（ネオンテトラなど）を捕食する本能を持ちます。本日PetSelfでは、エンゼルフィッシュのサインを読み解き、綺麗な水質を維持する3ステップルーティンをお届けします。",
+                "whyTitle": "エンゼルフィッシュのボディランゲージ：口の押し合い(Jaw-Locking)とヒレ閉じ(Clamped Fins)",
+                "whyDesc": "エンゼルフィッシュはヒレの広げ具合と口の動作で縄張り主張や健康状態を表します。お互いに口を噛み合わせて力比べをする**「口の押し合い（Jaw-Locking / Lip-Locking）」**は、序列を決めたり繁殖期のペアリングの際に見せる行動です。一方、長い背ヒレや腹ヒレを体にたたんで隅で静止している**「ヒレ閉じ（Clamped Fins）」**は、水質悪化、pHショック、または寄生虫感染による極度のストレスサインです。",
+                "body_signals": [
+                    {
+                        "name": "お互いに口を噛み合わせて正面から押し合う (Jaw-Locking / Lip-Locking)",
+                        "meaning": "序列の決定や主導権争い、または雌雄の繁殖ペア形成のための体力テスト行動です。",
+                        "response": "ケガやヒレの引き裂きに発展しないよう、水槽内に水草や流木を配置して視線を遮り、縄張りを分けてあげましょう。"
+                    },
+                    {
+                        "name": "ヒレをたたんで隅でじっと動かずにいる (Clamped Fins)",
+                        "meaning": "アンモニア・亜硝酸スパイク、pHショック、または内部寄生虫（ヘキサミタ）感染のサインです。",
+                        "response": "水質検査キットでアンモニアとpHを確認し、カルキ抜きと温度合わせを行った水で20〜30%の部分換水をすぐに実施します。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：水温（25°C〜28°C）とpH（6.5〜7.5）の点検＆高タンパクフードの給餌",
+                        "text": "弱酸性〜中性の水質を確認し、美しいヒレの発育を助ける中型魚専用の浮遊性・緩沈下性の高タンパクフードを与えます。"
+                    },
+                    {
+                        "name": "昼：十分な水深（45cm以上）の維持＆フィルターの穏やかな水流調整",
+                        "text": "長い腹ヒレが底砂に擦れないよう深い水深を保ち、強い水流に弱いためフィルターの出水量を優しく調整します。"
+                    },
+                    {
+                        "name": "夜：底砂のフン清掃＆穴あき病予防のための定期換水",
+                        "text": "シクリッド特有の残餌腐敗とアンモニア上昇を防ぐためサイフォンで清掃を行い、週1回10〜20%の部分換水を実施します。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "エンゼルフィッシュの頭に小さな穴が開き、白い物質が出ているのですが病気でしょうか？",
+                        "answer": "「穴あき病（Hole-in-the-Head / Hexamita）」です。水質悪化、有機物の蓄積、ビタミンやミネラルの不足が主な原因です。すぐに部分換水と水質改善を行い、抗寄生虫専用薬による治療を並行して行ってください。"
+                    },
+                    {
+                        "question": "ネオンテトラやグッピーと一緒に飼育しても大丈夫ですか？",
+                        "answer": "おすすめできません。幼体の頃は仲良く泳ぎますが、エンゼルフィッシュが成体になると野生の捕食本能が目覚め、夜間に口に入るサイズのネオンテトラやグッピーを食べてしまうことがあります。体格のある中型熱帯魚と同居させるのが安全です。"
+                    }
+                ],
+                "tags": [
+                    "エンゼルフィッシュ",
+                    "熱帯魚ケア",
+                    "シクリッド",
+                    "水質管理"
+                ]
+            },
+            "zh": {
+                "title": "神仙鱼领地与等级信号解读及水质与鳍部护理的3步日常流程",
+                "description": "优雅的热带鱼之王神仙鱼（Angelfish）护理指南。解读嘴对嘴打斗与夹鳍信号，维持适宜水温（25°C~28°C）及预防头穿孔病的3步骤家庭护理。",
+                "authority": "国际观赏鱼协会 (OFI) 与慈鲷科兽医护理标准",
+                "profile": {
+                    "breed": "神仙鱼 / 燕鱼 (Angelfish / Pterophyllum scalare)",
+                    "lifespan": "8 ~ 10年 (水质良好可达10年以上)",
+                    "sleep_pattern": "7 ~ 8小时 (关灯后在水草附近直立静止休息)",
+                    "temperament": "温和但有领地意识、繁殖期具有慈鲷攻击性、捕食小型鱼"
+                },
+                "intro": "拥有高耸优雅的鳍条与拉风泳姿的神仙鱼（Angelfish）被称为“热带鱼皇后”，是慈鲷科代表性中型观赏鱼。由于其上下伸展的体型，必须配备高水深水族箱（水深 45cm 以上）。若水质恶化或氨氮飙升，极易患上烂鳍病或头部溃烂的“头穿孔病（Hexamita）”；且成鱼后会展现捕食吞咽小鱼（如霓虹灯鱼）的天性。今天 PetSelf 将带您准确解读神仙鱼 肢体语言，并通过 3 步骤日常护理维护清澈的水质。",
+                "whyTitle": "神仙鱼的肢体语言：嘴对嘴打斗 (Jaw-Locking) 与夹鳍 (Clamped Fins)",
+                "whyDesc": "神仙鱼通过鳍条舒展度与嘴部动作表达领地主张和健康状况。相互咬住对方的嘴并用力推搡**“嘴对嘴打斗 (Jaw-Locking / Lip-Locking)”**，是确立等级领地或繁殖期挑选配偶的体能测试行为。相反，将长长的背鳍和腹鳍紧贴身体并缩在角落静止**“夹鳍 (Clamped Fins)”**，则是水质恶化、pH 冲击或寄生虫感染引发 极度应激信号。",
+                "body_signals": [
+                    {
+                        "name": "相互咬住嘴巴并正面用力推搡 (Jaw-Locking / Lip-Locking)",
+                        "meaning": "争夺领地主导权、确立等级或雌雄配对时的争斗测试行为。",
+                        "response": "在缸内布置水草或沉木阻挡视线以划分领地，防止演变为严重打斗咬伤。"
+                    },
+                    {
+                        "name": "紧夹鳍条并在角落呆立 (Clamped Fins)",
+                        "meaning": "氨氮/亚硝酸盐飙升、pH 冲击或内部六鞭毛虫（Hexamita）感染的信号。",
+                        "response": "立即使用测试盒检测氨氮和 pH，使用困好的水进行 20%~30% 的部分换水。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：水温（25°C~28°C）与 pH（6.5~7.5）检测及投喂高蛋白饲料",
+                        "text": "确认弱酸性至中性水质，投喂有助于鳍条发育的专类中型鱼浮水/缓沉型高蛋白饲料。"
+                    },
+                    {
+                        "name": "中午：保持足够水深（45cm以上）与缓和水流调节",
+                        "text": "维持较深水位防止长腹鳍摩擦底砂，并调节过滤器出水，避免过强水流消耗其体力。"
+                    },
+                    {
+                        "name": "晚上：底砂排泄物清理与预防头穿孔病的定期换水",
+                        "text": "使用抽水吸管清理残饵与排泄物以控制氨氮，每周进行 10%~20% 的部分换水。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "神仙鱼头部出现小孔并冒出白色分泌物，是怎么回事？",
+                        "answer": "这是“头穿孔病（Hole-in-the-Head / Hexamita）”。主因是水质恶化、有机物堆积以及维生素或矿物质缺乏。应立即换水改善水质，并配合抗寄生虫专用药物进行治疗。"
+                    },
+                    {
+                        "question": "神仙鱼可以和霓虹灯鱼或孔雀鱼混养吗？",
+                        "answer": "不建议混养。幼鱼时期虽然可以和平共处，但神仙鱼成鱼后会展现捕食天性，在夜间将能塞入口中的霓虹灯鱼、孔雀鱼或幼鱼吃掉。建议与体型稍大的温和社区鱼混养。"
+                    }
+                ],
+                "tags": [
+                    "神仙鱼",
+                    "热带鱼护理",
+                    "慈鲷护理",
+                    "水质管理"
+                ]
+            },
+            "es": {
+                "title": "Señales territoriales en el Pez Ángel y rutina diaria de 3 pasos para el cuidado del agua y las aletas",
+                "description": "Guía de cuidado para el elegante Pez Ángel (Angelfish). Interprete el agarre de mandíbulas y las aletas replegadas, mantenga el agua a 25°C–28°C y prevenga el agujero en la cabeza en 3 pasos.",
+                "authority": "Ornamental Fish International (OFI) y Protocolos de Cuidado Veterinario de Cíclidos",
+                "profile": {
+                    "breed": "Pez Ángel / Escalare (Pterophyllum scalare)",
+                    "lifespan": "8 ~ 10 años (Más de 10 años con agua óptima)",
+                    "sleep_pattern": "7 ~ 8 horas (Reposa erguido e inmóvil cerca de plantas tras apagar luces)",
+                    "temperament": "Pacífico pero territorial, Agresividad reproductora de cíclido, Depredador de peces pequeños"
+                },
+                "intro": "Reconocido por sus aletas altas y estilizadas y su nado majestuoso, el Pez Ángel (Pterophyllum scalare) es un cíclido mediano emblemático en la acuarofilia. Debido a la longitud vertical de sus aletas, requieren un acuario profundo (agua de 45 cm o más). La mala calidad del agua provoca podredumbre de aletas o la enfermedad del 'Agujero en la cabeza' (Hexamita). Además, los adultos conservan el instinto depredador de comer peces pequeños (como tetras neón). Hoy, PetSelf presenta una rutina de 3 pasos para interpretar sus señales y cuidar su salud.",
+                "whyTitle": "Lenguaje corporal del Pez Ángel: Agarre de mandíbulas (Jaw-Locking) y aletas replegadas",
+                "whyDesc": "Los peces ángel expresan su jerarquía y estado de salud mediante sus aletas y su boca. Enganchar sus bocas y empujarse **'Agarre de mandíbulas (Jaw-Locking / Lip-Locking)'** es un test de fuerza para definir rangos o cortejar pareja. En cambio, replegar sus largas aletas contra el cuerpo permaneciendo inmóviles en rincones **'Aletas replegadas (Clamped Fins)'** es una señal grave de estrés por amoníaco, shock de pH o parásitos.",
+                "body_signals": [
+                    {
+                        "name": "Trabar sus bocas y empujarse de frente (Jaw-Locking / Lip-Locking)",
+                        "meaning": "Prueba de fuerza social para establecer dominancia, resolver disputas de territorio o emparejamiento.",
+                        "response": "Añada plantas altas o troncos para cortar la línea de visión y evitar lesiones graves o mordeduras."
+                    },
+                    {
+                        "name": "Aletas pegadas al cuerpo e inmovilidad en esquinas (Clamped Fins)",
+                        "meaning": "Estrés ambiental grave por picos de amoníaco/nitritos, shock de pH o infección interna por Hexamita.",
+                        "response": "Mida amoníaco y pH de inmediato, y realice un cambio parcial de agua del 20-30% con agua acondicionada."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Control de temperatura (25°C–28°C) y pH (6.5–7.5) con alimento alto en proteína",
+                        "text": "Verifique los parámetros del agua y alimente con escamas flotantes o gránulos lentos para cíclidos."
+                    },
+                    {
+                        "name": "Tarde: Control de columna de agua (45 cm+) y ajuste suave de la corriente",
+                        "text": "Mantenga el agua profunda para que sus aletas ventrales no rocen el sustrato y reduzca corrientes fuertes."
+                    },
+                    {
+                        "name": "Noche: Limpieza del sustrato y cambio parcial de agua semanal contra Hexamita",
+                        "text": "Sifone restos de comida y excrementos para controlar el amoníaco, realizando un cambio de agua semanal del 10-20%."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Por qué mi Pez Ángel tiene pequeños orificios en la cabeza con mucosidad blanca?",
+                        "answer": "Indica la enfermedad del 'Agujero en la cabeza' (Hexamita / Spironucleus). Es provocada por mala calidad del agua, acumulación de desechos orgánicos y deficiencias vitamínicas. Realice cambios de agua urgentes y aplique medicación antiparasitaria específica."
+                    },
+                    {
+                        "question": "¿Puedo mantener Peces Ángel con Tetras Neón o Guppys?",
+                        "answer": "No se recomienda. Aunque los jóvenes nadan en paz con peces pequeños, los adultos desarrollan instintos depredadores y cazarán por la noche a cualquier pez pequeño que quepa en su boca. Combínelos con peces comunitarios de mayor tamaño."
+                    }
+                ],
+                "tags": [
+                    "PezAngel",
+                    "Escalare",
+                    "Acuarofilia",
+                    "Ciclidos"
+                ]
+            },
+            "fr": {
+                "title": "Signaux territoriaux chez le Scalaire et routine quotidienne en 3 étapes pour la qualité de l'eau et le soin des nageoires",
+                "description": "Guide de soins pour l'élégant Scalaire (Angelfish). Décryptez le verrouillage des mâchoires et les nageoires collées, maintenez une eau entre 25°C et 28°C et prévenez la maladie des trous dans la tête.",
+                "authority": "Ornamental Fish International (OFI) & Normes Vétérinaires pour Cichlidés",
+                "profile": {
+                    "breed": "Scalaire (Angelfish / Pterophyllum scalare)",
+                    "lifespan": "8 ~ 10 ans (Plus de 10 ans avec des soins adaptés)",
+                    "sleep_pattern": "7 ~ 8 heures (Repos immobile et droit près des plantes après extinction des feux)",
+                    "temperament": "Paisible mais territorial, Agressivité de ponte des cichlidés, Prédateur de petits poissons"
+                },
+                "intro": "Célèbre pour ses nageoires élancées et sa nage majestueuse, le Scalaire (Pterophyllum scalare) est un cichlidé moyen emblématique en aquariophilie. En raison de sa hauteur de corps, un bac profond (hauteur d'eau d'au moins 45 cm) est indispensable. Une eau dégradée ou une hausse d'ammoniaque entraînent la pourriture des nageoires ou la 'Maladie des trous dans la tête' (Hexamita). De plus, à l'âge adulte, il conserve un instinct de prédateur envers les petits poissons. Aujourd'hui, PetSelf vous présente une routine en 3 étapes pour préserver sa santé.",
+                "whyTitle": "Langage corporel du Scalaire : Verrouillage des mâchoires (Jaw-Locking) et nageoires collées",
+                "whyDesc": "Les scalaires expriment la hiérarchie sociale et leur état de santé par la posture de leurs nageoires et l'usage de leur bouche. S'accrocher par la bouche en se poussant **« Verrouillage des mâchoires (Jaw-Locking) »** est un test de force pour établir la dominance ou parader. En revanche, plaquer leurs longues nageoires contre le corps en restant immobile **« Nageoires collées (Clamped Fins) »** est un signal de stress aigu lié à la qualité de l'eau ou aux parasites.",
+                "body_signals": [
+                    {
+                        "name": "S'accrocher par la bouche et se pousser de face (Jaw-Locking / Lip-Locking)",
+                        "meaning": "Test de force sociale pour établir la hiérarchie, régler des litiges territoriaux ou former un couple.",
+                        "response": "Ajoutez des plantes hautes ou des racines pour couper la ligne de vue et éviter les blessures aux nageoires."
+                    },
+                    {
+                        "name": "Nageoires collées au corps et immobilité dans un coin (Clamped Fins)",
+                        "meaning": "Signal de stress environnemental grave dû à l'ammoniaque, au choc de pH ou à l'Hexamita.",
+                        "response": "Testez immédiatement l'eau et réalisez un changement d'eau partiel de 20 à 30 % avec de l'eau déchlorée."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Contrôle de la température (25°C–28°C) et du pH (6.5–7.5) avec nourriture protéinée",
+                        "text": "Vérifiez l'eau légèrement acide et distribuez des granulés flottants ou coulants adaptés aux cichlidés."
+                    },
+                    {
+                        "name": "Après-midi : Maintien de la hauteur d'eau (45 cm+) & réglage d'un courant doux",
+                        "text": "Conservez une hauteur d'eau suffisante pour que les nageoires ne touchent pas le sol et réduisez le brassage."
+                    },
+                    {
+                        "name": "Soir : Nettoyage du sol & changement d'eau hebdomadaire contre l'Hexamita",
+                        "text": "Aspirez les restes de nourriture pour limiter l'ammoniaque et effectuez un changement d'eau de 10 à 20 % par semaine."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Pourquoi mon Scalaire a-t-il de petits trous sur la tête avec de la matière blanche ?",
+                        "answer": "Il s'agit de la 'Maladie des trous dans la tête' (Hexamita). Elle est causée par une eau polluée, une accumulation de déchets et des carences en vitamines. Faites des changements d'eau immédiats et utilisez un traitement antiparasitaire si nécessaire."
+                    },
+                    {
+                        "question": "Puis-je maintenir des Scalaires avec des Tétras Néons ou des Guppys ?",
+                        "answer": "Ce n'est pas recommandé. Les jeunes scalaires vivent bien avec de petits poissons, mais les adultes développent leur instinct de chasseur. La nuit, ils mangeront les tétras néons ou guppys qui rentrent dans leur bouche. Associez-les plutôt à des poissons communautaires plus grands."
+                    }
+                ],
+                "tags": [
+                    "Scalaire",
+                    "PterophyllumScalare",
+                    "Aquariophilie",
+                    "Cichlides"
+                ]
+            },
+            "de": {
+                "title": "Reviersignale beim Skalar und 3-Schritte-Tagesroutine für Wasserqualität und Flossenpflege",
+                "description": "Pflegeanleitung für den eleganten Skalar (Angelfish). Maulfassen und Flossenklemmen verstehen, Wassertemperatur (25 °C–28 °C) halten und Lochkrankheit in 3 Schritten vorbeugen.",
+                "authority": "Ornamental Fish International (OFI) & Tiermedizinische Standards für Buntbarsche",
+                "profile": {
+                    "breed": "Skalar / Segelflosser (Pterophyllum scalare)",
+                    "lifespan": "8 ~ 10 Jahre (Bei guter Pflege über 10 Jahre)",
+                    "sleep_pattern": "7 ~ 8 Stunden (Steht nachts aufrecht und reglos nahe Pflanzen)",
+                    "temperament": "Friedlich, aber territorial, Buntbarsch-Brutaggressivität, Räuberisch gegenüber Kleinfischen"
+                },
+                "intro": "Bekannt für seine hohe, elegante Körperform und die anmutigen Schwimmbewegungen, ist der Skalar (Pterophyllum scalare) der König der Buntbarsche im Süßwasseraquarium. Wegen der hochgewachsenen Flossen ist ein tiefes Becken (Wasserhöhe ab 45 cm) Pflicht. Schlechte Wasserwerte führen zu Flossenfäule oder der 'Lochkrankheit' (Hexamita). Zudem besitzen ausgewachsene Skalare einen natürlichen Jagdtrieb auf kleine Fische (wie Neonsalmler). Heute zeigt PetSelf eine 3-Schritte-Routine für Ihren Skalar.",
+                "whyTitle": "Körpersprache des Skalars: Maulfassen (Jaw-Locking) und Flossenklemmen (Clamped Fins)",
+                "whyDesc": "Skalare drücken Rangordnung und Gesundheit über Flossenhaltung und Maulaktionen aus. Das Ineinanderverbeißen der Mäuler mit gegenseitigem Drücken **'Maulfassen (Jaw-Locking / Lip-Locking)'** ist ein Kräftemessen zur Rangordnung oder Paarbildung. Das enge Anlegen der langen Flossen bei Reglosigkeit in Ecken **'Flossenklemmen (Clamped Fins)'** ist dagegen ein ernstes Stresszeichen bei Wasserbelastung.",
+                "body_signals": [
+                    {
+                        "name": "Ineinanderverbeißen der Mäuler und Drücken (Jaw-Locking / Lip-Locking)",
+                        "meaning": "Sozialer Kräftemesskampf zur Reviereinteilung, Dominanzklärung oder Paarbildung.",
+                        "response": "Bieten Sie hohe Pflanzen oder Wurzeln als Sichtschutz an, um Verletzungen und Flossenbeißen zu vermeiden."
+                    },
+                    {
+                        "name": "Anliegende Flossen und Verharren in Ecken (Clamped Fins)",
+                        "meaning": "Schwerer Umweltstress durch Ammoniak, pH-Schock oder internen Hexamita-Befall.",
+                        "response": "Messen Sie sofort Ammoniak und pH-Wert und führen Sie einen 20–30%igen Teilwasserwechsel mit aufbereitetem Wasser durch."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Wassertemperatur- (25 °C–28 °C) & pH-Prüfung (6.5–7.5) mit Protein-Fütterung",
+                        "text": "Prüfen Sie leicht saures bis neutrales Wasser und füttern Sie schwimmendes oder langsam sinkendes Buntbarschfutter."
+                    },
+                    {
+                        "name": "Mittag: Wasserhöhe prüfen (mind. 45 cm) & Strömung sanft einstellen",
+                        "text": "Halten Sie das Wasser tief genug, damit die Bauchflossen nicht den Boden berühren, und drosseln Sie starke Strömung."
+                    },
+                    {
+                        "name": "Abend: Bodenreinigung & Wöchentlicher Teilwasserwechsel gegen Lochkrankheit",
+                        "text": "Saugen Sie Futterreste ab, um Ammoniak zu verhindern, und führen Sie wöchentlich einen 10–20%igen Wasserwechsel durch."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Warum hat mein Skalar kleine Löcher am Kopf mit weißem Belag?",
+                        "answer": "Das deutet auf die 'Lochkrankheit' (Hexamita / Spironucleus) hin. Ursachen sind schlechte Wasserhygiene, hohe Organikbelastung und Vitaminmangel. Führen Sie sofortige Wasserwechsel durch, verbessern Sie die Filterung und nutzen Sie bei Bedarf Antiparasitika."
+                    },
+                    {
+                        "question": "Kann ich Skalare zusammen mit Neonsalmlern oder Guppys halten?",
+                        "answer": "Nicht zu empfehlen. Junge Skalare schwimmen friedlich mit Kleinfischen, aber ausgewachsene Skalare entwickeln Jagdtriebe. Nachts fressen sie Neons oder Guppys, die ins Maul passen. Vergesellschaften Sie Skalare lieber mit größeren Gemeinschaftsfischen."
+                    }
+                ],
+                "tags": [
+                    "Skalar",
+                    "Segelflosser",
+                    "Aquaristik",
+                    "Buntbarsche"
+                ]
+            },
+            "pt": {
+                "title": "Sinais territoriais no Acará-Bandeira e rotina diária de 3 passos para a qualidade da água e cuidado das nadadeiras",
+                "description": "Guia de cuidados para o elegante Acará-Bandeira / Peixe-Anjo (Angelfish). Entenda a trava de mandíbulas e as nadadeiras encolhidas, mantenha a água entre 25°C e 28°C e previna a doença do buraco na cabeça em 3 passos.",
+                "authority": "Ornamental Fish International (OFI) & Protocolos de Cuidados Veterinários com Ciclídeos",
+                "profile": {
+                    "breed": "Acará-Bandeira / Peixe-Anjo (Pterophyllum scalare)",
+                    "lifespan": "8 ~ 10 anos (Mais de 10 anos com água ideal)",
+                    "sleep_pattern": "7 ~ 8 horas (Descansa ereto e imóvel perto de plantas após apagar as luzes)",
+                    "temperament": "Pacífico mas territorial, Agressividade reprodutiva de ciclídeo, Predador de peixes pequenos"
+                },
+                "intro": "Famoso por suas nadadeiras altas e nado majestoso, o Acará-Bandeira (Pterophyllum scalare) é um ciclídeo médio clássico no aquarismo. Devido ao formato vertical do seu corpo, um aquário profundo (altura de água de 45 cm ou mais) é indispensável. A má qualidade da água causa a podridão das nadadeiras ou a 'Doença do buraco na cabeça' (Hexamita). Além disso, quando adultos, possuem o instinto natural de caçar peixes pequenos (como tetras neon). Hoje, o PetSelf apresenta uma rotina de 3 passos para cuidar do seu pet.",
+                "whyTitle": "Linguagem corporal do Acará-Bandeira: Trava de mandíbulas (Jaw-Locking) e nadadeiras encolhidas",
+                "whyDesc": "Os acarás-bandeira expressam hierarquia e saúde através das nadadeiras e da boca. Travar as bocas e empurrar-se **'Trava de mandíbulas (Jaw-Locking / Lip-Locking)'** é um teste de força para definir dominância ou formação de casal. Por outro lado, manter as longas nadadeiras coladas ao corpo enquanto permanecem imóveis nos cantos **'Nadadeiras encolhidas (Clamped Fins)'** é um sinal crítico de estresse por amônia, choque de pH ou parasitas.",
+                "body_signals": [
+                    {
+                        "name": "Travar as bocas e empurrar-se de frente (Jaw-Locking / Lip-Locking)",
+                        "meaning": "Teste de força social para estabelecer dominância, resolver disputas de território ou acasalamento.",
+                        "response": "Coloque plantas altas ou troncos para cortar a linha de visão e evitar ferimentos severos ou mordidas nas nadadeiras."
+                    },
+                    {
+                        "name": "Nadadeiras coladas ao corpo e imobilidade nos cantos (Clamped Fins)",
+                        "meaning": "Sinal de estresse ambiental grave por amônia/nitrito, choque de pH ou infecção por Hexamita.",
+                        "response": "Meça a amônia e o pH imediatamente e faça uma troca parcial de água de 20-30% com água condicionada."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Checagem da temperatura (25°C–28°C) e pH (6.5–7.5) com ração rica em proteína",
+                        "text": "Verifique a água ligeiramente ácida e ofereça ração em grânulos flutuantes ou de afundamento lento para ciclídeos."
+                    },
+                    {
+                        "name": "Tarde: Controle da coluna de água (45 cm+) e ajuste de fluxo suave do filtro",
+                        "text": "Mantenha o aquário profundo para que as nadadeiras não rocem o fundo e reduza correntes de água muito fortes."
+                    },
+                    {
+                        "name": "Noite: Limpeza do substrato e troca parcial de água semanal contra Hexamita",
+                        "text": "Sifone restos de ração para evitar amônia e faça uma troca parcial de água de 10 a 20% semanalmente."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Por que meu Acará-Bandeira tem pequenos orifícios na cabeça com secreção branca?",
+                        "answer": "Isso indica a 'Doença do buraco na cabeça' (Hexamita). É causada por má qualidade da água, acúmulo de matéria orgânica e falta de vitaminas. Faça trocas de água imediatas e use medicação antiparasitária adequada."
+                    },
+                    {
+                        "question": "Posso manter Acarás-Bandeira com Tetras Neon ou Guppies?",
+                        "answer": "Não é recomendado. Enquanto jovens vivem bem com peixes pequenos, os acarás adultos desenvolvem instinto predador. À noite, eles caçarão e comerão peixes pequenos que couberem em sua boca. Mantenha-os com peixes comunitários maiores."
+                    }
+                ],
+                "tags": [
+                    "AcaraBandeira",
+                    "PeixeAnjo",
+                    "Aquarismo",
+                    "Ciclideos"
+                ]
+            },
+            "id": {
+                "title": "Sinyal Teritorial Ikan Manvis (Angelfish) dan Rutinitas Harian 3 Langkah Perawatan Kualitas Air serta Sirip",
+                "description": "Panduan perawatan Ikan Manvis / Angelfish (Pterophyllum scalare) yang anggun. Pahami aksi kunci mulut dan sirip menguncup, jaga suhu air (25°C–28°C), serta cegah penyakit lubang di kepala dalam 3 langkah.",
+                "authority": "Ornamental Fish International (OFI) & Standar Perawatan Medis Dokter Hewan Ikan Cichlid",
+                "profile": {
+                    "breed": "Ikan Manvis / Angelfish (Pterophyllum scalare)",
+                    "lifespan": "8 ~ 10 tahun (Lebih dari 10 tahun dengan kualitas air optimal)",
+                    "sleep_pattern": "7 ~ 8 jam (Berdiri tegak diam dekat tanaman setelah lampu dimatikan)",
+                    "temperament": "Damai namun teritorial, Agresif saat memijah, Pemangsa ikan kecil"
+                },
+                "intro": "Terkenal dengan siripnya yang tinggi anggun dan gaya berenang yang megah, Ikan Manvis / Angelfish (Pterophyllum scalare) adalah ikan cichlid ukuran sedang yang sangat populer di dunia akuaristik. Karena bentuk siripnya yang tumbuh tinggi ke atas dan bawah, menyediakan akuarium yang dalam (kedalaman air minimal 45 cm) sangat wajib. Kualitas air yang buruk memicu pembusukan sirip atau penyakit 'Lubang di Kepala' (Hexamita). Selain itu, ikan dewasa memiliki naluri alami memangsa ikan kecil (seperti Neon Tetra). Hari ini, PetSelf membagikan 3 langkah rutinitas harian untuk merawat Ikan Manvis Anda.",
+                "whyTitle": "Bahasa Tubuh Ikan Manvis: Aksi Kunci Mulut (Jaw-Locking) dan Sirip Menguncup (Clamped Fins)",
+                "whyDesc": "Ikan Manvis menyampaikan hierarki sosial dan kondisi kesehatan melalui posisi sirip dan gerakan mulut. Saling mengunci mulut dan saling dorong **'Kunci Mulut (Jaw-Locking / Lip-Locking)'** adalah uji kekuatan untuk menentukan dominansi atau pasangan memijah. Sebaliknya, menempelkan sirip panjang ke tubuh sambil berdiam diri di sudut **'Sirip Menguncup (Clamped Fins)'** adalah sinyal stres berat akibat kualitas air yang buruk atau parasit.",
+                "body_signals": [
+                    {
+                        "name": "Saling Mengunci Mulut dan Saling Dorong (Jaw-Locking / Lip-Locking)",
+                        "meaning": "Uji kekuatan sosial untuk menentukan dominansi kelompok, menyelesaikan sengketa wilayah, atau seleksi pasangan.",
+                        "response": "Sediakan tanaman tinggi atau kayu untuk membatasi pandangan agar tidak terjadi cedera serius pada sirip."
+                    },
+                    {
+                        "name": "Sirip Menempel Rapat ke Tubuh di Sudut Akuarium (Clamped Fins)",
+                        "meaning": "Sinyal stres lingkungan akibat lonjakan amonia/nitrit, syok pH, atau infeksi parasit Hexamita.",
+                        "response": "Segera ukur amonia dan pH air, lalu lakukan penggantian air sebagian 20–30% dengan air yang sudah diendapkan."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Pemeriksaan Suhu (25°C–28°C) & pH (6.5–7.5) dengan Pemberian Pakan Tinggi Protein",
+                        "text": "Pastikan air agak asam hingga netral, lalu berikan pelet tinggi protein khusus cichlid yang mengapung atau tenggelam perlahan."
+                    },
+                    {
+                        "name": "Siang: Pemeriksaan Kedalaman Air (45cm+) & Pengaturan Arus Filter yang Halus",
+                        "text": "Jaga kedalaman air agar sirip bawah tidak tergesek dasar akuarium, dan atur arus filter agar tidak terlalu deras."
+                    },
+                    {
+                        "name": "Malam: Pembersihan Kotoran Dasar & Penggantian Air Mingguan Mencegah Hexamita",
+                        "text": "Siphon sisa pakan untuk menekan amonia, dan lakukan penggantian air sebagian 10–20% setiap minggu."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mengapa kepala Ikan Manvis saya berlubang kecil dan mengeluarkan lendir putih?",
+                        "answer": "Ini menandakan penyakit 'Lubang di Kepala' (Hole-in-the-Head / Hexamita). Penyebab utamanya adalah air yang kotor, penumpukan limbah organik, dan kekurangan vitamin/mineral. Segera lakukan penggantian air dan berikan obat antiparasit khusus jika diperlukan."
+                    },
+                    {
+                        "question": "Bolehkah Ikan Manvis dicampur dengan Neon Tetra atau Guppy?",
+                        "answer": "Sangat tidak disarankan. Saat masih kecil mereka memang berenang damai bersama ikan kecil, tetapi Ikan Manvis dewasa akan mengembangkan naluri pemangsa. Pada malam hari, mereka akan memburu dan memakan ikan kecil yang muat di mulutnya. Campurkan dengan ikan komunitas lain yang berukuran lebih besar."
+                    }
+                ],
+                "tags": [
+                    "IkanManvis",
+                    "Angelfish",
+                    "Akuaristik",
+                    "PerawatanCichlid"
+                ]
+            }
+        },
+        "category": "CareSelf",
+        "app": "careself",
+        "formatVersion": 4,
+        "heroImage": "/images/blog/angelfish_care.webp"
+    }
+}

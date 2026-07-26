@@ -13,11 +13,11 @@ authority: "Haltungsrichtlinien der Association of Exotic Mammal Veterinarians (
 steps:
   - name: "Körpersprache der Chinchilla: Speicheln mit Futterauswurf und Überhitzungszeichen"
     text: "Zeigt eine Chinchilla 'Speicheln mit Ausspucken von Heu', sodass das Fell um das Maul nass wird, ist dies ein ernstes Warnzeichen für eine schwere Zahnfehlstellung. Das 'Flachliegen auf der Seite mit schneller Atmung' deutet dagegen auf einen lebensbedrohlichen Zustand kurz vor einem Hitzeschlag hin."
-  - name: "Chinchilla (Chinchilla lanigera)'s Body Language & Signals"
+  - name: "Körpersprache und Verhaltenssignale von Chinchilla (Chinchilla lanigera)"
     text: "* Speicheln und Futterverweigerung (Drooling): Durch Fehlstellung überwachsene Zähne bohren sich in den Gaumen oder die Wangenschleimhaut, verhindern das Schlucken von Speichel und blockieren das Kauen unter extremen Schmerzen. (Suchen Sie sofort eine spezialisierte Tierklinik für Exoten auf, um die Zähne mit dentalen Präzisionsgeräten kürzen zu lassen.)
 
 * Flachliegen auf der Seite mit schneller Atmung: Eine zu hohe Raumtemperatur hat die Körpertemperatur stark ansteigen lassen; das Tier liegt erschöpft mit geweiteten Atemwegen im Hitzestress. (Schalten Sie sofort die Klimaanlage ein, um die Raumtemperatur unter 20 °C zu senken, und legen Sie kühle Marmorplatten oder in Handtücher gewickelte Kühlakkus in den Käfig.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Maßgeschneiderte 3-Schritte-Tagesroutine für Chinchilla (Chinchilla lanigera)"
     text: "* STEP 1. Morgen: Unbegrenzte Fütterung von grobfaserigem Timothy-Heu: Um das ständige Nachwachsen der Zähne auszugleichen, stellen Sie stets frisches, grobes Timothy-Heu bereit, damit sich die Zähne beim Kauen natürlich abnutzen.
 
 * STEP 2. Mittag: Strenge Klimakontrolle zur Hitzeschlag- und Feuchtigkeitsprävention: Halten Sie die Raumtemperatur ganzjährig bei 18–21 °C und die Luftfeuchtigkeit unter 40–50 % durch den Einsatz von Klimaanlage und Entfeuchter, um ein kühles Gebirgsklima zu schaffen.
@@ -60,7 +60,7 @@ Mit ihrem seidig-weichen Fell und ihrem rundlichen Körper sind Chinchillas fasz
 
 ---
 
-## 2. Chinchilla (Chinchilla lanigera)'s Body Language & Signals
+## 2. Körpersprache und Verhaltenssignale von Chinchilla (Chinchilla lanigera)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Mit ihrem seidig-weichen Fell und ihrem rundlichen Körper sind Chinchillas fasz
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Maßgeschneiderte 3-Schritte-Tagesroutine für Chinchilla (Chinchilla lanigera)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

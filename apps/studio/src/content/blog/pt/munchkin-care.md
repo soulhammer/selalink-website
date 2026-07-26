@@ -13,11 +13,11 @@ authority: "Padrões da Raça Munchkin da Cat Fanciers' Association (CFA) e Dire
 steps:
   - name: "Comportamentos do Munchkin: Postura de canguru e hesitação ao saltar"
     text: "Devido às suas patas curtas, o Munchkin adota posturas muito próprias. Sentar-se erguido nas patas traseiras 'Postura de canguru' (Kangaroo Standing) é uma forma natural de observar melhor. No entanto, 'hesitar ou recusar-se a saltar' para um móvel baixo é um sinal de aviso importante de dor nas articulações."
-  - name: "Gato Munchkin (Felis catus)'s Body Language & Signals"
+  - name: "Linguagem corporal e sinais de comportamento do Gato Munchkin (Felis catus)"
     text: "* Postura de canguru (Kangaroo Standing): Ficar erguido apoiado apenas nas patas traseiras para ampliar o campo de visão devido à sua baixa estatura. (Coloque tapetes antiderrapantes para evitar que ele escorregue e force a anca ao sentar-se de pé.)
 
 * Hesitação ao saltar ou desistência: Olhar para cima e hesitar repetidamente antes de efetuar um salto baixo devido a dor articular. (Não o force a saltar, instale rampas ou pequenos degraus para o acesso a camas ou sofás e consulte o veterinário.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rotina diária de 3 passos para cuidados com Gato Munchkin (Felis catus)"
     text: "* STEP 1. Manhã: Controle da marcha e flexibilidade: Examine a forma como ele caminha após acordar. Observe se tem rigidez nas patas traseiras, especialmente nos dias frios.
 
 * STEP 2. Tarde: Brincadeiras a nível do chão: Brinque com bolas ou ratinhos de brinquedo que rolam pelo chão. Evite brinquedos altos que obriguem a saltos.
@@ -60,7 +60,7 @@ Os Munchkins são muito populares devido às suas patas curtinhas e temperamento
 
 ---
 
-## 2. Gato Munchkin (Felis catus)'s Body Language & Signals
+## 2. Linguagem corporal e sinais de comportamento do Gato Munchkin (Felis catus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Os Munchkins são muito populares devido às suas patas curtinhas e temperamento
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rotina diária de 3 passos para cuidados com Gato Munchkin (Felis catus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

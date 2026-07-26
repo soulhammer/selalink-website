@@ -13,11 +13,11 @@ authority: "美国比熊犬俱乐部指南与 AVMA 兽医学健康标准"
 steps:
   - name: "比熊犬的身体语言：比熊时间与寻求关注的信号"
     text: "比熊犬在兴奋时会通过在室内疯狂奔跑的“比熊时间（Bichon Blitz）”行为瞬间消耗剩余精力。这是本能的精力排解现象。此外，它们用前爪轻轻触碰家长手臂或膝盖的“前爪触碰（Paw Tap）”行为，则是寻求关注和请求玩耍的友好信号。"
-  - name: "比熊犬 (Bichon Frise)'s Body Language & Signals"
+  - name: "比熊犬 (Bichon Frise) 的肢体语言与行为信号"
     text: "* 比熊时间 (Bichon Blitz): 通过剧烈的运动快速释放体内积攒的剩余精力的本能玩耍请求行为。 (在奔跑通道的家具边角添加防撞包角，铺好防滑垫，静静等待其自然停止。)
 
 * 前爪触碰 (Paw Tap): 请求关注及寻求互动的比熊犬特有的友好、亲近的沟通方式。 (温柔地进行眼神交流并抚摸它们，或者通过简单的“坐下/握手”训练来补充其认知刺激。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "比熊犬 (Bichon Frise) 定制化 3 步家庭护理流程"
     text: "* STEP 1. 早晨：轻松的玩具追踪与拉扯游戏: 为了防止与室内家具或门框碰撞，早晨可以通过抖动柔软织物的拉扯玩具来慢慢消耗精力，促进其放松。
 
 * STEP 2. 中午：钢排梳与针梳交替的10分钟梳理训练: 为防止细密的卷毛团勒紧皮肤，喷洒理毛喷雾后，先用针梳梳开腹部和腿部内侧，再用钢排梳逐一确认有无缠结。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. 比熊犬 (Bichon Frise)'s Body Language & Signals
+## 2. 比熊犬 (Bichon Frise) 的肢体语言与行为信号
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -69,7 +69,7 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 通过剧烈的运动快速释放体内积攒的剩余精力的本能玩耍请求行为。<br/>
-    <strong>•  national:</strong> 在奔跑通道的家具边角添加防撞包角，铺好防滑垫，静静等待其自然停止。
+    <strong>• 应对:</strong> 在奔跑通道的家具边角添加防撞包角，铺好防滑垫，静静等待其自然停止。
   </p>
 </div>
 
@@ -80,13 +80,13 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 请求关注及寻求互动的比熊犬特有的友好、亲近的沟通方式。<br/>
-    <strong>•  national:</strong> 温柔地进行眼神交流并抚摸它们，或者通过简单的“坐下/握手”训练来补充其认知刺激。
+    <strong>• 应对:</strong> 温柔地进行眼神交流并抚摸它们，或者通过简单的“坐下/握手”训练来补充其认知刺激。
   </p>
 </div>
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. 比熊犬 (Bichon Frise) 定制化 3 步家庭护理流程
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

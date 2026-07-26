@@ -13,11 +13,11 @@ authority: "Guia oficial da Cat Fanciers' Association (CFA) e protocolos de comp
 steps:
   - name: "Linguagem corporal do Siamês: sinais de confiança e possessividade"
     text: "Os siameses mostram seu afeto de forma clara e interativa por meio de ricos sinais de calma. Os sinais típicos incluem o 'piscar lento' e o 'fregar de cabeça' (bunting). Fechar os olhos lentamente mantendo o contato visual é uma declaração de segurança absoluta; fechar os olhos na natureza é arriscado, o que prova que ele o considera inofensivo. Esfregar as bochechas contra sua mão é a forma deles de compartilhar feromônios reconfortantes e marcá-lo como sua pessoa de confiança."
-  - name: "Siamês (Siamese)'s Body Language & Signals"
+  - name: "Linguagem corporal e sinais de comportamento do Siamês (Siamese)"
     text: "* Piscar lento: Uma demonstração de completa segurança e profundo afeto, muitas vezes descrita como um beijo felino. (Olhe nos olhos dele e pisque lentamente de volta por 1,5 segundo para responder ao gesto.)
 
 * Esfregar de cabeça (Bunting): Uma ação que deixa seus feromônios faciais para marcá-lo como sua pessoa segura e confirmar o apego. (Acaricie o queixo ou as bochechas dele, permitindo-lhe trocar cheiros com carinho.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rotina diária de 3 passos para cuidados com Siamês (Siamese)"
     text: "* STEP 1. Manhã: Interação de 10 minutos de alto contato para ansiedade: Para aliviar a ansiedade de separação nesta raça sensível, passe 10 minutos acariciando o seu siamês sob a coberta logo após acordar, falando suavemente com ele.
 
 * STEP 2. Tarde: Jogos interativos e quebra-cabeças de comida: Mantenha-o ocupado durante o dia com quebra-cabeças de comida. Ao voltar para casa, dedique pelo menos 15 minutos a brincadeiras com varinha de penas para fazê-lo saltar.
@@ -60,7 +60,7 @@ Os gatos siameses, originários da realeza tailandesa, são elegantes felinos fa
 
 ---
 
-## 2. Siamês (Siamese)'s Body Language & Signals
+## 2. Linguagem corporal e sinais de comportamento do Siamês (Siamese)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Os gatos siameses, originários da realeza tailandesa, são elegantes felinos fa
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rotina diária de 3 passos para cuidados com Siamês (Siamese)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

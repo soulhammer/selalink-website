@@ -13,11 +13,11 @@ authority: "Yorkshire Terrier Club (YTC) Official Grooming Guide & Veterinary Or
 steps:
   - name: "Yorkie Body Language: Small Hunter Alerts and Expressions of Trust"
     text: "Despite their dainty size, Yorkies retain strong terrier guarding and hunting instincts. Pulling their ears flat back while holding their tail stiffly horizontal indicates tense alertness toward subtle external sounds. Conversely, rolling onto their back to expose their belly while paddling their paws in the air signals absolute psychological safety, trust, and a desire for affection."
-  - name: "Yorkshire Terrier's Body Language & Signals"
+  - name: "Yorkshire Terrier's Body Language & Behavioral Signals"
     text: "* Pinned Ears & Rigid Tail: An expression of tense alertness or defensive guarding in response to subtle external noises. (Refrain from picking them up abruptly. Call their name in a calm tone on floor level and redirect their focus with treats.)
 
 * Belly Show & Air Paddling: A state of complete psychological trust and safety, seeking affection and interaction. (Gently massage their chest and belly to foster a deep, reassuring bond.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Customized 3-Step Home Care Routine for Yorkshire Terrier"
     text: "* STEP 1. Morning: Conditioning Mist and Gentle Pin Brushing: Mist their coat with a moisturizing leave-in spray before brushing with a pin brush from root to tip to prevent hair breakage and static tangles.
 
 * STEP 2. Afternoon: Paw Pad Trimming and Non-Slip Mat Check: Trim hair growing between paw pads and inspect non-slip floor mats to prevent slipping on smooth floors, protecting their delicate patellas.
@@ -60,7 +60,7 @@ The Yorkshire Terrier, affectionately known as the 'Yorkie', packs a bold and sp
 
 ---
 
-## 2. Yorkshire Terrier's Body Language & Signals
+## 2. Yorkshire Terrier's Body Language & Behavioral Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ The Yorkshire Terrier, affectionately known as the 'Yorkie', packs a bold and sp
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Customized 3-Step Home Care Routine for Yorkshire Terrier
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

@@ -13,11 +13,11 @@ authority: "CFA 波斯猫品种指南与 AAFP 兽医学标准"
 steps:
   - name: "波斯猫的身体语言：眼与耳的无声信号"
     text: "波斯猫表达情感非常安静，因此很难察觉其压力状态。虽然它们在心情好时会用半眯着眼凝视 （Half-Closed Eyes） 的方式表达爱意，但如果出现双耳向两侧平躺的 “飞机耳（Airplane Ears）”，则是严重的拒绝或不适信号。在急躁地梳理其面部毛发或粗暴触碰眼周褶皱时，常常能看到这种身体动作。"
-  - name: "波斯猫 (Felis catus / Persian Cat)'s Body Language & Signals"
+  - name: "波斯猫 (Felis catus / Persian Cat) 的肢体语言与行为信号"
     text: "* 半眯着眼 (Half-Closed Eyes): 对家长深切的信任，以及表达对当前状态非常满意和放松的和平信息。 (通过缓慢眨眼（猫咪式眼部问候）进行回应，并用温柔的声音回应这份信任。)
 
 * 飞机耳 (Airplane Ears): 因过度梳理拉扯毛根引起疼痛，或因周围噪音感到紧张、敏感的不适表达。 (应立即停止梳毛或触碰，给猫咪留出空间，让其在没有噪音的地方恢复平静。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "波斯猫 (Felis catus / Persian Cat) 定制化 3 步家庭护理流程"
     text: "* STEP 1. 早晨：扁脸眼鼻褶皱清洁与泪痕擦拭: 在早晨易流泪的时间段，使用温水浸湿的专用清洁液或无菌纱布轻轻擦拭鼻部周围的面部褶皱，以预防泪水引起的红色酵母菌皮肤炎。
 
 * STEP 2. 中午：排梳与针梳结合的长毛梳理: 对于容易缠结的腋下和腹部等区域，首先使用针梳将毛团梳开，再使用钢制排梳将整体毛发梳顺，以检查空气流通状态。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. 波斯猫 (Felis catus / Persian Cat)'s Body Language & Signals
+## 2. 波斯猫 (Felis catus / Persian Cat) 的肢体语言与行为信号
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -69,7 +69,7 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 对家长深切的信任，以及表达对当前状态非常满意和放松的和平信息。<br/>
-    <strong>•  national:</strong> 通过缓慢眨眼（猫咪式眼部问候）进行回应，并用温柔的声音回应这份信任。
+    <strong>• 应对:</strong> 通过缓慢眨眼（猫咪式眼部问候）进行回应，并用温柔的声音回应这份信任。
   </p>
 </div>
 
@@ -80,13 +80,13 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 因过度梳理拉扯毛根引起疼痛，或因周围噪音感到紧张、敏感的不适表达。<br/>
-    <strong>•  national:</strong> 应立即停止梳毛或触碰，给猫咪留出空间，让其在没有噪音的地方恢复平静。
+    <strong>• 应对:</strong> 应立即停止梳毛或触碰，给猫咪留出空间，让其在没有噪音的地方恢复平静。
   </p>
 </div>
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. 波斯猫 (Felis catus / Persian Cat) 定制化 3 步家庭护理流程
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

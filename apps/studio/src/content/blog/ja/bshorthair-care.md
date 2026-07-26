@@ -13,11 +13,11 @@ authority: "GCCFブリティッシュ・ショートヘア基準＆AAFP猫肥満
 steps:
   - name: "ブリティッシュ・ショートヘアのボディランゲージ：遠くからの目線と尻尾のサイン"
     text: "ブリティッシュ・ショートヘアは束縛的なスキンシップを嫌い、一定の距離を保ちながら保護者を見つめる「じっと見つめる（Soft Staring）」ことで安心感を示します。これは独立した関係を望みつつも信頼しているサインです。一方、不快な時は寝そべったまま尻尾の先で床を叩く「尻尾振り（Tail Swishing）」を見せます。この時に無理に抱き上げるとストレスが高まります。"
-  - name: "ブリティッシュ・ショートヘア (British Shorthair)'s Body Language & Signals"
+  - name: "ブリティッシュ・ショートヘア (British Shorthair)のボディランゲージと行動サイン"
     text: "* じっと見つめる (Soft Staring): 同じ空間にいるだけで幸せと安心感を感じているという、独立して成熟した愛の表現です。 (ゆっくり瞬きをして応え、無理に近づいて抱き上げず、静かに見守ってあげてください。)
 
 * 尻尾振り (Tail Swishing): 触り方や強さにストレスを感じており、中断を要求する拒否のサインです。 (すぐに触るのをやめ、猫が一人で落ち着けるよう物理的刺激を避けてください。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "ブリティッシュ・ショートヘア (British Shorthair)のための3ステップホームケアルーティン"
     text: "* STEP 1. 朝：精密デジタルスケールを使用したフード量の管理: 肥満による心臓肥大（HCM）を防ぐため、デジタル電子スケールで1日の必要摂取カロリーに合わせ正確に定量給与します。
 
 * STEP 2. 昼：短毛種用ラバーブラシによる抜け毛処理: 短毛種ですが密度の高い毛質なため、皮膚刺激の少ない専用ラバーブラシで5分間ブラッシングし、死毛を取り除きます。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. ブリティッシュ・ショートヘア (British Shorthair)'s Body Language & Signals
+## 2. ブリティッシュ・ショートヘア (British Shorthair)のボディランゲージと行動サイン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ faqs:
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. ブリティッシュ・ショートヘア (British Shorthair)のための3ステップホームケアルーティン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

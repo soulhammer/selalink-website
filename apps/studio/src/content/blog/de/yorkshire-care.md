@@ -13,11 +13,11 @@ authority: "Offizielle Fellpflege-Richtlinien des Yorkshire Terrier Club (YTC) &
 steps:
   - name: "Körpersprache des Yorkshire Terriers: Signale des kleinen Jägers und Vertrauensbeweise"
     text: "Trotz ihrer geringen Größe besitzen Yorkies ausgeprägte Wach- und Jagdinstinkte. Das flache Anlegen der Ohren nach hinten bei waagerecht versteifter Rute zeigt eine angespannte Alarmbereitschaft gegenüber Umgebungsgeräuschen. Wenn sie sich hingegen auf den Rücken rollen, den Bauch zeigen und mit den Pfoten strampeln, ist das ein Zeichen für tiefes Vertrauen und den Wunsch nach Zuwendung."
-  - name: "Yorkshire Terrier's Body Language & Signals"
+  - name: "Körpersprache und Verhaltenssignale von Yorkshire Terrier"
     text: "* Angelegte Ohren & steife Rute (Pinned Ears & Rigid Tail): Anspannung und Wachsamkeit als Reaktion auf feine Außengeräusche. (Heben Sie den Hund nicht plötzlich hoch. Rufen Sie ihn ruhig auf Augenhöhe und lenken Sie ihn mit Leckerlis ab.)
 
 * Bauch zeigen & Strampeln (Belly Show & Air Paddling): Gefühl absoluter Geborgenheit und Vertrauen, Bitte um Streicheleinheiten. (Kraulen Sie sanft Brust und Bauch, um eine tiefe Bindung zu festigen.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Maßgeschneiderte 3-Schritte-Tagesroutine für Yorkshire Terrier"
     text: "* STEP 1. Morgen: Feuchtigkeitsspray und sanftes Bürsten mit der Pin-Bürste: Sprühen Sie das Fell vor dem Bürsten mit Pflegespray ein und bürsten Sie es mit einer Pin-Bürste von der Wurzel bis zur Spitze.
 
 * STEP 2. Nachmittag: Pfotenballen stutzen und Anti-Rutsch-Matten prüfen: Schneiden Sie das Haar zwischen den Ballen und prüfen Sie rutschfeste Matten, um ein Ausrutschen auf glatten Böden zu verhindern.
@@ -60,7 +60,7 @@ Der Yorkshire Terrier, liebevoll 'Yorkie' genannt, vereint eine mutige Persönli
 
 ---
 
-## 2. Yorkshire Terrier's Body Language & Signals
+## 2. Körpersprache und Verhaltenssignale von Yorkshire Terrier
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Der Yorkshire Terrier, liebevoll 'Yorkie' genannt, vereint eine mutige Persönli
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Maßgeschneiderte 3-Schritte-Tagesroutine für Yorkshire Terrier
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

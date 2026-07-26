@@ -13,11 +13,11 @@ authority: "Directives du Bichon Frise Club of America et Normes de Santé Vét�
 steps:
   - name: "Langage corporel du Bichon Frisé : Bichon Blitz et recherche d'attention"
     text: "Sous le coup de l'excitation, le Bichon effectue le « Bichon Blitz » (courses folles en intérieur) pour brûler instantanément son surplus d'énergie. Il s'agit d'une décharge énergétique instinctive. De plus, tapoter le genou ou le bras de son maître avec sa patte (« tapotement de patte ») est un signal pacifique et affectueux pour demander de l'attention et du jeu."
-  - name: "Bichon Frisé (Bichon Frise)'s Body Language & Signals"
+  - name: "Langage corporel et signaux comportementaux du Bichon Frisé (Bichon Frise)"
     text: "* Bichon Blitz: Comportement de jeu instinctif visant à dépenser rapidement l'énergie résiduelle par une activité physique intense. (Installez des protections sur les angles des meubles le long de son parcours, posez des tapis antidérapants et attendez calmement qu'il s'arrête de lui-même.)
 
 * Tapotement de patte (Paw Tap): Moyen de communication pacifique et amical propre au Bichon Frisé pour solliciter de l'attention et de l'interaction. (Établissez un contact visuel doux avant de le caresser, ou proposez une séance rapide d'apprentissage (assis/donne la patte) pour stimuler son esprit.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Routine quotidienne en 3 étapes pour le soin du Bichon Frisé (Bichon Frise)"
     text: "* STEP 1. Matin : Jeu doux de lancer de jouet et traction modérée: Pour éviter les collisions avec les meubles ou les encadrements de portes, faites un jeu de traction doux le matin avec un doudou en tissu pour dépenser l'énergie progressivement.
 
 * STEP 2. Midi : Session de 10 minutes de brossage alternant carde et peigne métallique: Pour éviter que les frisotis serrés ne serrent la peau, vaporisez un spray démêlant, brossez le ventre et l'intérieur des pattes avec la carde, puis vérifiez méche par mèche au peigne métallique.
@@ -60,7 +60,7 @@ Le Bichon Frisé est célèbre pour son pelage cotonneux et sa joie de vivre int
 
 ---
 
-## 2. Bichon Frisé (Bichon Frise)'s Body Language & Signals
+## 2. Langage corporel et signaux comportementaux du Bichon Frisé (Bichon Frise)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Le Bichon Frisé est célèbre pour son pelage cotonneux et sa joie de vivre int
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Routine quotidienne en 3 étapes pour le soin du Bichon Frisé (Bichon Frise)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

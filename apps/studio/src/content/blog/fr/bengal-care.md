@@ -13,11 +13,11 @@ authority: "Standard de la race Bengal de The International Cat Association (TIC
 steps:
   - name: "Moyens d'expression du Bengal : gazouillis et mouvements de queue"
     text: "Le Bengal est un chat particulièrement expressif. Outre les miaulements habituels, il émet un son semblable à un chant d'oiseau, appelé « gazouillis » (Chirping), lorsqu'il réclame de l'attention ou s'ennuie. Déceler ces signaux ainsi que les frémissements rapides de sa queue permet de prévenir les comportements gênants causés par le stress."
-  - name: "Bengal (Prionailurus bengalensis × Felis catus)'s Body Language & Signals"
+  - name: "Langage corporel et signaux comportementaux du Bengal (Prionailurus bengalensis × Felis catus)"
     text: "* Gazouillis (Chirping) et miaulements puissants: Demande d'interaction directe indiquant que le chat s'ennuie et souhaite lancer une session de jeu physique ou mentale. (Ne l'ignorez pas et démarrez immédiatement un jeu de chasse avec un plumeau pour répondre à son besoin.)
 
 * Frémissements rapides de la queue et arrière-train relevé: État de forte excitation ou de concentration maximale sur une cible, témoignant d'un surplus d'énergie prêle à exploser. (Utilisez un pointeur laser ou un jouet automatique dans un grand espace pour lui faire dépenser sa fougue en toute sécurité.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Routine quotidienne en 3 étapes pour le soin du Bengal (Prionailurus bengalensis × Felis catus)"
     text: "* STEP 1. Matin : Séance de jeu de chasse interactive intense: Jouez pendant 15 minutes avec un plumeau ou une canne à pêche. Imitez les mouvements rapides d'une proie pour réveiller son instinct de chasseur.
 
 * STEP 2. Midi : Contrôle des parcours verticaux et poste d'observation: Adapté à son amour des hauteurs, vérifiez la stabilité des arbres à chat et étagères murales, et aménagez un accès à une fenêtre haute pour qu'il observe l'extérieur.
@@ -60,7 +60,7 @@ Le chat Bengal fascine par ses superbes rosettes semblables à celles d'un léop
 
 ---
 
-## 2. Bengal (Prionailurus bengalensis × Felis catus)'s Body Language & Signals
+## 2. Langage corporel et signaux comportementaux du Bengal (Prionailurus bengalensis × Felis catus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Le chat Bengal fascine par ses superbes rosettes semblables à celles d'un léop
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Routine quotidienne en 3 étapes pour le soin du Bengal (Prionailurus bengalensis × Felis catus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

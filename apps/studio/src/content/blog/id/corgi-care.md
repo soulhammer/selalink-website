@@ -13,11 +13,11 @@ authority: "Panduan Resmi Pembroke Welsh Corgi Club of America & Pedoman Kesehat
 steps:
   - name: "Bahasa Tubuh Corgi: Sinyal Tulang Belakang dan Emosi"
     text: "Karena Corgi memiliki ekor yang sangat pendek atau dipotong, mereka menggunakan seluruh tubuh dan pinggul untuk mengekspresikan emosi. Sinyal khas termasuk 'goyangan bokong' (Wiggle Butt) saat senang dan 'splooting' (meregangkan kaki belakang ke belakang) saat santai. Ekspresi fisik ini merupakan indikator kenyamanan sendi dan regulasi suhu. Pemilik dapat memantau tanda-tanda ini untuk mengevaluasi stres dan tingkat kelelahan."
-  - name: "Welsh Corgi (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "Bahasa Tubuh dan Sinyal Perilaku Welsh Corgi (Canis lupus familiaris)"
     text: "* Goyangan Bokong (Wiggle Butt): Keadaan sangat gembira dan kegembiraan positif yang diungkapkan oleh Corgi berekor pendek menggunakan seluruh tubuh bagian bawah. (Sambut mereka dengan penuh kasih sayang dan tenangkan mereka secara lembut agar tidak melompat ke sofa karena gembira.)
 
 * Splooting: Sinyal relaksasi untuk mendinginkan suhu tubuh di lantai yang dingin dan meredakan ketegangan sendi. (Mereka sedang beristirahat dengan nyaman. Jangan ganggu mereka dan pastikan lingkungan yang tenang.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutinitas Perawatan Harian 3 Langkah untuk Welsh Corgi (Canis lupus familiaris)"
     text: "* STEP 1. Pagi: Pemeriksaan Keamanan Keset Antiselip dan Peregangan Kaki Belakang 2 Menit: Karena punggung yang panjang membuat mereka rentan terhadap masalah diskus tulang belakang, amankan keset antiselip di dekat sofa dan tempat tidur, lalu lakukan peregangan sendi paha secara lembut.
 
 * STEP 2. Siang: Jalan Kaki 30 Menit di Medan Datar dengan Harness dan Nosework: Gunakan harness tubuh, bukan kalung leher untuk mengurangi ketegangan pada leher dan tulang belakang. Berjalanlah di tanah datar untuk menghindari tanjakan dan tangga.
@@ -60,7 +60,7 @@ Welsh Corgi adalah ras yang sangat dicintai karena kakinya yang pendek dan bagia
 
 ---
 
-## 2. Welsh Corgi (Canis lupus familiaris)'s Body Language & Signals
+## 2. Bahasa Tubuh dan Sinyal Perilaku Welsh Corgi (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Welsh Corgi adalah ras yang sangat dicintai karena kakinya yang pendek dan bagia
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutinitas Perawatan Harian 3 Langkah untuk Welsh Corgi (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

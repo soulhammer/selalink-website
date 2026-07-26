@@ -1,0 +1,516 @@
+{
+    "neon-tetra-care": {
+        "pubDate": "2026-02-28",
+        "updatedDate": "2026-07-26",
+        "locales": {
+            "ko": {
+                "title": "네온 테트라의 색상 탈색·군영 이탈 신호와 수질 관리를 위한 3단계 데일리 케어",
+                "description": "영롱한 열대어 네온 테트라(Neon Tetra). 네온 라인 탈색과 군영 이탈 신호 해석, 적정 수온(22°C~25°C)과 네온테트라병 예방을 위한 3단계 홈케어 루틴을 소개합니다.",
+                "authority": "국제관상어협회(OFI) 및 열대어 수의학 케어 프로토콜",
+                "profile": {
+                    "breed": "네온 테트라 (Neon Tetra / Paracheirodon innesi)",
+                    "lifespan": "5 ~ 8년",
+                    "sleep_pattern": "7 ~ 8시간 (조명 차단 후 수풀 사이에서 색상을 가두고 정지 휴식)",
+                    "temperament": "온순함, 평화로움, 강한 군영(Schooling) 본능, 수줍음"
+                },
+                "intro": "푸른색 네온 라인과 붉은빛의 대비가 아름다운 네온 테트라(Neon Tetra)는 관상어 수족관을 대표하는 소형 카라신과 열대어입니다. 무리를 지어 헤엄치는 군영(Schooling) 습성이 강해 최소 6~10마리 이상 무리로 사육해야 스트레스를 받지 않습니다. 네온 테트라는 수질 변화(pH, 암모니아 스파이크)와 급격한 수온 변화에 민감하며, 치료법이 없는 미포자충 감염병인 '네온테트라병(Neon Tetra Disease)'에 걸리기 쉽습니다. 오늘 PetSelf에서는 네온 테트라의 색상 변화와 행동 신호를 정확히 읽어내고 깨끗한 수질을 유지하는 3단계 데일리 케어 루틴을 전해드립니다.",
+                "whyTitle": "네온 테트라의 바디 랭귀지: 색상 탈색과 군영 이탈 (Isolation from School)",
+                "whyDesc": "네온 테트라는 붉은색과 푸른색의 선명도, 헤엄치는 무리의 대열로 수질 상태와 건강 신호를 알립니다. 야간 수면 외에 낮 동안 **'네온 라인의 색상이 하얗게 바래는 현상(Color Fading)'**은 급격한 수질 악화나 네온테트라병의 초기 증상입니다. 반면 무리에서 벗어나 수조 구석이나 수면 근처에 혼자 정지해 있는 **'군영 이탈(Isolation from School)'**은 체력 저하, 서열 밀림, 또는 감염병 진행을 나타내는 위험 신호입니다.",
+                "body_signals": [
+                    {
+                        "name": "네온 푸른 빛과 붉은색이 하얗게 바램 (Color Fading)",
+                        "meaning": "야간 수면 시 위장을 위한 자연스러운 변화이거나, 낮 동안 발생 시 pH 쇼크, 암모니아 중독, 네온테트라병의 대표 신호입니다.",
+                        "response": "조명을 켠 후에도 색이 돌아오지 않으면 수질 검사를 실시하고 감염 의심 개체는 즉시 격리 수조로 이동시킵니다."
+                    },
+                    {
+                        "name": "무리에서 떨어져 구석이나 바닥에 홀로 정지해 있음 (Isolation from School)",
+                        "meaning": "포식 위협에 대항하는 군영 본능을 상실할 만큼 면역력이 떨어졌거나 중증 질환이 진행 중인 상태입니다.",
+                        "response": "해당 개체의 척추 휨이나 피부 궤양 여부를 관찰하고, 필요 시 소금욕이나 격리 케어를 진행합니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 수온(22°C~25°C) 및 pH(6.0~7.0) 점검과 소량 미세 사료 급여",
+                        "text": "약산성~중성 수질을 확인하고, 1~2분 내에 완전히 먹을 수 있는 입자가 작은 테트라 전용 사료를 급여합니다."
+                    },
+                    {
+                        "name": "낮: 수풀 은신처 및 수류 모니터링",
+                        "text": "수초와 어두운 바닥재 환경을 조성하여 스트레스를 줄여주고, 몸집이 작은 네온 테트라가 밀리지 않도록 여과기 수류를 조절합니다."
+                    },
+                    {
+                        "name": "저녁: 잔여물 사이펀 제거 및 염소 제거된 물로 주간 부분 환수",
+                        "text": "바닥에 쌓인 잔여 사료를 제거하여 암모니아 부하를 줄이고, 주 1회 10~20% 염소 및 온도 맞춰진 부분 환수를 실시합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "네온 테트라의 몸 색깔이 자고 나면 빠져 있는데 병에 걸린 건가요?",
+                        "answer": "아닙니다. 네온 테트라는 밤에 조명이 꺼지고 수면을 취할 때 포식자의 눈을 피하기 위해 스스로 색소를 조절하여 몸을 투명하게 바래게 만듭니다. 조명을 켜고 20~30분이 지나 헤엄치기 시작하면 다시 선명한 네온빛이 돌아오는 것은 지극히 정상적인 생리 현상입니다."
+                    },
+                    {
+                        "question": "네온 테트라를 1~2마리만 키워도 되나요?",
+                        "answer": "절대 권장하지 않습니다. 네온 테트라는 야생에서 수백 마리씩 무리를 지어 자신을 보호하는 군영 성향이 매우 강합니다. 1~2마리만 키우면 극심한 불안감과 스트레스로 면역력이 떨어져 수명이 단축됩니다. 최소 6~10마리 이상 무리를 지어 키워야 안정감을 느끼고 아름다운 군영을 관찰할 수 있습니다."
+                    }
+                ],
+                "tags": [
+                    "네온테트라",
+                    "열대어케어",
+                    "군영어류",
+                    "수질관리"
+                ]
+            },
+            "en": {
+                "title": "Neon Tetra Color Fading, Isolation Signals, and 3-Step Daily Routine for Water Quality Care",
+                "description": "Care guide for the vibrant Neon Tetra. Interpret color fading and isolation from the school, maintain optimal water conditions (22°C–25°C), and prevent Neon Tetra Disease in 3 steps.",
+                "authority": "Ornamental Fish International (OFI) & Tropical Fish Veterinary Care Protocols",
+                "profile": {
+                    "breed": "Neon Tetra (Paracheirodon innesi)",
+                    "lifespan": "5 - 8 Years",
+                    "sleep_pattern": "7 - 8 Hours (Diminishes coloration for camouflage among plants after lights off)",
+                    "temperament": "Peaceful, Docile, Strong Schooling Instinct, Shy"
+                },
+                "intro": "Renowned for its striking blue neon stripe and vibrant red tail, the Neon Tetra (Paracheirodon innesi) is an iconic freshwater characin in the aquarium hobby. Possessing a strong natural schooling behavior, they must be kept in groups of at least 6 to 10 individuals to prevent severe stress. Neon Tetras are sensitive to sudden water parameter changes (pH shock, ammonia spikes) and are vulnerable to 'Neon Tetra Disease'—an incurable microsporidian parasitic infection. Today, PetSelf presents a 3-step daily care routine to read your Neon Tetra's color and behavioral signals and maintain a pristine aquarium environment.",
+                "whyTitle": "Neon Tetra Body Language: Color Fading and Isolation from the School",
+                "whyDesc": "Neon Tetras communicate health and water quality through the vividness of their stripes and their group cohesion. Apart from natural night sleeping, **'Color Fading'** during daytime hours is an early warning sign of rapid water degradation or Neon Tetra Disease. Conversely, **'Isolation from the School'**—staying immobile alone in tank corners or near the surface—indicates physical weakness, severe stress, or disease progression.",
+                "body_signals": [
+                    {
+                        "name": "Neon Blue & Red Stripes Turning Pale White (Color Fading)",
+                        "meaning": "A natural camouflage mechanism during sleep, but if seen during daytime, it signals pH shock, ammonia toxicity, or Neon Tetra Disease.",
+                        "response": "If vibrant color does not return 30 minutes after turning on lights, test water parameters and immediately isolate symptomatic fish."
+                    },
+                    {
+                        "name": "Separating from the School & Standing Still Alone (Isolation from the School)",
+                        "meaning": "A sign of severely weakened immunity or advanced illness causing loss of natural schooling instincts against predators.",
+                        "response": "Check the isolated fish for spinal curvature or skin cysts, and proceed with isolation or mild salt bath care if needed."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Water Temp (22°C–25°C) & pH (6.0–7.0) Check with Micro-Pellet Feeding",
+                        "text": "Verify slightly acidic to neutral water parameters and feed small micro-granules or crushed flakes that can be consumed within 1–2 minutes."
+                    },
+                    {
+                        "name": "Afternoon: Plant Hideout Maintenance & Filter Current Check",
+                        "text": "Provide live plants and dark substrate to reduce stress, adjusting filter flow so small tetras are not overwhelmed by strong currents."
+                    },
+                    {
+                        "name": "Evening: Substrate Waste Siphoning & Weekly Partial Water Change Routine",
+                        "text": "Siphon out uneaten food to reduce ammonia build-up, and perform a 10–20% partial water change weekly using dechlorinated water."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Why does my Neon Tetra look pale and faded after I turn the lights on in the morning?",
+                        "answer": "This is completely normal. Neon Tetras naturally suppress their skin pigments at night when sleeping to camouflage from predators. Within 20–30 minutes of swimming under tank light, their vivid blue and red neon stripes will fully return."
+                    },
+                    {
+                        "question": "Can I keep just 1 or 2 Neon Tetras in a tank?",
+                        "answer": "It is strongly discouraged. Neon Tetras are dedicated schooling fish that rely on large groups for safety. Keeping only 1 or 2 causes extreme anxiety and chronic stress, weakening their immune system and shortening their lifespan. Keep them in groups of 6 to 10 or more."
+                    }
+                ],
+                "tags": [
+                    "NeonTetra",
+                    "TropicalFishCare",
+                    "SchoolingFish",
+                    "WaterQuality"
+                ]
+            },
+            "ja": {
+                "title": "ネオンテトラの色褪せ・群泳離脱サインと水質管理のための3ステップデイリールーティン",
+                "description": "鮮やかな熱帯魚ネオンテトラ。ネオンラインの退色や群泳離脱サインの解読、適正水温(22°C〜25°C)とネオン病予防のための3ステップホームケアを紹介します。",
+                "authority": "国際観賞魚協会(OFI)および熱帯魚獣医ケアプロトコル",
+                "profile": {
+                    "breed": "ネオンテトラ (Neon Tetra / Paracheirodon innesi)",
+                    "lifespan": "5 〜 8年",
+                    "sleep_pattern": "7 〜 8時間 (消灯後、水草の間で体色を薄くして静止休息)",
+                    "temperament": "温厚、平和的、強い群泳(Schooling)本能、臆病"
+                },
+                "intro": "青いネオンラインと鮮やかな赤の対比が美しいネオンテトラ（Neon Tetra）は、観賞魚水槽を代表する小型カラシン科の熱帯魚です。群れをなして泳ぐ群泳（スクーリング）の習性が強いため、ストレスを防ぐには最低6〜10匹以上の群れで飼育する必要があります。ネオンテトラは水質変化（pHショックやアンモニアスパイク）や急激な水温変化に敏感で、治療法のない微胞子虫感染症「ネオン病（Neon Tetra Disease）」にかかりやすい傾向があります。本日PetSelfでは、ネオンテトラの体色変化とサインを読み解き、綺麗な水質を維持する3ステップルーティンをお届けします。",
+                "whyTitle": "ネオンテトラのボディランゲージ：色褪せと群泳離脱 (Isolation from School)",
+                "whyDesc": "ネオンテトラは赤と青の鮮やかさと群れの隊列で水質状態や健康サインを表します。夜間の睡眠時を除き、昼間に**「ネオンラインの色が白く褪せる現象（Color Fading）」**は、急激な水質悪化やネオン病の初期症状です。一方、群れから離れて水槽の隅や水面近くでぽつんと静止している**「群泳離脱（Isolation from School）」**は、体力低下や感染症の進行を示す危険サインです。",
+                "body_signals": [
+                    {
+                        "name": "ネオンブルーと赤色が白く褪せる (Color Fading)",
+                        "meaning": "夜間睡眠時の擬態による正常な変化、または昼間に発生した場合はpHショック、アンモニア中毒、ネオン病の代表サインです。",
+                        "response": "点灯後30分経っても色が戻らない場合は水質検査を行い、感染が疑われる個体はすぐに隔離水槽へ移動させます。"
+                    },
+                    {
+                        "name": "群れから離れて隅や底で1匹で静止している (Isolation from School)",
+                        "meaning": "外敵から身を守る群泳本能を失うほど免疫力が低下しているか、重篤な疾患が進行している状態です。",
+                        "response": "該当個体の背骨の曲がりや皮膚の潰瘍の有無を確認し、必要に応じて隔離ケアを行ってください。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：水温（22°C〜25°C）とpH（6.0〜7.0）の点検＆極小フードの給餌",
+                        "text": "弱酸性〜中性の水質を確認し、1〜2分で食べきれる口のサイズに合った専用フレークや小粒フードを与えます。"
+                    },
+                    {
+                        "name": "昼：水草の隠れ家とフィルター水流の確認",
+                        "text": "水草や暗めの底砂を配置してストレスを軽減し、体の小さなネオンテトラが流されないようフィルターの水流を調整します。"
+                    },
+                    {
+                        "name": "夜：底面の残餌掃除とカルキ抜きした水での定期換水",
+                        "text": "底に溜まった残餌を取り除いてアンモニアの発生を抑え、週1回10〜20%のカルキ抜き・温度合わせをした水で部分換水を行います。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "朝起きたらネオンテトラの色が抜けて白っぽくなっているのですが、病気でしょうか？",
+                        "answer": "いいえ、病気ではありません。ネオンテトラは夜間消灯して睡眠をとる際、天敵に見つからないよう自ら色素を抑えて体を透明近く変化させます。ライトを点灯して20〜30分経ち元気に泳ぎ始めれば、再び鮮やかなネオンカラーが戻る正常な生理現象です。"
+                    },
+                    {
+                        "question": "ネオンテトラを1〜2匹だけで飼育しても大丈夫ですか？",
+                        "answer": "おすすめできません。ネオンテトラは自然界で何百匹もの群れを作って身を守る群泳本能が非常に強い魚です。1〜2匹だけで飼育すると強い不安とストレスから免疫力が低下し、寿命を縮めてしまいます。安心して暮らせるよう、必ず6〜10匹以上の群れで飼育してください。"
+                    }
+                ],
+                "tags": [
+                    "ネオンテトラ",
+                    "熱帯魚ケア",
+                    "群泳魚",
+                    "水質管理"
+                ]
+            },
+            "zh": {
+                "title": "霓虹灯鱼（红绿灯鱼）体色褪色与脱群信号解读及水质护理的3步日常流程",
+                "description": "绚丽热带鱼霓虹灯鱼（Neon Tetra）护理指南。解读霓虹线条褪色与脱群信号，维持适宜水温（22°C~25°C）及预防霓虹灯鱼病的3步骤家庭护理。",
+                "authority": "国际观赏鱼协会 (OFI) 与热带鱼兽医护理标准",
+                "profile": {
+                    "breed": "霓虹灯鱼 / 红绿灯鱼 (Neon Tetra / Paracheirodon innesi)",
+                    "lifespan": "5 ~ 8年",
+                    "sleep_pattern": "7 ~ 8小时 (关灯后在水草间收敛体色并静止休息)",
+                    "temperament": "温和、和平、强烈的群游 (Schooling) 本能、胆小"
+                },
+                "intro": "拥有鲜艳蓝霓虹线条与红色尾部对比的霓虹灯鱼（红绿灯鱼）是观赏鱼水族箱中最具代表性的小型脂鲤科热带鱼。它们具有极强的集体群游（Schooling）习性，必须至少以6~10尾以上的数量成群饲养以消除紧张感。霓虹灯鱼对水质波动（pH值冲击、氨氮飙升）及水温剧变非常敏感，且易感染无法治愈的孢子虫疾病“霓虹灯鱼病（Neon Tetra Disease）”。今天 PetSelf 将带您准确解读霓虹灯鱼的体色与行为信号，并通过3步骤日常护理维护清澈的水质环境。",
+                "whyTitle": "霓虹灯鱼的肢体语言：体色褪色与脱群 (Isolation from School)",
+                "whyDesc": "霓虹灯鱼通过红蓝色泽的鲜艳度与游动队伍的紧密程度反映水质与健康状况。除了夜间睡眠的正常现象外，在白天出现**“霓虹线条发白褪色 (Color Fading)”**是水质急剧恶化或霓虹灯鱼病的早期前兆。相反，脱离群体独自缩在缸角或水面附近静止**“脱群 (Isolation from School)”**，则是体力衰竭或严重传染病的危险信号。",
+                "body_signals": [
+                    {
+                        "name": "蓝霓虹光泽与红色线条发白褪色 (Color Fading)",
+                        "meaning": "夜间睡眠伪装的正常现象；若发生在白天，则是 pH 冲击、氨氮中毒或霓虹灯鱼病的代表信号。",
+                        "response": "开灯30分钟后若体色仍未恢复，应检测水质并立即将疑似感染个体隔离。"
+                    },
+                    {
+                        "name": "脱离群体在角落或缸底独自静止 (Isolation from School)",
+                        "meaning": "免疫力极度低下，或重病导致其丧失抵御捕食者的群游本能。",
+                        "response": "观察该个体是否存在脊柱弯曲或皮肤溃疡，必要时进行隔离护理。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：水温（22°C~25°C）与 pH（6.0~7.0）检测及投喂微颗粒饲料",
+                        "text": "确认弱酸性至中性水质，投喂可在1~2分钟内吃完的适口微颗粒专用饲料。"
+                    },
+                    {
+                        "name": "中午：水草隐蔽处维护与水流监控",
+                        "text": "种植水草与铺设深色底砂以减轻压力，并调节过滤器出流，防止娇小的霓虹灯鱼被强水流冲走。"
+                    },
+                    {
+                        "name": "晚上：底砂残饵吸管清理与定期困水换水",
+                        "text": "清理沉底残饵以降低氨氮负荷，每周使用经过困水除氯且温差一致的水进行10%~20%的部分换水。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "早上开灯时发现霓虹灯鱼的颜色变浅发白，是生病了吗？",
+                        "answer": "不是生病。霓虹灯鱼在夜间关灯睡眠时，为了躲避捕食者，会自动收缩色素使身体变得半透明。开灯并开始游动20~30分钟后，鲜艳的霓虹色彩就会重新恢复，这是完全正常的生理现象。"
+                    },
+                    {
+                        "question": "可以只养1~2尾霓虹灯鱼吗？",
+                        "answer": "绝对不建议。霓虹灯鱼在野外依靠成百上千尾结队群游来获取安全感。仅饲养1~2尾会导致其处于极度焦虑与应激状态，大幅降低免疫力并缩短寿命。请务必保持6~10尾以上的数量成群饲养。"
+                    }
+                ],
+                "tags": [
+                    "霓虹灯鱼",
+                    "热带鱼护理",
+                    "群游鱼类",
+                    "水质管理"
+                ]
+            },
+            "es": {
+                "title": "Señales de decoloración y aislamiento en el Tetra Neón y rutina diaria de 3 pasos para el cuidado del agua",
+                "description": "Guía de cuidado para el vistoso Tetra Neón. Interprete la pérdida de color y el aislamiento del cardumen, mantenga el agua a 22°C–25°C y prevenga la enfermedad del tetra neón en 3 pasos.",
+                "authority": "Ornamental Fish International (OFI) y Protocolos de Cuidado Veterinario de Peces Tropicales",
+                "profile": {
+                    "breed": "Tetra Neón (Paracheirodon innesi)",
+                    "lifespan": "5 ~ 8 años",
+                    "sleep_pattern": "7 ~ 8 horas (Atenúa su color entre plantas tras apagar la luz)",
+                    "temperament": "Pacífico, Dócil, Fuerte instinto de cardumen, Asustadizo"
+                },
+                "intro": "Famoso por su llamativa franja azul neón y su cola roja intensa, el Tetra Neón (Paracheirodon innesi) es un pez carácido icónico en la acuarofilia. Poseen un fuerte instinto de nadar en grupo (cardumen), por lo que deben mantenerse en grupos de al menos 6 a 10 ejemplares para evitar el estrés. Los tetras neón son sensibles a los cambios bruscos en los parámetros del agua (shock de pH, picos de amoníaco) y son vulnerables a la 'Enfermedad del Tetra Neón', una infección parasitaria incurable. Hoy, PetSelf presenta una rutina de 3 pasos para interpretar sus señales y mantener el agua limpia.",
+                "whyTitle": "Lenguaje corporal del Tetra Neón: Decoloración y aislamiento del cardumen",
+                "whyDesc": "Los tetras neón comunican su salud y la calidad del agua mediante el brillo de sus rayas y la cohesión del grupo. Aparte del descanso nocturno, la **'Decoloración (Color Fading)'** durante el día es una señal de alerta temprana de degradación del agua o enfermedad. En cambio, el **'Aislamiento del cardumen'**—permanecer inmóvil y solo en las esquinas o la superficie—indica debilidad física, estrés o enfermedad avanzada.",
+                "body_signals": [
+                    {
+                        "name": "Franjas azul neón y roja que se vuelven blanquecinas (Color Fading)",
+                        "meaning": "Mecanismo natural de camuflaje nocturno; pero si ocurre de día, indica shock de pH, intoxicación por amoníaco o enfermedad del tetra neón.",
+                        "response": "Si el color no vuelve tras 30 minutos de encender la luz, analice los parámetros del agua e aísle a los peces sintomáticos."
+                    },
+                    {
+                        "name": "Separación del grupo e inmovilidad en solitario (Isolation from School)",
+                        "meaning": "Pérdida del instinto de cardumen debido a una inmunidad gravemente debilitada o enfermedad avanzada.",
+                        "response": "Examine si el pez presenta deformidad en la columna o quistes cutáneos, y páselo a un acuario hospital si es necesario."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Control de temperatura (22°C–25°C) y pH (6.0–7.0) con microalimento",
+                        "text": "Verifique el agua ligeramente ácida y alimente con microgránulos o hojuelas trituradas consumibles en 1-2 minutos."
+                    },
+                    {
+                        "name": "Tarde: Mantenimiento de refugios naturales y control de la corriente",
+                        "text": "Proporcione plantas naturales y sustrato oscuro para reducir el estrés, ajustando el filtro para que no arrastre a los tetras."
+                    },
+                    {
+                        "name": "Noche: Sifonado de desperdicios del fondo y cambio parcial de agua semanal",
+                        "text": "Sifone restos de comida para controlar el amoníaco y realice un cambio parcial de agua del 10-20% semanal con agua declorada."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Por qué mi Tetra Neón se ve pálido y decolorado por las mañanas?",
+                        "answer": "Es totalmente normal. Los tetras neón suprimen sus pigmentos por la noche al dormir para camuflarse de los depredadores. Tras 20-30 minutos de encender la luz del acuario, sus vibrantes colores volverán a la normalidad."
+                    },
+                    {
+                        "question": "¿Puedo tener solo 1 o 2 Tetras Neón en el acuario?",
+                        "answer": "No se recomienda en absoluto. Los tetras neón son peces de cardumen que necesitan estar en grupo para sentirse seguros. Mantener solo 1 o 2 genera ansiedad severa, debilitando su sistema inmune y reduciendo su esperanza de vida. Mantenga un grupo de al menos 6 a 10 ejemplares."
+                    }
+                ],
+                "tags": [
+                    "TetraNeon",
+                    "Acuarofilia",
+                    "PecesDeCardumen",
+                    "CalidadDelAgua"
+                ]
+            },
+            "fr": {
+                "title": "Décoloration et comportement d'isolement chez le Tétra Néon : Routine quotidienne en 3 étapes pour la qualité de l'eau",
+                "description": "Guide de soins pour le brillant Tétra Néon. Décryptez la perte de couleur et l'isolement du banc, maintenez une eau entre 22°C et 25°C et prévenez la maladie du néon en 3 étapes.",
+                "authority": "Ornamental Fish International (OFI) & Normes Vétérinaires pour Poissons Tropicaux",
+                "profile": {
+                    "breed": "Tétra Néon (Paracheirodon innesi)",
+                    "lifespan": "5 ~ 8 ans",
+                    "sleep_pattern": "7 ~ 8 heures (Atténue sa couleur parmi les plantes après extinction des feux)",
+                    "temperament": "Paisible, Docile, Fort instinct de banc, Craintif"
+                },
+                "intro": "Célèbre pour sa bande bleue néon éclatante et sa queue rouge vif, le Tétra Néon (Paracheirodon innesi) est un poisson characidé incontournable en aquariophilie. Possédant un fort instinct de nage en groupe (comportement de banc), ils doivent vivre en groupe d'au moins 6 à 10 individus pour éviter le stress. Les tétras néons sont très sensibles aux variations brusques des paramètres de l'eau (choc de pH, pic d'ammoniaque) et sont sujets à la 'Maladie du Néon', une infection parasitaire incurable. Aujourd'hui, PetSelf vous présente une routine en 3 étapes pour préserver leur santé.",
+                "whyTitle": "Langage corporel du Tétra Néon : Décoloration et isolement du banc",
+                "whyDesc": "Les tétras néons expriment leur état de santé et la qualité de l'eau par la vivacité de leurs couleurs et la cohésion du groupe. En dehors du repos nocturne, la **« Décoloration (Color Fading) »** pendant la journée est un signal d'alarme de dégradation de l'eau ou de maladie. En revanche, **« L'isolement du banc »**—rester immobile et seul dans un coin ou en surface—indique une faiblesse physique ou une maladie avancée.",
+                "body_signals": [
+                    {
+                        "name": "Rayures bleu néon et rouge devenant blanchâtres (Color Fading)",
+                        "meaning": "Camouflage naturel la nuit ; mais si cela survient de jour, c'est le signe d'un choc de pH, d'une toxicité ammoniacale ou de la maladie du néon.",
+                        "response": "Si la couleur ne revient pas 30 minutes après l'allumage, testez l'eau et isolez immédiatement les poissons atteints."
+                    },
+                    {
+                        "name": "Séparation du groupe et immobilité en solitaire (Isolation from School)",
+                        "meaning": "Perte de l'instinct de banc due à un affaiblissement immunitaire sévère ou à une maladie avancée.",
+                        "response": "Examinez si le poisson présente une déformation de la colonne ou des kystes cutanés, et placez-le en bac hôpital si besoin."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Contrôle de la température (22°C–25°C) et du pH (6.0–7.0) avec micro-nourriture",
+                        "text": "Vérifiez l'eau légèrement acide et donnez des micro-granulés ou paillettes broyées consommables en 1 à 2 minutes."
+                    },
+                    {
+                        "name": "Après-midi : Entretien des cachettes végétales et réglage du débit du filtre",
+                        "text": "Offrez des plantes vivantes et un sol sombre pour réduire le stress, et ajustez le filtre pour ne pas épuiser ces petits poissons."
+                    },
+                    {
+                        "name": "Soir : Siphonage des déchets du sol et changement d'eau partiel hebdomadaire",
+                        "text": "Aspirez les restes de nourriture pour limiter l'ammoniaque et réalisez un changement d'eau partiel de 10 à 20 % par semaine avec de l'eau déchlorée."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Pourquoi mon Tétra Néon semble-t-il pâle et décoloré au réveil le matin ?",
+                        "answer": "C'est un phénomène parfaitement naturel. Les tétras néons atténuent leurs pigments la nuit pendant leur sommeil pour se camoufler face aux prédateurs. Après 20 à 30 minutes de nage sous la lumière du bac, leurs couleurs vives réapparaissent."
+                    },
+                    {
+                        "question": "Puis-je maintenir seulement 1 ou 2 Tétras Néons dans mon aquarium ?",
+                        "answer": "C'est fortement déconseillé. Les tétras néons sont des poissons de banc qui ont besoin de leurs congénères pour se sentir en sécurité. En garder seulement 1 ou 2 provoque un stress intense, affaiblit leur système immunitaire et réduit leur espérance de vie. Maintenez-les toujours par groupe de 6 à 10 minimum."
+                    }
+                ],
+                "tags": [
+                    "TetraNeon",
+                    "Aquariophilie",
+                    "PoissonDeBanc",
+                    "QualiteDeLEau"
+                ]
+            },
+            "de": {
+                "title": "Farbverblassen und Schwarmauflösung beim Neonsalmler: Eine 3-Schritte-Tagesroutine zur Wasserpflege",
+                "description": "Pflegeanleitung für den schimmernden Neonsalmler (Neon Tetra). Verblassen der Neonstreifen und Isolation verstehen, Wassertemperatur (22 °C–25 °C) halten und Neonkrankheit vorbeugen.",
+                "authority": "Ornamental Fish International (OFI) & Tiermedizinische Standards für Tropenfische",
+                "profile": {
+                    "breed": "Neonsalmler / Neon Tetra (Paracheirodon innesi)",
+                    "lifespan": "5 ~ 8 Jahre",
+                    "sleep_pattern": "7 ~ 8 Stunden (Verblasst die Farben nachts zwischen Pflanzen zur Tarnung)",
+                    "temperament": "Friedlich, Sanftmütig, Starker Schwarmtrieb, Scheu"
+                },
+                "intro": "Bekannt für seinen leuchtend blauen Neonstreifen und das kräftige Rot am Hinterkörper, ist der Neonsalmler (Paracheirodon innesi) der Klassiker unter den Salmlern in der Aquaristik. Da sie ein ausgeprägtes Schwarmverhalten zeigen, sollten sie in Gruppen von mindestens 6 bis 10 Tieren gehalten werden, um Stress zu vermeiden. Neonsalmler reagieren empfindlich auf schwankende Wasserwerte (pH-Schock, Ammoniakspitzen) und sind anfällig für die unheilbare 'Neonkrankheit'. Heute zeigt PetSelf eine 3-Schritte-Routine zur Interpretation der Körpersprache und zur Pflege der Wasserqualität.",
+                "whyTitle": "Körpersprache des Neonsalmlers: Farbverblassen und Absondern vom Schwarm",
+                "whyDesc": "Neonsalmler drücken ihren Gesundheitszustand und die Wasserqualität durch die Leuchtkraft ihrer Streifen und ihren Schwarmzusammenhalt aus. Abgesehen von der Nachtruhe ist **'Farbverblassen (Color Fading)'** am Tag ein Frühwarnzeichen für schlechte Wasserwerte oder die Neonkrankheit. Das **'Absondern vom Schwarm'**—regloses Verharren in Ecken oder an der Oberfläche—deutet dagegen auf Schwäche oder Krankheit hin.",
+                "body_signals": [
+                    {
+                        "name": "Neonblaue und rote Streifen werden weißlich blass (Color Fading)",
+                        "meaning": "Natürliche Tarnung während des Schlafs; tritt dies tagsüber auf, deutet es auf pH-Schock, Ammoniakvergiftung oder Neonkrankheit hin.",
+                        "response": "Kehrt die Farbe 30 Minuten nach dem Einschalten des Lichts nicht zurück, testen Sie das Wasser und isolieren Sie auffällige Fische."
+                    },
+                    {
+                        "name": "Abtrennen vom Schwarm und einzelnes Verharren (Isolation from School)",
+                        "meaning": "Verlust des Schwarmtriebs durch stark geschwächtes Immunsystem oder fortgeschrittene Erkrankung.",
+                        "response": "Prüfen Sie den Fisch auf Wirbelsäulenverkrümmung oder Hautknötchen und setzen Sie ihn bei Bedarf in ein Quarantänebecken."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Wassertemperatur- (22 °C–25 °C) & pH-Prüfung (6.0–7.0) mit Mikrofutter",
+                        "text": "Prüfen Sie das leicht saure bis neutrale Wasser und füttern Sie feines Mikrogranulat oder zerriebenes Flockenfutter (in 1–2 Min. fressbar)."
+                    },
+                    {
+                        "name": "Mittag: Bepflanzung pflegen & Strömung im Becken kontrollieren",
+                        "text": "Sorgen Sie für echte Wasserpflanzen und dunklen Bodengrund zur Stressreduzierung; drosseln Sie die Filterströmung für die kleinen Fische."
+                    },
+                    {
+                        "name": "Abend: Mulm Absaugen am Boden & Wöchentlicher Teilwasserwechsel",
+                        "text": "Saugen Sie Futterreste ab, um Ammoniak zu vermeiden, und führen Sie wöchentlich einen 10–20%igen Teilwasserwechsel mit aufbereitetem Wasser durch."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Warum sieht mein Neonsalmler morgens nach dem Einschalten des Lichts blass aus?",
+                        "answer": "Das ist völlig normal. Neonsalmler regeln nachts im Schlaf ihre Pigmente herunter, um sich vor Fressfeinden zu tarnen. Etwa 20–30 Minuten nach dem Einschalten der Aquarienbeleuchtung kehren die leuchtenden Neonfarben vollständig zurück."
+                    },
+                    {
+                        "question": "Kann ich Neonsalmler auch nur zu zweit oder dritt halten?",
+                        "answer": "Davon wird dringend abgeraten. Neonsalmler sind ausgeprägte Schwarmfische, die die Gruppe zur Sicherheit brauchen. Die Haltung von nur 1–2 Tieren führt zu dauerhaftem Stress, schwächt das Immunsystem und verkürzt die Lebensdauer. Halten Sie immer mindestens 6 bis 10 Tiere."
+                    }
+                ],
+                "tags": [
+                    "Neonsalmler",
+                    "Aquaristik",
+                    "Schwarmfisch",
+                    "Wasserqualität"
+                ]
+            },
+            "pt": {
+                "title": "Sinais de desbotamento e isolamento no Tetra Neon e rotina diária de 3 passos para o cuidado da água",
+                "description": "Guia de cuidados para o brilhante Tetra Neon. Entenda o desbotamento das cores e o isolamento do cardume, mantenha a água entre 22°C e 25°C e previna a doença do tetra neon em 3 passos.",
+                "authority": "Ornamental Fish International (OFI) & Protocolos de Cuidados Veterinários com Peixes Tropicais",
+                "profile": {
+                    "breed": "Tetra Neon (Paracheirodon innesi)",
+                    "lifespan": "5 ~ 8 anos",
+                    "sleep_pattern": "7 ~ 8 horas (Suprime as cores entre plantas após apagar as luzes)",
+                    "temperament": "Pacífico, Dócil, Forte instinto de cardume, Tímido"
+                },
+                "intro": "Famoso por sua listra azul neon vibrante e cauda vermelha intensa, o Tetra Neon (Paracheirodon innesi) é um peixe caracídeo clássico no aquarismo. Possuindo um forte instinto de nadar em grupo (comportamento de cardume), eles devem ser mantidos em grupos de pelo menos 6 a 10 indivíduos para evitar o estresse. Os tetras neon são sensíveis a mudanças bruscas nos parâmetros da água (choque de pH, picos de amônia) e são suscetíveis à 'Doença do Tetra Neon', uma infecção parasitária incurável. Hoje, o PetSelf apresenta uma rotina de 3 passos para cuidar da água e da saúde do seu peixe.",
+                "whyTitle": "Linguagem corporal do Tetra Neon: Desbotamento e isolamento do cardume",
+                "whyDesc": "Os tetras neon comunicam sua saúde e a qualidade da água através do brilho de suas listras e da coesão do grupo. Além do descanso noturno, o **'Desbotamento das cores (Color Fading)'** durante o dia é um sinal de alerta de degradação da água ou doença. Por outro lado, o **'Isolamento do cardume'**—permanecer imóvel e sozinho nos cantos ou na superfície—indica fraqueza física ou doença avançada.",
+                "body_signals": [
+                    {
+                        "name": "Listras azul neon e vermelha ficando esbranquiçadas (Color Fading)",
+                        "meaning": "Mecanismo natural de camuflagem noturna; porém, se ocorrer de dia, indica choque de pH, toxicidade por amônia ou doença do tetra neon.",
+                        "response": "Se a cor não retornar após 30 minutos de luz acesa, teste os parâmetros da água e isole os peixes afetados."
+                    },
+                    {
+                        "name": "Separação do grupo e imobilidade em solitário (Isolation from School)",
+                        "meaning": "Perda do instinto de cardume por imunidade gravemente enfraquecida ou doença infecciosa avançada.",
+                        "response": "Observe se o peixe apresenta deformação na coluna ou cistos na pele e transfira-o para um aquário hospital se necessário."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Checagem da temperatura (22°C–25°C) e pH (6.0–7.0) com microalimentação",
+                        "text": "Verifique a água ligeiramente ácida e ofereça microgrânulos ou flocos triturados consumíveis em 1 a 2 minutos."
+                    },
+                    {
+                        "name": "Tarde: Manutenção de plantas vegetais e controle do fluxo do filtro",
+                        "text": "Ofereça plantas naturais e substrato escuro para reduzir o estresse, ajustando o filtro para não arrastar os peixes."
+                    },
+                    {
+                        "name": "Noite: Sifonagem de dejetos do fundo e troca parcial de água semanal",
+                        "text": "Sifone restos de ração para evitar amônia e faça uma troca parcial de água de 10 a 20% semanalmente com água desclorada."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Por que meu Tetra Neon acorda pálido e desbotado pela manhã?",
+                        "answer": "Isso é totalmente normal. Os tetras neon reduzem seus pigmentos à noite durante o sono para se camuflarem dos predadores. Após 20 a 30 minutos de luz acesa no aquário, suas cores néon voltarão ao normal."
+                    },
+                    {
+                        "question": "Posso manter apenas 1 ou 2 Tetras Neon no aquário?",
+                        "answer": "Não é recomendado. Os tetras neon dependem do grupo para se sentirem seguros. Manter apenas 1 ou 2 causa estresse severo e ansiedade, enfraquecendo o sistema imunológico e encurtando a vida do peixe. Mantenha um cardume de no mínimo 6 a 10 indivíduos."
+                    }
+                ],
+                "tags": [
+                    "TetraNeon",
+                    "Aquarismo",
+                    "PeixesDeCardume",
+                    "QualidadeDaAgua"
+                ]
+            },
+            "id": {
+                "title": "Sinyal Pemudaran Warna dan Isolasi Diri pada Neon Tetra: Rutinitas Harian 3 Langkah Perawatan Air",
+                "description": "Panduan perawatan ikan Neon Tetra yang indah. Pahami pemudaran garis neon dan pemisahan dari kelompok, jaga suhu air (22°C–25°C), serta cegah penyakit Neon Tetra dalam 3 langkah.",
+                "authority": "Ornamental Fish International (OFI) & Standar Perawatan Medis Dokter Hewan Ikan Tropis",
+                "profile": {
+                    "breed": "Neon Tetra (Paracheirodon innesi)",
+                    "lifespan": "5 ~ 8 tahun",
+                    "sleep_pattern": "7 ~ 8 jam (Pucat untuk berkamuflase di antara tanaman saat malam)",
+                    "temperament": "Damai, Jinak, Naluri bergerombol (Schooling) sangat kuat, Pemalu"
+                },
+                "intro": "Terkenal dengan garis biru neon yang menyala dan warna merah cerah di bagian ekor, Neon Tetra (Paracheirodon innesi) adalah ikan hias air tawar yang sangat populer. Memiliki naluri bergerombol (schooling) yang kuat, mereka wajib dipelihara dalam kelompok minimal 6 hingga 10 ekor untuk mencegah stres. Neon Tetra sangat sensitif terhadap perubahan parameter air yang mendadak (syok pH, lonjakan amonia) dan rentan terhadap 'Penyakit Neon Tetra'—infeksi parasit mikrosporidia yang tidak dapat disembuhkan. Hari ini, PetSelf membagikan 3 langkah rutinitas harian untuk merawat kualitas air dan kesehatan Neon Tetra Anda.",
+                "whyTitle": "Bahasa Tubuh Neon Tetra: Warna Pucat Memudar dan Memisahkan Diri dari Kelompok",
+                "whyDesc": "Neon Tetra menyampaikan kondisi kesehatan dan kualitas air melalui kecerahan garis warna dan kekompakan kelompok mereka. Selain istirahat malam hari, **'Warna Memudar (Color Fading)'** pada siang hari adalah sinyal peringatan dini dari penurunan kualitas air atau gejala awal Penyakit Neon Tetra. Sebaliknya, **'Memisahkan Diri dari Kelompok'**—berdiam diri sendirian di sudut akuarium atau dekat permukaan—menandakan kondisi fisik yang lemah atau penyakit parah.",
+                "body_signals": [
+                    {
+                        "name": "Garis Biru Neon dan Merah Memudar Menjadi Pucat (Color Fading)",
+                        "meaning": "Mekanisme kamuflase alami saat tidur malam; namun jika terjadi pada siang hari, menandakan syok pH, keracunan amonia, atau Penyakit Neon Tetra.",
+                        "response": "Jika warna tidak kembali dalam 30 menit setelah lampu dinyalakan, periksa air dan segera isolasi ikan yang menunjukkan gejala."
+                    },
+                    {
+                        "name": "Memisahkan Diri dari Kelompok & Diam Sendirian (Isolation from School)",
+                        "meaning": "Kehilangan naluri bergerombol akibat daya tahan tubuh yang sangat lemah atau perkembangan penyakit parah.",
+                        "response": "Periksa apakah ada kelainan tulang belakang atau bintik putih pada kulit ikan, lalu lakukan perawatan di akuarium karantina."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Pemeriksaan Suhu (22°C–25°C) & pH (6.0–7.0) dengan Pemberian Pakan Mikro",
+                        "text": "Pastikan air agak asam hingga netral, dan berikan pakan mikro pelet atau serpihan halus yang habis dalam 1–2 menit."
+                    },
+                    {
+                        "name": "Siang: Pemeliharaan Tanaman Pelindung & Pengaturan Arus Filter",
+                        "text": "Sediakan tanaman hidup dan substrat gelap untuk mengurangi stres, serta atur arus filter agar ikan kecil tidak terseret arus deras."
+                    },
+                    {
+                        "name": "Malam: Penyiphonan Kotoran Dasar & Penggantian Air Sebagian Mingguan",
+                        "text": "Siphon sisa pakan untuk mencegah amonia, dan lakukan penggantian air sebagian 10–20% setiap minggu dengan air yang sudah diendapkan."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mengapa Neon Tetra saya terlihat pucat saat lampu baru dinyalakan di pagi hari?",
+                        "answer": "Hal ini sangat normal. Neon Tetra secara alami menekan pigmen warna mereka saat tidur malam hari untuk berkamuflase dari predator. Dalam waktu 20–30 menit setelah berenang di bawah cahaya lampu, warna biru dan merah neon yang cerah akan kembali."
+                    },
+                    {
+                        "question": "Bolehkah saya hanya memelihara 1 atau 2 ekor Neon Tetra di akuarium?",
+                        "answer": "Sangat tidak disarankan. Neon Tetra adalah ikan bergerombol yang membutuhkan kelompok besar untuk merasa aman. Memelihara hanya 1 atau 2 ekor menyebabkan stres dan kecemasan berat, menurunkan kekebalan tubuh, dan memperpendek usianya. Peliharalah dalam kelompok minimal 6 hingga 10 ekor atau lebih."
+                    }
+                ],
+                "tags": [
+                    "NeonTetra",
+                    "Akuaristik",
+                    "IkanBergerombol",
+                    "KualitasAir"
+                ]
+            }
+        },
+        "category": "CareSelf",
+        "app": "careself",
+        "formatVersion": 4,
+        "heroImage": "/images/blog/neon_tetra_care.webp"
+    }
+}

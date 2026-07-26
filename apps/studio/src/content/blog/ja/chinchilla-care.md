@@ -13,11 +13,11 @@ authority: "特種動物獣医師会(AEMV) チンチラ飼育ガイドライン�
 steps:
   - name: "チンチラのボディランゲージ：よだれと熱中症の初期サイン"
     text: "チンチラが口元の毛を湿らせる「よだれと牧草の吐き出し」を見せる場合、深刻な歯の不正咬合のサインです。体を完全に横たえて荒い息をする「横たわりの呼吸」は、熱中症の直前状態を意味します。"
-  - name: "チンチラ (Chinchilla lanigera)'s Body Language & Signals"
+  - name: "チンチラ (Chinchilla lanigera)のボディランゲージと行動サイン"
     text: "* よだれと食べこぼし (Drooling): 不正咬合で伸びた歯が上顎や頬の内側を刺し、唾液を飲み込めず咀嚼が遮断された激痛の状態です。 (直ちにエキゾチックアニマル専門の動物病院を受診し、歯科用トリミング機器で伸びた歯を削る治療を受けてください。)
 
 * 横たわって荒い呼吸をする: 室温が高すぎて体温が急上昇し、ぐったりして気道が拡張した危険な熱ストレス状態です。 (すぐにエアコンを稼働させて室温を20℃以下に下げ、冷たい大理石プレートやタオルで巻いた保冷剤をケージ内に入れてください。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "チンチラ (Chinchilla lanigera)のための3ステップホームケアルーティン"
     text: "* STEP 1. 朝：粗い繊維質のチモシー牧草を無制限給与: 歯が伸び続けるのを防ぐため、繊維質が豊富で粗いチモシー牧草を常に提供し、噛む過程で歯を自然摩耗させます。
 
 * STEP 2. 昼：年間を通じた熱中症予防の室温・湿度管理: 年中を通じて室温18〜21℃、湿度40〜50%以下を維持するようエアコンと除湿機を稼働させ、快適な高山気候を整えます。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. チンチラ (Chinchilla lanigera)'s Body Language & Signals
+## 2. チンチラ (Chinchilla lanigera)のボディランゲージと行動サイン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ faqs:
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. チンチラ (Chinchilla lanigera)のための3ステップホームケアルーティン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

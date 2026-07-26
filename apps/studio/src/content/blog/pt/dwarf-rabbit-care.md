@@ -13,11 +13,11 @@ authority: "Diretrizes Médicas da House Rabbit Society e Padrões Veterinários
 steps:
   - name: "Expressão emocional do coelho anão: Pancadas de patas e ranger de dentes"
     text: "Os coelhos anões de Holanda batem as suas patas traseiras com força contra o chão 'Pancadas de patas traseiras (Thumping)' para advertir de um perigo ou expressar frustração e raiva profundas. Pelo contrário, quando estão relaxados e felizes, rangem ligeiramente os dentes produzindo um suave som de clique chamado 'Ranger de dentes (Teeth Purring)'. Reconhecer estes sinais assegura uma ligação feliz e saudável."
-  - name: "Coelho Anão de Holanda (Oryctolagus cuniculus)'s Body Language & Signals"
+  - name: "Linguagem corporal e sinais de comportamento do Coelho Anão de Holanda (Oryctolagus cuniculus)"
     text: "* Pancadas de patas traseiras (Thumping): Uma advertência firme para notificar perigo a outros ou expressar raiva, stresse e recusa severos. (Identifique o fator de stresse, bloqueie ruídos repentinos ou outros animais de estimação, e observe em silêncio a uma distância segura.)
 
 * Ranger de dentes (Teeth Purring): Um sinal de alegria e segurança, semelhante ao ronronar de um gato, que muitas vezes se percebe durante as carícias. (Massageie suavemente a testa e a base das orelhas para aprofundar a ligação emocional.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rotina diária de 3 passos para cuidados com Coelho Anão de Holanda (Oryctolagus cuniculus)"
     text: "* STEP 1. Manhã: Fornecimento de feno Timothy alto em fibra e água fresca: Para o desgaste dos dentes e uma digestão ativa, encha o comedouro com feno Timothy fresco e livre de pó logo pela manhã, e limpe a taça de água.
 
 * STEP 2. Tarde: Limpeza da caixa de areia e inspeção de pododermatite: Limpe a caixa de areia para manter a higiene, e verifique as suas almofadinhas e tapetes para prevenir a pododermatite (sore hocks) causada por pisos escorregadios ou duros.
@@ -60,7 +60,7 @@ Com orelhas minúsculas e um corpo redondo e compacto, o coelho anão de Holanda
 
 ---
 
-## 2. Coelho Anão de Holanda (Oryctolagus cuniculus)'s Body Language & Signals
+## 2. Linguagem corporal e sinais de comportamento do Coelho Anão de Holanda (Oryctolagus cuniculus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Com orelhas minúsculas e um corpo redondo e compacto, o coelho anão de Holanda
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rotina diária de 3 passos para cuidados com Coelho Anão de Holanda (Oryctolagus cuniculus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

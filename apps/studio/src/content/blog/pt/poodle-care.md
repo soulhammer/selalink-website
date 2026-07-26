@@ -13,11 +13,11 @@ authority: "Guia Oficial de Raças do American Kennel Club (AKC) e Protocolos de
 steps:
   - name: "Linguagem corporal do poodle: Distinguindo exigência de estresse"
     text: "Devido à sua inteligência, os poodles comunicam-se ativamente por meio da linguagem corporal. Os sinais típicos incluem 'levantar a pata' (Paw Raising) e 'piscar suavemente' (Soft Blinking). Quando um poodle levanta uma pata dianteira, parece um pedido de carinho, mas muitas vezes é uma mensagem dizendo 'dê-me atenção' ou um sinal de calma que significa 'estou um pouco tenso, por favor, seja gentil'. Olhar suavemente e piscar lentamente é sua forma de mostrar carinho."
-  - name: "Poodle (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "Linguagem corporal e sinais de comportamento do Poodle (Canis lupus familiaris)"
     text: "* Levantar a pata (Paw Raising): Uma expressão que busca atenção ou tenta acalmar uma leve tensão ou ansiedade. (Se notar, evite dar ordens enérgicas. Fale em um tom calmo e acaricie-o suavemente.)
 
 * Piscar suavemente (Soft Blinking): Um sinal de profunda confiança e carinho, confirmando que se sentem seguros com você. (Quando se olharem, pisque de volta lentamente para compartilhar e reforçar essa sensação de paz.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rotina diária de 3 passos para cuidados com Poodle (Canis lupus familiaris)"
     text: "* STEP 1. Manhã: Alívio cognitivo com brinquedos inteligentes: Além dos passeios físicos, use comedouros interativos ou tapetes de faro para estimular sua mente ativa, ajudando a canalizar o excesso de energia.
 
 * STEP 2. Tarde: Verificação das orelhas e massagem suave de limpeza: Coloque 2 a 3 gotas de limpador de orelha no canal, massageie suavemente a base da orelha e limpe a cera dissolvida com um algodão para evitar otites.
@@ -60,7 +60,7 @@ Os poodles são reconhecidos como uma das raças de cães mais inteligentes do m
 
 ---
 
-## 2. Poodle (Canis lupus familiaris)'s Body Language & Signals
+## 2. Linguagem corporal e sinais de comportamento do Poodle (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Os poodles são reconhecidos como uma das raças de cães mais inteligentes do m
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rotina diária de 3 passos para cuidados com Poodle (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

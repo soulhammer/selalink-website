@@ -13,11 +13,11 @@ authority: "Pautas de Asoleamiento de la World Chelonian Association y Protocolo
 steps:
   - name: "Señales de asoleamiento del galápago almizclado y defensa de retracción del caparazón"
     text: "Los galápagos almizclados comunes estiran sus patas traseras hacia atrás mientras se asolean 'Estiramiento de patas traseras' (Back-Leg Stretching) para maximizar la absorción de luz cuando están en total calma. Por el contrario, al detectar amenazas o vibraciones, retraen su cabeza y extremidades en su caparazón duro 'Retracción del caparazón' (Shell Retraction) para defenderse."
-  - name: "Galápago Almizclado Común (Sternotherus odoratus / Common Musk Turtle)'s Body Language & Signals"
+  - name: "Lenguaje corporal y señales de conducta de Galápago Almizclado Común (Sternotherus odoratus / Common Musk Turtle)"
     text: "* Estiramiento de patas traseras (Back-Leg Stretching): Un estado relajado bajo la lámpara UV, estirando las extremidades para absorber calor y secar la piel. (Evite asustarlos para que no salten de regreso al agua. Monitoree la temperatura de la lámpara desde una distancia.)
 
 * Retracción de cabeza y extremidades (Shell Retraction): Un estado de vigilancia, sobresaltado por sombras, movimiento superior o vibraciones. (Evite movimientos bruscos frente al acuario y retroceda hasta que se sientan seguros de mirar hacia afuera.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutina diaria de 3 pasos para el cuidado de Galápago Almizclado Común (Sternotherus odoratus / Common Musk Turtle)"
     text: "* STEP 1. Mañana: Control de temperatura del agua (25-28 °C) y alimentación equilibrada: Verifique el termómetro del agua (mantener a 25-28 °C) para activar el metabolismo y alimente con pellets comerciales de alta calidad adecuados para su edad.
 
 * STEP 2. Tarde: Verificación de la lámpara de asoleamiento y bombillas UV-B: Verifique si las lámparas de calor UV-B y de asoleamiento funcionan correctamente para evitar la enfermedad metabólica ósea (MBD).
@@ -60,7 +60,7 @@ El galápago almizclado común de tamaño compacto es ideal para principiantes p
 
 ---
 
-## 2. Galápago Almizclado Común (Sternotherus odoratus / Common Musk Turtle)'s Body Language & Signals
+## 2. Lenguaje corporal y señales de conducta de Galápago Almizclado Común (Sternotherus odoratus / Common Musk Turtle)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ El galápago almizclado común de tamaño compacto es ideal para principiantes p
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutina diaria de 3 pasos para el cuidado de Galápago Almizclado Común (Sternotherus odoratus / Common Musk Turtle)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

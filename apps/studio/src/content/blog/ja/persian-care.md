@@ -13,11 +13,11 @@ authority: "CFAペルシアン種族ガイド＆AAFP猫臨床獣医学指針"
 steps:
   - name: "ペルシアンのボディランゲージ：目と耳の静かなシグナル"
     text: "ペルシアンは感情を静かに表現するため、ストレスに気づきにくいです。愛しい時は目を細めて見つめる「半目のサイン（Half-Closed Eyes）」を出しますが、耳が横に倒れる「イカ耳（Airplane Ears）」は不快感や明確な拒否のサインです。顔まわりのブラッシングを急いだり、シワを荒く触った時にこのサインが現れます。"
-  - name: "ペルシアン猫 (Felis catus / Persian Cat)'s Body Language & Signals"
+  - name: "ペルシアン猫 (Felis catus / Persian Cat)のボディランゲージと行動サイン"
     text: "* 半目のサイン (Half-Closed Eyes): 飼い主への深い信頼と、現在の環境に大満足してリラックスしているという平和なメッセージです。 (目をゆっくり閉じて開ける（キャットアイ・ブリンク）で返し、優しい声で応えてあげてください。)
 
 * イカ耳 (Airplane Ears): ブラッシングで毛根が引っ張られて痛むか、周囲の騒音に緊張している不快感の表れです。 (すぐにブラッシングや接触を中止し、静かな場所で落ち着くまで距離を置いてください。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "ペルシアン猫 (Felis catus / Persian Cat)のための3ステップホームケアルーティン"
     text: "* STEP 1. 朝：顔のシワの洗浄と涙やけの拭き取り: 涙が出やすい朝に、専用の洗浄液か滅菌ガーゼで目の周りや鼻のシワを拭き取り、赤みや赤酵母皮膚炎を予防します。
 
 * STEP 2. 昼：コームとスリッカーを併用した長毛ブラッシング: もつれやすい脇や腹の毛をスリッカーでほぐした後、スチールコームで毛並みを整え、風通しが良い状態を確認します。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. ペルシアン猫 (Felis catus / Persian Cat)'s Body Language & Signals
+## 2. ペルシアン猫 (Felis catus / Persian Cat)のボディランゲージと行動サイン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ faqs:
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. ペルシアン猫 (Felis catus / Persian Cat)のための3ステップホームケアルーティン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

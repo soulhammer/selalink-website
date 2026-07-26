@@ -13,11 +13,11 @@ authority: "Pautas de dermatología de la ISFM (International Society of Feline 
 steps:
   - name: "Lenguaje corporal del Sphynx: búsqueda de calor y señales de afecto profundo"
     text: "Los gatos Sphynx son muy sensibles al frío, por lo que buscan activamente el calor acurrucándose contra su cuello, regazo o bajo las mantas. Acurrucarse junto a su piel o ronronear sobre sus piernas no solo demuestra un afecto profundo, sino también una necesidad práctica de compartir calor corporal. Si nota su piel fría o lo ve acurrucado apretadamente, regule de inmediato la temperatura ambiental."
-  - name: "Gato Sphynx (Sphynx Cat)'s Body Language & Signals"
+  - name: "Lenguaje corporal y señales de conducta de Gato Sphynx (Sphynx Cat)"
     text: "* Búsqueda de calor (acurrucarse en la piel o fuentes térmicas): Indica que el aire ambiente está frío y que su temperatura corporal está bajando, pidiendo calor. (Ajuste la temperatura ambiente a 22–26°C, póngale ropa de algodón suave y proporciónele una manta térmica o cama cueva protegida.)
 
 * Entrecerrar los ojos y ronronear: Un estado de profunda satisfacción física, confort térmico y confianza absoluta en el dueño. (Acaricie suavemente su cuerpo tibio y permítale descansar cómodamente a su lado.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutina diaria de 3 pasos para el cuidado de Gato Sphynx (Sphynx Cat)"
     text: "* STEP 1. Mañana: Limpieza suave de pliegues con paño tibio: Limpie el sebo marrón acumulado en el cuello, pliegues y patas con una toalla húmeda tibia o toallita suave para prevenir puntos negros e infecciones cutáneas.
 
 * STEP 2. Tarde: Protección solar para evitar daños por rayos UV: La piel sin pelo expuesta al sol directo sufre fácilmente quemaduras solares (dermatitis solar). Ajuste cortinas o persianas para bloquear la luz solar intensa.
@@ -60,7 +60,7 @@ El gato Sphynx es una raza única y fascinante nacida sin el pelaje tradicional 
 
 ---
 
-## 2. Gato Sphynx (Sphynx Cat)'s Body Language & Signals
+## 2. Lenguaje corporal y señales de conducta de Gato Sphynx (Sphynx Cat)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ El gato Sphynx es una raza única y fascinante nacida sin el pelaje tradicional 
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutina diaria de 3 pasos para el cuidado de Gato Sphynx (Sphynx Cat)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

@@ -13,11 +13,11 @@ authority: "美国养犬俱乐部 (AKC) 腊肠犬健康指南与兽医脊椎协�
 steps:
   - name: "腊肠犬的脊椎警告信号：站立与异常伸展"
     text: "当腊肠犬脊椎负担过重或感到疼痛时，会通过细微的动作来表达。两足站立的“拜拜姿势” 虽然可爱，但会将极极大的重量负荷压在腰椎上，是非常危险的信号。此外，拱背或脖子僵硬伸直也是椎间盘突出早期的疼痛征兆，需要尽快采取措施。"
-  - name: "腊肠犬 (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "腊肠犬 (Canis lupus familiaris) 的肢体语言与行为信号"
     text: "* 双足站立 (拜拜姿势): 会对腰椎施加强烈压迫的姿势，通常是为了索要食物或引起主人的注意。 (应立即温柔制止该动作，并在家具旁安装专用的宠物斜坡，防止其剧烈跳跃。)
 
 * 拱背与颈部伸展: 因脊椎疼痛或早期椎间盘神经受压导致身体僵硬、忍受痛苦的防护姿势。 (必须立即限制其活动，抱起时应同时托住胸部与臀部以保持脊椎水平，并及时就医。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "腊肠犬 (Canis lupus familiaris) 定制化 3 步家庭护理流程"
     text: "* STEP 1. 早上：检查晨间关节状态与轻柔按摩: 开始活动前观察步态是否僵硬，沿着脊椎线轻轻按摩，检测是否有疼痛反应。
 
 * STEP 2. 中午：维护安全的无障碍生活环境与保持水平: 检查床和沙发旁的宠物斜坡角度及防滑状态。在楼梯口安装安全门，封锁楼梯通道。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. 腊肠犬 (Canis lupus familiaris)'s Body Language & Signals
+## 2. 腊肠犬 (Canis lupus familiaris) 的肢体语言与行为信号
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -69,7 +69,7 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 会对腰椎施加强烈压迫的姿势，通常是为了索要食物或引起主人的注意。<br/>
-    <strong>•  national:</strong> 应立即温柔制止该动作，并在家具旁安装专用的宠物斜坡，防止其剧烈跳跃。
+    <strong>• 应对:</strong> 应立即温柔制止该动作，并在家具旁安装专用的宠物斜坡，防止其剧烈跳跃。
   </p>
 </div>
 
@@ -80,13 +80,13 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 因脊椎疼痛或早期椎间盘神经受压导致身体僵硬、忍受痛苦的防护姿势。<br/>
-    <strong>•  national:</strong> 必须立即限制其活动，抱起时应同时托住胸部与臀部以保持脊椎水平，并及时就医。
+    <strong>• 应对:</strong> 必须立即限制其活动，抱起时应同时托住胸部与臀部以保持脊椎水平，并及时就医。
   </p>
 </div>
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. 腊肠犬 (Canis lupus familiaris) 定制化 3 步家庭护理流程
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

@@ -13,11 +13,11 @@ authority: "国际猫科医学学会 (ISFM) 皮肤学指南与猫咪被毛兽医
 steps:
   - name: "斯芬克斯猫的身体语言：寻找温暖与深厚爱意的信号"
     text: "斯芬克斯猫非常怕冷，因此会主动靠近主人的脖颈、怀里或钻进被窝以共享体温。紧贴您的皮肤或趴在您腿上打呼噜，既是表达深厚依恋，也是本能地寻找热源。如果发现它们的皮肤发凉或身体紧绷蜷缩，应立即调高室内温度。"
-  - name: "斯芬克斯猫 (Sphynx Cat)'s Body Language & Signals"
+  - name: "斯芬克斯猫 (Sphynx Cat) 的肢体语言与行为信号"
     text: "* 紧贴主人皮肤或发热源 (Heat-Seeking): 感到周围空气冰冷且体温下降，主动发出需要补充热源的信号。 (将室内温度调节至22 ~ 26°C，为其穿上柔软纯棉衣服，或提供带有加热垫的温暖猫窝。)
 
 * 眯眼并发出打呼噜声 (Squinting & Purring): 处于温度适宜、极度安心且对主人充满无限信任的放松状态。 (温柔抚摸其温暖的身体，陪伴它们安静舒适地休息。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "斯芬克斯猫 (Sphynx Cat) 定制化 3 步家庭护理流程"
     text: "* STEP 1. 早晨：使用温毛巾温柔擦拭褶皱与皮脂: 用温热湿毛巾或低刺激湿巾温柔擦拭颈部、脚趾缝及皮肤褶皱处堆积的棕色油脂，预防黑头与皮肤炎。
 
 * STEP 2. 下午：遮挡直射阳光以防紫外线损伤: 无毛皮肤暴露在强光下极易晒伤（日光性皮肤炎）。请拉上窗帘遮挡强烈的直射阳光。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. 斯芬克斯猫 (Sphynx Cat)'s Body Language & Signals
+## 2. 斯芬克斯猫 (Sphynx Cat) 的肢体语言与行为信号
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -69,7 +69,7 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 感到周围空气冰冷且体温下降，主动发出需要补充热源的信号。<br/>
-    <strong>•  national:</strong> 将室内温度调节至22 ~ 26°C，为其穿上柔软纯棉衣服，或提供带有加热垫的温暖猫窝。
+    <strong>• 应对:</strong> 将室内温度调节至22 ~ 26°C，为其穿上柔软纯棉衣服，或提供带有加热垫的温暖猫窝。
   </p>
 </div>
 
@@ -80,13 +80,13 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 处于温度适宜、极度安心且对主人充满无限信任的放松状态。<br/>
-    <strong>•  national:</strong> 温柔抚摸其温暖的身体，陪伴它们安静舒适地休息。
+    <strong>• 应对:</strong> 温柔抚摸其温暖的身体，陪伴它们安静舒适地休息。
   </p>
 </div>
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. 斯芬克斯猫 (Sphynx Cat) 定制化 3 步家庭护理流程
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

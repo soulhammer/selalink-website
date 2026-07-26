@@ -13,11 +13,11 @@ authority: "国际猫协会 (TICA) 品种标准与猫科临床行为医学指南
 steps:
   - name: "挪威森林猫的身体语言：野性气场与信任信号"
     text: "挪威森林猫保留着野性的沉稳与高贵，情绪表达极其优雅而聪明。当它们将尾巴高高竖起、末端像问号（？）一样微弯并缓缓靠近时，是表达高度信任与亲近的信号。相反，当它们瞳孔放大、双耳向两侧压平呈现 “飞机耳（Airplane Ears）” 时，则意味着它们感知到了外界环境的威胁或不安。"
-  - name: "挪威森林猫 (Felis catus / Norwegian Forest Cat)'s Body Language & Signals"
+  - name: "挪威森林猫 (Felis catus / Norwegian Forest Cat) 的肢体语言与行为信号"
     text: "* 尾巴直立且末端呈问号状: 心情非常愉悦且充满好奇，主动靠近家长表达亲密的友好信号。 (用温柔低沉的声音回应，并轻柔地抚摸其头部和脸颊以增进感情。)
 
 * 瞳孔放大与飞机耳 (压平双耳): 因突发的噪音或陌生环境而感到高度紧张的警惕状态。 (切勿强行对视，允许猫咪自行退避至高处的猫爬架或隐蔽的躲避窝中。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "挪威森林猫 (Felis catus / Norwegian Forest Cat) 定制化 3 步家庭护理流程"
     text: "* STEP 1. 早上：激发攀爬本能的立体高空捕猎游戏: 在猫爬架和猫通天柱上下快速移动羽毛逗猫棒，模拟高空捕猎，满足其特有的攀爬运动需求。
 
 * STEP 2. 中午：针梳与排梳深层梳理防水三重毛: 重点打理腋下、胸前等极易结团的部位，使用针梳与金属排梳深层梳理底毛，防止毛球症。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. 挪威森林猫 (Felis catus / Norwegian Forest Cat)'s Body Language & Signals
+## 2. 挪威森林猫 (Felis catus / Norwegian Forest Cat) 的肢体语言与行为信号
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -69,7 +69,7 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 心情非常愉悦且充满好奇，主动靠近家长表达亲密的友好信号。<br/>
-    <strong>•  national:</strong> 用温柔低沉的声音回应，并轻柔地抚摸其头部和脸颊以增进感情。
+    <strong>• 应对:</strong> 用温柔低沉的声音回应，并轻柔地抚摸其头部和脸颊以增进感情。
   </p>
 </div>
 
@@ -80,13 +80,13 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 因突发的噪音或陌生环境而感到高度紧张的警惕状态。<br/>
-    <strong>•  national:</strong> 切勿强行对视，允许猫咪自行退避至高处的猫爬架或隐蔽的躲避窝中。
+    <strong>• 应对:</strong> 切勿强行对视，允许猫咪自行退避至高处的猫爬架或隐蔽的躲避窝中。
   </p>
 </div>
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. 挪威森林猫 (Felis catus / Norwegian Forest Cat) 定制化 3 步家庭护理流程
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

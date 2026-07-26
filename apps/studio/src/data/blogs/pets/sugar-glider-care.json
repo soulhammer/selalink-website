@@ -1,0 +1,516 @@
+{
+    "sugar-glider-care": {
+        "pubDate": "2026-07-08",
+        "updatedDate": "2026-07-26",
+        "locales": {
+            "ko": {
+                "title": "슈가글라이더의 위협 신호 해석과 후지 마비·외로움 예방을 위한 3단계 데일리 케어",
+                "description": "주머니유랑류 슈가글라이더(Sugar Glider). 크래빙(개굴음) 신호 해석, 칼슘 결핍성 후지 마비(MBD) 및 외로움 방지를 위한 3단계 홈케어 루틴을 소개합니다.",
+                "authority": "국제 유랑류·야생동물 수의학회 (Association of Exotic Mammal Veterinarians) 케어 스탠다드",
+                "profile": {
+                    "breed": "슈가글라이더 / 유칼립투스 주머니다람쥐 (Sugar Glider / Petaurus breviceps)",
+                    "lifespan": "10 ~ 15년",
+                    "sleep_pattern": "12 ~ 14시간 (야행성, 낮 동안 포근한 주머니 휴식)",
+                    "temperament": "극도로 사교적, 호기심 많음, 외로움 탐, 활동적, 높은 유대감"
+                },
+                "intro": "비막을 펼쳐 유연하게 활공하는 슈가글라이더(Sugar Glider / Petaurus breviceps)는 포유류 중 유랑류(유주류)에 속하는 소형 반려동물입니다. 야생에서 무리를 지어 생활하는 강한 사회적 본능을 가져 단독 사육 시 극심한 외로움으로 자해(Self-mutilation) 행동을 일으키기 쉽습니다. 또한 곤충과 수액 위주의 특수 식단으로 인해 칼슘과 인의 비율(2:1)이 무너지면 뒷다리가 마비되는 '후지 마비(MBD/영양성 골이형성증)'가 자주 발생합니다. 오늘 PetSelf에서는 슈가글라이더의 바디 랭귀지를 파악하고 후지 마비와 스트레스를 예방하는 3단계 홈케어 루틴을 소개합니다.",
+                "whyTitle": "슈가글라이더의 바디 랭귀지: 크래빙(Crabbing) 소리와 포켓 안기(Pouch Cuddling)",
+                "whyDesc": "슈가글라이더는 특유의 소리와 울림으로 감정을 명확히 전달합니다. 위협을 느끼거나 낯선 자극에 깜짝 놀랐을 때 '드르륵-개굴' 거리는 고주파 마찰음을 내는 **'크래빙(Crabbing)'** 소리는 극심한 공포와 경계 신호입니다. 반면 전용 포켓 파우치 안에서 체온을 나누며 침착하게 머무는 **'포켓 안기(Pouch Cuddling)'**는 유대감이 형성되었음을 뜻하는 애정 신호입니다.",
+                "body_signals": [
+                    {
+                        "name": "드르륵거리며 고주파 마찰음을 냄 (Crabbing)",
+                        "meaning": "급작스러운 핸들링이나 낯선 환경으로 인해 극심한 공포와 위협을 느낄 때 내는 대표적 방어 경고음입니다.",
+                        "response": "강제로 손을 대지 말고 주머니 파우치째 어두운 곳으로 옮겨 스스로 안정을 찾도록 해줍니다."
+                    },
+                    {
+                        "name": "보호자의 포켓 파우치 속으로 들어가 안김 (Pouch Cuddling)",
+                        "meaning": "보호자의 냄새와 체온을 자신의 무리로 인식하고 신뢰를 표현하는 유대감 안정 신호입니다.",
+                        "response": "낮 시간 휴식기 동안 체온이 전달되도록 천천히 쓰다듬으며 무리 냄새를 익히게 돕습니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 야간 사료 잔여물 청소 및 적정 온·습도(24°C~27°C) 점검",
+                        "text": "야행성 활동이 끝난 후 남은 생과일/단백질 사료를 치워 부패를 막고, 24°C~27°C 적정 온도를 유지합니다."
+                    },
+                    {
+                        "name": "낮: 암막 수면 환경 조성 및 2마리 이상 무리 사육 모니터링",
+                        "text": "외로움으로 인한 털 뽑기 및 자해를 방지하기 위해 단독 사육을 피하고, 주간 숙면을 위한 포근한 헝겊 주머니를 제공합니다."
+                    },
+                    {
+                        "name": "저녁: HPW/BML 특수 식단(칼슘:인 2:1) 급여 및 수직 활공 유도",
+                        "text": "후지 마비(MBD) 예방을 위한 칼슘 보충 특수 단백질 사료와 신선한 채소를 급여하고, 높은 수직 사육장에서 운동을 유도합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "슈가글라이더 뒷다리가 갑자기 마비되어 끌고 다니는데 왜 그런가요?",
+                        "answer": "칼슘 결핍으로 인한 '후지 마비(Hind-limb Paralysis / MBD)' 현상입니다. 과일 위주의 식단만 주면 인 수치가 높아져 뼈에서 칼슘이 빠져나갑니다. 즉시 수의사 진료를 받고, 칼슘:인 비율이 2:1로 맞춰진 HPW/BML 레시피와 칼슘 영양제를 공급해야 합니다."
+                    },
+                    {
+                        "question": "슈가글라이더를 1마리만 키워도 괜찮나요?",
+                        "answer": "절대 권장하지 않습니다. 슈가글라이더는 야생에서 6~10마리씩 그룹을 형성해 사는 지극히 사회적인 유주류입니다. 1마리만 외롭게 키우면 우울증에 걸려 자신의 꼬리나 꼬리뼈, 주머니를 씹어 뜯는 자해(Self-mutilation) 행동을 보입니다. 가급적 2마리 이상 함께 사육해야 합니다."
+                    }
+                ],
+                "tags": [
+                    "슈가글라이더",
+                    "소동물케어",
+                    "유주류",
+                    "슈가글라이더마비"
+                ]
+            },
+            "en": {
+                "title": "Sugar Glider Behavioral Signals and 3-Step Daily Routine for Paralysis and Loneliness Prevention",
+                "description": "Care guide for the affectionate Sugar Glider. Interpret crabbing sounds and pouch cuddling, prevent calcium-deficiency hind-limb paralysis (MBD), and avoid self-mutilation in 3 steps.",
+                "authority": "Association of Exotic Mammal Veterinarians (AEMV) Marsupial Care Standards",
+                "profile": {
+                    "breed": "Sugar Glider (Petaurus breviceps)",
+                    "lifespan": "10 - 15 Years",
+                    "sleep_pattern": "12 - 14 Hours (Nocturnal, Sleep in cozy pouches during the day)",
+                    "temperament": "Extremely Social, Curious, Needy, Active, High Bonding Instinct"
+                },
+                "intro": "Famous for gliding through the air with their patagium, Sugar Gliders (Petaurus breviceps) are small arboreal marsupials cherished worldwide. Possessing intense social instincts from their wild colony life, housing a single glider often leads to severe depression and self-mutilation. Furthermore, an improper diet lacking balanced calcium and phosphorus (2:1 ratio) triggers Metabolic Bone Disease (MBD), causing fatal hind-limb paralysis. Today, PetSelf presents a 3-step daily care routine to read your Sugar Glider's body signals, prevent paralysis, and maintain mental well-being.",
+                "whyTitle": "Sugar Glider Body Language: Crabbing Sounds and Pouch Cuddling",
+                "whyDesc": "Sugar Gliders express emotional states clearly through vocalizations and pouch behaviors. Emitting a loud, buzzing rasping noise **'Crabbing'** is an explicit alarm signal of intense fear, threat, or startle. Conversely, quietly snuggling inside a bonding pouch while sharing body heat **'Pouch Cuddling'** is a supreme affectionate signal demonstrating deep trust and colony acceptance.",
+                "body_signals": [
+                    {
+                        "name": "Rapid Buzzing and Rasping Alarm Noise (Crabbing)",
+                        "meaning": "An instinctual defensive threat call produced when feeling terrified by sudden handling or strange environments.",
+                        "response": "Do not force physical contact; move their sleeping pouch to a dark, quiet area to let them regain calm."
+                    },
+                    {
+                        "name": "Snuggling Inside the Owner's Bonding Pouch (Pouch Cuddling)",
+                        "meaning": "A bonding signal indicating that the glider accepts the owner's scent and warmth as part of their colony.",
+                        "response": "Gently stroke the outside of the pouch during daytime rest to reinforce scent recognition and bond safety."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Night Food Removal & Thermal Check (24°C–27°C / 75°F–80°F)",
+                        "text": "Remove uneaten fresh fruit and protein mixes post-nocturnal activity to prevent spoilage, ensuring cage warmth stays at 24°C–27°C."
+                    },
+                    {
+                        "name": "Afternoon: Dark Sleep Environment & Pair/Colony Housing Monitoring",
+                        "text": "Ensure quiet sleep in fleece pouches and avoid solitary housing to prevent severe depression, grooming loss, and self-mutilation."
+                    },
+                    {
+                        "name": "Evening: Specialized Diet (HPW/BML 2:1 Ca:P Ratio) & Vertical Gliding Encouragement",
+                        "text": "Feed specialized protein formulations (HPW/BML) with balanced calcium alongside fresh vegetables, encouraging vertical climbing and leaping."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Why is my Sugar Glider suddenly dragging its hind legs?",
+                        "answer": "This indicates 'Hind-limb Paralysis' caused by Calcium Deficiency (MBD / Nutritional Osteodystrophy). Fruit-heavy diets raise phosphorus, stripping calcium from bones. Seek immediate exotic vet care and feed a strict HPW/BML diet with a 2:1 Calcium to Phosphorus ratio."
+                    },
+                    {
+                        "question": "Can I keep only one Sugar Glider as a pet?",
+                        "answer": "It is strongly discouraged. Sugar Gliders are colony marsupials that live in groups of 6 to 10 in the wild. A solitary glider frequently develops severe depression, leading to self-mutilation (chewing off their own tail, fur, or pouch). Always house them in pairs or small groups."
+                    }
+                ],
+                "tags": [
+                    "SugarGlider",
+                    "ExoticPetCare",
+                    "MarsupialCare",
+                    "GliderParalysis"
+                ]
+            },
+            "ja": {
+                "title": "フクロモモンガの警戒サイン解読と後脚麻痺・自傷行為予防のための3ステップデイリールーティン",
+                "description": "愛らしい有袋類フクロモモンガ（シュガーグライダー）。クラビング（威嚇音）の解読、カルシウム不足による後脚麻痺（MBD）と孤独による自傷行為を防ぐ3ステップホームケアを紹介します。",
+                "authority": "国際エキゾチック哺乳類獣医師会(AEMV)有袋類飼育基準",
+                "profile": {
+                    "breed": "フクロモモンガ / シュガーグライダー (Sugar Glider / Petaurus breviceps)",
+                    "lifespan": "10 〜 15年",
+                    "sleep_pattern": "12 〜 14時間 (夜行性、昼間は温かいポーチで睡眠)",
+                    "temperament": "極めて社交的、好奇心旺盛、寂しがり屋、活発、高い絆意識"
+                },
+                "intro": "飛膜を広げて優雅に滑空するフクロモモンガ（Sugar Glider / Petaurus breviceps）は、カンガルーと同じ有袋類に属する小型のペットです。野生では群れで生活する強い社会性を持つため、単頭飼育を行うと激しい寂しさから毛引きや尻尾を噛む「自傷行為（Self-mutilation）」を起こしやすくなります。また、果物中心の偏った食事でカルシウムとリンのバランス（2:1）が崩れると、後ろ足が麻痺する「後脚麻痺（MBD/代謝性骨疾患）」を頻発します。本日PetSelfでは、フクロモモンガのサインを読み解き、健康を守る3ステップルーティンをお届けします。",
+                "whyTitle": "フクロモモンガのボディランゲージ：クラビング音(Crabbing)とポーチでの安らぎ(Pouch Cuddling)",
+                "whyDesc": "フクロモモンガは特徴的な鳴き声とポーチ内での行動で感情を明確に表現します。脅威を感じたり突然の刺激に驚いた際、「ジジジッ・ゲコゲコ」と高音の摩擦音を出す**「クラビング（Crabbing）」**は、極度の恐怖と警戒サインです。一方、専用のポーチに入り体温を分かち合いながら穏やかに留まる**「ポーチでの安らぎ（Pouch Cuddling）」**は、絆が形成されたことを示す愛情サインです。",
+                "body_signals": [
+                    {
+                        "name": "ジジジッと高音の威嚇音を出す (Crabbing)",
+                        "meaning": "突然の触れ合いや不慣れな環境により極度の恐怖と脅威を感じた際に見せる防御警告音です。",
+                        "response": "無理に手を出さず、ポーチごと暗く静かな場所へ移動させて自分で落ち着くのを待ちます。"
+                    },
+                    {
+                        "name": "飼い主のポーチの中に入って寄り添う (Pouch Cuddling)",
+                        "meaning": "飼い主の匂いと体温を自分の群れと認識し、信頼を表現する安心・絆のサインです。",
+                        "response": "昼間の休息時に体温が伝わるよう優しく撫で、群れの匂いを覚えさせましょう。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：夜間の残餌掃除＆適正温湿度（24°C〜27°C）の確認",
+                        "text": "夜間活動が終わった後の残った果物やタンパク質フードを取り除いて腐敗を防ぎ、24°C〜27°Cの保温を維持します。"
+                    },
+                    {
+                        "name": "昼：暗闇睡眠環境の確保＆複数飼育による寂しさ予防の確認",
+                        "text": "孤独ストレスによる自傷行為を防ぐため単頭飼育を避け、昼間に熟睡できる柔らかい布製ポーチを提供します。"
+                    },
+                    {
+                        "name": "夜：HPW/BML専用フード（カルシウム:リン 2:1）の給餌＆高さを活かした運動",
+                        "text": "後脚麻痺（MBD）予防のためカルシウムを補育した専用フードと野菜を与え、高さのあるケージで滑空・上下運動を促します。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "フクロモモンガの後ろ足が急に麻痺して引きずっているのですが、なぜですか？",
+                        "answer": "カルシウム不足による「後脚麻痺（Hind-limb Paralysis / MBD）」です。果物ばかり与えるとリンの血中濃度が高くなり、骨からカルシウムが溶け出します。すぐにエキゾチック専門の獣医師を受診し、カルシウムとリンの比率が2:1に調整されたHPW/BMLフードとカルシウムサプリメントを給餌してください。"
+                    },
+                    {
+                        "question": "フクロモモンガを1匹だけで飼育しても大丈夫ですか？",
+                        "answer": "おすすめできません。フクロモモンガは野生で6〜10匹の群れを作る極めて社会性の高い有袋類です。1匹だけで飼育すると重いうつ状態に陥り、自分の尻尾や皮膚を噛みちぎる自傷行為（Self-mutilation）を起こします。必ず2匹以上のペアやグループで飼育してください。"
+                    }
+                ],
+                "tags": [
+                    "フクロモモンガ",
+                    "シュガーグライダー",
+                    "エキゾチックアニマル",
+                    "モモンガ麻痺予防"
+                ]
+            },
+            "zh": {
+                "title": "蜜袋鼯防御信号解读与预防后肢瘫痪及自残行为的3步日常流程",
+                "description": "可爱有袋类蜜袋鼯（Sugar Glider）护理指南。解读Crabbing（嘎吱警告音）与抱袋依恋行为，预防缺钙性后肢瘫痪（MBD）及孤独自残的3步骤家庭护理。",
+                "authority": "国际特殊哺乳动物兽医师协会 (AEMV) 有袋类护理标准",
+                "profile": {
+                    "breed": "蜜袋鼯 / 飞鼠 (Sugar Glider / Petaurus breviceps)",
+                    "lifespan": "10 ~ 15年",
+                    "sleep_pattern": "12 ~ 14小时 (夜行性，白天在温暖布袋中睡眠)",
+                    "temperament": "极度亲人、好奇心强、黏人、活跃、高度依赖社群"
+                },
+                "intro": "依靠翼膜在空中优雅滑翔的蜜袋鼯（Sugar Glider）是属于有袋类的珍贵小型宠物。由于野外群居的强社会天性，单只饲养极其容易引发抑郁症及咬尾/咬袋的自残行为（Self-mutilation）。此外，若长期投喂单一水果导致钙磷比例（2:1）失衡，极易诱发骨骼代谢病并导致致命的“后肢瘫痪（MBD）”。今天 PetSelf 将带您准确解读蜜袋鼯的肢体语言，并通过3步骤日常护理维护其健康。",
+                "whyTitle": "蜜袋鼯的肢体语言：嘎吱警告音 (Crabbing) 与抱袋依恋 (Pouch Cuddling)",
+                "whyDesc": "蜜袋鼯通过独特的鸣叫与育儿袋姿态表达情绪。感到威胁或受到突如其来的惊吓时，发出像机械高频摩擦般的“嘎吱警告音 (Crabbing)”是极度恐惧的警报。相反，蜷缩在主人的保温育儿袋中分享体温“抱袋依恋 (Pouch Cuddling)”，则是将其视为同伴、建立深厚信任的亲密信号。",
+                "body_signals": [
+                    {
+                        "name": "发出高频嘎吱/齿轮摩擦警告音 (Crabbing)",
+                        "meaning": "因强行上手或陌生环境感到极度恐惧与威胁时发出的防御性警告。",
+                        "response": "切勿强行抓握，连同育儿袋一起移至黑暗安静处，让其自行恢复平静。"
+                    },
+                    {
+                        "name": "钻入主人的随身育儿袋中依恋 (Pouch Cuddling)",
+                        "meaning": "将主人的气味与体温认可为族群同伴，表达高度信任的亲密行为。",
+                        "response": "在白天休息期轻轻抚摸布袋外侧，帮助其熟悉主人与族群的气味。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：清理夜间残饵与保温检查（24°C~27°C）",
+                        "text": "夜间活动结束后及时清理剩余水果与高蛋白食糜以防变质，并维持 24°C~27°C 的宜人温度。"
+                    },
+                    {
+                        "name": "中午：保持黑暗睡眠环境与成对/多只群居监控",
+                        "text": "严禁单只独居以防抑郁自残，提供柔软的避光绒布袋供其白天深度睡眠。"
+                    },
+                    {
+                        "name": "晚上：投喂 HPW/BML 专类配方（钙磷比 2:1）与垂直滑翔引导",
+                        "text": "投喂严格配比钙质的 HPW/BML 食粮与新鲜蔬菜以防后肢瘫痪，并在高耸的笼舍中引导攀爬。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "蜜袋鼯的后腿突然无力瘫痪拖着走，是怎么回事？",
+                        "answer": "这是由于严重缺钙引发的“后肢瘫痪（Hind-limb Paralysis / MBD）”。长期单喂水果会导致血磷过高、骨钙流失。必须立即送往异宠医院就诊，并换用钙磷比为 2:1 的 HPW/BML 专类食谱与液体钙补充剂。"
+                    },
+                    {
+                        "question": "只养 1 只蜜袋鼯可以吗？",
+                        "answer": "绝对不建议！蜜袋鼯在野外是 6~10 只成群生活的强社群性有袋类。单独饲养的蜜袋鼯极易患上严重抑郁症，进而疯狂咬啃自己的尾巴、肢体甚至育儿袋（自残行为）。请务必成对或成群饲养。"
+                    }
+                ],
+                "tags": [
+                    "蜜袋鼯",
+                    "异宠护理",
+                    "有袋类",
+                    "蜜袋鼯后肢瘫痪"
+                ]
+            },
+            "es": {
+                "title": "Señales de conducta en el Petauro del Azúcar y rutina diaria de 3 pasos para la prevención de parálisis y soledad",
+                "description": "Guía de cuidado para el afectuoso Petauro del Azúcar (Sugar Glider). Interprete el sonido crabbing y el refugio en bolsa, prevenga la parálisis de extremidades (EMO) y evite la automutilación en 3 pasos.",
+                "authority": "Asociación de Veterinarios de Mamíferos Exóticos (AEMV) y Normas de Marsupiales",
+                "profile": {
+                    "breed": "Petauro del Azúcar (Sugar Glider / Petaurus breviceps)",
+                    "lifespan": "10 ~ 15 años",
+                    "sleep_pattern": "12 ~ 14 horas (Nocturno, duerme en bolsas afelpadas de día)",
+                    "temperament": "Extremadamente social, Curioso, Demandante, Activo, Alto apego"
+                },
+                "intro": "Famosos por planear en el aire mediante su patagamento, los Petauros del Azúcar (Petaurus breviceps) son pequeños marsupiales arborícolas admirados mundialmente. Poseen un instinto social tan intenso que mantener un solo ejemplar conduce a la depresión y a la peligrosa automutilación (Self-mutilation). Además, una dieta desequilibrada sin la relación de calcio y fósforo adecuada (2:1) provoca la Enfermedad Ósea Metabólica (EMO), desencadenando la parálisis de extremidades posteriores. Hoy, PetSelf presenta una rutina de 3 pasos para cuidar su salud física y emocional.",
+                "whyTitle": "Lenguaje corporal del Petauro del Azúcar: Sonido de amenaza (Crabbing) y refugio en bolsa (Pouch Cuddling)",
+                "whyDesc": "Los petauros comunican sus emociones mediante vocalizaciones y su conducta en la bolsa. Emitir un zumbido áspero y ruidoso **'Crabbing'** es una clara señal de alarma ante el miedo o sustos. En cambio, acurrucarse tranquilamente dentro de la bolsa de tela compartiendo calor **'Refugio en bolsa (Pouch Cuddling)'** es la máxima muestra de afecto, confianza y aceptación de colonia.",
+                "body_signals": [
+                    {
+                        "name": "Zumbido chirriante y áspero de alarma (Crabbing)",
+                        "meaning": "Llamada de amenaza e inclinación defensiva ante manipulaciones bruscas o entornos extraños.",
+                        "response": "No lo fuerce al contacto físico; mueva su bolsa a un área oscura y silenciosa para que recupere la calma."
+                    },
+                    {
+                        "name": "Acurrucarse dentro de la bolsa de tela del dueño (Pouch Cuddling)",
+                        "meaning": "Señal de apego que indica que el petauro acepta el olor y calor del dueño como parte de su colonia.",
+                        "response": "Acaricie suavemente el exterior de la bolsa durante su descanso diurno para reforzar la familiaridad del aroma."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Retirada de comida nocturna y control térmico (24°C–27°C)",
+                        "text": "Retire los restos de fruta y mezcla proteica tras su actividad nocturna para evitar la descomposición, manteniendo la jaula entre 24°C y 27°C."
+                    },
+                    {
+                        "name": "Tarde: Entorno de descanso oscuro y supervisión de vida en pareja/colonia",
+                        "text": "Garantice un sueño tranquilo en bolsas afelpadas y evite el alojamiento solitario para prevenir la depresión profunda y automutilación."
+                    },
+                    {
+                        "name": "Noche: Dieta especializada (HPW/BML relación Ca:P 2:1) y fomento de saltos verticales",
+                        "text": "Ofrezca fórmulas proteicas especializadas con calcio equilibrado y verduras frescas, incentivando la escalada y saltos en jaulas altas."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Por qué mi Petauro del Azúcar arrastra repentinamente las patas traseras?",
+                        "answer": "Indica 'Parálisis de extremidades posteriores' causada por deficiencia de calcio (EMO / Osteodistrofia nutricional). Las dietas ricas en frutas elevan el fósforo y despojan de calcio a los huesos. Acuda de inmediato al veterinario exótico y proporcione una dieta estricta de HPW/BML con una relación Calcio-Fósforo de 2:1."
+                    },
+                    {
+                        "question": "¿Puedo tener un solo Petauro del Azúcar como mascota?",
+                        "answer": "Se desaconseja totalmente. Los petauros del azúcar son marsupiales de colonia que viven en grupos de 6 a 10 en estado salvaje. Un petauro solitario suele desarrollar depresión severa, lo que lo lleva a la automutilación (morderse la cola, patas o bolsa). Manténgalos siempre en parejas o pequeños grupos."
+                    }
+                ],
+                "tags": [
+                    "PetauroDelAzucar",
+                    "CuidadoDeMascotasExoticas",
+                    "Marsupiales",
+                    "ParalisisDelPetauro"
+                ]
+            },
+            "fr": {
+                "title": "Signaux comportementaux du Pétaure du Sucre et routine quotidienne en 3 étapes pour la prévention de la paralysie et de la solitude",
+                "description": "Guide de soins pour l'affectueux Pétaure du Sucre (Sugar Glider). Décryptez le crabbing et le refuge en poche, prévenez la paralysie des membres (MBD) et évitez l'automutilation en 3 étapes.",
+                "authority": "Association of Exotic Mammal Veterinarians (AEMV) & Normes de Soins des Marsupiaux",
+                "profile": {
+                    "breed": "Pétaure du Sucre (Sugar Glider / Petaurus breviceps)",
+                    "lifespan": "10 ~ 15 ans",
+                    "sleep_pattern": "12 ~ 14 heures (Nocturne, dort dans des poches douillettes le jour)",
+                    "temperament": "Extrêmement social, Curieux, Fusionnel, Actif, Fort besoin de groupe"
+                },
+                "intro": "Fameux pour leurs planés gracieux grâce à leur patagium, les Pétaures du Sucre (Petaurus breviceps) sont de petits marsupiaux arboricoles adorés dans le monde entier. Possédant un instinct social grégaire très développé, élever un pétaure seul conduit souvent à une grave dépression et à l'automutilation (Self-mutilation). De plus, un régime déséquilibré manquant du rapport calcium/phosphore idéal (2:1) déclenche la Maladie Osseuse Métabolique (MBD) et la paralysie des membres postérieurs. Aujourd'hui, PetSelf vous présente une routine en 3 étapes pour préserver sa santé.",
+                "whyTitle": "Langage corporel du Pétaure du Sucre : Bruit de crabbing et câlin en poche (Pouch Cuddling)",
+                "whyDesc": "Les pétaures du sucre expriment leurs émotions par leurs vocalises et leur comportement en poche. Émettre un cri strident et grésillant **« Crabbing »** est un signal d'alarme explicite face à la peur ou aux gestes brusques. À l'inverse, se blottir paisiblement dans la poche de liaison en partageant la chaleur corporelle **« Câlin en poche (Pouch Cuddling) »** est le signe ultime d'affection et de confiance.",
+                "body_signals": [
+                    {
+                        "name": "Cri strident et grésillant d'alarme (Crabbing)",
+                        "meaning": "Signal de défense instinctif émis lors d'une grande frayeur causée par une manipulation brusque ou un environnement inconnu.",
+                        "response": "Ne le forcez pas au contact ; déplacez sa poche de sommeil dans un endroit sombre et calme pour qu'il s'apaise."
+                    },
+                    {
+                        "name": "Blottissement dans la poche de liaison du maître (Pouch Cuddling)",
+                        "meaning": "Signe d'attachement indiquant que le pétaure accepte l'odeur et la chaleur du maître comme membres du groupe.",
+                        "response": "Caressez doucement l'extérieur de la poche pendant son repos diurne pour renforcer l'empreinte olfactive."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Retrait des restes de nourriture & contrôle de la température (24°C–27°C)",
+                        "text": "Retirez les restes de fruits et de pâtée protéinée pour éviter la moisissure, et maintenez la cage entre 24°C et 27°C."
+                    },
+                    {
+                        "name": "Après-midi : Sommeil dans l'obscurité & suivi de la vie en groupe/couple",
+                        "text": "Assurez un repos au calme dans des poches en polaire et évitez la solitude pour prévenir la dépression et l'automutilation."
+                    },
+                    {
+                        "name": "Soir : Alimentation spécialisée (HPW/BML ratio Ca:P 2:1) & stimulation des sauts",
+                        "text": "Donnez une formule protéinée équilibrée en calcium avec des légumes frais, et encouragez l'escalade dans une grande cage verticale."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Pourquoi mon Pétaure du Sucre traîne-t-il soudainement ses pattes arrière ?",
+                        "answer": "Cela indique une 'Paralysie des membres postérieurs' due à une carence en calcium (MBD / Ostéodystrophie). Les régimes trop riches en fruits augmentent le phosphore et décalcifient les os. Consultez immédiatement un vétérinaire spécialisé et donnez un régime strict HPW/BML avec un ratio Calcium/Phosphore de 2:1."
+                    },
+                    {
+                        "question": "Puis-je n'adopter qu'un seul Pétaure du Sucre ?",
+                        "answer": "C'est fortement déconseillé. Les pétaures du sucre sont des marsupiaux vivant en colonies de 6 à 10 individus dans la nature. Un pétaure seul développe très souvent une dépression sévère conduisant à l'automutilation (se ronger la queue, les pattes ou le patagium). Élevez-les toujours en couple ou en petit groupe."
+                    }
+                ],
+                "tags": [
+                    "PetaureDuSucre",
+                    "SoinDesNouveauxAnimauxDeCompagnie",
+                    "Marsupiaux",
+                    "ParalysiePetaure"
+                ]
+            },
+            "de": {
+                "title": "Verhaltenssignale des Kurzkopfgleitbeutlers und 3-Schritte-Tagesroutine zur Vorbeugung von Lähmungen und Einsamkeit",
+                "description": "Pflegeanleitung für den liebevollen Kurzkopfgleitbeutler (Sugar Glider). Crabbing-Geräusche und Beutelkuscheln verstehen, Kalziummangel-Lähmung (MBD) und Selbstverstümmelung in 3 Schritten vermeiden.",
+                "authority": "Association of Exotic Mammal Veterinarians (AEMV) & Beuteltier-Haltungsstandards",
+                "profile": {
+                    "breed": "Kurzkopfgleitbeutler / Sugar Glider (Petaurus breviceps)",
+                    "lifespan": "10 ~ 15 Jahre",
+                    "sleep_pattern": "12 ~ 14 Stunden (Nachtaktiv, schläft tagsüber in Kuschelbeuteln)",
+                    "temperament": "Extrem sozial, Neugierig, Anhänglich, Aktiv, Hoher Bindungstrieb"
+                },
+                "intro": "Berühmt für ihre Fähigkeit, mit ihrer Gleithaut durch die Luft zu gleiten, sind Kurzkopfgleitbeutler (Petaurus breviceps) kleine, weltweit beliebte Beuteltiere. Aufgrund ihres ausgeprägten Herdentriebs führt Einzelhaltung oft zu schweren Depressionen und gefährlicher Selbstverstümmelung (Self-mutilation). Zudem führt eine falsche Ernährung ohne ausgewogenes Kalzium-Phosphor-Verhältnis (2:1) zu Metabolischen Knochenerkrankungen (MBD) und Lähmungen der Hinterbeine. Heute zeigt PetSelf eine 3-Schritte-Routine für die Gesundheit Ihres Sugar Gliders.",
+                "whyTitle": "Körpersprache des Sugar Gliders: Crabbing-Geräusche und Beutelkuscheln (Pouch Cuddling)",
+                "whyDesc": "Sugar Glider drücken Gefühle klar über Laute und Beutelverhalten aus. Das Ausstoßen eines schnarrenden, knatternden Geräusches **'Crabbing'** ist ein deutliches Warnsignal bei Angst oder Schrecken. Das ruhige Ankuscheln im Stoffbeutel unter Nutzung der Körperwärme **'Beutelkuscheln (Pouch Cuddling)'** ist dagegen der höchste Beweis für Zuneigung und Vertrauen.",
+                "body_signals": [
+                    {
+                        "name": "Schnarrendes, knatterndes Warngeräusch (Crabbing)",
+                        "meaning": "Instinktiver Abwehrlaut bei großer Angst durch schnelles Handling oder fremde Reize.",
+                        "response": "Erzwingen Sie keinen Kontakt; bringen Sie den Schlafbeutel an einen dunklen, ruhigen Ort, damit sich das Tier beruhigt."
+                    },
+                    {
+                        "name": "Ankuscheln im Beutel des Halters (Pouch Cuddling)",
+                        "meaning": "Bindungssignal; der Glider akzeptiert Geruch und Wärme des Halters als Teil seiner Kolonie.",
+                        "response": "Streicheln Sie den Beutel tagsüber sanft von außen, um den Geruch als sicher einzuprägen."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Entfernung von Futterresten & Temperaturkontrolle (24 °C–27 °C)",
+                        "text": "Entfernen Sie Obst- und Proteinreste nach der Nachtaktivität gegen Schimmel, und halten Sie die Temperatur bei 24 °C–27 °C."
+                    },
+                    {
+                        "name": "Mittag: Dunkle Schlafumgebung & Kontrolle der Paar-/Gruppenhaltung",
+                        "text": "Sorgen Sie für Schlafstille in Stoffbeuteln und vermeiden Sie Einzelhaltung zur Vorbeugung von Depressionen und Selbstverstümmelung."
+                    },
+                    {
+                        "name": "Abend: Spezialfutter (HPW/BML Verhältnis Ca:P 2:1) & Kletteranreize",
+                        "text": "Füttern Sie kalziumausgewogene Spezialmischungen (HPW/BML) mit frischem Gemüse und fördern Sie Klettern in einer hohen Voliere."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Warum zieht mein Sugar Glider plötzlich seine Hinterbeine nach?",
+                        "answer": "Das deutet auf eine 'Hinterhandlähmung' durch Kalziummangel (MBD / Ernährungsbedingte Osteodystrophie) hin. Obstlastige Ernährung erhöht Phosphor und entzieht den Knochen Kalzium. Suchen Sie sofort einen Heimtierarzt auf und füttern Sie eine HPW/BML-Diät mit 2:1 Ca:P-Verhältnis."
+                    },
+                    {
+                        "question": "Kann ich einen Sugar Glider auch allein halten?",
+                        "answer": "Davon wird dringend abgeraten! Sugar Glider sind Koloniebeuteltiere, die wild in Gruppen von 6 bis 10 Tieren leben. Einzelne Glider entwickeln schwere Depressionen und beißen sich selbst Schwanz oder Pfoten ab (Selbstverstümmelung). Halten Sie sie immer mindestens paarweise."
+                    }
+                ],
+                "tags": [
+                    "Kurzkopfgleitbeutler",
+                    "SugarGlider",
+                    "Kleintierpflege",
+                    "GliderLaehmung"
+                ]
+            },
+            "pt": {
+                "title": "Sinais comportamentais do Petauro-do-Açúcar e rotina diária de 3 passos para prevenção de paralisia e solidão",
+                "description": "Guia de cuidados para o afetuoso Petauro-do-Açúcar (Sugar Glider). Entenda o som de crabbing e o refúgio na bolsa, previna a paralisia por falta de cálcio (EMO) e evite a automutilação em 3 passos.",
+                "authority": "Associação de Veterinários de Mamíferos Exóticos (AEMV) & Padrões para Marsupiais",
+                "profile": {
+                    "breed": "Petauro-do-Açúcar (Sugar Glider / Petaurus breviceps)",
+                    "lifespan": "10 ~ 15 anos",
+                    "sleep_pattern": "12 ~ 14 horas (Noturno, dorme em bolsas aconchegantes de dia)",
+                    "temperament": "Extremamente social, Curioso, Apego elevado, Ativo, Forte necessidade de colônia"
+                },
+                "intro": "Famosos por planearem no ar com a sua membrana (patágio), os Petauros-do-Açúcar (Petaurus breviceps) são pequenos marsupiais arborícolas admirados no mundo todo. Possuindo um instinto social muito forte, manter um único petauro leva a depressões graves e à perigosa automutilação (Self-mutilation). Além disso, uma dieta desequilibrada sem a proporção adequada de cálcio e fósforo (2:1) causa a Doença Óssea Metabólica (EMO), levando à paralisia das patas traseiras. Hoje, o PetSelf apresenta uma rotina de 3 passos para cuidar do seu pet.",
+                "whyTitle": "Linguagem corporal do Petauro-do-Açúcar: Som de ameaça (Crabbing) e refúgio na bolsa (Pouch Cuddling)",
+                "whyDesc": "Os petauros comunicam emoções através de sons e do comportamento na bolsa. Emitir um zumbido áspero e alto **'Crabbing'** é um sinal clássico de alarme diante do medo ou sustos. Por outro lado, aconchegar-se tranquilamente dentro da bolsa de pano compartilhando calor **'Refúgio na bolsa (Pouch Cuddling)'** é a demonstração suprema de afeto, confiança e aceitação na colônia.",
+                "body_signals": [
+                    {
+                        "name": "Zumbido áspero e estridente de alarme (Crabbing)",
+                        "meaning": "Chamado defensivo instintivo emitido ao sentir medo por manuseio repentino ou ambientes estranhos.",
+                        "response": "Não force o contato físico; mova a bolsa para um local escuro e calmo para que ele recupere a tranquilidade."
+                    },
+                    {
+                        "name": "Aconchegar-se na bolsa de pano do tutor (Pouch Cuddling)",
+                        "meaning": "Sinal de apego indicando que o petauro aceita o cheiro e o calor do tutor como parte da colônia.",
+                        "response": "Acaricie suavemente a parte externa da bolsa durante o descanso diurno para reforçar a familiaridade do cheiro."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Remoção da comida noturna & controle térmico (24°C–27°C)",
+                        "text": "Retire os restos de frutas e ração proteica após a atividade noturna para evitar estragar, mantendo a gaiola entre 24°C e 27°C."
+                    },
+                    {
+                        "name": "Tarde: Ambiente escuro para dormir & monitoramento de vida em grupo",
+                        "text": "Garanta o descanso em bolsas de tecido e evite a criação solitária para prevenir a depressão profunda e a automutilação."
+                    },
+                    {
+                        "name": "Noite: Dieta especializada (HPW/BML proporção Ca:P 2:1) e incentivo a saltos",
+                        "text": "Ofereça ração proteica enriquecida com cálcio e vegetais frescos, incentivando a escalada em gaiolas altas."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Por que o meu Petauro-do-Açúcar está arrastando as patas traseiras de repente?",
+                        "answer": "Isso indica 'Paralisia das patas traseiras' causada por deficiência de cálcio (EMO / Osteodistrofia nutricional). Dietas ricas em frutas elevam o fósforo e retiram cálcio dos ossos. Consulte um veterinário de exóticos imediatamente e forneça uma dieta HPW/BML com proporção Cálcio:Fósforo de 2:1."
+                    },
+                    {
+                        "question": "Posso ter apenas um Petauro-do-Açúcar?",
+                        "answer": "É totalmente contraindicado. Os petauros são marsupiais sociais que vivem em colônias de 6 a 10 indivíduos na natureza. Um petauro sozinho frequentemente desenvolve depressão grave, levando à automutilação (morder a própria cauda, patas ou bolsa). Mantenha-os sempre em pares ou pequenos grupos."
+                    }
+                ],
+                "tags": [
+                    "PetauroDoAcucar",
+                    "CuidadosComAnimaisExoticos",
+                    "Marsupiais",
+                    "ParalisiaDoPetauro"
+                ]
+            },
+            "id": {
+                "title": "Sinyal Perilaku Sugar Glider dan Rutinitas Harian 3 Langkah Perawatan Pencegahan Kelumpuhan serta Kesepian",
+                "description": "Panduan perawatan Sugar Glider yang penyayang. Pahami suara crabbing dan kebiasaan dalam kantong, cegah kelumpuhan kaki belakang (MBD) akibat kurang kalsium, dan hindari melukai diri dalam 3 langkah.",
+                "authority": "Association of Exotic Mammal Veterinarians (AEMV) & Standar Perawatan Hewan Marsupial",
+                "profile": {
+                    "breed": "Sugar Glider / Posum Layang (Petaurus breviceps)",
+                    "lifespan": "10 ~ 15 tahun",
+                    "sleep_pattern": "12 ~ 14 jam (Nokturnal, tidur di kantong kain hangat saat siang)",
+                    "temperament": "Sangat sosial, Penasaran, Manja, Aktif, Naluri ikatan sangat kuat"
+                },
+                "intro": "Terkenal dengan kemampuannya meluncur di udara menggunakan membran (patagium), Sugar Glider (Petaurus breviceps) adalah hewan marsupial kecil yang sangat populer. Memiliki naluri sosial yang sangat kuat dari kehidupan koloninya di alam liar, memelihara seekor sugar glider sendirian sering menyebabkan depresi berat dan perilaku melukai diri sendiri (Self-mutilation). Selain itu, pola makan yang buruk tanpa keseimbangan kalsium dan fosfor (rasio 2:1) memicu Penyakit Tulang Metabolik (MBD) yang menyebabkan kelumpuhan kaki belakang. Hari ini, PetSelf membagikan 3 langkah rutinitas harian untuk merawat Sugar Glider Anda.",
+                "whyTitle": "Bahasa Tubuh Sugar Glider: Suara Crabbing dan Kenyamanan dalam Kantong (Pouch Cuddling)",
+                "whyDesc": "Sugar Glider menyampaikan emosi dengan jelas melalui suara dan perilaku di dalam kantong. Mengeluarkan suara dengungan kasar berfrekuensi tinggi **'Crabbing'** adalah sinyal bahaya akan rasa takut yang luar biasa atau kaget. Sebaliknya, meringkuk tenang di dalam kantong bonding sambil berbagi suhu tubuh **'Pouch Cuddling'** adalah tanda kasih sayang tertinggi yang menunjukkan rasa percaya dan penerimaan anggota koloni.",
+                "body_signals": [
+                    {
+                        "name": "Deringan dan Panggilan Berisik Berfrekuensi Tinggi (Crabbing)",
+                        "meaning": "Panggilan ancaman pertahanan naluriah saat merasa sangat ketakutan akibat penanganan mendadak atau lingkungan asing.",
+                        "response": "Jangan memegang secara paksa; pindahkan kantong tidurnya ke area yang gelap dan tenang agar kembali tenang."
+                    },
+                    {
+                        "name": "Meringkuk di Dalam Kantong Bonding Pemilik (Pouch Cuddling)",
+                        "meaning": "Sinyal ikatan yang menandakan glider menerima aroma dan kehangatan pemilik sebagai bagian dari koloninya.",
+                        "response": "Usap lembut bagian luar kantong selama waktu istirahat siang untuk memperkuat pengenalan aroma pemilik."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Pembersihan Sisa Pakan Malam & Pemeriksaan Suhu Kandang (24°C–27°C)",
+                        "text": "Bersihkan sisa buah dan pakan protein setelah aktivitas malam agar tidak membusuk, serta jaga kehangatan kandang pada 24°C–27°C."
+                    },
+                    {
+                        "name": "Siang: Lingkungan Tidur Gelap & Pemantauan Pemeliharaan Berpasangan/Koloni",
+                        "text": "Pastikan tidur tenang dalam kantong kain halus dan hindari memelihara sendirian untuk mencegah depresi berat dan perilaku melukai diri."
+                    },
+                    {
+                        "name": "Malam: Pakan Khusus (Formula HPW/BML Rasio Ca:P 2:1) & Pengarahan Meluncur Vertikal",
+                        "text": "Berikan pakan protein khusus (HPW/BML) bermineral kalsium seimbang bersama sayuran segar, serta rangsang aktivitas memanjat di kandang tinggi."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mengapa Sugar Glider saya tiba-tiba menyeret kaki belakangnya?",
+                        "answer": "Ini menandakan 'Kelumpuhan Kaki Belakang' akibat kekurangan kalsium (MBD / Osteodistrofi Nutrisi). Pola makan terlalu banyak buah meningkatkan kadar fosfor dan menguras kalsium dari tulang. Segera bawa ke dokter hewan eksotis dan berikan pakan khusus HPW/BML dengan rasio Kalsium:Fosfor 2:1."
+                    },
+                    {
+                        "question": "Bolehkah saya hanya memelihara satu ekor Sugar Glider saja?",
+                        "answer": "Sangat tidak disarankan. Sugar Glider adalah hewan marsupial koloni yang hidup dalam kelompok 6 hingga 10 ekor di alam liar. Glider yang dipelihara sendirian sering mengalami depresi berat hingga melukai diri sendiri (menggigit ekor, kaki, atau kantongnya). Selalu pelihara mereka secara berpasangan atau kelompok kecil."
+                    }
+                ],
+                "tags": [
+                    "SugarGlider",
+                    "PerawatanHewanEksotis",
+                    "Marsupial",
+                    "KelumpuhanSugarGlider"
+                ]
+            }
+        },
+        "category": "CareSelf",
+        "app": "careself",
+        "formatVersion": 4,
+        "heroImage": "/images/blog/sugar_glider_care.webp"
+    }
+}

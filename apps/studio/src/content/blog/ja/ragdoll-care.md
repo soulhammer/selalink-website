@@ -13,11 +13,11 @@ authority: "キャットファンシャーズアソシエーション(CFA)公式
 steps:
   - name: "ラグドールのカーミングシグナル：目での挨拶と指開きのしぐさ"
     text: "ラグドールは、体の力を抜くこと以外にも、目元や足先のしぐさで高い信頼感を繊細に表現します。代表的なリラックスサインは「ゆっくりした瞬き（Slow Blink）」と「指を開く動作（Paw Flexing）」です。飼い主を見つめながらゆっくり目を閉じて開けるしぐさは、敵意が全くなく完全な安心感と愛情のメッセージです。さらに心地よい時には、足の指を扇のように大きく開いたり閉じたりします。この時に顎の下などを撫でてあげると、ラグドールの幸福感は最高潮に達します。"
-  - name: "ラグドール (Felis catus / Ragdoll)'s Body Language & Signals"
+  - name: "ラグドール (Felis catus / Ragdoll)のボディランゲージと行動サイン"
     text: "* ゆっくりした瞬き (Slow Blink): 相手を全面的に信頼し、周囲の環境に平和と安定を感じているという愛情サインです。 (こちらもゆっくり目を閉じて開けるテンポで返答し、信頼関係を深めましょう。)
 
 * 指を開く動作 (Paw Flexing): 子猫時代に母猫の胸でミルクを飲んでいた記憶を思い出し、極上の心理的快適さを感じているサインです。 (この動作を見せた時は手を止めず、顎の下や首周りを撫で続けてあげるとさらに喜びます。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "ラグドール (Felis catus / Ragdoll)のための3ステップホームケアルーティン"
     text: "* STEP 1. 朝：骨格を活性化させるための優しいストレッチ: 大型猫のため下半身の関節に疲労が溜まりやすいです。活動を始める前に、後ろ足を優しく持って軽く伸ばすストレッチを行い、関節の可動域を保護します。
 
 * STEP 2. 昼：毛玉防止のためのピンブラシによるブラッシング: ラグドールのアンダーコートは非常に柔らかく密度が高いためもつれやすいです。先端の丸いピンブラシで毛並みに沿って梳かし、通気性を良くして皮膚炎とヘアボールを予防します。
@@ -64,7 +64,7 @@ faqs:
 
 ---
 
-## 2. ラグドール (Felis catus / Ragdoll)'s Body Language & Signals
+## 2. ラグドール (Felis catus / Ragdoll)のボディランゲージと行動サイン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -90,7 +90,7 @@ faqs:
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. ラグドール (Felis catus / Ragdoll)のための3ステップホームケアルーティン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

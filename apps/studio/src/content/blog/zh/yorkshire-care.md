@@ -13,11 +13,11 @@ authority: "英国约克夏梗犬俱乐部 (YTC) 官方美容指南与兽医整�
 steps:
   - name: "约克夏梗的身体语言：小型猎犬的警惕与极致信任"
     text: "虽然体型娇小，约克夏仍保留着强烈的看护与猎犬本能。当它们将耳朵紧贴向后、尾巴僵硬地水平举起时，表示正在对外部微小声音保持高度警惕。相反，翻滚露出肚皮并在空中摆动四爪，则代表极度的心理安全感、服从以及对家长的撒娇。"
-  - name: "约克夏梗 (Yorkshire Terrier)'s Body Language & Signals"
+  - name: "约克夏梗 (Yorkshire Terrier) 的肢体语言与行为信号"
     text: "* 耳朵后贴与尾巴平举僵硬 (Pinned Ears & Rigid Tail): 因外部微小噪音或刺激处于紧张警惕状态，正采取防卫姿态。 (切勿强行抱起。请在地面平视高度平静呼唤其名字，并用零食转移注意力以平复情绪。)
 
 * 翻滚露肚与空中划爪 (Belly Show & Air Paddling): 感到极度安心与信任，正主动向家长讨要关注与抚摸。 (温柔抚摸其胸部与腹部，增进彼此间深厚的情感联结。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "约克夏梗 (Yorkshire Terrier) 定制化 3 步家庭护理流程"
     text: "* STEP 1. 早晨：使用保湿喷雾与针梳进行防打结顺理: 梳理前喷洒专用保湿护毛喷雾，用针梳从毛根至毛尖温柔梳理，防止静电与断毛。
 
 * STEP 2. 下午：剃除足底毛与防滑地垫检查: 定期修剪脚垫缝隙间的毛发，检查防滑垫摆放，防止在光滑地板上滑倒损伤髌骨。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. 约克夏梗 (Yorkshire Terrier)'s Body Language & Signals
+## 2. 约克夏梗 (Yorkshire Terrier) 的肢体语言与行为信号
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -69,7 +69,7 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 因外部微小噪音或刺激处于紧张警惕状态，正采取防卫姿态。<br/>
-    <strong>•  national:</strong> 切勿强行抱起。请在地面平视高度平静呼唤其名字，并用零食转移注意力以平复情绪。
+    <strong>• 应对:</strong> 切勿强行抱起。请在地面平视高度平静呼唤其名字，并用零食转移注意力以平复情绪。
   </p>
 </div>
 
@@ -80,13 +80,13 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 感到极度安心与信任，正主动向家长讨要关注与抚摸。<br/>
-    <strong>•  national:</strong> 温柔抚摸其胸部与腹部，增进彼此间深厚的情感联结。
+    <strong>• 应对:</strong> 温柔抚摸其胸部与腹部，增进彼此间深厚的情感联结。
   </p>
 </div>
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. 约克夏梗 (Yorkshire Terrier) 定制化 3 步家庭护理流程
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

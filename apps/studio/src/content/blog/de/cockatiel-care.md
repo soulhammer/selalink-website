@@ -13,11 +13,11 @@ authority: "Association of Avian Veterinarians (AAV) & Verhaltensempfehlungen"
 steps:
   - name: "Kommunikation des Nymphensittichs: Die Sprache der Haube"
     text: "Die Haube verrät die Stimmung des Vogels. Steht sie steil aufgerichtet, ist er wachsam; neigt er den Kopf, fordert er Krauleinheiten ein."
-  - name: "Nymphensittich (Nymphicus hollandicus / Cockatiel)'s Body Language & Signals"
+  - name: "Körpersprache und Verhaltenssignale von Nymphensittich (Nymphicus hollandicus / Cockatiel)"
     text: "* Steil Aufgerichtete Haube (Fully Erect Crest): Hohe Aufmerksamkeit, Neugier oder Skepsis gegenüber neuen Reizen im Raum. (Ruhig sprechen und keine hastigen Bewegungen machen, bis sich der Vogel beruhigt hat.)
 
 * Gesenkter Kopf und Vorgebeugter Nacken (Head Lowering for Scratches): Großes Vertrauen und die Bitte um Kraulen an den Wangen und am Hinterkopf. (Sanft entgegen der Federrichtung an den Wangenfedern kraulen.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Maßgeschneiderte 3-Schritte-Tagesroutine für Nymphensittich (Nymphicus hollandicus / Cockatiel)"
     text: "* STEP 1. Morgen: Lüften, Gefiedercheck und Frisches Pelletergänzungsfutter: Käfig abdecken, frisches Wasser und Pellets anbieten sowie das Flugverhalten beobachten.
 
 * STEP 2. Nachmittag: Gesicherter Freiflug und Beschäftigungsspielzeug: 1 - 2 Stunden Freiflug im gesicherten Raum ermöglichen und Futtersuch-Spielzeug bereitstellen.
@@ -60,7 +60,7 @@ Der Nymphensittich mit seinen roten Bäckchen und der eleganten Haube gehört zu
 
 ---
 
-## 2. Nymphensittich (Nymphicus hollandicus / Cockatiel)'s Body Language & Signals
+## 2. Körpersprache und Verhaltenssignale von Nymphensittich (Nymphicus hollandicus / Cockatiel)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Der Nymphensittich mit seinen roten Bäckchen und der eleganten Haube gehört zu
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Maßgeschneiderte 3-Schritte-Tagesroutine für Nymphensittich (Nymphicus hollandicus / Cockatiel)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

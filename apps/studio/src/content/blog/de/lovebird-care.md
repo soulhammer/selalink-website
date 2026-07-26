@@ -1,0 +1,149 @@
+---
+layout: "../../../layouts/BlogPostLayout.astro"
+title: "Verhaltenssignale der Unzertrennlichen (Agapornis) und 3-Schritte-Tagesroutine für Atemwege und Legenot-Prophylaxe"
+description: "Pflegeanleitung für Unzertrennliche (Lovebirds). PTFE-Gase vermeiden, Hochwürgen und Revierverhalten verstehen und Legenot in 3 Schritten vorbeugen."
+pubDate: "2026-05-05"
+updatedDate: "2026-07-26"
+category: "FreshSelf"
+tags: ["Haustierpflege","Haustiergesundheit","Unzertrennliche / Lovebird (Agapornis)"]
+heroImage: "/images/blog/lovebird_care.webp"
+app: "petself"
+formatVersion: 4
+authority: "Association of Avian Veterinarians (AAV) & Standards des World Parrot Trust"
+steps:
+  - name: "Körpersprache der Unzertrennlichen: Hochwürgen von Futter und Revier-Flügelspreizen"
+    text: "Unzertrennliche drücken Zuneigung und Reviergrenzen klar durch Schnabel- und Flügelgesten aus. Rhythmisches Kopfnicken mit 'Hochwürgen von Futter (Regurgitation)' ist der höchste Vertrauensbeweis gegenüber dem Partner oder Halter. Das weite Spreizen der Flügel mit Schnabelknacken an der Käfigtür 'Revier-Flügelspreizen (Territorial Stance)' ist dagegen eine deutliche Warnung vor einem bevorstehenden Biss."
+  - name: "Körpersprache und Verhaltenssignale von Unzertrennliche / Lovebird (Agapornis)"
+    text: "* Kopfnicken und Hochwürgen von Futter (Regurgitation): Starkes Balz- und Vertrauensverhalten; der Vogel sieht den Halter als seinen festen Partner an. (Lenken Sie die Aufmerksam mild auf Spielzeug um, um eine hormonelle Überstimulation und Eierlegen zu verhindern.)
+
+* Breites Flügelspreizen & Schnabelknacken (Territorial Stance / Beak Clicking): Deutliches Warnsignal zur Verteidigung des Reviers (Käfig/Nest) mit akuter Bissgefahr. (Greifen Sie nicht in den Käfig; warten Sie geduldig, bis der Vogel freiwillig herauskommt.)"
+  - name: "Maßgeschneiderte 3-Schritte-Tagesroutine für Unzertrennliche / Lovebird (Agapornis)"
+    text: "* STEP 1. Morgen: Pellets (60–70 %), vitamin-A-reiches Grünfutter & Raumlüftung: Füttern Sie hochwertige Pellets mit frischem Gemüse (Möhren, Brokkoli) zur Fettleber-Prophylaxe und halten Sie die Luft sauber.
+
+* STEP 2. Mittag: Knabberspielzeug (Foraging) & Sicherer Freiflug: Bieten Sie Papierschredder-Spielzeug gegen Langeweile und Federrupfen an und ermöglichen Sie Freiflug im gesicherten Raum.
+
+* STEP 3. Abend: Rücken-Streicheln vermeiden & 10–12 Stunden Schlafabdunkelung: Streicheln Sie nicht über Rücken oder Bauch, um Legereize zu vermeiden, und decken Sie den Käfig für 10–12 Stunden Nachtruhe ab."
+faqs:
+  - question: "Warum sind Dämpfe von Teflon-Pfannen (PTFE) für Unzertrennliche tödlich?"
+    answer: "Agaporniden besitzen ein hocheffizientes Atmungssystem mit Luftsäcken, das Luftgifte rasch aufnimmt. Überhitztes Teflon setzt geruchlose, unsichtbare Gase frei, die schwere Lungenblutungen und Atemschock auslösen. Der Käfig gehört niemals in die Nähe der Küche."
+  - question: "Ist es gefährlich, wenn meine Unzertrennlichen-Henne ständig Eier legt?"
+    answer: "Ja, dauerhaftes Eierlegen ist lebensgefährlich! Es entzieht dem Körper Calcium, schwächt die Knochen und führt zur tödlichen 'Legenot (Egg Binding)', bei der das Ei feststeckt. Begrenzen Sie das Tageslicht auf 10-12 Stunden Abdunkelung und entfernen Sie Nistkästen und Spiegel."
+---
+
+Weil sie eine extrem enge Bindung zu ihrem Partner eingehen, werden Agaporniden auch 'Unzertrennliche' oder 'Lovebirds' genannt. Sie sind weltweit für ihre bunten Farben und lebhaften Persönlichkeiten beliebt. Ihre starke Bindungsfähigkeit geht jedoch mit starkem Revierverhalten und hoher hormoneller Empfindlichkeit einher. Zu lange Tageslichtzeiten oder Streicheln am Rücken lösen dauerhaftes Eierlegen und lebensgefährliche Legenot (Egg Binding) aus. Aufgrund ihrer Luftsäcke reagieren sie zudem extrem sensibel auf Teflon-Gase (PTFE). Heute zeigt PetSelf eine 3-Schritte-Routine für die Gesundheit Ihrer Unzertrennlichen.
+
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
+  <span class="text-2xl">🛡️</span>
+  <div>
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      Veterinärmedizinische & verhaltensbedingte Nachweise
+    </h5>
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
+      Dieser Inhalt basiert auf <strong>Association of Avian Veterinarians (AAV) & Standards des World Parrot Trust</strong>.
+    </p>
+  </div>
+</div>
+
+---
+
+## 1. Körpersprache der Unzertrennlichen: Hochwürgen von Futter und Revier-Flügelspreizen
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Körpersprache der Unzertrennlichen: Hochwürgen von Futter und Revier-Flügelspreizen</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    Unzertrennliche drücken Zuneigung und Reviergrenzen klar durch Schnabel- und Flügelgesten aus. Rhythmisches Kopfnicken mit 'Hochwürgen von Futter (Regurgitation)' ist der höchste Vertrauensbeweis gegenüber dem Partner oder Halter. Das weite Spreizen der Flügel mit Schnabelknacken an der Käfigtür 'Revier-Flügelspreizen (Territorial Stance)' ist dagegen eine deutliche Warnung vor einem bevorstehenden Biss.
+  </p>
+</div>
+
+---
+
+## 2. Körpersprache und Verhaltenssignale von Unzertrennliche / Lovebird (Agapornis)
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Körpersignal 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Kopfnicken und Hochwürgen von Futter (Regurgitation)</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• Bedeutung:</strong> Starkes Balz- und Vertrauensverhalten; der Vogel sieht den Halter als seinen festen Partner an.<br/>
+    <strong>• Reaktion:</strong> Lenken Sie die Aufmerksam mild auf Spielzeug um, um eine hormonelle Überstimulation und Eierlegen zu verhindern.
+  </p>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Körpersignal 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Breites Flügelspreizen & Schnabelknacken (Territorial Stance / Beak Clicking)</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• Bedeutung:</strong> Deutliches Warnsignal zur Verteidigung des Reviers (Käfig/Nest) mit akuter Bissgefahr.<br/>
+    <strong>• Reaktion:</strong> Greifen Sie nicht in den Käfig; warten Sie geduldig, bis der Vogel freiwillig herauskommt.
+  </p>
+</div>
+
+---
+
+## 3. Maßgeschneiderte 3-Schritte-Tagesroutine für Unzertrennliche / Lovebird (Agapornis)
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Morgen: Pellets (60–70 %), vitamin-A-reiches Grünfutter & Raumlüftung</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    Füttern Sie hochwertige Pellets mit frischem Gemüse (Möhren, Brokkoli) zur Fettleber-Prophylaxe und halten Sie die Luft sauber.
+  </p>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Mittag: Knabberspielzeug (Foraging) & Sicherer Freiflug</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    Bieten Sie Papierschredder-Spielzeug gegen Langeweile und Federrupfen an und ermöglichen Sie Freiflug im gesicherten Raum.
+  </p>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Abend: Rücken-Streicheln vermeiden & 10–12 Stunden Schlafabdunkelung</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    Streicheln Sie nicht über Rücken oder Bauch, um Legereize zu vermeiden, und decken Sie den Käfig für 10–12 Stunden Nachtruhe ab.
+  </p>
+</div>
+
+---
+
+
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Häufig gestellte Fragen (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
+      <span>Warum sind Dämpfe von Teflon-Pfannen (PTFE) für Unzertrennliche tödlich?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Agaporniden besitzen ein hocheffizientes Atmungssystem mit Luftsäcken, das Luftgifte rasch aufnimmt. Überhitztes Teflon setzt geruchlose, unsichtbare Gase frei, die schwere Lungenblutungen und Atemschock auslösen. Der Käfig gehört niemals in die Nähe der Küche.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>Ist es gefährlich, wenn meine Unzertrennlichen-Henne ständig Eier legt?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Ja, dauerhaftes Eierlegen ist lebensgefährlich! Es entzieht dem Körper Calcium, schwächt die Knochen und führt zur tödlichen 'Legenot (Egg Binding)', bei der das Ei feststeckt. Begrenzen Sie das Tageslicht auf 10-12 Stunden Abdunkelung und entfernen Sie Nistkästen und Spiegel.
+    </p>
+  </details>
+</div>

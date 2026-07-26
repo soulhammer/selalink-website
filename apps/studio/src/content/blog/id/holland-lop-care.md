@@ -13,11 +13,11 @@ authority: "House Rabbit Society (HRS) & Standar Medis Dokter Hewan AEMV"
 steps:
   - name: "Komunikasi Holland Lop: Tarian Binky & Menghentakkan Kaki Belakang"
     text: "Kelinci mengekspresikan emosi melalui gerakan tubuh. Lompatan berputar di udara 'Binky' adalah ungkapan kebahagiaan tertinggi, sedangkan menghentakkan kaki belakang (Thumping) menandakan kewaspadaan atau rasa tidak suka."
-  - name: "Kelinci Holland Lop (Oryctolagus cuniculus)'s Body Language & Signals"
+  - name: "Bahasa Tubuh dan Sinyal Perilaku Kelinci Holland Lop (Oryctolagus cuniculus)"
     text: "* Lompatan Berputar di Udara (Binky Dance): Ungkapan rasa gembira, antusiasme, dan kenyamanan luar biasa pada lingkungan serta pemiliknya. (Sediakan karpet anti-licin agar kelinci dapat berlari dan melompat aman tanpa terpeleset.)
 
 * Menghentakkan Kaki Belakang (Thumping): Peringatan bahaya akibat suara asing, bau pemangsa, atau kekesalan karena tidak diberi camilan. (Cari tahu penyebab kaget dan tenangkan dengan suara lembut bernada rendah.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutinitas Perawatan Harian 3 Langkah untuk Kelinci Holland Lop (Oryctolagus cuniculus)"
     text: "* STEP 1. Pagi: Isi Rumput Timothy Tanpa Batas & Ganti Air Minum: Isi tempat rumput dengan rumput Timothy segar pemotongan pertama untuk menjaga pergerakan usus dan pengikisan gigi.
 
 * STEP 2. Siang: Cek Kebersihan Telinga Menggantung & Tidur Siang: Buka telinganya perlahan untuk mengecek kemerahan atau kotoran, dan pastikan tidur siang yang tenang.
@@ -60,7 +60,7 @@ Holland Lop sangat disukai di seluruh dunia karena wajah bulat dan telinganya ya
 
 ---
 
-## 2. Kelinci Holland Lop (Oryctolagus cuniculus)'s Body Language & Signals
+## 2. Bahasa Tubuh dan Sinyal Perilaku Kelinci Holland Lop (Oryctolagus cuniculus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Holland Lop sangat disukai di seluruh dunia karena wajah bulat dan telinganya ya
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutinitas Perawatan Harian 3 Langkah untuk Kelinci Holland Lop (Oryctolagus cuniculus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

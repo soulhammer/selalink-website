@@ -13,11 +13,11 @@ authority: "Medizinische Richtlinien der House Rabbit Society und Tierärztliche
 steps:
   - name: "Kaninchen-Emotionsausdruck: Hinterpfoten-Klopfen und Zähneknirschen"
     text: "Farbenzwergkaninchen klopfen laut mit den Hinterpfoten auf den Boden 'Klopfen mit den Hinterpfoten (Thumping)', um vor Gefahren zu warnen oder tiefe Frustration und Ablehnung auszudrücken. Umgekehrt reiben sie bei Entspannung und Freude leicht mit den Zähnen, um ein leises Klicken zu erzeugen, das 'Zähneknirschen (Teeth Purring)' genannt wird. Das Erkennen dieser Signale sichert eine glückliche und gesunde Bindung."
-  - name: "Farbenzwergkaninchen (Oryctolagus cuniculus)'s Body Language & Signals"
+  - name: "Körpersprache und Verhaltenssignale von Farbenzwergkaninchen (Oryctolagus cuniculus)"
     text: "* Pfotenklopfen (Thumping): Eine deutliche Warnung, um andere vor Gefahren zu warnen oder starken Ärger, Stress und Ablehnung auszudrücken. (Identifizieren Sie den Stressfaktor, blockieren Sie plötzlichen Lärm oder andere Haustiere und beobachten Sie aus der Ferne, bis sie sich sicher fühlen.)
 
 * Zähneknirschen (Teeth Purring): Ein Zeichen von Freude und Sicherheit, ähnlich dem Schnurren einer Katze, das oft beim sanften Streicheln zu spüren ist. (Massieren Sie sanft die Stirn und die Basis der Ohren, um die emotionale Bindung zu vertiefen.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Maßgeschneiderte 3-Schritte-Tagesroutine für Farbenzwergkaninchen (Oryctolagus cuniculus)"
     text: "* STEP 1. Morgen: Fütterung von balanciertem Timothy-Heu und frischem Wasser: Für den Zahnabrieb und eine aktive Darmperistaltik füllen Sie die Heuraufe früh morgens mit frischem, staubfreiem Timothy-Heu und reinigen Sie den Wassernapf für frisches Trinkwasser.
 
 * STEP 2. Nachmittag: Reinigung der Toilettenschale und Kontrolle der Pfotenballen: Reinigen Sie die Toilettenschale für gute Hygiene und kontrollieren Sie die Pfotenballen und Bodenmatten zur Vermeidung von wunden Läufen (Pododermatitis).
@@ -60,7 +60,7 @@ Mit winzigen Ohren und einem kompakten runden Körper ist das Farbenzwergkaninch
 
 ---
 
-## 2. Farbenzwergkaninchen (Oryctolagus cuniculus)'s Body Language & Signals
+## 2. Körpersprache und Verhaltenssignale von Farbenzwergkaninchen (Oryctolagus cuniculus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Mit winzigen Ohren und einem kompakten runden Körper ist das Farbenzwergkaninch
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Maßgeschneiderte 3-Schritte-Tagesroutine für Farbenzwergkaninchen (Oryctolagus cuniculus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

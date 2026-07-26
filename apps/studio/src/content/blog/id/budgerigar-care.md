@@ -13,11 +13,11 @@ authority: "Association of Avian Veterinarians (AAV) & Protokol Perawatan World 
 steps:
   - name: "Bahasa Tubuh Budgie: Gesekan Paruh dan Gerakan Pupil Mengecil (Pupil Pinning)"
     text: "Budgie menyampaikan emosinya dengan jelas melalui suara paruh dan perubahan pupil mata. 'Menggesekkan paruh (Beak Grinding)' sebelum tidur adalah tanda klasik rasa nyaman dan rileks. Sebaliknya, mengecilnya pupil mata secara cepat yang disebut 'Pupil Pinning' menandakan rasa ingin tahu yang besar, kegembiraan, atau fokus yang tinggi."
-  - name: "Parkit Australia / Budgie (Budgerigar / Budgie)'s Body Language & Signals"
+  - name: "Bahasa Tubuh dan Sinyal Perilaku Parkit Australia / Budgie (Budgerigar / Budgie)"
     text: "* Suara paruh bergesek dengan lembut (Beak Grinding): Tanda rasa santai, aman, dan puas sesaat sebelum beristirahat atau tidur. (Jangan ganggu mereka dan redupkan lampu ruangan untuk menciptakan suasana tidur yang tenang.)
 
 * Pupil mata mengecil dengan cepat (Pupil Pinning): Kondisi sangat gembira, penasaran, atau terfokus pada mainan, suara, atau objek baru. (Bicara dengan nada lembut untuk menenangkan emosi mereka agar tidak menggigit akibat stimulasi berlebih.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutinitas Perawatan Harian 3 Langkah untuk Parkit Australia / Budgie (Budgerigar / Budgie)"
     text: "* STEP 1. Pagi: Pemberian Pelet Nutrisi, Sayuran Segar & Ventilasi Udara: Kurangi porsi biji-bijian untuk mencegah penyakit hati berlemak, berikan pelet nutrisi dan sayuran hijau segar, serta pastikan sirkulasi udara bersih.
 
 * STEP 2. Siang: Mainan Pencarian Makanan (Foraging) & Terbang Bebas yang Aman: Sediakan mainan kertas untuk dicabik agar mencegah stres merusak bulu, dan biarkan terbang di dalam ruangan yang aman dengan jendela tertutup.
@@ -60,7 +60,7 @@ Parkit Australia (Budgie) adalah salah satu burung peliharaan paling populer di 
 
 ---
 
-## 2. Parkit Australia / Budgie (Budgerigar / Budgie)'s Body Language & Signals
+## 2. Bahasa Tubuh dan Sinyal Perilaku Parkit Australia / Budgie (Budgerigar / Budgie)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Parkit Australia (Budgie) adalah salah satu burung peliharaan paling populer di 
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutinitas Perawatan Harian 3 Langkah untuk Parkit Australia / Budgie (Budgerigar / Budgie)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

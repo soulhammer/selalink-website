@@ -13,11 +13,11 @@ authority: "Guide de Soins des Hamsters de la Humane Society et Protocoles Compo
 steps:
   - name: "Communication du hamster syrien : Grincement de dents et signaux de vigilance"
     text: "Les hamsters syriens expriment leur colère ou leur peur en émettant un bruit de grincement de dents (Teeth Chattering) caractéristique, vous avertissant de garder vos distances. De plus, lorsqu'ils sont surpris par des bruits soudains, ils replient leurs oreilles et s'immobilisent (Ear Flattening). Reconnaître ces signaux délicats du langage corporel est la clé de leur confort."
-  - name: "Hamster Syrien / Doré (Mesocricetus auratus)'s Body Language & Signals"
+  - name: "Langage corporel et signaux comportementaux du Hamster Syrien / Doré (Mesocricetus auratus)"
     text: "* Grincement de dents (Teeth Chattering): Un avertissement ferme qu'ils se sentent menacés ou extrêmement sensibles. Ne pas approcher. (Arrêtez immédiatement toute manipulation ou nettoyage, et laissez-leur un espace calme pour s'apaiser dans leur cachette.)
 
 * Oreilles repliées et immobilisation (Ear Flattening): Un état de tension et de prudence élevé, déclenché par des vibrations soudaines ou des stimuli visuels inconnus. (Évitez les bruits forts ou les mouvements brusques à proximité, et tamisez les lumières pour garder la pièce sombre et confortable.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Routine quotidienne en 3 étapes pour le soin du Hamster Syrien / Doré (Mesocricetus auratus)"
     text: "* STEP 1. Matin : Organisation de la cachette et remplacement de l'eau: Puisque les hamsters dorment le matin, ne perturbez pas l'intérieur de leur cachette. Remplacez l'eau et nettoyez légèrement les saletés autour de la cage.
 
 * STEP 2. Après-midi : Maintenir un environnement silencieux et sombre pour un sommeil profond: Assurez-leur un sommeil sans interruption en évitant les appareils ménagers bruyants à proximité et en ombrageant la cage.
@@ -60,7 +60,7 @@ Le petit et adorable hamster syrien ou doré est l'un des animaux de compagnie s
 
 ---
 
-## 2. Hamster Syrien / Doré (Mesocricetus auratus)'s Body Language & Signals
+## 2. Langage corporel et signaux comportementaux du Hamster Syrien / Doré (Mesocricetus auratus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Le petit et adorable hamster syrien ou doré est l'un des animaux de compagnie s
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Routine quotidienne en 3 étapes pour le soin du Hamster Syrien / Doré (Mesocricetus auratus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

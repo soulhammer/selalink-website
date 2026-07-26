@@ -13,11 +13,11 @@ authority: "英国皇家防止虐待动物协会 (RSPCA) 啮齿类动物护理�
 steps:
   - name: "天竺鼠的情感表达：Wheek尖叫与爆米花跳跃"
     text: "天竺鼠是感情表达非常丰富且乐于发声的动物。在期盼食物或向主人打招呼时，它们会发出洪亮的“喂喂 (Wheeking)”高频尖叫。而在极度快乐、感到安全与兴奋时，它们会突然原地弹跳，这种独特行为被称为“爆米花跳 (Popcorning)”。"
-  - name: "阿比西尼亚天竺鼠 (Abyssinian Guinea Pig)'s Body Language & Signals"
+  - name: "阿比西尼亚天竺鼠 (Abyssinian Guinea Pig) 的肢体语言与行为信号"
     text: "* 喂喂尖叫 (Wheeking): 极度兴奋或索要食物的叫声，特别是在听到冰箱门开或蔬菜袋声音时发出。 (适量给予富含维生素C的彩椒或专业维C片，趁机建立亲密的互动关系。)
 
 * 爆米花蹦跳 (Popcorning): 身体突然原地腾空跃起，甚至在空中扭转，代表其精神状态极佳、充满幸福感与安全感。 (确保笼舍内没有坚硬尖锐的边角，防止其在开心跳跃时发生碰撞受伤。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "阿比西尼亚天竺鼠 (Abyssinian Guinea Pig) 定制化 3 步家庭护理流程"
     text: "* STEP 1. 早上：高活性维生素C喂食与提摩西草检查: 直接喂食天竺鼠专用的维生素C片或富含维C的彩椒（切勿加入饮水中，光照下极易降解）。塞满干净的提摩西干草。
 
 * STEP 2. 中午：笼舍局部打扫与牧草粉尘控制: 清理被尿液浸湿的垫料以防氨气积聚。干草在放入草架前在外抖掉粉尘，以防吸入性呼吸道刺激。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. 阿比西尼亚天竺鼠 (Abyssinian Guinea Pig)'s Body Language & Signals
+## 2. 阿比西尼亚天竺鼠 (Abyssinian Guinea Pig) 的肢体语言与行为信号
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -69,7 +69,7 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 极度兴奋或索要食物的叫声，特别是在听到冰箱门开或蔬菜袋声音时发出。<br/>
-    <strong>•  national:</strong> 适量给予富含维生素C的彩椒或专业维C片，趁机建立亲密的互动关系。
+    <strong>• 应对:</strong> 适量给予富含维生素C的彩椒或专业维C片，趁机建立亲密的互动关系。
   </p>
 </div>
 
@@ -80,13 +80,13 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 身体突然原地腾空跃起，甚至在空中扭转，代表其精神状态极佳、充满幸福感与安全感。<br/>
-    <strong>•  national:</strong> 确保笼舍内没有坚硬尖锐的边角，防止其在开心跳跃时发生碰撞受伤。
+    <strong>• 应对:</strong> 确保笼舍内没有坚硬尖锐的边角，防止其在开心跳跃时发生碰撞受伤。
   </p>
 </div>
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. 阿比西尼亚天竺鼠 (Abyssinian Guinea Pig) 定制化 3 步家庭护理流程
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

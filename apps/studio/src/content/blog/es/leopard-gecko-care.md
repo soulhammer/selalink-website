@@ -13,11 +13,11 @@ authority: "Asociación de Veterinarios de Reptiles y Anfibios (ARAV) Guías de 
 steps:
   - name: "Lenguaje Corporal del Gecko: Movimientos de Cola y Muda de Piel"
     text: "Su cola regordeta es una reserva de grasa y una herramienta de comunicación. Diferenciar el balanceo lento defensivo de la agitación alegre durante la caza previene el estrés."
-  - name: "Gecko Leopardo (Eublepharis macularius / Leopard Gecko)'s Body Language & Signals"
+  - name: "Lenguaje corporal y señales de conducta de Gecko Leopardo (Eublepharis macularius / Leopard Gecko)"
     text: "* Balanceo Lento de Cola en Forma de 'S' (Slow Tail Waving): Señal de advertencia defensiva de alta alerta cuando se siente amenazado o asustado. (Detén la manipulación de inmediato, retira la mano despacio y deja que se refugie.)
 
 * Piel Pálida Blanquecina y Frotado de Ojos (Pre-Shedding Signal): Inicio del proceso de muda de piel; las capas viejas se desprenden y requieren alta humedad. (Pulveriza agua tibia en la cueva húmeda para elevar la humedad por encima del 70%.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutina diaria de 3 pasos para el cuidado de Gecko Leopardo (Eublepharis macularius / Leopard Gecko)"
     text: "* STEP 1. Mañana: Control Térmico e Humidificación de Cueva: Comprueba la temperatura de la manta térmica (30°C ~ 32°C) e humedece el sustrato de la cueva.
 
 * STEP 2. Tarde: Entorno Tranquilo para Descanso Diurno: Evita luces directas y ruidos fuertes para respetar su ciclo de sueño nocturno.
@@ -60,7 +60,7 @@ El Gecko Leopardo es el reptil doméstico más popular del mundo. Según la ARAV
 
 ---
 
-## 2. Gecko Leopardo (Eublepharis macularius / Leopard Gecko)'s Body Language & Signals
+## 2. Lenguaje corporal y señales de conducta de Gecko Leopardo (Eublepharis macularius / Leopard Gecko)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ El Gecko Leopardo es el reptil doméstico más popular del mundo. Según la ARAV
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutina diaria de 3 pasos para el cuidado de Gecko Leopardo (Eublepharis macularius / Leopard Gecko)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

@@ -13,11 +13,11 @@ authority: "Guía Oficial de Razas del American Kennel Club (AKC) y Protocolos d
 steps:
   - name: "Lenguaje corporal del maltés: Señales de estrés y comodidad"
     text: "Al ser perros con alta dependencia psicológica de sus dueños, los malteses muestran silenciosamente su estado de ánimo a través de gestos corporales. Las señales de calma típicas incluyen 'lamerse la nariz' (Nose Licking) y 'bostezar' (Yawning). Al enfrentarse a un entorno tenso o desconocido, lamerse la nariz o bostezar no es por sueño; es un mensaje pacífico para calmarse a sí mismos y pedir a los demás que no los amenacen. Si los dueños continúan con un contacto excesivo, aumenta su estrés. Lo mejor es dar un paso atrás y darles espacio."
-  - name: "Maltés (Canis lupus familiaris / Maltese)'s Body Language & Signals"
+  - name: "Lenguaje corporal y señales de conducta de Maltés (Canis lupus familiaris / Maltese)"
     text: "* Bostezar (Yawning): No es por fatiga; es una señal de 'por favor, cálmate' para calmarse a sí mismos y a los demás. (Si bostezan durante el entrenamiento o el aseo, deténgase inmediatamente y ofrezca un espacio tranquilo.)
 
 * Lamerse la nariz (Nose Licking): Una expresión de autocalma cuando se sienten incómodos o ansiosos en su situación actual. (Si se muestra al cargarlo o al acercarse extraños, detenga el contacto físico y déles espacio.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutina diaria de 3 pasos para el cuidado de Maltés (Canis lupus familiaris / Maltese)"
     text: "* STEP 1. Mañana: Control antideslizante y estiramiento articular: Revise que las alfombras no se hayan desplazado. Cuando se estire por la mañana, masajee suavemente las articulaciones traseras. Asegúrese de recortar el pelo de las almohadillas.
 
 * STEP 2. Tarde: Higiene ocular diaria y cepillado de zona facial: Una vez al día, limpie la zona de los ojos con peines finos y soluciones limpiadoras. El pelo húmedo genera manchas rojas e infecciones; seque minuciosamente con algodón.
@@ -64,7 +64,7 @@ Hoy, PetSelf explora el lenguaje corporal del maltés e introduce una rutina de 
 
 ---
 
-## 2. Maltés (Canis lupus familiaris / Maltese)'s Body Language & Signals
+## 2. Lenguaje corporal y señales de conducta de Maltés (Canis lupus familiaris / Maltese)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -90,7 +90,7 @@ Hoy, PetSelf explora el lenguaje corporal del maltés e introduce una rutina de 
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutina diaria de 3 pasos para el cuidado de Maltés (Canis lupus familiaris / Maltese)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

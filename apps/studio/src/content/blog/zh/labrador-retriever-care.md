@@ -13,11 +13,11 @@ authority: "美国 Kennel Club (KC) 拉布拉多犬指南与兽医护理标准"
 steps:
   - name: "拉布拉多犬的肢体语言：“柔和衔取”与乞食信号"
     text: "拉布拉多犬拥有被称为 “柔和衔取 (Soft Mouth)”的本能，能小心翼翼地衔取猎物而不破坏它。它们轻柔地用嘴咬着玩具或物品递给主人，是表达亲密和邀请玩耍的信号。相反，将下巴搁在主人的膝盖上并死死凝视，则是强烈的食欲驱动下的乞食信号。"
-  - name: "拉布拉多犬 (Labrador Retriever)'s Body Language & Signals"
+  - name: "拉布拉多犬 (Labrador Retriever) 的肢体语言与行为信号"
     text: "* 轻柔衔取物品而不咬坏 (Soft Mouth): 寻回犬 (Retriever) 本能的表现，代表对主人的信任与深厚感情。 (切勿强行夺取物品，给予夸奖后可以通过标准的抛接寻回游戏 (Fetch) 来满足其本能。)
 
 * 下巴搁在膝盖上并凝视 (Begging & Eye Contact): 受 POMC 基因突变影响缺乏饱腹感，正在向主人索要零食。 (切勿无条件给予零食，应保持定时定量的饮食，并结合低热量嗅闻玩具控制体重。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "拉布拉多犬 (Labrador Retriever) 定制化 3 步家庭护理流程"
     text: "* STEP 1. 早上：使用慢食碗进食与保护髋关节的平地散步: 使用慢食碗防止狼吞虎咽，散步时选择平坦路段以减轻髋关节负担。
 
 * STEP 2. 中午：飞盘/接球寻回游戏与游泳后耳部清洁: 开展寻回游戏消耗精力，水上活动后务必使用犬用洗耳液清洁耳道内的水分以预防耳炎。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. 拉布拉多犬 (Labrador Retriever)'s Body Language & Signals
+## 2. 拉布拉多犬 (Labrador Retriever) 的肢体语言与行为信号
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -69,7 +69,7 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 寻回犬 (Retriever) 本能的表现，代表对主人的信任与深厚感情。<br/>
-    <strong>•  national:</strong> 切勿强行夺取物品，给予夸奖后可以通过标准的抛接寻回游戏 (Fetch) 来满足其本能。
+    <strong>• 应对:</strong> 切勿强行夺取物品，给予夸奖后可以通过标准的抛接寻回游戏 (Fetch) 来满足其本能。
   </p>
 </div>
 
@@ -80,13 +80,13 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 受 POMC 基因突变影响缺乏饱腹感，正在向主人索要零食。<br/>
-    <strong>•  national:</strong> 切勿无条件给予零食，应保持定时定量的饮食，并结合低热量嗅闻玩具控制体重。
+    <strong>• 应对:</strong> 切勿无条件给予零食，应保持定时定量的饮食，并结合低热量嗅闻玩具控制体重。
   </p>
 </div>
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. 拉布拉多犬 (Labrador Retriever) 定制化 3 步家庭护理流程
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

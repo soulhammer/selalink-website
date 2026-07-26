@@ -13,11 +13,11 @@ authority: "Association of Avian Veterinarians (AAV) & Normes de soins du World 
 steps:
   - name: "Langage corporel de la Perruche Ondulée : Grincement de bec et contraction des pupilles"
     text: "La perruche exprime ses émotions par les sons de son bec et les mouvements de ses yeux. Le « Grincement de bec (Beak Grinding) » avant de s'endormir est un signe classique de bien-être. À l'inverse, la contraction rapide de la pupille qui laisse apparaître le blanc de l'œil, appelée « Pupil Pinning », traduit une forte curiosité, une excitation ou une grande concentration."
-  - name: "Perruche Ondulée (Budgerigar / Budgie)'s Body Language & Signals"
+  - name: "Langage corporel et signaux comportementaux du Perruche Ondulée (Budgerigar / Budgie)"
     text: "* Frottement crissant du bec (Beak Grinding): Signe de détente profonde, de sécurité et de satisfaction juste avant le repos ou le sommeil. (Ne la dérangez pas et tamisez la lumière de la pièce pour lui offrir un environnement calme.)
 
 * Contraction rapide de la pupille (Pupil Pinning): État de grande excitation ou de curiosité intense déclenché par un jouet, une voix ou une nouveauté. (Parlez-lui d'une voix douce pour apaiser ses émotions et éviter les coups de bec dus à la surstimulation.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Routine quotidienne en 3 étapes pour le soin du Perruche Ondulée (Budgerigar / Budgie)"
     text: "* STEP 1. Matin : Distribution d'extrudés, légumes frais et aération de la pièce: Réduisez les graines pour éviter la stéatose hépatique, donnez des extrudés équilibrés avec des légumes feuillus frais et aérez la pièce.
 
 * STEP 2. Après-midi : Jouets de recherche (Foraging) et vol libre en toute sécurité: Proposez des jouets en papier à détruire pour éviter le piquage lié à l'ennui et permettez-lui de voler dans une pièce sécurisée.
@@ -60,7 +60,7 @@ La Perruche Ondulée est l'un des oiseaux de compagnie les plus populaires au mo
 
 ---
 
-## 2. Perruche Ondulée (Budgerigar / Budgie)'s Body Language & Signals
+## 2. Langage corporel et signaux comportementaux du Perruche Ondulée (Budgerigar / Budgie)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ La Perruche Ondulée est l'un des oiseaux de compagnie les plus populaires au mo
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Routine quotidienne en 3 étapes pour le soin du Perruche Ondulée (Budgerigar / Budgie)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

@@ -13,11 +13,11 @@ authority: "美国鸟类兽医协会 (AAV) 与世界鹦鹉信托基金会 (World
 steps:
   - name: "虎皮鹦鹉的肢体语言：磨嘴声与瞳孔收缩 (Pupil Pinning)"
     text: "虎皮鹦鹉通过嘴部发声与瞳孔变化清晰表达情绪。睡前“发出咯吱咯吱的磨嘴声 (Beak Grinding)”代表放松与满足。相反，当对新事物兴奋或集中注意力听主人说话时，“瞳孔瞬间收缩显露眼白 (Pupil Pinning)”则代表强烈的各种好奇或情绪亢奋。"
-  - name: "虎皮鹦鹉 / 娇凤 (Budgerigar / Budgie)'s Body Language & Signals"
+  - name: "虎皮鹦鹉 / 娇凤 (Budgerigar / Budgie) 的肢体语言与行为信号"
     text: "* 发出沙沙/咯吱的磨嘴声 (Beak Grinding): 入睡前或对环境感到高度安全与满足时的放松休息信号。 (切勿打扰，调暗室内灯光，为其营造安静舒适的入睡环境。)
 
 * 瞳孔瞬间缩小 (Pupil Pinning): 对新玩具、主人的声音或周围环境处于高度兴奋、好奇或专注状态。 (用温柔平缓的语气与之交流，平复其情绪，防止过度亢奋引发咬人行为。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "虎皮鹦鹉 / 娇凤 (Budgerigar / Budgie) 定制化 3 步家庭护理流程"
     text: "* STEP 1. 早上：喂食鹦鹉滋养丸与新鲜蔬菜及保持通风: 减少高脂种子比例，以综合营养滋养丸和新鲜绿叶菜（如油菜、胡萝卜）为主食，并保持室内空气清新。
 
 * STEP 2. 中午：更换觅食 (Foraging) 玩具与安全放飞: 提供撕咬纸丝或觅食玩具预防无聊拔毛，并在关好门窗的安全房间内安排放飞运动。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. 虎皮鹦鹉 / 娇凤 (Budgerigar / Budgie)'s Body Language & Signals
+## 2. 虎皮鹦鹉 / 娇凤 (Budgerigar / Budgie) 的肢体语言与行为信号
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -69,7 +69,7 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 入睡前或对环境感到高度安全与满足时的放松休息信号。<br/>
-    <strong>•  national:</strong> 切勿打扰，调暗室内灯光，为其营造安静舒适的入睡环境。
+    <strong>• 应对:</strong> 切勿打扰，调暗室内灯光，为其营造安静舒适的入睡环境。
   </p>
 </div>
 
@@ -80,13 +80,13 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 对新玩具、主人的声音或周围环境处于高度兴奋、好奇或专注状态。<br/>
-    <strong>•  national:</strong> 用温柔平缓的语气与之交流，平复其情绪，防止过度亢奋引发咬人行为。
+    <strong>• 应对:</strong> 用温柔平缓的语气与之交流，平复其情绪，防止过度亢奋引发咬人行为。
   </p>
 </div>
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. 虎皮鹦鹉 / 娇凤 (Budgerigar / Budgie) 定制化 3 步家庭护理流程
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

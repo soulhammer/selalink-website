@@ -13,11 +13,11 @@ authority: "国際猫協会（TICA）ベンガル猫基準および猫の行動�
 steps:
   - name: "ベンガル猫の感情表現：鳥のような鳴き声と尾の動き"
     text: "ベンガル猫は非常に感情表現が豊かで、明確に意思を伝えます。普通の猫のようなニャーという鳴き声だけでなく、遊びを要求したり退屈を感じたりした際に鳥のさえずりのような「チャープ音（Chirping）」を出します。尾を激しく振る動きとこれらのシグナルを見極めることで、ストレスによる問題行動を予防できます。"
-  - name: "ベンガル猫 (Prionailurus bengalensis × Felis catus)'s Body Language & Signals"
+  - name: "ベンガル猫 (Prionailurus bengalensis × Felis catus)のボディランゲージと行動サイン"
     text: "* チャープ音（鳥のようなさえずり）と大声: 積極的なコミュニケーションの要求であり、退屈を感じているため精神的・身体的な遊びを開始してほしいというサインです。 (退屈させないよう、羽のおもちゃなどですぐにハンティング遊びを開始し、無視せずに対応することが重要です。)
 
 * 尾を素早く振りながら腰を高く上げる姿勢: 獲物に強く集中しているか、溢れ出るエネルギーを抑えきれない極度の興奮状態を示します。 (レーザーポインターや自動おもちゃを活用し、広いスペースで激しく走り回らせて狩猟本能を発散させます。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "ベンガル猫 (Prionailurus bengalensis × Felis catus)のための3ステップホームケアルーティン"
     text: "* STEP 1. 朝：高強度のハンティング遊び: 羽のおもちゃや釣り竿型おもちゃを使い、15分間しっかりと遊ばせます。獲物の素早い動きを再現し、狩猟本能を強力に刺激します。
 
 * STEP 2. 昼：上下運動スペースの点検と眺望確保: 高い場所を好む特性に合わせ、キャットタワーやウォールシェルフがぐらつかないか点検し、高い窓辺から外を観察できる場所を確保します。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. ベンガル猫 (Prionailurus bengalensis × Felis catus)'s Body Language & Signals
+## 2. ベンガル猫 (Prionailurus bengalensis × Felis catus)のボディランゲージと行動サイン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ faqs:
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. ベンガル猫 (Prionailurus bengalensis × Felis catus)のための3ステップホームケアルーティン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

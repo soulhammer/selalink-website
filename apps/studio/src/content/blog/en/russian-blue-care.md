@@ -13,11 +13,11 @@ authority: "Cat Fanciers' Association (CFA) Breed Standards & Cornell Feline Hea
 steps:
   - name: "Russian Blue Body Language: Reading Warning Signs of Panic"
     text: "Because of their gentle nature, Russian Blues show warning signals quietly before reacting. Key panic signals include 'Dilated Pupils' and 'Crouching'. When they hear a sudden noise or are approached by a stranger, their pupils will dilate, becoming large and round as their stress system activates. If they press their body flat against the floor and flatten their ears sideways into 'airplane ears', they are experiencing extreme fear and are preparing to flee or defend themselves."
-  - name: "Russian Blue (Felis catus)'s Body Language & Signals"
+  - name: "Russian Blue (Felis catus)'s Body Language & Behavioral Signals"
     text: "* Dilated Pupils: A physical response indicating they are highly alert, tensed, or scared by surrounding triggers. (Dim the lights and immediately stop the stimulating source (like household appliance noises).)
 
 * Crouching Low to the Floor: A sign of defensive panic, showing they feel cornered, helpless, or terrified by an unfamiliar target. (Do not force them into physical contact. Allow them to retreat to a quiet room or cabinet where they feel safe.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Customized 3-Step Home Care Routine for Russian Blue (Felis catus)"
     text: "* STEP 1. Morning: Litter Box and Feeding Station Safety Routine: Clean the litter box early for this sensitive breed. Ensure their food and water bowls are placed in a quiet corner away from household foot traffic.
 
 * STEP 2. Afternoon: Quiet High-Rise Safe Haven Maintenance: Confirm that their cozy, enclosed cat tree condo is always accessible. This gives them a private, elevated escape from unexpected visitors or noises.
@@ -60,7 +60,7 @@ Russian Blues are captivating felines renowned for their short, silvery-blue coa
 
 ---
 
-## 2. Russian Blue (Felis catus)'s Body Language & Signals
+## 2. Russian Blue (Felis catus)'s Body Language & Behavioral Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Russian Blues are captivating felines renowned for their short, silvery-blue coa
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Customized 3-Step Home Care Routine for Russian Blue (Felis catus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

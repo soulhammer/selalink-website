@@ -13,11 +13,11 @@ authority: "Directrices Médicas de la House Rabbit Society y Estándares Veteri
 steps:
   - name: "Expresión emocional del conejo enano: Golpes de patas y chirrido de dientes"
     text: "Los conejos enanos de Holanda golpean sus patas traseras con fuerza contra el suelo 'Golpes de patas traseras (Thumping)' para advertir de un peligro o expresar frustración y enojo profundos. Por el contrario, cuando están relajados y felices, frotan sus dientes produciendo un leve chasquido llamado 'Chirrido de dientes (Teeth Purring)'. Reconocer estas señales asegura un vínculo feliz y saludable."
-  - name: "Conejo Enano de Holanda (Oryctolagus cuniculus)'s Body Language & Signals"
+  - name: "Lenguaje corporal y señales de conducta de Conejo Enano de Holanda (Oryctolagus cuniculus)"
     text: "* Golpes de patas traseras (Thumping): Una advertencia firme para notificar peligro a otros o expresar enojo, rechazo y estrés severos. (Identifique el factor de estrés, bloquee ruidos repentinos u otras mascotas, y observe en silencio desde lejos hasta que se sientan seguros.)
 
 * Chirrido de dientes (Teeth Purring): Una señal de alegría y seguridad, similar al ronroneo de un gato, que a menudo se percibe durante las caricias. (Masajee suavemente la frente y la base de las orejas para profundizar la conexión emocional.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutina diaria de 3 pasos para el cuidado de Conejo Enano de Holanda (Oryctolagus cuniculus)"
     text: "* STEP 1. Mañana: Suministro de heno Timothy alto en fibra y agua fresca: Para el desgaste de los dientes y una digestión activa, llene el comedero con heno Timothy fresco y libre de polvo a primera hora, y limpie el bebedero para dar agua fresca.
 
 * STEP 2. Tarde: Limpieza de la caja de arena e inspección de pododermatitis: Limpie la caja de arena para mantener la higiene, y verifique sus almohadillas y tapetes para prevenir pododermatitis (sore hocks) causada por pisos resbaladizos o duros.
@@ -60,7 +60,7 @@ Con orejas diminutas y un cuerpo redondo y compacto, el conejo enano de Holanda 
 
 ---
 
-## 2. Conejo Enano de Holanda (Oryctolagus cuniculus)'s Body Language & Signals
+## 2. Lenguaje corporal y señales de conducta de Conejo Enano de Holanda (Oryctolagus cuniculus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Con orejas diminutas y un cuerpo redondo y compacto, el conejo enano de Holanda 
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutina diaria de 3 pasos para el cuidado de Conejo Enano de Holanda (Oryctolagus cuniculus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

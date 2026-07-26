@@ -13,11 +13,11 @@ authority: "美国彭布罗克威尔士柯基犬俱乐部官方指南与 AKC 犬
 steps:
   - name: "柯基犬的身体语言：脊椎与情感的信号"
     text: "由于柯基犬的尾巴非常短或断尾，它们在表达情感时会积极使用整个身体和臀部。特别是在高兴时展现的“摇摆臀部（Wiggle Butt）” 和放松时将后腿向后伸直的“趴平（Splooting）” 姿势是柯基犬独有的代表性信号。这些身体语言不仅表达喜悦，还是反映关节状态和体温调节的重要指标。家长可以通过观察这些姿势来判断狗狗的压力指数和疲劳程度。"
-  - name: "威尔士柯基犬 (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "威尔士柯基犬 (Canis lupus familiaris) 的肢体语言与行为信号"
     text: "* 摇摆臀部 (Wiggle Butt): 短尾柯基犬用下半身表达极度欢迎和积极兴奋状态的方式。 (亲切地给予回应并抚摸它们，但要冷静引导，防止它们因兴奋而在沙发上跳上跳下。)
 
 * 趴平 (Splooting): 将肚子贴在凉爽的地板上以降低体温，或放松关节紧张的放松信号。 (它们正在舒适地休息，请不要打扰，并提供安静的休息空间。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "威尔士柯基犬 (Canis lupus familiaris) 定制化 3 步家庭护理流程"
     text: "* STEP 1. 早晨：防滑地垫固定与后腿2分钟拉伸: 由于身长易患脊椎椎间盘疾病，早晨应确认沙发或床底下的防滑地垫没有滑动，并进行2分钟的后腿轻微拉伸。
 
 * STEP 2. 中午：佩戴胸背带进行以平地为主的30分钟嗅闻散步: 佩戴可减轻颈部和脊椎负担的胸背带代替项圈，避开斜坡或台阶，以平地为主进行30分钟的户外嗅闻散步。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. 威尔士柯基犬 (Canis lupus familiaris)'s Body Language & Signals
+## 2. 威尔士柯基犬 (Canis lupus familiaris) 的肢体语言与行为信号
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -69,7 +69,7 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 短尾柯基犬用下半身表达极度欢迎和积极兴奋状态的方式。<br/>
-    <strong>•  national:</strong> 亲切地给予回应并抚摸它们，但要冷静引导，防止它们因兴奋而在沙发上跳上跳下。
+    <strong>• 应对:</strong> 亲切地给予回应并抚摸它们，但要冷静引导，防止它们因兴奋而在沙发上跳上跳下。
   </p>
 </div>
 
@@ -80,13 +80,13 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 将肚子贴在凉爽的地板上以降低体温，或放松关节紧张的放松信号。<br/>
-    <strong>•  national:</strong> 它们正在舒适地休息，请不要打扰，并提供安静的休息空间。
+    <strong>• 应对:</strong> 它们正在舒适地休息，请不要打扰，并提供安静的休息空间。
   </p>
 </div>
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. 威尔士柯基犬 (Canis lupus familiaris) 定制化 3 步家庭护理流程
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

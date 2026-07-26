@@ -13,11 +13,11 @@ authority: "Directives d'Exposition au Soleil de la World Chelonian Association 
 steps:
   - name: "Signaux d'exposition de la tortue musquée et défense de rétraction dans le caparaçon"
     text: "Les tortues musquées communes étirent leurs pattes arrière vers l'arrière pendant qu'elles s'exposent « Étirement des pattes arrière » (Back-Leg Stretching) pour maximiser l'absorption de lumière lorsqu'elles sont en totale confiance. À l'inverse, lorsqu'elles détectent des menaces ou des vibrations, elles rétractent leur tête et leurs membres dans leur caparaçon dur « Rétraction dans le caparaçon » (Shell Retraction) pour se défendre."
-  - name: "Tortue Musquée Commune (Sternotherus odoratus / Common Musk Turtle)'s Body Language & Signals"
+  - name: "Langage corporel et signaux comportementaux du Tortue Musquée Commune (Sternotherus odoratus / Common Musk Turtle)"
     text: "* Étirement des pattes arrière (Back-Leg Stretching): Un état détendu sous la lampe UV, étirant les membres pour absorber la chaleur et sécher la peau. (Évitez de les effrayer pour qu'elles ne sautent pas dans l'eau. Surveillez la température de la lampe à distance.)
 
 * Rétraction de la tête et des membres (Shell Retraction): Un état de vigilance, surpris par les ombres, les mouvements au-dessus ou les vibrations. (Évitez les mouvements brusques devant l'aquarium et reculez jusqu'à ce qu'elles se sentent en sécurité pour regarder dehors.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Routine quotidienne en 3 étapes pour le soin du Tortue Musquée Commune (Sternotherus odoratus / Common Musk Turtle)"
     text: "* STEP 1. Matin : Contrôle de la température de l'eau (25-28 °C) et alimentation équilibrée: Vérifiez le thermomètre de l'eau (maintenir à 25-28 °C) pour activer le métabolisme et nourrissez avec des granulés commerciaux de haute qualité adaptés à leur âge.
 
 * STEP 2. Après-midi : Vérification de la lampe d'exposition et des ampoules UV-B: Vérifiez si les lampes chauffantes UV-B et d'exposition fonctionnent correctement pour éviter la maladie métabolique des os (MBD).
@@ -60,7 +60,7 @@ La tortue musquée commune de taille compacte est idéale pour les débutants en
 
 ---
 
-## 2. Tortue Musquée Commune (Sternotherus odoratus / Common Musk Turtle)'s Body Language & Signals
+## 2. Langage corporel et signaux comportementaux du Tortue Musquée Commune (Sternotherus odoratus / Common Musk Turtle)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ La tortue musquée commune de taille compacte est idéale pour les débutants en
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Routine quotidienne en 3 étapes pour le soin du Tortue Musquée Commune (Sternotherus odoratus / Common Musk Turtle)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

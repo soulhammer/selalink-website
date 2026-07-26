@@ -13,11 +13,11 @@ authority: "国际猫协会 (TICA) 孟加拉猫品种标准与猫科行为医学
 steps:
   - name: "孟加拉猫的情感表达：鸟鸣般的叫声与尾巴摆动"
     text: "孟加拉猫非常擅长交流，能够清晰地传达情绪。除了普通的喵喵叫，它们在要求游戏或感到无聊时，还会发出类似鸟鸣的 “啁啾声 (Chirping)”。准确解读这种叫声以及快速摆动尾巴的动作，有助于及时预防因压力引发的问题行为。"
-  - name: "孟加拉猫 (Prionailurus bengalensis × Felis catus)'s Body Language & Signals"
+  - name: "孟加拉猫 (Prionailurus bengalensis × Felis catus) 的肢体语言与行为信号"
     text: "* 鸟鸣啁啾声 (Chirping) 与大声嚎叫: 要求积极互动的强烈信号，表明它们此时正感到无聊，希望立即开启体能或脑力游戏。 (切勿冷落它们，应立即使用羽毛逗猫棒等开启捕猎游戏，消除无聊感。)
 
 * 尾巴快速抽动伴随高耸后躯姿态: 处于高度专注锁定目标的状态，或是体内精力过剩无法宣泄的极度兴奋表现。 (利用激光笔或自动玩具，在开阔区域引导其剧烈奔跑，帮助其安全消耗狩猎本能。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "孟加拉猫 (Prionailurus bengalensis × Felis catus) 定制化 3 步家庭护理流程"
     text: "* STEP 1. 早上：高强度模拟狩猎互动游戏: 抽出15分钟使用羽毛逗猫棒或钓竿玩具。模仿猎物的快速窜动，强烈激发其捕猎天性。
 
 * STEP 2. 中午：纵向攀爬空间检查与观察点布置: 顺应其喜爱高处的习性，检查猫爬架与墙壁猫跳板是否牢固，并清理窗台高处以便其俯瞰领地和观察外界。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. 孟加拉猫 (Prionailurus bengalensis × Felis catus)'s Body Language & Signals
+## 2. 孟加拉猫 (Prionailurus bengalensis × Felis catus) 的肢体语言与行为信号
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -69,7 +69,7 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 要求积极互动的强烈信号，表明它们此时正感到无聊，希望立即开启体能或脑力游戏。<br/>
-    <strong>•  national:</strong> 切勿冷落它们，应立即使用羽毛逗猫棒等开启捕猎游戏，消除无聊感。
+    <strong>• 应对:</strong> 切勿冷落它们，应立即使用羽毛逗猫棒等开启捕猎游戏，消除无聊感。
   </p>
 </div>
 
@@ -80,13 +80,13 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 处于高度专注锁定目标的状态，或是体内精力过剩无法宣泄的极度兴奋表现。<br/>
-    <strong>•  national:</strong> 利用激光笔或自动玩具，在开阔区域引导其剧烈奔跑，帮助其安全消耗狩猎本能。
+    <strong>• 应对:</strong> 利用激光笔或自动玩具，在开阔区域引导其剧烈奔跑，帮助其安全消耗狩猎本能。
   </p>
 </div>
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. 孟加拉猫 (Prionailurus bengalensis × Felis catus) 定制化 3 步家庭护理流程
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

@@ -13,11 +13,11 @@ authority: "World Small Animal Veterinary Association (WSAVA) Aquatic Animal Hea
 steps:
   - name: "Betta Communication: Deciphering Gill Flaring & Surface Resting Behavior"
     text: "Flaring—expanding gill covers and fully fanning out fins—is a strong territorial warning and excitement display. Controlled 5-minute daily flaring provides beneficial exercise for fin health, but constant flaring leads to chronic stress and weakened immunity."
-  - name: "Betta Fish (Betta splendens / Siamese Fighting Fish)'s Body Language & Signals"
+  - name: "Betta Fish (Betta splendens / Siamese Fighting Fish)'s Body Language & Behavioral Signals"
     text: "* Gill Covers Expanded & Fins Fully Fan-Out (Flaring): A territorial alert against intrusion or an aggressive stress response triggered by seeing their own mirror reflection. (Remove mirrors or reflective objects beside the tank to ensure flaring episodes do not exceed 5 minutes.)
 
 * Lying Still on Leaves Near Water Surface (Labyrinth Resting): Normal resting behavior easing fin weight while breathing atmospheric air via the labyrinth organ during deep sleep. (This is not an illness; dim the aquarium lights and adjust the sponge filter to ensure the current is not too strong.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Customized 3-Step Home Care Routine for Betta Fish (Betta splendens / Siamese Fighting Fish)"
     text: "* STEP 1. Morning: Water Temperature (24°C ~ 26°C) & Low Current Flow Inspection: Inspect the thermometer and verify heater operation, ensuring there are no strong currents making it difficult for the Betta to swim.
 
 * STEP 2. Afternoon: High-Protein Pellet Feeding & Siphon Waste Removal: Feed 3 - 4 high-protein Betta-specific pellets in divided portions, and siphon out any uneaten food within 5 minutes using a dropper.
@@ -60,7 +60,7 @@ Boasting magnificent gown-like fins and regal swimming elegance, the Betta fish 
 
 ---
 
-## 2. Betta Fish (Betta splendens / Siamese Fighting Fish)'s Body Language & Signals
+## 2. Betta Fish (Betta splendens / Siamese Fighting Fish)'s Body Language & Behavioral Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Boasting magnificent gown-like fins and regal swimming elegance, the Betta fish 
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Customized 3-Step Home Care Routine for Betta Fish (Betta splendens / Siamese Fighting Fish)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

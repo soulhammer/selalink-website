@@ -13,11 +13,11 @@ authority: "AKC（アメリカンケネルクラブ）ビーグル標準＆IAABC
 steps:
   - name: "ビーグルのボディランゲージ：追跡本能と遠吠えの意味"
     text: "ビーグルは嗅覚に集中する際、「地面に鼻を押し当てて直進する追跡行動（Tracking）」を行い、周りの音を遮断します。これは本能的な刺激解消の過程です。一方、留守中や孤独を感じる時の「遠吠え（Howling）」は、典型的は分離不安と stress の表現です。この2つのシグナルを正しく見極めることが、ビーグルを穏やかに保つ秘訣です。"
-  - name: "ビーグル (Beagle)'s Body Language & Signals"
+  - name: "ビーグル (Beagle)のボディランゲージと行動サイン"
     text: "* 鼻を付けて直進する追跡行動 (Ground-Tracking): 周囲のにおい分子を通じて世界を探索し、狩猟犬としてのエネルギーを発散している正常な興奮状態です。 (散歩中に無理にリードを引っ張らず、においを十分に嗅ぎ探索させる時間を確保して見守ってください。)
 
 * 遠吠え (Howling): 孤独や退屈、エネルギーが発散されないことによる不安と、注意を引くための自己表現です。 (遠吠えをした時に叱るのではなく、日常的なノーズワークやお散歩を通じて過剰な energy を解消してあげてください。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "ビーグル (Beagle)のための3ステップホームケアルーティン"
     text: "* STEP 1. 朝：室内のおやつ隠しノーズワーク遊び: 朝食後、ビーグルの鋭い嗅覚を満たすために部屋のあちこちや紙コップの中におやつを隠して探させ、認知エネルギーを消費させます。
 
 * STEP 2. 昼：40分以上の十分な屋外におい探索散歩: エネルギー発散のために毎日40分以上外へ連れ出し、においを追う行動を制限せずに自由に嗅がせてあげます。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. ビーグル (Beagle)'s Body Language & Signals
+## 2. ビーグル (Beagle)のボディランゲージと行動サイン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ faqs:
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. ビーグル (Beagle)のための3ステップホームケアルーティン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

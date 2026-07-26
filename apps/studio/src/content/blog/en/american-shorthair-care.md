@@ -13,11 +13,11 @@ authority: "Cat Fanciers' Association (CFA) Breed Standard & Cornell Feline Heal
 steps:
   - name: "American Shorthair Body Language: Heart Strain and Open-Mouth Breathing"
     text: "Unlike dogs, cats rarely pant to regulate temperature. If an American Shorthair exhibits 'open-mouth breathing' or gets 'easily fatigued' during brief play, it is a major warning of cardiovascular distress. Recognizing these signs early is crucial."
-  - name: "American Shorthair's Body Language & Signals"
+  - name: "American Shorthair's Body Language & Behavioral Signals"
     text: "* Open-Mouth Breathing: Breathing with the mouth open and tongue slightly out, indicating severe oxygen deficiency due to heart/lung overload or extreme distress. (Minimize stress immediately and transport the cat in a carrier to a 24-hour emergency veterinary clinic for oxygen therapy.)
 
 * Quick Fatigue & Lying Down: Stopping play and lying flat on the side within minutes due to reduced cardiac output. (Limit strenuous exercise immediately and schedule an annual veterinary screening including auscultation and heart ultrasound (with proBNP test) to monitor for HCM progression.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Customized 3-Step Home Care Routine for American Shorthair"
     text: "* STEP 1. Morning: Measured Portion Feeding to Prevent Obesity: Avoid free-feeding. Divide their daily caloric requirement into measured morning and evening portions to prevent weight gain and protect vascular health.
 
 * STEP 2. Afternoon: Interactive Play & Calorie-Burning Session: Conduct at least two 15-minute play sessions using feather wands or toy mice to stimulate hunting instincts and burn fat.
@@ -60,7 +60,7 @@ Known for their beautiful silver tabby pattern and muscular bodies, American Sho
 
 ---
 
-## 2. American Shorthair's Body Language & Signals
+## 2. American Shorthair's Body Language & Behavioral Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Known for their beautiful silver tabby pattern and muscular bodies, American Sho
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Customized 3-Step Home Care Routine for American Shorthair
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

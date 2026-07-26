@@ -13,11 +13,11 @@ authority: "AKC-Ratgeber zur Haltung von Französischen Bulldoggen und klinische
 steps:
   - name: "Körpersprache der Französischen Bulldogge: Atemgeräusche und Hitzewarnzeichen"
     text: "Bei verengten Atemwegen geben Französische Bulldoggen charakteristische 'Stridor- oder Stertorgeräusche' (Röcheln/Pfeifen) von sich. Das lang gestreckte Keuchen mit heraushängender Zunge ist ein kritisches Warnzeichen für einen steilen Anstieg der Körpertemperatur."
-  - name: "Französische Bulldogge (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "Körpersprache und Verhaltenssignale von Französische Bulldogge (Canis lupus familiaris)"
     text: "* Raues Atmen & Stridor (Stridor / Stertor): Deutet auf eine eingeschränkte Luftzufuhr durch verengte Nasengänge und steigende Körpertemperatur bei Aufregung hin. (Bringen Sie den Hund sofort in einen klimatisierten Raum oder Schatten und bieten Sie kühles Wasser zur Beruhigung an.)
 
 * Hecheln mit gestrecktem Hals: Kritisches Alarmsignal, bei dem der Hund mit gestrecktem Hals verzweifelt Sauerstoff einsaugt, um die Körperhitze abzubauen. (Stellen Sie die Raumtemperatur auf 22-24°C ein und kühlen Sie Pfoten und Körper mit feuchten Tüchern ab.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Maßgeschneiderte 3-Schritte-Tagesroutine für Französische Bulldogge (Canis lupus familiaris)"
     text: "* STEP 1. Morgen: Reinigung der Gesichtsfalten und Trocknung: Wischen Sie Schmutz aus den Falten um Augen und Nase mit einem alkoholfreien Tuch ab und trocknen Sie sie gut ab, um Pilzinfektionen vorzubeugen.
 
 * STEP 2. Nachmittag: 15-minütiger flacher Spaziergang zur Hitzschlagvermeidung: Meiden Sie Hitzezeiten komplett. Gehen Sie nur früh morgens oder spät abends für 15 Minuten auf ebenem Boden spazieren.
@@ -60,7 +60,7 @@ Mit ihren Fledermausohren und dem flachen Gesicht sind Französische Bulldoggen 
 
 ---
 
-## 2. Französische Bulldogge (Canis lupus familiaris)'s Body Language & Signals
+## 2. Körpersprache und Verhaltenssignale von Französische Bulldogge (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Mit ihren Fledermausohren und dem flachen Gesicht sind Französische Bulldoggen 
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Maßgeschneiderte 3-Schritte-Tagesroutine für Französische Bulldogge (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

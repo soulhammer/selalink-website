@@ -13,11 +13,11 @@ authority: "União Mundial dos Clubes de Cães Pastor Alemão (WUSV) e Padrões 
 steps:
   - name: "Linguagem corporal do Pastor Alemão: Ângulo das orelhas e sinais de foco"
     text: "O Pastor Alemão expressa suas emoções com clareza através da postura e do movimento das orelhas. Manter as orelhas eretas voltadas para a frente e o corpo firme indica uma 'Postura de Alerta', um estado instintivo de vigilância. Já o ato de 'Inclinar a cabeça' ao ouvir o tutor é um sinal de alto foco cognitivo para localizar o som e compreender o comando."
-  - name: "Pastor Alemão (German Shepherd Dog)'s Body Language & Signals"
+  - name: "Linguagem corporal e sinais de comportamento do Pastor Alemão (German Shepherd Dog)"
     text: "* Orelhas eretas e postura corporal rígida (Alert & Guarding Posture): Estado de intensa vigilância e alerta ambiental diante de estímulos externos ou estranhos. (Dê um comando de liberação em tom calmo sem puxar a guia, redirecionando o foco do cão para você.)
 
 * Olhar para o tutor inclinando a cabeça para os lados (Head Tilting): Curiosidade ativa e foco cognitivo voltados para analisar os sinais sonoros e visuais do tutor. (Repita os comandos com clareza e entusiasmo, recompensando imediatamente a resposta correta.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rotina diária de 3 passos para cuidados com Pastor Alemão (German Shepherd Dog)"
     text: "* STEP 1. Manhã: Passeio intervalado combinado com treino de obediência: Insira comandos precisos como 'junto' ou 'fica' durante a caminhada para exercitar mente e corpo simultaneamente.
 
 * STEP 2. Tarde: Jogos avançados de faro (Nosework) e simulação de trabalho: Ofereça brinquedos interativos complexos ou busca de objetos para satisfazer seu impulso de trabalho e evitar o tédio.
@@ -60,7 +60,7 @@ O Pastor Alemão é admirado no mundo todo como cão policial, militar e de fam�
 
 ---
 
-## 2. Pastor Alemão (German Shepherd Dog)'s Body Language & Signals
+## 2. Linguagem corporal e sinais de comportamento do Pastor Alemão (German Shepherd Dog)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ O Pastor Alemão é admirado no mundo todo como cão policial, militar e de fam�
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rotina diária de 3 passos para cuidados com Pastor Alemão (German Shepherd Dog)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

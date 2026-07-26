@@ -13,11 +13,11 @@ authority: "CFA (Cat Fanciers' Association) Rassestandard & Studien des Cornell 
 steps:
   - name: "Körpersprache der American Shorthair: Herzbelastung und Atmen mit offenem Maul"
     text: "Im Gegensatz zu Hunden hecheln Katzen selten zur Wärmeregulierung. Wenn eine American Shorthair 'mit offenem Maul atmet' oder beim Spielen 'rasch ermüdet', ist dies ein ernstes Warnsignal für eine Herzbelastung. Früherkennung ist hierbei lebensrettend."
-  - name: "American Shorthair's Body Language & Signals"
+  - name: "Körpersprache und Verhaltenssignale von American Shorthair"
     text: "* Atmen mit offenem Maul (Open-Mouth Breathing): Schweres Atmen mit geöffnetem Maul, was auf einen akuten Sauerstoffmangel durch Herz-Lungen-Überlastung oder extremen Stress hindeutet. (Minimieren Sie sofort jeglichen Stress, setzen Sie die Katze in eine Transportbox und bringen Sie sie umgehend in eine 24-Stunden-Tierklinik zur Sauerstofftherapie.)
 
 * Schnelle Ermüdung und Hinlegen (Quick Fatigue): Spielabbruch und flaches Hinlegen auf die Seite nach nur wenigen Minuten Bewegung aufgrund verminderter Herzpumpleistung. (Schränken Sie anstrengende Aktivitäten ein und lassen Sie jährlich eine Abhöruntersuchung sowie ein Herzultraschall (inkl. proBNP-Test) zur HCM-Kontrolle durchführen.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Maßgeschneiderte 3-Schritte-Tagesroutine für American Shorthair"
     text: "* STEP 1. Morgen: Portionierte Fütterung zur Vorbeugung von Übergewicht: Verzichten Sie auf ständige Futterverfügbarkeit (Ad-libitum). Teilen Sie die tägliche Kalorienmenge abgemessen auf morgens und abends auf, um das Gewicht zu kontrollieren und die Gefäße zu schützen.
 
 * STEP 2. Nachmittag: 15 Minuten interaktives Spiel zur Fettverbrennung: Fördern Sie den Jagdtrieb mindestens zweimal täglich für 15 Minuten mit Federangeln oder Spielmäusen, um die Kalorienverbrennung anzuregen.
@@ -60,7 +60,7 @@ Bekannt für ihr schönes Silver-Tabby-Muster und ihren muskulösen Körperbau s
 
 ---
 
-## 2. American Shorthair's Body Language & Signals
+## 2. Körpersprache und Verhaltenssignale von American Shorthair
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Bekannt für ihr schönes Silver-Tabby-Muster und ihren muskulösen Körperbau s
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Maßgeschneiderte 3-Schritte-Tagesroutine für American Shorthair
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

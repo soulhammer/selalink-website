@@ -13,11 +13,11 @@ authority: "美国养犬俱乐部 (AKC) 官方犬种指南与 IAABC 行为学协
 steps:
   - name: "贵宾犬的身体语言：区分需求与压力"
     text: "贵宾犬由于智商很高，会积极地用身体语言表达意图。最典型的肢体动作是 “抬起一只前爪（Paw Raising）” 和 “温柔眨眼睛（Soft Blinking）”。当贵宾犬在家长面前抬起一只前爪时，通常看起来像是要求握手，但实际上这往往是“请关注我”的需求，或是“我现在有点紧张，请温柔待我”的放松信号。轻柔地注视并缓慢地眨眼是它们表达信任与爱意的方式，表明它们完全没有敌意。"
-  - name: "贵宾犬 (Canis lupus familiaris / Poodle)'s Body Language & Signals"
+  - name: "贵宾犬 (Canis lupus familiaris / Poodle) 的肢体语言与行为信号"
     text: "* 抬爪 (Paw Raising): 寻求家长的关注，或者试图安抚轻微的紧张与焦虑情绪。 (如果注意到这个动作，请避免下达强迫性命令。用温和的语气说话，并轻轻抚摸它们。)
 
 * 温柔眨眼 (Soft Blinking): 对家长深厚信任与爱意的表达，表明它们感到安全和友好。 (当与它们眼神接触时，也缓慢地眨眼回应，以分享和巩固这种安全感。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "贵宾犬 (Canis lupus familiaris / Poodle) 定制化 3 步家庭护理流程"
     text: "* STEP 1. 早晨：利用智力玩具缓解认知疲劳: 除了普通的散步，还可以使用迷宫碗或闻嗅垫让贵宾犬寻找零食，以此刺激它们高活跃度的大脑，帮助它们以建设性的方式宣泄过剩的精力。
 
 * STEP 2. 中午：耳部通风检查与温和清洁按摩: 在耳道内滴入2-3滴洗耳液，轻轻按摩耳根部的软骨，然后用棉片擦去溶解的耳垢，以预防耳道炎症。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. 贵宾犬 (Canis lupus familiaris / Poodle)'s Body Language & Signals
+## 2. 贵宾犬 (Canis lupus familiaris / Poodle) 的肢体语言与行为信号
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -69,7 +69,7 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 寻求家长的关注，或者试图安抚轻微的紧张与焦虑情绪。<br/>
-    <strong>•  national:</strong> 如果注意到这个动作，请避免下达强迫性命令。用温和的语气说话，并轻轻抚摸它们。
+    <strong>• 应对:</strong> 如果注意到这个动作，请避免下达强迫性命令。用温和的语气说话，并轻轻抚摸它们。
   </p>
 </div>
 
@@ -80,13 +80,13 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 对家长深厚信任与爱意的表达，表明它们感到安全和友好。<br/>
-    <strong>•  national:</strong> 当与它们眼神接触时，也缓慢地眨眼回应，以分享和巩固这种安全感。
+    <strong>• 应对:</strong> 当与它们眼神接触时，也缓慢地眨眼回应，以分享和巩固这种安全感。
   </p>
 </div>
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. 贵宾犬 (Canis lupus familiaris / Poodle) 定制化 3 步家庭护理流程
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

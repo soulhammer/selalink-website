@@ -13,11 +13,11 @@ authority: "世界小动物兽医师协会 (WSAVA) 水生动物健康标准与�
 steps:
   - name: "斗鱼的肢体语言：张开鳃盖（Flaring）与水面休眠行为"
     text: "斗鱼张开鳃盖、将鳍条完全展开的“展鳍（Flaring）”是强烈的警告与兴奋信号。每天适度进行5分钟的展鳍属于有益运动，但持续性的展鳍会导致免疫力下降。"
-  - name: "斗鱼 (Betta splendens / 暹罗斗鱼)'s Body Language & Signals"
+  - name: "斗鱼 (Betta splendens / 暹罗斗鱼) 的肢体语言与行为信号"
     text: "* 张开鳃盖并将鳍条展开至最大 (Flaring): 对领地入侵的警告，或对镜中自我倒影宣泄的攻击性与应激状态。 (移开镜子或水缸旁产生倒影的物品，采取措施确保展鳍时间不持续超过5分钟。)
 
 * 静静躺在靠近水面的水草叶片上 (Labyrinth Resting): 利用迷鳃器官呼吸的同时减轻鳍条重量、进入深度睡眠的正常休息行为。 (并非生病，调暗灯光并调节水绵过滤器，确保水流不会过于剧烈。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "斗鱼 (Betta splendens / 暹罗斗鱼) 定制化 3 步家庭护理流程"
     text: "* STEP 1. 早上：水温（24°C ~ 26°C）与过滤器微弱水流状态检查: 观察水温计并确认加热棒工作正常，检查是否存在导致斗鱼游动困难的强水流。
 
 * STEP 2. 中午：斗鱼专用高蛋白颗粒饲料分次喂食与残渣清理: 将高蛋白斗鱼专用颗粒分次喂食3 ~ 4粒，对未食用而沉底的饲料的在5分钟内用滴管吸出。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. 斗鱼 (Betta splendens / 暹罗斗鱼)'s Body Language & Signals
+## 2. 斗鱼 (Betta splendens / 暹罗斗鱼) 的肢体语言与行为信号
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -69,7 +69,7 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 对领地入侵的警告，或对镜中自我倒影宣泄的攻击性与应激状态。<br/>
-    <strong>•  national:</strong> 移开镜子或水缸旁产生倒影的物品，采取措施确保展鳍时间不持续超过5分钟。
+    <strong>• 应对:</strong> 移开镜子或水缸旁产生倒影的物品，采取措施确保展鳍时间不持续超过5分钟。
   </p>
 </div>
 
@@ -80,13 +80,13 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 利用迷鳃器官呼吸的同时减轻鳍条重量、进入深度睡眠的正常休息行为。<br/>
-    <strong>•  national:</strong> 并非生病，调暗灯光并调节水绵过滤器，确保水流不会过于剧烈。
+    <strong>• 应对:</strong> 并非生病，调暗灯光并调节水绵过滤器，确保水流不会过于剧烈。
   </p>
 </div>
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. 斗鱼 (Betta splendens / 暹罗斗鱼) 定制化 3 步家庭护理流程
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

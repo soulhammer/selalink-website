@@ -13,11 +13,11 @@ authority: "Standar Ras The International Cat Association (TICA) & Panduan Kedok
 steps:
   - name: "Bahasa Tubuh Kucing Hutan Norwegia: Sinyal Kepercayaan dan Kewaspadaan Liar"
     text: "Kucing Hutan Norwegia memiliki ekspresi yang tenang dan cerdas. Mendekat secara perlahan dengan ekor tegak lurus dan ujungnya melengkung seperti tanda tanya (?) adalah tanda kepercayaan dan kasih sayang yang mendalam. Sebaliknya, pupil mata yang membesar dengan telinga rata ke samping 'Telinga Pesawat' (Airplane Ears) menandakan kucing merasa terancam atau cemas."
-  - name: "Kucing Hutan Norwegia (Felis catus / Norwegian Forest Cat)'s Body Language & Signals"
+  - name: "Bahasa Tubuh dan Sinyal Perilaku Kucing Hutan Norwegia (Felis catus / Norwegian Forest Cat)"
     text: "* Ekor tegak dengan ujung melengkung seperti tanda tanya: Sinyal keramahan, rasa puas, dan keinginan untuk berinteraksi dengan pemilik. (Sambut dengan suara lembut dan elus area kepala serta pipinya untuk mempererat ikatan.)
 
 * Pupil membesar dan telinga rata ke samping (Telinga Pesawat): Kondisi tegang dan waspada yang dipicu oleh suara bising mendadak atau lingkungan asing. (Hindari kontak mata langsung dan biarkan kucing berpindah sendiri ke pohon kucing yang tinggi atau tempat sembunyi yang tenang.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutinitas Perawatan Harian 3 Langkah untuk Kucing Hutan Norwegia (Felis catus / Norwegian Forest Cat)"
     text: "* STEP 1. Pagi: Permainan Berburu Vertikal di Pohon Kucing: Ayunkan mainan pancingan bulu naik dan turun di pohon kucing (cat tower) untuk memuaskan insting memanjat dan berburu alami mereka.
 
 * STEP 2. Siang: Menyikat Bulu Lapisan Dalam Tahan Air dengan Sikat Slicker dan Sisir Besi: Sisir area rawan kusut seperti ketiak dan bulu dada hingga ke lapisan dalam menggunakan sisir besi dan sikat slicker untuk mengangkat bulu mati.
@@ -60,7 +60,7 @@ Kucing Hutan Norwegia adalah ras alami yang berevolusi untuk bertahan di musim d
 
 ---
 
-## 2. Kucing Hutan Norwegia (Felis catus / Norwegian Forest Cat)'s Body Language & Signals
+## 2. Bahasa Tubuh dan Sinyal Perilaku Kucing Hutan Norwegia (Felis catus / Norwegian Forest Cat)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Kucing Hutan Norwegia adalah ras alami yang berevolusi untuk bertahan di musim d
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutinitas Perawatan Harian 3 Langkah untuk Kucing Hutan Norwegia (Felis catus / Norwegian Forest Cat)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

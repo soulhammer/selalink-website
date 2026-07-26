@@ -13,11 +13,11 @@ authority: "爬行动物与两栖动物兽医协会 (ARAV) 饲养指南与两栖
 steps:
   - name: "鬃狮蜥的肢体语言：点头与招手"
     text: "鬃狮蜥通过独特的动作来展现等级地位并表达情绪。上下快速剧烈地点头——即 “点头 (Head Bobbing)”——是表达强烈统治欲望或宣示领地的行为。相反，将单侧前肢在空中缓慢大幅度地画圈——即 “招手 (Arm Waving)”——则是一种表达无害、顺从与和平的社交信号。"
-  - name: "鬃狮蜥 (Pogona vitticeps)'s Body Language & Signals"
+  - name: "鬃狮蜥 (Pogona vitticeps) 的肢体语言与行为信号"
     text: "* 点头 (Head Bobbing / 剧烈摇晃头部): 宣示自身优势与领地主权的行为，常出现在看到其他个体或因看到缸壁玻璃上自己的倒影而感到兴奋时。 (必须严格实行单缸独养以避免混养压迫，并在玻璃壁上贴上防反射贴纸以减少视觉刺激。)
 
 * 招手 (Arm Waving / 前肢划圈): 向对方表达毫无攻击意图的顺从与和平社交信号，通常面向比自己强壮的生物或饲主展示。 (放低姿态温柔靠近，用平缓的声音与其交流，并给予食物奖励，让鬃狮蜥建立起“饲主是安全存在”的认知。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "鬃狮蜥 (Pogona vitticeps) 定制化 3 步家庭护理流程"
     text: "* STEP 1. 早上：启动晒背热源与UVB灯具: 开启聚热保温灯与UVB灯。确保晒台温度达到35-40°C，以提升体温并激活消化酶功能。
 
 * STEP 2. 中午：喂食富含营养的昆虫与补充钙粉: 提供包裹着钙粉（室内饲养需含D3）的活体昆虫，并搭配菊苣、上海青等新鲜的高钙蔬菜。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. 鬃狮蜥 (Pogona vitticeps)'s Body Language & Signals
+## 2. 鬃狮蜥 (Pogona vitticeps) 的肢体语言与行为信号
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -69,7 +69,7 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 宣示自身优势与领地主权的行为，常出现在看到其他个体或因看到缸壁玻璃上自己的倒影而感到兴奋时。<br/>
-    <strong>•  national:</strong> 必须严格实行单缸独养以避免混养压迫，并在玻璃壁上贴上防反射贴纸以减少视觉刺激。
+    <strong>• 应对:</strong> 必须严格实行单缸独养以避免混养压迫，并在玻璃壁上贴上防反射贴纸以减少视觉刺激。
   </p>
 </div>
 
@@ -80,13 +80,13 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 向对方表达毫无攻击意图的顺从与和平社交信号，通常面向比自己强壮的生物或饲主展示。<br/>
-    <strong>•  national:</strong> 放低姿态温柔靠近，用平缓的声音与其交流，并给予食物奖励，让鬃狮蜥建立起“饲主是安全存在”的认知。
+    <strong>• 应对:</strong> 放低姿态温柔靠近，用平缓的声音与其交流，并给予食物奖励，让鬃狮蜥建立起“饲主是安全存在”的认知。
   </p>
 </div>
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. 鬃狮蜥 (Pogona vitticeps) 定制化 3 步家庭护理流程
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

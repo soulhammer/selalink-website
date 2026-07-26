@@ -13,11 +13,11 @@ authority: "アメリカンケネルクラブ(AKC)公式犬種ガイド＆IAABC�
 steps:
   - name: "プードルのボディランゲージ：要求とストレスの境界"
     text: "プードルは知能が高い分、自分の意思をしぐさで積極的に表現します。代表的なボディランゲージは「片足上げ（Paw Raising）」と「優しく瞬きする（Soft Blinking）」です。プードルが飼い主の前で片方の前足を上げる行動は、お手のおねだりに見えますが、実は「構ってほしい」という要求や「少し緊張しているから優しくして」というメッセージです。目をじっと見つめて優しく瞬きするのは、「敵意はなく、あなたを完全に信頼している」という愛情の表現です。"
-  - name: "プードル (Canis lupus familiaris / Poodle)'s Body Language & Signals"
+  - name: "プードル (Canis lupus familiaris / Poodle)のボディランゲージと行動サイン"
     text: "* 片足上げ (Paw Raising): 周囲にかまってほしいと要求したり、軽い緊張状態を落ち着かせようとするサインです。 (このサインが見られたら、無理に指示を出さず、落ち着いた声で撫でて安心させてください。)
 
 * 優しく瞬きする (Soft Blinking): 飼い主への深い信頼と、敵意が全くないという愛情のメッセージです。 (目が合ったら、一緒にゆっくり瞬きして安心感を共有してください。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "プードル (Canis lupus familiaris / Poodle)のための3ステップホームケアルーティン"
     text: "* STEP 1. 朝：知能おもちゃを使った認知ストレス解消: 単純なランニング散歩だけでなく、迷路食器やノーズワークマットを使っておやつを探し出させることで、プードルの優れた知能を刺激し、エネルギー過多を和らげます。
 
 * STEP 2. 昼：通気不良の耳の衛生点検とマッサージ: 耳洗浄液を耳の中に2〜3滴入れ、耳の根元の軟骨部分を優しくマッサージした後、外に出てきた汚れをコットンで拭き取って外耳炎を予防します。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. プードル (Canis lupus familiaris / Poodle)'s Body Language & Signals
+## 2. プードル (Canis lupus familiaris / Poodle)のボディランゲージと行動サイン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ faqs:
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. プードル (Canis lupus familiaris / Poodle)のための3ステップホームケアルーティン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

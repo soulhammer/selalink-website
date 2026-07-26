@@ -13,11 +13,11 @@ authority: "Directrices de Manejo de Chinchillas de la Association of Exotic Mam
 steps:
   - name: "Lenguaje corporal de la chinchilla: Babeo con caída de comida y signos de sobrecalentamiento"
     text: "Si una chinchilla muestra 'babeo y rechazo del heno', moijando el pelo alrededor de la boca, es una clara advertencia de una maloclusión dental grave. Por otro lado, 'acostarse de lado con respiración acelerada' indica una emergencia por golpe de calor que requiere refrigeración inmediata."
-  - name: "Chinchilla (Chinchilla lanigera)'s Body Language & Signals"
+  - name: "Lenguaje corporal y señales de conducta de Chinchilla (Chinchilla lanigera)"
     text: "* Babeo y rechazo del heno (Drooling): Los dientes sobrecrecidos por maloclusión clavan el paladar o la pared de la mejilla, impidiendo tragar saliva y bloqueando la masticación debido al dolor intenso. (Acuda de inmediato a un hospital veterinario especializado en animales exóticos para realizar un limado o recorte dental profesional.)
 
 * Acostarse de lado con respiración acelerada: La temperatura ambiental elevada ha provocado un aumento repentino de su temperatura corporal, dejándola exhausta y en estrés térmico crítico. (Encienda inmediatamente el aire acondicionado para bajar la temperatura a menos de 20 °C y coloque losas de mármol o botellas heladas envueltas en toallas dentro de la jaula.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutina diaria de 3 pasos para el cuidado de Chinchilla (Chinchilla lanigera)"
     text: "* STEP 1. Mañana: Suministro ilimitado de heno Timothy de fibra gruesa: Para evitar el crecimiento desmedido de los dientes, proporcione siempre heno Timothy fresco y de fibra gruesa para inducir el desgaste dental natural al masticar.
 
 * STEP 2. Tarde: Control climático estricto para la prevención del golpe de calor todo el año: Mantenga la temperatura de la habitación entre 18 y 21 °C y la humedad por debajo del 40-50% activando el aire acondicionado y deshumidificadores durante todo el año.
@@ -60,7 +60,7 @@ Con su pelaje tan suave como la seda y su adorable cuerpo redondeado, la chinchi
 
 ---
 
-## 2. Chinchilla (Chinchilla lanigera)'s Body Language & Signals
+## 2. Lenguaje corporal y señales de conducta de Chinchilla (Chinchilla lanigera)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Con su pelaje tan suave como la seda y su adorable cuerpo redondeado, la chinchi
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutina diaria de 3 pasos para el cuidado de Chinchilla (Chinchilla lanigera)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

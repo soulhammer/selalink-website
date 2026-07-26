@@ -13,11 +13,11 @@ authority: "世界ジャーマン・シェパード犬協会連盟(WUSV)＆ア�
 steps:
   - name: "ジャーマン・シェパードのボディランゲージ：耳の角度と集中サイン"
     text: "ジャーマン・シェパードは耳の動きと姿勢で感情を明確に表現します。ピンと立てた耳を前方に向けて堂々と立つのは「高度警戒姿勢（Alert Posture）」であり、周囲を監視する本能的行動です。一方、声や指示を聞く際の「首を傾げる動作（Head Tilting）」は、音の位置を正確に把握し、飼い主の意図を理解しようとする高度な認知集中サインです。"
-  - name: "ジャーマン・シェパード・ドッグ (German Shepherd Dog)'s Body Language & Signals"
+  - name: "ジャーマン・シェパード・ドッグ (German Shepherd Dog)のボディランゲージと行動サイン"
     text: "* 耳を立てて体を緊張させる (Alert & Guarding Posture): 外部刺激や見知らぬ対象に対する強い警戒および環境監視状態です。 (緊張を和らげるため、落ち着いた声で解除コマンドを出し、リードを引っ張らずに飼い主へ意識を向けさせます。)
 
 * 飼い主を見つめて首を左右に傾げる (Head Tilting): 飼い主の声や視覚サインを正確に分析しようとする積極的な好奇心と認知集中状態です。 (明るいトーンで指示を繰り返し、正しい行動をしたらすぐに明確にご褒美を与えます。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "ジャーマン・シェパード・ドッグ (German Shepherd Dog)のための3ステップホームケアルーティン"
     text: "* STEP 1. 朝：服従訓練を交えたインターバル散歩: 単なる歩行だけでなく「待て」「ヒール（ついて）」などの精密な指示を交え、脳と身体エネルギーを同時に消費させます。
 
 * STEP 2. 昼：高難度ノーズワークと作業シミュレーション遊び: 複雑な知育玩具や宝探し（ノーズワーク）を提供し、作業欲求を満たして退屈を防ぎます。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. ジャーマン・シェパード・ドッグ (German Shepherd Dog)'s Body Language & Signals
+## 2. ジャーマン・シェパード・ドッグ (German Shepherd Dog)のボディランゲージと行動サイン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ faqs:
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. ジャーマン・シェパード・ドッグ (German Shepherd Dog)のための3ステップホームケアルーティン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

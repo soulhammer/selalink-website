@@ -13,11 +13,11 @@ authority: "Guia Oficial da Siberian Husky Club of America e Protocolos de Ativi
 steps:
   - name: "Linguagem corporal do Husky: Uivos de frustração e pata sobre a perna"
     text: "Os Huskies Siberianos mantêm fortes hábitos de matilha e expressam-se ativamente por meio de sons e ações. Os sinais chave incluem 'uivos' (Howling) e 'oferecer a pata' (Paw Offering). Um uivo longo e profundo muitas vezes comunica tédio ou demanda por exercício em vez de solidão. Olhar fixamente nos seus olhos e colocar a pata pesada no seu braço é um pedido direto de passeio. Canalize essa energia com treinos de obediência ou mordedores."
-  - name: "Husky Siberiano (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "Linguagem corporal e sinais de comportamento do Husky Siberiano (Canis lupus familiaris)"
     text: "* Uivos e vocalizações (Howling): Uma expressão de tédio extremo e descontentamento por falta de exercício, exigindo atenção e comunicação. (Leve-o para um passeio ativo com estimulação olfativa ou prepare um tapete de faro desafiador em casa.)
 
 * Oferecer a pata com olhar fixo (Paw Offering): Uma petição de atenção, brincadeira ou passeio, tratando você como um parceiro de matilha. (Não ceda a todas as exigências. Dê um comando (sentar, etc.) primeiro e premie depois para manter a liderança.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rotina diária de 3 passos para cuidados com Husky Siberiano (Canis lupus familiaris)"
     text: "* STEP 1. Manhã: Ajuste do peitoral em Y e controle de tração: Possuem um forte instinto de puxar. Ajuste um peitoral em forma de Y para evitar pressão na traqueia e verifique se ele caminha ao seu ritmo.
 
 * STEP 2. Tarde: Ar-condicionado, tapetes gelados e escovação intensiva do subpelo: Muito sensíveis ao calor, mantenha a casa fresca. Use uma rasqueadeira (slicker) e um rastelo para subpelo para escovar a pelagem densa, liberando o calor.
@@ -64,7 +64,7 @@ Hoje, o PetSelf decodifica a comunicação do Husky e apresenta uma rotina diár
 
 ---
 
-## 2. Husky Siberiano (Canis lupus familiaris)'s Body Language & Signals
+## 2. Linguagem corporal e sinais de comportamento do Husky Siberiano (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -90,7 +90,7 @@ Hoje, o PetSelf decodifica a comunicação do Husky e apresenta uma rotina diár
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rotina diária de 3 passos para cuidados com Husky Siberiano (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

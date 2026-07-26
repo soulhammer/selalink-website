@@ -13,11 +13,11 @@ authority: "Association of Avian Veterinarians (AAV) & Avian Behavior Advisory S
 steps:
   - name: "Cockatiel Communication Language: Deciphering Crest Movements and Head Bowing"
     text: "A Cockatiel's head crest acts as a sensitive emotional antenna revealing its inner state. A crest held flat against the skull versus one fully erect indicates completely different mindsets, while lowering the head is a profound gesture of trust."
-  - name: "Cockatiel (Nymphicus hollandicus)'s Body Language & Signals"
+  - name: "Cockatiel (Nymphicus hollandicus)'s Body Language & Behavioral Signals"
     text: "* Fully Erect Crest & Vertical Posture (Fully Erect Crest): Indicates intense curiosity or alert vigilance toward an unfamiliar noise, object, or sudden movement in the room. (Avoid reaching in suddenly. Speak in low, comforting tones while allowing the bird to safely observe and assess the situation.)
 
 * Head Lowered & Neck Extended Forward (Head Lowering for Scratches): A sign of deep trust and affection, explicitly requesting head and cheek (crest base) preening from the caregiver. (Gently stroke the base of the crest and orange cheek feathers against the grain using your fingertip.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Customized 3-Step Home Care Routine for Cockatiel (Nymphicus hollandicus)"
     text: "* STEP 1. Morning: Natural Ventilation, Feather Inspection & Fresh Pellet Feeding: Uncover the cage, refresh high-quality pellet feed and clean water, and observe flight agility for any wing injury or eye discharge.
 
 * STEP 2. Afternoon: Supervised Free Flight & Foraging Toy Interaction: Secure all windows and doors for 1 - 2 hours of supervised free flight in a bird-proof room while offering foraging toys to stimulate mental acuity.
@@ -60,7 +60,7 @@ Characterized by bright orange cheeks and an elegant head crest, the Cockatiel i
 
 ---
 
-## 2. Cockatiel (Nymphicus hollandicus)'s Body Language & Signals
+## 2. Cockatiel (Nymphicus hollandicus)'s Body Language & Behavioral Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Characterized by bright orange cheeks and an elegant head crest, the Cockatiel i
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Customized 3-Step Home Care Routine for Cockatiel (Nymphicus hollandicus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

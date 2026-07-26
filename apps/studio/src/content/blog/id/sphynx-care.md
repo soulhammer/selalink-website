@@ -13,11 +13,11 @@ authority: "Panduan Dermatologi ISFM (International Society of Feline Medicine) 
 steps:
   - name: "Bahasa Tubuh Sphynx: Mencari Kehangatan dan Sinyal Kasih Sayang"
     text: "Kucing Sphynx sangat mudah merasa kedinginan, sehingga mereka aktif mencari kehangatan dengan menempel pada leher, pangkuan, atau di bawah selimut pemiliknya. Meringkuk di kulit Anda sambil mendengkur bukan hanya bentuk kasih sayang yang dalam, tetapi juga kebutuhan naluriah untuk berbagi suhu tubuh. Jika kulit mereka terasa dingin atau tubuh mereka melingkar erat, segera naikkan suhu ruangan."
-  - name: "Kucing Sphynx (Sphynx Cat)'s Body Language & Signals"
+  - name: "Bahasa Tubuh dan Sinyal Perilaku Kucing Sphynx (Sphynx Cat)"
     text: "* Mencari kehangatan (menempel pada kulit atau sumber panas): Menandakan udara sekitar dingin dan suhu tubuh mereka menurun, meminta pasokan panas. (Atur suhu ruangan pada 22–26°C, pakaikan baju katun yang lembut, dan sediakan tempat tidur kubah yang hangat.)
 
 * Menyipitkan mata & mendengkur (Purring): Kondisi sangat nyaman, tubuh hangat, dan kepercayaan penuh pada pemilik. (Elus tubuh hangat mereka secara perlahan dan biarkan mereka beristirahat dengan tenang di samping Anda.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutinitas Perawatan Harian 3 Langkah untuk Kucing Sphynx (Sphynx Cat)"
     text: "* STEP 1. Pagi: Menyeka Lipatan Kulit dengan Handuk Hangat: Bersihkan minyak kecokelatan yang menumpuk di leher, lipatan kulit, dan sela jari dengan handuk basah hangat untuk mencegah komedo dan infeksi kulit.
 
 * STEP 2. Siang: Perlindungan Sinar Matahari untuk Cegah Kerusakan UV: Kulit tanpa bulu yang terpapar sinar matahari langsung sangat mudah terbakar (dermatitis sinar matahari). Gunakan tirai untuk menghalangi paparan UV terik.
@@ -60,7 +60,7 @@ Kucing Sphynx adalah ras unik yang lahir tanpa bulu karena mutasi genetik alami.
 
 ---
 
-## 2. Kucing Sphynx (Sphynx Cat)'s Body Language & Signals
+## 2. Bahasa Tubuh dan Sinyal Perilaku Kucing Sphynx (Sphynx Cat)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Kucing Sphynx adalah ras unik yang lahir tanpa bulu karena mutasi genetik alami.
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutinitas Perawatan Harian 3 Langkah untuk Kucing Sphynx (Sphynx Cat)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

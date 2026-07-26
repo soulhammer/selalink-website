@@ -13,11 +13,11 @@ authority: "American Kennel Club Dachshund Health Guide and Veterinary Spinal As
 steps:
   - name: "Dachshund Spinal Warning Signs: Begging Posture and Body Stretches"
     text: "Due to their long spine, Dachshunds will often signal physical stress or pain in subtle ways. While standing on their hind legs (the 'begging posture') is commonly seen as cute, it places critical weight on their lower lumbar spine. Conversely, tense neck stretching or a hunched back can indicate early-stage spinal nerve compression that requires immediate attention."
-  - name: "Dachshund (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "Dachshund (Canis lupus familiaris)'s Body Language & Behavioral Signals"
     text: "* Hind Leg Stand (Begging Posture): A stance that places excessive pressure on the lumbar spine, often done to request food or attention. (Gently discourage this stance immediately, use ramps for furniture access, and keep food or toys at chest level.)
 
 * Hunched Back & Neck Stretching: A guarding posture indicating back pain, stiffness, or early onset of spinal nerve compression. (Restrict their movement immediately, support both chest and quarters to keep the spine level when handling, and consult a vet.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Customized 3-Step Home Care Routine for Dachshund (Canis lupus familiaris)"
     text: "* STEP 1. Morning: Back & Joint Mobility Inspection: Before active play, check their gait for any stiffness. Perform a gentle massage along their spinal line to assess comfort and check for pain reactions.
 
 * STEP 2. Afternoon: Spine-Safe Living Space Verification: Ensure pet ramps are correctly positioned with non-slip surfaces next to beds and sofas. Block stair access with safety gates to eliminate stair usage.
@@ -60,7 +60,7 @@ Dachshunds are beloved worldwide for their charming silhouette and bold, friendl
 
 ---
 
-## 2. Dachshund (Canis lupus familiaris)'s Body Language & Signals
+## 2. Dachshund (Canis lupus familiaris)'s Body Language & Behavioral Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Dachshunds are beloved worldwide for their charming silhouette and bold, friendl
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Customized 3-Step Home Care Routine for Dachshund (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

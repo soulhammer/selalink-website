@@ -13,11 +13,11 @@ authority: "International Fancy Guppy Association (IFGA) & Standar Perawatan Med
 steps:
   - name: "Bahasa Tubuh Guppy: Sirip Menguncup dan Napas di Permukaan (Surface Gasping)"
     text: "Guppy menyampaikan kondisi kesehatan dan kualitas air melalui postur sirip dan posisi berenang. 'Sirip Menguncup (Clamped Fins)'—menempelkan ekor dan sirip punggung ke tubuh sambil berdiam diri—menandakan stres berat akibat penumpukan amonia atau syok suhu. Sebaliknya, 'Napas di Permukaan (Surface Gasping)' adalah peringatan darurat akan kurangnya oksigen terlarut atau kerusakan insang akibat keracunan amonia."
-  - name: "Guppy's Body Language & Signals"
+  - name: "Bahasa Tubuh dan Sinyal Perilaku Guppy"
     text: "* Sirip menempel pada tubuh dan berdiam di sudut (Clamped Fins): Peringatan stres lingkungan akibat lonjakan amonia/nitrit, syok pH, atau perubahan suhu. (Segera ukur kadar amonia dan lakukan penggantian air sebagian 20–30% dengan air yang sudah diendapkan dan disesuaikan suhunya.)
 
 * Mengambil napas terus-menerus di permukaan air (Surface Gasping): Sinyal kekurangan oksigen terlarut, filter macet, atau gangguan fungsi insang akibat toksisitas amonia. (Nyalakan pompa udara (aerator) untuk menambah oksigen, periksa arus filter, dan pastikan suhu air (24°C–26°C).)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutinitas Perawatan Harian 3 Langkah untuk Guppy"
     text: "* STEP 1. Pagi: Pemantauan Suhu Air (24°C–26°C) & Pemberian Pakan Secukupnya: Periksa termometer dan beri pakan khusus guppy dalam jumlah sedikit yang habis dalam 2–3 menit untuk mencegah pembusukan pakan.
 
 * STEP 2. Siang: Penyiphonan Kotoran Dasar & Pemantauan Akuarium: Siphon sisa pakan dan kotoran dari dasar akuarium untuk mengurangi beban amonia pada sistem filtrasi.
@@ -60,7 +60,7 @@ Diakui secara global sebagai ikan favorit bagi pemula maupun penghobi berpengala
 
 ---
 
-## 2. Guppy's Body Language & Signals
+## 2. Bahasa Tubuh dan Sinyal Perilaku Guppy
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Diakui secara global sebagai ikan favorit bagi pemula maupun penghobi berpengala
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutinitas Perawatan Harian 3 Langkah untuk Guppy
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

@@ -13,11 +13,11 @@ authority: "AKC-Rassestandard für Samojeden & Richtlinien der OFA (Orthopedic F
 steps:
   - name: "Körpersprache des Samojeden: Kühlverhalten und Gelenkschmerzanzeichen"
     text: "Bei Hitze legen sich Samojeden flach hin 'Flachliegen' (Splooting), um den Bauch auf kühle Böden zu drücken. Das 'Hasen-Hopping' (Bunny Hopping) mit gemeinsam aufgesetzten Hinterbeinen ist ein klares Zeichen für Hüftschmerzen."
-  - name: "Samojede (Canis lupus familiaris / Samoyed)'s Body Language & Signals"
+  - name: "Körpersprache und Verhaltenssignale von Samojede (Canis lupus familiaris / Samoyed)"
     text: "* Flachliegen (Splooting): Flachliegen auf dem Bauch mit nach hinten gestreckten Beinen, um die Körpertemperatur an kühlen Fliesen zu senken. (Stellen Sie Kühlmatten bereit und lassen Sie den Hund an einem gut belüfteten Ort ausruhen.)
 
 * Hasen-Hopping (Bunny Hopping): Gleichzeitiges Aufsetzen der Hinterbeine beim Laufen, um schmerzende Hüftgelenke zu entlasten. (Stoppen Sie anstrengende Aktivitäten sofort. Lassen Sie die Hüfte von einem Tierarzt röntgenologisch untersuchen.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Maßgeschneiderte 3-Schritte-Tagesroutine für Samojede (Canis lupus familiaris / Samoyed)"
     text: "* STEP 1. Morgen: Zupfbürste für die Belüftung des Doppelmantels: Bürsten Sie das dichte Fell täglich mit einer Zupfbürste und einem Metallkamm, um die Unterwolle zu lüften und Verfilzungen vorzubeugen.
 
 * STEP 2. Nachmittag: Gelenkschutz & rutschfeste Matten: Legen Sie rutschfeste Matten auf glatte Böden, achten Sie auf Gewichtskontrolle und füttern Sie Glucosamin-Gelenkzusätze.
@@ -60,7 +60,7 @@ Berühmt für ihr weißes, flauschiges Fell und das 'Samojeden-Lächeln' sind Sa
 
 ---
 
-## 2. Samojede (Canis lupus familiaris / Samoyed)'s Body Language & Signals
+## 2. Körpersprache und Verhaltenssignale von Samojede (Canis lupus familiaris / Samoyed)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Berühmt für ihr weißes, flauschiges Fell und das 'Samojeden-Lächeln' sind Sa
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Maßgeschneiderte 3-Schritte-Tagesroutine für Samojede (Canis lupus familiaris / Samoyed)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

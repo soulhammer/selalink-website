@@ -13,11 +13,11 @@ authority: "World Union of German Shepherd Dog Clubs (WUSV) & German Shepherd Do
 steps:
   - name: "German Shepherd Body Language: Ear Angles and Focus Signals"
     text: "German Shepherds express emotions clearly through ear movements and posture. Pricking their ears forward while standing tall indicates an 'Alert Posture', an instinctual state for monitoring surroundings. Conversely, 'Head Tilting' while listening is a high-level cognitive focus signal to pinpoint sound location and understand owner intent."
-  - name: "German Shepherd Dog's Body Language & Signals"
+  - name: "German Shepherd Dog's Body Language & Behavioral Signals"
     text: "* Ears Pricked Forward & Rigid Stance (Alert & Guarding Posture): A strong environmental monitoring warning caused by external stimuli or strangers. (Issue a calm disengagement command without tightening the leash, redirecting their focus back to the owner.)
 
-* Head Tilting Left and Right While Staring (Head Tilting): An active curiosity and cognitive focus aimed at analyzing the owner's voice and visual cues. (Repeat commands in a clear, upbeat tone and immediately reward correct responses.)"
-  - name: "Customized 3-Step Home Care Routine"
+* Head Tilting Left and Right While Staring (Head Tilting): An active curiosity and cognitive focus aimed at analyzing the owner's voice and visual cues. (Repeat commands in a clear, upbeat tone and immediately reward correct .)"
+  - name: "Customized 3-Step Home Care Routine for German Shepherd Dog"
     text: "* STEP 1. Morning: Interval Walking Combined with Obedience Training: Combine walking with precise commands like 'stay' or 'heel' to burn mental and physical energy simultaneously.
 
 * STEP 2. Afternoon: Advanced Nosework & Working Simulation Games: Provide complex puzzle toys or scent search games to satisfy their working drive and prevent boredom.
@@ -60,7 +60,7 @@ German Shepherds are renowned worldwide as top police, military, and family dogs
 
 ---
 
-## 2. German Shepherd Dog's Body Language & Signals
+## 2. German Shepherd Dog's Body Language & Behavioral Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -80,13 +80,13 @@ German Shepherds are renowned worldwide as top police, military, and family dogs
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• Meaning:</strong> An active curiosity and cognitive focus aimed at analyzing the owner's voice and visual cues.<br/>
-    <strong>• Response:</strong> Repeat commands in a clear, upbeat tone and immediately reward correct responses.
+    <strong>• Response:</strong> Repeat commands in a clear, upbeat tone and immediately reward correct .
   </p>
 </div>
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Customized 3-Step Home Care Routine for German Shepherd Dog
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

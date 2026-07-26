@@ -13,11 +13,11 @@ authority: "CFA-Perserzuchtrichtlinien und AAFP-Veterinärstandards für Katzen"
 steps:
   - name: "Körpersprache der Perserkatze: Stille Zeichen von Augen und Ohren"
     text: "Da Perser ihre Gefühle leise und dezent ausdrücken, ist Stress schwer zu erkennen. Während sie Zuneigung durch 'halbgeschlossene Augen' (Half-Closed Eyes) zeigen, signalisieren 'Flugzeugohren' (Airplane Ears) (flach zur Seite gedrehte Ohren) Unbehagen oder Ablehnung. Dies wird häufig beobachtet, wenn das Gesicht zu schnell gebürstet oder die Falten grob berührt werden."
-  - name: "Perserkatze (Felis catus / Persian Cat)'s Body Language & Signals"
+  - name: "Körpersprache und Verhaltenssignale von Perserkatze (Felis catus / Persian Cat)"
     text: "* Halbgeschlossene Augen (Half-Closed Eyes): Eine friedliche Botschaft, die tiefes Vertrauen zeigt und einen sehr zufriedenen, entspannten Zustand anzeigt. (Antworten Sie mit einem langsamen Blinzeln (Katzenblinzeln) und sprechen Sie mit ruhiger, sanfter Stimme.)
 
 * Flugzeugohren (Airplane Ears): Ein Ausdruck des Unbehagens, der durch Ziehen an den Haarwurzeln beim Bürsten oder Lärm verursacht wird. (Hören Sie sofort auf zu bürsten und geben Sie der Katze an einem ruhigen Ort Freiraum zur Beruhigung.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Maßgeschneiderte 3-Schritte-Tagesroutine für Perserkatze (Felis catus / Persian Cat)"
     text: "* STEP 1. Morgen: Reinigung der Gesichtsfalten und Tränenfleckenpflege: Reinigen Sie morgens die Gesichtsfalten unter den Augen mit steriler Gaze und milder Reinigungslösung, um Hefe-Dermatitis vorzubeugen.
 
 * STEP 2. Nachmittag: Fellpflege mit Zupfbürste und Metallkamm: Pflegen Sie verfilzungsanfällige Zonen wie Achseln und Bauch. Erst mit Zupfbürste entwirren, dann mit Metallkamm glätten und Belüftung prüfen.
@@ -60,7 +60,7 @@ Mit ihrem dichten Doppelfell und dem charakteristischen flachen Gesicht sind Per
 
 ---
 
-## 2. Perserkatze (Felis catus / Persian Cat)'s Body Language & Signals
+## 2. Körpersprache und Verhaltenssignale von Perserkatze (Felis catus / Persian Cat)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Mit ihrem dichten Doppelfell und dem charakteristischen flachen Gesicht sind Per
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Maßgeschneiderte 3-Schritte-Tagesroutine für Perserkatze (Felis catus / Persian Cat)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

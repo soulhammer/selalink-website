@@ -13,11 +13,11 @@ authority: "Associação de Veterinários de Aves (AAV) & Padrões Comportamenta
 steps:
   - name: "Comunicação da Calopsita: O Que a Crista e a Cabeça Abaixada Revelam"
     text: "A crista é uma antena emocional. Erguida verticalmente sinaliza alerta; a cabeça abaixada é um pedido explícito de carinho na nuca."
-  - name: "Calopsita (Nymphicus hollandicus / Cockatiel)'s Body Language & Signals"
+  - name: "Linguagem corporal e sinais de comportamento do Calopsita (Nymphicus hollandicus / Cockatiel)"
     text: "* Crista Totalmente Erguida (Fully Erect Crest): Alerta máximo ou curiosidade intensa diante de um novo som ou objeto no ambiente. (Fale com voz calma e evite aproximações bruscas com as mãos.)
 
 * Cabeça Abaixada e Pescoço Estendido (Head Lowering for Scratches): Demonstração de profunda confiança pedindo carinho nas bochechas e nuca. (Coce suavemente as penas da bochecha e base da crista no sentido oposto às penas.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rotina diária de 3 passos para cuidados com Calopsita (Nymphicus hollandicus / Cockatiel)"
     text: "* STEP 1. Manhã: Ventilação, Inspeção e Ração Extrusada Fresca: Descubra a gaiola, troque a água e a ração extrusada e observe a agilidade de voo.
 
 * STEP 2. Tarde: Voo Livre Seguro e Brinquedos de Forrageamento: Ofereça 1 - 2 horas de voo em ambiente seguro com brinquedos de busca de alimento.
@@ -60,7 +60,7 @@ Famosa pelas bochechas laranjas e crista graciosa, a Calopsita é uma ave inteli
 
 ---
 
-## 2. Calopsita (Nymphicus hollandicus / Cockatiel)'s Body Language & Signals
+## 2. Linguagem corporal e sinais de comportamento do Calopsita (Nymphicus hollandicus / Cockatiel)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Famosa pelas bochechas laranjas e crista graciosa, a Calopsita é uma ave inteli
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rotina diária de 3 passos para cuidados com Calopsita (Nymphicus hollandicus / Cockatiel)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

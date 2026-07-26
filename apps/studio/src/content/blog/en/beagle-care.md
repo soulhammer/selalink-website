@@ -13,11 +13,11 @@ authority: "Official AKC Breed Standard for Beagles & IAABC Nosework Behavior Pr
 steps:
   - name: "Beagle Body Language: Tracking Instinct and Meaning of Howling"
     text: "When hyper-focused on smells, Beagles exhibit 'ground-tracking' (pressing their nose to the ground and marching forward), often tuning out external sounds as they release energy through scent. Conversely, 'howling' when left alone or under-stimulated is a classic expression of separation anxiety and distress. Accurately recognizing these two signals is essential for keeping your Beagle balanced and calm."
-  - name: "Beagle's Body Language & Signals"
+  - name: "Beagle's Body Language & Behavioral Signals"
     text: "* Ground-Tracking: A normal state of heightened stimulation where the dog explores their environment through smell and burns scent-hound energy. (Do not yank their leash; allow them time to safely sniff and explore the scent trail to satisfy their mental needs.)
 
 * Howling: An expression of anxiety, loneliness, boredom, or unspent energy seeking attention and relief. (Avoid scolding. Address the root cause by increasing physical exercise and providing indoor nosework puzzle toys.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Customized 3-Step Home Care Routine for Beagle"
     text: "* STEP 1. Morning: Indoor Treat Hide-and-Seek Nosework Game: After breakfast, hide treats in paper cups or around the room to engage their sharp scenting intelligence and burn mental energy early in the day.
 
 * STEP 2. Afternoon: 40+ Minute Active Outdoor Tracking Walk: Provide at least 40 minutes of outdoor walking daily. Let them sniff grass and trails freely without unnecessary restrictions to release physical energy.
@@ -60,7 +60,7 @@ Adored for their large floppy ears and happy white-tipped tail, Beagles are hist
 
 ---
 
-## 2. Beagle's Body Language & Signals
+## 2. Beagle's Body Language & Behavioral Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Adored for their large floppy ears and happy white-tipped tail, Beagles are hist
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Customized 3-Step Home Care Routine for Beagle
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

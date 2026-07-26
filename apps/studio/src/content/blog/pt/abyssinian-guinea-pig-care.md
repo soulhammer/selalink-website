@@ -13,11 +13,11 @@ authority: "Diretrizes de Cuidado de Roedores da RSPCA e Padrões Clínicos Vete
 steps:
   - name: "Comunicação do porquinho-da-índia: wheeking e popcorning"
     text: "Os porquinhos-da-índia são animais muito expressivos que comunicam as suas emoções claramente. Emitem um guincho agudo chamado 'wheeking' para pedir comida ou saudar o tutor. E quando estão radiantes de felicidade e seguros, dão saltos repentinos no ar conhecidos como 'popcorning'."
-  - name: "Porquinho-da-índia Abissínio's Body Language & Signals"
+  - name: "Linguagem corporal e sinais de comportamento do Porquinho-da-índia Abissínio"
     text: "* Wheeking (Guincho agudo): Chamamento de excitação ou pedido de comida, normalmente ao ouvir pacotes de vegetais a abrir ou ver o tutor. (Ofereça um pedaço de pimento fresco rico em vitamina C e aproveite para fortalecer os laços de confiança.)
 
 * Popcorning (Saltos rápidos): Pulos repentinos no ar que mostram que o animal está muito feliz, ativo e num ambiente totalmente seguro. (Verifique se o recinto não tem cantos afiados nos quais ele possa bater e magoar-se ao saltar.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rotina diária de 3 passos para cuidados com Porquinho-da-índia Abissínio"
     text: "* STEP 1. Manhã: Suplementação de vitamina C e feno fresco: Dê o suplemento de vitamina C diretamente ou ofereça pimento verde/vermelho (evite colocar na água, pois degrada-se rapidamente). Encha o suporte com feno Timothy fresco.
 
 * STEP 2. Tarde: Limpeza localizada e controlo de pó: Retire o substrato molhado de urina para conter a amónia. Sacuda o feno ao ar livre antes de o colocar na gaiola para reduzir o pó.
@@ -60,7 +60,7 @@ Os porquinhos-da-índia abissínios são amados pelas suas rosetas (remoinhos de
 
 ---
 
-## 2. Porquinho-da-índia Abissínio's Body Language & Signals
+## 2. Linguagem corporal e sinais de comportamento do Porquinho-da-índia Abissínio
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Os porquinhos-da-índia abissínios são amados pelas suas rosetas (remoinhos de
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rotina diária de 3 passos para cuidados com Porquinho-da-índia Abissínio
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

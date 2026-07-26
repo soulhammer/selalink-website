@@ -13,11 +13,11 @@ authority: "Panduan Resmi Perawatan French Bulldog AKC & Standar Kedokteran Hewa
 steps:
   - name: "Bahasa Tubuh French Bulldog: Suara Napas Brakisefalik dan Sinyal Panas"
     text: "Saat aliran udara terhambat karena saluran napas menyempit, French Bulldog mengeluarkan suara khas 'stridor atau stertor'. Jika mereka menjulurkan leher sambil terengah-engah dengan lidah keluar, itu adalah tanda bahaya lonjakan suhu tubuh yang butuh penanganan segera."
-  - name: "French Bulldog (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "Bahasa Tubuh dan Sinyal Perilaku French Bulldog (Canis lupus familiaris)"
     text: "* Napas Kasar & Stridor (Stridor / Stertor): Menunjukkan aliran udara terbatas akibat saluran hidung sempit dan kenaikan suhu tubuh saat bersemangat. (Segera pindahkan anjing ke ruangan ber-AC atau tempat teduh dan berikan air minum dingin agar mereka bisa beristirahat tenang.)
 
 * Terengah-engah dengan Leher Julur: Sinyal bahaya kritis saat anjing menjulurkan leher untuk menghirup oksigen demi mendinginkan suhu tubuh yang terlalu panas. (Atur suhu ruangan menjadi 22-24°C menggunakan AC dan seka kaki serta tubuh anjing dengan handuk basah dingin.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutinitas Perawatan Harian 3 Langkah untuk French Bulldog (Canis lupus familiaris)"
     text: "* STEP 1. Pagi: Pembersihan dan Pengeringan Kerutan Wajah: Bersihkan lipatan wajah di sekitar mata dan hidung dengan tisu basah bebas alkohol, lalu keringkan secara menyeluruh untuk mencegah infeksi jamur.
 
 * STEP 2. Siang: Jalan Kaki Ringan 15 Menit di Area Datar Menghindari Heatstroke: Hindari jam-jam panas. Lakukan jalan kaki singkat selama 15 menit di permukaan rata tanpa tanjakan pada pagi hari atau malam hari.
@@ -60,7 +60,7 @@ Dengan telinga kelelawar khas dan wajah peseknya, French Bulldog adalah teman ya
 
 ---
 
-## 2. French Bulldog (Canis lupus familiaris)'s Body Language & Signals
+## 2. Bahasa Tubuh dan Sinyal Perilaku French Bulldog (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Dengan telinga kelelawar khas dan wajah peseknya, French Bulldog adalah teman ya
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutinitas Perawatan Harian 3 Langkah untuk French Bulldog (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

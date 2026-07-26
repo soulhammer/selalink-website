@@ -13,11 +13,11 @@ authority: "American Kennel Club (AKC) Labrador Retriever Breed Guide & Veterina
 steps:
   - name: "Labrador Retriever Body Language: 'Soft Mouth' and Begging Signals"
     text: "Labrador Retrievers possess an instinct known as a 'Soft Mouth', designed to retrieve game without causing damage. Carrying objects gently in their mouth without destroying them is an expression of affection and an invitation to play. Conversely, resting their chin on your lap while staring into your eyes is a subtle begging signal driven by their intense appetite."
-  - name: "Labrador Retriever's Body Language & Signals"
+  - name: "Labrador Retriever's Body Language & Behavioral Signals"
     text: "* Gentle Carrying of Objects (Soft Mouth): An instinctual retrieving behavior showing deep affection, trust, and a desire to interact with the owner. (Avoid snatching the object away forcefully. Praise them and transition into a structured game of fetch.)
 
 * Resting Chin on Lap & Staring (Begging & Eye Contact): A continuous appetite signal caused by the POMC gene mutation, asking for treats. (Do not give in to unconditional begging. Maintain strict meal portions and use low-calorie nosework toys for weight control.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Customized 3-Step Home Care Routine for Labrador Retriever"
     text: "* STEP 1. Morning: Slow Feeder Meal & Joint-Friendly Walk: Use a slow feeder bowl to prevent fast eating and bloat, followed by a flat-terrain walk to protect their hip joints.
 
 * STEP 2. Afternoon: Fetch Play & Post-Swim Ear Cleaning Routine: Engage in fetch games to burn off energy, and dry their ears thoroughly with a pet ear cleanser after any water activities to prevent infections.
@@ -60,7 +60,7 @@ Labrador Retrievers are beloved worldwide for their gentle, intelligent, and fri
 
 ---
 
-## 2. Labrador Retriever's Body Language & Signals
+## 2. Labrador Retriever's Body Language & Behavioral Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Labrador Retrievers are beloved worldwide for their gentle, intelligent, and fri
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Customized 3-Step Home Care Routine for Labrador Retriever
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

@@ -13,11 +13,11 @@ authority: "キャットファンシャーズアソシエーション(CFA)ガイ
 steps:
   - name: "ロシアンブルーのボディランゲージ：警戒と不安の克服"
     text: "ロシアンブルーは大人しい性格である分、不快感を静かに表現しますが、限界に達すると行動に出ます。代表的なのは「瞳孔拡張（Dilated Pupils）」と「体を低くしてうずくまる（Crouching）」です。突然大きな音がしたり、知らない人が触ろうとした時に黒目が大きく丸くなるのは、極度の緊張を示します。また、床に体を密着させて耳を横に倒す「イカ耳」にするしぐさは、強い恐怖を感じて逃げるか攻撃するかの防衛サインです。"
-  - name: "ロシアンブルー (Felis catus / Russian Blue)'s Body Language & Signals"
+  - name: "ロシアンブルー (Felis catus / Russian Blue)のボディランゲージと行動サイン"
     text: "* 瞳孔拡張 (Dilated Pupils): 周囲の脅威を感知し、ストレスホルモンが活性化して緊張しているサインです。 (部屋の明かりを暗くし、刺激の要素（掃除機の音など）をすぐに止めてください。)
 
 * 体を低くしてうずくまる (Crouching): 逃げ道がなくなり、知らない対象に対して強い恐怖を感じているサインです。 (無理に抱き上げようとせず、猫が安全だと感じる部屋や隠れ家に逃げ込ませてあげてください。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "ロシアンブルー (Felis catus / Russian Blue)のための3ステップホームケアルーティン"
     text: "* STEP 1. 朝：トイレと食事スペースの衛生と安全確保: 神経質で清潔好きなロシアンブルーのため、朝一番にトイレを綺麗に掃除し、物音のしない部屋の隅の給餌スペースを確認します。
 
 * STEP 2. 昼：静かで安定感のあるキャットタワー隠れ家の確保: 騒音やストレスの要因が現れた際、すぐに避難できるよう、入り口の狭いドーム型のキャットタワーなどが常に解放されているか点検します。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. ロシアンブルー (Felis catus / Russian Blue)'s Body Language & Signals
+## 2. ロシアンブルー (Felis catus / Russian Blue)のボディランゲージと行動サイン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ faqs:
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. ロシアンブルー (Felis catus / Russian Blue)のための3ステップホームケアルーティン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

@@ -13,11 +13,11 @@ authority: "Protokol Konservasi Reptil Internasional & Standar Perawatan Medis U
 steps:
   - name: "Bahasa Tubuh Crested Gecko: Gerakan Ekor Bentuk S dan Usapan Mata (Eye Wiping)"
     text: "Crested Gecko menyampaikan kondisi emosionalnya melalui gerakan ekor dan lidah. Mengangkat ekor membentuk huruf S dan mengibaskannya secara perlahan adalah 'Sinyal Kewaspadaan & Ancaman (Tail S-Wagging)' sebelum memutus ekornya (autotomi). Sebaliknya, menjilat mata atau sekitar moncongnya adalah 'Sinyal Kebersihan & Eksplorasi Alami (Eye Wiping)' untuk melembapkan mata tanpa kelopak dan mengumpulkan partikel aroma."
-  - name: "Crested Gecko (Crested Gecko)'s Body Language & Signals"
+  - name: "Bahasa Tubuh dan Sinyal Perilaku Crested Gecko (Crested Gecko)"
     text: "* Ekor Diangkat Bentuk S dan Dikibaskan Perlahan (Tail S-Wagging): Peringatan stres defensif ekstrem saat merasa terancam atau penanganan kasar, sering kali mendahului pelepasan ekor. (Segera hentikan penanganan dan kembalikan mereka ke tempat sembunyi yang gelap dan tenang agar kembali tenang.)
 
 * Menjilat Bola Mata atau Sekitar Mulut dengan Lidah (Eye Wiping / Tongue Flicking): Perilaku alami yang melembapkan permukaan mata tanpa kelopak dan mengirimkan molekul aroma ke organ Jacobson. (Ini adalah perilaku yang sangat normal; jangan ganggu mereka dan pastikan kelembapan kandang (60%–80%) sudah sesuai.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutinitas Perawatan Harian 3 Langkah untuk Crested Gecko (Crested Gecko)"
     text: "* STEP 1. Pagi: Penyemprotan Dinding Kandang & Pemeriksaan Suhu/Kelembapan: Semprotkan air pada dinding kandang agar mereka dapat menjilat bulir air, dan jaga suhu siang hari tetap sejuk (22°C–25°C).
 
 * STEP 2. Siang: Perlindungan dari Sinar Matahari Langsung & Pemantauan Istirahat: Lindungi gecko dari sinar matahari langsung karena mereka sangat rentan terhadap suhu di atas 28°C, memastikan tempat istirahat yang sejuk dan gelap.
@@ -60,7 +60,7 @@ Terkenal dengan jambul mirip bulu mata di atas matanya, Crested Gecko (Correloph
 
 ---
 
-## 2. Crested Gecko (Crested Gecko)'s Body Language & Signals
+## 2. Bahasa Tubuh dan Sinyal Perilaku Crested Gecko (Crested Gecko)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Terkenal dengan jambul mirip bulu mata di atas matanya, Crested Gecko (Correloph
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutinitas Perawatan Harian 3 Langkah untuk Crested Gecko (Crested Gecko)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

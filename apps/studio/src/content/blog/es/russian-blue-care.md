@@ -13,11 +13,11 @@ authority: "Guía de Razas de la Cat Fanciers' Association (CFA) y Cornell Felin
 steps:
   - name: "Lenguaje corporal del Azul Ruso: Lectura de las señales de pánico"
     text: "Debido a su naturaleza gentil, los Azules Rusos muestran señales de advertencia en silencio. Las señales clave incluyen 'pupilas dilatadas' (Dilated Pupils) y 'encogerse' (Crouching). Si escucha un ruido o se acerca un extraño, sus pupilas se dilatan. Si aplasta su cuerpo contra el suelo y aplana las orejas hacia los lados, experimenta un miedo extremo y se prepara para huir."
-  - name: "Azul Ruso (Felis catus / Russian Blue)'s Body Language & Signals"
+  - name: "Lenguaje corporal y señales de conducta de Azul Ruso (Felis catus / Russian Blue)"
     text: "* Pupilas dilatadas (Dilated Pupils): Una respuesta física que indica que están muy alertas, tensos o asustados por estímulos. (Atenúe las luces e interrumpa de inmediato la fuente de estimulación (ruido de electrodomésticos).)
 
 * Encogerse (Crouching): Una señal de pánico defensivo, que muestra que se sienten acorralados o aterrorizados. (No lo obligue al contacto físico. Permítale retirarse a una habitación o armario silencioso.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutina diaria de 3 pasos para el cuidado de Azul Ruso (Felis catus / Russian Blue)"
     text: "* STEP 1. Mañana: Rutina de seguridad en arenero y comedero: Limpie el arenero temprano. Asegúrese de que sus platos de comida y agua estén en un rincón tranquilo lejos del paso de la gente.
 
 * STEP 2. Tarde: Mantenimiento del refugio seguro en las alturas: Confirme que su cubículo cerrado en el árbol rascador esté siempre accesible. Esto le da una salida elevada ante ruidos o visitas.
@@ -60,7 +60,7 @@ Los Azules Rusos son felinos conocidos por su pelaje azul plateado y sus ojos ve
 
 ---
 
-## 2. Azul Ruso (Felis catus / Russian Blue)'s Body Language & Signals
+## 2. Lenguaje corporal y señales de conducta de Azul Ruso (Felis catus / Russian Blue)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Los Azules Rusos son felinos conocidos por su pelaje azul plateado y sus ojos ve
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutina diaria de 3 pasos para el cuidado de Azul Ruso (Felis catus / Russian Blue)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

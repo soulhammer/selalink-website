@@ -13,11 +13,11 @@ authority: "コーネル猫健康センター(Cornell Feline Health Center)猫�
 steps:
   - name: "猫のボディランゲージ：最高の信頼のサイン"
     text: "猫が飼い主に見せる最も強力な信頼の表現が、「尾を立てる（Tail Up）」と「ゴロゴロ音（Purring）」です。尾を天に向かって垂直にピンと立てて近づくのは、親密さの表れであり、コミュニケーションを求めるサインです。また、ゴロゴロという音は脳内でエンドルフィンを分泌させ、心を落ち着かせます。注意すべきは、この音は体調が悪い時に自らを治療する「自己治癒」のサインでもあるため、暗い場所に隠れて悲しそうに鳴る場合は健康チェックが必要です。"
-  - name: "コリアンショートヘア (Felis catus)'s Body Language & Signals"
+  - name: "コリアンショートヘア (Felis catus)のボディランゲージと行動サイン"
     text: "* しっぽ立て (Tail Up): 飼い主への強い親近感と肯定的なコミュニケーション、そして嬉しさの表れです。 (この時、猫と優しく目を合わせたり、顎の下を軽く撫でてあげて肯定的な交流を交わします。)
 
 * ゴロゴロ音 (Purring): 嬉しい時に出すのが一般的ですが、痛みの緩和や不安解消のための自己治癒シグナルでもあります。 (暗い隅っこに隠れてゴロゴロ音を出している場合は、怪我や病気がないか細かく観察してください。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "コリアンショートヘア (Felis catus)のための3ステップホームケアルーティン"
     text: "* STEP 1. 朝：垂直領域の管理と日差し窓の開放: 朝の換気とともに、ベランダの窓際や部屋のブラインドを開け、キャットタワーから外を眺められるようにします。垂直方向の領域が確保され、窓の外の風景を見る視覚的な刺激は、室内猫の退屈や領域制限からくるストレスを大幅に軽減します。
 
 * STEP 2. 昼・午後：15分間の狩猟模擬プレイのルーティン: 1日1回15分間、おもちゃの釣り竿を振って隠れたり飛びついたりする狩り遊びをします。猫は天性の捕食者であるため、おもちゃを最後まで追いかけて「狩りの達成感」を与えることで、フラストレーションを防ぎ運動量を増やします。
@@ -64,7 +64,7 @@ faqs:
 
 ---
 
-## 2. コリアンショートヘア (Felis catus)'s Body Language & Signals
+## 2. コリアンショートヘア (Felis catus)のボディランゲージと行動サイン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -90,7 +90,7 @@ faqs:
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. コリアンショートヘア (Felis catus)のための3ステップホームケアルーティン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

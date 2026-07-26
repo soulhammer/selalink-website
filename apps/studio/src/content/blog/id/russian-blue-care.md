@@ -13,11 +13,11 @@ authority: "Panduan Ras Cat Fanciers' Association (CFA) & Cornell Feline Health 
 steps:
   - name: "Bahasa Tubuh Russian Blue: Membaca Tanda Peringatan Kepanikan"
     text: "Karena sifat mereka yang lembut, Russian Blue menunjukkan sinyal peringatan dengan tenang. Sinyal kepanikan utama meliputi 'pupil melebar' (Dilated Pupils) dan 'merunduk' (Crouching). Ketika mendengar suara tiba-tiba, pupil mereka akan melebar. Jika mereka menekan tubuh ke lantai dan meratakan telinga, mereka bersiap untuk melarikan diri."
-  - name: "Russian Blue (Felis catus)'s Body Language & Signals"
+  - name: "Bahasa Tubuh dan Sinyal Perilaku Russian Blue (Felis catus)"
     text: "* Pupil Melebar (Dilated Pupils): Respons fisik yang menunjukkan mereka sangat waspada atau takut oleh pemicu sekitar. (Redupkan lampu dan segera hentikan sumber stimulasi (seperti kebisingan peralatan rumah tangga).)
 
 * Merunduk (Crouching): Tanda kepanikan defensif, menunjukkan mereka merasa terpojok atau ketakutan. (Jangan paksa mereka melakukan kontak fisik. Biarkan mereka mundur ke ruangan atau lemari yang tenang.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutinitas Perawatan Harian 3 Langkah untuk Russian Blue (Felis catus)"
     text: "* STEP 1. Pagi: Rutinitas Keamanan Kotak Pasir dan Area Makan: Bersihkan kotak pasir lebih awal. Pastikan mangkuk makanan dan air diletakkan di sudut yang tenang jauh dari lalu lintas orang.
 
 * STEP 2. Siang: Perawatan Tempat Berlindung yang Tinggi dan Tenang: Pastikan kondo pohon kucing yang tertutup selalu dapat diakses. Ini memberi mereka tempat pelarian pribadi yang tinggi.
@@ -60,7 +60,7 @@ Russian Blue adalah kucing menawan yang terkenal dengan bulu biru keperakan pend
 
 ---
 
-## 2. Russian Blue (Felis catus)'s Body Language & Signals
+## 2. Bahasa Tubuh dan Sinyal Perilaku Russian Blue (Felis catus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Russian Blue adalah kucing menawan yang terkenal dengan bulu biru keperakan pend
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutinitas Perawatan Harian 3 Langkah untuk Russian Blue (Felis catus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

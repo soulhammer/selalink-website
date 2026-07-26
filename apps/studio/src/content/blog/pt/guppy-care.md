@@ -13,11 +13,11 @@ authority: "Associação Internacional do Guppy de Fantasia (IFGA) e Protocolos 
 steps:
   - name: "Linguagem corporal do Guppy: Nadadeiras encolhidas e arfagem na superfície (Surface Gasping)"
     text: "Os guppies comunicam sua saúde e a qualidade da água através da postura das nadadeiras e posição de nado. 'Nadadeiras encolhidas (Clamped Fins)'—manter a cauda e nadadeira dorsal coladas ao corpo enquanto permanecem imóveis—sinaliza estresse severo por acúmulo de amônia ou choque térmico. Por outro lado, a 'Arfagem na superfície (Surface Gasping)' é um aviso urgente de falta de oxigênio dissolvido ou dano branquial por intoxicação de amônia."
-  - name: "Guppy's Body Language & Signals"
+  - name: "Linguagem corporal e sinais de comportamento do Guppy"
     text: "* Nadadeiras coladas ao corpo e imobilidade nos cantos (Clamped Fins): Aviso de estresse ambiental causado por picos de amônia/nitrito, choque de pH ou variações de temperatura. (Meça imediatamente os níveis de amônia e faça uma troca parcial de água de 20-30% com água desclorada na mesma temperatura.)
 
 * Arfagem contínua na superfície da água (Surface Gasping): Sinal de falta de oxigênio dissolvido, falha no filtro ou comprometimento branquial por toxicidade de amônia. (Ligue um compressor de ar para aumentar o oxigênio, verifique o fluxo do filtro e controle a temperatura (24°C–26°C).)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rotina diária de 3 passos para cuidados com Guppy"
     text: "* STEP 1. Manhã: Controle de temperatura (24°C–26°C) e alimentação moderada: Verifique o termômetro e alimente com ração específica para guppy em pequenas quantidades consumíveis em 2-3 minutos.
 
 * STEP 2. Tarde: Sifonagem de resíduos do substrato e monitoramento do aquário: Sifone restos de ração e dejetos do fundo para reduzir a carga de amônia no sistema de filtragem.
@@ -60,7 +60,7 @@ Reconhecido mundialmente como o peixe ideal para iniciantes e aquaristas experie
 
 ---
 
-## 2. Guppy's Body Language & Signals
+## 2. Linguagem corporal e sinais de comportamento do Guppy
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Reconhecido mundialmente como o peixe ideal para iniciantes e aquaristas experie
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rotina diária de 3 passos para cuidados com Guppy
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

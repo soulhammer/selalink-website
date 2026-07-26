@@ -13,11 +13,11 @@ authority: "爱猫者协会 (CFA) 官方指南与 AAFP 猫咪行为协议"
 steps:
   - name: "暹罗猫的身体语言：深切的信任与占有欲的信号"
     text: "暹罗猫会以清晰、互动的方式表达爱意，并展现丰富的镇静信号。典型的放松信号包括“缓慢眨眼（Slow Blink）”和“用头磨蹭（Bunting）”。在维持眼神接触的同时缓慢地闭上并睁开眼睛，是极致安全与安宁的陈述。在猫咪的世界中，闭眼是有风险的，这证明它们认为您是完全无害的伴侣。用面颊或额头磨蹭您的手是它们分享面部信息素并确认您是其所爱之人的方式。"
-  - name: "暹罗猫 (Siamese)'s Body Language & Signals"
+  - name: "暹罗猫 (Siamese) 的肢体语言与行为信号"
     text: "* 缓慢眨眼 (Slow Blink): 表明在家长面前感到极其安全，是深厚爱意的体现，常被称为“猫咪之吻”。 (温柔地与它们眼神接触，并以缓慢闭眼和睁眼1.5秒来回应这一动作。)
 
 * 头磨蹭 (Bunting): 留下自己面部信息素的动作，表示“您是我所爱之人”，并以此获取安定感。 (抚摸它们的面颊或下巴，让它们快乐地与您交换彼此的气味。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "暹罗猫 (Siamese) 定制化 3 步家庭护理流程"
     text: "* STEP 1. 早晨：预防分离焦虑的10分钟高接触亲密互动: 为了缓解分离焦虑，在早晨醒来后立即与您的暹罗猫一起躺在床上，抚摸它们并温柔地对它们说话，持续10分钟。
 
 * STEP 2. 下午：互动玩耍与益智喂食玩具投放: 在白天家长不在家时，使用益智喂食玩具让其保持忙碌。回家后，花至少15分钟使用羽毛逗猫棒进行高能追逐游戏。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. 暹罗猫 (Siamese)'s Body Language & Signals
+## 2. 暹罗猫 (Siamese) 的肢体语言与行为信号
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -69,7 +69,7 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 表明在家长面前感到极其安全，是深厚爱意的体现，常被称为“猫咪之吻”。<br/>
-    <strong>•  national:</strong> 温柔地与它们眼神接触，并以缓慢闭眼和睁眼1.5秒来回应这一动作。
+    <strong>• 应对:</strong> 温柔地与它们眼神接触，并以缓慢闭眼和睁眼1.5秒来回应这一动作。
   </p>
 </div>
 
@@ -80,13 +80,13 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 留下自己面部信息素的动作，表示“您是我所爱之人”，并以此获取安定感。<br/>
-    <strong>•  national:</strong> 抚摸它们的面颊或下巴，让它们快乐地与您交换彼此的气味。
+    <strong>• 应对:</strong> 抚摸它们的面颊或下巴，让它们快乐地与您交换彼此的气味。
   </p>
 </div>
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. 暹罗猫 (Siamese) 定制化 3 步家庭护理流程
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

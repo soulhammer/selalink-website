@@ -13,11 +13,11 @@ authority: "Guía de Salud del Dachshund del American Kennel Club y Directrices 
 steps:
   - name: "Señales de advertencia en la columna del Teckel: Postura de ruego y estiramientos"
     text: "Los Teckels muestran el estrés espinal mediante sutiles cambios en su postura. Ponerse de pie sobre sus patas traseras (la 'posición de ruego') ejerce una presión extrema sobre su columna lumbar. De la misma manera, encorvar la espalda o estirar rígidamente el cuello son signos de compresión nerviosa temprana que requieren atención inmediata."
-  - name: "Teckel / Dachshund (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "Lenguaje corporal y señales de conducta de Teckel / Dachshund (Canis lupus familiaris)"
     text: "* Ponerse de pie (Posición de ruego): Una postura que concentra una presión excesiva en la columna lumbar, hecha a menudo para pedir comida o atención. (Evite esta postura de inmediato con suavidad, use rampas para los muebles y mantenga sus juguetes o comida a la altura del pecho.)
 
 * Espalda encorvada y cuello estirado: Postura de protección provocada por dolor de espalda, rigidez o compresión nerviosa espinal temprana. (Restrinja su actividad física de inmediato, sostenga el pecho y los cuartos traseros para mantener la columna horizontal y acuda al veterinario.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutina diaria de 3 pasos para el cuidado de Teckel / Dachshund (Canis lupus familiaris)"
     text: "* STEP 1. Mañana: Inspección de movilidad espinal y masaje suave: Antes de comenzar la actividad, verifique si camina con rigidez. Realice un masaje suave a lo largo de la línea de su columna para evaluar si hay reacciones de dolor.
 
 * STEP 2. Tarde: Verificación de un entorno seguro para la columna y mantenimiento horizontal: Asegúrese de que las rampas antideslizantes estén bien colocadas junto al sofá o la cama y bloquee el acceso a las escaleras con barreras de seguridad.
@@ -60,7 +60,7 @@ Los perros salchicha (Teckel) son adorados en todo el mundo por su silueta encan
 
 ---
 
-## 2. Teckel / Dachshund (Canis lupus familiaris)'s Body Language & Signals
+## 2. Lenguaje corporal y señales de conducta de Teckel / Dachshund (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Los perros salchicha (Teckel) son adorados en todo el mundo por su silueta encan
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutina diaria de 3 pasos para el cuidado de Teckel / Dachshund (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

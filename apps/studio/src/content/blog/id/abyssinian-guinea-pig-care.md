@@ -13,11 +13,11 @@ authority: "Pedoman Perawatan Hewan Pengerat RSPCA dan Standar Klinis Dokter Hew
 steps:
   - name: "Komunikasi Marmut: Wheeking dan Popcorning"
     text: "Marmut adalah hewan yang sangat vokal dan ekspresif. Mereka mengeluarkan suara cicitan nyaring yang disebut 'wheeking' saat meminta makanan. Di sisi lain, mereka melakukan lompatan mendadak di udara yang disebut 'popcorning' saat merasa sangat gembira dan aman."
-  - name: "Marmut Abyssinian (Guinea Pig)'s Body Language & Signals"
+  - name: "Bahasa Tubuh dan Sinyal Perilaku Marmut Abyssinian (Guinea Pig)"
     text: "* Cicitan Nyaring (Wheeking): Panggilan kegembiraan atau permintaan makan, biasanya terdengar saat mereka mendengar suara kantong sayur atau melihat pemilik mendekat. (Berikan potongan paprika segar kaya vitamin C atau suplemen khusus untuk mempererat hubungan emosional.)
 
 * Lompatan Popcorn (Popcorning): Melompat tegak ke udara secara mendadak sebagai ekspresi kegembiraan murni, stamina tinggi, dan rasa aman. (Pastikan area bermain bebas dari benda keras atau tajam agar mereka tidak cedera saat melompat gembira.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutinitas Perawatan Harian 3 Langkah untuk Marmut Abyssinian (Guinea Pig)"
     text: "* STEP 1. Pagi: Suplementasi Vitamin C & Jerami Segar: Berikan suplemen vitamin C khusus secara langsung atau beri paprika segar (hindari mencampur ke air karena cepat terdegradasi). Isi rak dengan jerami Timothy segar.
 
 * STEP 2. Siang: Pembersihan Kandang & Pencegahan Debu: Bersihkan alas kandang yang basah untuk mencegah penumpukan gas amonia. Kebaskan jerami di luar ruangan sebelum dimasukkan kandang agar debu terbuang.
@@ -60,7 +60,7 @@ Marmut Abyssinian disukai karena pola pusaran bulu ('rosettes') yang unik serta 
 
 ---
 
-## 2. Marmut Abyssinian (Guinea Pig)'s Body Language & Signals
+## 2. Bahasa Tubuh dan Sinyal Perilaku Marmut Abyssinian (Guinea Pig)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Marmut Abyssinian disukai karena pola pusaran bulu ('rosettes') yang unik serta 
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutinitas Perawatan Harian 3 Langkah untuk Marmut Abyssinian (Guinea Pig)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

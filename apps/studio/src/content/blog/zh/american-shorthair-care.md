@@ -13,11 +13,11 @@ authority: "CFA (国际爱猫者协会) 美国短毛猫品种标准与康奈尔�
 steps:
   - name: "美国短毛猫的身体语言：心脏超负荷与张口呼吸的警示"
     text: "猫咪与狗狗不同，很少通过张嘴喘气来调节体温。如果在日常中出现“张口呼吸”或在玩耍中“极易疲劳趴卧”，这是心血管疾病的强烈警告，早发现早干预至关重要。"
-  - name: "美国短毛猫 (American Shorthair)'s Body Language & Signals"
+  - name: "美国短毛猫 (American Shorthair) 的肢体语言与行为信号"
     text: "* 张口呼吸 (Open-Mouth Breathing): 张开嘴巴急促喘气的状态，表明肺部与心脏负荷过重，或因极度焦虑导致严重缺氧。 (尽量减少环境刺激与应激，将猫咪置于航空箱中，立即送往24小时急诊宠物医院接受吸氧治疗。)
 
 * 玩耍中迅速疲劳趴卧 (Quick Fatigue): 进行轻度羽毛逗猫棒互动等短暂运动后便侧卧喘气，代表心脏泵血输出量严重不足。 (限制剧烈运动，每年定期进行听诊及心脏彩超（含proBNP检测），以精准排查与监测HCM的进展。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "美国短毛猫 (American Shorthair) 定制化 3 步家庭护理流程"
     text: "* STEP 1. 早晨：限制自助喂食与定时定量给食: 放弃食物常备的自助喂食方式，改为早晚定时定量喂食，从源头预防肥胖并保护血管健康。
 
 * STEP 2. 中午：刺激捕猎本能的15分钟主动游戏: 使用逗猫棒或玩具小鼠模拟捕猎，每日诱导互动至少2次、每次15分钟以上，以促进热量消耗。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. 美国短毛猫 (American Shorthair)'s Body Language & Signals
+## 2. 美国短毛猫 (American Shorthair) 的肢体语言与行为信号
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -69,7 +69,7 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 张开嘴巴急促喘气的状态，表明肺部与心脏负荷过重，或因极度焦虑导致严重缺氧。<br/>
-    <strong>•  national:</strong> 尽量减少环境刺激与应激，将猫咪置于航空箱中，立即送往24小时急诊宠物医院接受吸氧治疗。
+    <strong>• 应对:</strong> 尽量减少环境刺激与应激，将猫咪置于航空箱中，立即送往24小时急诊宠物医院接受吸氧治疗。
   </p>
 </div>
 
@@ -80,13 +80,13 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 进行轻度羽毛逗猫棒互动等短暂运动后便侧卧喘气，代表心脏泵血输出量严重不足。<br/>
-    <strong>•  national:</strong> 限制剧烈运动，每年定期进行听诊及心脏彩超（含proBNP检测），以精准排查与监测HCM的进展。
+    <strong>• 应对:</strong> 限制剧烈运动，每年定期进行听诊及心脏彩超（含proBNP检测），以精准排查与监测HCM的进展。
   </p>
 </div>
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. 美国短毛猫 (American Shorthair) 定制化 3 步家庭护理流程
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

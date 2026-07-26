@@ -13,11 +13,11 @@ authority: "Hereditäres Knorpelprotokoll der ISFM (International Society of Fel
 steps:
   - name: "Körpersprache der Fold: Buddha-Stellung und Schwanz einklemmen"
     text: "Scottish Folds nutzen einzigartige Körperhaltungen, um die Schmerzen der erblichen Gelenkerkrankung zu kompensieren. Die zwei deutlichsten Warnsignale sind die 'Buddha-Stellung' und das 'Einklemmen oder Senken des Schwanzes'. Das aufrechte Sitzen auf dem Gesäß mit ausgestreckten Beinen (Buddha-Stellung) ist kein niedlicher Trick, sondern eine instinktive Ruhehaltung, um das Körpergewicht zu verlagern und den Druck von den steifen Fuß- und Beingelenken zu nehmen. Das Einklemmen des Schwanzes zwischen den Hinterbeinen deutet darauf hin, dass die Schwanzwirbel versteifen und schmerzen. Vermeiden Sie in diesem Fall Berührungen am unteren Rücken und Schwanz."
-  - name: "Scottish Fold's Body Language & Signals"
+  - name: "Körpersprache und Verhaltenssignale von Scottish Fold"
     text: "* Buddha-Stellung (Buddha Position): Eine instinktive Haltung zur Verteilung des Körpergewichts, um Schmerzen durch die erbliche Knorpelerkrankung zu lindern. (Zwingen Sie die Katze nicht, die Stellung zu verändern. Legen Sie ein weiches Kissen hinter ihren Rücken, um sie abzustützen.)
 
 * Schwanz einklemmen / senken: Ein Abwehrsignal, das auf Versteifungen oder Schmerzen in den Schwanzwirbeln hinweist und Berührungen ablehnt. (Hören Sie sofort auf, den Schwanz oder den unteren Rücken zu berühren, und führen Sie das Tier zu einer weichen Matte.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Maßgeschneiderte 3-Schritte-Tagesroutine für Scottish Fold"
     text: "* STEP 1. Morgen: Ganganalyse und Nahrungsergänzung für Knorpel: Beobachten Sie den Gang nach dem Aufstehen für 30 Sekunden auf Hinken oder Steifheit. Verabreichen Sie knorpelunterstützende Ergänzungsmittel (Glucosamin, Chondroitin, MSM, Omega-3) mit dem Morgenfutter.
 
 * STEP 2. Nachmittag: Gehörgangskontrolle und wöchentliche Ohrreinigung: Faltohren stauen Feuchtigkeit. Verwenden Sie niemals Wattestäbchen im Gehörgang. Träufeln Sie Spezial-Ohrreiniger für Katzen ein, massieren Sie den Ohransatz sanft, lassen Sie die Katze den Kopf schütteln und wischen Sie gelösten Schmutz mit einem Wattepad am Ohreingang ab.
@@ -64,7 +64,7 @@ Heute entschlüsselt PetSelf die körpersprachlichen Schmerzsignale der Scottish
 
 ---
 
-## 2. Scottish Fold's Body Language & Signals
+## 2. Körpersprache und Verhaltenssignale von Scottish Fold
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -90,7 +90,7 @@ Heute entschlüsselt PetSelf die körpersprachlichen Schmerzsignale der Scottish
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Maßgeschneiderte 3-Schritte-Tagesroutine für Scottish Fold
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

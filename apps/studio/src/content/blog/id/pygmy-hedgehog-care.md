@@ -13,11 +13,11 @@ authority: "Panduan Hedgehog Welfare Society dan Protokol Kedokteran Hewan Eksot
 steps:
   - name: "Insting Landak Mini: Busa Pengurapan Diri dan Pertahanan Duri"
     text: "Saat landak mini Afrika merasakan atau mencium sesuatu yang baru, mereka membuat air liur berbusa dan mengoleskannya ke duri mereka, sebuah proses yang disebut 'Pengurapan Diri' (Self-Anointing). Ini adalah perilaku normal untuk menyamarkan aroma mereka. Sebaliknya, ketika takut, mereka menggulung tubuh menjadi bola rapat dan mendesis 'Mendesis' (Hissing) untuk memperingatkan agar tidak disentuh."
-  - name: "Landak Mini Afrika (Atelerix albiventris / African Pygmy Hedgehog)'s Body Language & Signals"
+  - name: "Bahasa Tubuh dan Sinyal Perilaku Landak Mini Afrika (Atelerix albiventris / African Pygmy Hedgehog)"
     text: "* Pengurapan Diri (Self-Anointing): Insting liar yang tidak berbahaya untuk mencatat dan melapisi duri mereka dengan aroma lingkungan yang baru. (Jangan ganggu mereka atau salah mengartikannya sebagai penyakit. Biarkan mereka merasa nyaman dengan aroma tersebut secara alami.)
 
 * Mendesis & Menggulung Menjadi Bola (Hissing/Ball-up): Mode defensif yang menunjukkan ketakutan parah, menegakkan duri untuk menghalangi kontak fisik apa pun. (Hindari memegang mereka dengan tangan telanjang. Tutup dengan selimut bulu domba lembut untuk membuat perlindungan yang gelap.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutinitas Perawatan Harian 3 Langkah untuk Landak Mini Afrika (Atelerix albiventris / African Pygmy Hedgehog)"
     text: "* STEP 1. Pagi: Membersihkan Roda Putar dan Wadah Makanan yang Kotor: Karena landak cenderung buang air besar saat berlari di roda putar, bersihkan dan sterilkan roda serta mangkuk setiap pagi.
 
 * STEP 2. Siang: Menjaga Suhu Ruangan Antara 24 hingga 26 °C: Cegah suhu tubuh rendah dan hibernasi dengan memeriksa bantalan pemanas dan termostat digital secara teratur.
@@ -60,7 +60,7 @@ Landak mini Afrika adalah peliharaan eksotis yang tenang dan menarik. Mereka pem
 
 ---
 
-## 2. Landak Mini Afrika (Atelerix albiventris / African Pygmy Hedgehog)'s Body Language & Signals
+## 2. Bahasa Tubuh dan Sinyal Perilaku Landak Mini Afrika (Atelerix albiventris / African Pygmy Hedgehog)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Landak mini Afrika adalah peliharaan eksotis yang tenang dan menarik. Mereka pem
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutinitas Perawatan Harian 3 Langkah untuk Landak Mini Afrika (Atelerix albiventris / African Pygmy Hedgehog)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

@@ -13,11 +13,11 @@ authority: "Union Mondiale des Clubs de Chiens de Berger Allemand (WUSV) & Norme
 steps:
   - name: "Langage corporel du Berger Allemand : Orientation des oreilles et signaux de concentration"
     text: "Le Berger Allemand exprime clairement ses émotions par ses oreilles et sa posture. Garder les oreilles dressées vers l'avant en position droite traduit une « Posture d'alerte », un état instinctif de surveillance. En revanche, « Pencher la tête » lorsqu'il écoute est un signal de forte concentration cognitive visant à localiser les sons et à comprendre les intentions de son maître."
-  - name: "Berger Allemand (German Shepherd Dog)'s Body Language & Signals"
+  - name: "Langage corporel et signaux comportementaux du Berger Allemand (German Shepherd Dog)"
     text: "* Oreilles dressées et corps tendu (Alert & Guarding Posture): État de vigilance intense et de surveillance face à des stimuli extérieurs ou des inconnus. (Donnez un ordre de renoncement d'un ton calme sans tendre la laisse, puis redirigez son attention vers vous.)
 
 * Regarder le maître en penchant la tête de gauche à droite (Head Tilting): Curiosité active et concentration visant à analyser précisément les signaux vocaux et visuels du maître. (Répétez l'ordre d'un ton clair et enjoué, puis récompensés immédiatement le bon comportement.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Routine quotidienne en 3 étapes pour le soin du Berger Allemand (German Shepherd Dog)"
     text: "* STEP 1. Matin : Promenade fractionnée combinée à des exercices d'obéissance: Incorporez des ordres stricts comme « au pied » ou « pas bouger » pour dépenser simultanément son énergie mentale et physique.
 
 * STEP 2. Après-midi : Jeux de recherche olfactive (Nosework) avancés et simulation de travail: Proposez des puzzles complexes ou des jeux de recherche d'objets pour satisfaire son instinct de travail et éviter l'ennui.
@@ -60,7 +60,7 @@ Le Berger Allemand est reconnu dans le monde entier comme un chien policier, mil
 
 ---
 
-## 2. Berger Allemand (German Shepherd Dog)'s Body Language & Signals
+## 2. Langage corporel et signaux comportementaux du Berger Allemand (German Shepherd Dog)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Le Berger Allemand est reconnu dans le monde entier comme un chien policier, mil
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Routine quotidienne en 3 étapes pour le soin du Berger Allemand (German Shepherd Dog)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

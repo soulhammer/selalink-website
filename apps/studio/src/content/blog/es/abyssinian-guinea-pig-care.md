@@ -13,11 +13,11 @@ authority: "Directrices de Cuidado de Roedores de la RSPCA y Estándares de Clí
 steps:
   - name: "Comunicación de la cobaya: wheeking y popcorning"
     text: "Las cobayas son animales expresivos que comunican sus emociones vocal y físicamente. Emiten un chillido agudo y fuerte llamado 'wheeking' cuando piden comida o saludan a su cuidador. Por otro lado, cuando experimentan una inmensa alegría y plena seguridad, realizan un salto repentino conocido como 'popcorning'."
-  - name: "Cobaya Abisinia's Body Language & Signals"
+  - name: "Lenguaje corporal y señales de conducta de Cobaya Abisinia"
     text: "* Wheeking (Chillido agudo): Llamada de emoción o demanda de comida, activada al escuchar bolsas de verdura o ver al cuidador. (Ofrézcale pimiento fresco rico en vitamina C o un suplemento específico, aprovechando el momento para estrechar lazos.)
 
 * Popcorning (Saltos rápidos): Saltos repentinos en el aire con giros, demostrando plena felicidad, vitalidad y bienestar psicológico. (Compruebe que el área de juego esté libre de bordes duros para que pueda saltar de forma segura sin riesgo de lesiones.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutina diaria de 3 pasos para el cuidado de Cobaya Abisinia"
     text: "* STEP 1. Mañana: Suplementación de vitamina C y heno fresco: Administre suplementos de vitamina C directamente o verduras ricas en ella como el pimiento (evite el agua, ya que se degrada rápido). Rellene el henero con heno Timothy fresco.
 
 * STEP 2. Tarde: Limpieza focalizada y control de polvo: Retire el sustrato húmedo de orina para prevenir gases nocivos. Sacuda el heno al aire libre antes de introducirlo para minimizar el polvo respirable.
@@ -60,7 +60,7 @@ Las cobayas abisinias son muy queridas por sus características rosetas (remolin
 
 ---
 
-## 2. Cobaya Abisinia's Body Language & Signals
+## 2. Lenguaje corporal y señales de conducta de Cobaya Abisinia
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Las cobayas abisinias son muy queridas por sus características rosetas (remolin
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutina diaria de 3 pasos para el cuidado de Cobaya Abisinia
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

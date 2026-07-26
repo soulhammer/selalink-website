@@ -13,11 +13,11 @@ authority: "National Shiba Club of America & IAABC Behavior Modification Guideli
 steps:
   - name: "Shiba Inu Body Language: Signals of Pressure and Stress Relief"
     text: "Shiba Inus express their boundaries clearly and quietly. Key signals include 'looking away' and 'shaking off'. When a person reaches out to touch them and the Shiba turns their head away, it is not a playful gesture; it is a polite request saying 'please do not touch me right now.' Similarly, a full-body shake after a stressful event (like an examination or grooming session) is an instinctive mechanism to release physical tension and reset their psychological state."
-  - name: "Shiba Inu's Body Language & Signals"
+  - name: "Shiba Inu's Body Language & Behavioral Signals"
     text: "* Looking Away: A polite request asking the observer to stop approaching or touching, expressing pressure. (If you see this, stop trying to touch them. Retract your hand and give them space.)
 
 * Shake Off: An action meant to shake off stress or physical tension experienced in a recent event. (If they shake during grooming, they are releasing tension. Stop the activity and let them rest.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Customized 3-Step Home Care Routine for Shiba Inu"
     text: "* STEP 1. Morning: Sensitive Area Touch Desensitization: Touch their paws or hips briefly for 1 second, then reward immediately with a high-value treat. Repeat to build positive associations with physical touch.
 
 * STEP 2. Afternoon: Low-Stress Double Coat Brushing: Use a slicker brush or undercoat rake to gently brush in the direction of hair growth. If they show any signs of discomfort or growl, stop immediately.
@@ -60,7 +60,7 @@ Shiba Inus are beloved globally for their fox-like appearance and curled tail. H
 
 ---
 
-## 2. Shiba Inu's Body Language & Signals
+## 2. Shiba Inu's Body Language & Behavioral Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Shiba Inus are beloved globally for their fox-like appearance and curled tail. H
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Customized 3-Step Home Care Routine for Shiba Inu
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

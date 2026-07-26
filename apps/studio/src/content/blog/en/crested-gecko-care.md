@@ -13,11 +13,11 @@ authority: "International Reptile Conservation Protocols & USARK Veterinary Care
 steps:
   - name: "Crested Gecko Body Language: S-Tail Wagging and Eye Wiping"
     text: "Crested Geckos communicate their emotional state through tail movements and tongue gestures. Raising the tail into an S-shape and slowly waving it is a 'Guarding & Threat Signal (Tail S-Wagging)' indicating defensive alert or extreme stress before tail autotomy. Conversely, sweeping their tongue over their eyecaps or snout is a natural 'Hygiene & Exploration Signal (Eye Wiping)' to moisten lidless eyes and gather odor particles."
-  - name: "Crested Gecko / Eyelash Gecko (Crested Gecko)'s Body Language & Signals"
+  - name: "Crested Gecko / Eyelash Gecko (Crested Gecko)'s Body Language & Behavioral Signals"
     text: "* Raising Tail in an S-Shape and Slowly Waving (Tail S-Wagging): An extreme alert and stress warning displayed when feeling threatened by predators or handling, often preceding tail drop. (Immediately stop handling and return them to a dark, quiet enclosure to rest and calm down.)
 
 * Licking Eyeballs or Mouth Area with Tongue (Eye Wiping / Tongue Flicking): A natural behavior that hydrates the lidless eye surface and delivers scent particles to the Jacobson's organ. (This is completely normal behavior, so do not disturb them, and verify that enclosure humidity (60%–80%) is appropriate.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Customized 3-Step Home Care Routine for Crested Gecko / Eyelash Gecko (Crested Gecko)"
     text: "* STEP 1. Morning: Enclosure Wall Misting & Cool Temp/Humidity Check: Mist the enclosure walls so they can lap up water droplets, and maintain a cool daytime temperature (22°C–25°C).
 
 * STEP 2. Afternoon: Direct Sunlight Block & Dark Hide Sleep Monitoring: Protect the gecko from direct sunlight as they are highly vulnerable to temperatures above 28°C, ensuring a cool and dark resting place.
@@ -60,7 +60,7 @@ Famous for the eyelash-like crests above their eyes, the Crested Gecko (Correlop
 
 ---
 
-## 2. Crested Gecko / Eyelash Gecko (Crested Gecko)'s Body Language & Signals
+## 2. Crested Gecko / Eyelash Gecko (Crested Gecko)'s Body Language & Behavioral Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Famous for the eyelash-like crests above their eyes, the Crested Gecko (Correlop
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Customized 3-Step Home Care Routine for Crested Gecko / Eyelash Gecko (Crested Gecko)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

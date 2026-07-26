@@ -13,11 +13,11 @@ authority: "爱猫者协会 (CFA) 曼基康猫品种标准与兽医骨科健康�
 steps:
   - name: "矮脚猫的情感表达：袋鼠站立与跳跃踌躇"
     text: "四肢偏短的曼基康猫拥有特殊的行为习惯。它们经常会像兔子一样仅用后肢和臀部支撑站立，被称为 “袋鼠站立（Kangaroo Standing）”，这是出于好奇观察环境。然而，如果它们在跳向平日轻松跨越的矮凳前表现出 “反复犹豫或最终放弃”，这是关节受损的明确警告信号。"
-  - name: "曼基康猫 (Felis catus / Munchkin Cat)'s Body Language & Signals"
+  - name: "曼基康猫 (Felis catus / Munchkin Cat) 的肢体语言与行为信号"
     text: "* 袋鼠式站立 (Kangaroo Standing): 仅靠后肢和臀部站立并将前爪收起，是为了弥补身高不足、扩大视野的自然姿态。 (确保站立区域的地板铺有防滑垫，防止其在后坐时打滑导致髋关节受压。)
 
 * 跳跃前反复踌躇或放弃: 在跳跃前不停挪动脚步或抬头测量，说明脊椎或后肢关节正处于酸痛状态。 (切勿强迫其跳跃，在其常去的高处（如床、沙发）摆放宠物台阶或斜坡，若症状持续请寻求兽医帮助。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "曼基康猫 (Felis catus / Munchkin Cat) 定制化 3 步家庭护理流程"
     text: "* STEP 1. 早上：观察步态与关节舒展状况: 观察其起床伸懒腰时的姿态。注意步伐是否有跛行或僵硬感，特别是降温天气。
 
 * STEP 2. 中午：低空式地毯滚动游戏: 避免强制攀高的逗引方式。使用在地面滚动的彩球、小老鼠玩具，提供低冲击性的健康活动。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. 曼基康猫 (Felis catus / Munchkin Cat)'s Body Language & Signals
+## 2. 曼基康猫 (Felis catus / Munchkin Cat) 的肢体语言与行为信号
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -69,7 +69,7 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 仅靠后肢和臀部站立并将前爪收起，是为了弥补身高不足、扩大视野的自然姿态。<br/>
-    <strong>•  national:</strong> 确保站立区域的地板铺有防滑垫，防止其在后坐时打滑导致髋关节受压。
+    <strong>• 应对:</strong> 确保站立区域的地板铺有防滑垫，防止其在后坐时打滑导致髋关节受压。
   </p>
 </div>
 
@@ -80,13 +80,13 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 在跳跃前不停挪动脚步或抬头测量，说明脊椎或后肢关节正处于酸痛状态。<br/>
-    <strong>•  national:</strong> 切勿强迫其跳跃，在其常去的高处（如床、沙发）摆放宠物台阶或斜坡，若症状持续请寻求兽医帮助。
+    <strong>• 应对:</strong> 切勿强迫其跳跃，在其常去的高处（如床、沙发）摆放宠物台阶或斜坡，若症状持续请寻求兽医帮助。
   </p>
 </div>
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. 曼基康猫 (Felis catus / Munchkin Cat) 定制化 3 步家庭护理流程
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

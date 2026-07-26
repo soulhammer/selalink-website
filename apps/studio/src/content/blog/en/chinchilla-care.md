@@ -13,11 +13,11 @@ authority: "Association of Exotic Mammal Veterinarians (AEMV) Chinchilla Husband
 steps:
   - name: "Chinchilla Body Language: Drooling with Food Dropping and Overheating Signs"
     text: "If a chinchilla shows 'drooling and dropping hay', wetting the fur around its mouth, this is a critical warning signal of severe dental malocclusion. On the other hand, 'lying on their side with rapid breathing' indicates a near-heatstroke emergency where immediate cooling intervention is required."
-  - name: "Chinchilla (Chinchilla lanigera)'s Body Language & Signals"
+  - name: "Chinchilla (Chinchilla lanigera)'s Body Language & Behavioral Signals"
     text: "* Drooling and Dropping Hay: Overgrown teeth from malocclusion puncture the palate or cheek lining, making swallowing impossible and blocking chewing due to intense pain. (Visit a specialized exotic animal hospital immediately to have overgrown teeth trimmed or ground using specialized dental equipment.)
 
 * Lying on Side with Rapid Breathing: High indoor temperatures have caused body heat to spike, leaving the chinchilla exhausted with dilated airways in a state of heat stress. (Turn on the air conditioner immediately to lower room temperature below 20°C, and place marble slabs or towel-wrapped ice bottles inside the cage.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Customized 3-Step Home Care Routine for Chinchilla (Chinchilla lanigera)"
     text: "* STEP 1. Morning: Unlimited Feeding of Coarse High-Fiber Timothy Hay: To prevent teeth from overgrowing continuously, provide fresh, coarse timothy hay at all times to induce natural dental wear through chewing.
 
 * STEP 2. Afternoon: Climate Control for Year-Round Heatstroke & Humidity Prevention: Maintain indoor temperature at 18–21°C and humidity at 40–50% or lower year-round using air conditioners and dehumidifiers to replicate comfortable alpine conditions.
@@ -60,7 +60,7 @@ Boasting silky-soft fur and adorable round bodies, Chinchillas are popular exoti
 
 ---
 
-## 2. Chinchilla (Chinchilla lanigera)'s Body Language & Signals
+## 2. Chinchilla (Chinchilla lanigera)'s Body Language & Behavioral Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Boasting silky-soft fur and adorable round bodies, Chinchillas are popular exoti
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Customized 3-Step Home Care Routine for Chinchilla (Chinchilla lanigera)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

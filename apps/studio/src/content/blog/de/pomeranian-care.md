@@ -13,11 +13,11 @@ authority: "Offizieller Rasseführer des American Pomeranian Clubs & Tierärztli
 steps:
   - name: "Körpersprache des Zwergspitzes: Unterscheidung zwischen Spieltrieb und Angst"
     text: "Zwergspitze sind sehr ausdrucksstark. Wichtige Körpersprachesignale sind die 'Spielaufforderung' (Play Bow) und das 'Lippenlecken' (Lip Licking). Wenn ein Zwergspitz den Vorderkörper senkt und das Hinterteil hebt, ist das eine freudige Einladung zum Spiel. Wenn er jedoch mit dem Schwanz wedelt, aber ständig die Lippen leckt, ist das ein Beschwichtigungssignal zur Bewältigung von innerer Unruhe. Verwechseln Sie dies nicht mit Freude."
-  - name: "Zwergspitz (Canis lupus familiaris / Pomeranian)'s Body Language & Signals"
+  - name: "Körpersprache und Verhaltenssignale von Zwergspitz (Canis lupus familiaris / Pomeranian)"
     text: "* Spielaufforderung (Play Bow): Absenken des Vorderkörpers bei gehobenem Hinterteil, was eine freudige Einladung zum Spiel darstellt. (Reagieren Sie freudig, indem Sie ein Spielzeug werfen oder ein sanftes Nachlaufspiel starten.)
 
 * Lippenlecken (Lip Licking): Keine Vorfreude auf Futter; ein Beschwichtigungssignal zur Bewältigung von innerer Unruhe oder Umweltstress. (Wenn Sie dies beim Spaziergang oder an fremden Orten sehen, führen Sie ihn aus der Situation heraus.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Maßgeschneiderte 3-Schritte-Tagesroutine für Zwergspitz (Canis lupus familiaris / Pomeranian)"
     text: "* STEP 1. Morgen: Rutschschutzprüfung und Sprungvermeidungstraining: Stellen Sie sicher, dass rutschfeste Matten an Betten und Sofas richtig liegen. Gewöhnen Sie ihn daran, Hundetreppen zu benutzen, anstatt herunterzuspringen.
 
 * STEP 2. Nachmittag: Bürsten gegen den Strich zur Hautbelüftung: Nutzen Sie eine Stiftbürste, um das dichte Fell sanft von der Rute zum Kopf gegen den Strich zu bürsten. Dies verhindert Verfilzungen der Unterwolle und lüftet die Haut.
@@ -60,7 +60,7 @@ Zwergspitze sind beliebte Gesellschaftshunde, die für ihr plüschiges Doppelfel
 
 ---
 
-## 2. Zwergspitz (Canis lupus familiaris / Pomeranian)'s Body Language & Signals
+## 2. Körpersprache und Verhaltenssignale von Zwergspitz (Canis lupus familiaris / Pomeranian)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Zwergspitze sind beliebte Gesellschaftshunde, die für ihr plüschiges Doppelfel
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Maßgeschneiderte 3-Schritte-Tagesroutine für Zwergspitz (Canis lupus familiaris / Pomeranian)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

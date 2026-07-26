@@ -13,11 +13,11 @@ authority: "Hedgehog Welfare Society ガイドラインおよびエキゾチッ�
 steps:
   - name: "ハリネズミの本能：アンティングの泡と棘の警戒サイン"
     text: "ヨツユビハリネズミは新しい匂いや物質を察知すると、口の中に泡を溜めて棘に塗りつける「アンティング（Self-Anointing）」を行います。これは自身の匂いを隠したり環境に慣れるための正常な本能です。対して、恐怖を感じる時は丸まって「フッフッ（Hissing）」と声を出し、接触を厳しく警告します。"
-  - name: "ヨツユビハリネズミ (Atelerix albiventris / African Pygmy Hedgehog)'s Body Language & Signals"
+  - name: "ヨツユビハリネズミ (Atelerix albiventris / African Pygmy Hedgehog)のボディランゲージと行動サイン"
     text: "* 泡を塗る行為 (Self-Anointing): 新しい匂いを記憶し、それを自身の体に塗ってカモフラージュしようとする野生の本能的な行動です。 (正常な行為なので病気と誤解して無理に止めず、そのまま匂いを覚えさせてあげてください。)
 
 * 丸まってフッフッと鳴く (Hissing/Ball-up): 周囲に強い恐怖を感じ、棘を完全に立てて相手の侵入を防ごうとしている防衛状態です。 (無理に素手で触らず、フリース等の布を被せて暗い環境を作ってからそっとしておいてあげましょう。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "ヨツユビハリネズミ (Atelerix albiventris / African Pygmy Hedgehog)のための3ステップホームケアルーティン"
     text: "* STEP 1. 朝：排泄物で汚れた回し車や食器の洗浄: ハリネズミは回し車を回しながら排泄する習性があるため、朝一番に夜間使った用品をきれいに洗浄・消毒します。
 
 * STEP 2. 昼：ケージ内温度を24〜26度に保ち加湿器を設置: 寒さによる低体温症や冬眠死を防ぐため、ペットヒーターや自動温度調節器が正常に機能しているか確認します。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. ヨツユビハリネズミ (Atelerix albiventris / African Pygmy Hedgehog)'s Body Language & Signals
+## 2. ヨツユビハリネズミ (Atelerix albiventris / African Pygmy Hedgehog)のボディランゲージと行動サイン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ faqs:
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. ヨツユビハリネズミ (Atelerix albiventris / African Pygmy Hedgehog)のための3ステップホームケアルーティン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

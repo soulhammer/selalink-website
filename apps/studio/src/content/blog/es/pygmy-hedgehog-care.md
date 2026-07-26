@@ -13,11 +13,11 @@ authority: "Pautas de la Hedgehog Welfare Society y Protocolos Veterinarios de M
 steps:
   - name: "Instintos del erizo pigmeo: Espuma de autoungimiento y defensa con púas"
     text: "Cuando los erizos pigmeos africanos prueban o huelen algo nuevo, crean saliva espumosa y la aplican a sus púas, un proceso llamado 'Autoungimiento' (Self-Anointing). Este es un comportamiento normal para camuflar su olor. Por el contrario, cuando se asustan, se curvan en una bola apretada e emiten 'Siseos' (Hissing) para advertir que no se les toque."
-  - name: "Erizo Pigmeo Africano (Atelerix albiventris / African Pygmy Hedgehog)'s Body Language & Signals"
+  - name: "Lenguaje corporal y señales de conducta de Erizo Pigmeo Africano (Atelerix albiventris / African Pygmy Hedgehog)"
     text: "* Autoungimiento (Self-Anointing): Un instinto salvaje inofensivo para registrar y recubrir sus púas con nuevos olores ambientales. (No los interrumpa ni lo confunda con una enfermedad; deje que se sientan cómodos con el olor de forma natural.)
 
 * Siseo y curvado en bola (Hissing/Ball-up): Un modo defensivo que indica miedo severo, levantando púas para bloquear cualquier contacto físico. (Evite intentar manipularlos con las manos desnudas. Cúbralos con una manta de felpa suave para crear un refugio oscuro.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutina diaria de 3 pasos para el cuidado de Erizo Pigmeo Africano (Atelerix albiventris / African Pygmy Hedgehog)"
     text: "* STEP 1. Mañana: Lavado de ruedas de ejercicio y platos sucios: Dado que los erizos tienden a defecar mientras corren en su rueda, limpie y desinfecte la rueda y los platos todas las mañanas.
 
 * STEP 2. Tarde: Mantener la temperatura de la habitación entre 24 y 26 °C: Prevenga la baja temperatura corporal y la hibernación revisando las almohadillas térmicas y los termostatos digitales con regularidad.
@@ -60,7 +60,7 @@ El erizo pigmeo africano es una mascota exótica fascinante y silenciosa. Son na
 
 ---
 
-## 2. Erizo Pigmeo Africano (Atelerix albiventris / African Pygmy Hedgehog)'s Body Language & Signals
+## 2. Lenguaje corporal y señales de conducta de Erizo Pigmeo Africano (Atelerix albiventris / African Pygmy Hedgehog)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ El erizo pigmeo africano es una mascota exótica fascinante y silenciosa. Son na
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutina diaria de 3 pasos para el cuidado de Erizo Pigmeo Africano (Atelerix albiventris / African Pygmy Hedgehog)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

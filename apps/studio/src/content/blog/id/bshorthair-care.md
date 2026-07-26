@@ -13,11 +13,11 @@ authority: "Standar Ras GCCF untuk British Shorthair & Pedoman Obesitas Feline A
 steps:
   - name: "Bahasa Tubuh British Shorthair: Tatapan Lembut dan Sinyal Ekor"
     text: "British Shorthair tidak suka dipeluk secara paksa dan menunjukkan kepercayaan melalui 'tatapan lembut' (Soft Staring) dari kejauhan. Ini menandakan mereka menyukai hubungan yang mandiri namun merasa aman. Sebaliknya, saat merasa terganggu, mereka menunjukkan 'kibasan ekor' (Tail Swishing) ke lantai. Memeluk mereka saat ini akan meningkatkan tingkat stres mereka secara drastis."
-  - name: "British Shorthair (British Shorthair)'s Body Language & Signals"
+  - name: "Bahasa Tubuh dan Sinyal Perilaku British Shorthair (British Shorthair)"
     text: "* Tatapan Lembut (Soft Staring): Ungkapan kasih sayang yang mandiri dan dewasa, menunjukkan mereka merasa bahagia dan aman hanya dengan berada di ruangan yang sama. (Berkedip perlahan untuk membalas kasih sayang. Jangan mendekat atau memeluk paksa; cukup perhatikan dari kejauhan.)
 
 * Kibasan Ekor (Tail Swishing): Sinyal penolakan yang menunjukkan bahwa belaian atau kontak fisik mulai mengganggu dan meminta Anda berhenti seiring meningkatnya stres. (Segera hentikan belaian dan hindari kontak fisik agar kucing dapat rileks kembali.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutinitas Perawatan Harian 3 Langkah untuk British Shorthair (British Shorthair)"
     text: "* STEP 1. Pagi: Pengukuran Diet Ketat Menggunakan Timbangan Presisi: Untuk mencegah kardiomiopati hipertrofik (HCM) yang diperburuk oleh obesitas, timbang pakan pada timbangan digital sesuai kebutuhan kalori harian.
 
 * STEP 2. Siang: Menyikat Bulu Halus dengan Sikat Karet Khusus: Meskipun berbulu pendek, mereka memiliki bulu yang sangat lebat. Sikat selama 5 menit dengan sikat karet khusus kucing untuk mengangkat bulu mati tanpa mengiritasi kulit.
@@ -60,7 +60,7 @@ Dengan wajah bulat besar dan tubuh berotot, British Shorthair dikenal sebagai ra
 
 ---
 
-## 2. British Shorthair (British Shorthair)'s Body Language & Signals
+## 2. Bahasa Tubuh dan Sinyal Perilaku British Shorthair (British Shorthair)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Dengan wajah bulat besar dan tubuh berotot, British Shorthair dikenal sebagai ra
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutinitas Perawatan Harian 3 Langkah untuk British Shorthair (British Shorthair)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

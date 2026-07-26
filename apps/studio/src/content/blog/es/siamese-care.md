@@ -13,11 +13,11 @@ authority: "Guía oficial de la Cat Fanciers' Association (CFA) y protocolos de 
 steps:
   - name: "Lenguaje corporal del Siamés: señales de confianza y posesividad"
     text: "Los siameses muestran su afecto de forma clara e interactiva a través de ricas señales de calma. Las señales típicas incluyen el 'parpadeo lento' y el 'frotamiento de cabeza' (bunting). Cerrar los ojos lentamente manteniendo el contacto visual es una declaración de seguridad absoluta; cerrar los ojos ante otro en la naturaleza es arriesgado, lo que demuestra que lo considera completamente inofensivo. Frotar sus mejillas contra su mano es su forma de compartir feromonas reconfortantes y marcarlo como su persona de confianza."
-  - name: "Siamés (Siamese)'s Body Language & Signals"
+  - name: "Lenguaje corporal y señales de conducta de Siamés (Siamese)"
     text: "* Parpadeo lento: Una muestra de completa seguridad y profundo afecto, a menudo descrita como un beso felino. (Cruce la mirada con ternura y parpadee lentamente por 1.5 segundos para responder al gesto.)
 
 * Frotamiento de cabeza (Bunting): Una acción que deja sus feromonas faciales para marcarlo como su persona segura y confirmar su apego. (Acaricie su barbilla o mejillas, permitiéndole intercambiar olores con gusto.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutina diaria de 3 pasos para el cuidado de Siamés (Siamese)"
     text: "* STEP 1. Mañana: Saludo de 10 minutos de alto contacto para la ansiedad: Para aliviar la ansiedad por separación en esta raza sensible, pase 10 minutos acariciando a su siamés y hablándole suavemente bajo la manta justo después de despertarse.
 
 * STEP 2. Tarde: Juego interactivo y rompecabezas de comida: Manténgalo ocupado durante el día con rompecabezas de comida o juguetes de búsqueda. Al volver a casa, dedique al menos 15 minutos a juegos interactivos con plumas.
@@ -60,7 +60,7 @@ Los gatos siameses, originarios de la realeza tailandesa, son elegantes felinos 
 
 ---
 
-## 2. Siamés (Siamese)'s Body Language & Signals
+## 2. Lenguaje corporal y señales de conducta de Siamés (Siamese)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Los gatos siameses, originarios de la realeza tailandesa, son elegantes felinos 
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutina diaria de 3 pasos para el cuidado de Siamés (Siamese)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

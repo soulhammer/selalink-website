@@ -13,11 +13,11 @@ authority: "キャットファンシアーズアソシエーション（CFA）�
 steps:
   - name: "マンチカン猫の感情表現：カンガルー立ちとジャンプの躊躇"
     text: "足の短いマンチカンは、独特なポーズを見せます。周囲を見渡すために後ろ足で直立する「カンガルー立ち（Kangaroo Standing）」は好奇心の表れであり体に害はありません。しかし、今まで上れていた低い家具へのジャンプを「ためらったり諦めたりする行動」は、関節や背骨に痛みを感じている危険なサインです。"
-  - name: "マンチカン (Felis catus / Munchkin Cat)'s Body Language & Signals"
+  - name: "マンチカン (Felis catus / Munchkin Cat)のボディランゲージと行動サイン"
     text: "* カンガルー立ち（後ろ足直立）: 短い体高を補うために、後ろ足と臀部でバランスを取り直立して視界を広げる自然な姿勢です。 (直立時に滑って股関節に負担がかからないよう、床には必ず滑り止めのマットを敷いておきます。)
 
 * ジャンプ前の躊躇（ためらい）または断念: 低い場所に上る際にも何度も首を振ったり見上げたりして躊躇する動作で、脊椎や後肢関節の痛みを示すSOSです。 (無理に上らせず、ステップやペットスロープを置いて高低差を緩やかにし、症状が続く場合は動物病院で診察を受けてください。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "マンチカン (Felis catus / Munchkin Cat)のための3ステップホームケアルーティン"
     text: "* STEP 1. 朝：歩行状態と関節の柔軟性チェック: 朝起きた後の歩き方に不自然さがないか観察します。特に関節が硬くなりやすい寒い時期は、足をかばう仕草に注意します。
 
 * STEP 2. 昼：低位置での転がし遊び: ジャンプを伴う上下運動を避け、床を転がるボールや低い位置で遊べるおもちゃを使い、足腰に負担をかけずに運動させます。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. マンチカン (Felis catus / Munchkin Cat)'s Body Language & Signals
+## 2. マンチカン (Felis catus / Munchkin Cat)のボディランゲージと行動サイン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ faqs:
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. マンチカン (Felis catus / Munchkin Cat)のための3ステップホームケアルーティン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

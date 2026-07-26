@@ -13,11 +13,11 @@ authority: "国際両生類飼育プロトコル (Amphibian Ark) 獣医ケア基
 steps:
   - name: "ウーパールーパーの身体シグナル：エラの曲がりと口のパクパク動作"
     text: "ウーパールーパーの赤い外鰓（エラ）は水質と水温の状態を示す指標です。エラが前方に曲がる現象は、水質悪化や高水温によるストレスを示しています。"
-  - name: "ウーパールーパー / アホロートル (Axolotl)'s Body Language & Signals"
+  - name: "ウーパールーパー / アホロートル (Axolotl)のボディランゲージと行動サイン"
     text: "* 外鰓が前方に曲がり尾先が丸まる (Gill Curling Forward): 水温上昇（20°C以上）やアンモニア濃度の上昇による環境ストレスの警告です。 (水槽用冷却ファンを稼働させて16°C〜18°Cに下げ、直ちに部分換水（20%）を実施します。)
 
 * 底面をぼんやり見つめて口をパクパクさせる (Bottom Gaping): 餌を探しているか空腹を感じている自然な捕食・探索シグナルです。 (専用ペレットやミミズをピンセットで口元へ優しく運んで与えます。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "ウーパールーパー / アホロートル (Axolotl)のための3ステップホームケアルーティン"
     text: "* STEP 1. 朝：水温計（16°C〜18°C維持）のモニタリングと冷却装置の点検: 夏場に水温が19°Cを超えないよう冷却ファンの作動を確認し、水槽壁面の結露をチェックします。
 
 * STEP 2. 昼：残った排泄物のスポイト除去と直射日光の遮断: 視力が弱いウーパールーパーのために薄暗い水槽環境を保ち、排泄物は長いスポイトやサイフォンで取り除きます。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. ウーパールーパー / アホロートル (Axolotl)'s Body Language & Signals
+## 2. ウーパールーパー / アホロートル (Axolotl)のボディランゲージと行動サイン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ faqs:
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. ウーパールーパー / アホロートル (Axolotl)のための3ステップホームケアルーティン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

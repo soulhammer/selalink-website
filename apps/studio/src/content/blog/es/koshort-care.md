@@ -13,11 +13,11 @@ authority: "Guía Comportamental del Cornell Feline Health Center y Manual de Cu
 steps:
   - name: "Lenguaje corporal felino: La máxima expresión de confianza"
     text: "Una de las mayores expresiones de confianza de un gato hacia su dueño es la 'cola vertical hacia arriba' (Tail Up) y el 'ronroneo' (Purring). Acercarse con la cola erguida es una señal amistosa y de comunicación. Además, el ronroneo calma su mente liberando endorfinas. Tenga en cuenta que el ronroneo también puede ser una señal de autocuración por dolor. Si se esconde en un lugar oscuro y ronronea abatido, controle su salud."
-  - name: "Shorthair Coreano (Felis catus)'s Body Language & Signals"
+  - name: "Lenguaje corporal y señales de conducta de Shorthair Coreano (Felis catus)"
     text: "* Cola arriba (Tail Up): Una expresión de fuerte amistad, comunicación positiva y alegría hacia el dueño. (Responda con un contacto visual suave o una caricia suave en la barbilla para mejorar el vínculo.)
 
 * Ronroneo (Purring): Normalmente lo hacen cuando están felices, pero también puede ser una señal de autocuración para aliviar el dolor o la ansiedad. (Si ronronean mientras se esconden en rincones oscuros, verifique de cerca si están lesionados o enfermos.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutina diaria de 3 pasos para el cuidado de Shorthair Coreano (Felis catus)"
     text: "* STEP 1. Mañana: Inspección de espacio vertical y visualización de ventanas: Con la ventilación matutina, suba las persianas cerca de las torres para gatos en las ventanas. Asegurar el espacio vertical y permitirles ver el exterior (Cat TV) proporciona estimulación mental y reduce drásticamente el estrés por encierro.
 
 * STEP 2. Tarde: Rutina de juego de caza simulada de 15 minutos: Realice un juego de caza simulado con juguetes de varita durante 15 minutos una vez al día. Dado que los gatos son depredadores naturales, perseguir juguetes y experimentar el atrapamiento previene la frustración y aumenta la actividad física.
@@ -64,7 +64,7 @@ Hoy, PetSelf explora el lenguaje corporal de estos felinos y comparte una rutina
 
 ---
 
-## 2. Shorthair Coreano (Felis catus)'s Body Language & Signals
+## 2. Lenguaje corporal y señales de conducta de Shorthair Coreano (Felis catus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -90,7 +90,7 @@ Hoy, PetSelf explora el lenguaje corporal de estos felinos y comparte una rutina
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutina diaria de 3 pasos para el cuidado de Shorthair Coreano (Felis catus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

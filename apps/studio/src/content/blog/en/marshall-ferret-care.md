@@ -13,11 +13,11 @@ authority: "American Ferret Association Standards and Exotic Veterinary Behavior
 steps:
   - name: "Marshall Ferret Communication: The Weasel War Dance and Dooking"
     text: "When excitement reaches its peak, Marshall Ferrets open their mouths, arch their backs, and bounce wildly off walls and furniture—a behavior known as the 'Weasel War Dance'. Furthermore, while eagerly scent-marking or navigating tunnels, they emit a soft, rhythmic clucking sound from their throat called 'Dooking' to signal intense happiness and enjoyment."
-  - name: "Marshall Ferret (Mustela putorius furo)'s Body Language & Signals"
+  - name: "Marshall Ferret (Mustela putorius furo)'s Body Language & Behavioral Signals"
     text: "* Weasel War Dance: Though it appears dramatic or aggressive, it is a harmless expression of explosive joy and an invitation to play. (Provide a spacious, slip-free area with cushioned corners, and roll balls or pull fleece toys to play together safely.)
 
 * Soft Dooking Sounds: An emotional expression of delight and curiosity upon encountering new scents, cardboard mazes, or tunnels. (Provide crinkly plastic tunnels or cardboard boxes to satisfy their natural burrowing and hunting drives.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Customized 3-Step Home Care Routine for Marshall Ferret (Mustela putorius furo)"
     text: "* STEP 1. Morning: High-Protein Carnivore Diet & Water Supply Inspection: Because ferrets have an extremely short digestive tract requiring frequent meals, replenish meat-based, grain-free ferret kibble and ensure clean drinking water is available.
 
 * STEP 2. Afternoon: Safe Free-Roaming Playtime for At Least 4 Hours: Prevent depression by releasing them into a secured room. Thoroughly block small gaps under appliances and furniture where they could get trapped.
@@ -60,7 +60,7 @@ With a long, flexible torso and mischievous, sparkling eyes, the Marshall Ferret
 
 ---
 
-## 2. Marshall Ferret (Mustela putorius furo)'s Body Language & Signals
+## 2. Marshall Ferret (Mustela putorius furo)'s Body Language & Behavioral Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ With a long, flexible torso and mischievous, sparkling eyes, the Marshall Ferret
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Customized 3-Step Home Care Routine for Marshall Ferret (Mustela putorius furo)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

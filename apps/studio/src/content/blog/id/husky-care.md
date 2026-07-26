@@ -13,11 +13,11 @@ authority: "Panduan Ras Resmi Siberian Husky Club of America & Protokol Aktivita
 steps:
   - name: "Bahasa Tubuh Husky: Lolongan Frustrasi dan Sentuhan Cakar"
     text: "Siberian Husky mempertahankan kebiasaan kelompok dan menggunakan suara serta tindakan untuk mengekspresikan diri. Sinyal utama meliputi 'lolongan' (Howling) dan 'sentuhan cakar' (Paw Offering). Lolongan panjang sering mengomunikasikan kebosanan atau tuntutan olahraga daripada kesepian. Menatap mata Anda dan menempelkan kakinya yang berat di lengan Anda adalah permintaan langsung untuk jalan-jalan. Alihkan energi mereka dengan latihan kepatuhan atau mainan gigit."
-  - name: "Siberian Husky (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "Bahasa Tubuh dan Sinyal Perilaku Siberian Husky (Canis lupus familiaris)"
     text: "* Melolong / Bersuara (Howling): Ekspresi kebosanan luar biasa dan ketidakpuasan karena kurang olahraga, menuntut komunikasi dan perhatian. (Ajak keluar untuk jalan-jalan aktif berendus atau siapkan matras penciuman (nosework) yang menantang di dalam ruangan.)
 
 * Sentuhan Cakar dengan Kontak Mata (Paw Offering): Permintaan tegas untuk perhatian, bermain, atau jalan-jalan, memperlakukan Anda sebagai rekan satu kelompok. (Jangan penuhi setiap tuntutan. Berikan perintah (duduk, dll.) terlebih dahulu, lalu beri hadiah untuk menjaga kedisiplinan.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutinitas Perawatan Harian 3 Langkah untuk Siberian Husky (Canis lupus familiaris)"
     text: "* STEP 1. Pagi: Pemasangan Harness Y dan Pemeriksaan Gaya Tarik: Husky memiliki naluri kuat untuk menarik. Pasang harness berbentuk Y untuk mencegah tekanan pada trakea, dan periksa keselarasan langkah mereka dengan Anda.
 
 * STEP 2. Siang: Pendinginan AC dan Menyikat Bulu Halus Lapisan Dalam: Sensitif terhadap panas, jaga ruangan tetap dingin. Gunakan sikat slicker dan sisir undercoat rake untuk menyikat bulu ganda tebal mereka secara mendalam agar panas terlepas.
@@ -64,7 +64,7 @@ Hari ini, PetSelf menguraikan bahasa tubuh Husky dan menjelaskan 3 langkah rutin
 
 ---
 
-## 2. Siberian Husky (Canis lupus familiaris)'s Body Language & Signals
+## 2. Bahasa Tubuh dan Sinyal Perilaku Siberian Husky (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -90,7 +90,7 @@ Hari ini, PetSelf menguraikan bahasa tubuh Husky dan menjelaskan 3 langkah rutin
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutinitas Perawatan Harian 3 Langkah untuk Siberian Husky (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

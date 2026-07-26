@@ -13,11 +13,11 @@ authority: "Cat Fanciers' Association (CFA) Munchkin Breed Standards & Veterinar
 steps:
   - name: "Munchkin Cat Expressions: Kangaroo Standing and Jumping Hesitation"
     text: "Because of their short legs, Munchkin cats display unique behavioral habits distinct from other felines. Standing upright on their hind legs—known as 'Kangaroo Standing'—is a safe expression of curiosity to expand their field of view. However, 'hesitating or abandoning a jump' when facing low bed or sofa heights they used to navigate easily is a clear warning sign of joint pain."
-  - name: "Munchkin Cat (Felis catus)'s Body Language & Signals"
+  - name: "Munchkin Cat (Felis catus)'s Body Language & Behavioral Signals"
     text: "* Kangaroo Standing (Upright Hind-Leg Posture): A natural vision-expanding posture to compensate for short stature by balancing solely on hind legs and pelvis. (Lay down non-slip floor mats or carpets so they do not slip and place unnecessary strain on their hip joints when standing upright.)
 
 * Jumping Hesitation or Abandonment: Repeatedly tilting the head and pacing before climbing low furniture, serving as a warning of spinal or hind leg joint pain. (Never force them to jump; place dedicated pet steps or ramps near sofas and beds, and seek orthopedic evaluation if symptoms persist.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Customized 3-Step Home Care Routine for Munchkin Cat (Felis catus)"
     text: "* STEP 1. Morning: Gait Inspection and Joint Flexibility Check: Observe their walking pattern upon waking. Pay close attention to hind leg stiffness or limping, especially during cold weather when joints freeze up easily.
 
 * STEP 2. Afternoon: Floor-Level Low-Impact Rolling Play Routine: Instead of high-jumping feather wand games, use rolling balls or mouse toys on the floor to meet their activity needs without landing impacts.
@@ -60,7 +60,7 @@ Munchkin cats, beloved for their short, stubby legs and outgoing personalities, 
 
 ---
 
-## 2. Munchkin Cat (Felis catus)'s Body Language & Signals
+## 2. Munchkin Cat (Felis catus)'s Body Language & Behavioral Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Munchkin cats, beloved for their short, stubby legs and outgoing personalities, 
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Customized 3-Step Home Care Routine for Munchkin Cat (Felis catus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

@@ -13,11 +13,11 @@ authority: "House Rabbit Society (HRS) et Normes Vétérinaires NAC AEMV"
 steps:
   - name: "Communication du Holland Lop: Danse Binky et Taper du Pied"
     text: "Le lapin s'exprime par le corps plutôt que par la voix. Le « Binky » (saut vrillé dans les airs) est l'expression ultime du bonheur. Taper fort du pied arrière (Thumping) indique la peur, une alerte ou un profond mécontentement."
-  - name: "Holland Lop / Lapin Bélier (Oryctolagus cuniculus)'s Body Language & Signals"
+  - name: "Langage corporel et signaux comportementaux du Holland Lop / Lapin Bélier (Oryctolagus cuniculus)"
     text: "* Saut Vrillé dans les Airs (Binky Dance): Signe de pure joie, de grande forme et de sécurité absolue dans son habitat et avec son soigneur. (Offrez un espace sécurisé avec tapis antidérapant pour qu'il puisse courir sans glisser.)
 
 * Tape du Pied Arrière (Thumping): Avertissement de danger face à un bruit suspect, une odeur inconnue ou une frustration. (Identifiez la cause dans l'environnement et rassurez-le d'une voix douce et grave.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Routine quotidienne en 3 étapes pour le soin du Holland Lop / Lapin Bélier (Oryctolagus cuniculus)"
     text: "* STEP 1. Matin: Foin de Fléole à Volonté & Eau Fraîche: Remplissez le râtelier de foin de fléole frais de 1ère coupe pour stimuler le transit et l'usure dentaire.
 
 * STEP 2. Après-midi: Inspection des Oreilles Tombantes & Repos: Soulevez délicatement les oreilles pour vérifier l'absence d'inflammation ou de cérumen, et assurez un repos calme.
@@ -60,7 +60,7 @@ Le Holland Lop est un lapin très populaire reconnaissable à sa tête ronde et 
 
 ---
 
-## 2. Holland Lop / Lapin Bélier (Oryctolagus cuniculus)'s Body Language & Signals
+## 2. Langage corporel et signaux comportementaux du Holland Lop / Lapin Bélier (Oryctolagus cuniculus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Le Holland Lop est un lapin très populaire reconnaissable à sa tête ronde et 
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Routine quotidienne en 3 étapes pour le soin du Holland Lop / Lapin Bélier (Oryctolagus cuniculus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

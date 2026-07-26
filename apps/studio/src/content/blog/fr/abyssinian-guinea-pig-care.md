@@ -13,11 +13,11 @@ authority: "Directives de soin des rongeurs de la RSPCA et normes vétérinaires
 steps:
   - name: "Langage du cobaye : cris aigus (wheeking) et sauts (popcorning)"
     text: "Le cochon d'Inde est un animal très expressif qui communique clairement ses émotions. Il émet un sifflement aigu appelé 'wheeking' lorsqu'il réclame à manger. Lorsqu'il éprouve une joie intense et un sentiment de sécurité totale, il effectue des sauts soudains appelés 'popcorning'."
-  - name: "Cochon d'Inde Abyssinien's Body Language & Signals"
+  - name: "Langage corporel et signaux comportementaux du Cochon d'Inde Abyssinien"
     text: "* Wheeking (Sifflement aigu): Cri d'excitation ou de réclamation, souvent déclenché par le bruit d'un sachet de légumes ou l'approche du soignant. (Offrez-lui un morceau de poivron frais ou un comprimé de vitamine C pour renforcer votre lien affectif.)
 
 * Popcorning (Sauts de joie): Bonds soudains avec vrilles sur place, témoignant d'un bonheur pur, d'une grande vitalité et d'un confort absolu. (Assurez-vous que l'espace ne présente aucun angle dur ou danger sur lequel il pourrait se blesser en sautant.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Routine quotidienne en 3 étapes pour le soin du Cochon d'Inde Abyssinien"
     text: "* STEP 1. Matin : Apport en vitamine C et foin frais: Administrez la vitamine C directement en comprimé/pipette ou via des poivrons frais (évitez de la mettre dans l'eau car elle se dégrade vite). Remplissez le râtelier de foin de fléole (Timothy).
 
 * STEP 2. Après-midi : Nettoyage localisé et dépoussiérage du foin: Retirez la litière souillée par l'urine pour limiter les vapeurs d'ammoniac. Secouez le foin à l'extérieur avant de le distribuer afin de réduire les poussières inhalées.
@@ -60,7 +60,7 @@ Le cochon d'Inde abyssinien est très apprécié pour ses rosettes (épi de poil
 
 ---
 
-## 2. Cochon d'Inde Abyssinien's Body Language & Signals
+## 2. Langage corporel et signaux comportementaux du Cochon d'Inde Abyssinien
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Le cochon d'Inde abyssinien est très apprécié pour ses rosettes (épi de poil
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Routine quotidienne en 3 étapes pour le soin du Cochon d'Inde Abyssinien
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

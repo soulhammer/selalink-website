@@ -13,11 +13,11 @@ authority: "Diretrizes de Jindo do Instituto Nacional de Ciência Animal da Core
 steps:
   - name: "Linguagem corporal do Jindo: Sinais de lealdade e precaução"
     text: "Os cães Jindo comunicam-se de forma estóica através da posição da cauda e orelhas. Uma cauda erguida com orelhas voltadas para a frente indica alerta e tensão; aproximações bruscas de estranhos podem gerar reações defensivas. Por outro lado, a cauda baixa balançando suavemente com orelhas abertas indica submissão e carinho pelo tutor."
-  - name: "Cão Jindo (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "Linguagem corporal e sinais de comportamento do Cão Jindo (Canis lupus familiaris)"
     text: "* Cauda erguida e orelhas para a frente: Alerta e concentração em um alvo desconhecido em estado de tensão. (Evite contato repentino, peça para estranhos não tocarem e deixe o tutor acalmá-lo com serenidade.)
 
 * Cauda baixa e orelhas planas ao se aproximar: Obediência profunda, confiança e demonstração de afeto pelo tutor. (Acaricie-o suavemente e elogie com voz calma para reforçar esse laço.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rotina diária de 3 passos para cuidados com Cão Jindo (Canis lupus familiaris)"
     text: "* STEP 1. Manhã: Passeio de socialização com foco em farejamento calmo (Nosework): Passeie nas horas calmas da manhã para dessensibilizar o cão ao ambiente através do olfato.
 
 * STEP 2. Tarde: Escovação da pelagem dupla para remover subpelo morto: Use uma rasqueadeira e um pente metálico para remover o subpelo morto, evitando nós e dermatites.
@@ -60,7 +60,7 @@ O cão Jindo é um tesouro nacional da Coreia e uma raça reconhecida mundialmen
 
 ---
 
-## 2. Cão Jindo (Canis lupus familiaris)'s Body Language & Signals
+## 2. Linguagem corporal e sinais de comportamento do Cão Jindo (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ O cão Jindo é um tesouro nacional da Coreia e uma raça reconhecida mundialmen
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rotina diária de 3 passos para cuidados com Cão Jindo (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

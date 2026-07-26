@@ -13,11 +13,11 @@ authority: "The International Cat Association (TICA) Bengal Breed Guide and Feli
 steps:
   - name: "Bengal Cat Expressions: Vocal Chirping and Tail Twitching"
     text: "Bengal cats are highly communicative and will express their feelings using distinct signals. While normal cats meow to greet, Bengals often produce a bird-like 'chirping' sound to demand play or express boredom. Recognizing these behaviors alongside rapid tail twitching helps you prevent behavioral issues from understimulation."
-  - name: "Bengal Cat (Prionailurus bengalensis × Felis catus)'s Body Language & Signals"
+  - name: "Bengal Cat (Prionailurus bengalensis × Felis catus)'s Body Language & Behavioral Signals"
     text: "* Chirping & Loud Vocalization: An active request for interaction, indicating they have pent-up energy, are feeling bored, and need immediate mental or physical play. (Engage them with feather wand toys that mimic prey immediately, and avoid ignoring them to prevent distress.)
 
 * Rapid Tail Twitching with Raised Rear Stance: A state of high arousal and excitement, showing they are focused on a target or highly stimulated with overflowing energy. (Provide high-intensity interactive toys like feather wands or laser pointers in an open space to safely burn off this energy.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Customized 3-Step Home Care Routine for Bengal Cat (Prionailurus bengalensis × Felis catus)"
     text: "* STEP 1. Morning: High-Intensity Interactive Hunting Play Session: Spend 15 minutes using a feather wand or fishing pole toy. Mimic swift prey movements to trigger their natural hunting instincts.
 
 * STEP 2. Afternoon: Vertical Space & Climbing Inspection: Ensure cat trees and wall shelves are secure. Clear paths to high window perches so they can look down on their territory and observe outside.
@@ -60,7 +60,7 @@ Bengal cats are beloved for their beautiful leopard-like spots and wild appearan
 
 ---
 
-## 2. Bengal Cat (Prionailurus bengalensis × Felis catus)'s Body Language & Signals
+## 2. Bengal Cat (Prionailurus bengalensis × Felis catus)'s Body Language & Behavioral Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Bengal cats are beloved for their beautiful leopard-like spots and wild appearan
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Customized 3-Step Home Care Routine for Bengal Cat (Prionailurus bengalensis × Felis catus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

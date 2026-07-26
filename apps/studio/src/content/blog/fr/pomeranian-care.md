@@ -13,11 +13,11 @@ authority: "Guide Officiel de Race de l'American Pomeranian Club et Manuel Vét�
 steps:
   - name: "Langage corporel du Poméranien : Distinguer le jeu de l'anxiété"
     text: "Le Poméranien est très expressif et change d'émotion rapidement. Les signaux clés du langage corporel incluent la 'révérence de jeu' (Play Bow) et le 'lèche-babines' (Lip Licking). Lorsqu'il abaisse le train avant et lève l'arrière-train, c'est une invitation classique au jeu. Cependant, s'il remue la queue tout en se léchant continuellement les babines avec la langue, c'est un signal d'apaisement traduisant une anxiété ou un stress interne. Les maîtres ne doivent pas confondre cela avec de l'excitation."
-  - name: "Loulou de Poméranie (Canis lupus familiaris / Pomeranian)'s Body Language & Signals"
+  - name: "Langage corporel et signaux comportementaux du Loulou de Poméranie (Canis lupus familiaris / Pomeranian)"
     text: "* Révérence de jeu (Play Bow): Abaissement du train avant et arrière-train levé, représentant une invitation joyeuse à jouer. (Répondez joyeusement en jetant un jouet ou en commençant un jeu de poursuite doux.)
 
 * Lèche-babines (Lip Licking): Il ne réclame pas de nourriture ; c'est un signal d'apaisement pour contrôler son anxiété ou son stress environnemental. (Si vous l'observez en promenade ou dans un lieu nouveau, éloignez-le de la source de stress pour le rassurer.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Routine quotidienne en 3 étapes pour le soin du Loulou de Poméranie (Canis lupus familiaris / Pomeranian)"
     text: "* STEP 1. Matin : Entretien des tapis anti-glisse et apprentissage du non-saut: Vérifiez que les tapis anti-glisse sont bien positionnés autour du lit et du canapé pour protéger ses os fins. Incitez-le à utiliser des escaliers pour chiens plutôt que de sauter.
 
 * STEP 2. Après-midi : Brossage avec brosse à picots à rebrousse-poil pour aérer la peau: Utilisez une brosse à picots pour brosser délicatement de la queue vers la tête. Cela évite les nœuds du sous-poil et permet à la peau de respirer.
@@ -60,7 +60,7 @@ Le Loulou de Poméranie est un chien miniature très populaire, adoré pour sa f
 
 ---
 
-## 2. Loulou de Poméranie (Canis lupus familiaris / Pomeranian)'s Body Language & Signals
+## 2. Langage corporel et signaux comportementaux du Loulou de Poméranie (Canis lupus familiaris / Pomeranian)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Le Loulou de Poméranie est un chien miniature très populaire, adoré pour sa f
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Routine quotidienne en 3 étapes pour le soin du Loulou de Poméranie (Canis lupus familiaris / Pomeranian)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

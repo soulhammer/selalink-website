@@ -13,11 +13,11 @@ authority: "AKCサモエド公式ガイド＆OFA（動物整形外科財団）�
 steps:
   - name: "サモエドのボディランゲージ：冷涼姿勢と歩行の異常サイン"
     text: "サモエドは体が熱くなると、お腹を冷たい床にベタッとくっつける「カエル足ポーズ（Splooting）」をします。一方、走る時に後ろ足を同時に揃えて動かす「うさぎ跳び歩行（Bunny Hopping）」は、股関節の痛みを和らげようとする典型的な異常シグナルです。"
-  - name: "サモエド (Canis lupus familiaris / Samoyed)'s Body Language & Signals"
+  - name: "サモエド (Canis lupus familiaris / Samoyed)のボディランゲージと行動サイン"
     text: "* カエル足ポーズ (Splooting): 熱を放散するために、被毛の薄いお腹をひんやりした床に密着させる正常な冷却行動です。 (エアコンで室温を下げ、クールマットを提供して十分に休ませてあげましょう。)
 
 * うさぎ跳び歩行 (Bunny Hopping): 股関節が変形・摩耗し痛みを伴うため、負荷を軽減させようと両後ろ足を揃えて跳ぶ異常な歩行状態です。 (激しい運動を即座に中止し、動物病院で股関節の整形外科検査（レントゲン）を受けてください。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "サモエド (Canis lupus familiaris / Samoyed)のための3ステップホームケアルーティン"
     text: "* STEP 1. 朝：抜け毛を除去し通気性を高めるスリッカーブラッシング: 毛が絡まないよう、毎朝スリッカーブラシとコームで古い抜け毛（アンダーコート）をしっかり梳き取り、皮膚の通気性を保ちます。
 
 * STEP 2. 昼：関節の衝撃緩和＆滑り止めマットの導入: 室内の滑りやすい床に滑り止めマットを敷き、適切な体重管理とともにグルコサミンやコンドロイチンなどの関節サポートサプリメントを与えます。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. サモエド (Canis lupus familiaris / Samoyed)'s Body Language & Signals
+## 2. サモエド (Canis lupus familiaris / Samoyed)のボディランゲージと行動サイン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ faqs:
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. サモエド (Canis lupus familiaris / Samoyed)のための3ステップホームケアルーティン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

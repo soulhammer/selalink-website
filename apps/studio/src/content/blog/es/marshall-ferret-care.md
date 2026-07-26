@@ -13,11 +13,11 @@ authority: "Estándares de la American Ferret Association y Pautas Veterinarias 
 steps:
   - name: "Comunicación del hurón de Marshall: La danza de guerra y el dooking"
     text: "Los hurones de Marshall muestran alegría inflando la cola, arqueando la espalda y rebotando de lado, un comportamiento conocido como 'Danza de guerra del hurón' (Weasel War Dance). También emiten un suave sonido de cloqueo llamado 'Dooking' cuando exploran con entusiasmo. Comprender estas señales ayuda a maximizar su experiencia de juego."
-  - name: "Hurón de Marshall (Mustela putorius furo / Marshall Ferret)'s Body Language & Signals"
+  - name: "Lenguaje corporal y señales de conducta de Hurón de Marshall (Mustela putorius furo / Marshall Ferret)"
     text: "* Danza de guerra del hurón (Weasel War Dance): Una expresión dramática pero inofensiva de pura emoción, que indica que quieren jugar de forma desenfrenada. (Proporcione un área espaciosa y antideslizante libre de bordes duros para evitar lesiones durante sus saltos caóticos.)
 
 * Dooking (Sonidos de cloqueo bajos): Una expresión emocional de alegría e intenso interés al encontrar un nuevo olor o túnel. (Extienda túneles ruidosos o cajas de cartón para estimular sus instintos naturales de excavación y cacería.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutina diaria de 3 pasos para el cuidado de Hurón de Marshall (Mustela putorius furo / Marshall Ferret)"
     text: "* STEP 1. Mañana: Dieta carnívora alta en proteínas y recarga de agua: Los hurones tienen un tracto digestivo corto y comen con frecuencia. Rellene comida a base de carne y libre de granos, y revise su bebedero.
 
 * STEP 2. Tarde: Tiempo de juego seguro fuera de la jaula por al menos 4 horas: Evite la depresión liberándolos en la habitación. Asegúrese de que todos los pequeños huecos debajo de los muebles estén sellados.
@@ -60,7 +60,7 @@ Con un cuerpo largo y flexible y ojos chispeantes, el hurón de Marshall es una 
 
 ---
 
-## 2. Hurón de Marshall (Mustela putorius furo / Marshall Ferret)'s Body Language & Signals
+## 2. Lenguaje corporal y señales de conducta de Hurón de Marshall (Mustela putorius furo / Marshall Ferret)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Con un cuerpo largo y flexible y ojos chispeantes, el hurón de Marshall es una 
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutina diaria de 3 pasos para el cuidado de Hurón de Marshall (Mustela putorius furo / Marshall Ferret)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

@@ -13,11 +13,11 @@ authority: "Directives d'Élevage de la CFA pour les Persans et Normes Vétérin
 steps:
   - name: "Langage corporel du Persan : Signaux silencieux des yeux et des oreilles"
     text: "Comme les Persans s'expriment calmement, leur stress est difficile à déceler. S'ils montrent de l'affection par des « yeux mi-clos » (Half-Closed Eyes), les « oreilles en avion » (Airplane Ears) (oreilles plaquées sur les côtés) indiquent une gêne ou un refus clair. Cela se produit souvent si le brossage du visage est trop précipité ou si les plis sont manipulés avec brutalité."
-  - name: "Chat Persan (Felis catus / Persian Cat)'s Body Language & Signals"
+  - name: "Langage corporel et signaux comportementaux du Chat Persan (Felis catus / Persian Cat)"
     text: "* Yeux mi-clos (Half-Closed Eyes): Un signal de paix indiquant une grande confiance envers le maître et un état de confort et de satisfaction totale. (Répondez en clignant lentement des yeux en retour (clin d'œil félin) et parlez-lui d'une voix douce.)
 
 * Oreilles en avion (Airplane Ears): Une expression d'inconfort causée par les tiraillements sur les racines des poils lors du brossage ou une tension due au bruit ambiant. (Arrêtez immédiatement de brosser ou de toucher le chat et laissez-le se calmer dans un endroit paisible.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Routine quotidienne en 3 étapes pour le soin du Chat Persan (Felis catus / Persian Cat)"
     text: "* STEP 1. Matin : Nettoyage des plis du visage et des taches de larmes: Le matin, nettoyez doucement les plis de la peau autour du nez avec une compresse stérile humide pour prévenir la dermatite à levures.
 
 * STEP 2. Après-midi : Double brossage avec brosse carde et peigne métallique: Ciblez les zones sujettes aux nœuds comme les aisselles et le ventre. Utilisez d'abord une brosse carde, puis un peigne métallique pour aligner le poil et vérifier l'aération.
@@ -60,7 +60,7 @@ Avec leur pelage double épais et leur face aplatie caractéristique, les chats 
 
 ---
 
-## 2. Chat Persan (Felis catus / Persian Cat)'s Body Language & Signals
+## 2. Langage corporel et signaux comportementaux du Chat Persan (Felis catus / Persian Cat)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Avec leur pelage double épais et leur face aplatie caractéristique, les chats 
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Routine quotidienne en 3 étapes pour le soin du Chat Persan (Felis catus / Persian Cat)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

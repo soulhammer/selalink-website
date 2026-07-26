@@ -13,11 +13,11 @@ authority: "CFA (Cat Fanciers' Association) Turkish Angora Breed Council et étu
 steps:
   - name: "Langage corporel de l'Angora Turc : signes de surdité et vibrations"
     text: "Un chat sourd manifeste des comportements uniques comme des 'vocalisations fortes non modulées' car il ne perçoit pas le volume de sa propre voix. En contrepartie, il s'appuie énormément sur la détection des 'vibrations du sol' via ses coussinets. Comprendre ces adaptations permet d'éviter de l'effrayer et de prévenir le stress."
-  - name: "Angora Turc (Turkish Angora)'s Body Language & Signals"
+  - name: "Langage corporel et signaux comportementaux du Angora Turc (Turkish Angora)"
     text: "* Vocalisation forte non modulée (Loud Unmodulated Vocalization): Miaulements très forts ou cris poussés dans le vide sans contrôle du volume, dus à l'absence de retour auditif et au besoin d'interaction. (Ne l'approchez jamais par derrière pour ne pas le surprendre. Placez-vous dans son champ de vision frontal et faites des gestes doux de la main.)
 
 * Sensibilité aux vibrations du sol (Floor Vibration Sensitivity): Utilisation des coussinets (corpuscules de Pacini) pour percevoir les légères vibrations mécaniques du sol et détecter l'approche des personnes. (Tapotez doucement le sol ou un meuble avec la main ou le pied avant de vous approcher pour lui signaler votre présence sans déclencher de panique.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Routine quotidienne en 3 étapes pour le soin du Angora Turc (Turkish Angora)"
     text: "* STEP 1. Matin : Salutation visuelle et communication par gestes: Dites-lui bonjour à l'aide de gestes calmes de la main et de clignements d'yeux lents plutôt que par des appels vocaux, assurant un réveil serein.
 
 * STEP 2. Après-midi : Aménagement sécurisé des espaces en hauteur: Installez des arbres à chats et étagères solides, en vérifiant les fixations, car la surdité peut parfois altérer légèrement son sens de l'équilibre.
@@ -60,7 +60,7 @@ Doté d'une fourrure soyeuse magnifique et d'un regard fascinant, l'Angora Turc 
 
 ---
 
-## 2. Angora Turc (Turkish Angora)'s Body Language & Signals
+## 2. Langage corporel et signaux comportementaux du Angora Turc (Turkish Angora)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Doté d'une fourrure soyeuse magnifique et d'un regard fascinant, l'Angora Turc 
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Routine quotidienne en 3 étapes pour le soin du Angora Turc (Turkish Angora)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

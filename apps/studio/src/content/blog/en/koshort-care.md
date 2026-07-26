@@ -13,11 +13,11 @@ authority: "Cornell Feline Health Center Behavioral Guide & NIAS Companion Anima
 steps:
   - name: "Feline Body Language: The Ultimate Expression of Trust"
     text: "One of the strongest expressions of trust a cat sends to its owner is 'vertical tail raising' and 'purring'. Approaching with a tail raised straight up is a friendly signal and a request to communicate. Also, purring stimulates endorphins in their brain, calming them down. Note that purring can also be a self-healing signal when they are in pain. If a cat hides in a dark place and purrs with a depressed expression, closely monitor their health."
-  - name: "Korean Shorthair (Felis catus)'s Body Language & Signals"
+  - name: "Korean Shorthair (Felis catus)'s Body Language & Behavioral Signals"
     text: "* Tail Up: An expression of strong friendliness, positive communication, and joy toward the owner. (Respond with soft eye contact or a gentle chin rub to enhance the positive bond.)
 
 * Purring: Usually made when happy, but can also be a self-healing signal to relieve pain or anxiety. (If they purr while hiding in dark corners, check closely to ensure they are not injured or sick.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Customized 3-Step Home Care Routine for Korean Shorthair (Felis catus)"
     text: "* STEP 1. Morning: Vertical Space Inspection and Window View Setup: With morning ventilation, raise the blinds near window-side cat towers. Ensuring vertical space and allowing them to watch the outside view (Cat TV) provides mental stimulation and dramatically reduces stress caused by indoor containment.
 
 * STEP 2. Afternoon: 15-Minute Mock Hunting Play Routine: Perform mock hunting play using wand toys for 15 minutes once a day. Since cats are natural predators, chasing toys and experiencing the 'joy of the catch' prevents frustration and increases physical activity.
@@ -64,7 +64,7 @@ Today, PetSelf explores Korean Shorthair body language and shares a 3-step daily
 
 ---
 
-## 2. Korean Shorthair (Felis catus)'s Body Language & Signals
+## 2. Korean Shorthair (Felis catus)'s Body Language & Behavioral Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -90,7 +90,7 @@ Today, PetSelf explores Korean Shorthair body language and shares a 3-step daily
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Customized 3-Step Home Care Routine for Korean Shorthair (Felis catus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

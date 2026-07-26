@@ -13,11 +13,11 @@ authority: "Panduan Ras Bengal The International Cat Association (TICA) dan Stan
 steps:
   - name: "Komunikasi Kucing Bengal: Kicauan Vokal dan Kedutan Ekor"
     text: "Kucing Bengal sangat komunikatif dalam menyampaikan emosinya. Selain suara ngeong biasa, mereka sering mengeluarkan suara mirip kicauan burung yang disebut 'kicauan' (Chirping) saat ingin mengajak bermain atau merasa bosan. Mengenali suara ini bersama gerakan ekor yang cepat membantu Anda mencegah timbulnya masalah perilaku akibat stres."
-  - name: "Kucing Bengal (Prionailurus bengalensis × Felis catus)'s Body Language & Signals"
+  - name: "Bahasa Tubuh dan Sinyal Perilaku Kucing Bengal (Prionailurus bengalensis × Felis catus)"
     text: "* Suara Kicauan (Chirping) & Mengeong Keras: Permintaan aktif untuk berinteraksi, menandakan mereka sedang bosan dan butuh stimulasi fisik atau otak segera. (Segera ajak bermain berburu dengan tongkat bulu dan jangan diabaikan agar kucing tidak merasa frustrasi.)
 
 * Ekor Berkedut Cepat dengan Pinggul Terangkat: Kondisi gairah tinggi dan fokus penuh pada target, menunjukkan energi berlebih yang siap disalurkan. (Gunakan pointer laser atau mainan otomatis di area yang luas agar mereka bisa berlari dan menyalurkan insting berburunya secara aman.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutinitas Perawatan Harian 3 Langkah untuk Kucing Bengal (Prionailurus bengalensis × Felis catus)"
     text: "* STEP 1. Pagi: Sesi Bermain Berburu Interaktif Intensitas Tinggi: Luangkan waktu 15 menit menggunakan mainan tongkat bulu atau pancingan. Gerakkan mainan menyerupai mangsa cepat untuk memicu insting berburu mereka.
 
 * STEP 2. Siang: Pemeriksaan Area Vertikal & Penyediaan Area Memantau: Sesuai sifatnya yang menyukai ketinggian, pastikan tiang panjatan dan rak dinding kokoh, serta sediakan tempat di jendela tinggi agar mereka dapat mengamati area luar.
@@ -60,7 +60,7 @@ Kucing Bengal disukai karena corak bintik mirip macan tutul yang indah dan penam
 
 ---
 
-## 2. Kucing Bengal (Prionailurus bengalensis × Felis catus)'s Body Language & Signals
+## 2. Bahasa Tubuh dan Sinyal Perilaku Kucing Bengal (Prionailurus bengalensis × Felis catus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Kucing Bengal disukai karena corak bintik mirip macan tutul yang indah dan penam
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutinitas Perawatan Harian 3 Langkah untuk Kucing Bengal (Prionailurus bengalensis × Felis catus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

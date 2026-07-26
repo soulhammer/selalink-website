@@ -13,11 +13,11 @@ authority: "Humane Society ハムスターケアガイドおよび獣医行動�
 steps:
   - name: "ゴールデンハムスターの意思表示：歯ぎしり警告と警戒行動"
     text: "ゴールデンハムスターは非常に怒っている時や恐怖を感じている時、『歯ぎしり（Teeth Chattering）』をしてカチカチと音を鳴らし、近づかないよう警告します。また、突然の騒音に驚くと『耳を伏せて静止する行動（Ear Flattening）』を見せ、周囲を強く警戒します。これらの警戒サインを素早く察知し、落ち着ける個別のスペースを確保することが重要です。"
-  - name: "ゴールデンハムスター (Mesocricetus auratus / シリアンハムスター)'s Body Language & Signals"
+  - name: "ゴールデンハムスター (Mesocricetus auratus / シリアンハムスター)のボディランゲージと行動サイン"
     text: "* 歯ぎしりの音 (Teeth Chattering): 脅威を感じているか、非常に神経質になっているため、近くに寄るなという強い警告です。 (ふれあいや掃除をすぐに中止し、ハムスターが隠れ家で落ち着くまで静かに見守りましょう。)
 
 * 耳を伏せて静止する (Ear Flattening): 突然の振動や見慣れない視覚刺激に大きな脅威を感じ、息を潜めて緊張している状態です。 (近くで大声を出したり動いたりせず、部屋を少し暗くして居心地の良い環境を作ってあげましょう。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "ゴールデンハムスター (Mesocricetus auratus / シリアンハムスター)のための3ステップホームケアルーティン"
     text: "* STEP 1. 朝：隠れ家周辺の整理と新鮮な水の交換: ハムスターが眠りにつく朝は、隠れ家の内部には直接触れず、給水器の水を新鮮なものに変え、周囲の汚れだけを軽く掃除します。
 
 * STEP 2. 昼：深い眠りを助ける静かで暗い環境の維持: 日中に十分な睡眠時間を確保できるよう、ケージの近くでの騒々しい家電製品の使用を控え、遮光カバーをかけます。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. ゴールデンハムスター (Mesocricetus auratus / シリアンハムスター)'s Body Language & Signals
+## 2. ゴールデンハムスター (Mesocricetus auratus / シリアンハムスター)のボディランゲージと行動サイン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ faqs:
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. ゴールデンハムスター (Mesocricetus auratus / シリアンハムスター)のための3ステップホームケアルーティン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

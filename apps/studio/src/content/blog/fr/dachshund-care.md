@@ -13,11 +13,11 @@ authority: "Guide de Santé du Teckel de l'American Kennel Club et Directives de
 steps:
   - name: "Signaux d'alerte dorsale chez le Teckel : Faire le beau et étirements"
     text: "Les Teckels manifestent leur inconfort au niveau du dos par des postures spécifiques. Se tenir sur les pattes arrière (la « position du beau ») applique une pression excessive sur les vertèbres lombaires. De même, un dos arqué ou un cou étiré de manière rigide sont des indices de compression nerveuse précoce à surveiller de près."
-  - name: "Teckel / Dachshund (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "Langage corporel et signaux comportementaux du Teckel / Dachshund (Canis lupus familiaris)"
     text: "* Se tenir sur les pattes arrière (Faire le beau): Une posture qui exerce une pression excessive sur les lombaires, généralement pour réclamer de la nourriture ou de l'attention. (Découragez immédiatement cette position avec douceur, installez des rampes d'accès et présentez les jouets à hauteur de poitrine.)
 
 * Dos arqué et cou tendu: Une posture de protection traduisant une douleur dorsale, une raideur ou un début de compression nerveuse. (Limitez immédiatement ses mouvements, soutenez la poitrine et le train arrière pour maintenir la colonne horizontale et consultez un vétérinaire.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Routine quotidienne en 3 étapes pour le soin du Teckel / Dachshund (Canis lupus familiaris)"
     text: "* STEP 1. Matin : Examen de la mobilité du dos et massage doux: Avant l'effort, observez s'il marche de façon rigide. Palpez doucement le long de sa colonne vertébrale pour détecter d'éventuelles réactions de douleur.
 
 * STEP 2. Après-midi : Examen de l'environnement de vie et maintien de l'horizontalité: Vérifiez la stabilité et l'antidérapant des rampes près du canapé et du lit. Bloquez l'accès aux escaliers à l'aide d'une barrière de sécurité.
@@ -60,7 +60,7 @@ Les Teckels sont célèbres dans le monde entier pour leur silhouette unique et 
 
 ---
 
-## 2. Teckel / Dachshund (Canis lupus familiaris)'s Body Language & Signals
+## 2. Langage corporel et signaux comportementaux du Teckel / Dachshund (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Les Teckels sont célèbres dans le monde entier pour leur silhouette unique et 
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Routine quotidienne en 3 étapes pour le soin du Teckel / Dachshund (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

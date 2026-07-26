@@ -13,11 +13,11 @@ authority: "Cat Fanciers' Association (CFA) Ragdoll Breed Standards & AAFP Cat F
 steps:
   - name: "Ragdoll's Calming Signals: Slow Blinks and Relaxed Paw Flexing"
     text: "Ragdoll cats express their high trust toward owners not just by going limp, but also through delicate eye and paw gestures. Key calming signals include 'Slow Blinks' and 'Paw Flexing'. Looking at you and blinking very slowly is a peaceful message of complete security and affection without hostile intent. When feeling extremely happy, they flex and stretch their toes like a fan. Gently scratching under their chin or behind their ears at this moment maximizes their feeling of bliss."
-  - name: "Ragdoll (Felis catus)'s Body Language & Signals"
+  - name: "Ragdoll (Felis catus)'s Body Language & Behavioral Signals"
     text: "* Slow Blink: A signal of deep affection showing complete trust in you and feeling safe in their environment. (Respond by blinking back slowly at the same tempo to deepen your bond and mutual trust.)
 
 * Paw Flexing: Indicates supreme psychological comfort, recalling the comforting memory of nursing as a kitten. (Do not stop touching them; continue gently stroking under their chin or neck, which they will enjoy immensely.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Customized 3-Step Home Care Routine for Ragdoll (Felis catus)"
     text: "* STEP 1. Morning: Light Physical Stretching for Skeletal Activation: As a large breed, physical fatigue easily accumulates in their lower joints. Before starting daily activity, gently hold their hind legs and perform light extension stretches to protect their joint range of motion.
 
 * STEP 2. Afternoon: Pin Brushing to Prevent Tangles and Aerate Coat: Ragdoll undercoats are exceptionally soft and dense, making them prone to matting. Comb along the fur pattern with a round-tipped pin brush to aerate the coat, preventing skin inflammation and hairballs.
@@ -64,7 +64,7 @@ Today, PetSelf decodes Ragdoll body language and introduces a safe 3-step daily 
 
 ---
 
-## 2. Ragdoll (Felis catus)'s Body Language & Signals
+## 2. Ragdoll (Felis catus)'s Body Language & Behavioral Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -90,7 +90,7 @@ Today, PetSelf decodes Ragdoll body language and introduces a safe 3-step daily 
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Customized 3-Step Home Care Routine for Ragdoll (Felis catus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

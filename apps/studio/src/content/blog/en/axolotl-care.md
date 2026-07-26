@@ -13,11 +13,11 @@ authority: "International Amphibian Husbandry & Amphibian Ark Veterinary Care Pr
 steps:
   - name: "Axolotl Physical Signals: Gill Curling and Mouth Gaping"
     text: "An Axolotl's feathery red external gills serve as a clear indicator of water quality and temperature. Forward gill curling signals water quality deterioration or heat stress."
-  - name: "Axolotl (Mexican Walking Fish)'s Body Language & Signals"
+  - name: "Axolotl (Mexican Walking Fish)'s Body Language & Behavioral Signals"
     text: "* External Gills Curled Forward & Curled Tail (Gill Curling Forward): An environmental stress warning caused by elevated water temperatures (above 20°C) or rising ammonia levels. (Turn on aquarium cooling fans to drop the temperature to 16°C ~ 18°C and immediately perform a partial water change (20%).)
 
 * Staring Blankly at the Substrate & Mouth Gaping (Bottom Gaping): A natural foraging signal indicating hunger or active hunting for food. (Gently offer specialized fish pellets or earthworms in front of their snout using blunt tweezers.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Customized 3-Step Home Care Routine for Axolotl (Mexican Walking Fish)"
     text: "* STEP 1. Morning: Water Temperature Monitoring (Maintain 16°C ~ 18°C) & Cooling System Check: Check cooling fan operation to ensure water temperature does not exceed 19°C in summer, and check for condensation on tank walls.
 
 * STEP 2. Afternoon: Siphon Waste Removal & Direct Sunlight Block: Maintain a dim tank environment for axolotls due to their poor eyesight, and pick up waste daily using a long siphon.
@@ -60,7 +60,7 @@ Beloved for their smiling expressions and pink external gills, the Axolotl is a 
 
 ---
 
-## 2. Axolotl (Mexican Walking Fish)'s Body Language & Signals
+## 2. Axolotl (Mexican Walking Fish)'s Body Language & Behavioral Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Beloved for their smiling expressions and pink external gills, the Axolotl is a 
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Customized 3-Step Home Care Routine for Axolotl (Mexican Walking Fish)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

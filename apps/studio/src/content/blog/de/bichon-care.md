@@ -13,11 +13,11 @@ authority: "Richtlinien des Bichon Frise Club of America und AVMA-Veterinärgesu
 steps:
   - name: "Körpersprache des Bichon Frise: Bichon Blitz und Aufmerksamkeitszeichen"
     text: "Bei Aufregung zeigen Bichons den 'Bichon Blitz' (hektisches Umherrennen im Haus), um überschüssige Energie sofort abzubauen. Dies ist ein natürlicher Trieb zum Energieabbau. Zudem ist das sanfte Tippen auf das Knie oder den Arm des Halters mit der Pfote ('Pfotentipp') ein liebevolles, friedliches Zeichen, um Aufmerksamkeit und Spielzeit einzufordern."
-  - name: "Bichon Frise (Bichon Frise)'s Body Language & Signals"
+  - name: "Körpersprache und Verhaltenssignale von Bichon Frise (Bichon Frise)"
     text: "* Bichon Blitz: Instinktives Spielverhalten, um aufgestaute Restenergie durch intensive körperliche Bewegung rasch abzubauen. (Bringen Sie an Möbelkanten entlang der Laufstrecke einen Schutz an, sichern Sie rutschfeste Matten und warten Sie ruhig ab, bis der Hund von selbst anhält.)
 
 * Pfotentipp (Paw Tap): Eine friedliche und freundliche Form der Kommunikation, die typisch für den Bichon Frise ist, um Aufmerksamkeit zu erbitten. (Suchen Sie sanften Blickkontakt und streicheln Sie ihn, oder führen Sie ein kurzes Training (Sitz/Pfote) durch, um den Geist auszulasten.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Maßgeschneiderte 3-Schritte-Tagesroutine für Bichon Frise (Bichon Frise)"
     text: "* STEP 1. Morgen: Leichtes Spielzeug-Apportieren und sanftes Zerrspiel: Um Zusammenstöße mit Möbeln oder Türrahmen zu vermeiden, spielen Sie morgens ein sanftes Zerrspiel mit einem Stoffspielzeug, um Energie kontrolliert abzubauen.
 
 * STEP 2. Mittag: 10-Minuten-Bürstentraining im Wechsel von Zupfbürste und Metallkamm: Damit die dichten Locken die Haut nicht einschnüren, sprühen Sie zuerst Pflegespray auf, bürsten Bauch und Beininnenseiten mit der Zupfbürste aus und prüfen mit dem Metallkamm Strähne für Strähne auf Knoten.
@@ -60,7 +60,7 @@ Bichon Frises sind bekannt für ihr weißes, wattebauschartiges Fell und ihr une
 
 ---
 
-## 2. Bichon Frise (Bichon Frise)'s Body Language & Signals
+## 2. Körpersprache und Verhaltenssignale von Bichon Frise (Bichon Frise)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Bichon Frises sind bekannt für ihr weißes, wattebauschartiges Fell und ihr une
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Maßgeschneiderte 3-Schritte-Tagesroutine für Bichon Frise (Bichon Frise)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

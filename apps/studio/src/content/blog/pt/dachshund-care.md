@@ -13,11 +13,11 @@ authority: "Diretrizes de Saúde do Dachshund do American Kennel Club e Padrões
 steps:
   - name: "Sinais de alerta na coluna do Teckel: Postura de pedir e estiramentos"
     text: "Devido à sua coluna longa, os Teckels demonstram desconforto espinhal através de sinais discretos. Ficar de pé nas patas traseiras (a 'posição de pedir') coloca um peso excessivo na coluna lombar. Da mesma forma, arquear as costas ou esticar o pescoço de forma rígida são sinais de compressão nervosa inicial que requerem atenção médica imediata."
-  - name: "Teckel / Dachshund (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "Linguagem corporal e sinais de comportamento do Teckel / Dachshund (Canis lupus familiaris)"
     text: "* Ficar nas patas traseiras (Posição de pedir): Postura que concentra uma pressão excessiva sobre a coluna lombar, normalmente feita para pedir comida ou atenção. (Desencoraje esta postura imediatamente com calma, utilize rampas de acesso aos sofás e mantenha brinquedos ao nível do peito.)
 
 * Costas arqueadas e pescoço estendido: Uma postura de proteção que indica dor nas costas, rigidez ou compressão nervosa espinhal em fase inicial. (Restrinja a atividade física imediatamente, apoie o peito e a traseira mantendo a coluna na horizontal e consulte um veterinário.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rotina diária de 3 passos para cuidados com Teckel / Dachshund (Canis lupus familiaris)"
     text: "* STEP 1. Manhã: Inspeção de mobilidade e massagem suave: Antes de iniciar as brincadeiras, veja se ele caminha com rigidez. Faça uma massagem leve ao longo da coluna para avaliar reações de dor.
 
 * STEP 2. Tarde: Adequação de um espaço seguro para a coluna e manutenção horizontal: Certifique-se de que as rampas antiderrapantes estão bem posicionadas junto à cama ou sofá e bloqueie escadas com grades de segurança.
@@ -60,7 +60,7 @@ Os salsichas (Teckel) são amados no mundo inteiro pela sua silhueta única e te
 
 ---
 
-## 2. Teckel / Dachshund (Canis lupus familiaris)'s Body Language & Signals
+## 2. Linguagem corporal e sinais de comportamento do Teckel / Dachshund (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Os salsichas (Teckel) são amados no mundo inteiro pela sua silhueta única e te
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rotina diária de 3 passos para cuidados com Teckel / Dachshund (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

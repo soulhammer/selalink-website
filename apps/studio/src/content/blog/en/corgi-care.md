@@ -13,11 +13,11 @@ authority: "Official Guide of the Pembroke Welsh Corgi Club of America & AKC Can
 steps:
   - name: "Corgi Body Language: Signals of Spine and Emotion"
     text: "Because Corgis have very short or docked tails, they use their entire body and hips to express emotions. Typical signals include 'wiggle butt' when happy and 'splooting' (stretching back legs out flat) when relaxed. These physical expressions are important indicators of joint comfort and temperature regulation. Owners can monitor these signs to evaluate their dog's stress and fatigue levels."
-  - name: "Pembroke Welsh Corgi (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "Pembroke Welsh Corgi (Canis lupus familiaris)'s Body Language & Behavioral Signals"
     text: "* Wiggle Butt: A state of extreme happiness and positive excitement expressed by short-tailed Corgis using their entire lower body. (Greet them affectionately and calm them down gently to prevent them from jumping onto sofas in excitement.)
 
 * Splooting: A relaxation signal to cool down body temperature on a cold floor and ease joint tension. (They are resting comfortably. Do not disturb them and ensure they have a peaceful environment.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Customized 3-Step Home Care Routine for Pembroke Welsh Corgi (Canis lupus familiaris)"
     text: "* STEP 1. Morning: Mat Security Check and 2-Minute Back Leg Stretch: Since their long backs make them prone to spinal issues, secure all non-slip floor mats near sofas and beds, and perform a gentle 2-minute thigh joint stretch in the morning.
 
 * STEP 2. Afternoon: Flat Terrain Walk with Harness and Nosework: Use a body harness instead of a collar to reduce neck and spinal strain. Walk on flat ground to avoid slopes and stairs, allowing 30 minutes of outdoor nosework.
@@ -60,7 +60,7 @@ Welsh Corgis are loved for their short legs and fluffy backsides. As former herd
 
 ---
 
-## 2. Pembroke Welsh Corgi (Canis lupus familiaris)'s Body Language & Signals
+## 2. Pembroke Welsh Corgi (Canis lupus familiaris)'s Body Language & Behavioral Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Welsh Corgis are loved for their short legs and fluffy backsides. As former herd
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Customized 3-Step Home Care Routine for Pembroke Welsh Corgi (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

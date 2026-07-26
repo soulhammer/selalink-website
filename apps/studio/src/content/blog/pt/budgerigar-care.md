@@ -13,11 +13,11 @@ authority: "Associação de Veterinários de Aves (AAV) & Protocolos do World Pa
 steps:
   - name: "Linguagem corporal do Periquito: Ranger do bico e contração pupilar (Pupil Pinning)"
     text: "Os periquitos comunicam suas emoções através dos sons do bico e do movimento dos olhos. O 'Ranger do bico (Beak Grinding)' antes de dormir é um sinal clássico de relaxamento e bem-estar. Já a rápida contração da pupila, conhecida como 'Pupil Pinning', indica forte curiosidade, empolgação ou foco intenso."
-  - name: "Periquito-Australiano (Budgerigar / Budgie)'s Body Language & Signals"
+  - name: "Linguagem corporal e sinais de comportamento do Periquito-Australiano (Budgerigar / Budgie)"
     text: "* Som suave ao raspar o bico (Beak Grinding): Indica relaxamento profundo, sensação de segurança e conforto antes de descansar. (Não o perturbe e diminua as luzes do ambiente para proporcionar um sono tranquilo.)
 
 * Contração rápida das pupilas (Pupil Pinning): Estado de grande excitação, curiosidade ou foco despertado por um brinquedo, voz ou novidade. (Fale com voz calma para tranquilizá-lo e evitar bicadas por excesso de estimulação.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rotina diária de 3 passos para cuidados com Periquito-Australiano (Budgerigar / Budgie)"
     text: "* STEP 1. Manhã: Alimentação com ração extrusada, vegetais frescos e ventilação: Reduza as sementes para prevenir a lipidose hepática e ofereça ração extrusada com folhas verdes em um ambiente bem ventilado.
 
 * STEP 2. Tarde: Brinquedos de forrageamento e voo livre seguro fora da gaiola: Forneça brinquedos para desfiar papel para evitar o arrancamento de penas por tédio e permita o voo em um cômodo seguro.
@@ -60,7 +60,7 @@ O Periquito-Australiano (Budgie) é uma das aves de estimação mais populares d
 
 ---
 
-## 2. Periquito-Australiano (Budgerigar / Budgie)'s Body Language & Signals
+## 2. Linguagem corporal e sinais de comportamento do Periquito-Australiano (Budgerigar / Budgie)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ O Periquito-Australiano (Budgie) é uma das aves de estimação mais populares d
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rotina diária de 3 passos para cuidados com Periquito-Australiano (Budgerigar / Budgie)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

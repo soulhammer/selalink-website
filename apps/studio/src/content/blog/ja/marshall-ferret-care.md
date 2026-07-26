@@ -13,11 +13,11 @@ authority: "American Ferret Association フェレット行動基準およびエ�
 steps:
   - name: "フェレットのコミュニケーション：ウォーダンスとクックッ鳴く声"
     text: "マーシャルフェレットは興奮が最高潮に達すると、口を開けて背中を丸め、あちこち飛び跳ねる「ウォーダンス（Weasel War Dance）」で溢れ出る喜びを表現します。また、楽しそうにクンクン匂いを嗅いだりトンネルをくぐる時は、喉から「クックッという音（Dooking）」を出して楽しんでいることを飼い主に伝えます。"
-  - name: "マーシャルフェレット (Mustela putorius furo / Marshall Ferret)'s Body Language & Signals"
+  - name: "マーシャルフェレット (Mustela putorius furo / Marshall Ferret)のボディランゲージと行動サイン"
     text: "* ウォーダンス (Weasel War Dance): 一見威嚇のように見えますが、実はエナジーが爆発して嬉しくて仕方がない遊びのお誘いサインです。 (家具の隙間などにぶつかって骨折しないよう、障害物のない滑りにくいマットの上でボール等を使って一緒に遊びます。)
 
 * 喉を鳴らすクックッという音 (Dooking): 新しい匂いやおもちゃのトンネルに出会って好奇心と楽しさが最高潮に達している安全な合図です。 (ビニールトンネルや段ボール箱を置いて、フェレットの本能を刺激してあげましょう。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "マーシャルフェレット (Mustela putorius furo / Marshall Ferret)のための3ステップホームケアルーティン"
     text: "* STEP 1. 朝：高タンパクな肉食フードと給水の点検: 消化器官が非常に短く頻繁に食べる必要があるため、穀物不使用の肉食専用フードをたっぷり補充し、水の出を確認します。
 
 * STEP 2. 昼：最低4時間以上の安全なリビングでの放し飼い: ケージに長時間閉じ込めると深刻なうつ状態になるため、挟まりやすい家具の隙間を塞いだ安全なリビングで自由に遊ばせます。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. マーシャルフェレット (Mustela putorius furo / Marshall Ferret)'s Body Language & Signals
+## 2. マーシャルフェレット (Mustela putorius furo / Marshall Ferret)のボディランゲージと行動サイン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ faqs:
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. マーシャルフェレット (Mustela putorius furo / Marshall Ferret)のための3ステップホームケアルーティン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

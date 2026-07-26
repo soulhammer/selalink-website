@@ -13,11 +13,11 @@ authority: "Guide de la Cat Fanciers' Association (CFA) et Cornell Feline Health
 steps:
   - name: "Langage corporel du Bleu Russe : Lire les signes de panique"
     text: "De nature douce, le Bleu Russe émet des signaux d'avertissement discrets. Les signes clés de panique sont les « pupilles dilatées » (Dilated Pupils) et la « posture accroupie » (Crouching). Face à un bruit ou un inconnu, ses pupilles s'agrandissent. S'il plaque son corps au sol et replie ses oreilles sur les côtés, il ressent une peur intense et s'apprête à fuir."
-  - name: "Bleu Russe (Felis catus / Russian Blue)'s Body Language & Signals"
+  - name: "Langage corporel et signaux comportementaux du Bleu Russe (Felis catus / Russian Blue)"
     text: "* Pupilles dilatées (Dilated Pupils): Une réponse physique indiquant qu'il est très alerte, tendu ou effrayé. (Tamisez les lumières et arrêtez immédiatement la source de stress (bruit d'appareil ménager).)
 
 * Posture accroupie (Crouching): Un signe de panique défensive, montrant qu'il se sent acculé ou terrifié. (Ne le forcez pas au contact physique. Laissez-le se réfugier dans une pièce calme ou un placard.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Routine quotidienne en 3 étapes pour le soin du Bleu Russe (Felis catus / Russian Blue)"
     text: "* STEP 1. Matin : Entretien sécurisé de la litière et des gamelles: Nettoyez la litière tôt. Assurez-vous que ses gamelles sont placées dans un coin calme, à l'écart des passages et du bruit.
 
 * STEP 2. Après-midi : Entretien de son refuge surélevé: Vérifiez que la cabane fermée de son arbre à chat est toujours accessible. Cela lui offre une échappatoire en hauteur en cas de bruit ou de visite.
@@ -60,7 +60,7 @@ Le Bleu Russe est un félin réputé pour son pelage bleu argenté et ses yeux v
 
 ---
 
-## 2. Bleu Russe (Felis catus / Russian Blue)'s Body Language & Signals
+## 2. Langage corporel et signaux comportementaux du Bleu Russe (Felis catus / Russian Blue)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Le Bleu Russe est un félin réputé pour son pelage bleu argenté et ses yeux v
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Routine quotidienne en 3 étapes pour le soin du Bleu Russe (Felis catus / Russian Blue)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

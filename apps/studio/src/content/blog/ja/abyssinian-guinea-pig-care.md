@@ -13,11 +13,11 @@ authority: "英国王立動物虐待防止協会（RSPCA）げっ歯類飼育基
 steps:
   - name: "モルモットの感情表現：プイプイ鳴きとポップコーニング"
     text: "モルモットは声と体を使って感情を豊かに表現します。おやつをねだる時や飼い主に挨拶する時には、高音で「プイプイ（Wheeking）」と大きく鳴きます。また、安全を感じて最高に嬉しい状態の時には、突然その場でピョンピョンと跳ね上がる「ポップコーニング（Popcorning）」という独特なジャンプを見せます。"
-  - name: "アビシニアンギニアピッグ (Abyssinian Guinea Pig)'s Body Language & Signals"
+  - name: "アビシニアンギニアピッグ (Abyssinian Guinea Pig)のボディランゲージと行動サイン"
     text: "* プイプイ鳴き (Wheeking): 興奮や期待を示しており、おやつの袋の音や野菜を準備する音に反応して「野菜をちょうだい」と要求している状態です。 (新鮮なパプリカや小動物用ビタミンCサプリを与え、信頼関係を築くコミュニケーションの時間にします。)
 
 * ポップコーニング (Popcorning): 突然その場で跳ね上がったり体をひねったりする動作で、嬉しさと安心感が爆発しているサインです。 (跳ねた拍子にケージの角や固い食器にぶつかって怪我をしないよう、安全なレイアウトにしておきます。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "アビシニアンギニアピッグ (Abyssinian Guinea Pig)のための3ステップホームケアルーティン"
     text: "* STEP 1. 朝：ビタミンCの補給と新鮮なチモシーの補充: 水に溶かすと光で分解されやすいため、サプリメントやビタミンCが豊富なパプリカなどを直接与えます。新鮮なチモシーを補充します。
 
 * STEP 2. 昼：ケージ内の部分掃除と牧草の粉塵除去: アンモニアの発生を防ぐため尿で濡れた床材を部分掃除します。補充するチモシーはあらかじめ外で軽く振って粉塵を落とし、呼吸器への刺激を減らします。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. アビシニアンギニアピッグ (Abyssinian Guinea Pig)'s Body Language & Signals
+## 2. アビシニアンギニアピッグ (Abyssinian Guinea Pig)のボディランゲージと行動サイン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ faqs:
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. アビシニアンギニアピッグ (Abyssinian Guinea Pig)のための3ステップホームケアルーティン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

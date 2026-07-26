@@ -13,11 +13,11 @@ authority: "CFAターキッシュ・アンゴラ評議会＆猫の先天性難�
 steps:
   - name: "ターキッシュ・アンゴラのボディランゲージ：大声の鳴き方と振動感知のサイン"
     text: "聴覚に障がいのある猫は、自身の鳴き声の音量をフィードバックできないため「音量調節ができない大声の鳴き癖」を見せることがあります。その代わり、耳の代わりに肉球で床や家具の「微細な物理振動」を感知して周囲の状況を把握しています。これらの特性を理解することで、突然の接触による驚きや恐怖心からの威嚇を防ぐことができます。"
-  - name: "ターキッシュ・アンゴラ (Turkish Angora)'s Body Language & Signals"
+  - name: "ターキッシュ・アンゴラ (Turkish Angora)のボディランゲージと行動サイン"
     text: "* 大声での無調律な鳴き癖 (Loud Unmodulated Vocalization): 自分の声が聞こえないため音量を調節できず、呼びかけやコミュニケーションの欲求から空に向かって大声で鳴く現象です。 (後ろから急に触って驚かせず、必ず前方の視界に入り、手で優しく合図を送って視覚的にコミュニケーションを図りましょう。)
 
 * 床の振動への敏感な反応 (Floor Vibration Sensitivity): 聴覚の代わりに肉球（パチニ受容器）で床や家具から伝わる微小な振動を感知し、人や物の接近を把握する本能的行動です。 (近づく前に手や足で床をトントンと軽く叩き、振動で気配を先に伝えることで、驚きによるパニックや警戒行動を防ぎます。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "ターキッシュ・アンゴラ (Turkish Angora)のための3ステップホームケアルーティン"
     text: "* STEP 1. 朝：手話シグナルでの対話と視覚的な朝の挨拶: 声で呼ぶのではなく、手を優しく振る手話シグナルやゆっくりした瞬き（キャットアイキス）を通じて、驚かせることなく心穏やかな朝のコミュニケーションを始めます。
 
 * STEP 2. 昼：安全な高所空間の確保と転落防止の点検: 高い場所を好む性質に合わせてキャットタワーを設置しますが、難聴により平衡感覚が多少影響を受ける場合があるため、クッション材や固定器具を点検します。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. ターキッシュ・アンゴラ (Turkish Angora)'s Body Language & Signals
+## 2. ターキッシュ・アンゴラ (Turkish Angora)のボディランゲージと行動サイン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ faqs:
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. ターキッシュ・アンゴラ (Turkish Angora)のための3ステップホームケアルーティン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

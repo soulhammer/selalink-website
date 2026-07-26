@@ -13,11 +13,11 @@ authority: "国際ファンシーグッピー協会(IFGA)および観賞魚獣�
 steps:
   - name: "グッピーのボディランゲージ：ヒレ閉じと水面でのパクパク動作 (Surface Gasping)"
     text: "グッピーはヒレの形と泳ぐ位置で水質状態や健康状態を表します。尾ヒレや背ヒレを小さく折りたたんで水槽の隅や底で静止する「ヒレ閉じ (Clamped Fins)」は、水質悪化や急激な水温変化による極度のストレスサインです。一方、水面近くに浮上して口を連続でパクパクさせる「水面呼吸 (Surface Gasping)」は、水中酸素不足やアンモニア中毒によるエラ障害の警告です。"
-  - name: "グッピー (Guppy)'s Body Language & Signals"
+  - name: "グッピー (Guppy)のボディランゲージと行動サイン"
     text: "* ヒレをたたんで隅で静止している (Clamped Fins): アンモニア・亜硝酸濃度の上昇、pHショック、または水温変化による環境ストレスの警告です。 (すぐに水質検査キットでアンモニア値を確認し、カルキ抜きと温度合わせを行った水で20〜30%の部分換水を実施します。)
 
 * 水面で連続して口をパクパクさせる (Surface Gasping): 水中の溶存酸素不足、フィルターの作動不良、またはアンモニア中毒によるエラ機能低下のサインです。 (エアレーション（気泡器）を稼働させて酸素を供給し、フィルターの吐出量と水温（24°C〜26°C）を確認します。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "グッピー (Guppy)のための3ステップホームケアルーティン"
     text: "* STEP 1. 朝：水温（24°C〜26°C）の点検と少量の分割給餌: 水温計を確認し、2〜3分で食べきれる量の専用フードを与えてフードの腐敗を防ぎます。
 
 * STEP 2. 昼：底砂の残餌・排泄物のサイフォン掃除と水槽の観察: 底に溜まった残餌やフンをサイフォンで取り除き、フィルターのアンモニア負荷を軽減します。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. グッピー (Guppy)'s Body Language & Signals
+## 2. グッピー (Guppy)のボディランゲージと行動サイン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ faqs:
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. グッピー (Guppy)のための3ステップホームケアルーティン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

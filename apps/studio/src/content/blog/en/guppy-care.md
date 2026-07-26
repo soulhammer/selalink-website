@@ -13,11 +13,11 @@ authority: "International Fancy Guppy Association (IFGA) & Freshwater Aquarium V
 steps:
   - name: "Guppy Body Language: Clamped Fins and Surface Gasping"
     text: "Guppies communicate health and water quality through fin posture and swimming position. 'Clamped Fins'—holding the tail and dorsal fin tightly against the body while staying still—signals severe stress from ammonia accumulation or thermal shock. Conversely, 'Surface Gasping'—repeatedly mouthing at the water surface—is an urgent warning of low dissolved oxygen or gill damage from ammonia poisoning."
-  - name: "Guppy's Body Language & Signals"
+  - name: "Guppy's Body Language & Behavioral Signals"
     text: "* Clamped Fins & Staying Still in Corners (Clamped Fins): An environmental stress warning caused by rising ammonia/nitrite levels, pH shock, or temperature fluctuations. (Immediately test water parameters for ammonia and perform a 20-30% partial water change with temperature-matched, dechlorinated water.)
 
 * Repeated Mouthing at Water Surface (Surface Gasping): A signal of low dissolved oxygen levels, filter failure, or impaired gill function due to ammonia toxicity. (Turn on an air diffuser/bubbler to boost oxygen, check filter flow, and verify water temperature (24°C–26°C).)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Customized 3-Step Home Care Routine for Guppy"
     text: "* STEP 1. Morning: Water Temperature Check (24°C–26°C) & Small Portion Feeding: Check the thermometer and feed specialized guppy food in small amounts that can be consumed within 2–3 minutes to prevent food decay.
 
 * STEP 2. Afternoon: Substrate Waste Siphoning & Tank Wall Monitoring: Siphon out uneaten food and waste from the substrate to reduce ammonia load on the filtration system.
@@ -60,7 +60,7 @@ Renowned as both the beginner's favorite and the expert's treasure, the Guppy (P
 
 ---
 
-## 2. Guppy's Body Language & Signals
+## 2. Guppy's Body Language & Behavioral Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Renowned as both the beginner's favorite and the expert's treasure, the Guppy (P
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Customized 3-Step Home Care Routine for Guppy
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

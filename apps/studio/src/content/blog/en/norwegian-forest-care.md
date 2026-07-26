@@ -13,11 +13,11 @@ authority: "The International Cat Association (TICA) Breed Standards & Feline Ve
 steps:
   - name: "Norwegian Forest Cat Body Language: Indicators of Trust and Wild Alertness"
     text: "Norwegian Forest Cats carry a dignified wild presence and communicate their emotions with gentle intelligence. Approaching slowly with a vertical tail slightly curved at the tip like a question mark (?) is a clear sign of deep trust and friendly affection. Conversely, when their pupils dilate and their ears flatten sideways into 'airplane ears', it indicates they have sensed a threat or feel anxious in their environment."
-  - name: "Norwegian Forest Cat (Felis catus)'s Body Language & Signals"
+  - name: "Norwegian Forest Cat (Felis catus)'s Body Language & Behavioral Signals"
     text: "* Upright Tail Curved Like a Question Mark: A signal of contentment, curiosity, and friendly affection when approaching the owner. (Respond with a soft, gentle voice and lightly stroke around their head and cheeks to deepen your bond.)
 
 * Dilated Pupils & Flattened Airplane Ears: A state of high tension and alertness triggered by sudden noises or an unfamiliar environment. (Avoid direct eye contact, and allow the cat to retreat independently to a high cat tree or quiet hideout.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Customized 3-Step Home Care Routine for Norwegian Forest Cat (Felis catus)"
     text: "* STEP 1. Morning: Dynamic Vertical Hunting Play Session: Wave feather or laser wands up and down cat towers and poles to stimulate their innate climbing and hunting instincts.
 
 * STEP 2. Afternoon: Undercoat De-Shedding Brushing for Water-Repellent Triple Coat: Use a slicker brush and a steel comb to comb deeply into mat-prone areas like the armpits and chest ruff, removing dead undercoat.
@@ -60,7 +60,7 @@ The Norwegian Forest Cat, affectionately called the 'Wegie', evolved to survive 
 
 ---
 
-## 2. Norwegian Forest Cat (Felis catus)'s Body Language & Signals
+## 2. Norwegian Forest Cat (Felis catus)'s Body Language & Behavioral Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ The Norwegian Forest Cat, affectionately called the 'Wegie', evolved to survive 
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Customized 3-Step Home Care Routine for Norwegian Forest Cat (Felis catus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

@@ -13,11 +13,11 @@ authority: "Guia Oficial da Maine Coon Breeders & Fanciers Association (MCBFA) e
 steps:
   - name: "Linguagem corporal do Maine Coon: Trinados amigáveis e cauda eriçada"
     text: "Os Maine Coons são muito sociáveis e comunicativos. Os sinais chave incluem o 'trinado' (Trilling) e a 'cauda eriçada' (Puffed Tail). Um trinado suave ao aproximar-se é uma saudação carinhosa. Por outro lado, quando assustados por barulhos repentinos, os pelos da cauda eriçam-se como uma escova. Se notar isto, remova a fonte de estresse e deixe-o acalmar-se sozinho."
-  - name: "Maine Coon (Felis catus)'s Body Language & Signals"
+  - name: "Linguagem corporal e sinais de comportamento do Maine Coon (Felis catus)"
     text: "* Trinado (Trilling): Uma vocalização amigável que demonstra confiança e afeto, pedindo interação e atenção. (Responda com um tom de voz suave ou acaricie o rosto levemente para retribuir o carinho.)
 
 * Cauda eriçada ou bufada (Puffed Tail): Uma resposta de medo involuntária a estímulos auditivos ou visuais repentinos, indicando alerta máximo. (Remova imediatamente o fator de estresse. Não force o contato físico e deixe o gato acalmar-se sozinho.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rotina diária de 3 passos para cuidados com Maine Coon (Felis catus)"
     text: "* STEP 1. Manhã: Controle rigoroso da ração para gestão de peso e prevenção de HCM: A Cardiomiopatia Hipertrófica (HCM) no Maine Coon piora com a obesidade. Pese a ração diariamente numa balança digital segundo as necessidades calóricas e garanta água fresca.
 
 * STEP 2. Tarde: Escovação completa da pelagem dupla com pente de aço e rasqueadeira: A juba e o pelo das axilas embaraçam facilmente, causando dermatite. Penteie profundamente com pente de aço para desfazer nós e remover pelos mortos.
@@ -64,7 +64,7 @@ Hoje, o PetSelf decodifica a linguagem corporal do Maine Coon e apresenta uma ro
 
 ---
 
-## 2. Maine Coon (Felis catus)'s Body Language & Signals
+## 2. Linguagem corporal e sinais de comportamento do Maine Coon (Felis catus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -90,7 +90,7 @@ Hoje, o PetSelf decodifica a linguagem corporal do Maine Coon e apresenta uma ro
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rotina diária de 3 passos para cuidados com Maine Coon (Felis catus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

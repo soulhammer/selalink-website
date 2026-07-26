@@ -49,7 +49,47 @@ function renderLocaleMarkdown({ blogSlug, lang, data, histMeta }) {
   const signals = (locData.body_signals && locData.body_signals.length > 0) ? locData.body_signals : (enData.body_signals || []);
   const routines = (locData.daily_routine && locData.daily_routine.length > 0) ? locData.daily_routine : (enData.daily_routine || []);
 
-  const step2Title = lang === 'ko' ? `${pBreed}의 몸짓 언어와 바디 시그널` : `${pBreed}'s Body Language & Signals`;
+  const stepTitlesMap = {
+    ko: {
+      step2: (b) => `${b}의 몸짓 언어와 바디 시그널`,
+      step3: (b) => `${b} 맞춤형 3단계 홈케어 루틴`
+    },
+    en: {
+      step2: (b) => `${b}'s Body Language & Behavioral Signals`,
+      step3: (b) => `Customized 3-Step Home Care Routine for ${b}`
+    },
+    zh: {
+      step2: (b) => `${b} 的肢体语言与行为信号`,
+      step3: (b) => `${b} 定制化 3 步家庭护理流程`
+    },
+    ja: {
+      step2: (b) => `${b}のボディランゲージと行動サイン`,
+      step3: (b) => `${b}のための3ステップホームケアルーティン`
+    },
+    es: {
+      step2: (b) => `Lenguaje corporal y señales de conducta de ${b}`,
+      step3: (b) => `Rutina diaria de 3 pasos para el cuidado de ${b}`
+    },
+    fr: {
+      step2: (b) => `Langage corporel et signaux comportementaux du ${b}`,
+      step3: (b) => `Routine quotidienne en 3 étapes pour le soin du ${b}`
+    },
+    de: {
+      step2: (b) => `Körpersprache und Verhaltenssignale von ${b}`,
+      step3: (b) => `Maßgeschneiderte 3-Schritte-Tagesroutine für ${b}`
+    },
+    pt: {
+      step2: (b) => `Linguagem corporal e sinais de comportamento do ${b}`,
+      step3: (b) => `Rotina diária de 3 passos para cuidados com ${b}`
+    },
+    id: {
+      step2: (b) => `Bahasa Tubuh dan Sinyal Perilaku ${b}`,
+      step3: (b) => `Rutinitas Perawatan Harian 3 Langkah untuk ${b}`
+    }
+  };
+
+  const curStepTitleMap = stepTitlesMap[lang] || stepTitlesMap['en'];
+  const step2Title = curStepTitleMap.step2(pBreed);
   const step2Text = signals.map(s => {
     const sName = s.name || s.signal || '';
     const sMeaning = s.meaning || s.description || s.desc || '';
@@ -57,7 +97,7 @@ function renderLocaleMarkdown({ blogSlug, lang, data, histMeta }) {
     return `* ${sName}: ${sMeaning}${sResponse ? ` (${sResponse})` : ''}`;
   }).join('\n\n');
 
-  const step3Title = lang === 'ko' ? `${pBreed} 맞춤형 3단계 홈케어 루틴` : `Customized 3-Step Home Care Routine`;
+  const step3Title = curStepTitleMap.step3(pBreed);
   const step3Text = routines.map((r, idx) => {
     const rTitle = r.title || r.name || `STEP ${idx + 1}`;
     const rContent = r.content || r.text || r.desc || r.description || '';
@@ -92,7 +132,7 @@ function renderLocaleMarkdown({ blogSlug, lang, data, histMeta }) {
   const labelsMap = {
     ko: { meaning: '의미', response: '대처법', signal: '바디 시그널' },
     en: { meaning: 'Meaning', response: 'Response', signal: 'Body Signal' },
-    zh: { meaning: '含义', response: ' national', signal: '肢体信号' },
+    zh: { meaning: '含义', response: '应对', signal: '肢体信号' },
     ja: { meaning: '意味', response: '対処法', signal: 'ボディシグナル' },
     es: { meaning: 'Significado', response: 'Respuesta', signal: 'Señal Corporal' },
     fr: { meaning: 'Signification', response: 'Reponse', signal: 'Signal Corporel' },

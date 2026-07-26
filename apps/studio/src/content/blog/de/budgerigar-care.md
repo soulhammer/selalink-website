@@ -13,11 +13,11 @@ authority: "Association of Avian Veterinarians (AAV) & Standards des World Parro
 steps:
   - name: "Körpersprache des Wellensittichs: Schnabelknirschen und Pupillenverengung"
     text: "Wellensittiche drücken ihre Stimmung deutlich durch Schnabelgeräusche und Pupillenbewegungen aus. Das 'Schnabelknirschen (Beak Grinding)' vor dem Einschlafen ist ein Zeichen von tiefer Entspannung. Das schnelle Verengen der Pupillen, bekannt als 'Pupil Pinning', signalisiert dagegen starke Neugier, Aufregung oder hohe Konzentration."
-  - name: "Wellensittich (Budgerigar / Budgie)'s Body Language & Signals"
+  - name: "Körpersprache und Verhaltenssignale von Wellensittich (Budgerigar / Budgie)"
     text: "* Leises Schnabelknirschen (Beak Grinding): Ein Zeichen von Wohlbefinden, Sicherheit und Entspannung direkt vor dem Schlafen. (Stören Sie den Vogel nicht und dimmen Sie das Licht für eine ruhige Schlafumgebung.)
 
 * Plötzliches Verengen der Pupillen (Pupil Pinning): Starke Aufregung, Neugier oder Fokus durch ein Spielzeug, die Stimme des Halters oder Reize. (Sprechen Sie mit ruhiger Stimme, um Überregung und eventuelles Zwicken zu vermeiden.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Maßgeschneiderte 3-Schritte-Tagesroutine für Wellensittich (Budgerigar / Budgie)"
     text: "* STEP 1. Morgen: Pellets, frisches Grünfutter & Raumlüftung: Reduzieren Sie den Saatenanteil zur Vorbeugung von Fettleber und füttern Sie hochwertige Pellets mit frischem Gemüse bei guter Raumluft.
 
 * STEP 2. Mittag: Knabberspielzeug (Foraging) & Sicherer Freiflug: Bieten Sie Papier- oder Suchspielzeug gegen Langeweile und Federrupfen an und ermöglichen Sie Freiflug im gesicherten Raum.
@@ -60,7 +60,7 @@ Der Wellensittich gehört wegen seines bunten Gefieders, seines fröhlichen Zwit
 
 ---
 
-## 2. Wellensittich (Budgerigar / Budgie)'s Body Language & Signals
+## 2. Körpersprache und Verhaltenssignale von Wellensittich (Budgerigar / Budgie)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Der Wellensittich gehört wegen seines bunten Gefieders, seines fröhlichen Zwit
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Maßgeschneiderte 3-Schritte-Tagesroutine für Wellensittich (Budgerigar / Budgie)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

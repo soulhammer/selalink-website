@@ -13,11 +13,11 @@ authority: "国際猫医学会(ISFM)皮膚科学ガイドライン＆被毛獣�
 steps:
   - name: "スフィンクスのボディランゲージ：暖かさを求める行動と深い信頼のサイン"
     text: "スフィンクスは寒さを感じやすいため、飼い主の首元や膝の上、あるいは布団の中に密着して体温を共有しようとする傾向が強くあります。飼い主の腕に体をぴったり寄せたり膝の上でゴロゴロと喉を鳴らすのは、愛着の表現であると同時に体温を維持したいという本能的な求温シグナルでもあります。皮膚が冷たかったり体を丸めている時は、すぐに室温を調整してあげましょう。"
-  - name: "スフィンクス (Sphynx Cat)'s Body Language & Signals"
+  - name: "スフィンクス (Sphynx Cat)のボディランゲージと行動サイン"
     text: "* 体をぴったり寄せる・暖を求める (Heat-Seeking): 周囲の空気や体温の低下を感じ、積極的に温もりの供給を求めているサインです。 (室温を22〜26℃に調整し、柔らかい綿の服を着せるか、暖か保温マット付きのベッドを用意してください。)
 
 * 目を細めてゴロゴロと喉を鳴らす (Squinting & Purring): 適温で快適な環境におり、深い安心感と飼い主への無制限の信頼を感じている状態です。 (温かくなった体を優しく撫でてあげて、リラックスして休めるように寄り添いましょう。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "スフィンクス (Sphynx Cat)のための3ステップホームケアルーティン"
     text: "* STEP 1. 朝：温かいタオルを使用した全身のしわ・皮脂拭き取り: 首周りや足指の間、皮膚のしわに溜まった茶色の皮脂を、温かい湿らせたタオルで優しく拭き取り、黒ずみや皮膚トラブルを予防します。
 
 * STEP 2. 昼：直射日光を遮る紫外線トラブル防止対策: 被毛のない皮膚は紫外線に無防備なため、日焼け（日光皮膚炎）を起こしやすいです。カーテン等で直射日光を適度に遮りましょう。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. スフィンクス (Sphynx Cat)'s Body Language & Signals
+## 2. スフィンクス (Sphynx Cat)のボディランゲージと行動サイン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ faqs:
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. スフィンクス (Sphynx Cat)のための3ステップホームケアルーティン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

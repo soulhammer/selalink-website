@@ -13,11 +13,11 @@ authority: "Haltungsrichtlinien der ARAV (Association of Reptilian and Amphibian
 steps:
   - name: "Verhaltenssprache der Bartagame: Kopfnicken und Winken"
     text: "Bartagamen nutzen charakteristische Gesten, um Rangordnungen anzuzeigen und Gefühle auszudrücken. Schnelles, heftiges Auf- und Abnicken mit dem Kopf – das sogenannte 'Head Bobbing' – ist ein starker Ausdruck von Dominanz und Revieranspruch. Das langsame, großflächige Kreisen mit einem Vorderbein in der Luft – das 'Arm Waving' – ist hingegen ein soziales Signal der Unterwerfung, Beruhigung und Friedfertigkeit nach dem Motto 'Ich bin keine Bedrohung'."
-  - name: "Bartagame (Pogona vitticeps)'s Body Language & Signals"
+  - name: "Körpersprache und Verhaltenssignale von Bartagame (Pogona vitticeps)"
     text: "* Head Bobbing (Schnelles Kopfnicken): Ausdruck von Dominanz und Territorialverhalten. Tritt häufig auf, wenn andere Tiere wahrgenommen werden oder wenn das eigene Spiegelbild an den Terrarienscheiben Erregung auslöst. (Halten Sie die Tiere grundsätzlich einzeln, um Stress durch Vergesellschaftung zu vermeiden, und bringen Sie Anti-Reflexionsfolien an den Scheiben an.)
 
 * Arm Waving (Langsam kreisendes Winken): Friedliches, unterwürfiges Signal ohne jegliche Aggressionsabsicht, das gegenüber größeren Lebewesen oder dem Halter gezeigt wird. (Nähren Sie sich aus niedriger Position ganz ruhig, sprechen Sie sanft mit dem Tier und belohnen Sie es mit Futter, damit es den Halter als sichere Person wahrnimmt.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Maßgeschneiderte 3-Schritte-Tagesroutine für Bartagame (Pogona vitticeps)"
     text: "* STEP 1. Morgen: Einschalten der Sonnenplatz-Wärme & UVB-Lampe: Schalten Sie den Wärme-Spotstrahler und die UVB-Beleuchtung ein. Der Sonnenplatz muss 35–40 °C erreichen, um die Körpertemperatur für die Verdauungsenzyme anzuheben.
 
 * STEP 2. Mittag: Fütterung von Nährstoff-Insekten mit Kalziumpulver: Bieten Sie Lebendfutterinsekten an, die mit Kalziumpulver (bei Innenhaltung mit D3) bestäubt sind, zusammen mit frischem, kalziumreichem Gemüse wie Zichorie und Pak Choi.
@@ -60,7 +60,7 @@ Aufgrund ihres sanftmütigen Wesens und ihrer neugierigen Blicke zählen Bartaga
 
 ---
 
-## 2. Bartagame (Pogona vitticeps)'s Body Language & Signals
+## 2. Körpersprache und Verhaltenssignale von Bartagame (Pogona vitticeps)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Aufgrund ihres sanftmütigen Wesens und ihrer neugierigen Blicke zählen Bartaga
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Maßgeschneiderte 3-Schritte-Tagesroutine für Bartagame (Pogona vitticeps)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

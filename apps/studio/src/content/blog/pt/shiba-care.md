@@ -13,11 +13,11 @@ authority: "Club Nacional do Shiba Inu da América e diretrizes de modificação
 steps:
   - name: "Linguagem corporal do Shiba Inu: sinais de pressão e alívio do estresse"
     text: "Os Shiba Inus expressam seus limites de forma clara e silenciosa. Os sinais principais incluem 'desviar o olhar' e 'sacudir-se'. Quando uma pessoa estende a mão para tocá-los e o Shiba desvia a cabeça, é um pedido cortês de 'por favor, não me toque agora'. Da mesma forma, sacudir todo o corpo após um evento estressante é um mecanismo instintivo para liberar a tensão física e restaurar seu estado psicológico."
-  - name: "Shiba Inu's Body Language & Signals"
+  - name: "Linguagem corporal e sinais de comportamento do Shiba Inu"
     text: "* Desviar o olhar: Um pedido cortês pedindo à pessoa que pare de se aproximar ou tocá-lo, expressando pressão. (Se ver isso, não tente tocá-lo. Retire a mão e dê-lhe espaço.)
 
 * Sacudir-se: Uma ação destinada a sacudir o estresse ou a tensão física experimentados recentemente. (Se eles se sacudirem durante a escovação, estão liberando tensão. Pare a atividade e deixe-os descansar.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rotina diária de 3 passos para cuidados com Shiba Inu"
     text: "* STEP 1. Manhã: Dessensibilização ao toque em áreas sensíveis: Toque suas patas ou quadris brevemente por 1 segundo e, em seguida, recompense imediatamente com um petisco de alto valor. Repita para criar associações positivas.
 
 * STEP 2. Tarde: Escovação de baixo estresse para pelagem dupla: Use uma rasqueadeira para escovar suavemente na direção do crescimento do pelo. Se mostrar qualquer sinal de desconforto ou rosnar, pare imediatamente.
@@ -60,7 +60,7 @@ Os Shiba Inus são amados globalmente por sua aparência de raposa e cauda enrol
 
 ---
 
-## 2. Shiba Inu's Body Language & Signals
+## 2. Linguagem corporal e sinais de comportamento do Shiba Inu
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Os Shiba Inus são amados globalmente por sua aparência de raposa e cauda enrol
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rotina diária de 3 passos para cuidados com Shiba Inu
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

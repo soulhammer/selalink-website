@@ -1,0 +1,516 @@
+{
+    "red-eared-slider-care": {
+        "pubDate": "2026-02-05",
+        "updatedDate": "2026-07-26",
+        "locales": {
+            "ko": {
+                "title": "붉은귀거북의 일광욕·수온 관리와 호흡기 및 등갑 예방을 위한 3단계 데일리 케어",
+                "description": "대표적인 반수생 거북 붉은귀거북(Red-Eared Slider). UVB 일광욕 육지 세팅과 적정 수온(24°C~28°C), 기우뚱한 수영 및 개구 호흡 신호 해석을 위한 3단계 홈케어 루틴을 소개합니다.",
+                "authority": "국제 파충류 수의학회 (ARAV) 및 Association of Reptilian and Amphibian Veterinarians 케어 프로토콜",
+                "profile": {
+                    "breed": "붉은귀거북 / 반수생 거북 (Red-Eared Slider)",
+                    "lifespan": "20 ~ 30년 (올바른 환경 시 최대 40년)",
+                    "sleep_pattern": "8 ~ 10시간 (수중 바닥 또는 육지에서 정지 휴식)",
+                    "temperament": "활발함, 호기심 많음, 영역 의식 있음, 먹이 반응 강함"
+                },
+                "intro": "붉은 귀 모양의 줄무늬가 특징인 붉은귀거북(Red-Eared Slider)은 전 세계에서 가장 널리 알려진 반수생 거북입니다. 수영을 즐기는 풍부한 수심의 물 영역과 체온을 올리고 UV를 흡수할 육지(Basking Area) 세팅이 동시에 필수적인 품종입니다. 특히 UVB 조명과 열등(스팟 램프)이 없으면 칼슘을 흡수하지 못해 등갑이 말랑해지는 MBD(대사성 뼈 질환)와 껍질 부식증(Shell Rot)에 걸리기 쉬우며, 수온이 낮아지면 폐렴에 걸릴 위험이 급증합니다. 오늘 PetSelf에서는 붉은귀거북의 신체 신호를 읽고 건강을 지키는 3단계 홈케어 루틴을 소개합니다.",
+                "whyTitle": "붉은귀거북의 바디 랭귀지: 만세 일광욕 자세와 기우뚱 수영 (Lopsided Swimming)",
+                "whyDesc": "붉은귀거북은 육지에서의 자세와 물속에서의 수영 모습으로 건강 상태를 나타냅니다. 육지 위에서 뒷다리를 쭉 뻗고 가만히 햇볕을 쬐는 **'만세 일광욕 자세(Starfish Basking)'**는 체온을 높이고 등갑을 건조시켜 세균을 억제하는 매우 건강한 행동입니다. 반면 물속에서 몸이 한쪽으로 기울어진 채 헤엄치거나 입을 벌리고 숨을 헐떡이는 **'기우뚱 수영 및 개구 호흡(Lopsided Swimming)'**은 급성 폐렴이나 중증 호흡기 감염을 알리는 경고 신호입니다.",
+                "body_signals": [
+                    {
+                        "name": "육지에서 네 다리를 쭉 뻗고 가만히 있음 (Starfish Basking)",
+                        "meaning": "체온 조절 및 UVB 흡수를 통한 비타민 D3 합성, 등갑 건조를 진행하는 지극히 정상적이고 건강한 행동입니다.",
+                        "response": "일광욕 영역의 온도(30°C~32°C)와 UVB 램프 거리를 적절히 유지해 주고 거북이가 놀라지 않게 관찰합니다."
+                    },
+                    {
+                        "name": "물속에서 몸이 한쪽으로 기울어지며 수영함 (Lopsided Swimming)",
+                        "meaning": "폐 한쪽에 체액이나 염증이 차올라 부력을 잃은 급성 폐렴 및 호흡기 질환의 대표적 신호입니다.",
+                        "response": "즉시 수온을 28°C~30°C로 올려 체온을 유지해 주고 파충류 전문 수의사의 진료를 받아야 합니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 수온(24°C~28°C) 점검 및 UVB/열등 10~12시간 점등",
+                        "text": "히터기 작동과 수온을 확인하고, 소화와 비타민 D3 합성을 돕기 위해 UVB 램프와 스팟 램프를 점등합니다."
+                    },
+                    {
+                        "name": "낮: 연령별 맞춤 식단 급여 및 여과기 수류 점검",
+                        "text": "성장기 어린 거북은 단백질 사료를, 성체는 채소 비율을 늘려 급여하고, 배설물 양에 맞춰 여과기 출수 상태를 확인합니다."
+                    },
+                    {
+                        "name": "저녁: 잔여물 사이펀 청소 및 야간 램프 소등",
+                        "text": "수질 오염과 암모니아 상승을 막기 위해 남은 사료 찌꺼기를 사이펀으로 제거하고, 램프를 꺼 규칙적인 밤낮 주기를 맞춰줍니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "붉은귀거북 등갑이 말랑거리거나 하얀 반점이 생기는데 왜 그런가요?",
+                        "answer": "등갑이 말랑거린다면 칼슘 부족 및 UVB 노출 부실로 인한 대사성 뼈 질환(MBD)일 가능성이 높으며, 하얀 반점이나 악취가 난다면 세균 감염으로 인한 껍질 부식증(Shell Rot)입니다. UVB 램프 교체, 칼슘제 급여 및 건조 일광욕 케어가 필요합니다."
+                    },
+                    {
+                        "question": "여과기가 필수인가요? 물은 얼마나 자주 갈아줘야 하나요?",
+                        "answer": "거북은 배설량이 매우 많아 강력한 여과기(외부/상면 여과기)가 필수적입니다. 여과기가 있더라도 주 1~2회 30~50% 부분 환수를 권장하며, 살모넬라균 감염 예방을 위해 거북을 만진 후에는 반드시 손을 씻어야 합니다."
+                    }
+                ],
+                "tags": [
+                    "붉은귀거북",
+                    "반수생거북",
+                    "거북이케어",
+                    "파충류일광욕"
+                ]
+            },
+            "en": {
+                "title": "Red-Eared Slider Basking Management and 3-Step Daily Routine for Respiratory and Shell Health",
+                "description": "Care guide for the popular semi-aquatic Red-Eared Slider. Set up UVB basking spots, maintain water temperature (24°C–28°C), and decode lopsided swimming and open-mouth breathing in 3 steps.",
+                "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) & Reptile Care Protocols",
+                "profile": {
+                    "breed": "Red-Eared Slider (Trachemys scripta elegans)",
+                    "lifespan": "20 - 30 Years (Up to 40 years with optimal care)",
+                    "sleep_pattern": "8 - 10 Hours (Rests submerged at the bottom or on basking platform)",
+                    "temperament": "Active, Curious, Territorial, Strong Feeding Response"
+                },
+                "intro": "Famous for the distinctive red stripe behind their eyes, the Red-Eared Slider (Trachemys scripta elegans) is the most widely recognized semi-aquatic turtle in the world. They require both a deep aquatic environment for swimming and a dry basking area equipped with heat and light to regulate body temperature. Without proper UVB lighting and heat lamps, sliders cannot synthesize Vitamin D3, leading to Metabolic Bone Disease (MBD) and Shell Rot. Furthermore, cold water temperatures dramatically increase the risk of fatal pneumonia. Today, PetSelf presents a 3-step daily care routine to read your turtle's body signals and maintain shell and respiratory health.",
+                "whyTitle": "Red-Eared Slider Body Language: Starfish Basking and Lopsided Swimming",
+                "whyDesc": "Red-Eared Sliders communicate health status through basking postures and swimming movement. Fully extending their hind legs while resting under a heat lamp **'Starfish Basking'** is a healthy behavior that raises body temperature, aids digestion, and dries the shell to prevent fungal growth. Conversely, tilting to one side while swimming or gasping for air **'Lopsided Swimming & Open-Mouth Breathing'** is a critical warning sign of acute pneumonia or severe respiratory infection.",
+                "body_signals": [
+                    {
+                        "name": "Extending All Four Limbs Fully on Basking Platform (Starfish Basking)",
+                        "meaning": "A healthy behavior for thermoregulation, Vitamin D3 synthesis via UVB absorption, and drying the shell.",
+                        "response": "Maintain proper basking platform temperatures (30°C–32°C) and UVB distance without startling the turtle."
+                    },
+                    {
+                        "name": "Swimming Tilted to One Side in Water (Lopsided Swimming)",
+                        "meaning": "A critical signal of pneumonia where fluid accumulation in one lung causes loss of normal buoyancy.",
+                        "response": "Immediately raise water temperature to 28°C–30°C to support immunity and seek urgent reptile veterinary care."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Water Temp Check (24°C–28°C) & 10–12 Hour UVB/Heat Light On",
+                        "text": "Verify heater operation and water temperature, then turn on the spot heat lamp and UVB light to stimulate metabolism."
+                    },
+                    {
+                        "name": "Afternoon: Age-Appropriate Feeding & Filter Flow Check",
+                        "text": "Feed high-protein pellets to juveniles and incorporate greens for adults, checking filter output to handle heavy waste."
+                    },
+                    {
+                        "name": "Evening: Substrate Waste Siphoning & Nighttime Lights Off",
+                        "text": "Siphon out uneaten food and debris to control ammonia spikes, turning off lights to maintain a natural day-night cycle."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Why is my turtle's shell soft or showing white spots?",
+                        "answer": "A soft shell indicates Metabolic Bone Disease (MBD) caused by calcium deficiency and lack of UVB light. White spots or bad odors signify Shell Rot from bacterial infection. Upgrade your UVB lamp, provide calcium supplements, and ensure proper dry basking care."
+                    },
+                    {
+                        "question": "Is a filter necessary and how often should I change the water?",
+                        "answer": "Turtles produce a high volume of waste, making a powerful filter (canister or top filter) essential. Perform a 30–50% partial water change 1–2 times weekly, and always wash your hands after handling to prevent Salmonella transmission."
+                    }
+                ],
+                "tags": [
+                    "RedEaredSlider",
+                    "TurtleCare",
+                    "SemiAquaticTurtle",
+                    "ReptileBasking"
+                ]
+            },
+            "ja": {
+                "title": "ミシシッピアカミミガメの日光浴・水温管理と呼吸器・甲羅の健康を守る3ステップデイリールーティン",
+                "description": "代表的な半水棲カメであるミシシッピアカミミガメ。UVB日光浴エリアの設置、適正水温(24°C〜28°C)、傾いた泳ぎや開口呼吸サインを読み解く3ステップホームケアを紹介します。",
+                "authority": "国際爬虫類両生類獣医学会(ARAV)および爬虫類獣医ケアプロトコル",
+                "profile": {
+                    "breed": "ミシシッピアカミミガメ / アカミミガメ (Red-Eared Slider)",
+                    "lifespan": "20 〜 30年 (適切な環境下で最大40年)",
+                    "sleep_pattern": "8 〜 10時間 (水中底面または陸上で静止休息)",
+                    "temperament": "活発、好奇心旺盛、縄張り意識あり、食欲旺盛"
+                },
+                "intro": "目の後ろの赤い模様が特徴的なミシシッピアカミミガメ（Red-Eared Slider）は、世界中で最も親しまれている半水棲カメです。泳ぎを楽しむ十分な水深の水中エリアと、体温を上げてUVを吸収する陸地（バスキングエリア）の両方の設置が不可欠です。特にUVBライトとバスキングランプがないと、カルシウムを吸収できず甲羅が柔らかくなるMBD（代謝性骨疾患）や甲羅腐敗症（Shell Rot）にかかりやすくなり、水温が下がると肺炎のリスクが急増します。本日PetSelfでは、アカミミガメのサインを読み解き、健康を守る3ステップルーティンをお届けします。",
+                "whyTitle": "アカミミガメのボディランゲージ：バンザイ日光浴姿勢と傾いた泳ぎ (Lopsided Swimming)",
+                "whyDesc": "アカミミガメは陸上での姿勢と水中の泳ぎ方で健康状態を表します。陸の上で後脚を大きく伸ばしてじっと光を浴びる**「バンザイ日光浴姿勢（Starfish Basking）」**は、体温を上げて甲羅を乾燥させ、細菌を抑える非常に健康的な行動です。一方、水中において体が片側に傾いたまま泳いだり、口を開けて呼吸する**「傾いた泳ぎと開口呼吸（Lopsided Swimming）」**は、急性肺炎や重度の呼吸器感染症を知らせる危険サインです。",
+                "body_signals": [
+                    {
+                        "name": "陸上で四肢を伸ばしてじっとしている (Starfish Basking)",
+                        "meaning": "体温調節およびUVB吸収によるビタミンD3合成、甲羅の乾燥を行う正常で健康的な行動です。",
+                        "response": "バスキングエリアの温度（30°C〜32°C）とUVBライトの距離を適切に保ち、驚かせないように観察します。"
+                    },
+                    {
+                        "name": "水中において体が片側に傾いて泳ぐ (Lopsided Swimming)",
+                        "meaning": "片方の肺に体液や炎症が溜まり浮力を失った急性肺炎および呼吸器疾患の代表的サインです。",
+                        "response": "直ちに水温を28°C〜30°Cに上げて体温を維持し、爬虫類専門の動物病院を受診させてください。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：水温（24°C〜28°C）の点検とUVB/バスキングライトの10〜12時間点灯",
+                        "text": "ヒーターの作動と水温を確認し、消化とビタミンD3合成を助けるためにUVBライトとスポットランプを点灯します。"
+                    },
+                    {
+                        "name": "昼：年齢に合わせた給餌とフィルター水流の確認",
+                        "text": "成長期の幼体には高タンパクフードを、成体には野菜の割合を増やして給餌し、フンの量に合わせてフィルターの出水状態を確認します。"
+                    },
+                    {
+                        "name": "夜：底面の残餌掃除と夜間消灯",
+                        "text": "水質汚染とアンモニア上昇を防ぐため残ったフードのカスをスポイトやサイフォンで取り除き、ライトを消して昼夜のサイクルを整えます。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "甲羅が柔らかくなったり白い斑点ができるのはなぜですか？",
+                        "answer": "甲羅が柔らかい場合はカルシウム不足やUVB照射不足による代謝性骨疾患（MBD）の可能性が高く、白い斑点や悪臭がある場合は細菌感染による甲羅腐敗症（Shell Rot）です。UVBライトの交換、カルシウム剤の給餌、乾燥日光浴ケアが必要です。"
+                    },
+                    {
+                        "question": "フィルターは必須ですか？水換えはどれくらいの頻度で行うべきですか？",
+                        "answer": "カメは排泄量が非常に多いため、強力なフィルター（外部フィルターなど）が不可欠です。フィルターがあっても週1〜2回、30〜50%の部分水換えを推奨し、サルモネラ菌感染予防のため、カメに触れた後は必ず手を洗ってください。"
+                    }
+                ],
+                "tags": [
+                    "アカミミガメ",
+                    "半水棲カメ",
+                    "カメのケア",
+                    "爬虫類日光浴"
+                ]
+            },
+            "zh": {
+                "title": "红耳龟（巴西龟）晒背管理与预防呼吸道及甲壳疾病的3步日常流程",
+                "description": "代表性半水栖龟红耳龟（Red-Eared Slider）护理指南。介绍UVB晒背台设置、适宜水温（24°C~28°C）维持，以及侧游与张嘴呼吸信号解读的3步骤家庭护理。",
+                "authority": "国际爬行动物兽医协会 (ARAV) 与两栖爬行动物兽医 Care Protocols",
+                "profile": {
+                    "breed": "红耳龟 / 巴西龟 (Red-Eared Slider)",
+                    "lifespan": "20 ~ 30年 (科学环境可达40年)",
+                    "sleep_pattern": "8 ~ 10小时 (水底或晒台上静止休息)",
+                    "temperament": "活泼、好奇心强、有领地意识、索食强烈"
+                },
+                "intro": "红耳龟（Red-Eared Slider）因头两侧鲜艳的红色条纹而得名，是全球最知名的半水栖观赏龟。它们既需要足够水深供其畅游，也必须配备能够提升体温和吸收紫外线的晒背台（Basking Area）。如果缺乏 UVB 灯与加热灯，红耳龟将无法合成维生素 D3，极易引发软甲病、骨骼代谢病（MBD）及腐甲病（Shell Rot）；而水温过低则会剧增患急性肺炎的风险。今天 PetSelf 将带您解读红耳龟的身体语言，并通过3步骤日常护理维护其健康。",
+                "whyTitle": "红耳龟的肢体语言：“大字型”晒背与倾斜侧游 (Lopsided Swimming)",
+                "whyDesc": "红耳龟通过晒台姿态与水中游姿反映健康状况。在晒台上伸直后肢静止晒太阳**“大字型晒背 (Starfish Basking)”**，是提升体温、促进消化并干燥甲壳抑制细菌的健康行为。相反，在水中身体向一侧严重倾斜游动或张嘴喘气**“侧游与张嘴呼吸 (Lopsided Swimming)”**，则是急性肺炎或重度呼吸道感染的危险警告。",
+                "body_signals": [
+                    {
+                        "name": "在晒台上伸展四肢静止 (Starfish Basking)",
+                        "meaning": "调节体温、通过吸收 UVB 合成维生素 D3 以及干燥龟甲的正常健康行为。",
+                        "response": "维持晒台区域适宜温度（30°C~32°C）与 UVB 距离，保持观察切勿惊吓到它。"
+                    },
+                    {
+                        "name": "在水中游动时身体向一侧倾斜 (Lopsided Swimming)",
+                        "meaning": "一侧肺部积液或发炎导致失去正常浮力，是急性肺炎的典型危险信号。",
+                        "response": "应立即将水温提升至 28°C~30°C 保温，并尽快送往专业爬宠医院就诊。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：水温（24°C~28°C）检查与开启 UVB/加热灯 10~12小时",
+                        "text": "检查加热棒与水温，开启 UVB 灯与晒背灯以促进新陈代谢与维生素 D3 合成。"
+                    },
+                    {
+                        "name": "中午：分年龄段投喂与过滤器出水检查",
+                        "text": "幼龟投喂高蛋白龟粮，成龟增加蔬菜比例，并根据排泄量检查过滤器运转状态。"
+                    },
+                    {
+                        "name": "晚上：底砂残饵吸管清理与夜间关灯",
+                        "text": "用吸管清理残饵与排泄物以控制氨氮，按时关灯以维持规律的昼夜作息。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "红耳龟龟甲变软或出现白斑是什么原因？",
+                        "answer": "龟甲变软通常是由于缺乏钙质和 UVB 照射不足导致的骨骼代谢病（MBD）；若出现白斑或异味，则是细菌感染引发的腐甲病（Shell Rot）。必须更换 UVB 灯管、补充钙粉并进行干燥晒背护理。"
+                    },
+                    {
+                        "question": "必须使用过滤器吗？需要多久换一次水？",
+                        "answer": "水龟排泄量巨大，强烈建议配备强大的过滤系统（如外置过滤桶）。即使有过滤器，也建议每周进行 1~2 次 30%~50% 的部分换水。此外，接触水龟后请务必洗手以预防沙门氏菌感染。"
+                    }
+                ],
+                "tags": [
+                    "红耳龟",
+                    "半水栖龟",
+                    "乌龟护理",
+                    "爬宠晒背"
+                ]
+            },
+            "es": {
+                "title": "Manejo del asoleamiento en Galápago de Orejas Rojas y rutina diaria de 3 pasos para la salud del caparazón y respiratoria",
+                "description": "Guía de cuidado para la tortuga semiacuática Galápago de Orejas Rojas. Configure la zona de asoleamiento UVB, mantenga el agua entre 24°C y 28°C e interprete señales como la natación ladeada.",
+                "authority": "Asociación de Veterinarios de Anfibios y Reptiles (ARAV) y Protocolos de Cuidado de Reptiles",
+                "profile": {
+                    "breed": "Galápago de Orejas Rojas / Tortuga de Orejas Rojas (Trachemys scripta elegans)",
+                    "lifespan": "20 ~ 30 años (Hasta 40 años con cuidados óptimos)",
+                    "sleep_pattern": "8 ~ 10 horas (Reposa sumergida en el fondo o en la plataforma de asoleamiento)",
+                    "temperament": "Activa, Curiosa, Territorial, Respuesta voraz a la comida"
+                },
+                "intro": "Famosa por la franja roja detrás de sus ojos, la Tortuga de Orejas Rojas (Trachemys scripta elegans) es la tortuga semiacuática más conocida del mundo. Requieren tanto un entorno acuático profundo para nadar como una zona seca de asoleamiento (Basking Area) equipada con calor y luz. Sin iluminación UVB adecuada ni lámparas de calor, no pueden sintetizar la vitamina D3, desencadenando la Enfermedad Ósea Metabólica (EMO) y la podredumbre del caparazón (Shell Rot). Además, las aguas frías aumentan drásticamente el riesgo de neumonía. Hoy, PetSelf presenta una rutina de 3 pasos para proteger su salud.",
+                "whyTitle": "Lenguaje corporal del Galápago de Orejas Rojas: Asoleamiento en estrella y natación ladeada",
+                "whyDesc": "Las tortugas de orejas rojas comunican su estado de salud mediante la postura al asolearse y su natación. Extender completamente las patas traseras bajo la lámpara de calor **'Asoleamiento en estrella (Starfish Basking)'** es un comportamiento saludable para elevar la temperatura corporal, digestión y secar el caparazón contra bacterias. En cambio, nadar inclinada hacia un lado o boquear por aire **'Natación ladeada (Lopsided Swimming)'** es una advertencia crítica de neumonía aguda.",
+                "body_signals": [
+                    {
+                        "name": "Extender las cuatro extremidades en la plataforma (Starfish Basking)",
+                        "meaning": "Comportamiento saludable para termorregulación, síntesis de vitamina D3 vía UVB y secado del caparazón.",
+                        "response": "Mantenga la temperatura adecuada de la plataforma (30°C–32°C) y la distancia UVB sin asustar a la tortuga."
+                    },
+                    {
+                        "name": "Nadar inclinada hacia un lado en el agua (Lopsided Swimming)",
+                        "meaning": "Señal crítica de neumonía donde la acumulación de líquido en un pulmón causa pérdida de flotabilidad.",
+                        "response": "Aumente de inmediato la temperatura del agua a 28°C–30°C para reforzar su inmunidad y busque atención veterinaria."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Control de temperatura (24°C–28°C) y encendido de luz UVB/Calor (10–12h)",
+                        "text": "Verifique el termómetro y encienda las lámparas UVB y de calor para estimular el metabolismo y la digestión."
+                    },
+                    {
+                        "name": "Tarde: Alimentación según la edad y revisión del filtro",
+                        "text": "Ofrezca alimento alto en proteína a juveniles e incorpore vegetales a adultos, comprobando el flujo del filtro."
+                    },
+                    {
+                        "name": "Noche: Sifonado de desperdicios del fondo y apagado nocturno de luces",
+                        "text": "Sifone restos de comida para evitar picos de amoníaco y apague las luces para mantener un ciclo diurno/nocturno natural."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Por qué el caparazón de mi tortuga está blando o tiene manchas blancas?",
+                        "answer": "Un caparazón blando indica Enfermedad Ósea Metabólica (EMO) por falta de calcio y luz UVB. Las manchas blancas u olores desagradables señalan podredumbre del caparazón (Shell Rot) por infección bacteriana. Renueve la lámpara UVB, suministre suplementos de calcio y garantice un asoleamiento seco adecuado."
+                    },
+                    {
+                        "question": "¿Es obligatorio el filtro y cada cuánto debo cambiar el agua?",
+                        "answer": "Las tortugas generan muchísima suciedad, por lo que un filtro potente es imprescindible. Realice un cambio parcial de agua del 30–50% 1–2 veces por semana y lávese siempre las manos tras manipular la tortuga para prevenir infecciones por Salmonella."
+                    }
+                ],
+                "tags": [
+                    "GalapagoDeOrejasRojas",
+                    "TortugaSemiacuatica",
+                    "CuidadoDeTortugas",
+                    "AsoleamientoReptil"
+                ]
+            },
+            "fr": {
+                "title": "Mise en place du bain de soleil chez la Tortue à Tempes Rouges et routine quotidienne en 3 étapes pour le caparacon et les poumons",
+                "description": "Guide de soins pour la célèbre tortue semi-aquatique à tempes rouges. Installez sa plage UVB, maintenez l'eau entre 24°C et 28°C et décryptez la nage de côté en 3 étapes.",
+                "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) & Normes de Soins des Reptiles",
+                "profile": {
+                    "breed": "Tortue à Tempes Rouges / Tortue de Floride (Trachemys scripta elegans)",
+                    "lifespan": "20 ~ 30 ans (Jusqu'à 40 ans avec des soins adaptés)",
+                    "sleep_pattern": "8 ~ 10 heures (Se repose immergée au fond ou sur la plage)",
+                    "temperament": "Active, Curieuse, Territoriale, Appétit très développé"
+                },
+                "intro": "Célèbre pour les bandes rouges situées derrière ses yeux, la Tortue à Tempes Rouges (Trachemys scripta elegans) est la tortue semi-aquatique la plus répandue. Elle nécessite un milieu aquatique profond pour nager ainsi qu'une plage émergée sèche (Basking Area) équipée de chaleur et d'UVB. Sans éclairage UVB et sans lampe chauffante, elle ne peut pas synthétiser la vitamine D3, entraînant la Maladie Osseuse Métabolique (MBD) et la pourriture de la carapace (Shell Rot). De plus, une eau trop froide augmente fortement le risque de pneumonie. Aujourd'hui, PetSelf vous présente une routine en 3 étapes.",
+                "whyTitle": "Langage corporel de la Tortue à Tempes Rouges : Bain de soleil en étoile et nage de côté (Lopsided Swimming)",
+                "whyDesc": "Les tortues à tempes rouges expriment leur état de santé par leur posture au soleil et leur façon de nager. Étendre leurs pattes arrière sous la lampe chauffante **« Bain de soleil en étoile (Starfish Basking) »** est un comportement sain pour augmenter leur température interne et sécher leur carapace. En revanche, pencher d'un côté en nageant ou respirer la bouche ouverte **« Nage de côté (Lopsided Swimming) »** est un signal d'alarme de pneumonie aiguë.",
+                "body_signals": [
+                    {
+                        "name": "Extension complète des membres sur la plage (Starfish Basking)",
+                        "meaning": "Comportement sain de thermorégulation, de synthèse de la vitamine D3 via les UVB et de séchage de la carapace.",
+                        "response": "Maintenez la température de la plage (30°C–32°C) et la distance UVB sans effrayer la tortue."
+                    },
+                    {
+                        "name": "Nage inclinée sur un côté dans l'eau (Lopsided Swimming)",
+                        "meaning": "Signal critique de pneumonie où l'accumulation de liquide dans un poumon entraîne une perte de flottabilité.",
+                        "response": "Montez immédiatement la température de l'eau à 28°C–30°C pour soutenir ses défenses et consultez un vétérinaire spécialisé."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Contrôle de la température (24°C–28°C) et allumage des lampes UVB/Chaleur (10–12h)",
+                        "text": "Vérifiez le chauffage et la température de l'eau, puis allumez la lampe chauffante et le tube UVB pour stimuler le métabolisme."
+                    },
+                    {
+                        "name": "Après-midi : Repas adapté à l'âge et vérification du débit du filtre",
+                        "text": "Donnez des granulés protéinés aux jeunes et ajoutez des végétaux aux adultes, en contrôlant le rejet du filtre."
+                    },
+                    {
+                        "name": "Soir : Siphonage des déchets du fond et extinction des feux",
+                        "text": "Aspirez les restes de nourriture pour limiter l'ammoniaque et éteignez les lampes pour maintenir le cycle jour/nuit."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Pourquoi la carapace de ma tortue est-elle molle ou présente-t-elle des taches blanches ?",
+                        "answer": "Une carapace molle traduit une Maladie Osseuse Métabolique (MBD) par manque de calcium et d'UVB. Des taches blanches ou une mauvaise odeur indiquent une pourriture de la carapace (Shell Rot) due à des bactéries. Changez la lampe UVB, donnez du calcium et assurez des bains de soleil secs."
+                    },
+                    {
+                        "question": "Le filtre est-il obligatoire et à quelle fréquence changer l'eau ?",
+                        "answer": "Les tortues polluent énormément l'eau, un filtre puissant est donc indispensable. Effectuez un changement d'eau partiel de 30 à 50 % 1 à 2 fois par semaine, et lavez-vous toujours les mains après manipulation pour éviter la transmission de la salmonellose."
+                    }
+                ],
+                "tags": [
+                    "TortueATempesRouges",
+                    "TortueSemiAquatique",
+                    "SoinDesTortues",
+                    "BainDeSoleilReptile"
+                ]
+            },
+            "de": {
+                "title": "Sonnenplatz-Management bei der Rotwangen-Schmuckschildkröte und 3-Schritte-Tagesroutine für Panzer und Lungen",
+                "description": "Pflegeanleitung für die beliebte Rotwangen-Schmuckschildkröte. Sonnenplatz mit UVB einrichten, Wassertemperatur (24 °C–28 °C) halten und Schrägschwimmen in 3 Schritten verstehen.",
+                "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) & Richtlinien zur Schildkrötenhaltung",
+                "profile": {
+                    "breed": "Rotwangen-Schmuckschildkröte (Trachemys scripta elegans)",
+                    "lifespan": "20 ~ 30 Jahre (Bei optimaler Haltung bis zu 40 Jahre)",
+                    "sleep_pattern": "8 ~ 10 Stunden (Ruht unter Wasser am Boden oder auf dem Sonnenplatz)",
+                    "temperament": "Aktiv, Neugierig, Territorial, Sehr gieriges Fressverhalten"
+                },
+                "intro": "Bekannt für den charakteristischen roten Streifen hinter den Augen, ist die Rotwangen-Schmuckschildkröte (Trachemys scripta elegans) die weltweit bekannteste Wasserschildkröte. Sie benötigt sowohl einen tiefen Wasserbereich zum Schwimmen als auch einen trockenen Landteil (Basking Area) mit Wärme und UVB-Licht. Ohne richtige UVB-Beleuchtung können Schildkröten kein Vitamin D3 synthetisieren, was zu Metabolischen Knochenerkrankungen (MBD) und Panzerfäule (Shell Rot) führt. Kalte Wassertemperaturen erhöhen zudem das Risiko einer Lungenentzündung. Heute zeigt PetSelf eine 3-Schritte-Routine für die Gesundheit Ihrer Schildkröte.",
+                "whyTitle": "Körpersprache der Rotwangen-Schmuckschildkröte: Seestern-Sonnenbaden und Schrägschwimmen (Lopsided Swimming)",
+                "whyDesc": "Rotwangen-Schmuckschildkröten drücken ihren Gesundheitszustand durch ihre Körperhaltung beim Sonnen und ihr Schwimmverhalten aus. Das weite Abspreizen der Hinterbeine unter der Wärmelampe **'Seestern-Sonnenbaden (Starfish Basking)'** ist ein gesundes Verhalten zur Regulierung der Körpertemperatur und zum Trocknen des Panzers. **'Schrägschwimmen mit Schlagseite (Lopsided Swimming)'** oder Nach-Luft-Schnappen ist dagegen ein Warnsignal für eine akute Lungenentzündung.",
+                "body_signals": [
+                    {
+                        "name": "Weites Abspreizen aller vier Gliedmaßen auf dem Sonnenplatz (Starfish Basking)",
+                        "meaning": "Gesundes Verhalten zur Thermoregulation, Vitamin-D3-Synthese durch UVB und zum Trocknen des Panzers.",
+                        "response": "Halten Sie die Temperatur des Sonnenplatzes (30 °C–32 °C) und den UVB-Abstand ein, ohne das Tier zu erschrecken."
+                    },
+                    {
+                        "name": "Schwimmen mit Schlagseite im Wasser (Lopsided Swimming)",
+                        "meaning": "Kritisches Anzeichen einer Lungenentzündung, bei der Flüssigkeit in einem Lungenflügel den Auftrieb stört.",
+                        "response": "Erhöhen Sie die Wassertemperatur sofort auf 28 °C–30 °C zur Immununterstützung und suchen Sie einen Reptilientierarzt auf."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Wassertemperaturprüfung (24 °C–28 °C) & 10–12 Std. UVB-/Wärmelampe an",
+                        "text": "Prüfen Sie den Heizstab und die Temperatur, schalten Sie die UVB- und Wärmelampen ein, um den Stoffwechsel anzuregen."
+                    },
+                    {
+                        "name": "Mittag: Altersgerechte Fütterung & Filterdurchflusskontrolle",
+                        "text": "Füttern Sie Jungtiere mit proteinreichen Pellets und ergänzen Sie Pflanzliches bei adulten Tieren; prüfen Sie den Filterauslass."
+                    },
+                    {
+                        "name": "Abend: Mulm Absaugen vom Bodengrund & Ausschalten der Beleuchtung",
+                        "text": "Saugen Sie Futterreste ab, um Ammoniakspitzen zu vermeiden, und schalten Sie das Licht aus für einen natürlichen Tag-Nacht-Rhythmus."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Warum ist der Panzer meiner Schildkröte weich oder zeigt weiße Flecken?",
+                        "answer": "Ein weicher Panzer deutet auf eine Metabolische Knochenerkrankung (MBD) durch Calcium- und UVB-Mangel hin. Weiße Flecken oder übler Geruch signalisieren Panzerfäule (Shell Rot) durch Bakterien. Erneuern Sie die UVB-Lampe, füttern Sie Calcium zu und sorgen Sie für trockene Sonnenplätze."
+                    },
+                    {
+                        "question": "Ist ein Filter notwendig und wie oft muss das Wasser gewechselt werden?",
+                        "answer": "Schildkröten produzieren sehr viel Kot, weshalb ein leistungsstarker Außenfilter unerlässlich ist. Führen Sie 1–2 Mal wöchentlich einen 30–50%igen Teilwasserwechsel durch und waschen Sie sich nach dem Kontakt immer die Hände (Salmonellenprophylaxe)."
+                    }
+                ],
+                "tags": [
+                    "RotwangenSchmuckschildkroete",
+                    "Wasserschildkroete",
+                    "Schildkroetenpflege",
+                    "ReptilienSonnenplatz"
+                ]
+            },
+            "pt": {
+                "title": "Manejo do banho de sol na Tartaruga-de-Ouvido-Vermelho e rotina diária de 3 passos para a saúde do casco e respiratória",
+                "description": "Guia de cuidados para a tartaruga semi-aquática Tartaruga-de-Ouvido-Vermelho (Tigre-d'água). Configure a área de sol UVB, mantenha a água entre 24°C e 28°C e entenda o nado inclinado em 3 passos.",
+                "authority": "Associação de Veterinários de Anfíbios e Répteis (ARAV) & Protocolos de Cuidados com Répteis",
+                "profile": {
+                    "breed": "Tartaruga-de-Ouvido-Vermelho / Tigre-d'água (Trachemys scripta elegans)",
+                    "lifespan": "20 ~ 30 anos (Até 40 anos com cuidados adequados)",
+                    "sleep_pattern": "8 ~ 10 horas (Descansa submersa no fundo ou na plataforma de sol)",
+                    "temperament": "Ativa, Curiosa, Territorial, Voraz por comida"
+                },
+                "intro": "Famosa pela faixa vermelha atrás dos olhos, a Tartaruga-de-Ouvido-Vermelho (Trachemys scripta elegans) é a tartaruga semi-aquática mais conhecida do mundo. Elas necessitam tanto de um ambiente aquático profundo para nadar quanto de uma zona seca para banho de sol (Basking Area) equipada com calor e lâmpada UVB. Sem iluminação UVB e lâmpada aquecedora, elas não conseguem sintetizar a vitamina D3, levando à Doença Óssea Metabólica (EMO) e à podridão do casco (Shell Rot). Além disso, águas frias aumentam o risco de pneumonia. Hoje, o PetSelf apresenta uma rotina de 3 passos para cuidar do seu réptil.",
+                "whyTitle": "Linguagem corporal da Tartaruga-de-Ouvido-Vermelho: Banho de sol em estrela e nado inclinado (Lopsided Swimming)",
+                "whyDesc": "As tartarugas comunicam sua saúde através da postura no banho de sol e do modo de nadar. Esticar completamente as patas traseiras sob a lâmpada de calor **'Banho de sol em estrela (Starfish Basking)'** é um comportamento saudável para elevar a temperatura corporal, ajudar a digestão e secar o casco contra bactérias. Em contrapartida, nadar inclinada para um lado ou arfar pela boca **'Nado inclinado (Lopsided Swimming)'** é um aviso crítico de pneumonia aguda.",
+                "body_signals": [
+                    {
+                        "name": "Esticar todas as patas na plataforma de sol (Starfish Basking)",
+                        "meaning": "Comportamento saudável de termorregulação, síntese de vitamina D3 via UVB e secagem do casco.",
+                        "response": "Mantenha a temperatura adequada da plataforma (30°C–32°C) e a distância da lâmpada UVB sem assustar a tartaruga."
+                    },
+                    {
+                        "name": "Nadar inclinada para um lado na água (Lopsided Swimming)",
+                        "meaning": "Sinal crítico de pneumonia em que o acúmulo de líquido em um dos pulmões causa perda de flutuabilidade.",
+                        "response": "Aumente imediatamente a temperatura da água para 28°C–30°C para reforçar a imunidade e busque atendimento veterinário emergencial."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Checagem da temperatura (24°C–28°C) e lâmpada UVB/Calor ligada (10–12h)",
+                        "text": "Verifique o aquecedor e a temperatura da água, ligando as lâmpadas UVB e aquecedora para estimular o metabolismo."
+                    },
+                    {
+                        "name": "Tarde: Alimentação adequada para a idade e checagem do filtro",
+                        "text": "Ofereça ração rica em proteína para filhotes e acrescente vegetais para adultas, conferindo a vazão do filtro."
+                    },
+                    {
+                        "name": "Noite: Sifonagem de resíduos do fundo e desligamento das luzes",
+                        "text": "Sifone restos de ração e sujeira para evitar picos de amônia e apague as luzes para manter o ciclo diurno/noturno natural."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Por que o casco da minha tartaruga está mole ou com manchas brancas?",
+                        "answer": "Um casco mole indica Doença Óssea Metabólica (EMO) por falta de cálcio e luz UVB. Manchas brancas ou mau cheiro sinalizam podridão do casco (Shell Rot) por infecção bacteriana. Troque a lâmpada UVB, forneça cálcio e garanta o banho de sol seco adequado."
+                    },
+                    {
+                        "question": "O filtro é obrigatório e com que frequência devo trocar a água?",
+                        "answer": "As tartarugas produzem muitos dejetos, tornando indispensável um filtro potente. Faça uma troca parcial de água de 30–50% de 1 a 2 vezes por semana e lave sempre as mãos após o manuseio para prevenir a transmissão de Salmonella."
+                    }
+                ],
+                "tags": [
+                    "TartarugaDeOuvidoVermelho",
+                    "TigreDagua",
+                    "TartarugaAquatica",
+                    "CuidadosComRepteis"
+                ]
+            },
+            "id": {
+                "title": "Pengelolaan Berjemur Kura-Kura Brasil dan Rutinitas Harian 3 Langkah Perawatan Tempurung serta Pernapasan",
+                "description": "Panduan perawatan Kura-kura Brasil (Red-Eared Slider). Atur area berjemur UVB, jaga suhu air (24°C–28°C), dan pahami gaya berenang miring serta napas menggep dalam 3 langkah.",
+                "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) & Protokol Perawatan Reptil",
+                "profile": {
+                    "breed": "Kura-Kura Brasil (Trachemys scripta elegans)",
+                    "lifespan": "20 ~ 30 tahun (Hingga 40 tahun dengan perawatan optimal)",
+                    "sleep_pattern": "8 ~ 10 jam (Istirahat tenggelam di dasar atau di atas daratan berjemur)",
+                    "temperament": "Aktif, Penasaran, Teritorial, Respon makan sangat kuat"
+                },
+                "intro": "Terkenal dengan garis merah khas di belakang matanya, Kura-kura Brasil (Trachemys scripta elegans) adalah kura-kura air semi-akuatik paling populer di dunia. Mereka membutuhkan area air yang cukup dalam untuk berenang sekaligus area daratan kering (Basking Area) yang dilengkapi pencahayaan hangat dan UVB. Tanpa sinar UVB dan lampu pemanas, kura-kura tidak dapat mensintesis Vitamin D3 yang menyebabkan Penyakit Tulang Metabolik (MBD) dan Pembusukan Tempurung (Shell Rot). Selain itu, suhu air yang dingin sangat meningkatkan risiko pneumonia. Hari ini, PetSelf membagikan 3 langkah rutinitas harian untuk menjaga kesehatan kura-kura Anda.",
+                "whyTitle": "Bahasa Tubuh Kura-Kura Brasil: Berjemur Bintang Laut dan Berenang Miring (Lopsided Swimming)",
+                "whyDesc": "Kura-kura Brasil menyampaikan kondisi kesehatannya melalui sikap berjemur dan gaya berenang. Merentangkan keempat kakinya saat berdiam diri di bawah lampu pemanas **'Berjemur Bintang Laut (Starfish Basking)'** adalah perilaku sehat untuk menaikkan suhu tubuh, membantu pencernaan, dan mengeringkan tempurung dari jamur. Sebaliknya, tubuh miring ke satu sisi saat berenang atau membuka mulut megap-megap **'Berenang Miring & Napas Menggep (Lopsided Swimming)'** adalah tanda peringatan bahaya pneumonia akut.",
+                "body_signals": [
+                    {
+                        "name": "Merentangkan Keempat Kaki di Daratan Berjemur (Starfish Basking)",
+                        "meaning": "Perilaku sehat untuk termoregulasi, sintesis Vitamin D3 via UVB, dan pengeringan tempurung kura-kura.",
+                        "response": "Jaga suhu area berjemur (30°C–32°C) dan jarak lampu UVB dengan tepat tanpa mengejutkan kura-kura."
+                    },
+                    {
+                        "name": "Berenang Tubuh Miring ke Satu Sisi di Air (Lopsided Swimming)",
+                        "meaning": "Sinyal kritis penyakit pneumonia akibat penumpukan cairan pada satu sisi paru-paru yang merusak daya apung.",
+                        "response": "Segera naikkan suhu air ke 28°C–30°C untuk mendukung daya tahan tubuh dan bawa ke dokter hewan reptil."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Pemeriksaan Suhu Air (24°C–28°C) & Menyalakan Lampu UVB/Pemanas (10–12 jam)",
+                        "text": "Periksa kinerja pemanas dan suhu air, lalu nyalakan lampu pemanas spot dan lampu UVB untuk merangsang metabolisme."
+                    },
+                    {
+                        "name": "Siang: Pemberian Pakan Sesuai Usia & Pemeriksaan Arus Filter",
+                        "text": "Beri pelet protein tinggi untuk kura-kura muda dan tambahkan sayuran untuk kura-kura dewasa, serta pastikan arus filter bekerja baik."
+                    },
+                    {
+                        "name": "Malam: Penyiphonan Kotoran Dasar & Mematikan Lampu Malam Hari",
+                        "text": "Siphon sisa pakan dan kotoran untuk mencegah lonjakan amonia, lalu matikan lampu untuk menjaga siklus siang-malam yang alami."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mengapa tempurung kura-kura saya lunak atau muncul bercak putih?",
+                        "answer": "Tempurung yang lunak menandakan Penyakit Tulang Metabolik (MBD) akibat kurang kalsium dan UVB. Bercak putih atau bau busuk menandakan Pembusukan Tempurung (Shell Rot) akibat infeksi bakteri. Ganti lampu UVB, berikan suplemen kalsium, dan pastikan area berjemur kering dengan baik."
+                    },
+                    {
+                        "question": "Apakah filter air wajib dan seberapa sering air harus diganti?",
+                        "answer": "Kura-kura menghasilkan kotoran dalam jumlah sangat banyak sehingga filter yang kuat (filter kanister/atas) wajib digunakan. Lakukan penggantian air sebagian 30–50% sebanyak 1–2 kali seminggu, dan selalu cuci tangan setelah memegang kura-kura untuk mencegah infeksi Salmonella."
+                    }
+                ],
+                "tags": [
+                    "KuraKuraBrasil",
+                    "KuraKuraAir",
+                    "PerawatanKuraKura",
+                    "BerjemurReptil"
+                ]
+            }
+        },
+        "category": "CareSelf",
+        "app": "careself",
+        "formatVersion": 4,
+        "heroImage": "/images/blog/red_eared_slider_care.webp"
+    }
+}

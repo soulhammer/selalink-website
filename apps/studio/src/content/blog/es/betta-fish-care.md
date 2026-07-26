@@ -13,11 +13,11 @@ authority: "Estándares de Salud de Animales Acuáticos de la Asociación Mundia
 steps:
   - name: "Comunicación del Betta: Despliegue de agallas (Flaring) y descanso en la superficie"
     text: "Abrir los tubérculos de las agallas y desplegar las aletas por completo—conocido como 'Flaring'—es una poderosa señal de advertencia territorial y excitación. Un ejercicio moderado de 5 minutos al día resulta beneficioso para las aletas, pero el Flaring constante debilita el sistema inmunológico."
-  - name: "Pez Betta (Betta splendens / Luchador de Siam)'s Body Language & Signals"
+  - name: "Lenguaje corporal y señales de conducta de Pez Betta (Betta splendens / Luchador de Siam)"
     text: "* Agallas abiertas y aletas desplegadas al máximo (Flaring): Advertencia por invasión territorial o manifestación de agresividad y estrés provocada por su propio reflejo en el cristal. (Retire espejos u objetos reflectantes cercanos al acuario para asegurar que el episodio no supere los 5 minutos.)
 
 * Reposando inmóvil sobre hojas cerca de la superficie (Labyrinth Resting): Comportamiento normal de descanso para aliviar el peso de sus aletas mientras respira aire atmosférico mediante el órgano laberinto. (No está enfermo; atenúe la iluminación y ajuste el filtro de esponja para evitar corrientes fuertes de agua.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutina diaria de 3 pasos para el cuidado de Pez Betta (Betta splendens / Luchador de Siam)"
     text: "* STEP 1. Mañana: Verificación de temperatura (24°C ~ 26°C) y corriente suave: Revise el termómetro para comprobar el calentador y asegúrese de que no existan corrientes fuertes que dificulten su nado.
 
 * STEP 2. Tarde: Alimentación dosificada con pellets de alta proteína y retiro de residuos: Suministre de 3 a 4 pellets de alta proteína específicos para Betta de forma dividida y retire el alimento no consumido en 5 minutos con una pipeta.
@@ -60,7 +60,7 @@ Con aletas deslumbrantes que se despliegan como un vestido y un nado elegante, e
 
 ---
 
-## 2. Pez Betta (Betta splendens / Luchador de Siam)'s Body Language & Signals
+## 2. Lenguaje corporal y señales de conducta de Pez Betta (Betta splendens / Luchador de Siam)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Con aletas deslumbrantes que se despliegan como un vestido y un nado elegante, e
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutina diaria de 3 pasos para el cuidado de Pez Betta (Betta splendens / Luchador de Siam)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

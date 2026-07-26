@@ -13,11 +13,11 @@ authority: "Guía de la raza Labrador Retriever del American Kennel Club (AKC) y
 steps:
   - name: "Lenguaje corporal del Labrador Retriever: 'Boca suave' y señales de comida"
     text: "Los Labrador Retrievers poseen un instinto conocido como 'Boca Suave' (Soft Mouth), desarrollado para cobrarse presas sin dañarlas. Llevar objetos suavemente en la boca sin destruirlos es una muestra de afecto y una invitación al juego. Por el contrario, apoyar la barbilla en su regazo mientras lo mira fijamente a los ojos es una señal discreta de pedigueño impulsada por su voraz apetito."
-  - name: "Labrador Retriever's Body Language & Signals"
+  - name: "Lenguaje corporal y señales de conducta de Labrador Retriever"
     text: "* Llevar objetos de forma delicada (Soft Mouth): Un comportamiento instintivo de cobro que demuestra un profundo afecto, confianza y deseo de interactuar. (Evite quitarle el objeto de forma brusca. Felicítelo y organice un juego de cobrar la pelota (Fetch).)
 
 * Apoyar la barbilla en el regazo y mirar fijamente: Una señal constante de búsqueda de comida causada por la mutación del gen POMC. (No ceda ante sus súplicas. Mantenga porciones de comida estrictas y utilice juguetes tipo nosework bajos en calorías.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutina diaria de 3 pasos para el cuidado de Labrador Retriever"
     text: "* STEP 1. Mañana: Comida en comedero lento y paseo apto para sus articulaciones: Utilice un comedero lento para evitar que coma demasiado rápido, seguido de un paseo en terreno plano para proteger sus caderas.
 
 * STEP 2. Tarde: Juego de lanzar y traer junto a limpieza de oídos post-natación: Realice juegos de cobro para quemar energía y seque bien sus oídos con un limpiador auricular canino tras actividades acuáticas.
@@ -60,7 +60,7 @@ El Labrador Retriever es una de las razas más amadas del mundo por su carácter
 
 ---
 
-## 2. Labrador Retriever's Body Language & Signals
+## 2. Lenguaje corporal y señales de conducta de Labrador Retriever
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ El Labrador Retriever es una de las razas más amadas del mundo por su carácter
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutina diaria de 3 pasos para el cuidado de Labrador Retriever
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

@@ -13,11 +13,11 @@ authority: "Weltunion der Vereine für Deutsche Schäferhunde (WUSV) & Tiermediz
 steps:
   - name: "Körpersprache des Deutschen Schäferhundes: Ohrenstellung und Fokus"
     text: "Der Deutsche Schäferhund drückt Emotionen präzise über Ohrenstellung und Körperhaltung aus. Aufgerichtete, nach vorne gerichtete Ohren und eine stramme Haltung signalisieren eine 'Aufmerksame Schutzhaltung' (Alert Posture) zur Überwachung der Umgebung. Das 'Schiefhalten des Kopfes' (Head Tilting) beim Zuhören ist dagegen ein Zeichen hoher kognitiver Konzentration, um Geräusche zu orten und die Absicht des Halters zu erfassen."
-  - name: "Deutscher Schäferhund (German Shepherd Dog)'s Body Language & Signals"
+  - name: "Körpersprache und Verhaltenssignale von Deutscher Schäferhund (German Shepherd Dog)"
     text: "* Aufgerichtete Ohren & angespannte Körperhaltung (Alert & Guarding Posture): Hohe Wachsamkeit und Umweltüberwachung aufgrund von Außenreizen oder Fremden. (Geben Sie mit ruhiger Stimme ein Abbruchkommando, ohne die Leine zu straffen, und lenken Sie den Fokus auf sich.)
 
 * Blick zum Halter mit seitlich geneigtem Kopf (Head Tilting): Aktive Neugier und kognitive Konzentration zur Analyse von Stimme und Sichtzeichen des Halters. (Wiederholen Sie Kommandos in deutlichem, freundlichem Ton und belohnen Sie richtiges Verhalten sofort.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Maßgeschneiderte 3-Schritte-Tagesroutine für Deutscher Schäferhund (German Shepherd Dog)"
     text: "* STEP 1. Morgen: Intervall-Spaziergang kombiniert mit Unterordnungsübungen: Bauen Sie Präzisionskommandos wie 'Fuß' oder 'Bleib' ein, um Geist und Körper gleichzeitig zu fordern.
 
 * STEP 2. Mittag: Anspruchsvolle Nasenarbeit (Nosework) & Arbeitssimulation: Bieten Sie komplexe Intelligenzspielzeuge oder Suchspiele an, um den Arbeitstrieb zu befriedigen und Unterforderung vorzubeugen.
@@ -60,7 +60,7 @@ Der Deutsche Schäferhund ist dank seiner Intelligenz, seines Mutes und seiner L
 
 ---
 
-## 2. Deutscher Schäferhund (German Shepherd Dog)'s Body Language & Signals
+## 2. Körpersprache und Verhaltenssignale von Deutscher Schäferhund (German Shepherd Dog)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Der Deutsche Schäferhund ist dank seiner Intelligenz, seines Mutes und seiner L
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Maßgeschneiderte 3-Schritte-Tagesroutine für Deutscher Schäferhund (German Shepherd Dog)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

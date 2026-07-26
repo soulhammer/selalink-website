@@ -13,11 +13,11 @@ authority: "World Union of German Shepherd Dog Clubs (WUSV) & Standar Medis Vete
 steps:
   - name: "Bahasa Tubuh German Shepherd: Sudut Telinga dan Sinyal Fokus"
     text: "German Shepherd mengekspresikan emosi dengan jelas melalui gerakan telinga dan postur tubuh. Telinga yang tegak menghadap ke depan dengan tubuh tegap menandakan 'Postura Waspada' (Alert Posture), kondisi naluriah untuk mengawasi lingkungan. Sebaliknya, 'Miringkan Kepala' (Head Tilting) saat mendengarkan adalah sinyal fokus kognitif tinggi untuk memetakan sumber suara dan memahami maksud pemilik."
-  - name: "German Shepherd (German Shepherd Dog)'s Body Language & Signals"
+  - name: "Bahasa Tubuh dan Sinyal Perilaku German Shepherd (German Shepherd Dog)"
     text: "* Telinga Tegak & Postur Tubuh Kaku (Alert & Guarding Posture): Status kewaspadaan tinggi dan pemantauan lingkungan akibat rangsangan luar atau orang asing. (Berikan perintah pengalihan dengan suara tenang tanpa menarik tali penuntun secara kencang, alihkan fokusnya kembali ke pemilik.)
 
 * Menatap Pemilik Sambil Memiringkan Kepala ke Kiri dan Kanan (Head Tilting): Rasa ingin tahu aktif dan fokus kognitif untuk menganalisis suara dan isyarat visual pemilik. (Ulangi perintah dengan nada jelas dan ceria, lalu segera berikan pujian atau hadiah saat merespons dengan benar.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutinitas Perawatan Harian 3 Langkah untuk German Shepherd (German Shepherd Dog)"
     text: "* STEP 1. Pagi: Jalan Lintas Interval Dikombinasikan dengan Latihan Kepatuhan: Sisipkan perintah presisi seperti 'tumit' atau 'diam' saat berjalan untuk membakar energi fisik dan mental sekaligus.
 
 * STEP 2. Siang: Permainan Penciuman (Nosework) Tingkat Lanjut & Simulasi Kerja: Sediakan mainan puzzle rumit atau pencarian benda untuk memuaskan naluri kerja dan mencegah kebosanan.
@@ -60,7 +60,7 @@ German Shepherd diakui di seluruh dunia sebagai anjing polisi, militer, dan kelu
 
 ---
 
-## 2. German Shepherd (German Shepherd Dog)'s Body Language & Signals
+## 2. Bahasa Tubuh dan Sinyal Perilaku German Shepherd (German Shepherd Dog)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ German Shepherd diakui di seluruh dunia sebagai anjing polisi, militer, dan kelu
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutinitas Perawatan Harian 3 Langkah untuk German Shepherd (German Shepherd Dog)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

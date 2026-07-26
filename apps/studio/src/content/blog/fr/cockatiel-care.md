@@ -13,11 +13,11 @@ authority: "Association of Avian Veterinarians (AAV) & Normes de Comportement Av
 steps:
   - name: "Communication de la Calopsitte: Signification de la Huppe et Demande de Gratouilles"
     text: "La huppe est une véritable antenne émotionnelle. Dressée verticalement, elle traduit l'alerte; penchée en avant avec la tête baissée, elle demande de l'affection."
-  - name: "Calopsitte Élégante (Nymphicus hollandicus / Cockatiel)'s Body Language & Signals"
+  - name: "Langage corporel et signaux comportementaux du Calopsitte Élégante (Nymphicus hollandicus / Cockatiel)"
     text: "* Huppe Complètement Dressée (Fully Erect Crest): Vigilance accrue ou curiosité vive face à un bruit ou un objet nouveau. (Parlez doucement et évitez les gestes brusques pour la rassurer.)
 
 * Tête Baissée vers l'Avant (Head Lowering for Scratches): Marque de confiance totale sollicitant des gratouilles sur les joues et la base de la huppe. (Grattez doucement la base de la huppe à rebrousse-poil.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Routine quotidienne en 3 étapes pour le soin du Calopsitte Élégante (Nymphicus hollandicus / Cockatiel)"
     text: "* STEP 1. Matin: Aération, Inspection du Plumage et Extrudés Frais: Découvrez la cage, renouvelez l'eau et les granulés et vérifiez la vitalité de l'oiseau.
 
 * STEP 2. Après-midi: Vol Libre Sécurisé et Jouets de Recherche: Offrez 1 - 2 heures de vol libre sécurisé avec des jouets de foraging pour stimuler son intellect.
@@ -60,7 +60,7 @@ Reconnue pour ses joues oranges et sa huppe expressive, la Calopsitte est un ois
 
 ---
 
-## 2. Calopsitte Élégante (Nymphicus hollandicus / Cockatiel)'s Body Language & Signals
+## 2. Langage corporel et signaux comportementaux du Calopsitte Élégante (Nymphicus hollandicus / Cockatiel)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Reconnue pour ses joues oranges et sa huppe expressive, la Calopsitte est un ois
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Routine quotidienne en 3 étapes pour le soin du Calopsitte Élégante (Nymphicus hollandicus / Cockatiel)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

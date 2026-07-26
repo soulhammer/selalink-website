@@ -13,11 +13,11 @@ authority: "鳥類獣医師会 (Association of Avian Veterinarians) ＆ ワー�
 steps:
   - name: "セキセイインコのボディランゲージ：嘴すり合わせと瞳孔収縮（Pinning）"
     text: "セキセイインコは嘴の音と瞳孔の大きさの変化で感情を表現します。就寝前の「嘴をジャリジャリ鳴らす動作（Beak Grinding）」は、リラックスして満足しているサインです。一方、興奮したり飼い主の声に集中している時の「瞳孔が小さくなって白目が浮き出る現象（Pupil Pinning）」は、強い好奇心や興奮状態を示しています。"
-  - name: "セキセイインコ (Budgerigar / Budgie)'s Body Language & Signals"
+  - name: "セキセイインコ (Budgerigar / Budgie)のボディランゲージと行動サイン"
     text: "* 嘴をジャリジャリとすり合わせる音 (Beak Grinding): 寝る前や環境に完全な安心感と満足感を抱いている時のリラックスサインです。 (ケージを刺激せず、部屋の照明を落として静かに眠れる環境を整えてあげましょう。)
 
 * 瞳孔が瞬間的に小さくなる (Pupil Pinning): 新しいおもちゃや飼い主の声、周囲の環境に大きく興奮・好奇心を抱いている状態です。 (興奮しすぎて噛みつきに発展しないよう、優しく落ち着いた声で話しかけて気持ちを鎮めましょう。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "セキセイインコ (Budgerigar / Budgie)のための3ステップホームケアルーティン"
     text: "* STEP 1. 朝：鳥用ペレットと新鮮な野菜の給餌＆換気: 脂肪肝を防ぐためにシードの割合を減らし、総合栄養ペレットと青菜（小松菜や人参など）を与え、部屋の空気を清潔に保ちます。
 
 * STEP 2. 昼：フォージング（採餌）玩具の交換と安全な放鳥時間: 退屈による毛引き症を防ぐためにフォージングトイを提供し、窓や扉を閉めた安全な部屋で放鳥運動をさせます。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. セキセイインコ (Budgerigar / Budgie)'s Body Language & Signals
+## 2. セキセイインコ (Budgerigar / Budgie)のボディランゲージと行動サイン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ faqs:
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. セキセイインコ (Budgerigar / Budgie)のための3ステップホームケアルーティン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

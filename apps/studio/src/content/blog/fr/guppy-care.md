@@ -13,11 +13,11 @@ authority: "International Fancy Guppy Association (IFGA) & Normes Vétérinaires
 steps:
   - name: "Langage corporel du Guppy : Nageoires collées et respiration en surface (Surface Gasping)"
     text: "Les guppys expriment leur état de santé et la qualité de l'eau par la posture de leurs nageoires et leur position de nage. Garder les nageoires serrées contre le corps en restant immobile « Nageoires collées (Clamped Fins) » signale un stress intense lié à l'ammoniaque ou à un choc thermique. À l'inverse, « La respiration en surface (Surface Gasping) » est une alerte urgente indiquant un manque d'oxygène dissous ou une atteinte branchiale liée à l'ammoniaque."
-  - name: "Guppy's Body Language & Signals"
+  - name: "Langage corporel et signaux comportementaux du Guppy"
     text: "* Nageoires collées au corps et immobilité dans les coins (Clamped Fins): Avertissement de stress environnemental dû à une hausse d'ammoniaque/nitrites, un choc de pH ou une variation de température. (Testez immédiatement le taux d'ammoniaque et effectuez un changement d'eau partiel de 20 à 30 % avec une eau déchlorée à la même température.)
 
 * Respiration rapide en surface (Surface Gasping): Signal de manque d'oxygène dissous, de panne du filtre ou de dysfonctionnement branchial dû à l'ammoniaque. (Activez un bulleur pour augmenter l'oxygène, vérifiez le débit du filtre et contrôlez la température de l'eau (24°C–26°C).)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Routine quotidienne en 3 étapes pour le soin du Guppy"
     text: "* STEP 1. Matin : Contrôle de la température (24°C–26°C) et distribution modérée de nourriture: Vérifiez le thermomètre et donnez une nourriture adaptée en quantité consommable en 2 à 3 minutes pour éviter la pollution.
 
 * STEP 2. Après-midi : Siphonage des déchets du sol et observation du bac: Aspirez les restes de nourriture et les déjections du substrat à l'aide d'un siphon pour réduire la charge d'ammoniaque.
@@ -60,7 +60,7 @@ Célèbre à la fois auprès des débutants et des aquariophiles confirmés, le 
 
 ---
 
-## 2. Guppy's Body Language & Signals
+## 2. Langage corporel et signaux comportementaux du Guppy
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Célèbre à la fois auprès des débutants et des aquariophiles confirmés, le 
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Routine quotidienne en 3 étapes pour le soin du Guppy
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

@@ -13,11 +13,11 @@ authority: "国际花色孔雀鱼协会 (IFGA) 与观赏鱼兽医护理标准"
 steps:
   - name: "孔雀鱼的肢体语言：夹鳍与水面浮头 (Surface Gasping)"
     text: "孔雀鱼通过鳍部形态和游动位置反映水质与健康状况。将尾鳍和背鳍紧紧夹缩并在水缸角落或底部静止“夹鳍 (Clamped Fins)”，是氨氮积聚或水温剧变引发的极度应激信号。相反，浮至水面频繁张嘴急促呼吸“水面浮头 (Surface Gasping)”，则是水中溶氧量不足或氨氮中毒导致鳃部受损的紧急警告。"
-  - name: "孔雀鱼 (Guppy)'s Body Language & Signals"
+  - name: "孔雀鱼 (Guppy) 的肢体语言与行为信号"
     text: "* 紧夹鳍条并在角落静止 (Clamped Fins): 氨氮/亚硝酸盐指标升高、pH值冲击或水温剧烈波动引发的环境应激警告。 (立即使用水质测试盒检测氨氮数值，并使用经过困水除氯且温差一致的水进行20% ~ 30%的部分换水。)
 
 * 浮至水面连续张嘴急促呼吸 (Surface Gasping): 缸内溶氧量不足、过滤器故障或氨氮中毒导致的鳃功能受损信号。 (开启气泵打氧增加溶氧量，检查过滤器出水量并确认水温（24°C ~ 26°C）。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "孔雀鱼 (Guppy) 定制化 3 步家庭护理流程"
     text: "* STEP 1. 早上：水温（24°C ~ 26°C）检测与少量分次喂食: 检查水温计，投喂可在2 ~ 3分钟内吃完的专用饲料，防止残饵腐败破坏水质。
 
 * STEP 2. 中午：底砂残饵排泄物吸管清理与水缸观察: 用抽水吸管吸出沉在底砂的残饵和排泄物，减轻过滤系统的氨氮负荷。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. 孔雀鱼 (Guppy)'s Body Language & Signals
+## 2. 孔雀鱼 (Guppy) 的肢体语言与行为信号
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -69,7 +69,7 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 氨氮/亚硝酸盐指标升高、pH值冲击或水温剧烈波动引发的环境应激警告。<br/>
-    <strong>•  national:</strong> 立即使用水质测试盒检测氨氮数值，并使用经过困水除氯且温差一致的水进行20% ~ 30%的部分换水。
+    <strong>• 应对:</strong> 立即使用水质测试盒检测氨氮数值，并使用经过困水除氯且温差一致的水进行20% ~ 30%的部分换水。
   </p>
 </div>
 
@@ -80,13 +80,13 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 缸内溶氧量不足、过滤器故障或氨氮中毒导致的鳃功能受损信号。<br/>
-    <strong>•  national:</strong> 开启气泵打氧增加溶氧量，检查过滤器出水量并确认水温（24°C ~ 26°C）。
+    <strong>• 应对:</strong> 开启气泵打氧增加溶氧量，检查过滤器出水量并确认水温（24°C ~ 26°C）。
   </p>
 </div>
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. 孔雀鱼 (Guppy) 定制化 3 步家庭护理流程
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

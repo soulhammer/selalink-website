@@ -13,11 +13,11 @@ authority: "シベリアンハスキークラブオブアメリカ公式ガイ�
 steps:
   - name: "ハスキーのボディランゲージ：退屈な遠吠えと前足を乗せるしぐさ"
     text: "シベリアンハスキーはそり犬としての集団生活の習性が残っており、声としぐさで自己アピールします。代表的な言語は「遠吠え（ハウリング）」と「足を乗せる動作（Paw Offering）」です。首を長く伸ばして吠えるハウリングは、寂しさの表現だけでなく、運動量不足に対する退屈をアピールする信号です。また、目を合わせて前足を乗せる動作は、「退屈だから遊ぼう、外へ行こう」というアピールです。コマンドの練習やおもちゃでエネルギーをそらしてあげましょう。"
-  - name: "シベリアンハスキー (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "シベリアンハスキー (Canis lupus familiaris)のボディランゲージと行動サイン"
     text: "* 遠吠え (Howling): 運動量不足による退屈と欲求不満を表し、飼い主の気を引こうとするサインです。 (屋外へ出てアクティブなお散歩に行くか、室内で難しいノーズワークマットを用意しましょう。)
 
 * 前足を乗せるしぐさ (Paw Offering): 対等な仲間関係において、遊びやお散歩、何らかの要求を執拗に行うしぐさです。 (要求のたびに応じるのではなく、コマンド（お座り等）を出してからご褒美をあげ、秩序を教えましょう。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "シベリアンハスキー (Canis lupus familiaris)のための3ステップホームケアルーティン"
     text: "* STEP 1. 朝：Y型ハーネスの装着と引っ張り癖の管理: 散歩中に強く引っ張る本能があるため、喉への圧迫を防ぐY型ハーネスを装着し、飼い主のペースに合わせて歩く練習を行います。
 
 * STEP 2. 昼：エアコンによる冷却マットの設定とダブルコートの抜け毛処理: 暑さに弱いためエアコンで冷涼な環境を作り、密集した極地用ダブルコートの抜け毛をスリッカーブラシで取り除いて熱放散を促します。
@@ -64,7 +64,7 @@ faqs:
 
 ---
 
-## 2. シベリアンハスキー (Canis lupus familiaris)'s Body Language & Signals
+## 2. シベリアンハスキー (Canis lupus familiaris)のボディランゲージと行動サイン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -90,7 +90,7 @@ faqs:
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. シベリアンハスキー (Canis lupus familiaris)のための3ステップホームケアルーティン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

@@ -13,11 +13,11 @@ authority: "Dermatologie-Richtlinien der ISFM (International Society of Feline M
 steps:
   - name: "Körpersprache der Sphynx: Wärmesuche und tiefes Vertrauen"
     text: "Da Sphynx-Katzen leicht frieren, suchen sie aktiv nach Wärme, indem sie sich eng an Ihren Hals, Schoß oder unter die Bettdecke kuscheln. Das Anschmiegen an Ihre Haut bei gleichzeitigem Schnurren drückt sowohl tiefe Zuneigung als auch das instinktive Bedürfnis nach Körperwärme aus. Fühlt sich ihre Haut kühl an oder rollt sie sich fest zusammen, sollten Sie die Raumtemperatur umgehend anpassen."
-  - name: "Sphynx-Katze (Sphynx Cat)'s Body Language & Signals"
+  - name: "Körpersprache und Verhaltenssignale von Sphynx-Katze (Sphynx Cat)"
     text: "* Wärmesuche (Anschmiegen an Haut oder Wärmequellen): Signalisiert, dass die Umgebungsluft kalt ist und die Körpertemperatur sinkt; die Katze fordert Wärme ein. (Passen Sie die Raumtemperatur auf 22–26 °C an, ziehen Sie der Katze weiche Baumwollkleidung an und bieten Sie eine sichere Heizmatte oder Höhle an.)
 
 * Augen zukneifen und Schnurren: Ein Zustand tiefer körperlicher Entspannung, angenehmer Wärme und vollkommenen Vertrauens in den Besitzer. (Streicheln Sie den warmen Körper sanft und lassen Sie die Katze gemütlich an Ihrer Seite ruhen.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Maßgeschneiderte 3-Schritte-Tagesroutine für Sphynx-Katze (Sphynx Cat)"
     text: "* STEP 1. Morgen: Sanfte Faltenreinigung mit warmem Tuch: Wischen Sie braunen Talg an Hals, Hautfalten und Pfoten vorsichtig mit einem feuchten, warmen Tuch ab, um Mitessern und Hautinfektionen vorzubeugen.
 
 * STEP 2. Nachmittag: Sonnenschutz zur Vermeidung von UV-Schäden: Haarlose Haut reagiert empfindlich auf direkte Sonne und erleidet leicht Sonnenbrand (Lichtdermatitis). Nutzen Sie Vorhänge, um intensives Sonnenlicht abzuschirmen.
@@ -60,7 +60,7 @@ Die Sphynx-Katze ist eine faszinierende Rasse, die aufgrund einer natürlichen G
 
 ---
 
-## 2. Sphynx-Katze (Sphynx Cat)'s Body Language & Signals
+## 2. Körpersprache und Verhaltenssignale von Sphynx-Katze (Sphynx Cat)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Die Sphynx-Katze ist eine faszinierende Rasse, die aufgrund einer natürlichen G
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Maßgeschneiderte 3-Schritte-Tagesroutine für Sphynx-Katze (Sphynx Cat)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

@@ -13,11 +13,11 @@ authority: "Guía Oficial de Cuidado del Bulldog Francés del AKC y Estándares 
 steps:
   - name: "Lenguaje corporal del Bulldog Francés: Sonidos de respiración braquicéfala y señales de calor"
     text: "Cuando tienen dificultades de flujo de aire por vías estrechas, los Bulldogs Franceses emiten sonidos distintivos de 'estridor o estertor'. Si estiran el cuello excesivamente mientras jadean con la lengua afuera, es una señal de alerta crítica de aumento rápido de temperatura que requiere intervención inmediata."
-  - name: "Bulldog Francés (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "Lenguaje corporal y señales de conducta de Bulldog Francés (Canis lupus familiaris)"
     text: "* Respiración ruda y estridor (Stridor / Stertor): Indica flujo de aire restringido por conductos nasales estrechos y aumento de temperatura en estado de excitación. (Lleve al perro de inmediato a un área interior con aire acondicionado o a la sombra, y ofrezca agua fresca para un descanso tranquilo.)
 
 * Jadeo con cuello estirado: Señal de advertencia crítica que muestra al perro inhalando oxígeno deseperadamente con el cuello extendido para enfriarse. (Ajuste la temperatura interior a 22-24°C, limpie sus almohadillas y cuerpo con una toalla húmeda y fresca para bajar el calor.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutina diaria de 3 pasos para el cuidado de Bulldog Francés (Canis lupus familiaris)"
     text: "* STEP 1. Mañana: Limpieza y secado de arrugas faciales: Limpie los pliegues faciales alrededor de ojos y nariz con una toallita libre de alcohol, y seque muy bien para evitar infecciones por levaduras.
 
 * STEP 2. Tarde: Paseo ligero de 15 minutos en plano para evitar el golpe de calor: Evite las horas de calor por completo. Realice caminatas cortas de 15 minutos en terrenos planos temprano en la mañana o por la noche.
@@ -60,7 +60,7 @@ Con sus características orejas de murciélago y su cara achatada, el Bulldog Fr
 
 ---
 
-## 2. Bulldog Francés (Canis lupus familiaris)'s Body Language & Signals
+## 2. Lenguaje corporal y señales de conducta de Bulldog Francés (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Con sus características orejas de murciélago y su cara achatada, el Bulldog Fr
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutina diaria de 3 pasos para el cuidado de Bulldog Francés (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

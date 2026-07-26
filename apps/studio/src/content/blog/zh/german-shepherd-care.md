@@ -13,11 +13,11 @@ authority: "世界德国牧羊犬协会 (WUSV) 与美国德国牧羊犬协会 (G
 steps:
   - name: "德国牧羊犬的肢体语言：耳朵角度与专注信号"
     text: "德牧通过耳朵动作的姿态清晰地表达情绪。双耳直立向前并挺拔站立，代表处于“高度警惕姿态 (Alert Posture)”，是观察周围环境的本能表现。相反，听指令时“歪头的动作 (Head Tilting)”则是为了精准定位声音来源并理解主人意图的高阶认知专注信号。"
-  - name: "德国牧羊犬 (German Shepherd Dog)'s Body Language & Signals"
+  - name: "德国牧羊犬 (German Shepherd Dog) 的肢体语言与行为信号"
     text: "* 双耳直立且身体紧绷 (Alert & Guarding Posture): 对外部刺激或陌生目标产生强烈警惕与环境监控状态。 (用平静的语气下达解除指令，切勿紧拉牵引绳，引导其将注意力转移回主人身上。)
 
 * 注视主人并左右歪头 (Head Tilting): 试图精确分析主人的声音与视觉信号的积极好奇心与认知专注状态。 (用清晰明亮的语气重复指令，并在其做出正确反应时立即给予明确奖励。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "德国牧羊犬 (German Shepherd Dog) 定制化 3 步家庭护理流程"
     text: "* STEP 1. 早上：结合服从性训练的变速跑散步: 在散步中穿插“等待”、“随行”等精细指令，同时消耗大脑与体能的能量。
 
 * STEP 2. 中午：高难度嗅闻 (Nosework) 与模拟工作游戏: 提供复杂的益智玩具或寻物游戏，满足其工作天性并预防无聊。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. 德国牧羊犬 (German Shepherd Dog)'s Body Language & Signals
+## 2. 德国牧羊犬 (German Shepherd Dog) 的肢体语言与行为信号
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -69,7 +69,7 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 对外部刺激或陌生目标产生强烈警惕与环境监控状态。<br/>
-    <strong>•  national:</strong> 用平静的语气下达解除指令，切勿紧拉牵引绳，引导其将注意力转移回主人身上。
+    <strong>• 应对:</strong> 用平静的语气下达解除指令，切勿紧拉牵引绳，引导其将注意力转移回主人身上。
   </p>
 </div>
 
@@ -80,13 +80,13 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 试图精确分析主人的声音与视觉信号的积极好奇心与认知专注状态。<br/>
-    <strong>•  national:</strong> 用清晰明亮的语气重复指令，并在其做出正确反应时立即给予明确奖励。
+    <strong>• 应对:</strong> 用清晰明亮的语气重复指令，并在其做出正确反应时立即给予明确奖励。
   </p>
 </div>
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. 德国牧羊犬 (German Shepherd Dog) 定制化 3 步家庭护理流程
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

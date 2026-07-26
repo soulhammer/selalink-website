@@ -13,11 +13,11 @@ authority: "Diretrizes de Manejo de Chinchilas da Association of Exotic Mammal V
 steps:
   - name: "Linguagem corporal da chinchila: Salivação com descarte de feno e sinais de prostração por calor"
     text: "Se a chinchila apresentar 'salivação excessiva e descarte de feno', molhando o pelo ao redor do focinho, este é um forte sinal de alerta para maloclusão dentária grave. Por outro lado, 'deitar de lado com respiração acelerada' indica um estado crítico de hipertermia que exige resfriamento imediato."
-  - name: "Chinchila (Chinchilla lanigera)'s Body Language & Signals"
+  - name: "Linguagem corporal e sinais de comportamento do Chinchila (Chinchilla lanigera)"
     text: "* Salivação e recusa de feno (Drooling): Dentes excessivamente longos decorrentes da maloclusão perfuram o céu da boca ou a parede interna da bochecha, impedindo a deglutição da saliva e bloqueando a mastigação devido à dor intensa. (Leve o animal imediatamente a um hospital veterinário especializado em animais exóticos para realizar o desgasto ou corte dentário com instrumentos adequados.)
 
 * Deitado de lado com respiração acelerada: A temperatura ambiente elevada provocou um pico na temperatura corporal, deixando o animal exausto e em estresse térmico grave com vias aéreas dilatadas. (Ligue o ar-condicionado imediatamente para baixar a temperatura ambiente para menos de 20 °C e coloque placas de mármore frio ou garrafas de água congelada enroladas em toalhas na gaiola.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rotina diária de 3 passos para cuidados com Chinchila (Chinchilla lanigera)"
     text: "* STEP 1. Manhã: Fornecimento ilimitado de feno Timothy rico em fibras duras: Para evitar que os dentes cresçam continuamente sem controle, forneça sempre feno Timothy fresco e de fibra grossa para induzir o desgaste dentário natural durante a mastigação.
 
 * STEP 2. Tarde: Controle climático rigoroso o ano todo para prevenção de hipertermia e umidade: Mantenha a temperatura do ambiente entre 18 e 21 °C e a umidade abaixo de 40-50% usando ar-condicionado e desumidificadores constantemente para recriar o clima alpino.
@@ -60,7 +60,7 @@ Com uma pelagem sedosa e extremamente macia e um corpo arredondado adorável, a 
 
 ---
 
-## 2. Chinchila (Chinchilla lanigera)'s Body Language & Signals
+## 2. Linguagem corporal e sinais de comportamento do Chinchila (Chinchilla lanigera)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Com uma pelagem sedosa e extremamente macia e um corpo arredondado adorável, a 
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rotina diária de 3 passos para cuidados com Chinchila (Chinchilla lanigera)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

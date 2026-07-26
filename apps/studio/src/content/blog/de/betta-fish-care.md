@@ -13,11 +13,11 @@ authority: "Richtlinien der World Small Animal Veterinary Association (WSAVA) f�
 steps:
   - name: "Betta-Kommunikation: Kiemenabspreizen (Flaring) und Ruhen an der Oberfläche"
     text: "Das Abspreizen der Kiemendeckel und das vollständige Aufstellen der Flossen – das sogenannte 'Flaring' – ist ein starkes Warn- und Erregungssignal. Ein kurzes, tägliches Training von 5 Minuten hält die Flossen elastisch, doch dauerhafter Stress schwächt das Immunsystem."
-  - name: "Siamesischer Kampffisch (Betta splendens)'s Body Language & Signals"
+  - name: "Körpersprache und Verhaltenssignale von Siamesischer Kampffisch (Betta splendens)"
     text: "* Abspreizen der Kiemendeckel und maximale Flossendehnung (Flaring): Revierverteidigung oder aggressiver Stress, ausgelöst durch das eigene Spiegelbild an den Beckenscheiben. (Entfernen Sie Spiegel oder reflektierende Gegenstände neben dem Aquarium, damit das Verhalten nicht länger als 5 Minuten anhält.)
 
 * Ruhiges Liegen auf Pflanzenblättern nahe der Oberfläche (Labyrinth Resting): Normales Ruheverhalten, um das Gewicht der Flossen zu entlasten und tief zu schlafen, während Luft über das Labyrinthorgan geholt wird. (Kein Krankheitszeichen; dimmen Sie das Licht und stellen Sie den Schwammfilter so ein, dass keine starke Strömung entsteht.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Maßgeschneiderte 3-Schritte-Tagesroutine für Siamesischer Kampffisch (Betta splendens)"
     text: "* STEP 1. Morgen: Temperaturkontrolle (24°C ~ 26°C) & Prüfung der schwachen Strömung: Überprüfen Sie das Thermometer und die Heizung. Stellen Sie sicher, dass keine starke Strömung das Schwimmen erschwert.
 
 * STEP 2. Mittag: Portionierte Fütterung von Betta-Pellets & Futterreste entfernen: Füttern Sie 3 bis 4 proteinreiche Betta-Pellets aufgeteilt. Saugen Sie nicht gefressenes Futter nach 5 Minuten mit einer Pipette ab.
@@ -60,7 +60,7 @@ Mit seinen prachtvollen, wie ein Kleid gefächerten Flossen und seinen eleganten
 
 ---
 
-## 2. Siamesischer Kampffisch (Betta splendens)'s Body Language & Signals
+## 2. Körpersprache und Verhaltenssignale von Siamesischer Kampffisch (Betta splendens)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Mit seinen prachtvollen, wie ein Kleid gefächerten Flossen und seinen eleganten
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Maßgeschneiderte 3-Schritte-Tagesroutine für Siamesischer Kampffisch (Betta splendens)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

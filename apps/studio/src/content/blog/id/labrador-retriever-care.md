@@ -13,11 +13,11 @@ authority: "Panduan Ras Labrador Retriever American Kennel Club (AKC) & Standar 
 steps:
   - name: "Bahasa Tubuh Labrador Retriever: 'Mulut Lembut' dan Sinyal Meminta Makanan"
     text: "Labrador Retriever memiliki naluri unik yang disebut 'Mulut Lembut' (Soft Mouth), yang berkembang untuk mengambil buruan tanpa merusaknya. Membawa benda secara perlahan di mulut tanpa menggigitnya hingga rusak adalah bentuk kasih sayang dan ajakan bermain. Sebaliknya, menyandarkan dagu di pangkuan Anda sambil menatap tajam adalah sinyal meminta makanan akibat nafsu makan mereka yang besar."
-  - name: "Labrador Retriever's Body Language & Signals"
+  - name: "Bahasa Tubuh dan Sinyal Perilaku Labrador Retriever"
     text: "* Membawa Benda dengan Lembut (Soft Mouth): Perilaku naluriah anjing pemungut (retriever) yang menunjukkan kasih sayang, kepercayaan, dan keinginan berinteraksi. (Jangan merebut benda secara paksa. Berikan pujian lalu lanjutkan dengan permainan lempar tangkap (fetch).)
 
 * Menyandarkan Dagu di Pangkuan & Menatap (Begging): Sinyal lapar terus-menerus yang disebabkan oleh mutasi gen POMC untuk meminta camilan. (Jangan menuruti kebiasaan meminta makanan. Jaga porsi makan secara ketat dan gunakan mainan pemelihara penciuman (nosework) rendah kalori.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutinitas Perawatan Harian 3 Langkah untuk Labrador Retriever"
     text: "* STEP 1. Pagi: Makan dengan Mangkuk Slow Feeder & Jalan Santai Ramah Sendi: Gunakan mangkuk slow feeder untuk mencegah mereka makan terlalu cepat, lalu ajak jalan-jalan di permukaan datar untuk melindungi sendi pinggul.
 
 * STEP 2. Siang: Permainan Lempar Tangkap & Pembersihan Telinga Pasca Berenang: Lakukan permainan lempar tangkap untuk membakar energi, dan keringkan telinga mereka secara menyeluruh dengan pembersih telinga anjing setelah bermain air.
@@ -60,7 +60,7 @@ Labrador Retriever adalah salah satu ras anjing paling dicintai di dunia karena 
 
 ---
 
-## 2. Labrador Retriever's Body Language & Signals
+## 2. Bahasa Tubuh dan Sinyal Perilaku Labrador Retriever
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Labrador Retriever adalah salah satu ras anjing paling dicintai di dunia karena 
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutinitas Perawatan Harian 3 Langkah untuk Labrador Retriever
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

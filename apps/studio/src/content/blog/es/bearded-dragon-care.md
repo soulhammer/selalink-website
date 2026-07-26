@@ -13,11 +13,11 @@ authority: "Directrices de cría de la Association of Reptilian and Amphibian Ve
 steps:
   - name: "Lenguaje corporal del dragón barbudo: cabezadas y braceo"
     text: "Los dragones barbudos utilizan gestos únicos para marcar su jerarquía y transmitir emociones. Sacudir la cabeza enérgicamente de arriba abajo, conocido como 'Head Bobbing', es una clara muestra de dominancia y territorialidad. Por el contrario, mover lentamente una pata delantera en círculos en el aire, llamado 'Arm Waving', es una señal social de sumisión, pacificación y amabilidad que expresa 'no soy una amenaza'."
-  - name: "Dragón Barbudo (Pogona vitticeps)'s Body Language & Signals"
+  - name: "Lenguaje corporal y señales de conducta de Dragón Barbudo (Pogona vitticeps)"
     text: "* Head Bobbing (Sacudida rápida de cabeza): Demostración de dominancia y reclamo territorial. Suele ocurrir al ver a otros ejemplares o al alterarse por su propio reflejo en el cristal. (Manténgalo en un terrario individual como regla estricta para evitar el estrés por cohabitación, y use vinilos antirreflejantes en las paredes de cristal.)
 
 * Arm Waving (Braceo o movimiento circular): Señal social pacífica y de sumisión que indica la ausencia de intenciones agresivas, dirigida a seres más grandes o a su cuidador. (Acérquese desde una posición baja y de forma suave, háblele con voz pausada y proporciónele un premio para que identifique al humano como una presencia segura.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutina diaria de 3 pasos para el cuidado de Dragón Barbudo (Pogona vitticeps)"
     text: "* STEP 1. Mañana: Encendido de la fuente de calor y la lámpara UVB: Encienda el foco de calor focalizado y la luz UVB. Asegúrese de que el punto de asoleamiento alcance entre 35 y 40 °C para elevar su temperatura e iniciar la digestión.
 
 * STEP 2. Tarde: Alimentación con insectos ricos en nutrientes y calcio: Ofrézcale insectos vivos espolvoreados con calcio en polvo (con D3 para ejemplares de interior) junto con verduras frescas ricas en calcio como chicoria y col china.
@@ -60,7 +60,7 @@ El dragón barbudo es uno de los reptiles de compañía más queridos en todo el
 
 ---
 
-## 2. Dragón Barbudo (Pogona vitticeps)'s Body Language & Signals
+## 2. Lenguaje corporal y señales de conducta de Dragón Barbudo (Pogona vitticeps)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ El dragón barbudo es uno de los reptiles de compañía más queridos en todo el
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutina diaria de 3 pasos para el cuidado de Dragón Barbudo (Pogona vitticeps)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

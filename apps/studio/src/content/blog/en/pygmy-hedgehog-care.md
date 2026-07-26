@@ -13,11 +13,11 @@ authority: "Hedgehog Welfare Society Guidelines and Exotic Animal Veterinary Pro
 steps:
   - name: "African Pygmy Hedgehog Instincts: Self-Anointing Froth and Quill Defense"
     text: "When African Pygmy Hedgehogs taste or smell something unfamiliar, they generate foamy saliva in their mouth and spread it across their quills—a behavior known as 'Self-Anointing'. This is a normal wild instinct used to disguise their scent. Conversely, when frightened, they curl into a tight ball and emit sharp 'Hissing' sounds to warn off physical contact."
-  - name: "African Pygmy Hedgehog (Atelerix albiventris)'s Body Language & Signals"
+  - name: "African Pygmy Hedgehog (Atelerix albiventris)'s Body Language & Behavioral Signals"
     text: "* Self-Anointing Froth Application: A harmless wild instinct to register new environmental scents and coat their quills to camouflage themselves. (Do not interrupt them or mistake it for a neurological illness; allow them to comfortably familiarize themselves with the scent.)
 
 * Hissing & Curling into a Ball (Hissing/Ball-up): A defensive posture triggered by intense fear, raising quills to block any physical contact. (Avoid bare-hand handling. Cover them gently with a soft fleece blanket to create a dark shelter and let them settle.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Customized 3-Step Home Care Routine for African Pygmy Hedgehog (Atelerix albiventris)"
     text: "* STEP 1. Morning: Scrubbing Soiled Running Wheels & Dishes: Since hedgehogs naturally defecate while running on their wheel at night, clean and sanitize their wheel and dishes every morning.
 
 * STEP 2. Afternoon: Maintaining Room Temperatures Between 24-26°C: Prevent hypothermia and fatal forced hibernation by regularly checking heating pads and digital thermostats.
@@ -60,7 +60,7 @@ The African Pygmy Hedgehog is a quiet, fascinating exotic pet known for its twit
 
 ---
 
-## 2. African Pygmy Hedgehog (Atelerix albiventris)'s Body Language & Signals
+## 2. African Pygmy Hedgehog (Atelerix albiventris)'s Body Language & Behavioral Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ The African Pygmy Hedgehog is a quiet, fascinating exotic pet known for its twit
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Customized 3-Step Home Care Routine for African Pygmy Hedgehog (Atelerix albiventris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

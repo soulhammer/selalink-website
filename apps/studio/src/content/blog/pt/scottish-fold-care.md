@@ -13,11 +13,11 @@ authority: "Protocolo de cartilagem hereditária da ISFM (International Society 
 steps:
   - name: "Linguagem corporal do Fold: Posição de Buda e cauda escondida"
     text: "Os Scottish Folds usam posturas únicas para amenizar a dor articular hereditária. Os dois sinais mais claros são a 'posição de Buda' e a 'cauda baixa ou escondida'. Sentar com o quadril apoiado, coluna reclinada e patas estendidas para a frente (posição de Buda) não é um truque fofo; é uma postura instintiva para dispersar a carga do peso corporal e aliviar a pressão nas articulações rígidas das patas. Esconder a cauda ou mantê-la abaixada entre as patas traseiras avisa que as vértebras caudais estão doloridas ou enrijecidas. Evite tocar na região lombar ou cauda ao notar isso."
-  - name: "Scottish Fold's Body Language & Signals"
+  - name: "Linguagem corporal e sinais de comportamento do Scottish Fold"
     text: "* Posição de Buda: Uma postura instintiva adotada para redistribuir o peso corporal e reduzir a dor articular causada pela doença hereditária da cartilagem. (Não force a mudança de postura. Coloque uma almofada macia atrás das costas do gato para apoiar sua posição confortavelmente.)
 
 * Cauda baixa ou escondida: Um sinal defensivo indicando enrijecimento ou dor nas vértebras da cauda, rejeitando toques no local. (Interrompa imediatamente o toque na cauda e região lombar, e guie o gato para um tapete macio e confortável.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rotina diária de 3 passos para cuidados com Scottish Fold"
     text: "* STEP 1. Manhã: Análise da marcha e suplementação de cartilagem: Observe a marcha do gato por 30 segundos ao acordar para verificar rigidez ou claudicação. Administre suplementos articulares (glucosamina, condroitina, MSM, Ômega-3) misturados na refeição matinal.
 
 * STEP 2. Tarde: Inspeção do conduto auditivo e limpeza semanal: As orelhas dobradas retêm umidade por falta de ventilação. Nunca use hastes flexíveis (cotonetes) no conduto auditivo. Aplique gotas de ceruminolítico felino, massageie suavemente a base da orelha, deixe o gato balançar a cabeça e limpe os resíduos externos com algodão.
@@ -64,7 +64,7 @@ Hoje, o PetSelf decodifica os sinais físicos de dor do Scottish Fold e apresent
 
 ---
 
-## 2. Scottish Fold's Body Language & Signals
+## 2. Linguagem corporal e sinais de comportamento do Scottish Fold
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -90,7 +90,7 @@ Hoje, o PetSelf decodifica os sinais físicos de dor do Scottish Fold e apresent
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rotina diária de 3 passos para cuidados com Scottish Fold
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

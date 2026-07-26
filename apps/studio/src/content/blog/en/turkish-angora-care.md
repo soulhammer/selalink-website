@@ -13,11 +13,11 @@ authority: "Cat Fanciers' Association (CFA) Turkish Angora Breed Council & Veter
 steps:
   - name: "Turkish Angora Body Language: Deafness Signs and Vibration Sensitivity"
     text: "Deaf cats display unique behaviors such as 'unmodulated loud vocalization' because they cannot monitor their own vocal volume and feel frustrated trying to communicate. Instead, they rely heavily on sensing 'floor vibrations' through their paw pads. Understanding these adaptations prevents startling them and avoids fear-induced aggression."
-  - name: "Turkish Angora's Body Language & Signals"
+  - name: "Turkish Angora's Body Language & Behavioral Signals"
     text: "* Loud Unmodulated Vocalization: Meowing very loudly or screaming into the air without acoustic volume control, driven by hearing loss and a desire for interaction. (Avoid startling them from behind. Approach from within their direct field of vision using gentle hand gestures or visual cues.)
 
 * Floor Vibration Sensitivity: Using paw pads (Pacinian corpuscles) to detect subtle mechanical vibrations through the floor to track approaching people or objects. (Gently tap the floor or wall with your foot or hand before walking nearby so they sense your presence in advance without panic.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Customized 3-Step Home Care Routine for Turkish Angora"
     text: "* STEP 1. Morning: Visual Greeting & Positive Hand Sign Training: Say good morning using friendly hand signals and slow blinks rather than verbal calls, creating a calm, stress-free morning ritual.
 
 * STEP 2. Afternoon: High Vertical Space Setup and Safety Fall Check: Provide sturdy cat trees and shelves for this climbing breed, but ensure padding and fixations are secure, as deafness can occasionally impair spatial balance.
@@ -60,7 +60,7 @@ Boasting elegant, silky single coats and striking eyes, Turkish Angoras are high
 
 ---
 
-## 2. Turkish Angora's Body Language & Signals
+## 2. Turkish Angora's Body Language & Behavioral Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Boasting elegant, silky single coats and striking eyes, Turkish Angoras are high
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Customized 3-Step Home Care Routine for Turkish Angora
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

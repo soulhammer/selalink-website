@@ -13,11 +13,11 @@ authority: "Panduan Ras Border Collie Kennel Club (KC) Inggris & Standar Perilak
 steps:
   - name: "Bahasa Tubuh Border Collie: Tatapan Tajam dan Sinyal Energi"
     text: "Border Collie memiliki perilaku naluriah khas yang dikenal sebagai 'The Eye', yaitu menatap tajam untuk mengendalikan objek yang bergerak. Merundukkan tubuh dan menatap tajam menandakan konsentrasi tingkat tinggi saat menggiring. Sebaliknya, membuka mulut sedikit sambil mengibaskan ekor secara lebar adalah sinyal ramah yang menunjukkan keinginan untuk berinteraksi dengan pemilik."
-  - name: "Border Collie (Border Collie)'s Body Language & Signals"
+  - name: "Bahasa Tubuh dan Sinyal Perilaku Border Collie (Border Collie)"
     text: "* Tubuh Merunduk & Tatapan Tajam (The Eye): Kondisi terfokus secara naluriah untuk menggiring atau mengendalikan objek dan hewan yang bergerak. (Segera panggil namanya untuk mengalihkan pandangan ke pemilik dan berikan pujian agar tidak berkembang menjadi perilaku mengejar yang berbahaya.)
 
 * Mulut Terbuka & Ekor Mengibas Lebar: Energi fisik dan mental penuh, siap untuk memulai permainan yang menyenangkan bersama pemilik. (Waktu yang tepat untuk memulai aktivitas cerdas seperti lempar frisbee atau permainan agility daripada sekadar melempar bola.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutinitas Perawatan Harian 3 Langkah untuk Border Collie (Border Collie)"
     text: "* STEP 1. Pagi: Lari Interval yang Dikombinasikan dengan Latihan Kepatuhan: Sisipkan perintah seperti 'tunggu' atau 'putar' di sela-sela lari saat jalan-jalan agar mereka menggunakan otak sambil membakar energi.
 
 * STEP 2. Siang: Mainan Teka-Teki Interaktif Multitingkat (Brain Games): Sediakan mainan puzzle bertingkat yang membutuhkan trik pembukaan kunci untuk memuaskan rasa ingin tahu kognitif dan mencegah kebosanan.
@@ -60,7 +60,7 @@ Border Collie diakui secara luas sebagai ras anjing tercerdas di dunia, memiliki
 
 ---
 
-## 2. Border Collie (Border Collie)'s Body Language & Signals
+## 2. Bahasa Tubuh dan Sinyal Perilaku Border Collie (Border Collie)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Border Collie diakui secara luas sebagai ras anjing tercerdas di dunia, memiliki
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutinitas Perawatan Harian 3 Langkah untuk Border Collie (Border Collie)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

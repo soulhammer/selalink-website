@@ -13,11 +13,11 @@ authority: "Guía de la raza Border Collie del Kennel Club (KC) y Estándares de
 steps:
   - name: "Lenguaje corporal del Border Collie: Fijeza visual y señales de energía"
     text: "Los Border Collies poseen una conducta instintiva única llamada 'El Ojo' (The Eye), que consiste en mirar fijamente para controlar objetos o animales en movimiento. Agacharse y mirar fijamente representa una concentración extrema. Por el contrario, mantener la boca ligeramente abierta mientras agitan la cola en amplios círculos es una señal amistosa que expresa ganas de interactuar con su dueño."
-  - name: "Border Collie (Border Collie)'s Body Language & Signals"
+  - name: "Lenguaje corporal y señales de conducta de Border Collie (Border Collie)"
     text: "* Cuerpo agachado y mirada fija intensa (The Eye): Estado de concentración instintivo activado para pastorear o controlar objetos en movimiento. (Llámelo de inmediato por su nombre para redirigir la mirada hacia usted y prémielo para evitar conductas de persecución peligrosas.)
 
 * Boca abierta y movimiento amplio de cola: Cargado de energía física y mental, listo para cooperar y jugar activamente con su dueño. (Es el momento perfecto para actividades de agilidad o frisbee en lugar de juegos sencillos de lanzar la pelota.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutina diaria de 3 pasos para el cuidado de Border Collie (Border Collie)"
     text: "* STEP 1. Mañana: Carrera a intervalos combinada con comandos de obediencia: Combine sprints con órdenes como 'espera' o 'gira' durante el paseo para exigir esfuerzo mental mientras quema energía.
 
 * STEP 2. Tarde: Juguetes interactivos de rompecabezas multinivel (Brain Games): Proporcione rompecabezas de varios pasos que requieran desbloquear mecanismos para satisfacer su curiosidad cognitiva y evitar el aburrimiento.
@@ -60,7 +60,7 @@ El Border Collie es ampliamente conocido como la raza de perro más inteligente 
 
 ---
 
-## 2. Border Collie (Border Collie)'s Body Language & Signals
+## 2. Lenguaje corporal y señales de conducta de Border Collie (Border Collie)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ El Border Collie es ampliamente conocido como la raza de perro más inteligente 
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutina diaria de 3 pasos para el cuidado de Border Collie (Border Collie)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

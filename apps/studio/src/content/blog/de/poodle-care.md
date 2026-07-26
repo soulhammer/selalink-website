@@ -13,11 +13,11 @@ authority: "Offizieller Rasseführer des American Kennel Club (AKC) und IAABC-Ve
 steps:
   - name: "Körpersprache des Pudels: Unterscheidung zwischen Forderung und Stress"
     text: "Aufgrund ihrer Intelligenz kommunizieren Pudel aktiv über die Körpersprache. Typische Signale sind 'Pfotenheben' (Paw Raising) und 'sanftes Blinzeln' (Soft Blinking). Wenn ein Pudel eine Vorderpfote hebt, sieht das wie eine Bitte um ein Leckerli aus, ist aber oft eine Botschaft wie 'Gib mir Aufmerksamkeit' oder ein Beschwichtigungssignal mit der Bedeutung 'Ich bin etwas angespannt, bitte sei sanft'. Sanftes Anstarren und langsames Blinzeln ist ihre Art, Vertrauen zu zeigen."
-  - name: "Pudel (Canis lupus familiaris / Poodle)'s Body Language & Signals"
+  - name: "Körpersprache und Verhaltenssignale von Pudel (Canis lupus familiaris / Poodle)"
     text: "* Pfotenheben (Paw Raising): Ein Ausdruck, um Aufmerksamkeit zu suchen oder leichte Anspannung zu beruhigen. (Wenn Sie dies bemerken, vermeiden Sie energische Befehle. Sprechen Sie ruhig und streicheln Sie ihn.)
 
 * Sanftes Blinzeln (Soft Blinking): Ein Zeichen von tiefem Vertrauen und Zuneigung, das zeigt, dass sie sich bei Ihnen sicher fühlen. (Wenn sich Ihre Blicke treffen, blinzeln Sie langsam zurück, um dieses Gefühl der Ruhe zu teilen.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Maßgeschneiderte 3-Schritte-Tagesroutine für Pudel (Canis lupus familiaris / Poodle)"
     text: "* STEP 1. Morgen: Geistige Auslastung mit Denkspielzeug: Nutzen Sie neben Spaziergängen auch Labyrinth-Näpfe oder Schnüffelmatten, um ihren aktiven Geist zu fordern und überschüssige Energie abzubauen.
 
 * STEP 2. Nachmittag: Ohrenkontrolle und sanfte Reinigungsmassage: Geben Sie 2-3 Tropfen Ohrreiniger in den Gehörgang, massieren Sie die Ohrbasis sanft und wischen Sie gelösten Schmalz mit einem Wattepad ab, um Ohrentzündungen vorzubeugen.
@@ -60,7 +60,7 @@ Pudel gelten als eine der intelligentesten Hunderassen der Welt. Sie sind zwar s
 
 ---
 
-## 2. Pudel (Canis lupus familiaris / Poodle)'s Body Language & Signals
+## 2. Körpersprache und Verhaltenssignale von Pudel (Canis lupus familiaris / Poodle)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Pudel gelten als eine der intelligentesten Hunderassen der Welt. Sie sind zwar s
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Maßgeschneiderte 3-Schritte-Tagesroutine für Pudel (Canis lupus familiaris / Poodle)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

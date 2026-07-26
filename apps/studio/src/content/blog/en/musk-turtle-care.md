@@ -13,11 +13,11 @@ authority: "World Chelonian Association Basking Guidelines and Aquatic Turtle Ve
 steps:
   - name: "Common Musk Turtle Basking Signals and Shell Retraction Defense"
     text: "Common Musk Turtles stretch their hind legs backward while basking on land 'Back-Leg Stretching' to maximize surface area absorption when completely at ease. Conversely, when sensing sudden shadows or vibrations, they perform a 'Shell Retraction' defense, pulling their head and limbs into their hard shell to protect themselves."
-  - name: "Common Musk Turtle (Sternotherus odoratus)'s Body Language & Signals"
+  - name: "Common Musk Turtle (Sternotherus odoratus)'s Body Language & Behavioral Signals"
     text: "* Back-Leg Stretching on Basking Area: A relaxed state under the UV lamp, loosening tension and stretching limbs to absorb heat and dry skin. (Avoid approaching suddenly so as not to startle them into jumping back into the water. Monitor the basking lamp from a distance.)
 
 * Retracting Head and Limbs into Shell (Shell Retraction): A state of high vigilance triggered by overhead hands, shadows, or water vibrations. (Avoid sudden movements in front of the tank and step back until they feel safe enough to peek out again.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Customized 3-Step Home Care Routine for Common Musk Turtle (Sternotherus odoratus)"
     text: "* STEP 1. Morning: Water Temperature Check (25-28°C) & Balanced Feeding: Check the water thermometer (keep at 25-28°C) to stimulate active metabolic function and feed age-appropriate commercial turtle pellets in divided portions.
 
 * STEP 2. Afternoon: Checking Basking Lamp and UV-B Bulbs: Ensure UV-B and basking heat lamps are functioning properly to prevent metabolic bone disease (MBD) caused by vitamin D deficiency.
@@ -60,7 +60,7 @@ The compact Common Musk Turtle is ideal for beginners due to its resilient natur
 
 ---
 
-## 2. Common Musk Turtle (Sternotherus odoratus)'s Body Language & Signals
+## 2. Common Musk Turtle (Sternotherus odoratus)'s Body Language & Behavioral Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ The compact Common Musk Turtle is ideal for beginners due to its resilient natur
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Customized 3-Step Home Care Routine for Common Musk Turtle (Sternotherus odoratus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

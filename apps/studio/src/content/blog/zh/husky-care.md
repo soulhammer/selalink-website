@@ -13,11 +13,11 @@ authority: "美国西伯利亚哈士奇俱乐部官方指南与 IAABC 工作犬�
 steps:
   - name: "哈士奇的身体语言：不满的嚎叫与双爪搭膝"
     text: "西伯利亚哈士奇保留了雪橇犬时期与同伴沟通的习性，会通过声音和行为积极表达自己的诉求。最典型的语言是 “长嚎（Howling）” 和 “搭爪（Paw Offering）”。哈士奇仰头长嚎，虽然有时代表孤独，但更多是表达室内生活枯燥、活动量未得到满足的抗议信号。而直视家长眼睛并把沉甸甸的前爪往家长膝盖上一搭，是“我好无聊，带我出去玩吧”的直接要求。此时应通过指令训练或咀嚼玩具将精力转移引导开。"
-  - name: "西伯利亚哈士奇 (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "西伯利亚哈士奇 (Canis lupus familiaris) 的肢体语言与行为信号"
     text: "* 嚎叫与嘀咕 (Howling): 宣泄因运动量不足产生的枯燥与不满，要求与家长进行互动的信号。 (带其去户外进行活跃的嗅闻散步，或在室内布置有难度的嗅闻垫。)
 
 * 注视搭爪 (Paw Offering): 在平等的社会关系中发起嬉戏，或执着要求外出散步和互动互换的行为。 (不要每次都顺从其要求，应先下达指令（如“坐下”），在其完成后给以零食奖励来维护秩序。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "西伯利亚哈士奇 (Canis lupus familiaris) 定制化 3 步家庭护理流程"
     text: "* STEP 1. 早晨：佩戴 Y 型胸背带与雪橇犬拉拽力控阻检查: 散步时它们有强烈拉拽的本能，应牢固戴好防止压迫气管的Y 型胸背带，并确认与家长同行时的同步步伐状态。
 
 * STEP 2. 中午：防暑冷感垫启动与双层毛深层死毛大量梳理: 因怕热室内需始终保持凉爽。使用针梳与 Coat King 耙梳将其茂密的极地双层被毛深层梳通，帮其排热，防止中暑。
@@ -64,7 +64,7 @@ faqs:
 
 ---
 
-## 2. 西伯利亚哈士奇 (Canis lupus familiaris)'s Body Language & Signals
+## 2. 西伯利亚哈士奇 (Canis lupus familiaris) 的肢体语言与行为信号
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -73,7 +73,7 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 宣泄因运动量不足产生的枯燥与不满，要求与家长进行互动的信号。<br/>
-    <strong>•  national:</strong> 带其去户外进行活跃的嗅闻散步，或在室内布置有难度的嗅闻垫。
+    <strong>• 应对:</strong> 带其去户外进行活跃的嗅闻散步，或在室内布置有难度的嗅闻垫。
   </p>
 </div>
 
@@ -84,13 +84,13 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 在平等的社会关系中发起嬉戏，或执着要求外出散步和互动互换的行为。<br/>
-    <strong>•  national:</strong> 不要每次都顺从其要求，应先下达指令（如“坐下”），在其完成后给以零食奖励来维护秩序。
+    <strong>• 应对:</strong> 不要每次都顺从其要求，应先下达指令（如“坐下”），在其完成后给以零食奖励来维护秩序。
   </p>
 </div>
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. 西伯利亚哈士奇 (Canis lupus familiaris) 定制化 3 步家庭护理流程
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

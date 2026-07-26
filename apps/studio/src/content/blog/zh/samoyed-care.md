@@ -13,11 +13,11 @@ authority: "AKC 萨摩耶官方指南与动物骨科基金会 (OFA) 标准"
 steps:
   - name: "萨摩耶的身体语言：腹部贴地散热与异常步态"
     text: "萨摩耶体热时会采取 “青蛙瘫（Splooting）”，将无毛的腹部紧贴冰凉地面散热。相反，如果它们走路时后肢并拢呈 “兔跳步态（Bunny Hopping）”，则是髋关节负重疼痛的典型表现，绝不可掉以轻心。"
-  - name: "萨摩耶 (Canis lupus familiaris / Samoyed)'s Body Language & Signals"
+  - name: "萨摩耶 (Canis lupus familiaris / Samoyed) 的肢体语言与行为信号"
     text: "* 青蛙瘫散热 (Splooting): 通过将腹部皮肤贴于地砖等凉爽表面来降低体温的正常生理行为。 (开启空调并为其提供凉垫，确保其在阴凉通风处舒适休息。)
 
 * 兔跳步态 (Bunny Hopping): 因髋关节磨损或病变导致负重疼痛，从而并拢双后肢同时借力行走的异常步态。 (立即限制其剧烈奔跑和跳跃，并寻求兽医进行X光骨科检查。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "萨摩耶 (Canis lupus familiaris / Samoyed) 定制化 3 步家庭护理流程"
     text: "* STEP 1. 早上：梳理底绒以保持皮肤通风: 每日清晨使用针梳（Slicker brush）和排梳深入被毛，彻底梳理掉积存的脱落底绒，防止结团并促进皮肤通风。
 
 * STEP 2. 中午：关节防护与铺设防滑垫: 在家中瓷砖或木地板上铺设防滑垫以防关节脱位，结合体重控制并在餐食中添加氨基葡萄糖与软骨素营养补充剂。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. 萨摩耶 (Canis lupus familiaris / Samoyed)'s Body Language & Signals
+## 2. 萨摩耶 (Canis lupus familiaris / Samoyed) 的肢体语言与行为信号
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -69,7 +69,7 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 通过将腹部皮肤贴于地砖等凉爽表面来降低体温的正常生理行为。<br/>
-    <strong>•  national:</strong> 开启空调并为其提供凉垫，确保其在阴凉通风处舒适休息。
+    <strong>• 应对:</strong> 开启空调并为其提供凉垫，确保其在阴凉通风处舒适休息。
   </p>
 </div>
 
@@ -80,13 +80,13 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 因髋关节磨损或病变导致负重疼痛，从而并拢双后肢同时借力行走的异常步态。<br/>
-    <strong>•  national:</strong> 立即限制其剧烈奔跑和跳跃，并寻求兽医进行X光骨科检查。
+    <strong>• 应对:</strong> 立即限制其剧烈奔跑和跳跃，并寻求兽医进行X光骨科检查。
   </p>
 </div>
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. 萨摩耶 (Canis lupus familiaris / Samoyed) 定制化 3 步家庭护理流程
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

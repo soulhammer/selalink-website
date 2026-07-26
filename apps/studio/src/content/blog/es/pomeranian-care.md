@@ -13,11 +13,11 @@ authority: "Guía Oficial de Razas del American Pomeranian Club y Manual Veterin
 steps:
   - name: "Lenguaje corporal del Pomerania: Distinguir el juego de la ansiedad"
     text: "Los Pomeranias son muy expresivos y cambian de emoción rápidamente. Las señales clave del lenguaje corporal incluyen la 'posición de inclinación de juego' (Play Bow) y 'lamerse los labios' (Lip Licking). Cuando baja la parte delantera de su cuerpo y levanta las caderas, es una invitación abierta a jugar. Sin embargo, si parece mover la cola pero se lame continuamente los labios con la lengua, es una señal de calma que indica ansiedad interna o estrés. Los dueños no deben confundir esto con entusiasmo."
-  - name: "Pomerania (Canis lupus familiaris / Pomeranian)'s Body Language & Signals"
+  - name: "Lenguaje corporal y señales de conducta de Pomerania (Canis lupus familiaris / Pomeranian)"
     text: "* Posición de inclinación de juego (Play Bow): Bajar la parte delantera del cuerpo y levantar las caderas, representando una invitación feliz para jugar. (Responda alegremente lanzando un juguete o comenzando un juego suave de persecución.)
 
 * Lamerse los labios (Lip Licking): No es por anticipar comida; es una señal de calma utilizada para controlar la ansiedad o el estrés ambiental. (Si lo ve durante paseos o en lugares nuevos, guíelo lejos del estímulo para garantizar su tranquilidad.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutina diaria de 3 pasos para el cuidado de Pomerania (Canis lupus familiaris / Pomeranian)"
     text: "* STEP 1. Mañana: Mantenimiento antideslizante y prevención de saltos: Asegúrese de que las alfombras antideslizantes estén bien colocadas alrededor de camas y sofás para proteger sus huesos finos. Enséñeles a usar escaleras para mascotas en lugar de saltar.
 
 * STEP 2. Tarde: Cepillado con cepillo de púas contra la dirección del pelo: Use un cepillo de púas para cepillar suavemente desde la cola hacia la cabeza a contrapelo. Esto evita enredos en el subpelo y permite el flujo de aire en la piel.
@@ -60,7 +60,7 @@ Los Pomeranias son perros toy muy populares por su pelaje doble esponjoso y su a
 
 ---
 
-## 2. Pomerania (Canis lupus familiaris / Pomeranian)'s Body Language & Signals
+## 2. Lenguaje corporal y señales de conducta de Pomerania (Canis lupus familiaris / Pomeranian)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Los Pomeranias son perros toy muy populares por su pelaje doble esponjoso y su a
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutina diaria de 3 pasos para el cuidado de Pomerania (Canis lupus familiaris / Pomeranian)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

@@ -13,11 +13,11 @@ authority: "世界小動物獣医師会 (WSAVA) 水生動物健康ガイドラ�
 steps:
   - name: "ベタのコミュニケーション：エラ広げ（フレアリング）と水面での休息行動"
     text: "ベタがエラ蓋を広げてヒレを大きく広げる「フレアリング（Flaring）」は、強力な警告であり興奮のサインです。1日5分程度の適度なフレアリングは運動になりますが、持続的なフレアリングは免疫力を低下させます。"
-  - name: "ベタ (Betta splendens / 闘魚)'s Body Language & Signals"
+  - name: "ベタ (Betta splendens / 闘魚)のボディランゲージと行動サイン"
     text: "* エラ蓋を広げてヒレを最大拡張する (Flaring): 縄張り侵入への警戒、または鏡に映った自分の姿に対する攻撃性・ストレスの表出です。 (鏡や水槽脇の反射する物体を取り除き、5分以上続かないように対処します。)
 
 * 水面近くの水草の葉の上にじっと横たわる (Labyrinth Resting): ラビリンス器官で呼吸しながらヒレの重みを休め、深い睡眠をとる正常な休息行動です。 (病気ではないため、照明を暗くし、水流が強く当たらないようスポンジフィルターを調整します。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "ベタ (Betta splendens / 闘魚)のための3ステップホームケアルーティン"
     text: "* STEP 1. 朝：水温（24°C〜26°C）およびフィルターの弱い水流状態の確認: 水温計を確認後、ヒーターの作動状態をチェックし、ベタが泳ぎにくそうにする強い水流がないか検査します。
 
 * STEP 2. 昼：ベタ専用ペレットフードの分割給餌と残餌の回収: 高タンパクなベタ専用ペレットを3〜4粒ずつ分けて与え、食べ残して落ちたフードは5分以内にスポイトで回収します。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. ベタ (Betta splendens / 闘魚)'s Body Language & Signals
+## 2. ベタ (Betta splendens / 闘魚)のボディランゲージと行動サイン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ faqs:
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. ベタ (Betta splendens / 闘魚)のための3ステップホームケアルーティン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

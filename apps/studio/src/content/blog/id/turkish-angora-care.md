@@ -13,11 +13,11 @@ authority: "Dewan Ras Turkish Angora CFA & Studi Veteriner Ketulian Kucing"
 steps:
   - name: "Bahasa Tubuh Turkish Angora: Tanda Tunarungu dan Sensitivitas Getaran"
     text: "Kucing tunarungu menunjukkan perilaku unik seperti 'vokalisasi keras tanpa modulasi' karena tidak dapat memonitor volume suara mereka sendiri. Sebagai gantinya, mereka sangat mengandalkan 'getaran lantai' yang dirasakan melalui bantalan cakar. Memahami hal ini penting untuk mencegah mereka terkejut dan stres."
-  - name: "Turkish Angora's Body Language & Signals"
+  - name: "Bahasa Tubuh dan Sinyal Perilaku Turkish Angora"
     text: "* Vokalisasi Keras Tanpa Modulasi (Loud Unmodulated Vocalization): Mengeong sangat keras ke udara tanpa kontrol volume karena gangguan pendengaran dan keinginan untuk berinteraksi. (Hindari mendekati dari belakang secara mengejutkan. Dekati dari depan dalam jangkauan pandangan mereka dengan isyarat tangan yang lembut.)
 
 * Sensitivitas Getaran Lantai (Floor Vibration Sensitivity): Menggunakan bantalan cakar (korpuskel Pacini) untuk merasakan getaran mekanis lantai demi memantau kedatangan orang di sekitar. (Ketuk lantai atau dinding secara lembut sebelum mendekat agar kucing merasakan kehadiran Anda terlebih dahulu tanpa panik.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutinitas Perawatan Harian 3 Langkah untuk Turkish Angora"
     text: "* STEP 1. Pagi: Sapaan Visual & Pelatihan Isyarat Tangan Positif: Sapa kucing di pagi hari menggunakan isyarat tangan yang ramah dan kedipan mata perlahan daripada panggilan suara, menciptakan suasana pagi yang tenang.
 
 * STEP 2. Siang: Area Vertikal Kokoh dan Pemeriksaan Keamanan: Sediakan cat tower dan rak dinding yang kokoh. Pastikan terpasang kuat karena gangguan pendengaran terkadang sedikit memengaruhi keseimbangan.
@@ -60,7 +60,7 @@ Memiliki bulu panjang yang halus seperti sutra dan mata yang indah, Turkish Ango
 
 ---
 
-## 2. Turkish Angora's Body Language & Signals
+## 2. Bahasa Tubuh dan Sinyal Perilaku Turkish Angora
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Memiliki bulu panjang yang halus seperti sutra dan mata yang indah, Turkish Ango
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutinitas Perawatan Harian 3 Langkah untuk Turkish Angora
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

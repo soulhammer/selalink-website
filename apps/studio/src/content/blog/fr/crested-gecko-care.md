@@ -13,11 +13,11 @@ authority: "Protocole International de Conservation des Reptiles & Normes Vété
 steps:
   - name: "Langage corporel du Gecko à Crête : Ondulation de la queue en S et nettoyage des yeux (Eye Wiping)"
     text: "Le Gecko à Crête exprime ses émotions par les mouvements de sa queue et de sa langue. Lever la queue en forme de S et l'agiter lentement est un « Signal d'alerte et de menace (Tail S-Wagging) » précédant l'autotomie (perte de la queue). À l'inverse, passer sa langue sur ses yeux ou son museau est un « Signal naturel d'hygiène et d'exploration (Eye Wiping) » pour hydrater ses yeux sans paupières et capter les odeurs."
-  - name: "Gecko à Crête (Crested Gecko)'s Body Language & Signals"
+  - name: "Langage corporel et signaux comportementaux du Gecko à Crête (Crested Gecko)"
     text: "* Queue levée en S et agitée lentement (Tail S-Wagging): Avertissement de stress défensif extrême face à une menace ou manipulation, précédant souvent la perte de la queue. (Cessez immédiatement toute manipulation et remettez-le dans une cachette sombre et calme pour qu'il se apaise.)
 
 * Léchage des yeux ou de la bouche (Eye Wiping / Tongue Flicking): Comportement naturel qui hydrate la surface de ses yeux sans paupières et transporte les molécules d'odeur vers l'organe de Jacobson. (C'est un comportement normal ; ne le dérangez pas et vérifiez que l'humidité du terrarium (60%–80%) est adéquate.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Routine quotidienne en 3 étapes pour le soin du Gecko à Crête (Crested Gecko)"
     text: "* STEP 1. Matin : Pulvérisation des parois & contrôle de température/humidité: Vaporisez de l'eau sur les vitres pour qu'il puisse boire les gouttelettes, et maintenez une température diurne fraîche (22°C–25°C).
 
 * STEP 2. Après-midi : Protection contre le soleil direct & surveillance du repos: Protégez le gecko de la lumière directe du soleil car il est très sensible aux températures supérieures à 28°C, lui assurant un repos frais.
@@ -60,7 +60,7 @@ Célèbre pour les crêtes en forme de cils au-dessus de ses yeux, le Gecko à C
 
 ---
 
-## 2. Gecko à Crête (Crested Gecko)'s Body Language & Signals
+## 2. Langage corporel et signaux comportementaux du Gecko à Crête (Crested Gecko)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Célèbre pour les crêtes en forme de cils au-dessus de ses yeux, le Gecko à C
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Routine quotidienne en 3 étapes pour le soin du Gecko à Crête (Crested Gecko)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

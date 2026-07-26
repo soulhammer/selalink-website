@@ -13,11 +13,11 @@ authority: "Protocolo Veterinario Internacional de Cría de Anfibios y Amphibian
 steps:
   - name: "Señales corporales del ajolote: Curvatura de branquias y movimientos bucales"
     text: "Las branquias externas rojas del ajolote sirven como un indicador directo de la calidad y temperatura del agua. La curvatura de las branquias hacia adelante señala el deterioro de la calidad del agua o estrés térmico."
-  - name: "Ajolote / Axolote (Axolotl)'s Body Language & Signals"
+  - name: "Lenguaje corporal y señales de conducta de Ajolote / Axolote (Axolotl)"
     text: "* Branquias externas curvadas hacia adelante y cola doblada (Gill Curling Forward): Una advertencia de estrés ambiental causada por el aumento de la temperatura (por encima de 20°C) o niveles elevados de amoníaco. (Encienda los ventiladores de refrigeración del acuario para bajar la temperatura a 16°C ~ 18°C y realice de inmediato un cambio parcial de agua (20%).)
 
 * Mirada fija al fondo y apertura bucal (Bottom Gaping): Una señal natural de búsqueda de alimento que indica hambre o comportamiento de caza. (Ofrezca suavemente de comer pellets especializados para peces o lombrices frente a su hocico utilizando pinzas de punta roma.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutina diaria de 3 pasos para el cuidado de Ajolote / Axolote (Axolotl)"
     text: "* STEP 1. Mañana: Monitoreo de temperatura (16°C ~ 18°C) y revisión del sistema de refrigeración: Verifique el funcionamiento de los ventiladores de refrigeración para evitar que el agua supere los 19°C en verano y revise la condensación en los cristales del acuario.
 
 * STEP 2. Tarde: Limpieza de desechos con sifón y bloqueo de luz solar directa: Mantenga un entorno tenue para el ajolote debido a su deficiente visión y retire los desechos diariamente con un sifón largo.
@@ -60,7 +60,7 @@ Amado por sus expresiones sonrientes y branquias externas rosadas, el ajolote (A
 
 ---
 
-## 2. Ajolote / Axolote (Axolotl)'s Body Language & Signals
+## 2. Lenguaje corporal y señales de conducta de Ajolote / Axolote (Axolotl)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Amado por sus expresiones sonrientes y branquias externas rosadas, el ajolote (A
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutina diaria de 3 pasos para el cuidado de Ajolote / Axolote (Axolotl)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

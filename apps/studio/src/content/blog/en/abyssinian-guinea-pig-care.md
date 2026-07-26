@@ -13,11 +13,11 @@ authority: "Royal Society for the Prevention of Cruelty to Animals (RSPCA) Roden
 steps:
   - name: "Guinea Pig Communication: Wheeking and Popcorning"
     text: "Guinea pigs are highly vocal and expressive animals that communicate their emotions clearly. They make a loud, high-pitched squeak called 'wheeking' when demanding food or greeting their caregiver. Conversely, they perform a sudden, jerky jump called 'popcorning' when experiencing intense joy and a feeling of complete safety."
-  - name: "Abyssinian Guinea Pig's Body Language & Signals"
+  - name: "Abyssinian Guinea Pig's Body Language & Behavioral Signals"
     text: "* Wheeking (Loud Squeaking): An excitement call or food request, typically triggered by hearing food packaging open or seeing their caregiver approach with fresh vegetables. (Provide fresh bell peppers or Vitamin C supplements, using this moment to build trust and strengthen your bond.)
 
 * Popcorning (Sudden Jumping): Jumping straight up in the air with sudden twists, showing pure joy, vitality, and emotional comfort. (Ensure their play space is free of hard edges or hazards so they can jump safely without risk of injury.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Customized 3-Step Home Care Routine for Abyssinian Guinea Pig"
     text: "* STEP 1. Morning: Vitamin C Supplementation & Fresh Hay Check: Administer vet-approved Vitamin C supplements directly or feed high-Vitamin C fresh vegetables like bell peppers (avoid adding Vitamin C to water as it degrades quickly). Fill the rack with fresh Timothy hay.
 
 * STEP 2. Afternoon: Cage Spot Cleaning & Dust Control: Spot-clean soiled bedding to prevent harmful ammonia buildup. Gently shake Timothy hay outside before placing it in the cage to reduce airborne dust and protect their lungs.
@@ -60,7 +60,7 @@ Abyssinian guinea pigs are widely loved for their unique rosettes (swirls of fur
 
 ---
 
-## 2. Abyssinian Guinea Pig's Body Language & Signals
+## 2. Abyssinian Guinea Pig's Body Language & Behavioral Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Abyssinian guinea pigs are widely loved for their unique rosettes (swirls of fur
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Customized 3-Step Home Care Routine for Abyssinian Guinea Pig
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

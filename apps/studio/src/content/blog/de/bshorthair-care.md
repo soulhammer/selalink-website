@@ -13,11 +13,11 @@ authority: "GCCF-British-Shorthair-Standards und AAFP-Richtlinien für Katzenadi
 steps:
   - name: "Körpersprache der British Shorthair: Sanftes Anstarren und Schwanzzucken"
     text: "British Shorthairs mögen kein einengendes Halten und zeigen ihr Vertrauen durch 'sanftes Anstarren' (Soft Staring) aus der Ferne. Dies signalisiert, dass sie eine eigenständige Beziehung bevorzugen, sich aber sicher fühlen. Dagegen zeigt das Klopfen der Schwanzspitze auf den Boden (Tail Swishing) Ärger an. Das Tragen in diesem Moment steigert den Stress drastisch."
-  - name: "British Shorthair (British Shorthair)'s Body Language & Signals"
+  - name: "Körpersprache und Verhaltenssignale von British Shorthair (British Shorthair)"
     text: "* Sanftes Anstarren (Soft Staring): Ein reifer Expression von Zuneigung, der zeigt, dass sie sich allein durch das Teilen des Raums glücklich und sicher fühlen. (Blinzeln Sie langsam, um die Zuneigung zu erwidern. Nicht nähern oder hochheben; beobachten Sie die Katze einfach ruhig.)
 
 * Schwanzzucken (Tail Swishing): Ein Ablehnungssignal, das zeigt, dass Streicheln oder Kontakt unangenehm wird und beendet werden soll. (Hören Sie sofort auf zu streicheln und vermeiden Sie Körperkontakt, damit sich die Katze beruhigen kann.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Maßgeschneiderte 3-Schritte-Tagesroutine für British Shorthair (British Shorthair)"
     text: "* STEP 1. Morgen: Strenge Futterdosierung mit einer Präzisionsküchenwaage: Um einer durch Übergewicht verstärkten HCM vorzubeugen, wiegen Sie das Futter auf einer elektronischen Waage exakt nach dem Tagesbedarf ab.
 
 * STEP 2. Nachmittag: Unterfellpflege mit einer Gummi-Katzenbürste: Obwohl sie kurzhaarig sind, besitzen sie dichtes Fell. Bürsten Sie 5 Minuten lang mit einer Gummibürste, um lose Unterwolle ohne Hautreizung zu entfernen.
@@ -60,7 +60,7 @@ Mit ihren großen runden Gesichtern und dem muskulösen Bau sind British Shortha
 
 ---
 
-## 2. British Shorthair (British Shorthair)'s Body Language & Signals
+## 2. Körpersprache und Verhaltenssignale von British Shorthair (British Shorthair)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Mit ihren großen runden Gesichtern und dem muskulösen Bau sind British Shortha
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Maßgeschneiderte 3-Schritte-Tagesroutine für British Shorthair (British Shorthair)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

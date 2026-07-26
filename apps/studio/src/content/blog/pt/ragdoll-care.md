@@ -13,11 +13,11 @@ authority: "Guia de Raças da Cat Fanciers' Association (CFA) e Diretrizes de Pr
 steps:
   - name: "Sinais de calma do Ragdoll: Piscadas lentas e dedos relaxados"
     text: "Os Ragdolls expressam sua alta confiança não apenas relaxando o corpo, mas também por gestos delicados com olhos e patas. Os sinais de calma principais incluem 'Piscada lenta' (Slow Blink) e 'Dedos abertos' (Paw Flexing). Olhar e piscar lentamente é uma mensagem pacífica de afeto e segurança total. Quando se sentem extremamente felizes, abrem os dedos das patas como um leque. Acariciar sob o queixo ou atrás das orelhas maximiza sua segurança."
-  - name: "Ragdoll (Felis catus)'s Body Language & Signals"
+  - name: "Linguagem corporal e sinais de comportamento do Ragdoll (Felis catus)"
     text: "* Piscada lenta (Slow Blink): Um sinal de profundo afeto, mostrando que confiam plenamente em você e se sentem seguros no ambiente. (Responda piscando de volta lentamente no mesmo ritmo para fortalecer seu vínculo.)
 
 * Dedos abertos / Flexão de patas (Paw Flexing): Indica conforto e felicidade psicológica extrema, lembrando a memória de amamentação quando filhote. (Não pare o carinho; continue massageando suavemente sob o queixo ou pescoço.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rotina diária de 3 passos para cuidados com Ragdoll (Felis catus)"
     text: "* STEP 1. Manhã: Alongamento leve para a saúde esquelética: Por ser uma raça grande, o cansaço acumula nas articulações traseiras. Antes de se moverem, alongue suavemente as patas traseiras para proteger a amplitude articular.
 
 * STEP 2. Tarde: Escovação com escova de pinos para evitar nós e ventilar: O subpelo do Ragdoll é muito macio e denso, propenso a nós. Escove com escova de pinos arredondados ao longo dos pelos para ventilar a pelagem e evitar dermatite e bolas de pelo.
@@ -64,7 +64,7 @@ Hoje, o PetSelf decodifica a linguagem corporal do Ragdoll e apresenta uma rotin
 
 ---
 
-## 2. Ragdoll (Felis catus)'s Body Language & Signals
+## 2. Linguagem corporal e sinais de comportamento do Ragdoll (Felis catus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -90,7 +90,7 @@ Hoje, o PetSelf decodifica a linguagem corporal do Ragdoll e apresenta uma rotin
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rotina diária de 3 passos para cuidados com Ragdoll (Felis catus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

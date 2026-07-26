@@ -13,11 +13,11 @@ authority: "Dachshund-Gesundheitsratgeber des American Kennel Club und Richtlini
 steps:
   - name: "Dackel Wirbelsäulen-Warnsignale: Männchen machen und Körperstreckung"
     text: "Aufgrund ihres langen Rückens zeigen Dackel Wirbelsäulenstress oder Schmerzen durch subtile Signale. Das Stehen auf den Hinterbeinen (das 'Männchen machen') mag niedlich aussehen, belastet aber die Lendenwirbelsäule extrem. Ein gekrümmter Rücken oder ein steif gestreckter Nacken sind Anzeichen für Nervenkompressionen, die sofortige Hilfe erfordern."
-  - name: "Dackel / Dachshund (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "Körpersprache und Verhaltenssignale von Dackel / Dachshund (Canis lupus familiaris)"
     text: "* Stehen auf den Hinterbeinen (Männchen machen): Diese Haltung übt extremen Druck auf die Lendenwirbelsäule aus und wird oft ausgeführt, um Futter oder Aufmerksamkeit zu erlangen. (Unterbinden Sie dieses Verhalten sofort sanft, stellen Sie Rampen bereit und halten Sie Futter und Spielzeug auf Brusthöhe.)
 
 * Gekrümmter Rücken & gestreckter Nacken: Eine Schonhaltung, die auf Rückenschmerzen, Steifheit oder eine beginnende Nervenkompression in der Wirbelsäule hinweist. (Schränken Sie die Bewegung sofort ein, stützen Sie Brust und Hinterteil beim Tragen waagerecht ab und suchen Sie unverzüglich einen Tierarzt auf.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Maßgeschneiderte 3-Schritte-Tagesroutine für Dackel / Dachshund (Canis lupus familiaris)"
     text: "* STEP 1. Morgen: Prüfen der Gelenkbeweglichkeit und Rückenmassage: Überprüfen Sie den Gang vor dem Spielen auf Steifheit. Tasten Sie die Wirbelsäule vorsichtig ab, um Schmerzreaktionen zu testen.
 
 * STEP 2. Nachmittag: Sicherung der Wohnumgebung und Waagerechthaltung: Stellen Sie sicher, dass Hunderampen an Betten und Sofas stabil und rutschfest stehen. Blockieren Sie den Zugang zu Treppen mit Schutzgittern.
@@ -60,7 +60,7 @@ Dackel (Dachshunds) sind weltweit bekannt für ihre charmante Silhouette und ihr
 
 ---
 
-## 2. Dackel / Dachshund (Canis lupus familiaris)'s Body Language & Signals
+## 2. Körpersprache und Verhaltenssignale von Dackel / Dachshund (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Dackel (Dachshunds) sind weltweit bekannt für ihre charmante Silhouette und ihr
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Maßgeschneiderte 3-Schritte-Tagesroutine für Dackel / Dachshund (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

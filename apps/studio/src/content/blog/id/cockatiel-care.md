@@ -13,11 +13,11 @@ authority: "Association of Avian Veterinarians (AAV) & Standar Perilaku Burung"
 steps:
   - name: "Komunikasi Cockatiel: Arti Gerakan Jambul dan Menundukkan Kepala"
     text: "Jambul di kepala adalah antena emosi. Jambul tegak lurus menunjukkan kewaspadaan atau rasa ingin tahu tinggi, sementara menundukkan kepala adalah ekspresi kepercayaan mendalam."
-  - name: "Cockatiel / Parkit Australia (Nymphicus hollandicus)'s Body Language & Signals"
+  - name: "Bahasa Tubuh dan Sinyal Perilaku Cockatiel / Parkit Australia (Nymphicus hollandicus)"
     text: "* Jambul Tegak Lurus & Postur Vertikal (Fully Erect Crest): Rasa ingin tahu tinggi atau kewaspadaan terhadap suara maupun benda baru di ruangan. (Bicara dengan nada lembut dan hindari gerakan mendadak agar burung merasa aman.)
 
 * Menundukkan Kepala & Menjulurkan Leher (Head Lowering for Scratches): Tanda kepercayaan mendalam dan meminta elusan di area pipi serta pangkal jambul. (Usap lembut bulu di sekitar pipi oranye dan pangkal jambul berlawanan arah bulu.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutinitas Perawatan Harian 3 Langkah untuk Cockatiel / Parkit Australia (Nymphicus hollandicus)"
     text: "* STEP 1. Pagi: Ventilasi Udara, Inspeksi Bulu & Pelet Segar: Buka penutup kandang, ganti air bersih dan pelet nutrisi, lalu amati kelincahan terbangnya.
 
 * STEP 2. Siang: Terbang Bebas Aman & Mainan Foraging: Beri waktu 1 - 2 jam terbang bebas di ruangan aman dengan mainan pencari makan (foraging toys).
@@ -60,7 +60,7 @@ Cockatiel terkenal dengan pipi oranye ikonik dan jambul indahnya. Burung sosial 
 
 ---
 
-## 2. Cockatiel / Parkit Australia (Nymphicus hollandicus)'s Body Language & Signals
+## 2. Bahasa Tubuh dan Sinyal Perilaku Cockatiel / Parkit Australia (Nymphicus hollandicus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Cockatiel terkenal dengan pipi oranye ikonik dan jambul indahnya. Burung sosial 
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutinitas Perawatan Harian 3 Langkah untuk Cockatiel / Parkit Australia (Nymphicus hollandicus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

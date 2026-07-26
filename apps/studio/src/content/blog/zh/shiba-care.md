@@ -13,11 +13,11 @@ authority: "美国国家柴犬俱乐部 (NSCA) 与 IAABC 行为矫正指南"
 steps:
   - name: "柴犬的身体语言：压力与释放压力的信号"
     text: "柴犬在个人空间受到侵犯时，会静静地表达抗拒。关键动作是“避开视线（扭头）”和“抖身体”。当有人伸手想摸它，它避开头或扭过脸时，并不是在开玩笑，而是在委婉地请求“请现在不要碰我”。同样，在经历压力事件（如剪指甲或打针）后，它们大幅度抖动全身，是一种本能的调节机制，用以释放身体紧张并调整心理状态。"
-  - name: "柴犬 (Shiba Inu)'s Body Language & Signals"
+  - name: "柴犬 (Shiba Inu) 的肢体语言与行为信号"
     text: "* 避开视线 (Looking Away): 表示家长的接近带来了压力，恳请家长停止靠近或触碰的礼貌请求。 (如果看到这个动作，请停止抚摸，收回手并给它们留出空间。)
 
 * 抖落压力 (Shake Off): 用以抖落刚刚在某种环境中积累的压力或身体紧张的调节行为。 (如果在梳毛等活动过程中它们抖动身体，说明正在释放压力。请立即停止并让它们休息。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "柴犬 (Shiba Inu) 定制化 3 步家庭护理流程"
     text: "* STEP 1. 早晨：敏感部位触碰脱敏训练: 轻轻触碰柴犬不喜被触碰的爪子或臀部1秒钟，然后立即奖励高价值零食。重复此过程以对触碰建立积极的联想。
 
 * STEP 2. 下午：低压力的双层毛专用梳理: 使用针梳或开结梳顺着毛发生长方向轻轻梳理。如果它们表现出任何不适或发出低吼，请立即停止以避免压力累积。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. 柴犬 (Shiba Inu)'s Body Language & Signals
+## 2. 柴犬 (Shiba Inu) 的肢体语言与行为信号
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -69,7 +69,7 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 表示家长的接近带来了压力，恳请家长停止靠近或触碰的礼貌请求。<br/>
-    <strong>•  national:</strong> 如果看到这个动作，请停止抚摸，收回手并给它们留出空间。
+    <strong>• 应对:</strong> 如果看到这个动作，请停止抚摸，收回手并给它们留出空间。
   </p>
 </div>
 
@@ -80,13 +80,13 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 用以抖落刚刚在某种环境中积累的压力或身体紧张的调节行为。<br/>
-    <strong>•  national:</strong> 如果在梳毛等活动过程中它们抖动身体，说明正在释放压力。请立即停止并让它们休息。
+    <strong>• 应对:</strong> 如果在梳毛等活动过程中它们抖动身体，说明正在释放压力。请立即停止并让它们休息。
   </p>
 </div>
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. 柴犬 (Shiba Inu) 定制化 3 步家庭护理流程
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

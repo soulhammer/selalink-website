@@ -13,11 +13,11 @@ authority: "Association of Reptilian and Amphibian Veterinarians (ARAV) Care Gui
 steps:
   - name: "Leopard Gecko Body Language: Deciphering Tail Movements and Pre-Shedding Clues"
     text: "A gecko's plump tail is both a vital fat reservoir and a primary communication instrument. Distinguishing between slow, defensive tail waving and joyful tail wiggles during feeding prevents unnecessary handling stress."
-  - name: "Leopard Gecko (Eublepharis macularius)'s Body Language & Signals"
+  - name: "Leopard Gecko (Eublepharis macularius)'s Body Language & Behavioral Signals"
     text: "* Tail Elevated & Waved Slowly in S-Curves (Slow Tail Waving): A high-alert defensive posture indicating the gecko feels threatened or startled by a predator signal. (Immediately halt handling, withdraw your hand slowly, and allow the gecko to retreat into its shelter undisturbed.)
 
 * Skin Becoming Dull White & Eye Rubbing (Pre-Shedding Signal): The imminent onset of shedding (ecdysis); old keratin layers are loosening and require high humidity. (Generously mist moss or paper towels inside the humid hide with warm water to raise local humidity above 70%.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Customized 3-Step Home Care Routine for Leopard Gecko (Eublepharis macularius)"
     text: "* STEP 1. Morning: Thermal Gradient Inspection & Humid Hide Warm Misting: Verify under-tank heat mat temperatures (30°C ~ 32°C) and mist the humid hide substrate with warm water.
 
 * STEP 2. Afternoon: Daytime Quietness & Shielded Hide Darkness Maintenance: Avoid direct sunlight and loud environmental vibrations to ensure deep, undisturbed nocturnal rest during daylight hours.
@@ -60,7 +60,7 @@ With their smiling expressions and distinctive spotted tails, Leopard Geckos are
 
 ---
 
-## 2. Leopard Gecko (Eublepharis macularius)'s Body Language & Signals
+## 2. Leopard Gecko (Eublepharis macularius)'s Body Language & Behavioral Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ With their smiling expressions and distinctive spotted tails, Leopard Geckos are
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Customized 3-Step Home Care Routine for Leopard Gecko (Eublepharis macularius)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

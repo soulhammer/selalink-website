@@ -13,11 +13,11 @@ authority: "アメリカンケネルクラブ(AKC)公式犬種ガイド＆IAABC�
 steps:
   - name: "マルチーズのボディランゲージ：ストレスと安定のサイン"
     text: "マルチーズは飼い主への依存度が高い分、心理的な不安を静かにしぐさで表します。代表的なカーミングシグナルは「鼻舐め（Nose Licking）」と「あくび（Yawning）」です。緊張したり不慣れな環境に置かれた時、鼻をペロリと舐めたりあくびをする行動は、眠いからではなく自分を落ち着かせ、周囲に「敵意はないから脅かさないで」と伝える平和のサインです。この時に無理なスキンシップを続けるとストレスが高まるため、一歩引いて見守ることが大切です。"
-  - name: "マルチーズ (Canis lupus familiaris / Maltese)'s Body Language & Signals"
+  - name: "マルチーズ (Canis lupus familiaris / Maltese)のボディランゲージと行動サイン"
     text: "* あくび (Yawning): 眠いからではなく、自分と相手を落ち着かせる「落ち着いて」の意思表示です。 (トレーニングや爪切りの途中にあくびをしたら、すぐに中止して静かな空間を提供してください。)
 
 * 鼻舐め (Nose Licking): 現在の環境が気まずく、不安を感じている自制のサインです。 (抱っこしたり近づいた時にこのサインが出たら、過度な接触をやめ、少し距離を置いてください。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "マルチーズ (Canis lupus familiaris / Maltese)のための3ステップホームケアルーティン"
     text: "* STEP 1. 朝：滑り止め環境の点検と関節ストレッチ: 朝起きてペット用マットがずれていないか確認し、軽いストレッチの際、後ろ足の関節部位を優しくマッサージして固まった筋肉をほぐします。足裏の肉球が毛で隠れていないか確認することも必須です。
 
 * STEP 2. 昼・午後：コームを用いた目の周りの衛生管理: 毎日1回、目の細かい涙やけコームと専用のアイクリーナーを使用し、目の周りの濡れた毛を優しくといて整えます。濡れた状態のまま毛が放置されると、皮膚炎を引き起こします。コームの後はコットンで水分をしっかり拭き取ります。
@@ -64,7 +64,7 @@ faqs:
 
 ---
 
-## 2. マルチーズ (Canis lupus familiaris / Maltese)'s Body Language & Signals
+## 2. マルチーズ (Canis lupus familiaris / Maltese)のボディランゲージと行動サイン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -90,7 +90,7 @@ faqs:
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. マルチーズ (Canis lupus familiaris / Maltese)のための3ステップホームケアルーティン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

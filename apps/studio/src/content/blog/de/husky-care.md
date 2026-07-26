@@ -13,11 +13,11 @@ authority: "Offizieller Leitfaden des Siberian Husky Club of America und IAABC-A
 steps:
   - name: "Körpersprache des Huskies: Frustriertes Jaulen und Pfote auflegen"
     text: "Huskies behalten Rudelgewohnheiten bei und drücken sich aktiv durch Lautußerungen und Gesten aus. Zu den zentralen Signalen gehören 'Jaulen' (Howling) und 'Pfote auflegen' (Paw Offering). Ein langes Jaulen kommuniziert oft Langeweile und den Wunsch nach Auslastung statt Einsamkeit. Das Auflegen der Pfote bei festem Blickkontakt ist eine direkte Aufforderung zum Spielen. Lenken Sie diese Energie durch Gehorsamstraining oder Kauspielzeug um."
-  - name: "Sibirischer Husky (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "Körpersprache und Verhaltenssignale von Sibirischer Husky (Canis lupus familiaris)"
     text: "* Jaulen / Vokalisieren (Howling): Ein Ausdruck extremer Langeweile und Frust über mangelnde Bewegung, der Kommunikation fordert. (Gehen Sie aktiv spazieren oder richten Sie einen anspruchsvollen Schnüffelteppich im Haus ein.)
 
 * Pfote auflegen bei Blickkontakt (Paw Offering): Eine nachdrückliche Bitte um Aufmerksamkeit, Spiel oder Spaziergang als gleichwertiges Rudelmitglied. (Geben Sie nicht jeder Bitte nach. Geben Sie zuerst ein Kommando (Sitz usw.) und belohnen Sie erst danach.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Maßgeschneiderte 3-Schritte-Tagesroutine für Sibirischer Husky (Canis lupus familiaris)"
     text: "* STEP 1. Morgen: Anlegen des Y-Geschirrs und Zugkraftprüfung: Huskies haben einen starken Zugtrieb. Legen Sie ein ergonomisches Y-Geschirr an, um Druck auf die Luftröhre zu verhindern, und üben Sie den Gleichschritt.
 
 * STEP 2. Nachmittag: Kühlmatten-Bereitstellung und intensives Ausbürsten des Unterfells: Da sie hitzeempfindlich sind, halten Sie Innenräume kühl. Verwenden Sie eine Zupfbürste (Slicker) und einen Unterfellrechen, um das dichte Fell tief auszubürsten.
@@ -64,7 +64,7 @@ Heute entschlüsselt PetSelf die Körpersprache des Huskies bei Langeweile und s
 
 ---
 
-## 2. Sibirischer Husky (Canis lupus familiaris)'s Body Language & Signals
+## 2. Körpersprache und Verhaltenssignale von Sibirischer Husky (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -90,7 +90,7 @@ Heute entschlüsselt PetSelf die Körpersprache des Huskies bei Langeweile und s
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Maßgeschneiderte 3-Schritte-Tagesroutine für Sibirischer Husky (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

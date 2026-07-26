@@ -13,11 +13,11 @@ authority: "Internationales Protokoll für Amphibienhaltung & Amphibian Ark Tier
 steps:
   - name: "Körpersprache des Axolotls: Nach vorne gekrümmte Kiemen und Schnappbewegungen"
     text: "Die roten Kiemenäste des Axolotls sind ein klarer Indikator für Wasserqualität und Wassertemperatur. Nach vorne gekrümmte Kiemen deuten auf eine Verschlechterung der Wasserwerte oder Hitzestress hin."
-  - name: "Axolotl (Mexikanischer Schwanzlurch)'s Body Language & Signals"
+  - name: "Körpersprache und Verhaltenssignale von Axolotl (Mexikanischer Schwanzlurch)"
     text: "* Nach vorne gekrümmte Kiemenäste und eingerollter Schwanz (Gill Curling Forward): Ein Umwelt-Stresssignal durch zu hohe Wassertemperaturen (über 20°C) oder ansteigende Ammoniakwerte. (Schalten Sie Aquarium-Kühlventilatoren ein, um die Temperatur auf 16°C ~ 18°C zu senken, und führen Sie sofort einen Teilwasserwechsel (20%) durch.)
 
 * Blick nach unten und schnappende Maulbewegung (Bottom Gaping): Ein natürliches Verhaltenssignal zur Futtersuche, das auf Hunger oder aktives Jagen hinweist. (Reichen Sie spezielles Futter oder Regenwürmer vorsichtig mit einer stumpfen Pinzette direkt vor das Maul.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Maßgeschneiderte 3-Schritte-Tagesroutine für Axolotl (Mexikanischer Schwanzlurch)"
     text: "* STEP 1. Morgen: Temperaturkontrolle (16°C ~ 18°C halten) & Prüfung der Kühlung: Überprüfen Sie die Kühlvorrichtung, damit die Wassertemperatur im Sommer 19°C nicht überschreitet, und kontrollieren Sie das Kondenswasser an den Scheiben.
 
 * STEP 2. Nachmittag: Absaugen von Ausscheidungen & Schutz vor direktem Sonnenlicht: Sorgen Sie wegen des schlechten Sehvermögens des Axolotls für eine gedimmte Aquarienbeleuchtung und saugen Sie Kot täglich mit einem Mulmsauger ab.
@@ -60,7 +60,7 @@ Der wegen seines lächelnden Ausdrucks und seiner rosa Kiemenäste beliebte Axol
 
 ---
 
-## 2. Axolotl (Mexikanischer Schwanzlurch)'s Body Language & Signals
+## 2. Körpersprache und Verhaltenssignale von Axolotl (Mexikanischer Schwanzlurch)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Der wegen seines lächelnden Ausdrucks und seiner rosa Kiemenäste beliebte Axol
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Maßgeschneiderte 3-Schritte-Tagesroutine für Axolotl (Mexikanischer Schwanzlurch)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

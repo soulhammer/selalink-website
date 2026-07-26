@@ -13,11 +13,11 @@ authority: "World Chelonian Association カメ衛生ガイドおよび半水生�
 steps:
   - name: "マスクタートルの感情表現：足伸ばしと甲羅への引っ込みサイン"
     text: "コモンマスクタートルは陸に上がり、完全に安心している時に「後ろ足を伸ばす（Back-Leg Stretching）」姿勢をとります。反対に、突然の影や振動を感じると「甲羅に頭を引っ込める（Shell Retraction）」行動を見せ、頑丈な甲羅の中で身を守ります。"
-  - name: "コモンマスクタートル (Sternotherus odoratus / Common Musk Turtle)'s Body Language & Signals"
+  - name: "コモンマスクタートル (Sternotherus odoratus / Common Musk Turtle)のボディランゲージと行動サイン"
     text: "* 後ろ足を伸ばす (Back-Leg Stretching): UVランプの下で緊張をほぐし、全身で熱を吸収して体温を上げているリラックス状態です。 (驚いて水に飛び込まないよう、近づくのを避け、離れた場所から見守りましょう。)
 
 * 甲羅に頭を引っ込める (Shell Retraction): 上からの影や振動、近づく手などに恐怖を感じて甲羅の中に避難した警戒状態です。 (カメが安心するまで水槽の前で急に動かないようにし、少し離れた場所で待ちます。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "コモンマスクタートル (Sternotherus odoratus / Common Musk Turtle)のための3ステップホームケアルーティン"
     text: "* STEP 1. 朝：水温を25〜28度に調整しバランスの良い給餌: 代謝を活発にするため、ヒーターの水温を確認し、年齢に合った専用の人工飼料を適量与えます。
 
 * STEP 2. 昼：UV-Bおよびバスキングライトの動作点検: カルシウム代謝に必要なビタミンDを合成できるよう、日光浴エリアのランプが正常に点灯しているか確認します。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. コモンマスクタートル (Sternotherus odoratus / Common Musk Turtle)'s Body Language & Signals
+## 2. コモンマスクタートル (Sternotherus odoratus / Common Musk Turtle)のボディランゲージと行動サイン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ faqs:
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. コモンマスクタートル (Sternotherus odoratus / Common Musk Turtle)のための3ステップホームケアルーティン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

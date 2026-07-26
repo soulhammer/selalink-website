@@ -1,0 +1,516 @@
+{
+    "cherry-shrimp-care": {
+        "pubDate": "2026-07-26",
+        "updatedDate": "2026-07-26",
+        "locales": {
+            "ko": {
+                "title": "체리 새우의 탈피 부전 신호와 구리 독성 및 수질 관리를 위한 3단계 데일리 케어",
+                "description": "영롱한 관상용 수초 새우 체리 새우(Cherry Shrimp / Neocaridina). 화이트 링(White Ring of Death) 신호 해석, 미네랄(GH/TDS) 및 구리 독성 차단, 안정적 환수를 위한 3단계 홈케어 루틴을 소개합니다.",
+                "authority": "국제관상어협회(OFI) 및 무척추관상어 수의학 케어 프로토콜",
+                "profile": {
+                    "breed": "체리 새우 / 네오카리디나 (Cherry Shrimp / Neocaridina davidi)",
+                    "lifespan": "1 ~ 2년",
+                    "sleep_pattern": "6 ~ 8시간 (조명 차단 후 수초/모스 사이 정지 휴식)",
+                    "temperament": "온순함, 평화로움, 청소 습성(Scavenger), 수질 변화에 민감"
+                },
+                "intro": "푸른 수초 사이에서 선명한 붉은빛을 발산하는 체리 새우(Cherry Shrimp / Neocaridina davidi)는 관상어 수조의 이끼 제거자이자 유기물 청소부로 사랑받는 대표적인 담수 소형 관상용 새우입니다. 체리 새우는 키우기 쉽지만 탈피(Molting)를 통해 성장하는 갑각류 특성상 미네랄(GH/KH/TDS) 불균형이나 급격한 환수 쇼크가 일어날 경우 껍질이 제대로 벗겨지지 않아 사망하는 '화이트 링(White Ring of Death)' 현상이 쉽게 발생합니다. 또한 구리(Copper) 및 중금속 성분에 극도로 취약하여 관련 어류 약품 사용 시 수분 내 전멸할 수 있습니다. 오늘 PetSelf에서는 체리 새우의 행동·신체 신호를 정확히 읽어내고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.",
+                "whyTitle": "체리 새우의 바디 랭귀지: 등 갑각의 화이트 링(White Ring)과 산란 수영(Glass Swimming)",
+                "whyDesc": "체리 새우는 갑각의 상태와 헤엄치는 패턴으로 생체 신호와 건강 상태를 알립니다. 머리와 가슴 사이의 껍질이 허얗게 벌어지며 중간에 흰 띠가 생기는 **'화이트 링(White Ring of Death)'**은 미네랄 불균형이나 급격한 TDS 변화로 인한 치명적인 탈피 부전 신호입니다. 반면 수조 벽면을 따라 모든 수컷들이 분주하게 날아다니듯 헤엄치는 **'산란 수영(Glass Swimming)'**은 암컷이 포란을 위해 페로몬을 방출했거나, 반대로 수질에 암모니아/중금속 독성이 발생했음을 나타내는 신호입니다.",
+                "body_signals": [
+                    {
+                        "name": "머리와 배 사이의 갑각이 허얗게 벌어짐 (White Ring of Death)",
+                        "meaning": "미네랄(GH/칼슘) 부족이나 급격한 환수 쇼크로 인해 탈피에 실패하고 폐사 직전에 도달한 신호입니다.",
+                        "response": "억지로 껍질을 벗기지 말고, 미네랄 보충제를 투여하여 GH(4~8 dGH) 및 TDS 수치를 안정적으로 맞춰줍니다."
+                    },
+                    {
+                        "name": "수조 벽면을 따라 미친 듯이 수영함 (Frantic Glass Swimming)",
+                        "meaning": "탈피한 암컷의 포란 페로몬 자극에 의한 자연스러운 구애 수영이거나, 암모니아/구리 독성 발생 경고입니다.",
+                        "response": "암컷의 상태를 관찰한 뒤, 수질 시약으로 암모니아와 질산염을 측정하여 이상 시 물방울 적응(점적 환수) 방식으로 서서히 환수합니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 수온(20°C~25°C) 및 미네랄(GH 4~8 / TDS 150~250) 점검과 식물성 사료 급여",
+                        "text": "급격한 수온 변화를 방지하고 미네랄 수치를 확인하며, 1~2시간 내 다 먹을 수 있는 소량의 전용 사료나 스피룰리나를 급여합니다."
+                    },
+                    {
+                        "name": "낮: 스펀지 여과기 수류 조절 및 모스/수초 은신처 점검",
+                        "text": "어린 치새우가 여과기에 빨려 들어가지 않도록 스펀지 여과기를 사용하고, 탈피 후 몸이 말랑할 때 숨을 수 있는 모스 수초를 제공합니다."
+                    },
+                    {
+                        "name": "저녁: 남은 사료 스포이트 제거 및 미세 물방울 점적 환수",
+                        "text": "플라나리아나 히드라 번식 및 수질 오염을 막기 위해 남은 사료를 제거하고, 환수 시에는 pH/TDS 쇼크를 막기 위해 물방울을 천천히 떨어뜨리는 점적 환수를 실시합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "어항 약품이나 이끼 제거제를 넣었는데 새우들이 전부 죽어가요. 왜 그런가요?",
+                        "answer": "관상용 새우는 구리(Copper / Cu) 및 중금속 성분에 극도로 민감합니다. 일반 열대어용 백점병 치료제, 이끼 제거제, 달팽이 제거제에 포함된 유산구리(Copper Sulfate) 성분은 새우의 혈액 내 헤모시아닌 반응을 차단하여 즉사시킵니다. 새우 항에는 절대 구리 성분이 함유된 약품을 사용해서는 안 됩니다."
+                    },
+                    {
+                        "question": "체리 새우가 알을 품었는데(포란) 치새우를 구하기 위해 어떡해야 하나요?",
+                        "answer": "암컷이 배에 노란색/초록색 알을 품고 다리(복족)를 털어주는 포란 상태가 되면 약 3~4주 후 귀여운 치새우들이 부화합니다. 치새우는 성체 어류(구피, 테트라, 엔젤피쉬 등)의 좋은 먹이가 되므로 풍성한 윌로모스 수초를 조성해 주거나, 새우 전용 단독항에서 사육하는 것이 안전합니다."
+                    }
+                ],
+                "tags": [
+                    "체리새우",
+                    "네오카리디나",
+                    "관상용새우",
+                    "새우탈피부전"
+                ]
+            },
+            "en": {
+                "title": "Cherry Shrimp White Ring of Death Signals and 3-Step Daily Routine for Mineral and Water Quality Care",
+                "description": "Care guide for the vibrant Cherry Shrimp (Neocaridina davidi). Interpret the White Ring of Death and glass swimming signals, block copper toxicity, and manage GH/TDS in 3 steps.",
+                "authority": "Ornamental Fish International (OFI) & Dwarf Shrimp Invertebrate Care Protocols",
+                "profile": {
+                    "breed": "Cherry Shrimp / Neocaridina (Neocaridina davidi)",
+                    "lifespan": "1 - 2 Years",
+                    "sleep_pattern": "6 - 8 Hours (Rests motionless among moss/plants after lights off)",
+                    "temperament": "Peaceful, Scavenger, Non-aggressive, Sensitive to Water Parameters"
+                },
+                "intro": "Cherished for their brilliant red coloration against green aquatic plants, the Cherry Shrimp (Neocaridina davidi) is an iconic freshwater dwarf shrimp widely kept as an algae grazer and cleanup crew. While relatively hardy, their crustacean nature requires careful mineral management (GH, KH, TDS). Sudden water parameter shifts or calcium/magnesium deficits cause the fatal 'White Ring of Death' (molting failure). Furthermore, they are hypersensitive to copper and heavy metals—medications containing copper can wipe out an entire colony within minutes. Today, PetSelf presents a 3-step daily care routine to decode your shrimp's physical signals and maintain pristine water parameters.",
+                "whyTitle": "Cherry Shrimp Body Language: White Ring of Death and Frantic Glass Swimming",
+                "whyDesc": "Cherry Shrimp communicate environmental stress and breeding readiness through exoskeleton appearance and swimming patterns. A clear white gap or separation between the carapace and abdomen **'White Ring of Death'** is a critical warning of a failed molt due to mineral imbalance or osmotic shock. Conversely, when male shrimp swim frantically along the glass wall and water column **'Frantic Glass Swimming'**, it indicates either a female releasing mating pheromones or dangerous ammonia/copper toxicity in the water.",
+                "body_signals": [
+                    {
+                        "name": "White Gap Between Carapace and Abdomen (White Ring of Death)",
+                        "meaning": "A critical molting failure signal caused by mineral deficits (GH/Calcium) or osmotic shock, often resulting in mortality.",
+                        "response": "Do not attempt to peel the shell manually; adjust GH (4–8 dGH) and TDS (150–250 ppm) gradually using shrimp mineral supplements."
+                    },
+                    {
+                        "name": "Frantic Swimming Along Glass and Water Column (Frantic Glass Swimming)",
+                        "meaning": "A natural male response to a freshly molted female's mating pheromones, or an urgent warning of ammonia/copper toxicity.",
+                        "response": "Check for saddled/berried females; test water immediately for ammonia or heavy metals, and perform a slow drip water change if parameters are off."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Water Temp (20°C–25°C) & Mineral (GH 4–8 / TDS 150–250) Check with Feeding",
+                        "text": "Verify temperature stability and mineral parameters, feeding a small portion of specialized shrimp food or spirulina consumed within 1–2 hours."
+                    },
+                    {
+                        "name": "Afternoon: Sponge Filter Current Check & Moss Cover Maintenance",
+                        "text": "Use sponge filtration to prevent tiny shrimplets from being sucked in, providing dense java moss as hiding spots during post-molt soft shell phases."
+                    },
+                    {
+                        "name": "Evening: Uneaten Food Removal & Drip Water Change Routine",
+                        "text": "Siphon out food scraps to prevent planaria and nitrate build-up, using a slow drip-acclimation system during water changes to avoid pH/TDS shock."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Why did all my shrimp die after adding aquarium medication or algaecide?",
+                        "answer": "Dwarf shrimp have extreme copper (Cu) sensitivity. Copper blocks oxygen transport in their hemocyanin-based blood, causing instant mortality. Common fish medications for Ich, snail eradicators, and algaecides contain copper sulfate. Never use copper-based treatments in a shrimp tank."
+                    },
+                    {
+                        "question": "My female shrimp is carrying eggs (berried)—how do I protect the baby shrimp?",
+                        "answer": "When a female carries yellow or green eggs under her pleopods, shrimplets will hatch in about 3–4 weeks. Since tiny shrimplets are easily eaten by fish (guppies, tetras), provide dense moss cover or house them in a dedicated species-only shrimp tank."
+                    }
+                ],
+                "tags": [
+                    "CherryShrimp",
+                    "Neocaridina",
+                    "DwarfShrimp",
+                    "ShrimpMolting"
+                ]
+            },
+            "ja": {
+                "title": "チェリーシュリンプの脱皮不全サインと銅中毒・水質管理のための3ステップデイリールーティン",
+                "description": "鮮やかな観賞用エビ、チェリーシュリンプ（Neocaridina）。ホワイトリング（脱皮不全）サインの解読、ミネラル（GH/TDS）調整、銅中毒遮断のための3ステップホームケアを紹介します。",
+                "authority": "国際観賞魚協会(OFI)および小型エビ・無脊椎動物獣医ケアプロトコル",
+                "profile": {
+                    "breed": "チェリーシュリンプ / ネオカリディナ (Cherry Shrimp / Neocaridina davidi)",
+                    "lifespan": "1 〜 2年",
+                    "sleep_pattern": "6 〜 8時間 (消灯後、ウィローモスや水草の間で静止休息)",
+                    "temperament": "温厚、平和的、お掃除習性(Scavenger)、水質変化に敏感"
+                },
+                "intro": "水草の緑に映える鮮やかな赤い体色が魅力的なチェリーシュリンプ（Cherry Shrimp / Neocaridina davidi）は、アクアリウムのコケ取りや残餌掃除役として愛される小型淡水エビです。飼育自体は比較的容易ですが、脱皮（Molting）を行って成長する甲殻類の特性上、ミネラル（GH/KH/TDS）の不均衡や急激な水質変化（pHショック）が起きると、殻がうまく脱げずに死亡する「ホワイトリング（White Ring of Death）」と呼ばれる脱皮不全が発生します。また、銅（Copper）などの重金属に極めて弱く、魚用の薬品を使用すると全滅することがあります。本日PetSelfでは、チェリーシュリンプのサインを読み解き、健康を守る3ステップルーティンをお届けします。",
+                "whyTitle": "チェリーシュリンプのボディランゲージ：甲殻のホワイトリング(White Ring)と抱卵の舞(Glass Swimming)",
+                "whyDesc": "チェリーシュリンプは甲殻の状態と泳ぎ方で水質や繁殖サインを表します。頭部と腹部の間の殻が白く開き、白い帯ができる**「ホワイトリング（White Ring of Death）」**は、ミネラル不足やTDSの急変による危険な脱皮不全サインです。一方、オスたちが水槽のガラス面に沿って飛び回るように泳ぐ**「抱卵の舞（Glass Swimming）」**は、メスが放出するフェロモンによる求愛行動、または水中のアンモニアや重金属の毒性警告です。",
+                "body_signals": [
+                    {
+                        "name": "頭部と腹部の間の殻が白く広がる (White Ring of Death)",
+                        "meaning": "ミネラル（GH/カルシウム）不足や換水ショックにより脱皮に失敗し、命の危険が迫っているサインです。",
+                        "response": "無理に殻を剥がさず、エビ用ミネラル剤を添加してGH（4〜8 dGH）とTDS（150〜250 ppm）を安定させます。"
+                    },
+                    {
+                        "name": "水槽のガラス面に沿って激しく泳ぎ回る (Frantic Glass Swimming / 抱卵の舞)",
+                        "meaning": "脱皮したメスが放つ求愛フェロモンに対するオスの正常な反応、あるいはアンモニア・銅中毒の警告です。",
+                        "response": "抱卵中のメスの有無を確認し、水質検査キットでアンモニアや重金属を測定して、異常時は点滴法でゆっくり換水します。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：水温（20°C〜25°C）＆ミネラル（GH 4〜8 / TDS 150〜250）の点検と給餌",
+                        "text": "水温とミネラル値を確認し、1〜2時間で食べきれる少量の専用フードやスピルリナを与えます。"
+                    },
+                    {
+                        "name": "昼：スポンジフィルターの水流調整＆ウィローモスの隠れ家管理",
+                        "text": "稚エビが吸い込まれないようスポンジフィルターを使用し、脱皮後の柔らかい体を守るウィローモスを配置します。"
+                    },
+                    {
+                        "name": "夜：スポイトでの残餌回収＆点滴法による安全な換水",
+                        "text": "プラナリアやヒドラの発生を防ぐため残ったフードを回収し、換水時はショックを防ぐため点滴法で少しずつ水を足します。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "魚用の薬やコケ取り剤を入れたらエビが全滅してしまいました。なぜですか？",
+                        "answer": "小型エビは銅（Copper / Cu）や重金属に極めて敏感です。魚の白点病治療薬やコケ除去剤、スネイル駆除剤に含まれる硫酸銅（Copper Sulfate）成分は、エビの血液中のヘモシアニン反応を阻害し即死させます。エビがいる水槽には絶対に銅系薬剤を使用しないでください。"
+                    },
+                    {
+                        "question": "チェリーシュリンプが卵を抱えています（抱卵）。稚エビを守るにはどうすればいいですか？",
+                        "answer": "メスがお腹（腹足）に卵を抱えて扇ぐ抱卵状態になると、約3〜4週間で可愛い稚エビが孵化します。稚エビはグッピーやテトラなどの魚に食べられやすいため、ウィローモスなどの水草を茂らせるか、エビ専用の単独水槽で飼育するのが安全です。"
+                    }
+                ],
+                "tags": [
+                    "チェリーシュリンプ",
+                    "ネオカリディナ",
+                    "観賞用エビ",
+                    "エビの脱皮不全"
+                ]
+            },
+            "zh": {
+                "title": "樱花虾（极火虾）脱壳失败信号解读与铜毒性及水质护理的3步日常流程",
+                "description": "绚丽观赏虾樱花虾（Cherry Shrimp / 新米虾）护理指南。解读断头断背（White Ring）信号，杜绝铜毒性，维持 GH/TDS 稳定的3步骤家庭护理。",
+                "authority": "国际观赏鱼协会 (OFI) 与小型观赏虾兽医护理标准",
+                "profile": {
+                    "breed": "樱花虾 / 玫瑰虾 / 新米虾 (Cherry Shrimp / Neocaridina davidi)",
+                    "lifespan": "1 ~ 2年",
+                    "sleep_pattern": "6 ~ 8小时 (关灯后在莫丝与水草间静止休息)",
+                    "temperament": "温和、和平、除藻工具虾 (Scavenger)、对水质极度敏感"
+                },
+                "intro": "在翠绿水草间散发着鲜艳红光的樱花虾（Cherry Shrimp / Neocaridina davidi）是水族箱中最受欢迎的除藻工具虾与观赏小型淡水虾。虽然其适应力较强，但作为通过脱壳（Molting）生长的甲壳类动物，若水体矿物质（GH/KH/TDS）失衡或遭受急剧换水冲击，极易出现旧壳无法顺利脱落而导致死亡的“断头/断背（White Ring of Death）”现象。此外，樱花虾对铜（Copper）及重金属成分极度敏感，使用含铜鱼药可导致全缸瞬间灭顶。今天 PetSelf 将带您准确解读樱花虾的身体与行为信号，并通过 3 步骤日常护理维护其健康。",
+                "whyTitle": "樱花虾的肢体语言：甲壳断背裂痕 (White Ring) 与飞缸行为 (Glass Swimming)",
+                "whyDesc": "樱花虾通过外壳状态与游动姿态反映水质与繁殖信号。头胸部与腹部之间的外壳出现白色裂缝**“断头/断背 (White Ring of Death)”**，是矿物质缺乏或渗透压剧变引发的致命脱壳失败预警。相反，缸内所有雄虾沿着缸壁快速上下飞游**“飞缸/起舞 (Frantic Glass Swimming)”**，通常是母虾脱壳释放求偶激素的正常现象，或是水中氨氮、重金属毒性飙升的危险信号。",
+                "body_signals": [
+                    {
+                        "name": "头胸部与腹部交界处外壳发白开裂 (White Ring of Death)",
+                        "meaning": "因水体矿物质（GH/钙）不足或换水冲击导致脱壳困难，处于极高死亡风险中。",
+                        "response": "切勿人工剥壳，补充观赏虾专用矿物质，将 GH（4~8 dGH）与 TDS（150~250 ppm）调整至稳定状态。"
+                    },
+                    {
+                        "name": "沿缸壁与水体疯狂快速游动 (Frantic Glass Swimming / 飞缸)",
+                        "meaning": "雄虾受刚脱壳母虾释放的求偶激素诱导的寻偶行为，或氨氮/重金属毒性爆发的预警。",
+                        "response": "观察是否有抱卵母虾；使用水质测试试剂检测氨氮与重金属，若指标异常应采用滴流法缓缓换水。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：水温（20°C~25°C）与矿物质（GH 4~8 / TDS 150~250）检测及投喂",
+                        "text": "确认水温与矿物质指标，投喂可在1~2小时内吃完的少量观赏虾专用粮或螺旋藻。"
+                    },
+                    {
+                        "name": "中午：水妖精（水精/水绵）水流调节与莫丝隐蔽处维护",
+                        "text": "使用水妖精过滤器防止幼虾被吸入，并种植密集的爪哇莫丝，为脱壳后身体软弱的虾提供庇护。"
+                    },
+                    {
+                        "name": "晚上：吸管清理残饵与滴流法安全换水",
+                        "text": "及时吸出未吃完的残饵以防滋生涡虫或水螅，换水时采用滴流缓慢补水以防 pH/TDS 冲击。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "下完鱼药或除藻剂后，观赏虾全部死亡了，这是为什么？",
+                        "answer": "观赏虾对铜（Copper / Cu）及重金属极度敏感。观赏鱼治疗白点病的药物、除藻剂及灭螺剂中通常含有硫酸铜成分，该成分会阻断虾类血液中的血蓝蛋白反应导致其迅速窒息死亡。观赏虾缸中严禁使用任何含铜药物。"
+                    },
+                    {
+                        "question": "母虾抱卵（踢卵）了，应该如何保护孵化的幼虾？",
+                        "answer": "母虾腹足抱有黄/绿色虾卵并不断踢动以增加溶氧时，约 3~4 周后会孵化出幼虾。由于幼虾极易被孔雀鱼、灯鱼等成鱼吞食，应提供密集的莫丝水草作为隐蔽场所，或在观赏虾单养缸中进行繁殖。"
+                    }
+                ],
+                "tags": [
+                    "樱花虾",
+                    "极火虾",
+                    "观赏虾",
+                    "虾类脱壳失败"
+                ]
+            },
+            "es": {
+                "title": "Señales de fallo en la muda del Camarón Cereza y rutina diaria de 3 pasos para el control mineral y del agua",
+                "description": "Guía de cuidado para el colorido Camarón Cereza (Neocaridina davidi). Interprete el Anillo Blanco de la Muerte y la natación eufórica, evite el cobre y gestione el GH/TDS en 3 pasos.",
+                "authority": "Ornamental Fish International (OFI) y Protocolos de Cuidado Veterinario de Invertebrados",
+                "profile": {
+                    "breed": "Camarón Cereza / Neocaridina (Cherry Shrimp / Neocaridina davidi)",
+                    "lifespan": "1 ~ 2 años",
+                    "sleep_pattern": "6 ~ 8 horas (Reposa inmóvil entre musgos y plantas tras apagar luces)",
+                    "temperament": "Pacífico, Limpiador (Scavenger), No agresivo, Sensible al agua"
+                },
+                "intro": "Admirado por su vívido color rojo sobre plantas acuáticas verdes, el Camarón Cereza (Neocaridina davidi) es un camarón enano de agua dulce icónico, famoso por comer algas y limpiar restos orgánicos. Aunque es resistente, su naturaleza de crustáceo requiere una gestión rigurosa de minerales (GH, KH, TDS). Los cambios bruscos de agua o la falta de calcio causan la letal muda incompleta conocida como el **'Anillo Blanco de la Muerte (White Ring of Death)'**. Además, son extremadamente sensibles al cobre; los medicamentos con cobre pueden exterminar la colonia en minutos. Hoy, PetSelf presenta una rutina de 3 pasos para proteger su salud.",
+                "whyTitle": "Lenguaje corporal del Camarón Cereza: Anillo Blanco de la Muerte y natación eufórica por el cristal",
+                "whyDesc": "Los camarones cereza comunican el estrés ambiental y el estado reproductivo mediante su exoesqueleto y su patrón de nado. Una grieta blanca entre el cefalotórax y el abdomen **'Anillo Blanco de la Muerte (White Ring of Death)'** es un aviso crítico de un fallo en la muda por desequilibrio mineral. En cambio, cuando los machos nadan frenéticamente por los cristales **'Natación eufórica (Glass Swimming)'**, indica la liberación de feromonas de apareamiento por una hembra o una intoxicación por amoníaco/cobre.",
+                "body_signals": [
+                    {
+                        "name": "Grieta blanca abierta entre el cefalotórax y el abdomen (White Ring of Death)",
+                        "meaning": "Señal crítica de muda fallida por déficit de minerales (GH/Calcio) o shock osmótico, con alto riesgo de mortalidad.",
+                        "response": "Nunca intente retirar el caparazón manualmente; ajuste gradualmente el GH (4–8 dGH) y TDS (150–250 ppm) con minerales."
+                    },
+                    {
+                        "name": "Natación frenética a lo largo de los cristales (Frantic Glass Swimming)",
+                        "meaning": "Respuesta natural de los machos a las feromonas de una hembra recién mudada, o advertencia de toxicidad por amoníaco/cobre.",
+                        "response": "Compruebe si hay hembras ovadas; mida amoníaco y metales pesados, y realice un cambio de agua lento por goteo si es necesario."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Control de temperatura (20°C–25°C) y minerales (GH 4–8 / TDS 150–250) con alimento especial",
+                        "text": "Verifique la estabilidad térmica y mineral, alimentando con pequeñas porciones de comida para gambas o espirulina consumibles en 1-2 horas."
+                    },
+                    {
+                        "name": "Tarde: Ajuste de corriente del filtro de esponja y refugios de musgo",
+                        "text": "Utilice filtros de esponja para evitar succionar crías (zoretas), proporcionando musgo de Java denso para protegerlos tras mudar su caparazón."
+                    },
+                    {
+                        "name": "Noche: Extracción de restos con sifón y cambio de agua por goteo",
+                        "text": "Sifone restos de comida para evitar planarias y picos de nitratos, usando un sistema de goteo lento al cambiar agua para evitar shock de pH/TDS."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Por qué murieron todas mis gambas tras aplicar un medicamento o antialgas?",
+                        "answer": "Los camarones enanos son hipersensibles al cobre (Cu). El cobre bloquea el transporte de oxígeno en su hemocianina, provocando la muerte instantánea. Los medicamentos contra el punto blanco, antialgas y anticaracoles contienen sulfato de cobre. Nunca use tratamientos con cobre en acuarios con gambas."
+                    },
+                    {
+                        "question": "Mi hembra lleva huevos en el vientre (ovada), ¿cómo protejo a las crías?",
+                        "answer": "Cuando la hembra lleva huevos amarillos o verdes en sus pleópodos, las crías nacerán en 3-4 semanas. Como los peces (guppys, tetras) se comen a las crías pequeñas, proporcione musgo muy denso o manténgalas en un acuario exclusivo para gambas."
+                    }
+                ],
+                "tags": [
+                    "CamaronCereza",
+                    "GambasNeocaridina",
+                    "Gambario",
+                    "FalloMudaGambas"
+                ]
+            },
+            "fr": {
+                "title": "Signaux de mue incomplète chez la Crevette Cerise et routine quotidienne en 3 étapes pour les minéraux et l'eau",
+                "description": "Guide de soins pour la brillante Crevette Cerise (Neocaridina davidi). Décryptez l'Anneau Blanc de la Mort et la nage frénétique, éliminez le cuivre et gérez le GH/TDS en 3 étapes.",
+                "authority": "Ornamental Fish International (OFI) & Normes de Soins des Invertébrés d'Aquarium",
+                "profile": {
+                    "breed": "Crevette Cerise / Neocaridina (Cherry Shrimp / Neocaridina davidi)",
+                    "lifespan": "1 ~ 2 ans",
+                    "sleep_pattern": "6 ~ 8 heures (Repos immobile parmi la mousse et les plantes après extinction)",
+                    "temperament": "Paisible, Détritivore (Scavenger), Non agressif, Sensible aux paramètres de l'eau"
+                },
+                "intro": "Appréciée pour sa couleur rouge éclatante se détachant sur les plantes vertes, la Crevette Cerise (Neocaridina davidi) est une crevette naine d'eau douce incontournable pour consommer les algues et déchets. Bien que robuste, sa nature de crustacé exige une gestion rigoureuse des minéraux (GH, KH, TDS). Des variations rapides de l'eau ou un manque de calcium entraînent la redoutable mue incomplète appelée **« L'Anneau Blanc de la Mort (White Ring of Death) »**. De plus, elles sont extrêmement sensibles au cuivre, qui peut anéantir une colonie en quelques minutes. Aujourd'hui, PetSelf vous présente une routine en 3 étapes.",
+                "whyTitle": "Langage corporel de la Crevette Cerise : L'Anneau Blanc de la Mort et la nage frénétique le long des vitres",
+                "whyDesc": "Les crevettes cerises expriment le stress environnemental et leur état reproducteur par leur carapace et leur comportement de nage. Une fracture blanche visible entre le céphalothorax et l'abdomen **« L'Anneau Blanc de la Mort (White Ring of Death) »** est un signal d'alarme de mue manquée due à un déséquilibre minéral. En revanche, voir les mâles nager frénétiquement le long des vitres **« Nage frénétique (Glass Swimming) »** indique soit des phéromones de reproduction émises par une femelle, soit une toxicité grave à l'ammoniaque ou au cuivre.",
+                "body_signals": [
+                    {
+                        "name": "Fissure blanche ouverte entre le céphalothorax et l'abdomen (White Ring of Death)",
+                        "meaning": "Signal critique d'échec de mue dû à une carence en minéraux (GH/Calcium) ou à un choc osmotique, entraînant souvent la mort.",
+                        "response": "Ne tentez jamais de retirer la carapace à la main ; ajustez progressivement le GH (4–8 dGH) et le TDS (150–250 ppm) avec des minéraux pour crevettes."
+                    },
+                    {
+                        "name": "Nage frénétique le long des vitres et dans tout le bac (Frantic Glass Swimming)",
+                        "meaning": "Réaction naturelle des mâles aux phéromones d'une femelle qui vient de muer, ou alerte urgente de toxicité à l'ammoniaque/cuivre.",
+                        "response": "Vérifiez si des femelles sont grainées ; testez immédiatement l'eau et réalisez un changement d'eau très lent au goutte-à-goutte si nécessaire."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Contrôle de la température (20°C–25°C) et des minéraux (GH 4–8 / TDS 150–250) avec alimentation",
+                        "text": "Vérifiez la stabilité de l'eau et donnez une petite quantité de nourriture spécifique pour crevettes ou de spiruline consommée en 1 à 2 heures."
+                    },
+                    {
+                        "name": "Après-midi : Réglage du filtre exhausteur à mousse & entretien de la mousse de Java",
+                        "text": "Utilisez un filtre à mousse pour éviter d'aspirer les juvéniles et offrez de la mousse de Java dense pour les protéger pendant la mue."
+                    },
+                    {
+                        "name": "Soir : Retrait des restes à la pipette & changement d'eau au goutte-à-goutte",
+                        "text": "Aspirez les restes pour éviter les planaires et la hausse des nitrates, et utilisez un goutte-à-goutte lors du renouvellement d'eau contre les chocs de pH/TDS."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Pourquoi toutes mes crevettes sont-elles mortes après l'ajout d'un traitement pour poissons ou anti-algues ?",
+                        "answer": "Les crevettes naines sont d'une sensibilité extrême au cuivre (Cu). Le cuivre bloque le transport de l'oxygène dans leur hémocyanine sanguine, causant une mort foudroyante. Les traitements contre les points blancs, les anti-algues et anti-escargots contiennent souvent du sulfate de cuivre. Ne mettez JAMAIS de cuivre dans un bac à crevettes."
+                    },
+                    {
+                        "question": "Ma femelle crevette porte des œufs (grainée), comment protéger les bébés ?",
+                        "answer": "Quand la femelle porte des œufs jaunes ou verts sous son abdomen, les bébés crevettes naissent au bout de 3 à 4 semaines. Les juvéniles étant des proies faciles pour les poissons (guppys, tétras), fournissez de la mousse végétale dense ou élevez-les dans un bac spécifique."
+                    }
+                ],
+                "tags": [
+                    "CrevetteCerise",
+                    "Neocaridina",
+                    "CrevetteNaine",
+                    "MueCrevette"
+                ]
+            },
+            "de": {
+                "title": "Fehlhäutungssignale bei der Rückenstrichgarnele (Red Cherry) und 3-Schritte-Tagesroutine für Mineralien und Wasser",
+                "description": "Pflegeanleitung für die leuchtende Red Cherry Garnele (Neocaridina davidi). 'White Ring of Death' und Wildschwimmen verstehen, Kupfer vermeiden und GH/TDS in 3 Schritten steuern.",
+                "authority": "Ornamental Fish International (OFI) & Tiermedizinische Standards für Wirbellose",
+                "profile": {
+                    "breed": "Rückenstrichgarnele / Red Cherry / Neocaridina (Neocaridina davidi)",
+                    "lifespan": "1 ~ 2 Jahre",
+                    "sleep_pattern": "6 ~ 8 Stunden (Ruht nachts reglos zwischen Moos und Pflanzen)",
+                    "temperament": "Friedlich, Aufräumer (Scavenger), Nicht aggressiv, Empfindlich gegenüber Wasserwerten"
+                },
+                "intro": "Geschätzt für ihre leuchtend rote Farbe auf grünem Pflanzenhintergrund ist die Red Cherry Garnele (Neocaridina davidi) die beliebteste Zwerggarnele zur Algen- und Restefütterung im Süßwasseraquarium. Obwohl sie als robust gilt, erfordert ihr Panzersystem eine präzise Mineralienversorgung (GH, KH, TDS). Rasche Wasserwertveränderungen oder Calciummangel führen zur tödlichen Fehlhäutung, dem sogenannten **'White Ring of Death'**. Zudem reagieren sie extrem empfindlich auf Kupfer – kupferhaltige Medikamente töten eine Kolonie in Minuten. Heute zeigt PetSelf eine 3-Schritte-Routine für Ihre Garnelen.",
+                "whyTitle": "Körpersprache der Red Cherry Garnele: Weißer Band-Spalt (White Ring) und Wildschwimmen (Glass Swimming)",
+                "whyDesc": "Zwerggarnelen drücken Umweltstress und Paarungsbereitschaft über ihren Panzer und ihr Schwimmverhalten aus. Ein deutlicher weißer Spalt zwischen Brustpanzer und Hinterleib **'White Ring of Death'** ist eine ernste Warnung vor einer gescheiterten Häutung durch Mineralienmangel. Wenn dagegen Männchen hektisch an den Scheiben entlangschwimmen **'Wildschwimmen (Glass Swimming)'**, zeigt dies entweder die Pheromonausschüttung eines Weibchens oder eine gefährliche Ammoniak-/Kupferbelastung an.",
+                "body_signals": [
+                    {
+                        "name": "Weißer Spalt zwischen Brustpanzer und Hinterleib (White Ring of Death)",
+                        "meaning": "Kritisches Anzeichen einer gescheiterten Häutung durch Mineralienmangel (GH/Calcium) oder osmotischen Schock, oft tödlich.",
+                        "response": "Versuchen Sie niemals, den Panzer manuell zu entfernen; erhöhen Sie GH (4–8 dGH) und TDS (150–250 ppm) langsam mit Mineralmitteln."
+                    },
+                    {
+                        "name": "Hektisches Entlangschwimmen an den Aquarienscheiben (Frantic Glass Swimming / Wildschwimmen)",
+                        "meaning": "Natürliches Suchverhalten der Männchen nach Pheromonen frisch gehäuteter Weibchen oder Warnung vor Ammoniak-/Kupfergiften.",
+                        "response": "Prüfen Sie auf eiertragende Weibchen; testen Sie das Wasser sofort auf Ammoniak/Schwermetalle und führen Sie ggf. einen Tröpfchen-Wasserwechsel durch."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Temperatur- (20 °C–25 °C) & Mineralien-Prüfung (GH 4–8 / TDS 150–250) mit Fütterung",
+                        "text": "Prüfen Sie die Stabilität der Wasserwerte und füttern Sie kleine Mengen spezielles Garnelenfutter oder Spirulina (in 1–2 Std. fressbar)."
+                    },
+                    {
+                        "name": "Mittag: Schwammfilter-Strömung einstellen & Javamoos-Verstecke pflegen",
+                        "text": "Nutzen Sie Schwammfilter, damit Junggarnelen nicht eingesaugt werden, und bieten Sie dichtes Javamoos als Versteck nach der Häutung."
+                    },
+                    {
+                        "name": "Abend: Futterreste absaugen & Schonender Tröpfchen-Wasserwechsel",
+                        "text": "Saugen Sie Futterreste ab, um Planarien und Nitrat zu vermeiden; nutzen Sie beim Wasserwechsel die Tröpfchenmethode gegen pH-/TDS-Schocks."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Warum sind all meine Garnelen nach der Zugabe eines Medikaments oder Algenmittels gestorben?",
+                        "answer": "Zwerggarnelen reagieren extrem empfindlich auf Kupfer (Cu). Kupfer blockiert den Sauerstofftransport in ihrem Hämocyanin-Blut und führt zum sofortigen Ersticken. Fischmedikamente gegen Ichthyophthirius, Schneckenmittel und Algenbekämpfer enthalten oft Kupfersulfat. Nutzen Sie niemals kupferhaltige Mittel im Garnelenbecken."
+                    },
+                    {
+                        "question": "Mein Garnelenweibchen trägt Eier (eiertragend) – wie schütze ich die Babygarnelen?",
+                        "answer": "Trägt das Weibchen gelbe oder grüne Eier unter den Schwimmbeinen, schlüpfen nach 3–4 Wochen winzige Babygarnelen. Da Fische (Guppys, Salmler) die kleinen Garnelen fressen, bieten Sie sehr dichtes Moos an oder halten Sie die Garnelen in einem reinen Artenbecken."
+                    }
+                ],
+                "tags": [
+                    "RedCherryGarnele",
+                    "Neocaridina",
+                    "Zwerggarnele",
+                    "GarnelenHaeutung"
+                ]
+            },
+            "pt": {
+                "title": "Sinais de falha na muda do Camarão Red Cherry e rotina diária de 3 passos para controle mineral e da água",
+                "description": "Guia de cuidados para o brilhante Camarão Red Cherry (Neocaridina davidi). Entenda o Anel Branco da Morte e o nado eufórico pelos vidros, evite o cobre e controle o GH/TDS em 3 passos.",
+                "authority": "Ornamental Fish International (OFI) & Protocolos de Cuidados Veterinários com Invertebrados",
+                "profile": {
+                    "breed": "Camarão Red Cherry / Neocaridina (Cherry Shrimp / Neocaridina davidi)",
+                    "lifespan": "1 ~ 2 anos",
+                    "sleep_pattern": "6 ~ 8 horas (Resta imóvel entre musgos e plantas após apagar as luzes)",
+                    "temperament": "Pacífico, Limpador (Scavenger), Não agressivo, Sensível à água"
+                },
+                "intro": "Admirado por sua cor vermelha vibrante em contraste com plantas aquáticas verdes, o Camarão Red Cherry (Neocaridina davidi) é um camarão anão de água doce muito popular para limpeza de algas e restos orgânicos. Embora seja resistente, sua natureza de crustáceo exige uma gestão rigorosa de minerais (GH, KH, TDS). Mudanças bruscas de água ou falta de cálcio causam a fatal falha na troca de casca conhecida como o **'Anel Branco da Morte (White Ring of Death)'**. Além disso, são extremamente sensíveis ao cobre. Hoje, o PetSelf apresenta uma rotina de 3 passos para cuidar do seu aquário de camarões.",
+                "whyTitle": "Linguagem corporal do Camarão Red Cherry: Anel Branco da Morte e nado eufórico pelos vidros",
+                "whyDesc": "Os camarões red cherry comunicam estresse ambiental e prontidão reprodutiva através do exoesqueleto e padrão de nado. Uma fenda branca visível entre o cefalotórax e o abdômen **'Anel Branco da Morte (White Ring of Death)'** é um aviso crítico de falha na muda por desequilíbrio mineral. Já quando os machos nadam freneticamente pelos vidros **'Nado eufórico (Glass Swimming)'**, indica a liberação de feromônios de acasalamento por uma fêmea ou toxicidade por amônia/cobre.",
+                "body_signals": [
+                    {
+                        "name": "Fenda branca aberta entre o cefalotórax e o abdômen (White Ring of Death)",
+                        "meaning": "Sinal crítico de falha na troca de casca por falta de minerais (GH/Cálcio) ou choque osmótico, com alto risco de morte.",
+                        "response": "Nunca tente remover a casca manualmente; ajuste o GH (4–8 dGH) e TDS (150–250 ppm) gradualmente com suplementos minerais."
+                    },
+                    {
+                        "name": "Nado frenético ao longo dos vidros e coluna de água (Frantic Glass Swimming)",
+                        "meaning": "Resposta natural dos machos aos feromônios de uma fêmea recém-mudada, ou aviso urgente de toxicidade por amônia/cobre.",
+                        "response": "Verifique se há fêmeas com ovos; teste a água para amônia e metais pesados, e faça uma troca parcial de água por gotejamento se necessário."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Controle da temperatura (20°C–25°C) e minerais (GH 4–8 / TDS 150–250) com alimentação",
+                        "text": "Verifique a estabilidade da água e ofereça uma pequena porção de ração específica para camarões ou espirulina consumível em 1-2 horas."
+                    },
+                    {
+                        "name": "Tarde: Ajuste de fluxo do filtro de esponja e manutenção do musgo de Java",
+                        "text": "Utilize filtros de esponja para evitar sugar filhotes, fornecendo musgo de Java denso para servir de refúgio após a troca de casca."
+                    },
+                    {
+                        "name": "Noite: Remoção de sobras com pipeta e troca de água por gotejamento",
+                        "text": "Sifone restos de ração para evitar planárias e picos de nitrato, usando o sistema de gotejamento na troca de água para evitar choque de pH/TDS."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Por que todos os meus camarões morreram após aplicar um medicamento ou algicida?",
+                        "answer": "Os camarões anões são extremamente sensíveis ao cobre (Cu). O cobre bloqueia o transporte de oxigênio em sua hemocianina sanguínea, causando morte instantânea. Remédios para íctio, algicidas e moluscicidas contêm sulfato de cobre. Nunca use produtos com cobre no aquário de camarões."
+                    },
+                    {
+                        "question": "Minha fêmea está carregando ovos no ventre (ovada), como proteger os filhotes?",
+                        "answer": "Quando a fêmea carrega ovos amarelos ou verdes nas patas nadadoras, os filhotes nascerão em 3-4 semanas. Como peixes (guppies, tetras) comem os filhotes pequenos, ofereça musgo denso ou mantenha-os em um aquário exclusivo para camarões."
+                    }
+                ],
+                "tags": [
+                    "CamaraoRedCherry",
+                    "Neocaridina",
+                    "CamaraoAnao",
+                    "TrocaDeCascaCamarao"
+                ]
+            },
+            "id": {
+                "title": "Sinyal Gagal Ganti Kulit pada Udang Red Cherry dan Rutinitas Harian 3 Langkah Perawatan Mineral serta Kualitas Air",
+                "description": "Panduan perawatan Udang Red Cherry (Neocaridina davidi) yang indah. Pahami Cincin Putih Kematian (White Ring of Death) dan renang panik di kaca, cegah racun tembaga, serta kelola GH/TDS dalam 3 langkah.",
+                "authority": "Ornamental Fish International (OFI) & Standar Perawatan Medis Hewan Invertebrata",
+                "profile": {
+                    "breed": "Udang Red Cherry / Neocaridina (Cherry Shrimp / Neocaridina davidi)",
+                    "lifespan": "1 ~ 2 tahun",
+                    "sleep_pattern": "6 ~ 8 jam (Beristirahat diam di antara lumut/tanaman setelah lampu dimatikan)",
+                    "temperament": "Damai, Pemakan bangkai/sisa (Scavenger), Tidak agresif, Sensitif terhadap air"
+                },
+                "intro": "Dikagumi karena warna merahnya yang menyala di antara hijau tanaman air, Udang Red Cherry (Neocaridina davidi) adalah udang hias air tawar kecil yang sangat populer sebagai pemakan lumut dan pembersih sisa pakan. Meskipun relatif tahan banting, sifat krustasea mereka membutuhkan pengelolaan mineral (GH, KH, TDS) yang tepat. Perubahan parameter air yang mendadak atau kekurangan kalsium menyebabkan fenomena gagal ganti kulit (molting) yang mematikan yang dikenal sebagai **'Cincin Putih Kematian (White Ring of Death)'**. Selain itu, mereka sangat sensitif terhadap tembaga (copper). Hari ini, PetSelf membagikan 3 langkah rutinitas harian untuk merawat udang Anda.",
+                "whyTitle": "Bahasa Tubuh Udang Red Cherry: Cincin Putih Kematian (White Ring) dan Renang Panik di Kaca (Glass Swimming)",
+                "whyDesc": "Udang Red Cherry menyampaikan kondisi lingkungan dan kesiapan bereproduksi melalui eksoskeleton dan pola berenangnya. Celah putih yang terlihat di antara kepala dan perut **'Cincin Putih Kematian (White Ring of Death)'** adalah peringatan kritis atas gagalnya proses ganti kulit akibat ketidakseimbangan mineral. Sebaliknya, ketika udang jantan berenang cepat di sepanjang kaca **'Renang Panik di Kaca (Glass Swimming)'**, menandakan adanya feromon dari betina yang baru ganti kulit atau peringatan racun amonia/tembaga.",
+                "body_signals": [
+                    {
+                        "name": "Celah Putih Terbuka Antara Kepala dan Perut (White Ring of Death)",
+                        "meaning": "Sinyal kritis gagal ganti kulit akibat kekurangan mineral (GH/Kalsium) atau syok osmotik, dengan risiko kematian tinggi.",
+                        "response": "Jangan mencoba mengupas cangkangnya secara manual; naikkan GH (4–8 dGH) dan TDS (150–250 ppm) secara bertahap menggunakan mineral khusus udang."
+                    },
+                    {
+                        "name": "Berenang Panik dan Cepat di Sepanjang Kaca Akuarium (Frantic Glass Swimming)",
+                        "meaning": "Respon alami udang jantan terhadap feromon kawin betina yang baru ganti kulit, atau peringatan darurat racun amonia/tembaga.",
+                        "response": "Periksa apakah ada betina yang gendong telur; ukur amonia dan logam berat, lalu lakukan penggantian air secara perlahan dengan metode drip (tetes) jika diperlukan."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Pemeriksaan Suhu (20°C–25°C) & Mineral (GH 4–8 / TDS 150–250) dengan Pemberian Pakan",
+                        "text": "Pastikan stabilitas suhu dan mineral, lalu beri pakan khusus udang atau spirulina dalam jumlah sedikit yang habis dalam 1–2 jam."
+                    },
+                    {
+                        "name": "Siang: Pengaturan Arus Filter Busa (Sponge Filter) & Pemeliharaan Lumut Java Moss",
+                        "text": "Gunakan filter busa agar anak udang tidak tersedot, dan sediakan lumut Java Moss yang lebat sebagai tempat bersembunyi setelah ganti kulit."
+                    },
+                    {
+                        "name": "Malam: Pembersihan Sisa Pakan dengan Pipet & Penggantian Air Metode Tetes (Drip)",
+                        "text": "Sedot sisa pakan untuk mencegah cacing planaria dan lonjakan nitrat, serta gunakan sistem tetes saat ganti air untuk mencegah syok pH/TDS."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mengapa semua udang saya mati setelah saya memberi obat ikan atau obat pembasmi lumut?",
+                        "answer": "Udang kecil sangat sensitif terhadap tembaga (Cu). Tembaga menghentikan pengangkutan oksigen dalam darah hemosianin mereka, menyebabkan kematian seketika. Obat ikan untuk bintik putih, obat lumut, dan pembasmi siput mengandung tembaga sulfat. Jangan pernah menggunakan obat berbahan dasar tembaga di akuarium udang."
+                    },
+                    {
+                        "question": "Udang betina saya sedang gendong telur, bagaimana cara melindungi anak udang (berayak)?",
+                        "answer": "Saat betina membawa telur berwarna kuning atau hijau di bawah kakinya, anak udang akan menetas dalam waktu 3–4 minggu. Karena anak udang sangat mudah dimakan oleh ikan (guppy, tetra), sediakan lumut yang sangat lebat atau pelihara di akuarium khusus udang."
+                    }
+                ],
+                "tags": [
+                    "UdangRedCherry",
+                    "Neocaridina",
+                    "UdangHias",
+                    "GagalGantiKulitUdang"
+                ]
+            }
+        },
+        "category": "CareSelf",
+        "app": "careself",
+        "formatVersion": 4,
+        "heroImage": "/images/blog/cherry_shrimp_care.webp"
+    }
+}

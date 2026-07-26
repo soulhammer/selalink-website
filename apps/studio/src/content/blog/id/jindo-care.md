@@ -13,11 +13,11 @@ authority: "Pedoman Standar Jindo Lembaga Ilmu Peternakan Nasional Korea & Proto
 steps:
   - name: "Bahasa Tubuh Jindo: Sinyal Kesetiaan dan Kewaspadaan"
     text: "Jindo mengekspresikan emosi secara tenang lewat telinga dan ekor. Ekor tegak lurus dan telinga condong ke depan menunjukkan kewaspadaan tinggi dan fokus; sentuhan mendadak dari orang asing bisa memicu reaksi defensif. Sebaliknya, ekor rendah yang bergoyang perlahan dengan telinga rata menandakan kepatuhan dan rasa percaya pada pemilik."
-  - name: "Anjing Jindo (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "Bahasa Tubuh dan Sinyal Perilaku Anjing Jindo (Canis lupus familiaris)"
     text: "* Ekor tegak dan telinga condong ke depan: Waspada dan fokus pada target yang tidak dikenal dalam kondisi tegang. (Hindari kontak mendadak atau tatapan mata, minta orang asing tidak menyentuh, dan biarkan pemilik menenangkan anjing.)
 
 * Ekor rendah bergoyang perlahan dan telinga rata: Kepatuhan mendalam, rasa percaya, dan kasih sayang kepada pemilik. (Elus dengan lembut dan berikan pujian untuk memperkuat hubungan positif secara konsisten.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutinitas Perawatan Harian 3 Langkah untuk Anjing Jindo (Canis lupus familiaris)"
     text: "* STEP 1. Pagi: Jalan-jalan Sosialisasi Santai Fokus Penciuman (Nosework): Berjalan di pagi hari yang tenang agar anjing terbiasa dengan lingkungan melalui aroma.
 
 * STEP 2. Siang: Menyikat Bulu Ganda untuk Menghilangkan Bulu Mati: Gunakan sikat slicker dan sisir besi untuk membersihkan bulu mati lapisan dalam agar tidak menggumpal dan memicu dermatitis.
@@ -60,7 +60,7 @@ Anjing Jindo adalah harta karun nasional Korea yang diakui dunia karena kesetiaa
 
 ---
 
-## 2. Anjing Jindo (Canis lupus familiaris)'s Body Language & Signals
+## 2. Bahasa Tubuh dan Sinyal Perilaku Anjing Jindo (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Anjing Jindo adalah harta karun nasional Korea yang diakui dunia karena kesetiaa
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutinitas Perawatan Harian 3 Langkah untuk Anjing Jindo (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

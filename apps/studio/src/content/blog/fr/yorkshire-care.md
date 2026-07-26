@@ -13,11 +13,11 @@ authority: "Directives de toilettage du Yorkshire Terrier Club (YTC) et pautas d
 steps:
   - name: "Langage corporel du Yorkshire : alertes du petit chasseur et preuves de confiance"
     text: "Malgré sa petite taille, le Yorkie conserve de forts instincts de garde et de chasseur. Plaquer ses oreilles vers l'arrière tout en maintenant sa queue raide à l'horizontale indique une alerte tendue face aux bruits extérieurs. À l'inverse, se rouler sur le dos en exposant son ventre et en agitant les pattes traduit une sécurité totale et une demande de câlins."
-  - name: "Yorkshire Terrier's Body Language & Signals"
+  - name: "Langage corporel et signaux comportementaux du Yorkshire Terrier"
     text: "* Oreilles plaquées et queue raide (Pinned Ears & Rigid Tail): Tension et vigilance défensive en réaction à de petits bruits extérieurs. (Ne le soulevez pas brusquement. Appelez-le calmement au niveau du sol et détournez son attention avec une friandise.)
 
 * Exposition du ventre et moulinet des pattes (Belly Show & Air Paddling): Sentiment de sécurité absolue et de confiance, sollicitant de l'attention et des caresses. (Massez doucement son torse et son ventre pour renforcer votre complicité.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Routine quotidienne en 3 étapes pour le soin du Yorkshire Terrier"
     text: "* STEP 1. Matin : Brume hydratante et brossage délicat à la brosse à picots: Vaporisez une brume démêlante avant de brosser doucement avec une brosse à picots de la racine aux pointes pour éviter la casse.
 
 * STEP 2. Après-midi : Tonte des coussinets et vérification des tapis antidérapants: Tondez les poils entre les coussinets et vérifiez la présence de tapis antidérapants pour éviter les glissades néfastes pour les rotules.
@@ -60,7 +60,7 @@ Le Yorkshire Terrier, affectueusement surnommé 'Yorkie', cache un caractère vi
 
 ---
 
-## 2. Yorkshire Terrier's Body Language & Signals
+## 2. Langage corporel et signaux comportementaux du Yorkshire Terrier
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Le Yorkshire Terrier, affectueusement surnommé 'Yorkie', cache un caractère vi
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Routine quotidienne en 3 étapes pour le soin du Yorkshire Terrier
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

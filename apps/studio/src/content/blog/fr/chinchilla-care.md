@@ -13,11 +13,11 @@ authority: "Directives d'Élevage du Chinchilla de l'Association of Exotic Mamma
 steps:
   - name: "Langage corporel du chinchilla : Salivation avec rejet de foin et signes de surchauffe"
     text: "Si un chinchilla présente une « salivation abondante et recrache son foin », mouillant la fourrure autour de son museau, il s'agit d'un signal d'alarme de malocclusion dentaire sévère. En revanche, « être couché sur le flanc avec un souffle rapide » indique un état de surchauffe critique nécessitant un refroidissement immédiat."
-  - name: "Chinchilla (Chinchilla lanigera)'s Body Language & Signals"
+  - name: "Langage corporel et signaux comportementaux du Chinchilla (Chinchilla lanigera)"
     text: "* Salivation et rejet du foin (Drooling): Les dents trop longues dues à la malocclusion transpercent le palais ou la paroi interne des joues, rendant la déglutition impossible et bloquant la mastication par la douleur. (Consultez d'urgence une clinique vétérinaire spécialisée NAC pour faire limer ou tailler les dents trop longues avec un équipement dentaire adapté.)
 
 * Couché sur le flanc avec souffle rapide: Une température ambiante trop élevée a fait grimper la température corporelle ; le chinchilla est épuisé et en détresse respiratoire due au stress thermique. (Allumez immédiatement la climatisation pour faire descendre la température sous 20 °C et placez des dalles de marbre frais ou des bouteilles d'eau glacée enveloppées dans une serviette dans la cage.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Routine quotidienne en 3 étapes pour le soin du Chinchilla (Chinchilla lanigera)"
     text: "* STEP 1. Matin : Distribution illimitée de foin de fléole (Timothy) à fibres riches: Afin d'éviter la pousse continue et excessive des dents, fournissez constamment du foin de fléole frais et rigide pour favoriser leur usure naturelle lors de la mastication.
 
 * STEP 2. Midi : Contrôle climatique strict toute l'année contre le coup de chaleur et l'humidité: Maintenez la pièce entre 18 et 21 °C avec un taux d'humidité inférieur à 40-50 % grâce à la climatisation et à un déshumidificateur pour recréer un climat alpin confortable.
@@ -60,7 +60,7 @@ Doté d'une pellisse d'une douceur infinie et d'un corps tout rond, le chinchill
 
 ---
 
-## 2. Chinchilla (Chinchilla lanigera)'s Body Language & Signals
+## 2. Langage corporel et signaux comportementaux du Chinchilla (Chinchilla lanigera)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Doté d'une pellisse d'une douceur infinie et d'un corps tout rond, le chinchill
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Routine quotidienne en 3 étapes pour le soin du Chinchilla (Chinchilla lanigera)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

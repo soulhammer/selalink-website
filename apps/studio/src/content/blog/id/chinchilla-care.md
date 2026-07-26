@@ -13,11 +13,11 @@ authority: "Pedoman Pemeliharaan Chinchilla Association of Exotic Mammal Veterin
 steps:
   - name: "Bahasa Tubuh Chinchilla: Air Liur Menetes dengan Makanan Terjatuh dan Tanda Kegerahan"
     text: "Jika chinchilla menunjukkan tanda 'air liur menetes dan memuntahkan rumput hay' hingga membasahi bulu di sekitar mulutnya, ini adalah sinyal peringatan bahaya dari maloklusi gigi yang parah. Sementara itu, 'berbaring menyamping dengan napas cepat' menandakan kondisi darurat akibat kepanasan yang membutuhkan tindakan pendinginan segera."
-  - name: "Chinchilla (Chinchilla lanigera)'s Body Language & Signals"
+  - name: "Bahasa Tubuh dan Sinyal Perilaku Chinchilla (Chinchilla lanigera)"
     text: "* Air Liur Menetes dan Memuntahkan Rumput Hay (Drooling): Gigi yang tumbuh terlalu panjang akibat maloklusi menusuk langit-langit mulut atau dinding pipi bagian dalam, menyebabkan rasa sakit luar biasa hingga tidak bisa menelan ludah dan tidak dapat mengunyah. (Segera bawa ke rumah sakit hewan khusus hewan eksotis untuk mendapatkan perawatan pemotongan atau pengikiran gigi menggunakan peralatan medis khusus.)
 
 * Berbaring Menyamping dengan Napas Cepat: Suhu ruangan yang terlalu tinggi menyebabkan suhu tubuh melonjak drastis, membuat chinchilla lemas dengan saluran napas membesar dalam kondisi stres panas. (Segera nyalakan AC untuk menurunkan suhu ruangan di bawah 20 °C, serta letakkan ubin batu marmer dingin atau botol air es yang dibungkus handuk di dalam kandang.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutinitas Perawatan Harian 3 Langkah untuk Chinchilla (Chinchilla lanigera)"
     text: "* STEP 1. Pagi: Pemberian Rumput Timothy Hay Berserat Kasar Tanpa Batas: Untuk mencegah gigi tumbuh tanpa henti, sediakan rumput timothy hay yang segar dan berserat kasar setiap saat agar giginya terkikis secara alami selama proses mengunyah.
 
 * STEP 2. Siang: Kontrol Suhu dan Kelembapan Ruangan Sepanjang Tahun: Jaga suhu ruangan pada 18–21 °C dan kelembapan di bawah 40–50% sepanjang tahun menggunakan AC dan dehumidifier untuk menciptakan iklim pegunungan yang sejuk.
@@ -60,7 +60,7 @@ Memiliki bulu yang sangat lembut seperti sutra dan tubuh bulat yang menggemaskan
 
 ---
 
-## 2. Chinchilla (Chinchilla lanigera)'s Body Language & Signals
+## 2. Bahasa Tubuh dan Sinyal Perilaku Chinchilla (Chinchilla lanigera)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Memiliki bulu yang sangat lembut seperti sutra dan tubuh bulat yang menggemaskan
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutinitas Perawatan Harian 3 Langkah untuk Chinchilla (Chinchilla lanigera)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

@@ -13,11 +13,11 @@ authority: "国际鸟类兽医协会 (AAV) 行为护理标准"
 steps:
   - name: "玄凤鹦鹉的情绪语言：冠羽形态与低头求摸解密"
     text: "玄凤鹦鹉头顶的冠羽是其心理状态的晴雨表。完全紧贴头骨与直立竖起代表着截然不同的情绪，而主动低头伸长脖子则是对主人表达极度信任的专属姿态。"
-  - name: "玄凤鹦鹉 (Nymphicus hollandicus / Cockatiel)'s Body Language & Signals"
+  - name: "玄凤鹦鹉 (Nymphicus hollandicus / Cockatiel) 的肢体语言与行为信号"
     text: "* 冠羽高高竖起并保持垂直 (Fully Erect Crest): 对新环境、未知的声音或新物体产生了强烈的好奇心或高度戒备状态。 (切勿突然伸出手抓握，请保持动作轻柔，用温柔的声音安抚，给其自行观察评估安全的时间。)
 
 * 低头靠近并伸长脖子 (Head Lowering for Scratches): 对主人表达极高的依赖与亲密，主动请求抚摸其头颈部与腮红羽毛。 (用手指顺着羽毛逆向轻轻挠抚其腮红与冠羽根部。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "玄凤鹦鹉 (Nymphicus hollandicus / Cockatiel) 定制化 3 步家庭护理流程"
     text: "* STEP 1. 早晨：通风换气、羽毛检查与新鲜滋养丸喂食: 揭开鸟笼遮光布，更换新鲜滋养丸与净水，观察其晨间飞翔姿态与精神状况。
 
 * STEP 2. 下午：室内安全放飞与觅食玩具智力互动: 在关好门窗的安全房间内放飞1 - 2小时，并提供觅食玩具丰富其日间生活。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. 玄凤鹦鹉 (Nymphicus hollandicus / Cockatiel)'s Body Language & Signals
+## 2. 玄凤鹦鹉 (Nymphicus hollandicus / Cockatiel) 的肢体语言与行为信号
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -69,7 +69,7 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 对新环境、未知的声音或新物体产生了强烈的好奇心或高度戒备状态。<br/>
-    <strong>•  national:</strong> 切勿突然伸出手抓握，请保持动作轻柔，用温柔的声音安抚，给其自行观察评估安全的时间。
+    <strong>• 应对:</strong> 切勿突然伸出手抓握，请保持动作轻柔，用温柔的声音安抚，给其自行观察评估安全的时间。
   </p>
 </div>
 
@@ -80,13 +80,13 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 对主人表达极高的依赖与亲密，主动请求抚摸其头颈部与腮红羽毛。<br/>
-    <strong>•  national:</strong> 用手指顺着羽毛逆向轻轻挠抚其腮红与冠羽根部。
+    <strong>• 应对:</strong> 用手指顺着羽毛逆向轻轻挠抚其腮红与冠羽根部。
   </p>
 </div>
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. 玄凤鹦鹉 (Nymphicus hollandicus / Cockatiel) 定制化 3 步家庭护理流程
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

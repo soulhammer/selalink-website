@@ -13,11 +13,11 @@ authority: "Diretrizes de manejo da Association of Reptilian and Amphibian Veter
 steps:
   - name: "Linguagem comportamental do dragão barbudo: acenar de cabeça e mover as patas"
     text: "Os dragões barbudos utilizam gestos únicos para demonstrar hierarquia e expressar emoções. Abanar a cabeça rapidamente para cima e para baixo — o chamado 'Head Bobbing' — é uma forte demonstração de dominância e territorialidade. Por outro lado, girar lentamente uma das patas dianteiras no ar — o 'Arm Waving' — é um sinal social de submissão, pacificação e amizade que significa 'não sou uma ameaça'."
-  - name: "Dragão Barbudo (Pogona vitticeps)'s Body Language & Signals"
+  - name: "Linguagem corporal e sinais de comportamento do Dragão Barbudo (Pogona vitticeps)"
     text: "* Head Bobbing (Movimento rápido de cabeça): Afirmação de dominância e marcação territorial. Ocorre frequentemente ao avistar outros indivíduos ou ao reagir ao próprio reflexo nos vidros do terrário. (Mantenha o animal em alojamento individual estrito para evitar o stresse de coabitação e aplique películas antirreflexo nos vidros.)
 
 * Arm Waving (Girar a pata lentamente): Sinal social pacífico de submissão que demonstra a ausência de intenções agressivas, direcionado a animais maiores ou ao seu tutor. (Aproxime-se devagar por baixo, fale com uma voz calma e ofereça um petisco para que ele reconheça o tutor como uma presença segura.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rotina diária de 3 passos para cuidados com Dragão Barbudo (Pogona vitticeps)"
     text: "* STEP 1. Manhã: Ativação da fonte de calor e da lâmpada UVB: Ligue o foco de calor e a luz UVB. Certifique-se de que o ponto de aquecimento atinge entre 35 e 40 °C para elevar a temperatura corporal e ativar as enzimas digestivas.
 
 * STEP 2. Tarde: Alimentação com insetos nutritivos e suplementação de cálcio: Forneça insetos vivos polvilhados com cálcio em pó (com D3 para exemplares mantidos no interior) acompanhados de vegetais frescos ricos em cálcio, como chicória e acelga chinesa.
@@ -60,7 +60,7 @@ Devido ao seu temperamento dócil e às suas expressões curiosas, o dragão bar
 
 ---
 
-## 2. Dragão Barbudo (Pogona vitticeps)'s Body Language & Signals
+## 2. Linguagem corporal e sinais de comportamento do Dragão Barbudo (Pogona vitticeps)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Devido ao seu temperamento dócil e às suas expressões curiosas, o dragão bar
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rotina diária de 3 passos para cuidados com Dragão Barbudo (Pogona vitticeps)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

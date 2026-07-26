@@ -13,11 +13,11 @@ authority: "Directrices del Bichon Frise Club of America y Estándares de Salud 
 steps:
   - name: "Lenguaje corporal del Bichón Frisé: Bichon Blitz y señales de atención"
     text: "Cuando están emocionados, los Bichons realizan el 'Bichon Blitz' (correr frenéticamente por casa) para gastar al instante la energía sobrante. Se trata de un comportamiento de descarga energética instintivo. Asimismo, tocar la rodilla o el brazo del dueño con la pata ('toque de pata') es una señal amigable y pacífica para pedir atención y juego."
-  - name: "Bichón Frisé (Bichon Frise)'s Body Language & Signals"
+  - name: "Lenguaje corporal y señales de conducta de Bichón Frisé (Bichon Frise)"
     text: "* Bichon Blitz: Comportamiento de juego instintivo para quemar rápidamente la energía acumulada mediante una actividad física intensa. (Coloque protectores en las esquinas de los muebles en su ruta, asegure alfombras antideslizantes y espere tranquilamente a que se detenga de forma natural.)
 
 * Toque de pata (Paw Tap): Forma pacífica y afectuosa de comunicación propia del Bichón Frisé para llamar la atención y pedir contacto. (Establezca contacto visual suavemente y acarícielo, o haga una sesión rápida de órdenes (sentado/dar la pata) para estimular su mente.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutina diaria de 3 pasos para el cuidado de Bichón Frisé (Bichon Frise)"
     text: "* STEP 1. Mañana: Juego liviano de rastreo de juguetes y tira y afloja suave: Para evitar colisiones con muebles o marcos de puertas, realice un juego suave de tira y afloja por la mañana con un juguete de tela para gastar energía progresivamente e inducir la calma.
 
 * STEP 2. Tarde: Rutina de 10 minutos de cepillado alternando carda y peine de acero: Para evitar que los apretados rizos opriman la piel, aplique espray acondicionado primero, cepille el abdomen y cara interna de las patas con la carda y compruebe mechón por mechón con el peine de acero.
@@ -60,7 +60,7 @@ El Bichón Frisé es famoso por su pelaje blanco como el algodón y su alegre te
 
 ---
 
-## 2. Bichón Frisé (Bichon Frise)'s Body Language & Signals
+## 2. Lenguaje corporal y señales de conducta de Bichón Frisé (Bichon Frise)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ El Bichón Frisé es famoso por su pelaje blanco como el algodón y su alegre te
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutina diaria de 3 pasos para el cuidado de Bichón Frisé (Bichon Frise)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

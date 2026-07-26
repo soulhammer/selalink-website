@@ -13,11 +13,11 @@ authority: "Asociación Internacional del Guppy de Fantasía (IFGA) y Protocolos
 steps:
   - name: "Lenguaje corporal del Guppy: Aletas replegadas y boqueo en la superficie (Surface Gasping)"
     text: "Los guppys comunican su estado de salud y la calidad del agua mediante la postura de sus aletas y su posición de nado. 'Aletas replegadas (Clamped Fins)'—mantener la cola y la aleta dorsal pegadas al cuerpo mientras permanecen inmóviles—indica un estrés severo por acumulación de amoníaco o shock térmico. En cambio, el 'Boqueo en la superficie (Surface Gasping)' es una advertencia urgente de falta de oxígeno disuelto o daño branquial por intoxicación de amoníaco."
-  - name: "Guppy's Body Language & Signals"
+  - name: "Lenguaje corporal y señales de conducta de Guppy"
     text: "* Aletas pegadas al cuerpo e inmovilidad en esquinas (Clamped Fins): Advertencia de estrés ambiental causada por picos de amoníaco/nitritos, shock de pH o cambios de temperatura. (Mida de inmediato los niveles de amoníaco y realice un cambio parcial de agua del 20-30% con agua desclorada a la misma temperatura.)
 
 * Boqueo continuo en la superficie del agua (Surface Gasping): Señal de falta de oxígeno disuelto, fallo en el filtro o deterioro de la función branquial por toxicidad de amoníaco. (Encienda un aireador (bomba de aire) para aumentar el oxígeno, revise el flujo del filtro y verifique la temperatura (24°C–26°C).)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutina diaria de 3 pasos para el cuidado de Guppy"
     text: "* STEP 1. Mañana: Control de temperatura (24°C–26°C) y alimentación moderada: Verifique el termómetro y alimente con comida específica para guppy en pequeñas cantidades consumibles en 2-3 minutos.
 
 * STEP 2. Tarde: Sifonado de desperdicios del sustrato y monitoreo del acuario: Sifone los restos de alimento y desechos del fondo para reducir la carga de amoníaco en el sistema de filtración.
@@ -60,7 +60,7 @@ Reconocido mundialmente como el pez ideal tanto para principiantes como para exp
 
 ---
 
-## 2. Guppy's Body Language & Signals
+## 2. Lenguaje corporal y señales de conducta de Guppy
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Reconocido mundialmente como el pez ideal tanto para principiantes como para exp
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutina diaria de 3 pasos para el cuidado de Guppy
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

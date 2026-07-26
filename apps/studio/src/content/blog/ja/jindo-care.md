@@ -13,11 +13,11 @@ authority: "国立畜産科学院珍島犬標準管理指針およびKKC行動�
 steps:
   - name: "珍島犬のボディランゲージ：忠誠心と警戒のシグナル"
     text: "珍島犬は感情表現が控えめであり、尻尾と耳の角度を通じて明確な意思を伝えます。尻尾を真っ直ぐ立てて耳を前方に集めるのは警戒と集中を表し、この時に見知らぬ人が急に近づくと防衛的な反応を引き起こす恐れがあります。逆に、尻尾を低くしてゆっくり振り、耳を横に寝かせる行動は、飼い主への順従と安心を意味します。"
-  - name: "珍島犬 (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "珍島犬 (Canis lupus familiaris)のボディランゲージと行動サイン"
     text: "* 尻尾を立てて耳を前方に集める: 見知らぬ対象を警戒し、緊張が高まっている状態です。 (急な接触を避け、見知らぬ人には触らないよう頼み、飼い主が静かに落ち着かせます。)
 
 * 尻尾を下げて耳を寝かせて近づく: 飼い主への深い信頼と服従、そして愛情を求めているサインです。 (優しく撫でてあげて、良好な関係をさらに強化しましょう。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "珍島犬 (Canis lupus familiaris)のための3ステップホームケアルーティン"
     text: "* STEP 1. 朝：ノーズワークを中心とした静かなお散歩による社会化: 刺激の少ない朝の時間帯にお散歩し、十分なノーズワークを通じて外部環境に慣れさせます。
 
 * STEP 2. 昼：ダブルコートのブラッシングによる死毛除去と毛質管理: スリッカーブラシとコームを使用し、皮膚近くの不要なアンダーコートを取り除き、毛玉や皮膚炎を予防します。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. 珍島犬 (Canis lupus familiaris)'s Body Language & Signals
+## 2. 珍島犬 (Canis lupus familiaris)のボディランゲージと行動サイン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ faqs:
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. 珍島犬 (Canis lupus familiaris)のための3ステップホームケアルーティン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

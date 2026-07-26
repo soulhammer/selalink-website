@@ -13,11 +13,11 @@ authority: "Padrão de raça da Cat Fanciers' Association (CFA) e pesquisas do C
 steps:
   - name: "Linguagem corporal do American Shorthair: Sobrecarga cardíaca e respiração de boca aberta"
     text: "Ao contrário dos cães, os gatos raramente arfam para regular a temperatura. Se um American Shorthair apresentar 'respiração de boca aberta' ou se 'cansar muito rápido' durante as brincadeiras, são avisos graves de sofrimento cardiovascular. Identificar isso cedo pode salvar sua vida."
-  - name: "American Shorthair's Body Language & Signals"
+  - name: "Linguagem corporal e sinais de comportamento do American Shorthair"
     text: "* Respiração de boca aberta (Open-Mouth Breathing): Estado de respiração arfante com a boca aberta, indicando falta severa de oxigênio por sobrecarga cardíaca/pulmonar ou estresse extremo. (Reduza o estresse imediatamente, coloque o gato na caixa de transporte e leve-o com urgência a um hospital veterinário 24 horas para oxigenoterapia.)
 
 * Fadiga rápida e deitar-se (Quick Fatigue): Parar de brincar e deitar de lado após poucos minutos de atividade leve, devido ao débito cardíaco insuficiente. (Limite exercícios intensos e agende exames anuais com auscultação e ecocardiograma (incluindo teste proBNP) para monitorar a HCM.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rotina diária de 3 passos para cuidados com American Shorthair"
     text: "* STEP 1. Manhã: Controle rígido de porções para prevenir a obesidade: Evite comida à vontade (livre acesso). Divida a necessidade calórica diária em porções pesadas de manhã e à noite para prevenir o ganho de peso e proteger a saúde vascular.
 
 * STEP 2. Tarde: Brincadeira interativa de 15 minutos para queima de calorias: Estimule o instinto de caça pelo menos duas vezes ao dia por 15 minutos com varinhas de penas ou brinquedos de rato para acelerar a queima de gordura.
@@ -60,7 +60,7 @@ Conhecido por sua bela pelagem atigrada prateada e corpo musculoso, o American S
 
 ---
 
-## 2. American Shorthair's Body Language & Signals
+## 2. Linguagem corporal e sinais de comportamento do American Shorthair
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Conhecido por sua bela pelagem atigrada prateada e corpo musculoso, o American S
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rotina diária de 3 passos para cuidados com American Shorthair
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

@@ -13,11 +13,11 @@ authority: "Protocolo Veterinário de Manejo de Anfíbios e Amphibian Ark"
 steps:
   - name: "Sinais corporais do axolote: Curvatura das brânquias e movimentos da boca"
     text: "As brânquias externas vermelhas do axolote servem como um indicador direto da qualidade e temperatura da água. A curvatura das brânquias para a frente sinaliza degradação da água ou estresse térmico."
-  - name: "Axolote (Axolotl)'s Body Language & Signals"
+  - name: "Linguagem corporal e sinais de comportamento do Axolote (Axolotl)"
     text: "* Brânquias externas curvadas para a frente e cauda dobrada (Gill Curling Forward): Um aviso de estresse ambiental causado pelo aumento da temperatura (acima de 20°C) ou níveis elevados de amônia. (Ligue os coolers de refrigeração do aquário para baixar a temperatura para 16°C ~ 18°C e faça imediatamente uma troca parcial de água (20%).)
 
 * Olhar fixo no fundo e abertura da boca (Bottom Gaping): Um sinal natural de busca por comida, indicando fome ou comportamento de caça. (Ofereça suavemente ração própria para peixes ou minhocas na frente do focinho usando uma pinça de ponta redonda.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rotina diária de 3 passos para cuidados com Axolote (Axolotl)"
     text: "* STEP 1. Manhã: Monitoramento da temperatura (16°C ~ 18°C) e checagem do sistema de refrigeração: Verifique o funcionamento dos coolers para garantir que a água não passe de 19°C no verão e cheque a condensação nos vidros.
 
 * STEP 2. Tarde: Limpeza de dejetos com sifão e proteção contra luz solar direta: Mantenha o aquário com iluminação fraca devido à visão frágil do axolote e remova os dejetos diariamente com um sifão longo.
@@ -60,7 +60,7 @@ Amado por sua expressão sorridente e brânquias externas rosadas, o axolote (Ax
 
 ---
 
-## 2. Axolote (Axolotl)'s Body Language & Signals
+## 2. Linguagem corporal e sinais de comportamento do Axolote (Axolotl)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Amado por sua expressão sorridente e brânquias externas rosadas, o axolote (Ax
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rotina diária de 3 passos para cuidados com Axolote (Axolotl)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

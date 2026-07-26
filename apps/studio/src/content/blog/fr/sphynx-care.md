@@ -13,11 +13,11 @@ authority: "Directives de dermatologie de l'ISFM (International Society of Felin
 steps:
   - name: "Langage corporel du Sphynx : recherche de chaleur et marques d'affection"
     text: "Le Sphynx étant très sensible au froid, il cherche activement la chaleur en se blottissant contre votre cou, vos genoux ou sous les couvertures. Se coller contre votre peau tout en ronronnant exprime à la fois un profond attachement et un besoin instinctif de partager de la chaleur. Si sa peau est fraîche ou qu'il se met en boule, augmentez immédiatement la température ambiante."
-  - name: "Sphynx (Sphynx Cat)'s Body Language & Signals"
+  - name: "Langage corporel et signaux comportementaux du Sphynx (Sphynx Cat)"
     text: "* Recherche de chaleur (se coller à la peau ou aux sources chauffantes): Signale que l'air ambiant est froid et que sa température baisse, réclamant de la chaleur. (Ajustez la température ambiante entre 22 et 26 °C, habillez-le d'un vêtement en coton doux et installez un panier chauffant sécurisé.)
 
 * Cligner des yeux et ronronnement: État de grand réconfort physique, de chaleur agréable et de confiance totale envers son maître. (Massez doucement son corps chaud et laissez-le se reposer paisiblement à vos côtés.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Routine quotidienne en 3 étapes pour le soin du Sphynx (Sphynx Cat)"
     text: "* STEP 1. Matin : Nettoyage doux des plis et du sébum à la serviette tiède: Essuyez le sébum marron accumulé dans le cou, les plis et les coussinets à l'aide d'une serviette tiède humide pour prévenir les points noirs et les infections.
 
 * STEP 2. Après-midi : Protection solaire contre les brûlures UV: Une peau nue exposée au soleil direct peut subir des coups de soleil (dermatite solaire). Ajustez les voilages ou stores pour bloquer les rayons intenses.
@@ -60,7 +60,7 @@ Le chat Sphynx est une race fascinante venue au monde sans la fourrure tradition
 
 ---
 
-## 2. Sphynx (Sphynx Cat)'s Body Language & Signals
+## 2. Langage corporel et signaux comportementaux du Sphynx (Sphynx Cat)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Le chat Sphynx est une race fascinante venue au monde sans la fourrure tradition
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Routine quotidienne en 3 étapes pour le soin du Sphynx (Sphynx Cat)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

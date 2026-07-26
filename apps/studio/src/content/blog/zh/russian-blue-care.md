@@ -13,11 +13,11 @@ authority: "爱猫者协会 (CFA) 品种标准与康奈尔猫科健康中心指�
 steps:
   - name: "俄罗斯蓝猫的身体语言：解读恐慌的预警信号"
     text: "由于性格温和，俄罗斯蓝猫在做出反应前会静静地发出警告信号。关键的恐慌信号包括 “瞳孔放大（Dilated Pupils）” 和 “身体低伏（Crouching）”。当听到突然的噪音或有陌生人靠近时，它们的瞳孔会放大，变得又大又圆，表明压力系统已激活。如果它们将身体平贴在地面上，并向两侧展平耳朵，说明它们正在经历极度的恐惧，正准备逃跑或自卫。"
-  - name: "俄罗斯蓝猫 (Felis catus / Russian Blue)'s Body Language & Signals"
+  - name: "俄罗斯蓝猫 (Felis catus / Russian Blue) 的肢体语言与行为信号"
     text: "* 瞳孔放大 (Dilated Pupils): 表明感应到了周围的威胁，压力荷尔蒙已激活，正处于高度警惕与紧张的状态。 (调暗光线，并立即关闭带来刺激的源头（如吸尘器或吹风机等电器噪音）。)
 
 * 身体低伏 (Crouching): 表示在防御性恐慌中感到了无助、害怕，或是感觉被逼入死角。 (切勿强行抱起它们。允许它们退避到安静的房间或柜子等隐蔽处。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "俄罗斯蓝猫 (Felis catus / Russian Blue) 定制化 3 步家庭护理流程"
     text: "* STEP 1. 早晨：猫砂盆与喂食区域的安全维护: 清扫猫砂盆。确保它们的食物和水盆放置在远离日常走动和噪音的安静角落中，以此建立安全感。
 
 * STEP 2. 中午：高耸安静的安全避难所维护: 确认位于卧室角落的、封闭式的猫爬架猫窝始终敞开并可供使用。这能为其提供一个远离突发噪音或访客的高处私密避难所。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. 俄罗斯蓝猫 (Felis catus / Russian Blue)'s Body Language & Signals
+## 2. 俄罗斯蓝猫 (Felis catus / Russian Blue) 的肢体语言与行为信号
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -69,7 +69,7 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 表明感应到了周围的威胁，压力荷尔蒙已激活，正处于高度警惕与紧张的状态。<br/>
-    <strong>•  national:</strong> 调暗光线，并立即关闭带来刺激的源头（如吸尘器或吹风机等电器噪音）。
+    <strong>• 应对:</strong> 调暗光线，并立即关闭带来刺激的源头（如吸尘器或吹风机等电器噪音）。
   </p>
 </div>
 
@@ -80,13 +80,13 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 表示在防御性恐慌中感到了无助、害怕，或是感觉被逼入死角。<br/>
-    <strong>•  national:</strong> 切勿强行抱起它们。允许它们退避到安静的房间或柜子等隐蔽处。
+    <strong>• 应对:</strong> 切勿强行抱起它们。允许它们退避到安静的房间或柜子等隐蔽处。
   </p>
 </div>
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. 俄罗斯蓝猫 (Felis catus / Russian Blue) 定制化 3 步家庭护理流程
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

@@ -13,11 +13,11 @@ authority: "美国吉娃娃俱乐部官方手册与 AVMA 超小型犬代谢与�
 steps:
   - name: "吉娃娃发出的信号：情绪性发抖与防卫性低吼"
     text: "吉娃娃因性格敏感且体型娇小，面对周围的威胁会发出剧烈的警告信号。最典型的反应是 “全身发抖（Shivering）” 和 “低吼警示（Growling）”。吉娃娃发抖不仅是在怕冷，也包含喜悦、兴奋、焦虑等情绪剧烈波动时，大脑向脊髓发送信号导致肌肉收缩的情绪化表达。而皱起口吻发出低吼，是出于极度恐惧而发出的“请勿靠近”防卫信号。此时若强行去抱可能导致被咬，因此立刻保持距离才是安全做法。"
-  - name: "吉娃娃 (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "吉娃娃 (Canis lupus familiaris) 的肢体语言与行为信号"
     text: "* 全身发抖 (Shivering): 由于怕冷的身躯，或在兴奋、恐惧、紧张等情绪发生剧烈波动时产生。 (使用温暖的毯子包裹以提升体温，并在无噪音的地方安静拥抱以使其安宁。)
 
 * 露齿低吼 (Growling): 对试图触碰它的行为感到恐惧或防范，发出请勿靠近的强烈警告。 (应立即停止触碰或靠近，拉开距离以让吉娃娃自己恢复平静。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "吉娃娃 (Canis lupus familiaris) 定制化 3 步家庭护理流程"
     text: "* STEP 1. 早晨：头顶囟门防护与保温室温设定: 为防头顶囟门（Molera）受压，严禁触摸或抓捏其头顶，并确认怕冷的吉娃娃生活的室内温度保持在 24 ~ 26 度左右的温暖状态。
 
 * STEP 2. 中午：轻松的嗅闻散步与声音脱敏交流: 因警惕性强，散步时避免强行与其他狗社交，多让其进行嗅闻探寻。在家里可进行5分钟的声音脱敏训练（听到门铃声给零食奖励），防止神经质乱叫。
@@ -64,7 +64,7 @@ faqs:
 
 ---
 
-## 2. 吉娃娃 (Canis lupus familiaris)'s Body Language & Signals
+## 2. 吉娃娃 (Canis lupus familiaris) 的肢体语言与行为信号
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -73,7 +73,7 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 由于怕冷的身躯，或在兴奋、恐惧、紧张等情绪发生剧烈波动时产生。<br/>
-    <strong>•  national:</strong> 使用温暖的毯子包裹以提升体温，并在无噪音的地方安静拥抱以使其安宁。
+    <strong>• 应对:</strong> 使用温暖的毯子包裹以提升体温，并在无噪音的地方安静拥抱以使其安宁。
   </p>
 </div>
 
@@ -84,13 +84,13 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 对试图触碰它的行为感到恐惧或防范，发出请勿靠近的强烈警告。<br/>
-    <strong>•  national:</strong> 应立即停止触碰或靠近，拉开距离以让吉娃娃自己恢复平静。
+    <strong>• 应对:</strong> 应立即停止触碰或靠近，拉开距离以让吉娃娃自己恢复平静。
   </p>
 </div>
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. 吉娃娃 (Canis lupus familiaris) 定制化 3 步家庭护理流程
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

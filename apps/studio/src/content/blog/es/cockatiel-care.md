@@ -13,11 +13,11 @@ authority: "Asociación de Veterinarios de Aves (AAV) & Normas de Comportamiento
 steps:
   - name: "Lenguaje de la Ninfa: Significado de la Cresta y Cabeza Agachada"
     text: "La cresta de la ninfa actúa como una antena emocional. Una cresta completamente erguida transmite alerta o curiosidad, mientras que agachar la cabeza es una petición directa de caricias."
-  - name: "Ninfa / Carolina (Nymphicus hollandicus / Cockatiel)'s Body Language & Signals"
+  - name: "Lenguaje corporal y señales de conducta de Ninfa / Carolina (Nymphicus hollandicus / Cockatiel)"
     text: "* Cresta Totalmente Erguida (Fully Erect Crest): Alerta máxima o curiosidad intensa ante un sonido u objeto desconocido en la estancia. (Evita movimientos bruscos. Háblale con voz suave y permite que evalúe su entorno con calma.)
 
 * Cabeza Agachada y Cuello Extendido (Head Lowering for Scratches): Muestra de gran confianza solicitando rascados en la nuca y las mejillas. (Rasca suavemente la zona de la cresta y mejillas a contrapelo con la yema del dedo.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutina diaria de 3 pasos para el cuidado de Ninfa / Carolina (Nymphicus hollandicus / Cockatiel)"
     text: "* STEP 1. Mañana: Ventilación, Inspección y Pienso Fresco: Destapa la jaula, renueva el pienso extruido y el agua limpia, y observa su agilidad de vuelo.
 
 * STEP 2. Tarde: Vuelo Libre Seguro y Juguetes de Forrajeo: Permite 1 - 2 horas de vuelo supervisado en una habitación segura con juguetes de búsqueda de comida.
@@ -60,7 +60,7 @@ Conocida por sus mejillas anaranjadas y su elegante cresta, la ninfa (Cockatiel)
 
 ---
 
-## 2. Ninfa / Carolina (Nymphicus hollandicus / Cockatiel)'s Body Language & Signals
+## 2. Lenguaje corporal y señales de conducta de Ninfa / Carolina (Nymphicus hollandicus / Cockatiel)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Conocida por sus mejillas anaranjadas y su elegante cresta, la ninfa (Cockatiel)
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutina diaria de 3 pasos para el cuidado de Ninfa / Carolina (Nymphicus hollandicus / Cockatiel)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

@@ -13,11 +13,11 @@ authority: "American Ferret Association 雪貂行为标准及异宠兽医行为�
 steps:
   - name: "雪貂的游戏沟通：雪貂战舞与咕咕鸣叫"
     text: "马歇尔雪貂在兴奋到极点时，会大张着嘴、弓着背、在周围横冲直撞地跳舞，即 “雪貂战舞 (Weasel War Dance)”，以此表达无上的快乐。相反，当它欢快地追逐气味或穿过管道时，会从喉咙发出 “咕咕声 (Dooking)”，以此向主人传达它正处于极具趣味的状态中。"
-  - name: "马歇尔雪貂 (Mustela putorius furo / Marshall Ferret)'s Body Language & Signals"
+  - name: "马歇尔雪貂 (Mustela putorius furo / Marshall Ferret) 的肢体语言与行为信号"
     text: "* 雪貂战舞 (Weasel War Dance): 虽然看起来带有攻击性，但实际上是精力爆发、快乐得无法自控的邀请游戏信号。 (为防止碰撞家具导致骨折，在铺有防滑垫的空旷区域滚动玩具球与它们一起玩耍。)
 
 * 低沉的咕咕声 (Dooking): 当遇到新气味或纸箱迷宫时，表达高度好奇和快乐的无害情绪状态。 (提供塑料管道或纸箱，以刺激雪貂本能的打洞和追逐兴趣。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "马歇尔雪貂 (Mustela putorius furo / Marshall Ferret) 定制化 3 步家庭护理流程"
     text: "* STEP 1. 早上：高蛋白肉食专用料喂食与饮水状态检查: 由于消化道极短，雪貂需要随时进食，应备足肉类为主、无谷物的雪貂专用饲料，并检查给水器。
 
 * STEP 2. 白天：每日至少4小时以上的客厅安全区域自由放风: 长时间关在笼子中会导致其严重的抑郁，在彻底封锁可卡住的家具缝隙后，将它们释放到客厅活动。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. 马歇尔雪貂 (Mustela putorius furo / Marshall Ferret)'s Body Language & Signals
+## 2. 马歇尔雪貂 (Mustela putorius furo / Marshall Ferret) 的肢体语言与行为信号
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -69,7 +69,7 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 虽然看起来带有攻击性，但实际上是精力爆发、快乐得无法自控的邀请游戏信号。<br/>
-    <strong>•  national:</strong> 为防止碰撞家具导致骨折，在铺有防滑垫的空旷区域滚动玩具球与它们一起玩耍。
+    <strong>• 应对:</strong> 为防止碰撞家具导致骨折，在铺有防滑垫的空旷区域滚动玩具球与它们一起玩耍。
   </p>
 </div>
 
@@ -80,13 +80,13 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 当遇到新气味或纸箱迷宫时，表达高度好奇和快乐的无害情绪状态。<br/>
-    <strong>•  national:</strong> 提供塑料管道或纸箱，以刺激雪貂本能的打洞和追逐兴趣。
+    <strong>• 应对:</strong> 提供塑料管道或纸箱，以刺激雪貂本能的打洞和追逐兴趣。
   </p>
 </div>
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. 马歇尔雪貂 (Mustela putorius furo / Marshall Ferret) 定制化 3 步家庭护理流程
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

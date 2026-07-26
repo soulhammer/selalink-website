@@ -13,11 +13,11 @@ authority: "Official American Kennel Club (AKC) Breed Guide & IAABC Behavioral P
 steps:
   - name: "Maltese Body Language: Signals of Stress and Comfort"
     text: "As dogs with high psychological dependency on their owners, Maltese silently express their inner anxiety through subtle body gestures. Typical calming signals include 'Nose Licking' and 'Yawning'. When facing a tense or unfamiliar environment, licking their nose or yawning is not due to hunger or sleepiness; it is a peaceful message to soothe themselves and signal 'I mean no harm, please don't threaten me'. If owners continue excessive handling during this time, stress levels spike, so it is best to take a step back and provide space."
-  - name: "Maltese (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "Maltese (Canis lupus familiaris)'s Body Language & Behavioral Signals"
     text: "* Yawning: Not due to fatigue; it is a calming signal saying 'please quiet down' to soothe themselves and those around them. (If they yawn during training or nail clipping, halt immediately and provide a quiet resting space.)
 
 * Nose Licking: An expression of self-soothing when they feel awkward, tense, or anxious in their current situation. (If shown when held or approached by strangers, stop physical contact and step back to grant them space.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Customized 3-Step Home Care Routine for Maltese (Canis lupus familiaris)"
     text: "* STEP 1. Morning: Slip Prevention Check and Joint Stretching: Check that pet mats haven't slipped. When your Maltese stretches in the morning, gently massage their hind leg joints to loosen stiff muscles. Ensure paw pad fur is trimmed to keep pads exposed.
 
 * STEP 2. Afternoon: 1:1 Eye Hygiene and Combing Routine: Once a day, comb eye areas using fine-tooth flea/tear combs and specialized eye cleansing solutions. Damp fur leads to red stains and bacterial dermatitis, so thoroughly dry remaining moisture with a cotton pad.
@@ -64,7 +64,7 @@ Today, PetSelf explores Maltese body language and introduces a safe, 3-step dail
 
 ---
 
-## 2. Maltese (Canis lupus familiaris)'s Body Language & Signals
+## 2. Maltese (Canis lupus familiaris)'s Body Language & Behavioral Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -90,7 +90,7 @@ Today, PetSelf explores Maltese body language and introduces a safe, 3-step dail
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Customized 3-Step Home Care Routine for Maltese (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

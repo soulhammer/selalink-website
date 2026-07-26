@@ -13,11 +13,11 @@ authority: "Standar American Ferret Association dan Panduan Kedokteran Perilaku 
 steps:
   - name: "Komunikasi Ferret Marshall: Tarian Perang dan Dooking"
     text: "Ferret Marshall menunjukkan kegembiraan dengan menggembungkan ekor, melengkungkan punggung, dan memantul ke samping—perilaku yang dikenal sebagai 'Tarian Perang Ferret' (Weasel War Dance). Mereka juga mengeluarkan suara ketukan lembut yang disebut 'Dooking' saat menjelajah dengan penuh semangat. Memahami sinyal ini membantu memaksimalkan pengalaman bermain mereka."
-  - name: "Ferret Marshall (Mustela putorius furo / Marshall Ferret)'s Body Language & Signals"
+  - name: "Bahasa Tubuh dan Sinyal Perilaku Ferret Marshall (Mustela putorius furo / Marshall Ferret)"
     text: "* Tarian Perang Ferret (Weasel War Dance): Ekspresi kegembiraan murni yang dramatis namun tidak berbahaya, menunjukkan mereka ingin bermain tanpa batas. (Sediakan area yang luas dan tidak licin yang bebas dari tepian keras untuk mencegah cedera selama lompatan kacau mereka.)
 
 * Dooking (Suara Ketukan Rendah): Ekspresi emosional kegembiraan dan minat yang kuat saat menemui aroma baru atau terowongan. (Bentangkan terowongan kresek atau kotak kardus untuk merangsang insting alami mereka untuk menggali dan berburu.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutinitas Perawatan Harian 3 Langkah untuk Ferret Marshall (Mustela putorius furo / Marshall Ferret)"
     text: "* STEP 1. Pagi: Diet Karnivora Tinggi Protein & Pengisian Air: Ferret memiliki saluran pencernaan yang pendek dan sering makan. Isi ulang kibble khusus ferret berbahan daging, bebas biji-bijian, dan periksa botol minum mereka.
 
 * STEP 2. Siang: Waktu Bermain Aman di Luar Kandang Minimal 4 Jam: Cegah depresi dengan melepaskan mereka di ruangan. Pastikan semua celah kecil di bawah furnitur telah disegel.
@@ -60,7 +60,7 @@ Dengan tubuh panjang yang lentur dan mata berbinar, Ferret Marshall adalah hewan
 
 ---
 
-## 2. Ferret Marshall (Mustela putorius furo / Marshall Ferret)'s Body Language & Signals
+## 2. Bahasa Tubuh dan Sinyal Perilaku Ferret Marshall (Mustela putorius furo / Marshall Ferret)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Dengan tubuh panjang yang lentur dan mata berbinar, Ferret Marshall adalah hewan
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutinitas Perawatan Harian 3 Langkah untuk Ferret Marshall (Mustela putorius furo / Marshall Ferret)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

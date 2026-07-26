@@ -13,11 +13,11 @@ authority: "CFA（国際血統登録団体）アメリカン・ショートヘ�
 steps:
   - name: "アメリカン・ショートヘアのボディランゲージ：心臓過負荷と開口呼吸の意味"
     text: "猫は犬と異なり、普段はハァハァと口で呼吸して体温調節をしません。そのため、日常で口を開けて息をする「開口呼吸」をしたり、遊びの途中で「すぐに疲れて横たわる」行動は、心臓疾患の強力な警告サインです。これを早期に察知することが重要です。"
-  - name: "アメリカン・ショートヘア (American Shorthair)'s Body Language & Signals"
+  - name: "アメリカン・ショートヘア (American Shorthair)のボディランゲージと行動サイン"
     text: "* 開口呼吸 (Open-Mouth Breathing): 口を開けて荒い息をする状態で、肺や心臓の過負荷、または極度の不安による深刻な酸素不足のサインです。 (キャリー等に入れて刺激（ストレス）を最小限にし、直ちに最寄りの24時間救急動物病院へ搬送して酸素療法を受けさせてください。)
 
 * 運動時の急な疲労 (Quick Fatigue): 軽い羽のおもちゃ遊びなどの短い動きでもすぐに横になって息を切らす現象で、心拍出量が不足しているサインです。 (激しい運動を制限し、年に1回の聴診および心エコー検査（proBNP検査含む）を通じて肥大性心筋症の進行状況を精密確認してください。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "アメリカン・ショートヘア (American Shorthair)のための3ステップホームケアルーティン"
     text: "* STEP 1. 朝：置き餌の制限と定量給餌: 常にフードを置いておく自由給餌を避け、朝晩に定量を分けて与えることで肥満を予防し、血管の健康を守ります。
 
 * STEP 2. 昼：狩猟本能を刺激する15分間のアクティブな遊び: 釣り竿やねずみのおもちゃを空中で動かすなどの狩りごっこを1日最低2回、15分以上誘発し、カロリー消費を促進します。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. アメリカン・ショートヘア (American Shorthair)'s Body Language & Signals
+## 2. アメリカン・ショートヘア (American Shorthair)のボディランゲージと行動サイン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ faqs:
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. アメリカン・ショートヘア (American Shorthair)のための3ステップホームケアルーティン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

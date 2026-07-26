@@ -13,11 +13,11 @@ authority: "国际爬行动物保育协议与 USARK 兽医护理标准"
 steps:
   - name: "睫角守宫的肢体语言：S型甩尾与舌头舔眼 (Eye Wiping)"
     text: "睫角守宫通过尾部动作与舌头行为表达情绪。将尾巴抬起成S型并缓慢摆动，是感到威胁或极度紧张时的“警惕与防御信号 (Tail S-Wagging)”，也是自残断尾前的预警。相反，用舌头舔拭眼睛或嘴边，则是为没有眼睑的眼睛保湿并收集气味分子的正常“卫生与探索信号 (Eye Wiping)”。"
-  - name: "睫角守宫 (Crested Gecko)'s Body Language & Signals"
+  - name: "睫角守宫 (Crested Gecko) 的肢体语言与行为信号"
     text: "* 尾巴抬起呈S型并缓慢摆动 (Tail S-Wagging): 受到捕食者威胁或强应激时发出的极度警惕警告，极易引发自我断尾。 (立即停止上手互动，将其放回黑暗安静的躲避穴中静养。)
 
 * 用舌头舔拭眼球或嘴边 (Eye Wiping / Tongue Flicking): 为无眼睑的眼球表面清洁保湿，并将气味分子传送至锄鼻器的正常行为。 (属于正常生理行为无需打扰，请检查缸内湿度（60% ~ 80%）是否适宜。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "睫角守宫 (Crested Gecko) 定制化 3 步家庭护理流程"
     text: "* STEP 1. 早上：缸壁喷水补水与白天温湿度检查: 向缸壁喷水以便其舔拭水滴补水，并维持凉爽的白天温度（22°C ~ 25°C）。
 
 * STEP 2. 中午：遮蔽阳光与躲避穴睡眠环境监测: 睫角守宫极度怕热（高于28°C易致死），应避免阳光直射，提供阴凉黑暗的休息环境。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. 睫角守宫 (Crested Gecko)'s Body Language & Signals
+## 2. 睫角守宫 (Crested Gecko) 的肢体语言与行为信号
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -69,7 +69,7 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 受到捕食者威胁或强应激时发出的极度警惕警告，极易引发自我断尾。<br/>
-    <strong>•  national:</strong> 立即停止上手互动，将其放回黑暗安静的躲避穴中静养。
+    <strong>• 应对:</strong> 立即停止上手互动，将其放回黑暗安静的躲避穴中静养。
   </p>
 </div>
 
@@ -80,13 +80,13 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 为无眼睑的眼球表面清洁保湿，并将气味分子传送至锄鼻器的正常行为。<br/>
-    <strong>•  national:</strong> 属于正常生理行为无需打扰，请检查缸内湿度（60% ~ 80%）是否适宜。
+    <strong>• 应对:</strong> 属于正常生理行为无需打扰，请检查缸内湿度（60% ~ 80%）是否适宜。
   </p>
 </div>
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. 睫角守宫 (Crested Gecko) 定制化 3 步家庭护理流程
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

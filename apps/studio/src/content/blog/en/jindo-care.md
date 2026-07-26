@@ -13,11 +13,11 @@ authority: "National Institute of Animal Science Jindo Standards & KKC Behavior 
 steps:
   - name: "Jindo Body Language: Signals of Loyalty and Caution"
     text: "Jindo dogs communicate stoically and express clear intent through the angles of their tail and ears. Standing the tail straight up and pointing the ears forward indicates alert focus and high tension, where sudden approaches by strangers may trigger defensive reactivity. Conversely, holding the tail low, wagging it slowly, and flattening ears sideways signifies deep submission, comfort, and affection toward the owner."
-  - name: "Jindo Dog (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "Jindo Dog (Canis lupus familiaris)'s Body Language & Behavioral Signals"
     text: "* Erect Tail & Forward Ears: Alert and focused on an unfamiliar target in a state of high tension. (Avoid sudden touch or eye contact, ask strangers not to pet them, and let the owner calm the dog down quietly.)
 
 * Low Tail & Flat Ears: Deep obedience, trust, and affection directed toward the owner. (Stroke them gently and offer verbal praise to continually reinforce the positive bond.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Customized 3-Step Home Care Routine for Jindo Dog (Canis lupus familiaris)"
     text: "* STEP 1. Morning: Socialization Walks Focused on Peaceful Sniffing (Nosework): Walk in quiet morning hours with fewer triggers to desensitize them to environmental stimuli through ample sniffing opportunities.
 
 * STEP 2. Afternoon: Double Coat Brushing to Remove Dead Undercoat: Use a slicker brush and a steel comb to remove trapped undercoat hairs and dead fur, preventing matting and dermatitis.
@@ -60,7 +60,7 @@ The Jindo dog is Korea's national treasure and a globally recognized breed known
 
 ---
 
-## 2. Jindo Dog (Canis lupus familiaris)'s Body Language & Signals
+## 2. Jindo Dog (Canis lupus familiaris)'s Body Language & Behavioral Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ The Jindo dog is Korea's national treasure and a globally recognized breed known
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Customized 3-Step Home Care Routine for Jindo Dog (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

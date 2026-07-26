@@ -13,11 +13,11 @@ authority: "鳥類獣医師協会 (AAV) および行動学アドバイザリー�
 steps:
   - name: "オカメインコの感情表現：冠羽の動きとおねだりポーズの解読"
     text: "頭の冠羽（Crest）は感情や警戒状態をリアルタイムで伝えるアンテナです。頭にピッタリ伏せている時と垂直に立ち上がっている時では意味が全く異なり、頭を低く下げて首を差し出すのは深い信頼の証です。"
-  - name: "オカメインコ (Nymphicus hollandicus / Cockatiel)'s Body Language & Signals"
+  - name: "オカメインコ (Nymphicus hollandicus / Cockatiel)のボディランゲージと行動サイン"
     text: "* 冠羽をピンと垂直に立てる (Fully Erect Crest): 周囲の新しい音や物体に強い好奇心を感じているか、緊張して警戒している状態を示します。 (急に手を伸ばさず、優しく穏やかな声で話しかけ、インコ自身が状況を安全だと判断するのを待ちます。)
 
 * 頭を低く下げて首を差し出す (Head Lowering for Scratches): 飼い主を深く信頼しており、頭やほっぺの周り（冠羽の根元）をカキカキしてほしいという愛情表現です。 (指先で毛並みと逆方向に、ほっぺのオレンジ色の羽周辺を優しく撫でてあげましょう。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "オカメインコ (Nymphicus hollandicus / Cockatiel)のための3ステップホームケアルーティン"
     text: "* STEP 1. 朝：自然光での換気、羽の健康チェックと新鮮なペレット給餌: 朝のケージカバーを外し、ペレットと水を新鮮なものに交換し、羽の傷や目の輝き、飛行状態を確認します。
 
 * STEP 2. 昼：安全な室内での放鳥タイムとフォージングトイ体験: 窓やドアをしっかり閉めた部屋で1 - 2時間の自由飛行をさせ、フォージングトイ（おやつ探しおもちゃ）で頭を使わせます。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. オカメインコ (Nymphicus hollandicus / Cockatiel)'s Body Language & Signals
+## 2. オカメインコ (Nymphicus hollandicus / Cockatiel)のボディランゲージと行動サイン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ faqs:
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. オカメインコ (Nymphicus hollandicus / Cockatiel)のための3ステップホームケアルーティン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

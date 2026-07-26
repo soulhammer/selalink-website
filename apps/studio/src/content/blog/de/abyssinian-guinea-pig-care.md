@@ -13,11 +13,11 @@ authority: "Richtlinien zur Haltung von Nagetieren der RSPCA und tierärztliche 
 steps:
   - name: "Meerschweinchen-Kommunikation: Quieken und Popcornen"
     text: "Meerschweinchen sind sehr lautstarke und ausdrucksstarke Tiere. Sie machen ein lautes Quieken ('Wheeking'), wenn sie Futter einfordern oder den Halter begrüßen. Bei großer Freude und voller Sicherheit springen sie plötzlich wild in die Luft, was als 'Popcornen' ('Popcorning') bezeichnet wird."
-  - name: "Abessinier-Meerschweinchen's Body Language & Signals"
+  - name: "Körpersprache und Verhaltenssignale von Abessinier-Meerschweinchen"
     text: "* Quieken (Wheeking): Ein Ruf der Vorfreude und Futterforderung, meist ausgelöst durch das Rascheln von Futtertüten oder das Annähern des Halters. (Geben Sie ein Stück Vitamin-C-reiche Paprika oder ein Direktpräparat, um das Vertrauen sanft zu stärken.)
 
 * Popcornen (Popcorning): Plötzliches Hochspringen und Drehen in der Luft als Ausdruck von purem Glück, Ausgelassenheit und Wohlbefinden. (Achten Sie darauf, dass keine harten Kanten im Gehege stehen, an denen sich das Tier beim Springen verletzen könnte.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Maßgeschneiderte 3-Schritte-Tagesroutine für Abessinier-Meerschweinchen"
     text: "* STEP 1. Morgen: Vitamin-C-Gabe & Heu-Kontrolle: Geben Sie Vitamin-C-Präparate direkt oder füttern Sie rote Paprika (nicht über das Tränkwasser geben, da es sich schnell zersetzt). Füllen Sie frisches Timothee-Heu (Timothy) auf.
 
 * STEP 2. Nachmittag: Gehegebereinigung & Staubkontrolle: Reinigen Sie urinfeuchte Stellen zur Vermeidung von Ammoniak. Schütteln Sie das Heu vor dem Füttern draußen aus, um Staub zu minimieren.
@@ -60,7 +60,7 @@ Abessinier-Meerschweinchen sind wegen ihrer Wirbel ('Rosetten') im Fell und ihre
 
 ---
 
-## 2. Abessinier-Meerschweinchen's Body Language & Signals
+## 2. Körpersprache und Verhaltenssignale von Abessinier-Meerschweinchen
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Abessinier-Meerschweinchen sind wegen ihrer Wirbel ('Rosetten') im Fell und ihre
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Maßgeschneiderte 3-Schritte-Tagesroutine für Abessinier-Meerschweinchen
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

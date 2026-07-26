@@ -13,11 +13,11 @@ authority: "Directives de la Hedgehog Welfare Society et Protocoles Vétérinair
 steps:
   - name: "Instincts du hérisson pygmée : Mousse d'autounguement et défense avec piquants"
     text: "Lorsque les hérissons pygmées africains goûtent ou sentent quelque chose de nouveau, ils créent une salive mousseuse et l'appliquent sur leurs piquants, un processus appelé 'Autounguement' (Self-Anointing). C'est un comportement normal pour camoufler leur odeur. À l'inverse, lorsqu'ils ont peur, ils se roulent en boule serrée et émettent des 'Sifflements' (Hissing) pour avertir de ne pas les toucher."
-  - name: "Hérisson Pygmée Africain (Atelerix albiventris / African Pygmy Hedgehog)'s Body Language & Signals"
+  - name: "Langage corporel et signaux comportementaux du Hérisson Pygmée Africain (Atelerix albiventris / African Pygmy Hedgehog)"
     text: "* Autounguement (Self-Anointing): Un instinct sauvage inoffensif pour enregistrer et recouvrir leurs piquants de nouvelles odeurs environnementales. (Ne les interrompez pas et ne le confondez pas avec une maladie ; laissez-les se familiariser avec l'odeur naturellement.)
 
 * Sifflement et roulement en boule (Hissing/Ball-up): Un mode défensif indiquant une peur sévère, érigeant les piquants pour bloquer tout contact physique. (Évitez d'essayer de les manipuler à mains nues. Couvrez-les d'une couverture en polaire douce pour créer un abri sombre.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Routine quotidienne en 3 étapes pour le soin du Hérisson Pygmée Africain (Atelerix albiventris / African Pygmy Hedgehog)"
     text: "* STEP 1. Matin : Lavage de la roue d'exercice et des plats sales: Puisque les hérissons ont tendance à déféquer pendant qu'ils courent sur leur roue, nettoyez et désinfectez la roue et les plats chaque matin.
 
 * STEP 2. Après-midi : Maintenir la température de la pièce entre 24 et 26 °C: Prévenez la baisse de température corporelle et l'hibernation en vérifiant régulièrement les tapis chauffants et les thermostats digitaux.
@@ -60,7 +60,7 @@ L'hérisson pygmée africain est un animal de compagnie exotique fascinant et si
 
 ---
 
-## 2. Hérisson Pygmée Africain (Atelerix albiventris / African Pygmy Hedgehog)'s Body Language & Signals
+## 2. Langage corporel et signaux comportementaux du Hérisson Pygmée Africain (Atelerix albiventris / African Pygmy Hedgehog)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ L'hérisson pygmée africain est un animal de compagnie exotique fascinant et si
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Routine quotidienne en 3 étapes pour le soin du Hérisson Pygmée Africain (Atelerix albiventris / African Pygmy Hedgehog)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

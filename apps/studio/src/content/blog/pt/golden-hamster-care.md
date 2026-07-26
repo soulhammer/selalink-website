@@ -13,11 +13,11 @@ authority: "Guia de Cuidado de Hámsters da Humane Society e Protocolos de Condu
 steps:
   - name: "Comunicação do hámster sírio: Ranger de dentes e sinais de vigilância"
     text: "Os hámsters sírios expressam raiva ou medo fazendo um som distintivo de ranger de dentes (Teeth Chattering), avisando-o para se manter afastado. Além disso, quando se assustam com ruídos repentinos, mostram um comportamento de achatar as orelhas e congelar (Ear Flattening). Reconhecer estes delicados sinais de linguagem corporal é a chave para manter o seu conforto."
-  - name: "Hámster Sírio / Dourado (Mesocricetus auratus)'s Body Language & Signals"
+  - name: "Linguagem corporal e sinais de comportamento do Hámster Sírio / Dourado (Mesocricetus auratus)"
     text: "* Ranger de dentes (Teeth Chattering): Um aviso firme de que se sentem ameaçados ou extremamente sensíveis. Não se aproxime. (Pare imediatamente a manipulação ou a limpeza, e dê-lhe um espaço tranquilo para se acalmar no seu esconderijo.)
 
 * Orelhas achatadas e congelamento (Ear Flattening): Um estado de alta tensão e precaução, provocado por vibrações repentinas ou estímulos visuais desconhecidos. (Evite ruídos fortes ou movimentos bruscos perto, e diminua as luzes para manter o quarto escuro e acolhedor.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rotina diária de 3 passos para cuidados com Hámster Sírio / Dourado (Mesocricetus auratus)"
     text: "* STEP 1. Manhã: Organização do esconderijo e substituição de água: Dado que os hámsters dormem pela manhã, não perturbe o interior do seu esconderijo. Substitua a água e limpe levemente a sujidade ao redor da gaiola.
 
 * STEP 2. Tarde: Manter um ambiente silencioso e escuro para um sono profundo: Assegure que dormem sem interrupções evitando eletrodomésticos ruidosos perto e sombreando a gaiola.
@@ -60,7 +60,7 @@ O pequeno e adorável hámster sírio ou dourado é um dos animais de estimaçã
 
 ---
 
-## 2. Hámster Sírio / Dourado (Mesocricetus auratus)'s Body Language & Signals
+## 2. Linguagem corporal e sinais de comportamento do Hámster Sírio / Dourado (Mesocricetus auratus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ O pequeno e adorável hámster sírio ou dourado é um dos animais de estimaçã
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rotina diária de 3 passos para cuidados com Hámster Sírio / Dourado (Mesocricetus auratus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

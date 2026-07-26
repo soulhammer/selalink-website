@@ -13,11 +13,11 @@ authority: "AKC Samoyed Care Guide & Orthopedic Foundation for Animals (OFA) Gui
 steps:
   - name: "Samoyed Body Language: Splooting Cooling and Joint Pain Signals"
     text: "When hot, Samoyeds sploot, showing 'Frog-Leg Lying (Splooting)' behavior to press their furless bellies against cool surfaces. Conversely, 'Bunny Hopping' where they run with both hind legs moving together is a classic indicator of hip joint pain that requires immediate attention."
-  - name: "Samoyed (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "Samoyed (Canis lupus familiaris)'s Body Language & Behavioral Signals"
     text: "* Frog-Leg Lying (Splooting): Lying flat on the belly with hind legs stretched back to cool down body temperature against cold tiles or marble. (Turn on air conditioning or provide cooling mats and let them rest quietly in a well-ventilated spot.)
 
 * Bunny Hopping: Hopping with both hind legs moving together to minimize pressure on malformed or painful hip joints. (Stop strenuous exercise immediately and seek an orthopedic evaluation (X-ray) from a veterinarian.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Customized 3-Step Home Care Routine for Samoyed (Canis lupus familiaris)"
     text: "* STEP 1. Morning: Slicker Brushing for Double Coat Ventilation: Brush their thick double coat daily using a slicker brush and a steel comb to remove dead undercoat and prevent mats and hot spots.
 
 * STEP 2. Afternoon: Joint Protection & Anti-Slip Mat Installation: Place anti-slip rugs on slippery indoor floors, maintain weight control, and feed glucosamine/chondroitin joint supplements.
@@ -60,7 +60,7 @@ Famous for their white fluffy double coat and sweet 'Samoyed Smile', Samoyeds ar
 
 ---
 
-## 2. Samoyed (Canis lupus familiaris)'s Body Language & Signals
+## 2. Samoyed (Canis lupus familiaris)'s Body Language & Behavioral Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Famous for their white fluffy double coat and sweet 'Samoyed Smile', Samoyeds ar
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Customized 3-Step Home Care Routine for Samoyed (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

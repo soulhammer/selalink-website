@@ -13,11 +13,11 @@ authority: "Panduan Medis House Rabbit Society dan Standar Veteriner Hewan Kecil
 steps:
   - name: "Ekspresi Emosional Kelinci Kerdil: Hentakan Kaki dan Geretakan Gigi"
     text: "Kelinci Kerdil Netherland mengentakkan kaki belakang dengan keras ke tanah 'Hentakan kaki belakang (Thumping)' untuk memperingatkan bahaya atau mengekspresikan frustrasi dan kemarahan mendalam. Sebaliknya, ketika rileks dan senang, mereka menggesekkan gigi dengan lembut untuk menghasilkan suara klik pelan yang disebut 'Geretakan gigi (Teeth Purring)'. Mengenali sinyal ini memastikan ikatan yang bahagia dan sehat."
-  - name: "Kelinci Kerdil Netherland (Oryctolagus cuniculus)'s Body Language & Signals"
+  - name: "Bahasa Tubuh dan Sinyal Perilaku Kelinci Kerdil Netherland (Oryctolagus cuniculus)"
     text: "* Hentakan Kaki Belakang (Thumping): Peringatan tegas untuk memberitahu bahaya kepada kelinci lain atau mengekspresikan kemarahan, penolakan, dan stres yang parah. (Identifikasi penyebab stres, halangi suara tiba-tiba atau hewan peliharaan lain, dan amati secara tenang dari jarak jauh sampai mereka merasa aman.)
 
 * Geretakan Gigi (Teeth Purring): Tanda sukacita dan keamanan, mirip dengan denguran kucing, sering kali terasa saat dibelai lembut. (Pijat dahi dan pangkal telinga mereka dengan lembut untuk memperdalam hubungan emosional.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutinitas Perawatan Harian 3 Langkah untuk Kelinci Kerdil Netherland (Oryctolagus cuniculus)"
     text: "* STEP 1. Pagi: Penyediaan Jerami Timothy Tinggi Serat dan Air Bersih: Untuk pengikisan gigi dan pergerakan usus yang aktif, isi wadah dengan jerami Timothy segar bebas debu di pagi hari, dan bersihkan mangkuk air minum.
 
 * STEP 2. Siang: Pembersihan Kotak Kotoran dan Pemeriksaan Pododermatitis: Bersihkan kotak kotoran untuk menjaga kebersihan, dan periksa bantalan kaki serta matras untuk mencegah pododermatitis (sore hocks) akibat lantai licin atau keras.
@@ -60,7 +60,7 @@ Dengan telinga mungil dan tubuh bulat yang padat, Kelinci Kerdil Netherland sang
 
 ---
 
-## 2. Kelinci Kerdil Netherland (Oryctolagus cuniculus)'s Body Language & Signals
+## 2. Bahasa Tubuh dan Sinyal Perilaku Kelinci Kerdil Netherland (Oryctolagus cuniculus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Dengan telinga mungil dan tubuh bulat yang padat, Kelinci Kerdil Netherland sang
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutinitas Perawatan Harian 3 Langkah untuk Kelinci Kerdil Netherland (Oryctolagus cuniculus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

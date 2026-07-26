@@ -13,11 +13,11 @@ authority: "AKC 法国斗牛犬官方护理指南与短头犬临床兽医学标�
 steps:
   - name: "法国斗牛犬的身体语言：短头呼吸音与中暑警示"
     text: "当气流不畅时，法斗会发出 “喉喘鸣或鼾音（Stridor/Stertor）”。如果它们伸长脖子大口喘气，则是体温急剧升高的危险警告，需要立即干预。"
-  - name: "法国斗牛犬 (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "法国斗牛犬 (Canis lupus familiaris) 的肢体语言与行为信号"
     text: "* 粗重呼吸与喉喘鸣 (Stridor / Stertor): 鼻腔狭窄导致空气流通受阻，且在兴奋状态下体温开始升高的表现。 (立即带至开启空调的凉爽室内或阴凉处，提供凉爽饮用水以使其平静休息。)
 
 * 伸颈张口喘气: 体内热量堆积严重，竭力伸长脖子吸入氧气以降低体温的危险信号。 (将室内温度调至 22-24°C，用湿凉毛巾擦拭其足垫和身体以帮助散热。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "法国斗牛犬 (Canis lupus familiaris) 定制化 3 步家庭护理流程"
     text: "* STEP 1. 早晨：清理面部皱纹异物与吸干湿气: 用无刺激无酒精湿巾轻轻擦拭眼鼻周围皱纹折叠处的异物，并彻底吸干水分以防真菌感染。
 
 * STEP 2. 中午：避开高温时段的15分钟平地散步: 完全避开炎热时段，仅在清晨或深夜选择无坡度的平地散步15分钟，促进能量循环。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. 法国斗牛犬 (Canis lupus familiaris)'s Body Language & Signals
+## 2. 法国斗牛犬 (Canis lupus familiaris) 的肢体语言与行为信号
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -69,7 +69,7 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 鼻腔狭窄导致空气流通受阻，且在兴奋状态下体温开始升高的表现。<br/>
-    <strong>•  national:</strong> 立即带至开启空调的凉爽室内或阴凉处，提供凉爽饮用水以使其平静休息。
+    <strong>• 应对:</strong> 立即带至开启空调的凉爽室内或阴凉处，提供凉爽饮用水以使其平静休息。
   </p>
 </div>
 
@@ -80,13 +80,13 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 体内热量堆积严重，竭力伸长脖子吸入氧气以降低体温的危险信号。<br/>
-    <strong>•  national:</strong> 将室内温度调至 22-24°C，用湿凉毛巾擦拭其足垫和身体以帮助散热。
+    <strong>• 应对:</strong> 将室内温度调至 22-24°C，用湿凉毛巾擦拭其足垫和身体以帮助散热。
   </p>
 </div>
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. 法国斗牛犬 (Canis lupus familiaris) 定制化 3 步家庭护理流程
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

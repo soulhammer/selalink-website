@@ -13,11 +13,11 @@ authority: "康奈尔猫科健康中心行为指南与韩国国立畜产科学�
 steps:
   - name: "猫咪的身体语言：极致信任的表达"
     text: "猫咪向家长发出信任最强烈的身体语言是 “竖起尾巴（Tail Up）” 和 “发出呼噜声（Purring）”。尾巴垂直竖起并朝您走来是友善和渴望交流的明确信号。此外，呼噜声会刺激大脑释放内啡肽以帮助它们平静。需要注意的是，呼噜声也可能是它们在感到疼痛或不安时自我安抚的“自愈”信号。如果猫咪躲在阴暗角落，神情沮丧却持续发出呼噜声，需要家长高度关注其健康状况。"
-  - name: "中华田园猫 (Felis catus / 科绍特)'s Body Language & Signals"
+  - name: "中华田园猫 (Felis catus / 科绍特) 的肢体语言与行为信号"
     text: "* 竖起尾巴 (Tail Up): 对家长表达强烈的亲近感、积极交流的意愿以及喜悦之情。 (此时可与猫咪进行温柔的眼神接触，或轻轻抚摸其下巴，进行积极的双向互动。)
 
 * 发出呼噜声 (Purring): 通常在感到快乐时发出，但也可能是缓解疼痛或焦虑的自我安抚与自愈信号。 (如果猫咪躲在阴暗角落里持续发出呼噜声，请仔细检查以确保它们没有受伤或生病。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "中华田园猫 (Felis catus / 科绍特) 定制化 3 步家庭护理流程"
     text: "* STEP 1. 早晨：垂直空间整理与开窗观景设置: 早晨通风时，拉开阳台窗旁或房间的百叶窗，创造一个可以从猫爬架眺望窗外的环境。确保充足的垂直空间并提供观察窗外景色（猫咪电视）的视觉刺激，能极大降低室内猫咪因生活单调和空间受限带来的压力。
 
 * STEP 2. 下午：15分钟模拟捕猎游戏流程: 每天进行一次为期15分钟的逗猫棒模拟捕猎游戏。猫是天生的捕食者，让它们追逐玩具并获得“捕猎成功的满足感”，可以防止产生挫折感，同时增加运动量。
@@ -64,7 +64,7 @@ faqs:
 
 ---
 
-## 2. 中华田园猫 (Felis catus / 科绍特)'s Body Language & Signals
+## 2. 中华田园猫 (Felis catus / 科绍特) 的肢体语言与行为信号
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -73,7 +73,7 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 对家长表达强烈的亲近感、积极交流的意愿以及喜悦之情。<br/>
-    <strong>•  national:</strong> 此时可与猫咪进行温柔的眼神接触，或轻轻抚摸其下巴，进行积极的双向互动。
+    <strong>• 应对:</strong> 此时可与猫咪进行温柔的眼神接触，或轻轻抚摸其下巴，进行积极的双向互动。
   </p>
 </div>
 
@@ -84,13 +84,13 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 通常在感到快乐时发出，但也可能是缓解疼痛或焦虑的自我安抚与自愈信号。<br/>
-    <strong>•  national:</strong> 如果猫咪躲在阴暗角落里持续发出呼噜声，请仔细检查以确保它们没有受伤或生病。
+    <strong>• 应对:</strong> 如果猫咪躲在阴暗角落里持续发出呼噜声，请仔细检查以确保它们没有受伤或生病。
   </p>
 </div>
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. 中华田园猫 (Felis catus / 科绍特) 定制化 3 步家庭护理流程
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

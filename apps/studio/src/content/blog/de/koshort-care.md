@@ -13,11 +13,11 @@ authority: "Verhaltensführer des Cornell Feline Health Centers und NIAS-Pflegeh
 steps:
   - name: "Körpersprache bei Katzen: Der ultimative Ausdruck von Vertrauen"
     text: "Einer der stärksten Vertrauensbeweise einer Katze gegenüber ihrem Besitzer ist die senkrecht aufgerichtete Rute (Tail Up) und das Schnurren (Purring). Das Annähern mit aufgerichteter Rute ist ein freundliches Signal. Schnurren setzt Endorphine im Gehirn frei. Beachten Sie, dass Schnurren auch ein Selbstheilungssignal bei Schmerzen sein kann. Wenn sich eine Katze an einem dunklen Ort versteckt und mit traurigem Gesicht schnurrt, sollten Sie ihre Gesundheit überwachen."
-  - name: "Koreanisch Kurzhaar (Felis catus)'s Body Language & Signals"
+  - name: "Körpersprache und Verhaltenssignale von Koreanisch Kurzhaar (Felis catus)"
     text: "* Rute hoch (Tail Up): Ein Ausdruck von starker Freundlichkeit, positiver Kommunikation und Freude gegenüber dem Besitzer. (Reagieren Sie mit sanftem Blickkontakt oder Kraulen am Kinn, um die Bindung zu stärken.)
 
 * Schnurren (Purring): Wird meist bei Zufriedenheit erzeugt, kann aber auch ein Selbstheilungssignal bei Schmerz oder Angst sein. (Wenn sie schnurren, während sie sich in dunklen Ecken verstecken, untersuchen Sie sie gründlich auf Krankheiten.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Maßgeschneiderte 3-Schritte-Tagesroutine für Koreanisch Kurzhaar (Felis catus)"
     text: "* STEP 1. Morgen: Vertikalbereichsprüfung und Fensterblick-Einrichtung: Öffnen Sie morgens beim Lüften die Jalousien in der Nähe des Kratzbaums am Fenster. Das Einrichten von Vertikalbereichen und das Ermöglichen des Blicks nach draußen (Katzen-TV) reduziert den Stress durch das Eingesperrtsein erheblich.
 
 * STEP 2. Nachmittag: 15-minütige Jagdspiel-Routine: Spielen Sie einmal täglich 15 Minuten lang Jagdspiele mit Katzenangeln. Da Katzen Raubtiere sind, verhindert das Jagen von Spielzeug Frustration und erhöht die Bewegung.
@@ -64,7 +64,7 @@ Heute befasst sich PetSelf mit der Körpersprache dieser Katzen und stellt eine 
 
 ---
 
-## 2. Koreanisch Kurzhaar (Felis catus)'s Body Language & Signals
+## 2. Körpersprache und Verhaltenssignale von Koreanisch Kurzhaar (Felis catus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -90,7 +90,7 @@ Heute befasst sich PetSelf mit der Körpersprache dieser Katzen und stellt eine 
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Maßgeschneiderte 3-Schritte-Tagesroutine für Koreanisch Kurzhaar (Felis catus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

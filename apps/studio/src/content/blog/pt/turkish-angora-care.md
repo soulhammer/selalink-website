@@ -13,11 +13,11 @@ authority: "Conselho de Raça do Angorá Turco da CFA e estudos veterinários de
 steps:
   - name: "Linguagem corporal do Angorá Turco: vocalização forte e captação de vibrações"
     text: "Gatos surdos emitem 'vocalizações fortes não moduladas' pois não possuem o retorno auditivo da própria voz. Em contrapartida, tornam-se extremamente sensíveis à detecção de 'vibrações do solo' através dos coxins das patas. Entender estes comportamentos é essencial para evitar sustos e estresse."
-  - name: "Angorá Turco (Turkish Angora)'s Body Language & Signals"
+  - name: "Linguagem corporal e sinais de comportamento do Angorá Turco (Turkish Angora)"
     text: "* Vocalização forte não modulada (Loud Unmodulated Vocalization): Miar muito alto ou gritar sem modulação de voz devido à ausência de audição, movido pelo desejo de interação ou frustração. (Evite se aproximar por trás de surpresa. Chegue sempre pelo campo de visão frontal fazendo gestos suaves com as mãos.)
 
 * Sensibilidade às vibrações do solo (Floor Vibration Sensitivity): Uso dos coxins das patas (corpúsculos de Pacini) para perceber vibrações mecânicas do solo e rastrear a aproximação de pessoas. (Bata levemente no chão com o pé ou a mão antes de chegar perto para sinalizar sua presença sem assustar o gato.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rotina diária de 3 passos para cuidados com Angorá Turco (Turkish Angora)"
     text: "* STEP 1. Manhã: Cumprimento visual e comunicação por gestos: Diga bom dia usando sinais de mão amigáveis e piscadas lentas de olhos em vez de chamados vocais, garantindo um despertar tranquilo.
 
 * STEP 2. Tarde: Enriquecimento vertical estável e verificação de segurança: Instale prateleiras e nichos bem fixados na parede. Como a surdez pode influenciar levemente o equilíbrio, a estabilidade é vital.
@@ -60,7 +60,7 @@ Com sua pelagem longa e sedosa e olhos expressivos, o Angorá Turco (Turkish Ang
 
 ---
 
-## 2. Angorá Turco (Turkish Angora)'s Body Language & Signals
+## 2. Linguagem corporal e sinais de comportamento do Angorá Turco (Turkish Angora)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Com sua pelagem longa e sedosa e olhos expressivos, o Angorá Turco (Turkish Ang
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rotina diária de 3 passos para cuidados com Angorá Turco (Turkish Angora)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

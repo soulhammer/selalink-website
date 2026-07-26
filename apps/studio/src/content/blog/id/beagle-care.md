@@ -13,11 +13,11 @@ authority: "Standar Ras Resmi Beagle AKC & Protokol Perilaku Nosework IAABC"
 steps:
   - name: "Bahasa Tubuh Beagle: Insting Melacak dan Makna Melolong"
     text: "Saat sangat fokus pada aroma, Beagle akan menempelkan hidung ke tanah dan berjalan lurus ('Ground-Tracking'), mengabaikan suara sekitar demi menyalurkan energi. Sebaliknya, 'melolong' saat ditinggal sendiri adalah ekspresi klasik dari kecemasan perpisahan. Mengenali kedua sinyal ini adalah kunci menjaga Beagle tetap tenang."
-  - name: "Beagle's Body Language & Signals"
+  - name: "Bahasa Tubuh dan Sinyal Perilaku Beagle"
     text: "* Melacak dengan Hidung di Tanah (Ground-Tracking): Kondisi stimulasi normal di mana anjing menjelajahi lingkungan melalui penciuman dan membakar energi anjing pemburu. (Jangan menyentak tali penuntun; berikan waktu bagi mereka untuk mengendus jalur aroma secara aman demi memuaskan mentalnya.)
 
 * Melolong (Howling): Ekspresi kecemasan, kesepian, kebosanan, atau energi tak tersalurkan yang mencari perhatian dan ketenangan. (Hindari memarahi anjing. Atasi penyebab utamanya dengan meningkatkan olahraga fisik dan menyediakan permainan puzzle penciuman di dalam rumah.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutinitas Perawatan Harian 3 Langkah untuk Beagle"
     text: "* STEP 1. Pagi: Permainan Petak Sumpet Camilan (Nosework) di Dalam Rumah: Setelah sarapan, sembunyikan camilan dalam gelas kertas atau sudut ruangan untuk mengasah kecerdasan penciuman dan membakar energi mental sejak pagi.
 
 * STEP 2. Siang: Jalan-jalan Aktif Melacak Aroma Selama 40+ Menit: Berikan jalan-jalan outdoor minimal 40 menit setiap hari. Biarkan mereka mengendus rumput dan jalanan secara bebas tanpa batasan yang tidak perlu.
@@ -60,7 +60,7 @@ Disukai karena telinga terkulainya yang lebar dan ekor berujung putih yang mengi
 
 ---
 
-## 2. Beagle's Body Language & Signals
+## 2. Bahasa Tubuh dan Sinyal Perilaku Beagle
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Disukai karena telinga terkulainya yang lebar dan ekor berujung putih yang mengi
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutinitas Perawatan Harian 3 Langkah untuk Beagle
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

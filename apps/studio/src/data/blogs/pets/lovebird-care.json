@@ -1,0 +1,516 @@
+{
+    "lovebird-care": {
+        "pubDate": "2026-05-05",
+        "updatedDate": "2026-07-26",
+        "locales": {
+            "ko": {
+                "title": "모란앵무의 애정·경계 신호 해석과 호흡기 및 과다 산란 예방을 위한 3단계 데일리 케어",
+                "description": "사랑스러운 소형 앵무새 모란앵무(Lovebird). 테플론 유독가스 차단과 토해내기·날개 펴기 신호 해석, 적정 일조 주기 및 알 묶임(난산) 예방을 위한 3단계 홈케어 루틴을 소개합니다.",
+                "authority": "Association of Avian Veterinarians (AAV) 조류 수의사회 및 World Parrot Trust 케어 프로토콜",
+                "profile": {
+                    "breed": "모란앵무 (Lovebird / Agapornis)",
+                    "lifespan": "10 ~ 15년 (올바른 케어 시 최대 20년)",
+                    "sleep_pattern": "10 ~ 12시간 (암막 커버로 호르몬 조절 및 깊은 수면)",
+                    "temperament": "애정 깊음, 외향적, 영역 의식 강함, 질투심, 활발함"
+                },
+                "intro": "반려자와 깊은 유대감을 형성하여 '러브버드(Lovebird)'라는 이름을 가진 모란앵무는 화려한 색상과 강한 친화력으로 전 세계에서 사랑받는 소형 앵무새입니다. 강한 유대감만큼이나 영역 의식이 세고 호르몬 자극에 민감하여, 하루 일조 시간이 길어지거나 과도한 등 만지기를 할 경우 습관성 과다 산란과 알 묶임(Egg Binding/난산)이 발생하기 쉽습니다. 또한 앵무새 특유의 공기주머니(Air Sacs) 호흡계로 인해 테플론 가열 가스나 향수 등 공기 중 유해 물질에 매우 취약하며, 씨앗 위주의 식단은 비타민 A 결핍과 간지방증을 유발합니다. 오늘 PetSelf에서는 모란앵무의 신체 신호를 정확히 읽어내고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.",
+                "whyTitle": "모란앵무의 바디 랭귀지: 토해내기 행동(Regurgitation)과 경계의 날개 펴기(Territorial Stance)",
+                "whyDesc": "모란앵무는 부리 행동과 날개 자세로 애정과 영역 경계 신호를 명확히 표현합니다. 보호자나 짝을 향해 머리를 위아래로 끄덕이며 먹이를 구토하듯 올려베무는 **'토해내기 행동(Regurgitation)'**은 애정과 구애를 나타내는 최고의 신뢰 표현입니다. 반면 새장 입구에서 날개를 넓게 펼치고 부리를 딱딱 소리 내며 동공을 수축하는 **'영역 경계 자세(Territorial Wing Spreading)'**는 영역 침범에 대한 자극과 물기 직전의 경고 신호입니다.",
+                "body_signals": [
+                    {
+                        "name": "머리를 위아래로 끄덕이며 부리로 먹이를 게워냄 (Regurgitation)",
+                        "meaning": "보호자를 유대감이 깊은 짝으로 인식하고 애정을 표현하는 강한 구애 및 신뢰 행동입니다.",
+                        "response": "과도한 호르몬 자극으로 발전하여 연속 산란을 유발하지 않도록 부드럽게 시선을 돌려 장난감 놀이로 유도합니다."
+                    },
+                    {
+                        "name": "날개를 크게 벌리고 부리로 딱딱 소리를 냄 (Territorial Stance / Beak Clicking)",
+                        "meaning": "자신의 영역(새장, 은신처)을 지키기 위한 강한 경계 및 공격 직전의 경고 신호입니다.",
+                        "response": "손을 무리하게 새장 안으로 넣지 말고, 스스로 새장 밖으로 나올 때까지 기다린 후 차분하게 교감합니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 펠릿(60~70%)과 비타민 A 풍부한 신선한 야채 급여 및 공기 환기",
+                        "text": "간지방증과 영양 결핍을 막기 위해 펠릿 중심 식단과 청경채, 당근 등을 함께 급여하며 실내 공기 질을 청정하게 유지합니다."
+                    },
+                    {
+                        "name": "낮: 포레징 장난감 제공 및 안전한 자율 방사장 비행",
+                        "text": "지루함으로 인한 털 뽑기(Feather Plucking)와 핥기를 예방하기 위해 종이 파쇄 노즈워크 장난감을 제공하고, 창문을 닫은 안전한 공간에서 자율 비행을 시켜줍니다."
+                    },
+                    {
+                        "name": "저녁: 과다 산란 방지를 위한 등 만지기 자제 및 10~12시간 암막 수면",
+                        "text": "암컷의 과다 산란과 알 묶임(Egg Binding)을 예방하기 위해 등이나 배를 과도하게 문지르지 않고, 일정 시간에 암막 커버를 씌워 10~12시간 동안 수면을 유지해 줍니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "주방에서 사용하는 테플론(PTFE) 프라이팬이 왜 모란앵무에게 위험한가요?",
+                        "answer": "모란앵무의 공기주머니(Air Sacs) 호흡 구조는 공기 중의 독성 물질에 극도로 민감합니다. 테플론 코팅 팬이 고온 가열될 때 발생하는 무색무취의 독성 가스는 앵무새에게 즉각적인 폐출혈과 호흡 마비를 유발하여 사망에 이르게 합니다. 새장은 주방과 떨어진 잘 환기되는 공간에 배치해야 합니다."
+                    },
+                    {
+                        "question": "암컷 모란앵무가 알을 자꾸 낳는데 무정란을 계속 낳아도 괜찮은가요?",
+                        "answer": "괜찮지 않습니다! 연속적인 무정란 산란은 모란앵무의 체내 칼슘을 급격히 소모시켜 뼈가 약해지고, 알이 체내에 걸려 나오지 못하는 치명적인 '알 묶임(Egg Binding/난산)' 질환을 유발합니다. 이를 막기 위해 하루 10~12시간 이상의 완전한 암막 수면으로 일조시간을 줄이고, 알자리(둥지 상자)나 거울 등 호르몬 자극 요소를 제거해야 합니다."
+                    }
+                ],
+                "tags": [
+                    "모란앵무",
+                    "앵무새케어",
+                    "러브버드",
+                    "조류과다산란"
+                ]
+            },
+            "en": {
+                "title": "Lovebird Bonding Signals and 3-Step Daily Routine for Respiratory Protection and Egg Binding Prevention",
+                "description": "Care guide for the affectionate Lovebird. Prevent PTFE fumes, interpret regurgitation and territorial wing spreading, and prevent chronic egg laying in 3 steps.",
+                "authority": "Association of Avian Veterinarians (AAV) & World Parrot Trust Avian Care Protocols",
+                "profile": {
+                    "breed": "Lovebird (Agapornis)",
+                    "lifespan": "10 - 15 Years (Up to 20 years with optimal care)",
+                    "sleep_pattern": "10 - 12 Hours (Complete darkness with blackout cover for hormone control)",
+                    "temperament": "Affectionate, Outgoing, Highly Territorial, Jealous, Active"
+                },
+                "intro": "Named 'Lovebirds' for the intense bonds they form with their companions, Lovebirds (Agapornis) are cherished worldwide for their striking colors and vibrant personalities. However, their strong bonding nature comes with high territoriality and hormonal sensitivity. Long daylight hours or excessive petting on the back can trigger chronic egg-laying and fatal Egg Binding in females. Furthermore, their air sac respiratory system makes them extremely vulnerable to airborne toxins like PTFE (Teflon) fumes and perfumes, while an all-seed diet causes Vitamin A deficiency and fatty liver disease. Today, PetSelf presents a 3-step daily care routine to read your Lovebird's body signals and maintain its health.",
+                "whyTitle": "Lovebird Body Language: Regurgitation and Territorial Wing Spreading",
+                "whyDesc": "Lovebirds express affection and territorial boundaries clearly through beak gestures and wing postures. Nodding its head up and down while bringing up food **'Regurgitation'** is the ultimate sign of trust and affection toward a bonded partner or owner. Conversely, spreading wings wide, clicking the beak, and pinning pupils at the cage door **'Territorial Wing Spreading'** is an explicit warning of territorial aggression prior to biting.",
+                "body_signals": [
+                    {
+                        "name": "Nodding Head Up & Down and Regurgitating Food (Regurgitation)",
+                        "meaning": "A strong courtship and trust behavior indicating that the bird perceives the owner as a bonded mate.",
+                        "response": "Gently redirect their focus to toys to prevent overstimulating hormonal behavior that causes chronic egg-laying."
+                    },
+                    {
+                        "name": "Spreading Wings Wide & Clicking Beak (Territorial Stance / Beak Clicking)",
+                        "meaning": "A strong territorial alert warning that they are defending their cage/nest area and may bite.",
+                        "response": "Do not force your hand into the cage; wait patiently for them to exit voluntarily before interacting calmly."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Formulated Pellets (60–70%), Vitamin A-Rich Greens & Ventilation",
+                        "text": "Feed a pellet-based diet with leafy greens (bok choy, carrots) to prevent fatty liver and nutrient deficits, keeping room air clean."
+                    },
+                    {
+                        "name": "Afternoon: Foraging Toys & Safe Out-of-Cage Flight Time",
+                        "text": "Provide shreddable paper foraging toys to prevent feather plucking from boredom, allowing flight in a secure room with closed windows."
+                    },
+                    {
+                        "name": "Evening: Avoid Back Stroking & 10–12 Hour Blackout Sleep for Hormone Control",
+                        "text": "Avoid petting their back or belly to prevent triggering egg laying, covering the cage with a blackout cover for 10–12 hours of uninterrupted sleep."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Why are non-stick PTFE (Teflon) cookware fumes lethal to Lovebirds?",
+                        "answer": "Lovebirds possess a highly efficient air sac respiratory system that absorbs airborne particles rapidly. Overheated PTFE releases odorless, invisible toxic fumes that cause instantaneous lung hemorrhage and respiratory paralysis, leading to death. Cages must be kept in well-ventilated areas far from kitchens."
+                    },
+                    {
+                        "question": "Is it dangerous if my female Lovebird keeps laying infertile eggs?",
+                        "answer": "Yes, chronic egg laying is dangerous! Producing endless eggs severely depletes systemic calcium, weakening bones and risking life-threatening 'Egg Binding' (egg stuck in the oviduct). To stop this, restrict daylight exposure to 10–12 hours of total blackout sleep and remove hormonal triggers like nest boxes, paper shreds, or mirrors."
+                    }
+                ],
+                "tags": [
+                    "Lovebird",
+                    "AvianCare",
+                    "ParrotCare",
+                    "EggBindingPrevention"
+                ]
+            },
+            "ja": {
+                "title": "ボタンインコ・コザクラインコ（ラブバード）の愛情・警戒サイン解読と呼吸器・過剰産卵予防のための3ステップデイリールーティン",
+                "description": "愛くるしい小型インコのコザクラインコ/ボタンインコ（ラブバード）。テフロン有毒ガスの遮断、吐き戻しや羽広げサインの解読、適切な日照管理と卵詰まり（難産）予防のための3ステップホームケアを紹介します。",
+                "authority": "鳥類獣医師会 (Association of Avian Veterinarians) ＆ ワールド・パロット・トラスト飼育基準",
+                "profile": {
+                    "breed": "コザクラインコ / ボタンインコ (Lovebird / Agapornis)",
+                    "lifespan": "10 〜 15年 (適切なケアで最大20年)",
+                    "sleep_pattern": "10 〜 12時間 (ホルモン調節と熟睡のための遮光カバー)",
+                    "temperament": "情が深い、社交的、縄張り意識が強い、嫉妬深い、活発"
+                },
+                "intro": "パートナーと深い絆を結ぶことから「ラブバード（Lovebird）」と呼ばれるコザクラインコやボタンインコは、鮮やかな羽色と人懐っこさで世界中で愛されている小型インコです。深い愛情を持つ反面、縄張り意識が強くホルモン刺激に非常に敏感なため、日照時間が長すぎたり背中を過剰に撫でたりすると、習慣的な過剰産卵や卵詰まり（Egg Binding/難産）を起こしやすくなります。また、鳥類特有の気嚢（Air Sacs）構造のためテフロン加熱ガスや香水などの空気中の有害物質に弱く、シード中心の食事はビタミンA不足や脂肪肝を引き起こします。本日PetSelfでは、ラブバードのサインを正確に読み解き、健康を守る3ステップルーティンをお届けします。",
+                "whyTitle": "ラブバードのボディランゲージ：吐き戻し行動(Regurgitation)と縄張り警戒の羽広げ(Territorial Stance)",
+                "whyDesc": "ラブバードは嘴の動きと羽の姿勢で愛情と縄張りの境界サインを明確に表現します。飼い主やパートナーに向かって頭を上下に振ってフードを吐き戻す**「吐き戻し行動（Regurgitation）」**は、深い愛と信頼を示す求愛表現です。一方、ケージの入口で羽を大きく広げて嘴をパチパチ鳴らし瞳孔を収縮させる**「縄張り威嚇姿勢（Territorial Wing Spreading）」**は、縄張り侵入に対する警戒と噛みつき直前の警告サインです。",
+                "body_signals": [
+                    {
+                        "name": "頭を上下に振って嘴からフードを吐き戻す (Regurgitation)",
+                        "meaning": "飼い主を深い絆で結ばれたパートナーと認識して愛情を表現する強い求愛・信頼行動です。",
+                        "response": "過度なホルモン刺激から発情・連続産卵へ発展しないよう、優しく視線をそらしておもちゃ遊びへ誘導します。"
+                    },
+                    {
+                        "name": "羽を大きく広げて嘴でパチパチ音を鳴らす (Territorial Stance / Beak Clicking)",
+                        "meaning": "自分の領域（ケージや巣穴）を守るための強い警戒および攻撃直前の警告サインです。",
+                        "response": "手を無理にケージの中に入れず、自らケージの外へ出てくるまで待ってから落ち着いて触れ合いましょう。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：ペレット（60〜70%）とビタミンA豊富な新鮮野菜の給餌＆換気",
+                        "text": "脂肪肝や栄養失調を防ぐためにペレット中心の食事と小松菜、人参などを与え、室内空気の清潔を保ちます。"
+                    },
+                    {
+                        "name": "昼：フォージング玩具の提供と安全な室内の放鳥時間",
+                        "text": "退屈による毛引き症（Feather Plucking）を防ぐために紙を破くフォージングトイを与え、窓を閉めた安全な部屋で放鳥させます。"
+                    },
+                    {
+                        "name": "夜：過剰産卵防止のための背中なで控えと10〜12時間の遮光睡眠",
+                        "text": "メスの過剰産卵と卵詰まり（Egg Binding）を防ぐために背中や腹部を過剰に撫でず、決まった時間に遮光カバーをかけて10〜12時間熟睡させます。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "キッチンで使うテフロン（PTFE）フライパンがなぜラブバードにとって危険なのですか？",
+                        "answer": "ラブバードの気嚢（Air Sacs）呼吸構造は空気中の有毒物質に極めて敏感です。テフロン加工のパンが高温加熱された際に発生する無臭の有毒ガスは、インコに即座の肺出血と呼吸麻痺を引き起こし死に至らせます。ケージはキッチンから離れた風通しの良い場所に設置してください。"
+                    },
+                    {
+                        "question": "メスのラブバードが無精卵を頻繁に産むのですが、そのまま産ませても大丈夫ですか？",
+                        "answer": "絶対に良くありません！連続的な産卵は体内のカルシウムを急速に消耗させて骨を弱らせ、卵が体内に詰まって出なくなる致死的な「卵詰まり（Egg Binding/難産）」を引き起こします。これを防ぐために、1日10〜12時間以上の完全遮光睡眠で日照時間を減らし、巣箱や鏡などの発情刺激要素を取り除いてください。"
+                    }
+                ],
+                "tags": [
+                    "コザクラインコ",
+                    "ボタンインコ",
+                    "ラブバード",
+                    "過剰産卵予防"
+                ]
+            },
+            "zh": {
+                "title": "情侣鹦鹉（牡丹鹦鹉）情感与警戒信号解读及呼吸道与难产预防的3步日常流程",
+                "description": "可爱小型鹦鹉情侣鹦鹉（Lovebird/牡丹鹦鹉）护理指南。预防特氟龙毒气，解读吐食与展翅警告信号，维持光照周期及预防夹蛋（难产） 3步骤家庭护理。",
+                "authority": "美国鸟类兽医协会 (AAV) 与世界鹦鹉信托基金会 (World Parrot Trust) 护理标准",
+                "profile": {
+                    "breed": "情侣鹦鹉 / 牡丹鹦鹉 (Lovebird / Agapornis)",
+                    "lifespan": "10 ~ 15年 (科学喂养可达20年)",
+                    "sleep_pattern": "10 ~ 12小时 (加盖遮光罩以调节激素与深度睡眠)",
+                    "temperament": "情感丰富、外向、领地意识强、易嫉妒、活泼"
+                },
+                "intro": "因与伴侣建立深厚羁绊而得名“情侣鹦鹉（Lovebird/牡丹鹦鹉）”，凭其鲜艳羽色与极强亲和力深受全球喜爱。然而，强烈羁绊 同时伴随着强烈的领地意识与高敏感 激素系统。若白天光照时间过长或过度抚摸其背部，极易诱发习惯性过量产卵与致命 咬蛋/卡蛋（Egg Binding/难产）。此外，其特有 气囊（Air Sacs）呼吸系统对特氟龙加热毒气及喷雾极度敏感，纯种子食物会导致维生素 A 缺乏与脂肪肝。今天 PetSelf 将带您准确解读情侣鹦鹉 肢体语言，并通过3步骤日常护理维护其健康。",
+                "whyTitle": "情侣鹦鹉 肢体语言：吐食求偶 (Regurgitation) 与领地展翅警告 (Territorial Stance)",
+                "whyDesc": "情侣鹦鹉通过嘴部动作与翅膀姿态清晰表达亲密与领地界限。面向主人或伴侣上下点头并反刍吐出食物**“吐食求偶 (Regurgitation)”**，是表达信任与深爱 最高求偶信号。相反，在笼门前张开双翅、敲击鸟喙并收缩瞳孔**“领地展翅警告 (Territorial Wing Spreading)”**，则是保护领地、即将在攻击咬人 明确警告。",
+                "body_signals": [
+                    {
+                        "name": "上下点头并从嘴中反刍吐食 (Regurgitation)",
+                        "meaning": "将主人视为建立羁绊 伴侣，表达深厚信任与爱意 强烈求偶行为。",
+                        "response": "应温和地转移其注意力至玩具上，防止其过度发情发展为连续产卵。"
+                    },
+                    {
+                        "name": "张开双翅并用鸟喙发出啪啪声 (Territorial Stance / Beak Clicking)",
+                        "meaning": "为保护自己 领地（鸟笼、巢穴）而发出的强强烈警戒与咬人前兆。",
+                        "response": "切勿强行伸手入笼，耐心地等待其自行出笼后再平静地进行互动。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：喂食滋养丸（60~70%）与富含维生素 A 绿叶菜及通风",
+                        "text": "以滋养丸为主食，搭配油菜、胡萝卜等蔬菜以预防脂肪肝，并保持室内空气清新。"
+                    },
+                    {
+                        "name": "中午：提供觅食 (Foraging) 玩具与安全放飞",
+                        "text": "提供撕咬纸丝 觅食玩具预防因无聊导致的啄羽症（Feather Plucking），并在关好门窗 安全房间内放飞。"
+                    },
+                    {
+                        "name": "晚上：避免抚摸背部以防过量产卵，保证 10~12 小时遮光睡眠",
+                        "text": "严禁抚摸其背部或腹部以防刺激产卵，按时加盖遮光罩，保证 10~12 小时完全黑暗 睡眠。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "厨房中使用 特氟龙（PTFE）不粘锅为什么对情侣鹦鹉是致命 ？",
+                        "answer": "情侣鹦鹉 气囊（Air Sacs）呼吸系统对空气中的有毒物质极度敏感。特氟龙涂层高温加热时产生的无色无味毒气会引发肺部瞬间出血与呼吸麻痹导致死亡。鸟笼必须安置在远离厨房且通风良好 区域。"
+                    },
+                    {
+                        "question": "母情侣鹦鹉频繁产下无精蛋，需要干预吗？",
+                        "answer": "必须干预！连续产卵会剧烈消耗其体内的钙质导致骨质疏松，并极易引发蛋体卡在输卵管内无法排出的致命性“卡蛋/难产（Egg Binding）”。应通过每日 10~12 小时以上 完全遮光睡眠缩短光照，并撤走巢箱、镜子等发情诱因。"
+                    }
+                ],
+                "tags": [
+                    "情侣鹦鹉",
+                    "牡丹鹦鹉",
+                    "鹦鹉护理",
+                    "难产预防"
+                ]
+            },
+            "es": {
+                "title": "Señales de afecto y territorialidad en el Agapornis y rutina diaria de 3 pasos para el cuidado respiratorio y prevención de retención de huevos",
+                "description": "Guía de cuidado para el afectuoso Agapornis (Lovebird). Evite gases de teflón, interprete la regurgitación y el despliegue de alas, y prevenga la puesta continua de huevos en 3 pasos.",
+                "authority": "Asociación de Veterinarios Aviares (AAV) y Protocolos del World Parrot Trust",
+                "profile": {
+                    "breed": "Agapornis / Inseparable (Lovebird / Agapornis)",
+                    "lifespan": "10 ~ 15 años (Hasta 20 años con cuidados óptimos)",
+                    "sleep_pattern": "10 ~ 12 horas (Oscuridad total con funda opaca para control hormonal)",
+                    "temperament": "Afectuoso, Extrovertido, Muy territorial, Celoso, Activo"
+                },
+                "intro": "Llamados 'Inseparables' o 'Lovebirds' por los profundos lazos que forman con sus compañeros, los Agapornis son amados en todo el mundo por sus llamativos colores y viva personalidad. Sin embargo, su gran capacidad de apego viene acompañada de una alta territorialidad y sensibilidad hormonal. Largas jornadas de luz o acariciar su lomo pueden desencadenar la puesta continua de huevos y una letal retención de huevos (Egg Binding) en las hembras. Además, su sistema respiratorio de sacos aéreos los hace vulnerables a vapores tóxicos como el teflón (PTFE). Hoy, PetSelf presenta una rutina de 3 pasos para proteger su salud.",
+                "whyTitle": "Lenguaje corporal del Agapornis: Regurgitación afectiva y postura territorial (Territorial Stance)",
+                "whyDesc": "Los Agapornis expresan afecto y límites territoriales a través de gestos con el pico y sus alas. Asentir con la cabeza arriba y abajo mientras devuelve alimento **'Regurgitación'** es la máxima muestra de confianza hacia su pareja o dueño. Por el contrario, desplegar las alas en la puerta de la jaula, emitir chasquidos con el pico y contraer las pupilas **'Postura territorial (Territorial Wing Spreading)'** es una advertencia de agresión antes de picar.",
+                "body_signals": [
+                    {
+                        "name": "Asentir con la cabeza y regurgitar alimento por el pico (Regurgitation)",
+                        "meaning": "Comportamiento de cortejo y profunda confianza al considerar al dueño como su pareja vinculada.",
+                        "response": "Redirija suavemente su atención hacia juguetes para evitar sobreestimular conductas hormonales de puesta."
+                    },
+                    {
+                        "name": "Desplegar las alas y emitir chasquidos con el pico (Territorial Stance / Beak Clicking)",
+                        "meaning": "Advertencia territorial firme para defender su jaula o nido con riesgo inminente de picotazo.",
+                        "response": "No introduzca la mano por la fuerza; espere pacientemente a que salga por sí solo para interactuar con calma."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Pienso formulado (60–70%), vegetales ricos en vitamina A y ventilación",
+                        "text": "Alimente con pienso extrusionado y vegetales de hoja verde (hojas de zanahoria, acelga) para prevenir hígado graso y limpie el aire."
+                    },
+                    {
+                        "name": "Tarde: Juguetes de forrajeo y tiempo de vuelo seguro fuera de la jaula",
+                        "text": "Suministre juguetes para triturar papel que eviten el picaje por aburrimiento y permita el vuelo en una habitación cerrada y segura."
+                    },
+                    {
+                        "name": "Noche: Evitar caricias en el lomo y 10–12h de sueño con cubierta opaca",
+                        "text": "No acaricie su espalda ni vientre para no estimular la puesta, y cubra la jaula con una funda opaca para un descanso reparador."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Por qué los vapores de sartenes de teflón (PTFE) son mortales para el Agapornis?",
+                        "answer": "Los agapornis poseen sacos aéreos muy eficientes que absorben toxinas del aire al instante. El teflón sobrecalentado emite gases inodoros e invisibles que provocan hemorragia pulmonar fulminante y parálisis respiratoria. Coloque la jaula bien lejos de la cocina."
+                    },
+                    {
+                        "question": "¿Es peligroso que mi hembra de Agapornis no pare de poner huevos fértiles o infértiles?",
+                        "answer": "¡Sí, es sumamente peligroso! La puesta continua agota las reservas de calcio corporal, debilitando sus huesos y provocando la letal 'Retención de huevos (Egg Binding)', donde el huevo se queda atascado. Para frenarlo, reduzca la luz a 10-12 horas de oscuridad total y retire nidos, espejos o papel de triturar."
+                    }
+                ],
+                "tags": [
+                    "Agapornis",
+                    "Inseparable",
+                    "CuidadoDeAves",
+                    "PrevencionRetencionHuevos"
+                ]
+            },
+            "fr": {
+                "title": "Signaux d'affection et de territorialité chez l'Inséparable et routine quotidienne en 3 étapes pour la santé respiratoire et la prévention de la rétention d'œuf",
+                "description": "Guide de soins pour l'affectueux Inséparable (Lovebird). Évitez les gaz de téflon, décryptez la régurgitation et la posture territoriale, et prévenez la ponte chronique en 3 étapes.",
+                "authority": "Association of Avian Veterinarians (AAV) & Normes de Soins du World Parrot Trust",
+                "profile": {
+                    "breed": "Inséparable (Lovebird / Agapornis)",
+                    "lifespan": "10 ~ 15 ans (Jusqu'à 20 ans avec des soins adaptés)",
+                    "sleep_pattern": "10 ~ 12 heures (Obscurité totale avec housse occultante pour la régulation hormonale)",
+                    "temperament": "Affectueux, Extraverti, Très territorial, Jalon, Actif"
+                },
+                "intro": "Nommés 'Inséparables' ou 'Lovebirds' en raison des liens passionnés qu'ils tissent avec leur partenaire, les Inséparables (Agapornis) sont appréciés dans le monde entier pour leurs couleurs éclatantes. Cependant, leur fort attachement s'accompagne d'une grande territorialité et d'une sensibilité hormonale aiguë. Des journées trop longues ou des caresses sur le dos peuvent déclencher une ponte chronique et une rétention d'œuf (Egg Binding) mortelle. De plus, leur système respiratoire muni de sacs aériens les rend vulnérables au téflon (PTFE). Aujourd'hui, PetSelf vous présente une routine en 3 étapes.",
+                "whyTitle": "Langage corporel de l'Inséparable : Régurgitation d'affection et posture territoriale (Territorial Stance)",
+                "whyDesc": "Les inséparables expriment leur affection et leurs limites territoriales par des gestes du bec et l'écartement des ailes. Hochez la tête de haut en bas en recrachant de la nourriture **« Régurgitation »** est la marque ultime de confiance envers son partenaire ou son maître. En revanche, écarter largement les ailes à la porte de la cage, claquer du bec et contracter les pupilles **« Posture territoriale (Territorial Wing Spreading) »** est un avertissement clair d'agression avant morsure.",
+                "body_signals": [
+                    {
+                        "name": "Hopher la tête de haut en bas et régurgiter de la nourriture (Regurgitation)",
+                        "meaning": "Comportement de cour et de confiance montrant que l'oiseau vous considère comme son partenaire privilégié.",
+                        "response": "Détournez délicatement son attention vers des jouets pour éviter de surstimuler les hormones de ponte."
+                    },
+                    {
+                        "name": "Écarter largement les ailes et claquer du bec (Territorial Stance / Beak Clicking)",
+                        "meaning": "Avertissement territorial fort indiquant qu'il défend sa cage ou son nid et risque de mordre.",
+                        "response": "Ne forcez pas en mettant la main dans la cage ; attendez qu'il sorte de lui-même pour interagir sereinement."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Granulés extrudés (60–70%), légumes riches en vitamine A & aération",
+                        "text": "Donnez des granulés avec des légumes feuillus (Fanés de carottes, chou) pour prévenir la stéatose hépatique et aérez la pièce."
+                    },
+                    {
+                        "name": "Après-midi : Jouets de recherche (Foraging) & vol libre en toute sécurité",
+                        "text": "Proposez des jouets en papier à détruire pour éviter le piquage dû à l'ennui et permettez le vol dans une pièce sécurisée."
+                    },
+                    {
+                        "name": "Soir : Éviter les caresses sur le dos & 10–12h de sommeil sous housse occultante",
+                        "text": "Ne caressez pas son dos ni son ventre pour ne pas stimuler la ponte, et couvrez la cage d'un drap occultant pour réguler son sommeil."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Pourquoi les émanations de téflon (PTFE) des poêles sont-elles mortelles pour l'Inséparable ?",
+                        "answer": "Les inséparables possèdent des sacs aériens très performants qui absorbent rapidement les toxines. Le téflon surchauffé libère des vapeurs toxiques inodores qui provoquent une hémorragie pulmonaire foudroyante. La cage doit rester impérativement éloignée de la cuisine."
+                    },
+                    {
+                        "question": "Est-il dangereux que ma femelle Inséparable ponde continuellement des œufs ?",
+                        "answer": "Oui, la ponte chronique est extrêmement dangereuse ! Produire des œufs à la chaîne épuise le calcium corporel, fragilise les os et provoque la redoutable 'Rétention d'œuf (Egg Binding)' où l'œuf reste bloqué. Réduisez la lumière à 10-12 heures d'obscurité totale et retirez nids et miroirs."
+                    }
+                ],
+                "tags": [
+                    "Inseparable",
+                    "Lovebird",
+                    "SoinDesOiseaux",
+                    "PreventionRetentionOeuf"
+                ]
+            },
+            "de": {
+                "title": "Verhaltenssignale der Unzertrennlichen (Agapornis) und 3-Schritte-Tagesroutine für Atemwege und Legenot-Prophylaxe",
+                "description": "Pflegeanleitung für Unzertrennliche (Lovebirds). PTFE-Gase vermeiden, Hochwürgen und Revierverhalten verstehen und Legenot in 3 Schritten vorbeugen.",
+                "authority": "Association of Avian Veterinarians (AAV) & Standards des World Parrot Trust",
+                "profile": {
+                    "breed": "Unzertrennliche / Lovebird (Agapornis)",
+                    "lifespan": "10 ~ 15 Jahre (Bei optimaler Haltung bis zu 20 Jahre)",
+                    "sleep_pattern": "10 ~ 12 Stunden (Vollständige Abdunkelung zur Hormonregulation)",
+                    "temperament": "Liebevoll, Aufgeschlossen, Starkes Revierverhalten, Eifersüchtig, Aktiv"
+                },
+                "intro": "Weil sie eine extrem enge Bindung zu ihrem Partner eingehen, werden Agaporniden auch 'Unzertrennliche' oder 'Lovebirds' genannt. Sie sind weltweit für ihre bunten Farben und lebhaften Persönlichkeiten beliebt. Ihre starke Bindungsfähigkeit geht jedoch mit starkem Revierverhalten und hoher hormoneller Empfindlichkeit einher. Zu lange Tageslichtzeiten oder Streicheln am Rücken lösen dauerhaftes Eierlegen und lebensgefährliche Legenot (Egg Binding) aus. Aufgrund ihrer Luftsäcke reagieren sie zudem extrem sensibel auf Teflon-Gase (PTFE). Heute zeigt PetSelf eine 3-Schritte-Routine für die Gesundheit Ihrer Unzertrennlichen.",
+                "whyTitle": "Körpersprache der Unzertrennlichen: Hochwürgen von Futter und Revier-Flügelspreizen",
+                "whyDesc": "Unzertrennliche drücken Zuneigung und Reviergrenzen klar durch Schnabel- und Flügelgesten aus. Rhythmisches Kopfnicken mit **'Hochwürgen von Futter (Regurgitation)'** ist der höchste Vertrauensbeweis gegenüber dem Partner oder Halter. Das weite Spreizen der Flügel mit Schnabelknacken an der Käfigtür **'Revier-Flügelspreizen (Territorial Stance)'** ist dagegen eine deutliche Warnung vor einem bevorstehenden Biss.",
+                "body_signals": [
+                    {
+                        "name": "Kopfnicken und Hochwürgen von Futter (Regurgitation)",
+                        "meaning": "Starkes Balz- und Vertrauensverhalten; der Vogel sieht den Halter als seinen festen Partner an.",
+                        "response": "Lenken Sie die Aufmerksam mild auf Spielzeug um, um eine hormonelle Überstimulation und Eierlegen zu verhindern."
+                    },
+                    {
+                        "name": "Breites Flügelspreizen & Schnabelknacken (Territorial Stance / Beak Clicking)",
+                        "meaning": "Deutliches Warnsignal zur Verteidigung des Reviers (Käfig/Nest) mit akuter Bissgefahr.",
+                        "response": "Greifen Sie nicht in den Käfig; warten Sie geduldig, bis der Vogel freiwillig herauskommt."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Pellets (60–70 %), vitamin-A-reiches Grünfutter & Raumlüftung",
+                        "text": "Füttern Sie hochwertige Pellets mit frischem Gemüse (Möhren, Brokkoli) zur Fettleber-Prophylaxe und halten Sie die Luft sauber."
+                    },
+                    {
+                        "name": "Mittag: Knabberspielzeug (Foraging) & Sicherer Freiflug",
+                        "text": "Bieten Sie Papierschredder-Spielzeug gegen Langeweile und Federrupfen an und ermöglichen Sie Freiflug im gesicherten Raum."
+                    },
+                    {
+                        "name": "Abend: Rücken-Streicheln vermeiden & 10–12 Stunden Schlafabdunkelung",
+                        "text": "Streicheln Sie nicht über Rücken oder Bauch, um Legereize zu vermeiden, und decken Sie den Käfig für 10–12 Stunden Nachtruhe ab."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Warum sind Dämpfe von Teflon-Pfannen (PTFE) für Unzertrennliche tödlich?",
+                        "answer": "Agaporniden besitzen ein hocheffizientes Atmungssystem mit Luftsäcken, das Luftgifte rasch aufnimmt. Überhitztes Teflon setzt geruchlose, unsichtbare Gase frei, die schwere Lungenblutungen und Atemschock auslösen. Der Käfig gehört niemals in die Nähe der Küche."
+                    },
+                    {
+                        "question": "Ist es gefährlich, wenn meine Unzertrennlichen-Henne ständig Eier legt?",
+                        "answer": "Ja, dauerhaftes Eierlegen ist lebensgefährlich! Es entzieht dem Körper Calcium, schwächt die Knochen und führt zur tödlichen 'Legenot (Egg Binding)', bei der das Ei feststeckt. Begrenzen Sie das Tageslicht auf 10-12 Stunden Abdunkelung und entfernen Sie Nistkästen und Spiegel."
+                    }
+                ],
+                "tags": [
+                    "Unzertrennliche",
+                    "Agapornis",
+                    "Vogelpflege",
+                    "LegenotProphylaxe"
+                ]
+            },
+            "pt": {
+                "title": "Sinais de afeto e territorialidade no Agapornis e rotina diária de 3 passos para proteção respiratória e prevenção de ovo preso",
+                "description": "Guia de cuidados para o afetuoso Agapornis (Lovebird). Evite gases de teflon, entenda a regurgitação e a postura territorial, e previna a postura crônica de ovos em 3 passos.",
+                "authority": "Associação de Veterinários de Aves (AAV) & Protocolos de Cuidados do World Parrot Trust",
+                "profile": {
+                    "breed": "Agapornis / Inseparável (Lovebird / Agapornis)",
+                    "lifespan": "10 ~ 15 anos (Até 20 anos com cuidados adequados)",
+                    "sleep_pattern": "10 ~ 12 horas (Escuridão total com capa blackout para controle hormonal)",
+                    "temperament": "Afetuoso, Extroveritdo, Muito territorial, Ciumento, Ativo"
+                },
+                "intro": "Chamados de 'Inseparáveis' ou 'Lovebirds' devido aos laços intensos que criam com seus parceiros, os Agapornis são amados no mundo todo por suas cores vibrantes e personalidade marcante. No entanto, seu forte apego vem acompanhado de territorialidade e alta sensibilidade hormonal. Dias longos de luz ou carinhos nas costas podem disparar a postura crônica de ovos e o perigoso 'ovo preso' (Egg Binding) nas fêmeas. Além disso, seus sacos aéreos os tornam vulneráveis ao teflon (PTFE). Hoje, o PetSelf apresenta uma rotina de 3 passos para cuidar da saúde da sua ave.",
+                "whyTitle": "Linguagem corporal do Agapornis: Regurgitação afetuosa e postura territorial (Territorial Stance)",
+                "whyDesc": "Os agapornis expressam afeto e limites territoriais através de gestos com o bico e abertura das asas. Balançar a cabeça para cima e para baixo regurgitando alimento **'Regurgitação'** é a maior demonstração de confiança para com seu parceiro ou tutor. Por outro lado, abrir as asas na porta da gaiola, estalar o bico e contrair as pupilas **'Postura territorial (Territorial Wing Spreading)'** é um aviso claro de agressão antes de bicar.",
+                "body_signals": [
+                    {
+                        "name": "Balançar a cabeça e regurgitar alimento pelo bico (Regurgitation)",
+                        "meaning": "Comportamento de cortejo e confiança profunda ao considerar o tutor como seu parceiro de bando.",
+                        "response": "Redirecione suavemente a atenção dele para brinquedos para não sobreestimular hormônios de postura."
+                    },
+                    {
+                        "name": "Abrir bem as asas e estalar o bico (Territorial Stance / Beak Clicking)",
+                        "meaning": "Aviso territorial firme defendendo sua gaiola ou ninho, com risco iminente de bicada.",
+                        "response": "Não force a mão dentro da gaiola; espere pacientemente que ele saia sozinho para interagir com calma."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Ração extrusada (60–70%), vegetais ricos em vitamina A e ventilação",
+                        "text": "Forneça ração extrusada com folhas verdes (couve, cenoura) para prevenir a gordura no fígado e mantenha o ar limpo."
+                    },
+                    {
+                        "name": "Tarde: Brinquedos de forrageamento e voo livre seguro fora da gaiola",
+                        "text": "Ofereça brinquedos de desfiar papel para evitar o arrancamento de penas por tédio e permita o voo em local seguro."
+                    },
+                    {
+                        "name": "Noite: Evitar carinho nas costas & 10–12h de sono com capa blackout",
+                        "text": "Não alise as costas ou barriga da ave para evitar postura de ovos, cobrindo a gaiola para 10-12 horas de sono escuro."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Por que os vapores de panelas de teflon (PTFE) são fatais para o Agapornis?",
+                        "answer": "Os agapornis possuem um sistema respiratório de sacos aéreos muito eficiente que absorve toxinas rapidamente. O teflon superaquecido emite gases inodoros que causam hemorragia pulmonar instantânea e parada respiratória. A gaiola deve ficar bem longe da cozinha."
+                    },
+                    {
+                        "question": "É perigoso se a minha fêmea de Agapornis não parar de botar ovos?",
+                        "answer": "Sim, a postura crônica é extremamente perigosa! Produzir ovos continuamente esgota o cálcio do corpo, enfraquecendo os ossos e causando a fatal retenção de ovos ('ovo preso' / Egg Binding). Reduza a iluminação diária com 10-12 horas de escuridão total e remova ninhos e espelhos."
+                    }
+                ],
+                "tags": [
+                    "Agapornis",
+                    "Inseparavel",
+                    "CuidadosComAves",
+                    "PrevencaoOvoPreso"
+                ]
+            },
+            "id": {
+                "title": "Sinyal Kasih Sayang dan Teritorial Lovebird serta Rutinitas Harian 3 Langkah Perawatan Pernapasan dan Pencegahan Telur Tersangkut",
+                "description": "Panduan perawatan burung Lovebird (Agapornis) yang penyayang. Hindari asap teflon, pahami mutah makanan dan sikap teritorial, serta cegah peneluran berlebih dalam 3 langkah.",
+                "authority": "Association of Avian Veterinarians (AAV) & Protokol Perawatan World Parrot Trust",
+                "profile": {
+                    "breed": "Lovebird / Burung Cinta (Agapornis)",
+                    "lifespan": "10 ~ 15 tahun (Hingga 20 tahun dengan perawatan optimal)",
+                    "sleep_pattern": "10 ~ 12 jam (Kegelapan total dengan kain penutup untuk kontrol hormon)",
+                    "temperament": "Penyayang, Ekstrovert, Sangat Teritorial, Cemburu, Aktif"
+                },
+                "intro": "Dinamai 'Lovebird' (Burung Cinta) karena ikatan kuat yang mereka jalin dengan pasangannya, Lovebird (Agapornis) sangat dicintai di seluruh dunia karena warnanya yang indah dan kepribadiannya yang ceria. Namun, ikatan yang kuat ini disertai sifat teritorial tinggi dan sensitivitas hormonal. Jam siang yang terlalu panjang atau elusan di bagian punggung dapat memicu peneluran berlebih yang menyebabkan kondisi berbahaya 'Telur Tersangkut' (Egg Binding). Selain itu, sistem pernapasan kantung udara mereka sangat rentan terhadap asap teflon (PTFE). Hari ini, PetSelf membagikan 3 langkah rutinitas harian untuk merawat kesehatan Lovebird Anda.",
+                "whyTitle": "Bahasa Tubuh Lovebird: Memuntahkan Makanan (Regurgitation) dan Sikap Teritorial (Territorial Stance)",
+                "whyDesc": "Lovebird menyampaikan rasa sayang dan batas wilayah melalui gerakan paruh dan postur sayap. Menganggukkan kepala naik-turun sambil memuntahkan makanan **'Memuntahkan Makanan (Regurgitation)'** adalah tanda kepercayaan dan cinta tertinggi kepada pasangannya. Sebaliknya, merentangkan sayap lebar-lebar, membunyikan paruh, dan mengecilkan pupil di pintu sangkar **'Sikap Teritorial (Territorial Wing Spreading)'** adalah peringatan tegas akan serangan menggigit.",
+                "body_signals": [
+                    {
+                        "name": "Mengangguk Naik-Turun & Memuntahkan Makanan dari Paruh (Regurgitation)",
+                        "meaning": "Perilaku cumbu dan kepercayaan mendalam yang menunjukkan burung menganggap pemilik sebagai pasangan terikatnya.",
+                        "response": "Alihkan perhatian mereka ke mainan secara lembut agar tidak merangsang hormon peneluran berlebih."
+                    },
+                    {
+                        "name": "Merentangkan Sayap Lebar & Membunyikan Paruh (Territorial Stance / Beak Clicking)",
+                        "meaning": "Peringatan teritorial yang kuat untuk mempertahankan sangkar/sarang dengan risiko gigitan.",
+                        "response": "Jangan memaksa memasukkan tangan ke dalam sangkar; tunggu dengan sabar hingga mereka keluar sendiri."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Pelet Nutrisi (60–70%), Sayuran Hijau Kaya Vitamin A & Ventilasi",
+                        "text": "Beri pakan pelet dengan sayuran hijau (sawi, wortel) untuk mencegah penyakit hati berlemak dan jaga sirkulasi udara tetap bersih."
+                    },
+                    {
+                        "name": "Siang: Mainan Pencarian Makanan (Foraging) & Terbang Bebas yang Aman",
+                        "text": "Sediakan mainan kertas untuk dicabik agar mencegah stres merusak bulu, dan biarkan terbang di ruangan yang aman."
+                    },
+                    {
+                        "name": "Malam: Hindari Mengelus Punggung & Tidur Gelap 10–12 Jam untuk Kontrol Hormon",
+                        "text": "Jangan mengelus punggung atau perut burung agar tidak merangsang peneluran, dan tutup sangkar dengan kain gelap untuk tidur 10–12 jam."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mengapa asap wajan anti-lengket Teflon (PTFE) sangat mematikan bagi Lovebird?",
+                        "answer": "Lovebird memiliki sistem pernapasan kantung udara yang sangat efisien menyerap zat beracun dari udara. Teflon yang dipanaskan mengeluarkan asap beracun tanpa bau yang menyebabkan pendarahan paru-paru dan kelumpuhan pernapasan seketika. Letakkan sangkar jauh dari area dapur."
+                    },
+                    {
+                        "question": "Apakah berbahaya jika Lovebird betina saya terus-menerus bertelur?",
+                        "answer": "Ya, bertelur terus-menerus sangat berbahaya! Memproduksi telur terus-menerus menguras kalsium tubuh, melemahkan tulang, dan berisiko memicu 'Telur Tersangkut' (Egg Binding) yang mematikan. Hentikan dengan membatasi pencahayaan lewat 10-12 jam tidur gelap total serta singkirkan kotak sarang dan cermin."
+                    }
+                ],
+                "tags": [
+                    "Lovebird",
+                    "BurungCinta",
+                    "PerawatanBurung",
+                    "PencegahanTelurTersangkut"
+                ]
+            }
+        },
+        "category": "CareSelf",
+        "app": "careself",
+        "formatVersion": 4,
+        "heroImage": "/images/blog/lovebird_care.webp"
+    }
+}

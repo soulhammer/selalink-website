@@ -13,11 +13,11 @@ authority: "国立畜产科学院珍岛犬标准管理指南及 KKC 行为专家
 steps:
   - name: "珍岛犬的身体语言：忠诚与警惕的信号"
     text: "珍岛犬感情表达沉稳，通过尾巴和耳朵的角度传递明确意思。尾巴直立、耳朵向前集中表示警惕与专注，此时陌生人突然靠近容易引发防卫性反应。相反，尾巴垂下并缓慢摆动、耳朵向两侧贴平表示对主人的服从和放松。"
-  - name: "珍岛犬 (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "珍岛犬 (Canis lupus familiaris) 的肢体语言与行为信号"
     text: "* 尾巴直立 & 耳朵向前集中: 对陌生目标高度专注和警惕，处于紧张状态。 (避免突然接触，请陌生人不要抚摸，由主人用平静的语气安抚。)
 
 * 尾巴下垂 & 耳朵贴平接近: 对主人深厚的服从、信任与依恋表达。 (温柔抚摸并给予口头表扬，以此强化信任纽带。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "珍岛犬 (Canis lupus familiaris) 定制化 3 步家庭护理流程"
     text: "* STEP 1. 早晨：以安静嗅闻（嗅觉游戏）为主的社会化散步: 选择刺激较少的早晨时间散步，通过充分的嗅闻训练来适应外部环境。
 
 * STEP 2. 中午：使用针梳和排梳清理双层毛死毛与毛质护理: 使用针梳和钢排梳清理底毛与死毛，防止毛发结团并预防皮肤炎。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. 珍岛犬 (Canis lupus familiaris)'s Body Language & Signals
+## 2. 珍岛犬 (Canis lupus familiaris) 的肢体语言与行为信号
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -69,7 +69,7 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 对陌生目标高度专注和警惕，处于紧张状态。<br/>
-    <strong>•  national:</strong> 避免突然接触，请陌生人不要抚摸，由主人用平静的语气安抚。
+    <strong>• 应对:</strong> 避免突然接触，请陌生人不要抚摸，由主人用平静的语气安抚。
   </p>
 </div>
 
@@ -80,13 +80,13 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 对主人深厚的服从、信任与依恋表达。<br/>
-    <strong>•  national:</strong> 温柔抚摸并给予口头表扬，以此强化信任纽带。
+    <strong>• 应对:</strong> 温柔抚摸并给予口头表扬，以此强化信任纽带。
   </p>
 </div>
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. 珍岛犬 (Canis lupus familiaris) 定制化 3 步家庭护理流程
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

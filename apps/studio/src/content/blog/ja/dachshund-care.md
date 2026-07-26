@@ -13,11 +13,11 @@ authority: "アメリカンケネルクラブ（AKC）ダックスフント健�
 steps:
   - name: "ダックスフントの脊椎警告信号：二本足立ちと姿勢の変化"
     text: "ダックスフントは背骨に負担がかかったり痛みを感じたりすると、微細なサインでそれを表現します。可愛いと思われがちな二本足立ちの「おねだりポーズ」は、腰椎に極度な負荷をかける危険な姿勢です。また、背中を丸めたり首を不自然に伸ばす行動は、ヘルニア初期の神経圧迫による痛みを示している可能性があります。"
-  - name: "ダックスフント (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "ダックスフント (Canis lupus familiaris)のボディランゲージと行動サイン"
     text: "* 二本足立ち（おねだりポーズ）: 腰椎に強力な圧力がかかる姿勢で、主にオヤツの要求や飼い主の注意を引く際に行われます。 (この姿勢をとらないようすぐに優しく制止し、家具の横には専用のスロープを設置してジャンプを防ぎます。)
 
 * 背中を丸める・首を伸ばす: 脊椎の痛みやヘルニア初期の神経圧迫により、体をこわばらせて痛みを耐えている保護姿勢です。 (すぐに活動を制限し、抱き上げる際は胸と臀部を同時に支えて背骨を水平に保ち、速やかに獣医師の診察を受けます。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "ダックスフント (Canis lupus familiaris)のための3ステップホームケアルーティン"
     text: "* STEP 1. 朝：脊椎と関節の動きのチェックおよびマッサージ: 本格的な活動を始める前に歩き方に硬さがないか確認し、背骨のラインに沿って優しくマッサージして痛みに対する反応を確かめます。
 
 * STEP 2. 昼：脊椎に安全な生活環境の維持と水平保持: ベッドやソファーの横に置いたペット用スロープの角度と滑り止め状態を点検し、階段の入口には安全ゲートを設置して階段の利用を遮断します。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. ダックスフント (Canis lupus familiaris)'s Body Language & Signals
+## 2. ダックスフント (Canis lupus familiaris)のボディランゲージと行動サイン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ faqs:
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. ダックスフント (Canis lupus familiaris)のための3ステップホームケアルーティン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

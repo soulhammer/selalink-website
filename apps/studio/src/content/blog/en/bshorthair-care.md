@@ -13,11 +13,11 @@ authority: "GCCF Breed Standards for British Shorthairs & AAFP Feline Obesity Gu
 steps:
   - name: "British Shorthair Body Language: Soft Staring and Tail Flicking Signals"
     text: "British Shorthairs dislike restrictive holding and show trust through 'soft staring' from a distance. This indicates that while they prefer an independent relationship, they feel safe and trust you. Conversely, when annoyed or uncomfortable, they display 'tail swishing' (tapping the floor with their tail tip while lying down). Forcing them into a embrace during this time will significantly raise their stress levels."
-  - name: "British Shorthair (Felis catus)'s Body Language & Signals"
+  - name: "British Shorthair (Felis catus)'s Body Language & Behavioral Signals"
     text: "* Soft Staring: A mature and independent expression of affection, indicating they feel happy and safe just sharing the same space. (Blink slowly to return the affection. Do not approach or pick them up forcibly; simply watch them quietly.)
 
 * Tail Swishing: A rejection signal showing that petting intensity or contact is bothering them, asking you to stop as stress rises. (Immediately stop touching them and avoid physical stimulation so the cat can relax on its own.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Customized 3-Step Home Care Routine for British Shorthair (Felis catus)"
     text: "* STEP 1. Morning: Strict Dietary Portion Control using Precision Scales: To prevent hypertrophic cardiomyopathy (HCM) aggravated by obesity, weigh food on a digital electronic scale to adhere to exact daily caloric requirements.
 
 * STEP 2. Afternoon: Undercoat Brushing using a Dedicated Rubber Brush: Although short-haired, they have dense, thick fur. Brush for 5 minutes with a feline rubber brush to collect dead undercoat without skin irritation.
@@ -60,7 +60,7 @@ With their large round faces and muscular build, British Shorthairs are known as
 
 ---
 
-## 2. British Shorthair (Felis catus)'s Body Language & Signals
+## 2. British Shorthair (Felis catus)'s Body Language & Behavioral Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ With their large round faces and muscular build, British Shorthairs are known as
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Customized 3-Step Home Care Routine for British Shorthair (Felis catus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

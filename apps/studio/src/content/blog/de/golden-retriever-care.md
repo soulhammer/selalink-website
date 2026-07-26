@@ -13,11 +13,11 @@ authority: "Offizieller Rasseführer des American Kennel Club (AKC) und IAABC-Ve
 steps:
   - name: "Körpersprache des Golden Retrievers: Vertrauen und Kommunikationssignale verstehen"
     text: "Golden Retriever drücken Gefühle aktiv durch Mimik und Körpersprache aus. Ein zentrales Signal für Vertrauen ist der 'sanfte Blickkontakt' (Soft Eye Contact). Im Gegensatz zu starrem Fixieren drückt das sanfte Blinzeln Zuneigung, Vertrauen und den Wunsch nach emotionaler Bindung aus. Ruhiges Loben setzt Oxytocin frei und stärkt das Sicherheitsgefühl. Ein steifer Körper mit hoch erhobener Rute signalisiert dagegen Anspannung."
-  - name: "Golden Retriever (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "Körpersprache und Verhaltenssignale von Golden Retriever (Canis lupus familiaris)"
     text: "* Sanfter Blickkontakt (Soft Eye Contact): Ein positiver Blickkontakt, der volles Vertrauen zum Halter, Zuneigung und Bindung signalisiert. (Antworten Sie durch langsames Blinzeln und loben Sie mit ruhiger, sanfter Stimme.)
 
 * Körperschwänzeln (Full Body Wagging): Ein aktiver Ausdruck von Freude und Freundlichkeit, der tiefes Wohlbefinden und Zuneigung zeigt. (Streicheln Sie sanft die Brust oder Schultern und teilen Sie die Freude auf ruhige Weise.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Maßgeschneiderte 3-Schritte-Tagesroutine für Golden Retriever (Canis lupus familiaris)"
     text: "* STEP 1. Morgen: Apportierspiel zur Triebbefriedigung: Da sie gerne Gegenstände tragen, spielen Sie vor dem Gassigehen 5–10 Minuten Apportieren mit einem weichen Ball. Dies befriedigt ihren natürlichen Instinkt und baut Morgenenergie ab.
 
 * STEP 2. Nachmittag: Über einstündiger energischer Spaziergang mit Schnüffeleinheiten: Als aktive große Hunde benötigen sie mindestens eine Stunde Bewegung täglich. Ausgiebiges Schnüffeln in sicheren Bereichen baut Stress ab und beugt unerwünschtem Verhalten vor.
@@ -60,7 +60,7 @@ Der Golden Retriever ist wegen seines goldenen Fells und seines sanftmütigen We
 
 ---
 
-## 2. Golden Retriever (Canis lupus familiaris)'s Body Language & Signals
+## 2. Körpersprache und Verhaltenssignale von Golden Retriever (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Der Golden Retriever ist wegen seines goldenen Fells und seines sanftmütigen We
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Maßgeschneiderte 3-Schritte-Tagesroutine für Golden Retriever (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

@@ -13,11 +13,11 @@ authority: "Directives Médicales de la House Rabbit Society et Normes Vétérin
 steps:
   - name: "Expression émotionnelle du lapin nain : Tapements de pattes et grincements de dents"
     text: "Les lapins nains de couleur tapent leurs pattes arrière avec force contre le sol « Tapements de pattes arrière (Thumping) » pour avertir d'un danger ou exprimer une colère et un refus nets. À l'inverse, lorsqu'ils sont détendus et heureux, ils frottent doucement leurs dents pour produire un léger cliquetis appelé « Grincement de dents (Teeth Purring) ». Reconnaître ces signaux assure un lien heureux et sain."
-  - name: "Lapin Nain de Couleur (Oryctolagus cuniculus)'s Body Language & Signals"
+  - name: "Langage corporel et signaux comportementaux du Lapin Nain de Couleur (Oryctolagus cuniculus)"
     text: "* Tapements de pattes arrière (Thumping): Un avertissement ferme pour signaler un danger aux autres ou exprimer une colère, du stress et une intention de refus. (Identifiez le facteur de stress, bloquez les bruits soudains ou les autres animaux, et observez calmement à distance jusqu'à ce qu'ils se sentent en sécurité.)
 
 * Grincement de dents (Teeth Purring): Un signal de joie et de sécurité, semblable au ronronnement d'un chat, souvent ressenti pendant les caresses. (Massez doucement le front et la base de leurs oreilles pour approfondir la connexion émotionnelle.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Routine quotidienne en 3 étapes pour le soin du Lapin Nain de Couleur (Oryctolagus cuniculus)"
     text: "* STEP 1. Matin : Distribution de foin de fléole (Timothy) riche en fibres et d'eau fraîche: Pour l'usure des dents et la motilité digestive, remplissez le râtelier de foin de fléole frais et dépoussiéré dès le matin, et nettoyez le bol pour fournir de l'eau fraîche.
 
 * STEP 2. Midi : Nettoyage du bac à litière et inspection des pododermatites: Nettoyez le bac à litière pour maintenir l'hygiène, et vérifiez leurs coussinets pour prévenir les pododermatites (sore hocks) causées par des sols glissants ou durs.
@@ -60,7 +60,7 @@ Avec de minuscules oreilles et un corps rond et compact, le lapin nain de couleu
 
 ---
 
-## 2. Lapin Nain de Couleur (Oryctolagus cuniculus)'s Body Language & Signals
+## 2. Langage corporel et signaux comportementaux du Lapin Nain de Couleur (Oryctolagus cuniculus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Avec de minuscules oreilles et un corps rond et compact, le lapin nain de couleu
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Routine quotidienne en 3 étapes pour le soin du Lapin Nain de Couleur (Oryctolagus cuniculus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

@@ -13,11 +13,11 @@ authority: "Guia Oficial de Raças do American Pomeranian Club e Manual Veterin�
 steps:
   - name: "Linguagem corporal do Spitz Alemão: Distinguir o brincar da ansiedade"
     text: "Os Spitz Alemães são muito expressivos e mudam de emoção rapidamente. Os sinais principais incluem a 'posição de convite para brincar' (Play Bow) e 'lamber os lábios' (Lip Licking). Quando baixa a parte dianteira do corpo e levanta o quadril, é um convite clássico para brincar. No entanto, se parecer abanar a cauda mas lamber os lábios continuamente, é um sinal de calma que indica ansiedade ou estresse interno. Não confunda isso com entusiasmo."
-  - name: "Spitz Alemão / Lulu da Pomerânia (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "Linguagem corporal e sinais de comportamento do Spitz Alemão / Lulu da Pomerânia (Canis lupus familiaris)"
     text: "* Convite para brincar (Play Bow): Abaixar a parte dianteira e levantar o quadril, representando um convite feliz e aberto para brincar. (Responda alegremente jogando um brinquedo ou começando uma brincadeira de perseguição leve.)
 
 * Lamber os lábios (Lip Licking): Não é expectativa de comida; é um sinal de calma usado para controlar a ansiedade ou estresse ambiental. (Se ver isso durante os passeios ou em locais novos, afaste-o do estímulo para garantir sua tranquilidade.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rotina diária de 3 passos para cuidados com Spitz Alemão / Lulu da Pomerânia (Canis lupus familiaris)"
     text: "* STEP 1. Manhã: Manutenção antiderrapante e prevenção de saltos: Certifique-se de que os tapetes antiderrapantes estejam bem posicionados ao redor de camas e sofás. Treine-os para usar escadas para pets em vez de pular.
 
 * STEP 2. Tarde: Escovação com escova de pinos contra o pelo: Use uma escova de pinos para escovar suavemente da cauda para a cabeça a contrapelo. Isso evita nós na subpelagem e permite o fluxo de ar na pele.
@@ -60,7 +60,7 @@ Os Spitz Alemães (Lulu da Pomerânia) são cães toy populares, amados por sua 
 
 ---
 
-## 2. Spitz Alemão / Lulu da Pomerânia (Canis lupus familiaris)'s Body Language & Signals
+## 2. Linguagem corporal e sinais de comportamento do Spitz Alemão / Lulu da Pomerânia (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Os Spitz Alemães (Lulu da Pomerânia) são cães toy populares, amados por sua 
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rotina diária de 3 passos para cuidados com Spitz Alemão / Lulu da Pomerânia (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

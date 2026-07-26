@@ -13,11 +13,11 @@ authority: "Panduan Kesehatan Dachshund American Kennel Club dan Pedoman Asosias
 steps:
   - name: "Sinyal Peringatan Tulang Belakang Dachshund: Sikap Berdiri dan Peregangan Tubuh"
     text: "Dachshund menunjukkan rasa tidak nyaman di punggung dengan gerakan halus. Berdiri dengan dua kaki belakang ('sikap meminta') memberikan beban yang sangat besar pada tulang belakang lumbar. Selain itu, punggung melengkung atau leher yang meregang kaku adalah tanda penekanan saraf tulang belakang tahap awal yang perlu diwaspadai."
-  - name: "Dachshund (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "Bahasa Tubuh dan Sinyal Perilaku Dachshund (Canis lupus familiaris)"
     text: "* Berdiri dengan Dua Kaki Belakang (Sikap Meminta): Sikap yang memberikan tekanan berlebih pada tulang belakang lumbar, biasanya dilakukan saat meminta makanan atau perhatian. (Cegah sikap ini segera secara lembut, pasang tangga landai (ramps) di dekat furnitur, dan taruh mainan setinggi dada anjing.)
 
 * Punggung Melengkung & Leher Meregang: Sikap melindungi tubuh akibat nyeri punggung, kekakuan, atau tekanan saraf tulang belakang tahap awal. (Batasi gerakannya segera, gendong dengan menopang dada dan bokong secara bersamaan agar tulang belakang tetap horizontal, lalu bawa ke dokter hewan.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutinitas Perawatan Harian 3 Langkah untuk Dachshund (Canis lupus familiaris)"
     text: "* STEP 1. Pagi: Pemeriksaan Mobilitas Tulang Belakang & Pijat Ringan: Sebelum beraktivitas, amati apakah jalannya kaku. Pijat lembut di sepanjang garis tulang belakang untuk melihat reaksi nyeri.
 
 * STEP 2. Siang: Penataan Lingkungan yang Aman bagi Punggung & Menjaga Posisi Datar: Pastikan kemiringan ramp antiselip di dekat sofa dan tempat tidur stabil. Pasang gerbang pengaman di akses jalan tangga untuk mencegah penggunaan tangga.
@@ -60,7 +60,7 @@ Dachshund dicintai di seluruh dunia karena bentuk tubuhnya yang unik dan kepriba
 
 ---
 
-## 2. Dachshund (Canis lupus familiaris)'s Body Language & Signals
+## 2. Bahasa Tubuh dan Sinyal Perilaku Dachshund (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Dachshund dicintai di seluruh dunia karena bentuk tubuhnya yang unik dan kepriba
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutinitas Perawatan Harian 3 Langkah untuk Dachshund (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

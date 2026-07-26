@@ -13,11 +13,11 @@ authority: "Padrões da American Ferret Association e Diretrizes Veterinárias d
 steps:
   - name: "Comunicação do furão de Marshall: A dança de guerra e o dooking"
     text: "Os furões de Marshall mostram alegria inflando a cauda, arqueando as costas e rebotando de lado, um comportamento conhecido como 'Dança de guerra do furão' (Weasel War Dance). Também emitem um suave som de cloque de garganta chamado 'Dooking' quando exploram com entusiasmo. Compreender estes sinais ajuda a maximizar a sua experiência de jogo."
-  - name: "Furão de Marshall (Mustela putorius furo / Marshall Ferret)'s Body Language & Signals"
+  - name: "Linguagem corporal e sinais de comportamento do Furão de Marshall (Mustela putorius furo / Marshall Ferret)"
     text: "* Dança de guerra do furão (Weasel War Dance): Uma expressão dramática mas inofensiva de pura emoção, que indica que querem brincar sem limites. (Proporcione uma área espaçosa e antiderrapante livre de extremidades duras para evitar lesões durante os seus saltos caóticos.)
 
 * Dooking (Sons de guincho baixos): Uma expressão emocional de alegria e interesse intenso ao encontrar um novo cheiro ou túnel. (Estenda túneis ruidosos ou caixas de cartão para estimular os seus instintos naturais de escavação e caça.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rotina diária de 3 passos para cuidados com Furão de Marshall (Mustela putorius furo / Marshall Ferret)"
     text: "* STEP 1. Manhã: Dieta carnívora alta em proteínas e recarga de água: Os furões têm um trato digestivo curto e comem frequentemente. Rellene comida à base de carne e livre de grãos, e reveja a sua garrafa de água.
 
 * STEP 2. Tarde: Tempo de jogo seguro fora da gaiola por pelo menos 4 horas: Evite a depressão libertando-os no quarto. Assegure-se de que todos os pequenos buracos debaixo dos móveis estão selados.
@@ -60,7 +60,7 @@ Com um corpo comprido e flexível e olhos cintilantes, o furão de Marshall é u
 
 ---
 
-## 2. Furão de Marshall (Mustela putorius furo / Marshall Ferret)'s Body Language & Signals
+## 2. Linguagem corporal e sinais de comportamento do Furão de Marshall (Mustela putorius furo / Marshall Ferret)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Com um corpo comprido e flexível e olhos cintilantes, o furão de Marshall é u
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rotina diária de 3 passos para cuidados com Furão de Marshall (Mustela putorius furo / Marshall Ferret)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

@@ -13,11 +13,11 @@ authority: "Rasseleitfaden für Border Collies des Kennel Club (KC) und Standard
 steps:
   - name: "Körpersprache des Border Collies: Das 'Fixieren' und Energiesignale"
     text: "Border Collies besitzen das instinktive Verhalten des 'Fixierens' (The Eye), bei dem sie Objekte mit den Augen intensiv fokussieren. Geducktes Lauern und Starren stehen für extreme Konzentration beim Hüten. Ein leicht geöffnetes Maul mit großem Rutenwedeln zeigt dagegen, dass der Hund voller Energie steckt und bereit für die Interaktion mit dem Halter ist."
-  - name: "Border Collie (Border Collie)'s Body Language & Signals"
+  - name: "Körpersprache und Verhaltenssignale von Border Collie (Border Collie)"
     text: "* Geduckte Haltung & intensives Fixieren (The Eye): Instinktiver Hütetrieb zur Kontrolle von sich bewegenden Objekten oder Tieren. (Rufen Sie sofort seinen Namen, um den Blickkontakt auf sich zu lenken, und belohnen Sie ihn, um gefährliches Nachjagen zu verhindern.)
 
 * Offenes Maul & großes Rutenwedeln: Körperliche und geistige Energie sind auf dem Höhepunkt; der Hund ist bereit für ein intelligentes Spiel. (Nutzen Sie diesen Moment für anspruchsvolle Aufgaben wie Frisbee oder Agility statt einfachem Ballwerfen.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Maßgeschneiderte 3-Schritte-Tagesroutine für Border Collie (Border Collie)"
     text: "* STEP 1. Morgen: Intervalllauf kombiniert mit Gehorsamkeitsübungen: Bauen Sie während des Laufs Kommandos wie 'Warten' oder 'Kehrt' ein, um Geist und Körper gleichzeitig auszulasten.
 
 * STEP 2. Mittag: Mehrstufiges Intelligenzspielzeug (Brain Games): Bieten Sie mehrstufige Denkspiele an, bei denen Mechanismen entriegelt werden müssen, um die kognitive Neugier zu stillen.
@@ -60,7 +60,7 @@ Der Border Collie gilt als die intelligenteste Hunderasse der Welt und besitzt e
 
 ---
 
-## 2. Border Collie (Border Collie)'s Body Language & Signals
+## 2. Körpersprache und Verhaltenssignale von Border Collie (Border Collie)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Der Border Collie gilt als die intelligenteste Hunderasse der Welt und besitzt e
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Maßgeschneiderte 3-Schritte-Tagesroutine für Border Collie (Border Collie)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

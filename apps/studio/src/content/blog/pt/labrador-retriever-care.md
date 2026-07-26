@@ -13,11 +13,11 @@ authority: "Guia da Raça Labrador Retriever do American Kennel Club (AKC) & Pad
 steps:
   - name: "Linguagem corporal do Labrador Retriever: 'Boca Macia' e sinais de pedido"
     text: "Os Labradores possuem um instinto chamado 'Boca Macia' (Soft Mouth), desenvolvido para buscar caças sem danificá-las. Segurar objetos suavemente na boca sem destruí-los é uma demonstração de carinho e convite para brincar. Por outro lado, apoiar o queixo no seu colo e olhar fixamente é um sinal sutil de pedido de comida movido pelo seu apetite insaciável."
-  - name: "Labrador Retriever's Body Language & Signals"
+  - name: "Linguagem corporal e sinais de comportamento do Labrador Retriever"
     text: "* Segurar objetos suavemente na boca (Soft Mouth): Comportamento instintivo de busca que expressa profundo afeto, confiança e vontade de interagir. (Não tire o objeto à força. Elogie-o e inicie uma brincadeira saudável de buscar a bola (Fetch).)
 
 * Apoiar o queixo no colo & olhar fixamente (Begging): Um sinal constante de fome causado pela mutação no gene POMC, pedindo petiscos. (Não ceda aos pedidos. Mantenha porções estritas de ração e use brinquedos de busca de odor (nosework) de baixa caloria.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rotina diária de 3 passos para cuidados com Labrador Retriever"
     text: "* STEP 1. Manhã: Alimentação com comedeiro lento & passeio amigo das articulações: Use um comedouro lento para evitar que ele coma rápido demais e faça passeios em superfícies planas para proteger os quadris.
 
 * STEP 2. Tarde: Brincadeira de buscar & limpeza de orelhas pós-natação: Faça jogos de buscar para gastar energia e seque bem o canal auditivo com um limpador de orelhas canino após atividades na água.
@@ -60,7 +60,7 @@ O Labrador Retriever é um dos cães mais amados do mundo devido ao seu temperam
 
 ---
 
-## 2. Labrador Retriever's Body Language & Signals
+## 2. Linguagem corporal e sinais de comportamento do Labrador Retriever
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ O Labrador Retriever é um dos cães mais amados do mundo devido ao seu temperam
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rotina diária de 3 passos para cuidados com Labrador Retriever
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

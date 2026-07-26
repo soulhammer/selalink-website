@@ -13,11 +13,11 @@ authority: "Basking-Richtlinien der World Chelonian Association und Klinisches P
 steps:
   - name: "Basking-Signale der Moschusschildkröte und Einziehen in den Panzer"
     text: "Gewöhnliche Moschusschildkröten strecken beim Sonnenbaden ihre Hinterbeine nach hinten 'Beinstrecken' (Back-Leg Stretching), um die Lichtabsorption zu maximieren, wenn sie völlig entspannt sind. Bei Bedrohung oder Vibration ziehen sie Kopf und Gliedmaßen in ihren harten Panzer zurück 'Einziehen in den Panzer' (Shell Retraction), um sich zu verteidigen."
-  - name: "Gewöhnliche Moschusschildkröte (Sternotherus odoratus / Common Musk Turtle)'s Body Language & Signals"
+  - name: "Körpersprache und Verhaltenssignale von Gewöhnliche Moschusschildkröte (Sternotherus odoratus / Common Musk Turtle)"
     text: "* Hinterbeine strecken (Back-Leg Stretching): Ein entspannter Zustand unter der UV-Lampe, Gliedmaßen strecken, um Wärme aufzunehmen und die Haut zu trocknen. (Vermeiden Sie es, sie zu erschrecken, damit sie nicht ins Wasser springen. Überwachen Sie die Lampentemperatur aus der Ferne.)
 
 * Kopf und Beine einziehen (Shell Retraction): Ein Zustand der Wachsamkeit, erschrocken durch Schatten, Bewegungen von oben oder Vibrationen. (Vermeiden Sie plötzliche Bewegungen vor dem Becken und treten Sie zurück, bis sie sich sicher genug fühlen, um herauszugucken.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Maßgeschneiderte 3-Schritte-Tagesroutine für Gewöhnliche Moschusschildkröte (Sternotherus odoratus / Common Musk Turtle)"
     text: "* STEP 1. Morgen: Wassertemperaturkontrolle (25-28 °C) und ausgewogene Fütterung: Überprüfen Sie die Wassertemperatur (bei 25-28 °C halten) zur Anregung des Stoffwechsels und füttern Sie altersgerechte kommerzielle Schildkrötenpellets.
 
 * STEP 2. Nachmittag: Überprüfung der Basking-Lampe und UV-B-Birnen: Prüfen Sie, ob UV-B- und Wärme-Basking-Lampen ordnungsgemäß funktionieren, um der metabolischen Knochenerkrankung (MBD) vorzubeugen.
@@ -60,7 +60,7 @@ Die kompakte Gewöhnliche Moschusschildkröte ist aufgrund ihrer Robustheit idea
 
 ---
 
-## 2. Gewöhnliche Moschusschildkröte (Sternotherus odoratus / Common Musk Turtle)'s Body Language & Signals
+## 2. Körpersprache und Verhaltenssignale von Gewöhnliche Moschusschildkröte (Sternotherus odoratus / Common Musk Turtle)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Die kompakte Gewöhnliche Moschusschildkröte ist aufgrund ihrer Robustheit idea
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Maßgeschneiderte 3-Schritte-Tagesroutine für Gewöhnliche Moschusschildkröte (Sternotherus odoratus / Common Musk Turtle)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

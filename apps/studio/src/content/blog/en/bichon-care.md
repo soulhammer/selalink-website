@@ -13,11 +13,11 @@ authority: "Bichon Frise Club of America Guidelines & AVMA Veterinary Health Sta
 steps:
   - name: "Bichon Frise Body Language: Bichon Blitz and Signals for Attention"
     text: "When excited, Bichons display 'Bichon Blitz' (running frantically indoors) to instantly burn off residual energy. This is a natural instinctual release of energy. Additionally, tapping their owner's knee or arm with a paw ('paw tap') is a peaceful, affectionate signal asking for attention and playtime."
-  - name: "Bichon Frise's Body Language & Signals"
+  - name: "Bichon Frise's Body Language & Behavioral Signals"
     text: "* Bichon Blitz: An instinctual play behavior to quickly burn off residual energy through intense physical movement. (Add safety padding to furniture corners along their path, ensure floor mats are non-slip, and wait quietly for them to stop naturally.)
 
 * Paw Tap: A peaceful and friendly form of communication unique to Bichons to ask for attention and engagement. (Make gentle eye contact and pet them, or conduct a quick sit/paw obedience session to provide mental stimulation.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Customized 3-Step Home Care Routine for Bichon Frise"
     text: "* STEP 1. Morning: Light Toy Fetching and Gentle Tug-of-War Play: To prevent high-speed collisions with furniture or door frames, do a gentle tug-of-war in the morning using a soft fabric toy to gradually burn energy and promote a calm state.
 
 * STEP 2. Afternoon: 10-Minute Brushing Routine Alternating Slicker Brush and Steel Comb: To prevent dense curly mats from constricting the skin, spritz grooming mist first, brush the belly and inner legs with a slicker brush, and then check strand by strand with a steel comb to ensure no tangles remain.
@@ -60,7 +60,7 @@ Bichon Frises are known for their white, cotton-ball appearance and tireless, ch
 
 ---
 
-## 2. Bichon Frise's Body Language & Signals
+## 2. Bichon Frise's Body Language & Behavioral Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Bichon Frises are known for their white, cotton-ball appearance and tireless, ch
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Customized 3-Step Home Care Routine for Bichon Frise
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

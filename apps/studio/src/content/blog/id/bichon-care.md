@@ -13,11 +13,11 @@ authority: "Pedoman Bichon Frise Club of America & Standar Kesehatan Dokter Hewa
 steps:
   - name: "Bahasa Tubuh Bichon Frise: Bichon Blitz dan Sinyal Mencari Perhatian"
     text: "Saat bersemangat, Bichon menunjukkan 'Bichon Blitz' (berlari kencang di dalam rumah) untuk membakar sisa energi secara instan. Ini adalah bentuk pelepasan energi yang alami. Selain itu, menepuk lutut atau lengan pemilik dengan kaki depan ('paw tap') adalah sinyal ramah dan penuh kasih sayang untuk meminta perhatian dan ajakan bermain."
-  - name: "Bichon Frise (Bichon Frise)'s Body Language & Signals"
+  - name: "Bahasa Tubuh dan Sinyal Perilaku Bichon Frise (Bichon Frise)"
     text: "* Bichon Blitz: Perilaku bermain naluriah untuk membakar sisa energi dengan cepat melalui gerakan fisik yang intens. (Pasang pelindung di sudut furnitur sepanjang jalur larinya, sediakan keset antiselip, dan tunggu dengan tenang hingga mereka berhenti secara alami.)
 
 * Tepukan Kaki Depan (Paw Tap): Bentuk komunikasi ramah dan damai yang khas dari Bichon Frise untuk meminta perhatian dan interaksi. (Lakukan kontak mata yang lembut lalu belai mereka, atau lakukan sesi kepatuhan singkat (duduk/salam) untuk memberikan stimulasi mental.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutinitas Perawatan Harian 3 Langkah untuk Bichon Frise (Bichon Frise)"
     text: "* STEP 1. Pagi: Permainan Ambil Mainan Ringan dan Tarik-Tambang Lembut: Untuk mencegah benturan keras dengan furnitur atau bingkai pintu, lakukan permainan tarik-tambang lembut di pagi hari menggunakan mainan kain untuk membakar energi secara bertahap.
 
 * STEP 2. Siang: Menyikat 10 Menit Bergantian Menggunakan Sikat Slicker dan Sisir Besi: Agar gumpalan bulu keriting tidak menjepit kulit, semprotkan mist pelurus bulu terlebih dahulu, sikat bagian perut dan kaki dalam dengan sikat slicker, lalu periksa helai demi helai menggunakan sisir besi.
@@ -60,7 +60,7 @@ Bichon Frise dikenal dengan bulunya yang putih bagaikan kapas serta sifatnya yan
 
 ---
 
-## 2. Bichon Frise (Bichon Frise)'s Body Language & Signals
+## 2. Bahasa Tubuh dan Sinyal Perilaku Bichon Frise (Bichon Frise)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Bichon Frise dikenal dengan bulunya yang putih bagaikan kapas serta sifatnya yan
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutinitas Perawatan Harian 3 Langkah untuk Bichon Frise (Bichon Frise)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

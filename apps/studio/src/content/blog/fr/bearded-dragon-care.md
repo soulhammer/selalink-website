@@ -13,11 +13,11 @@ authority: "Directives d'élevage de l'ARAV (Association of Reptilian and Amphib
 steps:
   - name: "Le langage comportemental du pogona : hochements de tête et moulinets de patte"
     text: "Le dragon barbu utilise des gestes uniques pour marquer son rang social et exprimer ses émotions. Hocher la tête rapidement de haut en bas — le « Head Bobbing » — est une démonstration d'autorité et de territorialité. À l'inverse, faire de grands cercles lents avec une patte avant dans le vide — le « Arm Waving » — est un signal de soumission, de paix et de politesse signifiant « je ne suis pas une menace »."
-  - name: "Dragon Barbu (Pogona vitticeps)'s Body Language & Signals"
+  - name: "Langage corporel et signaux comportementaux du Dragon Barbu (Pogona vitticeps)"
     text: "* Head Bobbing (Hochements de tête rapides): Affirmation de dominance et revendication territoriale. Cela survient souvent à la vue d'un congénère ou face à son propre reflet sur la vitre. (Maintenez le lézard strictement seul pour éviter le stress lié à la cohabitation, et appliquez des films anti-reflets sur les vitres du terrarium.)
 
 * Arm Waving (Moulinet lent de la patte): Signal social pacifique montrant une absence d'intention agressive, adressé aux individus plus grands ou au soigneur. (Approchez-vous doucement en vous plaçant à sa hauteur, parlez-lui d'une voix apaisante et offrez-lui une friandise afin qu'il identifie son propriétaire comme une présence rassurante.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Routine quotidienne en 3 étapes pour le soin du Dragon Barbu (Pogona vitticeps)"
     text: "* STEP 1. Matin : Activation du chauffage de bain de soleil et du néon UVB: Allumez la lampe chauffante et l'éclairage UVB. Veillez à ce que la zone de thermorégulation atteigne 35 à 40 °C afin d'augmenter sa température corporelle pour la digestion.
 
 * STEP 2. Midi : Distribution d'insectes enrichis et saupoudrage de calcium: Offrez des insectes vivants saupoudrés de poudre de calcium (avec D3 en élevage intérieur) accompagnés de légumes frais riches en calcium comme la chicorée et le chou chinois.
@@ -60,7 +60,7 @@ En raison de son tempérament calme et de ses expressions curieuses, le dragon b
 
 ---
 
-## 2. Dragon Barbu (Pogona vitticeps)'s Body Language & Signals
+## 2. Langage corporel et signaux comportementaux du Dragon Barbu (Pogona vitticeps)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ En raison de son tempérament calme et de ses expressions curieuses, le dragon b
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Routine quotidienne en 3 étapes pour le soin du Dragon Barbu (Pogona vitticeps)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

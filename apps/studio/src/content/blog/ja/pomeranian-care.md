@@ -13,11 +13,11 @@ authority: "アメリカンポメラニアンクラブ公式犬種ガイド＆AV
 steps:
   - name: "ポメラニアンのボディランゲージ：遊び心と不安の判別"
     text: "ポメラニアンは小さな体で素早く感情を切り替え、表情豊かなしぐさを見せます。代表的なサインは「プレイバウ（お辞儀のポーズ）」と「唇舐め（Lip Licking）」です。ポメラニアンが前足を低く下げ、お尻を高く持ち上げるポーズは、楽しい遊びの誘いです。一方、しっぽを振って喜んでいるように見えても、頻繁に唇をペロペロ舐めるのは、現在の環境に精神的な負担や不安を感じて落ち着こうとするカーミングシグナルです。"
-  - name: "ポメラニアン (Canis lupus familiaris / Pomeranian)'s Body Language & Signals"
+  - name: "ポメラニアン (Canis lupus familiaris / Pomeranian)のボディランゲージと行動サイン"
     text: "* お辞儀のポーズ (Play Bow): 前足を下げてお尻を持ち上げた状態で、相手に一緒に遊ぼうと誘うとてもハッピーなサインです。 (おもちゃを投げてあげたり、軽く追いかけっこをして楽しく応えてあげてください。)
 
 * 唇を舐める (Lip Licking): 食べ物を期待しているのではなく、周囲の環境による精神的不安を和らげようとするカーミングシグナルです。 (散歩の途中や不慣れな場所でこのしぐさをしたら、不安の要素から距離を置いてあげてください。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "ポメラニアン (Canis lupus familiaris / Pomeranian)のための3ステップホームケアルーティン"
     text: "* STEP 1. 朝：滑り止めマットの整理とジャンプ禁止トレーニング: 超小型犬であるポメラニアンがベッド等から飛び降りる衝撃を防ぐため、滑り止めマットの位置を確認し、スロープや階段の使用を促します。
 
 * STEP 2. 昼：皮膚の空気循環のためのピンブラシ逆方向ブラッシング: 豊かな綿毛（アンダーコート）が絡まって空気が遮断されやすいポメラニアンのため、ピンブラシで毛を尻尾から頭の方向へ優しく立たせるように梳かします。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. ポメラニアン (Canis lupus familiaris / Pomeranian)'s Body Language & Signals
+## 2. ポメラニアン (Canis lupus familiaris / Pomeranian)のボディランゲージと行動サイン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ faqs:
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. ポメラニアン (Canis lupus familiaris / Pomeranian)のための3ステップホームケアルーティン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

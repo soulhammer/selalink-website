@@ -13,11 +13,11 @@ authority: "メインクーンブリーダーズ＆ファンシャーズアソ�
 steps:
   - name: "メインクーンのボディランゲージ：親しげな鳴き声と警戒の尻尾膨らまし"
     text: "メインクーンはとても社交的で、他の猫よりもコミュニケーションを好みます。代表的なサインは「トリル（Trilling）」と「尻尾膨らまし（Puffed Tail）」です。喉を鳴らしながら「クルル」と鳴いて近づくトリルは、飼い主への親愛の挨拶です。逆に、予期せぬ騒音などに驚いた時は、尻尾全体が大きく膨らんで太いブラシのようになります。この時は、刺激を遠ざけて静かな部屋で落ち着くまで見守ってあげてください。"
-  - name: "メインクーン (Felis catus / Maine Coon)'s Body Language & Signals"
+  - name: "メインクーン (Felis catus / Maine Coon)のボディランゲージと行動サイン"
     text: "* トリル (Trilling): 飼い主への絶大な信頼と親しみを示す、愛情深いおしゃべりのリクエストです。 (飼い主も優しい声で返事をしたり、軽くスキンシップをして愛情に応えてあげましょう。)
 
 * 尻尾膨らまし (Puffed Tail): 予期せぬ大きな音や視覚的な刺激に驚き、興奮と警戒が最高潮に達しているサインです。 (驚かせた原因をすぐに取り除き、落ち着くまで無理に近づかず静かに見守りましょう。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "メインクーン (Felis catus / Maine Coon)のための3ステップホームケアルーティン"
     text: "* STEP 1. 朝：精密デジタルスケールによるフード量と肥満の管理: 肥満は肥大性心筋症（HCM）のリスクを増加させます。毎朝スケールで必要量を計って給与し、十分な給水ができるように管理します。
 
 * STEP 2. 昼：毛玉と抜け毛を防ぐためのコーム・スリッカーブラシ: たてがみのような首周りや脇の下は毛玉になりやすく皮膚炎の原因になります。金属コームで奥の毛までしっかり梳かして絡まりをほぐします。
@@ -64,7 +64,7 @@ faqs:
 
 ---
 
-## 2. メインクーン (Felis catus / Maine Coon)'s Body Language & Signals
+## 2. メインクーン (Felis catus / Maine Coon)のボディランゲージと行動サイン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -90,7 +90,7 @@ faqs:
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. メインクーン (Felis catus / Maine Coon)のための3ステップホームケアルーティン
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

@@ -13,11 +13,11 @@ authority: "International Fancy Guppy Association (IFGA) & Tiermedizinische Stan
 steps:
   - name: "Körpersprache des Guppys: Flossenklemmen und Japsen an der Oberfläche (Surface Gasping)"
     text: "Guppys drücken ihren Gesundheitszustand und die Wasserqualität durch Flossenhaltung und Schwimmposition aus. Eng an den Körper angelegte Flossen bei Reglosigkeit 'Flossenklemmen (Clamped Fins)' signalisieren extremen Stress durch Ammoniakanreicherung oder Temperaturschocks. 'Japsen an der Oberfläche (Surface Gasping)' ist dagegen eine dringende Warnung vor Sauerstoffmangel oder Kiemenschäden durch Ammoniakvergiftung."
-  - name: "Guppy's Body Language & Signals"
+  - name: "Körpersprache und Verhaltenssignale von Guppy"
     text: "* Anliegende Flossen und Verharren in Ecken (Clamped Fins): Warnung vor Umweltstress durch erhöhte Ammoniak-/Nitritwerte, pH-Schock oder Temperaturschwankungen. (Messen Sie sofort die Ammoniakwerte und führen Sie einen 20–30%igen Teilwasserwechsel mit temperiertem, entchlortem Wasser durch.)
 
 * Schnelles Nach-Luft-Schnappen an der Oberfläche (Surface Gasping): Anzeichen von Sauerstoffmangel im Wasser, Filterausfall oder geschädigter Kiemenfunktion durch Ammoniak. (Schalten Sie einen Durchlüfter ein, überprüfen Sie den Filterdurchfluss und kontrollieren Sie die Wassertemperatur (24°C–26°C).)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Maßgeschneiderte 3-Schritte-Tagesroutine für Guppy"
     text: "* STEP 1. Morgen: Temperaturkontrolle (24°C–26°C) & Sparsame Fütterung: Prüfen Sie das Thermometer und füttern Sie spezielles Guppyfutter in kleinen Mengen, die innerhalb von 2–3 Minuten gefressen werden.
 
 * STEP 2. Mittag: Mulm Absaugen vom Bodengrund & Beckenbeobachtung: Saugen Sie Futterreste und Kot mit einem Mulmsauger ab, um die Belastung des Filters mit Ammoniak zu reduzieren.
@@ -60,7 +60,7 @@ Der Guppy (Poecilia reticulata) gilt sowohl als Einsteigerfisch als auch als Juw
 
 ---
 
-## 2. Guppy's Body Language & Signals
+## 2. Körpersprache und Verhaltenssignale von Guppy
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Der Guppy (Poecilia reticulata) gilt sowohl als Einsteigerfisch als auch als Juw
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Maßgeschneiderte 3-Schritte-Tagesroutine für Guppy
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

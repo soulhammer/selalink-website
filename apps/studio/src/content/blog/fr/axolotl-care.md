@@ -13,11 +13,11 @@ authority: "Protocoles Vétérinaires d'Élevage des Amphibiens & Amphibian Ark"
 steps:
   - name: "Signaux corporels de l'axolotl : Courbure des branchies et mouvements de bouche"
     text: "Les branchies externes rouges de l'axolotl servent d'indicateur direct de la qualité et de la température de l'eau. Une courbure des branchies vers l'avant indique une dégradation de l'eau ou un stress thermique."
-  - name: "Axolotl (Salamandre Mexicaine)'s Body Language & Signals"
+  - name: "Langage corporel et signaux comportementaux du Axolotl (Salamandre Mexicaine)"
     text: "* Branchies externes courbées vers l'avant et queue recourbée (Gill Curling Forward): Avertissement de stress environnemental causé par une température élevée (>20°C) ou une hausse du niveau d'ammoniaque. (Allumez les ventilateurs de refroidissement pour faire baisser la température à 16°C ~ 18°C et effectuez immédiatement un changement d'eau partiel (20%).)
 
 * Regard fixe vers le sol et ouverture de la bouche (Bottom Gaping): Signal naturel de recherche de nourriture indiquant la faim ou le comportement de chasse. (Proposez délicatement des granulés spécialisés ou des vers de terre devant son museau à l'aide d'une pince à bout rond.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Routine quotidienne en 3 étapes pour le soin du Axolotl (Salamandre Mexicaine)"
     text: "* STEP 1. Matin : Surveillance de la température (16°C ~ 18°C) et vérification du système de refroidissement: Vérifiez le fonctionnement des ventilateurs de refroidissement pour éviter que l'eau ne dépasse 19°C en été et contrôlez la condensation sur les vitres du bac.
 
 * STEP 2. Après-midi : Aspiration des déjections au siphon et protection contre la lumière directe: Maintenez un environnement tamisé pour l'axolotl en raison de sa faible vue, et aspirez les déjections chaque jour à l'aide d'un long siphon.
@@ -60,7 +60,7 @@ Apprécié pour son expression souriante et ses branchies externes roses plumous
 
 ---
 
-## 2. Axolotl (Salamandre Mexicaine)'s Body Language & Signals
+## 2. Langage corporel et signaux comportementaux du Axolotl (Salamandre Mexicaine)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Apprécié pour son expression souriante et ses branchies externes roses plumous
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Routine quotidienne en 3 étapes pour le soin du Axolotl (Salamandre Mexicaine)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

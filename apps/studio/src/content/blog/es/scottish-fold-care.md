@@ -13,11 +13,11 @@ authority: "Protocolo de cartílago hereditario de la ISFM (International Societ
 steps:
   - name: "Lenguaje corporal del Fold: Posición de Buda y cola oculta"
     text: "Los Scottish Folds usan posturas únicas para responder al dolor articular genético. Las dos señales más evidentes son la 'posición de Buda' y la 'cola oculta o caíada'. Sentarse apoyando la cadera con la espalda reclinada y las patas estiradas hacia adelante (posición de Buda) no es un truco tierno; es una postura instintiva para dispersar el peso corporal y aliviar la presión sobre las articulaciones rígidas. Ocultar la cola o mantenerla baja advierte que las vértebras caudales sufren dolor o rigidez. Evite tocar su columna lumbar o cola cuando observe estas actitudes."
-  - name: "Scottish Fold's Body Language & Signals"
+  - name: "Lenguaje corporal y señales de conducta de Scottish Fold"
     text: "* Posición de Buda: Una postura instintiva para dispersar el peso corporal y reducir el dolor articular causado por la enfermedad hereditaria del cartílago. (No les obligue a cambiar de postura. Coloque un cojín suave detrás para apoyar su espalda cómodamente.)
 
 * Cola oculta o caída: Una señal defensiva que muestra que las articulaciones de la cola están rígidas o doloridas, rechazando el contacto físico. (Deje de tocar la cola o la espalda baja inmediatamente y guíelo suavemente hacia un cojín cómodo.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutina diaria de 3 pasos para el cuidado de Scottish Fold"
     text: "* STEP 1. Mañana: Análisis de marcha y suplementos de cartílago: Observe su marcha durante 30 segundos al despertar para detectar cojera o rigidez matutina. Administre suplementos para las articulaciones (glucosamina, condroitina, MSM, Omega-3) con su comida de la mañana.
 
 * STEP 2. Tarde: Inspección del canal auditivo y limpieza semanal: Las orejas dobladas acumulan humedad por falta de ventilación. Nunca use bastoncillos de algodón dentro del canal. Aplique gotas de limpiador auricular felino, masajee suavemente la base, deje que la mascota sacuda la cabeza y limpie los residuos externos con una torunda de algodón.
@@ -64,7 +64,7 @@ Hoy, PetSelf decodifica las señales físicas de dolor del Scottish Fold e intro
 
 ---
 
-## 2. Scottish Fold's Body Language & Signals
+## 2. Lenguaje corporal y señales de conducta de Scottish Fold
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -90,7 +90,7 @@ Hoy, PetSelf decodifica las señales físicas de dolor del Scottish Fold e intro
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutina diaria de 3 pasos para el cuidado de Scottish Fold
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

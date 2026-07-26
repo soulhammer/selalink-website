@@ -13,11 +13,11 @@ authority: "Official Siberian Husky Club of America Breed Guide & IAABC Working 
 steps:
   - name: "Husky Body Language: Frustrated Howling and Pawing Interaction"
     text: "Siberian Huskies retain strong pack habits and use vocalizations and actions to express themselves. Key communication signals include 'howling' and 'paw offering'. A long, deep howl often communicates boredom or a demand for exercise rather than loneliness. Staring into your eyes and placing their heavy paw on your arm is a direct request for play or walking. Engage them with obedience drills or redirect their energy to chew toys to keep them occupied."
-  - name: "Siberian Husky (Canis lupus familiaris)'s Body Language & Signals"
+  - name: "Siberian Husky (Canis lupus familiaris)'s Body Language & Behavioral Signals"
     text: "* Howling / Vocalizing: An expression of extreme boredom and dissatisfaction from lack of exercise, demanding communication. (Take them out for an active sniff walk or set up a challenging nosework mat indoors.)
 
 * Paw Offering with Eye Contact: An assertive request for attention, play, or walking, treating you as a pack peer. (Do not give in to every demand. Give a command (sit, etc.) first, then reward to maintain order.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Customized 3-Step Home Care Routine for Siberian Husky (Canis lupus familiaris)"
     text: "* STEP 1. Morning: Y-harness Fitting and Pulling Force Check: Huskies have strong instincts to pull. Fit a Y-shaped harness to prevent tracheal pressure, and check their synchronized pace with you.
 
 * STEP 2. Afternoon: AC Cooling Mats and Intensive Undercoat Slicker Brushing: Sensitive to heat, keep indoors cool. Use a slicker brush and coat king undercoat rake to comb their dense polar double coat deeply, helping heat escape.
@@ -64,7 +64,7 @@ Today, PetSelf decodes the unique vocalizations of Huskies communicating their b
 
 ---
 
-## 2. Siberian Husky (Canis lupus familiaris)'s Body Language & Signals
+## 2. Siberian Husky (Canis lupus familiaris)'s Body Language & Behavioral Signals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -90,7 +90,7 @@ Today, PetSelf decodes the unique vocalizations of Huskies communicating their b
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Customized 3-Step Home Care Routine for Siberian Husky (Canis lupus familiaris)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

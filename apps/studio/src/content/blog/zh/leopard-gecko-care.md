@@ -13,11 +13,11 @@ authority: "国际两栖爬行动物兽医协会 (ARAV) 护理指南与临床标
 steps:
   - name: "豹纹守宫的肢体语言：摇尾警戒与蜕皮前兆解密"
     text: "守宫肥硕的尾巴既是营养脂肪仓库也是重要的情绪表达器官。分清缓慢S型摇尾防卫与捕食时兴奋抖尾的区别，能有效避免应激。"
-  - name: "豹纹守宫 (Eublepharis macularius / Leopard Gecko)'s Body Language & Signals"
+  - name: "豹纹守宫 (Eublepharis macularius / Leopard Gecko) 的肢体语言与行为信号"
     text: "* 尾巴高举并缓慢S型摆动 (Slow Tail Waving): 感到受威胁或受惊，发出的防御性警告信号，表示‘我也具有攻击性’。 (立即停止上手，缓慢收回手部，让守宫自行回到躲避穴中恢复平静。)
 
 * 全身体色发白发雾并频繁擦眼 (Pre-Shedding Signal): 旧角质皮即脱落的蜕皮（Shedding）前兆，皮肤非常敏感干燥。 (向湿躲避内的水苔或湿纸巾喷洒温水，保持局部高湿度达70%以上。)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "豹纹守宫 (Eublepharis macularius / Leopard Gecko) 定制化 3 步家庭护理流程"
     text: "* STEP 1. 早晨：温区检查与湿躲避喷雾加湿: 检查加热垫温度（30°C ~ 32°C），确保湿躲避内垫材湿润。
 
 * STEP 2. 下午：保持环境安静保障日间睡眠: 避免阳光直射与剧烈震动，确保其白天暗处安心休眠。
@@ -60,7 +60,7 @@ faqs:
 
 ---
 
-## 2. 豹纹守宫 (Eublepharis macularius / Leopard Gecko)'s Body Language & Signals
+## 2. 豹纹守宫 (Eublepharis macularius / Leopard Gecko) 的肢体语言与行为信号
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -69,7 +69,7 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 感到受威胁或受惊，发出的防御性警告信号，表示‘我也具有攻击性’。<br/>
-    <strong>•  national:</strong> 立即停止上手，缓慢收回手部，让守宫自行回到躲避穴中恢复平静。
+    <strong>• 应对:</strong> 立即停止上手，缓慢收回手部，让守宫自行回到躲避穴中恢复平静。
   </p>
 </div>
 
@@ -80,13 +80,13 @@ faqs:
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 含义:</strong> 旧角质皮即脱落的蜕皮（Shedding）前兆，皮肤非常敏感干燥。<br/>
-    <strong>•  national:</strong> 向湿躲避内的水苔或湿纸巾喷洒温水，保持局部高湿度达70%以上。
+    <strong>• 应对:</strong> 向湿躲避内的水苔或湿纸巾喷洒温水，保持局部高湿度达70%以上。
   </p>
 </div>
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. 豹纹守宫 (Eublepharis macularius / Leopard Gecko) 定制化 3 步家庭护理流程
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

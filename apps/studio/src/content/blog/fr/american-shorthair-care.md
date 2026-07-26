@@ -13,11 +13,11 @@ authority: "Normes de la Cat Fanciers' Association (CFA) et recherches du Cornel
 steps:
   - name: "Langage corporel de l'American Shorthair : Surcharge cardiaque et respiration bouche ouverte"
     text: "Contrairement aux chiens, les chats ne halètent pas pour réguler leur température. Si un American Shorthair a la 'bouche ouverte pour respirer' ou montre une 'fatigue soudaine' lors du jeu, c'est un avertissement majeur de détresse cardiaque. Détecter ces signes rapidement est vital."
-  - name: "American Shorthair's Body Language & Signals"
+  - name: "Langage corporel et signaux comportementaux du American Shorthair"
     text: "* Respiration bouche ouverte (Open-Mouth Breathing): Halètement rapide la bouche ouverte, traduisant un manque d'oxygène critique dû à une surcharge cardiaque/pulmonaire ou à un stress extrême. (Réduisez immédiatement tout stress, placez le chat dans sa caisse de transport et emmenez-le en urgence dans une clinique 24h/24 pour une oxygénothérapie.)
 
 * Fatigue rapide et allongement (Quick Fatigue): Arrêt du jeu pour s'allonger sur le flanc après quelques minutes d'effort léger, en raison d'un débit cardiaque insuffisant. (Limitez l'exercice intense et planifiez un bilan annuel avec auscultation et échographie cardiaque (incluant un test proBNP) pour dépister la CMH.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Routine quotidienne en 3 étapes pour le soin du American Shorthair"
     text: "* STEP 1. Matin : Rationnement strict de la nourriture pour éviter l'obésité: Évitez le libre-service. Divisez sa ration calorique quotidienne en portions mesurées matin et soir pour prévenir la prise de poids et préserver la santé vasculaire.
 
 * STEP 2. Après-midi : Jeu interactif de 15 minutes pour brûler des calories: Stimulez son instinct de chasseur au moins deux fois par jour pendant 15 minutes avec un plumet ou une souris jouet pour brûler les graisses.
@@ -60,7 +60,7 @@ Reconnaissable à son superbe pelage silver tabby et à son ossature musclée, l
 
 ---
 
-## 2. American Shorthair's Body Language & Signals
+## 2. Langage corporel et signaux comportementaux du American Shorthair
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -86,7 +86,7 @@ Reconnaissable à son superbe pelage silver tabby et à son ossature musclée, l
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Routine quotidienne en 3 étapes pour le soin du American Shorthair
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">

@@ -13,11 +13,11 @@ authority: "Panduan Resmi Maine Coon Breeders & Fanciers Association (MCBFA) & P
 steps:
   - name: "Bahasa Tubuh Maine Coon: Kicauan Ramah dan Ekor Mengembang Waspada"
     text: "Maine Coon sangat sosial dan ingin berkomunikasi dengan pemiliknya. Sinyal utama meliputi 'kicauan' (Trilling) dan 'ekor mengembang' (Puffed Tail). Kicauan lembut seperti 'kruru' saat mendekat adalah sapaan hangat untuk berinteraksi. Sebaliknya, saat terkejut oleh suara mendadak, ekor lebat mereka mengembang seperti sikat botol. Berikan mereka waktu tenang di ruangan sepi."
-  - name: "Maine Coon (Felis catus)'s Body Language & Signals"
+  - name: "Bahasa Tubuh dan Sinyal Perilaku Maine Coon (Felis catus)"
     text: "* Kicauan (Trilling): Vokalisasi ramah yang menunjukkan kepercayaan dan kasih sayang mendalam, meminta perhatian dan komunikasi. (Balas dengan nada suara yang lembut atau berikan elusan ringan pada pipinya untuk membalas kasih sayang.)
 
 * Ekor Mengembang (Puffed Tail): Respons takut terhadap suara atau visual mendadak, menunjukkan kewaspadaan dan kegelisahan yang tinggi. (Segera hilangkan sumber ketakutan. Jangan paksa kontak fisik; biarkan kucing tenang sendiri.)"
-  - name: "Customized 3-Step Home Care Routine"
+  - name: "Rutinitas Perawatan Harian 3 Langkah untuk Maine Coon (Felis catus)"
     text: "* STEP 1. Pagi: Pengukuran Makanan Ketat untuk Kontrol Berat dan Pencegahan HCM: Kardiomiopati Hipertropik (HCM) pada Maine Coon diperburuk oleh obesitas. Timbang makanan mereka setiap pagi dengan timbangan digital sesuai kalori, dan periksa kecukupan air minum.
 
 * STEP 2. Siang: Perawatan Bulu Ganda dengan Sisir Besi dan Sikat Slicker: Bulu leher dan ketiak yang tebal mudah menggumpal dan memicu dermatitis. Sisir hingga ke lapisan dalam menggunakan sisir besi untuk mengurai gumpalan dan mencegah ketombe.
@@ -64,7 +64,7 @@ Hari ini, PetSelf menguraikan bahasa tubuh Maine Coon dan membagikan 3 langkah r
 
 ---
 
-## 2. Maine Coon (Felis catus)'s Body Language & Signals
+## 2. Bahasa Tubuh dan Sinyal Perilaku Maine Coon (Felis catus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -90,7 +90,7 @@ Hari ini, PetSelf menguraikan bahasa tubuh Maine Coon dan membagikan 3 langkah r
 
 ---
 
-## 3. Customized 3-Step Home Care Routine
+## 3. Rutinitas Perawatan Harian 3 Langkah untuk Maine Coon (Felis catus)
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
