@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Sinyal Kasih Sayang dan Kesehatan Kucing Abyssinian serta Rutinitas Harian 3 Langkah Perawatan Anemia dan Gigi"
 description: "Panduan perawatan Kucing Abyssinian yang lincah. Pahami sundulan kepala (head-butting) dan gusi pucat, cegah anemia defisiensi piruvat kinase (PKD), serta kelola ruang vertikal dalam 3 langkah."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-02-28"
+updatedDate: "2026-02-28"
 category: "FreshSelf"
 tags: ["PerawatanHewan","KesehatanHewan","Kucing Abyssinian (Abyssinian)"]
 heroImage: "/images/blog/abyssinian_cat_care.webp"

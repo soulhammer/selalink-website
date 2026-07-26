@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Sinais comportamentais do Peixe Platy Mickey Mouse e rotina diária de 3 passos para prevenção de Íctio e canibalismo de alevinos"
 description: "Guia de cuidados para o adorável vivíparo Platy Mickey Mouse (Xiphophorus maculatus). Entenda as barbatanas encolhidas, o roçar no substrato e o esconderijo pré-parto, controle a água alcalina e proteja alevinos em 3 passos."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-07-05"
+updatedDate: "2026-07-05"
 category: "FreshSelf"
 tags: ["CuidadoPets","SaudePets","Peixe Platy Mickey Mouse (Xiphophorus maculatus)"]
 heroImage: "/images/blog/platy_fish_care.webp"

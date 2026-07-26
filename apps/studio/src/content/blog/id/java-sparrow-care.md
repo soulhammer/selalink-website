@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Sinyal Bulu Mengembang Gelatik Java dan Rutinitas 3 Langkah Perawatan Mandi Air & Tidur"
 description: "Panduan perawatan burung Gelatik Java (Java Sparrow). Pahami sinyal bulu mengembang akibat dingin, mandi air suhu ruang yang benar, dan lingkungan tidur 12 jam."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-04-10"
+updatedDate: "2026-04-10"
 category: "FreshSelf"
 tags: ["PerawatanHewan","KesehatanHewan","Gelatik Java / Burung Gelatik (Java Sparrow)"]
 heroImage: "/images/blog/java_sparrow_care.webp"

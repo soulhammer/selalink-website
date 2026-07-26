@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Reisfink Plustersignale und 3-Schritte-Tagesroutine für Wasserbad und Schlafpflege"
 description: "Pflegeanleitung für den Reisfink (Java Sparrow). Erkennen Sie das Aufplustern bei Kälte, richtige Wasserbäder bei Raumtemperatur und eine 12-Stunden-Schlafumgebung."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-04-10"
+updatedDate: "2026-04-10"
 category: "FreshSelf"
 tags: ["Haustierpflege","Haustiergesundheit","Reisfink / Reinvogel (Java Sparrow)"]
 heroImage: "/images/blog/java_sparrow_care.webp"

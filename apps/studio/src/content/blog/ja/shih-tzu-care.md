@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "シーズーの短頭種呼吸・眼病サイン解読と熱中症・角膜ケアのための3ステップデイリールーティン"
 description: "愛らしいシーズー（Shih Tzu）。逆くしゃみや目擦りサインの解読、短頭種特有の熱中症予防と角膜・耳の健康を守る3ステップホームケアを紹介します。"
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-01-12"
+updatedDate: "2026-01-12"
 category: "FreshSelf"
 tags: ["ペットケア","ペット健康","シーズー (Shih Tzu)"]
 heroImage: "/images/blog/shih_tzu_care.webp"

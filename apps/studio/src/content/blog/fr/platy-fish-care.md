@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Signaux comportementaux du Platy Mickey Mouse et routine quotidienne en 3 étapes pour la prévention de l'Ichtyophthiriose et du cannibalisme des alevins"
 description: "Guide de soins pour l'adorable vivipare Platy Mickey Mouse (Xiphophorus maculatus). Décryptez les nageoires serrées, le frottement et l'isolement pré-mise bas, gérez l'eau alcaline et préservez les alevins en 3 étapes."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-07-05"
+updatedDate: "2026-07-05"
 category: "FreshSelf"
 tags: ["SoinAnimaux","SanteAnimaux","Platy Mickey Mouse (Xiphophorus maculatus)"]
 heroImage: "/images/blog/platy_fish_care.webp"

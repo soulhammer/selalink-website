@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Sinais comportamentais do Degu e rotina diária de 3 passos para prevenção de diabetes e má oclusão dentária"
 description: "Guia de cuidados para o inteligente Degu chileno. Entenda o abanar de cauda, gorreios e apitos de alarme, aplique restrição rigorosa de açúcar e cuide da saúde dentária em 3 passos."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-07-20"
+updatedDate: "2026-07-20"
 category: "FreshSelf"
 tags: ["CuidadoPets","SaudePets","Degu (Octodon degus)"]
 heroImage: "/images/blog/degu_care.webp"

@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "デグーの尾振り・鳴き声サイン解読と糖尿病・不正咬合予防のための3ステップデイリールーティン"
 description: "知能が高く愛らしいアンデスの小動物デグー（Degu）。尾振りと警戒鳴き声の解読、厳格な糖質制限による糖尿病予防、歯の伸びすぎケアと火山灰砂浴びのための3ステップホームケアを紹介します。"
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-07-20"
+updatedDate: "2026-07-20"
 category: "FreshSelf"
 tags: ["ペットケア","ペット健康","デグー (Degu / Octodon degus)"]
 heroImage: "/images/blog/degu_care.webp"

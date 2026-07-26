@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Señales de conducta en el Degu y rutina diaria de 3 pasos para la prevención de diabetes y maloclusión dental"
 description: "Guía de cuidado para el inteligente Degu chileno. Interprete el movimiento de cola y los silbidos de alarma, aplique una estricta restricción de azúcares y cuide su salud dental en 3 pasos."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-07-20"
+updatedDate: "2026-07-20"
 category: "FreshSelf"
 tags: ["CuidadoMascotas","SaludMascotas","Degu (Octodon degus)"]
 heroImage: "/images/blog/degu_care.webp"

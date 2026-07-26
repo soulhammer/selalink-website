@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Gargoyle Gecko Farbwechsel-Signale (Firing Up) und 3-Schritte-Tagesroutine für Temperatur und Luftfeuchtigkeit"
 description: "Pflegeanleitung für den faszinierenden Höcker-Kronengecko (Gargoyle Gecko). Lernen Sie Farbwechsel-Signale zu verstehen, kühle Temperaturen (22°C ~ 25°C) zu halten und die Abend-Sprühroutine zu steuern."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-05-02"
+updatedDate: "2026-05-02"
 category: "FreshSelf"
 tags: ["Haustierpflege","Haustiergesundheit","Höcker-Kronengecko / Gargoyle Gecko (Rhacodactylus auriculatus)"]
 heroImage: "/images/blog/gargoyle_gecko_care.webp"

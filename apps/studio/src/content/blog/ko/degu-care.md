@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "데구의 꼬리 흔들기·경고음 신호 해석과 당뇨·치아 부정교합 예방을 위한 3단계 데일리 케어"
 description: "귀여운 안데스 소동물 데구(Degu). 꼬리 흔들기와 경고 울음 신호 해석, 엄격한 당분 제한을 통한 당뇨 예방, 이갈이·화산재 모래목욕 관리를 위한 3단계 홈케어 루틴을 소개합니다."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-07-20"
+updatedDate: "2026-07-20"
 category: "FreshSelf"
 tags: ["반려동물","펫케어","데구 (Degu / Octodon degus)"]
 heroImage: "/images/blog/degu_care.webp"

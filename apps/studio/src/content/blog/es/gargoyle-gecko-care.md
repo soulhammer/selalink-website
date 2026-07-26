@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Señales de coloración (Firing Up) del Gecko Gárgola y rutina de 3 pasos para el control de temperatura y humedad"
 description: "Guía de cuidado para el deslumbrante Gecko Gárgola (Gargoyle Gecko). Aprenda a interpretar los cambios de color, mantener temperaturas frescas (22°C ~ 25°C) y el rociado nocturno."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-05-02"
+updatedDate: "2026-05-02"
 category: "FreshSelf"
 tags: ["CuidadoMascotas","SaludMascotas","Gecko Gárgola (Rhacodactylus auriculatus)"]
 heroImage: "/images/blog/gargoyle_gecko_care.webp"

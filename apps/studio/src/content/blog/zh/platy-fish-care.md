@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "米老鼠月光鱼（Mickey Mouse Platy）缩鳍与蹭缸信号解读及白点病与幼鱼被吞食预防的3步日常流程"
 description: "尾鳍带有可爱米老鼠图案的卵胎生观赏鱼米老鼠月光鱼（Mickey Mouse Platy）。解读缩鳍与蹭缸行为信号，管理弱碱性水质，观察临产征兆及保护幼鱼的3步骤家庭护理。"
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-07-05"
+updatedDate: "2026-07-05"
 category: "FreshSelf"
 tags: ["宠物护理","宠物健康","米老鼠月光鱼 (Mickey Mouse Platy / Xiphophorus maculatus)"]
 heroImage: "/images/blog/platy_fish_care.webp"

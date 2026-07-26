@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Degu Behavioral Signals and 3-Step Daily Routine for Diabetes and Dental Malocclusion Prevention"
 description: "Care guide for the intelligent Chilean Degu. Interpret tail wagging, chirping, and alarm whistles, enforce strict sugar restrictions to prevent diabetes, and manage dental health in 3 steps."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-07-20"
+updatedDate: "2026-07-20"
 category: "FreshSelf"
 tags: ["PetCare","PetHealth","Degu (Octodon degus)"]
 heroImage: "/images/blog/degu_care.webp"

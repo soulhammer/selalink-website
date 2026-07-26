@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Sinyal Pankreatitis dan Kulit Miniature Schnauzer serta Rutinitas Harian 3 Langkah Perawatan Diet Rendah Lemak dan Kebersihan Janggut"
 description: "Panduan perawatan anjing Miniature Schnauzer yang cerdas. Pahami posisi berdoa (nyeri perut) dan gonggongan waspada, cegah pankreatitis dengan diet rendah lemak, serta rawat janggut dalam 3 langkah."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-02-05"
+updatedDate: "2026-02-05"
 category: "FreshSelf"
 tags: ["PerawatanHewan","KesehatanHewan","Miniature Schnauzer (Miniature Schnauzer)"]
 heroImage: "/images/blog/miniature_schnauzer_care.webp"

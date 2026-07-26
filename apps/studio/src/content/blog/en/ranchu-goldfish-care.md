@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Ranchu Goldfish Behavioral Signals and 3-Step Daily Routine for Swim Bladder Disorder and Wen Infection Prevention"
 description: "Care guide for the adorable Ranchu Goldfish. Interpret surface air gulping and swim bladder floating/bottom sitting, manage sinking diets, and maintain water quality in 3 steps."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-06-15"
+updatedDate: "2026-06-15"
 category: "FreshSelf"
 tags: ["PetCare","PetHealth","Ranchu Goldfish (Carassius auratus)"]
 heroImage: "/images/blog/ranchu_goldfish_care.webp"

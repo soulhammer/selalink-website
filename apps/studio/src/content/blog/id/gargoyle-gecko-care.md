@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Sinyal Perubahan Warna (Firing Up) Tokek Gargoyle dan Rutinitas 3 Langkah Perawatan Suhu & Kelembapan"
 description: "Panduan perawatan Tokek Gargoyle (Gargoyle Gecko). Pelajari cara membaca sinyal perubahan warna (firing up), menjaga suhu dingin (22°C ~ 25°C), dan penyemprotan air malam hari."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-05-02"
+updatedDate: "2026-05-02"
 category: "FreshSelf"
 tags: ["PerawatanHewan","KesehatanHewan","Tokek Gargoyle (Rhacodactylus auriculatus)"]
 heroImage: "/images/blog/gargoyle_gecko_care.webp"

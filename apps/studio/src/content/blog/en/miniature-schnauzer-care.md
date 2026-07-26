@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Miniature Schnauzer Pancreatitis and Skin Signals with 3-Step Daily Routine for Low-Fat Diet and Beard Hygiene"
 description: "Care guide for the intelligent Miniature Schnauzer. Interpret prayer position (abdominal pain) and alert barking, prevent hyperlipidemia and pancreatitis with a low-fat diet, and manage beard hygiene in 3 steps."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-02-05"
+updatedDate: "2026-02-05"
 category: "FreshSelf"
 tags: ["PetCare","PetHealth","Miniature Schnauzer (Miniature Schnauzer)"]
 heroImage: "/images/blog/miniature_schnauzer_care.webp"

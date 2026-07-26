@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "スコティッシュストレートのコミュニケーションサイン解読と関節・心臓ケアのための3ステップデイリールーティン"
 description: "丸い顔が愛らしいスコティッシュストレート（Scottish Straight）。スコ座りやイカ耳サインの解読、肥満・心臓病（HCM）・腎臓病予防の3ステップホームケアを紹介します。"
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-03-20"
+updatedDate: "2026-03-20"
 category: "FreshSelf"
 tags: ["ペットケア","ペット健康","スコティッシュストレート (Scottish Straight)"]
 heroImage: "/images/blog/scottish_straight_care.webp"

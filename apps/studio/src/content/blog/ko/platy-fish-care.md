@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "미키마우스 플래티의 지느러미 접기·몸 비비기 신호 해석과 백점병·치어 포식 예방을 위한 3단계 데일리 케어"
 description: "꼬리지느러미의 미키마우스 무늬가 귀여운 난태생 관상어 미키마우스 플래티(Mickey Mouse Platy). 지느러미 접기와 몸 비비기 신호 해석, 백점병 예방, 출산 징후 관찰 및 치어 보존을 위한 3단계 홈케어 루틴을 소개합니다."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-07-05"
+updatedDate: "2026-07-05"
 category: "FreshSelf"
 tags: ["반려동물","펫케어","미키마우스 플래티 (Mickey Mouse Platy / Xiphophorus maculatus)"]
 heroImage: "/images/blog/platy_fish_care.webp"

@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "手乗り文鳥の膨らみサインと水浴び・睡眠管理のための3ステップデイリーケア"
 description: "愛らしい小型鳥・文鳥（Java Sparrow）。体温低下を知らせる羽膨らみサインの見分け方、正しい常温水での水浴びと12時間完全遮光睡眠管理の3ステップケア。"
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-04-10"
+updatedDate: "2026-04-10"
 category: "FreshSelf"
 tags: ["ペットケア","ペット健康","文鳥 / ジャワスズメ (Java Sparrow)"]
 heroImage: "/images/blog/java_sparrow_care.webp"

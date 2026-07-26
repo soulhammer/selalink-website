@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "ガーゴイルゲッコウのファイヤーアップサインと適正温湿度 management のための3ステップデイリーケア"
 description: "ニューカレドニアの魅力的なトカゲ・ガーゴイルゲッコウ（ツノミカドヤモリ）。体色変化（ファイヤーアップ）サインの見分け方、22°C〜25°Cの低温維持と夜間霧吹きケアの3ステップルーティン。"
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-05-02"
+updatedDate: "2026-05-02"
 category: "FreshSelf"
 tags: ["ペットケア","ペット健康","ガーゴイルゲッコウ / ツノミカドヤモリ (Rhacodactylus auriculatus)"]
 heroImage: "/images/blog/gargoyle_gecko_care.webp"

@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Atemwegs- und Augensignale beim Shih Tzu und 3-Schritte-Tagesroutine zur Hitzschlag- und Hornhautprophylaxe"
 description: "Pflegeanleitung für den liebevollen Shih Tzu. Rückwärtsniesen und Augenreiben verstehen, brachyzephalen Hitzschlag vermeiden und Augen/Ohren in 3 Schritten pflegen."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-01-12"
+updatedDate: "2026-01-12"
 category: "FreshSelf"
 tags: ["Haustierpflege","Haustiergesundheit","Shih Tzu (Shih Tzu)"]
 heroImage: "/images/blog/shih_tzu_care.webp"

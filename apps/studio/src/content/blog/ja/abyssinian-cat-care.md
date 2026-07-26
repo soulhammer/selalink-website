@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "アビシニアンのコミュニケーションサイン解読と遺伝性貧血・歯周病予防のための3ステップデイリールーティン"
 description: "しなやかで活発なアビシニアン（Abyssinian）。ヘッドバッティングや歯茎の白さサインの解読、ピルビン酸キナーゼ欠損症（PKD）予防とキャットタワー・歯磨きケアの3ステップホームケアを紹介します。"
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-02-28"
+updatedDate: "2026-02-28"
 category: "FreshSelf"
 tags: ["ペットケア","ペット健康","アビシニアン (Abyssinian)"]
 heroImage: "/images/blog/abyssinian_cat_care.webp"

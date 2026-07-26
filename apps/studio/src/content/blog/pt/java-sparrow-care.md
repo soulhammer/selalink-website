@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Sinais de penas eriçadas do Pardal de Java e rotina de 3 passos para banho e sono"
 description: "Guia de cuidados para o adorável Pardal de Java (Java Sparrow). Aprenda a identificar penas eriçadas por frio, banhos com água em temperatura ambiente e sono de 12 horas."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-04-10"
+updatedDate: "2026-04-10"
 category: "FreshSelf"
 tags: ["CuidadoPets","SaudePets","Pardal de Java / Padda (Java Sparrow)"]
 heroImage: "/images/blog/java_sparrow_care.webp"

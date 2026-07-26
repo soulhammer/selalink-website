@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Verhaltenssignale der Zierschildkröte: 3-Schritte-Pflege gegen Panzerfäule & MBD"
 description: "Erfahren Sie alles zur Pflege der Zierschildkröte: Deuten Sie Sonnen-Beinstrecken und Glass Surfing, regeln Sie die Wassertemperatur und beugen Sie Erkrankungen vor."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-05-25"
+updatedDate: "2026-05-25"
 category: "FreshSelf"
 tags: ["Haustierpflege","Haustiergesundheit","Zierschildkröte (Chrysemys picta)"]
 heroImage: "/images/blog/painted_turtle_care.webp"

@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Signaux respiratoires et oculaires du Shih Tzu et routine quotidienne en 3 étapes pour la prévention du coup de chaleur et le soin de la cornée"
 description: "Guide de soins pour le Shih Tzu. Décryptez l'éternuement inversé et le frottement des yeux, prévenez le coup de chaleur brachycéphale et protégez yeux et oreilles en 3 étapes."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-01-12"
+updatedDate: "2026-01-12"
 category: "FreshSelf"
 tags: ["SoinAnimaux","SanteAnimaux","Shih Tzu (Shih Tzu)"]
 heroImage: "/images/blog/shih_tzu_care.webp"

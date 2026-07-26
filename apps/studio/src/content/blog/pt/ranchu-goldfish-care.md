@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Sinais comportamentais do Peixe Ranchu e rotina diária de 3 passos para prevenção de distúrbios da bexiga natatória e infecções no capuchão"
 description: "Guia de cuidados para o adorável Peixe Ranchu (Ranchu Goldfish). Entenda o bocejo na superfície e a flutuação por bexiga natatória, administre ração de fundo e mantenha a água em 3 passos."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-06-15"
+updatedDate: "2026-06-15"
 category: "FreshSelf"
 tags: ["CuidadoPets","SaudePets","Kinguio Ranchu (Ranchu Goldfish / Carassius auratus)"]
 heroImage: "/images/blog/ranchu_goldfish_care.webp"

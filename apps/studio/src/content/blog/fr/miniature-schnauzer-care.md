@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Signaux de pancréatite et cutanés du Schnauzer Miniature et routine quotidienne en 3 étapes pour une alimentation pauvre en graisses et le soin de la barbe"
 description: "Guide de soins pour le vif Schnauzer Miniature. Décryptez la posture de prière (douleur abdominale) et l'aboiement d'alerte, prévenez la pancréatite avec un régime pauvre en graisses et entretenez sa barbe en 3 étapes."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-02-05"
+updatedDate: "2026-02-05"
 category: "FreshSelf"
 tags: ["SoinAnimaux","SanteAnimaux","Schnauzer Miniature (Miniature Schnauzer)"]
 heroImage: "/images/blog/miniature_schnauzer_care.webp"

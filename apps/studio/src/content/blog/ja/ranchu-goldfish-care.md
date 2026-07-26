@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "ランチュウ（蘭鋳）の表面パクパク・転覆サイン解読と転覆病・肉瘤感染予防のための3ステップデイリールーティン"
 description: "丸い体が愛らしい観賞魚の王様、ランチュウ（Ranchu Goldfish）。水面での空気パクパクや転覆・着底サインの解読、沈下性フード給餌、水質管理および転覆病予防のための3ステップホームケアを紹介します。"
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-06-15"
+updatedDate: "2026-06-15"
 category: "FreshSelf"
 tags: ["ペットケア","ペット健康","ランチュウ / 蘭鋳 (Ranchu Goldfish / Carassius auratus)"]
 heroImage: "/images/blog/ranchu_goldfish_care.webp"

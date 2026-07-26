@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Java Sparrow Fluffing Signals and 3-Step Care Routine for Water Baths and Sleep Management"
 description: "Care guide for the charming Java Sparrow. Learn to decode feather fluffing stress signals, properly manage room-temperature water baths, and maintain a 12-hour sleep environment."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-04-10"
+updatedDate: "2026-04-10"
 category: "FreshSelf"
 tags: ["PetCare","PetHealth","Java Sparrow (Padda oryzivora / Lonchura oryzivora)"]
 heroImage: "/images/blog/java_sparrow_care.webp"

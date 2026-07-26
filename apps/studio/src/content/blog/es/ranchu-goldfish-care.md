@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Señales de conducta en el Pez Ranchu y rutina diaria de 3 pasos para la prevención de la vejiga natatoria e infecciones del capuchón"
 description: "Guía de cuidado para el adorable Pez Ranchu (Ranchu Goldfish). Interprete el boqueo en la superficie y la flotación por trastorno de vejiga natatoria, controle piensos hundibles y mantenga el agua en 3 pasos."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-06-15"
+updatedDate: "2026-06-15"
 category: "FreshSelf"
 tags: ["CuidadoMascotas","SaludMascotas","Pez Dorado Ranchu (Ranchu Goldfish / Carassius auratus)"]
 heroImage: "/images/blog/ranchu_goldfish_care.webp"

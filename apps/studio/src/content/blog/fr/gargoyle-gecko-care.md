@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Signaux d'infolration (Firing Up) du Gecko Gargouille et routine en 3 étapes pour la température et l'humidité"
 description: "Guide de soins pour le fascinant Gecko Gargouille (Gargoyle Gecko). Apprenez à décoder ses changements de couleur, à maintenir une température fraîche (22°C ~ 25°C) et la pulvérisation nocturne."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-05-02"
+updatedDate: "2026-05-02"
 category: "FreshSelf"
 tags: ["SoinAnimaux","SanteAnimaux","Gecko Gargouille (Rhacodactylus auriculatus)"]
 heroImage: "/images/blog/gargoyle_gecko_care.webp"

@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "가고일 게코의 파이어업 신호와 적정 온도·습도 관리를 위한 3단계 데일리 케어"
 description: "뉴칼레도니아의 매력적인 도마뱀 가고일 게코(Gargoyle Gecko). 발색 변화(파이어업) 신호 구별법, 적정 온도(22°C ~ 25°C) 유지와 야간 분무 케어를 위한 3단계 루틴."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-05-02"
+updatedDate: "2026-05-02"
 category: "FreshSelf"
 tags: ["반려동물","펫케어","가고일 게코 (Gargoyle Gecko / Rhacodactylus auriculatus)"]
 heroImage: "/images/blog/gargoyle_gecko_care.webp"

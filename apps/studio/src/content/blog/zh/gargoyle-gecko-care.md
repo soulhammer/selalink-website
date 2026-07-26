@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "盖勾胜蜥蜴发色信号与温度·湿度管理的3步日常护理"
 description: "新喀里多尼亚迷人蜥蜴盖勾胜蜥蜴（Gargoyle Gecko）。解读发色（Firing Up）变化信号、维持22°C ~ 25°C低温环境与夜间喷水护理的3步日常流程。"
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-05-02"
+updatedDate: "2026-05-02"
 category: "FreshSelf"
 tags: ["宠物护理","宠物健康","盖勾胜蜥蜴 / 盖勾骨趾虎 (Gargoyle Gecko / Rhacodactylus auriculatus)"]
 heroImage: "/images/blog/gargoyle_gecko_care.webp"

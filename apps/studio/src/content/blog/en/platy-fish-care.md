@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Mickey Mouse Platy Behavioral Signals and 3-Step Daily Routine for Ich and Fry Cannibalism Prevention"
 description: "Care guide for the adorable livebearer Mickey Mouse Platy. Interpret fin clamping, flashing, and pre-parturition hiding, manage alkaline water parameters, and protect fry in 3 steps."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-07-05"
+updatedDate: "2026-07-05"
 category: "FreshSelf"
 tags: ["PetCare","PetHealth","Mickey Mouse Platy (Xiphophorus maculatus)"]
 heroImage: "/images/blog/platy_fish_care.webp"

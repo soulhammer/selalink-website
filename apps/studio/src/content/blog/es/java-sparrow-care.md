@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Señales de plumas ahuecadas del Gorrión de Java y rutina de 3 pasos para baños y sueño"
 description: "Guía de cuidado para el adorable Gorrión de Java (Java Sparrow). Aprenda a identificar el ahuecado de plumas por frío, baños con agua a temperatura ambiente y un ambiente de sueño de 12 horas."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-04-10"
+updatedDate: "2026-04-10"
 category: "FreshSelf"
 tags: ["CuidadoMascotas","SaludMascotas","Gorrión de Java / Calafate (Java Sparrow)"]
 heroImage: "/images/blog/java_sparrow_care.webp"

@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "智利八齿鼠（Degu）摇尾与警报信号解读及糖尿病与牙齿咬合不正预防的3步日常流程"
 description: "高智商智利小宠智利八齿鼠（Degu）。解读摇尾与鸣叫警报信号，通过严格控糖预防糖尿病，管理磨牙与火山灰沙浴的3步骤家庭护理。"
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-07-20"
+updatedDate: "2026-07-20"
 category: "FreshSelf"
 tags: ["宠物护理","宠物健康","智利八齿鼠 / 德古鼠 (Degu / Octodon degus)"]
 heroImage: "/images/blog/degu_care.webp"

@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Sinyal Perilaku Kura-Kura Painted: 3 Langkah Perawatan Mencegah Shell Rot & MBD"
 description: "Panduan perawatan Kura-kura Painted: pahami sinyal Solar Stretching & Glass Surfing, kelola suhu air dan cegah pembusukan tempurung dengan rutinitas 3 langkah."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-05-25"
+updatedDate: "2026-05-25"
 category: "FreshSelf"
 tags: ["PerawatanHewan","KesehatanHewan","Kura-kura Painted (Chrysemys picta)"]
 heroImage: "/images/blog/painted_turtle_care.webp"

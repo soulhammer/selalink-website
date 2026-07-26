@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Sinyal Perilaku Ikan Platy Mickey Mouse dan Rutinitas Harian 3 Langkah Perawatan Pencegahan Ich serta Kanibalisme Buraya"
 description: "Panduan perawatan Ikan Platy Mickey Mouse (Xiphophorus maculatus) yang menggemaskan. Pahami sirip menguncup, perilaku menggesekkan tubuh, serta sembunyi menjelang melahirkan, kelola air alkali, dan lindungi buraya dalam 3 langkah."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-07-05"
+updatedDate: "2026-07-05"
 category: "FreshSelf"
 tags: ["PerawatanHewan","KesehatanHewan","Ikan Platy Mickey Mouse (Xiphophorus maculatus)"]
 heroImage: "/images/blog/platy_fish_care.webp"

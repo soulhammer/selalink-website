@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Signaux de plumage ébouriffé du Moineau de Java et routine en 3 étapes pour la baignade et le sommeil"
 description: "Guide de soins pour l'adorable Moineau de Java (Java Sparrow). Apprenez à déceler l'ébouriffement lié au froid, la baignade à eau ambiante et un sommeil de 12 heures."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-04-10"
+updatedDate: "2026-04-10"
 category: "FreshSelf"
 tags: ["SoinAnimaux","SanteAnimaux","Moineau de Java / Padda de Java (Java Sparrow)"]
 heroImage: "/images/blog/java_sparrow_care.webp"

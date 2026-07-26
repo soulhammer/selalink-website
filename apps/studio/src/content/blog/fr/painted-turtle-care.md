@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Signaux Comportementaux de la Tortue Peinte : Soins pour Prévenir la Pourriture de la Carapace et la MBD"
 description: "Guide de soin de la Tortue Peinte : décodez l'étirement solar et le glass surfing, gérez les températures et prévenez la pourriture de carapace grâce à une routine en 3 étapes."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-05-25"
+updatedDate: "2026-05-25"
 category: "FreshSelf"
 tags: ["SoinAnimaux","SanteAnimaux","Tortue Peinte (Chrysemys picta)"]
 heroImage: "/images/blog/painted_turtle_care.webp"

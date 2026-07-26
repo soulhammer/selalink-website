@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Sinais de Comportamento da Tartaruga Pintada: Cuidados para Prevenir Podridão do Casco e MBD"
 description: "Guia de cuidados da Tartaruga Pintada: entenda os sinais de Alongamento Solar e Glass Surfing, controle a temperatura e evite doenças com uma rotina de 3 passos."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-05-25"
+updatedDate: "2026-05-25"
 category: "FreshSelf"
 tags: ["CuidadoPets","SaudePets","Tartaruga Pintada (Chrysemys picta)"]
 heroImage: "/images/blog/painted_turtle_care.webp"

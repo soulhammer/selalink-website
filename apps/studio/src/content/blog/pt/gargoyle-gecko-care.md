@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Sinais de coloração (Firing Up) do Gecko Gárgula e rotina de 3 passos para controle de temperatura e umidade"
 description: "Guia de cuidados para o impressionante Gecko Gárgula (Gargoyle Gecko). Aprenda a interpretar mudanças de cor (Firing Up), manter temperaturas frias (22°C ~ 25°C) e a borrifação noturna."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-05-02"
+updatedDate: "2026-05-02"
 category: "FreshSelf"
 tags: ["CuidadoPets","SaudePets","Gecko Gárgula (Rhacodactylus auriculatus)"]
 heroImage: "/images/blog/gargoyle_gecko_care.webp"

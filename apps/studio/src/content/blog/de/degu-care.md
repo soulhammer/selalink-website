@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Verhaltenssignale beim Degu und 3-Schritte-Tagesroutine zur Vorbeugung von Diabetes und Zahnfehlstellungen"
 description: "Pflegeanleitung für den intelligenten chilenischen Degu. Schwanzwedeln, Zwitschern und Warnpfiffe verstehen, strikte Zuckerfreiheit einhalten und Zahngesundheit in 3 Schritten sichern."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-07-20"
+updatedDate: "2026-07-20"
 category: "FreshSelf"
 tags: ["Haustierpflege","Haustiergesundheit","Degu (Octodon degus)"]
 heroImage: "/images/blog/degu_care.webp"

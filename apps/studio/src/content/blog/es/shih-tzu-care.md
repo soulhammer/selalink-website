@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Señales respiratorias y oculares en el Shih Tzu y rutina diaria de 3 pasos para la prevención de golpe de calor y cuidado corneal"
 description: "Guía de cuidado para el cariñoso Shih Tzu. Interprete el estornudo inverso y el frotado de ojos, prevenga el golpe de calor braquicefálico y proteja ojos y oídos en 3 pasos."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-01-12"
+updatedDate: "2026-01-12"
 category: "FreshSelf"
 tags: ["CuidadoMascotas","SaludMascotas","Shih Tzu (Shih Tzu)"]
 heroImage: "/images/blog/shih_tzu_care.webp"

@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "苏格兰直耳猫情感与应激信号解读及关节与心脏护理的3步日常流程"
 description: "圆润可爱的苏格兰直耳猫（Scottish Straight）护理指南。解读仰卧大字型与飞机耳信号，通过 3 步骤家庭护理预防肥胖、肥厚型心肌病（HCM）及肾脏疾病。"
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-03-20"
+updatedDate: "2026-03-20"
 category: "FreshSelf"
 tags: ["宠物护理","宠物健康","苏格兰直耳猫 (Scottish Straight)"]
 heroImage: "/images/blog/scottish_straight_care.webp"

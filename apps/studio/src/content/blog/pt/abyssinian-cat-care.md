@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Sinais de afeto e saúde no Gato Abissínio e rotina diária de 3 passos para controle de anemia e cuidados dentários"
 description: "Guia de cuidados para o ágil Gato Abissínio (Abyssinian). Entenda a cabeçada afetuosa e gengivas pálidas, previna a deficiência de piruvato quinase (PKD) e cuide do espaço vertical em 3 passos."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-02-28"
+updatedDate: "2026-02-28"
 category: "FreshSelf"
 tags: ["CuidadoPets","SaudePets","Gato Abissínio (Abyssinian)"]
 heroImage: "/images/blog/abyssinian_cat_care.webp"

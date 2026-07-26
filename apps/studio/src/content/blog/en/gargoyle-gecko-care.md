@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Gargoyle Gecko Firing Up Signals and 3-Step Care Routine for Temperature and Humidity Management"
 description: "Care guide for the striking Gargoyle Gecko. Learn to decode color-changing firing up signals, maintain cool temperatures (22°C - 25°C), and manage nighttime misting routines."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-05-02"
+updatedDate: "2026-05-02"
 category: "FreshSelf"
 tags: ["PetCare","PetHealth","Gargoyle Gecko (Rhacodactylus auriculatus)"]
 heroImage: "/images/blog/gargoyle_gecko_care.webp"

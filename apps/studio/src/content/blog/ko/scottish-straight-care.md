@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "스코티시 스트레이트의 교감·스트레스 신호 해석과 관절·심장 관리를 위한 3단계 데일리 케어"
 description: "동글동글 귀여운 스코티시 스트레이트(Scottish Straight). 해파리 자세·비행기 귀 신호 해석, 비만 및 심장(HCM)·비뇨기 예방을 위한 3단계 홈케어 루틴을 소개합니다."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-03-20"
+updatedDate: "2026-03-20"
 category: "FreshSelf"
 tags: ["반려동물","펫케어","스코티시 스트레이트 (Scottish Straight)"]
 heroImage: "/images/blog/scottish_straight_care.webp"

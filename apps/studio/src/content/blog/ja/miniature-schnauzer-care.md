@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "ミニチュア・シュナウザーの膵炎・皮膚サイン解読と低脂質食・ヒゲケアのための3ステップデイリールーティン"
 description: "魅力的なヒゲを持つミニチュア・シュナウザー（Miniature Schnauzer）。腹痛の祈り姿勢や警戒吠えサインの解読、高脂血症・膵炎予防の低脂質食とヒゲ・皮膚ケアのための3ステップホームケアを紹介します。"
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-02-05"
+updatedDate: "2026-02-05"
 category: "FreshSelf"
 tags: ["ペットケア","ペット健康","ミニチュア・シュナウザー (Miniature Schnauzer)"]
 heroImage: "/images/blog/miniature_schnauzer_care.webp"

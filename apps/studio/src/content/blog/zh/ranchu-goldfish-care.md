@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "兰寿金鱼（Ranchu Goldfish）水面浮头与翻浮信号解读及失鳔病与头肉感染预防的3步日常流程"
 description: "体型圆润的观赏金鱼之王兰寿金鱼（Ranchu Goldfish）护理指南。解读水面吞气浮头与翻浮沉底信号，投喂沉底饲料，管理水质及预防失鳔病的3步骤家庭护理。"
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-06-15"
+updatedDate: "2026-06-15"
 category: "FreshSelf"
 tags: ["宠物护理","宠物健康","兰寿金鱼 (Ranchu Goldfish / Carassius auratus)"]
 heroImage: "/images/blog/ranchu_goldfish_care.webp"

@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Signaux d'affection et de santé du Chat Abyssin et routine quotidienne en 3 étapes pour la prévention de l'anémie et les soins dentaires"
 description: "Guide de soins pour le vif Chat Abyssin (Abyssinian). Décryptez le coup de tête affectueux et les gencives pâles, prévenez la déficience en pyruvate kinase (PKD) et gérez l'espace vertical en 3 étapes."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-02-28"
+updatedDate: "2026-02-28"
 category: "FreshSelf"
 tags: ["SoinAnimaux","SanteAnimaux","Chat Abyssin (Abyssinian)"]
 heroImage: "/images/blog/abyssinian_cat_care.webp"

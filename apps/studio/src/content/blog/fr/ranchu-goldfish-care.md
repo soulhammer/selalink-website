@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Signaux comportementaux du Poisson Rouge Ranchu et routine quotidienne en 3 étapes pour la prévention des troubles de la vessie natatoire et des infections du capuchon"
 description: "Guide de soins pour l'adorable Poisson Rouge Ranchu. Décryptez le gobetage en surface et la flottaison due à la vessie natatoire, gérez les granulés coulants et maintenez la qualité de l'eau en 3 étapes."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-06-15"
+updatedDate: "2026-06-15"
 category: "FreshSelf"
 tags: ["SoinAnimaux","SanteAnimaux","Poisson Rouge Ranchu (Ranchu Goldfish / Carassius auratus)"]
 heroImage: "/images/blog/ranchu_goldfish_care.webp"

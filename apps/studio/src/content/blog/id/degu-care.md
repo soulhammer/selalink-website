@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Sinyal Perilaku Degu dan Rutinitas Harian 3 Langkah Perawatan Pencegahan Diabetes serta Maloklusi Gigi"
 description: "Panduan perawatan Degu asal Cile yang cerdas. Pahami kibasan ekor, cicitan, dan siulan alarm, terapkan pembatasan gula secara ketat, serta jaga kesehatan gigi dalam 3 langkah."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-07-20"
+updatedDate: "2026-07-20"
 category: "FreshSelf"
 tags: ["PerawatanHewan","KesehatanHewan","Degu (Octodon degus)"]
 heroImage: "/images/blog/degu_care.webp"

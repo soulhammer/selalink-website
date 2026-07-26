@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "란츄 금붕어의 수면 뻐끔거림·뒤집힘 신호 해석과 부레병·육혹 감염 예방을 위한 3단계 데일리 케어"
 description: "동글동글 귀여운 관상용 금붕어 왕자 란츄(Ranchu Goldfish). 수면 뻐끔거림과 뒤집힘/바닥 누움 신호 해석, 침강성 사료 급여, 수질 관리 및 부레병 예방을 위한 3단계 홈케어 루틴을 소개합니다."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-06-15"
+updatedDate: "2026-06-15"
 category: "FreshSelf"
 tags: ["반려동물","펫케어","란츄 금붕어 (Ranchu Goldfish / Carassius auratus)"]
 heroImage: "/images/blog/ranchu_goldfish_care.webp"

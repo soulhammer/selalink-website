@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "阿比西尼亚猫情感与健康信号解读及贫血与牙周炎预防的3步日常流程"
 description: "灵动优雅的阿比西尼亚猫（Abyssinian）护理指南。解读头撞蹭与牙龈发白信号，预防丙酮酸激酶缺乏症（PKD）贫血及管理垂直空间与牙齿卫生的3步骤家庭护理。"
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-02-28"
+updatedDate: "2026-02-28"
 category: "FreshSelf"
 tags: ["宠物护理","宠物健康","阿比西尼亚猫 (Abyssinian)"]
 heroImage: "/images/blog/abyssinian_cat_care.webp"

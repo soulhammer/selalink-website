@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Sinyal Perilaku Ikan Mas Ranchu dan Rutinitas Harian 3 Langkah Perawatan Gangguan Gelembung Renang serta Infeksi Jambul (Wen)"
 description: "Panduan perawatan Ikan Mas Ranchu (Ranchu Goldfish) yang menggemaskan. Pahami perilaku menggap-menggap di permukaan dan mengapung akibat gelembung renang, kelola pakan tenggelam, serta jaga kualitas air dalam 3 langkah."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-06-15"
+updatedDate: "2026-06-15"
 category: "FreshSelf"
 tags: ["PerawatanHewan","KesehatanHewan","Ikan Mas Ranchu (Ranchu Goldfish / Carassius auratus)"]
 heroImage: "/images/blog/ranchu_goldfish_care.webp"

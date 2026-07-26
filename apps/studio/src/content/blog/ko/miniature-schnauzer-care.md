@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "미니어처 슈나우저의 췌장염·피부 신호 해석과 저지방 식단 및 수염 관리를 위한 3단계 데일리 케어"
 description: "매력적인 웅장한 수염의 미니어처 슈나우저(Miniature Schnauzer). 췌장염 복통 신호(기도 자세)와 경계 짖음 해석, 고지혈증·췌장염 예방 저지방 식단과 피부·수염 관리를 위한 3단계 홈케어 루틴을 소개합니다."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-02-05"
+updatedDate: "2026-02-05"
 category: "FreshSelf"
 tags: ["반려동물","펫케어","미니어처 슈나우저 (Miniature Schnauzer)"]
 heroImage: "/images/blog/miniature_schnauzer_care.webp"

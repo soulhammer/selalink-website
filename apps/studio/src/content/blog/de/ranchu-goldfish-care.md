@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Verhaltenssignale beim Ranchu-Goldfisch und 3-Schritte-Tagesroutine zur Vorbeugung von Schwimmblasenproblemen und Wen-Infektionen"
 description: "Pflegeanleitung für den beliebten Ranchu-Goldfisch. Nach Luft Schnappen an der Oberfläche und Kippen/Bodenliegen verstehen, Sinkfutter füttern und Wasserqualität in 3 Schritten sichern."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-06-15"
+updatedDate: "2026-06-15"
 category: "FreshSelf"
 tags: ["Haustierpflege","Haustiergesundheit","Ranchu-Goldfisch (Ranchu Goldfish / Carassius auratus)"]
 heroImage: "/images/blog/ranchu_goldfish_care.webp"

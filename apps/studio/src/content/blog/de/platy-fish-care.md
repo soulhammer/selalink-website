@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Verhaltenssignale beim Micky-Maus-Platy und 3-Schritte-Tagesroutine zur Vorbeugung von Pünktchenkrankheit und Alevinen-Kannibalismus"
 description: "Pflegeanleitung für den lebendgebärenden Micky-Maus-Platy (Xiphophorus maculatus). Klemmen der Flossen, Scheuern und Verstecken vor dem Werfen verstehen, alkalisches Wasser managen und Jungfische in 3 Schritten schützen."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-07-05"
+updatedDate: "2026-07-05"
 category: "FreshSelf"
 tags: ["Haustierpflege","Haustiergesundheit","Micky-Maus-Platy (Xiphophorus maculatus)"]
 heroImage: "/images/blog/platy_fish_care.webp"

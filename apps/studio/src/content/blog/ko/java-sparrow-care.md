@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "손노리개 문조의 깃털 부풀림 신호와 수욕·수면 관리를 위한 3단계 데일리 케어"
 description: "사랑스러운 소형조 문조(Java Sparrow). 체온 저하를 알리는 깃털 부풀림 신호 구별법, 올바른 상온수 수욕(목욕)과 12시간 암막 수면 관리를 위한 3단계 케어 루틴."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-04-10"
+updatedDate: "2026-04-10"
 category: "FreshSelf"
 tags: ["반려동물","펫케어","문조 / 자바 스패로우 (Java Sparrow)"]
 heroImage: "/images/blog/java_sparrow_care.webp"

@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Bauchspeicheldrüsen- und Hautsignale beim Zwergschnauzer und 3-Schritte-Tagesroutine für fettarme Ernährung und Bartpflege"
 description: "Pflegeanleitung für den klugen Zwergschnauzer (Miniature Schnauzer). Gebetshaltung (Bauchschmerzen) und Bellen verstehen, Bauchspeicheldrüsenentzündung fettarm vorbeugen und den Bart in 3 Schritten pflegen."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-02-05"
+updatedDate: "2026-02-05"
 category: "FreshSelf"
 tags: ["Haustierpflege","Haustiergesundheit","Zwergschnauzer (Miniature Schnauzer)"]
 heroImage: "/images/blog/miniature_schnauzer_care.webp"

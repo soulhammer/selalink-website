@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "ミッキーマウスプラティのヒレ閉じ・体を擦り付ける行動の解読と白点病・稚魚捕食予防のための3ステップデイリールーティン"
 description: "尾ヒレのミッキーマウス模様が愛らしい卵胎生観賞魚ミッキーマウスプラティ（Mickey Mouse Platy）。ヒレ閉じや体を擦り付ける行動の解読、白点病予防、出産サインの観察および稚魚保護のための3ステップホームケアを紹介します。"
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-07-05"
+updatedDate: "2026-07-05"
 category: "FreshSelf"
 tags: ["ペットケア","ペット健康","ミッキーマウスプラティ (Mickey Mouse Platy / Xiphophorus maculatus)"]
 heroImage: "/images/blog/platy_fish_care.webp"

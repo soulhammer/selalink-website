@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Abyssinian Bonding Signals and 3-Step Daily Routine for Anemia and Dental Care"
 description: "Care guide for the sleek Abyssinian. Interpret head-butting and pale gums, prevent Pyruvate Kinase Deficiency (PKD) anemia, and manage vertical space and dental health in 3 steps."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-02-28"
+updatedDate: "2026-02-28"
 category: "FreshSelf"
 tags: ["PetCare","PetHealth","Abyssinian (Abyssinian)"]
 heroImage: "/images/blog/abyssinian_cat_care.webp"

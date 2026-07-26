@@ -8,23 +8,33 @@ const __dirname = path.dirname(__filename);
 const studioRoot = path.join(__dirname, '../../..');
 
 const targetSlugs = [
-  'labrador-retriever-care',
-  'german-shepherd-care',
-  'budgerigar-care',
-  'guppy-care',
-  'crested-gecko-care'
+  'shih-tzu-care',
+  'miniature-schnauzer-care',
+  'abyssinian-cat-care',
+  'scottish-straight-care',
+  'java-sparrow-care',
+  'gargoyle-gecko-care',
+  'painted-turtle-care',
+  'ranchu-goldfish-care',
+  'platy-fish-care',
+  'degu-care'
 ];
 
-// 2026년 1월부터 2026년 7월 중순까지 균등 분산 (5개 날짜)
+// 2026년 1월부터 2026년 7월 중순까지 균등 분산 (10개 날짜)
 const generatedDates = [
-  '2026-01-15',
-  '2026-03-01',
-  '2026-04-15',
-  '2026-06-01',
-  '2026-07-15'
+  '2026-01-12',
+  '2026-02-05',
+  '2026-02-28',
+  '2026-03-20',
+  '2026-04-10',
+  '2026-05-02',
+  '2026-05-25',
+  '2026-06-15',
+  '2026-07-05',
+  '2026-07-20'
 ];
 
-console.log('🗓️ 신규 5개 반려동물 블로그 분산 날짜 목록:', generatedDates);
+console.log('🗓️ 신규 10개 반려동물 블로그 분산 날짜 목록:', generatedDates);
 
 const blogBaseDir = path.join(studioRoot, 'src/content/blog');
 const jsonDir = path.join(studioRoot, 'src/data/blogs/pets');

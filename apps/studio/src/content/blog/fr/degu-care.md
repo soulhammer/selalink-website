@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Signaux comportementaux du Dègue du Chili (Octodon) et routine quotidienne en 3 étapes pour la prévention du diabète et de la malocclusion dentaire"
 description: "Guide de soins pour l'intelligent Dègue du Chili (Octodon). Décryptez le frétillement de queue, les gazouillements et le sifflement d'alarme, bannissez le sucre et préservez sa santé dentaire en 3 étapes."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-07-20"
+updatedDate: "2026-07-20"
 category: "FreshSelf"
 tags: ["SoinAnimaux","SanteAnimaux","Dègue du Chili / Octodon (Degu / Octodon degus)"]
 heroImage: "/images/blog/degu_care.webp"
