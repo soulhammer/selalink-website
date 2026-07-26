@@ -6,7 +6,7 @@ pubDate: "2026-01-30"
 updatedDate: "2026-01-30"
 category: "FreshSelf"
 tags: ["Haustierpflege","Haustiergesundheit","Border Collie (Border Collie)"]
-heroImage: "/images/blog/border_collie_care.png"
+heroImage: "/images/blog/border_collie_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Rasseleitfaden für Border Collies des Kennel Club (KC) und Standards der kognitiven Verhaltensforschung bei Hunden"

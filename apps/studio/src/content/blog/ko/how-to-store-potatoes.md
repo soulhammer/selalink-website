@@ -6,7 +6,7 @@ pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "FreshSnap"
 tags: ["식재료보관","신선보관","potato"]
-heroImage: "/images/blog/potato_storage_hack.png"
+heroImage: "/images/blog/potato_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>식품의약품안전처(MFDS) & 농촌진흥청(RDA) & 영국 식품기준청(FSA)</strong>"

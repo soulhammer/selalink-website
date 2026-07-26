@@ -6,7 +6,7 @@ pubDate: "2026-02-19"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
 tags: ["ペットケア","ペット健康","シャム猫 (Siamese)"]
-heroImage: "/images/blog/siamese_care.png"
+heroImage: "/images/blog/siamese_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "キャットファンシャーズアソシエーション(CFA)公式＆AAFP猫の行動プロトコル"

@@ -6,7 +6,7 @@ pubDate: "2026-07-15"
 updatedDate: "2026-07-15"
 category: "FreshSelf"
 tags: ["Haustierpflege","Haustiergesundheit","Holland Lop / Zwergwidder (Oryctolagus cuniculus)"]
-heroImage: "/images/blog/holland_lop_care.png"
+heroImage: "/images/blog/holland_lop_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Richtlinien der House Rabbit Society (HRS) und AEMV-Veterinärstandards"

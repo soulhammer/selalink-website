@@ -6,7 +6,7 @@ pubDate: "2026-01-21"
 updatedDate: "2026-01-21"
 category: "FreshSelf"
 tags: ["宠物护理","宠物健康","金仓鼠 (Mesocricetus auratus / 叙利亚仓鼠)"]
-heroImage: "/images/blog/golden_hamster_care.png"
+heroImage: "/images/blog/golden_hamster_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Humane Society 仓鼠护理指南及兽医行为标准"

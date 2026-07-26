@@ -6,7 +6,7 @@ pubDate: "2026-06-20"
 updatedDate: "2026-06-20"
 category: "FreshSelf"
 tags: ["Haustierpflege","Haustiergesundheit","Dackel / Dachshund (Canis lupus familiaris)"]
-heroImage: "/images/blog/dachshund_care.png"
+heroImage: "/images/blog/dachshund_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Dachshund-Gesundheitsratgeber des American Kennel Club und Richtlinien der Veterinär-Wirbelsäulen-Vereinigung"

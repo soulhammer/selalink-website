@@ -6,7 +6,7 @@ pubDate: "2026-04-18"
 updatedDate: "2026-04-18"
 category: "FreshSelf"
 tags: ["宠物护理","宠物健康","孟加拉猫 (Prionailurus bengalensis × Felis catus)"]
-heroImage: "/images/blog/bengal_care.png"
+heroImage: "/images/blog/bengal_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "国际猫协会 (TICA) 孟加拉猫品种标准与猫科行为医学指导原则"

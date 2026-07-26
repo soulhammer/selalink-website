@@ -48,7 +48,7 @@ In today's post, we analyze the brain science behind Rachel Carson's tidepool ob
 
 ## 1. Neural Restoration via 'Soft Fascination' and Attention Restoration Theory (ART)
 
-Modern individuals operate in a state of 'Directed Attention', continually forcing the prefrontal cortex to burn glucose for data analysis, emailing, and decision-making. Prolonged directed attention triggers chronic fatigue and stress responses. When observing natural micro-phenomena—such as sea life gliding through tidepools, wave frequencies, or dappled sunlight—the brain enters 'Soft Fascination', where attention is engaged effortlessly without cognitive strain. According to Attention Restoration Theory (ART), this state temporarily resting prefrontal control mechanisms allows cognitive resources to replenish. Furthermore, observing micro-ecosystems stimulates the parasympathetic nervous system, stabilizing heart rate and lowering stress hormones.
+Modern individuals operate in a state of 'Directed Attention', continually forcing the prefrontal cortex to burn glucose for data analysis, emailing, and decision-making. Prolonged directed attention triggers chronic fatigue and stress. When observing natural micro-phenomena—such as sea life gliding through tidepools, wave frequencies, or dappled sunlight—the brain enters 'Soft Fascination', where attention is engaged effortlessly without cognitive strain. According to Attention Restoration Theory (ART), this state temporarily resting prefrontal control mechanisms allows cognitive resources to replenish. Furthermore, observing micro-ecosystems stimulates the parasympathetic nervous system, stabilizing heart rate and lowering stress hormones.
 
 ---
 

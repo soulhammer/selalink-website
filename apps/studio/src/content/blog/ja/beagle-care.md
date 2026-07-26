@@ -6,7 +6,7 @@ pubDate: "2026-02-28"
 updatedDate: "2026-03-01"
 category: "FreshSelf"
 tags: ["ペットケア","ペット健康","ビーグル (Beagle)"]
-heroImage: "/images/blog/beagle_care.png"
+heroImage: "/images/blog/beagle_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "AKC（アメリカンケネルクラブ）ビーグル標準＆IAABCノーズワーク行動プロトコル"

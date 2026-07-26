@@ -6,7 +6,7 @@ pubDate: "2026-02-18"
 updatedDate: "2026-02-18"
 category: "FreshSnap"
 tags: ["식재료보관","신선보관","spinach"]
-heroImage: "/images/blog/spinach_storage_hack.png"
+heroImage: "/images/blog/spinach_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>농촌진흥청(RDA) & 유럽식품안전청(EFSA) & 영국 식품기준청(FSA)</strong>"

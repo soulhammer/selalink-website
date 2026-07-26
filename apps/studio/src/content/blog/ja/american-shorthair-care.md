@@ -6,7 +6,7 @@ pubDate: "2026-03-02"
 updatedDate: "2026-03-02"
 category: "FreshSelf"
 tags: ["ペットケア","ペット健康","アメリカン・ショートヘア (American Shorthair)"]
-heroImage: "/images/blog/american_shorthair_care.png"
+heroImage: "/images/blog/american_shorthair_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "CFA（国際血統登録団体）アメリカン・ショートヘア品種標準およびコーネル大学猫健康センター研究"

@@ -21,7 +21,7 @@ faqs:
   - question: "How should I handle urgent communications or immediate response requests during the first morning block?"
     answer: "Unless facing a catastrophic organizational crisis, most 'seemingly urgent' messages can wait 1 to 2 hours without issue. To protect your prefrontal resources, defend at least a 1-hour 'Prefrontal Preservation Fortress Block' every morning."
   - question: "How can I apply this routine if the hardest task is too massive to complete in a single day?"
-    answer: "When a project is too massive, the brain experiences threat responses and seeks evasion before starting. In such cases, slice the giant project into 'sub-actionable units executable within 1 morning hour', and tackle that single sub-unit as your morning target task."
+    answer: "When a project is too massive, the brain experiences threatand seeks evasion before starting. In such cases, slice the giant project into 'sub-actionable units executable within 1 morning hour', and tackle that single sub-unit as your morning target task."
 ---
 
 "Perform the hardest task of the day first. That is the single law of my business productivity." 🏗️
@@ -111,7 +111,7 @@ For high-performing knowledge workers, willpower and prefrontal capacity are hig
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      When a project is too massive, the brain experiences threat responses and seeks evasion before starting. In such cases, slice the giant project into 'sub-actionable units executable within 1 morning hour', and tackle that single sub-unit as your morning target task.
+      When a project is too massive, the brain experiences threatand seeks evasion before starting. In such cases, slice the giant project into 'sub-actionable units executable within 1 morning hour', and tackle that single sub-unit as your morning target task.
     </p>
   </details>
 </div>

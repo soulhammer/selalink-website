@@ -6,7 +6,7 @@ pubDate: "2026-01-07"
 updatedDate: "2026-01-07"
 category: "FreshSnap"
 tags: ["食材保存","保鲜技巧","green-onion"]
-heroImage: "/images/blog/green_onion_storage_hack.png"
+heroImage: "/images/blog/green_onion_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS) & 美国农务部(USDA)</strong>"

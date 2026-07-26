@@ -6,7 +6,7 @@ pubDate: "2026-03-17"
 updatedDate: "2026-03-17"
 category: "FreshSelf"
 tags: ["宠物护理","宠物健康","鬃狮蜥 (Pogona vitticeps)"]
-heroImage: "/images/blog/bearded_dragon_care.png"
+heroImage: "/images/blog/bearded_dragon_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "爬行动物与两栖动物兽医协会 (ARAV) 饲养指南与两栖爬行类临床标准兽医行为学"

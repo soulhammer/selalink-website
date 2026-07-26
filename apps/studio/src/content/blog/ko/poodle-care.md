@@ -6,7 +6,7 @@ pubDate: "2026-01-26"
 updatedDate: "2026-01-26"
 category: "FreshSelf"
 tags: ["반려동물","펫케어","푸들 (Canis lupus familiaris / Poodle)"]
-heroImage: "/images/blog/poodle_care.png"
+heroImage: "/images/blog/poodle_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "American Kennel Club (AKC) 공식 가이드 및 IAABC 행동 프로토콜"

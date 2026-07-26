@@ -6,7 +6,7 @@ pubDate: "2026-03-17"
 updatedDate: "2026-03-17"
 category: "FreshSelf"
 tags: ["SoinAnimaux","SanteAnimaux","Dragon Barbu (Pogona vitticeps)"]
-heroImage: "/images/blog/bearded_dragon_care.png"
+heroImage: "/images/blog/bearded_dragon_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Directives d'élevage de l'ARAV (Association of Reptilian and Amphibian Veterinarians) et médecine comportementale herpétologique clinique"

@@ -6,7 +6,7 @@ pubDate: "2026-02-17"
 updatedDate: "2026-02-17"
 category: "FreshSelf"
 tags: ["SoinAnimaux","SanteAnimaux","Lapin Nain de Couleur (Oryctolagus cuniculus)"]
-heroImage: "/images/blog/dwarf_rabbit_care.png"
+heroImage: "/images/blog/dwarf_rabbit_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Directives Médicales de la House Rabbit Society et Normes Vétérinaires pour Petits Animaux"

@@ -6,7 +6,7 @@ pubDate: "2026-01-22"
 updatedDate: "2026-01-22"
 category: "FreshSnap"
 tags: ["食材保存","保鲜技巧","cucumber"]
-heroImage: "/images/blog/cucumber_storage_hack.png"
+heroImage: "/images/blog/cucumber_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>"

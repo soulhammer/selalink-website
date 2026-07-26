@@ -6,7 +6,7 @@ pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "FreshSelf"
 tags: ["반려동물","펫케어","프렌치 불독 (French Bulldog)"]
-heroImage: "/images/blog/french_bulldog_care.png"
+heroImage: "/images/blog/french_bulldog_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "미국 켄넬 클럽(AKC) 프렌치 불독 공식 케어 가이드 & 단두종 수의학 가이드라인"

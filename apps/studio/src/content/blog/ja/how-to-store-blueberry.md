@@ -6,7 +6,7 @@ pubDate: "2026-03-29"
 updatedDate: "2026-03-29"
 category: "FreshSnap"
 tags: ["食材保存","鮮度保持","blueberry"]
-heroImage: "/images/blog/blueberry_storage_hack.png"
+heroImage: "/images/blog/blueberry_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>米国農務省(USDA) & 農村振興庁(RDA) & 食品医薬品安全処(MFDS)</strong>"

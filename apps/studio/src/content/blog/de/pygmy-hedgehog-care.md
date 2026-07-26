@@ -6,7 +6,7 @@ pubDate: "2026-05-21"
 updatedDate: "2026-05-21"
 category: "FreshSelf"
 tags: ["Haustierpflege","Haustiergesundheit","Afrikanischer Weißbauchigel (Atelerix albiventris / African Pygmy Hedgehog)"]
-heroImage: "/images/blog/pygmy_hedgehog_care.png"
+heroImage: "/images/blog/pygmy_hedgehog_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Richtlinien der Hedgehog Welfare Society und Veterinär-Protokolle für exotische Kleintiere"

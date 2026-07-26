@@ -6,7 +6,7 @@ pubDate: "2026-02-18"
 updatedDate: "2026-02-18"
 category: "FreshSnap"
 tags: ["食材保存","保鲜技巧","spinach"]
-heroImage: "/images/blog/spinach_storage_hack.png"
+heroImage: "/images/blog/spinach_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>韩国农村振兴厅(RDA) & 欧洲食品安全局(EFSA) & 英国食品标准局(FSA)</strong>"

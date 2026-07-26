@@ -6,7 +6,7 @@ pubDate: "2026-01-20"
 updatedDate: "2026-01-22"
 category: "FreshSelf"
 tags: ["반려동물","펫케어","말티즈 (Canis lupus familiaris / Maltese)"]
-heroImage: "/images/blog/maltese_care.png"
+heroImage: "/images/blog/maltese_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "American Kennel Club (AKC) 공식 견종 가이드 및 IAABC 행동학 프로토콜"

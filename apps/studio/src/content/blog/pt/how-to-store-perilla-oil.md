@@ -6,7 +6,7 @@ pubDate: "2026-06-03"
 updatedDate: "2026-06-03"
 category: "FreshSnap"
 tags: ["ConservacaoAlimentos","ArmazenamentoFresco","perilla-oil"]
-heroImage: "/images/blog/perilla_oil_storage_hack.png"
+heroImage: "/images/blog/perilla_oil_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & MFDS & USDA</strong>"

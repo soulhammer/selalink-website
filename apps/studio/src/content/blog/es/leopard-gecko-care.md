@@ -6,7 +6,7 @@ pubDate: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "FreshSelf"
 tags: ["CuidadoMascotas","SaludMascotas","Gecko Leopardo (Eublepharis macularius / Leopard Gecko)"]
-heroImage: "/images/blog/leopard_gecko_care.png"
+heroImage: "/images/blog/leopard_gecko_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Asociación de Veterinarios de Reptiles y Anfibios (ARAV) Guías de Cuidado y Estándares Clínicos"

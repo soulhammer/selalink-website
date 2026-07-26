@@ -6,7 +6,7 @@ pubDate: "2026-04-03"
 updatedDate: "2026-04-03"
 category: "FreshSelf"
 tags: ["宠物护理","宠物健康","密西西比泥龟 (Sternotherus odoratus / Common Musk Turtle)"]
-heroImage: "/images/blog/musk_turtle_care.png"
+heroImage: "/images/blog/musk_turtle_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "World Chelonian Association 乌龟卫生指南及半水生龟饲养兽医指南"

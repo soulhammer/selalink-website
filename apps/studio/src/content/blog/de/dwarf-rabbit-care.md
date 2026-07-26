@@ -6,7 +6,7 @@ pubDate: "2026-02-17"
 updatedDate: "2026-02-17"
 category: "FreshSelf"
 tags: ["Haustierpflege","Haustiergesundheit","Farbenzwergkaninchen (Oryctolagus cuniculus)"]
-heroImage: "/images/blog/dwarf_rabbit_care.png"
+heroImage: "/images/blog/dwarf_rabbit_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Medizinische Richtlinien der House Rabbit Society und Tierärztliche Standards für Kleintiere"

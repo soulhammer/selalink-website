@@ -6,7 +6,7 @@ pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
 category: "FreshSelf"
 tags: ["PetCare","PetHealth","Betta Fish (Betta splendens / Siamese Fighting Fish)"]
-heroImage: "/images/blog/betta_fish_care.png"
+heroImage: "/images/blog/betta_fish_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "World Small Animal Veterinary Association (WSAVA) Aquatic Animal Health Standards and Ornamental Fish Clinical Standards"

@@ -6,7 +6,7 @@ pubDate: "2026-03-29"
 updatedDate: "2026-03-30"
 category: "FreshSelf"
 tags: ["CuidadoPets","SaudePets","Husky Siberiano (Canis lupus familiaris)"]
-heroImage: "/images/blog/husky_care.png"
+heroImage: "/images/blog/husky_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Guia Oficial da Siberian Husky Club of America e Protocolos de Atividade para Cães de Trabalho da IAABC"

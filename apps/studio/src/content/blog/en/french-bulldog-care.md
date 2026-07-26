@@ -6,7 +6,7 @@ pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "FreshSelf"
 tags: ["PetCare","PetHealth","French Bulldog (Canis lupus familiaris)"]
-heroImage: "/images/blog/french_bulldog_care.png"
+heroImage: "/images/blog/french_bulldog_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "American Kennel Club (AKC) French Bulldog Care Guide and Brachycephalic Veterinary Standards"

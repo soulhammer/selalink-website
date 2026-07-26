@@ -6,7 +6,7 @@ pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "FreshSelf"
 tags: ["CuidadoMascotas","SaludMascotas","Cobaya Abisinia"]
-heroImage: "/images/blog/abyssinian_guinea_pig_care.png"
+heroImage: "/images/blog/abyssinian_guinea_pig_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Directrices de Cuidado de Roedores de la RSPCA y Estándares de Clínica Veterinaria de Animales Exóticos"

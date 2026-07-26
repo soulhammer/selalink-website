@@ -6,7 +6,7 @@ pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "FreshSelf"
 tags: ["반려동물","펫케어","아비시니안 기니피그 (Abyssinian Guinea Pig)"]
-heroImage: "/images/blog/abyssinian_guinea_pig_care.png"
+heroImage: "/images/blog/abyssinian_guinea_pig_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "영국 왕립동물학대방지협회(RSPCA) 설치류 관리 가이드라인 및 소동물 수의학 임상 표준"

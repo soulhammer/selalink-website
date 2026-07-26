@@ -6,7 +6,7 @@ pubDate: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "FreshSelf"
 tags: ["CuidadoMascotas","SaludMascotas","Perro Jindo (Canis lupus familiaris)"]
-heroImage: "/images/blog/jindo_care.png"
+heroImage: "/images/blog/jindo_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Pautas Estándar de Jindo del Instituto Nacional de Ciencia Animal y Protocolos de Expertos en Comportamiento de KKC"

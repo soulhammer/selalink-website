@@ -6,7 +6,7 @@ pubDate: "2026-04-03"
 updatedDate: "2026-04-03"
 category: "FreshSelf"
 tags: ["PetCare","PetHealth","Common Musk Turtle (Sternotherus odoratus)"]
-heroImage: "/images/blog/musk_turtle_care.png"
+heroImage: "/images/blog/musk_turtle_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "World Chelonian Association Basking Guidelines and Aquatic Turtle Veterinary Protocols"

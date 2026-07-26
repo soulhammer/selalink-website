@@ -6,7 +6,7 @@ pubDate: "2026-02-03"
 updatedDate: "2026-02-03"
 category: "FreshSelf"
 tags: ["Haustierpflege","Haustiergesundheit","Samojede (Canis lupus familiaris / Samoyed)"]
-heroImage: "/images/blog/samoyed_care.png"
+heroImage: "/images/blog/samoyed_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "AKC-Rassestandard für Samojeden & Richtlinien der OFA (Orthopedic Foundation for Animals)"

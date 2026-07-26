@@ -6,7 +6,7 @@ pubDate: "2026-04-08"
 updatedDate: "2026-04-08"
 category: "FreshSelf"
 tags: ["CuidadoMascotas","SaludMascotas","Gato Bosque de Noruega (Felis catus / Norwegian Forest Cat)"]
-heroImage: "/images/blog/norwegian_forest_care.png"
+heroImage: "/images/blog/norwegian_forest_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Estándares de la Cat Fanciers' Association (TICA) y Directrices de Medicina del Comportamiento Felino"

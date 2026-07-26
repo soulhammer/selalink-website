@@ -6,7 +6,7 @@ pubDate: "2026-03-05"
 updatedDate: "2026-03-05"
 category: "FreshSnap"
 tags: ["食材保存","鮮度保持","banana"]
-heroImage: "/images/blog/banana_storage_hack.png"
+heroImage: "/images/blog/banana_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>米国農務省(USDA) & 世界保健機関(WHO)</strong>"

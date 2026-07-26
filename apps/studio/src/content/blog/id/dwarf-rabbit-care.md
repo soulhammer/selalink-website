@@ -6,7 +6,7 @@ pubDate: "2026-02-17"
 updatedDate: "2026-02-17"
 category: "FreshSelf"
 tags: ["PerawatanHewan","KesehatanHewan","Kelinci Kerdil Netherland (Oryctolagus cuniculus)"]
-heroImage: "/images/blog/dwarf_rabbit_care.png"
+heroImage: "/images/blog/dwarf_rabbit_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Panduan Medis House Rabbit Society dan Standar Veteriner Hewan Kecil"

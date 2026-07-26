@@ -6,7 +6,7 @@ pubDate: "2026-02-03"
 updatedDate: "2026-02-03"
 category: "FreshSelf"
 tags: ["CuidadoPets","SaudePets","Samoieda (Canis lupus familiaris / Samoyed)"]
-heroImage: "/images/blog/samoyed_care.png"
+heroImage: "/images/blog/samoyed_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Diretrizes de Raça do Samoieda do AKC e Orientações da OFA (Orthopedic Foundation for Animals)"

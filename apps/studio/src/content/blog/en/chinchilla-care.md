@@ -6,7 +6,7 @@ pubDate: "2026-06-27"
 updatedDate: "2026-06-27"
 category: "FreshSelf"
 tags: ["PetCare","PetHealth","Chinchilla (Chinchilla lanigera)"]
-heroImage: "/images/blog/chinchilla_care.png"
+heroImage: "/images/blog/chinchilla_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Association of Exotic Mammal Veterinarians (AEMV) Chinchilla Husbandry Guidelines & Rodent Dentistry Clinical Standards"

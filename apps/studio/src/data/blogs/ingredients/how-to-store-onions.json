@@ -1,454 +1,454 @@
 {
-  "how-to-store-onions": {
-    "ingId": "onion",
-    "pubDate": "2026-01-16",
-    "updatedDate": "2026-01-16",
-    "heroImage": "/images/blog/onion_storage_hack.png",
-    "category": "FreshSnap",
-    "app": "freshsnap",
-    "formatVersion": 4,
-    "locales": {
-      "ko": {
-        "title": "양파 신선하게 보관하는 법: 과학적 보관 가이드",
-        "description": "공인된 안전 가이드라인에 따른 양파의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-        "authority": "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 영국 식품기준청(FSA)</strong>",
-        "intro": "양파를 한 망 사 와서 베란다 구석에 쌓아두었다가, 알들이 서로 닿은 부분부터 진물처럼 무르고 싹이 나서 버려본 경험 있으시죠? 🧅\n\n양파는 수확 후에도 호흡하며 습도를 조절하려는 구근 채소입니다. 수분이 고이거나 상온 다습한 환경에 방치되면 잿빛곰팡이(Botrytis)와 무름병균이 쉽게 번식하며, 감자와 같이 두면 서로의 수분과 에틸렌 가스를 자극해 폭발적으로 부패합니다.\n\n오늘 FreshSnap에서는 농촌진흥청(RDA)과 미국 농무부(USDA)의 가이드를 바탕으로, 양파의 수분과 가스를 완벽히 제어하여 한 달 이상 아삭한 단단함을 지켜주는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
-        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-        "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-        "guideTitle": "과학적으로 검증된 보관 가이드",
-        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-        "tags": [
-          "양파",
-          "과학적으로 검증된 보관 가이드",
-          "vegetable"
-        ],
-        "cautions": [
-          {
-            "title": "수분이 남아있는 상태로 비닐봉지에 밀봉 보관하지 마세요 💧",
-            "desc": "물기가 고인 양파를 비닐봉지나 밀폐용기에 담아 상온에 두면 내부에 습기가 갇혀 하루 만에 표면이 물러지고 흰 곰팡이가 번식합니다. 껍질 양파는 반드시 바람이 통하는 건조한 환경을 유지해야 합니다."
-          },
-          {
-            "title": "상처 나거나 무른 양파는 즉시 따로 골라내어 사용하세요 🧅",
-            "desc": "한 알이라도 썩거나 상처 입은 양파는 주변 양파보다 수십 배 많은 부패 가스와 수분을 분출합니다.망 보관 시 주기적으로 확인하여 상처 난 양파는 즉시 도려내고 먼저 요리에 사용하세요."
-          }
-        ],
-        "steps": [
-          {
-            "name": "껍질째 통풍이 잘되는 서늘한 곳에 매달아 보관하기 — 실온 보관 (30일) 🌬️",
-            "text": "껍질이 있는 양파는 직사광선이 들지 않는 그늘지고 바람이 통하는 서늘한 곳(10~15℃)이 최적의 환경입니다. 💡 보관 팁: 그물망이나 못 쓰는 스타킹에 양파를 하나씩 넣고 알과 알 사이에 매듭을 지어 매달아 두세요. 양파끼리 직접 매끄럽게 닿지 않아 눌림으로 인한 무름 현상을 완벽히 방지할 수 있습니다."
-          },
-          {
-            "name": "깐 양파는 물기 건조 후 랩으로 낱개 밀봉하기 — 냉장 보관 (14~21일) 📦",
-            "text": "껍질을 벗긴 깐 양파는 표면의 보호막이 사라져 산소 및 습도 노출 시 무름 현상이 빠르게 일어납니다. 💡 보관 팁: 씻은 깐 양파는 키친타월로 표면 수분을 100% 완벽히 wiping한 후, 한 개씩 식품용 랩으로 빈틈없이 꽁꽁 감싸 냉장고 야채칸(0~4℃)에 보관하세요. 산소 접촉을 차단하여 2주 이상 아삭하고 단단함이 유지됩니다."
-          },
-          {
-            "name": "감자와 무조건 철저히 격리하기 — 상호 부패 및 발아 방지 🛡️",
-            "text": "양파와 감자는 보관 시 절대 함께 두어서는 안 될 대표적 궁합 악화 식재료입니다. 💡 보관 팁: 양파가 배출하는 수분과 에틸렌 가스를 감자가 흡수하면 감자에 싹이 트고 무르며, 반대로 감자의 수분은 양파를 무르게 만들어 두 식재료 모두 급속 부패시킵니다. 반드시 공간을 분리해 따로 보관하세요."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "양파를 감자와 함께 보관하면 안 되는 과학적 이유는 무엇인가요?",
-            "answer": "양파는 저장 중 많은 수분과 에틸렌 가스를 방출합니다. 감자가 양파의 수분과 에틸렌을 흡수하면 독성 물질인 솔라닌을 함유한 싹이 빠르게 트고 조직이 물러집니다. 동시에 감자가 배출하는 수분도 양파를 상하게 하므로 서로 상호 부패를 가속화하므로 물리적으로 완전히 격리해야 합니다."
-          },
-          {
-            "question": "깐 양파를 무르지 않고 가장 오랫동안 신선하게 보관하는 팁은 무엇인가요?",
-            "answer": "양파 껍질을 벗긴 후 세척했다면, 키친타월로 표면의 물기를 단 한 방울도 남김없이 완전히 말려야 합니다. 그 후 식품용 랩으로 양파를 한 알씩 공기 구멍 없이 타이트하게 개별 밀봉한 뒤 밀폐 용기나 지퍼백에 담아 냉장실(0~4℃)에 두면, 산화와 수분 증발이 차단되어 2~3주 이상 아삭한 상태로 보관할 수 있습니다."
-          }
-        ]
-      },
-      "en": {
-        "title": "How to Keep Onions Fresh: Scientific Storage Guide",
-        "description": "Check the optimal storage temperature, method, and shelf life for onions based on official safety guidelines.",
-        "authority": "<strong>RDA & USDA & FSA</strong>",
-        "intro": "Have you ever bought a mesh bag of onions and stacked them in a balcony corner, only to find them softening, rotting at contact points, and sprouting a few days later? 🧅\n\nOnions are bulb vegetables that continue to respire and absorb/release humidity after harvest. When stored in humid, enclosed environments, Botrytis neck rot and soft rot bacteria proliferate rapidly. Furthermore, storing onions alongside potatoes triggers mutual moisture absorption and ethylene reactions, ruining both vegetables instantly.\n\nToday, FreshSnap shares a scientifically proven 3-step storage guide based on research from the USDA and RDA to control moisture and gas, preserving crisp, firm onions for over a month. 🛡️",
-        "whyTitle": "Why Store Onions This Way? Scientific Facts",
-        "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
-        "guideTitle": "Scientifically Proven Storage Guide",
-        "cautionTitle": "Essential Storage Rules and Cautions",
-        "tags": [
-          "Onion",
-          "Scientifically Proven Storage Guide",
-          "vegetable"
-        ],
-        "cautions": [
-          {
-            "title": "Never seal unpeeled onions in plastic bags with trapped moisture 💧",
-            "desc": "Enclosing moisture-laden onions in plastic bags or airtight containers traps respiration humidity, causing skin softening and white mold growth within a single day. Always keep unpeeled whole onions in a dry, ventilated area."
-          },
-          {
-            "title": "Isolate bruised or soft onions immediately 🧅",
-            "desc": "An onion with cuts or rot emits dozens of times more decay gases and moisture than healthy ones, accelerating rotting in neighboring onions. Periodically check stored onions, trim away damaged spots, and use them immediately."
-          }
-        ],
-        "steps": [
-          {
-            "name": "Hang unpeeled whole onions in a cool, well-ventilated area — Room Temp Storage (30 Days) 🌬️",
-            "text": "Unpeeled onions thrive best in a cool, shaded, and well-ventilated space (10–15°C / 50–59°F). 💡 Storage Tip: Place onions individually into a mesh bag or clean pantyhose, tying a knot between each onion before hanging. This prevents them from touching each other, eliminating pressure bruises and soft rot."
-          },
-          {
-            "name": "Dry peeled onions thoroughly and wrap individually in plastic wrap — Cold Storage (14–21 Days) 📦",
-            "text": "Peeled onions lack protective outer skins, leaving them highly vulnerable to oxygen oxidation and moisture decay. 💡 Storage Tip: Wipe 100% of surface moisture off peeled onions with paper towels, wrap each onion tightly in plastic wrap to block oxygen, and store in the refrigerator crisper drawer (0–4°C / 32–39°F) to keep them firm for over 2 weeks."
-          },
-          {
-            "name": "Isolate completely from potatoes — Prevent Mutual Spoilage & Sprouting 🛡️",
-            "text": "Onions and potatoes are storage antagonists that should never be kept together. 💡 Storage Tip: Potatoes absorb moisture and ethylene gas released by onions, which triggers rapid sprouting and softening. Conversely, potato moisture turns onions soft and moldy. Keep them in separate locations."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "What is the scientific reason for NEVER storing onions together with potatoes?",
-            "answer": "Onions release high amounts of moisture and ethylene gas during storage. When potatoes absorb this ethylene and moisture, they quickly sprout (producing toxic solanine) and turn soft. Simultaneously, the moisture exuded by potatoes causes onions to rot and grow mold. They must be physically isolated in separate storage areas."
-          },
-          {
-            "question": "What is the best method to store peeled onions without them turning soft?",
-            "answer": "If peeled onions have been washed, thoroughly wipe off every drop of surface water with paper towels. Wrap each onion individually and tightly with plastic wrap to eliminate air gaps, then place them in an airtight container or Ziploc bag in the refrigerator (0–4°C). Blocking oxygen and moisture loss preserves firm, crisp texture for 2–3 weeks."
-          }
-        ]
-      },
-      "ja": {
-        "title": "玉ねぎを新鮮に保つ保存方法：科学的保管ガイド",
-        "description": "公的安全基準に基づく玉ねぎの最適な保存温度、保管方法、保存期間をご確認ください。",
-        "authority": "<strong>農村振興庁(RDA) & 米国農務省(USDA) & FSA</strong>",
-        "intro": "玉ねぎをネットごと買ってきてベランダの隅に積み重ねておいたら、玉ねぎ同士が触れ合う部分から汁が出て柔らかくなり、芽が出て捨ててしまった経験はありませんか？🧅\n\n玉ねぎは収穫後も呼吸をしながら湿度を調整しようとする球根野菜です。湿気がこもったり常温多湿な環境に放置すると、灰色カビ病や軟腐病菌が繁殖しやすくなります。特にジャガイモと一緒に置くと、お互いの水分とエチレンガスで腐敗が爆発的に進みます。\n\n本日FreshSnapでは、農村振興庁（RDA）および米国農務省（USDA）のガイドラインに基づき、水分とガスを完璧にコントロールして1ヶ月以上シャキシャキした固さを保つ3段階の科学的保存法をご紹介します。🛡️",
-        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-        "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-        "guideTitle": "科学的に検証された保存ガイド",
-        "cautionTitle": "保存時の必須ルールと注意事項",
-        "tags": [
-          "玉ねぎ",
-          "科学的に検証された保存ガイド",
-          "vegetable"
-        ],
-        "cautions": [
-          {
-            "title": "水気が残ったままポリ袋等で密閉放置しないでください 💧",
-            "desc": "水気のついた玉ねぎをポリ袋や密閉容器に入れて常温に放置すると、内部に湿気がこもって1日で表面が柔らかくなり白いカビが繁殖します。皮付きの玉ねぎは必ず乾燥した風通しの良い環境を維持してください。"
-          },
-          {
-            "title": "傷ついた玉ねぎや柔らかい玉ねぎはすぐに選別して取り除いてください 🧅",
-            "desc": "腐ったり傷が入った玉ねぎは、周囲の正常な玉ねぎの数十倍の腐敗ガスと水分を放出します。ネット保存時は定期的にチェックし、傷んだものはすぐに取り除いて先に調理に使用してください。"
-          }
-        ],
-        "steps": [
-          {
-            "name": "皮付きのまま風通しの良い涼しい場所に吊るして保存する — 常温保存 (30日間) 🌬️",
-            "text": "皮付きの玉ねぎは、直射日光の当たらない日陰で風通しの良い涼しい場所（10〜15℃）が最適です。💡保存のコツ：ネットやストッキングに玉ねぎを1個ずつ入れ、玉ねぎの間に結び目を作って吊るしてください。玉ねぎ同士が直接触れ合わず、圧迫による軟化や腐敗を完璧に防止できます。"
-          },
-          {
-            "name": "むき玉ねぎは水気を拭き取りラップで1個ずつ密閉する — 冷蔵保存 (14〜21日間) 📦",
-            "text": "皮をむいた玉ねぎは保護膜が失われているため、酸素や湿気に触れると傷みが早まります。💡保存のコツ：洗ったむき玉ねぎの表面の水分をペーパータオルで100%完全に拭き取った後、1個ずつ食品用ラップで隙間なく包んで冷蔵庫の野菜室（0〜4℃）で保存してください。酸素接触を遮断し、2週間以上硬く新鮮な状態を維持できます。"
-          },
-          {
-            "name": "ジャガイモと絶対に隔離して保存する — 相互腐敗と発芽の防止 🛡️",
-            "text": "玉ねぎとジャガイモは保存時に絶対に一緒にしてはいけない代表的な相性の悪い食材です。💡保存のコツ：玉ねぎが放出する水分とエチレンガスをジャガイモが吸収すると芽が出て柔らかくなり、逆にジャガイモの水分は玉ねぎを腐らせます。必ず場所を分けて別々に保存してください。"
-          }
-        ],
-        "faqs": [
-          {
-            "question": "玉ねぎをジャガイモと一緒に保存してはいけない科学的な理由は何ですか？",
-            "answer": "玉ねぎは保存中に多くの水分とエチレンガスを放出します。ジャガイモがこの水分とエチレンを吸収すると、有毒物質であるソラニンを含む芽が急速に伸び、組織が柔らかくなります。同時にジャガイモから出る水分も玉ねぎを腐らせるため、相互に腐敗を早めてしまいます。物理的に完全に離して保存してください。"
-          },
-          {
-            "question": "むき玉ねぎを傷ませずに最も長く新鮮に保存するコツは何ですか？",
-            "answer": "皮をむいて水洗いした場合は、ペーパータオルで表面の水分を完全に拭き取ることが重要です。その後、食品用ラップで空気が入らないよう1個ずつぴったり包み、密閉容器やジッパーバッグに入れて冷蔵庫（0〜4℃）で保存すると、酸化と乾燥が防げて2〜3週間以上シャキシャキ感を保つことができます。"
-          }
-        ]
-      },
-      "zh": {
-        "title": "如何保持洋葱新鲜：科学储存指南",
-        "description": "根据官方食品安全指南，了解洋葱的最佳储存温度、方式和保鲜时长。",
-        "authority": "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & FSA</strong>",
-        "intro": "您是否曾买回一整网袋洋葱堆在阳台角落，结果发现洋葱相互接触挤压的地方开始发软出水，甚至发芽腐烂？🧅\n\n洋葱是采收后仍会继续呼吸并调节湿度的鳞茎类蔬菜。如果积聚湿气或置于常温潮湿环境中，灰霉病菌与软腐病菌极易大量滋生。若与土豆放在一起，两者散发的水分与乙烯气体会相互刺激，引发爆发性腐烂。\n\n今天FreshSnap基于韩国农村振兴厅(RDA)和美国农务部(USDA)的指南，为您带来3步科学保存秘诀，帮您精准控干水分与气体，保持洋葱紧致饱满达1个月以上。🛡️",
-        "whyTitle": "为什么要这样储存？科学原理",
-        "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-        "guideTitle": "科学验证的储存指南",
-        "cautionTitle": "储存必需规则及注意事项",
-        "tags": [
-          "洋葱",
-          "科学验证的储存指南",
-          "vegetable"
-        ],
-        "cautions": [
-          {
-            "title": "带水湿润状态下切勿用塑料袋密封常温放置 💧",
-            "desc": "将带有水汽的洋葱装入塑料袋或密封盒置于常温下，内部积聚的湿气会导致表皮在一天内发软，并滋生白霉。带皮洋葱必须保持干燥通风的环境。"
-          },
-          {
-            "title": "发现破损或发软的洋葱请立即挑出隔离 🧅",
-            "desc": "哪怕只有一颗洋葱开始腐烂或破损，其释放的变质气体与水分也是正常洋葱的数十倍。网袋储存时请定期检查，剔除破损洋葱切除坏处后优先烹饪。"
-          }
-        ],
-        "steps": [
-          {
-            "name": "带皮悬挂在通风良好的阴凉处 — 常温保存 (30天) 🌬️",
-            "text": "带皮洋葱最适宜保存在无阳光直射、通风干爽的阴凉处（10~15℃）。💡储存小贴士：将洋葱逐个装入网袋或干净丝袜中，在洋葱与洋葱之间打结分隔并悬挂起来。这样能防止洋葱直接接触挤压，彻底杜绝发软腐烂。"
-          },
-          {
-            "name": "剥皮洋葱擦干水分后用保鲜膜单颗密封 — 冷藏保存 (14~21天) 📦",
-            "text": "剥皮洋葱失去了外层保护膜，暴露于空气和湿度中会加速变软。💡储存小贴士：洗净的剥皮洋葱用厨房纸巾彻底擦干100%的表皮水分，再用食品级保鲜膜将单颗洋葱严密紧包裹，放入冰箱蔬菜保鲜抽屉（0~4℃）。隔绝氧气可保鲜长达2周以上。"
-          },
-          {
-            "name": "与土豆彻底物理隔离 — 防止相互催熟与腐烂 🛡️",
-            "text": "洋葱和土豆是储存时的“天敌”，切绝对不能混放。💡储存小贴士：土豆吸收洋葱释放的水分和乙烯气体会加速发芽（产生有毒龙葵素）变软；反之土豆散发的水汽也会导致洋葱发霉变烂。务必分开空间独立保存。"
-          }
-        ],
-        "faqs": [
-          {
-            "question": "洋葱不能和土豆放在一起保存的科学依据是什么？",
-            "answer": "洋葱在储存期间会释放大量水分和催熟激素乙烯气体。当土豆吸收了洋葱的水分和乙烯后，会快速发芽（产生剧毒龙葵素）并软化。与此同时，土豆渗出的水汽也会导致洋葱变软发霉，引发相催腐烂，因此两者在空间上必须彻底隔离。"
-          },
-          {
-            "question": "剥皮洋葱如何保存才能防软保鲜最久？",
-            "answer": "剥皮清洗后的洋葱，关键在于用厨房纸巾将表皮水分擦得干干净净、不留一滴水。然后用食品级保鲜膜紧密贴合无缝包裹每一颗洋葱，装入密封盒放入冰箱冷藏室（0~4℃）。切断氧气与水分蒸发后，可保持清脆坚挺达2~3周以上。"
-          }
-        ]
-      },
-      "es": {
-        "title": "Cómo mantener las cebollas frescas: Guía científica de conservación",
-        "description": "Descubra la temperatura, el método y la duración de conservación óptimos para las cebollas según las directrices oficiales de seguridad.",
-        "authority": "<strong>RDA & USDA & FSA</strong>",
-        "intro": "¿Alguna vez compró una red de cebollas, las amontonó en una esquina del balcón y descubrió que se ablandaban, se pudrían en los puntos de contacto y brotaban pocos días después? 🧅\n\nLa cebolla es una hortaliza de bulbo que continúa respirando y regulando la humedad tras la cosecha. Cuando se almacena en ambientes húmedos y cerrados, la pudrición del cuello por Botrytis y las bacterias se propagan velozmente. Además, guardar cebollas con papas provoca una absorción mutua de humedad y reacciones de etileno, echando a perder ambas hortalizas.\n\nHoy, FreshSnap comparte una guía científica en 3 pasos basada en investigaciones del USDA y la RDA para controlar la humedad y los gases, conservando cebollas firmes por más de un mes. 🛡️",
-        "whyTitle": "¿Por qué almacenarlas así? Datos científicos",
-        "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-        "guideTitle": "Guía de almacenamiento científicamente probada",
-        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-        "tags": [
-          "Cebolla",
-          "Guía de almacenamiento científicamente probada",
-          "vegetable"
-        ],
-        "cautions": [
-          {
-            "title": "Nunca selle cebollas con cáscara en bolsas de plástico húmedas 💧",
-            "desc": "Encharcar cebollas sin pelar en bolsas de plástico o contenedores herméticos atrapa la humedad de la respiración, ablandando la piel y produciendo moho blanco en solo un día. Mantenga las cebollas enteras en un área seca y ventilada."
-          },
-          {
-            "title": "Aísle de inmediato las cebollas magulladas o blandas 🧅",
-            "desc": "Una cebolla golpeada o podrida emite decenas de veces más gases de descomposición y humedad que las cebollas sanas, pudriendo a las vecinas. Inspeccione periódicamente, retire las partes dañadas y utilícelas de inmediato."
-          }
-        ],
-        "steps": [
-          {
-            "name": "Cuelgue las cebollas enteras en un lugar fresco y bien ventilado — Temp. Ambiente (30 días) 🌬️",
-            "text": "Las cebollas con cáscara se conservan mejor en un espacio fresco, a la sombra y bien ventilado (10-15 °C). 💡 Consejo de almacenamiento: Coloque las cebollas individualmente en una red o medias de nylon, atando un nudo entre cada una antes de colgar. Esto evita que se toquen, eliminando rozaduras y pudrición."
-          },
-          {
-            "name": "Seque bien las cebollas peladas y envuélvalas individualmente con film plástico — Refrigeración (14–21 días) 📦",
-            "text": "Las cebollas peladas carecen de piel protectora, siendo muy vulnerables a la oxidación por oxígeno y al deterioro por humedad. 💡 Consejo de almacenamiento: Seque el 100% de la humedad superficial con toallas de papel, envuelva cada una apretadamente con film plástico y guárdelas en el cajón de verduras (0-4 °C) por más de 2 semanas."
-          },
-          {
-            "name": "Aísle por completo de las papas — Evite el deterioro mutuo y los brotes 🛡️",
-            "text": "Las cebollas y las papas son antagonistas de almacenamiento que nunca deben guardarse juntas. 💡 Consejo de almacenamiento: Las papas absorben la humedad y el gas etileno de las cebollas, brotando rápido. A su vez, la humedad de las papas ablanda las cebollas. Guárdelas en lugares separados."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "¿Cuál es la razón científica para NUNCA almacenar cebollas junto con papas?",
-            "answer": "Las cebollas liberan gran cantidad de humedad y gas etileno. Cuando las papas absorben esta humedad y etileno, brotan rápidamente (generando solanina tóxica) y se ablandan. Al mismo tiempo, la humedad de las papas pudre las cebollas y genera moho. Deben aislarse físicamente en zonas de almacenamiento separadas."
-          },
-          {
-            "question": "¿Cuál es el mejor método para conservar cebollas peladas sin que se pongan blandas?",
-            "answer": "Si ha lavado cebollas peladas, seque minuciosamente cada gota de agua superficial con toallas de papel. Envuelva cada cebolla individualmente con film plástico transparente sin dejar aire y colóquelas en un recipiente hermético en el refrigerador (0-4 °C). Bloquear el oxígeno y la pérdida de agua las mantiene crujientes por 2 a 3 semanas."
-          }
-        ]
-      },
-      "fr": {
-        "title": "Comment conserver les oignons frais : Guide scientifique de conservation",
-        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les oignons selon les directives officielles de sécurité.",
-        "authority": "<strong>RDA & USDA & FSA</strong>",
-        "intro": "Avez-vous déjà acheté un filet d'oignons et les avez empilés dans un coin du balcon, pour les retrouver ramollis, pourris aux points de contact ou germés quelques jours plus tard ? 🧅\n\nL'oignon est un légume-bulbe qui continue de respirer et de réguler son humidité après la récolte. Conservé dans un milieu chaud et fermé, la pourriture du collet par Botrytis et les bactéries se développent vite. De plus, stocker les oignons à côté des pommes de terre provoque des réactions croisées d'humidité et d'éthylène qui gâtent les deux légumes.\n\nAujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes basé sur les recherches du USDA et de la RDA pour contrôler l'humidité et les gaz et garder des oignons fermes pendant plus d'un mois. 🛡️",
-        "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
-        "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-        "guideTitle": "Guide de conservation scientifiquement prouvé",
-        "cautionTitle": "Règles essentielles et précautions de stockage",
-        "tags": [
-          "Oignon",
-          "Guide de conservation scientifiquement prouvé",
-          "vegetable"
-        ],
-        "cautions": [
-          {
-            "title": "Ne scellez jamais d'oignons non pelés humides dans des sacs en plastique 💧",
-            "desc": "Enfermer des oignons non pelés humides dans du plastique piège l'humidité de respiration, ramollissant la peau et créant de la moisissure blanche en 24 heures. Gardez les oignons entiers dans un endroit sec et aéré."
-          },
-          {
-            "title": "Isolez immédiatement les oignons abîmés ou ramollis 🧅",
-            "desc": "Un oignon fendu ou moisi dégage des dizaines de fois plus de gaz de décomposition et d'humidité que les oignons sains, faisant pourrir ses voisins. Triez-les souvent, coupez les parties abîmées et cuisinez-les de suite."
-          }
-        ],
-        "steps": [
-          {
-            "name": "Suspendre les oignons entiers non pelés dans un endroit frais et aéré — Temp. Ambiante (30 jours) 🌬️",
-            "text": "Les oignons non pelés se conservent idéalement à l'ombre dans un espace frais et ventilé (10-15 °C). 💡 Astuce de conservation : Glissez les oignons un par un dans un filet ou un bas propre en faisant un nœud entre chaque oignon avant de suspendre. Cela évite qu'ils ne se touchent et ne s'écrasent."
-          },
-          {
-            "name": "Sécher les oignons pelés et les envelopper individuellement de film étirable — Réfrigération (14–21 jours) 📦",
-            "text": "Les oignons pelés n'ont plus de peau protectrice, ce qui les rend très sensibles à l'oxydation et à l'humidité. 💡 Astuce de conservation : Séchez 100 % de l'eau en surface avec de l'essuie-tout, enveloppez chaque oignon fermement dans du film étirable et rangez au bac à légumes (0-4 °C) jusqu'à 3 semaines."
-          },
-          {
-            "name": "Isoler totalement des pommes de terre — Éviter le pourrissement et la germination 🛡️",
-            "text": "Les oignons et les pommes de terre ne doivent jamais être stockés ensemble. 💡 Astuce de conservation : Les pommes de terre absorbent l'humidité et l'éthylène dégagés par les oignons, ce qui les fait germer et ramollir. En retour, l'humidité des pommes de terre fait pourrir les oignons. Séparez-les dans des espaces distincts."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Quelle est la raison scientifique de ne JAMAIS conserver les oignons avec les pommes de terre ?",
-            "answer": "Les oignons dégagent beaucoup d'humidité et d'éthylène pendant le stockage. Lorsque les pommes de terre absorbent cette humidité et cet éthylène, elles germent rapidement (en produisant de la solanine toxique) et se ramollissent. Dans le même temps, l'humidité des pommes de terre fait pourrir et moisir les oignons. Il faut les isoler dans des zones séparées."
-          },
-          {
-            "question": "Quelle est la meilleure méthode pour conserver les oignons pelés sans qu'ils ne ramollissent ?",
-            "answer": "Si vous avez lavé des oignons pelés, épongez soigneusement chaque goutte d'eau avec de l'essuie-tout. Enveloppez chaque oignon individuellement et très serré dans du film étirable sans bulles d'air, puis placez-les dans une boîte hermétique au réfrigérateur (0-4 °C). Bloquer l'oxygène préserve la fermeté pendant 2 à 3 semaines."
-          }
-        ]
-      },
-      "de": {
-        "title": "Zwiebeln richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Zwiebeln basierend auf offiziellen Sicherheitsrichtlinien.",
-        "authority": "<strong>RDA & USDA & FSA</strong>",
-        "intro": "Haben Sie schon einmal ein Netz Zwiebeln gekauft und in einer Balkonecke gestapelt, nur um festzustellen, dass sie an den Kontaktstellen weich wurden, verfaulten oder keimten? 🧅\n\nZwiebeln sind Zwiebelgemüse, die nach der Ernte weiter atmen und Feuchtigkeit regulieren. Bei warmer, feuchter Lagerung breiten sich Zwiebelweichfäule und Botrytis-Schimmel schnell aus. Die gemeinsame Lagerung mit Kartoffeln löst zudem gegenseitige Feuchtigkeits- und Ethylenreaktionen aus, die beide Gemüse verderben.\n\nHeute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Forschungen von USDA und RDA basiert, um Feuchtigkeit und Gase zu steuern und Ihre Zwiebeln über einen Monat lang knackig und fest zu halten. 🛡️",
-        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-        "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-        "tags": [
-          "Zwiebel",
-          "Wissenschaftlich geprüfter Lagerungsratgeber",
-          "vegetable"
-        ],
-        "cautions": [
-          {
-            "title": "Ungeschälte Zwiebeln niemals feucht in Plastikbeuteln verschließen 💧",
-            "desc": "Das Verschließen feuchter Zwiebeln in Plastikbeuteln oder luftdichten Dosen staut die Atmungsfeuchtigkeit, was innerhalb eines Tages zu Weichwerden und Weißschimmel führt. Ungeschälte Zwiebeln stets trocken und belüftet lagern."
-          },
-          {
-            "title": "Beschädigte oder weiche Zwiebeln sofort aussortieren 🧅",
-            "desc": "Eine angeschnittene oder faulige Zwiebel gibt um ein Vielfaches mehr Fäulnisgase und Feuchtigkeit ab als gesunde Zwiebeln, was Nachbarn ansteckt. Regelmäßig kontrollieren, beschädigte Stellen abschneiden und direkt verkochen."
-          }
-        ],
-        "steps": [
-          {
-            "name": "Ungeschälte ganze Zwiebeln an einem kühlen, gut belüfteten Ort aufhängen — Raumtemperatur (30 Tage) 🌬️",
-            "text": "Ungeschälte Zwiebeln lagern am besten an einem kühlen, schattigen und windigen Ort (10–15 °C). 💡 Lagerungstipp: Geben Sie Zwiebeln einzeln in ein Netz oder eine Strumpfhose und verknoten Sie den Zwischenraum vor dem Aufhängen. Dies verhindert Druckstellen und Weichfäule durch gegenseitigen Kontakt."
-          },
-          {
-            "name": "Geschälte Zwiebeln gründlich trocknen und einzeln in Folie wickeln — Kühllagerung (14–21 Tage) 📦",
-            "text": "Geschälten Zwiebeln fehlt die Schutzschicht, wodurch sie extrem anfällig für Sauerstoffoxidation und Feuchtigkeitsverderb sind. 💡 Lagerungstipp: Tupfen Sie Feuchtigkeit mit Küchenpapier zu 100 % ab, wickeln Sie jede Zwiebel eng in Frischhaltefolie und lagern Sie sie im Gemüsefach (0–4 °C)."
-          },
-          {
-            "name": "Vollständig von Kartoffeln isolieren — Gegenseitigen Verderb & Keimen verhindern 🛡️",
-            "text": "Zwiebeln und Kartoffeln sind Lagerungsgegner, die niemals zusammen aufbewahrt werden dürfen. 💡 Lagerungstipp: Kartoffeln nehmen Feuchtigkeit und Ethylengas der Zwiebeln auf, was schnelles Keimen und Erweichen auslöst. Umgekehrt lässt Kartoffelfeuchtigkeit Zwiebeln schimmeln. Getrennt lagern."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Was ist der wissenschaftliche Grund dafür, Zwiebeln NIEMALS zusammen mit Kartoffeln zu lagern?",
-            "answer": "Zwiebeln geben während der Lagerung viel Feuchtigkeit und Ethylengas ab. Wenn Kartoffeln diese Feuchtigkeit und das Ethylen aufnehmen, keimen sie rasch (wobei giftiges Solanin entsteht) und werden weich. Gleichzeitig lässt die von Kartoffeln abgegebene Feuchtigkeit Zwiebeln faulen und schimmeln. Sie müssen räumlich strikt getrennt werden."
-          },
-          {
-            "question": "Wie bewahrt man geschälte Zwiebeln am besten auf, ohne dass sie weich werden?",
-            "answer": "Wenn geschälte Zwiebeln gewaschen wurden, trocknen Sie jeden Wassertropfen auf der Oberfläche gründlich mit Küchenpapier ab. Wickeln Sie jede Zwiebel einzeln luftdicht in Frischhaltefolie ein und legen Sie sie in einer Dose in den Kühlschrank (0–4 °C). Das Blockieren von Sauerstoff und Feuchtigkeitsverlust hält sie 2–3 Wochen knackig."
-          }
-        ]
-      },
-      "pt": {
-        "title": "Como conservar cebolas frescas: Guia científico de armazenamento",
-        "description": "Descubra a temperatura, método e tempo de conservação ideais para cebolas com base em diretrizes oficiais de segurança.",
-        "authority": "<strong>RDA & USDA & FSA</strong>",
-        "intro": "Você já comprou um saco de rede de cebolas e empilhou no canto da varanda, apenas para descobrir que elas amoleceram, apodreceram nos pontos de contato e brotaram poucos dias depois? 🧅\n\nA cebola é uma hortaliça de bulbo que continua respirando e regulando a umidade após a colheita. Quando armazenada em ambientes úmidos e fechados, a podridão do colo por Botrytis e bactérias se espalham rapidamente. Além disso, guardar cebolas com batatas provoca absorção mútua de umidade e reações de etileno, estragando ambas.\n\nHoje, o FreshSnap apresenta um guia de conservação em 3 etapas baseado em pesquisas do USDA e da RDA para controlar a umidade e os gases, mantendo cebolas firmes por mais de um mês. 🛡️",
-        "whyTitle": "Por que armazenar assim? Fatos científicos",
-        "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-        "guideTitle": "Guia de armazenamento comprovado cientificamente",
-        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-        "tags": [
-          "Cebola",
-          "Guia de armazenamento comprovado cientificamente",
-          "vegetable"
-        ],
-        "cautions": [
-          {
-            "title": "Nunca sele cebolas com casca em sacos plásticos úmidos 💧",
-            "desc": "Guardar cebolas com casca e umidade presa em sacos plásticos ou potes herméticos reprime a umidade da respiração, amolecendo a casca e criando mofo branco em apenas um dia. Mantenha cebolas inteiras em local seco e ventilado."
-          },
-          {
-            "title": "Isole imediatamente cebolas machucadas ou moles 🧅",
-            "desc": "Uma cebola cortada ou podre emite dezenas de vezes mais gases de decomposição e umidade do que cebolas saudáveis, estragando as vizinhas. Inspecione periodicamente, corte as partes danificadas e use imediatamente."
-          }
-        ],
-        "steps": [
-          {
-            "name": "Pendure as cebolas inteiras em local fresco e bem ventilado — Temp. Ambiente (30 dias) 🌬️",
-            "text": "Cebolas com casca duram mais em um espaço fresco, à sombra e bem ventilado (10-15 °C). 💡 Dica de conservação: Coloque as cebolas individualmente em uma rede ou meia de nylon, dando um nó entre cada uma antes de pendurar. Isso evita o contato direto, eliminando amassados e podridão."
-          },
-          {
-            "name": "Seque bem as cebolas descascadas e embrulhe individualmente em filme plástico — Refrigeração (14–21 dias) 📦",
-            "text": "Cebolas descascadas não têm a casca protetora, ficando muito vulneráveis à oxidação e umidade. 💡 Dica de conservação: Seque 100% da umidade da superfície com papel-toalha, embrulhe cada uma firmemente com filme plástico e guarde na gaveta de legumes (0-4 °C) por mais de 2 semanas."
-          },
-          {
-            "name": "Isole completamente das batatas — Evite o apodrecimento mútuo e brotos 🛡️",
-            "text": "Cebolas e batatas são inimigas de armazenamento que nunca devem ser mantidas juntas. 💡 Dica de conservação: As batatas absorvem a umidade e o gás etileno das cebolas, brotando rápido. Por outro lado, a umidade das batatas amolece as cebolas. Guarde em locais separados."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Qual é a razão científica para NUNCA guardar cebolas junto com batatas?",
-            "answer": "As cebolas liberam grande quantidade de umidade e gás etileno durante o armazenamento. Quando as batatas absorvem essa umidade e etileno, elas brotam rapidamente (produzindo solanina tóxica) e amolecem. Ao mesmo tempo, a umidade liberada pelas batatas faz as cebolas apodrecerem e mofarem. Elas devem ser isoladas em locais separados."
-          },
-          {
-            "question": "Qual é o melhor método para guardar cebolas descascadas sem que amoleçam?",
-            "answer": "Se você lavou cebolas descascadas, seque minuciosamente cada gota de água da superfície com papel-toalha. Embrulhe cada cebola individualmente e bem apertada em filme plástico transparente sem bolhas de ar e coloque em um pote hermético na geladeira (0-4 °C). Bloquear o oxigênio e a perda de água mantém a textura crocante por 2 a 3 semanas."
-          }
-        ]
-      },
-      "id": {
-        "title": "Cara Menyimpan Bawang Bombay agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk bawang bombay berdasarkan pedoman keselamatan resmi.",
-        "authority": "<strong>RDA & USDA & FSA</strong>",
-        "intro": "Pernahkah Anda membeli seikat bawang bombay dalam jaring lalu menumpuknya di sudut balkon, hanya untuk mendapatinya membusuk di titik kontak dan bertunas beberapa hari kemudian? 🧅\n\nBawang bombay adalah sayuran umbi yang terus bernapas dan mengatur kelembapan setelah dipanen. Saat disimpan di lingkungan yang lembap dan tertutup, pembusukan leher Botrytis dan bakteri busuk lunak berkembang dengan cepat. Selain itu, menyimpan bawang bombay bersama kentang memicu penyerapan kelembapan dan reaksi etilen ganda yang merusak kedua sayuran sekaligus.\n\nHari ini, FreshSnap membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan penelitian USDA dan RDA untuk mengontrol kelembapan dan gas, menjaga bawang bombay Anda tetap renyah dan kokoh selama lebih dari sebulan. 🛡️",
-        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-        "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-        "tags": [
-          "Bawang bombay",
-          "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-          "vegetable"
-        ],
-        "cautions": [
-          {
-            "title": "Jangan pernah menyegel bawang utuh berair dalam kantong plastik 💧",
-            "desc": "Menyimpan bawang bombay yang lembap dalam kantong plastik atau wadah kedap udara akan memerangkap air respirasi, melunakkan kulit dan memicu jamur putih dalam sehari. Selalu simpan bawang utuh di area yang kering dan berventilasi."
-          },
-          {
-            "title": "Segera pisahkan bawang bombay yang memar atau lembek 🧅",
-            "desc": "Bawang yang luka atau membusuk melepaskan gas pembusukan dan kelembapan puluhan kali lebih banyak daripada bawang sehat, membusukkan bawang di sekitarnya. Periksa secara berkala, potong bagian yang rusak, dan segera gunakan."
-          }
-        ],
-        "steps": [
-          {
-            "name": "Gantung bawang utuh di area sejuk dan berventilasi baik — Suhu Ruang (30 Hari) 🌬️",
-            "text": "Bawang bombay utuh paling baik disimpan di tempat yang sejuk, teduh, dan berventilasi baik (10–15°C). 💡 Tips Penyimpanan: Masukkan bawang satu per satu ke dalam kantong jaring atau kaus kaki nilon bersih, ikat simpul di antara setiap bawang sebelum digantung. Ini mencegah kontak langsung antar-bawang, menghilangkan memar akibat tekanan."
-          },
-          {
-            "name": "Keringkan bawang kupas hingga tuntas lalu bungkus rapat dengan plastik wrap — Simpan Dingin (14–21 Hari) 📦",
-            "text": "Bawang kupas tidak memiliki kulit pelindung luar sehingga sangat rentan terhadap oksidasi dan pembusukan. 💡 Tips Penyimpanan: Lap 100% kelembapan permukaan dengan tisu dapur, bungkus setiap bawang secara rapat dengan plastik wrap untuk menghalangi oksigen, lalu simpan di laci sayuran kulkas (0–4°C) hingga 3 minggu."
-          },
-          {
-            "name": "Pisahkan secara total dari kentang — Cegah Pembusukan Bersama & Tunas 🛡️",
-            "text": "Bawang bombay dan kentang adalah musuh dalam penyimpanan yang tidak boleh disimpan bersama. 💡 Tips Penyimpanan: Kentang menyerap kelembapan dan gas etilen yang dilepaskan bawang, memicu pertumbuhan tunas dan pelunakan cepat. Sebaliknya, air dari kentang membuat bawang membusuk. Simpan di tempat terpisah."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Apa alasan ilmiah mengapa TIDAK boleh menyimpan bawang bombay bersama kentang?",
-            "answer": "Bawang bombay melepaskan kelembapan dan gas etilen dalam jumlah tinggi selama penyimpanan. Saat kentang menyerap kelembapan dan etilen ini, kentang dengan cepat bertunas (menghasilkan racun solanin) dan menjadi lembek. Pada saat yang sama, kelembapan dari kentang membuat bawang bombay membusuk dan berjamur. Kedua bahan harus dipisahkan secara fisik."
-          },
-          {
-            "question": "Apa metode terbaik untuk menyimpan bawang bombay kupas agar tidak menjadi lembek?",
-            "answer": "Jika bawang kupas telah dicuci, lap setiap tetes air permukaan hingga benar-benar kering dengan tisu dapur. Bungkus setiap bawang secara rapat dan individual dengan plastik wrap tanpa ada celah udara, lalu masukkan ke dalam wadah kedap udara di kulkas (0–4°C). Menghalangi oksigen dan kehilangan air menjaga tekstur renyah selama 2–3 minggu."
-          }
-        ]
-      }
+    "how-to-store-onions": {
+        "ingId": "onion",
+        "pubDate": "2026-01-16",
+        "updatedDate": "2026-01-16",
+        "heroImage": "/images/blog/onion_storage_hack.webp",
+        "category": "FreshSnap",
+        "app": "freshsnap",
+        "formatVersion": 4,
+        "locales": {
+            "ko": {
+                "title": "양파 신선하게 보관하는 법: 과학적 보관 가이드",
+                "description": "공인된 안전 가이드라인에 따른 양파의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+                "authority": "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 영국 식품기준청(FSA)</strong>",
+                "intro": "양파를 한 망 사 와서 베란다 구석에 쌓아두었다가, 알들이 서로 닿은 부분부터 진물처럼 무르고 싹이 나서 버려본 경험 있으시죠? 🧅\n\n양파는 수확 후에도 호흡하며 습도를 조절하려는 구근 채소입니다. 수분이 고이거나 상온 다습한 환경에 방치되면 잿빛곰팡이(Botrytis)와 무름병균이 쉽게 번식하며, 감자와 같이 두면 서로의 수분과 에틸렌 가스를 자극해 폭발적으로 부패합니다.\n\n오늘 FreshSnap에서는 농촌진흥청(RDA)과 미국 농무부(USDA)의 가이드를 바탕으로, 양파의 수분과 가스를 완벽히 제어하여 한 달 이상 아삭한 단단함을 지켜주는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+                "guideTitle": "과학적으로 검증된 보관 가이드",
+                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+                "tags": [
+                    "양파",
+                    "과학적으로 검증된 보관 가이드",
+                    "vegetable"
+                ],
+                "cautions": [
+                    {
+                        "title": "수분이 남아있는 상태로 비닐봉지에 밀봉 보관하지 마세요 💧",
+                        "desc": "물기가 고인 양파를 비닐봉지나 밀폐용기에 담아 상온에 두면 내부에 습기가 갇혀 하루 만에 표면이 물러지고 흰 곰팡이가 번식합니다. 껍질 양파는 반드시 바람이 통하는 건조한 환경을 유지해야 합니다."
+                    },
+                    {
+                        "title": "상처 나거나 무른 양파는 즉시 따로 골라내어 사용하세요 🧅",
+                        "desc": "한 알이라도 썩거나 상처 입은 양파는 주변 양파보다 수십 배 많은 부패 가스와 수분을 분출합니다.망 보관 시 주기적으로 확인하여 상처 난 양파는 즉시 도려내고 먼저 요리에 사용하세요."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "껍질째 통풍이 잘되는 서늘한 곳에 매달아 보관하기 — 실온 보관 (30일) 🌬️",
+                        "text": "껍질이 있는 양파는 직사광선이 들지 않는 그늘지고 바람이 통하는 서늘한 곳(10~15℃)이 최적의 환경입니다. 💡 보관 팁: 그물망이나 못 쓰는 스타킹에 양파를 하나씩 넣고 알과 알 사이에 매듭을 지어 매달아 두세요. 양파끼리 직접 매끄럽게 닿지 않아 눌림으로 인한 무름 현상을 완벽히 방지할 수 있습니다."
+                    },
+                    {
+                        "name": "깐 양파는 물기 건조 후 랩으로 낱개 밀봉하기 — 냉장 보관 (14~21일) 📦",
+                        "text": "껍질을 벗긴 깐 양파는 표면의 보호막이 사라져 산소 및 습도 노출 시 무름 현상이 빠르게 일어납니다. 💡 보관 팁: 씻은 깐 양파는 키친타월로 표면 수분을 100% 완벽히 wiping한 후, 한 개씩 식품용 랩으로 빈틈없이 꽁꽁 감싸 냉장고 야채칸(0~4℃)에 보관하세요. 산소 접촉을 차단하여 2주 이상 아삭하고 단단함이 유지됩니다."
+                    },
+                    {
+                        "name": "감자와 무조건 철저히 격리하기 — 상호 부패 및 발아 방지 🛡️",
+                        "text": "양파와 감자는 보관 시 절대 함께 두어서는 안 될 대표적 궁합 악화 식재료입니다. 💡 보관 팁: 양파가 배출하는 수분과 에틸렌 가스를 감자가 흡수하면 감자에 싹이 트고 무르며, 반대로 감자의 수분은 양파를 무르게 만들어 두 식재료 모두 급속 부패시킵니다. 반드시 공간을 분리해 따로 보관하세요."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "양파를 감자와 함께 보관하면 안 되는 과학적 이유는 무엇인가요?",
+                        "answer": "양파는 저장 중 많은 수분과 에틸렌 가스를 방출합니다. 감자가 양파의 수분과 에틸렌을 흡수하면 독성 물질인 솔라닌을 함유한 싹이 빠르게 트고 조직이 물러집니다. 동시에 감자가 배출하는 수분도 양파를 상하게 하므로 서로 상호 부패를 가속화하므로 물리적으로 완전히 격리해야 합니다."
+                    },
+                    {
+                        "question": "깐 양파를 무르지 않고 가장 오랫동안 신선하게 보관하는 팁은 무엇인가요?",
+                        "answer": "양파 껍질을 벗긴 후 세척했다면, 키친타월로 표면의 물기를 단 한 방울도 남김없이 완전히 말려야 합니다. 그 후 식품용 랩으로 양파를 한 알씩 공기 구멍 없이 타이트하게 개별 밀봉한 뒤 밀폐 용기나 지퍼백에 담아 냉장실(0~4℃)에 두면, 산화와 수분 증발이 차단되어 2~3주 이상 아삭한 상태로 보관할 수 있습니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "How to Keep Onions Fresh: Scientific Storage Guide",
+                "description": "Check the optimal storage temperature, method, and shelf life for onions based on official safety guidelines.",
+                "authority": "<strong>RDA & USDA & FSA</strong>",
+                "intro": "Have you ever bought a mesh bag of onions and stacked them in a balcony corner, only to find them softening, rotting at contact points, and sprouting a few days later? 🧅\n\nOnions are bulb vegetables that continue to respire and absorb/release humidity after harvest. When stored in humid, enclosed environments, Botrytis neck rot and soft rot bacteria proliferate rapidly. Furthermore, storing onions alongside potatoes triggers mutual moisture absorption and ethylene reactions, ruining both vegetables instantly.\n\nToday, FreshSnap shares a scientifically proven 3-step storage guide based on research from the USDA and RDA to control moisture and gas, preserving crisp, firm onions for over a month. 🛡️",
+                "whyTitle": "Why Store Onions This Way? Scientific Facts",
+                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+                "guideTitle": "Scientifically Proven Storage Guide",
+                "cautionTitle": "Essential Storage Rules and Cautions",
+                "tags": [
+                    "Onion",
+                    "Scientifically Proven Storage Guide",
+                    "vegetable"
+                ],
+                "cautions": [
+                    {
+                        "title": "Never seal unpeeled onions in plastic bags with trapped moisture 💧",
+                        "desc": "Enclosing moisture-laden onions in plastic bags or airtight containers traps respiration humidity, causing skin softening and white mold growth within a single day. Always keep unpeeled whole onions in a dry, ventilated area."
+                    },
+                    {
+                        "title": "Isolate bruised or soft onions immediately 🧅",
+                        "desc": "An onion with cuts or rot emits dozens of times more decay gases and moisture than healthy ones, accelerating rotting in neighboring onions. Periodically check stored onions, trim away damaged spots, and use them immediately."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Hang unpeeled whole onions in a cool, well-ventilated area — Room Temp Storage (30 Days) 🌬️",
+                        "text": "Unpeeled onions thrive best in a cool, shaded, and well-ventilated space (10–15°C / 50–59°F). 💡 Storage Tip: Place onions individually into a mesh bag or clean pantyhose, tying a knot between each onion before hanging. This prevents them from touching each other, eliminating pressure bruises and soft rot."
+                    },
+                    {
+                        "name": "Dry peeled onions thoroughly and wrap individually in plastic wrap — Cold Storage (14–21 Days) 📦",
+                        "text": "Peeled onions lack protective outer skins, leaving them highly vulnerable to oxygen oxidation and moisture decay. 💡 Storage Tip: Wipe 100% of surface moisture off peeled onions with paper towels, wrap each onion tightly in plastic wrap to block oxygen, and store in the refrigerator crisper drawer (0–4°C / 32–39°F) to keep them firm for over 2 weeks."
+                    },
+                    {
+                        "name": "Isolate completely from potatoes — Prevent Mutual Spoilage & Sprouting 🛡️",
+                        "text": "Onions and potatoes are storage antagonists that should never be kept together. 💡 Storage Tip: Potatoes absorb moisture and ethylene gas released by onions, which triggers rapid sprouting and softening. Conversely, potato moisture turns onions soft and moldy. Keep them in separate locations."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "What is the scientific reason for NEVER storing onions together with potatoes?",
+                        "answer": "Onions release high amounts of moisture and ethylene gas during storage. When potatoes absorb this ethylene and moisture, they quickly sprout (producing toxic solanine) and turn soft. Simultaneously, the moisture exuded by potatoes causes onions to rot and grow mold. They must be physically isolated in separate storage areas."
+                    },
+                    {
+                        "question": "What is the best method to store peeled onions without them turning soft?",
+                        "answer": "If peeled onions have been washed, thoroughly wipe off every drop of surface water with paper towels. Wrap each onion individually and tightly with plastic wrap to eliminate air gaps, then place them in an airtight container or Ziploc bag in the refrigerator (0–4°C). Blocking oxygen and moisture loss preserves firm, crisp texture for 2–3 weeks."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "玉ねぎを新鮮に保つ保存方法：科学的保管ガイド",
+                "description": "公的安全基準に基づく玉ねぎの最適な保存温度、保管方法、保存期間をご確認ください。",
+                "authority": "<strong>農村振興庁(RDA) & 米国農務省(USDA) & FSA</strong>",
+                "intro": "玉ねぎをネットごと買ってきてベランダの隅に積み重ねておいたら、玉ねぎ同士が触れ合う部分から汁が出て柔らかくなり、芽が出て捨ててしまった経験はありませんか？🧅\n\n玉ねぎは収穫後も呼吸をしながら湿度を調整しようとする球根野菜です。湿気がこもったり常温多湿な環境に放置すると、灰色カビ病や軟腐病菌が繁殖しやすくなります。特にジャガイモと一緒に置くと、お互いの水分とエチレンガスで腐敗が爆発的に進みます。\n\n本日FreshSnapでは、農村振興庁（RDA）および米国農務省（USDA）のガイドラインに基づき、水分とガスを完璧にコントロールして1ヶ月以上シャキシャキした固さを保つ3段階の科学的保存法をご紹介します。🛡️",
+                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+                "guideTitle": "科学的に検証された保存ガイド",
+                "cautionTitle": "保存時の必須ルールと注意事項",
+                "tags": [
+                    "玉ねぎ",
+                    "科学的に検証された保存ガイド",
+                    "vegetable"
+                ],
+                "cautions": [
+                    {
+                        "title": "水気が残ったままポリ袋等で密閉放置しないでください 💧",
+                        "desc": "水気のついた玉ねぎをポリ袋や密閉容器に入れて常温に放置すると、内部に湿気がこもって1日で表面が柔らかくなり白いカビが繁殖します。皮付きの玉ねぎは必ず乾燥した風通しの良い環境を維持してください。"
+                    },
+                    {
+                        "title": "傷ついた玉ねぎや柔らかい玉ねぎはすぐに選別して取り除いてください 🧅",
+                        "desc": "腐ったり傷が入った玉ねぎは、周囲の正常な玉ねぎの数十倍の腐敗ガスと水分を放出します。ネット保存時は定期的にチェックし、傷んだものはすぐに取り除いて先に調理に使用してください。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "皮付きのまま風通しの良い涼しい場所に吊るして保存する — 常温保存 (30日間) 🌬️",
+                        "text": "皮付きの玉ねぎは、直射日光の当たらない日陰で風通しの良い涼しい場所（10〜15℃）が最適です。💡保存のコツ：ネットやストッキングに玉ねぎを1個ずつ入れ、玉ねぎの間に結び目を作って吊るしてください。玉ねぎ同士が直接触れ合わず、圧迫による軟化や腐敗を完璧に防止できます。"
+                    },
+                    {
+                        "name": "むき玉ねぎは水気を拭き取りラップで1個ずつ密閉する — 冷蔵保存 (14〜21日間) 📦",
+                        "text": "皮をむいた玉ねぎは保護膜が失われているため、酸素や湿気に触れると傷みが早まります。💡保存のコツ：洗ったむき玉ねぎの表面の水分をペーパータオルで100%完全に拭き取った後、1個ずつ食品用ラップで隙間なく包んで冷蔵庫の野菜室（0〜4℃）で保存してください。酸素接触を遮断し、2週間以上硬く新鮮な状態を維持できます。"
+                    },
+                    {
+                        "name": "ジャガイモと絶対に隔離して保存する — 相互腐敗と発芽の防止 🛡️",
+                        "text": "玉ねぎとジャガイモは保存時に絶対に一緒にしてはいけない代表的な相性の悪い食材です。💡保存のコツ：玉ねぎが放出する水分とエチレンガスをジャガイモが吸収すると芽が出て柔らかくなり、逆にジャガイモの水分は玉ねぎを腐らせます。必ず場所を分けて別々に保存してください。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "玉ねぎをジャガイモと一緒に保存してはいけない科学的な理由は何ですか？",
+                        "answer": "玉ねぎは保存中に多くの水分とエチレンガスを放出します。ジャガイモがこの水分とエチレンを吸収すると、有毒物質であるソラニンを含む芽が急速に伸び、組織が柔らかくなります。同時にジャガイモから出る水分も玉ねぎを腐らせるため、相互に腐敗を早めてしまいます。物理的に完全に離して保存してください。"
+                    },
+                    {
+                        "question": "むき玉ねぎを傷ませずに最も長く新鮮に保存するコツは何ですか？",
+                        "answer": "皮をむいて水洗いした場合は、ペーパータオルで表面の水分を完全に拭き取ることが重要です。その後、食品用ラップで空気が入らないよう1個ずつぴったり包み、密閉容器やジッパーバッグに入れて冷蔵庫（0〜4℃）で保存すると、酸化と乾燥が防げて2〜3週間以上シャキシャキ感を保つことができます。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "如何保持洋葱新鲜：科学储存指南",
+                "description": "根据官方食品安全指南，了解洋葱的最佳储存温度、方式和保鲜时长。",
+                "authority": "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & FSA</strong>",
+                "intro": "您是否曾买回一整网袋洋葱堆在阳台角落，结果发现洋葱相互接触挤压的地方开始发软出水，甚至发芽腐烂？🧅\n\n洋葱是采收后仍会继续呼吸并调节湿度的鳞茎类蔬菜。如果积聚湿气或置于常温潮湿环境中，灰霉病菌与软腐病菌极易大量滋生。若与土豆放在一起，两者散发的水分与乙烯气体会相互刺激，引发爆发性腐烂。\n\n今天FreshSnap基于韩国农村振兴厅(RDA)和美国农务部(USDA)的指南，为您带来3步科学保存秘诀，帮您精准控干水分与气体，保持洋葱紧致饱满达1个月以上。🛡️",
+                "whyTitle": "为什么要这样储存？科学原理",
+                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+                "guideTitle": "科学验证的储存指南",
+                "cautionTitle": "储存必需规则及注意事项",
+                "tags": [
+                    "洋葱",
+                    "科学验证的储存指南",
+                    "vegetable"
+                ],
+                "cautions": [
+                    {
+                        "title": "带水湿润状态下切勿用塑料袋密封常温放置 💧",
+                        "desc": "将带有水汽的洋葱装入塑料袋或密封盒置于常温下，内部积聚的湿气会导致表皮在一天内发软，并滋生白霉。带皮洋葱必须保持干燥通风的环境。"
+                    },
+                    {
+                        "title": "发现破损或发软的洋葱请立即挑出隔离 🧅",
+                        "desc": "哪怕只有一颗洋葱开始腐烂或破损，其释放的变质气体与水分也是正常洋葱的数十倍。网袋储存时请定期检查，剔除破损洋葱切除坏处后优先烹饪。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "带皮悬挂在通风良好的阴凉处 — 常温保存 (30天) 🌬️",
+                        "text": "带皮洋葱最适宜保存在无阳光直射、通风干爽的阴凉处（10~15℃）。💡储存小贴士：将洋葱逐个装入网袋或干净丝袜中，在洋葱与洋葱之间打结分隔并悬挂起来。这样能防止洋葱直接接触挤压，彻底杜绝发软腐烂。"
+                    },
+                    {
+                        "name": "剥皮洋葱擦干水分后用保鲜膜单颗密封 — 冷藏保存 (14~21天) 📦",
+                        "text": "剥皮洋葱失去了外层保护膜，暴露于空气和湿度中会加速变软。💡储存小贴士：洗净的剥皮洋葱用厨房纸巾彻底擦干100%的表皮水分，再用食品级保鲜膜将单颗洋葱严密紧包裹，放入冰箱蔬菜保鲜抽屉（0~4℃）。隔绝氧气可保鲜长达2周以上。"
+                    },
+                    {
+                        "name": "与土豆彻底物理隔离 — 防止相互催熟与腐烂 🛡️",
+                        "text": "洋葱和土豆是储存时的“天敌”，切绝对不能混放。💡储存小贴士：土豆吸收洋葱释放的水分和乙烯气体会加速发芽（产生有毒龙葵素）变软；反之土豆散发的水汽也会导致洋葱发霉变烂。务必分开空间独立保存。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "洋葱不能和土豆放在一起保存的科学依据是什么？",
+                        "answer": "洋葱在储存期间会释放大量水分和催熟激素乙烯气体。当土豆吸收了洋葱的水分和乙烯后，会快速发芽（产生剧毒龙葵素）并软化。与此同时，土豆渗出的水汽也会导致洋葱变软发霉，引发相催腐烂，因此两者在空间上必须彻底隔离。"
+                    },
+                    {
+                        "question": "剥皮洋葱如何保存才能防软保鲜最久？",
+                        "answer": "剥皮清洗后的洋葱，关键在于用厨房纸巾将表皮水分擦得干干净净、不留一滴水。然后用食品级保鲜膜紧密贴合无缝包裹每一颗洋葱，装入密封盒放入冰箱冷藏室（0~4℃）。切断氧气与水分蒸发后，可保持清脆坚挺达2~3周以上。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cómo mantener las cebollas frescas: Guía científica de conservación",
+                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para las cebollas según las directrices oficiales de seguridad.",
+                "authority": "<strong>RDA & USDA & FSA</strong>",
+                "intro": "¿Alguna vez compró una red de cebollas, las amontonó en una esquina del balcón y descubrió que se ablandaban, se pudrían en los puntos de contacto y brotaban pocos días después? 🧅\n\nLa cebolla es una hortaliza de bulbo que continúa respirando y regulando la humedad tras la cosecha. Cuando se almacena en ambientes húmedos y cerrados, la pudrición del cuello por Botrytis y las bacterias se propagan velozmente. Además, guardar cebollas con papas provoca una absorción mutua de humedad y reacciones de etileno, echando a perder ambas hortalizas.\n\nHoy, FreshSnap comparte una guía científica en 3 pasos basada en investigaciones del USDA y la RDA para controlar la humedad y los gases, conservando cebollas firmes por más de un mes. 🛡️",
+                "whyTitle": "¿Por qué almacenarlas así? Datos científicos",
+                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+                "guideTitle": "Guía de almacenamiento científicamente probada",
+                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+                "tags": [
+                    "Cebolla",
+                    "Guía de almacenamiento científicamente probada",
+                    "vegetable"
+                ],
+                "cautions": [
+                    {
+                        "title": "Nunca selle cebollas con cáscara en bolsas de plástico húmedas 💧",
+                        "desc": "Encharcar cebollas sin pelar en bolsas de plástico o contenedores herméticos atrapa la humedad de la respiración, ablandando la piel y produciendo moho blanco en solo un día. Mantenga las cebollas enteras en un área seca y ventilada."
+                    },
+                    {
+                        "title": "Aísle de inmediato las cebollas magulladas o blandas 🧅",
+                        "desc": "Una cebolla golpeada o podrida emite decenas de veces más gases de descomposición y humedad que las cebollas sanas, pudriendo a las vecinas. Inspeccione periódicamente, retire las partes dañadas y utilícelas de inmediato."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Cuelgue las cebollas enteras en un lugar fresco y bien ventilado — Temp. Ambiente (30 días) 🌬️",
+                        "text": "Las cebollas con cáscara se conservan mejor en un espacio fresco, a la sombra y bien ventilado (10-15 °C). 💡 Consejo de almacenamiento: Coloque las cebollas individualmente en una red o medias de nylon, atando un nudo entre cada una antes de colgar. Esto evita que se toquen, eliminando rozaduras y pudrición."
+                    },
+                    {
+                        "name": "Seque bien las cebollas peladas y envuélvalas individualmente con film plástico — Refrigeración (14–21 días) 📦",
+                        "text": "Las cebollas peladas carecen de piel protectora, siendo muy vulnerables a la oxidación por oxígeno y al deterioro por humedad. 💡 Consejo de almacenamiento: Seque el 100% de la humedad superficial con toallas de papel, envuelva cada una apretadamente con film plástico y guárdelas en el cajón de verduras (0-4 °C) por más de 2 semanas."
+                    },
+                    {
+                        "name": "Aísle por completo de las papas — Evite el deterioro mutuo y los brotes 🛡️",
+                        "text": "Las cebollas y las papas son antagonistas de almacenamiento que nunca deben guardarse juntas. 💡 Consejo de almacenamiento: Las papas absorben la humedad y el gas etileno de las cebollas, brotando rápido. A su vez, la humedad de las papas ablanda las cebollas. Guárdelas en lugares separados."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Cuál es la razón científica para NUNCA almacenar cebollas junto con papas?",
+                        "answer": "Las cebollas liberan gran cantidad de humedad y gas etileno. Cuando las papas absorben esta humedad y etileno, brotan rápidamente (generando solanina tóxica) y se ablandan. Al mismo tiempo, la humedad de las papas pudre las cebollas y genera moho. Deben aislarse físicamente en zonas de almacenamiento separadas."
+                    },
+                    {
+                        "question": "¿Cuál es el mejor método para conservar cebollas peladas sin que se pongan blandas?",
+                        "answer": "Si ha lavado cebollas peladas, seque minuciosamente cada gota de agua superficial con toallas de papel. Envuelva cada cebolla individualmente con film plástico transparente sin dejar aire y colóquelas en un recipiente hermético en el refrigerador (0-4 °C). Bloquear el oxígeno y la pérdida de agua las mantiene crujientes por 2 a 3 semanas."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Comment conserver les oignons frais : Guide scientifique de conservation",
+                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les oignons selon les directives officielles de sécurité.",
+                "authority": "<strong>RDA & USDA & FSA</strong>",
+                "intro": "Avez-vous déjà acheté un filet d'oignons et les avez empilés dans un coin du balcon, pour les retrouver ramollis, pourris aux points de contact ou germés quelques jours plus tard ? 🧅\n\nL'oignon est un légume-bulbe qui continue de respirer et de réguler son humidité après la récolte. Conservé dans un milieu chaud et fermé, la pourriture du collet par Botrytis et les bactéries se développent vite. De plus, stocker les oignons à côté des pommes de terre provoque des réactions croisées d'humidité et d'éthylène qui gâtent les deux légumes.\n\nAujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes basé sur les recherches du USDA et de la RDA pour contrôler l'humidité et les gaz et garder des oignons fermes pendant plus d'un mois. 🛡️",
+                "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
+                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+                "guideTitle": "Guide de conservation scientifiquement prouvé",
+                "cautionTitle": "Règles essentielles et précautions de stockage",
+                "tags": [
+                    "Oignon",
+                    "Guide de conservation scientifiquement prouvé",
+                    "vegetable"
+                ],
+                "cautions": [
+                    {
+                        "title": "Ne scellez jamais d'oignons non pelés humides dans des sacs en plastique 💧",
+                        "desc": "Enfermer des oignons non pelés humides dans du plastique piège l'humidité de respiration, ramollissant la peau et créant de la moisissure blanche en 24 heures. Gardez les oignons entiers dans un endroit sec et aéré."
+                    },
+                    {
+                        "title": "Isolez immédiatement les oignons abîmés ou ramollis 🧅",
+                        "desc": "Un oignon fendu ou moisi dégage des dizaines de fois plus de gaz de décomposition et d'humidité que les oignons sains, faisant pourrir ses voisins. Triez-les souvent, coupez les parties abîmées et cuisinez-les de suite."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Suspendre les oignons entiers non pelés dans un endroit frais et aéré — Temp. Ambiante (30 jours) 🌬️",
+                        "text": "Les oignons non pelés se conservent idéalement à l'ombre dans un espace frais et ventilé (10-15 °C). 💡 Astuce de conservation : Glissez les oignons un par un dans un filet ou un bas propre en faisant un nœud entre chaque oignon avant de suspendre. Cela évite qu'ils ne se touchent et ne s'écrasent."
+                    },
+                    {
+                        "name": "Sécher les oignons pelés et les envelopper individuellement de film étirable — Réfrigération (14–21 jours) 📦",
+                        "text": "Les oignons pelés n'ont plus de peau protectrice, ce qui les rend très sensibles à l'oxydation et à l'humidité. 💡 Astuce de conservation : Séchez 100 % de l'eau en surface avec de l'essuie-tout, enveloppez chaque oignon fermement dans du film étirable et rangez au bac à légumes (0-4 °C) jusqu'à 3 semaines."
+                    },
+                    {
+                        "name": "Isoler totalement des pommes de terre — Éviter le pourrissement et la germination 🛡️",
+                        "text": "Les oignons et les pommes de terre ne doivent jamais être stockés ensemble. 💡 Astuce de conservation : Les pommes de terre absorbent l'humidité et l'éthylène dégagés par les oignons, ce qui les fait germer et ramollir. En retour, l'humidité des pommes de terre fait pourrir les oignons. Séparez-les dans des espaces distincts."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Quelle est la raison scientifique de ne JAMAIS conserver les oignons avec les pommes de terre ?",
+                        "answer": "Les oignons dégagent beaucoup d'humidité et d'éthylène pendant le stockage. Lorsque les pommes de terre absorbent cette humidité et cet éthylène, elles germent rapidement (en produisant de la solanine toxique) et se ramollissent. Dans le même temps, l'humidité des pommes de terre fait pourrir et moisir les oignons. Il faut les isoler dans des zones séparées."
+                    },
+                    {
+                        "question": "Quelle est la meilleure méthode pour conserver les oignons pelés sans qu'ils ne ramollissent ?",
+                        "answer": "Si vous avez lavé des oignons pelés, épongez soigneusement chaque goutte d'eau avec de l'essuie-tout. Enveloppez chaque oignon individuellement et très serré dans du film étirable sans bulles d'air, puis placez-les dans une boîte hermétique au réfrigérateur (0-4 °C). Bloquer l'oxygène préserve la fermeté pendant 2 à 3 semaines."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Zwiebeln richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Zwiebeln basierend auf offiziellen Sicherheitsrichtlinien.",
+                "authority": "<strong>RDA & USDA & FSA</strong>",
+                "intro": "Haben Sie schon einmal ein Netz Zwiebeln gekauft und in einer Balkonecke gestapelt, nur um festzustellen, dass sie an den Kontaktstellen weich wurden, verfaulten oder keimten? 🧅\n\nZwiebeln sind Zwiebelgemüse, die nach der Ernte weiter atmen und Feuchtigkeit regulieren. Bei warmer, feuchter Lagerung breiten sich Zwiebelweichfäule und Botrytis-Schimmel schnell aus. Die gemeinsame Lagerung mit Kartoffeln löst zudem gegenseitige Feuchtigkeits- und Ethylenreaktionen aus, die beide Gemüse verderben.\n\nHeute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Forschungen von USDA und RDA basiert, um Feuchtigkeit und Gase zu steuern und Ihre Zwiebeln über einen Monat lang knackig und fest zu halten. 🛡️",
+                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+                "tags": [
+                    "Zwiebel",
+                    "Wissenschaftlich geprüfter Lagerungsratgeber",
+                    "vegetable"
+                ],
+                "cautions": [
+                    {
+                        "title": "Ungeschälte Zwiebeln niemals feucht in Plastikbeuteln verschließen 💧",
+                        "desc": "Das Verschließen feuchter Zwiebeln in Plastikbeuteln oder luftdichten Dosen staut die Atmungsfeuchtigkeit, was innerhalb eines Tages zu Weichwerden und Weißschimmel führt. Ungeschälte Zwiebeln stets trocken und belüftet lagern."
+                    },
+                    {
+                        "title": "Beschädigte oder weiche Zwiebeln sofort aussortieren 🧅",
+                        "desc": "Eine angeschnittene oder faulige Zwiebel gibt um ein Vielfaches mehr Fäulnisgase und Feuchtigkeit ab als gesunde Zwiebeln, was Nachbarn ansteckt. Regelmäßig kontrollieren, beschädigte Stellen abschneiden und direkt verkochen."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Ungeschälte ganze Zwiebeln an einem kühlen, gut belüfteten Ort aufhängen — Raumtemperatur (30 Tage) 🌬️",
+                        "text": "Ungeschälte Zwiebeln lagern am besten an einem kühlen, schattigen und windigen Ort (10–15 °C). 💡 Lagerungstipp: Geben Sie Zwiebeln einzeln in ein Netz oder eine Strumpfhose und verknoten Sie den Zwischenraum vor dem Aufhängen. Dies verhindert Druckstellen und Weichfäule durch gegenseitigen Kontakt."
+                    },
+                    {
+                        "name": "Geschälte Zwiebeln gründlich trocknen und einzeln in Folie wickeln — Kühllagerung (14–21 Tage) 📦",
+                        "text": "Geschälten Zwiebeln fehlt die Schutzschicht, wodurch sie extrem anfällig für Sauerstoffoxidation und Feuchtigkeitsverderb sind. 💡 Lagerungstipp: Tupfen Sie Feuchtigkeit mit Küchenpapier zu 100 % ab, wickeln Sie jede Zwiebel eng in Frischhaltefolie und lagern Sie sie im Gemüsefach (0–4 °C)."
+                    },
+                    {
+                        "name": "Vollständig von Kartoffeln isolieren — Gegenseitigen Verderb & Keimen verhindern 🛡️",
+                        "text": "Zwiebeln und Kartoffeln sind Lagerungsgegner, die niemals zusammen aufbewahrt werden dürfen. 💡 Lagerungstipp: Kartoffeln nehmen Feuchtigkeit und Ethylengas der Zwiebeln auf, was schnelles Keimen und Erweichen auslöst. Umgekehrt lässt Kartoffelfeuchtigkeit Zwiebeln schimmeln. Getrennt lagern."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Was ist der wissenschaftliche Grund dafür, Zwiebeln NIEMALS zusammen mit Kartoffeln zu lagern?",
+                        "answer": "Zwiebeln geben während der Lagerung viel Feuchtigkeit und Ethylengas ab. Wenn Kartoffeln diese Feuchtigkeit und das Ethylen aufnehmen, keimen sie rasch (wobei giftiges Solanin entsteht) und werden weich. Gleichzeitig lässt die von Kartoffeln abgegebene Feuchtigkeit Zwiebeln faulen und schimmeln. Sie müssen räumlich strikt getrennt werden."
+                    },
+                    {
+                        "question": "Wie bewahrt man geschälte Zwiebeln am besten auf, ohne dass sie weich werden?",
+                        "answer": "Wenn geschälte Zwiebeln gewaschen wurden, trocknen Sie jeden Wassertropfen auf der Oberfläche gründlich mit Küchenpapier ab. Wickeln Sie jede Zwiebel einzeln luftdicht in Frischhaltefolie ein und legen Sie sie in einer Dose in den Kühlschrank (0–4 °C). Das Blockieren von Sauerstoff und Feuchtigkeitsverlust hält sie 2–3 Wochen knackig."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Como conservar cebolas frescas: Guia científico de armazenamento",
+                "description": "Descubra a temperatura, método e tempo de conservação ideais para cebolas com base em diretrizes oficiais de segurança.",
+                "authority": "<strong>RDA & USDA & FSA</strong>",
+                "intro": "Você já comprou um saco de rede de cebolas e empilhou no canto da varanda, apenas para descobrir que elas amoleceram, apodreceram nos pontos de contato e brotaram poucos dias depois? 🧅\n\nA cebola é uma hortaliça de bulbo que continua respirando e regulando a umidade após a colheita. Quando armazenada em ambientes úmidos e fechados, a podridão do colo por Botrytis e bactérias se espalham rapidamente. Além disso, guardar cebolas com batatas provoca absorção mútua de umidade e reações de etileno, estragando ambas.\n\nHoje, o FreshSnap apresenta um guia de conservação em 3 etapas baseado em pesquisas do USDA e da RDA para controlar a umidade e os gases, mantendo cebolas firmes por mais de um mês. 🛡️",
+                "whyTitle": "Por que armazenar assim? Fatos científicos",
+                "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+                "guideTitle": "Guia de armazenamento comprovado cientificamente",
+                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+                "tags": [
+                    "Cebola",
+                    "Guia de armazenamento comprovado cientificamente",
+                    "vegetable"
+                ],
+                "cautions": [
+                    {
+                        "title": "Nunca sele cebolas com casca em sacos plásticos úmidos 💧",
+                        "desc": "Guardar cebolas com casca e umidade presa em sacos plásticos ou potes herméticos reprime a umidade da respiração, amolecendo a casca e criando mofo branco em apenas um dia. Mantenha cebolas inteiras em local seco e ventilado."
+                    },
+                    {
+                        "title": "Isole imediatamente cebolas machucadas ou moles 🧅",
+                        "desc": "Uma cebola cortada ou podre emite dezenas de vezes mais gases de decomposição e umidade do que cebolas saudáveis, estragando as vizinhas. Inspecione periodicamente, corte as partes danificadas e use imediatamente."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Pendure as cebolas inteiras em local fresco e bem ventilado — Temp. Ambiente (30 dias) 🌬️",
+                        "text": "Cebolas com casca duram mais em um espaço fresco, à sombra e bem ventilado (10-15 °C). 💡 Dica de conservação: Coloque as cebolas individualmente em uma rede ou meia de nylon, dando um nó entre cada uma antes de pendurar. Isso evita o contato direto, eliminando amassados e podridão."
+                    },
+                    {
+                        "name": "Seque bem as cebolas descascadas e embrulhe individualmente em filme plástico — Refrigeração (14–21 dias) 📦",
+                        "text": "Cebolas descascadas não têm a casca protetora, ficando muito vulneráveis à oxidação e umidade. 💡 Dica de conservação: Seque 100% da umidade da superfície com papel-toalha, embrulhe cada uma firmemente com filme plástico e guarde na gaveta de legumes (0-4 °C) por mais de 2 semanas."
+                    },
+                    {
+                        "name": "Isole completamente das batatas — Evite o apodrecimento mútuo e brotos 🛡️",
+                        "text": "Cebolas e batatas são inimigas de armazenamento que nunca devem ser mantidas juntas. 💡 Dica de conservação: As batatas absorvem a umidade e o gás etileno das cebolas, brotando rápido. Por outro lado, a umidade das batatas amolece as cebolas. Guarde em locais separados."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Qual é a razão científica para NUNCA guardar cebolas junto com batatas?",
+                        "answer": "As cebolas liberam grande quantidade de umidade e gás etileno durante o armazenamento. Quando as batatas absorvem essa umidade e etileno, elas brotam rapidamente (produzindo solanina tóxica) e amolecem. Ao mesmo tempo, a umidade liberada pelas batatas faz as cebolas apodrecerem e mofarem. Elas devem ser isoladas em locais separados."
+                    },
+                    {
+                        "question": "Qual é o melhor método para guardar cebolas descascadas sem que amoleçam?",
+                        "answer": "Se você lavou cebolas descascadas, seque minuciosamente cada gota de água da superfície com papel-toalha. Embrulhe cada cebola individualmente e bem apertada em filme plástico transparente sem bolhas de ar e coloque em um pote hermético na geladeira (0-4 °C). Bloquear o oxigênio e a perda de água mantém a textura crocante por 2 a 3 semanas."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Cara Menyimpan Bawang Bombay agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk bawang bombay berdasarkan pedoman keselamatan resmi.",
+                "authority": "<strong>RDA & USDA & FSA</strong>",
+                "intro": "Pernahkah Anda membeli seikat bawang bombay dalam jaring lalu menumpuknya di sudut balkon, hanya untuk mendapatinya membusuk di titik kontak dan bertunas beberapa hari kemudian? 🧅\n\nBawang bombay adalah sayuran umbi yang terus bernapas dan mengatur kelembapan setelah dipanen. Saat disimpan di lingkungan yang lembap dan tertutup, pembusukan leher Botrytis dan bakteri busuk lunak berkembang dengan cepat. Selain itu, menyimpan bawang bombay bersama kentang memicu penyerapan kelembapan dan reaksi etilen ganda yang merusak kedua sayuran sekaligus.\n\nHari ini, FreshSnap membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan penelitian USDA dan RDA untuk mengontrol kelembapan dan gas, menjaga bawang bombay Anda tetap renyah dan kokoh selama lebih dari sebulan. 🛡️",
+                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+                "tags": [
+                    "Bawang bombay",
+                    "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                    "vegetable"
+                ],
+                "cautions": [
+                    {
+                        "title": "Jangan pernah menyegel bawang utuh berair dalam kantong plastik 💧",
+                        "desc": "Menyimpan bawang bombay yang lembap dalam kantong plastik atau wadah kedap udara akan memerangkap air respirasi, melunakkan kulit dan memicu jamur putih dalam sehari. Selalu simpan bawang utuh di area yang kering dan berventilasi."
+                    },
+                    {
+                        "title": "Segera pisahkan bawang bombay yang memar atau lembek 🧅",
+                        "desc": "Bawang yang luka atau membusuk melepaskan gas pembusukan dan kelembapan puluhan kali lebih banyak daripada bawang sehat, membusukkan bawang di sekitarnya. Periksa secara berkala, potong bagian yang rusak, dan segera gunakan."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Gantung bawang utuh di area sejuk dan berventilasi baik — Suhu Ruang (30 Hari) 🌬️",
+                        "text": "Bawang bombay utuh paling baik disimpan di tempat yang sejuk, teduh, dan berventilasi baik (10–15°C). 💡 Tips Penyimpanan: Masukkan bawang satu per satu ke dalam kantong jaring atau kaus kaki nilon bersih, ikat simpul di antara setiap bawang sebelum digantung. Ini mencegah kontak langsung antar-bawang, menghilangkan memar akibat tekanan."
+                    },
+                    {
+                        "name": "Keringkan bawang kupas hingga tuntas lalu bungkus rapat dengan plastik wrap — Simpan Dingin (14–21 Hari) 📦",
+                        "text": "Bawang kupas tidak memiliki kulit pelindung luar sehingga sangat rentan terhadap oksidasi dan pembusukan. 💡 Tips Penyimpanan: Lap 100% kelembapan permukaan dengan tisu dapur, bungkus setiap bawang secara rapat dengan plastik wrap untuk menghalangi oksigen, lalu simpan di laci sayuran kulkas (0–4°C) hingga 3 minggu."
+                    },
+                    {
+                        "name": "Pisahkan secara total dari kentang — Cegah Pembusukan Bersama & Tunas 🛡️",
+                        "text": "Bawang bombay dan kentang adalah musuh dalam penyimpanan yang tidak boleh disimpan bersama. 💡 Tips Penyimpanan: Kentang menyerap kelembapan dan gas etilen yang dilepaskan bawang, memicu pertumbuhan tunas dan pelunakan cepat. Sebaliknya, air dari kentang membuat bawang membusuk. Simpan di tempat terpisah."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Apa alasan ilmiah mengapa TIDAK boleh menyimpan bawang bombay bersama kentang?",
+                        "answer": "Bawang bombay melepaskan kelembapan dan gas etilen dalam jumlah tinggi selama penyimpanan. Saat kentang menyerap kelembapan dan etilen ini, kentang dengan cepat bertunas (menghasilkan racun solanin) dan menjadi lembek. Pada saat yang sama, kelembapan dari kentang membuat bawang bombay membusuk dan berjamur. Kedua bahan harus dipisahkan secara fisik."
+                    },
+                    {
+                        "question": "Apa metode terbaik untuk menyimpan bawang bombay kupas agar tidak menjadi lembek?",
+                        "answer": "Jika bawang kupas telah dicuci, lap setiap tetes air permukaan hingga benar-benar kering dengan tisu dapur. Bungkus setiap bawang secara rapat dan individual dengan plastik wrap tanpa ada celah udara, lalu masukkan ke dalam wadah kedap udara di kulkas (0–4°C). Menghalangi oksigen dan kehilangan air menjaga tekstur renyah selama 2–3 minggu."
+                    }
+                ]
+            }
+        }
     }
-  }
 }

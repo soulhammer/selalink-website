@@ -6,7 +6,7 @@ pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "FreshSelf"
 tags: ["ペットケア","ペット健康","オカメインコ (Nymphicus hollandicus / Cockatiel)"]
-heroImage: "/images/blog/cockatiel_care.png"
+heroImage: "/images/blog/cockatiel_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "鳥類獣医師協会 (AAV) および行動学アドバイザリー基準"

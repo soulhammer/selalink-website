@@ -6,7 +6,7 @@ pubDate: "2026-06-27"
 updatedDate: "2026-06-27"
 category: "FreshSelf"
 tags: ["PerawatanHewan","KesehatanHewan","Chinchilla (Chinchilla lanigera)"]
-heroImage: "/images/blog/chinchilla_care.png"
+heroImage: "/images/blog/chinchilla_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Pedoman Pemeliharaan Chinchilla Association of Exotic Mammal Veterinarians (AEMV) & Standar Klinis Kedokteran Gigi Hewan Pengerat"

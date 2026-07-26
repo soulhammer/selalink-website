@@ -6,7 +6,7 @@ pubDate: "2026-03-15"
 updatedDate: "2026-03-15"
 category: "FreshSelf"
 tags: ["ペットケア","ペット健康","コリアンショートヘア (Felis catus)"]
-heroImage: "/images/blog/koshort_care.png"
+heroImage: "/images/blog/koshort_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "コーネル猫健康センター(Cornell Feline Health Center)猫の行動学＆国立畜産科学院ガイド"

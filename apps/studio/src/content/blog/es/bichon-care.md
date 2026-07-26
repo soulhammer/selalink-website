@@ -6,7 +6,7 @@ pubDate: "2026-05-10"
 updatedDate: "2026-05-10"
 category: "FreshSelf"
 tags: ["CuidadoMascotas","SaludMascotas","Bichón Frisé (Bichon Frise)"]
-heroImage: "/images/blog/bichon_care.png"
+heroImage: "/images/blog/bichon_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Directrices del Bichon Frise Club of America y Estándares de Salud Veterinaria de la AVMA"

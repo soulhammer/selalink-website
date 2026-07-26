@@ -6,7 +6,7 @@ pubDate: "2026-03-08"
 updatedDate: "2026-03-09"
 category: "FreshSelf"
 tags: ["PerawatanHewan","KesehatanHewan","British Shorthair (British Shorthair)"]
-heroImage: "/images/blog/bshorthair_care.png"
+heroImage: "/images/blog/bshorthair_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Standar Ras GCCF untuk British Shorthair & Pedoman Obesitas Feline AAFP"

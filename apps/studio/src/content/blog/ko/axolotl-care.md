@@ -6,7 +6,7 @@ pubDate: "2026-06-01"
 updatedDate: "2026-06-01"
 category: "FreshSelf"
 tags: ["반려동물","펫케어","우파루파 / 아홀로틀 (Axolotl)"]
-heroImage: "/images/blog/axolotl_care.png"
+heroImage: "/images/blog/axolotl_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "International Amphibian Husbandry & Amphibian Ark Veterinary Care Protocol"

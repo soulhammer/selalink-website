@@ -6,7 +6,7 @@ pubDate: "2026-01-05"
 updatedDate: "2026-01-05"
 category: "FreshSelf"
 tags: ["CuidadoMascotas","SaludMascotas","Pomerania (Canis lupus familiaris / Pomeranian)"]
-heroImage: "/images/blog/pomeranian_care.png"
+heroImage: "/images/blog/pomeranian_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Guía Oficial de Razas del American Pomeranian Club y Manual Veterinario de la AVMA"

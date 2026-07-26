@@ -6,7 +6,7 @@ pubDate: "2026-06-05"
 updatedDate: "2026-06-05"
 category: "FreshSelf"
 tags: ["CuidadoPets","SaudePets","Gato Persa (Felis catus / Persian Cat)"]
-heroImage: "/images/blog/persian_care.png"
+heroImage: "/images/blog/persian_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Diretrizes da CFA para Gatos Persas e Padrões Veterinários de Felinos da AAFP"

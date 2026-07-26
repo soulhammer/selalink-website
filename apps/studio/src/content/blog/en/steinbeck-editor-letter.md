@@ -28,7 +28,7 @@ John Steinbeck (1902–1968), Nobel Prize and Pulitzer Prize-winning author of m
 
 To neutralize this creative dread, Steinbeck devised a unique warm-up ritual: before writing his novel, he wrote casual daily letters to his friend and editor, Pascal Covici, describing mundane details like yesterday's weather, breakfast, or joint pain. This non-evaluative free writing signaled to his amygdala that there was no danger, disarming perfectionism.
 
-In this post, we examine how Steinbeck's letter routine calms fear responses in the brain and present a 3-step practical framework to overcome procrastination and transition smoothly into deep work.
+In this post, we examine how Steinbeck's letter routine calms fearin the brain and present a 3-step practical framework to overcome procrastination and transition smoothly into deep work.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

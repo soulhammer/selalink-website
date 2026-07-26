@@ -6,7 +6,7 @@ pubDate: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "FreshSelf"
 tags: ["반려동물","펫케어","레오파드 게코 (Eublepharis macularius)"]
-heroImage: "/images/blog/leopard_gecko_care.png"
+heroImage: "/images/blog/leopard_gecko_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "양서파충류 수의학회(ARAV) 사육 가이드라인 및 파충류 임상 표준"

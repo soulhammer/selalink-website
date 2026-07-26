@@ -6,7 +6,7 @@ pubDate: "2026-02-19"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
 tags: ["宠物护理","宠物健康","暹罗猫 (Siamese)"]
-heroImage: "/images/blog/siamese_care.png"
+heroImage: "/images/blog/siamese_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "爱猫者协会 (CFA) 官方指南与 AAFP 猫咪行为协议"

@@ -6,7 +6,7 @@ pubDate: "2026-05-21"
 updatedDate: "2026-05-21"
 category: "FreshSelf"
 tags: ["PerawatanHewan","KesehatanHewan","Landak Mini Afrika (Atelerix albiventris / African Pygmy Hedgehog)"]
-heroImage: "/images/blog/pygmy_hedgehog_care.png"
+heroImage: "/images/blog/pygmy_hedgehog_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Panduan Hedgehog Welfare Society dan Protokol Kedokteran Hewan Eksotis"

@@ -6,7 +6,7 @@ pubDate: "2026-01-20"
 updatedDate: "2026-01-22"
 category: "FreshSelf"
 tags: ["PerawatanHewan","KesehatanHewan","Maltese (Canis lupus familiaris)"]
-heroImage: "/images/blog/maltese_care.png"
+heroImage: "/images/blog/maltese_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Panduan Ras Resmi American Kennel Club (AKC) & Protokol Perilaku IAABC"

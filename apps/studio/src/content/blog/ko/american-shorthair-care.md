@@ -6,7 +6,7 @@ pubDate: "2026-03-02"
 updatedDate: "2026-03-02"
 category: "FreshSelf"
 tags: ["반려동물","펫케어","아메리칸 쇼트헤어 (American Shorthair)"]
-heroImage: "/images/blog/american_shorthair_care.png"
+heroImage: "/images/blog/american_shorthair_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "CFA(국제고양이애호가협회) 아메리칸 쇼트헤어 품종 표준 및 코넬 고양이 건강 센터 연구"

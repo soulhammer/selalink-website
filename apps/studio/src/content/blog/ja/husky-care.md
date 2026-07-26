@@ -6,7 +6,7 @@ pubDate: "2026-03-29"
 updatedDate: "2026-03-30"
 category: "FreshSelf"
 tags: ["ペットケア","ペット健康","シベリアンハスキー (Canis lupus familiaris)"]
-heroImage: "/images/blog/husky_care.png"
+heroImage: "/images/blog/husky_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "シベリアンハスキークラブオブアメリカ公式ガイド＆IAABC作業犬活動プロトコル"

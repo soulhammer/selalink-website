@@ -6,7 +6,7 @@ pubDate: "2026-04-20"
 updatedDate: "2026-04-20"
 category: "FreshSelf"
 tags: ["PetCare","PetHealth","Maine Coon (Felis catus)"]
-heroImage: "/images/blog/maine_coon_care.png"
+heroImage: "/images/blog/maine_coon_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Maine Coon Breeders & Fanciers Association (MCBFA) Guidelines & AAFP Large Feline Management Protocols"

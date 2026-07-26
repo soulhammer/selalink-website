@@ -6,7 +6,7 @@ pubDate: "2026-01-05"
 updatedDate: "2026-01-05"
 category: "FreshSelf"
 tags: ["SoinAnimaux","SanteAnimaux","Loulou de Poméranie (Canis lupus familiaris / Pomeranian)"]
-heroImage: "/images/blog/pomeranian_care.png"
+heroImage: "/images/blog/pomeranian_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Guide Officiel de Race de l'American Pomeranian Club et Manuel Vétérinaire de l'AVMA"

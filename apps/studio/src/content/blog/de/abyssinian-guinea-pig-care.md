@@ -6,7 +6,7 @@ pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "FreshSelf"
 tags: ["Haustierpflege","Haustiergesundheit","Abessinier-Meerschweinchen"]
-heroImage: "/images/blog/abyssinian_guinea_pig_care.png"
+heroImage: "/images/blog/abyssinian_guinea_pig_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Richtlinien zur Haltung von Nagetieren der RSPCA und tierärztliche klinische Standards für Kleintiere"

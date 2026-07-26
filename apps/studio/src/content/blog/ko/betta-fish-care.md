@@ -6,7 +6,7 @@ pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
 category: "FreshSelf"
 tags: ["반려동물","펫케어","베타 피쉬 (Betta splendens / 샴 싸움고기)"]
-heroImage: "/images/blog/betta_fish_care.png"
+heroImage: "/images/blog/betta_fish_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "양서파충류 및 수생동물 수의학 기준 (WSAVA 수생동물 건강 가이드라인 및 관상어 임상 표준)"

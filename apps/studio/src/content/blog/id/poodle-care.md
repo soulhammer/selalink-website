@@ -6,7 +6,7 @@ pubDate: "2026-01-26"
 updatedDate: "2026-01-26"
 category: "FreshSelf"
 tags: ["PerawatanHewan","KesehatanHewan","Poodle (Canis lupus familiaris)"]
-heroImage: "/images/blog/poodle_care.png"
+heroImage: "/images/blog/poodle_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Panduan Ras Resmi American Kennel Club (AKC) & Protokol Perilaku IAABC"

@@ -6,7 +6,7 @@ pubDate: "2026-06-22"
 updatedDate: "2026-06-22"
 category: "FreshSnap"
 tags: ["ConservacaoAlimentos","ArmazenamentoFresco","milk"]
-heroImage: "/images/blog/milk_storage_hack.png"
+heroImage: "/images/blog/milk_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & USDA & FDA</strong>"

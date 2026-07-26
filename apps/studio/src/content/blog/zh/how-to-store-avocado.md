@@ -6,7 +6,7 @@ pubDate: "2026-02-07"
 updatedDate: "2026-02-07"
 category: "FreshSnap"
 tags: ["食材保存","保鲜技巧","avocado"]
-heroImage: "/images/blog/avocado_storage_hack.png"
+heroImage: "/images/blog/avocado_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>CAC & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>"

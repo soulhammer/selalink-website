@@ -6,7 +6,7 @@ pubDate: "2026-01-16"
 updatedDate: "2026-01-16"
 category: "FreshSnap"
 tags: ["PenyimpananMakanan","PenyimpananSegar","onion"]
-heroImage: "/images/blog/onion_storage_hack.png"
+heroImage: "/images/blog/onion_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & USDA & FSA</strong>"

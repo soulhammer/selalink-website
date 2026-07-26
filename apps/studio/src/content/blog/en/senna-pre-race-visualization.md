@@ -90,7 +90,7 @@ This mental rehearsal enhances neural signaling efficiency, shortening muscle re
 
 ## 3. Simulate the Process, Not Just the Outcome
 
-A common mistake during mental simulation is imagining only the outcome (e.g., successful speech, winning). To activate the brain's motor cortex and eliminate errors, you must simulate the causal process details (e.g., specific opening phrases, exact responses to tough questions). Only process visualization yields neuroplastic priming benefits.
+A common mistake during mental simulation is imagining only the outcome (e.g., successful speech, winning). To activate the brain's motor cortex and eliminate errors, you must simulate the causal process details (e.g., specific opening phrases, exactto tough questions). Only process visualization yields neuroplastic priming benefits.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

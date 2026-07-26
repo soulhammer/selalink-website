@@ -1,516 +1,516 @@
 {
-  "scottish-fold-care": {
-    "pubDate": "2026-02-10",
-    "updatedDate": "2026-07-26",
-    "locales": {
-      "en": {
-        "title": "The Genetic Issue Behind the Cuteness: Scottish Fold Joint and Ear 3-Step Care",
-        "description": "Scottish Folds are loved for their adorable folded ears, but they are genetically prone to chronic joint pain and ear infections. Learn how to set up joint-protective mats and follow a 3-step daily routine for ear hygiene and mobility.",
-        "authority": "Official ISFM (International Society of Feline Medicine) Hereditary Cartilage Protocol & GCCF Breed Guidelines",
-        "profile": {
-          "breed": "Scottish Fold",
-          "lifespan": "11 ~ 15 years",
-          "sleep_pattern": "15 ~ 18 hours (cushioned impact-absorbing beds preferred)",
-          "temperament": "Easygoing, Sweet-tempered, Loving and Dependent"
+    "scottish-fold-care": {
+        "pubDate": "2026-02-10",
+        "updatedDate": "2026-07-26",
+        "locales": {
+            "en": {
+                "title": "The Genetic Issue Behind the Cuteness: Scottish Fold Joint and Ear 3-Step Care",
+                "description": "Scottish Folds are loved for their adorable folded ears, but they are genetically prone to chronic joint pain and ear infections. Learn how to set up joint-protective mats and follow a 3-step daily routine for ear hygiene and mobility.",
+                "authority": "Official ISFM (International Society of Feline Medicine) Hereditary Cartilage Protocol & GCCF Breed Guidelines",
+                "profile": {
+                    "breed": "Scottish Fold",
+                    "lifespan": "11 ~ 15 years",
+                    "sleep_pattern": "15 ~ 18 hours (cushioned impact-absorbing beds preferred)",
+                    "temperament": "Easygoing, Sweet-tempered, Loving and Dependent"
+                },
+                "intro": "Scottish Folds capture hearts worldwide with their forward-folded ears, round eyes, and owl-like or bear-like appearance. They possess a quiet, sweet, and gentle nature, enjoying peaceful companionship right by their owner's side. 🐈\n\nHowever, behind the charm of their folded ears lies a serious genetic condition called Osteochondrodysplasia (hereditary cartilage disease). The same gene responsible for folding their ear cartilage also affects bone and cartilage development throughout their body, leading to joint stiffness and chronic pain in their limbs and tail. Furthermore, because their folded ears restrict natural airflow, moisture and debris build up easily, making them highly susceptible to chronic ear mites and otitis externa (ear infections).\n\nToday, PetSelf decodes the physical signals Scottish Folds display when experiencing pain and outlines a tailored 3-step care routine to minimize joint impact and maintain optimal ear hygiene.",
+                "whyTitle": "Fold Body Language: Buddha Position and Tucking the Tail",
+                "whyDesc": "Scottish Folds use unique postures to manage genetic bone and joint pain. The two most prominent warning signals are the 'Buddha position' and 'tail lowering or tucking'. Sitting upright on their buttocks with their spine against a surface and legs extended forward (Buddha position) is not a cute trick; it is an instinctive resting posture designed to disperse their body weight and relieve severe pressure from stiff hocks and leg joints. Lowering their tail or tucking it tightly between their hind legs signals that the caudal vertebrae are stiffening or painful. When you observe these behaviors, avoid touching their tail, lower back, or hips.",
+                "body_signals": [
+                    {
+                        "name": "Buddha Position",
+                        "meaning": "An instinctive posture assumed to disperse body weight pressure and alleviate joint pain caused by genetic cartilage disease.",
+                        "response": "Do not force them to change posture. Place a soft cushion behind their back to support their resting position comfortably."
+                    },
+                    {
+                        "name": "Tail Lowering / Tucking",
+                        "meaning": "A defensive reaction indicating stiffness or pain in the tail vertebrae, rejecting physical contact on the lower spine.",
+                        "response": "Immediately stop touching their tail and lower back, and gently guide them to a comfortable, padded mat."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Gait Monitoring and Cartilage Support Supplements",
+                        "text": "Observe their gait for 30 seconds as they wake up to check for limping or morning stiffness. Administer cartilage-supporting supplements (glucosamine, chondroitin, MSM, or Omega-3s) mixed into their morning meal."
+                    },
+                    {
+                        "name": "Afternoon: Ear Canal Inspection and Weekly Aeration Cleaning",
+                        "text": "Folded ears trap humidity and lack natural airflow. Never use cotton swabs inside the ear canal. Apply a few drops of specialized feline ear cleaner into the canal, gently massage the base of the ear, allow the cat to shake its head, and wipe away loosened debris from the outer ear entrance with a clean cotton pad."
+                    },
+                    {
+                        "name": "Evening: Impact-Absorbing Floor Mats and Low-Impact Play",
+                        "text": "Jumping down from cat trees or furniture creates harsh impact forces on stiffened cartilage. Install anti-slip, shock-absorbing mats along their landing paths, and engage in low-intensity ground play that avoids high jumps or sharp twists."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Is the Scottish Fold's human-like 'Buddha position' a sign of pain?",
+                        "answer": "Yes, absolutely. Sitting upright on their buttocks with legs extended forward is an instinctive response to disperse body weight away from their inflamed leg and ankle joints, relieving severe osteochondrodysplasia pain."
+                    },
+                    {
+                        "question": "Why shouldn't I use cotton swabs to clean a Scottish Fold's ears?",
+                        "answer": "Because of their folded structure, the ear canal is narrow and curved. Inserting cotton swabs pushes wax and debris deeper into the canal and can scratch the delicate skin lining, causing severe bacterial or yeast ear infections (otitis externa)."
+                    }
+                ],
+                "tags": [
+                    "Scottish Fold",
+                    "Osteochondrodysplasia",
+                    "Ear Cleaning",
+                    "Cat Joint Care"
+                ]
+            },
+            "ja": {
+                "title": "愛らしさの裏に隠された遺伝病、スコティッシュフォールドの関節と耳の3段階ケア",
+                "description": "折れ耳が愛らしいスコティッシュフォールド。しかし、生涯にわたり遺伝性の軟骨痛と耳の感染症リスクに晒されます。関節保護マットの設定と耳の衛生のための3段階ルーティンを紹介します。",
+                "authority": "ISFM(国際猫医学会)遺伝性軟骨疾患ガイドライン＆GCCF犬種基準",
+                "profile": {
+                    "breed": "スコティッシュフォールド",
+                    "lifespan": "11 ~ 15年",
+                    "sleep_pattern": "15 ~ 18時間（衝撃吸収クッションマット推奨）",
+                    "temperament": "のんびり、優しく、甘えん坊"
+                },
+                "intro": "スコティッシュフォールド(Scottish Fold)は、前方にちょこんと折れた耳と丸い大きな瞳で、フクロウや小熊のような愛らしさを持つ人気の猫です。穏やかで優しい性格をしており、飼い主のそばで静かに寄り添うことを好む素晴らしい伴侶です。🐈\n\nしかし、この折れ耳の遺伝子は、骨や軟骨の形成に障害をもたらす「骨軟骨異形成症」という重篤な遺伝性疾患を引き起こす要因でもあります。耳の軟骨だけでなく全身の骨や関節に影響を及ぼし、四肢や尻尾の軟骨が硬化して生涯にわたり慢性的な痛みを伴うケースが多いです。また、折れた耳の構造上、耳内部の通気性が悪く湿気がこもりやすいため、耳ダニや外耳炎などのトラブルが慢性化しやすい傾向にあります。\n\n本日、PetSelfではスコティッシュフォールドが痛みのサインとして示す特有のポーズを解読し、関節への衝撃を最小限に抑えつつ耳の衛生を維持する3段階のケアを紹介します。",
+                "whyTitle": "フォールドのボディランゲージ：ブッダポーズと尻尾を隠すしぐさ",
+                "whyDesc": "スコティッシュフォールドは、遺伝的な骨・関節痛に耐えるため、特有の姿勢をとります。最も顕著なサインは「ブッダポーズ（お釈迦様座り）」と「尻尾を下げる・隠すしぐさ」です。腰を地面につけて背中を丸め、足を前に伸ばして座る姿勢は、可愛さのアピールではなく、脊椎や四肢にかかる体重の圧力を分散させて痛みを和らげるための本能的な休息姿勢です。また、尻尾を低く下げて後ろ足の間に隠す動作は、尻尾の軟骨痛や関節の硬化が始まっている合図です。この時は腰周りや尻尾に触れるのを控えましょう。",
+                "body_signals": [
+                    {
+                        "name": "ブッダポーズ (Buddha Position)",
+                        "meaning": "体重の負荷を分散させ、遺伝性軟骨疾患による関節痛を和らげようとする本能的な姿勢です。",
+                        "response": "無理に体勢を変えようとせず、寄りかかっている背後に柔らかいクッションを置いてサポートしてください。"
+                    },
+                    {
+                        "name": "尻尾を下げる・隠すしぐさ (Tail Lowering)",
+                        "meaning": "尻尾の軟骨が硬直して痛みがあるため、触られるのを嫌がっている防衛シグナルです。",
+                        "response": "尻尾や腰付近のタッチをすぐにやめ、リラックスできるクッションやマットへ誘導してください。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：歩き方の観察と関節・軟骨の栄養補給",
+                        "text": "起床時の歩き方に異常やこわばりがないか30秒間注意深く観察し、軟骨成分をサポートするサプリメント（グルコサミン、コンドロイチン、MSM、オメガ3など）をフードに混ぜて与えます。"
+                    },
+                    {
+                        "name": "昼：折れ耳内部の観察と週1回の耳掃除",
+                        "text": "折れ耳の中は通気が悪く湿気がこもりやすいです。耳道内への綿棒の使用は厳禁です。専用クリーナーを数滴注入して耳の付け根をマッサージし、猫が首を振った後、浮き出た汚れをコットンで優しく拭き取ります。"
+                    },
+                    {
+                        "name": "夜：キャットタワー下の衝撃吸収マット設置と低負担の遊び",
+                        "text": "キャットタワーや家具からの着地衝撃は、固まった軟骨に激しい痛みを引き起こします。動線に緩衝マットを配置し、おもちゃで遊ぶ際もジャンプや激しい捻転をさせない床上の低い位置で遊ばせます。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "スコティッシュフォールドの「ブッダポーズ」は痛みのサインなのですか？",
+                        "answer": "はい、その通りです。お尻をつけて足を前に伸ばす姿勢は、脚や足首の関節にかかる体重の圧力を逃がし、骨軟骨炎による痛みを緩和するために本能的に行う保護姿勢です。"
+                    },
+                    {
+                        "question": "フォールドの折れ耳の掃除に綿棒を使ってはいけない理由は何ですか？",
+                        "answer": "折れ耳は耳道が狭く曲がっているため、綿棒を使うと汚れを奥へ押し込んでしまい、デリケートな耳の皮膚膜を傷つけて細菌性や真菌性の外耳炎を引き起こす恐れがあるからです。"
+                    }
+                ],
+                "tags": [
+                    "スコティッシュフォールド",
+                    "骨軟骨異形成症",
+                    "耳掃除",
+                    "猫の関節ケア"
+                ]
+            },
+            "zh": {
+                "title": "可爱背后隐藏的遗传病？苏格兰折耳猫关节与耳部卫生3步日常护理",
+                "description": "折耳造型十分可爱的苏格兰折耳猫，一生都易受遗传性软骨痛与耳部感染风险的困扰。为您介绍防滑缓冲垫的布置以及维护耳部通气的3步日常护理惯例。",
+                "authority": "ISFM（国际猫科医学会）遗传性软骨疾病管理指南与 GCCF 折耳猫指南",
+                "profile": {
+                    "breed": "苏格兰折耳猫",
+                    "lifespan": "11 ~ 15年",
+                    "sleep_pattern": "15 ~ 18小时（偏好有减震支撑的睡垫）",
+                    "temperament": "温和、甜美、依恋家长"
+                },
+                "intro": "苏格兰折耳猫（Scottish Fold）凭借向前折叠的可爱双耳和又大又圆的眼睛，以类似猫头鹰或幼熊般的软萌造型捕获了全世界人的心。它们性格安静温和，喜欢静静地贴在家长身边，是十分甜美贴心的伴侣。🐈\n\n然而，在折耳这一魅力背后，隐藏着会导致骨骼与软骨发育障碍的致命遗传病——“骨软骨发育不良（Osteochondrodysplasia）”。导致耳软骨折叠的基因同时会影响全身的骨骼与软骨，使四肢和尾部软骨僵硬并伴随慢性剧痛。此外，折耳结构导致耳道内部极度缺乏通风，极易蓄积湿气和污垢，使耳螨和外耳道炎转为慢性疾病。\n\n今天，PetSelf 将为您解读折耳猫在感到疼痛时发出的特殊身体信号，并介绍一套能将关节冲击降至最低、同时彻底维护耳部卫生的3步定制护理惯例。",
+                "whyTitle": "折耳猫的身体语言：佛陀坐姿与夹紧尾巴",
+                "whyDesc": "苏格兰折耳猫在因骨骼与关节遗传病感到疼痛时，会使用非常独特的身体姿势来减轻痛苦。最明显的信号是“佛陀坐姿（Buddha Position）”和“夹紧/低垂尾巴（Tail Lowering）”。它们将屁股贴地、身体后倾、双腿向前伸直的坐姿，并不是在向家长撒娇，而是为了分散压在脊椎和腿部关节上的自身体重，以减轻痛苦的休息姿势。另外，将尾巴低垂甚至紧紧夹在两后肢之间，是尾椎骨关节开始出现僵硬或疼痛的警告。此时应避免触碰其尾部和臀部。",
+                "body_signals": [
+                    {
+                        "name": "佛陀坐姿 (Buddha Position)",
+                        "meaning": "为分散体重压力、减轻遗传性软骨疾病带来的关节疼痛而做出的本能调节姿势。",
+                        "response": "不要强行纠正其坐姿，在猫咪依靠处后方塞入柔软的靠垫以帮助其放松支撑。"
+                    },
+                    {
+                        "name": "夹紧/低垂尾巴 (Tail Lowering)",
+                        "meaning": "尾部软骨出现僵硬或疼痛，拒绝被触碰的自我防卫信号。",
+                        "response": "立即停止抚摸尾巴和臀部附近，引导其移动到可放松的舒适垫子上。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早晨：步态观察与强化关节营养供给",
+                        "text": "在猫咪起床行走时，仔细观察30秒确认有无跛行或僵硬，并将有助于软骨成分的营养品（氨基葡萄糖、软骨素、MSM、Omega-3）混入饲料中，在早晨喂食。"
+                    },
+                    {
+                        "name": "中午：折耳内部精密检查与每周一次通风清理",
+                        "text": "折耳内部因无法通风极易潮湿。切勿在耳道内使用棉签。滴入数滴专用洗耳液并温柔按摩耳根，待猫咪甩头后，仅用棉球将排出的脏污擦净，保持内部干燥。"
+                    },
+                    {
+                        "name": "晚上：猫爬架下方 落差冲击吸收垫铺设与游戏控制",
+                        "text": "从猫爬架或沙发跳下时的冲击力会给已僵硬的软骨带来巨大痛苦。应在落地动线上铺设缓冲垫，玩耍时避免跳跃或过度扭转的动作，进行低强度地面游戏。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "折耳猫像人一样坐着的“佛陀坐姿”很可爱，但这真的是疼痛的信号吗？",
+                        "answer": "是的，确实如此。臀部着地、双腿向前伸直的坐姿，是折耳猫为了分散压在四肢和踝关节上的身体重量、从而缓解骨软骨炎性疼痛而做出的本能性保护姿势。"
+                    },
+                    {
+                        "question": "清理折耳猫的折叠耳内部时，为什么不能使用棉签？",
+                        "answer": "折耳结构导致耳道入口狭窄且弯曲，使用棉签极易将耳垢推入耳道深处，并可能划伤脆弱的耳内皮肤，从而引发严重的细菌或真菌性外耳道炎。"
+                    }
+                ],
+                "tags": [
+                    "苏格兰折耳猫",
+                    "骨软骨发育不良",
+                    "洗耳清洁",
+                    "猫咪关节护理"
+                ]
+            },
+            "es": {
+                "title": "El problema genético detrás de la ternura: Cuidado de 3 pasos para las articulaciones y oídos del Scottish Fold",
+                "description": "Los Scottish Folds son famosos por sus orejas caídas, pero son genéticamente propensos a dolor articular crónico e infecciones de oído. Descubra cómo usar alfombras protectoras y una rutina de 3 pasos para su higiene articular y auditiva.",
+                "authority": "Protocolo de cartílago hereditario de la ISFM (International Society of Feline Medicine) y directrices de GCCF",
+                "profile": {
+                    "breed": "Scottish Fold",
+                    "lifespan": "11 ~ 15 años",
+                    "sleep_pattern": "15 ~ 18 horas (prefiere camas amortiguadoras de impacto)",
+                    "temperament": "Tranquilo, Dulce, Cariñoso y Dependiente"
+                },
+                "intro": "Los Scottish Folds cautivan corazones en todo el mundo con sus orejas dobladas y apariencia de búho o pequeño oso. Tienen una naturaleza dulce, silenciosa y afable, disfrutando de la compañía tranquila al lado de sus dueños. 🐈\n\nSin embargo, detrás del encanto de sus orejas dobladas se encuentra una grave enfermedad genética llamada Osteocondrodisplasia (enfermedad hereditaria del cartílago). El mismo gen responsable del pliegue en las orejas afecta el desarrollo de los huesos y cartílagos de todo el cuerpo, provocando rigidez articular y dolor crónico en patas y cola. Además, debido a que sus orejas dobladas bloquean el flujo de aire natural, la humedad y suciedad se acumulan fácilmente, volviéndolos propensos a ácaros y otitis externa crónica.\n\nHoy, PetSelf decodifica las señales físicas de dolor del Scottish Fold e introduce una rutina de cuidados de 3 pasos para reducir el impacto en las articulaciones y mantener la higiene auditiva.",
+                "whyTitle": "Lenguaje corporal del Fold: Posición de Buda y cola oculta",
+                "whyDesc": "Los Scottish Folds usan posturas únicas para responder al dolor articular genético. Las dos señales más evidentes son la 'posición de Buda' y la 'cola oculta o caíada'. Sentarse apoyando la cadera con la espalda reclinada y las patas estiradas hacia adelante (posición de Buda) no es un truco tierno; es una postura instintiva para dispersar el peso corporal y aliviar la presión sobre las articulaciones rígidas. Ocultar la cola o mantenerla baja advierte que las vértebras caudales sufren dolor o rigidez. Evite tocar su columna lumbar o cola cuando observe estas actitudes.",
+                "body_signals": [
+                    {
+                        "name": "Posición de Buda",
+                        "meaning": "Una postura instintiva para dispersar el peso corporal y reducir el dolor articular causado por la enfermedad hereditaria del cartílago.",
+                        "response": "No les obligue a cambiar de postura. Coloque un cojín suave detrás para apoyar su espalda cómodamente."
+                    },
+                    {
+                        "name": "Cola oculta o caída",
+                        "meaning": "Una señal defensiva que muestra que las articulaciones de la cola están rígidas o doloridas, rechazando el contacto físico.",
+                        "response": "Deje de tocar la cola o la espalda baja inmediatamente y guíelo suavemente hacia un cojín cómodo."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Análisis de marcha y suplementos de cartílago",
+                        "text": "Observe su marcha durante 30 segundos al despertar para detectar cojera o rigidez matutina. Administre suplementos para las articulaciones (glucosamina, condroitina, MSM, Omega-3) con su comida de la mañana."
+                    },
+                    {
+                        "name": "Tarde: Inspección del canal auditivo y limpieza semanal",
+                        "text": "Las orejas dobladas acumulan humedad por falta de ventilación. Nunca use bastoncillos de algodón dentro del canal. Aplique gotas de limpiador auricular felino, masajee suavemente la base, deje que la mascota sacuda la cabeza y limpie los residuos externos con una torunda de algodón."
+                    },
+                    {
+                        "name": "Noche: Alfombras amortiguadoras de impacto y juego moderado",
+                        "text": "Saltar desde alturas causa un fuerte impacto en el cartílago rígido. Coloque alfombras amortiguadoras en sus zonas de aterrizaje y realice juegos a ras de suelo sin saltos ni giros bruscos."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿La 'posición de Buda' de un Scottish Fold es señal de dolor?",
+                        "answer": "Sí, absolutamente. Sentarse sobre los glúteos con las patas extendidas es una respuesta instintiva para dispersar el peso corporal, aliviando la presión y dolor en las articulaciones rígidas de las patas y tobillos."
+                    },
+                    {
+                        "question": "¿Por qué no se deben usar bastoncillos para limpiar los oídos del Fold?",
+                        "answer": "Debido a su oreja doblada, el canal es estrecho y curvo. Los bastoncillos empujan la cera hacia adentro y pueden lesionar la sensible piel del oído, provocando otitis externa bacteriana o micótica."
+                    }
+                ],
+                "tags": [
+                    "Scottish Fold",
+                    "Osteocondrodisplasia",
+                    "Limpieza de Oídos",
+                    "Cuidado Articular Felino"
+                ]
+            },
+            "fr": {
+                "title": "Les problèmes génétiques derrière l'adoration : Routine en 3 étapes pour les articulations et les oreilles du Scottish Fold",
+                "description": "Célèbre pour ses oreilles pliées, le Scottish Fold est génétiquement sujet à des douleurs articulaires chroniques et des otites. Découvrez comment installer des tapis amortisseurs et suivre une routine en 3 étapes pour son hygiène.",
+                "authority": "Protocole sur le cartilage héréditaire de l'ISFM (International Society of Feline Medicine) et directives de la GCCF",
+                "profile": {
+                    "breed": "Scottish Fold",
+                    "lifespan": "11 ~ 15 ans",
+                    "sleep_pattern": "15 ~ 18 heures (paniers rembourrés et amortissants préférés)",
+                    "temperament": "Calme, Doux, Affectueux et Attachant"
+                },
+                "intro": "Le Scottish Fold séduit les amoureux des chats du monde entier avec ses oreilles pliées vers l'avant, ses grands yeux ronds et son allure de chouette ou de petit ourson. Il possède un tempérament doux et calme, appréciant la compagnie paisible de son maître. 🐈\n\nCependant, derrière le charme de ses oreilles se cache une maladie génétique grave appelée Ostéochondrodysplasie (dégénérescence héréditaire du cartilage). Le gène responsable du pli de l'oreille affecte le développement osseux et cartilagineux de tout le corps, entraînant un raidissement des articulations et des douleurs chroniques aux membres et à la queue. De plus, la forme pliée de l'oreille empêche l'aération naturelle, favorisant l'accumulation d'humidité et l'apparition d'otites externes chroniques.\n\nAujourd'hui, PetSelf décode les signaux physiques de douleur du Scottish Fold et présente une routine de soins en 3 étapes pour limiter les impacts articulaires et préserver l'hygiène auriculaire.",
+                "whyTitle": "Langage corporel du Fold : Position du Bouddha et queue basse",
+                "whyDesc": "Le Scottish Fold adopte des postures uniques pour soulager ses douleurs articulaires génétiques. Les signaux les plus probants sont la 'position du Bouddha' et la 'queue basse ou cachée'. S'asseoir sur le bassin en appuyant son dos et en étendant ses pattes vers l'avant (position du Bouddha) n'est pas une fantaisie mignonne ; c'est une posture instinctive destinée à répartir la charge du corps et soulager la pression sur les articulations raides. Cacher ou baisser sa queue indique une raideur ou une douleur au niveau des vertèbres caudales. Évitez de toucher le bas du dos ou la queue dans ces moments-là.",
+                "body_signals": [
+                    {
+                        "name": "Position du Bouddha",
+                        "meaning": "Une posture instinctive adoptée pour répartir le poids du corps et réduire la douleur articulaire liée à la maladie héréditaire du cartilage.",
+                        "response": "Ne le forcez pas à changer de posture. Placez un coussin moelleux derrière son dos pour soutenir sa position sans contrainte."
+                    },
+                    {
+                        "name": "Queue basse ou cachée",
+                        "meaning": "Un signal défensif indiquant que les vertèbres de la queue sont raides ou douloureuses, rejetant tout contact physique.",
+                        "response": "Cessez immédiatement de toucher la queue ou le bas du dos, et guidez-le doucement vers un panier confortable."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Analyse de la démarche et suppléments pour le cartilage",
+                        "text": "Observez sa démarche pendant 30 secondes au réveil pour détecter toute boiterie ou raideur. Administrez des suppléments pour le cartilage (glucosamine, chondroïtine, MSM, Oméga-3) mélangés à son repas du matin."
+                    },
+                    {
+                        "name": "Après-midi : Inspection du conduit auditif et nettoyage hebdomadaire",
+                        "text": "Les oreilles pliées retiennent l'humidité faute d'aération. N'utilisez jamais de cotons-tiges dans le conduit. Appliquez quelques gouttes de nettoyant auriculaire félin, massez doucement la base de l'oreille, laissez le chat secouer la tête, puis essuyez les résidus externes avec une compresse ou un coton."
+                    },
+                    {
+                        "name": "Soir : Tapis amortisseurs sous les arbres à chat et jeu modéré",
+                        "text": "Sauter depuis un meuble provoque des chocs violents sur le cartilage fragilisé. Placez des tapis amortisseurs aux endroits d'atterrissage et privilégiez les jeux au sol sans sauts ni torsions brusques."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "La position assise du Scottish Fold ('position du Bouddha') est-elle un signe de douleur ?",
+                        "answer": "Oui, absolument. S'asseoir sur le bassin avec les pattes tendues est une réaction instinctive pour mieux répartir son poids, soulageant ainsi la pression et la douleur des articulations raides des pattes et des chevilles."
+                    },
+                    {
+                        "question": "Pourquoi ne faut-il pas utiliser de cotons-tiges pour nettoyer les oreilles d'un Fold ?",
+                        "answer": "En raison de la structure pliée, le conduit auditif est étroit et coudé. L'utilisation de cotons-tiges repousse le cérumen au fond et risque de blesser la peau fragile du conduit, entraînant de sévères otites bactériennes ou fongiques."
+                    }
+                ],
+                "tags": [
+                    "Scottish Fold",
+                    "Ostéochondrodysplasie",
+                    "Nettoyage des Oreilles",
+                    "Soins Articulaires Féllins"
+                ]
+            },
+            "de": {
+                "title": "Die genetische Bürde hinter der Niedlichkeit: Scottish Fold Gelenk- und Ohrenpflege in 3 Schritten",
+                "description": "Scottish Folds sind für ihre Faltohren geliebt, aber genetisch anfällig für chronische Gelenkschmerzen und Ohrentzündungen. Erfahren Sie, wie Sie dämpfende Matten einsetzen und eine 3-Schritte-Pflegeroutine anwenden.",
+                "authority": "Hereditäres Knorpelprotokoll der ISFM (International Society of Feline Medicine) und GCCF-Richtlinien",
+                "profile": {
+                    "breed": "Scottish Fold",
+                    "lifespan": "11 ~ 15 Jahre",
+                    "sleep_pattern": "15 ~ 18 Stunden (druckentlastende Kissenbetten bevorzugt)",
+                    "temperament": "Gelassen, Süß, Liebevoll und Anhänglich"
+                },
+                "intro": "Scottish Folds erobern weltweit Herzen mit ihren nach vorne gefalteten Ohren, großen runden Augen und ihrem eulen- oder bärenartigen Aussehen. Sie haben ein ruhiges, sanftmütiges Wesen und genießen die friedliche Gesellschaft an der Seite ihres Besitzers. 🐈\n\nBehind der Niedlichkeit ihrer Faltohren verbirgt sich jedoch eine schwere genetische Erkrankung namens Osteochondrodysplasie (erbliche Knorpelkrankheit). Das Gen, das für die Faltohren verantwortlich ist, beeinträchtigt die Knochen- und Knorpelentwicklung im gesamten Körper. Dies führt zu Versteifungen und chronischen Schmerzen in den Gelenken und im Schwanz. Zudem sind ihre Ohren durch die Faltung schlecht belüftet, wodurch sich Feuchtigkeit staut und das Risiko für Ohrmilben und chronische Gehörgangsentzündungen (Otitis externa) stark steigt.\n\nHeute entschlüsselt PetSelf die körpersprachlichen Schmerzsignale der Scottish Fold und stellt eine maßgeschneiderte 3-Schritte-Routine vor, um Gelenke zu schützen und die Ohrenhygiene zu sichern.",
+                "whyTitle": "Körpersprache der Fold: Buddha-Stellung und Schwanz einklemmen",
+                "whyDesc": "Scottish Folds nutzen einzigartige Körperhaltungen, um die Schmerzen der erblichen Gelenkerkrankung zu kompensieren. Die zwei deutlichsten Warnsignale sind die 'Buddha-Stellung' und das 'Einklemmen oder Senken des Schwanzes'. Das aufrechte Sitzen auf dem Gesäß mit ausgestreckten Beinen (Buddha-Stellung) ist kein niedlicher Trick, sondern eine instinktive Ruhehaltung, um das Körpergewicht zu verlagern und den Druck von den steifen Fuß- und Beingelenken zu nehmen. Das Einklemmen des Schwanzes zwischen den Hinterbeinen deutet darauf hin, dass die Schwanzwirbel versteifen und schmerzen. Vermeiden Sie in diesem Fall Berührungen am unteren Rücken und Schwanz.",
+                "body_signals": [
+                    {
+                        "name": "Buddha-Stellung (Buddha Position)",
+                        "meaning": "Eine instinktive Haltung zur Verteilung des Körpergewichts, um Schmerzen durch die erbliche Knorpelerkrankung zu lindern.",
+                        "response": "Zwingen Sie die Katze nicht, die Stellung zu verändern. Legen Sie ein weiches Kissen hinter ihren Rücken, um sie abzustützen."
+                    },
+                    {
+                        "name": "Schwanz einklemmen / senken",
+                        "meaning": "Ein Abwehrsignal, das auf Versteifungen oder Schmerzen in den Schwanzwirbeln hinweist und Berührungen ablehnt.",
+                        "response": "Hören Sie sofort auf, den Schwanz oder den unteren Rücken zu berühren, und führen Sie das Tier zu einer weichen Matte."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Ganganalyse und Nahrungsergänzung für Knorpel",
+                        "text": "Beobachten Sie den Gang nach dem Aufstehen für 30 Sekunden auf Hinken oder Steifheit. Verabreichen Sie knorpelunterstützende Ergänzungsmittel (Glucosamin, Chondroitin, MSM, Omega-3) mit dem Morgenfutter."
+                    },
+                    {
+                        "name": "Nachmittag: Gehörgangskontrolle und wöchentliche Ohrreinigung",
+                        "text": "Faltohren stauen Feuchtigkeit. Verwenden Sie niemals Wattestäbchen im Gehörgang. Träufeln Sie Spezial-Ohrreiniger für Katzen ein, massieren Sie den Ohransatz sanft, lassen Sie die Katze den Kopf schütteln und wischen Sie gelösten Schmutz mit einem Wattepad am Ohreingang ab."
+                    },
+                    {
+                        "name": "Abend: Stoßdämpfende Matten unter Kratzbäumen und kontrolliertes Spiel",
+                        "text": "Das Herabspringen von Möbeln erzeugt harte Stöße auf versteifte Knorpel. Legen Sie stoßdämpfende Matten in den Landebereichen aus und spielen Sie auf dem Boden ohne hohe Sprünge oder abrupte Drehungen."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Ist die menschliche 'Buddha-Stellung' der Scottish Fold ein Zeichen von Schmerzen?",
+                        "answer": "Ja, absolut. Das Sitzen auf dem Gesäß mit ausgestreckten Beinen ist eine instinktive Haltung, um das Gewicht von den entzündeten Bein- und Sprunggelenken abzuleiten und den Druck der Osteochondrodysplasie zu lindern."
+                    },
+                    {
+                        "question": "Warum sollte man keine Wattestäbchen zur Ohrreinigung bei Folds verwenden?",
+                        "answer": "Durch die gefaltete Ohrstruktur ist der Gehörgang eng und gewinkelt. Wattestäbchen schieben den Ohrenschmalz tief hinein und können die empfindliche Ohrhaut verletzen, was zu schweren bakteriellen Entzündungen führt."
+                    }
+                ],
+                "tags": [
+                    "Scottish Fold",
+                    "Osteochondrodysplasie",
+                    "Ohrenreinigung",
+                    "Katzen Gelenkpflege"
+                ]
+            },
+            "pt": {
+                "title": "O problema genético por trás da fofura: Cuidado de 3 passos para as articulações e orelhas do Scottish Fold",
+                "description": "Famosos por suas orelhas dobradas, os Scottish Folds são geneticamente propensos a dores articulares crônicas e infecções de ouvido. Descubra como usar tapetes protetores e uma rotina de 3 passos para a higiene e articulações.",
+                "authority": "Protocolo de cartilagem hereditária da ISFM (International Society of Feline Medicine) e diretrizes do GCCF",
+                "profile": {
+                    "breed": "Scottish Fold",
+                    "lifespan": "11 ~ 15 anos",
+                    "sleep_pattern": "15 ~ 18 horas (prefere camas com amortecimento de impacto)",
+                    "temperament": "Tranquilo, Doce, Carinhoso e Apego Afetuoso"
+                },
+                "intro": "Os Scottish Folds encantam pessoas no mundo inteiro com suas orelhas dobradas para a frente, olhos grandes e redondos e aparência similar à de uma coruja ou ursinho. Possuem uma índole calma e doce, apreciando a companhia silenciosa ao lado do tutor. 🐈\n\nNo entanto, por trás do encanto das orelhas dobradas, existe uma grave doença genética chamada Osteocondrodisplasia (doença hereditária da cartilagem). O mesmo gene responsável por dobrar a cartilagem da orelha afeta o desenvolvimento ósseo e articular de todo o corpo, levando ao enrijecimento e dor crônica nas patas e cauda. Além disso, a estrutura dobrada impede o fluxo de ar, acumulando umidade e sujeira que facilitam otites externas e ácaros de ouvido.\n\nHoje, o PetSelf decodifica os sinais físicos de dor do Scottish Fold e apresenta uma rotina personalizada de 3 passos para proteger as articulações e manter a higiene auditiva impecável.",
+                "whyTitle": "Linguagem corporal do Fold: Posição de Buda e cauda escondida",
+                "whyDesc": "Os Scottish Folds usam posturas únicas para amenizar a dor articular hereditária. Os dois sinais mais claros são a 'posição de Buda' e a 'cauda baixa ou escondida'. Sentar com o quadril apoiado, coluna reclinada e patas estendidas para a frente (posição de Buda) não é um truque fofo; é uma postura instintiva para dispersar a carga do peso corporal e aliviar a pressão nas articulações rígidas das patas. Esconder a cauda ou mantê-la abaixada entre as patas traseiras avisa que as vértebras caudais estão doloridas ou enrijecidas. Evite tocar na região lombar ou cauda ao notar isso.",
+                "body_signals": [
+                    {
+                        "name": "Posição de Buda",
+                        "meaning": "Uma postura instintiva adotada para redistribuir o peso corporal e reduzir a dor articular causada pela doença hereditária da cartilagem.",
+                        "response": "Não force a mudança de postura. Coloque uma almofada macia atrás das costas do gato para apoiar sua posição confortavelmente."
+                    },
+                    {
+                        "name": "Cauda baixa ou escondida",
+                        "meaning": "Um sinal defensivo indicando enrijecimento ou dor nas vértebras da cauda, rejeitando toques no local.",
+                        "response": "Interrompa imediatamente o toque na cauda e região lombar, e guie o gato para um tapete macio e confortável."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Análise da marcha e suplementação de cartilagem",
+                        "text": "Observe a marcha do gato por 30 segundos ao acordar para verificar rigidez ou claudicação. Administre suplementos articulares (glucosamina, condroitina, MSM, Ômega-3) misturados na refeição matinal."
+                    },
+                    {
+                        "name": "Tarde: Inspeção do conduto auditivo e limpeza semanal",
+                        "text": "As orelhas dobradas retêm umidade por falta de ventilação. Nunca use hastes flexíveis (cotonetes) no conduto auditivo. Aplique gotas de ceruminolítico felino, massageie suavemente a base da orelha, deixe o gato balançar a cabeça e limpe os resíduos externos com algodão."
+                    },
+                    {
+                        "name": "Noite: Tapetes amortecedores e jogos de baixo impacto",
+                        "text": "Saltar de arranhadores ou móveis causa forte impacto nas cartilagens enrijecidas. Instale tapetes amortecedores nas zonas de pouso e faça brincadeiras no chão sem saltos ou torções bruscas."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "A 'posição de Buda' de um Scottish Fold é realmente um sinal de dor?",
+                        "answer": "Sim, com certeza. Sentar-se sobre o quadril com as patas estendidas é uma resposta instintiva para redistribuir o peso corporal, aliviando a pressão e a dor nas articulações inflamadas das patas e tornozelos."
+                    },
+                    {
+                        "question": "Por que não se deve usar cotonetes para limpar as orelhas do Fold?",
+                        "answer": "Devido à estrutura dobrada, o conduto auditivo é estreito e curvado. Usar cotonetes empurra a cera para o fundo e pode lesionar a pele sensível, provocando graves otites bacterianas ou fúngicas."
+                    }
+                ],
+                "tags": [
+                    "Scottish Fold",
+                    "Osteocondrodisplasia",
+                    "Limpeza de Orelhas",
+                    "Cuidado Articular Felino"
+                ]
+            },
+            "id": {
+                "title": "Masalah Genetik di Balik Kelucuan: Perawatan 3 Langkah Sendi dan Telinga Scottish Fold",
+                "description": "Terkenal dengan telinga terlipat yang menggemaskan, Scottish Fold rentan secara genetik terhadap nyeri sendi kronis dan infeksi telinga. Pelajari pemasangan matras pelindung dan rutinitas harian 3 langkah.",
+                "authority": "Protokol Kartilago Herediter ISFM (International Society of Feline Medicine) & Pedoman Ras GCCF",
+                "profile": {
+                    "breed": "Scottish Fold",
+                    "lifespan": "11 ~ 15 tahun",
+                    "sleep_pattern": "15 ~ 18 jam (menyukai tempat tidur empuk peredam benturan)",
+                    "temperament": "Santai, Lembut, Penyayang dan Manja"
+                },
+                "intro": "Scottish Fold memikat hati pecinta kucing di seluruh dunia dengan telinga yang terlipat ke depan, mata bulat besar, dan penampilan menggemaskan bak burung hantu atau beruang kecil. Mereka memiliki sifat tenang, lembut, dan senang berada di dekat pemiliknya. 🐈\n\nNamun, di balik daya tarik telinga terlipat tersebut, terdapat penyakit genetik serius yang disebut Osteochondrodysplasia (penyakit kartilago herediter). Gen yang bertanggung jawab melipat tulang rawan telinga juga memengaruhi perkembangan tulang dan sendi di seluruh tubuh, menyebabkan kekakuan dan nyeri kronis pada kaki serta ekor. Selain itu, bentuk telinga terlipat menghalangi sirkulasi udara alami, menyebabkan kelembapan menumpuk sehingga mudah memicu kutu telinga dan otitis eksterna (infeksi telinga kronis).\n\nHari ini, PetSelf menguraikan sinyal tubuh saat Scottish Fold mengalami nyeri dan membagikan rutinitas perawatan 3 langkah untuk meminimalkan benturan sendi serta menjaga kebersihan telinga.",
+                "whyTitle": "Bahasa Tubuh Fold: Posisi Buddha dan Menyelipkan Ekor",
+                "whyDesc": "Scottish Fold menggunakan postur tubuh yang unik untuk mengatasi nyeri sendi genetik. Dua sinyal peringatan utama adalah 'posisi Buddha' dan 'menurunkan/menyelipkan ekor'. Duduk tegak di atas pinggul dengan punggung bersandar dan kaki terentang ke depan (posisi Buddha) bukanlah trik lucu, melainkan postur istirahat naluriah untuk menyebarkan beban tubuh dan meringankan tekanan pada sendi kaki yang kaku. Menurunkan ekor atau menyembunyikannya di antara kaki belakang menandakan bahwa tulang ekor mulai kaku dan sakit. Hindari menyentuh punggung bawah atau ekor saat melihat posisi ini.",
+                "body_signals": [
+                    {
+                        "name": "Posisi Buddha (Buddha Position)",
+                        "meaning": "Postur naluriah untuk membagi beban berat badan guna mengurangi rasa sakit sendi akibat penyakit tulang rawan genetik.",
+                        "response": "Jangan paksa mereka mengubah posisi. Letakkan bantal empuk di belakang punggung mereka untuk menopang tubuh dengan nyaman."
+                    },
+                    {
+                        "name": "Menyelipkan / Menurunkan Ekor",
+                        "meaning": "Sinyal pertahanan diri yang menunjukkan kekakuan atau rasa sakit pada tulang ekor, menolak sentuhan pada area tersebut.",
+                        "response": "Segera hentikan sentuhan pada ekor dan punggung bawah, lalu arahkan kucing ke matras yang empuk dan nyaman."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Analisis Gaya Berjalan dan Suplemen Tulang Rawan",
+                        "text": "Perhatikan gaya berjalan mereka selama 30 detik saat bangun tidur untuk mengecek apakah ada kepincangan atau kekakuan. Berikan suplemen pelindung sendi (glukosamin, kondroitin, MSM, Omega-3) yang dicampur ke dalam makanan pagi."
+                    },
+                    {
+                        "name": "Siang: Pemeriksaan Saluran Telinga dan Pembersihan Mingguan",
+                        "text": "Telinga terlipat menahan kelembapan karena kurangnya sirkulasi udara. Dilarang keras menggunakan cotton bud di dalam saluran telinga. Teteskan cairan pembersih khusus kucing, pijat lembut pangkal telinga, biarkan kucing mengibaskan kepalanya, lalu seka kotoran di luar dengan kapas bersih."
+                    },
+                    {
+                        "name": "Malam: Pemasangan Matras Peredam Benturan dan Bermain Santai",
+                        "text": "Melompat turun dari furnitur memberikan tekanan keras pada tulang rawan yang kaku. Pasang matras peredam benturan di area pendaratan, dan ajak bermain di lantai tanpa lompatan tinggi atau putaran tajam."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Apakah 'posisi Buddha' Scottish Fold yang menyerupai manusia merupakan tanda nyeri?",
+                        "answer": "Ya, benar sekali. Duduk dengan pinggul menempel di lantai dan kaki terentang ke depan adalah respons naluriah untuk membagi beban tubuh, mengurangi tekanan dan nyeri pada sendi kaki serta pergelangan yang meradang."
+                    },
+                    {
+                        "question": "Mengapa cotton bud tidak boleh digunakan untuk membersihkan telinga Fold?",
+                        "answer": "Struktur telinga yang terlipat membuat saluran telinga sempit dan melengkung. Menggunakan cotton bud akan mendorong kotoran semakin dalam dan berisiko melukai kulit dalam yang sensitif, memicu infeksi telinga parah."
+                    }
+                ],
+                "tags": [
+                    "Scottish Fold",
+                    "Osteochondrodysplasia",
+                    "Pembersihan Telinga",
+                    "Perawatan Sendi Kucing"
+                ]
+            },
+            "ko": {
+                "title": "귀여움 뒤에 숨겨진 유전병, 스코티시 폴드 관절과 귀 위생 3단계 케어",
+                "description": "접힌 귀가 사랑스러운 스코티시 폴드. 하지만 평생을 유전적 연골 통증과 귀 감염 위험에 취약합니다. 슬기로운 관절 보호 매트 세팅과 귀 환기를 위한 3단계 데일리 루틴을 알아봅니다.",
+                "authority": "ISFM (국제고양이의학협회) 유전성 연골질환 관리 지침 및 GCCF 묘종 가이드라인",
+                "profile": {
+                    "breed": "스코티시 폴드 (Scottish Fold)",
+                    "lifespan": "11 ~ 15년",
+                    "sleep_pattern": "15 ~ 18시간 (충격 흡수 저반발 매트 선호)",
+                    "temperament": "느긋함, 상냥함, 의존적 친밀함"
+                },
+                "intro": "스코티시 폴드(Scottish Fold)는 앞으로 앙증맞게 접힌 귀와 크고 동그란 눈 덕분에 마치 올빼미나 아기 곰 같은 비주얼로 전 세계인의 마음을 사로잡은 고양이입니다. 조용하고 온화한 성격을 지니고 있으며, 보호자의 곁에 착 달라붙어 조용히 동반하는 것을 즐기는 상냥한 동반자입니다. 🐈\n\n하지만 이 접힌 귀의 매력 뒤에는 골격 형성 발달에 문제를 일으키는 치명적인 유전 질환인 '골연골이형성증(Osteochondrodysplasia)'이라는 그림자가 있습니다. 귀 연골을 접히게 만든 유전자가 전신 골격에도 영향을 미쳐 평생 꼬리나 다리 연골이 굳어지는 만성 관절 통증에 노출될 확률이 무척 높습니다. 또한, 접힌 귀 구조로 인해 내부 통풍이 전혀 안 되어 귀 진드기나 외이염 등 귓병이 만성화되기 쉽습니다.\n\n오늘 PetSelf에서는 스코티시 폴드가 통증을 느낄 때 보내는 특수한 신체를 해독하고, 관절 충격을 최소화하며 귀 위생을 철저히 지키는 3단계 맞춤형 케어 루틴을 소개합니다.",
+                "whyTitle": "폴드의 바디 랭귀지: 부처 자세와 꼬리 숨기기",
+                "whyDesc": "스코티시 폴드는 뼈와 관절 유전병으로 통증을 느낄 때 이를 억누르기 위해 아주 독특한 신체 표현을 사용합니다. 가장 두드러진 신호는 '부처 자세(Buddha Position)'와 '꼬리 낮추기/숨기기(Tail Lowering)'입니다. 엉덩이를 바닥에 붙이고 뒤로 기대어 다리를 쭉 뻗고 앉는 부처 자세는 귀여운 애교가 아니라 척추와 다리 관절에 실리는 자신의 체중 압력을 분산시켜 통증을 조금이라도 덜기 위해 취하는 필사적인 휴식 자세입니다. 또한 꼬리를 낮게 내려 뒷다리 사이에 바짝 감추는 행동은 꼬리 뼈 마디의 관절이 굳어지며 통증이 시작되었다는 경고입니다. 이때는 꼬리와 엉덩이 터치를 피해야 합니다.",
+                "body_signals": [
+                    {
+                        "name": "부처 자세 (Buddha Position)",
+                        "meaning": "체중 압력을 분산시켜 골연골 유전병으로 인한 관절 통증을 줄이려는 본능적인 조절 자세입니다.",
+                        "response": "자세를 억지로 교정하려 하지 말고, 고양이가 기댄 곳 뒤에 푹신한 쿠션을 받쳐 이완을 도우세요."
+                    },
+                    {
+                        "name": "꼬리 감추기 (Tail Lowering)",
+                        "meaning": "꼬리 연골의 뻣뻣해짐이나 통증이 유발되어 만지는 것을 거부하는 자기 방어 시그널입니다.",
+                        "response": "꼬리와 엉덩이 부근 터치를 즉시 멈추고 쉴 수 있는 편안한 매트 위로 이동을 유도하세요."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 걸음걸이 모니터링 및 관절 강화 영양 공급",
+                        "text": "잠에서 깨어 걸을 때 절뚝거림이나 강직이 없는지 30초 동안 꼼꼼하게 살피고, 관절 연골 성분을 돕는 영양제(글루코사민, 콘드로이친, MSM, 오메가3)를 사료에 섞어 아침에 배급합니다."
+                    },
+                    {
+                        "name": "낮: 접힌 귀 내부 정밀 검사 및 주 1회 환기 소독",
+                        "text": "접힌 귀 안쪽은 통풍이 차단되므로 면봉을 내부로 쓰지 않고 전용 귀 세정제를 몇 방울 흘려 넣어 부드럽게 마사지한 뒤, 털어내어 밖으로 나오는 물질만 화장솜으로 가볍게 닦아 습기를 정돈합니다."
+                    },
+                    {
+                        "name": "저녁: 캣타워 하단 낙하 충격 흡수 패드 설치 및 저강도 놀이",
+                        "text": "캣타워나 소파에서 내려올 때 착지 충격이 굳은 연골에 큰 고통을 주므로 완충 매트를 동선에 배치하고, 사냥 놀이 시 점프나 과도한 비틀림을 유도하지 않는 저강도 바닥 놀이를 나눕니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "스코티시 폴드가 똑바로 누워 사람처럼 앉아있는 부처 자세가 귀여운데 통증의 신호인가요?",
+                        "answer": "네, 맞습니다. 엉덩이를 바닥에 대고 척추를 세워 앞발을 앞으로 쭉 뻗는 부처 자세는, 다리와 발목 관절에 부하되는 체중 하중을 분산시켜 골연골 통증을 조금이라도 덜기 위해 취하는 본능적인 보호 자세입니다."
+                    },
+                    {
+                        "question": "폴드의 접힌 귀 내부를 청소할 때 면봉을 사용하면 안 되나요?",
+                        "answer": "접힌 귀 구조상 귓구멍 입구가 좁고 구부러져 있어 면봉을 넣으면 이물질이 오히려 안으로 깊숙이 박히고 약한 귀 안쪽 피부막을 손상시켜 세균이나 효모균에 의한 심각한 외이염을 초래합니다."
+                    }
+                ],
+                "tags": [
+                    "스코티시폴드",
+                    "골연골이형성증",
+                    "귀 청소",
+                    "반려묘 관절 케어"
+                ]
+            }
         },
-        "intro": "Scottish Folds capture hearts worldwide with their forward-folded ears, round eyes, and owl-like or bear-like appearance. They possess a quiet, sweet, and gentle nature, enjoying peaceful companionship right by their owner's side. 🐈\n\nHowever, behind the charm of their folded ears lies a serious genetic condition called Osteochondrodysplasia (hereditary cartilage disease). The same gene responsible for folding their ear cartilage also affects bone and cartilage development throughout their body, leading to joint stiffness and chronic pain in their limbs and tail. Furthermore, because their folded ears restrict natural airflow, moisture and debris build up easily, making them highly susceptible to chronic ear mites and otitis externa (ear infections).\n\nToday, PetSelf decodes the physical signals Scottish Folds display when experiencing pain and outlines a tailored 3-step care routine to minimize joint impact and maintain optimal ear hygiene.",
-        "whyTitle": "Fold Body Language: Buddha Position and Tucking the Tail",
-        "whyDesc": "Scottish Folds use unique postures to manage genetic bone and joint pain. The two most prominent warning signals are the 'Buddha position' and 'tail lowering or tucking'. Sitting upright on their buttocks with their spine against a surface and legs extended forward (Buddha position) is not a cute trick; it is an instinctive resting posture designed to disperse their body weight and relieve severe pressure from stiff hocks and leg joints. Lowering their tail or tucking it tightly between their hind legs signals that the caudal vertebrae are stiffening or painful. When you observe these behaviors, avoid touching their tail, lower back, or hips.",
-        "body_signals": [
-          {
-            "name": "Buddha Position",
-            "meaning": "An instinctive posture assumed to disperse body weight pressure and alleviate joint pain caused by genetic cartilage disease.",
-            "response": "Do not force them to change posture. Place a soft cushion behind their back to support their resting position comfortably."
-          },
-          {
-            "name": "Tail Lowering / Tucking",
-            "meaning": "A defensive reaction indicating stiffness or pain in the tail vertebrae, rejecting physical contact on the lower spine.",
-            "response": "Immediately stop touching their tail and lower back, and gently guide them to a comfortable, padded mat."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Morning: Gait Monitoring and Cartilage Support Supplements",
-            "text": "Observe their gait for 30 seconds as they wake up to check for limping or morning stiffness. Administer cartilage-supporting supplements (glucosamine, chondroitin, MSM, or Omega-3s) mixed into their morning meal."
-          },
-          {
-            "name": "Afternoon: Ear Canal Inspection and Weekly Aeration Cleaning",
-            "text": "Folded ears trap humidity and lack natural airflow. Never use cotton swabs inside the ear canal. Apply a few drops of specialized feline ear cleaner into the canal, gently massage the base of the ear, allow the cat to shake its head, and wipe away loosened debris from the outer ear entrance with a clean cotton pad."
-          },
-          {
-            "name": "Evening: Impact-Absorbing Floor Mats and Low-Impact Play",
-            "text": "Jumping down from cat trees or furniture creates harsh impact forces on stiffened cartilage. Install anti-slip, shock-absorbing mats along their landing paths, and engage in low-intensity ground play that avoids high jumps or sharp twists."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Is the Scottish Fold's human-like 'Buddha position' a sign of pain?",
-            "answer": "Yes, absolutely. Sitting upright on their buttocks with legs extended forward is an instinctive response to disperse body weight away from their inflamed leg and ankle joints, relieving severe osteochondrodysplasia pain."
-          },
-          {
-            "question": "Why shouldn't I use cotton swabs to clean a Scottish Fold's ears?",
-            "answer": "Because of their folded structure, the ear canal is narrow and curved. Inserting cotton swabs pushes wax and debris deeper into the canal and can scratch the delicate skin lining, causing severe bacterial or yeast ear infections (otitis externa)."
-          }
-        ],
-        "tags": [
-          "Scottish Fold",
-          "Osteochondrodysplasia",
-          "Ear Cleaning",
-          "Cat Joint Care"
-        ]
-      },
-      "ja": {
-        "title": "愛らしさの裏に隠された遺伝病、スコティッシュフォールドの関節と耳の3段階ケア",
-        "description": "折れ耳が愛らしいスコティッシュフォールド。しかし、生涯にわたり遺伝性の軟骨痛と耳の感染症リスクに晒されます。関節保護マットの設定と耳の衛生のための3段階ルーティンを紹介します。",
-        "authority": "ISFM(国際猫医学会)遺伝性軟骨疾患ガイドライン＆GCCF犬種基準",
-        "profile": {
-          "breed": "スコティッシュフォールド",
-          "lifespan": "11 ~ 15年",
-          "sleep_pattern": "15 ~ 18時間（衝撃吸収クッションマット推奨）",
-          "temperament": "のんびり、優しく、甘えん坊"
-        },
-        "intro": "スコティッシュフォールド(Scottish Fold)は、前方にちょこんと折れた耳と丸い大きな瞳で、フクロウや小熊のような愛らしさを持つ人気の猫です。穏やかで優しい性格をしており、飼い主のそばで静かに寄り添うことを好む素晴らしい伴侶です。🐈\n\nしかし、この折れ耳の遺伝子は、骨や軟骨の形成に障害をもたらす「骨軟骨異形成症」という重篤な遺伝性疾患を引き起こす要因でもあります。耳の軟骨だけでなく全身の骨や関節に影響を及ぼし、四肢や尻尾の軟骨が硬化して生涯にわたり慢性的な痛みを伴うケースが多いです。また、折れた耳の構造上、耳内部の通気性が悪く湿気がこもりやすいため、耳ダニや外耳炎などのトラブルが慢性化しやすい傾向にあります。\n\n本日、PetSelfではスコティッシュフォールドが痛みのサインとして示す特有のポーズを解読し、関節への衝撃を最小限に抑えつつ耳の衛生を維持する3段階のケアを紹介します。",
-        "whyTitle": "フォールドのボディランゲージ：ブッダポーズと尻尾を隠すしぐさ",
-        "whyDesc": "スコティッシュフォールドは、遺伝的な骨・関節痛に耐えるため、特有の姿勢をとります。最も顕著なサインは「ブッダポーズ（お釈迦様座り）」と「尻尾を下げる・隠すしぐさ」です。腰を地面につけて背中を丸め、足を前に伸ばして座る姿勢は、可愛さのアピールではなく、脊椎や四肢にかかる体重の圧力を分散させて痛みを和らげるための本能的な休息姿勢です。また、尻尾を低く下げて後ろ足の間に隠す動作は、尻尾の軟骨痛や関節の硬化が始まっている合図です。この時は腰周りや尻尾に触れるのを控えましょう。",
-        "body_signals": [
-          {
-            "name": "ブッダポーズ (Buddha Position)",
-            "meaning": "体重の負荷を分散させ、遺伝性軟骨疾患による関節痛を和らげようとする本能的な姿勢です。",
-            "response": "無理に体勢を変えようとせず、寄りかかっている背後に柔らかいクッションを置いてサポートしてください。"
-          },
-          {
-            "name": "尻尾を下げる・隠すしぐさ (Tail Lowering)",
-            "meaning": "尻尾の軟骨が硬直して痛みがあるため、触られるのを嫌がっている防衛シグナルです。",
-            "response": "尻尾や腰付近のタッチをすぐにやめ、リラックスできるクッションやマットへ誘導してください。"
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "朝：歩き方の観察と関節・軟骨の栄養補給",
-            "text": "起床時の歩き方に異常やこわばりがないか30秒間注意深く観察し、軟骨成分をサポートするサプリメント（グルコサミン、コンドロイチン、MSM、オメガ3など）をフードに混ぜて与えます。"
-          },
-          {
-            "name": "昼：折れ耳内部の観察と週1回の耳掃除",
-            "text": "折れ耳の中は通気が悪く湿気がこもりやすいです。耳道内への綿棒の使用は厳禁です。専用クリーナーを数滴注入して耳の付け根をマッサージし、猫が首を振った後、浮き出た汚れをコットンで優しく拭き取ります。"
-          },
-          {
-            "name": "夜：キャットタワー下の衝撃吸収マット設置と低負担の遊び",
-            "text": "キャットタワーや家具からの着地衝撃は、固まった軟骨に激しい痛みを引き起こします。動線に緩衝マットを配置し、おもちゃで遊ぶ際もジャンプや激しい捻転をさせない床上の低い位置で遊ばせます。"
-          }
-        ],
-        "faqs": [
-          {
-            "question": "スコティッシュフォールドの「ブッダポーズ」は痛みのサインなのですか？",
-            "answer": "はい、その通りです。お尻をつけて足を前に伸ばす姿勢は、脚や足首の関節にかかる体重の圧力を逃がし、骨軟骨炎による痛みを緩和するために本能的に行う保護姿勢です。"
-          },
-          {
-            "question": "フォールドの折れ耳の掃除に綿棒を使ってはいけない理由は何ですか？",
-            "answer": "折れ耳は耳道が狭く曲がっているため、綿棒を使うと汚れを奥へ押し込んでしまい、デリケートな耳の皮膚膜を傷つけて細菌性や真菌性の外耳炎を引き起こす恐れがあるからです。"
-          }
-        ],
-        "tags": [
-          "スコティッシュフォールド",
-          "骨軟骨異形成症",
-          "耳掃除",
-          "猫の関節ケア"
-        ]
-      },
-      "zh": {
-        "title": "可爱背后隐藏的遗传病？苏格兰折耳猫关节与耳部卫生3步日常护理",
-        "description": "折耳造型十分可爱的苏格兰折耳猫，一生都易受遗传性软骨痛与耳部感染风险的困扰。为您介绍防滑缓冲垫的布置以及维护耳部通气的3步日常护理惯例。",
-        "authority": "ISFM（国际猫科医学会）遗传性软骨疾病管理指南与 GCCF 折耳猫指南",
-        "profile": {
-          "breed": "苏格兰折耳猫",
-          "lifespan": "11 ~ 15年",
-          "sleep_pattern": "15 ~ 18小时（偏好有减震支撑的睡垫）",
-          "temperament": "温和、甜美、依恋家长"
-        },
-        "intro": "苏格兰折耳猫（Scottish Fold）凭借向前折叠的可爱双耳和又大又圆的眼睛，以类似猫头鹰或幼熊般的软萌造型捕获了全世界人的心。它们性格安静温和，喜欢静静地贴在家长身边，是十分甜美贴心的伴侣。🐈\n\n然而，在折耳这一魅力背后，隐藏着会导致骨骼与软骨发育障碍的致命遗传病——“骨软骨发育不良（Osteochondrodysplasia）”。导致耳软骨折叠的基因同时会影响全身的骨骼与软骨，使四肢和尾部软骨僵硬并伴随慢性剧痛。此外，折耳结构导致耳道内部极度缺乏通风，极易蓄积湿气和污垢，使耳螨和外耳道炎转为慢性疾病。\n\n今天，PetSelf 将为您解读折耳猫在感到疼痛时发出的特殊身体信号，并介绍一套能将关节冲击降至最低、同时彻底维护耳部卫生的3步定制护理惯例。",
-        "whyTitle": "折耳猫的身体语言：佛陀坐姿与夹紧尾巴",
-        "whyDesc": "苏格兰折耳猫在因骨骼与关节遗传病感到疼痛时，会使用非常独特的身体姿势来减轻痛苦。最明显的信号是“佛陀坐姿（Buddha Position）”和“夹紧/低垂尾巴（Tail Lowering）”。它们将屁股贴地、身体后倾、双腿向前伸直的坐姿，并不是在向家长撒娇，而是为了分散压在脊椎和腿部关节上的自身体重，以减轻痛苦的休息姿势。另外，将尾巴低垂甚至紧紧夹在两后肢之间，是尾椎骨关节开始出现僵硬或疼痛的警告。此时应避免触碰其尾部和臀部。",
-        "body_signals": [
-          {
-            "name": "佛陀坐姿 (Buddha Position)",
-            "meaning": "为分散体重压力、减轻遗传性软骨疾病带来的关节疼痛而做出的本能调节姿势。",
-            "response": "不要强行纠正其坐姿，在猫咪依靠处后方塞入柔软的靠垫以帮助其放松支撑。"
-          },
-          {
-            "name": "夹紧/低垂尾巴 (Tail Lowering)",
-            "meaning": "尾部软骨出现僵硬或疼痛，拒绝被触碰的自我防卫信号。",
-            "response": "立即停止抚摸尾巴和臀部附近，引导其移动到可放松的舒适垫子上。"
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "早晨：步态观察与强化关节营养供给",
-            "text": "在猫咪起床行走时，仔细观察30秒确认有无跛行或僵硬，并将有助于软骨成分的营养品（氨基葡萄糖、软骨素、MSM、Omega-3）混入饲料中，在早晨喂食。"
-          },
-          {
-            "name": "中午：折耳内部精密检查与每周一次通风清理",
-            "text": "折耳内部因无法通风极易潮湿。切勿在耳道内使用棉签。滴入数滴专用洗耳液并温柔按摩耳根，待猫咪甩头后，仅用棉球将排出的脏污擦净，保持内部干燥。"
-          },
-          {
-            "name": "晚上：猫爬架下方 落差冲击吸收垫铺设与游戏控制",
-            "text": "从猫爬架或沙发跳下时的冲击力会给已僵硬的软骨带来巨大痛苦。应在落地动线上铺设缓冲垫，玩耍时避免跳跃或过度扭转的动作，进行低强度地面游戏。"
-          }
-        ],
-        "faqs": [
-          {
-            "question": "折耳猫像人一样坐着的“佛陀坐姿”很可爱，但这真的是疼痛的信号吗？",
-            "answer": "是的，确实如此。臀部着地、双腿向前伸直的坐姿，是折耳猫为了分散压在四肢和踝关节上的身体重量、从而缓解骨软骨炎性疼痛而做出的本能性保护姿势。"
-          },
-          {
-            "question": "清理折耳猫的折叠耳内部时，为什么不能使用棉签？",
-            "answer": "折耳结构导致耳道入口狭窄且弯曲，使用棉签极易将耳垢推入耳道深处，并可能划伤脆弱的耳内皮肤，从而引发严重的细菌或真菌性外耳道炎。"
-          }
-        ],
-        "tags": [
-          "苏格兰折耳猫",
-          "骨软骨发育不良",
-          "洗耳清洁",
-          "猫咪关节护理"
-        ]
-      },
-      "es": {
-        "title": "El problema genético detrás de la ternura: Cuidado de 3 pasos para las articulaciones y oídos del Scottish Fold",
-        "description": "Los Scottish Folds son famosos por sus orejas caídas, pero son genéticamente propensos a dolor articular crónico e infecciones de oído. Descubra cómo usar alfombras protectoras y una rutina de 3 pasos para su higiene articular y auditiva.",
-        "authority": "Protocolo de cartílago hereditario de la ISFM (International Society of Feline Medicine) y directrices de GCCF",
-        "profile": {
-          "breed": "Scottish Fold",
-          "lifespan": "11 ~ 15 años",
-          "sleep_pattern": "15 ~ 18 horas (prefiere camas amortiguadoras de impacto)",
-          "temperament": "Tranquilo, Dulce, Cariñoso y Dependiente"
-        },
-        "intro": "Los Scottish Folds cautivan corazones en todo el mundo con sus orejas dobladas y apariencia de búho o pequeño oso. Tienen una naturaleza dulce, silenciosa y afable, disfrutando de la compañía tranquila al lado de sus dueños. 🐈\n\nSin embargo, detrás del encanto de sus orejas dobladas se encuentra una grave enfermedad genética llamada Osteocondrodisplasia (enfermedad hereditaria del cartílago). El mismo gen responsable del pliegue en las orejas afecta el desarrollo de los huesos y cartílagos de todo el cuerpo, provocando rigidez articular y dolor crónico en patas y cola. Además, debido a que sus orejas dobladas bloquean el flujo de aire natural, la humedad y suciedad se acumulan fácilmente, volviéndolos propensos a ácaros y otitis externa crónica.\n\nHoy, PetSelf decodifica las señales físicas de dolor del Scottish Fold e introduce una rutina de cuidados de 3 pasos para reducir el impacto en las articulaciones y mantener la higiene auditiva.",
-        "whyTitle": "Lenguaje corporal del Fold: Posición de Buda y cola oculta",
-        "whyDesc": "Los Scottish Folds usan posturas únicas para responder al dolor articular genético. Las dos señales más evidentes son la 'posición de Buda' y la 'cola oculta o caíada'. Sentarse apoyando la cadera con la espalda reclinada y las patas estiradas hacia adelante (posición de Buda) no es un truco tierno; es una postura instintiva para dispersar el peso corporal y aliviar la presión sobre las articulaciones rígidas. Ocultar la cola o mantenerla baja advierte que las vértebras caudales sufren dolor o rigidez. Evite tocar su columna lumbar o cola cuando observe estas actitudes.",
-        "body_signals": [
-          {
-            "name": "Posición de Buda",
-            "meaning": "Una postura instintiva para dispersar el peso corporal y reducir el dolor articular causado por la enfermedad hereditaria del cartílago.",
-            "response": "No les obligue a cambiar de postura. Coloque un cojín suave detrás para apoyar su espalda cómodamente."
-          },
-          {
-            "name": "Cola oculta o caída",
-            "meaning": "Una señal defensiva que muestra que las articulaciones de la cola están rígidas o doloridas, rechazando el contacto físico.",
-            "response": "Deje de tocar la cola o la espalda baja inmediatamente y guíelo suavemente hacia un cojín cómodo."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Mañana: Análisis de marcha y suplementos de cartílago",
-            "text": "Observe su marcha durante 30 segundos al despertar para detectar cojera o rigidez matutina. Administre suplementos para las articulaciones (glucosamina, condroitina, MSM, Omega-3) con su comida de la mañana."
-          },
-          {
-            "name": "Tarde: Inspección del canal auditivo y limpieza semanal",
-            "text": "Las orejas dobladas acumulan humedad por falta de ventilación. Nunca use bastoncillos de algodón dentro del canal. Aplique gotas de limpiador auricular felino, masajee suavemente la base, deje que la mascota sacuda la cabeza y limpie los residuos externos con una torunda de algodón."
-          },
-          {
-            "name": "Noche: Alfombras amortiguadoras de impacto y juego moderado",
-            "text": "Saltar desde alturas causa un fuerte impacto en el cartílago rígido. Coloque alfombras amortiguadoras en sus zonas de aterrizaje y realice juegos a ras de suelo sin saltos ni giros bruscos."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "¿La 'posición de Buda' de un Scottish Fold es señal de dolor?",
-            "answer": "Sí, absolutamente. Sentarse sobre los glúteos con las patas extendidas es una respuesta instintiva para dispersar el peso corporal, aliviando la presión y dolor en las articulaciones rígidas de las patas y tobillos."
-          },
-          {
-            "question": "¿Por qué no se deben usar bastoncillos para limpiar los oídos del Fold?",
-            "answer": "Debido a su oreja doblada, el canal es estrecho y curvo. Los bastoncillos empujan la cera hacia adentro y pueden lesionar la sensible piel del oído, provocando otitis externa bacteriana o micótica."
-          }
-        ],
-        "tags": [
-          "Scottish Fold",
-          "Osteocondrodisplasia",
-          "Limpieza de Oídos",
-          "Cuidado Articular Felino"
-        ]
-      },
-      "fr": {
-        "title": "Les problèmes génétiques derrière l'adoration : Routine en 3 étapes pour les articulations et les oreilles du Scottish Fold",
-        "description": "Célèbre pour ses oreilles pliées, le Scottish Fold est génétiquement sujet à des douleurs articulaires chroniques et des otites. Découvrez comment installer des tapis amortisseurs et suivre une routine en 3 étapes pour son hygiène.",
-        "authority": "Protocole sur le cartilage héréditaire de l'ISFM (International Society of Feline Medicine) et directives de la GCCF",
-        "profile": {
-          "breed": "Scottish Fold",
-          "lifespan": "11 ~ 15 ans",
-          "sleep_pattern": "15 ~ 18 heures (paniers rembourrés et amortissants préférés)",
-          "temperament": "Calme, Doux, Affectueux et Attachant"
-        },
-        "intro": "Le Scottish Fold séduit les amoureux des chats du monde entier avec ses oreilles pliées vers l'avant, ses grands yeux ronds et son allure de chouette ou de petit ourson. Il possède un tempérament doux et calme, appréciant la compagnie paisible de son maître. 🐈\n\nCependant, derrière le charme de ses oreilles se cache une maladie génétique grave appelée Ostéochondrodysplasie (dégénérescence héréditaire du cartilage). Le gène responsable du pli de l'oreille affecte le développement osseux et cartilagineux de tout le corps, entraînant un raidissement des articulations et des douleurs chroniques aux membres et à la queue. De plus, la forme pliée de l'oreille empêche l'aération naturelle, favorisant l'accumulation d'humidité et l'apparition d'otites externes chroniques.\n\nAujourd'hui, PetSelf décode les signaux physiques de douleur du Scottish Fold et présente une routine de soins en 3 étapes pour limiter les impacts articulaires et préserver l'hygiène auriculaire.",
-        "whyTitle": "Langage corporel du Fold : Position du Bouddha et queue basse",
-        "whyDesc": "Le Scottish Fold adopte des postures uniques pour soulager ses douleurs articulaires génétiques. Les signaux les plus probants sont la 'position du Bouddha' et la 'queue basse ou cachée'. S'asseoir sur le bassin en appuyant son dos et en étendant ses pattes vers l'avant (position du Bouddha) n'est pas une fantaisie mignonne ; c'est une posture instinctive destinée à répartir la charge du corps et soulager la pression sur les articulations raides. Cacher ou baisser sa queue indique une raideur ou une douleur au niveau des vertèbres caudales. Évitez de toucher le bas du dos ou la queue dans ces moments-là.",
-        "body_signals": [
-          {
-            "name": "Position du Bouddha",
-            "meaning": "Une posture instinctive adoptée pour répartir le poids du corps et réduire la douleur articulaire liée à la maladie héréditaire du cartilage.",
-            "response": "Ne le forcez pas à changer de posture. Placez un coussin moelleux derrière son dos pour soutenir sa position sans contrainte."
-          },
-          {
-            "name": "Queue basse ou cachée",
-            "meaning": "Un signal défensif indiquant que les vertèbres de la queue sont raides ou douloureuses, rejetant tout contact physique.",
-            "response": "Cessez immédiatement de toucher la queue ou le bas du dos, et guidez-le doucement vers un panier confortable."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Matin : Analyse de la démarche et suppléments pour le cartilage",
-            "text": "Observez sa démarche pendant 30 secondes au réveil pour détecter toute boiterie ou raideur. Administrez des suppléments pour le cartilage (glucosamine, chondroïtine, MSM, Oméga-3) mélangés à son repas du matin."
-          },
-          {
-            "name": "Après-midi : Inspection du conduit auditif et nettoyage hebdomadaire",
-            "text": "Les oreilles pliées retiennent l'humidité faute d'aération. N'utilisez jamais de cotons-tiges dans le conduit. Appliquez quelques gouttes de nettoyant auriculaire félin, massez doucement la base de l'oreille, laissez le chat secouer la tête, puis essuyez les résidus externes avec une compresse ou un coton."
-          },
-          {
-            "name": "Soir : Tapis amortisseurs sous les arbres à chat et jeu modéré",
-            "text": "Sauter depuis un meuble provoque des chocs violents sur le cartilage fragilisé. Placez des tapis amortisseurs aux endroits d'atterrissage et privilégiez les jeux au sol sans sauts ni torsions brusques."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "La position assise du Scottish Fold ('position du Bouddha') est-elle un signe de douleur ?",
-            "answer": "Oui, absolument. S'asseoir sur le bassin avec les pattes tendues est une réaction instinctive pour mieux répartir son poids, soulageant ainsi la pression et la douleur des articulations raides des pattes et des chevilles."
-          },
-          {
-            "question": "Pourquoi ne faut-il pas utiliser de cotons-tiges pour nettoyer les oreilles d'un Fold ?",
-            "answer": "En raison de la structure pliée, le conduit auditif est étroit et coudé. L'utilisation de cotons-tiges repousse le cérumen au fond et risque de blesser la peau fragile du conduit, entraînant de sévères otites bactériennes ou fongiques."
-          }
-        ],
-        "tags": [
-          "Scottish Fold",
-          "Ostéochondrodysplasie",
-          "Nettoyage des Oreilles",
-          "Soins Articulaires Féllins"
-        ]
-      },
-      "de": {
-        "title": "Die genetische Bürde hinter der Niedlichkeit: Scottish Fold Gelenk- und Ohrenpflege in 3 Schritten",
-        "description": "Scottish Folds sind für ihre Faltohren geliebt, aber genetisch anfällig für chronische Gelenkschmerzen und Ohrentzündungen. Erfahren Sie, wie Sie dämpfende Matten einsetzen und eine 3-Schritte-Pflegeroutine anwenden.",
-        "authority": "Hereditäres Knorpelprotokoll der ISFM (International Society of Feline Medicine) und GCCF-Richtlinien",
-        "profile": {
-          "breed": "Scottish Fold",
-          "lifespan": "11 ~ 15 Jahre",
-          "sleep_pattern": "15 ~ 18 Stunden (druckentlastende Kissenbetten bevorzugt)",
-          "temperament": "Gelassen, Süß, Liebevoll und Anhänglich"
-        },
-        "intro": "Scottish Folds erobern weltweit Herzen mit ihren nach vorne gefalteten Ohren, großen runden Augen und ihrem eulen- oder bärenartigen Aussehen. Sie haben ein ruhiges, sanftmütiges Wesen und genießen die friedliche Gesellschaft an der Seite ihres Besitzers. 🐈\n\nBehind der Niedlichkeit ihrer Faltohren verbirgt sich jedoch eine schwere genetische Erkrankung namens Osteochondrodysplasie (erbliche Knorpelkrankheit). Das Gen, das für die Faltohren verantwortlich ist, beeinträchtigt die Knochen- und Knorpelentwicklung im gesamten Körper. Dies führt zu Versteifungen und chronischen Schmerzen in den Gelenken und im Schwanz. Zudem sind ihre Ohren durch die Faltung schlecht belüftet, wodurch sich Feuchtigkeit staut und das Risiko für Ohrmilben und chronische Gehörgangsentzündungen (Otitis externa) stark steigt.\n\nHeute entschlüsselt PetSelf die körpersprachlichen Schmerzsignale der Scottish Fold und stellt eine maßgeschneiderte 3-Schritte-Routine vor, um Gelenke zu schützen und die Ohrenhygiene zu sichern.",
-        "whyTitle": "Körpersprache der Fold: Buddha-Stellung und Schwanz einklemmen",
-        "whyDesc": "Scottish Folds nutzen einzigartige Körperhaltungen, um die Schmerzen der erblichen Gelenkerkrankung zu kompensieren. Die zwei deutlichsten Warnsignale sind die 'Buddha-Stellung' und das 'Einklemmen oder Senken des Schwanzes'. Das aufrechte Sitzen auf dem Gesäß mit ausgestreckten Beinen (Buddha-Stellung) ist kein niedlicher Trick, sondern eine instinktive Ruhehaltung, um das Körpergewicht zu verlagern und den Druck von den steifen Fuß- und Beingelenken zu nehmen. Das Einklemmen des Schwanzes zwischen den Hinterbeinen deutet darauf hin, dass die Schwanzwirbel versteifen und schmerzen. Vermeiden Sie in diesem Fall Berührungen am unteren Rücken und Schwanz.",
-        "body_signals": [
-          {
-            "name": "Buddha-Stellung (Buddha Position)",
-            "meaning": "Eine instinktive Haltung zur Verteilung des Körpergewichts, um Schmerzen durch die erbliche Knorpelerkrankung zu lindern.",
-            "response": "Zwingen Sie die Katze nicht, die Stellung zu verändern. Legen Sie ein weiches Kissen hinter ihren Rücken, um sie abzustützen."
-          },
-          {
-            "name": "Schwanz einklemmen / senken",
-            "meaning": "Ein Abwehrsignal, das auf Versteifungen oder Schmerzen in den Schwanzwirbeln hinweist und Berührungen ablehnt.",
-            "response": "Hören Sie sofort auf, den Schwanz oder den unteren Rücken zu berühren, und führen Sie das Tier zu einer weichen Matte."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Morgen: Ganganalyse und Nahrungsergänzung für Knorpel",
-            "text": "Beobachten Sie den Gang nach dem Aufstehen für 30 Sekunden auf Hinken oder Steifheit. Verabreichen Sie knorpelunterstützende Ergänzungsmittel (Glucosamin, Chondroitin, MSM, Omega-3) mit dem Morgenfutter."
-          },
-          {
-            "name": "Nachmittag: Gehörgangskontrolle und wöchentliche Ohrreinigung",
-            "text": "Faltohren stauen Feuchtigkeit. Verwenden Sie niemals Wattestäbchen im Gehörgang. Träufeln Sie Spezial-Ohrreiniger für Katzen ein, massieren Sie den Ohransatz sanft, lassen Sie die Katze den Kopf schütteln und wischen Sie gelösten Schmutz mit einem Wattepad am Ohreingang ab."
-          },
-          {
-            "name": "Abend: Stoßdämpfende Matten unter Kratzbäumen und kontrolliertes Spiel",
-            "text": "Das Herabspringen von Möbeln erzeugt harte Stöße auf versteifte Knorpel. Legen Sie stoßdämpfende Matten in den Landebereichen aus und spielen Sie auf dem Boden ohne hohe Sprünge oder abrupte Drehungen."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Ist die menschliche 'Buddha-Stellung' der Scottish Fold ein Zeichen von Schmerzen?",
-            "answer": "Ja, absolut. Das Sitzen auf dem Gesäß mit ausgestreckten Beinen ist eine instinktive Haltung, um das Gewicht von den entzündeten Bein- und Sprunggelenken abzuleiten und den Druck der Osteochondrodysplasie zu lindern."
-          },
-          {
-            "question": "Warum sollte man keine Wattestäbchen zur Ohrreinigung bei Folds verwenden?",
-            "answer": "Durch die gefaltete Ohrstruktur ist der Gehörgang eng und gewinkelt. Wattestäbchen schieben den Ohrenschmalz tief hinein und können die empfindliche Ohrhaut verletzen, was zu schweren bakteriellen Entzündungen führt."
-          }
-        ],
-        "tags": [
-          "Scottish Fold",
-          "Osteochondrodysplasie",
-          "Ohrenreinigung",
-          "Katzen Gelenkpflege"
-        ]
-      },
-      "pt": {
-        "title": "O problema genético por trás da fofura: Cuidado de 3 passos para as articulações e orelhas do Scottish Fold",
-        "description": "Famosos por suas orelhas dobradas, os Scottish Folds são geneticamente propensos a dores articulares crônicas e infecções de ouvido. Descubra como usar tapetes protetores e uma rotina de 3 passos para a higiene e articulações.",
-        "authority": "Protocolo de cartilagem hereditária da ISFM (International Society of Feline Medicine) e diretrizes do GCCF",
-        "profile": {
-          "breed": "Scottish Fold",
-          "lifespan": "11 ~ 15 anos",
-          "sleep_pattern": "15 ~ 18 horas (prefere camas com amortecimento de impacto)",
-          "temperament": "Tranquilo, Doce, Carinhoso e Apego Afetuoso"
-        },
-        "intro": "Os Scottish Folds encantam pessoas no mundo inteiro com suas orelhas dobradas para a frente, olhos grandes e redondos e aparência similar à de uma coruja ou ursinho. Possuem uma índole calma e doce, apreciando a companhia silenciosa ao lado do tutor. 🐈\n\nNo entanto, por trás do encanto das orelhas dobradas, existe uma grave doença genética chamada Osteocondrodisplasia (doença hereditária da cartilagem). O mesmo gene responsável por dobrar a cartilagem da orelha afeta o desenvolvimento ósseo e articular de todo o corpo, levando ao enrijecimento e dor crônica nas patas e cauda. Além disso, a estrutura dobrada impede o fluxo de ar, acumulando umidade e sujeira que facilitam otites externas e ácaros de ouvido.\n\nHoje, o PetSelf decodifica os sinais físicos de dor do Scottish Fold e apresenta uma rotina personalizada de 3 passos para proteger as articulações e manter a higiene auditiva impecável.",
-        "whyTitle": "Linguagem corporal do Fold: Posição de Buda e cauda escondida",
-        "whyDesc": "Os Scottish Folds usam posturas únicas para amenizar a dor articular hereditária. Os dois sinais mais claros são a 'posição de Buda' e a 'cauda baixa ou escondida'. Sentar com o quadril apoiado, coluna reclinada e patas estendidas para a frente (posição de Buda) não é um truque fofo; é uma postura instintiva para dispersar a carga do peso corporal e aliviar a pressão nas articulações rígidas das patas. Esconder a cauda ou mantê-la abaixada entre as patas traseiras avisa que as vértebras caudais estão doloridas ou enrijecidas. Evite tocar na região lombar ou cauda ao notar isso.",
-        "body_signals": [
-          {
-            "name": "Posição de Buda",
-            "meaning": "Uma postura instintiva adotada para redistribuir o peso corporal e reduzir a dor articular causada pela doença hereditária da cartilagem.",
-            "response": "Não force a mudança de postura. Coloque uma almofada macia atrás das costas do gato para apoiar sua posição confortavelmente."
-          },
-          {
-            "name": "Cauda baixa ou escondida",
-            "meaning": "Um sinal defensivo indicando enrijecimento ou dor nas vértebras da cauda, rejeitando toques no local.",
-            "response": "Interrompa imediatamente o toque na cauda e região lombar, e guie o gato para um tapete macio e confortável."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Manhã: Análise da marcha e suplementação de cartilagem",
-            "text": "Observe a marcha do gato por 30 segundos ao acordar para verificar rigidez ou claudicação. Administre suplementos articulares (glucosamina, condroitina, MSM, Ômega-3) misturados na refeição matinal."
-          },
-          {
-            "name": "Tarde: Inspeção do conduto auditivo e limpeza semanal",
-            "text": "As orelhas dobradas retêm umidade por falta de ventilação. Nunca use hastes flexíveis (cotonetes) no conduto auditivo. Aplique gotas de ceruminolítico felino, massageie suavemente a base da orelha, deixe o gato balançar a cabeça e limpe os resíduos externos com algodão."
-          },
-          {
-            "name": "Noite: Tapetes amortecedores e jogos de baixo impacto",
-            "text": "Saltar de arranhadores ou móveis causa forte impacto nas cartilagens enrijecidas. Instale tapetes amortecedores nas zonas de pouso e faça brincadeiras no chão sem saltos ou torções bruscas."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "A 'posição de Buda' de um Scottish Fold é realmente um sinal de dor?",
-            "answer": "Sim, com certeza. Sentar-se sobre o quadril com as patas estendidas é uma resposta instintiva para redistribuir o peso corporal, aliviando a pressão e a dor nas articulações inflamadas das patas e tornozelos."
-          },
-          {
-            "question": "Por que não se deve usar cotonetes para limpar as orelhas do Fold?",
-            "answer": "Devido à estrutura dobrada, o conduto auditivo é estreito e curvado. Usar cotonetes empurra a cera para o fundo e pode lesionar a pele sensível, provocando graves otites bacterianas ou fúngicas."
-          }
-        ],
-        "tags": [
-          "Scottish Fold",
-          "Osteocondrodisplasia",
-          "Limpeza de Orelhas",
-          "Cuidado Articular Felino"
-        ]
-      },
-      "id": {
-        "title": "Masalah Genetik di Balik Kelucuan: Perawatan 3 Langkah Sendi dan Telinga Scottish Fold",
-        "description": "Terkenal dengan telinga terlipat yang menggemaskan, Scottish Fold rentan secara genetik terhadap nyeri sendi kronis dan infeksi telinga. Pelajari pemasangan matras pelindung dan rutinitas harian 3 langkah.",
-        "authority": "Protokol Kartilago Herediter ISFM (International Society of Feline Medicine) & Pedoman Ras GCCF",
-        "profile": {
-          "breed": "Scottish Fold",
-          "lifespan": "11 ~ 15 tahun",
-          "sleep_pattern": "15 ~ 18 jam (menyukai tempat tidur empuk peredam benturan)",
-          "temperament": "Santai, Lembut, Penyayang dan Manja"
-        },
-        "intro": "Scottish Fold memikat hati pecinta kucing di seluruh dunia dengan telinga yang terlipat ke depan, mata bulat besar, dan penampilan menggemaskan bak burung hantu atau beruang kecil. Mereka memiliki sifat tenang, lembut, dan senang berada di dekat pemiliknya. 🐈\n\nNamun, di balik daya tarik telinga terlipat tersebut, terdapat penyakit genetik serius yang disebut Osteochondrodysplasia (penyakit kartilago herediter). Gen yang bertanggung jawab melipat tulang rawan telinga juga memengaruhi perkembangan tulang dan sendi di seluruh tubuh, menyebabkan kekakuan dan nyeri kronis pada kaki serta ekor. Selain itu, bentuk telinga terlipat menghalangi sirkulasi udara alami, menyebabkan kelembapan menumpuk sehingga mudah memicu kutu telinga dan otitis eksterna (infeksi telinga kronis).\n\nHari ini, PetSelf menguraikan sinyal tubuh saat Scottish Fold mengalami nyeri dan membagikan rutinitas perawatan 3 langkah untuk meminimalkan benturan sendi serta menjaga kebersihan telinga.",
-        "whyTitle": "Bahasa Tubuh Fold: Posisi Buddha dan Menyelipkan Ekor",
-        "whyDesc": "Scottish Fold menggunakan postur tubuh yang unik untuk mengatasi nyeri sendi genetik. Dua sinyal peringatan utama adalah 'posisi Buddha' dan 'menurunkan/menyelipkan ekor'. Duduk tegak di atas pinggul dengan punggung bersandar dan kaki terentang ke depan (posisi Buddha) bukanlah trik lucu, melainkan postur istirahat naluriah untuk menyebarkan beban tubuh dan meringankan tekanan pada sendi kaki yang kaku. Menurunkan ekor atau menyembunyikannya di antara kaki belakang menandakan bahwa tulang ekor mulai kaku dan sakit. Hindari menyentuh punggung bawah atau ekor saat melihat posisi ini.",
-        "body_signals": [
-          {
-            "name": "Posisi Buddha (Buddha Position)",
-            "meaning": "Postur naluriah untuk membagi beban berat badan guna mengurangi rasa sakit sendi akibat penyakit tulang rawan genetik.",
-            "response": "Jangan paksa mereka mengubah posisi. Letakkan bantal empuk di belakang punggung mereka untuk menopang tubuh dengan nyaman."
-          },
-          {
-            "name": "Menyelipkan / Menurunkan Ekor",
-            "meaning": "Sinyal pertahanan diri yang menunjukkan kekakuan atau rasa sakit pada tulang ekor, menolak sentuhan pada area tersebut.",
-            "response": "Segera hentikan sentuhan pada ekor dan punggung bawah, lalu arahkan kucing ke matras yang empuk dan nyaman."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Pagi: Analisis Gaya Berjalan dan Suplemen Tulang Rawan",
-            "text": "Perhatikan gaya berjalan mereka selama 30 detik saat bangun tidur untuk mengecek apakah ada kepincangan atau kekakuan. Berikan suplemen pelindung sendi (glukosamin, kondroitin, MSM, Omega-3) yang dicampur ke dalam makanan pagi."
-          },
-          {
-            "name": "Siang: Pemeriksaan Saluran Telinga dan Pembersihan Mingguan",
-            "text": "Telinga terlipat menahan kelembapan karena kurangnya sirkulasi udara. Dilarang keras menggunakan cotton bud di dalam saluran telinga. Teteskan cairan pembersih khusus kucing, pijat lembut pangkal telinga, biarkan kucing mengibaskan kepalanya, lalu seka kotoran di luar dengan kapas bersih."
-          },
-          {
-            "name": "Malam: Pemasangan Matras Peredam Benturan dan Bermain Santai",
-            "text": "Melompat turun dari furnitur memberikan tekanan keras pada tulang rawan yang kaku. Pasang matras peredam benturan di area pendaratan, dan ajak bermain di lantai tanpa lompatan tinggi atau putaran tajam."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Apakah 'posisi Buddha' Scottish Fold yang menyerupai manusia merupakan tanda nyeri?",
-            "answer": "Ya, benar sekali. Duduk dengan pinggul menempel di lantai dan kaki terentang ke depan adalah respons naluriah untuk membagi beban tubuh, mengurangi tekanan dan nyeri pada sendi kaki serta pergelangan yang meradang."
-          },
-          {
-            "question": "Mengapa cotton bud tidak boleh digunakan untuk membersihkan telinga Fold?",
-            "answer": "Struktur telinga yang terlipat membuat saluran telinga sempit dan melengkung. Menggunakan cotton bud akan mendorong kotoran semakin dalam dan berisiko melukai kulit dalam yang sensitif, memicu infeksi telinga parah."
-          }
-        ],
-        "tags": [
-          "Scottish Fold",
-          "Osteochondrodysplasia",
-          "Pembersihan Telinga",
-          "Perawatan Sendi Kucing"
-        ]
-      },
-      "ko": {
-        "title": "귀여움 뒤에 숨겨진 유전병, 스코티시 폴드 관절과 귀 위생 3단계 케어",
-        "description": "접힌 귀가 사랑스러운 스코티시 폴드. 하지만 평생을 유전적 연골 통증과 귀 감염 위험에 취약합니다. 슬기로운 관절 보호 매트 세팅과 귀 환기를 위한 3단계 데일리 루틴을 알아봅니다.",
-        "authority": "ISFM (국제고양이의학협회) 유전성 연골질환 관리 지침 및 GCCF 묘종 가이드라인",
-        "profile": {
-          "breed": "스코티시 폴드 (Scottish Fold)",
-          "lifespan": "11 ~ 15년",
-          "sleep_pattern": "15 ~ 18시간 (충격 흡수 저반발 매트 선호)",
-          "temperament": "느긋함, 상냥함, 의존적 친밀함"
-        },
-        "intro": "스코티시 폴드(Scottish Fold)는 앞으로 앙증맞게 접힌 귀와 크고 동그란 눈 덕분에 마치 올빼미나 아기 곰 같은 비주얼로 전 세계인의 마음을 사로잡은 고양이입니다. 조용하고 온화한 성격을 지니고 있으며, 보호자의 곁에 착 달라붙어 조용히 동반하는 것을 즐기는 상냥한 동반자입니다. 🐈\n\n하지만 이 접힌 귀의 매력 뒤에는 골격 형성 발달에 문제를 일으키는 치명적인 유전 질환인 '골연골이형성증(Osteochondrodysplasia)'이라는 그림자가 있습니다. 귀 연골을 접히게 만든 유전자가 전신 골격에도 영향을 미쳐 평생 꼬리나 다리 연골이 굳어지는 만성 관절 통증에 노출될 확률이 무척 높습니다. 또한, 접힌 귀 구조로 인해 내부 통풍이 전혀 안 되어 귀 진드기나 외이염 등 귓병이 만성화되기 쉽습니다.\n\n오늘 PetSelf에서는 스코티시 폴드가 통증을 느낄 때 보내는 특수한 신체를 해독하고, 관절 충격을 최소화하며 귀 위생을 철저히 지키는 3단계 맞춤형 케어 루틴을 소개합니다.",
-        "whyTitle": "폴드의 바디 랭귀지: 부처 자세와 꼬리 숨기기",
-        "whyDesc": "스코티시 폴드는 뼈와 관절 유전병으로 통증을 느낄 때 이를 억누르기 위해 아주 독특한 신체 표현을 사용합니다. 가장 두드러진 신호는 '부처 자세(Buddha Position)'와 '꼬리 낮추기/숨기기(Tail Lowering)'입니다. 엉덩이를 바닥에 붙이고 뒤로 기대어 다리를 쭉 뻗고 앉는 부처 자세는 귀여운 애교가 아니라 척추와 다리 관절에 실리는 자신의 체중 압력을 분산시켜 통증을 조금이라도 덜기 위해 취하는 필사적인 휴식 자세입니다. 또한 꼬리를 낮게 내려 뒷다리 사이에 바짝 감추는 행동은 꼬리 뼈 마디의 관절이 굳어지며 통증이 시작되었다는 경고입니다. 이때는 꼬리와 엉덩이 터치를 피해야 합니다.",
-        "body_signals": [
-          {
-            "name": "부처 자세 (Buddha Position)",
-            "meaning": "체중 압력을 분산시켜 골연골 유전병으로 인한 관절 통증을 줄이려는 본능적인 조절 자세입니다.",
-            "response": "자세를 억지로 교정하려 하지 말고, 고양이가 기댄 곳 뒤에 푹신한 쿠션을 받쳐 이완을 도우세요."
-          },
-          {
-            "name": "꼬리 감추기 (Tail Lowering)",
-            "meaning": "꼬리 연골의 뻣뻣해짐이나 통증이 유발되어 만지는 것을 거부하는 자기 방어 시그널입니다.",
-            "response": "꼬리와 엉덩이 부근 터치를 즉시 멈추고 쉴 수 있는 편안한 매트 위로 이동을 유도하세요."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "아침: 걸음걸이 모니터링 및 관절 강화 영양 공급",
-            "text": "잠에서 깨어 걸을 때 절뚝거림이나 강직이 없는지 30초 동안 꼼꼼하게 살피고, 관절 연골 성분을 돕는 영양제(글루코사민, 콘드로이친, MSM, 오메가3)를 사료에 섞어 아침에 배급합니다."
-          },
-          {
-            "name": "낮: 접힌 귀 내부 정밀 검사 및 주 1회 환기 소독",
-            "text": "접힌 귀 안쪽은 통풍이 차단되므로 면봉을 내부로 쓰지 않고 전용 귀 세정제를 몇 방울 흘려 넣어 부드럽게 마사지한 뒤, 털어내어 밖으로 나오는 물질만 화장솜으로 가볍게 닦아 습기를 정돈합니다."
-          },
-          {
-            "name": "저녁: 캣타워 하단 낙하 충격 흡수 패드 설치 및 저강도 놀이",
-            "text": "캣타워나 소파에서 내려올 때 착지 충격이 굳은 연골에 큰 고통을 주므로 완충 매트를 동선에 배치하고, 사냥 놀이 시 점프나 과도한 비틀림을 유도하지 않는 저강도 바닥 놀이를 나눕니다."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "스코티시 폴드가 똑바로 누워 사람처럼 앉아있는 부처 자세가 귀여운데 통증의 신호인가요?",
-            "answer": "네, 맞습니다. 엉덩이를 바닥에 대고 척추를 세워 앞발을 앞으로 쭉 뻗는 부처 자세는, 다리와 발목 관절에 부하되는 체중 하중을 분산시켜 골연골 통증을 조금이라도 덜기 위해 취하는 본능적인 보호 자세입니다."
-          },
-          {
-            "question": "폴드의 접힌 귀 내부를 청소할 때 면봉을 사용하면 안 되나요?",
-            "answer": "접힌 귀 구조상 귓구멍 입구가 좁고 구부러져 있어 면봉을 넣으면 이물질이 오히려 안으로 깊숙이 박히고 약한 귀 안쪽 피부막을 손상시켜 세균이나 효모균에 의한 심각한 외이염을 초래합니다."
-          }
-        ],
-        "tags": [
-          "스코티시폴드",
-          "골연골이형성증",
-          "귀 청소",
-          "반려묘 관절 케어"
-        ]
-      }
-    },
-    "category": "CareSelf",
-    "app": "careself",
-    "formatVersion": 4,
-    "heroImage": "/images/blog/scottish_fold_care.png"
-  }
+        "category": "CareSelf",
+        "app": "careself",
+        "formatVersion": 4,
+        "heroImage": "/images/blog/scottish_fold_care.webp"
+    }
 }

@@ -6,7 +6,7 @@ pubDate: "2026-06-05"
 updatedDate: "2026-06-05"
 category: "FreshSelf"
 tags: ["반려동물","펫케어","페르시안 고양이 (Felis catus / Persian Cat)"]
-heroImage: "/images/blog/persian_care.png"
+heroImage: "/images/blog/persian_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Cat Fanciers' Association (CFA) 페르시안 가이드 및 AAFP 수의학 지침"

@@ -6,7 +6,7 @@ pubDate: "2026-06-18"
 updatedDate: "2026-06-18"
 category: "FreshSelf"
 tags: ["반려동물","펫케어","렉돌 (Felis catus / Ragdoll)"]
-heroImage: "/images/blog/ragdoll_care.png"
+heroImage: "/images/blog/ragdoll_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Cat Fanciers' Association (CFA) 렉돌 표준 가이드 및 AAFP 고양이 친화 진료 지침"

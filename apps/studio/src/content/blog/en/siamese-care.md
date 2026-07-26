@@ -6,7 +6,7 @@ pubDate: "2026-02-19"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
 tags: ["PetCare","PetHealth","Siamese"]
-heroImage: "/images/blog/siamese_care.png"
+heroImage: "/images/blog/siamese_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Cat Fanciers' Association (CFA) Official Breed Guide & AAFP Feline Behavioral Protocols"

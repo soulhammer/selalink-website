@@ -6,7 +6,7 @@ pubDate: "2026-04-08"
 updatedDate: "2026-04-08"
 category: "FreshSelf"
 tags: ["ペットケア","ペット健康","ノルウェージャンフォレストキャット (Felis catus / Norwegian Forest Cat)"]
-heroImage: "/images/blog/norwegian_forest_care.png"
+heroImage: "/images/blog/norwegian_forest_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "国際猫協会(TICA)品種基準および猫臨床行動医学ガイドライン"

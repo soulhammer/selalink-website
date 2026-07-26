@@ -1,516 +1,516 @@
 {
-  "russian-blue-care": {
-    "pubDate": "2026-03-26",
-    "updatedDate": "2026-03-26",
-    "locales": {
-      "ko": {
-        "title": "소심하고 섬세한 러시안 블루를 위한 안식처 제공과 3단계 신뢰 루틴",
-        "description": "겁이 많고 낯선 소음에 민감한 러시안 블루. 스트레스를 줄이는 안락한 은신처 구성법과 거리를 존중하는 3단계 신뢰 교감 루틴을 알아봅니다.",
-        "authority": "Cat Fanciers' Association (CFA) 묘종 표준 가이드 및 Cornell Feline Health Center 행동 지침",
-        "profile": {
-          "breed": "러시안 블루 (Felis catus / Russian Blue)",
-          "lifespan": "15 ~ 20년",
-          "sleep_pattern": "15 ~ 18시간 (조용하고 높은 아지트 선호)",
-          "temperament": "내성적, 신중함, 대단히 조용함"
+    "russian-blue-care": {
+        "pubDate": "2026-03-26",
+        "updatedDate": "2026-03-26",
+        "locales": {
+            "ko": {
+                "title": "소심하고 섬세한 러시안 블루를 위한 안식처 제공과 3단계 신뢰 루틴",
+                "description": "겁이 많고 낯선 소음에 민감한 러시안 블루. 스트레스를 줄이는 안락한 은신처 구성법과 거리를 존중하는 3단계 신뢰 교감 루틴을 알아봅니다.",
+                "authority": "Cat Fanciers' Association (CFA) 묘종 표준 가이드 및 Cornell Feline Health Center 행동 지침",
+                "profile": {
+                    "breed": "러시안 블루 (Felis catus / Russian Blue)",
+                    "lifespan": "15 ~ 20년",
+                    "sleep_pattern": "15 ~ 18시간 (조용하고 높은 아지트 선호)",
+                    "temperament": "내성적, 신중함, 대단히 조용함"
+                },
+                "intro": "러시안 블루는 은빛이 감도는 짧은 청색 털과 초록색 눈을 가진 매혹적인 고양이입니다. 조용하고 차분하며 보호자를 매우 깊이 사랑하는 가족형 고양이지만, 유전적으로 낯가림이 매우 심하고 겁이 많아 집안의 환경 변화나 갑작스러운 소음에 소심하게 반응하곤 합니다. 🐱 낯선 손님이 방문하거나 가전제품 소음이 나면 캣타워 콘도 깊숙이 숨어 오랫동안 나오지 않는 행동도 바로 이 때문입니다. 러시안 블루는 보호자가 억지로 숨은 공간에서 꺼내려 할 때 더 큰 스트레스를 받습니다. 오늘 PetSelf에서는 소심한 러시안 블루가 안심하고 지낼 수 있는 안전한 안식처 공간을 만들고, 차분하게 신뢰를 쌓아가는 3단계 데일리 교감법을 소개합니다.",
+                "whyTitle": "러시안 블루의 바디 랭귀지: 경계와 불안의 극복",
+                "whyDesc": "러시안 블루는 조용한 성향만큼 자신의 불편함을 약하게 호소하다가 한계에 다다르면 반응합니다. 대표적으로는 **'동공 확장(Dilated Pupils)'**과 **'몸 낮춰 웅크리기(Crouching)'**가 있습니다. 갑작스러운 큰 소리가 나거나 낯선 사람이 만지려 할 때 눈의 동공이 까맣고 동그랗게 커지는 것은 긴장 상태를 뜻합니다. 이때 바닥에 몸을 밀착시키고 귀를 양옆으로 눕혀 마징가 귀를 만드는 행동은 극심한 공포를 느껴 도망치거나 공격을 준비하는 방어의 신호입니다.",
+                "body_signals": [
+                    {
+                        "name": "동공 확장 (Dilated Pupils)",
+                        "meaning": "주변 위협 요소를 감지하고 스트레스 호르몬이 활성화되어 긴장했다는 표시입니다.",
+                        "response": "불을 어둡게 해주고, 자극적인 원인(가전제품 소음 등)을 즉시 정지해 주십시오."
+                    },
+                    {
+                        "name": "낮게 웅크리기 (Crouching)",
+                        "meaning": "도망갈 길을 잃었거나 낯선 대상에 대해 극심한 방어적 공포를 느끼고 있다는 표시입니다.",
+                        "response": "억지로 안아 올리려 하지 말고, 고양이가 안전하다고 느낄 수 있는 방이나 은신처로 대피하게 두십시오."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 화장실과 급식 공간의 청결 및 안전 확보",
+                        "text": "예민하고 청결에 신경을 쓰는 러시안 블루를 위해, 아침 일찍 모래 화장실을 깨끗하게 청소하고 소음이 없는 구석 급식 공간 상태를 점검합니다."
+                    },
+                    {
+                        "name": "오후: 높고 안정감 있는 캣타워 콘도 은신처 제공",
+                        "text": "소음이나 스트레스 요인 발생 시 신속히 피신할 수 있도록, 문이 닫히는 콘도 형태의 캣타워 안전 공간이 침실 구석에 항상 열려 있는지 점검합니다."
+                    },
+                    {
+                        "name": "저녁: 냄새 맡기(코인사)를 통한 억지 없는 점진적 교감",
+                        "text": "저녁 퇴근 후 억지로 다가가 안으려 하지 말고, 검지손가락 끝을 조용히 내밀어 고양이가 냄새를 맡으며 인사(코인사)를 건넬 때까지 대기합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "러시안 블루가 손님이 오면 절대 나오지 않는데 억지로 꺼내야 하나요?",
+                        "answer": "절대 억지로 꺼내서는 안 됩니다. 낯선 대상과의 원치 않는 접촉은 극심한 공포심을 자극해 보호자와의 신뢰마저 깨뜨릴 수 있습니다. 손님이 돌아갈 때까지 스스로 은신처에 머물게 두는 것이 가장 현명한 대처입니다."
+                    },
+                    {
+                        "question": "소심한 러시안 블루와 친해지는 가장 효과적인 비결이 무엇인가요?",
+                        "answer": "눈높이를 낮추고 시선을 직접적으로 마주치지 않는 것입니다. 고양이 세계에서 뚫어지게 응시하는 것은 도전의 의미이므로, 시선을 비껴뜨고 손끝 냄새 맡기(코인사)를 유도하며 좋아하는 간식 보상을 반복하는 것이 좋습니다."
+                    }
+                ],
+                "tags": [
+                    "러시안블루",
+                    "소심한성격",
+                    "은신처확보",
+                    "반려묘홈케어"
+                ]
+            },
+            "en": {
+                "title": "Safe Haven and Trust Building: A 3-Step Daily Routine for Russian Blue Cats",
+                "description": "Russian Blues are naturally shy and highly sensitive to noise. Learn how to create a stress-free safe zone and a 3-step routine for building trust with them.",
+                "authority": "Cat Fanciers' Association (CFA) Breed Standards & Cornell Feline Health Center Guidelines",
+                "profile": {
+                    "breed": "Russian Blue (Felis catus)",
+                    "lifespan": "15 ~ 20 years",
+                    "sleep_pattern": "15 ~ 18 hours (seeks quiet, elevated hiding spots)",
+                    "temperament": "Reserved, Gentle, Highly Quiet"
+                },
+                "intro": "Russian Blues are captivating felines renowned for their short, silvery-blue coat and striking green eyes. While quiet, gentle, and deeply loyal to their family, they are genetically shy, reserved, and highly sensitive to loud noises or environment changes. 🐱 This is why they quickly hide inside cat trees or closets when a guest visits or when a vacuum cleaner runs. Forcing them out of their hiding spots only causes more panic. Today, PetSelf details how to build a safe, stress-free space for your shy Russian Blue and introduces a 3-step routine to build a strong bond with them.",
+                "whyTitle": "Russian Blue Body Language: Reading Warning Signs of Panic",
+                "whyDesc": "Because of their gentle nature, Russian Blues show warning signals quietly before reacting. Key panic signals include **'Dilated Pupils'** and **'Crouching'**. When they hear a sudden noise or are approached by a stranger, their pupils will dilate, becoming large and round as their stress system activates. If they press their body flat against the floor and flatten their ears sideways into 'airplane ears', they are experiencing extreme fear and are preparing to flee or defend themselves.",
+                "body_signals": [
+                    {
+                        "name": "Dilated Pupils",
+                        "meaning": "A physical response indicating they are highly alert, tensed, or scared by surrounding triggers.",
+                        "response": "Dim the lights and immediately stop the stimulating source (like household appliance noises)."
+                    },
+                    {
+                        "name": "Crouching Low to the Floor",
+                        "meaning": "A sign of defensive panic, showing they feel cornered, helpless, or terrified by an unfamiliar target.",
+                        "response": "Do not force them into physical contact. Allow them to retreat to a quiet room or cabinet where they feel safe."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Litter Box and Feeding Station Safety Routine",
+                        "text": "Clean the litter box early for this sensitive breed. Ensure their food and water bowls are placed in a quiet corner away from household foot traffic."
+                    },
+                    {
+                        "name": "Afternoon: Quiet High-Rise Safe Haven Maintenance",
+                        "text": "Confirm that their cozy, enclosed cat tree condo is always accessible. This gives them a private, elevated escape from unexpected visitors or noises."
+                    },
+                    {
+                        "name": "Evening: Non-Intrusive Hand Sniff and Soft Bonding",
+                        "text": "Instead of approaching them directly to pick them up, extend your index finger quietly at their eye level. Let them sniff your hand first to initiate contact."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Should I drag my Russian Blue out of their hiding spot when guests arrive?",
+                        "answer": "Absolutely not. Forcing them out of their safe zone triggers severe panic and can damage their trust in you. Let them stay in their hiding spot until the guests leave."
+                    },
+                    {
+                        "question": "What is the most effective way to bond with a shy Russian Blue?",
+                        "answer": "Lower your posture and avoid direct, prolonged eye contact, which felines view as a threat. Let them sniff your finger first, and reward them with their favorite treats when they approach."
+                    }
+                ],
+                "tags": [
+                    "RussianBlue",
+                    "ShyTemperament",
+                    "SafeHidingSpots",
+                    "CatHomeCare"
+                ]
+            },
+            "ja": {
+                "title": "警戒心が強く繊細なロシアンブルーのための隠れ家と3段階信頼日常ルーティン",
+                "description": "人見知りで大きな音に敏感なロシアンブルー。ストレスを和らげる快適な隠れ家の作り方と、距離感を尊重する3段階の信頼獲得ルーティンを紹介します。",
+                "authority": "キャットファンシャーズアソシエーション(CFA)ガイド＆コーネル猫健康センター行動指針",
+                "profile": {
+                    "breed": "ロシアンブルー (Felis catus / Russian Blue)",
+                    "lifespan": "15 ~ 20年",
+                    "sleep_pattern": "15 ~ 18時間（静かで高いアジト優先型）",
+                    "temperament": "控えめ、慎重、非常に静か"
+                },
+                "intro": "ロシアンブルーは、銀色を帯びた青く美しい短毛とエメラルドグリーンの瞳を持つ神秘的な猫です。物静かで落ち着きがあり、家族を深く愛しますが、遺伝的に警戒心が非常に強く慎重なため、室内の環境変化や突然の騒音に敏感に反応します。🐱 突然の来客や掃除機の音がすると、キャットタワーのハウスの奥に隠れて長い時間出てこないのもこのためです。無理やり引っ張り出そうとするとさらに強いストレスを感じます。本日PetSelfでは、繊細なロシアンブルーが安心して過ごせる隠れ家を整え、信頼を築く3段階スキンシップルーティンをご紹介します。",
+                "whyTitle": "ロシアンブルーのボディランゲージ：警戒と不安の克服",
+                "whyDesc": "ロシアンブルーは大人しい性格である分、不快感を静かに表現しますが、限界に達すると行動に出ます。代表的なのは**「瞳孔拡張（Dilated Pupils）」**と**「体を低くしてうずくまる（Crouching）」**です。突然大きな音がしたり、知らない人が触ろうとした時に黒目が大きく丸くなるのは、極度の緊張を示します。また、床に体を密着させて耳を横に倒す「イカ耳」にするしぐさは、強い恐怖を感じて逃げるか攻撃するかの防衛サインです。",
+                "body_signals": [
+                    {
+                        "name": "瞳孔拡張 (Dilated Pupils)",
+                        "meaning": "周囲の脅威を感知し、ストレスホルモンが活性化して緊張しているサインです。",
+                        "response": "部屋の明かりを暗くし、刺激の要素（掃除機の音など）をすぐに止めてください。"
+                    },
+                    {
+                        "name": "体を低くしてうずくまる (Crouching)",
+                        "meaning": "逃げ道がなくなり、知らない対象に対して強い恐怖を感じているサインです。",
+                        "response": "無理に抱き上げようとせず、猫が安全だと感じる部屋や隠れ家に逃げ込ませてあげてください。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：トイレと食事スペースの衛生と安全確保",
+                        "text": "神経質で清潔好きなロシアンブルーのため、朝一番にトイレを綺麗に掃除し、物音のしない部屋の隅の給餌スペースを確認します。"
+                    },
+                    {
+                        "name": "昼：静かで安定感のあるキャットタワー隠れ家の確保",
+                        "text": "騒音やストレスの要因が現れた際、すぐに避難できるよう、入り口の狭いドーム型のキャットタワーなどが常に解放されているか点検します。"
+                    },
+                    {
+                        "name": "夜：においを嗅がせることによる無理のない段階的スキンシップ",
+                        "text": "夜の帰宅後、無理に抱き上げようとせず、人差し指の先を静かに差し出して、猫がにおいを嗅いで挨拶するまで落ち着いて待ちます。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "ロシアンブルーが来客時に隠れて出てこないのですが、引っ張り出すべきですか？",
+                        "answer": "絶対に無理に引っ張り出さないでください。好まない対面は強い恐怖を与え、飼い主への信頼関係までも壊してしまいます。お客様が帰るまで、自分で選んだ隠れ家にいさせてあげるのが一番です。"
+                    },
+                    {
+                        "question": "シャイなロシアンブルーと仲良くなる最も効果的な方法は何ですか？",
+                        "answer": "姿勢を低くし、目を直接見つめ続けないことです。猫にとって凝視することは脅威を意味するため、視線を外し、指のにおい嗅ぎ（鼻タッチ）を促し、おやつをあげることを繰り返してください。"
+                    }
+                ],
+                "tags": [
+                    "ロシアンブルー",
+                    "人見知りな性格",
+                    "隠れ場所の確保",
+                    "愛猫ホームケア"
+                ]
+            },
+            "zh": {
+                "title": "为胆小内向的俄罗斯蓝猫提供避风港：3步日常建立信任护理流程",
+                "description": "俄罗斯蓝猫天生胆小，对噪音极度敏感。介绍如何为其打造无压力的安全区域，以及3步日常建立信任的触碰护理流程。",
+                "authority": "爱猫者协会 (CFA) 品种标准与康奈尔猫科健康中心指南",
+                "profile": {
+                    "breed": "俄罗斯蓝猫 (Felis catus / Russian Blue)",
+                    "lifespan": "15 ~ 20年",
+                    "sleep_pattern": "15 ~ 18小时（寻求安静且高处的藏身所型）",
+                    "temperament": "内敛、温和、非常安静"
+                },
+                "intro": "俄罗斯蓝猫是一种迷人的猫咪，以其银蓝色短毛和绿色的眼睛而闻名。它们安静、温和且对家庭极度忠诚，但在遗传上较为胆小、内向，对噪音或环境的变化极度敏感。🐱 这就是为什么当有客人来访或吸尘器运行时，它们会迅速躲进猫爬架或衣柜深处。强迫它们出来只会引起更多的恐慌。今天 PetSelf 将分享如何为内向的俄罗斯蓝猫打造安全的避风港，并介绍一套3步日常建立信任的触碰护理流程。",
+                "whyTitle": "俄罗斯蓝猫的身体语言：解读恐慌的预警信号",
+                "whyDesc": "由于性格温和，俄罗斯蓝猫在做出反应前会静静地发出警告信号。关键的恐慌信号包括 **“瞳孔放大（Dilated Pupils）”** 和 **“身体低伏（Crouching）”**。当听到突然的噪音或有陌生人靠近时，它们的瞳孔会放大，变得又大又圆，表明压力系统已激活。如果它们将身体平贴在地面上，并向两侧展平耳朵，说明它们正在经历极度的恐惧，正准备逃跑或自卫。",
+                "body_signals": [
+                    {
+                        "name": "瞳孔放大 (Dilated Pupils)",
+                        "meaning": "表明感应到了周围的威胁，压力荷尔蒙已激活，正处于高度警惕与紧张的状态。",
+                        "response": "调暗光线，并立即关闭带来刺激的源头（如吸尘器或吹风机等电器噪音）。"
+                    },
+                    {
+                        "name": "身体低伏 (Crouching)",
+                        "meaning": "表示在防御性恐慌中感到了无助、害怕，或是感觉被逼入死角。",
+                        "response": "切勿强行抱起它们。允许它们退避到安静的房间或柜子等隐蔽处。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早晨：猫砂盆与喂食区域的安全维护",
+                        "text": "清扫猫砂盆。确保它们的食物和水盆放置在远离日常走动和噪音的安静角落中，以此建立安全感。"
+                    },
+                    {
+                        "name": "中午：高耸安静的安全避难所维护",
+                        "text": "确认位于卧室角落的、封闭式的猫爬架猫窝始终敞开并可供使用。这能为其提供一个远离突发噪音或访客的高处私密避难所。"
+                    },
+                    {
+                        "name": "晚上：无侵入性的指尖嗅闻与渐进式亲密建立",
+                        "text": "晚上回家后，切勿直接走过去抱它们，而是应该在它们高度静静地伸出食指指尖。让它们先嗅闻您的手指，以此开启友好的接触。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "当有客人来访时，我应该把躲起来的俄罗斯蓝猫拖出来吗？",
+                        "answer": "绝对不要强行拖出。强迫它们脱离安全区域会引发恐慌，并破坏它们对您的信任。请允许它们留在隐蔽处，直到客人离开。"
+                    },
+                    {
+                        "question": "与胆小内向的俄罗斯蓝猫建立联系最有效的方法是什么？",
+                        "answer": "放低您的姿态，避免直接且持续地盯着它们看，因为猫咪将注视视为威胁。让它们先嗅闻您的手指，并在它们靠近时给予零食奖励。"
+                    }
+                ],
+                "tags": [
+                    "俄罗斯蓝猫",
+                    "胆小性格",
+                    "安全隐蔽处",
+                    "猫咪家庭护理"
+                ]
+            },
+            "es": {
+                "title": "Refugio seguro y generación de confianza: Rutina diaria de 3 pasos para el Azul Ruso",
+                "description": "Los Azules Rusos son tímidos y sensibles al ruido. Aprenda a crear una zona segura sin estrés y una rutina de 3 pasos para ganarse su confianza.",
+                "authority": "Guía de Razas de la Cat Fanciers' Association (CFA) y Cornell Feline Health Center",
+                "profile": {
+                    "breed": "Azul Ruso (Felis catus / Russian Blue)",
+                    "lifespan": "15 ~ 20 años",
+                    "sleep_pattern": "15 ~ 18 horas (busca escondites silenciosos y altos)",
+                    "temperament": "Reservado, Gentil, Muy Silencioso"
+                },
+                "intro": "Los Azules Rusos son felinos conocidos por su pelaje azul plateado y sus ojos verdes. Aunque son silenciosos y leales a su familia, son genéticamente tímidos y sensibles a los ruidos fuertes. 🐱 Es por eso que se esconden rápidamente cuando hay visitas o suena la aspiradora. Obligarlos a salir de sus escondites les causa pánico. Hoy, PetSelf detalla cómo crear un espacio seguro con una rutina de 3 pasos.",
+                "whyTitle": "Lenguaje corporal del Azul Ruso: Lectura de las señales de pánico",
+                "whyDesc": "Debido a su naturaleza gentil, los Azules Rusos muestran señales de advertencia en silencio. Las señales clave incluyen **'pupilas dilatadas' (Dilated Pupils)** y **'encogerse' (Crouching)**. Si escucha un ruido o se acerca un extraño, sus pupilas se dilatan. Si aplasta su cuerpo contra el suelo y aplana las orejas hacia los lados, experimenta un miedo extremo y se prepara para huir.",
+                "body_signals": [
+                    {
+                        "name": "Pupilas dilatadas (Dilated Pupils)",
+                        "meaning": "Una respuesta física que indica que están muy alertas, tensos o asustados por estímulos.",
+                        "response": "Atenúe las luces e interrumpa de inmediato la fuente de estimulación (ruido de electrodomésticos)."
+                    },
+                    {
+                        "name": "Encogerse (Crouching)",
+                        "meaning": "Una señal de pánico defensivo, que muestra que se sienten acorralados o aterrorizados.",
+                        "response": "No lo obligue al contacto físico. Permítale retirarse a una habitación o armario silencioso."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Rutina de seguridad en arenero y comedero",
+                        "text": "Limpie el arenero temprano. Asegúrese de que sus platos de comida y agua estén en un rincón tranquilo lejos del paso de la gente."
+                    },
+                    {
+                        "name": "Tarde: Mantenimiento del refugio seguro en las alturas",
+                        "text": "Confirme que su cubículo cerrado en el árbol rascador esté siempre accesible. Esto le da una salida elevada ante ruidos o visitas."
+                    },
+                    {
+                        "name": "Noche: Olfateo de mano no intrusivo y contacto suave",
+                        "text": "En lugar de acercarse directamente para cargarlo, extienda su dedo índice a su nivel. Deje que olfatee su mano primero para iniciar el contacto."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Debería forzar a mi Azul Ruso a salir de su escondite cuando hay visitas?",
+                        "answer": "Bajo ningún concepto. Obligarlo a salir de su zona segura le causará pánico y dañará la confianza que le tiene. Déjelo allí hasta que se vayan las visitas."
+                    },
+                    {
+                        "question": "¿Cuál es la forma más efectiva de ganarse a un Azul Ruso tímido?",
+                        "answer": "Agáchese y evite mirarlo directamente a los ojos, ya que lo ven como amenaza. Deje que olfatee su dedo primero y premie su acercamiento con bocadillos."
+                    }
+                ],
+                "tags": [
+                    "AzulRuso",
+                    "TemperamentoTímido",
+                    "EsconditesSeguros",
+                    "CuidadoDeGatos"
+                ]
+            },
+            "fr": {
+                "title": "Havre de paix et création de confiance : Routine quotidienne en 3 étapes pour le Bleu Russe",
+                "description": "Le Bleu Russe est timide et sensible au bruit. Apprenez à lui créer un havre de paix sans stress et appliquez une routine en 3 étapes pour gagner sa confiance.",
+                "authority": "Guide de la Cat Fanciers' Association (CFA) et Cornell Feline Health Center",
+                "profile": {
+                    "breed": "Bleu Russe (Felis catus / Russian Blue)",
+                    "lifespan": "15 ~ 20 ans",
+                    "sleep_pattern": "15 ~ 18 heures (cherche des cachettes calmes et surélevées)",
+                    "temperament": "Réservé, Doux, Très Calme"
+                },
+                "intro": "Le Bleu Russe est un félin réputé pour son pelage bleu argenté et ses yeux verts. S'il est calme, doux et très attaché à sa famille, il est génétiquement timide et très sensible aux bruits. 🐱 C'est pourquoi il se cache rapidement lorsqu'un invité arrive ou qu'un aspirateur fonctionne. Le forcer à sortir ne fait qu'augmenter son stress. Aujourd'hui, PetSelf explique comment lui offrir un havre de paix avec une routine en 3 étapes.",
+                "whyTitle": "Langage corporel du Bleu Russe : Lire les signes de panique",
+                "whyDesc": "De nature douce, le Bleu Russe émet des signaux d'avertissement discrets. Les signes clés de panique sont les **« pupilles dilatées » (Dilated Pupils)** et la **« posture accroupie » (Crouching)**. Face à un bruit ou un inconnu, ses pupilles s'agrandissent. S'il plaque son corps au sol et replie ses oreilles sur les côtés, il ressent une peur intense et s'apprête à fuir.",
+                "body_signals": [
+                    {
+                        "name": "Pupilles dilatées (Dilated Pupils)",
+                        "meaning": "Une réponse physique indiquant qu'il est très alerte, tendu ou effrayé.",
+                        "response": "Tamisez les lumières et arrêtez immédiatement la source de stress (bruit d'appareil ménager)."
+                    },
+                    {
+                        "name": "Posture accroupie (Crouching)",
+                        "meaning": "Un signe de panique défensive, montrant qu'il se sent acculé ou terrifié.",
+                        "response": "Ne le forcez pas au contact physique. Laissez-le se réfugier dans une pièce calme ou un placard."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Entretien sécurisé de la litière et des gamelles",
+                        "text": "Nettoyez la litière tôt. Assurez-vous que ses gamelles sont placées dans un coin calme, à l'écart des passages et du bruit."
+                    },
+                    {
+                        "name": "Après-midi : Entretien de son refuge surélevé",
+                        "text": "Vérifiez que la cabane fermée de son arbre à chat est toujours accessible. Cela lui offre une échappatoire en hauteur en cas de bruit ou de visite."
+                    },
+                    {
+                        "name": "Soir : Présentation de la main pour reniflement et contact doux",
+                        "text": "Au lieu d'aller directement vers lui pour le porter, présentez tranquillement votre index à sa hauteur. Laissez-le d'abord vous renifler."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Dois-je faire sortir mon Bleu Russe de sa cachette quand j'ai des invités ?",
+                        "answer": "Absolument pas. Le forcer à sortir de son refuge provoquerait une panique et briserait sa confiance en vous. Laissez-le caché jusqu'au départ des invités."
+                    },
+                    {
+                        "question": "Quel est le moyen le plus efficace de s'apprivoiser un Bleu Russe timide ?",
+                        "answer": "Baissez-vous et évitez de le regarder fixement, ce que les chats perçoivent comme une menace. Laissez-le renifler votre doigt et récompensez-le avec des friandises."
+                    }
+                ],
+                "tags": [
+                    "BleuRusse",
+                    "CaractèreTimide",
+                    "CachettesSécurisées",
+                    "SoinsFélins"
+                ]
+            },
+            "de": {
+                "title": "Sicherer Hafen und Vertrauensbildung: Tägliche 3-Schritte-Routine für Russisch Blau",
+                "description": "Russisch Blau Katzen sind von Natur aus scheu und geräuschempfindlich. Erfahren Sie, wie Sie eine stressfreie Schutzzone schaffen und Vertrauen aufbauen.",
+                "authority": "Rasseführer der Cat Fanciers' Association (CFA) & Cornell Feline Health Center",
+                "profile": {
+                    "breed": "Russisch Blau (Felis catus / Russian Blue)",
+                    "lifespan": "15 ~ 20 Jahre",
+                    "sleep_pattern": "15 ~ 18 Stunden (sucht ruhige, erhöhte Verstecke)",
+                    "temperament": "Zurückhaltend, Sanft, Sehr ruhig"
+                },
+                "intro": "Russisch Blau Katzen haben ein silbrig-blaues Fell und grüne Augen. Sie sind ruhig, sanft und loyal, aber von Natur aus scheu und geräuschempfindlich. 🐱 Sie verstecken sich schnell bei Besuch oder Staubsaugergeräuschen. Sie aus dem Versteck zu zwingen, erzeugt Panik. Heute zeigt PetSelf, wie Sie einen sicheren Hafen schaffen und mit einer 3-Schritte-Routine Vertrauen aufbauen.",
+                "whyTitle": "Körpersprache der Russisch Blau: Warnzeichen von Panik lesen",
+                "whyDesc": "Aufgrund ihres sanften Wesens zeigen Russisch Blau Warnsignale sehr leise. Wichtige Paniksignale sind **'erweiterte Pupillen' (Dilated Pupils)** und **'Ducken' (Crouching)**. Bei plötzlichen Geräuschen erweitern sich die Pupillen. Wenn sie sich flach an den Boden pressen und die Ohren anlegen, haben sie extreme Angst und bereiten sich auf die Flucht vor.",
+                "body_signals": [
+                    {
+                        "name": "Erweiterte Pupillen (Dilated Pupils)",
+                        "meaning": "Eine physische Reaktion, die zeigt, dass sie hochalarmiert, angespannt oder verängstigt sind.",
+                        "response": "Dimmen Sie das Licht und schalten Sie die Störquelle (wie Staubsauger oder Mixer) sofort aus."
+                    },
+                    {
+                        "name": "Ducken (Crouching)",
+                        "meaning": "Ein Zeichen von defensiver Panik, das zeigt, dass sie sich in die Enge getrieben fühlen.",
+                        "response": "Zwingen Sie sie nicht zum Kontakt. Lassen Sie sie in einen ruhigen Raum oder Schrank flüchten."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Pflege von Katzenklo und Futterplatz zur Beruhigung",
+                        "text": "Reinigen Sie das Katzenklo früh. Stellen Sie sicher, dass Futter- und Wassernapf in einer ruhigen Ecke ohne Laufverkehr stehen."
+                    },
+                    {
+                        "name": "Nachmittag: Pflege des erhöhten Aussichtsplatzes",
+                        "text": "Stellen Sie sicher, dass ihre gemütliche Katzenhöhle immer zugänglich ist. Dies bietet ihnen einen privaten Rückzugsort bei plötzlichem Lärm."
+                    },
+                    {
+                        "name": "Abend: Berührungsfreie Geruchsprobe und sanfte Annäherung",
+                        "text": "Anstatt direkt auf sie zuzugehen, halten Sie ihnen ruhig einen Zeigefinger hin. Lassen Sie sie zuerst schnuppern, um den Kontakt aufzunehmen."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Sollte ich meine Russisch Blau aus dem Versteck holen, wenn Gäste kommen?",
+                        "answer": "Auf keinen Fall. Sie aus ihrer Schutzzone zu zwingen, erzeugt Panik und beschädigt ihr Vertrauen in Sie. Lassen Sie sie im Versteck, bis die Gäste wieder weg sind."
+                    },
+                    {
+                        "question": "Wie gewinnt man das Vertrauen einer scheuen Russisch Blau am besten?",
+                        "answer": "Gehen Sie in die Hocke und vermeiden Sie direkten Augenkontakt, da Katzen dies als Bedrohung sehen. Lassen Sie sie am Finger schnuppern und belohnen Sie Annäherung."
+                    }
+                ],
+                "tags": [
+                    "RussischBlau",
+                    "ScheuesTemperament",
+                    "SichereVerstecke",
+                    "Katzenpflege"
+                ]
+            },
+            "pt": {
+                "title": "Refúgio seguro e geração de confiança: Rotina diária de 3 passos para o Azul Russo",
+                "description": "Os Azuis Russos são tímidos e sensíveis ao ruído. Aprenda a criar uma zona segura sem estresse e uma rotina de 3 passos para ganhar sua confiança.",
+                "authority": "Guia de Raças da Cat Fanciers' Association (CFA) e Cornell Feline Health Center",
+                "profile": {
+                    "breed": "Azul Russo (Felis catus / Russian Blue)",
+                    "lifespan": "15 ~ 20 anos",
+                    "sleep_pattern": "15 ~ 18 horas (busca esconderijos silenciosos e altos)",
+                    "temperament": "Reservado, Gentil, Muito Silencioso"
+                },
+                "intro": "Os Azuis Russos são felinos conhecidos por sua pelagem azul prateada e olhos verdes. Embora silenciosos e leais à sua família, são geneticamente tímidos e sensíveis a ruídos fortes. 🐱 É por isso que se escondem rapidamente quando há visitas ou soa o aspirador. Forçá-los a sair causa pânico. Hoje, o PetSelf detalha como criar um espaço seguro com uma rotina de 3 passos.",
+                "whyTitle": "Linguagem corporal do Azul Russo: Leitura dos sinais de pânico",
+                "whyDesc": "Devido à sua natureza gentil, os Azuis Russos mostram sinais de alerta em silêncio. Os sinais de pânico principais incluem **'pupilas dilatadas' (Dilated Pupils)** e **'encolher-se' (Crouching)**. Se houver um ruído ou aproximação de estranho, suas pupilas se dilatam. Se achatar o corpo contra o chão e deitar as orelhas para os lados, está com medo extremo.",
+                "body_signals": [
+                    {
+                        "name": "Pupilas dilatadas (Dilated Pupils)",
+                        "meaning": "Uma resposta física que indica que estão muito alertas, tensos ou assustados.",
+                        "response": "Diminua as luzes e interrompa imediatamente a fonte de estimulação (ruído de eletrodomésticos)."
+                    },
+                    {
+                        "name": "Encolher-se (Crouching)",
+                        "meaning": "Um sinal de pânico defensivo, mostrando que se sentem encurralados ou aterrorizados.",
+                        "response": "Não o force ao contato físico. Permita-lhe retirar-se para um quarto ou armário silencioso."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Rotina de segurança no caixote de areia e comedouro",
+                        "text": "Limpe o caixote de areia cedo. Certifique-se de que os pratos de comida e água estejam em um canto silencioso longe da passagem."
+                    },
+                    {
+                        "name": "Tarde: Manutenção do refúgio seguro em locais altos",
+                        "text": "Confirme que a cabana fechada do arranhador esteja sempre acessível. Isso lhe dá um refúgio elevado diante de ruídos ou visitas."
+                    },
+                    {
+                        "name": "Noite: Cheiro de mão não intrusivo e contato suave",
+                        "text": "Em vez de se aproximar diretamente para pegá-lo, estenda seu dedo indicador ao nível dele. Deixe-o cheirar sua mão primeiro para iniciar o contato."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Devo tirar o meu Azul Russo do esconderijo quando as visitas chegarem?",
+                        "answer": "De forma alguma. Forçá-lo a sair da zona de segurança causará pânico e prejudicará a confiança dele em você. Deixe-o escondido até que as visitas vão embora."
+                    },
+                    {
+                        "question": "Qual é a forma mais eficaz de me aproximar de um Azul Russo tímido?",
+                        "answer": "Abaixe o corpo e evite o contato visual direto, o qual os felinos veem como ameaça. Deixe-o cheirar seu dedo primeiro e recompense a aproximação com petiscos."
+                    }
+                ],
+                "tags": [
+                    "AzulRusso",
+                    "TemperamentoTímido",
+                    "EsconderijosSeguros",
+                    "CuidadoDeGatos"
+                ]
+            },
+            "id": {
+                "title": "Tempat Sembunyi Aman dan Membangun Kepercayaan: Rutinitas Harian 3 Langkah untuk Russian Blue",
+                "description": "Russian Blue secara alami pemalu dan sensitif terhadap kebisingan. Pelajari cara menciptakan zona aman bebas stres dan 3 langkah rutinitas harian untuk membangun kepercayaan.",
+                "authority": "Panduan Ras Cat Fanciers' Association (CFA) & Cornell Feline Health Center",
+                "profile": {
+                    "breed": "Russian Blue (Felis catus)",
+                    "lifespan": "15 ~ 20 tahun",
+                    "sleep_pattern": "15 ~ 18 jam (mencari tempat sembunyi yang tenang)",
+                    "temperament": "Pendiam, Lembut, Sangat Tenang"
+                },
+                "intro": "Russian Blue adalah kucing menawan yang terkenal dengan bulu biru keperakan pendek dan mata hijau mereka. Meskipun pendiam dan lembut, mereka secara genetik pemalu dan sangat sensitif terhadap kebisingan. 🐱 Inilah mengapa mereka cepat bersembunyi saat ada tamu berkunjung atau penyedot debu menyala. Memaksa mereka keluar hanya menyebabkan kepanikan. Hari ini, PetSelf memperkenalkan 3 langkah rutinitas harian.",
+                "whyTitle": "Bahasa Tubuh Russian Blue: Membaca Tanda Peringatan Kepanikan",
+                "whyDesc": "Karena sifat mereka yang lembut, Russian Blue menunjukkan sinyal peringatan dengan tenang. Sinyal kepanikan utama meliputi **'pupil melebar' (Dilated Pupils)** dan **'merunduk' (Crouching)**. Ketika mendengar suara tiba-tiba, pupil mereka akan melebar. Jika mereka menekan tubuh ke lantai dan meratakan telinga, mereka bersiap untuk melarikan diri.",
+                "body_signals": [
+                    {
+                        "name": "Pupil Melebar (Dilated Pupils)",
+                        "meaning": "Respons fisik yang menunjukkan mereka sangat waspada atau takut oleh pemicu sekitar.",
+                        "response": "Redupkan lampu dan segera hentikan sumber stimulasi (seperti kebisingan peralatan rumah tangga)."
+                    },
+                    {
+                        "name": "Merunduk (Crouching)",
+                        "meaning": "Tanda kepanikan defensif, menunjukkan mereka merasa terpojok atau ketakutan.",
+                        "response": "Jangan paksa mereka melakukan kontak fisik. Biarkan mereka mundur ke ruangan atau lemari yang tenang."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Rutinitas Keamanan Kotak Pasir dan Area Makan",
+                        "text": "Bersihkan kotak pasir lebih awal. Pastikan mangkuk makanan dan air diletakkan di sudut yang tenang jauh dari lalu lintas orang."
+                    },
+                    {
+                        "name": "Siang: Perawatan Tempat Berlindung yang Tinggi dan Tenang",
+                        "text": "Pastikan kondo pohon kucing yang tertutup selalu dapat diakses. Ini memberi mereka tempat pelarian pribadi yang tinggi."
+                    },
+                    {
+                        "name": "Malam: Mengendus Tangan Tanpa Paksaan dan Ikatan Lembut",
+                        "text": "Alih-alih mendekati mereka untuk langsung menggendong, ulurkan jari telunjuk Anda dengan tenang. Biarkan mereka mengendus tangan Anda terlebih dahulu."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Haruskah saya memaksa Russian Blue saya keluar dari tempat sembunyi saat tamu datang?",
+                        "answer": "Sama sekali tidak. Memaksa mereka keluar dari zona aman akan memicu kepanikan dan merusak kepercayaan mereka pada Anda. Biarkan mereka bersembunyi sampai tamu pergi."
+                    },
+                    {
+                        "question": "Apa cara paling efektif untuk dekat dengan Russian Blue yang pemalu?",
+                        "answer": "Rendahkan postur Anda dan hindari kontak mata langsung, yang dianggap kucing sebagai ancaman. Biarkan mereka mengendus jari Anda terlebih dahulu."
+                    }
+                ],
+                "tags": [
+                    "RussianBlue",
+                    "TemperamenPemalu",
+                    "TempatSembunyiAman",
+                    "PerawatanKucing"
+                ]
+            }
         },
-        "intro": "러시안 블루는 은빛이 감도는 짧은 청색 털과 초록색 눈을 가진 매혹적인 고양이입니다. 조용하고 차분하며 보호자를 매우 깊이 사랑하는 가족형 고양이지만, 유전적으로 낯가림이 매우 심하고 겁이 많아 집안의 환경 변화나 갑작스러운 소음에 소심하게 반응하곤 합니다. 🐱 낯선 손님이 방문하거나 가전제품 소음이 나면 캣타워 콘도 깊숙이 숨어 오랫동안 나오지 않는 행동도 바로 이 때문입니다. 러시안 블루는 보호자가 억지로 숨은 공간에서 꺼내려 할 때 더 큰 스트레스를 받습니다. 오늘 PetSelf에서는 소심한 러시안 블루가 안심하고 지낼 수 있는 안전한 안식처 공간을 만들고, 차분하게 신뢰를 쌓아가는 3단계 데일리 교감법을 소개합니다.",
-        "whyTitle": "러시안 블루의 바디 랭귀지: 경계와 불안의 극복",
-        "whyDesc": "러시안 블루는 조용한 성향만큼 자신의 불편함을 약하게 호소하다가 한계에 다다르면 반응합니다. 대표적으로는 **'동공 확장(Dilated Pupils)'**과 **'몸 낮춰 웅크리기(Crouching)'**가 있습니다. 갑작스러운 큰 소리가 나거나 낯선 사람이 만지려 할 때 눈의 동공이 까맣고 동그랗게 커지는 것은 긴장 상태를 뜻합니다. 이때 바닥에 몸을 밀착시키고 귀를 양옆으로 눕혀 마징가 귀를 만드는 행동은 극심한 공포를 느껴 도망치거나 공격을 준비하는 방어의 신호입니다.",
-        "body_signals": [
-          {
-            "name": "동공 확장 (Dilated Pupils)",
-            "meaning": "주변 위협 요소를 감지하고 스트레스 호르몬이 활성화되어 긴장했다는 표시입니다.",
-            "response": "불을 어둡게 해주고, 자극적인 원인(가전제품 소음 등)을 즉시 정지해 주십시오."
-          },
-          {
-            "name": "낮게 웅크리기 (Crouching)",
-            "meaning": "도망갈 길을 잃었거나 낯선 대상에 대해 극심한 방어적 공포를 느끼고 있다는 표시입니다.",
-            "response": "억지로 안아 올리려 하지 말고, 고양이가 안전하다고 느낄 수 있는 방이나 은신처로 대피하게 두십시오."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "아침: 화장실과 급식 공간의 청결 및 안전 확보",
-            "text": "예민하고 청결에 신경을 쓰는 러시안 블루를 위해, 아침 일찍 모래 화장실을 깨끗하게 청소하고 소음이 없는 구석 급식 공간 상태를 점검합니다."
-          },
-          {
-            "name": "오후: 높고 안정감 있는 캣타워 콘도 은신처 제공",
-            "text": "소음이나 스트레스 요인 발생 시 신속히 피신할 수 있도록, 문이 닫히는 콘도 형태의 캣타워 안전 공간이 침실 구석에 항상 열려 있는지 점검합니다."
-          },
-          {
-            "name": "저녁: 냄새 맡기(코인사)를 통한 억지 없는 점진적 교감",
-            "text": "저녁 퇴근 후 억지로 다가가 안으려 하지 말고, 검지손가락 끝을 조용히 내밀어 고양이가 냄새를 맡으며 인사(코인사)를 건넬 때까지 대기합니다."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "러시안 블루가 손님이 오면 절대 나오지 않는데 억지로 꺼내야 하나요?",
-            "answer": "절대 억지로 꺼내서는 안 됩니다. 낯선 대상과의 원치 않는 접촉은 극심한 공포심을 자극해 보호자와의 신뢰마저 깨뜨릴 수 있습니다. 손님이 돌아갈 때까지 스스로 은신처에 머물게 두는 것이 가장 현명한 대처입니다."
-          },
-          {
-            "question": "소심한 러시안 블루와 친해지는 가장 효과적인 비결이 무엇인가요?",
-            "answer": "눈높이를 낮추고 시선을 직접적으로 마주치지 않는 것입니다. 고양이 세계에서 뚫어지게 응시하는 것은 도전의 의미이므로, 시선을 비껴뜨고 손끝 냄새 맡기(코인사)를 유도하며 좋아하는 간식 보상을 반복하는 것이 좋습니다."
-          }
-        ],
-        "tags": [
-          "러시안블루",
-          "소심한성격",
-          "은신처확보",
-          "반려묘홈케어"
-        ]
-      },
-      "en": {
-        "title": "Safe Haven and Trust Building: A 3-Step Daily Routine for Russian Blue Cats",
-        "description": "Russian Blues are naturally shy and highly sensitive to noise. Learn how to create a stress-free safe zone and a 3-step routine for building trust with them.",
-        "authority": "Cat Fanciers' Association (CFA) Breed Standards & Cornell Feline Health Center Guidelines",
-        "profile": {
-          "breed": "Russian Blue (Felis catus)",
-          "lifespan": "15 ~ 20 years",
-          "sleep_pattern": "15 ~ 18 hours (seeks quiet, elevated hiding spots)",
-          "temperament": "Reserved, Gentle, Highly Quiet"
-        },
-        "intro": "Russian Blues are captivating felines renowned for their short, silvery-blue coat and striking green eyes. While quiet, gentle, and deeply loyal to their family, they are genetically shy, reserved, and highly sensitive to loud noises or environment changes. 🐱 This is why they quickly hide inside cat trees or closets when a guest visits or when a vacuum cleaner runs. Forcing them out of their hiding spots only causes more panic. Today, PetSelf details how to build a safe, stress-free space for your shy Russian Blue and introduces a 3-step routine to build a strong bond with them.",
-        "whyTitle": "Russian Blue Body Language: Reading Warning Signs of Panic",
-        "whyDesc": "Because of their gentle nature, Russian Blues show warning signals quietly before reacting. Key panic signals include **'Dilated Pupils'** and **'Crouching'**. When they hear a sudden noise or are approached by a stranger, their pupils will dilate, becoming large and round as their stress system activates. If they press their body flat against the floor and flatten their ears sideways into 'airplane ears', they are experiencing extreme fear and are preparing to flee or defend themselves.",
-        "body_signals": [
-          {
-            "name": "Dilated Pupils",
-            "meaning": "A physical response indicating they are highly alert, tensed, or scared by surrounding triggers.",
-            "response": "Dim the lights and immediately stop the stimulating source (like household appliance noises)."
-          },
-          {
-            "name": "Crouching Low to the Floor",
-            "meaning": "A sign of defensive panic, showing they feel cornered, helpless, or terrified by an unfamiliar target.",
-            "response": "Do not force them into physical contact. Allow them to retreat to a quiet room or cabinet where they feel safe."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Morning: Litter Box and Feeding Station Safety Routine",
-            "text": "Clean the litter box early for this sensitive breed. Ensure their food and water bowls are placed in a quiet corner away from household foot traffic."
-          },
-          {
-            "name": "Afternoon: Quiet High-Rise Safe Haven Maintenance",
-            "text": "Confirm that their cozy, enclosed cat tree condo is always accessible. This gives them a private, elevated escape from unexpected visitors or noises."
-          },
-          {
-            "name": "Evening: Non-Intrusive Hand Sniff and Soft Bonding",
-            "text": "Instead of approaching them directly to pick them up, extend your index finger quietly at their eye level. Let them sniff your hand first to initiate contact."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Should I drag my Russian Blue out of their hiding spot when guests arrive?",
-            "answer": "Absolutely not. Forcing them out of their safe zone triggers severe panic and can damage their trust in you. Let them stay in their hiding spot until the guests leave."
-          },
-          {
-            "question": "What is the most effective way to bond with a shy Russian Blue?",
-            "answer": "Lower your posture and avoid direct, prolonged eye contact, which felines view as a threat. Let them sniff your finger first, and reward them with their favorite treats when they approach."
-          }
-        ],
-        "tags": [
-          "RussianBlue",
-          "ShyTemperament",
-          "SafeHidingSpots",
-          "CatHomeCare"
-        ]
-      },
-      "ja": {
-        "title": "警戒心が強く繊細なロシアンブルーのための隠れ家と3段階信頼日常ルーティン",
-        "description": "人見知りで大きな音に敏感なロシアンブルー。ストレスを和らげる快適な隠れ家の作り方と、距離感を尊重する3段階の信頼獲得ルーティンを紹介します。",
-        "authority": "キャットファンシャーズアソシエーション(CFA)ガイド＆コーネル猫健康センター行動指針",
-        "profile": {
-          "breed": "ロシアンブルー (Felis catus / Russian Blue)",
-          "lifespan": "15 ~ 20年",
-          "sleep_pattern": "15 ~ 18時間（静かで高いアジト優先型）",
-          "temperament": "控えめ、慎重、非常に静か"
-        },
-        "intro": "ロシアンブルーは、銀色を帯びた青く美しい短毛とエメラルドグリーンの瞳を持つ神秘的な猫です。物静かで落ち着きがあり、家族を深く愛しますが、遺伝的に警戒心が非常に強く慎重なため、室内の環境変化や突然の騒音に敏感に反応します。🐱 突然の来客や掃除機の音がすると、キャットタワーのハウスの奥に隠れて長い時間出てこないのもこのためです。無理やり引っ張り出そうとするとさらに強いストレスを感じます。本日PetSelfでは、繊細なロシアンブルーが安心して過ごせる隠れ家を整え、信頼を築く3段階スキンシップルーティンをご紹介します。",
-        "whyTitle": "ロシアンブルーのボディランゲージ：警戒と不安の克服",
-        "whyDesc": "ロシアンブルーは大人しい性格である分、不快感を静かに表現しますが、限界に達すると行動に出ます。代表的なのは**「瞳孔拡張（Dilated Pupils）」**と**「体を低くしてうずくまる（Crouching）」**です。突然大きな音がしたり、知らない人が触ろうとした時に黒目が大きく丸くなるのは、極度の緊張を示します。また、床に体を密着させて耳を横に倒す「イカ耳」にするしぐさは、強い恐怖を感じて逃げるか攻撃するかの防衛サインです。",
-        "body_signals": [
-          {
-            "name": "瞳孔拡張 (Dilated Pupils)",
-            "meaning": "周囲の脅威を感知し、ストレスホルモンが活性化して緊張しているサインです。",
-            "response": "部屋の明かりを暗くし、刺激の要素（掃除機の音など）をすぐに止めてください。"
-          },
-          {
-            "name": "体を低くしてうずくまる (Crouching)",
-            "meaning": "逃げ道がなくなり、知らない対象に対して強い恐怖を感じているサインです。",
-            "response": "無理に抱き上げようとせず、猫が安全だと感じる部屋や隠れ家に逃げ込ませてあげてください。"
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "朝：トイレと食事スペースの衛生と安全確保",
-            "text": "神経質で清潔好きなロシアンブルーのため、朝一番にトイレを綺麗に掃除し、物音のしない部屋の隅の給餌スペースを確認します。"
-          },
-          {
-            "name": "昼：静かで安定感のあるキャットタワー隠れ家の確保",
-            "text": "騒音やストレスの要因が現れた際、すぐに避難できるよう、入り口の狭いドーム型のキャットタワーなどが常に解放されているか点検します。"
-          },
-          {
-            "name": "夜：においを嗅がせることによる無理のない段階的スキンシップ",
-            "text": "夜の帰宅後、無理に抱き上げようとせず、人差し指の先を静かに差し出して、猫がにおいを嗅いで挨拶するまで落ち着いて待ちます。"
-          }
-        ],
-        "faqs": [
-          {
-            "question": "ロシアンブルーが来客時に隠れて出てこないのですが、引っ張り出すべきですか？",
-            "answer": "絶対に無理に引っ張り出さないでください。好まない対面は強い恐怖を与え、飼い主への信頼関係までも壊してしまいます。お客様が帰るまで、自分で選んだ隠れ家にいさせてあげるのが一番です。"
-          },
-          {
-            "question": "シャイなロシアンブルーと仲良くなる最も効果的な方法は何ですか？",
-            "answer": "姿勢を低くし、目を直接見つめ続けないことです。猫にとって凝視することは脅威を意味するため、視線を外し、指のにおい嗅ぎ（鼻タッチ）を促し、おやつをあげることを繰り返してください。"
-          }
-        ],
-        "tags": [
-          "ロシアンブルー",
-          "人見知りな性格",
-          "隠れ場所の確保",
-          "愛猫ホームケア"
-        ]
-      },
-      "zh": {
-        "title": "为胆小内向的俄罗斯蓝猫提供避风港：3步日常建立信任护理流程",
-        "description": "俄罗斯蓝猫天生胆小，对噪音极度敏感。介绍如何为其打造无压力的安全区域，以及3步日常建立信任的触碰护理流程。",
-        "authority": "爱猫者协会 (CFA) 品种标准与康奈尔猫科健康中心指南",
-        "profile": {
-          "breed": "俄罗斯蓝猫 (Felis catus / Russian Blue)",
-          "lifespan": "15 ~ 20年",
-          "sleep_pattern": "15 ~ 18小时（寻求安静且高处的藏身所型）",
-          "temperament": "内敛、温和、非常安静"
-        },
-        "intro": "俄罗斯蓝猫是一种迷人的猫咪，以其银蓝色短毛和绿色的眼睛而闻名。它们安静、温和且对家庭极度忠诚，但在遗传上较为胆小、内向，对噪音或环境的变化极度敏感。🐱 这就是为什么当有客人来访或吸尘器运行时，它们会迅速躲进猫爬架或衣柜深处。强迫它们出来只会引起更多的恐慌。今天 PetSelf 将分享如何为内向的俄罗斯蓝猫打造安全的避风港，并介绍一套3步日常建立信任的触碰护理流程。",
-        "whyTitle": "俄罗斯蓝猫的身体语言：解读恐慌的预警信号",
-        "whyDesc": "由于性格温和，俄罗斯蓝猫在做出反应前会静静地发出警告信号。关键的恐慌信号包括 **“瞳孔放大（Dilated Pupils）”** 和 **“身体低伏（Crouching）”**。当听到突然的噪音或有陌生人靠近时，它们的瞳孔会放大，变得又大又圆，表明压力系统已激活。如果它们将身体平贴在地面上，并向两侧展平耳朵，说明它们正在经历极度的恐惧，正准备逃跑或自卫。",
-        "body_signals": [
-          {
-            "name": "瞳孔放大 (Dilated Pupils)",
-            "meaning": "表明感应到了周围的威胁，压力荷尔蒙已激活，正处于高度警惕与紧张的状态。",
-            "response": "调暗光线，并立即关闭带来刺激的源头（如吸尘器或吹风机等电器噪音）。"
-          },
-          {
-            "name": "身体低伏 (Crouching)",
-            "meaning": "表示在防御性恐慌中感到了无助、害怕，或是感觉被逼入死角。",
-            "response": "切勿强行抱起它们。允许它们退避到安静的房间或柜子等隐蔽处。"
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "早晨：猫砂盆与喂食区域的安全维护",
-            "text": "清扫猫砂盆。确保它们的食物和水盆放置在远离日常走动和噪音的安静角落中，以此建立安全感。"
-          },
-          {
-            "name": "中午：高耸安静的安全避难所维护",
-            "text": "确认位于卧室角落的、封闭式的猫爬架猫窝始终敞开并可供使用。这能为其提供一个远离突发噪音或访客的高处私密避难所。"
-          },
-          {
-            "name": "晚上：无侵入性的指尖嗅闻与渐进式亲密建立",
-            "text": "晚上回家后，切勿直接走过去抱它们，而是应该在它们高度静静地伸出食指指尖。让它们先嗅闻您的手指，以此开启友好的接触。"
-          }
-        ],
-        "faqs": [
-          {
-            "question": "当有客人来访时，我应该把躲起来的俄罗斯蓝猫拖出来吗？",
-            "answer": "绝对不要强行拖出。强迫它们脱离安全区域会引发恐慌，并破坏它们对您的信任。请允许它们留在隐蔽处，直到客人离开。"
-          },
-          {
-            "question": "与胆小内向的俄罗斯蓝猫建立联系最有效的方法是什么？",
-            "answer": "放低您的姿态，避免直接且持续地盯着它们看，因为猫咪将注视视为威胁。让它们先嗅闻您的手指，并在它们靠近时给予零食奖励。"
-          }
-        ],
-        "tags": [
-          "俄罗斯蓝猫",
-          "胆小性格",
-          "安全隐蔽处",
-          "猫咪家庭护理"
-        ]
-      },
-      "es": {
-        "title": "Refugio seguro y generación de confianza: Rutina diaria de 3 pasos para el Azul Ruso",
-        "description": "Los Azules Rusos son tímidos y sensibles al ruido. Aprenda a crear una zona segura sin estrés y una rutina de 3 pasos para ganarse su confianza.",
-        "authority": "Guía de Razas de la Cat Fanciers' Association (CFA) y Cornell Feline Health Center",
-        "profile": {
-          "breed": "Azul Ruso (Felis catus / Russian Blue)",
-          "lifespan": "15 ~ 20 años",
-          "sleep_pattern": "15 ~ 18 horas (busca escondites silenciosos y altos)",
-          "temperament": "Reservado, Gentil, Muy Silencioso"
-        },
-        "intro": "Los Azules Rusos son felinos conocidos por su pelaje azul plateado y sus ojos verdes. Aunque son silenciosos y leales a su familia, son genéticamente tímidos y sensibles a los ruidos fuertes. 🐱 Es por eso que se esconden rápidamente cuando hay visitas o suena la aspiradora. Obligarlos a salir de sus escondites les causa pánico. Hoy, PetSelf detalla cómo crear un espacio seguro con una rutina de 3 pasos.",
-        "whyTitle": "Lenguaje corporal del Azul Ruso: Lectura de las señales de pánico",
-        "whyDesc": "Debido a su naturaleza gentil, los Azules Rusos muestran señales de advertencia en silencio. Las señales clave incluyen **'pupilas dilatadas' (Dilated Pupils)** y **'encogerse' (Crouching)**. Si escucha un ruido o se acerca un extraño, sus pupilas se dilatan. Si aplasta su cuerpo contra el suelo y aplana las orejas hacia los lados, experimenta un miedo extremo y se prepara para huir.",
-        "body_signals": [
-          {
-            "name": "Pupilas dilatadas (Dilated Pupils)",
-            "meaning": "Una respuesta física que indica que están muy alertas, tensos o asustados por estímulos.",
-            "response": "Atenúe las luces e interrumpa de inmediato la fuente de estimulación (ruido de electrodomésticos)."
-          },
-          {
-            "name": "Encogerse (Crouching)",
-            "meaning": "Una señal de pánico defensivo, que muestra que se sienten acorralados o aterrorizados.",
-            "response": "No lo obligue al contacto físico. Permítale retirarse a una habitación o armario silencioso."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Mañana: Rutina de seguridad en arenero y comedero",
-            "text": "Limpie el arenero temprano. Asegúrese de que sus platos de comida y agua estén en un rincón tranquilo lejos del paso de la gente."
-          },
-          {
-            "name": "Tarde: Mantenimiento del refugio seguro en las alturas",
-            "text": "Confirme que su cubículo cerrado en el árbol rascador esté siempre accesible. Esto le da una salida elevada ante ruidos o visitas."
-          },
-          {
-            "name": "Noche: Olfateo de mano no intrusivo y contacto suave",
-            "text": "En lugar de acercarse directamente para cargarlo, extienda su dedo índice a su nivel. Deje que olfatee su mano primero para iniciar el contacto."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "¿Debería forzar a mi Azul Ruso a salir de su escondite cuando hay visitas?",
-            "answer": "Bajo ningún concepto. Obligarlo a salir de su zona segura le causará pánico y dañará la confianza que le tiene. Déjelo allí hasta que se vayan las visitas."
-          },
-          {
-            "question": "¿Cuál es la forma más efectiva de ganarse a un Azul Ruso tímido?",
-            "answer": "Agáchese y evite mirarlo directamente a los ojos, ya que lo ven como amenaza. Deje que olfatee su dedo primero y premie su acercamiento con bocadillos."
-          }
-        ],
-        "tags": [
-          "AzulRuso",
-          "TemperamentoTímido",
-          "EsconditesSeguros",
-          "CuidadoDeGatos"
-        ]
-      },
-      "fr": {
-        "title": "Havre de paix et création de confiance : Routine quotidienne en 3 étapes pour le Bleu Russe",
-        "description": "Le Bleu Russe est timide et sensible au bruit. Apprenez à lui créer un havre de paix sans stress et appliquez une routine en 3 étapes pour gagner sa confiance.",
-        "authority": "Guide de la Cat Fanciers' Association (CFA) et Cornell Feline Health Center",
-        "profile": {
-          "breed": "Bleu Russe (Felis catus / Russian Blue)",
-          "lifespan": "15 ~ 20 ans",
-          "sleep_pattern": "15 ~ 18 heures (cherche des cachettes calmes et surélevées)",
-          "temperament": "Réservé, Doux, Très Calme"
-        },
-        "intro": "Le Bleu Russe est un félin réputé pour son pelage bleu argenté et ses yeux verts. S'il est calme, doux et très attaché à sa famille, il est génétiquement timide et très sensible aux bruits. 🐱 C'est pourquoi il se cache rapidement lorsqu'un invité arrive ou qu'un aspirateur fonctionne. Le forcer à sortir ne fait qu'augmenter son stress. Aujourd'hui, PetSelf explique comment lui offrir un havre de paix avec une routine en 3 étapes.",
-        "whyTitle": "Langage corporel du Bleu Russe : Lire les signes de panique",
-        "whyDesc": "De nature douce, le Bleu Russe émet des signaux d'avertissement discrets. Les signes clés de panique sont les **« pupilles dilatées » (Dilated Pupils)** et la **« posture accroupie » (Crouching)**. Face à un bruit ou un inconnu, ses pupilles s'agrandissent. S'il plaque son corps au sol et replie ses oreilles sur les côtés, il ressent une peur intense et s'apprête à fuir.",
-        "body_signals": [
-          {
-            "name": "Pupilles dilatées (Dilated Pupils)",
-            "meaning": "Une réponse physique indiquant qu'il est très alerte, tendu ou effrayé.",
-            "response": "Tamisez les lumières et arrêtez immédiatement la source de stress (bruit d'appareil ménager)."
-          },
-          {
-            "name": "Posture accroupie (Crouching)",
-            "meaning": "Un signe de panique défensive, montrant qu'il se sent acculé ou terrifié.",
-            "response": "Ne le forcez pas au contact physique. Laissez-le se réfugier dans une pièce calme ou un placard."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Matin : Entretien sécurisé de la litière et des gamelles",
-            "text": "Nettoyez la litière tôt. Assurez-vous que ses gamelles sont placées dans un coin calme, à l'écart des passages et du bruit."
-          },
-          {
-            "name": "Après-midi : Entretien de son refuge surélevé",
-            "text": "Vérifiez que la cabane fermée de son arbre à chat est toujours accessible. Cela lui offre une échappatoire en hauteur en cas de bruit ou de visite."
-          },
-          {
-            "name": "Soir : Présentation de la main pour reniflement et contact doux",
-            "text": "Au lieu d'aller directement vers lui pour le porter, présentez tranquillement votre index à sa hauteur. Laissez-le d'abord vous renifler."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Dois-je faire sortir mon Bleu Russe de sa cachette quand j'ai des invités ?",
-            "answer": "Absolument pas. Le forcer à sortir de son refuge provoquerait une panique et briserait sa confiance en vous. Laissez-le caché jusqu'au départ des invités."
-          },
-          {
-            "question": "Quel est le moyen le plus efficace de s'apprivoiser un Bleu Russe timide ?",
-            "answer": "Baissez-vous et évitez de le regarder fixement, ce que les chats perçoivent comme une menace. Laissez-le renifler votre doigt et récompensez-le avec des friandises."
-          }
-        ],
-        "tags": [
-          "BleuRusse",
-          "CaractèreTimide",
-          "CachettesSécurisées",
-          "SoinsFélins"
-        ]
-      },
-      "de": {
-        "title": "Sicherer Hafen und Vertrauensbildung: Tägliche 3-Schritte-Routine für Russisch Blau",
-        "description": "Russisch Blau Katzen sind von Natur aus scheu und geräuschempfindlich. Erfahren Sie, wie Sie eine stressfreie Schutzzone schaffen und Vertrauen aufbauen.",
-        "authority": "Rasseführer der Cat Fanciers' Association (CFA) & Cornell Feline Health Center",
-        "profile": {
-          "breed": "Russisch Blau (Felis catus / Russian Blue)",
-          "lifespan": "15 ~ 20 Jahre",
-          "sleep_pattern": "15 ~ 18 Stunden (sucht ruhige, erhöhte Verstecke)",
-          "temperament": "Zurückhaltend, Sanft, Sehr ruhig"
-        },
-        "intro": "Russisch Blau Katzen haben ein silbrig-blaues Fell und grüne Augen. Sie sind ruhig, sanft und loyal, aber von Natur aus scheu und geräuschempfindlich. 🐱 Sie verstecken sich schnell bei Besuch oder Staubsaugergeräuschen. Sie aus dem Versteck zu zwingen, erzeugt Panik. Heute zeigt PetSelf, wie Sie einen sicheren Hafen schaffen und mit einer 3-Schritte-Routine Vertrauen aufbauen.",
-        "whyTitle": "Körpersprache der Russisch Blau: Warnzeichen von Panik lesen",
-        "whyDesc": "Aufgrund ihres sanften Wesens zeigen Russisch Blau Warnsignale sehr leise. Wichtige Paniksignale sind **'erweiterte Pupillen' (Dilated Pupils)** und **'Ducken' (Crouching)**. Bei plötzlichen Geräuschen erweitern sich die Pupillen. Wenn sie sich flach an den Boden pressen und die Ohren anlegen, haben sie extreme Angst und bereiten sich auf die Flucht vor.",
-        "body_signals": [
-          {
-            "name": "Erweiterte Pupillen (Dilated Pupils)",
-            "meaning": "Eine physische Reaktion, die zeigt, dass sie hochalarmiert, angespannt oder verängstigt sind.",
-            "response": "Dimmen Sie das Licht und schalten Sie die Störquelle (wie Staubsauger oder Mixer) sofort aus."
-          },
-          {
-            "name": "Ducken (Crouching)",
-            "meaning": "Ein Zeichen von defensiver Panik, das zeigt, dass sie sich in die Enge getrieben fühlen.",
-            "response": "Zwingen Sie sie nicht zum Kontakt. Lassen Sie sie in einen ruhigen Raum oder Schrank flüchten."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Morgen: Pflege von Katzenklo und Futterplatz zur Beruhigung",
-            "text": "Reinigen Sie das Katzenklo früh. Stellen Sie sicher, dass Futter- und Wassernapf in einer ruhigen Ecke ohne Laufverkehr stehen."
-          },
-          {
-            "name": "Nachmittag: Pflege des erhöhten Aussichtsplatzes",
-            "text": "Stellen Sie sicher, dass ihre gemütliche Katzenhöhle immer zugänglich ist. Dies bietet ihnen einen privaten Rückzugsort bei plötzlichem Lärm."
-          },
-          {
-            "name": "Abend: Berührungsfreie Geruchsprobe und sanfte Annäherung",
-            "text": "Anstatt direkt auf sie zuzugehen, halten Sie ihnen ruhig einen Zeigefinger hin. Lassen Sie sie zuerst schnuppern, um den Kontakt aufzunehmen."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Sollte ich meine Russisch Blau aus dem Versteck holen, wenn Gäste kommen?",
-            "answer": "Auf keinen Fall. Sie aus ihrer Schutzzone zu zwingen, erzeugt Panik und beschädigt ihr Vertrauen in Sie. Lassen Sie sie im Versteck, bis die Gäste wieder weg sind."
-          },
-          {
-            "question": "Wie gewinnt man das Vertrauen einer scheuen Russisch Blau am besten?",
-            "answer": "Gehen Sie in die Hocke und vermeiden Sie direkten Augenkontakt, da Katzen dies als Bedrohung sehen. Lassen Sie sie am Finger schnuppern und belohnen Sie Annäherung."
-          }
-        ],
-        "tags": [
-          "RussischBlau",
-          "ScheuesTemperament",
-          "SichereVerstecke",
-          "Katzenpflege"
-        ]
-      },
-      "pt": {
-        "title": "Refúgio seguro e geração de confiança: Rotina diária de 3 passos para o Azul Russo",
-        "description": "Os Azuis Russos são tímidos e sensíveis ao ruído. Aprenda a criar uma zona segura sem estresse e uma rotina de 3 passos para ganhar sua confiança.",
-        "authority": "Guia de Raças da Cat Fanciers' Association (CFA) e Cornell Feline Health Center",
-        "profile": {
-          "breed": "Azul Russo (Felis catus / Russian Blue)",
-          "lifespan": "15 ~ 20 anos",
-          "sleep_pattern": "15 ~ 18 horas (busca esconderijos silenciosos e altos)",
-          "temperament": "Reservado, Gentil, Muito Silencioso"
-        },
-        "intro": "Os Azuis Russos são felinos conhecidos por sua pelagem azul prateada e olhos verdes. Embora silenciosos e leais à sua família, são geneticamente tímidos e sensíveis a ruídos fortes. 🐱 É por isso que se escondem rapidamente quando há visitas ou soa o aspirador. Forçá-los a sair causa pânico. Hoje, o PetSelf detalha como criar um espaço seguro com uma rotina de 3 passos.",
-        "whyTitle": "Linguagem corporal do Azul Russo: Leitura dos sinais de pânico",
-        "whyDesc": "Devido à sua natureza gentil, os Azuis Russos mostram sinais de alerta em silêncio. Os sinais de pânico principais incluem **'pupilas dilatadas' (Dilated Pupils)** e **'encolher-se' (Crouching)**. Se houver um ruído ou aproximação de estranho, suas pupilas se dilatam. Se achatar o corpo contra o chão e deitar as orelhas para os lados, está com medo extremo.",
-        "body_signals": [
-          {
-            "name": "Pupilas dilatadas (Dilated Pupils)",
-            "meaning": "Uma resposta física que indica que estão muito alertas, tensos ou assustados.",
-            "response": "Diminua as luzes e interrompa imediatamente a fonte de estimulação (ruído de eletrodomésticos)."
-          },
-          {
-            "name": "Encolher-se (Crouching)",
-            "meaning": "Um sinal de pânico defensivo, mostrando que se sentem encurralados ou aterrorizados.",
-            "response": "Não o force ao contato físico. Permita-lhe retirar-se para um quarto ou armário silencioso."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Manhã: Rotina de segurança no caixote de areia e comedouro",
-            "text": "Limpe o caixote de areia cedo. Certifique-se de que os pratos de comida e água estejam em um canto silencioso longe da passagem."
-          },
-          {
-            "name": "Tarde: Manutenção do refúgio seguro em locais altos",
-            "text": "Confirme que a cabana fechada do arranhador esteja sempre acessível. Isso lhe dá um refúgio elevado diante de ruídos ou visitas."
-          },
-          {
-            "name": "Noite: Cheiro de mão não intrusivo e contato suave",
-            "text": "Em vez de se aproximar diretamente para pegá-lo, estenda seu dedo indicador ao nível dele. Deixe-o cheirar sua mão primeiro para iniciar o contato."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Devo tirar o meu Azul Russo do esconderijo quando as visitas chegarem?",
-            "answer": "De forma alguma. Forçá-lo a sair da zona de segurança causará pânico e prejudicará a confiança dele em você. Deixe-o escondido até que as visitas vão embora."
-          },
-          {
-            "question": "Qual é a forma mais eficaz de me aproximar de um Azul Russo tímido?",
-            "answer": "Abaixe o corpo e evite o contato visual direto, o qual os felinos veem como ameaça. Deixe-o cheirar seu dedo primeiro e recompense a aproximação com petiscos."
-          }
-        ],
-        "tags": [
-          "AzulRusso",
-          "TemperamentoTímido",
-          "EsconderijosSeguros",
-          "CuidadoDeGatos"
-        ]
-      },
-      "id": {
-        "title": "Tempat Sembunyi Aman dan Membangun Kepercayaan: Rutinitas Harian 3 Langkah untuk Russian Blue",
-        "description": "Russian Blue secara alami pemalu dan sensitif terhadap kebisingan. Pelajari cara menciptakan zona aman bebas stres dan 3 langkah rutinitas harian untuk membangun kepercayaan.",
-        "authority": "Panduan Ras Cat Fanciers' Association (CFA) & Cornell Feline Health Center",
-        "profile": {
-          "breed": "Russian Blue (Felis catus)",
-          "lifespan": "15 ~ 20 tahun",
-          "sleep_pattern": "15 ~ 18 jam (mencari tempat sembunyi yang tenang)",
-          "temperament": "Pendiam, Lembut, Sangat Tenang"
-        },
-        "intro": "Russian Blue adalah kucing menawan yang terkenal dengan bulu biru keperakan pendek dan mata hijau mereka. Meskipun pendiam dan lembut, mereka secara genetik pemalu dan sangat sensitif terhadap kebisingan. 🐱 Inilah mengapa mereka cepat bersembunyi saat ada tamu berkunjung atau penyedot debu menyala. Memaksa mereka keluar hanya menyebabkan kepanikan. Hari ini, PetSelf memperkenalkan 3 langkah rutinitas harian.",
-        "whyTitle": "Bahasa Tubuh Russian Blue: Membaca Tanda Peringatan Kepanikan",
-        "whyDesc": "Karena sifat mereka yang lembut, Russian Blue menunjukkan sinyal peringatan dengan tenang. Sinyal kepanikan utama meliputi **'pupil melebar' (Dilated Pupils)** dan **'merunduk' (Crouching)**. Ketika mendengar suara tiba-tiba, pupil mereka akan melebar. Jika mereka menekan tubuh ke lantai dan meratakan telinga, mereka bersiap untuk melarikan diri.",
-        "body_signals": [
-          {
-            "name": "Pupil Melebar (Dilated Pupils)",
-            "meaning": "Respons fisik yang menunjukkan mereka sangat waspada atau takut oleh pemicu sekitar.",
-            "response": "Redupkan lampu dan segera hentikan sumber stimulasi (seperti kebisingan peralatan rumah tangga)."
-          },
-          {
-            "name": "Merunduk (Crouching)",
-            "meaning": "Tanda kepanikan defensif, menunjukkan mereka merasa terpojok atau ketakutan.",
-            "response": "Jangan paksa mereka melakukan kontak fisik. Biarkan mereka mundur ke ruangan atau lemari yang tenang."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Pagi: Rutinitas Keamanan Kotak Pasir dan Area Makan",
-            "text": "Bersihkan kotak pasir lebih awal. Pastikan mangkuk makanan dan air diletakkan di sudut yang tenang jauh dari lalu lintas orang."
-          },
-          {
-            "name": "Siang: Perawatan Tempat Berlindung yang Tinggi dan Tenang",
-            "text": "Pastikan kondo pohon kucing yang tertutup selalu dapat diakses. Ini memberi mereka tempat pelarian pribadi yang tinggi."
-          },
-          {
-            "name": "Malam: Mengendus Tangan Tanpa Paksaan dan Ikatan Lembut",
-            "text": "Alih-alih mendekati mereka untuk langsung menggendong, ulurkan jari telunjuk Anda dengan tenang. Biarkan mereka mengendus tangan Anda terlebih dahulu."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Haruskah saya memaksa Russian Blue saya keluar dari tempat sembunyi saat tamu datang?",
-            "answer": "Sama sekali tidak. Memaksa mereka keluar dari zona aman akan memicu kepanikan dan merusak kepercayaan mereka pada Anda. Biarkan mereka bersembunyi sampai tamu pergi."
-          },
-          {
-            "question": "Apa cara paling efektif untuk dekat dengan Russian Blue yang pemalu?",
-            "answer": "Rendahkan postur Anda dan hindari kontak mata langsung, yang dianggap kucing sebagai ancaman. Biarkan mereka mengendus jari Anda terlebih dahulu."
-          }
-        ],
-        "tags": [
-          "RussianBlue",
-          "TemperamenPemalu",
-          "TempatSembunyiAman",
-          "PerawatanKucing"
-        ]
-      }
-    },
-    "category": "CareSelf",
-    "app": "careself",
-    "formatVersion": 4,
-    "heroImage": "/images/blog/russian_blue_care.png"
-  }
+        "category": "CareSelf",
+        "app": "careself",
+        "formatVersion": 4,
+        "heroImage": "/images/blog/russian_blue_care.webp"
+    }
 }

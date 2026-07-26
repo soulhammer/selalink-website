@@ -6,7 +6,7 @@ pubDate: "2026-02-23"
 updatedDate: "2026-02-23"
 category: "FreshSnap"
 tags: ["PenyimpananMakanan","PenyimpananSegar","mushroom"]
-heroImage: "/images/blog/mushroom_storage_hack.png"
+heroImage: "/images/blog/mushroom_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & MFDS & USDA</strong>"

@@ -6,35 +6,35 @@ pubDate: "2026-07-01"
 updatedDate: "2026-07-01"
 category: "FreshSelf"
 tags: ["宠物护理","宠物健康","吉娃娃 (Canis lupus familiaris)"]
-heroImage: "/images/blog/chihuahua_care.png"
+heroImage: "/images/blog/chihuahua_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "美国吉娃娃俱乐部官方手册与 AVMA 超小型犬代谢与健康护理指南"
 steps:
   - name: "吉娃娃发出的信号：情绪性发抖与防卫性低吼"
-    text: "吉娃娃因性格敏感且体型娇小，面对周围的威胁会发出剧烈的警告信号。最典型的反应是 “全身发抖（Shivering）” 和 “低吼警示（Growling）”。吉娃娃发抖不仅是在怕冷，也包含喜悦、兴奋、焦虑等情绪剧烈波动时，大脑向脊髓发送信号导致肌肉收缩 responses 情绪化表达。而皱起口吻发出低吼，是出于极度恐惧而发出 responses “请勿靠近”防卫信号。此时若强行去抱可能导致被咬，因此立刻保持距离才是安全做法。"
+    text: "吉娃娃因性格敏感且体型娇小，面对周围的威胁会发出剧烈的警告信号。最典型的反应是 “全身发抖（Shivering）” 和 “低吼警示（Growling）”。吉娃娃发抖不仅是在怕冷，也包含喜悦、兴奋、焦虑等情绪剧烈波动时，大脑向脊髓发送信号导致肌肉收缩的情绪化表达。而皱起口吻发出低吼，是出于极度恐惧而发出的“请勿靠近”防卫信号。此时若强行去抱可能导致被咬，因此立刻保持距离才是安全做法。"
   - name: "吉娃娃 (Canis lupus familiaris)'s Body Language & Signals"
-    text: "* 全身发抖 (Shivering): 由于怕冷 responses 身躯，或在兴奋、恐惧、紧张等情绪发生剧烈波动时产生。 (使用温暖 responses 毯子包裹以提升体温，并在无噪音 responses 地方安静拥抱以使其安宁。)
+    text: "* 全身发抖 (Shivering): 由于怕冷的身躯，或在兴奋、恐惧、紧张等情绪发生剧烈波动时产生。 (使用温暖的毯子包裹以提升体温，并在无噪音的地方安静拥抱以使其安宁。)
 
-* 露齿低吼 (Growling): 对试图触碰它的行为感到恐惧或防范，发出请勿靠近 responses 强烈警告。 (应立即停止触碰或靠近，拉开距离以让吉娃娃自己恢复平静。)"
+* 露齿低吼 (Growling): 对试图触碰它的行为感到恐惧或防范，发出请勿靠近的强烈警告。 (应立即停止触碰或靠近，拉开距离以让吉娃娃自己恢复平静。)"
   - name: "Customized 3-Step Home Care Routine"
-    text: "* STEP 1. 早晨：头顶囟门防护与保温室温设定: 为防头顶囟门（Molera）受压，严禁触摸或抓捏其头顶，并确认怕冷 responses 吉娃娃生活 responses 室内温度保持在 24 ~ 26 度左右 responses 温暖状态。
+    text: "* STEP 1. 早晨：头顶囟门防护与保温室温设定: 为防头顶囟门（Molera）受压，严禁触摸或抓捏其头顶，并确认怕冷的吉娃娃生活的室内温度保持在 24 ~ 26 度左右的温暖状态。
 
-* STEP 2. 中午：轻松 responses 嗅闻散步与声音脱敏交流: 因警惕性强，散步时避免强行与其他狗社交，多让其进行嗅闻探寻。在家里可进行5分钟 responses 声音脱敏训练（听到门铃声给零食奖励），防止神经质乱叫。
+* STEP 2. 中午：轻松的嗅闻散步与声音脱敏交流: 因警惕性强，散步时避免强行与其他狗社交，多让其进行嗅闻探寻。在家里可进行5分钟的声音脱敏训练（听到门铃声给零食奖励），防止神经质乱叫。
 
-* STEP 3. 晚上：严守给食周期以防低血糖休克与肉垫打滑修剪: 体型极小因此易发生空腹低血糖休克。应严格管理晚餐给食 responses 时间间隔周期，并用理发器剃除足底肉垫间的杂毛以防在室内打滑。"
+* STEP 3. 晚上：严守给食周期以防低血糖休克与肉垫打滑修剪: 体型极小因此易发生空腹低血糖休克。应严格管理晚餐给食的时间间隔周期，并用理发器剃除足底肉垫间的杂毛以防在室内打滑。"
 faqs:
   - question: "吉娃娃头顶的囟门（Molera）必须闭合吗？不闭合会很危险吗？"
     answer: "大约 80-90% 的吉娃娃终生都带着开放的囟门生活。囟门本身并非疾病，但由于颅骨顶部未闭合，脑部缺乏完整的骨骼保护，任何对头部的撞击或强力按压都极易导致脑损伤，必须小心防护。"
   - question: "吉娃娃浑身发抖总是因为感到寒冷吗？"
-    answer: "由于缺乏底毛和皮下脂肪，它们确实易因寒冷而发抖。但除此之外，在极度喜悦、对陌生环境产生防备等情绪剧烈兴奋时，其极度敏感 responses 神经系统也会引发肌肉震颤收缩。应根据当时情境判断原因。"
+    answer: "由于缺乏底毛和皮下脂肪，它们确实易因寒冷而发抖。但除此之外，在极度喜悦、对陌生环境产生防备等情绪剧烈兴奋时，其极度敏感的神经系统也会引发肌肉震颤收缩。应根据当时情境判断原因。"
 ---
 
-吉娃娃（Chihuahua）源自墨西哥，虽然拥有世界上最小的体型，但却展现出不输给雄狮般的刚强性格，是名副实 responses “小勇士”。大耳朵、圆眼睛以及自信的步伐极具魅力，对家长有着极强的忠诚心与独占欲。🐕
+吉娃娃（Chihuahua）源自墨西哥，虽然拥有世界上最小的体型，但却展现出不输给雄狮般的刚强性格，是名副实的“小勇士”。大耳朵、圆眼睛以及自信的步伐极具魅力，对家长有着极强的忠诚心与独占欲。🐕
 
-然而，作为超小型犬，其身体结构也存在许多脆弱之处。首先是颅骨顶部接合处可能未完全闭合而留有孔洞 responses “囟门（Molera）”特征。这意味着施加在头顶 responses 压力会直接传导至大脑，因此防止头顶受冲击 responses 技巧至关重要。此外，吉娃娃体脂极低且新陈代谢极其敏感，不仅极易怕冷发抖，且空腹时间稍长就容易引发导致休克 responses “低血糖症”。
+然而，作为超小型犬，其身体结构也存在许多脆弱之处。首先是颅骨顶部接合处可能未完全闭合而留有孔洞的“囟门（Molera）”特征。这意味着施加在头顶的压力会直接传导至大脑，因此防止头顶受冲击的技巧至关重要。此外，吉娃娃体脂极低且新陈代谢极其敏感，不仅极易怕冷发抖，且空腹时间稍长就容易引发导致休克的“低血糖症”。
 
-今天，PetSelf 将为您深度解读吉娃娃 responses 身体语言，并分享一套旨在保护颅脑安全及维持血糖平衡 responses 3步精准日常护理流程。
+今天，PetSelf 将为您深度解读吉娃娃的身体语言，并分享一套旨在保护颅脑安全及维持血糖平衡的3步精准日常护理流程。
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -58,7 +58,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">吉娃娃发出的信号：情绪性发抖与防卫性低吼</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    吉娃娃因性格敏感且体型娇小，面对周围的威胁会发出剧烈的警告信号。最典型的反应是 “全身发抖（Shivering）” 和 “低吼警示（Growling）”。吉娃娃发抖不仅是在怕冷，也包含喜悦、兴奋、焦虑等情绪剧烈波动时，大脑向脊髓发送信号导致肌肉收缩 responses 情绪化表达。而皱起口吻发出低吼，是出于极度恐惧而发出 responses “请勿靠近”防卫信号。此时若强行去抱可能导致被咬，因此立刻保持距离才是安全做法。
+    吉娃娃因性格敏感且体型娇小，面对周围的威胁会发出剧烈的警告信号。最典型的反应是 “全身发抖（Shivering）” 和 “低吼警示（Growling）”。吉娃娃发抖不仅是在怕冷，也包含喜悦、兴奋、焦虑等情绪剧烈波动时，大脑向脊髓发送信号导致肌肉收缩的情绪化表达。而皱起口吻发出低吼，是出于极度恐惧而发出的“请勿靠近”防卫信号。此时若强行去抱可能导致被咬，因此立刻保持距离才是安全做法。
   </p>
 </div>
 
@@ -72,8 +72,8 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">全身发抖 (Shivering)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• 含义:</strong> 由于怕冷 responses 身躯，或在兴奋、恐惧、紧张等情绪发生剧烈波动时产生。<br/>
-    <strong>•  national:</strong> 使用温暖 responses 毯子包裹以提升体温，并在无噪音 responses 地方安静拥抱以使其安宁。
+    <strong>• 含义:</strong> 由于怕冷的身躯，或在兴奋、恐惧、紧张等情绪发生剧烈波动时产生。<br/>
+    <strong>•  national:</strong> 使用温暖的毯子包裹以提升体温，并在无噪音的地方安静拥抱以使其安宁。
   </p>
 </div>
 
@@ -83,7 +83,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">露齿低吼 (Growling)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• 含义:</strong> 对试图触碰它的行为感到恐惧或防范，发出请勿靠近 responses 强烈警告。<br/>
+    <strong>• 含义:</strong> 对试图触碰它的行为感到恐惧或防范，发出请勿靠近的强烈警告。<br/>
     <strong>•  national:</strong> 应立即停止触碰或靠近，拉开距离以让吉娃娃自己恢复平静。
   </p>
 </div>
@@ -98,17 +98,17 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">早晨：头顶囟门防护与保温室温设定</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    为防头顶囟门（Molera）受压，严禁触摸或抓捏其头顶，并确认怕冷 responses 吉娃娃生活 responses 室内温度保持在 24 ~ 26 度左右 responses 温暖状态。
+    为防头顶囟门（Molera）受压，严禁触摸或抓捏其头顶，并确认怕冷的吉娃娃生活的室内温度保持在 24 ~ 26 度左右的温暖状态。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">中午：轻松 responses 嗅闻散步与声音脱敏交流</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">中午：轻松的嗅闻散步与声音脱敏交流</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    因警惕性强，散步时避免强行与其他狗社交，多让其进行嗅闻探寻。在家里可进行5分钟 responses 声音脱敏训练（听到门铃声给零食奖励），防止神经质乱叫。
+    因警惕性强，散步时避免强行与其他狗社交，多让其进行嗅闻探寻。在家里可进行5分钟的声音脱敏训练（听到门铃声给零食奖励），防止神经质乱叫。
   </p>
 </div>
 
@@ -118,7 +118,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">晚上：严守给食周期以防低血糖休克与肉垫打滑修剪</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    体型极小因此易发生空腹低血糖休克。应严格管理晚餐给食 responses 时间间隔周期，并用理发器剃除足底肉垫间的杂毛以防在室内打滑。
+    体型极小因此易发生空腹低血糖休克。应严格管理晚餐给食的时间间隔周期，并用理发器剃除足底肉垫间的杂毛以防在室内打滑。
   </p>
 </div>
 
@@ -147,7 +147,7 @@ faqs:
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      由于缺乏底毛和皮下脂肪，它们确实易因寒冷而发抖。但除此之外，在极度喜悦、对陌生环境产生防备等情绪剧烈兴奋时，其极度敏感 responses 神经系统也会引发肌肉震颤收缩。应根据当时情境判断原因。
+      由于缺乏底毛和皮下脂肪，它们确实易因寒冷而发抖。但除此之外，在极度喜悦、对陌生环境产生防备等情绪剧烈兴奋时，其极度敏感的神经系统也会引发肌肉震颤收缩。应根据当时情境判断原因。
     </p>
   </details>
 </div>

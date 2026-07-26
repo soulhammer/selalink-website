@@ -19,7 +19,7 @@ steps:
     text: "Pour hot water over your finely ground mixture to brew a fresh infusion. Savor the aroma and flavor while taking long, deep breaths, completing your brain's transition into serene alertness."
 faqs:
   - question: "How does the physical act of grinding herbs personally contribute to emotional stability?"
-    answer: "Repetitive movement performed at a constant speed stimulates the brain's serotonin system, suppressing excessive threat responses in the amygdala and restoring rational executive control in the prefrontal cortex."
+    answer: "Repetitive movement performed at a constant speed stimulates the brain's serotonin system, suppressing excessive threatin the amygdala and restoring rational executive control in the prefrontal cortex."
   - question: "How can I replicate this routine in modern daily life if I don't own a mortar and pestle?"
     answer: "Rotating a manual hand-drip coffee grinder at a constant speed, gently crushing tea leaves, or rolling palms together at a steady rhythm delivers identical serotonin-activating benefits. The key lies in maintaining a consistent tempo."
 ---
@@ -101,7 +101,7 @@ When feeling impatient or anxious, avoid forcing emotional control through sheer
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Repetitive movement performed at a constant speed stimulates the brain's serotonin system, suppressing excessive threat responses in the amygdala and restoring rational executive control in the prefrontal cortex.
+      Repetitive movement performed at a constant speed stimulates the brain's serotonin system, suppressing excessive threatin the amygdala and restoring rational executive control in the prefrontal cortex.
     </p>
   </details>
 

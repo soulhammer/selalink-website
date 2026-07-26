@@ -6,7 +6,7 @@ pubDate: "2026-05-06"
 updatedDate: "2026-05-06"
 category: "FreshSelf"
 tags: ["CuidadoPets","SaudePets","Furão de Marshall (Mustela putorius furo / Marshall Ferret)"]
-heroImage: "/images/blog/marshall_ferret_care.png"
+heroImage: "/images/blog/marshall_ferret_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Padrões da American Ferret Association e Diretrizes Veterinárias de Medicina Comportamental de Animais Exóticos"

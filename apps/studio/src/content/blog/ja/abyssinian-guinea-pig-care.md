@@ -6,7 +6,7 @@ pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "FreshSelf"
 tags: ["ペットケア","ペット健康","アビシニアンギニアピッグ (Abyssinian Guinea Pig)"]
-heroImage: "/images/blog/abyssinian_guinea_pig_care.png"
+heroImage: "/images/blog/abyssinian_guinea_pig_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "英国王立動物虐待防止協会（RSPCA）げっ歯類飼育基準およびエキゾチック獣医学ガイドライン"

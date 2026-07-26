@@ -6,7 +6,7 @@ pubDate: "2026-04-08"
 updatedDate: "2026-04-08"
 category: "FreshSelf"
 tags: ["Haustierpflege","Haustiergesundheit","Norwegische Waldkatze (Felis catus / Norwegian Forest Cat)"]
-heroImage: "/images/blog/norwegian_forest_care.png"
+heroImage: "/images/blog/norwegian_forest_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Rasse-Standards der The International Cat Association (TICA) und Klinische Verhaltensmedizin für Katzen"

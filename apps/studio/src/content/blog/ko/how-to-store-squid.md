@@ -6,7 +6,7 @@ pubDate: "2026-05-08"
 updatedDate: "2026-05-08"
 category: "FreshSnap"
 tags: ["식재료보관","신선보관","squid"]
-heroImage: "/images/blog/squid_storage_hack.png"
+heroImage: "/images/blog/squid_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>국립수산과학원(NIFS) & 식품의약품안전처(MFDS) & 미국 농무부(USDA)</strong>"

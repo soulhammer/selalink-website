@@ -6,7 +6,7 @@ pubDate: "2026-03-04"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
 tags: ["반려동물","펫케어","스핑크스 (Sphynx Cat)"]
-heroImage: "/images/blog/sphynx_care.png"
+heroImage: "/images/blog/sphynx_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "국제고양이의학협회(ISFM) 피부과학 가이드라인 및 피모 수의학 지침"

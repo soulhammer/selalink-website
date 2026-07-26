@@ -6,7 +6,7 @@ pubDate: "2026-01-30"
 updatedDate: "2026-01-30"
 category: "FreshSelf"
 tags: ["SoinAnimaux","SanteAnimaux","Border Collie (Border Collie)"]
-heroImage: "/images/blog/border_collie_care.png"
+heroImage: "/images/blog/border_collie_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Guide de la race Border Collie du Kennel Club (KC) et Normes de Comportement Cognitif Canin"

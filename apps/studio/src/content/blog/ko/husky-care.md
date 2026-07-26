@@ -6,7 +6,7 @@ pubDate: "2026-03-29"
 updatedDate: "2026-03-30"
 category: "FreshSelf"
 tags: ["반려동물","펫케어","시베리안 허스키 (Canis lupus familiaris)"]
-heroImage: "/images/blog/husky_care.png"
+heroImage: "/images/blog/husky_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Siberian Husky Club of America 및 IAABC 썰매견 행동 인지/활동 에너지 지침"

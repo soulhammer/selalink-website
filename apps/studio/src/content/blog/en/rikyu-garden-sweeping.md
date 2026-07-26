@@ -46,7 +46,7 @@ This article analyzes the scientific connection between repetitive physical acti
 
 ## 1. Anchoring Effect of Broom Sounds and Brain Cognitive Noise
 
-Rhythmic sweeping delivers immediate and simple physical feedback to the brain, anchoring attention to the present. This sensory focus effectively stabilizes cognitive noise signals in the cerebral cortex that foster anxiety and distraction. According to neuroscientific research, this action suppresses unnecessary anxiety responses in the amygdala and activates visuospatial sketchpad circuits, dramatically enhancing long-term executive function.
+Rhythmic sweeping delivers immediate and simple physical feedback to the brain, anchoring attention to the present. This sensory focus effectively stabilizes cognitive noise signals in the cerebral cortex that foster anxiety and distraction. According to neuroscientific research, this action suppresses unnecessary anxietyin the amygdala and activates visuospatial sketchpad circuits, dramatically enhancing long-term executive function.
 
 ---
 

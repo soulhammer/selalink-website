@@ -6,7 +6,7 @@ pubDate: "2026-02-28"
 updatedDate: "2026-03-01"
 category: "FreshSelf"
 tags: ["宠物护理","宠物健康","比格犬 (Beagle)"]
-heroImage: "/images/blog/beagle_care.png"
+heroImage: "/images/blog/beagle_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "AKC (美国犬业俱乐部) 比格犬标准与 IAABC 嗅闻行为协议"

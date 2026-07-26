@@ -6,7 +6,7 @@ pubDate: "2026-06-01"
 updatedDate: "2026-06-01"
 category: "FreshSelf"
 tags: ["ペットケア","ペット健康","ウーパールーパー / アホロートル (Axolotl)"]
-heroImage: "/images/blog/axolotl_care.png"
+heroImage: "/images/blog/axolotl_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "国際両生類飼育プロトコル (Amphibian Ark) 獣医ケア基準"

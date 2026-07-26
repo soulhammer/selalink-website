@@ -6,7 +6,7 @@ pubDate: "2026-03-24"
 updatedDate: "2026-03-24"
 category: "FreshSnap"
 tags: ["식재료보관","신선보관","tomato"]
-heroImage: "/images/blog/tomato_storage_hack.png"
+heroImage: "/images/blog/tomato_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 미국 질병통제예방센터(CDC)</strong>"

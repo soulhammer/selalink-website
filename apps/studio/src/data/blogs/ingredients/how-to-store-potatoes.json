@@ -1,454 +1,454 @@
 {
-  "how-to-store-potatoes": {
-    "ingId": "potato",
-    "pubDate": "2026-01-20",
-    "updatedDate": "2026-01-20",
-    "heroImage": "/images/blog/potato_storage_hack.png",
-    "category": "FreshSnap",
-    "app": "freshsnap",
-    "formatVersion": 4,
-    "locales": {
-      "ko": {
-        "title": "감자 신선하게 보관하는 법: 과학적 보관 가이드",
-        "description": "공인된 안전 가이드라인에 따른 감자의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-        "authority": "<strong>식품의약품안전처(MFDS) & 농촌진흥청(RDA) & 영국 식품기준청(FSA)</strong>",
-        "intro": "사 온 감자를 무심코 냉장고 야채칸에 넣으셨나요? 감자는 다른 채소와 달리 저온 냉장 보관 시 전분이 당분으로 분해되어 단맛이 강해지지만, 이를 고온 조리하면 1급 발암 추정 물질인 '아크릴아마이드(Acrylamide)'가 대량 생성되는 치명적인 위험이 있습니다. 🥔\n\n또한 햇빛에 노출되면 스스로를 보호하기 위해 엽록소를 생성하며 표면이 초록색으로 변하고, 식중독을 일으키는 신경 독소인 솔라닌(Solanine)을 축적합니다.\n\n오늘 FreshSnap에서는 식품의약품안전처(MFDS)와 영국 식품기준청(FSA)의 가이드라인을 바탕으로 독소 생성을 억제하고 싹이 트는 것을 획기적으로 막아주는 과학적인 상온 보관법을 전해드립니다. 🛡️",
-        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-        "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-        "guideTitle": "과학적으로 검증된 보관 가이드",
-        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-        "tags": [
-          "감자",
-          "과학적으로 검증된 보관 가이드",
-          "vegetable"
-        ],
-        "cautions": [
-          {
-            "title": "싹이 나거나 표면이 초록색으로 변한 감자는 두껍게 도려내세요 🥔",
-            "desc": "감자의 싹과 초록색으로 변한 껍질에는 '솔라닌(Solanine)'이라는 독소가 응집되어 있습니다. 섭취 시 구토, 복통, 식중독을 유발하며 가열해도 파괴되지 않으므로 아까워하지 말고 초록색 부위는 두껍게 깎아내고 싹눈은 깊게 파내어 조리해야 안전합니다."
-          },
-          {
-            "title": "양파와 함께 같은 박스에 보관하지 마세요 🧅",
-            "desc": "감자와 양파를 함께 두면 양파에서 방출되는 수분과 에틸렌 가스가 감자의 싹을 트게 하고 부패를 촉진시킵니다. 또한 감자의 수분이 양파를 무르게 하여 상호 파괴를 일으키므로 두 식재료는 무조건 다른 공간에 격리하여 보관하세요."
-          }
-        ],
-        "steps": [
-          {
-            "name": "씻지 않고 신문지나 종이봉투로 개별 포장하기 — 완벽한 빛 차단 📦",
-            "text": "감자가 빛(직사광선 및 형광등)에 노출되면 광합성을 통해 표면이 초록색으로 변하며 솔라닌 독소를 생성합니다. 💡 보관 팁: 흙이 묻은 상태 그대로 신문지나 불투명한 종이봉투로 감싸 빛을 100% 차단해 주세요. 흙은 감자의 수분을 적절히 유지해주는 천연 보습제 역할을 합니다."
-          },
-          {
-            "name": "감자 상자에 사과 1개 동봉하여 보관하기 — 천연 발아 억제제 🍎",
-            "text": "감자는 수확 후 휴면기가 지나면 싹을 틔웁니다. 💡 보관 팁: 10kg 감자 상자 기준 사과 1개를 넣어두면 사과에서 뿜어져 나오는 에틸렌 가스가 감자 싹의 생장을 억제하여 싹이 트는 시기를 한 달 이상 획기적으로 늦춰 줍니다."
-          },
-          {
-            "name": "냉장고 보관 절대 금지 — 저온 서늘한 상온 보관 (45~60일) ❄️",
-            "text": "감자를 4℃ 이하 냉장실에 넣으면 환원당이 급격히 증가하여 튀기거나 구울 때 발암물질인 아크릴아마이드가 대량 생성됩니다. 💡 보관 팁: 감자는 반드시 바람이 잘 통하고 빛이 없는 8~10℃의 서늘한 그늘(베란다, 다용도실 등)에 박스째 보관하세요."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "감자 표면이 초록색으로 변했는데 먹어도 안전한가요?",
-            "answer": "안전하지 않습니다. 초록색으로 변한 껍질에는 '솔라닌'이라는 신경 독소가 집중적으로 축적되어 있습니다. 약간 초록빛이 도는 정도라면 그 부위를 일반 껍질 깎는 두께보다 훨씬 두껍게 도려내면 먹을 수 있지만, 감자 전체가 짙은 초록색이라면 미련 없이 버리는 것이 건강에 안전합니다."
-          },
-          {
-            "question": "왜 감자를 냉장고에 넣으면 발암물질이 생기나요?",
-            "answer": "감자는 4℃ 이하의 저온에 보관하면 세포 내 효소가 반응하여 전분을 환원당(포도당과 과당)으로 분해합니다. 이 환원당이 120℃ 이상의 고온 조리(튀김, 오븐 구이 등) 과정에서 아미노산과 결합하면 1급 발암 추정 물질인 '아크릴아마이드'가 다량 생성됩니다. 찌거나 삶는 조리법은 100℃에서 이루어지므로 상대적으로 안전하지만, 기본적으로 감자는 서늘한 상온(8~10℃)에 보관하는 것이 원칙입니다."
-          }
-        ]
-      },
-      "en": {
-        "title": "How to Store Potatoes Fresh: Scientific Storage Guide",
-        "description": "Check the optimal storage temperature, method, and shelf life for potatoes based on official safety guidelines.",
-        "authority": "<strong>MFDS & RDA & FSA</strong>",
-        "intro": "Do you routinely store raw potatoes in the refrigerator crisper drawer? 🥔\n\nUnlike most vegetables, storing potatoes at cold temperatures below 4°C (39°F) triggers 'cold-induced sweetening', converting their starches into reducing sugars. While this makes them taste sweeter, frying or roasting these potatoes at high temperatures generates dangerously high levels of Acrylamide, a known Group 2A carcinogen.\n\nFurthermore, exposure to light causes potato skins to turn green, synthesizing a toxic glycoalkaloid called solanine. Today, FreshSnap shares a scientifically proven 3-step storage guide based on guidelines from the UK FSA and MFDS to prevent toxins, suppress sprouting, and keep your potatoes healthy and fresh. 🛡️",
-        "whyTitle": "Why Store Potatoes This Way? Scientific Facts",
-        "whyDesc": "Understanding the unique physiological characteristics of each produce item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
-        "guideTitle": "Scientifically Proven Storage Guide",
-        "cautionTitle": "Essential Storage Rules and Cautions",
-        "tags": [
-          "Potato",
-          "Scientifically Proven Storage Guide",
-          "vegetable"
-        ],
-        "cautions": [
-          {
-            "title": "Always cut away green patches and sprout eyes deeply 🥔",
-            "desc": "Potato sprouts and green-tinged skins contain high concentrations of 'solanine', a neurotoxin that causes nausea, vomiting, and food poisoning. Solanine is heat-stable and won't be destroyed by cooking. You must slice away green skin thickly and dig out sprout eyes deeply before cooking."
-          },
-          {
-            "title": "Never store potatoes together with onions 🧅",
-            "desc": "Onions and potatoes are storage antagonists. Onions emit moisture and ethylene gas that trigger potatoes to sprout and soften rapidly. Conversely, the moisture from potatoes causes onions to rot and grow mold. They must be isolated in separate storage areas."
-          }
-        ],
-        "steps": [
-          {
-            "name": "Wrap unwashed potatoes individually in newspaper or paper bags — Block Light Completely 📦",
-            "text": "Exposure to light (even indoor lighting) triggers chlorophyll production, turning the skin green and synthesizing toxic solanine. 💡 Storage Tip: Leave the soil on the potatoes—it acts as a natural moisture regulator—and wrap them in newspaper or opaque brown paper bags to block 100% of light."
-          },
-          {
-            "name": "Store at room temp with 1 apple — Natural Sprout Suppression 🍎",
-            "text": "Potatoes naturally break dormancy and begin to sprout. 💡 Storage Tip: Placing a single apple inside a 10 kg (22 lb) box of potatoes emits ethylene gas in a specific concentration that inhibits the potato's cell elongation, significantly delaying the sprouting process by weeks."
-          },
-          {
-            "name": "Never refrigerate — Prevent Cold-Induced Sweetening & Acrylamide ❄️",
-            "text": "At refrigerator temperatures (below 4°C), potato starch converts to reducing sugars. 💡 Storage Tip: Cooking these sugar-rich potatoes at temperatures above 120°C (frying or baking) triggers the Maillard reaction, forming the carcinogen Acrylamide. Always store potatoes in a cool, dark, well-ventilated room (8–10°C / 46–50°F)."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Is it safe to eat a potato if the skin has turned green?",
-            "answer": "It is not safe to eat the green parts. The green color indicates the presence of solanine, a toxic compound. If only a small patch is green, you can safely eat the potato by peeling away the green layer thickly until only normal flesh remains. However, if the entire potato has turned dark green or is severely shriveled, discard it."
-          },
-          {
-            "question": "Why exactly does refrigerating potatoes create carcinogens?",
-            "answer": "When potatoes are stored in the fridge (below 4°C), an enzyme converts their complex starches into reducing sugars (glucose and fructose). When these sugars are subjected to high-heat cooking like roasting or deep-frying (above 120°C / 250°F), they react with the amino acid asparagine to form Acrylamide, a toxic and potentially carcinogenic chemical. Boiling or steaming at 100°C does not form acrylamide, but for maximum safety, always store potatoes in a cool, dark pantry instead of the fridge."
-          }
-        ]
-      },
-      "ja": {
-        "title": "じゃがいもを新鮮に保つ保存方法：科学的保管ガイド",
-        "description": "公的安全基準に基づくじゃがいもの最適な保存温度、保管方法、保存期間をご確認ください。",
-        "authority": "<strong>食品医薬品安全処(MFDS) & 農村振興庁(RDA) & 英国食品基準庁(FSA)</strong>",
-        "intro": "買ってきたじゃがいもを無意識に冷蔵庫の野菜室に入れていませんか？🥔\n\nじゃがいもは他の野菜とは異なり、4℃以下の低温で冷蔵保存すると、でんぷんが糖分に分解されて甘みは増しますが、これを高温で調理すると発がん性物質である「アクリルアミド（Acrylamide）」が大量に生成されるという致命的な危険があります。\n\nまた、日光や室内灯の光に晒されると、自身を守るために葉緑素を生成して皮が緑色に変色し、食中毒を引き起こす神経毒「ソラニン（Solanine）」を蓄積します。本日FreshSnapでは、食品医薬品安全処（MFDS）と英国食品基準庁（FSA）のガイドラインに基づき、毒素の発生を抑え発芽を防ぐ科学的な常温保存法をご紹介します。🛡️",
-        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-        "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-        "guideTitle": "科学的に検証された保存ガイド",
-        "cautionTitle": "保存時の必須ルールと注意事項",
-        "tags": [
-          "じゃがいも",
-          "科学的に検証された保存ガイド",
-          "vegetable"
-        ],
-        "cautions": [
-          {
-            "title": "芽が出たり皮が緑色に変色したじゃがいもは厚く削り取ってください 🥔",
-            "desc": "じゃがいもの芽と緑色に変色した皮には「ソラニン（Solanine）」という神経毒が集中しています。摂取すると嘔吐や腹痛、食中毒を引き起こし、加熱しても破壊されないため、緑色の部分は厚く剥き、芽の根元は深くくり抜いてから調理する必要があります。"
-          },
-          {
-            "title": "玉ねぎと同じ箱に絶対に入れないでください 🧅",
-            "desc": "じゃがいもと玉ねぎを一緒に置くと、玉ねぎから放出される水分とエチレンガスがじゃがいもの発芽と腐敗を促進させます。逆にじゃがいもの水分は玉ねぎを腐らせる原因となるため、2つの食材は必ず別の場所に隔離して保存してください。"
-          }
-        ],
-        "steps": [
-          {
-            "name": "洗わずに新聞紙や紙袋で個別に包む — 光を100%遮断 📦",
-            "text": "じゃがいもが光（直射日光や蛍光灯）に晒されると、光合成により表面が緑色に変わりソラニン毒素を生成します。💡保存のコツ：土がついた状態のまま新聞紙や不透明な紙袋で包み、光を完全に遮断してください。土はじゃがいもの水分を適切に保つ天然の保湿剤の役割を果たします。"
-          },
-          {
-            "name": "じゃがいもの箱にリンゴを1個入れて保存する — 天然の発芽抑制 🍎",
-            "text": "じゃがいもは収穫後、休眠期が過ぎると芽を出します。💡保存のコツ：10kgのじゃがいも箱に対してリンゴを1個入れておくと、リンゴから放出されるエチレンガスがじゃがいもの芽の成長を抑制し、発芽時期を1ヶ月以上も大幅に遅らせてくれます。"
-          },
-          {
-            "name": "冷蔵庫での保存は絶対に避ける — アクリルアミドの生成防止 ❄️",
-            "text": "じゃがいもを4℃以下の冷蔵室に入れると、還元糖が急激に増加し、揚げたり焼いたりする際に発がん性物質であるアクリルアミドが大量に生成されます。💡保存のコツ：じゃがいもは必ず風通しが良く光の当たらない8〜10℃の涼しい日陰（ベランダやパントリーなど）で段ボールごと保存してください。"
-          }
-        ],
-        "faqs": [
-          {
-            "question": "じゃがいもの表面が緑色に変色していますが、食べても安全ですか？",
-            "answer": "安全ではありません。緑色に変色した皮には「ソラニン」という神経毒が集中して蓄積されています。少し緑がかっている程度であれば、通常の皮むきよりかなり厚く削り取れば食べられますが、じゃがいも全体が濃い緑色になっている場合は、迷わず捨てるのが安全です。"
-          },
-          {
-            "question": "じゃがいもを冷蔵庫に入れるとなぜ発がん性物質ができるのですか？",
-            "answer": "じゃがいもを4℃以下の低温で保存すると、細胞内の酵素が反応してデンプンを還元糖（ブドウ糖や果糖）に分解します。この還元糖が120℃以上の高温調理（揚げ物やオーブン焼きなど）の過程でアミノ酸と結合すると、発がん性物質である「アクリルアミド」が大量に生成されます。茹でたり蒸したりする調理は100℃以下で行われるため比較的安全ですが、基本的には涼しい常温（8〜10℃）の暗所に保存するのが原則です。"
-          }
-        ]
-      },
-      "zh": {
-        "title": "如何保持土豆新鲜：科学储存指南",
-        "description": "根据官方食品安全指南，了解土豆的最佳储存温度、方式和保鲜时长。",
-        "authority": "<strong>韩国食品医药品安全处(MFDS) & 韩国农村振兴厅(RDA) & 英国食品标准局(FSA)</strong>",
-        "intro": "您是否曾随手将刚买回来的土豆放进冰箱的蔬菜抽屉里？🥔\n\n土豆与其他蔬菜不同，当保存在4℃以下的冷藏环境时，淀粉会分解为还原糖，虽然这会使其变甜，但在经过高温烹饪（如油炸或烘烤）时，极易产生2A类致癌物“丙烯酰胺（Acrylamide）”。\n\n此外，如果土豆暴露在阳光或室内灯光下，为了自我保护会生成叶绿素使表皮变绿，并产生导致食物中毒的神经毒素——龙葵素（Solanine）。今天FreshSnap基于英国食品标准局(FSA)的指南，为您带来抑制毒素产生、防止发芽的科学常温保存法。🛡️",
-        "whyTitle": "为什么要这样储存？科学原理",
-        "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-        "guideTitle": "科学验证的储存指南",
-        "cautionTitle": "储存必需规则及注意事项",
-        "tags": [
-          "土豆",
-          "科学验证的储存指南",
-          "vegetable"
-        ],
-        "cautions": [
-          {
-            "title": "切除发芽或表皮变绿的部位时必须厚厚削掉 🥔",
-            "desc": "土豆的芽和变绿的表皮中聚集了神经毒素“龙葵素（Solanine）”。误食会引起呕吐、腹痛及食物中毒，且该毒素耐高温，加热也无法破坏。为了安全，必须将绿色表皮厚厚削掉，并将芽眼深挖去除后再烹饪。"
-          },
-          {
-            "title": "切勿将土豆与洋葱存放在同一个箱子里 🧅",
-            "desc": "如果把土豆和洋葱放在一起，洋葱释放的水分和乙烯气体会促使土豆迅速发芽并腐烂；反之，土豆散发的水气也会让洋葱发霉变软，导致相互毁灭。请务必将两者隔离在不同的空间存放。"
-          }
-        ],
-        "steps": [
-          {
-            "name": "带泥不洗，用报纸或纸袋单独包裹 — 100%遮光防毒 📦",
-            "text": "土豆暴露在光线（直射阳光或荧光灯）下会进行光合作用，表皮变绿并生成有毒的龙葵素。💡储存小贴士：保持带泥状态（泥土起天然保湿作用），用报纸或不透明的牛皮纸袋将土豆单独包裹，彻底阻断光源。"
-          },
-          {
-            "name": "在土豆箱中放入1个苹果同放 — 天然抑制发芽 🍎",
-            "text": "土豆在采收后经过一段休眠期就会开始发芽。💡储存小贴士：在10kg的土豆箱中放入1个苹果。苹果散发出的乙烯气体会抑制土豆发芽的生长基因，将发芽期大幅延缓一个月以上。"
-          },
-          {
-            "name": "严禁冷藏保存 — 预防丙烯酰胺致癌物生成 ❄️",
-            "text": "土豆在低于4℃的冷藏室中，淀粉会转化为还原糖，在高温油炸或烘烤时会大量生成致癌物丙烯酰胺。💡储存小贴士：土豆必须整箱存放在通风良好、无光照的8~10℃阴凉处（如阳台阴影处、储藏室等）。"
-          }
-        ],
-        "faqs": [
-          {
-            "question": "土豆表面变成绿色了，削掉皮还能吃吗？",
-            "answer": "不安全。变绿的表皮中集中积累了神经毒素“龙葵素”。如果只是一小块变绿，削皮时必须比平时削得厚得多，直到露出完全正常的果肉才可食用；但如果整个土豆都变成了深绿色，为了健康请毫不犹豫地将其丢弃。"
-          },
-          {
-            "question": "为什么把土豆放进冰箱冷藏会产生致癌物质？",
-            "answer": "当土豆保存在4℃以下的低温环境中时，细胞内的酶会发生反应，将淀粉分解为还原糖（葡萄糖和果糖）。如果在120℃以上的高温下进行烹饪（如油炸、烤箱烘烤），这些还原糖会与氨基酸结合，发生美拉德反应，大量生成2A类致癌物“丙烯酰胺”。虽然在100℃下蒸或煮相对安全，但原则上土豆应存放在8~10℃的阴凉常温下。"
-          }
-        ]
-      },
-      "es": {
-        "title": "Cómo mantener las patatas frescas: Guía científica de conservación",
-        "description": "Descubra la temperatura, el método y la duración de conservación óptimos para las patatas según las directrices oficiales de seguridad.",
-        "authority": "<strong>MFDS & RDA & FSA</strong>",
-        "intro": "¿Es usted de los que guarda las patatas crudas en el cajón de verduras del refrigerador? 🥔\n\nA diferencia de la mayoría de las verduras, almacenar patatas a temperaturas inferiores a 4 °C provoca el 'endulzamiento por frío', un proceso que convierte sus almidones en azúcares reductores. Al freír o asar estas patatas a altas temperaturas, se generan niveles peligrosos de acrilamida, un carcinógeno del Grupo 2A.\n\nAdemás, la exposición a la luz vuelve verde la piel de la patata, sintetizando un compuesto tóxico llamado solanina. Hoy, FreshSnap comparte una guía científica en 3 pasos basada en las pautas de la Agencia de Normas Alimentarias del Reino Unido (FSA) para prevenir toxinas, inhibir los brotes y conservar sus patatas saludables y frescas. 🛡️",
-        "whyTitle": "¿Por qué almacenarlas así? Datos científicos",
-        "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-        "guideTitle": "Guía de almacenamiento científicamente probada",
-        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-        "tags": [
-          "Patata",
-          "Guía de almacenamiento científicamente probada",
-          "vegetable"
-        ],
-        "cautions": [
-          {
-            "title": "Siempre elimine profundamente las zonas verdes y los ojos de los brotes 🥔",
-            "desc": "Los brotes y las zonas verdes de la piel contienen concentraciones altas de 'solanina', una neurotoxina que causa intoxicación alimentaria. La solanina resiste el calor y no se destruye al cocinarla. Debe pelar gruesa la piel verde y excavar a fondo los ojos antes de cocinar."
-          },
-          {
-            "title": "Nunca guarde las patatas junto con las cebollas 🧅",
-            "desc": "Las cebollas y las patatas son enemigas en el almacenamiento. Las cebollas emiten humedad y gas etileno que hacen que las patatas broten y se ablanden rápidamente. A su vez, la humedad de la patata pudre la cebolla. Manténgalas aisladas."
-          }
-        ],
-        "steps": [
-          {
-            "name": "Envuelva patatas con tierra en papel periódico o bolsas de papel opacas — Bloquee la luz 📦",
-            "text": "La luz desencadena la producción de clorofila y la síntesis de solanina tóxica. 💡 Consejo de almacenamiento: Deje la tierra en la patata (actúa como regulador natural de humedad) y envuélvala en papel periódico o bolsas opacas para bloquear el 100% de la luz."
-          },
-          {
-            "name": "Guarde a temperatura ambiente junto con 1 manzana — Inhibición natural de brotes 🍎",
-            "text": "Tras su periodo de latencia, las patatas comienzan a brotar. 💡 Consejo de almacenamiento: Colocar una sola manzana en una caja de 10 kg de patatas emite suficiente gas etileno para inhibir el crecimiento celular del brote, retrasando su aparición por semanas."
-          },
-          {
-            "name": "Nunca refrigere las patatas — Evite la acrilamida carcinógena ❄️",
-            "text": "A menos de 4 °C, el almidón de la patata se convierte en azúcares reductores. 💡 Consejo de almacenamiento: Cocinar estas patatas dulces a más de 120 °C (fritas u horneadas) forma acrilamida. Conserve las patatas siempre en un lugar fresco, oscuro y ventilado (8-10 °C)."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "¿Es seguro comer una patata si su piel se ha vuelto verde?",
-            "answer": "No es seguro comer las partes verdes. El color verde indica la presencia de solanina, un compuesto tóxico. Si solo hay una pequeña mancha verde, puede pelar esa zona profundamente hasta que solo quede carne de color normal. Sin embargo, si toda la patata está verde oscuro o muy arrugada, deséchela por completo."
-          },
-          {
-            "question": "¿Por qué guardar patatas en el refrigerador crea sustancias cancerígenas?",
-            "answer": "Cuando las patatas se conservan a menos de 4 °C, una enzima convierte sus almidones complejos en azúcares reductores (glucosa y fructosa). Al cocinar estos azúcares a altas temperaturas (más de 120 °C), como al freírlos, reaccionan con aminoácidos formando Acrilamida, un posible carcinógeno. Hervir o cocinar al vapor a 100 °C es seguro, pero la regla general es guardar las patatas en una alacena fresca (8-10 °C)."
-          }
-        ]
-      },
-      "fr": {
-        "title": "Comment conserver les pommes de terre fraîches : Guide scientifique de conservation",
-        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les pommes de terre selon les directives officielles de sécurité.",
-        "authority": "<strong>MFDS & RDA & FSA</strong>",
-        "intro": "Avez-vous pris l'habitude de ranger vos pommes de terre crues dans le bac à légumes du réfrigérateur ? 🥔\n\nContrairement à la plupart des légumes, stocker des pommes de terre au froid, en dessous de 4 °C, déclenche le 'sucrage à froid', transformant leur amidon en sucres réducteurs. Bien que cela les rende plus sucrées, frire ou rôtir ces pommes de terre à haute température génère de l'acrylamide, un cancérigène redoutable.\n\nDe plus, l'exposition à la lumière fait verdir la peau des pommes de terre, qui synthétisent alors un glycoalcaloïde toxique appelé solanine. Aujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations de la Food Standards Agency (FSA) britannique pour éviter les toxines, empêcher la germination et garder vos pommes de terre saines et fraîches. 🛡️",
-        "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
-        "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-        "guideTitle": "Guide de conservation scientifiquement prouvé",
-        "cautionTitle": "Règles essentielles et précautions de stockage",
-        "tags": [
-          "Pomme de terre",
-          "Guide de conservation scientifiquement prouvé",
-          "vegetable"
-        ],
-        "cautions": [
-          {
-            "title": "Éliminez toujours les zones vertes et les germes en coupant largement 🥔",
-            "desc": "Les germes et les peaux verdies contiennent de fortes concentrations de 'solanine', une neurotoxine causant des intoxications alimentaires. La solanine est thermorésistante et ne disparaît pas à la cuisson. Pelez très épais les zones vertes et creusez profondément pour enlever les germes."
-          },
-          {
-            "title": "Ne conservez jamais les pommes de terre avec les oignons 🧅",
-            "desc": "Les oignons et les pommes de terre sont des ennemis de conservation. Les oignons dégagent de l'humidité et de l'éthylène qui font germer et ramollir les pommes de terre. Inversement, l'humidité des pommes de terre fait pourrir les oignons. Isolez-les."
-          }
-        ],
-        "steps": [
-          {
-            "name": "Envelopper les pommes de terre terreuses dans du journal ou du papier — Bloquer la lumière 📦",
-            "text": "L'exposition à la lumière (même artificielle) déclenche la production de chlorophylle, verdissant la peau et créant de la solanine toxique. 💡 Astuce de conservation : Laissez la terre sur les pommes de terre (elle régule l'humidité) et enveloppez-les dans du papier journal ou un sac opaque."
-          },
-          {
-            "name": "Stocker à température ambiante avec 1 pomme — Anti-germination naturel 🍎",
-            "text": "Après la période de dormance, les pommes de terre commencent à germer. 💡 Astuce de conservation : Placer une seule pomme dans une cagette de 10 kg de pommes de terre dégage suffisamment de gaz éthylène pour inhiber la croissance des cellules du germe, retardant considérablement la germination."
-          },
-          {
-            "name": "Ne jamais réfrigérer — Éviter le sucrage à froid et l'acrylamide ❄️",
-            "text": "Aux températures du réfrigérateur (sous 4 °C), l'amidon se transforme en sucres réducteurs. 💡 Astuce de conservation : Cuire ces pommes de terre sucrées à plus de 120 °C (friture ou four) crée de l'acrylamide, une substance cancérigène. Conservez toujours vos pommes de terre dans un endroit frais, sombre et aéré (8–10 °C)."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Est-il sûr de manger une pomme de terre si sa peau a verdi ?",
-            "answer": "Il n'est pas sûr de manger les parties vertes. La couleur verte indique la présence de solanine, un composé toxique. S'il n'y a qu'une petite tache verte, vous pouvez manger la pomme de terre en pelant largement la couche verte jusqu'à atteindre la chair normale. Mais si toute la pomme de terre est vert foncé ou très flétrie, jetez-la."
-          },
-          {
-            "question": "Pourquoi exactement le fait de réfrigérer des pommes de terre crée-t-il des substances cancérigènes ?",
-            "answer": "Lorsque les pommes de terre sont au frigo (sous 4 °C), une enzyme décompose leurs amidons complexes en sucres réducteurs (glucose et fructose). Lorsqu'ils sont cuits à haute température comme la friture (plus de 120 °C), ces sucres réagissent avec un acide aminé pour former de l'Acrylamide, un produit chimique toxique et cancérigène. La cuisson à l'eau ou à la vapeur à 100 °C est sûre, mais la règle de base est de stocker les pommes de terre dans un cellier frais (8-10 °C) plutôt qu'au frigo."
-          }
-        ]
-      },
-      "de": {
-        "title": "Kartoffeln richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Kartoffeln basierend auf offiziellen Sicherheitsrichtlinien.",
-        "authority": "<strong>MFDS & RDA & FSA</strong>",
-        "intro": "Legen Sie rohe Kartoffeln gewohnheitsmäßig in das Gemüsefach Ihres Kühlschranks? 🥔\n\nIm Gegensatz zu den meisten Gemüsesorten führt die Lagerung von Kartoffeln bei Temperaturen unter 4 °C zur 'Kältesüßung', bei der ihre Stärke in reduzierende Zucker umgewandelt wird. Dies macht sie zwar süßer, aber beim Braten, Frittieren oder Backen dieser Kartoffeln bei hohen Temperaturen entstehen gefährlich hohe Mengen an Acrylamid, einem potenziell krebserregenden Stoff (Klasse 2A).\n\nZudem lässt Lichteinfall die Kartoffelschale grün werden und bildet das giftige Glykoalkaloid Solanin. Heute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Richtlinien der britischen FSA und MFDS basiert, um Toxine zu verhindern, Keimung zu stoppen und Ihre Kartoffeln sicher und gesund zu lagern. 🛡️",
-        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-        "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-        "tags": [
-          "Kartoffel",
-          "Wissenschaftlich geprüfter Lagerungsratgeber",
-          "vegetable"
-        ],
-        "cautions": [
-          {
-            "title": "Grüne Stellen und Keimaugen immer großzügig wegschneiden 🥔",
-            "desc": "Kartoffelkeime und grünliche Schalen enthalten hohe Konzentrationen von 'Solanin', einem Nervengift, das Übelkeit, Erbrechen und Lebensmittelvergiftungen verursacht. Solanin ist hitzestabil und wird durch Kochen nicht zerstört. Grüne Schale dick schälen und Keimaugen tief ausstechen."
-          },
-          {
-            "title": "Kartoffeln niemals zusammen mit Zwiebeln lagern 🧅",
-            "desc": "Zwiebeln und Kartoffeln sind Lagerungsgegner. Zwiebeln geben Feuchtigkeit und Ethylengas ab, was Kartoffeln rasch keimen und weich werden lässt. Umgekehrt lässt die Kartoffelfeuchtigkeit Zwiebeln faulen. In getrennten Behältern lagern."
-          }
-        ],
-        "steps": [
-          {
-            "name": "Erdige Kartoffeln einzeln in Zeitungspapier/Papiertüten wickeln — Licht zu 100 % blockieren 📦",
-            "text": "Lichteinfall (auch Raumbeleuchtung) löst die Chlorophyllproduktion aus, macht die Schale grün und synthetisiert giftiges Solanin. 💡 Lagerungstipp: Lassen Sie die Erde an den Kartoffeln – sie wirkt als natürlicher Feuchtigkeitsregler – und wickeln Sie sie in Zeitungspapier oder undurchsichtige Papiertüten."
-          },
-          {
-            "name": "Bei Raumtemperatur mit 1 Apfel lagern — Natürliche Keimhemmung 🍎",
-            "text": "Kartoffeln beginnen nach der Ruhephase natürlich zu keimen. 💡 Lagerungstipp: Ein einzelner Apfel in einer 10-kg-Kiste Kartoffeln gibt genug Ethylengas ab, um die Zellstreckung der Keime zu blockieren und das Keimen um Wochen hinauszuzögern."
-          },
-          {
-            "name": "Niemals im Kühlschrank lagern — Acrylamidbildung durch Kälte verhindern ❄️",
-            "text": "Bei Kühlschranktemperaturen (unter 4 °C) wandelt sich die Kartoffelstärke in reduzierende Zucker um. 💡 Lagerungstipp: Beim Erhitzen dieser zuckerreichen Kartoffeln über 120 °C (Braten/Backen) bildet sich das Karzinogen Acrylamid. Immer an einem kühlen, dunklen und gut belüfteten Ort (8–10 °C) lagern."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Ist es sicher, eine Kartoffel zu essen, deren Schale grün geworden ist?",
-            "answer": "Es ist nicht sicher, die grünen Teile zu essen. Die grüne Farbe zeigt das Vorhandensein von Solanin an, einer giftigen Verbindung. Ist nur ein kleiner Fleck grün, können Sie die Kartoffel bedenkenlos essen, indem Sie die grüne Schicht sehr dick wegschneiden. Ist die gesamte Kartoffel dunkelgrün oder stark verschrumpelt, werfen Sie sie weg."
-          },
-          {
-            "question": "Warum genau entstehen durch das Kühlen von Kartoffeln im Kühlschrank krebserregende Stoffe?",
-            "answer": "Werden Kartoffeln im Kühlschrank (unter 4 °C) gelagert, wandelt ein Enzym ihre komplexe Stärke in reduzierende Zucker (Glukose und Fruktose) um. Werden diese Zucker bei hohen Temperaturen wie beim Frittieren (über 120 °C) erhitzt, reagieren sie mit der Aminosäure Asparagin und bilden Acrylamid, eine potenziell krebserregende Chemikalie. Kochen bei 100 °C ist sicher, aber generell sollten Kartoffeln bei 8–10 °C gelagert werden."
-          }
-        ]
-      },
-      "pt": {
-        "title": "Como conservar batatas frescas: Guia científico de armazenamento",
-        "description": "Descubra a temperatura, método e tempo de conservação ideais para batatas com base em diretrizes oficiais de segurança.",
-        "authority": "<strong>MFDS & RDA & FSA</strong>",
-        "intro": "Você tem o costume de guardar as batatas cruas na gaveta de legumes da geladeira? 🥔\n\nDiferente da maioria dos vegetais, armazenar batatas em temperaturas frias abaixo de 4°C desencadeia o 'adoçamento induzido pelo frio', convertendo seus amidos em açúcares redutores. Fritar ou assar essas batatas em altas temperaturas gera níveis perigosos de Acrilamida, um carcinógeno conhecido do Grupo 2A.\n\nAlém disso, a exposição à luz faz a casca da batata ficar verde, sintetizando um glicoalcaloide tóxico chamado solanina. Hoje, o FreshSnap apresenta um guia científico de conservação em 3 etapas baseado em diretrizes da Food Standards Agency (FSA) do Reino Unido para evitar toxinas, inibir brotos e manter suas batatas saudáveis e seguras. 🛡️",
-        "whyTitle": "Por que armazenar assim? Fatos científicos",
-        "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-        "guideTitle": "Guia de armazenamento comprovado cientificamente",
-        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-        "tags": [
-          "Batata",
-          "Guia de armazenamento comprovado cientificamente",
-          "vegetable"
-        ],
-        "cautions": [
-          {
-            "title": "Sempre remova profundamente áreas verdes e olhos dos brotos 🥔",
-            "desc": "Brotos e cascas esverdeadas contêm alta concentração de 'solanina', uma neurotoxina que causa náusea, vômito e intoxicação. A solanina resiste ao calor e não é destruída no cozimento. Descasque a parte verde de forma espessa e cave fundo para retirar os olhos dos brotos."
-          },
-          {
-            "title": "Nunca guarde batatas junto com cebolas 🧅",
-            "desc": "Cebolas e batatas são antagonistas no armazenamento. As cebolas emitem umidade e gás etileno que fazem as batatas brotarem e amolecerem rapidamente. Em contrapartida, a umidade das batatas apodrece as cebolas. Mantenha-as isoladas."
-          }
-        ],
-        "steps": [
-          {
-            "name": "Embrulhe batatas com terra em jornal ou sacos de papel opacos — Bloqueio total da luz 📦",
-            "text": "A exposição à luz (mesmo luz artificial) ativa a produção de clorofila, esverdeando a casca e sintetizando solanina tóxica. 💡 Dica de conservação: Mantenha a terra nas batatas (funciona como regulador de umidade) e embrulhe em jornal ou sacos de papel opacos para bloquear 100% da luz."
-          },
-          {
-            "name": "Guarde em temperatura ambiente com 1 maçã — Supressão natural de brotos 🍎",
-            "text": "Após o período de dormência, as batatas naturalmente começam a brotar. 💡 Dica de conservação: Colocar uma maçã dentro de uma caixa com 10 kg de batatas emite gás etileno em uma concentração que inibe o crescimento celular do broto, atrasando-o por semanas."
-          },
-          {
-            "name": "Nunca guarde na geladeira — Evite a Acrilamida cancerígena ❄️",
-            "text": "Em temperaturas de geladeira (abaixo de 4°C), o amido da batata se converte em açúcares redutores. 💡 Dica de conservação: Cozinhar essas batatas doces a mais de 120°C (fritas ou assadas) aciona a reação de Maillard, formando Acrilamida. Guarde-as sempre em local fresco, escuro e ventilado (8-10 °C)."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "É seguro comer uma batata se a casca ficou verde?",
-            "answer": "Não é seguro comer as partes verdes. A cor verde indica a presença de solanina, um composto tóxico. Se apenas uma pequena mancha estiver verde, você pode consumi-la retirando uma camada grossa até sobrar apenas a polpa normal. Porém, se toda a batata estiver verde-escura ou muito enrugada, descarte-a."
-          },
-          {
-            "question": "Por que exatamente guardar batatas na geladeira gera substâncias cancerígenas?",
-            "answer": "Quando as batatas são guardadas na geladeira (abaixo de 4°C), uma enzima quebra seus amidos complexos em açúcares redutores (glicose e frutose). Quando esses açúcares são cozidos em alta temperatura, como fritura ou forno (acima de 120°C), eles reagem com o aminoácido asparagina e formam a Acrilamida, um produto químico cancerígeno. Cozinhar na água ou vapor a 100°C não gera o composto, mas a regra geral é mantê-las fora da geladeira, em local fresco (8-10°C)."
-          }
-        ]
-      },
-      "id": {
-        "title": "Cara Menyimpan Kentang agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk kentang berdasarkan pedoman keselamatan resmi.",
-        "authority": "<strong>MFDS & RDA & FSA</strong>",
-        "intro": "Apakah Anda terbiasa menyimpan kentang mentah di laci sayuran kulkas? 🥔\n\nBerbeda dengan kebanyakan sayuran, menyimpan kentang pada suhu dingin di bawah 4°C memicu 'pemanisan akibat dingin (cold-induced sweetening)', yang mengubah patinya menjadi gula pereduksi. Meskipun rasanya menjadi lebih manis, menggoreng atau memanggang kentang ini pada suhu tinggi akan menghasilkan Akrilamida dalam jumlah berbahaya, yakni zat yang diyakini sebagai karsinogen (penyebab kanker) Golongan 2A.\n\nSelain itu, paparan cahaya membuat kulit kentang berubah menjadi hijau, mensintesis senyawa beracun yang disebut solanin. Hari ini, FreshSnap membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan pedoman FSA Inggris dan MFDS untuk mencegah racun, menekan pertumbuhan tunas, dan menjaga kentang Anda tetap sehat dan segar. 🛡️",
-        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-        "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-        "tags": [
-          "Kentang",
-          "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-          "vegetable"
-        ],
-        "cautions": [
-          {
-            "title": "Selalu potong dalam-dalam pada bagian yang hijau dan mata tunas 🥔",
-            "desc": "Tunas kentang dan kulit yang kehijauan mengandung konsentrasi tinggi 'solanin', sebuah neurotoksin yang menyebabkan mual, muntah, dan keracunan makanan. Solanin tahan panas dan tidak akan hancur dengan dimasak. Anda harus mengiris tebal kulit hijau dan menggali mata tunas dalam-dalam sebelum dimasak."
-          },
-          {
-            "title": "Jangan pernah menyimpan kentang bersamaan dengan bawang bombay 🧅",
-            "desc": "Bawang bombay dan kentang adalah musuh dalam penyimpanan. Bawang melepaskan kelembapan dan gas etilen yang memicu kentang untuk bertunas dan melunak dengan cepat. Sebaliknya, kelembapan dari kentang menyebabkan bawang membusuk dan berjamur. Keduanya harus dipisahkan."
-          }
-        ],
-        "steps": [
-          {
-            "name": "Bungkus kentang berbalut tanah satu per satu di koran atau kantong kertas — Halangi Cahaya Sepenuhnya 📦",
-            "text": "Paparan cahaya (bahkan cahaya lampu ruangan) memicu produksi klorofil, mengubah kulit menjadi hijau dan mensintesis solanin beracun. 💡 Tips Penyimpanan: Biarkan tanah tetap menempel pada kentang—tanah bertindak sebagai pengatur kelembapan alami—dan bungkus dalam koran atau kantong kertas cokelat buram untuk menghalangi 100% cahaya."
-          },
-          {
-            "name": "Simpan di suhu ruang bersama 1 buah apel — Penekan Tunas Alami 🍎",
-            "text": "Kentang secara alami mengakhiri masa dormansinya dan mulai bertunas. 💡 Tips Penyimpanan: Menempatkan satu buah apel di dalam kotak berisi 10 kg kentang akan melepaskan gas etilen pada konsentrasi tertentu yang menghambat pemanjangan sel tunas kentang, menunda proses pertunasan selama berminggu-minggu."
-          },
-          {
-            "name": "Jangan pernah didinginkan di kulkas — Cegah Pemanisan Akibat Dingin & Akrilamida ❄️",
-            "text": "Pada suhu kulkas (di bawah 4°C), pati kentang berubah menjadi gula pereduksi. 💡 Tips Penyimpanan: Memasak kentang kaya gula ini pada suhu di atas 120°C (digoreng atau dipanggang) memicu reaksi Maillard, membentuk zat karsinogen Akrilamida. Selalu simpan kentang di ruangan yang sejuk, gelap, dan berventilasi baik (8–10°C)."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Apakah aman memakan kentang jika kulitnya telah berubah menjadi hijau?",
-            "answer": "Tidak aman memakan bagian yang hijau. Warna hijau menandakan keberadaan solanin, senyawa beracun. Jika hanya sebagian kecil yang hijau, Anda dapat dengan aman memakan kentang tersebut dengan mengupas tebal lapisan hijaunya hingga hanya tersisa daging berwarna normal. Namun, jika seluruh kentang berubah menjadi hijau tua atau sangat keriput, buang saja."
-          },
-          {
-            "question": "Mengapa menyimpan kentang di kulkas dapat menciptakan zat penyebab kanker?",
-            "answer": "Ketika kentang disimpan di kulkas (di bawah 4°C), sebuah enzim mengubah pati kompleksnya menjadi gula pereduksi (glukosa dan fruktosa). Ketika gula ini dimasak dengan suhu tinggi seperti dipanggang atau digoreng (di atas 120°C), mereka bereaksi dengan asam amino asparagin untuk membentuk Akrilamida, sebuah bahan kimia beracun dan berpotensi karsinogenik. Merebus atau mengukus pada suhu 100°C tidak membentuk akrilamida, namun untuk keamanan maksimal, selalu simpan kentang di tempat sejuk dan gelap, bukan di kulkas."
-          }
-        ]
-      }
+    "how-to-store-potatoes": {
+        "ingId": "potato",
+        "pubDate": "2026-01-20",
+        "updatedDate": "2026-01-20",
+        "heroImage": "/images/blog/potato_storage_hack.webp",
+        "category": "FreshSnap",
+        "app": "freshsnap",
+        "formatVersion": 4,
+        "locales": {
+            "ko": {
+                "title": "감자 신선하게 보관하는 법: 과학적 보관 가이드",
+                "description": "공인된 안전 가이드라인에 따른 감자의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+                "authority": "<strong>식품의약품안전처(MFDS) & 농촌진흥청(RDA) & 영국 식품기준청(FSA)</strong>",
+                "intro": "사 온 감자를 무심코 냉장고 야채칸에 넣으셨나요? 감자는 다른 채소와 달리 저온 냉장 보관 시 전분이 당분으로 분해되어 단맛이 강해지지만, 이를 고온 조리하면 1급 발암 추정 물질인 '아크릴아마이드(Acrylamide)'가 대량 생성되는 치명적인 위험이 있습니다. 🥔\n\n또한 햇빛에 노출되면 스스로를 보호하기 위해 엽록소를 생성하며 표면이 초록색으로 변하고, 식중독을 일으키는 신경 독소인 솔라닌(Solanine)을 축적합니다.\n\n오늘 FreshSnap에서는 식품의약품안전처(MFDS)와 영국 식품기준청(FSA)의 가이드라인을 바탕으로 독소 생성을 억제하고 싹이 트는 것을 획기적으로 막아주는 과학적인 상온 보관법을 전해드립니다. 🛡️",
+                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+                "guideTitle": "과학적으로 검증된 보관 가이드",
+                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+                "tags": [
+                    "감자",
+                    "과학적으로 검증된 보관 가이드",
+                    "vegetable"
+                ],
+                "cautions": [
+                    {
+                        "title": "싹이 나거나 표면이 초록색으로 변한 감자는 두껍게 도려내세요 🥔",
+                        "desc": "감자의 싹과 초록색으로 변한 껍질에는 '솔라닌(Solanine)'이라는 독소가 응집되어 있습니다. 섭취 시 구토, 복통, 식중독을 유발하며 가열해도 파괴되지 않으므로 아까워하지 말고 초록색 부위는 두껍게 깎아내고 싹눈은 깊게 파내어 조리해야 안전합니다."
+                    },
+                    {
+                        "title": "양파와 함께 같은 박스에 보관하지 마세요 🧅",
+                        "desc": "감자와 양파를 함께 두면 양파에서 방출되는 수분과 에틸렌 가스가 감자의 싹을 트게 하고 부패를 촉진시킵니다. 또한 감자의 수분이 양파를 무르게 하여 상호 파괴를 일으키므로 두 식재료는 무조건 다른 공간에 격리하여 보관하세요."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "씻지 않고 신문지나 종이봉투로 개별 포장하기 — 완벽한 빛 차단 📦",
+                        "text": "감자가 빛(직사광선 및 형광등)에 노출되면 광합성을 통해 표면이 초록색으로 변하며 솔라닌 독소를 생성합니다. 💡 보관 팁: 흙이 묻은 상태 그대로 신문지나 불투명한 종이봉투로 감싸 빛을 100% 차단해 주세요. 흙은 감자의 수분을 적절히 유지해주는 천연 보습제 역할을 합니다."
+                    },
+                    {
+                        "name": "감자 상자에 사과 1개 동봉하여 보관하기 — 천연 발아 억제제 🍎",
+                        "text": "감자는 수확 후 휴면기가 지나면 싹을 틔웁니다. 💡 보관 팁: 10kg 감자 상자 기준 사과 1개를 넣어두면 사과에서 뿜어져 나오는 에틸렌 가스가 감자 싹의 생장을 억제하여 싹이 트는 시기를 한 달 이상 획기적으로 늦춰 줍니다."
+                    },
+                    {
+                        "name": "냉장고 보관 절대 금지 — 저온 서늘한 상온 보관 (45~60일) ❄️",
+                        "text": "감자를 4℃ 이하 냉장실에 넣으면 환원당이 급격히 증가하여 튀기거나 구울 때 발암물질인 아크릴아마이드가 대량 생성됩니다. 💡 보관 팁: 감자는 반드시 바람이 잘 통하고 빛이 없는 8~10℃의 서늘한 그늘(베란다, 다용도실 등)에 박스째 보관하세요."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "감자 표면이 초록색으로 변했는데 먹어도 안전한가요?",
+                        "answer": "안전하지 않습니다. 초록색으로 변한 껍질에는 '솔라닌'이라는 신경 독소가 집중적으로 축적되어 있습니다. 약간 초록빛이 도는 정도라면 그 부위를 일반 껍질 깎는 두께보다 훨씬 두껍게 도려내면 먹을 수 있지만, 감자 전체가 짙은 초록색이라면 미련 없이 버리는 것이 건강에 안전합니다."
+                    },
+                    {
+                        "question": "왜 감자를 냉장고에 넣으면 발암물질이 생기나요?",
+                        "answer": "감자는 4℃ 이하의 저온에 보관하면 세포 내 효소가 반응하여 전분을 환원당(포도당과 과당)으로 분해합니다. 이 환원당이 120℃ 이상의 고온 조리(튀김, 오븐 구이 등) 과정에서 아미노산과 결합하면 1급 발암 추정 물질인 '아크릴아마이드'가 다량 생성됩니다. 찌거나 삶는 조리법은 100℃에서 이루어지므로 상대적으로 안전하지만, 기본적으로 감자는 서늘한 상온(8~10℃)에 보관하는 것이 원칙입니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "How to Store Potatoes Fresh: Scientific Storage Guide",
+                "description": "Check the optimal storage temperature, method, and shelf life for potatoes based on official safety guidelines.",
+                "authority": "<strong>MFDS & RDA & FSA</strong>",
+                "intro": "Do you routinely store raw potatoes in the refrigerator crisper drawer? 🥔\n\nUnlike most vegetables, storing potatoes at cold temperatures below 4°C (39°F) triggers 'cold-induced sweetening', converting their starches into reducing sugars. While this makes them taste sweeter, frying or roasting these potatoes at high temperatures generates dangerously high levels of Acrylamide, a known Group 2A carcinogen.\n\nFurthermore, exposure to light causes potato skins to turn green, synthesizing a toxic glycoalkaloid called solanine. Today, FreshSnap shares a scientifically proven 3-step storage guide based on guidelines from the UK FSA and MFDS to prevent toxins, suppress sprouting, and keep your potatoes healthy and fresh. 🛡️",
+                "whyTitle": "Why Store Potatoes This Way? Scientific Facts",
+                "whyDesc": "Understanding the unique physiological characteristics of each produce item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+                "guideTitle": "Scientifically Proven Storage Guide",
+                "cautionTitle": "Essential Storage Rules and Cautions",
+                "tags": [
+                    "Potato",
+                    "Scientifically Proven Storage Guide",
+                    "vegetable"
+                ],
+                "cautions": [
+                    {
+                        "title": "Always cut away green patches and sprout eyes deeply 🥔",
+                        "desc": "Potato sprouts and green-tinged skins contain high concentrations of 'solanine', a neurotoxin that causes nausea, vomiting, and food poisoning. Solanine is heat-stable and won't be destroyed by cooking. You must slice away green skin thickly and dig out sprout eyes deeply before cooking."
+                    },
+                    {
+                        "title": "Never store potatoes together with onions 🧅",
+                        "desc": "Onions and potatoes are storage antagonists. Onions emit moisture and ethylene gas that trigger potatoes to sprout and soften rapidly. Conversely, the moisture from potatoes causes onions to rot and grow mold. They must be isolated in separate storage areas."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Wrap unwashed potatoes individually in newspaper or paper bags — Block Light Completely 📦",
+                        "text": "Exposure to light (even indoor lighting) triggers chlorophyll production, turning the skin green and synthesizing toxic solanine. 💡 Storage Tip: Leave the soil on the potatoes—it acts as a natural moisture regulator—and wrap them in newspaper or opaque brown paper bags to block 100% of light."
+                    },
+                    {
+                        "name": "Store at room temp with 1 apple — Natural Sprout Suppression 🍎",
+                        "text": "Potatoes naturally break dormancy and begin to sprout. 💡 Storage Tip: Placing a single apple inside a 10 kg (22 lb) box of potatoes emits ethylene gas in a specific concentration that inhibits the potato's cell elongation, significantly delaying the sprouting process by weeks."
+                    },
+                    {
+                        "name": "Never refrigerate — Prevent Cold-Induced Sweetening & Acrylamide ❄️",
+                        "text": "At refrigerator temperatures (below 4°C), potato starch converts to reducing sugars. 💡 Storage Tip: Cooking these sugar-rich potatoes at temperatures above 120°C (frying or baking) triggers the Maillard reaction, forming the carcinogen Acrylamide. Always store potatoes in a cool, dark, well-ventilated room (8–10°C / 46–50°F)."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Is it safe to eat a potato if the skin has turned green?",
+                        "answer": "It is not safe to eat the green parts. The green color indicates the presence of solanine, a toxic compound. If only a small patch is green, you can safely eat the potato by peeling away the green layer thickly until only normal flesh remains. However, if the entire potato has turned dark green or is severely shriveled, discard it."
+                    },
+                    {
+                        "question": "Why exactly does refrigerating potatoes create carcinogens?",
+                        "answer": "When potatoes are stored in the fridge (below 4°C), an enzyme converts their complex starches into reducing sugars (glucose and fructose). When these sugars are subjected to high-heat cooking like roasting or deep-frying (above 120°C / 250°F), they react with the amino acid asparagine to form Acrylamide, a toxic and potentially carcinogenic chemical. Boiling or steaming at 100°C does not form acrylamide, but for maximum safety, always store potatoes in a cool, dark pantry instead of the fridge."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "じゃがいもを新鮮に保つ保存方法：科学的保管ガイド",
+                "description": "公的安全基準に基づくじゃがいもの最適な保存温度、保管方法、保存期間をご確認ください。",
+                "authority": "<strong>食品医薬品安全処(MFDS) & 農村振興庁(RDA) & 英国食品基準庁(FSA)</strong>",
+                "intro": "買ってきたじゃがいもを無意識に冷蔵庫の野菜室に入れていませんか？🥔\n\nじゃがいもは他の野菜とは異なり、4℃以下の低温で冷蔵保存すると、でんぷんが糖分に分解されて甘みは増しますが、これを高温で調理すると発がん性物質である「アクリルアミド（Acrylamide）」が大量に生成されるという致命的な危険があります。\n\nまた、日光や室内灯の光に晒されると、自身を守るために葉緑素を生成して皮が緑色に変色し、食中毒を引き起こす神経毒「ソラニン（Solanine）」を蓄積します。本日FreshSnapでは、食品医薬品安全処（MFDS）と英国食品基準庁（FSA）のガイドラインに基づき、毒素の発生を抑え発芽を防ぐ科学的な常温保存法をご紹介します。🛡️",
+                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+                "guideTitle": "科学的に検証された保存ガイド",
+                "cautionTitle": "保存時の必須ルールと注意事項",
+                "tags": [
+                    "じゃがいも",
+                    "科学的に検証された保存ガイド",
+                    "vegetable"
+                ],
+                "cautions": [
+                    {
+                        "title": "芽が出たり皮が緑色に変色したじゃがいもは厚く削り取ってください 🥔",
+                        "desc": "じゃがいもの芽と緑色に変色した皮には「ソラニン（Solanine）」という神経毒が集中しています。摂取すると嘔吐や腹痛、食中毒を引き起こし、加熱しても破壊されないため、緑色の部分は厚く剥き、芽の根元は深くくり抜いてから調理する必要があります。"
+                    },
+                    {
+                        "title": "玉ねぎと同じ箱に絶対に入れないでください 🧅",
+                        "desc": "じゃがいもと玉ねぎを一緒に置くと、玉ねぎから放出される水分とエチレンガスがじゃがいもの発芽と腐敗を促進させます。逆にじゃがいもの水分は玉ねぎを腐らせる原因となるため、2つの食材は必ず別の場所に隔離して保存してください。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "洗わずに新聞紙や紙袋で個別に包む — 光を100%遮断 📦",
+                        "text": "じゃがいもが光（直射日光や蛍光灯）に晒されると、光合成により表面が緑色に変わりソラニン毒素を生成します。💡保存のコツ：土がついた状態のまま新聞紙や不透明な紙袋で包み、光を完全に遮断してください。土はじゃがいもの水分を適切に保つ天然の保湿剤の役割を果たします。"
+                    },
+                    {
+                        "name": "じゃがいもの箱にリンゴを1個入れて保存する — 天然の発芽抑制 🍎",
+                        "text": "じゃがいもは収穫後、休眠期が過ぎると芽を出します。💡保存のコツ：10kgのじゃがいも箱に対してリンゴを1個入れておくと、リンゴから放出されるエチレンガスがじゃがいもの芽の成長を抑制し、発芽時期を1ヶ月以上も大幅に遅らせてくれます。"
+                    },
+                    {
+                        "name": "冷蔵庫での保存は絶対に避ける — アクリルアミドの生成防止 ❄️",
+                        "text": "じゃがいもを4℃以下の冷蔵室に入れると、還元糖が急激に増加し、揚げたり焼いたりする際に発がん性物質であるアクリルアミドが大量に生成されます。💡保存のコツ：じゃがいもは必ず風通しが良く光の当たらない8〜10℃の涼しい日陰（ベランダやパントリーなど）で段ボールごと保存してください。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "じゃがいもの表面が緑色に変色していますが、食べても安全ですか？",
+                        "answer": "安全ではありません。緑色に変色した皮には「ソラニン」という神経毒が集中して蓄積されています。少し緑がかっている程度であれば、通常の皮むきよりかなり厚く削り取れば食べられますが、じゃがいも全体が濃い緑色になっている場合は、迷わず捨てるのが安全です。"
+                    },
+                    {
+                        "question": "じゃがいもを冷蔵庫に入れるとなぜ発がん性物質ができるのですか？",
+                        "answer": "じゃがいもを4℃以下の低温で保存すると、細胞内の酵素が反応してデンプンを還元糖（ブドウ糖や果糖）に分解します。この還元糖が120℃以上の高温調理（揚げ物やオーブン焼きなど）の過程でアミノ酸と結合すると、発がん性物質である「アクリルアミド」が大量に生成されます。茹でたり蒸したりする調理は100℃以下で行われるため比較的安全ですが、基本的には涼しい常温（8〜10℃）の暗所に保存するのが原則です。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "如何保持土豆新鲜：科学储存指南",
+                "description": "根据官方食品安全指南，了解土豆的最佳储存温度、方式和保鲜时长。",
+                "authority": "<strong>韩国食品医药品安全处(MFDS) & 韩国农村振兴厅(RDA) & 英国食品标准局(FSA)</strong>",
+                "intro": "您是否曾随手将刚买回来的土豆放进冰箱的蔬菜抽屉里？🥔\n\n土豆与其他蔬菜不同，当保存在4℃以下的冷藏环境时，淀粉会分解为还原糖，虽然这会使其变甜，但在经过高温烹饪（如油炸或烘烤）时，极易产生2A类致癌物“丙烯酰胺（Acrylamide）”。\n\n此外，如果土豆暴露在阳光或室内灯光下，为了自我保护会生成叶绿素使表皮变绿，并产生导致食物中毒的神经毒素——龙葵素（Solanine）。今天FreshSnap基于英国食品标准局(FSA)的指南，为您带来抑制毒素产生、防止发芽的科学常温保存法。🛡️",
+                "whyTitle": "为什么要这样储存？科学原理",
+                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+                "guideTitle": "科学验证的储存指南",
+                "cautionTitle": "储存必需规则及注意事项",
+                "tags": [
+                    "土豆",
+                    "科学验证的储存指南",
+                    "vegetable"
+                ],
+                "cautions": [
+                    {
+                        "title": "切除发芽或表皮变绿的部位时必须厚厚削掉 🥔",
+                        "desc": "土豆的芽和变绿的表皮中聚集了神经毒素“龙葵素（Solanine）”。误食会引起呕吐、腹痛及食物中毒，且该毒素耐高温，加热也无法破坏。为了安全，必须将绿色表皮厚厚削掉，并将芽眼深挖去除后再烹饪。"
+                    },
+                    {
+                        "title": "切勿将土豆与洋葱存放在同一个箱子里 🧅",
+                        "desc": "如果把土豆和洋葱放在一起，洋葱释放的水分和乙烯气体会促使土豆迅速发芽并腐烂；反之，土豆散发的水气也会让洋葱发霉变软，导致相互毁灭。请务必将两者隔离在不同的空间存放。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "带泥不洗，用报纸或纸袋单独包裹 — 100%遮光防毒 📦",
+                        "text": "土豆暴露在光线（直射阳光或荧光灯）下会进行光合作用，表皮变绿并生成有毒的龙葵素。💡储存小贴士：保持带泥状态（泥土起天然保湿作用），用报纸或不透明的牛皮纸袋将土豆单独包裹，彻底阻断光源。"
+                    },
+                    {
+                        "name": "在土豆箱中放入1个苹果同放 — 天然抑制发芽 🍎",
+                        "text": "土豆在采收后经过一段休眠期就会开始发芽。💡储存小贴士：在10kg的土豆箱中放入1个苹果。苹果散发出的乙烯气体会抑制土豆发芽的生长基因，将发芽期大幅延缓一个月以上。"
+                    },
+                    {
+                        "name": "严禁冷藏保存 — 预防丙烯酰胺致癌物生成 ❄️",
+                        "text": "土豆在低于4℃的冷藏室中，淀粉会转化为还原糖，在高温油炸或烘烤时会大量生成致癌物丙烯酰胺。💡储存小贴士：土豆必须整箱存放在通风良好、无光照的8~10℃阴凉处（如阳台阴影处、储藏室等）。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "土豆表面变成绿色了，削掉皮还能吃吗？",
+                        "answer": "不安全。变绿的表皮中集中积累了神经毒素“龙葵素”。如果只是一小块变绿，削皮时必须比平时削得厚得多，直到露出完全正常的果肉才可食用；但如果整个土豆都变成了深绿色，为了健康请毫不犹豫地将其丢弃。"
+                    },
+                    {
+                        "question": "为什么把土豆放进冰箱冷藏会产生致癌物质？",
+                        "answer": "当土豆保存在4℃以下的低温环境中时，细胞内的酶会发生反应，将淀粉分解为还原糖（葡萄糖和果糖）。如果在120℃以上的高温下进行烹饪（如油炸、烤箱烘烤），这些还原糖会与氨基酸结合，发生美拉德反应，大量生成2A类致癌物“丙烯酰胺”。虽然在100℃下蒸或煮相对安全，但原则上土豆应存放在8~10℃的阴凉常温下。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cómo mantener las patatas frescas: Guía científica de conservación",
+                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para las patatas según las directrices oficiales de seguridad.",
+                "authority": "<strong>MFDS & RDA & FSA</strong>",
+                "intro": "¿Es usted de los que guarda las patatas crudas en el cajón de verduras del refrigerador? 🥔\n\nA diferencia de la mayoría de las verduras, almacenar patatas a temperaturas inferiores a 4 °C provoca el 'endulzamiento por frío', un proceso que convierte sus almidones en azúcares reductores. Al freír o asar estas patatas a altas temperaturas, se generan niveles peligrosos de acrilamida, un carcinógeno del Grupo 2A.\n\nAdemás, la exposición a la luz vuelve verde la piel de la patata, sintetizando un compuesto tóxico llamado solanina. Hoy, FreshSnap comparte una guía científica en 3 pasos basada en las pautas de la Agencia de Normas Alimentarias del Reino Unido (FSA) para prevenir toxinas, inhibir los brotes y conservar sus patatas saludables y frescas. 🛡️",
+                "whyTitle": "¿Por qué almacenarlas así? Datos científicos",
+                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+                "guideTitle": "Guía de almacenamiento científicamente probada",
+                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+                "tags": [
+                    "Patata",
+                    "Guía de almacenamiento científicamente probada",
+                    "vegetable"
+                ],
+                "cautions": [
+                    {
+                        "title": "Siempre elimine profundamente las zonas verdes y los ojos de los brotes 🥔",
+                        "desc": "Los brotes y las zonas verdes de la piel contienen concentraciones altas de 'solanina', una neurotoxina que causa intoxicación alimentaria. La solanina resiste el calor y no se destruye al cocinarla. Debe pelar gruesa la piel verde y excavar a fondo los ojos antes de cocinar."
+                    },
+                    {
+                        "title": "Nunca guarde las patatas junto con las cebollas 🧅",
+                        "desc": "Las cebollas y las patatas son enemigas en el almacenamiento. Las cebollas emiten humedad y gas etileno que hacen que las patatas broten y se ablanden rápidamente. A su vez, la humedad de la patata pudre la cebolla. Manténgalas aisladas."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Envuelva patatas con tierra en papel periódico o bolsas de papel opacas — Bloquee la luz 📦",
+                        "text": "La luz desencadena la producción de clorofila y la síntesis de solanina tóxica. 💡 Consejo de almacenamiento: Deje la tierra en la patata (actúa como regulador natural de humedad) y envuélvala en papel periódico o bolsas opacas para bloquear el 100% de la luz."
+                    },
+                    {
+                        "name": "Guarde a temperatura ambiente junto con 1 manzana — Inhibición natural de brotes 🍎",
+                        "text": "Tras su periodo de latencia, las patatas comienzan a brotar. 💡 Consejo de almacenamiento: Colocar una sola manzana en una caja de 10 kg de patatas emite suficiente gas etileno para inhibir el crecimiento celular del brote, retrasando su aparición por semanas."
+                    },
+                    {
+                        "name": "Nunca refrigere las patatas — Evite la acrilamida carcinógena ❄️",
+                        "text": "A menos de 4 °C, el almidón de la patata se convierte en azúcares reductores. 💡 Consejo de almacenamiento: Cocinar estas patatas dulces a más de 120 °C (fritas u horneadas) forma acrilamida. Conserve las patatas siempre en un lugar fresco, oscuro y ventilado (8-10 °C)."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Es seguro comer una patata si su piel se ha vuelto verde?",
+                        "answer": "No es seguro comer las partes verdes. El color verde indica la presencia de solanina, un compuesto tóxico. Si solo hay una pequeña mancha verde, puede pelar esa zona profundamente hasta que solo quede carne de color normal. Sin embargo, si toda la patata está verde oscuro o muy arrugada, deséchela por completo."
+                    },
+                    {
+                        "question": "¿Por qué guardar patatas en el refrigerador crea sustancias cancerígenas?",
+                        "answer": "Cuando las patatas se conservan a menos de 4 °C, una enzima convierte sus almidones complejos en azúcares reductores (glucosa y fructosa). Al cocinar estos azúcares a altas temperaturas (más de 120 °C), como al freírlos, reaccionan con aminoácidos formando Acrilamida, un posible carcinógeno. Hervir o cocinar al vapor a 100 °C es seguro, pero la regla general es guardar las patatas en una alacena fresca (8-10 °C)."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Comment conserver les pommes de terre fraîches : Guide scientifique de conservation",
+                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les pommes de terre selon les directives officielles de sécurité.",
+                "authority": "<strong>MFDS & RDA & FSA</strong>",
+                "intro": "Avez-vous pris l'habitude de ranger vos pommes de terre crues dans le bac à légumes du réfrigérateur ? 🥔\n\nContrairement à la plupart des légumes, stocker des pommes de terre au froid, en dessous de 4 °C, déclenche le 'sucrage à froid', transformant leur amidon en sucres réducteurs. Bien que cela les rende plus sucrées, frire ou rôtir ces pommes de terre à haute température génère de l'acrylamide, un cancérigène redoutable.\n\nDe plus, l'exposition à la lumière fait verdir la peau des pommes de terre, qui synthétisent alors un glycoalcaloïde toxique appelé solanine. Aujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations de la Food Standards Agency (FSA) britannique pour éviter les toxines, empêcher la germination et garder vos pommes de terre saines et fraîches. 🛡️",
+                "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
+                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+                "guideTitle": "Guide de conservation scientifiquement prouvé",
+                "cautionTitle": "Règles essentielles et précautions de stockage",
+                "tags": [
+                    "Pomme de terre",
+                    "Guide de conservation scientifiquement prouvé",
+                    "vegetable"
+                ],
+                "cautions": [
+                    {
+                        "title": "Éliminez toujours les zones vertes et les germes en coupant largement 🥔",
+                        "desc": "Les germes et les peaux verdies contiennent de fortes concentrations de 'solanine', une neurotoxine causant des intoxications alimentaires. La solanine est thermorésistante et ne disparaît pas à la cuisson. Pelez très épais les zones vertes et creusez profondément pour enlever les germes."
+                    },
+                    {
+                        "title": "Ne conservez jamais les pommes de terre avec les oignons 🧅",
+                        "desc": "Les oignons et les pommes de terre sont des ennemis de conservation. Les oignons dégagent de l'humidité et de l'éthylène qui font germer et ramollir les pommes de terre. Inversement, l'humidité des pommes de terre fait pourrir les oignons. Isolez-les."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Envelopper les pommes de terre terreuses dans du journal ou du papier — Bloquer la lumière 📦",
+                        "text": "L'exposition à la lumière (même artificielle) déclenche la production de chlorophylle, verdissant la peau et créant de la solanine toxique. 💡 Astuce de conservation : Laissez la terre sur les pommes de terre (elle régule l'humidité) et enveloppez-les dans du papier journal ou un sac opaque."
+                    },
+                    {
+                        "name": "Stocker à température ambiante avec 1 pomme — Anti-germination naturel 🍎",
+                        "text": "Après la période de dormance, les pommes de terre commencent à germer. 💡 Astuce de conservation : Placer une seule pomme dans une cagette de 10 kg de pommes de terre dégage suffisamment de gaz éthylène pour inhiber la croissance des cellules du germe, retardant considérablement la germination."
+                    },
+                    {
+                        "name": "Ne jamais réfrigérer — Éviter le sucrage à froid et l'acrylamide ❄️",
+                        "text": "Aux températures du réfrigérateur (sous 4 °C), l'amidon se transforme en sucres réducteurs. 💡 Astuce de conservation : Cuire ces pommes de terre sucrées à plus de 120 °C (friture ou four) crée de l'acrylamide, une substance cancérigène. Conservez toujours vos pommes de terre dans un endroit frais, sombre et aéré (8–10 °C)."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Est-il sûr de manger une pomme de terre si sa peau a verdi ?",
+                        "answer": "Il n'est pas sûr de manger les parties vertes. La couleur verte indique la présence de solanine, un composé toxique. S'il n'y a qu'une petite tache verte, vous pouvez manger la pomme de terre en pelant largement la couche verte jusqu'à atteindre la chair normale. Mais si toute la pomme de terre est vert foncé ou très flétrie, jetez-la."
+                    },
+                    {
+                        "question": "Pourquoi exactement le fait de réfrigérer des pommes de terre crée-t-il des substances cancérigènes ?",
+                        "answer": "Lorsque les pommes de terre sont au frigo (sous 4 °C), une enzyme décompose leurs amidons complexes en sucres réducteurs (glucose et fructose). Lorsqu'ils sont cuits à haute température comme la friture (plus de 120 °C), ces sucres réagissent avec un acide aminé pour former de l'Acrylamide, un produit chimique toxique et cancérigène. La cuisson à l'eau ou à la vapeur à 100 °C est sûre, mais la règle de base est de stocker les pommes de terre dans un cellier frais (8-10 °C) plutôt qu'au frigo."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Kartoffeln richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Kartoffeln basierend auf offiziellen Sicherheitsrichtlinien.",
+                "authority": "<strong>MFDS & RDA & FSA</strong>",
+                "intro": "Legen Sie rohe Kartoffeln gewohnheitsmäßig in das Gemüsefach Ihres Kühlschranks? 🥔\n\nIm Gegensatz zu den meisten Gemüsesorten führt die Lagerung von Kartoffeln bei Temperaturen unter 4 °C zur 'Kältesüßung', bei der ihre Stärke in reduzierende Zucker umgewandelt wird. Dies macht sie zwar süßer, aber beim Braten, Frittieren oder Backen dieser Kartoffeln bei hohen Temperaturen entstehen gefährlich hohe Mengen an Acrylamid, einem potenziell krebserregenden Stoff (Klasse 2A).\n\nZudem lässt Lichteinfall die Kartoffelschale grün werden und bildet das giftige Glykoalkaloid Solanin. Heute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Richtlinien der britischen FSA und MFDS basiert, um Toxine zu verhindern, Keimung zu stoppen und Ihre Kartoffeln sicher und gesund zu lagern. 🛡️",
+                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+                "tags": [
+                    "Kartoffel",
+                    "Wissenschaftlich geprüfter Lagerungsratgeber",
+                    "vegetable"
+                ],
+                "cautions": [
+                    {
+                        "title": "Grüne Stellen und Keimaugen immer großzügig wegschneiden 🥔",
+                        "desc": "Kartoffelkeime und grünliche Schalen enthalten hohe Konzentrationen von 'Solanin', einem Nervengift, das Übelkeit, Erbrechen und Lebensmittelvergiftungen verursacht. Solanin ist hitzestabil und wird durch Kochen nicht zerstört. Grüne Schale dick schälen und Keimaugen tief ausstechen."
+                    },
+                    {
+                        "title": "Kartoffeln niemals zusammen mit Zwiebeln lagern 🧅",
+                        "desc": "Zwiebeln und Kartoffeln sind Lagerungsgegner. Zwiebeln geben Feuchtigkeit und Ethylengas ab, was Kartoffeln rasch keimen und weich werden lässt. Umgekehrt lässt die Kartoffelfeuchtigkeit Zwiebeln faulen. In getrennten Behältern lagern."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Erdige Kartoffeln einzeln in Zeitungspapier/Papiertüten wickeln — Licht zu 100 % blockieren 📦",
+                        "text": "Lichteinfall (auch Raumbeleuchtung) löst die Chlorophyllproduktion aus, macht die Schale grün und synthetisiert giftiges Solanin. 💡 Lagerungstipp: Lassen Sie die Erde an den Kartoffeln – sie wirkt als natürlicher Feuchtigkeitsregler – und wickeln Sie sie in Zeitungspapier oder undurchsichtige Papiertüten."
+                    },
+                    {
+                        "name": "Bei Raumtemperatur mit 1 Apfel lagern — Natürliche Keimhemmung 🍎",
+                        "text": "Kartoffeln beginnen nach der Ruhephase natürlich zu keimen. 💡 Lagerungstipp: Ein einzelner Apfel in einer 10-kg-Kiste Kartoffeln gibt genug Ethylengas ab, um die Zellstreckung der Keime zu blockieren und das Keimen um Wochen hinauszuzögern."
+                    },
+                    {
+                        "name": "Niemals im Kühlschrank lagern — Acrylamidbildung durch Kälte verhindern ❄️",
+                        "text": "Bei Kühlschranktemperaturen (unter 4 °C) wandelt sich die Kartoffelstärke in reduzierende Zucker um. 💡 Lagerungstipp: Beim Erhitzen dieser zuckerreichen Kartoffeln über 120 °C (Braten/Backen) bildet sich das Karzinogen Acrylamid. Immer an einem kühlen, dunklen und gut belüfteten Ort (8–10 °C) lagern."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Ist es sicher, eine Kartoffel zu essen, deren Schale grün geworden ist?",
+                        "answer": "Es ist nicht sicher, die grünen Teile zu essen. Die grüne Farbe zeigt das Vorhandensein von Solanin an, einer giftigen Verbindung. Ist nur ein kleiner Fleck grün, können Sie die Kartoffel bedenkenlos essen, indem Sie die grüne Schicht sehr dick wegschneiden. Ist die gesamte Kartoffel dunkelgrün oder stark verschrumpelt, werfen Sie sie weg."
+                    },
+                    {
+                        "question": "Warum genau entstehen durch das Kühlen von Kartoffeln im Kühlschrank krebserregende Stoffe?",
+                        "answer": "Werden Kartoffeln im Kühlschrank (unter 4 °C) gelagert, wandelt ein Enzym ihre komplexe Stärke in reduzierende Zucker (Glukose und Fruktose) um. Werden diese Zucker bei hohen Temperaturen wie beim Frittieren (über 120 °C) erhitzt, reagieren sie mit der Aminosäure Asparagin und bilden Acrylamid, eine potenziell krebserregende Chemikalie. Kochen bei 100 °C ist sicher, aber generell sollten Kartoffeln bei 8–10 °C gelagert werden."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Como conservar batatas frescas: Guia científico de armazenamento",
+                "description": "Descubra a temperatura, método e tempo de conservação ideais para batatas com base em diretrizes oficiais de segurança.",
+                "authority": "<strong>MFDS & RDA & FSA</strong>",
+                "intro": "Você tem o costume de guardar as batatas cruas na gaveta de legumes da geladeira? 🥔\n\nDiferente da maioria dos vegetais, armazenar batatas em temperaturas frias abaixo de 4°C desencadeia o 'adoçamento induzido pelo frio', convertendo seus amidos em açúcares redutores. Fritar ou assar essas batatas em altas temperaturas gera níveis perigosos de Acrilamida, um carcinógeno conhecido do Grupo 2A.\n\nAlém disso, a exposição à luz faz a casca da batata ficar verde, sintetizando um glicoalcaloide tóxico chamado solanina. Hoje, o FreshSnap apresenta um guia científico de conservação em 3 etapas baseado em diretrizes da Food Standards Agency (FSA) do Reino Unido para evitar toxinas, inibir brotos e manter suas batatas saudáveis e seguras. 🛡️",
+                "whyTitle": "Por que armazenar assim? Fatos científicos",
+                "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+                "guideTitle": "Guia de armazenamento comprovado cientificamente",
+                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+                "tags": [
+                    "Batata",
+                    "Guia de armazenamento comprovado cientificamente",
+                    "vegetable"
+                ],
+                "cautions": [
+                    {
+                        "title": "Sempre remova profundamente áreas verdes e olhos dos brotos 🥔",
+                        "desc": "Brotos e cascas esverdeadas contêm alta concentração de 'solanina', uma neurotoxina que causa náusea, vômito e intoxicação. A solanina resiste ao calor e não é destruída no cozimento. Descasque a parte verde de forma espessa e cave fundo para retirar os olhos dos brotos."
+                    },
+                    {
+                        "title": "Nunca guarde batatas junto com cebolas 🧅",
+                        "desc": "Cebolas e batatas são antagonistas no armazenamento. As cebolas emitem umidade e gás etileno que fazem as batatas brotarem e amolecerem rapidamente. Em contrapartida, a umidade das batatas apodrece as cebolas. Mantenha-as isoladas."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Embrulhe batatas com terra em jornal ou sacos de papel opacos — Bloqueio total da luz 📦",
+                        "text": "A exposição à luz (mesmo luz artificial) ativa a produção de clorofila, esverdeando a casca e sintetizando solanina tóxica. 💡 Dica de conservação: Mantenha a terra nas batatas (funciona como regulador de umidade) e embrulhe em jornal ou sacos de papel opacos para bloquear 100% da luz."
+                    },
+                    {
+                        "name": "Guarde em temperatura ambiente com 1 maçã — Supressão natural de brotos 🍎",
+                        "text": "Após o período de dormência, as batatas naturalmente começam a brotar. 💡 Dica de conservação: Colocar uma maçã dentro de uma caixa com 10 kg de batatas emite gás etileno em uma concentração que inibe o crescimento celular do broto, atrasando-o por semanas."
+                    },
+                    {
+                        "name": "Nunca guarde na geladeira — Evite a Acrilamida cancerígena ❄️",
+                        "text": "Em temperaturas de geladeira (abaixo de 4°C), o amido da batata se converte em açúcares redutores. 💡 Dica de conservação: Cozinhar essas batatas doces a mais de 120°C (fritas ou assadas) aciona a reação de Maillard, formando Acrilamida. Guarde-as sempre em local fresco, escuro e ventilado (8-10 °C)."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "É seguro comer uma batata se a casca ficou verde?",
+                        "answer": "Não é seguro comer as partes verdes. A cor verde indica a presença de solanina, um composto tóxico. Se apenas uma pequena mancha estiver verde, você pode consumi-la retirando uma camada grossa até sobrar apenas a polpa normal. Porém, se toda a batata estiver verde-escura ou muito enrugada, descarte-a."
+                    },
+                    {
+                        "question": "Por que exatamente guardar batatas na geladeira gera substâncias cancerígenas?",
+                        "answer": "Quando as batatas são guardadas na geladeira (abaixo de 4°C), uma enzima quebra seus amidos complexos em açúcares redutores (glicose e frutose). Quando esses açúcares são cozidos em alta temperatura, como fritura ou forno (acima de 120°C), eles reagem com o aminoácido asparagina e formam a Acrilamida, um produto químico cancerígeno. Cozinhar na água ou vapor a 100°C não gera o composto, mas a regra geral é mantê-las fora da geladeira, em local fresco (8-10°C)."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Cara Menyimpan Kentang agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk kentang berdasarkan pedoman keselamatan resmi.",
+                "authority": "<strong>MFDS & RDA & FSA</strong>",
+                "intro": "Apakah Anda terbiasa menyimpan kentang mentah di laci sayuran kulkas? 🥔\n\nBerbeda dengan kebanyakan sayuran, menyimpan kentang pada suhu dingin di bawah 4°C memicu 'pemanisan akibat dingin (cold-induced sweetening)', yang mengubah patinya menjadi gula pereduksi. Meskipun rasanya menjadi lebih manis, menggoreng atau memanggang kentang ini pada suhu tinggi akan menghasilkan Akrilamida dalam jumlah berbahaya, yakni zat yang diyakini sebagai karsinogen (penyebab kanker) Golongan 2A.\n\nSelain itu, paparan cahaya membuat kulit kentang berubah menjadi hijau, mensintesis senyawa beracun yang disebut solanin. Hari ini, FreshSnap membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan pedoman FSA Inggris dan MFDS untuk mencegah racun, menekan pertumbuhan tunas, dan menjaga kentang Anda tetap sehat dan segar. 🛡️",
+                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+                "tags": [
+                    "Kentang",
+                    "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                    "vegetable"
+                ],
+                "cautions": [
+                    {
+                        "title": "Selalu potong dalam-dalam pada bagian yang hijau dan mata tunas 🥔",
+                        "desc": "Tunas kentang dan kulit yang kehijauan mengandung konsentrasi tinggi 'solanin', sebuah neurotoksin yang menyebabkan mual, muntah, dan keracunan makanan. Solanin tahan panas dan tidak akan hancur dengan dimasak. Anda harus mengiris tebal kulit hijau dan menggali mata tunas dalam-dalam sebelum dimasak."
+                    },
+                    {
+                        "title": "Jangan pernah menyimpan kentang bersamaan dengan bawang bombay 🧅",
+                        "desc": "Bawang bombay dan kentang adalah musuh dalam penyimpanan. Bawang melepaskan kelembapan dan gas etilen yang memicu kentang untuk bertunas dan melunak dengan cepat. Sebaliknya, kelembapan dari kentang menyebabkan bawang membusuk dan berjamur. Keduanya harus dipisahkan."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Bungkus kentang berbalut tanah satu per satu di koran atau kantong kertas — Halangi Cahaya Sepenuhnya 📦",
+                        "text": "Paparan cahaya (bahkan cahaya lampu ruangan) memicu produksi klorofil, mengubah kulit menjadi hijau dan mensintesis solanin beracun. 💡 Tips Penyimpanan: Biarkan tanah tetap menempel pada kentang—tanah bertindak sebagai pengatur kelembapan alami—dan bungkus dalam koran atau kantong kertas cokelat buram untuk menghalangi 100% cahaya."
+                    },
+                    {
+                        "name": "Simpan di suhu ruang bersama 1 buah apel — Penekan Tunas Alami 🍎",
+                        "text": "Kentang secara alami mengakhiri masa dormansinya dan mulai bertunas. 💡 Tips Penyimpanan: Menempatkan satu buah apel di dalam kotak berisi 10 kg kentang akan melepaskan gas etilen pada konsentrasi tertentu yang menghambat pemanjangan sel tunas kentang, menunda proses pertunasan selama berminggu-minggu."
+                    },
+                    {
+                        "name": "Jangan pernah didinginkan di kulkas — Cegah Pemanisan Akibat Dingin & Akrilamida ❄️",
+                        "text": "Pada suhu kulkas (di bawah 4°C), pati kentang berubah menjadi gula pereduksi. 💡 Tips Penyimpanan: Memasak kentang kaya gula ini pada suhu di atas 120°C (digoreng atau dipanggang) memicu reaksi Maillard, membentuk zat karsinogen Akrilamida. Selalu simpan kentang di ruangan yang sejuk, gelap, dan berventilasi baik (8–10°C)."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Apakah aman memakan kentang jika kulitnya telah berubah menjadi hijau?",
+                        "answer": "Tidak aman memakan bagian yang hijau. Warna hijau menandakan keberadaan solanin, senyawa beracun. Jika hanya sebagian kecil yang hijau, Anda dapat dengan aman memakan kentang tersebut dengan mengupas tebal lapisan hijaunya hingga hanya tersisa daging berwarna normal. Namun, jika seluruh kentang berubah menjadi hijau tua atau sangat keriput, buang saja."
+                    },
+                    {
+                        "question": "Mengapa menyimpan kentang di kulkas dapat menciptakan zat penyebab kanker?",
+                        "answer": "Ketika kentang disimpan di kulkas (di bawah 4°C), sebuah enzim mengubah pati kompleksnya menjadi gula pereduksi (glukosa dan fruktosa). Ketika gula ini dimasak dengan suhu tinggi seperti dipanggang atau digoreng (di atas 120°C), mereka bereaksi dengan asam amino asparagin untuk membentuk Akrilamida, sebuah bahan kimia beracun dan berpotensi karsinogenik. Merebus atau mengukus pada suhu 100°C tidak membentuk akrilamida, namun untuk keamanan maksimal, selalu simpan kentang di tempat sejuk dan gelap, bukan di kulkas."
+                    }
+                ]
+            }
+        }
     }
-  }
 }

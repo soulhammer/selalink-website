@@ -6,7 +6,7 @@ pubDate: "2026-01-29"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
 tags: ["반려동물","펫케어","시바견 (Shiba Inu)"]
-heroImage: "/images/blog/shiba_care.png"
+heroImage: "/images/blog/shiba_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "National Shiba Club of America 및 IAABC 행동 치료 가이드라인"

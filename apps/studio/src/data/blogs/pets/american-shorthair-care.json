@@ -1,516 +1,516 @@
 {
-  "american-shorthair-care": {
-    "pubDate": "2026-03-02",
-    "updatedDate": "2026-03-02",
-    "locales": {
-      "en": {
-        "title": "American Shorthair Heart & Weight Care: A 3-Step Daily Routine for HCM Prevention and Obesity Control",
-        "description": "American Shorthairs are robust cats but prone to obesity and Hypertrophic Cardiomyopathy (HCM). Learn a 3-step daily routine to manage diet, play, and heart health.",
-        "authority": "Cat Fanciers' Association (CFA) Breed Standard & Cornell Feline Health Center Research",
-        "profile": {
-          "breed": "American Shorthair",
-          "lifespan": "15 ~ 20 years",
-          "sleep_pattern": "12 ~ 16 hours (prefers sunny window spots)",
-          "temperament": "Gentle, Smart, Quiet, Independent"
+    "american-shorthair-care": {
+        "pubDate": "2026-03-02",
+        "updatedDate": "2026-03-02",
+        "locales": {
+            "en": {
+                "title": "American Shorthair Heart & Weight Care: A 3-Step Daily Routine for HCM Prevention and Obesity Control",
+                "description": "American Shorthairs are robust cats but prone to obesity and Hypertrophic Cardiomyopathy (HCM). Learn a 3-step daily routine to manage diet, play, and heart health.",
+                "authority": "Cat Fanciers' Association (CFA) Breed Standard & Cornell Feline Health Center Research",
+                "profile": {
+                    "breed": "American Shorthair",
+                    "lifespan": "15 ~ 20 years",
+                    "sleep_pattern": "12 ~ 16 hours (prefers sunny window spots)",
+                    "temperament": "Gentle, Smart, Quiet, Independent"
+                },
+                "intro": "Known for their beautiful silver tabby pattern and muscular bodies, American Shorthairs are stable and loving companions. However, their easygoing nature often leads to laziness and obesity, which strains their cardiovascular system. Furthermore, the breed is genetically susceptible to Hypertrophic Cardiomyopathy (HCM), a silent heart disease where the heart walls thicken. Today, PetSelf decodes American Shorthair heart warning signs and presents a 3-step care routine.",
+                "whyTitle": "American Shorthair Body Language: Heart Strain and Open-Mouth Breathing",
+                "whyDesc": "Unlike dogs, cats rarely pant to regulate temperature. If an American Shorthair exhibits **'open-mouth breathing'** or gets **'easily fatigued'** during brief play, it is a major warning of cardiovascular distress. Recognizing these signs early is crucial.",
+                "body_signals": [
+                    {
+                        "name": "Open-Mouth Breathing",
+                        "meaning": "Breathing with the mouth open and tongue slightly out, indicating severe oxygen deficiency due to heart/lung overload or extreme distress.",
+                        "response": "Minimize stress immediately and transport the cat in a carrier to a 24-hour emergency veterinary clinic for oxygen therapy."
+                    },
+                    {
+                        "name": "Quick Fatigue & Lying Down",
+                        "meaning": "Stopping play and lying flat on the side within minutes due to reduced cardiac output.",
+                        "response": "Limit strenuous exercise immediately and schedule an annual veterinary screening including auscultation and heart ultrasound (with proBNP test) to monitor for HCM progression."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Measured Portion Feeding to Prevent Obesity",
+                        "text": "Avoid free-feeding. Divide their daily caloric requirement into measured morning and evening portions to prevent weight gain and protect vascular health."
+                    },
+                    {
+                        "name": "Afternoon: Interactive Play & Calorie-Burning Session",
+                        "text": "Conduct at least two 15-minute play sessions using feather wands or toy mice to stimulate hunting instincts and burn fat."
+                    },
+                    {
+                        "name": "Evening: Weekly Brushing and Hairball Prevention",
+                        "text": "Although short-haired, brush their dense coat once or twice a week with a slicker brush to remove dead undercoat and prevent hairball vomiting and gastrointestinal issues."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "What is Hypertrophic Cardiomyopathy (HCM) in cats?",
+                        "answer": "HCM is a common genetic disease where the walls of the heart's left ventricle thicken, reducing chamber volume and pumping efficiency. In severe cases, it can cause sudden death, making early annual screening vital."
+                    },
+                    {
+                        "question": "How can I prevent obesity in an American Shorthair?",
+                        "answer": "Choose low-carbohydrate, high-protein food and limit treats. Using puzzle feeders (food toys) to make them work for a portion of their kibble is an effective way to increase physical activity."
+                    }
+                ],
+                "tags": [
+                    "American Shorthair",
+                    "HCM Prevention",
+                    "Obesity Control",
+                    "Heart Care"
+                ]
+            },
+            "ja": {
+                "title": "アメリカン・ショートヘアの心臓＆体重ケア：HCM予防と肥満対策の日常3段階ルーティン",
+                "description": "アメリカン・ショートヘアは頑丈ですが肥満になりやすく、肥大性心筋症（HCM）の遺伝的リスクがあります。食事管理と運動を組み合わせた3段階ケアを紹介します。",
+                "authority": "CFA（国際血統登録団体）アメリカン・ショートヘア品種標準およびコーネル大学猫健康センター研究",
+                "profile": {
+                    "breed": "アメリカン・ショートヘア (American Shorthair)",
+                    "lifespan": "15 〜 20年",
+                    "sleep_pattern": "12 〜 16時間（日当たりの良い窓辺を好む）",
+                    "temperament": "穏やか、賢い、静か、自立心がある"
+                },
+                "intro": "美しいシルバータビーの模様と筋肉質な体型が特徴のアメリカン・ショートヘアは、穏やかな性格で適応力に優れた猫種です。しかし、食べるのが好きでマイペースな性格から肥満になりやすく、心血管系に大きな負担がかかります。特にこの品種は、心臓の壁が厚くなり機能が低下する「肥大性心筋症（HCM）」の遺伝的素因を持っています。本日PetSelfでは、アメリカン・ショートヘアの心臓SOSサインを解読し、心臓と適正体重を守る3段階ルーティンを紹介します。",
+                "whyTitle": "アメリカン・ショートヘアのボディランゲージ：心臓過負荷と開口呼吸の意味",
+                "whyDesc": "猫は犬と異なり、普段はハァハァと口で呼吸して体温調節をしません。そのため、日常で口を開けて息をする**「開口呼吸」**をしたり、遊びの途中で**「すぐに疲れて横たわる」**行動は、心臓疾患の強力な警告サインです。これを早期に察知することが重要です。",
+                "body_signals": [
+                    {
+                        "name": "開口呼吸 (Open-Mouth Breathing)",
+                        "meaning": "口を開けて荒い息をする状態で、肺や心臓の過負荷、または極度の不安による深刻な酸素不足のサインです。",
+                        "response": "キャリー等に入れて刺激（ストレス）を最小限にし、直ちに最寄りの24時間救急動物病院へ搬送して酸素療法を受けさせてください。"
+                    },
+                    {
+                        "name": "運動時の急な疲労 (Quick Fatigue)",
+                        "meaning": "軽い羽のおもちゃ遊びなどの短い動きでもすぐに横になって息を切らす現象で、心拍出量が不足しているサインです。",
+                        "response": "激しい運動を制限し、年に1回の聴診および心エコー検査（proBNP検査含む）を通じて肥大性心筋症の進行状況を精密確認してください。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：置き餌の制限と定量給餌",
+                        "text": "常にフードを置いておく自由給餌を避け、朝晩に定量を分けて与えることで肥満を予防し、血管の健康を守ります。"
+                    },
+                    {
+                        "name": "昼：狩猟本能を刺激する15分間のアクティブな遊び",
+                        "text": "釣り竿やねずみのおもちゃを空中で動かすなどの狩りごっこを1日最低2回、15分以上誘発し、カロリー消費を促進します。"
+                    },
+                    {
+                        "name": "夜：短毛種用スリッカーブラッシングと毛並みケア",
+                        "text": "短毛種ですが毛の密度が非常に高いため、週1〜2回のブラッシングで不要なアンダーコートを除去し、毛玉吐きによる胃腸障害を予防します。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "猫の肥大性心筋症（HCM）とはどのような病気ですか？",
+                        "answer": "心臓の左心室の壁が異常に厚くなり、心臓内部の容積が狭くなって全身に血液を十分に送り出せなくなる代表的な遺伝性疾患です。重症化すると突然死に至ることもあるため、早期の定期検診が最も重要です。"
+                    },
+                    {
+                        "question": "アメリカン・ショートヘアの肥満予防の食事のコツはありますか？",
+                        "answer": "炭水化物が少なくタンパク質割合が高いフードを選び、フードの一部を知育玩具（フードトイ）に入れて転がしながら食べさせることで、運動量を増やすのが効果的です。"
+                    }
+                ],
+                "tags": [
+                    "アメショ",
+                    "HCM予防",
+                    "猫の肥満",
+                    "心エコー"
+                ]
+            },
+            "zh": {
+                "title": "美短心脑血管与体重护理：预防肥大性心肌病(HCM)及控制肥胖的日常3步惯例",
+                "description": "美国短毛猫身体强健，但极易发生肥胖并具有肥大性心肌病(HCM)的遗传倾向。通过日常3步护理惯例科学管理饮食、运动与心脏健康。",
+                "authority": "CFA (国际爱猫者协会) 美国短毛猫品种标准与康奈尔猫科健康中心研究数据",
+                "profile": {
+                    "breed": "美国短毛猫 (American Shorthair)",
+                    "lifespan": "15 ~ 20年",
+                    "sleep_pattern": "12 ~ 16小时（偏爱向阳的窗台）",
+                    "temperament": "温和、聪明、安静、独立"
+                },
+                "intro": "拥有精美银色虎斑纹与结实骨骼的美国短毛猫性格温顺、适应力强。然而，它们喜食且懒散的性格极易引发肥胖，从而增加心血管系统的负担。此外，该品种存在心肌壁增厚致使功能下降的“肥大性心肌病（HCM）”遗传倾向。今天，PetSelf 将为您解析美短的心脏异常信号，并分享控制体重与养护心脏的3步日常惯例。",
+                "whyTitle": "美国短毛猫的身体语言：心脏超负荷与张口呼吸的警示",
+                "whyDesc": "猫咪与狗狗不同，很少通过张嘴喘气来调节体温。如果在日常中出现**“张口呼吸”**或在玩耍中**“极易疲劳趴卧”**，这是心血管疾病的强烈警告，早发现早干预至关重要。",
+                "body_signals": [
+                    {
+                        "name": "张口呼吸 (Open-Mouth Breathing)",
+                        "meaning": "张开嘴巴急促喘气的状态，表明肺部与心脏负荷过重，或因极度焦虑导致严重缺氧。",
+                        "response": "尽量减少环境刺激与应激，将猫咪置于航空箱中，立即送往24小时急诊宠物医院接受吸氧治疗。"
+                    },
+                    {
+                        "name": "玩耍中迅速疲劳趴卧 (Quick Fatigue)",
+                        "meaning": "进行轻度羽毛逗猫棒互动等短暂运动后便侧卧喘气，代表心脏泵血输出量严重不足。",
+                        "response": "限制剧烈运动，每年定期进行听诊及心脏彩超（含proBNP检测），以精准排查与监测HCM的进展。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早晨：限制自助喂食与定时定量给食",
+                        "text": "放弃食物常备的自助喂食方式，改为早晚定时定量喂食，从源头预防肥胖并保护血管健康。"
+                    },
+                    {
+                        "name": "中午：刺激捕猎本能的15分钟主动游戏",
+                        "text": "使用逗猫棒或玩具小鼠模拟捕猎，每日诱导互动至少2次、每次15分钟以上，以促进热量消耗。"
+                    },
+                    {
+                        "name": "晚上：短毛专用梳理与毛球预防",
+                        "text": "虽然属于短毛猫，但其绒毛密度极大，每周应使用针梳梳理1-2次去除死毛，预防吐毛球引发的胃肠道不适。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "什么是猫的肥大性心肌病（HCM）？",
+                        "answer": "这是猫最常见的遗传性心脏病，表现为左心室壁异常增厚，导致心脏容积缩小、泵血效率降低。严重时可导致猝死，因此每年进行定期心脏筛查是最佳预防手段。"
+                    },
+                    {
+                        "question": "美短容易变胖，有什么有效的饮食控制建议吗？",
+                        "answer": "建议选择低碳水化合物、高蛋白质配方的猫粮，并将部分猫粮放入益智漏食玩具中，让猫咪边玩边吃，以此增加日常活动量。"
+                    }
+                ],
+                "tags": [
+                    "美国短毛猫",
+                    "HCM预防",
+                    "猫咪减肥",
+                    "心脏彩超"
+                ]
+            },
+            "es": {
+                "title": "Cuidado cardíaco y de peso del American Shorthair: Rutina diaria de 3 pasos para la prevención de la HCM y el control de la obesidad",
+                "description": "Los American Shorthair son gatos robustos pero propensos a la obesidad y a la miocardiopatía hipertrófica (HCM). Conozca una rutina de 3 pasos para controlar su peso y salud cardíaca.",
+                "authority": "Estándar de raza de la Cat Fanciers' Association (CFA) e investigaciones del Cornell Feline Health Center",
+                "profile": {
+                    "breed": "American Shorthair",
+                    "lifespan": "15 ~ 20 años",
+                    "sleep_pattern": "12 ~ 16 horas (prefiere lugares soleados junto a la ventana)",
+                    "temperament": "Apacible, Inteligente, Silencioso, Independiente"
+                },
+                "intro": "Conocido por su hermoso patrón atigrado plateado y su complexión muscular, el American Shorthair es un compañero dócil y de gran adaptabilidad. Sin embargo, su amor por la comida y su naturaleza tranquila suelen conducirlo a la obesidad, lo que ejerce una gran presión sobre su sistema cardiovascular. Además, esta raza tiene predisposición genética a la miocardiopatía hipertrófica (HCM), una patología donde el músculo cardíaco se engrosa. Hoy, PetSelf descifra sus señales de alerta cardíaca y presenta una rutina de cuidado en 3 pasos.",
+                "whyTitle": "Lenguaje corporal del American Shorthair: Sobrecarga cardíaca y respiración con la boca abierta",
+                "whyDesc": "A diferencia de los perros, los gatos raramente jadean para regular su temperatura. Si un American Shorthair presenta **'respiración con la boca abierta'** o se **'fatiga rápidamente'** durante el juego, se trata de una advertencia grave de sobrecarga cardíaca. Detectarlo a tiempo puede salvar su vida.",
+                "body_signals": [
+                    {
+                        "name": "Respiración con la boca abierta (Open-Mouth Breathing)",
+                        "meaning": "Estado de respiración fatigosa con la boca abierta, indicativo de deficiencia severa de oxígeno por sobrecarga cardiorrespiratoria o estrés extremo.",
+                        "response": "Minimice el estrés inmediatamente, coloque al gato en su transportín y llévelo de urgencia a una clínica veterinaria 24 horas para recibir oxigenoterapia."
+                    },
+                    {
+                        "name": "Fatiga rápida y acostamiento (Quick Fatigue)",
+                        "meaning": "Interrupción del juego para tumbarse de lado tras breves minutos de actividad, debido a un gasto cardíaco insuficiente.",
+                        "response": "Limite los ejercicios intensos y realice chequeos anuales con auscultación y ecocardiograma (incluyendo prueba proBNP) para vigilar la HCM."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Control estricto de raciones para prevenir la obesidad",
+                        "text": "Evite la alimentación a libre disposición. Divida el requerimiento calórico diario en porciones pesadas por la mañana y la noche para evitar el sobrepeso y proteger los vasos sanguíneos."
+                    },
+                    {
+                        "name": "Tarde: Sesión de juego interactivo de 15 minutos para quemar calorías",
+                        "text": "Estimule su instinto cazador al menos dos veces al día durante 15 minutos con cañas de plumas o ratones de juguete para aumentar el gasto calórico."
+                    },
+                    {
+                        "name": "Noche: Cepillado semanal y prevención de bolas de pelo",
+                        "text": "Aunque es de pelo corto, su densidad es muy alta. Cepíllelo una o dos veces por semana para eliminar el pelo muerto y prevenir vómitos de tricobezoares y molestias gástricas."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Qué es la miocardiopatía hipertrófica (HCM) felina?",
+                        "answer": "Es una enfermedad genética hereditaria donde la pared del ventrículo izquierdo se engrosa, reduciendo el espacio interno del corazón y su capacidad de bombeo. En casos graves provoca muerte súbita, por lo que el control ecográfico anual es fundamental."
+                    },
+                    {
+                        "question": "¿Qué consejos nutricionales ayudan a prevenir la obesidad en el American Shorthair?",
+                        "answer": "Seleccione un alimento alto en proteína y bajo en carbohidratos, y sirva parte de su ración dentro de juguetes interactivos dispensadores para motivarlo a moverse mientras come."
+                    }
+                ],
+                "tags": [
+                    "American Shorthair",
+                    "Prevencion HCM",
+                    "Gato Obeso",
+                    "Ecocardiografia Felina"
+                ]
+            },
+            "fr": {
+                "title": "Soin du cœur et du poids de l'American Shorthair : Routine en 3 étapes pour prévenir la CMH et l'obésité",
+                "description": "L'American Shorthair est robuste mais sujet à l'obésité et à la cardiomyopathie hypertrophique (CMH). Apprenez une routine en 3 étapes pour gérer son alimentation, son jeu et sa santé cardiaque.",
+                "authority": "Normes de la Cat Fanciers' Association (CFA) et recherches du Cornell Feline Health Center",
+                "profile": {
+                    "breed": "American Shorthair",
+                    "lifespan": "15 ~ 20 ans",
+                    "sleep_pattern": "12 ~ 16 heures (adore les zones ensoleillées près des fenêtres)",
+                    "temperament": "Doux, Intelligent, Calme, Indépendant"
+                },
+                "intro": "Reconnaissable à son superbe pelage silver tabby et à son ossature musclée, l'American Shorthair est un compagnon doux et très adaptable. Cependant, son appétit et son caractère placide le rendent vulnérable à l'obésité, ce qui fatigue l'appareil cardiovasculaire. De plus, la race présente une prédisposition génétique à la cardiomyopathie hypertrophique (CMH), un épaississement de la paroi cardiaque. Aujourd'hui, PetSelf décrypte ses signaux d'alerte et propose une routine de soin en 3 étapes.",
+                "whyTitle": "Langage corporel de l'American Shorthair : Surcharge cardiaque et respiration bouche ouverte",
+                "whyDesc": "Contrairement aux chiens, les chats ne halètent pas pour réguler leur température. Si un American Shorthair a la **'bouche ouverte pour respirer'** ou montre une **'fatigue soudaine'** lors du jeu, c'est un avertissement majeur de détresse cardiaque. Détecter ces signes rapidement est vital.",
+                "body_signals": [
+                    {
+                        "name": "Respiration bouche ouverte (Open-Mouth Breathing)",
+                        "meaning": "Halètement rapide la bouche ouverte, traduisant un manque d'oxygène critique dû à une surcharge cardiaque/pulmonaire ou à un stress extrême.",
+                        "response": "Réduisez immédiatement tout stress, placez le chat dans sa caisse de transport et emmenez-le en urgence dans une clinique 24h/24 pour une oxygénothérapie."
+                    },
+                    {
+                        "name": "Fatigue rapide et allongement (Quick Fatigue)",
+                        "meaning": "Arrêt du jeu pour s'allonger sur le flanc après quelques minutes d'effort léger, en raison d'un débit cardiaque insuffisant.",
+                        "response": "Limitez l'exercice intense et planifiez un bilan annuel avec auscultation et échographie cardiaque (incluant un test proBNP) pour dépister la CMH."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Rationnement strict de la nourriture pour éviter l'obésité",
+                        "text": "Évitez le libre-service. Divisez sa ration calorique quotidienne en portions mesurées matin et soir pour prévenir la prise de poids et préserver la santé vasculaire."
+                    },
+                    {
+                        "name": "Après-midi : Jeu interactif de 15 minutes pour brûler des calories",
+                        "text": "Stimulez son instinct de chasseur au moins deux fois par jour pendant 15 minutes avec un plumet ou une souris jouet pour brûler les graisses."
+                    },
+                    {
+                        "name": "Soir : Brossage hebdomadaire et prévention des boules de poils",
+                        "text": "Bien qu'il soit à poil court, sa fourrure est très dense. Brossez-le une à deux fois par semaine pour éliminer le sous-poil mort et éviter les vomissements de boules de poils."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Qu'est-ce que la cardiomyopathie hypertrophique (CMH) chez le chat ?",
+                        "answer": "C'est une maladie génétique héréditaire caractérisée par l'épaississement de la paroi du ventricule gauche, réduisant le volume du cœur et son efficacité de pompage. Elle peut causer une mort subite, d'où l'importance d'un dépistage échographique annuel."
+                    },
+                    {
+                        "question": "Quels sont les conseils nutritionnels pour éviter l'obésité chez l'American Shorthair ?",
+                        "answer": "Choisissez des croquettes riches en protéines et pauvres en glucides. Placez une partie de sa ration dans des jouets distributeurs (puzzle feeders) pour qu'il s'active physiquement en mangeant."
+                    }
+                ],
+                "tags": [
+                    "American Shorthair",
+                    "Prevention CMH",
+                    "Obesite Chat",
+                    "Cardiologie Feline"
+                ]
+            },
+            "de": {
+                "title": "American Shorthair Herz- und Gewichtspflege: 3-Schritte-Routine zur HCM-Vorbeugung und Adipositas-Kontrolle",
+                "description": "American Shorthairs sind robuste Katzen, neigen aber zu Übergewicht und hypertropher Kardiomyopathie (HCM). Lernen Sie eine 3-Schritte-Routine für Ernährung, Spiel und Herzgesundheit kennen.",
+                "authority": "CFA (Cat Fanciers' Association) Rassestandard & Studien des Cornell Feline Health Center",
+                "profile": {
+                    "breed": "American Shorthair",
+                    "lifespan": "15 ~ 20 Jahre",
+                    "sleep_pattern": "12 ~ 16 Stunden (bevorzugt sonnige Fensterplätze)",
+                    "temperament": "Sanftmütig, Klug, Ruhig, Unabhängig"
+                },
+                "intro": "Bekannt für ihr schönes Silver-Tabby-Muster und ihren muskulösen Körperbau sind American Shorthairs sanftmütige und anpassungsfähige Begleiter. Ihr guter Appetit und ihr gemütliches Wesen führen jedoch leicht zu Übergewicht, was das Herz-Kreislauf-System stark belastet. Zudem besitzt diese Rasse eine genetische Veranlagung für die hypertrophe Kardiomyopathie (HCM), bei der sich die Herzwand verdickt. Heute entschlüsselt PetSelf Herzwarnsignale und stellt eine 3-Schritte-Routine vor.",
+                "whyTitle": "Körpersprache der American Shorthair: Herzbelastung und Atmen mit offenem Maul",
+                "whyDesc": "Im Gegensatz zu Hunden hecheln Katzen selten zur Wärmeregulierung. Wenn eine American Shorthair **'mit offenem Maul atmet'** oder beim Spielen **'rasch ermüdet'**, ist dies ein ernstes Warnsignal für eine Herzbelastung. Früherkennung ist hierbei lebensrettend.",
+                "body_signals": [
+                    {
+                        "name": "Atmen mit offenem Maul (Open-Mouth Breathing)",
+                        "meaning": "Schweres Atmen mit geöffnetem Maul, was auf einen akuten Sauerstoffmangel durch Herz-Lungen-Überlastung oder extremen Stress hindeutet.",
+                        "response": "Minimieren Sie sofort jeglichen Stress, setzen Sie die Katze in eine Transportbox und bringen Sie sie umgehend in eine 24-Stunden-Tierklinik zur Sauerstofftherapie."
+                    },
+                    {
+                        "name": "Schnelle Ermüdung und Hinlegen (Quick Fatigue)",
+                        "meaning": "Spielabbruch und flaches Hinlegen auf die Seite nach nur wenigen Minuten Bewegung aufgrund verminderter Herzpumpleistung.",
+                        "response": "Schränken Sie anstrengende Aktivitäten ein und lassen Sie jährlich eine Abhöruntersuchung sowie ein Herzultraschall (inkl. proBNP-Test) zur HCM-Kontrolle durchführen."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Portionierte Fütterung zur Vorbeugung von Übergewicht",
+                        "text": "Verzichten Sie auf ständige Futterverfügbarkeit (Ad-libitum). Teilen Sie die tägliche Kalorienmenge abgemessen auf morgens und abends auf, um das Gewicht zu kontrollieren und die Gefäße zu schützen."
+                    },
+                    {
+                        "name": "Nachmittag: 15 Minuten interaktives Spiel zur Fettverbrennung",
+                        "text": "Fördern Sie den Jagdtrieb mindestens zweimal täglich für 15 Minuten mit Federangeln oder Spielmäusen, um die Kalorienverbrennung anzuregen."
+                    },
+                    {
+                        "name": "Abend: Wöchentliches Bürsten und Haarballen-Prophylaxe",
+                        "text": "Trotz des kurzen Fells besitzt die Rasse sehr dichtes Unterfell. Bürsten Sie die Katze 1-2 Mal pro Woche mit einer Zupfbürste, um totes Haar zu entfernen und Erbrechen von Haarballen vorzubeugen."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Was ist hypertrophe Kardiomyopathie (HCM) bei Katzen?",
+                        "answer": "Es handelt sich um eine erbliche Herzerkrankung, bei der sich die Wand der linken Herzkammer verdickt, wodurch das Kammervolumen schrumpft und die Pumpleistung sinkt. Da sie zum plötzlichen Herztod führen kann, ist eine jährliche Ultraschalluntersuchung essenziell."
+                    },
+                    {
+                        "question": "Wie lässt sich Übergewicht bei der American Shorthair am besten vermeiden?",
+                        "answer": "Wählen Sie ein Futter mit hohem Protein- und niedrigem Kohlenhydratgehalt. Geben Sie einen Teil des Futters in Intelligenzspielzeuge (Futterlabyrinthe), damit sich die Katze ihr Futter erarbeiten muss."
+                    }
+                ],
+                "tags": [
+                    "American Shorthair",
+                    "HCM Vorbeugung",
+                    "Katzenubergewicht",
+                    "Herzultraschall"
+                ]
+            },
+            "pt": {
+                "title": "Cuidado cardíaco e de peso do American Shorthair: Rotina diária de 3 passos para prevenção da HCM e controle da obesidade",
+                "description": "Os gatos American Shorthair são robustos, mas propensos à obesidade e à Cardiomiopatia Hipertrófica (HCM). Conheça uma rotina de 3 passos para controlar o peso, o jogo e a saúde do coração.",
+                "authority": "Padrão de raça da Cat Fanciers' Association (CFA) e pesquisas do Cornell Feline Health Center",
+                "profile": {
+                    "breed": "American Shorthair",
+                    "lifespan": "15 ~ 20 anos",
+                    "sleep_pattern": "12 ~ 16 horas (prefere locais ensolarados perto da janela)",
+                    "temperament": "Dócil, Inteligente, Calmo, Independente"
+                },
+                "intro": "Conhecido por sua bela pelagem atigrada prateada e corpo musculoso, o American Shorthair é um companheiro dócil e altamente adaptável. No entanto, seu bom apetite e temperamento calmo frequentemente levam à obesidade, o que sobrecarrega o sistema cardiovascular. Além disso, a raça possui predisposição genética à Cardiomiopatia Hipertrófica (HCM), doença em que a parede do coração se espessa. Hoje, o PetSelf decifra os sinais de alerta cardíaco e apresenta uma rotina em 3 passos.",
+                "whyTitle": "Linguagem corporal do American Shorthair: Sobrecarga cardíaca e respiração de boca aberta",
+                "whyDesc": "Ao contrário dos cães, os gatos raramente arfam para regular a temperatura. Se um American Shorthair apresentar **'respiração de boca aberta'** ou se **'cansar muito rápido'** durante as brincadeiras, são avisos graves de sofrimento cardiovascular. Identificar isso cedo pode salvar sua vida.",
+                "body_signals": [
+                    {
+                        "name": "Respiração de boca aberta (Open-Mouth Breathing)",
+                        "meaning": "Estado de respiração arfante com a boca aberta, indicando falta severa de oxigênio por sobrecarga cardíaca/pulmonar ou estresse extremo.",
+                        "response": "Reduza o estresse imediatamente, coloque o gato na caixa de transporte e leve-o com urgência a um hospital veterinário 24 horas para oxigenoterapia."
+                    },
+                    {
+                        "name": "Fadiga rápida e deitar-se (Quick Fatigue)",
+                        "meaning": "Parar de brincar e deitar de lado após poucos minutos de atividade leve, devido ao débito cardíaco insuficiente.",
+                        "response": "Limite exercícios intensos e agende exames anuais com auscultação e ecocardiograma (incluindo teste proBNP) para monitorar a HCM."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Controle rígido de porções para prevenir a obesidade",
+                        "text": "Evite comida à vontade (livre acesso). Divida a necessidade calórica diária em porções pesadas de manhã e à noite para prevenir o ganho de peso e proteger a saúde vascular."
+                    },
+                    {
+                        "name": "Tarde: Brincadeira interativa de 15 minutos para queima de calorias",
+                        "text": "Estimule o instinto de caça pelo menos duas vezes ao dia por 15 minutos com varinhas de penas ou brinquedos de rato para acelerar a queima de gordura."
+                    },
+                    {
+                        "name": "Noite: Escovação semanal e prevenção de bolas de pelo",
+                        "text": "Embora seja de pelo curto, sua pelagem tem alta densidade. Escove uma ou duas vezes por semana com rasqueadeira para remover subpelos mortos e evitar vômitos por bolas de pelo."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "O que é a Cardiomiopatia Hipertrófica (HCM) em gatos?",
+                        "answer": "É uma doença genética hereditária na qual a parede do ventrículo esquerdo se espessa, reduzindo o volume interno do coração e a eficiência do bombeamento. Como pode causar morte súbita, o rastreamento anual por ecocardiograma é vital."
+                    },
+                    {
+                        "question": "Quais são as melhores dicas nutricionais para evitar a obesidade no American Shorthair?",
+                        "answer": "Escolha rações ricas em proteínas e com baixo teor de carboidratos. Coloque parte da porção diária em brinquedos interativos (comedouros lentos) para incentivar o gato a se mover enquanto come."
+                    }
+                ],
+                "tags": [
+                    "American Shorthair",
+                    "Prevecao HCM",
+                    "Obesidade Felina",
+                    "Eco Cardiograma"
+                ]
+            },
+            "id": {
+                "title": "Perawatan Jantung & Berat Badan American Shorthair: Rutinitas Harian 3 Langkah untuk Pencegahan HCM dan Kontrol Obesitas",
+                "description": "American Shorthair adalah kucing yang kuat namun rentan terhadap obesitas dan Kardiomiopati Hipertrofik (HCM). Pelajari rutinitas 3 langkah untuk mengelola pakan, bermain, dan kesehatan jantung.",
+                "authority": "Standar Ras Cat Fanciers' Association (CFA) & Penelitian Cornell Feline Health Center",
+                "profile": {
+                    "breed": "American Shorthair",
+                    "lifespan": "15 ~ 20 tahun",
+                    "sleep_pattern": "12 ~ 16 jam (menyukai sudut jendela yang cerah)",
+                    "temperament": "Lembut, Cerdas, Tenang, Mandiri"
+                },
+                "intro": "Dikenal dengan pola silver tabby yang indah dan tubuh berototnya, American Shorthair adalah kucing yang ramah dan sangat mudah beradaptasi. Namun, nafsu makan yang tinggi dan sifat santainya sering memicu kemalasan dan obesitas, yang membebani sistem kardiovaskular. Selain itu, trah ini memiliki kerentanan genetik terhadap Kardiomiopati Hipertrofik (HCM), yaitu penebalan dinding jantung. Hari ini, PetSelf mengulas tanda bahaya jantung dan menyajikan rutinitas perawatan 3 langkah.",
+                "whyTitle": "Bahasa Tubuh American Shorthair: Beban Jantung Berlebih dan Bernapas Lewat Mulut",
+                "whyDesc": "Berbeda dengan anjing, kucing jarang terengah-engah untuk mengatur suhu tubuh. Jika American Shorthair bernapas dengan **'mulut terbuka'** atau **'cepat lelah'** saat bermain sebentar, itu adalah peringatan serius beban jantung. Mengenali tanda ini sejak dini dapat menyelamatkan nyawanya.",
+                "body_signals": [
+                    {
+                        "name": "Bernapas dengan Mulut Terbuka (Open-Mouth Breathing)",
+                        "meaning": "Kondisi bernapas terengah-engah dengan mulut terbuka, menandakan kekurangan oksigen parah akibat beban jantung/paru berlebih atau stres berat.",
+                        "response": "Segera minimalkan stres, masukkan kucing ke dalam pet carrier, dan bawa ke rumah sakit hewan darurat 24 jam untuk terapi oksigen."
+                    },
+                    {
+                        "name": "Cepat Lelah & Berbaring (Quick Fatigue)",
+                        "meaning": "Berhenti bermain dan berbaring menyamping hanya dalam beberapa menit aktivitas ringan karena curah jantung yang tidak mencukupi.",
+                        "response": "Batasi olahraga berat dan lakukan pemeriksaan tahunan berupa auskultasi dan USG jantung (termasuk tes proBNP) untuk memantau perkembangan HCM."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Kontrol Porsi Makan Ketat untuk Mencegah Obesitas",
+                        "text": "Hindari metode free-feeding (makanan selalu tersedia). Bagi kebutuhan kalori harian menjadi porsi terukur pagi dan malam untuk mencegah kenaikan berat badan dan melindungi pembuluh darah."
+                    },
+                    {
+                        "name": "Siang: Bermain Interaktif 15 Menit untuk Pembakaran Kalori",
+                        "text": "Pemicu insting berburu setidaknya dua kali sehari selama 15 menit menggunakan tongkat bulu atau mainan tikus untuk mendorong pembakaran lemak."
+                    },
+                    {
+                        "name": "Malam: Menyikat Bulu Mingguan & Pencegahan Hairball",
+                        "text": "Meskipun berbulu pendek, kerapatan bulunya sangat tinggi. Sikat bulunya 1-2 kali seminggu dengan sikat slicker untuk membuang bulu mati dan mencegah muntah hairball serta gangguan pencernaan."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Apa itu Kardiomiopati Hipertrofik (HCM) pada kucing?",
+                        "answer": "HCM adalah penyakit genetik turun-temurun di mana dinding ventrikel kiri jantung menebal, sehingga mengurangi volume ruang jantung dan efisiensi pemompaan. Karena dapat menyebabkan kematian mendadak, skrining USG jantung tahunan sangat penting."
+                    },
+                    {
+                        "question": "Bagaimana tips nutrisi efektif untuk mencegah obesitas pada American Shorthair?",
+                        "answer": "Pilih pakan tinggi protein dan rendah karbohidrat. Masukkan sebagian pakan ke dalam mainan edukatif (puzzle feeder) agar kucing bergerak aktif saat berusaha mengeluarkan makanannya."
+                    }
+                ],
+                "tags": [
+                    "American Shorthair",
+                    "Pencegahan HCM",
+                    "Kontrol Obesitas",
+                    "USG Jantung Kucing"
+                ]
+            },
+            "ko": {
+                "title": "아메리칸 쇼트헤어 심장 및 비만 케어: HCM 예방과 체중 조절을 위한 3단계 루틴",
+                "description": "아메리칸 쇼트헤어는 건강하고 튼튼하지만 비만율이 높고 유전적으로 비대성 심근증(HCM)에 취약합니다. 식단 관리와 사냥 놀이를 활용한 3단계 심장 보호법을 알아봅니다.",
+                "authority": "CFA(국제고양이애호가협회) 아메리칸 쇼트헤어 품종 표준 및 코넬 고양이 건강 센터 연구",
+                "profile": {
+                    "breed": "아메리칸 쇼트헤어 (American Shorthair)",
+                    "lifespan": "15 ~ 20년",
+                    "sleep_pattern": "12 ~ 16시간 (볕이 잘 드는 공간 선호)",
+                    "temperament": "온화함, 똑똑함, 조용함, 자립심 강함"
+                },
+                "intro": "아름다운 실버 태비 패턴과 탄탄한 골격을 자랑하는 아메리칸 쇼트헤어는 성격이 유순하고 적응력이 뛰어난 고양이입니다. 그러나 먹는 것을 좋아하고 느긋한 성격 탓에 쉽게 비만이 될 수 있으며, 이는 심혈관계에 큰 무리를 줍니다. 특히 이 품종은 심장 벽이 두꺼워져 기능이 저하되는 비대성 심근증(HCM)의 유전적 소인을 갖고 있습니다. 오늘 PetSelf에서는 아메리칸 쇼트헤어의 심장 이상 바디 랭귀지를 진단하고, 심장과 체중을 케어하는 3단계 루틴을 소개합니다.",
+                "whyTitle": "아메리칸 쇼트헤어의 바디 랭귀지: 심장 과부하와 개구호흡의 의미",
+                "whyDesc": "고양이는 강아지와 달리 땀이나 헐떡임으로 온도를 조절하지 않으므로, 일상에서 입을 벌려 숨을 쉬는 **'개구호흡'**을 하거나 놀이 중 **'쉽게 지쳐 엎드리는 현상'**은 심장 질환의 강력한 경고입니다. 이를 조기에 알아채는 것이 중요합니다.",
+                "body_signals": [
+                    {
+                        "name": "개구호흡 (Open-Mouth Breathing)",
+                        "meaning": "입을 벌리고 가쁜 숨을 몰아쉬는 상태로, 폐와 심장의 과부하 또는 극도의 불안으로 인한 심각한 산소 부족 신호입니다.",
+                        "response": "이동장이나 케이지에 넣어 스트레스를 최소화한 상태로 즉시 가까운 24시간 동물병원으로 이송하여 산소 치료를 받아야 합니다."
+                    },
+                    {
+                        "name": "쉽게 지쳐 엎드리기 (Quick Fatigue)",
+                        "meaning": "가벼운 깃털 놀이 등 짧은 움직임 뒤에도 바로 옆으로 누워 헐떡거리는 현상으로, 심장 박출량이 부족하다는 신호입니다.",
+                        "response": "격렬한 운동을 제한하고, 연 1회 청진 및 심장 초음파(proBNP 검사 포함)를 통해 비대성 심근증 진행 여부를 정밀 확인합니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 자율 급식 제한 및 정량 사료 공급",
+                        "text": "사료를 항상 채워두는 자율 급식 대신 아침저녁 정량으로 나누어 공급하여 비만을 사전에 방지하고 혈관 건강을 보호합니다."
+                    },
+                    {
+                        "name": "낮: 사냥 본능 자극을 통한 15분 active 놀이",
+                        "text": "낚싯대나 쥐 장난감을 공중에 날리는 등의 사냥 놀이를 하루 최소 2회, 15분 이상 유도하여 칼로리 소비를 촉진합니다."
+                    },
+                    {
+                        "name": "저녁: 단모종 전용 슬리커 빗질 및 모질 관리",
+                        "text": "단모종이지만 털의 밀도가 매우 높으므로 주 1~2회 빗질로 죽은 속털을 제거하여 헤어볼 구토로 인한 위장 장애를 예방합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "고양이 비대성 심근증(HCM)이란 무엇인가요?",
+                        "answer": "심장의 좌심실 벽이 비정상적으로 두꺼워지면서 심장 내부 공간이 좁아져 전신으로 피를 보내지 못하게 되는 대표적인 유전성 질환입니다. 심하면 급사에 이를 수 있어 조기 정기 검진이 최선입니다."
+                    },
+                    {
+                        "question": "아메리칸 쇼트헤어의 비만 예방 식단 팁이 있을까요?",
+                        "answer": "탄수화물 함량이 낮고 단백질 비율이 높은 사료를 선택하고, 사료의 일부를 간식 장난감(푸드 토이) 안에 넣어 굴려서 꺼내 먹도록 유도하여 움직임을 늘려주는 것이 효과적입니다."
+                    }
+                ],
+                "tags": [
+                    "아메리칸 쇼트헤어",
+                    "HCM 예방",
+                    "고양이 비만",
+                    "심장 초음파"
+                ]
+            }
         },
-        "intro": "Known for their beautiful silver tabby pattern and muscular bodies, American Shorthairs are stable and loving companions. However, their easygoing nature often leads to laziness and obesity, which strains their cardiovascular system. Furthermore, the breed is genetically susceptible to Hypertrophic Cardiomyopathy (HCM), a silent heart disease where the heart walls thicken. Today, PetSelf decodes American Shorthair heart warning signs and presents a 3-step care routine.",
-        "whyTitle": "American Shorthair Body Language: Heart Strain and Open-Mouth Breathing",
-        "whyDesc": "Unlike dogs, cats rarely pant to regulate temperature. If an American Shorthair exhibits **'open-mouth breathing'** or gets **'easily fatigued'** during brief play, it is a major warning of cardiovascular distress. Recognizing these signs early is crucial.",
-        "body_signals": [
-          {
-            "name": "Open-Mouth Breathing",
-            "meaning": "Breathing with the mouth open and tongue slightly out, indicating severe oxygen deficiency due to heart/lung overload or extreme distress.",
-            "response": "Minimize stress immediately and transport the cat in a carrier to a 24-hour emergency veterinary clinic for oxygen therapy."
-          },
-          {
-            "name": "Quick Fatigue & Lying Down",
-            "meaning": "Stopping play and lying flat on the side within minutes due to reduced cardiac output.",
-            "response": "Limit strenuous exercise immediately and schedule an annual veterinary screening including auscultation and heart ultrasound (with proBNP test) to monitor for HCM progression."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Morning: Measured Portion Feeding to Prevent Obesity",
-            "text": "Avoid free-feeding. Divide their daily caloric requirement into measured morning and evening portions to prevent weight gain and protect vascular health."
-          },
-          {
-            "name": "Afternoon: Interactive Play & Calorie-Burning Session",
-            "text": "Conduct at least two 15-minute play sessions using feather wands or toy mice to stimulate hunting instincts and burn fat."
-          },
-          {
-            "name": "Evening: Weekly Brushing and Hairball Prevention",
-            "text": "Although short-haired, brush their dense coat once or twice a week with a slicker brush to remove dead undercoat and prevent hairball vomiting and gastrointestinal issues."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "What is Hypertrophic Cardiomyopathy (HCM) in cats?",
-            "answer": "HCM is a common genetic disease where the walls of the heart's left ventricle thicken, reducing chamber volume and pumping efficiency. In severe cases, it can cause sudden death, making early annual screening vital."
-          },
-          {
-            "question": "How can I prevent obesity in an American Shorthair?",
-            "answer": "Choose low-carbohydrate, high-protein food and limit treats. Using puzzle feeders (food toys) to make them work for a portion of their kibble is an effective way to increase physical activity."
-          }
-        ],
-        "tags": [
-          "American Shorthair",
-          "HCM Prevention",
-          "Obesity Control",
-          "Heart Care"
-        ]
-      },
-      "ja": {
-        "title": "アメリカン・ショートヘアの心臓＆体重ケア：HCM予防と肥満対策の日常3段階ルーティン",
-        "description": "アメリカン・ショートヘアは頑丈ですが肥満になりやすく、肥大性心筋症（HCM）の遺伝的リスクがあります。食事管理と運動を組み合わせた3段階ケアを紹介します。",
-        "authority": "CFA（国際血統登録団体）アメリカン・ショートヘア品種標準およびコーネル大学猫健康センター研究",
-        "profile": {
-          "breed": "アメリカン・ショートヘア (American Shorthair)",
-          "lifespan": "15 〜 20年",
-          "sleep_pattern": "12 〜 16時間（日当たりの良い窓辺を好む）",
-          "temperament": "穏やか、賢い、静か、自立心がある"
-        },
-        "intro": "美しいシルバータビーの模様と筋肉質な体型が特徴のアメリカン・ショートヘアは、穏やかな性格で適応力に優れた猫種です。しかし、食べるのが好きでマイペースな性格から肥満になりやすく、心血管系に大きな負担がかかります。特にこの品種は、心臓の壁が厚くなり機能が低下する「肥大性心筋症（HCM）」の遺伝的素因を持っています。本日PetSelfでは、アメリカン・ショートヘアの心臓SOSサインを解読し、心臓と適正体重を守る3段階ルーティンを紹介します。",
-        "whyTitle": "アメリカン・ショートヘアのボディランゲージ：心臓過負荷と開口呼吸の意味",
-        "whyDesc": "猫は犬と異なり、普段はハァハァと口で呼吸して体温調節をしません。そのため、日常で口を開けて息をする**「開口呼吸」**をしたり、遊びの途中で**「すぐに疲れて横たわる」**行動は、心臓疾患の強力な警告サインです。これを早期に察知することが重要です。",
-        "body_signals": [
-          {
-            "name": "開口呼吸 (Open-Mouth Breathing)",
-            "meaning": "口を開けて荒い息をする状態で、肺や心臓の過負荷、または極度の不安による深刻な酸素不足のサインです。",
-            "response": "キャリー等に入れて刺激（ストレス）を最小限にし、直ちに最寄りの24時間救急動物病院へ搬送して酸素療法を受けさせてください。"
-          },
-          {
-            "name": "運動時の急な疲労 (Quick Fatigue)",
-            "meaning": "軽い羽のおもちゃ遊びなどの短い動きでもすぐに横になって息を切らす現象で、心拍出量が不足しているサインです。",
-            "response": "激しい運動を制限し、年に1回の聴診および心エコー検査（proBNP検査含む）を通じて肥大性心筋症の進行状況を精密確認してください。"
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "朝：置き餌の制限と定量給餌",
-            "text": "常にフードを置いておく自由給餌を避け、朝晩に定量を分けて与えることで肥満を予防し、血管の健康を守ります。"
-          },
-          {
-            "name": "昼：狩猟本能を刺激する15分間のアクティブな遊び",
-            "text": "釣り竿やねずみのおもちゃを空中で動かすなどの狩りごっこを1日最低2回、15分以上誘発し、カロリー消費を促進します。"
-          },
-          {
-            "name": "夜：短毛種用スリッカーブラッシングと毛並みケア",
-            "text": "短毛種ですが毛の密度が非常に高いため、週1〜2回のブラッシングで不要なアンダーコートを除去し、毛玉吐きによる胃腸障害を予防します。"
-          }
-        ],
-        "faqs": [
-          {
-            "question": "猫の肥大性心筋症（HCM）とはどのような病気ですか？",
-            "answer": "心臓の左心室の壁が異常に厚くなり、心臓内部の容積が狭くなって全身に血液を十分に送り出せなくなる代表的な遺伝性疾患です。重症化すると突然死に至ることもあるため、早期の定期検診が最も重要です。"
-          },
-          {
-            "question": "アメリカン・ショートヘアの肥満予防の食事のコツはありますか？",
-            "answer": "炭水化物が少なくタンパク質割合が高いフードを選び、フードの一部を知育玩具（フードトイ）に入れて転がしながら食べさせることで、運動量を増やすのが効果的です。"
-          }
-        ],
-        "tags": [
-          "アメショ",
-          "HCM予防",
-          "猫の肥満",
-          "心エコー"
-        ]
-      },
-      "zh": {
-        "title": "美短心脑血管与体重护理：预防肥大性心肌病(HCM)及控制肥胖的日常3步惯例",
-        "description": "美国短毛猫身体强健，但极易发生肥胖并具有肥大性心肌病(HCM)的遗传倾向。通过日常3步护理惯例科学管理饮食、运动与心脏健康。",
-        "authority": "CFA (国际爱猫者协会) 美国短毛猫品种标准与康奈尔猫科健康中心研究数据",
-        "profile": {
-          "breed": "美国短毛猫 (American Shorthair)",
-          "lifespan": "15 ~ 20年",
-          "sleep_pattern": "12 ~ 16小时（偏爱向阳的窗台）",
-          "temperament": "温和、聪明、安静、独立"
-        },
-        "intro": "拥有精美银色虎斑纹与结实骨骼的美国短毛猫性格温顺、适应力强。然而，它们喜食且懒散的性格极易引发肥胖，从而增加心血管系统的负担。此外，该品种存在心肌壁增厚致使功能下降的“肥大性心肌病（HCM）”遗传倾向。今天，PetSelf 将为您解析美短的心脏异常信号，并分享控制体重与养护心脏的3步日常惯例。",
-        "whyTitle": "美国短毛猫的身体语言：心脏超负荷与张口呼吸的警示",
-        "whyDesc": "猫咪与狗狗不同，很少通过张嘴喘气来调节体温。如果在日常中出现**“张口呼吸”**或在玩耍中**“极易疲劳趴卧”**，这是心血管疾病的强烈警告，早发现早干预至关重要。",
-        "body_signals": [
-          {
-            "name": "张口呼吸 (Open-Mouth Breathing)",
-            "meaning": "张开嘴巴急促喘气的状态，表明肺部与心脏负荷过重，或因极度焦虑导致严重缺氧。",
-            "response": "尽量减少环境刺激与应激，将猫咪置于航空箱中，立即送往24小时急诊宠物医院接受吸氧治疗。"
-          },
-          {
-            "name": "玩耍中迅速疲劳趴卧 (Quick Fatigue)",
-            "meaning": "进行轻度羽毛逗猫棒互动等短暂运动后便侧卧喘气，代表心脏泵血输出量严重不足。",
-            "response": "限制剧烈运动，每年定期进行听诊及心脏彩超（含proBNP检测），以精准排查与监测HCM的进展。"
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "早晨：限制自助喂食与定时定量给食",
-            "text": "放弃食物常备的自助喂食方式，改为早晚定时定量喂食，从源头预防肥胖并保护血管健康。"
-          },
-          {
-            "name": "中午：刺激捕猎本能的15分钟主动游戏",
-            "text": "使用逗猫棒或玩具小鼠模拟捕猎，每日诱导互动至少2次、每次15分钟以上，以促进热量消耗。"
-          },
-          {
-            "name": "晚上：短毛专用梳理与毛球预防",
-            "text": "虽然属于短毛猫，但其绒毛密度极大，每周应使用针梳梳理1-2次去除死毛，预防吐毛球引发的胃肠道不适。"
-          }
-        ],
-        "faqs": [
-          {
-            "question": "什么是猫的肥大性心肌病（HCM）？",
-            "answer": "这是猫最常见的遗传性心脏病，表现为左心室壁异常增厚，导致心脏容积缩小、泵血效率降低。严重时可导致猝死，因此每年进行定期心脏筛查是最佳预防手段。"
-          },
-          {
-            "question": "美短容易变胖，有什么有效的饮食控制建议吗？",
-            "answer": "建议选择低碳水化合物、高蛋白质配方的猫粮，并将部分猫粮放入益智漏食玩具中，让猫咪边玩边吃，以此增加日常活动量。"
-          }
-        ],
-        "tags": [
-          "美国短毛猫",
-          "HCM预防",
-          "猫咪减肥",
-          "心脏彩超"
-        ]
-      },
-      "es": {
-        "title": "Cuidado cardíaco y de peso del American Shorthair: Rutina diaria de 3 pasos para la prevención de la HCM y el control de la obesidad",
-        "description": "Los American Shorthair son gatos robustos pero propensos a la obesidad y a la miocardiopatía hipertrófica (HCM). Conozca una rutina de 3 pasos para controlar su peso y salud cardíaca.",
-        "authority": "Estándar de raza de la Cat Fanciers' Association (CFA) e investigaciones del Cornell Feline Health Center",
-        "profile": {
-          "breed": "American Shorthair",
-          "lifespan": "15 ~ 20 años",
-          "sleep_pattern": "12 ~ 16 horas (prefiere lugares soleados junto a la ventana)",
-          "temperament": "Apacible, Inteligente, Silencioso, Independiente"
-        },
-        "intro": "Conocido por su hermoso patrón atigrado plateado y su complexión muscular, el American Shorthair es un compañero dócil y de gran adaptabilidad. Sin embargo, su amor por la comida y su naturaleza tranquila suelen conducirlo a la obesidad, lo que ejerce una gran presión sobre su sistema cardiovascular. Además, esta raza tiene predisposición genética a la miocardiopatía hipertrófica (HCM), una patología donde el músculo cardíaco se engrosa. Hoy, PetSelf descifra sus señales de alerta cardíaca y presenta una rutina de cuidado en 3 pasos.",
-        "whyTitle": "Lenguaje corporal del American Shorthair: Sobrecarga cardíaca y respiración con la boca abierta",
-        "whyDesc": "A diferencia de los perros, los gatos raramente jadean para regular su temperatura. Si un American Shorthair presenta **'respiración con la boca abierta'** o se **'fatiga rápidamente'** durante el juego, se trata de una advertencia grave de sobrecarga cardíaca. Detectarlo a tiempo puede salvar su vida.",
-        "body_signals": [
-          {
-            "name": "Respiración con la boca abierta (Open-Mouth Breathing)",
-            "meaning": "Estado de respiración fatigosa con la boca abierta, indicativo de deficiencia severa de oxígeno por sobrecarga cardiorrespiratoria o estrés extremo.",
-            "response": "Minimice el estrés inmediatamente, coloque al gato en su transportín y llévelo de urgencia a una clínica veterinaria 24 horas para recibir oxigenoterapia."
-          },
-          {
-            "name": "Fatiga rápida y acostamiento (Quick Fatigue)",
-            "meaning": "Interrupción del juego para tumbarse de lado tras breves minutos de actividad, debido a un gasto cardíaco insuficiente.",
-            "response": "Limite los ejercicios intensos y realice chequeos anuales con auscultación y ecocardiograma (incluyendo prueba proBNP) para vigilar la HCM."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Mañana: Control estricto de raciones para prevenir la obesidad",
-            "text": "Evite la alimentación a libre disposición. Divida el requerimiento calórico diario en porciones pesadas por la mañana y la noche para evitar el sobrepeso y proteger los vasos sanguíneos."
-          },
-          {
-            "name": "Tarde: Sesión de juego interactivo de 15 minutos para quemar calorías",
-            "text": "Estimule su instinto cazador al menos dos veces al día durante 15 minutos con cañas de plumas o ratones de juguete para aumentar el gasto calórico."
-          },
-          {
-            "name": "Noche: Cepillado semanal y prevención de bolas de pelo",
-            "text": "Aunque es de pelo corto, su densidad es muy alta. Cepíllelo una o dos veces por semana para eliminar el pelo muerto y prevenir vómitos de tricobezoares y molestias gástricas."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "¿Qué es la miocardiopatía hipertrófica (HCM) felina?",
-            "answer": "Es una enfermedad genética hereditaria donde la pared del ventrículo izquierdo se engrosa, reduciendo el espacio interno del corazón y su capacidad de bombeo. En casos graves provoca muerte súbita, por lo que el control ecográfico anual es fundamental."
-          },
-          {
-            "question": "¿Qué consejos nutricionales ayudan a prevenir la obesidad en el American Shorthair?",
-            "answer": "Seleccione un alimento alto en proteína y bajo en carbohidratos, y sirva parte de su ración dentro de juguetes interactivos dispensadores para motivarlo a moverse mientras come."
-          }
-        ],
-        "tags": [
-          "American Shorthair",
-          "Prevencion HCM",
-          "Gato Obeso",
-          "Ecocardiografia Felina"
-        ]
-      },
-      "fr": {
-        "title": "Soin du cœur et du poids de l'American Shorthair : Routine en 3 étapes pour prévenir la CMH et l'obésité",
-        "description": "L'American Shorthair est robuste mais sujet à l'obésité et à la cardiomyopathie hypertrophique (CMH). Apprenez une routine en 3 étapes pour gérer son alimentation, son jeu et sa santé cardiaque.",
-        "authority": "Normes de la Cat Fanciers' Association (CFA) et recherches du Cornell Feline Health Center",
-        "profile": {
-          "breed": "American Shorthair",
-          "lifespan": "15 ~ 20 ans",
-          "sleep_pattern": "12 ~ 16 heures (adore les zones ensoleillées près des fenêtres)",
-          "temperament": "Doux, Intelligent, Calme, Indépendant"
-        },
-        "intro": "Reconnaissable à son superbe pelage silver tabby et à son ossature musclée, l'American Shorthair est un compagnon doux et très adaptable. Cependant, son appétit et son caractère placide le rendent vulnérable à l'obésité, ce qui fatigue l'appareil cardiovasculaire. De plus, la race présente une prédisposition génétique à la cardiomyopathie hypertrophique (CMH), un épaississement de la paroi cardiaque. Aujourd'hui, PetSelf décrypte ses signaux d'alerte et propose une routine de soin en 3 étapes.",
-        "whyTitle": "Langage corporel de l'American Shorthair : Surcharge cardiaque et respiration bouche ouverte",
-        "whyDesc": "Contrairement aux chiens, les chats ne halètent pas pour réguler leur température. Si un American Shorthair a la **'bouche ouverte pour respirer'** ou montre une **'fatigue soudaine'** lors du jeu, c'est un avertissement majeur de détresse cardiaque. Détecter ces signes rapidement est vital.",
-        "body_signals": [
-          {
-            "name": "Respiration bouche ouverte (Open-Mouth Breathing)",
-            "meaning": "Halètement rapide la bouche ouverte, traduisant un manque d'oxygène critique dû à une surcharge cardiaque/pulmonaire ou à un stress extrême.",
-            "response": "Réduisez immédiatement tout stress, placez le chat dans sa caisse de transport et emmenez-le en urgence dans une clinique 24h/24 pour une oxygénothérapie."
-          },
-          {
-            "name": "Fatigue rapide et allongement (Quick Fatigue)",
-            "meaning": "Arrêt du jeu pour s'allonger sur le flanc après quelques minutes d'effort léger, en raison d'un débit cardiaque insuffisant.",
-            "response": "Limitez l'exercice intense et planifiez un bilan annuel avec auscultation et échographie cardiaque (incluant un test proBNP) pour dépister la CMH."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Matin : Rationnement strict de la nourriture pour éviter l'obésité",
-            "text": "Évitez le libre-service. Divisez sa ration calorique quotidienne en portions mesurées matin et soir pour prévenir la prise de poids et préserver la santé vasculaire."
-          },
-          {
-            "name": "Après-midi : Jeu interactif de 15 minutes pour brûler des calories",
-            "text": "Stimulez son instinct de chasseur au moins deux fois par jour pendant 15 minutes avec un plumet ou une souris jouet pour brûler les graisses."
-          },
-          {
-            "name": "Soir : Brossage hebdomadaire et prévention des boules de poils",
-            "text": "Bien qu'il soit à poil court, sa fourrure est très dense. Brossez-le une à deux fois par semaine pour éliminer le sous-poil mort et éviter les vomissements de boules de poils."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Qu'est-ce que la cardiomyopathie hypertrophique (CMH) chez le chat ?",
-            "answer": "C'est une maladie génétique héréditaire caractérisée par l'épaississement de la paroi du ventricule gauche, réduisant le volume du cœur et son efficacité de pompage. Elle peut causer une mort subite, d'où l'importance d'un dépistage échographique annuel."
-          },
-          {
-            "question": "Quels sont les conseils nutritionnels pour éviter l'obésité chez l'American Shorthair ?",
-            "answer": "Choisissez des croquettes riches en protéines et pauvres en glucides. Placez une partie de sa ration dans des jouets distributeurs (puzzle feeders) pour qu'il s'active physiquement en mangeant."
-          }
-        ],
-        "tags": [
-          "American Shorthair",
-          "Prevention CMH",
-          "Obesite Chat",
-          "Cardiologie Feline"
-        ]
-      },
-      "de": {
-        "title": "American Shorthair Herz- und Gewichtspflege: 3-Schritte-Routine zur HCM-Vorbeugung und Adipositas-Kontrolle",
-        "description": "American Shorthairs sind robuste Katzen, neigen aber zu Übergewicht und hypertropher Kardiomyopathie (HCM). Lernen Sie eine 3-Schritte-Routine für Ernährung, Spiel und Herzgesundheit kennen.",
-        "authority": "CFA (Cat Fanciers' Association) Rassestandard & Studien des Cornell Feline Health Center",
-        "profile": {
-          "breed": "American Shorthair",
-          "lifespan": "15 ~ 20 Jahre",
-          "sleep_pattern": "12 ~ 16 Stunden (bevorzugt sonnige Fensterplätze)",
-          "temperament": "Sanftmütig, Klug, Ruhig, Unabhängig"
-        },
-        "intro": "Bekannt für ihr schönes Silver-Tabby-Muster und ihren muskulösen Körperbau sind American Shorthairs sanftmütige und anpassungsfähige Begleiter. Ihr guter Appetit und ihr gemütliches Wesen führen jedoch leicht zu Übergewicht, was das Herz-Kreislauf-System stark belastet. Zudem besitzt diese Rasse eine genetische Veranlagung für die hypertrophe Kardiomyopathie (HCM), bei der sich die Herzwand verdickt. Heute entschlüsselt PetSelf Herzwarnsignale und stellt eine 3-Schritte-Routine vor.",
-        "whyTitle": "Körpersprache der American Shorthair: Herzbelastung und Atmen mit offenem Maul",
-        "whyDesc": "Im Gegensatz zu Hunden hecheln Katzen selten zur Wärmeregulierung. Wenn eine American Shorthair **'mit offenem Maul atmet'** oder beim Spielen **'rasch ermüdet'**, ist dies ein ernstes Warnsignal für eine Herzbelastung. Früherkennung ist hierbei lebensrettend.",
-        "body_signals": [
-          {
-            "name": "Atmen mit offenem Maul (Open-Mouth Breathing)",
-            "meaning": "Schweres Atmen mit geöffnetem Maul, was auf einen akuten Sauerstoffmangel durch Herz-Lungen-Überlastung oder extremen Stress hindeutet.",
-            "response": "Minimieren Sie sofort jeglichen Stress, setzen Sie die Katze in eine Transportbox und bringen Sie sie umgehend in eine 24-Stunden-Tierklinik zur Sauerstofftherapie."
-          },
-          {
-            "name": "Schnelle Ermüdung und Hinlegen (Quick Fatigue)",
-            "meaning": "Spielabbruch und flaches Hinlegen auf die Seite nach nur wenigen Minuten Bewegung aufgrund verminderter Herzpumpleistung.",
-            "response": "Schränken Sie anstrengende Aktivitäten ein und lassen Sie jährlich eine Abhöruntersuchung sowie ein Herzultraschall (inkl. proBNP-Test) zur HCM-Kontrolle durchführen."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Morgen: Portionierte Fütterung zur Vorbeugung von Übergewicht",
-            "text": "Verzichten Sie auf ständige Futterverfügbarkeit (Ad-libitum). Teilen Sie die tägliche Kalorienmenge abgemessen auf morgens und abends auf, um das Gewicht zu kontrollieren und die Gefäße zu schützen."
-          },
-          {
-            "name": "Nachmittag: 15 Minuten interaktives Spiel zur Fettverbrennung",
-            "text": "Fördern Sie den Jagdtrieb mindestens zweimal täglich für 15 Minuten mit Federangeln oder Spielmäusen, um die Kalorienverbrennung anzuregen."
-          },
-          {
-            "name": "Abend: Wöchentliches Bürsten und Haarballen-Prophylaxe",
-            "text": "Trotz des kurzen Fells besitzt die Rasse sehr dichtes Unterfell. Bürsten Sie die Katze 1-2 Mal pro Woche mit einer Zupfbürste, um totes Haar zu entfernen und Erbrechen von Haarballen vorzubeugen."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Was ist hypertrophe Kardiomyopathie (HCM) bei Katzen?",
-            "answer": "Es handelt sich um eine erbliche Herzerkrankung, bei der sich die Wand der linken Herzkammer verdickt, wodurch das Kammervolumen schrumpft und die Pumpleistung sinkt. Da sie zum plötzlichen Herztod führen kann, ist eine jährliche Ultraschalluntersuchung essenziell."
-          },
-          {
-            "question": "Wie lässt sich Übergewicht bei der American Shorthair am besten vermeiden?",
-            "answer": "Wählen Sie ein Futter mit hohem Protein- und niedrigem Kohlenhydratgehalt. Geben Sie einen Teil des Futters in Intelligenzspielzeuge (Futterlabyrinthe), damit sich die Katze ihr Futter erarbeiten muss."
-          }
-        ],
-        "tags": [
-          "American Shorthair",
-          "HCM Vorbeugung",
-          "Katzenubergewicht",
-          "Herzultraschall"
-        ]
-      },
-      "pt": {
-        "title": "Cuidado cardíaco e de peso do American Shorthair: Rotina diária de 3 passos para prevenção da HCM e controle da obesidade",
-        "description": "Os gatos American Shorthair são robustos, mas propensos à obesidade e à Cardiomiopatia Hipertrófica (HCM). Conheça uma rotina de 3 passos para controlar o peso, o jogo e a saúde do coração.",
-        "authority": "Padrão de raça da Cat Fanciers' Association (CFA) e pesquisas do Cornell Feline Health Center",
-        "profile": {
-          "breed": "American Shorthair",
-          "lifespan": "15 ~ 20 anos",
-          "sleep_pattern": "12 ~ 16 horas (prefere locais ensolarados perto da janela)",
-          "temperament": "Dócil, Inteligente, Calmo, Independente"
-        },
-        "intro": "Conhecido por sua bela pelagem atigrada prateada e corpo musculoso, o American Shorthair é um companheiro dócil e altamente adaptável. No entanto, seu bom apetite e temperamento calmo frequentemente levam à obesidade, o que sobrecarrega o sistema cardiovascular. Além disso, a raça possui predisposição genética à Cardiomiopatia Hipertrófica (HCM), doença em que a parede do coração se espessa. Hoje, o PetSelf decifra os sinais de alerta cardíaco e apresenta uma rotina em 3 passos.",
-        "whyTitle": "Linguagem corporal do American Shorthair: Sobrecarga cardíaca e respiração de boca aberta",
-        "whyDesc": "Ao contrário dos cães, os gatos raramente arfam para regular a temperatura. Se um American Shorthair apresentar **'respiração de boca aberta'** ou se **'cansar muito rápido'** durante as brincadeiras, são avisos graves de sofrimento cardiovascular. Identificar isso cedo pode salvar sua vida.",
-        "body_signals": [
-          {
-            "name": "Respiração de boca aberta (Open-Mouth Breathing)",
-            "meaning": "Estado de respiração arfante com a boca aberta, indicando falta severa de oxigênio por sobrecarga cardíaca/pulmonar ou estresse extremo.",
-            "response": "Reduza o estresse imediatamente, coloque o gato na caixa de transporte e leve-o com urgência a um hospital veterinário 24 horas para oxigenoterapia."
-          },
-          {
-            "name": "Fadiga rápida e deitar-se (Quick Fatigue)",
-            "meaning": "Parar de brincar e deitar de lado após poucos minutos de atividade leve, devido ao débito cardíaco insuficiente.",
-            "response": "Limite exercícios intensos e agende exames anuais com auscultação e ecocardiograma (incluindo teste proBNP) para monitorar a HCM."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Manhã: Controle rígido de porções para prevenir a obesidade",
-            "text": "Evite comida à vontade (livre acesso). Divida a necessidade calórica diária em porções pesadas de manhã e à noite para prevenir o ganho de peso e proteger a saúde vascular."
-          },
-          {
-            "name": "Tarde: Brincadeira interativa de 15 minutos para queima de calorias",
-            "text": "Estimule o instinto de caça pelo menos duas vezes ao dia por 15 minutos com varinhas de penas ou brinquedos de rato para acelerar a queima de gordura."
-          },
-          {
-            "name": "Noite: Escovação semanal e prevenção de bolas de pelo",
-            "text": "Embora seja de pelo curto, sua pelagem tem alta densidade. Escove uma ou duas vezes por semana com rasqueadeira para remover subpelos mortos e evitar vômitos por bolas de pelo."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "O que é a Cardiomiopatia Hipertrófica (HCM) em gatos?",
-            "answer": "É uma doença genética hereditária na qual a parede do ventrículo esquerdo se espessa, reduzindo o volume interno do coração e a eficiência do bombeamento. Como pode causar morte súbita, o rastreamento anual por ecocardiograma é vital."
-          },
-          {
-            "question": "Quais são as melhores dicas nutricionais para evitar a obesidade no American Shorthair?",
-            "answer": "Escolha rações ricas em proteínas e com baixo teor de carboidratos. Coloque parte da porção diária em brinquedos interativos (comedouros lentos) para incentivar o gato a se mover enquanto come."
-          }
-        ],
-        "tags": [
-          "American Shorthair",
-          "Prevecao HCM",
-          "Obesidade Felina",
-          "Eco Cardiograma"
-        ]
-      },
-      "id": {
-        "title": "Perawatan Jantung & Berat Badan American Shorthair: Rutinitas Harian 3 Langkah untuk Pencegahan HCM dan Kontrol Obesitas",
-        "description": "American Shorthair adalah kucing yang kuat namun rentan terhadap obesitas dan Kardiomiopati Hipertrofik (HCM). Pelajari rutinitas 3 langkah untuk mengelola pakan, bermain, dan kesehatan jantung.",
-        "authority": "Standar Ras Cat Fanciers' Association (CFA) & Penelitian Cornell Feline Health Center",
-        "profile": {
-          "breed": "American Shorthair",
-          "lifespan": "15 ~ 20 tahun",
-          "sleep_pattern": "12 ~ 16 jam (menyukai sudut jendela yang cerah)",
-          "temperament": "Lembut, Cerdas, Tenang, Mandiri"
-        },
-        "intro": "Dikenal dengan pola silver tabby yang indah dan tubuh berototnya, American Shorthair adalah kucing yang ramah dan sangat mudah beradaptasi. Namun, nafsu makan yang tinggi dan sifat santainya sering memicu kemalasan dan obesitas, yang membebani sistem kardiovaskular. Selain itu, trah ini memiliki kerentanan genetik terhadap Kardiomiopati Hipertrofik (HCM), yaitu penebalan dinding jantung. Hari ini, PetSelf mengulas tanda bahaya jantung dan menyajikan rutinitas perawatan 3 langkah.",
-        "whyTitle": "Bahasa Tubuh American Shorthair: Beban Jantung Berlebih dan Bernapas Lewat Mulut",
-        "whyDesc": "Berbeda dengan anjing, kucing jarang terengah-engah untuk mengatur suhu tubuh. Jika American Shorthair bernapas dengan **'mulut terbuka'** atau **'cepat lelah'** saat bermain sebentar, itu adalah peringatan serius beban jantung. Mengenali tanda ini sejak dini dapat menyelamatkan nyawanya.",
-        "body_signals": [
-          {
-            "name": "Bernapas dengan Mulut Terbuka (Open-Mouth Breathing)",
-            "meaning": "Kondisi bernapas terengah-engah dengan mulut terbuka, menandakan kekurangan oksigen parah akibat beban jantung/paru berlebih atau stres berat.",
-            "response": "Segera minimalkan stres, masukkan kucing ke dalam pet carrier, dan bawa ke rumah sakit hewan darurat 24 jam untuk terapi oksigen."
-          },
-          {
-            "name": "Cepat Lelah & Berbaring (Quick Fatigue)",
-            "meaning": "Berhenti bermain dan berbaring menyamping hanya dalam beberapa menit aktivitas ringan karena curah jantung yang tidak mencukupi.",
-            "response": "Batasi olahraga berat dan lakukan pemeriksaan tahunan berupa auskultasi dan USG jantung (termasuk tes proBNP) untuk memantau perkembangan HCM."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Pagi: Kontrol Porsi Makan Ketat untuk Mencegah Obesitas",
-            "text": "Hindari metode free-feeding (makanan selalu tersedia). Bagi kebutuhan kalori harian menjadi porsi terukur pagi dan malam untuk mencegah kenaikan berat badan dan melindungi pembuluh darah."
-          },
-          {
-            "name": "Siang: Bermain Interaktif 15 Menit untuk Pembakaran Kalori",
-            "text": "Pemicu insting berburu setidaknya dua kali sehari selama 15 menit menggunakan tongkat bulu atau mainan tikus untuk mendorong pembakaran lemak."
-          },
-          {
-            "name": "Malam: Menyikat Bulu Mingguan & Pencegahan Hairball",
-            "text": "Meskipun berbulu pendek, kerapatan bulunya sangat tinggi. Sikat bulunya 1-2 kali seminggu dengan sikat slicker untuk membuang bulu mati dan mencegah muntah hairball serta gangguan pencernaan."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Apa itu Kardiomiopati Hipertrofik (HCM) pada kucing?",
-            "answer": "HCM adalah penyakit genetik turun-temurun di mana dinding ventrikel kiri jantung menebal, sehingga mengurangi volume ruang jantung dan efisiensi pemompaan. Karena dapat menyebabkan kematian mendadak, skrining USG jantung tahunan sangat penting."
-          },
-          {
-            "question": "Bagaimana tips nutrisi efektif untuk mencegah obesitas pada American Shorthair?",
-            "answer": "Pilih pakan tinggi protein dan rendah karbohidrat. Masukkan sebagian pakan ke dalam mainan edukatif (puzzle feeder) agar kucing bergerak aktif saat berusaha mengeluarkan makanannya."
-          }
-        ],
-        "tags": [
-          "American Shorthair",
-          "Pencegahan HCM",
-          "Kontrol Obesitas",
-          "USG Jantung Kucing"
-        ]
-      },
-      "ko": {
-        "title": "아메리칸 쇼트헤어 심장 및 비만 케어: HCM 예방과 체중 조절을 위한 3단계 루틴",
-        "description": "아메리칸 쇼트헤어는 건강하고 튼튼하지만 비만율이 높고 유전적으로 비대성 심근증(HCM)에 취약합니다. 식단 관리와 사냥 놀이를 활용한 3단계 심장 보호법을 알아봅니다.",
-        "authority": "CFA(국제고양이애호가협회) 아메리칸 쇼트헤어 품종 표준 및 코넬 고양이 건강 센터 연구",
-        "profile": {
-          "breed": "아메리칸 쇼트헤어 (American Shorthair)",
-          "lifespan": "15 ~ 20년",
-          "sleep_pattern": "12 ~ 16시간 (볕이 잘 드는 공간 선호)",
-          "temperament": "온화함, 똑똑함, 조용함, 자립심 강함"
-        },
-        "intro": "아름다운 실버 태비 패턴과 탄탄한 골격을 자랑하는 아메리칸 쇼트헤어는 성격이 유순하고 적응력이 뛰어난 고양이입니다. 그러나 먹는 것을 좋아하고 느긋한 성격 탓에 쉽게 비만이 될 수 있으며, 이는 심혈관계에 큰 무리를 줍니다. 특히 이 품종은 심장 벽이 두꺼워져 기능이 저하되는 비대성 심근증(HCM)의 유전적 소인을 갖고 있습니다. 오늘 PetSelf에서는 아메리칸 쇼트헤어의 심장 이상 바디 랭귀지를 진단하고, 심장과 체중을 케어하는 3단계 루틴을 소개합니다.",
-        "whyTitle": "아메리칸 쇼트헤어의 바디 랭귀지: 심장 과부하와 개구호흡의 의미",
-        "whyDesc": "고양이는 강아지와 달리 땀이나 헐떡임으로 온도를 조절하지 않으므로, 일상에서 입을 벌려 숨을 쉬는 **'개구호흡'**을 하거나 놀이 중 **'쉽게 지쳐 엎드리는 현상'**은 심장 질환의 강력한 경고입니다. 이를 조기에 알아채는 것이 중요합니다.",
-        "body_signals": [
-          {
-            "name": "개구호흡 (Open-Mouth Breathing)",
-            "meaning": "입을 벌리고 가쁜 숨을 몰아쉬는 상태로, 폐와 심장의 과부하 또는 극도의 불안으로 인한 심각한 산소 부족 신호입니다.",
-            "response": "이동장이나 케이지에 넣어 스트레스를 최소화한 상태로 즉시 가까운 24시간 동물병원으로 이송하여 산소 치료를 받아야 합니다."
-          },
-          {
-            "name": "쉽게 지쳐 엎드리기 (Quick Fatigue)",
-            "meaning": "가벼운 깃털 놀이 등 짧은 움직임 뒤에도 바로 옆으로 누워 헐떡거리는 현상으로, 심장 박출량이 부족하다는 신호입니다.",
-            "response": "격렬한 운동을 제한하고, 연 1회 청진 및 심장 초음파(proBNP 검사 포함)를 통해 비대성 심근증 진행 여부를 정밀 확인합니다."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "아침: 자율 급식 제한 및 정량 사료 공급",
-            "text": "사료를 항상 채워두는 자율 급식 대신 아침저녁 정량으로 나누어 공급하여 비만을 사전에 방지하고 혈관 건강을 보호합니다."
-          },
-          {
-            "name": "낮: 사냥 본능 자극을 통한 15분 active 놀이",
-            "text": "낚싯대나 쥐 장난감을 공중에 날리는 등의 사냥 놀이를 하루 최소 2회, 15분 이상 유도하여 칼로리 소비를 촉진합니다."
-          },
-          {
-            "name": "저녁: 단모종 전용 슬리커 빗질 및 모질 관리",
-            "text": "단모종이지만 털의 밀도가 매우 높으므로 주 1~2회 빗질로 죽은 속털을 제거하여 헤어볼 구토로 인한 위장 장애를 예방합니다."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "고양이 비대성 심근증(HCM)이란 무엇인가요?",
-            "answer": "심장의 좌심실 벽이 비정상적으로 두꺼워지면서 심장 내부 공간이 좁아져 전신으로 피를 보내지 못하게 되는 대표적인 유전성 질환입니다. 심하면 급사에 이를 수 있어 조기 정기 검진이 최선입니다."
-          },
-          {
-            "question": "아메리칸 쇼트헤어의 비만 예방 식단 팁이 있을까요?",
-            "answer": "탄수화물 함량이 낮고 단백질 비율이 높은 사료를 선택하고, 사료의 일부를 간식 장난감(푸드 토이) 안에 넣어 굴려서 꺼내 먹도록 유도하여 움직임을 늘려주는 것이 효과적입니다."
-          }
-        ],
-        "tags": [
-          "아메리칸 쇼트헤어",
-          "HCM 예방",
-          "고양이 비만",
-          "심장 초음파"
-        ]
-      }
-    },
-    "category": "CareSelf",
-    "app": "careself",
-    "formatVersion": 4,
-    "heroImage": "/images/blog/american_shorthair_care.png"
-  }
+        "category": "CareSelf",
+        "app": "careself",
+        "formatVersion": 4,
+        "heroImage": "/images/blog/american_shorthair_care.webp"
+    }
 }

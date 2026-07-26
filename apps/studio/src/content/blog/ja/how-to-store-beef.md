@@ -6,7 +6,7 @@ pubDate: "2026-03-28"
 updatedDate: "2026-03-28"
 category: "FreshSnap"
 tags: ["食材保存","鮮度保持","beef"]
-heroImage: "/images/blog/beef_storage_hack.png"
+heroImage: "/images/blog/beef_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>食品医薬品安全処(MFDS) & 米国農務省(USDA)</strong>"

@@ -6,7 +6,7 @@ pubDate: "2026-03-17"
 updatedDate: "2026-03-17"
 category: "FreshSelf"
 tags: ["반려동물","펫케어","비어디 드래곤 (Pogona vitticeps)"]
-heroImage: "/images/blog/bearded_dragon_care.png"
+heroImage: "/images/blog/bearded_dragon_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "양서파충류수의학회(ARAV) 사육 가이드라인 및 파충류 임상 표준 수의 행동학"

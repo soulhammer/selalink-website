@@ -6,7 +6,7 @@ pubDate: "2026-02-19"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
 tags: ["반려동물","펫케어","샴 고양이 (Siamese)"]
-heroImage: "/images/blog/siamese_care.png"
+heroImage: "/images/blog/siamese_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Cat Fanciers' Association (CFA) 공식 가이드 및 AAFP 고양이 행동 프로토콜"

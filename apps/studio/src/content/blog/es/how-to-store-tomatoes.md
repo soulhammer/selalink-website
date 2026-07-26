@@ -6,7 +6,7 @@ pubDate: "2026-03-24"
 updatedDate: "2026-03-24"
 category: "FreshSnap"
 tags: ["ConservacionAlimentos","AlmacenamientoFresco","tomato"]
-heroImage: "/images/blog/tomato_storage_hack.png"
+heroImage: "/images/blog/tomato_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & USDA & CDC</strong>"

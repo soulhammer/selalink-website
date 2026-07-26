@@ -6,7 +6,7 @@ pubDate: "2026-02-03"
 updatedDate: "2026-02-03"
 category: "FreshSelf"
 tags: ["반려동물","펫케어","사모예드 (Canis lupus familiaris / Samoyed)"]
-heroImage: "/images/blog/samoyed_care.png"
+heroImage: "/images/blog/samoyed_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "American Kennel Club (AKC) 사모예드 케어 가이드 및 동물 정형외과 재단(OFA) 지침"

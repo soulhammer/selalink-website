@@ -6,7 +6,7 @@ pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
 category: "FreshSelf"
 tags: ["SoinAnimaux","SanteAnimaux","Poisson Betta (Betta splendens / Combattant du Siam)"]
-heroImage: "/images/blog/betta_fish_care.png"
+heroImage: "/images/blog/betta_fish_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Normes de santé des animaux aquatiques de la World Small Animal Veterinary Association (WSAVA) et standards cliniques en ichtyologie"

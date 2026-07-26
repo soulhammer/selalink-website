@@ -6,7 +6,7 @@ pubDate: "2026-05-10"
 updatedDate: "2026-05-10"
 category: "FreshSelf"
 tags: ["PerawatanHewan","KesehatanHewan","Bichon Frise (Bichon Frise)"]
-heroImage: "/images/blog/bichon_care.png"
+heroImage: "/images/blog/bichon_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Pedoman Bichon Frise Club of America & Standar Kesehatan Dokter Hewan AVMA"

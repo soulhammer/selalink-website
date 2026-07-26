@@ -6,7 +6,7 @@ pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
 category: "FreshSelf"
 tags: ["PerawatanHewan","KesehatanHewan","Ikan Betta (Betta splendens / Ikan Cupang)"]
-heroImage: "/images/blog/betta_fish_care.png"
+heroImage: "/images/blog/betta_fish_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Standar Kesehatan Hewan Akuatik World Small Animal Veterinary Association (WSAVA) dan Standar Klinis Ikan Hias"

@@ -6,7 +6,7 @@ pubDate: "2026-03-02"
 updatedDate: "2026-03-02"
 category: "FreshSelf"
 tags: ["Haustierpflege","Haustiergesundheit","American Shorthair"]
-heroImage: "/images/blog/american_shorthair_care.png"
+heroImage: "/images/blog/american_shorthair_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "CFA (Cat Fanciers' Association) Rassestandard & Studien des Cornell Feline Health Center"

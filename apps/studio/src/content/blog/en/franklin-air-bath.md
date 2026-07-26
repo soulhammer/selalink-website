@@ -48,7 +48,7 @@ In today's post, we uncover the brain science behind Benjamin Franklin's 'air ba
 
 ## 1. Cutaneous Cold Receptor Stimulation and Autonomic Sympathetic-Parasympathetic Balance
 
-When cutaneous cold-sensing receptors (TRPM8) detect cool air exposure, signals travel to the hypothalamus and autonomic nervous system, promoting micro-constriction and dilation of skin capillaries. This pathway stimulates the brainstem's <strong>locus coeruleus</strong>, releasing <strong>norepinephrine</strong> and <strong>dopamine</strong> to dispel morning grogginess and sharply elevate prefrontal executive focus. Furthermore, as body temperature naturally recovers after cool air exposure, vagal nerve activity and parasympathetic responses engage, resetting sympathetic hyper-arousal caused by chronic stress and restoring emotional equilibrium.
+When cutaneous cold-sensing receptors (TRPM8) detect cool air exposure, signals travel to the hypothalamus and autonomic nervous system, promoting micro-constriction and dilation of skin capillaries. This pathway stimulates the brainstem's <strong>locus coeruleus</strong>, releasing <strong>norepinephrine</strong> and <strong>dopamine</strong> to dispel morning grogginess and sharply elevate prefrontal executive focus. Furthermore, as body temperature naturally recovers after cool air exposure, vagal nerve activity and parasympatheticengage, resetting sympathetic hyper-arousal caused by chronic stress and restoring emotional equilibrium.
 
 ---
 

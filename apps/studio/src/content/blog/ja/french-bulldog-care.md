@@ -6,7 +6,7 @@ pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "FreshSelf"
 tags: ["ペットケア","ペット健康","フレンチ・ブルドッグ (Canis lupus familiaris)"]
-heroImage: "/images/blog/french_bulldog_care.png"
+heroImage: "/images/blog/french_bulldog_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "AKCフレンチ・ブルドッグ飼育ガイドラインおよび短頭種臨床獣医学基準"

@@ -6,7 +6,7 @@ pubDate: "2026-03-26"
 updatedDate: "2026-03-26"
 category: "FreshSelf"
 tags: ["반려동물","펫케어","러시안 블루 (Felis catus / Russian Blue)"]
-heroImage: "/images/blog/russian_blue_care.png"
+heroImage: "/images/blog/russian_blue_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Cat Fanciers' Association (CFA) 묘종 표준 가이드 및 Cornell Feline Health Center 행동 지침"

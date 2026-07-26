@@ -6,7 +6,7 @@ pubDate: "2026-02-03"
 updatedDate: "2026-02-03"
 category: "FreshSelf"
 tags: ["PetCare","PetHealth","Samoyed (Canis lupus familiaris)"]
-heroImage: "/images/blog/samoyed_care.png"
+heroImage: "/images/blog/samoyed_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "AKC Samoyed Care Guide & Orthopedic Foundation for Animals (OFA) Guidelines"

@@ -6,7 +6,7 @@ import sharp from 'sharp';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const studioRoot = path.join(__dirname, '..');
+const studioRoot = path.join(__dirname, '../../..');
 const publicImagesBlog = path.join(studioRoot, 'public/images/blog');
 const publicFavicon = path.join(studioRoot, 'public/favicon.png');
 const contentBlogDir = path.join(studioRoot, 'src/content/blog');

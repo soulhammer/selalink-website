@@ -28,7 +28,7 @@ faqs:
 
 Joan of Arc (c. 1412–1431) was the peasant girl who altered the course of European history during the Hundred Years' War, breaking the 1429 Siege of Orléans and becoming the patron saint of France. Facing horrific battlefield trauma, aristocratic hostility, and church inquisitions without formal education, where did she find the psychological resilience to master her fear of death?
 
-As recorded in her 1431 trial manuscripts (*Procès de Condamnation*), Joan adhered to an unwavering daily morning ritual. Before military orders or counsel meetings began, she sought secluded, silent spaces—such as quiet chapel alcoves or remote field tents—for deep, silent contemplation. By completely shutting out external military and political chatter, she anchored her awareness strictly onto her core spiritual purpose. This quiet morning isolation served as her ultimate cognitive shield, calming her amygdala's threat responses and reinforcing her prefrontal conviction.
+As recorded in her 1431 trial manuscripts (*Procès de Condamnation*), Joan adhered to an unwavering daily morning ritual. Before military orders or counsel meetings began, she sought secluded, silent spaces—such as quiet chapel alcoves or remote field tents—for deep, silent contemplation. By completely shutting out external military and political chatter, she anchored her awareness strictly onto her core spiritual purpose. This quiet morning isolation served as her ultimate cognitive shield, calming her amygdala's threatand reinforcing her prefrontal conviction.
 
 In today's post, we unpack the cognitive neuroscience behind Joan of Arc's 'morning silent reflection' routine and present a modern 3-step action guide to silence external noise and align with your core values.
 

@@ -6,7 +6,7 @@ pubDate: "2026-06-01"
 updatedDate: "2026-06-01"
 category: "FreshSelf"
 tags: ["SoinAnimaux","SanteAnimaux","Axolotl (Salamandre Mexicaine)"]
-heroImage: "/images/blog/axolotl_care.png"
+heroImage: "/images/blog/axolotl_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Protocoles Vétérinaires d'Élevage des Amphibiens & Amphibian Ark"

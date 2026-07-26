@@ -6,7 +6,7 @@ pubDate: "2026-05-28"
 updatedDate: "2026-05-30"
 category: "FreshSelf"
 tags: ["PerawatanHewan","KesehatanHewan","Golden Retriever (Canis lupus familiaris)"]
-heroImage: "/images/blog/golden_retriever_care.png"
+heroImage: "/images/blog/golden_retriever_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Panduan Ras Resmi American Kennel Club (AKC) & Protokol Perilaku IAABC"

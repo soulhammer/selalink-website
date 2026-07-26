@@ -6,7 +6,7 @@ pubDate: "2026-04-18"
 updatedDate: "2026-04-18"
 category: "FreshSelf"
 tags: ["PerawatanHewan","KesehatanHewan","Kucing Bengal (Prionailurus bengalensis × Felis catus)"]
-heroImage: "/images/blog/bengal_care.png"
+heroImage: "/images/blog/bengal_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Panduan Ras Bengal The International Cat Association (TICA) dan Standar Kedokteran Perilaku Feline"

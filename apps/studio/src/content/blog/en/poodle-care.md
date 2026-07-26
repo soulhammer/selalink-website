@@ -6,7 +6,7 @@ pubDate: "2026-01-26"
 updatedDate: "2026-01-26"
 category: "FreshSelf"
 tags: ["PetCare","PetHealth","Poodle (Canis lupus familiaris)"]
-heroImage: "/images/blog/poodle_care.png"
+heroImage: "/images/blog/poodle_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Official American Kennel Club (AKC) Breed Guide & IAABC Behavioral Protocols"

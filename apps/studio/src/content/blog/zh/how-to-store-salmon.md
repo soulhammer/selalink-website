@@ -6,7 +6,7 @@ pubDate: "2026-05-02"
 updatedDate: "2026-05-02"
 category: "FreshSnap"
 tags: ["食材保存","保鲜技巧","salmon"]
-heroImage: "/images/blog/salmon_storage_hack.png"
+heroImage: "/images/blog/salmon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>美国食品药品监督管理局(FDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>"

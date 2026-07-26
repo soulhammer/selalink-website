@@ -6,7 +6,7 @@ pubDate: "2026-06-01"
 updatedDate: "2026-06-01"
 category: "FreshSelf"
 tags: ["Haustierpflege","Haustiergesundheit","Axolotl (Mexikanischer Schwanzlurch)"]
-heroImage: "/images/blog/axolotl_care.png"
+heroImage: "/images/blog/axolotl_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Internationales Protokoll für Amphibienhaltung & Amphibian Ark Tiermedizinischer Standard"

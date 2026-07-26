@@ -6,7 +6,7 @@ pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "FreshSelf"
 tags: ["SoinAnimaux","SanteAnimaux","Cochon d'Inde Abyssinien"]
-heroImage: "/images/blog/abyssinian_guinea_pig_care.png"
+heroImage: "/images/blog/abyssinian_guinea_pig_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Directives de soin des rongeurs de la RSPCA et normes vétérinaires pour nouveaux animaux de compagnie (NAC)"

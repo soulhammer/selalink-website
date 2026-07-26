@@ -6,7 +6,7 @@ pubDate: "2026-06-27"
 updatedDate: "2026-06-27"
 category: "FreshSelf"
 tags: ["CuidadoPets","SaudePets","Chinchila (Chinchilla lanigera)"]
-heroImage: "/images/blog/chinchilla_care.png"
+heroImage: "/images/blog/chinchilla_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Diretrizes de Manejo de Chinchilas da Association of Exotic Mammal Veterinarians (AEMV) e Padrões Clínicos de Odontologia de Roedores"

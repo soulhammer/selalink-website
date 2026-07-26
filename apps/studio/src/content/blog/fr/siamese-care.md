@@ -6,7 +6,7 @@ pubDate: "2026-02-19"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
 tags: ["SoinAnimaux","SanteAnimaux","Siamois (Siamese)"]
-heroImage: "/images/blog/siamese_care.png"
+heroImage: "/images/blog/siamese_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Guide officiel de la Cat Fanciers' Association (CFA) et protocoles de comportement félin de l'AAFP"

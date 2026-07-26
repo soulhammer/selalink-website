@@ -1,454 +1,454 @@
 {
-  "how-to-store-grape": {
-    "ingId": "grape",
-    "pubDate": "2026-07-17",
-    "updatedDate": "2026-07-17",
-    "heroImage": "/images/blog/grape_storage_hack.png",
-    "category": "FreshSnap",
-    "app": "freshsnap",
-    "formatVersion": 4,
-    "locales": {
-      "ko": {
-        "title": "포도 신선하게 보관하는 법: 과학적 보관 가이드",
-        "description": "공인된 안전 가이드라인에 따른 포도의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-        "authority": "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>",
-        "intro": "달콤하고 탐스러운 포도를 사 와서 그대로 냉장고에 넣어두었다가, 알들이 줄줄이 투명하게 떨어지거나 줄기 밑부분에 회색 곰팡이가 슬어 버려본 경험 있으시죠? 🍇\n\n포도는 과피가 매우 얇고 알갱이가 촘촘히 밀집된 과일로, 습도가 너무 높으면 잿빛곰팡이균(Botrytis)이 번식하고 건조하면 줄기가 말라 알 빠짐이 급격히 발생합니다. 특히 표면의 천연 보호막(과분, 블룸)을 지키고 습도를 통제하는 것이 신선도 유지의 핵심 열쇠입니다.\n\n오늘 FreshSnap에서는 농촌진흥청(RDA)과 미국 농무부(USDA)의 가이드를 바탕으로, 포도의 천연 보호막을 보존하고 알 빠짐을 차단하여 2주 이상 탱탱함과 달콤함을 유지하는 3단계 과학적 보관 비법을 전해드립니다. 🛡️",
-        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-        "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-        "guideTitle": "과학적으로 검증된 보관 가이드",
-        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-        "tags": [
-          "포도",
-          "과학적으로 검증된 보관 가이드",
-          "fruit"
-        ],
-        "cautions": [
-          {
-            "title": "무거운 물건을 위에 얹거나 겹쳐 쌓지 마세요 ⚠️",
-            "desc": "포도는 미세한 압력에도 과피가 쉽게 터집니다. 과즙이 새어 나오면 주변 포도알까지 부패가 빠르게 번지므로 상단에 물건을 얹지 말고 단독으로 배치해야 합니다."
-          },
-          {
-            "title": "상처 나거나 무른 알은 보관 전 미리 제거하세요 🍇",
-            "desc": "포도송이 안쪽에 물러지거나 터진 알갱이가 섞여 있으면 유출된 과즙이 주변의 멀쩡한 포도알을 빠르게 부패시킵니다. 보관 전 가위로 상한 알만 오려내어 제거하세요."
-          }
-        ],
-        "steps": [
-          {
-            "name": "먹기 직전까지 물 세척 절대 금지 — 천연 보호막(블룸) 보존 🍇",
-            "text": "포도알 표면의 부드러운 하얀 가루는 먼지가 아닌 과실 스스로 분비한 천연 왁스 보호막인 '과분(Bloom)'입니다. 수분 증발을 막고 미생물 침입을 차단하므로, 보관 전에 물로 씻으면 과분이 손상되고 물기가 갇혀 부패가 빨라집니다. 💡 보관 팁: 씻지 않은 상태 그대로 보관하는 것이 신선도 유지의 기본입니다."
-          },
-          {
-            "name": "한 송이씩 키친타월이나 신문지로 감싸기 — 완충 및 수분 조절 📰",
-            "text": "포도송이를 그대로 두면 과실 호흡과 수분 결로로 인해 내부 알갱이가 물러집니다. 💡 보관 팁: 물기가 없는 포도송이를 키친타월이나 신문지로 한 송이씩 부드럽게 감싸주세요. 종이가 미세 결로나 습기를 흡수하여 포도알 사이의 수분 정체로 인한 곰팡이 번식을 원천 차단합니다."
-          },
-          {
-            "name": "숨구멍이 있는 비닐백에 담아 야채칸에 보관하기 — 냉장 보관 (14일) ❄️",
-            "text": "포도를 밀폐 용기에 꽉 가두면 이산화탄소와 습기가 차서 썩기 쉽습니다. 💡 보관 팁: 종이로 포장한 송이들을 구멍이 살짝 뚫린 비닐백이나 플라스틱 팩에 담아 겹치지 않게 나란히 눕혀 냉장고 야채실(0~2℃)에 보관하세요. 알 빠짐을 막고 2주 이상 신선하게 유지할 수 있습니다."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "포도 표면의 하얀 가루는 농약인가요? 씻어내야 하나요?",
-            "answer": "아닙니다. 하얀 가루는 포도가 스스로를 보호하고 수분 증발을 막기 위해 분비하는 천연 식물성 왁스 성분인 '과분(Bloom)'입니다. 농약이 아니며 과분이 고르게 깔려 있을수록 신선하고 당도가 높은 좋은 포도입니다. 섭취 직전 흐르는 물에 가볍게 씻어 드시면 됩니다."
-          },
-          {
-            "question": "포도를 오래 보관하기 위해 냉동 보관해도 되나요?",
-            "answer": "네, 포도는 냉동 보관에 매우 잘 어울리는 과일입니다. 포도알만 하나씩 떼어내어 물에 깨끗이 씻은 후 물기를 완벽히 제거하고, 냉동용 지퍼백에 담아 냉동(-18℃ 이하) 보관하면 천연 포도 셔벗처럼 즐기실 수 있습니다."
-          }
-        ]
-      },
-      "en": {
-        "title": "How to Keep Grapes Fresh: Scientific Storage Guide",
-        "description": "Check the optimal storage temperature, method, and shelf life for grapes based on official safety guidelines.",
-        "authority": "<strong>RDA & USDA & MFDS</strong>",
-        "intro": "Have you ever stored fresh grapes in the refrigerator only to find them dropping off the stem, turning mushy, or covered in gray mold? 🍇\n\nGrapes have very thin skins and are densely packed along the cluster stem. Excessive humidity causes gray mold fungus (Botrytis) to thrive, while dry conditions wither the stems, causing berries to drop rapidly. Protecting their natural wax layer (bloom) and controlling moisture are the keys to freshness.\n\nToday, FreshSnap shares a scientifically proven 3-step storage guide based on guidelines from the USDA and RDA to preserve the natural bloom, prevent berry drop, and keep your grapes firm and sweet for over 2 weeks. 🛡️",
-        "whyTitle": "Why Store Grapes This Way? Scientific Facts",
-        "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
-        "guideTitle": "Scientifically Proven Storage Guide",
-        "cautionTitle": "Essential Storage Rules and Cautions",
-        "tags": [
-          "Grape",
-          "Scientifically Proven Storage Guide",
-          "fruit"
-        ],
-        "cautions": [
-          {
-            "title": "Do not stack heavy items on top or crush bunches ⚠️",
-            "desc": "Grapes are easily crushed under light pressure. Leaking juice from burst grapes accelerates rot across the entire cluster. Store bunches in a single layer without anything placed on top."
-          },
-          {
-            "title": "Remove damaged or squishy grapes before storage 🍇",
-            "desc": "If bruised or burst grapes remain within the cluster, the leaking juice will quickly spoil neighboring healthy berries. Carefully trim away damaged grapes with scissors before storing."
-          }
-        ],
-        "steps": [
-          {
-            "name": "Never wash with water before storage — Preserve Natural Bloom 🍇",
-            "text": "The fine white powder coating grape skins is 'Bloom', a natural epicuticular wax produced by the fruit. It prevents water loss and protects against pathogens. Washing grapes before storage damages this layer and traps water, accelerating rot. 💡 Storage Tip: Keep them dry until right before eating."
-          },
-          {
-            "name": "Wrap each bunch gently in paper towels or paper — Cushioning & Moisture Control 📰",
-            "text": "Storing bare grape clusters leads to moisture condensation between berries, making them squishy. 💡 Storage Tip: Wrap each dry grape bunch gently in paper towels or clean paper. The paper absorbs excess humidity, preventing mold caused by trapped water between berries."
-          },
-          {
-            "name": "Place in perforated bags and store in the crisper — Cold Storage (14 Days) ❄️",
-            "text": "Sealing grapes in airtight containers traps moisture and carbon dioxide, causing rapid decay. 💡 Storage Tip: Place paper-wrapped bunches side-by-side in a perforated plastic bag or open plastic clamshell, and store in the refrigerator crisper drawer (0–2°C / 32–36°F). This prevents berry drop and preserves crispness for over 2 weeks."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Is the white powder on grape skins pesticide residue? Should I scrub it off?",
-            "answer": "No, it is not pesticide residue. The white coating is 'Bloom', a natural plant wax secreted by the grape to protect itself and prevent moisture loss. An even coating of bloom indicates fresh, sweet grapes. Simply rinse them gently under cold water right before eating."
-          },
-          {
-            "question": "Can I freeze grapes for long-term storage?",
-            "answer": "Yes, grapes freeze exceptionally well. Pluck individual berries, wash them thoroughly, pat them completely dry, and store them in a single layer inside a freezer Ziploc bag (-18°C or below). Frozen grapes make a delicious, healthy natural sorbet snack."
-          }
-        ]
-      },
-      "ja": {
-        "title": "ぶどうを新鮮に保つ保存方法：科学的保管ガイド",
-        "description": "公的安全基準に基づくぶどうの最適な保存温度、保管方法、保存期間をご確認ください。",
-        "authority": "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>",
-        "intro": "甘くみずみずしいぶどうを買って冷蔵庫に入れておいたら、実がポロポロ落ちたり、軸の周りにカビが生えて捨ててしまった経験はありませんか？🍇\n\nぶどうは皮が非常に薄く実が密集している果物で、湿度が高すぎると灰色カビ病菌が繁殖し、乾燥すると軸が枯れて実落ちが急激に進みます。表面の天然保護膜（ブルーム）を守り、過度な湿気をコントロールすることが鮮度維持の鍵です。\n\n本日FreshSnapでは、農村振興庁（RDA）および米国農務省（USDA）のガイドラインに基づき、ぶどうの天然保護膜を保護し、実落ちを防いで2週間以上ハリと甘みを保つ3段階の科学的保存法をご紹介します。🛡️",
-        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-        "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-        "guideTitle": "科学的に検証された保存ガイド",
-        "cautionTitle": "保存時の必須ルールと注意事項",
-        "tags": [
-          "ぶどう",
-          "科学的に検証された保存ガイド",
-          "fruit"
-        ],
-        "cautions": [
-          {
-            "title": "上に重いものを載せたり重ねて置かないでください ⚠️",
-            "desc": "ぶどうはわずかな圧力でも簡単に潰れます。ジュースが漏れ出すと周囲の果実まで傷みが早まるため、上には物を載せず単独で配置してください。"
-          },
-          {
-            "title": "傷んだり潰れた日は保存前に取り除いてください 🍇",
-            "desc": "房の中に潰れた実や傷んだ実が残っていると、漏れ出た果汁が周囲の健全な実を急速に腐らせます。保存前にハサミで傷んだ実だけを切り落としてください。"
-          }
-        ],
-        "steps": [
-          {
-            "name": "食べる直前まで絶対に水洗いしない — 天然ブルームの保護 🍇",
-            "text": "ぶどうの表面を覆う白い粉は汚れではなく、果実自ら分泌した天然のワックス保護膜「ブルーム（Bloom）」です。水分蒸発を防ぎ病原菌の侵入を遮断するため、保存前に洗うと保護膜が落ち、水気がこもって傷みやすくなります。💡保存のコツ：水気をつけずそのまま保存するのが基本です。"
-          },
-          {
-            "name": "1房ずつキッチンペーパーや新聞紙でふんわり包む — 緩衝と湿度調整 📰",
-            "text": "ぶどうをそのまま置くと呼吸による結露で実の間が蒸れ、柔らかくなってしまいます。💡保存のコツ：乾いたぶどうを1房ずつキッチンペーパーや新聞紙で優しく包んでください。紙が結露や湿気を吸収し、実と実の間に水気が溜まってカビが生えるのを防ぎます。"
-          },
-          {
-            "name": "穴あきポリ袋に入れて野菜室で保存する — 冷蔵保存 (14日間) ❄️",
-            "text": "ぶどうを密閉容器に閉じ込めると二酸化炭素と湿気がこもり腐りやすくなります。💡保存のコツ：紙で包んだ房を穴の開いたポリ袋やプラケースに入れ、重ならないよう横に並べて冷蔵庫の野菜室・チルド室（0〜2℃）で保存してください。実落ちを防ぎ2週間以上新鮮さを保てます。"
-          }
-        ],
-        "faqs": [
-          {
-            "question": "ぶどうの表面の白い粉は農薬ですか？洗い流すべきですか？",
-            "answer": "いいえ、農薬ではありません。白い粉はぶどうが身を守り水分蒸発を防ぐために分泌する天然のワックス成分「ブルーム（Bloom）」です。農薬ではなく、ブルームがまんべんなくついているものほど新鮮で甘みが強い良いぶどうです。食べる直前に水で軽く洗い流してお召し上がりください。"
-          },
-          {
-            "question": "ぶどうを長期保存するために冷凍保存してもいいですか？",
-            "answer": "はい、ぶどうは冷凍保存に非常に適した果物です。実を1粒ずつ房から外し、水できれいに洗って水分を完全に拭き取ってから、冷凍用ジッパーバッグに入れて冷凍（-18℃以下）すれば、天然のシャーベットとして美味しくお召し上がりいただけます。"
-          }
-        ]
-      },
-      "zh": {
-        "title": "如何保持葡萄新鲜：科学储存指南",
-        "description": "根据官方食品安全指南，了解葡萄的最佳储存温度、方式和保鲜时长。",
-        "authority": "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>",
-        "intro": "您是否曾买回鲜甜诱人的葡萄直接放入冰箱，结果过几天发现果粒纷纷脱落、发软，甚至梗部发霉？🍇\n\n葡萄是果皮极薄且果粒紧密簇拥的水果。环境湿度过高极易滋生灰霉病菌（Botrytis），而过于干燥则会导致果梗干枯、严重落粒。保护其表面的天然果粉（Bloom）并控制结露，是延长保鲜期的关键。\n\n今天FreshSnap基于韩国农村振兴厅(RDA)和美国农务部(USDA)的指南，为您带来3步科学保存秘诀，帮您保护天然果粉、防止落粒，保持葡萄紧致饱满达2周以上。🛡️",
-        "whyTitle": "为什么要这样储存？科学原理",
-        "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-        "guideTitle": "科学验证的储存指南",
-        "cautionTitle": "储存必需规则及注意事项",
-        "tags": [
-          "葡萄",
-          "科学验证的储存指南",
-          "fruit"
-        ],
-        "cautions": [
-          {
-            "title": "切勿在上方堆放重物或挤压葡萄 ⚠️",
-            "desc": "葡萄果皮极其娇嫩，轻微受压即可破裂。流出的果汁会迅速引发周边果粒腐烂，因此切勿在上方堆放其他物品，须单层平铺放置。"
-          },
-          {
-            "title": "储存前请提前剔除受损或变软的果粒 🍇",
-            "desc": "如果葡萄串中混有破损或腐烂的果粒，渗出的果汁会加速周围完好果粒的变质。储存前请务必用剪刀小心剪除坏果。"
-          }
-        ],
-        "steps": [
-          {
-            "name": "食用前严禁用水冲洗 — 保护天然果粉(Bloom) 🍇",
-            "text": "葡萄表面的白霜并非灰尘或农药，而是果实自身分泌的天然植物蜡保护膜“果粉（Bloom）”。它能防止水分蒸发并抵御病菌。储存前洗水会破坏果粉且积聚水汽，加速腐烂。💡储存小贴士：保持干燥原状是保鲜的基础。"
-          },
-          {
-            "name": "按串用厨房纸巾或报纸轻裹 — 缓冲与湿度调节 📰",
-            "text": "葡萄直接放置会因果实呼吸产生的结露而导致果粒间积水发软。💡储存小贴士：用厨房纸巾或报纸将干燥的葡萄逐串轻柔包裹。纸张能吸收微小结露与湿气，从源头上阻断霉菌滋生。"
-          },
-          {
-            "name": "装入带孔保鲜袋放入蔬菜保鲜抽屉 — 冷藏保存 (14天) ❄️",
-            "text": "将葡萄密封在无孔容器中会导致二氧化碳和湿气积聚，引发腐烂。💡储存小贴士：将包好的葡萄装入带透气孔的保鲜袋或塑料盒中，单层平放于冰箱蔬菜保鲜抽屉（0~2℃）。这能防止落粒并保持清脆达14天以上。"
-          }
-        ],
-        "faqs": [
-          {
-            "question": "葡萄表面的白霜是农药残留吗？需要洗掉吗？",
-            "answer": "不是农药。白霜是葡萄为了保护自身和防止水分蒸发而分泌的天然植物蜡“果粉（Bloom）”。果粉分布越均匀完整，代表葡萄越新鲜、甜度越高。食用前用流动水轻轻冲洗即可，无需刻意搓洗。"
-          },
-          {
-            "question": "葡萄可以冷冻长期保存吗？",
-            "answer": "完全可以。葡萄非常适合冷冻保存。将葡萄粒单颗剪下，用清水洗净后彻底擦干水分，装入冷冻拉链袋中放入冷冻室（-18℃以下）。冷冻后的葡萄口感如同天然水果冰沙，非常美味。"
-          }
-        ]
-      },
-      "es": {
-        "title": "Cómo mantener las uvas frescas: Guía científica de conservación",
-        "description": "Descubra la temperatura, el método y la duración de conservación óptimos para las uvas según las directrices oficiales de seguridad.",
-        "authority": "<strong>RDA & USDA & MFDS</strong>",
-        "intro": "¿Alguna vez guardó uvas frescas en el refrigerador solo para descubrir que se desprendían del racimo, se ponían blandas o se cubrían de moho gris? 🍇\n\nLas uvas tienen una piel muy delgada y sus granos están densamente agrupados. La humedad excesiva favorece la aparición del hongo del moho gris (Botrytis), mientras que la sequedad marchita el pedúnculo provocando la caída de los frutos. Proteger su capa de cera natural (pruina) y controlar la condensación son las claves para la frescura.\n\nHoy, FreshSnap comparte una guía científica en 3 pasos basada en las pautas del USDA y la RDA para preservar la pruina natural, evitar la caída de los granos y mantener sus uvas firmes y dulces por más de 2 semanas. 🛡️",
-        "whyTitle": "¿Por qué almacenarlas así? Datos científicos",
-        "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-        "guideTitle": "Guía de almacenamiento científicamente probada",
-        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-        "tags": [
-          "Uva",
-          "Guía de almacenamiento científicamente probada",
-          "fruit"
-        ],
-        "cautions": [
-          {
-            "title": "No apile objetos pesados sobre las uvas ni las aplaste ⚠️",
-            "desc": "Las uvas se aplastan fácilmente con poca presión. El jugo derramado de frutos rotos acelera la pudrición en todo el racimo. Conserve los racimos en una sola capa sin nada encima."
-          },
-          {
-            "title": "Retire las uvas dañadas o blandas antes del almacenamiento 🍇",
-            "desc": "Si quedan uvas magulladas o reventadas dentro del racimo, el líquido liberado echará a perder las uvas sanas vecinas. Recorte con tijeras las uvas dañadas antes de guardar."
-          }
-        ],
-        "steps": [
-          {
-            "name": "Nunca las lave con agua antes de almacenarlas — Conserve la pruina natural 🍇",
-            "text": "El polvo blanco que cubre la piel de la uva es la 'Pruina' (Bloom), una cera natural secretada por la fruta que evita la pérdida de agua y la protege contra bacterias. Lavarlas elimina esta capa y atrapa humedad, acelerando la descomposición. 💡 Consejo de almacenamiento: Manténgalas secas hasta justo antes de comer."
-          },
-          {
-            "name": "Envuelva cada racimo suavemente en toallas de papel o periódico — Amortiguación 📰",
-            "text": "Guardar los racimos descubiertos causa condensación entre los granos, ablandándolos. 💡 Consejo de almacenamiento: Envuelva cada racimo seco suavemente en papel de cocina o papel limpio. El papel absorbe el exceso de humedad evitando el desarrollo de moho."
-          },
-          {
-            "name": "Coloque en bolsas perforadas en el cajón de verduras — Refrigeración (14 días) ❄️",
-            "text": "Sellar uvas en recipientes herméticos atrapa dióxido de carbono y humedad. 💡 Consejo de almacenamiento: Coloque los racimos envueltos en papel en una bolsa de plástico perforada y acomódelos uno al lado del otro en el cajón de verduras (0-2 °C). Esto evita la caída de uvas y mantiene su firmeza por 2 semanas."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "¿El polvo blanco de las uvas es residuo de pesticida? ¿Debo frotarlo para quitarlo?",
-            "answer": "No es pesticida. El polvillo blanco es 'Pruina' (Bloom), una cera vegetal natural secretada por la uva para protegerse de la deshidratación. Una capa uniforme indica que la uva está muy fresca y dulce. Simplemente enjuáguelas suavemente con agua fría justo antes de consumirlas."
-          },
-          {
-            "question": "¿Puedo congelar uvas para conservarlas a largo plazo?",
-            "answer": "Sí, las uvas se congelan excelentemente. Desprenda los granos individuales, lávelos bien, séquelos por completo con papel de cocina y guárdelos en una bolsa Ziploc para congelador (-18 °C). Las uvas congeladas son un delicioso granizado natural."
-          }
-        ]
-      },
-      "fr": {
-        "title": "Comment conserver les raisins frais : Guide scientifique de conservation",
-        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les raisins selon les directives officielles de sécurité.",
-        "authority": "<strong>RDA & USDA & MFDS</strong>",
-        "intro": "Avez-vous déjà conservé des raisins frais au réfrigérateur pour les retrouver détachés de la grappe, ramollis ou couverts de moisissure grise ? 🍇\n\nLe raisin a une peau très fine et des baies denses. Un excès d'humidité favorise le développement de la moisissure grise (Botrytis), tandis qu'un air trop sec flétrit les rafles et provoque la chute rapide des grains. Préserver la pellicule de cire naturelle (pruine) et contrôler la condensation sont les clés de la fraîcheur.\n\nAujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du USDA et du RDA pour préserver la pruine naturelle, éviter la chute des baies et garder vos raisins fermes et sucrés pendant plus de 2 semaines. 🛡️",
-        "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
-        "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-        "guideTitle": "Guide de conservation scientifiquement prouvé",
-        "cautionTitle": "Règles essentielles et précautions de stockage",
-        "tags": [
-          "Raisin",
-          "Guide de conservation scientifiquement prouvé",
-          "fruit"
-        ],
-        "cautions": [
-          {
-            "title": "Ne posez aucun objet lourd sur les raisins et ne les écrasez pas ⚠️",
-            "desc": "Les raisins s'écrasent facilement. Le jus d'un grain éclaté accélère la pourriture de toute la grappe. Conservez les grappes à plat sur une seule couche sans rien poser dessus."
-          },
-          {
-            "title": "Retirez les grains de raisin abîmés avant le stockage 🍇",
-            "desc": "Si des grains écrasés ou moisis restent sur la grappe, leur jus gâtera rapidement les grains sains voisins. Coupez soigneusement les grains abîmés avec des ciseaux avant de stocker."
-          }
-        ],
-        "steps": [
-          {
-            "name": "Ne lavez jamais à l'eau avant le stockage — Préserver la pruine naturelle 🍇",
-            "text": "Le fin voile blanc qui recouvre le raisin est la 'Pruine' (Bloom), une cire naturelle sécrétée par le fruit. Elle protège de la déshydratation et des germes. Laver le raisin avant le stockage détruit ce bouclier et piège l'eau. 💡 Astuce de conservation : Gardez-les secs jusqu'au moment de déguster."
-          },
-          {
-            "name": "Envelopper chaque grappe délicatement dans du papier — Contrôle de l'humidité 📰",
-            "text": "Laisser les grappes à nu provoque de la condensation entre les baies, les rendant molles. 💡 Astuce de conservation : Enveloppez chaque grappe sèche dans du papier absorbant ou du papier propre. Le papier absorbe l'excès d'humidité et empêche la moisissure."
-          },
-          {
-            "name": "Placer dans un sac perforé au bac à légumes — Stockage réfrigéré (14 jours) ❄️",
-            "text": "Enfermer les raisins hermétiquement piège le dioxyde de carbone et l'humidité, hâtant le pourrissement. 💡 Astuce de conservation : Rangez les grappes enveloppées côte à côte dans un sac perforé au bac à légumes (0-2 °C). Cela évite la chute des grains et préserve la fermeté pendant 2 semaines."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "La poudre blanche sur le raisin est-elle du pesticide ? Faut-il la frotter ?",
-            "answer": "Non, ce n'est pas du pesticide. Ce voile blanc est la 'Pruine' (Bloom), une cire végétale naturelle produite par le fruit pour se protéger du dessèchement. Une pruine bien visible garantit un raisin frais et sucré. Il suffit de les rincer doucement à l'eau froide juste avant de manger."
-          },
-          {
-            "question": "Puis-je congeler le raisin pour une longue conservation ?",
-            "answer": "Oui, le raisin se congèle très bien. Égrappez les baies, lavez-les soigneusement, séchez-les complètement avec du papier absorbant et placez-les à plat dans un sac congélation Ziploc (-18 °C). Les raisins congelés se dégustent comme un sorbet naturel."
-          }
-        ]
-      },
-      "de": {
-        "title": "Weintrauben richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Weintrauben basierend auf offiziellen Sicherheitsrichtlinien.",
-        "authority": "<strong>RDA & USDA & MFDS</strong>",
-        "intro": "Haben Sie schon einmal frische Weintrauben im Kühlschrank gelagert, nur um festzustellen, dass die Beeren vom Stängel fielen, matschig wurden oder Grauschimmel ansetzten? 🍇\n\nWeintrauben haben eine sehr dünne Schale und sitzen dicht aneinander. Zu hohe Feuchtigkeit lässt Grauschimmel (Botrytis) sprießen, während Trockenheit die Stängel welken lässt und Beerenabfall verursacht. Der Schutz der natürlichen Wachsschicht (Pruina) und die Kontrolle von Kondenswasser sind der Schlüssel zur Frische.\n\nHeute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Richtlinien von USDA und RDA basiert, um die Pruina zu erhalten, Beerenabfall zu verhindern und Ihre Trauben über 2 Wochen lang knackig und süß zu halten. 🛡️",
-        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-        "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-        "tags": [
-          "Weintraube",
-          "Wissenschaftlich geprüfter Lagerungsratgeber",
-          "fruit"
-        ],
-        "cautions": [
-          {
-            "title": "Legen Sie keine schweren Gegenstände auf die Trauben ⚠️",
-            "desc": "Trauben werden schon bei leichtem Druck zerquetscht. Austretender Saft geplatzter Beeren beschleunigt den Verderb der gesamten Traube. Lagern Sie Trauben nebeneinander in einer Schicht."
-          },
-          {
-            "title": "Beschädigte oder weiche Beeren vor der Lagerung entfernen 🍇",
-            "desc": "Wenn gequetschte oder faulige Beeren in der Traube verbleiben, lässt der austretende Saft benachbarte Beeren rasch faulen. Schneiden Sie beschädigte Beeren vor dem Einlagern mit einer Schere ab."
-          }
-        ],
-        "steps": [
-          {
-            "name": "Vor der Lagerung niemals mit Wasser waschen — Natürliche Pruina schützen 🍇",
-            "text": "Der feine weiße Belag auf den Trauben ist die 'Pruina' (Bloom), ein natürliches Wachs der Frucht. Sie schützt vor Austrocknung und Erregern. Das Waschen zerstört diese Schicht und schließt Wasser ein. 💡 Lagerungstipp: Bis kurz vor dem Essen trocken halten."
-          },
-          {
-            "name": "Jede Traube sanft in Küchenpapier oder Papier einwickeln — Feuchtigkeitsbalance 📰",
-            "text": "Frei liegende Trauben bilden durch die Fruchtatmung Kondenswasser zwischen den Beeren, was sie weich macht. 💡 Lagerungstipp: Wickeln Sie jede trockene Traube sanft in Küchenpapier ein. Das Papier nimmt Feuchtigkeit auf und schützt vor Schimmel."
-          },
-          {
-            "name": "In gelochten Beuteln im Gemüsefach lagern — Kühllagerung (14 Tage) ❄️",
-            "text": "Das luftdichte Verschließen von Trauben staut Kohlendioxid und Feuchtigkeit, was schnellen Verderb verursacht. 💡 Lagerungstipp: Legen Sie die eingewickelten Trauben nebeneinander in einen gelochten Plastikbeutel ins Gemüsefach (0–2 °C). So bleiben sie über 2 Wochen knackig."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Ist der weiße Belag auf den Trauben ein Pestizidrückstand? Sollte man ihn abwaschen?",
-            "answer": "Nein, das ist kein Pestizid. Der weiße Belag ist 'Pruina' (Bloom), ein natürliches Pflanzenwachs, das die Traube vor dem Austrocknen schützt. Eine gleichmäßige Pruina zeigt frische, süße Trauben an. Spülen Sie die Beeren erst kurz vor dem Verzehr leicht mit kaltem Wasser ab."
-          },
-          {
-            "question": "Kann man Weintrauben einfrieren, um sie lange zu lagern?",
-            "answer": "Ja, Trauben lassen sich hervorragend einfrieren. Zupfen Sie die Beeren ab, waschen Sie sie gründlich, tupfen Sie sie mit Küchenpapier vollkommen trocken und frieren Sie sie im Ziploc-Beutel bei -18 °C ein. Gefrorene Trauben schmecken wie ein natürliches Fruchtsorbet."
-          }
-        ]
-      },
-      "pt": {
-        "title": "Como conservar uvas frescas: Guia científico de armazenamento",
-        "description": "Descubra a temperatura, método e tempo de conservação ideais para uvas com base em diretrizes oficiais de segurança.",
-        "authority": "<strong>RDA & USDA & MFDS</strong>",
-        "intro": "Você já guardou uvas frescas na geladeira e viu as bagas se soltarem do cacho, amolecerem ou ficarem cobertas de mofo cinzento? 🍇\n\nA uva tem uma casca muito fina e bagas densamente agrupadas. O excesso de umidade favorece o fungo do bolor cinzento (Botrytis), enquanto o ar seco murcha os cabos e faz as uvas caírem rapidamente. Proteger a camada de cera natural (pruína) e controlar a condensação são os segredos do frescor.\n\nHojes, o FreshSnap apresenta um guia de conservação em 3 etapas baseado em diretrizes do USDA e da RDA para preservar a pruína natural, evitar a queda das bagas e manter suas uvas firmes e doces por mais de 2 semanas. 🛡️",
-        "whyTitle": "Por que armazenar assim? Fatos científicos",
-        "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-        "guideTitle": "Guia de armazenamento comprovado cientificamente",
-        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-        "tags": [
-          "Uva",
-          "Guia de armazenamento comprovado cientificamente",
-          "fruit"
-        ],
-        "cautions": [
-          {
-            "title": "Não empilhe objetos pesados sobre as uvas nem as esmague ⚠️",
-            "desc": "As uvas são facilmente esmagadas sob leve pressão. O suco de bagas estouradas acelera o apodrecimento de todo o cacho. Guarde os cachos em camada única sem nada por cima."
-          },
-          {
-            "title": "Remova bagas danificadas ou moles antes de guardar 🍇",
-            "desc": "Se houver uvas amassadas ou estouradas no cacho, o suco vazado estragará as bagas saudáveis ao redor. Recorte cuidadosamente as uvas danificadas com uma tesoura antes de guardar."
-          }
-        ],
-        "steps": [
-          {
-            "name": "Nunca lave com água antes de guardar — Preserve a pruína natural 🍇",
-            "text": "O pó branco na casca da uva é a 'Pruína' (Bloom), uma cera natural produzida pela fruta para evitar a perda de água e protegê-la contra fungos. Lavar as uvas antes de guardar destrói essa camada e prende umidade. 💡 Dica de conservação: Mantenha-as secas até a hora de comer."
-          },
-          {
-            "name": "Embrulhe cada cacho suavemente em papel-toalha ou jornal — Amortecimento 📰",
-            "text": "Deixar os cachos expostos gera condensação entre as bagas, deixando-as moles. 💡 Dica de conservação: Embrulhe cada cacho seco suavemente em papel-toalha ou papel limpo. O papel absorve o excesso de umidade, evitando mofo entre os frutos."
-          },
-          {
-            "name": "Coloque em sacos perfurados na gaveta de legumes — Refrigeração (14 dias) ❄️",
-            "text": "Guardar uvas em potes herméticos prende dióxido de carbono e umidade. 💡 Dica de conservação: Coloque os cachos embrulhados lado a lado em um saco plástico perfurado na gaveta de legumes (0-2 °C). Isso evita a queda das bagas e mantém a crocância por mais de 2 semanas."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "O pó branco na casca da uva é resíduo de agrotóxico? Devo esfregar para tirar?",
-            "answer": "Não é agrotóxico. O pó branco é a 'Pruína' (Bloom), uma cera vegetal natural secretada pela uva para se proteger do ressecamento. Uma camada uniforme indica uvas muito frescas e doces. Apenas enxágue levemente com água fria antes de comer."
-          },
-          {
-            "question": "Posso congelar uvas para conservação de longo prazo?",
-            "answer": "Sim, as uvas congelam muito bem. Destaque as bagas individuais, lave bem, seque completamente com papel-toalha e guarde em um saco Ziploc no freezer (-18 °C). As uvas congeladas ficam parecendo um sorvete natural delicioso."
-          }
-        ]
-      },
-      "id": {
-        "title": "Cara Menyimpan Anggur agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk anggur berdasarkan pedoman keselamatan resmi.",
-        "authority": "<strong>RDA & USDA & MFDS</strong>",
-        "intro": "Pernahkah Anda menyimpan anggur segar di kulkas lalu mendapati buahnya rontok dari tangkai, menjadi lembek, atau dilapisi jamur abu-abu? 🍇\n\nAnggur memiliki kulit yang sangat tipis dan buahnya tumbuh rapat dalam satu tangkai. Kelembapan berlebih memicu jamur abu-abu (Botrytis) berkembang biak, sedangkan udara kering membuat tangkai layu sehingga buah rontok dengan cepat. Melindungi lapisan lilin alami (bloom) dan mengontrol embun adalah kunci kesegarannya.\n\nHari ini, FreshSnap membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan rekomendasi USDA dan RDA untuk menjaga lapisan bloom alami, mencegah buah rontok, dan menjaga anggur Anda tetap kokoh dan manis selama lebih dari 2 minggu. 🛡️",
-        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-        "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-        "tags": [
-          "Anggur",
-          "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-          "fruit"
-        ],
-        "cautions": [
-          {
-            "title": "Jangan menumpuk barang berat di atas anggur atau meremasnya ⚠️",
-            "desc": "Buah anggur sangat mudah hancur oleh tekanan ringan. Air buah dari anggur yang pecah mempercepat pembusukan di seluruh tangkai. Simpan tangkai anggur dalam satu lapisan tanpa ada benda di atasnya."
-          },
-          {
-            "title": "Buang butiran anggur yang rusak atau lembek sebelum disimpan 🍇",
-            "desc": "Jika ada anggur yang memar atau pecah di dalam tangkai, cairan yang keluar akan merusak anggur sehat di sekitarnya. Potong anggur yang rusak dengan gunting sebelum disimpan."
-          }
-        ],
-        "steps": [
-          {
-            "name": "Jangan dicuci dengan air sebelum disimpan — Jaga Lapisan Bloom Alami 🍇",
-            "text": "Serbuk putih di kulit anggur adalah 'Bloom', yaitu lapisan lilin alami yang dihasilkan buah untuk mencegah dehidrasi dan menahan kuman. Mencuci anggur sebelum disimpan merusak lapisan ini dan memerangkap air, mempercepat pembusukan. 💡 Tips Penyimpanan: Biarkan tetap kering hingga tepat sebelum dimakan."
-          },
-          {
-            "name": "Bungkus setiap tangkai secara lembut dengan tisu dapur — Peredam & Kontrol Kelembapan 📰",
-            "text": "Membiarkan tangkai anggur terbuka menyebabkan kondensasi air di antara buah, membuatnya lembek. 💡 Tips Penyimpanan: Bungkus setiap tangkai anggur yang kering secara lembut dengan tisu dapur atau kertas bersih. Kertas menyerap kelembapan berlebih, mencegah pertumbuhan jamur."
-          },
-          {
-            "name": "Simpan dalam kantong berlubang di laci sayuran — Simpan Dingin (14 Hari) ❄️",
-            "text": "Menyegel anggur dalam wadah kedap udara memerangkap karbondioksida dan kelembapan, menyebabkan pembusukan cepat. 💡 Tips Penyimpanan: Masukkan tangkai yang terbungkus kertas secara berdampingan dalam kantong plastik berlubang di laci sayuran kulkas (0–2°C). Ini mencegah buah rontok dan menjaga kerenyahan selama lebih dari 2 minggu."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Apakah serbuk putih pada kulit anggur adalah sisa pestisida? Haruskah saya menggosoknya hingga bersih?",
-            "answer": "Bukan, itu bukan pestisida. Lapisan putih tersebut adalah 'Bloom', yaitu lilin tumbuhan alami yang dikeluarkan anggur untuk melindungi dirinya dari kekeringan. Lapisan bloom yang merata menandakan anggur segar dan manis. Cukup bilas ringan dengan air dingin tepat sebelum dimakan."
-          },
-          {
-            "question": "Bisakah saya membekukan anggur untuk penyimpanan jangka panjang?",
-            "answer": "Ya, anggur sangat cocok untuk dibekukan. Petik buah anggur satu per satu, cuci hingga bersih, keringkan hingga benar-benar kering dengan tisu dapur, lalu simpan dalam satu lapisan di dalam kantong Ziploc freezer (-18°C). Anggur beku rasanya seperti sorbet buah alami yang lezat."
-          }
-        ]
-      }
+    "how-to-store-grape": {
+        "ingId": "grape",
+        "pubDate": "2026-07-17",
+        "updatedDate": "2026-07-17",
+        "heroImage": "/images/blog/grape_storage_hack.webp",
+        "category": "FreshSnap",
+        "app": "freshsnap",
+        "formatVersion": 4,
+        "locales": {
+            "ko": {
+                "title": "포도 신선하게 보관하는 법: 과학적 보관 가이드",
+                "description": "공인된 안전 가이드라인에 따른 포도의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+                "authority": "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>",
+                "intro": "달콤하고 탐스러운 포도를 사 와서 그대로 냉장고에 넣어두었다가, 알들이 줄줄이 투명하게 떨어지거나 줄기 밑부분에 회색 곰팡이가 슬어 버려본 경험 있으시죠? 🍇\n\n포도는 과피가 매우 얇고 알갱이가 촘촘히 밀집된 과일로, 습도가 너무 높으면 잿빛곰팡이균(Botrytis)이 번식하고 건조하면 줄기가 말라 알 빠짐이 급격히 발생합니다. 특히 표면의 천연 보호막(과분, 블룸)을 지키고 습도를 통제하는 것이 신선도 유지의 핵심 열쇠입니다.\n\n오늘 FreshSnap에서는 농촌진흥청(RDA)과 미국 농무부(USDA)의 가이드를 바탕으로, 포도의 천연 보호막을 보존하고 알 빠짐을 차단하여 2주 이상 탱탱함과 달콤함을 유지하는 3단계 과학적 보관 비법을 전해드립니다. 🛡️",
+                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+                "guideTitle": "과학적으로 검증된 보관 가이드",
+                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+                "tags": [
+                    "포도",
+                    "과학적으로 검증된 보관 가이드",
+                    "fruit"
+                ],
+                "cautions": [
+                    {
+                        "title": "무거운 물건을 위에 얹거나 겹쳐 쌓지 마세요 ⚠️",
+                        "desc": "포도는 미세한 압력에도 과피가 쉽게 터집니다. 과즙이 새어 나오면 주변 포도알까지 부패가 빠르게 번지므로 상단에 물건을 얹지 말고 단독으로 배치해야 합니다."
+                    },
+                    {
+                        "title": "상처 나거나 무른 알은 보관 전 미리 제거하세요 🍇",
+                        "desc": "포도송이 안쪽에 물러지거나 터진 알갱이가 섞여 있으면 유출된 과즙이 주변의 멀쩡한 포도알을 빠르게 부패시킵니다. 보관 전 가위로 상한 알만 오려내어 제거하세요."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "먹기 직전까지 물 세척 절대 금지 — 천연 보호막(블룸) 보존 🍇",
+                        "text": "포도알 표면의 부드러운 하얀 가루는 먼지가 아닌 과실 스스로 분비한 천연 왁스 보호막인 '과분(Bloom)'입니다. 수분 증발을 막고 미생물 침입을 차단하므로, 보관 전에 물로 씻으면 과분이 손상되고 물기가 갇혀 부패가 빨라집니다. 💡 보관 팁: 씻지 않은 상태 그대로 보관하는 것이 신선도 유지의 기본입니다."
+                    },
+                    {
+                        "name": "한 송이씩 키친타월이나 신문지로 감싸기 — 완충 및 수분 조절 📰",
+                        "text": "포도송이를 그대로 두면 과실 호흡과 수분 결로로 인해 내부 알갱이가 물러집니다. 💡 보관 팁: 물기가 없는 포도송이를 키친타월이나 신문지로 한 송이씩 부드럽게 감싸주세요. 종이가 미세 결로나 습기를 흡수하여 포도알 사이의 수분 정체로 인한 곰팡이 번식을 원천 차단합니다."
+                    },
+                    {
+                        "name": "숨구멍이 있는 비닐백에 담아 야채칸에 보관하기 — 냉장 보관 (14일) ❄️",
+                        "text": "포도를 밀폐 용기에 꽉 가두면 이산화탄소와 습기가 차서 썩기 쉽습니다. 💡 보관 팁: 종이로 포장한 송이들을 구멍이 살짝 뚫린 비닐백이나 플라스틱 팩에 담아 겹치지 않게 나란히 눕혀 냉장고 야채실(0~2℃)에 보관하세요. 알 빠짐을 막고 2주 이상 신선하게 유지할 수 있습니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "포도 표면의 하얀 가루는 농약인가요? 씻어내야 하나요?",
+                        "answer": "아닙니다. 하얀 가루는 포도가 스스로를 보호하고 수분 증발을 막기 위해 분비하는 천연 식물성 왁스 성분인 '과분(Bloom)'입니다. 농약이 아니며 과분이 고르게 깔려 있을수록 신선하고 당도가 높은 좋은 포도입니다. 섭취 직전 흐르는 물에 가볍게 씻어 드시면 됩니다."
+                    },
+                    {
+                        "question": "포도를 오래 보관하기 위해 냉동 보관해도 되나요?",
+                        "answer": "네, 포도는 냉동 보관에 매우 잘 어울리는 과일입니다. 포도알만 하나씩 떼어내어 물에 깨끗이 씻은 후 물기를 완벽히 제거하고, 냉동용 지퍼백에 담아 냉동(-18℃ 이하) 보관하면 천연 포도 셔벗처럼 즐기실 수 있습니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "How to Keep Grapes Fresh: Scientific Storage Guide",
+                "description": "Check the optimal storage temperature, method, and shelf life for grapes based on official safety guidelines.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Have you ever stored fresh grapes in the refrigerator only to find them dropping off the stem, turning mushy, or covered in gray mold? 🍇\n\nGrapes have very thin skins and are densely packed along the cluster stem. Excessive humidity causes gray mold fungus (Botrytis) to thrive, while dry conditions wither the stems, causing berries to drop rapidly. Protecting their natural wax layer (bloom) and controlling moisture are the keys to freshness.\n\nToday, FreshSnap shares a scientifically proven 3-step storage guide based on guidelines from the USDA and RDA to preserve the natural bloom, prevent berry drop, and keep your grapes firm and sweet for over 2 weeks. 🛡️",
+                "whyTitle": "Why Store Grapes This Way? Scientific Facts",
+                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+                "guideTitle": "Scientifically Proven Storage Guide",
+                "cautionTitle": "Essential Storage Rules and Cautions",
+                "tags": [
+                    "Grape",
+                    "Scientifically Proven Storage Guide",
+                    "fruit"
+                ],
+                "cautions": [
+                    {
+                        "title": "Do not stack heavy items on top or crush bunches ⚠️",
+                        "desc": "Grapes are easily crushed under light pressure. Leaking juice from burst grapes accelerates rot across the entire cluster. Store bunches in a single layer without anything placed on top."
+                    },
+                    {
+                        "title": "Remove damaged or squishy grapes before storage 🍇",
+                        "desc": "If bruised or burst grapes remain within the cluster, the leaking juice will quickly spoil neighboring healthy berries. Carefully trim away damaged grapes with scissors before storing."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Never wash with water before storage — Preserve Natural Bloom 🍇",
+                        "text": "The fine white powder coating grape skins is 'Bloom', a natural epicuticular wax produced by the fruit. It prevents water loss and protects against pathogens. Washing grapes before storage damages this layer and traps water, accelerating rot. 💡 Storage Tip: Keep them dry until right before eating."
+                    },
+                    {
+                        "name": "Wrap each bunch gently in paper towels or paper — Cushioning & Moisture Control 📰",
+                        "text": "Storing bare grape clusters leads to moisture condensation between berries, making them squishy. 💡 Storage Tip: Wrap each dry grape bunch gently in paper towels or clean paper. The paper absorbs excess humidity, preventing mold caused by trapped water between berries."
+                    },
+                    {
+                        "name": "Place in perforated bags and store in the crisper — Cold Storage (14 Days) ❄️",
+                        "text": "Sealing grapes in airtight containers traps moisture and carbon dioxide, causing rapid decay. 💡 Storage Tip: Place paper-wrapped bunches side-by-side in a perforated plastic bag or open plastic clamshell, and store in the refrigerator crisper drawer (0–2°C / 32–36°F). This prevents berry drop and preserves crispness for over 2 weeks."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Is the white powder on grape skins pesticide residue? Should I scrub it off?",
+                        "answer": "No, it is not pesticide residue. The white coating is 'Bloom', a natural plant wax secreted by the grape to protect itself and prevent moisture loss. An even coating of bloom indicates fresh, sweet grapes. Simply rinse them gently under cold water right before eating."
+                    },
+                    {
+                        "question": "Can I freeze grapes for long-term storage?",
+                        "answer": "Yes, grapes freeze exceptionally well. Pluck individual berries, wash them thoroughly, pat them completely dry, and store them in a single layer inside a freezer Ziploc bag (-18°C or below). Frozen grapes make a delicious, healthy natural sorbet snack."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "ぶどうを新鮮に保つ保存方法：科学的保管ガイド",
+                "description": "公的安全基準に基づくぶどうの最適な保存温度、保管方法、保存期間をご確認ください。",
+                "authority": "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>",
+                "intro": "甘くみずみずしいぶどうを買って冷蔵庫に入れておいたら、実がポロポロ落ちたり、軸の周りにカビが生えて捨ててしまった経験はありませんか？🍇\n\nぶどうは皮が非常に薄く実が密集している果物で、湿度が高すぎると灰色カビ病菌が繁殖し、乾燥すると軸が枯れて実落ちが急激に進みます。表面の天然保護膜（ブルーム）を守り、過度な湿気をコントロールすることが鮮度維持の鍵です。\n\n本日FreshSnapでは、農村振興庁（RDA）および米国農務省（USDA）のガイドラインに基づき、ぶどうの天然保護膜を保護し、実落ちを防いで2週間以上ハリと甘みを保つ3段階の科学的保存法をご紹介します。🛡️",
+                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+                "guideTitle": "科学的に検証された保存ガイド",
+                "cautionTitle": "保存時の必須ルールと注意事項",
+                "tags": [
+                    "ぶどう",
+                    "科学的に検証された保存ガイド",
+                    "fruit"
+                ],
+                "cautions": [
+                    {
+                        "title": "上に重いものを載せたり重ねて置かないでください ⚠️",
+                        "desc": "ぶどうはわずかな圧力でも簡単に潰れます。ジュースが漏れ出すと周囲の果実まで傷みが早まるため、上には物を載せず単独で配置してください。"
+                    },
+                    {
+                        "title": "傷んだり潰れた日は保存前に取り除いてください 🍇",
+                        "desc": "房の中に潰れた実や傷んだ実が残っていると、漏れ出た果汁が周囲の健全な実を急速に腐らせます。保存前にハサミで傷んだ実だけを切り落としてください。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "食べる直前まで絶対に水洗いしない — 天然ブルームの保護 🍇",
+                        "text": "ぶどうの表面を覆う白い粉は汚れではなく、果実自ら分泌した天然のワックス保護膜「ブルーム（Bloom）」です。水分蒸発を防ぎ病原菌の侵入を遮断するため、保存前に洗うと保護膜が落ち、水気がこもって傷みやすくなります。💡保存のコツ：水気をつけずそのまま保存するのが基本です。"
+                    },
+                    {
+                        "name": "1房ずつキッチンペーパーや新聞紙でふんわり包む — 緩衝と湿度調整 📰",
+                        "text": "ぶどうをそのまま置くと呼吸による結露で実の間が蒸れ、柔らかくなってしまいます。💡保存のコツ：乾いたぶどうを1房ずつキッチンペーパーや新聞紙で優しく包んでください。紙が結露や湿気を吸収し、実と実の間に水気が溜まってカビが生えるのを防ぎます。"
+                    },
+                    {
+                        "name": "穴あきポリ袋に入れて野菜室で保存する — 冷蔵保存 (14日間) ❄️",
+                        "text": "ぶどうを密閉容器に閉じ込めると二酸化炭素と湿気がこもり腐りやすくなります。💡保存のコツ：紙で包んだ房を穴の開いたポリ袋やプラケースに入れ、重ならないよう横に並べて冷蔵庫の野菜室・チルド室（0〜2℃）で保存してください。実落ちを防ぎ2週間以上新鮮さを保てます。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "ぶどうの表面の白い粉は農薬ですか？洗い流すべきですか？",
+                        "answer": "いいえ、農薬ではありません。白い粉はぶどうが身を守り水分蒸発を防ぐために分泌する天然のワックス成分「ブルーム（Bloom）」です。農薬ではなく、ブルームがまんべんなくついているものほど新鮮で甘みが強い良いぶどうです。食べる直前に水で軽く洗い流してお召し上がりください。"
+                    },
+                    {
+                        "question": "ぶどうを長期保存するために冷凍保存してもいいですか？",
+                        "answer": "はい、ぶどうは冷凍保存に非常に適した果物です。実を1粒ずつ房から外し、水できれいに洗って水分を完全に拭き取ってから、冷凍用ジッパーバッグに入れて冷凍（-18℃以下）すれば、天然のシャーベットとして美味しくお召し上がりいただけます。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "如何保持葡萄新鲜：科学储存指南",
+                "description": "根据官方食品安全指南，了解葡萄的最佳储存温度、方式和保鲜时长。",
+                "authority": "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "intro": "您是否曾买回鲜甜诱人的葡萄直接放入冰箱，结果过几天发现果粒纷纷脱落、发软，甚至梗部发霉？🍇\n\n葡萄是果皮极薄且果粒紧密簇拥的水果。环境湿度过高极易滋生灰霉病菌（Botrytis），而过于干燥则会导致果梗干枯、严重落粒。保护其表面的天然果粉（Bloom）并控制结露，是延长保鲜期的关键。\n\n今天FreshSnap基于韩国农村振兴厅(RDA)和美国农务部(USDA)的指南，为您带来3步科学保存秘诀，帮您保护天然果粉、防止落粒，保持葡萄紧致饱满达2周以上。🛡️",
+                "whyTitle": "为什么要这样储存？科学原理",
+                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+                "guideTitle": "科学验证的储存指南",
+                "cautionTitle": "储存必需规则及注意事项",
+                "tags": [
+                    "葡萄",
+                    "科学验证的储存指南",
+                    "fruit"
+                ],
+                "cautions": [
+                    {
+                        "title": "切勿在上方堆放重物或挤压葡萄 ⚠️",
+                        "desc": "葡萄果皮极其娇嫩，轻微受压即可破裂。流出的果汁会迅速引发周边果粒腐烂，因此切勿在上方堆放其他物品，须单层平铺放置。"
+                    },
+                    {
+                        "title": "储存前请提前剔除受损或变软的果粒 🍇",
+                        "desc": "如果葡萄串中混有破损或腐烂的果粒，渗出的果汁会加速周围完好果粒的变质。储存前请务必用剪刀小心剪除坏果。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "食用前严禁用水冲洗 — 保护天然果粉(Bloom) 🍇",
+                        "text": "葡萄表面的白霜并非灰尘或农药，而是果实自身分泌的天然植物蜡保护膜“果粉（Bloom）”。它能防止水分蒸发并抵御病菌。储存前洗水会破坏果粉且积聚水汽，加速腐烂。💡储存小贴士：保持干燥原状是保鲜的基础。"
+                    },
+                    {
+                        "name": "按串用厨房纸巾或报纸轻裹 — 缓冲与湿度调节 📰",
+                        "text": "葡萄直接放置会因果实呼吸产生的结露而导致果粒间积水发软。💡储存小贴士：用厨房纸巾或报纸将干燥的葡萄逐串轻柔包裹。纸张能吸收微小结露与湿气，从源头上阻断霉菌滋生。"
+                    },
+                    {
+                        "name": "装入带孔保鲜袋放入蔬菜保鲜抽屉 — 冷藏保存 (14天) ❄️",
+                        "text": "将葡萄密封在无孔容器中会导致二氧化碳和湿气积聚，引发腐烂。💡储存小贴士：将包好的葡萄装入带透气孔的保鲜袋或塑料盒中，单层平放于冰箱蔬菜保鲜抽屉（0~2℃）。这能防止落粒并保持清脆达14天以上。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "葡萄表面的白霜是农药残留吗？需要洗掉吗？",
+                        "answer": "不是农药。白霜是葡萄为了保护自身和防止水分蒸发而分泌的天然植物蜡“果粉（Bloom）”。果粉分布越均匀完整，代表葡萄越新鲜、甜度越高。食用前用流动水轻轻冲洗即可，无需刻意搓洗。"
+                    },
+                    {
+                        "question": "葡萄可以冷冻长期保存吗？",
+                        "answer": "完全可以。葡萄非常适合冷冻保存。将葡萄粒单颗剪下，用清水洗净后彻底擦干水分，装入冷冻拉链袋中放入冷冻室（-18℃以下）。冷冻后的葡萄口感如同天然水果冰沙，非常美味。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cómo mantener las uvas frescas: Guía científica de conservación",
+                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para las uvas según las directrices oficiales de seguridad.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "¿Alguna vez guardó uvas frescas en el refrigerador solo para descubrir que se desprendían del racimo, se ponían blandas o se cubrían de moho gris? 🍇\n\nLas uvas tienen una piel muy delgada y sus granos están densamente agrupados. La humedad excesiva favorece la aparición del hongo del moho gris (Botrytis), mientras que la sequedad marchita el pedúnculo provocando la caída de los frutos. Proteger su capa de cera natural (pruina) y controlar la condensación son las claves para la frescura.\n\nHoy, FreshSnap comparte una guía científica en 3 pasos basada en las pautas del USDA y la RDA para preservar la pruina natural, evitar la caída de los granos y mantener sus uvas firmes y dulces por más de 2 semanas. 🛡️",
+                "whyTitle": "¿Por qué almacenarlas así? Datos científicos",
+                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+                "guideTitle": "Guía de almacenamiento científicamente probada",
+                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+                "tags": [
+                    "Uva",
+                    "Guía de almacenamiento científicamente probada",
+                    "fruit"
+                ],
+                "cautions": [
+                    {
+                        "title": "No apile objetos pesados sobre las uvas ni las aplaste ⚠️",
+                        "desc": "Las uvas se aplastan fácilmente con poca presión. El jugo derramado de frutos rotos acelera la pudrición en todo el racimo. Conserve los racimos en una sola capa sin nada encima."
+                    },
+                    {
+                        "title": "Retire las uvas dañadas o blandas antes del almacenamiento 🍇",
+                        "desc": "Si quedan uvas magulladas o reventadas dentro del racimo, el líquido liberado echará a perder las uvas sanas vecinas. Recorte con tijeras las uvas dañadas antes de guardar."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Nunca las lave con agua antes de almacenarlas — Conserve la pruina natural 🍇",
+                        "text": "El polvo blanco que cubre la piel de la uva es la 'Pruina' (Bloom), una cera natural secretada por la fruta que evita la pérdida de agua y la protege contra bacterias. Lavarlas elimina esta capa y atrapa humedad, acelerando la descomposición. 💡 Consejo de almacenamiento: Manténgalas secas hasta justo antes de comer."
+                    },
+                    {
+                        "name": "Envuelva cada racimo suavemente en toallas de papel o periódico — Amortiguación 📰",
+                        "text": "Guardar los racimos descubiertos causa condensación entre los granos, ablandándolos. 💡 Consejo de almacenamiento: Envuelva cada racimo seco suavemente en papel de cocina o papel limpio. El papel absorbe el exceso de humedad evitando el desarrollo de moho."
+                    },
+                    {
+                        "name": "Coloque en bolsas perforadas en el cajón de verduras — Refrigeración (14 días) ❄️",
+                        "text": "Sellar uvas en recipientes herméticos atrapa dióxido de carbono y humedad. 💡 Consejo de almacenamiento: Coloque los racimos envueltos en papel en una bolsa de plástico perforada y acomódelos uno al lado del otro en el cajón de verduras (0-2 °C). Esto evita la caída de uvas y mantiene su firmeza por 2 semanas."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿El polvo blanco de las uvas es residuo de pesticida? ¿Debo frotarlo para quitarlo?",
+                        "answer": "No es pesticida. El polvillo blanco es 'Pruina' (Bloom), una cera vegetal natural secretada por la uva para protegerse de la deshidratación. Una capa uniforme indica que la uva está muy fresca y dulce. Simplemente enjuáguelas suavemente con agua fría justo antes de consumirlas."
+                    },
+                    {
+                        "question": "¿Puedo congelar uvas para conservarlas a largo plazo?",
+                        "answer": "Sí, las uvas se congelan excelentemente. Desprenda los granos individuales, lávelos bien, séquelos por completo con papel de cocina y guárdelos en una bolsa Ziploc para congelador (-18 °C). Las uvas congeladas son un delicioso granizado natural."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Comment conserver les raisins frais : Guide scientifique de conservation",
+                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les raisins selon les directives officielles de sécurité.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Avez-vous déjà conservé des raisins frais au réfrigérateur pour les retrouver détachés de la grappe, ramollis ou couverts de moisissure grise ? 🍇\n\nLe raisin a une peau très fine et des baies denses. Un excès d'humidité favorise le développement de la moisissure grise (Botrytis), tandis qu'un air trop sec flétrit les rafles et provoque la chute rapide des grains. Préserver la pellicule de cire naturelle (pruine) et contrôler la condensation sont les clés de la fraîcheur.\n\nAujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du USDA et du RDA pour préserver la pruine naturelle, éviter la chute des baies et garder vos raisins fermes et sucrés pendant plus de 2 semaines. 🛡️",
+                "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
+                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+                "guideTitle": "Guide de conservation scientifiquement prouvé",
+                "cautionTitle": "Règles essentielles et précautions de stockage",
+                "tags": [
+                    "Raisin",
+                    "Guide de conservation scientifiquement prouvé",
+                    "fruit"
+                ],
+                "cautions": [
+                    {
+                        "title": "Ne posez aucun objet lourd sur les raisins et ne les écrasez pas ⚠️",
+                        "desc": "Les raisins s'écrasent facilement. Le jus d'un grain éclaté accélère la pourriture de toute la grappe. Conservez les grappes à plat sur une seule couche sans rien poser dessus."
+                    },
+                    {
+                        "title": "Retirez les grains de raisin abîmés avant le stockage 🍇",
+                        "desc": "Si des grains écrasés ou moisis restent sur la grappe, leur jus gâtera rapidement les grains sains voisins. Coupez soigneusement les grains abîmés avec des ciseaux avant de stocker."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Ne lavez jamais à l'eau avant le stockage — Préserver la pruine naturelle 🍇",
+                        "text": "Le fin voile blanc qui recouvre le raisin est la 'Pruine' (Bloom), une cire naturelle sécrétée par le fruit. Elle protège de la déshydratation et des germes. Laver le raisin avant le stockage détruit ce bouclier et piège l'eau. 💡 Astuce de conservation : Gardez-les secs jusqu'au moment de déguster."
+                    },
+                    {
+                        "name": "Envelopper chaque grappe délicatement dans du papier — Contrôle de l'humidité 📰",
+                        "text": "Laisser les grappes à nu provoque de la condensation entre les baies, les rendant molles. 💡 Astuce de conservation : Enveloppez chaque grappe sèche dans du papier absorbant ou du papier propre. Le papier absorbe l'excès d'humidité et empêche la moisissure."
+                    },
+                    {
+                        "name": "Placer dans un sac perforé au bac à légumes — Stockage réfrigéré (14 jours) ❄️",
+                        "text": "Enfermer les raisins hermétiquement piège le dioxyde de carbone et l'humidité, hâtant le pourrissement. 💡 Astuce de conservation : Rangez les grappes enveloppées côte à côte dans un sac perforé au bac à légumes (0-2 °C). Cela évite la chute des grains et préserve la fermeté pendant 2 semaines."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "La poudre blanche sur le raisin est-elle du pesticide ? Faut-il la frotter ?",
+                        "answer": "Non, ce n'est pas du pesticide. Ce voile blanc est la 'Pruine' (Bloom), une cire végétale naturelle produite par le fruit pour se protéger du dessèchement. Une pruine bien visible garantit un raisin frais et sucré. Il suffit de les rincer doucement à l'eau froide juste avant de manger."
+                    },
+                    {
+                        "question": "Puis-je congeler le raisin pour une longue conservation ?",
+                        "answer": "Oui, le raisin se congèle très bien. Égrappez les baies, lavez-les soigneusement, séchez-les complètement avec du papier absorbant et placez-les à plat dans un sac congélation Ziploc (-18 °C). Les raisins congelés se dégustent comme un sorbet naturel."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Weintrauben richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Weintrauben basierend auf offiziellen Sicherheitsrichtlinien.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Haben Sie schon einmal frische Weintrauben im Kühlschrank gelagert, nur um festzustellen, dass die Beeren vom Stängel fielen, matschig wurden oder Grauschimmel ansetzten? 🍇\n\nWeintrauben haben eine sehr dünne Schale und sitzen dicht aneinander. Zu hohe Feuchtigkeit lässt Grauschimmel (Botrytis) sprießen, während Trockenheit die Stängel welken lässt und Beerenabfall verursacht. Der Schutz der natürlichen Wachsschicht (Pruina) und die Kontrolle von Kondenswasser sind der Schlüssel zur Frische.\n\nHeute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Richtlinien von USDA und RDA basiert, um die Pruina zu erhalten, Beerenabfall zu verhindern und Ihre Trauben über 2 Wochen lang knackig und süß zu halten. 🛡️",
+                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+                "tags": [
+                    "Weintraube",
+                    "Wissenschaftlich geprüfter Lagerungsratgeber",
+                    "fruit"
+                ],
+                "cautions": [
+                    {
+                        "title": "Legen Sie keine schweren Gegenstände auf die Trauben ⚠️",
+                        "desc": "Trauben werden schon bei leichtem Druck zerquetscht. Austretender Saft geplatzter Beeren beschleunigt den Verderb der gesamten Traube. Lagern Sie Trauben nebeneinander in einer Schicht."
+                    },
+                    {
+                        "title": "Beschädigte oder weiche Beeren vor der Lagerung entfernen 🍇",
+                        "desc": "Wenn gequetschte oder faulige Beeren in der Traube verbleiben, lässt der austretende Saft benachbarte Beeren rasch faulen. Schneiden Sie beschädigte Beeren vor dem Einlagern mit einer Schere ab."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Vor der Lagerung niemals mit Wasser waschen — Natürliche Pruina schützen 🍇",
+                        "text": "Der feine weiße Belag auf den Trauben ist die 'Pruina' (Bloom), ein natürliches Wachs der Frucht. Sie schützt vor Austrocknung und Erregern. Das Waschen zerstört diese Schicht und schließt Wasser ein. 💡 Lagerungstipp: Bis kurz vor dem Essen trocken halten."
+                    },
+                    {
+                        "name": "Jede Traube sanft in Küchenpapier oder Papier einwickeln — Feuchtigkeitsbalance 📰",
+                        "text": "Frei liegende Trauben bilden durch die Fruchtatmung Kondenswasser zwischen den Beeren, was sie weich macht. 💡 Lagerungstipp: Wickeln Sie jede trockene Traube sanft in Küchenpapier ein. Das Papier nimmt Feuchtigkeit auf und schützt vor Schimmel."
+                    },
+                    {
+                        "name": "In gelochten Beuteln im Gemüsefach lagern — Kühllagerung (14 Tage) ❄️",
+                        "text": "Das luftdichte Verschließen von Trauben staut Kohlendioxid und Feuchtigkeit, was schnellen Verderb verursacht. 💡 Lagerungstipp: Legen Sie die eingewickelten Trauben nebeneinander in einen gelochten Plastikbeutel ins Gemüsefach (0–2 °C). So bleiben sie über 2 Wochen knackig."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Ist der weiße Belag auf den Trauben ein Pestizidrückstand? Sollte man ihn abwaschen?",
+                        "answer": "Nein, das ist kein Pestizid. Der weiße Belag ist 'Pruina' (Bloom), ein natürliches Pflanzenwachs, das die Traube vor dem Austrocknen schützt. Eine gleichmäßige Pruina zeigt frische, süße Trauben an. Spülen Sie die Beeren erst kurz vor dem Verzehr leicht mit kaltem Wasser ab."
+                    },
+                    {
+                        "question": "Kann man Weintrauben einfrieren, um sie lange zu lagern?",
+                        "answer": "Ja, Trauben lassen sich hervorragend einfrieren. Zupfen Sie die Beeren ab, waschen Sie sie gründlich, tupfen Sie sie mit Küchenpapier vollkommen trocken und frieren Sie sie im Ziploc-Beutel bei -18 °C ein. Gefrorene Trauben schmecken wie ein natürliches Fruchtsorbet."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Como conservar uvas frescas: Guia científico de armazenamento",
+                "description": "Descubra a temperatura, método e tempo de conservação ideais para uvas com base em diretrizes oficiais de segurança.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Você já guardou uvas frescas na geladeira e viu as bagas se soltarem do cacho, amolecerem ou ficarem cobertas de mofo cinzento? 🍇\n\nA uva tem uma casca muito fina e bagas densamente agrupadas. O excesso de umidade favorece o fungo do bolor cinzento (Botrytis), enquanto o ar seco murcha os cabos e faz as uvas caírem rapidamente. Proteger a camada de cera natural (pruína) e controlar a condensação são os segredos do frescor.\n\nHojes, o FreshSnap apresenta um guia de conservação em 3 etapas baseado em diretrizes do USDA e da RDA para preservar a pruína natural, evitar a queda das bagas e manter suas uvas firmes e doces por mais de 2 semanas. 🛡️",
+                "whyTitle": "Por que armazenar assim? Fatos científicos",
+                "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+                "guideTitle": "Guia de armazenamento comprovado cientificamente",
+                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+                "tags": [
+                    "Uva",
+                    "Guia de armazenamento comprovado cientificamente",
+                    "fruit"
+                ],
+                "cautions": [
+                    {
+                        "title": "Não empilhe objetos pesados sobre as uvas nem as esmague ⚠️",
+                        "desc": "As uvas são facilmente esmagadas sob leve pressão. O suco de bagas estouradas acelera o apodrecimento de todo o cacho. Guarde os cachos em camada única sem nada por cima."
+                    },
+                    {
+                        "title": "Remova bagas danificadas ou moles antes de guardar 🍇",
+                        "desc": "Se houver uvas amassadas ou estouradas no cacho, o suco vazado estragará as bagas saudáveis ao redor. Recorte cuidadosamente as uvas danificadas com uma tesoura antes de guardar."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Nunca lave com água antes de guardar — Preserve a pruína natural 🍇",
+                        "text": "O pó branco na casca da uva é a 'Pruína' (Bloom), uma cera natural produzida pela fruta para evitar a perda de água e protegê-la contra fungos. Lavar as uvas antes de guardar destrói essa camada e prende umidade. 💡 Dica de conservação: Mantenha-as secas até a hora de comer."
+                    },
+                    {
+                        "name": "Embrulhe cada cacho suavemente em papel-toalha ou jornal — Amortecimento 📰",
+                        "text": "Deixar os cachos expostos gera condensação entre as bagas, deixando-as moles. 💡 Dica de conservação: Embrulhe cada cacho seco suavemente em papel-toalha ou papel limpo. O papel absorve o excesso de umidade, evitando mofo entre os frutos."
+                    },
+                    {
+                        "name": "Coloque em sacos perfurados na gaveta de legumes — Refrigeração (14 dias) ❄️",
+                        "text": "Guardar uvas em potes herméticos prende dióxido de carbono e umidade. 💡 Dica de conservação: Coloque os cachos embrulhados lado a lado em um saco plástico perfurado na gaveta de legumes (0-2 °C). Isso evita a queda das bagas e mantém a crocância por mais de 2 semanas."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "O pó branco na casca da uva é resíduo de agrotóxico? Devo esfregar para tirar?",
+                        "answer": "Não é agrotóxico. O pó branco é a 'Pruína' (Bloom), uma cera vegetal natural secretada pela uva para se proteger do ressecamento. Uma camada uniforme indica uvas muito frescas e doces. Apenas enxágue levemente com água fria antes de comer."
+                    },
+                    {
+                        "question": "Posso congelar uvas para conservação de longo prazo?",
+                        "answer": "Sim, as uvas congelam muito bem. Destaque as bagas individuais, lave bem, seque completamente com papel-toalha e guarde em um saco Ziploc no freezer (-18 °C). As uvas congeladas ficam parecendo um sorvete natural delicioso."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Cara Menyimpan Anggur agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk anggur berdasarkan pedoman keselamatan resmi.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Pernahkah Anda menyimpan anggur segar di kulkas lalu mendapati buahnya rontok dari tangkai, menjadi lembek, atau dilapisi jamur abu-abu? 🍇\n\nAnggur memiliki kulit yang sangat tipis dan buahnya tumbuh rapat dalam satu tangkai. Kelembapan berlebih memicu jamur abu-abu (Botrytis) berkembang biak, sedangkan udara kering membuat tangkai layu sehingga buah rontok dengan cepat. Melindungi lapisan lilin alami (bloom) dan mengontrol embun adalah kunci kesegarannya.\n\nHari ini, FreshSnap membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan rekomendasi USDA dan RDA untuk menjaga lapisan bloom alami, mencegah buah rontok, dan menjaga anggur Anda tetap kokoh dan manis selama lebih dari 2 minggu. 🛡️",
+                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+                "tags": [
+                    "Anggur",
+                    "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                    "fruit"
+                ],
+                "cautions": [
+                    {
+                        "title": "Jangan menumpuk barang berat di atas anggur atau meremasnya ⚠️",
+                        "desc": "Buah anggur sangat mudah hancur oleh tekanan ringan. Air buah dari anggur yang pecah mempercepat pembusukan di seluruh tangkai. Simpan tangkai anggur dalam satu lapisan tanpa ada benda di atasnya."
+                    },
+                    {
+                        "title": "Buang butiran anggur yang rusak atau lembek sebelum disimpan 🍇",
+                        "desc": "Jika ada anggur yang memar atau pecah di dalam tangkai, cairan yang keluar akan merusak anggur sehat di sekitarnya. Potong anggur yang rusak dengan gunting sebelum disimpan."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Jangan dicuci dengan air sebelum disimpan — Jaga Lapisan Bloom Alami 🍇",
+                        "text": "Serbuk putih di kulit anggur adalah 'Bloom', yaitu lapisan lilin alami yang dihasilkan buah untuk mencegah dehidrasi dan menahan kuman. Mencuci anggur sebelum disimpan merusak lapisan ini dan memerangkap air, mempercepat pembusukan. 💡 Tips Penyimpanan: Biarkan tetap kering hingga tepat sebelum dimakan."
+                    },
+                    {
+                        "name": "Bungkus setiap tangkai secara lembut dengan tisu dapur — Peredam & Kontrol Kelembapan 📰",
+                        "text": "Membiarkan tangkai anggur terbuka menyebabkan kondensasi air di antara buah, membuatnya lembek. 💡 Tips Penyimpanan: Bungkus setiap tangkai anggur yang kering secara lembut dengan tisu dapur atau kertas bersih. Kertas menyerap kelembapan berlebih, mencegah pertumbuhan jamur."
+                    },
+                    {
+                        "name": "Simpan dalam kantong berlubang di laci sayuran — Simpan Dingin (14 Hari) ❄️",
+                        "text": "Menyegel anggur dalam wadah kedap udara memerangkap karbondioksida dan kelembapan, menyebabkan pembusukan cepat. 💡 Tips Penyimpanan: Masukkan tangkai yang terbungkus kertas secara berdampingan dalam kantong plastik berlubang di laci sayuran kulkas (0–2°C). Ini mencegah buah rontok dan menjaga kerenyahan selama lebih dari 2 minggu."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Apakah serbuk putih pada kulit anggur adalah sisa pestisida? Haruskah saya menggosoknya hingga bersih?",
+                        "answer": "Bukan, itu bukan pestisida. Lapisan putih tersebut adalah 'Bloom', yaitu lilin tumbuhan alami yang dikeluarkan anggur untuk melindungi dirinya dari kekeringan. Lapisan bloom yang merata menandakan anggur segar dan manis. Cukup bilas ringan dengan air dingin tepat sebelum dimakan."
+                    },
+                    {
+                        "question": "Bisakah saya membekukan anggur untuk penyimpanan jangka panjang?",
+                        "answer": "Ya, anggur sangat cocok untuk dibekukan. Petik buah anggur satu per satu, cuci hingga bersih, keringkan hingga benar-benar kering dengan tisu dapur, lalu simpan dalam satu lapisan di dalam kantong Ziploc freezer (-18°C). Anggur beku rasanya seperti sorbet buah alami yang lezat."
+                    }
+                ]
+            }
+        }
     }
-  }
 }

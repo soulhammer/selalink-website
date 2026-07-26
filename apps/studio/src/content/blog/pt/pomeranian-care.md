@@ -6,7 +6,7 @@ pubDate: "2026-01-05"
 updatedDate: "2026-01-05"
 category: "FreshSelf"
 tags: ["CuidadoPets","SaudePets","Spitz Alemão / Lulu da Pomerânia (Canis lupus familiaris)"]
-heroImage: "/images/blog/pomeranian_care.png"
+heroImage: "/images/blog/pomeranian_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Guia Oficial de Raças do American Pomeranian Club e Manual Veterinário da AVMA"

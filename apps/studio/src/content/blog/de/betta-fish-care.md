@@ -6,7 +6,7 @@ pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
 category: "FreshSelf"
 tags: ["Haustierpflege","Haustiergesundheit","Siamesischer Kampffisch (Betta splendens)"]
-heroImage: "/images/blog/betta_fish_care.png"
+heroImage: "/images/blog/betta_fish_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Richtlinien der World Small Animal Veterinary Association (WSAVA) für Aquatiere und klinische Standards für Zierfische"

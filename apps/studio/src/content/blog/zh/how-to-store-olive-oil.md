@@ -6,7 +6,7 @@ pubDate: "2026-05-24"
 updatedDate: "2026-05-24"
 category: "FreshSnap"
 tags: ["食材保存","保鲜技巧","olive-oil"]
-heroImage: "/images/blog/olive_oil_storage_hack.png"
+heroImage: "/images/blog/olive_oil_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>国际橄榄理事会(IOC) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>"

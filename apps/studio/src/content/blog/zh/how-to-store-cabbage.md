@@ -6,7 +6,7 @@ pubDate: "2026-04-20"
 updatedDate: "2026-04-20"
 category: "FreshSnap"
 tags: ["食材保存","保鲜技巧","cabbage"]
-heroImage: "/images/blog/cabbage_storage_hack.png"
+heroImage: "/images/blog/cabbage_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>韩国农村振兴厅(RDA) & EFSA & FSA</strong>"

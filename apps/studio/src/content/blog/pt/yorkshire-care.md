@@ -6,7 +6,7 @@ pubDate: "2026-01-02"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
 tags: ["CuidadoPets","SaudePets","Yorkshire Terrier"]
-heroImage: "/images/blog/yorkshire_care.png"
+heroImage: "/images/blog/yorkshire_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Guia oficial de estética do Yorkshire Terrier Club (YTC) e diretrizes de ortopedia veterinária"

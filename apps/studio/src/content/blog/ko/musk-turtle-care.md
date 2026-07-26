@@ -6,7 +6,7 @@ pubDate: "2026-04-03"
 updatedDate: "2026-04-03"
 category: "FreshSelf"
 tags: ["반려동물","펫케어","커먼 머스크 터틀 (Sternotherus odoratus / Common Musk Turtle)"]
-heroImage: "/images/blog/musk_turtle_care.png"
+heroImage: "/images/blog/musk_turtle_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "World Chelonian Association 거북이 위생 가이드 및 반수생 거북 사육 수의 지침"

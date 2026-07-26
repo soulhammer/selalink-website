@@ -6,7 +6,7 @@ pubDate: "2026-04-07"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
 tags: ["CuidadoPets","SaudePets","Angorá Turco (Turkish Angora)"]
-heroImage: "/images/blog/turkish_angora_care.png"
+heroImage: "/images/blog/turkish_angora_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Conselho de Raça do Angorá Turco da CFA e estudos veterinários de surdez felina"

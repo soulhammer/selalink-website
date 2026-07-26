@@ -6,7 +6,7 @@ pubDate: "2026-03-26"
 updatedDate: "2026-03-26"
 category: "FreshSelf"
 tags: ["宠物护理","宠物健康","俄罗斯蓝猫 (Felis catus / Russian Blue)"]
-heroImage: "/images/blog/russian_blue_care.png"
+heroImage: "/images/blog/russian_blue_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "爱猫者协会 (CFA) 品种标准与康奈尔猫科健康中心指南"

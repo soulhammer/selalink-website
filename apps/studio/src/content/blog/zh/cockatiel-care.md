@@ -6,7 +6,7 @@ pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "FreshSelf"
 tags: ["宠物护理","宠物健康","玄凤鹦鹉 (Nymphicus hollandicus / Cockatiel)"]
-heroImage: "/images/blog/cockatiel_care.png"
+heroImage: "/images/blog/cockatiel_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "国际鸟类兽医协会 (AAV) 行为护理标准"

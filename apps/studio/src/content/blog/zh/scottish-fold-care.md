@@ -6,7 +6,7 @@ pubDate: "2026-02-10"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
 tags: ["宠物护理","宠物健康","苏格兰折耳猫"]
-heroImage: "/images/blog/scottish_fold_care.png"
+heroImage: "/images/blog/scottish_fold_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "ISFM（国际猫科医学会）遗传性软骨疾病管理指南与 GCCF 折耳猫指南"

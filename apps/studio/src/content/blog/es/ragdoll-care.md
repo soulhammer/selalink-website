@@ -6,7 +6,7 @@ pubDate: "2026-06-18"
 updatedDate: "2026-06-18"
 category: "FreshSelf"
 tags: ["CuidadoMascotas","SaludMascotas","Ragdoll (Felis catus)"]
-heroImage: "/images/blog/ragdoll_care.png"
+heroImage: "/images/blog/ragdoll_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Guía de Razas de la Cat Fanciers' Association (CFA) y Directrices de Práctica Amigable con los Gatos de la AAFP"

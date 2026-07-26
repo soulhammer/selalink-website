@@ -6,7 +6,7 @@ pubDate: "2026-02-23"
 updatedDate: "2026-02-23"
 category: "FreshSnap"
 tags: ["食材保存","鮮度保持","mushroom"]
-heroImage: "/images/blog/mushroom_storage_hack.png"
+heroImage: "/images/blog/mushroom_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>農村振興庁(RDA) & 食品医薬品安全処(MFDS) & 米国農務省(USDA)</strong>"

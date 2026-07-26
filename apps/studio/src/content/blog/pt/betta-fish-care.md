@@ -6,7 +6,7 @@ pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
 category: "FreshSelf"
 tags: ["CuidadoPets","SaudePets","Peixe Betta (Betta splendens / Peixe de Briga Siamês)"]
-heroImage: "/images/blog/betta_fish_care.png"
+heroImage: "/images/blog/betta_fish_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Diretrizes de Saúde de Animais Aquáticos da Associação Mundial de Veterinários de Pequenos Animais (WSAVA) e Padrões Clínicos para Peixes Ornamentais"

@@ -6,7 +6,7 @@ pubDate: "2026-02-28"
 updatedDate: "2026-03-01"
 category: "FreshSelf"
 tags: ["반려동물","펫케어","비글 (Beagle)"]
-heroImage: "/images/blog/beagle_care.png"
+heroImage: "/images/blog/beagle_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "AKC(미국케넬클럽) 비글 품종 표준 및 IAABC 노즈워크 행동 프로토콜"

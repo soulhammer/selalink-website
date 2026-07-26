@@ -6,7 +6,7 @@ pubDate: "2026-02-13"
 updatedDate: "2026-02-13"
 category: "FreshSnap"
 tags: ["ConservationAliments","StockageFrais","lemon"]
-heroImage: "/images/blog/lemon_storage_hack.png"
+heroImage: "/images/blog/lemon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & FSA & MFDS</strong>"

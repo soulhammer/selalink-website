@@ -6,7 +6,7 @@ pubDate: "2026-02-10"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
 tags: ["ペットケア","ペット健康","スコティッシュフォールド"]
-heroImage: "/images/blog/scottish_fold_care.png"
+heroImage: "/images/blog/scottish_fold_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "ISFM(国際猫医学会)遺伝性軟骨疾患ガイドライン＆GCCF犬種基準"

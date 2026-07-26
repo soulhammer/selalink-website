@@ -6,7 +6,7 @@ pubDate: "2026-07-15"
 updatedDate: "2026-07-15"
 category: "FreshSelf"
 tags: ["宠物护理","宠物健康","荷兰垂耳兔 (Oryctolagus cuniculus / Holland Lop)"]
-heroImage: "/images/blog/holland_lop_care.png"
+heroImage: "/images/blog/holland_lop_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "美国家兔协会 (HRS) 与 特殊小动物兽医师学会 (AEMV) 临床标准"

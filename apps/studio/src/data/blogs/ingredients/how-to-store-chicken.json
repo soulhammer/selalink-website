@@ -1,454 +1,454 @@
 {
-  "how-to-store-chicken": {
-    "ingId": "chicken",
-    "pubDate": "2026-04-06",
-    "updatedDate": "2026-04-06",
-    "heroImage": "/images/blog/chicken_storage_hack.png",
-    "category": "FreshSnap",
-    "app": "freshsnap",
-    "formatVersion": 4,
-    "locales": {
-      "ko": {
-        "title": "닭고기 신선하게 보관하는 법: 과학적 보관 가이드",
-        "description": "공인된 안전 가이드라인에 따른 닭고기의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-        "authority": "<strong>미국 농무부(USDA) & 식품의약품안전처(MFDS) & 미국 질병통제예방센터(CDC)</strong>",
-        "intro": "생닭을 수돗물에 무심코 씻었다가 식중독균이 싱크대 주변에 튀어 불안했던 경험 있으시죠? 🍗\n\n생닭은 수분 함량이 높고 단백질 조직이 연해 캠필로박터제주니(Campylobacter)나 살모넬라(Salmonella) 같은 식중독 유해균이 번식하기 가장 쉬운 육류입니다. 특히 생닭을 물로 씻으면 미세 수분 입자가 튀어 주변 식기와 도마를 오염시키는 '교차 오염'이 발생하기 쉽습니다.\n\n오늘 FreshSnap에서는 미국 질병통제예방센터(CDC)와 식품의약품안전처(MFDS)의 위생 가이드라인에 기반하여, 교차 오염을 방지하고 닭고기의 육질과 신선도를 안전하게 유지하는 3단계 과학적 보관 비법을 전해드립니다. 🛡️",
-        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-        "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-        "guideTitle": "과학적으로 검증된 보관 가이드",
-        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-        "tags": [
-          "닭고기",
-          "과학적으로 검증된 보관 가이드",
-          "meat"
-        ],
-        "cautions": [
-          {
-            "title": "생닭 전용 도마와 칼을 반드시 구분해 사용하세요 🔪",
-            "desc": "생닭을 손질한 칼과 도마에는 눈에 보이지 않는 교차 오염균이 남아있습니다. 손질 후에는 즉시 75℃ 이상의 열수로 소독하거나 세제로 세척해야 하며, 해당 조리 도구로 가열 없이 먹는 샐러드용 채소나 오이를 절대 썰지 마세요."
-          },
-          {
-            "title": "냉장실 보관 시 1~2일(48시간) 이내에 반드시 소비하세요 ❄️",
-            "desc": "닭고기는 소고기나 돼지고기에 비해 수분 활성도가 높고 수분 밀도가 높아 세균 증식 속도가 가장 빠릅니다. 냉장(0~4℃) 보관은 최대 48시간을 넘기지 않아야 하며, 당장 먹지 않을 분량은 즉시 냉동(-18℃ 이하) 보관해야 합니다."
-          }
-        ],
-        "steps": [
-          {
-            "name": "물 세척 절대 금지 — 싱크대 교차 오염 차단 ❌💧",
-            "text": "생닭 표면에 묻어있는 식중독균은 흐르는 물로 씻을 때 물방울과 함께 반경 50cm 이내의 식기, 도마, 싱크대로 사방에 튑니다. 💡 보관 팁: 절대 생닭을 물에 씻지 마세요. 표면의 수분과 불순물은 키친타월로 지긋이 눌러 닦아내거나, 끓는 물에 짧게 데쳐서(블랜칭) 소독한 뒤 조리하는 것이 안전합니다."
-          },
-          {
-            "name": "지퍼백으로 이중 밀봉 후 냉장고 최하단 선반 보관 — 냉장 보관 (1~2일) 📦",
-            "text": "생닭에서 흘러나오는 붉은 육즙(드립)에는 수많은 식중독균이 포함되어 있어 다른 반찬에 닿으면 즉시 오염됩니다. 💡 보관 팁: 닭고기를 팩에 담은 뒤 지퍼백에 넣어 이중으로 완벽히 밀봉하세요. 냉장고에서 온도가 가장 차갑고 일정하며, 드립 떨어짐 피해를 막을 수 있는 '최하단 선반 구석(0~2℃)'에 보관해야 합니다."
-          },
-          {
-            "name": "소금과 청주로 밑간하거나 이중 포장 후 급속 냉동 — 냉동 보관 (90일) ❄️",
-            "text": "당장 조리하지 못할 생닭은 밑간을 하거나 급속 냉동하여 보관 기한을 늘려야 합니다. 💡 보관 팁: 냉장 보관 기간을 하루 더 늘리려면 청주(또는 소주)와 굵은 소금을 살짝 뿌려주세요. 알코올의 살균 작용과 소금의 삼투압 작용이 부패를 지연시킵니다. 2일 이상 보관 시에는 1회 분량씩 랩으로 감싼 뒤 지퍼백에 담아 냉동실(-18℃ 이하)에 보관하세요."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "생닭을 조리하기 전에 물로 씻지 말아야 하는 과학적 이유는 무엇인가요?",
-            "answer": "생닭 표면에는 캠필로박터나 살모넬라 같은 식중독균이 서식할 수 있습니다. 수돗물로 씻으면 수압에 의해 균이 포함된 미세한 물방울이 싱크대, 조리 도구, 주변 식재료로 튀어 심각한 교차 오염을 일으킵니다. 생닭의 균은 조리 과정에서 75℃ 이상으로 1분 이상 가열하면 완전히 사멸하므로 씻지 않고 가열 조리하는 것이 가장 안전합니다."
-          },
-          {
-            "question": "닭고기는 왜 소고기나 돼지고기보다 냉장 보관 기간이 짧은가요?",
-            "answer": "닭고기는 소고기/돼지고기에 비해 근육 섬유가 가늘고 부드러우며, 수분 함량(수분활성도)이 높아 미생물이 증식하기에 최적의 환경을 제공합니다. 따라서 냉장고(0~4℃)에서도 세균 번식이 빠르게 진행되므로 1~2일 이내에 소비하거나 즉시 냉동실(-18℃ 이하)에 보관해야 합니다."
-          }
-        ]
-      },
-      "en": {
-        "title": "How to Keep Chicken Fresh: Scientific Storage Guide",
-        "description": "Check the optimal storage temperature, method, and shelf life for raw poultry based on official safety guidelines.",
-        "authority": "<strong>USDA & MFDS & CDC</strong>",
-        "intro": "Have you ever washed raw chicken under the tap, only to worry about spreading foodborne bacteria around your kitchen sink? 🍗\n\nRaw poultry has a high moisture content and delicate muscle fibers, making it an ideal breeding ground for harmful foodborne pathogens like Campylobacter jejuni and Salmonella. Washing raw chicken under running water causes micro-droplets containing bacteria to splash onto nearby countertops, utensils, and food.\n\nToday, FreshSnap shares a scientifically proven 3-step poultry storage guide based on hygiene guidelines from the CDC, USDA, and MFDS to prevent cross-contamination and keep your chicken safe, tender, and fresh. 🛡️",
-        "whyTitle": "Why Store Chicken This Way? Scientific Facts",
-        "whyDesc": "Understanding the unique physiological characteristics of each produce and meat item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
-        "guideTitle": "Scientifically Proven Storage Guide",
-        "cautionTitle": "Essential Storage Rules and Cautions",
-        "tags": [
-          "Chicken",
-          "Scientifically Proven Storage Guide",
-          "meat"
-        ],
-        "cautions": [
-          {
-            "title": "Always use separate cutting boards and knives for raw poultry 🔪",
-            "desc": "Knives and cutting boards used for raw chicken harbor invisible pathogenic bacteria. Sanitize them immediately with hot water (above 75°C / 167°F) or dish soap after use, and never use the same utensils to slice raw vegetables or salads."
-          },
-          {
-            "title": "Consume within 1–2 days (48 hours) or freeze immediately ❄️",
-            "desc": "Chicken has higher water activity and softer muscle tissue than pork or beef, allowing bacteria to multiply much faster. Limit refrigerator storage (0–4°C) to a maximum of 48 hours, and freeze (-18°C or below) any portion you will not eat right away."
-          }
-        ],
-        "steps": [
-          {
-            "name": "Never wash raw poultry with water — Prevent Sink Cross-Contamination ❌💧",
-            "text": "Washing raw chicken splashes microscopic droplets containing Campylobacter or Salmonella up to 50 cm (20 inches) around the sink, contaminating dishes and surfaces. 💡 Storage Tip: Never rinse raw chicken with water. Instead, gently pat the surface dry with paper towels or blanch it briefly in boiling water to sanitize before cooking."
-          },
-          {
-            "name": "Double-seal in Ziploc bags and store on the bottom shelf — Cold Storage (1–2 Days) 📦",
-            "text": "The raw red juice (drip) leaking from poultry contains high bacterial loads that contaminate other cooked or fresh foods upon contact. 💡 Storage Tip: Place chicken in its tray into a Ziploc bag for double sealing. Store it on the coldest, most stable bottom shelf (0–2°C) of the fridge to prevent dripping."
-          },
-          {
-            "name": "Pre-season lightly with salt and cooking wine or freeze — Frozen Storage (90 Days) ❄️",
-            "text": "If you cannot cook raw chicken immediately, pre-seasoning or rapid freezing extends its safety window. 💡 Storage Tip: To extend fridge life by an extra day, sprinkle lightly with coarse salt and cooking wine/sake; alcohol provides antimicrobial action while salt firms up muscle tissue. For longer storage, wrap single portions in wrap and freeze below -18°C."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "What is the scientific reason for NOT washing raw chicken before cooking?",
-            "answer": "Raw poultry surfaces can harbor foodborne pathogens like Campylobacter or Salmonella. Rinsing raw chicken under tap water creates aerosolized micro-droplets that splash bacteria onto your sink, counter, and nearby food, causing severe cross-contamination. Thorough cooking to an internal temperature of 74°C (165°F) completely destroys all bacteria safely without rinsing."
-          },
-          {
-            "question": "Why does raw chicken have a shorter refrigerator shelf life than beef or pork?",
-            "answer": "Chicken muscle fibers are much finer and softer, combined with a higher moisture content (water activity) that provides an optimal environment for bacterial proliferation. Because spoilage and pathogenic bacteria multiply rapidly even at 0–4°C, raw poultry should be consumed within 1–2 days or frozen immediately below -18°C."
-          }
-        ]
-      },
-      "ja": {
-        "title": "鶏肉を新鮮に保つ保存方法：科学的保管ガイド",
-        "description": "公的安全基準に基づく鶏肉の最適な保存温度、保管方法、保存期間をご確認ください。",
-        "authority": "<strong>米国農務省(USDA) & 食品医薬品安全処(MFDS) & CDC</strong>",
-        "intro": "生鶏肉を水道水で何気なく洗ってしまい、食中毒菌がシンク周りに飛び散っていないか不安になった経験はありませんか？🍗\n\n生鶏肉は水分含有量が高く肉質が柔らかいため、カンピロバクター（Campylobacter）やサルモネラ（Salmonella）などの食中毒菌が最も繁殖しやすいお肉です。特に生鶏肉を水洗いすると、微細な水滴が飛び散って周囲の食器やまな板を汚染する「二次汚染（二次感染）」を引き起こしやすくなります。\n\n本日FreshSnapでは、米国疾病予防管理センター（CDC）および食品医薬品安全処（MFDS）の衛生ガイドラインに基づき、二次汚染を防ぎ鶏肉の肉質と鮮度を safe に保つ3段階の科学的保存法をご紹介します。🛡️",
-        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-        "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-        "guideTitle": "科学的に検証された保存ガイド",
-        "cautionTitle": "保存時の必須ルールと注意事項",
-        "tags": [
-          "鶏肉",
-          "科学的に検証された保存ガイド",
-          "meat"
-        ],
-        "cautions": [
-          {
-            "title": "生鶏肉専用のまな板と包丁を必ず分けて使用してください 汚染 🔪",
-            "desc": "生鶏肉を調理した包丁やまな板には目に見えない食中毒菌が残っています。使用後はすぐに熱湯（75℃以上）や洗剤で除菌消毒し、その道具で加熱せずに食べるサラダ用の野菜やきゅうりを絶対に切らないでください。"
-          },
-          {
-            "title": "冷蔵保存の場合は1〜2日（48時間）以内に必ず消費してください ❄️",
-            "desc": "鶏肉は牛肉や豚肉に比べて水分活性度が高く、細菌の増殖スピードが最も早いです。冷蔵（0〜4℃）保存は最大48時間を超えないようにし、すぐに食べない分はすぐに冷凍（-18℃以下）保存してください。"
-          }
-        ],
-        "steps": [
-          {
-            "name": "水洗いは絶対に避ける — シンク周りの二次汚染を完全遮断 ❌💧",
-            "text": "生鶏肉に付着している食中毒菌は、流れる水で洗うと水滴とともに半径50cm以内の食器やまな板、シンクへ一気に飛び散ります。💡保存のコツ：生鶏肉は絶対に水洗いしないでください。表面の水分や汚れはペーパータオルで優しく拭き取るか、沸騰したお湯にサッと通して下茹で（ブランチング）消毒してから調理するのが safe です。"
-          },
-          {
-            "name": "ジッパーバッグで二重密閉し冷蔵庫の最下段奥に保存する — 冷蔵保存 (1〜2日) 📦",
-            "text": "生鶏肉から出る赤い汁（ドリップ）には多くの食中毒菌が含まれており、他の食材に触れると直ちに汚染されます。💡保存のコツ：鶏肉をパックごとジッパーバッグに入れて二重に密閉してください。冷蔵庫内で最も温度が低く一定で、ドリップの落下を防げる「最下段の奥（0〜2℃）」に保存するのがベストです。"
-          },
-          {
-            "name": "塩と料理酒で下味をつけるか小分けして急速冷凍する — 冷凍保存 (90日) ❄️",
-            "text": "すぐに調理できない生鶏肉は、下味をつけるか冷凍して保存期間を延ばす必要があります。💡保存のコツ：冷蔵保存をさらに1日延ばすには、料理酒（または焼酎）と粗塩を軽く振っておきます。アルコールの殺菌作用と塩の浸透圧が傷みを遅らせます。2日以上保存する場合は1回分ずつラップで包み、ジッパーバッグに入れて冷凍室（-18℃以下）で保存してください。"
-          }
-        ],
-        "faqs": [
-          {
-            "question": "生鶏肉を調理前に水洗いしてはいけない科学的な理由は何ですか？",
-            "answer": "生鶏肉の表面にはカンピロバクターやサルモネラなどの食中毒菌が存在することがあります。水道水で洗うと、水圧によって菌を含んだ微細な水滴がシンクや周囲の調理器具、食材に飛び散り、深刻な二次汚染を引き起こすためです。鶏肉の菌は調理時に中心温度75℃以上で1分以上加熱すれば完全に死滅するため、洗わずにそのまま加熱調理するのが最も安全です。"
-          },
-          {
-            "question": "鶏肉はなぜ牛肉や豚肉よりも冷蔵保存期間が短いのですか？",
-            "answer": "鶏肉は牛肉や豚肉に比べて筋肉繊維が細く柔らかい上に、水分含有量（水分活性度）が高いため、細菌が繁殖しやすい最高の環境を提供してしまうためです。0〜4℃の冷蔵環境でも細菌の増殖が進みやすいため、1〜2日以内に使い切るか、すぐに冷凍室（-18℃以下）で保存する必要があります。"
-          }
-        ]
-      },
-      "zh": {
-        "title": "如何保持鸡肉新鲜：科学储存指南",
-        "description": "根据官方食品安全指南，了解鸡肉的最佳储存温度、方式和保鲜时长。",
-        "authority": "<strong>美国农务部(USDA) & 韩国食品医药品安全处(MFDS) & CDC</strong>",
-        "intro": "您是否曾不小心将生鸡肉放在水龙头下冲洗，结果担心细菌溅满整个水槽？🍗\n\n生鸡肉水分含量高且肌肉组织细嫩，是弯曲杆菌（Campylobacter）和沙门氏菌（Salmonella）等致病菌极易滋生的肉类。用自来水冲洗生鸡肉时，含有细菌的微小水滴会飞溅开来，污染周围的餐具和砧板，造成严重的“交叉污染”。\n\n今天FreshSnap基于美国疾病控制与预防中心(CDC)和韩国食品医药品安全处(MFDS)的卫生指南，为您带来3步科学保存秘诀，帮您杜绝交叉污染，安全锁定鸡肉的鲜嫩与营养。🛡️",
-        "whyTitle": "为什么要这样储存？科学原理",
-        "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-        "guideTitle": "科学验证的储存指南",
-        "cautionTitle": "储存必需规则及注意事项",
-        "tags": [
-          "鸡肉",
-          "科学验证的储存指南",
-          "meat"
-        ],
-        "cautions": [
-          {
-            "title": "切生鸡肉必须使用专用砧板与刀具 🔪",
-            "desc": "处理生鸡肉的刀具和砧板上留有肉眼不可见的致病菌。使用后必须立即用热水（75℃以上）或洗洁精彻底消毒清洗，切勿直接用其切生食蔬菜或黄瓜等沙拉食材。"
-          },
-          {
-            "title": "冷藏请在1~2天（48小时）内食用完毕，或立即冷冻 ❄️",
-            "desc": "相比牛肉和猪肉，鸡肉的水分活性更高，细菌繁殖速度最快。冷藏（0~4℃）储存切勿超过48小时，无法近期食用的份量应立即放入冷冻室（-18℃以下）。"
-          }
-        ],
-        "steps": [
-          {
-            "name": "严禁用水冲洗 — 阻断水槽交叉污染 ❌💧",
-            "text": "冲洗生鸡肉时，附着的致病菌会随水花飞溅至半径50厘米以内的餐具、砧板和水槽台面上。💡储存小贴士：切勿用水冲洗生鸡肉。表面的水分和杂质用厨房纸巾轻压吸干即可，或在沸水中快速焯水消毒后再行烹饪。"
-          },
-          {
-            "name": "用拉链袋双层密封，存放在冰箱最下层 — 冷藏保存 (1~2天) 📦",
-            "text": "生鸡肉渗出的红色肉汁（血水）含有大量致病菌，一旦滴落到其他熟食上会引发污染。💡储存小贴士：将鸡肉连同包装装入拉链袋中进行双重密封。放在冰箱内温度最低且最稳定的“最下层深处（0~2℃）”冷藏，以防肉汁滴漏。"
-          },
-          {
-            "name": "用盐和料酒微腌，或分装后急冻 — 冷冻保存 (90天) ❄️",
-            "text": "买回后无法立即烹饪的生鸡肉，需通过腌制或冷冻来延长保质期。💡储存小贴士：若想延长1天冷藏期，可撒上少许粗盐和料酒（或烧酒），利用酒精杀菌与食盐渗透压延缓变质。保存超过2天时，请按单次用量用保鲜膜包裹后装入拉链袋放入冷冻室（-18℃以下）。"
-          }
-        ],
-        "faqs": [
-          {
-            "question": "烹饪生鸡肉前不要用水冲洗的科学依据是什么？",
-            "answer": "生鸡肉表面可能携带弯曲杆菌或沙门氏菌。在水龙头下冲洗时，水压产生的细细水雾会将细菌飞溅到水槽、料理台及周围食物上，引发严重的交叉污染。鸡肉中的细菌在烹饪时加热至74℃以上维持1分钟即可彻底杀灭，因此无需冲洗，直接加热烹饪才是最安全的做法。"
-          },
-          {
-            "question": "为什么鸡肉的冷藏保质期比牛肉或猪肉短？",
-            "answer": "鸡肉的肌纤维比牛肉和猪肉更细嫩，且水分含量（水分活性）极高，为细菌繁殖提供了绝佳的环境。由于即使在0~4℃的冷藏环境下细菌依然会快速增殖，因此生鸡肉应在1~2天内食用完毕，或立即放入冷冻室（-18℃以下）保存。"
-          }
-        ]
-      },
-      "es": {
-        "title": "Cómo mantener el pollo fresco: Guía científica de conservación",
-        "description": "Descubra la temperatura, el método y la duración de conservación óptimos para el pollo según las directrices oficiales de seguridad.",
-        "authority": "<strong>USDA & MFDS & CDC</strong>",
-        "intro": "¿Alguna vez lavó pollo crudo bajo el grifo y le preocupó esparcir bacterias por todo el fregadero de su cocina? 🍗\n\nEl pollo crudo tiene un alto contenido de agua y fibras musculares delicadas, lo que lo convierte en un medio de cultivo ideal para bacterias patógenas como Campylobacter jejuni y Salmonella. Lavar el pollo con agua corriente genera microgotas cargadas de bacterias que salpican tablas, vajillas y alimentos cercanos.\n\nHoy, FreshSnap comparte una guía científica en 3 pasos basada en las pautas del CDC, el USDA y el MFDS para prevenir la contaminación cruzada y mantener su pollo seguro, tierno y fresco. 🛡️",
-        "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
-        "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-        "guideTitle": "Guía de almacenamiento científicamente probada",
-        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-        "tags": [
-          "Pollo",
-          "Guía de almacenamiento científicamente probada",
-          "meat"
-        ],
-        "cautions": [
-          {
-            "title": "Utilice siempre tablas de cortar y cuchillos exclusivos para el pollo crudo 🔪",
-            "desc": "Los utensilios usados para cortar pollo crudo contienen bacterias invisibles. Desinféctelos de inmediato con agua caliente (más de 75 °C) o detergente después de usarlos, y nunca use las mismas herramientas para cortar verduras crudas o ensaladas."
-          },
-          {
-            "title": "Consúmalo en 1 o 2 días (48 horas) o congele inmediatamente ❄️",
-            "desc": "El pollo posee una mayor actividad de agua y masa muscular suave que la carne de cerdo o res, lo que acelera el desarrollo bacteriano. Limite la refrigeración (0-4 °C) a un máximo de 48 horas y congele (-18 °C) lo que no vaya a cocinar de inmediato."
-          }
-        ],
-        "steps": [
-          {
-            "name": "Nunca lave el pollo crudo con agua — Evite la contaminación cruzada en el fregadero ❌💧",
-            "text": "Lavar el pollo salpica microgotas con bacterias de Campylobacter o Salmonella a hasta 50 cm alrededor del fregadero, contaminando platos y superficies. 💡 Consejo de almacenamiento: Nunca enjuague el pollo con agua. Seque la superficie presionando con toallas de papel o escáldelo brevemente en agua hirviendo antes de cocinar."
-          },
-          {
-            "name": "Selle doblemente en bolsas Ziploc y guarde en el estante inferior — Refrigeración (1–2 días) 📦",
-            "text": "El jugo rojo crudo (drip) del pollo contiene una elevada carga bacteriana que contamina otros alimentos si entra en contacto. 💡 Consejo de almacenamiento: Introduzca el pollo en una bolsa Ziploc para un doble sellado. Guárdelo en el estante inferior más frío (0-2 °C) del refrigerador para evitar goteos."
-          },
-          {
-            "name": "Sazone ligeramente con sal y vino de cocina o congele — Congelación (90 días) ❄️",
-            "text": "Si no va a cocinar el pollo de inmediato, sazonarlo o congelarlo rápidamente extiende su conservación. 💡 Consejo de almacenamiento: Para ganar un día extra en el refrigerador, espolvoree sal gruesa y vino de cocina; el alcohol desinfecta y la sal reafirma la carne. Para periodos más largos, envuelva porciones individuales en film y congele a menos de -18 °C."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "¿Cuál es la razón científica para NO lavar el pollo crudo antes de cocinarlo?",
-            "answer": "La superficie del pollo crudo puede albergar bacterias patógenas como Campylobacter o Salmonella. Lavarlo bajo el grifo crea gotitas de agua aerosolizadas que esparcen bacterias sobre el fregadero, utensilios y alimentos cercanos, causando contaminación cruzada grave. Cocinar el pollo hasta alcanzar una temperatura interna de 74 °C destruye todas las bacterias de manera segura sin necesidad de lavarlo."
-          },
-          {
-            "question": "¿Por qué el pollo crudo dura menos en el refrigerador que la carne de res o cerdo?",
-            "answer": "Las fibras musculares del pollo son más finas y suaves, y su alto contenido de humedad (actividad de agua) crea el ambiente perfecto para la multiplicación de bacterias. Como las bacterias de descomposición crecen rápidamente incluso a 0-4 °C, el pollo debe consumirse en 1-2 días o congelarse de inmediato a -18 °C."
-          }
-        ]
-      },
-      "fr": {
-        "title": "Comment conserver le poulet frais : Guide scientifique de conservation",
-        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le poulet selon les directives officielles de sécurité.",
-        "authority": "<strong>USDA & MFDS & CDC</strong>",
-        "intro": "Avez-vous déjà lavé du poulet cru sous le robinet pour vous demander ensuite si vous n'aviez pas dispersé de dangereuses bactéries dans votre évier ? 🍗\n\nLa volaille crue possède une teneur élevée en eau et des fibres musculaires très tendres, ce qui en fait un terrain privilégié pour le développement de bactéries comme Campylobacter jejuni ou la Salmonelle. Laver le poulet cru sous l'eau crée des micro-gouttelettes qui éclaboussent le plan de travail et les ustensiles.\n\nAujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du CDC, du USDA et du MFDS pour éviter la contamination croisée et garder votre poulet sûr, tendre et frais. 🛡️",
-        "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
-        "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-        "guideTitle": "Guide de conservation scientifiquement prouvé",
-        "cautionTitle": "Règles essentielles et précautions de stockage",
-        "tags": [
-          "Poulet",
-          "Guide de conservation scientifiquement prouvé",
-          "meat"
-        ],
-        "cautions": [
-          {
-            "title": "Utilisez toujours des planches et des couteaux séparés pour le poulet cru 🔪",
-            "desc": "Les ustensiles ayant servi au poulet cru abritent des bactéries invisibles. Désinfectez-les immédiatement à l'eau très chaude (plus de 75 °C) ou au liquide vaisselle, et ne les utilisez jamais pour découper des légumes crus ou des salades."
-          },
-          {
-            "title": "Consommez sous 1 à 2 jours (48 heures) ou congelez immédiatement ❄️",
-            "desc": "Le poulet présente une activité de l'eau plus élevée et une chair plus tendre que le porc ou le bœuf, ce qui accélère la multiplication bactérienne. Limitez la réfrigération (0–4 °C) à 48 heures maximum et congelez (-18 °C) les portions restantes."
-          }
-        ],
-        "steps": [
-          {
-            "name": "Ne lavez jamais la volaille crue à l'eau — Éviter la contamination croisée ❌💧",
-            "text": "Laver le poulet projette des gouttelettes invisibles contenant des bactéries (Campylobacter, Salmonelle) jusqu'à 50 cm autour de l'évier. 💡 Astuce de conservation : Ne rincez jamais le poulet à l'eau. Épongez la surface avec du papier absorbant ou ébouillantez-le très rapidement avant la cuisson."
-          },
-          {
-            "name": "Sceller dans un double sac Ziploc et placer sur l'étagère du bas — Réfrigération (1–2 jours) 📦",
-            "text": "Le jus rouge (exsudat) du poulet cru contient de nombreuses bactéries qui contaminent les autres aliments en cas de fuite. 💡 Astuce de conservation : Glissez le paquet dans un sac congélation pour un double scellage. Placez-le sur l'étagère du bas (0–2 °C), la zone la plus froide du réfrigérateur."
-          },
-          {
-            "name": "Assaisonner légèrement ou emballer pour congeler — Stockage Congelé (90 jours) ❄️",
-            "text": "Si vous ne cuisinez pas le poulet le jour même, l'assaisonner ou le congeler permet de prolonger sa fraîcheur. 💡 Astuce de conservation : Pour gagner 24 heures au frais, saupoudrez de sel gros et d'un trait d'alcool de cuisine ; l'alcool désinfecte et le sel raffermit la chair. Pour un stockage plus long, enveloppez les portions et congelez à -18 °C."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Quelle est la raison scientifique pour laquelle il ne faut PAS laver le poulet cru avant cuisson ?",
-            "answer": "La surface du poulet cru peut héberger des bactéries pathogènes comme Campylobacter ou la Salmonelle. Le rincer sous le robinet génère un aérosol de micro-gouttelettes qui projette ces bactéries sur l'évier, les plans de travail et les aliments voisins. Une cuisson complète à cœur (74 °C) détruit totalement et sûrement toutes les bactéries sans qu'il soit besoin de le rincer."
-          },
-          {
-            "question": "Pourquoi le poulet cru se conserve-t-il moins longtemps au frigo que le bœuf ou le porc ?",
-            "answer": "Les fibres musculaires du poulet sont plus fines et souples, et sa forte teneur en eau (activité de l'eau) offre un terrain idéal à la prolifération des bactéries. Comme la dégradation bactérienne est rapide même entre 0 et 4 °C, la volaille crue doit être consommée sous 1 à 2 jours ou congelée immédiatement sous -18 °C."
-          }
-        ]
-      },
-      "de": {
-        "title": "Hähnchenfleisch richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Geflügelfleisch basierend auf offiziellen Sicherheitsrichtlinien.",
-        "authority": "<strong>USDA & MFDS & CDC</strong>",
-        "intro": "Haben Sie rohes Hähnchenfleisch schon einmal unter fließendem Wasser gewaschen und sich danach gesorgt, Bakterien in der Küche verteilt zu haben? 🍗\n\nRohes Geflügel besitzt einen hohen Wassergehalt und zartes Muskelgewebe, was es zum idealen Nährboden für Krankheitserreger wie Campylobacter jejuni und Salmonellen macht. Das Waschen unter fließendem Wasser führt dazu, dass bakterienhaltige Wassertropfen auf Arbeitsflächen und Geschirr spritzen (Kreuzkontamination).\n\nHeute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Hygieneempfehlungen von CDC, USDA und MFDS basiert, um Kreuzkontaminationen zu vermeiden und Ihr Hähnchenfleisch zart und frisch zu halten. 🛡️",
-        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-        "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-        "tags": [
-          "Hähnchen",
-          "Wissenschaftlich geprüfter Lagerungsratgeber",
-          "meat"
-        ],
-        "cautions": [
-          {
-            "title": "Verwenden Sie für rohes Geflügel immer eigene Schneidebretter und Messer 🔪",
-            "desc": "Werkzeuge, die für rohes Hähnchen verwendet wurden, enthalten unsichtbare Keime. Desinfizieren Sie diese nach Gebrauch sofort mit heißem Wasser (über 75 °C) oder Spülmittel und schneiden Sie damit niemals Rohkost oder Salate."
-          },
-          {
-            "title": "Innerhalb von 1–2 Tagen (48 Stunden) verbrauchen oder sofort einfrieren ❄️",
-            "desc": "Geflügel hat eine höhere Wasseraktivität und weichere Fasern als Schweine- oder Rindfleisch, wodurch sich Bakterien schneller vermehren. Begrenzen Sie die Kühlung (0–4 °C) auf maximal 48 Stunden und frieren Sie den Rest ein (-18 °C)."
-          }
-        ],
-        "steps": [
-          {
-            "name": "Rohes Geflügel niemals mit Wasser waschen — Kreuzkontamination vermeiden ❌💧",
-            "text": "Das Waschen von rohem Hähnchen spritzt feinste Wassertropfen mit Campylobacter- oder Salmonellenbakterien bis zu 50 cm weit um das Spülbecken. 💡 Lagerungstipp: Waschen Sie das Fleisch niemals. Tupfen Sie die Oberfläche stattdessen mit Küchenpapier trocken oder blanchieren Sie es kurz in kochendem Wasser."
-          },
-          {
-            "name": "In Ziploc-Beuteln doppelt versiegeln und auf dem untersten Fach lagern — Kühlen (1–2 Tage) 📦",
-            "text": "Der austretende rohe Fleischsaft (Drip) enthält hohe Bakterienmengen, die andere Lebensmittel bei Kontakt sofort kontaminieren. 💡 Lagerungstipp: Verpacken Sie das Fleisch doppelt in Beuteln. Lagern Sie es auf der untersten, kältesten Ebene (0–2 °C) des Kühlschranks."
-          },
-          {
-            "name": "Leicht mit Salz und Kochwein würzen oder einfrieren — Gefrierlagerung (90 Tage) ❄️",
-            "text": "Wenn Sie das Fleisch nicht sofort zubereiten, verlängert leichtes Anwürzen oder Einfrieren die Haltbarkeit. 💡 Lagerungstipp: Bestreuen Sie das Fleisch mit etwas Salz und Kochwein für einen zusätzlichen Tag Frische im Kühlschrank; Alkohol wirkt desinfizierend, Salz festigt das Gewebe. Für längere Zeiten einzeln einwickeln und bei -18 °C einfrieren."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Was ist der wissenschaftliche Grund dafür, rohes Hähnchen vor dem Kochen NICHT zu waschen?",
-            "answer": "Auf rohem Geflügel können sich Krankheitserreger wie Campylobacter oder Salmonellen befinden. Das Waschen unter dem Wasserhahn erzeugt feine Sprühnebel, die Bakterien auf Spülbecken, Küchengeräte und Lebensmittel übertragen. Das Durchgaren auf eine Kerntemperatur von 74 °C tötet alle Bakterien zuverlässig ab, ohne dass ein Abwaschen nötig ist."
-          },
-          {
-            "question": "Warum ist Hähnchenfleisch im Kühlschrank kürzer haltbar als Rind- oder Schweinefleisch?",
-            "answer": "Hähnchenfleisch hat feinere, weichere Muskelfasern und einen sehr hohen Feuchtigkeitsgehalt (Wasseraktivität), was ein ideales Milieu für Bakterien schafft. Da sich Fäulnisbakterien auch bei 0–4 °C schnell vermehren, sollte rohes Geflügel innerhalb von 1–2 Tagen verbraucht oder sofort bei unter -18 °C eingefroren werden."
-          }
-        ]
-      },
-      "pt": {
-        "title": "Como conservar frango fresco: Guia científico de armazenamento",
-        "description": "Descubra a temperatura, método e tempo de conservação ideais para frango com base em diretrizes oficiais de segurança.",
-        "authority": "<strong>USDA & MFDS & CDC</strong>",
-        "intro": "Você já lavou frango cru na pia e ficou preocupado em ter espalhado bactérias por toda a cozinha? 🍗\n\nA carne de frango possui alto teor de umidade e fibras musculares macias, sendo o meio ideal para o crescimento de bactérias patogênicas como Campylobacter jejuni e Salmonella. Lavar o frango em água corrente gera microgotas que espirram e contaminam bancadas, louças e utensílios.\n\nHoje, o FreshSnap apresenta um guia de conservação em 3 etapas baseado em diretrizes do CDC, USDA e MFDS para evitar a contaminação cruzada e manter seu frango seguro, macio e fresco. 🛡️",
-        "whyTitle": "Por que armazenar assim? Fatos científicos",
-        "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-        "guideTitle": "Guia de armazenamento comprovado cientificamente",
-        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-        "tags": [
-          "Frango",
-          "Guia de armazenamento comprovado cientificamente",
-          "meat"
-        ],
-        "cautions": [
-          {
-            "title": "Use sempre tábuas de cortar e facas exclusivas para o frango cru 🔪",
-            "desc": "Os utensílios usados para cortar frango cru abrigam bactérias invisíveis. Higienize-os imediatamente com água quente (acima de 75 °C) ou detergente após o uso, e nunca utilize os mesmos utensílios para cortar vegetais crus ou saladas."
-          },
-          {
-            "title": "Consuma em 1 a 2 dias (48 horas) ou congele imediatamente ❄️",
-            "desc": "O frango possui maior atividade de água e tecido muscular macio do que a carne bovina ou suína, o que acelera a multiplicação de bactérias. Limite a refrigeração (0-4 °C) a no máximo 48 horas e congele (-18 °C) as porções restantes."
-          }
-        ],
-        "steps": [
-          {
-            "name": "Nunca lave o frango cru com água — Evite contaminação cruzada na pia ❌💧",
-            "text": "Lavar o frango lança microgotas contendo bactérias como Campylobacter ou Salmonella a até 50 cm ao redor da pia. 💡 Dica de conservação: Nunca enxágue o frango. Seque a superfície pressionando com papel-toalha ou passe rapidamente em água fervente antes de cozinhar."
-          },
-          {
-            "name": "Sele duplamente em sacos Ziploc e guarde na prateleira inferior — Refrigeração (1–2 dias) 📦",
-            "text": "O suco vermelho cru (drip) do frango contém altas cargas bacterianas que contaminam outros alimentos ao entrar em contato. 💡 Dica de conservação: Coloque o frango em um saco Ziploc para dupla vedação. Guarde na prateleira inferior mais fria (0-2 °C) para evitar gotejamentos."
-          },
-          {
-            "name": "Tempere levemente com sal e vinho de cozinha ou congele — Congelamento (90 dias) ❄️",
-            "text": "Se não for cozinhar o frango imediatamente, temperá-lo ou congelá-lo rapidamente estende sua validade. 💡 Dica de conservação: Para ganhar um dia extra na geladeira, salpique sal grosso e vinho de cozinha; o álcool desinfeta e o sal firma a carne. Para períodos mais longos, embale em porções e congele a menos de -18 °C."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Qual é a razão científica para NÃO lavar o frango cru antes de cozinhar?",
-            "answer": "A superfície do frango cru pode conter bactérias patogênicas como Campylobacter ou Salmonella. Lavá-lo na pia cria aerossóis de microgotas que espalham bactérias pela pia, bancadas e alimentos próximos. O cozimento completo até atingir a temperatura interna de 74 °C destrói todas as bactérias com segurança sem a necessidade de lavar."
-          },
-          {
-            "question": "Por que o frango cru dura menos na geladeira do que a carne bovina ou suína?",
-            "answer": "As fibras musculares do frango são mais finas e macias, e seu alto teor de umidade (atividade de água) oferece o ambiente perfeito para a proliferação bacteriana. Como as bactérias se multiplicam rapidamente mesmo a 0-4 °C, a carne de frango deve ser consumida em 1 a 2 dias ou congelada imediatamente a menos de -18 °C."
-          }
-        ]
-      },
-      "id": {
-        "title": "Cara Menyimpan Daging Ayam agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk daging ayam mentah berdasarkan pedoman keselamatan resmi.",
-        "authority": "<strong>USDA & MFDS & CDC</strong>",
-        "intro": "Pernahkah Anda mencuci ayam mentah di bawah kran lalu khawatir bakteri berbahaya menyebar ke seluruh bak cuci piring Anda? 🍗\n\nDaging ayam mentah memiliki kadar air yang tinggi dan serat otot yang lembut, menjadikannya media perkembangbiakan ideal bagi bakteri patogen seperti Campylobacter jejuni dan Salmonella. Mencuci ayam mentah dengan air mengalir menyebabkan cipratan tetesan air halus yang mengontaminasi meja dapur dan peralatan masak.\n\nHari ini, FreshSnap membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan pedoman higienitas CDC, USDA, dan MFDS untuk mencegah kontaminação silang dan menjaga daging ayam Anda tetap aman, empuk, dan segar. 🛡️",
-        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-        "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-        "tags": [
-          "Daging ayam",
-          "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-          "meat"
-        ],
-        "cautions": [
-          {
-            "title": "Selalu gunakan talenan dan pisau khusus untuk ayam mentah 🔪",
-            "desc": "Peralatan yang digunakan untuk memotong ayam mentah mengandung bakteri tak terlihat. Segera sterilkan dengan air panas (di atas 75°C) atau sabun cuci piring setelah digunakan, dan jangan pernah menggunakan pisau/talenan yang sama untuk memotong sayuran mentah atau salad."
-          },
-          {
-            "title": "Konsumsi dalam 1–2 hari (48 jam) atau segera bekukan ❄️",
-            "desc": "Daging ayam memiliki aktivitas air yang lebih tinggi dan serat otot yang lebih lembut dibanding daging sapi/babi, membuat bakteri berkembang biak jauh lebih cepat. Batasi penyimpanan dingin (0–4°C) maksimal 48 jam, dan bekukan (-18°C) porsi yang tidak langsung dimasak."
-          }
-        ],
-        "steps": [
-          {
-            "name": "Jangan pernah mencuci ayam mentah dengan air — Hindari Kontaminasi Silang Bak Cuci Piring ❌💧",
-            "text": "Mencuci ayam mentah memercikkan tetesan air mikroskopis yang mengandung bakteri Campylobacter atau Salmonella hingga radius 50 cm di sekitar bak cuci piring. 💡 Tips Penyimpanan: Jangan pernah membilas ayam mentah. Lap permukaannya dengan tisu dapur atau rebus sebentar dalam air mendidih untuk sterilisasi sebelum dimasak."
-          },
-          {
-            "name": "Segel ganda dalam kantong Ziploc lalu simpan di rak paling bawah — Simpan Dingin (1–2 Hari) 📦",
-            "text": "Cairan darah (drip) dari ayam mentah mengandung jumlah bakteri tinggi yang dapat mencemari makanan lain jika menetes. 💡 Tips Penyimpanan: Masukkan ayam ke dalam kantong Ziploc untuk penyegelan ganda. Simpan di rak paling bawah (0–2°C) yang paling dingin untuk mencegah tetesan cairan."
-          },
-          {
-            "name": "Bumbui tipis dengan garam dan alkohol masak atau bekukan — Simpan Beku (90 Hari) ❄️",
-            "text": "Jika tidak langsung dimasak, membumbui tipis atau membekukan ayam secara cepat dapat memperpanjang masa simpan. 💡 Tips Penyimpanan: Untuk menambah 1 hari masa simpan di kulkas, taburkan sedikit garam kasar dan alkohol/sake masak; alkohol berfungsi membunuh bakteri dan garam mengencangkan serat daging. Untuk jangka panjang, bungkus per porsi dan bekukan di bawah -18°C."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Apa alasan ilmiah mengapa TIDAK boleh mencuci ayam mentah sebelum dimasak?",
-            "answer": "Permukaan daging ayam mentah dapat mengandung bakteri patogen seperti Campylobacter atau Salmonella. Membilasnya di bawah kran menghasilkan cipratan air halus yang menyebarkan bakteri ke bak cuci piring, meja dapur, dan makanan di sekitarnya (kontaminasi silang). Memasak ayam hingga matang sempurna (suhu bagian dalam 74°C) akan membunuh semua bakteri secara aman tanpa perlu dicuci."
-          },
-          {
-            "question": "Mengapa daging ayam mentah memiliki masa simpan kulkas yang lebih pendek daripada daging sapi atau babi?",
-            "answer": "Serat otot daging ayam lebih halus dan lembut, ditambah dengan kandungan air (aktivitas air) yang tinggi sehingga memberikan lingkungan sempurna bagi perkembangan bakteri. Karena bakteri pembusuk berkembang biak dengan cepat bahkan pada suhu 0–4°C, daging ayam mentah harus dikonsumsi dalam 1–2 hari atau segera dibekukan di bawah suhu -18°C."
-          }
-        ]
-      }
+    "how-to-store-chicken": {
+        "ingId": "chicken",
+        "pubDate": "2026-04-06",
+        "updatedDate": "2026-04-06",
+        "heroImage": "/images/blog/chicken_storage_hack.webp",
+        "category": "FreshSnap",
+        "app": "freshsnap",
+        "formatVersion": 4,
+        "locales": {
+            "ko": {
+                "title": "닭고기 신선하게 보관하는 법: 과학적 보관 가이드",
+                "description": "공인된 안전 가이드라인에 따른 닭고기의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+                "authority": "<strong>미국 농무부(USDA) & 식품의약품안전처(MFDS) & 미국 질병통제예방센터(CDC)</strong>",
+                "intro": "생닭을 수돗물에 무심코 씻었다가 식중독균이 싱크대 주변에 튀어 불안했던 경험 있으시죠? 🍗\n\n생닭은 수분 함량이 높고 단백질 조직이 연해 캠필로박터제주니(Campylobacter)나 살모넬라(Salmonella) 같은 식중독 유해균이 번식하기 가장 쉬운 육류입니다. 특히 생닭을 물로 씻으면 미세 수분 입자가 튀어 주변 식기와 도마를 오염시키는 '교차 오염'이 발생하기 쉽습니다.\n\n오늘 FreshSnap에서는 미국 질병통제예방센터(CDC)와 식품의약품안전처(MFDS)의 위생 가이드라인에 기반하여, 교차 오염을 방지하고 닭고기의 육질과 신선도를 안전하게 유지하는 3단계 과학적 보관 비법을 전해드립니다. 🛡️",
+                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+                "guideTitle": "과학적으로 검증된 보관 가이드",
+                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+                "tags": [
+                    "닭고기",
+                    "과학적으로 검증된 보관 가이드",
+                    "meat"
+                ],
+                "cautions": [
+                    {
+                        "title": "생닭 전용 도마와 칼을 반드시 구분해 사용하세요 🔪",
+                        "desc": "생닭을 손질한 칼과 도마에는 눈에 보이지 않는 교차 오염균이 남아있습니다. 손질 후에는 즉시 75℃ 이상의 열수로 소독하거나 세제로 세척해야 하며, 해당 조리 도구로 가열 없이 먹는 샐러드용 채소나 오이를 절대 썰지 마세요."
+                    },
+                    {
+                        "title": "냉장실 보관 시 1~2일(48시간) 이내에 반드시 소비하세요 ❄️",
+                        "desc": "닭고기는 소고기나 돼지고기에 비해 수분 활성도가 높고 수분 밀도가 높아 세균 증식 속도가 가장 빠릅니다. 냉장(0~4℃) 보관은 최대 48시간을 넘기지 않아야 하며, 당장 먹지 않을 분량은 즉시 냉동(-18℃ 이하) 보관해야 합니다."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "물 세척 절대 금지 — 싱크대 교차 오염 차단 ❌💧",
+                        "text": "생닭 표면에 묻어있는 식중독균은 흐르는 물로 씻을 때 물방울과 함께 반경 50cm 이내의 식기, 도마, 싱크대로 사방에 튑니다. 💡 보관 팁: 절대 생닭을 물에 씻지 마세요. 표면의 수분과 불순물은 키친타월로 지긋이 눌러 닦아내거나, 끓는 물에 짧게 데쳐서(블랜칭) 소독한 뒤 조리하는 것이 안전합니다."
+                    },
+                    {
+                        "name": "지퍼백으로 이중 밀봉 후 냉장고 최하단 선반 보관 — 냉장 보관 (1~2일) 📦",
+                        "text": "생닭에서 흘러나오는 붉은 육즙(드립)에는 수많은 식중독균이 포함되어 있어 다른 반찬에 닿으면 즉시 오염됩니다. 💡 보관 팁: 닭고기를 팩에 담은 뒤 지퍼백에 넣어 이중으로 완벽히 밀봉하세요. 냉장고에서 온도가 가장 차갑고 일정하며, 드립 떨어짐 피해를 막을 수 있는 '최하단 선반 구석(0~2℃)'에 보관해야 합니다."
+                    },
+                    {
+                        "name": "소금과 청주로 밑간하거나 이중 포장 후 급속 냉동 — 냉동 보관 (90일) ❄️",
+                        "text": "당장 조리하지 못할 생닭은 밑간을 하거나 급속 냉동하여 보관 기한을 늘려야 합니다. 💡 보관 팁: 냉장 보관 기간을 하루 더 늘리려면 청주(또는 소주)와 굵은 소금을 살짝 뿌려주세요. 알코올의 살균 작용과 소금의 삼투압 작용이 부패를 지연시킵니다. 2일 이상 보관 시에는 1회 분량씩 랩으로 감싼 뒤 지퍼백에 담아 냉동실(-18℃ 이하)에 보관하세요."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "생닭을 조리하기 전에 물로 씻지 말아야 하는 과학적 이유는 무엇인가요?",
+                        "answer": "생닭 표면에는 캠필로박터나 살모넬라 같은 식중독균이 서식할 수 있습니다. 수돗물로 씻으면 수압에 의해 균이 포함된 미세한 물방울이 싱크대, 조리 도구, 주변 식재료로 튀어 심각한 교차 오염을 일으킵니다. 생닭의 균은 조리 과정에서 75℃ 이상으로 1분 이상 가열하면 완전히 사멸하므로 씻지 않고 가열 조리하는 것이 가장 안전합니다."
+                    },
+                    {
+                        "question": "닭고기는 왜 소고기나 돼지고기보다 냉장 보관 기간이 짧은가요?",
+                        "answer": "닭고기는 소고기/돼지고기에 비해 근육 섬유가 가늘고 부드러우며, 수분 함량(수분활성도)이 높아 미생물이 증식하기에 최적의 환경을 제공합니다. 따라서 냉장고(0~4℃)에서도 세균 번식이 빠르게 진행되므로 1~2일 이내에 소비하거나 즉시 냉동실(-18℃ 이하)에 보관해야 합니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "How to Keep Chicken Fresh: Scientific Storage Guide",
+                "description": "Check the optimal storage temperature, method, and shelf life for raw poultry based on official safety guidelines.",
+                "authority": "<strong>USDA & MFDS & CDC</strong>",
+                "intro": "Have you ever washed raw chicken under the tap, only to worry about spreading foodborne bacteria around your kitchen sink? 🍗\n\nRaw poultry has a high moisture content and delicate muscle fibers, making it an ideal breeding ground for harmful foodborne pathogens like Campylobacter jejuni and Salmonella. Washing raw chicken under running water causes micro-droplets containing bacteria to splash onto nearby countertops, utensils, and food.\n\nToday, FreshSnap shares a scientifically proven 3-step poultry storage guide based on hygiene guidelines from the CDC, USDA, and MFDS to prevent cross-contamination and keep your chicken safe, tender, and fresh. 🛡️",
+                "whyTitle": "Why Store Chicken This Way? Scientific Facts",
+                "whyDesc": "Understanding the unique physiological characteristics of each produce and meat item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+                "guideTitle": "Scientifically Proven Storage Guide",
+                "cautionTitle": "Essential Storage Rules and Cautions",
+                "tags": [
+                    "Chicken",
+                    "Scientifically Proven Storage Guide",
+                    "meat"
+                ],
+                "cautions": [
+                    {
+                        "title": "Always use separate cutting boards and knives for raw poultry 🔪",
+                        "desc": "Knives and cutting boards used for raw chicken harbor invisible pathogenic bacteria. Sanitize them immediately with hot water (above 75°C / 167°F) or dish soap after use, and never use the same utensils to slice raw vegetables or salads."
+                    },
+                    {
+                        "title": "Consume within 1–2 days (48 hours) or freeze immediately ❄️",
+                        "desc": "Chicken has higher water activity and softer muscle tissue than pork or beef, allowing bacteria to multiply much faster. Limit refrigerator storage (0–4°C) to a maximum of 48 hours, and freeze (-18°C or below) any portion you will not eat right away."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Never wash raw poultry with water — Prevent Sink Cross-Contamination ❌💧",
+                        "text": "Washing raw chicken splashes microscopic droplets containing Campylobacter or Salmonella up to 50 cm (20 inches) around the sink, contaminating dishes and surfaces. 💡 Storage Tip: Never rinse raw chicken with water. Instead, gently pat the surface dry with paper towels or blanch it briefly in boiling water to sanitize before cooking."
+                    },
+                    {
+                        "name": "Double-seal in Ziploc bags and store on the bottom shelf — Cold Storage (1–2 Days) 📦",
+                        "text": "The raw red juice (drip) leaking from poultry contains high bacterial loads that contaminate other cooked or fresh foods upon contact. 💡 Storage Tip: Place chicken in its tray into a Ziploc bag for double sealing. Store it on the coldest, most stable bottom shelf (0–2°C) of the fridge to prevent dripping."
+                    },
+                    {
+                        "name": "Pre-season lightly with salt and cooking wine or freeze — Frozen Storage (90 Days) ❄️",
+                        "text": "If you cannot cook raw chicken immediately, pre-seasoning or rapid freezing extends its safety window. 💡 Storage Tip: To extend fridge life by an extra day, sprinkle lightly with coarse salt and cooking wine/sake; alcohol provides antimicrobial action while salt firms up muscle tissue. For longer storage, wrap single portions in wrap and freeze below -18°C."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "What is the scientific reason for NOT washing raw chicken before cooking?",
+                        "answer": "Raw poultry surfaces can harbor foodborne pathogens like Campylobacter or Salmonella. Rinsing raw chicken under tap water creates aerosolized micro-droplets that splash bacteria onto your sink, counter, and nearby food, causing severe cross-contamination. Thorough cooking to an internal temperature of 74°C (165°F) completely destroys all bacteria safely without rinsing."
+                    },
+                    {
+                        "question": "Why does raw chicken have a shorter refrigerator shelf life than beef or pork?",
+                        "answer": "Chicken muscle fibers are much finer and softer, combined with a higher moisture content (water activity) that provides an optimal environment for bacterial proliferation. Because spoilage and pathogenic bacteria multiply rapidly even at 0–4°C, raw poultry should be consumed within 1–2 days or frozen immediately below -18°C."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "鶏肉を新鮮に保つ保存方法：科学的保管ガイド",
+                "description": "公的安全基準に基づく鶏肉の最適な保存温度、保管方法、保存期間をご確認ください。",
+                "authority": "<strong>米国農務省(USDA) & 食品医薬品安全処(MFDS) & CDC</strong>",
+                "intro": "生鶏肉を水道水で何気なく洗ってしまい、食中毒菌がシンク周りに飛び散っていないか不安になった経験はありませんか？🍗\n\n生鶏肉は水分含有量が高く肉質が柔らかいため、カンピロバクター（Campylobacter）やサルモネラ（Salmonella）などの食中毒菌が最も繁殖しやすいお肉です。特に生鶏肉を水洗いすると、微細な水滴が飛び散って周囲の食器やまな板を汚染する「二次汚染（二次感染）」を引き起こしやすくなります。\n\n本日FreshSnapでは、米国疾病予防管理センター（CDC）および食品医薬品安全処（MFDS）の衛生ガイドラインに基づき、二次汚染を防ぎ鶏肉の肉質と鮮度を safe に保つ3段階の科学的保存法をご紹介します。🛡️",
+                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+                "guideTitle": "科学的に検証された保存ガイド",
+                "cautionTitle": "保存時の必須ルールと注意事項",
+                "tags": [
+                    "鶏肉",
+                    "科学的に検証された保存ガイド",
+                    "meat"
+                ],
+                "cautions": [
+                    {
+                        "title": "生鶏肉専用のまな板と包丁を必ず分けて使用してください 汚染 🔪",
+                        "desc": "生鶏肉を調理した包丁やまな板には目に見えない食中毒菌が残っています。使用後はすぐに熱湯（75℃以上）や洗剤で除菌消毒し、その道具で加熱せずに食べるサラダ用の野菜やきゅうりを絶対に切らないでください。"
+                    },
+                    {
+                        "title": "冷蔵保存の場合は1〜2日（48時間）以内に必ず消費してください ❄️",
+                        "desc": "鶏肉は牛肉や豚肉に比べて水分活性度が高く、細菌の増殖スピードが最も早いです。冷蔵（0〜4℃）保存は最大48時間を超えないようにし、すぐに食べない分はすぐに冷凍（-18℃以下）保存してください。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "水洗いは絶対に避ける — シンク周りの二次汚染を完全遮断 ❌💧",
+                        "text": "生鶏肉に付着している食中毒菌は、流れる水で洗うと水滴とともに半径50cm以内の食器やまな板、シンクへ一気に飛び散ります。💡保存のコツ：生鶏肉は絶対に水洗いしないでください。表面の水分や汚れはペーパータオルで優しく拭き取るか、沸騰したお湯にサッと通して下茹で（ブランチング）消毒してから調理するのが safe です。"
+                    },
+                    {
+                        "name": "ジッパーバッグで二重密閉し冷蔵庫の最下段奥に保存する — 冷蔵保存 (1〜2日) 📦",
+                        "text": "生鶏肉から出る赤い汁（ドリップ）には多くの食中毒菌が含まれており、他の食材に触れると直ちに汚染されます。💡保存のコツ：鶏肉をパックごとジッパーバッグに入れて二重に密閉してください。冷蔵庫内で最も温度が低く一定で、ドリップの落下を防げる「最下段の奥（0〜2℃）」に保存するのがベストです。"
+                    },
+                    {
+                        "name": "塩と料理酒で下味をつけるか小分けして急速冷凍する — 冷凍保存 (90日) ❄️",
+                        "text": "すぐに調理できない生鶏肉は、下味をつけるか冷凍して保存期間を延ばす必要があります。💡保存のコツ：冷蔵保存をさらに1日延ばすには、料理酒（または焼酎）と粗塩を軽く振っておきます。アルコールの殺菌作用と塩の浸透圧が傷みを遅らせます。2日以上保存する場合は1回分ずつラップで包み、ジッパーバッグに入れて冷凍室（-18℃以下）で保存してください。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "生鶏肉を調理前に水洗いしてはいけない科学的な理由は何ですか？",
+                        "answer": "生鶏肉の表面にはカンピロバクターやサルモネラなどの食中毒菌が存在することがあります。水道水で洗うと、水圧によって菌を含んだ微細な水滴がシンクや周囲の調理器具、食材に飛び散り、深刻な二次汚染を引き起こすためです。鶏肉の菌は調理時に中心温度75℃以上で1分以上加熱すれば完全に死滅するため、洗わずにそのまま加熱調理するのが最も安全です。"
+                    },
+                    {
+                        "question": "鶏肉はなぜ牛肉や豚肉よりも冷蔵保存期間が短いのですか？",
+                        "answer": "鶏肉は牛肉や豚肉に比べて筋肉繊維が細く柔らかい上に、水分含有量（水分活性度）が高いため、細菌が繁殖しやすい最高の環境を提供してしまうためです。0〜4℃の冷蔵環境でも細菌の増殖が進みやすいため、1〜2日以内に使い切るか、すぐに冷凍室（-18℃以下）で保存する必要があります。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "如何保持鸡肉新鲜：科学储存指南",
+                "description": "根据官方食品安全指南，了解鸡肉的最佳储存温度、方式和保鲜时长。",
+                "authority": "<strong>美国农务部(USDA) & 韩国食品医药品安全处(MFDS) & CDC</strong>",
+                "intro": "您是否曾不小心将生鸡肉放在水龙头下冲洗，结果担心细菌溅满整个水槽？🍗\n\n生鸡肉水分含量高且肌肉组织细嫩，是弯曲杆菌（Campylobacter）和沙门氏菌（Salmonella）等致病菌极易滋生的肉类。用自来水冲洗生鸡肉时，含有细菌的微小水滴会飞溅开来，污染周围的餐具和砧板，造成严重的“交叉污染”。\n\n今天FreshSnap基于美国疾病控制与预防中心(CDC)和韩国食品医药品安全处(MFDS)的卫生指南，为您带来3步科学保存秘诀，帮您杜绝交叉污染，安全锁定鸡肉的鲜嫩与营养。🛡️",
+                "whyTitle": "为什么要这样储存？科学原理",
+                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+                "guideTitle": "科学验证的储存指南",
+                "cautionTitle": "储存必需规则及注意事项",
+                "tags": [
+                    "鸡肉",
+                    "科学验证的储存指南",
+                    "meat"
+                ],
+                "cautions": [
+                    {
+                        "title": "切生鸡肉必须使用专用砧板与刀具 🔪",
+                        "desc": "处理生鸡肉的刀具和砧板上留有肉眼不可见的致病菌。使用后必须立即用热水（75℃以上）或洗洁精彻底消毒清洗，切勿直接用其切生食蔬菜或黄瓜等沙拉食材。"
+                    },
+                    {
+                        "title": "冷藏请在1~2天（48小时）内食用完毕，或立即冷冻 ❄️",
+                        "desc": "相比牛肉和猪肉，鸡肉的水分活性更高，细菌繁殖速度最快。冷藏（0~4℃）储存切勿超过48小时，无法近期食用的份量应立即放入冷冻室（-18℃以下）。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "严禁用水冲洗 — 阻断水槽交叉污染 ❌💧",
+                        "text": "冲洗生鸡肉时，附着的致病菌会随水花飞溅至半径50厘米以内的餐具、砧板和水槽台面上。💡储存小贴士：切勿用水冲洗生鸡肉。表面的水分和杂质用厨房纸巾轻压吸干即可，或在沸水中快速焯水消毒后再行烹饪。"
+                    },
+                    {
+                        "name": "用拉链袋双层密封，存放在冰箱最下层 — 冷藏保存 (1~2天) 📦",
+                        "text": "生鸡肉渗出的红色肉汁（血水）含有大量致病菌，一旦滴落到其他熟食上会引发污染。💡储存小贴士：将鸡肉连同包装装入拉链袋中进行双重密封。放在冰箱内温度最低且最稳定的“最下层深处（0~2℃）”冷藏，以防肉汁滴漏。"
+                    },
+                    {
+                        "name": "用盐和料酒微腌，或分装后急冻 — 冷冻保存 (90天) ❄️",
+                        "text": "买回后无法立即烹饪的生鸡肉，需通过腌制或冷冻来延长保质期。💡储存小贴士：若想延长1天冷藏期，可撒上少许粗盐和料酒（或烧酒），利用酒精杀菌与食盐渗透压延缓变质。保存超过2天时，请按单次用量用保鲜膜包裹后装入拉链袋放入冷冻室（-18℃以下）。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "烹饪生鸡肉前不要用水冲洗的科学依据是什么？",
+                        "answer": "生鸡肉表面可能携带弯曲杆菌或沙门氏菌。在水龙头下冲洗时，水压产生的细细水雾会将细菌飞溅到水槽、料理台及周围食物上，引发严重的交叉污染。鸡肉中的细菌在烹饪时加热至74℃以上维持1分钟即可彻底杀灭，因此无需冲洗，直接加热烹饪才是最安全的做法。"
+                    },
+                    {
+                        "question": "为什么鸡肉的冷藏保质期比牛肉或猪肉短？",
+                        "answer": "鸡肉的肌纤维比牛肉和猪肉更细嫩，且水分含量（水分活性）极高，为细菌繁殖提供了绝佳的环境。由于即使在0~4℃的冷藏环境下细菌依然会快速增殖，因此生鸡肉应在1~2天内食用完毕，或立即放入冷冻室（-18℃以下）保存。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cómo mantener el pollo fresco: Guía científica de conservación",
+                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para el pollo según las directrices oficiales de seguridad.",
+                "authority": "<strong>USDA & MFDS & CDC</strong>",
+                "intro": "¿Alguna vez lavó pollo crudo bajo el grifo y le preocupó esparcir bacterias por todo el fregadero de su cocina? 🍗\n\nEl pollo crudo tiene un alto contenido de agua y fibras musculares delicadas, lo que lo convierte en un medio de cultivo ideal para bacterias patógenas como Campylobacter jejuni y Salmonella. Lavar el pollo con agua corriente genera microgotas cargadas de bacterias que salpican tablas, vajillas y alimentos cercanos.\n\nHoy, FreshSnap comparte una guía científica en 3 pasos basada en las pautas del CDC, el USDA y el MFDS para prevenir la contaminación cruzada y mantener su pollo seguro, tierno y fresco. 🛡️",
+                "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+                "guideTitle": "Guía de almacenamiento científicamente probada",
+                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+                "tags": [
+                    "Pollo",
+                    "Guía de almacenamiento científicamente probada",
+                    "meat"
+                ],
+                "cautions": [
+                    {
+                        "title": "Utilice siempre tablas de cortar y cuchillos exclusivos para el pollo crudo 🔪",
+                        "desc": "Los utensilios usados para cortar pollo crudo contienen bacterias invisibles. Desinféctelos de inmediato con agua caliente (más de 75 °C) o detergente después de usarlos, y nunca use las mismas herramientas para cortar verduras crudas o ensaladas."
+                    },
+                    {
+                        "title": "Consúmalo en 1 o 2 días (48 horas) o congele inmediatamente ❄️",
+                        "desc": "El pollo posee una mayor actividad de agua y masa muscular suave que la carne de cerdo o res, lo que acelera el desarrollo bacteriano. Limite la refrigeración (0-4 °C) a un máximo de 48 horas y congele (-18 °C) lo que no vaya a cocinar de inmediato."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Nunca lave el pollo crudo con agua — Evite la contaminación cruzada en el fregadero ❌💧",
+                        "text": "Lavar el pollo salpica microgotas con bacterias de Campylobacter o Salmonella a hasta 50 cm alrededor del fregadero, contaminando platos y superficies. 💡 Consejo de almacenamiento: Nunca enjuague el pollo con agua. Seque la superficie presionando con toallas de papel o escáldelo brevemente en agua hirviendo antes de cocinar."
+                    },
+                    {
+                        "name": "Selle doblemente en bolsas Ziploc y guarde en el estante inferior — Refrigeración (1–2 días) 📦",
+                        "text": "El jugo rojo crudo (drip) del pollo contiene una elevada carga bacteriana que contamina otros alimentos si entra en contacto. 💡 Consejo de almacenamiento: Introduzca el pollo en una bolsa Ziploc para un doble sellado. Guárdelo en el estante inferior más frío (0-2 °C) del refrigerador para evitar goteos."
+                    },
+                    {
+                        "name": "Sazone ligeramente con sal y vino de cocina o congele — Congelación (90 días) ❄️",
+                        "text": "Si no va a cocinar el pollo de inmediato, sazonarlo o congelarlo rápidamente extiende su conservación. 💡 Consejo de almacenamiento: Para ganar un día extra en el refrigerador, espolvoree sal gruesa y vino de cocina; el alcohol desinfecta y la sal reafirma la carne. Para periodos más largos, envuelva porciones individuales en film y congele a menos de -18 °C."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Cuál es la razón científica para NO lavar el pollo crudo antes de cocinarlo?",
+                        "answer": "La superficie del pollo crudo puede albergar bacterias patógenas como Campylobacter o Salmonella. Lavarlo bajo el grifo crea gotitas de agua aerosolizadas que esparcen bacterias sobre el fregadero, utensilios y alimentos cercanos, causando contaminación cruzada grave. Cocinar el pollo hasta alcanzar una temperatura interna de 74 °C destruye todas las bacterias de manera segura sin necesidad de lavarlo."
+                    },
+                    {
+                        "question": "¿Por qué el pollo crudo dura menos en el refrigerador que la carne de res o cerdo?",
+                        "answer": "Las fibras musculares del pollo son más finas y suaves, y su alto contenido de humedad (actividad de agua) crea el ambiente perfecto para la multiplicación de bacterias. Como las bacterias de descomposición crecen rápidamente incluso a 0-4 °C, el pollo debe consumirse en 1-2 días o congelarse de inmediato a -18 °C."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Comment conserver le poulet frais : Guide scientifique de conservation",
+                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le poulet selon les directives officielles de sécurité.",
+                "authority": "<strong>USDA & MFDS & CDC</strong>",
+                "intro": "Avez-vous déjà lavé du poulet cru sous le robinet pour vous demander ensuite si vous n'aviez pas dispersé de dangereuses bactéries dans votre évier ? 🍗\n\nLa volaille crue possède une teneur élevée en eau et des fibres musculaires très tendres, ce qui en fait un terrain privilégié pour le développement de bactéries comme Campylobacter jejuni ou la Salmonelle. Laver le poulet cru sous l'eau crée des micro-gouttelettes qui éclaboussent le plan de travail et les ustensiles.\n\nAujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du CDC, du USDA et du MFDS pour éviter la contamination croisée et garder votre poulet sûr, tendre et frais. 🛡️",
+                "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
+                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+                "guideTitle": "Guide de conservation scientifiquement prouvé",
+                "cautionTitle": "Règles essentielles et précautions de stockage",
+                "tags": [
+                    "Poulet",
+                    "Guide de conservation scientifiquement prouvé",
+                    "meat"
+                ],
+                "cautions": [
+                    {
+                        "title": "Utilisez toujours des planches et des couteaux séparés pour le poulet cru 🔪",
+                        "desc": "Les ustensiles ayant servi au poulet cru abritent des bactéries invisibles. Désinfectez-les immédiatement à l'eau très chaude (plus de 75 °C) ou au liquide vaisselle, et ne les utilisez jamais pour découper des légumes crus ou des salades."
+                    },
+                    {
+                        "title": "Consommez sous 1 à 2 jours (48 heures) ou congelez immédiatement ❄️",
+                        "desc": "Le poulet présente une activité de l'eau plus élevée et une chair plus tendre que le porc ou le bœuf, ce qui accélère la multiplication bactérienne. Limitez la réfrigération (0–4 °C) à 48 heures maximum et congelez (-18 °C) les portions restantes."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Ne lavez jamais la volaille crue à l'eau — Éviter la contamination croisée ❌💧",
+                        "text": "Laver le poulet projette des gouttelettes invisibles contenant des bactéries (Campylobacter, Salmonelle) jusqu'à 50 cm autour de l'évier. 💡 Astuce de conservation : Ne rincez jamais le poulet à l'eau. Épongez la surface avec du papier absorbant ou ébouillantez-le très rapidement avant la cuisson."
+                    },
+                    {
+                        "name": "Sceller dans un double sac Ziploc et placer sur l'étagère du bas — Réfrigération (1–2 jours) 📦",
+                        "text": "Le jus rouge (exsudat) du poulet cru contient de nombreuses bactéries qui contaminent les autres aliments en cas de fuite. 💡 Astuce de conservation : Glissez le paquet dans un sac congélation pour un double scellage. Placez-le sur l'étagère du bas (0–2 °C), la zone la plus froide du réfrigérateur."
+                    },
+                    {
+                        "name": "Assaisonner légèrement ou emballer pour congeler — Stockage Congelé (90 jours) ❄️",
+                        "text": "Si vous ne cuisinez pas le poulet le jour même, l'assaisonner ou le congeler permet de prolonger sa fraîcheur. 💡 Astuce de conservation : Pour gagner 24 heures au frais, saupoudrez de sel gros et d'un trait d'alcool de cuisine ; l'alcool désinfecte et le sel raffermit la chair. Pour un stockage plus long, enveloppez les portions et congelez à -18 °C."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Quelle est la raison scientifique pour laquelle il ne faut PAS laver le poulet cru avant cuisson ?",
+                        "answer": "La surface du poulet cru peut héberger des bactéries pathogènes comme Campylobacter ou la Salmonelle. Le rincer sous le robinet génère un aérosol de micro-gouttelettes qui projette ces bactéries sur l'évier, les plans de travail et les aliments voisins. Une cuisson complète à cœur (74 °C) détruit totalement et sûrement toutes les bactéries sans qu'il soit besoin de le rincer."
+                    },
+                    {
+                        "question": "Pourquoi le poulet cru se conserve-t-il moins longtemps au frigo que le bœuf ou le porc ?",
+                        "answer": "Les fibres musculaires du poulet sont plus fines et souples, et sa forte teneur en eau (activité de l'eau) offre un terrain idéal à la prolifération des bactéries. Comme la dégradation bactérienne est rapide même entre 0 et 4 °C, la volaille crue doit être consommée sous 1 à 2 jours ou congelée immédiatement sous -18 °C."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Hähnchenfleisch richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Geflügelfleisch basierend auf offiziellen Sicherheitsrichtlinien.",
+                "authority": "<strong>USDA & MFDS & CDC</strong>",
+                "intro": "Haben Sie rohes Hähnchenfleisch schon einmal unter fließendem Wasser gewaschen und sich danach gesorgt, Bakterien in der Küche verteilt zu haben? 🍗\n\nRohes Geflügel besitzt einen hohen Wassergehalt und zartes Muskelgewebe, was es zum idealen Nährboden für Krankheitserreger wie Campylobacter jejuni und Salmonellen macht. Das Waschen unter fließendem Wasser führt dazu, dass bakterienhaltige Wassertropfen auf Arbeitsflächen und Geschirr spritzen (Kreuzkontamination).\n\nHeute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Hygieneempfehlungen von CDC, USDA und MFDS basiert, um Kreuzkontaminationen zu vermeiden und Ihr Hähnchenfleisch zart und frisch zu halten. 🛡️",
+                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+                "tags": [
+                    "Hähnchen",
+                    "Wissenschaftlich geprüfter Lagerungsratgeber",
+                    "meat"
+                ],
+                "cautions": [
+                    {
+                        "title": "Verwenden Sie für rohes Geflügel immer eigene Schneidebretter und Messer 🔪",
+                        "desc": "Werkzeuge, die für rohes Hähnchen verwendet wurden, enthalten unsichtbare Keime. Desinfizieren Sie diese nach Gebrauch sofort mit heißem Wasser (über 75 °C) oder Spülmittel und schneiden Sie damit niemals Rohkost oder Salate."
+                    },
+                    {
+                        "title": "Innerhalb von 1–2 Tagen (48 Stunden) verbrauchen oder sofort einfrieren ❄️",
+                        "desc": "Geflügel hat eine höhere Wasseraktivität und weichere Fasern als Schweine- oder Rindfleisch, wodurch sich Bakterien schneller vermehren. Begrenzen Sie die Kühlung (0–4 °C) auf maximal 48 Stunden und frieren Sie den Rest ein (-18 °C)."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Rohes Geflügel niemals mit Wasser waschen — Kreuzkontamination vermeiden ❌💧",
+                        "text": "Das Waschen von rohem Hähnchen spritzt feinste Wassertropfen mit Campylobacter- oder Salmonellenbakterien bis zu 50 cm weit um das Spülbecken. 💡 Lagerungstipp: Waschen Sie das Fleisch niemals. Tupfen Sie die Oberfläche stattdessen mit Küchenpapier trocken oder blanchieren Sie es kurz in kochendem Wasser."
+                    },
+                    {
+                        "name": "In Ziploc-Beuteln doppelt versiegeln und auf dem untersten Fach lagern — Kühlen (1–2 Tage) 📦",
+                        "text": "Der austretende rohe Fleischsaft (Drip) enthält hohe Bakterienmengen, die andere Lebensmittel bei Kontakt sofort kontaminieren. 💡 Lagerungstipp: Verpacken Sie das Fleisch doppelt in Beuteln. Lagern Sie es auf der untersten, kältesten Ebene (0–2 °C) des Kühlschranks."
+                    },
+                    {
+                        "name": "Leicht mit Salz und Kochwein würzen oder einfrieren — Gefrierlagerung (90 Tage) ❄️",
+                        "text": "Wenn Sie das Fleisch nicht sofort zubereiten, verlängert leichtes Anwürzen oder Einfrieren die Haltbarkeit. 💡 Lagerungstipp: Bestreuen Sie das Fleisch mit etwas Salz und Kochwein für einen zusätzlichen Tag Frische im Kühlschrank; Alkohol wirkt desinfizierend, Salz festigt das Gewebe. Für längere Zeiten einzeln einwickeln und bei -18 °C einfrieren."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Was ist der wissenschaftliche Grund dafür, rohes Hähnchen vor dem Kochen NICHT zu waschen?",
+                        "answer": "Auf rohem Geflügel können sich Krankheitserreger wie Campylobacter oder Salmonellen befinden. Das Waschen unter dem Wasserhahn erzeugt feine Sprühnebel, die Bakterien auf Spülbecken, Küchengeräte und Lebensmittel übertragen. Das Durchgaren auf eine Kerntemperatur von 74 °C tötet alle Bakterien zuverlässig ab, ohne dass ein Abwaschen nötig ist."
+                    },
+                    {
+                        "question": "Warum ist Hähnchenfleisch im Kühlschrank kürzer haltbar als Rind- oder Schweinefleisch?",
+                        "answer": "Hähnchenfleisch hat feinere, weichere Muskelfasern und einen sehr hohen Feuchtigkeitsgehalt (Wasseraktivität), was ein ideales Milieu für Bakterien schafft. Da sich Fäulnisbakterien auch bei 0–4 °C schnell vermehren, sollte rohes Geflügel innerhalb von 1–2 Tagen verbraucht oder sofort bei unter -18 °C eingefroren werden."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Como conservar frango fresco: Guia científico de armazenamento",
+                "description": "Descubra a temperatura, método e tempo de conservação ideais para frango com base em diretrizes oficiais de segurança.",
+                "authority": "<strong>USDA & MFDS & CDC</strong>",
+                "intro": "Você já lavou frango cru na pia e ficou preocupado em ter espalhado bactérias por toda a cozinha? 🍗\n\nA carne de frango possui alto teor de umidade e fibras musculares macias, sendo o meio ideal para o crescimento de bactérias patogênicas como Campylobacter jejuni e Salmonella. Lavar o frango em água corrente gera microgotas que espirram e contaminam bancadas, louças e utensílios.\n\nHoje, o FreshSnap apresenta um guia de conservação em 3 etapas baseado em diretrizes do CDC, USDA e MFDS para evitar a contaminação cruzada e manter seu frango seguro, macio e fresco. 🛡️",
+                "whyTitle": "Por que armazenar assim? Fatos científicos",
+                "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+                "guideTitle": "Guia de armazenamento comprovado cientificamente",
+                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+                "tags": [
+                    "Frango",
+                    "Guia de armazenamento comprovado cientificamente",
+                    "meat"
+                ],
+                "cautions": [
+                    {
+                        "title": "Use sempre tábuas de cortar e facas exclusivas para o frango cru 🔪",
+                        "desc": "Os utensílios usados para cortar frango cru abrigam bactérias invisíveis. Higienize-os imediatamente com água quente (acima de 75 °C) ou detergente após o uso, e nunca utilize os mesmos utensílios para cortar vegetais crus ou saladas."
+                    },
+                    {
+                        "title": "Consuma em 1 a 2 dias (48 horas) ou congele imediatamente ❄️",
+                        "desc": "O frango possui maior atividade de água e tecido muscular macio do que a carne bovina ou suína, o que acelera a multiplicação de bactérias. Limite a refrigeração (0-4 °C) a no máximo 48 horas e congele (-18 °C) as porções restantes."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Nunca lave o frango cru com água — Evite contaminação cruzada na pia ❌💧",
+                        "text": "Lavar o frango lança microgotas contendo bactérias como Campylobacter ou Salmonella a até 50 cm ao redor da pia. 💡 Dica de conservação: Nunca enxágue o frango. Seque a superfície pressionando com papel-toalha ou passe rapidamente em água fervente antes de cozinhar."
+                    },
+                    {
+                        "name": "Sele duplamente em sacos Ziploc e guarde na prateleira inferior — Refrigeração (1–2 dias) 📦",
+                        "text": "O suco vermelho cru (drip) do frango contém altas cargas bacterianas que contaminam outros alimentos ao entrar em contato. 💡 Dica de conservação: Coloque o frango em um saco Ziploc para dupla vedação. Guarde na prateleira inferior mais fria (0-2 °C) para evitar gotejamentos."
+                    },
+                    {
+                        "name": "Tempere levemente com sal e vinho de cozinha ou congele — Congelamento (90 dias) ❄️",
+                        "text": "Se não for cozinhar o frango imediatamente, temperá-lo ou congelá-lo rapidamente estende sua validade. 💡 Dica de conservação: Para ganhar um dia extra na geladeira, salpique sal grosso e vinho de cozinha; o álcool desinfeta e o sal firma a carne. Para períodos mais longos, embale em porções e congele a menos de -18 °C."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Qual é a razão científica para NÃO lavar o frango cru antes de cozinhar?",
+                        "answer": "A superfície do frango cru pode conter bactérias patogênicas como Campylobacter ou Salmonella. Lavá-lo na pia cria aerossóis de microgotas que espalham bactérias pela pia, bancadas e alimentos próximos. O cozimento completo até atingir a temperatura interna de 74 °C destrói todas as bactérias com segurança sem a necessidade de lavar."
+                    },
+                    {
+                        "question": "Por que o frango cru dura menos na geladeira do que a carne bovina ou suína?",
+                        "answer": "As fibras musculares do frango são mais finas e macias, e seu alto teor de umidade (atividade de água) oferece o ambiente perfeito para a proliferação bacteriana. Como as bactérias se multiplicam rapidamente mesmo a 0-4 °C, a carne de frango deve ser consumida em 1 a 2 dias ou congelada imediatamente a menos de -18 °C."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Cara Menyimpan Daging Ayam agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk daging ayam mentah berdasarkan pedoman keselamatan resmi.",
+                "authority": "<strong>USDA & MFDS & CDC</strong>",
+                "intro": "Pernahkah Anda mencuci ayam mentah di bawah kran lalu khawatir bakteri berbahaya menyebar ke seluruh bak cuci piring Anda? 🍗\n\nDaging ayam mentah memiliki kadar air yang tinggi dan serat otot yang lembut, menjadikannya media perkembangbiakan ideal bagi bakteri patogen seperti Campylobacter jejuni dan Salmonella. Mencuci ayam mentah dengan air mengalir menyebabkan cipratan tetesan air halus yang mengontaminasi meja dapur dan peralatan masak.\n\nHari ini, FreshSnap membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan pedoman higienitas CDC, USDA, dan MFDS untuk mencegah kontaminação silang dan menjaga daging ayam Anda tetap aman, empuk, dan segar. 🛡️",
+                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+                "tags": [
+                    "Daging ayam",
+                    "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                    "meat"
+                ],
+                "cautions": [
+                    {
+                        "title": "Selalu gunakan talenan dan pisau khusus untuk ayam mentah 🔪",
+                        "desc": "Peralatan yang digunakan untuk memotong ayam mentah mengandung bakteri tak terlihat. Segera sterilkan dengan air panas (di atas 75°C) atau sabun cuci piring setelah digunakan, dan jangan pernah menggunakan pisau/talenan yang sama untuk memotong sayuran mentah atau salad."
+                    },
+                    {
+                        "title": "Konsumsi dalam 1–2 hari (48 jam) atau segera bekukan ❄️",
+                        "desc": "Daging ayam memiliki aktivitas air yang lebih tinggi dan serat otot yang lebih lembut dibanding daging sapi/babi, membuat bakteri berkembang biak jauh lebih cepat. Batasi penyimpanan dingin (0–4°C) maksimal 48 jam, dan bekukan (-18°C) porsi yang tidak langsung dimasak."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Jangan pernah mencuci ayam mentah dengan air — Hindari Kontaminasi Silang Bak Cuci Piring ❌💧",
+                        "text": "Mencuci ayam mentah memercikkan tetesan air mikroskopis yang mengandung bakteri Campylobacter atau Salmonella hingga radius 50 cm di sekitar bak cuci piring. 💡 Tips Penyimpanan: Jangan pernah membilas ayam mentah. Lap permukaannya dengan tisu dapur atau rebus sebentar dalam air mendidih untuk sterilisasi sebelum dimasak."
+                    },
+                    {
+                        "name": "Segel ganda dalam kantong Ziploc lalu simpan di rak paling bawah — Simpan Dingin (1–2 Hari) 📦",
+                        "text": "Cairan darah (drip) dari ayam mentah mengandung jumlah bakteri tinggi yang dapat mencemari makanan lain jika menetes. 💡 Tips Penyimpanan: Masukkan ayam ke dalam kantong Ziploc untuk penyegelan ganda. Simpan di rak paling bawah (0–2°C) yang paling dingin untuk mencegah tetesan cairan."
+                    },
+                    {
+                        "name": "Bumbui tipis dengan garam dan alkohol masak atau bekukan — Simpan Beku (90 Hari) ❄️",
+                        "text": "Jika tidak langsung dimasak, membumbui tipis atau membekukan ayam secara cepat dapat memperpanjang masa simpan. 💡 Tips Penyimpanan: Untuk menambah 1 hari masa simpan di kulkas, taburkan sedikit garam kasar dan alkohol/sake masak; alkohol berfungsi membunuh bakteri dan garam mengencangkan serat daging. Untuk jangka panjang, bungkus per porsi dan bekukan di bawah -18°C."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Apa alasan ilmiah mengapa TIDAK boleh mencuci ayam mentah sebelum dimasak?",
+                        "answer": "Permukaan daging ayam mentah dapat mengandung bakteri patogen seperti Campylobacter atau Salmonella. Membilasnya di bawah kran menghasilkan cipratan air halus yang menyebarkan bakteri ke bak cuci piring, meja dapur, dan makanan di sekitarnya (kontaminasi silang). Memasak ayam hingga matang sempurna (suhu bagian dalam 74°C) akan membunuh semua bakteri secara aman tanpa perlu dicuci."
+                    },
+                    {
+                        "question": "Mengapa daging ayam mentah memiliki masa simpan kulkas yang lebih pendek daripada daging sapi atau babi?",
+                        "answer": "Serat otot daging ayam lebih halus dan lembut, ditambah dengan kandungan air (aktivitas air) yang tinggi sehingga memberikan lingkungan sempurna bagi perkembangan bakteri. Karena bakteri pembusuk berkembang biak dengan cepat bahkan pada suhu 0–4°C, daging ayam mentah harus dikonsumsi dalam 1–2 hari atau segera dibekukan di bawah suhu -18°C."
+                    }
+                ]
+            }
+        }
     }
-  }
 }

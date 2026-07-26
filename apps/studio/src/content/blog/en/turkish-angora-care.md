@@ -6,7 +6,7 @@ pubDate: "2026-04-07"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
 tags: ["PetCare","PetHealth","Turkish Angora"]
-heroImage: "/images/blog/turkish_angora_care.png"
+heroImage: "/images/blog/turkish_angora_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Cat Fanciers' Association (CFA) Turkish Angora Breed Council & Veterinary Deafness Studies"

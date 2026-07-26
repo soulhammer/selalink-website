@@ -6,7 +6,7 @@ pubDate: "2026-06-18"
 updatedDate: "2026-06-18"
 category: "FreshSnap"
 tags: ["PenyimpananMakanan","PenyimpananSegar","nuts"]
-heroImage: "/images/blog/nuts_storage_hack.png"
+heroImage: "/images/blog/nuts_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & USDA & FDA</strong>"

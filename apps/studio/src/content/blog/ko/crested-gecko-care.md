@@ -1,0 +1,149 @@
+---
+layout: "../../../layouts/BlogPostLayout.astro"
+title: "크레스티드 게코의 탈피·습도 케어와 행동 신호를 위한 3단계 데일리 홈케어"
+description: "속눈썹 도마뱀 크레스티드 게코(Crested Gecko). MBD(대사성 뼈 질환) 예방과 적정 습도(60% ~ 80%), 꼬리 자르기·꼬리 흔들기 신호 해석을 위한 3단계 홈케어 루틴을 소개합니다."
+pubDate: "2026-07-26"
+updatedDate: "2026-07-26"
+category: "FreshSelf"
+tags: ["반려동물","펫케어","크레스티드 게코 / 속눈썹 도마뱀 (Crested Gecko)"]
+heroImage: "/images/blog/crested_gecko_care.webp"
+app: "petself"
+formatVersion: 4
+authority: "국제 파충류 보전 수의학 프로토콜 및 USARK Care Standards"
+steps:
+  - name: "크레스티드 게코의 바디 랭귀지: S자 꼬리 흔들기와 혀 핥기 (Eye Wiping)"
+    text: "크레스티드 게코는 꼬리의 움직임과 혀 핥기로 감정 상태를 표현합니다. 꼬리를 S자로 세우고 천천히 흔드는 행동은 위협을 느끼거나 위장/경계 중임을 나타내는 '경계 및 위협 신호(Tail S-Wagging)'입니다. 반면 눈동자나 코 주변을 혀로 쓱 핥는 것은 눈꺼풀이 없는 눈에 수분을 공급하고 냄새 입자를 수집하는 자연스러운 '위생 및 탐색 신호(Eye Wiping)'입니다."
+  - name: "크레스티드 게코 / 속눈썹 도마뱀 (Crested Gecko)의 몸짓 언어와 바디 시그널"
+    text: "* 꼬리를 S자로 세우고 천천히 흔듦 (Tail S-Wagging): 포식자나 위협을 느꼈을 때 자해 절단(자투) 전에 보이는 극심한 경계 및 스트레스 반응입니다. (핸들링을 즉시 중단하고 어둡고 조용한 은신처로 돌려보내 안정을 취하게 합니다.)
+
+* 혀로 눈동자나 입 주변을 쓱 핥음 (Eye Wiping / Tongue Flicking): 눈꺼풀이 없는 눈 표면에 수분을 공급하고 자콥슨 기관으로 냄새 입자를 전달하는 자연스러운 행동입니다. (정상적인 행동이므로 방해하지 말고, 사육장 내 습도(60% ~ 80%)가 적절한지 점검해 줍니다.)"
+  - name: "크레스티드 게코 / 속눈썹 도마뱀 (Crested Gecko) 맞춤형 3단계 홈케어 루틴"
+    text: "* STEP 1. 아침: 사육장 벽면 분무 및 서늘한 온·습도 점검: 사육장 벽면에 분무하여 벽면 물방울을 핥아먹을 수 있도록 수분을 공급하고, 서늘한 주간 온도(22°C ~ 25°C)를 유지합니다.
+
+* STEP 2. 낮: 직사광선 차단 및 은신처 수면 환경 모니터링: 28°C 이상의 고온에 매우 취약하므로 서늘하고 어두운 장소에서 숙면을 취할 수 있도록 직사광선을 차단합니다.
+
+* STEP 3. 저녁: 슈퍼푸드 급여 및 야간 습도(70% ~ 80%) 분무: 2 ~ 3일에 한 번 칼슘이 첨가된 슈퍼푸드를 급여하고, 야행성 활동을 위해 사육장 전체에 촉촉하게 분무해 줍니다."
+faqs:
+  - question: "크레스티드 게코는 꼬리가 잘리면 다시 자라나나요?"
+    answer: "아니요, 크레스티드 게코는 다른 도마뱀과 달리 한번 잘린 꼬리가 다시 재생되지 않으며 잘린 자리는 버튼 모양으로 굳어집니다. 따라서 강하게 꼬리를 잡거나 극심한 스트레스를 주지 않도록 주의해야 합니다."
+  - question: "생먹이(귀뚜라미)를 꼭 먹여야 하나요? 슈퍼푸드만 먹여도 되나요?"
+    answer: "크레스티드 게코 전용 영양 가루인 '슈퍼푸드(MRP)'만으로도 완벽한 영양 공급이 가능합니다. 다만 칼슘 흡수 부족으로 인한 MBD(대사성 뼈 질환)를 예방하기 위해 칼슘제 첨가 여부를 주기적으로 확인해야 합니다."
+---
+
+속눈썹을 닮은 벼슬 장식이 특징인 크레스티드 게코(Crested Gecko)는 온순한 성격과 인공 사료(슈퍼푸드) 급여의 편리함으로 전 세계에서 가장 사랑받는 붙붙이도마뱀입니다. 하지만 나무위성(Arboreal) 파충류로서 높이가 높은 사육장 환경과 적정 습도(60% ~ 80%), 서늘한 온도(20°C ~ 26°C) 관리가 필수적입니다. 특히 칼슘 흡수 부족으로 인한 MBD(대사성 뼈 질환)를 예방해야 하며, 한번 잘린 꼬리는 재생되지 않으므로 스트레스 방지가 중요합니다. 오늘 PetSelf에서는 크레스티드 게코의 신체 신호를 읽고 건강을 지키는 3단계 홈케어 루틴을 소개합니다.
+
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
+  <span class="text-2xl">🛡️</span>
+  <div>
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      수의학적 & 행동학적 근거
+    </h5>
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
+      본 콘텐츠는 <strong>국제 파충류 보전 수의학 프로토콜 및 USARK Care Standards</strong>에 기반하고 있습니다.
+    </p>
+  </div>
+</div>
+
+---
+
+## 1. 크레스티드 게코의 바디 랭귀지: S자 꼬리 흔들기와 혀 핥기 (Eye Wiping)
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">크레스티드 게코의 바디 랭귀지: S자 꼬리 흔들기와 혀 핥기 (Eye Wiping)</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    크레스티드 게코는 꼬리의 움직임과 혀 핥기로 감정 상태를 표현합니다. 꼬리를 S자로 세우고 천천히 흔드는 행동은 위협을 느끼거나 위장/경계 중임을 나타내는 '경계 및 위협 신호(Tail S-Wagging)'입니다. 반면 눈동자나 코 주변을 혀로 쓱 핥는 것은 눈꺼풀이 없는 눈에 수분을 공급하고 냄새 입자를 수집하는 자연스러운 '위생 및 탐색 신호(Eye Wiping)'입니다.
+  </p>
+</div>
+
+---
+
+## 2. 크레스티드 게코 / 속눈썹 도마뱀 (Crested Gecko)의 몸짓 언어와 바디 시그널
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">바디 시그널 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">꼬리를 S자로 세우고 천천히 흔듦 (Tail S-Wagging)</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• 의미:</strong> 포식자나 위협을 느꼈을 때 자해 절단(자투) 전에 보이는 극심한 경계 및 스트레스 반응입니다.<br/>
+    <strong>• 대처법:</strong> 핸들링을 즉시 중단하고 어둡고 조용한 은신처로 돌려보내 안정을 취하게 합니다.
+  </p>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">바디 시그널 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">혀로 눈동자나 입 주변을 쓱 핥음 (Eye Wiping / Tongue Flicking)</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• 의미:</strong> 눈꺼풀이 없는 눈 표면에 수분을 공급하고 자콥슨 기관으로 냄새 입자를 전달하는 자연스러운 행동입니다.<br/>
+    <strong>• 대처법:</strong> 정상적인 행동이므로 방해하지 말고, 사육장 내 습도(60% ~ 80%)가 적절한지 점검해 줍니다.
+  </p>
+</div>
+
+---
+
+## 3. 크레스티드 게코 / 속눈썹 도마뱀 (Crested Gecko) 맞춤형 3단계 홈케어 루틴
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">아침: 사육장 벽면 분무 및 서늘한 온·습도 점검</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    사육장 벽면에 분무하여 벽면 물방울을 핥아먹을 수 있도록 수분을 공급하고, 서늘한 주간 온도(22°C ~ 25°C)를 유지합니다.
+  </p>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">낮: 직사광선 차단 및 은신처 수면 환경 모니터링</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    28°C 이상의 고온에 매우 취약하므로 서늘하고 어두운 장소에서 숙면을 취할 수 있도록 직사광선을 차단합니다.
+  </p>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">저녁: 슈퍼푸드 급여 및 야간 습도(70% ~ 80%) 분무</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    2 ~ 3일에 한 번 칼슘이 첨가된 슈퍼푸드를 급여하고, 야행성 활동을 위해 사육장 전체에 촉촉하게 분무해 줍니다.
+  </p>
+</div>
+
+---
+
+
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> 자주 묻는 질문 (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
+      <span>크레스티드 게코는 꼬리가 잘리면 다시 자라나나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      아니요, 크레스티드 게코는 다른 도마뱀과 달리 한번 잘린 꼬리가 다시 재생되지 않으며 잘린 자리는 버튼 모양으로 굳어집니다. 따라서 강하게 꼬리를 잡거나 극심한 스트레스를 주지 않도록 주의해야 합니다.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>생먹이(귀뚜라미)를 꼭 먹여야 하나요? 슈퍼푸드만 먹여도 되나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      크레스티드 게코 전용 영양 가루인 '슈퍼푸드(MRP)'만으로도 완벽한 영양 공급이 가능합니다. 다만 칼슘 흡수 부족으로 인한 MBD(대사성 뼈 질환)를 예방하기 위해 칼슘제 첨가 여부를 주기적으로 확인해야 합니다.
+    </p>
+  </details>
+</div>

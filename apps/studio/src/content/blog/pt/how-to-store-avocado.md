@@ -6,7 +6,7 @@ pubDate: "2026-02-07"
 updatedDate: "2026-02-07"
 category: "FreshSnap"
 tags: ["ConservacaoAlimentos","ArmazenamentoFresco","avocado"]
-heroImage: "/images/blog/avocado_storage_hack.png"
+heroImage: "/images/blog/avocado_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>CAC & USDA & MFDS</strong>"

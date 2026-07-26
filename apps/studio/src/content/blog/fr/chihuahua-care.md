@@ -6,7 +6,7 @@ pubDate: "2026-07-01"
 updatedDate: "2026-07-01"
 category: "FreshSelf"
 tags: ["SoinAnimaux","SanteAnimaux","Chihuahua (Canis lupus familiaris)"]
-heroImage: "/images/blog/chihuahua_care.png"
+heroImage: "/images/blog/chihuahua_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Manuel de race du Chihuahua Club of America et Directives pour les Soins Métaboliques des Races Toy de l'AVMA"

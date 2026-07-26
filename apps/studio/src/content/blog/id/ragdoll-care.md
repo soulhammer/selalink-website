@@ -6,7 +6,7 @@ pubDate: "2026-06-18"
 updatedDate: "2026-06-18"
 category: "FreshSelf"
 tags: ["PerawatanHewan","KesehatanHewan","Ragdoll (Felis catus)"]
-heroImage: "/images/blog/ragdoll_care.png"
+heroImage: "/images/blog/ragdoll_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Panduan Ras Resmi Cat Fanciers' Association (CFA) & Pedoman Praktik Ramah Kucing AAFP"

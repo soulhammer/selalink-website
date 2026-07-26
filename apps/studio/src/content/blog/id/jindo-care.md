@@ -6,7 +6,7 @@ pubDate: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "FreshSelf"
 tags: ["PerawatanHewan","KesehatanHewan","Anjing Jindo (Canis lupus familiaris)"]
-heroImage: "/images/blog/jindo_care.png"
+heroImage: "/images/blog/jindo_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Pedoman Standar Jindo Lembaga Ilmu Peternakan Nasional Korea & Protokol Pakar Perilaku KKC"

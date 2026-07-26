@@ -6,7 +6,7 @@ pubDate: "2026-02-17"
 updatedDate: "2026-02-17"
 category: "FreshSelf"
 tags: ["CuidadoPets","SaudePets","Coelho Anão de Holanda (Oryctolagus cuniculus)"]
-heroImage: "/images/blog/dwarf_rabbit_care.png"
+heroImage: "/images/blog/dwarf_rabbit_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Diretrizes Médicas da House Rabbit Society e Padrões Veterinários de Pequenos Animais"

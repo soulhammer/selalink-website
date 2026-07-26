@@ -26,7 +26,7 @@ faqs:
 
 Konosuke Matsushita (1894–1989), the founder of Panasonic (Matsushita Electric Industrial Co., Ltd.) in Japan. Revered as the 'God of Management', he overcame poverty, frail health, and limited formal education to build a global conglomerate. Throughout his life, his fragile constitution caused chronic fatigue and stomach ailments, while forcing him to endure immense stress amidst tens of thousands of daily business decisions. The hidden ritual that enabled him to maintain unwavering resolve and remarkable decisiveness amidst extreme physical limitations and mental pressure was his nightly 'bath contemplation and reflection'.
 
-At the end of each day, Matsushita filled his tub at home or accommodation with warm water between 38°C and 40°C and fully immersed himself. Feeling the flow of water and gentle warmth against his skin, he silently reviewed his daily decisions and interpersonal interactions. During this relaxed time, he quietly asked himself: "Were my words and actions today appropriate?" and "Did the value we created truly help the world?" From a brain science perspective, this simple aquatic meditation was a clear method of parasympathetic regulation that suppresses stress responses and awakens high-level creative insight.
+At the end of each day, Matsushita filled his tub at home or accommodation with warm water between 38°C and 40°C and fully immersed himself. Feeling the flow of water and gentle warmth against his skin, he silently reviewed his daily decisions and interpersonal interactions. During this relaxed time, he quietly asked himself: "Were my words and actions today appropriate?" and "Did the value we created truly help the world?" From a brain science perspective, this simple aquatic meditation was a clear method of parasympathetic regulation that suppresses stressand awakens high-level creative insight.
 
 In today's post, we analyze the neuroscience of the autonomic nervous system and the Default Mode Network (DMN) embedded in Konosuke Matsushita's bath reflection routine, offering a 3-step evening guide for modern individuals to shed daily tension and achieve optimal cognitive alignment.
 
@@ -46,7 +46,7 @@ In today's post, we analyze the neuroscience of the autonomic nervous system and
 
 ## 1. Synergy Between Warm Water Relaxation and the Default Mode Network
 
-Bathing in warm water raises core body temperature and activates parasympathetic nerves, reducing cortisol. A relaxed state isolated from external stimuli stimulates the brain's Default Mode Network (DMN), fostering creative insights. According to neuroscientific research, this practice suppresses unnecessary anxiety responses in the amygdala and activates visuospatial sketchpad circuits, dramatically enhancing executive function.
+Bathing in warm water raises core body temperature and activates parasympathetic nerves, reducing cortisol. A relaxed state isolated from external stimuli stimulates the brain's Default Mode Network (DMN), fostering creative insights. According to neuroscientific research, this practice suppresses unnecessary anxietyin the amygdala and activates visuospatial sketchpad circuits, dramatically enhancing executive function.
 
 ---
 

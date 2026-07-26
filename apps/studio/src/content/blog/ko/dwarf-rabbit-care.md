@@ -6,7 +6,7 @@ pubDate: "2026-02-17"
 updatedDate: "2026-02-17"
 category: "FreshSelf"
 tags: ["반려동물","펫케어","네덜란드 드워프 토끼 (Oryctolagus cuniculus)"]
-heroImage: "/images/blog/dwarf_rabbit_care.png"
+heroImage: "/images/blog/dwarf_rabbit_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "House Rabbit Society 토끼 메디컬 가이드 및 소동물 수의학 행동 매뉴얼"

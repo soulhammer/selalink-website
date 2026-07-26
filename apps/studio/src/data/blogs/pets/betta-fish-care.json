@@ -1,525 +1,525 @@
 {
-  "betta-fish-care": {
-    "pubDate": "2026-04-15",
-    "updatedDate": "2026-04-15",
-    "locales": {
-      "ko": {
-        "title": "베타 피쉬의 플레어링 영역 신호와 화려한 지느러미 보존 3단계 루틴",
-        "description": "화려한 화관 지느러미를 가진 베타(Betta Fish). 플레어링(Flaring) 스트레스 표현과 수류 관리, 라비린스 기관 호흡을 고려한 3단계 케어 루틴.",
-        "authority": "양서파충류 및 수생동물 수의학 기준 (WSAVA 수생동물 건강 가이드라인 및 관상어 임상 표준)",
-        "profile": {
-          "breed": "베타 피쉬 (Betta splendens / 샴 싸움고기)",
-          "lifespan": "3 ~ 5년",
-          "sleep_pattern": "8 ~ 10시간 (수초/베타 침대 위 수면)",
-          "temperament": "영역 의식 강함, 화려함, 민감함, 호기심"
+    "betta-fish-care": {
+        "pubDate": "2026-04-15",
+        "updatedDate": "2026-04-15",
+        "locales": {
+            "ko": {
+                "title": "베타 피쉬의 플레어링 영역 신호와 화려한 지느러미 보존 3단계 루틴",
+                "description": "화려한 화관 지느러미를 가진 베타(Betta Fish). 플레어링(Flaring) 스트레스 표현과 수류 관리, 라비린스 기관 호흡을 고려한 3단계 케어 루틴.",
+                "authority": "양서파충류 및 수생동물 수의학 기준 (WSAVA 수생동물 건강 가이드라인 및 관상어 임상 표준)",
+                "profile": {
+                    "breed": "베타 피쉬 (Betta splendens / 샴 싸움고기)",
+                    "lifespan": "3 ~ 5년",
+                    "sleep_pattern": "8 ~ 10시간 (수초/베타 침대 위 수면)",
+                    "temperament": "영역 의식 강함, 화려함, 민감함, 호기심"
+                },
+                "intro": "드레스처럼 펼쳐지는 지느러미와 우아한 헤엄을 자랑하는 베타(Betta)는 관상어 중 가장 강렬한 매력을 가진 보석 같은 물고기입니다. 세계소동물수의사회(WSAVA)의 관상어 복지 가이드에 따르면, 베타는 공기 중 산소를 직접 호흡하는 '라비린스(Labyrinth) 기관'을 갖고 있어 수면 근처에 휴식할 수 있는 수초나 베타 침대(Leaf bed)가 필수적이며, 약한 수류와 안정적 수온(24°C ~ 26°C)이 유지되어야 녹는 지느러미 병(Fin Rot)을 예방할 수 있습니다.",
+                "whyTitle": "베타의 의사소통: 아가미 펼침(Flaring)과 수면 휴식 행동",
+                "whyDesc": "베타가 아가미 덮개를 벌리고 지느러미를 쫙 펴는 '플레어링(Flaring)'은 강력한 경고이자 흥분 신호입니다. 적절한 일일 5분 플레어링은 운동이 되지만, 지속적 플레어링은 면역력을 약화시킵니다.",
+                "body_signals": [
+                    {
+                        "name": "아가미 덮개를 벌리고 지느러미를 최대 팽창 (Flaring)",
+                        "meaning": "영역 침범에 대한 경고 또는 자기 거울 모습에 대한 공격성·스트레스 표출입니다.",
+                        "response": "거울이나 수조 옆 반사되는 물체를 치워주어 5분 이상 지속되지 않도록 조치합니다."
+                    },
+                    {
+                        "name": "수면 근처 수초 잎 위에 가만히 누워있음 (Labyrinth Resting)",
+                        "meaning": "라비린스 기관으로 호흡하며 지느러미 무게를 덜고 깊은 수면을 취하는 정상적 휴식입니다.",
+                        "response": "아픈 것이 아니므로 조명을 어둡게 해주고 수류가 세게 불지 않도록 스펀지 여과기를 조율해 줍니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 수온(24°C ~ 26°C) 및 여과기 약한 수류 상태 확인",
+                        "text": "수온계 모니터링 후 히터 작동 여부를 확인하고 베타가 헤엄치기 힘들어하는 강한 수류가 없는지 검사합니다."
+                    },
+                    {
+                        "name": "낮: 베타 전용 펠릿 사료 분할 급여 및 수질 잔여물 수거",
+                        "text": "고단백 베타 전용 펠릿을 3~4알씩 나누어 급여하고 먹지 않고 떨어진 사료는 5분 내 스포이트로 픽업합니다."
+                    },
+                    {
+                        "name": "저녁: 거품집(Bubble Nest) 관찰 및 5분간의 활력 플레어링 훈련",
+                        "text": "수면에 만들어진 거품집 상태를 살피고, 거울을 3~5분간 대어주어 지느러미 유착을 막는 운동을 시킵니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "지느러미 끝이 뜯긴 것처럼 갈라지고 검게 변하는데 왜 그런가요?",
+                        "answer": "지느러미 썩음병(Fin Rot)의 전형적 증상으로 수질 오염(여과 부실)이나 스트레스가 원인입니다. 환수(20~30%)를 자주 해주고 필요시 수의사 처방 앰풀을 투여하세요."
+                    },
+                    {
+                        "question": "여과기 없이 작은 어항에서 키워도 되나요?",
+                        "answer": "베타는 산소 호흡이 가능하지만 여과기 없는 소형 어항은 여과 미생물이 생기지 않아 수질이 급격히 악화됩니다. 최소 15리터 이상의 어항과 저수류 스펀지 여과기가 권장됩니다."
+                    }
+                ],
+                "tags": [
+                    "베타피쉬",
+                    "관상어케어",
+                    "플레어링",
+                    "WSAVA지침",
+                    "지느러미관리"
+                ]
+            },
+            "en": {
+                "title": "Betta Fish Flaring Communication and 3-Step Daily Routine for Fin Preservation",
+                "description": "Comprehensive care guide for Betta Fish with magnificent flowing fins. Understand flaring stress signals, low-current management, and labyrinth organ breathing in a 3-step routine.",
+                "authority": "World Small Animal Veterinary Association (WSAVA) Aquatic Animal Health Standards and Ornamental Fish Clinical Standards",
+                "profile": {
+                    "breed": "Betta Fish (Betta splendens / Siamese Fighting Fish)",
+                    "lifespan": "3 - 5 Years",
+                    "sleep_pattern": "8 - 10 Hours (Rests on Near-Surface Leaves/Betta Beds)",
+                    "temperament": "Territorial, Elegant, Sensitive, Highly Curious"
+                },
+                "intro": "Boasting magnificent gown-like fins and regal swimming elegance, the Betta fish is a jewel-like companion among aquatic pets. According to WSAVA aquatic guidelines, Bettas possess a specialized 'labyrinth organ' allowing them to breathe atmospheric oxygen directly at the surface, making resting aquatic plants or leaf beds near the surface essential. Maintaining low water currents and stable water temperatures (24°C ~ 26°C) is key to preventing debilitating Fin Rot.",
+                "whyTitle": "Betta Communication: Deciphering Gill Flaring & Surface Resting Behavior",
+                "whyDesc": "Flaring—expanding gill covers and fully fanning out fins—is a strong territorial warning and excitement display. Controlled 5-minute daily flaring provides beneficial exercise for fin health, but constant flaring leads to chronic stress and weakened immunity.",
+                "body_signals": [
+                    {
+                        "name": "Gill Covers Expanded & Fins Fully Fan-Out (Flaring)",
+                        "meaning": "A territorial alert against intrusion or an aggressive stress response triggered by seeing their own mirror reflection.",
+                        "response": "Remove mirrors or reflective objects beside the tank to ensure flaring episodes do not exceed 5 minutes."
+                    },
+                    {
+                        "name": "Lying Still on Leaves Near Water Surface (Labyrinth Resting)",
+                        "meaning": "Normal resting behavior easing fin weight while breathing atmospheric air via the labyrinth organ during deep sleep.",
+                        "response": "This is not an illness; dim the aquarium lights and adjust the sponge filter to ensure the current is not too strong."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Water Temperature (24°C ~ 26°C) & Low Current Flow Inspection",
+                        "text": "Inspect the thermometer and verify heater operation, ensuring there are no strong currents making it difficult for the Betta to swim."
+                    },
+                    {
+                        "name": "Afternoon: High-Protein Pellet Feeding & Siphon Waste Removal",
+                        "text": "Feed 3 - 4 high-protein Betta-specific pellets in divided portions, and siphon out any uneaten food within 5 minutes using a dropper."
+                    },
+                    {
+                        "name": "Evening: Bubble Nest Observation & 5-Minute Flaring Exercise",
+                        "text": "Inspect bubble nest construction on the surface, and place a mirror nearby for 3 - 5 minutes to exercise fin muscles and prevent fin clumping."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Why are the edges of my Betta's fins splitting and turning black?",
+                        "answer": "This is a classic symptom of Fin Rot caused by poor water quality (inadequate filtration) or stress. Perform frequent partial water changes (20-30%) and administer veterinary-prescribed treatments if needed."
+                    },
+                    {
+                        "question": "Can I keep my Betta in a small bowl without a filter?",
+                        "answer": "While Bettas can breathe atmospheric oxygen, unfiltered small bowls lack nitrifying bacteria, causing water quality to deteriorate rapidly. A tank of at least 15 liters with a low-flow sponge filter is strongly recommended."
+                    }
+                ],
+                "tags": [
+                    "Betta Fish",
+                    "Aquatic Care",
+                    "Flaring Exercise",
+                    "WSAVA Standards",
+                    "Fin Care"
+                ]
+            },
+            "ja": {
+                "title": "ベタのフレアリング縄張りサインと美しいヒレを守る3ステップ日常ルーチン",
+                "description": "華やかなドレスのようなヒレを持つベタ（Betta Fish）。フレアリングのストレスサイン、水流管理、ラビリンス器官呼吸に配慮した3ステップケアを解説します。",
+                "authority": "世界小動物獣医師会 (WSAVA) 水生動物健康ガイドラインおよび観賞魚臨床標準",
+                "profile": {
+                    "breed": "ベタ (Betta splendens / 闘魚)",
+                    "lifespan": "3 〜 5年",
+                    "sleep_pattern": "8 〜 10時間 (水草やベタベッドの上で睡眠)",
+                    "temperament": "縄張り意識が強い、優雅、繊細、好奇心旺盛"
+                },
+                "intro": "ドレスのように広がるヒレと優雅な泳ぎを誇るベタは、観賞魚の中でも非常に強い魅力を持つ宝石のような存在です。世界小動物獣医師会（WSAVA）の水生動物福祉ガイドによると、ベタは空気中の酸素を直接呼吸する「ラビリンス器官」を持っているため、水面近くに休める水草やベタベッド（Leaf bed）が必須です。また、弱い水流と安定した水温（24°C〜26°C）を維持することが、ヒレ溶け病（Fin Rot）を予防する鍵となります。",
+                "whyTitle": "ベタのコミュニケーション：エラ広げ（フレアリング）と水面での休息行動",
+                "whyDesc": "ベタがエラ蓋を広げてヒレを大きく広げる「フレアリング（Flaring）」は、強力な警告であり興奮のサインです。1日5分程度の適度なフレアリングは運動になりますが、持続的なフレアリングは免疫力を低下させます。",
+                "body_signals": [
+                    {
+                        "name": "エラ蓋を広げてヒレを最大拡張する (Flaring)",
+                        "meaning": "縄張り侵入への警戒、または鏡に映った自分の姿に対する攻撃性・ストレスの表出です。",
+                        "response": "鏡や水槽脇の反射する物体を取り除き、5分以上続かないように対処します。"
+                    },
+                    {
+                        "name": "水面近くの水草の葉の上にじっと横たわる (Labyrinth Resting)",
+                        "meaning": "ラビリンス器官で呼吸しながらヒレの重みを休め、深い睡眠をとる正常な休息行動です。",
+                        "response": "病気ではないため、照明を暗くし、水流が強く当たらないようスポンジフィルターを調整します。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：水温（24°C〜26°C）およびフィルターの弱い水流状態の確認",
+                        "text": "水温計を確認後、ヒーターの作動状態をチェックし、ベタが泳ぎにくそうにする強い水流がないか検査します。"
+                    },
+                    {
+                        "name": "昼：ベタ専用ペレットフードの分割給餌と残餌の回収",
+                        "text": "高タンパクなベタ専用ペレットを3〜4粒ずつ分けて与え、食べ残して落ちたフードは5分以内にスポイトで回収します。"
+                    },
+                    {
+                        "name": "夜：泡巣（Bubble Nest）の観察と5分間のフレアリング運動",
+                        "text": "水面に作られた泡巣の状態を確認し、鏡を3〜5分間かざしてヒレの癒着を防ぐ運動をさせます。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "ヒレの先がちぎれたように裂けて黒く変色するのはなぜですか？",
+                        "answer": "ヒレ溶け病（尾腐れ病 / Fin Rot）の典型的な症状で、水質汚染（ろ過不足）やストレスが原因です。頻繁な水換え（20〜30%）を行い、必要に応じて獣医師処方の薬液を投与してください。"
+                    },
+                    {
+                        "question": "フィルターのない小さな金魚鉢で飼育しても大丈夫ですか？",
+                        "answer": "ベタは空気呼吸が可能ですが、フィルターのない小型容器はろ過バクテリアが定着せず水質が急激に悪化します。最低15リットル以上の水槽と低水流のスポンジフィルターの使用が推奨されます。"
+                    }
+                ],
+                "tags": [
+                    "ベタフィッシュ",
+                    "観賞魚ケア",
+                    "フレアリング",
+                    "WSAVAガイドライン",
+                    "ヒレの管理"
+                ]
+            },
+            "zh": {
+                "title": "斗鱼的展鳍领地信号与保持华丽鳍条的3阶段日常护理流程",
+                "description": "拥有华丽礼服般鳍条的斗鱼（Betta Fish）。解读展鳍（Flaring）应激表达、水流管理以及考量迷鳃器官呼吸的3阶段护理流程。",
+                "authority": "世界小动物兽医师协会 (WSAVA) 水生动物健康标准与观赏鱼临床标准",
+                "profile": {
+                    "breed": "斗鱼 (Betta splendens / 暹罗斗鱼)",
+                    "lifespan": "3 ~ 5年",
+                    "sleep_pattern": "8 ~ 10小时 (水草/斗鱼床水面休眠)",
+                    "temperament": "领地意识强、华丽、敏感、好奇"
+                },
+                "intro": "拥有如礼服般展放的鳍条和优雅游姿的斗鱼（Betta）是观赏鱼界最具强烈魅力的宝石般存在。根据世界小动物兽医师协会（WSAVA）观赏鱼福利指南，斗鱼拥有可直接呼吸空气中氧气的“迷鳃（Labyrinth）器官”，因此水面附近必须提供可供休息的水草或斗鱼床（Leaf bed），并且必须维持微弱水流和稳定水温（24°C ~ 26°C），才能有效预防烂鳍病（Fin Rot）。",
+                "whyTitle": "斗鱼的肢体语言：张开鳃盖（Flaring）与水面休眠行为",
+                "whyDesc": "斗鱼张开鳃盖、将鳍条完全展开的“展鳍（Flaring）”是强烈的警告与兴奋信号。每天适度进行5分钟的展鳍属于有益运动，但持续性的展鳍会导致免疫力下降。",
+                "body_signals": [
+                    {
+                        "name": "张开鳃盖并将鳍条展开至最大 (Flaring)",
+                        "meaning": "对领地入侵的警告，或对镜中自我倒影宣泄的攻击性与应激状态。",
+                        "response": "移开镜子或水缸旁产生倒影的物品，采取措施确保展鳍时间不持续超过5分钟。"
+                    },
+                    {
+                        "name": "静静躺在靠近水面的水草叶片上 (Labyrinth Resting)",
+                        "meaning": "利用迷鳃器官呼吸的同时减轻鳍条重量、进入深度睡眠的正常休息行为。",
+                        "response": "并非生病，调暗灯光并调节水绵过滤器，确保水流不会过于剧烈。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：水温（24°C ~ 26°C）与过滤器微弱水流状态检查",
+                        "text": "观察水温计并确认加热棒工作正常，检查是否存在导致斗鱼游动困难的强水流。"
+                    },
+                    {
+                        "name": "中午：斗鱼专用高蛋白颗粒饲料分次喂食与残渣清理",
+                        "text": "将高蛋白斗鱼专用颗粒分次喂食3~4粒，对未食用而沉底的饲料的在5分钟内用滴管吸出。"
+                    },
+                    {
+                        "name": "晚上：泡泡巢（Bubble Nest）观察与5分钟活力展鳍训练",
+                        "text": "观察水面构建的泡泡巢状态，贴近放置镜子3~5分钟，引导其运动以防止鳍条粘连。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "鳍条边缘出现像撕裂般破损并变黑的是为什么？",
+                        "answer": "这是烂鳍病（Fin Rot）的典型症状，主要由水质污染（过滤不完善）或应激引起。请频繁换水（20~30%），必要时投入兽医处方的药剂。"
+                    },
+                    {
+                        "question": "可以在没有过滤器的小鱼缸里饲养吗？",
+                        "answer": "虽然斗鱼具备空气呼吸能力，但无过滤器的小型鱼缸无法建立硝化菌群，水质会急剧恶化。建议使用至少15升以上的鱼缸并配备低水流的水绵过滤器。"
+                    }
+                ],
+                "tags": [
+                    "斗鱼",
+                    "观赏鱼护理",
+                    "展鳍",
+                    "WSAVA指南",
+                    "鳍条护理"
+                ]
+            },
+            "es": {
+                "title": "Guía de comunicación por Flaring en el Pez Betta y rutina de 3 pasos para la conservación de aletas",
+                "description": "Guía de cuidado del Pez Betta de magníficas aletas. Comprenda las señales de estrés por despliegue (Flaring), el control de corriente y el sistema respiratorio por laberinto.",
+                "authority": "Estándares de Salud de Animales Acuáticos de la Asociación Mundial de Veterinarios de Pequeños Animales (WSAVA) y Estándares Clínicos de Peces Ornamentales",
+                "profile": {
+                    "breed": "Pez Betta (Betta splendens / Luchador de Siam)",
+                    "lifespan": "3 ~ 5 años",
+                    "sleep_pattern": "8 ~ 10 horas (descansa en hojas o camas cerca de la superficie)",
+                    "temperament": "Territorial, elegante, sensible, curioso"
+                },
+                "intro": "Con aletas deslumbrantes que se despliegan como un vestido y un nado elegante, el pez Betta es una verdadera joya entre los peces ornamentales. Según las directrices de bienestar acuático de la Asociación Mundial de Veterinarios de Pequeños Animales (WSAVA), los Bettas poseen un 'órgano laberinto' especializado que les permite respirar oxígeno atmosférico directamente en la superficie, haciendo indispensables las plantas flotantes o camas de hojas. Mantener corrientes de agua suaves y una temperatura estable (24°C ~ 26°C) es fundamental para prevenir la podredumbre de aletas (Fin Rot).",
+                "whyTitle": "Comunicación del Betta: Despliegue de agallas (Flaring) y descanso en la superficie",
+                "whyDesc": "Abrir los tubérculos de las agallas y desplegar las aletas por completo—conocido como **'Flaring'**—es una poderosa señal de advertencia territorial y excitación. Un ejercicio moderado de 5 minutos al día resulta beneficioso para las aletas, pero el Flaring constante debilita el sistema inmunológico.",
+                "body_signals": [
+                    {
+                        "name": "Agallas abiertas y aletas desplegadas al máximo (Flaring)",
+                        "meaning": "Advertencia por invasión territorial o manifestación de agresividad y estrés provocada por su propio reflejo en el cristal.",
+                        "response": "Retire espejos u objetos reflectantes cercanos al acuario para asegurar que el episodio no supere los 5 minutos."
+                    },
+                    {
+                        "name": "Reposando inmóvil sobre hojas cerca de la superficie (Labyrinth Resting)",
+                        "meaning": "Comportamiento normal de descanso para aliviar el peso de sus aletas mientras respira aire atmosférico mediante el órgano laberinto.",
+                        "response": "No está enfermo; atenúe la iluminación y ajuste el filtro de esponja para evitar corrientes fuertes de agua."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Verificación de temperatura (24°C ~ 26°C) y corriente suave",
+                        "text": "Revise el termómetro para comprobar el calentador y asegúrese de que no existan corrientes fuertes que dificulten su nado."
+                    },
+                    {
+                        "name": "Tarde: Alimentación dosificada con pellets de alta proteína y retiro de residuos",
+                        "text": "Suministre de 3 a 4 pellets de alta proteína específicos para Betta de forma dividida y retire el alimento no consumido en 5 minutos con una pipeta."
+                    },
+                    {
+                        "name": "Noche: Inspección del nido de burbujas (Bubble Nest) y 5 minutos de ejercicio de Flaring",
+                        "text": "Examine la estructura del nido de burbujas en la superficie y acerque un espejo durante 3 a 5 minutos para ejercitar los músculos de las aletas y evitar uniones."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Por qué las puntas de sus aletas se ven rasgadas y se vuelven negras?",
+                        "answer": "Es el síntoma clásico de la podredumbre de aletas (Fin Rot), causada por contaminación del agua (filtración deficiente) o estrés. Realice cambios parciales de agua frecuentes (20~30%) y administre medicamentos veterinarios si es necesario."
+                    },
+                    {
+                        "question": "¿Se puede mantener a un Betta en una pecera pequeña sin filtro?",
+                        "answer": "Aunque los Bettas pueden respirar aire atmosférico, las peceras pequeñas sin filtro carecen de bacterias nitrificantes y el agua se deteriora rápidamente. Se recomienda un acuario de al menos 15 litros con filtro de esponja de flujo suave."
+                    }
+                ],
+                "tags": [
+                    "PezBetta",
+                    "CuidadoDePeces",
+                    "Flaring",
+                    "GuíaWSAVA",
+                    "CuidadoDeAletas"
+                ]
+            },
+            "fr": {
+                "title": "Guide du signal territorial Flaring chez le Betta et routine en 3 étapes pour préserver ses nageoires",
+                "description": "Prendre soin du poisson Betta aux nageoires spectaculaires. Comprenez les signaux de stress du Flaring, la gestion du courant et la respiration par le labyrinthe.",
+                "authority": "Normes de santé des animaux aquatiques de la World Small Animal Veterinary Association (WSAVA) et standards cliniques en ichtyologie",
+                "profile": {
+                    "breed": "Poisson Betta (Betta splendens / Combattant du Siam)",
+                    "lifespan": "3 ~ 5 ans",
+                    "sleep_pattern": "8 ~ 10 heures (repos sur des plantes ou lits de feuilles en surface)",
+                    "temperament": "Territorial, élégant, sensible, curieux"
+                },
+                "intro": "Arborant des nageoires somptueuses se déployant comme une robe et une nage d'une grande élégance, le Betta est un joyau parmi les poissons d'ornement. Selon les directives de bien-être aquatique de l'Association Mondiale des Vétérinaires pour Petits Animaux (WSAVA), le Betta possède un 'organe labyrinthe' lui permettant de respirer directement l'oxygène de l'air ambiant. Des plantes ou lits de feuilles proches de la surface sont donc indispensables, de même qu'un faible courant et une température stable (24°C ~ 26°C) pour prévenir la pourriture des nageoires (Fin Rot).",
+                "whyTitle": "Communication du Betta : Déploiement des ouïes (Flaring) et repos en surface",
+                "whyDesc": "Écarter l'opercule des ouïes et déployer pleinement ses nageoires — le **« Flaring »** — constitue un puissant signal d'avertissement territorial et d'excitation. Une séance quotidienne de 5 minutes stimule la musculature de ses voiles, mais un Flaring ininterrompu affaiblit ses défenses immunitaires.",
+                "body_signals": [
+                    {
+                        "name": "Déploiement des ouïes et nageoires grandes ouvertes (Flaring)",
+                        "meaning": "Mise en garde contre une intrusion territoriale ou réaction d'agressivité et de stress face à son propre reflet sur la vitre.",
+                        "response": "Retirez les miroirs ou objets réfléchissants à proximité de l'aquarium pour limiter l'épisode à moins de 5 minutes."
+                    },
+                    {
+                        "name": "Immobile sur des feuilles près de la surface (Labyrinth Resting)",
+                        "meaning": "Comportement de repos normal visant à soulager le poids de ses nageoires tout en respirant via l'organe labyrinthe pendant le sommeil.",
+                        "response": "Le poisson n'est pas malade ; diminuez la luminosité et réglez le filtre éponge pour éviter tout courant excessif."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Vérification de la température (24°C ~ 26°C) et contrôle du faible courant",
+                        "text": "Contrôlez le thermomètre pour vérifier le chauffage et assurez-vous qu'aucun courant fort ne gêne sa nage."
+                    },
+                    {
+                        "name": "Midi : Distribution fractionnée de granulés protéinés et retrait des résidus",
+                        "text": "Donnez 3 à 4 granulés spécifiques pour Betta en plusieurs fois, puis aspirez les résidus non consommés au bout de 5 minutes à l'aide d'une pipette."
+                    },
+                    {
+                        "name": "Soir : Observation du nid de bulles (Bubble Nest) et 5 minutes d'exercice de Flaring",
+                        "text": "Examinez le nid de bulles à la surface et présentez un miroir pendant 3 à 5 minutes pour faire travailler ses nageoires et éviter qu'elles ne collent."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Pourquoi les extrémités de ses nageoires s'effilochent-elles et deviennent-elles noires ?",
+                        "answer": "C'est le signe caractéristique de la pourriture des nageoires (Fin Rot), causée par une eau polluée (filtration insuffisante) ou le stress. Effectuez des changements d'eau fréquents (20 à 30 %) et appliquez un traitement vétérinaire si nécessaire."
+                    },
+                    {
+                        "question": "Peut-on élever un Betta dans un petit bocal sans filtre ?",
+                        "answer": "Même si le Betta respire l'air ambiant, un petit bocal sans filtration ne peut développer de bactéries nitrifiantes et la qualité de l'eau s'y dégrade très vite. Un aquarium d'au moins 15 litres doté d'un filtre éponge à faible débit est vivement recommandé."
+                    }
+                ],
+                "tags": [
+                    "PoissonBetta",
+                    "SoinsPoisson",
+                    "Flaring",
+                    "DirectivesWSAVA",
+                    "GestionDesNageoires"
+                ]
+            },
+            "de": {
+                "title": "Betta-Imponiersignale und 3-Schritt-Tagesroutine für gesunde Flossen",
+                "description": "Pflegeanleitung für Siamesische Kampffische (Betta). Imponierverhalten (Flaring) verstehen, Strömung anpassen und Labyrinthorgan-Atmung nach WSAVA-Standards berücksichtigen.",
+                "authority": "Richtlinien der World Small Animal Veterinary Association (WSAVA) für Aquatiere und klinische Standards für Zierfische",
+                "profile": {
+                    "breed": "Siamesischer Kampffisch (Betta splendens)",
+                    "lifespan": "3 ~ 5 Jahre",
+                    "sleep_pattern": "8 ~ 10 Stunden (ruht auf Pflanzen oder Betta-Betten nahe der Oberfläche)",
+                    "temperament": "Revierbildend, elegant, empfindlich, neugierig"
+                },
+                "intro": "Mit seinen prachtvollen, wie ein Kleid gefächerten Flossen und seinen eleganten Schwimmbewegungen ist der Betta eine wahre Perle unter den Zierfischen. Laut den WSAVA-Tierschutzrichtlinien besitzen Bettas ein spezielles 'Labyrinthorgan', mit dem sie atmosphärischen Sauerstoff an der Wasseroberfläche atmen. Pflanzen oder Betta-Betten nahe der Oberfläche sind daher unverzichtbar. Eine schwache Strömung und eine stabile Wassertemperatur (24°C ~ 26°C) schützen wirksam vor der gefürchteten Flossenfäule (Fin Rot).",
+                "whyTitle": "Betta-Kommunikation: Kiemenabspreizen (Flaring) und Ruhen an der Oberfläche",
+                "whyDesc": "Das Abspreizen der Kiemendeckel und das vollständige Aufstellen der Flossen – das sogenannte **'Flaring'** – ist ein starkes Warn- und Erregungssignal. Ein kurzes, tägliches Training von 5 Minuten hält die Flossen elastisch, doch dauerhafter Stress schwächt das Immunsystem.",
+                "body_signals": [
+                    {
+                        "name": "Abspreizen der Kiemendeckel und maximale Flossendehnung (Flaring)",
+                        "meaning": "Revierverteidigung oder aggressiver Stress, ausgelöst durch das eigene Spiegelbild an den Beckenscheiben.",
+                        "response": "Entfernen Sie Spiegel oder reflektierende Gegenstände neben dem Aquarium, damit das Verhalten nicht länger als 5 Minuten anhält."
+                    },
+                    {
+                        "name": "Ruhiges Liegen auf Pflanzenblättern nahe der Oberfläche (Labyrinth Resting)",
+                        "meaning": "Normales Ruheverhalten, um das Gewicht der Flossen zu entlasten und tief zu schlafen, während Luft über das Labyrinthorgan geholt wird.",
+                        "response": "Kein Krankheitszeichen; dimmen Sie das Licht und stellen Sie den Schwammfilter so ein, dass keine starke Strömung entsteht."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Temperaturkontrolle (24°C ~ 26°C) & Prüfung der schwachen Strömung",
+                        "text": "Überprüfen Sie das Thermometer und die Heizung. Stellen Sie sicher, dass keine starke Strömung das Schwimmen erschwert."
+                    },
+                    {
+                        "name": "Mittag: Portionierte Fütterung von Betta-Pellets & Futterreste entfernen",
+                        "text": "Füttern Sie 3 bis 4 proteinreiche Betta-Pellets aufgeteilt. Saugen Sie nicht gefressenes Futter nach 5 Minuten mit einer Pipette ab."
+                    },
+                    {
+                        "name": "Abend: Schaumnest-Inspektion & 5 Minuten Imponiertraining",
+                        "text": "Betrachten Sie das Schaumnest an der Oberfläche und halten Sie für 3 bis 5 Minuten einen Spiegel vor, um die Flossenmuskeln zu trainieren und Verklebungen vorzubeugen."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Warum fransen die Flossenränder aus und verfärben sich schwarz?",
+                        "answer": "Dies ist ein klassisches Symptom der Flossenfäule (Fin Rot), meist verursacht durch schlechte Wasserwerte (mangelhafte Filterung) oder Stress. Führen Sie regelmäßige Teilwasserwechsel (20~30%) durch und setzen Sie bei Bedarf tierärztlich verschriebene Mittel ein."
+                    },
+                    {
+                        "question": "Kann man einen Betta in einer kleinen Kugelvase ohne Filter halten?",
+                        "answer": "Obwohl Bettas Luft atmen können, bauen kleine Vasen ohne Filter keine Nitrifikationsbakterien auf, wodurch das Wasser rasch kippt. Ein Becken von mindestens 15 Litern mit einem strömungsarmen Schwammfilter wird dringend empfohlen."
+                    }
+                ],
+                "tags": [
+                    "Kampffisch",
+                    "Zierfischpflege",
+                    "Flaring",
+                    "WSAVA-Richtlinien",
+                    "Flossenpflege"
+                ]
+            },
+            "pt": {
+                "title": "Guia de sinais territoriais de Flaring no Peixe Betta e rotina de 3 passos para preservar as nadadeiras",
+                "description": "Cuidados com o Peixe Betta de nadadeiras exuberantes. Entenda as exibições de Flaring por estresse, o controle do fluxo de água e a respiração pelo órgão labirinto.",
+                "authority": "Diretrizes de Saúde de Animais Aquáticos da Associação Mundial de Veterinários de Pequenos Animais (WSAVA) e Padrões Clínicos para Peixes Ornamentais",
+                "profile": {
+                    "breed": "Peixe Betta (Betta splendens / Peixe de Briga Siamês)",
+                    "lifespan": "3 ~ 5 anos",
+                    "sleep_pattern": "8 ~ 10 horas (dorme em plantas ou camas de folhas perto da superfície)",
+                    "temperament": "Territorial, elegante, sensível, curioso"
+                },
+                "intro": "Com nadadeiras deslumbrantes que se abrem como um vestido e um nado elegante, o peixe Betta é uma verdadeira joia entre os peixes ornamentais. De acordo com as diretrizes de bem-estar aquático da Associação Mundial de Veterinários de Pequenos Animais (WSAVA), os Bettas possuem o 'órgão labirinto', que lhes permite respirar o oxigênio do ar diretamente na superfície, tornando indispensáveis as plantas ou camas de folhas para descanso. Manter fluxos de água suaves e uma temperatura estável (24°C ~ 26°C) é crucial para prevenir a podridão das nadadeiras (Fin Rot).",
+                "whyTitle": "Comunicação do Betta: Abertura de guelras (Flaring) e descanso na superfície",
+                "whyDesc": "Abrir os opérculos das guelras e expandir totalmente as nadadeiras — o chamado **'Flaring'** — é um forte sinal de alerta territorial e excitação. Exercícios moderados de 5 minutos diários ajudam a exercitar as nadadeiras, mas o Flaring constante reduz a imunidade.",
+                "body_signals": [
+                    {
+                        "name": "Guelras abertas e nadadeiras totalmente expandidas (Flaring)",
+                        "meaning": "Alerta de invasão territorial ou manifestação de agressividade e estresse desencadeada pelo próprio reflexo no vidro.",
+                        "response": "Remova espelhos ou objetos reflexivos próximos ao aquário para garantir que o evento não passe de 5 minutos."
+                    },
+                    {
+                        "name": "Deitado imóvel sobre folhas perto da superfície (Labyrinth Resting)",
+                        "meaning": "Comportamento normal de repouso para aliviar o peso das nadadeiras enquanto respira pelo órgão labirinto durante o sono profundo.",
+                        "response": "Não é doença; reduza a iluminação e ajuste o filtro de esponja para evitar correntes de água fortes."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Verificação de temperatura (24°C ~ 26°C) e do fluxo suave de água",
+                        "text": "Confira o termômetro para verificar o aquecedor e garanta que não haja correntes fortes que dificultem o nado do Betta."
+                    },
+                    {
+                        "name": "Tarde: Alimentação fracionada com ração específica e remoção de sobras",
+                        "text": "Forneça de 3 a 4 grãos de ração específica rica em proteínas e remova as sobras com um conta-gotas em até 5 minutos."
+                    },
+                    {
+                        "name": "Noite: Observação do ninho de bolhas (Bubble Nest) e 5 minutos de exercício de Flaring",
+                        "text": "Examine a estrutura do ninho de bolhas na superfície e aproxime um espelho por 3 a 5 minutos para exercitar a musculatura das nadadeiras e evitar fusões."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Por que as pontas das nadadeiras estão desfiadas e ficando escuras?",
+                        "answer": "Este é um sintoma clássico da podridão das nadadeiras (Fin Rot), causada por poluição da água (filtragem inadequada) ou estresse. Faça trocas parciais de água frequentes (20~30%) e aplique medicamentos veterinários se necessário."
+                    },
+                    {
+                        "question": "Posso manter meu Betta em um aquário pequeno sem filtro?",
+                        "answer": "Embora os Bettas consigam respirar o ar atmosférico, aquários pequenos sem filtro não desenvolvem bactérias nitrificantes e a água se deteriora rapidamente. Recomenda-se um aquário de pelo menos 15 litros com filtro de esponja de fluxo suave."
+                    }
+                ],
+                "tags": [
+                    "PeixeBetta",
+                    "CuidadosComPeixes",
+                    "Flaring",
+                    "DiretrizesWSAVA",
+                    "CuidadoComNadadeiras"
+                ]
+            },
+            "id": {
+                "title": "Panduan Sinyal Teritorial Flaring Ikan Betta (Cupang) dan Rutinitas 3 Langkah Menjaga Keindahan Sirip",
+                "description": "Panduan merawat Ikan Betta (Cupang) yang memiliki sirip megah. Pahami ekspresi stres saat Flaring, pengelolaan arus air, dan sistem pernapasan organ labirin.",
+                "authority": "Standar Kesehatan Hewan Akuatik World Small Animal Veterinary Association (WSAVA) dan Standar Klinis Ikan Hias",
+                "profile": {
+                    "breed": "Ikan Betta (Betta splendens / Ikan Cupang)",
+                    "lifespan": "3 ~ 5 Tahun",
+                    "sleep_pattern": "8 ~ 10 Jam (tidur di atas tanaman air/tempat tidur daun dekat permukaan)",
+                    "temperament": "Teritorial, anggun, sensitif, sangat ingin tahu"
+                },
+                "intro": "Memiliki sirip megah yang mengembang bagaikan gaun serta gaya berenang yang anggun, ikan Betta (Cupang) adalah permata di antara ikan hias. Menurut panduan kesejahteraan hewan akuatik dari World Small Animal Veterinary Association (WSAVA), ikan Cupang memiliki 'organ labirin' khusus yang memungkinkan mereka bernapas menggunakan oksigen langsung dari udara. Oleh karena itu, tanaman air atau tempat tidur daun di dekat permukaan air sangat penting, serta arus air yang tenang dan suhu yang stabil (24°C ~ 26°C) harus dijaga untuk mencegah penyakit busuk sirip (Fin Rot).",
+                "whyTitle": "Komunikasi Ikan Cupang: Mengembangkan Insang (Flaring) dan Istirahat di Permukaan Air",
+                "whyDesc": "Mengembangkan penutup insang dan melebarkan sirip sepenuhnya—yang dikenal sebagai **'Flaring'**—merupakan sinyal peringatan teritorial dan kegembiraan yang kuat. Latihan flaring rutin selama 5 menit sehari bermanfaat untuk kesehatan sirip, namun flaring yang terus-menerus akan menurunkan daya tahan tubuh.",
+                "body_signals": [
+                    {
+                        "name": "Mengembangkan Penutup Insang & Sirip Mengembang Maksimal (Flaring)",
+                        "meaning": "Peringatan atas pelanggaran wilayah atau bentuk respons stres dan agresivitas yang dipicu oleh bayangan diri sendiri di kaca aquarium.",
+                        "response": "Jauhkan cermin atau benda yang memantulkan bayangan di dekat akuarium untuk memastikan aksi flaring tidak berlangsung lebih dari 5 menit."
+                    },
+                    {
+                        "name": "Berbaring Diam di Atas Daun Dekat Permukaan Air (Labyrinth Resting)",
+                        "meaning": "Perilaku istirahat normal untuk meringankan beban sirip sambil bernapas melalui organ labirin saat tidur nyenyak.",
+                        "response": "Bukan berarti ikan sakit; redupkan lampu dan sesuaikan filter spons agar tidak menimbulkan arus air yang terlalu kencang."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Pemeriksaan Suhu Air (24°C ~ 26°C) & Arus Filter yang Tenang",
+                        "text": "Periksa termometer dan pastikan pemanas bekerja dengan baik, serta pastikan tidak ada arus kencang yang menyulitkan ikan berenang."
+                    },
+                    {
+                        "name": "Siang: Pemberian Pakan Pelet Protein Tinggi Bertahap & Pembersihan Sisa Makanan",
+                        "text": "Berikan 3 hingga 4 butir pelet khusus Cupang berprotein tinggi secara bertahap, dan ambil sisa pakan yang jatuh menggunakan pipet dalam waktu 5 menit."
+                    },
+                    {
+                        "name": "Malam: Pengamatan Sarang Busa (Bubble Nest) & Latihan Flaring 5 Menit",
+                        "text": "Periksa kondisi sarang busa di permukaan air, lalu dekatkan cermin selama 3 hingga 5 menit untuk melatih otot sirip dan mencegah sirip lengket."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mengapa ujung sirip ikan Cupang saya robek dan menghitam?",
+                        "answer": "Ini adalah gejala klasik penyakit busuk sirip (Fin Rot), yang disebabkan oleh kualitas air yang buruk (filtrasi yang tidak memadai) atau stres. Lakukan penggantian air secara rutin (20~30%) dan berikan obat sesuai resep dokter hewan jika diperlukan."
+                    },
+                    {
+                        "question": "Bolehkah memelihara ikan Cupang di toples kecil tanpa filter?",
+                        "answer": "Meskipun ikan Cupang dapat bernapas langsung dari udara, toples kecil tanpa filter tidak memiliki bakteri nitrifikasi sehingga kualitas air akan memburuk dengan cepat. Sangat disarankan menggunakan akuarium minimal 15 liter dengan filter spons berarus tenang."
+                    }
+                ],
+                "tags": [
+                    "IkanBetta",
+                    "PerawatanIkanHias",
+                    "Flaring",
+                    "PanduanWSAVA",
+                    "PerawatanSirip"
+                ]
+            }
         },
-        "intro": "드레스처럼 펼쳐지는 지느러미와 우아한 헤엄을 자랑하는 베타(Betta)는 관상어 중 가장 강렬한 매력을 가진 보석 같은 물고기입니다. 세계소동물수의사회(WSAVA)의 관상어 복지 가이드에 따르면, 베타는 공기 중 산소를 직접 호흡하는 '라비린스(Labyrinth) 기관'을 갖고 있어 수면 근처에 휴식할 수 있는 수초나 베타 침대(Leaf bed)가 필수적이며, 약한 수류와 안정적 수온(24°C ~ 26°C)이 유지되어야 녹는 지느러미 병(Fin Rot)을 예방할 수 있습니다.",
-        "whyTitle": "베타의 의사소통: 아가미 펼침(Flaring)과 수면 휴식 행동",
-        "whyDesc": "베타가 아가미 덮개를 벌리고 지느러미를 쫙 펴는 '플레어링(Flaring)'은 강력한 경고이자 흥분 신호입니다. 적절한 일일 5분 플레어링은 운동이 되지만, 지속적 플레어링은 면역력을 약화시킵니다.",
-        "body_signals": [
-          {
-            "name": "아가미 덮개를 벌리고 지느러미를 최대 팽창 (Flaring)",
-            "meaning": "영역 침범에 대한 경고 또는 자기 거울 모습에 대한 공격성·스트레스 표출입니다.",
-            "response": "거울이나 수조 옆 반사되는 물체를 치워주어 5분 이상 지속되지 않도록 조치합니다."
-          },
-          {
-            "name": "수면 근처 수초 잎 위에 가만히 누워있음 (Labyrinth Resting)",
-            "meaning": "라비린스 기관으로 호흡하며 지느러미 무게를 덜고 깊은 수면을 취하는 정상적 휴식입니다.",
-            "response": "아픈 것이 아니므로 조명을 어둡게 해주고 수류가 세게 불지 않도록 스펀지 여과기를 조율해 줍니다."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "아침: 수온(24°C ~ 26°C) 및 여과기 약한 수류 상태 확인",
-            "text": "수온계 모니터링 후 히터 작동 여부를 확인하고 베타가 헤엄치기 힘들어하는 강한 수류가 없는지 검사합니다."
-          },
-          {
-            "name": "낮: 베타 전용 펠릿 사료 분할 급여 및 수질 잔여물 수거",
-            "text": "고단백 베타 전용 펠릿을 3~4알씩 나누어 급여하고 먹지 않고 떨어진 사료는 5분 내 스포이트로 픽업합니다."
-          },
-          {
-            "name": "저녁: 거품집(Bubble Nest) 관찰 및 5분간의 활력 플레어링 훈련",
-            "text": "수면에 만들어진 거품집 상태를 살피고, 거울을 3~5분간 대어주어 지느러미 유착을 막는 운동을 시킵니다."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "지느러미 끝이 뜯긴 것처럼 갈라지고 검게 변하는데 왜 그런가요?",
-            "answer": "지느러미 썩음병(Fin Rot)의 전형적 증상으로 수질 오염(여과 부실)이나 스트레스가 원인입니다. 환수(20~30%)를 자주 해주고 필요시 수의사 처방 앰풀을 투여하세요."
-          },
-          {
-            "question": "여과기 없이 작은 어항에서 키워도 되나요?",
-            "answer": "베타는 산소 호흡이 가능하지만 여과기 없는 소형 어항은 여과 미생물이 생기지 않아 수질이 급격히 악화됩니다. 최소 15리터 이상의 어항과 저수류 스펀지 여과기가 권장됩니다."
-          }
-        ],
-        "tags": [
-          "베타피쉬",
-          "관상어케어",
-          "플레어링",
-          "WSAVA지침",
-          "지느러미관리"
-        ]
-      },
-      "en": {
-        "title": "Betta Fish Flaring Communication and 3-Step Daily Routine for Fin Preservation",
-        "description": "Comprehensive care guide for Betta Fish with magnificent flowing fins. Understand flaring stress signals, low-current management, and labyrinth organ breathing in a 3-step routine.",
-        "authority": "World Small Animal Veterinary Association (WSAVA) Aquatic Animal Health Standards and Ornamental Fish Clinical Standards",
-        "profile": {
-          "breed": "Betta Fish (Betta splendens / Siamese Fighting Fish)",
-          "lifespan": "3 - 5 Years",
-          "sleep_pattern": "8 - 10 Hours (Rests on Near-Surface Leaves/Betta Beds)",
-          "temperament": "Territorial, Elegant, Sensitive, Highly Curious"
-        },
-        "intro": "Boasting magnificent gown-like fins and regal swimming elegance, the Betta fish is a jewel-like companion among aquatic pets. According to WSAVA aquatic guidelines, Bettas possess a specialized 'labyrinth organ' allowing them to breathe atmospheric oxygen directly at the surface, making resting aquatic plants or leaf beds near the surface essential. Maintaining low water currents and stable water temperatures (24°C ~ 26°C) is key to preventing debilitating Fin Rot.",
-        "whyTitle": "Betta Communication: Deciphering Gill Flaring & Surface Resting Behavior",
-        "whyDesc": "Flaring—expanding gill covers and fully fanning out fins—is a strong territorial warning and excitement display. Controlled 5-minute daily flaring provides beneficial exercise for fin health, but constant flaring leads to chronic stress and weakened immunity.",
-        "body_signals": [
-          {
-            "name": "Gill Covers Expanded & Fins Fully Fan-Out (Flaring)",
-            "meaning": "A territorial alert against intrusion or an aggressive stress response triggered by seeing their own mirror reflection.",
-            "response": "Remove mirrors or reflective objects beside the tank to ensure flaring episodes do not exceed 5 minutes."
-          },
-          {
-            "name": "Lying Still on Leaves Near Water Surface (Labyrinth Resting)",
-            "meaning": "Normal resting behavior easing fin weight while breathing atmospheric air via the labyrinth organ during deep sleep.",
-            "response": "This is not an illness; dim the aquarium lights and adjust the sponge filter to ensure the current is not too strong."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Morning: Water Temperature (24°C ~ 26°C) & Low Current Flow Inspection",
-            "text": "Inspect the thermometer and verify heater operation, ensuring there are no strong currents making it difficult for the Betta to swim."
-          },
-          {
-            "name": "Afternoon: High-Protein Pellet Feeding & Siphon Waste Removal",
-            "text": "Feed 3 - 4 high-protein Betta-specific pellets in divided portions, and siphon out any uneaten food within 5 minutes using a dropper."
-          },
-          {
-            "name": "Evening: Bubble Nest Observation & 5-Minute Flaring Exercise",
-            "text": "Inspect bubble nest construction on the surface, and place a mirror nearby for 3 - 5 minutes to exercise fin muscles and prevent fin clumping."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Why are the edges of my Betta's fins splitting and turning black?",
-            "answer": "This is a classic symptom of Fin Rot caused by poor water quality (inadequate filtration) or stress. Perform frequent partial water changes (20-30%) and administer veterinary-prescribed treatments if needed."
-          },
-          {
-            "question": "Can I keep my Betta in a small bowl without a filter?",
-            "answer": "While Bettas can breathe atmospheric oxygen, unfiltered small bowls lack nitrifying bacteria, causing water quality to deteriorate rapidly. A tank of at least 15 liters with a low-flow sponge filter is strongly recommended."
-          }
-        ],
-        "tags": [
-          "Betta Fish",
-          "Aquatic Care",
-          "Flaring Exercise",
-          "WSAVA Standards",
-          "Fin Care"
-        ]
-      },
-      "ja": {
-        "title": "ベタのフレアリング縄張りサインと美しいヒレを守る3ステップ日常ルーチン",
-        "description": "華やかなドレスのようなヒレを持つベタ（Betta Fish）。フレアリングのストレスサイン、水流管理、ラビリンス器官呼吸に配慮した3ステップケアを解説します。",
-        "authority": "世界小動物獣医師会 (WSAVA) 水生動物健康ガイドラインおよび観賞魚臨床標準",
-        "profile": {
-          "breed": "ベタ (Betta splendens / 闘魚)",
-          "lifespan": "3 〜 5年",
-          "sleep_pattern": "8 〜 10時間 (水草やベタベッドの上で睡眠)",
-          "temperament": "縄張り意識が強い、優雅、繊細、好奇心旺盛"
-        },
-        "intro": "ドレスのように広がるヒレと優雅な泳ぎを誇るベタは、観賞魚の中でも非常に強い魅力を持つ宝石のような存在です。世界小動物獣医師会（WSAVA）の水生動物福祉ガイドによると、ベタは空気中の酸素を直接呼吸する「ラビリンス器官」を持っているため、水面近くに休める水草やベタベッド（Leaf bed）が必須です。また、弱い水流と安定した水温（24°C〜26°C）を維持することが、ヒレ溶け病（Fin Rot）を予防する鍵となります。",
-        "whyTitle": "ベタのコミュニケーション：エラ広げ（フレアリング）と水面での休息行動",
-        "whyDesc": "ベタがエラ蓋を広げてヒレを大きく広げる「フレアリング（Flaring）」は、強力な警告であり興奮のサインです。1日5分程度の適度なフレアリングは運動になりますが、持続的なフレアリングは免疫力を低下させます。",
-        "body_signals": [
-          {
-            "name": "エラ蓋を広げてヒレを最大拡張する (Flaring)",
-            "meaning": "縄張り侵入への警戒、または鏡に映った自分の姿に対する攻撃性・ストレスの表出です。",
-            "response": "鏡や水槽脇の反射する物体を取り除き、5分以上続かないように対処します。"
-          },
-          {
-            "name": "水面近くの水草の葉の上にじっと横たわる (Labyrinth Resting)",
-            "meaning": "ラビリンス器官で呼吸しながらヒレの重みを休め、深い睡眠をとる正常な休息行動です。",
-            "response": "病気ではないため、照明を暗くし、水流が強く当たらないようスポンジフィルターを調整します。"
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "朝：水温（24°C〜26°C）およびフィルターの弱い水流状態の確認",
-            "text": "水温計を確認後、ヒーターの作動状態をチェックし、ベタが泳ぎにくそうにする強い水流がないか検査します。"
-          },
-          {
-            "name": "昼：ベタ専用ペレットフードの分割給餌と残餌の回収",
-            "text": "高タンパクなベタ専用ペレットを3〜4粒ずつ分けて与え、食べ残して落ちたフードは5分以内にスポイトで回収します。"
-          },
-          {
-            "name": "夜：泡巣（Bubble Nest）の観察と5分間のフレアリング運動",
-            "text": "水面に作られた泡巣の状態を確認し、鏡を3〜5分間かざしてヒレの癒着を防ぐ運動をさせます。"
-          }
-        ],
-        "faqs": [
-          {
-            "question": "ヒレの先がちぎれたように裂けて黒く変色するのはなぜですか？",
-            "answer": "ヒレ溶け病（尾腐れ病 / Fin Rot）の典型的な症状で、水質汚染（ろ過不足）やストレスが原因です。頻繁な水換え（20〜30%）を行い、必要に応じて獣医師処方の薬液を投与してください。"
-          },
-          {
-            "question": "フィルターのない小さな金魚鉢で飼育しても大丈夫ですか？",
-            "answer": "ベタは空気呼吸が可能ですが、フィルターのない小型容器はろ過バクテリアが定着せず水質が急激に悪化します。最低15リットル以上の水槽と低水流のスポンジフィルターの使用が推奨されます。"
-          }
-        ],
-        "tags": [
-          "ベタフィッシュ",
-          "観賞魚ケア",
-          "フレアリング",
-          "WSAVAガイドライン",
-          "ヒレの管理"
-        ]
-      },
-      "zh": {
-        "title": "斗鱼的展鳍领地信号与保持华丽鳍条 responses 3阶段日常护理流程",
-        "description": "拥有华丽礼服般鳍条 responses 斗鱼（Betta Fish）。解读展鳍（Flaring）应激表达、水流管理以及考量迷鳃器官呼吸 responses 3阶段护理流程。",
-        "authority": "世界小动物兽医师协会 (WSAVA) 水生动物健康标准与观赏鱼临床标准",
-        "profile": {
-          "breed": "斗鱼 (Betta splendens / 暹罗斗鱼)",
-          "lifespan": "3 ~ 5年",
-          "sleep_pattern": "8 ~ 10小时 (水草/斗鱼床水面休眠)",
-          "temperament": "领地意识强、华丽、敏感、好奇"
-        },
-        "intro": "拥有如礼服般展放 responses 鳍条和优雅游姿 responses 斗鱼（Betta）是观赏鱼界最具强烈魅力的宝石般存在。根据世界小动物兽医师协会（WSAVA）观赏鱼福利指南，斗鱼拥有可直接呼吸空气中氧气 responses “迷鳃（Labyrinth）器官”，因此水面附近必须提供可供休息 responses 水草或斗鱼床（Leaf bed），并且必须维持微弱水流和稳定水温（24°C ~ 26°C），才能有效预防烂鳍病（Fin Rot）。",
-        "whyTitle": "斗鱼 responses 肢体语言：张开鳃盖（Flaring）与水面休眠行为",
-        "whyDesc": "斗鱼张开鳃盖、将鳍条完全展开 responses “展鳍（Flaring）”是强烈 responses 警告与兴奋信号。每天适度进行5分钟 responses 展鳍属于有益运动，但持续性 responses 展鳍会导致免疫力下降。",
-        "body_signals": [
-          {
-            "name": "张开鳃盖并将鳍条展开至最大 (Flaring)",
-            "meaning": "对领地入侵 responses 警告，或对镜中自我倒影宣泄 responses 攻击性与应激状态。",
-            "response": "移开镜子或水缸旁产生倒影 responses 物品，采取措施确保展鳍时间不持续超过5分钟。"
-          },
-          {
-            "name": "静静躺在靠近水面 responses 水草叶片上 (Labyrinth Resting)",
-            "meaning": "利用迷鳃器官呼吸 responses 同时减轻鳍条重量、进入深度睡眠 responses 正常休息行为。",
-            "response": "并非生病，调暗灯光并调节水绵过滤器，确保水流不会过于剧烈。"
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "早上：水温（24°C ~ 26°C）与过滤器微弱水流状态检查",
-            "text": "观察水温计并确认加热棒工作正常，检查是否存在导致斗鱼游动困难 responses 强水流。"
-          },
-          {
-            "name": "中午：斗鱼专用高蛋白颗粒饲料分次喂食与残渣清理",
-            "text": "将高蛋白斗鱼专用颗粒分次喂食3~4粒，对未食用而沉底 responses 饲料 responses 在5分钟内用滴管吸出。"
-          },
-          {
-            "name": "晚上：泡泡巢（Bubble Nest）观察与5分钟活力展鳍训练",
-            "text": "观察水面构建 responses 泡泡巢状态，贴近放置镜子3~5分钟，引导其运动以防止鳍条粘连。"
-          }
-        ],
-        "faqs": [
-          {
-            "question": "鳍条边缘出现像撕裂般破损并变黑 responses 是为什么？",
-            "answer": "这是烂鳍病（Fin Rot） responses 典型症状，主要由水质污染（过滤不完善）或应激引起。请频繁换水（20~30%），必要时投入兽医处方 responses 药剂。"
-          },
-          {
-            "question": "可以在没有过滤器 responses 小鱼缸里饲养吗？",
-            "answer": "虽然斗鱼具备空气呼吸能力，但无过滤器 responses 小型鱼缸无法建立硝化菌群，水质会急剧恶化。建议使用至少15升以上 responses 鱼缸并配备低水流 responses 水绵过滤器。"
-          }
-        ],
-        "tags": [
-          "斗鱼",
-          "观赏鱼护理",
-          "展鳍",
-          "WSAVA指南",
-          "鳍条护理"
-        ]
-      },
-      "es": {
-        "title": "Guía de comunicación por Flaring en el Pez Betta y rutina de 3 pasos para la conservación de aletas",
-        "description": "Guía de cuidado del Pez Betta de magníficas aletas. Comprenda las señales de estrés por despliegue (Flaring), el control de corriente y el sistema respiratorio por laberinto.",
-        "authority": "Estándares de Salud de Animales Acuáticos de la Asociación Mundial de Veterinarios de Pequeños Animales (WSAVA) y Estándares Clínicos de Peces Ornamentales",
-        "profile": {
-          "breed": "Pez Betta (Betta splendens / Luchador de Siam)",
-          "lifespan": "3 ~ 5 años",
-          "sleep_pattern": "8 ~ 10 horas (descansa en hojas o camas cerca de la superficie)",
-          "temperament": "Territorial, elegante, sensible, curioso"
-        },
-        "intro": "Con aletas deslumbrantes que se despliegan como un vestido y un nado elegante, el pez Betta es una verdadera joya entre los peces ornamentales. Según las directrices de bienestar acuático de la Asociación Mundial de Veterinarios de Pequeños Animales (WSAVA), los Bettas poseen un 'órgano laberinto' especializado que les permite respirar oxígeno atmosférico directamente en la superficie, haciendo indispensables las plantas flotantes o camas de hojas. Mantener corrientes de agua suaves y una temperatura estable (24°C ~ 26°C) es fundamental para prevenir la podredumbre de aletas (Fin Rot).",
-        "whyTitle": "Comunicación del Betta: Despliegue de agallas (Flaring) y descanso en la superficie",
-        "whyDesc": "Abrir los tubérculos de las agallas y desplegar las aletas por completo—conocido como **'Flaring'**—es una poderosa señal de advertencia territorial y excitación. Un ejercicio moderado de 5 minutos al día resulta beneficioso para las aletas, pero el Flaring constante debilita el sistema inmunológico.",
-        "body_signals": [
-          {
-            "name": "Agallas abiertas y aletas desplegadas al máximo (Flaring)",
-            "meaning": "Advertencia por invasión territorial o manifestación de agresividad y estrés provocada por su propio reflejo en el cristal.",
-            "response": "Retire espejos u objetos reflectantes cercanos al acuario para asegurar que el episodio no supere los 5 minutos."
-          },
-          {
-            "name": "Reposando inmóvil sobre hojas cerca de la superficie (Labyrinth Resting)",
-            "meaning": "Comportamiento normal de descanso para aliviar el peso de sus aletas mientras respira aire atmosférico mediante el órgano laberinto.",
-            "response": "No está enfermo; atenúe la iluminación y ajuste el filtro de esponja para evitar corrientes fuertes de agua."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Mañana: Verificación de temperatura (24°C ~ 26°C) y corriente suave",
-            "text": "Revise el termómetro para comprobar el calentador y asegúrese de que no existan corrientes fuertes que dificulten su nado."
-          },
-          {
-            "name": "Tarde: Alimentación dosificada con pellets de alta proteína y retiro de residuos",
-            "text": "Suministre de 3 a 4 pellets de alta proteína específicos para Betta de forma dividida y retire el alimento no consumido en 5 minutos con una pipeta."
-          },
-          {
-            "name": "Noche: Inspección del nido de burbujas (Bubble Nest) y 5 minutos de ejercicio de Flaring",
-            "text": "Examine la estructura del nido de burbujas en la superficie y acerque un espejo durante 3 a 5 minutos para ejercitar los músculos de las aletas y evitar uniones."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "¿Por qué las puntas de sus aletas se ven rasgadas y se vuelven negras?",
-            "answer": "Es el síntoma clásico de la podredumbre de aletas (Fin Rot), causada por contaminación del agua (filtración deficiente) o estrés. Realice cambios parciales de agua frecuentes (20~30%) y administre medicamentos veterinarios si es necesario."
-          },
-          {
-            "question": "¿Se puede mantener a un Betta en una pecera pequeña sin filtro?",
-            "answer": "Aunque los Bettas pueden respirar aire atmosférico, las peceras pequeñas sin filtro carecen de bacterias nitrificantes y el agua se deteriora rápidamente. Se recomienda un acuario de al menos 15 litros con filtro de esponja de flujo suave."
-          }
-        ],
-        "tags": [
-          "PezBetta",
-          "CuidadoDePeces",
-          "Flaring",
-          "GuíaWSAVA",
-          "CuidadoDeAletas"
-        ]
-      },
-      "fr": {
-        "title": "Guide du signal territorial Flaring chez le Betta et routine en 3 étapes pour préserver ses nageoires",
-        "description": "Prendre soin du poisson Betta aux nageoires spectaculaires. Comprenez les signaux de stress du Flaring, la gestion du courant et la respiration par le labyrinthe.",
-        "authority": "Normes de santé des animaux aquatiques de la World Small Animal Veterinary Association (WSAVA) et standards cliniques en ichtyologie",
-        "profile": {
-          "breed": "Poisson Betta (Betta splendens / Combattant du Siam)",
-          "lifespan": "3 ~ 5 ans",
-          "sleep_pattern": "8 ~ 10 heures (repos sur des plantes ou lits de feuilles en surface)",
-          "temperament": "Territorial, élégant, sensible, curieux"
-        },
-        "intro": "Arborant des nageoires somptueuses se déployant comme une robe et une nage d'une grande élégance, le Betta est un joyau parmi les poissons d'ornement. Selon les directives de bien-être aquatique de l'Association Mondiale des Vétérinaires pour Petits Animaux (WSAVA), le Betta possède un 'organe labyrinthe' lui permettant de respirer directement l'oxygène de l'air ambiant. Des plantes ou lits de feuilles proches de la surface sont donc indispensables, de même qu'un faible courant et une température stable (24°C ~ 26°C) pour prévenir la pourriture des nageoires (Fin Rot).",
-        "whyTitle": "Communication du Betta : Déploiement des ouïes (Flaring) et repos en surface",
-        "whyDesc": "Écarter l'opercule des ouïes et déployer pleinement ses nageoires — le **« Flaring »** — constitue un puissant signal d'avertissement territorial et d'excitation. Une séance quotidienne de 5 minutes stimule la musculature de ses voiles, mais un Flaring ininterrompu affaiblit ses défenses immunitaires.",
-        "body_signals": [
-          {
-            "name": "Déploiement des ouïes et nageoires grandes ouvertes (Flaring)",
-            "meaning": "Mise en garde contre une intrusion territoriale ou réaction d'agressivité et de stress face à son propre reflet sur la vitre.",
-            "response": "Retirez les miroirs ou objets réfléchissants à proximité de l'aquarium pour limiter l'épisode à moins de 5 minutes."
-          },
-          {
-            "name": "Immobile sur des feuilles près de la surface (Labyrinth Resting)",
-            "meaning": "Comportement de repos normal visant à soulager le poids de ses nageoires tout en respirant via l'organe labyrinthe pendant le sommeil.",
-            "response": "Le poisson n'est pas malade ; diminuez la luminosité et réglez le filtre éponge pour éviter tout courant excessif."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Matin : Vérification de la température (24°C ~ 26°C) et contrôle du faible courant",
-            "text": "Contrôlez le thermomètre pour vérifier le chauffage et assurez-vous qu'aucun courant fort ne gêne sa nage."
-          },
-          {
-            "name": "Midi : Distribution fractionnée de granulés protéinés et retrait des résidus",
-            "text": "Donnez 3 à 4 granulés spécifiques pour Betta en plusieurs fois, puis aspirez les résidus non consommés au bout de 5 minutes à l'aide d'une pipette."
-          },
-          {
-            "name": "Soir : Observation du nid de bulles (Bubble Nest) et 5 minutes d'exercice de Flaring",
-            "text": "Examinez le nid de bulles à la surface et présentez un miroir pendant 3 à 5 minutes pour faire travailler ses nageoires et éviter qu'elles ne collent."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Pourquoi les extrémités de ses nageoires s'effilochent-elles et deviennent-elles noires ?",
-            "answer": "C'est le signe caractéristique de la pourriture des nageoires (Fin Rot), causée par une eau polluée (filtration insuffisante) ou le stress. Effectuez des changements d'eau fréquents (20 à 30 %) et appliquez un traitement vétérinaire si nécessaire."
-          },
-          {
-            "question": "Peut-on élever un Betta dans un petit bocal sans filtre ?",
-            "answer": "Même si le Betta respire l'air ambiant, un petit bocal sans filtration ne peut développer de bactéries nitrifiantes et la qualité de l'eau s'y dégrade très vite. Un aquarium d'au moins 15 litres doté d'un filtre éponge à faible débit est vivement recommandé."
-          }
-        ],
-        "tags": [
-          "PoissonBetta",
-          "SoinsPoisson",
-          "Flaring",
-          "DirectivesWSAVA",
-          "GestionDesNageoires"
-        ]
-      },
-      "de": {
-        "title": "Betta-Imponiersignale und 3-Schritt-Tagesroutine für gesunde Flossen",
-        "description": "Pflegeanleitung für Siamesische Kampffische (Betta). Imponierverhalten (Flaring) verstehen, Strömung anpassen und Labyrinthorgan-Atmung nach WSAVA-Standards berücksichtigen.",
-        "authority": "Richtlinien der World Small Animal Veterinary Association (WSAVA) für Aquatiere und klinische Standards für Zierfische",
-        "profile": {
-          "breed": "Siamesischer Kampffisch (Betta splendens)",
-          "lifespan": "3 ~ 5 Jahre",
-          "sleep_pattern": "8 ~ 10 Stunden (ruht auf Pflanzen oder Betta-Betten nahe der Oberfläche)",
-          "temperament": "Revierbildend, elegant, empfindlich, neugierig"
-        },
-        "intro": "Mit seinen prachtvollen, wie ein Kleid gefächerten Flossen und seinen eleganten Schwimmbewegungen ist der Betta eine wahre Perle unter den Zierfischen. Laut den WSAVA-Tierschutzrichtlinien besitzen Bettas ein spezielles 'Labyrinthorgan', mit dem sie atmosphärischen Sauerstoff an der Wasseroberfläche atmen. Pflanzen oder Betta-Betten nahe der Oberfläche sind daher unverzichtbar. Eine schwache Strömung und eine stabile Wassertemperatur (24°C ~ 26°C) schützen wirksam vor der gefürchteten Flossenfäule (Fin Rot).",
-        "whyTitle": "Betta-Kommunikation: Kiemenabspreizen (Flaring) und Ruhen an der Oberfläche",
-        "whyDesc": "Das Abspreizen der Kiemendeckel und das vollständige Aufstellen der Flossen – das sogenannte **'Flaring'** – ist ein starkes Warn- und Erregungssignal. Ein kurzes, tägliches Training von 5 Minuten hält die Flossen elastisch, doch dauerhafter Stress schwächt das Immunsystem.",
-        "body_signals": [
-          {
-            "name": "Abspreizen der Kiemendeckel und maximale Flossendehnung (Flaring)",
-            "meaning": "Revierverteidigung oder aggressiver Stress, ausgelöst durch das eigene Spiegelbild an den Beckenscheiben.",
-            "response": "Entfernen Sie Spiegel oder reflektierende Gegenstände neben dem Aquarium, damit das Verhalten nicht länger als 5 Minuten anhält."
-          },
-          {
-            "name": "Ruhiges Liegen auf Pflanzenblättern nahe der Oberfläche (Labyrinth Resting)",
-            "meaning": "Normales Ruheverhalten, um das Gewicht der Flossen zu entlasten und tief zu schlafen, während Luft über das Labyrinthorgan geholt wird.",
-            "response": "Kein Krankheitszeichen; dimmen Sie das Licht und stellen Sie den Schwammfilter so ein, dass keine starke Strömung entsteht."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Morgen: Temperaturkontrolle (24°C ~ 26°C) & Prüfung der schwachen Strömung",
-            "text": "Überprüfen Sie das Thermometer und die Heizung. Stellen Sie sicher, dass keine starke Strömung das Schwimmen erschwert."
-          },
-          {
-            "name": "Mittag: Portionierte Fütterung von Betta-Pellets & Futterreste entfernen",
-            "text": "Füttern Sie 3 bis 4 proteinreiche Betta-Pellets aufgeteilt. Saugen Sie nicht gefressenes Futter nach 5 Minuten mit einer Pipette ab."
-          },
-          {
-            "name": "Abend: Schaumnest-Inspektion & 5 Minuten Imponiertraining",
-            "text": "Betrachten Sie das Schaumnest an der Oberfläche und halten Sie für 3 bis 5 Minuten einen Spiegel vor, um die Flossenmuskeln zu trainieren und Verklebungen vorzubeugen."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Warum fransen die Flossenränder aus und verfärben sich schwarz?",
-            "answer": "Dies ist ein klassisches Symptom der Flossenfäule (Fin Rot), meist verursacht durch schlechte Wasserwerte (mangelhafte Filterung) oder Stress. Führen Sie regelmäßige Teilwasserwechsel (20~30%) durch und setzen Sie bei Bedarf tierärztlich verschriebene Mittel ein."
-          },
-          {
-            "question": "Kann man einen Betta in einer kleinen Kugelvase ohne Filter halten?",
-            "answer": "Obwohl Bettas Luft atmen können, bauen kleine Vasen ohne Filter keine Nitrifikationsbakterien auf, wodurch das Wasser rasch kippt. Ein Becken von mindestens 15 Litern mit einem strömungsarmen Schwammfilter wird dringend empfohlen."
-          }
-        ],
-        "tags": [
-          "Kampffisch",
-          "Zierfischpflege",
-          "Flaring",
-          "WSAVA-Richtlinien",
-          "Flossenpflege"
-        ]
-      },
-      "pt": {
-        "title": "Guia de sinais territoriais de Flaring no Peixe Betta e rotina de 3 passos para preservar as nadadeiras",
-        "description": "Cuidados com o Peixe Betta de nadadeiras exuberantes. Entenda as exibições de Flaring por estresse, o controle do fluxo de água e a respiração pelo órgão labirinto.",
-        "authority": "Diretrizes de Saúde de Animais Aquáticos da Associação Mundial de Veterinários de Pequenos Animais (WSAVA) e Padrões Clínicos para Peixes Ornamentais",
-        "profile": {
-          "breed": "Peixe Betta (Betta splendens / Peixe de Briga Siamês)",
-          "lifespan": "3 ~ 5 anos",
-          "sleep_pattern": "8 ~ 10 horas (dorme em plantas ou camas de folhas perto da superfície)",
-          "temperament": "Territorial, elegante, sensível, curioso"
-        },
-        "intro": "Com nadadeiras deslumbrantes que se abrem como um vestido e um nado elegante, o peixe Betta é uma verdadeira joia entre os peixes ornamentais. De acordo com as diretrizes de bem-estar aquático da Associação Mundial de Veterinários de Pequenos Animais (WSAVA), os Bettas possuem o 'órgão labirinto', que lhes permite respirar o oxigênio do ar diretamente na superfície, tornando indispensáveis as plantas ou camas de folhas para descanso. Manter fluxos de água suaves e uma temperatura estável (24°C ~ 26°C) é crucial para prevenir a podridão das nadadeiras (Fin Rot).",
-        "whyTitle": "Comunicação do Betta: Abertura de guelras (Flaring) e descanso na superfície",
-        "whyDesc": "Abrir os opérculos das guelras e expandir totalmente as nadadeiras — o chamado **'Flaring'** — é um forte sinal de alerta territorial e excitação. Exercícios moderados de 5 minutos diários ajudam a exercitar as nadadeiras, mas o Flaring constante reduz a imunidade.",
-        "body_signals": [
-          {
-            "name": "Guelras abertas e nadadeiras totalmente expandidas (Flaring)",
-            "meaning": "Alerta de invasão territorial ou manifestação de agressividade e estresse desencadeada pelo próprio reflexo no vidro.",
-            "response": "Remova espelhos ou objetos reflexivos próximos ao aquário para garantir que o evento não passe de 5 minutos."
-          },
-          {
-            "name": "Deitado imóvel sobre folhas perto da superfície (Labyrinth Resting)",
-            "meaning": "Comportamento normal de repouso para aliviar o peso das nadadeiras enquanto respira pelo órgão labirinto durante o sono profundo.",
-            "response": "Não é doença; reduza a iluminação e ajuste o filtro de esponja para evitar correntes de água fortes."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Manhã: Verificação de temperatura (24°C ~ 26°C) e do fluxo suave de água",
-            "text": "Confira o termômetro para verificar o aquecedor e garanta que não haja correntes fortes que dificultem o nado do Betta."
-          },
-          {
-            "name": "Tarde: Alimentação fracionada com ração específica e remoção de sobras",
-            "text": "Forneça de 3 a 4 grãos de ração específica rica em proteínas e remova as sobras com um conta-gotas em até 5 minutos."
-          },
-          {
-            "name": "Noite: Observação do ninho de bolhas (Bubble Nest) e 5 minutos de exercício de Flaring",
-            "text": "Examine a estrutura do ninho de bolhas na superfície e aproxime um espelho por 3 a 5 minutos para exercitar a musculatura das nadadeiras e evitar fusões."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Por que as pontas das nadadeiras estão desfiadas e ficando escuras?",
-            "answer": "Este é um sintoma clássico da podridão das nadadeiras (Fin Rot), causada por poluição da água (filtragem inadequada) ou estresse. Faça trocas parciais de água frequentes (20~30%) e aplique medicamentos veterinários se necessário."
-          },
-          {
-            "question": "Posso manter meu Betta em um aquário pequeno sem filtro?",
-            "answer": "Embora os Bettas consigam respirar o ar atmosférico, aquários pequenos sem filtro não desenvolvem bactérias nitrificantes e a água se deteriora rapidamente. Recomenda-se um aquário de pelo menos 15 litros com filtro de esponja de fluxo suave."
-          }
-        ],
-        "tags": [
-          "PeixeBetta",
-          "CuidadosComPeixes",
-          "Flaring",
-          "DiretrizesWSAVA",
-          "CuidadoComNadadeiras"
-        ]
-      },
-      "id": {
-        "title": "Panduan Sinyal Teritorial Flaring Ikan Betta (Cupang) dan Rutinitas 3 Langkah Menjaga Keindahan Sirip",
-        "description": "Panduan merawat Ikan Betta (Cupang) yang memiliki sirip megah. Pahami ekspresi stres saat Flaring, pengelolaan arus air, dan sistem pernapasan organ labirin.",
-        "authority": "Standar Kesehatan Hewan Akuatik World Small Animal Veterinary Association (WSAVA) dan Standar Klinis Ikan Hias",
-        "profile": {
-          "breed": "Ikan Betta (Betta splendens / Ikan Cupang)",
-          "lifespan": "3 ~ 5 Tahun",
-          "sleep_pattern": "8 ~ 10 Jam (tidur di atas tanaman air/tempat tidur daun dekat permukaan)",
-          "temperament": "Teritorial, anggun, sensitif, sangat ingin tahu"
-        },
-        "intro": "Memiliki sirip megah yang mengembang bagaikan gaun serta gaya berenang yang anggun, ikan Betta (Cupang) adalah permata di antara ikan hias. Menurut panduan kesejahteraan hewan akuatik dari World Small Animal Veterinary Association (WSAVA), ikan Cupang memiliki 'organ labirin' khusus yang memungkinkan mereka bernapas menggunakan oksigen langsung dari udara. Oleh karena itu, tanaman air atau tempat tidur daun di dekat permukaan air sangat penting, serta arus air yang tenang dan suhu yang stabil (24°C ~ 26°C) harus dijaga untuk mencegah penyakit busuk sirip (Fin Rot).",
-        "whyTitle": "Komunikasi Ikan Cupang: Mengembangkan Insang (Flaring) dan Istirahat di Permukaan Air",
-        "whyDesc": "Mengembangkan penutup insang dan melebarkan sirip sepenuhnya—yang dikenal sebagai **'Flaring'**—merupakan sinyal peringatan teritorial dan kegembiraan yang kuat. Latihan flaring rutin selama 5 menit sehari bermanfaat untuk kesehatan sirip, namun flaring yang terus-menerus akan menurunkan daya tahan tubuh.",
-        "body_signals": [
-          {
-            "name": "Mengembangkan Penutup Insang & Sirip Mengembang Maksimal (Flaring)",
-            "meaning": "Peringatan atas pelanggaran wilayah atau bentuk respons stres dan agresivitas yang dipicu oleh bayangan diri sendiri di kaca aquarium.",
-            "response": "Jauhkan cermin atau benda yang memantulkan bayangan di dekat akuarium untuk memastikan aksi flaring tidak berlangsung lebih dari 5 menit."
-          },
-          {
-            "name": "Berbaring Diam di Atas Daun Dekat Permukaan Air (Labyrinth Resting)",
-            "meaning": "Perilaku istirahat normal untuk meringankan beban sirip sambil bernapas melalui organ labirin saat tidur nyenyak.",
-            "response": "Bukan berarti ikan sakit; redupkan lampu dan sesuaikan filter spons agar tidak menimbulkan arus air yang terlalu kencang."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Pagi: Pemeriksaan Suhu Air (24°C ~ 26°C) & Arus Filter yang Tenang",
-            "text": "Periksa termometer dan pastikan pemanas bekerja dengan baik, serta pastikan tidak ada arus kencang yang menyulitkan ikan berenang."
-          },
-          {
-            "name": "Siang: Pemberian Pakan Pelet Protein Tinggi Bertahap & Pembersihan Sisa Makanan",
-            "text": "Berikan 3 hingga 4 butir pelet khusus Cupang berprotein tinggi secara bertahap, dan ambil sisa pakan yang jatuh menggunakan pipet dalam waktu 5 menit."
-          },
-          {
-            "name": "Malam: Pengamatan Sarang Busa (Bubble Nest) & Latihan Flaring 5 Menit",
-            "text": "Periksa kondisi sarang busa di permukaan air, lalu dekatkan cermin selama 3 hingga 5 menit untuk melatih otot sirip dan mencegah sirip lengket."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Mengapa ujung sirip ikan Cupang saya robek dan menghitam?",
-            "answer": "Ini adalah gejala klasik penyakit busuk sirip (Fin Rot), yang disebabkan oleh kualitas air yang buruk (filtrasi yang tidak memadai) atau stres. Lakukan penggantian air secara rutin (20~30%) dan berikan obat sesuai resep dokter hewan jika diperlukan."
-          },
-          {
-            "question": "Bolehkah memelihara ikan Cupang di toples kecil tanpa filter?",
-            "answer": "Meskipun ikan Cupang dapat bernapas langsung dari udara, toples kecil tanpa filter tidak memiliki bakteri nitrifikasi sehingga kualitas air akan memburuk dengan cepat. Sangat disarankan menggunakan akuarium minimal 15 liter dengan filter spons berarus tenang."
-          }
-        ],
-        "tags": [
-          "IkanBetta",
-          "PerawatanIkanHias",
-          "Flaring",
-          "PanduanWSAVA",
-          "PerawatanSirip"
-        ]
-      }
-    },
-    "category": "CareSelf",
-    "app": "careself",
-    "formatVersion": 4,
-    "heroImage": "/images/blog/betta_fish_care.png"
-  }
+        "category": "CareSelf",
+        "app": "careself",
+        "formatVersion": 4,
+        "heroImage": "/images/blog/betta_fish_care.webp"
+    }
 }

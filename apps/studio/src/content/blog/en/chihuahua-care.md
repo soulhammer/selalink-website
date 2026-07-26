@@ -6,7 +6,7 @@ pubDate: "2026-07-01"
 updatedDate: "2026-07-01"
 category: "FreshSelf"
 tags: ["PetCare","PetHealth","Chihuahua (Canis lupus familiaris)"]
-heroImage: "/images/blog/chihuahua_care.png"
+heroImage: "/images/blog/chihuahua_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Official Chihuahua Club of America Breed Manual & AVMA Toy Breed Metabolic Care Guidelines"

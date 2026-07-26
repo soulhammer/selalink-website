@@ -6,7 +6,7 @@ pubDate: "2026-01-05"
 updatedDate: "2026-01-05"
 category: "FreshSelf"
 tags: ["반려동물","펫케어","포메라니안 (Canis lupus familiaris / Pomeranian)"]
-heroImage: "/images/blog/pomeranian_care.png"
+heroImage: "/images/blog/pomeranian_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "American Pomeranian Club 공식 견종 가이드 및 AVMA 수의학 매뉴얼"

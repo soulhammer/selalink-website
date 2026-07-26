@@ -6,7 +6,7 @@ pubDate: "2026-01-26"
 updatedDate: "2026-01-26"
 category: "FreshSelf"
 tags: ["Haustierpflege","Haustiergesundheit","Pudel (Canis lupus familiaris / Poodle)"]
-heroImage: "/images/blog/poodle_care.png"
+heroImage: "/images/blog/poodle_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Offizieller Rasseführer des American Kennel Club (AKC) und IAABC-Verhaltensprotokolle"

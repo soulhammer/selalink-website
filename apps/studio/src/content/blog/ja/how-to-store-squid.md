@@ -6,7 +6,7 @@ pubDate: "2026-05-08"
 updatedDate: "2026-05-08"
 category: "FreshSnap"
 tags: ["食材保存","鮮度保持","squid"]
-heroImage: "/images/blog/squid_storage_hack.png"
+heroImage: "/images/blog/squid_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>国立水産科学部(NIFS) & 食品医薬品安全処(MFDS) & 米国農務省(USDA)</strong>"

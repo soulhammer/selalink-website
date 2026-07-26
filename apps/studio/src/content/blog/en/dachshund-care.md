@@ -6,7 +6,7 @@ pubDate: "2026-06-20"
 updatedDate: "2026-06-20"
 category: "FreshSelf"
 tags: ["PetCare","PetHealth","Dachshund (Canis lupus familiaris)"]
-heroImage: "/images/blog/dachshund_care.png"
+heroImage: "/images/blog/dachshund_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "American Kennel Club Dachshund Health Guide and Veterinary Spinal Association Guidelines"

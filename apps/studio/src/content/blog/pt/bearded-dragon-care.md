@@ -6,7 +6,7 @@ pubDate: "2026-03-17"
 updatedDate: "2026-03-17"
 category: "FreshSelf"
 tags: ["CuidadoPets","SaudePets","Dragão Barbudo (Pogona vitticeps)"]
-heroImage: "/images/blog/bearded_dragon_care.png"
+heroImage: "/images/blog/bearded_dragon_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Diretrizes de manejo da Association of Reptilian and Amphibian Veterinarians (ARAV) e padrões de comportamento veterinário clínico em herpetologia"

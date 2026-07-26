@@ -6,7 +6,7 @@ pubDate: "2026-05-31"
 updatedDate: "2026-05-31"
 category: "FreshSelf"
 tags: ["ペットケア","ペット健康","マンチカン (Felis catus / Munchkin Cat)"]
-heroImage: "/images/blog/munchkin_care.png"
+heroImage: "/images/blog/munchkin_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "キャットファンシアーズアソシエーション（CFA）マンチカン標準および獣医整形外科ガイドライン"

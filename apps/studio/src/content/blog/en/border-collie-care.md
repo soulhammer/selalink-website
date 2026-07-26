@@ -6,7 +6,7 @@ pubDate: "2026-01-30"
 updatedDate: "2026-01-30"
 category: "FreshSelf"
 tags: ["PetCare","PetHealth","Border Collie"]
-heroImage: "/images/blog/border_collie_care.png"
+heroImage: "/images/blog/border_collie_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "The Kennel Club (KC) Border Collie Breed Guide & Canine Cognition Behavioral Standards"

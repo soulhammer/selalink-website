@@ -1,516 +1,516 @@
 {
-  "maine-coon-care": {
-    "pubDate": "2026-04-20",
-    "updatedDate": "2026-04-20",
-    "locales": {
-      "en": {
-        "title": "The Gentle Giant Maine Coon: Heart Health and Magnificent Double Coat 3-Step Daily Routine",
-        "description": "Caring for the gentle giant Maine Coon with lion-like features. Discover joint shock-absorption setup for heavy body weight and a 3-step daily routine to monitor genetic Hypertrophic Cardiomyopathy (HCM).",
-        "authority": "Maine Coon Breeders & Fanciers Association (MCBFA) Guidelines & AAFP Large Feline Management Protocols",
-        "profile": {
-          "breed": "Maine Coon (Felis catus)",
-          "lifespan": "12 ~ 15 years",
-          "sleep_pattern": "14 ~ 16 hours (prefers large dedicated space)",
-          "temperament": "Gentle, Highly Curious, Water-loving"
+    "maine-coon-care": {
+        "pubDate": "2026-04-20",
+        "updatedDate": "2026-04-20",
+        "locales": {
+            "en": {
+                "title": "The Gentle Giant Maine Coon: Heart Health and Magnificent Double Coat 3-Step Daily Routine",
+                "description": "Caring for the gentle giant Maine Coon with lion-like features. Discover joint shock-absorption setup for heavy body weight and a 3-step daily routine to monitor genetic Hypertrophic Cardiomyopathy (HCM).",
+                "authority": "Maine Coon Breeders & Fanciers Association (MCBFA) Guidelines & AAFP Large Feline Management Protocols",
+                "profile": {
+                    "breed": "Maine Coon (Felis catus)",
+                    "lifespan": "12 ~ 15 years",
+                    "sleep_pattern": "14 ~ 16 hours (prefers large dedicated space)",
+                    "temperament": "Gentle, Highly Curious, Water-loving"
+                },
+                "intro": "The Maine Coon, native to North America, is a naturally occurring breed known as the 'Gentle Giant' of the feline world. They feature a plush, lion-like ruff around their neck, tufted lynx tips on their ears, and a strong, square muzzle. Despite their imposing physical presence, they have extremely gentle, affectionate personalities, get along well with children and other animals, and possess a rare fondness for playing with water. 🐈\n\nHowever, because adult males frequently reach heavy weights of 8 to 12 kg, gravitational stress on their joints and skeletal structure is significant. Crucially, Maine Coons carry a higher genetic predisposition for Hypertrophic Cardiomyopathy (HCM) than most breeds. Therefore, establishing a home care routine that daily monitors resting respiration rates to track cardiac workload and cushions joint landings from high places is vital for their lifelong health.\n\nToday, PetSelf decodes the calming signals and body language of the Maine Coon while introducing a safe 3-step homecare routine to protect their heart and maintain their magnificent double coat.",
+                "whyTitle": "Maine Coon Body Language: Friendly Trilling and Alert Puffed Tail",
+                "whyDesc": "Maine Coons are highly social and curious, exhibiting a stronger urge to communicate with their owners compared to other cats. Typical communication signals include **'Trilling'** and a **'Puffed Tail'**. A soft, chirping 'trill' sound made while approaching is a warm greeting expressing deep affection and requesting interaction. Conversely, when startled by unexpected appliance noises or unfamiliar environments, the fur along their entire tail puffs out into a thick bottle-brush shape. When you notice a puffed tail, remove the stressor immediately and allow them time to calm down undisturbed in a quiet room.",
+                "body_signals": [
+                    {
+                        "name": "Trilling",
+                        "meaning": "A friendly vocalization expressing supreme trust and affection toward the owner, requesting gentle conversation or interaction.",
+                        "response": "Reply in a soft, cheerful high tone or offer light petting on their cheeks to return the love."
+                    },
+                    {
+                        "name": "Puffed Tail",
+                        "meaning": "An involuntary reaction to sudden auditory or visual frights, indicating that excitement and alertness have reached a peak.",
+                        "response": "Identify and remove the frightening trigger immediately, and do not force physical contact; allow the cat to settle down on its own."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Portion-Controlled Feeding for Weight & HCM Risk Management",
+                        "text": "Hypertrophic Cardiomyopathy (HCM) in Maine Coons worsens with obesity. Weigh their food every morning on a digital scale based on precise daily caloric requirements, and ensure a clean, abundant water supply."
+                    },
+                    {
+                        "name": "Afternoon: Steel Comb Full-Body Grooming to Prevent Long Double Coat Mats",
+                        "text": "The lion-like ruff and armpit fur mat easily, leading to skin inflammation. Use a steel comb to comb deeply into the undercoat to detangle knots, remove dander, and maintain proper coat ventilation."
+                    },
+                    {
+                        "name": "Evening: Landing Shock Cushion Mat Inspection & Sleeping Respiration Monitoring",
+                        "text": "As a giant breed, high jumps put heavy impact on their joints. Check the condition of cushion mats beneath cat trees and sofas, and measure their sleeping respiration rate (should be under 30 breaths per minute) to prevent cardiac overload."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "How should I manage the Maine Coon's high risk of Hypertrophic Cardiomyopathy (HCM)?",
+                        "answer": "Regular veterinary cardiac ultrasounds (echocardiograms) are crucial. At home, strictly manage daily meal portions to prevent obesity. If their sleeping respiration rate consistently exceeds 30 breaths per minute or is accompanied by open-mouth panting, seek immediate veterinary evaluation."
+                    },
+                    {
+                        "question": "What happens if I forcibly brush a Maine Coon's matted double coat?",
+                        "answer": "Maine Coons are large and physically strong. If grooming causes pain and creates fear, they may become defensively aggressive, making future handling unmanageable. Always spritz matted areas (such as armpits or groin) with a detangling spray first and untangle them gently in small sessions."
+                    }
+                ],
+                "tags": [
+                    "MaineCoon",
+                    "GiantCat",
+                    "HCMPrevention",
+                    "DoubleCoatGrooming"
+                ]
+            },
+            "ja": {
+                "title": "紳士的な巨大猫メインクーン、心臓の健康と豊かな二重毛の3段階日常ルーティン",
+                "description": "ライオンのような外見を持つ紳士的な巨大猫メインクーン。体重過負荷による関節保護マットの設定と、遺伝性肥大性心筋症(HCM)を観察する3段階日常ルーティンを紹介します。",
+                "authority": "メインクーンブリーダーズ＆ファンシャーズアソシエーション(MCBFA)およびAAFP大型猫管理プロトコル",
+                "profile": {
+                    "breed": "メインクーン (Felis catus / Maine Coon)",
+                    "lifespan": "12 ~ 15年",
+                    "sleep_pattern": "14 ~ 16時間（広い専用スペース推奨）",
+                    "temperament": "紳士的、好奇心旺盛、水好き"
+                },
+                "intro": "メインクーン(Maine Coon)は北米原産で、猫界の「ジェントル・ジャイアント（穏やかな巨人）」と呼ばれる超大型種です。ライオンのたてがみのような首周りの毛と、耳の先の飾り毛、そしてたくましいマズルが特徴です。その体躯とは裏腹に、非常に優しく社交的で、子供や他のペットとも仲良くでき、猫にしては珍しく水を怖がらないことで知られます。🐈\n\nしかし、成猫では体重が8〜12kgに達するため、骨格や関節にかかる負担が非常に大きいです。さらに、遺伝的に「肥大性心筋症(HCM)」の発症率が他の猫種よりも高い傾向にあります。呼吸状態を日常的に監視し、着地時の関節への衝撃を減らすケアが非常に重要になります。\n\n本日PetSelfでは、メインクーンのボディランゲージを解読し、豊かなダブルコートのお手入れと心臓を守る3段階のケアをご紹介します。",
+                "whyTitle": "メインクーンのボディランゲージ：親しげな鳴き声と警戒の尻尾膨らまし",
+                "whyDesc": "メインクーンはとても社交的で、他の猫よりもコミュニケーションを好みます。代表的なサインは**「トリル（Trilling）」**と**「尻尾膨らまし（Puffed Tail）」**です。喉を鳴らしながら「クルル」と鳴いて近づくトリルは、飼い主への親愛の挨拶です。逆に、予期せぬ騒音などに驚いた時は、尻尾全体が大きく膨らんで太いブラシのようになります。この時は、刺激を遠ざけて静かな部屋で落ち着くまで見守ってあげてください。",
+                "body_signals": [
+                    {
+                        "name": "トリル (Trilling)",
+                        "meaning": "飼い主への絶大な信頼と親しみを示す、愛情深いおしゃべりのリクエストです。",
+                        "response": "飼い主も優しい声で返事をしたり、軽くスキンシップをして愛情に応えてあげましょう。"
+                    },
+                    {
+                        "name": "尻尾膨らまし (Puffed Tail)",
+                        "meaning": "予期せぬ大きな音や視覚的な刺激に驚き、興奮と警戒が最高潮に達しているサインです。",
+                        "response": "驚かせた原因をすぐに取り除き、落ち着くまで無理に近づかず静かに見守りましょう。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：精密デジタルスケールによるフード量と肥満の管理",
+                        "text": "肥満は肥大性心筋症（HCM）のリスクを増加させます。毎朝スケールで必要量を計って給与し、十分な給水ができるように管理します。"
+                    },
+                    {
+                        "name": "昼：毛玉と抜け毛を防ぐためのコーム・スリッカーブラシ",
+                        "text": "たてがみのような首周りや脇の下は毛玉になりやすく皮膚炎の原因になります。金属コームで奥の毛までしっかり梳かして絡まりをほぐします。"
+                    },
+                    {
+                        "name": "夜：着地時の衝撃を減らすマットの設置と呼吸数の監視",
+                        "text": "大型猫のため高い場所からの着地衝撃が大きいです。キャットタワー等の下にあるマットを点検し、睡眠時の呼吸数（30回未満/分）を計って健康を監視します。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "メインクーンの肥大性心筋症（HCM）リスクにはどのように対処すべきですか？",
+                        "answer": "定期的な心臓エコー検査が極めて重要です。家庭内では肥満を防ぐため、徹底した食事制限を行い、安静時の呼吸数が1分間に30回以上になった場合は速やかに獣医師に診せてください。"
+                    },
+                    {
+                        "question": "メインクーンの絡まった毛のブラッシングを無理に行うとどうなりますか？",
+                        "answer": "メインクーンは力強く大きいため、お手入れに痛みや恐怖を感じて拒否するようになると、制御できなくなります。絡まりやすい脇等はスプレー等を使用し、優しくほぐしながら梳かす必要があります。"
+                    }
+                ],
+                "tags": [
+                    "メインクーン",
+                    "大型猫",
+                    "肥大性心筋症",
+                    "二重毛のケア"
+                ]
+            },
+            "zh": {
+                "title": "绅士般的大型巨猫缅因猫，心脏健康与浓密双层被毛的3步日常护理流程",
+                "description": "外表像狮子般威风的温顺巨猫缅因猫。由于体重大，需要布置关节减震垫以减轻落地冲击，并介绍监控遗传性肥大性心肌病（HCM）的3步日常护理流程。",
+                "authority": "缅因猫繁育与爱好者协会 (MCBFA) 官方指南与 AAFP 大型猫管理协议",
+                "profile": {
+                    "breed": "缅因猫 (Felis catus / Maine Coon)",
+                    "lifespan": "12 ~ 15年",
+                    "sleep_pattern": "14 ~ 16小时（偏好宽敞的专属休息区）",
+                    "temperament": "绅士温顺、好奇心强、喜爱玩水"
+                },
+                "intro": "缅因猫（Maine Coon）源自北美，是猫咪界著名的“温柔巨兽（Gentle Giant）”。它们拥有松软且如狮子鬃毛般飘逸的围脖毛、耳尖伸出的耳饰毛以及棱角分明的口吻。虽然体型庞大，但性格却极其温顺包容，与儿童和其他宠物相处融洽，且具有少见的喜爱玩水的特性。🐈\n\n然而，成年缅因猫体重普遍可达 8 至 12 公斤，这使得其关节承受的重力负担远超普通猫咪。尤为重要的是，它们是遗传性肥大性心肌病（HCM）的高发品种。因此，在日常生活中定期观察其呼吸次数以监控心脏状态，并做好关节减震的护理至关重要。\n\n今天 PetSelf 将为您解读缅因猫的身体语言，并介绍一套旨在养护浓密被毛与呵护心脏健康的日常3步护理流程。",
+                "whyTitle": "缅因猫的身体语言：友好的颤音鸣叫与警惕地膨胀尾巴",
+                "whyDesc": "缅因猫因性格温顺且好奇心强，与其他猫相比表现出更强烈的沟通欲望。最典型的安定信号是 **“颤音鸣叫（Trilling）”** 和 **“膨胀尾巴（Puffed Tail）”**。当它们发出“咕噜噜”的颤音走近时，是极其欢迎家长并表达爱意的沟通请求。相反，当受到突发噪音或陌生环境惊吓时，其尾巴上的毛会全部炸开膨胀成松鼠尾巴状。此时应立刻消除惊吓源，让它们在安静的房间里独自恢复冷静。",
+                "body_signals": [
+                    {
+                        "name": "颤音鸣叫 (Trilling)",
+                        "meaning": "表达对家长最高度的信任与好感，发出亲切的对话邀请。",
+                        "response": "家长也应以柔和亲切的声音回应，或者进行轻轻的抚摸来互动。"
+                    },
+                    {
+                        "name": "炸毛膨胀尾 (Puffed Tail)",
+                        "meaning": "遇到突发视听觉惊吓，兴奋度与警惕状态达到峰值的信号。",
+                        "response": "立刻清除导致惊吓的因素，不要强行靠近，让猫咪自己恢复平静。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早晨：通过定量配给饲料来控制体重与预防 HCM 风险",
+                        "text": "缅因猫的肥大性心肌病（HCM）会在肥胖时恶化。每天早晨使用数码秤按照卡路里标准进行定量给食，并确认水分供应充足。"
+                    },
+                    {
+                        "name": "中午：防止长密双层被毛打结 钢排梳全身体表梳理",
+                        "text": "鬃毛般的脖圈和双腋毛发极易结团并诱发皮肤炎。应使用钢排梳深层梳理至底毛，解开结团，清理皮屑并防止毛发打结。"
+                    },
+                    {
+                        "name": "晚上：落地关节减震大垫子检查与心率/呼吸次数观察",
+                        "text": "作为巨型猫，从高处跳下时的落地冲击力极大。应检查猫爬架和沙发下减震垫是否到位，并测量睡眠状态下1分钟内呼吸次数（30次以下）以防心脏超载。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "应该如何应对缅因猫高发的肥大性心肌病（HCM）风险？",
+                        "answer": "定期的心脏超声筛查极其重要。日常中应严格实行定时定量喂食以防止肥胖。一旦发现其睡眠呼吸频次在每分钟30次以上且伴有张口呼吸，应立即送医检查。"
+                    },
+                    {
+                        "question": "如果强行给缅因猫梳理打结的被毛，会有什么副作用？",
+                        "answer": "缅因猫体型大且力量强。如果在梳毛时感到疼痛并产生防备抗拒心理，后续打理将变得极其困难。腋下或大腿根部打结处需喷洒顺毛喷雾后，分次柔和梳理。"
+                    }
+                ],
+                "tags": [
+                    "缅因猫",
+                    "巨型猫",
+                    "心肌病预防",
+                    "双层毛梳理"
+                ]
+            },
+            "es": {
+                "title": "El gigante gentil Maine Coon: Rutina diaria de 3 pasos para la salud cardíaca y su magnífico manto doble",
+                "description": "Cuidados del gigante gentil Maine Coon de apariencia leonina. Descubra medidas para amortiguar el impacto articular por peso corporal y una rutina de 3 pasos para monitorear la Miocardiopatía Hipertrófica (HCM).",
+                "authority": "Guía Oficial de la Maine Coon Breeders & Fanciers Association (MCBFA) y Protocolos de Manejo de Gatos Grandes de la AAFP",
+                "profile": {
+                    "breed": "Maine Coon (Felis catus)",
+                    "lifespan": "12 ~ 15 años",
+                    "sleep_pattern": "14 ~ 16 horas (prefiere espacios amplios)",
+                    "temperament": "Gentil, Muy Curioso, Amante del agua"
+                },
+                "intro": "Los Maine Coons, originarios de América del Norte, son los 'gigantes gentiles' del mundo felino. Son famosos por su denso collar estilo melena de león, los pinceles en las orejas (puntas de lince) y su hocico robusto. A pesar de su imponente físico, poseen un temperamento dulce, conviven bien con niños y otras mascotas, y tienen un gusto poco habitual por jugar con el agua. 🐈\n\nSin embargo, como los machos adultos pesan habitualmente entre 8 y 12 kg, la carga sobre sus articulaciones por la gravedad es considerable. Además, tienen una predisposición genética superior para desarrollar Cardiomiopatía Hipertrófica (HCM). Por ello, controlar su frecuencia respiratoria durante el sueño y amortiguar el impacto de sus saltos resulta indispensable en su rutina diaria.\n\nHoy, PetSelf descifra el lenguaje corporal del Maine Coon y presenta una rutina diaria de 3 pasos para proteger su corazón y mantener su hermoso manto doble.",
+                "whyTitle": "Lenguaje corporal del Maine Coon: Trinos amigables y cola erizada",
+                "whyDesc": "Los Maine Coons son sociables y disfrutan comunicándose. Las señales clave de comunicación incluyen el **'trino' (Trilling)** y la **'cola erizada' (Puffed Tail)**. Un trino suave al acercarse es un saludo afectuoso para iniciar interacción. Por el contrario, cuando se asustan con ruidos fuertes o entornos desconocidos, el pelo de su cola se eriza adquiriendo forma de cepillo. Cuando observe esto, retire la fuente de estrés y déjelo calmarse a solas.",
+                "body_signals": [
+                    {
+                        "name": "Trino (Trilling)",
+                        "meaning": "Una vocalización amistosa que muestra máxima confianza y afecto, solicitando una interacción calmada.",
+                        "response": "Responda con un tono de voz suave o acaricie sus mejillas para corresponder al afecto."
+                    },
+                    {
+                        "name": "Cola erizada o bufada (Puffed Tail)",
+                        "meaning": "Una respuesta involuntaria de miedo ante estímulos auditivos o visuales repentinos, indicando máxima alerta.",
+                        "response": "Retire inmediatamente el factor de estrés. No fuerce el contacto físico y deje que se tranquilice solo."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Control estricto de la dieta para gestión de peso y prevención de HCM",
+                        "text": "La miocardiopatía hipertrófica (HCM) en el Maine Coon empeora con la obesidad. Pese su comida diariamente en una báscula digital siguiendo las calorías necesarias y asegure agua fresca."
+                    },
+                    {
+                        "name": "Tarde: Cepillado del manto doble con peine de metal y carda para evitar nudos",
+                        "text": "El pelo del collar y las axilas se enreda con facilidad, pudiendo provocar dermatitis. Peine a fondo con peine de acero hasta el subpelo para deshacer nudos y eliminar la caspa."
+                    },
+                    {
+                        "name": "Noche: Inspección de alfombras amortiguadoras y control de frecuencia respiratoria",
+                        "text": "Su gran peso aumenta el impacto al saltar desde alturas. Compruebe las alfombras protectoras bajo rascadores y monitoree su frecuencia respiratoria al dormir (menos de 30 respiraciones por minuto)."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Cómo debo manejar el alto riesgo de Cardiomiopatía Hipertrófica (HCM) en el Maine Coon?",
+                        "answer": "Las ecocardiografías veterinarias periódicas son esenciales. En casa, evite la obesidad con un control estricto de raciones. Si la frecuencia respiratoria en reposo supera las 30 respiraciones por minuto o jadea con la boca abierta, acuda al veterinario inmediatamente."
+                    },
+                    {
+                        "question": "¿Qué pasa si cepillo a la fuerza el pelo enredado de mi Maine Coon?",
+                        "answer": "Por su gran tamaño y fuerza, si asocian el cepillado con dolor y reaccionan a la defensiva, será imposible manipularlos. Aplique un espray desenredante primero y cepille suavemente en sesiones breves."
+                    }
+                ],
+                "tags": [
+                    "MaineCoon",
+                    "GatoGigante",
+                    "PrevenciónDeHCM",
+                    "MantoDoble"
+                ]
+            },
+            "fr": {
+                "title": "Le doux géant Maine Coon : Routine quotidienne en 3 étapes pour la santé cardiaque et son pelage double",
+                "description": "Prendre soin du doux géant Maine Coon à l'allure de lion. Découvrez les aménagements pour amortir l'impact sur les articulations lié au poids et une routine en 3 étapes pour surveiller la CMH.",
+                "authority": "Guide Officiel de la Maine Coon Breeders & Fanciers Association (MCBFA) et Protocoles de Gestion des Grands Félins de l'AAFP",
+                "profile": {
+                    "breed": "Maine Coon (Felis catus)",
+                    "lifespan": "12 ~ 15 ans",
+                    "sleep_pattern": "14 ~ 16 heures (grands espaces ouverts préférés)",
+                    "temperament": "Gentil, Curieux, Ami de l'eau"
+                },
+                "intro": "Le Maine Coon, originaire d'Amérique du Nord, est le « géant gentil » (Gentle Giant) du monde félin. Connu pour sa collerette léonine, ses oreilles ornées de plumets (pinceaux de lynx) et son museau carré, il possède un caractère extrêmement doux et une attirance rare pour l'eau. 🐈\n\nCependant, les mâles adultes atteignant souvent un poids de 8 à 12 kg, leur structure osseuse subit une forte contrainte. De plus, ils présentent une prédisposition génétique élevée à la Cardiomyopathie Hypertrophique (CMH). Surveiller quotidiennement son rythme respiratoire au repos et amortir l'impact de ses réceptions de saut sont donc des piliers de son bien-être.\n\nAujourd'hui, PetSelf décrypte le langage corporel du Maine Coon et propose une routine quotidienne en 3 étapes pour préserver son cœur et entretenir son pelage.",
+                "whyTitle": "Langage corporel du Maine Coon : Roucoulements amicaux et queue gonflée",
+                "whyDesc": "Le Maine Coon est très sociable et aime échanger avec ses propriétaires. Les signaux clés incluent les **roucoulements (Trilling)** et la **queue gonflée (Puffed Tail)**. Un léger roucoulement lorsqu'il s'approche est une salutation affectueuse. À l'inverse, s'il est surpris par un bruit soudain, les poils de sa queue se hérissent comme un goupillon. Éloignez alors la source de stress et laissez-le se calmer seul.",
+                "body_signals": [
+                    {
+                        "name": "Roucoulement (Trilling)",
+                        "meaning": "Une vocalisation amicale témoignant d'une confiance absolue et d'une demande d'interaction douce.",
+                        "response": "Répondez avec une voix douce et chaleureuse ou caressez-le gentiment pour lui rendre son affection."
+                    },
+                    {
+                        "name": "Queue gonflée (Puffed Tail)",
+                        "meaning": "Une réaction de peur involontaire face à un bruit ou un visuel soudain, indiquant une alerte maximale.",
+                        "response": "Éliminez immédiatement l'élément effrayant et ne le forcez pas au contact physique ; laissez-le retrouver son calme."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Mesure stricte des rations pour le contrôle du poids et la prévention de la CMH",
+                        "text": "La cardiomyopathie hypertrophique (CMH) du Maine Coon s'aggrave en cas d'obésité. Pesez sa nourriture quotidiennement sur une balance électronique et veillez à un apport en eau suffisant."
+                    },
+                    {
+                        "name": "Après-midi : Brossage du sous-poil au peigne métallique et à la carde",
+                        "text": "La collerette et les poils sous les aisselles s'emmêlent facilement, provoquant des dermatites. Peignez en profondeur avec un peigne métallique pour éliminer le sous-poil mort et la pellicule."
+                    },
+                    {
+                        "name": "Soir : Tapis amortisseurs au sol et contrôle de la respiration au repos",
+                        "text": "Son poids lourd augmente l'impact lors de la réception des sauts. Vérifiez les tapis amortisseurs sous l'arbre à chat et mesurez son rythme respiratoire au repos (moins de 30 mouvements/min)."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Comment gérer le risque élevé de Cardiomyopathie Hypertrophique (CMH) chez le Maine Coon ?",
+                        "answer": "Des échographies cardiaques régulières chez le vétérinaire sont indispensables. À la maison, évitez l'obésité grâce au contrôle strict des portions. Si sa respiration au repos dépasse 30 mouvements par minute ou s'il respire la bouche ouverte, consultez d'urgence."
+                    },
+                    {
+                        "question": "Que se passe-t-il si je brosse de force les nœuds de mon Maine Coon ?",
+                        "answer": "En raison de sa taille imposante et de sa force, s'il associe le toilettage à la douleur et se rebelle, il deviendra impossible à manipuler. Utilisez un spray démêlant au préalable et brossez par petites étapes avec douceur."
+                    }
+                ],
+                "tags": [
+                    "MaineCoon",
+                    "ChatGéant",
+                    "PréventionDeCMH",
+                    "DoublePelage"
+                ]
+            },
+            "de": {
+                "title": "Der sanfte Riese Maine Coon: Tägliche 3-Schritte-Routine für Herzgesundheit und prachtvolles Doppelfell",
+                "description": "Pflege für den sanften Riesen Maine Coon mit löwenartigem Aussehen. Entdecken Sie Dämpfungsmaßnahmen für Gelenke bei hohem Gewicht und eine 3-Schritte-Routine zur HCM-Überwachung.",
+                "authority": "Offizieller Leitfaden der Maine Coon Breeders & Fanciers Association (MCBFA) und AAFP-Protokolle für Großkatzen",
+                "profile": {
+                    "breed": "Maine Coon (Felis catus)",
+                    "lifespan": "12 ~ 15 Jahre",
+                    "sleep_pattern": "14 ~ 16 Stunden (große offene Flächen bevorzugt)",
+                    "temperament": "Gentleman-artig, Neugierig, Wasserliebend"
+                },
+                "intro": "Die Maine Coon aus Nordamerika ist als 'sanfter Riese' (Gentle Giant) der Katzenwelt bekannt. Charakteristisch sind die löwenartige Halskrause, die Ohrpinsel (Luchspinsel) und die kräftige Schnauze. Trotz ihrer Größe besitzen sie ein sanftmütiges Wesen, verstehen sich gut mit Kindern und lieben überraschenderweise das Spiel mit Wasser. 🐈\n\nDa ausgewachsene Kater jedoch oft 8 bis 12 kg wiegen, ist die Belastung für Gelenke und Knochen hoch. Zudem neigen Maine Coons genetisch zu Hypertropher Kardiomyopathie (HCM). Die tägliche Kontrolle der Atemfrequenz im Schlaf sowie stoßdämpfende Unterlagen gehören daher zur Grundpflege.\n\nHeute entschlüsselt PetSelf die Körpersprache der Maine Coon und stellt eine 3-Schritte-Routine vor, um das Herz zu schützen und das dichte Doppelfell zu pflegen.",
+                "whyTitle": "Körpersprache der Maine Coon: Freundliches Trillern und aufgeplusterter Schwanz",
+                "whyDesc": "Maine Coons sind sehr sozial und haben ein starkes Bedürfnis nach Kommunikation. Zu den typischen Signalen gehören das **'Trillern' (Trilling)** und der **'aufgeplusterte Schwanz' (Puffed Tail)**. Ein leises 'Gurren' beim Annähern ist eine freundliche Begrüßung. Wenn sie sich dagegen erschrecken, plustert sich das Fell am Schwanz wie eine Flaschenbürste auf. Entfernen Sie dann den Auslöser und lassen Sie die Katze in Ruhe abkühlen.",
+                "body_signals": [
+                    {
+                        "name": "Trillern (Trilling)",
+                        "meaning": "Ein freundlicher Laut, der tiefes Vertrauen und Zuneigung ausdrückt und um Aufmerksamkeit bittet.",
+                        "response": "Antworten Sie mit sanfter, freundlicher Stimme oder streicheln Sie die Katze leicht, um die Liebe zu erwidern."
+                    },
+                    {
+                        "name": "Aufgeplusterter Schwanz (Puffed Tail)",
+                        "meaning": "Eine Schreckreaktion auf plötzliche Geräusche oder visuelle Reize, die höchste Alarmbereitschaft anzeigt.",
+                        "response": "Beseitigen Sie den Schreckreiz sofort. Zwingen Sie die Katze nicht zum Kontakt, sondern lassen Sie sie sich beruhigen."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Futterportionierung zur Gewichtskontrolle und HCM-Vorsorge",
+                        "text": "HCM verschlimmert sich durch Übergewicht. Wiegen Sie das Futter täglich mit einer Digitalwaage exakt ab und sorgen Sie für frisches Wasser."
+                    },
+                    {
+                        "name": "Nachmittag: Unterfellpflege mit Metallkamm und Zupfbürste",
+                        "text": "Das dichte Fell an Mähne und Achseln verfilzt leicht und führt zu Hautentzündungen. Kämmen Sie mit einem Metallkamm tief bis zur Unterwolle durch."
+                    },
+                    {
+                        "name": "Abend: Prüfung stoßdämpfender Matten und Atemfrequenzkontrolle",
+                        "text": "Ihr hohes Gewicht verstärkt den Aufprall beim Herabspringen. Prüfen Sie Dämpfungsmatten unter Rascgbäumen und kontrollieren Sie die Atemfrequenz im Schlaf (unter 30 Atemzüge/Minute)."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Wie sollte ich das hohe HCM-Risiko der Maine Coon bewältigen?",
+                        "answer": "Regelmäßige Ultraschalluntersuchungen des Herzens beim Tierarzt sind entscheidend. Vermeiden Sie Übergewicht durch streng portionierte Fütterung. Liegt die Atemfrequenz im Schlaf dauerhaft über 30 Atemzügen pro Minute, suchen Sie sofort einen Tierarzt auf."
+                    },
+                    {
+                        "question": "Was passiert, wenn ich verfilztes Fell bei einer Maine Coon gewaltsam ausbürste?",
+                        "answer": "Aufgrund ihrer Größe und Kraft können Maine Coons bei Schmerzen sehr wehrhaft werden, was die Pflege unmöglich macht. Sprühen Sie Knoten mit Entwirrungsspray ein und kämmen Sie sie vorsichtig in kleinen Schritten aus."
+                    }
+                ],
+                "tags": [
+                    "MaineCoon",
+                    "Riesenkatze",
+                    "HCMPraevention",
+                    "DoppelfellPflege"
+                ]
+            },
+            "pt": {
+                "title": "O gigante gentil Maine Coon: Rotina diária de 3 passos para a saúde cardíaca e pelagem dupla",
+                "description": "Cuidados com o gigante gentil Maine Coon de aparência leonina. Descubra medidas de amortecimento articular pelo peso elevado e uma rotina de 3 passos para monitorar a Cardiomiopatia Hipertrófica (HCM).",
+                "authority": "Guia Oficial da Maine Coon Breeders & Fanciers Association (MCBFA) e Protocolos de Manejo de Gatos Grandes da AAFP",
+                "profile": {
+                    "breed": "Maine Coon (Felis catus)",
+                    "lifespan": "12 ~ 15 anos",
+                    "sleep_pattern": "14 ~ 16 horas (prefere espaços amplos)",
+                    "temperament": "Gentil, Muito Curioso, Amante de água"
+                },
+                "intro": "O Maine Coon, nativo da América do Norte, é o 'gigante gentil' (Gentle Giant) do mundo felino. É famoso pela sua juba de leão no pescoço, pincéis nas orelhas (pontas de lince) e focinho forte. Apesar do porte imponente, possui um temperamento extremamente dócil, dá-se bem com crianças e outros animais e tem uma rara fascinação por brincar com água. 🐈\n\nNo entanto, como os machos adultos pesam frequentemente entre 8 e 12 kg, a sobrecarga nas articulações é muito grande. Além disso, apresentam uma pré-disposição genética elevada para a Cardiomiopatia Hipertrófica (HCM). Monitorar a frequência respiratória no sono e amortecer o impacto dos saltos são hábitos vitais.\n\nHoje, o PetSelf decodifica a linguagem corporal do Maine Coon e apresenta uma rotina diária de 3 passos para proteger o coração e manter a pelagem dupla exuberante.",
+                "whyTitle": "Linguagem corporal do Maine Coon: Trinados amigáveis e cauda eriçada",
+                "whyDesc": "Os Maine Coons são muito sociáveis e comunicativos. Os sinais chave incluem o **'trinado' (Trilling)** e a **'cauda eriçada' (Puffed Tail)**. Um trinado suave ao aproximar-se é uma saudação carinhosa. Por outro lado, quando assustados por barulhos repentinos, os pelos da cauda eriçam-se como uma escova. Se notar isto, remova a fonte de estresse e deixe-o acalmar-se sozinho.",
+                "body_signals": [
+                    {
+                        "name": "Trinado (Trilling)",
+                        "meaning": "Uma vocalização amigável que demonstra confiança e afeto, pedindo interação e atenção.",
+                        "response": "Responda com um tom de voz suave ou acaricie o rosto levemente para retribuir o carinho."
+                    },
+                    {
+                        "name": "Cauda eriçada ou bufada (Puffed Tail)",
+                        "meaning": "Uma resposta de medo involuntária a estímulos auditivos ou visuais repentinos, indicando alerta máximo.",
+                        "response": "Remova imediatamente o fator de estresse. Não force o contato físico e deixe o gato acalmar-se sozinho."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Controle rigoroso da ração para gestão de peso e prevenção de HCM",
+                        "text": "A Cardiomiopatia Hipertrófica (HCM) no Maine Coon piora com a obesidade. Pese a ração diariamente numa balança digital segundo as necessidades calóricas e garanta água fresca."
+                    },
+                    {
+                        "name": "Tarde: Escovação completa da pelagem dupla com pente de aço e rasqueadeira",
+                        "text": "A juba e o pelo das axilas embaraçam facilmente, causando dermatite. Penteie profundamente com pente de aço para desfazer nós e remover pelos mortos."
+                    },
+                    {
+                        "name": "Noite: Tapetes amortecedores de impacto e monitoramento da frequência respiratória",
+                        "text": "O peso elevado aumenta o impacto ao saltar de locais altos. Verifique os tapetes de amortecimento e monitore a frequência respiratória ao dormir (menos de 30 respirações por minuto)."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Como devo gerenciar o alto risco de Cardiomiopatia Hipertrófica (HCM) no Maine Coon?",
+                        "answer": "Exames de ecocardiograma periódicos são essenciais. Em casa, evite a obesidade com controle de calorias. Se a respiração em repouso ultrapassar 30 respirações por minuto ou se houver respiração de boca aberta, procure um veterinário imediatamente."
+                    },
+                    {
+                        "question": "O que acontece se eu escovar à força o pelo embaraçado de um Maine Coon?",
+                        "answer": "Pelo seu tamanho e força, se associarem a escovação à dor e ficarem reativos, o manejo torna-se impossível. Use sprays desembaraçantes primeiro e escove suavemente em sessões curtas."
+                    }
+                ],
+                "tags": [
+                    "MaineCoon",
+                    "GatoGigante",
+                    "PrevençãoDeHCM",
+                    "PelagemDupla"
+                ]
+            },
+            "id": {
+                "title": "Raksasa yang Lembut Maine Coon: Rutinitas Harian 3 Langkah Kesehatan Jantung dan Bulu Ganda yang Indah",
+                "description": "Merawat raksasa yang lembut Maine Coon yang berpenampilan seperti singa. Pelajari penyediaan matras peredam benturan sendi dan 3 langkah rutinitas harian untuk memantau Kardiomiopati Hipertropik (HCM).",
+                "authority": "Panduan Resmi Maine Coon Breeders & Fanciers Association (MCBFA) & Protokol Manajemen Kucing Besar AAFP",
+                "profile": {
+                    "breed": "Maine Coon (Felis catus)",
+                    "lifespan": "12 ~ 15 tahun",
+                    "sleep_pattern": "14 ~ 16 jam (menyukai ruang terbuka yang luas)",
+                    "temperament": "Lembut, Sangat Ingin Tahu, Menyukai Air"
+                },
+                "intro": "Maine Coon, yang berasal dari Amerika Utara, adalah 'Raksasa yang Lembut' (Gentle Giant) di dunia kucing. Terkenal dengan surai lebat seperti singa, bulu rumbai di ujung telinga (puncak lynx), dan moncong yang lebar. Meskipun berukuran sangat besar, mereka memiliki kepribadian yang sangat lembut, ramah dengan anak-anak dan hewan lain, serta memiliki ketertarikan yang tidak biasa pada air. 🐈\n\nNamun, karena jantan dewasa sering mencapai berat 8 hingga 12 kg, beban gravitasi pada sendi dan tulang mereka cukup besar. Selain itu, mereka memiliki risiko genetik yang lebih tinggi untuk terkena Kardiomiopati Hipertropik (HCM). Oleh karena itu, memantau laju pernapasan saat tidur dan menyediakan bantalan peredam benturan pendaratan adalah hal wajib.\n\nHari ini, PetSelf menguraikan bahasa tubuh Maine Coon dan membagikan 3 langkah rutinitas harian untuk melindungi jantung dan merawat bulu ganda mereka yang lebat.",
+                "whyTitle": "Bahasa Tubuh Maine Coon: Kicauan Ramah dan Ekor Mengembang Waspada",
+                "whyDesc": "Maine Coon sangat sosial dan ingin berkomunikasi dengan pemiliknya. Sinyal utama meliputi **'kicauan' (Trilling)** dan **'ekor mengembang' (Puffed Tail)**. Kicauan lembut seperti 'kruru' saat mendekat adalah sapaan hangat untuk berinteraksi. Sebaliknya, saat terkejut oleh suara mendadak, ekor lebat mereka mengembang seperti sikat botol. Berikan mereka waktu tenang di ruangan sepi.",
+                "body_signals": [
+                    {
+                        "name": "Kicauan (Trilling)",
+                        "meaning": "Vokalisasi ramah yang menunjukkan kepercayaan dan kasih sayang mendalam, meminta perhatian dan komunikasi.",
+                        "response": "Balas dengan nada suara yang lembut atau berikan elusan ringan pada pipinya untuk membalas kasih sayang."
+                    },
+                    {
+                        "name": "Ekor Mengembang (Puffed Tail)",
+                        "meaning": "Respons takut terhadap suara atau visual mendadak, menunjukkan kewaspadaan dan kegelisahan yang tinggi.",
+                        "response": "Segera hilangkan sumber ketakutan. Jangan paksa kontak fisik; biarkan kucing tenang sendiri."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Pengukuran Makanan Ketat untuk Kontrol Berat dan Pencegahan HCM",
+                        "text": "Kardiomiopati Hipertropik (HCM) pada Maine Coon diperburuk oleh obesitas. Timbang makanan mereka setiap pagi dengan timbangan digital sesuai kalori, dan periksa kecukupan air minum."
+                    },
+                    {
+                        "name": "Siang: Perawatan Bulu Ganda dengan Sisir Besi dan Sikat Slicker",
+                        "text": "Bulu leher dan ketiak yang tebal mudah menggumpal dan memicu dermatitis. Sisir hingga ke lapisan dalam menggunakan sisir besi untuk mengurai gumpalan dan mencegah ketombe."
+                    },
+                    {
+                        "name": "Malam: Pemeriksaan Matras Peredam Benturan dan Pemantauan Jantung",
+                        "text": "Ukuran tubuh yang besar meningkatkan dampak benturan saat melompat. Periksa matras di bawah pohon kucing, dan hitung laju pernapasan saat tidur (harus di bawah 30 napas per menit)."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Bagaimana saya harus mengelola risiko tinggi Kardiomiopati Hipertropik (HCM) pada Maine Coon?",
+                        "answer": "Pemeriksaan USG jantung (ekokardiogram) rutin di dokter hewan sangat penting. Di rumah, cegah obesitas melalui kontrol porsi makanan yang ketat. Jika laju pernapasan saat tidur melebihi 30 napas per menit atau disertai napas dengan mulut terbuka, segera bawa ke dokter."
+                    },
+                    {
+                        "question": "Apa yang terjadi jika saya memaksakan menyisir bulu Maine Coon yang menggumpal?",
+                        "answer": "Karena ukuran dan kekuatan mereka yang besar, jika mereka mengasosiasikan penyisiran dengan rasa sakit dan menjadi agresif, penanganannya akan sangat sulit. Gunakan spray pengurai bulu menggumpal terlebih dahulu dan sisir secara lembut bertahap."
+                    }
+                ],
+                "tags": [
+                    "MaineCoon",
+                    "KucingRaksasa",
+                    "PencegahanHCM",
+                    "PerawatanBuluGanda"
+                ]
+            },
+            "ko": {
+                "title": "신사적인 거대묘 메인쿤, 심장 건강과 풍성한 이중모 3단계 케어",
+                "description": "사자 같은 외모를 지닌 신사적인 거대 고양이 메인쿤. 체중 과부하로 인한 관절 완충 매트 세팅과 유전성 비대성 심근증(HCM)을 모니터링하기 위한 3단계 데일리 루틴을 정돈합니다.",
+                "authority": "Maine Coon Breeders & Fanciers Association (MCBFA) 및 AAFP 대형묘 관리 프로토콜",
+                "profile": {
+                    "breed": "메인쿤 (Felis catus / Maine Coon)",
+                    "lifespan": "12 ~ 15년",
+                    "sleep_pattern": "14 ~ 16시간 (넓은 전용 공간 선호)",
+                    "temperament": "신사적임, 호기심 왕성, 물 친화성"
+                },
+                "intro": "메인쿤(Maine Coon)은 북미 출신의 자연 발생 품종으로, 고양이계의 'Gentle Giant(신사적인 거인)'라 불리는 초대형 묘종입니다. 풍성하고 사자 갈기 같은 목 주변 털과 귀 끝의 뾰족한 장식털, 늠름한 주둥이가 매력적입니다. 성격은 겉모습과 달리 매우 다정하고 아이나 다른 동물과도 잘 지내며, 물을 두려워하지 않는 특성을 지닙니다. 🐈\n\n그러나 성묘 기준 몸무게가 8~12kg에 달해 중력으로 인한 관절 부하가 큰 편이며, 특히 고양이의 유전 질환 중 하나인 '비대성 심근증(Hypertrophic Cardiomyopathy, HCM)'의 잠재 발생률이 높습니다. 이 때문에 메인쿤의 라이프케어에서는 심박 상태를 일상에서 모니터링하고, 착지 시 가해지는 관절 충격을 보강하는 데일리 루틴이 필수적입니다.\n\n오늘 PetSelf에서는 메인쿤이 보내는 카밍 시그널과 바디 랭귀지를 정밀 분석하고, 풍성한 모질 관리 및 심장을 보호하는 3단계 홈케어 방법을 전해드립니다.",
+                "whyTitle": "메인쿤의 바디 랭귀지: 친근한 트릴링과 경계의 꼬리 부풀리기",
+                "whyDesc": "메인쿤은 성격이 유순하고 호기심이 많은 만큼 다른 고양이와 달리 소통하려는 욕구가 큽니다. 대표적인 카밍 시그널은 **'트릴링(Chirping/Trilling)'**과 **'꼬리 부풀리기(Puffed Tail)'**입니다. '뇨롱' 또는 '끼루룩' 소리를 내며 다가오는 트릴링은 보호자를 아주 반갑게 맞이하고 애정을 교류하자는 소통 신호입니다. 반면, 예측하지 못한 가전제품 소음이나 낯선 환경에 놀랐을 때 꼬리 전체의 털이 부풀어 올라 커다란 솔 모양으로 변합니다. 이때는 꼬리가 복원되어 차분해질 때까지 독립된 공간을 주고 지켜보는 것이 최선입니다.",
+                "body_signals": [
+                    {
+                        "name": "트릴링 (Trilling)",
+                        "meaning": "보호자를 향한 최고의 신뢰와 깊은 호감을 건네는 다정한 대화 요청 소리입니다.",
+                        "response": "보호자도 부드러운 하이톤 목소리로 화답해 주거나 가벼운 스킨십을 나누어 교감하세요."
+                    },
+                    {
+                        "name": "꼬리 부풀리기 (Puffed Tail)",
+                        "meaning": "갑작스러운 시각/청각적 공포 요소를 마주하여 흥분 및 경계 상태가 극대화된 시그널입니다.",
+                        "response": "놀라게 한 요소를 즉시 차단하고, 고양이가 스스로 안정을 취하도록 억지로 다가지 마세요."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 정량 사료 급여를 통한 체중 및 HCM 위험 관리",
+                        "text": "메인쿤의 비대성 심근증(HCM)은 비만 시 악화합니다. 매일 아침 전용 저울을 사용해 칼로리에 맞춰 정량 급여하고, 충분한 음수 공급을 확인합니다."
+                    },
+                    {
+                        "name": "낮: 장모 이중모 엉킴 방지 쇠빗 전신 브러싱",
+                        "text": "사자 갈기 같은 목 주변과 겨드랑이 털은 쉽게 뭉쳐 피부염을 유발합니다. 일자 쇠빗(콤)으로 속털까지 깊숙이 빗어 뭉침을 풀고 브러싱해 비듬을 예방합니다."
+                    },
+                    {
+                        "name": "저녁: 착지 관절 충격 완화 대형 매트 점검 및 심박 모니터링",
+                        "text": "거대묘라 높은 곳에서 내려올 때 착지 충격이 큽니다. 콘도와 소파 아래 완충 매트 상태를 점검하고, 수면 시 1분당 호흡수(30회 미만)를 측정해 심장 과부하를 예방합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "메인쿤이 비대성 심근증(HCM) 위험이 높다는 것은 어떻게 대처해야 하나요?",
+                        "answer": "정기적인 심장 초음파 검진이 중요하며, 일상에서는 비만이 되지 않도록 엄격한 정량 사료 급여를 실천해야 합니다. 수면 시 호흡수가 분당 30회 이상으로 빨라지면 즉시 병원 검진을 받아야 합니다."
+                    },
+                    {
+                        "question": "메인쿤의 이중 장모 빗질을 억지로 하면 어떤 부작용이 있나요?",
+                        "answer": "메인쿤은 힘이 세고 덩치가 크기 때문에 빗질 과정에서 통증을 느껴 빗에 대해 거부감이 생기면 통제가 불가능한 상황이 올 수 있습니다. 사타구니나 겨드랑이 엉킨 부위는 부드러운 전처리 스프레이 후 조금씩 나누어 빗어야 합니다."
+                    }
+                ],
+                "tags": [
+                    "메인쿤",
+                    "거대묘",
+                    "비대성심근증",
+                    "이중모빗질"
+                ]
+            }
         },
-        "intro": "The Maine Coon, native to North America, is a naturally occurring breed known as the 'Gentle Giant' of the feline world. They feature a plush, lion-like ruff around their neck, tufted lynx tips on their ears, and a strong, square muzzle. Despite their imposing physical presence, they have extremely gentle, affectionate personalities, get along well with children and other animals, and possess a rare fondness for playing with water. 🐈\n\nHowever, because adult males frequently reach heavy weights of 8 to 12 kg, gravitational stress on their joints and skeletal structure is significant. Crucially, Maine Coons carry a higher genetic predisposition for Hypertrophic Cardiomyopathy (HCM) than most breeds. Therefore, establishing a home care routine that daily monitors resting respiration rates to track cardiac workload and cushions joint landings from high places is vital for their lifelong health.\n\nToday, PetSelf decodes the calming signals and body language of the Maine Coon while introducing a safe 3-step homecare routine to protect their heart and maintain their magnificent double coat.",
-        "whyTitle": "Maine Coon Body Language: Friendly Trilling and Alert Puffed Tail",
-        "whyDesc": "Maine Coons are highly social and curious, exhibiting a stronger urge to communicate with their owners compared to other cats. Typical communication signals include **'Trilling'** and a **'Puffed Tail'**. A soft, chirping 'trill' sound made while approaching is a warm greeting expressing deep affection and requesting interaction. Conversely, when startled by unexpected appliance noises or unfamiliar environments, the fur along their entire tail puffs out into a thick bottle-brush shape. When you notice a puffed tail, remove the stressor immediately and allow them time to calm down undisturbed in a quiet room.",
-        "body_signals": [
-          {
-            "name": "Trilling",
-            "meaning": "A friendly vocalization expressing supreme trust and affection toward the owner, requesting gentle conversation or interaction.",
-            "response": "Reply in a soft, cheerful high tone or offer light petting on their cheeks to return the love."
-          },
-          {
-            "name": "Puffed Tail",
-            "meaning": "An involuntary reaction to sudden auditory or visual frights, indicating that excitement and alertness have reached a peak.",
-            "response": "Identify and remove the frightening trigger immediately, and do not force physical contact; allow the cat to settle down on its own."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Morning: Portion-Controlled Feeding for Weight & HCM Risk Management",
-            "text": "Hypertrophic Cardiomyopathy (HCM) in Maine Coons worsens with obesity. Weigh their food every morning on a digital scale based on precise daily caloric requirements, and ensure a clean, abundant water supply."
-          },
-          {
-            "name": "Afternoon: Steel Comb Full-Body Grooming to Prevent Long Double Coat Mats",
-            "text": "The lion-like ruff and armpit fur mat easily, leading to skin inflammation. Use a steel comb to comb deeply into the undercoat to detangle knots, remove dander, and maintain proper coat ventilation."
-          },
-          {
-            "name": "Evening: Landing Shock Cushion Mat Inspection & Sleeping Respiration Monitoring",
-            "text": "As a giant breed, high jumps put heavy impact on their joints. Check the condition of cushion mats beneath cat trees and sofas, and measure their sleeping respiration rate (should be under 30 breaths per minute) to prevent cardiac overload."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "How should I manage the Maine Coon's high risk of Hypertrophic Cardiomyopathy (HCM)?",
-            "answer": "Regular veterinary cardiac ultrasounds (echocardiograms) are crucial. At home, strictly manage daily meal portions to prevent obesity. If their sleeping respiration rate consistently exceeds 30 breaths per minute or is accompanied by open-mouth panting, seek immediate veterinary evaluation."
-          },
-          {
-            "question": "What happens if I forcibly brush a Maine Coon's matted double coat?",
-            "answer": "Maine Coons are large and physically strong. If grooming causes pain and creates fear, they may become defensively aggressive, making future handling unmanageable. Always spritz matted areas (such as armpits or groin) with a detangling spray first and untangle them gently in small sessions."
-          }
-        ],
-        "tags": [
-          "MaineCoon",
-          "GiantCat",
-          "HCMPrevention",
-          "DoubleCoatGrooming"
-        ]
-      },
-      "ja": {
-        "title": "紳士的な巨大猫メインクーン、心臓の健康と豊かな二重毛の3段階日常ルーティン",
-        "description": "ライオンのような外見を持つ紳士的な巨大猫メインクーン。体重過負荷による関節保護マットの設定と、遺伝性肥大性心筋症(HCM)を観察する3段階日常ルーティンを紹介します。",
-        "authority": "メインクーンブリーダーズ＆ファンシャーズアソシエーション(MCBFA)およびAAFP大型猫管理プロトコル",
-        "profile": {
-          "breed": "メインクーン (Felis catus / Maine Coon)",
-          "lifespan": "12 ~ 15年",
-          "sleep_pattern": "14 ~ 16時間（広い専用スペース推奨）",
-          "temperament": "紳士的、好奇心旺盛、水好き"
-        },
-        "intro": "メインクーン(Maine Coon)は北米原産で、猫界の「ジェントル・ジャイアント（穏やかな巨人）」と呼ばれる超大型種です。ライオンのたてがみのような首周りの毛と、耳の先の飾り毛、そしてたくましいマズルが特徴です。その体躯とは裏腹に、非常に優しく社交的で、子供や他のペットとも仲良くでき、猫にしては珍しく水を怖がらないことで知られます。🐈\n\nしかし、成猫では体重が8〜12kgに達するため、骨格や関節にかかる負担が非常に大きいです。さらに、遺伝的に「肥大性心筋症(HCM)」の発症率が他の猫種よりも高い傾向にあります。呼吸状態を日常的に監視し、着地時の関節への衝撃を減らすケアが非常に重要になります。\n\n本日PetSelfでは、メインクーンのボディランゲージを解読し、豊かなダブルコートのお手入れと心臓を守る3段階のケアをご紹介します。",
-        "whyTitle": "メインクーンのボディランゲージ：親しげな鳴き声と警戒の尻尾膨らまし",
-        "whyDesc": "メインクーンはとても社交的で、他の猫よりもコミュニケーションを好みます。代表的なサインは**「トリル（Trilling）」**と**「尻尾膨らまし（Puffed Tail）」**です。喉を鳴らしながら「クルル」と鳴いて近づくトリルは、飼い主への親愛の挨拶です。逆に、予期せぬ騒音などに驚いた時は、尻尾全体が大きく膨らんで太いブラシのようになります。この時は、刺激を遠ざけて静かな部屋で落ち着くまで見守ってあげてください。",
-        "body_signals": [
-          {
-            "name": "トリル (Trilling)",
-            "meaning": "飼い主への絶大な信頼と親しみを示す、愛情深いおしゃべりのリクエストです。",
-            "response": "飼い主も優しい声で返事をしたり、軽くスキンシップをして愛情に応えてあげましょう。"
-          },
-          {
-            "name": "尻尾膨らまし (Puffed Tail)",
-            "meaning": "予期せぬ大きな音や視覚的な刺激に驚き、興奮と警戒が最高潮に達しているサインです。",
-            "response": "驚かせた原因をすぐに取り除き、落ち着くまで無理に近づかず静かに見守りましょう。"
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "朝：精密デジタルスケールによるフード量と肥満の管理",
-            "text": "肥満は肥大性心筋症（HCM）のリスクを増加させます。毎朝スケールで必要量を計って給与し、十分な給水ができるように管理します。"
-          },
-          {
-            "name": "昼：毛玉と抜け毛を防ぐためのコーム・スリッカーブラシ",
-            "text": "たてがみのような首周りや脇の下は毛玉になりやすく皮膚炎の原因になります。金属コームで奥の毛までしっかり梳かして絡まりをほぐします。"
-          },
-          {
-            "name": "夜：着地時の衝撃を減らすマットの設置と呼吸数の監視",
-            "text": "大型猫のため高い場所からの着地衝撃が大きいです。キャットタワー等の下にあるマットを点検し、睡眠時の呼吸数（30回未満/分）を計って健康を監視します。"
-          }
-        ],
-        "faqs": [
-          {
-            "question": "メインクーンの肥大性心筋症（HCM）リスクにはどのように対処すべきですか？",
-            "answer": "定期的な心臓エコー検査が極めて重要です。家庭内では肥満を防ぐため、徹底した食事制限を行い、安静時の呼吸数が1分間に30回以上になった場合は速やかに獣医師に診せてください。"
-          },
-          {
-            "question": "メインクーンの絡まった毛のブラッシングを無理に行うとどうなりますか？",
-            "answer": "メインクーンは力強く大きいため、お手入れに痛みや恐怖を感じて拒否するようになると、制御できなくなります。絡まりやすい脇等はスプレー等を使用し、優しくほぐしながら梳かす必要があります。"
-          }
-        ],
-        "tags": [
-          "メインクーン",
-          "大型猫",
-          "肥大性心筋症",
-          "二重毛のケア"
-        ]
-      },
-      "zh": {
-        "title": "绅士般的大型巨猫缅因猫，心脏健康与浓密双层被毛的3步日常护理流程",
-        "description": "外表像狮子般威风的温顺巨猫缅因猫。由于体重大，需要布置关节减震垫以减轻落地冲击，并介绍监控遗传性肥大性心肌病（HCM）的3步日常护理流程。",
-        "authority": "缅因猫繁育与爱好者协会 (MCBFA) 官方指南与 AAFP 大型猫管理协议",
-        "profile": {
-          "breed": "缅因猫 (Felis catus / Maine Coon)",
-          "lifespan": "12 ~ 15年",
-          "sleep_pattern": "14 ~ 16小时（偏好宽敞 responses 专属休息区）",
-          "temperament": "绅士温顺、好奇心强、喜爱玩水"
-        },
-        "intro": "缅因猫（Maine Coon）源自北美，是猫咪界著名的“温柔巨兽（Gentle Giant）”。它们拥有松软且如狮子鬃毛般飘逸 responses 围脖毛、耳尖伸出 responses 耳饰毛以及棱角分明 responses 口吻。虽然体型庞大，但性格却极其温顺包容，与儿童和其他宠物相处融洽，且具有少见 responses 喜爱玩水 responses 特性。🐈\n\n然而，成年缅因猫体重普遍可达 8 至 12 公斤，这使得其关节承受 responses 重力负担远超普通猫咪。尤为重要 responses 是，它们是遗传性肥大性心肌病（HCM） responses 高发品种。因此，在日常生活中定期观察其呼吸次数以监控心脏状态，并做好关节减震 responses 护理至关重要。\n\n今天 PetSelf 将为您解读缅因猫 responses 身体语言，并介绍一套旨在养护浓密被毛与呵护心脏健康 responses 日常3步护理流程。",
-        "whyTitle": "缅因猫 responses 身体语言：友好的颤音鸣叫与警惕地膨胀尾巴",
-        "whyDesc": "缅因猫因性格温顺且好奇心强，与其他猫相比表现出更强烈 responses 沟通欲望。最典型 responses 安定信号是 **“颤音鸣叫（Trilling）”** 和 **“膨胀尾巴（Puffed Tail）”**。当它们发出“咕噜噜” responses 颤音走近时，是极其欢迎家长并表达爱意 responses 沟通请求。相反，当受到突发噪音或陌生环境惊吓时，其尾巴上 responses 毛会全部炸开膨胀成松鼠尾巴状。此时应立刻消除惊吓源，让它们在安静 responses 房间里独自恢复冷静。",
-        "body_signals": [
-          {
-            "name": "颤音鸣叫 (Trilling)",
-            "meaning": "表达对家长最高度 responses 信任与好感，发出亲切 responses 对话邀请。",
-            "response": "家长也应以柔和亲切 responses 声音回应，或者进行轻轻 responses 抚摸来互动。"
-          },
-          {
-            "name": "炸毛膨胀尾 (Puffed Tail)",
-            "meaning": "遇到突发视听觉惊吓，兴奋度与警惕状态达到峰值 responses 信号。",
-            "response": "立刻清除导致惊吓 responses 因素，不要强行靠近，让猫咪自己恢复平静。"
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "早晨：通过定量配给饲料来控制体重与预防 HCM 风险",
-            "text": "缅因猫 responses 肥大性心肌病（HCM）会在肥胖时恶化。每天早晨使用数码秤按照卡路里标准进行定量给食，并确认水分供应充足。"
-          },
-          {
-            "name": "中午：防止长密双层被毛打结 钢排梳全身体表梳理",
-            "text": "鬃毛般 responses 脖圈和双腋毛发极易结团并诱发皮肤炎。应使用钢排梳深层梳理至底毛，解开结团，清理皮屑并防止毛发打结。"
-          },
-          {
-            "name": "晚上：落地关节减震大垫子检查与心率/呼吸次数观察",
-            "text": "作为巨型猫，从高处跳下时 responses 落地冲击力极大。应检查猫爬架和沙发下减震垫是否到位，并测量睡眠状态下1分钟内呼吸次数（30次以下）以防心脏超载。"
-          }
-        ],
-        "faqs": [
-          {
-            "question": "应该如何应对缅因猫高发 responses 肥大性心肌病（HCM）风险？",
-            "answer": "定期 responses 心脏超声筛查极其重要。日常中应严格实行定时定量喂食以防止肥胖。一旦发现其睡眠呼吸频次在每分钟30次以上且伴有张口呼吸，应立即送医检查。"
-          },
-          {
-            "question": "如果强行给缅因猫梳理打结 responses 被毛，会有什么副作用？",
-            "answer": "缅因猫体型大且力量强。如果在梳毛时感到疼痛并产生防备抗拒心理，后续打理将变得极其困难。腋下或大腿根部打结处需喷洒顺毛喷雾后，分次柔和梳理。"
-          }
-        ],
-        "tags": [
-          "缅因猫",
-          "巨型猫",
-          "心肌病预防",
-          "双层毛梳理"
-        ]
-      },
-      "es": {
-        "title": "El gigante gentil Maine Coon: Rutina diaria de 3 pasos para la salud cardíaca y su magnífico manto doble",
-        "description": "Cuidados del gigante gentil Maine Coon de apariencia leonina. Descubra medidas para amortiguar el impacto articular por peso corporal y una rutina de 3 pasos para monitorear la Miocardiopatía Hipertrófica (HCM).",
-        "authority": "Guía Oficial de la Maine Coon Breeders & Fanciers Association (MCBFA) y Protocolos de Manejo de Gatos Grandes de la AAFP",
-        "profile": {
-          "breed": "Maine Coon (Felis catus)",
-          "lifespan": "12 ~ 15 años",
-          "sleep_pattern": "14 ~ 16 horas (prefiere espacios amplios)",
-          "temperament": "Gentil, Muy Curioso, Amante del agua"
-        },
-        "intro": "Los Maine Coons, originarios de América del Norte, son los 'gigantes gentiles' del mundo felino. Son famosos por su denso collar estilo melena de león, los pinceles en las orejas (puntas de lince) y su hocico robusto. A pesar de su imponente físico, poseen un temperamento dulce, conviven bien con niños y otras mascotas, y tienen un gusto poco habitual por jugar con el agua. 🐈\n\nSin embargo, como los machos adultos pesan habitualmente entre 8 y 12 kg, la carga sobre sus articulaciones por la gravedad es considerable. Además, tienen una predisposición genética superior para desarrollar Cardiomiopatía Hipertrófica (HCM). Por ello, controlar su frecuencia respiratoria durante el sueño y amortiguar el impacto de sus saltos resulta indispensable en su rutina diaria.\n\nHoy, PetSelf descifra el lenguaje corporal del Maine Coon y presenta una rutina diaria de 3 pasos para proteger su corazón y mantener su hermoso manto doble.",
-        "whyTitle": "Lenguaje corporal del Maine Coon: Trinos amigables y cola erizada",
-        "whyDesc": "Los Maine Coons son sociables y disfrutan comunicándose. Las señales clave de comunicación incluyen el **'trino' (Trilling)** y la **'cola erizada' (Puffed Tail)**. Un trino suave al acercarse es un saludo afectuoso para iniciar interacción. Por el contrario, cuando se asustan con ruidos fuertes o entornos desconocidos, el pelo de su cola se eriza adquiriendo forma de cepillo. Cuando observe esto, retire la fuente de estrés y déjelo calmarse a solas.",
-        "body_signals": [
-          {
-            "name": "Trino (Trilling)",
-            "meaning": "Una vocalización amistosa que muestra máxima confianza y afecto, solicitando una interacción calmada.",
-            "response": "Responda con un tono de voz suave o acaricie sus mejillas para corresponder al afecto."
-          },
-          {
-            "name": "Cola erizada o bufada (Puffed Tail)",
-            "meaning": "Una respuesta involuntaria de miedo ante estímulos auditivos o visuales repentinos, indicando máxima alerta.",
-            "response": "Retire inmediatamente el factor de estrés. No fuerce el contacto físico y deje que se tranquilice solo."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Mañana: Control estricto de la dieta para gestión de peso y prevención de HCM",
-            "text": "La miocardiopatía hipertrófica (HCM) en el Maine Coon empeora con la obesidad. Pese su comida diariamente en una báscula digital siguiendo las calorías necesarias y asegure agua fresca."
-          },
-          {
-            "name": "Tarde: Cepillado del manto doble con peine de metal y carda para evitar nudos",
-            "text": "El pelo del collar y las axilas se enreda con facilidad, pudiendo provocar dermatitis. Peine a fondo con peine de acero hasta el subpelo para deshacer nudos y eliminar la caspa."
-          },
-          {
-            "name": "Noche: Inspección de alfombras amortiguadoras y control de frecuencia respiratoria",
-            "text": "Su gran peso aumenta el impacto al saltar desde alturas. Compruebe las alfombras protectoras bajo rascadores y monitoree su frecuencia respiratoria al dormir (menos de 30 respiraciones por minuto)."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "¿Cómo debo manejar el alto riesgo de Cardiomiopatía Hipertrófica (HCM) en el Maine Coon?",
-            "answer": "Las ecocardiografías veterinarias periódicas son esenciales. En casa, evite la obesidad con un control estricto de raciones. Si la frecuencia respiratoria en reposo supera las 30 respiraciones por minuto o jadea con la boca abierta, acuda al veterinario inmediatamente."
-          },
-          {
-            "question": "¿Qué pasa si cepillo a la fuerza el pelo enredado de mi Maine Coon?",
-            "answer": "Por su gran tamaño y fuerza, si asocian el cepillado con dolor y reaccionan a la defensiva, será imposible manipularlos. Aplique un espray desenredante primero y cepille suavemente en sesiones breves."
-          }
-        ],
-        "tags": [
-          "MaineCoon",
-          "GatoGigante",
-          "PrevenciónDeHCM",
-          "MantoDoble"
-        ]
-      },
-      "fr": {
-        "title": "Le doux géant Maine Coon : Routine quotidienne en 3 étapes pour la santé cardiaque et son pelage double",
-        "description": "Prendre soin du doux géant Maine Coon à l'allure de lion. Découvrez les aménagements pour amortir l'impact sur les articulations lié au poids et une routine en 3 étapes pour surveiller la CMH.",
-        "authority": "Guide Officiel de la Maine Coon Breeders & Fanciers Association (MCBFA) et Protocoles de Gestion des Grands Félins de l'AAFP",
-        "profile": {
-          "breed": "Maine Coon (Felis catus)",
-          "lifespan": "12 ~ 15 ans",
-          "sleep_pattern": "14 ~ 16 heures (grands espaces ouverts préférés)",
-          "temperament": "Gentil, Curieux, Ami de l'eau"
-        },
-        "intro": "Le Maine Coon, originaire d'Amérique du Nord, est le « géant gentil » (Gentle Giant) du monde félin. Connu pour sa collerette léonine, ses oreilles ornées de plumets (pinceaux de lynx) et son museau carré, il possède un caractère extrêmement doux et une attirance rare pour l'eau. 🐈\n\nCependant, les mâles adultes atteignant souvent un poids de 8 à 12 kg, leur structure osseuse subit une forte contrainte. De plus, ils présentent une prédisposition génétique élevée à la Cardiomyopathie Hypertrophique (CMH). Surveiller quotidiennement son rythme respiratoire au repos et amortir l'impact de ses réceptions de saut sont donc des piliers de son bien-être.\n\nAujourd'hui, PetSelf décrypte le langage corporel du Maine Coon et propose une routine quotidienne en 3 étapes pour préserver son cœur et entretenir son pelage.",
-        "whyTitle": "Langage corporel du Maine Coon : Roucoulements amicaux et queue gonflée",
-        "whyDesc": "Le Maine Coon est très sociable et aime échanger avec ses propriétaires. Les signaux clés incluent les **roucoulements (Trilling)** et la **queue gonflée (Puffed Tail)**. Un léger roucoulement lorsqu'il s'approche est une salutation affectueuse. À l'inverse, s'il est surpris par un bruit soudain, les poils de sa queue se hérissent comme un goupillon. Éloignez alors la source de stress et laissez-le se calmer seul.",
-        "body_signals": [
-          {
-            "name": "Roucoulement (Trilling)",
-            "meaning": "Une vocalisation amicale témoignant d'une confiance absolue et d'une demande d'interaction douce.",
-            "response": "Répondez avec une voix douce et chaleureuse ou caressez-le gentiment pour lui rendre son affection."
-          },
-          {
-            "name": "Queue gonflée (Puffed Tail)",
-            "meaning": "Une réaction de peur involontaire face à un bruit ou un visuel soudain, indiquant une alerte maximale.",
-            "response": "Éliminez immédiatement l'élément effrayant et ne le forcez pas au contact physique ; laissez-le retrouver son calme."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Matin : Mesure stricte des rations pour le contrôle du poids et la prévention de la CMH",
-            "text": "La cardiomyopathie hypertrophique (CMH) du Maine Coon s'aggrave en cas d'obésité. Pesez sa nourriture quotidiennement sur une balance électronique et veillez à un apport en eau suffisant."
-          },
-          {
-            "name": "Après-midi : Brossage du sous-poil au peigne métallique et à la carde",
-            "text": "La collerette et les poils sous les aisselles s'emmêlent facilement, provoquant des dermatites. Peignez en profondeur avec un peigne métallique pour éliminer le sous-poil mort et la pellicule."
-          },
-          {
-            "name": "Soir : Tapis amortisseurs au sol et contrôle de la respiration au repos",
-            "text": "Son poids lourd augmente l'impact lors de la réception des sauts. Vérifiez les tapis amortisseurs sous l'arbre à chat et mesurez son rythme respiratoire au repos (moins de 30 mouvements/min)."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Comment gérer le risque élevé de Cardiomyopathie Hypertrophique (CMH) chez le Maine Coon ?",
-            "answer": "Des échographies cardiaques régulières chez le vétérinaire sont indispensables. À la maison, évitez l'obésité grâce au contrôle strict des portions. Si sa respiration au repos dépasse 30 mouvements par minute ou s'il respire la bouche ouverte, consultez d'urgence."
-          },
-          {
-            "question": "Que se passe-t-il si je brosse de force les nœuds de mon Maine Coon ?",
-            "answer": "En raison de sa taille imposante et de sa force, s'il associe le toilettage à la douleur et se rebelle, il deviendra impossible à manipuler. Utilisez un spray démêlant au préalable et brossez par petites étapes avec douceur."
-          }
-        ],
-        "tags": [
-          "MaineCoon",
-          "ChatGéant",
-          "PréventionDeCMH",
-          "DoublePelage"
-        ]
-      },
-      "de": {
-        "title": "Der sanfte Riese Maine Coon: Tägliche 3-Schritte-Routine für Herzgesundheit und prachtvolles Doppelfell",
-        "description": "Pflege für den sanften Riesen Maine Coon mit löwenartigem Aussehen. Entdecken Sie Dämpfungsmaßnahmen für Gelenke bei hohem Gewicht und eine 3-Schritte-Routine zur HCM-Überwachung.",
-        "authority": "Offizieller Leitfaden der Maine Coon Breeders & Fanciers Association (MCBFA) und AAFP-Protokolle für Großkatzen",
-        "profile": {
-          "breed": "Maine Coon (Felis catus)",
-          "lifespan": "12 ~ 15 Jahre",
-          "sleep_pattern": "14 ~ 16 Stunden (große offene Flächen bevorzugt)",
-          "temperament": "Gentleman-artig, Neugierig, Wasserliebend"
-        },
-        "intro": "Die Maine Coon aus Nordamerika ist als 'sanfter Riese' (Gentle Giant) der Katzenwelt bekannt. Charakteristisch sind die löwenartige Halskrause, die Ohrpinsel (Luchspinsel) und die kräftige Schnauze. Trotz ihrer Größe besitzen sie ein sanftmütiges Wesen, verstehen sich gut mit Kindern und lieben überraschenderweise das Spiel mit Wasser. 🐈\n\nDa ausgewachsene Kater jedoch oft 8 bis 12 kg wiegen, ist die Belastung für Gelenke und Knochen hoch. Zudem neigen Maine Coons genetisch zu Hypertropher Kardiomyopathie (HCM). Die tägliche Kontrolle der Atemfrequenz im Schlaf sowie stoßdämpfende Unterlagen gehören daher zur Grundpflege.\n\nHeute entschlüsselt PetSelf die Körpersprache der Maine Coon und stellt eine 3-Schritte-Routine vor, um das Herz zu schützen und das dichte Doppelfell zu pflegen.",
-        "whyTitle": "Körpersprache der Maine Coon: Freundliches Trillern und aufgeplusterter Schwanz",
-        "whyDesc": "Maine Coons sind sehr sozial und haben ein starkes Bedürfnis nach Kommunikation. Zu den typischen Signalen gehören das **'Trillern' (Trilling)** und der **'aufgeplusterte Schwanz' (Puffed Tail)**. Ein leises 'Gurren' beim Annähern ist eine freundliche Begrüßung. Wenn sie sich dagegen erschrecken, plustert sich das Fell am Schwanz wie eine Flaschenbürste auf. Entfernen Sie dann den Auslöser und lassen Sie die Katze in Ruhe abkühlen.",
-        "body_signals": [
-          {
-            "name": "Trillern (Trilling)",
-            "meaning": "Ein freundlicher Laut, der tiefes Vertrauen und Zuneigung ausdrückt und um Aufmerksamkeit bittet.",
-            "response": "Antworten Sie mit sanfter, freundlicher Stimme oder streicheln Sie die Katze leicht, um die Liebe zu erwidern."
-          },
-          {
-            "name": "Aufgeplusterter Schwanz (Puffed Tail)",
-            "meaning": "Eine Schreckreaktion auf plötzliche Geräusche oder visuelle Reize, die höchste Alarmbereitschaft anzeigt.",
-            "response": "Beseitigen Sie den Schreckreiz sofort. Zwingen Sie die Katze nicht zum Kontakt, sondern lassen Sie sie sich beruhigen."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Morgen: Futterportionierung zur Gewichtskontrolle und HCM-Vorsorge",
-            "text": "HCM verschlimmert sich durch Übergewicht. Wiegen Sie das Futter täglich mit einer Digitalwaage exakt ab und sorgen Sie für frisches Wasser."
-          },
-          {
-            "name": "Nachmittag: Unterfellpflege mit Metallkamm und Zupfbürste",
-            "text": "Das dichte Fell an Mähne und Achseln verfilzt leicht und führt zu Hautentzündungen. Kämmen Sie mit einem Metallkamm tief bis zur Unterwolle durch."
-          },
-          {
-            "name": "Abend: Prüfung stoßdämpfender Matten und Atemfrequenzkontrolle",
-            "text": "Ihr hohes Gewicht verstärkt den Aufprall beim Herabspringen. Prüfen Sie Dämpfungsmatten unter Rascgbäumen und kontrollieren Sie die Atemfrequenz im Schlaf (unter 30 Atemzüge/Minute)."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Wie sollte ich das hohe HCM-Risiko der Maine Coon bewältigen?",
-            "answer": "Regelmäßige Ultraschalluntersuchungen des Herzens beim Tierarzt sind entscheidend. Vermeiden Sie Übergewicht durch streng portionierte Fütterung. Liegt die Atemfrequenz im Schlaf dauerhaft über 30 Atemzügen pro Minute, suchen Sie sofort einen Tierarzt auf."
-          },
-          {
-            "question": "Was passiert, wenn ich verfilztes Fell bei einer Maine Coon gewaltsam ausbürste?",
-            "answer": "Aufgrund ihrer Größe und Kraft können Maine Coons bei Schmerzen sehr wehrhaft werden, was die Pflege unmöglich macht. Sprühen Sie Knoten mit Entwirrungsspray ein und kämmen Sie sie vorsichtig in kleinen Schritten aus."
-          }
-        ],
-        "tags": [
-          "MaineCoon",
-          "Riesenkatze",
-          "HCMPraevention",
-          "DoppelfellPflege"
-        ]
-      },
-      "pt": {
-        "title": "O gigante gentil Maine Coon: Rotina diária de 3 passos para a saúde cardíaca e pelagem dupla",
-        "description": "Cuidados com o gigante gentil Maine Coon de aparência leonina. Descubra medidas de amortecimento articular pelo peso elevado e uma rotina de 3 passos para monitorar a Cardiomiopatia Hipertrófica (HCM).",
-        "authority": "Guia Oficial da Maine Coon Breeders & Fanciers Association (MCBFA) e Protocolos de Manejo de Gatos Grandes da AAFP",
-        "profile": {
-          "breed": "Maine Coon (Felis catus)",
-          "lifespan": "12 ~ 15 anos",
-          "sleep_pattern": "14 ~ 16 horas (prefere espaços amplos)",
-          "temperament": "Gentil, Muito Curioso, Amante de água"
-        },
-        "intro": "O Maine Coon, nativo da América do Norte, é o 'gigante gentil' (Gentle Giant) do mundo felino. É famoso pela sua juba de leão no pescoço, pincéis nas orelhas (pontas de lince) e focinho forte. Apesar do porte imponente, possui um temperamento extremamente dócil, dá-se bem com crianças e outros animais e tem uma rara fascinação por brincar com água. 🐈\n\nNo entanto, como os machos adultos pesam frequentemente entre 8 e 12 kg, a sobrecarga nas articulações é muito grande. Além disso, apresentam uma pré-disposição genética elevada para a Cardiomiopatia Hipertrófica (HCM). Monitorar a frequência respiratória no sono e amortecer o impacto dos saltos são hábitos vitais.\n\nHoje, o PetSelf decodifica a linguagem corporal do Maine Coon e apresenta uma rotina diária de 3 passos para proteger o coração e manter a pelagem dupla exuberante.",
-        "whyTitle": "Linguagem corporal do Maine Coon: Trinados amigáveis e cauda eriçada",
-        "whyDesc": "Os Maine Coons são muito sociáveis e comunicativos. Os sinais chave incluem o **'trinado' (Trilling)** e a **'cauda eriçada' (Puffed Tail)**. Um trinado suave ao aproximar-se é uma saudação carinhosa. Por outro lado, quando assustados por barulhos repentinos, os pelos da cauda eriçam-se como uma escova. Se notar isto, remova a fonte de estresse e deixe-o acalmar-se sozinho.",
-        "body_signals": [
-          {
-            "name": "Trinado (Trilling)",
-            "meaning": "Uma vocalização amigável que demonstra confiança e afeto, pedindo interação e atenção.",
-            "response": "Responda com um tom de voz suave ou acaricie o rosto levemente para retribuir o carinho."
-          },
-          {
-            "name": "Cauda eriçada ou bufada (Puffed Tail)",
-            "meaning": "Uma resposta de medo involuntária a estímulos auditivos ou visuais repentinos, indicando alerta máximo.",
-            "response": "Remova imediatamente o fator de estresse. Não force o contato físico e deixe o gato acalmar-se sozinho."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Manhã: Controle rigoroso da ração para gestão de peso e prevenção de HCM",
-            "text": "A Cardiomiopatia Hipertrófica (HCM) no Maine Coon piora com a obesidade. Pese a ração diariamente numa balança digital segundo as necessidades calóricas e garanta água fresca."
-          },
-          {
-            "name": "Tarde: Escovação completa da pelagem dupla com pente de aço e rasqueadeira",
-            "text": "A juba e o pelo das axilas embaraçam facilmente, causando dermatite. Penteie profundamente com pente de aço para desfazer nós e remover pelos mortos."
-          },
-          {
-            "name": "Noite: Tapetes amortecedores de impacto e monitoramento da frequência respiratória",
-            "text": "O peso elevado aumenta o impacto ao saltar de locais altos. Verifique os tapetes de amortecimento e monitore a frequência respiratória ao dormir (menos de 30 respirações por minuto)."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Como devo gerenciar o alto risco de Cardiomiopatia Hipertrófica (HCM) no Maine Coon?",
-            "answer": "Exames de ecocardiograma periódicos são essenciais. Em casa, evite a obesidade com controle de calorias. Se a respiração em repouso ultrapassar 30 respirações por minuto ou se houver respiração de boca aberta, procure um veterinário imediatamente."
-          },
-          {
-            "question": "O que acontece se eu escovar à força o pelo embaraçado de um Maine Coon?",
-            "answer": "Pelo seu tamanho e força, se associarem a escovação à dor e ficarem reativos, o manejo torna-se impossível. Use sprays desembaraçantes primeiro e escove suavemente em sessões curtas."
-          }
-        ],
-        "tags": [
-          "MaineCoon",
-          "GatoGigante",
-          "PrevençãoDeHCM",
-          "PelagemDupla"
-        ]
-      },
-      "id": {
-        "title": "Raksasa yang Lembut Maine Coon: Rutinitas Harian 3 Langkah Kesehatan Jantung dan Bulu Ganda yang Indah",
-        "description": "Merawat raksasa yang lembut Maine Coon yang berpenampilan seperti singa. Pelajari penyediaan matras peredam benturan sendi dan 3 langkah rutinitas harian untuk memantau Kardiomiopati Hipertropik (HCM).",
-        "authority": "Panduan Resmi Maine Coon Breeders & Fanciers Association (MCBFA) & Protokol Manajemen Kucing Besar AAFP",
-        "profile": {
-          "breed": "Maine Coon (Felis catus)",
-          "lifespan": "12 ~ 15 tahun",
-          "sleep_pattern": "14 ~ 16 jam (menyukai ruang terbuka yang luas)",
-          "temperament": "Lembut, Sangat Ingin Tahu, Menyukai Air"
-        },
-        "intro": "Maine Coon, yang berasal dari Amerika Utara, adalah 'Raksasa yang Lembut' (Gentle Giant) di dunia kucing. Terkenal dengan surai lebat seperti singa, bulu rumbai di ujung telinga (puncak lynx), dan moncong yang lebar. Meskipun berukuran sangat besar, mereka memiliki kepribadian yang sangat lembut, ramah dengan anak-anak dan hewan lain, serta memiliki ketertarikan yang tidak biasa pada air. 🐈\n\nNamun, karena jantan dewasa sering mencapai berat 8 hingga 12 kg, beban gravitasi pada sendi dan tulang mereka cukup besar. Selain itu, mereka memiliki risiko genetik yang lebih tinggi untuk terkena Kardiomiopati Hipertropik (HCM). Oleh karena itu, memantau laju pernapasan saat tidur dan menyediakan bantalan peredam benturan pendaratan adalah hal wajib.\n\nHari ini, PetSelf menguraikan bahasa tubuh Maine Coon dan membagikan 3 langkah rutinitas harian untuk melindungi jantung dan merawat bulu ganda mereka yang lebat.",
-        "whyTitle": "Bahasa Tubuh Maine Coon: Kicauan Ramah dan Ekor Mengembang Waspada",
-        "whyDesc": "Maine Coon sangat sosial dan ingin berkomunikasi dengan pemiliknya. Sinyal utama meliputi **'kicauan' (Trilling)** dan **'ekor mengembang' (Puffed Tail)**. Kicauan lembut seperti 'kruru' saat mendekat adalah sapaan hangat untuk berinteraksi. Sebaliknya, saat terkejut oleh suara mendadak, ekor lebat mereka mengembang seperti sikat botol. Berikan mereka waktu tenang di ruangan sepi.",
-        "body_signals": [
-          {
-            "name": "Kicauan (Trilling)",
-            "meaning": "Vokalisasi ramah yang menunjukkan kepercayaan dan kasih sayang mendalam, meminta perhatian dan komunikasi.",
-            "response": "Balas dengan nada suara yang lembut atau berikan elusan ringan pada pipinya untuk membalas kasih sayang."
-          },
-          {
-            "name": "Ekor Mengembang (Puffed Tail)",
-            "meaning": "Respons takut terhadap suara atau visual mendadak, menunjukkan kewaspadaan dan kegelisahan yang tinggi.",
-            "response": "Segera hilangkan sumber ketakutan. Jangan paksa kontak fisik; biarkan kucing tenang sendiri."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Pagi: Pengukuran Makanan Ketat untuk Kontrol Berat dan Pencegahan HCM",
-            "text": "Kardiomiopati Hipertropik (HCM) pada Maine Coon diperburuk oleh obesitas. Timbang makanan mereka setiap pagi dengan timbangan digital sesuai kalori, dan periksa kecukupan air minum."
-          },
-          {
-            "name": "Siang: Perawatan Bulu Ganda dengan Sisir Besi dan Sikat Slicker",
-            "text": "Bulu leher dan ketiak yang tebal mudah menggumpal dan memicu dermatitis. Sisir hingga ke lapisan dalam menggunakan sisir besi untuk mengurai gumpalan dan mencegah ketombe."
-          },
-          {
-            "name": "Malam: Pemeriksaan Matras Peredam Benturan dan Pemantauan Jantung",
-            "text": "Ukuran tubuh yang besar meningkatkan dampak benturan saat melompat. Periksa matras di bawah pohon kucing, dan hitung laju pernapasan saat tidur (harus di bawah 30 napas per menit)."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Bagaimana saya harus mengelola risiko tinggi Kardiomiopati Hipertropik (HCM) pada Maine Coon?",
-            "answer": "Pemeriksaan USG jantung (ekokardiogram) rutin di dokter hewan sangat penting. Di rumah, cegah obesitas melalui kontrol porsi makanan yang ketat. Jika laju pernapasan saat tidur melebihi 30 napas per menit atau disertai napas dengan mulut terbuka, segera bawa ke dokter."
-          },
-          {
-            "question": "Apa yang terjadi jika saya memaksakan menyisir bulu Maine Coon yang menggumpal?",
-            "answer": "Karena ukuran dan kekuatan mereka yang besar, jika mereka mengasosiasikan penyisiran dengan rasa sakit dan menjadi agresif, penanganannya akan sangat sulit. Gunakan spray pengurai bulu menggumpal terlebih dahulu dan sisir secara lembut bertahap."
-          }
-        ],
-        "tags": [
-          "MaineCoon",
-          "KucingRaksasa",
-          "PencegahanHCM",
-          "PerawatanBuluGanda"
-        ]
-      },
-      "ko": {
-        "title": "신사적인 거대묘 메인쿤, 심장 건강과 풍성한 이중모 3단계 케어",
-        "description": "사자 같은 외모를 지닌 신사적인 거대 고양이 메인쿤. 체중 과부하로 인한 관절 완충 매트 세팅과 유전성 비대성 심근증(HCM)을 모니터링하기 위한 3단계 데일리 루틴을 정돈합니다.",
-        "authority": "Maine Coon Breeders & Fanciers Association (MCBFA) 및 AAFP 대형묘 관리 프로토콜",
-        "profile": {
-          "breed": "메인쿤 (Felis catus / Maine Coon)",
-          "lifespan": "12 ~ 15년",
-          "sleep_pattern": "14 ~ 16시간 (넓은 전용 공간 선호)",
-          "temperament": "신사적임, 호기심 왕성, 물 친화성"
-        },
-        "intro": "메인쿤(Maine Coon)은 북미 출신의 자연 발생 품종으로, 고양이계의 'Gentle Giant(신사적인 거인)'라 불리는 초대형 묘종입니다. 풍성하고 사자 갈기 같은 목 주변 털과 귀 끝의 뾰족한 장식털, 늠름한 주둥이가 매력적입니다. 성격은 겉모습과 달리 매우 다정하고 아이나 다른 동물과도 잘 지내며, 물을 두려워하지 않는 특성을 지닙니다. 🐈\n\n그러나 성묘 기준 몸무게가 8~12kg에 달해 중력으로 인한 관절 부하가 큰 편이며, 특히 고양이의 유전 질환 중 하나인 '비대성 심근증(Hypertrophic Cardiomyopathy, HCM)'의 잠재 발생률이 높습니다. 이 때문에 메인쿤의 라이프케어에서는 심박 상태를 일상에서 모니터링하고, 착지 시 가해지는 관절 충격을 보강하는 데일리 루틴이 필수적입니다.\n\n오늘 PetSelf에서는 메인쿤이 보내는 카밍 시그널과 바디 랭귀지를 정밀 분석하고, 풍성한 모질 관리 및 심장을 보호하는 3단계 홈케어 방법을 전해드립니다.",
-        "whyTitle": "메인쿤의 바디 랭귀지: 친근한 트릴링과 경계의 꼬리 부풀리기",
-        "whyDesc": "메인쿤은 성격이 유순하고 호기심이 많은 만큼 다른 고양이와 달리 소통하려는 욕구가 큽니다. 대표적인 카밍 시그널은 **'트릴링(Chirping/Trilling)'**과 **'꼬리 부풀리기(Puffed Tail)'**입니다. '뇨롱' 또는 '끼루룩' 소리를 내며 다가오는 트릴링은 보호자를 아주 반갑게 맞이하고 애정을 교류하자는 소통 신호입니다. 반면, 예측하지 못한 가전제품 소음이나 낯선 환경에 놀랐을 때 꼬리 전체의 털이 부풀어 올라 커다란 솔 모양으로 변합니다. 이때는 꼬리가 복원되어 차분해질 때까지 독립된 공간을 주고 지켜보는 것이 최선입니다.",
-        "body_signals": [
-          {
-            "name": "트릴링 (Trilling)",
-            "meaning": "보호자를 향한 최고의 신뢰와 깊은 호감을 건네는 다정한 대화 요청 소리입니다.",
-            "response": "보호자도 부드러운 하이톤 목소리로 화답해 주거나 가벼운 스킨십을 나누어 교감하세요."
-          },
-          {
-            "name": "꼬리 부풀리기 (Puffed Tail)",
-            "meaning": "갑작스러운 시각/청각적 공포 요소를 마주하여 흥분 및 경계 상태가 극대화된 시그널입니다.",
-            "response": "놀라게 한 요소를 즉시 차단하고, 고양이가 스스로 안정을 취하도록 억지로 다가지 마세요."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "아침: 정량 사료 급여를 통한 체중 및 HCM 위험 관리",
-            "text": "메인쿤의 비대성 심근증(HCM)은 비만 시 악화합니다. 매일 아침 전용 저울을 사용해 칼로리에 맞춰 정량 급여하고, 충분한 음수 공급을 확인합니다."
-          },
-          {
-            "name": "낮: 장모 이중모 엉킴 방지 쇠빗 전신 브러싱",
-            "text": "사자 갈기 같은 목 주변과 겨드랑이 털은 쉽게 뭉쳐 피부염을 유발합니다. 일자 쇠빗(콤)으로 속털까지 깊숙이 빗어 뭉침을 풀고 브러싱해 비듬을 예방합니다."
-          },
-          {
-            "name": "저녁: 착지 관절 충격 완화 대형 매트 점검 및 심박 모니터링",
-            "text": "거대묘라 높은 곳에서 내려올 때 착지 충격이 큽니다. 콘도와 소파 아래 완충 매트 상태를 점검하고, 수면 시 1분당 호흡수(30회 미만)를 측정해 심장 과부하를 예방합니다."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "메인쿤이 비대성 심근증(HCM) 위험이 높다는 것은 어떻게 대처해야 하나요?",
-            "answer": "정기적인 심장 초음파 검진이 중요하며, 일상에서는 비만이 되지 않도록 엄격한 정량 사료 급여를 실천해야 합니다. 수면 시 호흡수가 분당 30회 이상으로 빨라지면 즉시 병원 검진을 받아야 합니다."
-          },
-          {
-            "question": "메인쿤의 이중 장모 빗질을 억지로 하면 어떤 부작용이 있나요?",
-            "answer": "메인쿤은 힘이 세고 덩치가 크기 때문에 빗질 과정에서 통증을 느껴 빗에 대해 거부감이 생기면 통제가 불가능한 상황이 올 수 있습니다. 사타구니나 겨드랑이 엉킨 부위는 부드러운 전처리 스프레이 후 조금씩 나누어 빗어야 합니다."
-          }
-        ],
-        "tags": [
-          "메인쿤",
-          "거대묘",
-          "비대성심근증",
-          "이중모빗질"
-        ]
-      }
-    },
-    "category": "CareSelf",
-    "app": "careself",
-    "formatVersion": 4,
-    "heroImage": "/images/blog/maine_coon_care.png"
-  }
+        "category": "CareSelf",
+        "app": "careself",
+        "formatVersion": 4,
+        "heroImage": "/images/blog/maine_coon_care.webp"
+    }
 }

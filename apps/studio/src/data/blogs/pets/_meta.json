@@ -1,70 +1,70 @@
 {
-  "labelDict": {
-    "profileTitle": {
-      "ko": "핵심 프로필 (Profile)",
-      "en": "Core Profile",
-      "ja": "コアプロフィール",
-      "zh": "核心档案",
-      "es": "Perfil principal",
-      "fr": "Profil principal",
-      "de": "Rasseprofil",
-      "pt": "Perfil principal",
-      "id": "Profil Utama"
-    },
-    "lifespanLabel": {
-      "ko": "평균 수명",
-      "en": "Lifespan",
-      "ja": "平均寿命",
-      "zh": "平均寿命",
-      "es": "Vida útil media",
-      "fr": "Espérance de vie",
-      "de": "Lebenserwartung",
-      "pt": "Vida útil média",
-      "id": "Rata-rata Umur"
-    },
-    "sleepLabel": {
-      "ko": "수면 패턴",
-      "en": "Sleep Pattern",
-      "ja": "睡眠パターン",
-      "zh": "睡眠习惯",
-      "es": "Patrón de sueño",
-      "fr": "Mode de sommeil",
-      "de": "Schlafmuster",
-      "pt": "Padrão de sono",
-      "id": "Pola Tidur"
-    },
-    "tempLabel": {
-      "ko": "성격 키워드",
-      "en": "Temperament",
-      "ja": "性格キーワード",
-      "zh": "性格特点",
-      "es": "Temperamento",
-      "fr": "Tempérament",
-      "de": "Temperament",
-      "pt": "Temperamento",
-      "id": "Temperamen"
-    },
-    "meaningLabel": {
-      "ko": "의미",
-      "en": "Meaning",
-      "ja": "意味",
-      "zh": "意义",
-      "es": "Significado",
-      "fr": "Signification",
-      "de": "Bedeutung",
-      "pt": "Significado",
-      "id": "Arti"
-    },
-    "responseLabel": {
-      "ko": "올바른 대처",
-      "en": "Correct Action",
-      "ja": "正しい対処",
-      "zh": "正确应对",
-      "es": "Acción correcta",
-      "fr": "Action correcte",
-      "de": "Richtige Reaktion",
-      "pt": "Ação correta",
-      "id": "Tindakan yang Benar"
+    "labelDict": {
+        "profileTitle": {
+            "ko": "핵심 프로필 (Profile)",
+            "en": "Core Profile",
+            "ja": "コアプロフィール",
+            "zh": "核心档案",
+            "es": "Perfil principal",
+            "fr": "Profil principal",
+            "de": "Rasseprofil",
+            "pt": "Perfil principal",
+            "id": "Profil Utama"
+        },
+        "lifespanLabel": {
+            "ko": "평균 수명",
+            "en": "Lifespan",
+            "ja": "平均寿命",
+            "zh": "平均寿命",
+            "es": "Vida útil media",
+            "fr": "Espérance de vie",
+            "de": "Lebenserwartung",
+            "pt": "Vida útil média",
+            "id": "Rata-rata Umur"
+        },
+        "sleepLabel": {
+            "ko": "수면 패턴",
+            "en": "Sleep Pattern",
+            "ja": "睡眠パターン",
+            "zh": "睡眠习惯",
+            "es": "Patrón de sueño",
+            "fr": "Mode de sommeil",
+            "de": "Schlafmuster",
+            "pt": "Padrão de sono",
+            "id": "Pola Tidur"
+        },
+        "tempLabel": {
+            "ko": "성격 키워드",
+            "en": "Temperament",
+            "ja": "性格キーワード",
+            "zh": "性格特点",
+            "es": "Temperamento",
+            "fr": "Tempérament",
+            "de": "Temperament",
+            "pt": "Temperamento",
+            "id": "Temperamen"
+        },
+        "meaningLabel": {
+            "ko": "의미",
+            "en": "Meaning",
+            "ja": "意味",
+            "zh": "意义",
+            "es": "Significado",
+            "fr": "Signification",
+            "de": "Bedeutung",
+            "pt": "Significado",
+            "id": "Arti"
+        },
+        "responseLabel": {
+            "ko": "올바른 대처",
+            "en": "Correct Action",
+            "ja": "正しい対処",
+            "zh": "正确应对",
+            "es": "Acción correcta",
+            "fr": "Action correcte",
+            "de": "Richtige Reaktion",
+            "pt": "Ação correta",
+            "id": "Tindakan yang Benar"
+        }
     }
-  }
 }

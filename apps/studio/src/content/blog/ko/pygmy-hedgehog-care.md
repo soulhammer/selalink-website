@@ -6,7 +6,7 @@ pubDate: "2026-05-21"
 updatedDate: "2026-05-21"
 category: "FreshSelf"
 tags: ["반려동물","펫케어","아프리칸 피그미 고슴도치 (Atelerix albiventris / African Pygmy Hedgehog)"]
-heroImage: "/images/blog/pygmy_hedgehog_care.png"
+heroImage: "/images/blog/pygmy_hedgehog_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Hedgehog Welfare Society 케어 가이드라인 및 외래소동물 수의학 치료 지침"

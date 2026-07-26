@@ -6,7 +6,7 @@ pubDate: "2026-04-12"
 updatedDate: "2026-04-14"
 category: "FreshSelf"
 tags: ["ペットケア","ペット健康","ウェルシュ・コーギー (Canis lupus familiaris)"]
-heroImage: "/images/blog/corgi_care.png"
+heroImage: "/images/blog/corgi_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Pembroke Welsh Corgi Club of America公式ガイド＆AKC健康指針"

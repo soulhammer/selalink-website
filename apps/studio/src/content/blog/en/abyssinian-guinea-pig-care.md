@@ -6,7 +6,7 @@ pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "FreshSelf"
 tags: ["PetCare","PetHealth","Abyssinian Guinea Pig"]
-heroImage: "/images/blog/abyssinian_guinea_pig_care.png"
+heroImage: "/images/blog/abyssinian_guinea_pig_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Royal Society for the Prevention of Cruelty to Animals (RSPCA) Rodent Care Guidelines and exotic veterinary clinical standards"

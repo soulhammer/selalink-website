@@ -6,7 +6,7 @@ pubDate: "2026-02-13"
 updatedDate: "2026-02-13"
 category: "FreshSnap"
 tags: ["식재료보관","신선보관","lemon"]
-heroImage: "/images/blog/lemon_storage_hack.png"
+heroImage: "/images/blog/lemon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>미국 농무부(USDA) & 영국 식품기준청(FSA) & 식품의약품안전처(MFDS)</strong>"

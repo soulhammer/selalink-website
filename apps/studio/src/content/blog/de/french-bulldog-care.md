@@ -6,7 +6,7 @@ pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "FreshSelf"
 tags: ["Haustierpflege","Haustiergesundheit","Französische Bulldogge (Canis lupus familiaris)"]
-heroImage: "/images/blog/french_bulldog_care.png"
+heroImage: "/images/blog/french_bulldog_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "AKC-Ratgeber zur Haltung von Französischen Bulldoggen und klinische Standards für brachyzephale Rassen"

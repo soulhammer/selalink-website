@@ -6,7 +6,7 @@ pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "FreshSelf"
 tags: ["CuidadoPets","SaudePets","Calopsita (Nymphicus hollandicus / Cockatiel)"]
-heroImage: "/images/blog/cockatiel_care.png"
+heroImage: "/images/blog/cockatiel_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Associação de Veterinários de Aves (AAV) & Padrões Comportamentais"

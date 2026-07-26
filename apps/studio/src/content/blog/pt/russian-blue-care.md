@@ -6,7 +6,7 @@ pubDate: "2026-03-26"
 updatedDate: "2026-03-26"
 category: "FreshSelf"
 tags: ["CuidadoPets","SaudePets","Azul Russo (Felis catus / Russian Blue)"]
-heroImage: "/images/blog/russian_blue_care.png"
+heroImage: "/images/blog/russian_blue_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Guia de Raças da Cat Fanciers' Association (CFA) e Cornell Feline Health Center"

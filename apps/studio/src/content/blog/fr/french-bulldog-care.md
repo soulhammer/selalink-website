@@ -6,7 +6,7 @@ pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "FreshSelf"
 tags: ["SoinAnimaux","SanteAnimaux","Bouledogue Français (Canis lupus familiaris)"]
-heroImage: "/images/blog/french_bulldog_care.png"
+heroImage: "/images/blog/french_bulldog_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Guide Officiel du Bouledogue Français de l'AKC et Normes Vétérinaires Brachycéphales"

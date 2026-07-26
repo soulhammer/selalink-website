@@ -6,7 +6,7 @@ pubDate: "2026-07-01"
 updatedDate: "2026-07-01"
 category: "FreshSelf"
 tags: ["반려동물","펫케어","치와와 (Canis lupus familiaris)"]
-heroImage: "/images/blog/chihuahua_care.png"
+heroImage: "/images/blog/chihuahua_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Chihuahua Club of America 및 AVMA 초소형견 대사/건강 케어 지침"

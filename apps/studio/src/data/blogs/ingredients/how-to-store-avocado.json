@@ -1,454 +1,454 @@
 {
-  "how-to-store-avocado": {
-    "ingId": "avocado",
-    "pubDate": "2026-02-07",
-    "updatedDate": "2026-02-07",
-    "heroImage": "/images/blog/avocado_storage_hack.png",
-    "category": "FreshSnap",
-    "app": "freshsnap",
-    "formatVersion": 4,
-    "locales": {
-      "ko": {
-        "title": "아보카도 신선하게 보관하는 법: 과학적 보관 가이드",
-        "description": "공인된 안전 가이드라인에 따른 아보카도의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-        "authority": "<strong>CAC & USDA & MFDS</strong>",
-        "intro": "덜 익은 아보카도를 무심코 냉장고에 넣었다가 속이 검게 변하고 푸석푸석해져 버린 경험 있으시죠? 🥑\n\n아보카도는 대표적인 후숙 과일로, 수확 후에도 계속해서 호흡하며 익어가는 특성을 가지고 있습니다. 잘못된 온도에서 보관하면 후숙이 영구적으로 멈추거나 내부 조직이 쉽게 파괴될 수 있어 보관 시 특별한 주의가 필요합니다.\n\n오늘 FreshSnap에서는 캘리포니아 아보카도 위원회(CAC)와 미국 농무부(USDA)의 공인 가이드를 바탕으로, 아보카도를 맛과 영양 손실 없이 가장 신선하게 보관하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
-        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-        "whyDesc": "각 식재료의 고유한 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-        "guideTitle": "과학적으로 검증된 보관 가이드",
-        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-        "tags": [
-          "아보카도",
-          "과학적으로 검증된 보관 가이드",
-          "vegetable"
-        ],
-        "cautions": [
-          {
-            "title": "설익은 아보카도는 절대 냉장 보관하지 마세요 ⚠️",
-            "desc": "초록색의 단단한 아보카도를 저온(7℃ 이하)에 노출시키면 냉해(Chilling Injury)를 입게 됩니다. 세포 조직이 파괴되어 나중에 상온에 꺼내두어도 후숙이 더 이상 진행되지 않고 과육 내부가 검게 죽어 푸석해집니다."
-          },
-          {
-            "title": "과육 내부의 해파선 및 검은 반점을 확인하세요 🥑",
-            "desc": "껍질 표면에 커다란 검은 반점이 생기고 가볍게 쥐었을 때 푹 들어갈 정도로 물렁하다면 과육 내부까지 썩은 상태입니다. 또한 잘랐을 때 섬유질을 따라 까만 선이 심하게 생겼다면 상했을 가능성이 높으므로 섭취에 주의해야 합니다."
-          }
-        ],
-        "steps": [
-          {
-            "name": "완숙 전에는 종이봉투에 넣어 상온 보관 — 실온 보관 (5일) 🥑",
-            "text": "단단하고 덜 익은 아보카도는 15~20℃의 상온에서 보관해야 정상적으로 후숙됩니다. 💡 보관 팁: 아보카도를 종이봉투에 넣고 사과나 바나나를 함께 넣어두면, 이들 과일에서 방출되는 에틸렌 가스가 밀집되어 아보카도의 숙성 속도를 훨씬 빠르고 안정적으로 당겨줍니다."
-          },
-          {
-            "name": "후숙 완료 시 랩으로 감싸 냉장 보관 — 냉장 보관 (7일) ❄️",
-            "text": "껍질이 진한 검갈색으로 변하고 손으로 가볍게 쥐었을 때 약간 들어갈 정도로 익으면 후숙이 완료된 상태입니다. 💡 보관 팁: 완숙된 아보카도는 즉시 식품용 랩으로 개별 밀봉한 뒤 냉장고 야채칸에 보관해 주세요. 저온이 호흡 작용을 늦춰 과숙하여 무르는 것을 방지해 줍니다."
-          },
-          {
-            "name": "자른 아보카도는 단면에 레몬즙 발라 밀봉 — 갈변 예방 🍋",
-            "text": "사용하고 남은 아보카도 반쪽은 씨앗을 제거하지 말고 그대로 남겨둔 채 보관해야 합니다. 💡 보관 팁: 잘린 단면에 레몬즙(또는 레몬 식초, 올리브 오일)을 얇게 바른 뒤 식품용 랩으로 공기가 통하지 않게 밀착 밀봉하세요. 레몬의 산성 성분과 올리브유의 막이 폴리페놀 산화효소에 의한 갈변 현상을 강력하게 차단해 줍니다."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "설익은 아보카도를 냉장고에 넣으면 안 되는 이유가 무엇인가요?",
-            "answer": "덜 익은 초록색 아보카도를 저온에 넣으면 효소 활성이 억제되어 후숙이 영구적으로 멈추고 냉해를 입어 속이 검게 변합니다. 반드시 상온에서 겉껍질이 진한 갈색으로 변할 때까지 완숙시킨 후 냉장 보관해야 합니다."
-          },
-          {
-            "question": "남은 아보카도 반쪽을 갈변 없이 보관하는 방법은 무엇인가요?",
-            "answer": "씨앗을 남겨둔 상태에서 자른 표면에 레몬즙이나 올리브 오일을 얇게 바르고, 랩으로 단면을 밀착 감싸 밀폐 용기에 담아 냉장 보관하면 산소 접촉이 차단되어 갈변을 효과적으로 방지할 수 있습니다."
-          }
-        ]
-      },
-      "en": {
-        "title": "How to Keep Avocados Fresh: Scientific Storage Guide",
-        "description": "Check the optimal storage temperature, method, and shelf life for avocados based on official safety guidelines.",
-        "authority": "<strong>CAC & USDA & MFDS</strong>",
-        "intro": "Have you ever put an unripe avocado in the refrigerator only to have its flesh turn black, stringy, and mealy? 🥑\n\nAvocados are climacteric fruits that continue to respire and ripen after being harvested. Storing them at the wrong temperature can permanently halt ripening or destroy their internal cellular structure, requiring special care.\n\nToday, FreshSnap shares a scientifically proven 3-step storage guide based on official recommendations from the California Avocado Commission (CAC) and the USDA to maximize freshness and preserve flavor and nutrients. 🛡️",
-        "whyTitle": "Why Store Avocados This Way? Scientific Facts",
-        "whyDesc": "Understanding the unique characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
-        "guideTitle": "Scientifically Proven Storage Guide",
-        "cautionTitle": "Essential Storage Rules and Cautions",
-        "tags": [
-          "Avocado",
-          "Scientifically Proven Storage Guide",
-          "vegetable"
-        ],
-        "cautions": [
-          {
-            "title": "Never refrigerate unripe avocados ⚠️",
-            "desc": "Exposing hard, green avocados to low temperatures (below 7°C / 45°F) causes chilling injury. Cellular tissue breaks down, permanently stopping the ripening process and leaving the flesh black, stringy, and mealy even if moved back to room temperature."
-          },
-          {
-            "title": "Check for deep black spots and severe softness 🥑",
-            "desc": "If large black spots cover the skin and the fruit feels excessively soft when lightly squeezed, the flesh inside has likely rotted. Blackened vascular strands running through the flesh also indicate spoilage, so exercise caution before consuming."
-          }
-        ],
-        "steps": [
-          {
-            "name": "Store in a paper bag at room temperature before fully ripe — Room Temp Storage (5 Days) 🥑",
-            "text": "Firm, unripe avocados must be kept at a room temperature of 15–20°C (59–68°F) to ripen normally. 💡 Storage Tip: Place avocados in a paper bag with an apple or banana. The ethylene gas released by these fruits concentrates inside the bag, accelerating and stabilizing the avocado's ripening process."
-          },
-          {
-            "name": "Wrap individually with plastic wrap and refrigerate once ripe — Cold Storage (7 Days) ❄️",
-            "text": "An avocado is fully ripe when its skin turns dark purplish-black and yields gently to soft pressure. 💡 Storage Tip: Immediately wrap fully ripe avocados individually in plastic wrap and store them in the refrigerator crisper drawer. Low temperatures slow down respiration, preventing over-ripening and spoilage."
-          },
-          {
-            "name": "Brush cut surfaces with lemon juice and seal tightly — Prevent Browning 🍋",
-            "text": "When storing an unused avocado half, keep the pit embedded in the flesh. 💡 Storage Tip: Brush a thin layer of lemon juice (or olive oil) over the cut surface, then wrap tightly with plastic wrap to block air. The acidity of the lemon and the barrier of oil effectively inhibit polyphenol oxidase activity, preventing browning."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Why shouldn't unripe avocados be refrigerated?",
-            "answer": "Placing hard green avocados in low temperatures suppresses enzymatic activity, permanently halting the ripening process and causing chilling injury that turns the flesh black. Always ripen them at room temperature until the skin turns dark brown before refrigerating."
-          },
-          {
-            "question": "How do I store a leftover avocado half without browning?",
-            "answer": "Keep the seed in place, brush a thin layer of lemon juice or olive oil on the exposed surface, wrap tightly with plastic wrap to eliminate air contact, and store in an airtight container in the fridge."
-          }
-        ]
-      },
-      "ja": {
-        "title": "アボカドを新鮮に保つ保存方法：科学的保管ガイド",
-        "description": "公的安全基準に基づくアボカドの最適な保存温度、保管方法、保存期間をご確認ください。",
-        "authority": "<strong>CAC & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>",
-        "intro": "未熟なアボカドをうっかり冷蔵庫に入れて、中が黒くパサついて傷んでしまった経験はありませんか？🥑\n\nアボカドは収穫後も呼吸を続けながら熟していく代表的な追熟果実です。誤った温度で保存すると、追熟が永久に止まったり内部組織が破壊されたりするため、特別な注意が必要です。\n\n本日FreshSnapでは、カリフォルニア・アボカド委員会（CAC）と米国農務省（USDA）の公式ガイドラインに基づき、味と栄養を損なわずに新鮮さを保つ3段階の科学的保存法をご紹介します。🛡️",
-        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-        "whyDesc": "食材ごとの固有の特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-        "guideTitle": "科学的に検証された保存ガイド",
-        "cautionTitle": "保存時の必須ルールと注意事項",
-        "tags": [
-          "アボカド",
-          "科学的に検証された保存ガイド",
-          "vegetable"
-        ],
-        "cautions": [
-          {
-            "title": "固く未熟なアボカドは絶対に冷蔵保存しないでください ⚠️",
-            "desc": "緑色の固いアボカドを低温（7℃以下）に晒すと低温障害（Chilling Injury）を起こします。細胞組織が破壊され、後から常温に戻しても追熟が進行せず、果肉の内部が黒く壊死して食感が悪くなります。"
-          },
-          {
-            "title": "果肉内部の黒い斑点や傷みを確認してください 🥑",
-            "desc": "皮の表面に大きな黒い斑点があり、軽く握るとへこむほど柔らかい場合は内部まで腐敗している可能性が高いです。また、カットした際に繊維に沿って黒い筋がひどく入っている場合も傷んでいるため注意が必要です。"
-          }
-        ],
-        "steps": [
-          {
-            "name": "完熟前は紙袋に入れて常温保存 — 常温保存 (5日間) 🥑",
-            "text": "固くて未熟なアボカドは15〜20℃の常温で保存することで正常に追熟します。💡保存のコツ：アボカドを紙袋に入れ、リンゴやバナナを一緒に入れておくと、それらの果物から放出されるエチレンガスが充満し、追熟スピードをより早く安定して早めることができます。"
-          },
-          {
-            "name": "追熟完了後はラップで包んで冷蔵保存 — 冷蔵保存 (7日間) ❄️",
-            "text": "皮が濃い黒褐色になり、手で軽く握ったときに少し柔らかさを感じるくらいに熟したら追熟完了です。💡保存のコツ：完熟したアボカドはすぐに食品用ラップで1個ずつ密閉し、冷蔵庫の野菜室に入れてください。低温によって呼吸作用が抑えられ、熟しすぎて傷むのを防ぎます。"
-          },
-          {
-            "name": "カット断面にレモン果汁を塗って密閉 — 変色防止 🍋",
-            "text": "使い残したアボカドの半分は種を取り除かずにそのまま残して保存します。💡保存のコツ：カットした断面にレモン汁（またはレモン酢、オリーブオイル）を薄く塗り、食品用ラップで空気に触れないようぴったり密着密閉してください。レモンの酸性成分とオイルの膜がポリフェノール酸化酵素による褐変を強力に防ぎます。"
-          }
-        ],
-        "faqs": [
-          {
-            "question": "未熟なアボカドを冷蔵庫に入れてはいけない理由は何ですか？",
-            "answer": "固くて青いアボカドを低温に入れると酵素活性が抑えられて追熟が永久に停止し、低温障害を起こして中身が黒く変色するためです。必ず常温で皮が黒褐色になるまで完熟させてから冷蔵保存してください。"
-          },
-          {
-            "question": "残ったアボカドの半分を変色させずに保存する方法は？",
-            "answer": "種を残したまま断面にレモン汁やオリーブオイルを薄く塗り、ラップで空気と遮断するようにぴったり包んで密閉容器に入れ、冷蔵保存すると褐変を効果的に防ぐことができます。"
-          }
-        ]
-      },
-      "zh": {
-        "title": "如何保持牛油果新鲜：科学储存指南",
-        "description": "根据官方食品安全指南，了解牛油果的最佳储存温度、方式和保鲜时长。",
-        "authority": "<strong>CAC & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>",
-        "intro": "您是否曾不小心将未成熟的牛油果放入冰箱，结果导致果肉变黑、纤维发干且口感变差？🥑\n\n牛油果属于典型的后熟型水果，采摘后仍会继续呼吸和成熟。如果储存在不当的温度下，后熟过程会被永久中止，内部细胞组织也会遭到破坏，因此需要特别注意。\n\n今天FreshSnap将根据加州牛油果委员会(CAC)和美国农务部(USDA)的官方指南，为您介绍3步科学储存秘诀，帮您在不损失口感和营养的前提下最大程度保持牛油果的新鲜。🛡️",
-        "whyTitle": "为什么要这样储存？科学原理",
-        "whyDesc": "了解每种食材的固有特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-        "guideTitle": "科学验证的储存指南",
-        "cautionTitle": "储存必需规则及注意事项",
-        "tags": [
-          "牛油果",
-          "科学验证的储存指南",
-          "vegetable"
-        ],
-        "cautions": [
-          {
-            "title": "切勿冷藏未成熟的牛油果 ⚠️",
-            "desc": "将硬邦邦的绿色牛油果暴露在低温（7℃以下）环境中会导致冷害（Chilling Injury）。细胞组织遭受破坏后，即使重新放回常温也无法继续后熟，果肉内部会变黑衰坏且口感发绵。"
-          },
-          {
-            "title": "检查果肉内部的黑色斑点与变质迹象 🥑",
-            "desc": "若果皮表面出现大面积黑斑，且轻捏时极度软塌，说明果肉内部已腐烂。切开后若发现维管束呈严重的黑丝状，也代表已经变质，食用时需多加注意。"
-          }
-        ],
-        "steps": [
-          {
-            "name": "熟透前放入纸袋常温保存 — 常温储存 (5天) 🥑",
-            "text": "未成熟的硬牛油果应保存在15~20℃的常温环境中以正常后熟。💡储存小贴士：将牛油果放入纸袋中，并放入苹果或香蕉。这些水果释放的乙烯气体会积聚在袋内，显著加速并稳定牛油果的催熟过程。"
-          },
-          {
-            "name": "熟透后用保鲜膜包裹冷藏 — 冷藏储存 (7天) ❄️",
-            "text": "当果皮变为深紫黑色，手轻轻握持感觉微软时，即表示已经熟透。💡储存小贴士：熟透的牛油果应立即用食品级保鲜膜单独包裹，放入冰箱蔬菜保鲜抽屉。低温可减缓其呼吸作用，防止熟过头而腐烂。"
-          },
-          {
-            "name": "切开的表面涂抹柠檬汁并密封 — 防止褐变 🍋",
-            "text": "用剩的半个牛油果请保留果核，不要取出。💡储存小贴士：在切面上薄薄地涂一层柠檬汁（或柠檬醋、橄榄油），然后用保鲜膜紧密贴合包裹以阻隔空气。柠檬的酸性成分与橄榄油膜能强效抑制多酚氧化酶导致的褐变。"
-          }
-        ],
-        "faqs": [
-          {
-            "question": "为什么未成熟的牛油果不能放进冰箱冷藏？",
-            "answer": "将未成熟的绿色硬牛油果放在低温下会抑制酶活性，导致后熟永久停止并发生冻伤冷害，使果肉变黑。务必先在常温下放至表皮变为深褐色成熟后再冷藏。"
-          },
-          {
-            "question": "切开剩下的半个牛油果如何保存才能防止变黑？",
-            "answer": "保留果核，在切面上涂抹一层薄薄的柠檬汁或橄榄油，用保鲜膜紧贴贴合切面包裹，装入密封盒后冷藏，即可有效阻断氧气接触，防止褐变。"
-          }
-        ]
-      },
-      "es": {
-        "title": "Cómo mantener el aguacate fresco: Guía científica de conservación",
-        "description": "Descubra la temperatura, el método y la duración de conservación óptimos para el aguacate según las directrices oficiales de seguridad.",
-        "authority": "<strong>CAC & USDA & MFDS</strong>",
-        "intro": "¿Alguna vez puso un aguacate verde en el refrigerador y terminó con la pulpa ennegrecida, fibrosa y desagradable? 🥑\n\nEl aguacate es una fruta climatérica que continúa respirando y madurando después de ser cosechada. Guardarlo a una temperatura inadecuada puede detener permanentemente su maduración o destruir su estructura celular interna, por lo que requiere un cuidado especial.\n\nHoy, FreshSnap comparte una guía de conservación científica en 3 pasos basada en las recomendaciones oficiales de la Comisión de Aguacates de California (CAC) y el USDA para maximizar su frescura y conservar su sabor y nutrientes. 🛡️",
-        "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
-        "whyDesc": "Comprender las características únicas de cada ingrediente y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-        "guideTitle": "Guía de almacenamiento científicamente probada",
-        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-        "tags": [
-          "Aguacate",
-          "Guía de almacenamiento científicamente probada",
-          "vegetable"
-        ],
-        "cautions": [
-          {
-            "title": "Nunca refrigere aguacates sin madurar ⚠️",
-            "desc": "Exponer aguacates verdes y duros a bajas temperaturas (por debajo de 7 °C) provoca daños por frío (Chilling Injury). Los tejidos celulares se destruyen, deteniendo permanentemente el proceso de maduración y dejando la pulpa negra y harinosa, incluso si se vuelven a poner a temperatura ambiente."
-          },
-          {
-            "title": "Verifique la presencia de manchas negras profundas y ablandamiento excesivo 🥑",
-            "desc": "Si la piel presenta grandes manchas negras y el fruto se siente excesivamente blando al presionarlo suavemente, la pulpa interna probablemente esté podrida. Las hebras vasculares ennegrecidas dentro de la pulpa también indican deterioro, por lo que se debe consumir con precaución."
-          }
-        ],
-        "steps": [
-          {
-            "name": "Guarde en una bolsa de papel a temperatura ambiente antes de madurar — Temp. Ambiente (5 días) 🥑",
-            "text": "Los aguacates duros y verdes deben mantenerse a temperatura ambiente (15-20 °C) para madurar normalmente. 💡 Consejo de almacenamiento: Coloque los aguacates en una bolsa de papel junto con una manzana o un plátano. El gas etileno liberado por estas frutas se concentra en la bolsa, acelerando y estabilizando el proceso de maduración."
-          },
-          {
-            "name": "Envuelva con film plástico y refrigere una vez maduro — Almacenamiento Refrigerado (7 días) ❄️",
-            "text": "El aguacate está completamente maduro cuando su piel se vuelve púrpura negruzca oscura y cede ligeramente a una presión suave. 💡 Consejo de almacenamiento: Envuelva inmediatamente los aguacates maduros de forma individual con film transparente y guárdelos en el cajón de verduras del refrigerador. Las bajas temperaturas reducen la respiración, evitando que se pasen de maduros."
-          },
-          {
-            "name": "Unte jugo de limón en la superficie cortada y selle herméticamente — Evite el oscurecimiento 🍋",
-            "text": "Para conservar la mitad restante del aguacate, deje el hueso incrustado en la pulpa. 💡 Consejo de almacenamiento: Pincele una capa fina de jugo de limón (o vinagre de limón, aceite de oliva) sobre la superficie expuesta y envuelva firmemente con film plástico para evitar la entrada de aire. La acidez del limón y la barrera del aceite inhiben la polifenol oxidasa, previniendo el oscurecimiento."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "¿Por qué no se deben refrigerar los aguacates sin madurar?",
-            "answer": "Someter los aguacates verdes a bajas temperaturas inhibe la actividad enzimática, deteniendo la maduración de forma permanente y causando daños por frío que vuelven la pulpa negra. Madúrelos a temperatura ambiente hasta que la piel se vuelva oscura antes de refrigerar."
-          },
-          {
-            "question": "¿Cómo conservo la mitad sobrante de un aguacate sin que se ponga negra?",
-            "answer": "Conserve el hueso en su lugar, unte una fina capa de jugo de limón o aceite de oliva sobre la superficie cortada, envuelva firmemente con film plástico en contacto directo para eliminar el aire y guárdelo en un recipiente hermético en el refrigerador."
-          }
-        ]
-      },
-      "fr": {
-        "title": "Comment conserver l'avocat frais : Guide scientifique de conservation",
-        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour l'avocat selon les directives officielles de sécurité.",
-        "authority": "<strong>CAC & USDA & MFDS</strong>",
-        "intro": "Avez-vous déjà mis un avocat pas mûr au réfrigérateur pour le retrouver avec une chair noire, filandreuse et farineuse ? 🥑\n\nL'avocat est un fruit climatérique qui continue de respirer et de mûrir après la récolte. Le conserver à une température inappropriée peut stopper définitivement sa maturation ou détruire sa structure cellulaire interne, nécessitant une attention particulière.\n\nAujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations officielles de la California Avocado Commission (CAC) et de l'USDA pour maximiser la fraîcheur et préserver la saveur et les nutriments. 🛡️",
-        "whyTitle": "Pourquoi conserver ainsi ? Faits scientifiques",
-        "whyDesc": "Comprendre les caractéristiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-        "guideTitle": "Guide de conservation scientifiquement prouvé",
-        "cautionTitle": "Règles essentielles et précautions de stockage",
-        "tags": [
-          "Avocat",
-          "Guide de conservation scientifiquement prouvé",
-          "vegetable"
-        ],
-        "cautions": [
-          {
-            "title": "Ne réfrigérez jamais des avocats pas mûrs ⚠️",
-            "desc": "Exposer des avocats verts et fermes à de basses températures (inférieures à 7 °C) provoque des dégâts dus au froid (Chilling Injury). Les tissus cellulaires se détruisent, stoppant définitivement le mûrissement et rendant la chair noire et farineuse, même s'ils sont remis à température ambiante."
-          },
-          {
-            "title": "Vérifiez les taches noires profondes et le ramollissement excessif 🥑",
-            "desc": "Si la peau présente de grandes taches noires et que le fruit est très mou sous une légère pression, la chair interne est probablement pourrie. Des filaments vasculaires noircis dans la chair indiquent également une détérioration, soyez donc vigilant."
-          }
-        ],
-        "steps": [
-          {
-            "name": "Stocker dans un sac en papier à température ambiante avant maturité — Temp. Ambiante (5 jours) 🥑",
-            "text": "Les avocats fermes et non mûrs doivent être conservés à température ambiante (15-20 °C) pour mûrir normalement. 💡 Astuce de conservation : Placez les avocats dans un sac en papier avec une pomme ou une banane. Le gaz éthylène libéré par ces fruits se concentre dans le sac, accélérant et stabilisant le mûrissement."
-          },
-          {
-            "name": "Envelopper de film étirable et réfrigérer une fois mûr — Stockage Réfrigéré (7 jours) ❄️",
-            "text": "Un avocat est mûr lorsque sa peau devient violet-noir foncé et cède légèrement sous une pression douce. 💡 Astuce de conservation : Enveloppez immédiatement les avocats mûrs individuellement dans du film alimentaire et placez-les dans le bac à légumes du réfrigérateur. Les basses températures ralentissent la respiration et empêchent le fruit de pourrir."
-          },
-          {
-            "name": "Appliquer du jus de citron sur la chair coupée et sceller — Éviter le brunissement 🍋",
-            "text": "Pour conserver la moitié restante d'un avocat, laissez le noyau dans la chair. 💡 Astuce de conservation : Badigeonnez une fine couche de jus de citron (ou vinaigre de citron, huile d'olive) sur la surface coupée, puis enveloppez hermétiquement de film étirable. L'acidité du citron et le film d'huile bloquent la polyphénol oxydase pour éviter le brunissement."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Pourquoi ne faut-il pas réfrigérer des avocats pas mûrs ?",
-            "answer": "Placer des avocats verts durs au froid inhibe l'activité enzymatique, stoppe définitivement le mûrissement et provoque des dégâts dus au froid qui noircissent la chair. Laissez-les toujours mûrir à température ambiante jusqu'à ce que la peau devienne foncée avant de les réfrigérer."
-          },
-          {
-            "question": "Comment conserver la moitié d'un avocat sans qu'elle noircisse ?",
-            "answer": "Laissez le noyau en place, badigeonnez la surface coupée d'une fine couche de jus de citron ou d'huile d'olive, enveloppez très fermement de film étirable pour chasser l'air et conservez dans une boîte hermétique au réfrigérateur."
-          }
-        ]
-      },
-      "de": {
-        "title": "Avocados richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Avocados basierend auf offiziellen Sicherheitsrichtlinien.",
-        "authority": "<strong>CAC & USDA & MFDS</strong>",
-        "intro": "Haben Sie schon einmal eine unreife Avocado in den Kühlschrank gelegt, nur um festzustellen, dass ihr Fruchtfleisch schwarz, faserig und mehlig wurde? 🥑\n\nAvocados gehören zu den klimakterischen Früchten, die nach der Ernte weiter atmen und nachreifen. Eine Lagerung bei falschen Temperaturen kann den Reifeprozess dauerhaft stoppen oder das innere Zellgewebe schädigen, weshalb besondere Sorgfalt geboten ist.\n\nHeute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf offiziellen Empfehlungen der California Avocado Commission (CAC) und der USDA basiert, um die Frische zu maximieren und Geschmack sowie Nährstoffe zu bewahren. 🛡️",
-        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-        "whyDesc": "Das Verständnis der einzigartigen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-        "tags": [
-          "Avocado",
-          "Wissenschaftlich geprüfter Lagerungsratgeber",
-          "vegetable"
-        ],
-        "cautions": [
-          {
-            "title": "Kühlen Sie niemals unreife Avocados ⚠️",
-            "desc": "Wenn Sie feste, grüne Avocados niedrigen Temperaturen (unter 7 °C) aussetzen, erleiden sie Kälteschäden (Chilling Injury). Das Zellgewebe wird zerstört, der Reifeprozess stoppt dauerhaft und das Fruchtfleisch wird schwarz und mehlig – selbst wenn sie wieder auf Raumtemperatur gebracht werden."
-          },
-          {
-            "title": "Achten Sie auf tiefe schwarze Flecken und starke Weichheit 🥑",
-            "desc": "Wenn die Schale große schwarze Flecken aufweist und sich die Frucht bei leichtem Druck extrem weich anfühlt, ist das Fruchtfleisch im Inneren wahrscheinlich verdorben. Auch dunkle Leitbündelstränge im Fruchtfleisch deuten auf Verderb hin."
-          }
-        ],
-        "steps": [
-          {
-            "name": "Vor der Reife in einer Papiertüte bei Raumtemperatur lagern — Raumtemperatur (5 Tage) 🥑",
-            "text": "Feste, unreife Avocados müssen bei Raumtemperatur (15–20 °C) gelagert werden, um normal nachzureifen. 💡 Lagerungstipp: Legen Sie die Avocados zusammen mit einem Apfel oder einer Banane in eine Papiertüte. Das austretende Ethylengas sammelt sich in der Tüte und beschleunigt sowie stabilisiert den Reifungsprozess."
-          },
-          {
-            "name": "Sobald gereift, in Folie wickeln und kühlen — Kühllagerung (7 Tage) ❄️",
-            "text": "Eine Avocado ist vollkommen reif, wenn ihre Schale dunkelviolett-schwarz wird und auf sanften Druck leicht nachgibt. 💡 Lagerungstipp: Wickeln Sie vollreife Avocados sofort einzeln in Frischhaltefolie und legen Sie sie in das Gemüsefach des Kühlschranks. Kühle Temperaturen verlangsamen die Atmung und verhindern das Verfaulen."
-          },
-          {
-            "name": "Zitronensaft auf die Schnittfläche streichen und luftdicht verschließen — Verfärbungen verhindern 🍋",
-            "text": "Wenn Sie eine angebrochene Avocadohälfte aufbewahren, lassen Sie den Kern im Fruchtfleisch stecken. 💡 Lagerungstipp: Bestreichen Sie die Schnittfläche dünn mit Zitronensaft (oder Zitronenessig, Olivenöl) und wickeln Sie sie eng in Frischhaltefolie ein. Die Säure der Zitrone und die Ölschicht hemmen die Polyphenoloxidase und verhindern das Braunwerden."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Warum dürfen unreife Avocados nicht gekühlt werden?",
-            "answer": "Das Kühlen harter, grüner Avocados hemmt die Enzymaktivität, stoppt den Reifeprozess dauerhaft und verursacht Kälteschäden, die das Fruchtfleisch schwarz werden lassen. Lassen Sie sie immer zuerst bei Raumtemperatur nachreifen, bis die Schale dunkel wird."
-          },
-          {
-            "question": "Wie bewahre ich eine halbe Avocado auf, ohne dass sie braun wird?",
-            "answer": "Lassen Sie den Kern stecken, bestreichen Sie die Schnittfläche dünn mit Zitronensaft oder Olivenöl, wickeln Sie die Folie eng anliegend um die Schnittfläche, um Luftkontakt zu vermeiden, und lagern Sie sie in einer Dose im Kühlschrank."
-          }
-        ]
-      },
-      "pt": {
-        "title": "Como conservar abacates frescos: Guia científico de armazenamento",
-        "description": "Descubra a temperatura, método e tempo de conservação ideais para abacates com base em diretrizes oficiais de segurança.",
-        "authority": "<strong>CAC & USDA & MFDS</strong>",
-        "intro": "Você já colocou um abacate verde na geladeira e descobriu que a polpa ficou preta, fibrosa e sem sabor? 🥑\n\nO abacate é uma fruta climatérica que continua respirando e amadurecendo após a colheita. Armazená-lo na temperatura errada pode interromper permanentemente seu amadurecimento ou destruir sua estrutura celular interna, exigindo cuidados especiais.\n\nHoje, o FreshSnap apresenta um guia de conservação científico em 3 etapas baseado nas recomendações oficiais da Comissão de Abacates da Califórnia (CAC) e do USDA para maximizar o frescor e preservar o sabor e os nutrientes. 🛡️",
-        "whyTitle": "Por que armazenar assim? Fatos científicos",
-        "whyDesc": "Comprender as características únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-        "guideTitle": "Guia de armazenamento comprovado cientificamente",
-        "cautionTitle": "Regras essenciais e precauções no armazenamento",
-        "tags": [
-          "Abacate",
-          "Guia de armazenamento comprovado cientificamente",
-          "vegetable"
-        ],
-        "cautions": [
-          {
-            "title": "Nunca refrigere abacates verdes ⚠️",
-            "desc": "Expor abacates duros e verdes a baixas temperaturas (abaixo de 7 °C) causa danos pelo frio (Chilling Injury). Os tecidos celulares são destruídos, interrompendo permanentemente o processo de maturação e deixando a polpa preta e sem textura, mesmo se voltarem à temperatura ambiente."
-          },
-          {
-            "title": "Verifique a presença de manchas pretas profundas e amolecimento excessivo 🥑",
-            "desc": "Se a casca apresentar grandes manchas pretas e a fruta estiver extremamente macia ao ser pressionada, a polpa interna provavelmente está podre. Fios vasculares escurecidos na polpa também indicam deterioração."
-          }
-        ],
-        "steps": [
-          {
-            "name": "Guarde em um saco de papel em temperatura ambiente antes de maduro — Temp. Ambiente (5 dias) 🥑",
-            "text": "Abacates duros e verdes devem ser mantidos em temperatura ambiente (15–20 °C) para amadurecerem normalmente. 💡 Dica de conservação: Coloque os abacates em um saco de papel junto com uma maçã ou banana. O gás etileno liberado por essas frutas se concentra no saco, acelerando e estabilizando o amadurecimento."
-          },
-          {
-            "name": "Embrulhe em filme plástico e refrigere quando maduro — Refrigeração (7 dias) ❄️",
-            "text": "O abacate está totalmente maduro quando a casca ganha uma cor roxo-escura/pretas e cede levemente a uma pressão suave. 💡 Dica de conservação: Embrulhe imediatamente os abacates maduros de forma individual em filme plástico e guarde-os na gaveta de legumes. Baixas temperaturas reduzem a respiração, evitando que estraguem."
-          },
-          {
-            "name": "Passe suco de limão na superfície cortada e sele bem — Evite o escurecimento 🍋",
-            "text": "Ao guardar metade de um abacate, mantenha o caroço fixado na polpa. 💡 Dica de conservação: Pincele uma fina camada de suco de limão (ou vinagre de limão, azeite) na superfície exposta e embrulhe firmemente com filme plástico para bloquear o ar. A acidez do limão e a camada de óleo inibem a polifenol oxidase, evitando o escurecimento."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Por que não devo refrigerar abacates verdes?",
-            "answer": "Colocar abacates verdes e duros no frio inibe a atividade enzimática, interrompe permanentemente o amadurecimento e causa danos pelo frio que escurecem a polpa. Sempre amadureça-os em temperatura ambiente até a casca ficar escura antes de refrigerar."
-          },
-          {
-            "question": "Como conservar metade de um abacate sem que escureça?",
-            "answer": "Mantenha o caroço no lugar, passe uma fina camada de suco de limão ou azeite na superfície cortada, embrulhe firmemente com filme plástico em contato direto para eliminar o ar e guarde em um pote hermético na geladeira."
-          }
-        ]
-      },
-      "id": {
-        "title": "Cara Menyimpan Alpukat agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk alpukat berdasarkan pedoman keselamatan resmi.",
-        "authority": "<strong>CAC & USDA & MFDS</strong>",
-        "intro": "Pernahkah Anda memasukkan alpukat mentah ke dalam kulkas lalu menemukan daging buahnya berubah menjadi hitam, berserat, dan tidak enak? 🥑\n\nAlpukat adalah buah klimakterik yang terus bernapas dan mematang setelah dipetik. Menyimpannya pada suhu yang salah dapat menghentikan pematangan secara permanen atau merusak struktur sel bagian dalam, sehingga membutuhkan perhatian khusus.\n\nHari ini, FreshSnap membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan rekomendasi resmi dari California Avocado Commission (CAC) dan USDA untuk memaksimalkan kesegaran serta menjaga rasa dan nutrisinya. 🛡️",
-        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-        "whyDesc": "Memahami karakteristik unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-        "tags": [
-          "Alpukat",
-          "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-          "vegetable"
-        ],
-        "cautions": [
-          {
-            "title": "Jangan pernah mendinginkan alpukat yang belum matang ⚠️",
-            "desc": "Paparan suhu dingin (di bawah 7°C) pada alpukat hijau yang masih keras dapat menyebabkan kerusakan dingin (Chilling Injury). Jaringan sel akan rusak, mematikan proses pematangan secara permanen dan membuat daging buah hitam serta bertepung meskipun dikembalikan ke suhu ruang."
-          },
-          {
-            "title": "Periksa bintik-bintik hitam besar dan tekstur yang terlalu lembek 🥑",
-            "desc": "Jika permukaan kulit memiliki bintik hitam besar dan buah terasa sangat lembek saat ditekan perlahan, daging di dalamnya kemungkinan besar sudah membusuk. Serat-serat hitam pada daging buah juga menandakan pembusukan, jadi berhati-hatilah."
-          }
-        ],
-        "steps": [
-          {
-            "name": "Simpan di kantong kertas pada suhu ruang sebelum matang — Suhu Ruang (5 Hari) 🥑",
-            "text": "Alpukat yang keras dan belum matang harus disimpan pada suhu ruang 15–20°C agar dapat mematang secara normal. 💡 Tips Penyimpanan: Masukkan alpukat ke dalam kantong kertas bersama apel atau pisang. Gas etilen yang dilepaskan oleh buah-buahan ini akan terkonsentrasi di dalam kantong, mempercepat dan menstabilkan proses pematangan."
-          },
-          {
-            "name": "Bungkus dengan plastik wrap lalu dinginkan setelah matang — Penyimpanan Dingin (7 Hari) ❄️",
-            "text": "Alpukat matang sempurna saat kulitnya berubah warna menjadi ungu kehitaman tua dan sedikit empuk saat ditekan lembut. 💡 Tips Penyimpanan: Segera bungkus alpukat matang satu per satu dengan plastik wrap lalu simpan di laci sayuran kulkas. Suhu rendah akan memperlambat respirasi dan mencegah pembusukan."
-          },
-          {
-            "name": "Oleskan jus lemon pada permukaan potongan lalu segel rapat — Mencegah Perubahan Warna 🍋",
-            "text": "Saat menyimpan sisa setengah bagian alpukat, biarkan bijinya tetap menempel pada daging buah. 💡 Tips Penyimpanan: Oleskan tipis-tipis jus lemon (or cuka lemon, minyak zaitun) pada permukaan potongan, lalu bungkus rapat dengan plastik wrap untuk menghalangi udara. Keasaman lemon dan lapisan minyak akan menghambat enzim polifenol oksidase untuk mencegah kecokelatan."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Mengapa alpukat mentah tidak boleh disimpan di kulkas?",
-            "answer": "Memasukkan alpukat hijau yang keras ke suhu dingin akan menekan aktivitas enzim, menghentikan proses pematangan secara permanen, dan menyebabkan kerusakan dingin yang membuat daging buah menjadi hitam. Matangkan selalu pada suhu ruang hingga kulitnya gelap sebelum didinginkan."
-          },
-          {
-            "question": "Bagaimana cara menyimpan sisa potongan alpukat agar tidak berubah cokelat?",
-            "answer": "Biarkan bijinya tetap menempel, oleskan tipis jus lemon atau minyak zaitun pada permukaan potongan, bungkus rapat dengan plastik wrap yang menempel langsung tanpa ada celah udara, lalu simpan dalam wadah kedap udara di kulkas."
-          }
-        ]
-      }
+    "how-to-store-avocado": {
+        "ingId": "avocado",
+        "pubDate": "2026-02-07",
+        "updatedDate": "2026-02-07",
+        "heroImage": "/images/blog/avocado_storage_hack.webp",
+        "category": "FreshSnap",
+        "app": "freshsnap",
+        "formatVersion": 4,
+        "locales": {
+            "ko": {
+                "title": "아보카도 신선하게 보관하는 법: 과학적 보관 가이드",
+                "description": "공인된 안전 가이드라인에 따른 아보카도의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+                "authority": "<strong>CAC & USDA & MFDS</strong>",
+                "intro": "덜 익은 아보카도를 무심코 냉장고에 넣었다가 속이 검게 변하고 푸석푸석해져 버린 경험 있으시죠? 🥑\n\n아보카도는 대표적인 후숙 과일로, 수확 후에도 계속해서 호흡하며 익어가는 특성을 가지고 있습니다. 잘못된 온도에서 보관하면 후숙이 영구적으로 멈추거나 내부 조직이 쉽게 파괴될 수 있어 보관 시 특별한 주의가 필요합니다.\n\n오늘 FreshSnap에서는 캘리포니아 아보카도 위원회(CAC)와 미국 농무부(USDA)의 공인 가이드를 바탕으로, 아보카도를 맛과 영양 손실 없이 가장 신선하게 보관하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+                "whyDesc": "각 식재료의 고유한 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+                "guideTitle": "과학적으로 검증된 보관 가이드",
+                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+                "tags": [
+                    "아보카도",
+                    "과학적으로 검증된 보관 가이드",
+                    "vegetable"
+                ],
+                "cautions": [
+                    {
+                        "title": "설익은 아보카도는 절대 냉장 보관하지 마세요 ⚠️",
+                        "desc": "초록색의 단단한 아보카도를 저온(7℃ 이하)에 노출시키면 냉해(Chilling Injury)를 입게 됩니다. 세포 조직이 파괴되어 나중에 상온에 꺼내두어도 후숙이 더 이상 진행되지 않고 과육 내부가 검게 죽어 푸석해집니다."
+                    },
+                    {
+                        "title": "과육 내부의 해파선 및 검은 반점을 확인하세요 🥑",
+                        "desc": "껍질 표면에 커다란 검은 반점이 생기고 가볍게 쥐었을 때 푹 들어갈 정도로 물렁하다면 과육 내부까지 썩은 상태입니다. 또한 잘랐을 때 섬유질을 따라 까만 선이 심하게 생겼다면 상했을 가능성이 높으므로 섭취에 주의해야 합니다."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "완숙 전에는 종이봉투에 넣어 상온 보관 — 실온 보관 (5일) 🥑",
+                        "text": "단단하고 덜 익은 아보카도는 15~20℃의 상온에서 보관해야 정상적으로 후숙됩니다. 💡 보관 팁: 아보카도를 종이봉투에 넣고 사과나 바나나를 함께 넣어두면, 이들 과일에서 방출되는 에틸렌 가스가 밀집되어 아보카도의 숙성 속도를 훨씬 빠르고 안정적으로 당겨줍니다."
+                    },
+                    {
+                        "name": "후숙 완료 시 랩으로 감싸 냉장 보관 — 냉장 보관 (7일) ❄️",
+                        "text": "껍질이 진한 검갈색으로 변하고 손으로 가볍게 쥐었을 때 약간 들어갈 정도로 익으면 후숙이 완료된 상태입니다. 💡 보관 팁: 완숙된 아보카도는 즉시 식품용 랩으로 개별 밀봉한 뒤 냉장고 야채칸에 보관해 주세요. 저온이 호흡 작용을 늦춰 과숙하여 무르는 것을 방지해 줍니다."
+                    },
+                    {
+                        "name": "자른 아보카도는 단면에 레몬즙 발라 밀봉 — 갈변 예방 🍋",
+                        "text": "사용하고 남은 아보카도 반쪽은 씨앗을 제거하지 말고 그대로 남겨둔 채 보관해야 합니다. 💡 보관 팁: 잘린 단면에 레몬즙(또는 레몬 식초, 올리브 오일)을 얇게 바른 뒤 식품용 랩으로 공기가 통하지 않게 밀착 밀봉하세요. 레몬의 산성 성분과 올리브유의 막이 폴리페놀 산화효소에 의한 갈변 현상을 강력하게 차단해 줍니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "설익은 아보카도를 냉장고에 넣으면 안 되는 이유가 무엇인가요?",
+                        "answer": "덜 익은 초록색 아보카도를 저온에 넣으면 효소 활성이 억제되어 후숙이 영구적으로 멈추고 냉해를 입어 속이 검게 변합니다. 반드시 상온에서 겉껍질이 진한 갈색으로 변할 때까지 완숙시킨 후 냉장 보관해야 합니다."
+                    },
+                    {
+                        "question": "남은 아보카도 반쪽을 갈변 없이 보관하는 방법은 무엇인가요?",
+                        "answer": "씨앗을 남겨둔 상태에서 자른 표면에 레몬즙이나 올리브 오일을 얇게 바르고, 랩으로 단면을 밀착 감싸 밀폐 용기에 담아 냉장 보관하면 산소 접촉이 차단되어 갈변을 효과적으로 방지할 수 있습니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "How to Keep Avocados Fresh: Scientific Storage Guide",
+                "description": "Check the optimal storage temperature, method, and shelf life for avocados based on official safety guidelines.",
+                "authority": "<strong>CAC & USDA & MFDS</strong>",
+                "intro": "Have you ever put an unripe avocado in the refrigerator only to have its flesh turn black, stringy, and mealy? 🥑\n\nAvocados are climacteric fruits that continue to respire and ripen after being harvested. Storing them at the wrong temperature can permanently halt ripening or destroy their internal cellular structure, requiring special care.\n\nToday, FreshSnap shares a scientifically proven 3-step storage guide based on official recommendations from the California Avocado Commission (CAC) and the USDA to maximize freshness and preserve flavor and nutrients. 🛡️",
+                "whyTitle": "Why Store Avocados This Way? Scientific Facts",
+                "whyDesc": "Understanding the unique characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
+                "guideTitle": "Scientifically Proven Storage Guide",
+                "cautionTitle": "Essential Storage Rules and Cautions",
+                "tags": [
+                    "Avocado",
+                    "Scientifically Proven Storage Guide",
+                    "vegetable"
+                ],
+                "cautions": [
+                    {
+                        "title": "Never refrigerate unripe avocados ⚠️",
+                        "desc": "Exposing hard, green avocados to low temperatures (below 7°C / 45°F) causes chilling injury. Cellular tissue breaks down, permanently stopping the ripening process and leaving the flesh black, stringy, and mealy even if moved back to room temperature."
+                    },
+                    {
+                        "title": "Check for deep black spots and severe softness 🥑",
+                        "desc": "If large black spots cover the skin and the fruit feels excessively soft when lightly squeezed, the flesh inside has likely rotted. Blackened vascular strands running through the flesh also indicate spoilage, so exercise caution before consuming."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Store in a paper bag at room temperature before fully ripe — Room Temp Storage (5 Days) 🥑",
+                        "text": "Firm, unripe avocados must be kept at a room temperature of 15–20°C (59–68°F) to ripen normally. 💡 Storage Tip: Place avocados in a paper bag with an apple or banana. The ethylene gas released by these fruits concentrates inside the bag, accelerating and stabilizing the avocado's ripening process."
+                    },
+                    {
+                        "name": "Wrap individually with plastic wrap and refrigerate once ripe — Cold Storage (7 Days) ❄️",
+                        "text": "An avocado is fully ripe when its skin turns dark purplish-black and yields gently to soft pressure. 💡 Storage Tip: Immediately wrap fully ripe avocados individually in plastic wrap and store them in the refrigerator crisper drawer. Low temperatures slow down respiration, preventing over-ripening and spoilage."
+                    },
+                    {
+                        "name": "Brush cut surfaces with lemon juice and seal tightly — Prevent Browning 🍋",
+                        "text": "When storing an unused avocado half, keep the pit embedded in the flesh. 💡 Storage Tip: Brush a thin layer of lemon juice (or olive oil) over the cut surface, then wrap tightly with plastic wrap to block air. The acidity of the lemon and the barrier of oil effectively inhibit polyphenol oxidase activity, preventing browning."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Why shouldn't unripe avocados be refrigerated?",
+                        "answer": "Placing hard green avocados in low temperatures suppresses enzymatic activity, permanently halting the ripening process and causing chilling injury that turns the flesh black. Always ripen them at room temperature until the skin turns dark brown before refrigerating."
+                    },
+                    {
+                        "question": "How do I store a leftover avocado half without browning?",
+                        "answer": "Keep the seed in place, brush a thin layer of lemon juice or olive oil on the exposed surface, wrap tightly with plastic wrap to eliminate air contact, and store in an airtight container in the fridge."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "アボカドを新鮮に保つ保存方法：科学的保管ガイド",
+                "description": "公的安全基準に基づくアボカドの最適な保存温度、保管方法、保存期間をご確認ください。",
+                "authority": "<strong>CAC & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>",
+                "intro": "未熟なアボカドをうっかり冷蔵庫に入れて、中が黒くパサついて傷んでしまった経験はありませんか？🥑\n\nアボカドは収穫後も呼吸を続けながら熟していく代表的な追熟果実です。誤った温度で保存すると、追熟が永久に止まったり内部組織が破壊されたりするため、特別な注意が必要です。\n\n本日FreshSnapでは、カリフォルニア・アボカド委員会（CAC）と米国農務省（USDA）の公式ガイドラインに基づき、味と栄養を損なわずに新鮮さを保つ3段階の科学的保存法をご紹介します。🛡️",
+                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+                "whyDesc": "食材ごとの固有の特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+                "guideTitle": "科学的に検証された保存ガイド",
+                "cautionTitle": "保存時の必須ルールと注意事項",
+                "tags": [
+                    "アボカド",
+                    "科学的に検証された保存ガイド",
+                    "vegetable"
+                ],
+                "cautions": [
+                    {
+                        "title": "固く未熟なアボカドは絶対に冷蔵保存しないでください ⚠️",
+                        "desc": "緑色の固いアボカドを低温（7℃以下）に晒すと低温障害（Chilling Injury）を起こします。細胞組織が破壊され、後から常温に戻しても追熟が進行せず、果肉の内部が黒く壊死して食感が悪くなります。"
+                    },
+                    {
+                        "title": "果肉内部の黒い斑点や傷みを確認してください 🥑",
+                        "desc": "皮の表面に大きな黒い斑点があり、軽く握るとへこむほど柔らかい場合は内部まで腐敗している可能性が高いです。また、カットした際に繊維に沿って黒い筋がひどく入っている場合も傷んでいるため注意が必要です。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "完熟前は紙袋に入れて常温保存 — 常温保存 (5日間) 🥑",
+                        "text": "固くて未熟なアボカドは15〜20℃の常温で保存することで正常に追熟します。💡保存のコツ：アボカドを紙袋に入れ、リンゴやバナナを一緒に入れておくと、それらの果物から放出されるエチレンガスが充満し、追熟スピードをより早く安定して早めることができます。"
+                    },
+                    {
+                        "name": "追熟完了後はラップで包んで冷蔵保存 — 冷蔵保存 (7日間) ❄️",
+                        "text": "皮が濃い黒褐色になり、手で軽く握ったときに少し柔らかさを感じるくらいに熟したら追熟完了です。💡保存のコツ：完熟したアボカドはすぐに食品用ラップで1個ずつ密閉し、冷蔵庫の野菜室に入れてください。低温によって呼吸作用が抑えられ、熟しすぎて傷むのを防ぎます。"
+                    },
+                    {
+                        "name": "カット断面にレモン果汁を塗って密閉 — 変色防止 🍋",
+                        "text": "使い残したアボカドの半分は種を取り除かずにそのまま残して保存します。💡保存のコツ：カットした断面にレモン汁（またはレモン酢、オリーブオイル）を薄く塗り、食品用ラップで空気に触れないようぴったり密着密閉してください。レモンの酸性成分とオイルの膜がポリフェノール酸化酵素による褐変を強力に防ぎます。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "未熟なアボカドを冷蔵庫に入れてはいけない理由は何ですか？",
+                        "answer": "固くて青いアボカドを低温に入れると酵素活性が抑えられて追熟が永久に停止し、低温障害を起こして中身が黒く変色するためです。必ず常温で皮が黒褐色になるまで完熟させてから冷蔵保存してください。"
+                    },
+                    {
+                        "question": "残ったアボカドの半分を変色させずに保存する方法は？",
+                        "answer": "種を残したまま断面にレモン汁やオリーブオイルを薄く塗り、ラップで空気と遮断するようにぴったり包んで密閉容器に入れ、冷蔵保存すると褐変を効果的に防ぐことができます。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "如何保持牛油果新鲜：科学储存指南",
+                "description": "根据官方食品安全指南，了解牛油果的最佳储存温度、方式和保鲜时长。",
+                "authority": "<strong>CAC & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "intro": "您是否曾不小心将未成熟的牛油果放入冰箱，结果导致果肉变黑、纤维发干且口感变差？🥑\n\n牛油果属于典型的后熟型水果，采摘后仍会继续呼吸和成熟。如果储存在不当的温度下，后熟过程会被永久中止，内部细胞组织也会遭到破坏，因此需要特别注意。\n\n今天FreshSnap将根据加州牛油果委员会(CAC)和美国农务部(USDA)的官方指南，为您介绍3步科学储存秘诀，帮您在不损失口感和营养的前提下最大程度保持牛油果的新鲜。🛡️",
+                "whyTitle": "为什么要这样储存？科学原理",
+                "whyDesc": "了解每种食材的固有特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+                "guideTitle": "科学验证的储存指南",
+                "cautionTitle": "储存必需规则及注意事项",
+                "tags": [
+                    "牛油果",
+                    "科学验证的储存指南",
+                    "vegetable"
+                ],
+                "cautions": [
+                    {
+                        "title": "切勿冷藏未成熟的牛油果 ⚠️",
+                        "desc": "将硬邦邦的绿色牛油果暴露在低温（7℃以下）环境中会导致冷害（Chilling Injury）。细胞组织遭受破坏后，即使重新放回常温也无法继续后熟，果肉内部会变黑衰坏且口感发绵。"
+                    },
+                    {
+                        "title": "检查果肉内部的黑色斑点与变质迹象 🥑",
+                        "desc": "若果皮表面出现大面积黑斑，且轻捏时极度软塌，说明果肉内部已腐烂。切开后若发现维管束呈严重的黑丝状，也代表已经变质，食用时需多加注意。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "熟透前放入纸袋常温保存 — 常温储存 (5天) 🥑",
+                        "text": "未成熟的硬牛油果应保存在15~20℃的常温环境中以正常后熟。💡储存小贴士：将牛油果放入纸袋中，并放入苹果或香蕉。这些水果释放的乙烯气体会积聚在袋内，显著加速并稳定牛油果的催熟过程。"
+                    },
+                    {
+                        "name": "熟透后用保鲜膜包裹冷藏 — 冷藏储存 (7天) ❄️",
+                        "text": "当果皮变为深紫黑色，手轻轻握持感觉微软时，即表示已经熟透。💡储存小贴士：熟透的牛油果应立即用食品级保鲜膜单独包裹，放入冰箱蔬菜保鲜抽屉。低温可减缓其呼吸作用，防止熟过头而腐烂。"
+                    },
+                    {
+                        "name": "切开的表面涂抹柠檬汁并密封 — 防止褐变 🍋",
+                        "text": "用剩的半个牛油果请保留果核，不要取出。💡储存小贴士：在切面上薄薄地涂一层柠檬汁（或柠檬醋、橄榄油），然后用保鲜膜紧密贴合包裹以阻隔空气。柠檬的酸性成分与橄榄油膜能强效抑制多酚氧化酶导致的褐变。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "为什么未成熟的牛油果不能放进冰箱冷藏？",
+                        "answer": "将未成熟的绿色硬牛油果放在低温下会抑制酶活性，导致后熟永久停止并发生冻伤冷害，使果肉变黑。务必先在常温下放至表皮变为深褐色成熟后再冷藏。"
+                    },
+                    {
+                        "question": "切开剩下的半个牛油果如何保存才能防止变黑？",
+                        "answer": "保留果核，在切面上涂抹一层薄薄的柠檬汁或橄榄油，用保鲜膜紧贴贴合切面包裹，装入密封盒后冷藏，即可有效阻断氧气接触，防止褐变。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cómo mantener el aguacate fresco: Guía científica de conservación",
+                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para el aguacate según las directrices oficiales de seguridad.",
+                "authority": "<strong>CAC & USDA & MFDS</strong>",
+                "intro": "¿Alguna vez puso un aguacate verde en el refrigerador y terminó con la pulpa ennegrecida, fibrosa y desagradable? 🥑\n\nEl aguacate es una fruta climatérica que continúa respirando y madurando después de ser cosechada. Guardarlo a una temperatura inadecuada puede detener permanentemente su maduración o destruir su estructura celular interna, por lo que requiere un cuidado especial.\n\nHoy, FreshSnap comparte una guía de conservación científica en 3 pasos basada en las recomendaciones oficiales de la Comisión de Aguacates de California (CAC) y el USDA para maximizar su frescura y conservar su sabor y nutrientes. 🛡️",
+                "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+                "whyDesc": "Comprender las características únicas de cada ingrediente y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+                "guideTitle": "Guía de almacenamiento científicamente probada",
+                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+                "tags": [
+                    "Aguacate",
+                    "Guía de almacenamiento científicamente probada",
+                    "vegetable"
+                ],
+                "cautions": [
+                    {
+                        "title": "Nunca refrigere aguacates sin madurar ⚠️",
+                        "desc": "Exponer aguacates verdes y duros a bajas temperaturas (por debajo de 7 °C) provoca daños por frío (Chilling Injury). Los tejidos celulares se destruyen, deteniendo permanentemente el proceso de maduración y dejando la pulpa negra y harinosa, incluso si se vuelven a poner a temperatura ambiente."
+                    },
+                    {
+                        "title": "Verifique la presencia de manchas negras profundas y ablandamiento excesivo 🥑",
+                        "desc": "Si la piel presenta grandes manchas negras y el fruto se siente excesivamente blando al presionarlo suavemente, la pulpa interna probablemente esté podrida. Las hebras vasculares ennegrecidas dentro de la pulpa también indican deterioro, por lo que se debe consumir con precaución."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Guarde en una bolsa de papel a temperatura ambiente antes de madurar — Temp. Ambiente (5 días) 🥑",
+                        "text": "Los aguacates duros y verdes deben mantenerse a temperatura ambiente (15-20 °C) para madurar normalmente. 💡 Consejo de almacenamiento: Coloque los aguacates en una bolsa de papel junto con una manzana o un plátano. El gas etileno liberado por estas frutas se concentra en la bolsa, acelerando y estabilizando el proceso de maduración."
+                    },
+                    {
+                        "name": "Envuelva con film plástico y refrigere una vez maduro — Almacenamiento Refrigerado (7 días) ❄️",
+                        "text": "El aguacate está completamente maduro cuando su piel se vuelve púrpura negruzca oscura y cede ligeramente a una presión suave. 💡 Consejo de almacenamiento: Envuelva inmediatamente los aguacates maduros de forma individual con film transparente y guárdelos en el cajón de verduras del refrigerador. Las bajas temperaturas reducen la respiración, evitando que se pasen de maduros."
+                    },
+                    {
+                        "name": "Unte jugo de limón en la superficie cortada y selle herméticamente — Evite el oscurecimiento 🍋",
+                        "text": "Para conservar la mitad restante del aguacate, deje el hueso incrustado en la pulpa. 💡 Consejo de almacenamiento: Pincele una capa fina de jugo de limón (o vinagre de limón, aceite de oliva) sobre la superficie expuesta y envuelva firmemente con film plástico para evitar la entrada de aire. La acidez del limón y la barrera del aceite inhiben la polifenol oxidasa, previniendo el oscurecimiento."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Por qué no se deben refrigerar los aguacates sin madurar?",
+                        "answer": "Someter los aguacates verdes a bajas temperaturas inhibe la actividad enzimática, deteniendo la maduración de forma permanente y causando daños por frío que vuelven la pulpa negra. Madúrelos a temperatura ambiente hasta que la piel se vuelva oscura antes de refrigerar."
+                    },
+                    {
+                        "question": "¿Cómo conservo la mitad sobrante de un aguacate sin que se ponga negra?",
+                        "answer": "Conserve el hueso en su lugar, unte una fina capa de jugo de limón o aceite de oliva sobre la superficie cortada, envuelva firmemente con film plástico en contacto directo para eliminar el aire y guárdelo en un recipiente hermético en el refrigerador."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Comment conserver l'avocat frais : Guide scientifique de conservation",
+                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour l'avocat selon les directives officielles de sécurité.",
+                "authority": "<strong>CAC & USDA & MFDS</strong>",
+                "intro": "Avez-vous déjà mis un avocat pas mûr au réfrigérateur pour le retrouver avec une chair noire, filandreuse et farineuse ? 🥑\n\nL'avocat est un fruit climatérique qui continue de respirer et de mûrir après la récolte. Le conserver à une température inappropriée peut stopper définitivement sa maturation ou détruire sa structure cellulaire interne, nécessitant une attention particulière.\n\nAujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations officielles de la California Avocado Commission (CAC) et de l'USDA pour maximiser la fraîcheur et préserver la saveur et les nutriments. 🛡️",
+                "whyTitle": "Pourquoi conserver ainsi ? Faits scientifiques",
+                "whyDesc": "Comprendre les caractéristiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+                "guideTitle": "Guide de conservation scientifiquement prouvé",
+                "cautionTitle": "Règles essentielles et précautions de stockage",
+                "tags": [
+                    "Avocat",
+                    "Guide de conservation scientifiquement prouvé",
+                    "vegetable"
+                ],
+                "cautions": [
+                    {
+                        "title": "Ne réfrigérez jamais des avocats pas mûrs ⚠️",
+                        "desc": "Exposer des avocats verts et fermes à de basses températures (inférieures à 7 °C) provoque des dégâts dus au froid (Chilling Injury). Les tissus cellulaires se détruisent, stoppant définitivement le mûrissement et rendant la chair noire et farineuse, même s'ils sont remis à température ambiante."
+                    },
+                    {
+                        "title": "Vérifiez les taches noires profondes et le ramollissement excessif 🥑",
+                        "desc": "Si la peau présente de grandes taches noires et que le fruit est très mou sous une légère pression, la chair interne est probablement pourrie. Des filaments vasculaires noircis dans la chair indiquent également une détérioration, soyez donc vigilant."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Stocker dans un sac en papier à température ambiante avant maturité — Temp. Ambiante (5 jours) 🥑",
+                        "text": "Les avocats fermes et non mûrs doivent être conservés à température ambiante (15-20 °C) pour mûrir normalement. 💡 Astuce de conservation : Placez les avocats dans un sac en papier avec une pomme ou une banane. Le gaz éthylène libéré par ces fruits se concentre dans le sac, accélérant et stabilisant le mûrissement."
+                    },
+                    {
+                        "name": "Envelopper de film étirable et réfrigérer une fois mûr — Stockage Réfrigéré (7 jours) ❄️",
+                        "text": "Un avocat est mûr lorsque sa peau devient violet-noir foncé et cède légèrement sous une pression douce. 💡 Astuce de conservation : Enveloppez immédiatement les avocats mûrs individuellement dans du film alimentaire et placez-les dans le bac à légumes du réfrigérateur. Les basses températures ralentissent la respiration et empêchent le fruit de pourrir."
+                    },
+                    {
+                        "name": "Appliquer du jus de citron sur la chair coupée et sceller — Éviter le brunissement 🍋",
+                        "text": "Pour conserver la moitié restante d'un avocat, laissez le noyau dans la chair. 💡 Astuce de conservation : Badigeonnez une fine couche de jus de citron (ou vinaigre de citron, huile d'olive) sur la surface coupée, puis enveloppez hermétiquement de film étirable. L'acidité du citron et le film d'huile bloquent la polyphénol oxydase pour éviter le brunissement."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Pourquoi ne faut-il pas réfrigérer des avocats pas mûrs ?",
+                        "answer": "Placer des avocats verts durs au froid inhibe l'activité enzymatique, stoppe définitivement le mûrissement et provoque des dégâts dus au froid qui noircissent la chair. Laissez-les toujours mûrir à température ambiante jusqu'à ce que la peau devienne foncée avant de les réfrigérer."
+                    },
+                    {
+                        "question": "Comment conserver la moitié d'un avocat sans qu'elle noircisse ?",
+                        "answer": "Laissez le noyau en place, badigeonnez la surface coupée d'une fine couche de jus de citron ou d'huile d'olive, enveloppez très fermement de film étirable pour chasser l'air et conservez dans une boîte hermétique au réfrigérateur."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Avocados richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Avocados basierend auf offiziellen Sicherheitsrichtlinien.",
+                "authority": "<strong>CAC & USDA & MFDS</strong>",
+                "intro": "Haben Sie schon einmal eine unreife Avocado in den Kühlschrank gelegt, nur um festzustellen, dass ihr Fruchtfleisch schwarz, faserig und mehlig wurde? 🥑\n\nAvocados gehören zu den klimakterischen Früchten, die nach der Ernte weiter atmen und nachreifen. Eine Lagerung bei falschen Temperaturen kann den Reifeprozess dauerhaft stoppen oder das innere Zellgewebe schädigen, weshalb besondere Sorgfalt geboten ist.\n\nHeute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf offiziellen Empfehlungen der California Avocado Commission (CAC) und der USDA basiert, um die Frische zu maximieren und Geschmack sowie Nährstoffe zu bewahren. 🛡️",
+                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+                "whyDesc": "Das Verständnis der einzigartigen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+                "tags": [
+                    "Avocado",
+                    "Wissenschaftlich geprüfter Lagerungsratgeber",
+                    "vegetable"
+                ],
+                "cautions": [
+                    {
+                        "title": "Kühlen Sie niemals unreife Avocados ⚠️",
+                        "desc": "Wenn Sie feste, grüne Avocados niedrigen Temperaturen (unter 7 °C) aussetzen, erleiden sie Kälteschäden (Chilling Injury). Das Zellgewebe wird zerstört, der Reifeprozess stoppt dauerhaft und das Fruchtfleisch wird schwarz und mehlig – selbst wenn sie wieder auf Raumtemperatur gebracht werden."
+                    },
+                    {
+                        "title": "Achten Sie auf tiefe schwarze Flecken und starke Weichheit 🥑",
+                        "desc": "Wenn die Schale große schwarze Flecken aufweist und sich die Frucht bei leichtem Druck extrem weich anfühlt, ist das Fruchtfleisch im Inneren wahrscheinlich verdorben. Auch dunkle Leitbündelstränge im Fruchtfleisch deuten auf Verderb hin."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Vor der Reife in einer Papiertüte bei Raumtemperatur lagern — Raumtemperatur (5 Tage) 🥑",
+                        "text": "Feste, unreife Avocados müssen bei Raumtemperatur (15–20 °C) gelagert werden, um normal nachzureifen. 💡 Lagerungstipp: Legen Sie die Avocados zusammen mit einem Apfel oder einer Banane in eine Papiertüte. Das austretende Ethylengas sammelt sich in der Tüte und beschleunigt sowie stabilisiert den Reifungsprozess."
+                    },
+                    {
+                        "name": "Sobald gereift, in Folie wickeln und kühlen — Kühllagerung (7 Tage) ❄️",
+                        "text": "Eine Avocado ist vollkommen reif, wenn ihre Schale dunkelviolett-schwarz wird und auf sanften Druck leicht nachgibt. 💡 Lagerungstipp: Wickeln Sie vollreife Avocados sofort einzeln in Frischhaltefolie und legen Sie sie in das Gemüsefach des Kühlschranks. Kühle Temperaturen verlangsamen die Atmung und verhindern das Verfaulen."
+                    },
+                    {
+                        "name": "Zitronensaft auf die Schnittfläche streichen und luftdicht verschließen — Verfärbungen verhindern 🍋",
+                        "text": "Wenn Sie eine angebrochene Avocadohälfte aufbewahren, lassen Sie den Kern im Fruchtfleisch stecken. 💡 Lagerungstipp: Bestreichen Sie die Schnittfläche dünn mit Zitronensaft (oder Zitronenessig, Olivenöl) und wickeln Sie sie eng in Frischhaltefolie ein. Die Säure der Zitrone und die Ölschicht hemmen die Polyphenoloxidase und verhindern das Braunwerden."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Warum dürfen unreife Avocados nicht gekühlt werden?",
+                        "answer": "Das Kühlen harter, grüner Avocados hemmt die Enzymaktivität, stoppt den Reifeprozess dauerhaft und verursacht Kälteschäden, die das Fruchtfleisch schwarz werden lassen. Lassen Sie sie immer zuerst bei Raumtemperatur nachreifen, bis die Schale dunkel wird."
+                    },
+                    {
+                        "question": "Wie bewahre ich eine halbe Avocado auf, ohne dass sie braun wird?",
+                        "answer": "Lassen Sie den Kern stecken, bestreichen Sie die Schnittfläche dünn mit Zitronensaft oder Olivenöl, wickeln Sie die Folie eng anliegend um die Schnittfläche, um Luftkontakt zu vermeiden, und lagern Sie sie in einer Dose im Kühlschrank."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Como conservar abacates frescos: Guia científico de armazenamento",
+                "description": "Descubra a temperatura, método e tempo de conservação ideais para abacates com base em diretrizes oficiais de segurança.",
+                "authority": "<strong>CAC & USDA & MFDS</strong>",
+                "intro": "Você já colocou um abacate verde na geladeira e descobriu que a polpa ficou preta, fibrosa e sem sabor? 🥑\n\nO abacate é uma fruta climatérica que continua respirando e amadurecendo após a colheita. Armazená-lo na temperatura errada pode interromper permanentemente seu amadurecimento ou destruir sua estrutura celular interna, exigindo cuidados especiais.\n\nHoje, o FreshSnap apresenta um guia de conservação científico em 3 etapas baseado nas recomendações oficiais da Comissão de Abacates da Califórnia (CAC) e do USDA para maximizar o frescor e preservar o sabor e os nutrientes. 🛡️",
+                "whyTitle": "Por que armazenar assim? Fatos científicos",
+                "whyDesc": "Comprender as características únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+                "guideTitle": "Guia de armazenamento comprovado cientificamente",
+                "cautionTitle": "Regras essenciais e precauções no armazenamento",
+                "tags": [
+                    "Abacate",
+                    "Guia de armazenamento comprovado cientificamente",
+                    "vegetable"
+                ],
+                "cautions": [
+                    {
+                        "title": "Nunca refrigere abacates verdes ⚠️",
+                        "desc": "Expor abacates duros e verdes a baixas temperaturas (abaixo de 7 °C) causa danos pelo frio (Chilling Injury). Os tecidos celulares são destruídos, interrompendo permanentemente o processo de maturação e deixando a polpa preta e sem textura, mesmo se voltarem à temperatura ambiente."
+                    },
+                    {
+                        "title": "Verifique a presença de manchas pretas profundas e amolecimento excessivo 🥑",
+                        "desc": "Se a casca apresentar grandes manchas pretas e a fruta estiver extremamente macia ao ser pressionada, a polpa interna provavelmente está podre. Fios vasculares escurecidos na polpa também indicam deterioração."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Guarde em um saco de papel em temperatura ambiente antes de maduro — Temp. Ambiente (5 dias) 🥑",
+                        "text": "Abacates duros e verdes devem ser mantidos em temperatura ambiente (15–20 °C) para amadurecerem normalmente. 💡 Dica de conservação: Coloque os abacates em um saco de papel junto com uma maçã ou banana. O gás etileno liberado por essas frutas se concentra no saco, acelerando e estabilizando o amadurecimento."
+                    },
+                    {
+                        "name": "Embrulhe em filme plástico e refrigere quando maduro — Refrigeração (7 dias) ❄️",
+                        "text": "O abacate está totalmente maduro quando a casca ganha uma cor roxo-escura/pretas e cede levemente a uma pressão suave. 💡 Dica de conservação: Embrulhe imediatamente os abacates maduros de forma individual em filme plástico e guarde-os na gaveta de legumes. Baixas temperaturas reduzem a respiração, evitando que estraguem."
+                    },
+                    {
+                        "name": "Passe suco de limão na superfície cortada e sele bem — Evite o escurecimento 🍋",
+                        "text": "Ao guardar metade de um abacate, mantenha o caroço fixado na polpa. 💡 Dica de conservação: Pincele uma fina camada de suco de limão (ou vinagre de limão, azeite) na superfície exposta e embrulhe firmemente com filme plástico para bloquear o ar. A acidez do limão e a camada de óleo inibem a polifenol oxidase, evitando o escurecimento."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Por que não devo refrigerar abacates verdes?",
+                        "answer": "Colocar abacates verdes e duros no frio inibe a atividade enzimática, interrompe permanentemente o amadurecimento e causa danos pelo frio que escurecem a polpa. Sempre amadureça-os em temperatura ambiente até a casca ficar escura antes de refrigerar."
+                    },
+                    {
+                        "question": "Como conservar metade de um abacate sem que escureça?",
+                        "answer": "Mantenha o caroço no lugar, passe uma fina camada de suco de limão ou azeite na superfície cortada, embrulhe firmemente com filme plástico em contato direto para eliminar o ar e guarde em um pote hermético na geladeira."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Cara Menyimpan Alpukat agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk alpukat berdasarkan pedoman keselamatan resmi.",
+                "authority": "<strong>CAC & USDA & MFDS</strong>",
+                "intro": "Pernahkah Anda memasukkan alpukat mentah ke dalam kulkas lalu menemukan daging buahnya berubah menjadi hitam, berserat, dan tidak enak? 🥑\n\nAlpukat adalah buah klimakterik yang terus bernapas dan mematang setelah dipetik. Menyimpannya pada suhu yang salah dapat menghentikan pematangan secara permanen atau merusak struktur sel bagian dalam, sehingga membutuhkan perhatian khusus.\n\nHari ini, FreshSnap membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan rekomendasi resmi dari California Avocado Commission (CAC) dan USDA untuk memaksimalkan kesegaran serta menjaga rasa dan nutrisinya. 🛡️",
+                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+                "whyDesc": "Memahami karakteristik unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+                "tags": [
+                    "Alpukat",
+                    "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                    "vegetable"
+                ],
+                "cautions": [
+                    {
+                        "title": "Jangan pernah mendinginkan alpukat yang belum matang ⚠️",
+                        "desc": "Paparan suhu dingin (di bawah 7°C) pada alpukat hijau yang masih keras dapat menyebabkan kerusakan dingin (Chilling Injury). Jaringan sel akan rusak, mematikan proses pematangan secara permanen dan membuat daging buah hitam serta bertepung meskipun dikembalikan ke suhu ruang."
+                    },
+                    {
+                        "title": "Periksa bintik-bintik hitam besar dan tekstur yang terlalu lembek 🥑",
+                        "desc": "Jika permukaan kulit memiliki bintik hitam besar dan buah terasa sangat lembek saat ditekan perlahan, daging di dalamnya kemungkinan besar sudah membusuk. Serat-serat hitam pada daging buah juga menandakan pembusukan, jadi berhati-hatilah."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Simpan di kantong kertas pada suhu ruang sebelum matang — Suhu Ruang (5 Hari) 🥑",
+                        "text": "Alpukat yang keras dan belum matang harus disimpan pada suhu ruang 15–20°C agar dapat mematang secara normal. 💡 Tips Penyimpanan: Masukkan alpukat ke dalam kantong kertas bersama apel atau pisang. Gas etilen yang dilepaskan oleh buah-buahan ini akan terkonsentrasi di dalam kantong, mempercepat dan menstabilkan proses pematangan."
+                    },
+                    {
+                        "name": "Bungkus dengan plastik wrap lalu dinginkan setelah matang — Penyimpanan Dingin (7 Hari) ❄️",
+                        "text": "Alpukat matang sempurna saat kulitnya berubah warna menjadi ungu kehitaman tua dan sedikit empuk saat ditekan lembut. 💡 Tips Penyimpanan: Segera bungkus alpukat matang satu per satu dengan plastik wrap lalu simpan di laci sayuran kulkas. Suhu rendah akan memperlambat respirasi dan mencegah pembusukan."
+                    },
+                    {
+                        "name": "Oleskan jus lemon pada permukaan potongan lalu segel rapat — Mencegah Perubahan Warna 🍋",
+                        "text": "Saat menyimpan sisa setengah bagian alpukat, biarkan bijinya tetap menempel pada daging buah. 💡 Tips Penyimpanan: Oleskan tipis-tipis jus lemon (or cuka lemon, minyak zaitun) pada permukaan potongan, lalu bungkus rapat dengan plastik wrap untuk menghalangi udara. Keasaman lemon dan lapisan minyak akan menghambat enzim polifenol oksidase untuk mencegah kecokelatan."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mengapa alpukat mentah tidak boleh disimpan di kulkas?",
+                        "answer": "Memasukkan alpukat hijau yang keras ke suhu dingin akan menekan aktivitas enzim, menghentikan proses pematangan secara permanen, dan menyebabkan kerusakan dingin yang membuat daging buah menjadi hitam. Matangkan selalu pada suhu ruang hingga kulitnya gelap sebelum didinginkan."
+                    },
+                    {
+                        "question": "Bagaimana cara menyimpan sisa potongan alpukat agar tidak berubah cokelat?",
+                        "answer": "Biarkan bijinya tetap menempel, oleskan tipis jus lemon atau minyak zaitun pada permukaan potongan, bungkus rapat dengan plastik wrap yang menempel langsung tanpa ada celah udara, lalu simpan dalam wadah kedap udara di kulkas."
+                    }
+                ]
+            }
+        }
     }
-  }
 }

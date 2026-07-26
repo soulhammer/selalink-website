@@ -6,7 +6,7 @@ pubDate: "2026-02-03"
 updatedDate: "2026-02-03"
 category: "FreshSelf"
 tags: ["ペットケア","ペット健康","サモエド (Canis lupus familiaris / Samoyed)"]
-heroImage: "/images/blog/samoyed_care.png"
+heroImage: "/images/blog/samoyed_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "AKCサモエド公式ガイド＆OFA（動物整形外科財団）股関節ガイドライン"

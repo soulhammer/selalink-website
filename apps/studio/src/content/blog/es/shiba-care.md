@@ -6,7 +6,7 @@ pubDate: "2026-01-29"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
 tags: ["CuidadoMascotas","SaludMascotas","Shiba Inu"]
-heroImage: "/images/blog/shiba_care.png"
+heroImage: "/images/blog/shiba_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Club Nacional del Shiba Inu de América y directrices de modificación de conducta de IAABC"

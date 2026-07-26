@@ -35,9 +35,16 @@ BuildSelf 앱의 위인 습관 관련 블로그 포스트 헤더 이미지(`hero
 
 ---
 
-## 4. 반려동물 블로그 생성 규칙 (Pet Blog Content Rule)
+## 4. 반려동물 블로그 생성 규칙 및 이미지 가이드라인 (Pet Blog Content & Image Guidelines)
 *   **세부 품종/종류 단위 작성**: 사용자가 반려동물(개, 고양이, 소형 동물 등) 관련 블로그 포스트를 추가하도록 요청할 때, '강아지 전체 케어법', '고양이 전체 케어법'처럼 광범위한 대분류 동물 단위로 작성해서는 절대 안 됩니다.
 *   **정밀 타겟 품종 선정**: 반드시 세부 품종(견종, 묘종 및 구체적인 소형 동물의 세부 종류. 예: 골든 리트리버, 러시안 블루, 네덜란드 드워프 토끼, 골든 햄스터 등)을 특정하고 타겟하여 해당 품종의 구체적인 유전성 특성, 건강 수칙, 올바른 보살핌 방법을 분할해서 정밀하게 담은 포스트로 작성해야 합니다.
+*   **이미지 스타일 및 컨셉 (Image Style & Concept)**:
+    *   위인 습관 블로그와 동일하게 실사 사진이나 조잡한 3D 모델 대신, 세련되고 현대적인 **모던 벡터 일러스트(Modern Vector Illustration)** 또는 **2.5D 플랫 일러스트(Flat Illustration with Soft Gradients)** 스타일로 생성합니다.
+    *   **배색 및 분위기(Color Palette)**: 어두운 인디고, 바이올렛, 슬레이트 그레이 등의 차분한 다크 모드 톤을 배경으로 깔고, 부드러운 조명(Soft lighting) 및 금색/앰버 컬러의 하이라이트 효과를 연출합니다.
+    *   **구도 및 피사체**: 해당 반려동물의 특성과 주요 케어 환경(예: 침대, 은신처, 수조, 사육장 등)을 아늑하게 묘사하고 피사체가 중심에 명확하게 부각되도록 합니다.
+    *   **기타 규칙**: 이미지 내 불필요한 텍스트(글자)는 절대 삽입하지 않습니다.
+*   **프롬프트 공식 예시**:
+    > "A stylized modern vector illustration of [반려동물 품종 이름] [상황/장소 묘사, 예: sitting comfortably in a cozy dark-toned room]. [조명 및 효과, 예: Warm ambient lighting, soft glowing lines]. [색상 조합, 예: Dark purple and indigo color scheme with amber accents]. Minimalist and premium design style for a pet care blog post header. No text, high quality."
 
 ---
 

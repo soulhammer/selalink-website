@@ -6,7 +6,7 @@ pubDate: "2026-05-31"
 updatedDate: "2026-05-31"
 category: "FreshSelf"
 tags: ["SoinAnimaux","SanteAnimaux","Chat Munchkin (Felis catus)"]
-heroImage: "/images/blog/munchkin_care.png"
+heroImage: "/images/blog/munchkin_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Standard du Munchkin de la Cat Fanciers' Association (CFA) et Directives d'Orthopédie Vétérinaire"

@@ -1,516 +1,516 @@
 {
-  "abyssinian-guinea-pig-care": {
-    "pubDate": "2026-06-12",
-    "updatedDate": "2026-06-12",
-    "locales": {
-      "en": {
-        "title": "Abyssinian Guinea Pig Vitamin C Guide and 3-Step Respiratory Health Daily Routine",
-        "description": "Essential care for the rosette-coated Abyssinian guinea pig. Learn how to meet their critical Vitamin C requirements and manage their habitat for optimal respiratory safety.",
-        "authority": "Royal Society for the Prevention of Cruelty to Animals (RSPCA) Rodent Care Guidelines and exotic veterinary clinical standards",
-        "profile": {
-          "breed": "Abyssinian Guinea Pig",
-          "lifespan": "5 - 7 Years",
-          "sleep_pattern": "4 - 6 Hours (Polyphasic - Short Bursts of Activity)",
-          "temperament": "Social, Energetic, Vocal, Curious, Friendly"
+    "abyssinian-guinea-pig-care": {
+        "pubDate": "2026-06-12",
+        "updatedDate": "2026-06-12",
+        "locales": {
+            "en": {
+                "title": "Abyssinian Guinea Pig Vitamin C Guide and 3-Step Respiratory Health Daily Routine",
+                "description": "Essential care for the rosette-coated Abyssinian guinea pig. Learn how to meet their critical Vitamin C requirements and manage their habitat for optimal respiratory safety.",
+                "authority": "Royal Society for the Prevention of Cruelty to Animals (RSPCA) Rodent Care Guidelines and exotic veterinary clinical standards",
+                "profile": {
+                    "breed": "Abyssinian Guinea Pig",
+                    "lifespan": "5 - 7 Years",
+                    "sleep_pattern": "4 - 6 Hours (Polyphasic - Short Bursts of Activity)",
+                    "temperament": "Social, Energetic, Vocal, Curious, Friendly"
+                },
+                "intro": "Abyssinian guinea pigs are widely loved for their unique rosettes (swirls of fur) and active, curious nature. Because they lack the enzyme needed to synthesize Vitamin C naturally, a dietary deficit rapidly leads to scurvy, swollen joints, and low immunity. Additionally, their delicate respiratory tracts make cage hygiene and dust-free hay selection vital. Today, PetSelf decodes guinea pig vocal and physical signals and shares a 3-step homecare routine for Vitamin C enrichment and respiratory health.",
+                "whyTitle": "Guinea Pig Communication: Wheeking and Popcorning",
+                "whyDesc": "Guinea pigs are highly vocal and expressive animals that communicate their emotions clearly. They make a loud, high-pitched squeak called 'wheeking' when demanding food or greeting their caregiver. Conversely, they perform a sudden, jerky jump called 'popcorning' when experiencing intense joy and a feeling of complete safety.",
+                "body_signals": [
+                    {
+                        "name": "Wheeking (Loud Squeaking)",
+                        "meaning": "An excitement call or food request, typically triggered by hearing food packaging open or seeing their caregiver approach with fresh vegetables.",
+                        "response": "Provide fresh bell peppers or Vitamin C supplements, using this moment to build trust and strengthen your bond."
+                    },
+                    {
+                        "name": "Popcorning (Sudden Jumping)",
+                        "meaning": "Jumping straight up in the air with sudden twists, showing pure joy, vitality, and emotional comfort.",
+                        "response": "Ensure their play space is free of hard edges or hazards so they can jump safely without risk of injury."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Vitamin C Supplementation & Fresh Hay Check",
+                        "text": "Administer vet-approved Vitamin C supplements directly or feed high-Vitamin C fresh vegetables like bell peppers (avoid adding Vitamin C to water as it degrades quickly). Fill the rack with fresh Timothy hay."
+                    },
+                    {
+                        "name": "Afternoon: Cage Spot Cleaning & Dust Control",
+                        "text": "Spot-clean soiled bedding to prevent harmful ammonia buildup. Gently shake Timothy hay outside before placing it in the cage to reduce airborne dust and protect their lungs."
+                    },
+                    {
+                        "name": "Evening: Health Inspection & Social Interaction",
+                        "text": "Inspect eyes and nose for discharge (early signs of URI) and check the skin under their rosettes. Spend quality time interacting gently to satisfy their social needs."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Can I feed my guinea pig oranges or citrus fruits for Vitamin C?",
+                        "answer": "Citrus fruits contain high levels of sugar and citric acid, which can cause painful mouth sores (cheilitis) and digestive distress. It is much safer to feed Vitamin C-rich, low-sugar vegetables like bell peppers or formulated guinea pig supplements."
+                    },
+                    {
+                        "question": "Can Abyssinian guinea pigs live alone?",
+                        "answer": "No. Guinea pigs are herd animals with strong social needs and can suffer from severe depression and lethargy if kept alone. They should always be housed in compatible same-sex pairs or neutered groups."
+                    }
+                ],
+                "tags": [
+                    "Guinea Pig Care",
+                    "Vitamin C for Pets",
+                    "Respiratory Health",
+                    "Small Animal Habit"
+                ]
+            },
+            "ja": {
+                "title": "アビシニアンギニアピッグのビタミンC管理と呼吸器保護の3ステップルーチン",
+                "description": "つむじのある被毛が特徴のアビシニアンギニアピッグ。体内で合成できない必須ビタミンCの与え方と、デリケートな呼吸器を守る3ステップルーチンについて解説します。",
+                "authority": "英国王立動物虐待防止協会（RSPCA）げっ歯類飼育基準およびエキゾチック獣医学ガイドライン",
+                "profile": {
+                    "breed": "アビシニアンギニアピッグ (Abyssinian Guinea Pig)",
+                    "lifespan": "5 〜 7年",
+                    "sleep_pattern": "4 〜 6時間 (多相性 - 1日を通して短い活動と睡眠を繰り返す)",
+                    "temperament": "社交的、活発、声が豊か、好奇心旺盛、人懐っこい"
+                },
+                "intro": "体全体にある「ロゼット（つむじ）」と呼ばれる個性的な巻き毛と、愛らしい鳴き声で人気のアビシニアンギニアピッグ。モルモットは体内でビタミンCを合成できないため、食事から毎日摂取しなければ壊血病や関節の腫れ、免疫低下を引き起こします。また、呼吸器が非常にデリケートなため、ケージ内の衛生管理と牧草の粉塵対策が欠かせません。今回は、モルモット特有の感情表現を解説し、ビタミンC補給と呼吸器を守る3ステップのホームケアルーチンをご紹介します。",
+                "whyTitle": "モルモットの感情表現：プイプイ鳴きとポップコーニング",
+                "whyDesc": "モルモットは声と体を使って感情を豊かに表現します。おやつをねだる時や飼い主に挨拶する時には、高音で「プイプイ（Wheeking）」と大きく鳴きます。また、安全を感じて最高に嬉しい状態の時には、突然その場でピョンピョンと跳ね上がる「ポップコーニング（Popcorning）」という独特なジャンプを見せます。",
+                "body_signals": [
+                    {
+                        "name": "プイプイ鳴き (Wheeking)",
+                        "meaning": "興奮や期待を示しており、おやつの袋の音や野菜を準備する音に反応して「野菜をちょうだい」と要求している状態です。",
+                        "response": "新鮮なパプリカや小動物用ビタミンCサプリを与え、信頼関係を築くコミュニケーションの時間にします。"
+                    },
+                    {
+                        "name": "ポップコーニング (Popcorning)",
+                        "meaning": "突然その場で跳ね上がったり体をひねったりする動作で、嬉しさと安心感が爆発しているサインです。",
+                        "response": "跳ねた拍子にケージの角や固い食器にぶつかって怪我をしないよう、安全なレイアウトにしておきます。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：ビタミンCの補給と新鮮なチモシーの補充",
+                        "text": "水に溶かすと光で分解されやすいため、サプリメントやビタミンCが豊富なパプリカなどを直接与えます。新鮮なチモシーを補充します。"
+                    },
+                    {
+                        "name": "昼：ケージ内の部分掃除と牧草の粉塵除去",
+                        "text": "アンモニアの発生を防ぐため尿で濡れた床材を部分掃除します。補充するチモシーはあらかじめ外で軽く振って粉塵を落とし、呼吸器への刺激を減らします。"
+                    },
+                    {
+                        "name": "夜：呼吸器のチェックとスキンシップ",
+                        "text": "鼻水や目ヤニ（呼吸器感染症の初期症状）がないか確認し、巻き毛の奥の皮膚に異常がないか点検します。優しく撫でて交流します。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "ビタミンC補給のためにオレンジなどの柑橘類を与えてもいいですか？",
+                        "answer": "柑橘類は糖分と酸が強すぎるため、口内炎や消化不良の原因になります。パプリカなどビタミンCが多く糖分の少ない野菜を与えるか、小動物用のビタミンCサプリメントを与えるのが安全です。"
+                    },
+                    {
+                        "question": "モルモットは1匹だけで飼うことができますか？",
+                        "answer": "モルモットは本来、群れで暮らす社会性の高い動物です。1匹だけで飼うと深い孤独からうつ状態や食欲不振になるリスクがあるため、相性の良い同性のペアや去勢済みの複数匹での飼育が推奨されます。"
+                    }
+                ],
+                "tags": [
+                    "モルモット飼育",
+                    "ビタミンCサプリ",
+                    "呼吸器の健康",
+                    "小動物ライフ"
+                ]
+            },
+            "zh": {
+                "title": "阿比西尼亚天竺鼠维生素C补充指南与呼吸道保护3阶段日常流程",
+                "description": "针对拥有旋转毛旋的阿比西尼亚天竺鼠（豚鼠）护理。学习如何补充必不可少的维生素C，以及预防呼吸道感染的3阶段日常环境管理。",
+                "authority": "英国皇家防止虐待动物协会 (RSPCA) 啮齿类动物护理指南与非传统宠物兽医标准",
+                "profile": {
+                    "breed": "阿比西尼亚天竺鼠 (Abyssinian Guinea Pig)",
+                    "lifespan": "5 ~ 7年",
+                    "sleep_pattern": "4 ~ 6小时 (多相性 - 短段活动与休息)",
+                    "temperament": "社会化、活泼、爱叫、好奇心强、友好"
+                },
+                "intro": "阿比西尼亚天竺鼠因其浑身独特的涡旋状逆毛（毛旋）和活泼亲人的性格而广受喜爱。由于体内缺乏合成维生素C所需的酶，一旦饮食缺乏极易导致坏血病、关节肿胀和免疫力急剧下降。同时，天竺鼠的呼吸道非常脆弱，对灰尘极度敏感。今天，PetSelf 将分析天竺鼠的情绪声音与肢体动作，并分享确保维生素C摄入与呼吸道健康的3阶段每日护理流程。",
+                "whyTitle": "天竺鼠的情感表达：Wheek尖叫与爆米花跳跃",
+                "whyDesc": "天竺鼠是感情表达非常丰富且乐于发声的动物。在期盼食物或向主人打招呼时，它们会发出洪亮的“喂喂 (Wheeking)”高频尖叫。而在极度快乐、感到安全与兴奋时，它们会突然原地弹跳，这种独特行为被称为“爆米花跳 (Popcorning)”。",
+                "body_signals": [
+                    {
+                        "name": "喂喂尖叫 (Wheeking)",
+                        "meaning": "极度兴奋或索要食物的叫声，特别是在听到冰箱门开或蔬菜袋声音时发出。",
+                        "response": "适量给予富含维生素C的彩椒或专业维C片，趁机建立亲密的互动关系。"
+                    },
+                    {
+                        "name": "爆米花蹦跳 (Popcorning)",
+                        "meaning": "身体突然原地腾空跃起，甚至在空中扭转，代表其精神状态极佳、充满幸福感与安全感。",
+                        "response": "确保笼舍内没有坚硬尖锐的边角，防止其在开心跳跃时发生碰撞受伤。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：高活性维生素C喂食与提摩西草检查",
+                        "text": "直接喂食天竺鼠专用的维生素C片或富含维C的彩椒（切勿加入饮水中，光照下极易降解）。塞满干净的提摩西干草。"
+                    },
+                    {
+                        "name": "中午：笼舍局部打扫与牧草粉尘控制",
+                        "text": "清理被尿液浸湿的垫料以防氨气积聚。干草在放入草架前在外抖掉粉尘，以防吸入性呼吸道刺激。"
+                    },
+                    {
+                        "name": "晚上：呼吸道筛查健康检查与陪伴",
+                        "text": "检查鼻腔和眼睛是否有分泌物（上呼吸道感染早期症状），触摸逆毛皮肤确认健康。进行温和抚摸与陪伴。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "可以给天竺鼠吃橘子等柑橘类水果补充维生素C吗？",
+                        "answer": "柑橘类水果含有高浓度的糖分和柠檬酸，容易引起天竺鼠口腔溃疡（口唇炎）和腹泻。建议通过彩椒等低糖蔬菜或专业维C片补充。"
+                    },
+                    {
+                        "question": "阿比西尼亚天竺鼠能单独饲养一只吗？",
+                        "answer": "不能。天竺鼠是极度群居的动物，单只饲养会导致严重的孤独抑郁与食欲不振。强烈建议成对（相同性别或已绝育）或小群饲养。"
+                    }
+                ],
+                "tags": [
+                    "天竺鼠护理",
+                    "豚鼠维生素C",
+                    "呼吸道预防",
+                    "小动物饲养"
+                ]
+            },
+            "es": {
+                "title": "Guía de vitamina C de la cobaya abisinia y rutina de 3 pasos para la salud respiratoria",
+                "description": "Cuidado esencial para la cobaya abisinia de pelo con rosetas. Aprenda a cubrir sus necesidades vitales de vitamina C y a gestionar su recinto para proteger su sistema respiratorio.",
+                "authority": "Directrices de Cuidado de Roedores de la RSPCA y Estándares de Clínica Veterinaria de Animales Exóticos",
+                "profile": {
+                    "breed": "Cobaya Abisinia",
+                    "lifespan": "5 ~ 7 años",
+                    "sleep_pattern": "4 ~ 6 horas (polifásico: periodos cortos de actividad y descanso)",
+                    "temperament": "Social, enérgica, vocal, curiosa, amistosa"
+                },
+                "intro": "Las cobayas abisinias son muy queridas por sus características rosetas (remolinos de pelo) y su carácter dinámico y curioso. Al carecer de la enzima necesaria para sintetizar la vitamina C por sí mismas, su deficiencia provoca rápidamente escorbuto, inflamación articular y defensas bajas. Además, su sensible sistema respiratorio exige un estricto control del polvo en el heno y de la higiene. Hoy, PetSelf analiza sus señales sonoras y corporales y comparte una rutina de 3 pasos para asegurar la vitamina C y proteger su salud respiratoria.",
+                "whyTitle": "Comunicación de la cobaya: wheeking y popcorning",
+                "whyDesc": "Las cobayas son animales expresivos que comunican sus emociones vocal y físicamente. Emiten un chillido agudo y fuerte llamado 'wheeking' cuando piden comida o saludan a su cuidador. Por otro lado, cuando experimentan una inmensa alegría y plena seguridad, realizan un salto repentino conocido como 'popcorning'.",
+                "body_signals": [
+                    {
+                        "name": "Wheeking (Chillido agudo)",
+                        "meaning": "Llamada de emoción o demanda de comida, activada al escuchar bolsas de verdura o ver al cuidador.",
+                        "response": "Ofrézcale pimiento fresco rico en vitamina C o un suplemento específico, aprovechando el momento para estrechar lazos."
+                    },
+                    {
+                        "name": "Popcorning (Saltos rápidos)",
+                        "meaning": "Saltos repentinos en el aire con giros, demostrando plena felicidad, vitalidad y bienestar psicológico.",
+                        "response": "Compruebe que el área de juego esté libre de bordes duros para que pueda saltar de forma segura sin riesgo de lesiones."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Suplementación de vitamina C y heno fresco",
+                        "text": "Administre suplementos de vitamina C directamente o verduras ricas en ella como el pimiento (evite el agua, ya que se degrada rápido). Rellene el henero con heno Timothy fresco."
+                    },
+                    {
+                        "name": "Tarde: Limpieza focalizada y control de polvo",
+                        "text": "Retire el sustrato húmedo de orina para prevenir gases nocivos. Sacuda el heno al aire libre antes de introducirlo para minimizar el polvo respirable."
+                    },
+                    {
+                        "name": "Noche: Examen de salud y socialización",
+                        "text": "Revise que no tenga mucosidad en ojos o nariz (signo precoz de infección respiratoria) y examine la piel tras las rosetas. Dedíquele tiempo con caricias suaves."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Puedo darle naranja u otros cítricos para aportar vitamina C?",
+                        "answer": "Los cítricos contienen demasiado azúcar y ácido cítrico, pudiendo causar llagas en la boca (queilitis) y problemas digestivos. Es mucho más seguro ofrecer pimientos (pimentón) o suplementos veterinarios para cobayas."
+                    },
+                    {
+                        "question": "¿Las cobayas abisinias pueden vivir solas?",
+                        "answer": "No. Las cobayas son animales gregarios con profundas necesidades sociales. Vivir solas les genera gran tristeza, apatía y estrés. Deben mantenerse en parejas del mismo sexo o grupos con machos castrados."
+                    }
+                ],
+                "tags": [
+                    "Cuidado de Cobayas",
+                    "Vitamina C Cobaya",
+                    "Salud Respiratoria",
+                    "Mascotas Exóticas"
+                ]
+            },
+            "fr": {
+                "title": "Guide de vitamine C du cochon d'Inde abyssinien et routine de 3 étapes pour la santé respiratoire",
+                "description": "Soins essentiels pour le cochon d'Inde abyssinien aux poils en rosettes. Apprenez à répondre à ses besoins cruciaux en vitamine C et à gérer son habitat pour protéger sa santé respiratoire.",
+                "authority": "Directives de soin des rongeurs de la RSPCA et normes vétérinaires pour nouveaux animaux de compagnie (NAC)",
+                "profile": {
+                    "breed": "Cochon d'Inde Abyssinien",
+                    "lifespan": "5 ~ 7 ans",
+                    "sleep_pattern": "4 ~ 6 heures (polyphasique : courtes alternances d'activité et de repos)",
+                    "temperament": "Social, dynamique, vocal, curieux, amical"
+                },
+                "intro": "Le cochon d'Inde abyssinien est très apprécié pour ses rosettes (épi de poils) uniques et son tempérament vif. Ne possédant pas l'enzyme nécessaire pour synthétiser la vitamine C, une carence alimentaire entraîne rapidement le scorbut, des douleurs articulaires et une baisse d'immunité. De plus, son système respiratoire fragile exige une hygiène rigoureuse et un foin dépoussiéré. Aujourd'hui, PetSelf décrypte son langage sonore et corporel et propose une routine en 3 étapes pour préserver sa santé.",
+                "whyTitle": "Langage du cobaye : cris aigus (wheeking) et sauts (popcorning)",
+                "whyDesc": "Le cochon d'Inde est un animal très expressif qui communique clairement ses émotions. Il émet un sifflement aigu appelé 'wheeking' lorsqu'il réclame à manger. Lorsqu'il éprouve une joie intense et un sentiment de sécurité totale, il effectue des sauts soudains appelés 'popcorning'.",
+                "body_signals": [
+                    {
+                        "name": "Wheeking (Sifflement aigu)",
+                        "meaning": "Cri d'excitation ou de réclamation, souvent déclenché par le bruit d'un sachet de légumes ou l'approche du soignant.",
+                        "response": "Offrez-lui un morceau de poivron frais ou un comprimé de vitamine C pour renforcer votre lien affectif."
+                    },
+                    {
+                        "name": "Popcorning (Sauts de joie)",
+                        "meaning": "Bonds soudains avec vrilles sur place, témoignant d'un bonheur pur, d'une grande vitalité et d'un confort absolu.",
+                        "response": "Assurez-vous que l'espace ne présente aucun angle dur ou danger sur lequel il pourrait se blesser en sautant."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Apport en vitamine C et foin frais",
+                        "text": "Administrez la vitamine C directement en comprimé/pipette ou via des poivrons frais (évitez de la mettre dans l'eau car elle se dégrade vite). Remplissez le râtelier de foin de fléole (Timothy)."
+                    },
+                    {
+                        "name": "Après-midi : Nettoyage localisé et dépoussiérage du foin",
+                        "text": "Retirez la litière souillée par l'urine pour limiter les vapeurs d'ammoniac. Secouez le foin à l'extérieur avant de le distribuer afin de réduire les poussières inhalées."
+                    },
+                    {
+                        "name": "Soir : Examen de santé respiratoire et caresses",
+                        "text": "Contrôlez l'absence d'écoulement nasal ou oculaire (signe précoce d'infection respiratoire) et vérifiez la peau sous les rosettes. Prenez le temps de passer un moment doux avec lui."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Puis-je donner des agrumes comme de l'orange pour la vitamine C ?",
+                        "answer": "Les agrumes contiennent trop de sucre et d'acide citrique, ce qui peut causer des blessures buccales (chéilite) et des troubles digestifs. Privilégiez le poivron ou des compléments de vitamine C vétérinaires."
+                    },
+                    {
+                        "question": "Le cochon d'Inde abyssinien peut-il vivre seul ?",
+                        "answer": "Non. Le cochon d'Inde est un animal grégaire ayant un besoin social fondamental. Vivre seul provoque une profonde dépression et un dépérissement. Il doit impérativement vivre en groupe ou en pair du même sexe (ou stérilisé)."
+                    }
+                ],
+                "tags": [
+                    "Cochon d'Inde",
+                    "Vitamine C Rongeur",
+                    "Litière Sans Poussière",
+                    "Nouveau Animal Compagnie"
+                ]
+            },
+            "de": {
+                "title": "Abessinier-Meerschweinchen Vitamin-C-Leitfaden und 3-Schritt-Atemwegsgesundheit-Tagesroutine",
+                "description": "Essenzielle Pflege für das Abessinier-Meerschweinchen mit Wirbeln. Erfahren Sie, wie Sie den lebenswichtigen Vitamin-C-Bedarf decken und Staub in der Haltung vermeiden.",
+                "authority": "Richtlinien zur Haltung von Nagetieren der RSPCA und tierärztliche klinische Standards für Kleintiere",
+                "profile": {
+                    "breed": "Abessinier-Meerschweinchen",
+                    "lifespan": "5 ~ 7 Jahre",
+                    "sleep_pattern": "4 ~ 6 Stunden (polyphasisch - kurze Aktivitäts- und Ruhephasen)",
+                    "temperament": "Sozial, energisch, lautstark, neugierig, freundlich"
+                },
+                "intro": "Abessinier-Meerschweinchen sind wegen ihrer Wirbel ('Rosetten') im Fell und ihres lebhaften Wesens überaus beliebt. Da ihnen das Enzym zur eigenen Vitamin-C-Synthese fehlt, führt ein Mangel schnell zu Skorbut, Gelenkschmerzen und Immunschwäche. Zudem erfordern ihre empfindlichen Atemwege staubfreies Heu und hohe Gehegehygiene. Heute entschlüsselt PetSelf die Lautäußerungen und Signale der Meerschweinchen und teilt eine 3-Schritt-Tagesroutine für Vitamin C und Atemwegsgesundheit.",
+                "whyTitle": "Meerschweinchen-Kommunikation: Quieken und Popcornen",
+                "whyDesc": "Meerschweinchen sind sehr lautstarke und ausdrucksstarke Tiere. Sie machen ein lautes Quieken ('Wheeking'), wenn sie Futter einfordern oder den Halter begrüßen. Bei großer Freude und voller Sicherheit springen sie plötzlich wild in die Luft, was als 'Popcornen' ('Popcorning') bezeichnet wird.",
+                "body_signals": [
+                    {
+                        "name": "Quieken (Wheeking)",
+                        "meaning": "Ein Ruf der Vorfreude und Futterforderung, meist ausgelöst durch das Rascheln von Futtertüten oder das Annähern des Halters.",
+                        "response": "Geben Sie ein Stück Vitamin-C-reiche Paprika oder ein Direktpräparat, um das Vertrauen sanft zu stärken."
+                    },
+                    {
+                        "name": "Popcornen (Popcorning)",
+                        "meaning": "Plötzliches Hochspringen und Drehen in der Luft als Ausdruck von purem Glück, Ausgelassenheit und Wohlbefinden.",
+                        "response": "Achten Sie darauf, dass keine harten Kanten im Gehege stehen, an denen sich das Tier beim Springen verletzen könnte."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Vitamin-C-Gabe & Heu-Kontrolle",
+                        "text": "Geben Sie Vitamin-C-Präparate direkt oder füttern Sie rote Paprika (nicht über das Tränkwasser geben, da es sich schnell zersetzt). Füllen Sie frisches Timothee-Heu (Timothy) auf."
+                    },
+                    {
+                        "name": "Nachmittag: Gehegebereinigung & Staubkontrolle",
+                        "text": "Reinigen Sie urinfeuchte Stellen zur Vermeidung von Ammoniak. Schütteln Sie das Heu vor dem Füttern draußen aus, um Staub zu minimieren."
+                    },
+                    {
+                        "name": "Abend: Atemwegs-Check & Zuwendung",
+                        "text": "Überprüfen Sie Augen und Nase auf Ausfluss (Anzeichen eines Atemwegsinfekts) und untersuchen Sie das Fell unter den Rosetten. Nehmen Sie sich Zeit für ruhige Zuwendung."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Kann ich Meerschweinchen Orangen oder Zitrusfrüchte für Vitamin C geben?",
+                        "answer": "Zitrusfrüchte enthalten zu viel Zucker und Fruchtsäure, was zu schmerzhaften Lippenentzündungen (Lippengrind) und Verdauungsstörungen führen kann. Besser geeignet sind rote/grüne Paprika oder Vitamin-C-Präparate für Nager."
+                    },
+                    {
+                        "question": "Können Abessinier-Meerschweinchen alleine leben?",
+                        "answer": "Nein. Meerschweinchen sind hochsoziale Rudeltiere. Einzeltierhaltung führt zu Einsamkeit, Depressionen und Fressunlust. Sie müssen mindestens zu zweit (gleichgeschlechtlich oder kastriert) gehalten werden."
+                    }
+                ],
+                "tags": [
+                    "Meerschweinchen",
+                    "Vitamin C für Nager",
+                    "Atemwegsgesundheit",
+                    "Gehegehygiene"
+                ]
+            },
+            "pt": {
+                "title": "Guia de vitamina C do porquinho-da-índia abissínio e rotina de 3 passos para a saúde respiratória",
+                "description": "Cuidados essenciais para o porquinho-da-índia abissínio de pelo com rosetas. Saiba como suprir a vitamina C e gerir a gaiola para evitar poeiras nos pulmões.",
+                "authority": "Diretrizes de Cuidado de Roedores da RSPCA e Padrões Clínicos Veterinários de Animais Exóticos",
+                "profile": {
+                    "breed": "Porquinho-da-índia Abissínio",
+                    "lifespan": "5 ~ 7 anos",
+                    "sleep_pattern": "4 ~ 6 horas (polifásico: curtos períodos de atividade e descanso)",
+                    "temperament": "Social, enérgico, vocal, curioso, amigável"
+                },
+                "intro": "Os porquinhos-da-índia abissínios são amados pelas suas rosetas (remoinhos de pelo) e caráter ativo. Por não sintetizarem vitamina C no próprio organismo, a falta deste nutriente leva rapidamente ao escorbuto, dores articulares e baixa imunidade. Como possuem vias respiratórias frágeis, a higiene da gaiola e o feno sem pó são cruciais. Hoje, o PetSelf traduz os sinais sonoros e corporais deles e ensina uma rotina de 3 passos para manter a saúde em dia.",
+                "whyTitle": "Comunicação do porquinho-da-índia: wheeking e popcorning",
+                "whyDesc": "Os porquinhos-da-índia são animais muito expressivos que comunicam as suas emoções claramente. Emitem um guincho agudo chamado 'wheeking' para pedir comida ou saudar o tutor. E quando estão radiantes de felicidade e seguros, dão saltos repentinos no ar conhecidos como 'popcorning'.",
+                "body_signals": [
+                    {
+                        "name": "Wheeking (Guincho agudo)",
+                        "meaning": "Chamamento de excitação ou pedido de comida, normalmente ao ouvir pacotes de vegetais a abrir ou ver o tutor.",
+                        "response": "Ofereça um pedaço de pimento fresco rico em vitamina C e aproveite para fortalecer os laços de confiança."
+                    },
+                    {
+                        "name": "Popcorning (Saltos rápidos)",
+                        "meaning": "Pulos repentinos no ar que mostram que o animal está muito feliz, ativo e num ambiente totalmente seguro.",
+                        "response": "Verifique se o recinto não tem cantos afiados nos quais ele possa bater e magoar-se ao saltar."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Suplementação de vitamina C e feno fresco",
+                        "text": "Dê o suplemento de vitamina C diretamente ou ofereça pimento verde/vermelho (evite colocar na água, pois degrada-se rapidamente). Encha o suporte com feno Timothy fresco."
+                    },
+                    {
+                        "name": "Tarde: Limpeza localizada e controlo de pó",
+                        "text": "Retire o substrato molhado de urina para conter a amónia. Sacuda o feno ao ar livre antes de o colocar na gaiola para reduzir o pó."
+                    },
+                    {
+                        "name": "Noite: Exame de saúde respiratória e socialização",
+                        "text": "Verifique se o nariz ou olhos têm secreções (sinal de infeção respiratória) e inspecione a pele entre as rosetas. Dedique-lhe tempo com carinho."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Posso dar laranja ao porquinho para fornecer vitamina C?",
+                        "answer": "As frutas cítricas são muito ácidas e ricas em açúcar, podendo causar feridas na boca (queilite) e diarreia. O pimento ou suplementos específicos para roedores são escolhas muito mais seguras."
+                    },
+                    {
+                        "question": "Os porquinhos-da-índia abissínios podem viver sozinhos?",
+                        "answer": "Não. Os porquinhos-da-índia são extremamente sociáveis e vivem em bando. Viver sozinho causa tristeza profunda, depressão e apatia. Devem viver em pares do mesmo sexo ou pequenos grupos."
+                    }
+                ],
+                "tags": [
+                    "Porquinho-da-índia",
+                    "Vitamina C Roedores",
+                    "Higiene Respiratória",
+                    "Pets Exóticos"
+                ]
+            },
+            "id": {
+                "title": "Panduan Vitamin C Marmut Abyssinian dan Rutinitas 3 Langkah Kesehatan Pernapasan",
+                "description": "Perawatan esensial untuk marmut Abyssinian berbulu pusaran (rosettes). Pelajari cara memenuhi kebutuhan vitamin C dan kelola kandang dari debu jerami.",
+                "authority": "Pedoman Perawatan Hewan Pengerat RSPCA dan Standar Klinis Dokter Hewan Eksotis",
+                "profile": {
+                    "breed": "Marmut Abyssinian (Guinea Pig)",
+                    "lifespan": "5 ~ 7 tahun",
+                    "sleep_pattern": "4 ~ 6 jam (polifasik - siklus singkat aktivitas dan istirahat)",
+                    "temperament": "Sosial, aktif, vokal, penasaran, ramah"
+                },
+                "intro": "Marmut Abyssinian disukai karena pola pusaran bulu ('rosettes') yang unik serta sifatnya yang aktif dan penuh rasa ingin tahu. Karena tidak memiliki enzim untuk memproduksi vitamin C secara alami, kekurangan nutrisi ini dapat memicu penyakit skorbut (sariawan berat), sendi bengkak, dan penurunan imun. Selain itu, pernapasan mereka yang sensitif membuat kebersihan kandang dan jerami bebas debu sangat vital. Hari ini, PetSelf mengulas bahasa tubuh marmut dan membagikan 3 langkah rutinitas pemenuhan vitamin C serta kesehatan pernapasan.",
+                "whyTitle": "Komunikasi Marmut: Wheeking dan Popcorning",
+                "whyDesc": "Marmut adalah hewan yang sangat vokal dan ekspresif. Mereka mengeluarkan suara cicitan nyaring yang disebut 'wheeking' saat meminta makanan. Di sisi lain, mereka melakukan lompatan mendadak di udara yang disebut 'popcorning' saat merasa sangat gembira dan aman.",
+                "body_signals": [
+                    {
+                        "name": "Cicitan Nyaring (Wheeking)",
+                        "meaning": "Panggilan kegembiraan atau permintaan makan, biasanya terdengar saat mereka mendengar suara kantong sayur atau melihat pemilik mendekat.",
+                        "response": "Berikan potongan paprika segar kaya vitamin C atau suplemen khusus untuk mempererat hubungan emosional."
+                    },
+                    {
+                        "name": "Lompatan Popcorn (Popcorning)",
+                        "meaning": "Melompat tegak ke udara secara mendadak sebagai ekspresi kegembiraan murni, stamina tinggi, dan rasa aman.",
+                        "response": "Pastikan area bermain bebas dari benda keras atau tajam agar mereka tidak cedera saat melompat gembira."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Suplementasi Vitamin C & Jerami Segar",
+                        "text": "Berikan suplemen vitamin C khusus secara langsung atau beri paprika segar (hindari mencampur ke air karena cepat terdegradasi). Isi rak dengan jerami Timothy segar."
+                    },
+                    {
+                        "name": "Siang: Pembersihan Kandang & Pencegahan Debu",
+                        "text": "Bersihkan alas kandang yang basah untuk mencegah penumpukan gas amonia. Kebaskan jerami di luar ruangan sebelum dimasukkan kandang agar debu terbuang."
+                    },
+                    {
+                        "name": "Malam: Pemeriksaan Pernapasan & Sosialisasi",
+                        "text": "Pastikan hidung dan mata bebas dari lendir (gejala awal infeksi saluran napas) dan periksa kulit di sela rosettes bulu. Ajak berinteraksi dengan lembut."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Bolehkah saya memberikan buah jeruk kepada marmut untuk vitamin C?",
+                        "answer": "Buah sitrus terlalu asam dan tinggi gula, yang dapat memicu luka di mulut (cheilitis) dan diare. Paprika manis (bell pepper) atau tablet vitamin C khusus jauh lebih aman."
+                    },
+                    {
+                        "question": "Apakah marmut Abyssinian bisa dipelihara sendirian?",
+                        "answer": "Tidak. Marmut adalah hewan koloni yang sangat sosial. Memelihara satu ekor saja akan membuat mereka depresi berat dan kehilangan nafsu makan. Sebaiknya dipelihara berpasangan sesama jenis atau kelompok."
+                    }
+                ],
+                "tags": [
+                    "Perawatan Marmut",
+                    "Vitamin C Marmut",
+                    "Saluran Napas Hewan",
+                    "Hewan Pengerat"
+                ]
+            },
+            "ko": {
+                "title": "아비시니안 기니피그 비타민 C 가이드와 호흡기 보호 3단계 루틴",
+                "description": "가마(로제트) 털이 특징인 아비시니안 기니피그 케어법. 필수 비타민 C 급여법과 예민한 호흡기 질환을 예방하는 3단계 관리 루틴을 다룹니다.",
+                "authority": "영국 왕립동물학대방지협회(RSPCA) 설치류 관리 가이드라인 및 소동물 수의학 임상 표준",
+                "profile": {
+                    "breed": "아비시니안 기니피그 (Abyssinian Guinea Pig)",
+                    "lifespan": "5 ~ 7년",
+                    "sleep_pattern": "4 ~ 6시간 (다상성 - 짧은 주기의 활동과 휴식)",
+                    "temperament": "사회적임, 활발함, 울음소리 풍부함, 호기심 많음, 친근함"
+                },
+                "intro": "몸 전체에 회오리치는 모양의 가마(로제트) 털을 가진 아비시니안 기니피그는 활발하고 호기심 많은 성격으로 인기가 많습니다. 기니피그는 체내에서 비타민 C를 스스로 합성하지 못하는 생리 구조를 가지고 있어, 결핍 시 괴혈병, 관절 부종, 면역력 급감을 유발합니다. 또한 호흡기가 매우 취약하여 먼지 없는 건초 급여와 케이지 위생 관리가 필수적입니다. 오늘 PetSelf에서는 기니피그의 감정 소리와 몸짓을 분석하고, 비타민 C 강화 및 호흡기 안전을 돕는 3단계 홈케어 루틴을 다룹니다.",
+                "whyTitle": "기니피그의 감정 시그널: 꾸잉꾸잉 소리와 팝코닝 행동",
+                "whyDesc": "기니피그는 목소리와 행동으로 감정을 아주 적극적으로 표현하는 동물입니다. 먹이를 원하거나 보호자를 반길 때는 높은 톤으로 '꾸잉꾸잉(Wheeking)' 소리를 크게 냅니다. 또한 최고의 기쁨과 안전함을 느낄 때는 제자리에서 팝콘처럼 톡톡 튀어 오르는 '팝코닝(Popcorning)' 점프를 보여 줍니다.",
+                "body_signals": [
+                    {
+                        "name": "꾸잉꾸잉 소리 (Wheeking)",
+                        "meaning": "흥분과 기대를 뜻하며, 대개 냉장고 문 열리는 소리나 야채 봉지 소리를 듣고 야채를 달라고 요구하는 신호입니다.",
+                        "response": "신선한 파프리카나 기니피그용 비타민 C 영양제를 급여하며 교감의 기회로 삼습니다."
+                    },
+                    {
+                        "name": "팝코닝 행동 (Popcorning)",
+                        "meaning": "제자리에서 툭툭 튀어 오르고 몸을 비트는 행동으로, 극도의 행복감과 심리적 안전을 만끽하고 있다는 표시입니다.",
+                        "response": "점프하다가 케이지 벽면이나 딱딱한 식기에 부딪혀 부상당하지 않도록 안전한 실내 구조를 점검해 줍니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 고활성 비타민 C 직접 급여 및 건초 확인",
+                        "text": "물에 녹이면 산화되어 파괴되므로 영양제나 비타민 C가 풍부한 야채를 직접 먹입니다. 신선한 티모시 건초를 급여합니다."
+                    },
+                    {
+                        "name": "낮: 화장실 부분 청소 및 건초 먼지 털기",
+                        "text": "소변으로 젖은 베딩을 걷어내어 암모니아 발생을 막고, 건초는 밖에서 털어 먼지를 제거한 후 급여대에 채웁니다."
+                    },
+                    {
+                        "name": "밤: 호흡기 감염 초기 검사 및 가벼운 핸들링",
+                        "text": "콧물이나 눈곱(호흡기 감염의 초기 증상)이 없는지 확인하고, 가마 털 안쪽의 피부 상태를 점검한 뒤 부드럽게 쓰다듬어 줍니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "비타민 C 보충을 위해 귤이나 오렌지를 주어도 되나요?",
+                        "answer": "감귤류 과일은 당도가 높고 구연산 산도가 강해 기니피그의 구강 점막을 자극(구순염 유발)하고 설사를 유발할 수 있습니다. 당도가 낮고 비타민 C가 높은 파프리카나 전용 사료/영양제를 활용해야 합니다."
+                    },
+                    {
+                        "question": "아비시니안 기니피그를 한 마리만 키워도 되나요?",
+                        "answer": "아닙니다. 기니피그는 무리 생활을 하는 매우 사회적인 동물이므로, 혼자 기르면 깊은 우울감과 외로움으로 인해 거식증에 걸릴 수 있습니다. 성별이 같거나 중성화된 두 마리 이상을 함께 기르는 것을 권장합니다."
+                    }
+                ],
+                "tags": [
+                    "기니피그케어",
+                    "기니피그비타민C",
+                    "소동물호흡기질환",
+                    "기니피그팝코닝"
+                ]
+            }
         },
-        "intro": "Abyssinian guinea pigs are widely loved for their unique rosettes (swirls of fur) and active, curious nature. Because they lack the enzyme needed to synthesize Vitamin C naturally, a dietary deficit rapidly leads to scurvy, swollen joints, and low immunity. Additionally, their delicate respiratory tracts make cage hygiene and dust-free hay selection vital. Today, PetSelf decodes guinea pig vocal and physical signals and shares a 3-step homecare routine for Vitamin C enrichment and respiratory health.",
-        "whyTitle": "Guinea Pig Communication: Wheeking and Popcorning",
-        "whyDesc": "Guinea pigs are highly vocal and expressive animals that communicate their emotions clearly. They make a loud, high-pitched squeak called 'wheeking' when demanding food or greeting their caregiver. Conversely, they perform a sudden, jerky jump called 'popcorning' when experiencing intense joy and a feeling of complete safety.",
-        "body_signals": [
-          {
-            "name": "Wheeking (Loud Squeaking)",
-            "meaning": "An excitement call or food request, typically triggered by hearing food packaging open or seeing their caregiver approach with fresh vegetables.",
-            "response": "Provide fresh bell peppers or Vitamin C supplements, using this moment to build trust and strengthen your bond."
-          },
-          {
-            "name": "Popcorning (Sudden Jumping)",
-            "meaning": "Jumping straight up in the air with sudden twists, showing pure joy, vitality, and emotional comfort.",
-            "response": "Ensure their play space is free of hard edges or hazards so they can jump safely without risk of injury."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Morning: Vitamin C Supplementation & Fresh Hay Check",
-            "text": "Administer vet-approved Vitamin C supplements directly or feed high-Vitamin C fresh vegetables like bell peppers (avoid adding Vitamin C to water as it degrades quickly). Fill the rack with fresh Timothy hay."
-          },
-          {
-            "name": "Afternoon: Cage Spot Cleaning & Dust Control",
-            "text": "Spot-clean soiled bedding to prevent harmful ammonia buildup. Gently shake Timothy hay outside before placing it in the cage to reduce airborne dust and protect their lungs."
-          },
-          {
-            "name": "Evening: Health Inspection & Social Interaction",
-            "text": "Inspect eyes and nose for discharge (early signs of URI) and check the skin under their rosettes. Spend quality time interacting gently to satisfy their social needs."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Can I feed my guinea pig oranges or citrus fruits for Vitamin C?",
-            "answer": "Citrus fruits contain high levels of sugar and citric acid, which can cause painful mouth sores (cheilitis) and digestive distress. It is much safer to feed Vitamin C-rich, low-sugar vegetables like bell peppers or formulated guinea pig supplements."
-          },
-          {
-            "question": "Can Abyssinian guinea pigs live alone?",
-            "answer": "No. Guinea pigs are herd animals with strong social needs and can suffer from severe depression and lethargy if kept alone. They should always be housed in compatible same-sex pairs or neutered groups."
-          }
-        ],
-        "tags": [
-          "Guinea Pig Care",
-          "Vitamin C for Pets",
-          "Respiratory Health",
-          "Small Animal Habit"
-        ]
-      },
-      "ja": {
-        "title": "アビシニアンギニアピッグのビタミンC管理と呼吸器保護の3ステップルーチン",
-        "description": "つむじのある被毛が特徴のアビシニアンギニアピッグ。体内で合成できない必須ビタミンCの与え方と、デリケートな呼吸器を守る3ステップルーチンについて解説します。",
-        "authority": "英国王立動物虐待防止協会（RSPCA）げっ歯類飼育基準およびエキゾチック獣医学ガイドライン",
-        "profile": {
-          "breed": "アビシニアンギニアピッグ (Abyssinian Guinea Pig)",
-          "lifespan": "5 〜 7年",
-          "sleep_pattern": "4 〜 6時間 (多相性 - 1日を通して短い活動と睡眠を繰り返す)",
-          "temperament": "社交的、活発、声が豊か、好奇心旺盛、人懐っこい"
-        },
-        "intro": "体全体にある「ロゼット（つむじ）」と呼ばれる個性的な巻き毛と、愛らしい鳴き声で人気のアビシニアンギニアピッグ。モルモットは体内でビタミンCを合成できないため、食事から毎日摂取しなければ壊血病や関節の腫れ、免疫低下を引き起こします。また、呼吸器が非常にデリケートなため、ケージ内の衛生管理と牧草の粉塵対策が欠かせません。今回は、モルモット特有の感情表現を解説し、ビタミンC補給と呼吸器を守る3ステップのホームケアルーチンをご紹介します。",
-        "whyTitle": "モルモットの感情表現：プイプイ鳴きとポップコーニング",
-        "whyDesc": "モルモットは声と体を使って感情を豊かに表現します。おやつをねだる時や飼い主に挨拶する時には、高音で「プイプイ（Wheeking）」と大きく鳴きます。また、安全を感じて最高に嬉しい状態の時には、突然その場でピョンピョンと跳ね上がる「ポップコーニング（Popcorning）」という独特なジャンプを見せます。",
-        "body_signals": [
-          {
-            "name": "プイプイ鳴き (Wheeking)",
-            "meaning": "興奮や期待を示しており、おやつの袋の音や野菜を準備する音に反応して「野菜をちょうだい」と要求している状態です。",
-            "response": "新鮮なパプリカや小動物用ビタミンCサプリを与え、信頼関係を築くコミュニケーションの時間にします。"
-          },
-          {
-            "name": "ポップコーニング (Popcorning)",
-            "meaning": "突然その場で跳ね上がったり体をひねったりする動作で、嬉しさと安心感が爆発しているサインです。",
-            "response": "跳ねた拍子にケージの角や固い食器にぶつかって怪我をしないよう、安全なレイアウトにしておきます。"
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "朝：ビタミンCの補給と新鮮なチモシーの補充",
-            "text": "水に溶かすと光で分解されやすいため、サプリメントやビタミンCが豊富なパプリカなどを直接与えます。新鮮なチモシーを補充します。"
-          },
-          {
-            "name": "昼：ケージ内の部分掃除と牧草の粉塵除去",
-            "text": "アンモニアの発生を防ぐため尿で濡れた床材を部分掃除します。補充するチモシーはあらかじめ外で軽く振って粉塵を落とし、呼吸器への刺激を減らします。"
-          },
-          {
-            "name": "夜：呼吸器のチェックとスキンシップ",
-            "text": "鼻水や目ヤニ（呼吸器感染症の初期症状）がないか確認し、巻き毛の奥の皮膚に異常がないか点検します。優しく撫でて交流します。"
-          }
-        ],
-        "faqs": [
-          {
-            "question": "ビタミンC補給のためにオレンジなどの柑橘類を与えてもいいですか？",
-            "answer": "柑橘類は糖分と酸が強すぎるため、口内炎や消化不良の原因になります。パプリカなどビタミンCが多く糖分の少ない野菜を与えるか、小動物用のビタミンCサプリメントを与えるのが安全です。"
-          },
-          {
-            "question": "モルモットは1匹だけで飼うことができますか？",
-            "answer": "モルモットは本来、群れで暮らす社会性の高い動物です。1匹だけで飼うと深い孤独からうつ状態や食欲不振になるリスクがあるため、相性の良い同性のペアや去勢済みの複数匹での飼育が推奨されます。"
-          }
-        ],
-        "tags": [
-          "モルモット飼育",
-          "ビタミンCサプリ",
-          "呼吸器の健康",
-          "小動物ライフ"
-        ]
-      },
-      "zh": {
-        "title": "阿比西尼亚天竺鼠维生素C补充指南与呼吸道保护3阶段日常流程",
-        "description": "针对拥有旋转毛旋的阿比西尼亚天竺鼠（豚鼠）护理。学习如何补充必不可少的维生素C，以及预防呼吸道感染的3阶段日常环境管理。",
-        "authority": "英国皇家防止虐待动物协会 (RSPCA) 啮齿类动物护理指南与非传统宠物兽医标准",
-        "profile": {
-          "breed": "阿比西尼亚天竺鼠 (Abyssinian Guinea Pig)",
-          "lifespan": "5 ~ 7年",
-          "sleep_pattern": "4 ~ 6小时 (多相性 - 短段活动与休息)",
-          "temperament": "社会化、活泼、爱叫、好奇心强、友好"
-        },
-        "intro": "阿比西尼亚天竺鼠因其浑身独特的涡旋状逆毛（毛旋）和活泼亲人的性格而广受喜爱。由于体内缺乏合成维生素C所需的酶，一旦饮食缺乏极易导致坏血病、关节肿胀和免疫力急剧下降。同时，天竺鼠的呼吸道非常脆弱，对灰尘极度敏感。今天，PetSelf 将分析天竺鼠的情绪声音与肢体动作，并分享确保维生素C摄入与呼吸道健康的3阶段每日护理流程。",
-        "whyTitle": "天竺鼠的情感表达：Wheek尖叫与爆米花跳跃",
-        "whyDesc": "天竺鼠是感情表达非常丰富且乐于发声的动物。在期盼食物或向主人打招呼时，它们会发出洪亮的“喂喂 (Wheeking)”高频尖叫。而在极度快乐、感到安全与兴奋时，它们会突然原地弹跳，这种独特行为被称为“爆米花跳 (Popcorning)”。",
-        "body_signals": [
-          {
-            "name": "喂喂尖叫 (Wheeking)",
-            "meaning": "极度兴奋或索要食物的叫声，特别是在听到冰箱门开或蔬菜袋声音时发出。",
-            "response": "适量给予富含维生素C的彩椒或专业维C片，趁机建立亲密的互动关系。"
-          },
-          {
-            "name": "爆米花蹦跳 (Popcorning)",
-            "meaning": "身体突然原地腾空跃起，甚至在空中扭转，代表其精神状态极佳、充满幸福感与安全感。",
-            "response": "确保笼舍内没有坚硬尖锐的边角，防止其在开心跳跃时发生碰撞受伤。"
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "早上：高活性维生素C喂食与提摩西草检查",
-            "text": "直接喂食天竺鼠专用的维生素C片或富含维C的彩椒（切勿加入饮水中，光照下极易降解）。塞满干净的提摩西干草。"
-          },
-          {
-            "name": "中午：笼舍局部打扫与牧草粉尘控制",
-            "text": "清理被尿液浸湿的垫料以防氨气积聚。干草在放入草架前在外抖掉粉尘，以防吸入性呼吸道刺激。"
-          },
-          {
-            "name": "晚上：呼吸道筛查健康检查与陪伴",
-            "text": "检查鼻腔和眼睛是否有分泌物（上呼吸道感染早期症状），触摸逆毛皮肤确认健康。进行温和抚摸与陪伴。"
-          }
-        ],
-        "faqs": [
-          {
-            "question": "可以给天竺鼠吃橘子等柑橘类水果补充维生素C吗？",
-            "answer": "柑橘类水果含有高浓度的糖分和柠檬酸，容易引起天竺鼠口腔溃疡（口唇炎）和腹泻。建议通过彩椒等低糖蔬菜或专业维C片补充。"
-          },
-          {
-            "question": "阿比西尼亚天竺鼠能单独饲养一只吗？",
-            "answer": "不能。天竺鼠是极度群居的动物，单只饲养会导致严重的孤独抑郁与食欲不振。强烈建议成对（相同性别或已绝育）或小群饲养。"
-          }
-        ],
-        "tags": [
-          "天竺鼠护理",
-          "豚鼠维生素C",
-          "呼吸道预防",
-          "小动物饲养"
-        ]
-      },
-      "es": {
-        "title": "Guía de vitamina C de la cobaya abisinia y rutina de 3 pasos para la salud respiratoria",
-        "description": "Cuidado esencial para la cobaya abisinia de pelo con rosetas. Aprenda a cubrir sus necesidades vitales de vitamina C y a gestionar su recinto para proteger su sistema respiratorio.",
-        "authority": "Directrices de Cuidado de Roedores de la RSPCA y Estándares de Clínica Veterinaria de Animales Exóticos",
-        "profile": {
-          "breed": "Cobaya Abisinia",
-          "lifespan": "5 ~ 7 años",
-          "sleep_pattern": "4 ~ 6 horas (polifásico: periodos cortos de actividad y descanso)",
-          "temperament": "Social, enérgica, vocal, curiosa, amistosa"
-        },
-        "intro": "Las cobayas abisinias son muy queridas por sus características rosetas (remolinos de pelo) y su carácter dinámico y curioso. Al carecer de la enzima necesaria para sintetizar la vitamina C por sí mismas, su deficiencia provoca rápidamente escorbuto, inflamación articular y defensas bajas. Además, su sensible sistema respiratorio exige un estricto control del polvo en el heno y de la higiene. Hoy, PetSelf analiza sus señales sonoras y corporales y comparte una rutina de 3 pasos para asegurar la vitamina C y proteger su salud respiratoria.",
-        "whyTitle": "Comunicación de la cobaya: wheeking y popcorning",
-        "whyDesc": "Las cobayas son animales expresivos que comunican sus emociones vocal y físicamente. Emiten un chillido agudo y fuerte llamado 'wheeking' cuando piden comida o saludan a su cuidador. Por otro lado, cuando experimentan una inmensa alegría y plena seguridad, realizan un salto repentino conocido como 'popcorning'.",
-        "body_signals": [
-          {
-            "name": "Wheeking (Chillido agudo)",
-            "meaning": "Llamada de emoción o demanda de comida, activada al escuchar bolsas de verdura o ver al cuidador.",
-            "response": "Ofrézcale pimiento fresco rico en vitamina C o un suplemento específico, aprovechando el momento para estrechar lazos."
-          },
-          {
-            "name": "Popcorning (Saltos rápidos)",
-            "meaning": "Saltos repentinos en el aire con giros, demostrando plena felicidad, vitalidad y bienestar psicológico.",
-            "response": "Compruebe que el área de juego esté libre de bordes duros para que pueda saltar de forma segura sin riesgo de lesiones."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Mañana: Suplementación de vitamina C y heno fresco",
-            "text": "Administre suplementos de vitamina C directamente o verduras ricas en ella como el pimiento (evite el agua, ya que se degrada rápido). Rellene el henero con heno Timothy fresco."
-          },
-          {
-            "name": "Tarde: Limpieza focalizada y control de polvo",
-            "text": "Retire el sustrato húmedo de orina para prevenir gases nocivos. Sacuda el heno al aire libre antes de introducirlo para minimizar el polvo respirable."
-          },
-          {
-            "name": "Noche: Examen de salud y socialización",
-            "text": "Revise que no tenga mucosidad en ojos o nariz (signo precoz de infección respiratoria) y examine la piel tras las rosetas. Dedíquele tiempo con caricias suaves."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "¿Puedo darle naranja u otros cítricos para aportar vitamina C?",
-            "answer": "Los cítricos contienen demasiado azúcar y ácido cítrico, pudiendo causar llagas en la boca (queilitis) y problemas digestivos. Es mucho más seguro ofrecer pimientos (pimentón) o suplementos veterinarios para cobayas."
-          },
-          {
-            "question": "¿Las cobayas abisinias pueden vivir solas?",
-            "answer": "No. Las cobayas son animales gregarios con profundas necesidades sociales. Vivir solas les genera gran tristeza, apatía y estrés. Deben mantenerse en parejas del mismo sexo o grupos con machos castrados."
-          }
-        ],
-        "tags": [
-          "Cuidado de Cobayas",
-          "Vitamina C Cobaya",
-          "Salud Respiratoria",
-          "Mascotas Exóticas"
-        ]
-      },
-      "fr": {
-        "title": "Guide de vitamine C du cochon d'Inde abyssinien et routine de 3 étapes pour la santé respiratoire",
-        "description": "Soins essentiels pour le cochon d'Inde abyssinien aux poils en rosettes. Apprenez à répondre à ses besoins cruciaux en vitamine C et à gérer son habitat pour protéger sa santé respiratoire.",
-        "authority": "Directives de soin des rongeurs de la RSPCA et normes vétérinaires pour nouveaux animaux de compagnie (NAC)",
-        "profile": {
-          "breed": "Cochon d'Inde Abyssinien",
-          "lifespan": "5 ~ 7 ans",
-          "sleep_pattern": "4 ~ 6 heures (polyphasique : courtes alternances d'activité et de repos)",
-          "temperament": "Social, dynamique, vocal, curieux, amical"
-        },
-        "intro": "Le cochon d'Inde abyssinien est très apprécié pour ses rosettes (épi de poils) uniques et son tempérament vif. Ne possédant pas l'enzyme nécessaire pour synthétiser la vitamine C, une carence alimentaire entraîne rapidement le scorbut, des douleurs articulaires et une baisse d'immunité. De plus, son système respiratoire fragile exige une hygiène rigoureuse et un foin dépoussiéré. Aujourd'hui, PetSelf décrypte son langage sonore et corporel et propose une routine en 3 étapes pour préserver sa santé.",
-        "whyTitle": "Langage du cobaye : cris aigus (wheeking) et sauts (popcorning)",
-        "whyDesc": "Le cochon d'Inde est un animal très expressif qui communique clairement ses émotions. Il émet un sifflement aigu appelé 'wheeking' lorsqu'il réclame à manger. Lorsqu'il éprouve une joie intense et un sentiment de sécurité totale, il effectue des sauts soudains appelés 'popcorning'.",
-        "body_signals": [
-          {
-            "name": "Wheeking (Sifflement aigu)",
-            "meaning": "Cri d'excitation ou de réclamation, souvent déclenché par le bruit d'un sachet de légumes ou l'approche du soignant.",
-            "response": "Offrez-lui un morceau de poivron frais ou un comprimé de vitamine C pour renforcer votre lien affectif."
-          },
-          {
-            "name": "Popcorning (Sauts de joie)",
-            "meaning": "Bonds soudains avec vrilles sur place, témoignant d'un bonheur pur, d'une grande vitalité et d'un confort absolu.",
-            "response": "Assurez-vous que l'espace ne présente aucun angle dur ou danger sur lequel il pourrait se blesser en sautant."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Matin : Apport en vitamine C et foin frais",
-            "text": "Administrez la vitamine C directement en comprimé/pipette ou via des poivrons frais (évitez de la mettre dans l'eau car elle se dégrade vite). Remplissez le râtelier de foin de fléole (Timothy)."
-          },
-          {
-            "name": "Après-midi : Nettoyage localisé et dépoussiérage du foin",
-            "text": "Retirez la litière souillée par l'urine pour limiter les vapeurs d'ammoniac. Secouez le foin à l'extérieur avant de le distribuer afin de réduire les poussières inhalées."
-          },
-          {
-            "name": "Soir : Examen de santé respiratoire et caresses",
-            "text": "Contrôlez l'absence d'écoulement nasal ou oculaire (signe précoce d'infection respiratoire) et vérifiez la peau sous les rosettes. Prenez le temps de passer un moment doux avec lui."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Puis-je donner des agrumes comme de l'orange pour la vitamine C ?",
-            "answer": "Les agrumes contiennent trop de sucre et d'acide citrique, ce qui peut causer des blessures buccales (chéilite) et des troubles digestifs. Privilégiez le poivron ou des compléments de vitamine C vétérinaires."
-          },
-          {
-            "question": "Le cochon d'Inde abyssinien peut-il vivre seul ?",
-            "answer": "Non. Le cochon d'Inde est un animal grégaire ayant un besoin social fondamental. Vivre seul provoque une profonde dépression et un dépérissement. Il doit impérativement vivre en groupe ou en pair du même sexe (ou stérilisé)."
-          }
-        ],
-        "tags": [
-          "Cochon d'Inde",
-          "Vitamine C Rongeur",
-          "Litière Sans Poussière",
-          "Nouveau Animal Compagnie"
-        ]
-      },
-      "de": {
-        "title": "Abessinier-Meerschweinchen Vitamin-C-Leitfaden und 3-Schritt-Atemwegsgesundheit-Tagesroutine",
-        "description": "Essenzielle Pflege für das Abessinier-Meerschweinchen mit Wirbeln. Erfahren Sie, wie Sie den lebenswichtigen Vitamin-C-Bedarf decken und Staub in der Haltung vermeiden.",
-        "authority": "Richtlinien zur Haltung von Nagetieren der RSPCA und tierärztliche klinische Standards für Kleintiere",
-        "profile": {
-          "breed": "Abessinier-Meerschweinchen",
-          "lifespan": "5 ~ 7 Jahre",
-          "sleep_pattern": "4 ~ 6 Stunden (polyphasisch - kurze Aktivitäts- und Ruhephasen)",
-          "temperament": "Sozial, energisch, lautstark, neugierig, freundlich"
-        },
-        "intro": "Abessinier-Meerschweinchen sind wegen ihrer Wirbel ('Rosetten') im Fell und ihres lebhaften Wesens überaus beliebt. Da ihnen das Enzym zur eigenen Vitamin-C-Synthese fehlt, führt ein Mangel schnell zu Skorbut, Gelenkschmerzen und Immunschwäche. Zudem erfordern ihre empfindlichen Atemwege staubfreies Heu und hohe Gehegehygiene. Heute entschlüsselt PetSelf die Lautäußerungen und Signale der Meerschweinchen und teilt eine 3-Schritt-Tagesroutine für Vitamin C und Atemwegsgesundheit.",
-        "whyTitle": "Meerschweinchen-Kommunikation: Quieken und Popcornen",
-        "whyDesc": "Meerschweinchen sind sehr lautstarke und ausdrucksstarke Tiere. Sie machen ein lautes Quieken ('Wheeking'), wenn sie Futter einfordern oder den Halter begrüßen. Bei großer Freude und voller Sicherheit springen sie plötzlich wild in die Luft, was als 'Popcornen' ('Popcorning') bezeichnet wird.",
-        "body_signals": [
-          {
-            "name": "Quieken (Wheeking)",
-            "meaning": "Ein Ruf der Vorfreude und Futterforderung, meist ausgelöst durch das Rascheln von Futtertüten oder das Annähern des Halters.",
-            "response": "Geben Sie ein Stück Vitamin-C-reiche Paprika oder ein Direktpräparat, um das Vertrauen sanft zu stärken."
-          },
-          {
-            "name": "Popcornen (Popcorning)",
-            "meaning": "Plötzliches Hochspringen und Drehen in der Luft als Ausdruck von purem Glück, Ausgelassenheit und Wohlbefinden.",
-            "response": "Achten Sie darauf, dass keine harten Kanten im Gehege stehen, an denen sich das Tier beim Springen verletzen könnte."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Morgen: Vitamin-C-Gabe & Heu-Kontrolle",
-            "text": "Geben Sie Vitamin-C-Präparate direkt oder füttern Sie rote Paprika (nicht über das Tränkwasser geben, da es sich schnell zersetzt). Füllen Sie frisches Timothee-Heu (Timothy) auf."
-          },
-          {
-            "name": "Nachmittag: Gehegebereinigung & Staubkontrolle",
-            "text": "Reinigen Sie urinfeuchte Stellen zur Vermeidung von Ammoniak. Schütteln Sie das Heu vor dem Füttern draußen aus, um Staub zu minimieren."
-          },
-          {
-            "name": "Abend: Atemwegs-Check & Zuwendung",
-            "text": "Überprüfen Sie Augen und Nase auf Ausfluss (Anzeichen eines Atemwegsinfekts) und untersuchen Sie das Fell unter den Rosetten. Nehmen Sie sich Zeit für ruhige Zuwendung."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Kann ich Meerschweinchen Orangen oder Zitrusfrüchte für Vitamin C geben?",
-            "answer": "Zitrusfrüchte enthalten zu viel Zucker und Fruchtsäure, was zu schmerzhaften Lippenentzündungen (Lippengrind) und Verdauungsstörungen führen kann. Besser geeignet sind rote/grüne Paprika oder Vitamin-C-Präparate für Nager."
-          },
-          {
-            "question": "Können Abessinier-Meerschweinchen alleine leben?",
-            "answer": "Nein. Meerschweinchen sind hochsoziale Rudeltiere. Einzeltierhaltung führt zu Einsamkeit, Depressionen und Fressunlust. Sie müssen mindestens zu zweit (gleichgeschlechtlich oder kastriert) gehalten werden."
-          }
-        ],
-        "tags": [
-          "Meerschweinchen",
-          "Vitamin C für Nager",
-          "Atemwegsgesundheit",
-          "Gehegehygiene"
-        ]
-      },
-      "pt": {
-        "title": "Guia de vitamina C do porquinho-da-índia abissínio e rotina de 3 passos para a saúde respiratória",
-        "description": "Cuidados essenciais para o porquinho-da-índia abissínio de pelo com rosetas. Saiba como suprir a vitamina C e gerir a gaiola para evitar poeiras nos pulmões.",
-        "authority": "Diretrizes de Cuidado de Roedores da RSPCA e Padrões Clínicos Veterinários de Animais Exóticos",
-        "profile": {
-          "breed": "Porquinho-da-índia Abissínio",
-          "lifespan": "5 ~ 7 anos",
-          "sleep_pattern": "4 ~ 6 horas (polifásico: curtos períodos de atividade e descanso)",
-          "temperament": "Social, enérgico, vocal, curioso, amigável"
-        },
-        "intro": "Os porquinhos-da-índia abissínios são amados pelas suas rosetas (remoinhos de pelo) e caráter ativo. Por não sintetizarem vitamina C no próprio organismo, a falta deste nutriente leva rapidamente ao escorbuto, dores articulares e baixa imunidade. Como possuem vias respiratórias frágeis, a higiene da gaiola e o feno sem pó são cruciais. Hoje, o PetSelf traduz os sinais sonoros e corporais deles e ensina uma rotina de 3 passos para manter a saúde em dia.",
-        "whyTitle": "Comunicação do porquinho-da-índia: wheeking e popcorning",
-        "whyDesc": "Os porquinhos-da-índia são animais muito expressivos que comunicam as suas emoções claramente. Emitem um guincho agudo chamado 'wheeking' para pedir comida ou saudar o tutor. E quando estão radiantes de felicidade e seguros, dão saltos repentinos no ar conhecidos como 'popcorning'.",
-        "body_signals": [
-          {
-            "name": "Wheeking (Guincho agudo)",
-            "meaning": "Chamamento de excitação ou pedido de comida, normalmente ao ouvir pacotes de vegetais a abrir ou ver o tutor.",
-            "response": "Ofereça um pedaço de pimento fresco rico em vitamina C e aproveite para fortalecer os laços de confiança."
-          },
-          {
-            "name": "Popcorning (Saltos rápidos)",
-            "meaning": "Pulos repentinos no ar que mostram que o animal está muito feliz, ativo e num ambiente totalmente seguro.",
-            "response": "Verifique se o recinto não tem cantos afiados nos quais ele possa bater e magoar-se ao saltar."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Manhã: Suplementação de vitamina C e feno fresco",
-            "text": "Dê o suplemento de vitamina C diretamente ou ofereça pimento verde/vermelho (evite colocar na água, pois degrada-se rapidamente). Encha o suporte com feno Timothy fresco."
-          },
-          {
-            "name": "Tarde: Limpeza localizada e controlo de pó",
-            "text": "Retire o substrato molhado de urina para conter a amónia. Sacuda o feno ao ar livre antes de o colocar na gaiola para reduzir o pó."
-          },
-          {
-            "name": "Noite: Exame de saúde respiratória e socialização",
-            "text": "Verifique se o nariz ou olhos têm secreções (sinal de infeção respiratória) e inspecione a pele entre as rosetas. Dedique-lhe tempo com carinho."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Posso dar laranja ao porquinho para fornecer vitamina C?",
-            "answer": "As frutas cítricas são muito ácidas e ricas em açúcar, podendo causar feridas na boca (queilite) e diarreia. O pimento ou suplementos específicos para roedores são escolhas muito mais seguras."
-          },
-          {
-            "question": "Os porquinhos-da-índia abissínios podem viver sozinhos?",
-            "answer": "Não. Os porquinhos-da-índia são extremamente sociáveis e vivem em bando. Viver sozinho causa tristeza profunda, depressão e apatia. Devem viver em pares do mesmo sexo ou pequenos grupos."
-          }
-        ],
-        "tags": [
-          "Porquinho-da-índia",
-          "Vitamina C Roedores",
-          "Higiene Respiratória",
-          "Pets Exóticos"
-        ]
-      },
-      "id": {
-        "title": "Panduan Vitamin C Marmut Abyssinian dan Rutinitas 3 Langkah Kesehatan Pernapasan",
-        "description": "Perawatan esensial untuk marmut Abyssinian berbulu pusaran (rosettes). Pelajari cara memenuhi kebutuhan vitamin C dan kelola kandang dari debu jerami.",
-        "authority": "Pedoman Perawatan Hewan Pengerat RSPCA dan Standar Klinis Dokter Hewan Eksotis",
-        "profile": {
-          "breed": "Marmut Abyssinian (Guinea Pig)",
-          "lifespan": "5 ~ 7 tahun",
-          "sleep_pattern": "4 ~ 6 jam (polifasik - siklus singkat aktivitas dan istirahat)",
-          "temperament": "Sosial, aktif, vokal, penasaran, ramah"
-        },
-        "intro": "Marmut Abyssinian disukai karena pola pusaran bulu ('rosettes') yang unik serta sifatnya yang aktif dan penuh rasa ingin tahu. Karena tidak memiliki enzim untuk memproduksi vitamin C secara alami, kekurangan nutrisi ini dapat memicu penyakit skorbut (sariawan berat), sendi bengkak, dan penurunan imun. Selain itu, pernapasan mereka yang sensitif membuat kebersihan kandang dan jerami bebas debu sangat vital. Hari ini, PetSelf mengulas bahasa tubuh marmut dan membagikan 3 langkah rutinitas pemenuhan vitamin C serta kesehatan pernapasan.",
-        "whyTitle": "Komunikasi Marmut: Wheeking dan Popcorning",
-        "whyDesc": "Marmut adalah hewan yang sangat vokal dan ekspresif. Mereka mengeluarkan suara cicitan nyaring yang disebut 'wheeking' saat meminta makanan. Di sisi lain, mereka melakukan lompatan mendadak di udara yang disebut 'popcorning' saat merasa sangat gembira dan aman.",
-        "body_signals": [
-          {
-            "name": "Cicitan Nyaring (Wheeking)",
-            "meaning": "Panggilan kegembiraan atau permintaan makan, biasanya terdengar saat mereka mendengar suara kantong sayur atau melihat pemilik mendekat.",
-            "response": "Berikan potongan paprika segar kaya vitamin C atau suplemen khusus untuk mempererat hubungan emosional."
-          },
-          {
-            "name": "Lompatan Popcorn (Popcorning)",
-            "meaning": "Melompat tegak ke udara secara mendadak sebagai ekspresi kegembiraan murni, stamina tinggi, dan rasa aman.",
-            "response": "Pastikan area bermain bebas dari benda keras atau tajam agar mereka tidak cedera saat melompat gembira."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Pagi: Suplementasi Vitamin C & Jerami Segar",
-            "text": "Berikan suplemen vitamin C khusus secara langsung atau beri paprika segar (hindari mencampur ke air karena cepat terdegradasi). Isi rak dengan jerami Timothy segar."
-          },
-          {
-            "name": "Siang: Pembersihan Kandang & Pencegahan Debu",
-            "text": "Bersihkan alas kandang yang basah untuk mencegah penumpukan gas amonia. Kebaskan jerami di luar ruangan sebelum dimasukkan kandang agar debu terbuang."
-          },
-          {
-            "name": "Malam: Pemeriksaan Pernapasan & Sosialisasi",
-            "text": "Pastikan hidung dan mata bebas dari lendir (gejala awal infeksi saluran napas) dan periksa kulit di sela rosettes bulu. Ajak berinteraksi dengan lembut."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Bolehkah saya memberikan buah jeruk kepada marmut untuk vitamin C?",
-            "answer": "Buah sitrus terlalu asam dan tinggi gula, yang dapat memicu luka di mulut (cheilitis) dan diare. Paprika manis (bell pepper) atau tablet vitamin C khusus jauh lebih aman."
-          },
-          {
-            "question": "Apakah marmut Abyssinian bisa dipelihara sendirian?",
-            "answer": "Tidak. Marmut adalah hewan koloni yang sangat sosial. Memelihara satu ekor saja akan membuat mereka depresi berat dan kehilangan nafsu makan. Sebaiknya dipelihara berpasangan sesama jenis atau kelompok."
-          }
-        ],
-        "tags": [
-          "Perawatan Marmut",
-          "Vitamin C Marmut",
-          "Saluran Napas Hewan",
-          "Hewan Pengerat"
-        ]
-      },
-      "ko": {
-        "title": "아비시니안 기니피그 비타민 C 가이드와 호흡기 보호 3단계 루틴",
-        "description": "가마(로제트) 털이 특징인 아비시니안 기니피그 케어법. 필수 비타민 C 급여법과 예민한 호흡기 질환을 예방하는 3단계 관리 루틴을 다룹니다.",
-        "authority": "영국 왕립동물학대방지협회(RSPCA) 설치류 관리 가이드라인 및 소동물 수의학 임상 표준",
-        "profile": {
-          "breed": "아비시니안 기니피그 (Abyssinian Guinea Pig)",
-          "lifespan": "5 ~ 7년",
-          "sleep_pattern": "4 ~ 6시간 (다상성 - 짧은 주기의 활동과 휴식)",
-          "temperament": "사회적임, 활발함, 울음소리 풍부함, 호기심 많음, 친근함"
-        },
-        "intro": "몸 전체에 회오리치는 모양의 가마(로제트) 털을 가진 아비시니안 기니피그는 활발하고 호기심 많은 성격으로 인기가 많습니다. 기니피그는 체내에서 비타민 C를 스스로 합성하지 못하는 생리 구조를 가지고 있어, 결핍 시 괴혈병, 관절 부종, 면역력 급감을 유발합니다. 또한 호흡기가 매우 취약하여 먼지 없는 건초 급여와 케이지 위생 관리가 필수적입니다. 오늘 PetSelf에서는 기니피그의 감정 소리와 몸짓을 분석하고, 비타민 C 강화 및 호흡기 안전을 돕는 3단계 홈케어 루틴을 다룹니다.",
-        "whyTitle": "기니피그의 감정 시그널: 꾸잉꾸잉 소리와 팝코닝 행동",
-        "whyDesc": "기니피그는 목소리와 행동으로 감정을 아주 적극적으로 표현하는 동물입니다. 먹이를 원하거나 보호자를 반길 때는 높은 톤으로 '꾸잉꾸잉(Wheeking)' 소리를 크게 냅니다. 또한 최고의 기쁨과 안전함을 느낄 때는 제자리에서 팝콘처럼 톡톡 튀어 오르는 '팝코닝(Popcorning)' 점프를 보여 줍니다.",
-        "body_signals": [
-          {
-            "name": "꾸잉꾸잉 소리 (Wheeking)",
-            "meaning": "흥분과 기대를 뜻하며, 대개 냉장고 문 열리는 소리나 야채 봉지 소리를 듣고 야채를 달라고 요구하는 신호입니다.",
-            "response": "신선한 파프리카나 기니피그용 비타민 C 영양제를 급여하며 교감의 기회로 삼습니다."
-          },
-          {
-            "name": "팝코닝 행동 (Popcorning)",
-            "meaning": "제자리에서 툭툭 튀어 오르고 몸을 비트는 행동으로, 극도의 행복감과 심리적 안전을 만끽하고 있다는 표시입니다.",
-            "response": "점프하다가 케이지 벽면이나 딱딱한 식기에 부딪혀 부상당하지 않도록 안전한 실내 구조를 점검해 줍니다."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "아침: 고활성 비타민 C 직접 급여 및 건초 확인",
-            "text": "물에 녹이면 산화되어 파괴되므로 영양제나 비타민 C가 풍부한 야채를 직접 먹입니다. 신선한 티모시 건초를 급여합니다."
-          },
-          {
-            "name": "낮: 화장실 부분 청소 및 건초 먼지 털기",
-            "text": "소변으로 젖은 베딩을 걷어내어 암모니아 발생을 막고, 건초는 밖에서 털어 먼지를 제거한 후 급여대에 채웁니다."
-          },
-          {
-            "name": "밤: 호흡기 감염 초기 검사 및 가벼운 핸들링",
-            "text": "콧물이나 눈곱(호흡기 감염의 초기 증상)이 없는지 확인하고, 가마 털 안쪽의 피부 상태를 점검한 뒤 부드럽게 쓰다듬어 줍니다."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "비타민 C 보충을 위해 귤이나 오렌지를 주어도 되나요?",
-            "answer": "감귤류 과일은 당도가 높고 구연산 산도가 강해 기니피그의 구강 점막을 자극(구순염 유발)하고 설사를 유발할 수 있습니다. 당도가 낮고 비타민 C가 높은 파프리카나 전용 사료/영양제를 활용해야 합니다."
-          },
-          {
-            "question": "아비시니안 기니피그를 한 마리만 키워도 되나요?",
-            "answer": "아닙니다. 기니피그는 무리 생활을 하는 매우 사회적인 동물이므로, 혼자 기르면 깊은 우울감과 외로움으로 인해 거식증에 걸릴 수 있습니다. 성별이 같거나 중성화된 두 마리 이상을 함께 기르는 것을 권장합니다."
-          }
-        ],
-        "tags": [
-          "기니피그케어",
-          "기니피그비타민C",
-          "소동물호흡기질환",
-          "기니피그팝코닝"
-        ]
-      }
-    },
-    "category": "CareSelf",
-    "app": "careself",
-    "formatVersion": 4,
-    "heroImage": "/images/blog/abyssinian_guinea_pig_care.png"
-  }
+        "category": "CareSelf",
+        "app": "careself",
+        "formatVersion": 4,
+        "heroImage": "/images/blog/abyssinian_guinea_pig_care.webp"
+    }
 }

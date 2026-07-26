@@ -1,516 +1,516 @@
 {
-  "pygmy-hedgehog-care": {
-    "pubDate": "2026-05-21",
-    "updatedDate": "2026-05-21",
-    "locales": {
-      "ko": {
-        "title": "아프리칸 피그미 고슴도치의 안팅 습성과 저체온 방지 3단계 루틴",
-        "description": "앙증맞은 가시를 가진 아프리칸 피그미 고슴도치. 자신의 가시에 거품을 바르는 안팅 행동의 의미와 동면을 방지하는 24~26도 온도 케어 중심의 3단계 가이드라인을 전해드립니다.",
-        "authority": "Hedgehog Welfare Society 케어 가이드라인 및 외래소동물 수의학 치료 지침",
-        "profile": {
-          "breed": "아프리칸 피그미 고슴도치 (Atelerix albiventris / African Pygmy Hedgehog)",
-          "lifespan": "4 ~ 6년",
-          "sleep_pattern": "16 ~ 18시간 (한낮에는 어두운 굴에서 수면)",
-          "temperament": "극도로 겁이 많음, 독립적, 야행성, 예민함"
+    "pygmy-hedgehog-care": {
+        "pubDate": "2026-05-21",
+        "updatedDate": "2026-05-21",
+        "locales": {
+            "ko": {
+                "title": "아프리칸 피그미 고슴도치의 안팅 습성과 저체온 방지 3단계 루틴",
+                "description": "앙증맞은 가시를 가진 아프리칸 피그미 고슴도치. 자신의 가시에 거품을 바르는 안팅 행동의 의미와 동면을 방지하는 24~26도 온도 케어 중심의 3단계 가이드라인을 전해드립니다.",
+                "authority": "Hedgehog Welfare Society 케어 가이드라인 및 외래소동물 수의학 치료 지침",
+                "profile": {
+                    "breed": "아프리칸 피그미 고슴도치 (Atelerix albiventris / African Pygmy Hedgehog)",
+                    "lifespan": "4 ~ 6년",
+                    "sleep_pattern": "16 ~ 18시간 (한낮에는 어두운 굴에서 수면)",
+                    "temperament": "극도로 겁이 많음, 독립적, 야행성, 예민함"
+                },
+                "intro": "아프리칸 피그미 고슴도치는 얼굴을 조심히 내밀어 코를 씰룩이는 모습이 매력적이며, 조용히 관찰하는 재미가 쏠쏠한 외래 반려동물입니다. 태생적으로 매우 소심하여 가시라는 방어 수단을 쓰며, 낯선 냄새를 접하면 거품을 만들어 등 가시에 바르는 독특한 행동(안팅)을 보입니다. 또한, 실내 온도가 조금만 낮아져도 목숨이 위험한 동면(가사) 상태에 빠질 수 있습니다. 오늘 PetSelf에서는 피그미 고슴도치의 본능적 가시 반응과 안전한 안팅 행동 요령, 24시간 적정 온도 및 위생을 보장하는 3단계 관리법을 알아봅니다.",
+                "whyTitle": "피그미 고슴도치의 본능: 안팅 거품과 가시 경계 신호",
+                "whyDesc": "아프리칸 피그미 고슴도치는 새로운 사물의 맛이나 냄새를 인지하면 입에서 거품 침을 만들어 가시에 묻히는 **'안팅(Self-Anointing)'** 행동을 합니다. 이는 적에게 냄새를 숨기거나 환경 냄새를 체득하기 위한 정상적인 본능 행동입니다. 반면 두려움을 느낄 때는 몸을 축구공처럼 둥글게 말고 **'슈슉(Hissing)'** 소리를 내며 외부 접촉을 엄격히 경고합니다.",
+                "body_signals": [
+                    {
+                        "name": "안팅 거품 칠하기 (Self-Anointing)",
+                        "meaning": "새롭거나 강한 향을 내는 대상을 탐색하여 그것을 자신의 몸 일부인 가시에 덧발라 은폐하려는 무해한 야생 본능입니다.",
+                        "response": "자연스러운 행동이므로 질병으로 오해하여 억지로 방해하지 말고 편안히 냄새를 체득하도록 기다려 줍니다."
+                    },
+                    {
+                        "name": "둥글게 말며 슈슉 소리 내기 (Hissing/Ball-up)",
+                        "meaning": "주변에 커다란 공포를 느껴 가시를 완전히 곤두세우고 상대방의 침입을 경고하는 방어 모드입니다.",
+                        "response": "강제로 맨손으로 만져 가시를 꺾지 마시고 천이나 수건을 덮어 그늘을 만들어 준 채 한동안 내버려 둡니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 배변으로 오염된 쳇바퀴 및 식기 세척",
+                        "text": "고슴도치는 쳇바퀴를 달리며 동시에 배변을 하는 습성이 있으므로 아침에는 밤새 사용한 용품들을 빠르게 세척 및 소독합니다."
+                    },
+                    {
+                        "name": "낮: 사계절 실내 최적 온도 24~26도 및 가습기 정밀 세팅",
+                        "text": "추위로 인한 저체온증 및 강제 동면 사망을 막기 위해 가열 매트와 자동 온도 조절기의 정상 작동 유무를 수시로 확인합니다."
+                    },
+                    {
+                        "name": "저녁: 저지방 영양 사료 급여 및 발바닥 상처 검사",
+                        "text": "주로 밤에 식사를 시작하므로 소화가 잘되는 사료를 챙겨주고, 쳇바퀴 마모나 거친 모래로 다치기 쉬운 발바닥을 손전등으로 점검합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "고슴도치가 감기에 걸리거나 저체온증에 걸리면 어떤 신호를 보이나요?",
+                        "answer": "온도가 맞지 않으면 배 부위를 바닥에 대고 엎드려 걷지 못하며, 몸 전체가 차갑고 흔들어도 반응이 무기력해집니다. 이 경우 따뜻한 수건이나 따뜻한 방으로 바로 옮겨 서서히 체온을 높여 주며 병원에 즉시 가야 합니다."
+                    },
+                    {
+                        "question": "이갈이용 완구는 필요 없나요?",
+                        "answer": "고슴도치는 쥐와 달리 평생 이빨이 자라는 동물이 아닙니다. 따라서 이갈이 장난감은 필요 없으며, 딱딱한 것을 갉아 먹으면 이빨이 쉽게 파절되므로 오히려 알갱이가 지나치게 딱딱한 사료는 피해야 합니다."
+                    }
+                ],
+                "tags": [
+                    "아프리칸피그미고슴도치",
+                    "안팅거품",
+                    "고슴도치온도조절",
+                    "소동물동면예방"
+                ]
+            },
+            "en": {
+                "title": "African Pygmy Hedgehog Self-Anointing and 3-Step Thermal Care Daily Routine",
+                "description": "Caring for the African Pygmy Hedgehog. Understand their unique self-anointing froth behaviors and maintain an optimal temperature of 24-26°C with our 3-step winter-safe routine.",
+                "authority": "Hedgehog Welfare Society Guidelines and Exotic Animal Veterinary Protocols",
+                "profile": {
+                    "breed": "African Pygmy Hedgehog (Atelerix albiventris)",
+                    "lifespan": "4 ~ 6 Years",
+                    "sleep_pattern": "16 ~ 18 Hours (Nocturnal & Dark Hideout Sleep)",
+                    "temperament": "Very Timid, Solitary, Nocturnal, Highly Sensitive"
+                },
+                "intro": "The African Pygmy Hedgehog is a quiet, fascinating exotic pet known for its twitching snout and cautious nature. Naturally shy, they rely on their quills for defense and paint foamy saliva onto their backs when encountering new scents. Furthermore, if room temperatures drop even slightly, they risk entering fatal hibernation shock (torpor). Today on PetSelf, we outline hedgehog quill behaviors, safe self-anointing handling tips, and a 3-step homecare routine to maintain 24-hour warmth and cleanliness.",
+                "whyTitle": "African Pygmy Hedgehog Instincts: Self-Anointing Froth and Quill Defense",
+                "whyDesc": "When African Pygmy Hedgehogs taste or smell something unfamiliar, they generate foamy saliva in their mouth and spread it across their quills—a behavior known as **'Self-Anointing'**. This is a normal wild instinct used to disguise their scent. Conversely, when frightened, they curl into a tight ball and emit sharp **'Hissing'** sounds to warn off physical contact.",
+                "body_signals": [
+                    {
+                        "name": "Self-Anointing Froth Application",
+                        "meaning": "A harmless wild instinct to register new environmental scents and coat their quills to camouflage themselves.",
+                        "response": "Do not interrupt them or mistake it for a neurological illness; allow them to comfortably familiarize themselves with the scent."
+                    },
+                    {
+                        "name": "Hissing & Curling into a Ball (Hissing/Ball-up)",
+                        "meaning": "A defensive posture triggered by intense fear, raising quills to block any physical contact.",
+                        "response": "Avoid bare-hand handling. Cover them gently with a soft fleece blanket to create a dark shelter and let them settle."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Scrubbing Soiled Running Wheels & Dishes",
+                        "text": "Since hedgehogs naturally defecate while running on their wheel at night, clean and sanitize their wheel and dishes every morning."
+                    },
+                    {
+                        "name": "Afternoon: Maintaining Room Temperatures Between 24-26°C",
+                        "text": "Prevent hypothermia and fatal forced hibernation by regularly checking heating pads and digital thermostats."
+                    },
+                    {
+                        "name": "Evening: Feeding High-Protein Insect Diet & Paw Safety Checks",
+                        "text": "Provide easily digestible, high-protein insect-based kibble, and check their paws with a flashlight for any cuts caused by running on wheels."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "What are the warning signs of hypothermia or forced hibernation in hedgehogs?",
+                        "answer": "If room temperature is too low, they lay flat on their belly, struggle to walk, feel cold to the touch, and become unresponsive. Wrap them in a warm towel immediately, place them in a warm room to elevate body temperature gradually, and seek emergency veterinary care."
+                    },
+                    {
+                        "question": "Do hedgehogs need chew toys for teething?",
+                        "answer": "Unlike rodents, hedgehogs do not have continuously growing teeth. They do not need chew toys, and gnawing on hard objects can easily fracture their teeth. Avoid kibble that is excessively hard."
+                    }
+                ],
+                "tags": [
+                    "AfricanPygmyHedgehog",
+                    "SelfAnointing",
+                    "HedgehogThermalCare",
+                    "HibernationPrevention"
+                ]
+            },
+            "ja": {
+                "title": "ヨツユビハリネズミのアンティング習性と低体温防止の3ステップ日常ルーティン",
+                "description": "可愛らしい棘を持つヨツユビハリネズミ。自分の体に泡を塗るアンティングの理由と、冬眠を防ぐ24〜26度の温度管理を中心とした3ステップケアを紹介します。",
+                "authority": "Hedgehog Welfare Society ガイドラインおよびエキゾチック小動物獣医学プロトコル",
+                "profile": {
+                    "breed": "ヨツユビハリネズミ (Atelerix albiventris / African Pygmy Hedgehog)",
+                    "lifespan": "4 〜 6年",
+                    "sleep_pattern": "16 〜 18時間 (日中は暗い小屋の中で睡眠)",
+                    "temperament": "非常に臆病、単独性、夜行性、非常に繊細"
+                },
+                "intro": "ヨツユビハリネズミは、そっと顔を出して鼻を動かす仕草が魅力的なエキゾチックペットです。非常に臆病で棘を使った防御手段を持ち、初めて嗅ぐ匂いに出会うと口で泡を作り棘に塗る独特の行動（アンティング）を見せます。また、室温が少し下がるだけでも命の危険がある疑似冬眠に入ってしまうことがあります。今回はPetSelfが、ハリネズミの棘の反応と、安全な温度・衛生環境を維持するための3ステップ日常管理法を解説します。",
+                "whyTitle": "ハリネズミの本能：アンティングの泡と棘の警戒サイン",
+                "whyDesc": "ヨツユビハリネズミは新しい匂いや物質を察知すると、口の中に泡を溜めて棘に塗りつける**「アンティング（Self-Anointing）」**を行います。これは自身の匂いを隠したり環境に慣れるための正常な本能です。対して、恐怖を感じる時は丸まって**「フッフッ（Hissing）」**と声を出し、接触を厳しく警告します。",
+                "body_signals": [
+                    {
+                        "name": "泡を塗る行為 (Self-Anointing)",
+                        "meaning": "新しい匂いを記憶し、それを自身の体に塗ってカモフラージュしようとする野生の本能的な行動です。",
+                        "response": "正常な行為なので病気と誤解して無理に止めず、そのまま匂いを覚えさせてあげてください。"
+                    },
+                    {
+                        "name": "丸まってフッフッと鳴く (Hissing/Ball-up)",
+                        "meaning": "周囲に強い恐怖を感じ、棘を完全に立てて相手の侵入を防ごうとしている防衛状態です。",
+                        "response": "無理に素手で触らず、フリース等の布を被せて暗い環境を作ってからそっとしておいてあげましょう。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：排泄物で汚れた回し車や食器の洗浄",
+                        "text": "ハリネズミは回し車を回しながら排泄する習性があるため、朝一番に夜間使った用品をきれいに洗浄・消毒します。"
+                    },
+                    {
+                        "name": "昼：ケージ内温度を24〜26度に保ち加湿器を設置",
+                        "text": "寒さによる低体温症や冬眠死を防ぐため、ペットヒーターや自動温度調節器が正常に機能しているか確認します。"
+                    },
+                    {
+                        "name": "夜：低脂肪の栄養フード給餌と足裏の怪我チェック",
+                        "text": "夜に活動を始めるため消化に良いフードを与え、回し車や砂で怪我をしやすい足裏に傷がないか懐中電灯等で確認します。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "低体温症や強制冬眠に入りかけているサインは？",
+                        "answer": "お腹を床に擦り付けるようにしてうまく歩けなくなり、体が冷たくなって呼びかけても反応が著しく鈍くなります。この場合はすぐに温かいタオル等で包み、暖かい部屋で少しずつ体温を上げて病院へ連れて行ってください。"
+                    },
+                    {
+                        "question": "かじり木は必要ですか？",
+                        "answer": "ハリネズミはげっ歯類とは異なり、生涯歯が伸び続けるわけではありません。そのためかじり木は不要です。むしろ硬いものをかじると歯が折れやすいため、極端に硬いキャットフードなどは避けるべきです。"
+                    }
+                ],
+                "tags": [
+                    "ヨツユビハリネ즈ミ",
+                    "アンティング",
+                    "ハリネズミの温度管理",
+                    "冬眠予防"
+                ]
+            },
+            "zh": {
+                "title": "非洲迷你刺猬的涂刺习性与预防低体温3阶段日常护理流程",
+                "description": "非洲迷你刺猬的护理。了解它们独特的涂刺泡沫行为，并通过我们维持24-26°C最适温度的3阶段日常护理流程预防致命的强制冬眠。",
+                "authority": "Hedgehog Welfare Society 护理指南及异宠兽医行为规程",
+                "profile": {
+                    "breed": "非洲迷你刺猬 (Atelerix albiventris / African Pygmy Hedgehog)",
+                    "lifespan": "4 ~ 6年",
+                    "sleep_pattern": "16 ~ 18小时 (白天在黑暗躲避穴中睡觉)",
+                    "temperament": "极度胆小、独居性、夜行性、极其敏感"
+                },
+                "intro": "非洲迷你刺猬以其小心翼翼探出头、抽动鼻子的可爱模样而极具魅力，是一种适合静静观察的异国宠物。它们天生胆小，使用刺进行防御，在遇到陌生的气味时会制造唾液泡沫涂抹在背刺上。此外，如果室温略有下降，它们可能会陷入致命的假冬眠状态。今天 PetSelf 将为您介绍非洲迷你刺猬的涂刺行为、安全应对技巧以及维持24小时适宜温度和卫生的3阶段日常护理流程。",
+                "whyTitle": "迷你刺猬的本能：涂刺泡沫与棘刺警惕信号",
+                "whyDesc": "非洲迷你刺猬在感知到新物体的味道或气味时，会从口中制造出泡沫唾液并涂抹在背刺上，这一过程被称为 **“涂刺（Self-Anointing）”**。这是正常的本能行为，用于伪装自己的气味。相反，当感到害怕时，它们会缩成球并发出 **“呼呼（Hissing）”**的声音来警告外界。",
+                "body_signals": [
+                    {
+                        "name": "涂抹泡沫 (Self-Anointing)",
+                        "meaning": "探索新气味，并将其涂抹在自身的刺上以进行掩护的无害野生本能行为。",
+                        "response": "这是正常行为，请勿误认为疾病并强行阻止，让它们自然地适应并记录气味。"
+                    },
+                    {
+                        "name": "缩成球并发出呼呼声 (Hissing/Ball-up)",
+                        "meaning": "对周围感到极度恐惧，完全竖起棘刺以阻止任何物理接触的防御模式。",
+                        "response": "请勿徒手强行抚摸，用一块毛毯覆盖以制造黑暗的遮蔽，并让其安静片刻。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：清洗被排泄物污染的跑轮和餐具",
+                        "text": "刺猬有在跑轮奔跑时排便的习性，因此早上应迅速对夜间使用的跑轮和餐具进行清洗和消毒。"
+                    },
+                    {
+                        "name": "白天：维持室温在24-26°C并配置加湿器",
+                        "text": "为防止因寒冷导致低体温症和冬眠死亡，随时检查宠物电热毯和自动温控器是否正常运转。"
+                    },
+                    {
+                        "name": "晚上：喂食低脂营养饲料与足底伤口检查",
+                        "text": "由于它们在夜间开始进食，应提供易消化的饲料，并用手电筒检查容易因跑轮磨损或砂子划伤的足底。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "刺猬感冒或陷入低体温症时会发出什么信号？",
+                        "answer": "如果温度不适宜，它们会肚子贴地趴着且无法正常行走，身体冰凉，即使摇晃也表现得极度无力。此时应立即用温热的毛巾包裹，移至温暖的房间逐渐提高体温，并立即送医。"
+                    },
+                    {
+                        "question": "刺猬需要磨牙玩具吗？",
+                        "answer": "与老鼠不同，刺猬的牙齿不会终生持续生长。因此不需要磨牙玩具。相反，咬硬物容易折断其牙齿，应避免喂食过硬的饲料颗粒。"
+                    }
+                ],
+                "tags": [
+                    "非洲迷你刺猬",
+                    "涂刺泡沫",
+                    "刺猬温控",
+                    "预防异宠冬眠"
+                ]
+            },
+            "es": {
+                "title": "Ungimiento del erizo pigmeo africano y rutina diaria de cuidado térmico de 3 pasos",
+                "description": "Cuidado del erizo pigmeo africano. Comprenda sus comportamientos únicos de ungirse con saliva espumosa y mantenga una temperatura óptima de 24-26 °C con nuestra rutina diaria de 3 pasos.",
+                "authority": "Pautas de la Hedgehog Welfare Society y Protocolos Veterinarios de Medicina de Animales Exóticos",
+                "profile": {
+                    "breed": "Erizo Pigmeo Africano (Atelerix albiventris / African Pygmy Hedgehog)",
+                    "lifespan": "4 ~ 6 años",
+                    "sleep_pattern": "16 ~ 18 horas (nocturno y duerme en su escondite)",
+                    "temperament": "Muy tímido, solitario, nocturno, sensible"
+                },
+                "intro": "El erizo pigmeo africano es una mascota exótica fascinante y silenciosa. Son naturalmente tímidos, usan sus púas para defenderse y esparcen saliva espumosa en sus espaldas cuando encuentran nuevos olores. Además, corren el riesgo de sufrir un choque de hibernación fatal si la temperatura ambiente desciende. Hoy en PetSelf, describimos los comportamientos de las púas del erizo, consejos para el autoungimiento y una rutina de 3 pasos para mantener el calor y la limpieza estables.",
+                "whyTitle": "Instintos del erizo pigmeo: Espuma de autoungimiento y defensa con púas",
+                "whyDesc": "Cuando los erizos pigmeos africanos prueban o huelen algo nuevo, crean saliva espumosa y la aplican a sus púas, un proceso llamado **'Autoungimiento' (Self-Anointing)**. Este es un comportamiento normal para camuflar su olor. Por el contrario, cuando se asustan, se curvan en una bola apretada e emiten **'Siseos' (Hissing)** para advertir que no se les toque.",
+                "body_signals": [
+                    {
+                        "name": "Autoungimiento (Self-Anointing)",
+                        "meaning": "Un instinto salvaje inofensivo para registrar y recubrir sus púas con nuevos olores ambientales.",
+                        "response": "No los interrumpa ni lo confunda con una enfermedad; deje que se sientan cómodos con el olor de forma natural."
+                    },
+                    {
+                        "name": "Siseo y curvado en bola (Hissing/Ball-up)",
+                        "meaning": "Un modo defensivo que indica miedo severo, levantando púas para bloquear cualquier contacto físico.",
+                        "response": "Evite intentar manipularlos con las manos desnudas. Cúbralos con una manta de felpa suave para crear un refugio oscuro."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Lavado de ruedas de ejercicio y platos sucios",
+                        "text": "Dado que los erizos tienden a defecar mientras corren en su rueda, limpie y desinfecte la rueda y los platos todas las mañanas."
+                    },
+                    {
+                        "name": "Tarde: Mantener la temperatura de la habitación entre 24 y 26 °C",
+                        "text": "Prevenga la baja temperatura corporal y la hibernación revisando las almohadillas térmicas y los termostatos digitales con regularidad."
+                    },
+                    {
+                        "name": "Noche: Alimentación con dieta insectívora alta en proteínas y control de patas",
+                        "text": "Proporcione croquetas a base de insectos de alta calidad y revise sus patas con una linterna para detectar heridas causadas por la rueda."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Cuáles son las señales de advertencia de hipotermia o hibernación en los erizos?",
+                        "answer": "Si tienen demasiado frío, se acuestan sobre su vientre, tienen dificultades para caminar y se muestran letárgicos. Envuélvalos en una toalla tibia inmediatamente, colóquelos en una habitación cálida para elevar la temperatura gradualmente y busque atención veterinaria."
+                    },
+                    {
+                        "question": "¿Los erizos necesitan juguetes para masticar?",
+                        "answer": "A diferencia de los roedores, los dientes de los erizos no crecen continuamente. No necesitan juguetes para masticar, y los objetos duros pueden fracturar sus dientes. Evite croquetas excesivamente duras."
+                    }
+                ],
+                "tags": [
+                    "ErizoPigmeo",
+                    "Autoungimiento",
+                    "TemperaturaDeErizo",
+                    "PrevenciónDeHibernación"
+                ]
+            },
+            "fr": {
+                "title": "Autounguement du Hérisson Pygmée Africain et routine quotidienne de soin thermique en 3 étapes",
+                "description": "Soin du hérisson pygmée africain. Comprenez ses comportements uniques d'autounguement avec de la salive mousseuse et maintenez une température optimale de 24-26 °C avec notre routine en 3 étapes.",
+                "authority": "Directives de la Hedgehog Welfare Society et Protocoles Vétérinaires pour Animaux Exotiques",
+                "profile": {
+                    "breed": "Hérisson Pygmée Africain (Atelerix albiventris / African Pygmy Hedgehog)",
+                    "lifespan": "4 ~ 6 ans",
+                    "sleep_pattern": "16 ~ 18 heures (nocturne et dort dans sa cachette)",
+                    "temperament": "Très timide, solitaire, nocturne, sensible"
+                },
+                "intro": "L'hérisson pygmée africain est un animal de compagnie exotique fascinant et silencieux. Ils sont naturellement timides, utilisent leurs piquants pour se défendre et étalent de la salive mousseuse sur leur dos lorsqu'ils rencontrent de nouvelles odeurs. De plus, ils risquent un choc d'hibernation fatal si la température ambiante baisse. Aujourd'hui sur PetSelf, nous décrivons les comportements des piquants de l'hérisson, des conseils pour l'autounguement et une routine en 3 étapes pour maintenir la chaleur et la propreté stables.",
+                "whyTitle": "Instincts du hérisson pygmée : Mousse d'autounguement et défense avec piquants",
+                "whyDesc": "Lorsque les hérissons pygmées africains goûtent ou sentent quelque chose de nouveau, ils créent une salive mousseuse et l'appliquent sur leurs piquants, un processus appelé **'Autounguement' (Self-Anointing)**. C'est un comportement normal pour camoufler leur odeur. À l'inverse, lorsqu'ils ont peur, ils se roulent en boule serrée et émettent des **'Sifflements' (Hissing)** pour avertir de ne pas les toucher.",
+                "body_signals": [
+                    {
+                        "name": "Autounguement (Self-Anointing)",
+                        "meaning": "Un instinct sauvage inoffensif pour enregistrer et recouvrir leurs piquants de nouvelles odeurs environnementales.",
+                        "response": "Ne les interrompez pas et ne le confondez pas avec une maladie ; laissez-les se familiariser avec l'odeur naturellement."
+                    },
+                    {
+                        "name": "Sifflement et roulement en boule (Hissing/Ball-up)",
+                        "meaning": "Un mode défensif indiquant une peur sévère, érigeant les piquants pour bloquer tout contact physique.",
+                        "response": "Évitez d'essayer de les manipuler à mains nues. Couvrez-les d'une couverture en polaire douce pour créer un abri sombre."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Lavage de la roue d'exercice et des plats sales",
+                        "text": "Puisque les hérissons ont tendance à déféquer pendant qu'ils courent sur leur roue, nettoyez et désinfectez la roue et les plats chaque matin."
+                    },
+                    {
+                        "name": "Après-midi : Maintenir la température de la pièce entre 24 et 26 °C",
+                        "text": "Prévenez la baisse de température corporelle et l'hibernation en vérifiant régulièrement les tapis chauffants et les thermostats digitaux."
+                    },
+                    {
+                        "name": "Soir : Alimentation riche en protéines à base d'insectes et contrôle des pattes",
+                        "text": "Fournissez des croquettes de haute qualité à base d'insectes et vérifiez leurs pattes avec une lampe pour détecter les blessures causées par la roue."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Quels sont les signes d'alerte de l'hypothermie ou de l'hibernation chez les hérissons ?",
+                        "answer": "S'ils ont trop froid, ils s'allongent sur le ventre, ont des difficultés à marcher et semblent léthargiques. Enveloppez-les immédiatement dans une serviette chaude, placez-les dans une pièce chaude pour élever progressivement leur température et consultez un vétérinaire."
+                    },
+                    {
+                        "question": "Les hérissons ont-ils besoin de jouets à ronger ?",
+                        "answer": "Contrairement aux rongeurs, les dents des hérissons ne poussent pas continuellement. Ils n'ont pas besoin de jouets à ronger, et les objets durs peuvent fracturer leurs dents. Évitez les croquettes excessivement dures."
+                    }
+                ],
+                "tags": [
+                    "HérissonPygmée",
+                    "Autounguement",
+                    "TempératureHérisson",
+                    "PréventionHibernation"
+                ]
+            },
+            "de": {
+                "title": "Einspeicheln des Afrikanischen Weißbauchigels und thermische 3-Schritte-Tagesroutine",
+                "description": "Pflege für den Afrikanischen Weißbauchigel. Verstehen Sie sein einzigartiges Verhalten des Einspeichelns mit schäumendem Speichel und halten Sie eine optimale Temperatur von 24-26 °C mit unserer Routine.",
+                "authority": "Richtlinien der Hedgehog Welfare Society und Veterinär-Protokolle für exotische Kleintiere",
+                "profile": {
+                    "breed": "Afrikanischer Weißbauchigel (Atelerix albiventris / African Pygmy Hedgehog)",
+                    "lifespan": "4 ~ 6 Jahre",
+                    "sleep_pattern": "16 ~ 18 Stunden (nachtaktiv & schläft im Versteck)",
+                    "temperament": "Sehr scheu, einzelgängerisch, nachtaktiv, sensibel"
+                },
+                "intro": "Der Afrikanische Weißbauchigel ist ein faszinierendes und ruhiges exotisches Heimtier. Sie sind von Natur aus scheu, nutzen ihre Stacheln zur Verteidigung und verteilen schäumenden Speichel auf ihrem Rücken, wenn sie auf neue Gerüche stoßen. Zudem riskieren sie einen tödlichen Winterschlaf-Schock, wenn die Umgebungstemperatur sinkt. Heute auf PetSelf beschreiben wir das Stachelverhalten des Igels, Tipps zum Selbst-Einspeicheln und eine 3-Schritte-Routine für stabile Wärme und Sauberkeit.",
+                "whyTitle": "Instinkte des Weißbauchigels: Selbst-Einspeicheln und Stachelverteidigung",
+                "whyDesc": "Wenn Afrikanische Weißbauchigel etwas Neues schmecken oder riechen, erzeugen sie schäumenden Speichel und tragen ihn auf ihre Stacheln auf – ein Vorgang namens **'Selbst-Einspeicheln' (Self-Anointing)**. Dies ist ein normales Verhalten zur Tarnung ihres Geruchs. Wenn sie sich erschrecken, rollen sie sich zu einer engen Kugel zusammen und fauchen **'Fauchen' (Hissing)**, um Berührungen abzuwehren.",
+                "body_signals": [
+                    {
+                        "name": "Selbsteinspeicheln (Self-Anointing)",
+                        "meaning": "Ein harmloser wilder Instinkt, um neue Umweltgerüche zu registrieren und auf ihre Stacheln aufzutragen.",
+                        "response": "Unterbrechen Sie sie nicht und verwechseln Sie es nicht mit einer Krankheit. Lassen Sie sie sich ganz natürlich an den Geruch gewöhnen."
+                    },
+                    {
+                        "name": "Fauchen & Einrollen (Hissing/Ball-up)",
+                        "meaning": "Ein Verteidigungsmodus, der auf starke Angst hindeutet und bei dem die Stacheln aufgestellt werden, um jeden physischen Kontakt zu blockieren.",
+                        "response": "Vermeiden Sie es, sie mit bloßen Händen anzufassen. Decken Sie sie mit einer weichen Vliesdecke ab, um einen dunklen Unterschlupf zu schaffen."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Reinigung der verschmutzten Laufräder und Näpfe",
+                        "text": "Da Igel beim Laufen im Laufrad koten, reinigen und desinfizieren Sie das Laufrad und die Näpfe jeden Morgen."
+                    },
+                    {
+                        "name": "Nachmittag: Raumtemperatur zwischen 24 und 26 °C halten",
+                        "text": "Vermeiden Sie eine niedrige Körpertemperatur und Winterschlaf, indem Sie Heizmatten und digitale Thermostate regelmäßig überprüfen."
+                    },
+                    {
+                        "name": "Abend: Proteinreiche Insektenfütterung und Pfotenkontrolle",
+                        "text": "Bieten Sie hochwertiges Trockenfutter auf Insektenbasis an und überprüfen Sie die Pfoten mit einer Taschenlampe auf Wunden, die durch das Laufen im Rad entstanden sind."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Was sind die Warnsignale für Unterkühlung oder Winterschlaf bei Igeln?",
+                        "answer": "Wenn sie zu kalt sind, liegen sie flach auf dem Bauch, haben Schwierigkeiten beim Gehen und wirken lethargisch. Wickeln Sie sie sofort in ein warmes Handtuch, bringen Sie sie in einen warmen Raum zur schrittweisen Erwärmung und suchen Sie tierärztliche Hilfe auf."
+                    },
+                    {
+                        "question": "Benötigen Igel Knabberspielzeug?",
+                        "answer": "Im Gegensatz zu Nagetieren wachsen die Zähne von Igeln nicht kontinuierlich nach. Sie benötigen keine Nagespielzeuge, und harte Gegenstände können ihre Zähne brechen. Vermeiden Sie übermäßig hartes Trockenfutter."
+                    }
+                ],
+                "tags": [
+                    "Weißbauchigel",
+                    "Selbsteinspeicheln",
+                    "Igelwärme",
+                    "Winterschlafprävention"
+                ]
+            },
+            "pt": {
+                "title": "Ungimento do Ouriço-Cacheiro Pigmeu Africano e rotina diária de cuidado térmico de 3 passos",
+                "description": "Cuidado do ouriço-cacheiro pigmeu africano. Compreenda os seus comportamentos únicos de ungir-se com saliva espumosa e mantenha uma temperatura ótima de 24-26 °C com a nossa rotina de 3 passos.",
+                "authority": "Diretrizes da Hedgehog Welfare Society e Protocolos Veterinários de Medicina de Animais Exóticos",
+                "profile": {
+                    "breed": "Ouriço-Cacheiro Pigmeu Africano (Atelerix albiventris / African Pygmy Hedgehog)",
+                    "lifespan": "4 ~ 6 anos",
+                    "sleep_pattern": "16 ~ 18 horas (noturno e dorme no seu esconderijo)",
+                    "temperament": "Muito tímido, solitário, noturno, sensível"
+                },
+                "intro": "O ouriço-cacheiro pigmeu africano é um animal de estimação exótico fascinante e silencioso. São naturalmente tímidos, usam os seus espinhos para se defenderem e espalham saliva espumosa nas suas costas quando encontram novos cheiros. Além disso, correm o risco de sofrer um choque de hibernação fatal se a temperatura ambiente descer. Hoje no PetSelf, descrevemos os comportamentos dos espinhos do ouriço, conselhos para o autoungimento e uma rotina de 3 passos para manter o calor e a limpeza estáveis.",
+                "whyTitle": "Instintos do ouriço-cacheiro pigmeu: Espuma de autoungimento e defesa com espinhos",
+                "whyDesc": "Quando os ouriços pigmeus africanos provam ou cheiram algo novo, criam saliva espumosa e aplicam-na nos seus espinhos, um processo chamado **'Autoungimento' (Self-Anointing)**. Este é um comportamento normal para camuflar o seu cheiro. Pelo contrário, quando se assustam, curvam-se numa bola apertada e sibilam **'Sibilos' (Hissing)** para advertir que não se lhes toque.",
+                "body_signals": [
+                    {
+                        "name": "Autoungimento (Self-Anointing)",
+                        "meaning": "Um instinto selvagem inofensivo para registrar e recobrir os seus espinhos com novos cheiros ambientais.",
+                        "response": "Não os interrompa nem o confunda com uma doença. Deixe que se sintam confortáveis com o cheiro de forma natural."
+                    },
+                    {
+                        "name": "Sibilo e curvado em bola (Hissing/Ball-up)",
+                        "meaning": "Um modo defensivo que indica medo severo, levantando espinhos para bloquear qualquer contacto físico.",
+                        "response": "Evite tentar manipulá-los com as mãos nuas. Cubra-os com uma manta de feltro suave para criar um refúgio escuro."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Lavagem de rodas de exercício e pratos sujos",
+                        "text": "Dado que os ouriços tendem a defecar enquanto correm na sua roda, limpe e desinfete a roda e os pratos todas as manhãs."
+                    },
+                    {
+                        "name": "Tarde: Manter a temperatura do quarto entre 24 e 26 °C",
+                        "text": "Previna a baixa temperatura corporal e a hibernação revendo as almofadas térmicas e os termostatos digitais com regularidade."
+                    },
+                    {
+                        "name": "Noite: Alimentação com dieta insectívora alta em proteínas e controlo de patas",
+                        "text": "Proporcione ração à base de insetos de alta qualidade e reveja as suas patas com lanterna para detectar feridas causadas por correr na roda."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Quais são os sinais de aviso de hipotermia ou hibernação nos ouriços?",
+                        "answer": "Se têm demasiado frio, deitam-se sobre o seu ventre, têm dificuldades para caminhar e mostram-se letárgicos. Envolva-os numa toalha morna imediatamente, coloque-os num quarto quente para reaquecimento gradual e procure atenção veterinária."
+                    },
+                    {
+                        "question": "Os ouriços necessitam de brinquedos para mastigar?",
+                        "answer": "Ao contrário dos roedores, os dentes dos ouriços não crescem continuamente. Não necessitam de brinquedos para mastigar, e os objetos duros podem fraturar os seus dentes. Evite ração excessivamente dura."
+                    }
+                ],
+                "tags": [
+                    "OuriçoPigmeu",
+                    "Autoungimento",
+                    "TemperaturaDeOuriço",
+                    "PrevençãoDeHibernação"
+                ]
+            },
+            "id": {
+                "title": "Pengurapan Diri Landak Mini Afrika dan Rutinitas Harian 3 Langkah Perawatan Suhu",
+                "description": "Perawatan landak mini Afrika. Pahami perilaku unik mereka mengurapi diri dengan air liur berbusa dan pertahankan suhu optimal 24-26 °C dengan rutin 3 langkah musim dingin kami yang aman.",
+                "authority": "Panduan Hedgehog Welfare Society dan Protokol Kedokteran Hewan Eksotis",
+                "profile": {
+                    "breed": "Landak Mini Afrika (Atelerix albiventris / African Pygmy Hedgehog)",
+                    "lifespan": "4 ~ 6 tahun",
+                    "sleep_pattern": "16 ~ 18 jam (nokturnal & tidur di tempat persembunyian)",
+                    "temperament": "Sangat penakut, soliter, nokturnal, sensitif"
+                },
+                "intro": "Landak mini Afrika adalah peliharaan eksotis yang tenang dan menarik. Mereka pemalu secara alami, menggunakan duri untuk pertahanan diri dan melumuri air liur berbusa pada punggung mereka saat menemui aroma baru. Selain itu, mereka berisiko mengalami syok hibernasi fatal jika suhu ruangan turun. Hari ini di PetSelf, kami menguraikan perilaku duri landak mini, tips pengurapan diri, dan 3 langkah rutinitas harian untuk menjaga kehangatan dan kebersihan tetap stabil.",
+                "whyTitle": "Insting Landak Mini: Busa Pengurapan Diri dan Pertahanan Duri",
+                "whyDesc": "Saat landak mini Afrika merasakan atau mencium sesuatu yang baru, mereka membuat air liur berbusa dan mengoleskannya ke duri mereka, sebuah proses yang disebut **'Pengurapan Diri' (Self-Anointing)**. Ini adalah perilaku normal untuk menyamarkan aroma mereka. Sebaliknya, ketika takut, mereka menggulung tubuh menjadi bola rapat dan mendesis **'Mendesis' (Hissing)** untuk memperingatkan agar tidak disentuh.",
+                "body_signals": [
+                    {
+                        "name": "Pengurapan Diri (Self-Anointing)",
+                        "meaning": "Insting liar yang tidak berbahaya untuk mencatat dan melapisi duri mereka dengan aroma lingkungan yang baru.",
+                        "response": "Jangan ganggu mereka atau salah mengartikannya sebagai penyakit. Biarkan mereka merasa nyaman dengan aroma tersebut secara alami."
+                    },
+                    {
+                        "name": "Mendesis & Menggulung Menjadi Bola (Hissing/Ball-up)",
+                        "meaning": "Mode defensif yang menunjukkan ketakutan parah, menegakkan duri untuk menghalangi kontak fisik apa pun.",
+                        "response": "Hindari memegang mereka dengan tangan telanjang. Tutup dengan selimut bulu domba lembut untuk membuat perlindungan yang gelap."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Membersihkan Roda Putar dan Wadah Makanan yang Kotor",
+                        "text": "Karena landak cenderung buang air besar saat berlari di roda putar, bersihkan dan sterilkan roda serta mangkuk setiap pagi."
+                    },
+                    {
+                        "name": "Siang: Menjaga Suhu Ruangan Antara 24 hingga 26 °C",
+                        "text": "Cegah suhu tubuh rendah dan hibernasi dengan memeriksa bantalan pemanas dan termostat digital secara teratur."
+                    },
+                    {
+                        "name": "Malam: Pemberian Pakan Serangga Tinggi Protein & Pemeriksaan Kaki",
+                        "text": "Sediakan kibble berkualitas tinggi berbahan dasar serangga, dan periksa kaki mereka dengan senter untuk mendeteksi luka akibat berlari di roda."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Apa tanda peringatan hipotermia atau hibernasi pada landak mini?",
+                        "answer": "Jika terlalu dingin, mereka berbaring datar di atas perut, kesulitan berjalan, dan tampak lesu. Segera bungkus dengan handuk hangat, tempatkan di ruangan yang hangat untuk penghangatan bertahap, dan cari bantuan dokter hewan."
+                    },
+                    {
+                        "question": "Apakah landak mini membutuhkan mainan kunyah?",
+                        "answer": "Tidak seperti hewan pengerat, gigi landak mini tidak tumbuh terus-menerus. Mereka tidak membutuhkan mainan kunyah, dan benda keras dapat mematahkan gigi mereka. Hindari kibble yang terlalu keras."
+                    }
+                ],
+                "tags": [
+                    "LandakMini",
+                    "PengurapanDiri",
+                    "SuhuLandakMini",
+                    "PencegahanHibernasi"
+                ]
+            }
         },
-        "intro": "아프리칸 피그미 고슴도치는 얼굴을 조심히 내밀어 코를 씰룩이는 모습이 매력적이며, 조용히 관찰하는 재미가 쏠쏠한 외래 반려동물입니다. 태생적으로 매우 소심하여 가시라는 방어 수단을 쓰며, 낯선 냄새를 접하면 거품을 만들어 등 가시에 바르는 독특한 행동(안팅)을 보입니다. 또한, 실내 온도가 조금만 낮아져도 목숨이 위험한 동면(가사) 상태에 빠질 수 있습니다. 오늘 PetSelf에서는 피그미 고슴도치의 본능적 가시 반응과 안전한 안팅 행동 요령, 24시간 적정 온도 및 위생을 보장하는 3단계 관리법을 알아봅니다.",
-        "whyTitle": "피그미 고슴도치의 본능: 안팅 거품과 가시 경계 신호",
-        "whyDesc": "아프리칸 피그미 고슴도치는 새로운 사물의 맛이나 냄새를 인지하면 입에서 거품 침을 만들어 가시에 묻히는 **'안팅(Self-Anointing)'** 행동을 합니다. 이는 적에게 냄새를 숨기거나 환경 냄새를 체득하기 위한 정상적인 본능 행동입니다. 반면 두려움을 느낄 때는 몸을 축구공처럼 둥글게 말고 **'슈슉(Hissing)'** 소리를 내며 외부 접촉을 엄격히 경고합니다.",
-        "body_signals": [
-          {
-            "name": "안팅 거품 칠하기 (Self-Anointing)",
-            "meaning": "새롭거나 강한 향을 내는 대상을 탐색하여 그것을 자신의 몸 일부인 가시에 덧발라 은폐하려는 무해한 야생 본능입니다.",
-            "response": "자연스러운 행동이므로 질병으로 오해하여 억지로 방해하지 말고 편안히 냄새를 체득하도록 기다려 줍니다."
-          },
-          {
-            "name": "둥글게 말며 슈슉 소리 내기 (Hissing/Ball-up)",
-            "meaning": "주변에 커다란 공포를 느껴 가시를 완전히 곤두세우고 상대방의 침입을 경고하는 방어 모드입니다.",
-            "response": "강제로 맨손으로 만져 가시를 꺾지 마시고 천이나 수건을 덮어 그늘을 만들어 준 채 한동안 내버려 둡니다."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "아침: 배변으로 오염된 쳇바퀴 및 식기 세척",
-            "text": "고슴도치는 쳇바퀴를 달리며 동시에 배변을 하는 습성이 있으므로 아침에는 밤새 사용한 용품들을 빠르게 세척 및 소독합니다."
-          },
-          {
-            "name": "낮: 사계절 실내 최적 온도 24~26도 및 가습기 정밀 세팅",
-            "text": "추위로 인한 저체온증 및 강제 동면 사망을 막기 위해 가열 매트와 자동 온도 조절기의 정상 작동 유무를 수시로 확인합니다."
-          },
-          {
-            "name": "저녁: 저지방 영양 사료 급여 및 발바닥 상처 검사",
-            "text": "주로 밤에 식사를 시작하므로 소화가 잘되는 사료를 챙겨주고, 쳇바퀴 마모나 거친 모래로 다치기 쉬운 발바닥을 손전등으로 점검합니다."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "고슴도치가 감기에 걸리거나 저체온증에 걸리면 어떤 신호를 보이나요?",
-            "answer": "온도가 맞지 않으면 배 부위를 바닥에 대고 엎드려 걷지 못하며, 몸 전체가 차갑고 흔들어도 반응이 무기력해집니다. 이 경우 따뜻한 수건이나 따뜻한 방으로 바로 옮겨 서서히 체온을 높여 주며 병원에 즉시 가야 합니다."
-          },
-          {
-            "question": "이갈이용 완구는 필요 없나요?",
-            "answer": "고슴도치는 쥐와 달리 평생 이빨이 자라는 동물이 아닙니다. 따라서 이갈이 장난감은 필요 없으며, 딱딱한 것을 갉아 먹으면 이빨이 쉽게 파절되므로 오히려 알갱이가 지나치게 딱딱한 사료는 피해야 합니다."
-          }
-        ],
-        "tags": [
-          "아프리칸피그미고슴도치",
-          "안팅거품",
-          "고슴도치온도조절",
-          "소동물동면예방"
-        ]
-      },
-      "en": {
-        "title": "African Pygmy Hedgehog Self-Anointing and 3-Step Thermal Care Daily Routine",
-        "description": "Caring for the African Pygmy Hedgehog. Understand their unique self-anointing froth behaviors and maintain an optimal temperature of 24-26°C with our 3-step winter-safe routine.",
-        "authority": "Hedgehog Welfare Society Guidelines and Exotic Animal Veterinary Protocols",
-        "profile": {
-          "breed": "African Pygmy Hedgehog (Atelerix albiventris)",
-          "lifespan": "4 ~ 6 Years",
-          "sleep_pattern": "16 ~ 18 Hours (Nocturnal & Dark Hideout Sleep)",
-          "temperament": "Very Timid, Solitary, Nocturnal, Highly Sensitive"
-        },
-        "intro": "The African Pygmy Hedgehog is a quiet, fascinating exotic pet known for its twitching snout and cautious nature. Naturally shy, they rely on their quills for defense and paint foamy saliva onto their backs when encountering new scents. Furthermore, if room temperatures drop even slightly, they risk entering fatal hibernation shock (torpor). Today on PetSelf, we outline hedgehog quill behaviors, safe self-anointing handling tips, and a 3-step homecare routine to maintain 24-hour warmth and cleanliness.",
-        "whyTitle": "African Pygmy Hedgehog Instincts: Self-Anointing Froth and Quill Defense",
-        "whyDesc": "When African Pygmy Hedgehogs taste or smell something unfamiliar, they generate foamy saliva in their mouth and spread it across their quills—a behavior known as **'Self-Anointing'**. This is a normal wild instinct used to disguise their scent. Conversely, when frightened, they curl into a tight ball and emit sharp **'Hissing'** sounds to warn off physical contact.",
-        "body_signals": [
-          {
-            "name": "Self-Anointing Froth Application",
-            "meaning": "A harmless wild instinct to register new environmental scents and coat their quills to camouflage themselves.",
-            "response": "Do not interrupt them or mistake it for a neurological illness; allow them to comfortably familiarize themselves with the scent."
-          },
-          {
-            "name": "Hissing & Curling into a Ball (Hissing/Ball-up)",
-            "meaning": "A defensive posture triggered by intense fear, raising quills to block any physical contact.",
-            "response": "Avoid bare-hand handling. Cover them gently with a soft fleece blanket to create a dark shelter and let them settle."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Morning: Scrubbing Soiled Running Wheels & Dishes",
-            "text": "Since hedgehogs naturally defecate while running on their wheel at night, clean and sanitize their wheel and dishes every morning."
-          },
-          {
-            "name": "Afternoon: Maintaining Room Temperatures Between 24-26°C",
-            "text": "Prevent hypothermia and fatal forced hibernation by regularly checking heating pads and digital thermostats."
-          },
-          {
-            "name": "Evening: Feeding High-Protein Insect Diet & Paw Safety Checks",
-            "text": "Provide easily digestible, high-protein insect-based kibble, and check their paws with a flashlight for any cuts caused by running on wheels."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "What are the warning signs of hypothermia or forced hibernation in hedgehogs?",
-            "answer": "If room temperature is too low, they lay flat on their belly, struggle to walk, feel cold to the touch, and become unresponsive. Wrap them in a warm towel immediately, place them in a warm room to elevate body temperature gradually, and seek emergency veterinary care."
-          },
-          {
-            "question": "Do hedgehogs need chew toys for teething?",
-            "answer": "Unlike rodents, hedgehogs do not have continuously growing teeth. They do not need chew toys, and gnawing on hard objects can easily fracture their teeth. Avoid kibble that is excessively hard."
-          }
-        ],
-        "tags": [
-          "AfricanPygmyHedgehog",
-          "SelfAnointing",
-          "HedgehogThermalCare",
-          "HibernationPrevention"
-        ]
-      },
-      "ja": {
-        "title": "ヨツユビハリネズミのアンティング習性と低体温防止の3ステップ日常ルーティン",
-        "description": "可愛らしい棘を持つヨツユビハリネズミ。自分の体に泡を塗るアンティングの理由と、冬眠を防ぐ24〜26度の温度管理を中心とした3ステップケアを紹介します。",
-        "authority": "Hedgehog Welfare Society ガイドラインおよびエキゾチック小動物獣医学プロトコル",
-        "profile": {
-          "breed": "ヨツユビハリネズミ (Atelerix albiventris / African Pygmy Hedgehog)",
-          "lifespan": "4 〜 6年",
-          "sleep_pattern": "16 〜 18時間 (日中は暗い小屋の中で睡眠)",
-          "temperament": "非常に臆病、単独性、夜行性、非常に繊細"
-        },
-        "intro": "ヨツユビハリネズミは、そっと顔を出して鼻を動かす仕草が魅力的なエキゾチックペットです。非常に臆病で棘を使った防御手段を持ち、初めて嗅ぐ匂いに出会うと口で泡を作り棘に塗る独特の行動（アンティング）を見せます。また、室温が少し下がるだけでも命の危険がある疑似冬眠に入ってしまうことがあります。今回はPetSelfが、ハリネズミの棘の反応と、安全な温度・衛生環境を維持するための3ステップ日常管理法を解説します。",
-        "whyTitle": "ハリネズミの本能：アンティングの泡と棘の警戒サイン",
-        "whyDesc": "ヨツユビハリネズミは新しい匂いや物質を察知すると、口の中に泡を溜めて棘に塗りつける**「アンティング（Self-Anointing）」**を行います。これは自身の匂いを隠したり環境に慣れるための正常な本能です。対して、恐怖を感じる時は丸まって**「フッフッ（Hissing）」**と声を出し、接触を厳しく警告します。",
-        "body_signals": [
-          {
-            "name": "泡を塗る行為 (Self-Anointing)",
-            "meaning": "新しい匂いを記憶し、それを自身の体に塗ってカモフラージュしようとする野生の本能的な行動です。",
-            "response": "正常な行為なので病気と誤解して無理に止めず、そのまま匂いを覚えさせてあげてください。"
-          },
-          {
-            "name": "丸まってフッフッと鳴く (Hissing/Ball-up)",
-            "meaning": "周囲に強い恐怖を感じ、棘を完全に立てて相手の侵入を防ごうとしている防衛状態です。",
-            "response": "無理に素手で触らず、フリース等の布を被せて暗い環境を作ってからそっとしておいてあげましょう。"
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "朝：排泄物で汚れた回し車や食器の洗浄",
-            "text": "ハリネズミは回し車を回しながら排泄する習性があるため、朝一番に夜間使った用品をきれいに洗浄・消毒します。"
-          },
-          {
-            "name": "昼：ケージ内温度を24〜26度に保ち加湿器を設置",
-            "text": "寒さによる低体温症や冬眠死を防ぐため、ペットヒーターや自動温度調節器が正常に機能しているか確認します。"
-          },
-          {
-            "name": "夜：低脂肪の栄養フード給餌と足裏の怪我チェック",
-            "text": "夜に活動を始めるため消化に良いフードを与え、回し車や砂で怪我をしやすい足裏に傷がないか懐中電灯等で確認します。"
-          }
-        ],
-        "faqs": [
-          {
-            "question": "低体温症や強制冬眠に入りかけているサインは？",
-            "answer": "お腹を床に擦り付けるようにしてうまく歩けなくなり、体が冷たくなって呼びかけても反応が著しく鈍くなります。この場合はすぐに温かいタオル等で包み、暖かい部屋で少しずつ体温を上げて病院へ連れて行ってください。"
-          },
-          {
-            "question": "かじり木は必要ですか？",
-            "answer": "ハリネズミはげっ歯類とは異なり、生涯歯が伸び続けるわけではありません。そのためかじり木は不要です。むしろ硬いものをかじると歯が折れやすいため、極端に硬いキャットフードなどは避けるべきです。"
-          }
-        ],
-        "tags": [
-          "ヨツユビハリネ즈ミ",
-          "アンティング",
-          "ハリネズミの温度管理",
-          "冬眠予防"
-        ]
-      },
-      "zh": {
-        "title": "非洲迷你刺猬的涂刺习性与预防低体温3阶段日常护理流程",
-        "description": "非洲迷你刺猬 responses 护理。了解它们独特 responses 涂刺泡沫行为，并通过我们维持24-26°C最适温度 responses 3阶段日常护理流程预防致命 responses 强制冬眠。",
-        "authority": "Hedgehog Welfare Society 护理指南及异宠兽医行为规程",
-        "profile": {
-          "breed": "非洲迷你刺猬 (Atelerix albiventris / African Pygmy Hedgehog)",
-          "lifespan": "4 ~ 6年",
-          "sleep_pattern": "16 ~ 18小时 (白天在黑暗躲避穴中睡觉)",
-          "temperament": "极度胆小、独居性、夜行性、极其敏感"
-        },
-        "intro": "非洲迷你刺猬以其小心翼翼探出头、抽动鼻子的可爱模样而极具魅力，是一种适合静静观察 responses 异国宠物。它们天生胆小，使用刺进行防御，在遇到陌生的气味时会制造唾液泡沫涂抹在背刺上。此外，如果室温略有下降，它们可能会陷入致命 responses 假冬眠状态。今天 PetSelf 将为您介绍非洲迷你刺猬 responses 涂刺行为、安全应对技巧以及维持24小时适宜温度和卫生 responses 3阶段日常护理流程。",
-        "whyTitle": "迷你刺猬 responses 本能：涂刺泡沫与棘刺警惕信号",
-        "whyDesc": "非洲迷你刺猬在感知到新物体的味道或气味时，会从口中制造出泡沫唾液并涂抹在背刺上，这一过程被称为 **“涂刺（Self-Anointing）”**。这是正常 responses 本能行为，用于伪装自己 responses 气味。相反，当感到害怕时，它们会缩成球并发出 **“呼呼（Hissing）”** responses 声音来警告外界。",
-        "body_signals": [
-          {
-            "name": "涂抹泡沫 (Self-Anointing)",
-            "meaning": "探索新气味，并将其涂抹在自身 responses 刺上以进行掩护 responses 无害野生本能行为。",
-            "response": "这是正常行为，请勿误认为疾病并强行阻止，让它们自然地适应并记录气味。"
-          },
-          {
-            "name": "缩成球并发出呼呼声 (Hissing/Ball-up)",
-            "meaning": "对周围感到极度恐惧，完全竖起棘刺以阻止任何物理接触 responses 防御模式。",
-            "response": "请勿徒手强行抚摸，用一块毛毯覆盖以制造黑暗 responses 遮蔽，并让其安静片刻。"
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "早上：清洗被排泄物污染 responses 跑轮和餐具",
-            "text": "刺猬有在跑轮奔跑时排便 responses 习性，因此早上应迅速对夜间使用 responses 跑轮和餐具进行清洗和消毒。"
-          },
-          {
-            "name": "白天：维持室温在24-26°C并配置加湿器",
-            "text": "为防止因寒冷导致低体温症和冬眠死亡，随时检查宠物电热毯和自动温控器是否正常运转。"
-          },
-          {
-            "name": "晚上：喂食低脂营养饲料与足底伤口检查",
-            "text": "由于它们在夜间开始进食，应提供易消化 responses 饲料，并用手电筒检查容易因跑轮磨损或砂子划伤 responses 足底。"
-          }
-        ],
-        "faqs": [
-          {
-            "question": "刺猬感冒或陷入低体温症时会发出什么信号？",
-            "answer": "如果温度不适宜，它们会肚子贴地趴着且无法正常行走，身体冰凉，即使摇晃也表现得极度无力。此时应立即用温热 responses 毛巾包裹，移至温暖 responses 房间逐渐提高体温，并立即送医。"
-          },
-          {
-            "question": "刺猬需要磨牙玩具吗？",
-            "answer": "与老鼠不同，刺猬 responses 牙齿不会终生持续生长。因此不需要磨牙玩具。相反，咬硬物容易折断其牙齿，应避免喂食过硬 responses 饲料颗粒。"
-          }
-        ],
-        "tags": [
-          "非洲迷你刺猬",
-          "涂刺泡沫",
-          "刺猬温控",
-          "预防异宠冬眠"
-        ]
-      },
-      "es": {
-        "title": "Ungimiento del erizo pigmeo africano y rutina diaria de cuidado térmico de 3 pasos",
-        "description": "Cuidado del erizo pigmeo africano. Comprenda sus comportamientos únicos de ungirse con saliva espumosa y mantenga una temperatura óptima de 24-26 °C con nuestra rutina diaria de 3 pasos.",
-        "authority": "Pautas de la Hedgehog Welfare Society y Protocolos Veterinarios de Medicina de Animales Exóticos",
-        "profile": {
-          "breed": "Erizo Pigmeo Africano (Atelerix albiventris / African Pygmy Hedgehog)",
-          "lifespan": "4 ~ 6 años",
-          "sleep_pattern": "16 ~ 18 horas (nocturno y duerme en su escondite)",
-          "temperament": "Muy tímido, solitario, nocturno, sensible"
-        },
-        "intro": "El erizo pigmeo africano es una mascota exótica fascinante y silenciosa. Son naturalmente tímidos, usan sus púas para defenderse y esparcen saliva espumosa en sus espaldas cuando encuentran nuevos olores. Además, corren el riesgo de sufrir un choque de hibernación fatal si la temperatura ambiente desciende. Hoy en PetSelf, describimos los comportamientos de las púas del erizo, consejos para el autoungimiento y una rutina de 3 pasos para mantener el calor y la limpieza estables.",
-        "whyTitle": "Instintos del erizo pigmeo: Espuma de autoungimiento y defensa con púas",
-        "whyDesc": "Cuando los erizos pigmeos africanos prueban o huelen algo nuevo, crean saliva espumosa y la aplican a sus púas, un proceso llamado **'Autoungimiento' (Self-Anointing)**. Este es un comportamiento normal para camuflar su olor. Por el contrario, cuando se asustan, se curvan en una bola apretada e emiten **'Siseos' (Hissing)** para advertir que no se les toque.",
-        "body_signals": [
-          {
-            "name": "Autoungimiento (Self-Anointing)",
-            "meaning": "Un instinto salvaje inofensivo para registrar y recubrir sus púas con nuevos olores ambientales.",
-            "response": "No los interrumpa ni lo confunda con una enfermedad; deje que se sientan cómodos con el olor de forma natural."
-          },
-          {
-            "name": "Siseo y curvado en bola (Hissing/Ball-up)",
-            "meaning": "Un modo defensivo que indica miedo severo, levantando púas para bloquear cualquier contacto físico.",
-            "response": "Evite intentar manipularlos con las manos desnudas. Cúbralos con una manta de felpa suave para crear un refugio oscuro."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Mañana: Lavado de ruedas de ejercicio y platos sucios",
-            "text": "Dado que los erizos tienden a defecar mientras corren en su rueda, limpie y desinfecte la rueda y los platos todas las mañanas."
-          },
-          {
-            "name": "Tarde: Mantener la temperatura de la habitación entre 24 y 26 °C",
-            "text": "Prevenga la baja temperatura corporal y la hibernación revisando las almohadillas térmicas y los termostatos digitales con regularidad."
-          },
-          {
-            "name": "Noche: Alimentación con dieta insectívora alta en proteínas y control de patas",
-            "text": "Proporcione croquetas a base de insectos de alta calidad y revise sus patas con una linterna para detectar heridas causadas por la rueda."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "¿Cuáles son las señales de advertencia de hipotermia o hibernación en los erizos?",
-            "answer": "Si tienen demasiado frío, se acuestan sobre su vientre, tienen dificultades para caminar y se muestran letárgicos. Envuélvalos en una toalla tibia inmediatamente, colóquelos en una habitación cálida para elevar la temperatura gradualmente y busque atención veterinaria."
-          },
-          {
-            "question": "¿Los erizos necesitan juguetes para masticar?",
-            "answer": "A diferencia de los roedores, los dientes de los erizos no crecen continuamente. No necesitan juguetes para masticar, y los objetos duros pueden fracturar sus dientes. Evite croquetas excesivamente duras."
-          }
-        ],
-        "tags": [
-          "ErizoPigmeo",
-          "Autoungimiento",
-          "TemperaturaDeErizo",
-          "PrevenciónDeHibernación"
-        ]
-      },
-      "fr": {
-        "title": "Autounguement du Hérisson Pygmée Africain et routine quotidienne de soin thermique en 3 étapes",
-        "description": "Soin du hérisson pygmée africain. Comprenez ses comportements uniques d'autounguement avec de la salive mousseuse et maintenez une température optimale de 24-26 °C avec notre routine en 3 étapes.",
-        "authority": "Directives de la Hedgehog Welfare Society et Protocoles Vétérinaires pour Animaux Exotiques",
-        "profile": {
-          "breed": "Hérisson Pygmée Africain (Atelerix albiventris / African Pygmy Hedgehog)",
-          "lifespan": "4 ~ 6 ans",
-          "sleep_pattern": "16 ~ 18 heures (nocturne et dort dans sa cachette)",
-          "temperament": "Très timide, solitaire, nocturne, sensible"
-        },
-        "intro": "L'hérisson pygmée africain est un animal de compagnie exotique fascinant et silencieux. Ils sont naturellement timides, utilisent leurs piquants pour se défendre et étalent de la salive mousseuse sur leur dos lorsqu'ils rencontrent de nouvelles odeurs. De plus, ils risquent un choc d'hibernation fatal si la température ambiante baisse. Aujourd'hui sur PetSelf, nous décrivons les comportements des piquants de l'hérisson, des conseils pour l'autounguement et une routine en 3 étapes pour maintenir la chaleur et la propreté stables.",
-        "whyTitle": "Instincts du hérisson pygmée : Mousse d'autounguement et défense avec piquants",
-        "whyDesc": "Lorsque les hérissons pygmées africains goûtent ou sentent quelque chose de nouveau, ils créent une salive mousseuse et l'appliquent sur leurs piquants, un processus appelé **'Autounguement' (Self-Anointing)**. C'est un comportement normal pour camoufler leur odeur. À l'inverse, lorsqu'ils ont peur, ils se roulent en boule serrée et émettent des **'Sifflements' (Hissing)** pour avertir de ne pas les toucher.",
-        "body_signals": [
-          {
-            "name": "Autounguement (Self-Anointing)",
-            "meaning": "Un instinct sauvage inoffensif pour enregistrer et recouvrir leurs piquants de nouvelles odeurs environnementales.",
-            "response": "Ne les interrompez pas et ne le confondez pas avec une maladie ; laissez-les se familiariser avec l'odeur naturellement."
-          },
-          {
-            "name": "Sifflement et roulement en boule (Hissing/Ball-up)",
-            "meaning": "Un mode défensif indiquant une peur sévère, érigeant les piquants pour bloquer tout contact physique.",
-            "response": "Évitez d'essayer de les manipuler à mains nues. Couvrez-les d'une couverture en polaire douce pour créer un abri sombre."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Matin : Lavage de la roue d'exercice et des plats sales",
-            "text": "Puisque les hérissons ont tendance à déféquer pendant qu'ils courent sur leur roue, nettoyez et désinfectez la roue et les plats chaque matin."
-          },
-          {
-            "name": "Après-midi : Maintenir la température de la pièce entre 24 et 26 °C",
-            "text": "Prévenez la baisse de température corporelle et l'hibernation en vérifiant régulièrement les tapis chauffants et les thermostats digitaux."
-          },
-          {
-            "name": "Soir : Alimentation riche en protéines à base d'insectes et contrôle des pattes",
-            "text": "Fournissez des croquettes de haute qualité à base d'insectes et vérifiez leurs pattes avec une lampe pour détecter les blessures causées par la roue."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Quels sont les signes d'alerte de l'hypothermie ou de l'hibernation chez les hérissons ?",
-            "answer": "S'ils ont trop froid, ils s'allongent sur le ventre, ont des difficultés à marcher et semblent léthargiques. Enveloppez-les immédiatement dans une serviette chaude, placez-les dans une pièce chaude pour élever progressivement leur température et consultez un vétérinaire."
-          },
-          {
-            "question": "Les hérissons ont-ils besoin de jouets à ronger ?",
-            "answer": "Contrairement aux rongeurs, les dents des hérissons ne poussent pas continuellement. Ils n'ont pas besoin de jouets à ronger, et les objets durs peuvent fracturer leurs dents. Évitez les croquettes excessivement dures."
-          }
-        ],
-        "tags": [
-          "HérissonPygmée",
-          "Autounguement",
-          "TempératureHérisson",
-          "PréventionHibernation"
-        ]
-      },
-      "de": {
-        "title": "Einspeicheln des Afrikanischen Weißbauchigels und thermische 3-Schritte-Tagesroutine",
-        "description": "Pflege für den Afrikanischen Weißbauchigel. Verstehen Sie sein einzigartiges Verhalten des Einspeichelns mit schäumendem Speichel und halten Sie eine optimale Temperatur von 24-26 °C mit unserer Routine.",
-        "authority": "Richtlinien der Hedgehog Welfare Society und Veterinär-Protokolle für exotische Kleintiere",
-        "profile": {
-          "breed": "Afrikanischer Weißbauchigel (Atelerix albiventris / African Pygmy Hedgehog)",
-          "lifespan": "4 ~ 6 Jahre",
-          "sleep_pattern": "16 ~ 18 Stunden (nachtaktiv & schläft im Versteck)",
-          "temperament": "Sehr scheu, einzelgängerisch, nachtaktiv, sensibel"
-        },
-        "intro": "Der Afrikanische Weißbauchigel ist ein faszinierendes und ruhiges exotisches Heimtier. Sie sind von Natur aus scheu, nutzen ihre Stacheln zur Verteidigung und verteilen schäumenden Speichel auf ihrem Rücken, wenn sie auf neue Gerüche stoßen. Zudem riskieren sie einen tödlichen Winterschlaf-Schock, wenn die Umgebungstemperatur sinkt. Heute auf PetSelf beschreiben wir das Stachelverhalten des Igels, Tipps zum Selbst-Einspeicheln und eine 3-Schritte-Routine für stabile Wärme und Sauberkeit.",
-        "whyTitle": "Instinkte des Weißbauchigels: Selbst-Einspeicheln und Stachelverteidigung",
-        "whyDesc": "Wenn Afrikanische Weißbauchigel etwas Neues schmecken oder riechen, erzeugen sie schäumenden Speichel und tragen ihn auf ihre Stacheln auf – ein Vorgang namens **'Selbst-Einspeicheln' (Self-Anointing)**. Dies ist ein normales Verhalten zur Tarnung ihres Geruchs. Wenn sie sich erschrecken, rollen sie sich zu einer engen Kugel zusammen und fauchen **'Fauchen' (Hissing)**, um Berührungen abzuwehren.",
-        "body_signals": [
-          {
-            "name": "Selbsteinspeicheln (Self-Anointing)",
-            "meaning": "Ein harmloser wilder Instinkt, um neue Umweltgerüche zu registrieren und auf ihre Stacheln aufzutragen.",
-            "response": "Unterbrechen Sie sie nicht und verwechseln Sie es nicht mit einer Krankheit. Lassen Sie sie sich ganz natürlich an den Geruch gewöhnen."
-          },
-          {
-            "name": "Fauchen & Einrollen (Hissing/Ball-up)",
-            "meaning": "Ein Verteidigungsmodus, der auf starke Angst hindeutet und bei dem die Stacheln aufgestellt werden, um jeden physischen Kontakt zu blockieren.",
-            "response": "Vermeiden Sie es, sie mit bloßen Händen anzufassen. Decken Sie sie mit einer weichen Vliesdecke ab, um einen dunklen Unterschlupf zu schaffen."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Morgen: Reinigung der verschmutzten Laufräder und Näpfe",
-            "text": "Da Igel beim Laufen im Laufrad koten, reinigen und desinfizieren Sie das Laufrad und die Näpfe jeden Morgen."
-          },
-          {
-            "name": "Nachmittag: Raumtemperatur zwischen 24 und 26 °C halten",
-            "text": "Vermeiden Sie eine niedrige Körpertemperatur und Winterschlaf, indem Sie Heizmatten und digitale Thermostate regelmäßig überprüfen."
-          },
-          {
-            "name": "Abend: Proteinreiche Insektenfütterung und Pfotenkontrolle",
-            "text": "Bieten Sie hochwertiges Trockenfutter auf Insektenbasis an und überprüfen Sie die Pfoten mit einer Taschenlampe auf Wunden, die durch das Laufen im Rad entstanden sind."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Was sind die Warnsignale für Unterkühlung oder Winterschlaf bei Igeln?",
-            "answer": "Wenn sie zu kalt sind, liegen sie flach auf dem Bauch, haben Schwierigkeiten beim Gehen und wirken lethargisch. Wickeln Sie sie sofort in ein warmes Handtuch, bringen Sie sie in einen warmen Raum zur schrittweisen Erwärmung und suchen Sie tierärztliche Hilfe auf."
-          },
-          {
-            "question": "Benötigen Igel Knabberspielzeug?",
-            "answer": "Im Gegensatz zu Nagetieren wachsen die Zähne von Igeln nicht kontinuierlich nach. Sie benötigen keine Nagespielzeuge, und harte Gegenstände können ihre Zähne brechen. Vermeiden Sie übermäßig hartes Trockenfutter."
-          }
-        ],
-        "tags": [
-          "Weißbauchigel",
-          "Selbsteinspeicheln",
-          "Igelwärme",
-          "Winterschlafprävention"
-        ]
-      },
-      "pt": {
-        "title": "Ungimento do Ouriço-Cacheiro Pigmeu Africano e rotina diária de cuidado térmico de 3 passos",
-        "description": "Cuidado do ouriço-cacheiro pigmeu africano. Compreenda os seus comportamentos únicos de ungir-se com saliva espumosa e mantenha uma temperatura ótima de 24-26 °C com a nossa rotina de 3 passos.",
-        "authority": "Diretrizes da Hedgehog Welfare Society e Protocolos Veterinários de Medicina de Animais Exóticos",
-        "profile": {
-          "breed": "Ouriço-Cacheiro Pigmeu Africano (Atelerix albiventris / African Pygmy Hedgehog)",
-          "lifespan": "4 ~ 6 anos",
-          "sleep_pattern": "16 ~ 18 horas (noturno e dorme no seu esconderijo)",
-          "temperament": "Muito tímido, solitário, noturno, sensível"
-        },
-        "intro": "O ouriço-cacheiro pigmeu africano é um animal de estimação exótico fascinante e silencioso. São naturalmente tímidos, usam os seus espinhos para se defenderem e espalham saliva espumosa nas suas costas quando encontram novos cheiros. Além disso, correm o risco de sofrer um choque de hibernação fatal se a temperatura ambiente descer. Hoje no PetSelf, descrevemos os comportamentos dos espinhos do ouriço, conselhos para o autoungimento e uma rotina de 3 passos para manter o calor e a limpeza estáveis.",
-        "whyTitle": "Instintos do ouriço-cacheiro pigmeu: Espuma de autoungimento e defesa com espinhos",
-        "whyDesc": "Quando os ouriços pigmeus africanos provam ou cheiram algo novo, criam saliva espumosa e aplicam-na nos seus espinhos, um processo chamado **'Autoungimento' (Self-Anointing)**. Este é um comportamento normal para camuflar o seu cheiro. Pelo contrário, quando se assustam, curvam-se numa bola apertada e sibilam **'Sibilos' (Hissing)** para advertir que não se lhes toque.",
-        "body_signals": [
-          {
-            "name": "Autoungimento (Self-Anointing)",
-            "meaning": "Um instinto selvagem inofensivo para registrar e recobrir os seus espinhos com novos cheiros ambientais.",
-            "response": "Não os interrompa nem o confunda com uma doença. Deixe que se sintam confortáveis com o cheiro de forma natural."
-          },
-          {
-            "name": "Sibilo e curvado em bola (Hissing/Ball-up)",
-            "meaning": "Um modo defensivo que indica medo severo, levantando espinhos para bloquear qualquer contacto físico.",
-            "response": "Evite tentar manipulá-los com as mãos nuas. Cubra-os com uma manta de feltro suave para criar um refúgio escuro."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Manhã: Lavagem de rodas de exercício e pratos sujos",
-            "text": "Dado que os ouriços tendem a defecar enquanto correm na sua roda, limpe e desinfete a roda e os pratos todas as manhãs."
-          },
-          {
-            "name": "Tarde: Manter a temperatura do quarto entre 24 e 26 °C",
-            "text": "Previna a baixa temperatura corporal e a hibernação revendo as almofadas térmicas e os termostatos digitais com regularidade."
-          },
-          {
-            "name": "Noite: Alimentação com dieta insectívora alta em proteínas e controlo de patas",
-            "text": "Proporcione ração à base de insetos de alta qualidade e reveja as suas patas com lanterna para detectar feridas causadas por correr na roda."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Quais são os sinais de aviso de hipotermia ou hibernação nos ouriços?",
-            "answer": "Se têm demasiado frio, deitam-se sobre o seu ventre, têm dificuldades para caminhar e mostram-se letárgicos. Envolva-os numa toalha morna imediatamente, coloque-os num quarto quente para reaquecimento gradual e procure atenção veterinária."
-          },
-          {
-            "question": "Os ouriços necessitam de brinquedos para mastigar?",
-            "answer": "Ao contrário dos roedores, os dentes dos ouriços não crescem continuamente. Não necessitam de brinquedos para mastigar, e os objetos duros podem fraturar os seus dentes. Evite ração excessivamente dura."
-          }
-        ],
-        "tags": [
-          "OuriçoPigmeu",
-          "Autoungimento",
-          "TemperaturaDeOuriço",
-          "PrevençãoDeHibernação"
-        ]
-      },
-      "id": {
-        "title": "Pengurapan Diri Landak Mini Afrika dan Rutinitas Harian 3 Langkah Perawatan Suhu",
-        "description": "Perawatan landak mini Afrika. Pahami perilaku unik mereka mengurapi diri dengan air liur berbusa dan pertahankan suhu optimal 24-26 °C dengan rutin 3 langkah musim dingin kami yang aman.",
-        "authority": "Panduan Hedgehog Welfare Society dan Protokol Kedokteran Hewan Eksotis",
-        "profile": {
-          "breed": "Landak Mini Afrika (Atelerix albiventris / African Pygmy Hedgehog)",
-          "lifespan": "4 ~ 6 tahun",
-          "sleep_pattern": "16 ~ 18 jam (nokturnal & tidur di tempat persembunyian)",
-          "temperament": "Sangat penakut, soliter, nokturnal, sensitif"
-        },
-        "intro": "Landak mini Afrika adalah peliharaan eksotis yang tenang dan menarik. Mereka pemalu secara alami, menggunakan duri untuk pertahanan diri dan melumuri air liur berbusa pada punggung mereka saat menemui aroma baru. Selain itu, mereka berisiko mengalami syok hibernasi fatal jika suhu ruangan turun. Hari ini di PetSelf, kami menguraikan perilaku duri landak mini, tips pengurapan diri, dan 3 langkah rutinitas harian untuk menjaga kehangatan dan kebersihan tetap stabil.",
-        "whyTitle": "Insting Landak Mini: Busa Pengurapan Diri dan Pertahanan Duri",
-        "whyDesc": "Saat landak mini Afrika merasakan atau mencium sesuatu yang baru, mereka membuat air liur berbusa dan mengoleskannya ke duri mereka, sebuah proses yang disebut **'Pengurapan Diri' (Self-Anointing)**. Ini adalah perilaku normal untuk menyamarkan aroma mereka. Sebaliknya, ketika takut, mereka menggulung tubuh menjadi bola rapat dan mendesis **'Mendesis' (Hissing)** untuk memperingatkan agar tidak disentuh.",
-        "body_signals": [
-          {
-            "name": "Pengurapan Diri (Self-Anointing)",
-            "meaning": "Insting liar yang tidak berbahaya untuk mencatat dan melapisi duri mereka dengan aroma lingkungan yang baru.",
-            "response": "Jangan ganggu mereka atau salah mengartikannya sebagai penyakit. Biarkan mereka merasa nyaman dengan aroma tersebut secara alami."
-          },
-          {
-            "name": "Mendesis & Menggulung Menjadi Bola (Hissing/Ball-up)",
-            "meaning": "Mode defensif yang menunjukkan ketakutan parah, menegakkan duri untuk menghalangi kontak fisik apa pun.",
-            "response": "Hindari memegang mereka dengan tangan telanjang. Tutup dengan selimut bulu domba lembut untuk membuat perlindungan yang gelap."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Pagi: Membersihkan Roda Putar dan Wadah Makanan yang Kotor",
-            "text": "Karena landak cenderung buang air besar saat berlari di roda putar, bersihkan dan sterilkan roda serta mangkuk setiap pagi."
-          },
-          {
-            "name": "Siang: Menjaga Suhu Ruangan Antara 24 hingga 26 °C",
-            "text": "Cegah suhu tubuh rendah dan hibernasi dengan memeriksa bantalan pemanas dan termostat digital secara teratur."
-          },
-          {
-            "name": "Malam: Pemberian Pakan Serangga Tinggi Protein & Pemeriksaan Kaki",
-            "text": "Sediakan kibble berkualitas tinggi berbahan dasar serangga, dan periksa kaki mereka dengan senter untuk mendeteksi luka akibat berlari di roda."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Apa tanda peringatan hipotermia atau hibernasi pada landak mini?",
-            "answer": "Jika terlalu dingin, mereka berbaring datar di atas perut, kesulitan berjalan, dan tampak lesu. Segera bungkus dengan handuk hangat, tempatkan di ruangan yang hangat untuk penghangatan bertahap, dan cari bantuan dokter hewan."
-          },
-          {
-            "question": "Apakah landak mini membutuhkan mainan kunyah?",
-            "answer": "Tidak seperti hewan pengerat, gigi landak mini tidak tumbuh terus-menerus. Mereka tidak membutuhkan mainan kunyah, dan benda keras dapat mematahkan gigi mereka. Hindari kibble yang terlalu keras."
-          }
-        ],
-        "tags": [
-          "LandakMini",
-          "PengurapanDiri",
-          "SuhuLandakMini",
-          "PencegahanHibernasi"
-        ]
-      }
-    },
-    "category": "CareSelf",
-    "app": "careself",
-    "formatVersion": 4,
-    "heroImage": "/images/blog/pygmy_hedgehog_care.png"
-  }
+        "category": "CareSelf",
+        "app": "careself",
+        "formatVersion": 4,
+        "heroImage": "/images/blog/pygmy_hedgehog_care.webp"
+    }
 }

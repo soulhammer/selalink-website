@@ -6,7 +6,7 @@ pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
 category: "FreshSnap"
 tags: ["ConservacaoAlimentos","ArmazenamentoFresco","egg"]
-heroImage: "/images/blog/egg_storage_hack.png"
+heroImage: "/images/blog/egg_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & USDA & FDA</strong>"

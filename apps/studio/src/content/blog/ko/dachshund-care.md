@@ -6,7 +6,7 @@ pubDate: "2026-06-20"
 updatedDate: "2026-06-20"
 category: "FreshSelf"
 tags: ["반려동물","펫케어","닥스훈트 (Canis lupus familiaris)"]
-heroImage: "/images/blog/dachshund_care.png"
+heroImage: "/images/blog/dachshund_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "미국 캔넬 클럽(AKC) 닥스훈트 건강 가이드 및 수의학 척추 연합 권고사항"

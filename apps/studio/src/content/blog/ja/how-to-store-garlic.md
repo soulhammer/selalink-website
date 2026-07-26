@@ -6,7 +6,7 @@ pubDate: "2026-02-02"
 updatedDate: "2026-02-02"
 category: "FreshSnap"
 tags: ["食材保存","鮮度保持","garlic"]
-heroImage: "/images/blog/garlic_storage_hack.png"
+heroImage: "/images/blog/garlic_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>農村振興庁(RDA) & 食品医薬品安全処(MFDS) & 米国農務省(USDA)</strong>"

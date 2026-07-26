@@ -6,7 +6,7 @@ pubDate: "2026-06-05"
 updatedDate: "2026-06-05"
 category: "FreshSelf"
 tags: ["宠物护理","宠物健康","波斯猫 (Felis catus / Persian Cat)"]
-heroImage: "/images/blog/persian_care.png"
+heroImage: "/images/blog/persian_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "CFA 波斯猫品种指南与 AAFP 兽医学标准"

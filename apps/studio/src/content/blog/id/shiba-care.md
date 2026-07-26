@@ -6,7 +6,7 @@ pubDate: "2026-01-29"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
 tags: ["PerawatanHewan","KesehatanHewan","Shiba Inu"]
-heroImage: "/images/blog/shiba_care.png"
+heroImage: "/images/blog/shiba_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Klub Nasional Shiba Inu Amerika & Pedoman Modifikasi Perilaku IAABC"

@@ -46,7 +46,7 @@ This morning writing habit, which anchored him through battle, disease, and poli
 
 ## 1. Why Morning Reflective Journaling Blocks Stress
 
-Writing immediately upon waking acts as a cognitive filter for the brain. Pouring vague anxieties and emotional concerns onto paper activates the prefrontal cortex responsible for reasoning while instantly calming hyperactive amygdala stress responses. This cognitive reframing normalizes cortisol secretion and boosts executive control, preparing you to carry out your duties calmly without being overwhelmed by emotion.
+Writing immediately upon waking acts as a cognitive filter for the brain. Pouring vague anxieties and emotional concerns onto paper activates the prefrontal cortex responsible for reasoning while instantly calming hyperactive amygdala stress. This cognitive reframing normalizes cortisol secretion and boosts executive control, preparing you to carry out your duties calmly without being overwhelmed by emotion.
 
 ---
 

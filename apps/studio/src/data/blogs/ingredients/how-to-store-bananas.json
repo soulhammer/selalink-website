@@ -1,454 +1,454 @@
 {
-  "how-to-store-bananas": {
-    "ingId": "banana",
-    "pubDate": "2026-03-05",
-    "updatedDate": "2026-03-05",
-    "heroImage": "/images/blog/banana_storage_hack.png",
-    "category": "FreshSnap",
-    "app": "freshsnap",
-    "formatVersion": 4,
-    "locales": {
-      "ko": {
-        "title": "바나나 신선하게 보관하는 법: 과학적 보관 가이드",
-        "description": "공인된 안전 가이드라인에 따른 바나나의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-        "authority": "<strong>USDA & WHO</strong>",
-        "intro": "마트에서 노랗고 예쁜 바나나 한 송이를 사 왔는데, 며칠 만에 거뭇거뭇한 반점이 생기더니 순식간에 물러져 버린 경험 다들 있으시죠? 🍌\n\n바나나는 전 세계인이 가장 사랑하는 과일이지만, 상온에서 호흡 속도가 매우 빠르고 스스로 익히는 호르몬을 뿜어내기 때문에 보관 난이도가 꽤 높은 편입니다.\n\n오늘 FreshSnap에서는 공인된 식재료 안전 가이드를 기반으로, 과학적이고 확실하게 바나나 신선도를 유지하는 3단계 보관 비법을 알려드립니다. 🛡️",
-        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-        "whyDesc": "각 식재료의 고유한 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-        "guideTitle": "과학적으로 검증된 보관 가이드",
-        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-        "tags": [
-          "바나나",
-          "과학적으로 검증된 보관 가이드",
-          "fruit"
-        ],
-        "cautions": [
-          {
-            "title": "사과와 함께 두지 마세요 🍎",
-            "desc": "사과는 에틸렌 가스 방출의 최강자입니다. 바나나를 사과 옆에 두면 하루 만에 새까맣게 변할 수 있으니 반드시 격리해 주세요."
-          },
-          {
-            "title": "밀폐 용기에 상온 방치 금지 📦",
-            "desc": "밀봉된 통에 넣어 상온에 두면 갇힌 가스 때문에 온도가 올라가 순식간에 녹아내립니다."
-          }
-        ],
-        "steps": [
-          {
-            "name": "바나나 걸이(행거) 사용하기 — 실온 보관 (7일) 🍌",
-            "text": "바나나를 바닥에 그냥 두면 자체 무게로 인해 아랫부분이 눌려 멍이 듭니다. 멍든 부위는 세포벽이 파괴되어 에틸렌 가스가 과다하게 분출되고 갈변이 가속화됩니다. 💡 보관 팁: 바나나 전용 걸이나 옷걸이에 매달아 공중에 띄워 보관하세요. 바나나는 나무에 매달려 있는 상태로 착각하여 눌림 없이 훨씬 오랫동안 단단함을 유지합니다. Hanging을 통해 자연 생장 환경을 그대로 모사해주는 원리입니다."
-          },
-          {
-            "name": "꼭지 부분을 알루미늄 호일로 밀봉하기 — 가스 차단 🪙",
-            "text": "바나나의 에틸렌 가스는 대부분 꼭지(줄기 연결 부위)에서 방출됩니다. 💡 보관 팁: 바나나 꼭지 부분을 알루미늄 호일이나 식품용 랩으로 빈틈없이 꽁꽁 감싸주세요. 가스가 밖으로 퍼져나가는 것을 막아주어 전체적인 숙성 속도를 최소 3~5일 이상 늦출 수 있습니다."
-          },
-          {
-            "name": "완숙 후에는 냉장 보관 활용하기 — 냉장 보관 (7일) ❄️",
-            "text": "많은 분들이 바나나는 절대 냉장고에 넣으면 안 된다고 알고 계시지만, 이는 절반만 맞고 절반은 틀린 상식입니다. 덜 익은 초록색 바나나를 냉장고에 넣으면 세포가 냉해를 입어 갈변하고 익지 않습니다. 하지만 검은 반점(슈가스팟)이 생기며 완숙된 바나나는 다릅니다. 💡 보관 팁: 완숙된 바나나를 랩으로 개별 포장하여 냉장고 야채칸(0~4℃)에 보관하세요. 껍질은 차가운 온도 때문에 까맣게 변하지만, 내부 과육의 노화는 차단되어 속살의 신선함과 단단함은 최대 일주일 이상 오래 유지됩니다."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "바나나를 냉장 보관하면 껍질이 까맣게 변하는데 먹어도 되나요?",
-            "answer": "네, 껍질이 갈색이나 검은색으로 변하는 것은 저온 냉해 현상으로, 내부 과육은 여전히 신선하고 단맛이 더 강해집니다. 단, 냉장실에 넣기 전 완전히 익은 상태여야 합니다."
-          },
-          {
-            "question": "바나나 꼭지를 호일로 감싸는 이유는 무엇인가요?",
-            "answer": "바나나의 꼭지 부위는 에틸렌 가스를 가장 많이 방출하는 통로입니다. 이곳을 호일로 꽁꽁 싸두면 가스 방출이 억제되어 바나나가 무르는 속도를 크게 늦출 수 있습니다."
-          }
-        ]
-      },
-      "en": {
-        "title": "How to Store Banana Fresh: Scientific Storage Guide",
-        "description": "Learn the best storage temperature, methods, and duration for Banana based on official safety guidelines.",
-        "authority": "<strong>USDA & WHO</strong>",
-        "intro": "Have you ever left bananas on the counter only to have fruit flies swarm them and turn them black in a single day? Today, FreshSnap shares scientific storage hacks to keep bananas fresh for over 10 days without a banana stand.",
-        "whyTitle": "Why store like this? Scientific facts",
-        "whyDesc": "Understanding the unique characteristics of each ingredient and following the proper storage method is extremely important for maintaining freshness and hygiene.",
-        "guideTitle": "Scientifically Proven Storage Guide",
-        "cautionTitle": "Crucial Rules and Cautions",
-        "tags": [
-          "Banana",
-          "Scientifically Proven Storage Guide",
-          "fruit"
-        ],
-        "cautions": [
-          {
-            "title": "Wrap the crown tightly with plastic wrap",
-            "desc": "Ethylene gas is mostly released from the stem/crown. Wrapping it slows down the ripening and browning of the whole bunch."
-          },
-          {
-            "title": "Do not mix with other high-ethylene fruits",
-            "desc": "Storing bananas near apples or peaches causes them to overripen and rot rapidly due to double gas exposure."
-          }
-        ],
-        "steps": [
-          {
-            "name": "Hang Them Up to Prevent Bruising — Room Temp Storage (7 Days) 🍌",
-            "text": "Leaving bananas lying on a flat surface causes the bottom fruits to bruise under their own weight. Bruised spots accelerate ethylene gas release and browning. 💡 Storage Tip: Hang bananas on a banana hanger or a coat hanger to suspend them. This mimics their natural growing environment, keeping them firm and bruise-free for much longer."
-          },
-          {
-            "name": "Wrap the crown with aluminum foil — Gas blockage 🪙",
-            "text": "Most of the banana's ethylene gas is released from the stem (crown). 💡 Storage Tip: Wrap the crown tightly with aluminum foil or plastic wrap. This prevents the gas from spreading, slowing down the ripening of the entire bunch by 3 to 5 days."
-          },
-          {
-            "name": "Refrigerate ONLY After Ripening — Refrigerated Storage (7 Days) ❄️",
-            "text": "While many believe bananas should never be refrigerated, this is only true for unripe ones. Refrigerating green bananas causes cold damage, turning them black without ripening. However, fully ripe bananas with sugar spots are different. 💡 Storage Tip: Wrap ripe bananas individually and store them in the crisper drawer (0–4°C). The peel will turn black due to the cold, but the pulp inside will remain firm and fresh for up to a week."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "My banana peel turned black in the fridge, is it safe to eat?",
-            "answer": "Yes, blackening is a chilling reaction of the peel, but the flesh inside remains sweet and safe to eat. Ensure they are fully ripe before refrigerating."
-          },
-          {
-            "question": "Why wrap banana stems in aluminum foil?",
-            "answer": "Banana stems release the most ethylene gas. Wrapping them tightly inhibits gas release, significantly delaying the softening of the fruit."
-          }
-        ]
-      },
-      "ja": {
-        "title": "バナナの鮮度を保つ保存方法：科学的保管ガイド",
-        "description": "公的安全基準に基づくバナナの最適な保存温度、保管方法、保存期間について解説します。",
-        "authority": "<strong>米国農務省(USDA) & 世界保健機関(WHO)</strong>",
-        "intro": "バナナを実温に置いておいたら、一日でコバエがたかり、真っ黒になってしまった経験はありませんか？バナナスタンドを使わずに10日以上鮮度を保つ科学的な保存方法をご紹介します。",
-        "whyTitle": "なぜこのように保存するのか？科学的な事実",
-        "whyDesc": "食材ごとの特性を理解し、正しい保存方法を実践することは、鮮度キープと衛生管理において非常に重要です。",
-        "guideTitle": "科学的に検証された保存ガイド",
-        "cautionTitle": "保存時の注意点",
-        "tags": [
-          "バナナ",
-          "科学的に検証された保存ガイド",
-          "fruit"
-        ],
-        "cautions": [
-          {
-            "title": "バナナの根本（コブ）の結合部分をラップでしっかり包んでください",
-            "desc": "エチレンガスは主に根本の茎から放出されます。ここをラップで覆うことで、バナナ全体の追熟と黒変を遅らせることができます。"
-          },
-          {
-            "title": "エチレンガスを多く放出する他の果物と一緒にしないでください",
-            "desc": "リンゴや桃などの近くに置くと、互いに放出するガスの相乗効果で成熟が進みすぎてしまい、あっという間に腐ってしまいます。"
-          }
-        ],
-        "steps": [
-          {
-            "name": "バナナスタンド（ハンガー）に吊るす — 常温保存 (7日間) 🍌",
-            "text": "バナナをテーブルなどに直に置いておくと、自重によって下の部分が潰れて傷んでしまいます。潰れた部分は傷みやすく、エチレンガスが過剰に発生して変色が進みます。💡保存のコツ：専用のスタンドやフックを使って吊るして保存してください。木に実っている状態に近い環境を作ることで、傷みを防ぎ長持ちします。"
-          },
-          {
-            "name": "茎（コブ）の結合部分をアルミホイルで包む — ガス遮断 🪙",
-            "text": "バナナのエチレンガスは、主に茎の結合部分から放出されます。💡保存のコツ：結合部分をアルミホイルやラップできつく包んでください。ガスが外部へ広がるのを抑え、全体の追熟を3〜5日遅らせることができます。"
-          },
-          {
-            "name": "熟した後は冷蔵庫（野菜室）を活用する — 冷蔵保存 (7日間) ❄️",
-            "text": "バナナは絶対に冷蔵庫に入れてはいけないと言われますが, それは未熟なバナナの場合です。未完熟の緑のバナナは冷気で傷んでしまいますが, 黒い斑点（シュガースポット）が出た完熟バナナは別です。💡保存のコツ：完熟したバナナを1本ずつラップで包み、冷蔵庫の野菜室（0〜4℃）に入れてください。皮は黒くなりますが、中の果肉はしっかりと固く、新鮮な状態が1週間以上保てます。"
-          }
-        ],
-        "faqs": [
-          {
-            "question": "バナナを冷蔵保存すると皮が黒くなりますが、食べても大丈夫ですか？",
-            "answer": "はい、皮が黒くなるのは低温障害によるものですが、中の果肉は新鮮で甘みも増しています。ただし、冷蔵庫に入れる前に完全に熟した状態でなければなりません。"
-          },
-          {
-            "question": "バナナの茎をアルミホイルで包む理由は何ですか？",
-            "answer": "バナナの茎の部分はエチレンガスを最も多く放出する場所です。ここをホイルで包むことでガスの放出が抑えられ、傷む速度を大幅に遅らせることができます。"
-          }
-        ]
-      },
-      "zh": {
-        "title": "如何保鲜储存香蕉：科学储存指南",
-        "description": "根据官方食品安全指南，了解香蕉的最佳储存温度、方式和保鲜时长。",
-        "authority": "<strong>美国农务部(USDA) & 世界卫生组织(WHO)</strong>",
-        "intro": "您是否曾把香蕉放在桌上，结果仅过了一天就引来果蝇，而且表皮变得漆黑？今天，FreshSnap为您分享无需香蕉架也能让香蕉保持新鲜10天以上的科学保存法。",
-        "whyTitle": "为什么要这样储存？科学原理",
-        "whyDesc": "了解每种食材的独特特性并遵循正确的储存方法，对于保持新鲜度和卫生至关重要。",
-        "guideTitle": "科学验证的储存指南",
-        "cautionTitle": "储存注意事项",
-        "tags": [
-          "香蕉",
-          "科学验证的储存指南",
-          "fruit"
-        ],
-        "cautions": [
-          {
-            "title": "用保鲜膜紧紧包裹香蕉根部",
-            "desc": "乙烯气体主要从香蕉根部释放。包裹住根部能减缓整串香蕉的熟化和变黑速度。"
-          },
-          {
-            "title": "请勿与其他释放大量乙烯的水果混放",
-            "desc": "将香蕉与苹果或桃子等放在一起，双重气体的暴露会导致香蕉过度成熟并迅速腐烂。"
-          }
-        ],
-        "steps": [
-          {
-            "name": "使用香蕉架悬挂保存 — 常温储存 (7天) 🍌",
-            "text": "如果将香蕉直接平放在桌面上，下方的香蕉会因自身重力受压产生褐斑。受损部位释放更多乙烯并加速变黑。💡储存小贴士：用香蕉架或挂钩将香蕉悬空挂起。这能模拟香蕉在树上的自然生长环境，防止挤压，长久保持坚挺新鲜。"
-          },
-          {
-            "name": "用铝箔纸包裹香蕉根部 — 阻断气体 🪙",
-            "text": "香蕉的乙烯气体主要从根部（茎部连接处）释放。💡储存小贴士：用铝箔纸或保鲜膜将香蕉根部紧紧缠绕。这样可以阻断气体散发，将整串香蕉的熟化速度延缓至少3-5天。"
-          },
-          {
-            "name": "成熟后放入冰箱冷藏 — 冷藏储存 (7天) ❄️",
-            "text": "许多人认为香蕉绝对不能放冰箱，但这其实只对未熟的香蕉有效。未熟的绿香蕉放冰箱会受冻伤导致变黑且无法熟化。但出现黑斑（糖斑）熟透的香蕉则不同。💡储存小贴士：将熟透的香蕉用保鲜膜单独包裹起来，放入冰箱蔬菜抽屉（0-4℃）。虽然皮会因低温变黑，但果肉不会变烂，新鲜度和硬度可维持一周以上。"
-          }
-        ],
-        "faqs": [
-          {
-            "question": "香蕉放冰箱冷藏皮变黑了还能吃吗？",
-            "answer": "可以。外皮变黑是香蕉的低温冻伤反应，但内部果肉依然新鲜，且甜度会增加。不过，放入冰箱前香蕉必须是完全成熟的状态。"
-          },
-          {
-            "question": "为什么用铝箔纸包住香蕉根部？",
-            "answer": "香蕉的根部是释放乙烯气体最多的地方。用铝箔纸紧紧包住根部可以抑制气体释放，从而显著减缓香蕉变软的速度。"
-          }
-        ]
-      },
-      "es": {
-        "title": "Cómo almacenar Plátano fresco: Guía científica de conservación",
-        "description": "Descubra la mejor temperatura, métodos y duración para conservar Plátano según las directrices oficiales de seguridad.",
-        "authority": "<strong>USDA & WHO</strong>",
-        "intro": "¿Dejó plátanos en la barra y vio cómo se llenaban de mosquitas y se ponían negros en un solo día? Hoy, FreshSnap comparte trucos para mantenerlos frescos más de 10 días sin un soporte para plátanos.",
-        "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
-        "whyDesc": "Comprender las características únicas de cada ingrediente y seguir el método de almacenamiento adecuado es fundamental para mantener la frescura y la higiene.",
-        "guideTitle": "Guía de almacenamiento científicamente probada",
-        "cautionTitle": "Reglas cruciales y precauciones",
-        "tags": [
-          "Plátano",
-          "Guía de almacenamiento científicamente probada",
-          "fruit"
-        ],
-        "cautions": [
-          {
-            "title": "Envuelva la corona firmemente con film plástico",
-            "desc": "El gas etileno se libera principalmente por el tallo. Envolverlo ralentiza la maduración y el oscurecimiento de todo el racimo."
-          },
-          {
-            "title": "No los mezcle con otras frutas de alto etileno",
-            "desc": "Guardar plátanos cerca de manzanas o duraznos hace que se maduren de más y se pudran rápido por la doble exposición al gas."
-          }
-        ],
-        "steps": [
-          {
-            "name": "Colgar los plátanos en un soporte — Conservación a Temp. Ambiente (7 Días) 🍌",
-            "text": "Dejar los plátanos apoyados en una superficie aplasta los frutos inferiores por su propio peso. Las partes golpeadas liberan más etileno y se oscurecen. 💡 Consejos de almacenamiento: Cuelgue los plátanos en un soporte. Esto imita su estado natural en el árbol, manteniéndolos firmes y sin abolladuras por más tiempo."
-          },
-          {
-            "name": "Envuelva la corona con papel de aluminio — Bloqueo de gas 🪙",
-            "text": "La mayor parte del gas etileno del plátano se libera por el tallo (corona). 💡 Consejos de almacenamiento: Envuelva la corona firmemente con papel de aluminio o film plástico. Esto evita que el gas se propague, retrasando la maduración del racimo de 3 a 5 días."
-          },
-          {
-            "name": "Refrigerar SOLO cuando estén maduros — Almacenamiento Refrigerado (7 Días) ❄️",
-            "text": "Muchos creen que los plátanos nunca deben refrigerarse, pero esto solo aplica para los verdes. El frío daña los plátanos verdes, ennegreciéndolos sin madurar. Sin embargo, los maduros con manchas oscuras son distintos. 💡 Consejos de almacenamiento: Envuelva los plátanos maduros de forma individual y guárdelos en el cajón de verduras (0-4 °C). La piel se oscurecerá por el frío, pero la pulpa se mantendrá firme por una semana."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "My banana peel turned black in the fridge, is it safe to eat?",
-            "answer": "Yes, blackening is a chilling reaction of the peel, but the flesh inside remains sweet and safe to eat. Ensure they are fully ripe before refrigerating."
-          },
-          {
-            "question": "Why wrap banana stems in aluminum foil?",
-            "answer": "Banana stems release the most ethylene gas. Wrapping them tightly inhibits gas release, significantly delaying the softening of the fruit."
-          }
-        ]
-      },
-      "fr": {
-        "title": "Comment conserver Banane frais : Guide scientifique de conservation",
-        "description": "Découvrez la température, les méthodes et la durée optimales de conservation pour Banane selon les directives de sécurité officielles.",
-        "authority": "<strong>USDA & WHO</strong>",
-        "intro": "Avez-vous déjà laissé des bananes sur le comptoir pour les retrouver noires et envahies de moucherons dès le lendemain ? Aujourd'hui, FreshSnap vous montre comment les garder fraîches plus de 10 jours sans porte-banane.",
-        "whyTitle": "Pourquoi conserver ainsi ? Faits scientifiques",
-        "whyDesc": "Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédient et de suivre la bonne méthode de conservation pour préserver la fraîcheur et l’hygiène.",
-        "guideTitle": "Guide de conservation scientifiquement prouvé",
-        "cautionTitle": "Règles cruciales et précautions",
-        "tags": [
-          "Banane",
-          "Guide de conservation scientifiquement prouvé",
-          "fruit"
-        ],
-        "cautions": [
-          {
-            "title": "Enveloppez fermement la couronne de film plastique",
-            "desc": "Le gaz éthylène est principalement libéré par la tige. L'envelopper ralentit le mûrissement et le noircissement de tout le régime."
-          },
-          {
-            "title": "Ne les mélangez pas avec d'autres fruits produisant de l'éthylène",
-            "desc": "Stocker les bananes près de pommes ou de pêches accélère leur mûrissement et les fait pourrir très vite à cause de la double exposition."
-          }
-        ],
-        "steps": [
-          {
-            "name": "Suspendre les bananes sur un support — Stockage à Temp. Ambiante (7 Jours) 🍌",
-            "text": "Laisser les bananes posées à plat écrase les fruits du dessous sous leur propre poids. Ces zones meurtries rejettent plus d'éthylène et noircissent. 💡 Astuce de conservation : Suspendez les bananes à un crochet. Cela imite leur position sur le bananier, évitant les chocs et préservant leur fermeté plus longtemps."
-          },
-          {
-            "name": "Envelopper la couronne de papier aluminium — Bloquer le gaz 🪙",
-            "text": "Le gaz éthylène de la banane provient principalement de la tige. 💡 Astuce de conservation : Enveloppez la couronne de papier aluminium ou de film étirable. Cela bloque la diffusion du gaz et retarde le mûrissement de 3 à 5 jours."
-          },
-          {
-            "name": "Réfrigérer UNIQUEMENT après mûrissement — Stockage Réfrigéré (7 Jours) ❄️",
-            "text": "On pense souvent qu'il ne faut jamais réfrigérer les bananes, mais cela ne concerne que les bananes vertes. Le froid les abîme et les fait noircir sans mûrir. En revanche, les bananes mûres tachées de noir réagissent bien. 💡 Astuce de conservation : Enveloppez les bananes mûres séparément et placez-les dans le bac à légumes (0-4 °C). La peau va noircir, mais la chair restera ferme et fraîche une semaine de plus."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "My banana peel turned black in the fridge, is it safe to eat?",
-            "answer": "Yes, blackening is a chilling reaction of the peel, but the flesh inside remains sweet and safe to eat. Ensure they are fully ripe before refrigerating."
-          },
-          {
-            "question": "Why wrap banana stems in aluminum foil?",
-            "answer": "Banana stems release the most ethylene gas. Wrapping them tightly inhibits gas release, significantly delaying the softening of the fruit."
-          }
-        ]
-      },
-      "de": {
-        "title": "Wie man Banane frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber",
-        "description": "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Banane basierend auf offiziellen Sicherheitsrichtlinien.",
-        "authority": "<strong>USDA & WHO</strong>",
-        "intro": "Haben Sie Bananen auf der Arbeitsplatte liegen lassen, nur um festzustellen, dass sie an einem Tag von Fruchtfliegen umschwärmt wurden und schwarz wurden? Heute teilt FreshSnap Tipps, wie sie auch ohne Bananenständer 10 Tage frisch bleiben.",
-        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-        "whyDesc": "Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtige Lagerungsmethode anzuwenden, ist entscheidend für Frische und Hygiene.",
-        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-        "cautionTitle": "Wichtige Warnhinweise zur Lagerung",
-        "tags": [
-          "Banane",
-          "Wissenschaftlich geprüfter Lagerungsratgeber",
-          "fruit"
-        ],
-        "cautions": [
-          {
-            "title": "Die Bananenkrone fest mit Frischhaltefolie umwickeln",
-            "desc": "Ethylengas entweicht hauptsächlich aus dem Strunk. Das Einwickeln verlangsamt die Reifung und das Braunwerden der gesamten Staude."
-          },
-          {
-            "title": "Nicht mit anderen reifegashaltigen Früchten lagern",
-            "desc": "Die Lagerung von Bananen in der Nähe von Äpfeln oder Pfirsichen führt durch die doppelte Gasbelastung zu einer Überreife und schnellem Verderb."
-          }
-        ],
-        "steps": [
-          {
-            "name": "Bananen an einem Bananenständer aufhängen — Lagerung bei Raumtemperatur (7 Tage) 🍌",
-            "text": "Bananen direkt auf eine Oberfläche zu legen, führt zu Druckstellen durch ihr eigenes Gewicht. Diese Stellen setzen vermehrt Ethylengas frei. 💡 Lagerungstipp: Hängen Sie die Bananen auf einen Bananenständer. Dies ahmt die natürliche Wuchsform nach, verhindert Druckstellen und hält sie länger fest."
-          },
-          {
-            "name": "Den Strunk mit Alufolie umwickeln — Gasbarriere 🪙",
-            "text": "Die Freisetzung von Ethylengas erfolgt vor allem über den Strunk. 💡 Lagerungstipp: Umwickeln Sie den Bananenstrunk fest mit Alufolie oder Frischhaltefolie. Dies verhindert das Entweichen des Gases und zögert die Reifung um 3 bis 5 Tage hinaus."
-          },
-          {
-            "name": "NUR vollreife Bananen im Kühlschrank lagern — Kühllagerung (7 Tage) ❄️",
-            "text": "Viele glauben, dass Bananen niemals in den Kühlschrank gehören. Dies gilt jedoch nur für unreife Bananen. Das Kühlen grüner Bananen führt zu Kälteschäden. Reife Bananen mit Zuckerflecken können jedoch gekühlt werden. 💡 Lagerungstipp: Wickeln Sie reife Bananen einzeln ein und lagern sie im Gemüsefach (0–4 °C). Die Schale wird schwarz, das Fruchtfleisch bleibt jedoch bis zu einer Woche fest."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "My banana peel turned black in the fridge, is it safe to eat?",
-            "answer": "Yes, blackening is a chilling reaction of the peel, but the flesh inside remains sweet and safe to eat. Ensure they are fully ripe before refrigerating."
-          },
-          {
-            "question": "Why wrap banana stems in aluminum foil?",
-            "answer": "Banana stems release the most ethylene gas. Wrapping them tightly inhibits gas release, significantly delaying the softening of the fruit."
-          }
-        ]
-      },
-      "pt": {
-        "title": "Como armazenar Banana fresco: Guia científico de conservação",
-        "description": "Descubra la mejor temperatura, métodos y duración de armazenamento para Banana com base nas diretrizes oficiais de segurança.",
-        "authority": "<strong>USDA & WHO</strong>",
-        "intro": "Você já deixou bananas na bancada e elas encheram de mosquinhas e ficaram pretas em um dia? Hoje, o FreshSnap ensina como mantê-las frescas por mais de 10 dias, sem precisar de suporte.",
-        "whyTitle": "Por que armazenar assim? Fatos científicos",
-        "whyDesc": "Comprender as características únicas de cada ingrediente e seguir o método de armazenamento adequado é extremamente importante para manter o frescor e a higiene.",
-        "guideTitle": "Guia de armazenamento comprovado cientificamente",
-        "cautionTitle": "Reglas cruciales e precauções",
-        "tags": [
-          "Banana",
-          "Guia de armazenamento comprovado cientificamente",
-          "fruit"
-        ],
-        "cautions": [
-          {
-            "title": "Embrulhe a coroa da banana firmemente com plástico filme",
-            "desc": "O gás etileno é liberado principalmente pelo talo. Embrulhá-lo retarda o amadurecimento e o escurecimento de toda a penca."
-          },
-          {
-            "title": "Não misture com outras frutas que liberam muito etileno",
-            "desc": "Guardar bananas perto de maçãs ou pêssegos faz com que amadureçam demais e apodreçam rápido devido à dupla exposição ao gás."
-          }
-        ],
-        "steps": [
-          {
-            "name": "Pendurar as bananas em um suporte — Conservação em Temp. Ambiente (7 Dias) 🍌",
-            "text": "Deixar as bananas apoiadas em uma superfície amassa os frutos de baixo devido ao próprio peso. As partes machucadas liberam mais etileno e escurecem. 💡 Dicas de conservação: Pendure as bananas em um suporte. Isso simula o cacho no pé, mantendo-as firmes e sem amassados por muito mais tempo."
-          },
-          {
-            "name": "Embrulhe a coroa com papel alumínio — Bloqueio de gás 🪙",
-            "text": "O gás etileno da banana é liberado principalmente pela coroa (talo). 💡 Dicas de conservação: Embrulhe a coroa firmemente com papel alumínio ou filme plástico. Isso evita que o gás se espalhe, atrasando o amadurecimento em até 3 a 5 dias."
-          },
-          {
-            "name": "Refrigerar APENAS quando estiverem maduras — Armazenamento Refrigerado (7 Dias) ❄️",
-            "text": "Muitos acham que bananas nunca devem ir à geladeira, mas isso vale para as verdes. Refrigerar bananas verdes causa injúria por frio, enegrecendo a casca sem amadurecer. Bananas maduras com pintas pretas são diferentes. 💡 Dicas de conservação: Embrulhe as bananas maduras individualmente e guarde na gaveta de legumes (0-4 °C). A casca escurece, mas a polpa se mantém firme e fresca por até uma semana."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "My banana peel turned black in the fridge, is it safe to eat?",
-            "answer": "Yes, blackening is a chilling reaction of the peel, but the flesh inside remains sweet and safe to eat. Ensure they are fully ripe before refrigerating."
-          },
-          {
-            "question": "Why wrap banana stems in aluminum foil?",
-            "answer": "Banana stems release the most ethylene gas. Wrapping them tightly inhibits gas release, significantly delaying the softening of the fruit."
-          }
-        ]
-      },
-      "id": {
-        "title": "Cara Menyimpan Pisang agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk Pisang berdasarkan pedoman keselamatan resmi.",
-        "authority": "<strong>USDA & WHO</strong>",
-        "intro": "Pernahkah Anda membiarkan pisang di meja lalu dikerubuti lalat buah dan berubah menjadi hitam dalam sehari? Hari ini, FreshSnap membagikan panduan penyimpanan pisang agar tetap segar lebih dari 10 hari.",
-        "whyTitle": "Mengapa disimpan seperti ini? Fakta ilmiah",
-        "whyDesc": "Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpanan yang benar sangat penting untuk menjaga kesegaran dan kebersihan.",
-        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-        "cautionTitle": "Aturan Penting dan Peringatan",
-        "tags": [
-          "Pisang",
-          "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-          "fruit"
-        ],
-        "cautions": [
-          {
-            "title": "Bungkus pangkal pisang rapat-rapat dengan plastik wrap",
-            "desc": "Gas etilen sebagian besar dilepaskan dari bagian pangkal. Membungkusnya akan memperlambat pematangan dan perubahan warna menjadi hitam."
-          },
-          {
-            "title": "Jangan campur dengan buah berkadar etilen tinggi lainnya",
-            "desc": "Menyimpan pisang di dekat apel atau persik akan membuatnya terlalu matang dan cepat busuk akibat paparan gas ganda."
-          }
-        ],
-        "steps": [
-          {
-            "name": "Gantung Pisang di Gantungan — Penyimpanan Suhu Ruang (7 Hari) 🍌",
-            "text": "Meletakkan pisang langsung di atas permukaan datar akan membuat buah bagian bawah memar akibat beratnya sendiri. Bagian memar mempercepat pelepasan gas etilen dan pembusukan. 💡 Tips Penyimpanan: Gantung pisang pada gantungan khusus. Cara ini meniru lingkungan tumbuh alaminya, menjaga buah tetap kokoh dan bebas memar lebih lama."
-          },
-          {
-            "name": "Bungkus bagian pangkal dengan aluminium foil — Menahan gas 🪙",
-            "text": "Sebagian besar gas etilen pisang dilepaskan dari bagian pangkal (tangkai). 💡 Tips Penyimpanan: Bungkus bagian pangkal pisang rapat-rapat dengan aluminium foil atau plastik wrap. Ini menahan gas agar tidak menyebar, memperlambat pematangan selama 3–5 hari."
-          },
-          {
-            "name": "Masukkan ke Kulkas HANYA Setelah Matang — Penyimpanan Dingin (7 Hari) ❄️",
-            "text": "Banyak yang percaya pisang tidak boleh dimasukkan ke kulkas. Ini hanya berlaku untuk pisang mentah (hijau). Pisang mentah yang didinginkan akan memar karena dingin dan tidak akan matang. Namun, pisang yang sudah matang (ada bintik manis) berbeda. 💡 Tips Penyimpanan: Bungkus pisang matang satu per satu dan taruh di laci sayur kulkas (0–4°C). Kulitnya akan menghitam, tetapi daging buahnya tetap segar dan kokoh selama seminggu."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "My banana peel turned black in the fridge, is it safe to eat?",
-            "answer": "Yes, blackening is a chilling reaction of the peel, but the flesh inside remains sweet and safe to eat. Ensure they are fully ripe before refrigerating."
-          },
-          {
-            "question": "Why wrap banana stems in aluminum foil?",
-            "answer": "Banana stems release the most ethylene gas. Wrapping them tightly inhibits gas release, significantly delaying the softening of the fruit."
-          }
-        ]
-      }
+    "how-to-store-bananas": {
+        "ingId": "banana",
+        "pubDate": "2026-03-05",
+        "updatedDate": "2026-03-05",
+        "heroImage": "/images/blog/banana_storage_hack.webp",
+        "category": "FreshSnap",
+        "app": "freshsnap",
+        "formatVersion": 4,
+        "locales": {
+            "ko": {
+                "title": "바나나 신선하게 보관하는 법: 과학적 보관 가이드",
+                "description": "공인된 안전 가이드라인에 따른 바나나의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+                "authority": "<strong>USDA & WHO</strong>",
+                "intro": "마트에서 노랗고 예쁜 바나나 한 송이를 사 왔는데, 며칠 만에 거뭇거뭇한 반점이 생기더니 순식간에 물러져 버린 경험 다들 있으시죠? 🍌\n\n바나나는 전 세계인이 가장 사랑하는 과일이지만, 상온에서 호흡 속도가 매우 빠르고 스스로 익히는 호르몬을 뿜어내기 때문에 보관 난이도가 꽤 높은 편입니다.\n\n오늘 FreshSnap에서는 공인된 식재료 안전 가이드를 기반으로, 과학적이고 확실하게 바나나 신선도를 유지하는 3단계 보관 비법을 알려드립니다. 🛡️",
+                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+                "whyDesc": "각 식재료의 고유한 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+                "guideTitle": "과학적으로 검증된 보관 가이드",
+                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+                "tags": [
+                    "바나나",
+                    "과학적으로 검증된 보관 가이드",
+                    "fruit"
+                ],
+                "cautions": [
+                    {
+                        "title": "사과와 함께 두지 마세요 🍎",
+                        "desc": "사과는 에틸렌 가스 방출의 최강자입니다. 바나나를 사과 옆에 두면 하루 만에 새까맣게 변할 수 있으니 반드시 격리해 주세요."
+                    },
+                    {
+                        "title": "밀폐 용기에 상온 방치 금지 📦",
+                        "desc": "밀봉된 통에 넣어 상온에 두면 갇힌 가스 때문에 온도가 올라가 순식간에 녹아내립니다."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "바나나 걸이(행거) 사용하기 — 실온 보관 (7일) 🍌",
+                        "text": "바나나를 바닥에 그냥 두면 자체 무게로 인해 아랫부분이 눌려 멍이 듭니다. 멍든 부위는 세포벽이 파괴되어 에틸렌 가스가 과다하게 분출되고 갈변이 가속화됩니다. 💡 보관 팁: 바나나 전용 걸이나 옷걸이에 매달아 공중에 띄워 보관하세요. 바나나는 나무에 매달려 있는 상태로 착각하여 눌림 없이 훨씬 오랫동안 단단함을 유지합니다. Hanging을 통해 자연 생장 환경을 그대로 모사해주는 원리입니다."
+                    },
+                    {
+                        "name": "꼭지 부분을 알루미늄 호일로 밀봉하기 — 가스 차단 🪙",
+                        "text": "바나나의 에틸렌 가스는 대부분 꼭지(줄기 연결 부위)에서 방출됩니다. 💡 보관 팁: 바나나 꼭지 부분을 알루미늄 호일이나 식품용 랩으로 빈틈없이 꽁꽁 감싸주세요. 가스가 밖으로 퍼져나가는 것을 막아주어 전체적인 숙성 속도를 최소 3~5일 이상 늦출 수 있습니다."
+                    },
+                    {
+                        "name": "완숙 후에는 냉장 보관 활용하기 — 냉장 보관 (7일) ❄️",
+                        "text": "많은 분들이 바나나는 절대 냉장고에 넣으면 안 된다고 알고 계시지만, 이는 절반만 맞고 절반은 틀린 상식입니다. 덜 익은 초록색 바나나를 냉장고에 넣으면 세포가 냉해를 입어 갈변하고 익지 않습니다. 하지만 검은 반점(슈가스팟)이 생기며 완숙된 바나나는 다릅니다. 💡 보관 팁: 완숙된 바나나를 랩으로 개별 포장하여 냉장고 야채칸(0~4℃)에 보관하세요. 껍질은 차가운 온도 때문에 까맣게 변하지만, 내부 과육의 노화는 차단되어 속살의 신선함과 단단함은 최대 일주일 이상 오래 유지됩니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "바나나를 냉장 보관하면 껍질이 까맣게 변하는데 먹어도 되나요?",
+                        "answer": "네, 껍질이 갈색이나 검은색으로 변하는 것은 저온 냉해 현상으로, 내부 과육은 여전히 신선하고 단맛이 더 강해집니다. 단, 냉장실에 넣기 전 완전히 익은 상태여야 합니다."
+                    },
+                    {
+                        "question": "바나나 꼭지를 호일로 감싸는 이유는 무엇인가요?",
+                        "answer": "바나나의 꼭지 부위는 에틸렌 가스를 가장 많이 방출하는 통로입니다. 이곳을 호일로 꽁꽁 싸두면 가스 방출이 억제되어 바나나가 무르는 속도를 크게 늦출 수 있습니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "How to Store Banana Fresh: Scientific Storage Guide",
+                "description": "Learn the best storage temperature, methods, and duration for Banana based on official safety guidelines.",
+                "authority": "<strong>USDA & WHO</strong>",
+                "intro": "Have you ever left bananas on the counter only to have fruit flies swarm them and turn them black in a single day? Today, FreshSnap shares scientific storage hacks to keep bananas fresh for over 10 days without a banana stand.",
+                "whyTitle": "Why store like this? Scientific facts",
+                "whyDesc": "Understanding the unique characteristics of each ingredient and following the proper storage method is extremely important for maintaining freshness and hygiene.",
+                "guideTitle": "Scientifically Proven Storage Guide",
+                "cautionTitle": "Crucial Rules and Cautions",
+                "tags": [
+                    "Banana",
+                    "Scientifically Proven Storage Guide",
+                    "fruit"
+                ],
+                "cautions": [
+                    {
+                        "title": "Wrap the crown tightly with plastic wrap",
+                        "desc": "Ethylene gas is mostly released from the stem/crown. Wrapping it slows down the ripening and browning of the whole bunch."
+                    },
+                    {
+                        "title": "Do not mix with other high-ethylene fruits",
+                        "desc": "Storing bananas near apples or peaches causes them to overripen and rot rapidly due to double gas exposure."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Hang Them Up to Prevent Bruising — Room Temp Storage (7 Days) 🍌",
+                        "text": "Leaving bananas lying on a flat surface causes the bottom fruits to bruise under their own weight. Bruised spots accelerate ethylene gas release and browning. 💡 Storage Tip: Hang bananas on a banana hanger or a coat hanger to suspend them. This mimics their natural growing environment, keeping them firm and bruise-free for much longer."
+                    },
+                    {
+                        "name": "Wrap the crown with aluminum foil — Gas blockage 🪙",
+                        "text": "Most of the banana's ethylene gas is released from the stem (crown). 💡 Storage Tip: Wrap the crown tightly with aluminum foil or plastic wrap. This prevents the gas from spreading, slowing down the ripening of the entire bunch by 3 to 5 days."
+                    },
+                    {
+                        "name": "Refrigerate ONLY After Ripening — Refrigerated Storage (7 Days) ❄️",
+                        "text": "While many believe bananas should never be refrigerated, this is only true for unripe ones. Refrigerating green bananas causes cold damage, turning them black without ripening. However, fully ripe bananas with sugar spots are different. 💡 Storage Tip: Wrap ripe bananas individually and store them in the crisper drawer (0–4°C). The peel will turn black due to the cold, but the pulp inside will remain firm and fresh for up to a week."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "My banana peel turned black in the fridge, is it safe to eat?",
+                        "answer": "Yes, blackening is a chilling reaction of the peel, but the flesh inside remains sweet and safe to eat. Ensure they are fully ripe before refrigerating."
+                    },
+                    {
+                        "question": "Why wrap banana stems in aluminum foil?",
+                        "answer": "Banana stems release the most ethylene gas. Wrapping them tightly inhibits gas release, significantly delaying the softening of the fruit."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "バナナの鮮度を保つ保存方法：科学的保管ガイド",
+                "description": "公的安全基準に基づくバナナの最適な保存温度、保管方法、保存期間について解説します。",
+                "authority": "<strong>米国農務省(USDA) & 世界保健機関(WHO)</strong>",
+                "intro": "バナナを実温に置いておいたら、一日でコバエがたかり、真っ黒になってしまった経験はありませんか？バナナスタンドを使わずに10日以上鮮度を保つ科学的な保存方法をご紹介します。",
+                "whyTitle": "なぜこのように保存するのか？科学的な事実",
+                "whyDesc": "食材ごとの特性を理解し、正しい保存方法を実践することは、鮮度キープと衛生管理において非常に重要です。",
+                "guideTitle": "科学的に検証された保存ガイド",
+                "cautionTitle": "保存時の注意点",
+                "tags": [
+                    "バナナ",
+                    "科学的に検証された保存ガイド",
+                    "fruit"
+                ],
+                "cautions": [
+                    {
+                        "title": "バナナの根本（コブ）の結合部分をラップでしっかり包んでください",
+                        "desc": "エチレンガスは主に根本の茎から放出されます。ここをラップで覆うことで、バナナ全体の追熟と黒変を遅らせることができます。"
+                    },
+                    {
+                        "title": "エチレンガスを多く放出する他の果物と一緒にしないでください",
+                        "desc": "リンゴや桃などの近くに置くと、互いに放出するガスの相乗効果で成熟が進みすぎてしまい、あっという間に腐ってしまいます。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "バナナスタンド（ハンガー）に吊るす — 常温保存 (7日間) 🍌",
+                        "text": "バナナをテーブルなどに直に置いておくと、自重によって下の部分が潰れて傷んでしまいます。潰れた部分は傷みやすく、エチレンガスが過剰に発生して変色が進みます。💡保存のコツ：専用のスタンドやフックを使って吊るして保存してください。木に実っている状態に近い環境を作ることで、傷みを防ぎ長持ちします。"
+                    },
+                    {
+                        "name": "茎（コブ）の結合部分をアルミホイルで包む — ガス遮断 🪙",
+                        "text": "バナナのエチレンガスは、主に茎の結合部分から放出されます。💡保存のコツ：結合部分をアルミホイルやラップできつく包んでください。ガスが外部へ広がるのを抑え、全体の追熟を3〜5日遅らせることができます。"
+                    },
+                    {
+                        "name": "熟した後は冷蔵庫（野菜室）を活用する — 冷蔵保存 (7日間) ❄️",
+                        "text": "バナナは絶対に冷蔵庫に入れてはいけないと言われますが, それは未熟なバナナの場合です。未完熟の緑のバナナは冷気で傷んでしまいますが, 黒い斑点（シュガースポット）が出た完熟バナナは別です。💡保存のコツ：完熟したバナナを1本ずつラップで包み、冷蔵庫の野菜室（0〜4℃）に入れてください。皮は黒くなりますが、中の果肉はしっかりと固く、新鮮な状態が1週間以上保てます。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "バナナを冷蔵保存すると皮が黒くなりますが、食べても大丈夫ですか？",
+                        "answer": "はい、皮が黒くなるのは低温障害によるものですが、中の果肉は新鮮で甘みも増しています。ただし、冷蔵庫に入れる前に完全に熟した状態でなければなりません。"
+                    },
+                    {
+                        "question": "バナナの茎をアルミホイルで包む理由は何ですか？",
+                        "answer": "バナナの茎の部分はエチレンガスを最も多く放出する場所です。ここをホイルで包むことでガスの放出が抑えられ、傷む速度を大幅に遅らせることができます。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "如何保鲜储存香蕉：科学储存指南",
+                "description": "根据官方食品安全指南，了解香蕉的最佳储存温度、方式和保鲜时长。",
+                "authority": "<strong>美国农务部(USDA) & 世界卫生组织(WHO)</strong>",
+                "intro": "您是否曾把香蕉放在桌上，结果仅过了一天就引来果蝇，而且表皮变得漆黑？今天，FreshSnap为您分享无需香蕉架也能让香蕉保持新鲜10天以上的科学保存法。",
+                "whyTitle": "为什么要这样储存？科学原理",
+                "whyDesc": "了解每种食材的独特特性并遵循正确的储存方法，对于保持新鲜度和卫生至关重要。",
+                "guideTitle": "科学验证的储存指南",
+                "cautionTitle": "储存注意事项",
+                "tags": [
+                    "香蕉",
+                    "科学验证的储存指南",
+                    "fruit"
+                ],
+                "cautions": [
+                    {
+                        "title": "用保鲜膜紧紧包裹香蕉根部",
+                        "desc": "乙烯气体主要从香蕉根部释放。包裹住根部能减缓整串香蕉的熟化和变黑速度。"
+                    },
+                    {
+                        "title": "请勿与其他释放大量乙烯的水果混放",
+                        "desc": "将香蕉与苹果或桃子等放在一起，双重气体的暴露会导致香蕉过度成熟并迅速腐烂。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "使用香蕉架悬挂保存 — 常温储存 (7天) 🍌",
+                        "text": "如果将香蕉直接平放在桌面上，下方的香蕉会因自身重力受压产生褐斑。受损部位释放更多乙烯并加速变黑。💡储存小贴士：用香蕉架或挂钩将香蕉悬空挂起。这能模拟香蕉在树上的自然生长环境，防止挤压，长久保持坚挺新鲜。"
+                    },
+                    {
+                        "name": "用铝箔纸包裹香蕉根部 — 阻断气体 🪙",
+                        "text": "香蕉的乙烯气体主要从根部（茎部连接处）释放。💡储存小贴士：用铝箔纸或保鲜膜将香蕉根部紧紧缠绕。这样可以阻断气体散发，将整串香蕉的熟化速度延缓至少3-5天。"
+                    },
+                    {
+                        "name": "成熟后放入冰箱冷藏 — 冷藏储存 (7天) ❄️",
+                        "text": "许多人认为香蕉绝对不能放冰箱，但这其实只对未熟的香蕉有效。未熟的绿香蕉放冰箱会受冻伤导致变黑且无法熟化。但出现黑斑（糖斑）熟透的香蕉则不同。💡储存小贴士：将熟透的香蕉用保鲜膜单独包裹起来，放入冰箱蔬菜抽屉（0-4℃）。虽然皮会因低温变黑，但果肉不会变烂，新鲜度和硬度可维持一周以上。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "香蕉放冰箱冷藏皮变黑了还能吃吗？",
+                        "answer": "可以。外皮变黑是香蕉的低温冻伤反应，但内部果肉依然新鲜，且甜度会增加。不过，放入冰箱前香蕉必须是完全成熟的状态。"
+                    },
+                    {
+                        "question": "为什么用铝箔纸包住香蕉根部？",
+                        "answer": "香蕉的根部是释放乙烯气体最多的地方。用铝箔纸紧紧包住根部可以抑制气体释放，从而显著减缓香蕉变软的速度。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cómo almacenar Plátano fresco: Guía científica de conservación",
+                "description": "Descubra la mejor temperatura, métodos y duración para conservar Plátano según las directrices oficiales de seguridad.",
+                "authority": "<strong>USDA & WHO</strong>",
+                "intro": "¿Dejó plátanos en la barra y vio cómo se llenaban de mosquitas y se ponían negros en un solo día? Hoy, FreshSnap comparte trucos para mantenerlos frescos más de 10 días sin un soporte para plátanos.",
+                "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+                "whyDesc": "Comprender las características únicas de cada ingrediente y seguir el método de almacenamiento adecuado es fundamental para mantener la frescura y la higiene.",
+                "guideTitle": "Guía de almacenamiento científicamente probada",
+                "cautionTitle": "Reglas cruciales y precauciones",
+                "tags": [
+                    "Plátano",
+                    "Guía de almacenamiento científicamente probada",
+                    "fruit"
+                ],
+                "cautions": [
+                    {
+                        "title": "Envuelva la corona firmemente con film plástico",
+                        "desc": "El gas etileno se libera principalmente por el tallo. Envolverlo ralentiza la maduración y el oscurecimiento de todo el racimo."
+                    },
+                    {
+                        "title": "No los mezcle con otras frutas de alto etileno",
+                        "desc": "Guardar plátanos cerca de manzanas o duraznos hace que se maduren de más y se pudran rápido por la doble exposición al gas."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Colgar los plátanos en un soporte — Conservación a Temp. Ambiente (7 Días) 🍌",
+                        "text": "Dejar los plátanos apoyados en una superficie aplasta los frutos inferiores por su propio peso. Las partes golpeadas liberan más etileno y se oscurecen. 💡 Consejos de almacenamiento: Cuelgue los plátanos en un soporte. Esto imita su estado natural en el árbol, manteniéndolos firmes y sin abolladuras por más tiempo."
+                    },
+                    {
+                        "name": "Envuelva la corona con papel de aluminio — Bloqueo de gas 🪙",
+                        "text": "La mayor parte del gas etileno del plátano se libera por el tallo (corona). 💡 Consejos de almacenamiento: Envuelva la corona firmemente con papel de aluminio o film plástico. Esto evita que el gas se propague, retrasando la maduración del racimo de 3 a 5 días."
+                    },
+                    {
+                        "name": "Refrigerar SOLO cuando estén maduros — Almacenamiento Refrigerado (7 Días) ❄️",
+                        "text": "Muchos creen que los plátanos nunca deben refrigerarse, pero esto solo aplica para los verdes. El frío daña los plátanos verdes, ennegreciéndolos sin madurar. Sin embargo, los maduros con manchas oscuras son distintos. 💡 Consejos de almacenamiento: Envuelva los plátanos maduros de forma individual y guárdelos en el cajón de verduras (0-4 °C). La piel se oscurecerá por el frío, pero la pulpa se mantendrá firme por una semana."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "My banana peel turned black in the fridge, is it safe to eat?",
+                        "answer": "Yes, blackening is a chilling reaction of the peel, but the flesh inside remains sweet and safe to eat. Ensure they are fully ripe before refrigerating."
+                    },
+                    {
+                        "question": "Why wrap banana stems in aluminum foil?",
+                        "answer": "Banana stems release the most ethylene gas. Wrapping them tightly inhibits gas release, significantly delaying the softening of the fruit."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Comment conserver Banane frais : Guide scientifique de conservation",
+                "description": "Découvrez la température, les méthodes et la durée optimales de conservation pour Banane selon les directives de sécurité officielles.",
+                "authority": "<strong>USDA & WHO</strong>",
+                "intro": "Avez-vous déjà laissé des bananes sur le comptoir pour les retrouver noires et envahies de moucherons dès le lendemain ? Aujourd'hui, FreshSnap vous montre comment les garder fraîches plus de 10 jours sans porte-banane.",
+                "whyTitle": "Pourquoi conserver ainsi ? Faits scientifiques",
+                "whyDesc": "Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédient et de suivre la bonne méthode de conservation pour préserver la fraîcheur et l’hygiène.",
+                "guideTitle": "Guide de conservation scientifiquement prouvé",
+                "cautionTitle": "Règles cruciales et précautions",
+                "tags": [
+                    "Banane",
+                    "Guide de conservation scientifiquement prouvé",
+                    "fruit"
+                ],
+                "cautions": [
+                    {
+                        "title": "Enveloppez fermement la couronne de film plastique",
+                        "desc": "Le gaz éthylène est principalement libéré par la tige. L'envelopper ralentit le mûrissement et le noircissement de tout le régime."
+                    },
+                    {
+                        "title": "Ne les mélangez pas avec d'autres fruits produisant de l'éthylène",
+                        "desc": "Stocker les bananes près de pommes ou de pêches accélère leur mûrissement et les fait pourrir très vite à cause de la double exposition."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Suspendre les bananes sur un support — Stockage à Temp. Ambiante (7 Jours) 🍌",
+                        "text": "Laisser les bananes posées à plat écrase les fruits du dessous sous leur propre poids. Ces zones meurtries rejettent plus d'éthylène et noircissent. 💡 Astuce de conservation : Suspendez les bananes à un crochet. Cela imite leur position sur le bananier, évitant les chocs et préservant leur fermeté plus longtemps."
+                    },
+                    {
+                        "name": "Envelopper la couronne de papier aluminium — Bloquer le gaz 🪙",
+                        "text": "Le gaz éthylène de la banane provient principalement de la tige. 💡 Astuce de conservation : Enveloppez la couronne de papier aluminium ou de film étirable. Cela bloque la diffusion du gaz et retarde le mûrissement de 3 à 5 jours."
+                    },
+                    {
+                        "name": "Réfrigérer UNIQUEMENT après mûrissement — Stockage Réfrigéré (7 Jours) ❄️",
+                        "text": "On pense souvent qu'il ne faut jamais réfrigérer les bananes, mais cela ne concerne que les bananes vertes. Le froid les abîme et les fait noircir sans mûrir. En revanche, les bananes mûres tachées de noir réagissent bien. 💡 Astuce de conservation : Enveloppez les bananes mûres séparément et placez-les dans le bac à légumes (0-4 °C). La peau va noircir, mais la chair restera ferme et fraîche une semaine de plus."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "My banana peel turned black in the fridge, is it safe to eat?",
+                        "answer": "Yes, blackening is a chilling reaction of the peel, but the flesh inside remains sweet and safe to eat. Ensure they are fully ripe before refrigerating."
+                    },
+                    {
+                        "question": "Why wrap banana stems in aluminum foil?",
+                        "answer": "Banana stems release the most ethylene gas. Wrapping them tightly inhibits gas release, significantly delaying the softening of the fruit."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Wie man Banane frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber",
+                "description": "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Banane basierend auf offiziellen Sicherheitsrichtlinien.",
+                "authority": "<strong>USDA & WHO</strong>",
+                "intro": "Haben Sie Bananen auf der Arbeitsplatte liegen lassen, nur um festzustellen, dass sie an einem Tag von Fruchtfliegen umschwärmt wurden und schwarz wurden? Heute teilt FreshSnap Tipps, wie sie auch ohne Bananenständer 10 Tage frisch bleiben.",
+                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+                "whyDesc": "Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtige Lagerungsmethode anzuwenden, ist entscheidend für Frische und Hygiene.",
+                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+                "cautionTitle": "Wichtige Warnhinweise zur Lagerung",
+                "tags": [
+                    "Banane",
+                    "Wissenschaftlich geprüfter Lagerungsratgeber",
+                    "fruit"
+                ],
+                "cautions": [
+                    {
+                        "title": "Die Bananenkrone fest mit Frischhaltefolie umwickeln",
+                        "desc": "Ethylengas entweicht hauptsächlich aus dem Strunk. Das Einwickeln verlangsamt die Reifung und das Braunwerden der gesamten Staude."
+                    },
+                    {
+                        "title": "Nicht mit anderen reifegashaltigen Früchten lagern",
+                        "desc": "Die Lagerung von Bananen in der Nähe von Äpfeln oder Pfirsichen führt durch die doppelte Gasbelastung zu einer Überreife und schnellem Verderb."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Bananen an einem Bananenständer aufhängen — Lagerung bei Raumtemperatur (7 Tage) 🍌",
+                        "text": "Bananen direkt auf eine Oberfläche zu legen, führt zu Druckstellen durch ihr eigenes Gewicht. Diese Stellen setzen vermehrt Ethylengas frei. 💡 Lagerungstipp: Hängen Sie die Bananen auf einen Bananenständer. Dies ahmt die natürliche Wuchsform nach, verhindert Druckstellen und hält sie länger fest."
+                    },
+                    {
+                        "name": "Den Strunk mit Alufolie umwickeln — Gasbarriere 🪙",
+                        "text": "Die Freisetzung von Ethylengas erfolgt vor allem über den Strunk. 💡 Lagerungstipp: Umwickeln Sie den Bananenstrunk fest mit Alufolie oder Frischhaltefolie. Dies verhindert das Entweichen des Gases und zögert die Reifung um 3 bis 5 Tage hinaus."
+                    },
+                    {
+                        "name": "NUR vollreife Bananen im Kühlschrank lagern — Kühllagerung (7 Tage) ❄️",
+                        "text": "Viele glauben, dass Bananen niemals in den Kühlschrank gehören. Dies gilt jedoch nur für unreife Bananen. Das Kühlen grüner Bananen führt zu Kälteschäden. Reife Bananen mit Zuckerflecken können jedoch gekühlt werden. 💡 Lagerungstipp: Wickeln Sie reife Bananen einzeln ein und lagern sie im Gemüsefach (0–4 °C). Die Schale wird schwarz, das Fruchtfleisch bleibt jedoch bis zu einer Woche fest."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "My banana peel turned black in the fridge, is it safe to eat?",
+                        "answer": "Yes, blackening is a chilling reaction of the peel, but the flesh inside remains sweet and safe to eat. Ensure they are fully ripe before refrigerating."
+                    },
+                    {
+                        "question": "Why wrap banana stems in aluminum foil?",
+                        "answer": "Banana stems release the most ethylene gas. Wrapping them tightly inhibits gas release, significantly delaying the softening of the fruit."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Como armazenar Banana fresco: Guia científico de conservação",
+                "description": "Descubra la mejor temperatura, métodos y duración de armazenamento para Banana com base nas diretrizes oficiais de segurança.",
+                "authority": "<strong>USDA & WHO</strong>",
+                "intro": "Você já deixou bananas na bancada e elas encheram de mosquinhas e ficaram pretas em um dia? Hoje, o FreshSnap ensina como mantê-las frescas por mais de 10 dias, sem precisar de suporte.",
+                "whyTitle": "Por que armazenar assim? Fatos científicos",
+                "whyDesc": "Comprender as características únicas de cada ingrediente e seguir o método de armazenamento adequado é extremamente importante para manter o frescor e a higiene.",
+                "guideTitle": "Guia de armazenamento comprovado cientificamente",
+                "cautionTitle": "Reglas cruciales e precauções",
+                "tags": [
+                    "Banana",
+                    "Guia de armazenamento comprovado cientificamente",
+                    "fruit"
+                ],
+                "cautions": [
+                    {
+                        "title": "Embrulhe a coroa da banana firmemente com plástico filme",
+                        "desc": "O gás etileno é liberado principalmente pelo talo. Embrulhá-lo retarda o amadurecimento e o escurecimento de toda a penca."
+                    },
+                    {
+                        "title": "Não misture com outras frutas que liberam muito etileno",
+                        "desc": "Guardar bananas perto de maçãs ou pêssegos faz com que amadureçam demais e apodreçam rápido devido à dupla exposição ao gás."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Pendurar as bananas em um suporte — Conservação em Temp. Ambiente (7 Dias) 🍌",
+                        "text": "Deixar as bananas apoiadas em uma superfície amassa os frutos de baixo devido ao próprio peso. As partes machucadas liberam mais etileno e escurecem. 💡 Dicas de conservação: Pendure as bananas em um suporte. Isso simula o cacho no pé, mantendo-as firmes e sem amassados por muito mais tempo."
+                    },
+                    {
+                        "name": "Embrulhe a coroa com papel alumínio — Bloqueio de gás 🪙",
+                        "text": "O gás etileno da banana é liberado principalmente pela coroa (talo). 💡 Dicas de conservação: Embrulhe a coroa firmemente com papel alumínio ou filme plástico. Isso evita que o gás se espalhe, atrasando o amadurecimento em até 3 a 5 dias."
+                    },
+                    {
+                        "name": "Refrigerar APENAS quando estiverem maduras — Armazenamento Refrigerado (7 Dias) ❄️",
+                        "text": "Muitos acham que bananas nunca devem ir à geladeira, mas isso vale para as verdes. Refrigerar bananas verdes causa injúria por frio, enegrecendo a casca sem amadurecer. Bananas maduras com pintas pretas são diferentes. 💡 Dicas de conservação: Embrulhe as bananas maduras individualmente e guarde na gaveta de legumes (0-4 °C). A casca escurece, mas a polpa se mantém firme e fresca por até uma semana."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "My banana peel turned black in the fridge, is it safe to eat?",
+                        "answer": "Yes, blackening is a chilling reaction of the peel, but the flesh inside remains sweet and safe to eat. Ensure they are fully ripe before refrigerating."
+                    },
+                    {
+                        "question": "Why wrap banana stems in aluminum foil?",
+                        "answer": "Banana stems release the most ethylene gas. Wrapping them tightly inhibits gas release, significantly delaying the softening of the fruit."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Cara Menyimpan Pisang agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk Pisang berdasarkan pedoman keselamatan resmi.",
+                "authority": "<strong>USDA & WHO</strong>",
+                "intro": "Pernahkah Anda membiarkan pisang di meja lalu dikerubuti lalat buah dan berubah menjadi hitam dalam sehari? Hari ini, FreshSnap membagikan panduan penyimpanan pisang agar tetap segar lebih dari 10 hari.",
+                "whyTitle": "Mengapa disimpan seperti ini? Fakta ilmiah",
+                "whyDesc": "Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpanan yang benar sangat penting untuk menjaga kesegaran dan kebersihan.",
+                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                "cautionTitle": "Aturan Penting dan Peringatan",
+                "tags": [
+                    "Pisang",
+                    "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                    "fruit"
+                ],
+                "cautions": [
+                    {
+                        "title": "Bungkus pangkal pisang rapat-rapat dengan plastik wrap",
+                        "desc": "Gas etilen sebagian besar dilepaskan dari bagian pangkal. Membungkusnya akan memperlambat pematangan dan perubahan warna menjadi hitam."
+                    },
+                    {
+                        "title": "Jangan campur dengan buah berkadar etilen tinggi lainnya",
+                        "desc": "Menyimpan pisang di dekat apel atau persik akan membuatnya terlalu matang dan cepat busuk akibat paparan gas ganda."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Gantung Pisang di Gantungan — Penyimpanan Suhu Ruang (7 Hari) 🍌",
+                        "text": "Meletakkan pisang langsung di atas permukaan datar akan membuat buah bagian bawah memar akibat beratnya sendiri. Bagian memar mempercepat pelepasan gas etilen dan pembusukan. 💡 Tips Penyimpanan: Gantung pisang pada gantungan khusus. Cara ini meniru lingkungan tumbuh alaminya, menjaga buah tetap kokoh dan bebas memar lebih lama."
+                    },
+                    {
+                        "name": "Bungkus bagian pangkal dengan aluminium foil — Menahan gas 🪙",
+                        "text": "Sebagian besar gas etilen pisang dilepaskan dari bagian pangkal (tangkai). 💡 Tips Penyimpanan: Bungkus bagian pangkal pisang rapat-rapat dengan aluminium foil atau plastik wrap. Ini menahan gas agar tidak menyebar, memperlambat pematangan selama 3–5 hari."
+                    },
+                    {
+                        "name": "Masukkan ke Kulkas HANYA Setelah Matang — Penyimpanan Dingin (7 Hari) ❄️",
+                        "text": "Banyak yang percaya pisang tidak boleh dimasukkan ke kulkas. Ini hanya berlaku untuk pisang mentah (hijau). Pisang mentah yang didinginkan akan memar karena dingin dan tidak akan matang. Namun, pisang yang sudah matang (ada bintik manis) berbeda. 💡 Tips Penyimpanan: Bungkus pisang matang satu per satu dan taruh di laci sayur kulkas (0–4°C). Kulitnya akan menghitam, tetapi daging buahnya tetap segar dan kokoh selama seminggu."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "My banana peel turned black in the fridge, is it safe to eat?",
+                        "answer": "Yes, blackening is a chilling reaction of the peel, but the flesh inside remains sweet and safe to eat. Ensure they are fully ripe before refrigerating."
+                    },
+                    {
+                        "question": "Why wrap banana stems in aluminum foil?",
+                        "answer": "Banana stems release the most ethylene gas. Wrapping them tightly inhibits gas release, significantly delaying the softening of the fruit."
+                    }
+                ]
+            }
+        }
     }
-  }
 }

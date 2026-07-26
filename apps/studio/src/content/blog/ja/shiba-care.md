@@ -6,7 +6,7 @@ pubDate: "2026-01-29"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
 tags: ["ペットケア","ペット健康","柴犬 (Shiba Inu)"]
-heroImage: "/images/blog/shiba_care.png"
+heroImage: "/images/blog/shiba_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "全米柴犬クラブ(NSCA)＆IAABC行動治療ガイドライン"

@@ -6,7 +6,7 @@ pubDate: "2026-03-17"
 updatedDate: "2026-03-17"
 category: "FreshSelf"
 tags: ["PetCare","PetHealth","Bearded Dragon (Pogona vitticeps)"]
-heroImage: "/images/blog/bearded_dragon_care.png"
+heroImage: "/images/blog/bearded_dragon_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Association of Reptilian and Amphibian Veterinarians (ARAV) Husbandry Guidelines and herpetological clinical standard veterinary behavior"

@@ -1,0 +1,516 @@
+{
+    "labrador-retriever-care": {
+        "pubDate": "2026-07-26",
+        "updatedDate": "2026-07-26",
+        "locales": {
+            "ko": {
+                "title": "라브라도 리트리버의 식탐 조절과 귓병 예방을 위한 3단계 데일리 케어 루틴",
+                "description": "세계적인 인기견 라브라도 리트리버. 식욕 조절 유전자 특성과 관절 보호, 수영 후 귓병 예방을 위한 3단계 홈케어 루틴을 소개합니다.",
+                "authority": "미국 켄넬 클럽(AKC) 라브라도 리트리버 케어 가이드 및 공식 수의학 스탠다드",
+                "profile": {
+                    "breed": "라브라도 리트리버 (Labrador Retriever)",
+                    "lifespan": "10 ~ 12년",
+                    "sleep_pattern": "12 ~ 14시간 (고에너지 식탐 탐색형)",
+                    "temperament": "친근함, 외향적, 열정적, 높은 순종성"
+                },
+                "intro": "라브라도 리트리버는 온순하고 영리하며 친근한 성격으로 전 세계에서 가장 사랑받는 안내견이자 반려견입니다. 하지만 유전적으로 POMC 유전자 변이 비율이 높아 식욕을 조절하지 못해 비만에 걸리기 쉬우며, 이는 고관절 이형성증 등 관절 질환으로 이어지기 쉽습니다. 또한 물을 매우 좋아하지만 덮여 있는 귀 구조 때문에 수영 후 귀 관리를 소홀히 하면 외이염에 걸리기 쉽습니다. 오늘 PetSelf에서는 라브라도 리트리버의 넘치는 에너지를 발산하고 건강을 지키는 3단계 케어 루틴을 전해드립니다.",
+                "whyTitle": "라브라도 리트리버의 바디 랭귀지: 소프트 마우스와 식탐 신호",
+                "whyDesc": "라브라도 리트리버는 사냥감을 다치지 않게 조심스럽게 물어오는 **'소프트 마우스(Soft Mouth)'** 본능을 가지고 있습니다. 장난감이나 물건을 찌그러뜨리지 않고 가볍게 물고 오는 행동은 친근감과 놀이 요청의 표시입니다. 반면 보호자의 무릎에 턱을 얹고 가만히 눈을 맞추는 행동은 강한 식탐에서 비롯된 간식 요구 신호입니다.",
+                "body_signals": [
+                    {
+                        "name": "물건을 망가뜨리지 않고 살며시 물어옴 (Soft Mouth)",
+                        "meaning": "조류 회수견(Retriever)의 본능적 행동이자 보호자에게 애정과 신뢰를 표현하는 신호입니다.",
+                        "response": "물건을 억지로 빼앗지 말고 칭찬해 준 뒤, 적절한 회수 놀이(페치 게임)로 욕구를 해소해 줍니다."
+                    },
+                    {
+                        "name": "턱을 무릎 위에 얹고 가만히 바라봄 (Begging & Eye Contact)",
+                        "meaning": "식탐 유전자로 인한 지속적인 포만감 부족과 간식 요구 신호입니다.",
+                        "response": "무조건 간식을 주지 말고, 규칙적인 급여와 칭찬용 저칼로리 노즈워크로 체중을 관리해야 합니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 슬로우 피더 식사와 고관절 보호 산책",
+                        "text": "급하게 먹는 습관을 방지하기 위해 슬로우 피더 식기를 사용하고, 고관절 부담을 줄이는 평지 중심의 산책을 실시합니다."
+                    },
+                    {
+                        "name": "낮: 원반/공 회수 놀이 및 수영 후 귀 건조 케어",
+                        "text": "에너지 발산을 위한 회수 놀이를 진행하며, 물놀이 후에는 덮인 귀 안쪽의 수분을 세정제로 깨끗이 닦아 외이염을 예방합니다."
+                    },
+                    {
+                        "name": "저녁: 이중모 브러싱 및 관절 마사지",
+                        "text": "밀도 높은 이중모의 죽은 털을 슬리커 빗으로 제거하고, 활동량이 많은 고관절과 어깨 근육을 부드럽게 마사지합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "라브라도 리트리버는 왜 항상 배고파하고 식탐이 강한가요?",
+                        "answer": "라브라도 리트리버의 약 20~30%는 포만감 신호를 전달하는 POMC 유전자에 변이가 있어 끊임없이 허기짐을 느낍니다. 따라서 식사량을 엄격히 제한하고 슬로우 피더나 노즈워크를 활용해 천천히 먹도록 해야 비만을 예방할 수 있습니다."
+                    },
+                    {
+                        "question": "수영을 정말 좋아하는데 귓병 관리는 어떻게 해야 하나요?",
+                        "answer": "귀가 아래로 덮여 있는 구조 특성상 수영 후 귀 내부에 수분이 남아있으면 균이 번식해 외이염이 발생하기 쉽습니다. 물놀이 직후 귀 전용 세정제로 닦아주고 귀를 뒤집어 통풍시켜 완벽히 말려주어야 합니다."
+                    }
+                ],
+                "tags": [
+                    "라브라도리트리버",
+                    "체중관리",
+                    "귓병예방",
+                    "리트리버케어"
+                ]
+            },
+            "en": {
+                "title": "Managing Labrador Retriever Appetite and Ear Care: A 3-Step Daily Routine",
+                "description": "Learn how to manage the Labrador Retriever's genetic appetite, protect their joints, and prevent ear infections after swimming with a 3-step care routine.",
+                "authority": "American Kennel Club (AKC) Labrador Retriever Breed Guide & Veterinary Standards",
+                "profile": {
+                    "breed": "Labrador Retriever",
+                    "lifespan": "10 - 12 Years",
+                    "sleep_pattern": "12 - 14 Hours (High-Energy & Food Driven)",
+                    "temperament": "Friendly, Outgoing, Enthusiastic, Eager to Please"
+                },
+                "intro": "Labrador Retrievers are beloved worldwide for their gentle, intelligent, and friendly nature. However, a significant portion of Labs possess a POMC gene mutation that affects satiety, making them constantly hungry and prone to obesity—which severely impacts their joints and increases the risk of hip dysplasia. Additionally, while they love water, their folded ears trap moisture after swimming, making them vulnerable to ear infections. Today, PetSelf presents a 3-step daily care routine to keep your Lab healthy, active, and thriving.",
+                "whyTitle": "Labrador Retriever Body Language: 'Soft Mouth' and Begging Signals",
+                "whyDesc": "Labrador Retrievers possess an instinct known as a **'Soft Mouth'**, designed to retrieve game without causing damage. Carrying objects gently in their mouth without destroying them is an expression of affection and an invitation to play. Conversely, resting their chin on your lap while staring into your eyes is a subtle begging signal driven by their intense appetite.",
+                "body_signals": [
+                    {
+                        "name": "Gentle Carrying of Objects (Soft Mouth)",
+                        "meaning": "An instinctual retrieving behavior showing deep affection, trust, and a desire to interact with the owner.",
+                        "response": "Avoid snatching the object away forcefully. Praise them and transition into a structured game of fetch."
+                    },
+                    {
+                        "name": "Resting Chin on Lap & Staring (Begging & Eye Contact)",
+                        "meaning": "A continuous appetite signal caused by the POMC gene mutation, asking for treats.",
+                        "response": "Do not give in to unconditional begging. Maintain strict meal portions and use low-calorie nosework toys for weight control."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Slow Feeder Meal & Joint-Friendly Walk",
+                        "text": "Use a slow feeder bowl to prevent fast eating and bloat, followed by a flat-terrain walk to protect their hip joints."
+                    },
+                    {
+                        "name": "Afternoon: Fetch Play & Post-Swim Ear Cleaning Routine",
+                        "text": "Engage in fetch games to burn off energy, and dry their ears thoroughly with a pet ear cleanser after any water activities to prevent infections."
+                    },
+                    {
+                        "name": "Evening: Double Coat Brushing & Muscle Massage",
+                        "text": "Remove loose undercoat fur with a slicker brush and gently massage their shoulders and hips to relieve joint tension."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Why is my Labrador Retriever always hungry?",
+                        "answer": "Around 20-30% of Labradors carry a mutation in the POMC gene, which disrupts the neural pathways that signal fullness. To prevent obesity, strictly monitor calorie intake and use puzzle feeders to slow down their eating speed."
+                    },
+                    {
+                        "question": "How should I care for my Lab's ears after swimming?",
+                        "answer": "Because their floppy ears trap moisture, trapped water creates an ideal environment for bacteria and yeast, leading to otitis externa (ear infection). Always wipe their ears with a canine ear cleaner and keep the ear canal well-ventilated until completely dry."
+                    }
+                ],
+                "tags": [
+                    "LabradorRetriever",
+                    "WeightManagement",
+                    "EarCare",
+                    "DogHealth"
+                ]
+            },
+            "ja": {
+                "title": "ラブラドール・レトリバーの食欲管理と耳のケアのための3ステップデイリールーティン",
+                "description": "世界中で愛されるラブラドール・レトリバー。食欲を司る遺伝的特性、関節の保護、水遊び後の耳の病気予防のための3ステップホームケアを学びます。",
+                "authority": "アメリカンケネルクラブ(AKC)公式ラブラドール・レトリバーガイドおよび獣医ケア基準",
+                "profile": {
+                    "breed": "ラブラドール・レトリバー (Labrador Retriever)",
+                    "lifespan": "10 〜 12年",
+                    "sleep_pattern": "12 〜 14時間 (高エネルギー・食欲旺盛型)",
+                    "temperament": "フレンドリー、社交的、情熱的、順従性が高い"
+                },
+                "intro": "ラブラドール・レトリバーは温厚で賢く、親しみやすい性格から、世界中で最も愛されている盲導犬・家庭犬です。しかし、遺伝的にPOMC遺伝子変異の割合が高く、満腹感を感じにくいため肥満になりやすく、股関節形成不全などの関節疾患を引き起こしやすい傾向があります。また、大の水好きですが、垂れ耳の構造上、水遊び後の耳のケアを怠ると外耳炎にかかりやすくなります。本日PetSelfでは、ラブラドールのエネルギーを発散させ、健康を守る3ステップルーティンをお届けします。",
+                "whyTitle": "ラブラドール・レトリバーのボディランゲージ：ソフトマウスと食欲サイン",
+                "whyDesc": "ラブラドール・レトリバーには、獲物を傷つけずに優しく咥えて運ぶ**「ソフトマウス（Soft Mouth）」**の習性があります。おもちゃや物を潰さずにそっと咥えてくる行動は、親愛と遊びの誘いのサインです。一方、膝の上に顎を乗せてじっと見つめてくる行動は、強い食欲からくるおやつのおねだりサインです。",
+                "body_signals": [
+                    {
+                        "name": "物を壊さずに優しく咥えてくる (Soft Mouth)",
+                        "meaning": "鳥猟犬（レトリバー）としての本能的行動であり、飼い主への深い愛情と信頼の表現です。",
+                        "response": "無理に奪い取らずに褒めてあげた後、適切なもってこい遊び（フェッチ）で欲求を満たしてあげましょう。"
+                    },
+                    {
+                        "name": "膝の上に顎を乗せて見つめる (Begging & Eye Contact)",
+                        "meaning": "POMC遺伝子変異による慢性的な満腹感不足とおやつの要求サインです。",
+                        "response": "無条件におやつを与えるのではなく、規則正しい食事管理と低カロリーなノーズワークで体重をコントロールしましょう。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：スローフィーダーでの食事と股関節に優しい散歩",
+                        "text": "早食いを防ぐために早食い防止食器（スローフィーダー）を使用し、股関節への負担を減らすため平坦なコースを中心に散歩します。"
+                    },
+                    {
+                        "name": "昼：ボール・フリスビー回収遊びと水遊び後の耳乾燥ケア",
+                        "text": "エネルギーを効果的に発散させる回収遊びを行い、水遊びの後は垂れ耳の内部の水分を専用クリーナーで綺麗に拭き取り外耳炎を予防します。"
+                    },
+                    {
+                        "name": "夜：二重毛のブラッシングと関節マッサージ",
+                        "text": "密度の高いダブルコートの抜け毛をスリッカーブラシで取り除き、運動量の多い股関節や肩の筋肉をやさしくマッサージします。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "ラブラドール・レトリバーはどうしていつもお腹を空かせているのですか？",
+                        "answer": "ラブラドール・レトリバーの約20〜30%は、満腹信号を伝えるPOMC遺伝子に変異があり、常に空腹を感じています。そのため、食事量を厳しく管理し、スローフィーダーや知育玩具を活用してゆっくり食べさせることが肥満予防に不可欠です。"
+                    },
+                    {
+                        "question": "水泳が大好きなのですが、耳のケアはどのようにすればいいですか？",
+                        "answer": "垂れ耳の構造上、水泳後に耳の中に湿気が残ると細菌が繁殖し、外耳炎を起こしやすくなります。水遊び直後は犬用イヤークリーナーで水分を拭き取り、耳を裏返して風通しを良くし、完全に乾かしてください。"
+                    }
+                ],
+                "tags": [
+                    "ラブラドールレトリバー",
+                    "体重管理",
+                    "耳のケア",
+                    "犬の健康"
+                ]
+            },
+            "zh": {
+                "title": "拉布拉多犬食欲控制与耳部护理的3步日常护理流程",
+                "description": "了解拉布拉多犬控制食欲的基因特性、保护关节以及游泳后预防耳部感染的3步日常护理流程。",
+                "authority": "美国 Kennel Club (KC) 拉布拉多犬指南与兽医护理标准",
+                "profile": {
+                    "breed": "拉布拉多犬 (Labrador Retriever)",
+                    "lifespan": "10 ~ 12年",
+                    "sleep_pattern": "12 ~ 14小时 (高能量与强食欲型)",
+                    "temperament": "友好、外向、热情、服从性高"
+                },
+                "intro": "拉布拉多犬因其温和、聪明和友善的性格而成为全球最受欢迎的导盲犬和家庭伴侣犬。然而，相当一部分拉布拉多犬携带 POMC 基因突变，影响饱腹感信号，导致它们极易过量进食并引发肥胖，进而加重髋关节发育不良等关节疾病的风险。此外，虽然它们热爱游泳，但下垂的耳朵容易留存水分，若护理不当极易患上外耳炎。今天 PetSelf 将为您介绍释放其精力并维护健康的3步骤日常护理流程。",
+                "whyTitle": "拉布拉多犬的肢体语言：“柔和衔取”与乞食信号",
+                "whyDesc": "拉布拉多犬拥有被称为 **“柔和衔取 (Soft Mouth)”**的本能，能小心翼翼地衔取猎物而不破坏它。它们轻柔地用嘴咬着玩具或物品递给主人，是表达亲密和邀请玩耍的信号。相反，将下巴搁在主人的膝盖上并死死凝视，则是强烈的食欲驱动下的乞食信号。",
+                "body_signals": [
+                    {
+                        "name": "轻柔衔取物品而不咬坏 (Soft Mouth)",
+                        "meaning": "寻回犬 (Retriever) 本能的表现，代表对主人的信任与深厚感情。",
+                        "response": "切勿强行夺取物品，给予夸奖后可以通过标准的抛接寻回游戏 (Fetch) 来满足其本能。"
+                    },
+                    {
+                        "name": "下巴搁在膝盖上并凝视 (Begging & Eye Contact)",
+                        "meaning": "受 POMC 基因突变影响缺乏饱腹感，正在向主人索要零食。",
+                        "response": "切勿无条件给予零食，应保持定时定量的饮食，并结合低热量嗅闻玩具控制体重。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：使用慢食碗进食与保护髋关节的平地散步",
+                        "text": "使用慢食碗防止狼吞虎咽，散步时选择平坦路段以减轻髋关节负担。"
+                    },
+                    {
+                        "name": "中午：飞盘/接球寻回游戏与游泳后耳部清洁",
+                        "text": "开展寻回游戏消耗精力，水上活动后务必使用犬用洗耳液清洁耳道内的水分以预防耳炎。"
+                    },
+                    {
+                        "name": "晚上：双层毛梳理与关节肌肉按摩",
+                        "text": "使用针梳清理双层毛中的浮毛，并轻柔按摩髋关节和肩膀周围的肌肉以缓解张力。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "为什么拉布拉多犬总是看起来很饿且食欲极强？",
+                        "answer": "大约 20-30%的拉布拉多犬携带 POMC 基因突变，该突变会阻断向大脑传递饱腹感的神经通路。因此，必须严格控制卡路里摄入，并使用益智慢食玩具来延缓进食速度。"
+                    },
+                    {
+                        "question": "拉布拉多犬非常喜欢游泳，应该如何护理耳部健康？",
+                        "answer": "由于其耳朵下垂的结构特点，游泳后耳朵内部留存的水分极易滋生细菌和真菌，引发外耳炎。水上活动后应立即使用专用洗耳液清洁，并保持耳道通风干爽。"
+                    }
+                ],
+                "tags": [
+                    "拉布拉多犬",
+                    "体重管理",
+                    "耳部护理",
+                    "犬类健康"
+                ]
+            },
+            "es": {
+                "title": "Control del apetito y cuidado de oídos del Labrador Retriever: rutina diaria de 3 pasos",
+                "description": "Aprenda a controlar el apetito genético del Labrador Retriever, proteger sus articulaciones y prevenir infecciones de oído tras nadar con una rutina de 3 pasos.",
+                "authority": "Guía de la raza Labrador Retriever del American Kennel Club (AKC) y Estándares Veterinarios",
+                "profile": {
+                    "breed": "Labrador Retriever",
+                    "lifespan": "10 ~ 12 años",
+                    "sleep_pattern": "12 ~ 14 horas (alta energía y guiado por la comida)",
+                    "temperament": "Amigable, Extrovertido, Entusiasta, Deseoso de complacer"
+                },
+                "intro": "El Labrador Retriever es una de las razas más amadas del mundo por su carácter dócil, inteligente y amigable. Sin embargo, una gran proporción de Labradores posee una mutación en el gen POMC que afecta la sensación de saciedad, haciéndolos sentir hambre constantemente y aumentando el riesgo de obesidad y displasia de cadera. Además, aunque aman el agua, sus orejas caídas atrapan humedad al nadar, favoreciendo las infecciones de oído. Hoy, PetSelf presenta una rutina de cuidado diario de 3 pasos para mantener a su Labrador sano y en forma.",
+                "whyTitle": "Lenguaje corporal del Labrador Retriever: 'Boca suave' y señales de comida",
+                "whyDesc": "Los Labrador Retrievers poseen un instinto conocido como **'Boca Suave' (Soft Mouth)**, desarrollado para cobrarse presas sin dañarlas. Llevar objetos suavemente en la boca sin destruirlos es una muestra de afecto y una invitación al juego. Por el contrario, apoyar la barbilla en su regazo mientras lo mira fijamente a los ojos es una señal discreta de pedigueño impulsada por su voraz apetito.",
+                "body_signals": [
+                    {
+                        "name": "Llevar objetos de forma delicada (Soft Mouth)",
+                        "meaning": "Un comportamiento instintivo de cobro que demuestra un profundo afecto, confianza y deseo de interactuar.",
+                        "response": "Evite quitarle el objeto de forma brusca. Felicítelo y organice un juego de cobrar la pelota (Fetch)."
+                    },
+                    {
+                        "name": "Apoyar la barbilla en el regazo y mirar fijamente",
+                        "meaning": "Una señal constante de búsqueda de comida causada por la mutación del gen POMC.",
+                        "response": "No ceda ante sus súplicas. Mantenga porciones de comida estrictas y utilice juguetes tipo nosework bajos en calorías."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Comida en comedero lento y paseo apto para sus articulaciones",
+                        "text": "Utilice un comedero lento para evitar que coma demasiado rápido, seguido de un paseo en terreno plano para proteger sus caderas."
+                    },
+                    {
+                        "name": "Tarde: Juego de lanzar y traer junto a limpieza de oídos post-natación",
+                        "text": "Realice juegos de cobro para quemar energía y seque bien sus oídos con un limpiador auricular canino tras actividades acuáticas."
+                    },
+                    {
+                        "name": "Noche: Cepillado de manto doble y masaje muscular",
+                        "text": "Retire el pelo suelto del manto inferior con un cepillo slicker y realice un suave masaje en hombros y caderas para aliviar la tensión."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Por qué mi Labrador Retriever siempre tiene hambre?",
+                        "answer": "Aproximadamente entre el 20% y el 30% de los Labradores tienen una mutación en el gen POMC que altera las señales cerebrales de saciedad. Para prevenir la obesidad, controle estrictamente las calorías y use comederos interactivos para ralentizar su ingesta."
+                    },
+                    {
+                        "question": "¿Cómo debo cuidar los oídos de mi Labrador después de nadar?",
+                        "answer": "Debido a sus orejas caídas, la humedad atrapada crea un ambiente propicio para bacterias y levaduras, causando otitis externa. Limpie siempre sus oídos con un producto específico y mantenga el canal auditivo ventilado hasta que se seque por completo."
+                    }
+                ],
+                "tags": [
+                    "LabradorRetriever",
+                    "ControlDePeso",
+                    "CuidadoDeOidos",
+                    "SaludCanina"
+                ]
+            },
+            "fr": {
+                "title": "Contrôle de l'appétit et soin des oreilles du Labrador Retriever : routine quotidienne en 3 étapes",
+                "description": "Apprenez à gérer l'appétit génétique du Labrador Retriever, à protéger ses articulations et à prévenir les otites après la baignade grâce à une routine en 3 étapes.",
+                "authority": "Guide de la race Labrador Retriever de l'American Kennel Club (AKC) & Normes Vétérinaires",
+                "profile": {
+                    "breed": "Labrador Retriever",
+                    "lifespan": "10 ~ 12 ans",
+                    "sleep_pattern": "12 ~ 14 heures (très énergique et gourmand)",
+                    "temperament": "Amical, Extraverti, Enthousiaste, Dévoué"
+                },
+                "intro": "Le Labrador Retriever est l'un des chiens les plus aimés au monde grâce à son caractère doux, intelligent et amical. Cependant, une proportion importante de Labradors est porteuse d'une mutation du gène POMC qui altère le sentiment de satiété, les rendant constamment affamés et sujets à l'obésité—ce qui peut aggraver la dysplasie de la hanche. De plus, bien qu'ils adorent l'eau, leurs oreilles tombantes emprisonnent l'humidité après la baignade, favorisant les infections. Aujourd'hui, PetSelf vous présente une routine en 3 étapes pour maintenir votre Labrador en parfaite santé.",
+                "whyTitle": "Langage corporel du Labrador Retriever : « Gueule douce » et signaux de réclamation",
+                "whyDesc": "Les Labradors possèdent un instinct appelé **« Gueule douce » (Soft Mouth)**, développé pour rapporter le gibier sans l'abîmer. Porter délicatement des objets dans la gueule sans les détruire est une preuve d'affection et une invitation au jeu. À l'inverse, poser son menton sur vos genoux en vous fixant du regard est un signal discret de réclamation de nourriture lié à son appétit vorace.",
+                "body_signals": [
+                    {
+                        "name": "Porter délicatement des objets (Soft Mouth)",
+                        "meaning": "Comportement instinctif de rapporteur traduisant une profonde affection, de la confiance et l'envie d'interagir.",
+                        "response": "Évitez d'arracher l'objet brutalement. Félicitez-le et enchaînez avec un jeu de lancer-rapporter (Fetch)."
+                    },
+                    {
+                        "name": "Poser le menton sur les genoux & fixer du regard (Begging)",
+                        "meaning": "Signal de faim continu causé par la mutation du gène POMC, réclamant des friandises.",
+                        "response": "Ne cédez pas à ses demandes. Maintenez des rations strictes et utilisez des jeux de fouille (nosework) peu caloriques."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Repas dans une gamelle anti-glouton & promenade douce pour les articulations",
+                        "text": "Utilisez une gamelle anti-glouton pour ralentir la prise alimentaire, suivie d'une promenade sur terrain plat pour préserver ses hanches."
+                    },
+                    {
+                        "name": "Après-midi : Jeu de lancer-rapporter & soin des oreilles après la baignade",
+                        "text": "Proposez des jeux de rapport pour dépenser son énergie et séchez soigneusement ses oreilles avec une lotion auriculaire adaptée après l'eau."
+                    },
+                    {
+                        "name": "Soir : Brossage du double pelage & massage musculaire",
+                        "text": "Éliminez le sous-poil mort à l'aide d'une brosse carde et massez doucement ses épaules et ses hanches pour détendre ses articulations."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Pourquoi mon Labrador Retriever a-t-il toujours faim ?",
+                        "answer": "Environ 20 à 30 % des Labradors possèdent une mutation du gène POMC qui perturbe les signaux cérébraux de satiété. Pour éviter l'obésité, contrôlez strictement les apports caloriques et utilisez des jouets distributeurs de nourriture."
+                    },
+                    {
+                        "question": "Comment prendre soin des oreilles de mon Labrador s'il aime nager ?",
+                        "answer": "Leurs oreilles tombantes retiennent l'humidité, créant un milieu idéal pour le développement des bactéries et levures (otite externe). Nettoyez systématiquement ses oreilles avec un nettoyant auriculaire canin après chaque baignade et laissez le conduit bien sécher."
+                    }
+                ],
+                "tags": [
+                    "LabradorRetriever",
+                    "GestionDuPoids",
+                    "SoinDesOreilles",
+                    "SanteCanine"
+                ]
+            },
+            "de": {
+                "title": "Labrador Retriever Appetitkontrolle und Ohrenpflege: Eine 3-Schritte-Tagesroutine",
+                "description": "Lernen Sie, wie Sie den genetisch bedingten Appetit des Labrador Retrievers steuern, seine Gelenke schützen und Ohrinfektionen nach dem Schwimmen vorbeugen.",
+                "authority": "Rasseleitfaden für Labrador Retriever des American Kennel Club (AKC) & Tiermedizinische Standards",
+                "profile": {
+                    "breed": "Labrador Retriever",
+                    "lifespan": "10 ~ 12 Jahre",
+                    "sleep_pattern": "12 ~ 14 Stunden (sehr aktiv & futterorientiert)",
+                    "temperament": "Freundlich, Aufgeschlossen, Begeisterungsfähig, Ausgewogen"
+                },
+                "intro": "Der Labrador Retriever gehört wegen seines freundlichen, klugen und sanftmütigen Wesens zu den beliebtesten Hunden weltweit. Ein großer Teil der Labradors trägt jedoch eine Mutation im POMC-Gen, die das Sättigungsgefühl beeinträchtigt. Dadurch neigen sie zu Übergewicht, was die Hüftgelenke stark belastet. Zudem lieben sie das Wasser, aber ihre Hängeohren schließen Feuchtigkeit ein, was leicht zu Ohrenentzündungen führt. Heute zeigt PetSelf eine 3-Schritte-Routine für die optimale Pflege Ihres Labradors.",
+                "whyTitle": "Körpersprache des Labrador Retrievers: 'Soft Mouth' und Bettelsignale",
+                "whyDesc": "Labrador Retriever besitzen den Instinkt des **'Weichen Mauls' (Soft Mouth)**, um Beute unbeschädigt zu apportieren. Wenn sie Gegenstände vorsichtig im Maul tragen, ohne sie zu beschädigen, ist das ein Zeichen von Zuneigung. Das Auflegen des Kinns auf Ihren Schoß bei intensivem Blickkontakt ist dagegen ein subtiles Bettelsignal ihres ständigen Appetits.",
+                "body_signals": [
+                    {
+                        "name": "Vorsichtiges Tragen von Gegenständen (Soft Mouth)",
+                        "meaning": "Instinktives Apportierverhalten, das Vertrauen, Zuneigung und Spielbereitschaft ausdrückt.",
+                        "response": "Nehmen Sie ihm den Gegenstand nicht gewaltsam weg. Loben Sie ihn und starten Sie ein kontrolliertes Apportierspiel (Fetch)."
+                    },
+                    {
+                        "name": "Kinn auf den Schoß legen & Anstarren (Betteln)",
+                        "meaning": "Ein durch die POMC-Genmutation ausgelöstes Signal für ständigen Hunger und den Wunsch nach Leckerlis.",
+                        "response": "Geben Sie dem Betteln nicht nach. Halten Sie strikte Futterrationen ein und nutzen Sie kalorienarme Schnüffelspiele."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Fütterung mit Anti-Schling-Napf & gelenkschonender Spaziergang",
+                        "text": "Verwenden Sie einen Anti-Schling-Napf, um zu schnelles Fressen zu verhindern, und wählen Sie flaches Terrain für den Spaziergang."
+                    },
+                    {
+                        "name": "Mittag: Apportierspiele & Ohrenpflege nach dem Schwimmen",
+                        "text": "Bauen Sie Energie durch Apportieren ab und trocknen Sie die Ohren nach dem Schwimmen gründlich mit einem Ohrreiniger für Hunde."
+                    },
+                    {
+                        "name": "Abend: Fellpflege des doppelten Haarkleids & Muskelmassage",
+                        "text": "Entfernen Sie lose Unterwolle mit einer Zupfbürste und massieren Sie Schultern und Hüften sanft zur Entlastung der Gelenke."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Warum hat mein Labrador Retriever ständig Hunger?",
+                        "answer": "Etwa 20-30 % aller Labradors besitzen eine Mutation im POMC-Gen, die das Sättigungssignal im Gehirn stört. Um Übergewicht zu vermeiden, müssen die Kalorien strikt kontrolliert und Intelligenzspielzeuge zur Fütterung eingesetzt werden."
+                    },
+                    {
+                        "question": "Wie pflege ich die Ohren meines Labradors nach dem Schwimmen?",
+                        "answer": "Durch die Hängeohren kann Feuchtigkeit nach dem Schwimmen nicht entweichen, was ein ideales Klima für Bakterien schafft (Ohrenentzündung). Reinigen Sie die Ohren direkt nach dem Wassersport mit einem speziellen Ohrreiniger und sorgen Sie für eine gute Belüftung."
+                    }
+                ],
+                "tags": [
+                    "LabradorRetriever",
+                    "Gewichtskontrolle",
+                    "Ohrenpflege",
+                    "Hundegesundheit"
+                ]
+            },
+            "pt": {
+                "title": "Controle de apetite e cuidados com as orelhas do Labrador Retriever: rotina diária de 3 passos",
+                "description": "Aprenda a gerenciar o apetite genético do Labrador Retriever, proteger suas articulações e prevenir infecções de ouvido após nadar com uma rotina em 3 passos.",
+                "authority": "Guia da Raça Labrador Retriever do American Kennel Club (AKC) & Padrões Veterinários",
+                "profile": {
+                    "breed": "Labrador Retriever",
+                    "lifespan": "10 ~ 12 anos",
+                    "sleep_pattern": "12 ~ 14 horas (alta energia e focado em comida)",
+                    "temperament": "Amigável, Extrovertido, Entusiasta, Dócil"
+                },
+                "intro": "O Labrador Retriever é um dos cães mais amados do mundo devido ao seu temperamento doce, inteligente e sociável. No entanto, uma grande porcentagem de Labradores possui uma mutação no gene POMC que afeta a sensação de saciedade, fazendo com que sintam fome constantemente e fiquem propensos à obesidade—o que sobrecarrega as articulações e aumenta o risco de displasia de quadril. Além disso, embora adorem água, suas orelhas caídas acumulam umidade ao nadar, favorecendo infecções. Hoje, o PetSelf apresenta uma rotina de 3 passos para manter seu Labrador saudável.",
+                "whyTitle": "Linguagem corporal do Labrador Retriever: 'Boca Macia' e sinais de pedido",
+                "whyDesc": "Os Labradores possuem um instinto chamado **'Boca Macia' (Soft Mouth)**, desenvolvido para buscar caças sem danificá-las. Segurar objetos suavemente na boca sem destruí-los é uma demonstração de carinho e convite para brincar. Por outro lado, apoiar o queixo no seu colo e olhar fixamente é um sinal sutil de pedido de comida movido pelo seu apetite insaciável.",
+                "body_signals": [
+                    {
+                        "name": "Segurar objetos suavemente na boca (Soft Mouth)",
+                        "meaning": "Comportamento instintivo de busca que expressa profundo afeto, confiança e vontade de interagir.",
+                        "response": "Não tire o objeto à força. Elogie-o e inicie uma brincadeira saudável de buscar a bola (Fetch)."
+                    },
+                    {
+                        "name": "Apoiar o queixo no colo & olhar fixamente (Begging)",
+                        "meaning": "Um sinal constante de fome causado pela mutação no gene POMC, pedindo petiscos.",
+                        "response": "Não ceda aos pedidos. Mantenha porções estritas de ração e use brinquedos de busca de odor (nosework) de baixa caloria."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Alimentação com comedeiro lento & passeio amigo das articulações",
+                        "text": "Use um comedouro lento para evitar que ele coma rápido demais e faça passeios em superfícies planas para proteger os quadris."
+                    },
+                    {
+                        "name": "Tarde: Brincadeira de buscar & limpeza de orelhas pós-natação",
+                        "text": "Faça jogos de buscar para gastar energia e seque bem o canal auditivo com um limpador de orelhas canino após atividades na água."
+                    },
+                    {
+                        "name": "Noite: Escovação da pelagem dupla & massagem muscular",
+                        "text": "Remova os pelos mortos do subpelo com uma rasqueadeira e faça uma massagem suave nos ombros e quadris para aliviar a tensão."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Por que o meu Labrador Retriever está sempre com fome?",
+                        "answer": "Cerca de 20 a 30% dos Labradores possuem uma mutação no gene POMC que altera os sinais neurológicos de saciedade. Para prevenir a obesidade, controle rigorosamente as calorias e utilize brinquedos recheáveis para desacelerar a alimentação."
+                    },
+                    {
+                        "question": "Como devo cuidar das orelhas do meu Labrador depois que ele nada?",
+                        "answer": "Como as orelhas são caídas, a umidade retida cria um ambiente propício para bactérias e fungos (otite externa). Limpe sempre as orelhas com um produto adequado após o banho ou natação e mantenha o local bem arejado até secar completamente."
+                    }
+                ],
+                "tags": [
+                    "LabradorRetriever",
+                    "ControleDePeso",
+                    "CuidadoComOrelhas",
+                    "SaudeCanina"
+                ]
+            },
+            "id": {
+                "title": "Pengendalian Nafsu Makan dan Perawatan Telinga Labrador Retriever: Rutinitas Harian 3 Langkah",
+                "description": "Pelajari cara mengelola nafsu makan genetik Labrador Retriever, melindungi sendi mereka, dan mencegah infeksi telinga setelah berenang dalam 3 langkah.",
+                "authority": "Panduan Ras Labrador Retriever American Kennel Club (AKC) & Standar Medis Veteriner",
+                "profile": {
+                    "breed": "Labrador Retriever",
+                    "lifespan": "10 ~ 12 tahun",
+                    "sleep_pattern": "12 ~ 14 jam (energi tinggi & berorientasi makanan)",
+                    "temperament": "Ramah, Extrovert, Antusias, Penurut"
+                },
+                "intro": "Labrador Retriever adalah salah satu ras anjing paling dicintai di dunia karena sifatnya yang lembut, cerdas, dan ramah. Namun, sebagian besar Labrador memiliki mutasi gen POMC yang mengganggu rasa kenyang, membuat mereka selalu merasa lapar dan rentan terhadap obesitas—yang sangat membebani sendi pinggul mereka. Selain itu, meskipun mereka sangat suka air, telinga mereka yang terlipat mudah menyimpan kelembapan setelah berenang sehingga rentan terkena infeksi telinga. Hari ini, PetSelf membagikan 3 langkah rutinitas harian untuk menjaga kesehatan Labrador Anda.",
+                "whyTitle": "Bahasa Tubuh Labrador Retriever: 'Mulut Lembut' dan Sinyal Meminta Makanan",
+                "whyDesc": "Labrador Retriever memiliki naluri unik yang disebut **'Mulut Lembut' (Soft Mouth)**, yang berkembang untuk mengambil buruan tanpa merusaknya. Membawa benda secara perlahan di mulut tanpa menggigitnya hingga rusak adalah bentuk kasih sayang dan ajakan bermain. Sebaliknya, menyandarkan dagu di pangkuan Anda sambil menatap tajam adalah sinyal meminta makanan akibat nafsu makan mereka yang besar.",
+                "body_signals": [
+                    {
+                        "name": "Membawa Benda dengan Lembut (Soft Mouth)",
+                        "meaning": "Perilaku naluriah anjing pemungut (retriever) yang menunjukkan kasih sayang, kepercayaan, dan keinginan berinteraksi.",
+                        "response": "Jangan merebut benda secara paksa. Berikan pujian lalu lanjutkan dengan permainan lempar tangkap (fetch)."
+                    },
+                    {
+                        "name": "Menyandarkan Dagu di Pangkuan & Menatap (Begging)",
+                        "meaning": "Sinyal lapar terus-menerus yang disebabkan oleh mutasi gen POMC untuk meminta camilan.",
+                        "response": "Jangan menuruti kebiasaan meminta makanan. Jaga porsi makan secara ketat dan gunakan mainan pemelihara penciuman (nosework) rendah kalori."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Makan dengan Mangkuk Slow Feeder & Jalan Santai Ramah Sendi",
+                        "text": "Gunakan mangkuk slow feeder untuk mencegah mereka makan terlalu cepat, lalu ajak jalan-jalan di permukaan datar untuk melindungi sendi pinggul."
+                    },
+                    {
+                        "name": "Siang: Permainan Lempar Tangkap & Pembersihan Telinga Pasca Berenang",
+                        "text": "Lakukan permainan lempar tangkap untuk membakar energi, dan keringkan telinga mereka secara menyeluruh dengan pembersih telinga anjing setelah bermain air."
+                    },
+                    {
+                        "name": "Malam: Menyikat Bulu Ganda & Pijat Otot Sendi",
+                        "text": "Rontokkan bulu halus yang mati menggunakan sikat slicker dan pijat perlahan area bahu serta pinggul untuk meredakan ketegangan otot."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mengapa Labrador Retriever saya selalu merasa lapar?",
+                        "answer": "Sekitar 20-30% anjing Labrador membawa mutasi pada gen POMC yang mengganggu sinyal otak untuk rasa kenyang. Untuk mencegah obesitas, kontrol asupan kalori secara ketat dan gunakan mainan teka-teki makanan agar mereka makan lebih lambat."
+                    },
+                    {
+                        "question": "Bagaimana cara merawat telinga Labrador yang suka berenang?",
+                        "answer": "Bentuk telinga yang terkulai dapat menahan kelembapan di dalam saluran telinga, menciptakan lingkungan ideal bagi bakteri dan jamur (otitis eksterna). Selalu bersihkan telinga dengan cairan pembersih khusus anjing setelah berenang dan pastikan saluran telinga benar-benar kering."
+                    }
+                ],
+                "tags": [
+                    "LabradorRetriever",
+                    "PengendalianBeratBadan",
+                    "PerawatanTelinga",
+                    "KesehatanAnjing"
+                ]
+            }
+        },
+        "category": "CareSelf",
+        "app": "careself",
+        "formatVersion": 4,
+        "heroImage": "/images/blog/labrador_retriever_care.webp"
+    }
+}

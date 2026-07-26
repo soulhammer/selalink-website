@@ -6,7 +6,7 @@ pubDate: "2026-07-15"
 updatedDate: "2026-07-15"
 category: "FreshSelf"
 tags: ["PerawatanHewan","KesehatanHewan","Kelinci Holland Lop (Oryctolagus cuniculus)"]
-heroImage: "/images/blog/holland_lop_care.png"
+heroImage: "/images/blog/holland_lop_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "House Rabbit Society (HRS) & Standar Medis Dokter Hewan AEMV"

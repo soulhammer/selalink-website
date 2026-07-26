@@ -6,7 +6,7 @@ pubDate: "2026-03-08"
 updatedDate: "2026-03-09"
 category: "FreshSelf"
 tags: ["PetCare","PetHealth","British Shorthair (Felis catus)"]
-heroImage: "/images/blog/bshorthair_care.png"
+heroImage: "/images/blog/bshorthair_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "GCCF Breed Standards for British Shorthairs & AAFP Feline Obesity Guidelines"

@@ -48,7 +48,7 @@ In today's post, we examine the scientific mechanism behind Napoleon's micro-nap
 
 ## 1. Cognitive Recovery via Micro-Naps and Brainwave Optimization
 
-A 10-to-15-minute micro-nap limits sleep to NREM stages 1 and 2, preventing groggy sleep inertia while clearing accumulated adenosine to instantly restore alertness. According to neuroscientific research, this practice suppresses unnecessary anxiety responses in the amygdala and activates the visuospatial sketchpad circuit, dramatically enhancing long-term executive function.
+A 10-to-15-minute micro-nap limits sleep to NREM stages 1 and 2, preventing groggy sleep inertia while clearing accumulated adenosine to instantly restore alertness. According to neuroscientific research, this practice suppresses unnecessary anxietyin the amygdala and activates the visuospatial sketchpad circuit, dramatically enhancing long-term executive function.
 
 ---
 

@@ -6,7 +6,7 @@ pubDate: "2026-05-06"
 updatedDate: "2026-05-06"
 category: "FreshSelf"
 tags: ["반려동물","펫케어","마샬 페럿 (Mustela putorius furo / Marshall Ferret)"]
-heroImage: "/images/blog/marshall_ferret_care.png"
+heroImage: "/images/blog/marshall_ferret_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "American Ferret Association 페럿 행동 표준 및 소동물 수의 행동의학 가이드"

@@ -6,7 +6,7 @@ pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
 category: "FreshSelf"
 tags: ["CuidadoMascotas","SaludMascotas","Pez Betta (Betta splendens / Luchador de Siam)"]
-heroImage: "/images/blog/betta_fish_care.png"
+heroImage: "/images/blog/betta_fish_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Estándares de Salud de Animales Acuáticos de la Asociación Mundial de Veterinarios de Pequeños Animales (WSAVA) y Estándares Clínicos de Peces Ornamentales"

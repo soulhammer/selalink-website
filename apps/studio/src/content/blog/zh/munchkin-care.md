@@ -6,7 +6,7 @@ pubDate: "2026-05-31"
 updatedDate: "2026-05-31"
 category: "FreshSelf"
 tags: ["宠物护理","宠物健康","曼基康猫 (Felis catus / Munchkin Cat)"]
-heroImage: "/images/blog/munchkin_care.png"
+heroImage: "/images/blog/munchkin_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "爱猫者协会 (CFA) 曼基康猫品种标准与兽医骨科健康指导原则"

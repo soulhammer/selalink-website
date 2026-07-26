@@ -6,7 +6,7 @@ pubDate: "2026-07-17"
 updatedDate: "2026-07-17"
 category: "FreshSnap"
 tags: ["FoodStorage","FreshStorage","grape"]
-heroImage: "/images/blog/grape_storage_hack.png"
+heroImage: "/images/blog/grape_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & USDA & MFDS</strong>"

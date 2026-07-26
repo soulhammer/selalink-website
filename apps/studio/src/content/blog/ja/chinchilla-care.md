@@ -6,7 +6,7 @@ pubDate: "2026-06-27"
 updatedDate: "2026-06-27"
 category: "FreshSelf"
 tags: ["ペットケア","ペット健康","チンチラ (Chinchilla lanigera)"]
-heroImage: "/images/blog/chinchilla_care.png"
+heroImage: "/images/blog/chinchilla_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "特種動物獣医師会(AEMV) チンチラ飼育ガイドラインおよび齧歯類歯科臨床標準"

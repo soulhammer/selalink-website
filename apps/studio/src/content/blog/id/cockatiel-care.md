@@ -6,7 +6,7 @@ pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "FreshSelf"
 tags: ["PerawatanHewan","KesehatanHewan","Cockatiel / Parkit Australia (Nymphicus hollandicus)"]
-heroImage: "/images/blog/cockatiel_care.png"
+heroImage: "/images/blog/cockatiel_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Association of Avian Veterinarians (AAV) & Standar Perilaku Burung"

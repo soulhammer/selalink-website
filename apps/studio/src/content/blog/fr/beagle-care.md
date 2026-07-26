@@ -6,7 +6,7 @@ pubDate: "2026-02-28"
 updatedDate: "2026-03-01"
 category: "FreshSelf"
 tags: ["SoinAnimaux","SanteAnimaux","Beagle"]
-heroImage: "/images/blog/beagle_care.png"
+heroImage: "/images/blog/beagle_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Standard officiel du Beagle de l'AKC et protocoles de comportement de pistage de l'IAABC"

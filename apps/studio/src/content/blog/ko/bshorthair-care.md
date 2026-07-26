@@ -6,7 +6,7 @@ pubDate: "2026-03-08"
 updatedDate: "2026-03-09"
 category: "FreshSelf"
 tags: ["반려동물","펫케어","브리티시 숏헤어 (British Shorthair)"]
-heroImage: "/images/blog/bshorthair_care.png"
+heroImage: "/images/blog/bshorthair_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "GCCF 브리티시 숏헤어 표준 및 AAFP 고양이 비만 지침"

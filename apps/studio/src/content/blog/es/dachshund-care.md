@@ -6,7 +6,7 @@ pubDate: "2026-06-20"
 updatedDate: "2026-06-20"
 category: "FreshSelf"
 tags: ["CuidadoMascotas","SaludMascotas","Teckel / Dachshund (Canis lupus familiaris)"]
-heroImage: "/images/blog/dachshund_care.png"
+heroImage: "/images/blog/dachshund_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Guía de Salud del Dachshund del American Kennel Club y Directrices de la Asociación Veterinaria de la Columna"

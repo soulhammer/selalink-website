@@ -6,7 +6,7 @@ pubDate: "2026-04-20"
 updatedDate: "2026-04-20"
 category: "FreshSelf"
 tags: ["ペットケア","ペット健康","メインクーン (Felis catus / Maine Coon)"]
-heroImage: "/images/blog/maine_coon_care.png"
+heroImage: "/images/blog/maine_coon_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "メインクーンブリーダーズ＆ファンシャーズアソシエーション(MCBFA)およびAAFP大型猫管理プロトコル"

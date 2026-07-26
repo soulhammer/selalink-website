@@ -6,7 +6,7 @@ pubDate: "2026-05-28"
 updatedDate: "2026-05-30"
 category: "FreshSelf"
 tags: ["CuidadoMascotas","SaludMascotas","Golden Retriever (Canis lupus familiaris)"]
-heroImage: "/images/blog/golden_retriever_care.png"
+heroImage: "/images/blog/golden_retriever_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Guía Oficial de Razas del American Kennel Club (AKC) y Protocolos de Comportamiento de IAABC"

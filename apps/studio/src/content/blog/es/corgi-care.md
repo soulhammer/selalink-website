@@ -6,7 +6,7 @@ pubDate: "2026-04-12"
 updatedDate: "2026-04-14"
 category: "FreshSelf"
 tags: ["CuidadoMascotas","SaludMascotas","Welsh Corgi (Canis lupus familiaris)"]
-heroImage: "/images/blog/corgi_care.png"
+heroImage: "/images/blog/corgi_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Guía oficial del Pembroke Welsh Corgi Club of America y Pautas de Salud Canina de AKC"

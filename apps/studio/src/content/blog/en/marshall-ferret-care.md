@@ -6,7 +6,7 @@ pubDate: "2026-05-06"
 updatedDate: "2026-05-06"
 category: "FreshSelf"
 tags: ["PetCare","PetHealth","Marshall Ferret (Mustela putorius furo)"]
-heroImage: "/images/blog/marshall_ferret_care.png"
+heroImage: "/images/blog/marshall_ferret_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "American Ferret Association Standards and Exotic Veterinary Behavioral Medicine Guidelines"

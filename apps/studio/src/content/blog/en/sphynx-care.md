@@ -6,7 +6,7 @@ pubDate: "2026-03-04"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
 tags: ["PetCare","PetHealth","Sphynx Cat"]
-heroImage: "/images/blog/sphynx_care.png"
+heroImage: "/images/blog/sphynx_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "International Society of Feline Medicine (ISFM) Dermatology Guidelines & Veterinary Protocols"

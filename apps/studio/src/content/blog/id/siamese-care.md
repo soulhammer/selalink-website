@@ -6,7 +6,7 @@ pubDate: "2026-02-19"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
 tags: ["PerawatanHewan","KesehatanHewan","Siamese"]
-heroImage: "/images/blog/siamese_care.png"
+heroImage: "/images/blog/siamese_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Panduan Resmi Cat Fanciers' Association (CFA) & Protokol Perilaku Kucing AAFP"

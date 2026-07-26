@@ -6,7 +6,7 @@ pubDate: "2026-04-18"
 updatedDate: "2026-04-18"
 category: "FreshSelf"
 tags: ["반려동물","펫케어","벵갈 고양이 (Prionailurus bengalensis × Felis catus)"]
-heroImage: "/images/blog/bengal_care.png"
+heroImage: "/images/blog/bengal_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "국제고양이협회(TICA) 벵갈 품종 가이드 및 고양이 행동의학 표준 권고사항"

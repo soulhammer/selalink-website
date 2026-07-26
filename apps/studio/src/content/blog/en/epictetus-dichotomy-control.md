@@ -88,7 +88,7 @@ Chronic stress and anxiety stem primarily from perceived helplessness when the b
 
 ## 3. Caution: Your Jurisdiction Ends at Your Own Actions
 
-Blaming yourself when external responses or market outcomes turn unfavorable—despite giving your best effort—pushes the brain into severe ego depletion and depressive cycles. Understand that your sole duty ends at your intentional effort; the ultimate outcome belongs to the universe.
+Blaming yourself when externalor market outcomes turn unfavorable—despite giving your best effort—pushes the brain into severe ego depletion and depressive cycles. Understand that your sole duty ends at your intentional effort; the ultimate outcome belongs to the universe.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

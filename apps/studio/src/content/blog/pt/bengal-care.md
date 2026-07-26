@@ -6,7 +6,7 @@ pubDate: "2026-04-18"
 updatedDate: "2026-04-18"
 category: "FreshSelf"
 tags: ["CuidadoPets","SaudePets","Bengal (Prionailurus bengalensis × Felis catus)"]
-heroImage: "/images/blog/bengal_care.png"
+heroImage: "/images/blog/bengal_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Padrão de Raça do Bengal da The International Cat Association (TICA) e Diretrizes de Comportamento Felino"

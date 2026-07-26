@@ -6,7 +6,7 @@ pubDate: "2026-07-01"
 updatedDate: "2026-07-01"
 category: "FreshSelf"
 tags: ["Haustierpflege","Haustiergesundheit","Chihuahua (Canis lupus familiaris)"]
-heroImage: "/images/blog/chihuahua_care.png"
+heroImage: "/images/blog/chihuahua_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Rassehandbuch des Chihuahua Club of America und AVMA-Richtlinien für den Stoffwechsel von Zwergrassen"

@@ -6,7 +6,7 @@ pubDate: "2026-05-06"
 updatedDate: "2026-05-06"
 category: "FreshSelf"
 tags: ["ペットケア","ペット健康","マーシャルフェレット (Mustela putorius furo / Marshall Ferret)"]
-heroImage: "/images/blog/marshall_ferret_care.png"
+heroImage: "/images/blog/marshall_ferret_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "American Ferret Association フェレット行動基準およびエキゾチック獣医行動医学ガイド"

@@ -6,7 +6,7 @@ pubDate: "2026-01-30"
 updatedDate: "2026-01-30"
 category: "FreshSelf"
 tags: ["반려동물","펫케어","보더콜리 (Border Collie)"]
-heroImage: "/images/blog/border_collie_care.png"
+heroImage: "/images/blog/border_collie_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "영국 켄넬 클럽(KC) 보더콜리 가이드 및 동물 행동 인지 연구 표준"

@@ -6,7 +6,7 @@ pubDate: "2026-03-04"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
 tags: ["宠物护理","宠物健康","斯芬克斯猫 (Sphynx Cat)"]
-heroImage: "/images/blog/sphynx_care.png"
+heroImage: "/images/blog/sphynx_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "国际猫科医学学会 (ISFM) 皮肤学指南与猫咪被毛兽医协议"

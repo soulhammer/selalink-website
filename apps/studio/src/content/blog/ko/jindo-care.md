@@ -6,7 +6,7 @@ pubDate: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "FreshSelf"
 tags: ["반려동물","펫케어","진돗개 (Canis lupus familiaris)"]
-heroImage: "/images/blog/jindo_care.png"
+heroImage: "/images/blog/jindo_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "국립축산과학원 진돗개 표준 관리 지침 및 KKC 행동 전문가 프로토콜"

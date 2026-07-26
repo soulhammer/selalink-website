@@ -6,7 +6,7 @@ pubDate: "2026-05-10"
 updatedDate: "2026-05-10"
 category: "FreshSelf"
 tags: ["반려동물","펫케어","비숑 프리제 (Bichon Frise)"]
-heroImage: "/images/blog/bichon_care.png"
+heroImage: "/images/blog/bichon_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Bichon Frise Club of America 가이드라인 및 AVMA 수의학 지침"

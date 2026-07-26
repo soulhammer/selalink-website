@@ -6,7 +6,7 @@ pubDate: "2026-04-08"
 updatedDate: "2026-04-08"
 category: "FreshSelf"
 tags: ["반려동물","펫케어","노르웨이 숲 (Felis catus / Norwegian Forest Cat)"]
-heroImage: "/images/blog/norwegian_forest_care.png"
+heroImage: "/images/blog/norwegian_forest_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "국제고양이협회(TICA) 가이드 및 고양이 수의행동학 학술 지침"

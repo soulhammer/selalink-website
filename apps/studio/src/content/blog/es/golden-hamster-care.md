@@ -6,7 +6,7 @@ pubDate: "2026-01-21"
 updatedDate: "2026-01-21"
 category: "FreshSelf"
 tags: ["CuidadoMascotas","SaludMascotas","Hámster Sirio / Dorado (Mesocricetus auratus)"]
-heroImage: "/images/blog/golden_hamster_care.png"
+heroImage: "/images/blog/golden_hamster_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Guía de Cuidado de Hámsters de la Humane Society y Protocolos de Conducta Veterinaria"

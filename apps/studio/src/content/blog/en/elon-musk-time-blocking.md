@@ -28,7 +28,7 @@ faqs:
 
 Elon Musk (1971–) is the visionary technology entrepreneur behind world-changing ventures: driving the electric vehicle revolution at Tesla, spearheading multi-planetary space exploration at SpaceX, and developing brain-computer interfaces at Neuralink. Notorious for enduring grueling 80-to-100-hour workweeks, Musk makes critical engineering and executive decisions in real time across multiple industries.
 
-The core secret allowing him to manage this superhuman workload is his '5-Minute Time Blocking' planning routine. Every morning, Musk fragments his entire daily schedule into micro-blocks ranging from 5 to 15 minutes—apportioning tight slots for engineering design reviews, factory floor walkthroughs, email responses, and even meals. Upon entering each 5-minute block, he mutes external noise and channels 100% of his cognitive energy exclusively into that singular task until the timer expires.
+The core secret allowing him to manage this superhuman workload is his '5-Minute Time Blocking' planning routine. Every morning, Musk fragments his entire daily schedule into micro-blocks ranging from 5 to 15 minutes—apportioning tight slots for engineering design reviews, factory floor walkthroughs, email, and even meals. Upon entering each 5-minute block, he mutes external noise and channels 100% of his cognitive energy exclusively into that singular task until the timer expires.
 
 In today's post, we dissect the brain science underlying Elon Musk's '5-minute time blocking' routine and present a practical action plan to eliminate wasted time and elevate your cognitive density.
 

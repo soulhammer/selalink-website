@@ -52,7 +52,7 @@ In today's post, we examine the cognitive science principles of the 'creaky door
 
 Sudden, unannounced external intrusions cause <strong>'Task-Switching Friction'</strong> in the brain and maximize the loss from <strong>'Attention Residue'</strong>, where focus remains tied to the prior task.
 
-The creaky door sound utilized by Jane Austen functioned as an Early Warning Signal, buying cognitive prep time for the brain. It served as a perfect firewall that enabled the prefrontal cortex to stably manage cognitive resources in advance and minimize concentration loss, preventing sudden startle or stress responses (cortisol secretion).
+The creaky door sound utilized by Jane Austen functioned as an Early Warning Signal, buying cognitive prep time for the brain. It served as a perfect firewall that enabled the prefrontal cortex to stably manage cognitive resources in advance and minimize concentration loss, preventing sudden startle or stress(cortisol secretion).
 
 ---
 

@@ -6,7 +6,7 @@ pubDate: "2026-06-22"
 updatedDate: "2026-06-22"
 category: "FreshSnap"
 tags: ["食材保存","鮮度保持","milk"]
-heroImage: "/images/blog/milk_storage_hack.png"
+heroImage: "/images/blog/milk_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>食品医薬品安全処(MFDS) & 米国農務省(USDA) & 米国食品医薬品局(FDA)</strong>"

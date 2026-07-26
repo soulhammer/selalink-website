@@ -6,7 +6,7 @@ pubDate: "2026-04-03"
 updatedDate: "2026-04-03"
 category: "FreshSelf"
 tags: ["SoinAnimaux","SanteAnimaux","Tortue Musquée Commune (Sternotherus odoratus / Common Musk Turtle)"]
-heroImage: "/images/blog/musk_turtle_care.png"
+heroImage: "/images/blog/musk_turtle_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Directives d'Exposition au Soleil de la World Chelonian Association et Protocole Vétérinaire pour Tortues Aquatiques"

@@ -6,7 +6,7 @@ pubDate: "2026-01-02"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
 tags: ["宠物护理","宠物健康","约克夏梗 (Yorkshire Terrier)"]
-heroImage: "/images/blog/yorkshire_care.png"
+heroImage: "/images/blog/yorkshire_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "英国约克夏梗犬俱乐部 (YTC) 官方美容指南与兽医整形外科指南"

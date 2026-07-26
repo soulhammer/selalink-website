@@ -6,7 +6,7 @@ pubDate: "2026-01-05"
 updatedDate: "2026-01-05"
 category: "FreshSelf"
 tags: ["宠物护理","宠物健康","博美犬 (Canis lupus familiaris / Pomeranian)"]
-heroImage: "/images/blog/pomeranian_care.png"
+heroImage: "/images/blog/pomeranian_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "美国博美犬俱乐部官方犬种指南与 AVMA 兽医学手册"

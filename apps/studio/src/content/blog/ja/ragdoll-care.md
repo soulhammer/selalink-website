@@ -6,7 +6,7 @@ pubDate: "2026-06-18"
 updatedDate: "2026-06-18"
 category: "FreshSelf"
 tags: ["ペットケア","ペット健康","ラグドール (Felis catus / Ragdoll)"]
-heroImage: "/images/blog/ragdoll_care.png"
+heroImage: "/images/blog/ragdoll_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "キャットファンシャーズアソシエーション(CFA)公式ラグドール標準ガイド＆AAFP猫フレンドリー診療ガイドライン"

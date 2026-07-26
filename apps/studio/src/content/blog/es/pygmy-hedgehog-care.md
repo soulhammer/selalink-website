@@ -6,7 +6,7 @@ pubDate: "2026-05-21"
 updatedDate: "2026-05-21"
 category: "FreshSelf"
 tags: ["CuidadoMascotas","SaludMascotas","Erizo Pigmeo Africano (Atelerix albiventris / African Pygmy Hedgehog)"]
-heroImage: "/images/blog/pygmy_hedgehog_care.png"
+heroImage: "/images/blog/pygmy_hedgehog_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Pautas de la Hedgehog Welfare Society y Protocolos Veterinarios de Medicina de Animales Exóticos"

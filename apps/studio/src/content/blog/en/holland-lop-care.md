@@ -6,7 +6,7 @@ pubDate: "2026-07-15"
 updatedDate: "2026-07-15"
 category: "FreshSelf"
 tags: ["PetCare","PetHealth","Holland Lop Rabbit (Oryctolagus cuniculus)"]
-heroImage: "/images/blog/holland_lop_care.png"
+heroImage: "/images/blog/holland_lop_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "House Rabbit Society (HRS) Guidelines & Association of Exotic Mammal Veterinarians (AEMV) Standards"

@@ -6,7 +6,7 @@ pubDate: "2026-03-08"
 updatedDate: "2026-03-09"
 category: "FreshSelf"
 tags: ["宠物护理","宠物健康","英国短毛猫 (British Shorthair)"]
-heroImage: "/images/blog/bshorthair_care.png"
+heroImage: "/images/blog/bshorthair_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "GCCF 英国短毛猫标准与 AAFP 猫咪肥胖指南"

@@ -6,7 +6,7 @@ pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "FreshSelf"
 tags: ["宠物护理","宠物健康","阿比西尼亚天竺鼠 (Abyssinian Guinea Pig)"]
-heroImage: "/images/blog/abyssinian_guinea_pig_care.png"
+heroImage: "/images/blog/abyssinian_guinea_pig_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "英国皇家防止虐待动物协会 (RSPCA) 啮齿类动物护理指南与非传统宠物兽医标准"

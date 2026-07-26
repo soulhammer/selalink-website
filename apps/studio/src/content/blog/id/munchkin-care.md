@@ -6,7 +6,7 @@ pubDate: "2026-05-31"
 updatedDate: "2026-05-31"
 category: "FreshSelf"
 tags: ["PerawatanHewan","KesehatanHewan","Kucing Munchkin (Felis catus)"]
-heroImage: "/images/blog/munchkin_care.png"
+heroImage: "/images/blog/munchkin_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Standar Ras Munchkin Cat Fanciers' Association (CFA) & Pedoman Ortopedi Veteriner"

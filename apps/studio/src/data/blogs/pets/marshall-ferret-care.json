@@ -1,516 +1,516 @@
 {
-  "marshall-ferret-care": {
-    "pubDate": "2026-05-06",
-    "updatedDate": "2026-05-06",
-    "locales": {
-      "ko": {
-        "title": "마샬 페럿의 전쟁 댄스와 사냥 탐색 극대화 3단계 루틴",
-        "description": "장난기 많고 유연한 육식 소동물 마샬 페럿. 기쁨을 표현하는 위즐 워 댄스 대처법과 특유의 호기심 충족 및 귀 위생을 돕는 3단계 케어 가이드를 확인해 보세요.",
-        "authority": "American Ferret Association 페럿 행동 표준 및 소동물 수의 행동의학 가이드",
-        "profile": {
-          "breed": "마샬 페럿 (Mustela putorius furo / Marshall Ferret)",
-          "lifespan": "6 ~ 10년",
-          "sleep_pattern": "18 ~ 20시간 (깊고 무기력한 수면 패턴)",
-          "temperament": "장난기 넘침, 에너제틱, 사교적, 호기심 많음"
+    "marshall-ferret-care": {
+        "pubDate": "2026-05-06",
+        "updatedDate": "2026-05-06",
+        "locales": {
+            "ko": {
+                "title": "마샬 페럿의 전쟁 댄스와 사냥 탐색 극대화 3단계 루틴",
+                "description": "장난기 많고 유연한 육식 소동물 마샬 페럿. 기쁨을 표현하는 위즐 워 댄스 대처법과 특유의 호기심 충족 및 귀 위생을 돕는 3단계 케어 가이드를 확인해 보세요.",
+                "authority": "American Ferret Association 페럿 행동 표준 및 소동물 수의 행동의학 가이드",
+                "profile": {
+                    "breed": "마샬 페럿 (Mustela putorius furo / Marshall Ferret)",
+                    "lifespan": "6 ~ 10년",
+                    "sleep_pattern": "18 ~ 20시간 (깊고 무기력한 수면 패턴)",
+                    "temperament": "장난기 넘침, 에너제틱, 사교적, 호기심 많음"
+                },
+                "intro": "길쭉하고 유연한 허리와 장난기 깃든 눈망울을 가진 마샬 페럿은 사교성이 대단히 뛰어난 육식 소동물로, 반려인과 직접 교감하고 다양한 놀이를 즐길 수 있는 특별한 존재입니다. 하지만 강한 포식 본능과 왕성한 탐색 욕구를 품고 있어 매일 일정 시간 이상 방목하여 에너지를 방출해 주어야 우울감과 행동 문제를 예방할 수 있습니다. 또한 구조상 귀에 갈색 귀진드기가 생기거나 귓병이 발생하기 쉬워 정기적인 예방과 청결 관리가 필수적입니다. 페럿은 기분이 너무 좋거나 흥분하면 몸을 휘어잡고 통통 튀며 무시무시하면서도 귀여운 춤사위를 보여줍니다. 오늘 PetSelf에서는 마샬 페럿의 흥분 댄스와 슉슉거리는 소리 신호를 해독하고, 안전하고 건강한 일상 탐험을 지원하는 3단계 데일리 홈케어 루틴을 소개합니다.",
+                "whyTitle": "마샬 페럿의 놀이 의사소통: 페럿 댄스와 슉슉 소리",
+                "whyDesc": "마샬 페럿은 흥분이 극에 달하면 입을 크게 벌리고 등을 동그랗게 구부린 채 이리저리 부딪치며 춤을 추는 **'페럿 댄스(Weasel War Dance)'** 행동으로 압도적인 기쁨을 드러냅니다. 또한 신나게 냄새를 추적하거나 터널을 통과할 때는 목구멍으로 **'슉슉거리는 소리(Dooking)'**를 냄으로써 보호자에게 현재 매우 즐거운 상태임을 끊임없이 전달합니다.",
+                "body_signals": [
+                    {
+                        "name": "페럿 댄스 (Weasel War Dance)",
+                        "meaning": "위협적으로 보이지만 사실은 에너지가 폭발해 주체할 수 없을 만큼 행복하고 신난 놀이 권장 의사표현입니다.",
+                        "response": "가구 틈새 등에 부딪쳐 골절되지 않도록 모서리가 완충된 미끄럼 방지 공간에서 공이나 터널을 이용해 함께 놀아 줍니다."
+                    },
+                    {
+                        "name": "낮은 슉슉 소리 (Dooking)",
+                        "meaning": "새로운 냄새나 장난감 미로를 마주하여 높은 호기심과 즐거움을 표현하고 있는 안전한 감정 상태입니다.",
+                        "response": "바스락거리는 비닐 터널이나 종이 상자를 제공해 페럿의 굴 파기 사냥 본능을 깊이 자극해 줍니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 육식 전용 고단백 식사 및 식수 공급 상태 점검",
+                        "text": "장이 매우 짧아 수시로 사료를 먹어야 하므로 탄수화물이나 곡물이 배제된 육류 위주의 전용 사료를 넉넉하게 리필하고 깨끗한 물을 채워 줍니다."
+                    },
+                    {
+                        "name": "낮: 최소 4시간 이상 거실 안전 구역 자유 방목 놀이",
+                        "text": "케이지에 장시간 방치하면 심한 무기력증에 빠지므로, 끼일 수 있는 좁은 배수구나 가구 밑 틈을 원천 봉쇄한 후 안전한 거실 공간에 자유롭게 풀어 둡니다."
+                    },
+                    {
+                        "name": "저녁: 해먹 침구 상태 점검 및 귀 청결 건조 확인",
+                        "text": "땀샘이 없어 온도에 예민한 페럿의 침구를 매일 털어주고 세탁하며, 귀 내부에 진드기가 번식하지 않았는지 갈색 삼출물 유무를 점검합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "페럿이 갑자기 기절한 것처럼 흔들어도 자고 있는데 큰 병인가요?",
+                        "answer": "페럿은 잠을 잘 때 주변 소음이나 진동에도 전혀 깨지 않고 온몸이 축 늘어지는 '페럿 데드 슬립(Ferret Dead Sleep)'을 흔하게 겪습니다. 체온이 따뜻하고 숨을 평온하게 쉬고 있다면 질병이 아닌 깊은 수면 상태이니 억지로 깨우지 말고 자도록 둡니다."
+                    },
+                    {
+                        "question": "페럿 특유의 누린내와 냄새를 없애고 싶어요.",
+                        "answer": "페럿은 피지선에서 고유의 머스크 향이 나므로, 냄새를 없애기 위해 잦은 목욕을 시키면 오히려 피부가 건조해져 피지 분비가 폭발하고 냄새가 악화됩니다. 목욕은 월 1회로 한정하고 페럿이 닿는 해먹과 담요를 자주 세탁해 주는 것이 가장 이상적입니다."
+                    }
+                ],
+                "tags": [
+                    "마샬페럿",
+                    "위즐워댄스",
+                    "페럿방목주의",
+                    "페럿데드슬립"
+                ]
+            },
+            "en": {
+                "title": "Marshall Ferret Weasel War Dance and 3-Step Exploration Daily Routine",
+                "description": "Caring for the playful Marshall Ferret. Learn how to respond to their war dance and maintain their active curiosity and ear hygiene with our 3-step daily guide.",
+                "authority": "American Ferret Association Standards and Exotic Veterinary Behavioral Medicine Guidelines",
+                "profile": {
+                    "breed": "Marshall Ferret (Mustela putorius furo)",
+                    "lifespan": "6 ~ 10 Years",
+                    "sleep_pattern": "18 ~ 20 Hours (Deep & Lifeless Sleep Pattern)",
+                    "temperament": "Playful, Energetic, Social, Highly Curious"
+                },
+                "intro": "With a long, flexible torso and mischievous, sparkling eyes, the Marshall Ferret is an extraordinarily social carnivore that bonds deeply and plays enthusiastically with its human companions. However, retaining wild hunting instincts and boundless curiosity, ferrets require dedicated out-of-cage exploration time every day to burn off energy and prevent behavioral depression. Additionally, due to their ear canal anatomy, they are prone to ear mites and infections, making regular hygiene checks essential. When overcome with joy, ferrets perform a chaotic, bouncing dance by twisting their bodies sideways. Today, PetSelf decodes the ferret war dance and dooking vocalizations while introducing a 3-step homecare routine for safe daily adventures.",
+                "whyTitle": "Marshall Ferret Communication: The Weasel War Dance and Dooking",
+                "whyDesc": "When excitement reaches its peak, Marshall Ferrets open their mouths, arch their backs, and bounce wildly off walls and furniture—a behavior known as the **'Weasel War Dance'**. Furthermore, while eagerly scent-marking or navigating tunnels, they emit a soft, rhythmic clucking sound from their throat called **'Dooking'** to signal intense happiness and enjoyment.",
+                "body_signals": [
+                    {
+                        "name": "Weasel War Dance",
+                        "meaning": "Though it appears dramatic or aggressive, it is a harmless expression of explosive joy and an invitation to play.",
+                        "response": "Provide a spacious, slip-free area with cushioned corners, and roll balls or pull fleece toys to play together safely."
+                    },
+                    {
+                        "name": "Soft Dooking Sounds",
+                        "meaning": "An emotional expression of delight and curiosity upon encountering new scents, cardboard mazes, or tunnels.",
+                        "response": "Provide crinkly plastic tunnels or cardboard boxes to satisfy their natural burrowing and hunting drives."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: High-Protein Carnivore Diet & Water Supply Inspection",
+                        "text": "Because ferrets have an extremely short digestive tract requiring frequent meals, replenish meat-based, grain-free ferret kibble and ensure clean drinking water is available."
+                    },
+                    {
+                        "name": "Afternoon: Safe Free-Roaming Playtime for At Least 4 Hours",
+                        "text": "Prevent depression by releasing them into a secured room. Thoroughly block small gaps under appliances and furniture where they could get trapped."
+                    },
+                    {
+                        "name": "Evening: Fleece Hammock Hygiene Check & Ear Health Inspection",
+                        "text": "Clean and shake out their sleeping hammocks daily since ferrets lack sweat glands, and inspect inside their ears for dark brown discharge signaling ear mites."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Why is my ferret sleeping so deeply that they won't wake up even when shaken?",
+                        "answer": "Ferrets frequently enter 'Ferret Dead Sleep', a state of profoundly deep REM sleep where they become completely limp and unresponsive to noise or movement. As long as their body is warm and breathing is steady, they are simply dreaming deeply—let them rest undisturbed."
+                    },
+                    {
+                        "question": "How can I reduce the natural musky odor of my ferret?",
+                        "answer": "Ferrets secrete musk from skin sebaceous glands. Bathing them too frequently strips essential oils, causing their skin to overproduce sebum and worsening the scent. Limit baths to once a month and frequently wash their fleece hammocks and bedding instead."
+                    }
+                ],
+                "tags": [
+                    "MarshallFerret",
+                    "WeaselWarDance",
+                    "FerretProofing",
+                    "FerretDeadSleep"
+                ]
+            },
+            "ja": {
+                "title": "マーシャルフェレットのクレイジーダンスと探索欲を満たす3ステップ日常ルーティン",
+                "description": "遊び好きで体が柔らかいマーシャルフェレット。興奮を表すウォーダンスの対処法と、特有の好奇心を満たし耳の衛生を保つための3ステップケアを解説します。",
+                "authority": "American Ferret Association フェレット行動基準およびエキゾチック獣医行動医学ガイド",
+                "profile": {
+                    "breed": "マーシャルフェレット (Mustela putorius furo / Marshall Ferret)",
+                    "lifespan": "6 〜 10年",
+                    "sleep_pattern": "18 〜 20時間 (死んだように深く眠る睡眠パターン)",
+                    "temperament": "遊び好き、活発、社交的、好奇心旺盛"
+                },
+                "intro": "長くてしなやかな体と愛嬌のある顔を持つマーシャルフェレットは、人懐っこく飼い主と遊ぶことが大好きな特別な肉食小動物です。しかし、肉食動物としての狩りの本能と強い探検欲を持っているため、毎日ケージから出してエナジーを発散させてあげないと、うつ状態や問題行動を引き起こす原因になります。また、耳ダニや耳の病気になりやすいため、定期的で衛生的な耳のケアが欠かせません。フェレットはテンションが上がると、体を曲げてピョンピョン跳ね回る独特のダンスを見せてくれます。今回はフェレットのクレイジーなダンスと鳴き声の意味を理解し、毎日の安全な探検をサポートする3ステップ日常ルーティンをご紹介します。",
+                "whyTitle": "フェレットのコミュニケーション：ウォーダンスとクックッ鳴く声",
+                "whyDesc": "マーシャルフェレットは興奮が最高潮に達すると、口を開けて背中を丸め、あちこち飛び跳ねる**「ウォーダンス（Weasel War Dance）」**で溢れ出る喜びを表現します。また、楽しそうにクンクン匂いを嗅いだりトンネルをくぐる時は、喉から**「クックッという音（Dooking）」**を出して楽しんでいることを飼い主に伝えます。",
+                "body_signals": [
+                    {
+                        "name": "ウォーダンス (Weasel War Dance)",
+                        "meaning": "一見威嚇のように見えますが、実はエナジーが爆発して嬉しくて仕方がない遊びのお誘いサインです。",
+                        "response": "家具の隙間などにぶつかって骨折しないよう、障害物のない滑りにくいマットの上でボール等を使って一緒に遊びます。"
+                    },
+                    {
+                        "name": "喉を鳴らすクックッという音 (Dooking)",
+                        "meaning": "新しい匂いやおもちゃのトンネルに出会って好奇心と楽しさが最高潮に達している安全な合図です。",
+                        "response": "ビニールトンネルや段ボール箱を置いて、フェレットの本能を刺激してあげましょう。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：高タンパクな肉食フードと給水の点検",
+                        "text": "消化器官が非常に短く頻繁に食べる必要があるため、穀物不使用の肉食専用フードをたっぷり補充し、水の出を確認します。"
+                    },
+                    {
+                        "name": "昼：最低4時間以上の安全なリビングでの放し飼い",
+                        "text": "ケージに長時間閉じ込めると深刻なうつ状態になるため、挟まりやすい家具の隙間を塞いだ安全なリビングで自由に遊ばせます。"
+                    },
+                    {
+                        "name": "夜：ハンモックの衛生点検と耳の健康チェック",
+                        "text": "汗腺がなく温度変化に弱いフェレットのため寝具を掃除・洗濯し、耳ダニの繁殖を防ぐために耳垢の状態をチェックします。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "フェレットが死んだように眠っていて揺すっても起きないのは病気ですか？",
+                        "answer": "フェレットは睡眠中、どんな音や振動でも起きずに体がダランとする『フェレットデッドスリープ（Ferret Dead Sleep）』をよく行います。体温が温かく呼吸が穏やかなら、病気ではなく深く眠っているだけですので、無理に起こさず寝かせておいてください。"
+                    },
+                    {
+                        "question": "特有の体臭（アブラ臭さ）を抑えるにはどうすればいいですか？",
+                        "answer": "フェレットは皮脂腺から独特の香りを出すため、臭いを消すために頻繁にお風呂に入れると、かえって皮膚が乾燥して皮脂分泌が増え、臭いが強くなります。シャンプーは月1回程度にとどめ、ハンモックや毛布を頻繁に洗うことが最善の対策です。"
+                    }
+                ],
+                "tags": [
+                    "マーシャルフェレット",
+                    "ウォーダンス",
+                    "フェレットの放牧",
+                    "デッドスリープ"
+                ]
+            },
+            "zh": {
+                "title": "马歇尔雪貂的战舞与最大化好奇心探索3阶段日常护理流程",
+                "description": "护理活泼且身体柔软的肉食雪貂——马歇尔雪貂。了解如何应对表示极度兴奋的战舞行为，并通过我们的3阶段护理满足其好奇心并保持耳道卫生。",
+                "authority": "American Ferret Association 雪貂行为标准及异宠兽医行为指南",
+                "profile": {
+                    "breed": "马歇尔雪貂 (Mustela putorius furo / Marshall Ferret)",
+                    "lifespan": "6 ~ 10年",
+                    "sleep_pattern": "18 ~ 20小时 (如同死过去一般的深睡眠模式)",
+                    "temperament": "极其爱玩、精力充沛、社交性强、好奇心旺盛"
+                },
+                "intro": "拥有细长柔软的身体和调皮眼神的马歇尔雪貂社交性极佳，是能够与饲主直接进行情感交流和游戏的独特肉食小动物。然而，它们拥有一颗捕食本能和强烈的探索欲，每天必须在安全的环境中放风以消耗精力，否则容易患上抑郁症。此外，它们极易感染耳痒螨等耳道疾病，定期的清洁和预防必不可少。当它们开心到极点时，会扭动身体并在空中弹跳，跳起独特的舞蹈。今天 PetSelf 将带您了解马歇尔雪貂的兴奋舞姿和鸣叫声，并介绍3阶段每日放风护理流程。",
+                "whyTitle": "雪貂的游戏沟通：雪貂战舞与咕咕鸣叫",
+                "whyDesc": "马歇尔雪貂在兴奋到极点时，会大张着嘴、弓着背、在周围横冲直撞地跳舞，即 **“雪貂战舞 (Weasel War Dance)”**，以此表达无上的快乐。相反，当它欢快地追逐气味或穿过管道时，会从喉咙发出 **“咕咕声 (Dooking)”**，以此向主人传达它正处于极具趣味的状态中。",
+                "body_signals": [
+                    {
+                        "name": "雪貂战舞 (Weasel War Dance)",
+                        "meaning": "虽然看起来带有攻击性，但实际上是精力爆发、快乐得无法自控的邀请游戏信号。",
+                        "response": "为防止碰撞家具导致骨折，在铺有防滑垫的空旷区域滚动玩具球与它们一起玩耍。"
+                    },
+                    {
+                        "name": "低沉的咕咕声 (Dooking)",
+                        "meaning": "当遇到新气味或纸箱迷宫时，表达高度好奇和快乐的无害情绪状态。",
+                        "response": "提供塑料管道或纸箱，以刺激雪貂本能的打洞和追逐兴趣。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：高蛋白肉食专用料喂食与饮水状态检查",
+                        "text": "由于消化道极短，雪貂需要随时进食，应备足肉类为主、无谷物的雪貂专用饲料，并检查给水器。"
+                    },
+                    {
+                        "name": "白天：每日至少4小时以上的客厅安全区域自由放风",
+                        "text": "长时间关在笼子中会导致其严重的抑郁，在彻底封锁可卡住的家具缝隙后，将它们释放到客厅活动。"
+                    },
+                    {
+                        "name": "晚上：吊床寝具卫生点检与耳道健康检查",
+                        "text": "雪貂没有汗腺，对温度非常敏感，应每日清理寝具，并检查耳道是否有耳螨引起的深褐色分泌物。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "雪貂突然像死了一样，怎么摇晃都叫不醒，是得重病了吗？",
+                        "answer": "雪貂在睡觉时经常会出现“雪貂假死睡眠 (Ferret Dead Sleep)”，即对周围的噪音或震动毫无反应，身体完全松弛。如果体温温暖且呼吸平稳，这只是正常的深睡眠，请勿惊慌打扰。"
+                    },
+                    {
+                        "question": "如何控制雪貂特有的体味（麝香味）？",
+                        "answer": "雪貂皮脂腺会分泌独特的麝香气味，如果为了消除异味而频繁洗澡，反而会导致皮肤干燥，皮脂分泌爆发而使味道加重。建议洗澡限制在每月1次，频繁清洗它们接触的吊床和毛毯是最佳方法。"
+                    }
+                ],
+                "tags": [
+                    "马歇尔雪貂",
+                    "雪貂战舞",
+                    "雪貂放风注意事项",
+                    "假死睡眠"
+                ]
+            },
+            "es": {
+                "title": "Danza de guerra del hurón de Marshall y rutina diaria de exploración de 3 pasos",
+                "description": "Cuidado del juguetón hurón de Marshall. Aprenda a responder a su danza de guerra y mantenga su curiosidad activa y su higiene del oído con nuestra guía diaria de 3 pasos.",
+                "authority": "Estándares de la American Ferret Association y Pautas Veterinarias de Medicina Comportamental para Animales Exóticos",
+                "profile": {
+                    "breed": "Hurón de Marshall (Mustela putorius furo / Marshall Ferret)",
+                    "lifespan": "6 ~ 10 años",
+                    "sleep_pattern": "18 ~ 20 horas (sueño profundo y flácido)",
+                    "temperament": "Juguetón, enérgico, social, altamente curioso"
+                },
+                "intro": "Con un cuerpo largo y flexible y ojos chispeantes, el hurón de Marshall es una mascota carnívora altamente social que interactúa estrechamente con los humanos. Requieren tiempo de juego diario fuera de la jaula para quemar energía, satisfacer su curiosidad y evitar la depresión. Los controles periódicos de los oídos también son esenciales para evitar ácaros e infecciones. Cuando están eufóricos, realizan un baile caótico rebotando de lado. Hoy en PetSelf, cubrimos la danza de guerra del hurón, los sonidos de dooking y una rutina de 3 pasos para sus aventuras diarias seguras.",
+                "whyTitle": "Comunicación del hurón de Marshall: La danza de guerra y el dooking",
+                "whyDesc": "Los hurones de Marshall muestran alegría inflando la cola, arqueando la espalda y rebotando de lado, un comportamiento conocido como **'Danza de guerra del hurón' (Weasel War Dance)**. También emiten un suave sonido de cloqueo llamado **'Dooking'** cuando exploran con entusiasmo. Comprender estas señales ayuda a maximizar su experiencia de juego.",
+                "body_signals": [
+                    {
+                        "name": "Danza de guerra del hurón (Weasel War Dance)",
+                        "meaning": "Una expresión dramática pero inofensiva de pura emoción, que indica que quieren jugar de forma desenfrenada.",
+                        "response": "Proporcione un área espaciosa y antideslizante libre de bordes duros para evitar lesiones durante sus saltos caóticos."
+                    },
+                    {
+                        "name": "Dooking (Sonidos de cloqueo bajos)",
+                        "meaning": "Una expresión emocional de alegría e intenso interés al encontrar un nuevo olor o túnel.",
+                        "response": "Extienda túneles ruidosos o cajas de cartón para estimular sus instintos naturales de excavación y cacería."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Dieta carnívora alta en proteínas y recarga de agua",
+                        "text": "Los hurones tienen un tracto digestivo corto y comen con frecuencia. Rellene comida a base de carne y libre de granos, y revise su bebedero."
+                    },
+                    {
+                        "name": "Tarde: Tiempo de juego seguro fuera de la jaula por al menos 4 horas",
+                        "text": "Evite la depresión liberándolos en la habitación. Asegúrese de que todos los pequeños huecos debajo de los muebles estén sellados."
+                    },
+                    {
+                        "name": "Noche: Limpieza de hamacas colgantes e inspección de la salud del oído",
+                        "text": "Los hurones no pueden sudar. Lave sus hamacas de felpa y revise sus oídos para detectar secreciones oscuras de ácaros."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Por qué mi hurón duerme tan profundamente que no se despierta aunque lo mueva?",
+                        "answer": "Esto se conoce como 'Sueño profundo del hurón' (Ferret Dead Sleep). Duermen tan profundamente que parecen flácidos y sin vida. Si su cuerpo está tibio y la respiración es constante, déjelo dormir; es un comportamiento normal de descanso."
+                    },
+                    {
+                        "question": "¿Cómo controlo el olor a almizcle natural del hurón?",
+                        "answer": "Los hurones secretan almizcle desde glándulas en la piel. Los baños frecuentes secan su piel, lo que provoca una mayor producción de sebo y empeora el olor. Bañe solo una vez al mes y lave sus sábanas y hamacas semanalmente."
+                    }
+                ],
+                "tags": [
+                    "HurónDeMarshall",
+                    "DanzaDeGuerra",
+                    "AcondicionamientoParaHurones",
+                    "SueñoProfundo"
+                ]
+            },
+            "fr": {
+                "title": "Danse de guerre du furet de Marshall et routine d'exploration quotidienne en 3 étapes",
+                "description": "Soin du furet de Marshall enjoué. Apprenez à répondre à sa danse de guerre et maintenez sa curiosité active et son hygiène auriculaire avec notre guide quotidien en 3 étapes.",
+                "authority": "Normes de l'American Ferret Association et Directives Vétérinaires de Médecine Comportementale pour Animaux Exotiques",
+                "profile": {
+                    "breed": "Furet de Marshall (Mustela putorius furo / Marshall Ferret)",
+                    "lifespan": "6 ~ 10 ans",
+                    "sleep_pattern": "18 ~ 20 heures (sommeil profond et léthargique)",
+                    "temperament": "Enjoué, énergétique, social, très curieux"
+                },
+                "intro": "Avec un corps long et flexible et des yeux pétillants, le furet de Marshall est un compagnon carnivore très social qui interagit étroitement avec les humains. Ils ont besoin de temps de jeu quotidien hors de la cage pour dépenser leur énergie, satisfaire leur curiosité et prévenir l'ennui. Des contrôles réguliers des oreilles sont également essentiels pour éviter les acariens. Lorsqu'ils sont euphoriques, ils exécutent une danse désordonnée en bondissant de côté. Aujourd'hui sur PetSelf, nous couvrons la danse de guerre du furet, les bruits de dooking et une routine en 3 étapes pour leurs aventures quotidiennes sécurisées.",
+                "whyTitle": "Communication du furet de Marshall : La danse de guerre et le dooking",
+                "whyDesc": "Les furets de Marshall expriment leur joie en gonflant leur queue, en arquant leur dos et en bondissant de côté, un comportement connu sous le nom de **« Danse de guerre du furet » (Weasel War Dance)**. Ils émettent également un léger caquetage appelé **« Dooking »** lorsqu'ils explorent avec enthousiasme. Comprendre ces signaux aide à maximiser leur expérience de jeu.",
+                "body_signals": [
+                    {
+                        "name": "Danse de guerre du furet (Weasel War Dance)",
+                        "meaning": "Une expression spectaculaire mais inoffensive d'excitation pure, indiquant qu'ils veulent jouer sans retenue.",
+                        "response": "Fournissez une zone spacieuse et antidérapante exempte de bords durs pour éviter les blessures lors de leurs sauts chaotiques."
+                    },
+                    {
+                        "name": "Dooking (Gloussements bas)",
+                        "meaning": "Une expression émotionnelle de joie et d'intérêt intense lors de la rencontre d'une nouvelle odeur ou d'un tunnel.",
+                        "response": "Installez des tunnels bruyants ou des boîtes en carton pour stimuler leurs instincts naturels de creusement."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Régime carnivore riche en protéines et recharge d'eau",
+                        "text": "Les furets ont un tube digestif court et mangent fréquemment. Remplissez des croquettes à base de viande, sans céréales, et vérifiez leur bouteille d'eau."
+                    },
+                    {
+                        "name": "Après-midi : Temps de jeu sécurisé hors de la cage pendant au moins 4 heures",
+                        "text": "Évitez la dépression en les libérant dans la pièce. Assurez-vous que tous les petits espaces sous les meubles sont scellés."
+                    },
+                    {
+                        "name": "Soir : Nettoyage des hamacs suspendus et inspection de la santé auriculaire",
+                        "text": "Les furets ne peuvent pas transpirer. Lavez leurs hamacs en polaire et vérifiez leurs oreilles pour détecter des sécrétions sombres d'acariens."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Pourquoi mon furet dort-il si profondément qu'il ne se réveille pas même secoué ?",
+                        "answer": "C'est ce qu'on appelle le 'Sommeil de plomb du furet' (Ferret Dead Sleep). Ils dorment si profondément qu'ils paraissent complètement flasques. Si leur corps est chaud et que leur respiration est régulière, laissez-les dormir ; c'est un comportement normal."
+                    },
+                    {
+                        "question": "Comment contrôler l'odeur musquée naturelle du furet ?",
+                        "answer": "Les furets sécrètent du musc par des glandes cutanées. Des bains fréquents dessèchent leur peau, ce qui provoque une production accrue de sébum et aggrave l'odeur. Limitez le bain à une fois par mois et lavez leur literie chaque semaine."
+                    }
+                ],
+                "tags": [
+                    "FuretDeMarshall",
+                    "DanseDeGuerre",
+                    "SécurisationDuFuret",
+                    "SommeilDePlomb"
+                ]
+            },
+            "de": {
+                "title": "Kriegstanz des Marshall-Frettchens und tägliche 3-Schritt-Erkundungsroutine",
+                "description": "Pflege für das verspielte Marshall-Frettchen. Lernen Sie, auf seinen Kriegstanz zu reagieren, und halten Sie seine aktive Neugier und Ohrenhygiene mit unserem 3-Schritt-Tagesleitfaden aufrecht.",
+                "authority": "Standards der American Ferret Association und Tierärztliche Richtlinien für verhaltensorientierte Exotenmedizin",
+                "profile": {
+                    "breed": "Marshall-Frettchen (Mustela putorius furo / Marshall Ferret)",
+                    "lifespan": "6 ~ 10 Jahre",
+                    "sleep_pattern": "18 ~ 20 Stunden (tiefer und schlaffer Schlaf)",
+                    "temperament": "Verspielt, energisch, sozial, sehr neugierig"
+                },
+                "intro": "Mit einem langen, flexiblen Körper und funkelnden Augen ist das Marshall-Frettchen ein sehr soziales Raubtier, das eng mit Menschen interagiert. Sie benötigen täglichen Freilauf außerhalb des Käfigs, um Energie abzubauen, ihre Neugier zu befriedigen und Depressionen vorzubeugen. Ohrenkontrollen sind ebenfalls unerlässlich, um Milben zu vermeiden. Wenn sie vor Freude überwältigt sind, führen sie einen chaotischen, seitlich hüpfenden Tanz auf. Heute auf PetSelf behandeln wir den Frettchen-Kriegstanz, Dooking-Geräusche und eine 3-Schritt-Routine für ihre täglichen sicheren Abenteuer.",
+                "whyTitle": "Frettchen-Kommunikation: Der Kriegstanz und das Dooking",
+                "whyDesc": "Marshall-Frettchen zeigen Freude, indem sie ihren Schwanz aufplustern, den Rücken krümmen und seitwärts hüpfen – ein Verhalten, das als **'Kriegstanz' (Weasel War Dance)** bekannt ist. Sie geben beim Erkunden auch ein leises Glucksen von sich, das **'Dooking'** genannt wird. Das Verständnis dieser Signale hilft, ihr Spielerlebnis zu maximieren.",
+                "body_signals": [
+                    {
+                        "name": "Kriegstanz des Frettchens (Weasel War Dance)",
+                        "meaning": "Ein dramatischer, aber harmloser Ausdruck purer Aufregung, der zeigt, dass sie unbeschwert spielen wollen.",
+                        "response": "Stellen Sie eine geräumige, rutschfeste Fläche ohne harte Kanten bereit, um Verletzungen bei ihren chaotischen Sprüngen zu vermeiden."
+                    },
+                    {
+                        "name": "Dooking (Leise Glucksgeräusche)",
+                        "meaning": "Ein emotionaler Ausdruck von Freude und intensivem Interesse bei der Begegnung mit neuen Gerüchen oder Tunneln.",
+                        "response": "Verteilen Sie Rascheltunnel oder Pappkartons, um ihren natürlichen Grabeinstinkt zu stimulieren."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Proteinreiche Fleischernährung und Wasserauffüllung",
+                        "text": "Frettchen haben einen kurzen Verdauungstrakt und müssen häufig fressen. Füllen Sie fleischbasiertes, getreidefreies Frettchenfutter auf und überprüfen Sie die Wasserflasche."
+                    },
+                    {
+                        "name": "Nachmittag: Sicherer Freilauf außerhalb des Käfigs für mindestens 4 Stunden",
+                        "text": "Vermeiden Sie Depressionen, indem Sie sie im Raum freilaufen lassen. Stellen Sie sicher, dass alle Lücken unter den Möbeln abgedichtet sind."
+                    },
+                    {
+                        "name": "Abend: Reinigung von Hängematten und Kontrolle der Ohrengesundheit",
+                        "text": "Frettchen können nicht schwitzen. Waschen Sie ihre Vlieshängematten und überprüfen Sie die Ohren auf Ohrenmilben."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Warum schläft mein Frettchen so tief, dass es selbst beim Schütteln nicht aufwacht?",
+                        "answer": "Dies ist als 'Frettchen-Tiefschlaf' (Ferret Dead Sleep) bekannt. Sie schlafen so tief, dass sie vollkommen schlaff wirken. Wenn ihr Körper warm ist und die Atmung gleichmäßig, lassen Sie sie schlafen; das ist normales Verhalten."
+                    },
+                    {
+                        "question": "Wie kontrolliere ich den natürlichen Moschusgeruch des Frettchens?",
+                        "answer": "Frettchen sondern Moschus aus Hautdrüsen ab. Häufiges Baden trocknet ihre Haut aus, was zu einer verstärkten Talgproduktion führt und den Geruch verschlimmert. Baden Sie sie einmal im Monat und waschen Sie die Liegedecken wöchentlich."
+                    }
+                ],
+                "tags": [
+                    "MarshallFrettchen",
+                    "Kriegstanz",
+                    "FrettchensichererRaum",
+                    "Tiefschlaf"
+                ]
+            },
+            "pt": {
+                "title": "Dança de guerra do furão de Marshall e rotina diária de exploração de 3 passos",
+                "description": "Cuidado do brincalhão furão de Marshall. Aprenda a responder à sua dança de guerra e mantenha a sua curiosidade ativa e a sua higiene do ouvido com o nosso guia diário de 3 passos.",
+                "authority": "Padrões da American Ferret Association e Diretrizes Veterinárias de Medicina Comportamental de Animais Exóticos",
+                "profile": {
+                    "breed": "Furão de Marshall (Mustela putorius furo / Marshall Ferret)",
+                    "lifespan": "6 ~ 10 anos",
+                    "sleep_pattern": "18 ~ 20 horas (sono profundo e flácido)",
+                    "temperament": "Brincalhão, enérgico, social, altamente curioso"
+                },
+                "intro": "Com um corpo comprido e flexível e olhos cintilantes, o furão de Marshall é um animal de estimação carnívoro altamente social que interage estreitamente com os humanos. Requerem tempo de jogo diário fora da gaiola para queimar energia, satisfazer a sua curiosidade e evitar a depressão. Os controlos periódicos dos ouvidos também são essenciais para evitar ácaros. Quando estão eufóricos, realizam uma dança caótica saltando de lado. Hoje no PetSelf, cobrimos a dança de guerra do furão, os sons de dooking e uma rotina de 3 passos para as suas aventuras diárias seguras.",
+                "whyTitle": "Comunicação do furão de Marshall: A dança de guerra e o dooking",
+                "whyDesc": "Os furões de Marshall mostram alegria inflando a cauda, arqueando as costas e rebotando de lado, um comportamento conhecido como **'Dança de guerra do furão' (Weasel War Dance)**. Também emitem um suave som de cloque de garganta chamado **'Dooking'** quando exploram com entusiasmo. Compreender estes sinais ajuda a maximizar a sua experiência de jogo.",
+                "body_signals": [
+                    {
+                        "name": "Dança de guerra do furão (Weasel War Dance)",
+                        "meaning": "Uma expressão dramática mas inofensiva de pura emoção, que indica que querem brincar sem limites.",
+                        "response": "Proporcione uma área espaçosa e antiderrapante livre de extremidades duras para evitar lesões durante os seus saltos caóticos."
+                    },
+                    {
+                        "name": "Dooking (Sons de guincho baixos)",
+                        "meaning": "Uma expressão emocional de alegria e interesse intenso ao encontrar um novo cheiro ou túnel.",
+                        "response": "Estenda túneis ruidosos ou caixas de cartão para estimular os seus instintos naturais de escavação e caça."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Dieta carnívora alta em proteínas e recarga de água",
+                        "text": "Os furões têm um trato digestivo curto e comem frequentemente. Rellene comida à base de carne e livre de grãos, e reveja a sua garrafa de água."
+                    },
+                    {
+                        "name": "Tarde: Tempo de jogo seguro fora da gaiola por pelo menos 4 horas",
+                        "text": "Evite a depressão libertando-os no quarto. Assegure-se de que todos os pequenos buracos debaixo dos móveis estão selados."
+                    },
+                    {
+                        "name": "Noite: Limpeza de redes de descanso e inspeção da saúde do ouvido",
+                        "text": "Os furões não podem suar. Lave as suas redes de descanso de feltro e reveja os seus ouvidos para detetar secreções escuras de ácaros."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Por que o meu furão dorme tão profundamente que não acorda mesmo que o abane?",
+                        "answer": "Isto é conhecido como 'Sono profundo do furão' (Ferret Dead Sleep). Dormem tão profundamente que parecem flácidos. Se o seu corpo estiver morno e a respiração for constante, deixe-o dormir; é um comportamento normal."
+                    },
+                    {
+                        "question": "Como controlo o cheiro a almíscar natural do furão?",
+                        "answer": "Os furões secretam almíscar desde glândulas na pele. Os banhos frequentes secam a sua pele, o que provoca uma maior produção de sebo e piora o cheiro. Dê banho apenas uma vez por mês e lave as suas redes e mantas semanalmente."
+                    }
+                ],
+                "tags": [
+                    "FurãoDeMarshall",
+                    "DançaDeGuerra",
+                    "AlojamentoParaFurões",
+                    "SonoProfundo"
+                ]
+            },
+            "id": {
+                "title": "Tarian Perang Ferret Marshall dan Rutinitas Harian Eksplorasi 3 Langkah",
+                "description": "Merawat Ferret Marshall yang lincah dan jenaka. Pelajari cara merespons tarian perang mereka dan pertahankan rasa ingin tahu yang aktif serta higiene telinga dengan panduan harian 3 langkah kami.",
+                "authority": "Standar American Ferret Association dan Panduan Kedokteran Perilaku Veteriner Hewan Eksotis",
+                "profile": {
+                    "breed": "Ferret Marshall (Mustela putorius furo / Marshall Ferret)",
+                    "lifespan": "6 ~ 10 tahun",
+                    "sleep_pattern": "18 ~ 20 jam (tidur nyenyak seperti pingsan)",
+                    "temperament": "Jenaka, energik, sosial, sangat penasaran"
+                },
+                "intro": "Dengan tubuh panjang yang lentur dan mata berbinar, Ferret Marshall adalah hewan peliharaan karnivora sosial yang berinteraksi erat dan bermain penuh semangat dengan manusia. Mereka membutuhkan waktu bermain harian di luar kandang untuk membakar energi, memuaskan rasa ingin tahu, dan mencegah depresi. Pemeriksaan telinga secara rutin juga penting untuk menghindari tungau. Saat euforis, mereka melakukan tarian acak memantul ke samping. Hari ini di PetSelf, kami membahas tarian perang ferret, suara dooking, dan 3 langkah rutinitas harian untuk petualangan harian mereka yang aman.",
+                "whyTitle": "Komunikasi Ferret Marshall: Tarian Perang dan Dooking",
+                "whyDesc": "Ferret Marshall menunjukkan kegembiraan dengan menggembungkan ekor, melengkungkan punggung, dan memantul ke samping—perilaku yang dikenal sebagai **'Tarian Perang Ferret' (Weasel War Dance)**. Mereka juga mengeluarkan suara ketukan lembut yang disebut **'Dooking'** saat menjelajah dengan penuh semangat. Memahami sinyal ini membantu memaksimalkan pengalaman bermain mereka.",
+                "body_signals": [
+                    {
+                        "name": "Tarian Perang Ferret (Weasel War Dance)",
+                        "meaning": "Ekspresi kegembiraan murni yang dramatis namun tidak berbahaya, menunjukkan mereka ingin bermain tanpa batas.",
+                        "response": "Sediakan area yang luas dan tidak licin yang bebas dari tepian keras untuk mencegah cedera selama lompatan kacau mereka."
+                    },
+                    {
+                        "name": "Dooking (Suara Ketukan Rendah)",
+                        "meaning": "Ekspresi emosional kegembiraan dan minat yang kuat saat menemui aroma baru atau terowongan.",
+                        "response": "Bentangkan terowongan kresek atau kotak kardus untuk merangsang insting alami mereka untuk menggali dan berburu."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Diet Karnivora Tinggi Protein & Pengisian Air",
+                        "text": "Ferret memiliki saluran pencernaan yang pendek dan sering makan. Isi ulang kibble khusus ferret berbahan daging, bebas biji-bijian, dan periksa botol minum mereka."
+                    },
+                    {
+                        "name": "Siang: Waktu Bermain Aman di Luar Kandang Minimal 4 Jam",
+                        "text": "Cegah depresi dengan melepaskan mereka di ruangan. Pastikan semua celah kecil di bawah furnitur telah disegel."
+                    },
+                    {
+                        "name": "Malam: Pembersihan Tempat Tidur Gantung & Pemeriksaan Telinga",
+                        "text": "Ferret tidak bisa berkeringat. Cuci hammock bulu mereka, dan periksa telinga untuk mendeteksi kotoran tungau berwarna cokelat tua."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mengapa ferret saya tidur sangat nyenyak sampai tidak mau bangun walau digoyang?",
+                        "answer": "Ini dikenal sebagai 'Tidur mati ferret' (Ferret Dead Sleep). Mereka tidur sangat nyenyak hingga tampak lemas dan tidak merespons. Jika tubuh mereka hangat dan napasnya stabil, biarkan mereka tidur; itu adalah perilaku normal."
+                    },
+                    {
+                        "question": "Bagaimana cara mengendalikan bau musky alami ferret?",
+                        "answer": "Ferret mengeluarkan aroma musk dari kelenjar kulit. Mandi yang terlalu sering mengeringkan kulit mereka, memicu produksi sebum lebih banyak dan memperburuk bau. Batasi mandi sebulan sekali dan cuci alas tidur mereka setiap minggu."
+                    }
+                ],
+                "tags": [
+                    "FerretMarshall",
+                    "TarianPerang",
+                    "PengamananKandangFerret",
+                    "TidurMati"
+                ]
+            }
         },
-        "intro": "길쭉하고 유연한 허리와 장난기 깃든 눈망울을 가진 마샬 페럿은 사교성이 대단히 뛰어난 육식 소동물로, 반려인과 직접 교감하고 다양한 놀이를 즐길 수 있는 특별한 존재입니다. 하지만 강한 포식 본능과 왕성한 탐색 욕구를 품고 있어 매일 일정 시간 이상 방목하여 에너지를 방출해 주어야 우울감과 행동 문제를 예방할 수 있습니다. 또한 구조상 귀에 갈색 귀진드기가 생기거나 귓병이 발생하기 쉬워 정기적인 예방과 청결 관리가 필수적입니다. 페럿은 기분이 너무 좋거나 흥분하면 몸을 휘어잡고 통통 튀며 무시무시하면서도 귀여운 춤사위를 보여줍니다. 오늘 PetSelf에서는 마샬 페럿의 흥분 댄스와 슉슉거리는 소리 신호를 해독하고, 안전하고 건강한 일상 탐험을 지원하는 3단계 데일리 홈케어 루틴을 소개합니다.",
-        "whyTitle": "마샬 페럿의 놀이 의사소통: 페럿 댄스와 슉슉 소리",
-        "whyDesc": "마샬 페럿은 흥분이 극에 달하면 입을 크게 벌리고 등을 동그랗게 구부린 채 이리저리 부딪치며 춤을 추는 **'페럿 댄스(Weasel War Dance)'** 행동으로 압도적인 기쁨을 드러냅니다. 또한 신나게 냄새를 추적하거나 터널을 통과할 때는 목구멍으로 **'슉슉거리는 소리(Dooking)'**를 냄으로써 보호자에게 현재 매우 즐거운 상태임을 끊임없이 전달합니다.",
-        "body_signals": [
-          {
-            "name": "페럿 댄스 (Weasel War Dance)",
-            "meaning": "위협적으로 보이지만 사실은 에너지가 폭발해 주체할 수 없을 만큼 행복하고 신난 놀이 권장 의사표현입니다.",
-            "response": "가구 틈새 등에 부딪쳐 골절되지 않도록 모서리가 완충된 미끄럼 방지 공간에서 공이나 터널을 이용해 함께 놀아 줍니다."
-          },
-          {
-            "name": "낮은 슉슉 소리 (Dooking)",
-            "meaning": "새로운 냄새나 장난감 미로를 마주하여 높은 호기심과 즐거움을 표현하고 있는 안전한 감정 상태입니다.",
-            "response": "바스락거리는 비닐 터널이나 종이 상자를 제공해 페럿의 굴 파기 사냥 본능을 깊이 자극해 줍니다."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "아침: 육식 전용 고단백 식사 및 식수 공급 상태 점검",
-            "text": "장이 매우 짧아 수시로 사료를 먹어야 하므로 탄수화물이나 곡물이 배제된 육류 위주의 전용 사료를 넉넉하게 리필하고 깨끗한 물을 채워 줍니다."
-          },
-          {
-            "name": "낮: 최소 4시간 이상 거실 안전 구역 자유 방목 놀이",
-            "text": "케이지에 장시간 방치하면 심한 무기력증에 빠지므로, 끼일 수 있는 좁은 배수구나 가구 밑 틈을 원천 봉쇄한 후 안전한 거실 공간에 자유롭게 풀어 둡니다."
-          },
-          {
-            "name": "저녁: 해먹 침구 상태 점검 및 귀 청결 건조 확인",
-            "text": "땀샘이 없어 온도에 예민한 페럿의 침구를 매일 털어주고 세탁하며, 귀 내부에 진드기가 번식하지 않았는지 갈색 삼출물 유무를 점검합니다."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "페럿이 갑자기 기절한 것처럼 흔들어도 자고 있는데 큰 병인가요?",
-            "answer": "페럿은 잠을 잘 때 주변 소음이나 진동에도 전혀 깨지 않고 온몸이 축 늘어지는 '페럿 데드 슬립(Ferret Dead Sleep)'을 흔하게 겪습니다. 체온이 따뜻하고 숨을 평온하게 쉬고 있다면 질병이 아닌 깊은 수면 상태이니 억지로 깨우지 말고 자도록 둡니다."
-          },
-          {
-            "question": "페럿 특유의 누린내와 냄새를 없애고 싶어요.",
-            "answer": "페럿은 피지선에서 고유의 머스크 향이 나므로, 냄새를 없애기 위해 잦은 목욕을 시키면 오히려 피부가 건조해져 피지 분비가 폭발하고 냄새가 악화됩니다. 목욕은 월 1회로 한정하고 페럿이 닿는 해먹과 담요를 자주 세탁해 주는 것이 가장 이상적입니다."
-          }
-        ],
-        "tags": [
-          "마샬페럿",
-          "위즐워댄스",
-          "페럿방목주의",
-          "페럿데드슬립"
-        ]
-      },
-      "en": {
-        "title": "Marshall Ferret Weasel War Dance and 3-Step Exploration Daily Routine",
-        "description": "Caring for the playful Marshall Ferret. Learn how to respond to their war dance and maintain their active curiosity and ear hygiene with our 3-step daily guide.",
-        "authority": "American Ferret Association Standards and Exotic Veterinary Behavioral Medicine Guidelines",
-        "profile": {
-          "breed": "Marshall Ferret (Mustela putorius furo)",
-          "lifespan": "6 ~ 10 Years",
-          "sleep_pattern": "18 ~ 20 Hours (Deep & Lifeless Sleep Pattern)",
-          "temperament": "Playful, Energetic, Social, Highly Curious"
-        },
-        "intro": "With a long, flexible torso and mischievous, sparkling eyes, the Marshall Ferret is an extraordinarily social carnivore that bonds deeply and plays enthusiastically with its human companions. However, retaining wild hunting instincts and boundless curiosity, ferrets require dedicated out-of-cage exploration time every day to burn off energy and prevent behavioral depression. Additionally, due to their ear canal anatomy, they are prone to ear mites and infections, making regular hygiene checks essential. When overcome with joy, ferrets perform a chaotic, bouncing dance by twisting their bodies sideways. Today, PetSelf decodes the ferret war dance and dooking vocalizations while introducing a 3-step homecare routine for safe daily adventures.",
-        "whyTitle": "Marshall Ferret Communication: The Weasel War Dance and Dooking",
-        "whyDesc": "When excitement reaches its peak, Marshall Ferrets open their mouths, arch their backs, and bounce wildly off walls and furniture—a behavior known as the **'Weasel War Dance'**. Furthermore, while eagerly scent-marking or navigating tunnels, they emit a soft, rhythmic clucking sound from their throat called **'Dooking'** to signal intense happiness and enjoyment.",
-        "body_signals": [
-          {
-            "name": "Weasel War Dance",
-            "meaning": "Though it appears dramatic or aggressive, it is a harmless expression of explosive joy and an invitation to play.",
-            "response": "Provide a spacious, slip-free area with cushioned corners, and roll balls or pull fleece toys to play together safely."
-          },
-          {
-            "name": "Soft Dooking Sounds",
-            "meaning": "An emotional expression of delight and curiosity upon encountering new scents, cardboard mazes, or tunnels.",
-            "response": "Provide crinkly plastic tunnels or cardboard boxes to satisfy their natural burrowing and hunting drives."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Morning: High-Protein Carnivore Diet & Water Supply Inspection",
-            "text": "Because ferrets have an extremely short digestive tract requiring frequent meals, replenish meat-based, grain-free ferret kibble and ensure clean drinking water is available."
-          },
-          {
-            "name": "Afternoon: Safe Free-Roaming Playtime for At Least 4 Hours",
-            "text": "Prevent depression by releasing them into a secured room. Thoroughly block small gaps under appliances and furniture where they could get trapped."
-          },
-          {
-            "name": "Evening: Fleece Hammock Hygiene Check & Ear Health Inspection",
-            "text": "Clean and shake out their sleeping hammocks daily since ferrets lack sweat glands, and inspect inside their ears for dark brown discharge signaling ear mites."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Why is my ferret sleeping so deeply that they won't wake up even when shaken?",
-            "answer": "Ferrets frequently enter 'Ferret Dead Sleep', a state of profoundly deep REM sleep where they become completely limp and unresponsive to noise or movement. As long as their body is warm and breathing is steady, they are simply dreaming deeply—let them rest undisturbed."
-          },
-          {
-            "question": "How can I reduce the natural musky odor of my ferret?",
-            "answer": "Ferrets secrete musk from skin sebaceous glands. Bathing them too frequently strips essential oils, causing their skin to overproduce sebum and worsening the scent. Limit baths to once a month and frequently wash their fleece hammocks and bedding instead."
-          }
-        ],
-        "tags": [
-          "MarshallFerret",
-          "WeaselWarDance",
-          "FerretProofing",
-          "FerretDeadSleep"
-        ]
-      },
-      "ja": {
-        "title": "マーシャルフェレットのクレイジーダンスと探索欲を満たす3ステップ日常ルーティン",
-        "description": "遊び好きで体が柔らかいマーシャルフェレット。興奮を表すウォーダンスの対処法と、特有の好奇心を満たし耳の衛生を保つための3ステップケアを解説します。",
-        "authority": "American Ferret Association フェレット行動基準およびエキゾチック獣医行動医学ガイド",
-        "profile": {
-          "breed": "マーシャルフェレット (Mustela putorius furo / Marshall Ferret)",
-          "lifespan": "6 〜 10年",
-          "sleep_pattern": "18 〜 20時間 (死んだように深く眠る睡眠パターン)",
-          "temperament": "遊び好き、活発、社交的、好奇心旺盛"
-        },
-        "intro": "長くてしなやかな体と愛嬌のある顔を持つマーシャルフェレットは、人懐っこく飼い主と遊ぶことが大好きな特別な肉食小動物です。しかし、肉食動物としての狩りの本能と強い探検欲を持っているため、毎日ケージから出してエナジーを発散させてあげないと、うつ状態や問題行動を引き起こす原因になります。また、耳ダニや耳の病気になりやすいため、定期的で衛生的な耳のケアが欠かせません。フェレットはテンションが上がると、体を曲げてピョンピョン跳ね回る独特のダンスを見せてくれます。今回はフェレットのクレイジーなダンスと鳴き声の意味を理解し、毎日の安全な探検をサポートする3ステップ日常ルーティンをご紹介します。",
-        "whyTitle": "フェレットのコミュニケーション：ウォーダンスとクックッ鳴く声",
-        "whyDesc": "マーシャルフェレットは興奮が最高潮に達すると、口を開けて背中を丸め、あちこち飛び跳ねる**「ウォーダンス（Weasel War Dance）」**で溢れ出る喜びを表現します。また、楽しそうにクンクン匂いを嗅いだりトンネルをくぐる時は、喉から**「クックッという音（Dooking）」**を出して楽しんでいることを飼い主に伝えます。",
-        "body_signals": [
-          {
-            "name": "ウォーダンス (Weasel War Dance)",
-            "meaning": "一見威嚇のように見えますが、実はエナジーが爆発して嬉しくて仕方がない遊びのお誘いサインです。",
-            "response": "家具の隙間などにぶつかって骨折しないよう、障害物のない滑りにくいマットの上でボール等を使って一緒に遊びます。"
-          },
-          {
-            "name": "喉を鳴らすクックッという音 (Dooking)",
-            "meaning": "新しい匂いやおもちゃのトンネルに出会って好奇心と楽しさが最高潮に達している安全な合図です。",
-            "response": "ビニールトンネルや段ボール箱を置いて、フェレットの本能を刺激してあげましょう。"
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "朝：高タンパクな肉食フードと給水の点検",
-            "text": "消化器官が非常に短く頻繁に食べる必要があるため、穀物不使用の肉食専用フードをたっぷり補充し、水の出を確認します。"
-          },
-          {
-            "name": "昼：最低4時間以上の安全なリビングでの放し飼い",
-            "text": "ケージに長時間閉じ込めると深刻なうつ状態になるため、挟まりやすい家具の隙間を塞いだ安全なリビングで自由に遊ばせます。"
-          },
-          {
-            "name": "夜：ハンモックの衛生点検と耳の健康チェック",
-            "text": "汗腺がなく温度変化に弱いフェレットのため寝具を掃除・洗濯し、耳ダニの繁殖を防ぐために耳垢の状態をチェックします。"
-          }
-        ],
-        "faqs": [
-          {
-            "question": "フェレットが死んだように眠っていて揺すっても起きないのは病気ですか？",
-            "answer": "フェレットは睡眠中、どんな音や振動でも起きずに体がダランとする『フェレットデッドスリープ（Ferret Dead Sleep）』をよく行います。体温が温かく呼吸が穏やかなら、病気ではなく深く眠っているだけですので、無理に起こさず寝かせておいてください。"
-          },
-          {
-            "question": "特有の体臭（アブラ臭さ）を抑えるにはどうすればいいですか？",
-            "answer": "フェレットは皮脂腺から独特の香りを出すため、臭いを消すために頻繁にお風呂に入れると、かえって皮膚が乾燥して皮脂分泌が増え、臭いが強くなります。シャンプーは月1回程度にとどめ、ハンモックや毛布を頻繁に洗うことが最善の対策です。"
-          }
-        ],
-        "tags": [
-          "マーシャルフェレット",
-          "ウォーダンス",
-          "フェレットの放牧",
-          "デッドスリープ"
-        ]
-      },
-      "zh": {
-        "title": "马歇尔雪貂的战舞与最大化好奇心探索3阶段日常护理流程",
-        "description": "护理活泼且身体柔软的肉食雪貂——马歇尔雪貂。了解如何应对表示极度兴奋 responses 战舞行为，并通过我们的3阶段护理满足其好奇心并保持耳道卫生。",
-        "authority": "American Ferret Association 雪貂行为标准及异宠兽医行为指南",
-        "profile": {
-          "breed": "马歇尔雪貂 (Mustela putorius furo / Marshall Ferret)",
-          "lifespan": "6 ~ 10年",
-          "sleep_pattern": "18 ~ 20小时 (如同死过去一般的深睡眠模式)",
-          "temperament": "极其爱玩、精力充沛、社交性强、好奇心旺盛"
-        },
-        "intro": "拥有细长柔软 responses 身体和调皮眼神 responses 马歇尔雪貂社交性极佳，是能够与饲主直接进行情感交流和游戏 responses 独特肉食小动物。然而，它们拥有一颗捕食本能和强烈的探索欲，每天必须在安全 responses 环境中放风以消耗精力，否则容易患上抑郁症。此外，它们极易感染耳痒螨等耳道疾病，定期的清洁和预防必不可少。当它们开心到极点时，会扭动身体并在空中弹跳，跳起独特 responses 舞蹈。今天 PetSelf 将带您了解马歇尔雪貂 responses 兴奋舞姿和鸣叫声，并介绍3阶段每日放风护理流程。",
-        "whyTitle": "雪貂 responses 游戏沟通：雪貂战舞与咕咕鸣叫",
-        "whyDesc": "马歇尔雪貂在兴奋到极点时，会大张着嘴、弓着背、在周围横冲直撞地跳舞，即 **“雪貂战舞 (Weasel War Dance)”**，以此表达无上 responses 快乐。相反，当它欢快地追逐气味或穿过管道时，会从喉咙发出 **“咕咕声 (Dooking)”**，以此向主人传达它正处于极具趣味 responses 状态中。",
-        "body_signals": [
-          {
-            "name": "雪貂战舞 (Weasel War Dance)",
-            "meaning": "虽然看起来带有攻击性，但实际上是精力爆发、快乐得无法自控 responses 邀请游戏信号。",
-            "response": "为防止碰撞家具导致骨折，在铺有防滑垫 responses 空旷区域滚动玩具球与它们一起玩耍。"
-          },
-          {
-            "name": "低沉 responses 咕咕声 (Dooking)",
-            "meaning": "当遇到新气味或纸箱迷宫时，表达高度好奇和快乐 responses 无害情绪状态。",
-            "response": "提供塑料管道或纸箱，以刺激雪貂本能 responses 打洞和追逐兴趣。"
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "早上：高蛋白肉食专用料喂食与饮水状态检查",
-            "text": "由于消化道极短，雪貂需要随时进食，应备足肉类为主、无谷物 responses 雪貂专用饲料，并检查给水器。"
-          },
-          {
-            "name": "白天：每日至少4小时以上 responses 客厅安全区域自由放风",
-            "text": "长时间关在笼子中会导致其严重 responses 抑郁，在彻底封锁可卡住 responses 家具缝隙后，将它们释放到客厅活动。"
-          },
-          {
-            "name": "晚上：吊床寝具卫生点检与耳道健康检查",
-            "text": "雪貂没有汗腺，对温度非常敏感，应每日清理寝具，并检查耳道是否有耳螨引起 responses 深褐色分泌物。"
-          }
-        ],
-        "faqs": [
-          {
-            "question": "雪貂突然像死了一样，怎么摇晃都叫不醒，是得重病了吗？",
-            "answer": "雪貂在睡觉时经常会出现“雪貂假死睡眠 (Ferret Dead Sleep)”，即对周围 responses 噪音或震动毫无反应，身体完全松弛。如果体温温暖且呼吸平稳，这只是正常 responses 深睡眠，请勿惊慌打扰。"
-          },
-          {
-            "question": "如何控制雪貂特有 responses 体味（麝香味）？",
-            "answer": "雪貂皮脂腺会分泌独特 responses 麝香气味，如果为了消除异味而频繁洗澡，反而会导致皮肤干燥，皮脂分泌爆发而使味道加重。建议洗澡限制在每月1次，频繁清洗它们接触 responses 吊床和毛毯是最佳方法。"
-          }
-        ],
-        "tags": [
-          "马歇尔雪貂",
-          "雪貂战舞",
-          "雪貂放风注意事项",
-          "假死睡眠"
-        ]
-      },
-      "es": {
-        "title": "Danza de guerra del hurón de Marshall y rutina diaria de exploración de 3 pasos",
-        "description": "Cuidado del juguetón hurón de Marshall. Aprenda a responder a su danza de guerra y mantenga su curiosidad activa y su higiene del oído con nuestra guía diaria de 3 pasos.",
-        "authority": "Estándares de la American Ferret Association y Pautas Veterinarias de Medicina Comportamental para Animales Exóticos",
-        "profile": {
-          "breed": "Hurón de Marshall (Mustela putorius furo / Marshall Ferret)",
-          "lifespan": "6 ~ 10 años",
-          "sleep_pattern": "18 ~ 20 horas (sueño profundo y flácido)",
-          "temperament": "Juguetón, enérgico, social, altamente curioso"
-        },
-        "intro": "Con un cuerpo largo y flexible y ojos chispeantes, el hurón de Marshall es una mascota carnívora altamente social que interactúa estrechamente con los humanos. Requieren tiempo de juego diario fuera de la jaula para quemar energía, satisfacer su curiosidad y evitar la depresión. Los controles periódicos de los oídos también son esenciales para evitar ácaros e infecciones. Cuando están eufóricos, realizan un baile caótico rebotando de lado. Hoy en PetSelf, cubrimos la danza de guerra del hurón, los sonidos de dooking y una rutina de 3 pasos para sus aventuras diarias seguras.",
-        "whyTitle": "Comunicación del hurón de Marshall: La danza de guerra y el dooking",
-        "whyDesc": "Los hurones de Marshall muestran alegría inflando la cola, arqueando la espalda y rebotando de lado, un comportamiento conocido como **'Danza de guerra del hurón' (Weasel War Dance)**. También emiten un suave sonido de cloqueo llamado **'Dooking'** cuando exploran con entusiasmo. Comprender estas señales ayuda a maximizar su experiencia de juego.",
-        "body_signals": [
-          {
-            "name": "Danza de guerra del hurón (Weasel War Dance)",
-            "meaning": "Una expresión dramática pero inofensiva de pura emoción, que indica que quieren jugar de forma desenfrenada.",
-            "response": "Proporcione un área espaciosa y antideslizante libre de bordes duros para evitar lesiones durante sus saltos caóticos."
-          },
-          {
-            "name": "Dooking (Sonidos de cloqueo bajos)",
-            "meaning": "Una expresión emocional de alegría e intenso interés al encontrar un nuevo olor o túnel.",
-            "response": "Extienda túneles ruidosos o cajas de cartón para estimular sus instintos naturales de excavación y cacería."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Mañana: Dieta carnívora alta en proteínas y recarga de agua",
-            "text": "Los hurones tienen un tracto digestivo corto y comen con frecuencia. Rellene comida a base de carne y libre de granos, y revise su bebedero."
-          },
-          {
-            "name": "Tarde: Tiempo de juego seguro fuera de la jaula por al menos 4 horas",
-            "text": "Evite la depresión liberándolos en la habitación. Asegúrese de que todos los pequeños huecos debajo de los muebles estén sellados."
-          },
-          {
-            "name": "Noche: Limpieza de hamacas colgantes e inspección de la salud del oído",
-            "text": "Los hurones no pueden sudar. Lave sus hamacas de felpa y revise sus oídos para detectar secreciones oscuras de ácaros."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "¿Por qué mi hurón duerme tan profundamente que no se despierta aunque lo mueva?",
-            "answer": "Esto se conoce como 'Sueño profundo del hurón' (Ferret Dead Sleep). Duermen tan profundamente que parecen flácidos y sin vida. Si su cuerpo está tibio y la respiración es constante, déjelo dormir; es un comportamiento normal de descanso."
-          },
-          {
-            "question": "¿Cómo controlo el olor a almizcle natural del hurón?",
-            "answer": "Los hurones secretan almizcle desde glándulas en la piel. Los baños frecuentes secan su piel, lo que provoca una mayor producción de sebo y empeora el olor. Bañe solo una vez al mes y lave sus sábanas y hamacas semanalmente."
-          }
-        ],
-        "tags": [
-          "HurónDeMarshall",
-          "DanzaDeGuerra",
-          "AcondicionamientoParaHurones",
-          "SueñoProfundo"
-        ]
-      },
-      "fr": {
-        "title": "Danse de guerre du furet de Marshall et routine d'exploration quotidienne en 3 étapes",
-        "description": "Soin du furet de Marshall enjoué. Apprenez à répondre à sa danse de guerre et maintenez sa curiosité active et son hygiène auriculaire avec notre guide quotidien en 3 étapes.",
-        "authority": "Normes de l'American Ferret Association et Directives Vétérinaires de Médecine Comportementale pour Animaux Exotiques",
-        "profile": {
-          "breed": "Furet de Marshall (Mustela putorius furo / Marshall Ferret)",
-          "lifespan": "6 ~ 10 ans",
-          "sleep_pattern": "18 ~ 20 heures (sommeil profond et léthargique)",
-          "temperament": "Enjoué, énergétique, social, très curieux"
-        },
-        "intro": "Avec un corps long et flexible et des yeux pétillants, le furet de Marshall est un compagnon carnivore très social qui interagit étroitement avec les humains. Ils ont besoin de temps de jeu quotidien hors de la cage pour dépenser leur énergie, satisfaire leur curiosité et prévenir l'ennui. Des contrôles réguliers des oreilles sont également essentiels pour éviter les acariens. Lorsqu'ils sont euphoriques, ils exécutent une danse désordonnée en bondissant de côté. Aujourd'hui sur PetSelf, nous couvrons la danse de guerre du furet, les bruits de dooking et une routine en 3 étapes pour leurs aventures quotidiennes sécurisées.",
-        "whyTitle": "Communication du furet de Marshall : La danse de guerre et le dooking",
-        "whyDesc": "Les furets de Marshall expriment leur joie en gonflant leur queue, en arquant leur dos et en bondissant de côté, un comportement connu sous le nom de **« Danse de guerre du furet » (Weasel War Dance)**. Ils émettent également un léger caquetage appelé **« Dooking »** lorsqu'ils explorent avec enthousiasme. Comprendre ces signaux aide à maximiser leur expérience de jeu.",
-        "body_signals": [
-          {
-            "name": "Danse de guerre du furet (Weasel War Dance)",
-            "meaning": "Une expression spectaculaire mais inoffensive d'excitation pure, indiquant qu'ils veulent jouer sans retenue.",
-            "response": "Fournissez une zone spacieuse et antidérapante exempte de bords durs pour éviter les blessures lors de leurs sauts chaotiques."
-          },
-          {
-            "name": "Dooking (Gloussements bas)",
-            "meaning": "Une expression émotionnelle de joie et d'intérêt intense lors de la rencontre d'une nouvelle odeur ou d'un tunnel.",
-            "response": "Installez des tunnels bruyants ou des boîtes en carton pour stimuler leurs instincts naturels de creusement."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Matin : Régime carnivore riche en protéines et recharge d'eau",
-            "text": "Les furets ont un tube digestif court et mangent fréquemment. Remplissez des croquettes à base de viande, sans céréales, et vérifiez leur bouteille d'eau."
-          },
-          {
-            "name": "Après-midi : Temps de jeu sécurisé hors de la cage pendant au moins 4 heures",
-            "text": "Évitez la dépression en les libérant dans la pièce. Assurez-vous que tous les petits espaces sous les meubles sont scellés."
-          },
-          {
-            "name": "Soir : Nettoyage des hamacs suspendus et inspection de la santé auriculaire",
-            "text": "Les furets ne peuvent pas transpirer. Lavez leurs hamacs en polaire et vérifiez leurs oreilles pour détecter des sécrétions sombres d'acariens."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Pourquoi mon furet dort-il si profondément qu'il ne se réveille pas même secoué ?",
-            "answer": "C'est ce qu'on appelle le 'Sommeil de plomb du furet' (Ferret Dead Sleep). Ils dorment si profondément qu'ils paraissent complètement flasques. Si leur corps est chaud et que leur respiration est régulière, laissez-les dormir ; c'est un comportement normal."
-          },
-          {
-            "question": "Comment contrôler l'odeur musquée naturelle du furet ?",
-            "answer": "Les furets sécrètent du musc par des glandes cutanées. Des bains fréquents dessèchent leur peau, ce qui provoque une production accrue de sébum et aggrave l'odeur. Limitez le bain à une fois par mois et lavez leur literie chaque semaine."
-          }
-        ],
-        "tags": [
-          "FuretDeMarshall",
-          "DanseDeGuerre",
-          "SécurisationDuFuret",
-          "SommeilDePlomb"
-        ]
-      },
-      "de": {
-        "title": "Kriegstanz des Marshall-Frettchens und tägliche 3-Schritt-Erkundungsroutine",
-        "description": "Pflege für das verspielte Marshall-Frettchen. Lernen Sie, auf seinen Kriegstanz zu reagieren, und halten Sie seine aktive Neugier und Ohrenhygiene mit unserem 3-Schritt-Tagesleitfaden aufrecht.",
-        "authority": "Standards der American Ferret Association und Tierärztliche Richtlinien für verhaltensorientierte Exotenmedizin",
-        "profile": {
-          "breed": "Marshall-Frettchen (Mustela putorius furo / Marshall Ferret)",
-          "lifespan": "6 ~ 10 Jahre",
-          "sleep_pattern": "18 ~ 20 Stunden (tiefer und schlaffer Schlaf)",
-          "temperament": "Verspielt, energisch, sozial, sehr neugierig"
-        },
-        "intro": "Mit einem langen, flexiblen Körper und funkelnden Augen ist das Marshall-Frettchen ein sehr soziales Raubtier, das eng mit Menschen interagiert. Sie benötigen täglichen Freilauf außerhalb des Käfigs, um Energie abzubauen, ihre Neugier zu befriedigen und Depressionen vorzubeugen. Ohrenkontrollen sind ebenfalls unerlässlich, um Milben zu vermeiden. Wenn sie vor Freude überwältigt sind, führen sie einen chaotischen, seitlich hüpfenden Tanz auf. Heute auf PetSelf behandeln wir den Frettchen-Kriegstanz, Dooking-Geräusche und eine 3-Schritt-Routine für ihre täglichen sicheren Abenteuer.",
-        "whyTitle": "Frettchen-Kommunikation: Der Kriegstanz und das Dooking",
-        "whyDesc": "Marshall-Frettchen zeigen Freude, indem sie ihren Schwanz aufplustern, den Rücken krümmen und seitwärts hüpfen – ein Verhalten, das als **'Kriegstanz' (Weasel War Dance)** bekannt ist. Sie geben beim Erkunden auch ein leises Glucksen von sich, das **'Dooking'** genannt wird. Das Verständnis dieser Signale hilft, ihr Spielerlebnis zu maximieren.",
-        "body_signals": [
-          {
-            "name": "Kriegstanz des Frettchens (Weasel War Dance)",
-            "meaning": "Ein dramatischer, aber harmloser Ausdruck purer Aufregung, der zeigt, dass sie unbeschwert spielen wollen.",
-            "response": "Stellen Sie eine geräumige, rutschfeste Fläche ohne harte Kanten bereit, um Verletzungen bei ihren chaotischen Sprüngen zu vermeiden."
-          },
-          {
-            "name": "Dooking (Leise Glucksgeräusche)",
-            "meaning": "Ein emotionaler Ausdruck von Freude und intensivem Interesse bei der Begegnung mit neuen Gerüchen oder Tunneln.",
-            "response": "Verteilen Sie Rascheltunnel oder Pappkartons, um ihren natürlichen Grabeinstinkt zu stimulieren."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Morgen: Proteinreiche Fleischernährung und Wasserauffüllung",
-            "text": "Frettchen haben einen kurzen Verdauungstrakt und müssen häufig fressen. Füllen Sie fleischbasiertes, getreidefreies Frettchenfutter auf und überprüfen Sie die Wasserflasche."
-          },
-          {
-            "name": "Nachmittag: Sicherer Freilauf außerhalb des Käfigs für mindestens 4 Stunden",
-            "text": "Vermeiden Sie Depressionen, indem Sie sie im Raum freilaufen lassen. Stellen Sie sicher, dass alle Lücken unter den Möbeln abgedichtet sind."
-          },
-          {
-            "name": "Abend: Reinigung von Hängematten und Kontrolle der Ohrengesundheit",
-            "text": "Frettchen können nicht schwitzen. Waschen Sie ihre Vlieshängematten und überprüfen Sie die Ohren auf Ohrenmilben."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Warum schläft mein Frettchen so tief, dass es selbst beim Schütteln nicht aufwacht?",
-            "answer": "Dies ist als 'Frettchen-Tiefschlaf' (Ferret Dead Sleep) bekannt. Sie schlafen so tief, dass sie vollkommen schlaff wirken. Wenn ihr Körper warm ist und die Atmung gleichmäßig, lassen Sie sie schlafen; das ist normales Verhalten."
-          },
-          {
-            "question": "Wie kontrolliere ich den natürlichen Moschusgeruch des Frettchens?",
-            "answer": "Frettchen sondern Moschus aus Hautdrüsen ab. Häufiges Baden trocknet ihre Haut aus, was zu einer verstärkten Talgproduktion führt und den Geruch verschlimmert. Baden Sie sie einmal im Monat und waschen Sie die Liegedecken wöchentlich."
-          }
-        ],
-        "tags": [
-          "MarshallFrettchen",
-          "Kriegstanz",
-          "FrettchensichererRaum",
-          "Tiefschlaf"
-        ]
-      },
-      "pt": {
-        "title": "Dança de guerra do furão de Marshall e rotina diária de exploração de 3 passos",
-        "description": "Cuidado do brincalhão furão de Marshall. Aprenda a responder à sua dança de guerra e mantenha a sua curiosidade ativa e a sua higiene do ouvido com o nosso guia diário de 3 passos.",
-        "authority": "Padrões da American Ferret Association e Diretrizes Veterinárias de Medicina Comportamental de Animais Exóticos",
-        "profile": {
-          "breed": "Furão de Marshall (Mustela putorius furo / Marshall Ferret)",
-          "lifespan": "6 ~ 10 anos",
-          "sleep_pattern": "18 ~ 20 horas (sono profundo e flácido)",
-          "temperament": "Brincalhão, enérgico, social, altamente curioso"
-        },
-        "intro": "Com um corpo comprido e flexível e olhos cintilantes, o furão de Marshall é um animal de estimação carnívoro altamente social que interage estreitamente com os humanos. Requerem tempo de jogo diário fora da gaiola para queimar energia, satisfazer a sua curiosidade e evitar a depressão. Os controlos periódicos dos ouvidos também são essenciais para evitar ácaros. Quando estão eufóricos, realizam uma dança caótica saltando de lado. Hoje no PetSelf, cobrimos a dança de guerra do furão, os sons de dooking e uma rotina de 3 passos para as suas aventuras diárias seguras.",
-        "whyTitle": "Comunicação do furão de Marshall: A dança de guerra e o dooking",
-        "whyDesc": "Os furões de Marshall mostram alegria inflando a cauda, arqueando as costas e rebotando de lado, um comportamento conhecido como **'Dança de guerra do furão' (Weasel War Dance)**. Também emitem um suave som de cloque de garganta chamado **'Dooking'** quando exploram com entusiasmo. Compreender estes sinais ajuda a maximizar a sua experiência de jogo.",
-        "body_signals": [
-          {
-            "name": "Dança de guerra do furão (Weasel War Dance)",
-            "meaning": "Uma expressão dramática mas inofensiva de pura emoção, que indica que querem brincar sem limites.",
-            "response": "Proporcione uma área espaçosa e antiderrapante livre de extremidades duras para evitar lesões durante os seus saltos caóticos."
-          },
-          {
-            "name": "Dooking (Sons de guincho baixos)",
-            "meaning": "Uma expressão emocional de alegria e interesse intenso ao encontrar um novo cheiro ou túnel.",
-            "response": "Estenda túneis ruidosos ou caixas de cartão para estimular os seus instintos naturais de escavação e caça."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Manhã: Dieta carnívora alta em proteínas e recarga de água",
-            "text": "Os furões têm um trato digestivo curto e comem frequentemente. Rellene comida à base de carne e livre de grãos, e reveja a sua garrafa de água."
-          },
-          {
-            "name": "Tarde: Tempo de jogo seguro fora da gaiola por pelo menos 4 horas",
-            "text": "Evite a depressão libertando-os no quarto. Assegure-se de que todos os pequenos buracos debaixo dos móveis estão selados."
-          },
-          {
-            "name": "Noite: Limpeza de redes de descanso e inspeção da saúde do ouvido",
-            "text": "Os furões não podem suar. Lave as suas redes de descanso de feltro e reveja os seus ouvidos para detetar secreções escuras de ácaros."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Por que o meu furão dorme tão profundamente que não acorda mesmo que o abane?",
-            "answer": "Isto é conhecido como 'Sono profundo do furão' (Ferret Dead Sleep). Dormem tão profundamente que parecem flácidos. Se o seu corpo estiver morno e a respiração for constante, deixe-o dormir; é um comportamento normal."
-          },
-          {
-            "question": "Como controlo o cheiro a almíscar natural do furão?",
-            "answer": "Os furões secretam almíscar desde glândulas na pele. Os banhos frequentes secam a sua pele, o que provoca uma maior produção de sebo e piora o cheiro. Dê banho apenas uma vez por mês e lave as suas redes e mantas semanalmente."
-          }
-        ],
-        "tags": [
-          "FurãoDeMarshall",
-          "DançaDeGuerra",
-          "AlojamentoParaFurões",
-          "SonoProfundo"
-        ]
-      },
-      "id": {
-        "title": "Tarian Perang Ferret Marshall dan Rutinitas Harian Eksplorasi 3 Langkah",
-        "description": "Merawat Ferret Marshall yang lincah dan jenaka. Pelajari cara merespons tarian perang mereka dan pertahankan rasa ingin tahu yang aktif serta higiene telinga dengan panduan harian 3 langkah kami.",
-        "authority": "Standar American Ferret Association dan Panduan Kedokteran Perilaku Veteriner Hewan Eksotis",
-        "profile": {
-          "breed": "Ferret Marshall (Mustela putorius furo / Marshall Ferret)",
-          "lifespan": "6 ~ 10 tahun",
-          "sleep_pattern": "18 ~ 20 jam (tidur nyenyak seperti pingsan)",
-          "temperament": "Jenaka, energik, sosial, sangat penasaran"
-        },
-        "intro": "Dengan tubuh panjang yang lentur dan mata berbinar, Ferret Marshall adalah hewan peliharaan karnivora sosial yang berinteraksi erat dan bermain penuh semangat dengan manusia. Mereka membutuhkan waktu bermain harian di luar kandang untuk membakar energi, memuaskan rasa ingin tahu, dan mencegah depresi. Pemeriksaan telinga secara rutin juga penting untuk menghindari tungau. Saat euforis, mereka melakukan tarian acak memantul ke samping. Hari ini di PetSelf, kami membahas tarian perang ferret, suara dooking, dan 3 langkah rutinitas harian untuk petualangan harian mereka yang aman.",
-        "whyTitle": "Komunikasi Ferret Marshall: Tarian Perang dan Dooking",
-        "whyDesc": "Ferret Marshall menunjukkan kegembiraan dengan menggembungkan ekor, melengkungkan punggung, dan memantul ke samping—perilaku yang dikenal sebagai **'Tarian Perang Ferret' (Weasel War Dance)**. Mereka juga mengeluarkan suara ketukan lembut yang disebut **'Dooking'** saat menjelajah dengan penuh semangat. Memahami sinyal ini membantu memaksimalkan pengalaman bermain mereka.",
-        "body_signals": [
-          {
-            "name": "Tarian Perang Ferret (Weasel War Dance)",
-            "meaning": "Ekspresi kegembiraan murni yang dramatis namun tidak berbahaya, menunjukkan mereka ingin bermain tanpa batas.",
-            "response": "Sediakan area yang luas dan tidak licin yang bebas dari tepian keras untuk mencegah cedera selama lompatan kacau mereka."
-          },
-          {
-            "name": "Dooking (Suara Ketukan Rendah)",
-            "meaning": "Ekspresi emosional kegembiraan dan minat yang kuat saat menemui aroma baru atau terowongan.",
-            "response": "Bentangkan terowongan kresek atau kotak kardus untuk merangsang insting alami mereka untuk menggali dan berburu."
-          }
-        ],
-        "daily_routine": [
-          {
-            "name": "Pagi: Diet Karnivora Tinggi Protein & Pengisian Air",
-            "text": "Ferret memiliki saluran pencernaan yang pendek dan sering makan. Isi ulang kibble khusus ferret berbahan daging, bebas biji-bijian, dan periksa botol minum mereka."
-          },
-          {
-            "name": "Siang: Waktu Bermain Aman di Luar Kandang Minimal 4 Jam",
-            "text": "Cegah depresi dengan melepaskan mereka di ruangan. Pastikan semua celah kecil di bawah furnitur telah disegel."
-          },
-          {
-            "name": "Malam: Pembersihan Tempat Tidur Gantung & Pemeriksaan Telinga",
-            "text": "Ferret tidak bisa berkeringat. Cuci hammock bulu mereka, dan periksa telinga untuk mendeteksi kotoran tungau berwarna cokelat tua."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Mengapa ferret saya tidur sangat nyenyak sampai tidak mau bangun walau digoyang?",
-            "answer": "Ini dikenal sebagai 'Tidur mati ferret' (Ferret Dead Sleep). Mereka tidur sangat nyenyak hingga tampak lemas dan tidak merespons. Jika tubuh mereka hangat dan napasnya stabil, biarkan mereka tidur; itu adalah perilaku normal."
-          },
-          {
-            "question": "Bagaimana cara mengendalikan bau musky alami ferret?",
-            "answer": "Ferret mengeluarkan aroma musk dari kelenjar kulit. Mandi yang terlalu sering mengeringkan kulit mereka, memicu produksi sebum lebih banyak dan memperburuk bau. Batasi mandi sebulan sekali dan cuci alas tidur mereka setiap minggu."
-          }
-        ],
-        "tags": [
-          "FerretMarshall",
-          "TarianPerang",
-          "PengamananKandangFerret",
-          "TidurMati"
-        ]
-      }
-    },
-    "category": "CareSelf",
-    "app": "careself",
-    "formatVersion": 4,
-    "heroImage": "/images/blog/marshall_ferret_care.png"
-  }
+        "category": "CareSelf",
+        "app": "careself",
+        "formatVersion": 4,
+        "heroImage": "/images/blog/marshall_ferret_care.webp"
+    }
 }

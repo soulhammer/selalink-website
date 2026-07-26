@@ -6,7 +6,7 @@ pubDate: "2026-04-07"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
 tags: ["宠物护理","宠物健康","土耳其安哥拉猫 (Turkish Angora)"]
-heroImage: "/images/blog/turkish_angora_care.png"
+heroImage: "/images/blog/turkish_angora_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "CFA (爱猫者协会) 土耳其安哥拉猫委员会与猫科先天性耳聋兽医研究指南"

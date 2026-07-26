@@ -6,7 +6,7 @@ pubDate: "2026-05-08"
 updatedDate: "2026-05-08"
 category: "FreshSnap"
 tags: ["Lebensmittellagerung","Frischelagerung","squid"]
-heroImage: "/images/blog/squid_storage_hack.png"
+heroImage: "/images/blog/squid_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>NIFS & MFDS & USDA</strong>"

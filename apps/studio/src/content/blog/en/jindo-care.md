@@ -6,7 +6,7 @@ pubDate: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "FreshSelf"
 tags: ["PetCare","PetHealth","Jindo Dog (Canis lupus familiaris)"]
-heroImage: "/images/blog/jindo_care.png"
+heroImage: "/images/blog/jindo_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "National Institute of Animal Science Jindo Standards & KKC Behavior Expert Protocol"

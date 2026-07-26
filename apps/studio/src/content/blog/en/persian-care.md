@@ -6,7 +6,7 @@ pubDate: "2026-06-05"
 updatedDate: "2026-06-05"
 category: "FreshSelf"
 tags: ["PetCare","PetHealth","Persian Cat (Felis catus)"]
-heroImage: "/images/blog/persian_care.png"
+heroImage: "/images/blog/persian_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Cat Fanciers' Association (CFA) Persian Breed Guidelines & AAFP Feline Veterinary Standards"

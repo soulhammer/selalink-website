@@ -1,454 +1,454 @@
 {
-  "how-to-store-eggs": {
-    "ingId": "egg",
-    "pubDate": "2026-04-15",
-    "updatedDate": "2026-04-15",
-    "heroImage": "/images/blog/egg_storage_hack.png",
-    "category": "FreshSnap",
-    "app": "freshsnap",
-    "formatVersion": 4,
-    "locales": {
-      "ko": {
-        "title": "계란 신선하게 보관하는 법: 과학적 보관 가이드",
-        "description": "공인된 안전 가이드라인에 따른 계란의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-        "authority": "<strong>식품의약품안전처(MFDS) & 미국 농무부(USDA) & 미국 식품의약국(FDA)</strong>",
-        "intro": "계란 표면의 먼지나 오염물질을 보고 물에 깨끗이 씻어서 냉장고에 보관해 본 적 있으시죠? 🥚\n\n계란 껍데기(난각)는 눈에 보이지 않는 수천 개의 미세한 기공으로 숨을 쉬는 유기체입니다. 물로 씻으면 표면의 천연 단백질 보호막인 '큐티클(Cuticle)'이 제거되어 살모넬라(Salmonella) 등 외부 유해균이 내부로 빠르게 침투합니다. 또한 냉장고 문 쪽에 둘 경우 잦은 온도 변화와 진동으로 흰자의 탄력이 급격히 떨어집니다.\n\n오늘 FreshSnap에서는 식품의약품안전처(MFDS)와 미국 농무부(USDA)의 가이드를 바탕으로, 계란의 신선도와 안전을 45일 이상 완벽하게 지켜주는 3단계 과학적 보관 비법을 전해드립니다. 🛡️",
-        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-        "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-        "guideTitle": "과학적으로 검증된 보관 가이드",
-        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-        "tags": [
-          "계란",
-          "과학적으로 검증된 보관 가이드",
-          "dairy"
-        ],
-        "cautions": [
-          {
-            "title": "금 가거나 깨진 계란은 방치하지 말고 즉시 소비하세요 🍳",
-            "desc": "미세하게 금이 간 계란은 상온뿐만 아니라 냉장실에서도 공기 중 세균이 유입되어 급속히 부패합니다. 구매 즉시 파손란을 분류하고, 발견 즉시 속까지 완전히 익혀서 섭취하세요."
-          },
-          {
-            "title": "마늘, 양파 등 냄새가 강한 식품 옆에 두지 마세요 🧄",
-            "desc": "계란 껍데기의 수천 개 기공은 주위의 휘발성 냄새를 스펀지처럼 흡수합니다. 양파, 마늘, 생선 등 강한 냄새를 뿜어내는 식품 근처에 밀봉 없이 두면 계란 내부에 비린 향이 배어 풍미를 망칩니다."
-          }
-        ],
-        "steps": [
-          {
-            "name": "절대 물로 세척하지 않기 — 천연 보호막(큐티클) 보존 및 냉장 보관 (45일) 💧",
-            "text": "계란 껍데기에는 7천~1만 7천 개의 미세 기공이 있습니다. 💡 보관 팁: 물에 씻으면 외벽 보호막인 큐티클이 손상되어 세균(살모넬라 등)이 기공을 통해 내부로 스며듭니다. 겉면의 오염물은 씻지 말고 마른 수건으로 가볍게 털어내어 보관하세요."
-          },
-          {
-            "name": "뾰족한 곳이 아래로 가게 세워 보관하기 — 기실(공기주머니) 위치 유지 🥚",
-            "text": "계란의 둥근 부분에는 공기 주머니인 '기실'이 존재합니다. 💡 보관 팁: 기실이 아래로 가도록 뒤집어 두면 노른자가 기실에 접촉하여 난막이 찢어지거나 오염이 가속화됩니다. 둥근 쪽을 위로, 뾰족한 쪽을 아래로 향하게 세워 두어야 노른자가 중앙을 유지하며 오랫동안 신선합니다."
-          },
-          {
-            "name": "냉장고 문 쪽이 아닌 안쪽 깊숙한 선반에 보관하기 — 온도 및 진동 변화 방지 ❄️",
-            "text": "냉장고 문 포켓은 문을 열고 닫을 때마다 온도 변화(4~10℃)가 크고, 충격으로 인해 흰자(농후난백)의 밀도가 묽어집니다. 💡 보관 팁: 계란은 종이 팩 그대로 냉장고 본체 안쪽 깊은 선반(0~4℃)에 보관하는 것이 온도를 일정하게 유지하는 핵심입니다."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "계란을 물로 씻어서 보관하면 왜 위험한가요?",
-            "answer": "계란 표면에는 큐티클(Cuticle)이라는 천연 단백질 보호막이 감싸고 있습니다. 물로 씻으면 이 막이 파괴되어 껍질 기공을 통해 살모넬라 등 외부 유해균과 오염 물질이 내부로 쉽게 침투하기 때문입니다. 오염물은 마른 천으로만 가볍게 털어내야 합니다."
-          },
-          {
-            "question": "계란을 뾰족한 쪽이 아래로 가도록 보관해야 하는 과학적 이유는 무엇인가요?",
-            "answer": "계란의 둥근 쪽에는 공기가 모여 있는 '기실(Air Cell)'이 있습니다. 둥근 쪽을 위로 두면 노른자가 기실의 공기층 덕분에 껍질 내부 벽에 직접 닿지 않고 중앙에 고정되어, 난막 손상과 세균 감염을 막고 오랫동안 신선하게 유지됩니다."
-          }
-        ]
-      },
-      "en": {
-        "title": "How to Keep Eggs Fresh: Scientific Storage Guide",
-        "description": "Check the optimal storage temperature, method, and shelf life for eggs based on official safety guidelines.",
-        "authority": "<strong>MFDS & USDA & FDA</strong>",
-        "intro": "Have you ever washed fresh eggs in tap water or stored them in the refrigerator door pockets? 🥚\n\nAn eggshell is an organic structure covered with thousands of microscopic pores that allow respiration. Washing eggs removes their natural protective layer, known as the 'cuticle', allowing harmful bacteria like Salmonella to penetrate inside rapidly. Furthermore, storing eggs in the fridge door exposes them to temperature shifts and physical shocks that break down egg white firmness.\n\nToday, FreshSnap shares a scientifically proven 3-step storage guide based on guidelines from the FDA and USDA to preserve egg freshness and safety for over 45 days. 🛡️",
-        "whyTitle": "Why Store Eggs This Way? Scientific Facts",
-        "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
-        "guideTitle": "Scientifically Proven Storage Guide",
-        "cautionTitle": "Essential Storage Rules and Cautions",
-        "tags": [
-          "Egg",
-          "Scientifically Proven Storage Guide",
-          "dairy"
-        ],
-        "cautions": [
-          {
-            "title": "Never leave cracked or damaged eggs stored 🍳",
-            "desc": "Airborne bacteria easily penetrate finely cracked eggshells, causing rapid spoilage even under refrigeration. Separate cracked eggs immediately upon purchase and cook them thoroughly before eating."
-          },
-          {
-            "title": "Keep away from strong-smelling foods like garlic and onions 🧄",
-            "desc": "The thousands of pores on eggshells absorb ambient volatile odors easily. Storing unsealed eggs near onions, garlic, or fish will taint the interior with off-odors, ruining their natural flavor."
-          }
-        ],
-        "steps": [
-          {
-            "name": "Never wash eggs with water — Preserve Natural Cuticle & Refrigerate (45 Days) 💧",
-            "text": "Eggshells contain between 7,000 and 17,000 microscopic pores. 💡 Storage Tip: Washing eggs destroys the protective cuticle layer, allowing water and bacteria (such as Salmonella) to enter through the pores. Lightly wipe off dry dirt with a paper towel instead of washing."
-          },
-          {
-            "name": "Store with the pointed end facing down — Preserve Air Cell Position 🥚",
-            "text": "The blunt, rounded end of the egg contains the air cell (pocket of air). 💡 Storage Tip: Storing the egg with the blunt end facing down causes the yolk to press against the air cell, tearing the membrane and accelerating spoilage. Point the narrow end down and the rounded end up to keep the yolk centered and fresh."
-          },
-          {
-            "name": "Place deep inside the main refrigerator shelf — Prevent Temperature Fluctuation ❄️",
-            "text": "The refrigerator door shelf undergoes severe temperature swings (4–10°C) whenever opened, and vibrations thin out the thick egg white. 💡 Storage Tip: Keep eggs in their original carton on a deep inner shelf of the main compartment (0–4°C / 32–39°F) where temperatures stay stable."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Why is it dangerous to wash fresh eggs before storing them?",
-            "answer": "Eggshells are coated with a natural protein shield called the cuticle. Washing eggs with water dissolves this barrier, opening up the shell's microscopic pores to Salmonella and other external bacteria. Simply wipe away dry dirt with a dry cloth."
-          },
-          {
-            "question": "What is the scientific reason for storing eggs with the pointed end down?",
-            "answer": "The blunt (rounded) end of the egg contains the 'Air Cell'. Keeping the rounded end pointing upward allows the air pocket to cushion the yolk, preventing it from touching the inner shell wall. This keeps the yolk centered and protects the membrane from bacterial contamination."
-          }
-        ]
-      },
-      "ja": {
-        "title": "卵を新鮮に保つ保存方法：科学的保管ガイド",
-        "description": "公的安全基準に基づく卵の最適な保存温度、保管方法、保存期間をご確認ください。",
-        "authority": "<strong>食品医薬品安全処(MFDS) & 米国農務省(USDA) & 米国食品医薬品局(FDA)</strong>",
-        "intro": "新鮮な卵を保存するために、水できれいに洗ってから冷蔵庫のドアポケットに入れていませんか？🥚\n\n卵の殻（卵殻）には目に見えない数千個の微細な穴（気孔）が開いており、呼吸をしている生きた食材です。水洗いすると、表面を保護している天然のタンパク質膜「クチクラ（Cuticle）」が破壊され、サルモネラ菌などの有害菌が内部に侵入しやすくなります。また、ドアポケットでの保存は頻繁な温度変化と振動で白身の弾力を急速に失わせます。\n\n本日FreshSnapでは、食品医薬品安全処（MFDS）および米国農務省（USDA）のガイドラインに基づき、卵の鮮度と 安全性を45日以上守る3段階の科学的保存法をご紹介します。🛡️",
-        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-        "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-        "guideTitle": "科学的に検証された保存ガイド",
-        "cautionTitle": "保存時の必須ルールと注意事項",
-        "tags": [
-          "卵",
-          "科学的に検証された保存ガイド",
-          "dairy"
-        ],
-        "cautions": [
-          {
-            "title": "ヒビが入ったり割れた卵は放置せずすぐに消費してください 🍳",
-            "desc": "微小なヒビが入った卵は、常温だけでなく冷蔵室でも空気中の細菌が侵入して急速に腐敗します。購入直後に破損した卵を選別し、見つけたらすぐに中心まで完全に加熱調理して召し上がってください。"
-          },
-          {
-            "title": "ニンニクや玉ねぎなどにおいの強い食材の近くに置かないでください 🧄",
-            "desc": "卵の殻にある数千個の気孔は、周囲のにおい成分を強く吸収します。においの強い食材の近くに密閉せず置いておくと、内部に嫌なニオイが移り、風味を損なってしまいます。"
-          }
-        ],
-        "steps": [
-          {
-            "name": "絶対に水洗いしない — 天然保護膜（クチクラ）の維持と冷蔵保存 (45日) 💧",
-            "text": "卵殻には7,000〜17,000個の微細な気孔が存在します。💡保存のコツ：水洗いすると外壁の保護膜であるクチクラが傷つき、浸透圧によって水分が抜け、細菌（サルモネラ菌など）が内部に侵入します。表面の汚れは水で洗わず乾いた布で軽く拭き取ってください。"
-          },
-          {
-            "name": "尖った側を下にして立てて保存する — 気室の位置を維持 🥚",
-            "text": "卵の丸い側には、空気の部屋である「気室」が存在します。💡保存のコツ：気室を下にして置くと、黄身が気室に触れて卵膜が破れ、傷みが早まります。丸い側を上、尖った側を下にして立てて保存することで、黄身が中央に固定され長持ちします。"
-          },
-          {
-            "name": "ドアポケットではなく冷蔵庫の奥の棚に保存する — 温度と振動の変化防止 ❄️",
-            "text": "ドアポケットは開閉のたびに温度変化（4〜10℃）が大きく、衝撃によって白身（濃厚卵白）の弾力が弱まります。💡保存のコツ：購入時の紙パックのまま、温度が一定な冷蔵庫本体の奥の棚（0〜4℃）で保存することが重要です。"
-          }
-        ],
-        "faqs": [
-          {
-            "question": "卵を水で洗ってから保存すると、なぜ危険なのですか？",
-            "answer": "卵の表面は「クチクラ（Cuticle）」という天然のタンパク質保護膜で覆われています。水洗いするとこの膜が溶けて消失し、殻の気孔を通じてサルモネラ菌などの有害菌や汚染物質が内部へ簡単に侵入するためです。汚れは乾いた布で拭き取るにとどめてください。"
-          },
-          {
-            "question": "卵の尖った側を下にして保存する科学的な理由は何ですか？",
-            "answer": "卵の丸い側には空気の部屋である「気室（Air Cell）」があります。丸い側を上にすると、黄身が気室の空気層のおかげで殻の内壁に直接触れずに中央に固定され、卵膜の損傷や細菌感染を防いで長期間新鮮に保たれます。"
-          }
-        ]
-      },
-      "zh": {
-        "title": "如何保持鸡蛋新鲜：科学储存指南",
-        "description": "根据官方食品安全指南，了解鸡蛋的最佳储存温度、方式和保鲜时长。",
-        "authority": "<strong>韩国食品医药品安全处(MFDS) & 美国农务部(USDA) & 美国食品药品监督管理局(FDA)</strong>",
-        "intro": "为了保持干净，您是否曾顺手把鸡蛋放在水龙头下冲洗，然后保存在冰箱门侧架上？🥚\n\n蛋壳（蛋壳）是由数千个肉眼不可见的气孔构成的呼吸体。用水冲洗会洗掉蛋壳表面的天然蛋白质保护膜——角质层（Cuticle），使沙门氏菌（Salmonella）等外部致病菌极易穿透气孔侵入内部。此外，存放在冰箱门侧架上会因频繁开关导致的温度波动和震动，使蛋清弹力迅速下降。\n\n今天FreshSnap基于美国食品药品监督管理局(FDA)和美国农务部(USDA)的指南，为您带来3步科学保存秘诀，帮您将鸡蛋的新鲜度与食用安全完美锁住长达45天以上。🛡️",
-        "whyTitle": "为什么要这样储存？科学原理",
-        "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-        "guideTitle": "科学验证的储存指南",
-        "cautionTitle": "储存必需规则及注意事项",
-        "tags": [
-          "鸡蛋",
-          "科学验证的储存指南",
-          "dairy"
-        ],
-        "cautions": [
-          {
-            "title": "出现裂纹或破损的鸡蛋切勿储存，请立即食用 🍳",
-            "desc": "带有细微裂纹的鸡蛋即使在冷藏条件下，空气中的细菌也会迅速侵入导致变质。买回后请立即筛选出破损蛋，并在发现后彻底加热熟透后优先食用。"
-          },
-          {
-            "title": "切勿与大蒜、洋葱等强异味食材同放 🧄",
-            "desc": "蛋壳上的数千个气孔会像海绵一样吸收周围的挥发性气味。如果不加密封放在洋葱、大蒜或生鲜鱼类附近，异味会侵入鸡蛋内部，严重破坏其风味。"
-          }
-        ],
-        "steps": [
-          {
-            "name": "严禁用水冲洗 — 保护天然角质层并冷藏 (45天) 💧",
-            "text": "蛋壳表面分布着7000~17000个微小气孔。💡储存小贴士：用水冲洗会破坏外壁的角质层保护膜，导致水分流失，并使细菌（如沙门氏菌）顺着气孔渗入蛋内。表面脏污请仅用干布轻擦去除。"
-          },
-          {
-            "name": "大头朝上、尖头朝下竖直摆放 — 维持气室正确位置 🥚",
-            "text": "鸡蛋圆润的大头一端存在着积聚空气的“气室”。💡储存小贴士：如果大头朝下颠倒摆放，蛋黄会紧贴气室导致蛋膜破裂并加速变质。将大头朝上、尖头朝下竖直摆放，能让蛋黄保持在中心位置，延长保鲜期。"
-          },
-          {
-            "name": "置于冰箱内部深处隔板 — 避免温度与震动波动 ❄️",
-            "text": "冰箱门侧架在开关时温度波动剧烈（4~10℃），且震动会使浓稠蛋清变稀。💡储存小贴士：将鸡蛋连同原装纸盒存放在冰箱主舱内部深处隔板（0~4℃）上，保持恒定低温是保鲜的核心。"
-          }
-        ],
-        "faqs": [
-          {
-            "question": "为什么用水清洗鸡蛋后再储存非常危险？",
-            "answer": "因为鸡蛋表面覆盖着一层名为“角质层（Cuticle）”的天然蛋白质保护膜。用水冲洗会溶解破坏这层保护膜，使沙门氏菌等外部有害菌和污染物通过蛋壳上的微小气孔轻松侵入内部。表面污物仅需用干布轻擦即可。"
-          },
-          {
-            "question": "将鸡蛋尖头朝下摆放的科学依据是什么？",
-            "answer": "鸡蛋的大头一端存有积聚空气的“气室（Air Cell）”。将大头朝上摆放，蛋黄在气室空气层的缓冲下不会直接接触蛋壳内壁，而是悬浮在中心，从而防止蛋膜受损与细菌感染，长久保持新鲜。"
-          }
-        ]
-      },
-      "es": {
-        "title": "Cómo mantener los huevos frescos: Guía científica de conservación",
-        "description": "Descubra la temperatura, el método y la duración de conservación óptimos para los huevos según las directrices oficiales de seguridad.",
-        "authority": "<strong>MFDS & USDA & FDA</strong>",
-        "intro": "¿Alguna vez lavó los huevos con agua antes de guardarlos o los colocó en los compartimentos de la puerta del refrigerador? 🥚\n\nEl cascarón de huevo es una estructura orgánica cubierta por miles de poros microscópicos que le permiten respirar. Lavar los huevos elimina su capa protectora natural, llamada 'cutícula', permitiendo que bacterias dañinas como la Salmonella penetren rápidamente. Además, guardarlos en la puerta los expone a cambios de temperatura y sacudidas que debilitan la clara.\n\nHoy, FreshSnap comparte una guía científica en 3 pasos basada en las directrices de la FDA y el USDA para conservar la frescura y seguridad de sus huevos por más de 45 días. 🛡️",
-        "whyTitle": "¿Por qué almacenarlos así? Datos científicos",
-        "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-        "guideTitle": "Guía de almacenamiento científicamente probada",
-        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-        "tags": [
-          "Huevo",
-          "Guía de almacenamiento científicamente probada",
-          "dairy"
-        ],
-        "cautions": [
-          {
-            "title": "Nunca guarde huevos fisurados o quebrados 🍳",
-            "desc": "Las bacterias del aire penetran fácilmente en cascarones fisurados, provocando una rápida descomposición incluso bajo refrigeración. Separe los huevos dañados de inmediato y cocínelos completamente antes de comer."
-          },
-          {
-            "title": "Manténgalos alejados de alimentos con olores fuertes como ajo y cebolla 🧄",
-            "desc": "Los miles de poros del cascarón absorben los olores ambientales con facilidad. Guardar huevos cerca de cebollas, ajos o pescado alterará su sabor interno natural."
-          }
-        ],
-        "steps": [
-          {
-            "name": "Nunca lave los huevos con agua — Conserve la cutícula natural y refrigere (45 días) 💧",
-            "text": "El cascarón contiene entre 7,000 y 17,000 poros microscópicos. 💡 Consejo de almacenamiento: Lavar los huevos destruye la capa protectora de la cutícula, permitiendo que el agua y las bacterias (como la Salmonella) entren por los poros. Limpie la suciedad en seco con una toalla de papel."
-          },
-          {
-            "name": "Guarde con el extremo puntiagudo hacia abajo — Mantenga la posición de la cámara de aire 🥚",
-            "text": "El extremo ancho y redondeado del huevo contiene la cámara de aire. 💡 Consejo de almacenamiento: Guardar el huevo con el lado ancho hacia abajo hace que la yema presione la cámara de aire, rompiendo la membrana. Mantenga el extremo puntiagudo hacia abajo para que la yema permanezca centrada."
-          },
-          {
-            "name": "Coloque al fondo de los estantes interiores del refrigerador — Evite variaciones térmicas ❄️",
-            "text": "La puerta del refrigerador sufre variaciones drásticas de temperatura (4-10 °C) cada vez que se abre, y las vibraciones ablandan la clara. 💡 Consejo de almacenamiento: Conserve los huevos en su cartón original en un estante interior profundo (0-4 °C) donde la temperatura se mantenga estable."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "¿Por qué es peligroso lavar los huevos frescos antes de almacenarlos?",
-            "answer": "Los huevos están recubiertos por una capa protectora de proteína natural llamada cutícula. Lavarlos con agua disuelve esta barrera, abriendo los poros microscópicos del cascarón a la Salmonella y otras bacterias. Simplemente limpie la suciedad visible con un paño seco."
-          },
-          {
-            "question": "¿Cuál es la explicación científica para guardar los huevos con la punta hacia abajo?",
-            "answer": "El extremo ancho (redondeado) del huevo alberga la 'Cámara de aire'. Mantener el lado redondeado hacia arriba permite que la bolsa de aire sirva de amortiguador para la yema, evitando que toque la pared interna del cascarón. Esto mantiene la yema centrada y la protege contra bacterias."
-          }
-        ]
-      },
-      "fr": {
-        "title": "Comment conserver les œufs frais : Guide scientifique de conservation",
-        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les œufs selon les directives officielles de sécurité.",
-        "authority": "<strong>MFDS & USDA & FDA</strong>",
-        "intro": "Avez-vous déjà lavé vos œufs à l'eau ou les avez-vous rangés dans les balconnets de la porte de votre réfrigérateur ? 🥚\n\nLa coquille d'œuf est une structure organique percée de milliers de pores microscopiques qui lui permettent de respirer. Laver les œufs élimine leur couche protectrice naturelle, la 'cuticule', permettant à des bactéries dangereuses comme la Salmonelle de s'y infiltrer. De plus, les stocker dans la porte les expose à des écarts de température et à des secousses qui liquéfient le blanc.\n\nAujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations de la FDA et du USDA pour préserver la fraîcheur et la sécurité de vos œufs pendant plus de 45 jours. 🛡️",
-        "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
-        "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-        "guideTitle": "Guide de conservation scientifiquement prouvé",
-        "cautionTitle": "Règles essentielles et précautions de stockage",
-        "tags": [
-          "Œuf",
-          "Guide de conservation scientifiquement prouvé",
-          "dairy"
-        ],
-        "cautions": [
-          {
-            "title": "Ne conservez jamais d'œufs fêlés ou cassés 🍳",
-            "desc": "Les bactéries de l'air s'infiltrent très facilement par les microfissures de la coquille, provoquant una altération rapide même au frais. Triez les œufs abîmés dès l'achat et cuisez-les impérativement à cœur."
-          },
-          {
-            "title": "Éloignez les œufs des aliments odorants comme l'ail et l'oignon 🧄",
-            "desc": "Les milliers de pores de la coquille absorbent facilement les odeurs ambiantes. Ranger des œufs près d'oignons, d'ail ou de poisson va altérer leur saveur naturelle."
-          }
-        ],
-        "steps": [
-          {
-            "name": "Ne lavez jamais les œufs à l'eau — Conserver la cuticule et réfrigérer (45 jours) 💧",
-            "text": "La coquille d'œuf comporte entre 7 000 et 17 000 pores microscopiques. 💡 Astuce de conservation : Laver les œufs dissout la cuticule protectrice, laissant l'eau et les bactéries (Salmonelles) pénétrer par les pores. Épongez la saleté à sec avec du papier absorbant au lieu de laver."
-          },
-          {
-            "name": "Ranger le bout pointu vers le bas — Conserver la chambre à air 🥚",
-            "text": "Le gros bout arrondi de l'œuf abrite la chambre à air. 💡 Astuce de conservation : Placer le gros bout vers le bas fait appuyer le jaune contre la poche d'air, ce qui peut déchirer la membrane. Gardez la pointe vers le bas et le gros bout vers le haut pour garder le jaune bien centré."
-          },
-          {
-            "name": "Placer au fond des étagères intérieures — Éviter les écarts de température ❄️",
-            "text": "Le balconnet de la porte subit de fortes variations de température (4–10 °C) à chaque ouverture, et les vibrations liquéfient le blanc d'œuf. 💡 Astuce de conservation : Conservez les œufs dans leur boîte en carton d'origine sur une étagère intérieure (0–4 °C)."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Pourquoi est-il dangereux de laver les œufs frais avant de les stocker ?",
-            "answer": "Les œufs sont recouverts d'un film protéique naturel appelé cuticule. Le lavage à l'eau dissout cette barrière, ce qui ouvre les pores microscopiques de la coquille aux Salmonelles et autres bactéries. Éliminez simplement les salissures avec un chiffon sec."
-          },
-          {
-            "question": "Quelle est l'explication scientifique au stockage des œufs la pointe vers le bas ?",
-            "answer": "Le gros bout (arrondi) de l'œuf contient la 'Chambre à air'. Laisser ce bout vers le haut permet à la poche d'air d'amortir le jaune, l'empêchant d'entrer en contact direct avec la paroi interne de la coquille. Cela garde le jaune centré et le protège des contaminations."
-          }
-        ]
-      },
-      "de": {
-        "title": "Eier richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Eier basierend auf offiziellen Sicherheitsrichtlinien.",
-        "authority": "<strong>MFDS & USDA & FDA</strong>",
-        "intro": "Haben Sie frische Eier schon einmal unter fließendem Wasser gewaschen oder in den Fächern der Kühlschranktür gelagert? 🥚\n\nEine Eierschale ist ein organisches Gebilde mit Tausenden mikroskopisch kleinen Poren, durch die das Ei atmet. Das Waschen von Eiern entfernt die natürliche Schutzschicht, die sogenannte 'Kutikula', wodurch Krankheitserreger wie Salmonellen rasch ins Innere gelangen. Zudem führt die Lagerung in der Kühlschranktür zu Temperaturschwankungen und Erschütterungen, die das Eiklar verflüssigen.\n\nHeute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Richtlinien von FDA und USDA basiert, um die Frische und Sicherheit Ihrer Eier über 45 Tage lang zu garantieren. 🛡️",
-        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-        "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-        "tags": [
-          "Ei",
-          "Wissenschaftlich geprüfter Lagerungsratgeber",
-          "dairy"
-        ],
-        "cautions": [
-          {
-            "title": "Lagern Sie niemals beschädigte oder angeknackste Eier 🍳",
-            "desc": "Bakterien aus der Luft dringen leicht durch Mikrorisse in der Eierschale ein und führen selbst im Kühlschrank zu schnellem Verderb. Sortieren Sie beschädigte Eier sofort aus und garen Sie sie vor dem Verzehr vollständig durch."
-          },
-          {
-            "title": "Von stark riechenden Lebensmitteln wie Knoblauch und Zwiebeln fernhalten 🧄",
-            "desc": "Die Tausenden Poren der Eierschale nehmen Gerüche aus der Umgebung rasch auf. Wenn Eier unverschlossen neben Zwiebeln, Knoblauch oder Fisch liegen, nehmen sie Fremdgerüche an."
-          }
-        ],
-        "steps": [
-          {
-            "name": "Eier niemals mit Wasser waschen — Natürliche Kutikula erhalten & kühlen (45 Tage) 💧",
-            "text": "Eierschalen besitzen zwischen 7.000 und 17.000 mikroskopische Poren. 💡 Lagerungstipp: Das Waschen zerstört die Schutzschicht (Kutikula), sodass Wasser und Bakterien (wie Salmonellen) eintreten können. Reiben Sie Schmutz stattdessen nur trocken mit Küchenpapier ab."
-          },
-          {
-            "name": "Mit dem spitzen Ende nach unten lagern — Lage der Luftkammer stabilisieren 🥚",
-            "text": "Das stumpfe, runde Ende des Eies enthält die Luftkammer. 💡 Lagerungstipp: Wenn das stumpfe Ende unten liegt, drückt das Eigelb gegen die Luftkammer, was die Membran schädigen kann. Lagern Sie das spitze Ende nach unten, damit das Eigelb zentriert bleibt."
-          },
-          {
-            "name": "Tief im Inneren des Kühlschranks platzieren — Temperaturschwankungen vermeiden ❄️",
-            "text": "Die Tür des Kühlschranks unterliegt bei jedem Öffnen Temperaturschwankungen (4–10 °C), und Erschütterungen schwächen das Eiklar. 💡 Lagerungstipp: Belassen Sie Eier im Eierkarton auf einem tiefen Innenregal (0–4 °C), wo die Temperatur konstant bleibt."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Warum ist es gefährlich, frische Eier vor der Lagerung zu waschen?",
-            "answer": "Eierschalen sind mit einer natürlichen Proteinschicht, der Kutikula, überzogen. Das Waschen mit Wasser löst diese Schutzschicht auf und öffnet die mikroskopischen Poren der Schale für Salmonellen und andere Keime. Wischen Sie Schmutz einfach mit einem trockenen Tuch ab."
-          },
-          {
-            "question": "Was ist der wissenschaftliche Grund dafür, Eier mit der Spitze nach unten zu lagern?",
-            "answer": "Das stumpfe (runde) Ende des Eies enthält die 'Luftkammer'. Wenn das runde Ende nach oben zeigt, dient das Luftpolster als Puffer für das Eigelb, sodass es nicht direkt die innere Schalenwand berührt. Dies hält das Eigelb zentriert und schützt vor Bakterien."
-          }
-        ]
-      },
-      "pt": {
-        "title": "Como conservar ovos frescos: Guia científico de armazenamento",
-        "description": "Descubra a temperatura, método e tempo de conservação ideais para ovos com base em diretrizes oficiais de segurança.",
-        "authority": "<strong>MFDS & USDA & FDA</strong>",
-        "intro": "Você já lavou ovos frescos em água corrente ou os guardou nos suportes da porta da geladeira? 🥚\n\nA casca do ovo é uma estrutura orgânica coberta por milhares de poros microscópicos que permitem sua respiração. Lavar os ovos remove sua camada protetora natural, chamada 'cutícula', permitindo que bactérias nocivas como a Salmonella penetrem rapidamente. Além disso, guardá-los na porta os expõe a variações de temperatura e impactos que afinam a clara.\n\nHoje, o FreshSnap apresenta um guia de conservação em 3 etapas baseado em diretrizes da FDA e do USDA para manter a frescura e a segurança dos seus ovos por mais de 45 dias. 🛡️",
-        "whyTitle": "Por que armazenar assim? Fatos científicos",
-        "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-        "guideTitle": "Guia de armazenamento comprovado cientificamente",
-        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-        "tags": [
-          "Ovo",
-          "Guia de armazenamento comprovado cientificamente",
-          "dairy"
-        ],
-        "cautions": [
-          {
-            "title": "Nunca guarde ovos trincados ou quebrados 🍳",
-            "desc": "Bactérias presentes no ar penetram facilmente em cascas trincadas, causando rápida deterioração mesmo na geladeira. Separe ovos danificados imediatamente após a compra e cozinhe-os bem antes de consumir."
-          },
-          {
-            "title": "Mantenha longe de alimentos com cheiro forte, como alho e cebola 🧄",
-            "desc": "Os milhares de poros da casca absorvem odores do ambiente facilmente. Guardar ovos perto de cebolas, alho ou peixe contaminará o sabor interno natural."
-          }
-        ],
-        "steps": [
-          {
-            "name": "Nunca lave os ovos com água — Preserve a cutícula natural e refrigere (45 dias) 💧",
-            "text": "A casca do ovo contém entre 7.000 e 17.000 poros microscópicos. 💡 Dica de conservação: Lavar os ovos destrói a camada protetora da cutícula, permitindo a entrada de água e bactérias (como Salmonella). Limpe a sujeira a seco com papel-toalha em vez de lavar."
-          },
-          {
-            "name": "Guarde com a ponta fina para baixo — Mantenha a câmara de ar no lugar 🥚",
-            "text": "O lado arredondado do ovo contém a câmara de ar. 💡 Dica de conservação: Guardar o ovo com o lado arredondado para baixo faz a gema pressionar a câmara de ar, rompendo a membrana. Mantenha a ponta fina para baixo para a gema permanecer centralizada."
-          },
-          {
-            "name": "Coloque no fundo das prateleiras internas da geladeira — Evite oscilações de temperatura ❄️",
-            "text": "A porta da geladeira sofre variações drásticas de temperatura (4-10 °C) cada vez que é aberta, e os impactos afinam a clara. 💡 Dica de conservação: Mantenha os ovos em sua caixa original em uma prateleira interna profunda (0-4 °C)."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Por que é perigoso lavar ovos frescos antes de guardar?",
-            "answer": "Os ovos são revestidos por uma camada protetora de proteína natural chamada cutícula. Lavá-los com água dissolve essa barreira, abrindo os poros microscópicos da casca para a Salmonella e outras bactérias. Limpe o excesso de sujeira apenas com um pano seco."
-          },
-          {
-            "question": "Qual é a explicação científica para guardar os ovos com a ponta fina para baixo?",
-            "answer": "O lado arredondado do ovo abriga a 'Câmara de ar'. Manter o lado arredondado voltado para cima permite que a bolsa de ar amorteça a gema, impedindo que ela encoste na parede interna da casca. Isso mantém a gema centralizada e protegida contra bactérias."
-          }
-        ]
-      },
-      "id": {
-        "title": "Cara Menyimpan Telur agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk telur berdasarkan pedoman keselamatan resmi.",
-        "authority": "<strong>MFDS & USDA & FDA</strong>",
-        "intro": "Pernahkah Anda mencuci telur segar dengan air lalu menyimpannya di rak pintu kulkas? 🥚\n\nCangkang telur adalah struktur organik yang dilapisi ribuan pori-pori mikroskopis untuk bernapas. Mencuci telur akan mengikis lapisan pelindung alaminya yang disebut 'kutikula', memungkinkan bakteri berbahaya seperti Salmonella masuk ke dalam dengan cepat. Selain itu, menyimpannya di pintu kulkas memaparkan telur pada perubahan suhu dan guncangan yang mengencerkan putih telur.\n\nHari ini, FreshSnap membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan pedoman FDA dan USDA untuk menjaga kesegaran dan keamanan telur Anda selama lebih dari 45 hari. 🛡️",
-        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-        "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-        "tags": [
-          "Telur",
-          "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-          "dairy"
-        ],
-        "cautions": [
-          {
-            "title": "Jangan pernah menyimpan telur yang retak atau pecah 🍳",
-            "desc": "Bakteri di udara sangat mudah masuk melalui retakan halus pada cangkang telur, menyebabkan pembusukan cepat meskipun di dalam kulkas. Segera pisahkan telur yang retak saat dibeli dan masak hingga matang sebelum dimakan."
-          },
-          {
-            "title": "Jauhkan dari makanan berbau menyengat seperti bawang dan ikan 🧄",
-            "desc": "Ribuan pori-pori pada cangkang telur sangat mudah menyerap bau di sekitarnya. Menyimpan telur tanpa segel di dekat bawang putih, bawang bombai, atau ikan akan mencemari rasa alami telur."
-          }
-        ],
-        "steps": [
-          {
-            "name": "Jangan pernah mencuci telur dengan air — Jaga Lapisan Kutikula Alami & Simpan Dingin (45 Hari) 💧",
-            "text": "Cangkang telur memiliki antara 7.000 hingga 17.000 pori-pori mikroskopis. 💡 Tips Penyimpanan: Mencuci telur merusak lapisan pelindung kutikula, membuat air dan bakteri (seperti Salmonella) masuk. Lap kotoran kering dengan tisu dapur tanpa perlu dicuci."
-          },
-          {
-            "name": "Simpan dengan bagian runcing menghadap ke bawah — Jaga Posisi Kantong Udara 🥚",
-            "text": "Bagian tumpul telur memiliki kantong udara (Air Cell). 💡 Tips Penyimpanan: Menyimpan telur dengan bagian tumpul di bawah membuat kuning telur menekan kantong udara, merobek membran dan mempercepat pembusukan. Posisikan bagian runcing di bawah agar kuning telur tetap di tengah."
-          },
-          {
-            "name": "Letakkan di rak bagian dalam kulkas — Hindari Perubahan Suhu ❄️",
-            "text": "Rak pintu kulkas mengalami perubahan suhu yang ekstrem (4–10°C) setiap kali dibuka, dan guncangan akan mengencerkan putih telur. 💡 Tips Penyimpanan: Simpan telur dalam karton aslinya di rak bagian dalam kulkas (0–4°C) dengan suhu stabil."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Mengapa berbahaya mencuci telur segar sebelum disimpan?",
-            "answer": "Cangkang telur dilapisi pelindung protein alami bernama kutikula. Mencuci telur dengan air akan melarutkan lapisan ini, membuka pori-pori mikroskopis cangkang bagi bakteri Salmonella dan kontaminan lainnya. Cukup bersihkan kotoran dengan kain kering."
-          },
-          {
-            "question": "Apa alasan ilmiah menyimpan telur dengan bagian runcing menghadap ke bawah?",
-            "answer": "Bagian tumpul telur memiliki 'Kantong Udara (Air Cell)'. Membiarkan bagian tumpul di atas membuat bantalan udara menahan kuning telur agar tidak menyentuh dinding dalam cangkang. Ini menjaga kuning telur tetap di tengah dan terhindar dari kontaminasi bakteri."
-          }
-        ]
-      }
+    "how-to-store-eggs": {
+        "ingId": "egg",
+        "pubDate": "2026-04-15",
+        "updatedDate": "2026-04-15",
+        "heroImage": "/images/blog/egg_storage_hack.webp",
+        "category": "FreshSnap",
+        "app": "freshsnap",
+        "formatVersion": 4,
+        "locales": {
+            "ko": {
+                "title": "계란 신선하게 보관하는 법: 과학적 보관 가이드",
+                "description": "공인된 안전 가이드라인에 따른 계란의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+                "authority": "<strong>식품의약품안전처(MFDS) & 미국 농무부(USDA) & 미국 식품의약국(FDA)</strong>",
+                "intro": "계란 표면의 먼지나 오염물질을 보고 물에 깨끗이 씻어서 냉장고에 보관해 본 적 있으시죠? 🥚\n\n계란 껍데기(난각)는 눈에 보이지 않는 수천 개의 미세한 기공으로 숨을 쉬는 유기체입니다. 물로 씻으면 표면의 천연 단백질 보호막인 '큐티클(Cuticle)'이 제거되어 살모넬라(Salmonella) 등 외부 유해균이 내부로 빠르게 침투합니다. 또한 냉장고 문 쪽에 둘 경우 잦은 온도 변화와 진동으로 흰자의 탄력이 급격히 떨어집니다.\n\n오늘 FreshSnap에서는 식품의약품안전처(MFDS)와 미국 농무부(USDA)의 가이드를 바탕으로, 계란의 신선도와 안전을 45일 이상 완벽하게 지켜주는 3단계 과학적 보관 비법을 전해드립니다. 🛡️",
+                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+                "guideTitle": "과학적으로 검증된 보관 가이드",
+                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+                "tags": [
+                    "계란",
+                    "과학적으로 검증된 보관 가이드",
+                    "dairy"
+                ],
+                "cautions": [
+                    {
+                        "title": "금 가거나 깨진 계란은 방치하지 말고 즉시 소비하세요 🍳",
+                        "desc": "미세하게 금이 간 계란은 상온뿐만 아니라 냉장실에서도 공기 중 세균이 유입되어 급속히 부패합니다. 구매 즉시 파손란을 분류하고, 발견 즉시 속까지 완전히 익혀서 섭취하세요."
+                    },
+                    {
+                        "title": "마늘, 양파 등 냄새가 강한 식품 옆에 두지 마세요 🧄",
+                        "desc": "계란 껍데기의 수천 개 기공은 주위의 휘발성 냄새를 스펀지처럼 흡수합니다. 양파, 마늘, 생선 등 강한 냄새를 뿜어내는 식품 근처에 밀봉 없이 두면 계란 내부에 비린 향이 배어 풍미를 망칩니다."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "절대 물로 세척하지 않기 — 천연 보호막(큐티클) 보존 및 냉장 보관 (45일) 💧",
+                        "text": "계란 껍데기에는 7천~1만 7천 개의 미세 기공이 있습니다. 💡 보관 팁: 물에 씻으면 외벽 보호막인 큐티클이 손상되어 세균(살모넬라 등)이 기공을 통해 내부로 스며듭니다. 겉면의 오염물은 씻지 말고 마른 수건으로 가볍게 털어내어 보관하세요."
+                    },
+                    {
+                        "name": "뾰족한 곳이 아래로 가게 세워 보관하기 — 기실(공기주머니) 위치 유지 🥚",
+                        "text": "계란의 둥근 부분에는 공기 주머니인 '기실'이 존재합니다. 💡 보관 팁: 기실이 아래로 가도록 뒤집어 두면 노른자가 기실에 접촉하여 난막이 찢어지거나 오염이 가속화됩니다. 둥근 쪽을 위로, 뾰족한 쪽을 아래로 향하게 세워 두어야 노른자가 중앙을 유지하며 오랫동안 신선합니다."
+                    },
+                    {
+                        "name": "냉장고 문 쪽이 아닌 안쪽 깊숙한 선반에 보관하기 — 온도 및 진동 변화 방지 ❄️",
+                        "text": "냉장고 문 포켓은 문을 열고 닫을 때마다 온도 변화(4~10℃)가 크고, 충격으로 인해 흰자(농후난백)의 밀도가 묽어집니다. 💡 보관 팁: 계란은 종이 팩 그대로 냉장고 본체 안쪽 깊은 선반(0~4℃)에 보관하는 것이 온도를 일정하게 유지하는 핵심입니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "계란을 물로 씻어서 보관하면 왜 위험한가요?",
+                        "answer": "계란 표면에는 큐티클(Cuticle)이라는 천연 단백질 보호막이 감싸고 있습니다. 물로 씻으면 이 막이 파괴되어 껍질 기공을 통해 살모넬라 등 외부 유해균과 오염 물질이 내부로 쉽게 침투하기 때문입니다. 오염물은 마른 천으로만 가볍게 털어내야 합니다."
+                    },
+                    {
+                        "question": "계란을 뾰족한 쪽이 아래로 가도록 보관해야 하는 과학적 이유는 무엇인가요?",
+                        "answer": "계란의 둥근 쪽에는 공기가 모여 있는 '기실(Air Cell)'이 있습니다. 둥근 쪽을 위로 두면 노른자가 기실의 공기층 덕분에 껍질 내부 벽에 직접 닿지 않고 중앙에 고정되어, 난막 손상과 세균 감염을 막고 오랫동안 신선하게 유지됩니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "How to Keep Eggs Fresh: Scientific Storage Guide",
+                "description": "Check the optimal storage temperature, method, and shelf life for eggs based on official safety guidelines.",
+                "authority": "<strong>MFDS & USDA & FDA</strong>",
+                "intro": "Have you ever washed fresh eggs in tap water or stored them in the refrigerator door pockets? 🥚\n\nAn eggshell is an organic structure covered with thousands of microscopic pores that allow respiration. Washing eggs removes their natural protective layer, known as the 'cuticle', allowing harmful bacteria like Salmonella to penetrate inside rapidly. Furthermore, storing eggs in the fridge door exposes them to temperature shifts and physical shocks that break down egg white firmness.\n\nToday, FreshSnap shares a scientifically proven 3-step storage guide based on guidelines from the FDA and USDA to preserve egg freshness and safety for over 45 days. 🛡️",
+                "whyTitle": "Why Store Eggs This Way? Scientific Facts",
+                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+                "guideTitle": "Scientifically Proven Storage Guide",
+                "cautionTitle": "Essential Storage Rules and Cautions",
+                "tags": [
+                    "Egg",
+                    "Scientifically Proven Storage Guide",
+                    "dairy"
+                ],
+                "cautions": [
+                    {
+                        "title": "Never leave cracked or damaged eggs stored 🍳",
+                        "desc": "Airborne bacteria easily penetrate finely cracked eggshells, causing rapid spoilage even under refrigeration. Separate cracked eggs immediately upon purchase and cook them thoroughly before eating."
+                    },
+                    {
+                        "title": "Keep away from strong-smelling foods like garlic and onions 🧄",
+                        "desc": "The thousands of pores on eggshells absorb ambient volatile odors easily. Storing unsealed eggs near onions, garlic, or fish will taint the interior with off-odors, ruining their natural flavor."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Never wash eggs with water — Preserve Natural Cuticle & Refrigerate (45 Days) 💧",
+                        "text": "Eggshells contain between 7,000 and 17,000 microscopic pores. 💡 Storage Tip: Washing eggs destroys the protective cuticle layer, allowing water and bacteria (such as Salmonella) to enter through the pores. Lightly wipe off dry dirt with a paper towel instead of washing."
+                    },
+                    {
+                        "name": "Store with the pointed end facing down — Preserve Air Cell Position 🥚",
+                        "text": "The blunt, rounded end of the egg contains the air cell (pocket of air). 💡 Storage Tip: Storing the egg with the blunt end facing down causes the yolk to press against the air cell, tearing the membrane and accelerating spoilage. Point the narrow end down and the rounded end up to keep the yolk centered and fresh."
+                    },
+                    {
+                        "name": "Place deep inside the main refrigerator shelf — Prevent Temperature Fluctuation ❄️",
+                        "text": "The refrigerator door shelf undergoes severe temperature swings (4–10°C) whenever opened, and vibrations thin out the thick egg white. 💡 Storage Tip: Keep eggs in their original carton on a deep inner shelf of the main compartment (0–4°C / 32–39°F) where temperatures stay stable."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Why is it dangerous to wash fresh eggs before storing them?",
+                        "answer": "Eggshells are coated with a natural protein shield called the cuticle. Washing eggs with water dissolves this barrier, opening up the shell's microscopic pores to Salmonella and other external bacteria. Simply wipe away dry dirt with a dry cloth."
+                    },
+                    {
+                        "question": "What is the scientific reason for storing eggs with the pointed end down?",
+                        "answer": "The blunt (rounded) end of the egg contains the 'Air Cell'. Keeping the rounded end pointing upward allows the air pocket to cushion the yolk, preventing it from touching the inner shell wall. This keeps the yolk centered and protects the membrane from bacterial contamination."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "卵を新鮮に保つ保存方法：科学的保管ガイド",
+                "description": "公的安全基準に基づく卵の最適な保存温度、保管方法、保存期間をご確認ください。",
+                "authority": "<strong>食品医薬品安全処(MFDS) & 米国農務省(USDA) & 米国食品医薬品局(FDA)</strong>",
+                "intro": "新鮮な卵を保存するために、水できれいに洗ってから冷蔵庫のドアポケットに入れていませんか？🥚\n\n卵の殻（卵殻）には目に見えない数千個の微細な穴（気孔）が開いており、呼吸をしている生きた食材です。水洗いすると、表面を保護している天然のタンパク質膜「クチクラ（Cuticle）」が破壊され、サルモネラ菌などの有害菌が内部に侵入しやすくなります。また、ドアポケットでの保存は頻繁な温度変化と振動で白身の弾力を急速に失わせます。\n\n本日FreshSnapでは、食品医薬品安全処（MFDS）および米国農務省（USDA）のガイドラインに基づき、卵の鮮度と 安全性を45日以上守る3段階の科学的保存法をご紹介します。🛡️",
+                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+                "guideTitle": "科学的に検証された保存ガイド",
+                "cautionTitle": "保存時の必須ルールと注意事項",
+                "tags": [
+                    "卵",
+                    "科学的に検証された保存ガイド",
+                    "dairy"
+                ],
+                "cautions": [
+                    {
+                        "title": "ヒビが入ったり割れた卵は放置せずすぐに消費してください 🍳",
+                        "desc": "微小なヒビが入った卵は、常温だけでなく冷蔵室でも空気中の細菌が侵入して急速に腐敗します。購入直後に破損した卵を選別し、見つけたらすぐに中心まで完全に加熱調理して召し上がってください。"
+                    },
+                    {
+                        "title": "ニンニクや玉ねぎなどにおいの強い食材の近くに置かないでください 🧄",
+                        "desc": "卵の殻にある数千個の気孔は、周囲のにおい成分を強く吸収します。においの強い食材の近くに密閉せず置いておくと、内部に嫌なニオイが移り、風味を損なってしまいます。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "絶対に水洗いしない — 天然保護膜（クチクラ）の維持と冷蔵保存 (45日) 💧",
+                        "text": "卵殻には7,000〜17,000個の微細な気孔が存在します。💡保存のコツ：水洗いすると外壁の保護膜であるクチクラが傷つき、浸透圧によって水分が抜け、細菌（サルモネラ菌など）が内部に侵入します。表面の汚れは水で洗わず乾いた布で軽く拭き取ってください。"
+                    },
+                    {
+                        "name": "尖った側を下にして立てて保存する — 気室の位置を維持 🥚",
+                        "text": "卵の丸い側には、空気の部屋である「気室」が存在します。💡保存のコツ：気室を下にして置くと、黄身が気室に触れて卵膜が破れ、傷みが早まります。丸い側を上、尖った側を下にして立てて保存することで、黄身が中央に固定され長持ちします。"
+                    },
+                    {
+                        "name": "ドアポケットではなく冷蔵庫の奥の棚に保存する — 温度と振動の変化防止 ❄️",
+                        "text": "ドアポケットは開閉のたびに温度変化（4〜10℃）が大きく、衝撃によって白身（濃厚卵白）の弾力が弱まります。💡保存のコツ：購入時の紙パックのまま、温度が一定な冷蔵庫本体の奥の棚（0〜4℃）で保存することが重要です。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "卵を水で洗ってから保存すると、なぜ危険なのですか？",
+                        "answer": "卵の表面は「クチクラ（Cuticle）」という天然のタンパク質保護膜で覆われています。水洗いするとこの膜が溶けて消失し、殻の気孔を通じてサルモネラ菌などの有害菌や汚染物質が内部へ簡単に侵入するためです。汚れは乾いた布で拭き取るにとどめてください。"
+                    },
+                    {
+                        "question": "卵の尖った側を下にして保存する科学的な理由は何ですか？",
+                        "answer": "卵の丸い側には空気の部屋である「気室（Air Cell）」があります。丸い側を上にすると、黄身が気室の空気層のおかげで殻の内壁に直接触れずに中央に固定され、卵膜の損傷や細菌感染を防いで長期間新鮮に保たれます。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "如何保持鸡蛋新鲜：科学储存指南",
+                "description": "根据官方食品安全指南，了解鸡蛋的最佳储存温度、方式和保鲜时长。",
+                "authority": "<strong>韩国食品医药品安全处(MFDS) & 美国农务部(USDA) & 美国食品药品监督管理局(FDA)</strong>",
+                "intro": "为了保持干净，您是否曾顺手把鸡蛋放在水龙头下冲洗，然后保存在冰箱门侧架上？🥚\n\n蛋壳（蛋壳）是由数千个肉眼不可见的气孔构成的呼吸体。用水冲洗会洗掉蛋壳表面的天然蛋白质保护膜——角质层（Cuticle），使沙门氏菌（Salmonella）等外部致病菌极易穿透气孔侵入内部。此外，存放在冰箱门侧架上会因频繁开关导致的温度波动和震动，使蛋清弹力迅速下降。\n\n今天FreshSnap基于美国食品药品监督管理局(FDA)和美国农务部(USDA)的指南，为您带来3步科学保存秘诀，帮您将鸡蛋的新鲜度与食用安全完美锁住长达45天以上。🛡️",
+                "whyTitle": "为什么要这样储存？科学原理",
+                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+                "guideTitle": "科学验证的储存指南",
+                "cautionTitle": "储存必需规则及注意事项",
+                "tags": [
+                    "鸡蛋",
+                    "科学验证的储存指南",
+                    "dairy"
+                ],
+                "cautions": [
+                    {
+                        "title": "出现裂纹或破损的鸡蛋切勿储存，请立即食用 🍳",
+                        "desc": "带有细微裂纹的鸡蛋即使在冷藏条件下，空气中的细菌也会迅速侵入导致变质。买回后请立即筛选出破损蛋，并在发现后彻底加热熟透后优先食用。"
+                    },
+                    {
+                        "title": "切勿与大蒜、洋葱等强异味食材同放 🧄",
+                        "desc": "蛋壳上的数千个气孔会像海绵一样吸收周围的挥发性气味。如果不加密封放在洋葱、大蒜或生鲜鱼类附近，异味会侵入鸡蛋内部，严重破坏其风味。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "严禁用水冲洗 — 保护天然角质层并冷藏 (45天) 💧",
+                        "text": "蛋壳表面分布着7000~17000个微小气孔。💡储存小贴士：用水冲洗会破坏外壁的角质层保护膜，导致水分流失，并使细菌（如沙门氏菌）顺着气孔渗入蛋内。表面脏污请仅用干布轻擦去除。"
+                    },
+                    {
+                        "name": "大头朝上、尖头朝下竖直摆放 — 维持气室正确位置 🥚",
+                        "text": "鸡蛋圆润的大头一端存在着积聚空气的“气室”。💡储存小贴士：如果大头朝下颠倒摆放，蛋黄会紧贴气室导致蛋膜破裂并加速变质。将大头朝上、尖头朝下竖直摆放，能让蛋黄保持在中心位置，延长保鲜期。"
+                    },
+                    {
+                        "name": "置于冰箱内部深处隔板 — 避免温度与震动波动 ❄️",
+                        "text": "冰箱门侧架在开关时温度波动剧烈（4~10℃），且震动会使浓稠蛋清变稀。💡储存小贴士：将鸡蛋连同原装纸盒存放在冰箱主舱内部深处隔板（0~4℃）上，保持恒定低温是保鲜的核心。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "为什么用水清洗鸡蛋后再储存非常危险？",
+                        "answer": "因为鸡蛋表面覆盖着一层名为“角质层（Cuticle）”的天然蛋白质保护膜。用水冲洗会溶解破坏这层保护膜，使沙门氏菌等外部有害菌和污染物通过蛋壳上的微小气孔轻松侵入内部。表面污物仅需用干布轻擦即可。"
+                    },
+                    {
+                        "question": "将鸡蛋尖头朝下摆放的科学依据是什么？",
+                        "answer": "鸡蛋的大头一端存有积聚空气的“气室（Air Cell）”。将大头朝上摆放，蛋黄在气室空气层的缓冲下不会直接接触蛋壳内壁，而是悬浮在中心，从而防止蛋膜受损与细菌感染，长久保持新鲜。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cómo mantener los huevos frescos: Guía científica de conservación",
+                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para los huevos según las directrices oficiales de seguridad.",
+                "authority": "<strong>MFDS & USDA & FDA</strong>",
+                "intro": "¿Alguna vez lavó los huevos con agua antes de guardarlos o los colocó en los compartimentos de la puerta del refrigerador? 🥚\n\nEl cascarón de huevo es una estructura orgánica cubierta por miles de poros microscópicos que le permiten respirar. Lavar los huevos elimina su capa protectora natural, llamada 'cutícula', permitiendo que bacterias dañinas como la Salmonella penetren rápidamente. Además, guardarlos en la puerta los expone a cambios de temperatura y sacudidas que debilitan la clara.\n\nHoy, FreshSnap comparte una guía científica en 3 pasos basada en las directrices de la FDA y el USDA para conservar la frescura y seguridad de sus huevos por más de 45 días. 🛡️",
+                "whyTitle": "¿Por qué almacenarlos así? Datos científicos",
+                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+                "guideTitle": "Guía de almacenamiento científicamente probada",
+                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+                "tags": [
+                    "Huevo",
+                    "Guía de almacenamiento científicamente probada",
+                    "dairy"
+                ],
+                "cautions": [
+                    {
+                        "title": "Nunca guarde huevos fisurados o quebrados 🍳",
+                        "desc": "Las bacterias del aire penetran fácilmente en cascarones fisurados, provocando una rápida descomposición incluso bajo refrigeración. Separe los huevos dañados de inmediato y cocínelos completamente antes de comer."
+                    },
+                    {
+                        "title": "Manténgalos alejados de alimentos con olores fuertes como ajo y cebolla 🧄",
+                        "desc": "Los miles de poros del cascarón absorben los olores ambientales con facilidad. Guardar huevos cerca de cebollas, ajos o pescado alterará su sabor interno natural."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Nunca lave los huevos con agua — Conserve la cutícula natural y refrigere (45 días) 💧",
+                        "text": "El cascarón contiene entre 7,000 y 17,000 poros microscópicos. 💡 Consejo de almacenamiento: Lavar los huevos destruye la capa protectora de la cutícula, permitiendo que el agua y las bacterias (como la Salmonella) entren por los poros. Limpie la suciedad en seco con una toalla de papel."
+                    },
+                    {
+                        "name": "Guarde con el extremo puntiagudo hacia abajo — Mantenga la posición de la cámara de aire 🥚",
+                        "text": "El extremo ancho y redondeado del huevo contiene la cámara de aire. 💡 Consejo de almacenamiento: Guardar el huevo con el lado ancho hacia abajo hace que la yema presione la cámara de aire, rompiendo la membrana. Mantenga el extremo puntiagudo hacia abajo para que la yema permanezca centrada."
+                    },
+                    {
+                        "name": "Coloque al fondo de los estantes interiores del refrigerador — Evite variaciones térmicas ❄️",
+                        "text": "La puerta del refrigerador sufre variaciones drásticas de temperatura (4-10 °C) cada vez que se abre, y las vibraciones ablandan la clara. 💡 Consejo de almacenamiento: Conserve los huevos en su cartón original en un estante interior profundo (0-4 °C) donde la temperatura se mantenga estable."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Por qué es peligroso lavar los huevos frescos antes de almacenarlos?",
+                        "answer": "Los huevos están recubiertos por una capa protectora de proteína natural llamada cutícula. Lavarlos con agua disuelve esta barrera, abriendo los poros microscópicos del cascarón a la Salmonella y otras bacterias. Simplemente limpie la suciedad visible con un paño seco."
+                    },
+                    {
+                        "question": "¿Cuál es la explicación científica para guardar los huevos con la punta hacia abajo?",
+                        "answer": "El extremo ancho (redondeado) del huevo alberga la 'Cámara de aire'. Mantener el lado redondeado hacia arriba permite que la bolsa de aire sirva de amortiguador para la yema, evitando que toque la pared interna del cascarón. Esto mantiene la yema centrada y la protege contra bacterias."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Comment conserver les œufs frais : Guide scientifique de conservation",
+                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les œufs selon les directives officielles de sécurité.",
+                "authority": "<strong>MFDS & USDA & FDA</strong>",
+                "intro": "Avez-vous déjà lavé vos œufs à l'eau ou les avez-vous rangés dans les balconnets de la porte de votre réfrigérateur ? 🥚\n\nLa coquille d'œuf est une structure organique percée de milliers de pores microscopiques qui lui permettent de respirer. Laver les œufs élimine leur couche protectrice naturelle, la 'cuticule', permettant à des bactéries dangereuses comme la Salmonelle de s'y infiltrer. De plus, les stocker dans la porte les expose à des écarts de température et à des secousses qui liquéfient le blanc.\n\nAujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations de la FDA et du USDA pour préserver la fraîcheur et la sécurité de vos œufs pendant plus de 45 jours. 🛡️",
+                "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
+                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+                "guideTitle": "Guide de conservation scientifiquement prouvé",
+                "cautionTitle": "Règles essentielles et précautions de stockage",
+                "tags": [
+                    "Œuf",
+                    "Guide de conservation scientifiquement prouvé",
+                    "dairy"
+                ],
+                "cautions": [
+                    {
+                        "title": "Ne conservez jamais d'œufs fêlés ou cassés 🍳",
+                        "desc": "Les bactéries de l'air s'infiltrent très facilement par les microfissures de la coquille, provoquant una altération rapide même au frais. Triez les œufs abîmés dès l'achat et cuisez-les impérativement à cœur."
+                    },
+                    {
+                        "title": "Éloignez les œufs des aliments odorants comme l'ail et l'oignon 🧄",
+                        "desc": "Les milliers de pores de la coquille absorbent facilement les odeurs ambiantes. Ranger des œufs près d'oignons, d'ail ou de poisson va altérer leur saveur naturelle."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Ne lavez jamais les œufs à l'eau — Conserver la cuticule et réfrigérer (45 jours) 💧",
+                        "text": "La coquille d'œuf comporte entre 7 000 et 17 000 pores microscopiques. 💡 Astuce de conservation : Laver les œufs dissout la cuticule protectrice, laissant l'eau et les bactéries (Salmonelles) pénétrer par les pores. Épongez la saleté à sec avec du papier absorbant au lieu de laver."
+                    },
+                    {
+                        "name": "Ranger le bout pointu vers le bas — Conserver la chambre à air 🥚",
+                        "text": "Le gros bout arrondi de l'œuf abrite la chambre à air. 💡 Astuce de conservation : Placer le gros bout vers le bas fait appuyer le jaune contre la poche d'air, ce qui peut déchirer la membrane. Gardez la pointe vers le bas et le gros bout vers le haut pour garder le jaune bien centré."
+                    },
+                    {
+                        "name": "Placer au fond des étagères intérieures — Éviter les écarts de température ❄️",
+                        "text": "Le balconnet de la porte subit de fortes variations de température (4–10 °C) à chaque ouverture, et les vibrations liquéfient le blanc d'œuf. 💡 Astuce de conservation : Conservez les œufs dans leur boîte en carton d'origine sur une étagère intérieure (0–4 °C)."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Pourquoi est-il dangereux de laver les œufs frais avant de les stocker ?",
+                        "answer": "Les œufs sont recouverts d'un film protéique naturel appelé cuticule. Le lavage à l'eau dissout cette barrière, ce qui ouvre les pores microscopiques de la coquille aux Salmonelles et autres bactéries. Éliminez simplement les salissures avec un chiffon sec."
+                    },
+                    {
+                        "question": "Quelle est l'explication scientifique au stockage des œufs la pointe vers le bas ?",
+                        "answer": "Le gros bout (arrondi) de l'œuf contient la 'Chambre à air'. Laisser ce bout vers le haut permet à la poche d'air d'amortir le jaune, l'empêchant d'entrer en contact direct avec la paroi interne de la coquille. Cela garde le jaune centré et le protège des contaminations."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Eier richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Eier basierend auf offiziellen Sicherheitsrichtlinien.",
+                "authority": "<strong>MFDS & USDA & FDA</strong>",
+                "intro": "Haben Sie frische Eier schon einmal unter fließendem Wasser gewaschen oder in den Fächern der Kühlschranktür gelagert? 🥚\n\nEine Eierschale ist ein organisches Gebilde mit Tausenden mikroskopisch kleinen Poren, durch die das Ei atmet. Das Waschen von Eiern entfernt die natürliche Schutzschicht, die sogenannte 'Kutikula', wodurch Krankheitserreger wie Salmonellen rasch ins Innere gelangen. Zudem führt die Lagerung in der Kühlschranktür zu Temperaturschwankungen und Erschütterungen, die das Eiklar verflüssigen.\n\nHeute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Richtlinien von FDA und USDA basiert, um die Frische und Sicherheit Ihrer Eier über 45 Tage lang zu garantieren. 🛡️",
+                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+                "tags": [
+                    "Ei",
+                    "Wissenschaftlich geprüfter Lagerungsratgeber",
+                    "dairy"
+                ],
+                "cautions": [
+                    {
+                        "title": "Lagern Sie niemals beschädigte oder angeknackste Eier 🍳",
+                        "desc": "Bakterien aus der Luft dringen leicht durch Mikrorisse in der Eierschale ein und führen selbst im Kühlschrank zu schnellem Verderb. Sortieren Sie beschädigte Eier sofort aus und garen Sie sie vor dem Verzehr vollständig durch."
+                    },
+                    {
+                        "title": "Von stark riechenden Lebensmitteln wie Knoblauch und Zwiebeln fernhalten 🧄",
+                        "desc": "Die Tausenden Poren der Eierschale nehmen Gerüche aus der Umgebung rasch auf. Wenn Eier unverschlossen neben Zwiebeln, Knoblauch oder Fisch liegen, nehmen sie Fremdgerüche an."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Eier niemals mit Wasser waschen — Natürliche Kutikula erhalten & kühlen (45 Tage) 💧",
+                        "text": "Eierschalen besitzen zwischen 7.000 und 17.000 mikroskopische Poren. 💡 Lagerungstipp: Das Waschen zerstört die Schutzschicht (Kutikula), sodass Wasser und Bakterien (wie Salmonellen) eintreten können. Reiben Sie Schmutz stattdessen nur trocken mit Küchenpapier ab."
+                    },
+                    {
+                        "name": "Mit dem spitzen Ende nach unten lagern — Lage der Luftkammer stabilisieren 🥚",
+                        "text": "Das stumpfe, runde Ende des Eies enthält die Luftkammer. 💡 Lagerungstipp: Wenn das stumpfe Ende unten liegt, drückt das Eigelb gegen die Luftkammer, was die Membran schädigen kann. Lagern Sie das spitze Ende nach unten, damit das Eigelb zentriert bleibt."
+                    },
+                    {
+                        "name": "Tief im Inneren des Kühlschranks platzieren — Temperaturschwankungen vermeiden ❄️",
+                        "text": "Die Tür des Kühlschranks unterliegt bei jedem Öffnen Temperaturschwankungen (4–10 °C), und Erschütterungen schwächen das Eiklar. 💡 Lagerungstipp: Belassen Sie Eier im Eierkarton auf einem tiefen Innenregal (0–4 °C), wo die Temperatur konstant bleibt."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Warum ist es gefährlich, frische Eier vor der Lagerung zu waschen?",
+                        "answer": "Eierschalen sind mit einer natürlichen Proteinschicht, der Kutikula, überzogen. Das Waschen mit Wasser löst diese Schutzschicht auf und öffnet die mikroskopischen Poren der Schale für Salmonellen und andere Keime. Wischen Sie Schmutz einfach mit einem trockenen Tuch ab."
+                    },
+                    {
+                        "question": "Was ist der wissenschaftliche Grund dafür, Eier mit der Spitze nach unten zu lagern?",
+                        "answer": "Das stumpfe (runde) Ende des Eies enthält die 'Luftkammer'. Wenn das runde Ende nach oben zeigt, dient das Luftpolster als Puffer für das Eigelb, sodass es nicht direkt die innere Schalenwand berührt. Dies hält das Eigelb zentriert und schützt vor Bakterien."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Como conservar ovos frescos: Guia científico de armazenamento",
+                "description": "Descubra a temperatura, método e tempo de conservação ideais para ovos com base em diretrizes oficiais de segurança.",
+                "authority": "<strong>MFDS & USDA & FDA</strong>",
+                "intro": "Você já lavou ovos frescos em água corrente ou os guardou nos suportes da porta da geladeira? 🥚\n\nA casca do ovo é uma estrutura orgânica coberta por milhares de poros microscópicos que permitem sua respiração. Lavar os ovos remove sua camada protetora natural, chamada 'cutícula', permitindo que bactérias nocivas como a Salmonella penetrem rapidamente. Além disso, guardá-los na porta os expõe a variações de temperatura e impactos que afinam a clara.\n\nHoje, o FreshSnap apresenta um guia de conservação em 3 etapas baseado em diretrizes da FDA e do USDA para manter a frescura e a segurança dos seus ovos por mais de 45 dias. 🛡️",
+                "whyTitle": "Por que armazenar assim? Fatos científicos",
+                "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+                "guideTitle": "Guia de armazenamento comprovado cientificamente",
+                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+                "tags": [
+                    "Ovo",
+                    "Guia de armazenamento comprovado cientificamente",
+                    "dairy"
+                ],
+                "cautions": [
+                    {
+                        "title": "Nunca guarde ovos trincados ou quebrados 🍳",
+                        "desc": "Bactérias presentes no ar penetram facilmente em cascas trincadas, causando rápida deterioração mesmo na geladeira. Separe ovos danificados imediatamente após a compra e cozinhe-os bem antes de consumir."
+                    },
+                    {
+                        "title": "Mantenha longe de alimentos com cheiro forte, como alho e cebola 🧄",
+                        "desc": "Os milhares de poros da casca absorvem odores do ambiente facilmente. Guardar ovos perto de cebolas, alho ou peixe contaminará o sabor interno natural."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Nunca lave os ovos com água — Preserve a cutícula natural e refrigere (45 dias) 💧",
+                        "text": "A casca do ovo contém entre 7.000 e 17.000 poros microscópicos. 💡 Dica de conservação: Lavar os ovos destrói a camada protetora da cutícula, permitindo a entrada de água e bactérias (como Salmonella). Limpe a sujeira a seco com papel-toalha em vez de lavar."
+                    },
+                    {
+                        "name": "Guarde com a ponta fina para baixo — Mantenha a câmara de ar no lugar 🥚",
+                        "text": "O lado arredondado do ovo contém a câmara de ar. 💡 Dica de conservação: Guardar o ovo com o lado arredondado para baixo faz a gema pressionar a câmara de ar, rompendo a membrana. Mantenha a ponta fina para baixo para a gema permanecer centralizada."
+                    },
+                    {
+                        "name": "Coloque no fundo das prateleiras internas da geladeira — Evite oscilações de temperatura ❄️",
+                        "text": "A porta da geladeira sofre variações drásticas de temperatura (4-10 °C) cada vez que é aberta, e os impactos afinam a clara. 💡 Dica de conservação: Mantenha os ovos em sua caixa original em uma prateleira interna profunda (0-4 °C)."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Por que é perigoso lavar ovos frescos antes de guardar?",
+                        "answer": "Os ovos são revestidos por uma camada protetora de proteína natural chamada cutícula. Lavá-los com água dissolve essa barreira, abrindo os poros microscópicos da casca para a Salmonella e outras bactérias. Limpe o excesso de sujeira apenas com um pano seco."
+                    },
+                    {
+                        "question": "Qual é a explicação científica para guardar os ovos com a ponta fina para baixo?",
+                        "answer": "O lado arredondado do ovo abriga a 'Câmara de ar'. Manter o lado arredondado voltado para cima permite que a bolsa de ar amorteça a gema, impedindo que ela encoste na parede interna da casca. Isso mantém a gema centralizada e protegida contra bactérias."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Cara Menyimpan Telur agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk telur berdasarkan pedoman keselamatan resmi.",
+                "authority": "<strong>MFDS & USDA & FDA</strong>",
+                "intro": "Pernahkah Anda mencuci telur segar dengan air lalu menyimpannya di rak pintu kulkas? 🥚\n\nCangkang telur adalah struktur organik yang dilapisi ribuan pori-pori mikroskopis untuk bernapas. Mencuci telur akan mengikis lapisan pelindung alaminya yang disebut 'kutikula', memungkinkan bakteri berbahaya seperti Salmonella masuk ke dalam dengan cepat. Selain itu, menyimpannya di pintu kulkas memaparkan telur pada perubahan suhu dan guncangan yang mengencerkan putih telur.\n\nHari ini, FreshSnap membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan pedoman FDA dan USDA untuk menjaga kesegaran dan keamanan telur Anda selama lebih dari 45 hari. 🛡️",
+                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+                "tags": [
+                    "Telur",
+                    "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                    "dairy"
+                ],
+                "cautions": [
+                    {
+                        "title": "Jangan pernah menyimpan telur yang retak atau pecah 🍳",
+                        "desc": "Bakteri di udara sangat mudah masuk melalui retakan halus pada cangkang telur, menyebabkan pembusukan cepat meskipun di dalam kulkas. Segera pisahkan telur yang retak saat dibeli dan masak hingga matang sebelum dimakan."
+                    },
+                    {
+                        "title": "Jauhkan dari makanan berbau menyengat seperti bawang dan ikan 🧄",
+                        "desc": "Ribuan pori-pori pada cangkang telur sangat mudah menyerap bau di sekitarnya. Menyimpan telur tanpa segel di dekat bawang putih, bawang bombai, atau ikan akan mencemari rasa alami telur."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Jangan pernah mencuci telur dengan air — Jaga Lapisan Kutikula Alami & Simpan Dingin (45 Hari) 💧",
+                        "text": "Cangkang telur memiliki antara 7.000 hingga 17.000 pori-pori mikroskopis. 💡 Tips Penyimpanan: Mencuci telur merusak lapisan pelindung kutikula, membuat air dan bakteri (seperti Salmonella) masuk. Lap kotoran kering dengan tisu dapur tanpa perlu dicuci."
+                    },
+                    {
+                        "name": "Simpan dengan bagian runcing menghadap ke bawah — Jaga Posisi Kantong Udara 🥚",
+                        "text": "Bagian tumpul telur memiliki kantong udara (Air Cell). 💡 Tips Penyimpanan: Menyimpan telur dengan bagian tumpul di bawah membuat kuning telur menekan kantong udara, merobek membran dan mempercepat pembusukan. Posisikan bagian runcing di bawah agar kuning telur tetap di tengah."
+                    },
+                    {
+                        "name": "Letakkan di rak bagian dalam kulkas — Hindari Perubahan Suhu ❄️",
+                        "text": "Rak pintu kulkas mengalami perubahan suhu yang ekstrem (4–10°C) setiap kali dibuka, dan guncangan akan mengencerkan putih telur. 💡 Tips Penyimpanan: Simpan telur dalam karton aslinya di rak bagian dalam kulkas (0–4°C) dengan suhu stabil."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mengapa berbahaya mencuci telur segar sebelum disimpan?",
+                        "answer": "Cangkang telur dilapisi pelindung protein alami bernama kutikula. Mencuci telur dengan air akan melarutkan lapisan ini, membuka pori-pori mikroskopis cangkang bagi bakteri Salmonella dan kontaminan lainnya. Cukup bersihkan kotoran dengan kain kering."
+                    },
+                    {
+                        "question": "Apa alasan ilmiah menyimpan telur dengan bagian runcing menghadap ke bawah?",
+                        "answer": "Bagian tumpul telur memiliki 'Kantong Udara (Air Cell)'. Membiarkan bagian tumpul di atas membuat bantalan udara menahan kuning telur agar tidak menyentuh dinding dalam cangkang. Ini menjaga kuning telur tetap di tengah dan terhindar dari kontaminasi bakteri."
+                    }
+                ]
+            }
+        }
     }
-  }
 }

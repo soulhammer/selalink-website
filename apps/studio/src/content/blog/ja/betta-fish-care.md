@@ -6,7 +6,7 @@ pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
 category: "FreshSelf"
 tags: ["ペットケア","ペット健康","ベタ (Betta splendens / 闘魚)"]
-heroImage: "/images/blog/betta_fish_care.png"
+heroImage: "/images/blog/betta_fish_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "世界小動物獣医師会 (WSAVA) 水生動物健康ガイドラインおよび観賞魚臨床標準"

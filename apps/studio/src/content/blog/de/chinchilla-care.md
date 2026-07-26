@@ -6,7 +6,7 @@ pubDate: "2026-06-27"
 updatedDate: "2026-06-27"
 category: "FreshSelf"
 tags: ["Haustierpflege","Haustiergesundheit","Chinchilla (Chinchilla lanigera)"]
-heroImage: "/images/blog/chinchilla_care.png"
+heroImage: "/images/blog/chinchilla_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Haltungsrichtlinien der Association of Exotic Mammal Veterinarians (AEMV) für Chinchillas und klinische Standards der Zahnmedizin bei Nagern"

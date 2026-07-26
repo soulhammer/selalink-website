@@ -6,7 +6,7 @@ pubDate: "2026-01-21"
 updatedDate: "2026-01-21"
 category: "FreshSelf"
 tags: ["PetCare","PetHealth","Golden Hamster (Mesocricetus auratus / Syrian Hamster)"]
-heroImage: "/images/blog/golden_hamster_care.png"
+heroImage: "/images/blog/golden_hamster_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Humane Society Hamster Care Guide and Veterinary Behavior Standards"

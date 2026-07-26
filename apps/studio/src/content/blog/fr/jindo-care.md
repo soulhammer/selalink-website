@@ -6,7 +6,7 @@ pubDate: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "FreshSelf"
 tags: ["SoinAnimaux","SanteAnimaux","Chien Jindo (Canis lupus familiaris)"]
-heroImage: "/images/blog/jindo_care.png"
+heroImage: "/images/blog/jindo_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Directives de l'Institut National des Sciences Animales de Corée et Protocoles d'Experts de la KKC"

@@ -6,7 +6,7 @@ pubDate: "2026-06-01"
 updatedDate: "2026-06-01"
 category: "FreshSelf"
 tags: ["CuidadoMascotas","SaludMascotas","Ajolote / Axolote (Axolotl)"]
-heroImage: "/images/blog/axolotl_care.png"
+heroImage: "/images/blog/axolotl_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Protocolo Veterinario Internacional de Cría de Anfibios y Amphibian Ark"

@@ -6,7 +6,7 @@ pubDate: "2026-01-20"
 updatedDate: "2026-01-22"
 category: "FreshSelf"
 tags: ["CuidadoPets","SaudePets","Maltês (Canis lupus familiaris / Maltese)"]
-heroImage: "/images/blog/maltese_care.png"
+heroImage: "/images/blog/maltese_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Guia Oficial de Raças do American Kennel Club (AKC) e Protocolos de Comportamento da IAABC"

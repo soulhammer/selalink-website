@@ -6,7 +6,7 @@ pubDate: "2026-06-05"
 updatedDate: "2026-06-05"
 category: "FreshSelf"
 tags: ["PerawatanHewan","KesehatanHewan","Kucing Persia (Felis catus / Persian Cat)"]
-heroImage: "/images/blog/persian_care.png"
+heroImage: "/images/blog/persian_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Pedoman Ras CFA untuk Persia & Standar Kedokteran Hewan Kucing AAFP"

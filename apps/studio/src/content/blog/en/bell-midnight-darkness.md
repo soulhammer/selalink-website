@@ -48,7 +48,7 @@ In today's post, we examine the brain science underlying Alexander Graham Bell's
 
 ## 1. Activation of Visuospatial Sketchpad Circuits via Visual and Auditory Deprivation
 
-Neuroscientifically, temporarily cutting off external visual and auditory stimuli entering the eyes and ears allows the brain to reallocate attention previously spent on sensory receptors toward high-order association cortices. This Sensory Deprivation state suppresses amygdalar anxiety responses and strongly activates the 'Visuospatial Sketchpad' circuit essential to working memory. Consequently, the prefrontal cortex's executive control functions—which mentally visualize and assemble complex structures or ideas in 3D—improve dramatically.
+Neuroscientifically, temporarily cutting off external visual and auditory stimuli entering the eyes and ears allows the brain to reallocate attention previously spent on sensory receptors toward high-order association cortices. This Sensory Deprivation state suppresses amygdalar anxietyand strongly activates the 'Visuospatial Sketchpad' circuit essential to working memory. Consequently, the prefrontal cortex's executive control functions—which mentally visualize and assemble complex structures or ideas in 3D—improve dramatically.
 
 ---
 

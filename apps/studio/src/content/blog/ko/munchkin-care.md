@@ -6,7 +6,7 @@ pubDate: "2026-05-31"
 updatedDate: "2026-05-31"
 category: "FreshSelf"
 tags: ["반려동물","펫케어","먼치킨 고양이 (Felis catus / Munchkin Cat)"]
-heroImage: "/images/blog/munchkin_care.png"
+heroImage: "/images/blog/munchkin_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "국제고양이애호가협회(CFA) 먼치킨 품종 표준 및 수의 정형외과 가이드라인"

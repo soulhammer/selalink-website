@@ -6,7 +6,7 @@ pubDate: "2026-06-27"
 updatedDate: "2026-06-27"
 category: "FreshSelf"
 tags: ["SoinAnimaux","SanteAnimaux","Chinchilla (Chinchilla lanigera)"]
-heroImage: "/images/blog/chinchilla_care.png"
+heroImage: "/images/blog/chinchilla_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Directives d'Élevage du Chinchilla de l'Association of Exotic Mammal Veterinarians (AEMV) et Normes Cliniques de Dentisterie des Rongeurs"

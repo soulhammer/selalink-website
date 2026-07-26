@@ -6,7 +6,7 @@ pubDate: "2026-05-31"
 updatedDate: "2026-05-31"
 category: "FreshSelf"
 tags: ["CuidadoMascotas","SaludMascotas","Gato Munchkin (Felis catus)"]
-heroImage: "/images/blog/munchkin_care.png"
+heroImage: "/images/blog/munchkin_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Estándares de la Raza Munchkin de la Cat Fanciers' Association (CFA) y Directrices de Ortopedia Veterinaria"

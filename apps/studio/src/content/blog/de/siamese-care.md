@@ -6,7 +6,7 @@ pubDate: "2026-02-19"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
 tags: ["Haustierpflege","Haustiergesundheit","Siamese (Siamkatze)"]
-heroImage: "/images/blog/siamese_care.png"
+heroImage: "/images/blog/siamese_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Offizieller Leitfaden der Cat Fanciers' Association (CFA) & AAFP-Katzenverhaltensprotokolle"

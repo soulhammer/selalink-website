@@ -6,7 +6,7 @@ pubDate: "2026-04-20"
 updatedDate: "2026-04-20"
 category: "FreshSnap"
 tags: ["ConservacaoAlimentos","ArmazenamentoFresco","tofu"]
-heroImage: "/images/blog/tofu_storage_hack.png"
+heroImage: "/images/blog/tofu_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & USDA & Mayo Clinic</strong>"

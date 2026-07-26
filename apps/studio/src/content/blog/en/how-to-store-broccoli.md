@@ -6,7 +6,7 @@ pubDate: "2026-03-07"
 updatedDate: "2026-03-07"
 category: "FreshSnap"
 tags: ["FoodStorage","FreshStorage","broccoli"]
-heroImage: "/images/blog/broccoli_storage_hack.png"
+heroImage: "/images/blog/broccoli_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & USDA & EFSA</strong>"

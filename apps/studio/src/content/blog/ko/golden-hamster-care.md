@@ -6,7 +6,7 @@ pubDate: "2026-01-21"
 updatedDate: "2026-01-21"
 category: "FreshSelf"
 tags: ["반려동물","펫케어","골든 햄스터 (Mesocricetus auratus)"]
-heroImage: "/images/blog/golden_hamster_care.png"
+heroImage: "/images/blog/golden_hamster_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Humane Society 햄스터 케어 가이드 및 수의학 행동 지침"

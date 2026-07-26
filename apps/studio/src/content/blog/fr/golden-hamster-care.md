@@ -6,7 +6,7 @@ pubDate: "2026-01-21"
 updatedDate: "2026-01-21"
 category: "FreshSelf"
 tags: ["SoinAnimaux","SanteAnimaux","Hamster Syrien / Doré (Mesocricetus auratus)"]
-heroImage: "/images/blog/golden_hamster_care.png"
+heroImage: "/images/blog/golden_hamster_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Guide de Soins des Hamsters de la Humane Society et Protocoles Comportementaux Vétérinaires"

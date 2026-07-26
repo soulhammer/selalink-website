@@ -6,7 +6,7 @@ pubDate: "2026-05-31"
 updatedDate: "2026-05-31"
 category: "FreshSelf"
 tags: ["Haustierpflege","Haustiergesundheit","Munchkin-Katze (Felis catus)"]
-heroImage: "/images/blog/munchkin_care.png"
+heroImage: "/images/blog/munchkin_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Munchkin-Rassenstandards der Cat Fanciers' Association (CFA) und Richtlinien der Tierärztlichen Orthopädie"

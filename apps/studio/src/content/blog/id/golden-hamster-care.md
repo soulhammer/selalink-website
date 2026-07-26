@@ -6,7 +6,7 @@ pubDate: "2026-01-21"
 updatedDate: "2026-01-21"
 category: "FreshSelf"
 tags: ["PerawatanHewan","KesehatanHewan","Hamster Suriah / Emas (Mesocricetus auratus)"]
-heroImage: "/images/blog/golden_hamster_care.png"
+heroImage: "/images/blog/golden_hamster_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Panduan Perawatan Hamster Humane Society dan Standar Perilaku Veteriner"

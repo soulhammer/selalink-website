@@ -6,7 +6,7 @@ pubDate: "2026-02-03"
 updatedDate: "2026-02-03"
 category: "FreshSelf"
 tags: ["PerawatanHewan","KesehatanHewan","Samoyed (Canis lupus familiaris)"]
-heroImage: "/images/blog/samoyed_care.png"
+heroImage: "/images/blog/samoyed_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Panduan Ras Samoyed AKC & Pedoman OFA (Orthopedic Foundation for Animals)"

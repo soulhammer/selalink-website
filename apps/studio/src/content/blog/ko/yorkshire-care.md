@@ -6,7 +6,7 @@ pubDate: "2026-01-02"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
 tags: ["반려동물","펫케어","요크셔테리어 (Yorkshire Terrier)"]
-heroImage: "/images/blog/yorkshire_care.png"
+heroImage: "/images/blog/yorkshire_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "영국 요크셔테리어 클럽(YTC) 공식 피모 가이드 및 수의정형외학 행동 지침"

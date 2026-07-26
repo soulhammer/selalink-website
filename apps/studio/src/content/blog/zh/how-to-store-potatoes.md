@@ -6,7 +6,7 @@ pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "FreshSnap"
 tags: ["食材保存","保鲜技巧","potato"]
-heroImage: "/images/blog/potato_storage_hack.png"
+heroImage: "/images/blog/potato_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>韩国食品医药品安全处(MFDS) & 韩国农村振兴厅(RDA) & 英国食品标准局(FSA)</strong>"

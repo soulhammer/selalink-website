@@ -6,7 +6,7 @@ pubDate: "2026-06-03"
 updatedDate: "2026-06-03"
 category: "FreshSnap"
 tags: ["食材保存","保鲜技巧","perilla-oil"]
-heroImage: "/images/blog/perilla_oil_storage_hack.png"
+heroImage: "/images/blog/perilla_oil_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS) & 美国农务部(USDA)</strong>"

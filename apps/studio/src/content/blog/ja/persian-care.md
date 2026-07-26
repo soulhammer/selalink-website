@@ -6,7 +6,7 @@ pubDate: "2026-06-05"
 updatedDate: "2026-06-05"
 category: "FreshSelf"
 tags: ["ペットケア","ペット健康","ペルシアン猫 (Felis catus / Persian Cat)"]
-heroImage: "/images/blog/persian_care.png"
+heroImage: "/images/blog/persian_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "CFAペルシアン種族ガイド＆AAFP猫臨床獣医学指針"

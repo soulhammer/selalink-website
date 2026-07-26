@@ -6,7 +6,7 @@ pubDate: "2026-03-26"
 updatedDate: "2026-03-26"
 category: "FreshSelf"
 tags: ["ペットケア","ペット健康","ロシアンブルー (Felis catus / Russian Blue)"]
-heroImage: "/images/blog/russian_blue_care.png"
+heroImage: "/images/blog/russian_blue_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "キャットファンシャーズアソシエーション(CFA)ガイド＆コーネル猫健康センター行動指針"

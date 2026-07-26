@@ -30,7 +30,7 @@ Carl Sagan (1934–1996) was a leading 20th-century American astronomer, directo
 
 On February 14, 1990, as Voyager 1 was leaving the solar system, Sagan persuaded NASA to turn its camera back toward Earth. Despite internal opposition, his persistence yielded a famous photograph of Earth as a 0.12-pixel point of light from 6 billion kilometers away: the 'Pale Blue Dot'.
 
-Before launching into demanding research and writing each day, Sagan followed a perspective-reset routine: quietly gazing at this photo of the Pale Blue Dot and distant nebulae for 3 minutes. By zooming out to view himself and Earth from cosmic dimensions, he shed daily anxieties, subdued amygdala stress responses, and focused intensely on essential work.
+Before launching into demanding research and writing each day, Sagan followed a perspective-reset routine: quietly gazing at this photo of the Pale Blue Dot and distant nebulae for 3 minutes. By zooming out to view himself and Earth from cosmic dimensions, he shed daily anxieties, subdued amygdala stress, and focused intensely on essential work.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -48,7 +48,7 @@ Before launching into demanding research and writing each day, Sagan followed a 
 
 ## 1. How Cosmic Awe Calms Amygdala and Egotistical Stress
 
-Neuropsychology calls this the <strong>'Small-Self Effect'</strong>. Visualizing the vast awe of the cosmos or nature calms hyperactive stress responses in the brain's amygdala and insula, replacing trivial anxieties with a broad objective perspective.
+Neuropsychology calls this the <strong>'Small-Self Effect'</strong>. Visualizing the vast awe of the cosmos or nature calms hyperactive stressin the brain's amygdala and insula, replacing trivial anxieties with a broad objective perspective.
 
 ---
 

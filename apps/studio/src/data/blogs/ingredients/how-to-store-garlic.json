@@ -1,454 +1,454 @@
 {
-  "how-to-store-garlic": {
-    "ingId": "garlic",
-    "pubDate": "2026-02-02",
-    "updatedDate": "2026-02-02",
-    "heroImage": "/images/blog/garlic_storage_hack.png",
-    "category": "FreshSnap",
-    "app": "freshsnap",
-    "formatVersion": 4,
-    "locales": {
-      "ko": {
-        "title": "마늘 신선하게 보관하는 법: 과학적 보관 가이드",
-        "description": "공인된 안전 가이드라인에 따른 마늘의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-        "authority": "<strong>농촌진흥청(RDA) & 식품의약품안전처(MFDS) & 미국 농무부(USDA)</strong>",
-        "intro": "요리할 때마다 껍질을 벗기기 번거로워 대량으로 까놓은 마늘, 며칠 만에 표면에 진물이 생기고 하얀 곰팡이가 피어 버려본 경험 있으시죠? 🧄\n\n마늘은 껍질을 벗기는 순간 표면의 보호막이 사라져 주변 습도에 매우 민감하게 반응합니다. 보관용기 내부의 미세한 결로와 수분은 곰팡이 포자와 세균이 번식하기 가장 좋은 환경을 제공하므로, 수분 통제가 신선도 유지의 절대적인 핵심입니다.\n\n오늘 FreshSnap에서는 농촌진흥청(RDA)과 미국 농무부(USDA)의 검증된 연구를 바탕으로, 통마늘과 깐 마늘, 다진 마늘의 신선함과 알리신 영양소를 오래 유지하는 3단계 과학적 보관 비법을 전해드립니다. 🛡️",
-        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-        "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-        "guideTitle": "과학적으로 검증된 보관 가이드",
-        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-        "tags": [
-          "마늘",
-          "과학적으로 검증된 보관 가이드",
-          "vegetable"
-        ],
-        "cautions": [
-          {
-            "title": "상처 나거나 싹이 난 마늘은 발견 즉시 따로 분리하세요 🧄",
-            "desc": "상처가 생기거나 싹이 트기 시작한 마늘은 세포 조직이 손상되어 에틸렌 가스와 수분 분출량이 급증합니다. 이는 주변의 멀쩡한 깐 마늘까지 무르게 만들고 함께 부패시키므로, 상처 난 부위는 칼로 도려내어 바로 요리에 사용하세요."
-          },
-          {
-            "title": "곰팡이가 핀 마늘은 물로 씻어 드시지 마세요 ⚠️",
-            "desc": "마늘 표면에 푸른 곰팡이나 검은 곰팡이가 생겼다면 겉면만 씻어서 사용해서는 안 됩니다. 곰팡이 포자와 균사체 독소가 눈에 보이지 않는 과육 내부 깊숙이 침투한 상태이므로 배탈과 위장 장애를 유발할 수 있어 즉시 폐기해야 합니다."
-          }
-        ],
-        "steps": [
-          {
-            "name": "밀폐용기 바닥에 설탕과 키친타월 깔고 깐 마늘 보관하기 — 냉장 보관 (14~21일) 🪙",
-            "text": "깐 마늘은 수분에 노출되면 무름 현상과 곰팡이 번식이 순식간에 일어납니다. 💡 보관 팁: 밀폐용기 바닥에 설탕을 1cm 두께로 고르게 깔고, 그 위에 키친타월을 2~3겹 덮은 뒤 깐 마늘을 담으세요. 설탕은 주변 습기를 강력하게 흡수하는 천연 제습제 역할을 하여 마늘 표면을 송골송골 건조하게 유지해 줍니다."
-          },
-          {
-            "name": "통마늘은 바람이 잘 통하는 그물망에 걸어두기 — 실온 보관 (30~60일) 🌬️",
-            "text": "껍질을 벗기지 않은 통마늘을 냉장고에 넣으면 냉장실의 저온 다습한 환경 때문에 수면 상태가 깨지며 싹이 나거나 뿌리가 내리고 부패합니다. 💡 보관 팁: 통마늘은 양파망이나 통기성 그물백에 담아 직사광선이 들지 않는 서늘하고 바람이 통하는 상온(10~15℃) 그늘에 매달아 보관하세요."
-          },
-          {
-            "name": "다진 마늘은 실리콘 큐브 틀에 얼려 소분 보관하기 — 냉동 보관 (180일) ❄️",
-            "text": "마늘을 다지면 세포가 파괴되면서 알리신 성분이 활성화되지만, 공기와 접촉하면 빠르게 산화하여 갈변하고 풍미가 떨어집니다. 💡 보관 팁: 다진 마늘을 지퍼백에 넓게 펴서 칼등으로 바둑판 모양의 선을 내어 얼리거나, 실리콘 큐브 틀에 담아 냉동(-18℃ 이하) 보관하세요. 필요할 때 한 조각씩 꺼내어 사용하면 영양 손실 없이 간편합니다."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "깐 마늘을 냉장고에 둘 때 바닥에 설탕을 까는 이유는 무엇인가요?",
-            "answer": "설탕은 공기 중의 수분을 유인하여 흡수하는 높은 흡습성(Hygroscopic property)을 가지고 있습니다. 밀폐 용기 바닥에 설탕을 깔고 키친타월을 덮으면 용기 내부의 미세 결로와 마늘에서 배어나오는 습기를 설탕이 모두 흡수하여, 마늘이 수분에 짓물러 곰팡이가 피는 것을 효과적으로 방지합니다."
-          },
-          {
-            "question": "통마늘을 냉장고에 넣으면 왜 안 되나요?",
-            "answer": "껍질이 있는 통마늘은 냉장실(0~4℃)의 습하고 차가운 환경에 들어가면 휴면 상태가 깨져 싹이 트고 뿌리가 내리기 시작합니다. 또한 냉장고 내부의 습기로 인해 알갱이가 차례로 무르고 곰팡이가 생기기 쉬우므로, 껍질째 보관할 때는 반드시 통풍이 잘되는 서늘한 상온 그늘에 두어야 합니다."
-          }
-        ]
-      },
-      "en": {
-        "title": "How to Keep Garlic Fresh: Scientific Storage Guide",
-        "description": "Check the optimal storage temperature, method, and shelf life for garlic based on official safety guidelines.",
-        "authority": "<strong>RDA & MFDS & USDA</strong>",
-        "intro": "Have you ever peeled a large batch of garlic to save time while cooking, only to find it turning soft, slimy, and covered in white mold a few days later? 🧄\n\nThe moment garlic is peeled, its protective outer skin is lost, making it extremely sensitive to humidity. Microscopic condensation and trapped moisture inside storage containers create an ideal breeding ground for mold spores and bacteria, making humidity control the ultimate key to freshness.\n\nToday, FreshSnap shares a scientifically proven 3-step storage guide based on research from the USDA and RDA to preserve flavor, nutrients, and allicin content across whole, peeled, and minced garlic for longer. 🛡️",
-        "whyTitle": "Why Store Garlic This Way? Scientific Facts",
-        "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
-        "guideTitle": "Scientifically Proven Storage Guide",
-        "cautionTitle": "Essential Storage Rules and Cautions",
-        "tags": [
-          "Garlic",
-          "Scientifically Proven Storage Guide",
-          "vegetable"
-        ],
-        "cautions": [
-          {
-            "title": "Isolate bruised or sprouted garlic cloves immediately 🧄",
-            "desc": "Garlic cloves with bruises or sprouting roots suffer cell tissue damage, significantly increasing their release of ethylene gas and moisture. This causes surrounding healthy peeled cloves to soften and decay; slice away damaged parts and use them right away."
-          },
-          {
-            "title": "Never eat garlic that has developed surface mold ⚠️",
-            "desc": "If blue or black mold appears on garlic, simply washing the surface is not safe. Mold spores and mycotoxins penetrate deep into the soft fleshy tissue invisibly, which can cause severe stomach upset and digestive issues. Discard moldy garlic immediately."
-          }
-        ],
-        "steps": [
-          {
-            "name": "Spread sugar and paper towels at the bottom for peeled garlic — Cold Storage (14–21 Days) 🪙",
-            "text": "Peeled garlic rots and molds rapidly when exposed to surface moisture. 💡 Storage Tip: Spread a 1 cm layer of sugar evenly at the bottom of an airtight container, cover it with 2–3 layers of paper towels, and place peeled garlic cloves on top. Sugar acts as a natural desiccant that draws in moisture, keeping the garlic dry and fresh."
-          },
-          {
-            "name": "Hang unpeeled whole garlic heads in a mesh bag — Room Temp Storage (30–60 Days) 🌬️",
-            "text": "Refrigerating unpeeled whole garlic heads breaks their dormancy due to cold humidity, triggering root growth, sprouting, and rapid decay. 💡 Storage Tip: Store whole garlic heads in an onion mesh bag or breathable net and hang them in a cool, dark, well-ventilated area (10–15°C / 50–59°F) away from direct sunlight."
-          },
-          {
-            "name": "Freeze minced garlic in silicone cube trays — Frozen Storage (180 Days) ❄️",
-            "text": "Mincing garlic breaks cellular structures and activates allicin, but air contact rapidly oxidizes it, turning it brown and diminishing flavor. 💡 Storage Tip: Flatten minced garlic in a Ziploc bag scored with grid lines or freeze in silicone ice cube trays below -18°C. Pop out a single cube whenever needed for quick, nutrient-rich cooking."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Why is sugar placed at the bottom of the container when storing peeled garlic in the fridge?",
-            "answer": "Sugar has strong hygroscopic properties, meaning it actively attracts and absorbs moisture from the surrounding air. Covering sugar with paper towels at the bottom of an airtight container allows it to absorb condensation and moisture exuded by the garlic, effectively preventing softened texture and mold growth."
-          },
-          {
-            "question": "Why shouldn't unpeeled whole garlic heads be stored in the refrigerator?",
-            "answer": "Unpeeled garlic heads placed in cold, humid refrigerator environments (0–4°C) experience a break in dormancy, encouraging them to sprout and grow roots. Refrigerator moisture also softens the cloves and promotes mold, so whole garlic heads should always be hung in a cool, well-ventilated, shady room."
-          }
-        ]
-      },
-      "ja": {
-        "title": "にんにくを新鮮に保つ保存方法：科学的保管ガイド",
-        "description": "公的安全基準に基づくにんにくの最適な保存温度、保管方法、保存期間をご確認ください。",
-        "authority": "<strong>農村振興庁(RDA) & 食品医薬品安全処(MFDS) & 米国農務省(USDA)</strong>",
-        "intro": "料理のたびに皮をむくのが面倒で、まとめてむいておいたにんにくが、数日でぬめりが出たり白いカビが生えて捨ててしまった経験はありませんか？🧄\n\nにんにくは皮をむいた瞬間から表面の保護膜が失われ、周囲の湿度に非常に敏感に反応します。保存容器内部の微細な結露や湿気はカビの胞子や細菌が繁殖する最高の環境となるため、湿気のコントロールが鮮度維持の絶対的な鍵となります。\n\n本日FreshSnapでは、農村振興庁（RDA）および米国農務省（USDA）の研究に基づき、丸ごとにんにく、むきにんにく、刻みにんにくの風味とアリシン栄養素を長持ちさせる3段階の科学的保存法をご紹介します。🛡️",
-        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-        "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-        "guideTitle": "科学的に検証された保存ガイド",
-        "cautionTitle": "保存時の必須ルールと注意事項",
-        "tags": [
-          "にんにく",
-          "科学的に検証された保存ガイド",
-          "vegetable"
-        ],
-        "cautions": [
-          {
-            "title": "傷ついたり芽が出たにんにくは発見次第すぐに分けてください 🧄",
-            "desc": "傷がついたり芽が出始めたにんにくは細胞組織が損傷し、エチレンガスや水分を多く放出します。周囲の健全なむきにんにくまで一緒に柔らかくなり腐敗させるため、傷んだ部分は切り落としてすぐに調理に使用してください。"
-          },
-          {
-            "title": "カビが生えたにんにくを水で洗って食べないでください ⚠️",
-            "desc": "にんにくの表面に青カビや黒カビが発生した場合、表面だけ洗い落として使用するのは危険です。カビの胞子や毒素が目に見えない果肉の奥深くまで浸透しているため、胃腸障害を引き起こす可能性があり、直ちに廃棄する必要があります。"
-          }
-        ],
-        "steps": [
-          {
-            "name": "密閉容器の底に砂糖とキッチンペーパーを敷いてむきにんにくを保存する — 冷蔵保存 (14〜21日間) 🪙",
-            "text": "むきにんにくは水分に触れると一気に傷んでカビが繁殖します。💡保存のコツ：密閉容器の底に砂糖を1cmほどの厚さで均一に敷き、その上にキッチンペーパーを2〜3重に重ねてからむきにんにくを入れてください。砂糖が湿気を吸収する天然の除湿剤となり、表面を乾燥状態に保ちます。"
-          },
-          {
-            "name": "丸ごとのにんにくは風通しの良いネットに吊るす — 常温保存 (30〜60日間) 🌬️",
-            "text": "皮付きの丸ごとのにんにくを冷蔵庫に入れると、低温多湿な環境によって休眠状態が破れ、芽や根が出て急速に腐敗します。💡保存のコツ：玉ねぎネットや通気性の良いメッシュ袋に入れ、直射日光の当たらない涼しく風通しの良い常温（10〜15℃）の日陰に吊るして保存してください。"
-          },
-          {
-            "name": "刻みにんにくはシリコン型で凍らせて小分け保存する — 冷凍保存 (180日間) ❄️",
-            "text": "にんにくを細かく刻むと細胞が破壊されてアリシンが活性化しますが、空気と接触すると急速に酸化して変色し、風味も落ちます。💡保存のコツ：刻んだにんにくをジッパーバッグに平らに伸ばして筋を入れて固めるか、シリコン製氷皿に入れて冷凍（-18℃以下）保存します。必要な時に1個ずつ取り出せて便利です。"
-          }
-        ],
-        "faqs": [
-          {
-            "question": "むきにんにくを冷蔵保存する際、容器の底に砂糖を敷く理由は何ですか？",
-            "answer": "砂糖には空気中の水分を引き寄せて吸収する高い吸湿性（Hygroscopic property）があります。密閉容器の底に砂糖を敷き、ペーパータオルを重ねることで、容器内の微細な結露やにんにくから出る湿気を砂糖が吸収し、水分でぬめりやカビが発生するのを効果的に防ぎます。"
-          },
-          {
-            "question": "丸ごとのにんにくを冷蔵庫に入れてはいけない理由は何ですか？",
-            "answer": "皮付きの丸ごとにんにくを冷蔵室（0〜4℃）の湿った冷たい環境に入れると、休眠状態が解除されて芽や根が出始めてしまいます。また、冷蔵庫内の湿気により実が柔らかくなりカビが生えやすくなるため、皮付きのまま保存する際は必ず通気性の良い涼しい常温の日陰に置く必要があります。"
-          }
-        ]
-      },
-      "zh": {
-        "title": "如何保持大蒜新鲜：科学储存指南",
-        "description": "根据官方食品安全指南，了解大蒜的最佳储存温度、方式和保鲜时长。",
-        "authority": "<strong>韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS) & 美国农务部(USDA)</strong>",
-        "intro": "为了省去每次做饭剥蒜的麻烦，您是否曾一次性剥好大蒜放入冰箱，结果没过几天大蒜就表面出水、发黏甚至长出白霉？🧄\n\n大蒜在剥皮的瞬间就失去了外层保护膜，对环境湿度变得极其敏感。保鲜盒内部微小的结露与积水是霉菌孢子和细菌滋生的绝佳温床，因此控制湿度是延长大蒜保鲜期的绝对核心。\n\n今天FreshSnap基于韩国农村振兴厅(RDA)和美国农务部(USDA)的科学研究，为您带来3步科学保存秘诀，帮您长久锁定整头大蒜、剥皮大蒜及蒜泥的新鲜度与蒜素营养。🛡️",
-        "whyTitle": "为什么要这样储存？科学原理",
-        "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-        "guideTitle": "科学验证的储存指南",
-        "cautionTitle": "储存必需规则及注意事项",
-        "tags": [
-          "大蒜",
-          "科学验证的储存指南",
-          "vegetable"
-        ],
-        "cautions": [
-          {
-            "title": "发现受损或发芽的蒜瓣请立即剔除隔离 🧄",
-            "desc": "带有伤痕或开始发芽的蒜瓣细胞组织已受损，会大量释放乙烯气体和水分。这会导致周围完好的剥皮大蒜一起变软腐烂。请切除受损部位并尽早烹饪使用。"
-          },
-          {
-            "title": "长霉的大蒜切勿冲洗后继续食用 ⚠️",
-            "desc": "如果大蒜表面长出青霉或黑霉，绝对不能只冲洗掉表面就拿来做菜。霉菌孢子与毒素已渗透至内部软肉深处，食用后极易引发肠胃不适，必须立即丢弃。"
-          }
-        ],
-        "steps": [
-          {
-            "name": "在密封盒底部铺砂糖与厨房纸巾保存剥皮大蒜 — 冷藏保存 (14~21天) 🪙",
-            "text": "剥皮大蒜一旦接触水分，变软和滋生霉菌的速度极快。💡储存小贴士：在密封保鲜盒底部均匀铺上约1厘米厚的砂糖，上面覆盖2~3层厨房纸巾，然后再放入剥皮大蒜。砂糖是极佳的天然吸湿剂，能吸收盒内湿气，使大蒜表面保持干爽。"
-          },
-          {
-            "name": "带皮整头大蒜装入网袋悬挂 — 常温保存 (30~60天) 🌬️",
-            "text": "带皮的整头大蒜冷藏时，冰箱内的低温潮湿环境会唤醒其休眠状态，导致发芽、长根并迅速腐烂。💡储存小贴士：将整头大蒜装入洋葱网袋或透气网包中，悬挂在无阳光直射、凉爽通风的常温（10~15℃）阴凉处。"
-          },
-          {
-            "name": "蒜泥装入硅胶冰格冷冻分装 — 冷冻保存 (180天) ❄️",
-            "text": "打碎大蒜会破坏细胞并激活蒜素，但接触空气后极易氧化变褐并散失风味。💡储存小贴士：将蒜泥在拉链袋中平铺，用刀背划出方格线冷冻，或装入硅胶冰格中冷冻（-18℃以下）。使用时按需取出一块，既方便又能锁住营养。"
-          }
-        ],
-        "faqs": [
-          {
-            "question": "将剥皮大蒜冷藏时，为什么要在保鲜盒底部铺砂糖？",
-            "answer": "砂糖具有强吸湿性（Hygroscopic property），能主动吸引并吸收空气中的水汽。在密封盒底部铺砂糖并垫上厨房纸巾，砂糖能彻底吸收盒内结露和大蒜渗出的湿气，有效防止大蒜因受潮而发黏长霉。"
-          },
-          {
-            "question": "为什么不能把带皮的整头大蒜放进冰箱冷藏？",
-            "answer": "带皮的整头大蒜若置于冰箱（0~4℃）潮湿寒冷的环境中，会打破其休眠期，刺激其发芽长根。此外，冰箱内的湿气会导致蒜瓣变软滋生霉菌，因此带皮储存时必须悬挂在通风良好的凉爽常温阴凉处。"
-          }
-        ]
-      },
-      "es": {
-        "title": "Cómo mantener el ajo fresco: Guía científica de conservación",
-        "description": "Descubra la temperatura, el método y la duración de conservación óptimos para el ajo según las directrices oficiales de seguridad.",
-        "authority": "<strong>RDA & MFDS & USDA</strong>",
-        "intro": "¿Alguna vez peló una gran cantidad de ajo para ahorrar tiempo, solo para ver cómo en pocos días se ponía viscoso y se cubría de moho blanco en el refrigerador? 🧄\n\nEn el momento en que se pela el ajo, pierde su capa protectora externa y se vuelve extremadamente sensible a la humedad. La condensación y el agua atrapada dentro de los contenedores crean el ambiente perfecto para que crezcan mohos y bacterias. Por ello, controlar la humedad es la clave fundamental de la frescura.\n\nHoy, FreshSnap comparte una guía científica en 3 pasos basada en investigaciones del USDA y la RDA para preservar la frescura, el sabor y la alicina del ajo entero, pelado y picado por más tiempo. 🛡️",
-        "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
-        "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-        "guideTitle": "Guía de almacenamiento científicamente probada",
-        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-        "tags": [
-          "Ajo",
-          "Guía de almacenamiento científicamente probada",
-          "vegetable"
-        ],
-        "cautions": [
-          {
-            "title": "Aísle e identifique los dientes de ajo dañados o brotados de inmediato 🧄",
-            "desc": "Los dientes de ajo con magulladuras o brotes sufren daños celulares que aumentan considerablemente la liberación de gas etileno y humedad. Esto ablanda y pudre los dientes sanos de alrededor. Retire las partes dañadas y consúmalas de inmediato."
-          },
-          {
-            "title": "Nunca lave y consuma ajos que hayan desarrollado moho ⚠️",
-            "desc": "Si aparece moho azul o negro en el ajo, no basta con lavar la superficie. Las esporas de moho y las micotoxinas se extienden profundamente en la pulpa blanda, lo que puede causar malestares estomacales graves. Deséchelos inmediatamente."
-          }
-        ],
-        "steps": [
-          {
-            "name": "Esparza azúcar y papel de cocina al fondo del contenedor para ajos pelados — Refrigeración (14–21 días) 🪙",
-            "text": "El ajo pelado se pudre rápidamente en contacto con la humedad. 💡 Consejo de almacenamiento: Coloque una capa de 1 cm de azúcar en el fondo de un recipiente hermético, cúbrala con 2 o 3 capas de toallas de papel y coloque los ajos pelados encima. El azúcar absorbe la humedad ambiental, manteniendo el ajo seco."
-          },
-          {
-            "name": "Cuelgue las cabezas de ajo enteras en una bolsa de red — Temp. Ambiente (30–60 días) 🌬️",
-            "text": "Refrigerar cabezas de ajo enteras rompe su estado de latencia debido al frío húmedo, estimulando brotes, raíces y pudrición. 💡 Consejo de almacenamiento: Guarde las cabezas de ajo en una bolsa de red y cuélguelas en un lugar fresco, oscuro y ventilado (10-15 °C) sin sol directo."
-          },
-          {
-            "name": "Congele el ajo picado en cubiteras de silicona — Congelación (180 días) ❄️",
-            "text": "Picar el ajo activa la alicina pero la exposición al aire lo oxida rápido, oscureciéndolo. 💡 Consejo de almacenamiento: Extienda el ajo picado en una bolsa Ziploc marcada en cuadrícula o congélelo en cubiteras de silicona (-18 °C). Extraiga una porción para cocinar cuando lo necesite."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "¿Por qué se coloca azúcar en el fondo del recipiente al refrigerar ajos pelados?",
-            "answer": "El azúcar tiene alta propiedad higroscópica, lo que significa que atrae y absorbe activamente la humedad del aire. Al cubrir el azúcar con toallas de papel en un recipiente hermético, absorbe toda la condensación interna y la humedad del ajo, evitando que se ponga blando y críe moho."
-          },
-          {
-            "question": "¿Por qué no se deben guardar las cabezas de ajo enteras en el refrigerador?",
-            "answer": "Las cabezas de ajo con piel en un ambiente frío y húmedo (0-4 °C) rompen su estado de latencia, comenzando a brotar y echar raíces. La humedad del refrigerador también ablanda los dientes y favorece el moho, por lo que deben colgarse siempre en un lugar fresco, sombreado y bien ventilado a temperatura ambiente."
-          }
-        ]
-      },
-      "fr": {
-        "title": "Comment conserver l'ail frais : Guide scientifique de conservation",
-        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour l'ail selon les directives officielles de sécurité.",
-        "authority": "<strong>RDA & MFDS & USDA</strong>",
-        "intro": "Avez-vous déjà épluché une grande quantité d'ail à l'avance pour gagner du temps, pour le retrouver mou, gluant et recouvert de moisissure quelques jours plus tard au réfrigérateur ? 🧄\n\nDès qu'il est épluché, l'ail perd sa pellicule protectrice et devient très sensible à l'humidité. La condensation et l'eau emprisonnées dans les boîtes créent un milieu parfait pour le développement des bactéries et des moisissures. Le contrôle de l'eau est donc la clé absolue de sa conservation.\n\nAujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes basé sur les recherches du USDA et de la RDA pour préserver le goût, les nutriments et l'allicine de l'ail entier, épluché ou haché. 🛡️",
-        "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
-        "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-        "guideTitle": "Guide de conservation scientifiquement prouvé",
-        "cautionTitle": "Règles essentielles et précautions de stockage",
-        "tags": [
-          "Ail",
-          "Guide de conservation scientifiquement prouvé",
-          "vegetable"
-        ],
-        "cautions": [
-          {
-            "title": "Isolez immédiatement les gousses d'ail abîmées ou germées 🧄",
-            "desc": "Les gousses d'ail meurtries ou germées ont des tissus cellulaires altérés, ce qui dégage plus de gaz éthylène et d'humidité. Cela fait ramollir et pourrir les gousses saines environnantes ; coupez les parties abîmées et cuisinez-les de suite."
-          },
-          {
-            "title": "Ne lavez jamais un ail moisi pour le consommer ⚠️",
-            "desc": "Si de la moisissure bleue ou noire apparaît sur l'ail, il ne suffit pas de laver la surface. Les spores et mycotoxines pénètrent profondément dans la chair tendre, risquant de provoquer des troubles digestifs. Jetez immédiatement l'ail moisi."
-          }
-        ],
-        "steps": [
-          {
-            "name": "Étaler du sucre et de l'essuie-tout au fond de la boîte pour l'ail épluché — Réfrigération (14–21 jours) 🪙",
-            "text": "L'ail épluché pourrit très vite s'il reste en contact avec l'eau. 💡 Astuce de conservation : Versez 1 cm de sucre au fond d'une boîte hermétique, recouvrez de 2 à 3 feuilles d'essuie-tout et déposez l'ail épluché. Le sucre capte l'humidité et maintient la surface de l'ail bien sèche."
-          },
-          {
-            "name": "Suspendre les têtes d'ail entières dans un filet — Temp. Ambiante (30–60 jours) 🌬️",
-            "text": "Placer des têtes d'ail non épluchées au frais et à l'humidité interrompt leur dormance, ce qui fait germer des racines et pourrir l'ail. 💡 Astuce de conservation : Mettez les têtes d'ail dans un filet aéré et suspendez-les à l'abri du soleil dans un endroit frais et bien ventilé (10-15 °C)."
-          },
-          {
-            "name": "Congeler l'ail haché dans des bacs en silicone — Stockage Congelé (180 jours) ❄️",
-            "text": "Hacher l'ail libère l'allicine, mais l'air l'oxyde vite, brunissant la chair et altérant le goût. 💡 Astuce de conservation : Étalez l'ail haché dans un sac Ziploc pré-quadrillé ou congelez-le dans des bacs à glaçons en silicone (-18 °C). Démoulez un cube pour cuisiner sans perte de nutriments."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Pourquoi met-on du sucre au fond du récipient pour conserver l'ail épluché au frigo ?",
-            "answer": "Le sucre possède una forte propriété hygroscopique, absorbant activement l'humidité de l'air. En recouvrant le sucre d'essuie-tout au fond d'une boîte hermétique, il piège la condensation et l'humidité dégagées par l'ail, évitant que les gousses ne ramollissent ou ne moisissent."
-          },
-          {
-            "question": "Pourquoi ne faut-il pas mettre les têtes d'ail entières au réfrigérateur ?",
-            "answer": "Conserver des têtes d'ail entières au réfrigérateur (0-4 °C) dans un milieu froid et humide interrompt leur période de repos végétatif, ce qui déclenche la germination et la pousse des racines. L'humidité les fait aussi ramollir et moisir ; conservez-les toujours dans un endroit frais, sombre et aéré à température ambiante."
-          }
-        ]
-      },
-      "de": {
-        "title": "Knoblauch richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Knoblauch basierend auf offiziellen Sicherheitsrichtlinien.",
-        "authority": "<strong>RDA & MFDS & USDA</strong>",
-        "intro": "Haben Sie schon einmal viel Knoblauch auf einmal geschält, um Zeit zu sparen, nur um festzustellen, dass er nach wenigen Tagen im Kühlschrank schleimig wurde und weißen Schimmel ansetzte? 🧄\n\nSobald Knoblauch geschält wird, verliert er seine Schutzschicht und reagiert extrem empfindlich auf Luftfeuchtigkeit. Kondenswasser und Feuchtigkeit in Behältern bilden den perfekten Nährboden für Schimmelpilze und Bakterien, weshalb Feuchtigkeitskontrolle das A und O ist.\n\nHeute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Forschungen von USDA und RDA basiert, um Geschmack, Nährstoffe und Allicin in ganzem, geschältem und gehacktem Knoblauch lange zu erhalten. 🛡️",
-        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-        "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-        "tags": [
-          "Knoblauch",
-          "Wissenschaftlich geprüfter Lagerungsratgeber",
-          "vegetable"
-        ],
-        "cautions": [
-          {
-            "title": "Sortieren Sie beschädigte oder gekeimte Zehen sofort aus 🧄",
-            "desc": "Beschädigte oder keimende Knoblauchzehen weisen Gewebeschäden auf, wodurch sie vermehrt Ethylengas und Feuchtigkeit abgeben. Dies lässt benachbarte gesunde Zehen weich werden und verfaulen. Schneiden Sie beschädigte Stellen ab und verkochen Sie sie direkt."
-          },
-          {
-            "title": "Essen Sie niemals Knoblauch mit Schimmelbefall ⚠️",
-            "desc": "Wenn sich blauer oder schwarzer Schimmel bildet, reicht ein Abwaschen nicht aus. Schimmelsporen und Toxine dringen tief in das weiche Fleisch ein, was Magen-Darm-Beschwerden verursachen kann. Entsorgen Sie schimmeligen Knoblauch sofort."
-          }
-        ],
-        "steps": [
-          {
-            "name": "Zucker und Küchenpapier für geschälten Knoblauch auslegen — Kühlen (14–21 Tage) 🪙",
-            "text": "Geschälter Knoblauch verfault bei Feuchtigkeit sehr schnell. 💡 Lagerungstipp: Verteilen Sie eine 1 cm dicke Zuckerschicht auf dem Boden eines luftdichten Behälters, decken Sie diese mit 2–3 Lagen Küchenpapier ab und legen Sie die Zehen darauf. Zucker zieht Feuchtigkeit an und hält die Zehen trocken."
-          },
-          {
-            "name": "Ganzen Knoblauch in einem Netz aufhängen — Raumtemperatur (30–60 Tage) 🌬️",
-            "text": "Das Kühlen ungeschälter Knoblauchknollen bricht durch die feuchte Kälte ihre Keimruhe, was zu Wurzeltrieben und Fäulnis führt. 💡 Lagerungstipp: Geben Sie Knollen in ein Zwiebelnetz und hängen Sie sie an einem kühlen, schattigen und gut belüfteten Ort (10–15 °C) auf."
-          },
-          {
-            "name": "Gehackten Knoblauch in Silikonformen einfrieren — Gefrierlagerung (180 Tage) ❄️",
-            "text": "Hacken zerstört Zellen und aktiviert Allicin, aber Luftkontakt oxidiert es schnell und lässt es braun werden. 💡 Lagerungstipp: Streichen Sie gehackten Knoblauch in einem Ziploc-Beutel flach und ritzeln Sie Würfel ein oder frieren Sie ihn in Silikonformen bei unter -18 °C ein."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Warum legt man Zucker auf den Boden des Behälters, wenn man geschälten Knoblauch kühlt?",
-            "answer": "Zucker besitzt eine starke hygroskopische Eigenschaft, bindet also aktiv Feuchtigkeit aus der Umgebungsluft. Wird Zucker unter Küchenpapier in einer Dose ausgelegt, saugt er Kondenswasser und Knoblauchfeuchte vollständig auf und schützt zuverlässig vor Schimmel."
-          },
-          {
-            "question": "Warum sollte man ganze Knoblauchknollen nicht im Kühlschrank lagern?",
-            "answer": "Ganze Knollen in der feuchtkalten Umgebung des Kühlschranks (0–4 °C) erwachen aus der Keimruhe und beginnen zu sprießen. Zudem lässt die Feuchtigkeit die Zehen weich werden und Schimmel ansetzen. Ganzem Knoblauch bekommt eine luftige, kühle Lagerung bei Raumtemperatur am besten."
-          }
-        ]
-      },
-      "pt": {
-        "title": "Como conservar alho fresco: Guia científico de armazenamento",
-        "description": "Descubra a temperatura, método e tempo de conservação ideais para alho com base em diretrizes oficiais de segurança.",
-        "authority": "<strong>RDA & MFDS & USDA</strong>",
-        "intro": "Você já descascou uma grande quantidade de alho para economizar tempo e viu que em poucos dias na geladeira ele ficou viscoso e coberto de mofo branco? 🧄\n\nNo momento em que o alho é descascado, ele perde sua película protetora externa, tornando-se extremamente sensível à umidade. A condensação e a água presas nos potes criam o ambiente perfeito para o crescimento de mofo e bactérias, sendo o controle da umidade o segredo fundamental do frescor.\n\nHoje, o FreshSnap apresenta um guia de conservação em 3 etapas baseado em pesquisas do USDA e da RDA para preservar o sabor, os nutrientes e a alicina do alho inteiro, descascado ou triturado por muito mais tempo. 🛡️",
-        "whyTitle": "Por que armazenar assim? Fatos científicos",
-        "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-        "guideTitle": "Guia de armazenamento comprovado cientificamente",
-        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-        "tags": [
-          "Alho",
-          "Guia de armazenamento comprovado cientificamente",
-          "vegetable"
-        ],
-        "cautions": [
-          {
-            "title": "Separe imediatamente os dentes de alho machucados ou brotados 🧄",
-            "desc": "Dentes de alho com machucados ou brotos sofrem danos celulares que aumentam a liberação de gás etileno e umidade. Isso amolece e estraga os dentes saudáveis ao redor. Corte as partes danificadas e use-as imediatamente."
-          },
-          {
-            "title": "Nunca lave e consuma alho que tenha desenvolvido mofo ⚠️",
-            "desc": "Se aparecer mofo azul ou preto no alho, não basta lavar a superfície. Os esporos e micotoxinas penetram profundamente na polpa macia, podendo causar sérios problemas estomacais. Descarte o alho mofado imediatamente."
-          }
-        ],
-        "steps": [
-          {
-            "name": "Espalhe açúcar e papel-toalha no fundo do pote para alho descascado — Refrigeração (14–21 dias) 🪙",
-            "text": "O alho descascado estraga rápido em contato com a umidade. 💡 Dica de conservação: Espalhe uma camada de 1 cm de açúcar no fundo do pote hermético, cubra com 2 a 3 folhas de papel-toalha e coloque o alho descascado. O açúcar atua como dessecante natural, retendo a umidade."
-          },
-          {
-            "name": "Pendure as cabeças de alho inteiras em uma rede — Temp. Ambiente (30–60 dias) 🌬️",
-            "text": "Refrigerar cabeças de alho inteiras quebra sua dormência devido ao frio úmido, estimulando brotos, raízes e apodrecimento. 💡 Dica de conservação: Coloque as cabeças de alho em uma rede e pendure em local fresco, escuro e ventilado (10-15 °C) sem sol direto."
-          },
-          {
-            "name": "Congele o alho triturado em fôrmas de silicone — Congelamento (180 dias) ❄️",
-            "text": "Triturar o alho ativa a alicina, mas o contato com o ar o oxida rápido, escurecendo a polpa. 💡 Dica de conservação: Espalhe o alho triturado em um saco Ziploc marcado em grade ou congele em fôrmas de silicone (-18 °C). Retire uma porção para cozinhar sem perder nutrientes."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Por que se coloca açúcar no fundo do pote ao refrigerar alho descascado?",
-            "answer": "O açúcar tem forte propriedade higroscópica, ou seja, atrai e absorve ativamente a umidade do ar. Ao cobrir o açúcar com papel-toalha em um pote hermético, ele absorve toda a condensação e a umidade do alho, evitando que os dentes amoleçam e mofem."
-          },
-          {
-            "question": "Por que não se deve guardar cabeças de alho inteiras na geladeira?",
-            "answer": "Guardar cabeças de alho inteiras no ambiente frio e úmido da geladeira (0-4 °C) interrompe seu período de dormência, fazendo com que comecem a brotar e criar raízes. A umidade da geladeira também amolece os dentes e estimula mofo; por isso, guarde-as sempre em local fresco, escuro e ventilado."
-          }
-        ]
-      },
-      "id": {
-        "title": "Cara Menyimpan Bawang Putih agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk bawang putih berdasarkan pedoman keselamatan resmi.",
-        "authority": "<strong>RDA & MFDS & USDA</strong>",
-        "intro": "Pernahkah Anda mengupas bawang putih dalam jumlah banyak untuk menghemat waktu, lalu mendapatinya menjadi berlendir, lembek, dan berjamur putih beberapa hari kemudian di kulkas? 🧄\n\nBegitu dikupas, bawang putih kehilangan kulit pelindung luarnya dan menjadi sangat sensitif terhadap kelembapan. Kondensasi dan air yang terperangkap di dalam wadah menciptakan media sempurna bagi jamur dan bakteri, sehingga kontrol kelembapan adalah kunci utama kesegaran.\n\nHari ini, FreshSnap membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan penelitian USDA dan RDA untuk menjaga rasa, nutrisi, dan kandungan alisin dari bawang putih utuh, kupas, maupun cincang. 🛡️",
-        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-        "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-        "tags": [
-          "Bawang putih",
-          "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-          "vegetable"
-        ],
-        "cautions": [
-          {
-            "title": "Segera pisahkan siung bawang putih yang memar atau bertunas 🧄",
-            "desc": "Siung bawang putih yang memar atau bertunas mengalami kerusakan sel yang meningkatkan pelepasan gas etilen dan kelembapan. Hal ini membuat bawang putih kupas di sekitarnya cepat lembek dan membusuk; potong bagian yang rusak dan segera gunakan."
-          },
-          {
-            "title": "Jangan pernah mencuci dan memakan bawang putih yang berjamur ⚠️",
-            "desc": "Jika jamur biru atau hitam muncul pada bawang putih, cukup mencuci permukaannya saja tidaklah aman. Spora jamur dan mikotoksin telah meresap jauh ke dalam daging bawang, yang dapat memicu gangguan pencernaan parah. Segera buang."
-          }
-        ],
-        "steps": [
-          {
-            "name": "Taburkan gula dan tisu dapur di dasar wadah untuk bawang putih kupas — Simpan Dingin (14–21 Hari) 🪙",
-            "text": "Bawang putih kupas cepat membusuk jika terkena kelembapan. 💡 Tips Penyimpanan: Taburkan gula setebal 1 cm di dasar wadah kedap udara, lapisi dengan 2–3 lembar tisu dapur, lalu masukkan bawang putih kupas. Gula bertindak sebagai penyerap kelembapan alami agar bawang putih tetap kering."
-          },
-          {
-            "name": "Gantung bawang putih utuh dalam kantong jaring — Suhu Ruang (30–60 Hari) 🌬️",
-            "text": "Menyimpan bawang putih utuh yang belum dikupas di kulkas akan merusak masa dormansinya akibat kelembapan dingin, memicu bertunas, berakar, dan membusuk. 💡 Tips Penyimpanan: Masukkan bawang utuh ke dalam kantong jaring lalu gantung di area berventilasi baik, sejuk, dan teduh (10–15°C)."
-          },
-          {
-            "name": "Bekukan bawang putih cincang dalam cetakan silikon — Simpan Beku (180 Hari) ❄️",
-            "text": "Mencincang bawang putih merusak sel dan mengaktifkan alisin, namun paparan udara dengan cepat mengoksidasinya hingga kecokelatan. 💡 Tips Penyimpanan: Ratakan bawang putih cincang di kantong Ziploc bergaris sekat atau bekukan dalam cetakan es silikon (-18°C) untuk diambil sesuai kebutuhan."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Mengapa gula ditaburkan di dasar wadah saat menyimpan bawang putih kupas di kulkas?",
-            "answer": "Gula memiliki sifat higroskopis yang kuat, yaitu secara aktif menarik dan menyerap kelembapan dari udara. Saat dilapisi tisu dapur di dasar wadah kedap udara, gula menyerap semua kondensasi dan air yang keluar dari bawang putih, secara efektif mencegah tekstur lembek dan pertumbuhan jamur."
-          },
-          {
-            "question": "Mengapa bawang putih utuh yang belum dikupas tidak boleh disimpan di dalam kulkas?",
-            "answer": "Bawang putih utuh yang disimpan di lingkungan kulkas yang dingin dan lembap (0–4°C) akan bangun dari masa dormansinya, merangsang tumbuhnya tunas dan akar. Kelembapan kulkas juga melunakkan siung dan memicu jamur, sehingga bawang utuh harus selalu digantung di tempat sejuk dan berventilasi pada suhu ruang."
-          }
-        ]
-      }
+    "how-to-store-garlic": {
+        "ingId": "garlic",
+        "pubDate": "2026-02-02",
+        "updatedDate": "2026-02-02",
+        "heroImage": "/images/blog/garlic_storage_hack.webp",
+        "category": "FreshSnap",
+        "app": "freshsnap",
+        "formatVersion": 4,
+        "locales": {
+            "ko": {
+                "title": "마늘 신선하게 보관하는 법: 과학적 보관 가이드",
+                "description": "공인된 안전 가이드라인에 따른 마늘의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+                "authority": "<strong>농촌진흥청(RDA) & 식품의약품안전처(MFDS) & 미국 농무부(USDA)</strong>",
+                "intro": "요리할 때마다 껍질을 벗기기 번거로워 대량으로 까놓은 마늘, 며칠 만에 표면에 진물이 생기고 하얀 곰팡이가 피어 버려본 경험 있으시죠? 🧄\n\n마늘은 껍질을 벗기는 순간 표면의 보호막이 사라져 주변 습도에 매우 민감하게 반응합니다. 보관용기 내부의 미세한 결로와 수분은 곰팡이 포자와 세균이 번식하기 가장 좋은 환경을 제공하므로, 수분 통제가 신선도 유지의 절대적인 핵심입니다.\n\n오늘 FreshSnap에서는 농촌진흥청(RDA)과 미국 농무부(USDA)의 검증된 연구를 바탕으로, 통마늘과 깐 마늘, 다진 마늘의 신선함과 알리신 영양소를 오래 유지하는 3단계 과학적 보관 비법을 전해드립니다. 🛡️",
+                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+                "guideTitle": "과학적으로 검증된 보관 가이드",
+                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+                "tags": [
+                    "마늘",
+                    "과학적으로 검증된 보관 가이드",
+                    "vegetable"
+                ],
+                "cautions": [
+                    {
+                        "title": "상처 나거나 싹이 난 마늘은 발견 즉시 따로 분리하세요 🧄",
+                        "desc": "상처가 생기거나 싹이 트기 시작한 마늘은 세포 조직이 손상되어 에틸렌 가스와 수분 분출량이 급증합니다. 이는 주변의 멀쩡한 깐 마늘까지 무르게 만들고 함께 부패시키므로, 상처 난 부위는 칼로 도려내어 바로 요리에 사용하세요."
+                    },
+                    {
+                        "title": "곰팡이가 핀 마늘은 물로 씻어 드시지 마세요 ⚠️",
+                        "desc": "마늘 표면에 푸른 곰팡이나 검은 곰팡이가 생겼다면 겉면만 씻어서 사용해서는 안 됩니다. 곰팡이 포자와 균사체 독소가 눈에 보이지 않는 과육 내부 깊숙이 침투한 상태이므로 배탈과 위장 장애를 유발할 수 있어 즉시 폐기해야 합니다."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "밀폐용기 바닥에 설탕과 키친타월 깔고 깐 마늘 보관하기 — 냉장 보관 (14~21일) 🪙",
+                        "text": "깐 마늘은 수분에 노출되면 무름 현상과 곰팡이 번식이 순식간에 일어납니다. 💡 보관 팁: 밀폐용기 바닥에 설탕을 1cm 두께로 고르게 깔고, 그 위에 키친타월을 2~3겹 덮은 뒤 깐 마늘을 담으세요. 설탕은 주변 습기를 강력하게 흡수하는 천연 제습제 역할을 하여 마늘 표면을 송골송골 건조하게 유지해 줍니다."
+                    },
+                    {
+                        "name": "통마늘은 바람이 잘 통하는 그물망에 걸어두기 — 실온 보관 (30~60일) 🌬️",
+                        "text": "껍질을 벗기지 않은 통마늘을 냉장고에 넣으면 냉장실의 저온 다습한 환경 때문에 수면 상태가 깨지며 싹이 나거나 뿌리가 내리고 부패합니다. 💡 보관 팁: 통마늘은 양파망이나 통기성 그물백에 담아 직사광선이 들지 않는 서늘하고 바람이 통하는 상온(10~15℃) 그늘에 매달아 보관하세요."
+                    },
+                    {
+                        "name": "다진 마늘은 실리콘 큐브 틀에 얼려 소분 보관하기 — 냉동 보관 (180일) ❄️",
+                        "text": "마늘을 다지면 세포가 파괴되면서 알리신 성분이 활성화되지만, 공기와 접촉하면 빠르게 산화하여 갈변하고 풍미가 떨어집니다. 💡 보관 팁: 다진 마늘을 지퍼백에 넓게 펴서 칼등으로 바둑판 모양의 선을 내어 얼리거나, 실리콘 큐브 틀에 담아 냉동(-18℃ 이하) 보관하세요. 필요할 때 한 조각씩 꺼내어 사용하면 영양 손실 없이 간편합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "깐 마늘을 냉장고에 둘 때 바닥에 설탕을 까는 이유는 무엇인가요?",
+                        "answer": "설탕은 공기 중의 수분을 유인하여 흡수하는 높은 흡습성(Hygroscopic property)을 가지고 있습니다. 밀폐 용기 바닥에 설탕을 깔고 키친타월을 덮으면 용기 내부의 미세 결로와 마늘에서 배어나오는 습기를 설탕이 모두 흡수하여, 마늘이 수분에 짓물러 곰팡이가 피는 것을 효과적으로 방지합니다."
+                    },
+                    {
+                        "question": "통마늘을 냉장고에 넣으면 왜 안 되나요?",
+                        "answer": "껍질이 있는 통마늘은 냉장실(0~4℃)의 습하고 차가운 환경에 들어가면 휴면 상태가 깨져 싹이 트고 뿌리가 내리기 시작합니다. 또한 냉장고 내부의 습기로 인해 알갱이가 차례로 무르고 곰팡이가 생기기 쉬우므로, 껍질째 보관할 때는 반드시 통풍이 잘되는 서늘한 상온 그늘에 두어야 합니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "How to Keep Garlic Fresh: Scientific Storage Guide",
+                "description": "Check the optimal storage temperature, method, and shelf life for garlic based on official safety guidelines.",
+                "authority": "<strong>RDA & MFDS & USDA</strong>",
+                "intro": "Have you ever peeled a large batch of garlic to save time while cooking, only to find it turning soft, slimy, and covered in white mold a few days later? 🧄\n\nThe moment garlic is peeled, its protective outer skin is lost, making it extremely sensitive to humidity. Microscopic condensation and trapped moisture inside storage containers create an ideal breeding ground for mold spores and bacteria, making humidity control the ultimate key to freshness.\n\nToday, FreshSnap shares a scientifically proven 3-step storage guide based on research from the USDA and RDA to preserve flavor, nutrients, and allicin content across whole, peeled, and minced garlic for longer. 🛡️",
+                "whyTitle": "Why Store Garlic This Way? Scientific Facts",
+                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+                "guideTitle": "Scientifically Proven Storage Guide",
+                "cautionTitle": "Essential Storage Rules and Cautions",
+                "tags": [
+                    "Garlic",
+                    "Scientifically Proven Storage Guide",
+                    "vegetable"
+                ],
+                "cautions": [
+                    {
+                        "title": "Isolate bruised or sprouted garlic cloves immediately 🧄",
+                        "desc": "Garlic cloves with bruises or sprouting roots suffer cell tissue damage, significantly increasing their release of ethylene gas and moisture. This causes surrounding healthy peeled cloves to soften and decay; slice away damaged parts and use them right away."
+                    },
+                    {
+                        "title": "Never eat garlic that has developed surface mold ⚠️",
+                        "desc": "If blue or black mold appears on garlic, simply washing the surface is not safe. Mold spores and mycotoxins penetrate deep into the soft fleshy tissue invisibly, which can cause severe stomach upset and digestive issues. Discard moldy garlic immediately."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Spread sugar and paper towels at the bottom for peeled garlic — Cold Storage (14–21 Days) 🪙",
+                        "text": "Peeled garlic rots and molds rapidly when exposed to surface moisture. 💡 Storage Tip: Spread a 1 cm layer of sugar evenly at the bottom of an airtight container, cover it with 2–3 layers of paper towels, and place peeled garlic cloves on top. Sugar acts as a natural desiccant that draws in moisture, keeping the garlic dry and fresh."
+                    },
+                    {
+                        "name": "Hang unpeeled whole garlic heads in a mesh bag — Room Temp Storage (30–60 Days) 🌬️",
+                        "text": "Refrigerating unpeeled whole garlic heads breaks their dormancy due to cold humidity, triggering root growth, sprouting, and rapid decay. 💡 Storage Tip: Store whole garlic heads in an onion mesh bag or breathable net and hang them in a cool, dark, well-ventilated area (10–15°C / 50–59°F) away from direct sunlight."
+                    },
+                    {
+                        "name": "Freeze minced garlic in silicone cube trays — Frozen Storage (180 Days) ❄️",
+                        "text": "Mincing garlic breaks cellular structures and activates allicin, but air contact rapidly oxidizes it, turning it brown and diminishing flavor. 💡 Storage Tip: Flatten minced garlic in a Ziploc bag scored with grid lines or freeze in silicone ice cube trays below -18°C. Pop out a single cube whenever needed for quick, nutrient-rich cooking."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Why is sugar placed at the bottom of the container when storing peeled garlic in the fridge?",
+                        "answer": "Sugar has strong hygroscopic properties, meaning it actively attracts and absorbs moisture from the surrounding air. Covering sugar with paper towels at the bottom of an airtight container allows it to absorb condensation and moisture exuded by the garlic, effectively preventing softened texture and mold growth."
+                    },
+                    {
+                        "question": "Why shouldn't unpeeled whole garlic heads be stored in the refrigerator?",
+                        "answer": "Unpeeled garlic heads placed in cold, humid refrigerator environments (0–4°C) experience a break in dormancy, encouraging them to sprout and grow roots. Refrigerator moisture also softens the cloves and promotes mold, so whole garlic heads should always be hung in a cool, well-ventilated, shady room."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "にんにくを新鮮に保つ保存方法：科学的保管ガイド",
+                "description": "公的安全基準に基づくにんにくの最適な保存温度、保管方法、保存期間をご確認ください。",
+                "authority": "<strong>農村振興庁(RDA) & 食品医薬品安全処(MFDS) & 米国農務省(USDA)</strong>",
+                "intro": "料理のたびに皮をむくのが面倒で、まとめてむいておいたにんにくが、数日でぬめりが出たり白いカビが生えて捨ててしまった経験はありませんか？🧄\n\nにんにくは皮をむいた瞬間から表面の保護膜が失われ、周囲の湿度に非常に敏感に反応します。保存容器内部の微細な結露や湿気はカビの胞子や細菌が繁殖する最高の環境となるため、湿気のコントロールが鮮度維持の絶対的な鍵となります。\n\n本日FreshSnapでは、農村振興庁（RDA）および米国農務省（USDA）の研究に基づき、丸ごとにんにく、むきにんにく、刻みにんにくの風味とアリシン栄養素を長持ちさせる3段階の科学的保存法をご紹介します。🛡️",
+                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+                "guideTitle": "科学的に検証された保存ガイド",
+                "cautionTitle": "保存時の必須ルールと注意事項",
+                "tags": [
+                    "にんにく",
+                    "科学的に検証された保存ガイド",
+                    "vegetable"
+                ],
+                "cautions": [
+                    {
+                        "title": "傷ついたり芽が出たにんにくは発見次第すぐに分けてください 🧄",
+                        "desc": "傷がついたり芽が出始めたにんにくは細胞組織が損傷し、エチレンガスや水分を多く放出します。周囲の健全なむきにんにくまで一緒に柔らかくなり腐敗させるため、傷んだ部分は切り落としてすぐに調理に使用してください。"
+                    },
+                    {
+                        "title": "カビが生えたにんにくを水で洗って食べないでください ⚠️",
+                        "desc": "にんにくの表面に青カビや黒カビが発生した場合、表面だけ洗い落として使用するのは危険です。カビの胞子や毒素が目に見えない果肉の奥深くまで浸透しているため、胃腸障害を引き起こす可能性があり、直ちに廃棄する必要があります。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "密閉容器の底に砂糖とキッチンペーパーを敷いてむきにんにくを保存する — 冷蔵保存 (14〜21日間) 🪙",
+                        "text": "むきにんにくは水分に触れると一気に傷んでカビが繁殖します。💡保存のコツ：密閉容器の底に砂糖を1cmほどの厚さで均一に敷き、その上にキッチンペーパーを2〜3重に重ねてからむきにんにくを入れてください。砂糖が湿気を吸収する天然の除湿剤となり、表面を乾燥状態に保ちます。"
+                    },
+                    {
+                        "name": "丸ごとのにんにくは風通しの良いネットに吊るす — 常温保存 (30〜60日間) 🌬️",
+                        "text": "皮付きの丸ごとのにんにくを冷蔵庫に入れると、低温多湿な環境によって休眠状態が破れ、芽や根が出て急速に腐敗します。💡保存のコツ：玉ねぎネットや通気性の良いメッシュ袋に入れ、直射日光の当たらない涼しく風通しの良い常温（10〜15℃）の日陰に吊るして保存してください。"
+                    },
+                    {
+                        "name": "刻みにんにくはシリコン型で凍らせて小分け保存する — 冷凍保存 (180日間) ❄️",
+                        "text": "にんにくを細かく刻むと細胞が破壊されてアリシンが活性化しますが、空気と接触すると急速に酸化して変色し、風味も落ちます。💡保存のコツ：刻んだにんにくをジッパーバッグに平らに伸ばして筋を入れて固めるか、シリコン製氷皿に入れて冷凍（-18℃以下）保存します。必要な時に1個ずつ取り出せて便利です。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "むきにんにくを冷蔵保存する際、容器の底に砂糖を敷く理由は何ですか？",
+                        "answer": "砂糖には空気中の水分を引き寄せて吸収する高い吸湿性（Hygroscopic property）があります。密閉容器の底に砂糖を敷き、ペーパータオルを重ねることで、容器内の微細な結露やにんにくから出る湿気を砂糖が吸収し、水分でぬめりやカビが発生するのを効果的に防ぎます。"
+                    },
+                    {
+                        "question": "丸ごとのにんにくを冷蔵庫に入れてはいけない理由は何ですか？",
+                        "answer": "皮付きの丸ごとにんにくを冷蔵室（0〜4℃）の湿った冷たい環境に入れると、休眠状態が解除されて芽や根が出始めてしまいます。また、冷蔵庫内の湿気により実が柔らかくなりカビが生えやすくなるため、皮付きのまま保存する際は必ず通気性の良い涼しい常温の日陰に置く必要があります。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "如何保持大蒜新鲜：科学储存指南",
+                "description": "根据官方食品安全指南，了解大蒜的最佳储存温度、方式和保鲜时长。",
+                "authority": "<strong>韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS) & 美国农务部(USDA)</strong>",
+                "intro": "为了省去每次做饭剥蒜的麻烦，您是否曾一次性剥好大蒜放入冰箱，结果没过几天大蒜就表面出水、发黏甚至长出白霉？🧄\n\n大蒜在剥皮的瞬间就失去了外层保护膜，对环境湿度变得极其敏感。保鲜盒内部微小的结露与积水是霉菌孢子和细菌滋生的绝佳温床，因此控制湿度是延长大蒜保鲜期的绝对核心。\n\n今天FreshSnap基于韩国农村振兴厅(RDA)和美国农务部(USDA)的科学研究，为您带来3步科学保存秘诀，帮您长久锁定整头大蒜、剥皮大蒜及蒜泥的新鲜度与蒜素营养。🛡️",
+                "whyTitle": "为什么要这样储存？科学原理",
+                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+                "guideTitle": "科学验证的储存指南",
+                "cautionTitle": "储存必需规则及注意事项",
+                "tags": [
+                    "大蒜",
+                    "科学验证的储存指南",
+                    "vegetable"
+                ],
+                "cautions": [
+                    {
+                        "title": "发现受损或发芽的蒜瓣请立即剔除隔离 🧄",
+                        "desc": "带有伤痕或开始发芽的蒜瓣细胞组织已受损，会大量释放乙烯气体和水分。这会导致周围完好的剥皮大蒜一起变软腐烂。请切除受损部位并尽早烹饪使用。"
+                    },
+                    {
+                        "title": "长霉的大蒜切勿冲洗后继续食用 ⚠️",
+                        "desc": "如果大蒜表面长出青霉或黑霉，绝对不能只冲洗掉表面就拿来做菜。霉菌孢子与毒素已渗透至内部软肉深处，食用后极易引发肠胃不适，必须立即丢弃。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "在密封盒底部铺砂糖与厨房纸巾保存剥皮大蒜 — 冷藏保存 (14~21天) 🪙",
+                        "text": "剥皮大蒜一旦接触水分，变软和滋生霉菌的速度极快。💡储存小贴士：在密封保鲜盒底部均匀铺上约1厘米厚的砂糖，上面覆盖2~3层厨房纸巾，然后再放入剥皮大蒜。砂糖是极佳的天然吸湿剂，能吸收盒内湿气，使大蒜表面保持干爽。"
+                    },
+                    {
+                        "name": "带皮整头大蒜装入网袋悬挂 — 常温保存 (30~60天) 🌬️",
+                        "text": "带皮的整头大蒜冷藏时，冰箱内的低温潮湿环境会唤醒其休眠状态，导致发芽、长根并迅速腐烂。💡储存小贴士：将整头大蒜装入洋葱网袋或透气网包中，悬挂在无阳光直射、凉爽通风的常温（10~15℃）阴凉处。"
+                    },
+                    {
+                        "name": "蒜泥装入硅胶冰格冷冻分装 — 冷冻保存 (180天) ❄️",
+                        "text": "打碎大蒜会破坏细胞并激活蒜素，但接触空气后极易氧化变褐并散失风味。💡储存小贴士：将蒜泥在拉链袋中平铺，用刀背划出方格线冷冻，或装入硅胶冰格中冷冻（-18℃以下）。使用时按需取出一块，既方便又能锁住营养。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "将剥皮大蒜冷藏时，为什么要在保鲜盒底部铺砂糖？",
+                        "answer": "砂糖具有强吸湿性（Hygroscopic property），能主动吸引并吸收空气中的水汽。在密封盒底部铺砂糖并垫上厨房纸巾，砂糖能彻底吸收盒内结露和大蒜渗出的湿气，有效防止大蒜因受潮而发黏长霉。"
+                    },
+                    {
+                        "question": "为什么不能把带皮的整头大蒜放进冰箱冷藏？",
+                        "answer": "带皮的整头大蒜若置于冰箱（0~4℃）潮湿寒冷的环境中，会打破其休眠期，刺激其发芽长根。此外，冰箱内的湿气会导致蒜瓣变软滋生霉菌，因此带皮储存时必须悬挂在通风良好的凉爽常温阴凉处。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cómo mantener el ajo fresco: Guía científica de conservación",
+                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para el ajo según las directrices oficiales de seguridad.",
+                "authority": "<strong>RDA & MFDS & USDA</strong>",
+                "intro": "¿Alguna vez peló una gran cantidad de ajo para ahorrar tiempo, solo para ver cómo en pocos días se ponía viscoso y se cubría de moho blanco en el refrigerador? 🧄\n\nEn el momento en que se pela el ajo, pierde su capa protectora externa y se vuelve extremadamente sensible a la humedad. La condensación y el agua atrapada dentro de los contenedores crean el ambiente perfecto para que crezcan mohos y bacterias. Por ello, controlar la humedad es la clave fundamental de la frescura.\n\nHoy, FreshSnap comparte una guía científica en 3 pasos basada en investigaciones del USDA y la RDA para preservar la frescura, el sabor y la alicina del ajo entero, pelado y picado por más tiempo. 🛡️",
+                "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+                "guideTitle": "Guía de almacenamiento científicamente probada",
+                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+                "tags": [
+                    "Ajo",
+                    "Guía de almacenamiento científicamente probada",
+                    "vegetable"
+                ],
+                "cautions": [
+                    {
+                        "title": "Aísle e identifique los dientes de ajo dañados o brotados de inmediato 🧄",
+                        "desc": "Los dientes de ajo con magulladuras o brotes sufren daños celulares que aumentan considerablemente la liberación de gas etileno y humedad. Esto ablanda y pudre los dientes sanos de alrededor. Retire las partes dañadas y consúmalas de inmediato."
+                    },
+                    {
+                        "title": "Nunca lave y consuma ajos que hayan desarrollado moho ⚠️",
+                        "desc": "Si aparece moho azul o negro en el ajo, no basta con lavar la superficie. Las esporas de moho y las micotoxinas se extienden profundamente en la pulpa blanda, lo que puede causar malestares estomacales graves. Deséchelos inmediatamente."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Esparza azúcar y papel de cocina al fondo del contenedor para ajos pelados — Refrigeración (14–21 días) 🪙",
+                        "text": "El ajo pelado se pudre rápidamente en contacto con la humedad. 💡 Consejo de almacenamiento: Coloque una capa de 1 cm de azúcar en el fondo de un recipiente hermético, cúbrala con 2 o 3 capas de toallas de papel y coloque los ajos pelados encima. El azúcar absorbe la humedad ambiental, manteniendo el ajo seco."
+                    },
+                    {
+                        "name": "Cuelgue las cabezas de ajo enteras en una bolsa de red — Temp. Ambiente (30–60 días) 🌬️",
+                        "text": "Refrigerar cabezas de ajo enteras rompe su estado de latencia debido al frío húmedo, estimulando brotes, raíces y pudrición. 💡 Consejo de almacenamiento: Guarde las cabezas de ajo en una bolsa de red y cuélguelas en un lugar fresco, oscuro y ventilado (10-15 °C) sin sol directo."
+                    },
+                    {
+                        "name": "Congele el ajo picado en cubiteras de silicona — Congelación (180 días) ❄️",
+                        "text": "Picar el ajo activa la alicina pero la exposición al aire lo oxida rápido, oscureciéndolo. 💡 Consejo de almacenamiento: Extienda el ajo picado en una bolsa Ziploc marcada en cuadrícula o congélelo en cubiteras de silicona (-18 °C). Extraiga una porción para cocinar cuando lo necesite."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Por qué se coloca azúcar en el fondo del recipiente al refrigerar ajos pelados?",
+                        "answer": "El azúcar tiene alta propiedad higroscópica, lo que significa que atrae y absorbe activamente la humedad del aire. Al cubrir el azúcar con toallas de papel en un recipiente hermético, absorbe toda la condensación interna y la humedad del ajo, evitando que se ponga blando y críe moho."
+                    },
+                    {
+                        "question": "¿Por qué no se deben guardar las cabezas de ajo enteras en el refrigerador?",
+                        "answer": "Las cabezas de ajo con piel en un ambiente frío y húmedo (0-4 °C) rompen su estado de latencia, comenzando a brotar y echar raíces. La humedad del refrigerador también ablanda los dientes y favorece el moho, por lo que deben colgarse siempre en un lugar fresco, sombreado y bien ventilado a temperatura ambiente."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Comment conserver l'ail frais : Guide scientifique de conservation",
+                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour l'ail selon les directives officielles de sécurité.",
+                "authority": "<strong>RDA & MFDS & USDA</strong>",
+                "intro": "Avez-vous déjà épluché une grande quantité d'ail à l'avance pour gagner du temps, pour le retrouver mou, gluant et recouvert de moisissure quelques jours plus tard au réfrigérateur ? 🧄\n\nDès qu'il est épluché, l'ail perd sa pellicule protectrice et devient très sensible à l'humidité. La condensation et l'eau emprisonnées dans les boîtes créent un milieu parfait pour le développement des bactéries et des moisissures. Le contrôle de l'eau est donc la clé absolue de sa conservation.\n\nAujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes basé sur les recherches du USDA et de la RDA pour préserver le goût, les nutriments et l'allicine de l'ail entier, épluché ou haché. 🛡️",
+                "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
+                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+                "guideTitle": "Guide de conservation scientifiquement prouvé",
+                "cautionTitle": "Règles essentielles et précautions de stockage",
+                "tags": [
+                    "Ail",
+                    "Guide de conservation scientifiquement prouvé",
+                    "vegetable"
+                ],
+                "cautions": [
+                    {
+                        "title": "Isolez immédiatement les gousses d'ail abîmées ou germées 🧄",
+                        "desc": "Les gousses d'ail meurtries ou germées ont des tissus cellulaires altérés, ce qui dégage plus de gaz éthylène et d'humidité. Cela fait ramollir et pourrir les gousses saines environnantes ; coupez les parties abîmées et cuisinez-les de suite."
+                    },
+                    {
+                        "title": "Ne lavez jamais un ail moisi pour le consommer ⚠️",
+                        "desc": "Si de la moisissure bleue ou noire apparaît sur l'ail, il ne suffit pas de laver la surface. Les spores et mycotoxines pénètrent profondément dans la chair tendre, risquant de provoquer des troubles digestifs. Jetez immédiatement l'ail moisi."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Étaler du sucre et de l'essuie-tout au fond de la boîte pour l'ail épluché — Réfrigération (14–21 jours) 🪙",
+                        "text": "L'ail épluché pourrit très vite s'il reste en contact avec l'eau. 💡 Astuce de conservation : Versez 1 cm de sucre au fond d'une boîte hermétique, recouvrez de 2 à 3 feuilles d'essuie-tout et déposez l'ail épluché. Le sucre capte l'humidité et maintient la surface de l'ail bien sèche."
+                    },
+                    {
+                        "name": "Suspendre les têtes d'ail entières dans un filet — Temp. Ambiante (30–60 jours) 🌬️",
+                        "text": "Placer des têtes d'ail non épluchées au frais et à l'humidité interrompt leur dormance, ce qui fait germer des racines et pourrir l'ail. 💡 Astuce de conservation : Mettez les têtes d'ail dans un filet aéré et suspendez-les à l'abri du soleil dans un endroit frais et bien ventilé (10-15 °C)."
+                    },
+                    {
+                        "name": "Congeler l'ail haché dans des bacs en silicone — Stockage Congelé (180 jours) ❄️",
+                        "text": "Hacher l'ail libère l'allicine, mais l'air l'oxyde vite, brunissant la chair et altérant le goût. 💡 Astuce de conservation : Étalez l'ail haché dans un sac Ziploc pré-quadrillé ou congelez-le dans des bacs à glaçons en silicone (-18 °C). Démoulez un cube pour cuisiner sans perte de nutriments."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Pourquoi met-on du sucre au fond du récipient pour conserver l'ail épluché au frigo ?",
+                        "answer": "Le sucre possède una forte propriété hygroscopique, absorbant activement l'humidité de l'air. En recouvrant le sucre d'essuie-tout au fond d'une boîte hermétique, il piège la condensation et l'humidité dégagées par l'ail, évitant que les gousses ne ramollissent ou ne moisissent."
+                    },
+                    {
+                        "question": "Pourquoi ne faut-il pas mettre les têtes d'ail entières au réfrigérateur ?",
+                        "answer": "Conserver des têtes d'ail entières au réfrigérateur (0-4 °C) dans un milieu froid et humide interrompt leur période de repos végétatif, ce qui déclenche la germination et la pousse des racines. L'humidité les fait aussi ramollir et moisir ; conservez-les toujours dans un endroit frais, sombre et aéré à température ambiante."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Knoblauch richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Knoblauch basierend auf offiziellen Sicherheitsrichtlinien.",
+                "authority": "<strong>RDA & MFDS & USDA</strong>",
+                "intro": "Haben Sie schon einmal viel Knoblauch auf einmal geschält, um Zeit zu sparen, nur um festzustellen, dass er nach wenigen Tagen im Kühlschrank schleimig wurde und weißen Schimmel ansetzte? 🧄\n\nSobald Knoblauch geschält wird, verliert er seine Schutzschicht und reagiert extrem empfindlich auf Luftfeuchtigkeit. Kondenswasser und Feuchtigkeit in Behältern bilden den perfekten Nährboden für Schimmelpilze und Bakterien, weshalb Feuchtigkeitskontrolle das A und O ist.\n\nHeute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Forschungen von USDA und RDA basiert, um Geschmack, Nährstoffe und Allicin in ganzem, geschältem und gehacktem Knoblauch lange zu erhalten. 🛡️",
+                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+                "tags": [
+                    "Knoblauch",
+                    "Wissenschaftlich geprüfter Lagerungsratgeber",
+                    "vegetable"
+                ],
+                "cautions": [
+                    {
+                        "title": "Sortieren Sie beschädigte oder gekeimte Zehen sofort aus 🧄",
+                        "desc": "Beschädigte oder keimende Knoblauchzehen weisen Gewebeschäden auf, wodurch sie vermehrt Ethylengas und Feuchtigkeit abgeben. Dies lässt benachbarte gesunde Zehen weich werden und verfaulen. Schneiden Sie beschädigte Stellen ab und verkochen Sie sie direkt."
+                    },
+                    {
+                        "title": "Essen Sie niemals Knoblauch mit Schimmelbefall ⚠️",
+                        "desc": "Wenn sich blauer oder schwarzer Schimmel bildet, reicht ein Abwaschen nicht aus. Schimmelsporen und Toxine dringen tief in das weiche Fleisch ein, was Magen-Darm-Beschwerden verursachen kann. Entsorgen Sie schimmeligen Knoblauch sofort."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Zucker und Küchenpapier für geschälten Knoblauch auslegen — Kühlen (14–21 Tage) 🪙",
+                        "text": "Geschälter Knoblauch verfault bei Feuchtigkeit sehr schnell. 💡 Lagerungstipp: Verteilen Sie eine 1 cm dicke Zuckerschicht auf dem Boden eines luftdichten Behälters, decken Sie diese mit 2–3 Lagen Küchenpapier ab und legen Sie die Zehen darauf. Zucker zieht Feuchtigkeit an und hält die Zehen trocken."
+                    },
+                    {
+                        "name": "Ganzen Knoblauch in einem Netz aufhängen — Raumtemperatur (30–60 Tage) 🌬️",
+                        "text": "Das Kühlen ungeschälter Knoblauchknollen bricht durch die feuchte Kälte ihre Keimruhe, was zu Wurzeltrieben und Fäulnis führt. 💡 Lagerungstipp: Geben Sie Knollen in ein Zwiebelnetz und hängen Sie sie an einem kühlen, schattigen und gut belüfteten Ort (10–15 °C) auf."
+                    },
+                    {
+                        "name": "Gehackten Knoblauch in Silikonformen einfrieren — Gefrierlagerung (180 Tage) ❄️",
+                        "text": "Hacken zerstört Zellen und aktiviert Allicin, aber Luftkontakt oxidiert es schnell und lässt es braun werden. 💡 Lagerungstipp: Streichen Sie gehackten Knoblauch in einem Ziploc-Beutel flach und ritzeln Sie Würfel ein oder frieren Sie ihn in Silikonformen bei unter -18 °C ein."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Warum legt man Zucker auf den Boden des Behälters, wenn man geschälten Knoblauch kühlt?",
+                        "answer": "Zucker besitzt eine starke hygroskopische Eigenschaft, bindet also aktiv Feuchtigkeit aus der Umgebungsluft. Wird Zucker unter Küchenpapier in einer Dose ausgelegt, saugt er Kondenswasser und Knoblauchfeuchte vollständig auf und schützt zuverlässig vor Schimmel."
+                    },
+                    {
+                        "question": "Warum sollte man ganze Knoblauchknollen nicht im Kühlschrank lagern?",
+                        "answer": "Ganze Knollen in der feuchtkalten Umgebung des Kühlschranks (0–4 °C) erwachen aus der Keimruhe und beginnen zu sprießen. Zudem lässt die Feuchtigkeit die Zehen weich werden und Schimmel ansetzen. Ganzem Knoblauch bekommt eine luftige, kühle Lagerung bei Raumtemperatur am besten."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Como conservar alho fresco: Guia científico de armazenamento",
+                "description": "Descubra a temperatura, método e tempo de conservação ideais para alho com base em diretrizes oficiais de segurança.",
+                "authority": "<strong>RDA & MFDS & USDA</strong>",
+                "intro": "Você já descascou uma grande quantidade de alho para economizar tempo e viu que em poucos dias na geladeira ele ficou viscoso e coberto de mofo branco? 🧄\n\nNo momento em que o alho é descascado, ele perde sua película protetora externa, tornando-se extremamente sensível à umidade. A condensação e a água presas nos potes criam o ambiente perfeito para o crescimento de mofo e bactérias, sendo o controle da umidade o segredo fundamental do frescor.\n\nHoje, o FreshSnap apresenta um guia de conservação em 3 etapas baseado em pesquisas do USDA e da RDA para preservar o sabor, os nutrientes e a alicina do alho inteiro, descascado ou triturado por muito mais tempo. 🛡️",
+                "whyTitle": "Por que armazenar assim? Fatos científicos",
+                "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+                "guideTitle": "Guia de armazenamento comprovado cientificamente",
+                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+                "tags": [
+                    "Alho",
+                    "Guia de armazenamento comprovado cientificamente",
+                    "vegetable"
+                ],
+                "cautions": [
+                    {
+                        "title": "Separe imediatamente os dentes de alho machucados ou brotados 🧄",
+                        "desc": "Dentes de alho com machucados ou brotos sofrem danos celulares que aumentam a liberação de gás etileno e umidade. Isso amolece e estraga os dentes saudáveis ao redor. Corte as partes danificadas e use-as imediatamente."
+                    },
+                    {
+                        "title": "Nunca lave e consuma alho que tenha desenvolvido mofo ⚠️",
+                        "desc": "Se aparecer mofo azul ou preto no alho, não basta lavar a superfície. Os esporos e micotoxinas penetram profundamente na polpa macia, podendo causar sérios problemas estomacais. Descarte o alho mofado imediatamente."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Espalhe açúcar e papel-toalha no fundo do pote para alho descascado — Refrigeração (14–21 dias) 🪙",
+                        "text": "O alho descascado estraga rápido em contato com a umidade. 💡 Dica de conservação: Espalhe uma camada de 1 cm de açúcar no fundo do pote hermético, cubra com 2 a 3 folhas de papel-toalha e coloque o alho descascado. O açúcar atua como dessecante natural, retendo a umidade."
+                    },
+                    {
+                        "name": "Pendure as cabeças de alho inteiras em uma rede — Temp. Ambiente (30–60 dias) 🌬️",
+                        "text": "Refrigerar cabeças de alho inteiras quebra sua dormência devido ao frio úmido, estimulando brotos, raízes e apodrecimento. 💡 Dica de conservação: Coloque as cabeças de alho em uma rede e pendure em local fresco, escuro e ventilado (10-15 °C) sem sol direto."
+                    },
+                    {
+                        "name": "Congele o alho triturado em fôrmas de silicone — Congelamento (180 dias) ❄️",
+                        "text": "Triturar o alho ativa a alicina, mas o contato com o ar o oxida rápido, escurecendo a polpa. 💡 Dica de conservação: Espalhe o alho triturado em um saco Ziploc marcado em grade ou congele em fôrmas de silicone (-18 °C). Retire uma porção para cozinhar sem perder nutrientes."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Por que se coloca açúcar no fundo do pote ao refrigerar alho descascado?",
+                        "answer": "O açúcar tem forte propriedade higroscópica, ou seja, atrai e absorve ativamente a umidade do ar. Ao cobrir o açúcar com papel-toalha em um pote hermético, ele absorve toda a condensação e a umidade do alho, evitando que os dentes amoleçam e mofem."
+                    },
+                    {
+                        "question": "Por que não se deve guardar cabeças de alho inteiras na geladeira?",
+                        "answer": "Guardar cabeças de alho inteiras no ambiente frio e úmido da geladeira (0-4 °C) interrompe seu período de dormência, fazendo com que comecem a brotar e criar raízes. A umidade da geladeira também amolece os dentes e estimula mofo; por isso, guarde-as sempre em local fresco, escuro e ventilado."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Cara Menyimpan Bawang Putih agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk bawang putih berdasarkan pedoman keselamatan resmi.",
+                "authority": "<strong>RDA & MFDS & USDA</strong>",
+                "intro": "Pernahkah Anda mengupas bawang putih dalam jumlah banyak untuk menghemat waktu, lalu mendapatinya menjadi berlendir, lembek, dan berjamur putih beberapa hari kemudian di kulkas? 🧄\n\nBegitu dikupas, bawang putih kehilangan kulit pelindung luarnya dan menjadi sangat sensitif terhadap kelembapan. Kondensasi dan air yang terperangkap di dalam wadah menciptakan media sempurna bagi jamur dan bakteri, sehingga kontrol kelembapan adalah kunci utama kesegaran.\n\nHari ini, FreshSnap membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan penelitian USDA dan RDA untuk menjaga rasa, nutrisi, dan kandungan alisin dari bawang putih utuh, kupas, maupun cincang. 🛡️",
+                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+                "tags": [
+                    "Bawang putih",
+                    "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                    "vegetable"
+                ],
+                "cautions": [
+                    {
+                        "title": "Segera pisahkan siung bawang putih yang memar atau bertunas 🧄",
+                        "desc": "Siung bawang putih yang memar atau bertunas mengalami kerusakan sel yang meningkatkan pelepasan gas etilen dan kelembapan. Hal ini membuat bawang putih kupas di sekitarnya cepat lembek dan membusuk; potong bagian yang rusak dan segera gunakan."
+                    },
+                    {
+                        "title": "Jangan pernah mencuci dan memakan bawang putih yang berjamur ⚠️",
+                        "desc": "Jika jamur biru atau hitam muncul pada bawang putih, cukup mencuci permukaannya saja tidaklah aman. Spora jamur dan mikotoksin telah meresap jauh ke dalam daging bawang, yang dapat memicu gangguan pencernaan parah. Segera buang."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Taburkan gula dan tisu dapur di dasar wadah untuk bawang putih kupas — Simpan Dingin (14–21 Hari) 🪙",
+                        "text": "Bawang putih kupas cepat membusuk jika terkena kelembapan. 💡 Tips Penyimpanan: Taburkan gula setebal 1 cm di dasar wadah kedap udara, lapisi dengan 2–3 lembar tisu dapur, lalu masukkan bawang putih kupas. Gula bertindak sebagai penyerap kelembapan alami agar bawang putih tetap kering."
+                    },
+                    {
+                        "name": "Gantung bawang putih utuh dalam kantong jaring — Suhu Ruang (30–60 Hari) 🌬️",
+                        "text": "Menyimpan bawang putih utuh yang belum dikupas di kulkas akan merusak masa dormansinya akibat kelembapan dingin, memicu bertunas, berakar, dan membusuk. 💡 Tips Penyimpanan: Masukkan bawang utuh ke dalam kantong jaring lalu gantung di area berventilasi baik, sejuk, dan teduh (10–15°C)."
+                    },
+                    {
+                        "name": "Bekukan bawang putih cincang dalam cetakan silikon — Simpan Beku (180 Hari) ❄️",
+                        "text": "Mencincang bawang putih merusak sel dan mengaktifkan alisin, namun paparan udara dengan cepat mengoksidasinya hingga kecokelatan. 💡 Tips Penyimpanan: Ratakan bawang putih cincang di kantong Ziploc bergaris sekat atau bekukan dalam cetakan es silikon (-18°C) untuk diambil sesuai kebutuhan."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mengapa gula ditaburkan di dasar wadah saat menyimpan bawang putih kupas di kulkas?",
+                        "answer": "Gula memiliki sifat higroskopis yang kuat, yaitu secara aktif menarik dan menyerap kelembapan dari udara. Saat dilapisi tisu dapur di dasar wadah kedap udara, gula menyerap semua kondensasi dan air yang keluar dari bawang putih, secara efektif mencegah tekstur lembek dan pertumbuhan jamur."
+                    },
+                    {
+                        "question": "Mengapa bawang putih utuh yang belum dikupas tidak boleh disimpan di dalam kulkas?",
+                        "answer": "Bawang putih utuh yang disimpan di lingkungan kulkas yang dingin dan lembap (0–4°C) akan bangun dari masa dormansinya, merangsang tumbuhnya tunas dan akar. Kelembapan kulkas juga melunakkan siung dan memicu jamur, sehingga bawang utuh harus selalu digantung di tempat sejuk dan berventilasi pada suhu ruang."
+                    }
+                ]
+            }
+        }
     }
-  }
 }

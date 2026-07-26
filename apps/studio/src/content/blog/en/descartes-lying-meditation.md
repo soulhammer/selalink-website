@@ -30,7 +30,7 @@ René Descartes (1596–1650) was the French philosopher and mathematician regar
 
 From early childhood, Descartes suffered from frail health, making early mornings physically taxing. Recognizing his extraordinary intellectual gifts, his teachers at the Jesuit College of La Flèche permitted him to remain in bed late every morning to meditate. Descartes maintained this habit throughout his adult life, even during military service. Every morning upon waking, he remained flat in bed until noon, reading, proving mathematical theorems, and writing philosophy. He firmly believed that complete bodily relaxation in a horizontal posture shielded the prefrontal cortex from sensory noise and physical fatigue, unlocking pure, uninhibited rational deduction.
 
-In today's post, we analyze the brain science underlying René Descartes's 'lying meditation' routine—exploring morning cortisol responses and alpha-wave brain states—and present a 3-step practical action plan for modern individuals to optimize post-waking mental clarity.
+In today's post, we analyze the brain science underlying René Descartes's 'lying meditation' routine—exploring morning cortisoland alpha-wave brain states—and present a 3-step practical action plan for modern individuals to optimize post-waking mental clarity.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

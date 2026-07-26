@@ -6,7 +6,7 @@ pubDate: "2026-07-15"
 updatedDate: "2026-07-15"
 category: "FreshSelf"
 tags: ["반려동물","펫케어","홀랜드 롭 토끼 (Oryctolagus cuniculus / Holland Lop)"]
-heroImage: "/images/blog/holland_lop_care.png"
+heroImage: "/images/blog/holland_lop_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "House Rabbit Society (HRS) 및 Association of Exotic Mammal Veterinarians (AEMV) 수생/특수동물 표준"

@@ -6,7 +6,7 @@ pubDate: "2026-05-21"
 updatedDate: "2026-05-21"
 category: "FreshSelf"
 tags: ["SoinAnimaux","SanteAnimaux","Hérisson Pygmée Africain (Atelerix albiventris / African Pygmy Hedgehog)"]
-heroImage: "/images/blog/pygmy_hedgehog_care.png"
+heroImage: "/images/blog/pygmy_hedgehog_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Directives de la Hedgehog Welfare Society et Protocoles Vétérinaires pour Animaux Exotiques"

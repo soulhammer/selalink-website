@@ -6,7 +6,7 @@ pubDate: "2026-06-01"
 updatedDate: "2026-06-01"
 category: "FreshSelf"
 tags: ["宠物护理","宠物健康","美西螈 / 六角恐龙 (Axolotl)"]
-heroImage: "/images/blog/axolotl_care.png"
+heroImage: "/images/blog/axolotl_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "国际两栖动物保育 (Amphibian Ark) 兽医护理协议"

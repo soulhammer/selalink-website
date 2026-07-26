@@ -6,7 +6,7 @@ pubDate: "2026-01-16"
 updatedDate: "2026-01-16"
 category: "FreshSnap"
 tags: ["食材保存","保鲜技巧","onion"]
-heroImage: "/images/blog/onion_storage_hack.png"
+heroImage: "/images/blog/onion_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & FSA</strong>"

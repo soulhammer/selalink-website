@@ -6,7 +6,7 @@ pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "FreshSnap"
 tags: ["食材保存","保鲜技巧","chicken"]
-heroImage: "/images/blog/chicken_storage_hack.png"
+heroImage: "/images/blog/chicken_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>美国农务部(USDA) & 韩国食品医药品安全处(MFDS) & CDC</strong>"

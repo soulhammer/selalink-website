@@ -6,7 +6,7 @@ pubDate: "2026-04-18"
 updatedDate: "2026-04-18"
 category: "FreshSelf"
 tags: ["Haustierpflege","Haustiergesundheit","Bengalkatze (Prionailurus bengalensis × Felis catus)"]
-heroImage: "/images/blog/bengal_care.png"
+heroImage: "/images/blog/bengal_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Rassenleitfaden für Bengalkatzen von The International Cat Association (TICA) und Standards der Katzenverhaltensmedizin"

@@ -6,7 +6,7 @@ pubDate: "2026-03-15"
 updatedDate: "2026-03-15"
 category: "FreshSelf"
 tags: ["반려동물","펫케어","코리안 숏헤어 (Felis catus)"]
-heroImage: "/images/blog/koshort_care.png"
+heroImage: "/images/blog/koshort_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Cornell Feline Health Center 고양이 행동 백서 및 농촌진흥청 국립축산과학원 가이드"

@@ -6,7 +6,7 @@ pubDate: "2026-04-07"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
 tags: ["반려동물","펫케어","터키시 앙고라 (Turkish Angora)"]
-heroImage: "/images/blog/turkish_angora_care.png"
+heroImage: "/images/blog/turkish_angora_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "CFA (Cat Fanciers' Association) 터키시 앙고라 분과위원회 및 고양이 선천성 난청 수의학 연구 지침"

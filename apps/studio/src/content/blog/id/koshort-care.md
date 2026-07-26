@@ -6,7 +6,7 @@ pubDate: "2026-03-15"
 updatedDate: "2026-03-15"
 category: "FreshSelf"
 tags: ["PerawatanHewan","KesehatanHewan","Korean Shorthair (Felis catus)"]
-heroImage: "/images/blog/koshort_care.png"
+heroImage: "/images/blog/koshort_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Panduan Perilaku Cornell Feline Health Center & Manual Perawatan Hewan Pendamping NIAS"

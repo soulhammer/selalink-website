@@ -6,7 +6,7 @@ pubDate: "2026-04-08"
 updatedDate: "2026-04-08"
 category: "FreshSelf"
 tags: ["SoinAnimaux","SanteAnimaux","Norvégien (Felis catus / Norwegian Forest Cat)"]
-heroImage: "/images/blog/norwegian_forest_care.png"
+heroImage: "/images/blog/norwegian_forest_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Directives de The International Cat Association (TICA) et Éthologie Clinique Féline"

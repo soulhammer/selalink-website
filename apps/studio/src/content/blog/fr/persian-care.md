@@ -6,7 +6,7 @@ pubDate: "2026-06-05"
 updatedDate: "2026-06-05"
 category: "FreshSelf"
 tags: ["SoinAnimaux","SanteAnimaux","Chat Persan (Felis catus / Persian Cat)"]
-heroImage: "/images/blog/persian_care.png"
+heroImage: "/images/blog/persian_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Directives d'Élevage de la CFA pour les Persans et Normes Vétérinaires Féline de l'AAFP"

@@ -6,7 +6,7 @@ pubDate: "2026-03-15"
 updatedDate: "2026-03-15"
 category: "FreshSelf"
 tags: ["CuidadoMascotas","SaludMascotas","Shorthair Coreano (Felis catus)"]
-heroImage: "/images/blog/koshort_care.png"
+heroImage: "/images/blog/koshort_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Guía Comportamental del Cornell Feline Health Center y Manual de Cuidado del NIAS"

@@ -6,7 +6,7 @@ pubDate: "2026-01-07"
 updatedDate: "2026-01-07"
 category: "FreshSnap"
 tags: ["식재료보관","신선보관","green-onion"]
-heroImage: "/images/blog/green_onion_storage_hack.png"
+heroImage: "/images/blog/green_onion_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>농촌진흥청(RDA) & 식품의약품안전처(MFDS) & 미국 농무부(USDA)</strong>"

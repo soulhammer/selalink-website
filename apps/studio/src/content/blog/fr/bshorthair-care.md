@@ -6,7 +6,7 @@ pubDate: "2026-03-08"
 updatedDate: "2026-03-09"
 category: "FreshSelf"
 tags: ["SoinAnimaux","SanteAnimaux","British Shorthair (British Shorthair)"]
-heroImage: "/images/blog/bshorthair_care.png"
+heroImage: "/images/blog/bshorthair_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Normes de la GCCF pour le British Shorthair et Directives sur l'Obesité Féline de l'AAFP"

@@ -6,7 +6,7 @@ pubDate: "2026-06-03"
 updatedDate: "2026-06-03"
 category: "FreshSnap"
 tags: ["식재료보관","신선보관","butter"]
-heroImage: "/images/blog/butter_storage_hack.png"
+heroImage: "/images/blog/butter_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>"

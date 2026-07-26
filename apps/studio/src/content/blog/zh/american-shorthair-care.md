@@ -6,7 +6,7 @@ pubDate: "2026-03-02"
 updatedDate: "2026-03-02"
 category: "FreshSelf"
 tags: ["宠物护理","宠物健康","美国短毛猫 (American Shorthair)"]
-heroImage: "/images/blog/american_shorthair_care.png"
+heroImage: "/images/blog/american_shorthair_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "CFA (国际爱猫者协会) 美国短毛猫品种标准与康奈尔猫科健康中心研究数据"

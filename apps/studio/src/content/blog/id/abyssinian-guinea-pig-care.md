@@ -6,7 +6,7 @@ pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "FreshSelf"
 tags: ["PerawatanHewan","KesehatanHewan","Marmut Abyssinian (Guinea Pig)"]
-heroImage: "/images/blog/abyssinian_guinea_pig_care.png"
+heroImage: "/images/blog/abyssinian_guinea_pig_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Pedoman Perawatan Hewan Pengerat RSPCA dan Standar Klinis Dokter Hewan Eksotis"

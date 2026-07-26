@@ -6,7 +6,7 @@ pubDate: "2026-04-03"
 updatedDate: "2026-04-03"
 category: "FreshSelf"
 tags: ["ペットケア","ペット健康","コモンマスクタートル (Sternotherus odoratus / Common Musk Turtle)"]
-heroImage: "/images/blog/musk_turtle_care.png"
+heroImage: "/images/blog/musk_turtle_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "World Chelonian Association カメ衛生ガイドおよび半水生カメ飼育臨床基準"

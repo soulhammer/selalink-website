@@ -6,7 +6,7 @@ pubDate: "2026-05-19"
 updatedDate: "2026-05-19"
 category: "FreshSnap"
 tags: ["食材保存","保鲜技巧","bread"]
-heroImage: "/images/blog/bread_storage_hack.png"
+heroImage: "/images/blog/bread_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>美国农务部(USDA) & FSA & 韩国食品医药品安全处(MFDS)</strong>"

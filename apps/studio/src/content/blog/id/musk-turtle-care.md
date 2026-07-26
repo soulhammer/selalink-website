@@ -6,7 +6,7 @@ pubDate: "2026-04-03"
 updatedDate: "2026-04-03"
 category: "FreshSelf"
 tags: ["PerawatanHewan","KesehatanHewan","Kura-Kura Kasturi Umum (Sternotherus odoratus / Common Musk Turtle)"]
-heroImage: "/images/blog/musk_turtle_care.png"
+heroImage: "/images/blog/musk_turtle_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Panduan Berjemur World Chelonian Association dan Protokol Medis Kura-Kura Akuatik"

@@ -6,7 +6,7 @@ pubDate: "2026-02-10"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
 tags: ["PerawatanHewan","KesehatanHewan","Scottish Fold"]
-heroImage: "/images/blog/scottish_fold_care.png"
+heroImage: "/images/blog/scottish_fold_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Protokol Kartilago Herediter ISFM (International Society of Feline Medicine) & Pedoman Ras GCCF"

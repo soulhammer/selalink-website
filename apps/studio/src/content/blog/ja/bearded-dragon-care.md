@@ -6,7 +6,7 @@ pubDate: "2026-03-17"
 updatedDate: "2026-03-17"
 category: "FreshSelf"
 tags: ["ペットケア","ペット健康","フトアゴヒゲトカゲ (Pogona vitticeps)"]
-heroImage: "/images/blog/bearded_dragon_care.png"
+heroImage: "/images/blog/bearded_dragon_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "爬虫類両生類獣医師会（ARAV）飼育ガイドラインおよび爬虫類臨床標準獣医行動学"

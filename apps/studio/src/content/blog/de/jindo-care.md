@@ -6,7 +6,7 @@ pubDate: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "FreshSelf"
 tags: ["Haustierpflege","Haustiergesundheit","Jindo-Hund (Canis lupus familiaris)"]
-heroImage: "/images/blog/jindo_care.png"
+heroImage: "/images/blog/jindo_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Richtlinien des Nationalen Instituts für Nutztierwissenschaften Koreas und KKC-Expertenprotokolle"

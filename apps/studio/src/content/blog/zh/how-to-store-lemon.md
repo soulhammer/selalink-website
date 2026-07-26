@@ -6,7 +6,7 @@ pubDate: "2026-02-13"
 updatedDate: "2026-02-13"
 category: "FreshSnap"
 tags: ["食材保存","保鲜技巧","lemon"]
-heroImage: "/images/blog/lemon_storage_hack.png"
+heroImage: "/images/blog/lemon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>美国农务部(USDA) & FSA & 韩国食品医药品安全处(MFDS)</strong>"

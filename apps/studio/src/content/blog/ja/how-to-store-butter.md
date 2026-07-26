@@ -6,7 +6,7 @@ pubDate: "2026-06-03"
 updatedDate: "2026-06-03"
 category: "FreshSnap"
 tags: ["食材保存","鮮度保持","butter"]
-heroImage: "/images/blog/butter_storage_hack.png"
+heroImage: "/images/blog/butter_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>"

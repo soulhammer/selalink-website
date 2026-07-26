@@ -6,7 +6,7 @@ pubDate: "2026-02-17"
 updatedDate: "2026-02-17"
 category: "FreshSelf"
 tags: ["CuidadoMascotas","SaludMascotas","Conejo Enano de Holanda (Oryctolagus cuniculus)"]
-heroImage: "/images/blog/dwarf_rabbit_care.png"
+heroImage: "/images/blog/dwarf_rabbit_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "Directrices Médicas de la House Rabbit Society y Estándares Veterinarios de Animales Pequeños"

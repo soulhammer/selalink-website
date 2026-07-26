@@ -6,7 +6,7 @@ pubDate: "2026-01-02"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
 tags: ["ペットケア","ペット健康","ヨークシャーテリア (Yorkshire Terrier)"]
-heroImage: "/images/blog/yorkshire_care.png"
+heroImage: "/images/blog/yorkshire_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "英国ヨークシャーテリアクラブ(YTC)公式被毛ガイド＆獣医整形外科学行動指針"

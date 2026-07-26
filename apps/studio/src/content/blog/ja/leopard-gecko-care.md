@@ -6,7 +6,7 @@ pubDate: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "FreshSelf"
 tags: ["ペットケア","ペット健康","ヒョウモントカゲモドキ (Eublepharis macularius / Leopard Gecko)"]
-heroImage: "/images/blog/leopard_gecko_care.png"
+heroImage: "/images/blog/leopard_gecko_care.webp"
 app: "petself"
 formatVersion: 4
 authority: "爬虫類・両生類獣医師協会 (ARAV) 飼育ガイドラインおよび臨床標準"
