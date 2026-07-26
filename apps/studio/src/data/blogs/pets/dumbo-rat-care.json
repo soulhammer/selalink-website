@@ -1,0 +1,516 @@
+{
+    "dumbo-rat-care": {
+        "pubDate": "2026-05-28",
+        "updatedDate": "2026-05-28",
+        "locales": {
+            "ko": {
+                "title": "덤보 래트의 교감 신호 해석과 마이코플라즈마 호흡기 질환 및 유선 종양 예방을 위한 3단계 데일리 케어",
+                "description": "귀여운 큰 귀와 높은 지능을 지닌 덤보 래트(Dumbo Rat). 눈알 떨림(Boggling) 및 털 세우기 신호 해석, 마이코플라즈마 호흡기 케어 및 사회성·종양 예방을 위한 3단계 홈케어 루틴을 소개합니다.",
+                "authority": "AFRMA (미국 팬시 래트 및 마우스 협회) 및 NFRS (국립 팬시 래트 협회) 케어 프로토콜",
+                "profile": {
+                    "breed": "덤보 래트 (Dumbo Rat / Rattus norvegicus domestica)",
+                    "lifespan": "2 ~ 3년 (올바른 케어 시 최대 3.5년)",
+                    "sleep_pattern": "12 ~ 15시간 (야행성/박명성, 주간 수면 및 야간 활동)",
+                    "temperament": "다정함, 매우 영리함, 사회성 높음, 장난기 많음, 애교 많음"
+                },
+                "intro": "머리 양옆에 낮게 위치한 커다란 동그란 귀가 매력적인 덤보 래트(Dumbo Rat)는 높은 지능과 강아지 같은 애교('포켓 파피')로 전 세계 설치류 애호가들에게 사랑받는 반려동물입니다. 래트는 강아지만큼 지능이 높아 이름 불러 찾아오기나 트릭 훈련이 가능하지만, 호흡기 계통이 극도로 민감하여 '마이코플라즈마(Mycoplasma pulmonis)' 균으로 인한 만성 호흡기 질환에 취약합니다. 특히 소나무·삼나무 베딩의 페놀 성분이나 먼지, 높은 암모니아 농도는 호흡기 파괴를 유발합니다. 또한 매우 사회적인 동물이어서 홀로 사육 시 우울증에 걸리기 쉬우며, 암컷의 경우 유선 종양 발병률이 높습니다. 오늘 PetSelf에서는 덤보 래트의 신체 신호를 정확히 읽어내고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.",
+                "whyTitle": "덤보 래트의 바디 랭귀지: 눈알 떨림(Boggling / Bruxing)과 몸 부풀리기(Puffing / Sideways Stance)",
+                "whyDesc": "덤보 래트는 이갈이 진동과 몸의 자세로 극도의 안도감과 경계 신호를 명확히 표현합니다. 보호자의 손길을 받으며 이를 빠르게 갈아 눈알이 진동하듯 경련을 일으키는 **'눈알 떨림(Boggling / Bruxing)'**은 고양이의 골골송과 같은 최고의 만족감과 애정의 표시입니다. 반면 몸의 털을 바짝 세우고 옆으로 비스듬히 걸으며 굳어지는 **'몸 부풀리기(Puffing / Sideways Stance)'**는 타 객체나 위협 요소에 대한 강한 경계 및 긴장, 공격 직전의 서열 경고 신호입니다.",
+                "body_signals": [
+                    {
+                        "name": "이를 빠르게 갈며 눈알이 진동하듯 떨림 (Bruxing & Boggling)",
+                        "meaning": "보호자의 스킨십이나 현재 상황에 대해 극도의 기쁨과 행복, 깊은 안도감을 느끼고 있다는 래트 최고의 애정 표출 행동입니다.",
+                        "response": "손가락으로 턱 밑이나 귀 뒤를 부드럽게 긁어주며 차분한 목소리로 교감을 유지합니다."
+                    },
+                    {
+                        "name": "온몸의 털을 바짝 세우고 옆으로 비스듬히 접근함 (Puffing / Sideways Stance)",
+                        "meaning": "영역 경계, 불안, 또는 상대 래트와의 영역 싸움 직전에 나타내는 긴장 및 공격 전 차단 신호입니다.",
+                        "response": "자극 대상을 즉시 분리하고, 손을 갑자기 넣지 말고 차분히 안정을 찾을 수 있도록 시간을 줍니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 포르피린(붉은 눈물/콧물) 점검 및 먼지 없는 제로 먼지 식기·사료 제공",
+                        "text": "마이코플라즈마 호흡기 질환 방지를 위해 눈과 코 주변 붉은 분비물(포르피린) 유무를 확인하고, 저지방·저단백 전용 펠릿 사료를 급여합니다."
+                    },
+                    {
+                        "name": "낮: 높은 지능 충족을 위한 포레징(Foraging) 노즈워크 및 수직 케이지 탐색 놀이",
+                        "text": "지능 발달과 스트레스 해소를 위해 먹이를 숨겨두는 포레징 장난감과 미로, 수직 사다리가 갖춰진 안전한 케이지 환경에서 활동시킵니다."
+                    },
+                    {
+                        "name": "저녁: 케이지 암모니아 청소(호흡기 보호), 동반 사육 동료와의 교감 및 먼지 없는 베딩 유지",
+                        "text": "폐 질환의 주원인인 암모니아 가스를 막기 위해 배변 스팟을 청소하고, 소나무/삼나무를 배제한 먼지 제로 종이 또는 아스펜 베딩을 유지합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "래트의 눈과 코에서 붉은 피 같은 분비물이 나오는데 심각한 질병인가요?",
+                        "answer": "이는 피가 아니라 '포르피린(Porphyrin)'이라는 하더선(Harderian gland) 분비물입니다. 래트는 스트레스, 영양 불균형, 베딩 먼지, 또는 마이코플라즈마 호흡기 감염 초기 시 붉은 포르피린을 눈과 코로 배출합니다. 일시적일 수 있으나 지속되거나 기침, 재채기, 호흡음 이상이 함께 동반되면 즉시 수의사 진료를 받아야 합니다."
+                    },
+                    {
+                        "question": "덤보 래트를 한 마리만 외롭게 키워도 되나요? 베딩은 침엽수 톱밥을 써도 되나요?",
+                        "answer": "절대 안 됩니다! 래트는 사회성이 매우 높은 무리 생활 동물이므로 홀로 사육 시 심각한 우울증과 면역 저하가 발생하여 반드시 동성(또는 중성화된) 2마리 이상 함께 키워야 합니다. 또한 소나무(Pine)나 삼나무(Cedar) 베딩은 유해한 페놀 성분이 나와 간과 호흡기를 파괴하므로 반드시 먼지 없는 종이 베딩이나 열처리된 아스펜(Aspen) 베딩을 사용해야 합니다."
+                    }
+                ],
+                "tags": [
+                    "덤보래트",
+                    "소형동물케어",
+                    "마이코플라즈마",
+                    "래트포르피린"
+                ]
+            },
+            "en": {
+                "title": "Dumbo Rat Behavioral Signals and 3-Step Daily Routine for Mycoplasma Respiratory Health and Tumor Prevention",
+                "description": "Care guide for the intelligent Dumbo Rat with large low-set ears. Interpret boggling and fur puffing signals, manage Mycoplasma respiratory health, and ensure social well-being in 3 steps.",
+                "authority": "American Fancy Rat and Mouse Association (AFRMA) & National Fancy Rat Society (NFRS) Care Standards",
+                "profile": {
+                    "breed": "Dumbo Rat (Rattus norvegicus domestica)",
+                    "lifespan": "2 - 3 Years (Up to 3.5 years with optimal care)",
+                    "sleep_pattern": "12 - 15 Hours (Nocturnal/Crepuscular, daytime rest and night activity)",
+                    "temperament": "Affectionate, Highly Intelligent, Social, Playful, Gentle"
+                },
+                "intro": "Famous for their large, low-set round ears on the sides of their head, the Dumbo Rat (Rattus norvegicus domestica) is a cherished pet rodent loved worldwide for its remarkable dog-like affection and high intelligence. Often referred to as 'pocket puppies,' Dumbo Rats can learn tricks and respond to their names. However, they possess exceptionally delicate respiratory systems highly vulnerable to chronic Mycoplasma pulmonis infections. Environmental hazards such as phenolic oils from softwood (pine/cedar) bedding, excessive dust, and ammonia buildup rapidly damage their lungs. Furthermore, as highly social group animals, housing a rat alone induces severe depression, and females face high risks of mammary tumors. Today, PetSelf presents a 3-step daily care routine to decode your Dumbo Rat's body language and protect its health.",
+                "whyTitle": "Dumbo Rat Body Language: Eye Boggling (Bruxing) and Fur Puffing (Sideways Stance)",
+                "whyDesc": "Dumbo Rats communicate deep contentment and territorial tension through jaw vibration and bodily posture. Rapidly grinding their teeth while causing their eyes to vibrate rapidly in their sockets **'Eye Boggling / Bruxing'** is their ultimate expression of happiness, equivalent to a cat's purr. Conversely, puffing up their fur, standing rigid, and walking sideways **'Fur Puffing / Sideways Stance'** is an explicit warning of territorial aggression, tension, or threat assessment prior to a conflict.",
+                "body_signals": [
+                    {
+                        "name": "Grinding Teeth Rapidly Causing Eyes to Vibrantly Pop/Boggle (Bruxing & Boggling)",
+                        "meaning": "Indicates supreme emotional comfort, contentment, and deep trust toward their owner or environment.",
+                        "response": "Gently stroke behind their ears or under their chin with a fingertip while speaking softly."
+                    },
+                    {
+                        "name": "Puffing Up All Coat Fur and Approaching Sideways with Rigid Posture (Puffing / Sideways Stance)",
+                        "meaning": "A high-tension alert or dominance display indicating territorial defense or impending aggression.",
+                        "response": "Separate conflicting subjects immediately, refrain from sudden handling, and allow time to calm down."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Porphyrin (Red Discharge) Inspection & Low-Fat Dust-Free Feeding",
+                        "text": "Check around eyes and nose for red porphyrin secretion indicating stress or Mycoplasma flare-up, feeding a low-fat rat pellet diet."
+                    },
+                    {
+                        "name": "Afternoon: Brain Enrichment Foraging & Vertical Multi-Level Cage Exploration",
+                        "text": "Satisfy their high IQ with foraging puzzle toys and nosework games in a secure, multi-level climbing cage environment."
+                    },
+                    {
+                        "name": "Evening: Ammonia Spot Cleaning (Lung Protection), Social Group Bonding & Dust-Free Bedding",
+                        "text": "Clean litter spots to eliminate lung-damaging ammonia gas, maintaining dust-free paper or Aspen bedding while spending social time."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "My Dumbo Rat has red blood-like discharge around its eyes and nose; is it bleeding?",
+                        "answer": "It is not blood! This red substance is 'Porphyrin,' secreted by the Harderian gland. Rats secrete porphyrin when experiencing stress, poor air quality, nutritional deficits, or early Mycoplasma respiratory illness. While occasional spots occur, persistent red discharge accompanied by sneezing or wheezing requires immediate veterinary attention."
+                    },
+                    {
+                        "question": "Can I keep a single Dumbo Rat alone, and can I use pine or cedar wood shavings for bedding?",
+                        "answer": "Absolutely not! Rats are obligate social animals that thrive in pairs or same-sex groups; a solo rat suffers severe psychological depression and weakened immunity. Additionally, pine and cedar wood shavings release toxic phenols that destroy liver and respiratory tissues, so you must use dust-free paper or kiln-dried Aspen bedding."
+                    }
+                ],
+                "tags": [
+                    "DumboRat",
+                    "SmallPetCare",
+                    "MycoplasmaRat",
+                    "PorphyrinInRats"
+                ]
+            },
+            "ja": {
+                "title": "ダンボレートの親愛・警戒サイン解読とマイコプラズマ呼吸器疾患および乳腺腫瘍予防のための3ステップデイリールーティン",
+                "description": "愛くるしい大きな丸耳を持つ高知能ペット、ダンボレート（Dumbo Rat）。ボグリング（目振動）や毛立てサインの解読、マイコプラズマ気道ケアおよび多頭飼育・腫瘍予防の3ステップホームケアを紹介します。",
+                "authority": "AFRMA（全米ファンシーレート・マウス協会）およびNFRS（全英ファンシーレート協会）飼育基準",
+                "profile": {
+                    "breed": "ダンボレート (Dumbo Rat / Rattus norvegicus domestica)",
+                    "lifespan": "2 〜 3年 (適切なケアで最大3.5年)",
+                    "sleep_pattern": "12 〜 15時間 (夜行性/薄明薄暮性、日中の睡眠と夜間の活動)",
+                    "temperament": "親しみやすい、極めて知的、社会性が高い、愛嬌がある、好奇心旺盛"
+                },
+                "intro": "頭の低い位置についた大きな丸い耳が特徴的なダンボレート（Dumbo Rat）は、高い知性と犬のように人懐っこい性格から世界中の小動物愛好家に愛されているペットです。「ポケットパピー（pocket puppy）」と呼ばれるほど人になつき、芸を覚えたり名前を覚えて寄ってくることもできます。しかし、呼吸器系が極めて繊細で「マイコプラズマ（Mycoplasma pulmonis）」による慢性呼吸器疾患にかかりやすい特徴があります。針葉樹（マツ・スギ）床材のフェノール成分やホコリ、アンモニア臭は肺に壊滅的なダメージを与えます。また、非常に社会的な動物であるため1匹での単頭飼育は鬱状態を引き起こしやすく、メスは乳腺腫瘍のリスクも高くなります。本日PetSelfでは、ダンボレートのサインを解読し健康を守る3ステップルーティンをお届けします。",
+                "whyTitle": "ダンボレートのボディランゲージ：ボグリング(Boggling / Bruxing)と毛立て威嚇(Puffing / Sideways Stance)",
+                "whyDesc": "ダンボレートは歯の振動と体勢で最高の安心感と警戒サインを明確に表現します。飼い主の撫でを受けながら歯を高速ですり合わせ、目を細かく振動させる**「ボグリング（Boggling / Bruxing）」**は、猫のゴロゴロ音に相当する最高の幸福表現です。一方、全身の毛を逆立てて体を横に向けながらにじり寄る**「毛立て威嚇（Puffing / Sideways Stance）」**は、他の個体や脅威に対する強い警戒と縄張り争い直前の警告サインです。",
+                "body_signals": [
+                    {
+                        "name": "歯を高速で鳴らし、目を細かく振動させる (Bruxing & Boggling)",
+                        "meaning": "飼い主のスキンシップや現在の環境に対して極めて深い信頼、喜び、安心感を感じているサインです。",
+                        "response": "耳の後ろや顎の下を優しく撫でてあげ、穏やかな声でコミュニケーションを続けましょう。"
+                    },
+                    {
+                        "name": "全身の毛を逆立て、体を横に向けながら緊張して近づく (Puffing / Sideways Stance)",
+                        "meaning": "縄張り主張、緊張、または他のレートとの喧嘩直前に見せる警戒・威嚇姿勢です。",
+                        "response": "刺激要素を直ちに分離し、無理に触らず静かに落ち着くまで時間を与えましょう。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：ポルフィリン（赤い目やに・鼻水）チェックと低脂質ペレット給餌",
+                        "text": "マイコプラズマ感染やストレスの指標となる赤い分泌物（ポルフィリン）を確認し、ホコリのない食器で低脂質ペレットを与えます。"
+                    },
+                    {
+                        "name": "昼：知性を満たすフォージング（採食）遊びと立体ケージ運動",
+                        "text": "高知能を満たすためにおやつを隠すノーズワークトイや迷路を与え、高低差のある安全なケージで運動させます。"
+                    },
+                    {
+                        "name": "夜：アンモニア清掃（呼吸器保護）、同種間スキンシップと低ホコリ床材の維持",
+                        "text": "肺疾患の原因となるアンモニア気を防ぐため排泄スポットを掃除し、松/杉を避けたペーパー床材やアスペン（ポプラ）床材を使用します。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "レートの目や鼻から赤い血のような分泌物が出ていますが病気ですか？",
+                        "answer": "これは血液ではなく「ポルフィリン（Porphyrin）」と呼ばれるハーダー氏腺の分泌物です。レートはストレス、空気環境の悪化、栄養不良、マイコプラズマ感染の初期段階で赤いポルフィリンを排出します。一時的なこともありますが、持続したりくしゃみ・呼吸音の異常を伴う場合は直ちに動物病院を受診してください。"
+                    },
+                    {
+                        "question": "ダンボレートを1匹だけで飼育しても大丈夫ですか？また針葉樹のウッドチップを使ってもいいですか？",
+                        "answer": "絶対に避けてください！レートは非常に社会的な群れ動物であり、1匹で飼育すると重度のストレスや鬱症状を起こすため、必ず同性（または去勢済み）の2匹以上で飼育する必要があります。また、松（Pine）や杉（Cedar）の床材は有毒なフェノール揮発成分を含み肝臓や呼吸器を破壊するため、必ず低ホコリのペーパー床材や高温乾燥アスペン床材を使用してください。"
+                    }
+                ],
+                "tags": [
+                    "ダンボレート",
+                    "小動物ケア",
+                    "マイコプラズマ",
+                    "ポルフィリン"
+                ]
+            },
+            "zh": {
+                "title": "大耳花鼠（双耳大鼠）行为信号解读与支原体呼吸道疾病及乳腺肿瘤预防的 3 步日常流程",
+                "description": "拥有可爱大圆耳与极高智商的大耳花鼠（Dumbo Rat）。解读眼球震颤（Boggling）与炸毛信号，护理支原体呼吸道，预防孤立与肿瘤的 3 步骤家庭护理。",
+                "authority": "美国花色大鼠与小鼠协会 (AFRMA) 与英国国家花色大鼠协会 (NFRS) 护理标准",
+                "profile": {
+                    "breed": "大耳花鼠 / 双耳大鼠 (Dumbo Rat / Rattus norvegicus domestica)",
+                    "lifespan": "2 ~ 3年 (科学喂养可达3.5年)",
+                    "sleep_pattern": "12 ~ 15小时 (夜行性/薄暮性，白天休息，夜间活跃)",
+                    "temperament": "温顺亲人、极度聪明、高度社会化、爱玩、充满好奇心"
+                },
+                "intro": "耳位较低、拥有硕大圆耳的大耳花鼠（Dumbo Rat，俗称“双耳大鼠”），凭借其像狗一样忠诚黏人的性格（被誉为“口袋小狗”）和极高的智商深受全球宠物爱好者喜爱。大耳花鼠智商极高，能学会认名字和各种小技巧，但它们的呼吸系统极其脆弱，极易感染导致慢性呼吸道疾病的“肺支原体（Mycoplasma pulmonis）”。松木/杉木垫料释放的酚类物质、粉尘及高浓度氨气会严重破坏其肺部。此外，大耳花鼠是高度社会化的群居动物，单只饲养极易引发抑郁症，母鼠患乳腺肿瘤的概率也较高。今天 PetSelf 将带您准确解读大耳花鼠肢体语言，并通过 3 步骤日常护理维护其健康。",
+                "whyTitle": "大耳花鼠肢体语言：眼球震颤 (Boggling / Bruxing) 与炸毛横行 (Puffing / Sideways Stance)",
+                "whyDesc": "大耳花鼠通过磨牙震动与身体姿态清晰表达极度放松与领地警戒。在接受抚摸时快速磨牙并导致眼球在眼窝中快速震动**“眼球震颤 (Boggling / Bruxing)”**，是类似于猫咪咕噜声的最高幸福与信任表达。相反，全身被毛竖立、身体僵硬并侧身横向逼近**“炸毛横行 (Puffing / Sideways Stance)”**，则是对其他个体或威胁发出的强烈领地警戒与攻击前警告信号。",
+                "body_signals": [
+                    {
+                        "name": "快速磨牙并伴随眼球震颤抖动 (Bruxing & Boggling)",
+                        "meaning": "表达对主人的抚摸和当下环境感到极度的安心、喜悦与无比的信任。",
+                        "response": "用指尖轻柔梳理其耳后或下巴，并用温柔的声音继续进行情感互动。"
+                    },
+                    {
+                        "name": "全身被毛炸起，呈侧身僵硬姿态逼近 (Puffing / Sideways Stance)",
+                        "meaning": "领地打斗、极度紧张或感到威胁时发出的防御警告与打架前兆。",
+                        "response": "立即隔离刺激源，切勿强行抓握，给予其安静恢复平复的时间。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：卟啉（红色眼泪/鼻涕）检查与低脂无尘粮投喂",
+                        "text": "检查眼周与鼻腔是否有红色分泌物（卟啉，反映压力或支原体发作），投喂低脂低蛋白专用大鼠滋养丸。"
+                    },
+                    {
+                        "name": "中午：满足高智商的觅食 (Foraging) 游戏与多层立体笼舍探索",
+                        "text": "提供隐藏食物的解密玩具与迷宫，并在配备立体梯子的安全多层笼舍中满足其攀爬探索天性。"
+                    },
+                    {
+                        "name": "晚上：氨气清理（保护肺部）、群居伙伴互动与无尘纸垫料维护",
+                        "text": "清理排泄位以消除损坏肺部的氨气，严禁使用松木/杉木，维持无尘纸垫料或杨木（Aspen）垫料。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "大耳花鼠的眼周和鼻腔流出像血一样的红色液体，是出血了吗？",
+                        "answer": "这不是血液！这是一种由哈氏腺（Harderian gland）分泌的“卟啉（Porphyrin）”。当大耳花鼠面临压力、空气质量差、营养不良或支原体呼吸道感染初期时，会分泌红色卟啉。若持续出现并伴有打喷嚏、呼吸啰音，必须立即送往异宠医院就诊。"
+                    },
+                    {
+                        "question": "可以单只独居饲养大耳花鼠吗？可以使用松木刨花垫料吗？",
+                        "answer": "绝对不可以！大耳花鼠是严格的社会性群居动物，单只饲养会导致严重的心理抑郁与免疫力下降，必须同性（或已绝育）两只以上合笼饲养。此外，松木（Pine）和杉木（Cedar）垫料会释放破坏肝脏与呼吸道的有毒酚类物质，必须使用无尘纸垫料或高温烘干的杨木（Aspen）垫料。"
+                    }
+                ],
+                "tags": [
+                    "大耳花鼠",
+                    "小宠护理",
+                    "支原体肺炎",
+                    "大鼠卟啉"
+                ]
+            },
+            "es": {
+                "title": "Señales de conducta en la Rata Dumbo y rutina diaria de 3 pasos para la respiración (Mycoplasma) y prevención de tumores",
+                "description": "Guía de cuidado para la inteligente Rata Dumbo de orejas redondeadas. Interprete el boggling y el erizamiento de pelo, prevenga infecciones respiratorias por Mycoplasma y cuide su bienestar social en 3 pasos.",
+                "authority": "Normas de la American Fancy Rat and Mouse Association (AFRMA) y National Fancy Rat Society (NFRS)",
+                "profile": {
+                    "breed": "Rata Dumbo (Rattus norvegicus domestica)",
+                    "lifespan": "2 ~ 3 años (Hasta 3.5 años con cuidados óptimos)",
+                    "sleep_pattern": "12 ~ 15 horas (Nocturna/Crepuscular, descanso diurno)",
+                    "temperament": "Afectuosa, Muy inteligente, Sociable, Juguetona, Dócil"
+                },
+                "intro": "Conocida por sus grandes orejas redondeadas ubicadas en los laterales de la cabeza, la Rata Dumbo (Rattus norvegicus domestica) es una mascota muy querida por su extraordinaria inteligencia y su afecto similar al de un perro. Conocidas como 'cachorros de bolsillo', las Ratas Dumbo pueden aprender trucos y responder a su nombre. Sin embargo, poseen un sistema respiratorio extremadamente delicado, propenso a infecciones crónicas por Mycoplasma pulmonis. Los aceites fenólicos del sustrato de pino o cedro, el polvo y el amoníaco dañan rápidamente sus pulmones. Además, son animales estrictamente gregarios, por lo que la soledad les causa depresión severa, y las hembras presentan un alto riesgo de tumores mamarios. Hoy, PetSelf presenta una rutina de 3 pasos para proteger su salud.",
+                "whyTitle": "Lenguaje corporal de la Rata Dumbo: Vibración ocular (Boggling / Bruxing) y erizamiento de pelo (Sideways Stance)",
+                "whyDesc": "La Rata Dumbo comunica bienestar absoluto y tensión territorial mediante la vibración mandibular y posturas corporales. Rechinar sus dientes rápidamente haciendo vibrar los ojos en sus cuencas **'Vibración ocular (Boggling / Bruxing)'** es su máxima muestra de felicidad, equivalente al ronroneo del gato. En cambio, erizar todo el pelaje, erguirse y caminar de lado **'Erizamiento de pelo (Puffing / Sideways Stance)'** es una advertencia explícita de agresión territorial o tensión.",
+                "body_signals": [
+                    {
+                        "name": "Rechinar dientes rápidamente provocando vibración ocular (Bruxing & Boggling)",
+                        "meaning": "Indica confianza absoluta, placer emocional y alegría profunda hacia su dueño o ambiente.",
+                        "response": "Rasca suavemente detrás de sus orejas o bajo la barbilla hablando con tono pausado."
+                    },
+                    {
+                        "name": "Erizar el pelaje y acercarse de lado con postura rígida (Puffing / Sideways Stance)",
+                        "meaning": "Alerta de alta tensión o dominancia que señala defensa territorial o pelea inminente.",
+                        "response": "Separe los estímulos molestos inmediatamente y permita que se calme sin forzar el manejo."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Inspección de porfirina (secreción roja) y alimentación sin polvo baja en grasa",
+                        "text": "Examine ojos y nariz en busca de porfirina roja (señal de estrés o brote de Mycoplasma) y ofrezca pienso extrusionado especial."
+                    },
+                    {
+                        "name": "Tarde: Enriquecimiento ambiental mediante forrajeo y exploración de jaula multinivel",
+                        "text": "Estimule su gran inteligencia con rompecabezas de búsqueda de comida y jaulas altas aptas para escalar."
+                    },
+                    {
+                        "name": "Noche: Limpieza de amoníaco (protección pulmonar), interacción social y sustrato sin polvo",
+                        "text": "Limpie las zonas de deposiciones para evitar gas amoníaco y mantenga sustrato de papel o álamo (Aspen) sin pino/cedro."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Mi Rata Dumbo tiene secreciones rojas similares a la sangre en ojos y nariz, está sangrando?",
+                        "answer": "¡No es sangre! Se trata de 'Porfirina', una secreción producida por la glándula de Harder. Las ratas secretan porfirina ante el estrés, mala calidad del aire, déficits nutricionales o infecciones respiratorias iniciales por Mycoplasma. Si la secreción es persistente y se acompaña de estornudos o ruidos respiratorios, consulte al veterinario inmediatamente."
+                    },
+                    {
+                        "question": "¿Puedo tener una sola Rata Dumbo en soledad y usar viruta de pino o cedro?",
+                        "answer": "¡Jamás! Las ratas son animales gregarios obligatorios que necesitan vivir en parejas o grupos del mismo sexo; una rata solitaria sufre depresión profunda e inmunodepresión. Además, el pino y el cedro liberan fenoles tóxicos que destruyen el hígado y los pulmones, por lo que debe usar sustrato de papel sin polvo o álamo (Aspen) secado al horno."
+                    }
+                ],
+                "tags": [
+                    "RataDumbo",
+                    "CuidadoDePequeñosAnimales",
+                    "MicoplasmaEnRatas",
+                    "PorfirinaEnRatas"
+                ]
+            },
+            "fr": {
+                "title": "Signaux comportementaux du Rat Dumbo et routine quotidienne en 3 étapes pour la santé respiratoire (Mycoplasme) et la prévention des tumeurs",
+                "description": "Guide de soins pour l'intelligent Rat Dumbo aux grandes oreilles basses. Décryptez le boggling et l'hérissement de poils, prévenez les infections à Mycoplasme et prenez soin de sa vie sociale en 3 étapes.",
+                "authority": "Normes de l'American Fancy Rat and Mouse Association (AFRMA) & National Fancy Rat Society (NFRS)",
+                "profile": {
+                    "breed": "Rat Dumbo (Rattus norvegicus domestica)",
+                    "lifespan": "2 ~ 3 ans (Jusqu'à 3,5 ans avec des soins adaptés)",
+                    "sleep_pattern": "12 ~ 15 heures (Nocturne/Crépusculaire, repos diurne)",
+                    "temperament": "Affectueux, Très intelligent, Sociable, Joueur, Doux"
+                },
+                "intro": "Célèbre pour ses grandes oreilles arrondies implantées bas sur les côtés de la tête, le Rat Dumbo (Rattus norvegicus domestica) est un animal de compagnie très populaire apprécié pour son intelligence remarquable et son affection comparable à celle d'un chien. Souvent surnommés 'chiens de poche', les Rats Dumbo apprennent des tours et reconnaissent leur nom. Toutefois, ils possèdent un système respiratoire extrêmement fragile, sujet aux infections chroniques à Mycoplasma pulmonis. Les huiles phénoliques des litières de résineux (pin/cèdre), la poussière et l'ammoniac détruisent rapidement leurs poumons. De plus, ce sont des animaux strictement grégaires : la solitude entraîne une grave dépression, et les femelles sont très exposées aux tumeurs mamaires. Aujourd'hui, PetSelf vous présente une routine en 3 étapes pour préserver sa santé.",
+                "whyTitle": "Langage corporel du Rat Dumbo : Exophtalmie vibrante (Boggling / Bruxing) et hérissement de poils (Sideways Stance)",
+                "whyDesc": "Le Rat Dumbo exprime son bien-être ultime et sa tension territoriale par le grincement de dents et la posture. Grincer des dents rapidement au point de faire vibrer ses yeux dans leurs orbites **« Exophtalmie vibrante (Boggling / Bruxing) »** est sa plus grande preuve de bonheur, l'équivalent du ronronnement chez le chat. À l'inverse, hérisser ses poils, se figer et s'approcher de côté **« Hérissement de poils (Puffing / Sideways Stance) »** est un avertissement clair de territorialité ou d'agressivité.",
+                "body_signals": [
+                    {
+                        "name": "Grincer rapidement des dents en faisant vibrer ses yeux (Bruxing & Boggling)",
+                        "meaning": "Indique un confort émotionnel absolu, une grande joie et une profonde confiance envers son maître.",
+                        "response": "Grattez-lui doucement le derrière des oreilles ou sous le menton en lui parlant calmement."
+                    },
+                    {
+                        "name": "Hérisser tous ses poils et s'avancer de côté le corps tendu (Puffing / Sideways Stance)",
+                        "meaning": "Posture de haute tension ou de dominance indiquant une défense territoriale ou une bagarre imminente.",
+                        "response": "Éloignez la source de stress immédiatement et laissez-le se calmer sans le manipuler de force."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Inspection de la porphyrine (sécrétion rouge) & alimentation extrudée pauvre en graisse",
+                        "text": "Vérifiez l'absence de porphyrine rouge autour des yeux et du nez (signe de stress ou de mycoplasme) et donnez des bouchons adaptés."
+                    },
+                    {
+                        "name": "Après-midi : Jeux de recherche (Foraging) & exploration d'une cage haute à étages",
+                        "text": "Stimulez son intelligence vive avec des jeux de fouille et une cage spacieuse favorisant l'escalade."
+                    },
+                    {
+                        "name": "Soir : Nettoyage de l'ammoniac (protection pulmonaire), moments sociaux & litière sans poussière",
+                        "text": "Nettoyez les zones de souillure pour éliminer l'ammoniac toxique pour les poumons, en utilisant de la litière de papier ou de peuplier (Aspen)."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mon Rat Dumbo a des sécrétions rouges comme du sang autour des yeux et du nez, est-ce grave ?",
+                        "answer": "Ce n'est pas du sang ! Il s'agit de 'Porphyrine', une substance sécrétée par la glande de Harder. Le rat sécrète de la porphyrine en cas de stress, de mauvaise qualité de l'air, de carence ou d'infection respiratoire à Mycoplasme. Si ces traces persistent et s'accompagnent d'éternuements, consultez rapidement un vétérinaire NAC."
+                    },
+                    {
+                        "question": "Puis-je élever un Rat Dumbo seul et utiliser du copeau de bois de pin ou de cèdre ?",
+                        "answer": "Absolument pas ! Les rats sont des animaux grégaires obligatoires qui doivent vivre en groupe ou en duo de même sexe ; un rat seul souffre de dépression sévère et de baisse d'immunité. De plus, le pin et le cèdre dégagent des phénols toxiques pour leur foie et leurs poumons : utilisez exclusivement de la litière de papier ou de peuplier (Aspen)."
+                    }
+                ],
+                "tags": [
+                    "RatDumbo",
+                    "SoinNACSoinSante",
+                    "MycoplasmeRat",
+                    "PorphyrineRat"
+                ]
+            },
+            "de": {
+                "title": "Verhaltenssignale der Dumbo-Ratte und 3-Schritte-Tagesroutine für Mykoplasmen-Atemwegsschutz und Tumor-Prophylaxe",
+                "description": "Pflegeanleitung für die hochintelligente Dumbo-Ratte mit tief sitzenden Ohren. Augen-Boggling und Aufplustern verstehen, Mykoplasmen-Atemwegsinfektionen vermeiden und soziale Haltung in 3 Schritten sichern.",
+                "authority": "American Fancy Rat and Mouse Association (AFRMA) & Standards der National Fancy Rat Society (NFRS)",
+                "profile": {
+                    "breed": "Dumbo-Ratte (Rattus norvegicus domestica)",
+                    "lifespan": "2 ~ 3 Jahre (Bei optimaler Haltung bis zu 3,5 Jahre)",
+                    "sleep_pattern": "12 ~ 15 Stunden (Nacht-/Dämmerungsaktiv, Schlaf am Tag)",
+                    "temperament": "Anhänglich, Hochintelligent, Sozial, Verspielt, Sanftmütig"
+                },
+                "intro": "Bekannt für ihre großen, seitlich am Kopf sitzenden runden Ohren ist die Dumbo-Ratte (Rattus norvegicus domestica) wegen ihrer erstaunlichen Intelligenz und hundeähnlichen Anhänglichkeit weltweit ein beliebtes Heimtier. Oft als 'Taschenwelpen' bezeichnet, können Dumbo-Ratten Kunststücke lernen und auf ihren Namen hören. Allerdings besitzen sie ein extrem empfindliches Atmungssystem, das anfällig für chronische Mycoplasma pulmonis-Infektionen ist. Ätherische Öle aus Nadelholz-Einstreu (Kiefer/Zeder), Staub und Ammoniak schädigen die Lunge rasch. Zudem sind Ratten strikte Rudeltiere – Einzelhaltung führt zu schweren Depressionen –, und Weibchen neigen zu Mammatumoren. Heute zeigt PetSelf eine 3-Schritte-Routine für die Gesundheit Ihrer Dumbo-Ratte.",
+                "whyTitle": "Körpersprache der Dumbo-Ratte: Augen-Boggling (Bruxing) und Aufplustern (Sideways Stance)",
+                "whyDesc": "Dumbo-Ratten drücken tiefes Wohlbefinden und Revieranspannung durch Kiefervibrationen und Körperhaltung aus. Schnelles Zähneknirschen, das die Augen in den Höhlen vibrieren lässt **'Augen-Boggling (Boggling / Bruxing)'**, ist ihr schönster Ausdruck von Glück – vergleichbar mit dem Schnurren einer Katze. Das Sträuben des Fells, Erstarren und seitliche Annähern **'Aufplustern (Puffing / Sideways Stance)'** ist dagegen eine deutliche Warnung vor Revierkämpfen oder Aggression.",
+                "body_signals": [
+                    {
+                        "name": "Schnelles Zähneknirschen mit sichtbarem Vibrieren der Augen (Bruxing & Boggling)",
+                        "meaning": "Zeigt tiefes seelisches Wohlbefinden, Freude und großes Vertrauen gegenüber dem Halter an.",
+                        "response": "Kraulen Sie sanft hinter den Ohren oder am Kinn und sprechen Sie mit ruhiger Stimme."
+                    },
+                    {
+                        "name": "Aufplustern des Fells und seitliches Annähern in starrer Haltung (Puffing / Sideways Stance)",
+                        "meaning": "Anspannung oder Dominanzgehabe; signalisiert Revierverteidigung oder bevorstehende Kämpfe.",
+                        "response": "Trennen Sie die Tiere/Reize sofort und lassen Sie der Ratte Zeit, sich ohne Zwang zu beruhigen."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Porphyrin-Kontrolle (Roter Ausfluss) & Staubfreie, fettarme Fütterung",
+                        "text": "Prüfen Sie Augen und Nase auf rotes Porphyrin (Signal für Stress oder Mykoplasmen-Schub) und füttern Sie fettarme Pellets."
+                    },
+                    {
+                        "name": "Mittag: Geistiges Foraging-Gedächtnistraining & Etagen-Käfig-Erkundung",
+                        "text": "Fordern Sie ihre hohe Intelligenz mit Intelligenzspielzeugen und einer hohen Etagen-Kletterumgebung heraus."
+                    },
+                    {
+                        "name": "Abend: Ammoniak-Reinigung (Lungenschutz), Rudel-Schmusestunde & Staubfreie Einstreu",
+                        "text": "Reinigen Sie Urinecken gegen lungenschädliches Ammoniakgas und nutzen Sie staubfreie Papier- oder Aspen-Einstreu (kein Kiefer/Zeder)."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Meine Dumbo-Ratte hat roten, blutähnlichen Ausfluss an Augen und Nase. Blutet sie?",
+                        "answer": "Das ist kein Blut! Es handelt sich um 'Porphyrin', ein Sekret der Harderschen Drüse. Ratten scheiden bei Stress, schlechter Luft, Nährstoffmangel oder beginnenden Mykoplasmen-Atemwegsinfekten rotes Porphyrin aus. Tritt es dauerhaft auf und geht mit Niesen oder Atemgeräuschen einher, suchen Sie sofort einen kundigen Tierarzt auf."
+                    },
+                    {
+                        "question": "Kann ich eine Dumbo-Ratte einzeln halten und Sägemehl aus Kiefer oder Zeder nutzen?",
+                        "answer": "Niemals! Ratten sind Rudeltiere; in Einzelhaltung leiden sie unter schweren Depressionen und Immunschwäche. Sie müssen mindestens zu zweit (gleichgeschlechtlich oder kastriert) gehalten werden. Nadelholz-Einstreu (Kiefer/Zeder) setzt giftige Phenole frei, die Leber und Lunge schädigen – nutzen Sie nur staubfreie Papier- oder Aspen-Einstreu."
+                    }
+                ],
+                "tags": [
+                    "DumboRatte",
+                    "Kleintierpflege",
+                    "MykoplasmenRatte",
+                    "PorphyrinRatte"
+                ]
+            },
+            "pt": {
+                "title": "Sinais comportamentais do Rato Dumbo e rotina diária de 3 passos para saúde respiratória (Micoplasma) e prevenção de tumores",
+                "description": "Guia de cuidados para o inteligente Rato Dumbo de orelhas grandes. Interprete o boggling e o eriçar de pelos, previna infecções respiratórias por Micoplasma e cuide do bem-estar social em 3 passos.",
+                "authority": "American Fancy Rat and Mouse Association (AFRMA) & Padrões da National Fancy Rat Society (NFRS)",
+                "profile": {
+                    "breed": "Rato Dumbo (Rattus norvegicus domestica)",
+                    "lifespan": "2 ~ 3 anos (Até 3,5 anos com cuidados adequados)",
+                    "sleep_pattern": "12 ~ 15 horas (Noturno/Crepuscular, descanso diurno)",
+                    "temperament": "Afetuoso, Muito inteligente, Social, Brincalhão, Dócil"
+                },
+                "intro": "Famoso por suas grandes orelhas arredondadas localizadas na lateral da cabeça, o Rato Dumbo (Rattus norvegicus domestica) é um pet amado no mundo todo por sua inteligência notável e afeto comparável ao de um cão. Conhecidos como 'cães de bolso', os Ratos Dumbo aprendem truques e reconhecem seu nome. No entanto, possuem um sistema respiratório extremamente delicado, vulnerável a infecções crônicas por Mycoplasma pulmonis. Óleos fenólicos de maravalha de pinho ou cedro, poeira e amônia danificam rapidamente seus pulmões. Além disso, são animais estritamente gregários — a solidão causa depressão grave —, e as fêmeas têm alto risco de tumores mamários. Hoje, o PetSelf apresenta uma rotina de 3 passos para cuidar de sua saúde.",
+                "whyTitle": "Linguagem corporal do Rato Dumbo: Vibração ocular (Boggling / Bruxing) e eriçar de pelos (Sideways Stance)",
+                "whyDesc": "O Rato Dumbo comunica bem-estar profundo e tensão territorial através da vibração da mandíbula e postura corporal. Ranger os dentes rapidamente fazendo os olhos vibrarem nas órbitas **'Vibração ocular (Boggling / Bruxing)'** é sua maior demonstração de felicidade, equivalente ao ronronar do gato. Por outro lado, eriçar todos os pelos e se aproximar de lado **'Eriçar de pelos (Puffing / Sideways Stance)'** é um aviso claro de agressão territorial ou tensão.",
+                "body_signals": [
+                    {
+                        "name": "Ranger dentes rapidamente fazendo os olhos vibrarem (Bruxing & Boggling)",
+                        "meaning": "Indica profundo conforto emocional, alegria e confiança absoluta no tutor e no ambiente.",
+                        "response": "Acaricie suavemente atrás das orelhas ou queixo enquanto fala com voz calma."
+                    },
+                    {
+                        "name": "Eriçar a pelagem e aproximar-se de lado com postura rígida (Puffing / Sideways Stance)",
+                        "meaning": "Postura de alta tensão ou dominância indicando defesa territorial ou briga iminente.",
+                        "response": "Remova o estímulo imediatamente e permita que o rato se acalme sem forçar a manipulação."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Inspeção de porfirina (secreção vermelha) e alimentação sem poeira de baixa gordura",
+                        "text": "Verifique olhos e focinho buscando porfirina vermelha (sinal de estresse ou crise de Micoplasma) e forneça ração extrusada própria."
+                    },
+                    {
+                        "name": "Tarde: Enriquecimento de inteligência com forrageamento e exploração de gaiola multinível",
+                        "text": "Desafie sua alta inteligência com brinquedos de busca de comida e gaiolas altas adequadas para escalada."
+                    },
+                    {
+                        "name": "Noite: Limpeza de amônia (proteção pulmonar), momento social e forração sem poeira",
+                        "text": "Limpe as áreas de excreção para eliminar gás amônio prejudicial aos pulmões, usando forração de papel ou Aspen (sem pinho/cedro)."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Meu Rato Dumbo está com uma secreção vermelha parecida com sangue nos olhos e nariz, é sangramento?",
+                        "answer": "Não é sangue! Trata-se de 'Porfirina', uma substância secretada pela glândula de Harder. Os ratos secretam porfirina em situações de estresse, má qualidade do ar, deficiências nutricionais ou no início de infecções por Micoplasma. Se a secreção for constante e acompanhada de espirros, consulte um veterinário especializado."
+                    },
+                    {
+                        "question": "Posso criar um Rato Dumbo sozinho e usar serragem de pinho ou cedro?",
+                        "answer": "Jamais! Ratos são animais estritamente gregários que precisam viver em duplas ou grupos do mesmo sexo; um rato sozinho sofre de depressão grave e queda de imunidade. Além disso, a maravalha de pinho e cedro libera fenóis tóxicos que destroem o fígado e pulmões: use apenas forração de papel sem poeira ou Aspen."
+                    }
+                ],
+                "tags": [
+                    "RatoDumbo",
+                    "CuidadosComPequenosAnimais",
+                    "MicoplasmaEmRatos",
+                    "PorfirinaEmRatos"
+                ]
+            },
+            "id": {
+                "title": "Sinyal Perilaku Tikus Dumbo (Dumbo Rat) dan Rutinitas Harian 3 Langkah Perawatan Kesehatan Napas (Mycoplasma) serta Pencegahan Tumor",
+                "description": "Panduan perawatan tikus menggemaskan Dumbo Rat yang memiliki telinga bulat besar. Pahami boggling dan bulu mekar, cegah infeksi napas Mikoplasma, serta jaga kehidupan sosialnya dalam 3 langkah.",
+                "authority": "Standar Perawatan American Fancy Rat and Mouse Association (AFRMA) & National Fancy Rat Society (NFRS)",
+                "profile": {
+                    "breed": "Tikus Dumbo / Dumbo Rat (Rattus norvegicus domestica)",
+                    "lifespan": "2 ~ 3 tahun (Hingga 3.5 tahun dengan perawatan optimal)",
+                    "sleep_pattern": "12 ~ 15 jam (Nokturnal/Krepuskular, tidur siang dan aktif malam)",
+                    "temperament": "Penyayang, Sangat Cerdas, Sangat Sosial, Lincah, Lembut"
+                },
+                "intro": "Terkenal dengan telinga bulat besar yang terletak di bagian samping kepala, Tikus Dumbo (Dumbo Rat) adalah hewan peliharaan yang sangat dicintai di seluruh dunia karena kecerdasannya yang luar biasa dan rasa sayangnya yang mirip anjing. Sering dijuluki 'anak anjing saku' (pocket puppy), Tikus Dumbo dapat mempelajari trik dan mengenali nama mereka. Namun, mereka memiliki sistem pernapasan yang sangat halus dan sangat rentan terhadap infeksi kronis Mycoplasma pulmonis. Zat fenol dari serbuk kayu pinus/cedar, debu, dan amonia dapat merusak paru-paru mereka dengan cepat. Selain itu, mereka adalah hewan sosial sejati sehingga memelihara satu ekor saja dapat memicu depresi berat, dan betina berisiko tinggi terkena tumor payudara. Hari ini, PetSelf membagikan 3 langkah rutinitas harian untuk merawat kesehatan Tikus Dumbo Anda.",
+                "whyTitle": "Bahasa Tubuh Tikus Dumbo: Getaran Mata (Boggling / Bruxing) dan Bulu Mekar (Sideways Stance)",
+                "whyDesc": "Tikus Dumbo menyampaikan rasa bahagia dan ketegangan wilayah melalui gesekan gigi dan postur tubuh. Menggesekkan gigi dengan cepat hingga membuat mata bergetar di rongganya **'Getaran Mata (Boggling / Bruxing)'** adalah tanda kebahagiaan tertinggi yang mirip dengan dengkuran kucing. Sebaliknya, mekar bulu di seluruh tubuh, berdiri kaku, dan berjalan miring **'Bulu Mekar (Puffing / Sideways Stance)'** adalah peringatan tegas akan ancaman atau pertahanan wilayah.",
+                "body_signals": [
+                    {
+                        "name": "Menggesekkan Gigi Cepat Hingga Mata Bergetar (Bruxing & Boggling)",
+                        "meaning": "Menunjukkan rasa nyaman emosional total, kebahagiaan, dan kepercayaan mendalam pada pemiliknya.",
+                        "response": "Elus lembut bagian belakang telinga atau dagunya sambil berbicara dengan suara tenang."
+                    },
+                    {
+                        "name": "Bulu Mekar Seluruh Tubuh dan Mendekat secara Miring dengan Postur Kaku (Puffing / Sideways Stance)",
+                        "meaning": "Postur ketegangan tinggi atau dominasi yang menandakan pertahanan wilayah atau perkelahian.",
+                        "response": "Jauhkan pemicu dengan segera dan biarkan tikus tenang tanpa dipaksa dipegang."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Pemeriksaan Porfirin (Cairan Merah) & Pakan Pelet Rendah Lemak Bebas Debu",
+                        "text": "Periksa sekitar mata dan hidung dari cairan merah porfirin (tanda stres atau infeksi Mikoplasma) dan berikan pelet khusus."
+                    },
+                    {
+                        "name": "Siang: Permainan Pencarian Makanan (Foraging) & Eksplorasi Kandang Bertingkat",
+                        "text": "Salurkan kecerdasannya yang tinggi dengan mainan teka-teki makanan dan kandang bertingkat yang aman untuk memanjat."
+                    },
+                    {
+                        "name": "Malam: Pembersihan Amonia (Perlindungan Paru-paru), Interaksi Kelompok & Alas Bebas Debu",
+                        "text": "Bersihkan kotoran untuk menghilangkan gas amonia berbahaya, serta gunakan alas kertas bebas debu atau Aspen (tanpa pinus/cedar)."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Tikus Dumbo saya mengeluarkan cairan merah seperti darah di mata dan hidung, apakah pendarahan?",
+                        "answer": "Itu bukan darah! Cairan merah tersebut adalah 'Porfirin' yang dihasilkan oleh kelenjar Harderian. Tikus mengeluarkan porfirin saat mengalami stres, kualitas udara buruk, kekurangan nutrisi, atau gejala awal infeksi pernapasan Mikoplasma. Jika cairan terus keluar dan disertai bersin, segera bawa ke dokter hewan."
+                    },
+                    {
+                        "question": "Bolehkah saya memelihara satu ekor Tikus Dumbo saja, dan bolehkah memakai serbuk kayu pinus/cedar?",
+                        "answer": "Sangat tidak boleh! Tikus adalah hewan sosial sejati yang harus hidup berpasangan atau berkelompok sesama jenis; tikus sendirian akan mengalami depresi berat. Selain itu, serbuk kayu pinus dan cedar melepaskan racun fenol yang merusak hati dan paru-paru, sehingga wajib menggunakan alas kertas bebas debu atau kayu Aspen."
+                    }
+                ],
+                "tags": [
+                    "TikusDumbo",
+                    "PerawatanHewanKecil",
+                    "MikoplasmaTikus",
+                    "PorfirinTikus"
+                ]
+            }
+        },
+        "category": "CareSelf",
+        "app": "careself",
+        "formatVersion": 4,
+        "heroImage": "/images/blog/dumbo_rat_care.webp"
+    }
+}

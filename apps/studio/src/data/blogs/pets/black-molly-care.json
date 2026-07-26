@@ -1,0 +1,516 @@
+{
+    "black-molly-care": {
+        "pubDate": "2026-07-24",
+        "updatedDate": "2026-07-24",
+        "locales": {
+            "ko": {
+                "title": "블랙 몰리의 행동 신호 해석과 백점병·시미 증상(Shimmying) 예방을 위한 3단계 데일리 케어",
+                "description": "칠흑 같은 몸색과 활발한 헤엄이 매력적인 열대어 블랙 몰리(Black Molly). 몸 떨기(Shimmying) 및 수면 호흡 신호 해석, 약알칼리성 수질 케어, 백점병 예방을 위한 3단계 홈케어 루틴을 소개합니다.",
+                "authority": "OFI (국제 관상어 협회) 및 WAVMA (세계 수생 수의사 협회) 케어 프로토콜",
+                "profile": {
+                    "breed": "블랙 몰리 (Black Molly / Poecilia sphenops)",
+                    "lifespan": "3 ~ 5년",
+                    "sleep_pattern": "8 ~ 10시간 (주행성, 밤 동안 조명 끄고 휴식)",
+                    "temperament": "온순함, 활발함, 난태생(Livebearer), 사회성 있음"
+                },
+                "intro": "새까만 비늘과 우아한 지느러미로 물생활 사육자들에게 큰 사랑을 받는 블랙 몰리(Black Molly)는 알 대신 새끼를 직접 낳는 난태생(Livebearer) 민물 열대어입니다. 블랙 몰리는 비교적 키우기 쉬운 어종으로 알려져 있지만, 연수(약산성 물)나 낮은 수온에 노출되면 몸을 제자리에서 흔드는 '시미 증상(Shimmying)'과 백점병(Ich)에 매우 취약합니다. 또한 약간의 소금기가 있는 약알칼리성 수질(pH 7.5~8.2)을 선호하며, 급격한 수질 변화나 암모니아 상승 시 면역력이 급격히 떨어집니다. 오늘 PetSelf에서는 블랙 몰리의 행동 신호를 정확히 읽어내고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.",
+                "whyTitle": "블랙 몰리의 바디 랭귀지: 몸 떨기(Shimmying)와 수면 호흡(Surface Gasping)",
+                "whyDesc": "블랙 몰리는 수영 자세와 위치로 수질 및 건강 상태를 명확히 표현합니다. 지느러미를 몸에 바짝 붙이고 제자리에서 유연하게 몸을 좌우로 흔드는 **'몸 떨기(Shimmying)'**는 수온 저하, 약산성 수질, 또는 미네랄 결핍으로 인한 극심한 스트레스 및 체력 저하 신호입니다. 반면 수면 근처에 입을 대고 뻐끔거리며 숨을 쉬는 **'수면 호흡(Surface Gasping)'**은 수조 내 용존 산소 부족이나 암모니아·아질산염 중독으로 인한 긴급 생존 신호입니다.",
+                "body_signals": [
+                    {
+                        "name": "지느러미를 접은 채 제자리에서 몸을 좌우로 떨 듯 흔듦 (Shimmying)",
+                        "meaning": "수온 하강, 약산성 수질(pH 저하) 또는 삼투압 균형 파괴로 인한 수질 부적응 신호입니다.",
+                        "response": "즉시 수온(24~28°C)과 pH(7.5~8.2)를 점검하고, 필요시 천일염을 살짝 첨가하여 미네랄을 보충합니다."
+                    },
+                    {
+                        "name": "수면 바로 아래에서 입을 내밀고 연신 뻐끔거림 (Surface Gasping)",
+                        "meaning": "여과력 부족으로 인한 용존 산소 부족 또는 아질산/암모니아 수치 상승으로 인한 여과 장애 신호입니다.",
+                        "response": "즉시 에어레이션을 강화하고, 수조 물의 20~30%를 환수하여 유해 물질 수치를 낮춥니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 수온(24~28°C) 및 pH(7.5~8.2) 확인, 균형 잡힌 식물성 포함 사료 급여",
+                        "text": "백점병 예방을 위해 일정한 수온을 유지하고, 몰리의 식성에 맞춰 이끼류나 식물성 성분이 풍부한 플레이크 사료를 급여합니다."
+                    },
+                    {
+                        "name": "낮: 여과기 수류·에어레이션 점검 및 부유물·이끼 위생 관리",
+                        "text": "용존 산소를 풍부하게 유지하기 위해 에어레이션 상태를 확인하고, 과도한 잔여 사료를 뜰채로 제거합니다."
+                    },
+                    {
+                        "name": "저녁: 수질 정기 환수(주 1~2회 10~20%) 및 치어 보호구역 점검",
+                        "text": "암모니아 누적을 막기 위해 염소가 제거된 물로 환수를 진행하며, 난태생 특성상 출산된 치어가 성어에게 먹히지 않도록 수초 구역을 점검합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "블랙 몰리가 몸을 제자리에서 떨면서 헤엄치지 못하는데(Shimmying) 왜 그런가요?",
+                        "answer": "이는 '시미(Shimmying)'라고 불리는 전형적인 수질 부적응 반응입니다. 몰리는 미네랄이 풍부한 약알칼리성(pH 7.5~8.2)과 경수를 좋아하는데, 물이 너무 산성이거나 수온이 낮아지면 삼투압 조절 장애가 생겨 근육 경련과 같은 떨림을 보입니다. 수온을 25~27°C로 올리고 수조용 천일염을 약간 넣어주면 증상이 크게 개선됩니다."
+                    },
+                    {
+                        "question": "블랙 몰리 수조에 천일염(소금)을 넣어도 괜찮나요?",
+                        "answer": "네, 큰 도움이 됩니다! 몰리는 담수뿐만 아니라 기수(민물과 바닷물이 섞이는 지역)에서도 서식하는 어종입니다. 수조 물 10L당 천일염 약 5~10g 정도를 첨가해 주면 기생충 및 백점병 예방, 삼투압 유지, 점막 보호에 탁월한 효과가 있습니다."
+                    }
+                ],
+                "tags": [
+                    "블랙몰리",
+                    "수생생물케어",
+                    "열대어백점병",
+                    "난태생열대어"
+                ]
+            },
+            "en": {
+                "title": "Black Molly Behavioral Signals and 3-Step Daily Routine for Ich and Shimmying Symptom Prevention",
+                "description": "Care guide for the jet-black tropical livebearer Black Molly. Interpret shimmying and surface gasping signals, maintain hard alkaline water, and prevent Ich disease in 3 steps.",
+                "authority": "Ornamental Fish International (OFI) & World Aquatic Veterinary Medical Association (WAVMA) Care Standards",
+                "profile": {
+                    "breed": "Black Molly (Poecilia sphenops)",
+                    "lifespan": "3 - 5 Years",
+                    "sleep_pattern": "8 - 10 Hours (Diurnal, rests quietly near the bottom at night)",
+                    "temperament": "Peaceful, Active, Livebearer, Highly Social"
+                },
+                "intro": "Beloved by aquarium hobbyists for its striking velvety black scales and graceful fins, the Black Molly (Poecilia sphenops) is a popular livebearing tropical freshwater fish. While generally considered easy to care for, Black Mollies are exceptionally sensitive to cold water temperatures and soft, acidic water conditions, which frequently trigger 'The Shimmies' and white spot disease (Ich). They naturally thrive in hard, slightly alkaline to brackish water (pH 7.5–8.2). Rapid water parameter shifts or ammonia spikes rapidly suppress their immune system. Today, PetSelf presents a 3-step daily care routine to decode your Black Molly's behavioral signals and protect its health.",
+                "whyTitle": "Black Molly Body Language: Shimmying and Surface Gasping",
+                "whyDesc": "Black Mollies signal water quality issues and physiological stress through distinct swimming postures and tank positions. Clamping their fins and rapidly rocking their body side-to-side in place **'Shimmying'** is a classic distress signal caused by low temperature, acidic water, or mineral deficiency. Conversely, hovering at the waterline while rapidly gulping air **'Surface Gasping'** indicates acute oxygen depletion or ammonia/nitrite poisoning.",
+                "body_signals": [
+                    {
+                        "name": "Clamping Fins and Rocking Body Side-to-Side in Place (Shimmying)",
+                        "meaning": "A distress signal caused by low water temperature, soft/acidic water (low pH), or osmotic shock.",
+                        "response": "Check water temperature (24–28°C) and pH (7.5–8.2) immediately, adding aquarium salt if necessary to restore minerals."
+                    },
+                    {
+                        "name": "Hovering directly below surface with open mouth (Surface Gasping)",
+                        "meaning": "Indicates severe hypoxia (lack of dissolved oxygen) or toxic ammonia/nitrite spikes in the aquarium.",
+                        "response": "Increase aeration immediately and perform a 20–30% water change with conditioned water."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Water Temperature (24–28°C) & pH (7.5–8.2) Check, Plant-Rich Flake Feeding",
+                        "text": "Maintain stable thermal conditions to prevent Ich outbreaks, feeding spirulina or plant-based flakes suited to their omnivorous/algae diet."
+                    },
+                    {
+                        "name": "Afternoon: Filter Flow & Aeration Check, Excess Waste Removal",
+                        "text": "Ensure vigorous aeration for high dissolved oxygen levels and scoop out uneaten food to maintain pristine water clarity."
+                    },
+                    {
+                        "name": "Evening: Water Change (10–20% Weekly) & Fry Protection Zone Maintenance",
+                        "text": "Perform regular water changes using dechlorinated water, checking dense plant zones to protect newborn livebearer fry from adults."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Why is my Black Molly shaking its body side-to-side without swimming forward (Shimmying)?",
+                        "answer": "This phenomenon is known as 'The Shimmies,' a classic symptom of osmotic stress and water maladaptation. Mollies thrive in hard, mineral-rich alkaline water (pH 7.5–8.2). If kept in soft or acidic water, or if temperatures drop below 24°C, they lose osmoregulatory control and experience muscle tremors. Elevating the temperature to 25–27°C and adding aquarium salt usually resolves the issue quickly."
+                    },
+                    {
+                        "question": "Is it safe to add aquarium salt to a Black Molly tank?",
+                        "answer": "Yes, it is highly beneficial! Mollies naturally inhabit freshwater to brackish water environments. Adding approximately 5 to 10 grams of non-iodized aquarium salt per 10 liters of water enhances slime coat production, prevents Ich and velvet parasites, and reduces osmotic stress."
+                    }
+                ],
+                "tags": [
+                    "BlackMolly",
+                    "AquaticPetCare",
+                    "FishIchDisease",
+                    "LivebearerFish"
+                ]
+            },
+            "ja": {
+                "title": "ブラックモーリーの行動サイン解読と白点病・シミー病（Shimmying）予防のための3ステップデイリールーティン",
+                "description": "漆黒の美しい体色と活発な泳ぎが魅力の熱帯魚ブラックモーリー（Black Molly）。身体の震え（シミー）や水面呼吸の解読、弱アルカリ性水質ケア、白点病予防の3ステップホームケアを紹介します。",
+                "authority": "OFI（国際観賞魚協会）およびWAVMA（世界水生獣医師会）飼育基準",
+                "profile": {
+                    "breed": "ブラックモーリー (Black Molly / Poecilia sphenops)",
+                    "lifespan": "3 〜 5年",
+                    "sleep_pattern": "8 〜 10時間 (昼行性、夜間は消灯して水底近くで休息)",
+                    "temperament": "温和、活発、卵胎生（Livebearer）、社会性あり"
+                },
+                "intro": "ベルベットのような黒いウロコと優雅なヒレでアクアリウム愛好家に親しまれているブラックモーリー（Black Molly）は、卵ではなく稚魚を直接産む卵胎生（Livebearer）の熱帯魚です。飼育しやすい初心者向けのお魚として知られていますが、軟水（弱酸性の水）や低温に晒されると体をその場で左右に揺らす「シミー病（Shimmying）」や白点病（Ich）にかかりやすい特徴があります。本来はミネラル豊富な弱アルカリ性〜汽水域（pH 7.5〜8.2）を好み、急激な水質変化やアンモニアの上昇で免疫力が低下します。本日PetSelfでは、ブラックモーリーのサインを正確に解読し健康を守る3ステップルーティンをお届けします。",
+                "whyTitle": "ブラックモーリーのボディランゲージ：シミー（Shimmying）と水面パクパク呼吸（Surface Gasping）",
+                "whyDesc": "ブラックモーリーは泳ぎ方と水槽内の位置で水質や体調の異常を明確に伝えます。ヒレをたたんでその場で身体を左右にゆらゆらと揺らす**「シミー（Shimmying）」**は、水温低下、弱酸性水質、ミネラル不足による深刻なストレス・浸透圧調節不全のサインです。一方、水面ギリギリで口を出してパクパクと息をする**「水面パクパク呼吸（Surface Gasping）」**は、水中の溶存酸素不足やアンモニア・亜硝酸中毒による緊急 SOS サインです。",
+                "body_signals": [
+                    {
+                        "name": "ヒレをたたんでその場で体を左右に細かく揺らす (Shimmying)",
+                        "meaning": "水温低下、pH低下（弱酸性化）、または浸透圧バランスの崩れによる水質不適合サインです。",
+                        "response": "直ちに水温（24〜28℃）とpH（7.5〜8.2）を確認し、必要に応じてアクアリウムソルトを少量加えてミネラルを補給します。"
+                    },
+                    {
+                        "name": "水面直下で口を出し、しきりにパクパクと呼吸する (Surface Gasping)",
+                        "meaning": "ろ過不足による酸欠、またはアンモニア・亜硝酸濃度の急上昇による中毒反応です。",
+                        "response": "すぐにエアレーション（ぶくぶく）を強化し、飼育水の20〜30%を水換えして有害物質を排出します。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：水温（24〜28℃）＆pH（7.5〜8.2）チェック、植物性フレークフードの給餌",
+                        "text": "白点病予防のために安定した水温を保ち、モーリーの草食傾向に合わせてスピルリナ入りのフレークフードを与えます。"
+                    },
+                    {
+                        "name": "昼：フィルター水流・エアレーション確認と残餌の除去",
+                        "text": "十分な溶存酸素を確保するためにエアレーション状態を点検し、食べ残しの餌をネットですくい取ります。"
+                    },
+                    {
+                        "name": "夜：定期水換え（週1〜2回、10〜20%）と稚魚の退避エリア確認",
+                        "text": "カルキ抜きした水で定期的に水換えを行い、出産された稚魚が親魚に食べられないよう水草エリアを点検します。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "ブラックモーリーがその場で体を揺らしてうまく泳げない（Shimmying）のはなぜですか？",
+                        "answer": "これは「シミー（Shimmying）」と呼ばれる典型的な水質不適合症状です。モーリーは硬水で弱アルカリ性（pH 7.5〜8.2）の環境を好みますが、水が酸性に傾いたり水温が下がると浸透圧調節ができなくなり筋肉の震えを起こします。水温を25〜27℃に上げ、アクアリウム用ソルトを少量加えることで急速に回復します。"
+                    },
+                    {
+                        "question": "ブラックモーリーの水槽に塩（アクアリウムソルト）を入れても大丈夫ですか？",
+                        "answer": "はい、非常に効果的です！モーリーは淡水だけでなく汽水域（淡水と海水が混ざる場所）にも生息する魚です。水10Lに対してアクアリウムソルト約5〜10gを添加すると、粘膜保護、白点病や寄生虫の予防、浸透圧の維持に大きな効果を発揮します。"
+                    }
+                ],
+                "tags": [
+                    "ブラックモーリー",
+                    "観賞魚ケア",
+                    "熱帯魚白点病",
+                    "卵胎生メダカ"
+                ]
+            },
+            "zh": {
+                "title": "黑玛丽鱼行为信号解读与白点病及摇晃病 (Shimmying) 预防的 3 步日常流程",
+                "description": "拥有乌黑靓丽体色与活泼游姿的热带观赏鱼黑玛丽鱼（Black Molly）。解读身体摇晃与水面喘气信号，维护弱碱性水质，预防白点病的 3 步骤家庭护理。",
+                "authority": "国际观赏鱼协会 (OFI) 与世界水生兽医师协会 (WAVMA) 护理标准",
+                "profile": {
+                    "breed": "黑玛丽鱼 (Black Molly / Poecilia sphenops)",
+                    "lifespan": "3 ~ 5年",
+                    "sleep_pattern": "8 ~ 10小时 (昼行性，夜间关灯后在水底附近休息)",
+                    "temperament": "温和、活泼、卵胎生 (Livebearer)、喜群居"
+                },
+                "intro": "因全身覆盖如天鹅绒般乌黑的鳞片与优雅的鱼鳍而备受水族爱好者喜爱的黑玛丽鱼（Black Molly），是一种直接产下幼鱼的卵胎生（Livebearer）淡水热带鱼。虽然黑玛丽鱼被广泛认为是易于饲养的观赏鱼，但它们对低温与软酸性水质极其敏感，易引发身体在原地左右摇晃的“摇晃病（Shimmying）”以及白点病（Ich）。黑玛丽鱼天生喜欢富含矿物质的弱碱性至微咸水质（pH 7.5~8.2），水质剧烈波动或氨氮偏高会使其免疫力瞬间崩溃。今天 PetSelf 将带您准确解读黑玛丽鱼肢体语言，并通过 3 步骤日常护理维护其健康。",
+                "whyTitle": "黑玛丽鱼肢体语言：原地摇晃 (Shimmying) 与水面浮头喘气 (Surface Gasping)",
+                "whyDesc": "黑玛丽鱼通过游动姿态与在水层中的位置清晰反映水质与健康状况。夹紧鱼鳍并在原地左右无力地摆动身体**“原地摇晃 (Shimmying)”**，是因水温骤降、酸性水质或矿物质匮乏导致的严重应激与渗透压失衡信号。相反，贴近水面张嘴不断吞咽空气**“水面浮头喘气 (Surface Gasping)”**，则是水体严重缺氧或氨氮/亚硝酸盐中毒引发的紧急求生信号。",
+                "body_signals": [
+                    {
+                        "name": "缩紧鱼鳍，身体在原地左右如无力般摆动 (Shimmying)",
+                        "meaning": "水温下降、水质偏酸（pH 值降低）或渗透压调节机制崩溃引发的水质不适应信号。",
+                        "response": "立即检查水温 (24°C~28°C) 与 pH 值 (7.5~8.2)，必要时补充少许水族盐以补充矿物质。"
+                    },
+                    {
+                        "name": "紧贴水面将嘴伸出水面不断吞咽急促呼吸 (Surface Gasping)",
+                        "meaning": "过滤系统不足导致水体严重缺氧，或亚硝酸盐/氨氮浓度超标导致毒性休克。",
+                        "response": "立即开启气泵爆氧，并进行 20%~30% 的困水换水以稀释有害物质。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：水温 (24°C~28°C) 与 pH 值 (7.5~8.2) 检测，投喂含植物成分的均衡薄片",
+                        "text": "保持恒定水温以防白点病爆发，并顺应黑玛丽鱼啃食藻类的习性投喂富含螺旋藻的植物性薄片。"
+                    },
+                    {
+                        "name": "中午：检查过滤器水流与增氧爆氧状态，清理残饵",
+                        "text": "确保水体溶氧量充足，并用小鱼网及时捞出未吃完的残渣，保持水质清澈。"
+                    },
+                    {
+                        "name": "晚上：定期换水（每周 1~2 次，10%~20%）与检查小鱼避难水草区",
+                        "text": "使用去氯困水进行换水以防氨氮堆积，并检查水草丛，防止刚出生的卵胎生幼鱼被成鱼吞食。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "黑玛丽鱼为什么会在原地剧烈摇晃身体却无法正常游动 (Shimmying)？",
+                        "answer": "这是被称为“摇晃病（Shimmying）”的典型水质应激反应。玛丽鱼偏好富含矿物质的硬水与弱碱性环境（pH 7.5~8.2）。若水质过酸或水温低于 24°C，其体内的渗透压调节失灵，会导致肌肉抽搐抖动。将水温提升至 25°C~27°C 并加入适量水族盐，症状通常能迅速缓解。"
+                    },
+                    {
+                        "question": "可以在黑玛丽鱼的水族箱里加入水族盐（粗盐）吗？",
+                        "answer": "完全可以，且大有裨益！黑玛丽鱼在原产地不仅生活于淡水，也大量分布于汽水（咸淡水）区域。按每 10 升水加入约 5~10 克无碘水族粗盐，能有效促进鱼体粘膜分泌、预防白点病与水霉寄生虫，并减轻渗透压负担。"
+                    }
+                ],
+                "tags": [
+                    "黑玛丽鱼",
+                    "观赏鱼护理",
+                    "热带鱼白点病",
+                    "卵胎生观赏鱼"
+                ]
+            },
+            "es": {
+                "title": "Señales de conducta en el Molly Negro (Black Molly) y rutina diaria de 3 pasos para la prevención de punto blanco (Ich) y los balanceos (Shimmying)",
+                "description": "Guía de cuidado para el pez tropical ovovivíparo Molly Negro (Black Molly). Interprete los balanceos corporales y el boqueo en superficie, controle el agua alcalina y prevenga el Ich en 3 pasos.",
+                "authority": "Ornamental Fish International (OFI) y Normas de la World Aquatic Veterinary Medical Association (WAVMA)",
+                "profile": {
+                    "breed": "Molly Negro / Black Molly (Poecilia sphenops)",
+                    "lifespan": "3 ~ 5 años",
+                    "sleep_pattern": "8 ~ 10 horas (Diurno, descansa cerca del fondo por la noche)",
+                    "temperament": "Pacífico, Activo, Ovovivíparo (Livebearer), Muy social"
+                },
+                "intro": "Muy admirado por los acuaristas debido a sus deslumbrantes escamas de color negro terciopelo y sus elegantes aletas, el Molly Negro (Poecilia sphenops) es un pez tropical dulceacuícola ovovivíparo muy popular. Aunque generalmente se le considera un pez resistente, el Molly Negro es sumamente sensible a las bajas temperaturas y al agua blanda o ácida, factores que desencadenan frecuentemente los 'balanceos' (Shimmying) y el punto blanco (Ich). Prosperan de forma óptima en aguas duras, ligeramente alcalinas o salobres (pH 7.5–8.2). Cambios bruscos en los parámetros o picos de amoníaco deprimen rápidamente su sistema inmune. Hoy, PetSelf presenta una rutina de 3 pasos para cuidar su salud.",
+                "whyTitle": "Lenguaje corporal del Molly Negro: Balanceos en el sitio (Shimmying) y boqueo en superficie (Surface Gasping)",
+                "whyDesc": "El Molly Negro comunica estrés fisiológico y desajustes de agua mediante posturas de nado y posición en el acuario. Replegar las aletas y mecer el cuerpo lateralmente en el mismo sitio **'Balanceos (Shimmying)'** es una señal de socorro provocada por frío, pH bajo o falta de minerales. En cambio, permanecer bajo la superficie boqueando aire **'Boqueo en superficie (Surface Gasping)'** indica hipoxia severa o intoxicación por amoníaco o nitritos.",
+                "body_signals": [
+                    {
+                        "name": "Plegar las aletas y mecer el cuerpo de lado a lado sin avanzar (Shimmying)",
+                        "meaning": "Señal de desajuste del agua causada por baja temperatura, agua ácida (pH bajo) o choque osmótico.",
+                        "response": "Verifique la temperatura (24–28°C) y el pH (7.5–8.2) de inmediato, añadiendo sal para acuarios para reponer minerales."
+                    },
+                    {
+                        "name": "Permanecer justo debajo de la superficie boqueando constantemente (Surface Gasping)",
+                        "meaning": "Indica falta grave de oxígeno disuelto o un pico tóxico de amoníaco o nitritos en el acuario.",
+                        "response": "Aumente la aireación de inmediato y realice un cambio de agua del 20 al 30% con agua tratada."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Control de temperatura (24–28°C) y pH (7.5–8.2), y alimentación con hojuelas vegetales",
+                        "text": "Mantenga la temperatura constante para prevenir brotes de Ich y ofrezca alimento en hojuelas rico en espirulina."
+                    },
+                    {
+                        "name": "Tarde: Revisión del flujo del filtro, oxigenación y retirada de restos de comida",
+                        "text": "Asegure una oxigenación vigorosa y retire los residuos con una red para mantener la calidad del agua impecable."
+                    },
+                    {
+                        "name": "Noche: Cambio parcial de agua (10–20% semanal) y revisión de plantas refugio para alevines",
+                        "text": "Realice cambios de agua con agua sin cloro y revise la zona de vegetación para proteger a los alevines recién nacidos de los adultos."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Por qué mi Molly Negro se tambalea de lado a lado sin avanzar (Shimmying)?",
+                        "answer": "Este trastorno es conocido como 'Shimmying' o los balanceos, síntoma típico de estrés osmótico y desajuste del agua. Los Mollies necesitan agua dura y ligeramente alcalina (pH 7.5–8.2). Si están en agua blanda, ácida o si la temperatura baja de 24°C, pierden el control osmorregulador sufriendo espasmos. Elevar la temperatura a 25–27°C y añadir sal para acuarios suele solucionar el problema rápidamente."
+                    },
+                    {
+                        "question": "¿Es seguro agregar sal para acuarios en el acuario del Molly Negro?",
+                        "answer": "¡Sí, es altamente beneficioso! Los Mollies habitan naturalmente en aguas dulces y salobres. Agregar de 5 a 10 gramos de sal para acuario no yodada por cada 10 litros de agua mejora la capa mucosa protectora, previene el punto blanco y disminuye el estrés osmótico."
+                    }
+                ],
+                "tags": [
+                    "MollyNegro",
+                    "CuidadoDePeces",
+                    "PuntoBlancoPeces",
+                    "PecesOvoviviparos"
+                ]
+            },
+            "fr": {
+                "title": "Signaux comportementaux du Molly Noir (Black Molly) et routine quotidienne en 3 étapes pour la prévention de la maladie des points blancs (Ich) et du shimmying",
+                "description": "Guide de soins pour le pez tropical vivipare Molly Noir. Décryptez le tremblement corporel (Shimmying) et le pipage en surface, maintenez une eau dure et alcaline, et prévenez l'Ich en 3 étapes.",
+                "authority": "Ornamental Fish International (OFI) & Normes de la World Aquatic Veterinary Medical Association (WAVMA)",
+                "profile": {
+                    "breed": "Molly Noir / Black Molly (Poecilia sphenops)",
+                    "lifespan": "3 ~ 5 ans",
+                    "sleep_pattern": "8 ~ 10 heures (Diurne, se repose près du fond la nuit)",
+                    "temperament": "Paisible, Actif, Vivipare (Livebearer), Très sociable"
+                },
+                "intro": "Très apprécié des aquariophiles pour ses écailles noir velours et ses nageoires élégantes, le Molly Noir (Poecilia sphenops) est un poisson tropical d'eau douce vivipare très populaire. Bien que considéré comme facile à maintenir, le Molly Noir est très sensible au froid et à l'eau douce ou acide, des facteurs qui déclenchent la maladie des tremblements (Shimmying) et la maladie des points blancs (Ich). Il s'épanouit idéalement dans une eau dure, légèrement alcaline voire saumâtre (pH 7.5–8.2). Une modification rapide des paramètres ou une hausse de l'ammoniac affaiblit immédiatement ses défenses. Aujourd'hui, PetSelf vous présente une routine en 3 étapes pour prendre soin de sa santé.",
+                "whyTitle": "Langage corporel du Molly Noir : Tremblement sur place (Shimmying) et pipage de l'air en surface (Surface Gasping)",
+                "whyDesc": "Le Molly Noir exprime les déséquilibres de l'eau et son stress physique par sa façon de nager et sa position. Replier ses nageoires et osciller latéralement sur place **« Tremblement (Shimmying) »** est un signal de détresse causé par le froid, un pH acide ou un manque de minéraux. En revanche, flotter juste sous la surface en haletant **« Pipage en surface (Surface Gasping) »** indique un manque sévère d'oxygène dissous ou une pollution azotée.",
+                "body_signals": [
+                    {
+                        "name": "Nageoires collées et ondulation du corps de gauche à droite sur place (Shimmying)",
+                        "meaning": "Signal de détresse causé par une eau trop froide, acide (pH bas) ou un choc osmotique.",
+                        "response": "Vérifiez immédiatement la température (24–28°C) et le pH (7.5–8.2), en ajoutant du sel d'aquarium si nécessaire."
+                    },
+                    {
+                        "name": "Stagner à la surface en ouvrant la bouche pour avaler de l'air (Surface Gasping)",
+                        "meaning": "Indique un manque d'oxygène dissous (hypoxie) ou un pic toxique d'ammoniac ou de nitrites.",
+                        "response": "Augmentez immédiatement le bulleur/l'aération et effectuez un changement d'eau de 20 à 30 % avec de l'eau conditionnée."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Contrôle de la température (24–28°C) et du pH (7.5–8.2) & distribution de flocons végétaux",
+                        "text": "Maintenez une température stable pour prévenir l'Ich et nourrissez avec des paillettes riches en spiruline adaptées à son régime."
+                    },
+                    {
+                        "name": "Après-midi : Vérification du filtre et de l'aération & retrait des restes de nourriture",
+                        "text": "Assurez une bonne oxygénation et retirez la nourriture non consommée avec une épuisette pour garder une eau saine."
+                    },
+                    {
+                        "name": "Soir : Changement d'eau partiel (10–20% par semaine) & protection des alvins",
+                        "text": "Faites des changements d'eau réguliers avec de l'eau déchlorée et vérifiez la densité des plantes pour abriter les alvins vivipares."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Pourquoi mon Molly Noir tremble-t-il sur place sans avancer (Shimmying) ?",
+                        "answer": "C'est la maladie des tremblements ('The Shimmies'), un symptôme typique de stress osmotique et d'inadaptation à l'eau. Les Mollies ont besoin d'une eau dure et alcaline (pH 7.5–8.2). Si l'eau est trop douce, acide ou trop froide (sous 24°C), ils perdent leur régulation osmotique et subissent des spasmes. Montez la température à 25–27°C et ajoutez du sel pour aquarium pour corriger le problème."
+                    },
+                    {
+                        "question": "Peut-on ajouter du sel pour aquarium dans le bac des Mollies Noirs ?",
+                        "answer": "Oui, c'est extrêmement bénéfique ! Les Mollies vivent naturellement en eau douce et saumâtre. Ajouter environ 5 à 10 grammes de sel d'aquarium non iodé pour 10 litres d'eau renforce le mucus protecteur, prévient la maladie des points blancs et réduit le stress osmotique."
+                    }
+                ],
+                "tags": [
+                    "MollyNoir",
+                    "SoinDesPoissons",
+                    "MaladiePointsBlancs",
+                    "PoissonVivipare"
+                ]
+            },
+            "de": {
+                "title": "Verhaltenssignale des Black Molly und 3-Schritte-Tagesroutine für Weißpünktchenkrankheit- (Ich) und Schaukelkrankheit-Prophylaxe (Shimmying)",
+                "description": "Pflegeanleitung für den samtchwarzen tropischen Lebendgebärenden Black Molly. Schaukeln und Oberflächenatmung verstehen, hartes alkalisches Wasser pflegen und Ichtyo in 3 Schritten vorbeugen.",
+                "authority": "Ornamental Fish International (OFI) & Standards der World Aquatic Veterinary Medical Association (WAVMA)",
+                "profile": {
+                    "breed": "Black Molly (Poecilia sphenops)",
+                    "lifespan": "3 ~ 5 Jahre",
+                    "sleep_pattern": "8 ~ 10 Stunden (Tagaktiv, ruht nachts am Beckenboden)",
+                    "temperament": "Friedlich, Lebhaft, Lebendgebärend (Livebearer), Gesellig"
+                },
+                "intro": "Von Aquarianern für seine samtig-schwarzen Schuppen und eleganten Flossen geschätzt, ist der Black Molly (Poecilia sphenops) ein beliebter lebendgebärender Süßwasserfisch. Obwohl er meist als pflegeleicht gilt, reagiert der Black Molly extrem empfindlich auf kühles Wasser sowie weiches oder saures Wasser. Diese Bedingungen lösen häufig die 'Schaukelkrankheit' (Shimmying) und die Weißpünktchenkrankheit (Ich) aus. Sie gedeihen am besten in hartem, leicht alkalischem bis brackigem Wasser (pH 7,5–8,2). Rasche Parameterschwankungen oder Ammoniakwerte schwächen ihr Immunsystem rasch. Heute zeigt PetSelf eine 3-Schritte-Routine für die Gesundheit Ihres Black Mollys.",
+                "whyTitle": "Körpersprache des Black Mollys: Schaukeln auf der Stelle (Shimmying) und Nach-Luft-Jappen an der Oberfläche (Surface Gasping)",
+                "whyDesc": "Der Black Molly zeigt Wasserprobleme und körperlichen Stress durch Schwimmhaltung und Position im Becken an. Das Anlegen der Flossen und zitternde Hin-und-Her-Schaukeln des Körpers auf der Stelle **'Schaukeln (Shimmying)'** ist ein Notsignal bei Kälte, zu saurem Wasser oder Mineralienmangel. Das Verharren direkt unter der Wasseroberfläche mit hektischem Mundöffnen **'Oberflächenatmung (Surface Gasping)'** zeigt dagegen akuten Sauerstoffmangel oder Ammoniak-/Nitritvergiftung an.",
+                "body_signals": [
+                    {
+                        "name": "Anlegen der Flossen und Rhythmisches Hin-und-Her-Schaukeln auf der Stelle (Shimmying)",
+                        "meaning": "Notsignal durch zu kühles Wasser, weiches/saures Wasser (niedriger pH-Wert) oder osmotischen Schock.",
+                        "response": "Prüfen Sie sofort Wassertemperatur (24–28 °C) und pH-Wert (7,5–8,2) und geben Sie bei Bedarf Aquariensalz hinzu."
+                    },
+                    {
+                        "name": "Stehen direkt unter der Wasseroberfläche mit offenem Mund (Surface Gasping)",
+                        "meaning": "Zeigt schweren Sauerstoffmangel (Hypoxie) oder giftige Ammoniak-/Nitritspitzen im Aquarium an.",
+                        "response": "Erhöhen Sie sofort die Durchlüftung und führen Sie einen 20–30%igen Wasserwechsel mit aufbereitetem Wasser durch."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Wassertemperatur (24–28 °C) & pH-Wert (7,5–8,2) prüfen & Pflanzliches Flockenfutter füttern",
+                        "text": "Halten Sie die Temperatur stabil zur Ich-Prophylaxe und füttern Sie spirulinahaltige Flocken für ihre pflanzliche Nahrung."
+                    },
+                    {
+                        "name": "Mittag: Filterströmung & Durchlüftung prüfen, Futterreste entfernen",
+                        "text": "Sorgen Sie für hohe Sauerstoffsättigung und keschern Sie uneingefressenes Futter zur Wahrung der Wasserqualität ab."
+                    },
+                    {
+                        "name": "Abend: Teilwasserwechsel (10–20 % wöchentlich) & Schutzbereiche für Jungfische kontrollieren",
+                        "text": "Wechseln Sie regelmäßig Wasser mit entchlortem Wasser und prüfen Sie dichte Pflanzenpolster zum Schutz der Neugeborenen."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Warum zittert/schaukelt mein Black Molly auf der Stelle, ohne vorwärts zu schwimmen (Shimmying)?",
+                        "answer": "Das Phänomen heißt 'Schaukelkrankheit' (The Shimmies) und ist ein klassisches Symptom für osmotischen Stress. Mollys benötigen hartes, alkalisch-mineralreiches Wasser (pH 7,5–8,2). Bei zu weichem, saurem oder zu kaltem Wasser (unter 24 °C) bricht die Osmoregulationsfähigkeit zusammen. Das Anheben der Temperatur auf 25–27 °C und die Zugabe von Aquariensalz bringen schnelle Besserung."
+                    },
+                    {
+                        "question": "Darf man Aquariensalz in das Becken von Black Mollys geben?",
+                        "answer": "Ja, das ist sehr zu empfehlen! Mollys leben in der Natur in Süß- bis Brackwasser. Die Zugabe von etwa 5 bis 10 Gramm unjodiertem Aquariensalz pro 10 Liter Wasser stärkt die Schleimhaut, beugt Weißpünktchen sowie Parasiten vor und senkt den osmotischen Druck."
+                    }
+                ],
+                "tags": [
+                    "BlackMolly",
+                    "AquaristikPflege",
+                    "IchthyophthiriusPunkte",
+                    "LebendgebärendeFische"
+                ]
+            },
+            "pt": {
+                "title": "Sinais comportamentais do Molly Negro (Black Molly) e rotina diária de 3 passos para prevenção de íctio e balanço corporal (Shimmying)",
+                "description": "Guia de cuidados para o peixe tropical vivíparo Molly Negro. Interprete o balanço corporal no lugar e a respiração na superfície, mantenha a água alcalina dura e previna o íctio em 3 passos.",
+                "authority": "Ornamental Fish International (OFI) & Padrões da World Aquatic Veterinary Medical Association (WAVMA)",
+                "profile": {
+                    "breed": "Molly Negro / Black Molly (Poecilia sphenops)",
+                    "lifespan": "3 ~ 5 anos",
+                    "sleep_pattern": "8 ~ 10 horas (Diurno, descansa perto do fundo à noite)",
+                    "temperament": "Pacífico, Ativo, Vivíparo (Livebearer), Muito social"
+                },
+                "intro": "Muito admirado pelos aquaristas por suas escamas preto-aveludadas e barbatanas elegantes, o Molly Negro (Poecilia sphenops) é um peixe tropical vivíparo de água doce muito popular. Embora seja considerado de fácil manutenção, o Molly Negro é extremamente sensível à água fria e a águas moles e ácidas, fatores que desencadeiam o 'balanço corporal' (Shimmying) e a doença do ponto branco (Íctio). Eles se desenvolvem melhor em águas duras, ligeiramente alcalinas ou salobras (pH 7.5–8.2). Mudanças bruscas de parâmetros ou picos de amônia enfraquecem rapidamente seu sistema imunológico. Hoje, o PetSelf apresenta uma rotina de 3 passos para cuidar da sua saúde.",
+                "whyTitle": "Linguagem corporal do Molly Negro: Balanço corporal no lugar (Shimmying) e respiração na superfície (Surface Gasping)",
+                "whyDesc": "O Molly Negro comunica estresse físico e problemas na água através da postura de nado e posição no aquário. Encolher as barbatanas e balançar o corpo lateralmente sem sair do lugar **'Balanço corporal (Shimmying)'** é um sinal de socorro causado por água fria, pH baixo ou falta de minerais. Por outro lado, ficar logo abaixo da superfície boquejando **'Respiração na superfície (Surface Gasping)'** indica falta grave de oxigênio ou contaminação por amônia e nitrito.",
+                "body_signals": [
+                    {
+                        "name": "Encolher as barbatanas e balançar o corpo de um lado para o outro no mesmo lugar (Shimmying)",
+                        "meaning": "Sinal de estresse hídrico provocado por temperatura baixa, água ácida (pH baixo) ou choque osmótico.",
+                        "response": "Verifique a temperatura (24–28°C) e o pH (7.5–8.2) imediatamente, adicionando sal para aquários se necessário."
+                    },
+                    {
+                        "name": "Ficar na superfície abrindo e fechando a boca rapidamente (Surface Gasping)",
+                        "meaning": "Indica falta grave de oxigênio dissolvido ou pico tóxico de amônia/nitrito no aquário.",
+                        "response": "Aumente a oxigenação/aerador imediatamente e faça uma troca parcial de água de 20 a 30% com água tratada."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Checagem de temperatura (24–28°C) e pH (7.5–8.2) & alimentação com flocos vegetais",
+                        "text": "Mantenha a temperatura estável para evitar íctio e ofereça ração em flocos rica em espirulina adequada para sua dieta."
+                    },
+                    {
+                        "name": "Tarde: Verificação do fluxo do filtro e aerador & remoção de restos de comida",
+                        "text": "Garanta boa oxigenação na água e retire sobras de ração com uma rede para manter a qualidade da água limpa."
+                    },
+                    {
+                        "name": "Noite: Troca parcial de água (10–20% semanal) & verificação do abrigo para alevinos",
+                        "text": "Faça trocas parciais com água sem cloro e verifique áreas com plantas para proteger os alevinos recém-nascidos."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Por que o meu Molly Negro fica balançando o corpo de um lado para o outro sem nadar para a frente (Shimmying)?",
+                        "answer": "Esse sintoma é conhecido como 'Shimmying' (doença do balanço), sinal clássico de estresse osmótico e rejeição ao parâmetro da água. Mollies precisam de água dura e alcalina (pH 7.5–8.2). Em água mole, ácida ou fria (abaixo de 24°C), perdem o controle osmorregulatório sofrendo espasmos. Subir a temperatura para 25–27°C e adicionar sal de aquário costuma resolver rapidamente."
+                    },
+                    {
+                        "question": "É seguro colocar sal para aquários no aquário do Molly Negro?",
+                        "answer": "Sim, é muito benéfico! Na natureza, os Mollies vivem em água doce e salobra. Adicionar de 5 a 10 gramas de sal para aquário não iodado para cada 10 litros de água fortalece a mucosa protetora, previne o íctio e parasitas e reduz o estresse osmótico."
+                    }
+                ],
+                "tags": [
+                    "MollyNegro",
+                    "CuidadosComPeixes",
+                    "PontoBrancoIctio",
+                    "PeixeViviparo"
+                ]
+            },
+            "id": {
+                "title": "Sinyal Perilaku Ikan Black Molly dan Rutinitas Harian 3 Langkah Perawatan Pencegahan Bintik Putih (Ich) serta Shimmying",
+                "description": "Panduan perawatan ikan hias air tawar melahirkan anak (livebearer) Black Molly yang berwarna hitam pekat. Pahami sinyal tubuh bergoyang (shimmying) dan megap-megap di permukaan, jaga air agak alkali, serta cegah bintik putih dalam 3 langkah.",
+                "authority": "Standar Perawatan Ornamental Fish International (OFI) & World Aquatic Veterinary Medical Association (WAVMA)",
+                "profile": {
+                    "breed": "Black Molly (Poecilia sphenops)",
+                    "lifespan": "3 ~ 5 tahun",
+                    "sleep_pattern": "8 ~ 10 jam (Diurnal, beristirahat tenang di dekat dasar akuarium saat malam)",
+                    "temperament": "Damai, Aktif, Mampu Melahirkan Anak (Livebearer), Sangat Sosial"
+                },
+                "intro": "Sangat disukai oleh pencinta akuarium karena sisik hitam pekatnya yang menawan dan siripnya yang anggun, Black Molly (Poecilia sphenops) adalah ikan hias air tawar beranak (livebearer) yang sangat populer. Meskipun tergolong mudah dirawat, Black Molly sangat sensitif terhadap suhu air dingin serta air yang terlalu lunak atau asam, yang sering kali memicu penyakit 'Shimmying' (tubuh bergoyang) dan bintik putih (Ich). Mereka berkembang paling baik di air yang agak keras, agak alkali, atau agak payau (pH 7.5–8.2). Perubahan parameter air yang mendadak atau lonjakan amonia akan menurunkan daya tahan tubuhnya dengan cepat. Hari ini, PetSelf membagikan 3 langkah rutinitas harian untuk merawat kesehatan Black Molly Anda.",
+                "whyTitle": "Bahasa Tubuh Black Molly: Tubuh Bergoyang (Shimmying) dan Megap-megap di Permukaan (Surface Gasping)",
+                "whyDesc": "Black Molly menunjukkan masalah kualitas air dan stres fisik melalui gaya berenang dan posisinya di dalam akuarium. Menguncupkan sirip dan mengoyangkan tubuh ke kiri-kanan di tempat **'Tubuh Bergoyang (Shimmying)'** adalah sinyal darurat akibat suhu dingin, air asam (pH rendah), atau kekurangan mineral. Sebaliknya, mengambang tepat di bawah permukaan air sambil terus mengambil udara **'Megap-megap di Permukaan (Surface Gasping)'** menandakan kekurangan oksigen terlarut atau keracunan amonia/nitrit.",
+                "body_signals": [
+                    {
+                        "name": "Menguncupkan Sirip dan Bergoyang Kiri-Kanan di Tempat (Shimmying)",
+                        "meaning": "Sinyal stres akibat suhu air terlalu dingin, air terlalu asam (pH rendah), atau syok osmotik.",
+                        "response": "Segera periksa suhu air (24–28°C) dan pH (7.5–8.2), lalu tambahkan garam akuarium jika perlu untuk mengembalikan mineral."
+                    },
+                    {
+                        "name": "Mengambang Tepat di Bawah Permukaan Air Sambil Buka-Tutup Mulut (Surface Gasping)",
+                        "meaning": "Menandakan kekurangan oksigen terlarut yang parah atau lonjakan beracun amonia/nitrit di dalam akuarium.",
+                        "response": "Segera tingkatkan aerasi/gelembung udara dan lakukan pergantian air 20–30% dengan air yang sudah diendapkan."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Pemeriksaan Suhu Air (24–28°C) & pH (7.5–8.2), serta Pakan Serpih Berunsur Tumbuhan",
+                        "text": "Jaga suhu air tetap stabil untuk mencegah wabah bintik putih (Ich) dan berikan pakan serpih kaya spirulina sesuai sifat pemakan alga."
+                    },
+                    {
+                        "name": "Siang: Pemeriksaan Arus Filter & Aerasi, serta Pembersihan Sisa Makanan",
+                        "text": "Pastikan aerasi kuat untuk kadar oksigen terlarut yang tinggi dan bersihkan sisa pakan yang tidak tertelan dengan serokan."
+                    },
+                    {
+                        "name": "Malam: Penggantian Air Berkala (10–20% Mingguan) & Pemeriksaan Area Perlindungan Burayak",
+                        "text": "Lakukan penggantian air secara rutin menggunakan air bebas klorin dan periksa area tanaman air untuk melindungi anak ikan yang baru lahir."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mengapa ikan Black Molly saya tubuhnya bergoyang-goyang di tempat tanpa berenang maju (Shimmying)?",
+                        "answer": "Gejala ini dikenal sebagai 'The Shimmies' atau penyakit bergoyang, indikasi klasik stres osmotik dan air tidak cocok. Molly menyukai air keras yang kaya mineral dan bersifat agak alkali (pH 7.5–8.2). Jika dipelihara di air asam, lunak, atau suhu di bawah 24°C, kontrol osmoregulasinya terganggu sehingga timbul kejang otot. Naikkan suhu ke 25–27°C dan tambahkan sedikit garam akuarium untuk meredakannya."
+                    },
+                    {
+                        "question": "Apakah aman menambahkan garam akuarium ke dalam akuarium Black Molly?",
+                        "answer": "Sangat aman dan sangat bermanfaat! Molly secara alami dapat hidup di lingkungan air tawar hingga air payau. Menambahkan sekitar 5 hingga 10 gram garam akuarium non-iodium per 10 liter air dapat meningkatkan lendir pelindung tubuh, mencegah bintik putih dan parasit, serta mengurangi stres osmotik."
+                    }
+                ],
+                "tags": [
+                    "BlackMolly",
+                    "PerawatanIkanHias",
+                    "BintikPutihIkan",
+                    "IkanBeranakLivebearer"
+                ]
+            }
+        },
+        "category": "CareSelf",
+        "app": "careself",
+        "formatVersion": 4,
+        "heroImage": "/images/blog/black_molly_care.webp"
+    }
+}

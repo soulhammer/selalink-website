@@ -1,0 +1,516 @@
+{
+    "siberian-cat-care": {
+        "pubDate": "2026-02-08",
+        "updatedDate": "2026-02-08",
+        "locales": {
+            "ko": {
+                "title": "사이베리안 고양이의 교감 신호 해석과 알레르기(Fel d 1)·비대성 심근증(HCM) 관리를 위한 3단계 데일리 케어",
+                "description": "풍성한 삼중모를 지닌 대형묘 사이베리안 고양이(Siberian Cat). 트릴링(Trilling) 신호 해석, Fel d 1 알레르기 관리, HCM·헤어볼 예방을 위한 3단계 홈케어 루틴을 소개합니다.",
+                "authority": "TICA (국제고양이협회) 및 CFA (고양이애호가협회) 케어 프로토콜",
+                "profile": {
+                    "breed": "사이베리안 고양이 (Siberian Cat)",
+                    "lifespan": "12 ~ 15년 (올바른 케어 시 최대 20년)",
+                    "sleep_pattern": "12 ~ 16시간 (박명성, 사냥 놀이 후 깊은 수면)",
+                    "temperament": "다정함, 개냥이 성향, 호기심 많음, 영리함, 물을 두려워하지 않음"
+                },
+                "intro": "러시아의 자연 발생 품종이자 풍성한 삼중모(Triple Coat)를 지닌 사이베리안 고양이(Siberian Cat)는 강아지 같은 다정한 성격('개냥이')과 높은 지능으로 전 세계에서 사랑받는 대형묘입니다. 사이베리안은 고양이 알레르기의 주원인인 Fel d 1 단백질 분비량이 다른 품종에 비해 적어 '알레르기가 적은 고양이'로 알려져 있지만, 완전히 무해한 것은 아니므로 지속적인 환경 위생 관리가 필요합니다. 또한 성묘가 되기까지 3~5년이 걸리는 지연 성숙 품종이며, 유전적으로 비대성 심근증(HCM)에 취약하고 빽빽한 피모로 인해 헤어볼 배출 관리가 필수적입니다. 오늘 PetSelf에서는 사이베리안 고양이의 표현 신호를 정확히 이해하고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.",
+                "whyTitle": "사이베리안 고양이의 바디 랭귀지: 트릴링(Trilling) 반가움 표현과 높은 곳 관찰 자세(High-Perch Observation)",
+                "whyDesc": "사이베리안 고양이는 특유의 소리와 신체 위치로 애정과 호기심을 표현합니다. 입을 다문 채 '굴리는 소리(Trilling / Chirping)'를 내며 다가오는 것은 보호자에 대한 친근함과 최고의 반가움을 나타냅니다. 반면 캣타워 최상단 등 높은 곳에 정숙하게 앉아 수직 공간에서 시선을 고정하는 것은 주변 환경을 관찰하고 영역의 안전을 확인하는 사이베리안 특유의 대형묘 본능 행동입니다.",
+                "body_signals": [
+                    {
+                        "name": "입을 다물고 '굴리는 소리(Trilling)'를 내며 꼬리를 세우고 접근함",
+                        "meaning": "보호자를 향한 깊은 애정과 인사의 표현으로, 함께 놀거나 교감하고 싶을 때 내는 소리입니다.",
+                        "response": "부드럽고 다정한 목소리로 응답하며 머리나 턱 밑을 긁어주어 교감을 나눕니다."
+                    },
+                    {
+                        "name": "높은 캣타워에서 귀를 앞으로 세우고 하단을 정숙하게 응시함 (High-Perch Observation)",
+                        "meaning": "야생의 본능이 남아 있어 자신의 영역 전체를 안전하게 파악하고 관찰하려는 본능적 안정 행동입니다.",
+                        "response": "관찰을 방해하지 않도록 조용히 두고, 안전하게 올라갈 수 있는 튼튼한 대형 캣타워 환경을 유지해 줍니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 습식 사료 급여를 통한 음수량 확보 및 Fel d 1 알레르기 관리(공기청정 점검)",
+                        "text": "비대성 심근증(HCM) 및 신장 건강을 위해 습식 중심 식단으로 음수량을 채우고, 실내 알레르겐 감소를 위해 공기청정기 필터를 점검합니다."
+                    },
+                    {
+                        "name": "낮: 삼중모(Triple Coat) 빗질 및 3~5년 느린 성숙기에 맞춘 고강도 사냥 놀이",
+                        "text": "털 엉킴과 헤어볼 방지를 위해 슬리커 브러시로 빽빽한 속털까지 빗겨주고, 높은 캣타워와 낚싯대 장난감으로 에너지를 발산시킵니다."
+                    },
+                    {
+                        "name": "저녁: 헤어볼 영양제 급여 및 야간 안정을 위한 온·습도 환경 조성(20~22°C)",
+                        "text": "삼중모 그루밍으로 인한 헤어볼 배출을 돕는 영양제를 급여하고, 두터운 피모에 맞는 적정 실내 온도(20~22°C)를 유지합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "사이베리안 고양이는 정말 털 알레르기 반응이 전혀 안 생기나요?",
+                        "answer": "완전히 안 생기는 것은 아닙니다! 사이베리안 고양이는 고양이 알레르기를 유발하는 주요 단백질인 Fel d 1 분비 수치가 타 품종보다 현저히 낮지만, 알레르기 반응은 사람의 민감도에 따라 다릅니다. 입양 전 직접 접촉해 보는 것이 좋으며, 실내 공기청정기 가동과 정기적인 삼중모 케어로 알레르겐 노출을 최소화해야 합니다."
+                    },
+                    {
+                        "question": "빽빽한 삼중모 털 관리와 비대성 심근증(HCM) 예방은 어떻게 해야 하나요?",
+                        "answer": "사이베리안은 방수성이 있는 겉털과 촘촘한 속털로 이루어진 삼중모를 가지고 있어 주 3~4회 이상 속털까지 깊이 빗질해 주어야 헤어볼과 털 엉킴을 막을 수 있습니다. 또한 순환기 질환인 비대성 심근증(HCM)에 유전적 소인이 있으므로 1~2년에 한 번씩 정기적인 심장 초음파 검사를 받는 것이 안전합니다."
+                    }
+                ],
+                "tags": [
+                    "사이베리안고양이",
+                    "대형묘케어",
+                    "고양이알레르기",
+                    "비대성심근증"
+                ]
+            },
+            "en": {
+                "title": "Siberian Cat Behavioral Signals and 3-Step Daily Routine for Fel d 1 Allergy Management and HCM Heart Care",
+                "description": "Care guide for the majestic Siberian Cat with a dense triple coat. Interpret trilling chirps and high-perch observation, manage Fel d 1 allergies, and prevent HCM in 3 steps.",
+                "authority": "The International Cat Association (TICA) & Cat Fanciers' Association (CFA) Care Standards",
+                "profile": {
+                    "breed": "Siberian Cat",
+                    "lifespan": "12 - 15 Years (Up to 20 years with optimal care)",
+                    "sleep_pattern": "12 - 16 Hours (Crepuscular, restful sleep punctuated by high-energy play)",
+                    "temperament": "Affectionate, Dog-like, Curious, Highly Intelligent, Water-loving"
+                },
+                "intro": "Hailing as Russia's national treasure, the Siberian Cat is a magnificent large breed famed for its dense triple coat, dog-like devotion, and high intelligence. Siberians naturally produce lower levels of the Fel d 1 protein—the primary allergen in cats—making them popular among allergy sufferers, though they are not 100% allergen-free. As a slow-maturing breed taking 3 to 5 years to reach full size, they require tailored care to support their growth, manage their thick fur against hairballs, and monitor for genetic Hypertrophic Cardiomyopathy (HCM). Today, PetSelf presents a 3-step daily routine to read your Siberian's body language and protect its health.",
+                "whyTitle": "Siberian Cat Body Language: Friendly Trilling and High-Perch Observation",
+                "whyDesc": "Siberian Cats express warmth and territorial confidence through melodic vocalizations and elevated positioning. Making a soft, rolling 'trilling or chirping' sound while approaching with an upright tail is their ultimate greeting of affection. Conversely, sitting quietly on top of a tall cat tree with forward-pointing ears 'High-Perch Observation' is a natural instinct to oversee their environment and ensure security.",
+                "body_signals": [
+                    {
+                        "name": "Approaching with Upright Tail while Making a Rolling 'Trilling' Sound",
+                        "meaning": "A joyful greeting demonstrating deep trust and affection, signaling a desire to interact or play.",
+                        "response": "Greet back in a soft tone and gently stroke their head or chin to reinforce bonding."
+                    },
+                    {
+                        "name": "Sitting Perched High on a Cat Tree with Ears Forward, Gazing Below (High-Perch Observation)",
+                        "meaning": "An instinctual behavior where the cat observes its surroundings from a safe vantage point to assess territorial security.",
+                        "response": "Respect their observation space and ensure they have a sturdy, heavy-duty cat tree suitable for a large breed."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Wet Food Feeding for Hydration & Fel d 1 Allergen Management",
+                        "text": "Provide moisture-rich wet food to safeguard renal and cardiac health (HCM prevention), checking air purifier filters to reduce indoor dander."
+                    },
+                    {
+                        "name": "Afternoon: Deep Triple-Coat Grooming & Energetic Play for Slow Maturation",
+                        "text": "Brush thoroughly using a slicker brush to remove loose undercoat fur, followed by high-jumping rod toy play to channel their physical energy."
+                    },
+                    {
+                        "name": "Evening: Hairball Prevention Supplement & Optimal Ambient Temperature Control (20°C–22°C)",
+                        "text": "Administer a hairball control paste to aid digestion of ingested fur, maintaining a comfortable room temperature (20°C–22°C) suitable for their heavy coat."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Are Siberian Cats completely hypoallergenic for people with cat allergies?",
+                        "answer": "Not completely! Siberians naturally produce significantly lower levels of the Fel d 1 allergen protein compared to other breeds, but individual human sensitivity varies. It is recommended to spend time with a Siberian before adoption, and use HEPA air purifiers alongside regular coat brushing to minimize allergen buildup."
+                    },
+                    {
+                        "question": "How should I manage their dense triple coat and monitor for Hypertrophic Cardiomyopathy (HCM)?",
+                        "answer": "Siberians possess a water-repellent guard coat and dense undercoat, requiring thorough brushing 3 to 4 times a week down to the skin to prevent mats and severe hairballs. Additionally, because they have a genetic predisposition to HCM (a cardiac muscle condition), scheduling annual or biennial echocardiograms with a veterinarian is crucial for early detection."
+                    }
+                ],
+                "tags": [
+                    "SiberianCat",
+                    "LargeCatCare",
+                    "CatAllergyFeld1",
+                    "CatHCM"
+                ]
+            },
+            "ja": {
+                "title": "サイベリアン（シベリアンキャット）の親愛・観察サイン解読とアレルギー(Fel d 1)・肥大型心筋症(HCM)管理のための3ステップデイリールーティン",
+                "description": "豊かな三重毛（トリプルコート）を持つ大型猫サイベリアン。トリリング（転がし鳴き）の解読、Fel d 1アレルギー対策、HCM・毛玉予防のための3ステップホームケアを紹介します。",
+                "authority": "TICA（国際猫協会）およびCFA（猫愛好家協会）飼育基準",
+                "profile": {
+                    "breed": "サイベリアン (Siberian Cat)",
+                    "lifespan": "12 〜 15年 (適切なケアで最大20年)",
+                    "sleep_pattern": "12 〜 16時間 (薄明薄暮性、運動後の熟睡)",
+                    "temperament": "愛情深い、犬のような性格、好奇心旺盛、極めて知的、水を怖がらない"
+                },
+                "intro": "ロシアの国宝と称されるサイベリアン（シベリアンキャット）は、豪華な三重毛（トリプルコート）と犬のように人懐っこい性格、高い知性で世界中から愛されている大型猫です。猫アレルギーの主原因物質であるFel d 1タンパク質の分泌量が他犬種より少ないため「アレルギーが出にくい猫」として知られていますが、完全に無害ではないため衛生管理が大切です。成猫になるまでに3〜5年かかる遅延成熟品種であり、遺伝的に肥大型心筋症（HCM）のリスクがあるため、毛玉ケアと心臓の健康管理が不可欠です。本日PetSelfでは、サイベリアンのサインを解読し健康を守る3ステップルーティンをお届けします。",
+                "whyTitle": "サイベリアンのボディランゲージ：トリリング(Trilling)と高所観察姿勢(High-Perch Observation)",
+                "whyDesc": "サイベリアンは独特の鳴き声と位置取りで親愛と警戒・観察を表現します。口を閉じたまま「クルルッ」と転がすような鳴き声**「トリリング（Trilling / Chirping）」**を出して近寄るのは、飼い主への深い愛着と挨拶のサインです。一方、高いキャットタワーの最上段から静かに見下ろす姿勢**「高所観察姿勢（High-Perch Observation）」**は、自分の縄張り全体の安全を確認するサイベリアン固有の本能的行動です。",
+                "body_signals": [
+                    {
+                        "name": "尾を直立させて「クルルッ（Trilling）」と鳴きながら近づく",
+                        "meaning": "飼い主に対する深い信頼と喜びを示す挨拶であり、コミュニケーションや遊びを求めているサインです。",
+                        "response": "優しい声で返事をし、頭やあごの下を撫でてスキンシップを深めましょう。"
+                    },
+                    {
+                        "name": "キャットタワーの高所で耳を前に向け、下方を静かに見つめる (High-Perch Observation)",
+                        "meaning": "自分の縄張り全体を見渡し、安全を確認しようとするサイベリアンの本能的な観察行動です。",
+                        "response": "無理に降ろさず静かに見守り、大型猫用の頑丈な高所環境を維持してあげましょう。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：ウェットフード給餌による水分補給とFel d 1アレルギー対策（空気清浄）",
+                        "text": "心臓（HCM）や腎臓の健康を守るため水分豊富なウェットフードを与え、室内アレルゲン軽減のため空気清浄機を点検します。"
+                    },
+                    {
+                        "name": "昼：三重毛（トリプルコート）の深層ブラッシングと高強度な遊び",
+                        "text": "毛玉や縺れを防ぐためスリッカーブラシでアンダーコートまでしっかり梳かし、じゃらし玩具で運動能力を発揮させます。"
+                    },
+                    {
+                        "name": "夜：毛玉ケアサプリの給餌と快適な室温管理（20〜22℃）",
+                        "text": "グルーミングで飲み込んだ毛の排出を助けるサプリを与え、厚い被毛に合わせた涼しく快適な室温を保ちます。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "サイベリアンは本当に猫アレルギーが全く出ないのですか？",
+                        "answer": "全く出ないわけではありません！サイベリアンはアレルゲンとなるFel d 1タンパク質の分泌量が他種より著しく少ないですが、アレルギー反応には個人差があります。お迎え前に直接触れ合う機会を設け、HEPAフィルター付き空気清浄機の設置や定期的なブラッシングで環境を清潔に保つことが推奨されます。"
+                    },
+                    {
+                        "question": "密な三重毛のお手入れと肥大型心筋症（HCM）予防はどうすればよいですか？",
+                        "answer": "サイベリアンは撥水性のあるオーバーコートと密なアンダーコートを持つ三重毛のため、週3〜4回以上皮膚近くまでブラッシングして毛玉を防ぐ必要があります。また、循環器疾患である肥大型心筋症（HCM）の遺伝的リスクがあるため、1〜2年に1回は動物病院で心臓超音波検査（エコー）を受けることが重要です。"
+                    }
+                ],
+                "tags": [
+                    "サイベリアン",
+                    "大型猫ケア",
+                    "猫アレルギーFeld1",
+                    "肥大型心筋症"
+                ]
+            },
+            "zh": {
+                "title": "西伯利亚猫情感信号解读与 Fel d 1 过敏管理及肥厚型心肌病 (HCM) 预防的 3 步日常流程",
+                "description": "拥有浓密三层被毛的大型猫西伯利亚猫（Siberian Cat）护理指南。解读颤音鸣叫（Trilling）与高处观察信号，管理 Fel d 1 过敏源，预防 HCM 与毛球症的 3 步骤家庭护理。",
+                "authority": "国际猫协会 (TICA) 与猫爱好者协会 (CFA) 护理标准",
+                "profile": {
+                    "breed": "西伯利亚猫 (Siberian Cat)",
+                    "lifespan": "12 ~ 15年 (科学喂养可达20年)",
+                    "sleep_pattern": "12 ~ 16小时 (薄暮性，高强度捕猎游戏后深度睡眠)",
+                    "temperament": "亲人、像狗一样的性格 (Dog-like)、好奇心强、极度聪明、不怕水"
+                },
+                "intro": "被誉为俄罗斯国宝的西伯利亚猫（Siberian Cat）凭借其奢华的三层被毛（Triple Coat）、像狗一样忠诚亲人的性格（“像狗一样的猫”）和极高的智商而备受全球喜爱。西伯利亚猫体内分泌的 Fel d 1 蛋白（引发猫过敏的主要致敏原）显著低于其他猫种，因此被称为“低过敏猫”，但并非完全不会致敏，仍需注意环境卫生。作为一种需要 3 至 5 年才能完全成熟的慢熟大型猫种，西伯利亚猫极易患遗传性肥厚型心肌病（HCM），且浓密被毛易产生毛球问题。今天 PetSelf 将带您准确解读西伯利亚猫肢体语言，并通过 3 步骤日常护理维护其健康。",
+                "whyTitle": "西伯利亚猫肢体语言：颤音鸣叫 (Trilling) 问候与高处观察姿态 (High-Perch Observation)",
+                "whyDesc": "西伯利亚猫通过独特的鸣叫与高处站位表达爱意与领地安全感。闭着嘴发出咕噜滚动的“颤音鸣叫 (Trilling / Chirping)”并竖起尾巴靠近，是向主人表达极度亲密与欢欣的最高问候。相反，安静地蹲坐在高耸猫树顶端俯瞰下方“高处观察姿态 (High-Perch Observation)”，则是其监控领地环境、确保安全的本能行为。",
+                "body_signals": [
+                    {
+                        "name": "竖起尾巴并发出咕噜滚动的“颤音鸣叫 (Trilling)”靠近主人",
+                        "meaning": "表达对主人深厚信任与喜悦的欢快问候，示意希望互动或玩耍。",
+                        "response": "用温和的声音回应，并轻柔抚摸其头部或下巴以加深情感羁绊。"
+                    },
+                    {
+                        "name": "蹲坐在高耸猫树上，耳朵朝前并安静凝视下方 (High-Perch Observation)",
+                        "meaning": "从安全制高点观察领地环境的本能行为，用以确认周围环境是否安全。",
+                        "response": "保持环境安静不予打扰，并为其提供适合大型猫使用的稳固高大型猫树。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：投喂湿粮以增加饮水量及 Fel d 1 过敏源管理（检查空气净化）",
+                        "text": "以富含水分的湿粮为主，保护心脏（HCM）与肾脏健康，并检查空气净化器滤网以减少室内过敏原。"
+                    },
+                    {
+                        "name": "中午：三层被毛 (Triple Coat) 深度梳理与适应 slow-maturation 的高强度游戏",
+                        "text": "用排梳和针梳深入梳透底毛以防打结与毛球症，并使用羽毛棒及猫树消耗其旺盛精力。"
+                    },
+                    {
+                        "name": "晚上：喂食排毛膏与维持舒适凉爽的室温环境 (20°C~22°C)",
+                        "text": "喂食帮助排出胃中积毛的排毛膏，并将室温维持在适合浓密长毛的凉爽范围。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "西伯利亚猫真的完全不会让人产生猫过敏反应吗？",
+                        "answer": "并非绝对不会！虽然西伯利亚猫分泌 Fel d 1 蛋白的水平远低于普通猫种，但不同人群的致敏阈值各异。建议领养前与实物接触确认，并在家中配备 HEPA 高效空气净化器，定期梳理被毛以最大程度降低过敏风险。"
+                    },
+                    {
+                        "question": "如何护理浓密的三层被毛并预防肥厚型心肌病 (HCM)？",
+                        "answer": "西伯利亚猫拥有防水外毛与极其密实的底毛构成的三层被毛，每周需进行 3~4 次深层梳理以防打结和严重毛球症。此外，由于大型猫种易携带 HCM 遗传基因，建议自 1~2 岁起每年或每两年定期前往宠物医院进行心脏超声检查。"
+                    }
+                ],
+                "tags": [
+                    "西伯利亚猫",
+                    "大型猫护理",
+                    "低过敏猫Feld1",
+                    "肥厚型心肌病HCM"
+                ]
+            },
+            "es": {
+                "title": "Señales de conducta en el Gato Siberiano y rutina diaria de 3 pasos para el control de alergias (Fel d 1) y salud cardiaca (HCM)",
+                "description": "Guía de cuidado para el majestuoso Gato Siberiano de pelaje triple. Interprete los trinos de saludo y la observación en las alturas, gestione la proteína Fel d 1 y prevenga la cardiomiopatía HCM en 3 pasos.",
+                "authority": "The International Cat Association (TICA) y Normas de la Cat Fanciers' Association (CFA)",
+                "profile": {
+                    "breed": "Gato Siberiano (Siberian Cat)",
+                    "lifespan": "12 ~ 15 años (Hasta 20 años con cuidados óptimos)",
+                    "sleep_pattern": "12 ~ 16 horas (Crepuscular, sueño profundo tras el juego)",
+                    "temperament": "Afectuoso, Carácter canino (Dog-like), Curioso, Muy inteligente, Amante del agua"
+                },
+                "intro": "Considerado un tesoro nacional en Rusia, el Gato Siberiano es una majestuosa raza grande famosa por su denso pelaje triple (Triple Coat), su personalidad afectuosa similar a la de un perro y su gran inteligencia. Los Siberianos producen naturalmente niveles más bajos de la proteína Fel d 1 (el principal alérgeno en los gatos), lo que los convierte en una opción popular para personas con alergias, aunque no son 100% hipoalergénicos. Al ser una raza de crecimiento lento que tarda de 3 a 5 años en alcanzar la madurez física, requieren cuidados constantes para prevenir bolas de pelo en su espeso manto y controlar la Cardiomiopatía Hipertrófica (HCM) hereditaria. Hoy, PetSelf presenta una rutina de 3 pasos para cuidar su salud.",
+                "whyTitle": "Lenguaje corporal del Gato Siberiano: Trino de saludo (Trilling) y observación en las alturas (High-Perch Observation)",
+                "whyDesc": "El Gato Siberiano expresa cariño y seguridad territorial mediante vocalizaciones suaves y posturas elevadas. Emitir un suave sonido trinado 'Trino (Trilling / Chirping)' con la cola erguida al acercarse es su máxima señal de afecto y bienvenida. Por el contrario, mantenerse sentado en la parte más alta del rascador mirando hacia abajo 'Observación en las alturas (High-Perch Observation)' es un comportamiento instintivo para vigilar su entorno y garantizar la seguridad de su territorio.",
+                "body_signals": [
+                    {
+                        "name": "Acercarse con la cola erguida mientras emite un trino suave (Trilling)",
+                        "meaning": "Saludo lleno de alegría que demuestra profunda confianza y ganas de interactuar o jugar.",
+                        "response": "Responda con voz suave y acaricie su cabeza o barbilla para fortalecer el vínculo afectivo."
+                    },
+                    {
+                        "name": "Sentarse en lo alto del rascador con las orejas hacia adelante mirando hacia abajo (High-Perch Observation)",
+                        "meaning": "Comportamiento instintivo de vigilancia desde un punto elevado y seguro para supervisar el territorio.",
+                        "response": "Respete su espacio de observación y asegúrese de proporcionarle un rascador alto y muy resistente."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Alimentación húmeda para la hidratación y control de la proteína alérgena Fel d 1",
+                        "text": "Suministre comida húmeda para proteger la salud renal y cardíaca (prevención de HCM) y revise el purificador de aire para reducir la caspa en el hogar."
+                    },
+                    {
+                        "name": "Tarde: Cepillado profundo del manto triple y juego de alta intensidad",
+                        "text": "Cepille con un peine tipo slicker hasta la capa interna para evitar nudos y bolas de pelo, y canalice su energía con juguetes de caña."
+                    },
+                    {
+                        "name": "Noche: Suplemento para bolas de pelo y control de temperatura ambiental fresca (20°C–22°C)",
+                        "text": "Adminístrele una pasta para ayudar a expulsar las bolas de pelo y mantenga una temperatura ambiente fresca apta para su denso pelaje."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Es el Gato Siberiano totalmente hipoalergénico para las personas con alergias?",
+                        "answer": "¡No totalmente! Aunque el Gato Siberiano produce niveles considerablemente menores de la proteína Fel d 1 que otras razas, la sensibilidad en cada persona varía. Se recomienda convivir con la raza antes de la adopción y utilizar purificadores de aire con filtro HEPA junto con un cepillado regular para minimizar los alérgenos."
+                    },
+                    {
+                        "question": "¿Cómo debo cuidar su denso pelaje triple y prevenir la Cardiomiopatía Hipertrófica (HCM)?",
+                        "answer": "Su manto triple posee una capa externa impermeable y una capa interna muy tupida, por lo que requiere cepillados profundos de 3 a 4 veces por semana. Además, al ser propenso genéticamente a la Cardiomiopatía Hipertrófica (HCM), es fundamental realizarle ecocardiogramas de control cada 1 o 2 años en la clínica veterinaria."
+                    }
+                ],
+                "tags": [
+                    "GatoSiberiano",
+                    "CuidadoDeGatosGrandes",
+                    "AlergiaGatoFeld1",
+                    "HCMFelina"
+                ]
+            },
+            "fr": {
+                "title": "Signaux comportementaux du Chat Sibérien et routine quotidienne en 3 étapes pour la gestion de la protéine Fel d 1 et la santé cardiaque (HCM)",
+                "description": "Guide de soins pour le majestueux Chat Sibérien au pelage triple. Décryptez le roucoulement (Trilling) et la posture d'observation en hauteur, gérez la protéine Fel d 1 et prévenez la cardiomyopathie HCM en 3 étapes.",
+                "authority": "The International Cat Association (TICA) & Normes de la Cat Fanciers' Association (CFA)",
+                "profile": {
+                    "breed": "Chat Sibérien (Siberian Cat)",
+                    "lifespan": "12 ~ 15 ans (Jusqu'à 20 ans avec des soins adaptés)",
+                    "sleep_pattern": "12 ~ 16 heures (Crépusculaire, sommeil profond après le jeu)",
+                    "temperament": "Affectueux, Caractère de chien (Dog-like), Curieux, Très intelligent, Amoureux de l'eau"
+                },
+                "intro": "Trésor national de la Russie, le Chat Sibérien est une magnifique race de grand gabarit réputée pour sa triple fourrure (Triple Coat), sa loyauté comparée à celle d'un chien et sa grande intelligence. Les Sibériens produisent naturellement des niveaux plus faibles de la protéine Fel d 1 (le principal allergène félin), ce qui en fait un choix privilégié pour les personnes allergiques, bien qu'ils ne soient pas à 100 % hypoallergéniques. Sa croissance lente nécessitant 3 à 5 ans pour atteindre sa taille adulte impose un entretien rigoureux contre les boules de poils et une surveillance de la Cardiomyopathie Hypertrophique (HCM) héréditaire. Aujourd'hui, PetSelf vous présente une routine en 3 étapes pour prendre soin de lui.",
+                "whyTitle": "Langage corporel du Chat Sibérien : Le roucoulement (Trilling) et l'observation en hauteur (High-Perch Observation)",
+                "whyDesc": "Le Chat Sibérien exprime son affection et son sentiment de sécurité par des vocalises douces et des postures élevées. Émettre un léger roucoulement « Roucoulement (Trilling / Chirping) » la queue haute en s'approchant est sa plus belle preuve d'affection. À l'inverse, s'installer calmement au sommet d'un arbre à chat « Observation en hauteur (High-Perch Observation) » est un comportement instinctif visant à surveiller son territoire en toute sécurité.",
+                "body_signals": [
+                    {
+                        "name": "S'approcher la queue dressée en émettant un doux roucoulement (Trilling)",
+                        "meaning": "Salutation joyeuse témoignant d'une confiance profonde et d'un désir d'interaction ou de jeu.",
+                        "response": "Répondez-lui d'une voix douce et caressez sa tête ou son menton pour renforcer votre complicité."
+                    },
+                    {
+                        "name": "Rester perché sur un grand arbre à chat, les oreilles vers l'avant, observant le sol (High-Perch Observation)",
+                        "meaning": "Comportement d'observation instinctif depuis un point élevé pour surveiller son environnement.",
+                        "response": "Respectez son besoin de hauteur et fournissez-lui un arbre à chat solide adapté aux grands chats."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Alimentation humide pour l'hydratation & gestion de la protéine allergène Fel d 1",
+                        "text": "Offrez de la nourriture humide pour préserver les reins et le cœur (prévention de la HCM), et vérifiez le filtre du purificateur d'air."
+                    },
+                    {
+                        "name": "Après-midi : Brossage en profondeur du triple pelage & jeu dynamique adapté à sa croissance",
+                        "text": "Brossez en profondeur avec une brosse slicker pour retirer le sous-poil et éviter les nœuds, puis dépensez son énergie avec un plumet."
+                    },
+                    {
+                        "name": "Soir : Complément anti-boules de poils & maintien d'une température ambiante fraîche (20°C–22°C)",
+                        "text": "Donnez une pâte anti-boules de poils pour faciliter le transit des poils ingérés et maintenez une pièce fraîche adaptée à sa fourrure dense."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Le Chat Sibérien est-il totalement hypoallergénique pour les personnes allergiques ?",
+                        "answer": "Pas totalement ! Même si le Sibérien sécrète nettement moins de protéine Fel d 1 que la plupart des chats, la sensibilité varie d'un individu à l'autre. Il est vivement conseillé de passer du temps avec un Sibérien avant de l'adopter, et d'utiliser un purificateur d'air HEPA associé à un brossage régulier."
+                    },
+                    {
+                        "question": "Comment entretenir son triple pelage et prévenir la Cardiomyopathie Hypertrophique (HCM) ?",
+                        "answer": "Le pelage triple du Sibérien comprend un poil de couverture isolant et un sous-poil dense, nécessitant 3 à 4 brossages profonds par semaine. De plus, en raison d'une préposition génétique à la Cardiomyopathie Hypertrophique (HCM), une échographie cardiaque régulière tous les 1 à 2 ans chez le vétérinaire est fortement recommandée."
+                    }
+                ],
+                "tags": [
+                    "ChatSiberien",
+                    "SoinGrandChat",
+                    "AllergieChatFeld1",
+                    "HCMFeline"
+                ]
+            },
+            "de": {
+                "title": "Verhaltenssignale der Sibirischen Katze und 3-Schritte-Tagesroutine für Fel d 1-Allergie-Management und HCM-Herzgesundheit",
+                "description": "Pflegeanleitung für die majestätische Sibirische Katze mit dreifachem Fell. Trillern und Aussicht von erhöhten Plätzen verstehen, Fel d 1-Proteine managen und HCM in 3 Schritten vorbeugen.",
+                "authority": "The International Cat Association (TICA) & Standards der Cat Fanciers' Association (CFA)",
+                "profile": {
+                    "breed": "Sibirische Katze (Siberian Cat)",
+                    "lifespan": "12 ~ 15 Jahre (Bei optimaler Haltung bis zu 20 Jahre)",
+                    "sleep_pattern": "12 ~ 16 Stunden (Dämmerungsaktiv, tiefer Schlaf nach dem Jagen)",
+                    "temperament": "Anhänglich, Hundeähnliches Wesen (Dog-like), Neugierig, Sehr intelligent, Wasserliebend"
+                },
+                "intro": "Als Nationalheiligtum Russlands ist die Sibirische Katze (Siberian Cat) eine prachtvolle Rasse, die für ihr dichtes dreifaches Fell (Triple Coat), ihre hundeähnliche Treue und ihre hohe Intelligenz weltweit geliebt wird. Sibirische Katzen produzieren von Natur aus geringere Mengen des Fel d 1-Proteins – dem Hauptauslöser für Katzenallergien –, was sie für Allergiker attraktiv macht, obwohl sie nicht zu 100 % allergenfrei sind. Da sie erst nach 3 bis 5 Jahren ausgewachsen sind, benötigen sie eine angepasste Pflege zur Vermeidung von Haarballen im dichten Fell sowie Vorsorge gegen die erblich bedingte Hypertrophe Kardiomyopathie (HCM). Heute zeigt PetSelf eine 3-Schritte-Routine für die Gesundheit Ihrer Sibirischen Katze.",
+                "whyTitle": "Körpersprache der Sibirischen Katze: Freundliches Trillern (Trilling) und Beobachtung von erhöhten Plätzen (High-Perch Observation)",
+                "whyDesc": "Sibirische Katzen drücken Zuneigung und Reviersicherheit durch sanfte Lautäußerungen und erhöhte Positionen aus. Ein sanftes gurrendes 'Trillern (Trilling / Chirping)' mit aufgerichtetem Schwanz beim Annähern ist ihr schönster Vertrauensbeweis. Das ruhige Verharren auf der obersten Plattform des Kratzbaums 'Beobachtung von erhöhten Plätzen (High-Perch Observation)' ist dagegen ein natürlicher Instinkt, um das Revier sicher im Blick zu behalten.",
+                "body_signals": [
+                    {
+                        "name": "Annähern mit aufgerichtetem Schwanz und gurrendem 'Trillern' (Trilling)",
+                        "meaning": "Eine freudige Begrüßung, die tiefes Vertrauen ausdrückt und den Wunsch nach Interaktion oder Spiel signalisiert.",
+                        "response": "Antworten Sie mit sanfter Stimme und streicheln Sie Kopf oder Kinn, um die Bindung zu stärken."
+                    },
+                    {
+                        "name": "Ruhiges Sitzen auf dem Kratzbaum mit nach vorne gerichteten Ohren und Blick nach unten (High-Perch Observation)",
+                        "meaning": "Instinktives Beobachtungsverhalten von einem sicheren Aussichtspunkt, um die Umgebung zu überwachen.",
+                        "response": "Respektieren Sie diesen Rückzugsort und bieten Sie einen stabilen Kratzbaum für große Katzenrassen."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Nassfütterung zur Flüssigkeitsaufnahme & Fel d 1-Allergen-Management",
+                        "text": "Füttern Sie feuchtigkeitsreiches Nassfutter zur Vorbeugung von Nieren- und Herzerkrankungen (HCM) und prüfen Sie Luftreinigerfilter im Raum."
+                    },
+                    {
+                        "name": "Mittag: Gründliches Bürsten des dichten dreifachen Fells & Aktives Spiel",
+                        "text": "Bürsten Sie mit einer Zupfbürste tief bis zur Unterwolle gegen Verfilzungen und fördern Sie ihren Spieltrieb mit Angelspielzeugen."
+                    },
+                    {
+                        "name": "Abend: Anti-Haarballen-Paste & Angenehm kühles Raumklima (20 °C–22 °C)",
+                        "text": "Geben Sie Paste zur Unterstützung des Abschluckens verschluckter Haare und halten Sie die Raumtemperatur für das dichte Fell angenehm kühl."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Ist die Sibirische Katze für Allergiker wirklich komplett symptomfrei?",
+                        "answer": "Nicht zu 100 %! Zwar geben Sibirische Katzen deutlich weniger des Fel d 1-Proteins ab als andere Rassen, aber die menschliche Empfindlichkeit variiert. Es wird empfohlen, vor der Anschaffung Zeit mit der Rasse zu verbringen und Luftreiniger mit HEPA-Filter einzusetzen."
+                    },
+                    {
+                        "question": "Wie pflege ich das dichte dreifache Fell und beuge der Hypertrophen Kardiomyopathie (HCM) vor?",
+                        "answer": "Das dreifache Fell besteht aus wasserabweisendem Deckhaar und dichter Unterwolle, weshalb 3–4 Mal pro Woche gründlich gebürstet werden muss. Da große Rassen eine genetische Disposition für HCM aufweisen, sind regelmäßige Herzultraschall-Untersuchungen beim Tierarzt ab dem 1. bis 2. Lebensjahr ratsam."
+                    }
+                ],
+                "tags": [
+                    "SibirischeKatze",
+                    "GrosseKatzenPflege",
+                    "KatzenallergieFeld1",
+                    "KatzenHCM"
+                ]
+            },
+            "pt": {
+                "title": "Sinais comportamentais do Gato Siberiano e rotina diária de 3 passos para controle de alergia (Fel d 1) e saúde cardíaca (HCM)",
+                "description": "Guia de cuidados para o majestoso Gato Siberiano de pelagem tripla. Interprete o trinado (Trilling) e a postura de observação no alto, controle a proteína Fel d 1 e previna a cardiomiopatia HCM em 3 passos.",
+                "authority": "The International Cat Association (TICA) & Padrões de Cuidados da Cat Fanciers' Association (CFA)",
+                "profile": {
+                    "breed": "Gato Siberiano (Siberian Cat)",
+                    "lifespan": "12 ~ 15 anos (Até 20 anos com cuidados adequados)",
+                    "sleep_pattern": "12 ~ 16 horas (Crepuscular, sono profundo após brincadeiras)",
+                    "temperament": "Afetuoso, Personalidade de cão (Dog-like), Curioso, Muito inteligente, Amante de água"
+                },
+                "intro": "Considerado um tesouro nacional na Rússia, o Gato Siberiano é uma majestosa raça de grande porte famosa por sua pelagem tripla (Triple Coat) densa, lealdade comparável à de um cão e alta inteligência. Os Siberianos produzem naturalmente níveis mais baixos da proteína Fel d 1 (o principal alérgeno dos gatos), tornando-os populares entre pessoas alérgicas, embora não sejam 100% hipoalergênicos. Por ser uma raça de crescimento lento que leva de 3 a 5 anos para amadurecer completamente, exige cuidados contínuos contra bolas de pelo e monitoramento da Cardiomiopatia Hipertrófica (HCM) hereditária. Hoje, o PetSelf apresenta uma rotina de 3 passos para cuidar da sua saúde.",
+                "whyTitle": "Linguagem corporal do Gato Siberiano: Trinado de saudação (Trilling) e observação no alto (High-Perch Observation)",
+                "whyDesc": "O Gato Siberiano expressa carinho e segurança territorial por meio de vocalizações suaves e posições elevadas. Emitir um trinado suave 'Trinado (Trilling / Chirping)' com a cauda erguida ao se aproximar é sua maior demonstração de afeto. Por outro lado, sentar-se no topo do arranhador olhando para baixo 'Observação no alto (High-Perch Observation)' é um comportamento instintivo para monitorar seu território com segurança.",
+                "body_signals": [
+                    {
+                        "name": "Aproximar-se com a cauda erguida emitindo um trinado suave (Trilling)",
+                        "meaning": "Saudação alegre que demonstra profunda confiança e desejo de interagir ou brincar.",
+                        "response": "Responda com voz suave e afague sua cabeça ou queixo para fortalecer o vínculo."
+                    },
+                    {
+                        "name": "Sentar-se no alto do arranhador com as orelhas para a frente olhando para baixo (High-Perch Observation)",
+                        "meaning": "Comportamento instintivo de observação a partir de um ponto elevado para garantir a segurança do ambiente.",
+                        "response": "Respeite seu espaço de observação e garanta um arranhador alto e resistente para gatos grandes."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Alimentação úmida para hidratação e controle do alérgeno Fel d 1",
+                        "text": "Forneça alimento úmido para proteger a saúde renal e cardíaca (prevenção de HCM) e verifique o filtro do purificador de ar."
+                    },
+                    {
+                        "name": "Tarde: Escovação profunda da pelagem tripla e brincadeiras ativas",
+                        "text": "Escove com rasqueadeira até a subpelagem para evitar nós e bolas de pelo, usando brinquedos de vara para gastar energia."
+                    },
+                    {
+                        "name": "Noite: Suplemento para bolas de pelo e controle de temperatura ambiente fresca (20°C–22°C)",
+                        "text": "Ofereça pasta para remoção de pelos ingeridos e mantenha o ambiente em uma temperatura fresca e agradável para sua pelagem densa."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "O Gato Siberiano é totalmente hipoalergênico para pessoas com alergia a gatos?",
+                        "answer": "Não totalmente! Embora o Siberiano produza níveis significativamente menores da proteína Fel d 1 do que a maioria das raças, a sensibilidade humana varia. É recomendável conviver com a raça antes de adotar e usar purificadores de ar HEPA aliados à escovação constante."
+                    },
+                    {
+                        "question": "Como devo cuidar de sua pelagem tripla densa e prevenir a Cardiomiopatia Hipertrófica (HCM)?",
+                        "answer": "Sua pelagem tripla possui fios de cobertura impermeáveis e um denso subpelo, exigindo escovação profunda de 3 a 4 vezes por semana. Além disso, devido à predisposição genética à Cardiomiopatia Hipertrófica (HCM), realizar ecocardiogramas periódicos no veterinário é fundamental."
+                    }
+                ],
+                "tags": [
+                    "GatoSiberiano",
+                    "CuidadosComGatosGrandes",
+                    "AlergiaGatoFeld1",
+                    "HCMFelina"
+                ]
+            },
+            "id": {
+                "title": "Sinyal Perilaku Kucing Siberian dan Rutinitas Harian 3 Langkah Perawatan Alergi (Fel d 1) serta Kesehatan Jantung (HCM)",
+                "description": "Panduan perawatan kucing anggun Siberian Cat yang memiliki lapisan bulu tiga lapis (Triple Coat). Pahami suara trilling dan pengamatan dari tempat tinggi, kelola alergen Fel d 1, serta cegah HCM dalam 3 langkah.",
+                "authority": "Standar Perawatan The International Cat Association (TICA) & Cat Fanciers' Association (CFA)",
+                "profile": {
+                    "breed": "Kucing Siberian (Siberian Cat)",
+                    "lifespan": "12 ~ 15 tahun (Hingga 20 tahun dengan perawatan optimal)",
+                    "sleep_pattern": "12 ~ 16 jam (Krepuskular, tidur nyenyak setelah bermain aktif)",
+                    "temperament": "Penyayang, Sifat seperti anjing (Dog-like), Penasaran, Sangat Cerdas, Menyukai air"
+                },
+                "intro": "Dikenal sebagai harta nasional Rusia, Kucing Siberian (Siberian Cat) adalah ras besar yang memikat dengan lapisan bulu tiga lapis (Triple Coat) yang tebal, kesetiaan seperti anjing, dan kecerdasan tinggi. Kucing Siberian secara alami menghasilkan kadar protein Fel d 1 (pemicu utama alergi kucing) yang lebih rendah dibandingkan ras lain, menjadikannya pilihan populer bagi penderita alergi meskipun tidak 100% bebas alergen. Sebagai ras yang lambat matang dan membutuhkan waktu 3 hingga 5 tahun untuk tumbuh dewasa sepenuhnya, mereka memerlukan perawatan khusus untuk mencegah gumpalan bulu (hairball) dan pemantauan terhadap Kardiomiopati Hipertrofik (HCM) keturunan. Hari ini, PetSelf membagikan 3 langkah rutinitas harian untuk merawat kesehatan Kucing Siberian Anda.",
+                "whyTitle": "Bahasa Tubuh Kucing Siberian: Suara Trilling dan Pengamatan dari Tempat Tinggi (High-Perch Observation)",
+                "whyDesc": "Kucing Siberian menyampaikan rasa sayang dan keamanan wilayah melalui vokalisasi lembut dan posisi tinggi. Mengeluarkan suara getar lembut 'Trilling (Trilling / Chirping)' sambil mendekat dengan ekor tegak adalah tanda cinta dan salam hangat mereka. Sebaliknya, duduk tenang di puncak pohon kucing (cat tree) sambil menatap ke bawah 'Pengamatan dari Tempat Tinggi (High-Perch Observation)' adalah insting alami untuk mengawasi lingkungan dan memastikan keamanan wilayahnya.",
+                "body_signals": [
+                    {
+                        "name": "Mendekat dengan Ekor Tegak Sambil Mengeluarkan Suara 'Trilling' Lembut",
+                        "meaning": "Salam penuh kegembiraan yang menunjukkan rasa percaya mendalam dan keinginan untuk berinteraksi atau bermain.",
+                        "response": "Balas dengan suara lembut dan elus bagian kepala atau dagunya untuk mempererat ikatan."
+                    },
+                    {
+                        "name": "Duduk di Puncak Cat Tree dengan Telinga Menghadap ke Depan Menatap ke Bawah (High-Perch Observation)",
+                        "meaning": "Perilaku naluri untuk mengamati wilayah dari tempat tinggi yang aman guna memastikan situasi sekitar.",
+                        "response": "Hormati ruang pengamatannya dan sediakan cat tree yang kokoh dan tinggi yang sesuai untuk ras kucing besar."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Pemberian Makanan Basah untuk Hidrasi & Pengelolaan Alergen Fel d 1",
+                        "text": "Berikan pakan basah bergizi untuk menjaga kesehatan ginjal dan jantung (pencegahan HCM), serta periksa pemurni udara (air purifier)."
+                    },
+                    {
+                        "name": "Siang: Penyisiran Bulu Tiga Lapis (Triple Coat) & Permainan Aktif",
+                        "text": "Menyisir secara mendalam menggunakan sisir slicker hingga ke bulu halus bagian dalam untuk mencegah gumpalan bulu (hairball), lalu ajak bermain mainan pancingan."
+                    },
+                    {
+                        "name": "Malam: Suplemen Pelebur Hairball & Kontrol Suhu Ruangan yang Sejuk (20°C–22°C)",
+                        "text": "Berikan pasta suplemen pencerna hairball dan jaga suhu ruangan tetap sejuk dan nyaman sesuai dengan bulunya yang tebal."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Apakah Kucing Siberian benar-benar sama sekali tidak menyebabkan alergi kucing?",
+                        "answer": "Tidak sepenuhnya! Meskipun Kucing Siberian menghasilkan kadar protein Fel d 1 yang jauh lebih rendah daripada kucing biasa, tingkat sensitivitas setiap manusia berbeda. Disarankan untuk berinteraksi langsung sebelum mengadopsi, serta menggunakan air purifier berfilter HEPA dan rutin menyisir bulunya."
+                    },
+                    {
+                        "question": "Bagaimana cara merawat bulu tiga lapisnya dan mencegah Kardiomiopati Hipertrofik (HCM)?",
+                        "answer": "Bulu tiga lapis Kucing Siberian terdiri dari bulu pelindung luar dan bulu halus dalam yang sangat tebal, sehingga membutuhkan penyisiran 3 hingga 4 kali seminggu. Selain itu, karena ras ini memiliki risiko genetik Kardiomiopati Hipertrofik (HCM), pemeriksaan USG jantung (echocardiogram) secara berkala ke dokter hewan sangat dianjurkan."
+                    }
+                ],
+                "tags": [
+                    "KucingSiberian",
+                    "PerawatanKucingBesar",
+                    "AlergiKucingFeld1",
+                    "HCMKucing"
+                ]
+            }
+        },
+        "category": "CareSelf",
+        "app": "careself",
+        "formatVersion": 4,
+        "heroImage": "/images/blog/siberian_cat_care.webp"
+    }
+}

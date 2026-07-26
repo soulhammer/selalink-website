@@ -7,7 +7,7 @@ BuildSelf 앱의 위인 습관 관련 블로그 포스트 헤더 이미지(`hero
 ## 1. 이미지 스타일 및 컨셉 (Style & Concept)
 *   **스타일**: 실사 사진이나 조잡한 3D 모델 대신, 세련되고 현대적인 **모던 벡터 일러스트(Modern Vector Illustration)** 또는 **2.5D 플랫 일러스트(Flat Illustration with Soft Gradients)** 스타일로 생성합니다.
 *   **구도 및 묘사**: 각 위인의 **시대적 배경**과 **습관이 수행되는 실제 상황**이 시각적으로 명확하게 드러나야 합니다.
-*   **인물 묘사**: 인물이 이미지의 주체로 적절하게 등장해야 하며, 위인의 특징이 잘 묘사되어야 합니다.
+*   **인물/피사체 묘사 및 잘림 방지(Centered Subject & Safe Margins)**: 인물이나 동물 등 피사체가 이미지의 중심에 명확히 부각되어야 합니다. 블로그 목록 카드 썸네일이나 상세페이지 헤더 크롭 시 주인공이 잘리지 않도록, **캔버스 중앙(Eye-level Center)에 위치시키고 상하좌우에 충분한 여여백(Safe Margins)**을 확보해야 합니다. (프롬프트 작성 시 `perfectly centered subject, well-centered composition with ample safe margins` 명시)
 *   **배색(Color Palette)**: 사이트의 대표 테마인 어두운 인디고, 바이올렛, 슬레이트 그레이 등의 차분한 다크 모드 톤을 배경으로 깔고, 금색(Gold)이나 앰버(Amber) 컬러의 부드러운 하이라이트/조명 효과를 활용하여 고급스러운(Premium) 느낌을 연출합니다.
 *   **기타 규칙**: 이미지 내에 어떠한 불필요한 텍스트(글자)도 삽입하지 않습니다.
 
@@ -41,10 +41,10 @@ BuildSelf 앱의 위인 습관 관련 블로그 포스트 헤더 이미지(`hero
 *   **이미지 스타일 및 컨셉 (Image Style & Concept)**:
     *   위인 습관 블로그와 동일하게 실사 사진이나 조잡한 3D 모델 대신, 세련되고 현대적인 **모던 벡터 일러스트(Modern Vector Illustration)** 또는 **2.5D 플랫 일러스트(Flat Illustration with Soft Gradients)** 스타일로 생성합니다.
     *   **배색 및 분위기(Color Palette)**: 어두운 인디고, 바이올렛, 슬레이트 그레이 등의 차분한 다크 모드 톤을 배경으로 깔고, 부드러운 조명(Soft lighting) 및 금색/앰버 컬러의 하이라이트 효과를 연출합니다.
-    *   **구도 및 피사체**: 해당 반려동물의 특성과 주요 케어 환경(예: 침대, 은신처, 수조, 사육장 등)을 아늑하게 묘사하고 피사체가 중심에 명확하게 부각되도록 합니다.
+    *   **구도 및 피사체 (Centered Subject & Safe Margins)**: 해당 반려동물의 특성과 주요 케어 환경(예: 침대, 은신처, 수조, 사육장 등)을 아늑하게 묘사하고, 블로그 카드 및 헤더 썸네일 크롭 시 주인공이 잘리지 않도록 **피사체가 캔버스 중앙(Eye-level Center)에 위치하며 상하좌우 여유 마진**을 갖추도록 구도를 잡습니다.
     *   **기타 규칙**: 이미지 내 불필요한 텍스트(글자)는 절대 삽입하지 않습니다.
 *   **프롬프트 공식 예시**:
-    > "A stylized modern vector illustration of [반려동물 품종 이름] [상황/장소 묘사, 예: sitting comfortably in a cozy dark-toned room]. [조명 및 효과, 예: Warm ambient lighting, soft glowing lines]. [색상 조합, 예: Dark purple and indigo color scheme with amber accents]. Minimalist and premium design style for a pet care blog post header. No text, high quality."
+    > "A stylized modern vector illustration of [반려동물 품종 이름] [상황/장소 묘사, 예: sitting comfortably in a cozy dark-toned room]. Perfectly centered subject with ample safe margins on top and sides, eye-level composition. [조명 및 효과, 예: Warm ambient lighting, soft glowing lines]. [색상 조합, 예: Dark purple and indigo color scheme with amber accents]. Minimalist and premium design style for a pet care blog post header. No text, high quality."
 
 ---
 

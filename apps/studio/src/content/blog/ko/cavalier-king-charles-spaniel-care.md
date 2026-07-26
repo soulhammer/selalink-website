@@ -1,0 +1,149 @@
+---
+layout: "../../../layouts/BlogPostLayout.astro"
+title: "카발리에 킹 찰스 스패니얼의 애정 신호 해석과 이첨판 폐쇄부전증(MVD) 및 척수공동증(SM) 관리를 위한 3단계 데일리 케어"
+description: "우아하고 다정한 소형견 카발리에 킹 찰스 스패니얼(Cavalier King Charles Spaniel). 무릎 밀착 및 허공 긁기 신호 해석, MVD 심장 질환·SM 예방 및 귓병 관리를 위한 3단계 홈케어 루틴을 소개합니다."
+pubDate: "2026-04-12"
+updatedDate: "2026-04-12"
+category: "FreshSelf"
+tags: ["반려동물","펫케어","카발리에 킹 찰스 스패니얼 (Cavalier King Charles Spaniel)"]
+heroImage: "/images/blog/cavalier_king_charles_spaniel_care.webp"
+app: "petself"
+formatVersion: 4
+authority: "미국 케넬 클럽 (AKC) 및 American Cavalier King Charles Spaniel Club (ACKCSC) 케어 프로토콜"
+steps:
+  - name: "카발리에 킹 찰스 스패니얼의 바디 랭귀지: 무릎 밀착(Lap-Hugging)과 허공 긁기(Phantom Scratching)"
+    text: "카발리에 킹 찰스 스패니얼은 신체 밀착과 특징적인 행동으로 애정과 통증 신호를 표현합니다. 보호자의 무릎이나 옆구리에 온몸을 밀착하고 따뜻한 시선을 보내는 '무릎 밀착(Lap-Hugging)'은 보호자에 대한 깊은 애정과 안도감을 나타내는 애정 표현입니다. 반면 공중에서 목이나 어깨 부위를 허공에 대고 계속 긁는 행동인 '허공 긁기(Phantom Scratching)'는 척수공동증(SM)이나 귀 내부 신경 자극으로 인한 신경학적 통증 신호입니다."
+  - name: "카발리에 킹 찰스 스패니얼 (Cavalier King Charles Spaniel)의 몸짓 언어와 바디 시그널"
+    text: "* 보호자의 무릎이나 몸 옆에 붙어 살그머니 얼굴을 묻음 (Lap-Hugging / Shadow Behavior): 보호자와 상시 스킨십을 원하는 대표적인 애정 신호이자 안도감 표출 행동입니다. (부드럽게 쓰다듬어 주며 애정에 응답하고, 분리불안이 생기지 않도록 차분한 환경을 조성해 줍니다.)
+
+* 허공에 발을 내저으며 목 주변을 반복해서 긁음 (Phantom Scratching / Air Scratching): 척수 내 낭종으로 인한 척수공동증(SM) 통증이나 심한 외이염 가려움으로 발생하는 이상 신경 신호입니다. (행동이 관찰되면 즉시 수의사에게 동영상을 보여주고 신경계(MRI) 및 귀 내부 검사를 받아야 합니다.)"
+  - name: "카발리에 킹 찰스 스패니얼 (Cavalier King Charles Spaniel) 맞춤형 3단계 홈케어 루틴"
+    text: "* STEP 1. 아침: 저염식 고단백 식사 급여 및 눈물·귓속 청결 점검(외이염 예방): MVD 심장 질환 예방을 위해 나트륨이 적은 사료를 급여하고, 덮여 있는 귓속 습기를 제거하고 세정제로 청결을 유지합니다.
+
+* STEP 2. 낮: 관절과 심장에 부담을 주지 않는 저강도 평지 산책(30 ~ 40분) 및 은은한 실내 놀이: 심장 무리를 막기 위해 무더운 시간대를 피하고 잔디밭이나 평지에서 산책을 진행하며, 슬개골 탈구를 예방합니다.
+
+* STEP 3. 저녁: 실크 피모 빗질(털 엉킴 방지) 및 조용한 심장 휴식 환경 조성: 귀 뒤쪽과 다리 안쪽의 깃털 같은 실크 모발을 빗질해 주어 엉킴을 막고, 심장에 스트레스를 주지 않는 차분한 수면 환경을 만듭니다."
+faqs:
+  - question: "카발리에 킹 찰스 스패니얼에게 이첨판 폐쇄부전증(MVD)은 왜 필수적인 체크 요소인가요?"
+    answer: "이첨판 폐쇄부전증(MVD)은 카발리에 종의 50% 이상이 5세 이전에, 10세가 되면 거의 100% 발병할 정도로 치명적인 유전성 심장 질환입니다. 좌심방과 좌심실 사이의 판막이 변형되어 혈액이 역류하는 병으로, 청진을 통한 심잡음 확인 및 매년 심초음파 검사를 통해 조기 발견하여 약물 치료를 시작하는 것이 수명 연장의 핵심입니다."
+  - question: "'허공 긁기(Phantom Scratching)' 증상이 나타나면 왜 위험한가요?"
+    answer: "허공 긁기는 카발리에 킹 찰스 스패니얼에게 자주 나타나는 신경계 질환인 척수공동증(SM/Syringomyelia)의 대표 증상입니다. 두개골 후두부가 협소해 뇌척수액 순환이 막히면서 척수에 물주머니(공동)가 생겨 발생합니다. 목 부위에 강한 통증이나 감각 이상을 일으키므로 발견 즉시 정밀 검사(MRI)를 통한 약물 관리나 수술적 치료를 검토해야 합니다."
+---
+
+영국 왕실의 사랑을 받아온 카발리에 킹 찰스 스패니얼(Cavalier King Charles Spaniel)은 실크처럼 부드러운 털과 커다란 눈망울, 사람을 깊이 사랑하는 순한 성품으로 전 세계에서 사랑받는 반려견입니다. 보호자의 무릎 위에 앉아 시간을 보내는 것을 즐기는 대표적인 '랩독(Lapdog)'이지만, 유전적으로 심장 질환인 이첨판 폐쇄부전증(MVD) 발병률이 매우 높으며, 두개골 구조상의 문제로 척수공동증(SM)이 발생하기 쉽습니다. 또한 덮여 있는 긴 귀 구조로 인해 외이염에 취약하므로 정기적인 심장 검진과 이비인후 케어가 필수적입니다. 오늘 PetSelf에서는 카발리에 킹 찰스 스패니얼의 신체 신호를 정확히 읽어내고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
+
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
+  <span class="text-2xl">🛡️</span>
+  <div>
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      수의학적 & 행동학적 근거
+    </h5>
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
+      본 콘텐츠는 <strong>미국 케넬 클럽 (AKC) 및 American Cavalier King Charles Spaniel Club (ACKCSC) 케어 프로토콜</strong>에 기반하고 있습니다.
+    </p>
+  </div>
+</div>
+
+---
+
+## 1. 카발리에 킹 찰스 스패니얼의 바디 랭귀지: 무릎 밀착(Lap-Hugging)과 허공 긁기(Phantom Scratching)
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">카발리에 킹 찰스 스패니얼의 바디 랭귀지: 무릎 밀착(Lap-Hugging)과 허공 긁기(Phantom Scratching)</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    카발리에 킹 찰스 스패니얼은 신체 밀착과 특징적인 행동으로 애정과 통증 신호를 표현합니다. 보호자의 무릎이나 옆구리에 온몸을 밀착하고 따뜻한 시선을 보내는 '무릎 밀착(Lap-Hugging)'은 보호자에 대한 깊은 애정과 안도감을 나타내는 애정 표현입니다. 반면 공중에서 목이나 어깨 부위를 허공에 대고 계속 긁는 행동인 '허공 긁기(Phantom Scratching)'는 척수공동증(SM)이나 귀 내부 신경 자극으로 인한 신경학적 통증 신호입니다.
+  </p>
+</div>
+
+---
+
+## 2. 카발리에 킹 찰스 스패니얼 (Cavalier King Charles Spaniel)의 몸짓 언어와 바디 시그널
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">바디 시그널 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">보호자의 무릎이나 몸 옆에 붙어 살그머니 얼굴을 묻음 (Lap-Hugging / Shadow Behavior)</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• 의미:</strong> 보호자와 상시 스킨십을 원하는 대표적인 애정 신호이자 안도감 표출 행동입니다.<br/>
+    <strong>• 대처법:</strong> 부드럽게 쓰다듬어 주며 애정에 응답하고, 분리불안이 생기지 않도록 차분한 환경을 조성해 줍니다.
+  </p>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">바디 시그널 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">허공에 발을 내저으며 목 주변을 반복해서 긁음 (Phantom Scratching / Air Scratching)</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• 의미:</strong> 척수 내 낭종으로 인한 척수공동증(SM) 통증이나 심한 외이염 가려움으로 발생하는 이상 신경 신호입니다.<br/>
+    <strong>• 대처법:</strong> 행동이 관찰되면 즉시 수의사에게 동영상을 보여주고 신경계(MRI) 및 귀 내부 검사를 받아야 합니다.
+  </p>
+</div>
+
+---
+
+## 3. 카발리에 킹 찰스 스패니얼 (Cavalier King Charles Spaniel) 맞춤형 3단계 홈케어 루틴
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">아침: 저염식 고단백 식사 급여 및 눈물·귓속 청결 점검(외이염 예방)</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    MVD 심장 질환 예방을 위해 나트륨이 적은 사료를 급여하고, 덮여 있는 귓속 습기를 제거하고 세정제로 청결을 유지합니다.
+  </p>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">낮: 관절과 심장에 부담을 주지 않는 저강도 평지 산책(30 ~ 40분) 및 은은한 실내 놀이</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    심장 무리를 막기 위해 무더운 시간대를 피하고 잔디밭이나 평지에서 산책을 진행하며, 슬개골 탈구를 예방합니다.
+  </p>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">저녁: 실크 피모 빗질(털 엉킴 방지) 및 조용한 심장 휴식 환경 조성</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    귀 뒤쪽과 다리 안쪽의 깃털 같은 실크 모발을 빗질해 주어 엉킴을 막고, 심장에 스트레스를 주지 않는 차분한 수면 환경을 만듭니다.
+  </p>
+</div>
+
+---
+
+
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> 자주 묻는 질문 (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
+      <span>카발리에 킹 찰스 스패니얼에게 이첨판 폐쇄부전증(MVD)은 왜 필수적인 체크 요소인가요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      이첨판 폐쇄부전증(MVD)은 카발리에 종의 50% 이상이 5세 이전에, 10세가 되면 거의 100% 발병할 정도로 치명적인 유전성 심장 질환입니다. 좌심방과 좌심실 사이의 판막이 변형되어 혈액이 역류하는 병으로, 청진을 통한 심잡음 확인 및 매년 심초음파 검사를 통해 조기 발견하여 약물 치료를 시작하는 것이 수명 연장의 핵심입니다.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>'허공 긁기(Phantom Scratching)' 증상이 나타나면 왜 위험한가요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      허공 긁기는 카발리에 킹 찰스 스패니얼에게 자주 나타나는 신경계 질환인 척수공동증(SM/Syringomyelia)의 대표 증상입니다. 두개골 후두부가 협소해 뇌척수액 순환이 막히면서 척수에 물주머니(공동)가 생겨 발생합니다. 목 부위에 강한 통증이나 감각 이상을 일으키므로 발견 즉시 정밀 검사(MRI)를 통한 약물 관리나 수술적 치료를 검토해야 합니다.
+    </p>
+  </details>
+</div>

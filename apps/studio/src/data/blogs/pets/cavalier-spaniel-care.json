@@ -1,0 +1,516 @@
+{
+    "cavalier-king-charles-spaniel-care": {
+        "pubDate": "2026-04-12",
+        "updatedDate": "2026-04-12",
+        "locales": {
+            "ko": {
+                "title": "카발리에 킹 찰스 스패니얼의 애정 신호 해석과 이첨판 폐쇄부전증(MVD) 및 척수공동증(SM) 관리를 위한 3단계 데일리 케어",
+                "description": "우아하고 다정한 소형견 카발리에 킹 찰스 스패니얼(Cavalier King Charles Spaniel). 무릎 밀착 및 허공 긁기 신호 해석, MVD 심장 질환·SM 예방 및 귓병 관리를 위한 3단계 홈케어 루틴을 소개합니다.",
+                "authority": "미국 케넬 클럽 (AKC) 및 American Cavalier King Charles Spaniel Club (ACKCSC) 케어 프로토콜",
+                "profile": {
+                    "breed": "카발리에 킹 찰스 스패니얼 (Cavalier King Charles Spaniel)",
+                    "lifespan": "12 ~ 14년",
+                    "sleep_pattern": "12 ~ 14시간 (다정한 랩독, 실내 수면 위주)",
+                    "temperament": "다정함, 순함, 친근함, 애교 많음, 보호자 추종"
+                },
+                "intro": "영국 왕실의 사랑을 받아온 카발리에 킹 찰스 스패니얼(Cavalier King Charles Spaniel)은 실크처럼 부드러운 털과 커다란 눈망울, 사람을 깊이 사랑하는 순한 성품으로 전 세계에서 사랑받는 반려견입니다. 보호자의 무릎 위에 앉아 시간을 보내는 것을 즐기는 대표적인 '랩독(Lapdog)'이지만, 유전적으로 심장 질환인 이첨판 폐쇄부전증(MVD) 발병률이 매우 높으며, 두개골 구조상의 문제로 척수공동증(SM)이 발생하기 쉽습니다. 또한 덮여 있는 긴 귀 구조로 인해 외이염에 취약하므로 정기적인 심장 검진과 이비인후 케어가 필수적입니다. 오늘 PetSelf에서는 카발리에 킹 찰스 스패니얼의 신체 신호를 정확히 읽어내고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.",
+                "whyTitle": "카발리에 킹 찰스 스패니얼의 바디 랭귀지: 무릎 밀착(Lap-Hugging)과 허공 긁기(Phantom Scratching)",
+                "whyDesc": "카발리에 킹 찰스 스패니얼은 신체 밀착과 특징적인 행동으로 애정과 통증 신호를 표현합니다. 보호자의 무릎이나 옆구리에 온몸을 밀착하고 따뜻한 시선을 보내는 **'무릎 밀착(Lap-Hugging)'**은 보호자에 대한 깊은 애정과 안도감을 나타내는 애정 표현입니다. 반면 공중에서 목이나 어깨 부위를 허공에 대고 계속 긁는 행동인 **'허공 긁기(Phantom Scratching)'**는 척수공동증(SM)이나 귀 내부 신경 자극으로 인한 신경학적 통증 신호입니다.",
+                "body_signals": [
+                    {
+                        "name": "보호자의 무릎이나 몸 옆에 붙어 살그머니 얼굴을 묻음 (Lap-Hugging / Shadow Behavior)",
+                        "meaning": "보호자와 상시 스킨십을 원하는 대표적인 애정 신호이자 안도감 표출 행동입니다.",
+                        "response": "부드럽게 쓰다듬어 주며 애정에 응답하고, 분리불안이 생기지 않도록 차분한 환경을 조성해 줍니다."
+                    },
+                    {
+                        "name": "허공에 발을 내저으며 목 주변을 반복해서 긁음 (Phantom Scratching / Air Scratching)",
+                        "meaning": "척수 내 낭종으로 인한 척수공동증(SM) 통증이나 심한 외이염 가려움으로 발생하는 이상 신경 신호입니다.",
+                        "response": "행동이 관찰되면 즉시 수의사에게 동영상을 보여주고 신경계(MRI) 및 귀 내부 검사를 받아야 합니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 저염식 고단백 식사 급여 및 눈물·귓속 청결 점검(외이염 예방)",
+                        "text": "MVD 심장 질환 예방을 위해 나트륨이 적은 사료를 급여하고, 덮여 있는 귓속 습기를 제거하고 세정제로 청결을 유지합니다."
+                    },
+                    {
+                        "name": "낮: 관절과 심장에 부담을 주지 않는 저강도 평지 산책(30~40분) 및 은은한 실내 놀이",
+                        "text": "심장 무리를 막기 위해 무더운 시간대를 피하고 잔디밭이나 평지에서 산책을 진행하며, 슬개골 탈구를 예방합니다."
+                    },
+                    {
+                        "name": "저녁: 실크 피모 빗질(털 엉킴 방지) 및 조용한 심장 휴식 환경 조성",
+                        "text": "귀 뒤쪽과 다리 안쪽의 깃털 같은 실크 모발을 빗질해 주어 엉킴을 막고, 심장에 스트레스를 주지 않는 차분한 수면 환경을 만듭니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "카발리에 킹 찰스 스패니얼에게 이첨판 폐쇄부전증(MVD)은 왜 필수적인 체크 요소인가요?",
+                        "answer": "이첨판 폐쇄부전증(MVD)은 카발리에 종의 50% 이상이 5세 이전에, 10세가 되면 거의 100% 발병할 정도로 치명적인 유전성 심장 질환입니다. 좌심방과 좌심실 사이의 판막이 변형되어 혈액이 역류하는 병으로, 청진을 통한 심잡음 확인 및 매년 심초음파 검사를 통해 조기 발견하여 약물 치료를 시작하는 것이 수명 연장의 핵심입니다."
+                    },
+                    {
+                        "question": "'허공 긁기(Phantom Scratching)' 증상이 나타나면 왜 위험한가요?",
+                        "answer": "허공 긁기는 카발리에 킹 찰스 스패니얼에게 자주 나타나는 신경계 질환인 척수공동증(SM/Syringomyelia)의 대표 증상입니다. 두개골 후두부가 협소해 뇌척수액 순환이 막히면서 척수에 물주머니(공동)가 생겨 발생합니다. 목 부위에 강한 통증이나 감각 이상을 일으키므로 발견 즉시 정밀 검사(MRI)를 통한 약물 관리나 수술적 치료를 검토해야 합니다."
+                    }
+                ],
+                "tags": [
+                    "카발리에킹찰스스패니얼",
+                    "소형견케어",
+                    "강아지MVD",
+                    "척수공동증SM"
+                ]
+            },
+            "en": {
+                "title": "Cavalier King Charles Spaniel Behavioral Signals and 3-Step Daily Routine for Mitral Valve Disease (MVD) and Syringomyelia (SM) Care",
+                "description": "Care guide for the elegant and affectionate Cavalier King Charles Spaniel. Interpret lap-hugging and phantom scratching signals, manage MVD heart disease, SM, and ear health in 3 steps.",
+                "authority": "American Kennel Club (AKC) & American Cavalier King Charles Spaniel Club (ACKCSC) Care Standards",
+                "profile": {
+                    "breed": "Cavalier King Charles Spaniel",
+                    "lifespan": "12 - 14 Years",
+                    "sleep_pattern": "12 - 14 Hours (Gentle lapdog, prefers comfortable indoor resting)",
+                    "temperament": "Affectionate, Gentle, Friendly, Eager to Please, Shadow Behavior"
+                },
+                "intro": "Cherished by British royalty for centuries, the Cavalier King Charles Spaniel is a world-renowned companion famed for its silky coat, large expressive eyes, and gentle, loving nature. As the ultimate 'lapdog,' they thrive on human companionship. However, they carry an exceptionally high genetic risk for Mitral Valve Disease (MVD) and are prone to Syringomyelia (SM) due to structural cranial space limitations. Furthermore, their long, pendulous ears require constant care to prevent ear infections. Today, PetSelf presents a 3-step daily care routine to decode your Cavalier's body language and protect their health.",
+                "whyTitle": "Cavalier King Charles Spaniel Body Language: Lap-Hugging and Phantom Scratching",
+                "whyDesc": "Cavaliers communicate affection and physical discomfort through close contact and distinct movement patterns. Pressing their entire body against your lap or side with a warm gaze **'Lap-Hugging'** is a signature expression of deep affection and emotional comfort. Conversely, repeatedly scratching the air near their neck or shoulders without touching the skin **'Phantom Scratching'** is a critical neurological pain signal caused by Syringomyelia (SM) or nerve irritation.",
+                "body_signals": [
+                    {
+                        "name": "Nuzzling and Pressing Body Gently Against Owner's Lap (Lap-Hugging / Shadow Behavior)",
+                        "meaning": "A primary affection signal expressing a desire for constant closeness, trust, and physical reassurance.",
+                        "response": "Respond with gentle strokes to reinforce love, maintaining a calm environment to prevent separation anxiety."
+                    },
+                    {
+                        "name": "Repeatedly Scratching the Air Near Neck and Shoulders (Phantom Scratching / Air Scratching)",
+                        "meaning": "An abnormal neurological signal caused by spinal fluid pressure from Syringomyelia (SM) or severe ear canal irritation.",
+                        "response": "Record a video of the behavior immediately and consult a veterinarian for neurological (MRI) and ear examinations."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Low-Sodium High-Protein Diet & Eye/Ear Hygiene Check (Ear Infection Prevention)",
+                        "text": "Feed a low-sodium diet to support cardiac health (MVD prevention), gently cleaning and drying under their floppy ears to prevent moisture buildup."
+                    },
+                    {
+                        "name": "Afternoon: Low-Impact Flat-Ground Walk (30–40 Min) & Gentle Indoor Play",
+                        "text": "Engage in gentle walks on soft grass during cool hours to protect heart and joints without overexertion or patellar stress."
+                    },
+                    {
+                        "name": "Evening: Silky Feather Coat Brushing & Stress-Free Quiet Cardiac Rest Environment",
+                        "text": "Brush feathering behind ears and legs daily to prevent mats, maintaining a serene sleeping area free from stress on the cardiovascular system."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Why is Mitral Valve Disease (MVD) the most critical health concern for Cavaliers?",
+                        "answer": "Mitral Valve Disease (MVD) is a fatal hereditary heart condition affecting over 50% of Cavaliers by age 5 and nearly 100% by age 10. The valve between the left atrium and ventricle degenerates, causing blood backflow. Annual cardiac auscultation and echocardiograms starting early in life are vital for early detection and medical intervention to prolong lifespan."
+                    },
+                    {
+                        "question": "Why is 'Phantom Scratching' considered a serious warning sign?",
+                        "answer": "Phantom Scratching is a hallmark sign of Syringomyelia (SM), a painful neurological disorder prevalent in Cavaliers where fluid-filled cavities develop in the spinal cord due to a small occipital skull bone. Because it causes intense neck pain and neurological sensations, immediate MRI evaluation and veterinary management are necessary upon observation."
+                    }
+                ],
+                "tags": [
+                    "CavalierKingCharlesSpaniel",
+                    "SmallDogCare",
+                    "DogMVD",
+                    "SyringomyeliaSM"
+                ]
+            },
+            "ja": {
+                "title": "キャバリア・キング・チャールズ・スパニエルの愛嬌・神経サイン解読と僧帽弁閉鎖不全症(MVD)・脊髄空洞症(SM)管理のための3ステップデイリールーティン",
+                "description": "優雅で人懐っこい小型犬キャバリア・キング・チャールズ・スパニエル（Cavalier King Charles Spaniel）。膝密着や空掻き（ファントムスクラッチ）サインの解読、MVD心臓病・SM予防および耳ケアのための3ステップホームケアを紹介します。",
+                "authority": "アメリカンケネルクラブ(AKC)およびAmerican Cavalier King Charles Spaniel Club(ACKCSC)飼育基準",
+                "profile": {
+                    "breed": "キャバリア・キング・チャールズ・スパニエル (Cavalier King Charles Spaniel)",
+                    "lifespan": "12 〜 14年",
+                    "sleep_pattern": "12 〜 14時間 (穏やかなラップドッグ、室内での休息中心)",
+                    "temperament": "愛情深い、穏やか、フレンドリー、甘えん坊、飼い主追従"
+                },
+                "intro": "英国王室で愛されてきた歴史を持つキャバリア・キング・チャールズ・スパニエル（Cavalier King Charles Spaniel）は、シルクのような美しい被毛と大きな瞳、人に深い愛情を注ぐ穏やかな性格で世界中で愛されている伴侶犬です。飼い主の膝の上で過ごすことを好む典型的な「ラップドッグ（抱っこ犬）」ですが、遺伝的に心臓疾患である僧帽弁閉鎖不全症（MVD）の発症率が極めて高く、頭蓋骨の構造上、脊髄空洞症（SM）を発症しやすい特徴があります。また垂れ下がった長い耳のため外耳炎にかかりやすく、定期的な心臓検診と耳のケアが不可欠です。本日PetSelfでは、キャバリアのサインを正確に解読し健康を守る3ステップルーティンをお届けします。",
+                "whyTitle": "キャバリアのボディランゲージ：膝密着(Lap-Hugging)と空掻き(Phantom Scratching)",
+                "whyDesc": "キャバリアは身体の密着と特徴的な動作で愛情や痛み・違和感を表現します。飼い主の膝や体に全身をぴったり押し付けて見つめる**「膝密着（Lap-Hugging）」**は、深い信頼と安心感を示す最高の愛情表現です。一方、首や肩の周りの空中を足をバタつかせて掻くような動作**「空掻き（Phantom Scratching / 空中掻き）」**は、脊髄空洞症（SM）や耳の神経刺激による異常な神経痛サインです。",
+                "body_signals": [
+                    {
+                        "name": "飼い主の膝や体に寄り添い、そっと顔をうずめる (Lap-Hugging / Shadow Behavior)",
+                        "meaning": "常に飼い主とのスキンシップを求める代表的な親愛サインであり、安心感を求める行動です。",
+                        "response": "優しく撫でて愛情に応え、分離不安にならないよう落ち着いた環境を保ちましょう。"
+                    },
+                    {
+                        "name": "空中に向かって足を動かし、首の周りを繰り返し掻く素振りをする (Phantom Scratching)",
+                        "meaning": "脊髄内の嚢胞による脊髄空洞症（SM）の痛みや激しい外耳炎の痒みによって生じる異常な神経サインです。",
+                        "response": "動作が見られたらすぐに動画を撮影し、獣医師に見せて神経系（MRI）および耳内部の検査を受けてください。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：低塩分高タンパク食の給餌と目元・耳道の清潔チェック（外耳炎予防）",
+                        "text": "MVD心臓病予防のために塩分を控えたフードを与え、垂れ耳内部の湿気を取り除いてイヤークリーナーで清潔を保ちます。"
+                    },
+                    {
+                        "name": "昼：心臓と関節に負担をかけない低強度な平地散歩（30〜40分）と室内遊び",
+                        "text": "心臓への負担を防ぐため涼しい時間帯に芝生や平地で散歩を行い、膝蓋骨脱臼（パテラ）を予防します。"
+                    },
+                    {
+                        "name": "夜：シルク被毛のブラッシング（毛玉防止）と静かな心臓休息環境の整備",
+                        "text": "耳の後ろや足の内側のシルク状の飾り毛を丁寧にブラッシングして絡まりを防ぎ、心臓にストレスを与えない静かな睡眠環境を整えます。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "キャバリアにとって僧帽弁閉鎖不全症(MVD)はなぜ必須のチェック項目なのですか？",
+                        "answer": "僧帽弁閉鎖不全症（MVD）はキャバリアの50%以上が5歳までに、10歳になるとほぼ100%発症すると言われる致命的な遺伝性心臓病です。左心房と左心室の間の弁が変形して血液が逆流する病気で、聴診による心雑音の確認や毎年の心臓超音波検査（エコー）による早期発見と投薬が寿命を延ばす鍵となります。"
+                    },
+                    {
+                        "question": "「空掻き(Phantom Scratching)」の症状が出たらなぜ危険なのですか？",
+                        "answer": "空掻きはキャバリアに多く見られる神経疾患「脊髄空洞症（SM/Syringomyelia）」の代表的な症状です。後頭骨が狭く髄液の循環が滞ることで脊髄に空洞（水たまり）ができて発生します。首周囲に強い痛みを引き起こすため、発見したら直ちに精密検査（MRI）と適切な内服管理や手術の検討が必要です。"
+                    }
+                ],
+                "tags": [
+                    "キャバリア",
+                    "小型犬ケア",
+                    "キャバリアMVD",
+                    "脊髄空洞症SM"
+                ]
+            },
+            "zh": {
+                "title": "查理王小猎犬行为信号解读与二尖瓣关闭不全 (MVD) 及脊髓空洞症 (SM) 预防的 3 步日常流程",
+                "description": "优雅温顺的小型犬查理王小猎犬（Cavalier King Charles Spaniel）。解读膝头依偎与虚空抓挠信号，预防 MVD 心脏病、SM 及耳部护理的 3 步骤家庭护理。",
+                "authority": "美国犬业俱乐部 (AKC) 与美国查理王小猎犬俱乐部 (ACKCSC) 护理标准",
+                "profile": {
+                    "breed": "查理王小猎犬 / 卡瓦利王犬 (Cavalier King Charles Spaniel)",
+                    "lifespan": "12 ~ 14年",
+                    "sleep_pattern": "12 ~ 14小时 (温和的伴侣犬，以室内休息为主)",
+                    "temperament": "温顺、极度亲人、友善、粘人、喜欢追随主人"
+                },
+                "intro": "受英国王室钟爱数世纪的查理王小猎犬（Cavalier King Charles Spaniel），凭其丝滑柔顺的被毛、硕大的泪眼以及无比温顺亲人的性格而闻名世界。它们是极其优秀的“腿上伴侣犬（Lapdog）”，极其享受陪伴主人的时光。然而，该犬种基因上患二尖瓣关闭不全（MVD）心脏病的概率极高，且由于后脑骨空间狭小，极易患上脊髓空洞症（SM）。此外，其长而下垂的耳朵易滋生细菌引发外耳炎。今天 PetSelf 将带您准确解读查理王小猎犬肢体语言，并通过 3 步骤日常护理维护其健康。",
+                "whyTitle": "查理王小猎犬肢体语言：膝头依偎 (Lap-Hugging) 与虚空抓挠 (Phantom Scratching)",
+                "whyDesc": "查理王小猎犬通过身体贴合与异常动作表达爱意与神经痛楚。将整个身体紧紧贴在主人的腿上或身旁并投以温柔眼神**“膝头依偎 (Lap-Hugging)”**，是表达深度信任与安全感的爱意行为。相反，向着颈部或肩膀周围的空气不断做抓挠动作**“虚空抓挠 (Phantom Scratching)”**，则是因脊髓空洞症（SM）或耳内神经受刺激引发的神经性疼痛信号。",
+                "body_signals": [
+                    {
+                        "name": "依偎在主人的腿边或身旁，轻轻埋头 (Lap-Hugging / Shadow Behavior)",
+                        "meaning": "表达希望与主人时刻保持肢体接触的代表性爱意行为与寻求安全感的表现。",
+                        "response": "温柔抚摸回应其爱意，并维持平静氛围以防产生分离焦虑。"
+                    },
+                    {
+                        "name": "对着空气挥动前肢，频繁抓挠脖子周围 (Phantom Scratching / Air Scratching)",
+                        "meaning": "因脊髓内囊肿压迫（SM）或严重外耳炎刺痛引发的神经传导异常信号。",
+                        "response": "一旦观察到该行为，应立即录下视频并送医进行神经系统（MRI）及耳道检查。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：低盐高蛋白饮食与眼耳卫生检查（预防外耳炎）",
+                        "text": "投喂低盐配方主粮以保护心脏（预防 MVD），并清洁检查下垂的耳道内部，擦干湿气以防细菌滋生。"
+                    },
+                    {
+                        "name": "中午：低强度平地散步（30~40分钟）与温和室内游戏",
+                        "text": "选择凉爽时段在草地或平地上散步，避免心脏过载并保护膝盖骨（预防髌骨脱位）。"
+                    },
+                    {
+                        "name": "晚上：丝滑被毛梳理与打造无压力的心脏休息环境",
+                        "text": "每日梳理耳后与腿部的丝状饰毛以防打结，并维持安静舒适的睡眠环境，减轻心脏负担。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "为什么二尖瓣关闭不全（MVD）对查理王小猎犬是必须排查的致命疾病？",
+                        "answer": "二尖瓣关闭不全（MVD）是查理王小猎犬极高发的遗传性心脏病，超过 50% 的个体在 5 岁前、近 100% 在 10 岁时会发病。心脏二尖瓣变形导致血液倒流，早期通过听诊确认心杂音并每年定期进行心脏彩超检查，以便早期服药控制，是延长其寿命的关键。"
+                    },
+                    {
+                        "question": "出现“虚空抓挠 (Phantom Scratching)”为什么是危险信号？",
+                        "answer": "虚空抓挠是查理王小猎犬高发神经系统疾病——脊髓空洞症（SM/Syringomyelia）的典型症状。因枕骨发育不良压迫脑脊液循环，导致脊髓内形成液体空腔。这会引发颈部剧烈疼痛与感知异常，一旦发现必须立即进行 MRI 影像诊断并开展药物或手术治疗。"
+                    }
+                ],
+                "tags": [
+                    "查理王小猎犬",
+                    "小型犬护理",
+                    "狗MVD心脏病",
+                    "脊髓空洞症SM"
+                ]
+            },
+            "es": {
+                "title": "Señales de conducta en el Cavalier King Charles Spaniel y rutina diaria de 3 pasos para la enfermedad de la válvula mitral (MVD) y siringomielia (SM)",
+                "description": "Guía de cuidado para el elegante Cavalier King Charles Spaniel. Interprete los abrazos de regazo y el rascado fantasma, prevenga la enfermedad cardíaca MVD, la siringomielia SM y las infecciones de oído en 3 pasos.",
+                "authority": "American Kennel Club (AKC) y Normas del American Cavalier King Charles Spaniel Club (ACKCSC)",
+                "profile": {
+                    "breed": "Cavalier King Charles Spaniel",
+                    "lifespan": "12 ~ 14 años",
+                    "sleep_pattern": "12 ~ 14 horas (Perro de regazo dulce, prefiere el descanso en interiores)",
+                    "temperament": "Afectuoso, Dulce, Amigable, Deseoso de agradar, Apego continuo"
+                },
+                "intro": "Amado por la realeza británica durante siglos, el Cavalier King Charles Spaniel es un perro de compañía reconocido mundialmente por su pelo sedoso, sus grandes ojos expresivos y su temperamento dulce. Como perro de regazo por excelencia, le apasiona estar junto a su dueño. Sin embargo, genéticamente posee un riesgo sumamente elevado de Enfermedad de la Válvula Mitral (MVD) y predisposición a la Siringomielia (SM) debido a la estructura de su cráneo. Además, sus orejas largas y caídas requieren higiene constante para evitar otitis. Hoy, PetSelf presenta una rutina de 3 pasos para cuidar su salud.",
+                "whyTitle": "Lenguaje corporal del Cavalier King Charles Spaniel: Abrazo de regazo (Lap-Hugging) y rascado fantasma (Phantom Scratching)",
+                "whyDesc": "El Cavalier comunica afecto y dolor corporal mediante el contacto físico y movimientos atípicos. Apoyar todo su cuerpo contra tu regazo o costado mientras te mira cálidamente **'Abrazo de regazo (Lap-Hugging)'** es una muestra de amor profundo y búsqueda de seguridad. En cambio, mover sus patas rascando el aire cerca de su cuello sin tocar la piel **'Rascado fantasma (Phantom Scratching)'** es un síntoma de dolor neurológico causado por la Siringomielia (SM) o irritación nerviosa.",
+                "body_signals": [
+                    {
+                        "name": "Apoyar el cuerpo en el regazo del dueño hundiendo suavemente la cara (Lap-Hugging / Shadow Behavior)",
+                        "meaning": "Muestra de afecto característica que expresa deseo constante de contacto físico y confianza absoluta.",
+                        "response": "Acarícielo con dulzura para corresponder su afecto y mantenga un ambiente sereno para prevenir la ansiedad por separación."
+                    },
+                    {
+                        "name": "Rascar repetidamente el aire cerca del cuello y hombros (Phantom Scratching / Air Scratching)",
+                        "meaning": "Señal neurológica anómala provocada por la presión del líquido espinal de la Siringomielia (SM) o picor otológico severo.",
+                        "response": "Grabe un video de la conducta de inmediato y llévelo al veterinario para un examen neurológico (RMN) y del oído."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Alimentación baja en sodio y control de higiene en ojos y orejas (prevención de otitis)",
+                        "text": "Ofrézcale alimento bajo en sodio para proteger su corazón (prevención de MVD) y limpie con cuidado la humedad bajo sus orejas caídas."
+                    },
+                    {
+                        "name": "Tarde: Paseo suave en terreno plano (30–40 min) y juego moderado en casa",
+                        "text": "Pasee durante las horas frescas sobre césped para no sobrecargar el corazón ni las articulaciones (prevención de luxación patelar)."
+                    },
+                    {
+                        "name": "Noche: Cepillado del manto sedoso y ambiente de descanso sin estrés cardíaco",
+                        "text": "Cepille los flecos detrás de las orejas y patas para evitar nudos, y asegure un espacio de sueño tranquilo y relajado."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Por qué la Enfermedad de la Válvula Mitral (MVD) es la principal amenaza en el Cavalier?",
+                        "answer": "La Enfermedad de la Válvula Mitral (MVD) es una patología cardíaca hereditaria letal que afecta a más del 50% de los Cavaliers a los 5 años y a casi el 100% a los 10 años. La válvula mitral se degenera provocando flujo retrógrado de sangre. La auscultación veterinaria regular y ecocardiogramas anuales son vitales para iniciar tratamiento farmacológico a tiempo."
+                    },
+                    {
+                        "question": "¿Por qué el 'Rascado fantasma' es un síntoma de alarma grave?",
+                        "answer": "El rascado fantasma es el síntoma patognomónico de la Siringomielia (SM), un trastorno neurológico doloroso común en la raza en el que se forman quistes de líquido en la médula espinal por falta de espacio occipital. Causa dolor cervical intenso, requiriendo diagnóstico por resonancia magnética (RMN) y tratamiento veterinario urgente."
+                    }
+                ],
+                "tags": [
+                    "CavalierKingCharlesSpaniel",
+                    "CuidadoDePerrosPequeños",
+                    "MVDCanina",
+                    "SiringomieliaSM"
+                ]
+            },
+            "fr": {
+                "title": "Signaux comportementaux du Cavalier King Charles Spaniel et routine quotidienne en 3 étapes pour la maladie de la valve mitrale (MVD) et la syringomyélie (SM)",
+                "description": "Guide de soins pour le doux et élégant Cavalier King Charles Spaniel. Décryptez le câlin sur les genoux et le grattage fantôme, prévenez la maladie cardiaque MVD, la syringomyélie SM et les otites en 3 étapes.",
+                "authority": "American Kennel Club (AKC) & Normes de l'American Cavalier King Charles Spaniel Club (ACKCSC)",
+                "profile": {
+                    "breed": "Cavalier King Charles Spaniel",
+                    "lifespan": "12 ~ 14 ans",
+                    "sleep_pattern": "12 ~ 14 heures (Doux chien de genoux, repos intérieur)",
+                    "temperament": "Affectueux, Doux, Amical, Attachant, Pot de colle"
+                },
+                "intro": "Chéri par la royauté britannique depuis des siècles, le Cavalier King Charles Spaniel est un chien de compagnie célèbre dans le monde entier pour son pelage soyeux, ses grands yeux expressifs et sa douceur extrême. Chien de genoux par excellence, il adore être au contact de son maître. Cependant, il présente un risque génétique très élevé de Maladie de la Valve Mitrale (MVD) et une vulnérabilité à la Syringomyélie (SM) liée à la conformation de son crâne. De plus, ses longues oreilles tombantes nécessitent des soins réguliers pour éviter les otites. Aujourd'hui, PetSelf vous présente une routine en 3 étapes pour veiller sur lui.",
+                "whyTitle": "Langage corporel du Cavalier King Charles Spaniel : Câlin sur les genoux (Lap-Hugging) et grattage fantôme (Phantom Scratching)",
+                "whyDesc": "Le Cavalier exprime son affection et son inconfort physique par le contact corporel et des gestes atypiques. Se blottir de tout son corps contre vos genoux **« Câlin sur les genoux (Lap-Hugging) »** est sa plus grande preuve d'amour et de confiance. En revanche, agiter ses pattes dans le vide en faisant le geste de se gratter le cou sans toucher la peau **« Grattage fantôme (Phantom Scratching) »** est un signal de douleur neurologique causé par la Syringomyélie (SM) ou une irritation nerveuse.",
+                "body_signals": [
+                    {
+                        "name": "Se blottir contre les genoux du maître et enfouir doucement sa tête (Lap-Hugging / Shadow Behavior)",
+                        "meaning": "Preuve d'affection majeure exprimant un besoin de présence physique et un profond sentiment de sécurité.",
+                        "response": "Caressez-le doucement pour répondre à son amour et maintained un environnement calme pour éviter l'anxiété de séparation."
+                    },
+                    {
+                        "name": "Gratter de façon répétée l'air autour de son cou et de ses épaules (Phantom Scratching / Air Scratching)",
+                        "meaning": "Signal neurologique anormal dû à la pression du liquide cérébrospinal (Syringomyélie) ou à une otite sévère.",
+                        "response": "Filmez le comportement immédiatement et consultez un vétérinaire pour un bilan neurologique (IRM) et un examen auriculaire."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Alimentation pauvre en sodium & soin des yeux et des oreilles (prévention des otites)",
+                        "text": "Proposez une nourriture pauvre en sel pour préserver son cœur (prévention MVD) et séchez méticuleusement l'intérieur de ses oreilles tombantes."
+                    },
+                    {
+                        "name": "Après-midi : Promenade douce sur terrain plat (30–40 min) & jeu calme",
+                        "text": "Privilégiez les promenades sur l'herbe aux heures fraîches pour ne pas fatiguer son cœur ni abîmer ses rotules."
+                    },
+                    {
+                        "name": "Soir : Brossage du pelage soyeux & environnement de repos sans stress cardiaque",
+                        "text": "Brossez les franges derrière les oreilles et sur les pattes pour éviter les nœuds, et assurez-lui un sommeil réparateur et paisible."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Pourquoi la Maladie de la Valve Mitrale (MVD) est-elle si préoccupante chez le Cavalier ?",
+                        "answer": "La Maladie de la Valve Mitrale (MVD) est une affection cardiaque héréditaire touchant plus de 50 % des Cavaliers dès 5 ans et près de 100 % à 10 ans. La valve mitrale se déforme, entraînant un reflux sanguin. L'auscultation cardiaque régulière et une échographie cardiaque annuelle permettent de détecter le souffle au cœur très tôt et d'instaurer un traitement."
+                    },
+                    {
+                        "question": "Pourquoi le 'Grattage fantôme' est-il un symptôme d'alerte grave ?",
+                        "answer": "Le grattage fantôme est le signe clinique majeur de la Syringomyélie (SM), une pathologie neurologique douloureuse où des cavités remplies de liquide se forment dans la moelle épinière en raison d'une boîte crânienne trop étroite. Cette maladie provoquant d'intenses douleurs cervicales, un diagnostic par IRM s'impose rapidement."
+                    }
+                ],
+                "tags": [
+                    "CavalierKingCharlesSpaniel",
+                    "SoinPetitChien",
+                    "MVDCanine",
+                    "SyringomyelieSM"
+                ]
+            },
+            "de": {
+                "title": "Verhaltenssignale beim Cavalier King Charles Spaniel und 3-Schritte-Tagesroutine für Mitralklappenerkrankung (MVD) und Syringomyelie (SM)",
+                "description": "Pflegeanleitung für den eleganten Cavalier King Charles Spaniel. Schmollen am Schoß und Luftkratzen verstehen, MVD-Herzerkrankung, Syringomyelie (SM) sowie Ohrenentzündungen in 3 Schritten vorbeugen.",
+                "authority": "American Kennel Club (AKC) & Standards des American Cavalier King Charles Spaniel Club (ACKCSC)",
+                "profile": {
+                    "breed": "Cavalier King Charles Spaniel",
+                    "lifespan": "12 ~ 14 Jahre",
+                    "sleep_pattern": "12 ~ 14 Stunden (Liebevoller Schoßhund, ruht bevorzugt im Haus)",
+                    "temperament": "Anhänglich, Sanftmütig, Freundlich, Gefallsüchtig, Treuer Begleiter"
+                },
+                "intro": "Seit Jahrhunderten vom britischen Adel geschätzt, ist der Cavalier King Charles Spaniel für sein seidiges Fell, seine großen dunklen Augen und sein sanftes Wesen weltbekannt. Als perfekter Schoßhund (Lapdog) liebt er die ständige Nähe des Menschen. Allerdings trägt die Rasse ein extrem hohes genetisches Risiko für die Mitralklappenerkrankung (MVD) und neigt aufgrund der Schädelform zur Syringomyelie (SM). Zudem benötigen seine langen Schlappohren regelmäßige Pflege zur Vorbeugung von Ohrenentzündungen. Heute zeigt PetSelf eine 3-Schritte-Routine für die Gesundheit Ihres Cavaliers.",
+                "whyTitle": "Körpersprache des Cavalier King Charles Spaniels: Schoß-Kuscheln (Lap-Hugging) und Luftkratzen (Phantom Scratching)",
+                "whyDesc": "Der Cavalier drückt Zuneigung und körperliche Schmerzen durch engen Körperkontakt und auffällige Bewegungsmuster aus. Das Anschmiegen des ganzen Körpers an Ihren Schoß **'Schoß-Kuscheln (Lap-Hugging)'** ist sein schönster Ausdruck von Liebe und Geborgenheit. Das wiederholte Kratzen in die Luft nahe dem Hals ohne Hautkontakt **'Luftkratzen (Phantom Scratching)'** ist dagegen ein ernstzunehmendes neurologisches Schmerzsignal infolge von Syringomyelie (SM) oder Nervenreizungen.",
+                "body_signals": [
+                    {
+                        "name": "Anschmiegen an den Schoß des Halters und sanftes Einkuscheln (Lap-Hugging / Shadow Behavior)",
+                        "meaning": "Klassisches Zuneigungssignal, das den Wunsch nach ständiger Nähe, Vertrauen und Geborgenheit ausdrückt.",
+                        "response": "Erwidern Sie die Zuneigung mit sanftem Streicheln und sorgen Sie für eine ruhige Atmosphäre zur Vermeidung von Trennungsangst."
+                    },
+                    {
+                        "name": "Wiederholtes Kratzen mit den Pfoten in die Luft nahe Hals und Schultern (Phantom Scratching)",
+                        "meaning": "Abnormales neurologisches Signal durch Nervendruck bei Syringomyelie (SM) oder schweren Ohrenreizungen.",
+                        "response": "Filmen Sie das Verhalten sofort und suchen Sie einen Tierarzt für eine neurologische Untersuchung (MRT) und Ohrenkontrolle auf."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Natriumarme Fütterung & Augen- und Ohrenhygiene (Ohrenschutz)",
+                        "text": "Füttern Sie kochsalzarmes Futter zur Herzschonung (MVD-Prophylaxe) und trocknen Sie die Schlappohren vorsichtig ab."
+                    },
+                    {
+                        "name": "Mittag: Gelenk- und herzschonender Spaziergang (30–40 Min.) & Ruhiges Spiel",
+                        "text": "Gehen Sie zu kühlen Zeiten auf weichem Rasen spazieren, um Herz und Kniegelenke (Patellaluxation) nicht zu überlasten."
+                    },
+                    {
+                        "name": "Abend: Bürsten des seidigen Fells & Entspannte, stressfreie Ruheumgebung",
+                        "text": "Bürsten Sie die Ohr- und Beinbehanghaare gegen Verfilzungen und schaffen Sie einen ruhigen Schlafplatz ohne Herzstress."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Warum ist die Mitralklappenerkrankung (MVD) beim Cavalier so gefährlich?",
+                        "answer": "Die Mitralklappenerkrankung (MVD) ist eine tödliche erbliche Herzerkrankung, an der über 50 % aller Cavaliere bis zum 5. Lebensjahr und nahezu 100 % bis zum 10. Lebensjahr erkranken. Die Herzklappe schließt nicht mehr dicht, was zu Blutrückfluss führt. Regelmäßiges Abhorchen und jährliche Herzultraschall-Untersuchungen sind entscheidend für eine rechtzeitige medikamentöse Therapie."
+                    },
+                    {
+                        "question": "Warum ist 'Luftkratzen (Phantom Scratching)' ein alarmierendes Symptom?",
+                        "answer": "Luftkratzen ist das Leitsymptom der Syringomyelie (SM), einer schmerzhaften neurologischen Erkrankung. Durch eine verengte Schädelgrube bildet sich im Rückenmark eine mit Flüssigkeit gefüllte Höhle (Syrinx). Da dies starke Nackenschmerzen verursacht, ist bei Auftreten umgehend eine MRT-Diagnostik erforderlich."
+                    }
+                ],
+                "tags": [
+                    "CavalierKingCharlesSpaniel",
+                    "KleineHundePflege",
+                    "CavalierMVD",
+                    "SyringomyelieSM"
+                ]
+            },
+            "pt": {
+                "title": "Sinais comportamentais do Cavalier King Charles Spaniel e rotina diária de 3 passos para doença da válvula mitral (MVD) e siringomielia (SM)",
+                "description": "Guia de cuidados para o elegante Cavalier King Charles Spaniel. Interprete o abraço de colo e o coçar fantasma, previna a doença cardíaca MVD, siringomielia SM e infecções de ouvido em 3 passos.",
+                "authority": "American Kennel Club (AKC) & Padrões do American Cavalier King Charles Spaniel Club (ACKCSC)",
+                "profile": {
+                    "breed": "Cavalier King Charles Spaniel",
+                    "lifespan": "12 ~ 14 anos",
+                    "sleep_pattern": "12 ~ 14 horas (Cão de colo dócil, descanso em ambientes internos)",
+                    "temperament": "Afetuoso, Dócil, Amigável, Cativante, Companheiro constante"
+                },
+                "intro": "Estimado pela realeza britânica por séculos, o Cavalier King Charles Spaniel é um cão de companhia mundialmente famoso por sua pelagem sedosa, olhos grandes e expressivos e temperamento dócil. Como o legítimo 'cão de colo', ele adora a companhia humana. Contudo, a raça possui risco genético altíssimo para Doença da Válvula Mitral (MVD) e predisposição à Siringomielia (SM) devido ao espaço craniano reduzido. Além disso, suas orelhas longas e caídas exigem higiene constante contra otites. Hoje, o PetSelf apresenta uma rotina de 3 passos para cuidar da sua saúde.",
+                "whyTitle": "Linguagem corporal do Cavalier King Charles Spaniel: Abraço de colo (Lap-Hugging) e coçar fantasma (Phantom Scratching)",
+                "whyDesc": "O Cavalier expressa afeto e dor física por meio do contato corporal e movimentos atípicos. Pressionar todo o corpo contra o seu colo ou pernas **'Abraço de colo (Lap-Hugging)'** é sua maior demonstração de amor e busca por segurança. Em contrapartida, coçar o ar repetidamente próximo ao pescoço sem tocar a pele **'Coçar fantasma (Phantom Scratching)'** é um sintoma neurológico grave decorrente da Siringomielia (SM) ou irritação nervosa.",
+                "body_signals": [
+                    {
+                        "name": "Encostar o corpo no colo do tutor escondendo suavemente o focinho (Lap-Hugging / Shadow Behavior)",
+                        "meaning": "Sinal de afeto icônico que expressa desejo constante de proximidade física e confiança profunda.",
+                        "response": "Acaricie-o com carinho e mantenha um ambiente calmo para evitar o desenvolvimento de ansiedade de separação."
+                    },
+                    {
+                        "name": "Coçar o ar repetidamente perto do pescoço e ombros com a pata (Phantom Scratching)",
+                        "meaning": "Sinal neurológico anormal provocado pela pressão do líquor na Siringomielia (SM) ou dor de otite grave.",
+                        "response": "Grave um vídeo do comportamento imediatamente e leve ao veterinário para avaliação neurológica (RMN) e otológica."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Alimentação baixa em sódio & higienização de olhos e orelhas (Prevenção de otite)",
+                        "text": "Forneça ração com baixo teor de sódio para proteger o coração (prevenção de MVD) e seque bem o interior das orelhas longas."
+                    },
+                    {
+                        "name": "Tarde: Caminhada leve em piso plano (30–40 min) & brincadeiras tranquilas",
+                        "text": "Passeie em horários frescos sobre a grama para não sobrecarregar o coração e as articulações (prevenção de luxação de patela)."
+                    },
+                    {
+                        "name": "Noite: Escovação da pelagem sedosa & ambiente de descanso sem estresse cardíaco",
+                        "text": "Escove as franjas atrás das orelhas e pernas para evitar nós e proporcione um local de sono tranquilo e relaxante."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Por que a Doença da Válvula Mitral (MVD) é a principal preocupação no Cavalier?",
+                        "answer": "A Doença da Válvula Mitral (MVD) é uma condição cardíaca hereditária grave que afeta mais de 50% dos Cavaliers aos 5 anos e quase 100% aos 10 anos. A válvula mitral se degenera provocando refluxo de sangue. Consultas auscultatórias regulares e ecocardiogramas anuais são vitais para o diagnóstico precoce."
+                    },
+                    {
+                        "question": "Por que o 'Coçar fantasma' é considerado um sintoma perigoso?",
+                        "answer": "O coçar fantasma é o sintoma clássico da Siringomielia (SM), uma doença neurológica dolorosa em que cistos de fluido se formam na medula espinhal devido ao formato reduzido do crânio. Como causa dores cervicais intensas, o exame de Ressonância Magnética (RMN) e acompanhamento veterinário são urgentes."
+                    }
+                ],
+                "tags": [
+                    "CavalierKingCharlesSpaniel",
+                    "CuidadosComCaesPequenos",
+                    "MVDCanina",
+                    "SiringomieliaSM"
+                ]
+            },
+            "id": {
+                "title": "Sinyal Perilaku Cavalier King Charles Spaniel dan Rutinitas Harian 3 Langkah Perawatan Penyakit Katup Mitral (MVD) serta Siringomielia (SM)",
+                "description": "Panduan perawatan anjing menggemaskan dan anggun Cavalier King Charles Spaniel. Pahami pelukan pangkuan dan garukan udara fantom, cegah penyakit jantung MVD, SM, serta infeksi telinga dalam 3 langkah.",
+                "authority": "Standar Perawatan American Kennel Club (AKC) & American Cavalier King Charles Spaniel Club (ACKCSC)",
+                "profile": {
+                    "breed": "Cavalier King Charles Spaniel",
+                    "lifespan": "12 ~ 14 tahun",
+                    "sleep_pattern": "12 ~ 14 jam (Anjing pangkuan yang lembut, menyukai istirahat di rumah)",
+                    "temperament": "Penyayang, Lembut, Ramah, Suka Mendorong Perhatian, Setia Menempel"
+                },
+                "intro": "Dicintai oleh bangsawan Inggris selama berabad-abad, Cavalier King Charles Spaniel adalah anjing pendamping terkenal di seluruh dunia karena bulunya yang halus seperti sutra, matanya yang besar dan ramah, serta sifatnya yang sangat lembut. Sebagai anjing pangkuan (lapdog) sejati, mereka sangat menikmati kehadiran pemiliknya. Namun, ras ini membawa risiko genetik tinggi terkena Penyakit Katup Mitral (MVD) dan berisiko mengalami Siringomielia (SM) akibat keterbatasan ruang tulang tengkorak. Telinga panjangnya yang terkulai juga membutuhkan perawatan rutin agar tidak terinfeksi. Hari ini, PetSelf membagikan 3 langkah rutinitas harian untuk merawat kesehatan Cavalier Anda.",
+                "whyTitle": "Bahasa Tubuh Cavalier King Charles Spaniel: Pelukan Pangkuan (Lap-Hugging) dan Garukan Udara (Phantom Scratching)",
+                "whyDesc": "Cavalier menyampaikan rasa sayang dan rasa sakit fisik melalui kontak tubuh dekat dan gerakan unik. Menempelkan seluruh tubuhnya ke pangkuan Anda **'Pelukan Pangkuan (Lap-Hugging)'** adalah ungkapan cinta dan rasa aman yang mendalam. Sebaliknya, menggaruk-garuk udara di dekat leher tanpa menyentuh kulit **'Garukan Udara (Phantom Scratching)'** adalah sinyal rasa sakit saraf yang disebabkan oleh Siringomielia (SM) atau iritasi saraf.",
+                "body_signals": [
+                    {
+                        "name": "Menyandarkan Tubuh ke Pangkuan Pemilik dan Menyembunyikan Wajah secara Lembut (Lap-Hugging)",
+                        "meaning": "Tanda kasih sayang utama yang menunjukkan keinginan untuk terus dekat, percaya, dan merasa aman.",
+                        "response": "Elus dengan lembut untuk membalas kasih sayangnya, dan jaga suasana tetap tenang untuk mencegah kecemasan perpisahan."
+                    },
+                    {
+                        "name": "Menggaruk Udara di Sekitar Leher dan Bahu secara Berulang (Phantom Scratching)",
+                        "meaning": "Sinyal saraf abnormal akibat tekanan cairan tulang belakang (Siringomielia/SM) atau iritasi infeksi telinga berat.",
+                        "response": "Segera rekam video perilaku tersebut dan bawa ke dokter hewan untuk pemeriksaan saraf (MRI) dan telinga."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Pakan Rendah Garam Tinggi Protein & Pemeriksaan Kebersihan Mata dan Telinga",
+                        "text": "Berikan makanan rendah garam untuk menjaga kesehatan jantung (pencegahan MVD), serta bersihkan dan keringkan bagian dalam telinganya."
+                    },
+                    {
+                        "name": "Siang: Jalan Santai di Area Datar (30–40 Menit) & Permainan Ringan",
+                        "text": "Ajak berjalan di atas rumput saat cuaca sejuk agar tidak membebani jantung dan persendian lutut (patela)."
+                    },
+                    {
+                        "name": "Malam: Penyisiran Bulu Halus & Lingkungan Istirahat yang Tenang Tanpa Stres Jantung",
+                        "text": "Sisir bulu halus di belakang telinga dan kaki agar tidak menggumpal, serta ciptakan area tidur yang tenang dan nyaman."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mengapa Penyakit Katup Mitral (MVD) sangat berbahaya bagi Cavalier?",
+                        "answer": "Penyakit Katup Mitral (MVD) adalah kondisi jantung keturunan fatal yang menyerang lebih dari 50% Cavalier pada usia 5 tahun dan hampir 100% pada usia 10 tahun. Katup jantung mengalami degenerasi sehingga darah bocor kembali. Auskultasi rutin dan USG jantung (Echocardiogram) tahunan sangat penting untuk deteksi dini dan pengobatan."
+                    },
+                    {
+                        "question": "Mengapa gejala 'Garukan Udara (Phantom Scratching)' sangat berbahaya?",
+                        "answer": "Garukan udara adalah gejala khas Siringomielia (SM), gangguan saraf menyakitkan yang umum pada Cavalier di mana rongga berisi cairan terbentuk di sumsum tulang belakang akibat tengkorak belakang yang sempit. Kondisi ini menyebabkan rasa sakit leher yang hebat sehingga memerlukan diagnosis MRI dan penanganan dokter hewan."
+                    }
+                ],
+                "tags": [
+                    "CavalierKingCharlesSpaniel",
+                    "PerawatanAnjingKecil",
+                    "MVDKucingAnjing",
+                    "SiringomieliaSM"
+                ]
+            }
+        },
+        "category": "CareSelf",
+        "app": "careself",
+        "formatVersion": 4,
+        "heroImage": "/images/blog/cavalier_king_charles_spaniel_care.webp"
+    }
+}
