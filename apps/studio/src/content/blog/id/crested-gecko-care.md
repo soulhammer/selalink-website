@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Perawatan Kelembapan, Ganti Kulit, dan Sinyal Perilaku Crested Gecko: Rutinitas Harian 3 Langkah"
 description: "Panduan perawatan Crested Gecko yang unik. Cegah MBD, jaga kelembapan ideal (60%–80%), dan pahami gerakan ekor serta usapan mata dalam 3 langkah."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-07-15"
+updatedDate: "2026-07-15"
 category: "FreshSelf"
 tags: ["PerawatanHewan","KesehatanHewan","Crested Gecko (Crested Gecko)"]
 heroImage: "/images/blog/crested_gecko_care.webp"

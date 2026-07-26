@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "사랑앵무의 호흡기 보호와 기분 신호 해석을 위한 3단계 데일리 케어"
 description: "화려하고 똑똑한 소형 앵무새 사랑앵무(Budgie). 테플론 유독가스 주의와 부리 갈기·동공 수축 신호 해석, 영양 균형을 위한 3단계 케어 루틴을 소개합니다."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-04-15"
+updatedDate: "2026-04-15"
 category: "FreshSelf"
 tags: ["반려동물","펫케어","사랑앵무 / 잉꼬 (Budgerigar / Budgie)"]
 heroImage: "/images/blog/budgerigar_care.webp"

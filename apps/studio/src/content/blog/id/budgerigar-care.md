@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Perlindungan Pernapasan dan Bahasa Tubuh Parkit Australia (Budgie): Rutinitas Harian 3 Langkah"
 description: "Panduan perawatan Parkit Australia (Budgie) yang cerdas dan berwarna-warni. Hindari gas beracun teflon, pahami gesekan paruh dan gerakan pupil, serta jaga nutrisi seimbang."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-04-15"
+updatedDate: "2026-04-15"
 category: "FreshSelf"
 tags: ["PerawatanHewan","KesehatanHewan","Parkit Australia / Budgie (Budgerigar / Budgie)"]
 heroImage: "/images/blog/budgerigar_care.webp"

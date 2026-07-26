@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "拉布拉多犬食欲控制与耳部护理的3步日常护理流程"
 description: "了解拉布拉多犬控制食欲的基因特性、保护关节以及游泳后预防耳部感染的3步日常护理流程。"
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-01-15"
+updatedDate: "2026-01-15"
 category: "FreshSelf"
 tags: ["宠物护理","宠物健康","拉布拉多犬 (Labrador Retriever)"]
 heroImage: "/images/blog/labrador_retriever_care.webp"

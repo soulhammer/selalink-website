@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "セキセイインコの呼吸器保護と感情サイン解読のための3ステップデイリールーティン"
 description: "カラフルで賢いセキセイインコ。テフロン中毒の予防、嘴を鳴らす音や瞳孔収縮サインの解読、栄養バランスを保つ3ステップのホームケアを紹介します。"
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-04-15"
+updatedDate: "2026-04-15"
 category: "FreshSelf"
 tags: ["ペットケア","ペット健康","セキセイインコ (Budgerigar / Budgie)"]
 heroImage: "/images/blog/budgerigar_care.webp"

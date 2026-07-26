@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "グッピーの水質ストレスサインとヒレの健康を守る3ステップデイリールーティン"
 description: "鮮やかな熱帯魚グッピー。ヒレ閉じや水面でのパクパク動作の解読、適正水温(24°C〜26°C)とアンモニア管理のための3ステップホームケアを紹介します。"
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-06-01"
+updatedDate: "2026-06-01"
 category: "FreshSelf"
 tags: ["ペットケア","ペット健康","グッピー (Guppy)"]
 heroImage: "/images/blog/guppy_care.webp"

@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Señales de alerta del Pastor Alemán y rutina diaria de 3 pasos para el cuidado articular y del manto doble"
 description: "Guía para el leal Pastor Alemán. Interprete su lenguaje corporal, prevenga la displasia de cadera y controle la muda intensa con una rutina de 3 pasos."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-03-01"
+updatedDate: "2026-03-01"
 category: "FreshSelf"
 tags: ["CuidadoMascotas","SaludMascotas","Pastor Alemán (German Shepherd Dog)"]
 heroImage: "/images/blog/german_shepherd_care.webp"

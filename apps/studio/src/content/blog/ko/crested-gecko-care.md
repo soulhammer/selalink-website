@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "크레스티드 게코의 탈피·습도 케어와 행동 신호를 위한 3단계 데일리 홈케어"
 description: "속눈썹 도마뱀 크레스티드 게코(Crested Gecko). MBD(대사성 뼈 질환) 예방과 적정 습도(60% ~ 80%), 꼬리 자르기·꼬리 흔들기 신호 해석을 위한 3단계 홈케어 루틴을 소개합니다."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-07-15"
+updatedDate: "2026-07-15"
 category: "FreshSelf"
 tags: ["반려동물","펫케어","크레스티드 게코 / 속눈썹 도마뱀 (Crested Gecko)"]
 heroImage: "/images/blog/crested_gecko_care.webp"

@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Control del apetito y cuidado de oídos del Labrador Retriever: rutina diaria de 3 pasos"
 description: "Aprenda a controlar el apetito genético del Labrador Retriever, proteger sus articulaciones y prevenir infecciones de oído tras nadar con una rutina de 3 pasos."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-01-15"
+updatedDate: "2026-01-15"
 category: "FreshSelf"
 tags: ["CuidadoMascotas","SaludMascotas","Labrador Retriever"]
 heroImage: "/images/blog/labrador_retriever_care.webp"

@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Protección respiratoria y lectura de señales de ánimo en el Perico Australiano: Rutina diaria de 3 pasos"
 description: "Guía de cuidado para el colorido e inteligente Perico Australiano (Budgie). Evite gases tóxicos de teflón, interprete el rechinado de pico y la pupilación, y equilibre su nutrición."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-04-15"
+updatedDate: "2026-04-15"
 category: "FreshSelf"
 tags: ["CuidadoMascotas","SaludMascotas","Perico Australiano / Periquito (Budgerigar / Budgie)"]
 heroImage: "/images/blog/budgerigar_care.webp"

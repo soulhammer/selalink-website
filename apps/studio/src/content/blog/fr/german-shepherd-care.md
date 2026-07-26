@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Signaux d'alerte du Berger Allemand et routine quotidienne en 3 étapes pour les articulations et le double pelage"
 description: "Guide de soins pour le loyal Berger Allemand. Décryptez son langage corporel, prévenez la dysplasie de la hanche et gérez la mue grâce à une routine en 3 étapes."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-03-01"
+updatedDate: "2026-03-01"
 category: "FreshSelf"
 tags: ["SoinAnimaux","SanteAnimaux","Berger Allemand (German Shepherd Dog)"]
 heroImage: "/images/blog/german_shepherd_care.webp"

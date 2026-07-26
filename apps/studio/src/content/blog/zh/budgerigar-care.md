@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "虎皮鹦鹉呼吸道保护与情绪信号解读的3步日常护理流程"
 description: "绚丽聪慧的虎皮鹦鹉（Budgie）护理指南。预防特氟龙毒气伤害，解读磨嘴与瞳孔收缩信号，实现营养均衡的3步骤家庭护理。"
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-04-15"
+updatedDate: "2026-04-15"
 category: "FreshSelf"
 tags: ["宠物护理","宠物健康","虎皮鹦鹉 / 娇凤 (Budgerigar / Budgie)"]
 heroImage: "/images/blog/budgerigar_care.webp"

@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Körpersprache des Deutschen Schäferhundes und 3-Schritte-Tagesroutine für Gelenke und Unterwolle"
 description: "Pflegeanleitung für den treuen Deutschen Schäferhund. Verstehen Sie Warnsignale, beugen Sie Hüftdysplasie vor und bewältigen Sie den Fellwechsel mit einer 3-Schritte-Routine."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-03-01"
+updatedDate: "2026-03-01"
 category: "FreshSelf"
 tags: ["Haustierpflege","Haustiergesundheit","Deutscher Schäferhund (German Shepherd Dog)"]
 heroImage: "/images/blog/german_shepherd_care.webp"

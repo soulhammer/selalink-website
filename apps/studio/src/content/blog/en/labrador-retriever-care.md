@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Managing Labrador Retriever Appetite and Ear Care: A 3-Step Daily Routine"
 description: "Learn how to manage the Labrador Retriever's genetic appetite, protect their joints, and prevent ear infections after swimming with a 3-step care routine."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-01-15"
+updatedDate: "2026-01-15"
 category: "FreshSelf"
 tags: ["PetCare","PetHealth","Labrador Retriever"]
 heroImage: "/images/blog/labrador_retriever_care.webp"

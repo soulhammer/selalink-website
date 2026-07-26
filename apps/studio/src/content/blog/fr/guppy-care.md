@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Signaux de stress liés à l'eau chez le Guppy et routine quotidienne en 3 étapes pour le soin des nageoires"
 description: "Guide de soins pour le guppy coloré. Décryptez le pincement des nageoires et la respiration en surface, maintenez une température idéale (24°C–26°C) et gérez l'ammoniaque en 3 étapes."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-06-01"
+updatedDate: "2026-06-01"
 category: "FreshSelf"
 tags: ["SoinAnimaux","SanteAnimaux","Guppy"]
 heroImage: "/images/blog/guppy_care.webp"

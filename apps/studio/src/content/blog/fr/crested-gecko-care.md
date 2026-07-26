@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Routine quotidienne en 3 étapes pour la mue, l'humidité et les signaux comportementaux du Gecko à Crête"
 description: "Guide de soins pour le Gecko à Crête (Crested Gecko). Prévenez la MBD, maintenez l'humidité (60%–80%) et décryptez les signaux de queue et de nettoyage des yeux en 3 étapes."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-07-15"
+updatedDate: "2026-07-15"
 category: "FreshSelf"
 tags: ["SoinAnimaux","SanteAnimaux","Gecko à Crête (Crested Gecko)"]
 heroImage: "/images/blog/crested_gecko_care.webp"

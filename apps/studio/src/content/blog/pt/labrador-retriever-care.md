@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Controle de apetite e cuidados com as orelhas do Labrador Retriever: rotina diária de 3 passos"
 description: "Aprenda a gerenciar o apetite genético do Labrador Retriever, proteger suas articulações e prevenir infecções de ouvido após nadar com uma rotina em 3 passos."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-01-15"
+updatedDate: "2026-01-15"
 category: "FreshSelf"
 tags: ["CuidadoPets","SaudePets","Labrador Retriever"]
 heroImage: "/images/blog/labrador_retriever_care.webp"

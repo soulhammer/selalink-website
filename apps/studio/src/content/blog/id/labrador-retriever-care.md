@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Pengendalian Nafsu Makan dan Perawatan Telinga Labrador Retriever: Rutinitas Harian 3 Langkah"
 description: "Pelajari cara mengelola nafsu makan genetik Labrador Retriever, melindungi sendi mereka, dan mencegah infeksi telinga setelah berenang dalam 3 langkah."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-01-15"
+updatedDate: "2026-01-15"
 category: "FreshSelf"
 tags: ["PerawatanHewan","KesehatanHewan","Labrador Retriever"]
 heroImage: "/images/blog/labrador_retriever_care.webp"

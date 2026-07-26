@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "저먼 셰퍼드의 경계 신호 해석과 관절 및 이중모 관리를 위한 3단계 데일리 케어"
 description: "용맹하고 충성스러운 저먼 셰퍼드. 특유의 바디 랭귀지 해석과 고관절 이형성증 예방, 빽빽한 이중모 털 빠짐 관리를 위한 3단계 홈케어 루틴을 소개합니다."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-03-01"
+updatedDate: "2026-03-01"
 category: "FreshSelf"
 tags: ["반려동물","펫케어","저먼 셰퍼드 (German Shepherd Dog)"]
 heroImage: "/images/blog/german_shepherd_care.webp"

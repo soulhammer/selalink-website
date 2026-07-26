@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Rotina diária de 3 passos para o cuidado com umidade, muda de pele e sinais comportamentais do Gecko-Cristado"
 description: "Guia de cuidados para o Gecko-Cristado (Crested Gecko). Previna a EMO, mantenha a umidade ideal (60%-80%) e entenda os sinais do rabo e limpeza ocular com uma rotina em 3 passos."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-07-15"
+updatedDate: "2026-07-15"
 category: "FreshSelf"
 tags: ["CuidadoPets","SaudePets","Gecko-Cristado (Crested Gecko)"]
 heroImage: "/images/blog/crested_gecko_care.webp"

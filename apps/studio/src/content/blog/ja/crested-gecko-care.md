@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "クレスティッドゲッコーの脱皮・湿度ケアと行動サイン解読のための3ステップデイリールーティン"
 description: "まつ毛のような突起が特徴的なオウカンミカドヤモリ（クレスティッドゲッコー）。MBD（骨代謝疾患）の予防、適正湿度（60%〜80%）、自尾・尻尾振りのサインを読み解く3ステップホームケアを紹介します。"
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-07-15"
+updatedDate: "2026-07-15"
 category: "FreshSelf"
 tags: ["ペットケア","ペット健康","オウカンミカドヤモリ / クレスティッドゲッコー (Crested Gecko)"]
 heroImage: "/images/blog/crested_gecko_care.webp"

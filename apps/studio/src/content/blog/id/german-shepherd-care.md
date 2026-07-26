@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Isyarat Kewaspadaan German Shepherd dan Rutinitas Harian 3 Langkah Perawatan Sendi serta Bulu Ganda"
 description: "Panduan perawatan anjing leal German Shepherd. Pahami bahasa tubuh kewaspadaan, cegah displasia pinggul, dan kelola kerontokan bulu ganda dalam 3 langkah."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-03-01"
+updatedDate: "2026-03-01"
 category: "FreshSelf"
 tags: ["PerawatanHewan","KesehatanHewan","German Shepherd (German Shepherd Dog)"]
 heroImage: "/images/blog/german_shepherd_care.webp"

@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Proteção respiratória e linguagem corporal do Periquito-Australiano: Rotina diária de 3 passos"
 description: "Guia de cuidados para o colorido e inteligente Periquito-Australiano (Budgie). Evite gases tóxicos de teflon, entenda o ranger do bico e a contração pupilar com uma rotina em 3 passos."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-04-15"
+updatedDate: "2026-04-15"
 category: "FreshSelf"
 tags: ["CuidadoPets","SaudePets","Periquito-Australiano (Budgerigar / Budgie)"]
 heroImage: "/images/blog/budgerigar_care.webp"

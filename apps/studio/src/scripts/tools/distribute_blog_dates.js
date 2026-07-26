@@ -5,37 +5,29 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
+const studioRoot = path.join(__dirname, '../../..');
+
 const targetSlugs = [
-  'babbage-difference-engine',
-  'daguerre-silver-plate',
-  'euclid-axiomatic-thinking',
-  'harvey-blood-circulation',
-  'hooke-microscopic-sketching',
-  'leeuwenhoek-lens-grinding',
-  'neruda-green-ink-flow',
-  'pascal-math-focus',
-  'sagan-cosmic-perspective',
-  'saintexupery-cockpit-contemplation'
+  'labrador-retriever-care',
+  'german-shepherd-care',
+  'budgerigar-care',
+  'guppy-care',
+  'crested-gecko-care'
 ];
 
-// 2026년 1월부터 2026년 7월 중순까지 약 20일 간격 균등 분산 (10개 날짜)
+// 2026년 1월부터 2026년 7월 중순까지 균등 분산 (5개 날짜)
 const generatedDates = [
-  '2026-01-10',
-  '2026-01-31',
-  '2026-02-21',
-  '2026-03-14',
-  '2026-04-04',
-  '2026-04-25',
-  '2026-05-16',
-  '2026-06-06',
-  '2026-06-27',
-  '2026-07-18'
+  '2026-01-15',
+  '2026-03-01',
+  '2026-04-15',
+  '2026-06-01',
+  '2026-07-15'
 ];
 
-console.log('🗓️ 신규 10개 위인 습관 블로그 분산 날짜 목록:', generatedDates);
+console.log('🗓️ 신규 5개 반려동물 블로그 분산 날짜 목록:', generatedDates);
 
-const blogBaseDir = path.join(__dirname, 'content/blog');
-const jsonDir = path.join(__dirname, 'data/blogs/habits');
+const blogBaseDir = path.join(studioRoot, 'src/content/blog');
+const jsonDir = path.join(studioRoot, 'src/data/blogs/pets');
 const locales = ['ko', 'en', 'ja', 'zh', 'es', 'fr', 'de', 'pt', 'id'];
 
 targetSlugs.forEach((slug, idx) => {
@@ -61,7 +53,7 @@ targetSlugs.forEach((slug, idx) => {
     if (data[slug]) {
       data[slug].pubDate = targetDate;
       data[slug].updatedDate = targetDate;
-      fs.writeFileSync(jsonPath, JSON.stringify(data, null, 2), 'utf-8');
+      fs.writeFileSync(jsonPath, JSON.stringify(data, null, 4), 'utf-8');
       console.log(`[JSON 완료] ${slug}.json -> ${targetDate}`);
     }
   } else {
@@ -69,4 +61,4 @@ targetSlugs.forEach((slug, idx) => {
   }
 });
 
-console.log('✨ 10개 위인 습관 블로그 2026년 1월~7월 날짜 분산 업데이트 완료!');
+console.log('✨ 5개 반려동물 블로그 2026년 1월~7월 날짜 분산 업데이트 완료!');

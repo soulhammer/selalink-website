@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "German Shepherd Dog Guarding Signals and 3-Step Daily Care Routine for Joint and Double Coat Management"
 description: "Care guide for the loyal German Shepherd Dog. Understand guarding body language, prevent hip dysplasia, and manage heavy shedding with a 3-step routine."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-03-01"
+updatedDate: "2026-03-01"
 category: "FreshSelf"
 tags: ["PetCare","PetHealth","German Shepherd Dog"]
 heroImage: "/images/blog/german_shepherd_care.webp"

@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Sinais de estresse pela qualidade da água no Guppy e rotina diária de 3 passos para o cuidado das nadadeiras"
 description: "Guia de cuidados para o colorido peixe Guppy. Entenda as nadadeiras encolhidas e a arfagem na superfície, mantenha a temperatura ideal (24°C–26°C) e controle a amônia em 3 passos."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-06-01"
+updatedDate: "2026-06-01"
 category: "FreshSelf"
 tags: ["CuidadoPets","SaudePets","Guppy"]
 heroImage: "/images/blog/guppy_care.webp"

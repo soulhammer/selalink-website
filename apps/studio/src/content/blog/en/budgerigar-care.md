@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Budgerigar Respiratory Protection and Mood Signal Interpretation: A 3-Step Daily Routine"
 description: "Care guide for the colorful and intelligent Budgerigar (Budgie). Prevent PTFE toxic gas exposure, interpret beak grinding and pupil pinning, and balance nutrition with a 3-step routine."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-04-15"
+updatedDate: "2026-04-15"
 category: "FreshSelf"
 tags: ["PetCare","PetHealth","Budgerigar / Budgie"]
 heroImage: "/images/blog/budgerigar_care.webp"

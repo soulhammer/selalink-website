@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "睫角守宫脱皮与湿度护理及肢体信号解读的3步日常护理流程"
 description: "睫角守宫（Crested Gecko）护理指南。介绍骨骼代谢病（MBD）预防、适宜湿度（60% ~ 80%）维持，以及断尾前兆与甩尾信号解读的3步骤家庭护理。"
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-07-15"
+updatedDate: "2026-07-15"
 category: "FreshSelf"
 tags: ["宠物护理","宠物健康","睫角守宫 (Crested Gecko)"]
 heroImage: "/images/blog/crested_gecko_care.webp"

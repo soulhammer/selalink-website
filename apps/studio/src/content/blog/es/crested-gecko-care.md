@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Rutina diaria de 3 pasos para el cuidado de humedad, muda y señales de conducta del Gecko Crestado"
 description: "Guía de cuidado para el Gecko Crestado (Crested Gecko). Prevenga la EMO, mantenga la humedad ideal (60%-80%) e interprete las señales de la cola y limpieza ocular con una rutina de 3 pasos."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-07-15"
+updatedDate: "2026-07-15"
 category: "FreshSelf"
 tags: ["CuidadoMascotas","SaludMascotas","Gecko Crestado (Crested Gecko)"]
 heroImage: "/images/blog/crested_gecko_care.webp"

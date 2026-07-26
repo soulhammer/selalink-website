@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Sinais de alerta do Pastor Alemão e rotina diária de 3 passos para cuidados articulares e pelagem dupla"
 description: "Guia para o leal Pastor Alemão. Interprete sua linguagem corporal, previna a displasia de quadril e controle a queda de pelos com uma rotina de 3 passos."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-03-01"
+updatedDate: "2026-03-01"
 category: "FreshSelf"
 tags: ["CuidadoPets","SaudePets","Pastor Alemão (German Shepherd Dog)"]
 heroImage: "/images/blog/german_shepherd_care.webp"

@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Crested Gecko Humidity, Shedding, and Behavioral Signals Care: A 3-Step Daily Routine"
 description: "Care guide for the mysterious Crested Gecko. Prevent MBD, maintain optimal humidity (60%–80%), and decode tail-wagging and eye-wiping signals with a 3-step daily routine."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-07-15"
+updatedDate: "2026-07-15"
 category: "FreshSelf"
 tags: ["PetCare","PetHealth","Crested Gecko / Eyelash Gecko (Crested Gecko)"]
 heroImage: "/images/blog/crested_gecko_care.webp"

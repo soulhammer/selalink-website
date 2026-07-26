@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Wasserstress-Signale beim Guppy und 3-Schritte-Tagesroutine zur Flossenpflege"
 description: "Pflegeanleitung für den farbenfrohen Guppy. Klemmen der Flossen und Japsen an der Oberfläche verstehen, Wassertemperatur (24°C–26°C) halten und Ammoniak steuern."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-06-01"
+updatedDate: "2026-06-01"
 category: "FreshSelf"
 tags: ["Haustierpflege","Haustiergesundheit","Guppy"]
 heroImage: "/images/blog/guppy_care.webp"

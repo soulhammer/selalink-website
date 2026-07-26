@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Atemwegsschutz und Körpersprache beim Wellensittich: Eine 3-Schritte-Tagesroutine"
 description: "Pflegeanleitung für den farbenfrohen und klugen Wellensittich. Vermeiden Sie Teflon-Gase, verstehen Sie Schnabelknirschen und Pupillenverengung und sorgen Sie für gesunde Ernährung."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-04-15"
+updatedDate: "2026-04-15"
 category: "FreshSelf"
 tags: ["Haustierpflege","Haustiergesundheit","Wellensittich (Budgerigar / Budgie)"]
 heroImage: "/images/blog/budgerigar_care.webp"

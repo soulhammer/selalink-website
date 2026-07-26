@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "ジャーマン・シェパードの警戒サイン解読と関節・二重毛ケアのための3ステップデイリールーティン"
 description: "勇敢で忠実なジャーマン・シェパード。ボディランゲージの解読、股関節形成不全の予防、濃密な二重毛の抜け毛ケアのための3ステップホームケアを紹介します。"
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-03-01"
+updatedDate: "2026-03-01"
 category: "FreshSelf"
 tags: ["ペットケア","ペット健康","ジャーマン・シェパード・ドッグ (German Shepherd Dog)"]
 heroImage: "/images/blog/german_shepherd_care.webp"

@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "ラブラドール・レトリバーの食欲管理と耳のケアのための3ステップデイリールーティン"
 description: "世界中で愛されるラブラドール・レトリバー。食欲を司る遺伝的特性、関節の保護、水遊び後の耳の病気予防のための3ステップホームケアを学びます。"
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-01-15"
+updatedDate: "2026-01-15"
 category: "FreshSelf"
 tags: ["ペットケア","ペット健康","ラブラドール・レトリバー (Labrador Retriever)"]
 heroImage: "/images/blog/labrador_retriever_care.webp"

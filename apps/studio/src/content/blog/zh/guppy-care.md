@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "孔雀鱼水质应激信号解读与鳍部护理的3步日常流程"
 description: "绚丽热带鱼孔雀鱼（Guppy）护理指南。解读夹鳍与水面浮头呼吸信号，维持适宜水温（24°C ~ 26°C）及氨氮管理的3步骤家庭护理。"
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-06-01"
+updatedDate: "2026-06-01"
 category: "FreshSelf"
 tags: ["宠物护理","宠物健康","孔雀鱼 (Guppy)"]
 heroImage: "/images/blog/guppy_care.webp"

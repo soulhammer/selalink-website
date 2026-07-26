@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Protection respiratoire et décodage du comportement chez la Perruche Ondulée : Routine en 3 étapes"
 description: "Guide de soins pour la charmante Perruche Ondulée (Budgie). Évitez les gaz toxiques de téflon, décryptez le grincement de bec et le pinning pupillaire, et équilibre son alimentation."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-04-15"
+updatedDate: "2026-04-15"
 category: "FreshSelf"
 tags: ["SoinAnimaux","SanteAnimaux","Perruche Ondulée (Budgerigar / Budgie)"]
 heroImage: "/images/blog/budgerigar_care.webp"

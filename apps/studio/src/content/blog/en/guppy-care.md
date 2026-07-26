@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Guppy Water Quality Stress Signals and 3-Step Daily Routine for Fin Care"
 description: "Care guide for the vibrant freshwater Guppy. Understand clamped fins and surface gasping signals, maintain optimal water temperature (24°C–26°C), and manage ammonia with a 3-step routine."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-06-01"
+updatedDate: "2026-06-01"
 category: "FreshSelf"
 tags: ["PetCare","PetHealth","Guppy"]
 heroImage: "/images/blog/guppy_care.webp"

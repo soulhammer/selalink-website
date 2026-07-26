@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Labrador Retriever Appetitkontrolle und Ohrenpflege: Eine 3-Schritte-Tagesroutine"
 description: "Lernen Sie, wie Sie den genetisch bedingten Appetit des Labrador Retrievers steuern, seine Gelenke schützen und Ohrinfektionen nach dem Schwimmen vorbeugen."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-01-15"
+updatedDate: "2026-01-15"
 category: "FreshSelf"
 tags: ["Haustierpflege","Haustiergesundheit","Labrador Retriever"]
 heroImage: "/images/blog/labrador_retriever_care.webp"

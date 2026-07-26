@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Sinyal Stres Kualitas Air pada Guppy dan Rutinitas Harian 3 Langkah Perawatan Sirip"
 description: "Panduan perawatan ikan Guppy yang berwarna-warni. Pahami sirip menguncup dan napas menggep-menggep di permukaan, jaga suhu air ideal (24°C–26°C), serta kelola amonia dalam 3 langkah."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-06-01"
+updatedDate: "2026-06-01"
 category: "FreshSelf"
 tags: ["PerawatanHewan","KesehatanHewan","Guppy"]
 heroImage: "/images/blog/guppy_care.webp"

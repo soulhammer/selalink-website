@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Señales de estrés por calidad del agua en el Guppy y rutina diaria de 3 pasos para el cuidado de aletas"
 description: "Guía de cuidado para el vistoso pez Guppy. Interprete el repliegue de aletas y el boqueo en la superficie, mantenga la temperatura ideal (24°C-26°C) y gestione el amoníaco en 3 pasos."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-06-01"
+updatedDate: "2026-06-01"
 category: "FreshSelf"
 tags: ["CuidadoMascotas","SaludMascotas","Guppy"]
 heroImage: "/images/blog/guppy_care.webp"

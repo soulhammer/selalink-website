@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "德牧（德国牧羊犬）警戒信号解读与关节及双层毛护理的3步日常流程"
 description: "勇敢忠诚的德国牧羊犬护理指南。解读其肢体语言，预防髋关节发育不良，并应对双层毛严重脱落的3步骤家庭护理。"
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-03-01"
+updatedDate: "2026-03-01"
 category: "FreshSelf"
 tags: ["宠物护理","宠物健康","德国牧羊犬 (German Shepherd Dog)"]
 heroImage: "/images/blog/german_shepherd_care.webp"

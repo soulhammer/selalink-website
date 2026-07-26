@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "구피의 수질 스트레스 신호와 지느러미 관리를 위한 3단계 데일리 케어"
 description: "화려한 알록달록 열대어 구피(Guppy). 지느러미 접힘과 수면 뻐끔거림 신호 해석, 적정 수온(24°C ~ 26°C)과 암모니아 관리를 위한 3단계 홈케어 루틴을 소개합니다."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-06-01"
+updatedDate: "2026-06-01"
 category: "FreshSelf"
 tags: ["반려동물","펫케어","구피 (Guppy)"]
 heroImage: "/images/blog/guppy_care.webp"

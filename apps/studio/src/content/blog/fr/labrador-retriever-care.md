@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Contrôle de l'appétit et soin des oreilles du Labrador Retriever : routine quotidienne en 3 étapes"
 description: "Apprenez à gérer l'appétit génétique du Labrador Retriever, à protéger ses articulations et à prévenir les otites après la baignade grâce à une routine en 3 étapes."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-01-15"
+updatedDate: "2026-01-15"
 category: "FreshSelf"
 tags: ["SoinAnimaux","SanteAnimaux","Labrador Retriever"]
 heroImage: "/images/blog/labrador_retriever_care.webp"

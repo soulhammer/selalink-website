@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "3-Schritte-Tagesroutine für Häutung, Luftfeuchtigkeit und Körpersprache des Kronengeckos"
 description: "Pflegeanleitung für den Kronengecko (Crested Gecko). MBD vorbeugen, optimale Luftfeuchtigkeit (60 %–80 %) halten und Schwanz- sowie Augenputzsignale verstehen."
-pubDate: "2026-07-26"
-updatedDate: "2026-07-26"
+pubDate: "2026-07-15"
+updatedDate: "2026-07-15"
 category: "FreshSelf"
 tags: ["Haustierpflege","Haustiergesundheit","Kronengecko (Crested Gecko)"]
 heroImage: "/images/blog/crested_gecko_care.webp"
