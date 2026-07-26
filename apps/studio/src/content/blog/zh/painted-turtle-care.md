@@ -2,7 +2,7 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "锦龟（Painted Turtle）行为信号解读及腐甲病与 MBD 预防的3步日常流程"
 description: "拥有绚丽花纹的水龟锦龟（Painted Turtle）。解读晒背伸腿与撞缸/刮缸行为信号，管理 UVB 与水温，预防腐甲病及代谢性骨病（MBD）的3步骤家庭护理。"
-pubDate: "2026-06-01"
+pubDate: "2026-07-26"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
 tags: ["宠物护理","宠物健康","锦龟 (Painted Turtle / Chrysemys picta)"]

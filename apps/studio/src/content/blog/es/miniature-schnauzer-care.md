@@ -2,7 +2,7 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Señales de pancreatitis y piel en el Schnauzer Miniatura y rutina diaria de 3 pasos para dieta baja en grasa y cuidado de barba"
 description: "Guía de cuidado para el inteligente Schnauzer Miniatura. Interprete la postura de rezo (dolor abdominal) y el ladrido de alerta, prevenga la pancreatitis con dieta baja en grasa y mantenga la barba limpia en 3 pasos."
-pubDate: "2026-06-01"
+pubDate: "2026-07-26"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
 tags: ["CuidadoMascotas","SaludMascotas","Schnauzer Miniatura (Miniature Schnauzer)"]

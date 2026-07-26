@@ -2,7 +2,7 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Painted Turtle Basking & Behavioral Signals: 3-Step Care to Prevent Shell Rot & MBD"
 description: "Learn Painted Turtle care: decode Solar Stretching and Glass Surfing signals, manage water and basking temperatures, and prevent Shell Rot and MBD with a 3-step daily routine."
-pubDate: "2026-06-01"
+pubDate: "2026-07-26"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
 tags: ["PetCare","PetHealth","Painted Turtle (Chrysemys picta)"]

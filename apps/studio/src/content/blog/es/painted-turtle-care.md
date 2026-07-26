@@ -2,7 +2,7 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Señales de Comportamiento de la Tortuga Pintada: Cuidados para Prevenir la Podredumbre del Caparazón y MBD"
 description: "Aprenda el cuidado de la Tortuga Pintada: interprete las señales de Solar Stretching y Glass Surfing, controle la temperatura y prevenga enfermedades con una rutina de 3 pasos."
-pubDate: "2026-06-01"
+pubDate: "2026-07-26"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
 tags: ["CuidadoMascotas","SaludMascotas","Tortuga Pintada (Chrysemys picta)"]

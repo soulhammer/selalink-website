@@ -2,7 +2,7 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Sinais de afeto e estresse no Scottish Straight e rotina diária de 3 passos para cuidados articulares e cardíacos"
 description: "Guia de cuidados para o adorável Scottish Straight. Entenda a postura de Buda e as orelhas de avião, previna a obesidade, cardiomiopatia (HCM) e problemas renais em 3 passos."
-pubDate: "2026-06-01"
+pubDate: "2026-07-26"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
 tags: ["CuidadoPets","SaudePets","Scottish Straight (Scottish Straight)"]

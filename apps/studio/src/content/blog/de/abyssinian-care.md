@@ -2,7 +2,7 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Körpersprache der Abessinierkatze und 3-Schritte-Tagesroutine zur Vorbeugung von Anämie und Zahnerkrankungen"
 description: "Pflegeanleitung für die elegante Abessinierkatze (Abyssinian). Kopfstupsen und blasse Schleimhäute verstehen, PK-Defizienz-Anämie (PKD) vermeiden und Kletterraum sowie Zähne in 3 Schritten pflegen."
-pubDate: "2026-06-01"
+pubDate: "2026-07-26"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
 tags: ["Haustierpflege","Haustiergesundheit","Abessinierkatze (Abyssinian)"]

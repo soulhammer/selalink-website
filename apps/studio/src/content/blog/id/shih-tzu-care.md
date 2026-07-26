@@ -2,7 +2,7 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Sinyal Pernapasan dan Mata Shih Tzu serta Rutinitas Harian 3 Langkah Perawatan Pencegahan Heatstroke dan Kornea"
 description: "Panduan perawatan anjing Shih Tzu yang penyayang. Pahami bersin terbalik (reverse sneezing) dan gosok mata, cegah heatstroke brakisefalik, serta rawat mata/telinga dalam 3 langkah."
-pubDate: "2026-06-01"
+pubDate: "2026-07-26"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
 tags: ["PerawatanHewan","KesehatanHewan","Shih Tzu (Shih Tzu)"]

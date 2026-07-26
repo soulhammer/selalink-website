@@ -1,5 +1,5 @@
 {
-    "mickey-mouse-platy-care": {
+    "platy-fish-care": {
         "pubDate": "2026-07-26",
         "updatedDate": "2026-07-26",
         "locales": {
@@ -511,6 +511,6 @@
         "category": "CareSelf",
         "app": "careself",
         "formatVersion": 4,
-        "heroImage": "/images/blog/mickey_mouse_platy_care.webp"
+        "heroImage": "/images/blog/platy_fish_care.webp"
     }
 }

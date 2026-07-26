@@ -2,7 +2,7 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "ペインテッドタートル（ニシキガメ）の行動サイン解読と甲羅腐敗症・MBD予防のための3ステップデイリールーティン"
 description: "鮮やかな模様が魅力的な水棲ガメ、ペインテッドタートル（ニシキガメ）。バスキング中の足伸ばしや壁掻きサインの解読、UVB・水温管理および甲羅腐敗症予防のための3ステップホームケアを紹介します。"
-pubDate: "2026-06-01"
+pubDate: "2026-07-26"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
 tags: ["ペットケア","ペット健康","ペインテッドタートル / ニシキガメ (Painted Turtle / Chrysemys picta)"]

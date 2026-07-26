@@ -2,7 +2,7 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "아비시니안 고양이의 교감 신호 해석과 빈혈·치주염 예방을 위한 3단계 데일리 케어"
 description: "날렵하고 사교적인 아비시니안(Abyssinian). 헤드버팅·눈인사 신호 해석, 유전성 빈혈(PKD) 예방 및 치아·수직 공간 관리를 위한 3단계 홈케어 루틴을 소개합니다."
-pubDate: "2026-06-01"
+pubDate: "2026-07-26"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
 tags: ["반려동물","펫케어","아비시니안 (Abyssinian)"]

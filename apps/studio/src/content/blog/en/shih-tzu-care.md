@@ -2,7 +2,7 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Shih Tzu Brachycephalic and Eye Signals with 3-Step Daily Routine for Heatstroke and Corneal Care"
 description: "Care guide for the affectionate Shih Tzu. Interpret reverse sneezing and eye rubbing, prevent brachycephalic heatstroke, and maintain eye/ear health in 3 steps."
-pubDate: "2026-06-01"
+pubDate: "2026-07-26"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
 tags: ["PetCare","PetHealth","Shih Tzu (Shih Tzu)"]

@@ -2,7 +2,7 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "페인티드 터틀(니시키가메)의 일광욕 및 행동 신호와 갑각 부패증·MBD 예방 3단계 케어법"
 description: "화려한 붉은색과 노란색 무늬가 매력적인 페인티드 터틀(Painted Turtle). 일광욕 다리 뻗기 및 벽 긁기 행동 신호 해석, UVB 및 수온 관리, 갑각 부패증 예방을 위한 3단계 홈케어 가이드를 확인하세요."
-pubDate: "2026-06-01"
+pubDate: "2026-07-26"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
 tags: ["반려동물","펫케어","페인티드 터틀 / 니시키가메 (Painted Turtle / Chrysemys picta)"]

@@ -2,7 +2,7 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "西施犬短头种呼吸与眼部信号解读及防暑与角膜护理的3步日常流程"
 description: "华丽可爱的西施犬（Shih Tzu）护理指南。解读反向喷嚏与揉眼信号，预防短头种中暑与维护角膜及耳部健康的3步骤家庭护理。"
-pubDate: "2026-06-01"
+pubDate: "2026-07-26"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
 tags: ["宠物护理","宠物健康","西施犬 (Shih Tzu)"]

@@ -2,7 +2,7 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Sinyal Kasih Sayang dan Stres Scottish Straight serta Rutinitas Harian 3 Langkah Perawatan Sendi dan Jantung"
 description: "Panduan perawatan Kucing Scottish Straight yang menggemaskan. Pahami posisi duduk santai dan telinga pesawat, cegah obesitas, Kardiomiopati Hipertrofik (HCM), serta ginjal dalam 3 langkah."
-pubDate: "2026-06-01"
+pubDate: "2026-07-26"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
 tags: ["PerawatanHewan","KesehatanHewan","Scottish Straight (Scottish Straight)"]

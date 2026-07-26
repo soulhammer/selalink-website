@@ -2,7 +2,7 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Sinais respiratórios e oculares no Shih Tzu e rotina diária de 3 passos para prevenção de intermação e cuidados com a córnea"
 description: "Guia de cuidados para o afetuoso Shih Tzu. Entenda o espirro inverso e a fricção ocular, previna a intermação braquicefálica e proteja olhos e ouvidos em 3 passos."
-pubDate: "2026-06-01"
+pubDate: "2026-07-26"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
 tags: ["CuidadoPets","SaudePets","Shih Tzu (Shih Tzu)"]

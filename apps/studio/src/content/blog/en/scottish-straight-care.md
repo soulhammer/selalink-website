@@ -2,7 +2,7 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Scottish Straight Bonding Signals and 3-Step Daily Routine for Joint and Heart Care"
 description: "Care guide for the adorable Scottish Straight. Interpret sprawled sitting and airplane ears, prevent obesity, Hypertrophic Cardiomyopathy (HCM), and kidney issues in 3 steps."
-pubDate: "2026-06-01"
+pubDate: "2026-07-26"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
 tags: ["PetCare","PetHealth","Scottish Straight (Scottish Straight)"]

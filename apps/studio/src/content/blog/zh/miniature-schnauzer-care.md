@@ -2,7 +2,7 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "迷你雪纳瑞胰腺炎与皮肤信号解读及低脂饮食与胡须护理的3步日常流程"
 description: "聪明勇敢的迷你雪纳瑞（Miniature Schnauzer）护理指南。解读腹痛祈祷姿势与警惕吠叫，通过低脂饮食预防高脂血症与胰腺炎，管理背部粉刺与胡须卫生的3步骤家庭护理。"
-pubDate: "2026-06-01"
+pubDate: "2026-07-26"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
 tags: ["宠物护理","宠物健康","迷你雪纳瑞 (Miniature Schnauzer)"]

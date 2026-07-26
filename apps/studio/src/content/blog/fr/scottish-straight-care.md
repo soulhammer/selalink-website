@@ -2,7 +2,7 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Signaux d'affection et de stress du Scottish Straight et routine quotidienne en 3 étapes pour le soin des articulations et du cœur"
 description: "Guide de soins pour le doux Scottish Straight. Décryptez la posture étalée et les oreilles en avion, prévenez l'obésité, la cardiomyopathie (HCM) et la polykystose rénale en 3 étapes."
-pubDate: "2026-06-01"
+pubDate: "2026-07-26"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
 tags: ["SoinAnimaux","SanteAnimaux","Scottish Straight (Scottish Straight)"]

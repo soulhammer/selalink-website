@@ -2,7 +2,7 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Señales de afecto y salud en el Gato Abisinio y rutina diaria de 3 pasos para el cuidado de anemia y salud dental"
 description: "Guía de cuidado para el ágil Gato Abisinio (Abyssinian). Interprete los topetazos con la cabeza y encías pálidas, prevenga la anemia por deficiencia de PK (PKD) y gestione el espacio vertical en 3 pasos."
-pubDate: "2026-06-01"
+pubDate: "2026-07-26"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
 tags: ["CuidadoMascotas","SaludMascotas","Gato Abisinio (Abyssinian)"]

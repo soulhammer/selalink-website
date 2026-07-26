@@ -2,7 +2,7 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "시츄의 단두종 호흡·안구 신호 해석과 열사병 및 각막 관리 3단계 데일리 케어"
 description: "사랑스러운 명품 견종 시츄(Shih Tzu). 역재채기 및 눈 비비기 신호 해석, 단두종 열사병 예방과 각막·귀 관리를 위한 3단계 홈케어 루틴을 소개합니다."
-pubDate: "2026-06-01"
+pubDate: "2026-07-26"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
 tags: ["반려동물","펫케어","시츄 (Shih Tzu)"]
