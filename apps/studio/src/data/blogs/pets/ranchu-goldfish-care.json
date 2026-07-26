@@ -1,0 +1,516 @@
+{
+    "ranchu-goldfish-care": {
+        "pubDate": "2026-07-26",
+        "updatedDate": "2026-07-26",
+        "locales": {
+            "ko": {
+                "title": "란츄 금붕어의 수면 뻐끔거림·뒤집힘 신호 해석과 부레병·육혹 감염 예방을 위한 3단계 데일리 케어",
+                "description": "동글동글 귀여운 관상용 금붕어 왕자 란츄(Ranchu Goldfish). 수면 뻐끔거림과 뒤집힘/바닥 누움 신호 해석, 침강성 사료 급여, 수질 관리 및 부레병 예방을 위한 3단계 홈케어 루틴을 소개합니다.",
+                "authority": "일본 금붕어 협회 (JGA) 및 국제 관상어 협회 (OFI) 사육 프로토콜",
+                "profile": {
+                    "breed": "란츄 금붕어 (Ranchu Goldfish / Carassius auratus)",
+                    "lifespan": "10 ~ 15년 (올바른 케어 시 15년 이상)",
+                    "sleep_pattern": "8 ~ 10시간 (주행성, 야간 수조 바닥이나 구조물 근처 휴식)",
+                    "temperament": "온순함, 느림, 평화로움, 사회적임, 둔함"
+                },
+                "intro": "둥근 체형과 등지느러미가 없고 머리의 육혹(Wen)이 매력적인 란츄(Ranchu)는 '금붕어의 왕'이라 불리며 전 세계 관상어 애호가들에게 사랑받는 대표적인 난주형 금붕어입니다. 란츄는 개량 품종 특유의 짧고 압축된 체형 구조로 인해 장기가 압박받기 쉬워, 공기를 마시며 부유성 사료를 섭취하거나 소화 불량이 발생할 경우 수영 중심을 잃는 '부레병(Swim Bladder Disorder)'에 매우 취약합니다. 또한 등지느러미가 없어 헤엄치는 힘이 약해 강한 수류에 쉽게 지치며, 배설량이 많아 수질이 조금만 악화되어도 여과력 부족으로 암모니아 중독이나 머리 육혹에 세균성 감염이 발생합니다. 오늘 PetSelf에서는 란츄 금붕어의 바디 랭귀지를 정확히 읽어내고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.",
+                "whyTitle": "란츄 금붕어의 바디 랭귀지: 수면 뻐끔거림(Surface Gulping)과 몸 뒤집힘/바닥 누움(Swim Bladder Disorder / Bottom Sitting)",
+                "whyDesc": "란츄는 수영 자세와 수조 내 위치로 수질 상태와 건강 이상을 명확히 표현합니다. 수면 위로 주둥이를 내밀고 계속 공기를 삼키는 **'수면 뻐끔거림(Surface Gulping / Pipe-lining)'**은 용존 산소 부족, 암모니아·질산염 수치 상승 또는 에어레이션(산소 공급) 부족을 나타내는 긴급 신호입니다. 반면 수조 바닥에 힘없이 누워 있거나 몸이 뒤집힌 채 수면으로 떠오르는 **'뒤집힘 및 바닥 누움(Swim Bladder Disorder / Bottom Sitting)'**은 부레 기능 이상, 변비로 인한 장 압박, 또는 수온 급변에 따른 쇼크 신호입니다.",
+                "body_signals": [
+                    {
+                        "name": "수면 위로 주둥이를 내밀고 계속 공기를 삼킴 (Surface Gulping)",
+                        "meaning": "수조 내 용존 산소 부족, 수질 오염(암모니아/아질산염 상승) 또는 에어레이션 부족 신호입니다.",
+                        "response": "즉시 에어펌프 산소 공급을 강화하고, 암모니아 수치를 측정한 후 20~30% 부분 환수를 실시합니다."
+                    },
+                    {
+                        "name": "몸이 뒤집힌 채 떠오르거나 바닥에 누워 움직이지 않음 (Swim Bladder Sign / Bottom Sitting)",
+                        "meaning": "부유성 사료 섭취로 인한 공기 흡입, 변비, 급격한 수온 하강으로 인한 부레 장애 신호입니다.",
+                        "response": "1~2일간 금식 후 삶은 콩(껍질 벗긴 완두콩)을 급여해 소화를 돕고, 침강성 사료로 전환하며 수온(18~23°C)을 안정적으로 유지합니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 수온(18°C~23°C) 점검 및 불린 침강성 사료 급여",
+                        "text": "수조 온도와 여과기 작동을 확인하고, 공기 삼킴으로 인한 부레병을 예방하기 위해 물에 불린 침강성 전용 펠릿을 적량 급여합니다."
+                    },
+                    {
+                        "name": "낮: 수류 강도 점검 및 수질 투명도 모니터링",
+                        "text": "등지느러미가 없어 수영이 서툰 란츄가 체력을 소모하지 않도록 여과기 출수량을 약하게 조절하고, 수질 상태를 관찰합니다."
+                    },
+                    {
+                        "name": "저녁: 잔여 사료·배설물 사이펀 청소 및 8~10시간 소등 주기 유지",
+                        "text": "수질 오염과 암모니아 상승을 막기 위해 바닥재의 배설물과 잔여 사료를 사이펀으로 제거하고, 밤에는 조명을 꺼서 휴식을 유도합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "란츄가 자꾸 몸을 뒤집고 수면에 떠있는데 부레병인가요? 어떻게 치료하나요?",
+                        "answer": "네, 란츄의 체형 특성상 발생하는 전형적인 부레병(Swim Bladder Disorder) 증상입니다. 부유성 사료를 먹으며 공기를 함께 삼키거나, 변비로 소화관이 확장되어 부레를 누를 때 주로 발생합니다. 치료를 위해 즉시 1~2일간 금식시킨 후, 삶아서 껍질을 벗긴 완두콩을 잘게 부수어 급여하면 장운동 촉진에 효과적입니다. 평소에는 물에 푹 불린 침강성 사료를 급여해야 합니다."
+                    },
+                    {
+                        "question": "란츄를 제브라다니오나 메다카, 유선형 금붕어(코메트)와 합사해도 되나요?",
+                        "answer": "절대 합사하면 안 됩니다! 란츄는 등지느러미가 없고 몸이 둥글어 헤엄치는 속도가 매우 느립니다. 헤엄이 빠른 유선형 금붕어나 수초어항의 소형어와 합사할 경우 란츄는 먹이 경쟁에서 완전히 밀려 기아 상태에 빠지며, 머리의 매력적인 육혹(Wen)을 공격당해 상처와 감염이 생길 수 있습니다. 란츄는 란츄끼리, 혹은 비슷한 난주형 금붕어와만 합사해야 합니다."
+                    }
+                ],
+                "tags": [
+                    "란츄",
+                    "금붕어케어",
+                    "부레병예방",
+                    "관상어사육"
+                ]
+            },
+            "en": {
+                "title": "Ranchu Goldfish Behavioral Signals and 3-Step Daily Routine for Swim Bladder Disorder and Wen Infection Prevention",
+                "description": "Care guide for the adorable Ranchu Goldfish. Interpret surface air gulping and swim bladder floating/bottom sitting, manage sinking diets, and maintain water quality in 3 steps.",
+                "authority": "Japan Goldfish Association (JGA) & Ornamental Fish International (OFI) Standards",
+                "profile": {
+                    "breed": "Ranchu Goldfish (Carassius auratus)",
+                    "lifespan": "10 - 15+ Years",
+                    "sleep_pattern": "8 - 10 Hours (Diurnal, rests near the aquarium bottom or plants at night)",
+                    "temperament": "Gentle, Slow Swimmer, Peaceful, Social, Fragile"
+                },
+                "intro": "Revered as the 'King of Goldfish' for their rounded egg-shaped body, lack of a dorsal fin, and prominent headgrowth (Wen), Ranchu Goldfish (Carassius auratus) are iconic ornamental fish beloved worldwide. However, their highly compressed body structure leaves their internal organs compacted, making them extremely susceptible to 'Swim Bladder Disorder' if they gulp air while eating floating pellets or suffer from constipation. Furthermore, missing a dorsal fin makes them weak swimmers easily exhausted by strong filter currents, while their high waste output requires robust filtration to prevent ammonia spikes and bacterial infections in their delicate headgrowth. Today, PetSelf presents a 3-step daily care routine to read your Ranchu's signals and protect its health.",
+                "whyTitle": "Ranchu Goldfish Body Language: Surface Gulping and Swim Bladder Floating / Bottom Sitting",
+                "whyDesc": "Ranchu communicate water quality issues and physical distress through swimming posture and positioning. Thrusting their mouths at the surface to swallow air **'Surface Gulping (Pipe-lining)'** is an urgent warning of depleted dissolved oxygen, rising ammonia/nitrite levels, or insufficient aeration. Conversely, lying helpless on the substrate or floating upside down at the surface **'Swim Bladder Disorder / Bottom Sitting'** indicates swim bladder dysfunction, intestinal constipation, or temperature shock.",
+                "body_signals": [
+                    {
+                        "name": "Gulping Air Repeatedly at the Surface (Surface Gulping)",
+                        "meaning": "A critical signal of low dissolved oxygen, water pollution (ammonia/nitrite spikes), or inadequate aeration.",
+                        "response": "Immediately increase aeration with an air pump, test ammonia levels, and perform a 20–30% partial water change."
+                    },
+                    {
+                        "name": "Floating Upside Down or Lying Motionless on the Bottom (Swim Bladder Sign / Bottom Sitting)",
+                        "meaning": "Indicates swim bladder impairment caused by ingesting air with floating pellets, digestive constipation, or cold temperature shock.",
+                        "response": "Fast the fish for 1–2 days, feed deshelled cooked green peas to aid digestion, switch permanently to sinking pellets, and stabilize water temperature (18°C–23°C / 64°F–73°F)."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Water Temp (18°C–23°C) Check & Soaked Sinking Pellet Feeding",
+                        "text": "Verify water temperature and filter operation, feeding pre-soaked sinking pellets to prevent air ingestion and swim bladder issues."
+                    },
+                    {
+                        "name": "Afternoon: Filter Flow Rate Check & Water Clarity Monitoring",
+                        "text": "Adjust filter outflow to a gentle current so the slow-swimming Ranchu does not get exhausted, observing water clarity."
+                    },
+                    {
+                        "name": "Evening: Siphon Waste/Uneaten Food & Maintain 8–10 Hour Sleep Cycle",
+                        "text": "Siphon out waste and uneaten food from the bottom to prevent ammonia spikes, turning off lights at night to ensure adequate rest."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Why is my Ranchu floating upside down or stuck at the surface? Is it swim bladder disease?",
+                        "answer": "Yes, this is classic Swim Bladder Disorder, highly common due to the Ranchu's compact body shape. It is usually caused by air ingestion from floating pellets or constipation pressing against the swim bladder. To treat it, fast the fish for 1–2 days, then feed crushed cooked deshelled green peas to promote bowel movement. Always use pre-soaked sinking pellets for daily feeding."
+                    },
+                    {
+                        "question": "Can I keep Ranchu Goldfish with fast-swimming fish like Comets or Zebra Danios?",
+                        "answer": "No, never house them together! Ranchu lack a dorsal fin and have heavy bodies, making them very slow swimmers. Streamlined goldfish (like Comets) or fast tropical fish will easily outcompete Ranchu for food, leaving them malnourished, and may nip at their delicate headgrowth (Wen), causing severe injuries and bacterial infections. Keep Ranchu only with other Ranchu or similar fancy goldfish."
+                    }
+                ],
+                "tags": [
+                    "RanchuGoldfish",
+                    "GoldfishCare",
+                    "SwimBladderPrevention",
+                    "OrnamentalFishCare"
+                ]
+            },
+            "ja": {
+                "title": "ランチュウ（蘭鋳）の表面パクパク・転覆サイン解読と転覆病・肉瘤感染予防のための3ステップデイリールーティン",
+                "description": "丸い体が愛らしい観賞魚の王様、ランチュウ（Ranchu Goldfish）。水面での空気パクパクや転覆・着底サインの解読、沈下性フード給餌、水質管理および転覆病予防のための3ステップホームケアを紹介します。",
+                "authority": "日本金魚協会 (JGA) および 国際観賞魚協会 (OFI) 飼育基準",
+                "profile": {
+                    "breed": "ランチュウ / 蘭鋳 (Ranchu Goldfish / Carassius auratus)",
+                    "lifespan": "10 〜 15年 (適切なケアで15年以上)",
+                    "sleep_pattern": "8 〜 10時間 (昼行性、夜間は水槽底や構造物付近で休む)",
+                    "temperament": "温和、泳ぎが遅い、平和的、社交的、デリケート"
+                },
+                "intro": "丸い卵型の体型と背ヒレのない姿、頭部の立派な肉瘤（Wen）が魅力的なランチュウ（蘭鋳）は、「金魚の王様」と称され世界中で愛されている高級観賞魚です。ランチュウは品種改良による短く圧縮された体型のため内臓が圧迫されやすく、浮上性ペレットを食べて空気を取り込んだり消化不良を起こすと、遊泳バランスを崩す「転覆病（Swim Bladder Disorder）」に極めてかかりやすい特徴があります。また、背ヒレがないため泳ぐ力が弱く強い水流に疲弊しやすい上、フンが多く水質が悪化するとアンモニア中毒や肉瘤の細菌感染を引き起こします。本日PetSelfでは、ランチュウのサインを正確に読み解き、健康を守る3ステップルーティンをお届けします。",
+                "whyTitle": "ランチュウのボディランゲージ：水面パクパク(Surface Gulping)と転覆・着底(Swim Bladder Disorder / Bottom Sitting)",
+                "whyDesc": "ランチュウは泳ぎの姿勢や水槽内の位置で水質状態や体調不良を明確に表現します。水面に口を出して頻繁に空気を取り込む**「水面パクパク（Surface Gulping / 鼻上げ）」**は、溶存酸素の不足、アンモニア・亜硝酸濃度の上昇、またはエアレーション不足を示す緊急サインです。一方、水槽の底に横たわったり体がひっくり返って浮き上がる**「転覆・着底（転覆病 / Bottom Sitting）」**は、鰾（ひょう）の機能障害、便秘による腸の圧迫、または水温急変によるショックサインです。",
+                "body_signals": [
+                    {
+                        "name": "水面に口を出して繰り返し空気を呑み込む (Surface Gulping)",
+                        "meaning": "酸欠、水質汚染（アンモニア/亜硝酸濃度の上昇）、またはエアレーション不足の緊急サインです。",
+                        "response": "すぐにエアポンプで酸素供給を強化し、アンモニア濃度を測定して20〜30%の水換えを行ってください。"
+                    },
+                    {
+                        "name": "体がひっくり返って浮く、または底に横たわって動かない (転覆サイン / Bottom Sitting)",
+                        "meaning": "浮上性フード摂取による空気呑み込み、便秘、水温急降下による転覆病（浮鰾障害）のサインです。",
+                        "response": "1〜2日間絶食させた後、茹でて皮をむいたグリーンピースを与えて消化を促し、沈下性フードへ切り替えて水温（18〜23°C）を安定させてください。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：水温（18°C〜23°C）の確認とふやかした沈下性フードの給餌",
+                        "text": "水温とフィルターの作動を確認し、空気呑み込みによる転覆病を防ぐため、水でふやかした沈下性ペレットを与えます。"
+                    },
+                    {
+                        "name": "昼：水流強度の調整と水質の透明度モニタリング",
+                        "text": "背ヒレがなく泳ぎが得意でないランチュウが体力を消耗しないよう、水流を弱く調整して水質を観察します。"
+                    },
+                    {
+                        "name": "夜：残餌・フンのプロホース（サイフォン）清掃と8〜10時間の消灯",
+                        "text": "アンモニア上昇を防ぐため底砂のフンや残餌を吸い出し、夜間は照明を消して十分な休養をとらせます。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "ランチュウがひっくり返って水面に浮いてしまいます。転覆病でしょうか？治療法は？",
+                        "answer": "はい、ランチュウの丸い体型に多く見られる典型的な「転覆病」の症状です。浮上性フードと一緒に空気を呑み込んだり、便秘で膨らんだ消化管が鰾を圧迫することで起こります。治療にはまず1〜2日絶食させ、茹でて皮をむいたグリーンピースを細かく潰して与えると腸の蠕動運動が促されます。日常の餌は必ずあらかじめ水でふやかした沈下性ペレットをご使用ください。"
+                    },
+                    {
+                        "question": "ランチュウをコメットや和金、ゼブラダニオなどの泳ぎが速い魚と混泳させてもいいですか？",
+                        "answer": "絶対に混泳させてはいけません！ランチュウは背ヒレがなく体が重いため、泳ぐスピードが非常に遅いです。和金やコメットなどの長手型の金魚や素早い小型魚と混泳させると、餌を横取りされて餓死状態になる上、自慢の肉瘤（Wen）をつつかれて傷や細菌感染を起こす危険があります。ランチュウはランチュウ同士、または同じ高級肉瘤系金魚のみで飼育してください。"
+                    }
+                ],
+                "tags": [
+                    "ランチュウ",
+                    "蘭鋳ケア",
+                    "転覆病予防",
+                    "金魚飼育"
+                ]
+            },
+            "zh": {
+                "title": "兰寿金鱼（Ranchu Goldfish）水面浮头与翻浮信号解读及失鳔病与头肉感染预防的3步日常流程",
+                "description": "体型圆润的观赏金鱼之王兰寿金鱼（Ranchu Goldfish）护理指南。解读水面吞气浮头与翻浮沉底信号，投喂沉底饲料，管理水质及预防失鳔病的3步骤家庭护理。",
+                "authority": "日本金鱼协会 (JGA) 与 国际观赏鱼协会 (OFI) 饲育标准",
+                "profile": {
+                    "breed": "兰寿金鱼 (Ranchu Goldfish / Carassius auratus)",
+                    "lifespan": "10 ~ 15年 (科学饲养可达15年以上)",
+                    "sleep_pattern": "8 ~ 10小时 (昼行性，夜间在缸底或水草旁休息)",
+                    "temperament": "温和、游速缓慢、和平、喜群居、娇嫩"
+                },
+                "intro": "凭借圆润如蛋形的体态、无背鳍的独特身姿以及头部高高耸起的头肉（肉瘤/Wen），兰寿金鱼（Ranchu）被誉为“金鱼之王”，深受全球观赏鱼爱好者的喜爱。然而，由于经过人工选育的短圆压缩体型，兰寿的内脏器官紧凑受压，若吞食浮水饲料吸入过多空气或发生便秘，极易引发游姿失衡的“失鳔病 (Swim Bladder Disorder)”。此外，缺失背鳍使其游泳能力较弱，易在强水流中耗尽体力；同时其排泄量大，水质一旦恶化极易引发氨中毒或头肉细菌性感染。今天 PetSelf 将带您准确解读兰寿金鱼的肢体语言，并通过3步骤日常护理维护其健康。",
+                "whyTitle": "兰寿金鱼肢体语言：水面浮头吞气 (Surface Gulping) 与翻浮/沉底 (Swim Bladder Disorder / Bottom Sitting)",
+                "whyDesc": "兰寿金鱼通过游姿与在水缸中的位置清晰表达水质状况与健康异常。在水面不断把嘴伸出水面吞咽空气**“水面浮头吞气 (Surface Gulping)”**，是缺氧、氨氮/亚硝酸盐浓度飙升或打气加氧不足的紧急信号。相反，无力地瘫软在缸底或身体翻转浮于水面**“翻浮/沉底 (失鳔病 / Bottom Sitting)”**，则是鱼鳔功能障碍、便秘压迫肠道或水温骤降引发的应激信号。",
+                "body_signals": [
+                    {
+                        "name": "在水面频繁伸出嘴巴吞咽空气 (Surface Gulping)",
+                        "meaning": "水中溶氧量不足、水质严重污染（氨/亚硝酸盐飙升）或氧气泵气量不足的紧急信号。",
+                        "response": "立即开启打气泵加强溶氧，检测氨氮指标并进行 20%~30% 的换水。"
+                    },
+                    {
+                        "name": "身体翻转肚皮朝上浮起或沉在缸底不动 (失鳔信号 / Bottom Sitting)",
+                        "meaning": "因吞食浮水粮吸入气体、便秘或水温骤降导致的失鳔症（鱼鳔功能失调）。",
+                        "response": "停食 1~2 天，投喂煮熟去皮的豌豆碎以促进肠道蠕动，全面改用沉水饲料，并稳定水温（18°C~23°C）。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：水温（18°C~23°C）检查与投喂泡软的沉水饲料",
+                        "text": "检查水温与过滤器运转，投喂预先用水泡软的沉水型专用颗粒，防止因吞咽空气引发失鳔病。"
+                    },
+                    {
+                        "name": "中午：水流强度调节与水质澄清度监控",
+                        "text": "无背鳍的兰寿游速较慢，应调小过滤器出水量以防其体力耗尽，并观察水质透明度。"
+                    },
+                    {
+                        "name": "晚上：抽吸残渣粪便与保持 8~10 小时关灯休息",
+                        "text": "用换水吸污管清理底砂中的粪便与残粮以防氨氮上升，夜间关闭照明保证其充足休息。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "兰寿经常肚皮朝上浮在水面，是得了失鳔病吗？如何治疗？",
+                        "answer": "是的，这是兰寿因体型短圆而极易发生的典型失鳔病（Swim Bladder Disorder）。主要原因是吞食浮水粮时吸入空气，或便秘导致肠道膨胀压迫鱼鳔。治疗时应先停食 1~2 天，然后投喂煮熟去皮并压碎的青豌豆以帮助排便。日常喂食必须使用预先泡软的沉底颗粒饲料。"
+                    },
+                    {
+                        "question": "可以把兰寿和草金鱼、草金/草包或斑马鱼混养吗？",
+                        "answer": "绝对不能混养！兰寿没有背鳍且体型笨重，游动速度非常缓慢。如果与游速极快流线型的草金鱼或小型热带鱼混养，兰寿在抢食中会彻底处于劣势导致营养不良，且其娇嫩的头肉（肉瘤）很容易被其他鱼啃咬，造成严重创伤与细菌感染。兰寿只适合与同类或体型相似的蛋种金鱼混养。"
+                    }
+                ],
+                "tags": [
+                    "兰寿金鱼",
+                    "金鱼护理",
+                    "失鳔病预防",
+                    "观赏鱼饲养"
+                ]
+            },
+            "es": {
+                "title": "Señales de conducta en el Pez Ranchu y rutina diaria de 3 pasos para la prevención de la vejiga natatoria e infecciones del capuchón",
+                "description": "Guía de cuidado para el adorable Pez Ranchu (Ranchu Goldfish). Interprete el boqueo en la superficie y la flotación por trastorno de vejiga natatoria, controle piensos hundibles y mantenga el agua en 3 pasos.",
+                "authority": "Asociación Japonesa del Pez Dorado (JGA) y Normas de Ornamental Fish International (OFI)",
+                "profile": {
+                    "breed": "Pez Dorado Ranchu (Ranchu Goldfish / Carassius auratus)",
+                    "lifespan": "10 - 15+ años",
+                    "sleep_pattern": "8 - 10 horas (Diurno, descansa cerca del fondo o plantas por la noche)",
+                    "temperament": "Pacífico, Nadador lento, Tranquilo, Social, Delicado"
+                },
+                "intro": "Considerado el 'Rey de los Peces Dorados' por su cuerpo redondeado en forma de huevo, la ausencia de aleta dorsal y su prominente crecimiento cefálico (Wen), el Pez Ranchu (Carassius auratus) es una joya ornamental admirada en todo el mundo. Sin embargo, su anatomía acortada comprime sus órganos internos, haciéndolo extremadamente susceptible al 'Trastorno de la Vejiga Natatoria' si traga aire al comer escamas/pellets flotantes o si sufre estreñimiento. Además, la falta de aleta dorsal dificulta su nado frente a corrientes fuertes, y su gran volumen de desechos requiere un filtrado eficiente para prevenir picos de amoníaco e infecciones bacterianas en su capuchón cefálico. Hoy, PetSelf presenta una rutina de 3 pasos para proteger su salud.",
+                "whyTitle": "Lenguaje corporal del Pez Ranchu: Boqueo en superficie y flotación boca arriba / reposo en el fondo",
+                "whyDesc": "Los peces Ranchu comunican la calidad del agua y el malestar físico mediante su postura al nadar y su posición en el acuario. Tragar aire desesperadamente en la superficie **'Boqueo en superficie (Surface Gulping)'** es una alerta urgente de falta de oxígeno disuelto, picos de amoníaco/nitritos o aireación insuficiente. Por el contrario, yacer inerte en el fondo o flotar boca arriba **'Trastorno de vejiga natatoria / Reposo en el fondo'** indica disfunción de la vejiga natatoria, estreñimiento intestinal o choque térmico.",
+                "body_signals": [
+                    {
+                        "name": "Boquear y tragar aire continuamente en la superficie (Surface Gulping)",
+                        "meaning": "Señal crítica de bajo oxígeno disuelto, agua contaminada (amoniaco/nitritos elevados) o aireación deficiente.",
+                        "response": "Aumente de inmediato la oxigenación con un aireador, mida los niveles de amoniaco y realice un cambio parcial de agua del 20–30%."
+                    },
+                    {
+                        "name": "Flotar boca arriba o yacer inmóvil en el fondo del acuario (Trastorno de vejiga natatoria / Reposo en el fondo)",
+                        "meaning": "Indica disfunción de la vejiga natatoria por ingerir aire con comida flotante, estreñimiento o choque por agua fría.",
+                        "response": "Deje al pez en ayuno 1–2 días, ofrézcale guisantes cocidos sin piel para estimular la digestión, use solo alimento hundible y mantenga la temperatura estable (18°C–23°C)."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Control de temperatura del agua (18°C–23°C) y alimentación con pellets hundibles remojados",
+                        "text": "Verifique la temperatura e inspeccione el filtro, alimentando con pellets hundibles previamente remojados en agua para evitar que trague aire."
+                    },
+                    {
+                        "name": "Tarde: Ajuste del flujo del filtro y control de la claridad del agua",
+                        "text": "Ajuste la salida del filtro a un caudal suave para que el lento pez Ranchu no se agote, observando la transparencia del agua."
+                    },
+                    {
+                        "name": "Noche: Sifonado de excrementos/comida sobrante y ciclo de luz de 8–10 horas",
+                        "text": "Sifone los residuos del fondo para evitar amoniaco y apague las luces durante la noche para garantizar un descanso adecuado."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Por qué mi pez Ranchu flota panza arriba en la superficie? ¿Es vejiga natatoria?",
+                        "answer": "Sí, es el clásico Trastorno de la Vejiga Natatoria (Swim Bladder Disorder), muy común en los Ranchu por su cuerpo compacto. Suele deberse a tragar aire al comer piensos flotantes o al estreñimiento que presiona la vejiga. Para tratarlo, mantenga al pez en ayunas 1–2 días y luego alimente con guisantes cocidos, pelados y troceados. Use siempre alimento hundible remojado previamente."
+                    },
+                    {
+                        "question": "¿Puedo mantener peces Ranchu con peces rápidos como Cometas o Danios Cebra?",
+                        "answer": "¡Jamás deben convivir! Los Ranchu no tienen aleta dorsal y su cuerpo pesado los convierte en nadadores muy lentos. Los peces de cuerpo estilizado o rápidos ganarán siempre en la competencia por la comida, dejando al Ranchu desnutrido, e incluso podrían morder su capuchón (Wen), causando heridas e infecciones graves. Mantenga al Ranchu solo con otros Ranchu o peces de cuerpo redondo similares."
+                    }
+                ],
+                "tags": [
+                    "PezRanchu",
+                    "CuidadoDePecesDorados",
+                    "PrevencionVejigaNatatoria",
+                    "PecesOrnamentales"
+                ]
+            },
+            "fr": {
+                "title": "Signaux comportementaux du Poisson Rouge Ranchu et routine quotidienne en 3 étapes pour la prévention des troubles de la vessie natatoire et des infections du capuchon",
+                "description": "Guide de soins pour l'adorable Poisson Rouge Ranchu. Décryptez le gobetage en surface et la flottaison due à la vessie natatoire, gérez les granulés coulants et maintenez la qualité de l'eau en 3 étapes.",
+                "authority": "Japan Goldfish Association (JGA) & Normes de l'Ornamental Fish International (OFI)",
+                "profile": {
+                    "breed": "Poisson Rouge Ranchu (Ranchu Goldfish / Carassius auratus)",
+                    "lifespan": "10 - 15+ ans",
+                    "sleep_pattern": "8 - 10 heures (Diurne, repose près du fond ou des plantes la nuit)",
+                    "temperament": "Paisible, Nageur lent, Calme, Sociable, Fragile"
+                },
+                "intro": "Surnommé le 'Roi des Poissons Rouges' pour son corps ovoïde, l'absence de nageoire dorsale et son imposante croissance céphalique (Wen), le Ranchu (Carassius auratus) est un poisson d'ornement très prisé. Cependant, sa morphologie ramassée compresse ses organes internes, le rendant très vulnérable au 'Trouble de la Vessie Natatoire' s'il avale de l'air en mangeant des granulés flottants ou s'il souffre de constipation. De plus, l'absence de nageoire dorsale ralentit sa nage et le fatigue vite face aux courants forts, tandis que ses rejets importants exigent une filtration efficace pour éviter les pics d'ammoniac et les infections du capuchon. Aujourd'hui, PetSelf vous présente une routine en 3 étapes.",
+                "whyTitle": "Langage corporel du Ranchu : Gobetage en surface et flottaison sur le dos / repos au fond",
+                "whyDesc": "Les Ranchus expriment la qualité de l'eau et leur inconfort par leur posture de nage et leur position dans l'aquarium. Gober de l'air désespérément à la surface **« Gobetage en surface (Surface Gulping) »** est une alerte urgente de manque d'oxygène dissous, de pic d'ammoniac/nitrites ou de brassage insuffisant. Inversement, rester immobile au fond ou flotter le ventre en l'air **« Trouble de la vessie natatoire / Repos au fond »** indique un dysfonctionnement de la vessie natatoire, une constipation ou un choc thermique.",
+                "body_signals": [
+                    {
+                        "name": "Gober de l'air de façon répétée à la surface (Surface Gulping)",
+                        "meaning": "Signal critique de manque d'oxygène, de pollution de l'eau (ammoniac/nitrites élevés) ou d'aération insuffisante.",
+                        "response": "Augmentez immédiatement l'aération avec un bulleur, contrôlez l'ammoniac et effectuez un changement d'eau partiel de 20 à 30 %."
+                    },
+                    {
+                        "name": "Flotter sur le dos ou rester immobile au fond (Trouble de la vessie natatoire / Repos au fond)",
+                        "meaning": "Indique un problème de vessie natatoire causé par l'ingestion d'air avec la nourriture flottante, une constipation ou un choc thermique.",
+                        "response": "Mettez le poisson à la diète 1 à 2 jours, donnez des petits pois cuits sans peau pour favoriser le transit, passez aux granulés coulants et stabilisez la température (18°C–23°C)."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Contrôle de la température (18°C–23°C) et nourrissage avec granulés coulants réhydratés",
+                        "text": "Vérifiez la température et le filtre, puis distribuez des granulés coulants préalablement trempés dans l'eau pour éviter qu'il n'avale de l'air."
+                    },
+                    {
+                        "name": "Après-midi : Réglage du débit du filtre et contrôle de la limpidité de l'eau",
+                        "text": "Ajustez le rejet du filtre sur un courant doux pour ne pas épuiser ce nageur lent, tout en contrôlant la clarté de l'eau."
+                    },
+                    {
+                        "name": "Soir : Siphonage des déchets/restes et maintien d'un cycle de sommeil de 8–10 heures",
+                        "text": "Aspirez les déjections et restes de nourriture au fond pour éviter les pics d'ammoniac et éteignez la lumière la nuit pour son repos."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mon Ranchu flotte le ventre en l'air à la surface, est-ce la maladie de la vessie natatoire ?",
+                        "answer": "Oui, c'est le Trouble classique de la Vessie Natatoire (Swim Bladder Disorder), très fréquent chez le Ranchu en raison de sa forme trapue. Il survient quand le poisson avale de l'air avec de la nourriture flottante ou lorsqu'une constipation presse la vessie. Pour soigner cela, faites-le jeûner 1 à 2 jours puis donnez-lui des petits pois cuits et écrasés sans peau. Nourrissez-le uniquement avec des granulés coulants réhydratés."
+                    },
+                    {
+                        "question": "Puis-je faire cohabiter des Ranchus avec des poissons rapides comme les Comètes ou les Danio Zèbres ?",
+                        "answer": "Absolument pas ! Le Ranchu est privé de nageoire dorsale et possède un corps lourd, ce qui en fait un nageur très lent. Les poissons effilés ou rapides mangeront toute la nourriture avant lui, le laissant dénutri, et risquent de béqueter son capuchon céphalique (Wen), provoquant des blessures et des infections graves. Gardez le Ranchu uniquement avec d'autres Ranchus ou poissons japonais similaires."
+                    }
+                ],
+                "tags": [
+                    "PoissonRougeRanchu",
+                    "SoinDesPoissonsRouges",
+                    "PreventionVessieNatatoire",
+                    "PoissonsDOrnement"
+                ]
+            },
+            "de": {
+                "title": "Verhaltenssignale beim Ranchu-Goldfisch und 3-Schritte-Tagesroutine zur Vorbeugung von Schwimmblasenproblemen und Wen-Infektionen",
+                "description": "Pflegeanleitung für den beliebten Ranchu-Goldfisch. Nach Luft Schnappen an der Oberfläche und Kippen/Bodenliegen verstehen, Sinkfutter füttern und Wasserqualität in 3 Schritten sichern.",
+                "authority": "Japan Goldfish Association (JGA) & Standards von Ornamental Fish International (OFI)",
+                "profile": {
+                    "breed": "Ranchu-Goldfisch (Ranchu Goldfish / Carassius auratus)",
+                    "lifespan": "10 - 15+ Jahre",
+                    "sleep_pattern": "8 - 10 Stunden (Tagaktiv, ruht nachts am Beckenboden oder bei Pflanzen)",
+                    "temperament": "Friedlich, Langsamer Schwimmer, Ruhig, Gesellig, Empfindlich"
+                },
+                "intro": "Wegen seines eiförmigen Körpers, der fehlenden Rückenflosse und des ausgeprägten Kopfwachstums (Wen) wird der Ranchu-Goldfisch (Carassius auratus) auch als 'König der Goldfische' bezeichnet. Durch seinen gestauchten Körperbau sind die inneren Organe jedoch sehr eng gelagert, was ihn extrem anfällig für 'Schwimmblasenstörungen' macht, wenn er beim Fressen von Schwimmfutter Luft schluckt oder an Verstopfung leidet. Zudem ermüdet der Ranchu ohne Rückenflosse in starker Strömung schnell, und seine hohen Ausscheidungen erfordern eine starke Filterung, um Ammoniakspitzen und Bakterieninfektionen am Kopfaufsatz zu verhindern. Heute zeigt PetSelf eine 3-Schritte-Routine für die Gesundheit Ihres Ranchus.",
+                "whyTitle": "Körpersprache des Ranchu: Nach Luft Schnappen und Kippen / Bodenliegen",
+                "whyDesc": "Ranchus drücken Wasserprobleme und körperliches Unwohlsein über ihre Schwimmhaltung und Position im Aquarium aus. Hektisches Schnappen an der Wasseroberfläche **'Nach Luft Schnappen (Surface Gulping)'** ist ein Notsignal für Sauerstoffmangel, hohe Ammoniak-/Nitritwerte oder mangelnde Durchlüftung. Das hilflose Liegen am Boden oder das Treiben mit dem Bauch nach oben **'Schwimmblasenstörung / Bodenliegen'** deutet dagegen auf Schwimmblasenprobleme, Verstopfung oder einen Temperaturschock hin.",
+                "body_signals": [
+                    {
+                        "name": "Wiederholtes Schnappen nach Luft an der Wasseroberfläche (Surface Gulping)",
+                        "meaning": "Kritisches Signal für Sauerstoffmangel, Wasserverschmutzung (hohes Ammoniak/Nitrit) oder unzureichende Belüftung.",
+                        "response": "Erhöhen Sie sofort die Sauerstoffzufuhr mit einem Ausströmer, testen Sie Ammoniak und führen Sie einen 20–30%igen Teilwasserwechsel durch."
+                    },
+                    {
+                        "name": "Kippen mit dem Bauch nach oben oder regloses Liegen am Boden (Schwimmblasensignal / Bodenliegen)",
+                        "meaning": "Anzeichen einer Schwimmblasenstörung durch Luftschlucken bei Schwimmfutter, Verstopfung oder Kälteschock.",
+                        "response": "Lassen Sie den Fisch 1–2 Tage fasten, füttern Sie gekochte, geschälte Erbsen zur Verdauungsförderung, steigen Sie auf Sinkfutter um und stabilisieren Sie die Temperatur (18 °C–23 °C)."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Wassertemperaturkontrolle (18 °C–23 °C) & Fütterung von eingeweichtem Sinkfutter",
+                        "text": "Prüfen Sie Temperatur und Filterfunktion und füttern Sie vorgequollenes Sinkfutter, um das Schlucken von Luft zu verhindern."
+                    },
+                    {
+                        "name": "Mittag: Einstellung der Filterströmung & Kontrolle der Wasserklarheit",
+                        "text": "Drosseln Sie den Filterauslass auf eine sanfte Strömung, damit der langsame Ranchu nicht ermüdet, und beobachten Sie das Wasser."
+                    },
+                    {
+                        "name": "Abend: Absaugen von Kot/Futterresten & 8–10 Stunden Nachtruhe einhalten",
+                        "text": "Saugen Sie Futterreste und Kot vom Boden ab, um Ammoniakspitzen zu vermeiden, und schalten Sie nachts das Licht für die Ruhephase aus."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mein Ranchu treibt mit dem Bauch nach oben an der Oberfläche. Ist das eine Schwimmblasenstörung?",
+                        "answer": "Ja, das ist das typische Symptom einer Schwimmblasenstörung (Swim Bladder Disorder), die durch den kompakten Körperbau des Ranchus begünstigt wird. Sie entsteht meist durch das Schlucken von Luft bei Schwimmfutter oder durch Verstopfung. Zur Behandlung lassen Sie den Fisch 1–2 Tage fasten und füttern dann zerdrückte, gekochte Erbsen ohne Schale. Füttern Sie im Alltag ausschließlich vorgequollenes Sinkfutter."
+                    },
+                    {
+                        "question": "Kann ich Ranchus zusammen mit schnellen Fischen wie Kometengoldfischen oder Zebrabärblingen halten?",
+                        "answer": "Nein, auf keinen Fall! Ranchus besitzen keine Rückenflosse und sind sehr langsame Schwimmer. Schnelle Goldfischformen oder flinke Tropenfische fressen dem Ranchu das Futter weg, sodass er verhungert, und knabbern oft am empfindlichen Kopfwachstum (Wen), was zu schweren Infektionen führt. Halten Sie Ranchus nur mit anderen Ranchus oder ähnlichen Hochzuchtgoldfischen."
+                    }
+                ],
+                "tags": [
+                    "RanchuGoldfisch",
+                    "Goldfischpflege",
+                    "SchwimmblasenProphylaxe",
+                    "Zierfischpflege"
+                ]
+            },
+            "pt": {
+                "title": "Sinais comportamentais do Peixe Ranchu e rotina diária de 3 passos para prevenção de distúrbios da bexiga natatória e infecções no capuchão",
+                "description": "Guia de cuidados para o adorável Peixe Ranchu (Ranchu Goldfish). Entenda o bocejo na superfície e a flutuação por bexiga natatória, administre ração de fundo e mantenha a água em 3 passos.",
+                "authority": "Associação Japonesa de Kinguios (JGA) & Padrões da Ornamental Fish International (OFI)",
+                "profile": {
+                    "breed": "Kinguio Ranchu (Ranchu Goldfish / Carassius auratus)",
+                    "lifespan": "10 - 15+ anos",
+                    "sleep_pattern": "8 - 10 horas (Diurno, descansa perto do fundo ou plantas à noite)",
+                    "temperament": "Dócil, Nadador lento, Pacífico, Social, Sensível"
+                },
+                "intro": "Reconhecido como o 'Rei dos Kinguios' por seu corpo arredondado em forma de ovo, ausência de nadadeira dorsal e protuberância cefálica prominente (Wen), o Kinguio Ranchu (Carassius auratus) é uma espécie ornamental admirada no mundo todo. Contudo, sua anatomia compacta comprime os órgãos internos, tornando-o muito suscetível ao 'Distúrbio da Bexiga Natatória' caso engula ar ao comer rações flutuantes ou sofra de constipação. Além disso, a falta da nadadeira dorsal dificulta o nado contra correntes fortes, e seu alto volume de dejetos exige filtragem eficiente para evitar picos de amônia e infecções bacterianas no capuchão. Hoje, o PetSelf apresenta uma rotina de 3 passos para cuidar da saúde do seu pet.",
+                "whyTitle": "Linguagem corporal do Peixe Ranchu: Bocejo na superfície e flutuação de barriga para cima / repouso no fundo",
+                "whyDesc": "Os peixes Ranchu comunicam problemas de água e desconforto físico pela postura ao nadar e posição no aquário. Engolir ar repetidamente na superfície **'Bocejo na superfície (Surface Gulping)'** é um alerta urgente de falta de oxigênio dissolvido, amônia/nitrito altos ou oxigenação insuficiente. Já ficar caído no fundo ou flutuar de barriga para cima **'Distúrbio da bexiga natatória / Repouso no fundo'** indica disfunção da bexiga natatória, constipação intestinal ou choque térmico.",
+                "body_signals": [
+                    {
+                        "name": "Engolir ar continuamente na superfície da água (Surface Gulping)",
+                        "meaning": "Sinal crítico de baixo oxigênio dissolvido, poluição da água (amônia/nitrito elevados) ou oxigenação deficiente.",
+                        "response": "Aumente imediatamente a oxigenação com compressores de ar, teste a amônia e faça uma troca parcial de água de 20 a 30%."
+                    },
+                    {
+                        "name": "Flutuar de barriga para cima ou ficar imóvel no fundo do aquário (Distúrbio da bexiga natatória / Repouso no fundo)",
+                        "meaning": "Indica alteração na bexiga natatória por ingerir ar com ração flutuante, constipação ou choque por água fria.",
+                        "response": "Deixe o peixe em jejum por 1 a 2 dias, ofereça ervilhas cozidas sem pele para estimular o intestino, mude para ração de fundo e estabilize a temperatura (18°C–23°C)."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Checagem da temperatura (18°C–23°C) e alimentação com ração de fundo hidratada",
+                        "text": "Verifique a temperatura e o filtro, fornecendo grãos de ração de fundo previamente amolecidos na água para evitar a ingestão de ar."
+                    },
+                    {
+                        "name": "Tarde: Ajuste do fluxo do filtro e monitoramento da transparência da água",
+                        "text": "Ajuste a saída do filtro para uma corrente suave para não cansar o lento Ranchu, observando a nitidez da água."
+                    },
+                    {
+                        "name": "Noite: Sifonagem de dejetos/sobras e manutenção do ciclo de iluminação de 8–10 horas",
+                        "text": "Sifone os resíduos do fundo para evitar acúmulo de amônia e apague as luzes à noite para garantir seu descanso."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Meu peixe Ranchu está flutuando de barriga para cima. É problema na bexiga natatória?",
+                        "answer": "Sim, é o clássico Distúrbio da Bexiga Natatória (Swim Bladder Disorder), comum no Ranchu devido ao seu formato compacto. Ocorre ao engolir ar com alimentos flutuantes ou por constipação pressionando a bexiga. Para tratar, deixe o peixe de jejum por 1 a 2 dias e depois ofereça ervilhas cozidas e amassadas sem pele. Sempre use ração afundável e pré-umedecida."
+                    },
+                    {
+                        "question": "Posso colocar peixes Ranchu junto com peixes rápidos como Cometas ou Paulistinhas?",
+                        "answer": "Nunca mantenha juntos! O Ranchu não tem nadadeira dorsal e tem corpo pesado, sendo um nadador muito lento. Peixes rápidos e esguios comerão toda a ração antes dele, deixando-o desnutrido, além de morder a delicada protuberância da cabeça (Wen), causando ferimentos e infecções graves. Mantenha o Ranchu apenas com outros Ranchus ou kinguios ornamentais de corpo redondo."
+                    }
+                ],
+                "tags": [
+                    "KinguioRanchu",
+                    "CuidadosComKinguios",
+                    "PrevencaoBexigaNatatoria",
+                    "PeixesOrnamentais"
+                ]
+            },
+            "id": {
+                "title": "Sinyal Perilaku Ikan Mas Ranchu dan Rutinitas Harian 3 Langkah Perawatan Gangguan Gelembung Renang serta Infeksi Jambul (Wen)",
+                "description": "Panduan perawatan Ikan Mas Ranchu (Ranchu Goldfish) yang menggemaskan. Pahami perilaku menggap-menggap di permukaan dan mengapung akibat gelembung renang, kelola pakan tenggelam, serta jaga kualitas air dalam 3 langkah.",
+                "authority": "Japan Goldfish Association (JGA) & Standar Perawatan Ornamental Fish International (OFI)",
+                "profile": {
+                    "breed": "Ikan Mas Ranchu (Ranchu Goldfish / Carassius auratus)",
+                    "lifespan": "10 - 15+ tahun",
+                    "sleep_pattern": "8 - 10 jam (Diurnal, beristirahat di dasar akuarium atau dekat tanaman pada malam hari)",
+                    "temperament": "Jinak, Perenang lambat, Damai, Sosial, Rentan"
+                },
+                "intro": "Dijuluki sebagai 'Raja Ikan Mas' karena bentuk tubuhnya yang bulat seperti telur, tidak memiliki sirip punggung, serta memiliki jambul (Wen) yang menonjol di kepala, Ikan Mas Ranchu (Carassius auratus) sangat populer di dunia hias. Namun, struktur tubuhnya yang memendek membuat organ dalamnya tertekan, sehingga sangat rentan terkena 'Gangguan Gelembung Renang' (Swim Bladder Disorder) jika menelan udara saat memakan pelet mengapung atau mengalami sembelit. Selain itu, ketiadaan sirip punggung membuat mereka lemah berenang dan mudah lelah oleh arus deras, sedangkan kotorannya yang banyak memerlukan filtrasi kuat untuk mencegah lonjakan amonia serta infeksi bakteri pada jambulnya. Hari ini, PetSelf membagikan 3 langkah rutinitas harian untuk merawat kesehatan ikan Ranchu Anda.",
+                "whyTitle": "Bahasa Tubuh Ikan Mas Ranchu: Menggap-Menggap di Permukaan dan Mengapung Terbalik / Diam di Dasar Akuarium",
+                "whyDesc": "Ikan Ranchu menyampaikan kondisi air dan masalah kesehatan melalui posisi berenang dan letak di akuarium. Mendorong mulut ke permukaan untuk menelan udara secara terus-menerus **'Menggap-Menggap di Permukaan (Surface Gulping)'** adalah peringatan darurat akan kurangnya oksigen terlarut, lonjakan amonia/nitrit, atau kurangnya aerasi. Sebaliknya, terbaring lemas di dasar atau mengapung terbalik di permukaan **'Gangguan Gelembung Renang / Diam di Dasar'** menandakan disfungsi gelembung renang, sembelit saluran pencernaan, atau pingsan akibat perubahan suhu mendadak.",
+                "body_signals": [
+                    {
+                        "name": "Menelan udara berulang kali di permukaan air (Surface Gulping)",
+                        "meaning": "Tanda kritis rendahnya oksigen terlarut, pencemaran air (lonjakan amonia/nitrit), atau aerasi yang tidak memadai.",
+                        "response": "Segera tingkatkan aerasi dengan pompa udara, tes kadar amonia, dan lakukan penggantian air sebagian sebanyak 20–30%."
+                    },
+                    {
+                        "name": "Mengapung terbalik atau terbaring tak bergerak di dasar akuarium (Gangguan Gelembung Renang / Diam di Dasar)",
+                        "meaning": "Menandakan gangguan gelembung renang akibat menelan udara dari pelet mengapung, sembelit, atau syok suhu dingin.",
+                        "response": "Puasakan ikan selama 1–2 hari, beri pakan kacang polong rebus tanpa kulit untuk membantu pencernaan, beralih ke pelet tenggelam, dan stabilkan suhu air (18°C–23°C)."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Pemeriksaan Suhu Air (18°C–23°C) & Pemberian Pelet Tenggelam yang Direndam",
+                        "text": "Periksa suhu air dan kinerja filter, beri pakan pelet tenggelam khusus yang sudah direndam air agar ikan tidak menelan udara."
+                    },
+                    {
+                        "name": "Siang: Pengaturan Arus Filter & Pemantauan Kejernihan Air",
+                        "text": "Atur keluaran filter ke arus yang lembut agar ikan Ranchu yang lambat berenang tidak kelelahan, serta amati kejernihan air."
+                    },
+                    {
+                        "name": "Malam: Penyiphonan Kotoran/Sisa Makanan & Pengaturan Sirkulasi Gelap 8–10 Jam",
+                        "text": "Sedot sisa pakan dan kotoran dari dasar agar amonia tidak melonjak, lalu matikan lampu pada malam hari untuk istirahat ikan."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mengapa ikan Ranchu saya mengapung terbalik di permukaan? Apakah itu penyakit gelembung renang?",
+                        "answer": "Ya, itu adalah gejala khas Gangguan Gelembung Renang (Swim Bladder Disorder) yang sangat umum terjadi karena bentuk tubuh Ranchu yang bulat memendek. Penyebab utamanya adalah menelan udara dari pelet mengapung atau sembelit yang menekan organ gelembung renang. Untuk mengobatinya, puasakan ikan selama 1–2 hari, lalu beri kacang polong hijau rebus tanpa kulit yang dihancurkan. Selalu gunakan pelet tenggelam yang sudah direndam air untuk pakan harian."
+                    },
+                    {
+                        "question": "Bolehkah saya menggabungkan Ikan Ranchu dengan ikan lincah seperti Ikan Komet atau Zebra Danio?",
+                        "answer": "Sangat tidak boleh digabung! Ranchu tidak memiliki sirip punggung dan tubuhnya berat, sehingga gerakan berenangnya sangat lambat. Ikan yang lincah atau berbentuk ramping akan selalu menghabiskan makanan sebelum Ranchu sempat makan, menyebabkan Ranchu kelaparan, serta berisiko menggigit jambul (Wen) kepala Ranchu hingga terluka dan infeksi bakteri parah. Pelihara Ranchu hanya bersama sesama Ranchu atau ikan mas hias bertubuh bulat serupa."
+                    }
+                ],
+                "tags": [
+                    "IkanRanchu",
+                    "PerawatanIkanMasHias",
+                    "PencegahanGelembungRenang",
+                    "IkanHias"
+                ]
+            }
+        },
+        "category": "CareSelf",
+        "app": "careself",
+        "formatVersion": 4,
+        "heroImage": "/images/blog/ranchu_goldfish_care.webp"
+    }
+}

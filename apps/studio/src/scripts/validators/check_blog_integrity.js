@@ -30,7 +30,9 @@ function logWarn(message) {
 }
 
 function logOk(message) {
-  console.log(`\x1b[32m✅ [OK] ${message}\x1b[0m`);
+  if (!process.env.SILENT) {
+    console.log(`\x1b[32m✅ [OK] ${message}\x1b[0m`);
+  }
 }
 
 // 헬퍼: frontmatter와 body 분리
@@ -333,14 +335,14 @@ function checkIntegrity() {
       }
     }
 
-    const isIngredientBlog = fs.existsSync(path.join(__dirname, 'data/blogs/ingredients', `${blogSlug}.json`));
+    const isIngredientBlog = fs.existsSync(path.join(__dirname, '../../data/blogs/ingredients', `${blogSlug}.json`));
     if (isIngredientBlog) {
-      const sourceJsonPath = path.join(__dirname, 'data/apps/freshsnap/items', `${blogSlug}.json`);
+      const sourceJsonPath = path.join(__dirname, '../../data/apps/freshsnap/items', `${blogSlug}.json`);
     }
 
-    const isPetBlog = fs.existsSync(path.join(__dirname, 'data/blogs/pets', `${blogSlug}.json`));
+    const isPetBlog = fs.existsSync(path.join(__dirname, '../../data/blogs/pets', `${blogSlug}.json`));
     if (isPetBlog) {
-      const sourceJsonPath = path.join(__dirname, 'data/apps/petsnap/items', `${blogSlug}.json`);
+      const sourceJsonPath = path.join(__dirname, '../../data/apps/petsnap/items', `${blogSlug}.json`);
     }
 
     if (!hasErrors) {
@@ -348,7 +350,7 @@ function checkIntegrity() {
     }
   });
 
-  console.log('\n🏁 \x1b[36m[블로그 무결성 검증 완료]\x1b[0m');
+  console.log('\n🏁 [블로그 무결성 검증 완료]');
   if (hasErrors) {
     console.error('\n\x1b[31m🚨 에러가 발견되어 빌드를 차단합니다. 위의 오류들을 먼저 해결해 주세요.\x1b[0m\n');
     process.exit(1);

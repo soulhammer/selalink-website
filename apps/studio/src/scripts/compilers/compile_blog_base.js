@@ -36,7 +36,7 @@ export function buildHistoryMetaMap(masterDir, blogRootDir) {
 export function compileMasterJsonCollection({ masterDir, blogRootDir, blogTypeName, renderLocaleMarkdown }) {
   console.log(`🚀 [${blogTypeName} 파이프라인] 다국어 마크다운 빌드 가동...\n`);
   const historyMetaMap = buildHistoryMetaMap(masterDir, blogRootDir);
-  const files = fs.readdirSync(masterDir).filter(f => f.endsWith('.json') && !f.startsWith('_'));
+  const files = fs.readdirSync(masterDir).filter(f => f.endsWith('.json') && !f.startsWith('_') && !f.includes('meta'));
 
   let totalGenerated = 0;
 

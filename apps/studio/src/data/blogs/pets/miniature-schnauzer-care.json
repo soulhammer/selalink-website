@@ -1,0 +1,516 @@
+{
+    "miniature-schnauzer-care": {
+        "pubDate": "2026-06-01",
+        "updatedDate": "2026-07-26",
+        "locales": {
+            "ko": {
+                "title": "미니어처 슈나우저의 췌장염·피부 신호 해석과 저지방 식단 및 수염 관리를 위한 3단계 데일리 케어",
+                "description": "매력적인 웅장한 수염의 미니어처 슈나우저(Miniature Schnauzer). 췌장염 복통 신호(기도 자세)와 경계 짖음 해석, 고지혈증·췌장염 예방 저지방 식단과 피부·수염 관리를 위한 3단계 홈케어 루틴을 소개합니다.",
+                "authority": "미국견종협회(AKC) 및 세계소동물수의사회(WSAVA) 테리어·내과 케어 프로토콜",
+                "profile": {
+                    "breed": "미니어처 슈나우저 (Miniature Schnauzer)",
+                    "lifespan": "12 ~ 15년",
+                    "sleep_pattern": "12 ~ 14시간 (일정 유산소 운동 후 깊은 수면)",
+                    "temperament": "영리함, 용감함, 경계심 많음, 충성스러움, 활동적"
+                },
+                "intro": "야무진 눈썹과 할아버지 같은 수염이 매력적인 미니어처 슈나우저(Miniature Schnauzer)는 뛰어난 지능과 충성심으로 전 세계에서 사랑받는 명품 테리어 종입니다. 미니어처 슈나우저는 지질 대사 이상으로 인한 유전성 고지혈증(Hyperlipidemia) 발병률이 극도로 높아, 기름진 음식을 섭취할 경우 치명적인 급성 췌장염(Pancreatitis)으로 직행하기 쉽습니다. 또한 등 능선을 따라 든드름이 생기는 특이 피부 질환인 '슈나우저 코메도 증후군(Comedone Syndrome)'과 습한 수염으로 인한 습진, 요로결석에 취약합니다. 오늘 PetSelf에서는 미니어처 슈나우저의 신체 신호를 정확히 읽어내고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.",
+                "whyTitle": "미니어처 슈나우저의 바디 랭귀지: 복통의 기도 자세(Prayer Position)와 뻣뻣한 경계 자세",
+                "whyDesc": "미니어처 슈나우저는 특유의 자세와 울음으로 통증과 경계 신호를 알립니다. 앞다리와 상체를 바닥에 낮추고 엉덩이를 높이 들며 신음하는 **'기도 자세(Prayer Position)'**는 췌장염이나 심각한 복부 통증을 나타내는 긴급 병리 신호입니다. 반면 귀와 꼬리를 바짝 세우고 몸을 뻣뻣하게 고정한 채 날카롭게 짖는 **'경계 및 파수 자세(Alert Stance & Barking)'**는 테리어 특유의 경계 본능과 영역 보호 신호입니다.",
+                "body_signals": [
+                    {
+                        "name": "상체를 낮추고 엉덩이를 들며 엎드려 있음 (Prayer Position / Prayer Stance)",
+                        "meaning": "급성 췌장염, 위장관 꼬임, 또는 극심한 복부 통증을 견디기 위한 응급 신호입니다.",
+                        "response": "음식을 즉시 중단하고 배를 누르지 않은 채 즉시 동물병원 응급실로 이동해야 합니다."
+                    },
+                    {
+                        "name": "몸을 뻣뻣하게 세우고 꼬리와 귀를 바짝 세움 (Alert Stance / Barking)",
+                        "meaning": "외부 자극이나 낯선 소리에 반응하여 영역을 지키려는 테리어 본능의 경계 신호입니다.",
+                        "response": "차분하게 시선을 차단하고 안정 명령어로 통제하여 과도한 짖음으로 발전하지 않게 돕습니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 식사 후 수염 닦기 및 저지방 식단(지방 함량 10~12% 이하) 급여와 아침 산책 (30분)",
+                        "text": "췌장염과 고지혈증을 예방하기 위해 조지방 10~12% 이하의 사료를 급여하고, 수염에 남은 사료 잔여물을 미온수로 닦아 건조시킨 후 에너지를 소비합니다."
+                    },
+                    {
+                        "name": "낮: 등 피부(코메도 증후군) 점검 및 신선한 음수량 공급 (요로결석 예방)",
+                        "text": "등 능선의 블랙헤드 및 농포 여부를 관찰하고, 칼슘 옥살레이트 요로결석 예방을 위해 깨끗한 물을 수시로 마실 수 있게 배치합니다."
+                    },
+                    {
+                        "name": "저녁: 이중모 전용 슬리커 브러싱, 수염·발가락 습진 관리 및 브레인 놀이",
+                        "text": "털 엉킴을 막기 위해 브러싱을 해주고, 젖은 수염과 발가락 사이를 바짝 말려 말라세지아 피부염을 예방하며 노즈워크로 지적 욕구를 충족합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "슈나우저가 기름진 음식을 먹고 구토하며 엉덩이를 들고 엎드려 있어요. 췌장염인가요?",
+                        "answer": "맞습니다! 미니어처 슈나우저는 지질 대사 유전 질환으로 인해 개 품종 중 췌장염(Pancreatitis) 발병률 1위입니다. 상체를 숙이고 엉덩이를 들고 있는 '기도 자세(Prayer Position)'는 췌장 염증으로 인한 극심한 복통을 줄이려는 신호입니다. 구토, 탈수, 혈변이 동반되면 생명이 위험하므로 즉시 금식시키고 응급 동물병원에서 수액 및 입원 치료를 받아야 합니다."
+                    },
+                    {
+                        "question": "슈나우저 등 피부에 까만 깨 같은 블랙헤드나 여드름이 올라오는데 왜 그런가요?",
+                        "answer": "미니어처 슈나우저 고유의 유전성 피부 질환인 '슈나우저 코메도 증후군(Schnauzer Comedone Syndrome)'입니다. 모낭 각화 이상으로 인해 등 능선을 따라 피지가 차올라 블랙헤드와 농포(여드름)가 생깁니다. 억지로 짜면 2차 세균 감염이 발생하므로, 약용 샴푸(약용 벤조일 퍼옥사이드/살리실산)로 정기적인 목욕 및 각질 케어를 해주는 것이 효과적입니다."
+                    }
+                ],
+                "tags": [
+                    "미니어처슈나우저",
+                    "강아지케어",
+                    "슈나우저췌장염",
+                    "코메도증후군"
+                ]
+            },
+            "en": {
+                "title": "Miniature Schnauzer Pancreatitis and Skin Signals with 3-Step Daily Routine for Low-Fat Diet and Beard Hygiene",
+                "description": "Care guide for the intelligent Miniature Schnauzer. Interpret prayer position (abdominal pain) and alert barking, prevent hyperlipidemia and pancreatitis with a low-fat diet, and manage beard hygiene in 3 steps.",
+                "authority": "American Kennel Club (AKC) & World Small Animal Veterinary Association (WSAVA) Terrier Protocols",
+                "profile": {
+                    "breed": "Miniature Schnauzer (Miniature Schnauzer)",
+                    "lifespan": "12 - 15 Years",
+                    "sleep_pattern": "12 - 14 Hours (Deep sleep following structured aerobic exercise)",
+                    "temperament": "Intelligent, Fearless, Alert, Loyal, Active"
+                },
+                "intro": "Famous for their bushy eyebrows and distinctive grandfather beard, the Miniature Schnauzer is a beloved terrier breed known for exceptional intelligence and loyalty. Miniature Schnauzers have a genetic predisposition to idiopathic hyperlipidemia (impaired lipid metabolism), making them the single most vulnerable breed to acute and chronic pancreatitis when fed fatty foods. Additionally, they suffer from a unique genetic follicular condition known as 'Schnauzer Comedone Syndrome' along their back, as well as beard dermatitis and urinary stones (calcium oxalate). Today, PetSelf presents a 3-step daily care routine to read your Schnauzer's body signals and maintain its optimal health.",
+                "whyTitle": "Miniature Schnauzer Body Language: Abdominal Prayer Position and Stiff Alert Stance",
+                "whyDesc": "Miniature Schnauzers communicate physical distress and alertness through distinct postures and vocalizations. Lowering the chest and front limbs to the floor while elevating the hindquarters **'Prayer Position / Praying Stance'** is an emergency clinical sign of severe abdominal pain caused by acute pancreatitis. Conversely, standing rigidly with ears and tail held high while letting out sharp, rhythmic barks **'Alert Stance & Barking'** is a classic terrier watchfulness signal defending its territory.",
+                "body_signals": [
+                    {
+                        "name": "Lowering Upper Body & Elevating Hindquarters (Prayer Position / Praying Stance)",
+                        "meaning": "An emergency clinical response to relieve intense pressure from acute pancreatitis or gastrointestinal blockage.",
+                        "response": "Withhold all food immediately, avoid pressing on the abdomen, and transport the dog directly to an emergency veterinary clinic."
+                    },
+                    {
+                        "name": "Standing Rigidly with Ears and Tail Erect (Alert Stance / Barking)",
+                        "meaning": "An instinctual terrier response alerting the pack to novel sights, sounds, or perceived territorial intrusions.",
+                        "response": "Calmly step in front to block their line of sight and redirect focus with a quiet command before barking escalates."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Strict Low-Fat Feeding (Under 10–12% Fat), Beard Wash & Walk (30 min)",
+                        "text": "Feed a low-fat kibble (<10–12% crude fat) to prevent hyperlipidemia, wash food remnants from the beard with lukewarm water, dry thoroughly, and enjoy a morning walk."
+                    },
+                    {
+                        "name": "Afternoon: Back Skin Inspection (Comedone Syndrome) & Fresh Water Hydration",
+                        "text": "Check the dorsal spine for blackheads or pustules, placing fresh water bowls throughout the house to encourage drinking and prevent calcium oxalate stones."
+                    },
+                    {
+                        "name": "Evening: Slicker Brushing for Double Coat, Paw/Beard Moisture Control & Brain Games",
+                        "text": "Brush wire coat to prevent matting, dry damp beard and paw pads to prevent Malassezia yeast infections, and stimulate their sharp mind with nosework."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "My Schnauzer ate fatty food, vomited, and is resting with its bottom in the air. Is it pancreatitis?",
+                        "answer": "Yes, this is a classic presentation! Miniature Schnauzers rank #1 among dog breeds for pancreatitis due to genetic lipid metabolism disorders. The 'Prayer Position' (chest down, hindquarters up) is a desperate attempt to relieve unbearable pancreatic inflammation pain. Because severe pancreatitis can lead to fatal shock or organ failure, withhold food and seek immediate emergency veterinary hospital care."
+                    },
+                    {
+                        "question": "Why does my Schnauzer have blackheads and pimple-like bumps along its spine?",
+                        "answer": "This is 'Schnauzer Comedone Syndrome', an inherited follicular keratinization disorder unique to Miniature Schnauzers. Sebum plugs clog hair follicles along the spine, forming blackheads and secondary pustules. Never squeeze them as it spreads bacterial infection. Regular bathing with medicated antiseborrheic shampoos (containing benzoyl peroxide or salicylic acid) provides effective management."
+                    }
+                ],
+                "tags": [
+                    "MiniatureSchnauzer",
+                    "DogCare",
+                    "SchnauzerPancreatitis",
+                    "ComedoneSyndrome"
+                ]
+            },
+            "ja": {
+                "title": "ミニチュア・シュナウザーの膵炎・皮膚サイン解読と低脂質食・ヒゲケアのための3ステップデイリールーティン",
+                "description": "魅力的なヒゲを持つミニチュア・シュナウザー（Miniature Schnauzer）。腹痛の祈り姿勢や警戒吠えサインの解読、高脂血症・膵炎予防の低脂質食とヒゲ・皮膚ケアのための3ステップホームケアを紹介します。",
+                "authority": "アメリカケネルクラブ(AKC)および世界小動物獣医師会(WSAVA)テリアケアプロトコル",
+                "profile": {
+                    "breed": "ミニチュア・シュナウザー (Miniature Schnauzer)",
+                    "lifespan": "12 〜 15年",
+                    "sleep_pattern": "12 〜 14時間 (適度な有酸素運動後の深い睡眠)",
+                    "temperament": "聡明、勇敢、警戒心が強い、忠実、活動的"
+                },
+                "intro": "立派な眉毛とおじいさんのような愛らしいヒゲが特徴のミニチュア・シュナウザー（Miniature Schnauzer）は、高い知能と深い忠誠心で世界中から愛される名門テリア種です。ミニチュア・シュナウザーは脂質代謝異常による遺伝性の高脂血症（Hyperlipidemia）の発症率が極めて高く、脂っこい食べ物を摂取すると致死的な「急性膵炎（Pancreatitis）」を非常に起こしやすい犬種です。また、背中に黒ずみやニキビができる特有の皮膚疾患「シュナウザー・コメド症候群（Comedone Syndrome）」や、濡れたヒゲの湿疹、尿路結石に注意が必要です。本日PetSelfでは、シュナウザーのサインを読み解き、健康を守る3ステップルーティンをお届けします。",
+                "whyTitle": "ミニチュア・シュナウザーのボディランゲージ：腹痛の祈り姿勢(Prayer Position)と硬い警戒姿勢",
+                "whyDesc": "ミニチュア・シュナウザーは特徴的な体勢と鳴き声で痛みのサインや警戒を知らせます。前脚と上半身を床に低く下げてお尻を高く持ち上げ、唸り声を上げる**「祈りの姿勢（Prayer Position）」**は、膵炎や深刻な腹痛を示す緊急病理サインです。一方、耳と尾をピンと立てて体を硬く固定し、鋭く吠える**「警戒・番犬姿勢（Alert Stance & Barking）」**は、テリア特有の警戒本能と縄張り防衛サインです。",
+                "body_signals": [
+                    {
+                        "name": "上半身を低く下げてお尻を持ち上げる (Prayer Position / Prayer Stance)",
+                        "meaning": "急性膵炎や消化管の捻転、激しい腹痛に耐えるための緊急サインです。",
+                        "response": "すぐにフードや水の給餌を中止し、お腹を圧迫しないようにして直ちに夜間・救急の動物病院へ搬送してください。"
+                    },
+                    {
+                        "name": "体を硬く立てて耳と尾をピンと立てる (Alert Stance / Barking)",
+                        "meaning": "外部の刺激や聞き慣れない音に反応し、縄張りを守ろうとするテリア本能の警戒サインです。",
+                        "response": "落ち着いて視界を遮り、静止コマンドでコントロールして過度なムダ吠えに発展しないよう誘導します。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：食後のヒゲ拭き＆低脂質フード（脂質10〜12%以下）の給餌と朝の散歩（30分）",
+                        "text": "膵炎と高脂血症を防ぐため粗脂肪10〜12%以下のフードを与え、ヒゲについた食べカスをぬるま湯で拭き取ってしっかり乾かしてから散歩を行います。"
+                    },
+                    {
+                        "name": "昼：背中の皮膚（コメド症候群）のチェック＆新鮮な水分補給（尿路結石予防）",
+                        "text": "背中のラインに角栓（ブラックヘッド）や膿疱がないか観察し、シュウ酸カルシウム結石予防のため新鮮な水が飲める環境を整えます。"
+                    },
+                    {
+                        "name": "夜：ダブルコートのスリッカーブラッシング、ヒゲ・指間の湿気管理＆頭脳遊び",
+                        "text": "毛玉防止のブラッシングを行い、濡れたヒゲや足指の間をしっかり乾かしてマラセチア皮膚炎を防ぎ、ノーズワークで知的好奇心を満たします。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "シュナウザーが脂っこいものを食べた後に嘔吐し、お尻を上げて伏せています。膵炎でしょうか？",
+                        "answer": "その可能性が極めて高いです！ミニチュア・シュナウザーは脂質代謝の遺伝的要因により、全犬種の中で膵炎（Pancreatitis）の発症率が第1位です。胸を低くしてお尻を上げる「祈りの姿勢（Prayer Position）」は、膵臓の激しい炎症による腹痛を和らげようとするサインです。放置するとショック死に至るため、直ちに絶食させて救急動物病院で点滴治療を受けてください。"
+                    },
+                    {
+                        "question": "シュナウザーの背中に黒いポツポツ（黒ずみ）やニキビのようなものができるのですがなぜですか？",
+                        "answer": "ミニチュア・シュナウザー特有の遺伝性皮膚疾患「シュナウザー・コメド症候群（Schnauzer Comedone Syndrome）」です。毛包の角化異常により背中のラインに皮脂が詰まり、角栓（ブラックヘッド）やニキビが形成されます。無理に潰すと細菌感染を起こすため、薬用シャンプー（ベンゾイルパーオキサイドなど）での定期的な角質ケアが効果的です。"
+                    }
+                ],
+                "tags": [
+                    "ミニチュアシュナウザー",
+                    "犬のケア",
+                    "シュナウザー膵炎",
+                    "コメド症候群"
+                ]
+            },
+            "zh": {
+                "title": "迷你雪纳瑞胰腺炎与皮肤信号解读及低脂饮食与胡须护理的3步日常流程",
+                "description": "聪明勇敢的迷你雪纳瑞（Miniature Schnauzer）护理指南。解读腹痛祈祷姿势与警惕吠叫，通过低脂饮食预防高脂血症与胰腺炎，管理背部粉刺与胡须卫生的3步骤家庭护理。",
+                "authority": "美国犬业俱乐部 (AKC) 与世界小动物兽医师协会 (WSAVA) 梗犬护理标准",
+                "profile": {
+                    "breed": "迷你雪纳瑞 (Miniature Schnauzer)",
+                    "lifespan": "12 ~ 15年",
+                    "sleep_pattern": "12 ~ 14小时 (充分有氧运动后进入深度睡眠)",
+                    "temperament": "聪明、勇敢、警惕性高、忠诚、活跃"
+                },
+                "intro": "拥有标志性浓密眉毛与长胡须的迷你雪纳瑞（Miniature Schnauzer），凭其极高的智商与忠诚度成为深受全球喜爱的名门梗犬。然而，迷你雪纳瑞由于脂质代谢异常，极易患上遗传性高脂血症（Hyperlipidemia）；一旦摄入高脂肪食物，极易诱发致命的急性胰腺炎（Pancreatitis）。此外，它们还易患背部沿脊柱发作的特有皮肤病“雪纳瑞粉刺综合征（Comedone Syndrome）”、潮湿胡须导致的皮肤炎及草酸钙尿路结石。今天 PetSelf 将带您准确解读雪纳瑞的身体信号，并通过 3 步骤日常护理维护其健康。",
+                "whyTitle": "迷你雪纳瑞的肢体语言：腹痛祈祷姿势 (Prayer Position) 与僵硬警惕姿态",
+                "whyDesc": "迷你雪纳瑞通过独特的体态与吠叫表达疼痛与警惕。将前肢与胸部贴地、臀部高高翘起并伴有呻吟**“祈祷姿势 (Prayer Position)”**，是胰腺炎或剧烈腹痛的紧急病理信号。相反，竖起耳朵与尾巴、身体僵硬并发出尖锐连续的吠叫**“警惕与看家姿态 (Alert Stance & Barking)”**，则是梗犬天生领地意识与戒备本能的表现。",
+                "body_signals": [
+                    {
+                        "name": "胸部贴地并翘起臀部 (Prayer Position / Prayer Stance)",
+                        "meaning": "急性胰腺炎、胃肠扭转或剧烈腹痛时为减轻压迫感发出的紧急求救信号。",
+                        "response": "立即禁食禁水，切勿按压其腹部，并火速送往动物医院急诊。"
+                    },
+                    {
+                        "name": "身体僵硬且耳尾高竖 (Alert Stance / Barking)",
+                        "meaning": "对外界异响或陌生环境做出反应的梗犬捍卫领地与警戒信号。",
+                        "response": "冷静地挡住其视线，使用安静指令进行干预，防止演变为过度吠叫。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：餐后胡须清洁与低脂食粮（脂肪含量 10~12% 以下）投喂及散步（30分钟）",
+                        "text": "投喂粗脂肪低于 10~12% 的低脂粮以防高脂血症与胰腺炎，用温水清洗并吹干胡须残饵后再进行早晨散步。"
+                    },
+                    {
+                        "name": "中午：背部皮肤（粉刺综合征）检查与新鲜饮水补充（预防结石）",
+                        "text": "检查脊柱沿线是否有黑头粉刺或脓疱，多处放置干净饮水以预防草酸钙尿路结石。"
+                    },
+                    {
+                        "name": "晚上：双层毛发梳理、胡须与趾间干燥护理及益智游戏",
+                        "text": "使用针梳梳理防打结，将潮湿的胡须与脚趾缝彻底吹干以防马拉色菌感染，并通过嗅闻游戏消耗精力。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "雪纳瑞吃了油腻食物后呕吐且翘着屁股趴着，是胰腺炎吗？",
+                        "answer": "极有可能！迷你雪纳瑞因遗传性脂质代谢障碍，是犬类中胰腺炎（Pancreatitis）发病率最高的品种。趴下胸部、翘起屁股的“祈祷姿势 (Prayer Position)”是其试图缓解胰腺剧烈炎症疼痛的表现。若伴随呕吐与便血，可能危及生命，须立即禁食并送医输液治疗。"
+                    },
+                    {
+                        "question": "雪纳瑞背上长了像黑头和痘痘一样的小红疹，是怎么回事？",
+                        "answer": "这是迷你雪纳瑞特有的遗传性皮肤病“雪纳瑞粉刺综合征（Schnauzer Comedone Syndrome）”。因毛囊角化异常，背部脊柱周围易积聚油脂形成黑头与脓疱。切勿用手挤压以免继发细菌感染，使用含过氧化苯酰或水杨酸的药用洗发水定期沐浴可有效控制。"
+                    }
+                ],
+                "tags": [
+                    "迷你雪纳瑞",
+                    "犬类护理",
+                    "雪纳瑞胰腺炎",
+                    "粉刺综合征"
+                ]
+            },
+            "es": {
+                "title": "Señales de pancreatitis y piel en el Schnauzer Miniatura y rutina diaria de 3 pasos para dieta baja en grasa y cuidado de barba",
+                "description": "Guía de cuidado para el inteligente Schnauzer Miniatura. Interprete la postura de rezo (dolor abdominal) y el ladrido de alerta, prevenga la pancreatitis con dieta baja en grasa y mantenga la barba limpia en 3 pasos.",
+                "authority": "American Kennel Club (AKC) y Protocolos para Terriers de la WSAVA",
+                "profile": {
+                    "breed": "Schnauzer Miniatura (Miniature Schnauzer)",
+                    "lifespan": "12 ~ 15 años",
+                    "sleep_pattern": "12 ~ 14 horas (Sueño profundo tras ejercicio aeróbico regular)",
+                    "temperament": "Inteligente, Valiente, Alerta, Leal, Activo"
+                },
+                "intro": "Famoso por sus cejas pobladas y su barba característica, el Schnauzer Miniatura es una raza terrier adorada por su inteligencia y lealtad. Sin embargo, poseen una predisposición genética a la hiperlipidemia hereditaria (trastorno del metabolismo de lípidos), lo que los convierte en la raza más propensa a la **pancreatitis aguda** si consumen grasas. Además, sufren una dermatopatía folicular exclusiva denominada 'Sindrome de Comedones del Schnauzer' a lo largo del lomo, dermatitis en la barba y cálculos urinarios de oxalato cálcico. Hoy, PetSelf presenta una rutina de 3 pasos para proteger su salud.",
+                "whyTitle": "Lenguaje corporal del Schnauzer Miniatura: Postura de rezo (Prayer Position) y actitud de alerta rígida",
+                "whyDesc": "Los Schnauzer Miniatura comunican dolor físico y vigilancia mediante conductas muy claras. Apoyar el pecho en el suelo mientras mantienen los cuartos traseros elevados **'Postura de rezo (Prayer Position)'** es una señal de emergencia clínica por dolor abdominal agudo debido a pancreatitis. En cambio, permanecer rígidos con orejas y cola erguidas emitiendo ladridos agudos **'Actitud de alerta (Alert Stance & Barking)'** es el reflejo natural del terrier defendiendo su territorio.",
+                "body_signals": [
+                    {
+                        "name": "Bajar el torso y mantener el trasero elevado (Prayer Position / Prayer Stance)",
+                        "meaning": "Respuesta de emergencia para aliviar la presión del dolor agudo por pancreatitis o torsión gástrica.",
+                        "response": "Retire la comida inmediatamente, no presione el abdomen y acuda de urgencia a una clínica veterinaria."
+                    },
+                    {
+                        "name": "Cuerpo rígido con orejas y cola erguidas (Alert Stance / Barking)",
+                        "meaning": "Conducta instintiva de alerta terrier ante ruidos extraños o presencia de desconocidos.",
+                        "response": "Bloquee suavemente su campo de visión y utilice órdenes de calma antes de que escale a ladridos compulsivos."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Dieta baja en grasa (<10–12% grasa), lavado de barba y paseo (30 min)",
+                        "text": "Suministre alimento bajo en grasa para evitar hiperlipidemia, limpie la comida de su barba con agua templada, séquela bien y salga a pasear."
+                    },
+                    {
+                        "name": "Tarde: Inspección del lomo (Síndrome de Comedones) y agua fresca continua",
+                        "text": "Examine la columna en busca de puntos negros o pústulas, distribuyendo agua limpia para prevenir cálculos de oxalato."
+                    },
+                    {
+                        "name": "Noche: Cepillado del pelaje doble, secado de barba y patas, y juegos cognitivos",
+                        "text": "Cepille su manto duro contra nudos, seque muy bien la barba y espacio interdigital contra hongos y juegue a juegos de olfato."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mi Schnauzer comió algo graso, vomitó y está tumbado con el trasero levantado. ¿Tiene pancreatitis?",
+                        "answer": "¡Es muy probable! El Schnauzer Miniatura ocupa el primer lugar en incidencia de pancreatitis por un defecto genético en el metabolismo de las grasas. La 'Postura de rezo' (pecho abajo, trasero arriba) busca aliviar el dolor abrasador de la inflamación pancreática. Dado que es una urgencia vital, suspenda comida y agua y acuda inmediatamente a urgencias veterinarias."
+                    },
+                    {
+                        "question": "¿Por qué mi Schnauzer tiene puntos negros y espinillas a lo largo de la columna vertebral?",
+                        "answer": "Se trata del 'Síndrome de Comedones del Schnauzer', un trastorno de queratinización folicular hereditario de la raza. Los folículos del lomo se obstruyen formando comedones y pústulas. No los exprima para evitar infecciones bacterianas secundarias; el tratamiento idóneo consiste en baños con champús antisépticos con peróxido de benzoilo o ácido salicílico."
+                    }
+                ],
+                "tags": [
+                    "SchnauzerMiniatura",
+                    "CuidadoCanino",
+                    "PancreatitisSchnauzer",
+                    "SindromeDeComedones"
+                ]
+            },
+            "fr": {
+                "title": "Signaux de pancréatite et cutanés du Schnauzer Miniature et routine quotidienne en 3 étapes pour une alimentation pauvre en graisses et le soin de la barbe",
+                "description": "Guide de soins pour le vif Schnauzer Miniature. Décryptez la posture de prière (douleur abdominale) et l'aboiement d'alerte, prévenez la pancréatite avec un régime pauvre en graisses et entretenez sa barbe en 3 étapes.",
+                "authority": "American Kennel Club (AKC) & Normes Vétérinaires pour Terriers de la WSAVA",
+                "profile": {
+                    "breed": "Schnauzer Miniature (Miniature Schnauzer)",
+                    "lifespan": "12 ~ 15 ans",
+                    "sleep_pattern": "12 ~ 14 heures (Sommeil réparateur après une dépense physique)",
+                    "temperament": "Intelligent, Intrépide, Vigilant, Loyal, Actif"
+                },
+                "intro": "Reconnaissable entre tous grâce à ses sourcils fournis et sa barbe caractéristique, le Schnauzer Miniature est un terrier très apprécié pour sa vivacité d'esprit. Cependant, ils ont une prédisposition génétique à l'hyperlipidémie (trouble du métabolisme des lipides), ce qui en fait la race la plus exposée à la **pancréatite aiguë** en cas d'excès de gras. De plus, ils souffrent d'une affection de la peau spécifique appelée 'Syndrome des Comédons du Schnauzer' le long du dos, de dermatites de la barbe et de calculs urinaires. Aujourd'hui, PetSelf vous présente une routine en 3 étapes.",
+                "whyTitle": "Langage corporel du Schnauzer Miniature : Posture de prière (Prayer Position) et posture d'alerte rigide",
+                "whyDesc": "Les Schnauzers Miniatures expriment la douleur et la vigilance par des postures caractéristiques. Abaisser le poitrail au sol en gardant le train arrière levé **« Posture de prière (Prayer Position) »** est un signal d'urgence traduisant une vive douleur abdominale due à une pancréatite. En revanche, se dresser fermement avec les oreilles et la queue dressées **« Posture d'alerte (Alert Stance) »** traduit l'instinct de garde du terrier.",
+                "body_signals": [
+                    {
+                        "name": "Poitrail plaqué au sol et arrière-train levé (Prayer Position / Prayer Stance)",
+                        "meaning": "Comportement d'urgence adopté pour soulager la pression liée à une pancréatite aiguë ou une obstruction.",
+                        "response": "Coupez immédiatement l'alimentation, ne touchez pas au ventre et rendez-vous d'urgence chez le vétérinaire."
+                    },
+                    {
+                        "name": "Corps rigide, oreilles et queue bien dressées (Alert Stance / Barking)",
+                        "meaning": "Réflexe territorial de terrier avertissant la famille d'un bruit ou d'une présence étrangère.",
+                        "response": "Coupez calmement son champ de vision et détournez son attention avec un ordre pour stopper les aboiements."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Repas pauvre en graisses (<10–12%), nettoyage de la barbe et promenade (30 min)",
+                        "text": "Donnez des croquettes pauvres en lipides (<10–12%) pour éviter la pancréatite, lavez la barbe à l'eau tiède, séchez-la bien et promenez-le."
+                    },
+                    {
+                        "name": "Après-midi : Inspection de la peau du dos (Comédons) & hydratation constante",
+                        "text": "Contrôlez l'absence de points noirs ou boutons le long de la colonne, et mettez de l'eau fraîche pour prévenir les calculs d'oxalate."
+                    },
+                    {
+                        "name": "Soir : Brossage du pelage double, séchage des pattes/barbe & jeux de réflexion",
+                        "text": "Brosser le poil dur pour éviter les nœuds, séchez parfaitement la barbe et les coussinets contre les champignons, puis faites du nosework."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mon Schnauzer a mangé gras, vomit et reste les fesses en l'air. Est-ce une pancréatite ?",
+                        "answer": "C'est très probable ! Le Schnauzer Miniature est la race N°1 pour la pancréatite en raison d'un problème génétique de gestion des graisses. La 'Posture de prière' (avant du corps au sol, arrière levé) vise à soulager la douleur de l'inflammation du pancréas. Mettez-le à jeun immédiatement et rendez-vous d'urgence en clinique vétérinaire."
+                    },
+                    {
+                        "question": "Pourquoi mon Schnauzer a-t-il des boutons et des points noirs le long de la colonne vertébrale ?",
+                        "answer": "Il s'agit du 'Syndrome des Comédons du Schnauzer', une maladie génétique de la kératinisation des follicules pileux propre à cette race. Le sébum s'accumule le long du dos. Ne pressez pas les boutons pour éviter les infections. Des shampooings antiseptiques adaptés (au péroxyde de benzoyle ou acide salicylique) permettent de traiter la peau."
+                    }
+                ],
+                "tags": [
+                    "SchnauzerMiniature",
+                    "SoinDuChien",
+                    "PancreatiteSchnauzer",
+                    "SyndromeDesComedons"
+                ]
+            },
+            "de": {
+                "title": "Bauchspeicheldrüsen- und Hautsignale beim Zwergschnauzer und 3-Schritte-Tagesroutine für fettarme Ernährung und Bartpflege",
+                "description": "Pflegeanleitung für den klugen Zwergschnauzer (Miniature Schnauzer). Gebetshaltung (Bauchschmerzen) und Bellen verstehen, Bauchspeicheldrüsenentzündung fettarm vorbeugen und den Bart in 3 Schritten pflegen.",
+                "authority": "American Kennel Club (AKC) & Terrier-Standards der WSAVA",
+                "profile": {
+                    "breed": "Zwergschnauzer (Miniature Schnauzer)",
+                    "lifespan": "12 ~ 15 Jahre",
+                    "sleep_pattern": "12 ~ 14 Stunden (Tiefer Schlaf nach gezieltem Auslauf)",
+                    "temperament": "Klug, Mutig, Wachsam, Loyal, Aktiv"
+                },
+                "intro": "Bekannt für seine dichten Augenbrauen und seinen charakteristischen Bart, ist der Zwergschnauzer (Miniature Schnauzer) ein äußerst beliebter, intelligenter Terrier. Zwergschnauzer neigen jedoch genetisch zu Fettstoffwechselstörungen (Hyperlipidämie) und sind die anfälligste Hunderasse für lebensgefährliche **Bauchspeicheldrüsenentzündungen (Pankreatitis)** bei fettreicher Nahrung. Zudem neigen sie zum 'Schnauzer-Komedonen-Syndrom' entlang der Wirbelsäule, Bart-Ekzemen und Oxalat-Harnsteinen. Heute zeigt PetSelf eine 3-Schritte-Routine für die Gesundheit Ihres Zwergschnauzers.",
+                "whyTitle": "Körpersprache des Zwergschnauzers: Gebetshaltung bei Bauchschmerzen und steife Wachhaltung",
+                "whyDesc": "Zwergschnauzer drücken Schmerzen und Wachsamkeit über klare Körperhaltungen aus. Das Absenken des Vorderkörpers bei gleichzeitig hochgerecktem Hinterteil **'Gebetshaltung (Prayer Position)'** ist ein klinisches Notfallsignal für schwere Bauchschmerzen durch Pankreatitis. Steifes Stehen mit aufgerichteten Ohren und aufgestellter Rute bei scharfem Bellen **'Wach- und Bellhaltung (Alert Stance)'** zeigt dagegen den typischen Terrier-Beschützerinstinkt.",
+                "body_signals": [
+                    {
+                        "name": "Vorderkörper tief am Boden, Hinterteil hochgestreckt (Prayer Position / Prayer Stance)",
+                        "meaning": "Notfallverhalten zur Entlastung bei akuter Bauchspeicheldrüsenentzündung oder Magen-Darm-Krämpfen.",
+                        "response": "Stoppen Sie die Futtergabe sofort, drücken Sie nicht auf den Bauch und fahren Sie direkt zum Tiernotdienst."
+                    },
+                    {
+                        "name": "Steifer Körper mit stehenden Ohren und Rute (Alert Stance / Barking)",
+                        "meaning": "Instinktives Aufpassen des Terriers bei Geräuschen oder Reizen zur Revierverteidigung.",
+                        "response": "Blocken Sie ruhig die Sichtlinie und nutzen Sie Abbruchkommandos, bevor exzessives Bellen entsteht."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Fettarme Fütterung (<10–12 % Fett), Bartreinigung & Spaziergang (30 Min.)",
+                        "text": "Füttern Sie fettarmes Futter (<10–12 % Rohfett) gegen Pankreatitis, waschen und trocknen Sie den Bart nach dem Fressen und gehen Sie spazieren."
+                    },
+                    {
+                        "name": "Mittag: Rücken-Hautkontrolle (Komedonen-Syndrom) & Frisches Tränkwasser",
+                        "text": "Prüfen Sie den Rücken auf Mitesser/Pusteln und stellen Sie frisches Wasser bereit, um Calciumoxalat-Steinen vorzubeugen."
+                    },
+                    {
+                        "name": "Abend: Fellpflege des Rauhaars, Trocknen von Bart/Pfoten & Auslastung",
+                        "text": "Bürsten Sie das Fell gegen Verfilzungen, trocknen Sie feuchten Bart und Pfoten gegen Malassezia-Pilze ab und nutzen Sie Suchspiele."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mein Zwergschnauzer hat Fettreiches gefressen, erbricht und streckt das Hinterteil hoch. Ist das Pankreatitis?",
+                        "answer": "Sehr wahrscheinlich! Zwergschnauzer stehen wegen eines genetischen Fettstoffwechseldefekts an erster Stelle bei Pankreatitis. Die 'Gebetshaltung' (Brust am Boden, Po oben) ist ein Versuch, den unerträglichen Bauchschmerz der Bauchspeicheldrüsenentzündung zu lindern. Stellen Sie das Futter sofort ein und suchen Sie umgehend eine Tierklinik auf."
+                    },
+                    {
+                        "question": "Warum hat mein Zwergschnauzer kleine schwarze Punkte und Pickel auf dem Rücken?",
+                        "answer": "Das ist das 'Schnauzer-Komedonen-Syndrom', eine erblich bedingte Verhornungsstörung der Haarfollikel beim Zwergschnauzer. Entlang der Wirbelsäule bilden sich Talgpfropfen und Mitesser. Drücken Sie diese nicht aus; medizinische Shampoos (mit Benzoylperoxid oder Salicylsäure) helfen bei der Pflege."
+                    }
+                ],
+                "tags": [
+                    "Zwergschnauzer",
+                    "Hundepflege",
+                    "SchnauzerPankreatitis",
+                    "KomedonenSyndrom"
+                ]
+            },
+            "pt": {
+                "title": "Sinais de pancreatite e pele no Schnauzer Miniatura e rotina diária de 3 passos para dieta com pouca gordura e cuidado da barba",
+                "description": "Guia de cuidados para o inteligente Schnauzer Miniatura. Entenda a postura de oração (dor abdominal) e o latido de alerta, previna a pancreatite com dieta com baixa gordura e cuide da barba em 3 passos.",
+                "authority": "American Kennel Club (AKC) & Padrões para Terriers da WSAVA",
+                "profile": {
+                    "breed": "Schnauzer Miniatura (Miniature Schnauzer)",
+                    "lifespan": "12 ~ 15 anos",
+                    "sleep_pattern": "12 ~ 14 horas (Sono profundo após exercício aeróbico regular)",
+                    "temperament": "Inteligente, Corajoso, Alerta, Leal, Ativo"
+                },
+                "intro": "Famoso por suas sobrancelhas espessas e barba emblemática, o Schnauzer Miniatura é uma raça terrier adorada por sua inteligência e lealdade. Contudo, possuem uma predisposição genética à hiperlipidemia hereditária (distúrbio do metabolismo de gorduras), sendo a raça mais propensa à **pancreatite aguda** se consumir alimentos gordurosos. Além disso, sofrem com a 'Síndrome dos Comedões do Schnauzer' nas costas, dermatite na barba e cálculos urinários. Hoje, o PetSelf apresenta uma rotina de 3 passos para cuidar da saúde do seu pet.",
+                "whyTitle": "Linguagem corporal do Schnauzer Miniatura: Postura de oração (Prayer Position) e alerta rígido",
+                "whyDesc": "Os Schnauzers Miniatura comunicam dor física e vigilância através de posturas marcantes. Encostar o peito no chão enquanto mantêm a parte traseira erguida **'Postura de oração (Prayer Position)'** é um sinal de emergência por dor abdominal aguda decorrente de pancreatite. Já permanecer rígido com orelhas e cauda em pé latindo **'Postura de alerta (Alert Stance & Barking)'** reflete o instinto territorial do terrier.",
+                "body_signals": [
+                    {
+                        "name": "Baixar o tórax ao chão mantendo o traseiro elevado (Prayer Position / Prayer Stance)",
+                        "meaning": "Resposta de emergência clínica para aliviar a dor intensa de pancreatite aguda ou torção.",
+                        "response": "Corte a alimentação imediatamente, não pressione a barriga e leve-o com urgência a um hospital veterinário."
+                    },
+                    {
+                        "name": "Corpo rígido com orelhas e cauda erguidas (Alert Stance / Barking)",
+                        "meaning": "Comportamento instintivo do terrier alertando sobre barulhos estranhos ou invasão de território.",
+                        "response": "Bloqueie a visão dele com calma e use comandos de tranquilidade antes que vire um latido compulsivo."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Dieta com pouca gordura (<10–12%), limpeza da barba e passeio (30 min)",
+                        "text": "Forneça ração com baixo teor de gordura (<10–12%) contra a pancreatite, limpe a barba com água morna, seque bem e faça um passeio matinal."
+                    },
+                    {
+                        "name": "Tarde: Inspeção do lombo (Síndrome dos Comedões) e hidratação com água fresca",
+                        "text": "Observe a coluna para ver se há cravos ou pústulas, deixando recipientes de água limpa para prevenir cálculos de oxalato."
+                    },
+                    {
+                        "name": "Noite: Escovação da pelagem dupla, secagem da barba e patas, e jogos mentais",
+                        "text": "Escove os pelos para evitar nós, seque muito bem a barba e as patas contra fungos e estimule o cão com jogos de faro."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Meu Schnauzer comeu gordura, vomitou e está deitado com o bumbum para cima. É pancreatite?",
+                        "answer": "É muito provável! O Schnauzer Miniatura é a raça N°1 em pancreatite devido a um defeito genético no metabolismo de gorduras. A 'Postura de oração' (peito no chão, traseiro elevado) serve para tentar aliviar a dor intensa da inflamação no pâncreas. Como é uma emergência grave, suspenda comida e água e busque atendimento veterinário imediato."
+                    },
+                    {
+                        "question": "Por que o meu Schnauzer tem cravos e espinhas ao longo da coluna?",
+                        "answer": "Trata-se da 'Síndrome dos Comedões do Schnauzer', um distúrbio genético de queratinização dos folículos característico da raça. Os folículos do lombo entopem formando cravos e pústulas. Não esprema para evitar infecção bacteriana; o uso de xampus medicinais (com peróxido de benzila ou ácido salicílico) ajuda a tratar a pele."
+                    }
+                ],
+                "tags": [
+                    "SchnauzerMiniatura",
+                    "CuidadosComCaes",
+                    "PancreatiteSchnauzer",
+                    "SindromeDosComedoes"
+                ]
+            },
+            "id": {
+                "title": "Sinyal Pankreatitis dan Kulit Miniature Schnauzer serta Rutinitas Harian 3 Langkah Perawatan Diet Rendah Lemak dan Kebersihan Janggut",
+                "description": "Panduan perawatan anjing Miniature Schnauzer yang cerdas. Pahami posisi berdoa (nyeri perut) dan gonggongan waspada, cegah pankreatitis dengan diet rendah lemak, serta rawat janggut dalam 3 langkah.",
+                "authority": "American Kennel Club (AKC) & Standar Perawatan Anjing Terrier WSAVA",
+                "profile": {
+                    "breed": "Miniature Schnauzer (Miniature Schnauzer)",
+                    "lifespan": "12 ~ 15 tahun",
+                    "sleep_pattern": "12 ~ 14 jam (Tidur nyenyak setelah latihan aerobik teratur)",
+                    "temperament": "Cerdas, Pemberani, Waspada, Setia, Aktif"
+                },
+                "intro": "Terkenal dengan alis tebal dan janggut khasnya yang unik, Miniature Schnauzer adalah ras terrier populer yang dikenal sangat cerdas dan setia. Namun, Miniature Schnauzer memiliki kecenderungan genetik mengalami hiperlipidemia (gangguan metabolisme lemak), menjadikan mereka ras paling rentan terkena **pankreatitis akut** jika diberi makanan berlemak. Selain itu, mereka rentan terhadap 'Sindrom Komedo Schnauzer' di sepanjang punggung, infeksi kulit pada janggut, dan batu ginjal/saluran kemih. Hari ini, PetSelf membagikan 3 langkah rutinitas harian untuk merawat Miniature Schnauzer Anda.",
+                "whyTitle": "Bahasa Tubuh Miniature Schnauzer: Posisi Berdoa (Prayer Position) dan Postur Waspada Kaku",
+                "whyDesc": "Miniature Schnauzer menyampaikan rasa sakit dan kewaspadaan melalui postur yang sangat khas. Menempelkan dada ke lantai sambil mengangkat bagian belakang tubuh **'Posisi Berdoa (Prayer Position)'** adalah sinyal darurat medis akibat nyeri perut hebat dari pankreatitis. Sebaliknya, berdiri kaku dengan telinga dan ekor tegak sambil menggonggong nyaring **'Postur Waspada (Alert Stance & Barking)'** adalah refleks alami terrier dalam menjaga wilayahnya.",
+                "body_signals": [
+                    {
+                        "name": "Menempelkan Dada ke Lantai & Mengangkat Bagian Belakang (Prayer Position / Prayer Stance)",
+                        "meaning": "Tindakan darurat untuk meredakan tekanan nyeri hebat akibat pankreatitis akut atau masalah pencernaan.",
+                        "response": "Segera hentikan pakan dan air, jangan menekan bagian perutnya, dan bawa ke rumah sakit hewan darurat."
+                    },
+                    {
+                        "name": "Berdiri Kaku dengan Telinga dan Ekor Tegak (Alert Stance / Barking)",
+                        "meaning": "Respon naluriah terrier dalam memperingatkan pemilik akan adanya suara asing atau gangguan wilayah.",
+                        "response": "Halangi pandangannya dengan tenang dan gunakan perintah diam sebelum berkembang menjadi gonggongan berlebih."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Pakan Rendah Lemak (Kadar Lemak <10–12%), Cuci Janggut & Jalan Pagi (30 menit)",
+                        "text": "Berikan kibble rendah lemak (<10–12%) untuk mencegah pankreatitis, cuci sisa makanan di janggut dengan air hangat, keringkan, lalu ajak berjalan."
+                    },
+                    {
+                        "name": "Siang: Pemeriksaan Kulit Punggung (Sindrom Komedo) & Hidrasi Air Bersih",
+                        "text": "Periksa sepanjang tulang belakang dari bintik hitam/jerawat, dan sediakan air minum bersih untuk mencegah batu kalsium oksalat."
+                    },
+                    {
+                        "name": "Malam: Penyisiran Bulu Ganda, Pengeringan Janggut & Kaki, serta Permainan Otak",
+                        "text": "Sisir bulu agar tidak menggumpal, keringkan janggut dan sela jari dari jamur Malassezia, lalu latih ketajaman otaknya dengan permainan olfaktori."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Schnauzer saya makan makanan berlemak, muntah, dan berbaring mengangkat bokongnya. Apakah itu pankreatitis?",
+                        "answer": "Sangat mungkin ya! Miniature Schnauzer menempati peringkat ke-1 untuk kasus pankreatitis akibat kelainan genetik metabolisme lemak. 'Posisi Berdoa' (dada di bawah, bokong terangkat) adalah usaha meredakan rasa sakit luar biasa dari peradangan pankreas. Karena kondisi ini mengancam nyawa, segera puasakan dan bawa ke rumah sakit hewan darurat."
+                    },
+                    {
+                        "question": "Mengapa timbul bintik hitam seperti komedo dan jerawat di sepanjang tulang belakang Schnauzer saya?",
+                        "answer": "Ini adalah 'Sindrom Komedo Schnauzer' (Schnauzer Comedone Syndrome), yaitu gangguan keratinisasi folikel rambut bawaan ras ini. Penumpukan minyak di punggung membentuk komedo dan jerawat. Jangan dipencet agar tidak terjadi infeksi bakteri sekunder; mandikan secara teratur dengan sampo medis (mengandung benzoyl peroxide atau asam salisilat)."
+                    }
+                ],
+                "tags": [
+                    "MiniatureSchnauzer",
+                    "PerawatanAnjing",
+                    "PankreatitisSchnauzer",
+                    "SindromKomedo"
+                ]
+            }
+        },
+        "category": "CareSelf",
+        "app": "careself",
+        "formatVersion": 4,
+        "heroImage": "/images/blog/miniature_schnauzer_care.webp"
+    }
+}

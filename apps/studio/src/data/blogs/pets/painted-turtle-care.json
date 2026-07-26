@@ -1,0 +1,519 @@
+{
+    "painted-turtle-care": {
+        "pubDate": "2026-06-01",
+        "updatedDate": "2026-07-26",
+        "locales": {
+            "ko": {
+                "title": "페인티드 터틀(니시키가메)의 일광욕 및 행동 신호와 갑각 부패증·MBD 예방 3단계 케어법",
+                "description": "화려한 붉은색과 노란색 무늬가 매력적인 페인티드 터틀(Painted Turtle). 일광욕 다리 뻗기 및 벽 긁기 행동 신호 해석, UVB 및 수온 관리, 갑각 부패증 예방을 위한 3단계 홈케어 가이드를 확인하세요.",
+                "authority": "국제 파충류·양서류 수의사회 (ARAV) 및 Turtle Survival Alliance (TSA) 케어 프로토콜",
+                "profile": {
+                    "breed": "페인티드 터틀 / 니시키가메 (Painted Turtle / Chrysemys picta)",
+                    "lifespan": "20 ~ 30년 (올바른 사육 환경 시 30년 이상)",
+                    "sleep_pattern": "8 ~ 10시간 (주행성, 야간에는 수중 수풀이나 바닥재에서 휴식)",
+                    "temperament": "호기심 많음, 활발함, 일광욕을 매우 좋아함, 예민함"
+                },
+                "intro": "화려한 붉은색과 노란색 테두리 무늬, 매끈한 등갑이 아름다운 페인티드 터틀(Painted Turtle / Chrysemys picta)은 전 세계적으로 사랑받는 대표적인 반수생 거북입니다. 수질이 악화되거나 등갑을 완전히 말릴 수 있는 일광욕 육지(Basking Dock)가 부족하면 피부와 등갑이 썩는 '갑각 부패증(Shell Rot)'에 걸리기 쉬우며, UVB 조사량 및 칼슘 부족은 등갑이 물렁해지는 '대사성 골질환(MBD)'을 유발합니다. 또한 수온이 애매하게 낮아지면 면역력이 떨어져 치명적인 폐렴이나 거식증에 걸릴 위험이 큽니다. 오늘 PetSelf에서는 페인티드 터틀의 신호를 정확히 읽고 건강을 지키는 3단계 루틴을 소개합니다.",
+                "whyTitle": "페인티드 터틀의 바디랭귀지: 일광욕 다리 뻗기(Solar Stretching)와 어항 벽 긁기(Glass Surfing)",
+                "whyDesc": "페인티드 터틀은 일광욕 자세와 헤엄치는 행동으로 건강 상태와 스트레스를 명확히 표현합니다. 육지 위에서 UVB·열등을 쬐며 뒷다리를 공중에 뻗는 **'일광욕 다리 뻗기(Solar Stretching)'**는 체온을 올리고 등갑 사이의 습기를 말려 곰팡이를 예방하는 건강한 휴식 신호입니다. 반면, 어항 유리벽에 몸을 비비며 계속 헤엄치는 **'어항 벽 긁기(Glass Surfing)'**는 수질 오염, 수온 불쾌감, 좁은 어항 스트레스, 또는 산란기 스트레스를 나타내는 경고 신호입니다.",
+                "body_signals": [
+                    {
+                        "name": "육지 위에서 뒷다리를 공중에 피인 뻗음 (Solar Stretching)",
+                        "meaning": "체온을 효율적으로 올리고 등갑과 피부의 수분을 완전히 건조시켜 진균 감염을 막는 정상적이고 건강한 체온 조절 신호입니다.",
+                        "response": "체온 조절과 UVB 흡수를 방해하지 않도록 어항 근처에서 갑작스러운 움직임이나 큰 소리를 내지 마세요."
+                    },
+                    {
+                        "name": "어항 유리벽을 향해 파도치듯 계속 헤엄침 (Glass Surfing)",
+                        "meaning": "암모니아 농도 상승 등 수질 오염, 수온·일광욕 온도 부적절, 여과기 수류 스트레스, 산란 장소 부족 신호입니다.",
+                        "response": "즉시 수질(암모니아/아질산)과 수온(23°C ~ 26°C)을 점검하고 잔여 사료 청소 및 환수를 진행하세요."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 수온(23°C ~ 26°C) 및 일광욕 육지(30°C ~ 33°C) 점검과 사료 급여",
+                        "text": "수중 히터와 UVB/스팟 램프의 작동 상태를 확인하고 연령에 맞는 거북이 전용 사료와 야채·단백질을 급여합니다."
+                    },
+                    {
+                        "name": "점심: 여과기 수류 확인 및 등갑 완전 건조 모니터링",
+                        "text": "여과기 출수량을 확인하여 출수 수류를 깨끗하게 유지하고, 거북이가 육지에 올라가 등갑을 말릴 수 있는 조용한 환경을 유지합니다."
+                    },
+                    {
+                        "name": "저녁: 잔여 사료·배설물 제거 및 12시간 소등 주기 유지",
+                        "text": "수질 오염을 막기 위해 뜰채로 배설물과 잔여 사료를 제거하고 정상 생체 주기를 위해 UVB/조명을 소등합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "거북이 등갑이 물렁해지거나 하얀 패인 자국이 생기는데 왜 그런가요?",
+                        "answer": "등갑이 물렁해지는 것은 UVB 램프 및 칼슘 부족으로 인한 '대사성 골질환(MBD)' 증상이며, 하얀 패임이나 냄새는 세균·진균성 '갑각 부패증(Shell Rot)'입니다. 예방을 위해 하루 10 ~ 12시간의 UVB 조사와 등갑이 완전히 마르는 30°C ~ 33°C의 일광욕 육지, 강력한 수중 여과기를 갖춰주어야 합니다."
+                    },
+                    {
+                        "question": "실내에서 키우는 페인티드 터틀도 겨울에 쿨링(동면)을 시켜야 하나요?",
+                        "answer": "실내 사육 시 인공적인 동면은 절대 금물입니다! 적절한 온도 제어 없이 실내 온도가 어중간하게 낮아지면(10°C ~ 18°C) 완전한 동면에 들지 못하고 면역력만 떨어져 폐렴이나 거식증으로 사망하게 됩니다. 수중 히터를 사용하여 연중 수온을 23°C ~ 26°C로 따뜻하게 유지해 주세요."
+                    }
+                ],
+                "tags": [
+                    "페인티드터틀",
+                    "반수생거북이케어",
+                    "거북이일광욕",
+                    "갑각부패증예방"
+                ]
+            },
+            "en": {
+                "title": "Painted Turtle Basking & Behavioral Signals: 3-Step Care to Prevent Shell Rot & MBD",
+                "description": "Learn Painted Turtle care: decode Solar Stretching and Glass Surfing signals, manage water and basking temperatures, and prevent Shell Rot and MBD with a 3-step daily routine.",
+                "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) & Turtle Survival Alliance (TSA)",
+                "profile": {
+                    "breed": "Painted Turtle (Chrysemys picta)",
+                    "lifespan": "20 ~ 30 Years (30+ years with proper care)",
+                    "sleep_pattern": "8 ~ 10 Hours (Diurnal, sleeps underwater anchored to plants or substrate)",
+                    "temperament": "Curious, Active, Avid Baskar, Sensitive"
+                },
+                "intro": "Renowned for their striking red and yellow markings and smooth carapace, Painted Turtles (Chrysemys picta) are among the most beloved aquatic turtles worldwide. However, if their water quality deteriorates or they lack a proper basking dock to completely dry their shell, they easily develop 'Shell Rot' (bacterial/fungal ulcerative shell disease). Furthermore, inadequate UVB exposure and calcium intake cause 'Metabolic Bone Disease' (MBD), leading to soft, deformed shells. Unregulated room temperature drops below 20°C (68°F) can also suppress their immune system, causing fatal respiratory infections. Today, PetSelf presents a 3-step daily care routine to understand your Painted Turtle's signals and protect its health.",
+                "whyTitle": "Painted Turtle Body Language: Solar Stretching and Glass Surfing",
+                "whyDesc": "Painted Turtles communicate their comfort and environmental stress through basking postures and swimming behavior. Extending rear legs into the air under a heat/UVB lamp **'Solar Stretching (Basking Leg Extension)'** is a healthy relaxation signal that raises body temperature and dries shell seams to prevent fungal growth. Conversely, continuously swimming against the glass wall **'Glass Surfing'** is an explicit warning sign indicating poor water quality, improper temperatures, inadequate tank space, or egg-laying stress in gravid females.",
+                "body_signals": [
+                    {
+                        "name": "Extending Rear Legs in the Air While Basking (Solar Stretching)",
+                        "meaning": "A healthy, normal behavior used to maximize heat absorption and dry out moisture in skin folds and scutes, preventing fungal infections.",
+                        "response": "Avoid sudden movements or loud noises near the tank so they can thermoregulate and absorb UVB undisturbed."
+                    },
+                    {
+                        "name": "Continuously Swimming and Scrabbling Against Glass (Glass Surfing)",
+                        "meaning": "A sign of environmental stress caused by ammonia spikes, incorrect water/basking temperatures, strong filter currents, or lack of nesting space.",
+                        "response": "Immediately test water parameters (ammonia/nitrates), check temperatures (water: 23°C–26°C / 74°F–78°F), and perform a water change or remove food debris."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Water (23°C–26°C) & Basking Temp (30°C–33°C) Check & Feeding",
+                        "text": "Verify submersible heater and UVB/heat lamp operation, feeding age-appropriate turtle pellets supplemented with leafy greens or protein."
+                    },
+                    {
+                        "name": "Afternoon: Filter Flow Check & Complete Shell Drying Monitoring",
+                        "text": "Check water filter output to ensure pristine water quality, maintaining a quiet environment so the turtle can bask and completely dry its carapace."
+                    },
+                    {
+                        "name": "Evening: Waste/Uneaten Food Removal & 12-Hour Light Cycle Control",
+                        "text": "Scoop out leftover food and waste to prevent ammonia spikes, turning off UVB and heat lamps to maintain a natural day/night rhythm."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Why is my turtle's shell getting soft or developing white pitted spots?",
+                        "answer": "A soft shell indicates 'Metabolic Bone Disease' (MBD) caused by lack of UVB lighting or dietary calcium. White pits, soft spots, or foul odor indicate 'Shell Rot' (bacterial/fungal infection). To prevent these, provide 10–12 hours of daily UVB light, a dry basking platform at 30°C–33°C (85°F–92°F), and a powerful canister filter for clean water."
+                    },
+                    {
+                        "question": "Should indoor captive Painted Turtles be allowed to hibernate during winter?",
+                        "answer": "No, forced hibernation in indoor tanks is extremely dangerous! Without precise temperature and humidity controls, cool indoor temperatures (10°C–18°C) cause semi-torpor rather than true hibernation, shutting down the immune system and leading to fatal pneumonia or starvation. Use a water heater to keep water temperatures warm at 23°C–26°C (74°F–78°F) year-round."
+                    }
+                ],
+                "tags": [
+                    "PaintedTurtle",
+                    "AquaticTurtleCare",
+                    "TurtleBasking",
+                    "ShellRotPrevention"
+                ]
+            },
+            "ja": {
+                "title": "ペインテッドタートル（ニシキガメ）の行動サイン解読と甲羅腐敗症・MBD予防のための3ステップデイリールーティン",
+                "description": "鮮やかな模様が魅力的な水棲ガメ、ペインテッドタートル（ニシキガメ）。バスキング中の足伸ばしや壁掻きサインの解読、UVB・水温管理および甲羅腐敗症予防のための3ステップホームケアを紹介します。",
+                "authority": "国際爬虫類・両生類獣医師会 (ARAV) および Turtle Survival Alliance (TSA) 飼育基準",
+                "profile": {
+                    "breed": "ペインテッドタートル / ニシキガメ (Painted Turtle / Chrysemys picta)",
+                    "lifespan": "20 〜 30年 (適切なケアで30年以上)",
+                    "sleep_pattern": "8 〜 10時間 (昼行性、夜間は水中の水草や水底で睡眠)",
+                    "temperament": "好奇心旺盛、活発、日光浴（バスキング）が好き、繊細"
+                },
+                "intro": "鮮やかな赤や黄色の模様となめらかな甲羅が美しいペインテッドタートル（ニシキガメ / Chrysemys picta）は、世界中で愛されている代表的な半水棲ガメです。水質が悪化したり、甲羅を完全に乾かすバスキングランド（日光浴場）が不足すると、皮膚や甲羅が腐る「甲羅腐敗症（Shell Rot）」にかかりやすく、UVB照射やカルシウム不足は甲羅が柔らかくなる「代謝性骨疾患（MBD）」を引き起こします。また、水温が中途半端に低下すると免疫力が低下し、致命的な肺炎や食欲不振に陥る危険があります。本日PetSelfでは、ペインテッドタートルのサインを正確に読み解き、健康を守る3ステップルーティンをお届けします。",
+                "whyTitle": "ペインテッドタートルのボディランゲージ：バスキング中の足伸ばし(Solar Stretching)と水槽の壁掻き(Glass Surfing)",
+                "whyDesc": "ペインテッドタートルは日光浴の姿勢や泳ぎ方で健康状態やストレスを明確に表現します。陸の上でUVB・バスキングライトを浴びながら後脚を空中に伸ばす**「バスキング足伸ばし（Solar Stretching）」**は、体温を上げて甲羅のシームの湿気を乾かし、カビを防ぐ健康な休息サインです。一方、水槽のガラス面に体をこすりつけながら泳ぎ続ける**「水槽壁掻き（Glass Surfing）」**は、水質汚染、水温不適合、狭い飼育環境、または産卵期のストレスを示す警戒サインです。",
+                "body_signals": [
+                    {
+                        "name": "陸の上で後脚を空中にピーンと伸ばす (Solar Stretching)",
+                        "meaning": "体温を効率よく上げ、甲羅や皮膚の水分を完全に乾燥させて真菌感染を防ぐ正常で健康な体調管理サインです。",
+                        "response": "体温調節やUVB吸収を邪魔しないよう、水槽の近くで急に動いたり大きな音を出さないようにしましょう。"
+                    },
+                    {
+                        "name": "水槽のガラス壁に向かってもがくように泳ぎ続ける (Glass Surfing)",
+                        "meaning": "アンモニア濃度上昇などの水質汚染、水温・バスキング温度の不適切、フィルターの水流ストレス、産卵場所の不足サインです。",
+                        "response": "すぐに水質（アンモニア/硝酸塩）と水温（23〜26°C）を確認し、食べ残しの清掃や換水を行ってください。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：水温（23°C〜26°C）およびバスキング場（30°C〜33°C）の点検と給餌",
+                        "text": "水中ヒーターとUVB/バスキングライトの作動を確認し、成長段階に合わせたカメ専用ペレットや野菜・タンパク質を与えます。"
+                    },
+                    {
+                        "name": "昼：フィルターの水流確認と甲羅の完全乾燥モニタリング",
+                        "text": "フィルターの吐出量を確認して水質を清潔に保ち、カメが陸に上がって甲羅を乾かせる静かな環境を維持します。"
+                    },
+                    {
+                        "name": "夜：残餌・排泄物の除去と12時間消灯サイクルの維持",
+                        "text": "水質悪化を防ぐためネットで排泄物や残餌を取り除き、正常な体内時計のためにUVB/ライトを消灯します。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "カメの甲羅が柔らかくなったり、白い窪みができたりするのはなぜですか？",
+                        "answer": "甲羅が柔らかくなるのはUVBライトやカルシウム不足による「代謝性骨疾患（MBD）」の症状であり、白い窪みや斑点は細菌・真菌性の「甲羅腐敗症（Shell Rot）」です。予防のために1日10〜12時間のUVB照射と、甲羅が完全に乾く30〜33°Cのバスキング陸地、強力な水中フィルターを用意してください。"
+                    },
+                    {
+                        "question": "室内で飼育しているペインテッドタートルも冬にクーリング（冬眠）させるべきですか？",
+                        "answer": "室内飼育での人工的な冬眠は絶対に厳禁です！適切な温度管理なしに室内温度が中途半端に下がると（10〜18°C）、完全な冬眠に入れず免疫力だけが低下し、肺炎や拒食症で死亡する原因になります。水中ヒーターを使用して年間を通じて水温を23〜26°Cに温かく保ってください。"
+                    }
+                ],
+                "tags": [
+                    "ペインテッドタートル",
+                    "水棲ガメケア",
+                    "カメの日光浴",
+                    "甲羅腐敗症予防"
+                ]
+            },
+            "zh": {
+                "title": "锦龟（Painted Turtle）行为信号解读及腐甲病与 MBD 预防的3步日常流程",
+                "description": "拥有绚丽花纹的水龟锦龟（Painted Turtle）。解读晒背伸腿与撞缸/刮缸行为信号，管理 UVB 与水温，预防腐甲病及代谢性骨病（MBD）的3步骤家庭护理。",
+                "authority": "国际爬行动物与两栖动物兽医师协会 (ARAV) 及 Turtle Survival Alliance (TSA) 护理标准",
+                "profile": {
+                    "breed": "锦龟 (Painted Turtle / Chrysemys picta)",
+                    "lifespan": "20 ~ 30年 (科学饲养可达30年以上)",
+                    "sleep_pattern": "8 ~ 10小时 (昼行性，夜间在水底或水草中睡眠)",
+                    "temperament": "好奇心强、活泼、极喜爱晒背、敏感"
+                },
+                "intro": "因边缘鲜艳的红色与黄色斑纹及光滑甲壳而闻名的锦龟（Painted Turtle / Chrysemys picta），是风靡全球的代表性半水栖龟类。若水质恶化或缺乏能使甲壳完全干燥的晒背台，极易患上皮肤与龟甲溃烂的“腐甲病 (Shell Rot)”；而 UVB 照射与钙质不足则会导致龟甲变软的“代谢性骨病 (MBD)”。此外，水温不当降低会导致免疫力下降，引发致命的肺炎或拒食。今天 PetSelf 将带您准确解读锦龟的行为信号，并通过3步骤日常护理维护其健康。",
+                "whyTitle": "锦龟肢体语言：晒背伸腿 (Solar Stretching) 与撞缸/刮缸 (Glass Surfing)",
+                "whyDesc": "锦龟通过晒背姿态与游动行为清晰表达其舒适度与环境应激。在晒背灯与 UVB 下伸展后腿**“晒背伸腿 (Solar Stretching)”**是提升体温并干燥龟甲接缝、预防真菌感染的健康休息信号。相反，沿缸壁不断摩擦游动**“撞缸/刮缸 (Glass Surfing)”**则是水质恶化（氨氮飙升）、水温不适、饲养空间狭小或雌龟临产应激的警告信号。",
+                "body_signals": [
+                    {
+                        "name": "在晒台上将后腿向后伸直 (Solar Stretching)",
+                        "meaning": "高效吸收热量并完全干燥龟甲与皮肤褶皱水分、防止真菌感染的正常健康体温调节行为。",
+                        "response": "切勿在缸前突然移动或发出噪音，以免打扰其体温调节与 UVB 吸收。"
+                    },
+                    {
+                        "name": "贴着缸壁如划水般持续撞击游动 (Glass Surfing)",
+                        "meaning": "氨氮浓度升高水质恶化、水温/晒背温度不适、过滤器水流过大或缺乏产卵场地的应激信号。",
+                        "response": "立即检测水质（氨氮/亚硝酸盐）与水温（保持在 23°C~26°C），清理残粮并进行换水。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：水温（23°C~26°C）与晒背台（30°C~33°C）检查及喂食",
+                        "text": "检查加热棒与 UVB/热灯运行状态，投喂适合年龄的水龟专用饲料，并辅以新鲜深色叶菜或蛋白质。"
+                    },
+                    {
+                        "name": "中午：过滤器水流检查与龟甲完全干燥观察",
+                        "text": "检查过滤器出流量以维持水质洁净，保持环境安静以便锦龟登台将龟甲彻底晾干。"
+                    },
+                    {
+                        "name": "晚上：清理残渣粪便与维持 12 小时关灯休息",
+                        "text": "用捞网清理排泄物与残粮以防水质恶化，关闭 UVB 与热灯以维持自然昼夜节律。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "锦龟的龟甲变软或出现白色凹陷斑点是为什么？",
+                        "answer": "龟甲变软是缺乏 UVB 照射或钙质导致的“代谢性骨病 (MBD)”；白色凹陷、软斑或异味则是细菌/真菌感染引起的“腐甲病 (Shell Rot)”。预防需保证每日 10~12 小时 UVB 照射、30°C~33°C 干燥晒台及强大的过滤系统。"
+                    },
+                    {
+                        "question": "室内饲养的锦龟在冬天需要进行人工冬眠吗？",
+                        "answer": "绝对严禁室内人工冬眠！在缺乏精确控温的环境下，室内温水降至半生不熟的 10°C~18°C 会导致龟体无法进入深度冬眠而仅降低免疫力，极易诱发致命肺炎或饿死。请使用水族加热棒全年将水温维持在 23°C~26°C。"
+                    }
+                ],
+                "tags": [
+                    "锦龟",
+                    "水龟护理",
+                    "乌龟晒背",
+                    "腐甲病预防"
+                ]
+            },
+            "es": {
+                "title": "Señales de Comportamiento de la Tortuga Pintada: Cuidados para Prevenir la Podredumbre del Caparazón y MBD",
+                "description": "Aprenda el cuidado de la Tortuga Pintada: interprete las señales de Solar Stretching y Glass Surfing, controle la temperatura y prevenga enfermedades con una rutina de 3 pasos.",
+                "authority": "Asociación de Veterinarios de Reptiles y Anfibios (ARAV) & Turtle Survival Alliance (TSA)",
+                "profile": {
+                    "breed": "Tortuga Pintada (Chrysemys picta)",
+                    "lifespan": "20 ~ 30 Años (Más de 30 años con cuidados adecuados)",
+                    "sleep_pattern": "8 ~ 10 Horas (Diurna, duerme bajo el agua sujeta a plantas o sustrato)",
+                    "temperament": "Curiosa, Activa, Le gusta tomar el sol, Sensible"
+                },
+                "intro": "Famosa por sus llamativas marcas rojas y amarillas y su caparazón liso, la Tortuga Pintada (Chrysemys picta) es una de las tortugas acuáticas más queridas en todo el mundo. Sin embargo, si la calidad del agua se deteriora o carecen de una plataforma adecuada para secar completamente su caparazón, desarrollan fácilmente 'Podredumbre del Caparazón' (Shell Rot). Además, la exposición inadecuada a UVB y la falta de calcio causan 'Enfermedad Ósea Metabólica' (MBD). Hoy en PetSelf presentamos una rutina diaria de 3 pasos para proteger la salud de su tortuga.",
+                "whyTitle": "Lenguaje Corporal de la Tortuga Pintada: Estiramiento Solar (Solar Stretching) y Glass Surfing",
+                "whyDesc": "La Tortuga Pintada comunica su bienestar y estrés ambiental mediante posturas al tomar el sol y patrones de natación. Estirar las patas traseras al aire bajo la lámpara **'Estiramiento Solar (Solar Stretching)'** es una señal saludable de relajación. Por el contrario, nadar continuamente contra el cristal **'Glass Surfing'** es una advertencia de estrés ambiental.",
+                "body_signals": [
+                    {
+                        "name": "Estirar Patas Traseras al Aire mientras Toma el Sol (Solar Stretching)",
+                        "meaning": "Comportamiento normal para maximizar la absorción de calor y secar la humedad de los escudos, previniendo infecciones por hongos.",
+                        "response": "Evite movimientos bruscos o ruidos fuertes cerca del acuario para que pueda termorregularse sin interrupciones."
+                    },
+                    {
+                        "name": "Nadar Continuamente contra el Cristal del Acuario (Glass Surfing)",
+                        "meaning": "Señal de estrés ambiental causada por picos de amoníaco, temperaturas incorrectas o corrientes de agua muy fuertes.",
+                        "response": "Pruebe inmediatamente los parámetros del agua, verifique las temperaturas (Agua: 23°C–26°C) y realice un cambio de agua parcial."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Control de Temp de Agua (23°C–26°C) y Zona de Sol (30°C–33°C) y Alimentación",
+                        "text": "Verifique el calentador sumergible y la lámpara UVB, ofreciendo alimento comercial específico complementado con vegetales."
+                    },
+                    {
+                        "name": "Tarde: Verificación del Filtro y Monitoreo del Secado del Caparazón",
+                        "text": "Compruebe el flujo del filtro para garantizar un agua limpia y mantenga un entorno tranquilo para que se seque completamente."
+                    },
+                    {
+                        "name": "Noche: Limpieza de Residuos y Control del Ciclo de Luz de 12 Horas",
+                        "text": "Retire restos de comida y excrementos para evitar picos de amoníaco y apague las luces UVB para respetar el ritmo circadiano."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Por qué el caparazón de mi tortuga se vuelve blando o presenta manchas blancas?",
+                        "answer": "Un caparazón blando indica Enfermedad Ósea Metabólica (MBD) por falta de luz UVB o calcio. Las manchas blancas o grietas indican Podredumbre del Caparazón (Shell Rot). Proporcione 10–12 horas diarias de luz UVB y una zona seca a 30°C–33°C."
+                    },
+                    {
+                        "question": "¿Las tortugas pintadas en cautiverio deben hibernar en invierno?",
+                        "answer": "¡No! La hibernación forzada en acuarios de interior es extremadamente peligrosa. Las temperaturas bajas intermedias debilitan el sistema inmunológico. Mantenga el agua a 23°C–26°C durante todo el año con un calentador."
+                    }
+                ],
+                "tags": [
+                    "TortugaPintada",
+                    "CuidadoDeTortugasAcuaticas",
+                    "TomarElSol",
+                    "PodredumbreDelCaparazon"
+                ]
+            },
+            "fr": {
+                "title": "Signaux Comportementaux de la Tortue Peinte : Soins pour Prévenir la Pourriture de la Carapace et la MBD",
+                "description": "Guide de soin de la Tortue Peinte : décodez l'étirement solar et le glass surfing, gérez les températures et prévenez la pourriture de carapace grâce à une routine en 3 étapes.",
+                "authority": "Association des Vétérinaires de Reptiles et Amphibiens (ARAV) & Turtle Survival Alliance (TSA)",
+                "profile": {
+                    "breed": "Tortue Peinte (Chrysemys picta)",
+                    "lifespan": "20 ~ 30 Ans (Plus de 30 ans avec des soins appropriés)",
+                    "sleep_pattern": "8 ~ 10 Heures (Diurne, dort sous l'eau ancrée aux plantes ou au substrat)",
+                    "temperament": "Curieuse, Active, Adore le bain de soleil, Sensible"
+                },
+                "intro": "Célèbre pour ses motifs rouges et jaunes vifs et sa carapace lisse, la Tortue Peinte (Chrysemys picta) est une tortue aquatique très appréciée. Sans une eau propre et une plage sèche pour sécher sa carapace, elle peut développer la pourriture de la carapace. Un manque de UVB et de calcium entraîne la Maladie Osseuse Métabolique (MBD). Découvrez la routine en 3 étapes de PetSelf.",
+                "whyTitle": "Langage Corporel de la Tortue Peinte : Étirement Solaire (Solar Stretching) et Glass Surfing",
+                "whyDesc": "La Tortue Peinte exprime son confort par ses postures sous la lampe. Étendre les pattes arrière **'Étirement Solaire (Solar Stretching)'** est un signe de relaxation. Frotter la vitre **'Glass Surfing'** indique un stress environnemental.",
+                "body_signals": [
+                    {
+                        "name": "Étendre les Pattes Arrière sous la Lampe (Solar Stretching)",
+                        "meaning": "Comportement sain permettant de maximiser l'absorption de chaleur et de sécher les plis de la peau pour éviter les mycoses.",
+                        "response": "Évitez les mouvements brusques près de l'aquarium pour lui permettre de réguler sa température en toute tranquillité."
+                    },
+                    {
+                        "name": "Nager Continuellement contre la Vitre (Glass Surfing)",
+                        "meaning": "Signe de stress causé par des pics d'ammoniaque, des températures inadaptées ou un courant trop fort.",
+                        "response": "Testez immédiatement les paramètres de l'eau, vérifiez les températures (Eau : 23°C–26°C) et effectuez un changement d'eau."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Contrôle Temp de l'Eau (23°C–26°C) / Plage (30°C–33°C) et Repas",
+                        "text": "Vérifiez le chauffage immergé et la lampe UVB puis donnez des granulés adaptés accompagnés de végétaux."
+                    },
+                    {
+                        "name": "Après-midi : Vérification du Filtre et Séchage de la Carapace",
+                        "text": "Assurez-vous que le filtre fonctionne parfaitement et maintenez un environnement calme pour le séchage."
+                    },
+                    {
+                        "name": "Soir : Retrait des Déchets et Respect du Cycle Lumineux de 12 Heures",
+                        "text": "Retirez les restes de nourriture avec un épuisette et éteignez la lampe UVB pour respecter le rythme circadien."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Pourquoi la carapace de ma tortue devient-elle molle ou présente-t-elle des taches blanches ?",
+                        "answer": "Une carapace molle indique la MBD (manque de UVB/calcium). Des taches blanches ou une odeur fétide indiquent la pourriture de carapace. Fournissez 10 à 12 heures de lumière UVB par jour et une plage sèche."
+                    },
+                    {
+                        "question": "Faut-il faire hiberner une Tortue Peinte élevée en intérieur pendant l'hiver ?",
+                        "answer": "Non ! L'hibernation forcée en aquarium intérieur est dangereuse. Une température ambiante trop fraîche affaiblit son système immunitaire. Maintenez l'eau entre 23°C et 26°C toute l'année."
+                    }
+                ],
+                "tags": [
+                    "TortuePeinte",
+                    "TortueAquatique",
+                    "BainDeSoleil",
+                    "PourritureCarapace"
+                ]
+            },
+            "de": {
+                "title": "Verhaltenssignale der Zierschildkröte: 3-Schritte-Pflege gegen Panzerfäule & MBD",
+                "description": "Erfahren Sie alles zur Pflege der Zierschildkröte: Deuten Sie Sonnen-Beinstrecken und Glass Surfing, regeln Sie die Wassertemperatur und beugen Sie Erkrankungen vor.",
+                "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) & Turtle Survival Alliance (TSA)",
+                "profile": {
+                    "breed": "Zierschildkröte (Chrysemys picta)",
+                    "lifespan": "20 ~ 30 Jahre (Über 30 Jahre bei guter Pflege)",
+                    "sleep_pattern": "8 ~ 10 Stunden (Tagaktiv, schläft unter Wasser an Pflanzen verankert)",
+                    "temperament": "Neugierig, Aktiv, Sonnenanbeter, Empfindlich"
+                },
+                "intro": "Die Zierschildkröte (Chrysemys picta) ist bekannt für ihre leuchtend roten und gelben Muster. Wenn die Wasserqualität sinkt oder ein richtiger Sonnenplatz fehlt, droht Panzerfäule (Shell Rot). Mangelndes UVB-Licht führt zu MBD (Metabolische Knochenerkrankung). PetSelf zeigt den 3-Schritte-Tagesablauf für gesunde Zierschildkröten.",
+                "whyTitle": "Körpersprache der Zierschildkröte: Sonnen-Beinstrecken (Solar Stretching) und Glass Surfing",
+                "whyDesc": "Das Ausstrecken der Hinterbeine beim Sonnenbaden **'Sonnen-Beinstrecken (Solar Stretching)'** ist ein gesundes Entspannungssignal. Das Schwimmen gegen die Scheibe **'Glass Surfing'** deutet auf Wasser- oder Temperaturstress hin.",
+                "body_signals": [
+                    {
+                        "name": "Hinterbeine beim Sonnenbaden in die Luft strecken (Solar Stretching)",
+                        "meaning": "Gesundes Verhalten zur Wärmeaufnahme und Trocknung der Hautfalten gegen Pilzinfektionen.",
+                        "response": "Vermeiden Sie hektische Bewegungen am Becken, damit die Schildkröte ungestört aufwärmen kann."
+                    },
+                    {
+                        "name": "Ununterbrochen gegen die Aquarienscheibe schwimmen (Glass Surfing)",
+                        "meaning": "Stresssignal durch erhöhte Ammoniakwerte, falsche Wassertemperaturen oder zu starke Strömung.",
+                        "response": "Prüfen Sie sofort Wasserwerte und Temperaturen (Wasser: 23°C–26°C) und führen Sie einen Wasserwechsel durch."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Temperatur-Check (Wasser 23°C–26°C / Sonnenplatz 30°C–33°C) & Fütterung",
+                        "text": "Überprüfen Sie Heizer und UVB-Lampe. Füttern Sie Schildkrötenpellets ergänzt durch Frischfutter."
+                    },
+                    {
+                        "name": "Nachmittag: Filterkontrolle und Beobachtung des Panzer-Trocknens",
+                        "text": "Kontrollieren Sie den Filterauslass für sauberes Wasser und sorgen Sie für Ruhe am Sonnenplatz."
+                    },
+                    {
+                        "name": "Abend: Kot- & Futterreste entfernen sowie 12-Stunden-Lichtzyklus",
+                        "text": "Entfernen Sie Futterreste mit dem Kescher und schalten Sie das UVB-Licht abendgerecht aus."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Warum wird der Panzer meiner Schildkröte weich oder bekommt weiße Flecken?",
+                        "answer": "Ein weicher Panzer deutet auf MBD hin (UVB-/Calciummangel). Weiße Flecken zeigen Panzerfäule an. Sorgen Sie für 10–12 Stunden UVB-Licht täglich und einen trockenen Sonnenplatz bei 30°C–33°C."
+                    },
+                    {
+                        "question": "Sollten Zierschildkröten in der Wohnung im Winter eine Überwinterung durchmachen?",
+                        "answer": "Nein! Die erzwungene Überwinterung im Zimmerbecken ist gefährlich. Kühles Zimmerwasser schwächt das Immunsystem. Halten Sie das Wasser ganzjährig bei 23°C–26°C."
+                    }
+                ],
+                "tags": [
+                    "Zierschildkroete",
+                    "WasserschildkroetenPflege",
+                    "Sonnenbaden",
+                    "Panzerfaeule"
+                ]
+            },
+            "pt": {
+                "title": "Sinais de Comportamento da Tartaruga Pintada: Cuidados para Prevenir Podridão do Casco e MBD",
+                "description": "Guia de cuidados da Tartaruga Pintada: entenda os sinais de Alongamento Solar e Glass Surfing, controle a temperatura e evite doenças com uma rotina de 3 passos.",
+                "authority": "Associação de Veterinários de Répteis e Anfíbios (ARAV) & Turtle Survival Alliance (TSA)",
+                "profile": {
+                    "breed": "Tartaruga Pintada (Chrysemys picta)",
+                    "lifespan": "20 ~ 30 Anos (Mais de 30 anos com cuidados adequados)",
+                    "sleep_pattern": "8 ~ 10 Horas (Diurna, dorme sob a água presa a plantas ou substrato)",
+                    "temperament": "Curiosa, Ativa, Adora tomar sol, Sensível"
+                },
+                "intro": "Famosa por suas marcas vermelhas e amarelas vibrantes, a Tartaruga Pintada (Chrysemys picta) é uma tartaruga aquática muito popular. Sem água limpa e um deck para secar o casco, ela pode desenvolver Podridão do Casco. A falta de luz UVB causa Doença Óssea Metabólica (MBD). Veja o guia de 3 passos da PetSelf.",
+                "whyTitle": "Linguagem Corporal da Tartaruga Pintada: Alongamento Solar (Solar Stretching) e Glass Surfing",
+                "whyDesc": "Esticar as patas traseiras ao tomar sol **'Alongamento Solar (Solar Stretching)'** é um sinal saudável de relaxamento. Nadar contra o vidro **'Glass Surfing'** indica estresse ambiental.",
+                "body_signals": [
+                    {
+                        "name": "Esticar Patas Traseiras no Ar ao Tomar Sol (Solar Stretching)",
+                        "meaning": "Comportamento saudável para maximizar a absorção de calor e secar as dobras da pele contra fungos.",
+                        "response": "Evite movimentos bruscos perto do aquário para que ela possa se aquecer em paz."
+                    },
+                    {
+                        "name": "Nadar Continuamente contra o Vidro do Aquário (Glass Surfing)",
+                        "meaning": "Sinal de estresse por picos de amônia, temperaturas inadequadas ou correntes de água muito fortes.",
+                        "response": "Teste imediatamente os parâmetros da água, verifique as temperaturas (Água: 23°C–26°C) e troque a água."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Checagem de Temp da Água (23°C–26°C) / Deck (30°C–33°C) e Alimentação",
+                        "text": "Verifique o aquecedor e a lâmpada UVB, fornecendo ração específica complementada com vegetais."
+                    },
+                    {
+                        "name": "Tarde: Verificação do Filtro e Monitoramento da Secagem do Casco",
+                        "text": "Garanta que o filtro mantenha a água limpa e mantenha um ambiente calmo para a secagem do casco."
+                    },
+                    {
+                        "name": "Noite: Remoção de Resíduos e Ciclo de Luz de 12 Horas",
+                        "text": "Remova restos de ração e sujeiras com uma rede e desligue as luzes UVB para respeitar o ritmo circadiano."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Por que o casco da minha tartaruga está ficando mole ou com manchas brancas?",
+                        "answer": "Casco mole indica MBD (falta de UVB/cálcio). Manchas brancas ou odor forte indicam Podridão do Casco. Ofereça 10 a 12 horas diárias de luz UVB e um deck seco a 30°C–33°C."
+                    },
+                    {
+                        "question": "Tartarugas pintadas criadas em cativeiro interno devem hibernar no inverno?",
+                        "answer": "Não! A hibernação forçada em aquários internos é perigosa. Temperaturas frias intermediárias enfraquecem a imunidade. Mantenha a água aquecida a 23°C–26°C o ano todo."
+                    }
+                ],
+                "tags": [
+                    "TartarugaPintada",
+                    "TartarugaAquatica",
+                    "BanhoDeSol",
+                    "PodridaoDoCasco"
+                ]
+            },
+            "id": {
+                "title": "Sinyal Perilaku Kura-Kura Painted: 3 Langkah Perawatan Mencegah Shell Rot & MBD",
+                "description": "Panduan perawatan Kura-kura Painted: pahami sinyal Solar Stretching & Glass Surfing, kelola suhu air dan cegah pembusukan tempurung dengan rutinitas 3 langkah.",
+                "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) & Turtle Survival Alliance (TSA)",
+                "profile": {
+                    "breed": "Kura-kura Painted (Chrysemys picta)",
+                    "lifespan": "20 ~ 30 Tahun (Lebih dari 30 tahun dengan perawatan tepat)",
+                    "sleep_pattern": "8 ~ 10 Jam (Diurnal, tidur di dalam air menempel pada tanaman atau substrat)",
+                    "temperament": "Rasa ingin tahu tinggi, Aktif, Suka berjemur, Sensitif"
+                },
+                "intro": "Terkenal dengan corak merah dan kuning yang cerah serta tempurung yang halus, Kura-kura Painted (Chrysemys picta) adalah kura-kura semi-akuatik yang sangat populer. Tanpa kualitas air yang baik dan daratan berjemur untuk mengeringkan tempurung, mereka rentan kena Shell Rot. Kurangnya cahaya UVB menyebabkan penyakit MBD. Ikuti panduan 3 langkah PetSelf.",
+                "whyTitle": "Bahasa Tubuh Kura-kura Painted: Solar Stretching dan Glass Surfing",
+                "whyDesc": "Meluruskan kaki belakang saat berjemur **'Solar Stretching (Meregangkan Kaki)'** adalah sinyal relaksasi yang sehat. Berenang menabrak kaca **'Glass Surfing'** menandakan stres lingkungan.",
+                "body_signals": [
+                    {
+                        "name": "Meluruskan Kaki Belakang di Udara saat Berjemur (Solar Stretching)",
+                        "meaning": "Perilaku normal untuk memaksimalkan penyerapan panas dan mengeringkan lipatan kulit guna mencegah jamur.",
+                        "response": "Hindari gerakan mendadak di dekat akuarium agar kura-kura dapat berjemur tanpa terganggu."
+                    },
+                    {
+                        "name": "Berenang Terus Menerus Menabrak Kaca Akuarium (Glass Surfing)",
+                        "meaning": "Sinyal stres akibat lonjakan amonia, suhu air yang salah, atau arus filter yang terlalu kuat.",
+                        "response": "Segera tes parameter air, periksa suhu (Air: 23°C–26°C), dan lakukan pergantian air."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Cek Suhu Air (23°C–26°C) / Area Berjemur (30°C–33°C) & Pemberian Pakan",
+                        "text": "Periksa heater dan lampu UVB, berikan pelet kura-kura khusus yang dilengkapi dengan sayuran segar."
+                    },
+                    {
+                        "name": "Siang: Pemeriksaan Arus Filter & Pengeringan Tempurung",
+                        "text": "Pastikan filter bekerja dengan baik dan pertahankan suasana tenang agar kura-kura bisa mengeringkan tempurungnya."
+                    },
+                    {
+                        "name": "Malam: Pembersihan Sisa Makanan & Pemadaman Lampu 12 Jam",
+                        "text": "Bersihkan kotoran dan sisa makanan dengan serokan lalu matikan lampu UVB untuk menjaga ritme tidur."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mengapa tempurung kura-kura saya menjadi lunak atau ada bercak putih?",
+                        "answer": "Tempurung lunak menandakan MBD (kurang UVB/kalsium). Bercak putih atau bau tak sedap menandakan Shell Rot (pembusukan tempurung). Berikan lampu UVB 10-12 jam sehari dan daratan berjemur yang kering."
+                    },
+                    {
+                        "question": "Apakah Kura-kura Painted yang dipelihara di dalam ruangan harus hibernasi saat musim dingin?",
+                        "answer": "Tidak! Hibernasi paksa di akuarium dalam ruangan sangat berbahaya. Suhu dingin sedang justru menurunkan kekebalan tubuh. Gunakan water heater untuk menjaga suhu air 23°C–26°C sepanjang tahun."
+                    }
+                ],
+                "tags": [
+                    "KuraKuraPainted",
+                    "PerawatanKuraKuraAir",
+                    "Berjemur",
+                    "PencegahanShellRot"
+                ]
+            }
+        },
+        "meta": {
+            "id": "painted-turtle-care",
+            "category": "PetSelf",
+            "app": "petself",
+            "formatVersion": 4,
+            "heroImage": "/images/blog/painted_turtle_care.webp"
+        }
+    }
+}

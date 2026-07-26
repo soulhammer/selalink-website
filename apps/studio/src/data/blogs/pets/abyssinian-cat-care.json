@@ -1,0 +1,516 @@
+{
+    "abyssinian-care": {
+        "pubDate": "2026-06-01",
+        "updatedDate": "2026-07-26",
+        "locales": {
+            "ko": {
+                "title": "아비시니안 고양이의 교감 신호 해석과 빈혈·치주염 예방을 위한 3단계 데일리 케어",
+                "description": "날렵하고 사교적인 아비시니안(Abyssinian). 헤드버팅·눈인사 신호 해석, 유전성 빈혈(PKD) 예방 및 치아·수직 공간 관리를 위한 3단계 홈케어 루틴을 소개합니다.",
+                "authority": "국제고양이애호가협회(CFA) 및 세계소동물수의사회(WSAVA) 고양이 내과·유전학 케어 프로토콜",
+                "profile": {
+                    "breed": "아비시니안 (Abyssinian)",
+                    "lifespan": "12 ~ 15년 (올바른 건강 관리 시 18년 이상)",
+                    "sleep_pattern": "12 ~ 16시간 (풍부한 수직 공간 놀이 후 깊은 수면)",
+                    "temperament": "호기심 많음, 지능적, 매우 활동적, 사교적, 높이 오르기 좋아함"
+                },
+                "intro": "퓨마를 연상시키는 날렵한 체형과 빛나는 태비(Ticked Tabby) 코트를 가진 아비시니안(Abyssinian)은 고양이계의 클라운(광대)이라 불릴 만큼 유쾌하고 지능이 뛰어난 품종입니다. 아비시니안은 왕성한 호기심과 수직 공간 열망이 강해 캣타워와 캣폴 등의 고공 환경이 부족할 경우 스트레스 반응을 보이기 쉽습니다. 또한 적혈구 파괴를 유발하는 유전성 질환인 '피루베이트 키나아제 결핍증(PKD 빈혈)'과 초기 치은염/치주염, 진행성 망막 위축증(PRA)에 취약합니다. 오늘 PetSelf에서는 아비시니안의 교감 신호를 올바르게 이해하고 건강을 지키는 3단계 데일리 케어 루틴을 전해드립니다.",
+                "whyTitle": "아비시니안의 바디 랭귀지: 헤드버팅(Head-Butting)과 잇몸 창백·기력 저하 신호",
+                "whyDesc": "아비시니안은 얼굴 동작과 몸의 상태로 보호자에 대한 애정과 유전 질환 신호를 알립니다. 머리를 보호자의 얼굴이나 손에 콩 찍고 볼을 문지르는 **'헤드버팅(Head-Butting)'**은 페로몬을 묻히며 깊은 신뢰와 소유권을 표현하는 애정 신호입니다. 반면 핑크빛이어야 할 잇몸이 하얗게 바래고 좋아하는 캣타워 점프를 거부한 채 구석에 웅크려 있는 **'창백한 잇몸과 기력 저하(Pale Gums & Lethargy)'**는 유전성 PK 결핍증에 의한 만성 빈혈이나 중증 치통의 경고 신호입니다.",
+                "body_signals": [
+                    {
+                        "name": "머리를 콩 찍고 볼을 문지름 (Head-Butting / Bunting)",
+                        "meaning": "보호자를 안전한 자신의 영역이자 가족으로 인식하여 페로몬을 묻히는 깊은 애정 및 신뢰 신호입니다.",
+                        "response": "손을 내밀어 턱 아래나 이마를 부드럽게 긁어주며 적극적으로 애정 반응을 화답해 줍니다."
+                    },
+                    {
+                        "name": "잇몸이 하얗게 바래고 무기력하게 숨어있음 (Pale Gums & Lethargy)",
+                        "meaning": "적혈구가 파괴되는 유전성 피루베이트 키나아제 결핍증(PKD) 빈혈 또는 급성 치주염 통증 신호입니다.",
+                        "response": "즉시 잇몸 색상을 관찰하고 신속히 동물병원에서 혈액 검사(CBC) 및 유전자 검사를 진행합니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 잇몸·치아 양치질 케어 및 유전성 빈혈/기력 모니터링",
+                        "text": "치주염에 취약하므로 고양이 전용 치약으로 양치질을 실시하고, 잇몸 색상과 아침 식욕 상태를 체크합니다."
+                    },
+                    {
+                        "name": "낮: 수직 공간(캣타워/캣폴) 점검 및 창가 햇빛 쬐기 환경 조성",
+                        "text": "뛰어난 점프력을 발휘할 수 있도록 높고 안전한 캣타워 환경을 유지하고 지루함 방지를 위한 창가 장난감을 배치합니다."
+                    },
+                    {
+                        "name": "저녁: 사냥 놀이(20~30분) 및 신선한 수분 공급",
+                        "text": "왕성한 에너지를 발산하도록 오뎅꼬치나 레이저 사냥 놀이를 진행하고, 요로 질환 방지를 위해 깨끗한 음수대를 관리합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "아비시니안 고양이가 갑자기 구석에 숨고 잇몸이 창백해졌는데 유전병인가요?",
+                        "answer": "유전성 '피루베이트 키나아제 결핍증(PKD / Pyruvate Kinase Deficiency)'에 의한 용혈성 빈혈일 가능성이 높습니다. 적혈구 효소 부족으로 피가 부족해져 잇몸이 창백해지고 호흡이 빨라지며 기력이 떨어집니다. 방치 시 생명이 위험하므로 즉시 동물병원에서 혈액 검사 및 수혈/약물 치료를 받아야 합니다."
+                    },
+                    {
+                        "question": "아비시니안이 하루 종일 집안을 뛰어다니고 우두커니 높은 곳만 찾아 올라가요.",
+                        "answer": "아비시니안은 고양이계의 아크로바틱 선수라 불릴 만큼 높은 수직 공간 욕구와 에너지를 가진 품종입니다. 높은 캣타워, 캣폴, 벽선반이 부족하면 스트레스를 받아 가구를 긁거나 야간 줌키(Zoomies) 행동을 보일 수 있으므로 수직 공간을 적극 조성해 주고 매일 20분 이상 강도 높은 사냥 놀이를 해주세요."
+                    }
+                ],
+                "tags": [
+                    "아비시니안",
+                    "고양이케어",
+                    "아비시니안빈혈",
+                    "고양이치주염"
+                ]
+            },
+            "en": {
+                "title": "Abyssinian Bonding Signals and 3-Step Daily Routine for Anemia and Dental Care",
+                "description": "Care guide for the sleek Abyssinian. Interpret head-butting and pale gums, prevent Pyruvate Kinase Deficiency (PKD) anemia, and manage vertical space and dental health in 3 steps.",
+                "authority": "Cat Fanciers' Association (CFA) & World Small Animal Veterinary Association (WSAVA) Feline Care Protocols",
+                "profile": {
+                    "breed": "Abyssinian (Abyssinian)",
+                    "lifespan": "12 - 15 Years (Up to 18+ years with optimal care)",
+                    "sleep_pattern": "12 - 16 Hours (Deep sleep following energetic vertical space play)",
+                    "temperament": "Curious, Highly Intelligent, Extremely Active, Social, Loves Heights"
+                },
+                "intro": "Renowned for their athletic puma-like build and radiant ticked tabby coat, the Abyssinian is an affectionate and highly intelligent breed often dubbed the 'clown of the cat kingdom.' Possessing immense energy and a strong desire for vertical space, Abyssinians require cat trees and wall shelves to prevent stress. Medically, they are prone to Pyruvate Kinase Deficiency (PKD)—a genetic hemolytic anemia—as well as early-onset gingivitis/periodontitis and Progressive Retinal Atrophy (PRA). Today, PetSelf presents a 3-step daily care routine to read your Abyssinian's signals and maintain its health.",
+                "whyTitle": "Abyssinian Body Language: Head-Butting and Pale Gums / Lethargy",
+                "whyDesc": "Abyssinians express deep affection and genetic illness through head actions and physical stamina. Nudging their head against your face or hands while rubbing their cheeks **'Head-Butting / Bunting'** transfers facial pheromones, expressing deep trust and family bond. Conversely, pale white gums and refusing to jump onto cat trees while hiding **'Pale Gums & Lethargy'** is a critical warning sign of anemia from genetic PK deficiency or severe dental pain.",
+                "body_signals": [
+                    {
+                        "name": "Nudged Head & Rubbing Cheeks (Head-Butting / Bunting)",
+                        "meaning": "A signal of deep affection and trust, marking you with facial pheromones as a safe member of their family territory.",
+                        "response": "Respond enthusiastically by gently scratching under their chin or on their forehead."
+                    },
+                    {
+                        "name": "Pale White Gums & Lethargic Hiding (Pale Gums & Lethargy)",
+                        "meaning": "An urgent clinical sign of hemolytic anemia caused by genetic Pyruvate Kinase Deficiency (PKD) or acute periodontal pain.",
+                        "response": "Inspect their gums immediately and seek urgent veterinary care for a Complete Blood Count (CBC) and genetic screening."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Dental Brushing Care & Anemia / Energy Level Monitoring",
+                        "text": "Brush teeth using feline-safe toothpaste due to high gingivitis risk, inspecting gum color and morning appetite."
+                    },
+                    {
+                        "name": "Afternoon: Vertical Space Inspection (Cat Trees/Poles) & Window Sunbathing Setup",
+                        "text": "Maintain safe, high cat trees for their athletic jumping instincts, placing window perches with toys to prevent boredom."
+                    },
+                    {
+                        "name": "Evening: High-Intensity Interactive Hunting Play (20–30 min) & Fresh Water Hydration",
+                        "text": "Engage in energetic wand or laser play to release built-up stamina, maintaining clean water fountains to prevent urinary tract issues."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "My Abyssinian is suddenly hiding with pale gums—is it a genetic disease?",
+                        "answer": "There is a strong possibility of hemolytic anemia caused by genetic 'Pyruvate Kinase Deficiency (PKD)'. Lack of the PK enzyme causes rapid destruction of red blood cells, leading to pale gums, rapid breathing, and severe lethargy. Because this condition can become life-threatening, seek immediate veterinary emergency care for blood testing and supportive treatment."
+                    },
+                    {
+                        "question": "My Abyssinian runs around frantically all day and constantly seeks high places.",
+                        "answer": "Abyssinians are natural acrobats with exceptional athletic drives and vertical space requirements. If high cat trees, poles, or wall shelves are lacking, they experience frustration, which can manifest as furniture scratching or frantic night zoomies. Provide ample vertical territory and engage them in at least 20 minutes of intense daily play."
+                    }
+                ],
+                "tags": [
+                    "Abyssinian",
+                    "CatCare",
+                    "AbyssinianAnemia",
+                    "FelineDentalCare"
+                ]
+            },
+            "ja": {
+                "title": "アビシニアンのコミュニケーションサイン解読と遺伝性貧血・歯周病予防のための3ステップデイリールーティン",
+                "description": "しなやかで活発なアビシニアン（Abyssinian）。ヘッドバッティングや歯茎の白さサインの解読、ピルビン酸キナーゼ欠損症（PKD）予防とキャットタワー・歯磨きケアの3ステップホームケアを紹介します。",
+                "authority": "国際キャットファンシーズ協会(CFA)および世界小動物獣医師会(WSAVA)猫科ケアプロトコル",
+                "profile": {
+                    "breed": "アビシニアン (Abyssinian)",
+                    "lifespan": "12 〜 15年 (適切なケアで18年以上)",
+                    "sleep_pattern": "12 〜 16時間 (豊富な垂直空間での運動後の深い睡眠)",
+                    "temperament": "非常に活発、聡明、好奇心旺盛、甘えん坊、高所好き"
+                },
+                "intro": "プーマを思わせるしなやかな体型と美しく輝くティッキングタビーの被毛を持つアビシニアン（Abyssinian）は、「猫界のピエロ」と呼ばれるほど陽気で知能が高い人気品種です。アビシニアンは旺盛な好奇心と強い高所欲求を持つため、キャットタワーなどの高い垂直空間が不足するとストレスを感じやすくなります。また、赤血球が破壊される遺伝性疾患「ピルビン酸キナーゼ欠損症（PKD貧血）」や若年性歯肉炎・歯周病、進行性網膜萎縮症（PRA）にかかりやすい傾向があります。本日PetSelfでは、アビシニアンのサインを読み解き、健康を守る3ステップルーティンをお届けします。",
+                "whyTitle": "アビシニアンのボディランゲージ：ヘッドバッティング(Head-Butting)と歯茎の白さ・気力低下",
+                "whyDesc": "アビシニアンは顔の動きや体調で愛着と病気サインを表します。頭を飼い主の顔や手にコツンと当てて頬を擦りつける**「ヘッドバッティング（Head-Butting / Bunting）」**は、フェロモンをつけて深い信頼と家族としての絆を示す愛情サインです。一方、ピンク色であるべき歯茎が白く褪せ、大好きなジャンプを拒んで隅に隠れる**「歯茎の白さ・気力低下（Pale Gums & Lethargy）」**は、遺伝性PK欠損症による貧血や激しい歯痛の危険サインです。",
+                "body_signals": [
+                    {
+                        "name": "頭をコツンと当てて頬を擦りつける (Head-Butting / Bunting)",
+                        "meaning": "飼い主を安全な自分の領域・家族と認識し、フェロモンを付着させる深い愛情と信頼のサインです。",
+                        "response": "手を出して顎の下や額を優しく撫で、積極的に愛情に応えてあげましょう。"
+                    },
+                    {
+                        "name": "歯茎が白く褪せて無気力に隠れる (Pale Gums & Lethargy)",
+                        "meaning": "赤血球が破壊される遺伝性ピルビン酸キナーゼ欠損症（PKD）の貧血、または急性歯周病の痛みサインです。",
+                        "response": "すぐに歯茎の色を確認し、直ちに動物病院で血液検査（CBC）および遺伝子検査を受けてください。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：猫用歯磨き粉でのデンタルケア＆歯茎の色・食欲チェック",
+                        "text": "歯周病にかかりやすいため猫用ハミガキでケアを行い、歯茎の色と朝の食欲状態を確認します。"
+                    },
+                    {
+                        "name": "昼：垂直空間（キャットタワー/キャットポール）の点検＆日光浴環境の確保",
+                        "text": "高いジャンプ力を活かせるよう安全なキャットタワー環境を維持し、退屈防止のために窓辺におもちゃを配置します。"
+                    },
+                    {
+                        "name": "夜：高強度の狩りごっこ（20〜30分）＆新鮮な水飲場の管理",
+                        "text": "溢れるエネルギーを発散させるためじゃらしやレーザーでしっかり遊び、尿路疾患予防のために清潔な給水器を管理します。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "アビシニアンが急に隅に隠れ、歯茎が白くなりました。遺伝病でしょうか？",
+                        "answer": "遺伝性の「ピルビン酸キナーゼ欠損症（PKD / Pyruvate Kinase Deficiency）」による溶血性貧血の可能性が高いです。赤血球の酵素不足により貧血が進行し、歯茎が白くなって呼吸が荒くなり、無気力になります。放置すると命に関わるため、すぐに動物病院で血液検査や適切な治療を受けてください。"
+                    },
+                    {
+                        "question": "アビシニアンが家中を走り回り、高い場所ばかり登ろうとします。",
+                        "answer": "アビシニアンは「猫界のアクロバット選手」と呼ばれるほど高い運動量と高所欲求を持つ品種です。キャットタワーや壁面ステップが不足するとストレスから家具を傷つけたり夜運動（ズームイン）を起こすため、垂直空間を十分に確保し、毎日20分以上の狩りごっこでエネルギーを発散させてください。"
+                    }
+                ],
+                "tags": [
+                    "アビシニアン",
+                    "猫のケア",
+                    "アビシニアン貧血",
+                    "猫の歯周病"
+                ]
+            },
+            "zh": {
+                "title": "阿比西尼亚猫情感与健康信号解读及贫血与牙周炎预防的3步日常流程",
+                "description": "灵动优雅的阿比西尼亚猫（Abyssinian）护理指南。解读头撞蹭与牙龈发白信号，预防丙酮酸激酶缺乏症（PKD）贫血及管理垂直空间与牙齿卫生的3步骤家庭护理。",
+                "authority": "国际猫协会 (CFA) 与世界小动物兽医师协会 (WSAVA) 猫科护理标准",
+                "profile": {
+                    "breed": "阿比西尼亚猫 (Abyssinian)",
+                    "lifespan": "12 ~ 15年 (科学喂养可达18年以上)",
+                    "sleep_pattern": "12 ~ 16小时 (充分消耗体力后进入深度睡眠)",
+                    "temperament": "极度活跃、聪明、好奇心强、亲人、喜欢高处"
+                },
+                "intro": "拥有酷似美洲狮般矫健身姿与璀璨刺斑纹（Ticked Tabby）毛发的阿比西尼亚猫（Abyssinian），被称为“猫界小丑”，性格开朗且智商极高。阿比西尼亚猫精力充沛且对高处有着强烈的探索欲，若缺乏猫爬架与猫跳板等垂直空间，极易产生应激焦虑。此外，它们易患导致红细胞破坏的遗传性疾病“丙酮酸激酶缺乏症（PKD贫血）”、早期牙龈炎/牙周炎及进行性视网膜萎缩症（PRA）。今天 PetSelf 将带您准确解读阿比西尼亚猫的身体信号，并通过 3 步骤日常护理维护其健康。",
+                "whyTitle": "阿比西尼亚猫的肢体语言：头撞蹭亲近 (Head-Butting) 与牙龈发白/精神沉郁",
+                "whyDesc": "阿比西尼亚猫通过面部动作与体能状态表达依恋与疾病信号。用头部轻轻撞击主人的面部或手部并摩擦脸颊**“头撞蹭亲近 (Head-Butting / Bunting)”**，是标记面部信息素、表达深厚信任与归属感的亲密信号。相反，原本应呈粉红色的牙龈变得惨白、拒绝跳跃并躲在角落**“牙龈发白与精神沉郁 (Pale Gums & Lethargy)”**，则是遗传性 PKD 贫血或剧烈牙痛的危险警报。",
+                "body_signals": [
+                    {
+                        "name": "用头轻撞并用脸颊摩擦 (Head-Butting / Bunting)",
+                        "meaning": "将主人视为安全领地与亲密家人，标记面部信息素的深度信任与依恋信号。",
+                        "response": "伸出手轻抚其下巴或额头，积极给予温柔回应。"
+                    },
+                    {
+                        "name": "牙龈惨白且无精打采躲藏 (Pale Gums & Lethargy)",
+                        "meaning": "因遗传性丙酮酸激酶缺乏症（PKD）导致的溶血性贫血或急性牙周炎剧痛信号。",
+                        "response": "立即检查牙龈颜色，并火速送往动物医院进行血常规（CBC）及基因检测。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：猫用牙膏刷牙护理与观察牙龈颜色及食欲",
+                        "text": "因易患牙周病，须使用专用猫咪牙膏刷牙，并检查牙龈颜色与早晨进食意愿。"
+                    },
+                    {
+                        "name": "中午：垂直空间（猫爬架/猫跳板）维护与窗台晒太阳环境布置",
+                        "text": "维护高耸安全的猫爬架以满足其弹跳天性，并在窗前布置观景台与玩具以防无聊。"
+                    },
+                    {
+                        "name": "晚上：高强度逗猫棒互动（20~30分钟）与干净饮水点管理",
+                        "text": "使用逗猫棒或激光笔进行高强度捕猎游戏以消耗精力，并保持饮水机洁净以防泌尿系统疾病。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "阿比西尼亚猫突然躲藏且牙龈发白，是遗传病吗？",
+                        "answer": "极可能是遗传性“丙酮酸激酶缺乏症（PKD / Pyruvate Kinase Deficiency）”引发的溶血性贫血。由于缺乏红细胞关键酶，红细胞过早破坏导致严重贫血、牙龈发白、呼吸急促与精神沉郁。此病可危及生命，须立即送医进行血液检查与输液/药物治疗。"
+                    },
+                    {
+                        "question": "阿比西尼亚猫整天在家飞奔并执着于爬高，正常吗？",
+                        "answer": "完全正常！阿比西尼亚猫被称为“猫界杂技演员”，天生具有极高的运动量与垂直空间需求。若缺乏高耸的猫爬架与墙壁跳板，它们会因挫败感而抓挠家具或产生夜间跑酷（Zoomies）行为。请务必打造丰富的垂直领地，并每天陪伴其进行 20 分钟以上的捕猎游戏。"
+                    }
+                ],
+                "tags": [
+                    "阿比西尼亚猫",
+                    "猫咪护理",
+                    "阿比西尼亚猫贫血",
+                    "猫牙周炎"
+                ]
+            },
+            "es": {
+                "title": "Señales de afecto y salud en el Gato Abisinio y rutina diaria de 3 pasos para el cuidado de anemia y salud dental",
+                "description": "Guía de cuidado para el ágil Gato Abisinio (Abyssinian). Interprete los topetazos con la cabeza y encías pálidas, prevenga la anemia por deficiencia de PK (PKD) y gestione el espacio vertical en 3 pasos.",
+                "authority": "Cat Fanciers' Association (CFA) y Protocolos Felinos de la WSAVA",
+                "profile": {
+                    "breed": "Gato Abisinio (Abyssinian)",
+                    "lifespan": "12 ~ 15 años (Hasta 18+ años con buenos cuidados)",
+                    "sleep_pattern": "12 ~ 16 horas (Sueño profundo tras juego intenso en alturas)",
+                    "temperament": "Muy activo, Inteligente, Curioso, Afectuoso, Amante de las alturas"
+                },
+                "intro": "Admirado por su cuerpo atlético tipo puma y su pelaje punteado (Ticked Tabby), el Gato Abisinio (Abyssinian) es una raza inteligente conocida como el 'payaso del mundo felino'. Poseen una energía inagotable y una gran pasión por las alturas, necesitando rascadores altos para prevenir el estrés. Clínicamente, son propensos a la Deficiencia de Piruvato Kinasa (PKD/anemia hemolítica genética), así como a gingivitis/periodontitis prematura y Atrofia Progresiva de Retina (PRA). Hoy, PetSelf presenta una rutina de 3 pasos para proteger su salud.",
+                "whyTitle": "Lenguaje corporal del Abisinio: Topetazos afectivos (Head-Butting) y encías pálidas con letargo",
+                "whyDesc": "Los abisinios expresan apego y problemas de salud a través de gestos faciales y estamina. Frotar su cabeza y mejillas contra tu cara o manos **'Topetazos afectivos (Head-Butting / Bunting)'** deposita feromonas faciales, mostrando profunda confianza. En cambio, mostrar encías blancas y negarse a saltar mientras se esconden **'Encías pálidas y letargo (Pale Gums & Lethargy)'** es una advertencia grave de anemia por deficiencia de PK o dolor dental severo.",
+                "body_signals": [
+                    {
+                        "name": "Topetazo con la cabeza y frotado de mejillas (Head-Butting / Bunting)",
+                        "meaning": "Señal de afecto profundo y confianza que deposita feromonas faciales marcándote como su territorio seguro.",
+                        "response": "Responda con entusiasmo rascando suavemente debajo de su barbilla o frente."
+                    },
+                    {
+                        "name": "Encías pálidas y aislamiento con apatía (Pale Gums & Lethargy)",
+                        "meaning": "Signo clínico urgente de anemia hemolítica por Deficiencia de Piruvato Kinasa (PKD) o dolor periodontal agudo.",
+                        "response": "Revise las encías de inmediato y acuda al veterinario para un hemograma completo (CBC) y prueba genética."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Cepillado dental felino y control de color de encías y apetito",
+                        "text": "Limpie sus dientes con dentífrico felino dada su alta propensión a la gingivitis, inspeccionando encías y apetito."
+                    },
+                    {
+                        "name": "Tarde: Inspección del espacio vertical (árboles altos) y mirador en ventana",
+                        "text": "Mantenga torres de rascado seguras para su instinto saltador, habilitando repisas en ventanas para evitar aburrimiento."
+                    },
+                    {
+                        "name": "Noche: Juego interactivo de cacería (20–30 min) y fuente de agua fresca",
+                        "text": "Realice sesiones de juego intensas con plumeros para quemar energía, desinfectando la fuente para proteger su sistema urinario."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mi Abisinio se esconde y tiene las encías pálidas, ¿es una enfermedad genética?",
+                        "answer": "Existe un alto riesgo de anemia hemolítica por 'Deficiencia de Piruvato Kinasa (PKD)'. La falta de esta enzima destruye glóbulos rojos, causando encías blancas, respiración rápida y letargo severo. Al ser una urgencia médica, acuda inmediatamente al veterinario para análisis de sangre y tratamiento."
+                    },
+                    {
+                        "question": "Mi Abisinio no para de correr por toda la casa y busca los puntos más altos.",
+                        "answer": "Los abisinios son acróbatas natos con altísima energía e instinto de exploración vertical. Si carecen de árboles altos o repisas de pared, sufrirán estrés que deriva en conductas destructivas o carreras nocturnas (zoomies). Proporcione un entorno vertical rico y juegue con él al menos 20 minutos al día."
+                    }
+                ],
+                "tags": [
+                    "GatoAbisinio",
+                    "CuidadoFelino",
+                    "AnemiaAbisinio",
+                    "SaludDentalFelina"
+                ]
+            },
+            "fr": {
+                "title": "Signaux d'affection et de santé du Chat Abyssin et routine quotidienne en 3 étapes pour la prévention de l'anémie et les soins dentaires",
+                "description": "Guide de soins pour le vif Chat Abyssin (Abyssinian). Décryptez le coup de tête affectueux et les gencives pâles, prévenez la déficience en pyruvate kinase (PKD) et gérez l'espace vertical en 3 étapes.",
+                "authority": "Cat Fanciers' Association (CFA) & Normes de Soins Félins de la WSAVA",
+                "profile": {
+                    "breed": "Chat Abyssin (Abyssinian)",
+                    "lifespan": "12 ~ 15 ans (Jusqu'à 18 ans et plus avec des soins adaptés)",
+                    "sleep_pattern": "12 ~ 16 heures (Sommeil profond après des jeux intenses en hauteur)",
+                    "temperament": "Très actif, Intelligent, Curieux, Affectueux, Amateur d'altitude"
+                },
+                "intro": "Réputé pour son allure athlétique rappelant le puma et son pelage tiqueté (Ticked Tabby), l'Abyssin est une race brillante surnommée le 'clown du monde félin'. Très énergique et fasciné par la hauteur, il a absolument besoin d'arbres à chat et de parcours muraux pour éviter le stress. Sur le plan médical, l'Abyssin est sujet à la Déficience en Pyruvate Kinase (PKD/anémie hémolytique génétique), aux gingivites précoces et à l'Atrophie Progressive de la Rétine (PRA). Aujourd'hui, PetSelf vous présente une routine en 3 étapes.",
+                "whyTitle": "Langage corporel de l'Abyssin : Coup de tête affectueux (Head-Butting) et gencives pâles avec léthargie",
+                "whyDesc": "L'Abyssin exprime son attachement et ses maladies par ses gestes faciaux et sa vitalité. Stopper sa tête contre votre visage ou vos mains en frottant ses joues **« Coup de tête affectueux (Head-Butting / Bunting) »** dépose des phéromones de confiance. En revanche, présenter des gencives blanchâtres et refuser de sauter tout en se cachant **« Gencives pâles et léthargie (Pale Gums & Lethargy) »** est un signal d'alarme d'anémie par déficience en PK ou de rage de dents.",
+                "body_signals": [
+                    {
+                        "name": "Coup de tête et frottement des joues (Head-Butting / Bunting)",
+                        "meaning": "Signe d'affection et de confiance marquant son territoire sécurisé avec des phéromones faciales.",
+                        "response": "Répondez chaleureusement en lui grattant doucement le sous-menton ou le front."
+                    },
+                    {
+                        "name": "Gencives blanches et léthargie prostrée (Pale Gums & Lethargy)",
+                        "meaning": "Signal d'urgence d'anémie hémolytique due à une Déficience en Pyruvate Kinase (PKD) ou d'une gingivite aiguë.",
+                        "response": "Examinez ses gencives et emmenez-le d'urgence chez le vétérinaire pour un bilan sanguin (NF) et un test génétique."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Brossage dentaire félin & contrôle des gencives et de l'appétit",
+                        "text": "Brosser les dents avec un dentifrice pour chat contre le tartre précoce, en observant la couleur des gencives."
+                    },
+                    {
+                        "name": "Après-midi : Entretien des installations en hauteur & observatoire de fenêtre",
+                        "text": "Maintenez des arbres à chat élevés pour ses besoins d'escalade, et installez des perchoirs de fenêtre stimulants."
+                    },
+                    {
+                        "name": "Soir : Jeu de chasse intense (20–30 min) & fontaine d'eau propre",
+                        "text": "Jouez activement avec un plumet pour évacuer son trop-plein d'énergie et nettoyez sa fontaine d'eau."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mon Abyssin se cache et a les gencives pâles, est-ce une maladie génétique ?",
+                        "answer": "Il y a un fort risque d'anémie hémolytique due à la 'Déficience en Pyruvate Kinase (PKD)'. L'absence de cette enzyme détruit les globules rouges, entraînant gencives blanches, essoufflement et prostration. Consultez immédiatement en urgence vétérinaire pour des analyses sanguines et un traitement."
+                    },
+                    {
+                        "question": "Mon Abyssin court partout dans la maison et cherche toujours à monter très haut.",
+                        "answer": "L'Abyssin est un athlète félin doté d'une énergie débordante et d'un besoin vital de hauteur. Sans arbres à chat ou étagères murale, la frustration provoquera des griffages ou des folies nocturnes (zoomies). Offrez-lui un environnement vertical complet et au moins 20 minutes de jeu quotidien."
+                    }
+                ],
+                "tags": [
+                    "ChatAbyssin",
+                    "SoinDuChat",
+                    "AnemieAbyssin",
+                    "SanteDentaireFeline"
+                ]
+            },
+            "de": {
+                "title": "Körpersprache der Abessinierkatze und 3-Schritte-Tagesroutine zur Vorbeugung von Anämie und Zahnerkrankungen",
+                "description": "Pflegeanleitung für die elegante Abessinierkatze (Abyssinian). Kopfstupsen und blasse Schleimhäute verstehen, PK-Defizienz-Anämie (PKD) vermeiden und Kletterraum sowie Zähne in 3 Schritten pflegen.",
+                "authority": "Cat Fanciers' Association (CFA) & Feline Standards der WSAVA",
+                "profile": {
+                    "breed": "Abessinierkatze (Abyssinian)",
+                    "lifespan": "12 ~ 15 Jahre (Bei guter Pflege über 18 Jahre)",
+                    "sleep_pattern": "12 ~ 16 Stunden (Tiefer Schlaf nach energetischem Kletterspiel)",
+                    "temperament": "Sehr aktiv, Intelligent, Neugierig, Anhänglich, Liebt Höhen"
+                },
+                "intro": "Berühmt für ihren athletischen, pumaartigen Körperbau und ihr geticktes Fell (Ticked Tabby), ist die Abessinierkatze eine hochintelligente Rasse, die auch als 'Clown des Katzenreichs' bekannt ist. Abessinier besitzen einen enormen Bewegungsdrang und eine große Vorliebe für Höhen, weshalb Kratzbäume und Kletterwände unerlässlich sind. Medizinisch neigen sie zur Pyruvatkinasedefizienz (PKD) – einer erblichen Blutarmut – sowie zu früher Zahnfleischentzündung (Gingivitis) und Progressiver Retinaatrophie (PRA). Heute zeigt PetSelf eine 3-Schritte-Routine für Ihre Abessinierkatze.",
+                "whyTitle": "Körpersprache der Abessinierkatze: Kopfstupsen (Head-Butting) und blasses Zahnfleisch mit Trägheit",
+                "whyDesc": "Abessinierkatzen drücken Zuneigung und Krankheiten über Gesichtsbewegungen und Ausdauer aus. Das sanfte Stupsen mit dem Kopf gegen Hand oder Gesicht unter Reiben der Wangen **'Kopfstupsen (Head-Butting / Bunting)'** überträgt Gesichtspheromone und zeigt tiefes Vertrauen. Blasses, weißliches Zahnfleisch und das Verweigern von Sprüngen beim Verkriechen **'Blasses Zahnfleisch & Trägheit (Pale Gums & Lethargy)'** ist dagegen ein dringendes Warnsignal für Anämie durch PK-Defizienz oder Zahnfehle.",
+                "body_signals": [
+                    {
+                        "name": "Kopfstupsen und Wangenreiben (Head-Butting / Bunting)",
+                        "meaning": "Zeichen großer Zuneigung und Vertrauen, das Sie mit Gesichtspheromonen als sicheres Familienmitglied markiert.",
+                        "response": "Antworten Sie liebevoll durch sanftes Kraulen am Kinn oder an der Stirn."
+                    },
+                    {
+                        "name": "Blasses Zahnfleisch und apathisches Verkriechen (Pale Gums & Lethargy)",
+                        "meaning": "Notfallsignal für erblich bedingte Anämie durch Pyruvatkinasedefizienz (PKD) oder akute Zahnfleischschmerzen.",
+                        "response": "Kontrollieren Sie sofort das Zahnfleisch und suchen Sie für ein Blutbild (CBC) und Gentests umgehend einen Tierarzt auf."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Zahnpflege mit Katzenzahnpasta & Kontrolle von Zahnfleisch und Appetit",
+                        "text": "Putzen Sie die Zähne mit spezieller Katzenzahnpasta gegen frühe Parodontitis und prüfen Sie die Farbe des Zahnfleisches."
+                    },
+                    {
+                        "name": "Mittag: Kletterraum-Prüfung (Kratzbäume/Kletterwände) & Sonnenplatz am Fenster",
+                        "text": "Bieten Sie sichere, hohe Kratzbäume für ihren Sprungtrieb und richten Sie Fensterplätze gegen Langeweile ein."
+                    },
+                    {
+                        "name": "Abend: Intensives Jagdspiel mit der Angel (20–30 Min.) & Frisches Trinkwasser",
+                        "text": "Powern Sie die Katze mit Reizangeln aus, um aufgestaute Energie abzubauen, und reinigen Sie den Trinkbrunnen."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Meine Abessinierkatze zieht sich zurück und hat blasses Zahnfleisch. Ist das eine Erbkrankheit?",
+                        "answer": "Es besteht der dringende Verdacht auf eine hämolytische Anämie durch 'Pyruvatkinasedefizienz (PKD)'. Der Enzymmangel zerstört rote Blutkörperchen und führt zu blassem Zahnfleisch, Kurzatmigkeit und schwerer Apathie. Da Lebensgefahr besteht, suchen Sie sofort den Tiernotdienst für Blutuntersuchungen auf."
+                    },
+                    {
+                        "question": "Meine Abessinierkatze rennt ständig herum und klettert auf die höchsten Möbel.",
+                        "answer": "Abessinier sind geborene Akrobaten mit extremem Bewegungsdrang und Höhenbedürfnis. Fehlen Kratzbäume oder Kletterwände, führt die Frustration zu Möbelkratzen oder nächtlichen Zoomies. Bieten Sie ausreichend Klettermöglichkeiten und spielen Sie täglich mindestens 20 Minuten intensiv."
+                    }
+                ],
+                "tags": [
+                    "Abessinierkatze",
+                    "Katzenpflege",
+                    "AbessinierAnaemie",
+                    "Katzenzahngesundheit"
+                ]
+            },
+            "pt": {
+                "title": "Sinais de afeto e saúde no Gato Abissínio e rotina diária de 3 passos para controle de anemia e cuidados dentários",
+                "description": "Guia de cuidados para o ágil Gato Abissínio (Abyssinian). Entenda a cabeçada afetuosa e gengivas pálidas, previna a deficiência de piruvato quinase (PKD) e cuide do espaço vertical em 3 passos.",
+                "authority": "Cat Fanciers' Association (CFA) & Protocolos Felinos da WSAVA",
+                "profile": {
+                    "breed": "Gato Abissínio (Abyssinian)",
+                    "lifespan": "12 ~ 15 anos (Até 18+ anos com bons cuidados)",
+                    "sleep_pattern": "12 ~ 16 horas (Sono profundo após brincadeiras intensas no alto)",
+                    "temperament": "Muito ativo, Inteligente, Curioso, Afetuoso, Adora alturas"
+                },
+                "intro": "Famoso por seu porte atlético de puma e pelagem ticked tabby, o Gato Abissínio é uma raça inteligente conhecida como o 'palhaço do mundo felino'. Possuem energia inagotável e grande paixão por alturas, necessitando de arranhadores altos e prateleiras para evitar o estresse. Clinicamente, são propensos à Deficiência de Piruvato Quinase (PKD/anemia hemolítica genética), bem como à gengivite/periodontite precoce e Atrofia Progressiva da Retina (PRA). Hoje, o PetSelf apresenta uma rotina de 3 passos para cuidar da saúde do seu pet.",
+                "whyTitle": "Linguagem corporal do Abissínio: Cabeçada afetuosa (Head-Butting) e gengivas pálidas com letargia",
+                "whyDesc": "Os gatos abissínios expressam afeto e doenças através de gestos faciais e disposição física. Encostar a cabeça no seu rosto ou mãos esfregando as bochechas **'Cabeçada afetuosa (Head-Butting / Bunting)'** deposita feromônios, demonstrando profunda confiança. Já apresentar gengivas brancas e recusar-se a saltar enquanto se esconde **'Gengivas pálidas e letargia (Pale Gums & Lethargy)'** é um aviso grave de anemia por deficiência de PK ou dor de dente severa.",
+                "body_signals": [
+                    {
+                        "name": "Cabeçada e esfregar de bochechas (Head-Butting / Bunting)",
+                        "meaning": "Sinal de afeto e confiança que deposita feromônios faciais marcando você como membro seguro do território.",
+                        "response": "Responda com carinho coçando suavemente abaixo do queixo ou na testa."
+                    },
+                    {
+                        "name": "Gengivas pálidas e isolamento apático (Pale Gums & Lethargy)",
+                        "meaning": "Sinal clínico urgente de anemia hemolítica por Deficiência de Piruvato Quinase (PKD) ou dor gengival aguda.",
+                        "response": "Examine as gengivas imediatamente e consulte o veterinário para um hemograma completo (CBC) e teste genético."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Escovação dental felina & controle da cor da gengiva e apetite",
+                        "text": "Escove os dentes com pasta de dente felina devido à alta tendência à gengivite, inspecionando gengivas e apetite."
+                    },
+                    {
+                        "name": "Tarde: Manutenção de arranhadores verticais & espaço ao sol na janela",
+                        "text": "Mantenha torres altas seguras para seu instinto de salto, instalando prateleiras na janela para evitar o tédio."
+                    },
+                    {
+                        "name": "Noite: Brincadeira de caça intensa (20–30 min) & fonte de água limpa",
+                        "text": "Brinque bastante com varinhas de penas para gastar energia acumulada e mantenha a fonte de água limpa."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Meu Abissínio está se escondendo e tem gengivas brancas, é doença genética?",
+                        "answer": "Há uma grande chance de anemia hemolítica causada pela 'Deficiência de Piruvato Quinase (PKD)'. A falta dessa enzima destrói glóbulos vermelhos, causando gengivas pálidas, respiração rápida e prostração. Trata-se de uma emergência médica; leve o gato imediatamente ao veterinário."
+                    },
+                    {
+                        "question": "Meu Abissínio não para de correr pela casa e busca os pontos mais altos.",
+                        "answer": "Os abissínios são acrobatas naturais com altíssima energia e necessidade de espaço vertical. Sem torres altas ou prateleiras, a frustração causará arranhões em móveis ou piques noturnos (zoomies). Monte um ambiente vertical rico e brinque pelo menos 20 minutos por dia."
+                    }
+                ],
+                "tags": [
+                    "GatoAbissinio",
+                    "CuidadosComGatos",
+                    "AnemiaAbissinio",
+                    "SaudeDentalFelina"
+                ]
+            },
+            "id": {
+                "title": "Sinyal Kasih Sayang dan Kesehatan Kucing Abyssinian serta Rutinitas Harian 3 Langkah Perawatan Anemia dan Gigi",
+                "description": "Panduan perawatan Kucing Abyssinian yang lincah. Pahami sundulan kepala (head-butting) dan gusi pucat, cegah anemia defisiensi piruvat kinase (PKD), serta kelola ruang vertikal dalam 3 langkah.",
+                "authority": "Cat Fanciers' Association (CFA) & Standar Perawatan Kucing WSAVA",
+                "profile": {
+                    "breed": "Kucing Abyssinian (Abyssinian)",
+                    "lifespan": "12 ~ 15 tahun (Hingga 18+ tahun dengan perawatan baik)",
+                    "sleep_pattern": "12 ~ 16 jam (Tidur nyenyak setelah bermain aktif di ketinggian)",
+                    "temperament": "Sangat Aktif, Cerdas, Penasaran, Penyayang, Menyukai Ketinggian"
+                },
+                "intro": "Terkenal dengan tubuh atletis mirip puma dan bulu berpolanya yang berkilau (Ticked Tabby), Kucing Abyssinian adalah ras cerdas yang sering dijuluki 'badut di kerajaan kucing'. Memiliki energi yang sangat melimpah dan kecintaan pada ketinggian, Abyssinian membutuhkan tempat memanjat vertikal untuk mencegah stres. Secara medis, mereka rentan terhadap Defisiensi Piruvat Kinase (PKD)—sejenis anemia hemolitik genetik—serta radang gusi/gigi sejak dini dan Atrofi Retina Progresif (PRA). Hari ini, PetSelf membagikan 3 langkah rutinitas harian untuk merawat kesehatan Kucing Abyssinian Anda.",
+                "whyTitle": "Bahasa Tubuh Abyssinian: Sundulan Kepala (Head-Butting) dan Gusi Pucat dengan Lemas",
+                "whyDesc": "Kucing Abyssinian menyampaikan rasa sayang dan gangguan kesehatan melalui gerakan wajah dan stamina tubuh. Menyundulkan kepalanya ke wajah atau tangan Anda sambil menggosokkan pipinya **'Sundulan Kepala (Head-Butting / Bunting)'** menyebarkan feromon wajah sebagai tanda rasa percaya dan ikatan keluarga. Sebaliknya, gusi yang terlihat putih pucat dan enggan melompat sambil bersembunyi **'Gusi Pucat & Lemas (Pale Gums & Lethargy)'** adalah peringatan bahaya anemia genetik akibat defisiensi PK atau sakit gigi parah.",
+                "body_signals": [
+                    {
+                        "name": "Menyundulkan Kepala & Menggosok Pipi (Head-Butting / Bunting)",
+                        "meaning": "Sinyal kasih sayang dan rasa percaya mendalam, menandai Anda dengan feromon wajah sebagai bagian dari wilayah keluarganya.",
+                        "response": "Beri respon hangat dengan mengelus lembut bagian bawah dagu atau dahinya."
+                    },
+                    {
+                        "name": "Gusi Putih Pucat & Lemas Bersembunyi (Pale Gums & Lethargy)",
+                        "meaning": "Tanda klinis darurat anemia hemolitik akibat Defisiensi Piruvat Kinase (PKD) genetik atau nyeri gigi akut.",
+                        "response": "Segera periksa gusinya dan bawa ke dokter hewan untuk tes darah lengkap (CBC) dan skrining genetik."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Perawatan Sikat Gigi Kucing & Pemantauan Warna Gusi serta Nafsu Makan",
+                        "text": "Sikat gigi menggunakan pasta gigi khusus kucing karena risiko radang gusi yang tinggi, sambil memeriksa warna gusi."
+                    },
+                    {
+                        "name": "Siang: Pemeriksaan Tempat Panjatan Vertikal & Area Berjemur di Jendela",
+                        "text": "Sediakan cat tree yang tinggi dan aman untuk melatih lompatannya, serta pasang area duduk di jendela agar tidak bosan."
+                    },
+                    {
+                        "name": "Malam: Permainan Berburu Interaktif Energi Tinggi (20–30 menit) & Air Minum Segar",
+                        "text": "Ajak bermain dengan tongkat bulu untuk menyalurkan energinya, dan jaga kebersihan tempat minum agar terhindar dari penyakit saluran kemih."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mengapa Kucing Abyssinian saya bersembunyi dan gusinya pucat?",
+                        "answer": "Kemungkinan besar terjadi anemia hemolitik akibat genetik 'Defisiensi Piruvat Kinase (PKD)'. Kekurangan enzim PK menghancurkan sel darah merah sehingga gusi menjadi pucat, napas cepat, dan lemas berat. Karena kondisi ini mengancam nyawa, segera bawa ke dokter hewan darurat untuk pemeriksaan darah."
+                    },
+                    {
+                        "question": "Mengapa Kucing Abyssinian saya terus berlarian dan mencari tempat yang sangat tinggi?",
+                        "answer": "Kucing Abyssinian adalah 'pesenam alami' yang memiliki energi dan kebutuhan ruang vertikal yang sangat tinggi. Jika kekurangan cat tree atau papan panjatan di dinding, rasa frustrasi akan membuat mereka menggaruk furnitur atau berlarian malam hari (zoomies). Sediakan ruang vertikal yang luas dan ajak bermain setidaknya 20 menit sehari."
+                    }
+                ],
+                "tags": [
+                    "KucingAbyssinian",
+                    "PerawatanKucing",
+                    "AnemiaAbyssinian",
+                    "KesehatanGigiKucing"
+                ]
+            }
+        },
+        "category": "CareSelf",
+        "app": "careself",
+        "formatVersion": 4,
+        "heroImage": "/images/blog/abyssinian_cat_care.webp"
+    }
+}

@@ -1,0 +1,516 @@
+{
+    "scottish-straight-care": {
+        "pubDate": "2026-06-01",
+        "updatedDate": "2026-07-26",
+        "locales": {
+            "ko": {
+                "title": "스코티시 스트레이트의 교감·스트레스 신호 해석과 관절·심장 관리를 위한 3단계 데일리 케어",
+                "description": "동글동글 귀여운 스코티시 스트레이트(Scottish Straight). 해파리 자세·비행기 귀 신호 해석, 비만 및 심장(HCM)·비뇨기 예방을 위한 3단계 홈케어 루틴을 소개합니다.",
+                "authority": "국제고양이애호가협회(CFA) 및 세계소동물수의사회(WSAVA) 고양이 내과·유전학 케어 프로토콜",
+                "profile": {
+                    "breed": "스코티시 스트레이트 (Scottish Straight)",
+                    "lifespan": "12 ~ 15년 (올바른 케어 시 15년 이상)",
+                    "sleep_pattern": "12 ~ 16시간 (체중 관리를 위한 매일 사냥 놀이 필수)",
+                    "temperament": "온순함, 조용함, 애교 많음, 다정함, 적응력 높음"
+                },
+                "intro": "동글동글한 얼굴과 똑바로 선 귀가 매력적인 스코티시 스트레이트(Scottish Straight)는 스코티시 폴드의 연골 이형성증 유전적 위험을 피하면서 특유의 동그란 매력을 지닌 건강하고 사랑스러운 품종입니다. 접힌 귀 유전자는 없지만 단정하고 통통한 체형 특성상 비만이 되기 쉬우며, 체중 증가 시 관절염이나 심장 질환인 '비대성 심근증(HCM)', 유전성 '다낭성 신장질환(PKD)'에 취약합니다. 오늘 PetSelf에서는 스코티시 스트레이트의 행동 신호를 정확히 이해하고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.",
+                "whyTitle": "스코티시 스트레이트의 바디 랭귀지: 해파리 자세(Sprawled Sitting)와 비행기 귀(Airplane Ears)",
+                "whyDesc": "스코티시 스트레이트는 편안함과 불편함을 특유의 몸짓과 귀 모양으로 표현합니다. 배를 보이고 편안하게 바닥에 퍼져 눕거나 사람처럼 엉덩이를 대고 앉는 **'해파리 자세 / 스코티시 시팅(Sprawled Sitting)'**은 극도의 안도감과 신뢰의 신호입니다. 반면 귀를 양옆으로 납작하게 눕히고 꼬리를 툭툭 치는 **'비행기 귀(Airplane Ears)'**는 경계, 스트레스, 또는 신체적 통증 신호입니다.",
+                "body_signals": [
+                    {
+                        "name": "배를 드러내거나 엉덩이를 붙이고 편안히 누움 (Sprawled Sitting / Buddha Position)",
+                        "meaning": "주변 환경과 보호자를 완벽히 안전하다고 느껴 긴장을 완전히 풀고 신뢰를 표현하는 상태입니다.",
+                        "response": "갑자기 만져 깜짝 놀라게 하지 말고 차분한 목소리로 인사하며 눈인사를 나누어 줍니다."
+                    },
+                    {
+                        "name": "귀를 양옆으로 납작하게 누르고 꼬리를 툭툭 튐 (Airplane Ears & Tail Flicking)",
+                        "meaning": "소음이나 급작스러운 자극으로 인한 불쾌감, 스트레스, 또는 체중 과부하로 인한 관절 통증 신호입니다.",
+                        "response": "자극 요소를 치우고 혼자 안정을 취할 수 있는 조용한 숨어있기 공간을 제공합니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 체중 점검 및 고단백·적정 칼로리 사료 급여와 눈가 위생 관리",
+                        "text": "비만 방지를 위해 정량 정시 급여를 실시하고, 동그란 얼굴 구조상 생기기 쉬운 눈가 이물질을 거즈로 정리합니다."
+                    },
+                    {
+                        "name": "낮: 캣타워/창가 쉼터 점검 및 신선한 수분 공급 (신장 질환 예방)",
+                        "text": "다낭성 신장질환(PKD) 및 방광염 예방을 위해 깨끗한 음수대를 배치하고, 햇볕을 쬐며 쉴 수 있는 수직 공간을 제공합니다."
+                    },
+                    {
+                        "name": "저녁: 저충격 사냥 놀이(15~20분) 및 피모 브러싱",
+                        "text": "관절에 무리가 가지 않는 바닥 위주의 오뎅꼬치 놀이로 칼로리를 소비시키고, 단모/중모 빗질로 헤어볼을 예방합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "스코티시 폴드와 스트레이트의 차이는 무엇이며, 스트레이트도 유전병이 있나요?",
+                        "answer": "스코티시 폴드는 귀가 접히는 연골 이형성증 유전자를 가져 뼈 관절 통증 위험이 높지만, 스코티시 스트레이트는 귀가 똑바로 선 일반 연골 구조를 가져 관절 유전병 위험이 매우 적습니다. 다만 브리티시/아메리칸 숏헤어 교배 혈통으로 인해 비대성 심근증(HCM)이나 다낭성 신장질환(PKD)은 발생할 수 있으므로 정기 검진이 필요합니다."
+                    },
+                    {
+                        "question": "스코티시 스트레이트가 살찌기 쉬운데 체중 관리는 어떻게 하나요?",
+                        "answer": "체형이 둥글고 조용한 성격 때문에 비만이 되기 쉽습니다. 탄수화물 비중이 낮은 고단백 건식/습식 사료를 정량 급여하고, 관절에 무리가 가지 않는 바닥 위주의 레이저/깃털 사냥 놀이를 매일 15~20분씩 진행하여 근육량을 유지해야 합니다."
+                    }
+                ],
+                "tags": [
+                    "스코티시스트레이트",
+                    "고양이케어",
+                    "고양이HCM",
+                    "고양이비만관리"
+                ]
+            },
+            "en": {
+                "title": "Scottish Straight Bonding Signals and 3-Step Daily Routine for Joint and Heart Care",
+                "description": "Care guide for the adorable Scottish Straight. Interpret sprawled sitting and airplane ears, prevent obesity, Hypertrophic Cardiomyopathy (HCM), and kidney issues in 3 steps.",
+                "authority": "Cat Fanciers' Association (CFA) & World Small Animal Veterinary Association (WSAVA) Feline Care Protocols",
+                "profile": {
+                    "breed": "Scottish Straight (Scottish Straight)",
+                    "lifespan": "12 - 15 Years (Up to 15+ years with optimal care)",
+                    "sleep_pattern": "12 - 16 Hours (Daily interactive play required for weight control)",
+                    "temperament": "Gentle, Quiet, Affectionate, Sweet, Highly Adaptable"
+                },
+                "intro": "Cherished for their round faces and erect ears, the Scottish Straight carries all the sweet, round charm of the Scottish breed without the genetic risk of osteochondrodysplasia found in Scottish Folds. While they lack the folded ear gene, their sturdy, cobby build makes them prone to weight gain. Obesity in this breed severely strains joints and accelerates risks of Hypertrophic Cardiomyopathy (HCM) and Polycystic Kidney Disease (PKD). Today, PetSelf presents a 3-step daily care routine to read your Scottish Straight's body language and maintain its health.",
+                "whyTitle": "Scottish Straight Body Language: Sprawled Sitting and Airplane Ears",
+                "whyDesc": "Scottish Straights communicate comfort and distress through unique postures and ear positions. Relaxing flat on their back or sitting upright on their hindquarters **'Sprawled Sitting / Buddha Position'** indicates complete security and trust in their environment. Conversely, flattening their ears sideways while flicking their tail **'Airplane Ears & Tail Flicking'** is an explicit signal of irritation, environmental stress, or joint discomfort.",
+                "body_signals": [
+                    {
+                        "name": "Lying Flat on Back or Sitting on Hindquarters (Sprawled Sitting / Buddha Position)",
+                        "meaning": "A signal of ultimate trust and relaxation, indicating complete comfort in their home territory.",
+                        "response": "Greet them softly without startling them, offering gentle slow blinks to reinforce trust."
+                    },
+                    {
+                        "name": "Flattening Ears Sideways & Flicking Tail (Airplane Ears & Tail Flicking)",
+                        "meaning": "A reaction to unwanted noise, sudden touch, environmental stress, or weight-induced joint pain.",
+                        "response": "Remove stress triggers and provide a quiet hiding space where they can rest undisturbed."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Weight Check, High-Protein Portion Control Feeding & Eye Hygiene",
+                        "text": "Feed measured high-protein kibble to prevent obesity, gently cleaning eye corners with sterile gauze."
+                    },
+                    {
+                        "name": "Afternoon: Low-Height Resting Spaces & Fresh Hydration Setup (Kidney Care)",
+                        "text": "Place multiple clean water fountains to prevent PKD/FLUTD complications, ensuring accessible resting perches."
+                    },
+                    {
+                        "name": "Evening: Low-Impact Interactive Play (15–20 min) & Coat Brushing",
+                        "text": "Engage in floor-level feather wand chasing to burn calories safely without joint strain, brushing their plush coat."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "What is the difference between a Scottish Fold and a Scottish Straight, and do Straights have genetic issues?",
+                        "answer": "Scottish Folds possess the mutated Fold gene (Fd) causing cartilage defect and severe joint pain, whereas Scottish Straights have normal straight ears and no cartilage dysplasia. However, due to shared British/American Shorthair ancestry, Straights require screening for Hypertrophic Cardiomyopathy (HCM) and Polycystic Kidney Disease (PKD)."
+                    },
+                    {
+                        "question": "Scottish Straights gain weight easily—how should I manage my cat's weight?",
+                        "answer": "Their calm nature and sturdy build facilitate easy weight gain. Feed measured portions of high-protein, low-carbohydrate food and engage them in 15–20 minutes of daily floor-level wand play to maintain muscle mass and protect heart health."
+                    }
+                ],
+                "tags": [
+                    "ScottishStraight",
+                    "CatCare",
+                    "FelineHCM",
+                    "CatWeightManagement"
+                ]
+            },
+            "ja": {
+                "title": "スコティッシュストレートのコミュニケーションサイン解読と関節・心臓ケアのための3ステップデイリールーティン",
+                "description": "丸い顔が愛らしいスコティッシュストレート（Scottish Straight）。スコ座りやイカ耳サインの解読、肥満・心臓病（HCM）・腎臓病予防の3ステップホームケアを紹介します。",
+                "authority": "国際キャットファンシーズ協会(CFA)および世界小動物獣医師会(WSAVA)猫科ケアプロトコル",
+                "profile": {
+                    "breed": "スコティッシュストレート (Scottish Straight)",
+                    "lifespan": "12 〜 15年 (適切なケアで15年以上)",
+                    "sleep_pattern": "12 〜 16時間 (体重管理のための毎日の遊びが必須)",
+                    "temperament": "穏やか、静か、甘えん坊、人懐っこい、適応力が高い"
+                },
+                "intro": "まんまるな顔とピンと立った耳が魅力的なスコティッシュストレート（Scottish Straight）は、スコティッシュフォールドの骨軟骨異形成症の遺伝的リスクを回避しながら、丸く愛らしい魅力をそのまま持った健康的な品種です。折れ耳遺伝子はありませんが、太りやすい体質のため、肥満になると関節への負担や心臓病「肥大型心筋症（HCM）」、遺伝性「多胞性腎疾患（PKD）」にかかりやすくなります。本日PetSelfでは、スコティッシュストレートのサインを読み解き、健康を守る3ステップルーティンをお届けします。",
+                "whyTitle": "スコティッシュストレートのボディランゲージ：へそ天・スコ座り(Sprawled Sitting)とイカ耳(Airplane Ears)",
+                "whyDesc": "スコティッシュストレートはリラックスと不快感を独特の体勢と耳の形で表現します。お腹を見せてゴロンと横たわったり人間のように腰を下ろして座る**「へそ天・スコ座り（Sprawled Sitting）」**は、安心感と強い信頼のサインです。一方、耳を横に平らに伏せて尾をパタパタ振る**「イカ耳（Airplane Ears）」**は、警戒、ストレス、または体調不良のサインです。",
+                "body_signals": [
+                    {
+                        "name": "お腹を見せて横たわる・お尻をつけて座る (Sprawled Sitting / Buddha Position)",
+                        "meaning": "環境と飼い主を完全に信頼し、リラックスして安心している状態です。",
+                        "response": "急に触って驚かせないよう、静かな声で話しかけながらゆっくり目を合わせましょう。"
+                    },
+                    {
+                        "name": "耳を横に伏せて尾を振る (Airplane Ears & Tail Flicking / イカ耳)",
+                        "meaning": "騒音や急な刺激によるストレス、あるいは体重増加による関節痛のサインです。",
+                        "response": "刺激を取り除き、一人で落ち着ける静かな隠れ家を提供して休ませます。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：体重測定・高タンパクな定時給餌＆目元の衛生ケア",
+                        "text": "肥満予防のために量を守ってフードを与え、丸顔特有の目元の汚れを清潔なガーゼで拭き取ります。"
+                    },
+                    {
+                        "name": "昼：低い位置の休息場所の確保＆新鮮な水分の補給（腎臓ケア）",
+                        "text": "多胞性腎疾患（PKD）や尿路結石を防ぐため清潔な水飲場を設置し、日当たりの良い休息場所を整えます。"
+                    },
+                    {
+                        "name": "夜：低負荷の狩りごっこ（15〜20分）＆被毛のブラッシング",
+                        "text": "関節に負担をかけない床面中心のじゃらし遊びでカロリーを消費させ、ブラッシングでヘアボールを予防します。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "スコティッシュフォールドとストレートの違いは何ですか？ストレートにも遺伝病はありますか？",
+                        "answer": "フォールドは耳が折れる骨軟骨異形成症の遺伝子を持ち関節痛のリスクが高いですが、ストレートは立ち耳で骨の遺伝病リスクが非常に低いです。ただし、交配血統に由来する肥大型心筋症（HCM）や多胞性腎疾患（PKD）のチェックは定期的に受ける必要があります。"
+                    },
+                    {
+                        "question": "スコティッシュストレートは太りやすいですが、体重管理はどうすればいいですか？",
+                        "answer": "おっとりした性格で運動量が少ないため肥満になりやすいです。高タンパク・低炭水化物のフードを定量給餌し、関節に優しい床面でのじゃらし遊びを毎日15〜20分行い、筋肉量を維持してください。"
+                    }
+                ],
+                "tags": [
+                    "スコティッシュストレート",
+                    "猫のケア",
+                    "猫のHCM",
+                    "猫の体重管理"
+                ]
+            },
+            "zh": {
+                "title": "苏格兰直耳猫情感与应激信号解读及关节与心脏护理的3步日常流程",
+                "description": "圆润可爱的苏格兰直耳猫（Scottish Straight）护理指南。解读仰卧大字型与飞机耳信号，通过 3 步骤家庭护理预防肥胖、肥厚型心肌病（HCM）及肾脏疾病。",
+                "authority": "国际猫协会 (CFA) 与世界小动物兽医师协会 (WSAVA) 猫科护理标准",
+                "profile": {
+                    "breed": "苏格兰直耳猫 (Scottish Straight)",
+                    "lifespan": "12 ~ 15年 (科学喂养可达15年以上)",
+                    "sleep_pattern": "12 ~ 16小时 (为控制体重每日须进行捕猎游戏)",
+                    "temperament": "温和、安静、黏人、甜美、适应力强"
+                },
+                "intro": "拥有圆滚滚的面庞与直立双耳的苏格兰直耳猫（Scottish Straight），不仅完美继承了苏格兰猫圆润可爱的外貌，还避免了折耳猫骨骼软骨发育不良的遗传痛苦。虽然没有折耳基因，但其紧凑结实的体型使其极易发胖；过度肥胖会加重关节负担，并增加肥厚型心肌病（HCM）与多囊性肾病（PKD）的发病风险。今天 PetSelf 将带您准确解读苏格兰直耳猫的身体语言，并通过 3 步骤日常护理维护其健康。",
+                "whyTitle": "苏格兰直耳猫的肢体语言：仰卧大字型 (Sprawled Sitting) 与飞机耳 (Airplane Ears)",
+                "whyDesc": "苏格兰直耳猫通过独特的姿态与耳朵姿势表达舒适与不适。坦露肚皮摊平躺在地上或像人类一样靠着臀部坐着**“仰卧大字型 / 佛系坐姿 (Sprawled Sitting)”**，是对周围环境高度信任与放松的表现。相反，将耳朵向两侧压平并甩动尾巴**“飞机耳 (Airplane Ears)”**，则是受到干扰、感到压力或身体疼痛的警告信号。",
+                "body_signals": [
+                    {
+                        "name": "露肚仰卧或贴臀坐立 (Sprawled Sitting / Buddha Position)",
+                        "meaning": "对主人和家庭环境感到绝对安全，处于彻底放松与信任的状态。",
+                        "response": "切勿突然抚摸惊吓它们，可以用温柔的声音打招呼并给予缓慢眨眼回应。"
+                    },
+                    {
+                        "name": "耳朵向两侧压平并甩动尾巴 (Airplane Ears & Tail Flicking / 飞机耳)",
+                        "meaning": "因外界噪音、突然接触引发的烦躁，或因体重过重引发的关节疼痛。",
+                        "response": "移走刺激源，为其提供一个安静的隐蔽场所供其独立休息。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：体重监测与高蛋白定量投喂及眼部清洁",
+                        "text": "严格定时定量投喂高蛋白猫粮以防肥胖，用无菌纱布清理圆脸结构易积聚的眼角分泌物。"
+                    },
+                    {
+                        "name": "中午：低高度休息区布置与新鲜饮水补充（预防肾病）",
+                        "text": "布置多处干净饮水点以防多囊性肾病（PKD）与尿路结石，并提供阳光充足的休息台。"
+                    },
+                    {
+                        "name": "晚上：低冲击捕猎游戏（15~20分钟）与毛发梳理",
+                        "text": "使用逗猫棒进行贴地捕猎游戏以消耗热量而不伤关节，并定期梳理浓密的毛发以防毛球症。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "苏格兰折耳猫和直耳猫有什么区别？直耳猫会有遗传病吗？",
+                        "answer": "苏格兰折耳猫带有基因突变的折耳基因（Fd），极易发生骨软骨发育不良与关节剧痛；而直耳猫耳朵直立，没有软骨发育不良的风险。但由于杂交血统，直耳猫仍需定期筛查肥厚型心肌病（HCM）与多囊性肾病（PKD）。"
+                    },
+                    {
+                        "question": "苏格兰直耳猫非常容易发胖，应该如何管理体重？",
+                        "answer": "由于性格安静且活动量较小，它们很容易过重。应投喂高蛋白、低碳水化合物的猫粮并控制喂食量，每天陪伴其进行 15~20 分钟的贴地逗猫棒游戏，维持肌肉量的同时保护心脏与关节。"
+                    }
+                ],
+                "tags": [
+                    "苏格兰直耳猫",
+                    "猫咪护理",
+                    "猫肥厚型心肌病",
+                    "猫咪体重管理"
+                ]
+            },
+            "es": {
+                "title": "Señales de afecto y estrés en el Scottish Straight y rutina diaria de 3 pasos para el cuidado articular y cardíaco",
+                "description": "Guía de cuidado para el adorable Scottish Straight. Interprete la postura relajada y las orejas en avioneta, prevenga la obesidad, cardiomiopatía (HCM) y problemas renales en 3 pasos.",
+                "authority": "Cat Fanciers' Association (CFA) y Protocolos Felinos de la WSAVA",
+                "profile": {
+                    "breed": "Scottish Straight (Scottish Straight)",
+                    "lifespan": "12 ~ 15 años (Hasta 15+ años con buenos cuidados)",
+                    "sleep_pattern": "12 ~ 16 horas (Juego diario indispensable para control de peso)",
+                    "temperament": "Tranquilo, Silencioso, Afectuoso, Dulce, Muy adaptable"
+                },
+                "intro": "Adorado por su cara redonda y orejas erguidas, el Scottish Straight posee todo el encanto tierno de la raza sin los riesgos genéticos de la osteocondrodisplasia presente en los Scottish Fold. Aunque no tienen el gen de las orejas plegadas, su estructura robusta los predispone al sobrepeso. La obesidad en esta raza sobrecarga las articulaciones y acelera el riesgo de Cardiomiopatía Hipertrófica (HCM) y Poliquistosis Renal (PKD). Hoy, PetSelf presenta una rutina de 3 pasos para proteger su salud.",
+                "whyTitle": "Lenguaje corporal del Scottish Straight: Postura de Buda (Sprawled Sitting) y orejas en avioneta (Airplane Ears)",
+                "whyDesc": "Los Scottish Straight comunican calma y molestia a través de posturas únicas. Tumbarse boca arriba panza arriba o sentarse sobre las ancas **'Postura de Buda (Sprawled Sitting)'** indica seguridad absoluta y confianza en su hogar. Por el contrario, aplanar las orejas hacia los lados agitando la cola **'Orejas en avioneta (Airplane Ears)'** es una señal clara de irritación, estrés o dolor articular.",
+                "body_signals": [
+                    {
+                        "name": "Tumbado boca arriba o sentado sobre sus ancas (Sprawled Sitting / Buddha Position)",
+                        "meaning": "Muestra de máxima confianza y relajación, indicando que se siente completamente seguro.",
+                        "response": "Salúdele con voz suave sin asustarle, compartiendo parpadeos lentos para reforzar el vínculo."
+                    },
+                    {
+                        "name": "Orejas aplanadas hacia los lados y movimiento de cola (Airplane Ears & Tail Flicking)",
+                        "meaning": "Reacción al ruido, manipulación molesta, estrés ambiental o dolor articular por peso excesivo.",
+                        "response": "Elimine los estímulos estresantes y proporcione un escondite tranquilo para que descanse."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Control de peso, ración medida alta en proteína e higiene ocular",
+                        "text": "Suministre comida rica en proteína medida para evitar la obesidad, limpiando las lagañas con gasa estéril."
+                    },
+                    {
+                        "name": "Tarde: Zonas de descanso a baja altura y fuentes de agua (Cuidado renal)",
+                        "text": "Instale fuentes de agua limpia para prevenir complicaciones de PKD o cistitis, ofreciendo camas accesibles."
+                    },
+                    {
+                        "name": "Noche: Juego interactivo de bajo impacto (15–20 min) y cepillado del manto",
+                        "text": "Juegue con plumeros a nivel del suelo para quemar calorías sin dañar articulaciones, cepillando su denso pelo."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Cuál es la diferencia entre Scottish Fold y Straight, y tienen enfermedades genéticas los Straight?",
+                        "answer": "Los Scottish Fold poseen la mutación genética (Fd) que causa displasia de cartílago y dolor articular grave, mientras que los Scottish Straight tienen orejas erguidas y cartílago normal. Sin embargo, por su ascendencia con el British Shorthair, los Straight deben examinarse periódicamente de Cardiomiopatía Hipertrófica (HCM) y Poliquistosis Renal (PKD)."
+                    },
+                    {
+                        "question": "El Scottish Straight engorda con facilidad, ¿cómo debo gestionar su peso?",
+                        "answer": "Su temperamento tranquilo favorece el aumento de peso. Ofrezca un pienso medido rico en proteínas y bajo en carbohidratos, y realice sesiones diarias de juego de 15 a 20 minutos a ras de suelo para mantener su masa muscular sin dañar las articulaciones."
+                    }
+                ],
+                "tags": [
+                    "ScottishStraight",
+                    "CuidadoFelino",
+                    "HCMFelino",
+                    "ControlDePesoGatos"
+                ]
+            },
+            "fr": {
+                "title": "Signaux d'affection et de stress du Scottish Straight et routine quotidienne en 3 étapes pour le soin des articulations et du cœur",
+                "description": "Guide de soins pour le doux Scottish Straight. Décryptez la posture étalée et les oreilles en avion, prévenez l'obésité, la cardiomyopathie (HCM) et la polykystose rénale en 3 étapes.",
+                "authority": "Cat Fanciers' Association (CFA) & Normes de Soins Félins de la WSAVA",
+                "profile": {
+                    "breed": "Scottish Straight (Scottish Straight)",
+                    "lifespan": "12 ~ 15 ans (Jusqu'à 15 ans et plus avec des soins adaptés)",
+                    "sleep_pattern": "12 ~ 16 heures (Jeu quotidien indispensable pour le contrôle du poids)",
+                    "temperament": "Doux, Calme, Affectueux, Adorable, Très adaptable"
+                },
+                "intro": "Apprécié pour sa tête ronde et ses oreilles droites, le Scottish Straight possède tout le charme rond du Scottish sans les risques génétiques d'ostéochondrodysplasie du Scottish Fold. Bien qu'ils n'aient pas le gène des oreilles pliées, leur constitution robuste les rend sujets à la prise de poids. L'obésité chez cette race fatigue les articulations et accroît le risque de Cardiomyopathie Hypertrophique (HCM) et de Polykystose Rénale (PKD). Aujourd'hui, PetSelf vous présente une routine en 3 étapes pour préserver sa santé.",
+                "whyTitle": "Langage corporel du Scottish Straight : Posture du Bouddha (Sprawled Sitting) et oreilles en avion (Airplane Ears)",
+                "whyDesc": "Les Scottish Straights expriment leur bien-être et leur inconfort par des postures particulières. S'étaler sur le dos ventre en l'air ou s'asseoir sur l'arrière-train **« Posture du Bouddha (Sprawled Sitting) »** indique une sécurité totale et une grande confiance. À l'inverse, plaquer les oreilles sur les côtés en fouettant de la queue **« Oreilles en avion (Airplane Ears) »** est un signal d'irritation, de stress ou de douleur articulaire.",
+                "body_signals": [
+                    {
+                        "name": "Allongé sur le dos ou assis sur le bas du dos (Sprawled Sitting / Buddha Position)",
+                        "meaning": "Signe de confiance et de relaxation maximale, indiquant qu'il se sent en parfaite sécurité.",
+                        "response": "Parlez-lui doucement sans le surprendre et faites-lui des clignements d'yeux lents."
+                    },
+                    {
+                        "name": "Oreilles aplaties sur les côtés et battements de queue (Airplane Ears & Tail Flicking)",
+                        "meaning": "Réaction au bruit, aux manipulations brusques, au stress ambiant ou à une douleur articulaire.",
+                        "response": "Isolez-le des perturbations et offrez-lui un refuge calme pour qu'il se repose."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Suivi du poids, repas dosé riche en protéines & hygiène des yeux",
+                        "text": "Donnez une quantité mesurée de croquettes protéinées pour éviter l'obésité et nettoyez les yeux avec une compresse stérile."
+                    },
+                    {
+                        "name": "Après-midi : Zones de repos accessibles & fontaines d'eau (Soin des reins)",
+                        "text": "Installez des fontaines d'eau propre contre les risques de PKD ou cystites, et prévoyez des reposoirs faciles d'accès."
+                    },
+                    {
+                        "name": "Soir : Jeu interactif doux au sol (15–20 min) & brossage du pelage",
+                        "text": "Jouez au ras du sol avec un plumet pour brûler des calories sans fatiguer les articulations, et brossez son pelage dense."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Quelle différence entre un Scottish Fold et un Straight, et le Straight a-t-il des maladies génétiques ?",
+                        "answer": "Le Scottish Fold possède le gène mutant (Fd) responsable d'ostéochondrodysplasie et de douleurs articulaires, tandis que le Scottish Straight a des oreilles droites et un cartilage normal. Cependant, en raison de ses croisements avec le British Shorthair, le Straight doit être dépisté pour la Cardiomyopathie Hypertrophique (HCM) et la Polykystose Rénale (PKD)."
+                    },
+                    {
+                        "question": "Le Scottish Straight grossit facilement, comment gérer son poids ?",
+                        "answer": "Leur caractère calme et leur ossature trapue favorisent l'embonpoint. Donnez des repas dosés riches en protéines et pauvres en glucides, et proposez 15 à 20 minutes de jeu quotidien au sol pour préserver la masse musculaire et le cœur."
+                    }
+                ],
+                "tags": [
+                    "ScottishStraight",
+                    "SoinDuChat",
+                    "HCMChat",
+                    "GestionPoidsChat"
+                ]
+            },
+            "de": {
+                "title": "Körpersprache der Scottish Straight und 3-Schritte-Tagesroutine für Gelenk- und Herzgesundheit",
+                "description": "Pflegeanleitung für die liebevolle Scottish Straight. Entpannte Buddha-Haltung und Flugzeug-Ohren verstehen, Übergewicht, HCM und Nierenerkrankungen in 3 Schritten vorbeugen.",
+                "authority": "Cat Fanciers' Association (CFA) & Feline Standards der WSAVA",
+                "profile": {
+                    "breed": "Scottish Straight (Scottish Straight)",
+                    "lifespan": "12 ~ 15 Jahre (Bei guter Pflege über 15 Jahre)",
+                    "sleep_pattern": "12 ~ 16 Stunden (Tägliches Spiel zur Gewichtskontrolle unerlässlich)",
+                    "temperament": "Sanft, Ruhig, Anhänglich, Liebenswert, Anpassungsfähig"
+                },
+                "intro": "Geschätzt für ihr rundes Gesicht und ihre stehenden Ohren, vereint die Scottish Straight den rundlichen Charme der Rasse ohne das Genrisiko für Knorpeldefekte der Scottish Fold. Da ihnen das Faltohr-Gen fehlt, haben sie normale Knorpel, neigen aber aufgrund ihres kräftigen Körperbaus zu Übergewicht. Adipositas belastet die Gelenke und erhöht das Risiko für Hypertrophe Kardiomyopathie (HCM) und Polyzystische Nierenerkrankung (PKD). Heute zeigt PetSelf eine 3-Schritte-Routine für die Gesundheit Ihrer Scottish Straight.",
+                "whyTitle": "Körpersprache der Scottish Straight: Entpannte Buddha-Haltung (Sprawled Sitting) und Flugzeug-Ohren (Airplane Ears)",
+                "whyDesc": "Scottish Straights drücken Wohlbefinden und Unbehagen über besondere Haltungen aus. Das entspannte Liegen auf dem Rücken oder das Sitzen auf dem Hinterteil **'Buddha-Haltung (Sprawled Sitting)'** zeigt absolutes Vertrauen. Wenn sie dagegen die Ohren flach seitlich anlegen und mit dem Schwanz zucken **'Flugzeug-Ohren (Airplane Ears)'**, ist dies ein klares Zeichen für Frustration, Stress oder Gelenkschmerzen.",
+                "body_signals": [
+                    {
+                        "name": "Entspanntes Liegen auf dem Rücken oder Sitzen auf dem Po (Sprawled Sitting / Buddha Position)",
+                        "meaning": "Zeichen von höchstem Vertrauen und tiefer Entspannung im sicheren Zuhause.",
+                        "response": "Sprechen Sie leise mit der Katze, ohne sie zu erschrecken, und zwinkern Sie ihr langsam zu."
+                    },
+                    {
+                        "name": "Flach angelegte Ohren und Zucken der Schwanzspitze (Airplane Ears & Tail Flicking)",
+                        "meaning": "Reaktion auf Lärm, ungewollte Berührungen, Stress oder gewichtsbedingte Gelenkschmerzen.",
+                        "response": "Beseitigen Sie den Stressfaktor und bieten Sie einen ruhigen Rückzugsort an."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Gewichtskontrolle, proteinreiche Fütterung nach Maß & Augenpflege",
+                        "text": "Füttern Sie abgemessenes High-Protein-Futter gegen Adipositas und wischen Sie die Augenwinkel mit steriler Gaze ab."
+                    },
+                    {
+                        "name": "Mittag: Leicht zugängliche Schlafplätze & Frische Tränken (Nierenpflege)",
+                        "text": "Stellen Sie Trinkbrunnen auf, um PKD und Blasenentzündungen vorzubeugen, und bieten Sie gut erreichbare Liegeplätze an."
+                    },
+                    {
+                        "name": "Abend: Schonendes Spiel am Boden (15–20 Min.) & Fellpflege",
+                        "text": "Spielen Sie am Boden mit der Angel, um gelenkschonend Kalorien zu verbrennen, und bürsten Sie das dichte Fell."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Was ist der Unterschied zwischen Scottish Fold und Straight, und haben Straights Erbkrankheiten?",
+                        "answer": "Scottish Folds besitzen das Gen (Fd) für Knorpeldefekte und schmerzhafte Gelenkerkrankungen. Scottish Straights haben stehende Ohren und gesunde Knorpel. Aufgrund der Einkreuzung von British Shorthairs sollten jedoch regelmäßig Herz (HCM) und Nieren (PKD) per Ultraschall geprüft werden."
+                    },
+                    {
+                        "question": "Scottish Straights neigen zu Übergewicht – wie halte ich meine Katze schlank?",
+                        "answer": "Ihre ruhige Art begünstigt Gewichtszunahme. Füttern Sie kontrollierte Portionen proteinreichen, kohlenhydratarmen Futters und spielen Sie täglich 15–20 Minuten am Boden, um die Muskelmasse zu erhalten und das Herz zu schützen."
+                    }
+                ],
+                "tags": [
+                    "ScottishStraight",
+                    "Katzenpflege",
+                    "KatzenHCM",
+                    "GewichtskontrolleKatze"
+                ]
+            },
+            "pt": {
+                "title": "Sinais de afeto e estresse no Scottish Straight e rotina diária de 3 passos para cuidados articulares e cardíacos",
+                "description": "Guia de cuidados para o adorável Scottish Straight. Entenda a postura de Buda e as orelhas de avião, previna a obesidade, cardiomiopatia (HCM) e problemas renais em 3 passos.",
+                "authority": "Cat Fanciers' Association (CFA) & Protocolos Felinos da WSAVA",
+                "profile": {
+                    "breed": "Scottish Straight (Scottish Straight)",
+                    "lifespan": "12 ~ 15 anos (Até 15+ anos com bons cuidados)",
+                    "sleep_pattern": "12 ~ 16 horas (Brincadeira diária essencial para controle de peso)",
+                    "temperament": "Gentil, Calmo, Afetuoso, Doce, Muito adaptável"
+                },
+                "intro": "Adorado por seu rosto redondo e orelhas eretas, o Scottish Straight possui todo o charme redondo da raça sem os riscos genéticos de osteochondrodisplasia do Scottish Fold. Como não possuem o gene das orelhas dobradas, sua cartilagem é normal, mas a estrutura encorpada favorece o ganho de peso. A obesidade nesta raça sobrecarrega as articulações e aumenta o risco de Cardiomiopatia Hipertrófica (HCM) e Doença Renal Policística (PKD). Hoje, o PetSelf apresenta uma rotina de 3 passos para cuidar do seu pet.",
+                "whyTitle": "Linguagem corporal do Scottish Straight: Postura de Buda (Sprawled Sitting) e orelhas de avião (Airplane Ears)",
+                "whyDesc": "Os gatos Scottish Straight comunicam relaxamento e incômodo através de posturas marcantes. Deitar-se de costas com a barriga para cima ou sentar-se sobre o quadril **'Postura de Buda (Sprawled Sitting)'** indica total confiança e segurança no lar. Por outro lado, achatar as orelhas para os lados balançando a cauda **'Orelhas de avião (Airplane Ears)'** é um sinal de irritação, estresse ou dor articular.",
+                "body_signals": [
+                    {
+                        "name": "Deitado de costas ou sentado sobre o quadril (Sprawled Sitting / Buddha Position)",
+                        "meaning": "Sinal de máxima confiança e relaxamento, indicando que o gato se sente completamente seguro.",
+                        "response": "Fale com ele em tom suave sem assustá-lo, piscando os olhos lentamente para reforçar o afeto."
+                    },
+                    {
+                        "name": "Orelhas achatadas para os lados e cauda balançando (Airplane Ears & Tail Flicking)",
+                        "meaning": "Reação a ruídos, manuseio incômodo, estresse ambiental ou dor nas articulações.",
+                        "response": "Afaste as fontes de estresse e ofereça um esconderijo calmo para ele descansar."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Controle de peso, ração rica em proteína medida & higiene dos olhos",
+                        "text": "Forneça ração rica em proteína com porções controladas contra a obesidade, limpando os cantos dos olhos com gaze."
+                    },
+                    {
+                        "name": "Tarde: Locais de descanso de fácil acesso & fontes de água (Cuidado renal)",
+                        "text": "Instale fontes de água limpa para prevenir complicações de PKD e cistite, oferecendo camas acessíveis."
+                    },
+                    {
+                        "name": "Noite: Brincadeira de baixo impacto no chão (15–20 min) & escovação da pelagem",
+                        "text": "Brinque com varinhas no chão para queimar calorias sem esforçar as articulações e escove o pelo denso."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Qual a diferença entre Scottish Fold e Straight, e o Straight tem doenças genéticas?",
+                        "answer": "Os Folds possuem o gene mutado (Fd) que causa displasia de cartilagem e dores articulares graves, enquanto os Straights têm orelhas eretas e cartilagem normal. Contudo, devido aos cruzamentos com o British Shorthair, os Straights precisam de exames periódicos de Cardiomiopatia Hipertrófica (HCM) e Doença Renal Policística (PKD)."
+                    },
+                    {
+                        "question": "O Scottish Straight engorda fácil, como controlar o peso dele?",
+                        "answer": "O temperamento calmo favorece o ganho de peso. Ofereça alimento medido rico em proteínas e baixo em carboidratos, e faça sessões diárias de 15 a 20 minutos de brincadeiras rasteiras para manter a massa muscular e proteger o coração."
+                    }
+                ],
+                "tags": [
+                    "ScottishStraight",
+                    "CuidadosComGatos",
+                    "HCMFelina",
+                    "ControleDePesoGatos"
+                ]
+            },
+            "id": {
+                "title": "Sinyal Kasih Sayang dan Stres Scottish Straight serta Rutinitas Harian 3 Langkah Perawatan Sendi dan Jantung",
+                "description": "Panduan perawatan Kucing Scottish Straight yang menggemaskan. Pahami posisi duduk santai dan telinga pesawat, cegah obesitas, Kardiomiopati Hipertrofik (HCM), serta ginjal dalam 3 langkah.",
+                "authority": "Cat Fanciers' Association (CFA) & Standar Perawatan Kucing WSAVA",
+                "profile": {
+                    "breed": "Scottish Straight (Scottish Straight)",
+                    "lifespan": "12 ~ 15 tahun (Hingga 15+ tahun dengan perawatan baik)",
+                    "sleep_pattern": "12 ~ 16 jam (Bermain interaktif harian wajib untuk kontrol berat badan)",
+                    "temperament": "Lembut, Tenang, Penyayang, Manis, Mudah Adaptasi"
+                },
+                "intro": "Dicintai karena wajahnya yang bulat dan telinganya yang tegak, Scottish Straight memiliki semua pesona menggemaskan dari ras Scottish tanpa risiko genetik kelainan tulang seperti pada Scottish Fold. Walau tidak memiliki gen telinga lipat, tubuh mereka yang padat membuat mereka mudah mengalami kenaikan berat badan. Obesitas pada ras ini memberatkan sendi serta meningkatkan risiko Kardiomiopati Hipertrofik (HCM) dan Penyakit Ginjal Polikistik (PKD). Hari ini, PetSelf membagikan 3 langkah rutinitas harian untuk merawat Scottish Straight Anda.",
+                "whyTitle": "Bahasa Tubuh Scottish Straight: Posisi Duduk Santai (Sprawled Sitting) dan Telinga Pesawat (Airplane Ears)",
+                "whyDesc": "Scottish Straight menyampaikan rasa nyaman dan tidak suka melalui postur tubuh yang khas. Berbaring terlentang memperlihatkan perut atau duduk bersandar **'Posisi Duduk Santai / Posisi Buddha (Sprawled Sitting)'** menandakan rasa aman dan kepercayaan penuh pada lingkungannya. Sebaliknya, menekuk telinga ke samping sambil mengibaskan ekor **'Telinga Pesawat (Airplane Ears)'** adalah sinyal jelas adanya rasa terganggu, stres, atau nyeri sendi.",
+                "body_signals": [
+                    {
+                        "name": "Berbaring Terlentang atau Duduk Bersandar (Sprawled Sitting / Buddha Position)",
+                        "meaning": "Sinyal rasa percaya dan relaksasi tertinggi, menandakan kucing merasa sangat aman di rumahnya.",
+                        "response": "Sapa dengan suara lembut tanpa mengejutkan, bagikan kedipan mata lambat untuk mempererat ikatan."
+                    },
+                    {
+                        "name": "Telinga Ditekuk ke Samping & Ekor Mengibas (Airplane Ears & Tail Flicking)",
+                        "meaning": "Reaksi terhadap suara bising, sentuhan mendadak, stres lingkungan, atau nyeri sendi akibat kelebihan berat badan.",
+                        "response": "Jauhkan sumber stres dan sediakan tempat sembunyi yang tenang agar kucing bisa beristirahat."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Kontrol Berat Badan, Pakan Tinggi Protein Terukur & Kebersihan Mata",
+                        "text": "Beri pakan tinggi protein dengan porsi terukur untuk mencegah obesitas, serta bersihkan sudut mata dengan kasa steril."
+                    },
+                    {
+                        "name": "Siang: Tempat Istirahat yang Mudah Dijangkau & Air Minum Segar (Perawatan Ginjal)",
+                        "text": "Sediakan dispenser air bersih untuk mencegah komplikasi PKD dan sistitis, serta sediakan tempat tidur yang nyaman."
+                    },
+                    {
+                        "name": "Malam: Permainan Interaktif Ringan di Lantai (15–20 menit) & Penyisiran Bulu",
+                        "text": "Ajak bermain tongkat bulu di lantai untuk membakar kalori tanpa membebani sendi, lalu sisir bulunya yang tebal."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Apa perbedaan Scottish Fold dan Straight, serta apakah Straight memiliki penyakit genetik?",
+                        "answer": "Scottish Fold memiliki gen mutasi (Fd) yang menyebabkan kelainan tulang dan nyeri sendi parah, sedangkan Scottish Straight memiliki telinga tegak dan tulang yang normal. Namun, karena garis keturunan dari British Shorthair, Scottish Straight tetap perlu skrining rutin Kardiomiopati Hipertrofik (HCM) dan Penyakit Ginjal Polikistik (PKD)."
+                    },
+                    {
+                        "question": "Scottish Straight mudah gemuk, bagaimana cara mengontrol berat badannya?",
+                        "answer": "Sifatnya yang tenang membuat mereka mudah mengalami obesitas. Berikan pakan tinggi protein dan rendah karbohidrat dengan porsi terukur, serta ajak bermain di lantai selama 15–20 menit setiap hari untuk menjaga massa otot dan kesehatan jantung."
+                    }
+                ],
+                "tags": [
+                    "ScottishStraight",
+                    "PerawatanKucing",
+                    "HCMKucing",
+                    "KontrolBeratBadanKucing"
+                ]
+            }
+        },
+        "category": "CareSelf",
+        "app": "careself",
+        "formatVersion": 4,
+        "heroImage": "/images/blog/scottish_straight_care.webp"
+    }
+}

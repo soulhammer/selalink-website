@@ -1,0 +1,525 @@
+{
+    "java-sparrow-care": {
+        "pubDate": "2026-07-26",
+        "updatedDate": "2026-07-26",
+        "locales": {
+            "ko": {
+                "title": "손노리개 문조의 깃털 부풀림 신호와 수욕·수면 관리를 위한 3단계 데일리 케어",
+                "description": "사랑스러운 소형조 문조(Java Sparrow). 체온 저하를 알리는 깃털 부풀림 신호 구별법, 올바른 상온수 수욕(목욕)과 12시간 암막 수면 관리를 위한 3단계 케어 루틴.",
+                "authority": "Association of Avian Veterinarians (AAV) & International Aviculture Protocols",
+                "profile": {
+                    "breed": "문조 / 자바 스패로우 (Java Sparrow)",
+                    "lifespan": "7 ~ 10년",
+                    "sleep_pattern": "10 ~ 12시간 (암막 커튼을 활용한 완전한 암흑 수면)",
+                    "temperament": "영리함, 다정함(손노리개), 호기심 많음, 서열 및 영역 의식 있음"
+                },
+                "intro": "붉은 부리와 둥근 체형, 앙증맞은 울음소리로 사랑받는 문조(Java Sparrow)는 사람과 깊은 유대를 맺는 대표적인 소형 반려조입니다. 세계 조류 수의학회(AAV) 프로토콜에 따르면, 문조는 호흡기가 매우 취약하고 메타볼리즘(대사율)이 높아 세심한 환경 관리가 필수적입니다. 특히 깃털 오염과 체온 저하를 막는 올바른 상온수 수욕(목욕) 습관과 하루 10~12시간의 규칙적인 암막 수면, 테플론(PTFE) 연기 차단이 문조의 건강과 수명을 결정짓는 핵심 요소입니다.",
+                "whyTitle": "문조의 신체 신호: 깃털 부풀리기와 부리 딱딱거리기",
+                "whyDesc": "문조는 자세와 깃털 상태를 통해 건강 및 감정을 명확하게 표현합니다. 몸을 공처럼 부풀리고 멍하게 있는 행동은 즉각적인 온열 조치가 필요한 건강 위험 신호입니다.",
+                "body_signals": [
+                    {
+                        "name": "깃털을 공처럼 부풀리고 눈을 감음 (Fluffed Feathers & Lethargy)",
+                        "meaning": "체온 저하, 저체온증 또는 질병으로 인한 면역력 저하 경고 신호입니다.",
+                        "response": "즉시 온열 램프나 육추기를 가동하여 새장 내부 온도를 28°C ~ 30°C로 올려주고 찬바람을 차단합니다."
+                    },
+                    {
+                        "name": "부리를 빠르게 딱딱거리고 춤을 춤 (Beak Clacking & Dancing)",
+                        "meaning": "보호자에 대한 애정 표현, 구애 행동 또는 기분이 매우 좋을 때 보이는 긍정적 신호입니다.",
+                        "response": "다정한 목소리로 응답해주고 손 위에서 상호작용하며 유대감을 강화합니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 배변 판 청소, 신선한 알곡/펠릿과 음용수 교체",
+                        "text": "아침 일찍 암막 커튼을 열어주고 배설물 상태(색상 및 묽기)를 점검한 뒤 신선한 시드 mix와 깨끗한 물을 제공합니다."
+                    },
+                    {
+                        "name": "낮: 상온수 목욕(수욕) 및 안전한 실내 방사 시간",
+                        "text": "미지근하지 않은 시원한 상온수를 전용 목욕통에 받아주어 수욕을 즐기게 하고, 창문과 주방 위험 요소를 차단한 후 방사 유대를 갖습니다."
+                    },
+                    {
+                        "name": "저녁: 깃털 정리 확인 및 12시간 완전 암막 수면 유지",
+                        "text": "저녁 식사 후 부리와 깃털을 가다듬는지 확인하고, 정해진 시간에 암막 천을 덮어 소음과 빛이 없는 완전한 수면 환경을 조성합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "문조 목욕 시 따뜻한 물을 사용해도 되나요?",
+                        "answer": "절대 안 됩니다! 온수는 깃털 표면의 천연 방수 기름막(미지선 분비물)을 녹여 방수 기능을 상실시키고 급격한 저체온증을 유발합니다. 반드시 상온의 차가운 물을 사용해야 합니다."
+                    },
+                    {
+                        "question": "주방에서 문조를 꺼내놓고 요리해도 괜찮나요?",
+                        "answer": "매우 위험합니다! 프라이팬의 테플론(PTFE) 과열 시 발생하는 연기는 문조의 기낭(Air Sac)을 파괴하여 즉사를 유발합니다. 요리 중에는 반드시 새장 문을 잠그고 분리된 공간에 두어야 합니다."
+                    }
+                ],
+                "tags": [
+                    "문조",
+                    "자바스패로우",
+                    "반려조케어",
+                    "소형조류",
+                    "조류건강"
+                ]
+            },
+            "en": {
+                "title": "Java Sparrow Fluffing Signals and 3-Step Care Routine for Water Baths and Sleep Management",
+                "description": "Care guide for the charming Java Sparrow. Learn to decode feather fluffing stress signals, properly manage room-temperature water baths, and maintain a 12-hour sleep environment.",
+                "authority": "Association of Avian Veterinarians (AAV) & International Aviculture Protocols",
+                "profile": {
+                    "breed": "Java Sparrow (Padda oryzivora / Lonchura oryzivora)",
+                    "lifespan": "7 - 10 Years",
+                    "sleep_pattern": "10 - 12 Hours (Requires total darkness with blackout covers)",
+                    "temperament": "Intelligent, Affectionate (Hand-tame), Curious, Territorial"
+                },
+                "intro": "Renowned for their distinct red beaks, round bodies, and sweet chirps, the Java Sparrow is a beloved companion bird that forms deep bonds with its owner. According to protocols from the Association of Avian Veterinarians (AAV), Java Sparrows have highly delicate respiratory systems and fast metabolisms, making environmental control crucial. In particular, proper room-temperature bathing routines, 10 to 12 hours of consistent blackout sleep, and absolute protection from toxic Teflon fumes are key factors determining their health and lifespan.",
+                "whyTitle": "Java Sparrow Body Signals: Feather Fluffing and Beak Clacking",
+                "whyDesc": "Java Sparrows express their health and emotions clearly through posture and feather condition. Puffing up into a round ball and staying motionless is a critical warning sign requiring immediate warming.",
+                "body_signals": [
+                    {
+                        "name": "Feathers Fluffed into a Ball & Lethargy (Fluffed Feathers)",
+                        "meaning": "A critical warning signal indicating a drop in body temperature, hypothermia, or illness.",
+                        "response": "Immediately turn on a heat lamp or brooder to raise the cage temperature to 28°C ~ 30°C and block all drafts."
+                    },
+                    {
+                        "name": "Rapid Beak Clacking & Tail Hop Dancing (Beak Clacking)",
+                        "meaning": "A joyous display showing affection toward the owner, courtship behavior, or high spirits.",
+                        "response": "Respond gently with a soft voice and interact on your hand to strengthen your bond."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Cage Tray Cleaning, Fresh Seed/Pellet Feed & Water Refresh",
+                        "text": "Remove the blackout curtain early, inspect droppings for color and consistency, and provide fresh seed mix alongside clean drinking water."
+                    },
+                    {
+                        "name": "Afternoon: Room-Temperature Water Bathing & Safe Free-Flight Time",
+                        "text": "Fill a bird bath with cool room-temperature water for grooming, then allow supervised out-of-cage flight after securing windows and kitchen hazards."
+                    },
+                    {
+                        "name": "Evening: Preening Check & 12-Hour Blackout Sleep Routine",
+                        "text": "Observe evening preening behavior, then cover the cage with a light-proof blackout cloth at a set time to ensure quiet, dark sleep."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Can I use warm water when bathing my Java Sparrow?",
+                        "answer": "Absolutely not! Warm water strips the natural waterproof oil coating (from the preen gland) off their feathers, causing loss of insulation and rapid hypothermia. Always use cool or room-temperature water."
+                    },
+                    {
+                        "question": "Is it safe to let my Java Sparrow fly around the kitchen while cooking?",
+                        "answer": "Extremely dangerous! Overheated Teflon (PTFE) cookware releases invisible toxic fumes that cause fatal lung damage in birds within minutes. Keep the cage door secured in a separate room during cooking."
+                    }
+                ],
+                "tags": [
+                    "JavaSparrow",
+                    "AvianCare",
+                    "CompanionBird",
+                    "BirdCare",
+                    "AAVProtocols"
+                ]
+            },
+            "ja": {
+                "title": "手乗り文鳥の膨らみサインと水浴び・睡眠管理のための3ステップデイリーケア",
+                "description": "愛らしい小型鳥・文鳥（Java Sparrow）。体温低下を知らせる羽膨らみサインの見分け方、正しい常温水での水浴びと12時間完全遮光睡眠管理の3ステップケア。",
+                "authority": "世界鳥類獣医師会 (AAV) & 国際鳥類飼育プロトコル",
+                "profile": {
+                    "breed": "文鳥 / ジャワスズメ (Java Sparrow)",
+                    "lifespan": "7 〜 10年",
+                    "sleep_pattern": "10 〜 12時間 (遮光カーテンによる完全暗黒睡眠)",
+                    "temperament": "賢い、人懐っこい（手乗り）、好奇心旺盛、縄張り意識あり"
+                },
+                "intro": "赤く艶やかなクチバシと丸い体型、愛らしい鳴き声で親しまれる文鳥（Java Sparrow）は、飼い主と深い絆を結ぶ小型の愛玩鳥です。世界鳥類獣医師会（AAV）のプロトコルによると、文鳥は呼吸器系が非常に繊細で代謝が高いため、細やかな環境管理が欠かせません。特に羽毛を清潔に保つ正しい水浴び習慣、1日10〜12時間の規則的な遮光睡眠、テフロン（PTFE）中毒からの保護が文鳥の健康と寿命を左右する極めて重要なポイントです。",
+                "whyTitle": "文鳥の身体シグナル：羽毛の膨らみとクチバシのパチパチ音",
+                "whyDesc": "文鳥は姿勢や羽毛の状態によって健康や感情を明確に表現します。体をボールのように丸く膨らませてじっとしている行動は、直ちに保温が必要な危険信号です。",
+                "body_signals": [
+                    {
+                        "name": "羽毛をボールのように膨らませて目を閉じる (Fluffed Feathers & Lethargy)",
+                        "meaning": "体温低下、低体温症、または病気による免疫力低下の警告サインです。",
+                        "response": "直ちに保温電球やペットヒーターを作動させ、ケージ内の温度を28°C〜30°Cに上げ、隙間風を遮断します。"
+                    },
+                    {
+                        "name": "クチバシをパチパチ鳴らしてダンスする (Beak Clacking & Dancing)",
+                        "meaning": "飼い主への親愛の情、求愛行動、または機嫌がとても良い時のポジティブなサインです。",
+                        "response": "優しく声をかけ、手の上でコミュニケーションをとって絆を深めましょう。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：フン受けトレイの掃除と新鮮なシード/ペレット・水の交換",
+                        "text": "早朝に遮光カバーを外し、フンの状態（色や水分量）を点検した後、新鮮なシードミックスと清潔な飲み水を提供します。"
+                    },
+                    {
+                        "name": "昼：常温水での水浴びと安全な室内放鳥タイム",
+                        "text": "ぬるま湯ではなく冷たい常温水を専用の水浴び容器に入れ、窓やキッチン周りの危険を排除してから放鳥タイムを楽しみます。"
+                    },
+                    {
+                        "name": "夜：羽繕いの確認と12時間の完全遮光睡眠の維持",
+                        "text": "夕食後にクチバシや羽毛を整えているか観察し、決まった時間に遮光布をかけて静かで暗い睡眠環境を整えます。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "文鳥の水浴びにぬるま湯や温水を使っても大丈夫ですか？",
+                        "answer": "絶対にダメです！温水は羽毛の表面にある天然の防水オイル（尾脂腺分泌物）を溶かしてしまい、防水機能を失わせて急激な低体温症を引き起こします。必ず常温の冷たい水を使用してください。"
+                    },
+                    {
+                        "question": "キッチンで料理中に文鳥を放鳥してもいいですか？",
+                        "answer": "非常に危険です！フライパンのテフロン（PTFE）加工が加熱された際に発生する無臭ガスは、鳥類の気嚢（Air Sac）を破壊し即死させます。調理中は必ずケージのドアを閉め、別室で過ごさせてください。"
+                    }
+                ],
+                "tags": [
+                    "文鳥",
+                    "ジャワスズメ",
+                    "鳥類ケア",
+                    "手乗り鳥",
+                    "AAVプロトコル"
+                ]
+            },
+            "zh": {
+                "title": "手养文鸟羽毛蓬松信号与水浴·睡眠管理的3步日常护理",
+                "description": "可爱小型观赏鸟文鸟（Java Sparrow）护理指南。解读预示体温下降的羽毛蓬松信号、正确常温水浴与12小时遮光睡眠的3步护理流程。",
+                "authority": "世界鸟类兽医师协会 (AAV) 与国际鸟类饲养协议",
+                "profile": {
+                    "breed": "文鸟 / 禾雀 (Java Sparrow)",
+                    "lifespan": "7 ~ 10年",
+                    "sleep_pattern": "10 ~ 12小时 (使用遮光罩保持完全黑暗睡眠)",
+                    "temperament": "聪明、亲人（手养）、好奇心强、有领地意识"
+                },
+                "intro": "拥有鲜艳红嘴、圆润体型和清脆鸣叫的文鸟（Java Sparrow）是能与主人建立深厚情感的热门小型伴侣鸟。根据世界鸟类兽医师协会（AAV）协议，文鸟的呼吸系统极度脆弱且新陈代谢迅速，因此环境管理至关重要。尤其是保护羽毛功能的正确常温水浴习惯、每天10~12小时的规律遮光睡眠，以及严禁接触特氟龙（PTFE）有毒气体，是决定文鸟健康与寿命的核心要素。",
+                "whyTitle": "文鸟的肢体语言：羽毛蓬松与嗒嘴鸣叫",
+                "whyDesc": "文鸟的姿态与羽毛状态能清晰反映其健康与情绪的状态。将身体蓬松成球状且发呆的行为是需要立即保温的健康危险信号。",
+                "body_signals": [
+                    {
+                        "name": "羽毛蓬松成球状并闭眼 (Fluffed Feathers & Lethargy)",
+                        "meaning": "体温下降、低体温症或因疾病导致免疫力下降的警告信号。",
+                        "response": "应立即开启保温灯或保温箱将鸟笼内温度提升至28°C ~ 30°C，并阻挡冷风吹袭。"
+                    },
+                    {
+                        "name": "快速嗒嘴并跳跃舞蹈 (Beak Clacking & Dancing)",
+                        "meaning": "对主人表达爱意、求偶行为或心情极佳时的快乐信号。",
+                        "response": "用温柔的声音回应它，并引导其在手掌上互动以增进情感。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：清理粪便底盘，更换新鲜谷物/颗粒粮与饮用水",
+                        "text": "早晨揭开遮光罩检查粪便状态（颜色与湿度），提供新鲜的种子混合粮与干净的饮用水。"
+                    },
+                    {
+                        "name": "中午：常温水水浴与安全的室内放飞互动",
+                        "text": "在专用水浴盆中注入凉爽的常温水供其洗澡，排除窗户和厨房的危险因素后进行监督下的放飞。"
+                    },
+                    {
+                        "name": "晚上：理羽检查与12小时完全遮光睡眠",
+                        "text": "观察傍晚的理羽行为，在固定时间盖上不透光的遮光罩，营造安静无光的睡眠环境。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "给文鸟水浴洗澡时可以使用温水吗？",
+                        "answer": "绝对不行！温水会溶解文鸟羽毛表面的天然防水油脂（尾脂腺分泌物），导致羽毛失去防水保温功能并引发急性低体温症。请务必使用凉爽的常温水。"
+                    },
+                    {
+                        "question": "厨房做饭时可以让文鸟在周围自由飞翔吗？",
+                        "answer": "极其危险！不粘锅表面的特氟龙（PTFE）涂层受热释放的无味气体瞬间破坏鸟类的气囊（Air Sac）导致猝死。做饭时务必锁定笼门并将其安置在独立房间。"
+                    }
+                ],
+                "tags": [
+                    "文鸟",
+                    "禾雀",
+                    "观赏鸟护理",
+                    "手养鸟",
+                    "AAV协议"
+                ]
+            },
+            "es": {
+                "title": "Señales de plumas ahuecadas del Gorrión de Java y rutina de 3 pasos para baños y sueño",
+                "description": "Guía de cuidado para el adorable Gorrión de Java (Java Sparrow). Aprenda a identificar el ahuecado de plumas por frío, baños con agua a temperatura ambiente y un ambiente de sueño de 12 horas.",
+                "authority": "Asociación de Veterinarios de Aves (AAV) y Protocolos Internacionales de Avicultura",
+                "profile": {
+                    "breed": "Gorrión de Java / Calafate (Java Sparrow)",
+                    "lifespan": "7 ~ 10 años",
+                    "sleep_pattern": "10 ~ 12 horas (Requiere oscuridad total con funda opaca)",
+                    "temperament": "Inteligente, Afectuoso (Papillero/Domado), Curioso, Territorial"
+                },
+                "intro": "Reconocido por su pico rojo característico, cuerpo redondeado y dulce canto, el Gorrión de Java es una ave de compañía muy querida que crea lazos profundos con su dueño. Según los protocolos de la Asociación de Veterinarios de Aves (AAV), tienen un sistema respiratorio extremadamente delicado y un metabolismo rápido, lo que hace vital el control ambiental. Un baño adecuado con agua a temperatura ambiente, entre 10 y 12 horas de sueño en oscuridad absoluta y la protección total contra los gases tóxicos del teflón son clave para su salud y longevidad.",
+                "whyTitle": "Lenguaje corporal del Gorrión de Java: Plumas ahuecadas y chasquido de pico",
+                "whyDesc": "El Gorrión de Java expresa su salud y emociones claramente a través de su postura y el estado de sus plumas. Ahuecarse como una bola y quedarse inmóvil es una señal de advertencia crítica que requiere calor inmediato.",
+                "body_signals": [
+                    {
+                        "name": "Plumas ahuecadas en forma de bola y letargo (Fluffed Feathers)",
+                        "meaning": "Una señal de advertencia crítica que indica caída de temperatura corporal, hipotermia o enfermedad.",
+                        "response": "Encienda de inmediato una lámpara de calor para elevar la temperatura de la jaula a 28°C ~ 30°C y bloquee las corrientes de aire."
+                    },
+                    {
+                        "name": "Chasquido rápido del pico y baile a saltos (Beak Clacking)",
+                        "meaning": "Una demostración de afecto hacia el dueño, comportamiento de cortejo o alegría intensa.",
+                        "response": "Responda suavemente con voz dulce e interactúe en su mano para fortalecer el vínculo."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Limpieza de bandeja, alimento fresco (semillas/pellets) y agua nueva",
+                        "text": "Retire la funda opaca temprano, revise las heces (color y consistencia) y proporcione mezcla de semillas fresca y agua limpia."
+                    },
+                    {
+                        "name": "Tarde: Baño con agua a temperatura ambiente y vuelo libre seguro",
+                        "text": "Llene una bañera para aves con agua fresca a temperatura ambiente y permita el vuelo supervisado tras asegurar ventanas y la cocina."
+                    },
+                    {
+                        "name": "Noche: Control de acicalamiento y rutina de sueño opaco de 12 horas",
+                        "text": "Observe el acicalamiento nocturno y cubra la jaula con una funda opaca a una hora fija para garantizar un descanso oscuro y silencioso."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Puedo usar agua tibia para el baño de mi Gorrión de Java?",
+                        "answer": "¡Absolutamente no! El agua tibia disuelve la capa protectora de aceite natural de sus plumas (de la glándula uropigial), eliminando el aislamiento térmico y causando hipotermia rápida. Use siempre agua fresca a temperatura ambiente."
+                    },
+                    {
+                        "question": "¿Es seguro dejar volar a mi ave por la cocina mientras cocino?",
+                        "answer": "¡Extremadamente peligroso! Las sartenes con teflón (PTFE) sobrecalentadas emiten gases tóxicos invisibles que destruyen los sacos aéreos de las aves en minutos. Mantenga la jaula cerrada en otra habitación mientras cocina."
+                    }
+                ],
+                "tags": [
+                    "GorrionDeJava",
+                    "CuidadoDeAves",
+                    "AveDeCompania",
+                    "SaludAviar",
+                    "AAV"
+                ]
+            },
+            "fr": {
+                "title": "Signaux de plumage ébouriffé du Moineau de Java et routine en 3 étapes pour la baignade et le sommeil",
+                "description": "Guide de soins pour l'adorable Moineau de Java (Java Sparrow). Apprenez à déceler l'ébouriffement lié au froid, la baignade à eau ambiante et un sommeil de 12 heures.",
+                "authority": "Association of Avian Veterinarians (AAV) & Protocoles Internationaux d'Aviculture",
+                "profile": {
+                    "breed": "Moineau de Java / Padda de Java (Java Sparrow)",
+                    "lifespan": "7 ~ 10 ans",
+                    "sleep_pattern": "10 ~ 12 heures (Obscurité totale requise avec housse occultante)",
+                    "temperament": "Intelligent, Affectueux (Apprivoisé), Curieux, Territorial"
+                },
+                "intro": "Apprécié pour son bec rouge vif, son corps arrondi et ses doux gazouillements, le Moineau de Java (Padda) est un oiseau de compagnie très attaché à son propriétaire. Selon les protocoles de l'Association of Avian Veterinarians (AAV), il possède un système respiratoire extrêmement fragile et un métabolisme rapide. Une baignade adaptée à température ambiante, un sommeil régulier de 10 à 12 heures dans le noir complet et une protection totale contre les fumées de téflon sont indispensables à sa santé et sa longévité.",
+                "whyTitle": "Signaux corporels du Moineau de Java : Plumage ébouriffé et claquements de bec",
+                "whyDesc": "Le Moineau de Java exprime clairement sa santé et ses émotions par sa posture. S'ébouriffer en boule et rester immobile est un signal d'alerte critique nécessitant un réchauffement immédiat.",
+                "body_signals": [
+                    {
+                        "name": "Plumage ébouriffé en boule et léthargie (Fluffed Feathers)",
+                        "meaning": "Un signal d'alerte indiquant une chute de température corporelle, une hypothermie ou une maladie.",
+                        "response": "Allumez immédiatement une lampe chauffante pour monter la température de la cage à 28°C ~ 30°C et bloquez les courants d'air."
+                    },
+                    {
+                        "name": "Claquements rapides de bec et petite danse à sautiller (Beak Clacking)",
+                        "meaning": "Une démonstration d'affection envers le propriétaire, une parade ou un signe de grande joie.",
+                        "response": "Répondez avec une voix douce et interagissez sur votre main pour renforcer votre lien."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Nettoyage du tiroir, graines/extrudés frais et renouvellement de l'eau",
+                        "text": "Retirez la housse occultante, vérifiez les fientes (couleur et consistance), puis fournissez un mélange de graines frais et de l'eau propre."
+                    },
+                    {
+                        "name": "Après-midi : Baignade à eau ambiante et sortie de cage sécurisée",
+                        "text": "Remplissez une baignoire pour oiseaux avec de l'eau fraîche à température ambiante, puis autorisez un vol libre sous surveillance."
+                    },
+                    {
+                        "name": "Soir : Vérification du lissage des plumes et sommeil occultant de 12 heures",
+                        "text": "Observez le lissage des plumes du soir et recouvrez la cage d'un tissu occultant à heure fixe pour un repos paisible dans le noir."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Puis-je utiliser de l'eau chaude pour la baignade de mon Moineau de Java ?",
+                        "answer": "Absolument pas ! L'eau chaude dissout le sébum protecteur naturel de leurs plumes (issu de la glande uropygiene), entraînant la perte de l'isolation et une hypothermie rapide. Utilisez toujours de l'eau fraîche à température ambiante."
+                    },
+                    {
+                        "question": "Puis-je laisser mon oiseau voler dans la cuisine pendant que je cuisine ?",
+                        "answer": "Extrêmement dangereux ! Le téflon (PTFE) surchauffé des poêles émet des gaz toxiques invisibles qui détruisent les sacs aériens des oiseaux en quelques minutes. Laissez l'oiseau enfermé dans sa cage dans une autre pièce."
+                    }
+                ],
+                "tags": [
+                    "MoineauDeJava",
+                    "PaddaDeJava",
+                    "SoinsOiseaux",
+                    "OiseauDeCompagnie",
+                    "AAV"
+                ]
+            },
+            "de": {
+                "title": "Reisfink Plustersignale und 3-Schritte-Tagesroutine für Wasserbad und Schlafpflege",
+                "description": "Pflegeanleitung für den Reisfink (Java Sparrow). Erkennen Sie das Aufplustern bei Kälte, richtige Wasserbäder bei Raumtemperatur und eine 12-Stunden-Schlafumgebung.",
+                "authority": "Association of Avian Veterinarians (AAV) & Internationale Richtlinien für Vogelhaltung",
+                "profile": {
+                    "breed": "Reisfink / Reinvogel (Java Sparrow)",
+                    "lifespan": "7 ~ 10 Jahre",
+                    "sleep_pattern": "10 ~ 12 Stunden (Benötigt absolute Dunkelheit durch Abdecktuch)",
+                    "temperament": "Intelligent, Zutraulich (Handzahm), Neugierig, Territorial"
+                },
+                "intro": "Der Reisfink (Java Sparrow) ist wegen seines leuchtend roten Schnabels, seines rundlichen Körpers und seines charmanten Gesangs ein beliebter Heimvogel, der eine enge Bindung zu seinem Halter aufbaut. Laut den Standards der Association of Avian Veterinarians (AAV) besitzen Reisfinken ein äußerst empfindliches Atmungssystem und einen schnellen Stoffwechsel. Regelmäßige Wasserbäder bei Raumtemperatur, 10 bis 12 Stunden ungestörter Schlaf in vollkommener Dunkelheit und der Schutz vor giftigen Teflon-Dämpfen sind entscheidend für ihre Gesundheit.",
+                "whyTitle": "Körpersprache des Reisfinken: Aufplustern und Schnabelklappern",
+                "whyDesc": "Reisfinken zeigen ihren Gesundheitszustand und ihre Gefühle deutlich durch Haltung und Gefieder. Sich kugelartig aufzuplustern und teilnahmslos zu verharren, ist ein Alarmsignal, das sofortige Wärme erfordert.",
+                "body_signals": [
+                    {
+                        "name": "Kugelartiges Aufplustern des Gefieders & Teilnahmslosigkeit (Fluffed Feathers)",
+                        "meaning": "Ein kritisches Warnsignal für Unterkühlung, Sinken der Körpertemperatur oder Krankheit.",
+                        "response": "Schalten Sie sofort eine Wärmelampe ein, um die Käfigtemperatur auf 28°C ~ 30°C zu erhöhen, und schützen Sie den Vogel vor Zugluft."
+                    },
+                    {
+                        "name": "Schnelles Schnabelklappern & hüpfender Tanz (Beak Clacking)",
+                        "meaning": "Ein Zeichen von Zuneigung gegenüber dem Halter, Balzverhalten oder großer Freude.",
+                        "response": "Antworten Sie mit sanfter Stimme und lassen Sie den Vogel auf der Hand interagieren, um die Bindung zu stärken."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Reinigung der KotSchublade, frisches Körner/Pelletfutter & Wasserwechsel",
+                        "text": "Nehmen Sie das Abdecktuch früh ab, prüfen Sie den Kot auf Farbe und Konsistenz und bieten Sie frisches Futter sowie sauberes Trinkwasser an."
+                    },
+                    {
+                        "name": "Nachmittag: Wasserbad bei Raumtemperatur & sicherer Freiflug",
+                        "text": "Füllen Sie das Badehaus mit kühlem Leitungswasser (Raumtemperatur) und ermöglichen Sie nach Sicherung von Fenstern und Küche überwachten Freiflug."
+                    },
+                    {
+                        "name": "Abend: Gefiederpflege-Kontrolle & 12-Stunden-Dunkelschlaf-Routine",
+                        "text": "Beobachten Sie das Putzen des Gefieders am Abend und decken Sie den Käfig zu einer festen Zeit mit einem dunklen Tuch ab."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Darf ich warmes Wasser für das Bad meines Reisfinken verwenden?",
+                        "answer": "Niemals! Warmes Wasser löst die natürliche Fettschicht (aus der Bürzeldrüse) des Gefieders auf. Dadurch verliert das Gefieder seine Isolationswirkung, was zu schneller Unterkühlung führt. Verwenden Sie stets kühles Wasser bei Raumtemperatur."
+                    },
+                    {
+                        "question": "Darf mein Reisfink während des Kochens in der Küche freifliegen?",
+                        "answer": "Lebensgefährlich! Überhitzte Teflon-Beschichtungen (PTFE) von Pfannen setzen unsichtbare giftige Dämpfe frei, die bei Vögeln innerhalb von Minuten tödliche Luftsack-Schäden verursachen. Halten Sie den Käfig beim Kochen in einem anderen Raum geschlossen."
+                    }
+                ],
+                "tags": [
+                    "Reisfink",
+                    "Vogelpflege",
+                    "Heimvogel",
+                    "Vogelgesundheit",
+                    "AAV"
+                ]
+            },
+            "pt": {
+                "title": "Sinais de penas eriçadas do Pardal de Java e rotina de 3 passos para banho e sono",
+                "description": "Guia de cuidados para o adorável Pardal de Java (Java Sparrow). Aprenda a identificar penas eriçadas por frio, banhos com água em temperatura ambiente e sono de 12 horas.",
+                "authority": "Association of Avian Veterinarians (AAV) & Protocolos Internacionais de Avicultura",
+                "profile": {
+                    "breed": "Pardal de Java / Padda (Java Sparrow)",
+                    "lifespan": "7 ~ 10 anos",
+                    "sleep_pattern": "10 ~ 12 horas (Requer escuridão total com capa blackout)",
+                    "temperament": "Inteligente, Afetuoso (Domesticado/Manso), Curioso, Territorial"
+                },
+                "intro": "Amado por seu bico vermelho vibrante, corpo arredondado e canto suave, o Pardal de Java (Padda) é uma ave de companhia incrível que cria laços profundos com o tutor. Segundo os protocolos da Association of Avian Veterinarians (AAV), eles possuem um sistema respiratório extremamente sensível e metabolismo acelerado. O banho correto com água em temperatura ambiente, de 10 a 12 horas de sono em escuridão total e a proteção contra vapores tóxicos de teflon são vitais para a saúde da ave.",
+                "whyTitle": "Linguagem corporal do Pardal de Java: Penas eriçadas e estalar de bico",
+                "whyDesc": "O Pardal de Java expressa sua saúde e emoções através da postura e das penas. Eriçar as penas formando uma bola e ficar imóvel é um sinal de alerta crítico que exige aquecimento imediato.",
+                "body_signals": [
+                    {
+                        "name": "Penas eriçadas em formato de bola e letargia (Fluffed Feathers)",
+                        "meaning": "Um sinal de alerta crítico indicando queda de temperatura corporal, hipotermia ou doença.",
+                        "response": "Ligue imediatamente uma lâmpada aquecedora para elevar a temperatura da gaiola para 28°C ~ 30°C e proteja contra correntes de ar."
+                    },
+                    {
+                        "name": "Estalar rápido de bico e dança com saltos (Beak Clacking)",
+                        "meaning": "Uma demonstração de afeto pelo tutor, comportamento de cortejo ou grande alegria.",
+                        "response": "Responda suavemente com voz carinhosa e interaja na mão para fortalecer o vínculo."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Limpeza da bandeja, comida fresca (sementes/pellets) e troca de água",
+                        "text": "Remova a capa blackout cedo, verifique as fezes (cor e consistência) e forneça mistura de sementes fresca e água limpa."
+                    },
+                    {
+                        "name": "Tarde: Banho com água em temperatura ambiente e voo livre seguro",
+                        "text": "Encha a banheira da ave com água fresca em temperatura ambiente e permita o voo supervisionado após proteger janelas e a cozinha."
+                    },
+                    {
+                        "name": "Noite: Verificação da limpeza das penas e rotina de sono de 12 horas",
+                        "text": "Observe a limpeza das penas à noite e cubra a gaiola com capa blackout em horário fixo para um descanso escuro e silencioso."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Posso usar água morna para o banho do meu Pardal de Java?",
+                        "answer": "Absolutamente não! A água morna dissolve a camada protetora de óleo natural das penas (da glândula uropigial), eliminando o isolamento térmico e causando hipotermia rápida. Use sempre água fresca em temperatura ambiente."
+                    },
+                    {
+                        "question": "É seguro deixar minha ave voar pela cozinha enquanto cozinho?",
+                        "answer": "Extremamente perigoso! Panelas com teflon (PTFE) superaquecidas liberam vapores tóxicos invisíveis que destroem os sacos aéreos das aves em minutos. Mantenha a gaiola fechada em outro cômodo durante o cozimento."
+                    }
+                ],
+                "tags": [
+                    "PardalDeJava",
+                    "Padda",
+                    "CuidadosComAves",
+                    "AveDeCompanhia",
+                    "AAV"
+                ]
+            },
+            "id": {
+                "title": "Sinyal Bulu Mengembang Gelatik Java dan Rutinitas 3 Langkah Perawatan Mandi Air & Tidur",
+                "description": "Panduan perawatan burung Gelatik Java (Java Sparrow). Pahami sinyal bulu mengembang akibat dingin, mandi air suhu ruang yang benar, dan lingkungan tidur 12 jam.",
+                "authority": "Association of Avian Veterinarians (AAV) & Protokol Avikultur Internasional",
+                "profile": {
+                    "breed": "Gelatik Java / Burung Gelatik (Java Sparrow)",
+                    "lifespan": "7 ~ 10 Tahun",
+                    "sleep_pattern": "10 ~ 12 Jam (Membutuhkan kegelapan total dengan kain penutup)",
+                    "temperament": "Cerdas, Penyayang (Jinak/Lulut), Ingin Tahu, Teritorial"
+                },
+                "intro": "Disukai karena paruh merahnya yang khas, tubuhnya yang bulat, dan kicauannya yang merdu, Gelatik Java (Java Sparrow) adalah burung peliharaan populer yang mampu membentuk ikatan batin dengan pemiliknya. Menurut protokol Association of Avian Veterinarians (AAV), burung ini memiliki sistem pernapasan yang sangat sensitif dan metabolisme cepat. Kebiasaan mandi air suhu ruang yang tepat, tidur teratur 10 hingga 12 jam dalam kegelapan total, serta perlindungan dari gas beracun Teflon adalah faktor kunci kesehatan dan usianya.",
+                "whyTitle": "Bahasa Tubuh Gelatik Java: Bulu Mengembang dan Paruh Mengelatik",
+                "whyDesc": "Gelatik Java mengekspresikan kesehatan dan emosinya secara jelas melalui postur dan kondisi bulu. Mengembangkan bulu hingga bulat seperti bola dan terkulai lemas adalah sinyal bahaya yang membutuhkan penghangatan segera.",
+                "body_signals": [
+                    {
+                        "name": "Bulu Mengembang Seperti Bola & Lemas (Fluffed Feathers)",
+                        "meaning": "Sinyal peringatan kritis yang menunjukkan penurunan suhu tubuh, hipotermia, atau gangguan kesehatan.",
+                        "response": "Segera nyalakan lampu penghangat untuk menaikkan suhu sangkar menjadi 28°C ~ 30°C dan hindarkan dari angin malam."
+                    },
+                    {
+                        "name": "Paruh Mengelatik Cepat & Menari Melompat (Beak Clacking)",
+                        "meaning": "Ungkapan rasa sayang kepada pemilik, perilaku cumbu (courtship), atau suasana hati yang sangat gembira.",
+                        "response": "Tanggapi dengan suara lembut dan ajak berinteraksi di atas tangan untuk mempererat ikatan."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Pembersihan Alas Sangkar, Pakan Biji/Pelet Segar & Penggantian Air",
+                        "text": "Buka kain penutup sangkar di pagi hari, periksa kotoran (warna dan konsistensi), serta berikan biji-bijian segar dan air minum bersih."
+                    },
+                    {
+                        "name": "Siang: Mandi Air Suhu Ruang & Waktu Terbang Bebas yang Aman",
+                        "text": "Sediakan wadah mandi dengan air dingin suhu ruang, lalu berikan waktu terbang bebas dalam ruangan setelah mengamankan jendela dan dapur."
+                    },
+                    {
+                        "name": "Malam: Pemeriksaan Dandan Bulu & Rutinitas Tidur Gelap 12 Jam",
+                        "text": "Amati perilaku merapikan bulu di malam hari, lalu tutup sangkar dengan kain gelap pada jam yang sama agar burung beristirahat tenang."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Bolehkah saya menggunakan air hangat untuk mandi Gelatik Java?",
+                        "answer": "Sangat tidak boleh! Air hangat akan melarutkan lapisan minyak alami pelindung bulu (dari kelenjar uropigial), yang menyebabkan bulu kehilangan daya tahan dingin dan memicu hipotermia cepat. Selalu gunakan air dingin suhu ruang."
+                    },
+                    {
+                        "question": "Apakah aman membiarkan burung terbang di dapur saat memasak?",
+                        "answer": "Sangat berbahaya! Wajan Teflon (PTFE) yang terlalu panas mengeluarkan gas beracun tak berbau yang dapat merusak kantung udara (air sac) burung hingga tewas dalam hitungan menit. Pastikan sangkar terkunci di ruangan terpisah saat memasak."
+                    }
+                ],
+                "tags": [
+                    "GelatikJava",
+                    "PerawatanBurung",
+                    "BurungPeliharaan",
+                    "KesehatanAves",
+                    "ProtokolAAV"
+                ]
+            }
+        },
+        "category": "CareSelf",
+        "app": "careself",
+        "formatVersion": 4,
+        "heroImage": "/images/blog/java_sparrow_care.webp"
+    }
+}
