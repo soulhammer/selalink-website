@@ -29,6 +29,18 @@ faqs:
 
 오늘 FreshSnap에서는 메이요 클리닉(Mayo Clinic)과 식품의약품안전처(MFDS)의 위생 관리 기준에 기반하여, 남은 두부를 일주일 이상 탱글탱글하고 안전하게 지켜주는 3단계 과학적 보관 비법을 전해드립니다. 🛡️
 
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
+  <span class="text-2xl">🛡️</span>
+  <div>
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      식품 안전 & 과학적 근거
+    </h5>
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
+      본 콘텐츠는 <strong>식품의약품안전처(MFDS) & 미국 농무부(USDA) & 메이요 클리닉(Mayo Clinic)</strong>에 기반하고 있습니다.
+    </p>
+  </div>
+</div>
+
 ---
 
 ## 1. 과학적으로 검증된 보관 가이드

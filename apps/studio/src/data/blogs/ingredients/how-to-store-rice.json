@@ -1,0 +1,406 @@
+{
+    "how-to-store-rice": {
+        "ingId": "rice",
+        "pubDate": "2026-01-14",
+        "updatedDate": "2026-01-14",
+        "heroImage": "/images/blog/rice_storage_hack.webp",
+        "locales": {
+            "ko": {
+                "title": "쌀 신선하게 보관하는 법: 과학적 보관 가이드",
+                "description": "공인된 안전 가이드라인에 따른 쌀의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+                "authority": "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>",
+                "intro": "쌀을 포대 자루째 베란다나 싱크대 아래에 두었다가 쌀벌레가 들끓거나, 밥을 지었을 때 푸석하고 묵은내가 나서 난감했던 적 있으시죠? 🌾\n\n쌀은 수확 후에도 호흡하는 생물로, 공기 중의 산소와 습기, 높은 온도에 노출되면 지방이 산화되어 묵은내가 나고 아삭한 식감을 잃게 됩니다. 특히 15℃ 이상의 따뜻한 환경에서는 쌀벌레가 번식하기 쉽고, 습한 환경에서는 곰팡이독소가 생길 수 있어 주의가 필요합니다.\n\n오늘 FreshSnap에서는 농업 및 식품 안전 전문가들이 권장하는 과학적이고 확실한 쌀 신선도 극대화 3단계 보관 비법을 소개해 드립니다. 🛡️",
+                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+                "guideTitle": "과학적으로 검증된 보관 가이드",
+                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+                "cautions": [
+                    {
+                        "title": "종이 포대째 그대로 보관하지 마세요 ⚠️",
+                        "desc": "마트에서 구매한 종이 포대는 공기와 습기가 쉽게 통과하여 쌀의 수분을 빼앗고 지방 산화를 촉진합니다. 또한 쌀벌레나 외부 벌레가 포대를 뚫고 들어오기 쉬우므로 구매 즉시 밀폐 용기로 옮겨 담아야 합니다."
+                    },
+                    {
+                        "title": "싱크대 아래나 가스레인지 근처에 두지 마세요 🚫",
+                        "desc": "싱크대 하부장은 습도가 높아 곰팡이가 생기기 쉽고, 가스레인지 주변은 열기 때문에 쌀의 수분이 증발해 쌀알이 깨지고 푸석해집니다. 온도와 습도가 높고 냄새가 잘 배는 장소는 반드시 피해야 합니다."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "구매 즉시 밀폐 용기(PET병)에 소분하기 — 산소와 습기 차단 📦",
+                        "text": "쌀이 공기와 지속적으로 접촉하면 유지방이 산화되어 묵은내가 발생하고 수분이 날아갑니다. 💡 보관 팁: 완전히 건조된 페트병이나 유리 밀폐 용기에 쌀을 소분하여 입구를 바짝 잠궈주세요. 산소와 외부 습기를 완벽히 차단하여 쌀의 수분 함량(15% 안팎)을 오랫동안 유지할 수 있습니다."
+                    },
+                    {
+                        "name": "10 ~ 15℃ 이하 저온(냉장고) 보관하기 — 저온 보관 (1년) ❄️",
+                        "text": "15℃ 이상의 온도에서는 쌀벌레의 알이 부화하고 활동이 활발해지며, 호흡 작용으로 영양소가 파괴됩니다. 💡 보관 팁: 쌀이 가장 안정적으로 보관되는 온도는 10 ~ 15℃ 이하입니다. 밀폐 용기에 담은 쌀을 냉장고의 야채칸이나 김치냉장고에 보관하면 쌀벌레 번식을 완벽히 막고 1년 이상 신선하게 유지할 수 있습니다."
+                    },
+                    {
+                        "name": "직사광선과 강한 냄새 차단하기 — 환경 관리 🛡️",
+                        "text": "쌀은 햇빛을 받으면 수분이 급격히 증발하면서 겉면에 금이 가고, 그 사이로 녹말이 새어 나와 밥이 푸석해집니다. 또한 주변 냄새를 스펀지처럼 흡수합니다. 💡 보관 팁: 어둡고 서늘한 곳에 보관하고, 냉장 보관 시에는 마늘, 생선 등 향이 강한 식재료와 격리하여 이중 밀봉하세요."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "쌀벌레가 생겼을 때는 어떻게 해결하고 예방하나요?",
+                        "answer": "쌀벌레가 생겼다면 쌀을 그늘진 곳에 펴두어 벌레를 날려 보내야 합니다. 가장 확실한 과학적 예방책은 구매 즉시 밀폐 용기에 담아 10 ~ 15℃ 이하 저온(냉장고 야채칸)에 보관하는 것입니다."
+                    },
+                    {
+                        "question": "오래된 묵은쌀로 맛있는 밥을 짓는 팁이 있나요?",
+                        "answer": "묵은쌀은 수분이 빠져 있으므로 밥을 짓기 전 물에 30분 정도 충분히 불려주는 것이 좋습니다. 밥물에 식용유 한 방울, 청주 1큰술, 또는 식초 한 두 방울을 넣고 밥을 지으면 묵은내를 잡고 윤기와 윤택함을 되살릴 수 있습니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "How to Keep Rice Fresh: Scientific Storage Guide",
+                "description": "Check the optimal storage temperature, method, and shelf life for rice based on official safety guidelines.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Have you ever left a bag of rice in the pantry or under the sink only to find rice weevils swarming or cooked rice turning dry and stale? 🌾\n\nRice is a living grain that continues to respire after harvest. When exposed to oxygen, humidity, and heat, its natural lipids oxidize, creating a stale odor and losing its tender texture. At temperatures above 15°C, rice weevils easily hatch and multiply, while humid environments risk harmful mold growth.\n\nToday, FreshSnap introduces a scientifically proven 3-step rice storage guide recommended by agriculture and food safety experts to preserve peak freshness. 🛡️",
+                "whyTitle": "Why Store Rice This Way? Scientific Facts",
+                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+                "guideTitle": "Scientifically Proven Storage Guide",
+                "cautionTitle": "Essential Storage Rules and Cautions",
+                "cautions": [
+                    {
+                        "title": "Do not keep rice in its original paper sack ⚠️",
+                        "desc": "Store-bought paper bags easily allow air and moisture to pass through, stripping rice of its moisture and accelerating lipid oxidation. Pests can also easily bore through paper, so transfer rice to airtight containers immediately after purchase."
+                    },
+                    {
+                        "title": "Avoid storing under the sink or near the stove 🚫",
+                        "desc": "Cabinets under the sink have high humidity that fosters mold, while heat from stoves evaporates moisture from rice grains, causing them to crack and become chalky. Keep rice far away from hot, humid, or odorous areas."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Portion into airtight containers (or PET bottles) immediately — Block Oxygen & Moisture 📦",
+                        "text": "Continuous exposure to air causes fats in rice to oxidize, producing stale smells and moisture loss. 💡 Storage Tip: Portion dry rice into completely clean, dry PET bottles or glass airtight containers and seal tightly. This preserves the ideal internal moisture content (~15%) and blocks oxygen and ambient humidity."
+                    },
+                    {
+                        "name": "Keep in cold storage below 10–15°C — Refrigerated Storage (1 Year) ❄️",
+                        "text": "Temperatures above 15°C trigger rice weevil eggs to hatch and increase respiration, degrading nutrients. 💡 Storage Tip: Rice stays freshest at temperatures below 10–15°C. Storing sealed containers in the refrigerator crisper drawer or a cooler prevents pest reproduction entirely and retains freshness for up to a year."
+                    },
+                    {
+                        "name": "Shield from direct sunlight and strong odors — Environmental Control 🛡️",
+                        "text": "Direct sunlight causes rapid moisture evaporation, cracking the grains so starch leaks during cooking, making rice mushy. Rice also absorbs odors like a sponge. 💡 Storage Tip: Keep rice in a dark, cool spot, and double-seal it in the fridge away from odorous foods like garlic or fish."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "How do I manage and prevent rice weevils?",
+                        "answer": "If weevils appear, spread the rice out in a shaded, well-ventilated area to let them crawl away. The most reliable scientific method for prevention is transferring rice to airtight containers immediately upon purchase and storing them at cold temperatures below 10–15°C."
+                    },
+                    {
+                        "question": "Is there a tip for making delicious rice from older grains?",
+                        "answer": "Older rice loses moisture, so soak the grains in water for about 30 minutes before cooking. Adding a drop of cooking oil, a tablespoon of sake/rice wine, or a drop of vinegar to the cooking water restores luster, fluffiness, and eliminates stale odors."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "お米を新鮮に保つ保存方法：科学的保管ガイド",
+                "description": "公的安全基準に基づくお米の最適な保存温度、保管方法、保存期間をご確認ください。",
+                "authority": "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>",
+                "intro": "お米を購入時の米袋のままシンクの下やベランダに置いておき、コクゾウムシ（米虫）が発生したり、炊いたご飯がパサついて古米臭がしたりした経験はありませんか？🌾\n\nお米は収穫後も息をしている生きた穀物です。空気中の酸素や湿気、高い温度に晒されると脂質が酸化し、古米臭が発生してツヤや食感が損なわれます。特に15℃以上の環境ではコクゾウムシが繁殖しやすく、湿気の多い場所ではカビ毒が発生する恐れがあります。\n\n本日FreshSnapでは、農学および食品安全の専門家が推奨する、お米の鮮度を最大化する科学的で確実な3段階の保存のコツをご紹介します。🛡️",
+                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+                "guideTitle": "科学的に検証された保存ガイド",
+                "cautionTitle": "保存時の必須ルールと注意事項",
+                "cautions": [
+                    {
+                        "title": "購入時の紙袋や米袋のまま保存しないでください ⚠️",
+                        "desc": "市販の米袋には微細な通気孔があり、空気や湿気が通ってお米の水分を奪い脂質の酸化を促進します。また、虫が袋を喰い破って侵入しやすいため、購入後すぐに密閉容器へ移し替えてください。"
+                    },
+                    {
+                        "title": "シンクの下やコンロの近くには置かないでください 🚫",
+                        "desc": "シンク下は湿気がこもりやすくカビの原因となり、コンロ周辺の熱気はお米の水分を蒸発させてヒビ割れやパサつきを引き起こします。高温多湿でニオイが移りやすい場所は必ず避けましょう。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "購入後すぐに密閉容器（ペットボトル等）へ小分けする — 酸素と湿気の遮断 📦",
+                        "text": "お米が空気に触れ続けると脂質が酸化して古米臭が生じ、水分が失われます。💡保存のコツ：完全に乾いたペットボトルやガラス製の密閉容器に小分けし、フタをしっかり閉めてください。酸素と外気の湿気を遮断し、理想的な水分量（約15%）を長期間維持できます。"
+                    },
+                    {
+                        "name": "10〜15℃以下の低温（冷蔵庫）で保存する — 低温保存 (1年間) ❄️",
+                        "text": "15℃以上の温度帯ではコクゾウムシの卵が孵化し活動が活発化し、呼吸作用により栄養分が損なわれます。💡保存のコツ：お米の保存に最適な温度は10〜15℃以下です。密閉容器に入れたお米を冷蔵庫の野菜室やチルド室で保存することで、虫の発生を完全に防ぎ、1年以上新鮮さを保てます。"
+                    },
+                    {
+                        "name": "直射日光と強いニオイを遮断する — 環境管理 🛡️",
+                        "text": "日光に当たるとお米の水分が急激に蒸発して表面にヒビが入り、炊飯時にでんぷんが流出してパサつきます。また、お米は周りのニオイを吸着しやすい性質があります。💡保存のコツ：暗く涼しい場所に保管し、冷蔵保存時はニンニクや魚などニオイの強い食材から離して二重密閉してください。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "コクゾウムシ（米虫）が発生した際の対処法と予防策は？",
+                        "answer": "虫が発生した場合は、風通しの良い日陰に広げて虫を逃がす必要があります。最も確実な科学的予防策は、購入直後に密閉容器に移し替え、10〜15℃以下の低温（冷蔵庫の野菜室）で保管することです。"
+                    },
+                    {
+                        "question": "古くなったお米をおいしく炊くコツはありますか？",
+                        "answer": "古いお米は水分が抜けているため、炊飯前に30分〜1時間ほどしっかり水に浸すのがポイントです。お米を炊く際にサラダ油を1滴、みりんや清酒を大さじ1杯ほど加えると、古米臭が消え、ツヤとふっくら感が蘇ります。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "如何保持大米新鲜：科学储存指南",
+                "description": "根据官方食品安全指南，了解大米的最佳储存温度、方式和保鲜时长。",
+                "authority": "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "intro": "您是否曾将大米整袋放在厨房地柜或水槽下方，结果发现米虫肆虐，或者煮出的米饭干硬且带有陈米味？🌾\n\n大米在收获后依然是会“呼吸”的活体颗粒。暴露于空气中的氧气、水分和高温下，其中的油脂会氧化产生陈米异味，并丧失软糯口感。特别是在15℃以上的环境中，米虫极易孵化繁殖，而在潮湿环境中更可能产生霉菌毒素。\n\n今天FreshSnap将为您介绍由农业及食品安全专家推荐的科学3步大米保鲜秘诀，帮您最大程度延长新鲜度。🛡️",
+                "whyTitle": "为什么要这样储存？科学原理",
+                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+                "guideTitle": "科学验证的储存指南",
+                "cautionTitle": "储存必需规则及注意事项",
+                "cautions": [
+                    {
+                        "title": "切勿直接用原装纸袋或普通袋存放 ⚠️",
+                        "desc": "市售大米包装袋通常透气透湿，不仅会导致大米水分流失、加速脂肪氧化，害虫还极易咬破袋子进入。购买后应立即分装至密封容器中。"
+                    },
+                    {
+                        "title": "请勿存放在水槽下方或灶台附近 🚫",
+                        "desc": "水槽下方湿度极高，极易引发霉变；而灶台附近的余热会蒸发大米水分，导致米粒开裂、煮饭干硬。请务必远离高温、高湿及有异味的区域。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "购买后立即分装入密封容器（或塑料瓶） — 阻绝氧气与湿气 📦",
+                        "text": "大米持续接触空气会导致脂肪氧化产生陈味并流失水分。💡储存小贴士：将干燥的大米分装入干净干燥的塑料瓶（PET瓶）或玻璃密封罐中并拧紧瓶盖。这能完美阻断氧气与外界湿气，长久维持理想含水量（约15%）。"
+                    },
+                    {
+                        "name": "存放在10 ~ 15℃以下低温（冰箱冷藏） — 低温储存 (1年) ❄️",
+                        "text": "高于15℃的环境会促使米虫虫卵孵化并加速呼吸作用，破坏营养成分。💡储存小贴士：大米最宜存放在10 ~ 15℃以下的低温环境中。将密封好的大米放入冰箱蔬菜保鲜层，可彻底杜绝米虫滋生，保鲜长达1年以上。"
+                    },
+                    {
+                        "name": "避光防晒并隔绝强烈异味 — 环境管理 🛡️",
+                        "text": "阳光直射会导致米粒水分剧烈蒸发而产生裂纹，蒸煮时淀粉外溢致使米饭干瘪无味；大米还会像海绵一样吸收异味。💡储存小贴士：存放在阴凉干燥处，冷藏时请与大蒜、生鲜等异味较重的食材隔开并双层密封。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "生了米虫该如何处理？怎样科学预防？",
+                        "answer": "如果大米生虫，可将其摊放在阴凉通风处让米虫自然爬出。最有效的科学预防方法是购买后立即分装入密封容器，并存放在10 ~ 15℃以下的低温（如冰箱保鲜层）环境中。"
+                    },
+                    {
+                        "question": "如何把陈米煮出新米的香甜口感？",
+                        "answer": "陈米缺失水分，因此淘洗后建议在水中充分浸泡30分钟以上。煮饭时在水中加入一滴食用油、一汤匙米酒或一两滴白醋，不仅能去除陈米味，还能使煮出的米饭晶莹剔透、松软香甜。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cómo mantener el arroz fresco: Guía científica de conservación",
+                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para el arroz según las directrices oficiales de seguridad.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "¿Alguna vez dejó un saco de arroz bajo el fregadero o en la despensa solo para descubrir gorgojos o que el arroz cocinado quedaba seco y con olor a viejo? 🌾\n\nEl arroz es un grano vivo que continúa respirando tras la cosecha. Al exponerse al oxígeno, la humedad y el calor, sus lípidos se oxidan, generando olores a rancio y perdiendo su textura tierna. A temperaturas superiores a 15 °C, los gorgojos eclosionan con facilidad, y los ambientes húmedos favorecen la aparición de moho.\n\nHoy, FreshSnap presenta una guía de conservación del arroz en 3 pasos respaldada por expertos agrícolas y de seguridad alimentaria para maximizar su frescura. 🛡️",
+                "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+                "guideTitle": "Guía de almacenamiento científicamente probada",
+                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+                "cautions": [
+                    {
+                        "title": "No conserve el arroz en su saco de papel original ⚠️",
+                        "desc": "Las bolsas comerciales de papel permiten el paso de aire y humedad, resecando el grano y acelerando la oxidación de sus grasas. Además, los insectos pueden perforar el papel. Transfiera el arroz a recipientes herméticos de inmediato."
+                    },
+                    {
+                        "title": "Evite guardarlo bajo el fregadero o cerca de la cocina 🚫",
+                        "desc": "El mueble bajo el fregadero tiene una alta humedad que promueve el moho, mientras que el calor de los fogones evapora la humedad del arroz, agrietando los granos. Manténgalo alejado del calor, la humedad y los olores fuertes."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Porcione en recipientes herméticos (o botellas PET) al comprar — Bloqueo de oxígeno y humedad 📦",
+                        "text": "La exposición continua al aire oxida las grasas del arroz, provocando olores rancios y pérdida de agua. 💡 Consejo de almacenamiento: Traslade el arroz seco a botellas de plástico o frascos de vidrio limpios y secos, cerrando bien la tapa. Esto conserva la humedad ideal (~15 %) y bloquea el oxígeno exterior."
+                    },
+                    {
+                        "name": "Conserve a baja temperatura por debajo de 10-15 °C — Refrigeración (1 año) ❄️",
+                        "text": "A más de 15 °C, los huevos de gorgojo eclosionan y aumenta la respiración del grano, destruyendo nutrientes. 💡 Consejo de almacenamiento: La temperatura ideal para el arroz es inferior a 10-15 °C. Guardar los recipientes herméticos en el cajón de verduras del refrigerador previene plagas y mantiene la frescura hasta por 1 año."
+                    },
+                    {
+                        "name": "Proteja de la luz solar directa y de olores intensos — Control ambiental 🛡️",
+                        "text": "La luz solar directa evapora rápidamente la humedad, agrietando el grano y provocando que el almidón se filtre al cocinar. Además, el arroz absorbe olores fácilmente. 💡 Consejo de almacenamiento: Guarde el arroz en un lugar oscuro y fresco, y manténgalo con doble sellado en la nevera lejos de ajo o pescado."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Cómo eliminar y prevenir los gorgojos del arroz?",
+                        "answer": "Si aparecen gorgojos, extienda el arroz a la sombra en un lugar bien ventilado para que se alejen. La medida de prevención científica más eficaz es transferir el arroz a recipientes herméticos nada más comprarlo y guardarlo a temperaturas inferiores a 10-15 °C."
+                    },
+                    {
+                        "question": "¿Hay algún truco para cocinar arroz viejo y que quede sabroso?",
+                        "answer": "Como el arroz viejo ha perdido humedad, déjelo en remojo en agua unos 30 minutos antes de cocinarlo. Añadir una gota de aceite vegetal, una cucharada de vino de arroz o unas gotas de vinagre al agua de cocción devuelve el brillo, la esponjosidad y elimina los olores a rancio."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Comment conserver le riz frais : Guide scientifique de conservation",
+                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le riz selon les directives officielles de sécurité.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Avez-vous déjà laissé un sac de riz sous l'évier ou dans le garde-manger pour découvrir des charançons ou obtenir un riz sec et sans saveur après cuisson ? 🌾\n\nLe riz est un grain vivant qui continue de respirer après la récolte. Exposé à l'oxygène, à l'humidité et à la chaleur, ses lipides s'oxydent, développant une odeur rance et perdant sa texture moelleuse. À plus de 15 °C, les charançons éclosent facilement et l'humidité favorise les moisissures.\n\nAujourd'hui, FreshSnap vous présente un guide scientifique de conservation du riz en 3 étapes recommandé par des experts en agriculture et sécurité alimentaire pour maximiser sa fraîcheur. 🛡️",
+                "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
+                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+                "guideTitle": "Guide de conservation scientifiquement prouvé",
+                "cautionTitle": "Règles essentielles et précautions de stockage",
+                "cautions": [
+                    {
+                        "title": "Ne conservez pas le riz dans son sac en papier d'origine ⚠️",
+                        "desc": "Les sacs en papier du commerce laissent passer l'air et l'humidité, asséchant le riz et accélérant l'oxydation des graisses. De plus, les insectes peuvent facilement les percer. Transférez le riz dans des récipients hermétiques dès l'achat."
+                    },
+                    {
+                        "title": "Évitez de le placer sous l'évier ou près des plaques de cuisson 🚫",
+                        "desc": "Le meuble sous l'évier présente une forte humidité propice aux moisissures, tandis que la chaleur de la cuisson fait évaporer l'eau du riz, le fissurant. Éloignez le riz des zones chaudes, humides ou odorantes."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Portionner dans des récipients hermétiques (ou bouteilles en plastique) dès l'achat — Bloquer l'oxygène et l'humidité 📦",
+                        "text": "Le contact continu avec l'air oxyde les graisses du riz, provoquant des odeurs rances et une perte d'humidité. 💡 Astuce de conservation : Répartissez le riz sec dans des bouteilles PET ou des bocaux en verre propres et bien secs. Cela préserve l'humidité idéale (~15 %) et bloque l'air extérieur."
+                    },
+                    {
+                        "name": "Conserver à basse température en dessous de 10-15 °C — Réfrigération (1 an) ❄️",
+                        "text": "Au-delà de 15 °C, les œufs de charançon éclosent et la respiration du grain s'accélère, dégradant les nutriments. 💡 Astuce de conservation : La température optimale de conservation se situe sous 10-15 °C. Placer les récipients hermétiques dans le bac à légumes du réfrigérateur empêche les insectes de se développer et préserve la fraîcheur pendant 1 an."
+                    },
+                    {
+                        "name": "Protéger de la lumière directe du soleil et des odeurs fortes — Contrôle de l'environnement 🛡️",
+                        "text": "Le soleil direct évapore rapidement l'eau du riz, provoquant des fissures qui libèrent l'amidon à la cuisson et rendent le riz pâteux. Le riz absorbe aussi les odeurs environnantes. 💡 Astuce de conservation : Conservez-le dans un endroit sombre et frais, et isolez-le au frigo des aliments odorants comme l'ail ou le poisson."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Comment éliminer et prévenir les charançons du riz ?",
+                        "answer": "En cas d'invasion, étalez le riz à l'ombre dans un endroit bien ventilé pour laisser s'échapper les insectes. La méthode scientifique la plus efficace consiste à transvaser le riz dans des bocaux hermétiques dès l'achat et à le stocker à moins de 10-15 °C."
+                    },
+                    {
+                        "question": "Existe-t-il une astuce pour rendre savoureux du vieux riz ?",
+                        "answer": "Le vieux riz ayant perdu son humidité, faites-le tremper dans l'eau pendant environ 30 minutes avant la cuisson. Ajouter une goutte d'huile végétale, une cuillère à soupe de vin de riz ou quelques gouttes de vinaigre dans l'eau de cuisson redonne du brillant, du moelleux et élimine les odeurs de rance."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Reis richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Reis basierend auf offiziellen Sicherheitsrichtlinien.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Haben Sie schon einmal einen Sack Reis im Vorratsschrank oder unter der Spüle gelagert, nur um festzustellen, dass Reiskäfer auftauchten oder der gekochte Reis trocken und alt schmeckte? 🌾\n\nReis ist ein lebendiges Korn, das auch nach der Ernte weiter atmet. Wenn er Sauerstoff, Feuchtigkeit und Wärme ausgesetzt ist, oxidieren die Fette im Korn, was zu einem ranzigen Geruch und Texturverlust führt. Bei Temperaturen über 15 °C schlüpfen Reiskäfer besonders schnell, und hohe Luftfeuchtigkeit begünstigt Schimmelpilze.\n\nHeute stellt FreshSnap Ihnen einen von Agrar- und Lebensmittelsicherheitsexperten empfohlenen, wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um die Frische Ihres Reises zu maximieren. 🛡️",
+                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+                "cautions": [
+                    {
+                        "title": "Reis nicht in der Original-Papiertüte aufbewahren ⚠️",
+                        "desc": "Gekaufte Papiertüten lassen Luft und Feuchtigkeit leicht durchdringen, was dem Reis Feuchtigkeit entzieht und die Fettoxidation beschleunigt. Zudem können Schädlinge das Papier leicht durchfressen. Füllen Sie den Reis sofort nach dem Kauf in luftdichte Behälter um."
+                    },
+                    {
+                        "title": "Nicht unter der Spüle oder nahe dem Herd lagern 🚫",
+                        "desc": "Unterschränke an der Spüle weisen eine hohe Luftfeuchtigkeit auf, die Schimmel fördert. Die Hitze des Herdes lässt das Wasser im Reiskorn verdunsten, wodurch die Körner rissig und spröde werden. Meiden Sie feuchte, heiße oder geruchsintensive Orte."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Sofort nach dem Kauf in luftdichte Behälter (oder PET-Flaschen) umfüllen — Sauerstoff & Feuchtigkeit blockieren 📦",
+                        "text": "Ständiger Kontakt mit Luft lässt die Fette im Reis oxidieren, was zu ranzigem Geruch und Feuchtigkeitsverlust führt. 💡 Lagerungstipp: Füllen Sie den trockenen Reis in saubere, trockene PET-Flaschen oder Glasbehälter und verschließen Sie diese fest. Dies bewahrt den idealen Wassergehalt (~15 %) und stoppt das Eindringen von Sauerstoff."
+                    },
+                    {
+                        "name": "Bei kühlen Temperaturen unter 10–15 °C lagern — Kühllagerung (1 Jahr) ❄️",
+                        "text": "Bei Temperaturen über 15 °C schlüpfen Reiskäfereier und die Atmung des Korns nimmt zu, wodurch Nährstoffe abgebaut werden. 💡 Lagerungstipp: Die optimale Lagertemperatur liegt unter 10–15 °C. Das Lagern der verschlossenen Behälter im Gemüsefach des Kühlschranks verhindert Schädlingsbefall komplett und hält den Reis bis zu 1 Jahr frisch."
+                    },
+                    {
+                        "name": "Vor direktem Sonnenlicht und starken Gerüchen schützen — Umweltkontrolle 🛡️",
+                        "text": "Direktes Sonnenlicht führt zu rascher Verdunstung, wodurch Reiskörner Risse bekommen und beim Kochen Stärke austritt, was den Reis matschig macht. Reis nimmt zudem leicht Fremdgerüche auf. 💡 Lagerungstipp: Dunkel und kühl lagern sowie im Kühlschrank doppelt versiegelt getrennt von Knoblauch oder Fisch aufbewahren."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Wie bekämpfe und verhindere ich Reiskäfer?",
+                        "answer": "Sollten Reiskäfer auftreten, breiten Sie den Reis an einem schattigen, gut belüfteten Ort aus, damit die Käfer wegkrabbeln. Die wirksamste wissenschaftliche Vorbeugung besteht darin, den Reis direkt nach dem Kauf in luftdichte Gefäße umzufüllen und bei unter 10–15 °C (im Kühlschrank) zu lagern."
+                    },
+                    {
+                        "question": "Gibt es einen Trick, um alten Reis wieder lecker zu kochen?",
+                        "answer": "Da alter Reis Feuchtigkeit verloren hat, weichen Sie die Körner vor dem Kochen etwa 30 Minuten lang in Wasser ein. Die Zugabe eines Tropfens Speiseöl, eines Esslöffels Reiswein oder eines Tropfens Essig zum Kochwasser stellt Glanz und Fluffigkeit wieder her und beseitigt Altgerüche."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Como conservar arroz fresco: Guia científico de armazenamento",
+                "description": "Descubra a temperatura, método e tempo de conservação ideais para o arroz com base em diretrizes oficiais de segurança.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Você já deixou um saco de arroz na despensa ou debaixo da pia e depois encontrou gorgulhos (carunchos) ou percebeu que o arroz cozido ficou seco e com cheiro de velho? 🌾\n\nO arroz é um grão vivo que continua respirando após a colheita. Quando exposto ao oxigênio, à umidade e ao calor, seus lipídios oxidam, gerando cheiro de ranço e perda de maciez. Em temperaturas acima de 15 °C, os carunchos chocam facilmente e a umidade favorece o surgimento de mofo.\n\nHoje, o FreshSnap apresenta um guia prático de conservação de arroz em 3 etapas recomendado por especialistas para manter a frescura máxima. 🛡️",
+                "whyTitle": "Por que armazenar assim? Fatos científicos",
+                "whyDesc": "Compreender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+                "guideTitle": "Guia de armazenamento comprovado cientificamente",
+                "cautionTitle": "Regras essenciais e precauções no armazenamento",
+                "cautions": [
+                    {
+                        "title": "Não guarde o arroz na embalagem original de papel ⚠️",
+                        "desc": "Sacos de papel do mercado permitem a passagem de ar e umidade, secando o grão e acelerando a oxidação das gorduras. Além disso, insetos podem perfurar o papel. Transfira o arroz para recipientes herméticos imediatamente."
+                    },
+                    {
+                        "title": "Evite guardar debaixo da pia ou perto do fogão 🚫",
+                        "desc": "O armário debaixo da pia possui alta umidade que estimula mofo, enquanto o calor do fogão evapora a água dos grãos, fazendo com que quebrem e fiquem secos. Mantenha longe de locais quentes, úmidos ou com odores."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Porcionar em recipientes herméticos (ou garrafas PET) ao comprar — Bloqueio de oxigênio e umidade 📦",
+                        "text": "O contato contínuo com o ar oxida as gorduras do arroz, causando cheiro de ranço e perda de umidade. 💡 Dica de conservação: Coloque o arroz seco em garrafas PET ou potes de vidro bem limpos e secos, vedando bem a tampa. Isso preserva a umidade ideal (~15%) e impede o contato com o ar."
+                    },
+                    {
+                        "name": "Armazenar a baixas temperaturas abaixo de 10 a 15 °C — Refrigeração (1 ano) ❄️",
+                        "text": "Temperaturas acima de 15 °C fazem os ovos de caruncho eclodirem e aumentam a respiração do grão, degradando nutrientes. 💡 Dica de conservação: A temperatura ideal para o arroz é abaixo de 10 a 15 °C. Guardar potes herméticos na gaveta de legumes da geladeira evita pragas e mantém o frescor por até 1 ano."
+                    },
+                    {
+                        "name": "Proteger da luz solar direta e de odores fortes — Controle ambiental 🛡️",
+                        "text": "A luz solar direta evapora rapidamente a umidade do arroz, trincando os grãos e fazendo o amido vazar no cozimento, deixando o arroz papado. O arroz também absorve cheiros facilmente. 💡 Dica de conservação: Guarde em local escuro e fresco e, na geladeira, mantenha com dupla vedação longe de alho ou peixe."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Como eliminar e prevenir o caruncho do arroz?",
+                        "answer": "Se surgirem carunchos, espalhe o arroz à sombra em local bem ventilado para que eles saiam. A prevenção científica mais eficaz é transferir o arroz para potes herméticos logo após a compra e guardá-los a temperaturas abaixo de 10 a 15 °C."
+                    },
+                    {
+                        "question": "Existe algum truque para preparar um arroz velho e deixá-lo saboroso?",
+                        "answer": "Como o arroz velho perdeu umidade, deixe os grãos de molho em água por cerca de 30 minutos antes de cozinhar. Adicionar uma gota de óleo vegetal, uma colher de sopa de vinho de arroz ou gotas de vinagre na água do cozimento devolve o brilho, a maciez e elimina o cheiro de velho."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Cara Menyimpan Beras agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk beras berdasarkan pedoman keselamatan resmi.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Pernahkah Anda menyimpan karung beras di bawah wastafel atau dapur lalu mendapati kutu beras bermunculan, atau hasil nasi yang dimasak terasa kering dan berbau apek? 🌾\n\nBeras adalah biji-bijian hidup yang terus bernapas setelah dipanen. Saat terpapar oksigen, kelembapan, dan suhu panas, kandungan lemaknya teroksidasi sehingga menimbulkan bau apek dan kehilangan tekstur pulennya. Pada suhu di atas 15°C, telur kutu beras mudah menetas, dan lingkungan lembap memicu tumbuhnya jamur beracun.\n\nHari ini, FreshSnap membagikan panduan penyimpanan beras 3 langkah berbasis ilmiah yang direkomendasikan oleh ahli pertanian dan keamanan pangan untuk memaksimalkan kesegarannya. 🛡️",
+                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+                "cautions": [
+                    {
+                        "title": "Jangan menyimpan beras dalam karung kertas aslinya ⚠️",
+                        "desc": "Karung kertas kemasan toko mudah ditembus udara dan kelembapan, merampas kadar air beras dan mempercepat oksidasi lemak. Selain itu, hama mudah menggigit karung kertas. Segera pindahkan beras ke wadah kedap udara setelah dibeli."
+                    },
+                    {
+                        "title": "Hindari menyimpan di bawah wastafel atau dekat kompor 🚫",
+                        "desc": "Lemari di bawah wastafel memiliki kelembapan tinggi yang memicu jamur, sedangkan panas kompor menguapkan air dari bulir beras hingga retak dan pera. Jauhkan beras dari area panas, lembap, atau berbau menyengat."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Bagi ke dalam wadah kedap udara (botol PET) segera — Kunci Oksigen & Kelembapan 📦",
+                        "text": "Paparan udara terus-menerus mengoksidasi lemak beras, menyebabkan bau apek dan kehilangan kadar air. 💡 Tips Penyimpanan: Masukkan beras kering ke dalam botol plastik PET atau stoples kaca yang bersih dan benar-benar kering lalu tutup rapat. Langkah ini menjaga kadar air ideal (~15%) serta menghalangi oksigen luar."
+                    },
+                    {
+                        "name": "Simpan pada suhu dingin di bawah 10–15°C — Penyimpanan Dingin (1 Tahun) ❄️",
+                        "text": "Suhu di atas 15°C merangsang telur kutu beras menetas dan meningkatkan respirasi yang merusak nutrisi. 💡 Tips Penyimpanan: Suhu terbaik untuk beras adalah di bawah 10–15°C. Menyimpan wadah kedap udara di laci sayur kulkas mencegah berkembangnya kutu secara total dan menjaga kesegaran hingga 1 tahun."
+                    },
+                    {
+                        "name": "Lindungi dari sinar matahari langsung dan bau menyengat — Kontrol Lingkungan 🛡️",
+                        "text": "Sinar matahari langsung menguapkan air dalam beras dengan cepat, meretakkan bulir hingga pati keluar saat dimasak dan membuat nasi menjadi lembek berair. Beras juga mudah menyerap bau. 💡 Tips Penyimpanan: Simpan di tempat gelap dan sejuk, serta segel ganda di kulkas jauh dari bahan berbau tajam seperti bawang putih atau ikan."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Bagaimana cara mengatasi dan mencegah kutu beras?",
+                        "answer": "Jika kutu beras bermunculan, tebarkan beras di tempat yang teduh dan berangin agar kutu merayap keluar. Pencegahan ilmiah paling efektif adalah memindahkan beras ke wadah kedap udara segera setelah dibeli dan menyimpannya pada suhu dingin di bawah 10–15°C."
+                    },
+                    {
+                        "question": "Apakah ada tips memasak beras lama agar hasilnya tetap enak dan pulen?",
+                        "answer": "Karena beras lama telah kehilangan kadar airnya, rendam bulir beras dalam air selama kurang lebih 30 menit sebelum dimasak. Menambahkan satu tetes minyak goreng, satu sendok makan sisa air tajin/arak beras, atau beberapa tetes cuka ke dalam air rebusan akan mengembalikan kilau, kelembutan, dan menghilangkan bau apek."
+                    }
+                ]
+            }
+        }
+    }
+}

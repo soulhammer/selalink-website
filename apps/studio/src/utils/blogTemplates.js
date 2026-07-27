@@ -40,7 +40,9 @@ export function renderEvidenceBox(lang, authority, appType) {
   const domainKey = (appType === 'petself' || appType === 'pet') ? 'pet' : appType;
   const title = labels.evidenceTitle[domainKey]?.[lang] || labels.evidenceTitle[domainKey]?.['en'] || "";
   const pattern = labels.evidenceDescPattern[lang] || labels.evidenceDescPattern['en'] || "";
-  const desc = pattern.replace('$1', authority);
+  const desc = pattern.includes('<strong>$1</strong>')
+    ? pattern.replace('<strong>$1</strong>', authority)
+    : pattern.replace('$1', authority);
   
   // domain ('pet', 'ingredients', 'habits')에 따라 CSS 테마 색상 매핑
   let boxColorClass = "border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10";

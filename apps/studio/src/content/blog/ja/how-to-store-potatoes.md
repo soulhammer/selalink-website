@@ -29,6 +29,18 @@ faqs:
 
 また、日光や室内灯の光に晒されると、自身を守るために葉緑素を生成して皮が緑色に変色し、食中毒を引き起こす神経毒「ソラニン（Solanine）」を蓄積します。本日FreshSnapでは、食品医薬品安全処（MFDS）と英国食品基準庁（FSA）のガイドラインに基づき、毒素の発生を抑え発芽を防ぐ科学的な常温保存法をご紹介します。🛡️
 
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
+  <span class="text-2xl">🛡️</span>
+  <div>
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      食品衛生＆科学的根拠
+    </h5>
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
+      本コンテンツは、<strong>食品医薬品安全処(MFDS) & 農村振興庁(RDA) & 英国食品基準庁(FSA)</strong>に基づいています。
+    </p>
+  </div>
+</div>
+
 ---
 
 ## 1. 科学的に検証された保存ガイド

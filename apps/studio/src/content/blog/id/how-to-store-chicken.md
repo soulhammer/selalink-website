@@ -29,6 +29,18 @@ Daging ayam mentah memiliki kadar air yang tinggi dan serat otot yang lembut, me
 
 Hari ini, FreshSnap membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan pedoman higienitas CDC, USDA, dan MFDS untuk mencegah kontaminação silang dan menjaga daging ayam Anda tetap aman, empuk, dan segar. 🛡️
 
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
+  <span class="text-2xl">🛡️</span>
+  <div>
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      Keamanan Pangan & Bukti Ilmiah
+    </h5>
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
+      Konten ini didasarkan pada <strong>USDA & MFDS & CDC</strong>.
+    </p>
+  </div>
+</div>
+
 ---
 
 ## 1. Panduan Penyimpanan yang Terbukti Secara Ilmiah

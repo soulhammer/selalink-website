@@ -1,15 +1,15 @@
 {
   "evidenceTitle": {
     "ingredients": {
-      "ko": "과학적 & 행동학적 근거",
-      "en": "Scientific & Behavioral Evidence",
-      "ja": "科学的＆行動学的根拠",
-      "zh": "科学与行为学依据",
-      "es": "Fundamento Científico y Comportamental",
-      "fr": "Fondement Scientifique & Comportemental",
-      "de": "Wissenschaftlicher & Verhaltenstypischer Beleg",
-      "pt": "Base Científica e Comportamental",
-      "id": "Bukti Ilmiah & Perilaku"
+      "ko": "식품 안전 & 과학적 근거",
+      "en": "Food Safety & Scientific Evidence",
+      "ja": "食品衛生＆科学的根拠",
+      "zh": "食品安全与科学依据",
+      "es": "Seguridad Alimentaria y Evidencia Científica",
+      "fr": "Sécurité Alimentaire et Preuves Scientifiques",
+      "de": "Lebensmittelsicherheit & Wissenschaftliche Belege",
+      "pt": "Segurança Alimentar e Evidência Científica",
+      "id": "Keamanan Pangan & Bukti Ilmiah"
     },
     "habits": {
       "ko": "역사적 & 학술적 근거",

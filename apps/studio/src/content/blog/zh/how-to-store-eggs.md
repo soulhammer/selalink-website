@@ -29,6 +29,18 @@ faqs:
 
 今天FreshSnap基于美国食品药品监督管理局(FDA)和美国农务部(USDA)的指南，为您带来3步科学保存秘诀，帮您将鸡蛋的新鲜度与食用安全完美锁住长达45天以上。🛡️
 
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
+  <span class="text-2xl">🛡️</span>
+  <div>
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      食品安全与科学依据
+    </h5>
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
+      本内容基于 <strong>韩国食品医药品安全处(MFDS) & 美国农务部(USDA) & 美国食品药品监督管理局(FDA)</strong>。
+    </p>
+  </div>
+</div>
+
 ---
 
 ## 1. 科学验证的储存指南

@@ -1,0 +1,406 @@
+{
+    "how-to-store-chili-pepper": {
+        "ingId": "chili-pepper",
+        "pubDate": "2026-06-15",
+        "updatedDate": "2026-06-15",
+        "heroImage": "/images/blog/chili_pepper_storage_hack.webp",
+        "locales": {
+            "ko": {
+                "title": "고추 신선하게 보관하는 법: 과학적 보관 가이드",
+                "description": "공인된 안전 가이드라인에 따른 고추의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+                "authority": "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>",
+                "intro": "찌개나 볶음 요리에 매콤한 감칠맛을 더해주는 고추를 사 왔다가 며칠 만에 꼭지 부위부터 무르고 곰팡이가 피어 버린 경험 있으시죠? 🌶️\n\n고추는 수분이 85 ~ 90%를 차지하는 채소로, 습기에 취약하고 7℃ 이하의 너무 낮은 온도에서는 세포 조직이 무르는 '냉해(Chilling Injury)'를 입기 쉽습니다. 특히 꼭지 부분에 물기가 고이면 곰팡이 포자가 빠르게 증식하여 고추 전체가 무르고 부패하게 됩니다.\n\n오늘 FreshSnap에서는 농업 및 식품 안전 전문가들이 권장하는 과학적이고 확실한 고추 신선도 극대화 3단계 보관 비법을 소개해 드립니다. 🛡️",
+                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+                "guideTitle": "과학적으로 검증된 보관 가이드",
+                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+                "cautions": [
+                    {
+                        "title": "보관하기 전에 물로 씻지 마세요 💧",
+                        "desc": "고추 꼭지와 표면에 수분이 남아있으면 곰팡이와 세균이 번식하기 매우 좋은 환경이 됩니다. 보관 전에는 물을 묻히지 말고 마른 키친타올로 흙이나 먼지만 가볍게 닦아내야 하며, 씻는 것은 조리 직전에 하셔야 합니다."
+                    },
+                    {
+                        "title": "통째로 보관할 때 꼭지를 떼어내지 마세요 ⚠️",
+                        "desc": "고추 꼭지를 떼어내면 상처 부위로 공기와 미생물이 침투하고 수분이 빠르게 증발하여 고추가 쉽게 무르고 부패합니다. 통째로 냉장 보관할 때는 반드시 꼭지가 붙어있는 상태로 보관해야 합니다."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "물기 제거 후 꼭지 살려 키친타올로 감싸기 — 습기 및 수분 조절 📦",
+                        "text": "고추 표면의 습기는 흡수하고 건조를 막는 것이 핵심입니다. 💡 보관 팁: 씻지 않은 고추의 물기를 마른 천으로 닦은 후, 꼭지가 손상되지 않도록 키친타올로 5 ~ 10개씩 감싸주세요."
+                    },
+                    {
+                        "name": "지퍼백에 담아 야채칸(7 ~ 10℃) 보관하기 — 냉장 보관 (1 ~ 2주) ❄️",
+                        "text": "키친타올로 감싼 고추를 지퍼백에 넣고 공기를 살짝 뺀 뒤 밀봉해 주세요. 💡 보관 팁: 5℃ 이하의 너무 차가운 곳 대신 냉장고 야채칸(7 ~ 10℃)에 꼭지가 위를 향하도록 세워 보관하면 1 ~ 2주간 아삭함을 유지할 수 있습니다."
+                    },
+                    {
+                        "name": "송송 썰거나 다져서 지퍼백에 냉동 보관하기 — 냉동 보관 (3 ~ 6개월) ❄️",
+                        "text": "장기 보관이 필요할 때는 미리 요리용으로 손질하여 냉동하는 것이 가장 좋습니다. 💡 보관 팁: 고추를 깨끗이 씻어 물기를 바짝 말린 뒤 송송 썰거나 다져서 지퍼백에 얇게 펼쳐 넣고 냉동실(-18℃ 이하)에 보관하세요. 3 ~ 6개월간 매콤한 풍미가 유지됩니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "냉동 보관한 고추를 해동하여 생으로 먹어도 되나요?",
+                        "answer": "냉동된 고추는 해동 시 세포벽이 파괴되어 수분이 흘러나오고 아삭한 식감을 잃게 됩니다. 따라서 생으로 드시기보다는 해동 없이 찌개, 탕, 볶음 요리 등에 곧바로 넣어 가열 조리용으로 사용하는 것을 추천합니다."
+                    },
+                    {
+                        "question": "풋고추를 냉장고에 두었더니 빨갛게 변했는데 먹어도 안전한가요?",
+                        "answer": "풋고추가 시간이 지나면서 붉게 익어가는 자연스러운 후숙 현상(엽록소 분해 및 카로티노이드 합성)입니다. 독성은 없으며 당도가 약간 올라가 먹어도 완전히 안전합니다. 다만 고추가 무르거나 끈적거린다면 부패한 것이므로 버려야 합니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "How to Keep Chili Peppers Fresh: Scientific Storage Guide",
+                "description": "Check the optimal storage temperature, method, and shelf life for chili peppers based on official safety guidelines.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Have you ever bought fresh chili peppers for spicy cooking, only to find their stems turning soft and covered in mold after just a few days? 🌶️\n\nChili peppers consist of 85–90% water, making them vulnerable to humidity and prone to 'chilling injury' if stored below 7°C. When moisture collects around the stems, mold spores multiply rapidly, causing soft rot throughout the pepper.\n\nToday, FreshSnap introduces a scientifically proven 3-step chili pepper storage guide recommended by agriculture and food safety experts to maximize crispness and spiciness. 🛡️",
+                "whyTitle": "Why Store Chili Peppers This Way? Scientific Facts",
+                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+                "guideTitle": "Scientifically Proven Storage Guide",
+                "cautionTitle": "Essential Storage Rules and Cautions",
+                "cautions": [
+                    {
+                        "title": "Do not wash chili peppers before storing 💧",
+                        "desc": "Moisture left on the skin or stem creates an ideal breeding ground for mold and bacteria. Keep peppers dry, gently wipe off surface dust with a paper towel, and wash them right before cooking."
+                    },
+                    {
+                        "title": "Do not snap off the stems when storing whole ⚠️",
+                        "desc": "Removing the stem leaves an open wound through which air and microorganisms penetrate, evaporating moisture and accelerating decay. Always keep the stems attached when storing whole peppers in the fridge."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Wipe dry and wrap in paper towels with stems intact — Moisture Control 📦",
+                        "text": "Managing humidity while preventing dehydration is key. 💡 Storage Tip: Do not wash. Gently wipe off moisture with a dry cloth, then wrap small batches (5–10 peppers) in paper towels, leaving stems intact."
+                    },
+                    {
+                        "name": "Seal in Ziploc bags and store in the crisper drawer — Cold Storage (1–2 Weeks) ❄️",
+                        "text": "Place paper-wrapped peppers inside Ziploc bags and gently press out excess air. 💡 Storage Tip: Store them upright in the refrigerator crisper drawer (7–10°C) rather than colder shelves to prevent chilling injury and keep crispness for 1 to 2 weeks."
+                    },
+                    {
+                        "name": "Slice or mince, then freeze in freezer bags — Frozen Storage (3–6 Months) ❄️",
+                        "text": "For long-term preservation, pre-chopping for cooking uses before freezing works best. 💡 Storage Tip: Wash peppers, dry completely, slice or mince, spread thinly in freezer Ziploc bags, and freeze below -18°C for 3 to 6 months."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Can I thaw frozen chili peppers and eat them raw?",
+                        "answer": "Freezing ruptures the cell walls of chili peppers, causing moisture loss and soft texture upon thawing. Frozen chili peppers are best used directly without thawing in soups, stews, sauces, or stir-fries."
+                    },
+                    {
+                        "question": "My green chili peppers turned red in the fridge. Are they still safe to eat?",
+                        "answer": "Yes, this is a natural ripening process where chlorophyll breaks down and carotenoid pigments develop. They are completely safe and may taste slightly sweeter. However, if they feel mushy or slimy, they have spoiled and should be discarded."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "トウガラシ（唐辛子）を新鮮に保つ保存方法：科学的保管ガイド",
+                "description": "公的安全基準に基づく唐辛子の最適な保存温度、保管方法、保存期間をご確認ください。",
+                "authority": "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>",
+                "intro": "料理にピリッとした辛みを加える唐辛子を買っておいたら、数日でヘタの周りから柔らかくなってカビが生えてしまった経験はありませんか？🌶️\n\n唐辛子は水分量が85〜90%と高く湿気に弱い上、7℃ shelter以下の低温では「低温障害（Chilling Injury）」を起こして細胞が傷みやすい繊細な野菜です。特にヘタに水気が残るとカビの胞子が急増し、全体が腐敗してしまいます。\n\n本日FreshSnapでは、専門家が推奨する唐辛子の鮮度と辛みを最大化する科学的で確実な3段階の保存のコツをご紹介します。🛡️",
+                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合わせた正しい保存方法を実践することは 鮮度維持と衛生管理において非常に重要です。",
+                "guideTitle": "科学的に検証された保存ガイド",
+                "cautionTitle": "保存時の必須ルールと注意事項",
+                "cautions": [
+                    {
+                        "title": "保存する前に水で洗わないでください 💧",
+                        "desc": "ヘタや表面に水気が残るとカビや雑菌が繁殖する絶好の環境になります。保存前は洗わずに乾いたキッチンペーパーで汚れを拭き取るにとどめ、洗うのは調理の直前にしてください。"
+                    },
+                    {
+                        "title": "丸ごと保存する際はヘタを取らないでください ⚠️",
+                        "desc": "ヘタを取ると断面の傷口から空気や雑菌が侵入し、水分が急速に蒸発して傷みやすくなります。丸ごと冷蔵保存する際は必ずヘタをつけたまま保存しましょう。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "水気を拭き取りヘタをつけたままペーパーで包む — 湿気・水分コントロール 📦",
+                        "text": "乾燥を防ぎつつ、余分な湿気を吸収させることがポイントです。💡保存のコツ：洗わずに表面の水分を拭き取り、ヘタを傷つけないようキッチンペーパーで5〜10本ずつ包みます。"
+                    },
+                    {
+                        "name": "ジッパーバッグに入れて野菜室（7〜10℃）で保存する — 冷蔵保存 (1〜2週間) ❄️",
+                        "text": "ペーパーで包んだ唐辛子をジッパーバッグに入れ、軽く空気を抜いて密閉します。💡保存のコツ：冷えすぎる場所を避け、冷蔵庫の野菜室（7〜10℃）でヘタを上にして立てて保存すれば1〜2週間シャキシャキ感をキープできます。"
+                    },
+                    {
+                        "name": "小口切りやみじん切りにして冷凍保存する — 冷凍保存 (3〜6ヶ月間) ❄️",
+                        "text": "長期保存したい場合は、あらかじめ用途に合わせてカットして冷凍するのがベストです。💡保存のコツ：きれいに洗って水分を完全に拭き取り、小口切りやみじん切りにしてジッパーバッグに薄く伸ばし、冷凍室（-18℃以下）で保存します。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "冷凍した唐辛子は解凍して生で食べられますか？",
+                        "answer": "冷凍すると細胞壁が壊れるため、解凍時に水分が抜けて柔らかくなります。生食には向かないため、解凍せずにそのままチゲ、スープ、炒め物などの加熱調理に使用するのがおすすめです。"
+                    },
+                    {
+                        "question": "青唐辛子が冷蔵庫の中で赤く変色しましたが、食べられますか？",
+                        "answer": "青唐辛子が時間経過とともに熟していく自然な後熟現象（クロロフィルの分解とカロテノイドの合成）です。毒性はなく甘みが増して安全に召し上がれます。ただし、実が軟化していたりネバつく場合は腐敗しているため破棄してください。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "如何保持辣椒新鲜：科学储存指南",
+                "description": "根据官方食品安全指南，了解辣椒的最佳储存温度、方式和保鲜时长。",
+                "authority": "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "intro": "您是否曾买回新鲜辣椒做菜，结果没过几天蒂头就开始发软发霉？🌶️\n\n辣椒的水分含量高达85 ~ 90%，对湿度非常敏感，且在7℃以下的低温环境中极易遭遇“冷害（Chilling Injury）”，导致细胞结构受损。尤其是蒂头部位积聚水汽时，霉菌孢子会迅速滋生，引发整颗辣椒发软腐烂。\n\n今天FreshSnap将为您介绍由农业及食品安全专家推荐的科学3步辣椒保鲜秘诀，帮您最大程度锁定爽脆与香辣。🛡️",
+                "whyTitle": "为什么要这样储存？科学原理",
+                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+                "guideTitle": "科学验证的储存指南",
+                "cautionTitle": "储存必需规则及注意事项",
+                "cautions": [
+                    {
+                        "title": "储存前切勿用水清洗 💧",
+                        "desc": "辣椒蒂头和表皮缝隙残存的水分会为霉菌和细菌滋生提供温床。储存前切勿沾水，用干厨房纸巾轻擦表面灰尘即可，清洗请留到烹饪前进行。"
+                    },
+                    {
+                        "title": "整颗储存时切勿拔掉辣椒蒂 ⚠️",
+                        "desc": "拔掉辣椒蒂会在顶端留下伤口，使空气和微生物侵入并加速水分蒸发，导致辣椒迅速变质腐烂。整颗冷藏保存时必须保留辣椒蒂。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "擦干水分并保留辣椒蒂，用厨房纸巾包裹 — 湿度调节 📦",
+                        "text": "既要防止表皮干枯，又要吸收冷凝水汽是保鲜关键。💡储存小贴士：保持干燥不洗，擦干表面水分，保留辣椒蒂，用厨房纸巾将5 ~ 10根辣椒包裹一组。"
+                    },
+                    {
+                        "name": "装入拉链袋存入蔬菜保鲜抽屉 — 冷藏储存 (1 ~ 2周) ❄️",
+                        "text": "将包裹好的辣椒装入密封拉链袋，轻轻排出空气。💡储存小贴士：存入冰箱蔬菜保鲜层（7 ~ 10℃），蒂朝上竖放，可防冷害并保持1 ~ 2周爽脆。"
+                    },
+                    {
+                        "name": "切圈或切末后装袋冷冻 — 冷冻储存 (3 ~ 6个月) ❄️",
+                        "text": "如需长期保存，建议提前切配好后再进行冷冻。💡储存小贴士：清洗干净并彻底擦干水分，切成辣椒圈或姜蒜辣末，平铺装入冷冻袋，置于冷冻室（-18℃以下），可保存3 ~ 6个月。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "冷冻后的辣椒可以解冻生吃吗？",
+                        "answer": "冷冻会破坏辣椒的细胞壁，解冻后会流失水分并失去爽脆口感。因此冷冻辣椒不宜生吃，建议无需解冻直接用于炒菜、做汤、炖肉等热炒加热菜肴中。"
+                    },
+                    {
+                        "question": "青辣椒在冰箱里放久了变红，还可以食用吗？",
+                        "answer": "可以。这是青辣椒在采后自然成熟的现象（叶绿素分解与类胡萝卜素合成）。没有毒性，口感还会略微变甜，完全可以安全食用。但如果辣椒发黏发软，则说明已经腐败，应立即丢弃。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cómo mantener los chiles frescos: Guía científica de conservación",
+                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para los chiles según las directrices oficiales de seguridad.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "¿Alguna vez compró chiles frescos para cocinar y descubrió que en unos pocos días el tallo se ponía blando y se cubría de moho? 🌶️\n\nLos chiles contienen entre un 85 y un 90 % de agua, lo que los hace muy sensibles a la humedad excesiva y propensos a sufrir 'daño por frío' (chilling injury) por debajo de 7 °C. Cuando el agua se acumula alrededor del tallo, los hongos se multiplican rápidamente, provocando pudrición blanda.\n\nHoy, FreshSnap presenta una guía de conservación de chiles en 3 pasos respaldada por expertos para mantener su frescura y picor al máximo. 🛡️",
+                "whyTitle": "¿Por qué almacenarlos así? Datos científicos",
+                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+                "guideTitle": "Guía de almacenamiento científicamente probada",
+                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+                "cautions": [
+                    {
+                        "title": "No lave los chiles antes de guardarlos 💧",
+                        "desc": "El agua atrapada en el tallo o en la piel crea el ambiente perfecto para bacterias y mohos. Límpielos con un paño o papel de cocina seco antes de guardar y lávelos justo antes de cocinar."
+                    },
+                    {
+                        "title": "No quite los tallos al conservarlos enteros ⚠️",
+                        "desc": "Retirar el tallo deja una herida abierta por la que entran aire y microorganismos, evaporando el agua y acelerando la pudrición. Mantenga siempre el tallo unido al refrigerar chiles enteros."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Seque la superficie y envuelva en papel de cocina con el tallo — Control de humedad 📦",
+                        "text": "Gestionar la humedad es la clave para evitar que se pudran. 💡 Consejo de almacenamiento: Sin lavar, limpie la humedad con papel seco y envuelva grupos de 5 a 10 chiles con su tallo intacto."
+                    },
+                    {
+                        "name": "Guarde en bolsas Ziploc en el cajón de verduras — Refrigeración (1-2 semanas) ❄️",
+                        "text": "Introduzca los chiles envueltos en bolsas Ziploc sacando el aire. 💡 Consejo de almacenamiento: Guárdelos en el cajón de verduras (7-10 °C) en posición vertical para evitar el daño por frío y mantenerlos crujientes por 1 o 2 semanas."
+                    },
+                    {
+                        "name": "Pique o corte en rodajas y congele — Conservación congelada (3-6 meses) ❄️",
+                        "text": "Para un almacenamiento prolongado, cortarlos previamente antes de congelar es lo ideal. 💡 Consejo de almacenamiento: Lave, seque por completo, corte en rodajas o pique, extienda en bolsas para congelar y guarde a menos de -18 °C."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Puedo descongelar chiles congelados y comerlos crudos?",
+                        "answer": "La congelación rompe las paredes celulares de los chiles, haciendo que pierdan su firmeza crujiente al descongelar. Los chiles congelados son ideales para usar directamente sin descongelar en sopas, guisos, salsas o salteados."
+                    },
+                    {
+                        "question": "Mis chiles verdes se pusieron rojos en el refrigerador. ¿Aún son seguros?",
+                        "answer": "Sí, es un proceso natural de maduración en el que la clorofila se degrada y se desarrollan carotenoides. Son totalmente seguros y pueden saber un poco más dulces. Sin embargo, si están blandos o viscosos, deséchelos."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Comment conserver les piments frais : Guide scientifique de conservation",
+                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les piments selon les directives officielles de sécurité.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Avez-vous déjà acheté des piments frais pour cuisiner et constaté après quelques jours que leur tige ramollissait et se couvrait de moisissure ? 🌶️\n\nLe piment est composé à 85–90 % d'eau, ce qui le rend très vulnérable à l'humidité et sujet aux 'blessures de froid' (Chilling Injury) sous 7 °C. Lorsque l'eau stagne autour du pédoncule, les moisissures prolifèrent rapidement, entraînant la pourriture molle.\n\nAujourd'hui, FreshSnap vous présente un guide scientifique de conservation des piments en 3 étapes recommandé par des experts pour préserver leur piquant et leur fraîcheur. 🛡️",
+                "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
+                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+                "guideTitle": "Guide de conservation scientifiquement prouvé",
+                "cautionTitle": "Règles essentielles et précautions de stockage",
+                "cautions": [
+                    {
+                        "title": "Ne lavez jamais les piments avant de les stocker 💧",
+                        "desc": "L'eau stagnante sur la peau ou le pédoncule favorise la multiplication des moisissures et bactéries. Essuyez simplement la poussière avec de l'essuie-tout sec et ne les lavez qu'au moment de cuisiner."
+                    },
+                    {
+                        "title": "Ne retirez pas la tige pour un stockage entier ⚠️",
+                        "desc": "Retirer la tige laisse une plaie ouverte par laquelle pénètrent l'air et les microbes, asséchant et gâtant le piment. Conservez toujours la tige attachée pour le stockage au réfrigérateur."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Essuyer et envelopper dans du papier absorbant avec la tige — Contrôle de l'humidité 📦",
+                        "text": "Gérer l'humidité est crucial pour éviter le pourrissement. 💡 Astuce de conservation : Sans laver, essuyez l'humidité avec de l'essuie-tout et enveloppez les piments par lots de 5 à 10 avec leur tige."
+                    },
+                    {
+                        "name": "Mettre en sac Ziploc et ranger dans le bac à légumes — Réfrigération (1-2 semaines) ❄️",
+                        "text": "Placez les piments emballés dans un sac congélation en chassant l'air. 💡 Astuce de conservation : Conservez-les dans le bac à légumes (7–10 °C) tige vers le haut pour éviter le gel et préserver le croquant 1 à 2 semaines."
+                    },
+                    {
+                        "name": "Émincer ou hacher, puis congeler en sac hermétique — Congélation (3-6 mois) ❄️",
+                        "text": "Pour une longue conservation, la découpe préalable avant congélation est idéale. 💡 Astuce de conservation : Lavez, séchez soigneusement, coupez en rondelles ou hachez, et congelez à -18 °C en sac congélation pour les plats mijotés."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Peut-on décongeler des piments congelés et les consommer crus ?",
+                        "answer": "La congélation brise la structure cellulaire, rendant le piment mou à la décongélation. Il est donc déconseillé de le consommer cru : incorporez-le directement congelé dans vos soupes, sauces, poêlées ou plats mijotés."
+                    },
+                    {
+                        "question": "Mes piments verts sont devenus rouges au réfrigérateur. Sont-ils consommables ?",
+                        "answer": "Oui, c'est un processus naturel de maturation après récolte (dégradation de la chlorophylle). Ils sont parfaitement sains et parfois légèrement plus doux. En revanche, si le piment devient mou ou poisseux, jetez-le."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Chilis richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Chilis basierend auf offiziellen Sicherheitsrichtlinien.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Haben Sie frische Chilis gekauft, nur um nach wenigen Tagen festzustellen, dass der Stiel weich wurde und sich Schimmel bildete? 🌶️\n\nChilis bestehen zu 85–90 % aus Wasser und reagieren extrem empfindlich auf Feuchtigkeit sowie Kälte unter 7 °C ('Chilling Injury'). Staunässe am Stielansatz führt zu rascher Schimmelbildung und Weichfäule.\n\nHeute stellt FreshSnap Ihnen einen von Experten empfohlenen, wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um die Schärfe und Knackigkeit Ihrer Chilis zu bewahren. 🛡️",
+                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+                "cautions": [
+                    {
+                        "title": "Chilis vor der Lagerung niemals waschen 💧",
+                        "desc": "Wasser am Stiel oder an der Haut bildet einen Nährboden für Schimmel und Bakterien. Wischen Sie Staub nur mit trockenem Küchenpapier ab und waschen Sie Chilis erst direkt vor dem Kochen."
+                    },
+                    {
+                        "title": "Stiele bei ganzer Lagerung nicht entfernen ⚠️",
+                        "desc": "Das Entfernen des Stiels hinterlässt eine offene Wunde, durch die Luft und Keime eindringen und die Frucht austrocknen. Belassen Sie den Stiel bei der Lagerung ganzer Schoten immer an der Frucht."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Trocknen und mit Stiel in Küchenpapier wickeln — Feuchtigkeitskontrolle 📦",
+                        "text": "Feuchtigkeitskontrolle ist der Schlüssel zur Fäulnisvermeidung. 💡 Lagerungstipp: Ungewaschene Chilis trocken abwischen und jeweils 5–10 Schoten mit Stiel in Küchenpapier einwickeln."
+                    },
+                    {
+                        "name": "In Ziploc-Beutel verschließen und im Gemüsefach lagern — Kühllagerung (1–2 Wochen) ❄️",
+                        "text": "Geben Sie die eingewickelten Chilis in Ziploc-Beutel und drücken Sie die Luft heraus. 💡 Lagerungstipp: Im Gemüsefach (7–10 °C) aufrecht lagern, um Kälteschäden zu vermeiden und 1–2 Wochen Knackigkeit zu sichern."
+                    },
+                    {
+                        "name": "Schneiden oder hacken und einfrieren — Gefrierlagerung (3–6 Monate) ❄️",
+                        "text": "Für die Langzeitlagerung empfiehlt sich das vorherige Zerkleinern. 💡 Lagerungstipp: Chilis waschen, komplett abtrocknen, in Ringe schneiden oder hacken, flach in Gefrierbeutel füllen und bei unter -18 °C einfrieren."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Kann man gefrorene Chilis auftauen und roh essen?",
+                        "answer": "Durch das Einfrieren werden die Zellwände beschädigt, sodass Chilis beim Auftauen weich werden. Gefrorene Chilis eignen sich am besten zur direkten Zugabe ohne Auftauen in warme Gerichte wie Suppen, Soßen oder Pfannengerichte."
+                    },
+                    {
+                        "question": "Meine grünen Chilis sind im Kühlschrank rot geworden. Kann man sie noch essen?",
+                        "answer": "Ja, das ist ein natürlicher Nachreifungsprozess, bei dem Chlorophyll abgebaut wird. Sie sind völlig unbedenklich und schmecken oft etwas süßlicher. Wenn die Schoten jedoch matschig oder klebrig sind, sollten sie entsorgt werden."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Como conservar pimentas (chilis) frescas: Guia científico de armazenamento",
+                "description": "Descubra a temperatura, método e tempo de conservação ideais para as pimentas com base em diretrizes oficiais de segurança.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Você já comprou pimentas frescas para cozinhar e em poucos dias percebeu que o cabinho ficou mole e coberto de mofo? 🌶️\n\nAs pimentas contêm de 85 a 90% de água, tornando-se muito sensíveis à umidade e sujeitas a 'danos por frio' (chilling injury) abaixo de 7 °C. Quando a água acumula ao redor do cabinho, os fungos se multiplicam rapidamente, causando podridão mole.\n\nHojes, o FreshSnap apresenta um guia prático de conservação de pimentas em 3 etapas recomendado por especialistas para manter a ardência e o frescor. 🛡️",
+                "whyTitle": "Por que armazenar assim? Fatos científicos",
+                "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+                "guideTitle": "Guia de armazenamento comprovado cientificamente",
+                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+                "cautions": [
+                    {
+                        "title": "Não lave as pimentas antes de guardar 💧",
+                        "desc": "A água presa no cabinho ou na casca cria o ambiente perfeito para bactérias e fungos. Limpe a poeira com papel-toalha seco antes de armazenar e lave-as apenas na hora do preparo."
+                    },
+                    {
+                        "title": "Não retire os cabinhos ao guardar inteiras ⚠️",
+                        "desc": "Retirar o cabinho deixa uma ferida aberta por onde entram ar e micróbios, acelerando o ressecamento e a podridão. Mantenha o cabinho preso ao guardar pimentas inteiras na geladeira."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Secar a superfície e embrulhar em papel-toalha mantendo o cabinho — Controle de umidade 📦",
+                        "text": "Controlar a umidade evita o apodrecimento. 💡 Dica de conservação: Sem lavar, seque a umidade com papel-toalha e envolva grupos de 5 a 10 pimentas com cabinho."
+                    },
+                    {
+                        "name": "Guardar em sacos Ziploc na gaveta de legumes — Refrigeração (1 a 2 semanas) ❄️",
+                        "text": "Coloque as pimentas embaladas em sacos Ziploc retirando o ar. 💡 Dica de conservação: Guarde na gaveta de legumes (7 a 10 °C) na posição vertical para evitar danos por frio e manter a crocância por 1 a 2 semanas."
+                    },
+                    {
+                        "name": "Fatiar ou picar e congelar — Conservação congelada (3 a 6 meses) ❄️",
+                        "text": "Para conservar a longo prazo, picar antes de congelar é ideal. 💡 Dica de conservação: Lave, seque bem, corte em rodelas ou pique, espalhe em sacos de congelamento e guarde abaixo de -18 °C."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Posso descongelar pimentas congeladas e comê-las cruas?",
+                        "answer": "O congelamento rompe a estrutura celular, fazendo a pimenta perder a crocância ao descongelar. Pimentas congeladas devem ser usadas diretamente sem descongelar em molhos, sopas e refogados."
+                    },
+                    {
+                        "question": "Minhas pimentas verdes ficaram vermelhas na geladeira. Ainda estão boas?",
+                        "answer": "Sim, é um processo natural de amadurecimento após a colheita (degradação da clorofila). Elas são perfeitamente seguras e podem ficar ligeiramente adocicadas. Se estiverem moles ou viscosas, descarte-as."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Cara Menyimpan Cabai agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk cabai berdasarkan pedoman keselamatan resmi.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Pernahkah Anda membeli cabai segar untuk masakan pedas lalu mendapati tangkainya menjadi lembek dan berjamur hanya dalam beberapa hari? 🌶️\n\nCabai terdiri dari 85–90% air, menjadikannya rentan terhadap kelembapan dan mudah mengalami 'chilling injury' (kerusakan akibat dingin) jika disimpan di bawah suhu 7°C. Saat air terperangkap di sekitar tangkai, spora jamur berkembang biak dengan cepat dan menyebabkan pembusukan.\n\nHari ini, FreshSnap membagikan panduan penyimpanan cabai 3 langkah berbasis ilmiah yang direkomendasikan oleh ahli keamanan pangan untuk menjaga kesegaran dan rasa pedasnya. 🛡️",
+                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+                "cautions": [
+                    {
+                        "title": "Jangan mencuci cabai sebelum disimpan 💧",
+                        "desc": "Air yang tersisa pada kulit atau tangkai cabai menciptakan lingkungan ideal bagi jamur dan bakteri untuk berkembang biak. Lap kotoran dengan tisu dapur kering sebelum disimpan, dan cucilah tepat sebelum dimasak."
+                    },
+                    {
+                        "title": "Jangan membuang tangkai cabai saat disimpan utuh ⚠️",
+                        "desc": "Memetik tangkai cabai meninggalkan luka terbuka yang memudahkan udara dan kuman masuk, mempercepat penguapan air dan pembusukan. Selalu biarkan tangkai tetap menempel saat menyimpan cabai utuh di kulkas."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Lap hingga kering dan bungkus dengan tisu dapur bersama tangkainya — Kontrol Kelembapan 📦",
+                        "text": "Mengontrol kelembapan sekaligus mencegah kekeringan adalah kuncinya. 💡 Tips Penyimpanan: Tanpa dicuci, lap kelembapan dengan tisu dapur lalu bungkus cabai per 5–10 buah dengan tangkai tetap utuh."
+                    },
+                    {
+                        "name": "Masukkan ke kantong Ziploc dan simpan di laci sayur — Simpan Dingin (1–2 Minggu) ❄️",
+                        "text": "Masukkan cabai terbungkus tisu ke dalam kantong Ziploc lalu keluarkan udaranya secara perlahan. 💡 Tips Penyimpanan: Simpan dengan posisi tegak di laci sayuran kulkas (7–10°C) untuk mencegah kerusakan akibat dingin dan menjaga kesegaran selama 1–2 minggu."
+                    },
+                    {
+                        "name": "Iris atau cincang lalu bekukan dalam kantong ziploc — Simpan Beku (3–6 Bulan) ❄️",
+                        "text": "Untuk penyimpanan jangka panjang, memotong cabai sebelum dibekukan adalah langkah terbaik. 💡 Tips Penyimpanan: Cuci bersih cabai, keringkan hingga tuntas, iris atau cincang halus, ratakan dalam kantong freezer, lalu bekukan di bawah -18°C."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Apakah cabai beku boleh dicairkan lalu dimakan mentah?",
+                        "answer": "Proses pembekuan merusak dinding sel cabai sehingga teksturnya menjadi lembek saat dicairkan. Oleh karena itu, cabai beku lebih baik langsung dimasukkan tanpa dicairkan ke dalam sup, tumisan, atau sambal yang dimasak."
+                    },
+                    {
+                        "question": "Cabai hijau saya berubah warna menjadi merah di kulkas. Apakah masih aman dimakan?",
+                        "answer": "Ya, ini adalah proses pematangan alami setelah dipetik (klorofil terurai dan pigmen karotenoid terbentuk). Cabai ini benar-benar aman dimakan dan rasanya sedikit lebih manis. Namun jika teksturnya lembek atau lengket, cabai sudah busuk dan harus dibuang."
+                    }
+                ]
+            }
+        }
+    }
+}

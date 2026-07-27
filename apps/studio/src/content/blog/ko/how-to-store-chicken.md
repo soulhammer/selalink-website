@@ -29,6 +29,18 @@ faqs:
 
 오늘 FreshSnap에서는 미국 질병통제예방센터(CDC)와 식품의약품안전처(MFDS)의 위생 가이드라인에 기반하여, 교차 오염을 방지하고 닭고기의 육질과 신선도를 안전하게 유지하는 3단계 과학적 보관 비법을 전해드립니다. 🛡️
 
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
+  <span class="text-2xl">🛡️</span>
+  <div>
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      식품 안전 & 과학적 근거
+    </h5>
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
+      본 콘텐츠는 <strong>미국 농무부(USDA) & 식품의약품안전처(MFDS) & 미국 질병통제예방센터(CDC)</strong>에 기반하고 있습니다.
+    </p>
+  </div>
+</div>
+
 ---
 
 ## 1. 과학적으로 검증된 보관 가이드

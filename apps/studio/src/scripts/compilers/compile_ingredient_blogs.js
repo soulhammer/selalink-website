@@ -3,7 +3,7 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 
 import { cleanMarkdown } from '../../utils/compilerHelper.js';
-import { renderIngredientStepCard, renderCautionBox, renderFaqSection } from '../../utils/blogTemplates.js';
+import { renderIngredientStepCard, renderEvidenceBox, renderCautionBox, renderFaqSection } from '../../utils/blogTemplates.js';
 import { compileMasterJsonCollection } from './compile_blog_base.js';
 
 const __filename = fileURLToPath(import.meta.url);
@@ -122,6 +122,8 @@ function renderLocaleMarkdown({ blogSlug, lang, data, histMeta }) {
 
   const guideTitle = locData.guideTitle || enData.guideTitle || (lang === 'ko' ? '과학적으로 검증된 보관 가이드' : 'Scientifically Proven Storage Guide');
 
+  const evidenceBoxHtml = auth ? renderEvidenceBox(lang, auth, 'ingredients') : '';
+
   let markdown = `---
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "${title.replace(/"/g, '\\"')}"
@@ -138,6 +140,8 @@ ${faqsYaml}
 ---
 
 ${intro}
+
+${evidenceBoxHtml}
 
 ---
 

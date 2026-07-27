@@ -25,6 +25,18 @@ faqs:
 
 バナナを実温に置いておいたら、一日でコバエがたかり、真っ黒になってしまった経験はありませんか？バナナスタンドを使わずに10日以上鮮度を保つ科学的な保存方法をご紹介します。
 
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
+  <span class="text-2xl">🛡️</span>
+  <div>
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      食品衛生＆科学的根拠
+    </h5>
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
+      本コンテンツは、<strong>米国農務省(USDA) & 世界保健機関(WHO)</strong>に基づいています。
+    </p>
+  </div>
+</div>
+
 ---
 
 ## 1. 科学的に検証された保存ガイド

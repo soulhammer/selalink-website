@@ -29,6 +29,18 @@ Cheese is a living fermented food containing active cultures and beneficial bact
 
 Today, FreshSnap shares a scientifically proven 3-step storage guide based on guidelines from the USDA and FSA to allow your cheese to 'breathe' properly, retaining its rich flavor and ideal texture for over a month. 🛡️
 
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
+  <span class="text-2xl">🛡️</span>
+  <div>
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      Food Safety & Scientific Evidence
+    </h5>
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
+      This content is based on <strong>USDA & FSA & MFDS</strong>.
+    </p>
+  </div>
+</div>
+
 ---
 
 ## 1. Scientifically Proven Storage Guide

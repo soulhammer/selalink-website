@@ -25,6 +25,18 @@ faqs:
 
 您是否曾把香蕉放在桌上，结果仅过了一天就引来果蝇，而且表皮变得漆黑？今天，FreshSnap为您分享无需香蕉架也能让香蕉保持新鲜10天以上的科学保存法。
 
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
+  <span class="text-2xl">🛡️</span>
+  <div>
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      食品安全与科学依据
+    </h5>
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
+      本内容基于 <strong>美国农务部(USDA) & 世界卫生组织(WHO)</strong>。
+    </p>
+  </div>
+</div>
+
 ---
 
 ## 1. 科学验证的储存指南

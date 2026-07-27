@@ -29,6 +29,18 @@ faqs:
 
 今天FreshSnap基于美国农务部(USDA)和韩国农村振兴厅(RDA)的科学指南，为您带来3步保鲜秘诀，帮您安全保持蓝莓饱满口感与营养达10天以上。🛡️
 
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
+  <span class="text-2xl">🛡️</span>
+  <div>
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      食品安全与科学依据
+    </h5>
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
+      本内容基于 <strong>美国农务部(USDA) & 韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS)</strong>。
+    </p>
+  </div>
+</div>
+
 ---
 
 ## 1. 科学验证的储存指南

@@ -1,0 +1,406 @@
+{
+    "how-to-store-pork": {
+        "ingId": "pork",
+        "pubDate": "2026-02-04",
+        "updatedDate": "2026-02-04",
+        "heroImage": "/images/blog/pork_storage_hack.webp",
+        "locales": {
+            "ko": {
+                "title": "돼지고기 신선하게 보관하는 법: 과학적 보관 가이드",
+                "description": "공인된 안전 가이드라인에 따른 돼지고기의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+                "authority": "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>",
+                "intro": "돼지고기를 냉장고에 넣어두었다가 핏물이 고이고 누린내가 나거나 표면이 하얗게 말라 버린 경험 있으시죠? 🥩\n\n돼지고기는 수분(드립)과 단백질, 지방이 풍부하여 도축 후 세균 번식과 지방 산화에 매우 취약한 식재료입니다. 특히 표면에 흘러나온 핏물을 그대로 두면 미생물이 빠르게 증식해 악취와 변색을 유발하고 식감을 망치게 됩니다.\n\n오늘 FreshSnap에서는 농업 및 식품 안전 전문가들이 권장하는 과학적이고 확실한 돼지고기 신선도 극대화 3단계 보관 비법을 소개해 드립니다. 🛡️",
+                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+                "guideTitle": "과학적으로 검증된 보관 가이드",
+                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+                "cautions": [
+                    {
+                        "title": "흘러나온 핏물(드립)을 닦지 않고 보관하지 마세요 ⚠️",
+                        "desc": "돼지고기 표면의 핏물(드립)은 세균과 미생물이 가장 좋아하고 빠르게 번식하는 영양 원천입니다. 드립을 방치하면 고기의 누린내가 심해지고 부패가 촉진되므로, 보관 전 반드시 키친타올로 누르듯 닦아내야 합니다."
+                    },
+                    {
+                        "title": "해동과 재냉동을 반복하지 마세요 🚫",
+                        "desc": "얼었던 돼지고기가 녹을 때 조직이 파괴되면서 수분과 영양소가 유출되고 세균이 급격히 번식합니다. 다시 얼리면 고기 질감이 퍽퍽해지고 위생상 위험하므로, 1회 요리 분량씩 소분하여 보관 후 필요한 만큼만 해동해야 합니다."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "핏물 제거 후 식용유(올리브유) 바르기 — 수분 보호 및 미생물 차단 📦",
+                        "text": "키친타올로 핏물을 완전히 제거한 뒤 고기 표면에 식용유나 올리브유를 살짝 바르면 공기 접촉을 차단하는 보호막이 형성됩니다. 💡 보관 팁: 유막을 형성하면 산화와 수분 증발을 막아 육즙을 보존하고 미생물 증식을 억제할 수 있습니다."
+                    },
+                    {
+                        "name": "랩으로 밀착 포장 후 밀폐 용기 보관하기 — 냉장 보관 (2 ~ 3일) ❄️",
+                        "text": "공기 중 산소와 접촉하면 유지방이 산화되어 변색(갈변)과 산패가 일어납니다. 💡 보관 팁: 1회분씩 랩으로 빈틈없이 바짝 감싼 뒤 밀폐 용기나 지퍼백에 넣어 냉장고의 가장 차가운 신선실(0 ~ 2℃)에 보관하세요. 2 ~ 3일 이내에 소비하는 것이 가장 좋습니다."
+                    },
+                    {
+                        "name": "소분 후 이중 밀봉하여 급속 냉동하기 — 냉동 보관 (3 ~ 4개월) ❄️",
+                        "text": "장기 보관을 원할 때는 공기를 완전히 뺀 상태에서 냉동실(-18℃ 이하) 깊숙한 곳에 보관해야 냉동 탄화(Freezer Burn)를 막을 수 있습니다. 💡 보관 팁: 지퍼백에 담아 공기를 잘 빼낸 뒤 냉동하면 3 ~ 4개월간 신선도가 유지됩니다. 다진 고기는 부패가 빠르므로 1 ~ 2개월 이내에 소비하세요."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "냉동된 돼지고기를 가장 안전하고 맛있게 해동하는 방법은 무엇인가요?",
+                        "answer": "가장 추천하는 방법은 사용 전날 냉장실(0 ~ 4℃)로 옮겨 천천히 해동하는 '냉장 해동'입니다. 육즙 손실(드립)을 최소화하고 세균 번식을 막을 수 있습니다. 급한 경우 밀봉된 상태로 찬물에 담가 해동하세요."
+                    },
+                    {
+                        "question": "돼지고기 표면이 갈색이나 회색으로 변했는데 먹어도 되나요?",
+                        "answer": "고기 속 미오글로빈 성분이 산소 부족으로 변색되는 현상(탈산소미오글로빈)일 수 있습니다. 공기에 노출시킨 후 15 ~ 20분 뒤 선홍색으로 돌아오면 정상이지만, 퀴퀴한 냄새가 나거나 표면이 끈적거린다면 부패한 것이므로 즉시 폐기해야 합니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "How to Keep Pork Fresh: Scientific Storage Guide",
+                "description": "Check the optimal storage temperature, method, and shelf life for pork based on official safety guidelines.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Have you ever stored pork in the refrigerator only to find a pool of blood (drip), a gamey smell, or a dried-out, discolored surface? 🥩\n\nPork is rich in moisture, protein, and fat, making it highly susceptible to bacterial growth and lipid oxidation after slaughter. In particular, leaving accumulated purge/drip on the meat's surface creates an ideal environment for microorganisms, leading to foul odors, discoloration, and ruined texture.\n\nToday, FreshSnap introduces a scientifically proven 3-step pork storage guide recommended by agriculture and food safety experts to maximize freshness. 🛡️",
+                "whyTitle": "Why Store Pork This Way? Scientific Facts",
+                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+                "guideTitle": "Scientifically Proven Storage Guide",
+                "cautionTitle": "Essential Storage Rules and Cautions",
+                "cautions": [
+                    {
+                        "title": "Never store pork without wiping off excess drip (purge) ⚠️",
+                        "desc": "The liquid purge on the surface of pork serves as a prime nutrient source for bacteria and microorganisms to multiply rapidly. Leaving it unchecked intensifies gamey odors and accelerates spoilage, so always pat it dry with paper towels before storage."
+                    },
+                    {
+                        "title": "Avoid repeated thawing and refreezing 🚫",
+                        "desc": "Thawing frozen pork breaks down muscle tissue, causing moisture and nutrient loss while inviting rapid bacterial proliferation. Refreezing degrades meat texture to a tough state and poses health risks, so portion pork for single-use meals before freezing and thaw only what you need."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Wipe off purge and coat lightly with cooking oil — Moisture Retention & Microbial Barrier 📦",
+                        "text": "After removing all excess moisture with paper towels, applying a light coat of cooking oil or olive oil forms a protective barrier against air. 💡 Storage Tip: This oil layer prevents oxidation, stops moisture evaporation to preserve juices, and inhibits microbial growth."
+                    },
+                    {
+                        "name": "Wrap tightly in plastic wrap and store in airtight containers — Refrigerated Storage (2–3 Days) ❄️",
+                        "text": "Contact with oxygen causes lipid oxidation, resulting in browning discoloration and rancidity. 💡 Storage Tip: Wrap individual portions tightly with food wrap without air gaps, then place them in an airtight container or Ziploc bag in the coldest shelf/meat compartment (0–2°C). Consume within 2 to 3 days."
+                    },
+                    {
+                        "name": "Portion and double-seal for quick freezing — Frozen Storage (3–4 Months) ❄️",
+                        "text": "For long-term storage, remove air completely and freeze deep inside the freezer (below -18°C) to prevent freezer burn. 💡 Storage Tip: Sealing meat tightly in freezer bags preserves freshness for 3 to 4 months. Minced/ground pork spoils much faster, so consume ground meat within 1 to 2 months."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "What is the safest and best way to thaw frozen pork?",
+                        "answer": "The most recommended method is slow refrigerator thawing (0–4°C) by transferring the meat to the fridge the day before cooking. This minimizes drip loss and prevents bacterial growth. In an emergency, submerge the sealed meat in cold water."
+                    },
+                    {
+                        "question": "My pork surface turned brownish-gray. Is it safe to eat?",
+                        "answer": "This may be caused by deoxymyoglobin, where meat pigment darkens due to lack of oxygen. If it blooms back to a bright reddish-pink color after 15–20 minutes of air exposure, it is fine. However, if it emits a sour/foul odor or feels slimy, it has spoiled and must be discarded immediately."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "豚肉を新鮮に保つ保存方法：科学的保管ガイド",
+                "description": "公的安全基準に基づく豚肉の最適な保存温度、保管方法、保存期間をご確認ください。",
+                "authority": "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>",
+                "intro": "豚肉を冷蔵庫に入れておいたら、ドリップ（赤い肉汁）が溜まって臭みが出たり、表面が乾燥して変色してしまった経験はありませんか？🥩\n\n豚肉は水分やタンパク質、脂質が豊富で、解体後に細菌が繁殖しやすく、脂質が酸化しやすい繊細な食材です。特に表面に出たドリップをそのままにしておくと、微生物が急速に増殖して悪臭や変色を引き起こし、食感を著しく損ねてしまいます。\n\n本日FreshSnapでは、農学および食品安全の専門家が推奨する、豚肉の鮮度を最大化する科学的で確実な3段階の保存のコツをご紹介します。🛡️",
+                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+                "guideTitle": "科学的に検証された保存ガイド",
+                "cautionTitle": "保存時の必須ルールと注意事項",
+                "cautions": [
+                    {
+                        "title": "表面に出たドリップを拭き取らずに保存しないでください ⚠️",
+                        "desc": "豚肉のドリップは細菌や微生物が最も好み、急速に増殖する栄養源です。放置すると獣臭さが強まり腐敗が進行するため、保存前には必ずキッチンペーパーで押さえるようにドリップを拭き取ってください。"
+                    },
+                    {
+                        "title": "解凍と再冷凍を繰り返さないでください 🚫",
+                        "desc": "凍った豚肉が溶ける際、肉の組織が破壊されて水分や旨味成分が流れ出し、細菌が急激に繁殖します。再冷凍すると肉質がパサつき衛生上も危険なため、1回で使い切る分量ごとに小分けして冷凍し、必要な分だけ解凍してください。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "ドリップを拭き取りサラダ油（オリーブオイル）を薄く塗る — 水分保護と微生物遮断 📦",
+                        "text": "キッチンペーパーで水分をしっかり除去した後、肉の表面にサラダ油やオリーブオイルを薄く塗ることで、空気との接触を防ぐ保護膜が形成されます。💡保存のコツ：油膜を作ることで酸化と水分の蒸発を防いで旨味（肉汁）を閉じ込め、微生物の増殖を抑制できます。"
+                    },
+                    {
+                        "name": "ラップで密着包装し密閉容器に入れて保存する — 冷蔵保存 (2〜3日間) ❄️",
+                        "text": "空気中の酸素と接触すると脂質が酸化し、変色（褐変）や酸敗の原因となります。💡保存のコツ：1回分ずつラップで隙間なくぴったり包み、密閉容器やジッパーバッグに入れて冷蔵庫の最も冷たいチルド室（0〜2℃）で保存してください。2〜3日以内に使い切るのが理想的です。"
+                    },
+                    {
+                        "name": "小分けして二重密閉し急速冷凍する — 冷凍保存 (3〜4ヶ月間) ❄️",
+                        "text": "長期保存する場合は、空気をしっかり抜いた状態で冷凍室（-18℃以下）の奥に保管し、冷凍やけ（Freezer Burn）を防ぐことが重要です。💡保存のコツ：ジッパーバッグに入れて空気を抜いて冷凍すれば、3〜4ヶ月間新鮮さを保てます。ひき肉は傷みやすいため1〜2ヶ月以内に消費してください。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "冷凍した豚肉を最も安全でおいしく解凍する方法は？",
+                        "answer": "最もおすすめなのは、使う前日に冷蔵室（0〜4℃）に移してゆっくり解凍する「冷蔵解凍」です。肉汁の流出（ドリップ）を最小限に抑え、細菌の繁殖を防げます。お急ぎの場合は密閉したまま氷水や冷水に浸して解凍してください。"
+                    },
+                    {
+                        "question": "豚肉の表面が茶色やグレーに変色していても食べられますか？",
+                        "answer": "肉に含まれるミオグロビンという色素が酸素不足で変色している状態（脱酸素ミオグロビン）の可能性があります。パックから出して空気に触れさせ、15〜20分後に鮮やかなピンク色に戻れば問題ありません。ただし、酸っぱい異臭がしたり表面がネバつく場合は腐敗しているため、すぐに破棄してください。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "如何保持猪肉新鲜：科学储存指南",
+                "description": "根据官方食品安全指南，了解猪肉的最佳储存温度、方式和保鲜时长。",
+                "authority": "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "intro": "您是否曾将猪肉放入冰箱冷藏，结果却发现渗出大量血水、散发腥臭味，甚至表面干瘪变色？🥩\n\n猪肉富含水分、蛋白质和脂肪，在宰杀后极易滋生细菌和发生脂肪氧化。特别是表面渗出的血水（血水渗出液），是微生物快速繁殖的温床，会导致恶臭、变色并严重破坏肉质口感。\n\n今天FreshSnap将为您介绍由农业及食品安全专家推荐的科学3步猪肉保鲜秘诀，帮您最大程度延长新鲜度。🛡️",
+                "whyTitle": "为什么要这样储存？科学原理",
+                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+                "guideTitle": "科学验证的储存指南",
+                "cautionTitle": "储存必需规则及注意事项",
+                "cautions": [
+                    {
+                        "title": "切勿不擦干血水直接保存 ⚠️",
+                        "desc": "猪肉表面的血水是细菌和微生物最喜爱的营养源。如果听之任之，肉腥味会加重并加速腐败，因此保存前必须用厨房纸巾按压擦干。"
+                    },
+                    {
+                        "title": "切勿反复解冻和重新冻结 🚫",
+                        "desc": "冷冻猪肉解冻时，细胞组织受到破坏会导致水分和营养流失，同时细菌会剧烈繁殖。再次冷冻会使肉质变得柴硬且存在卫生风险，因此应按单次食用量分装，按需解冻。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "擦干血水后涂抹少许食用油 — 锁水防干与阻隔微生物 📦",
+                        "text": "用厨房纸巾彻底吸干水分后，在肉块表面薄薄涂抹一层食用油或橄榄油，可形成阻隔空气的保护膜。💡储存小贴士：形成油膜能防止氧化和水分蒸发，锁住肉汁并抑制微生物滋生。"
+                    },
+                    {
+                        "name": "用保鲜膜紧密包裹后装入密封盒 — 冷藏储存 (2 ~ 3天) ❄️",
+                        "text": "接触空气中的氧气会导致脂肪氧化，引发变色（褐变）和酸败。💡储存小贴士：按单次用量用保鲜膜紧密包裹无缝隙，再放入密封盒或密封袋中，存放在冰箱温度最低的冰鲜层（0 ~ 2℃）。建议在2 ~ 3天内食用完毕。"
+                    },
+                    {
+                        "name": "分装后双层密封并快速冷冻 — 冷冻储存 (3 ~ 4个月) ❄️",
+                        "text": "如需长期保存，需在排出空气的状态下存放在冷冻室（-18℃以下）深处，以防冷冻灼伤（Freezer Burn）。💡储存小贴士：装入保鲜袋排出空气后冷冻，可保持3 ~ 4个月的新鲜度。绞肉（肉末）较易变质，请在1 ~ 2个月内食用完毕。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "冷冻猪肉最安全美味的解冻方法是什么？",
+                        "answer": "最推荐的方法是在烹饪前一天将猪肉转入冷藏室（0 ~ 4℃）缓缓解冻（冷藏解冻）。这能最大程度减少肉汁流失并抑制细菌滋生。如情况紧急，可在密封状态下浸入冷水中解冻。"
+                    },
+                    {
+                        "question": "猪肉表面变成褐色或灰色还能吃吗？",
+                        "answer": "这可能是肉中的肌红蛋白因缺氧而发生的变色现象（脱氧肌红蛋白）。打开包装暴露在空气中15 ~ 20分钟后，若恢复鲜红色则属于正常。但如果散发出酸臭异味或表面发黏，说明已经变质，必须立即丢弃。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cómo mantener la carne de cerdo fresca: Guía científica de conservación",
+                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para la carne de cerdo según las directrices oficiales de seguridad.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "¿Alguna vez guardó carne de cerdo en el refrigerador solo para encontrar una acumulación de jugos (sangre/drip), un olor fuerte o una superficie seca y descolorida? 🥩\n\nLa carne de cerdo es rica en humedad, proteínas y grasa, lo que la hace sumamente vulnerable a la proliferación bacteriana y a la oxidación lipídica. En particular, dejar que los jugos liberados permanezcan en la superficie crea un medio ideal para las bacterias, provocando malos olores, decoloración y la ruina de su textura.\n\nHoy, FreshSnap presenta una guía de conservación de carne de cerdo en 3 pasos respaldada por expertos agrícolas y de seguridad alimentaria para maximizar su frescura. 🛡️",
+                "whyTitle": "¿Por qué almacenarla así? Datos científicos",
+                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+                "guideTitle": "Guía de almacenamiento científicamente probada",
+                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+                "cautions": [
+                    {
+                        "title": "No guarde la carne sin secar los jugos acumulados ⚠️",
+                        "desc": "Los jugos (sangre/purga) en la superficie de la carne de cerdo son la principal fuente de nutrientes para que las bacterias se multipliquen rápidamente. Dejarlos acelera la putrefacción y los malos olores, así que séquela bien con papel de cocina antes de guardarla."
+                    },
+                    {
+                        "title": "Evite descongelar y volver a congelar la carne 🚫",
+                        "desc": "Al descongelar carne de cerdo, la ruptura de tejidos provoca pérdida de humedad y nutrientes, además de una rápida proliferación bacteriana. Volver a congelarla vuelve la textura dura y representa un riesgo sanitario; porcionela para consumir solo lo necesario."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Seque los jugos y aplique un poco de aceite comestible — Retención de humedad y barrera bacteriana 📦",
+                        "text": "Tras retirar la humedad con papel absorbente, aplicar una ligera capa de aceite vegetal u oliva forma una película protectora contra el aire. 💡 Consejo de almacenamiento: Esta capa protectora evita la oxidación, detiene la evaporación de jugos y frena el crecimiento bacteriano."
+                    },
+                    {
+                        "name": "Envuelva firmemente en film plástico y guarde en un contenedor hermético — Refrigeración (2-3 días) ❄️",
+                        "text": "El contacto con el oxígeno provoca la oxidación de las grasas, dando lugar a decoloración y enranciamiento. 💡 Consejo de almacenamiento: Envuelva las porciones firmemente con film plástico sin dejar aire y guárdelas en el cajón de carnes o estante más frío (0-2 °C). Consúmala en un plazo de 2 a 3 días."
+                    },
+                    {
+                        "name": "Corte en porciones, selle con doble protección y congele rápidamente — Conservación congelada (3-4 meses) ❄️",
+                        "text": "Para un almacenamiento prolongado, extraiga el aire por completo y congele en la parte más profunda del congelador (menos de -18 °C) para evitar la quemadura por congelación. 💡 Consejo de almacenamiento: Sellada en bolsas para congelar, se mantiene fresca de 3 a 4 meses. La carne picada se deteriora más rápido, por lo que debe consumirse en 1 a 2 meses."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Cuál es la forma más segura y recomendada de descongelar la carne de cerdo?",
+                        "answer": "El método más seguro es la descongelación lenta en el refrigerador (0-4 °C) desde el día anterior a su cocción. Esto minimiza la pérdida de jugos y evita el desarrollo de bacterias. En caso de urgencia, sumerja la bolsa sellada en agua fría."
+                    },
+                    {
+                        "question": "La superficie de la carne de cerdo se volvió verdosa o gris marrón. ¿Se puede comer?",
+                        "answer": "Puede deberse a la desoximioglobina, donde el pigmento de la carne se oscurece por falta de oxígeno. Si al exponerla al aire durante 15-20 minutos recupera su color rosado brillante, está bien. Pero si huele agrio/rancio o se siente viscosa, está echada a perder y debe desecharse."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Comment conserver la viande de porc fraîche : Guide scientifique de conservation",
+                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour la viande de porc selon les directives officielles de sécurité.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Avez-vous déjà conservé de la viande de porc au réfrigérateur pour constater qu'elle baignait dans son jus (sang/exsudat), dégageait une odeur forte ou présentait une surface asséchée et décolorée ? 🥩\n\nLe porc est riche en eau, en protéines et en lipides, ce qui le rend particulièrement vulnérable à la prolifération bactérienne et à l'oxydation des graisses. Laisser le jus stagner à la surface favorise la multiplication rapide des bactéries, entraînant de mauvaises odeurs, des altérations de couleur et une dégradation de la texture.\n\nAujourd'hui, FreshSnap vous présente un guide scientifique de conservation du porc en 3 étapes recommandé par des experts en sécurité alimentaire pour maximiser sa fraîcheur. 🛡️",
+                "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
+                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+                "guideTitle": "Guide de conservation scientifiquement prouvé",
+                "cautionTitle": "Règles essentielles et précautions de stockage",
+                "cautions": [
+                    {
+                        "title": "Ne stockez pas la viande sans avoir essuyé le jus stagneur ⚠️",
+                        "desc": "Le jus (sang/exsudat) à la surface du porc est la nourriture préférée des bactéries et microbes. Le laisser stagner accélère le rancissement et le pourrissement. Épongez-le toujours soigneusement avec de l'essuie-tout avant stockage."
+                    },
+                    {
+                        "title": "Évitez la décongélation et la recongélation répétées 🚫",
+                        "desc": "La décongélation brise les tissus musculaires, entraînant une perte d'eau et de nutriments tout en favorisant la prolifération bactérienne. Recongeler la viande rend sa texture dure et présente des risques sanitaires ; portionnez-la pour ne décongeler que le nécessaire."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Essuyer le jus et badigeonner d'un peu d'huile — Maintien de l'humidité et barrière microbienne 📦",
+                        "text": "Après avoir retiré toute trace d'humidité avec de l'essuie-tout, étalez une mince couche d'huile végétale ou d'olive sur la viande. 💡 Astuce de conservation : Cette pellicule d'huile protège de l'air, empêche l'oxydation et l'évaporation des sucs, et freine le développement microbien."
+                    },
+                    {
+                        "name": "Envelopper hermétiquement dans du film étirable et placer en boîte hermétique — Réfrigération (2-3 jours) ❄️",
+                        "text": "Le contact avec l'oxygène entraîne l'oxydation des graisses, provoquant un brunissement et un rancissement. 💡 Astuce de conservation : Enveloppez chaque portion fermement sans laisser d'air, puis placez-la dans une boîte hermétique ou un sac Ziploc dans le compartiment le plus froid du frigo (0–2 °C). Consommez sous 2 à 3 jours."
+                    },
+                    {
+                        "name": "Portionner, emballer sous double protection et congeler rapidement — Congélation (3-4 mois) ❄️",
+                        "text": "Pour un stockage longue durée, chassez tout l'air et placez au fond du congélateur (-18 °C ou moins) pour éviter la brûlure de congélation. 💡 Astuce de conservation : Conservé en sac congélation hermétique, le porc reste frais 3 à 4 mois. La viande hachée se gâte vite, consommez-la sous 1 à 2 mois."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Quelle est la méthode la plus sûre et optimale pour décongeler du porc ?",
+                        "answer": "La méthode recommandée est la décongélation lente au réfrigérateur (0–4 °C) en y plaçant la viande la veille. Cela limite la perte de jus et empêche la prolifération bactérienne. En cas d'urgence, immergez le sachet scellé dans de l'eau froide."
+                    },
+                    {
+                        "question": "La surface de la viande est devenue grise ou brunâtre. Est-elle consommable ?",
+                        "answer": "C'est souvent dû à la désoxymyoglobine, lorsque le pigment de la viande s'assombrit par manque d'oxygène. Si la viande retrouve sa belle couleur rose après 15 à 20 minutes d'exposition à l'air, elle est saine. En revanche, si elle dégage une odeur aigre ou devient poisseuse, elle est périmée et doit être jetée."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Schweinefleisch richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Schweinefleisch basierend auf offiziellen Sicherheitsrichtlinien.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Haben Sie Schweinefleisch im Kühlschrank gelagert, nur um festzustellen, dass sich Fleischsaft sammelte, ein strenger Geruch entstand oder die Oberfläche austrocknete? 🥩\n\nSchweinefleisch ist reich an Feuchtigkeit, Protein und Fett, wodurch es nach der Schlachtung extrem anfällig für Bakterienwachstum und Fettoxidation ist. Das Belassen von ausgetretenem Fleischsaft auf der Oberfläche bietet Mikroorganismen einen idealen Nährboden, was zu üblen Gerüchen, Verfärbungen und Texturverlust führt.\n\nHeute stellt FreshSnap Ihnen einen von Agrar- und Lebensmittelsicherheitsexperten empfohlenen, wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um die Frische von Schweinefleisch zu maximieren. 🛡️",
+                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+                "cautions": [
+                    {
+                        "title": "Fleisch niemals ohne Abtupfen des Fleischsafts lagern ⚠️",
+                        "desc": "Der ausgetretene Fleischsaft auf der Oberfläche ist der Hauptnährboden für Bakterien. Wird er nicht entfernt, beschleunigt dies Verderb und strengen Geruch. Tupfen Sie das Fleisch vor der Lagerung stets gründlich mit Küchenpapier ab."
+                    },
+                    {
+                        "title": "Wiederholtes Auftauen und Einfrieren vermeiden 🚫",
+                        "desc": "Beim Auftauen von Schweinefleisch werden Muskelfasern beschädigt, Fleischsaft tritt aus und Bakterien vermehren sich rasch. Erneutes Einfrieren macht das Fleisch zäh und birgt gesundheitliche Risiken. Portionieren Sie das Fleisch daher vor dem Einfrieren."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Fleischsaft abtupfen und dünn mit Speiseöl bestreichen — Feuchtigkeitsschutz & Bakterienbarriere 📦",
+                        "text": "Nach dem vollständigen Abtupfen der Feuchtigkeit bildet eine dünne Schicht Speise- oder Olivenöl eine Schutzbarriere gegen Luft. 💡 Lagerungstipp: Diese Ölschicht verhindert Oxidation, stoppt das Verdunsten von Fleischsaft und hemmt das Keimwachstum."
+                    },
+                    {
+                        "name": "Eng in Frischhaltefolie wickeln und in luftdichtem Behälter kühlen — Kühllagerung (2–3 Tage) ❄️",
+                        "text": "Kontakt mit Sauerstoff führt zur Fettoxidation, was Verfärbungen und Ranzigkeit verursacht. 💡 Lagerungstipp: Wickeln Sie einzelne Portionen luftdicht in Folie und legen Sie diese in eine Dose oder einen Ziploc-Beutel im kältesten Fach (0–2 °C). Innerhalb von 2 bis 3 Tagen verbrauchen."
+                    },
+                    {
+                        "name": "Portionieren, doppelt versiegeln und schockgefrieren — Gefrierlagerung (3–4 Monate) ❄️",
+                        "text": "Für eine Langzeitlagerung streichen Sie die Luft komplett heraus und frieren das Fleisch tief im Gefrierschrank (unter -18 °C) ein, um Gefrierbrand zu vermeiden. 💡 Lagerungstipp: Luftdicht verpackt bleibt Schweinefleisch 3 bis 4 Monate frisch. Hackfleisch verdirbt schneller und sollte innerhalb von 1 bis 2 Monaten verbraucht werden."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Wie taut man Schweinefleisch am sichersten und besten auf?",
+                        "answer": "Die beste Methode ist das langsame Auftauen im Kühlschrank (0–4 °C), indem man das Fleisch am Vortag umlegt. Das minimiert Saftverlust und stoppt Bakterienwachstum. In dringenden Fällen tauen Sie die versiegelte Packung in kaltem Wasser auf."
+                    },
+                    {
+                        "question": "Die Oberfläche des Schweinefleischs ist bräunlich-grau geworden. Ist es noch essbar?",
+                        "answer": "Dies kann an Desoxymyoglobin liegen, wenn dem Fleischfarbstoff Sauerstoff fehlt. Wenn das Fleisch nach 15–20 Minuten an der Luft wieder eine rosa-rote Farbe annimmt, ist es unbedenklich. Riecht es jedoch sauer/streng oder ist es klebrig, ist es verdorben und muss entsorgt werden."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Como conservar carne de porco fresca: Guia científico de armazenamento",
+                "description": "Descubra a temperatura, método e tempo de conservação ideais para a carne de porco com base em diretrizes oficiais de segurança.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Você já guardou carne de porco na geladeira e depois encontrou uma poça de suco (sangue/drip), cheiro forte ou a superfície ressecada e desbotada? 🥩\n\nA carne de porco é rica em umidade, proteínas e gorduras, tornando-a altamente vulnerável à proliferação bacteriana e à oxidação lipídica. Deixar o suco acumulado na superfície cria o ambiente ideal para bactérias, causando maus odores, alteração na cor e perda de textura.\n\nHoje, o FreshSnap apresenta um guia de conservação em 3 etapas recomendado por especialistas para manter a carne de porco fresca pelo maior tempo possível. 🛡️",
+                "whyTitle": "Por que armazenar assim? Fatos científicos",
+                "whyDesc": "Compreender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+                "guideTitle": "Guia de armazenamento comprovado cientificamente",
+                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+                "cautions": [
+                    {
+                        "title": "Nunca guarde a carne sem secar o suco acumulado (drip) ⚠️",
+                        "desc": "O líquido acumulado na superfície da carne de porco é a principal fonte de nutrientes para a rápida multiplicação de bactérias. Deixá-lo acelera o apodrecimento e o odor forte; portanto, seque bem com papel-toalha antes de guardar."
+                    },
+                    {
+                        "title": "Evite descongelar e recongelar a carne 🚫",
+                        "desc": "Ao descongelar a carne de porco, o rompimento dos tecidos causa perda de umidade e nutrientes, além de rápida proliferação bacteriana. Recongelar deixa a carne dura e traz riscos à saúde; porcione a carne para descongelar apenas o necessário."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Secar o suco e passar uma camada fina de óleo — Retenção de umidade e barreira bacteriana 📦",
+                        "text": "Após secar toda a umidade com papel-toalha, aplicar uma leve camada de óleo vegetal ou azeite forma uma película protetora contra o ar. 💡 Dica de conservação: Essa camada de óleo evita a oxidação, impede a evaporação do suco da carne e inibe o crescimento de bactérias."
+                    },
+                    {
+                        "name": "Embrulhar firmemente em filme plástico e guardar em pote hermético — Refrigeração (2 a 3 dias) ❄️",
+                        "text": "O contato com o oxigênio causa oxidação das gorduras, levando ao escurecimento e à rancificação. 💡 Dica de conservação: Embrulhe porções individuais em filme plástico sem deixar ar e guarde em pote hermético no compartimento mais frio da geladeira (0-2 °C). Consuma em 2 a 3 dias."
+                    },
+                    {
+                        "name": "Porcionar, selar com dupla proteção e congelar rapidamente — Congelamento (3 a 4 meses) ❄️",
+                        "text": "Para conservação de longo prazo, retire todo o ar e congele no fundo do congelador (-18 °C ou mais frio) para evitar queimaduras de gelo. 💡 Dica de conservação: Em sacos de congelamento bem selados, a carne permanece fresca por 3 a 4 meses. Carne moída estraga mais rápido; consuma em 1 a 2 meses."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Qual é a forma mais segura e adequada de descongelar carne de porco?",
+                        "answer": "O método mais recomendado é o descongelamento lento na geladeira (0-4 °C), transferindo a carne no dia anterior. Isso reduz a perda de suco e previne bactérias. Em emergências, mergulhe o pacote selado em água fria."
+                    },
+                    {
+                        "question": "A superfície da carne de porco ficou marrom-acinzentada. Ainda dá para comer?",
+                        "answer": "Pode ser efeito da desoximioglobina, onde o pigmento da carne escurece por falta de oxigênio. Se após 15 a 20 minutos exposta ao ar a carne voltar ao tom rosado brilhante, está boa. Mas se houver cheiro azedo/forte ou textura viscosa, está estragada e deve ser descartada."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Cara Menyimpan Daging Babi agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk daging babi berdasarkan pedoman keselamatan resmi.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Pernahkah Anda menyimpan daging babi di kulkas lalu mendapati cairan darah (drip) menggenang, bau amis menyengat, atau permukaannya mengering dan berubah warna? 🥩\n\nDaging babi kaya akan kadar air, protein, dan lemak, menjadikannya sangat rentan terhadap pertumbuhan bakteri dan oksidasi lemak setelah dipotong. Membiarkan cairan drip menggenang di permukaan daging menciptakan media ideal bagi mikroorganisme untuk berkembang biak, memicu bau tidak sedap, perubahan warna, dan merusak teksturnya.\n\nHari ini, FreshSnap membagikan panduan penyimpanan daging babi 3 langkah berbasis ilmiah yang direkomendasikan oleh ahli keamanan pangan untuk memaksimalkan kesegarannya. 🛡️",
+                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+                "cautions": [
+                    {
+                        "title": "Jangan menyimpan daging tanpa mengelap cairan drip ⚠️",
+                        "desc": "Cairan drip pada permukaan daging babi adalah sumber nutrisi utama bagi bakteri untuk berkembang biak dengan cepat. Membiarkannya akan mempercepat pembusukan dan bau amis, jadi selalu lap hingga kering dengan tisu dapur sebelum disimpan."
+                    },
+                    {
+                        "title": "Hindari mencairkan dan membekukan ulang daging secara berulang 🚫",
+                        "desc": "Mencairkan daging babi yang membeku merusak jaringan otot, menyebabkan keluarnya air dan nutrisi sekaligus memicu perkembangbiakan bakteri. Membekukannya kembali membuat tekstur daging menjadi keras dan berisiko bagi kesehatan; bagi daging menjadi porsi sekali masak sebelum dibekukan."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Lap cairan drip hingga kering dan olesi sedikit minyak goreng — Perlindungan Kelembapan & Penghalang Mikroba 📦",
+                        "text": "Setelah mengeringkan kelembapan dengan tisu dapur, mengoleskan tipis minyak goreng atau minyak zaitun akan membentuk lapisan pelindung dari udara. 💡 Tips Penyimpanan: Lapisan minyak ini mencegah oksidasi, menahan penguapan sari daging, dan menghambat pertumbuhan mikroba."
+                    },
+                    {
+                        "name": "Bungkus rapat dengan plastik wrap dan simpan dalam wadah kedap udara — Simpan Dingin (2–3 Hari) ❄️",
+                        "text": "Kontak dengan oksigen menyebabkan oksidasi lemak, memicu perubahan warna menjadi kecokelatan dan ketengikan. 💡 Tips Penyimpanan: Bungkus porsi daging secara rapat dengan plastik wrap tanpa ada rongga udara, lalu masukkan ke wadah kedap udara atau kantong ziploc di rak paling dingin/laci daging (0–2°C). Konsumsi dalam 2 hingga 3 hari."
+                    },
+                    {
+                        "name": "Bagi porsi, segel ganda, dan bekukan dengan cepat — Simpan Beku (3–4 Bulan) ❄️",
+                        "text": "Untuk penyimpanan jangka panjang, keluarkan udara sepenuhnya dan simpan di bagian dalam freezer (di bawah -18°C) untuk mencegah freezer burn. 💡 Tips Penyimpanan: Disimpan dalam kantong freezer kedap udara, daging tetap segar selama 3 hingga 4 bulan. Daging cincang lebih cepat rusak, jadi habiskan dalam 1 hingga 2 bulan."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Bagaimana cara paling aman dan baik untuk mencairkan daging babi beku?",
+                        "answer": "Metode yang paling direkomendasikan adalah pencairan perlahan di kulkas (0–4°C) dengan memindahkan daging sehari sebelum dimasak. Cara ini meminimalkan kehilangan sari daging dan mencegah pertumbuhan bakteri. Dalam keadaan darurat, rendam kemasan tertutup dalam air dingin."
+                    },
+                    {
+                        "question": "Permukaan daging babi berubah warna menjadi kecokelatan atau abu-abu. Apakah masih aman dimakan?",
+                        "answer": "Hal ini bisa disebabkan oleh deoksimioglobin, yaitu pigmen daging yang menggelap akibat kekurangan oksigen. Jika warnanya kembali menjadi merah muda cerah setelah terpapar udara selama 15–20 menit, daging masih aman. Namun jika berbau asam/busuk atau terasa lengket, daging sudah rusak dan harus segera dibuang."
+                    }
+                ]
+            }
+        }
+    }
+}

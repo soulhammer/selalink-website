@@ -29,6 +29,18 @@ Perilla oil contains over 60% alpha-linolenic acid (ALA, an omega-3 fatty acid),
 
 Today, FreshSnap shares a scientifically proven 3-step storage guide based on research from the Rural Development Administration (RDA) to completely prevent rancidity and double the shelf life of your perilla oil. 🛡️
 
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
+  <span class="text-2xl">🛡️</span>
+  <div>
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      Food Safety & Scientific Evidence
+    </h5>
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
+      This content is based on <strong>RDA & MFDS & USDA</strong>.
+    </p>
+  </div>
+</div>
+
 ---
 
 ## 1. Scientifically Proven Storage Guide
