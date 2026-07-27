@@ -1,0 +1,128 @@
+---
+layout: "../../../layouts/BlogPostLayout.astro"
+title: "Comment conserver les mangues fraîches : Guide scientifique de conservation"
+description: "Découvrez la température, la méthode et la durée de conservation optimales pour les mangues selon les directives officielles de sécurité."
+pubDate: "2026-05-24"
+updatedDate: "2026-05-24"
+category: "FreshSnap"
+heroImage: "/images/blog/mango_storage_hack.webp"
+app: "freshsnap"
+formatVersion: 4
+authority: "<strong>USDA & MFDS & RDA</strong>"
+steps:
+  - name: "[Avant maturation] Conserver à température ambiante fraîche (20-25 °C) — Maturation naturelle (3 à 7 jours) 🌡️"
+    text: "Les mangues développent lentement leur douceur à température ambiante. 💡 Astuce de conservation : Gardez-les dans un endroit bien ventilé, à l'abri de la lumière directe du soleil, jusqu'à ce que la peau devienne brillante, que la zone du pédoncule sente bon, et que le fruit cède légèrement sous une pression douce, comme une pêche mûre."
+  - name: "[Après maturation] Envelopper de papier essuie-tout et réfrigérer dans un sac — Retarder la surmaturation (5 à 7 jours) ❄️"
+    text: "Une fois que la mangue est parfaitement mûre, elle doit être réfrigérée pour ralentir le processus de surmaturation. 💡 Astuce de conservation : Pour éviter la perte d'humidité et protéger la peau des courants d'air froid directs, enveloppez la mangue dans du papier essuie-tout ou du papier journal, scellez-la dans un sac Ziploc et rangez-la dans le bac à légumes (7–10 °C)."
+  - name: "[Conservation longue durée] Peler, couper en dés et congeler — Stockage congelé (Jusqu'à 6 mois) 🧊"
+    text: "Pour conserver des mangues complètement mûres pendant une longue période, séparer et congeler la chair est la meilleure méthode. 💡 Astuce de conservation : Pelez la mangue, coupez la chair en dés, étalez-les à plat dans un sac Ziploc ou une boîte hermétique, et placez-les au congélateur (-18 °C ou moins)."
+faqs:
+  - question: "Ma mangue a des taches noires sur la peau. Est-elle gâtée ?"
+    answer: "Tout comme les bananes, les mangues développent des 'taches de sucre' (mouchetures noires), un indicateur naturel qu'elles ont atteint leur douceur maximale et sont parfaitement mûres. Cependant, si les taches s'accompagnent d'une odeur aigre, de suintements ou d'une extrême mollesse, le fruit pourrit et doit être jeté."
+  - question: "Comment dois-je conserver une mangue coupée ?"
+    answer: "Une fois coupée, la chair de la mangue s'oxyde rapidement au contact de l'air et est sensible au développement bactérien. Conservez-la immédiatement dans une boîte hermétique au réfrigérateur et consommez-la dans les 1 à 2 jours. Un léger filet de jus de citron peut aider à prévenir le brunissement."
+---
+
+Avez-vous déjà acheté une mangue douce et onctueuse, pour la mettre au réfrigérateur alors qu'elle n'était pas encore mûre, et vous retrouver avec une peau noircie et une chair dure et sans saveur ? 🥭
+
+Les mangues sont des fruits climactériques, ce qui signifie qu'elles continuent à mûrir et à émettre du gaz éthylène après la récolte. En tant que fruits tropicaux, les exposer au froid avant qu'elles ne soient parfaitement mûres stoppe définitivement le processus de maturation, causant des lésions dues au froid (chilling injury) qui brunissent la peau et détruisent la saveur à jamais.
+
+Aujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes recommandé par des experts en agriculture et en sécurité alimentaire pour maximiser la douceur de votre mangue et maintenir sa fraîcheur. 🛡️
+
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-emerald-900 dark:text-emerald-200 font-extrabold m-0 tracking-tight">
+      Sécurité Alimentaire et Preuves Scientifiques
+    </h5>
+    <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      Ce contenu est basé sur <strong>USDA & MFDS & RDA</strong>.
+    </p>
+  </div>
+</div>
+
+---
+
+## 1. Guide de conservation scientifiquement prouvé
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
+  <div class="flex flex-wrap items-center gap-3 mb-4">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">STEP 1</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">[Avant maturation] Conserver à température ambiante fraîche (20-25 °C) — Maturation naturelle (3 à 7 jours) 🌡️</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
+    Les mangues développent lentement leur douceur à température ambiante. 💡 Astuce de conservation : Gardez-les dans un endroit bien ventilé, à l'abri de la lumière directe du soleil, jusqu'à ce que la peau devienne brillante, que la zone du pédoncule sente bon, et que le fruit cède légèrement sous une pression douce, comme une pêche mûre.
+  </p>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
+  <div class="flex flex-wrap items-center gap-3 mb-4">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">STEP 2</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">[Après maturation] Envelopper de papier essuie-tout et réfrigérer dans un sac — Retarder la surmaturation (5 à 7 jours) ❄️</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
+    Une fois que la mangue est parfaitement mûre, elle doit être réfrigérée pour ralentir le processus de surmaturation. 💡 Astuce de conservation : Pour éviter la perte d'humidité et protéger la peau des courants d'air froid directs, enveloppez la mangue dans du papier essuie-tout ou du papier journal, scellez-la dans un sac Ziploc et rangez-la dans le bac à légumes (7–10 °C).
+  </p>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
+  <div class="flex flex-wrap items-center gap-3 mb-4">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">STEP 3</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">[Conservation longue durée] Peler, couper en dés et congeler — Stockage congelé (Jusqu'à 6 mois) 🧊</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
+    Pour conserver des mangues complètement mûres pendant une longue période, séparer et congeler la chair est la meilleure méthode. 💡 Astuce de conservation : Pelez la mangue, coupez la chair en dés, étalez-les à plat dans un sac Ziploc ou une boîte hermétique, et placez-les au congélateur (-18 °C ou moins).
+  </p>
+</div>
+
+---
+
+## 2. Règles essentielles et précautions de stockage
+
+<div class="my-6 p-5 md:p-6 rounded-r-2xl rounded-l-md border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 bg-amber-500/[0.06] dark:bg-amber-500/10 border-amber-500/30 flex items-start gap-4 shadow-xs backdrop-blur-xs">
+  <span class="text-xl md:text-2xl flex-shrink-0 mt-0.5">⚠️</span>
+  <div class="flex-1 min-w-0">
+    <strong class="text-slate-950 dark:text-white font-extrabold block text-base md:text-lg mb-1.5 tracking-tight">Ne mettez jamais une mangue non mûre (ferme) au réfrigérateur ⚠️</strong>
+    <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base m-0 leading-relaxed font-normal break-words">
+      Si une mangue est placée dans un environnement froid (moins de 10 °C) avant de mûrir, le processus de maturation s'arrête définitivement. Elle subira des dégâts dus au froid, avec une peau marbrée de noir et une chair caoutchouteuse. Laissez-la toujours mûrir à température ambiante d'abord.
+    </p>
+  </div>
+</div>
+
+<div class="my-6 p-5 md:p-6 rounded-r-2xl rounded-l-md border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 bg-amber-500/[0.06] dark:bg-amber-500/10 border-amber-500/30 flex items-start gap-4 shadow-xs backdrop-blur-xs">
+  <span class="text-xl md:text-2xl flex-shrink-0 mt-0.5">⚠️</span>
+  <div class="flex-1 min-w-0">
+    <strong class="text-slate-950 dark:text-white font-extrabold block text-base md:text-lg mb-1.5 tracking-tight">Pour accélérer la maturation, placez-la dans un sac en papier avec un fruit émetteur d'éthylène 🍎</strong>
+    <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base m-0 leading-relaxed font-normal break-words">
+      Placer une mangue dans un sac en papier fermé de manière lâche avec une banane ou une pomme (qui émettent naturellement de grandes quantités de gaz éthylène) accélérera le processus de maturation de deux à trois fois en toute sécurité.
+    </p>
+  </div>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Foire Aux Questions (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">Ma mangue a des taches noires sur la peau. Est-elle gâtée ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
+    </summary>
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
+      Tout comme les bananes, les mangues développent des 'taches de sucre' (mouchetures noires), un indicateur naturel qu'elles ont atteint leur douceur maximale et sont parfaitement mûres. Cependant, si les taches s'accompagnent d'une odeur aigre, de suintements ou d'une extrême mollesse, le fruit pourrit et doit être jeté.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">Comment dois-je conserver une mangue coupée ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
+    </summary>
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
+      Une fois coupée, la chair de la mangue s'oxyde rapidement au contact de l'air et est sensible au développement bactérien. Conservez-la immédiatement dans une boîte hermétique au réfrigérateur et consommez-la dans les 1 à 2 jours. Un léger filet de jus de citron peut aider à prévenir le brunissement.
+    </p>
+  </details>
+</div>

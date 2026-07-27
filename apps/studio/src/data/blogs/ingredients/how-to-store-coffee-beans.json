@@ -1,0 +1,406 @@
+{
+    "how-to-store-coffee-beans": {
+        "ingId": "coffee-beans",
+        "pubDate": "2026-03-18",
+        "updatedDate": "2026-03-18",
+        "heroImage": "/images/blog/coffee_beans_storage_hack.webp",
+        "locales": {
+            "ko": {
+                "title": "커피 원두 신선하게 보관하는 법: 과학적 보관 가이드",
+                "description": "공인된 안전 가이드라인에 따른 커피 원두의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+                "authority": "<strong>미국 스페셜티 커피 협회(SCA) & 미국 농무부(USDA)</strong>",
+                "intro": "갓 볶은 커피 원두를 사 왔는데 며칠 지나지 않아 특유의 아로마가 사라지고 평범하거나 쓴맛만 남은 경험 다들 있으시죠? ☕\n\n커피 원두는 볶는(로스팅) 순간부터 이산화탄소를 방출하며 공기 중의 산소, 습도, 빛, 온도 변화와 접촉하면서 빠르게 산화합니다. 원두는 표면에 미세한 구멍이 많은 다공성 구조라 주변의 습기와 냄새를 스펀지처럼 흡수하기 때문에 올바른 보관법이 커피 맛의 90%를 결정합니다.\n\n오늘 FreshSnap에서는 미국 스페셜티 커피 협회(SCA)와 커피 전문가들이 권장하는 원두의 고유한 향미와 풍미를 오랫동안 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+                "guideTitle": "과학적으로 검증된 보관 가이드",
+                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+                "cautions": [
+                    {
+                        "title": "냉장고(냉장실)에 보관하지 마세요 ⚠️",
+                        "desc": "냉장고 내부의 높은 습도와 강한 음식 냄새는 다공성 구조의 원두에 그대로 흡수됩니다. 또한, 냉장고에서 원두를 꺼낼 때 온도 차로 인해 용기 표면과 원두에 결로(이슬 맺힘)가 생겨 아로마 오일이 파괴되고 급격한 산화가 일어납니다."
+                    },
+                    {
+                        "title": "투명한 용기에 담아 햇빛에 노출시키지 마세요 ☀️",
+                        "desc": "자외선(UV)과 빛은 원두 표면의 지질(아로마 오일)을 분해하여 산패를 유발하고 고소하고 달콤한 향미를 빠르게 파괴합니다. 투명 유리병보다는 불투명한 밀폐 용기를 사용해야 합니다."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "아로마 밸브가 있는 불투명 밀폐 용기 사용하기 — 산소 차단 및 가스 배출 📦",
+                        "text": "갓 볶은 원두는 이산화탄소를 배출하므로 이를 내부에서 꺼내고 외부 산소 진입은 막아주는 '아로마 밸브(원웨이 밸브)' 포장이 필수적입니다. 💡 보관 팁: 아로마 밸브가 달린 오리지널 지퍼백이나 전용 불투명 밀폐 용기(진공 밀폐 용기)에 담아 보관하세요."
+                    },
+                    {
+                        "name": "15~25℃ 서늘하고 어두운 상온에 두기 — 직사광선 및 열 차단 🌡️",
+                        "text": "온도가 10℃ 상승할 때마다 원두의 산화 속도는 약 2배 빨라집니다. 💡 보관 팁: 가스레인지, 오븐, 정수기 주변처럼 열기가 발생하는 곳이나 창가를 피해, 온도가 일정하고 그늘진 찬장에 보관해 주세요."
+                    },
+                    {
+                        "name": "장기 보관 시 소분하여 냉동 보관하기 — 장기 보관 (1~3개월) ❄️",
+                        "text": "원두량이 많아 1~2주 내에 모두 소비하기 어렵다면 소분하여 냉동 보관하는 것이 좋습니다. 💡 보관 팁: 1~2회 추출 분량씩 지퍼백에 밀봉한 뒤 냉동실(-18℃ 이하)에 보관하세요. 사용할 때는 상온에서 용기 전체가 완전히 해동될 때까지 뚜껑을 열지 않아야 결로를 막을 수 있습니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "홀빈(원두 상태)과 분쇄두(가루 상태)의 보관 기간은 어떻게 다른가요?",
+                        "answer": "분쇄두는 공기 접촉 면적이 홀빈보다 수백 배 넓어져 로스팅 후 불과 몇 시간~며칠 만에 아로마가 손실됩니다. 신선한 커피를 즐기려면 홀빈 상태로 보관하다가 마시기 직전에 분쇄하는 것이 가장 좋습니다."
+                    },
+                    {
+                        "question": "원두의 가장 맛있는 보관 및 소비 기한은 언제인가요?",
+                        "answer": "원두는 로스팅 후 2~3일간 디개싱(가스 배출) 기간을 거친 뒤 2주 이내가 향미가 가장 풍부한 골든 타임입니다. 상온 밀폐 보관 시 로스팅 일자 기준 1개월 이내에 소비하는 것을 권장합니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "How to Keep Coffee Beans Fresh: Scientific Storage Guide",
+                "description": "Check the optimal storage temperature, method, and shelf life for coffee beans based on official safety guidelines.",
+                "authority": "<strong>SCA & USDA</strong>",
+                "intro": "Have you ever bought freshly roasted coffee beans only to find their rich aroma faded and flavor turned flat or bitter after just a few days? ☕\n\nFrom the moment coffee beans are roasted, they begin releasing carbon dioxide while rapidly oxidizing upon contact with oxygen, moisture, light, and heat. Because coffee beans have a porous structure, they absorb surrounding moisture and odors like a sponge, making proper storage the single most critical factor determining coffee flavor.\n\nToday, FreshSnap introduces a scientifically proven 3-step storage guide recommended by the Specialty Coffee Association (SCA) and coffee experts to preserve rich aroma and freshness. 🛡️",
+                "whyTitle": "Why Store Coffee Beans This Way? Scientific Facts",
+                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+                "guideTitle": "Scientifically Proven Storage Guide",
+                "cautionTitle": "Essential Storage Rules and Cautions",
+                "cautions": [
+                    {
+                        "title": "Do not store coffee beans in the refrigerator ⚠️",
+                        "desc": "Refrigerators have high moisture levels and strong food odors that porous coffee beans readily absorb. Furthermore, taking beans in and out causes temperature fluctuations and condensation on the beans, destroying aromatic oils and causing rapid oxidation."
+                    },
+                    {
+                        "title": "Avoid transparent containers exposed to direct sunlight ☀️",
+                        "desc": "Ultraviolet (UV) rays and light break down surface lipids (essential oils), triggering rancidity and destroying delicate aromatic compounds. Use opaque, light-blocking airtight containers instead of clear glass jars."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Use an opaque airtight container with a one-way valve — Block Oxygen & Release CO2 📦",
+                        "text": "Freshly roasted beans release carbon dioxide, making a one-way degassing valve essential to vent gas while preventing oxygen intake. 💡 Storage Tip: Keep beans in their original valve-equipped foil bag or transfer them to a dark, vacuum-sealed airtight container."
+                    },
+                    {
+                        "name": "Store in a cool, dark place at 15–25°C — Block Heat & Direct Light 🌡️",
+                        "text": "For every 10°C rise in temperature, the oxidation rate of coffee beans roughly doubles. 💡 Storage Tip: Keep containers away from heat sources like stoves, ovens, and sunny windowsills. Store in a cool, dark pantry or cabinet with stable ambient temperatures."
+                    },
+                    {
+                        "name": "Portion and freeze for long-term storage — Long-Term Storage (1–3 Months) ❄️",
+                        "text": "If you cannot consume your beans within 1–2 weeks, freezing them in portioned batches is recommended. 💡 Storage Tip: Seal single-use portions in airtight Ziploc bags and freeze below -18°C. Never open the container until it fully thaws to room temperature to prevent condensation."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "How does the shelf life differ between whole bean and ground coffee?",
+                        "answer": "Ground coffee increases the surface area exposed to oxygen by hundreds of times, causing rapid flavor loss within hours or days. To enjoy fresh coffee, store beans whole and grind them immediately before brewing."
+                    },
+                    {
+                        "question": "What is the peak freshness window for roasted coffee beans?",
+                        "answer": "Coffee beans undergo a 2–3 day degassing phase after roasting, with the peak flavor window occurring within 2 weeks. When kept in an opaque, airtight container at room temperature, consume within 1 month of the roast date."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "コーヒー豆を新鮮に保つ保存方法：科学的保管ガイド",
+                "description": "公的安全基準に基づくコーヒー豆の最適な保存温度、保管方法、保存期間をご確認ください。",
+                "authority": "<strong>SCA & 米国農務省(USDA)</strong>",
+                "intro": "焙煎したてのコーヒー豆を買ってきたのに、数日経つと特有の芳醇な香りが飛んで苦味や雑味だけが残ってしまった経験はありませんか？☕\n\nコーヒー豆は焙煎直後から二酸化炭素を放出し、空気中の酸素や湿度、光、温度変化と接触することで急速に酸化が進行します。豆の表面には微小な穴が多い多孔質構造のため、周囲の湿気や匂いをスポンジのように吸収してしまいます。正しい保存方法こそがコーヒーの味を決定づけます。\n\n本日FreshSnapでは、スペシャルティコーヒー協会（SCA）および専門家が推奨する、コーヒー豆の豊かな香りと風味を長く保つ3段階の科学的保存法をご紹介します。🛡️",
+                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+                "guideTitle": "科学的に検証された保存ガイド",
+                "cautionTitle": "保存時の必須ルールと注意事項",
+                "cautions": [
+                    {
+                        "title": "冷蔵庫（冷蔵室）での保存は避けてください ⚠️",
+                        "desc": "冷蔵庫内の高い湿度や食品の匂いは、多孔質なコーヒー豆にそのまま吸収されてしまいます。また、出し入れ時の温度差でキャニスターや豆に結露が発生し、アロマオイルが破壊されて急激な酸化を引き起こします。"
+                    },
+                    {
+                        "title": "透明な容器に入れて日光に晒さないでください ☀️",
+                        "desc": "紫外線や光は豆の表面の油脂成分（アロマオイル）を分解・酸化させ、甘く芳醇な風味を急速に破壊します。透明なガラス瓶ではなく、光を通さない不透明な密閉容器を使用してください。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "アロマバルブ付き不透明密閉容器を使用する — 酸素遮断とガス排出 📦",
+                        "text": "焙煎したての豆はガスを放出するため、外部酸素を遮断しつつ内部ガスを逃がす「逆止弁（ワンウェイバルブ）」付きパッケージが不可欠です。💡保存のコツ：バルブ付きの元袋のままチャックを閉めるか、光を通さない専用の真空密閉キャニスターに移して保存してください。"
+                    },
+                    {
+                        "name": "15〜25℃の涼しく暗い常温に置く — 直射日光と熱の遮断 🌡️",
+                        "text": "温度が10℃上昇するごとに、コーヒー豆の酸化スピードは約2倍に加速します。💡保存のコツ：コンロやオーブンなどの熱源周辺や窓際を避け、温度変化が少なく風通しの良い暗い棚や食器棚（15〜25℃）で保存してください。"
+                    },
+                    {
+                        "name": "長期保存する場合は小分けにして冷凍保存する — 長期保存 (1〜3ヶ月間) ❄️",
+                        "text": "1〜2週間で使い切れない大容量の豆は、小分けにして冷凍保存するのが有効です。💡保存のコツ：1〜2回分ずつ密封袋に入れて冷凍室（-18℃以下）で保存します。使用する際は、結露を防ぐため容器全体が常温に戻るまでフタを開けないことが重要です。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "ホールビーン（豆の状態）と粉（グラインド状態）の保存期間の違いは何ですか？",
+                        "answer": "粉に挽くと空気との接触面積が数百倍に広がり、焙煎後わずか数時間〜数日でアロマが失われます。鮮度を保つには豆の状態で保存し、抽出する直前に挽くのが一番のコツです。"
+                    },
+                    {
+                        "question": "コーヒー豆の最も美味しい飲み頃・消費期限はいつですか？",
+                        "answer": "焙煎後2〜3日間のガス抜き（ディギャシング）期間を経て、焙煎後2週間以内が最も香りが豊かなゴールデンタイムです。常温の密閉保存では焙煎日から1ヶ月以内の消費をおすすめします。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "如何保持咖啡豆新鲜：科学储存指南",
+                "description": "根据官方食品安全指南，了解咖啡豆的最佳储存温度、方式和保鲜时长。",
+                "authority": "<strong>SCA & 美国农务部(USDA)</strong>",
+                "intro": "您是否曾买回新鲜烘焙的咖啡豆，结果没过几天浓郁的香气就挥发殆尽，只剩下平淡或苦涩的味道？☕\n\n咖啡豆自烘焙完成那一刻起便开始释放二氧化碳，并在接触空气中的氧气、湿度、光线和温度变化时迅速发生氧化。由于咖啡豆呈多孔结构，会像海绵一样吸收周围的湿气与异味，因此正确的保存方法直接决定了咖啡90%的风味品质。\n\n今天FreshSnap基于精品咖啡协会(SCA)及咖啡专家的建议，为您带来3步科学保存秘诀，帮您长久锁定咖啡豆的原香与风味。🛡️",
+                "whyTitle": "为什么要这样储存？科学原理",
+                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+                "guideTitle": "科学验证的储存指南",
+                "cautionTitle": "储存必需规则及注意事项",
+                "cautions": [
+                    {
+                        "title": "切勿存放在冰箱冷藏室中 ⚠️",
+                        "desc": "冰箱内部的高湿度和强烈的食物异味极易被多孔结构的咖啡豆吸收。此外，频繁取放产生的温差会导致水汽在容器及豆表凝结，破坏油脂并引发剧烈氧化。"
+                    },
+                    {
+                        "title": "请勿使用透明容器并暴露于阳光下 ☀️",
+                        "desc": "紫外线和光线会分解咖啡豆表面的油脂（芳香油），加速酸败并破坏甜美香气。请使用不透明的遮光密封罐，而非透明玻璃瓶。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "使用带有单向排气阀的不透明密封盒 — 阻绝氧气与排放二氧化碳 📦",
+                        "text": "新鲜烘焙豆会不断释放气体，因此必须使用能排出二氧化碳同时阻止外部氧气进入的“单向排气阀”容器。💡储存小贴士：可保留带排气阀的原包装袋密封，或转存至避光真空密封罐中。"
+                    },
+                    {
+                        "name": "存放在15~25℃阴凉干燥的常温处 — 隔绝热源与阳光直射 🌡️",
+                        "text": "温度每升高10℃，咖啡豆的氧化速度就会加快约2倍。💡储存小贴士：请避开灶台、微波炉等热源区域以及日光照射的窗台，存放在温度恒定（15~25℃）的暗橱中。"
+                    },
+                    {
+                        "name": "长期保存请小份分装后冷冻 — 长期保存 (1~3个月) ❄️",
+                        "text": "若咖啡豆用量较大无法在1~2周内用完，建议小份分装后冷冻保存。💡储存小贴士：按1~2次冲煮量分装密封后放入冷冻室（-18℃以下）。使用前务必等待容器完全恢复至常温后再开盖，以防凝结水汽。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "原豆（Whole Bean）与咖啡粉（Ground Coffee）的保鲜时长有何不同？",
+                        "answer": "磨成粉后，咖啡与空气的接触面积会增加数百倍，香气在几小时至几天内就会大量流失。为了享受优质口感，建议保持原豆储存，并在冲煮前现磨。"
+                    },
+                    {
+                        "question": "烘焙后的咖啡豆最佳赏味期与保存期限是多久？",
+                        "answer": "咖啡豆烘焙后需经历2~3天的排气期，烘焙后2周内是香气最丰富的黄金赏味期。在常温密封保存下，建议在烘焙日期起1个月内饮用完毕。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cómo mantener los granos de café frescos: Guía científica de conservación",
+                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para los granos de café según las directrices oficiales de seguridad.",
+                "authority": "<strong>SCA & USDA</strong>",
+                "intro": "¿Alguna vez compró granos de café recién tostados solo para descubrir que en pocos días perdían su aroma característico y sabían planos o amargos? ☕\n\nDesde el momento en que se tuestan, los granos de café liberan dióxido de carbono y se oxidan rápidamente al contacto con el oxígeno, la humedad, la luz y las variaciones de temperatura. Al tener una estructura porosa, los granos absorben la humedad y los olores circundantes como una esponja, haciendo del almacenamiento el factor clave del sabor.\n\nHoy, FreshSnap comparte una guía de conservación en 3 pasos respaldada por la Specialty Coffee Association (SCA) y expertos para mantener el aroma y la frescura de su café. 🛡️",
+                "whyTitle": "¿Por qué almacenarlos así? Datos científicos",
+                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+                "guideTitle": "Guía de almacenamiento científicamente probada",
+                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+                "cautions": [
+                    {
+                        "title": "No guarde los granos de café en el refrigerador ⚠️",
+                        "desc": "El refrigerador tiene un alto nivel de humedad y olores de comida que la estructura porosa del café absorbe fácilmente. Además, sacarlo continuamente genera condensación de agua sobre los granos, destruyendo los aceites aromáticos y acelerando la oxidación."
+                    },
+                    {
+                        "title": "Evite recipientes transparentes expuestos a la luz solar directa ☀️",
+                        "desc": "La luz ultravioleta (UV) destruye los aceites esenciales del café, provocando rancidez y eliminando sus aromas florales y dulces. Utilice contenedores herméticos opacos que bloqueen la luz en lugar de frascos de vidrio transparentes."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Use un recipiente opaco y hermético con válvula desgasificadora — Bloquee el oxígeno y libere CO2 📦",
+                        "text": "El café tostado despide gas de forma natural; por ello, es indispensable contar con una bolsa o frasco con válvula desgasificadora que deje salir el dióxido de carbono sin permitir la entrada de oxígeno. 💡 Consejo de almacenamiento: Conservar en su bolsa de origen con válvula o en frascos opacos al vacío."
+                    },
+                    {
+                        "name": "Guarde en un lugar fresco y oscuro a 15–25 °C — Bloquee el calor y la luz directa 🌡️",
+                        "text": "Por cada aumento de 10 °C en la temperatura ambiental, la tasa de oxidación del café casi se duplica. 💡 Consejo de almacenamiento: Mantenga los recipientes alejados de la estufa, horno o ventanas expuestas al sol. Guárdelos en una alacena o despensa fresca (15–25 °C)."
+                    },
+                    {
+                        "name": "Porcione y congele para almacenamiento a largo plazo — Conservación (1 a 3 meses) ❄️",
+                        "text": "Si compró café en abundancia y no lo consumirá en 1 o 2 semanas, congelarlo en porciones pequeñas es la mejor alternativa. 💡 Consejo de almacenamiento: Selle las porciones en bolsas Ziploc e introdúzcalas en el congelador a menos de -18 °C. Nunca abra el empaque hasta que alcance la temperatura ambiente."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Cómo difiere el tiempo de conservación entre el café en grano y el café molido?",
+                        "answer": "El café molido incrementa la superficie expuesta al oxígeno cientos de veces, perdiendo sus matices aromáticos en cuestión de horas o días. Para disfrutar la máxima frescura, conserve el café en grano y muela solo la dosis que va a preparar."
+                    },
+                    {
+                        "question": "¿Cuál es el periodo óptimo de consumo para los granos de café tostados?",
+                        "answer": "Tras el tueste, el café pasa por un periodo de desgasificación de 2 a 3 días, alcanzando su punto cúspide de sabor durante las primeras 2 semanas. Almacenado a temperatura ambiente en recipiente hermético, se recomienda consumirlo dentro de 1 mes desde la fecha de tueste."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Comment conserver le café en grains frais : Guide scientifique de conservation",
+                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le café en grains selon les directives officielles de sécurité.",
+                "authority": "<strong>SCA & USDA</strong>",
+                "intro": "Avez-vous déjà acheté du café fraîchement torréfié pour constater après quelques jours qu'il avait perdu ses arômes riches et ne laissait qu'un goût amer ou plat ? ☕\n\nDès la fin de la torréfaction, le café dégaze du dioxyde de carbone tout en s'oxydant rapidement au contact de l'oxygène, de l'humidité, de la lumière et de la chaleur. Sa structure poreuse agit comme une éponge absorbant les odeurs environnantes ; ainsi, une bonne conservation est la clé de 90 % du goût en tasse.\n\nAujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes recommandé par la Specialty Coffee Association (SCA) et des experts torréfacteurs. 🛡️",
+                "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
+                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+                "guideTitle": "Guide de conservation scientifiquement prouvé",
+                "cautionTitle": "Règles essentielles et précautions de stockage",
+                "cautions": [
+                    {
+                        "title": "Ne conservez pas le café en grains au réfrigérateur ⚠️",
+                        "desc": "L'humidité élevée du réfrigérateur et les odeurs alimentaires sont absorbées par le grain. De plus, sortir le sachet du froid provoque une condensation d'eau sur les grains, détruisant les huiles aromatiques et précipitant l'oxydation."
+                    },
+                    {
+                        "title": "Évitez les récipients transparents exposés à la lumière directe ☀️",
+                        "desc": "Les rayons UV et la lumière dégradent les huiles essentielles en surface, altérant les arômes et provoquant le rancissement. Utilisez des boîtes hermétiques opaques plutôt que des bocaux en verre transparents."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Utiliser un récipient opaque et hermétique avec valve fraîcheur — Bloquer l'oxygène et évacuer le CO2 📦",
+                        "text": "Le café torréfié émettant du gaz, une valve unidirectionnelle est indispensable pour évacuer le CO2 sans laisser pénétrer l'oxygène. 💡 Astuce de conservation : Conservez le café dans son emballage d'origine à valve ou dans une boîte opaque sous vide."
+                    },
+                    {
+                        "name": "Garder dans un endroit frais et sombre (15 à 25 °C) — Bloquer la chaleur et la lumière 🌡️",
+                        "text": "Chaque augmentation de température de 10 °C double environ la vitesse d'oxydation du café. 💡 Astuce de conservation : Éloignez vos boîtes des plaques de cuisson, fours et rebords de fenêtre ensoleillés. Stockez-les dans un placard sombre à température ambiante stable (15 à 25 °C)."
+                    },
+                    {
+                        "name": "Portionner et congeler pour une conservation longue durée — Stockage congelé (1 à 3 mois) ❄️",
+                        "text": "Si vous disposez d'une grande quantité de grains que vous ne consommerez pas en 1 à 2 semaines, la congélation en portions est idéale. 💡 Astuce de conservation : Scellez des portions individuelles dans des sachets hermétiques au congélateur (-18 °C). Attendez le dégel complet avant d'ouvrir la boîte."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Quelle est la différence de durée de conservation entre le café en grains et le café moulu ?",
+                        "answer": "Le café moulu démultiplie la surface de contact avec l'air, entraînant une perte d'arômes majeure en quelques heures ou jours. Pour un expresso ou café filtre d'exception, conservez le café en grains et moulez-le juste avant l'extraction."
+                    },
+                    {
+                        "question": "Quelle est la période optimale de dégustation du café torréfié ?",
+                        "answer": "Le café nécessite 2 à 3 jours de dégazage après torréfaction, puis offre son pic d'arômes durant les 2 premières semaines. Conservez-le dans une boîte hermétique à température ambiante et consommez-le idéalement dans le mois suivant sa torréfaction."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Kaffeebohnen richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Kaffeebohnen basierend auf offiziellen Sicherheitsrichtlinien.",
+                "authority": "<strong>SCA & USDA</strong>",
+                "intro": "Haben Sie schon einmal frisch geröstete Kaffeebohnen gekauft, nur um nach wenigen Tagen festzustellen, dass das Aroma verflogen war und der Kaffee flach oder bitter schmeckte? ☕\n\nDirekt nach dem Rosten geben Kaffeebohnen Kohlendioxid ab und oxidieren bei Kontakt mit Sauerstoff, Feuchtigkeit, Licht und Wärme extrem schnell. Da die Bohnen eine poröse Struktur besitzen, nehmen sie Fremdgerüche und Feuchtigkeit wie ein Schwamm auf. Die richtige Lagerung ist daher entscheidend für den Geschmack.\n\nHeute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der von der Specialty Coffee Association (SCA) empfohlen wird. 🛡️",
+                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+                "cautions": [
+                    {
+                        "title": "Lagern Sie Kaffeebohnen nicht im Kühlschrank ⚠️",
+                        "desc": "Im Kühlschrank herrscht hohe Luftfeuchtigkeit, und Gerüche von Lebensmitteln ziehen in die Bohnen ein. Beim Entnehmen bildet sich zudem Kondenswasser auf den Bohnen, was die aromatischen Öle zerstört und rasche Oxidation auslöst."
+                    },
+                    {
+                        "title": "Vermeiden Sie transparente Behälter und direktes Sonnenlicht ☀️",
+                        "desc": "UV-Strahlung und Licht spalten die wertvollen Öle an der Oberfläche der Bohnen auf. Dies führt zu Ranzigkeit und zerstört feine Geschmacksnoten. Nutzen Sie lichtundurchlässige Dose statt Glasbehälter."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Blickdichten, luftdichten Behälter mit Einwegventil nutzen — Sauerstoff blockieren & CO2 abführen 📦",
+                        "text": "Frisch geröstete Bohnen gasen aus. Ein Einweg-Aromaventil lässt CO2 entweichen, ohne dass Sauerstoff eindringt. 💡 Lagerungstipp: Belassen Sie die Bohnen in der Ventiltüte oder nutzen Sie spezielle vakuumierte Edelstahldosen."
+                    },
+                    {
+                        "name": "Bei 15–25 °C kühl und dunkel lagern — Wärme und direktes Licht blockieren 🌡️",
+                        "text": "Mit jedem Temperaturanstieg um 10 °C verdoppelt sich die Oxidationsgeschwindigkeit der Kaffeebohnen. 💡 Lagerungstipp: Meiden Sie die Nähe von Herd, Backofen oder sonnigen Fensterbänken. Bewahren Sie die Dose in einem dunklen Küchenschrank auf."
+                    },
+                    {
+                        "name": "Für die Langzeitlagerung portionieren und einfrieren — Gefrierlagerung (1–3 Monate) ❄️",
+                        "text": "Können Sie eine größere Bohnenmenge nicht innerhalb von 1–2 Wochen verbrauchen, ist das Einfrieren in kleinen Portionen sinnvoll. 💡 Lagerungstipp: Frieren Sie Tagesportionen bei unter -18 °C ein. Öffnen Sie die Dose nach dem Entnehmen erst, wenn sie Raumtemperatur erreicht hat."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Wie unterscheidet sich die Haltbarkeit von ganzen Bohnen und gemahlenem Kaffee?",
+                        "answer": "Gemahlener Kaffee vergrößert die Oberfläche für Sauerstoff um das Hundertefache. Dadurch verfliegen die Aromen innerhalb weniger Stunden bis Tage. Mahlen Sie die Kaffeebohnen für vollendeten Genuss immer erst direkt vor dem Aufbrühen."
+                    },
+                    {
+                        "question": "Wann ist das optimale Geschmacksfenster für geröstete Kaffeebohnen?",
+                        "answer": "Nach dem Rosten benötigen die Bohnen 2–3 Tage zum Ausgasen. Die Blütezeit des Aromas liegt in den ersten 2 Wochen nach der Röstung. Bei kühler, luftdichter Lagerung sollten die Bohnen innerhalb von 1 Monat verbraucht werden."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Como conservar grãos de café frescos: Guia científico de armazenamento",
+                "description": "Descubra a temperatura, método e tempo de conservação ideais para grãos de café com base em diretrizes oficiais de segurança.",
+                "authority": "<strong>SCA & USDA</strong>",
+                "intro": "Você já comprou grãos de café recém-torrados e percebeu que em poucos dias eles perderam o aroma marcante e ficaram com gosto amargo ou choco? ☕\n\nA partir do momento em que são torrados, os grãos de café liberam dióxido de carbono e oxidam rapidamente ao entrar em contato com oxigênio, umidade, luz e calor. Por possuírem estrutura porosa, os grãos absorvem odores e umidade como uma esponja, tornando o armazenamento correto o fator decisivo para a qualidade da bebida.\n\nHoje, o FreshSnap apresenta um guia de conservação em 3 etapas recomendado pela Specialty Coffee Association (SCA) para manter o aroma e o sabor do seu café. 🛡️",
+                "whyTitle": "Por que armazenar assim? Fatos científicos",
+                "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+                "guideTitle": "Guia de armazenamento comprovado cientificamente",
+                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+                "cautions": [
+                    {
+                        "title": "Não guarde grãos de café na geladeira ⚠️",
+                        "desc": "A geladeira possui alta umidade e cheiros de comida que a estrutura porosa do café absorve facilmente. Além disso, as mudanças térmicas ao retirar o pote geram condensação, destruindo os óleos essenciais e acelerando a oxidação."
+                    },
+                    {
+                        "title": "Evite potes transparentes expostos à luz solar direta ☀️",
+                        "desc": "A luz solar e os raios UV decompõem os óleos aromáticos na superfície dos grãos, causando rancificação e eliminando o sabor adocicado. Utilize potes herméticos opacos em vez de jarras de vidro transparentes."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Use um recipiente opaco e hermético com válvula desgasificadora — Bloqueie oxigênio e libere CO2 📦",
+                        "text": "Grãos recém-torrados liberam gás; portanto, a embalagem precisa de uma válvula unidirecional que permita a saída do dióxido de carbono sem entrada de oxigênio. 💡 Dica de conservação: Mantenha na embalagem original de fábrica com válvula ou em potes opacos a vácuo."
+                    },
+                    {
+                        "name": "Guarde em local fresco e escuro a 15–25 °C — Bloqueie calor e luz direta 🌡️",
+                        "text": "Para cada aumento de 10 °C na temperatura, a velocidade de oxidação dos grãos de café dobra. 💡 Dica de conservação: Evite a proximidade com fogões, fornos ou janelas ensolaradas. Guarde o pote em um armário escuro com temperatura estável (15–25 °C)."
+                    },
+                    {
+                        "name": "Divida em porções e congele para armazenamento de longo prazo — Conservação (1 a 3 meses) ❄️",
+                        "text": "Se você comprou café em grande quantidade e não vai consumir em 1 ou 2 semanas, congelar em pequenas porções é uma excelente solução. 💡 Dica de conservação: Sele porções em sacos Ziploc no freezer (-18 °C) e espere atingir a temperatura ambiente antes de abrir o pote."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Qual a diferença no tempo de conservação entre o café em grãos e o café moído?",
+                        "answer": "O café moído aumenta a área exposta ao oxigênio em centenas de vezes, perdendo seus aromas em poucas horas ou dias. Para obter o máximo sabor, conserve o café em grãos e moa apenas a quantidade exata antes de preparar."
+                    },
+                    {
+                        "question": "Qual é o período ideal de consumo para grãos de café torrados?",
+                        "answer": "Após a torra, o café passa por 2 a 3 dias de desgasificação, atingindo o auge de aroma e sabor nas primeiras 2 semanas. Mantido em pote hermético à temperatura ambiente, recomenda-se consumir em até 1 mês a contar da data de torra."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Cara Menyimpan Biji Kopi agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk biji kopi berdasarkan pedoman keselamatan resmi.",
+                "authority": "<strong>SCA & USDA</strong>",
+                "intro": "Pernahkah Anda membeli biji kopi sangrai segar, tetapi hanya dalam beberapa hari aromanya yang kaya menghilang dan rasanya menjadi datar atau pahit? ☕\n\nSejak saat disangrai (roasting), biji kopi terus melepaskan karbon dioksida dan teroksidasi dengan cepat saat bersentuhan dengan oksigen, kelembapan, cahaya, dan panas. Struktur biji kopi yang berpori menyerap kelembapan dan bau di sekitarnya seperti spons, menjadikan metode penyimpanan faktor paling penting bagi cita rasa kopi.\n\nHari ini, FreshSnap membagikan panduan penyimpanan 3 langkah berbasis ilmiah yang direkomendasikan oleh Specialty Coffee Association (SCA) untuk menjaga kesegaran dan aroma kopi Anda. 🛡️",
+                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+                "cautions": [
+                    {
+                        "title": "Jangan menyimpan biji kopi di dalam kulkas ⚠️",
+                        "desc": "Kulkas memiliki tingkat kelembapan tinggi dan bau makanan yang mudah diserap oleh biji kopi. Selain itu, mengeluarkan wadah kopi dari kulkas memicu timbulnya embun (kondensasi) yang merusak minyak aromatik dan mempercepat pembusukan."
+                    },
+                    {
+                        "title": "Hindari wadah transparan yang terpapar sinar matahari langsung ☀️",
+                        "desc": "Sinar ultraviolet (UV) merusak minyak aromatik di permukaan biji kopi, memicu bau tengik dan merusak rasa manis alami kopi. Gunakan wadah kedap udara buram daripada toples kaca bening."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Gunakan wadah kedap udara buram dengan katup satu arah — Tahan Oksigen & Lepaskan CO2 📦",
+                        "text": "Biji kopi yang baru disangrai mengeluarkan gas; katup satu arah (one-way valve) sangat penting untuk mengeluarkan CO2 tanpa membiarkan oksigen masuk. 💡 Tips Penyimpanan: Simpan dalam kemasan asli berkatup atau pindahkan ke wadah kedap udara buram berkunci vakum."
+                    },
+                    {
+                        "name": "Simpan di tempat sejuk dan gelap pada suhu 15–25°C — Cegah Panas & Sinar Langsung 🌡️",
+                        "text": "Setiap kenaikan suhu 10°C, laju oksidasi biji kopi meningkat hampir dua kali lipat. 💡 Tips Penyimpanan: Jauhkan wadah dari kompor, oven, atau jendela yang terpapar sinar matahari. Simpan di dalam lemari dapur yang sejuk dan gelap (15–25°C)."
+                    },
+                    {
+                        "name": "Bagi menjadi beberapa porsi lalu bekukan untuk jangka panjang — Simpan Beku (1–3 Bulan) ❄️",
+                        "text": "Jika Anda memiliki stok biji kopi dalam jumlah banyak yang tidak habis dalam 1–2 minggu, membekukannya dalam porsi kecil adalah pilihan tepat. 💡 Tips Penyimpanan: Bungkus porsi harian dalam kantong Ziploc lalu bekukan di bawah -18°C. Tunggu hingga mencapai suhu ruang sebelum membuka wadah."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Apa perbedaan masa simpan antara biji kopi utuh (whole bean) dan kopi bubuk?",
+                        "answer": "Kopi bubuk meningkatkan luas permukaan yang terpapar oksigen hingga ratusan kali lipat, menyebabkan aroma hilang dalam hitungan jam atau hari. Untuk menyeduh kopi yang nikmat, simpan dalam bentuk biji utuh dan giling tepat sebelum diseduh."
+                    },
+                    {
+                        "question": "Kapan periode rasa terbaik (peak freshness) untuk biji kopi sangrai?",
+                        "answer": "Biji kopi membutuhkan waktu 2–3 hari untuk pelepasan gas (degassing) setelah disangrai, dan puncak aromanya terjadi dalam 2 minggu pertama. Jika disimpan pada suhu ruang dalam wadah kedap udara, disarankan untuk dikonsumsi dalam kurun waktu 1 bulan sejak tanggal sangrai."
+                    }
+                ]
+            }
+        }
+    }
+}

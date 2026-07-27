@@ -1,0 +1,406 @@
+{
+    "how-to-store-eggplant": {
+        "ingId": "eggplant",
+        "pubDate": "2026-04-10",
+        "updatedDate": "2026-04-10",
+        "heroImage": "/images/blog/eggplant_storage_hack.webp",
+        "locales": {
+            "ko": {
+                "title": "가지 신선하게 보관하는 법: 과학적 보관 가이드",
+                "description": "공인된 안전 가이드라인에 따른 가지의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+                "authority": "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>",
+                "intro": "사 온 지 며칠 지나지도 않았는데 가지 표면이 쭈글쭈글해지거나 속이 씨부터 검게 변해 버린 경험 다들 있으시죠? 🍆\n\n열대/아열대 작물인 가지는 추위에 매우 약하고 조직이 부드러워 온도 변화, 수분 손실, 그리고 에틸렌 가스에 매우 민감합니다. 일반 냉장실의 차가운 온도(0~4℃)에 그대로 노출되면 냉해(Chilling injury)를 입어 과육이 과도하게 무르고 씨앗 부위가 검게 변하며 쓴맛이 생깁니다.\n\n오늘 FreshSnap에서는 농업 및 식품 안전 전문가들이 권장하는 가지의 부드러운 식감과 신선도를 오래 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+                "guideTitle": "과학적으로 검증된 보관 가이드",
+                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+                "cautions": [
+                    {
+                        "title": "7℃ 이하의 찬 기운에 직접 노출시키지 마세요 (냉해 주의) ⚠️",
+                        "desc": "가지가 가장 좋아하는 적정 온도는 10~12℃입니다. 냉장고의 가장 차가운 곳이나 냉기가 직접 닿는 선반에 그냥 두면 피부 반점, 과육의 갈변, 쓴맛 증가 등 극심한 냉해 현상이 일어납니다."
+                    },
+                    {
+                        "title": "사과, 토마토 등 에틸렌 방출 과일/채소와 격리하세요 🍎",
+                        "desc": "가지는 에틸렌 가스에 민감하여 사과, 바나나, 토마토 등과 함께 보관하면 빠르게 과육이 무르고 씨가 검게 변하며 부패 속도가 급격히 빨라집니다."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "키친타월이나 신문지로 한 알씩 감싸기 — 수분 보호 및 냉기 완충 🧻",
+                        "text": "가지 표면의 수분 증발을 막으면서도 차가운 냉기가 직접 과피에 닿는 것을 방지하는 것이 핵심입니다. 💡 보관 팁: 물을 묻히지 않은 건조한 가지를 키친타월이나 신문지로 한 개씩 빈틈없이 감싸주세요."
+                    },
+                    {
+                        "name": "비닐봉지나 지퍼백에 담아 야채칸 보관하기 — 적정 저온 보관 (5~7일) 📦",
+                        "text": "종이로 감싼 가지를 밀폐 비닐봉지나 지퍼백에 넣고 봉지 입구를 가볍게 묶어주세요. 💡 보관 팁: 온도가 비교적 높고 일정한 냉장고 야채칸(또는 신선실, 8~10℃)에 보관하면 1주일간 보송하고 탱탱한 상태를 유지할 수 있습니다."
+                    },
+                    {
+                        "name": "살짝 조리(구우기/데치기) 후 냉동 보관하기 — 장기 보관 (1~3개월) ❄️",
+                        "text": "가지 생것을 그대로 냉동하면 얼음 결정이 세포벽을 파괴해 해동 후 물바다가 됩니다. 💡 보관 팁: 먹기 좋은 크기로 썰어 팬에 기름 없이 살짝 구우거나 살짝 데친 뒤, 물기를 빼고 식혀 1회분씩 소분하여 냉동실(-18℃ 이하)에 보관하세요."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "가지 속 씨앗 부위가 검게 변했는데 먹어도 되나요?",
+                        "answer": "수분 손실이나 냉해로 인해 가지 내부의 씨앗과 주변 과육이 갈색 또는 검게 변할 수 있습니다. 냄새가 시큼하거나 과육 전체가 물러서 진물이 나지 않는다면 변색된 씨앗 부분을 도려내고 가열 요리하여 드실 수 있습니다."
+                    },
+                    {
+                        "question": "가지를 상온에 보관해도 괜찮나요?",
+                        "answer": "가지의 최적 보관 온도가 10~12℃이므로 봄·가을의 서늘한 바람이 통하는 그늘진 상온에서는 2~3일간 보관할 수 있습니다. 하지만 여름철 고온 다습한 상온에서는 쉽게 시들고 부패하므로 키친타월에 싸서 냉장고 야채칸에 두는 것이 안전합니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "How to Keep Eggplants Fresh: Scientific Storage Guide",
+                "description": "Check the optimal storage temperature, method, and shelf life for eggplants based on official safety guidelines.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Have you ever bought fresh eggplants only to find their skins wrinkled or their flesh turned brown and seedy within just a few days? 🍆\n\nAs warm-climate produce, eggplants are extremely cold-sensitive, soft-textured, and hyper-responsive to temperature fluctuations, moisture loss, and ethylene gas. Storing raw eggplants at standard refrigerator temperatures (0–4°C) causes severe chilling injury, resulting in pitting, internal browning, soft texture, and a bitter taste.\n\nToday, FreshSnap introduces a scientifically proven 3-step eggplant storage guide recommended by agriculture and food safety experts to maximize freshness and tender texture. 🛡️",
+                "whyTitle": "Why Store Eggplants This Way? Scientific Facts",
+                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+                "guideTitle": "Scientifically Proven Storage Guide",
+                "cautionTitle": "Essential Storage Rules and Cautions",
+                "cautions": [
+                    {
+                        "title": "Do not expose directly to cold temperatures below 7°C (Prevent Chilling Injury) ⚠️",
+                        "desc": "The optimal storage temperature for eggplants is 10–12°C (50–54°F). Storing them in the coldest spots of a refrigerator causes surface pitting, internal discoloration, and increased bitterness due to chilling injury."
+                    },
+                    {
+                        "title": "Isolate from ethylene-producing fruits like apples and tomatoes 🍎",
+                        "desc": "Eggplants are highly sensitive to ethylene gas. Storing them near apples, bananas, or tomatoes causes rapid softening, internal browning, and accelerated decay."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Wrap individually with paper towels or newspaper — Retain Moisture & Cushion Cold Air 🧻",
+                        "text": "Preventing surface moisture evaporation while shielding the skin from direct cold draft is key. 💡 Storage Tip: Wrap each dry, unwashed eggplant tightly in a paper towel or sheet of newspaper."
+                    },
+                    {
+                        "name": "Place in a plastic bag and store in the crisper drawer — Optimal Cold Storage (5–7 Days) 📦",
+                        "text": "Put paper-wrapped eggplants inside a plastic bag or Ziploc and tie the opening loosely. 💡 Storage Tip: Store them in the crisper drawer (8–10°C / 46–50°F), where temperatures are milder and steady, keeping them fresh for up to a week."
+                    },
+                    {
+                        "name": "Lightly cook (roast or blanch) before freezing — Long-Term Storage (1–3 Months) ❄️",
+                        "text": "Freezing raw eggplants causes ice crystals to rupture cell walls, resulting in a soggy, waterlogged mess upon thawing. 💡 Storage Tip: Slice the eggplant, lightly sauté without oil or blanch briefly, let cool, and freeze in airtight single-serving portions (-18°C or below)."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Is it safe to eat eggplants if the seeds inside have turned black?",
+                        "answer": "Browning around the seeds is often caused by dehydration or chilling injury. As long as there is no sour odor, slime, or total mushiness, you can cut away the discolored seed area and cook the remaining flesh safely."
+                    },
+                    {
+                        "question": "Can eggplants be stored at room temperature?",
+                        "answer": "Since eggplants prefer 10–12°C, they can be kept at cool, shaded room temperatures for 2–3 days during mild seasons. However, in hot or humid summer weather, they wilts rapidly, so wrapping them in paper towels and placing them in the crisper drawer is safest."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "ナスを新鮮に保つ保存方法：科学的保管ガイド",
+                "description": "公的安全基準に基づくナスの最適な保存温度、保管方法、保存期間をご確認ください。",
+                "authority": "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>",
+                "intro": "買ってきたナスが数日経つと皮がシワシワになったり、切ってみたら種の部分が黒く変色していた経験はありませんか？🍆\n\n熱帯・亜熱帯原産のナスは寒さに極めて弱く、組織が繊細なため、温度変化や乾燥、エチレンガスに非常に敏感です。一般的な冷蔵室（0〜4℃）の冷気に直接晒されると低温障害を起こし、皮の凹み、果肉の褐変、エグみや苦味の増加を引き起こします。\n\n本日FreshSnapでは、農学および食品安全の専門家が推奨する、ナスのハリと鮮度を長持ちさせる3段階の科学的保存法をご紹介します。🛡️",
+                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+                "guideTitle": "科学的に検証された保存ガイド",
+                "cautionTitle": "保存時の必須ルールと注意事項",
+                "cautions": [
+                    {
+                        "title": "7℃以下の冷気に直接晒さないでください（低温障害に注意） ⚠️",
+                        "desc": "ナスが最も好む最適温度は10〜12℃です。冷蔵庫の冷気が直接当たる場所や低温すぎる場所に置くと、果肉の変色や傷み、苦味の発生など重度の低温障害が起こります。"
+                    },
+                    {
+                        "title": "リンゴやトマトなどエチレンを出す果物と隔離してください 🍎",
+                        "desc": "ナスはエチレンガスに敏感で、リンゴやバナナ、トマトなどと一緒に保存すると果肉が急速に軟化し、種が黒ずんで傷みやすくなります。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "キッチンペーパーや新聞紙で1本ずつ包む — 水分保護と冷気クッション 🧻",
+                        "text": "ナスの水分蒸発を防ぎつつ、冷気が皮に直接触れるのを防ぐのがポイントです。💡保存のコツ：水気をつけず乾いた状態のナスを、キッチンペーパーや新聞紙で1本ずつ隙間なく包んでください。"
+                    },
+                    {
+                        "name": "ポリ袋に入れて野菜室で保存する — 低温保存 (5〜7日間) 📦",
+                        "text": "紙で包んだナスをポリ袋やジッパーバッグに入れ、袋の口を軽く結びます。💡保存のコツ：比較的温度が高く安定している冷蔵庫の野菜室（8〜10℃）で保存すると、1週間程度ハリとツヤを維持できます。"
+                    },
+                    {
+                        "name": "軽く加熱（焼く・蒸す）してから冷凍保存する — 長期保存 (1〜3ヶ月間) ❄️",
+                        "text": "生のままナスを冷凍すると氷の結晶が細胞壁を壊し、解凍時に水っぽくベチャベチャになります。💡保存のコツ：食べやすい大きさに切り、油をひかずにフライパンで軽く焼くか蒸した後、冷まして1食分ずつ小分けにし、冷凍室（-18℃以下）で保存してください。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "ナスの種の部分が黒く変色していますが食べられますか？",
+                        "answer": "乾燥や低温障害により、ナス内部の種やその周辺が褐色〜黒色に変色することがあります。酸っぱいニオイがしたり全体がドロドロに傷んでいなければ、変色した部分を削り落として加熱調理すれば安全に召し上がれます。"
+                    },
+                    {
+                        "question": "ナスは常温で保存しても大丈夫ですか？",
+                        "answer": "ナスの適温は10〜12℃のため、春や秋の風通しの良い涼しい日の当らない場所であれば2〜3日間常温保存可能です。ただし、夏の高温多湿な環境では急速にしおれて傷むため、キッチンペーパーに包んで野菜室に入れるのが安全です。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "如何保持茄子新鲜：科学储存指南",
+                "description": "根据官方食品安全指南，了解茄子的最佳储存温度、方式和保鲜时长。",
+                "authority": "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "intro": "您是否遇到过买回家的茄子没放几天表皮就起皱，切开后内部黑籽发干、果肉变褐的情况？🍆\n\n茄子原产于热带及亚热带，属于极度怕冷且组织娇嫩的蔬菜，对温度变化、水分流失及乙烯气体非常敏感。如果直接暴露在普通冰箱冷藏室（0~4℃）的低温冷气中，会发生严重冷害（Chilling injury），导致表皮凹陷、果肉变褐发苦、迅速软烂。\n\n今天FreshSnap将为您介绍由农业及食品安全专家推荐的3步科学茄子保鲜秘诀，帮您长久保持茄子的鲜嫩与口感。🛡️",
+                "whyTitle": "为什么要这样储存？科学原理",
+                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+                "guideTitle": "科学验证的储存指南",
+                "cautionTitle": "储存必需规则及注意事项",
+                "cautions": [
+                    {
+                        "title": "切勿直接暴露于7℃以下的冷气中（注意防冷害） ⚠️",
+                        "desc": "茄子最适宜的存放温度为10~12℃。将其置于冰箱过冷处或冷气直吹处，会导致表皮斑痕、果肉变褐、苦味增加等严重冷害现象。"
+                    },
+                    {
+                        "title": "请与苹果、西红柿等释放乙烯的水果隔离 🍎",
+                        "desc": "茄子对乙烯气体高度敏感。若与苹果、香蕉、西红柿等混放，会加速茄子果肉变软、籽发黑并迅速腐烂。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "用厨房纸巾或报纸逐个包裹 — 锁水防干与冷气缓冲 🧻",
+                        "text": "既要防止茄子表皮水分蒸发，又要避免冷气直接接触表皮，包裹是关键。💡储存小贴士：保持茄子干燥无水，用厨房纸巾或报纸将每根茄子紧密包裹好。"
+                    },
+                    {
+                        "name": "装入保鲜袋放入蔬菜抽屉 — 适温冷藏 (5~7天) 📦",
+                        "text": "将纸巾包好的茄子放入塑料保鲜袋或拉链袋中，松松地系紧袋口。💡储存小贴士：存放在温度相对较高且稳定的冰箱蔬菜抽屉（8~10℃）中，可保鲜长达一周。"
+                    },
+                    {
+                        "name": "加热熟化（煎熟/焯水）后冷冻 — 长期保存 (1~3个月) ❄️",
+                        "text": "生茄子直接冷冻会导致冰晶破坏细胞壁，解冻后会严重出水变粘。💡储存小贴士：切成适口块状，干锅无油轻煎或短暂焯水，晾凉后按单次用量分装冷冻（-18℃以下）。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "茄子切开后发现里面的籽变黑了，还能吃吗？",
+                        "answer": "水分流失或受冷害会导致茄子内部的籽粒变褐发黑。只要没有酸臭味、粘液或整体软烂，切除发黑的籽粒部分后，经高温烹饪仍可安全食用。"
+                    },
+                    {
+                        "question": "茄子可以保存在常温下吗？",
+                        "answer": "茄子的最佳适温为10~12℃，在春秋季节阴凉通风的常温下可保存2~3天。但在夏季高温潮湿的环境下极易蔫萎腐烂，因此用纸巾包裹后放入冰箱蔬菜抽屉存放更为保险。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cómo mantener las berenjenas frescas: Guía científica de conservación",
+                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para las berenjenas según las directrices oficiales de seguridad.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "¿Alguna vez compró berenjenas frescas solo para ver que en pocos días la piel se arrugaba o el interior se ponía marrón y lleno de semillas oscuras? 🍆\n\nAl ser un cultivo de clima cálido, la berenjena es muy sensible al frío, suave en textura y extremadamente reactiva a los cambios de temperatura, la pérdida de humedad y el gas etileno. Guardar berenjenas crudas en un refrigerador común (0–4 °C) provoca un grave daño por frío (chilling injury), con manchas, oscurecimiento interno y sabor amargo.\n\nHoy, FreshSnap presenta una guía de conservación en 3 pasos respaldada por expertos agrícolas y de seguridad alimentaria para mantener la frescura de sus berenjenas. 🛡️",
+                "whyTitle": "¿Por qué almacenarla así? Datos científicos",
+                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+                "guideTitle": "Guía de almacenamiento científicamente probada",
+                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+                "cautions": [
+                    {
+                        "title": "No exponga la berenjena directamente a temperaturas inferiores a 7 °C (Evite el daño por frío) ⚠️",
+                        "desc": "La temperatura óptima de almacenamiento para la berenjena es de 10 a 12 °C. Guardarla en las zonas más frías del refrigerador produce picaduras en la piel, decoloración interna y sabor amargo."
+                    },
+                    {
+                        "title": "Aíslela de frutas que emiten etileno como manzanas y tomates 🍎",
+                        "desc": "Las berenjenas son hipersensibles al gas etileno. Almacenarlas cerca de manzanas, plátanos o tomates provoca un ablandamiento acelerado y pudrición."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Envuelva individualmente con papel de cocina o periódico — Retenga la humedad y amortigüe el frío 🧻",
+                        "text": "Evitar la evaporación del agua superficial y proteger la piel del aire frío directo es vital. 💡 Consejo de almacenamiento: Envuelva cada berenjena seca y sin lavar en una hoja de papel de cocina o periódico."
+                    },
+                    {
+                        "name": "Guarde en una bolsa de plástico en el cajón de verduras — Conservación refrigerada (5 a 7 días) 📦",
+                        "text": "Coloque las berenjenas envueltas dentro de una bolsa plástica o Ziploc y cierre ligeramente. 💡 Consejo de almacenamiento: Mantenga en el cajón de verduras del refrigerador (8-10 °C), donde la temperatura es constante."
+                    },
+                    {
+                        "name": "Cocine ligeramente (asar o escaldar) antes de congelar — Conservación (1 a 3 meses) ❄️",
+                        "text": "Congelar berenjenas crudas rompe las paredes celulares debido a los cristales de hielo, volviéndolas viscosas al descongelar. 💡 Consejo de almacenamiento: Córtelas en trozos, saltéelas sin aceite o escáldelas brevemente, déjelas enfriar y congélelas en porciones."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Es seguro comer la berenjena si las semillas internas se volvieron oscuras?",
+                        "answer": "El oscurecimiento de las semillas ocurre por deshidratación o daño por frío. Mientras no haya mal olor, mucosidad o pudrición blanda, puede cortar la zona afectada con semillas y cocinar la pulpa restante de manera segura."
+                    },
+                    {
+                        "question": "¿Se pueden almacenar las berenjenas a temperatura ambiente?",
+                        "answer": "Dado que prefieren entre 10 y 12 °C, pueden conservarse a temperatura ambiente fresca y a la sombra durante 2 o 3 días en épocas templadas. En verano, se marchitan rápido, por lo que envolve en papel y guardar en el cajón de verduras es lo idóneo."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Comment conserver les aubergines fraîches : Guide scientifique de conservation",
+                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les aubergines selon les directives officielles de sécurité.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Avez-vous déjà acheté des aubergines bien fraîches pour constater en quelques jours que leur peau flétrissait et que leur chair devenait marron et pleine de pépins noirs ? 🍆\n\nLégume issu de climats chauds, l'aubergine est très sensible au froid, possède une chair délicate et réagit fortement aux écarts de température, à la perte d'eau et au gaz éthylène. Placer des aubergines crues au réfrigérateur (0 à 4 °C) provoque des dégâts dus au froid (chilling injury) : taches noires, chair amère et ramollissement rapide.\n\nAujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes recommandé par des experts pour préserver la fraîcheur de vos aubergines. 🛡️",
+                "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
+                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+                "guideTitle": "Guide de conservation scientifiquement prouvé",
+                "cautionTitle": "Règles essentielles et précautions de stockage",
+                "cautions": [
+                    {
+                        "title": "Ne l'exposez pas directement à des températures inférieures à 7 °C (Attention au froid) ⚠️",
+                        "desc": "La température idéale de stockage pour l'aubergine se situe entre 10 et 12 °C. La placer dans les zones les plus froides du réfrigérateur provoque des altérations de la peau et un goût amer désagréable."
+                    },
+                    {
+                        "title": "Éloignez-la des fruits émetteurs d'éthylène comme les pommes et tomates 🍎",
+                        "desc": "L'aubergine est très sensible au gaz éthylène. La conserver près de pommes, bananes ou tomates accélère son ramollissement et son pourrissement."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Envelopper individuellement dans du papier essuie-tout ou journal — Préserver l'humidité 🧻",
+                        "text": "L'objectif est d'éviter l'évaporation de l'eau tout en protégeant la peau de l'air froid direct. 💡 Astuce de conservation : Enveloppez chaque aubergine sèche et non lavée dans une feuille de papier essuie-tout ou du papier journal."
+                    },
+                    {
+                        "name": "Placer dans un sachet et conserver dans le bac à légumes — Stockage frais (5 à 7 jours) 📦",
+                        "text": "Mettez les aubergines enveloppées dans un sachet plastique ou un sac congélation sans trop serrer. 💡 Astuce de conservation : Conservez-les dans le bac à légumes du réfrigérateur (8–10 °C) où la température est plus douce."
+                    },
+                    {
+                        "name": "Cuire légèrement (poêler ou blanchir) avant de congeler — Conservation longue durée (1 à 3 mois) ❄️",
+                        "text": "Congeler une aubergine crue détruit ses parois cellulaires ; à la décongélation, elle devient spongieuse et détrempée. 💡 Astuce de conservation : Coupez-la en morceaux, poêlez-la rapidement sans matière grasse ou blanchissez-la, laissez refroidir et congelez en portions."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Peut-on consommer une aubergine dont les pépins ont noirci ?",
+                        "answer": "Le noircissement des pépins résulte souvent de la déshydratation ou du froid. Tant qu'il n'y a pas d'odeur sûre, de moisissure ou de ramollissement complet, vous pouvez retirer la zone piquetée et cuisiner le reste."
+                    },
+                    {
+                        "question": "Peut-on conserver les aubergines à température ambiante ?",
+                        "answer": "L'aubergine préférant des températures entre 10 et 12 °C, elle peut être conservée à température ambiante fraîche et à l'ombre pendant 2 à 3 jours lors des saisons douces. En été, il vaut mieux l'envelopper dans du papier et la mettre au bac à légumes."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Auberginen richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Auberginen basierend auf offiziellen Sicherheitsrichtlinien.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Haben Sie schon einmal Auberginen gekauft, nur um nach wenigen Tagen festzustellen, dass die Haut schrumpelig und das Innere braun mit dunklen Samen war? 🍆\n\nAls wärmeliebendes Gemüse reagiert die Aubergine extrem kälteempfindlich. Sie besitzt eine weiche Gewebestruktur und reagiert sensibel auf Temperaturschwankungen, Feuchtigkeitsverlust und Ethylengas. Werden rohe Auberginen bei normalen Kühlschranktemperaturen (0–4 °C) gelagert, erleiden sie Kälteschäden (Chilling Injury), was zu Flecken, braunem Fruchtfleisch und bitterem Geschmack führt.\n\nHeute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um Ihre Auberginen perfekt frisch zu halten. 🛡️",
+                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+                "cautions": [
+                    {
+                        "title": "Nicht direkt Kälte unter 7 °C aussetzen (Kälteschaden vermeiden) ⚠️",
+                        "desc": "Die optimale Lagertemperatur für Auberginen liegt bei 10–12 °C. Die Lagerung an sehr kalten Orten im Kühlschrank führt zu braunen Verfärbungen im Fruchtfleisch, Dellen in der Schale und Bitterkeit."
+                    },
+                    {
+                        "title": "Von ethylenabgebendem Obst wie Äpfeln und Tomaten isolieren 🍎",
+                        "desc": "Auberginen reagieren empfindlich auf Ethylengas. Die Lagerung neben Äpfeln, Bananen oder Tomaten führt zu schnellem Erweichen und beschleunigtem Verderb."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Einzeln in Küchenpapier oder Zeitungspapier wickeln — Feuchtigkeitsschutz & Kältekissen 🧻",
+                        "text": "Entscheidend ist, Verdunstung an der Schale zu verhindern und sie gleichzeitig vor direkter Kaltluft zu schützen. 💡 Lagerungstipp: Wickeln Sie jede ungewaschene, trockene Aubergine einzeln in Küchenpapier ein."
+                    },
+                    {
+                        "name": "In einen Plastikbeutel geben und im Gemüsefach lagern — Kühllagerung (5–7 Tage) 📦",
+                        "text": "Legen Sie die eingewickelten Auberginen in einen Plastikbeutel und verschließen Sie diesen locker. 💡 Lagerungstipp: Bewahren Sie sie im Gemüsefach des Kühlschranks (8–10 °C) auf, wo mildere Temperaturen herrschen."
+                    },
+                    {
+                        "name": "Vor dem Einfrieren leicht anbraten oder blanchieren — Gefrierlagerung (1–3 Monate) ❄️",
+                        "text": "Das Einfrieren roher Auberginen zerstört durch Eiskristalle die Zellwände, sodass sie nach dem Auftauen wässrig werden. 💡 Lagerungstipp: In Stücke schneiden, kurz ohne Öl anbraten oder blanchieren, abkühlen lassen und einfrieren."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Kann man Auberginen noch essen, wenn die Samen im Inneren schwarz geworden sind?",
+                        "answer": "Braune Samen entstehen meist durch Austrocknung oder Kälteschäden. Solange kein saurer Geruch, Schleim oder vollkommenes Verfaulen vorliegt, können Sie den verfärbten Samenbereich abschneiden und das restliche Fruchtfleisch zubereiten."
+                    },
+                    {
+                        "question": "Kann man Auberginen bei Raumtemperatur lagern?",
+                        "answer": "Da Auberginen Temperaturen von 10–12 °C bevorzugen, können sie bei mildem Wetter 2–3 Tage an einem kühlen, schattigen Ort gelagert werden. Im heißen Sommer welken sie jedoch schnell, weshalb das Gemüsefach im Kühlschrank sicherer ist."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Como conservar berinjela fresca: Guia científico de armazenamento",
+                "description": "Descubra a temperatura, método e tempo de conservação ideais para a berinjela com base em diretrizes oficiais de segurança.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Você já comprou berinjelas frescas e percebeu que em poucos dias a casca murchou e o interior ficou escuro com sementes pretas? 🍆\n\nPor ser um vegetal de clima quente, a berinjela é extremamente sensível ao frio, possui polpa macia e reage fortemente a oscilações de temperatura, perda de umidade e ao gás etileno. Guardar berinjelas cruas em geladeiras comuns (0–4 °C) causa sérios danos por frio (chilling injury), tornando a casca manchada e a polpa amarga.\n\nHoje, o FreshSnap apresenta um guia prático em 3 etapas recomendado por especialistas para manter suas berinjelas frescas por mais tempo. 🛡️",
+                "whyTitle": "Por que armazenar assim? Fatos científicos",
+                "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+                "guideTitle": "Guia de armazenamento comprovado cientificamente",
+                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+                "cautions": [
+                    {
+                        "title": "Não exponha diretamente a temperaturas abaixo de 7 °C (Evite danos por frio) ⚠️",
+                        "desc": "A temperatura ideal para conservar a berinjela é de 10 a 12 °C. Armazenar nas áreas mais frias da geladeira gera manchas na casca, escurecimento da polpa e sabor amargo."
+                    },
+                    {
+                        "title": "Isole de frutas que emitem etileno, como maçãs e tomates 🍎",
+                        "desc": "A berinjela é muito sensível ao gás etileno. Guardá-la perto de maçãs, bananas ou tomates acelera o amolecimento e o apodrecimento."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Embrulhe individualmente em papel-toalha ou jornal — Proteção contra perda de umidade e frio 🧻",
+                        "text": "Evitar a evaporação de água na casca e protegê-la do ar frio direto é essencial. 💡 Dica de conservação: Envolva cada berinjela seca e sem lavar em uma folha de papel-toalha ou jornal."
+                    },
+                    {
+                        "name": "Guarde em um saco plástico na gaveta de legumes — Refrigeração adequada (5 a 7 dias) 📦",
+                        "text": "Coloque as berinjelas embrulhadas em um saco plástico sem fechar totalmente. 💡 Dica de conservação: Mantenha na gaveta de legumes da geladeira (8–10 °C), onde as temperaturas são mais amenas."
+                    },
+                    {
+                        "name": "Cozinhe levemente (grelhe ou esfervente) antes de congelar — Conservação (1 a 3 meses) ❄️",
+                        "text": "Congelar a berinjela crua destrói as paredes celulares, deixando-a empapada ao descongelar. 💡 Dica de conservação: Corte em cubos, grelhe rapidamente sem óleo ou afervente, espere esfriar e congele em porções."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "É seguro comer berinjela se as sementes por dentro estiverem pretas?",
+                        "answer": "O escurecimento das sementes ocorre devido à desidratação ou danos por frio. Se não houver cheiro azedo, viscosidade ou podridão mole, você pode cortar a parte com sementes e cozinhar a polpa restante com segurança."
+                    },
+                    {
+                        "question": "A berinjela pode ser guardada em temperatura ambiente?",
+                        "answer": "Como prefere temperaturas entre 10 e 12 °C, a berinjela pode ficar em local fresco e à sombra por 2 a 3 dias durante estações amenas. No verão quente, murcha rapidamente, sendo melhor guardar embrulhada em papel na gaveta de legumes."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Cara Menyimpan Terong agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk terong berdasarkan pedoman keselamatan resmi.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Pernahkah Anda membeli terong segar lalu mendapati kulitnya keriput atau bagian dalamnya berubah kecokelatan dengan biji hitam hanya dalam beberapa hari? 🍆\n\nSebagai tanaman iklim hangat, terong sangat sensitif terhadap suhu dingin, memiliki tekstur empuk, serta sangat reaktif terhadap perubahan suhu, kehilangan kelembapan, dan gas etilen. Menyimpan terong mentah pada suhu kulkas standar (0–4°C) menyebabkan kerusakan akibat suhu dingin (chilling injury) yang membuat daging buah menjadi pahit dan kecokelatan.\n\nHari ini, FreshSnap membagikan panduan penyimpanan 3 langkah berbasis ilmiah yang direkomendasikan oleh ahli pertanian untuk menjaga kesegaran terong Anda. 🛡️",
+                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+                "cautions": [
+                    {
+                        "title": "Jangan paparkan langsung pada suhu dingin di bawah 7°C (Cegah Chilling Injury) ⚠️",
+                        "desc": "Suhu penyimpanan optimal untuk terong adalah 10–12°C. Menyimpannya di bagian kulkas yang paling dingin menyebabkan bercak pada kulit, perubahan warna daging buah, dan rasa pahit."
+                    },
+                    {
+                        "title": "Pisahkan dari buah penghasil etilen seperti apel dan tomat 🍎",
+                        "desc": "Terong sangat sensitif terhadap gas etilen. Menyimpannya di dekat apel, pisang, atau tomat menyebabkan terong cepat lembek dan mempercepat pembusukan."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Bungkus satu per satu dengan tisu dapur atau koran — Jaga Kelembapan & Tahan Udara Dingin 🧻",
+                        "text": "Mencegah penguapan air sekaligus melindungi kulit terong dari udara dingin langsung adalah kunci utama. 💡 Tips Penyimpanan: Bungkus setiap terong kering yang belum dicuci dengan tisu dapur atau kertas koran."
+                    },
+                    {
+                        "name": "Masukkan ke kantong plastik lalu simpan di laci sayur — Simpan Dingin (5–7 Hari) 📦",
+                        "text": "Masukkan terong yang sudah dibungkus ke dalam kantong plastik tanpa diikat terlalu rapat. 💡 Tips Penyimpanan: Simpan di laci sayur kulkas (8–10°C) di mana suhunya relatif stabil dan tidak terlalu dingin."
+                    },
+                    {
+                        "name": "Masak sebentar (panggang atau rebus singkat) sebelum dibekukan — Simpan Beku (1–3 Bulan) ❄️",
+                        "text": "Membekukan terong mentah membuat kristal es merusak dinding selnya, menjadikannya lembek berair saat dicairkan. 💡 Tips Penyimpanan: Potong terong, panggang tanpa minyak atau rebus sebentar, dinginkan, lalu bekukan dalam porsi sekali makan."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Apakah aman mengonsumsi terong jika biji di dalamnya sudah menghitam?",
+                        "answer": "Biji yang berubah warna menjadi cokelat/hitam terjadi akibat dehidrasi atau suhu yang terlalu dingin. Selama tidak berbau asam, berlendir, atau lembek membusuk, Anda dapat memotong bagian biji tersebut dan memasak bagian daging buah sisanya."
+                    },
+                    {
+                        "question": "Bolehkah terong disimpan pada suhu ruang?",
+                        "answer": "Karena terong menyukai suhu 10–12°C, terong dapat disimpan pada suhu ruang yang sejuk dan teduh selama 2–3 hari saat cuaca tidak terlalu panas. Namun saat cuaca panas, terong cepat layu sehingga membungkusnya dengan tisu dan menyimpannya di laci sayur kulkas adalah cara aman."
+                    }
+                ]
+            }
+        }
+    }
+}

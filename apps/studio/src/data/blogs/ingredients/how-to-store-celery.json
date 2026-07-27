@@ -1,0 +1,406 @@
+{
+    "how-to-store-celery": {
+        "ingId": "celery",
+        "pubDate": "2026-05-02",
+        "updatedDate": "2026-05-02",
+        "heroImage": "/images/blog/celery_storage_hack.webp",
+        "locales": {
+            "ko": {
+                "title": "셀러리 신선하게 보관하는 법: 과학적 보관 가이드",
+                "description": "공인된 안전 가이드라인에 따른 셀러리의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+                "authority": "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>",
+                "intro": "아삭한 식감의 셀러리를 사 왔는데 며칠 지나지 않아 줄기가 힘없이 늘어지고 수분이 빠져 푸석해진 경험 다들 있으시죠? 🥬\n\n셀러리는 수분 함량이 95%에 달해 수분 손실에 매우 약하며, 보관 방식에 따라 신선도 차이가 극명하게 나는 대표적인 채소입니다. 비닐 봉지째 그대로 보관하면 자체 방출되는 에틸렌 가스와 갇힌 습기 때문에 쉽게 무르고 부패하게 됩니다.\n\n오늘 FreshSnap에서는 농업 및 식품 안전 전문가들이 권장하는 셀러리의 수분과 아삭한 식감을 최대 4주 동안 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+                "guideTitle": "과학적으로 검증된 보관 가이드",
+                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+                "cautions": [
+                    {
+                        "title": "밀폐 비닐봉지에 그냥 담아 보관하지 마세요 ⚠️",
+                        "desc": "밀폐된 비닐봉지는 셀러리에서 나오는 에틸렌 가스와 습기를 가두어 줄기를 빠르게 무르게 만들고 곰팡이를 유발합니다. 공기 순환이 일부 가능하면서 수분을 지켜주는 알루미늄 호일을 사용하는 것이 훨씬 효과적입니다."
+                    },
+                    {
+                        "title": "생셀러리를 그대로 냉동 보관하지 마세요 🧊",
+                        "desc": "수분 함량이 높은 셀러리를 그냥 냉동하면 얼음 결정이 세포벽을 파괴해 해동 후 스펀지처럼 변하고 질겨집니다. 냉동 보관 시에는 반드시 끓는 물에 살짝 데친(블랜칭) 후 보관해야 합니다."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "줄기와 잎 분리하여 보관하기 — 수분 증발 차단 ✂️",
+                        "text": "셀러리의 잎은 줄기의 수분을 빠르게 흡수하여 매출시킵니다. 💡 보관 팁: 구매 후 바로 줄기와 잎을 칼로 분리해 주세요. 잎은 키친타월에 싸서 따로 보관하고, 줄기는 보관 용기 길이에 맞게 손질합니다."
+                    },
+                    {
+                        "name": "알루미늄 호일로 빈틈없이 감싸기 — 에틸렌 배출 및 수분 보호 📦",
+                        "text": "알루미늄 호일은 적절한 수분을 유지해 주면서도 에틸렌 가스가 빠져나갈 수 있는 유연한 미세 구조를 제공합니다. 💡 보관 팁: 물을 묻히지 않은 건조한 셀러리 줄기를 알루미늄 호일로 빈틈없이 감싸주세요."
+                    },
+                    {
+                        "name": "0~4℃ 저온 냉장 보관하기 — 냉장 보관 (14~30일) ❄️",
+                        "text": "호일로 감싼 셀러리는 냉장고 야채칸이나 신선실에 보관할 때 신선도가 가장 길게 유지됩니다. 💡 보관 팁: 0~4℃의 냉장고 야채칸에 보관하면 수분이 빠져나가지 않고 2~4주 이상 아삭아삭함을 그대로 유지할 수 있습니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "시든 셀러리를 다시 아삭하게 되살리는 방법이 있나요?",
+                        "answer": "줄기 끝부분(밑동)을 1cm 정도 자른 뒤, 차가운 얼음물에 30분~1시간 동안 담가두면 삼투압 작용으로 수분을 급격히 재흡수하여 다시 아삭해집니다."
+                    },
+                    {
+                        "question": "셀러리 잎은 어떻게 활용해야 하나요?",
+                        "answer": "셀러리 잎에는 영양소가 풍부하므로 버리지 말고 키친타월에 싸서 냉장 보관한 뒤, 육수를 낼 때 넣거나 페스토, 샐러드, 볶음 요리의 향신 채소로 활용하시면 좋습니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "How to Keep Celery Fresh: Scientific Storage Guide",
+                "description": "Check the optimal storage temperature, method, and shelf life for celery based on official safety guidelines.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Have you ever bought crisp celery only to find it limp, rubbery, or dried out after just a few days in the fridge? 🥬\n\nCelery is composed of nearly 95% water, making it extremely vulnerable to moisture loss and wilting. Storing celery in tight plastic bags traps ethylene gas and excessive humidity, causing it to spoil and become soft prematurely.\n\nToday, FreshSnap introduces a scientifically proven 3-step celery storage guide recommended by agriculture and food safety experts to maximize crispness for up to 4 weeks. 🛡️",
+                "whyTitle": "Why Store Celery This Way? Scientific Facts",
+                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+                "guideTitle": "Scientifically Proven Storage Guide",
+                "cautionTitle": "Essential Storage Rules and Cautions",
+                "cautions": [
+                    {
+                        "title": "Do not store celery in sealed plastic bags ⚠️",
+                        "desc": "Sealed plastic bags trap moisture and naturally emitted ethylene gas, accelerating decay and mold growth. Using aluminum foil allows ethylene to dissipate while retaining optimal humidity."
+                    },
+                    {
+                        "title": "Never freeze raw celery whole without blanching 🧊",
+                        "desc": "Because of its high water content, freezing raw celery forms ice crystals that break down cell walls, rendering it mushy upon thawing. Always blanch celery briefly in boiling water before freezing."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Separate leaves from stalks — Prevent Moisture Loss ✂️",
+                        "text": "Celery leaves continuously draw moisture away from the stalks, causing them to wilt faster. 💡 Storage Tip: Cut the leaves off the stalks immediately after buying. Store leaves separately wrapped in paper towels and keep the stalks whole or cut to fit your storage container."
+                    },
+                    {
+                        "name": "Wrap tightly in aluminum foil — Moisture Barrier & Ethylene Release 📦",
+                        "text": "Aluminum foil traps humidity to keep stalks crisp while allowing ethylene gas to escape. 💡 Storage Tip: Wrap dry, unwashed celery stalks snugly in aluminum foil without leaving large openings."
+                    },
+                    {
+                        "name": "Refrigerate at 0–4°C — Cold Storage (14–30 Days) ❄️",
+                        "text": "Cold temperatures slow down respiration and prevent dehydration. 💡 Storage Tip: Place foil-wrapped celery in the refrigerator crisper drawer at 0–4°C (32–39°F). This keeps celery crisp and hydrating for 2 to 4 weeks."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Is there a way to revive limp, wilted celery?",
+                        "answer": "Trim about 1 cm off the bottom stem base and submerge the stalk ends in a jar of ice water for 30 to 60 minutes. Through osmotic action, the celery will reabsorb water and regain its crisp crunch."
+                    },
+                    {
+                        "question": "How should celery leaves be stored and used?",
+                        "answer": "Celery leaves are packed with nutrients and flavor. Wrap dry leaves in paper towels, store them in a Ziploc bag in the fridge, and use them for flavoring soups, stocks, pestos, or salads."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "セロリを新鮮に保つ保存方法：科学的保管ガイド",
+                "description": "公的安全基準に基づくセロリの最適な保存温度、保管方法、保存期間をご確認ください。",
+                "authority": "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>",
+                "intro": "シャキシャキのセロリを買ってきたのに、数日経つと茎がしなしなに萎びて水分が抜けてしまった経験はありませんか？🥬\n\nセロリは水分含有量が約95%と非常に高いため乾燥に弱く、保存方法によって鮮度が大きく変わる野菜です。ポリ袋に入れたまま密閉して保存すると、放出されるエチレンガスと閉じ込められた湿気で傷みやすくなります。\n\n本日FreshSnapでは、農学および食品安全の専門家が推奨する、セロリのシャキシャキ感を最大4週間キープする3段階の科学的保存法をご紹介します。🛡️",
+                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+                "guideTitle": "科学的に検証された保存ガイド",
+                "cautionTitle": "保存時の必須ルールと注意事項",
+                "cautions": [
+                    {
+                        "title": "密閉したポリ袋に入れたまま保存しないでください ⚠️",
+                        "desc": "密閉ポリ袋はセロリから出るエチレンガスと湿気を閉じ込め、茎を急速に傷ませカビの原因になります。適度な水分を保ちながらガスを逃がすアルミホイルでの保存が極めて効果的です。"
+                    },
+                    {
+                        "title": "生のままセロリを冷凍保存しないでください 🧊",
+                        "desc": "水分が多いセロリを生のまま冷凍すると、氷の結晶が細胞壁を破壊し、解凍後にスカスカで水っぽくなります。冷凍する場合は、必ず沸騰したお湯で軽くブリーチング（加熱処理）してから保存してください。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "茎と葉を分けて保存する — 水分蒸発の防止 ✂️",
+                        "text": "セロリの葉は茎から水分をどんどん吸い上げて萎びさせます。💡保存のコツ：購入後すぐに包丁で茎と葉を切り離してください。葉はキッチンペーパーに包んで別に保存します。"
+                    },
+                    {
+                        "name": "アルミホイルで隙間なく包む — エチレン放出と保湿 📦",
+                        "text": "アルミホイルは適切な湿度を保ちつつ、エチレンガスを外に逃がす優れた構造を持っています。💡保存のコツ：水気をつけず乾いた状態のセロリの茎をアルミホイルでぴったり包んでください。"
+                    },
+                    {
+                        "name": "0〜4℃の低温で冷蔵保存する — 冷蔵保存 (14〜30日間) ❄️",
+                        "text": "ホイルで包んだセロリは、冷蔵庫の野菜室で最も長持ちします。💡保存のコツ：0〜4℃の野菜室（鮮度保持室）で保存すると、水分が抜けず2〜4週間以上シャキシャキ感を保持できます。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "萎びたセロリを再びシャキシャキに復活させる方法はありますか？",
+                        "answer": "茎の根本を1cmほど切り落とし、氷水を入れた容器に30分〜1時間ほど挿しておくと、浸透圧作用で水分を吸収しシャキシャキ感が復活します。"
+                    },
+                    {
+                        "question": "セロリの葉はどのように活用すればいいですか？",
+                        "answer": "セロリの葉には栄養が豊富に含まれています。捨てずにキッチンペーパーで包んで冷蔵保存し、スープのだし取りやスープ、スープペースト、炒め物の薬味として活用してください。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "如何保持芹菜新鲜：科学储存指南",
+                "description": "根据官方食品安全指南，了解芹菜的最佳储存温度、方式和保鲜时长。",
+                "authority": "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "intro": "买回家爽脆的芹菜，没放几天茎干就变得软趴趴、失去水分了吗？🥬\n\n芹菜含水量高达95%左右，极易流失水分而萎蔫，储存方式对其保鲜至关重要。若直接放在密封塑料袋中，其自身释放的乙烯气体与积聚的湿气会导致芹菜迅速变软发霉。\n\n今天FreshSnap将为您介绍由农业及食品安全专家推荐的3步科学芹菜保鲜秘诀，帮您锁定芹菜的爽脆口感长达4周。🛡️",
+                "whyTitle": "为什么要这样储存？科学原理",
+                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+                "guideTitle": "科学验证的储存指南",
+                "cautionTitle": "储存必需规则及注意事项",
+                "cautions": [
+                    {
+                        "title": "切勿直接存放在密封塑料袋中 ⚠️",
+                        "desc": "密封塑料袋会积聚湿气和芹菜释放的乙烯气体，加速烂茎和霉菌滋生。使用铝箔纸既能保持湿度又能让乙烯散发，效果更佳。"
+                    },
+                    {
+                        "title": "切勿将生芹菜直接冷冻 🧊",
+                        "desc": "含水量极高的芹菜直接冷冻会导致冰晶破坏细胞壁，解冻后会变得像海绵一样软烂无味。如需冷冻，必须先在沸水中焯水（Blanching）。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "将茎与叶切开分开放置 — 防止水分抽干 ✂️",
+                        "text": "芹菜叶会不断抽走茎部的水分，导致茎干加速萎蔫。💡储存小贴士：买回家后请立即将叶子与茎干切开。叶子用纸巾包裹单独保鲜，茎干切至合适长度。"
+                    },
+                    {
+                        "name": "用铝箔纸无缝包裹 — 锁水防干与乙烯散发 📦",
+                        "text": "铝箔纸能保持适宜湿度的同时允许乙烯气体散发出去。💡储存小贴士：保持芹菜干燥无需清洗，用铝箔纸将其包裹紧实。"
+                    },
+                    {
+                        "name": "0~4℃ 低温冷藏保存 — 冷藏储存 (14~30天) ❄️",
+                        "text": "用铝箔纸包好的芹菜存放在冰箱蔬菜抽屉中保鲜效果最佳。💡储存小贴士：在0~4℃的保鲜抽屉中存放，可长久保持水分与爽脆达2~4周以上。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "发蔫萎蔫的芹菜有什么方法可以恢复爽脆吗？",
+                        "answer": "将芹菜茎干底部切掉约1厘米，切口朝下插入冰水中浸泡30分钟至1小时，利用渗透压原理使其快速吸水恢复爽脆。"
+                    },
+                    {
+                        "question": "芹菜叶应该如何保存和食用？",
+                        "answer": "芹菜叶营养丰富，请勿丢弃。用纸巾包裹后放入保鲜袋冷藏，可用于煲汤、做青酱（Pesto）、凉拌或炒菜提香味。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cómo mantener el apio fresco: Guía científica de conservación",
+                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para el apio según las directrices oficiales de seguridad.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "¿Alguna vez compró apio crujiente y en pocos días descubrió que los tallos estaban flácidos, gomosos o secos? 🥬\n\nEl apio está compuesto por casi un 95% de agua, lo que lo hace extremadamente vulnerable a la pérdida de humedad y al marchitamiento. Guardarlo en bolsas de plástico selladas atrapa la humedad excesiva y el gas etileno, provocando que se ablande y se pudra prematuramente.\n\nHoy, FreshSnap presenta una guía de conservación en 3 pasos respaldada por expertos agrícolas para mantener su apio crujiente hasta por 4 semanas. 🛡️",
+                "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+                "guideTitle": "Guía de almacenamiento científicamente probada",
+                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+                "cautions": [
+                    {
+                        "title": "No guarde el apio en bolsas de plástico herméticas ⚠️",
+                        "desc": "Las bolsas de plástico selladas atrapan la humedad y el gas etileno emitido por el apio, acelerando el ablandamiento y el moho. El papel de aluminio retiene la humedad adecuada permitiendo que el etileno escape."
+                    },
+                    {
+                        "title": "Nunca congele apio crudo sin escaldar previamente 🧊",
+                        "desc": "Debido a su alto contenido de agua, congelar apio crudo forma cristales de hielo que rompen las paredes celulares, dejándolo blando y esponjoso al descongelar. Escáldelo brevemente en agua hirviendo antes de congelar."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Separe las hojas de los tallos — Evite la pérdida de humedad ✂️",
+                        "text": "Las hojas del apio extraen continuamente el agua de los tallos, haciendo que se marchiten más rápido. 💡 Consejo de almacenamiento: Corte las hojas de los tallos inmediatamente. Envuelva las hojas en papel de cocina y guarde los tallos por separado."
+                    },
+                    {
+                        "name": "Envuelva firmemente con papel de aluminio — Barrera de humedad y liberación de etileno 📦",
+                        "text": "El papel de aluminio atrapa la humedad para mantener los tallos crujientes permitiendo salir al etileno. 💡 Consejo de almacenamiento: Envuelva los tallos secos y sin lavar apretadamente en papel de aluminio."
+                    },
+                    {
+                        "name": "Conserve a baja temperatura (0 a 4 °C) — Almacenamiento refrigerado (14 a 30 días) ❄️",
+                        "text": "El frío ralentiza la respiración y previene la deshidratación. 💡 Consejo de almacenamiento: Guarde el apio envuelto en aluminio en el cajón de verduras del refrigerador a 0–4 °C de 2 a 4 semanas."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Existe algún truco para recuperar el apio marchito o flácido?",
+                        "answer": "Corte 1 cm de la base del tallo y sumerja los extremos en un frasco con agua helada durante 30 a 60 minutos. Por acción osmótica, reabsorberá agua y recuperará su textura crujiente."
+                    },
+                    {
+                        "question": "¿Cómo se deben conservar y utilizar las hojas de apio?",
+                        "answer": "Las hojas están llenas de nutrientes. Envuélvalas secas en papel de cocina, guárdelas en el refrigerador y utilícelas para dar sabor a caldos, sopas, pestos o ensaladas."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Comment conserver le céleri frais : Guide scientifique de conservation",
+                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le céleri selon les directives officielles de sécurité.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Avez-vous déjà acheté du céleri bien croquant pour constater après quelques jours que ses branches étaient devenues molles, caoutchouteuses ou desséchées ? 🥬\n\nComposé à près de 95 % d'eau, le céleri est très sensible à la perte d'humidité et au flétrissement. Le conserver dans un sachet en plastique hermétique emprisonne l'humidité et le gaz éthylène, provoquant son ramollissement prématuré.\n\nAujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes recommandé par des experts pour maintenir votre céleri croquant jusqu'à 4 semaines. 🛡️",
+                "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
+                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+                "guideTitle": "Guide de conservation scientifiquement prouvé",
+                "cautionTitle": "Règles essentielles et précautions de stockage",
+                "cautions": [
+                    {
+                        "title": "Ne conservez pas le céleri dans un sachet plastique hermétique ⚠️",
+                        "desc": "Le plastique hermétique piège l'humidité et le gaz éthylène libéré par le céleri, accélérant le pourrissement et les moisissures. L'aluminium retient l'humidité tout en laissant s'échapper l'éthylène."
+                    },
+                    {
+                        "title": "Ne congelez jamais le céleri cru sans blanchiment préalable 🧊",
+                        "desc": "En raison de sa forte teneur en eau, la congélation du céleri cru forme des cristaux de glace qui détruisent ses cellules, le rendant spongieux à la décongélation. Blanchissez-le rapidement à l'eau bouillante avant congélation."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Séparer les feuilles des branches — Prévenir la déshydratation ✂️",
+                        "text": "Les feuilles pompent continuellement l'eau des branches, les faisant flétrir plus vite. 💡 Astuce de conservation : Coupez les feuilles dès l'achat. Enveloppez-les dans du papier essuie-tout et conservez les branches séparément."
+                    },
+                    {
+                        "name": "Envelopper hermétiquement dans du papier aluminium — Rétention d'humidité et évacuation d'éthylène 📦",
+                        "text": "L'aluminium préserve l'humidité idéale tout en laissant le gaz éthylène s'évacuer. 💡 Astuce de conservation : Enveloppez les branches de céleri sèches et non lavées fermement dans du papier aluminium."
+                    },
+                    {
+                        "name": "Conserver à basse température (0 à 4 °C) — Stockage réfrigéré (14 à 30 jours) ❄️",
+                        "text": "Le froid ralentit la respiration et évite la déshydratation. 💡 Astuce de conservation : Placez le céleri enveloppé d'aluminium dans le bac à légumes du réfrigérateur (0–4 °C) pendant 2 à 4 semaines."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Existe-t-il une astuce pour redonner du croquant à du céleri flétri ?",
+                        "answer": "Coupez 1 cm à la base du pied de céleri et plongez les extrémités dans un récipient d'eau glacée pendant 30 à 60 minutes. Par osmose, il va se réhydrater et retrouver tout son croquant."
+                    },
+                    {
+                        "question": "Comment conserver et utiliser les feuilles de céleri ?",
+                        "answer": "Les feuilles de céleri sont très aromatiques et nutritives. Enveloppez-les dans du papier essuie-tout au réfrigérateur et utilisez-les pour aromatiser vos bouillons, soupes, pestos ou salades."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Stangensellerie richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Staudensellerie basierend auf offiziellen Sicherheitsrichtlinien.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Haben Sie knackigen Staudensellerie gekauft, nur um nach wenigen Tagen festzustellen, dass die Stangen gummiartig, schlaff oder ausgetrocknet waren? 🥬\n\nStaudensellerie besteht zu fast 95 % aus Wasser und reagiert extrem empfindlich auf Feuchtigkeitsverlust und Welken. Wird er in verschlossenen Plastikbeuteln gelagert, staut sich Feuchtigkeit und Ethylengas, was zu schnellem Erweichen und Schimmel führt.\n\nHeute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um Ihren Sellerie bis zu 4 Wochen lang knusprig frisch zu halten. 🛡️",
+                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+                "cautions": [
+                    {
+                        "title": "Sellerie nicht in luftdichten Plastikbeuteln lagern ⚠️",
+                        "desc": "Plastikbeutel schließen Feuchtigkeit und Ethylengas ein, was das Verfaulen beschleunigt. Alufolie hält die nötige Feuchtigkeit, lässt aber das Ethylengas entweichen."
+                    },
+                    {
+                        "title": "Rohen Sellerie niemals unblanchiert einfrieren 🧊",
+                        "desc": "Wegen des hohen Wassergehalts bilden sich beim Einfrieren Eiskristalle, die die Zellwände zerstören und den Sellerie nach dem Auftauen matschig machen. Vor dem Einfrieren immer kurz blanchieren."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Blätter von den Stangen trennen — Feuchtigkeitsverlust verhindern ✂️",
+                        "text": "Die Blätter entziehen den Stangen kontinuierlich Wasser. 💡 Lagerungstipp: Schneiden Sie die Blätter direkt nach dem Kauf ab. Wickeln Sie die Blätter in Küchenpapier und lagern Sie die Stangen separat."
+                    },
+                    {
+                        "name": "Eng in Alufolie einwickeln — Feuchtigkeitsschutz & Ethylenabgabe 📦",
+                        "text": "Alufolie hält die Feuchtigkeit in den Stangen und lässt Ethylengas entweichen. 💡 Lagerungstipp: Wickeln Sie die trockenen, ungewaschenen Stangen fest in Alufolie ein."
+                    },
+                    {
+                        "name": "Bei 0–4 °C im Kühlschrank lagern — Kühllagerung (14–30 Tage) ❄️",
+                        "text": "Kälte verlangsamt die Atmung und verhindert Austrocknung. 💡 Lagerungstipp: Bewahren Sie den in Alufolie gewickelten Sellerie im Gemüsefach des Kühlschranks bei 0–4 °C für 2 bis 4 Wochen auf."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Gibt es einen Trick, um welken Sellerie wieder knackig zu machen?",
+                        "answer": "Schneiden Sie ca. 1 cm der untersten Strunkbasis ab und stellen Sie die Stangen für 30 bis 60 Minuten in ein Glas mit Eiswasser. Durch Osmose nimmt der Sellerie Wasser auf und wird wieder knackig."
+                    },
+                    {
+                        "question": "Wie sollte man Sellerieblätter aufbewahren und verwenden?",
+                        "answer": "Sellerieblätter sind voller Nährstoffe und Aroma. Trocken in Küchenpapier gewickelt im Kühlschrank lagern und zum Würzen von Suppen, Brühen, Pesto oder Salaten nutzen."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Como conservar salsão (aipo) fresco: Guia científico de armazenamento",
+                "description": "Descubra a temperatura, método e tempo de conservação ideais para o salsão (aipo) com base em diretrizes oficiais de segurança.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Você já comprou salsão (aipo) bem crocante e em poucos dias percebeu que os talos ficaram murchos, borrachudos ou secos? 🥬\n\nO salsão é composto por quase 95% de água, sendo extremamente vulnerável à perda de umidade. Guardá-lo em sacos plásticos vedados retém umidade excessiva e gás etileno, fazendo com que estrague e amoleça precocemente.\n\nHoje, o FreshSnap apresenta um guia de conservação em 3 etapas recomendado por especialistas para manter seu salsão crocante por até 4 semanas. 🛡️",
+                "whyTitle": "Por que armazenar assim? Fatos científicos",
+                "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+                "guideTitle": "Guia de armazenamento comprovado cientificamente",
+                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+                "cautions": [
+                    {
+                        "title": "Não guarde o salsão em sacos plásticos herméticos ⚠️",
+                        "desc": "Sacos plásticos vedados prendem a umidade e o gás etileno emitido pelo salsão, acelerando o apodrecimento e o mofo. O papel alumínio retém a umidade necessária permitindo que o etileno saia."
+                    },
+                    {
+                        "title": "Nunca congele o salsão cru sem aferventar (blanching) 🧊",
+                        "desc": "Devido ao alto teor de água, congelar o salsão cru forma cristais de gelo que rompem as paredes celulares, deixando-o empapado ao descongelar. Afervente rapidamente em água fervente antes de congelar."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Separe as folhas dos talos — Evite a perda de umidade ✂️",
+                        "text": "As folhas puxam continuamente a água dos talos, fazendo-os murchar mais rápido. 💡 Dica de conservação: Corte as folhas imediatamente. Envolva as folhas em papel-toalha e guarde os talos separadamente."
+                    },
+                    {
+                        "name": "Envolva firmemente em papel alumínio — Retenção de umidade e liberação de etileno 📦",
+                        "text": "O papel alumínio mantém a umidade certa nos talos enquanto deixa o gás etileno escapar. 💡 Dica de conservação: Envolva os talos secos e sem lavar firmemente em papel alumínio."
+                    },
+                    {
+                        "name": "Armazenar a baixa temperatura (0 a 4 °C) — Refrigeração (14 a 30 dias) ❄️",
+                        "text": "O frio desacelera a respiração e evita a desidratação. 💡 Dica de conservação: Guarde o salsão envolto em alumínio na gaveta de legumes da geladeira (0–4 °C) por 2 a 4 semanas."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Existe algum truque para recuperar o salsão murcho?",
+                        "answer": "Corte cerca de 1 cm da base dos talos e coloque as pontas em um recipiente com água gelada por 30 a 60 minutos. Por ação osmótica, ele reabsorverá água e voltará a ficar crocante."
+                    },
+                    {
+                        "question": "Como conservar e utilizar as folhas do salsão?",
+                        "answer": "As folhas são muito nutritivas e saborosas. Envolva-as secas em papel-toalha, guarde na geladeira e use para dar sabor a caldos, sopas, pestos ou saladas."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Cara Menyimpan Seledri Batang (Celery) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk seledri batang berdasarkan pedoman keselamatan resmi.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Pernahkah Anda membeli seledri batang (celery) yang renyah lalu mendapati batangnya menjadi layu, lemas, atau mengering hanya dalam beberapa hari? 🥬\n\nSeledri batang terdiri dari hampir 95% air, menjadikannya sangat rentan terhadap kehilangan kelembapan dan layu. Menyimpannya dalam kantong plastik rapat akan memerangkap kelembapan berlebih dan gas etilen, menyebabkannya cepat membusuk dan lembek.\n\nHari ini, FreshSnap membagikan panduan penyimpanan 3 langkah berbasis ilmiah yang direkomendasikan oleh ahli pertanian untuk menjaga kerenyahan seledri Anda hingga 4 minggu. 🛡️",
+                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+                "cautions": [
+                    {
+                        "title": "Jangan menyimpan seledri dalam kantong plastik tertutup rapat ⚠️",
+                        "desc": "Kantong plastik kedap udara memerangkap kelembapan berlebih dan gas etilen yang dilepaskan seledri, mempercepat pembusukan dan timbulnya jamur. Menggunakan aluminium foil menjaga kelembapan ideal sekaligus membiarkan etilen keluar."
+                    },
+                    {
+                        "title": "Jangan pernah membekukan seledri mentah tanpa direbus sebentar (blanching) 🧊",
+                        "desc": "Karena kadar airnya yang tinggi, membekukan seledri mentah membentuk kristal es yang merusak dinding selnya, menjadikannya lembek berair saat dicairkan. Rebus sebentar dalam air mendidih sebelum dibekukan."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Pisahkan daun dari batangnya — Cegah Kehilangan Kelembapan ✂️",
+                        "text": "Daun seledri terus-menerus menyedot air dari batangnya, membuatnya lebih cepat layu. 💡 Tips Penyimpanan: Potong daun seledri segera setelah dibeli. Bungkus daun dengan tisu dapur dan simpan batang secara terpisah."
+                    },
+                    {
+                        "name": "Bungkus rapat dengan aluminium foil — Penahan Kelembapan & Pelepasan Etilen 📦",
+                        "text": "Aluminium foil menahan kelembapan agar batang tetap renyah sambil membiarkan gas etilen keluar. 💡 Tips Penyimpanan: Bungkus batang seledri yang kering dan belum dicuci secara rapat menggunakan aluminium foil."
+                    },
+                    {
+                        "name": "Simpan pada suhu rendah 0–4°C — Penyimpanan Dingin (14–30 Hari) ❄️",
+                        "text": "Suhu dingin memperlambat respirasi dan mencegah dehidrasi. 💡 Tips Penyimpanan: Letakkan seledri yang terbungkus foil di laci sayur kulkas pada suhu 0–4°C selama 2 hingga 4 minggu."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Apakah ada cara untuk menyegarkan kembali seledri yang sudah layu?",
+                        "answer": "Potong sekitar 1 cm bagian pangkal bawah batang, lalu rendam ujung batangnya dalam wadah berisi air es selama 30 hingga 60 menit. Melalui proses osmotik, seledri akan menyerap air dan kembali renyah."
+                    },
+                    {
+                        "question": "Bagaimana cara menyimpan dan memanfaatkan daun seledri?",
+                        "answer": "Daun seledri kaya akan nutrisi dan aroma. Bungkus daun kering dengan tisu dapur, simpan di kulkas, dan gunakan untuk penambah aroma sup, kaldu, pesto, atau salad."
+                    }
+                ]
+            }
+        }
+    }
+}
