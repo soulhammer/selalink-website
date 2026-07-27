@@ -51,12 +51,6 @@
                         "question": "팩맨이 먹이를 먹은 후 배가 부풀어 오르고 며칠째 변을 보지 않는데 임팩션인가요?",
                         "answer": "임팩션(Impaction)일 가능성이 높습니다. 바닥재(코코핏, 자갈)를 함께 삼켰거나 단단한 뼈·갑각이 있는 과도한 크기의 먹이를 먹었을 때 장이 막히는 질환입니다. 즉시 미지근한 물(27~29°C)에 무릎 높이까지 차오르도록 하여 15~20분간 미온수 목욕(온수욕)을 시켜 장 운동을 유도해야 하며, 배에 단단한 덩어리가 잡히고 기운이 없다면 수의사의 진료가 필요합니다."
                     }
-                ],
-                "tags": [
-                    "팩맨개구리",
-                    "양서류케어",
-                    "팩맨임팩션예방",
-                    "수포병예방"
                 ]
             },
             "en": {
@@ -107,12 +101,6 @@
                         "question": "My Pacman Frog swallowed substrate, has a bloated abdomen, and hasn't defecated; is it impaction?",
                         "answer": "Intestinal impaction is a serious risk when Pacman Frogs ingest substrate (coco coir, moss, gravel) or hard-shelled prey. Prepare a shallow lukewarm bath (27–29°C) filled up to their chin height for 15–20 minutes to stimulate bowel movement. If the abdomen remains hard or lethargy persists, consult an exotic veterinarian immediately."
                     }
-                ],
-                "tags": [
-                    "PacmanFrog",
-                    "AmphibianCare",
-                    "FrogImpactionPrevention",
-                    "RedLegDiseaseCare"
                 ]
             },
             "ja": {
@@ -163,13 +151,6 @@
                         "question": "床材を呑み込んでお腹が張り、フンが出ないのですがインパクションでしょうか？",
                         "answer": "インパクション（腸閉塞）の可能性が高いです。床材（ヤシガラ、砂利）や消化しにくい大きな餌を呑み込んだ際に発生します。すぐにぬるま湯（27〜29℃）を足が浸かる程度の深さまで張り、15〜20分ほど温水浴させて腸の蠕動運動を促してください。お腹に固い塊があり、ぐったりしている場合は直ちに爬虫類・両生類専門医を受診してください。"
                     }
-                ],
-                "tags": [
-                    "パックマンフロッグ",
-                    "ツノガエル",
-                    "両生類ケア",
-                    "インパクション予防",
-                    "赤脚病予防"
                 ]
             },
             "zh": {
@@ -220,12 +201,6 @@
                         "question": "角蛙误吞垫料后腹部鼓胀且数日不排便，是肠梗阻 (Impaction) 吗？",
                         "answer": "极有可能是肠梗阻。角蛙误吞椰土、水苔或吞食硬壳大猎物时极易堵塞肠道。应立即准备 27°C~29°C 的温水，水位漫至角蛙下巴高度，让其进行 15~20 分钟温水浴以促进肠道蠕动。若腹部能摸到硬块且精神萎靡，需立即送往异宠医院。"
                     }
-                ],
-                "tags": [
-                    "角蛙",
-                    "两栖宠护理",
-                    "角蛙肠梗阻预防",
-                    "红腿病预防"
                 ]
             },
             "es": {
@@ -276,12 +251,6 @@
                         "question": "Mi Rana Pacman tragó sustrato, tiene el abdomen hinchado y no defeca, ¿es una impactación?",
                         "answer": "Es muy probable. La impactación intestinal ocurre al ingerir fibra de coco, musgo o presas con caparazón duro. Prepare un baño tibio (27–29°C) con agua a la altura de su barbilla durante 15–20 minutos para estimular el tránsito intestinal. Si permanece dura o letárgica, acuda al veterinario inmediatamente."
                     }
-                ],
-                "tags": [
-                    "RanaPacman",
-                    "CuidadoDeAnfibios",
-                    "PrevencionImpactacionRana",
-                    "EnfermedadPataRoja"
                 ]
             },
             "fr": {
@@ -332,12 +301,6 @@
                         "question": "Ma Grenouille Pacman a avalé du substrat, a le ventre gonflé et ne fait plus de selles : est-ce une impaction ?",
                         "answer": "C'est très probable. L'impaction intestinale survient lors de l'ingestion de substrat (fibre de coco, mousse) ou de proies trop dures. Donnez-lui un bain tiède (27–29°C) d'eau déchlorée au niveau du menton pendant 15 à 20 minutes pour stimuler le transit. Si le ventre reste dur ou si elle reste léthargique, consultez d'urgence un vétérinaire NAC."
                     }
-                ],
-                "tags": [
-                    "GrenouillePacman",
-                    "SoinAmphibien",
-                    "PreventionImpactionGrenouille",
-                    "MaladiePattesRouges"
                 ]
             },
             "de": {
@@ -388,13 +351,6 @@
                         "question": "Mein Frosch hat Substrat verschluckt, hat einen aufgeblähten Bauch und setzt keinen Kot ab – ist das Impaktion?",
                         "answer": "Das ist sehr wahrscheinlich. Ein Darmverschluss (Impaktion) entsteht durch Verschlucken von Kokoshumus, Moos oder zu harten Beutetieren. Setzen Sie den Frosch für 15–20 Minuten in ein lauwarmes Wasserbad (27–29 °C) bis zur Kinnhöhe, um die Darmtätigkeit anzuregen. Bleibt der Bauch hart, ist sofort ein Fachtierarzt aufzusuchen."
                     }
-                ],
-                "tags": [
-                    "Schmuckhornfrosch",
-                    "PacmanFrosch",
-                    "Amphibienpflege",
-                    "ImpaktionProphylaxe",
-                    "Rotbeinigkeit"
                 ]
             },
             "pt": {
@@ -445,12 +401,6 @@
                         "question": "Meu Sapo Pacman engoliu substrato, está com o abdômen inchado e não defeca: é impacção?",
                         "answer": "É muito provável. A impacção intestinal ocorre pela ingestão de fibra de coco, musgo ou presas duras. Dê um banho morno (27–29°C) com água desclorada na altura do queixo por 15 a 20 minutos para estimular o trânsito intestinal. Se o abdômen permanecer duro ou houver letargia, consulte um veterinário especializado."
                     }
-                ],
-                "tags": [
-                    "SapoPacman",
-                    "CuidadosComAnfibios",
-                    "PrevencaoImpaccaoSapo",
-                    "DoencaPernaVermelha"
                 ]
             },
             "id": {
@@ -501,12 +451,6 @@
                         "question": "Katak Pacman saya menelan substrat, perutnya membesar dan tidak buang air besar, apakah mengalami impaksi?",
                         "answer": "Kemungkinan besar ya. Impaksi usus terjadi saat katak menelan kokopit, lumut, atau mangsa berfur/bercangkang keras. Rendam katak dalam air hangat (27–29°C) setinggi dagunya selama 15–20 menit untuk merangsang pergerakan usus. Jika perut tetap keras atau katak lemas, segera bawa ke dokter hewan hewan eksotis."
                     }
-                ],
-                "tags": [
-                    "KatakPacman",
-                    "PerawatanAmfibi",
-                    "PencegahanImpaksiKatak",
-                    "PenyakitKakiMerah"
                 ]
             }
         },

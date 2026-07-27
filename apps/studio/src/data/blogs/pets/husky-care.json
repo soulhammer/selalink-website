@@ -51,12 +51,6 @@
                         "question": "Will shaving my Husky's double coat make them feel cooler in the summer?",
                         "answer": "Absolutely not. A Husky's double coat acts as an insulator, blocking outside heat and UV rays. Shaving it destroys their thermal regulation, dramatically increasing the risk of heatstroke and sunburn. Slicker combing to remove dead undercoat is the only correct method."
                     }
-                ],
-                "tags": [
-                    "SiberianHusky",
-                    "DoubleCoatBrushing",
-                    "HowlingPrevention",
-                    "LargeDogWalk"
                 ]
             },
             "ja": {
@@ -107,12 +101,6 @@
                         "question": "夏のハスキーのダブルコートをバリカンで剃ってあげると涼しくなりますか？",
                         "answer": "絶対に避けてください。ダブルコートは外部の熱と紫外線を遮断する断熱材の役割をしています。剃ってしまうと体温調節ができなくなり、熱中症や皮膚の火傷のリスクが跳ね上がります。ブラッシングが唯一の正解です。"
                     }
-                ],
-                "tags": [
-                    "シベリアンハスキー",
-                    "二重毛のブラッシング",
-                    "遠吠え防止",
-                    "大型犬の散歩"
                 ]
             },
             "zh": {
@@ -163,12 +151,6 @@
                         "question": "夏天将哈士奇的双层毛用推子剃光，会让它们觉得更凉快吗？",
                         "answer": "严厉禁止。哈士奇的双层毛起到了隔绝外部热量与紫外线的“保温板”作用。如果将毛剃光，它们会失去体温调节屏障，中暑和日光灼伤的风险会急剧飙升。用毛刷彻底梳理出底毛层死毛才是唯一正确的办法。"
                     }
-                ],
-                "tags": [
-                    "西伯利亚哈士奇",
-                    "双层毛梳理",
-                    "防止嚎叫",
-                    "大型犬散步"
                 ]
             },
             "es": {
@@ -219,12 +201,6 @@
                         "question": "¿Afeitar el manto doble de mi Husky le ayudará a estar más fresco en verano?",
                         "answer": "Jamás. La doble capa del Husky actúa como un aislante térmico, bloqueando el calor exterior y los rayos UV. Afeitarlo destruye su termorregulación, aumentando drásticamente el riesgo de golpe de calor y quemaduras solares. Cepillar el subpelo muerto es la única solución."
                     }
-                ],
-                "tags": [
-                    "HuskySiberiano",
-                    "CepilladoDeMantoDoble",
-                    "PrevenirAullidos",
-                    "PaseoDePerrosGrandes"
                 ]
             },
             "fr": {
@@ -275,12 +251,6 @@
                         "question": "Tondre le double pelage de mon Husky l'aidera-t-il à avoir moins chaud en été ?",
                         "answer": "Absolument pas. Le pelage double sert d'isolant thermique contre la chaleur et les rayons UV. Le tondre détruit sa régulation thermique, augmentant drastiquement le risque de coup de chaleur et de brûlures solaires. Seul le brossage du sous-poil mort est adapté."
                     }
-                ],
-                "tags": [
-                    "HuskySibérien",
-                    "BrossageDoublePelage",
-                    "PrévenirHurlements",
-                    "PromenadeGrandChien"
                 ]
             },
             "de": {
@@ -331,12 +301,6 @@
                         "question": "Hilft das Scheren des Fells meinem Husky, im Sommer kühl zu bleiben?",
                         "answer": "Keinesfalls. Das doppelte Fell wirkt als Isolierung gegen Hitze und UV-Strahlen. Scheren zerstört die Wärmeregulierung und erhöht das Hitzschlag- und Sonnenbrandrisiko drastisch. Das Ausbürsten der abgestorbenen Unterwolle ist die einzige richtige Methode."
                     }
-                ],
-                "tags": [
-                    "SibirischerHusky",
-                    "DoppelfellBuersten",
-                    "JaulPraevention",
-                    "SpaziergangGrosserHunde"
                 ]
             },
             "pt": {
@@ -387,12 +351,6 @@
                         "question": "Tosar o pelo do meu Husky vai ajudá-lo a ficar mais fresco no verão?",
                         "answer": "Jamais. A pelagem dupla do Husky atua como um isolante térmico contra o calor e os raios UV. Tosar destrói sua termorregulação, elevando drasticamente o risco de choque térmico e queimaduras. Remover o subpelo morto com a escova é o correto."
                     }
-                ],
-                "tags": [
-                    "HuskySiberiano",
-                    "EscovacaoDePelagemDupla",
-                    "PrevenirUivos",
-                    "PasseioDeCaesGrandes"
                 ]
             },
             "id": {
@@ -443,12 +401,6 @@
                         "question": "Apakah mencukur bulu ganda Husky akan membuat mereka lebih dingin di musim panas?",
                         "answer": "Sama sekali tidak. Bulu ganda Husky bertindak sebagai isolator terhadap panas luar dan sinar UV. Mencukurnya merusak regulasi termal, meningkatkan risiko sengatan panas (heatstroke) dan sunburn. Menyikat bulu halus yang mati adalah satu-satunya cara yang benar."
                     }
-                ],
-                "tags": [
-                    "SiberianHusky",
-                    "MenyikatBuluGanda",
-                    "PencegahanMelolong",
-                    "JalanAnjingBesar"
                 ]
             },
             "ko": {
@@ -499,12 +451,6 @@
                         "question": "여름철 허스키의 이중모를 미용기(클리퍼)로 빡빡 밀어주면 더 시원해하나요?",
                         "answer": "절대 금지입니다. 허스키의 이중모는 외부 열기와 자외선으로부터 피부를 차단하는 단열재 역할을 합니다. 털을 다 밀어버리면 체온 조절 능력을 상실해 열사병 위험이 극도로 높아지고 일광 화상을 입게 됩니다. 브러싱으로 죽은 털을 제거하는 것이 최선입니다."
                     }
-                ],
-                "tags": [
-                    "시베리안허스키",
-                    "이중모브러싱",
-                    "하울링방지",
-                    "대형견산책"
                 ]
             }
         },

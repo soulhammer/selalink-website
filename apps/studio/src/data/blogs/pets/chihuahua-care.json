@@ -51,12 +51,6 @@
                         "question": "Does the Chihuahua's shivering always mean they are cold?",
                         "answer": "They lack undercoats and body fat, so they shiver easily in the cold. However, they also tremble when experiencing intense emotions like extreme joy or alertness, as their sensitive nervous system triggers muscle contractions. Observe the context to determine the cause."
                     }
-                ],
-                "tags": [
-                    "Chihuahua",
-                    "Molera Protection",
-                    "Hypoglycemia Prevention",
-                    "Toy Breed Care"
                 ]
             },
             "ja": {
@@ -107,12 +101,6 @@
                         "question": "チワワがブルブル震えるのは、寒さを感じているからですか？",
                         "answer": "チワワはアンダーコートがなく皮下脂肪が薄いため寒さで震えますが、極度の喜びや緊張などの強い感情によって神経系が興奮した際にも筋肉が収縮して震えます。状況を見て原因を判断してください。"
                     }
-                ],
-                "tags": [
-                    "チワワ",
-                    "泉門保護",
-                    "低血糖予防",
-                    "超小型犬ケア"
                 ]
             },
             "zh": {
@@ -163,12 +151,6 @@
                         "question": "吉娃娃浑身发抖总是因为感到寒冷吗？",
                         "answer": "由于缺乏底毛和皮下脂肪，它们确实易因寒冷而发抖。但除此之外，在极度喜悦、对陌生环境产生防备等情绪剧烈兴奋时，其极度敏感的神经系统也会引发肌肉震颤收缩。应根据当时情境判断原因。"
                     }
-                ],
-                "tags": [
-                    "吉娃娃",
-                    "囟门保护",
-                    "预防低血糖",
-                    "超小型犬护理"
                 ]
             },
             "es": {
@@ -219,12 +201,6 @@
                         "question": "¿Los temblores del Chihuahua siempre significan que tienen frío?",
                         "answer": "Tienen poca grasa y tiemblan con el frío, pero también lo hacen por emociones intensas como alegría extrema o alerta, ya que su sistema nervioso sensible provoca contracciones musculares. Observe el contexto para determinar la causa."
                     }
-                ],
-                "tags": [
-                    "Chihuahua",
-                    "ProtecciónDeMolera",
-                    "PrevenciónDeHipoglucemia",
-                    "CuidadoDePerrosToy"
                 ]
             },
             "fr": {
@@ -275,12 +251,6 @@
                         "question": "Le tremblement du Chihuahua signifie-t-il toujours qu'il a froid ?",
                         "answer": "Ils ont peu de graisse et tremblent facilement avec le froid. Cependant, ils tremblent aussi sous le coup d'émotions fortes (joie, peur), leur système nerveux déclenchant des contractions. Observez le contexte pour diagnostiquer la cause."
                     }
-                ],
-                "tags": [
-                    "Chihuahua",
-                    "ProtectionMolera",
-                    "PréventionHypoglycémie",
-                    "SoinsRacesToy"
                 ]
             },
             "de": {
@@ -331,12 +301,6 @@
                         "question": "Bedeutet das Zittern des Chihuahuas immer, dass ihm kalt ist?",
                         "answer": "Sie haben wenig Fett und frieren schnell. Sie zittern jedoch auch bei starken Emotionen wie großer Freude oder Wachsamkeit, da ihr sensibles Nervensystem Muskelkontraktionen auslöst. Betrachten Sie den Kontext zur Ursachenfindung."
                     }
-                ],
-                "tags": [
-                    "Chihuahua",
-                    "MoleraSchutz",
-                    "HypoglykaemiePraevention",
-                    "Zwergrassenpflege"
                 ]
             },
             "pt": {
@@ -387,12 +351,6 @@
                         "question": "Os tremores do Chihuahua sempre significam que ele tem frio?",
                         "answer": "Eles têm pouca gordura e tremem no frio, mas também o fazem por emoções intensas como excitação ou alerta, já que seu sistema nervoso sensível causa contrações. Analise o contexto para determinar a causa."
                     }
-                ],
-                "tags": [
-                    "Chihuahua",
-                    "ProtecaoDeMoleira",
-                    "PrevencaoDeHipoglicemia",
-                    "CuidadoDeCaesToy"
                 ]
             },
             "id": {
@@ -443,12 +401,6 @@
                         "question": "Apakah gemetar pada Chihuahua selalu berarti mereka kedinginan?",
                         "answer": "Mereka tidak memiliki bulu halus dan lemak tubuh rendah, sehingga mudah gemetar saat dingin. Namun, mereka juga gemetar karena emosi intens seperti gembira atau waspada, karena sistem saraf sensitif memicu kontraksi otot. Amati konteks untuk menentukan penyebabnya."
                     }
-                ],
-                "tags": [
-                    "Chihuahua",
-                    "PerlindunganMolera",
-                    "PencegahanHipoglikemia",
-                    "PerawatanRasKecil"
                 ]
             },
             "ko": {
@@ -499,12 +451,6 @@
                         "question": "치와와가 몸을 부르르 떠는 것은 추위를 느껴서인가요?",
                         "answer": "치와와는 단모종에 피하지방이 없어 추위에 약해 떨기도 하지만, 매우 기쁘거나 낯선 환경에 경계할 때 등 뇌의 감정 전달 체계가 흥분하면 근육이 미세하게 수축하며 바르르 떱니다. 무작정 담요를 씌우기보다 원인을 진단해 대응해야 합니다."
                     }
-                ],
-                "tags": [
-                    "치와와",
-                    "천문보호",
-                    "저혈당예방",
-                    "초소형견케어"
                 ]
             }
         },

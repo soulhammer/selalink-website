@@ -51,12 +51,6 @@
                         "question": "슬개골 탈구를 수술 없이 홈케어만으로 완치할 수 있나요?",
                         "answer": "슬개골 탈구가 이미 진행된 3~4단계 수준의 물리적 변형은 수술적 치료가 필수적입니다. 홈케어는 슬개골 1~2단계 상태에서 주변 근력을 키워 악화를 늦추거나 수술 후 재발을 방지하는 아주 강력한 보조 예방책입니다."
                     }
-                ],
-                "tags": [
-                    "포메라니안",
-                    "슬개골예방",
-                    "기관지협착증",
-                    "이중모빗질"
                 ]
             },
             "en": {
@@ -107,12 +101,6 @@
                         "question": "Can home care cure patellar luxation without surgery?",
                         "answer": "No. Advanced stages (Grade 3 or 4) with physical deformity require surgical correction. Home care (maintaining healthy weight, preventing slips, and building muscle) is highly effective in early stages (Grade 1 or 2) to slow progression and prevent post-surgery recurrence."
                     }
-                ],
-                "tags": [
-                    "Pomeranian",
-                    "PatellarCare",
-                    "TrachealCollapse",
-                    "DoubleCoatBrushing"
                 ]
             },
             "ja": {
@@ -163,12 +151,6 @@
                         "question": "膝蓋骨脱臼は手術なしでホームケアだけで完治しますか？",
                         "answer": "膝蓋骨脱臼がすでに進行したステージ3〜4の物理的な変形は手術が必要です。ホームケアは、ステージ1〜2の初期段階で悪化を遅らせ、手術後の再発を防止するための非常に強力な予防手段です。"
                     }
-                ],
-                "tags": [
-                    "ポメラニアン",
-                    "膝蓋骨ケア",
-                    "気管虚脱",
-                    "二重毛のブラッシング"
                 ]
             },
             "zh": {
@@ -219,12 +201,6 @@
                         "question": "仅仅依靠家庭护理能治愈髌骨脱位而无需手术吗？",
                         "answer": "对于已经发展至3至4期的物理性移位，必须进行手术矫正。家庭护理（控制体重、防止打滑、加强后肢肌肉）在早期（1至2期）能有效延缓病情进展，并在术后防止复发。"
                     }
-                ],
-                "tags": [
-                    "博美犬",
-                    "髌骨护理",
-                    "气管塌陷",
-                    "双层毛梳理"
                 ]
             },
             "es": {
@@ -275,12 +251,6 @@
                         "question": "¿Se puede curar la luxación patelar solo con cuidados en casa?",
                         "answer": "Las etapas avanzadas (Grado 3 o 4) con deformidad física requieren cirugía. El cuidado en casa (control de peso, evitar resbalones y fortalecer músculos) es muy eficaz en etapas tempranas (Grado 1 o 2) para retrasar el progreso."
                     }
-                ],
-                "tags": [
-                    "Pomerania",
-                    "CuidadoDeRótula",
-                    "ColapsoTraqueal",
-                    "CepilladoDeMantoDoble"
                 ]
             },
             "fr": {
@@ -331,12 +301,6 @@
                         "question": "Le soin à la maison peut-il guérir la luxation de rotule sans chirurgie ?",
                         "answer": "Les stades avancés (Grade 3 ou 4) nécessitent une chirurgie. Le soin à la maison (poids idéal, tapis anti-glisse, renforcement musculaire) est très efficace aux stades précoces (Grade 1 ou 2) pour ralentir l'évolution et éviter les récidives."
                     }
-                ],
-                "tags": [
-                    "LoulouDePoméranie",
-                    "SoinDeRotule",
-                    "CollapsusTrachéal",
-                    "BrossageDoublePelage"
                 ]
             },
             "de": {
@@ -387,12 +351,6 @@
                         "question": "Kann die Kniescheibenluxation ohne Operation durch Pflege geheilt werden?",
                         "answer": "Fortgeschrittene Stadien (Grad 3 oder 4) erfordern eine Operation. Pflege zu Hause (Gewichtskontrolle, rutschfeste Böden, Muskelaufbau) ist in frühen Stadien (Grad 1 oder 2) wirksam, um das Fortschreiten zu verlangsamen."
                     }
-                ],
-                "tags": [
-                    "Zwergspitz",
-                    "Kniescheibenpflege",
-                    "Trachealkollaps",
-                    "Fellbuersten"
                 ]
             },
             "pt": {
@@ -443,12 +401,6 @@
                         "question": "É possível curar a luxação patelar sem cirurgia, apenas com cuidados em casa?",
                         "answer": "Graus avançados (Grau 3 ou 4) com deformidade física requerem correção cirúrgica. Os cuidados em casa (peso saudável, evitar pisos lisos e fortalecimento muscular) servem no Grau 1 ou 2 para retardar a evolução."
                     }
-                ],
-                "tags": [
-                    "SpitzAlemão",
-                    "CuidadoPatelar",
-                    "ColapsoTraqueal",
-                    "EscovaçãoDePelagem"
                 ]
             },
             "id": {
@@ -499,12 +451,6 @@
                         "question": "Dapatkah perawatan rumahan menyembuhkan luksasi patela tanpa operasi?",
                         "answer": "Tidak. Tahap lanjut (Tingkat 3 atau 4) dengan deformitas fisik memerlukan koreksi bedah. Perawatan rumahan (berat badan sehat, mencegah slip, dan membangun otot) sangat efektif pada tahap awal (Tingkat 1 atau 2) untuk memperlambat perkembangan."
                     }
-                ],
-                "tags": [
-                    "Pomeranian",
-                    "PerawatanPatela",
-                    "KolapsTrakea",
-                    "MenyikatBuluGanda"
                 ]
             }
         },

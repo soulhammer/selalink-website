@@ -51,12 +51,6 @@
                         "question": "Is a sand bath absolutely necessary?",
                         "answer": "Yes. Golden Hamsters clean their fur and remove excess skin oils by digging in sand. Providing a sand bath with appropriate hamster-safe sand is vital for their coat health."
                     }
-                ],
-                "tags": [
-                    "Golden Hamster",
-                    "Stress Prevention",
-                    "Nocturnal Pet",
-                    "Hamster Care"
                 ]
             },
             "ja": {
@@ -107,12 +101,6 @@
                         "question": "砂浴び場は必ず設置しなければなりませんか？",
                         "answer": "ゴールデンハムスターは砂を掘ることで、被毛の余分な皮脂汚れを落とします。毛並みの健康維持とストレス解消のため、ハムスター専用の浴び砂を入れたお風呂を設置することを強くおすすめします。"
                     }
-                ],
-                "tags": [
-                    "ゴールデンハムスター",
-                    "歯ぎしり予防",
-                    "夜行性ペット",
-                    "ハムスターのストレス"
                 ]
             },
             "zh": {
@@ -163,12 +151,6 @@
                         "question": "沙浴盆是必须安装的吗？",
                         "answer": "是的。金仓鼠通过刨沙来清洁毛发并去除多余的皮脂油分。为了毛发健康和释放压力，强烈建议提供备有仓鼠专用浴沙的浴室。"
                     }
-                ],
-                "tags": [
-                    "金仓鼠",
-                    "磨牙预防",
-                    "夜行性宠物",
-                    "仓鼠压力"
                 ]
             },
             "es": {
@@ -219,12 +201,6 @@
                         "question": "¿Es absolutamente necesario un baño de arena?",
                         "answer": "Sí. Los hámsters sirios limpian su pelaje y eliminan el exceso de grasa cavando en la arena. Proporcionar un baño de arena con arena segura para hámsters es vital para la salud de su pelaje."
                     }
-                ],
-                "tags": [
-                    "HámsterSirio",
-                    "PrevenciónDeEstrés",
-                    "MascotaNocturna",
-                    "CuidadoDeHámster"
                 ]
             },
             "fr": {
@@ -275,12 +251,6 @@
                         "question": "Le bain de sable est-il absolument nécessaire ?",
                         "answer": "Oui. Les hamsters syriens nettoient leur pelage et éliminent l'excès de sébum en creusant dans le sable. Fournir un bain de sable avec du sable adapté aux hamsters est vital pour la santé de leur pelage."
                     }
-                ],
-                "tags": [
-                    "HamsterSyrien",
-                    "PréventionDuStress",
-                    "AnimalNocturne",
-                    "SoinDuHamster"
                 ]
             },
             "de": {
@@ -331,12 +301,6 @@
                         "question": "Ist ein Sandbad absolut notwendig?",
                         "answer": "Ja. Goldhamster reinigen ihr Fell und entfernen überschüssiges Hautfett, indem sie im Sand graben. Die Bereitstellung eines Sandbads mit hamsterfreundlichem Sand ist lebenswichtig für die Fellgesundheit."
                     }
-                ],
-                "tags": [
-                    "Goldhamster",
-                    "Stressprävention",
-                    "NachtaktivesTier",
-                    "Hamsterpflege"
                 ]
             },
             "pt": {
@@ -387,12 +351,6 @@
                         "question": "¿É absolutamente necessário um banho de areia?",
                         "answer": "Sim. Os hámsters sírios limpam o seu pelo e eliminam o excesso de gordura cavando na areia. Proporcionar um banho de areia com areia segura para hámsters é vital para a saúde do seu pelo."
                     }
-                ],
-                "tags": [
-                    "HámsterSírio",
-                    "PrevençãoDeStresse",
-                    "PetNoturno",
-                    "CuidadoDeHámster"
                 ]
             },
             "id": {
@@ -443,12 +401,6 @@
                         "question": "Apakah bak mandi pasir mutlak diperlukan?",
                         "answer": "Ya. Hamster Suriah membersihkan bulu mereka dan menghilangkan minyak kulit berlebih dengan menggali di dalam pasir. Menyediakan mandi pasir dengan pasir khusus hamster yang aman sangat penting untuk kesehatan bulu mereka."
                     }
-                ],
-                "tags": [
-                    "HamsterSuriah",
-                    "PencegahanStres",
-                    "PeliharaanNokturnal",
-                    "PerawatanHamster"
                 ]
             },
             "ko": {
@@ -499,12 +451,6 @@
                         "question": "모래 목욕탕은 꼭 설치해야 하나요?",
                         "answer": "골든 햄스터는 모래를 파면서 등껍질과 피지의 기름기를 청결히 씻어냅니다. 따라서 털 건강과 스트레스 해소를 위해 전용 목욕 모래가 있는 화장실 겸 목욕탕을 반드시 제공해 주는 것이 좋습니다."
                     }
-                ],
-                "tags": [
-                    "골든햄스터",
-                    "이갈이예방",
-                    "야행성반려동물",
-                    "햄스터스트레스"
                 ]
             }
         },

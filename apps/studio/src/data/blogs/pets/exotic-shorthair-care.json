@@ -51,12 +51,6 @@
                         "question": "다낭성 신장질환(PKD)은 어떻게 예방하고 관리해야 하나요?",
                         "answer": "다낭성 신장질환(PKD)은 페르시안 계통 품종에 발생하는 치명적인 유전성 질환으로, 신장에 물낭선(낭종)이 생겨 신장 기능을 떨어뜨립니다. 입양 시 유전자 검사(PKD DNA test) 여부를 확인하고, 1세 이후 매년 정기적인 신장 초음파 및 혈액 검사를 실시하며 평소 습식 사료를 통해 충분한 음수량을 확보해야 합니다."
                     }
-                ],
-                "tags": [
-                    "엑조틱숏헤어",
-                    "단두종고양이",
-                    "고양이눈물케어",
-                    "다낭성신장질환"
                 ]
             },
             "en": {
@@ -107,12 +101,6 @@
                         "question": "How should Polycystic Kidney Disease (PKD) be managed and prevented?",
                         "answer": "Polycystic Kidney Disease (PKD) is a fatal inherited condition common in Persian-derived breeds where fluid-filled cysts develop in the kidneys. Ensure genetic screening (PKD DNA test) at adoption, schedule annual renal ultrasound and blood tests after age 1, and maintain high daily water intake through wet food."
                     }
-                ],
-                "tags": [
-                    "ExoticShorthair",
-                    "FlatFacedCatCare",
-                    "TearStainCare",
-                    "PKDPrevention"
                 ]
             },
             "ja": {
@@ -163,12 +151,6 @@
                         "question": "多胞性腎病変（PKD）はどのように予防・管理すればよいですか？",
                         "answer": "多胞性腎病変（PKD）はペルシャ系の猫に見られる遺伝性疾患で、腎臓に嚢胞（水たまり）ができて腎機能が低下します。お迎え時に遺伝子検査（PKD DNA検査）を確認し、1歳以降は毎年定期的な超音波検査と血液検査を行い、日頃からウェットフードで十分な水分を摂らせることが大切です。"
                     }
-                ],
-                "tags": [
-                    "エキゾチックショートヘア",
-                    "短頭種猫ケア",
-                    "猫涙やけケア",
-                    "多胞性腎病変"
                 ]
             },
             "zh": {
@@ -219,12 +201,6 @@
                         "question": "如何预防与管理多囊肾病（PKD）？",
                         "answer": "多囊肾病（PKD）是波斯猫系常见的遗传性致命疾病，会导致肾脏产生水肿囊肿并逐渐破坏肾功能。建议在领养时确认 DNA 基因检测结果，1 岁后每年定期进行肾脏 B 超与血液检查，日常通过湿粮保证充足饮水量。"
                     }
-                ],
-                "tags": [
-                    "异国短毛猫",
-                    "加菲猫护理",
-                    "猫泪痕护理",
-                    "多囊肾病PKD"
                 ]
             },
             "es": {
@@ -275,12 +251,6 @@
                         "question": "¿Cómo se debe controlar y prevenir la Poliquistosis Renal (PKD)?",
                         "answer": "La Poliquistosis Renal (PKD) es una patología hereditaria grave común en la línea Persa que genera quistes de líquido en los riñones. Exija pruebas genéticas (PKD DNA test) al adoptar, realice ecografías renales y analíticas de sangre anuales a partir del primer año, y fomente el consumo de agua mediante comida húmeda."
                     }
-                ],
-                "tags": [
-                    "ExoticoDePeloCorto",
-                    "GatoBraquicefalico",
-                    "CuidadoDeLagrimas",
-                    "PoliquistosisRenalPKD"
                 ]
             },
             "fr": {
@@ -331,12 +301,6 @@
                         "question": "Comment prévenir et gérer la Polykystose Rénale (PKD) ?",
                         "answer": "La Polykystose Rénale (PKD) est une maladie héréditaire grave fréquente chez les chats issus du Persan, entraînant la formation de kystes sur les reins. Vérifiez le test ADN (PKD) lors de l'adoption, effectuez un suivi échographique et sanguin annuel dès l'âge de 1 an, et favorisez la prise d'eau avec de la pâtée."
                     }
-                ],
-                "tags": [
-                    "ExoticShorthair",
-                    "ChatBrachycephale",
-                    "SoinDesYeuxChat",
-                    "PolykystoseRenalePKD"
                 ]
             },
             "de": {
@@ -387,12 +351,6 @@
                         "question": "Wie beuge ich der Polyzystischen Nierenerkrankung (PKD) vor?",
                         "answer": "Die Polyzystische Nierenerkrankung (PKD) ist eine tödliche Erbkrankheit der Perserlinie, bei der Zysten das Nierengewebe zerstören. Achten Sie beim Kauf auf DNA-Tests der Elterntiere, lassen Sie ab dem 1. Lebensjahr jährliche Ultraschall- und Blutuntersuchungen durchführen und sorgen Sie für hohe Flüssigkeitsaufnahme."
                     }
-                ],
-                "tags": [
-                    "ExoticShorthair",
-                    "BrachyzephaleKatze",
-                    "AugenpflegeKatze",
-                    "PolyzystischeNierenerkrankung"
                 ]
             },
             "pt": {
@@ -443,12 +401,6 @@
                         "question": "Como prevenir e controlar a Doença Renal Policística (PKD)?",
                         "answer": "A Doença Renal Policística (PKD) é uma patologia hereditária grave comum na linhagem Persa, causando cistos nos rins. Exija teste de DNA (PKD) ao adotar, realize ultrassom renal e exames de sangue anuais após o 1 ano de idade, e estimule o consumo de água com sachês úmidos."
                     }
-                ],
-                "tags": [
-                    "ExoticShorthair",
-                    "GatoBraquicefalico",
-                    "CuidadoComOlhosGato",
-                    "DoencaRenalPolicistica"
                 ]
             },
             "id": {
@@ -499,12 +451,6 @@
                         "question": "Bagaimana cara mencegah dan mengelola Penyakit Ginjal Polikistik (PKD)?",
                         "answer": "Penyakit Ginjal Polikistik (PKD) adalah kondisi genetik berbahaya yang umum pada garis keturunan Persia, di mana kista berisi cairan merusak fungsi ginjal. Pastikan tes DNA (PKD) saat adopsi, lakukan USG ginjal dan tes darah rutin tahunan setelah usia 1 tahun, serta jaga asupan air dari pakan basah."
                     }
-                ],
-                "tags": [
-                    "ExoticShorthair",
-                    "KucingPesekBrasisefalik",
-                    "PerawatanNodaAirMata",
-                    "GinjalPolikistikPKD"
                 ]
             }
         },

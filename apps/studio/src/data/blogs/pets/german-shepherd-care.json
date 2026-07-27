@@ -51,12 +51,6 @@
                         "question": "털 빠짐이 너무 심한데 빗질은 얼마나 자주 해야 하나요?",
                         "answer": "저먼 셰퍼드는 빽빽한 이중모를 가지고 있어 '독일 셰퍼드 Shedder(털 뿜뿜이)'라는 별명이 있을 정도로 털이 많이 빠집니다. 매일 5~10분씩 언더코트 전용 빗으로 죽은 속털을 제거해 주고, 털갈이 시기에는 주기적인 목욕과 브러싱을 병행해야 피부 질환을 예방할 수 있습니다."
                     }
-                ],
-                "tags": [
-                    "저먼셰퍼드",
-                    "관절케어",
-                    "이중모관리",
-                    "대형견케어"
                 ]
             },
             "en": {
@@ -107,12 +101,6 @@
                         "question": "Why do German Shepherds shed so much and how often should I brush them?",
                         "answer": "German Shepherds have a dense double coat and are nicknamed 'German Shedders' due to constant heavy shedding. Brush daily for 5-10 minutes with an undercoat rake, and increase brushing and baths during seasonal coat blows to prevent skin issues."
                     }
-                ],
-                "tags": [
-                    "GermanShepherd",
-                    "JointCare",
-                    "DoubleCoat",
-                    "LargeBreedCare"
                 ]
             },
             "ja": {
@@ -163,12 +151,6 @@
                         "question": "抜け毛がひどいのですが、ブラッシングはどれくらいの頻度で行うべきですか？",
                         "answer": "密度の高い二重毛を持つため「ジャーマン・シェッダー（毛噴射犬）」と呼ばれるほど抜けます。アンダーコート用ブラシで毎日5〜10分ブラッシングし、換毛期には定期的なシャンプーと念入りなケアで皮膚トラブルを防ぎましょう。"
                     }
-                ],
-                "tags": [
-                    "ジャーマンシェパード",
-                    "関節ケア",
-                    "二重毛ケア",
-                    "大型犬ケア"
                 ]
             },
             "zh": {
@@ -219,12 +201,6 @@
                         "question": "德牧掉毛非常严重，应该多久梳一次毛？",
                         "answer": "德牧拥有极其浓密的双层毛，甚至被称为“掉毛怪 (German Shedder)”。建议每天用专用底层梳梳理5~10分钟，换毛期应结合定期洗澡与深度梳理以预防皮肤病。"
                     }
-                ],
-                "tags": [
-                    "德国牧羊犬",
-                    "关节护理",
-                    "双层毛护理",
-                    "大型犬护理"
                 ]
             },
             "es": {
@@ -275,12 +251,6 @@
                         "question": "Mi Pastor Alemán suelta muchísimo pelo, ¿con qué frecuencia debo cepillarlo?",
                         "answer": "Poseen un manto doble denso y son apodados 'German Shedders' por su constante muda. Cepille diariamente durante 5-10 minutos con un rastrillo de subpelo, e incremente la frecuencia y los baños durante las épocas de muda estacional."
                     }
-                ],
-                "tags": [
-                    "PastorAleman",
-                    "CuidadoArticular",
-                    "MantoDoble",
-                    "CuidadoDePerrosGrandes"
                 ]
             },
             "fr": {
@@ -331,12 +301,6 @@
                         "question": "Pourquoi mon Berger Allemand perd-il autant de poils et à quelle fréquence le brosser ?",
                         "answer": "Doté d'un sous-poil très dense, il est surnommé « German Shedder » pour sa mue abondante. Brossez-le quotidiennement 5 à 10 minutes avec un peigne démêloir, et intensifiez le brossage lors des mues saisonnières."
                     }
-                ],
-                "tags": [
-                    "BergerAllemand",
-                    "SoinArticulaire",
-                    "DoublePelage",
-                    "GrandChien"
                 ]
             },
             "de": {
@@ -387,12 +351,6 @@
                         "question": "Warum haart mein Schäferhund so stark und wie oft muss ich ihn bürsten?",
                         "answer": "Durch sein dichtes doppeltes Haarkleid zählt er zu den stark haarenden Rassen. Bürsten Sie täglich 5–10 Minuten mit einem Unterwollkamm; im Fellwechsel helfen regelmäßiges Bürsten und Baden, Hautprobleme zu vermeiden."
                     }
-                ],
-                "tags": [
-                    "DeutscherSchaeferhund",
-                    "Gelenkpflege",
-                    "Unterwolle",
-                    "Hundegesundheit"
                 ]
             },
             "pt": {
@@ -443,12 +401,6 @@
                         "question": "Por que o Pastor Alemão solta tanto pelo e com que frequência devo escová-lo?",
                         "answer": "Eles possuem pelagem dupla densa e são conhecidos pelo alto volume de queda. Escove diariamente por 5 a 10 minutos com um rastelo para subpelo e intensifique os banhos e escovações na época de troca de pelagem."
                     }
-                ],
-                "tags": [
-                    "PastorAlemao",
-                    "CuidadoArticular",
-                    "PelagemDupla",
-                    "CaesGrandes"
                 ]
             },
             "id": {
@@ -499,12 +451,6 @@
                         "question": "Mengapa German Shepherd sangat banyak rontok dan seberapa sering harus disikat?",
                         "answer": "Mereka memiliki bulu ganda lebat dan dijuluki 'German Shedder' karena volume kerontokannya yang tinggi. Sikat setiap hari selama 5-10 menit dengan sisir undercoat, serta tingkatkan mandi dan penyikatan saat musim rontok bulu."
                     }
-                ],
-                "tags": [
-                    "GermanShepherd",
-                    "PerawatanSendi",
-                    "BuluGanda",
-                    "PerawatanAnjingBesar"
                 ]
             }
         },

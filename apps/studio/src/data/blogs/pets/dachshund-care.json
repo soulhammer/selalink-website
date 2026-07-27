@@ -51,12 +51,6 @@
                         "question": "What is the safest way to pick up a Dachshund?",
                         "answer": "Always support their entire body horizontally. Place one hand under their chest between the front legs and the other hand supporting their rump and hind legs. Never lift them solely by their front legs or underarms."
                     }
-                ],
-                "tags": [
-                    "Dachshund Care",
-                    "IVDD Prevention",
-                    "Dog Spinal Health",
-                    "Pet Ramps"
                 ]
             },
             "ja": {
@@ -107,12 +101,6 @@
                         "question": "ダックスフントの正しい抱き方は？",
                         "answer": "片手で胸と前足の間を支え、もう片方の手で臀部と後肢をしっかり包み込み、背骨が常に水平を維持するように安定して持ち上げます。前足だけを持って持ち上げるのは厳禁です。"
                     }
-                ],
-                "tags": [
-                    "ダックスフントケア",
-                    "ヘルニア予防",
-                    "犬の脊椎健康",
-                    "ペットスロープ"
                 ]
             },
             "zh": {
@@ -163,12 +151,6 @@
                         "question": "抱腊肠犬的正确姿势是什么？",
                         "answer": "一手托住胸口和前肢之间，另一手托住臀部和后肢，抬起时确保脊椎始终保持水平状态。千万不要只拉扯前腿或抓着腋下抱起。"
                     }
-                ],
-                "tags": [
-                    "腊肠犬护理",
-                    "预防椎间盘突出",
-                    "狗狗脊椎健康",
-                    "宠物斜坡"
                 ]
             },
             "es": {
@@ -219,12 +201,6 @@
                         "question": "¿Cuál es la forma más segura de cargar a un Teckel?",
                         "answer": "Debe sostener todo su cuerpo de forma horizontal. Coloque una mano debajo de su pecho entre las patas delanteras y la otra mano debajo de sus cuartos traseros. Nunca lo levante solo de las patas delanteras o las axilas."
                     }
-                ],
-                "tags": [
-                    "CuidadoDelTeckel",
-                    "PrevenciónDeIVDD",
-                    "SaludEspinalCanina",
-                    "RampasParaPerros"
                 ]
             },
             "fr": {
@@ -275,12 +251,6 @@
                         "question": "Comment porter un Teckel en toute sécurité ?",
                         "answer": "Soutenez toujours l'ensemble de son corps à l'horizontale. Placez une main sous sa poitrine entre les pattes avant et l'autre main sous son arrière-train. Ne le soulevez jamais uniquement par les pattes avant ou sous les aisselles."
                     }
-                ],
-                "tags": [
-                    "SoinDuTeckel",
-                    "HernieDiscaleChien",
-                    "SantéDuDosChien",
-                    "RampePourChien"
                 ]
             },
             "de": {
@@ -331,12 +301,6 @@
                         "question": "Wie hebt man einen Dackel am besten hoch?",
                         "answer": "Stützen Sie immer den gesamten Körper waagerecht. Legen Sie eine Hand unter die Brust zwischen den Vorderbeinen und die andere Hand unter das Hinterteil. Heben Sie den Hund niemals nur an den Vorderbeinen oder Achseln hoch."
                     }
-                ],
-                "tags": [
-                    "Dackelpflege",
-                    "BandscheibenvorfallHund",
-                    "Hundewirbelsaeule",
-                    "Hunderampe"
                 ]
             },
             "pt": {
@@ -387,12 +351,6 @@
                         "question": "Qual é a forma mais segura de pegar um Teckel ao colo?",
                         "answer": "Sustente todo o corpo dele na horizontal. Coloque uma mão por baixo do peito entre as patas dianteiras e a outra mão por baixo do quadril/traseira. Nunca o levante apenas pelas patas dianteiras ou axilas."
                     }
-                ],
-                "tags": [
-                    "CuidadoDoTeckel",
-                    "PrevençãoDeIVDD",
-                    "SaúdeEspinalCanina",
-                    "RampaParaCães"
                 ]
             },
             "id": {
@@ -443,12 +401,6 @@
                         "question": "Bagaimana cara menggendong Dachshund yang benar?",
                         "answer": "Topang seluruh tubuhnya secara horizontal. Letakkan satu tangan di bawah dada di antara kaki depan, dan tangan lainnya di bawah pantat dan kaki belakang anjing. Jangan pernah mengangkatnya hanya dengan menarik kaki depan atau ketiaknya."
                     }
-                ],
-                "tags": [
-                    "PerawatanDachshund",
-                    "PencegahanIVDD",
-                    "TulangBelakangAnjing",
-                    "RampAnjing"
                 ]
             },
             "ko": {
@@ -499,12 +451,6 @@
                         "question": "닥스훈트를 안아 올리는 올바른 방법은 무엇인가요?",
                         "answer": "한 손으로 가슴과 앞다리 사이를 받치고, 다른 한 손으로 엉덩이와 뒷다리를 감싸 척추가 항상 수평을 유지하도록 안정적으로 들어 올려야 합니다. 앞다리만 잡고 들어 올리는 것은 금물입니다."
                     }
-                ],
-                "tags": [
-                    "닥스훈트케어",
-                    "허리디스크예방",
-                    "강아지척추건강",
-                    "애견경사로"
                 ]
             }
         },

@@ -51,12 +51,6 @@
                         "question": "퍼그의 안구 질환과 퍼그 뇌염(PDE)은 어떻게 관리해야 하나요?",
                         "answer": "퍼그는 돌출안 구조로 인해 풀밭이나 자극물에 눈이 긁혀 각막 궤양이 생기기 쉬우므로 산책 후 안구 세정을 권장합니다. 또한 유전성 뇌 질환인 퍼그 뇌염(PDE/괴사성 수막뇌염)은 1~3세 사이에 경련이나 발작, 보행 장애로 나타날 수 있으므로 해당 증상 목격 시 즉시 수의사에게 MRI 검사를 받아야 합니다."
                     }
-                ],
-                "tags": [
-                    "퍼그",
-                    "소형견케어",
-                    "단두종호흡기증후군",
-                    "퍼그각막궤양"
                 ]
             },
             "en": {
@@ -107,12 +101,6 @@
                         "question": "How should I protect my Pug's eyes and manage Pug Dog Encephalitis (PDE)?",
                         "answer": "Because of their shallow eye sockets, Pugs are susceptible to eye trauma, dry eyes, and corneal ulcers from grass or debris; daily eye flushing is recommended. Additionally, Pug Dog Encephalitis (PDE / Necrotizing Meningoencephalitis) is a fatal hereditary brain disease occurring between 1 and 3 years old. If you observe seizures, circling, or head pressing, consult a veterinarian immediately for an MRI evaluation."
                     }
-                ],
-                "tags": [
-                    "Pug",
-                    "SmallDogCare",
-                    "BOASAirwayCare",
-                    "PugCornealHealth"
                 ]
             },
             "ja": {
@@ -163,12 +151,6 @@
                         "question": "パグの目の病気とパグ脳炎（PDE）はどのようにケアすべきですか？",
                         "answer": "パグは浅い眼窩のため草むらなどで目に傷がつきやすく、角膜潰瘍を起こしやすいため散歩後の目元洗浄が推奨されます。また遺伝性脳疾患であるパグ脳炎（PDE/壊死性髄膜脳炎）は1〜3歳でけいれんや発作、歩行障害として現れることがあるため、異常が見られたらすぐに動物病院でMRI検査を受けてください。"
                     }
-                ],
-                "tags": [
-                    "パグ",
-                    "小型犬ケア",
-                    "短頭種気道症候群",
-                    "パグ角膜潰瘍"
                 ]
             },
             "zh": {
@@ -219,12 +201,6 @@
                         "question": "如何护理巴哥犬的眼睛并预防巴哥犬脑炎 (PDE)？",
                         "answer": "巴哥犬浅眼窝导致眼球突出，在草丛散步时极易刮伤角膜引发溃疡，建议散步后用眼药水清洗眼部。此外，巴哥犬脑炎（PDE/坏死性脑膜脑炎）是一种高发于 1~3 岁巴哥犬的致命遗传性脑病。若出现抽搐、癫痫或转圈等异常，必须立即送医进行 MRI 脑部检查。"
                     }
-                ],
-                "tags": [
-                    "巴哥犬",
-                    "小型犬护理",
-                    "短头综合征BOAS",
-                    "巴哥角膜溃疡"
                 ]
             },
             "es": {
@@ -275,12 +251,6 @@
                         "question": "¿Cómo debo cuidar sus ojos y qué es la Encefalitis del Pug (PDE)?",
                         "answer": "Al tener cuencas oculares poco profundas, los Pugs pueden rozarse los ojos con plantas sufriendo úlceras corneales; se aconseja lavar sus ojos tras el paseo. Por otro lado, la Encefalitis del Pug (PDE/Meningoencefalitis Necrosante) es una enfermedad cerebral hereditaria letal que aparece entre 1 y 3 años. Si observa convulsiones, desorientación o caminata en círculos, consulte urgentemente al veterinario para realizar una resonancia."
                     }
-                ],
-                "tags": [
-                    "Pug",
-                    "CuidadoDePerrosPequeños",
-                    "SindromeBraquicefalicoBOAS",
-                    "UlzeraCornealPug"
                 ]
             },
             "fr": {
@@ -331,12 +301,6 @@
                         "question": "Comment protéger ses yeux et qu'est-ce que l'Encéphalite du Carlin (PDE) ?",
                         "answer": "En raison d'orbites peu profondes, les yeux du Carlin frottent facilement contre les herbes, causant des ulcères cornéens qu'il faut prévenir par un nettoyage quotidien. Par ailleurs, l'Encéphalite du Carlin (PDE / Méningo-encéphalite nécrosante) est une maladie cérébrale héréditaire grave apparaissant entre 1 et 3 ans. Si le chien a des crises ou marche en cercle, consultez immédiatement pour un examen IRM."
                     }
-                ],
-                "tags": [
-                    "Carlin",
-                    "SoinPetitChien",
-                    "SyndromeBrachycephaleBOAS",
-                    "UlcereCorneenCarlin"
                 ]
             },
             "de": {
@@ -387,12 +351,6 @@
                         "question": "Wie schütze ich die Augen meines Mopses und was ist die Mops-Enzephalitis (PDE)?",
                         "answer": "Aufgrund flacher Augenhöhlen verletzen sich Möpse die Augen leicht an Gräsern, was zu Hornhautgeschwüren führt. Zudem ist die Mops-Enzephalitis (PDE / Nekrotisierende Meningoenzephalitis) eine tödliche Erbkrankheit des Gehirns bei 1- bis 3-jährigen Möpsen. Bei Krämpfen, Orientierungslosigkeit oder Kreisblaufen ist sofort ein MRT beim Tierarzt nötig."
                     }
-                ],
-                "tags": [
-                    "Mops",
-                    "KleineHundePflege",
-                    "BrachyzephalieBOAS",
-                    "MopsAugenpflege"
                 ]
             },
             "pt": {
@@ -443,12 +401,6 @@
                         "question": "Como cuidar dos olhos do Pug e o que é a Encefalite do Pug (PDE)?",
                         "answer": "Por terem órbitas oculares rasas, os olhos do Pug se ferem facilmente em plantas, causando úlceras de córnea. Além disso, a Encefalite do Pug (PDE / Meningoencefalite Necrosante) é uma doença cerebral hereditária grave que surge entre 1 e 3 anos. Se observar convulsões ou caminhada em círculos, consulte um veterinário para ressonância magnética urgente."
                     }
-                ],
-                "tags": [
-                    "Pug",
-                    "CuidadosComCaesPequenos",
-                    "SindromeBraquicefalicaBOAS",
-                    "UlceraDeCorneaPug"
                 ]
             },
             "id": {
@@ -499,12 +451,6 @@
                         "question": "Bagaimana cara merawat mata Pug dan apa itu Pug Dog Encephalitis (PDE)?",
                         "answer": "Rongga mata yang dangkal membuat mata Pug mudah tergores rumput dan mengalami ulkus kornea, sehingga disarankan membersihkan mata setelah jalan-jalan. Selain itu, Pug Dog Encephalitis (PDE/Meningoensefalitis Nekrotikan) adalah penyakit otak keturunan fatal yang menyerang usia 1–3 tahun. Jika terjadi kejang atau berjalan berputar-putar, segera bawa ke dokter hewan untuk pemeriksaan MRI."
                     }
-                ],
-                "tags": [
-                    "Pug",
-                    "PerawatanAnjingKecil",
-                    "SindromBrasisefalikBOAS",
-                    "UlkusKorneaPug"
                 ]
             }
         },

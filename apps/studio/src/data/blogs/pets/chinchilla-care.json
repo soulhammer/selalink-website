@@ -51,12 +51,6 @@
                         "question": "Why shouldn't Chinchillas ever be bathed in water?",
                         "answer": "Chinchillas have an incredibly dense coat with over 80 hairs growing per follicle, making natural drying impossible once wet. Trapped moisture causes severe fungal dermatitis or fatal hypothermia."
                     }
-                ],
-                "tags": [
-                    "Chinchilla",
-                    "Malocclusion Prevention",
-                    "Heatstroke Prevention",
-                    "Dust Bath Care"
                 ]
             },
             "ja": {
@@ -107,12 +101,6 @@
                         "question": "チンチラを水で洗ってはいけないのはなぜですか？",
                         "answer": "チンチラは1つの毛穴から80本以上の極めて密生した被毛を持つため、濡れると自然乾燥が不可能です。湿った状態が続くと皮膚カビ病や急激な体温低下を引き起こし死に至ります。"
                     }
-                ],
-                "tags": [
-                    "チンチラ",
-                    "不正咬合予防",
-                    "熱中症予防",
-                    "砂浴びケア"
                 ]
             },
             "zh": {
@@ -163,12 +151,6 @@
                         "question": "绝对不能用水给龙猫洗澡的原因是什么？",
                         "answer": "龙猫单个毛孔生长着 80 根以上极度密实的毛发，一旦沾水极难自然风干。持续潮湿会导致严重的皮肤真菌感染或因急性低体温症死亡。"
                     }
-                ],
-                "tags": [
-                    "龙猫",
-                    "预防咬合不正",
-                    "预防中暑",
-                    "沙浴护理"
                 ]
             },
             "es": {
@@ -219,12 +201,6 @@
                         "question": "¿Por qué nunca se debe bañar a una Chinchilla con agua?",
                         "answer": "Las chinchillas poseen una densidad extrema con más de 80 pelos por folículo, impidiendo el secado natural si se mojan. La humedad atrapada causa dermatitis fúngica grave o una hipotermia mortal."
                     }
-                ],
-                "tags": [
-                    "Chinchilla",
-                    "PrevenciónDeMaloclusión",
-                    "PrevenciónGolpeDeCalor",
-                    "CuidadoBañoDeArena"
                 ]
             },
             "fr": {
@@ -275,12 +251,6 @@
                         "question": "Pourquoi est-il strictement interdit de laver un Chinchilla à l'eau ?",
                         "answer": "Le chinchilla possède plus de 80 poils par follicule pileux, formant un pelage extrêmement dense qui ne peut pas sécher naturellement. L'humidité emprisonnée provoque de graves mycoses cutanées ou une hypothermie mortelle."
                     }
-                ],
-                "tags": [
-                    "Chinchilla",
-                    "PréventionMalocclusion",
-                    "PréventionCoupDeChaleur",
-                    "SoinBainDeSable"
                 ]
             },
             "de": {
@@ -331,12 +301,6 @@
                         "question": "Warum dürfen Chinchillas niemals mit Wasser gebadet werden?",
                         "answer": "Chinchillas besitzen ein extrem dichtes Fell mit über 80 Haaren pro Follikel, das nach dem Nasswerden nicht von allein trocknet. Die eingeschlossene Feuchtigkeit führt zu schweren Pilzinfektionen der Haut oder tödlicher Unterkühlung."
                     }
-                ],
-                "tags": [
-                    "Chinchilla",
-                    "MalokklusionPraevention",
-                    "HitzeschlagPraevention",
-                    "SandbadPflege"
                 ]
             },
             "pt": {
@@ -387,12 +351,6 @@
                         "question": "Por que nunca se deve dar banho em uma Chinchila com água?",
                         "answer": "A chinchila possui uma densidade de pelo impressionante de mais de 80 fios por folículo, tornando a secagem natural impossível quando molhada. A umidade presa causa dermatite fúngica grave ou hipotermia fatal."
                     }
-                ],
-                "tags": [
-                    "Chinchila",
-                    "PrevencaoDeMaloclusao",
-                    "PrevencaoDeHipertermia",
-                    "BanhoDeAreia"
                 ]
             },
             "id": {
@@ -443,12 +401,6 @@
                         "question": "Mengapa Chinchilla sama sekali tidak boleh dimandikan dengan air?",
                         "answer": "Chinchilla memiliki kepadatan bulu yang luar biasa dengan lebih dari 80 helai rambut tumbuh dari satu folikel, sehingga mustahil kering secara alami jika basah. Air yang terperangkap akan menyebabkan infeksi jamur kulit yang parah atau hipotermia yang mematikan."
                     }
-                ],
-                "tags": [
-                    "Chinchilla",
-                    "PencegahanMaloklusi",
-                    "PencegahanHeatstroke",
-                    "PerawatanMandiPasir"
                 ]
             },
             "ko": {
@@ -499,12 +451,6 @@
                         "question": "친칠라를 물로 목욕시키면 안 되나요?",
                         "answer": "안 됩니다. 친칠라는 모공 하나에서 80가닥 이상의 엄청나게 촘촘한 모피를 갖고 있어 물이 닿으면 자연 건조가 불가능합니다. 젖은 상태가 지속되면 모피 곰팡이병에 걸리거나 급격한 체온 저하로 폐사할 수 있습니다."
                     }
-                ],
-                "tags": [
-                    "친칠라",
-                    "부정교합예방",
-                    "열사병예방",
-                    "모래목욕"
                 ]
             }
         },

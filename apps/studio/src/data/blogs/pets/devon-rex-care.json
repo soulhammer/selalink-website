@@ -51,12 +51,6 @@
                         "question": "데본 렉스 유전성 근병증(Myopathy)과 말라세지아 피부염은 어떻게 관리하나요?",
                         "answer": "데본 렉스 근병증(Devon Rex Myopathy)은 머리를 떨어뜨리거나 걸음걸이가 어색해지는 유전성 근육 질환으로, 입양 시 부모묘의 유전자 검사 여부를 확인해야 합니다. 또한 피지가 모공을 막아 발생하는 말라세지아(Malassezia) 곰팡이 감염을 예방하기 위해 주기적으로 따뜻한 습식 타월로 피부와 귓속을 청결하게 닦아주어야 합니다."
                     }
-                ],
-                "tags": [
-                    "데본렉스",
-                    "고양이피부케어",
-                    "말라세지아예방",
-                    "데본렉스근병증"
                 ]
             },
             "en": {
@@ -107,12 +101,6 @@
                         "question": "How should I manage Devon Rex Myopathy and Malassezia skin infections?",
                         "answer": "Devon Rex Myopathy (Spasticity) is a hereditary muscle disorder causing head drop and gait abnormalities; ensure parental genetic clearance upon adoption. To control Malassezia yeast overgrowth caused by excess skin sebum, establish a routine of cleaning ears, toes, and facial skin folds with gentle, vet-approved wipes."
                     }
-                ],
-                "tags": [
-                    "DevonRex",
-                    "CatSkinCare",
-                    "MalasseziaDermatitis",
-                    "DevonRexMyopathy"
                 ]
             },
             "ja": {
@@ -163,12 +151,6 @@
                         "question": "デボンレックスの遺伝性ミオパチー（Myopathy）とマラセチア皮膚炎の予防法は？",
                         "answer": "デボンレックスミオパチー（Devon Rex Myopathy）は頭部下垂や歩行異常を引き起こす遺伝性筋疾患で、お迎え時に親猫の遺伝子検査の有無を確認することが重要です。また皮脂によるマラセチア（Malassezia）真菌感染を防ぐため、定期的にぬるま湯で湿らせたシートで耳や足先を衛生的に保つ必要があります。"
                     }
-                ],
-                "tags": [
-                    "デボンレックス",
-                    "猫の皮膚ケア",
-                    "マラセチア予防",
-                    "デボンレックスミオパチー"
                 ]
             },
             "zh": {
@@ -219,12 +201,6 @@
                         "question": "如何预防德文卷毛猫遗传性肌病 (Myopathy) 与马拉色菌皮肤炎？",
                         "answer": "德文卷毛猫肌病（Devon Rex Myopathy）是一种会导致头下垂与步态异常的先天性肌肉疾病，领养时需确认双亲的基因检测报告。为预防因皮脂堆积引发的马拉色菌（Malassezia）真菌感染，需定期用温热湿巾擦拭耳道、脚趾与皮肤折皱以保持干爽。"
                     }
-                ],
-                "tags": [
-                    "德文卷毛猫",
-                    "猫咪皮肤护理",
-                    "马拉色菌预防",
-                    "德文卷毛猫肌病"
                 ]
             },
             "es": {
@@ -275,12 +251,6 @@
                         "question": "¿Cómo se gestiona la Miopatía del Devon Rex y la dermatitis por Malassezia?",
                         "answer": "La Miopatía del Devon Rex es un trastorno muscular hereditario que causa caída de cabeza y marcha anómala; exija pruebas genéticas de los padres al adoptar. Para controlar las levaduras de Malassezia causadas por el exceso de sebo, limpie periódicamente las orejas, dedos y pliegues faciales con toallitas veterinarias antisépticas."
                     }
-                ],
-                "tags": [
-                    "DevonRex",
-                    "CuidadoDePielGato",
-                    "DermatitisMalassezia",
-                    "MiopatiaDevonRex"
                 ]
             },
             "fr": {
@@ -331,12 +301,6 @@
                         "question": "Comment gérer la Myopathie du Devon Rex et la dermatite à Malassezia ?",
                         "answer": "La Myopathie du Devon Rex est une maladie musculaire héréditaire entraînant une chute de la tête et des troubles de la marche ; exigez des tests génétiques des parents. Pour maîtriser les levures de Malassezia causées par le sébum, nettoyez régulièrement ses oreilles et ses plis cutanés avec des lingettes vétérinaires douces."
                     }
-                ],
-                "tags": [
-                    "DevonRex",
-                    "SoinPeauChat",
-                    "DermatiteMalassezia",
-                    "MyopathieDevonRex"
                 ]
             },
             "de": {
@@ -387,12 +351,6 @@
                         "question": "Wie behandelt man die Devon Rex Myopathie und Malassezia-Hautinfektionen?",
                         "answer": "Die Devon Rex Myopathie ist eine erbliche Muskelerkrankung, die zu Kopf-Absinken und Gangstörungen führt; achten Sie beim Kauf auf DNA-Tests der Eltern. Zur Vorbeugung von Malassezia-Hefepilzen durch Talgansammlung müssen Ohrkanäle, Zehenzwischenräume und Gesichtsfalten regelmäßig mit milden Tüchern gereinigt werden."
                     }
-                ],
-                "tags": [
-                    "DevonRex",
-                    "KatzenHautpflege",
-                    "MalasseziaDermatitis",
-                    "DevonRexMyopathie"
                 ]
             },
             "pt": {
@@ -443,12 +401,6 @@
                         "question": "Como prevenir e controlar a Miopatia do Devon Rex e a dermatite por Malassezia?",
                         "answer": "A Miopatia do Devon Rex é um distúrbio muscular hereditário que causa queda da cabeça e marcha alterada; exija testes genéticos dos pais ao adotar. Para controlar o fungo Malassezia decorrente do excesso de sebo, limpe orelhas, patas e dobras faciais com lenços veterinários antissépticos."
                     }
-                ],
-                "tags": [
-                    "DevonRex",
-                    "CuidadosComPeleGato",
-                    "DermatiteMalassezia",
-                    "MiopatiaDevonRex"
                 ]
             },
             "id": {
@@ -499,12 +451,6 @@
                         "question": "Bagaimana cara mengelola Miopati Devon Rex dan dermatitis jamur Malassezia?",
                         "answer": "Miopati Devon Rex (Devon Rex Myopathy) adalah kelainan otot keturunan yang menyebabkan kepala terkulai dan cara jalan abnormal; pastikan tes genetik induknya saat adopsi. Untuk mencegah infeksi jamur Malassezia akibat penumpukan minyak kulit, bersihkan telinga, sela jari, dan lipatan wajah secara rutin dengan tisu antiseptik hewan."
                     }
-                ],
-                "tags": [
-                    "DevonRex",
-                    "PerawatanKulitKucing",
-                    "DermatitisMalassezia",
-                    "MiopatiDevonRex"
                 ]
             }
         },

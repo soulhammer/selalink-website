@@ -51,12 +51,6 @@
                         "question": "체리 새우가 알을 품었는데(포란) 치새우를 구하기 위해 어떡해야 하나요?",
                         "answer": "암컷이 배에 노란색/초록색 알을 품고 다리(복족)를 털어주는 포란 상태가 되면 약 3~4주 후 귀여운 치새우들이 부화합니다. 치새우는 성체 어류(구피, 테트라, 엔젤피쉬 등)의 좋은 먹이가 되므로 풍성한 윌로모스 수초를 조성해 주거나, 새우 전용 단독항에서 사육하는 것이 안전합니다."
                     }
-                ],
-                "tags": [
-                    "체리새우",
-                    "네오카리디나",
-                    "관상용새우",
-                    "새우탈피부전"
                 ]
             },
             "en": {
@@ -107,12 +101,6 @@
                         "question": "My female shrimp is carrying eggs (berried)—how do I protect the baby shrimp?",
                         "answer": "When a female carries yellow or green eggs under her pleopods, shrimplets will hatch in about 3–4 weeks. Since tiny shrimplets are easily eaten by fish (guppies, tetras), provide dense moss cover or house them in a dedicated species-only shrimp tank."
                     }
-                ],
-                "tags": [
-                    "CherryShrimp",
-                    "Neocaridina",
-                    "DwarfShrimp",
-                    "ShrimpMolting"
                 ]
             },
             "ja": {
@@ -163,12 +151,6 @@
                         "question": "チェリーシュリンプが卵を抱えています（抱卵）。稚エビを守るにはどうすればいいですか？",
                         "answer": "メスがお腹（腹足）に卵を抱えて扇ぐ抱卵状態になると、約3〜4週間で可愛い稚エビが孵化します。稚エビはグッピーやテトラなどの魚に食べられやすいため、ウィローモスなどの水草を茂らせるか、エビ専用の単独水槽で飼育するのが安全です。"
                     }
-                ],
-                "tags": [
-                    "チェリーシュリンプ",
-                    "ネオカリディナ",
-                    "観賞用エビ",
-                    "エビの脱皮不全"
                 ]
             },
             "zh": {
@@ -219,12 +201,6 @@
                         "question": "母虾抱卵（踢卵）了，应该如何保护孵化的幼虾？",
                         "answer": "母虾腹足抱有黄/绿色虾卵并不断踢动以增加溶氧时，约 3~4 周后会孵化出幼虾。由于幼虾极易被孔雀鱼、灯鱼等成鱼吞食，应提供密集的莫丝水草作为隐蔽场所，或在观赏虾单养缸中进行繁殖。"
                     }
-                ],
-                "tags": [
-                    "樱花虾",
-                    "极火虾",
-                    "观赏虾",
-                    "虾类脱壳失败"
                 ]
             },
             "es": {
@@ -275,12 +251,6 @@
                         "question": "Mi hembra lleva huevos en el vientre (ovada), ¿cómo protejo a las crías?",
                         "answer": "Cuando la hembra lleva huevos amarillos o verdes en sus pleópodos, las crías nacerán en 3-4 semanas. Como los peces (guppys, tetras) se comen a las crías pequeñas, proporcione musgo muy denso o manténgalas en un acuario exclusivo para gambas."
                     }
-                ],
-                "tags": [
-                    "CamaronCereza",
-                    "GambasNeocaridina",
-                    "Gambario",
-                    "FalloMudaGambas"
                 ]
             },
             "fr": {
@@ -331,12 +301,6 @@
                         "question": "Ma femelle crevette porte des œufs (grainée), comment protéger les bébés ?",
                         "answer": "Quand la femelle porte des œufs jaunes ou verts sous son abdomen, les bébés crevettes naissent au bout de 3 à 4 semaines. Les juvéniles étant des proies faciles pour les poissons (guppys, tétras), fournissez de la mousse végétale dense ou élevez-les dans un bac spécifique."
                     }
-                ],
-                "tags": [
-                    "CrevetteCerise",
-                    "Neocaridina",
-                    "CrevetteNaine",
-                    "MueCrevette"
                 ]
             },
             "de": {
@@ -387,12 +351,6 @@
                         "question": "Mein Garnelenweibchen trägt Eier (eiertragend) – wie schütze ich die Babygarnelen?",
                         "answer": "Trägt das Weibchen gelbe oder grüne Eier unter den Schwimmbeinen, schlüpfen nach 3–4 Wochen winzige Babygarnelen. Da Fische (Guppys, Salmler) die kleinen Garnelen fressen, bieten Sie sehr dichtes Moos an oder halten Sie die Garnelen in einem reinen Artenbecken."
                     }
-                ],
-                "tags": [
-                    "RedCherryGarnele",
-                    "Neocaridina",
-                    "Zwerggarnele",
-                    "GarnelenHaeutung"
                 ]
             },
             "pt": {
@@ -443,12 +401,6 @@
                         "question": "Minha fêmea está carregando ovos no ventre (ovada), como proteger os filhotes?",
                         "answer": "Quando a fêmea carrega ovos amarelos ou verdes nas patas nadadoras, os filhotes nascerão em 3-4 semanas. Como peixes (guppies, tetras) comem os filhotes pequenos, ofereça musgo denso ou mantenha-os em um aquário exclusivo para camarões."
                     }
-                ],
-                "tags": [
-                    "CamaraoRedCherry",
-                    "Neocaridina",
-                    "CamaraoAnao",
-                    "TrocaDeCascaCamarao"
                 ]
             },
             "id": {
@@ -499,12 +451,6 @@
                         "question": "Udang betina saya sedang gendong telur, bagaimana cara melindungi anak udang (berayak)?",
                         "answer": "Saat betina membawa telur berwarna kuning atau hijau di bawah kakinya, anak udang akan menetas dalam waktu 3–4 minggu. Karena anak udang sangat mudah dimakan oleh ikan (guppy, tetra), sediakan lumut yang sangat lebat atau pelihara di akuarium khusus udang."
                     }
-                ],
-                "tags": [
-                    "UdangRedCherry",
-                    "Neocaridina",
-                    "UdangHias",
-                    "GagalGantiKulitUdang"
                 ]
             }
         },

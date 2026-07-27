@@ -51,12 +51,6 @@
                         "question": "Why is fur matting dangerous for Bichons?",
                         "answer": "Bichon fur is thin, curly, and dense. Skipping brushing causes the fur to tangle together into a thick, felt-like mat. Over time, these mats constrict the hair roots and skin, blocking blood circulation and leading to contact dermatitis and severe itching."
                     }
-                ],
-                "tags": [
-                    "Bichon Frise",
-                    "Bichon Blitz",
-                    "Coat Matting",
-                    "Dermatitis Prevention"
                 ]
             },
             "ja": {
@@ -107,12 +101,6 @@
                         "question": "ビション・フリーゼの毛のもつれはなぜ危険ですか？",
                         "answer": "ビションの毛は細く密生した巻き毛のため、ブラッシングを怠ると毛同士が絡まり合って分厚いフェルト状の毛玉になります。この状態が長く続くと毛根を引っ張って皮膚を締め付け、血行を阻害して接触性皮膚炎やかゆみを引き起こします。"
                     }
-                ],
-                "tags": [
-                    "ビション・フリーゼ",
-                    "ビションタイム",
-                    "毛のもつれ",
-                    "皮膚炎予防"
                 ]
             },
             "zh": {
@@ -163,12 +151,6 @@
                         "question": "为什么比熊犬的毛发缠结非常危险？",
                         "answer": "比熊犬的毛发细软、卷曲且密实，如果疏忽梳理，毛发会互相缠绕结成类似厚无纺布一样的毛毡。这种状态时间一长会勒紧毛根，阻断血液循环，从而引发接触性皮肤炎和瘙痒症。"
                     }
-                ],
-                "tags": [
-                    "比熊犬",
-                    "比熊时间",
-                    "毛发缠结",
-                    "预防皮肤炎"
                 ]
             },
             "es": {
@@ -219,12 +201,6 @@
                         "question": "¿Por qué es peligroso el enredo de pelo para los Bichons?",
                         "answer": "El pelo del Bichón es fino, denso y rizado. Omitir el cepillado hace que los pelos se enreden formando pliegues compactos como fieltro. Con el tiempo, estos enredos oprimen las raíces del pelo y la piel, bloqueando la circulación sanguínea y provocando dermatitis de contacto y picor severo."
                     }
-                ],
-                "tags": [
-                    "BichónFrisé",
-                    "BichonBlitz",
-                    "NudosDePelo",
-                    "PrevenciónDeDermatitis"
                 ]
             },
             "fr": {
@@ -275,12 +251,6 @@
                         "question": "Pourquoi les nœuds de poils sont-ils dangereux pour les Bichons ?",
                         "answer": "Le poil du Bichon est fin, dense et frisé. Sans brossage, les poils s'enchevêtrent pour former une plaque de feutre épaisse. À la longue, cette plaque tire sur les racines, comprime la peau, coupe la circulation sanguine et provoque une dermatite de contact avec démangeaisons intenses."
                     }
-                ],
-                "tags": [
-                    "BichonFrisé",
-                    "BichonBlitz",
-                    "NœudsDePoils",
-                    "PréventionDermatite"
                 ]
             },
             "de": {
@@ -331,12 +301,6 @@
                         "question": "Warum ist Fellverfilzung für Bichons gefährlich?",
                         "answer": "Das Fell des Bichon ist fein, dicht und gelockt. Ohne regelmäßiges Bürsten verknoten die Haare zu dicken, filzartigen Matten. Diese ziehen an den Haarwurzeln, schnüren die Haut ein, hemmen die Durchblutung und führen zu schmerzhafter Kontaktdermatitis und starkem Juckreiz."
                     }
-                ],
-                "tags": [
-                    "BichonFrise",
-                    "BichonBlitz",
-                    "Fellverfilzung",
-                    "DermatitisPrävention"
                 ]
             },
             "pt": {
@@ -387,12 +351,6 @@
                         "question": "Por que o pelo embaraçado é perigoso para os Bichons?",
                         "answer": "O pelo do Bichon é fino, denso e encaracolado. Deixar de escovar faz com que os fios se entrelacem formando placas espessas como feltro. Com o tempo, essas placas puxam as raízes dos pelos, sufocam a pele, impedem a circulação sanguínea e causam dermatite de contato e coceira severa."
                     }
-                ],
-                "tags": [
-                    "BichonFrisé",
-                    "BichonBlitz",
-                    "PelagemEmbaraçada",
-                    "PrevençãoDeDermatite"
                 ]
             },
             "id": {
@@ -443,12 +401,6 @@
                         "question": "Mengapa gumpalan bulu kusut berbahaya bagi Bichon Frise?",
                         "answer": "Bulu Bichon tipis, padat, dan keriting. Melewatkan sesi menyikat bulu membuat helai bulu saling terbelit hingga membentuk gumpalan keras seperti kain felt. Seiring waktu, gumpalan ini menarik akar rambut, menjepit kulit, menyumbat sirkulasi darah, serta menyebabkan dermatitis kontak dan rasa gatal yang parah."
                     }
-                ],
-                "tags": [
-                    "BichonFrise",
-                    "BichonBlitz",
-                    "BuluKusut",
-                    "PencegahanDermatitis"
                 ]
             },
             "ko": {
@@ -499,12 +451,6 @@
                         "question": "비숑 프리제의 털 뭉침은 왜 위험한가요?",
                         "answer": "비숑의 털은 얇고 곱슬거리며 촘촘해 빗질을 거르면 털끼리 엉켜 하나의 두꺼운 부직포처럼 뭉칩니다. 이 상태가 오래되면 모근을 조여 피부를 옥죄며 혈액 순환을 차단해 접촉성 피부염과 가려움증을 초래합니다."
                     }
-                ],
-                "tags": [
-                    "비숑 프리제",
-                    "비숑타임",
-                    "털 엉킴",
-                    "피부염 예방"
                 ]
             }
         },

@@ -51,12 +51,6 @@
                         "question": "소심한 러시안 블루와 친해지는 가장 효과적인 비결이 무엇인가요?",
                         "answer": "눈높이를 낮추고 시선을 직접적으로 마주치지 않는 것입니다. 고양이 세계에서 뚫어지게 응시하는 것은 도전의 의미이므로, 시선을 비껴뜨고 손끝 냄새 맡기(코인사)를 유도하며 좋아하는 간식 보상을 반복하는 것이 좋습니다."
                     }
-                ],
-                "tags": [
-                    "러시안블루",
-                    "소심한성격",
-                    "은신처확보",
-                    "반려묘홈케어"
                 ]
             },
             "en": {
@@ -107,12 +101,6 @@
                         "question": "What is the most effective way to bond with a shy Russian Blue?",
                         "answer": "Lower your posture and avoid direct, prolonged eye contact, which felines view as a threat. Let them sniff your finger first, and reward them with their favorite treats when they approach."
                     }
-                ],
-                "tags": [
-                    "RussianBlue",
-                    "ShyTemperament",
-                    "SafeHidingSpots",
-                    "CatHomeCare"
                 ]
             },
             "ja": {
@@ -163,12 +151,6 @@
                         "question": "シャイなロシアンブルーと仲良くなる最も効果的な方法は何ですか？",
                         "answer": "姿勢を低くし、目を直接見つめ続けないことです。猫にとって凝視することは脅威を意味するため、視線を外し、指のにおい嗅ぎ（鼻タッチ）を促し、おやつをあげることを繰り返してください。"
                     }
-                ],
-                "tags": [
-                    "ロシアンブルー",
-                    "人見知りな性格",
-                    "隠れ場所の確保",
-                    "愛猫ホームケア"
                 ]
             },
             "zh": {
@@ -219,12 +201,6 @@
                         "question": "与胆小内向的俄罗斯蓝猫建立联系最有效的方法是什么？",
                         "answer": "放低您的姿态，避免直接且持续地盯着它们看，因为猫咪将注视视为威胁。让它们先嗅闻您的手指，并在它们靠近时给予零食奖励。"
                     }
-                ],
-                "tags": [
-                    "俄罗斯蓝猫",
-                    "胆小性格",
-                    "安全隐蔽处",
-                    "猫咪家庭护理"
                 ]
             },
             "es": {
@@ -275,12 +251,6 @@
                         "question": "¿Cuál es la forma más efectiva de ganarse a un Azul Ruso tímido?",
                         "answer": "Agáchese y evite mirarlo directamente a los ojos, ya que lo ven como amenaza. Deje que olfatee su dedo primero y premie su acercamiento con bocadillos."
                     }
-                ],
-                "tags": [
-                    "AzulRuso",
-                    "TemperamentoTímido",
-                    "EsconditesSeguros",
-                    "CuidadoDeGatos"
                 ]
             },
             "fr": {
@@ -331,12 +301,6 @@
                         "question": "Quel est le moyen le plus efficace de s'apprivoiser un Bleu Russe timide ?",
                         "answer": "Baissez-vous et évitez de le regarder fixement, ce que les chats perçoivent comme une menace. Laissez-le renifler votre doigt et récompensez-le avec des friandises."
                     }
-                ],
-                "tags": [
-                    "BleuRusse",
-                    "CaractèreTimide",
-                    "CachettesSécurisées",
-                    "SoinsFélins"
                 ]
             },
             "de": {
@@ -387,12 +351,6 @@
                         "question": "Wie gewinnt man das Vertrauen einer scheuen Russisch Blau am besten?",
                         "answer": "Gehen Sie in die Hocke und vermeiden Sie direkten Augenkontakt, da Katzen dies als Bedrohung sehen. Lassen Sie sie am Finger schnuppern und belohnen Sie Annäherung."
                     }
-                ],
-                "tags": [
-                    "RussischBlau",
-                    "ScheuesTemperament",
-                    "SichereVerstecke",
-                    "Katzenpflege"
                 ]
             },
             "pt": {
@@ -443,12 +401,6 @@
                         "question": "Qual é a forma mais eficaz de me aproximar de um Azul Russo tímido?",
                         "answer": "Abaixe o corpo e evite o contato visual direto, o qual os felinos veem como ameaça. Deixe-o cheirar seu dedo primeiro e recompense a aproximação com petiscos."
                     }
-                ],
-                "tags": [
-                    "AzulRusso",
-                    "TemperamentoTímido",
-                    "EsconderijosSeguros",
-                    "CuidadoDeGatos"
                 ]
             },
             "id": {
@@ -499,12 +451,6 @@
                         "question": "Apa cara paling efektif untuk dekat dengan Russian Blue yang pemalu?",
                         "answer": "Rendahkan postur Anda dan hindari kontak mata langsung, yang dianggap kucing sebagai ancaman. Biarkan mereka mengendus jari Anda terlebih dahulu."
                     }
-                ],
-                "tags": [
-                    "RussianBlue",
-                    "TemperamenPemalu",
-                    "TempatSembunyiAman",
-                    "PerawatanKucing"
                 ]
             }
         },

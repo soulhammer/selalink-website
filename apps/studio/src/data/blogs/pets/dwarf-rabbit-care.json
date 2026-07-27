@@ -51,12 +51,6 @@
                         "question": "What should I do if my rabbit's feces shrink or they stop eating?",
                         "answer": "A sudden loss of appetite for hay or tiny droppings are early warning signs of GI Stasis. Because a herbivore's stopped gut can become fatal rapidly, contact a specialized rabbit veterinarian immediately."
                     }
-                ],
-                "tags": [
-                    "Netherland Dwarf",
-                    "Rabbit Thumping",
-                    "Timothy Hay Care",
-                    "GI Stasis Prevention"
                 ]
             },
             "ja": {
@@ -107,12 +101,6 @@
                         "question": "糞が小さくなったり、食欲が落ちたりした場合は？",
                         "answer": "急に牧草を食べなくなったり、糞のサイズが極端に小さくなるのは、命に関わる胃腸うっ滞の初期サインです。草食動物の消化管が止まると非常に危険なため、すぐにウサギ専門の獣医師に診てもらってください。"
                     }
-                ],
-                "tags": [
-                    "ネザーランドドワーフ",
-                    "足ダン行動",
-                    "ウサギのチモシー管理",
-                    "胃腸うっ滞予防"
                 ]
             },
             "zh": {
@@ -163,12 +151,6 @@
                         "question": "当粪便变小或不吃东西时该怎么办？",
                         "answer": "兔子突然不吃干草或粪便尺寸急剧减小是致命的胃肠道停滞的早期信号。由于草食动物的胃肠停止工作非常危险，必须立即接受专业兽医的诊疗。"
                     }
-                ],
-                "tags": [
-                    "荷兰侏儒兔",
-                    "跺脚行为",
-                    "提摩西草管理",
-                    "预防胃肠道停滞"
                 ]
             },
             "es": {
@@ -219,12 +201,6 @@
                         "question": "¿Qué debo hacer si las heces de mi conejo se reducen o dejan de comer?",
                         "answer": "Una pérdida repentina del apetito o heces diminutas son signos tempranos de estasis gastrointestinal. Dado que el detenimiento del intestino de un herbívoro puede ser fatal rápidamente, comuníquese con un veterinario de animales exóticos de inmediato."
                     }
-                ],
-                "tags": [
-                    "ConejoEnano",
-                    "GolpesDePatas",
-                    "HenoTimothy",
-                    "PrevenciónDeEstasisGI"
                 ]
             },
             "fr": {
@@ -275,12 +251,6 @@
                         "question": "Que dois-je faire si les crottes de mon lapin diminuent ou s'il arrête de manger ?",
                         "answer": "Une perte d'appétit soudaine pour le foin ou des crottes minuscules sont des signes précoces de stase gastro-intestinale. L'arrêt du transit d'un herbivore pouvant être fatal rapidement, contactez immédiatement un vétérinaire pour animaux exotiques."
                     }
-                ],
-                "tags": [
-                    "LapinNain",
-                    "TapementDePattes",
-                    "FoinDeFléole",
-                    "PréventionStaseGI"
                 ]
             },
             "de": {
@@ -331,12 +301,6 @@
                         "question": "Was tun, wenn der Kot meines Kaninchens kleiner wird oder es aufhört zu fressen?",
                         "answer": "Ein plötzlicher Appetitverlust für Heu oder winzige Kotkügelchen sind frühe Anzeichen einer Magen-Darm-Stase. Da ein Darmstillstand beim Pflanzenfresser schnell tödlich sein kann, kontaktieren Sie sofort einen Tierarzt für exotische Kleintiere."
                     }
-                ],
-                "tags": [
-                    "Zwergkaninchen",
-                    "Pfotenklopfen",
-                    "TimothyHeu",
-                    "GIStasisPraevention"
                 ]
             },
             "pt": {
@@ -387,12 +351,6 @@
                         "question": "O que devo fazer se as fezes do meu coelho se reduzirem ou deixarem de comer?",
                         "answer": "Uma perda repentina do apetite por feno ou fezes diminutas são sinais precoces de estase gastrointestinal. Dado que a paragem do intestino de um herbívoro pode ser fatal rapidamente, contacte um veterinário de animais exóticos imediatamente."
                     }
-                ],
-                "tags": [
-                    "CoelhoAnão",
-                    "PancadasDePatas",
-                    "FenoTimothy",
-                    "PrevençãoDeEstaseGI"
                 ]
             },
             "id": {
@@ -443,12 +401,6 @@
                         "question": "Apa yang harus saya lakukan jika kotoran kelinci saya mengecil atau mereka berhenti makan?",
                         "answer": "Kehilangan nafsu makan mendadak terhadap rumput hay atau kotoran yang sangat kecil adalah tanda awal stasis gastrointestinal. Karena berhentinya usus hewan pemakan tumbuhan dapat berakibat fatal dengan cepat, segera hubungi dokter hewan eksotis."
                     }
-                ],
-                "tags": [
-                    "KelinciKerdil",
-                    "HentakanKaki",
-                    "JeramiTimothy",
-                    "PencegahanStasisGI"
                 ]
             },
             "ko": {
@@ -499,12 +451,6 @@
                         "question": "변의 크기가 작아지거나 잘 먹지 않을 때는요?",
                         "answer": "토끼가 갑자기 건초를 먹지 않거나 변의 크기가 급격히 줄어드는 것은 치명적인 위장관 정체증의 초기 신호일 수 있습니다. 초식 동물의 장이 멈추면 생명이 위험하므로 즉시 전문 수의사의 진료를 받아야 합니다."
                     }
-                ],
-                "tags": [
-                    "네덜란드드워프토끼",
-                    "덤핑행동",
-                    "토끼건초관리",
-                    "위장관정체극복"
                 ]
             }
         },

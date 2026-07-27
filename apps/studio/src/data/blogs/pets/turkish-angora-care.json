@@ -51,12 +51,6 @@
                         "question": "How can I make my home safe for a deaf Turkish Angora?",
                         "answer": "Maintain a 100% strictly indoor environment, as deaf cats cannot hear external hazards like vehicles or dogs. Install double safety nets on windows and doors, and always signal your presence through floor vibrations before touching them."
                     }
-                ],
-                "tags": [
-                    "Turkish Angora",
-                    "Congenital Deafness",
-                    "Odd-Eyed Cat",
-                    "Longhair Grooming"
                 ]
             },
             "ja": {
@@ -107,12 +101,6 @@
                         "question": "難聴のターキッシュ・アンゴラを飼う上で最も重要な室内環境の管理は何ですか？",
                         "answer": "屋外の環境音や危険（車など）が察知できないため、100%完全室内飼育を徹底しなければなりません。また、窓や玄関には二重の安全ネットを設置して脱走事故を完全に防ぎましょう。"
                     }
-                ],
-                "tags": [
-                    "ターキッシュアンゴラ",
-                    "先天性難聴",
-                    "オッドアイケア",
-                    "長毛猫のお手入れ"
                 ]
             },
             "zh": {
@@ -163,12 +151,6 @@
                         "question": "照顾听障土耳其安哥拉猫，家庭环境布置最重要的原则是什么？",
                         "answer": "必须实行100%完全室内养育，因为听障猫无法察觉外界车辆或天敌等危险。同时需在窗户和门上安装双重安全防护网，彻底封锁突发性逃逸隐患。"
                     }
-                ],
-                "tags": [
-                    "土耳其安哥拉猫",
-                    "先天性耳聋",
-                    "异瞳猫护理",
-                    "长毛猫梳理"
                 ]
             },
             "es": {
@@ -219,12 +201,6 @@
                         "question": "¿Cómo adaptar el hogar para proteger a un Angora Turco sordo?",
                         "answer": "Manténgalo estrictamente en el interior, ya que no puede percibir peligros externos como vehículos. Instale redes de seguridad dobles en ventanas y puertas, y avise siempre de su presencia creando pequeñas vibraciones en el suelo antes del contacto físico."
                     }
-                ],
-                "tags": [
-                    "Angora Turco",
-                    "Sordera Congenita",
-                    "Gato Ojos Dispares",
-                    "Cuidado Pelaje Largo"
                 ]
             },
             "fr": {
@@ -275,12 +251,6 @@
                         "question": "Comment sécuriser le quotidien d'un Angora Turc sourd à la maison ?",
                         "answer": "Gardez-le exclusivement à l'intérieur, car il ne peut pas entendre les dangers extérieurs (voitures, chiens). Installez des filets de protection doubles aux fenêtres et signalez votre approche par des vibrations au sol avant tout contact."
                     }
-                ],
-                "tags": [
-                    "Angora Turc",
-                    "Surdite Congenitale",
-                    "Chat Yeux Vairons",
-                    "Soin Poil Long"
                 ]
             },
             "de": {
@@ -331,12 +301,6 @@
                         "question": "Wie gestalte ich die Wohnung für eine taube Türkisch Angora sicher?",
                         "answer": "Halten Sie die Katze zu 100 % im Haus, da sie Gefahren wie Autos nicht hören kann. Sichern Sie Fenster und Türen mit doppelten Schutznetzen und kündigen Sie Ihre Nähe stets durch Bodenschwingungen an."
                     }
-                ],
-                "tags": [
-                    "Turkisch Angora",
-                    "Taubheit Katze",
-                    "Heterochromie Katze",
-                    "Langhaarpflege"
                 ]
             },
             "pt": {
@@ -387,12 +351,6 @@
                         "question": "Como adaptar a casa para um gato Angorá Turco surdo?",
                         "answer": "Mantenha-o 100% estritamente dentro de casa, pois ele não percebe perigos externos como veículos. Instale redes de proteção duplas em janelas e portas e avise sua presença criando leves vibrações no chão antes do toque."
                     }
-                ],
-                "tags": [
-                    "Angora Turco",
-                    "Surdez Congenita",
-                    "Heterocromia Felina",
-                    "Cuidado Pelo Longo"
                 ]
             },
             "id": {
@@ -443,12 +401,6 @@
                         "question": "Bagaimana cara merawat kucing Turkish Angora tunarungu dengan aman di rumah?",
                         "answer": "Pastikan kucing tetap berada 100% di dalam rumah, karena mereka tidak dapat mendengar bahaya luar seperti kendaraan. Pasang jaring pengaman ganda pada jendela dan pintu, serta selalu berikan getaran lantai sebelum menyentuh mereka."
                     }
-                ],
-                "tags": [
-                    "Turkish Angora",
-                    "Ketulian Bawaan",
-                    "Kucing Odd Eyed",
-                    "Perawatan Bulu Panjang"
                 ]
             },
             "ko": {
@@ -499,12 +451,6 @@
                         "question": "난청 고양이를 키울 때 가장 주의해야 할 집안 환경 관리법은 무엇인가요?",
                         "answer": "외부 소리를 전혀 듣지 못해 바깥 위험(차량, 위험 소음 등)에 대처할 수 없으므로 100% 완전 실내 사육을 유지해야 합니다. 또한 창문과 현관문에 이중 안전 방충망을 설치하여 돌발적인 탈출 사고를 차단해야 합니다."
                     }
-                ],
-                "tags": [
-                    "터키시앙고라",
-                    "선천성난청",
-                    "오드아이케어",
-                    "장모묘케어"
                 ]
             }
         },

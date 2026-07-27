@@ -51,12 +51,6 @@
                         "question": "How should I manage Pembroke Welsh Corgi shedding?",
                         "answer": "Corgis have a heavy-shedding double coat. Brush daily alternating with a slicker and undercoat rake to remove trapped dead fur, promote air circulation, and prevent skin infections."
                     }
-                ],
-                "tags": [
-                    "Welsh Corgi",
-                    "Patellar Care",
-                    "Spinal Health",
-                    "Double Coat Care"
                 ]
             },
             "ja": {
@@ -107,12 +101,6 @@
                         "question": "コーギーの激しい抜け毛にはどう対処すればいいですか？",
                         "answer": "コーギーは抜け毛が多いダブルコートの犬種です。毛が絡まって皮膚炎を起こさないよう、スリッカーとコームで毎日ブラッシングし、通気性を確保してください。"
                     }
-                ],
-                "tags": [
-                    "ウェルシュコーギー",
-                    "膝蓋骨ケア",
-                    "椎間板ヘルニア",
-                    "二重毛管理"
                 ]
             },
             "zh": {
@@ -163,12 +151,6 @@
                         "question": "如何应对柯基犬双层毛的掉毛问题？",
                         "answer": "柯基犬是掉毛量极大量的双层毛犬种。为了防止毛发缠结引起皮肤炎，应每天交替使用针梳和开结梳进行梳理，以确保皮肤空气流通。"
                     }
-                ],
-                "tags": [
-                    "威尔士柯基",
-                    "髌骨护理",
-                    "脊椎健康",
-                    "双层毛护理"
                 ]
             },
             "es": {
@@ -219,12 +201,6 @@
                         "question": "¿Cómo debo manejar la caída de pelo del Welsh Corgi?",
                         "answer": "Los Corgis tienen un manto doble de gran caída. Cepille diariamente alternando un cepillo carda (slicker) y un rastrillo para eliminar el pelo muerto, favorecer la circulación de aire y prevenir infecciones."
                     }
-                ],
-                "tags": [
-                    "WelshCorgi",
-                    "CuidadoPatelar",
-                    "SaludEspinal",
-                    "MantoDoble"
                 ]
             },
             "fr": {
@@ -275,12 +251,6 @@
                         "question": "Comment gérer la perte de poils du Welsh Corgi ?",
                         "answer": "Le Corgi a un pelage double qui perd énormément de poils. Brossez quotidiennement en alternant carde (slicker) et peigne démêleur pour enlever le sous-poil mort et éviter les dermatites."
                     }
-                ],
-                "tags": [
-                    "WelshCorgi",
-                    "SoinDeRotule",
-                    "SantéDuDos",
-                    "GestionDoublePelage"
                 ]
             },
             "de": {
@@ -331,12 +301,6 @@
                         "question": "Wie sollte ich den Haarausfall beim Welsh Corgi bewältigen?",
                         "answer": "Corgis haben ein stark haarendes doppeltes Fell. Bürsten Sie täglich im Wechsel mit einer Zupfbürste und einer Unterfellharke, um totes Haar zu entfernen und Hautinfektionen vorzubeugen."
                     }
-                ],
-                "tags": [
-                    "WelshCorgi",
-                    "Kniescheibenpflege",
-                    "Rueckengesundheit",
-                    "DoppeltesFell"
                 ]
             },
             "pt": {
@@ -387,12 +351,6 @@
                         "question": "Como gerenciar a queda de pelos do Welsh Corgi?",
                         "answer": "Os Corgis têm pelagem dupla com forte queda de pelos. Escove diariamente alternando rasqueadeira (slicker) e pente de subpelo (rake) para remover pelos mortos, promover a circulação de ar e evitar dermatites."
                     }
-                ],
-                "tags": [
-                    "WelshCorgi",
-                    "CuidadoPatelar",
-                    "SaudeEspinal",
-                    "PelagemDupla"
                 ]
             },
             "id": {
@@ -443,12 +401,6 @@
                         "question": "Bagaimana cara mengatasi kerontokan bulu Welsh Corgi?",
                         "answer": "Corgi memiliki bulu ganda yang rontok parah. Sikat setiap hari bergantian dengan sikat slicker dan sisir garu (rake) untuk mengangkat bulu mati, menjaga sirkulasi udara, dan mencegah infeksi kulit."
                     }
-                ],
-                "tags": [
-                    "WelshCorgi",
-                    "PerawatanPatela",
-                    "KesehatanTulangBelakang",
-                    "PerawatanBuluGanda"
                 ]
             },
             "ko": {
@@ -499,12 +451,6 @@
                         "question": "웰시코기 이중모 털빠짐은 어떻게 대처해야 하나요?",
                         "answer": "웰시코기는 엄청난 양의 털을 배출하는 이중모 견종입니다. 털이 뭉쳐 피부염을 일으키지 않도록 매일 슬리커와 레이크 빗을 교차해 빗질해 주어 공기 순환을 확보해야 합니다."
                     }
-                ],
-                "tags": [
-                    "웰시코기",
-                    "슬개골예방",
-                    "척추디스크",
-                    "이중모관리"
                 ]
             }
         },

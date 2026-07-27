@@ -51,12 +51,6 @@
                         "question": "고관절 이형성증은 어떻게 예방하고 관리해야 하나요?",
                         "answer": "성장기에 과도한 체중 증가를 막고, 과도한 칼슘 과다 급여를 피하는 것이 핵심입니다. 미끄러운 바닥 방지와 점프 차단, 그리고 낮은 강도의 수영이나 평지 산책을 통해 주변 근육을 강화해야 합니다."
                     }
-                ],
-                "tags": [
-                    "사모예드",
-                    "이중모관리",
-                    "고관절이형성증",
-                    "털빠짐케어"
                 ]
             },
             "en": {
@@ -107,12 +101,6 @@
                         "question": "How can I prevent and manage Samoyed hip dysplasia?",
                         "answer": "Preventing rapid weight gain during growth stages is essential. Avoid jumping or running on slippery floors, and maintain low-impact muscle-building exercises such as swimming or flat-ground walking."
                     }
-                ],
-                "tags": [
-                    "Samoyed",
-                    "DoubleCoatCare",
-                    "HipDysplasia",
-                    "SheddingManagement"
                 ]
             },
             "ja": {
@@ -163,12 +151,6 @@
                         "question": "股関節形成不全はどのように予防・管理すべきですか？",
                         "answer": "成長期の過度な体重増加を避け、カルシウムの過剰摂取を控えることが最も重要です。滑り止め対策と、水泳や平地での散歩など低負荷な運動で関節周囲の筋肉を鍛えましょう。"
                     }
-                ],
-                "tags": [
-                    "サモエド",
-                    "ダブルコートケア",
-                    "股関節形成不全",
-                    "換毛期ケア"
                 ]
             },
             "zh": {
@@ -219,12 +201,6 @@
                         "question": "如何从日常管理中预防髋关节退化？",
                         "answer": "关键在于控制体重。避免让萨摩耶过度肥胖，这会成倍增加关节磨损。幼年及青年期避免过度剧烈跳跃，并通过游泳或平地散步强化肌肉。"
                     }
-                ],
-                "tags": [
-                    "萨摩耶",
-                    "双层被毛",
-                    "髋关节发育不良",
-                    "换毛护理"
                 ]
             },
             "es": {
@@ -275,12 +251,6 @@
                         "question": "¿Qué puedo hacer para evitar la displasia de cadera?",
                         "answer": "Controle estrictamente su peso corporal desde la etapa de crecimiento, evite que salte sobre suelos resbaladizos y mantenga una rutina de ejercicios de bajo impacto como paseos en terreno plano o natación."
                     }
-                ],
-                "tags": [
-                    "Samoyedo",
-                    "MantoDoble",
-                    "DisplasiaDeCadera",
-                    "MudaDePelo"
                 ]
             },
             "fr": {
@@ -331,12 +301,6 @@
                         "question": "Comment gérer et prévenir la dysplasie de la hanche au quotidien ?",
                         "answer": "La gestion du poids pendant la croissance est primordiale. Évitez les sauts intenses sur les sols glissants et privilégiez les exercices à faible impact comme la marche ou la natation."
                     }
-                ],
-                "tags": [
-                    "Samoyède",
-                    "PelageDouble",
-                    "DysplasieDeLaHanche",
-                    "EntretienDuPoil"
                 ]
             },
             "de": {
@@ -387,12 +351,6 @@
                         "question": "Wie kann Hüftdysplasie vorgebeugt werden?",
                         "answer": "Achten Sie auf ein gesundes Gewicht im Wachstum. Vermeiden Sie Sprünge auf glatten Böden und kräftigen Sie die Muskeln durch schonende Übungen wie Schwimmen."
                     }
-                ],
-                "tags": [
-                    "Samojede",
-                    "DoppelmantelPflege",
-                    "Hueftdysplasie",
-                    "FellwechselCare"
                 ]
             },
             "pt": {
@@ -443,12 +401,6 @@
                         "question": "Como posso prevenir e manejar a displasia no quadril?",
                         "answer": "Evite o sobrepeso desde filhote para reduzir o estresse articular. Evite saltos altos em pisos lisos e fortaleça a musculatura com natação ou caminhadas em terreno plano."
                     }
-                ],
-                "tags": [
-                    "Samoieda",
-                    "PelagemDupla",
-                    "DisplasiaDeQuadril",
-                    "ControleDeQueda"
                 ]
             },
             "id": {
@@ -499,12 +451,6 @@
                         "question": "Bagaimana cara terbaik mengelola dan mencegah displasia pinggul?",
                         "answer": "Jaga berat badan ideal sejak masa pertumbuhan agar tidak membebani pinggulnya. Hindari aktivitas melompat terlalu tinggi di lantai yang licin dan lakukan latihan ringan seperti berenang."
                     }
-                ],
-                "tags": [
-                    "Samoyed",
-                    "PerawatanBuluGanda",
-                    "DisplasiaPinggul",
-                    "PerawatanBuluRontok"
                 ]
             }
         },

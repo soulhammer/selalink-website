@@ -51,12 +51,6 @@
                         "question": "What are the early warning symptoms of Metabolic Bone Disease (MBD)?",
                         "answer": "Early signs include a soft lower jaw, swollen limb joints, muscle tremors, and slipping or dragging limbs while walking. If observed, upgrade lighting equipment immediately and consult a specialized reptile vet."
                     }
-                ],
-                "tags": [
-                    "Bearded Dragon",
-                    "Reptile Calcium Feeding",
-                    "UVB Lighting Care",
-                    "MBD Prevention"
                 ]
             },
             "ja": {
@@ -107,12 +101,6 @@
                         "question": "代謝性骨疾患（MBD）の初期サインは何ですか？",
                         "answer": "下顎が柔らかくなる、足の関節の腫れ、筋肉の震え、歩行時に力なく滑るなどの症状が初期の兆候です。発見した場合は直ちに照明設備を補強し、専門の獣医師の診察を受けてください。"
                     }
-                ],
-                "tags": [
-                    "フトアゴヒゲトカゲ",
-                    "爬虫類カルシウム給餌",
-                    "UVB照明管理",
-                    "MBD骨疾患予防"
                 ]
             },
             "zh": {
@@ -163,12 +151,6 @@
                         "question": "代谢性骨病（MBD）的早期前兆有哪些？",
                         "answer": "下颌骨变软、四肢关节肿胀、肌肉不受控抽搐以及爬行时无力打滑均属于早期症状。一旦发现，须立即升级灯光设备并寻求专业异宠兽医的诊疗。"
                     }
-                ],
-                "tags": [
-                    "鬃狮蜥",
-                    "爬宠补钙",
-                    "UVB灯具管理",
-                    "预防MBD骨病"
                 ]
             },
             "es": {
@@ -219,12 +201,6 @@
                         "question": "¿Cuáles son las primeras señales de la Enfermedad Ósea Metabólica (MBD)?",
                         "answer": "La mandíbula blanda, la inflamación de las articulaciones de las patas, los temblores musculares y el arrastre o debilidad al caminar son síntomas tempranos. Si detecta estos signos, ajuste la iluminación de inmediato y acuda a un veterinario especialista."
                     }
-                ],
-                "tags": [
-                    "Dragón Barbudo",
-                    "Suplementación de Calcio",
-                    "Iluminación UVB",
-                    "Prevención de MBD"
                 ]
             },
             "fr": {
@@ -275,12 +251,6 @@
                         "question": "Quels sont les premiers symptômes de l'ostéodystrophie nutritionnelle (MBD) ?",
                         "answer": "Une mâchoire inférieure ramollie, des articulations enflées au niveau des pattes, des tremblements musculaires ou des difficultés à marcher sont des signes avant-coureurs. Si vous les observez, ajustez l'éclairage immédiatement et consultez un vétérinaire spécialisé."
                     }
-                ],
-                "tags": [
-                    "Dragon Barbu",
-                    "Calcium pour Reptile",
-                    "Gestion Éclairage UVB",
-                    "Prévention MBD"
                 ]
             },
             "de": {
@@ -331,12 +301,6 @@
                         "question": "Was sind die ersten Anzeichen einer metabolischen Knochenerkrankung (MBD)?",
                         "answer": "Ein weicher Unterkiefer, geschwollene Gelenke an den Beinen, Muskelzittern und Kraftlosigkeit beim Gehen sind frühe Symptome. Passen Sie bei diesen Anzeichen sofort die Beleuchtung an und suchen Sie einen fachkundigen Tierarzt auf."
                     }
-                ],
-                "tags": [
-                    "Bartagame",
-                    "Reptilien-Kalziumfütterung",
-                    "UVB-Beleuchtungsmanagement",
-                    "MBD-Prävention"
                 ]
             },
             "pt": {
@@ -387,12 +351,6 @@
                         "question": "Quais são os primeiros sinais da Doença Óssea Metabólica (MBD)?",
                         "answer": "Mandíbula amolecida, articulações das patas inchadas, tremores musculares e perda de força ao andar são sinais precoces. Se notar estes sintomas, ajuste a iluminação imediatamente e consulte um veterinário especialista."
                     }
-                ],
-                "tags": [
-                    "Dragão Barbudo",
-                    "Suplementação de Cálcio",
-                    "Manejo de Luz UVB",
-                    "Prevenção de MBD"
                 ]
             },
             "id": {
@@ -443,12 +401,6 @@
                         "question": "Apa saja gejala awal Penyakit Tulang Metabolik (MBD)?",
                         "answer": "Rahang bawah yang melunak, pembengkakan pada sendi kaki, otot gemetar, dan kaki yang lemas atau terseret saat berjalan adalah gejala awalnya. Jika menemukan tanda-tanda ini, segera perbaiki peralatan pencahayaan dan periksakan ke dokter hewan spesialis hewan eksotis."
                     }
-                ],
-                "tags": [
-                    "Bearded Dragon",
-                    "Pemberian Kalsium Reptil",
-                    "Manajemen Lampu UVB",
-                    "Pencegahan MBD"
                 ]
             },
             "ko": {
@@ -499,12 +451,6 @@
                         "question": "대사성 골질환(MBD)의 초기 신호는 무엇인가요?",
                         "answer": "턱뼈가 말랑해지거나 다리 관절 부종, 근육 떨림, 걸을 때 힘없이 미끄러지는 현상 등이 초기 증상입니다. 이를 발견하면 즉시 조명 설비를 보강하고 전문 수의사의 진료를 받아야 합니다."
                     }
-                ],
-                "tags": [
-                    "비어디드래곤",
-                    "파충류칼슘급여",
-                    "UVB조명관리",
-                    "MBD골질환예방"
                 ]
             }
         },

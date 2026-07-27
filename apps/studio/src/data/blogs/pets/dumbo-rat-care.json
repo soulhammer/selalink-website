@@ -51,12 +51,6 @@
                         "question": "덤보 래트를 한 마리만 외롭게 키워도 되나요? 베딩은 침엽수 톱밥을 써도 되나요?",
                         "answer": "절대 안 됩니다! 래트는 사회성이 매우 높은 무리 생활 동물이므로 홀로 사육 시 심각한 우울증과 면역 저하가 발생하여 반드시 동성(또는 중성화된) 2마리 이상 함께 키워야 합니다. 또한 소나무(Pine)나 삼나무(Cedar) 베딩은 유해한 페놀 성분이 나와 간과 호흡기를 파괴하므로 반드시 먼지 없는 종이 베딩이나 열처리된 아스펜(Aspen) 베딩을 사용해야 합니다."
                     }
-                ],
-                "tags": [
-                    "덤보래트",
-                    "소형동물케어",
-                    "마이코플라즈마",
-                    "래트포르피린"
                 ]
             },
             "en": {
@@ -107,12 +101,6 @@
                         "question": "Can I keep a single Dumbo Rat alone, and can I use pine or cedar wood shavings for bedding?",
                         "answer": "Absolutely not! Rats are obligate social animals that thrive in pairs or same-sex groups; a solo rat suffers severe psychological depression and weakened immunity. Additionally, pine and cedar wood shavings release toxic phenols that destroy liver and respiratory tissues, so you must use dust-free paper or kiln-dried Aspen bedding."
                     }
-                ],
-                "tags": [
-                    "DumboRat",
-                    "SmallPetCare",
-                    "MycoplasmaRat",
-                    "PorphyrinInRats"
                 ]
             },
             "ja": {
@@ -163,12 +151,6 @@
                         "question": "ダンボレートを1匹だけで飼育しても大丈夫ですか？また針葉樹のウッドチップを使ってもいいですか？",
                         "answer": "絶対に避けてください！レートは非常に社会的な群れ動物であり、1匹で飼育すると重度のストレスや鬱症状を起こすため、必ず同性（または去勢済み）の2匹以上で飼育する必要があります。また、松（Pine）や杉（Cedar）の床材は有毒なフェノール揮発成分を含み肝臓や呼吸器を破壊するため、必ず低ホコリのペーパー床材や高温乾燥アスペン床材を使用してください。"
                     }
-                ],
-                "tags": [
-                    "ダンボレート",
-                    "小動物ケア",
-                    "マイコプラズマ",
-                    "ポルフィリン"
                 ]
             },
             "zh": {
@@ -219,12 +201,6 @@
                         "question": "可以单只独居饲养大耳花鼠吗？可以使用松木刨花垫料吗？",
                         "answer": "绝对不可以！大耳花鼠是严格的社会性群居动物，单只饲养会导致严重的心理抑郁与免疫力下降，必须同性（或已绝育）两只以上合笼饲养。此外，松木（Pine）和杉木（Cedar）垫料会释放破坏肝脏与呼吸道的有毒酚类物质，必须使用无尘纸垫料或高温烘干的杨木（Aspen）垫料。"
                     }
-                ],
-                "tags": [
-                    "大耳花鼠",
-                    "小宠护理",
-                    "支原体肺炎",
-                    "大鼠卟啉"
                 ]
             },
             "es": {
@@ -275,12 +251,6 @@
                         "question": "¿Puedo tener una sola Rata Dumbo en soledad y usar viruta de pino o cedro?",
                         "answer": "¡Jamás! Las ratas son animales gregarios obligatorios que necesitan vivir en parejas o grupos del mismo sexo; una rata solitaria sufre depresión profunda e inmunodepresión. Además, el pino y el cedro liberan fenoles tóxicos que destruyen el hígado y los pulmones, por lo que debe usar sustrato de papel sin polvo o álamo (Aspen) secado al horno."
                     }
-                ],
-                "tags": [
-                    "RataDumbo",
-                    "CuidadoDePequeñosAnimales",
-                    "MicoplasmaEnRatas",
-                    "PorfirinaEnRatas"
                 ]
             },
             "fr": {
@@ -331,12 +301,6 @@
                         "question": "Puis-je élever un Rat Dumbo seul et utiliser du copeau de bois de pin ou de cèdre ?",
                         "answer": "Absolument pas ! Les rats sont des animaux grégaires obligatoires qui doivent vivre en groupe ou en duo de même sexe ; un rat seul souffre de dépression sévère et de baisse d'immunité. De plus, le pin et le cèdre dégagent des phénols toxiques pour leur foie et leurs poumons : utilisez exclusivement de la litière de papier ou de peuplier (Aspen)."
                     }
-                ],
-                "tags": [
-                    "RatDumbo",
-                    "SoinNACSoinSante",
-                    "MycoplasmeRat",
-                    "PorphyrineRat"
                 ]
             },
             "de": {
@@ -387,12 +351,6 @@
                         "question": "Kann ich eine Dumbo-Ratte einzeln halten und Sägemehl aus Kiefer oder Zeder nutzen?",
                         "answer": "Niemals! Ratten sind Rudeltiere; in Einzelhaltung leiden sie unter schweren Depressionen und Immunschwäche. Sie müssen mindestens zu zweit (gleichgeschlechtlich oder kastriert) gehalten werden. Nadelholz-Einstreu (Kiefer/Zeder) setzt giftige Phenole frei, die Leber und Lunge schädigen – nutzen Sie nur staubfreie Papier- oder Aspen-Einstreu."
                     }
-                ],
-                "tags": [
-                    "DumboRatte",
-                    "Kleintierpflege",
-                    "MykoplasmenRatte",
-                    "PorphyrinRatte"
                 ]
             },
             "pt": {
@@ -443,12 +401,6 @@
                         "question": "Posso criar um Rato Dumbo sozinho e usar serragem de pinho ou cedro?",
                         "answer": "Jamais! Ratos são animais estritamente gregários que precisam viver em duplas ou grupos do mesmo sexo; um rato sozinho sofre de depressão grave e queda de imunidade. Além disso, a maravalha de pinho e cedro libera fenóis tóxicos que destroem o fígado e pulmões: use apenas forração de papel sem poeira ou Aspen."
                     }
-                ],
-                "tags": [
-                    "RatoDumbo",
-                    "CuidadosComPequenosAnimais",
-                    "MicoplasmaEmRatos",
-                    "PorfirinaEmRatos"
                 ]
             },
             "id": {
@@ -499,12 +451,6 @@
                         "question": "Bolehkah saya memelihara satu ekor Tikus Dumbo saja, dan bolehkah memakai serbuk kayu pinus/cedar?",
                         "answer": "Sangat tidak boleh! Tikus adalah hewan sosial sejati yang harus hidup berpasangan atau berkelompok sesama jenis; tikus sendirian akan mengalami depresi berat. Selain itu, serbuk kayu pinus dan cedar melepaskan racun fenol yang merusak hati dan paru-paru, sehingga wajib menggunakan alas kertas bebas debu atau kayu Aspen."
                     }
-                ],
-                "tags": [
-                    "TikusDumbo",
-                    "PerawatanHewanKecil",
-                    "MikoplasmaTikus",
-                    "PorfirinTikus"
                 ]
             }
         },

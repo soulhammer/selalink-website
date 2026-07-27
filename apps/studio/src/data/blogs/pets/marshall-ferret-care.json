@@ -51,12 +51,6 @@
                         "question": "페럿 특유의 누린내와 냄새를 없애고 싶어요.",
                         "answer": "페럿은 피지선에서 고유의 머스크 향이 나므로, 냄새를 없애기 위해 잦은 목욕을 시키면 오히려 피부가 건조해져 피지 분비가 폭발하고 냄새가 악화됩니다. 목욕은 월 1회로 한정하고 페럿이 닿는 해먹과 담요를 자주 세탁해 주는 것이 가장 이상적입니다."
                     }
-                ],
-                "tags": [
-                    "마샬페럿",
-                    "위즐워댄스",
-                    "페럿방목주의",
-                    "페럿데드슬립"
                 ]
             },
             "en": {
@@ -107,12 +101,6 @@
                         "question": "How can I reduce the natural musky odor of my ferret?",
                         "answer": "Ferrets secrete musk from skin sebaceous glands. Bathing them too frequently strips essential oils, causing their skin to overproduce sebum and worsening the scent. Limit baths to once a month and frequently wash their fleece hammocks and bedding instead."
                     }
-                ],
-                "tags": [
-                    "MarshallFerret",
-                    "WeaselWarDance",
-                    "FerretProofing",
-                    "FerretDeadSleep"
                 ]
             },
             "ja": {
@@ -163,12 +151,6 @@
                         "question": "特有の体臭（アブラ臭さ）を抑えるにはどうすればいいですか？",
                         "answer": "フェレットは皮脂腺から独特の香りを出すため、臭いを消すために頻繁にお風呂に入れると、かえって皮膚が乾燥して皮脂分泌が増え、臭いが強くなります。シャンプーは月1回程度にとどめ、ハンモックや毛布を頻繁に洗うことが最善の対策です。"
                     }
-                ],
-                "tags": [
-                    "マーシャルフェレット",
-                    "ウォーダンス",
-                    "フェレットの放牧",
-                    "デッドスリープ"
                 ]
             },
             "zh": {
@@ -219,12 +201,6 @@
                         "question": "如何控制雪貂特有的体味（麝香味）？",
                         "answer": "雪貂皮脂腺会分泌独特的麝香气味，如果为了消除异味而频繁洗澡，反而会导致皮肤干燥，皮脂分泌爆发而使味道加重。建议洗澡限制在每月1次，频繁清洗它们接触的吊床和毛毯是最佳方法。"
                     }
-                ],
-                "tags": [
-                    "马歇尔雪貂",
-                    "雪貂战舞",
-                    "雪貂放风注意事项",
-                    "假死睡眠"
                 ]
             },
             "es": {
@@ -275,12 +251,6 @@
                         "question": "¿Cómo controlo el olor a almizcle natural del hurón?",
                         "answer": "Los hurones secretan almizcle desde glándulas en la piel. Los baños frecuentes secan su piel, lo que provoca una mayor producción de sebo y empeora el olor. Bañe solo una vez al mes y lave sus sábanas y hamacas semanalmente."
                     }
-                ],
-                "tags": [
-                    "HurónDeMarshall",
-                    "DanzaDeGuerra",
-                    "AcondicionamientoParaHurones",
-                    "SueñoProfundo"
                 ]
             },
             "fr": {
@@ -331,12 +301,6 @@
                         "question": "Comment contrôler l'odeur musquée naturelle du furet ?",
                         "answer": "Les furets sécrètent du musc par des glandes cutanées. Des bains fréquents dessèchent leur peau, ce qui provoque une production accrue de sébum et aggrave l'odeur. Limitez le bain à une fois par mois et lavez leur literie chaque semaine."
                     }
-                ],
-                "tags": [
-                    "FuretDeMarshall",
-                    "DanseDeGuerre",
-                    "SécurisationDuFuret",
-                    "SommeilDePlomb"
                 ]
             },
             "de": {
@@ -387,12 +351,6 @@
                         "question": "Wie kontrolliere ich den natürlichen Moschusgeruch des Frettchens?",
                         "answer": "Frettchen sondern Moschus aus Hautdrüsen ab. Häufiges Baden trocknet ihre Haut aus, was zu einer verstärkten Talgproduktion führt und den Geruch verschlimmert. Baden Sie sie einmal im Monat und waschen Sie die Liegedecken wöchentlich."
                     }
-                ],
-                "tags": [
-                    "MarshallFrettchen",
-                    "Kriegstanz",
-                    "FrettchensichererRaum",
-                    "Tiefschlaf"
                 ]
             },
             "pt": {
@@ -443,12 +401,6 @@
                         "question": "Como controlo o cheiro a almíscar natural do furão?",
                         "answer": "Os furões secretam almíscar desde glândulas na pele. Os banhos frequentes secam a sua pele, o que provoca uma maior produção de sebo e piora o cheiro. Dê banho apenas uma vez por mês e lave as suas redes e mantas semanalmente."
                     }
-                ],
-                "tags": [
-                    "FurãoDeMarshall",
-                    "DançaDeGuerra",
-                    "AlojamentoParaFurões",
-                    "SonoProfundo"
                 ]
             },
             "id": {
@@ -499,12 +451,6 @@
                         "question": "Bagaimana cara mengendalikan bau musky alami ferret?",
                         "answer": "Ferret mengeluarkan aroma musk dari kelenjar kulit. Mandi yang terlalu sering mengeringkan kulit mereka, memicu produksi sebum lebih banyak dan memperburuk bau. Batasi mandi sebulan sekali dan cuci alas tidur mereka setiap minggu."
                     }
-                ],
-                "tags": [
-                    "FerretMarshall",
-                    "TarianPerang",
-                    "PengamananKandangFerret",
-                    "TidurMati"
                 ]
             }
         },

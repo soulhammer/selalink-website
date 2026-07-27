@@ -51,13 +51,6 @@
                         "question": "여름철에 사육장 온도가 28°C 이상 올라가면 위험한가요?",
                         "answer": "매우 위험합니다! 뉴칼레도니아 저온종인 가고일 게코는 28°C 이상의 고온에 노출되면 열스트레스로 사망할 수 있습니다. 에어컨이나 냉각 팬을 이용해 22°C~25°C를 유지해야 합니다."
                     }
-                ],
-                "tags": [
-                    "가고일게코",
-                    "파충류케어",
-                    "뉴칼레도니아게코",
-                    "붙붙이도마뱀",
-                    "도마뱀사육"
                 ]
             },
             "en": {
@@ -108,13 +101,6 @@
                         "question": "Is it dangerous if the terrarium temperature rises above 28°C in summer?",
                         "answer": "Extremely dangerous! As a cool-climate species from New Caledonia, temperatures above 28°C can cause severe heat stress and fatal hyperthermia. Use room air conditioning or cooling fans to keep temperatures between 22°C and 25°C."
                     }
-                ],
-                "tags": [
-                    "GargoyleGecko",
-                    "ReptileCare",
-                    "NewCaledonianGecko",
-                    "ArborealGecko",
-                    "HerpetologyCare"
                 ]
             },
             "ja": {
@@ -165,13 +151,6 @@
                         "question": "夏場にケージの温度が28°C以上に上がると危険ですか？",
                         "answer": "非常に危険です！ニューカレドニア原産の低温種であるガーゴイルゲッコウは、28°C以上の高温に晒されると熱ストレスで死に至る恐れがあります。エアコンや冷却ファンで22°C〜25°Cを維持してください。"
                     }
-                ],
-                "tags": [
-                    "ガーゴイルゲッコウ",
-                    "ツノミカドヤモリ",
-                    "爬虫類ケア",
-                    "ニューカレドニアヤモリ",
-                    "ヤモリ飼育"
                 ]
             },
             "zh": {
@@ -222,13 +201,6 @@
                         "question": "夏季饲养箱温度超过28°C会有危险吗？",
                         "answer": "非常危险！作为原产于新喀里多尼亚的喜低温物种，超过28°C的高温会导致严重的热应激甚至致死。请务必使用空调或冷却风扇将温度控制在22°C~25°C。"
                     }
-                ],
-                "tags": [
-                    "盖勾胜蜥蜴",
-                    "盖勾守宫",
-                    "爬行动物护理",
-                    "新喀里多尼亚守宫",
-                    "守宫饲养"
                 ]
             },
             "es": {
@@ -279,13 +251,6 @@
                         "question": "¿Es peligroso si la temperatura del terrario supera los 28°C en verano?",
                         "answer": "¡Extremadamente peligroso! Al ser una especie de clima fresco de Nueva Caledonia, temperaturas superiores a 28°C causan choque térmico fatal. Utilice aire acondicionado o ventiladores de refrigeración para mantener entre 22°C y 25°C."
                     }
-                ],
-                "tags": [
-                    "GeckoGargola",
-                    "CuidadoDeReptiles",
-                    "GeckoDeNuevaCaledonia",
-                    "GeckoArboricola",
-                    "Herpetologia"
                 ]
             },
             "fr": {
@@ -336,13 +301,6 @@
                         "question": "Est-ce dangereux si la température du terrarium dépasse 28°C en été ?",
                         "answer": "Extrêmement dangereux ! Étant une espèce de climat frais originaire de Nouvelle-Calédonie, une température supérieure à 28°C provoque un coup de chaleur mortel. Utilisez la climatisation ou des ventilateurs pour maintenir entre 22°C et 25°C."
                     }
-                ],
-                "tags": [
-                    "GeckoGargouille",
-                    "SoinsReptiles",
-                    "GeckoNouvelleCaledonie",
-                    "GeckoArboricole",
-                    "Herpetologie"
                 ]
             },
             "de": {
@@ -393,13 +351,6 @@
                         "question": "Ist es gefährlich, wenn die Terrarientemperatur im Sommer über 28°C steigt?",
                         "answer": "Extrem gefährlich! Als Kaltklima-Art aus Neukaledonien führt eine Temperatur von über 28°C zu tödlichem Hitzestress. Nutzen Sie Klimaanlagen oder Kühlventilatoren, um die Temperatur zwischen 22°C und 25°C zu halten."
                     }
-                ],
-                "tags": [
-                    "GargoyleGecko",
-                    "Reptilienpflege",
-                    "NeukaledonienGecko",
-                    "Baumbewohnend",
-                    "Terraristik"
                 ]
             },
             "pt": {
@@ -450,13 +401,6 @@
                         "question": "É perigoso se a temperatura do terrário passar de 28°C no verão?",
                         "answer": "Extremamente perigoso! Por ser uma espécie de clima fresco da Nova Caledônia, temperaturas acima de 28°C causam estresse térmico fatal. Use ar-condicionado ou coolers para manter entre 22°C e 25°C."
                     }
-                ],
-                "tags": [
-                    "GeckoGargula",
-                    "CuidadosComRepteis",
-                    "GeckoDaNovaCaledonia",
-                    "GeckoArboricola",
-                    "Herpetologia"
                 ]
             },
             "id": {
@@ -507,13 +451,6 @@
                         "question": "Apakah berbahaya jika suhu terarium naik di atas 28°C saat musim panas?",
                         "answer": "Sangat berbahaya! Sebagai spesies iklim sejuk dari Kaledonia Baru, suhu di atas 28°C dapat menyebabkan stres panas fatal (hyperthermia). Gunakan AC ruangan atau pendingin untuk menjaga suhu antara 22°C hingga 25°C."
                     }
-                ],
-                "tags": [
-                    "TokekGargoyle",
-                    "PerawatanReptil",
-                    "TokekKaledoniaBaru",
-                    "KadalPohon",
-                    "Herpetologi"
                 ]
             }
         },

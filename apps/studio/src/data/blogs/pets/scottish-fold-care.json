@@ -51,12 +51,6 @@
                         "question": "Why shouldn't I use cotton swabs to clean a Scottish Fold's ears?",
                         "answer": "Because of their folded structure, the ear canal is narrow and curved. Inserting cotton swabs pushes wax and debris deeper into the canal and can scratch the delicate skin lining, causing severe bacterial or yeast ear infections (otitis externa)."
                     }
-                ],
-                "tags": [
-                    "Scottish Fold",
-                    "Osteochondrodysplasia",
-                    "Ear Cleaning",
-                    "Cat Joint Care"
                 ]
             },
             "ja": {
@@ -107,12 +101,6 @@
                         "question": "フォールドの折れ耳の掃除に綿棒を使ってはいけない理由は何ですか？",
                         "answer": "折れ耳は耳道が狭く曲がっているため、綿棒を使うと汚れを奥へ押し込んでしまい、デリケートな耳の皮膚膜を傷つけて細菌性や真菌性の外耳炎を引き起こす恐れがあるからです。"
                     }
-                ],
-                "tags": [
-                    "スコティッシュフォールド",
-                    "骨軟骨異形成症",
-                    "耳掃除",
-                    "猫の関節ケア"
                 ]
             },
             "zh": {
@@ -163,12 +151,6 @@
                         "question": "清理折耳猫的折叠耳内部时，为什么不能使用棉签？",
                         "answer": "折耳结构导致耳道入口狭窄且弯曲，使用棉签极易将耳垢推入耳道深处，并可能划伤脆弱的耳内皮肤，从而引发严重的细菌或真菌性外耳道炎。"
                     }
-                ],
-                "tags": [
-                    "苏格兰折耳猫",
-                    "骨软骨发育不良",
-                    "洗耳清洁",
-                    "猫咪关节护理"
                 ]
             },
             "es": {
@@ -219,12 +201,6 @@
                         "question": "¿Por qué no se deben usar bastoncillos para limpiar los oídos del Fold?",
                         "answer": "Debido a su oreja doblada, el canal es estrecho y curvo. Los bastoncillos empujan la cera hacia adentro y pueden lesionar la sensible piel del oído, provocando otitis externa bacteriana o micótica."
                     }
-                ],
-                "tags": [
-                    "Scottish Fold",
-                    "Osteocondrodisplasia",
-                    "Limpieza de Oídos",
-                    "Cuidado Articular Felino"
                 ]
             },
             "fr": {
@@ -275,12 +251,6 @@
                         "question": "Pourquoi ne faut-il pas utiliser de cotons-tiges pour nettoyer les oreilles d'un Fold ?",
                         "answer": "En raison de la structure pliée, le conduit auditif est étroit et coudé. L'utilisation de cotons-tiges repousse le cérumen au fond et risque de blesser la peau fragile du conduit, entraînant de sévères otites bactériennes ou fongiques."
                     }
-                ],
-                "tags": [
-                    "Scottish Fold",
-                    "Ostéochondrodysplasie",
-                    "Nettoyage des Oreilles",
-                    "Soins Articulaires Féllins"
                 ]
             },
             "de": {
@@ -331,12 +301,6 @@
                         "question": "Warum sollte man keine Wattestäbchen zur Ohrreinigung bei Folds verwenden?",
                         "answer": "Durch die gefaltete Ohrstruktur ist der Gehörgang eng und gewinkelt. Wattestäbchen schieben den Ohrenschmalz tief hinein und können die empfindliche Ohrhaut verletzen, was zu schweren bakteriellen Entzündungen führt."
                     }
-                ],
-                "tags": [
-                    "Scottish Fold",
-                    "Osteochondrodysplasie",
-                    "Ohrenreinigung",
-                    "Katzen Gelenkpflege"
                 ]
             },
             "pt": {
@@ -387,12 +351,6 @@
                         "question": "Por que não se deve usar cotonetes para limpar as orelhas do Fold?",
                         "answer": "Devido à estrutura dobrada, o conduto auditivo é estreito e curvado. Usar cotonetes empurra a cera para o fundo e pode lesionar a pele sensível, provocando graves otites bacterianas ou fúngicas."
                     }
-                ],
-                "tags": [
-                    "Scottish Fold",
-                    "Osteocondrodisplasia",
-                    "Limpeza de Orelhas",
-                    "Cuidado Articular Felino"
                 ]
             },
             "id": {
@@ -443,12 +401,6 @@
                         "question": "Mengapa cotton bud tidak boleh digunakan untuk membersihkan telinga Fold?",
                         "answer": "Struktur telinga yang terlipat membuat saluran telinga sempit dan melengkung. Menggunakan cotton bud akan mendorong kotoran semakin dalam dan berisiko melukai kulit dalam yang sensitif, memicu infeksi telinga parah."
                     }
-                ],
-                "tags": [
-                    "Scottish Fold",
-                    "Osteochondrodysplasia",
-                    "Pembersihan Telinga",
-                    "Perawatan Sendi Kucing"
                 ]
             },
             "ko": {
@@ -499,12 +451,6 @@
                         "question": "폴드의 접힌 귀 내부를 청소할 때 면봉을 사용하면 안 되나요?",
                         "answer": "접힌 귀 구조상 귓구멍 입구가 좁고 구부러져 있어 면봉을 넣으면 이물질이 오히려 안으로 깊숙이 박히고 약한 귀 안쪽 피부막을 손상시켜 세균이나 효모균에 의한 심각한 외이염을 초래합니다."
                     }
-                ],
-                "tags": [
-                    "스코티시폴드",
-                    "골연골이형성증",
-                    "귀 청소",
-                    "반려묘 관절 케어"
                 ]
             }
         },

@@ -51,12 +51,6 @@
                         "question": "체중 조절이 왜 중요한가요?",
                         "answer": "체중이 증가하면 다리가 짧고 척추가 긴 구조상 관절 마모와 디스크 질환을 극도로 촉진합니다. 따라서 사료 공급량을 제한하여 적정 체중을 엄격히 유지해야 합니다."
                     }
-                ],
-                "tags": [
-                    "먼치킨고양이",
-                    "고양이관절케어",
-                    "척추디스크예방",
-                    "펫계단"
                 ]
             },
             "en": {
@@ -107,12 +101,6 @@
                         "question": "Why is strict weight control so critical for Munchkin cats?",
                         "answer": "Gaining extra weight places immense pressure on their short limbs and long spine, rapidly accelerating cartilage wear and spinal disc disease. Strict meal portioning to maintain an ideal weight is vital."
                     }
-                ],
-                "tags": [
-                    "MunchkinCat",
-                    "CatJointCare",
-                    "SpineProtection",
-                    "PetSteps"
                 ]
             },
             "ja": {
@@ -163,12 +151,6 @@
                         "question": "マンチカンにとって体重管理が重要な理由は？",
                         "answer": "体重の増加は短い脚や背骨に直接負担をかけ、関節炎や椎間板ヘルニアを早期に誘発します。適切な給餌量によりスリムな体型を維持することが最善の予防です。"
                     }
-                ],
-                "tags": [
-                    "マンチカン",
-                    "猫の関節ケア",
-                    "背骨の健康",
-                    "ペットステップ"
                 ]
             },
             "zh": {
@@ -219,12 +201,6 @@
                         "question": "为什么曼基康猫必须严格控制体重？",
                         "answer": "超重会对较短的骨骼结构施加过大压迫，容易引发软骨磨损和椎间盘变性。严格管理饮食，维持纤细的身材是重中之重。"
                     }
-                ],
-                "tags": [
-                    "曼基康矮脚猫",
-                    "猫关节护理",
-                    "脊椎保护",
-                    "宠物台阶"
                 ]
             },
             "es": {
@@ -275,12 +251,6 @@
                         "question": "¿Por qué es clave el peso en el Munchkin?",
                         "answer": "El exceso de peso multiplica la carga sobre sus extremidades cortas, acelerando el desgaste del cartílago y causando dolor. Su dieta debe ser controlada estrictamente."
                     }
-                ],
-                "tags": [
-                    "GatoMunchkin",
-                    "SaludArticularFelina",
-                    "CuidadoDeColumna",
-                    "EscalerasParaGatos"
                 ]
             },
             "fr": {
@@ -331,12 +301,6 @@
                         "question": "Pourquoi surveiller le poids d'un Munchkin ?",
                         "answer": "Chaque gramme supplémentaire surcharge son squelette court, ce qui fatigue les articulations et favorise l'arthrose. Contrôlez scrupuleusement ses rations de nourriture."
                     }
-                ],
-                "tags": [
-                    "ChatMunchkin",
-                    "SoinsArticulairesChat",
-                    "ProtectionDeLaColonne",
-                    "EscalierPourChat"
                 ]
             },
             "de": {
@@ -387,12 +351,6 @@
                         "question": "Warum ist das Gewicht bei Munchkin-Katzen so wichtig?",
                         "answer": "Jedes Gramm Übergewicht belastet die kurzen Beine und den langen Rücken extrem, was Gelenkverschleiß beschleunigt. Halten Sie die Katze durch strikte Fütterung schlank."
                     }
-                ],
-                "tags": [
-                    "MunchkinKatze",
-                    "GelenkpflegeKatze",
-                    "Rueckenschutz",
-                    "Tiertreppe"
                 ]
             },
             "pt": {
@@ -443,12 +401,6 @@
                         "question": "Qual a importância do peso no Munchkin?",
                         "answer": "O excesso de peso aumenta a carga sobre as suas patas curtas e coluna lombar, acelerando o desgaste das cartilagens. Controle estritamente a dieta."
                     }
-                ],
-                "tags": [
-                    "GatoMunchkin",
-                    "ArticulaçõesFelinas",
-                    "CuidadoDaColuna",
-                    "EscadasParaGatos"
                 ]
             },
             "id": {
@@ -499,12 +451,6 @@
                         "question": "Mengapa kontrol berat badan sangat vital bagi Munchkin?",
                         "answer": "Kelebihan berat badan akan memberikan beban berlebih pada kaki pendek dan punggung panjang mereka, mempercepat radang sendi. Jaga berat badannya dengan porsi makan yang diatur ketat."
                     }
-                ],
-                "tags": [
-                    "KucingMunchkin",
-                    "SendiKucing",
-                    "ProteksiTulangBelakang",
-                    "TanggaKucing"
                 ]
             }
         },

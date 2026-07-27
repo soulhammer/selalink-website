@@ -51,12 +51,6 @@
                         "question": "How can I prevent obesity in an American Shorthair?",
                         "answer": "Choose low-carbohydrate, high-protein food and limit treats. Using puzzle feeders (food toys) to make them work for a portion of their kibble is an effective way to increase physical activity."
                     }
-                ],
-                "tags": [
-                    "American Shorthair",
-                    "HCM Prevention",
-                    "Obesity Control",
-                    "Heart Care"
                 ]
             },
             "ja": {
@@ -107,12 +101,6 @@
                         "question": "アメリカン・ショートヘアの肥満予防の食事のコツはありますか？",
                         "answer": "炭水化物が少なくタンパク質割合が高いフードを選び、フードの一部を知育玩具（フードトイ）に入れて転がしながら食べさせることで、運動量を増やすのが効果的です。"
                     }
-                ],
-                "tags": [
-                    "アメショ",
-                    "HCM予防",
-                    "猫の肥満",
-                    "心エコー"
                 ]
             },
             "zh": {
@@ -163,12 +151,6 @@
                         "question": "美短容易变胖，有什么有效的饮食控制建议吗？",
                         "answer": "建议选择低碳水化合物、高蛋白质配方的猫粮，并将部分猫粮放入益智漏食玩具中，让猫咪边玩边吃，以此增加日常活动量。"
                     }
-                ],
-                "tags": [
-                    "美国短毛猫",
-                    "HCM预防",
-                    "猫咪减肥",
-                    "心脏彩超"
                 ]
             },
             "es": {
@@ -219,12 +201,6 @@
                         "question": "¿Qué consejos nutricionales ayudan a prevenir la obesidad en el American Shorthair?",
                         "answer": "Seleccione un alimento alto en proteína y bajo en carbohidratos, y sirva parte de su ración dentro de juguetes interactivos dispensadores para motivarlo a moverse mientras come."
                     }
-                ],
-                "tags": [
-                    "American Shorthair",
-                    "Prevencion HCM",
-                    "Gato Obeso",
-                    "Ecocardiografia Felina"
                 ]
             },
             "fr": {
@@ -275,12 +251,6 @@
                         "question": "Quels sont les conseils nutritionnels pour éviter l'obésité chez l'American Shorthair ?",
                         "answer": "Choisissez des croquettes riches en protéines et pauvres en glucides. Placez une partie de sa ration dans des jouets distributeurs (puzzle feeders) pour qu'il s'active physiquement en mangeant."
                     }
-                ],
-                "tags": [
-                    "American Shorthair",
-                    "Prevention CMH",
-                    "Obesite Chat",
-                    "Cardiologie Feline"
                 ]
             },
             "de": {
@@ -331,12 +301,6 @@
                         "question": "Wie lässt sich Übergewicht bei der American Shorthair am besten vermeiden?",
                         "answer": "Wählen Sie ein Futter mit hohem Protein- und niedrigem Kohlenhydratgehalt. Geben Sie einen Teil des Futters in Intelligenzspielzeuge (Futterlabyrinthe), damit sich die Katze ihr Futter erarbeiten muss."
                     }
-                ],
-                "tags": [
-                    "American Shorthair",
-                    "HCM Vorbeugung",
-                    "Katzenubergewicht",
-                    "Herzultraschall"
                 ]
             },
             "pt": {
@@ -387,12 +351,6 @@
                         "question": "Quais são as melhores dicas nutricionais para evitar a obesidade no American Shorthair?",
                         "answer": "Escolha rações ricas em proteínas e com baixo teor de carboidratos. Coloque parte da porção diária em brinquedos interativos (comedouros lentos) para incentivar o gato a se mover enquanto come."
                     }
-                ],
-                "tags": [
-                    "American Shorthair",
-                    "Prevecao HCM",
-                    "Obesidade Felina",
-                    "Eco Cardiograma"
                 ]
             },
             "id": {
@@ -443,12 +401,6 @@
                         "question": "Bagaimana tips nutrisi efektif untuk mencegah obesitas pada American Shorthair?",
                         "answer": "Pilih pakan tinggi protein dan rendah karbohidrat. Masukkan sebagian pakan ke dalam mainan edukatif (puzzle feeder) agar kucing bergerak aktif saat berusaha mengeluarkan makanannya."
                     }
-                ],
-                "tags": [
-                    "American Shorthair",
-                    "Pencegahan HCM",
-                    "Kontrol Obesitas",
-                    "USG Jantung Kucing"
                 ]
             },
             "ko": {
@@ -499,12 +451,6 @@
                         "question": "아메리칸 쇼트헤어의 비만 예방 식단 팁이 있을까요?",
                         "answer": "탄수화물 함량이 낮고 단백질 비율이 높은 사료를 선택하고, 사료의 일부를 간식 장난감(푸드 토이) 안에 넣어 굴려서 꺼내 먹도록 유도하여 움직임을 늘려주는 것이 효과적입니다."
                     }
-                ],
-                "tags": [
-                    "아메리칸 쇼트헤어",
-                    "HCM 예방",
-                    "고양이 비만",
-                    "심장 초음파"
                 ]
             }
         },

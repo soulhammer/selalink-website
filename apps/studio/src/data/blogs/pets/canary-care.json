@@ -51,12 +51,6 @@
                         "question": "카나리아도 손에 올리는 핸들링이나 짝을 맞춰주는 것이 필수인가요?",
                         "answer": "아니요. 카나리아는 앵무새와 달리 핀치류에 속하여 과도한 스킨십이나 핸들링을 극심한 스트레스로 받아들입니다. 또한 수컷끼리는 영역 싸움을 하므로 단독 사육이 기본이며, 보는 즐거움과 소리를 감상하는 관상 케어가 적합합니다."
                     }
-                ],
-                "tags": [
-                    "카나리아",
-                    "조류케어",
-                    "관상조류",
-                    "카나리아노래"
                 ]
             },
             "en": {
@@ -107,12 +101,6 @@
                         "question": "Do canaries need hand-taming or a cage companion?",
                         "answer": "No. Canaries belong to the finch family and naturally prefer personal space over human handling. Males are territorial and will fight if housed together. They thrive best in solitary setups focused on visual and auditory appreciation."
                     }
-                ],
-                "tags": [
-                    "Canary",
-                    "AvianCare",
-                    "Songbird",
-                    "CanaryHealth"
                 ]
             },
             "ja": {
@@ -163,12 +151,6 @@
                         "question": "カナリアも手乗り訓練やパートナー（同居鳥）が必要ですか？",
                         "answer": "いいえ。カナリアはフィンチ類に属するため、過度なスキンシップや手乗り訓練を強いストレスと感じます。また、オス同士は縄張り争いをするため単独飼育が基本であり、姿や歌声を楽しむ観賞飼育が適しています。"
                     }
-                ],
-                "tags": [
-                    "カナリア",
-                    "鳥類ケア",
-                    "観賞鳥",
-                    "カナリアの歌"
                 ]
             },
             "zh": {
@@ -219,12 +201,6 @@
                         "question": "金丝雀需要上手互动或训练吗？需要准备同伴吗？",
                         "answer": "不需要。金丝雀属于雀科鸟类，天生喜欢独立空间，过度的上手触摸会给其带来巨大压力。此外，雄鸟之间具有领地意识，单只饲养最为适宜，适合作为观赏和聆听鸣唱的宠物。"
                     }
-                ],
-                "tags": [
-                    "金丝雀",
-                    "鸟类护理",
-                    "观赏鸟",
-                    "金丝雀鸣唱"
                 ]
             },
             "es": {
@@ -275,12 +251,6 @@
                         "question": "¿Los canarios necesitan adiestramiento manual o un compañero de jaula?",
                         "answer": "No. Los canarios pertenecen a la familia de los fringílidos y prefieren su espacio antes que el manejo humano. Los machos son territoriales y pelearán si están juntos. Prosperan mejor en alojamientos individuales orientados al disfrute visual y auditivo."
                     }
-                ],
-                "tags": [
-                    "Canario",
-                    "CuidadoDeAves",
-                    "AveDeCanto",
-                    "SaludDelCanario"
                 ]
             },
             "fr": {
@@ -331,12 +301,6 @@
                         "question": "Le canari a-t-il besoin d'être apprivoisé ou d'avoir un compagnon de cage ?",
                         "answer": "Non. Les canaris appartiennent à la famille des fringillidés et préfèrent leur autonomie aux manipulations. Les mâles étant territoriaux, ils se battent s'ils sont ensemble. Ils s'épanouissent pleinement en cage individuelle pour le plaisir des yeux et des oreilles."
                     }
-                ],
-                "tags": [
-                    "Canari",
-                    "SoinDesOiseaux",
-                    "OiseauChanteur",
-                    "SanteDuCanari"
                 ]
             },
             "de": {
@@ -387,12 +351,6 @@
                         "question": "Brauchen Kanarienvögel Handzahmheit oder einen Käfigpartner?",
                         "answer": "Nein. Kanarienvögel gehören zu den Finken und empfinden Berührungen als Stress. Männchen sind territorial und kämpfen untereinander. Sie gedeihen am besten in Einzelhaltung als reine Beobachtungs- und Gesangsvögel."
                     }
-                ],
-                "tags": [
-                    "Kanarienvogel",
-                    "Vogelpflege",
-                    "Stubenvogel",
-                    "Kanariengesang"
                 ]
             },
             "pt": {
@@ -443,12 +401,6 @@
                         "question": "Canários precisam de amestramento ou de companheiro de gaiola?",
                         "answer": "Não. Os canários pertencem à família dos fringilídeos e preferem sua autonomia ao manuseio humano. Os machos são territoriais e brigarão se ficarem juntos. Eles se desenvolvem melhor em gaiolas individuais voltadas para a apreciação visual e auditiva."
                     }
-                ],
-                "tags": [
-                    "Canario",
-                    "CuidadosComAves",
-                    "PassaroDeCanto",
-                    "SaudeDoCanario"
                 ]
             },
             "id": {
@@ -499,12 +451,6 @@
                         "question": "Apakah burung kenari perlu dijinakkan di tangan atau diberi pasangan?",
                         "answer": "Tidak. Kenari termasuk dalam keluarga finch yang secara alami lebih menyukai ruang pribadi ketimbang dipegang manusia. Kenari jantan bersifat teritorial dan akan bertengkar jika disatukan. Mereka paling sejahtera dipelihara secara mandiri untuk dinikmati keindahan visual dan kicauannya."
                     }
-                ],
-                "tags": [
-                    "Kenari",
-                    "PerawatanBurung",
-                    "BurungPenyanyi",
-                    "KesehatanKenari"
                 ]
             }
         },

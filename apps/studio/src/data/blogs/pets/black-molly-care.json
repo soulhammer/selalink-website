@@ -51,12 +51,6 @@
                         "question": "블랙 몰리 수조에 천일염(소금)을 넣어도 괜찮나요?",
                         "answer": "네, 큰 도움이 됩니다! 몰리는 담수뿐만 아니라 기수(민물과 바닷물이 섞이는 지역)에서도 서식하는 어종입니다. 수조 물 10L당 천일염 약 5~10g 정도를 첨가해 주면 기생충 및 백점병 예방, 삼투압 유지, 점막 보호에 탁월한 효과가 있습니다."
                     }
-                ],
-                "tags": [
-                    "블랙몰리",
-                    "수생생물케어",
-                    "열대어백점병",
-                    "난태생열대어"
                 ]
             },
             "en": {
@@ -107,12 +101,6 @@
                         "question": "Is it safe to add aquarium salt to a Black Molly tank?",
                         "answer": "Yes, it is highly beneficial! Mollies naturally inhabit freshwater to brackish water environments. Adding approximately 5 to 10 grams of non-iodized aquarium salt per 10 liters of water enhances slime coat production, prevents Ich and velvet parasites, and reduces osmotic stress."
                     }
-                ],
-                "tags": [
-                    "BlackMolly",
-                    "AquaticPetCare",
-                    "FishIchDisease",
-                    "LivebearerFish"
                 ]
             },
             "ja": {
@@ -163,12 +151,6 @@
                         "question": "ブラックモーリーの水槽に塩（アクアリウムソルト）を入れても大丈夫ですか？",
                         "answer": "はい、非常に効果的です！モーリーは淡水だけでなく汽水域（淡水と海水が混ざる場所）にも生息する魚です。水10Lに対してアクアリウムソルト約5〜10gを添加すると、粘膜保護、白点病や寄生虫の予防、浸透圧の維持に大きな効果を発揮します。"
                     }
-                ],
-                "tags": [
-                    "ブラックモーリー",
-                    "観賞魚ケア",
-                    "熱帯魚白点病",
-                    "卵胎生メダカ"
                 ]
             },
             "zh": {
@@ -219,12 +201,6 @@
                         "question": "可以在黑玛丽鱼的水族箱里加入水族盐（粗盐）吗？",
                         "answer": "完全可以，且大有裨益！黑玛丽鱼在原产地不仅生活于淡水，也大量分布于汽水（咸淡水）区域。按每 10 升水加入约 5~10 克无碘水族粗盐，能有效促进鱼体粘膜分泌、预防白点病与水霉寄生虫，并减轻渗透压负担。"
                     }
-                ],
-                "tags": [
-                    "黑玛丽鱼",
-                    "观赏鱼护理",
-                    "热带鱼白点病",
-                    "卵胎生观赏鱼"
                 ]
             },
             "es": {
@@ -275,12 +251,6 @@
                         "question": "¿Es seguro agregar sal para acuarios en el acuario del Molly Negro?",
                         "answer": "¡Sí, es altamente beneficioso! Los Mollies habitan naturalmente en aguas dulces y salobres. Agregar de 5 a 10 gramos de sal para acuario no yodada por cada 10 litros de agua mejora la capa mucosa protectora, previene el punto blanco y disminuye el estrés osmótico."
                     }
-                ],
-                "tags": [
-                    "MollyNegro",
-                    "CuidadoDePeces",
-                    "PuntoBlancoPeces",
-                    "PecesOvoviviparos"
                 ]
             },
             "fr": {
@@ -331,12 +301,6 @@
                         "question": "Peut-on ajouter du sel pour aquarium dans le bac des Mollies Noirs ?",
                         "answer": "Oui, c'est extrêmement bénéfique ! Les Mollies vivent naturellement en eau douce et saumâtre. Ajouter environ 5 à 10 grammes de sel d'aquarium non iodé pour 10 litres d'eau renforce le mucus protecteur, prévient la maladie des points blancs et réduit le stress osmotique."
                     }
-                ],
-                "tags": [
-                    "MollyNoir",
-                    "SoinDesPoissons",
-                    "MaladiePointsBlancs",
-                    "PoissonVivipare"
                 ]
             },
             "de": {
@@ -387,12 +351,6 @@
                         "question": "Darf man Aquariensalz in das Becken von Black Mollys geben?",
                         "answer": "Ja, das ist sehr zu empfehlen! Mollys leben in der Natur in Süß- bis Brackwasser. Die Zugabe von etwa 5 bis 10 Gramm unjodiertem Aquariensalz pro 10 Liter Wasser stärkt die Schleimhaut, beugt Weißpünktchen sowie Parasiten vor und senkt den osmotischen Druck."
                     }
-                ],
-                "tags": [
-                    "BlackMolly",
-                    "AquaristikPflege",
-                    "IchthyophthiriusPunkte",
-                    "LebendgebärendeFische"
                 ]
             },
             "pt": {
@@ -443,12 +401,6 @@
                         "question": "É seguro colocar sal para aquários no aquário do Molly Negro?",
                         "answer": "Sim, é muito benéfico! Na natureza, os Mollies vivem em água doce e salobra. Adicionar de 5 a 10 gramas de sal para aquário não iodado para cada 10 litros de água fortalece a mucosa protetora, previne o íctio e parasitas e reduz o estresse osmótico."
                     }
-                ],
-                "tags": [
-                    "MollyNegro",
-                    "CuidadosComPeixes",
-                    "PontoBrancoIctio",
-                    "PeixeViviparo"
                 ]
             },
             "id": {
@@ -499,12 +451,6 @@
                         "question": "Apakah aman menambahkan garam akuarium ke dalam akuarium Black Molly?",
                         "answer": "Sangat aman dan sangat bermanfaat! Molly secara alami dapat hidup di lingkungan air tawar hingga air payau. Menambahkan sekitar 5 hingga 10 gram garam akuarium non-iodium per 10 liter air dapat meningkatkan lendir pelindung tubuh, mencegah bintik putih dan parasit, serta mengurangi stres osmotik."
                     }
-                ],
-                "tags": [
-                    "BlackMolly",
-                    "PerawatanIkanHias",
-                    "BintikPutihIkan",
-                    "IkanBeranakLivebearer"
                 ]
             }
         },

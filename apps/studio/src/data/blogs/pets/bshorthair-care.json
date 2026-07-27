@@ -51,12 +51,6 @@
                         "question": "Why do British Shorthairs dislike being held or picked up?",
                         "answer": "They value their independence highly and feel intense anxiety when their paws lose contact with the ground. Forced, restrictive holding against their will can damage the trust built with the owner."
                     }
-                ],
-                "tags": [
-                    "British Shorthair",
-                    "HCM Prevention",
-                    "Weight Control",
-                    "Obesity Prevention"
                 ]
             },
             "ja": {
@@ -107,12 +101,6 @@
                         "question": "ブリティッシュ・ショートヘアが抱っこを嫌う理由は何ですか？",
                         "answer": "彼らは独立性が高く、自分の足が地盤から離れる空中状態に強い不安を感じます。そのため、望まない無理な抱擁は保護者との信頼関係を損ねる恐れがあります。"
                     }
-                ],
-                "tags": [
-                    "ブリティッシュ・ショートヘア",
-                    "肥大性心筋症",
-                    "体重管理",
-                    "肥満予防"
                 ]
             },
             "zh": {
@@ -163,12 +151,6 @@
                         "question": "为什么英国短毛猫讨厌被抚抱抱起？",
                         "answer": "它们独立性极高，当自己的脚脱离地面处于半空状态时会感到极度不安。因此违背其意愿的强迫性拥抱可能会破坏与家长好不容易建立的信任纽带。"
                     }
-                ],
-                "tags": [
-                    "英国短毛猫",
-                    "肥大性心肌病",
-                    "体重管理",
-                    "预防肥胖"
                 ]
             },
             "es": {
@@ -219,12 +201,6 @@
                         "question": "¿Por qué a los British Shorthairs no les gusta que los carguen en brazos?",
                         "answer": "Valoran enormemente su independencia y sienten una gran ansiedad cuando sus patas pierden contacto con el suelo. Abrazarlos a la fuerza contra su voluntad puede dañar la relación de confianza."
                     }
-                ],
-                "tags": [
-                    "BritishShorthair",
-                    "PrevenciónDeHCM",
-                    "ControlDePeso",
-                    "PrevenciónDeObesidad"
                 ]
             },
             "fr": {
@@ -275,12 +251,6 @@
                         "question": "Pourquoi les British Shorthairs détestent-ils être portés dans les bras ?",
                         "answer": "Ils tiennent énormément à leur indépendance et paniquent lorsque leurs pattes ne touchent plus le sol. Les porter de force contre leur gré peut rompre le lien de confiance établi avec leur maître."
                     }
-                ],
-                "tags": [
-                    "BritishShorthair",
-                    "PréventionDeCMH",
-                    "ContrôleDuPoids",
-                    "PréventionObésité"
                 ]
             },
             "de": {
@@ -331,12 +301,6 @@
                         "question": "Warum mögen British Shorthairs es nicht, hochgehoben zu werden?",
                         "answer": "Sie schätzen ihre Unabhängigkeit sehr und empfinden große Angst, wenn ihre Pfoten den Boden verlieren. Erzwungenes Tragen kann die Vertrauensbasis zum Halter beschädigen."
                     }
-                ],
-                "tags": [
-                    "BritishShorthair",
-                    "HCMPraevention",
-                    "Gewichtskontrolle",
-                    "AdipositasPraevention"
                 ]
             },
             "pt": {
@@ -387,12 +351,6 @@
                         "question": "Por que os British Shorthairs não gostam de ser pegos no colo?",
                         "answer": "Eles valorizam muito sua independência e sentem grande ansiedade quando as patas perdem o contato com o chão. Pegá-los no colo contra a vontade pode prejudicar o vínculo de confiança."
                     }
-                ],
-                "tags": [
-                    "BritishShorthair",
-                    "PrevencaoDeHCM",
-                    "ControleDePeso",
-                    "PrevencaoDeObesidade"
                 ]
             },
             "id": {
@@ -443,12 +401,6 @@
                         "question": "Mengapa British Shorthair tidak suka dipeluk atau diangkat?",
                         "answer": "Mereka sangat menghargai kemandirian dan merasa cemas saat cakar mereka kehilangan kontak dengan lantai. Memeluk secara paksa dapat merusak ikatan kepercayaan dengan pemilik."
                     }
-                ],
-                "tags": [
-                    "BritishShorthair",
-                    "PencegahanHCM",
-                    "KontrolBeratBadan",
-                    "PencegahanObesitas"
                 ]
             },
             "ko": {
@@ -499,12 +451,6 @@
                         "question": "브리티시 숏헤어가 안아 올리는 것을 싫어하는 이유는 무엇인가요?",
                         "answer": "이들은 독립성이 높고 자신의 발이 지면에서 떨어지는 공중 상태에서 극심한 불안을 느낍니다. 따라서 이들이 원하지 않는 억압적인 포옹은 보호자와의 깊은 유대를 망칠 수 있습니다."
                     }
-                ],
-                "tags": [
-                    "브리티시 숏헤어",
-                    "비대성 심근증",
-                    "체중 조절",
-                    "비만 예방"
                 ]
             }
         },

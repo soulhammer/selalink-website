@@ -51,12 +51,6 @@
                         "question": "이구아나에게 귀뚜라미나 밀웜 같은 곤충이나 고기를 주면 안 되나요?",
                         "answer": "절대 안 됩니다! 그린 이구아나는 생리학적으로 100% 초식성(Strict Herbivore) 파충류입니다. 동물성 단백질이나 사료, 곤충을 섭취하면 단백질 과다 소화 부산물인 요산이 체내에 쌓여 치명적인 신부전과 전신 통풍(Gout)을 유발하여 조기 사망합니다. 반드시 녹색 잎채소 중심으로 식단을 구성해야 합니다."
                     }
-                ],
-                "tags": [
-                    "그린이구아나",
-                    "파충류케어",
-                    "이구아나MBD예방",
-                    "초식파충류식단"
                 ]
             },
             "en": {
@@ -107,12 +101,6 @@
                         "question": "Can I feed insects like crickets or mealworms to my Green Iguana?",
                         "answer": "Absolutely not! Green Iguanas are obligate, 100% strict herbivores. Ingesting animal protein, insect protein, or commercial pet foods causes excessive uric acid buildup, leading to severe visceral gout, kidney failure, and premature death. Their diet must consist exclusively of leafy dark greens and safe vegetables."
                     }
-                ],
-                "tags": [
-                    "GreenIguana",
-                    "ReptileCare",
-                    "IguanaMBDPrevention",
-                    "HerbivorousReptileDiet"
                 ]
             },
             "ja": {
@@ -163,12 +151,6 @@
                         "question": "イグアナにコオロギやミルワームなどの昆虫や肉を与えてはいけませんか？",
                         "answer": "絶対に与えてはいけません！グリーンイグアナは生理学的に100%の完全草食性（Strict Herbivore）です。動物性タンパク質やドッグフード、昆虫を摂取すると、消化副産物である尿酸が体内に蓄積し、致命的な内臓痛風や腎不全を引き起こして早期死亡します。必ず緑の葉野菜を中心とした食餌を与えてください。"
                     }
-                ],
-                "tags": [
-                    "グリーンイグアナ",
-                    "爬虫類ケア",
-                    "イグアナMBD予防",
-                    "草食爬虫類フード"
                 ]
             },
             "zh": {
@@ -219,12 +201,6 @@
                         "question": "可以给绿鬣蜥喂食蟋蟀、面包虫等昆虫或肉类吗？",
                         "answer": "绝对不可以！绿鬣蜥生理上是 100% 严格的纯草食性（Strict Herbivore）动物。摄入动物蛋白、昆虫或普通宠物饲料，会导致过量尿酸在体内结晶堆积，引发严重内脏痛风、肾衰竭并导致猝死。必须严格喂食深色绿叶蔬菜与安全蔬果。"
                     }
-                ],
-                "tags": [
-                    "绿鬣蜥",
-                    "爬宠护理",
-                    "绿鬣蜥MBD预防",
-                    "草食爬虫食谱"
                 ]
             },
             "es": {
@@ -275,12 +251,6 @@
                         "question": "¿Puedo alimentar a mi Iguana Verde con insectos como grillos o gusanos?",
                         "answer": "¡Absolutamente no! La Iguana Verde es un reptil 100% herbívoro estricto. La ingesta de proteína animal o insectos acumula ácido úrico en sangre, causando gota visceral grave, insuficiencia renal y muerte prematura. Su dieta debe ser exclusivamente a base de hojas verdes oscuras y vegetales aptos."
                     }
-                ],
-                "tags": [
-                    "IguanaVerde",
-                    "CuidadoDeReptiles",
-                    "IguanaMBDPrevencion",
-                    "DietaReptilHerbivoro"
                 ]
             },
             "fr": {
@@ -331,12 +301,6 @@
                         "question": "Puis-je donner des insectes (grillons, vers de farine) ou de la viande à mon Iguane Vert ?",
                         "answer": "Absolument pas ! L'Iguane Vert est un animal 100 % herbivore strict. L'ingestion de protéines animales ou d'insectes entraîne une accumulation d'acide urique dans l'organisme, provoquant une goutte viscérale fulgurante, une insuffisance rénale et la mort. Son alimentation doit se composer exclusivement de feuilles vertes et de légumes adaptés."
                     }
-                ],
-                "tags": [
-                    "IguaneVert",
-                    "SoinReptile",
-                    "IguaneMBDPrevention",
-                    "AlimentationReptileHerbivore"
                 ]
             },
             "de": {
@@ -387,12 +351,6 @@
                         "question": "Darf ich meinem Grünen Leguan Insekten wie Heimchen oder Mehlwürmer füttern?",
                         "answer": "Auf keinen Fall! Der Grüne Leguan ist ein 100 % reiner Pflanzenfresser. Tierisches Eiweiß, Insekten oder Hundefutter führen zu Harnsäureanreicherungen im Blut, was schwere Organgicht, Nierenversagen und den schnellen Tod verursacht. Die Nahrung darf ausschließlich aus dunklem Blattgemüse und geeigneten Pflanzen bestehen."
                     }
-                ],
-                "tags": [
-                    "GruenerLeguan",
-                    "Reptilienpflege",
-                    "LeguanMBDProphylaxe",
-                    "PflanzenfresserEchse"
                 ]
             },
             "pt": {
@@ -443,12 +401,6 @@
                         "question": "Posso alimentar minha Iguana-Verde com insetos como grilos ou larvas?",
                         "answer": "Jamais! A Iguana-Verde é um réptil 100% herbívoro estrito. A ingestão de proteína animal ou insetos gera acúmulo de ácido úrico no sangue, provocando gota visceral severa, insuficiência renal e morte precoce. Sua dieta deve consistir exclusivamente de folhas verdes escuras e vegetais adequados."
                     }
-                ],
-                "tags": [
-                    "IguanaVerde",
-                    "CuidadosComReptois",
-                    "PrevencaoMBDIguana",
-                    "DietaReptilHerbivoro"
                 ]
             },
             "id": {
@@ -499,12 +451,6 @@
                         "question": "Bolehkah saya memberi pakan serangga seperti jangkrik atau ulat bumbung kepada Iguana Hijau?",
                         "answer": "Sangat tidak boleh! Iguana Hijau adalah reptil 100% herbivora murni. Mengonsumsi protein hewani, serangga, atau pakan hewan lain menyebabkan penumpukan asam urat berlebih yang memicu asam urat organ dalam (gout), gagal ginjal, dan kematian mendadak. Makanan mereka harus murni terdiri dari sayuran hijau dan daun-daunan yang aman."
                     }
-                ],
-                "tags": [
-                    "IguanaHijau",
-                    "PerawatanReptil",
-                    "PencegahanMBDIguana",
-                    "DietReptilHerbivora"
                 ]
             }
         },

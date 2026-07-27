@@ -51,12 +51,6 @@
                         "question": "식사 후 운동하면 왜 치명적인 위꼬임(GDV)이 생기나요?",
                         "answer": "도베르만처럼 흉곽(가슴)이 깊고 넓은 대형견은 위장이 자유롭게 움직일 수 있는 공간이 커 식사 후 공기를 많이 삼키거나 갑자기 움직이면 위가 가스로 부풀어 오르며 꼬이는 위확장-꼬임(GDV)이 잘 발생합니다. 이는 몇 시간 내에 혈류를 차단해 쇼크와 사망을 유발하므로, 자율 급식보다는 나누어 급여하고 식후 최소 1시간은 조용히 휴식하게 해야 합니다."
                     }
-                ],
-                "tags": [
-                    "도베르만핀셔",
-                    "대형견케어",
-                    "강아지DCM",
-                    "위꼬임예방"
                 ]
             },
             "en": {
@@ -107,12 +101,6 @@
                         "question": "Why can exercise right after eating cause life-threatening GDV (Bloat)?",
                         "answer": "Dobermans have deep, narrow chests, giving the stomach room to rotate. Eating rapidly or exercising immediately after a meal can cause the stomach to fill with gas and twist on itself (GDV/Bloat). This cuts off blood supply to vital organs within hours, causing rapid shock. To prevent this, divide daily food portions, use slow feeders, and keep them completely calm for at least one hour post-meal."
                     }
-                ],
-                "tags": [
-                    "DobermanPinscher",
-                    "LargeDogCare",
-                    "DobermanDCM",
-                    "GDVBloatPrevention"
                 ]
             },
             "ja": {
@@ -163,12 +151,6 @@
                         "question": "食後の運動でなぜ致死的な胃拡張捻転(GDV)が起きるのですか？",
                         "answer": "ドーベルマンのように胸が深く狭い犬種は、胃が回旋しやすい解剖学的特徴を持ちます。食後にガスが溜まった状態で激しく動くと胃が捻転し（GDV）、数時間で血流が遮断されショック死に至ります。これを防ぐため、フードは回数を分けて与え、食後少なくとも1時間は完全に安静にさせてください。"
                     }
-                ],
-                "tags": [
-                    "ドーベルマン",
-                    "大型犬ケア",
-                    "ドーベルマンDCM",
-                    "胃捻転予防"
                 ]
             },
             "zh": {
@@ -219,12 +201,6 @@
                         "question": "为什么饭后运动会引发致命的胃扭转（GDV）？",
                         "answer": "杜宾犬胸腔深而狭窄，胃部在体腔内活动空间大。若进食过快吞入气体或饭后剧烈运动，胃部极易膨胀并发生翻转（GDV），在数小时内阻断血液循环导致休克死亡。预防方法是分餐饲喂、使用慢食碗，并在饭后保持至少1小时的完全安静。"
                     }
-                ],
-                "tags": [
-                    "杜宾犬",
-                    "大型犬护理",
-                    "杜宾DCM",
-                    "胃扭转预防"
                 ]
             },
             "es": {
@@ -275,12 +251,6 @@
                         "question": "¿Por qué el ejercicio justo después de comer causa la letal Torsión Gástrica (GDV)?",
                         "answer": "Los Dobermans tienen un tórax profundo y estrecho, lo que da espacio para que el estómago gire. Si comen rápido o hacen ejercicio intenso tras alimentarse, el estómago se llena de gas y se tuerce sobre sí mismo (GDV), cortando el riego sanguíneo y causando shock en horas. Para prevenirlo, divida las raciones, use comederos lentos y garantice al menos 1 hora de reposo total tras la comida."
                     }
-                ],
-                "tags": [
-                    "DobermanPinscher",
-                    "CuidadoDePerrosGrandes",
-                    "DobermanDCM",
-                    "PrevencionTorsionGastrica"
                 ]
             },
             "fr": {
@@ -331,12 +301,6 @@
                         "question": "Pourquoi l'exercice juste après le repas provoque-t-il une Torsion d'Estomac (GDV) mortelle ?",
                         "answer": "Le Dobermann possède un thorax profond laissant de l'espace à l'estomac pour pivoter. L'ingestion rapide de nourriture ou l'effort physique immédiat peut faire gonfler l'estomac et le retourner sur lui-même (GDV), coupant la circulation sanguine et provoquant un état de choc en quelques heures. Fractionnez les repas, utilisez une gamelle anti-glouton et observez 1 heure de repos strict après chaque repas."
                     }
-                ],
-                "tags": [
-                    "Dobermann",
-                    "SoinGrandChien",
-                    "DobermannDCM",
-                    "PreventionTorsionEstomac"
                 ]
             },
             "de": {
@@ -387,12 +351,6 @@
                         "question": "Warum führt Bewegung direkt nach dem Fressen zur tödlichen Magendrehung (GDV)?",
                         "answer": "Dobermänner besitzen einen tiefen, schmalen Brustkorb, der dem Magen Raum zum Drehen lässt. Zu schnelles Fressen oder Bewegung direkt nach der Mahlzeit kann dazu führen, dass sich der Magen mit Gas füllt und um die eigene Achse dreht (GDV). Dies schneidet die Blutzufuhr ab und führt binnen Stunden zum Schock. Füttern Sie in Portionen und sorgen Sie für mindestens 1 Stunde absolute Ruhe nach dem Fressen."
                     }
-                ],
-                "tags": [
-                    "Dobermann",
-                    "GroßeHundePflege",
-                    "DobermannDCM",
-                    "MagendrehungProphylaxe"
                 ]
             },
             "pt": {
@@ -443,12 +401,6 @@
                         "question": "Por que o exercício logo após comer causa a fatal Torção Gástrica (GDV)?",
                         "answer": "Os Dobermans possuem o tórax fundo e estreito, dando espaço para o estômago girar. Comer rápido ou se exercitar logo após a refeição faz o estômago inflar de gás e torcer sobre si mesmo (GDV), bloqueando a circulação sanguínea em poucas horas. Fracione as refeições, use comediros lentos e exija ao menos 1 hora de repouso absoluto pós-refeição."
                     }
-                ],
-                "tags": [
-                    "DobermanPinscher",
-                    "CuidadosComCaesGrandes",
-                    "DobermanDCM",
-                    "PrevencaoTorcaoGastrica"
                 ]
             },
             "id": {
@@ -499,12 +451,6 @@
                         "question": "Mengapa olahraga setelah makan dapat memicu Torsi Lambung (GDV) yang mematikan?",
                         "answer": "Doberman memiliki rongga dada yang dalam dan sempit, memberi ruang bagi lambung untuk berputar. Makan terlalu cepat atau berolahraga langsung setelah makan dapat membuat lambung terisi gas dan terpelintir (GDV), memotong aliran darah dan memicu syok dalam hitungan jam. Berikan pakan terbagi, gunakan slow feeder, dan pastikan anjing istirahat total minimal 1 jam setelah makan."
                     }
-                ],
-                "tags": [
-                    "DobermanPinscher",
-                    "PerawatanAnjingBesar",
-                    "DobermanDCM",
-                    "PencegahanTorsiLambung"
                 ]
             }
         },

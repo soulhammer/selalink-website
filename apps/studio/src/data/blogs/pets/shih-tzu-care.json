@@ -51,12 +51,6 @@
                         "question": "시츄 눈에 눈곱이 많이 끼고 붉게 충혈되는데 어떻게 해야 하나요?",
                         "answer": "시츄는 눈이 크고 돌출되어 있어 먼지나 털에 의한 '각막 궤양(Corneal Ulcer)' 및 안구 건조증이 매우 흔합니다. 방치 시 안구 침식이나 시력 손상으로 이어지므로, 긁지 못하게 넥카라를 씌우고 즉시 동물병원에서 형광 염색 검사 후 인공눈물과 안약을 처방받아야 합니다."
                     }
-                ],
-                "tags": [
-                    "시츄",
-                    "강아지케어",
-                    "단두종호흡기",
-                    "시츄각막궤양"
                 ]
             },
             "en": {
@@ -107,12 +101,6 @@
                         "question": "My Shih Tzu's eyes are red, tearing excessively, or look cloudy—what should I do?",
                         "answer": "Shih Tzus have large, protruding eyes that are highly vulnerable to Corneal Ulcers and Keratoconjunctivitis Sicca (Dry Eye). Eye injuries worsen rapidly into deep ulcers or blindness. Fit an Elizabethan collar immediately to prevent scratching and see a vet for diagnostic eye staining and antibiotic drops."
                     }
-                ],
-                "tags": [
-                    "ShihTzu",
-                    "DogCare",
-                    "BrachycephalicDog",
-                    "ShihTzuHealth"
                 ]
             },
             "ja": {
@@ -163,12 +151,6 @@
                         "question": "シーズーの目が赤く充血し、目やにが多く出るのですがどう対処すべきですか？",
                         "answer": "シーズーは目が大きく突出しているため、「角膜潰瘍（Corneal Ulcer）」やドライアイ（乾性角結膜炎）にかかりやすい犬種です。放置すると失明の危険があるため、すぐに顔を擦らないようカラーをつけ、動物病院で蛍光染色検査と点眼治療を受けてください。"
                     }
-                ],
-                "tags": [
-                    "シーズー",
-                    "犬のケア",
-                    "短頭種気道症候群",
-                    "シーズー角膜潰瘍"
                 ]
             },
             "zh": {
@@ -219,12 +201,6 @@
                         "question": "西施犬眼睛充血发红且泪痕严重，应该如何处理？",
                         "answer": "西施犬眼球大而突出，极易发生“角膜溃疡 (Corneal Ulcer)”和干眼症。病情恶化极快，严重可致失明。发现揉眼或充血应立即佩戴防抓圈，并前往动物医院进行眼部荧光染色诊断，使用专用抗生素眼药水。"
                     }
-                ],
-                "tags": [
-                    "西施犬",
-                    "犬类护理",
-                    "短头种呼吸道",
-                    "西施犬角膜溃疡"
                 ]
             },
             "es": {
@@ -275,12 +251,6 @@
                         "question": "¿Qué debo hacer si mi Shih Tzu tiene los ojos rojos, opacos o con excesivo lagrimeo?",
                         "answer": "Los Shih Tzu poseen ojos saltones expuestos a 'Úlceras Corneales' y Síndrome de Ojo Seco. Una lesión ocular empeora rápido pudiendo causar ceguera. Coloque un collar isabelino inmediatamente para evitar rascados y solicite un test de tinción con fluoresceína en la clínica veterinaria."
                     }
-                ],
-                "tags": [
-                    "ShihTzu",
-                    "CuidadoCanino",
-                    "PerroBraquicefalico",
-                    "SaludShihTzu"
                 ]
             },
             "fr": {
@@ -331,12 +301,6 @@
                         "question": "Mon Shih Tzu a l'œil rouge, voilé ou qui coule beaucoup, que faire ?",
                         "answer": "Les yeux globuleux du Shih Tzu sont très exposés aux 'Ulcères Cornéens' et à la kératoconjonctivite sèche. Une blessure de l'œil peut vite s'aggraver. Posez immédiatement une collerette pour qu'il ne se griffe pas et consultez en urgence pour un test de coloration cornéenne."
                     }
-                ],
-                "tags": [
-                    "ShihTzu",
-                    "SoinDuChien",
-                    "ChienBrachycephale",
-                    "SanteShihTzu"
                 ]
             },
             "de": {
@@ -387,12 +351,6 @@
                         "question": "Die Augen meines Shih Tzu sind rot, tränen stark oder wirken trüb – was tun?",
                         "answer": "Shih Tzus haben hervorstehende Augen, die extrem anfällig für 'Hornhautgeschwüre (Corneal Ulcer)' und trockenes Auge sind. Eine Augenverletzung kann schnell zur Erblindung führen. Legen Sie sofort einen Schutzkragen an und suchen Sie für Hornhauttests und Augentropfen umgehend einen Tierarzt auf."
                     }
-                ],
-                "tags": [
-                    "ShihTzu",
-                    "Hundepflege",
-                    "BrachyzephalerHund",
-                    "ShihTzuGesundheit"
                 ]
             },
             "pt": {
@@ -443,12 +401,6 @@
                         "question": "O olho do meu Shih Tzu está vermelho, lacrimejando muito ou opaco, o que fazer?",
                         "answer": "Os olhos saltados do Shih Tzu são muito expostos a 'Úlceras de Córnea' e Olho Seco. Lesões oculares evoluem rápido para cegueira. Coloque o colar elizabetano imediatamente para evitar coceira e leve ao veterinário para teste de fluoresceína e colírio específico."
                     }
-                ],
-                "tags": [
-                    "ShihTzu",
-                    "CuidadosComCaes",
-                    "CaoBraquicefalico",
-                    "SaudeDoShihTzu"
                 ]
             },
             "id": {
@@ -499,12 +451,6 @@
                         "question": "Mata Shih Tzu saya merah, keruh, atau terus mengeluarkan air mata, apa yang harus dilakukan?",
                         "answer": "Shih Tzu memiliki mata menonjol yang sangat rentan terkena 'Ulkus Kornea' dan Mata Kering. Luka pada mata bisa memburuk dengan cepat hingga menyebabkan kebutaan. Segera pasangkan corong E-collar agar tidak digaruk dan bawa ke klinik hewan untuk tes pewarnaan fluorescein serta obat tetes mata."
                     }
-                ],
-                "tags": [
-                    "ShihTzu",
-                    "PerawatanAnjing",
-                    "AnjingBrakisefalik",
-                    "KesehatanShihTzu"
                 ]
             }
         },

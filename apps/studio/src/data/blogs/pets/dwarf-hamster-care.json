@@ -51,12 +51,6 @@
                         "question": "햄스터에게 냄새가 나는데 물목욕을 시켜줘도 되나요?",
                         "answer": "절대 물목욕을 시키면 안 됩니다! 햄스터는 감기에 매우 걸리기 쉽고 털이 잘 마르지 않아 치명적인 저체온증이나 폐렴으로 사망할 수 있습니다. 햄스터는 스스로 그루밍을 하며, 기름기 제거와 위생을 위해 반드시 햄스터 전용 사막모래 목욕탕을 제공해 주어야 합니다."
                     }
-                ],
-                "tags": [
-                    "드워프햄스터",
-                    "소동물케어",
-                    "햄스터동면",
-                    "모래목욕"
                 ]
             },
             "en": {
@@ -107,12 +101,6 @@
                         "question": "My hamster smells a bit—can I give them a water bath?",
                         "answer": "Never give a hamster a water bath! Hamsters catch colds easily, and wet fur stays damp for a long time, causing fatal hypothermia or pneumonia. Hamsters groom themselves constantly and require a dedicated desert sand bath to remove oil and maintain coat hygiene."
                     }
-                ],
-                "tags": [
-                    "DwarfHamster",
-                    "SmallAnimalCare",
-                    "HamsterTorpor",
-                    "SandBath"
                 ]
             },
             "ja": {
@@ -163,12 +151,6 @@
                         "question": "ハムスターからニオイがするのですが、水浴びをさせてもいいですか？",
                         "answer": "絶対に水浴びをさせてはいけません！ハムスターは風邪を引きやすく毛が乾きにくいため、致命的な低体温症や肺炎で death に至ることがあります。ハムスターは自分で毛づくろいを行い、皮脂の除去と衛生維持のためには必ず専用のハムスター用砂浴び（浴び砂）を用意してください。"
                     }
-                ],
-                "tags": [
-                    "ドワーフハムスター",
-                    "小動物ケア",
-                    "ハムスター冬眠",
-                    "砂浴び"
                 ]
             },
             "zh": {
@@ -219,12 +201,6 @@
                         "question": "仓鼠身上有异味，可以给它水洗吗？",
                         "answer": "绝对不能水洗！仓鼠极易感冒且毛发难以干透，水洗会导致致命的低体温症或肺炎。仓鼠会自我梳理，只需提供专用沙漠浴沙供其沙浴即可去除油脂并保持清洁。"
                     }
-                ],
-                "tags": [
-                    "侏儒仓鼠",
-                    "小宠护理",
-                    "仓鼠假冬眠",
-                    "沙浴护理"
                 ]
             },
             "es": {
@@ -275,12 +251,6 @@
                         "question": "Mi hámster huele mal, ¿puedo bañarlo con agua?",
                         "answer": "¡Jamás lo bañe con agua! Los hámsteres se resfrían con facilidad y el pelo mojado tarda en secar, causando hipotermia o neumonía. Ellos se acicalan solos y requieren arena de desierto específica para retirar la grasa del pelaje."
                     }
-                ],
-                "tags": [
-                    "HamsterEnano",
-                    "CuidadoDePequeñosAnimales",
-                    "TorporHamster",
-                    "BanoDeArena"
                 ]
             },
             "fr": {
@@ -331,12 +301,6 @@
                         "question": "Mon hamster sent un peu fort, puis-je lui donner un bain d'eau ?",
                         "answer": "Ne donnez JAMAIS de bain d'eau à un hamster ! Ils prennent très vite froid et leur pelage met longtemps à sécher, provoquant une hypothermie ou une pneumonie fatale. Ils font leur toilette seuls et nécessitent un bac de sable de désert pour dégraisser leur pelage."
                     }
-                ],
-                "tags": [
-                    "HamsterNain",
-                    "SoinDesNouveauxAnimauxDeCompagnie",
-                    "TorpeurHamster",
-                    "BainDeSable"
                 ]
             },
             "de": {
@@ -387,12 +351,6 @@
                         "question": "Mein Hamster riecht etwas streng – darf ich ihn mit Wasser waschen?",
                         "answer": "Niemals mit Wasser waschen! Hamster verkühlen sich schnell und ihr dichtes Fell trocknet kaum, was zu tödlicher Lungenentzündung führt. Sie reinigen sich selbst und benötigen zwingend ein Badeschale mit speziellem Wüstensand zur Fellpflege."
                     }
-                ],
-                "tags": [
-                    "Zwerghamster",
-                    "Kleintierpflege",
-                    "HamsterTorpor",
-                    "Sandbad"
                 ]
             },
             "pt": {
@@ -443,12 +401,6 @@
                         "question": "Meu hámster está com cheiro forte, posso dar banho de água nele?",
                         "answer": "Nunca dê banho de água em um hámster! Eles se resfriam facilmente e a pelagem demora para secar, causando hipotermia ou pneumonia fatal. Eles se limpam sozinhos e precisam obrigatoriamente de uma banheira com areia de deserto apropriada."
                     }
-                ],
-                "tags": [
-                    "HamsterAnao",
-                    "CuidadosComPequenosAnimais",
-                    "TorporHamster",
-                    "BanhoDeAreia"
                 ]
             },
             "id": {
@@ -499,12 +451,6 @@
                         "question": "Hamster saya agak berbau, bolehkah dimandikan dengan air?",
                         "answer": "Sangat dilarang memandikan hamster dengan air! Hamster mudah masuk angin dan bulunya yang basah sangat lama kering, menyebabkan hipotermia atau pneumonia mematikan. Mereka merawat diri sendiri secara alami dan wajib disediakan wadah mandi pasir gurun khusus untuk membersihkan minyak bulu."
                     }
-                ],
-                "tags": [
-                    "HamsterKerdil",
-                    "PerawatanHewanKecil",
-                    "TorporHamster",
-                    "MandiPasir"
                 ]
             }
         },

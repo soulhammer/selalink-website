@@ -51,12 +51,6 @@
                         "question": "How do I reduce my Siamese cat's separation anxiety when I go to work?",
                         "answer": "Set up food puzzle toys or treat scavenger hunts before leaving to distract them. Avoid emotional goodbyes (like picking them up and kissing them repeatedly) at least 10 minutes before stepping out, as this can worsen their anxiety."
                     }
-                ],
-                "tags": [
-                    "Siamese",
-                    "Separation Anxiety",
-                    "Vocal Cats",
-                    "Cat Playtime"
                 ]
             },
             "ja": {
@@ -107,12 +101,6 @@
                         "question": "シャム猫を一人で留守番させた後に遠吠えがひどくなりました。外出時どうすれば良いですか？",
                         "answer": "分離不安のサインです。出かける前におやつを隠す宝探しを用意したり、自動給餌器で注意を引いたりして、飼い主の不在から意識を逸らし、外出10分前からは過度なスキンシップ（別れの儀式）を控えることが大切です。"
                     }
-                ],
-                "tags": [
-                    "シャム猫",
-                    "分離不安",
-                    "おしゃべりな猫",
-                    "猫の遊び"
                 ]
             },
             "zh": {
@@ -163,12 +151,6 @@
                         "question": "当我出门上班时，如何减轻暹罗猫的分离焦虑？",
                         "answer": "在出门前设置好益智喂食器或零食闻嗅以分散其注意力。在出门前至少10分钟避免进行情感饱满的告别仪式（如反复抱起亲吻），因为这会加剧它们的焦虑情绪。"
                     }
-                ],
-                "tags": [
-                    "暹罗猫",
-                    "分离焦虑",
-                    "爱叫的猫",
-                    "猫咪游戏"
                 ]
             },
             "es": {
@@ -219,12 +201,6 @@
                         "question": "¿Cómo reduzco la ansiedad por separación de mi siamés cuando salgo a trabajar?",
                         "answer": "Prepare rompecabezas de comida o búsqueda de golosinas antes de irse para distraerlo. Evite las despedidas efusivas (como abrazos y besos repetidos) al menos 10 minutos antes de salir, ya que esto empeora la ansiedad."
                     }
-                ],
-                "tags": [
-                    "Siamés",
-                    "Ansiedad por Separación",
-                    "Gatos Vocales",
-                    "Juego de Gatos"
                 ]
             },
             "fr": {
@@ -275,12 +251,6 @@
                         "question": "Comment réduire l'anxiété de séparation de mon Siamois quand je pars au travail ?",
                         "answer": "Cachez des friandises et placez des puzzles de nourriture avant de partir pour détourner son attention. Évitez les rituels de départ émotionnels (câlins et baisers répétés) au moins 10 minutes avant de franchir la porte."
                     }
-                ],
-                "tags": [
-                    "Siamois",
-                    "Anxiété de Séparation",
-                    "Chats Vocaux",
-                    "Jeu Félin"
                 ]
             },
             "de": {
@@ -331,12 +301,6 @@
                         "question": "Wie kann ich die Trennungsangst meiner Siamkatze lindern, wenn ich zur Arbeit gehe?",
                         "answer": "Verteilen Sie vor dem Gehen Futterpuzzles oder Versteckspiele. Vermeiden Sie emotionale Verabschiedungen (wie wiederholtes Hochheben und Küssen) 10 Minuten vor dem Verlassen der Wohnung, um die Angst nicht zu verstärken."
                     }
-                ],
-                "tags": [
-                    "Siamese",
-                    "Trennungsangst",
-                    "Vokale Katzen",
-                    "Katzenspielzeit"
                 ]
             },
             "pt": {
@@ -387,12 +351,6 @@
                         "question": "Como reduzo a ansiedade de separação do meu siamês quando saio para trabalhar?",
                         "answer": "Prepare quebra-cabeças de comida ou caça aos petiscos antes de sair para distraí-lo. Evite despedidas afetuosas (como abraços e beijos repetidos) pelo menos 10 minutos antes de sair, pois isso pode piorar a ansiedade."
                     }
-                ],
-                "tags": [
-                    "Siamês",
-                    "Ansiedade de Separação",
-                    "Gatos Vocais",
-                    "Brincadeiras Felinas"
                 ]
             },
             "id": {
@@ -443,12 +401,6 @@
                         "question": "Bagaimana cara mengurangi kecemasan perpisahan Siamese saya saat saya pergi bekerja?",
                         "answer": "Siapkan mainan teka-teki makanan atau permainan pencarian camilan sebelum pergi untuk mengalihkan perhatiannya. Hindari perpisahan emosional (seperti menggendong dan mencium berulang kali) minimal 10 menit sebelum keluar."
                     }
-                ],
-                "tags": [
-                    "Siamese",
-                    "Kecemasan Perpisahan",
-                    "Kucing Vokal",
-                    "Waktu Bermain Kucing"
                 ]
             },
             "ko": {
@@ -499,12 +451,6 @@
                         "question": "샴 고양이를 혼자 둔 뒤 하울링이 심해졌는데 외출 시 어떻게 해야 하나요?",
                         "answer": "분리불안의 일종입니다. 외출 전 간식을 숨겨두는 보물찾기나 스마트 급식기로 사냥 놀이를 유도하여 보호자의 부재에 대한 주의를 돌리고, 외출 10분 전부터는 이별 의식(과도한 안아주기)을 하지 않는 것이 좋습니다."
                     }
-                ],
-                "tags": [
-                    "샴 고양이",
-                    "분리불안",
-                    "대화형 울음",
-                    "반려묘 놀이"
                 ]
             }
         },

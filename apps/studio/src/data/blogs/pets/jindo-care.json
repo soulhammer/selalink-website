@@ -51,12 +51,6 @@
                         "question": "My Jindo is not friendly with other dogs. Is that normal?",
                         "answer": "Yes. Jindos are naturally independent and highly territorial, so forcing them to socialize with other dogs is unnecessary. Train them to maintain 'social neutrality'—passing by other dogs calmly without barking or reacting."
                     }
-                ],
-                "tags": [
-                    "JindoDog",
-                    "SocializationTraining",
-                    "DoubleCoatCare",
-                    "CanineHomecare"
                 ]
             },
             "ja": {
@@ -107,12 +101,6 @@
                         "question": "他の犬と仲良くできないのですが、大丈夫ですか？",
                         "answer": "珍島犬は本来独立心が強く領域意識が高いため、他の犬と無理に遊ぶ必要はありません。見かけても吠えずにやり過ごせる『社会的中立』を目指して訓練しましょう。"
                     }
-                ],
-                "tags": [
-                    "珍島犬",
-                    "社会化訓練",
-                    "ダブルコート管理",
-                    "愛犬ホームケア"
                 ]
             },
             "zh": {
@@ -163,12 +151,6 @@
                         "question": "与其他狗相处不好该怎么办？",
                         "answer": "它们天生独立且领地意识强，没必要强求与其他狗玩耍。以在路上相遇时能不吠叫、平静走过的“社会化中立”为训练目标即可。"
                     }
-                ],
-                "tags": [
-                    "珍岛犬",
-                    "社会化训练",
-                    "双层毛护理",
-                    "宠物家庭护理"
                 ]
             },
             "es": {
@@ -219,12 +201,6 @@
                         "question": "¿Es normal que mi Jindo no sea amigable con otros perros?",
                         "answer": "Sí. Son independientes y territoriales por naturaleza. Apunte a la 'neutralidad social': que pueda cruzarse con otros perros con calma sin ladrar."
                     }
-                ],
-                "tags": [
-                    "PerroJindo",
-                    "EntrenamientoDeSocialización",
-                    "CuidadoDePelajeDoble",
-                    "CuidadoCanino"
                 ]
             },
             "fr": {
@@ -275,12 +251,6 @@
                         "question": "Mon Jindo déteste les autres chiens, est-ce normal ?",
                         "answer": "Oui, ils sont indépendants et territoriaux. Visez la 'neutralité sociale' : lui apprendre à croiser d'autres chiens sans aboyer ni réagir."
                     }
-                ],
-                "tags": [
-                    "ChienJindo",
-                    "SocialisationCanine",
-                    "SoinDuDoublePelage",
-                    "ToilettageChien"
                 ]
             },
             "de": {
@@ -331,12 +301,6 @@
                         "question": "Mein Jindo mag keine anderen Hunde, ist das normal?",
                         "answer": "Ja, Jindos sind unabhängig und territorial. Streben Sie 'soziale Neutralität' an – dass der Hund entspannt an Artgenossen vorbeigeht, ohne zu bellen."
                     }
-                ],
-                "tags": [
-                    "JindoHund",
-                    "SozialisierungHund",
-                    "DoppelfellPflege",
-                    "Hundepflege"
                 ]
             },
             "pt": {
@@ -387,12 +351,6 @@
                         "question": "É normal meu Jindo não se dar bem com outros cães?",
                         "answer": "Sim, Jindos são independentes e territoriais. Busque a 'neutralidade social': que ele passe por outros cães com calma e sem latir."
                     }
-                ],
-                "tags": [
-                    "CaoJindo",
-                    "SocializacaoCanina",
-                    "CuidadoComPeloDuplo",
-                    "CuidadosComPets"
                 ]
             },
             "id": {
@@ -443,12 +401,6 @@
                         "question": "Anjing Jindo saya tidak ramah dengan anjing lain, apakah wajar?",
                         "answer": "Wajar karena mereka mandiri dan teritorial. Targetkan 'netralitas sosial'—bisa berjalan melewati anjing lain dengan tenang tanpa menggonggong."
                     }
-                ],
-                "tags": [
-                    "AnjingJindo",
-                    "PelatihanSosialisasi",
-                    "PerawatanBuluGanda",
-                    "PerawatanAnjing"
                 ]
             },
             "ko": {
@@ -499,12 +451,6 @@
                         "question": "다른 강아지와 친하게 지내지 않는데 괜찮은가요?",
                         "answer": "진돗개는 본능적으로 독립적이고 영역 경계심이 강해 다른 견종과 꼭 절친하게 지낼 필요는 없습니다. 낯선 강아지를 보고도 짖거나 흥분하지 않고 조용히 지나치는 '사회적 무관심'을 목표로 훈련하는 것이 좋습니다."
                     }
-                ],
-                "tags": [
-                    "진돗개",
-                    "사회화훈련",
-                    "이중모관리",
-                    "반려견홈케어"
                 ]
             }
         },

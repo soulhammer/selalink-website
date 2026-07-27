@@ -51,12 +51,6 @@
                         "question": "How often should I bathe a Sphynx cat?",
                         "answer": "Depending on individual sebum production, bathing them once every 1 to 2 weeks using lukewarm water and a mild, pH-balanced feline shampoo is recommended. Over-bathing can dry out the skin and trigger rebound sebum production, so rely on daily towel wipes between baths."
                     }
-                ],
-                "tags": [
-                    "Sphynx Cat",
-                    "Hairless Skin Care",
-                    "Cat Temperature Control",
-                    "Cat Bathing"
                 ]
             },
             "ja": {
@@ -107,12 +101,6 @@
                         "question": "シャンプーの頻度はどれくらいですか？",
                         "answer": "皮脂の分泌量に応じて、通常1〜2週間に1回程度、ぬるま湯と低刺激な猫用pH中性シャンプーで洗うのが理想的です。頻繁すぎるシャンプーは皮膚の乾燥を招き、逆効果として皮脂過多を起こすため、普段は毎日のタオルケアで管理します。"
                     }
-                ],
-                "tags": [
-                    "スフィンクス猫",
-                    "無毛皮膚ケア",
-                    "猫の体温調節",
-                    "猫のシャンプー"
                 ]
             },
             "zh": {
@@ -163,12 +151,6 @@
                         "question": "应该多久给斯芬克斯猫洗一次澡？",
                         "answer": "根据个体皮脂分泌情况，通常建议每1至2周用温水和低刺激pH中性猫用香波清洗一次。过度频繁洗澡会导致皮肤干燥，反而刺激皮脂过度分泌，因此平时应以每日湿巾擦拭护理为主。"
                     }
-                ],
-                "tags": [
-                    "斯芬克斯猫",
-                    "无毛皮肤护理",
-                    "猫咪体温调节",
-                    "猫咪洗澡"
                 ]
             },
             "es": {
@@ -219,12 +201,6 @@
                         "question": "¿Con qué frecuencia se debe bañar a un gato Sphynx?",
                         "answer": "Según la producción individual de grasa, se recomienda bañarlo cada 1 a 2 semanas con agua tibia y un champú neutro suave específico para gatos. Bañarlo en exceso puede resecar la piel y provocar una sobreproducción de sebo por rebote, por lo que conviene apoyarse en la limpieza diaria con toalla."
                     }
-                ],
-                "tags": [
-                    "Gato Sphynx",
-                    "Piel Sin Pelo",
-                    "Control de Temperatura",
-                    "Baño Felino"
                 ]
             },
             "fr": {
@@ -275,12 +251,6 @@
                         "question": "À quelle fréquence faut-il baigner un chat Sphynx ?",
                         "answer": "Selon la quantité de sébum produite, il est recommandé de le baigner toutes les 1 à 2 semaines à l'eau tiède avec un shampooing doux à pH neutre pour chat. Un excès de bains assèche la peau et entraîne une hyperséborrhée réactionnelle ; privilégiez l'essuyage quotidien à la serviette."
                     }
-                ],
-                "tags": [
-                    "Sphynx",
-                    "Peau Nue",
-                    "Régulation de Température",
-                    "Bain du Chat"
                 ]
             },
             "de": {
@@ -331,12 +301,6 @@
                         "question": "Wie oft muss man eine Sphynx-Katze baden?",
                         "answer": "Je nach Talgproduktion wird ein Bad alle 1 bis 2 Wochen mit lauwarmem Wasser und einem milden, pH-neutralen Katzenshampoo empfohlen. Zu häufiges Baden trocknet die Haut aus und regt die Talgproduktion zusätzlich an; nutzen Sie dazwischen tägliche Pflegetücher."
                     }
-                ],
-                "tags": [
-                    "Sphynx-Katze",
-                    "Haarlose Hautpflege",
-                    "Katzen Wärmeregulierung",
-                    "Katzenbad"
                 ]
             },
             "pt": {
@@ -387,12 +351,6 @@
                         "question": "Com que frequência devo dar banho num gato Sphynx?",
                         "answer": "Dependendo da produção de sebo de cada gato, recomenda-se banhá-lo a cada 1 ou 2 semanas com água morna e xampu suave de pH neutro específico para gatos. Banhar em excesso resseca a pele e causa hiperseborreia reativa; prefira a limpeza diária com toalha úmida."
                     }
-                ],
-                "tags": [
-                    "Gato Sphynx",
-                    "Pele Sem Pelo",
-                    "Controle de Temperatura",
-                    "Banho Felino"
                 ]
             },
             "id": {
@@ -443,12 +401,6 @@
                         "question": "Seberapa sering kucing Sphynx harus dimandikan?",
                         "answer": "Tergantung pada produksi minyak masing-masing kucing, dimandikan setiap 1 hingga 2 minggu sekali menggunakan air hangat dan sampo netral pH khusus kucing sangat dianjurkan. Mandi terlalu sering dapat mengeringkan kulit dan memicu produksi minyak berlebih, jadi gunakan sekaan handuk harian di antara jadwal mandi."
                     }
-                ],
-                "tags": [
-                    "Kucing Sphynx",
-                    "Perawatan Kulit Tanpa Bulu",
-                    "Manajemen Suhu Kucing",
-                    "Mandi Kucing"
                 ]
             },
             "ko": {
@@ -499,12 +451,6 @@
                         "question": "스핑크스 고양이의 목욕은 얼마나 자주 시켜야 하나요?",
                         "answer": "개체별 피지 분비량에 따라 보통 1~2주에 1회 정도 따뜻한 물과 저자극 pH 중성 전용 샴푸로 목욕시키는 것이 좋습니다. 너무 자주 목욕시키면 오히려 피부가 건조해져 피지가 과다 분비될 수 있으므로 평소에는 데일리 타월 케어로 관리합니다."
                     }
-                ],
-                "tags": [
-                    "스핑크스고양이",
-                    "무모종피부케어",
-                    "고양이체온조절",
-                    "반려묘목욕"
                 ]
             }
         },

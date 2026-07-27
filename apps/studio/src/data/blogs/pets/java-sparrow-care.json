@@ -51,13 +51,6 @@
                         "question": "주방에서 문조를 꺼내놓고 요리해도 괜찮나요?",
                         "answer": "매우 위험합니다! 프라이팬의 테플론(PTFE) 과열 시 발생하는 연기는 문조의 기낭(Air Sac)을 파괴하여 즉사를 유발합니다. 요리 중에는 반드시 새장 문을 잠그고 분리된 공간에 두어야 합니다."
                     }
-                ],
-                "tags": [
-                    "문조",
-                    "자바스패로우",
-                    "반려조케어",
-                    "소형조류",
-                    "조류건강"
                 ]
             },
             "en": {
@@ -108,13 +101,6 @@
                         "question": "Is it safe to let my Java Sparrow fly around the kitchen while cooking?",
                         "answer": "Extremely dangerous! Overheated Teflon (PTFE) cookware releases invisible toxic fumes that cause fatal lung damage in birds within minutes. Keep the cage door secured in a separate room during cooking."
                     }
-                ],
-                "tags": [
-                    "JavaSparrow",
-                    "AvianCare",
-                    "CompanionBird",
-                    "BirdCare",
-                    "AAVProtocols"
                 ]
             },
             "ja": {
@@ -165,13 +151,6 @@
                         "question": "キッチンで料理中に文鳥を放鳥してもいいですか？",
                         "answer": "非常に危険です！フライパンのテフロン（PTFE）加工が加熱された際に発生する無臭ガスは、鳥類の気嚢（Air Sac）を破壊し即死させます。調理中は必ずケージのドアを閉め、別室で過ごさせてください。"
                     }
-                ],
-                "tags": [
-                    "文鳥",
-                    "ジャワスズメ",
-                    "鳥類ケア",
-                    "手乗り鳥",
-                    "AAVプロトコル"
                 ]
             },
             "zh": {
@@ -222,13 +201,6 @@
                         "question": "厨房做饭时可以让文鸟在周围自由飞翔吗？",
                         "answer": "极其危险！不粘锅表面的特氟龙（PTFE）涂层受热释放的无味气体瞬间破坏鸟类的气囊（Air Sac）导致猝死。做饭时务必锁定笼门并将其安置在独立房间。"
                     }
-                ],
-                "tags": [
-                    "文鸟",
-                    "禾雀",
-                    "观赏鸟护理",
-                    "手养鸟",
-                    "AAV协议"
                 ]
             },
             "es": {
@@ -279,13 +251,6 @@
                         "question": "¿Es seguro dejar volar a mi ave por la cocina mientras cocino?",
                         "answer": "¡Extremadamente peligroso! Las sartenes con teflón (PTFE) sobrecalentadas emiten gases tóxicos invisibles que destruyen los sacos aéreos de las aves en minutos. Mantenga la jaula cerrada en otra habitación mientras cocina."
                     }
-                ],
-                "tags": [
-                    "GorrionDeJava",
-                    "CuidadoDeAves",
-                    "AveDeCompania",
-                    "SaludAviar",
-                    "AAV"
                 ]
             },
             "fr": {
@@ -336,13 +301,6 @@
                         "question": "Puis-je laisser mon oiseau voler dans la cuisine pendant que je cuisine ?",
                         "answer": "Extrêmement dangereux ! Le téflon (PTFE) surchauffé des poêles émet des gaz toxiques invisibles qui détruisent les sacs aériens des oiseaux en quelques minutes. Laissez l'oiseau enfermé dans sa cage dans une autre pièce."
                     }
-                ],
-                "tags": [
-                    "MoineauDeJava",
-                    "PaddaDeJava",
-                    "SoinsOiseaux",
-                    "OiseauDeCompagnie",
-                    "AAV"
                 ]
             },
             "de": {
@@ -393,13 +351,6 @@
                         "question": "Darf mein Reisfink während des Kochens in der Küche freifliegen?",
                         "answer": "Lebensgefährlich! Überhitzte Teflon-Beschichtungen (PTFE) von Pfannen setzen unsichtbare giftige Dämpfe frei, die bei Vögeln innerhalb von Minuten tödliche Luftsack-Schäden verursachen. Halten Sie den Käfig beim Kochen in einem anderen Raum geschlossen."
                     }
-                ],
-                "tags": [
-                    "Reisfink",
-                    "Vogelpflege",
-                    "Heimvogel",
-                    "Vogelgesundheit",
-                    "AAV"
                 ]
             },
             "pt": {
@@ -450,13 +401,6 @@
                         "question": "É seguro deixar minha ave voar pela cozinha enquanto cozinho?",
                         "answer": "Extremamente perigoso! Panelas com teflon (PTFE) superaquecidas liberam vapores tóxicos invisíveis que destroem os sacos aéreos das aves em minutos. Mantenha a gaiola fechada em outro cômodo durante o cozimento."
                     }
-                ],
-                "tags": [
-                    "PardalDeJava",
-                    "Padda",
-                    "CuidadosComAves",
-                    "AveDeCompanhia",
-                    "AAV"
                 ]
             },
             "id": {
@@ -507,13 +451,6 @@
                         "question": "Apakah aman membiarkan burung terbang di dapur saat memasak?",
                         "answer": "Sangat berbahaya! Wajan Teflon (PTFE) yang terlalu panas mengeluarkan gas beracun tak berbau yang dapat merusak kantung udara (air sac) burung hingga tewas dalam hitungan menit. Pastikan sangkar terkunci di ruangan terpisah saat memasak."
                     }
-                ],
-                "tags": [
-                    "GelatikJava",
-                    "PerawatanBurung",
-                    "BurungPeliharaan",
-                    "KesehatanAves",
-                    "ProtokolAAV"
                 ]
             }
         },

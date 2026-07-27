@@ -51,12 +51,6 @@
                         "question": "스코티시 스트레이트가 살찌기 쉬운데 체중 관리는 어떻게 하나요?",
                         "answer": "체형이 둥글고 조용한 성격 때문에 비만이 되기 쉽습니다. 탄수화물 비중이 낮은 고단백 건식/습식 사료를 정량 급여하고, 관절에 무리가 가지 않는 바닥 위주의 레이저/깃털 사냥 놀이를 매일 15~20분씩 진행하여 근육량을 유지해야 합니다."
                     }
-                ],
-                "tags": [
-                    "스코티시스트레이트",
-                    "고양이케어",
-                    "고양이HCM",
-                    "고양이비만관리"
                 ]
             },
             "en": {
@@ -107,12 +101,6 @@
                         "question": "Scottish Straights gain weight easily—how should I manage my cat's weight?",
                         "answer": "Their calm nature and sturdy build facilitate easy weight gain. Feed measured portions of high-protein, low-carbohydrate food and engage them in 15–20 minutes of daily floor-level wand play to maintain muscle mass and protect heart health."
                     }
-                ],
-                "tags": [
-                    "ScottishStraight",
-                    "CatCare",
-                    "FelineHCM",
-                    "CatWeightManagement"
                 ]
             },
             "ja": {
@@ -163,12 +151,6 @@
                         "question": "スコティッシュストレートは太りやすいですが、体重管理はどうすればいいですか？",
                         "answer": "おっとりした性格で運動量が少ないため肥満になりやすいです。高タンパク・低炭水化物のフードを定量給餌し、関節に優しい床面でのじゃらし遊びを毎日15〜20分行い、筋肉量を維持してください。"
                     }
-                ],
-                "tags": [
-                    "スコティッシュストレート",
-                    "猫のケア",
-                    "猫のHCM",
-                    "猫の体重管理"
                 ]
             },
             "zh": {
@@ -219,12 +201,6 @@
                         "question": "苏格兰直耳猫非常容易发胖，应该如何管理体重？",
                         "answer": "由于性格安静且活动量较小，它们很容易过重。应投喂高蛋白、低碳水化合物的猫粮并控制喂食量，每天陪伴其进行 15~20 分钟的贴地逗猫棒游戏，维持肌肉量的同时保护心脏与关节。"
                     }
-                ],
-                "tags": [
-                    "苏格兰直耳猫",
-                    "猫咪护理",
-                    "猫肥厚型心肌病",
-                    "猫咪体重管理"
                 ]
             },
             "es": {
@@ -275,12 +251,6 @@
                         "question": "El Scottish Straight engorda con facilidad, ¿cómo debo gestionar su peso?",
                         "answer": "Su temperamento tranquilo favorece el aumento de peso. Ofrezca un pienso medido rico en proteínas y bajo en carbohidratos, y realice sesiones diarias de juego de 15 a 20 minutos a ras de suelo para mantener su masa muscular sin dañar las articulaciones."
                     }
-                ],
-                "tags": [
-                    "ScottishStraight",
-                    "CuidadoFelino",
-                    "HCMFelino",
-                    "ControlDePesoGatos"
                 ]
             },
             "fr": {
@@ -331,12 +301,6 @@
                         "question": "Le Scottish Straight grossit facilement, comment gérer son poids ?",
                         "answer": "Leur caractère calme et leur ossature trapue favorisent l'embonpoint. Donnez des repas dosés riches en protéines et pauvres en glucides, et proposez 15 à 20 minutes de jeu quotidien au sol pour préserver la masse musculaire et le cœur."
                     }
-                ],
-                "tags": [
-                    "ScottishStraight",
-                    "SoinDuChat",
-                    "HCMChat",
-                    "GestionPoidsChat"
                 ]
             },
             "de": {
@@ -387,12 +351,6 @@
                         "question": "Scottish Straights neigen zu Übergewicht – wie halte ich meine Katze schlank?",
                         "answer": "Ihre ruhige Art begünstigt Gewichtszunahme. Füttern Sie kontrollierte Portionen proteinreichen, kohlenhydratarmen Futters und spielen Sie täglich 15–20 Minuten am Boden, um die Muskelmasse zu erhalten und das Herz zu schützen."
                     }
-                ],
-                "tags": [
-                    "ScottishStraight",
-                    "Katzenpflege",
-                    "KatzenHCM",
-                    "GewichtskontrolleKatze"
                 ]
             },
             "pt": {
@@ -443,12 +401,6 @@
                         "question": "O Scottish Straight engorda fácil, como controlar o peso dele?",
                         "answer": "O temperamento calmo favorece o ganho de peso. Ofereça alimento medido rico em proteínas e baixo em carboidratos, e faça sessões diárias de 15 a 20 minutos de brincadeiras rasteiras para manter a massa muscular e proteger o coração."
                     }
-                ],
-                "tags": [
-                    "ScottishStraight",
-                    "CuidadosComGatos",
-                    "HCMFelina",
-                    "ControleDePesoGatos"
                 ]
             },
             "id": {
@@ -499,12 +451,6 @@
                         "question": "Scottish Straight mudah gemuk, bagaimana cara mengontrol berat badannya?",
                         "answer": "Sifatnya yang tenang membuat mereka mudah mengalami obesitas. Berikan pakan tinggi protein dan rendah karbohidrat dengan porsi terukur, serta ajak bermain di lantai selama 15–20 menit setiap hari untuk menjaga massa otot dan kesehatan jantung."
                     }
-                ],
-                "tags": [
-                    "ScottishStraight",
-                    "PerawatanKucing",
-                    "HCMKucing",
-                    "KontrolBeratBadanKucing"
                 ]
             }
         },

@@ -51,12 +51,6 @@
                         "question": "슈가글라이더를 1마리만 키워도 괜찮나요?",
                         "answer": "절대 권장하지 않습니다. 슈가글라이더는 야생에서 6~10마리씩 그룹을 형성해 사는 지극히 사회적인 유주류입니다. 1마리만 외롭게 키우면 우울증에 걸려 자신의 꼬리나 꼬리뼈, 주머니를 씹어 뜯는 자해(Self-mutilation) 행동을 보입니다. 가급적 2마리 이상 함께 사육해야 합니다."
                     }
-                ],
-                "tags": [
-                    "슈가글라이더",
-                    "소동물케어",
-                    "유주류",
-                    "슈가글라이더마비"
                 ]
             },
             "en": {
@@ -107,12 +101,6 @@
                         "question": "Can I keep only one Sugar Glider as a pet?",
                         "answer": "It is strongly discouraged. Sugar Gliders are colony marsupials that live in groups of 6 to 10 in the wild. A solitary glider frequently develops severe depression, leading to self-mutilation (chewing off their own tail, fur, or pouch). Always house them in pairs or small groups."
                     }
-                ],
-                "tags": [
-                    "SugarGlider",
-                    "ExoticPetCare",
-                    "MarsupialCare",
-                    "GliderParalysis"
                 ]
             },
             "ja": {
@@ -163,12 +151,6 @@
                         "question": "フクロモモンガを1匹だけで飼育しても大丈夫ですか？",
                         "answer": "おすすめできません。フクロモモンガは野生で6〜10匹の群れを作る極めて社会性の高い有袋類です。1匹だけで飼育すると重いうつ状態に陥り、自分の尻尾や皮膚を噛みちぎる自傷行為（Self-mutilation）を起こします。必ず2匹以上のペアやグループで飼育してください。"
                     }
-                ],
-                "tags": [
-                    "フクロモモンガ",
-                    "シュガーグライダー",
-                    "エキゾチックアニマル",
-                    "モモンガ麻痺予防"
                 ]
             },
             "zh": {
@@ -219,12 +201,6 @@
                         "question": "只养 1 只蜜袋鼯可以吗？",
                         "answer": "绝对不建议！蜜袋鼯在野外是 6~10 只成群生活的强社群性有袋类。单独饲养的蜜袋鼯极易患上严重抑郁症，进而疯狂咬啃自己的尾巴、肢体甚至育儿袋（自残行为）。请务必成对或成群饲养。"
                     }
-                ],
-                "tags": [
-                    "蜜袋鼯",
-                    "异宠护理",
-                    "有袋类",
-                    "蜜袋鼯后肢瘫痪"
                 ]
             },
             "es": {
@@ -275,12 +251,6 @@
                         "question": "¿Puedo tener un solo Petauro del Azúcar como mascota?",
                         "answer": "Se desaconseja totalmente. Los petauros del azúcar son marsupiales de colonia que viven en grupos de 6 a 10 en estado salvaje. Un petauro solitario suele desarrollar depresión severa, lo que lo lleva a la automutilación (morderse la cola, patas o bolsa). Manténgalos siempre en parejas o pequeños grupos."
                     }
-                ],
-                "tags": [
-                    "PetauroDelAzucar",
-                    "CuidadoDeMascotasExoticas",
-                    "Marsupiales",
-                    "ParalisisDelPetauro"
                 ]
             },
             "fr": {
@@ -331,12 +301,6 @@
                         "question": "Puis-je n'adopter qu'un seul Pétaure du Sucre ?",
                         "answer": "C'est fortement déconseillé. Les pétaures du sucre sont des marsupiaux vivant en colonies de 6 à 10 individus dans la nature. Un pétaure seul développe très souvent une dépression sévère conduisant à l'automutilation (se ronger la queue, les pattes ou le patagium). Élevez-les toujours en couple ou en petit groupe."
                     }
-                ],
-                "tags": [
-                    "PetaureDuSucre",
-                    "SoinDesNouveauxAnimauxDeCompagnie",
-                    "Marsupiaux",
-                    "ParalysiePetaure"
                 ]
             },
             "de": {
@@ -387,12 +351,6 @@
                         "question": "Kann ich einen Sugar Glider auch allein halten?",
                         "answer": "Davon wird dringend abgeraten! Sugar Glider sind Koloniebeuteltiere, die wild in Gruppen von 6 bis 10 Tieren leben. Einzelne Glider entwickeln schwere Depressionen und beißen sich selbst Schwanz oder Pfoten ab (Selbstverstümmelung). Halten Sie sie immer mindestens paarweise."
                     }
-                ],
-                "tags": [
-                    "Kurzkopfgleitbeutler",
-                    "SugarGlider",
-                    "Kleintierpflege",
-                    "GliderLaehmung"
                 ]
             },
             "pt": {
@@ -443,12 +401,6 @@
                         "question": "Posso ter apenas um Petauro-do-Açúcar?",
                         "answer": "É totalmente contraindicado. Os petauros são marsupiais sociais que vivem em colônias de 6 a 10 indivíduos na natureza. Um petauro sozinho frequentemente desenvolve depressão grave, levando à automutilação (morder a própria cauda, patas ou bolsa). Mantenha-os sempre em pares ou pequenos grupos."
                     }
-                ],
-                "tags": [
-                    "PetauroDoAcucar",
-                    "CuidadosComAnimaisExoticos",
-                    "Marsupiais",
-                    "ParalisiaDoPetauro"
                 ]
             },
             "id": {
@@ -499,12 +451,6 @@
                         "question": "Bolehkah saya hanya memelihara satu ekor Sugar Glider saja?",
                         "answer": "Sangat tidak disarankan. Sugar Glider adalah hewan marsupial koloni yang hidup dalam kelompok 6 hingga 10 ekor di alam liar. Glider yang dipelihara sendirian sering mengalami depresi berat hingga melukai diri sendiri (menggigit ekor, kaki, atau kantongnya). Selalu pelihara mereka secara berpasangan atau kelompok kecil."
                     }
-                ],
-                "tags": [
-                    "SugarGlider",
-                    "PerawatanHewanEksotis",
-                    "Marsupial",
-                    "KelumpuhanSugarGlider"
                 ]
             }
         },

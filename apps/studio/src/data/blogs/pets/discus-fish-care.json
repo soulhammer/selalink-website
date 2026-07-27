@@ -51,12 +51,6 @@
                         "question": "디스커스 수조의 수온을 왜 28~30°C의 높은 온도로 유지해야 하나요?",
                         "answer": "디스커스는 아마존 강 따뜻한 잔잔한 수계 출신으로 대사율과 면역계가 고온에 최적화되어 있습니다. 수온이 26°C 이하로 떨어지면 신진대사가 저하되어 사료를 거부하고, 면역력이 급격히 떨어져 백점병이나 내부 기생충 감염에 취약해집니다. 따라서 히터를 사용하여 상시 28~30°C(치어 사육 시 30~31°C)를 유지하는 것이 필수적입니다."
                     }
-                ],
-                "tags": [
-                    "디스커스",
-                    "수생생물케어",
-                    "열대어의왕",
-                    "디스커스구멍병"
                 ]
             },
             "en": {
@@ -107,12 +101,6 @@
                         "question": "Why must Discus aquariums be kept at a high temperature of 28–30°C?",
                         "answer": "Discus originate from warm Amazonian backwaters where their metabolic and immune systems evolved to thrive in high heat. Temperatures below 26°C depress their metabolism, cause anorexia, and severely weaken immunity against Ich and internal flagellates. Maintaining a constant 28–30°C (or 30–31°C for juveniles) using reliable heaters is mandatory."
                     }
-                ],
-                "tags": [
-                    "DiscusFish",
-                    "AquaticPetCare",
-                    "KingOfAquarium",
-                    "DiscusHexamitaPrevention"
                 ]
             },
             "ja": {
@@ -163,12 +151,6 @@
                         "question": "ディスカス水槽の水温をなぜ28〜30℃の高めに保つ必要があるのですか？",
                         "answer": "ディスカスはアマゾン川の暖かい緩やかな水域原産であり、代謝や免疫系が高温環境に最適化されています。水温が26℃以下に下がると代謝が落ちて拒食を起こし、免疫力が低下して白点病や内部寄生虫に感染しやすくなります。ヒーターを用いて常に28〜30℃（幼魚期は30〜31℃）を維持することが飼育の絶対条件です。"
                     }
-                ],
-                "tags": [
-                    "ディスカス",
-                    "観賞魚ケア",
-                    "熱帯魚の王様",
-                    "ディスカス穴あき病"
                 ]
             },
             "zh": {
@@ -219,12 +201,6 @@
                         "question": "为什么七彩神仙鱼的水族箱必须维持 28°C~30°C 的高水温？",
                         "answer": "七彩神仙鱼原生于亚马逊河温暖平静的浅水区，其新陈代谢与免疫系统高度适应高温环境。若水温降至 26°C 以下，其消化酶活性骤降导致拒食绝食，免疫力崩溃极易感染白点病与肠道鞭毛虫。使用高品质加热棒常年维持 28°C~30°C（幼鱼期 30°C~31°C）是成功饲养的铁律。"
                     }
-                ],
-                "tags": [
-                    "七彩神仙鱼",
-                    "观赏鱼护理",
-                    "热带鱼之王",
-                    "七彩头洞病预防"
                 ]
             },
             "es": {
@@ -275,12 +251,6 @@
                         "question": "¿Por qué el acuario del Pez Disco debe mantenerse a una temperatura alta de 28–30°C?",
                         "answer": "Los peces Disco proceden de remansos cálidos amazónicos donde su metabolismo e inmunidad evolucionaron para funcionar a temperaturas elevadas. Si la temperatura baja de 26°C, su metabolismo se ralentiza causando inapetencia, dejando al pez desprotegido frente a la enfermedad del punto blanco y parásitos flagelados. Mantener 28–30°C constante con termocalentadores es obligatorio."
                     }
-                ],
-                "tags": [
-                    "PezDisco",
-                    "CuidadoDePeces",
-                    "ReyDelAcuario",
-                    "HexamitaPezDisco"
                 ]
             },
             "fr": {
@@ -331,12 +301,6 @@
                         "question": "Pourquoi l'aquarium du Discus doit-il être maintenu à une température élevée de 28 à 30°C ?",
                         "answer": "Les Discus viennent des eaux chaudes de l'Amazone où leur métabolisme est adapté à une forte chaleur. Sous 26°C, leur métabolisme s'effondre, ils refusent de s'alimenter et développent des parasitoses. Le maintien permanent de 28 à 30°C au chauffage est obligatoire."
                     }
-                ],
-                "tags": [
-                    "PoissonDiscus",
-                    "SoinDesPoissons",
-                    "RoiDeLAquarium",
-                    "HexamitaDiscus"
                 ]
             },
             "de": {
@@ -387,12 +351,6 @@
                         "question": "Warum muss das Diskusaquarium auf hohen 28–30 °C gehalten werden?",
                         "answer": "Diskusfische stammen aus heißen amazonischen Altwassern; ihr Immunsystem braucht diese Wärme. Sinkt die Temperatur unter 26 °C, verlangsamt sich der Stoffwechsel, sie verweigern Futter und werden anfällig für Parasiten. Ein dauerhafter Betrieb bei 28–30 °C per Heizstab ist unerlässlich."
                     }
-                ],
-                "tags": [
-                    "Diskusfisch",
-                    "AquaristikPflege",
-                    "KoenigDesAquariums",
-                    "DiskusLochkrankheit"
                 ]
             },
             "pt": {
@@ -443,12 +401,6 @@
                         "question": "Por que o aquário do Peixe Disco deve ser mantido em temperatura alta de 28 a 30°C?",
                         "answer": "Os peixes Disco vêm de águas quentes amazônicas onde seu metabolismo evoluiu para alta temperatura. Se a água cai abaixo de 26°C, o metabolismo desacelera, eles param de comer e a imunidade cai. Manter 28–30°C constante no termostato é obrigatório."
                     }
-                ],
-                "tags": [
-                    "PeixeDisco",
-                    "CuidadosComPeixes",
-                    "ReiDoAquario",
-                    "HexamitaPeixeDisco"
                 ]
             },
             "id": {
@@ -499,12 +451,6 @@
                         "question": "Mengapa akuarium Ikan Discus harus dijaga pada suhu tinggi 28–30°C?",
                         "answer": "Ikan Discus berasal dari genangan hangat Amazon di mana sistem metabolisme dan imunnya berevolusi pada suhu tinggi. Jika suhu turun di bawah 26°C, metabolismenya melambat, mogok makan, dan imunnya runtuh sehingga rentan kena parasit usus dan bintik putih. Penggunaan heater konstan pada suhu 28–30°C adalah syarat mutlak."
                     }
-                ],
-                "tags": [
-                    "IkanDiscus",
-                    "PerawatanIkanHias",
-                    "RajaAkuarium",
-                    "PencegahanHexamitaDiscus"
                 ]
             }
         },

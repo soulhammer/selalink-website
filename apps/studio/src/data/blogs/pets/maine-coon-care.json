@@ -51,12 +51,6 @@
                         "question": "What happens if I forcibly brush a Maine Coon's matted double coat?",
                         "answer": "Maine Coons are large and physically strong. If grooming causes pain and creates fear, they may become defensively aggressive, making future handling unmanageable. Always spritz matted areas (such as armpits or groin) with a detangling spray first and untangle them gently in small sessions."
                     }
-                ],
-                "tags": [
-                    "MaineCoon",
-                    "GiantCat",
-                    "HCMPrevention",
-                    "DoubleCoatGrooming"
                 ]
             },
             "ja": {
@@ -107,12 +101,6 @@
                         "question": "メインクーンの絡まった毛のブラッシングを無理に行うとどうなりますか？",
                         "answer": "メインクーンは力強く大きいため、お手入れに痛みや恐怖を感じて拒否するようになると、制御できなくなります。絡まりやすい脇等はスプレー等を使用し、優しくほぐしながら梳かす必要があります。"
                     }
-                ],
-                "tags": [
-                    "メインクーン",
-                    "大型猫",
-                    "肥大性心筋症",
-                    "二重毛のケア"
                 ]
             },
             "zh": {
@@ -163,12 +151,6 @@
                         "question": "如果强行给缅因猫梳理打结的被毛，会有什么副作用？",
                         "answer": "缅因猫体型大且力量强。如果在梳毛时感到疼痛并产生防备抗拒心理，后续打理将变得极其困难。腋下或大腿根部打结处需喷洒顺毛喷雾后，分次柔和梳理。"
                     }
-                ],
-                "tags": [
-                    "缅因猫",
-                    "巨型猫",
-                    "心肌病预防",
-                    "双层毛梳理"
                 ]
             },
             "es": {
@@ -219,12 +201,6 @@
                         "question": "¿Qué pasa si cepillo a la fuerza el pelo enredado de mi Maine Coon?",
                         "answer": "Por su gran tamaño y fuerza, si asocian el cepillado con dolor y reaccionan a la defensiva, será imposible manipularlos. Aplique un espray desenredante primero y cepille suavemente en sesiones breves."
                     }
-                ],
-                "tags": [
-                    "MaineCoon",
-                    "GatoGigante",
-                    "PrevenciónDeHCM",
-                    "MantoDoble"
                 ]
             },
             "fr": {
@@ -275,12 +251,6 @@
                         "question": "Que se passe-t-il si je brosse de force les nœuds de mon Maine Coon ?",
                         "answer": "En raison de sa taille imposante et de sa force, s'il associe le toilettage à la douleur et se rebelle, il deviendra impossible à manipuler. Utilisez un spray démêlant au préalable et brossez par petites étapes avec douceur."
                     }
-                ],
-                "tags": [
-                    "MaineCoon",
-                    "ChatGéant",
-                    "PréventionDeCMH",
-                    "DoublePelage"
                 ]
             },
             "de": {
@@ -331,12 +301,6 @@
                         "question": "Was passiert, wenn ich verfilztes Fell bei einer Maine Coon gewaltsam ausbürste?",
                         "answer": "Aufgrund ihrer Größe und Kraft können Maine Coons bei Schmerzen sehr wehrhaft werden, was die Pflege unmöglich macht. Sprühen Sie Knoten mit Entwirrungsspray ein und kämmen Sie sie vorsichtig in kleinen Schritten aus."
                     }
-                ],
-                "tags": [
-                    "MaineCoon",
-                    "Riesenkatze",
-                    "HCMPraevention",
-                    "DoppelfellPflege"
                 ]
             },
             "pt": {
@@ -387,12 +351,6 @@
                         "question": "O que acontece se eu escovar à força o pelo embaraçado de um Maine Coon?",
                         "answer": "Pelo seu tamanho e força, se associarem a escovação à dor e ficarem reativos, o manejo torna-se impossível. Use sprays desembaraçantes primeiro e escove suavemente em sessões curtas."
                     }
-                ],
-                "tags": [
-                    "MaineCoon",
-                    "GatoGigante",
-                    "PrevençãoDeHCM",
-                    "PelagemDupla"
                 ]
             },
             "id": {
@@ -443,12 +401,6 @@
                         "question": "Apa yang terjadi jika saya memaksakan menyisir bulu Maine Coon yang menggumpal?",
                         "answer": "Karena ukuran dan kekuatan mereka yang besar, jika mereka mengasosiasikan penyisiran dengan rasa sakit dan menjadi agresif, penanganannya akan sangat sulit. Gunakan spray pengurai bulu menggumpal terlebih dahulu dan sisir secara lembut bertahap."
                     }
-                ],
-                "tags": [
-                    "MaineCoon",
-                    "KucingRaksasa",
-                    "PencegahanHCM",
-                    "PerawatanBuluGanda"
                 ]
             },
             "ko": {
@@ -499,12 +451,6 @@
                         "question": "메인쿤의 이중 장모 빗질을 억지로 하면 어떤 부작용이 있나요?",
                         "answer": "메인쿤은 힘이 세고 덩치가 크기 때문에 빗질 과정에서 통증을 느껴 빗에 대해 거부감이 생기면 통제가 불가능한 상황이 올 수 있습니다. 사타구니나 겨드랑이 엉킨 부위는 부드러운 전처리 스프레이 후 조금씩 나누어 빗어야 합니다."
                     }
-                ],
-                "tags": [
-                    "메인쿤",
-                    "거대묘",
-                    "비대성심근증",
-                    "이중모빗질"
                 ]
             }
         },

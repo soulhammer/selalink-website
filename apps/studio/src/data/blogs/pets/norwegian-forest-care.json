@@ -51,12 +51,6 @@
                         "question": "물놀이를 좋아한다는 소문이 사실인가요?",
                         "answer": "자연 발생 품종이라 털에 강한 방수성이 있어 물을 덜 무서워하는 경향이 있습니다. 다만 강제로 목욕시키는 것은 스트레스가 되므로 억지로 씻기지 마십시오."
                     }
-                ],
-                "tags": [
-                    "노르웨이숲",
-                    "삼중모관리",
-                    "대형묘관절",
-                    "사냥놀이"
                 ]
             },
             "en": {
@@ -107,12 +101,6 @@
                         "question": "Is it true that Norwegian Forest Cats love water?",
                         "answer": "Because they are a natural breed with water-repellent guard hairs, many show less fear around water. However, forcing them into baths causes extreme stress, so never force water bathing."
                     }
-                ],
-                "tags": [
-                    "NorwegianForestCat",
-                    "TripleCoatCare",
-                    "LargeCatJoints",
-                    "VerticalPlay"
                 ]
             },
             "ja": {
@@ -163,12 +151,6 @@
                         "question": "水遊びが好きというのは本当ですか？",
                         "answer": "自然発生種であり、被毛に強い撥水性があるため水に対する恐怖心が薄い個体が多いです。ただし、無理なお風呂はストレスになりますので、嫌がる場合は無理に洗わないでください。"
                     }
-                ],
-                "tags": [
-                    "ノルウェージャンフォレストキャット",
-                    "三重毛ケア",
-                    "大型猫の関節",
-                    "狩り遊び"
                 ]
             },
             "zh": {
@@ -219,12 +201,6 @@
                         "question": "听说挪威森林猫不怕水，这是真的吗？",
                         "answer": "作为自然演化品种，它们的外层被毛具有极强的防水性，因此对水的恐惧感通常较低。但强行洗澡依然会引发应激，切勿违背其意愿强行水洗。"
                     }
-                ],
-                "tags": [
-                    "挪威森林猫",
-                    "三重毛护理",
-                    "大型猫关节",
-                    "捕猎游戏"
                 ]
             },
             "es": {
@@ -275,12 +251,6 @@
                         "question": "¿Es cierto que a los gatos Bosque de Noruega les gusta el agua?",
                         "answer": "Al ser una raza natural con un pelaje exterior muy impermeable, suelen mostrar poco temor al agua. No obstante, los baños forzados causan un gran estrés, por lo que no debe bañarlo de forma obligada."
                     }
-                ],
-                "tags": [
-                    "BosqueDeNoruega",
-                    "MantoTriple",
-                    "ArticulacionesFelinas",
-                    "JuegoDeCaza"
                 ]
             },
             "fr": {
@@ -331,12 +301,6 @@
                         "question": "Est-il vrai que le chat Norvégien aime l'eau ?",
                         "answer": "Son poil de couverture imperméable réduit sa peur de l'eau. Cependant, les bains forcés restent très stressants, il ne faut donc jamais le forcer à se baigner."
                     }
-                ],
-                "tags": [
-                    "Norvégien",
-                    "PelageTriple",
-                    "ArticulationsChat",
-                    "JeuDeChasse"
                 ]
             },
             "de": {
@@ -387,12 +351,6 @@
                         "question": "Stimmt es, dass Norwegische Waldkatzen Wasser mögen?",
                         "answer": "Da sie als Naturrasse ein stark wasserabweisendes Deckhaar besitzen, haben viele Individuen weniger Scheu vor Wasser. Erzwungene Bäder erzeugen jedoch Stress und sollten vermieden werden."
                     }
-                ],
-                "tags": [
-                    "NorwegischeWaldkatze",
-                    "DreifachfellPflege",
-                    "GelenkeGrosserKatzen",
-                    "Jagdspiel"
                 ]
             },
             "pt": {
@@ -443,12 +401,6 @@
                         "question": "É verdade que os gatos Bosque da Noruega gostam de água?",
                         "answer": "Como raça natural com pelagem externa impermeável, muitos exemplares têm menos medo de água. No entanto, banhos forçados geram estresse e não devem ser impostos."
                     }
-                ],
-                "tags": [
-                    "BosqueDaNoruega",
-                    "PelagemTripla",
-                    "ArticulaçõesFelinas",
-                    "JogoDeCaça"
                 ]
             },
             "id": {
@@ -499,12 +451,6 @@
                         "question": "Apakah benar Kucing Hutan Norwegia menyukai air?",
                         "answer": "Karena merupakan ras alami dengan bulu terluar yang kedap air, banyak dari mereka yang tidak takut pada air. Namun, memandikan secara paksa tetap memicu stres berat, jadi jangan pernah memaksa mereka mandi air."
                     }
-                ],
-                "tags": [
-                    "KucingHutanNorwegia",
-                    "PerawatanBuluTripleCoat",
-                    "SendiKucingBesar",
-                    "PermainanBerburu"
                 ]
             }
         },

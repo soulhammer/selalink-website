@@ -51,12 +51,6 @@
                         "question": "How often should I clean a French Bulldog's facial wrinkles?",
                         "answer": "Wrinkles must be maintained at least once daily. Food residue and tear moisture easily collect inside the skin folds, which rapidly breeds yeast or bacteria, leading to painful dermatitis and bad odor if not kept clean and dry."
                     }
-                ],
-                "tags": [
-                    "FrenchBulldog",
-                    "BrachycephalicCare",
-                    "HeatstrokePrevention",
-                    "WrinkleCare"
                 ]
             },
             "ja": {
@@ -107,12 +101,6 @@
                         "question": "顔のシワはどのくらいの頻度でケアすべきですか？",
                         "answer": "毎日最低1回以上の清掃が必要です。フードの食べこぼしや涙の湿気がシワの間に溜まりやすく、放置すると雑菌やカビが繁殖して皮膚炎や悪臭の原因になります。"
                     }
-                ],
-                "tags": [
-                    "フレンチブルドッグ",
-                    "短頭種ケア",
-                    "熱中症予防",
-                    "シワの管理"
                 ]
             },
             "zh": {
@@ -163,12 +151,6 @@
                         "question": "法斗的皱纹需要多久清理一次？",
                         "answer": "建议每天至少清理1次。进食残渣的泪水极易积聚在皱纹深处，若不保持干燥会迅速滋生真菌或细菌，引发严重的皮炎与异味。"
                     }
-                ],
-                "tags": [
-                    "法国斗牛犬",
-                    "短头犬护理",
-                    "预防中暑",
-                    "皱纹护理"
                 ]
             },
             "es": {
@@ -219,12 +201,6 @@
                         "question": "¿Con qué frecuencia debo limpiar las arrugas del Bulldog Francés?",
                         "answer": "Deben limpiarse al menos una vez al día. La humedad de lágrimas o restos de comida se acumulan en los pliegues, generando hongos o bacterias rápidamente, lo que causa dermatitis dolorosa y mal olor si no se mantiene seco."
                     }
-                ],
-                "tags": [
-                    "BulldogFrancés",
-                    "CuidadoBraquicefálico",
-                    "PrevenciónGolpeDeCalor",
-                    "CuidadoDeArrugas"
                 ]
             },
             "fr": {
@@ -275,12 +251,6 @@
                         "question": "À quelle fréquence faut-il nettoyer les plis de sa face ?",
                         "answer": "Un nettoyage quotidien est recommandé. L'humidité des larmes et les résidus de nourriture s'accumulent dans les plis et provoquent rapidement des proliférations de bactéries ou champignons, causant des dermatites douloureuses."
                     }
-                ],
-                "tags": [
-                    "BouledogueFrançais",
-                    "SoinBrachycéphale",
-                    "PréventionCoupDeChaleur",
-                    "SoinDesRides"
                 ]
             },
             "de": {
@@ -331,12 +301,6 @@
                         "question": "Wie oft müssen die Gesichtsfalten gereinigt werden?",
                         "answer": "Die Falten müssen täglich gepflegt werden. Futterreste und Tränenflüssigkeit sammeln sich in den Hautfalten und bilden Nährboden für Bakterien und Hefepilze, was zu schmerzhaften Entzündungen führt."
                     }
-                ],
-                "tags": [
-                    "FranzösischeBulldogge",
-                    "BrachyzephaliePflege",
-                    "HitzschlagPrävention",
-                    "FaltenPflege"
                 ]
             },
             "pt": {
@@ -387,12 +351,6 @@
                         "question": "Com que frequência devo limpar as dobras do rosto?",
                         "answer": "Recomenda-se higienizar diariamente. Umidade de lágrimas e restos de comida acumulam-se nas dobras, gerando fungos e bactérias se não forem mantidas secas."
                     }
-                ],
-                "tags": [
-                    "BulldogFrancês",
-                    "CuidadoBraquicefálico",
-                    "PrevençãoChoqueTérmico",
-                    "RugasFaciais"
                 ]
             },
             "id": {
@@ -443,12 +401,6 @@
                         "question": "Seberapa sering saya harus membersihkan kerutan wajahnya?",
                         "answer": "Kerutan harus dibersihkan minimal sehari sekali. Kelembapan dari air mata dan sisa makanan mudah menumpuk di lipatan kulit yang menjadi sarang jamur atau bakteri jika tidak dijaga tetap bersih dan kering."
                     }
-                ],
-                "tags": [
-                    "FrenchBulldog",
-                    "PerawatanBrakisefalik",
-                    "PencegahanHeatstroke",
-                    "PerawatanKerutan"
                 ]
             },
             "ko": {
@@ -499,12 +451,6 @@
                         "question": "얼굴 주름은 얼마나 자주 청소해야 하나요?",
                         "answer": "주름 관리는 최소 하루에 한 번 필수입니다. 눈물과 음식물 찌꺼기가 주름 사이에 고여 습해지면 곰팡이나 세균이 젖어 피부염과 악취를 유발하므로 닦아준 뒤 바싹 말려주어야 합니다."
                     }
-                ],
-                "tags": [
-                    "프렌치 불독",
-                    "단두종 케어",
-                    "열사병 예방",
-                    "주름 관리"
                 ]
             }
         },

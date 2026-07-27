@@ -51,12 +51,6 @@
                         "question": "플래티 암컷이 출산할 때 새끼(치어)가 성어들에게 먹히지 않게 하려면 어떻게 하나요?",
                         "answer": "플래티는 자신의 새끼를 먹는 '치어 포식(Fry Cannibalism)' 습성이 있습니다. 암컷의 배가 'ㄴ'자 모양으로 네모나지고 산란관이 돌출되면 출산 직전이므로, 미리 부채통(격리통)에 옮겨주어야 합니다. 사육수조에서 자연 출산을 시킬 경우 치어들이 숨을 수 있도록 자바모스, 붕어모, 나자스모스 같은 수초를 풍성하게 식재해야 합니다."
                     }
-                ],
-                "tags": [
-                    "미키마우스플래티",
-                    "플래티키우기",
-                    "난태생관상어",
-                    "백점병예방"
                 ]
             },
             "en": {
@@ -107,12 +101,6 @@
                         "question": "How can I prevent adult Platies from eating their newborn fry during birth?",
                         "answer": "Platies naturally exhibit 'Fry Cannibalism'. When a female's abdomen becomes squarish ('L'-shaped) and her gravid spot darkens, move her to a separate breeding trap before birth. If letting her give birth in the main tank, plant dense floating mosses like Java moss or Guppy grass to provide crucial refuges for newborn fry."
                     }
-                ],
-                "tags": [
-                    "MickeyMousePlaty",
-                    "PlatyCare",
-                    "LivebearerFish",
-                    "IchPrevention"
                 ]
             },
             "ja": {
@@ -163,12 +151,6 @@
                         "question": "プラティが出産する際、生まれた稚魚が親魚に食べられないようにするにはどうすればいいですか？",
                         "answer": "プラティには自分の稚魚を食べてしまう「稚魚捕食（Fry Cannibalism）」の習性があります。メスのお腹が四角く（L字型に）張り、目立ってきたら出産直前ですので産卵箱へ移動させてください。本水槽で自然出産させる場合は、稚魚が隠れられるようウィローモスやマツモなどの水草を密生させることが不可欠です。"
                     }
-                ],
-                "tags": [
-                    "ミッキーマウスプラティ",
-                    "プラティ飼育",
-                    "卵胎生メダカ",
-                    "白点病予防"
                 ]
             },
             "zh": {
@@ -219,12 +201,6 @@
                         "question": "母月光鱼生小鱼时，怎样才能防止小鱼被大鱼吃掉？",
                         "answer": "月光鱼有食仔的天性“亲鱼吞食幼鱼 (Fry Cannibalism)”。当母鱼肚子变方（呈直角“L”形）且胎斑加深时，说明即将在数小时内生产，应提前移入隔离繁殖盒中。若选择大缸自然生产，必须在缸内大量种植爪哇莫丝、水榕或金鱼藻等密植水草，给刚出生的幼鱼提供充足的躲避空间。"
                     }
-                ],
-                "tags": [
-                    "米老鼠月光鱼",
-                    "月光鱼饲养",
-                    "卵胎生观赏鱼",
-                    "白点病预防"
                 ]
             },
             "es": {
@@ -275,12 +251,6 @@
                         "question": "¿Cómo puedo evitar que los Platys adultos se coman a los alevines recién nacidos?",
                         "answer": "Los Platys practican de forma natural el 'Canibalismo de Alevines'. Cuando el vientre de la hembra se vuelva cuadrado (en forma de 'L') y la mancha anal se oscurezca, trasládela a una paridera. Si paren en el acuario comunitario, introduzca abundante musgo de Java o plantas flotantes donde los alevines puedan refugiarse."
                     }
-                ],
-                "tags": [
-                    "PezPlatyMickeyMouse",
-                    "CuidadoDePlatys",
-                    "PecesViviparos",
-                    "PrevencionDelIch"
                 ]
             },
             "fr": {
@@ -331,12 +301,6 @@
                         "question": "Comment empêcher les Platys adultes de manger leurs alevins à la naissance ?",
                         "answer": "Les Platys pratiquent naturellement le 'Cannibalisme des Alevins'. Quand le ventre de la femelle devient bien carré (en forme de 'L') et que sa tache génitale s'assombrit, placez-la dans un pondoir. Si elle met bas dans l'aquarium communautaire, installez une grande quantité de mousse de Java pour que les petits s'y réfugient."
                     }
-                ],
-                "tags": [
-                    "PlatyMickeyMouse",
-                    "SoinDesPlatys",
-                    "PoissonsVivipares",
-                    "PreventionMaladiePointsBlancs"
                 ]
             },
             "de": {
@@ -387,12 +351,6 @@
                         "question": "Wie verhindere ich, dass große Platys die neugeborenen Babyfische auffressen?",
                         "answer": "Platys neigen von Natur aus zu 'Alevinen-Kannibalismus'. Wenn der Bauch des Weibchens eckig (L-förmig) wird und der Trächtigkeitsfleck dunkel ist, setzen Sie sie in einen Ablaichkasten. Bei einer Geburt im Hauptbecken schaffen Sie dichte Javamoos-Polster als Versteck für die Babys."
                     }
-                ],
-                "tags": [
-                    "MickyMausPlaty",
-                    "PlatyPflege",
-                    "LebendgebaerendeFische",
-                    "PuenktchenkrankheitProphylaxe"
                 ]
             },
             "pt": {
@@ -443,12 +401,6 @@
                         "question": "Como evitar que os Platys adultos comam os alevinos recém-nascidos?",
                         "answer": "Os Platys têm a tendência natural do 'Canibalismo de Alevinos'. Quando a barriga da fêmea ficar quadrada (em formato de 'L') e a mancha anal escura, coloque-a numa criadeira. Caso nasçam no aquário principal, mantenha densos tufos de musgo de Java para os filhotes se esconderem."
                     }
-                ],
-                "tags": [
-                    "PeixePlatyMickeyMouse",
-                    "CuidadosComPlatys",
-                    "PeixesViviparos",
-                    "PrevencaoDoIctio"
                 ]
             },
             "id": {
@@ -499,12 +451,6 @@
                         "question": "Bagaimana cara mencegah ikan Platy dewasa memakan anak-anaknya yang baru lahir?",
                         "answer": "Ikan Platy memiliki sifat alami 'Kanibalisme Buraya'. Saat perut induk betina berbentuk kotak (seperti huruf 'L') dan bercak kehamilannya gelap, segera pisahkan ke kotak pemijahan. Jika melahirkan di akuarium utama, sediakan tanaman air yang sangat rimbun seperti Java moss atau Guppy grass sebagai tempat bersembunyi buraya."
                     }
-                ],
-                "tags": [
-                    "IkanPlatyMickeyMouse",
-                    "PerawatanIkanPlaty",
-                    "IkanBeranak",
-                    "PencegahanPenyakitIch"
                 ]
             }
         },

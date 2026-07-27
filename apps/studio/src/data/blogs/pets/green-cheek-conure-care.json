@@ -51,12 +51,6 @@
                         "question": "암컷 그린칙 코뉴어가 알을 자꾸 낳는데 어떻게 해야 하나요?",
                         "answer": "무정란을 연속해서 낳으면 체내 칼슘이 고갈되어 뼈가 약해지고 알이 체내에 걸려 나오지 못하는 치명적인 '알 묶임(Egg Binding)'이 발생합니다. 이를 방지하기 위해 하루 10~12시간 이상의 완전한 암막 수면으로 일조 시간을 줄이고, 등이나 배를 만지는 스킨십을 피하며, 둥지 상자나 거울 등 호르몬 자극 요소를 즉시 제거해야 합니다."
                     }
-                ],
-                "tags": [
-                    "그린칙코뉴어",
-                    "앵무새케어",
-                    "조류유독가스주의",
-                    "알묶임예방"
                 ]
             },
             "en": {
@@ -107,12 +101,6 @@
                         "question": "How can I prevent my female Green-cheeked Conure from chronic egg laying?",
                         "answer": "Chronic egg production severely depletes body calcium, causing metabolic bone disease and life-threatening 'Egg Binding' (egg stuck in oviduct). To prevent this, enforce 10–12 hours of total blackout sleep to mimic short daylight hours, avoid petting them below the neck, and remove nest boxes, paper shreds, or mirrors."
                     }
-                ],
-                "tags": [
-                    "GreenCheekedConure",
-                    "AvianCare",
-                    "AvianToxinPrevention",
-                    "EggBindingPrevention"
                 ]
             },
             "ja": {
@@ -163,12 +151,6 @@
                         "question": "メスのウロコインコが無精卵を産み続けてしまうのですが、どうすればよいですか？",
                         "answer": "連続産卵は体内のカルシウムを急速に奪い、骨代謝障害や卵が詰まって出なくなる致死的な「卵詰まり（Egg Binding/難産）」を引き起こします。防ぐためには1日10〜12時間以上の完全遮光睡眠で日照時間を減らし、背中へのタッチを避け、巣箱や鏡などの発情誘発要素を直ちに撤去してください。"
                     }
-                ],
-                "tags": [
-                    "ウロコインコ",
-                    "インコケア",
-                    "鳥類有毒ガス注意",
-                    "卵詰まり予防"
                 ]
             },
             "zh": {
@@ -219,12 +201,6 @@
                         "question": "母小太阳鹦鹉频繁产下无精蛋，应该如何处理？",
                         "answer": "连续产卵会剧烈消耗其体内的钙质导致骨质疏松，并极易引发蛋体卡在输卵管内无法排出的致命性“卡蛋/难产（Egg Binding）”。应通过每日 10~12 小时以上完全遮光睡眠缩短光照，严禁抚摸脖子以下部位，并撤走巢箱、纸丝及镜子等发情诱因。"
                     }
-                ],
-                "tags": [
-                    "小太阳鹦鹉",
-                    "绿颊锥尾太阳鹦鹉",
-                    "鹦鹉护理",
-                    "卡蛋难产预防"
                 ]
             },
             "es": {
@@ -275,12 +251,6 @@
                         "question": "¿Cómo puedo evitar la puesta continua de huevos e impedir la retención de huevos (Egg Binding)?",
                         "answer": "La producción crónica de huevos agota el calcio corporal, causando descalcificación ósea y la letal 'Retención de huevos (Egg Binding)'. Para evitarlo, aplique de 10 a 12 horas de oscuridad total para simular días cortos, evite tocarle el cuerpo por debajo del cuello y retire nidos, espejos o papel de triturar."
                     }
-                ],
-                "tags": [
-                    "ConureMejillasVerdes",
-                    "CotorraDelMatorral",
-                    "CuidadoDeAves",
-                    "PrevencionRetencionHuevos"
                 ]
             },
             "fr": {
@@ -331,12 +301,6 @@
                         "question": "Comment empêcher ma femelle Conure de pondre continuellement et éviter la rétention d'œuf ?",
                         "answer": "La ponte chronique épuise les réserves de calcium, provoquant la déminéralisation osseuse et la rétention d'œuf (Egg Binding) fatale. Pour l'éviter, appliquez 10 à 12 heures d'obscurité totale pour simuler des journées courtes, évitez les caresses sous le cou et retirez nids, miroirs ou papier à déchiqueter."
                     }
-                ],
-                "tags": [
-                    "ConureJouesVertes",
-                    "SoinDesOiseaux",
-                    "PreventionToxiquesOiseaux",
-                    "PreventionRetentionOeuf"
                 ]
             },
             "de": {
@@ -387,12 +351,6 @@
                         "question": "Wie verhindere ich dauerhaftes Eierlegen und das Risiko von Legenot?",
                         "answer": "Dauerhaftes Eierlegen entzieht dem Körper Calcium und führt zu Knochenabbau sowie tödlicher Legenot (Egg Binding). Um dies zu verhindern, sorgen Sie für 10–12 Stunden vollständige Nachtruhe durch Abdunkelung, vermeiden Sie Körperkontakt unterhalb des Halses und entfernen Sie Nistkästen und Spiegel."
                     }
-                ],
-                "tags": [
-                    "GruenwangenRotschwanzsittich",
-                    "Vogelpflege",
-                    "GiftgasSchutzVogel",
-                    "LegenotProphylaxe"
                 ]
             },
             "pt": {
@@ -443,12 +401,6 @@
                         "question": "Como posso evitar a postura crônica de ovos e prevenir a retenção de ovos (Egg Binding)?",
                         "answer": "A postura crônica esgota o cálcio do corpo, causando descalcificação óssea e a fatal retenção de ovos (Egg Binding). Para evitar, garanta 10 a 12 horas de escuridão total para simular dias curtos, evite carinhos abaixo do pescoço e remova ninhos, espelhos e papel para desfiar."
                     }
-                ],
-                "tags": [
-                    "ConureBochechaVerde",
-                    "CuidadosComAves",
-                    "PrevencaoToxicosAves",
-                    "PrevencaoOvoPreso"
                 ]
             },
             "id": {
@@ -499,12 +451,6 @@
                         "question": "Bagaimana cara mencegah peneluran berlebih dan menghindari kondisi Telur Tersangkut (Egg Binding)?",
                         "answer": "Bertelur terus-menerus menguras kalsium tubuh, menyebabkan penyakit tulang dan kondisi mematikan 'Telur Tersangkut' (Egg Binding). Untuk mencegahnya, terapkan 10–12 jam tidur gelap total untuk meniru jam siang yang pendek, hindari mengelus di bawah leher, serta singkirkan kotak sarang dan cermin."
                     }
-                ],
-                "tags": [
-                    "GreenCheekedConure",
-                    "PerawatanBurung",
-                    "PencegahanRacunBurung",
-                    "PencegahanTelurTersangkut"
                 ]
             }
         },

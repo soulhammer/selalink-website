@@ -51,13 +51,6 @@
                         "question": "아가미 깃털이 점점 짧아지고 하얗게 변하는데 왜 그런가요?",
                         "answer": "수질 오염이나 높은 수온으로 인해 깃털 아가미가 손상되거나 곰팡이병(Saprolegnia)에 걸린 것입니다. 수온을 16°C로 낮추고 환수를 늘려주세요."
                     }
-                ],
-                "tags": [
-                    "우파루파",
-                    "아홀로틀",
-                    "양서류케어",
-                    "저수온관리",
-                    "AmphibianArk"
                 ]
             },
             "en": {
@@ -108,12 +101,6 @@
                         "question": "Why are my Axolotl's feathery gills shrinking and turning white?",
                         "answer": "This indicates gill damage from water pollution or high temperatures, or a fungal infection (Saprolegnia). Lower the water temperature to 16°C and increase water changes."
                     }
-                ],
-                "tags": [
-                    "Axolotl",
-                    "AmphibianCare",
-                    "CoolWaterCare",
-                    "AmphibianArk"
                 ]
             },
             "ja": {
@@ -164,13 +151,6 @@
                         "question": "エラのフサフサが短くなり白くなってきたのはなぜですか？",
                         "answer": "水質汚染や高水温によって外鰓が損傷したか、水カビ病（Saprolegnia）に感染したためです。水温を16°Cに下げ、換水の頻度を増やしてください。"
                     }
-                ],
-                "tags": [
-                    "ウーパールーパー",
-                    "アホロートル",
-                    "両生類ケア",
-                    "低温管理",
-                    "AmphibianArk"
                 ]
             },
             "zh": {
@@ -221,13 +201,6 @@
                         "question": "美西螈外鳃羽毛变短且变白是什么原因？",
                         "answer": "这是水质污染或高水温导致外鳃受损，或感染了水霉病（Saprolegnia）。请将水温降至16°C并增加换水频率。"
                     }
-                ],
-                "tags": [
-                    "美西螈",
-                    "六角恐龙",
-                    "两栖动物护理",
-                    "低温管理",
-                    "AmphibianArk"
                 ]
             },
             "es": {
@@ -278,13 +251,6 @@
                         "question": "¿Por qué las branquias plumosas de mi ajolote se encogen y se vuelven blancas?",
                         "answer": "Esto indica daño en las branquias debido a la contaminación del agua o altas temperaturas, o una infección por hongos (Saprolegnia). Reduzca la temperatura a 16°C e incremente los cambios de agua."
                     }
-                ],
-                "tags": [
-                    "Ajolote",
-                    "Axolotl",
-                    "CuidadoDeAnfibios",
-                    "AguaFria",
-                    "AmphibianArk"
                 ]
             },
             "fr": {
@@ -335,12 +301,6 @@
                         "question": "Pourquoi les branchies de mon axolotl rétrécissent-elles et deviennent-elles blanches ?",
                         "answer": "Cela indique des dommages aux branchies dus à la pollution de l'eau, à une température trop élevée, ou à une infection fongique (Saprolegnia). Abaissez la température à 16°C et augmentez la fréquence des changements d'eau."
                     }
-                ],
-                "tags": [
-                    "Axolotl",
-                    "SoinsAmphibiens",
-                    "EauFroide",
-                    "AmphibianArk"
                 ]
             },
             "de": {
@@ -391,12 +351,6 @@
                         "question": "Warum werden die Kiemenäste meines Axolotls kurz und weiß?",
                         "answer": "Das deutet auf Kiemenschäden durch schlechte Wasserwerte, hohe Wassertemperaturen oder einen Pilzbefall (Saprolegnia) hin. Senken Sie die Temperatur auf 16°C und erhöhen Sie die Wasserwechsel-Frequenz."
                     }
-                ],
-                "tags": [
-                    "Axolotl",
-                    "Amphibienpflege",
-                    "Kaltwasser",
-                    "AmphibianArk"
                 ]
             },
             "pt": {
@@ -447,13 +401,6 @@
                         "question": "Por que as brânquias do meu axolote estão encolhendo e ficando brancas?",
                         "answer": "Isso indica danos nas brânquias causados por água poluída, alta temperatura ou infecção fúngica (Saprolegnia). Baixe a temperatura para 16°C e aumente a frequência das trocas de água."
                     }
-                ],
-                "tags": [
-                    "Axolote",
-                    "Axolotl",
-                    "CuidadosComAnfibios",
-                    "AguaFria",
-                    "AmphibianArk"
                 ]
             },
             "id": {
@@ -504,12 +451,6 @@
                         "question": "Mengapa bulu insang Axolotl saya memendek dan memutih?",
                         "answer": "Ini menandakan kerusakan insang akibat polusi air, suhu air yang terlalu tinggi, atau infeksi jamur (Saprolegnia). Turunkan suhu air ke 16°C dan tingkatkan frekuensi penggantian air."
                     }
-                ],
-                "tags": [
-                    "Axolotl",
-                    "PerawatanAmfibi",
-                    "AirDingin",
-                    "AmphibianArk"
                 ]
             }
         },

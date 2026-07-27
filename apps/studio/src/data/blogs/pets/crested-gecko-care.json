@@ -51,12 +51,6 @@
                         "question": "생먹이(귀뚜라미)를 꼭 먹여야 하나요? 슈퍼푸드만 먹여도 되나요?",
                         "answer": "크레스티드 게코 전용 영양 가루인 '슈퍼푸드(MRP)'만으로도 완벽한 영양 공급이 가능합니다. 다만 칼슘 흡수 부족으로 인한 MBD(대사성 뼈 질환)를 예방하기 위해 칼슘제 첨가 여부를 주기적으로 확인해야 합니다."
                     }
-                ],
-                "tags": [
-                    "크레스티드게코",
-                    "파충류케어",
-                    "슈퍼푸드",
-                    "파충류습도관리"
                 ]
             },
             "en": {
@@ -107,12 +101,6 @@
                         "question": "Do I need to feed live insects, or is superfood enough?",
                         "answer": "A complete commercial Crested Gecko Diet (MRP / Superfood) alone provides full nutrition. However, you must periodically check calcium fortification to prevent Metabolic Bone Disease (MBD) caused by calcium deficiency."
                     }
-                ],
-                "tags": [
-                    "CrestedGecko",
-                    "ReptileCare",
-                    "Superfood",
-                    "ReptileHumidityCare"
                 ]
             },
             "ja": {
@@ -163,12 +151,6 @@
                         "question": "生き餌（コオロギ）は必須ですか？スーパーフードだけで育てられますか？",
                         "answer": "クレスティッドゲッコー専用の人工飼料（スーパーフード/MRP）だけで十分な栄養補給が可能です。ただし、カルシウム吸収不足によるMBD（代謝性骨疾患）を防ぐため、カルシウム添加の有無を定期的に確認してください。"
                     }
-                ],
-                "tags": [
-                    "クレスティッドゲッコー",
-                    "爬虫類ケア",
-                    "スーパーフード",
-                    "爬虫類湿度管理"
                 ]
             },
             "zh": {
@@ -219,12 +201,6 @@
                         "question": "必须喂食活体昆虫吗？只喂专用果泥可以吗？",
                         "answer": "完全可以。市售的睫角守宫专用配合饲料（果泥/MRP）已包含全面的营养。只需注意定期补充钙质与维生素D3，即可有效预防骨骼代谢病（MBD）。"
                     }
-                ],
-                "tags": [
-                    "睫角守宫",
-                    "爬宠护理",
-                    "守宫果泥",
-                    "爬宠湿度护理"
                 ]
             },
             "es": {
@@ -275,12 +251,6 @@
                         "question": "¿Es obligatorio alimentar con insectos vivos o basta con la papilla (superfood)?",
                         "answer": "La papilla comercial para Gecko Crestado (MRP / Superfood) proporciona una nutrición completa por sí sola. Sin embargo, debe verificar periódicamente la adición de calcio para prevenir la Enfermedad Ósea Metabólica (EMO)."
                     }
-                ],
-                "tags": [
-                    "GeckoCrestado",
-                    "CuidadoDeReptiles",
-                    "Superfood",
-                    "ControlDeHumedad"
                 ]
             },
             "fr": {
@@ -331,12 +301,6 @@
                         "question": "Faut-il obligatoirement donner des insectes vivants ou la papille (superfood) suffit-elle ?",
                         "answer": "La papille commerciale complète (MRP / Superfood) suffit à elle seule à couvrir ses besoins nutritionnels. Cependant, vous devez vérifier régulièrement la supplémentation en calcium pour prévenir la MBD."
                     }
-                ],
-                "tags": [
-                    "GeckoACrete",
-                    "SoinDesReptiles",
-                    "Superfood",
-                    "GestionHumidite"
                 ]
             },
             "de": {
@@ -387,12 +351,6 @@
                         "question": "Muss ich Lebendinsekten füttern oder reicht das Fertigfutter (Superfood)?",
                         "answer": "Ein vollwertiges Anrührfutter für Kronengeckos (MRP / Superfood) reicht als Alleinfutter aus. Sie sollten jedoch regelmäßig auf eine ausreichende Calciumversorgung achten, um der Metabolischen Knochenerkrankung (MBD) vorzubeugen."
                     }
-                ],
-                "tags": [
-                    "Kronengecko",
-                    "Reptilienpflege",
-                    "Superfood",
-                    "Luftfeuchtigkeit"
                 ]
             },
             "pt": {
@@ -443,12 +401,6 @@
                         "question": "É obrigatório oferecer insetos vivos ou a ração em pó (superfood) é suficiente?",
                         "answer": "A ração comercial completa em pó para Gecko-Cristado (MRP / Superfood) fornece nutrição completa por si só. No entanto, você deve verificar periodicamente a suplementação de cálcio para prevenir a Doença Óssea Metabólica (EMO)."
                     }
-                ],
-                "tags": [
-                    "GeckoCristado",
-                    "CuidadosComRepteis",
-                    "Superfood",
-                    "ControleDeUmidade"
                 ]
             },
             "id": {
@@ -499,12 +451,6 @@
                         "question": "Apakah wajib memberi pakan serangga hidup, atau pakan serbuk (superfood) saja sudah cukup?",
                         "answer": "Pakan komersial serbuk khusus Crested Gecko (MRP / Superfood) saja sudah menyediakan nutrisi yang lengkap. Namun, Anda harus memeriksa penambahan kalsium secara berkala untuk mencegah Penyakit Tulang Metabolik (MBD)."
                     }
-                ],
-                "tags": [
-                    "CrestedGecko",
-                    "PerawatanReptil",
-                    "Superfood",
-                    "PengelolaanKelembapan"
                 ]
             }
         },

@@ -51,12 +51,6 @@
                         "question": "여과기가 필수인가요? 물은 얼마나 자주 갈아줘야 하나요?",
                         "answer": "거북은 배설량이 매우 많아 강력한 여과기(외부/상면 여과기)가 필수적입니다. 여과기가 있더라도 주 1~2회 30~50% 부분 환수를 권장하며, 살모넬라균 감염 예방을 위해 거북을 만진 후에는 반드시 손을 씻어야 합니다."
                     }
-                ],
-                "tags": [
-                    "붉은귀거북",
-                    "반수생거북",
-                    "거북이케어",
-                    "파충류일광욕"
                 ]
             },
             "en": {
@@ -107,12 +101,6 @@
                         "question": "Is a filter necessary and how often should I change the water?",
                         "answer": "Turtles produce a high volume of waste, making a powerful filter (canister or top filter) essential. Perform a 30–50% partial water change 1–2 times weekly, and always wash your hands after handling to prevent Salmonella transmission."
                     }
-                ],
-                "tags": [
-                    "RedEaredSlider",
-                    "TurtleCare",
-                    "SemiAquaticTurtle",
-                    "ReptileBasking"
                 ]
             },
             "ja": {
@@ -163,12 +151,6 @@
                         "question": "フィルターは必須ですか？水換えはどれくらいの頻度で行うべきですか？",
                         "answer": "カメは排泄量が非常に多いため、強力なフィルター（外部フィルターなど）が不可欠です。フィルターがあっても週1〜2回、30〜50%の部分水換えを推奨し、サルモネラ菌感染予防のため、カメに触れた後は必ず手を洗ってください。"
                     }
-                ],
-                "tags": [
-                    "アカミミガメ",
-                    "半水棲カメ",
-                    "カメのケア",
-                    "爬虫類日光浴"
                 ]
             },
             "zh": {
@@ -219,12 +201,6 @@
                         "question": "必须使用过滤器吗？需要多久换一次水？",
                         "answer": "水龟排泄量巨大，强烈建议配备强大的过滤系统（如外置过滤桶）。即使有过滤器，也建议每周进行 1~2 次 30%~50% 的部分换水。此外，接触水龟后请务必洗手以预防沙门氏菌感染。"
                     }
-                ],
-                "tags": [
-                    "红耳龟",
-                    "半水栖龟",
-                    "乌龟护理",
-                    "爬宠晒背"
                 ]
             },
             "es": {
@@ -275,12 +251,6 @@
                         "question": "¿Es obligatorio el filtro y cada cuánto debo cambiar el agua?",
                         "answer": "Las tortugas generan muchísima suciedad, por lo que un filtro potente es imprescindible. Realice un cambio parcial de agua del 30–50% 1–2 veces por semana y lávese siempre las manos tras manipular la tortuga para prevenir infecciones por Salmonella."
                     }
-                ],
-                "tags": [
-                    "GalapagoDeOrejasRojas",
-                    "TortugaSemiacuatica",
-                    "CuidadoDeTortugas",
-                    "AsoleamientoReptil"
                 ]
             },
             "fr": {
@@ -331,12 +301,6 @@
                         "question": "Le filtre est-il obligatoire et à quelle fréquence changer l'eau ?",
                         "answer": "Les tortues polluent énormément l'eau, un filtre puissant est donc indispensable. Effectuez un changement d'eau partiel de 30 à 50 % 1 à 2 fois par semaine, et lavez-vous toujours les mains après manipulation pour éviter la transmission de la salmonellose."
                     }
-                ],
-                "tags": [
-                    "TortueATempesRouges",
-                    "TortueSemiAquatique",
-                    "SoinDesTortues",
-                    "BainDeSoleilReptile"
                 ]
             },
             "de": {
@@ -387,12 +351,6 @@
                         "question": "Ist ein Filter notwendig und wie oft muss das Wasser gewechselt werden?",
                         "answer": "Schildkröten produzieren sehr viel Kot, weshalb ein leistungsstarker Außenfilter unerlässlich ist. Führen Sie 1–2 Mal wöchentlich einen 30–50%igen Teilwasserwechsel durch und waschen Sie sich nach dem Kontakt immer die Hände (Salmonellenprophylaxe)."
                     }
-                ],
-                "tags": [
-                    "RotwangenSchmuckschildkroete",
-                    "Wasserschildkroete",
-                    "Schildkroetenpflege",
-                    "ReptilienSonnenplatz"
                 ]
             },
             "pt": {
@@ -443,12 +401,6 @@
                         "question": "O filtro é obrigatório e com que frequência devo trocar a água?",
                         "answer": "As tartarugas produzem muitos dejetos, tornando indispensável um filtro potente. Faça uma troca parcial de água de 30–50% de 1 a 2 vezes por semana e lave sempre as mãos após o manuseio para prevenir a transmissão de Salmonella."
                     }
-                ],
-                "tags": [
-                    "TartarugaDeOuvidoVermelho",
-                    "TigreDagua",
-                    "TartarugaAquatica",
-                    "CuidadosComRepteis"
                 ]
             },
             "id": {
@@ -499,12 +451,6 @@
                         "question": "Apakah filter air wajib dan seberapa sering air harus diganti?",
                         "answer": "Kura-kura menghasilkan kotoran dalam jumlah sangat banyak sehingga filter yang kuat (filter kanister/atas) wajib digunakan. Lakukan penggantian air sebagian 30–50% sebanyak 1–2 kali seminggu, dan selalu cuci tangan setelah memegang kura-kura untuk mencegah infeksi Salmonella."
                     }
-                ],
-                "tags": [
-                    "KuraKuraBrasil",
-                    "KuraKuraAir",
-                    "PerawatanKuraKura",
-                    "BerjemurReptil"
                 ]
             }
         },

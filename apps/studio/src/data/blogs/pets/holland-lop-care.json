@@ -51,13 +51,6 @@
                         "question": "귀를 자주 털고 발로 귓가 주변을 긁는데 정상인가요?",
                         "answer": "홀랜드 롭은 귓구멍이 접혀 습기가 차기 쉬워 진드기나 외이염 곰팡이가 생기기 쉽습니다. 귓속에 검은 귓밥이 보이거나 긁는 증상이 심하면 수의사 진료를 받아야 합니다."
                     }
-                ],
-                "tags": [
-                    "홀랜드롭",
-                    "토끼케어",
-                    "빙키춤",
-                    "외이염예방",
-                    "HRS지침"
                 ]
             },
             "en": {
@@ -108,13 +101,6 @@
                         "question": "Is it normal for a Holland Lop to shake its head and scratch its ears frequently?",
                         "answer": "No. Floppy ears trap moisture easily, making them prone to ear mites and fungal otitis. If you notice dark earwax, discharge, or frequent scratching, consult an exotic vet promptly."
                     }
-                ],
-                "tags": [
-                    "HollandLop",
-                    "RabbitCare",
-                    "BinkyDance",
-                    "HRSStandards",
-                    "GIStasisPrevention"
                 ]
             },
             "ja": {
@@ -165,13 +151,6 @@
                         "question": "耳を頻繁に振ったり足で掻いたりするのは正常ですか？",
                         "answer": "垂れ耳は湿気がこもりやすく外耳炎やダニが発生しやすいです。黒い耳垢や頻繁な耳掻きが見られたら獣医師の診察が必要です。"
                     }
-                ],
-                "tags": [
-                    "ホーランドロップ",
-                    "ウサギの飼い方",
-                    "ビンキーダンス",
-                    "うっ滞予防",
-                    "HRS基準"
                 ]
             },
             "zh": {
@@ -222,13 +201,6 @@
                         "question": "荷兰垂耳兔经常甩头抓耳朵是正常的吗？",
                         "answer": "不正常。垂耳结构容易积聚湿气导致耳螨或外耳炎。如果发现黑色耳垢或频繁抓挠，需立即就医。"
                     }
-                ],
-                "tags": [
-                    "荷兰垂耳兔",
-                    "兔子护理",
-                    "Binky舞",
-                    "胃肠停滞",
-                    "HRS标准"
                 ]
             },
             "es": {
@@ -279,13 +251,6 @@
                         "question": "¿Es normal que sacuda la cabeza y se rasque mucho las orejas?",
                         "answer": "No. Las orejas caídas acumulan humedad y son propensas a ácaros u otitis fúngica. Si notas cera oscura o rascado excesivo, requiere atención médica veterinaria."
                     }
-                ],
-                "tags": [
-                    "HollandLop",
-                    "Conejos",
-                    "CuidadosDeMascotas",
-                    "EstasisGI",
-                    "NormasHRS"
                 ]
             },
             "fr": {
@@ -336,13 +301,6 @@
                         "question": "Est-il normal qu'il secoue la tête et se gratte souvent les oreilles ?",
                         "answer": "Non, ses oreilles tombantes retiennent l'humidité et favorisent les otites et la gale d'oreille. En cas de cérumen noir ou de grattage, consultez un vétérinaire NAC."
                     }
-                ],
-                "tags": [
-                    "HollandLop",
-                    "LapinBélier",
-                    "SoinsNAC",
-                    "StaseDigestive",
-                    "NormesHRS"
                 ]
             },
             "de": {
@@ -393,13 +351,6 @@
                         "question": "Ist es normal, wenn das Kaninchen oft den Kopf schüttelt und die Ohren kratzt?",
                         "answer": "Nein. Schlappohren neigen zu Feuchtigkeitsstau, Milben und Pilzinfektionen. Bei dunklem Schmalz oder häufigem Kratzen ist eine tierärztliche Untersuchung nötig."
                     }
-                ],
-                "tags": [
-                    "HollandLop",
-                    "Zwergwidder",
-                    "Kaninchenpflege",
-                    "GIStasis",
-                    "HRSStandards"
                 ]
             },
             "pt": {
@@ -450,13 +401,6 @@
                         "question": "É normal balançar a cabeça e coçar muito as orelhas?",
                         "answer": "Não. Orelhas caídas acumulam umidade e favorecem ácaros e otite. Se houver cera escura ou coceira, consulte um veterinário especializado."
                     }
-                ],
-                "tags": [
-                    "HollandLop",
-                    "Coelhos",
-                    "CuidadosComPets",
-                    "EstaseIntestinal",
-                    "PadroesHRS"
                 ]
             },
             "id": {
@@ -507,13 +451,6 @@
                         "question": "Apakah normal jika kelinci sering menggelengkan kepala dan menggaruk telinga?",
                         "answer": "Tidak normal. Telinga menggantung mudah lembap dan terinfeksi tungau atau jamur otitis. Jika ada kotoran hitam atau garukan hebat, segera konsultasikan ke dokter hewan."
                     }
-                ],
-                "tags": [
-                    "HollandLop",
-                    "Kelinci",
-                    "PerawatanKelinci",
-                    "GIStasisPrevention",
-                    "StandarHRS"
                 ]
             }
         },

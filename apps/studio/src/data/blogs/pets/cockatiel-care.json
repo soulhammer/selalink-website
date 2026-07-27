@@ -51,13 +51,6 @@
                         "question": "왕관앵무 비듬(파우더)이 너무 많이 날리는데 정상인가요?",
                         "answer": "왕관앵무는 깃털 보호를 위한 파우더(Powder Down)가 자연스럽게 분비되는 종입니다. 공기청정기를 가동하고 일주일에 2 - 3회 부드러운 분무기 분사로 깃털 목욕을 시켜주면 파우더 날림을 줄일 수 있습니다."
                     }
-                ],
-                "tags": [
-                    "왕관앵무",
-                    "반려조류",
-                    "나이트파닉예방",
-                    "앵무새케어",
-                    "AAV지침"
                 ]
             },
             "en": {
@@ -108,13 +101,6 @@
                         "question": "Is the heavy white powder dander from my Cockatiel normal?",
                         "answer": "Yes, Cockatiels naturally produce keratin powder down to waterproof and condition their feathers. Operating an HEPA air purifier and offering gentle water spray misting 2 - 3 times weekly will manage dander efficiently."
                     }
-                ],
-                "tags": [
-                    "Cockatiel",
-                    "Avian Care",
-                    "Night Fright Prevention",
-                    "Parrot Behavior",
-                    "AAV Standards"
                 ]
             },
             "ja": {
@@ -165,13 +151,6 @@
                         "question": "オカメインコの白い粉（脂粉）がたくさん飛ぶのは正常ですか？",
                         "answer": "はい、オカメインコは羽を保護するための脂粉（Powder Down）を自然に分泌する犬種・鳥種です。空気清浄機を稼働させ、週に2 - 3回霧吹きで水浴びをさせてあげると脂粉の飛び散りを抑えられます。"
                     }
-                ],
-                "tags": [
-                    "オカメインコ",
-                    "鳥の飼い方",
-                    "ナイトフライト予防",
-                    "インコ行動学",
-                    "AAV基準"
                 ]
             },
             "zh": {
@@ -222,13 +201,6 @@
                         "question": "玄凤鹦鹉掉落大量白色粉沫（羽粉）是正常的吗？",
                         "answer": "非常正常。玄凤鹦鹉会自然分泌羽粉（Powder Down）用于羽毛保养。开启HEPA空气净化器并每周进行2 - 3次温和喷雾水沐浴可有效管理羽粉。"
                     }
-                ],
-                "tags": [
-                    "玄凤鹦鹉",
-                    "伴侣鸟",
-                    "预防夜惊",
-                    "鸟类护理",
-                    "AAV标准"
                 ]
             },
             "es": {
@@ -279,13 +251,6 @@
                         "question": "¿Es normal el polvo blanco que suelta la ninfa?",
                         "answer": "Sí, las ninfas producen plumón en polvo para proteger sus plumas. Usa un purificador de aire y ofrece baños de pulverización 2 - 3 veces por semana."
                     }
-                ],
-                "tags": [
-                    "Ninfa",
-                    "Carolina",
-                    "Cuidado de Aves",
-                    "Susto Nocturno",
-                    "Normas AAV"
                 ]
             },
             "fr": {
@@ -336,13 +301,6 @@
                         "question": "La poudre blanche produite par la Calopsitte est-elle normale ?",
                         "answer": "Oui, c'est du duvet de poudre naturel. Utilisez un purificateur d'air HEPA et donnez des douches au vaporisateur 2 - 3 fois par semaine."
                     }
-                ],
-                "tags": [
-                    "Calopsitte",
-                    "Oiseaux de Compagnie",
-                    "Soins Aviaires",
-                    "Frayeur Nocturne",
-                    "Normes AAV"
                 ]
             },
             "de": {
@@ -393,13 +351,6 @@
                         "question": "Ist der weiße Gefiederstaub beim Nymphensittich normal?",
                         "answer": "Ja, Nymphensittiche produzieren Puderdunen zur Gefiederpflege. Ein Luftreiniger und Duschen mit der Sprühflasche 2 - 3 Mal pro Woche helfen."
                     }
-                ],
-                "tags": [
-                    "Nymphensittich",
-                    "Vogelpflege",
-                    "Night Fright",
-                    "Vogelverhalten",
-                    "AAV-Standards"
                 ]
             },
             "pt": {
@@ -450,13 +401,6 @@
                         "question": "É normal a Calopsita soltar um pó branco pelas penas?",
                         "answer": "Sim, elas produzem penas de pó (Powder Down) naturalmente. Use um purificador de ar HEPA e ofereça banhos de borrifador 2 - 3 vezes por semana."
                     }
-                ],
-                "tags": [
-                    "Calopsita",
-                    "Aves de Estimação",
-                    "Cuidados Avícolas",
-                    "Pânico Noturno",
-                    "Padrões AAV"
                 ]
             },
             "id": {
@@ -507,13 +451,6 @@
                         "question": "Apakah debu putih (powder dander) pada Cockatiel itu normal?",
                         "answer": "Sangat normal. Cockatiel secara alami menghasilkan debu bedak untuk merawat bulunya. Gunakan pemurni udara HEPA dan beri mandi semprot halus 2 - 3 kali seminggu."
                     }
-                ],
-                "tags": [
-                    "Cockatiel",
-                    "Parkit Australia",
-                    "Perawatan Burung",
-                    "Night Fright",
-                    "Standar AAV"
                 ]
             }
         },

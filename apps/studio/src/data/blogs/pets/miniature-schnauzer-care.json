@@ -51,12 +51,6 @@
                         "question": "슈나우저 등 피부에 까만 깨 같은 블랙헤드나 여드름이 올라오는데 왜 그런가요?",
                         "answer": "미니어처 슈나우저 고유의 유전성 피부 질환인 '슈나우저 코메도 증후군(Schnauzer Comedone Syndrome)'입니다. 모낭 각화 이상으로 인해 등 능선을 따라 피지가 차올라 블랙헤드와 농포(여드름)가 생깁니다. 억지로 짜면 2차 세균 감염이 발생하므로, 약용 샴푸(약용 벤조일 퍼옥사이드/살리실산)로 정기적인 목욕 및 각질 케어를 해주는 것이 효과적입니다."
                     }
-                ],
-                "tags": [
-                    "미니어처슈나우저",
-                    "강아지케어",
-                    "슈나우저췌장염",
-                    "코메도증후군"
                 ]
             },
             "en": {
@@ -107,12 +101,6 @@
                         "question": "Why does my Schnauzer have blackheads and pimple-like bumps along its spine?",
                         "answer": "This is 'Schnauzer Comedone Syndrome', an inherited follicular keratinization disorder unique to Miniature Schnauzers. Sebum plugs clog hair follicles along the spine, forming blackheads and secondary pustules. Never squeeze them as it spreads bacterial infection. Regular bathing with medicated antiseborrheic shampoos (containing benzoyl peroxide or salicylic acid) provides effective management."
                     }
-                ],
-                "tags": [
-                    "MiniatureSchnauzer",
-                    "DogCare",
-                    "SchnauzerPancreatitis",
-                    "ComedoneSyndrome"
                 ]
             },
             "ja": {
@@ -163,12 +151,6 @@
                         "question": "シュナウザーの背中に黒いポツポツ（黒ずみ）やニキビのようなものができるのですがなぜですか？",
                         "answer": "ミニチュア・シュナウザー特有の遺伝性皮膚疾患「シュナウザー・コメド症候群（Schnauzer Comedone Syndrome）」です。毛包の角化異常により背中のラインに皮脂が詰まり、角栓（ブラックヘッド）やニキビが形成されます。無理に潰すと細菌感染を起こすため、薬用シャンプー（ベンゾイルパーオキサイドなど）での定期的な角質ケアが効果的です。"
                     }
-                ],
-                "tags": [
-                    "ミニチュアシュナウザー",
-                    "犬のケア",
-                    "シュナウザー膵炎",
-                    "コメド症候群"
                 ]
             },
             "zh": {
@@ -219,12 +201,6 @@
                         "question": "雪纳瑞背上长了像黑头和痘痘一样的小红疹，是怎么回事？",
                         "answer": "这是迷你雪纳瑞特有的遗传性皮肤病“雪纳瑞粉刺综合征（Schnauzer Comedone Syndrome）”。因毛囊角化异常，背部脊柱周围易积聚油脂形成黑头与脓疱。切勿用手挤压以免继发细菌感染，使用含过氧化苯酰或水杨酸的药用洗发水定期沐浴可有效控制。"
                     }
-                ],
-                "tags": [
-                    "迷你雪纳瑞",
-                    "犬类护理",
-                    "雪纳瑞胰腺炎",
-                    "粉刺综合征"
                 ]
             },
             "es": {
@@ -275,12 +251,6 @@
                         "question": "¿Por qué mi Schnauzer tiene puntos negros y espinillas a lo largo de la columna vertebral?",
                         "answer": "Se trata del 'Síndrome de Comedones del Schnauzer', un trastorno de queratinización folicular hereditario de la raza. Los folículos del lomo se obstruyen formando comedones y pústulas. No los exprima para evitar infecciones bacterianas secundarias; el tratamiento idóneo consiste en baños con champús antisépticos con peróxido de benzoilo o ácido salicílico."
                     }
-                ],
-                "tags": [
-                    "SchnauzerMiniatura",
-                    "CuidadoCanino",
-                    "PancreatitisSchnauzer",
-                    "SindromeDeComedones"
                 ]
             },
             "fr": {
@@ -331,12 +301,6 @@
                         "question": "Pourquoi mon Schnauzer a-t-il des boutons et des points noirs le long de la colonne vertébrale ?",
                         "answer": "Il s'agit du 'Syndrome des Comédons du Schnauzer', une maladie génétique de la kératinisation des follicules pileux propre à cette race. Le sébum s'accumule le long du dos. Ne pressez pas les boutons pour éviter les infections. Des shampooings antiseptiques adaptés (au péroxyde de benzoyle ou acide salicylique) permettent de traiter la peau."
                     }
-                ],
-                "tags": [
-                    "SchnauzerMiniature",
-                    "SoinDuChien",
-                    "PancreatiteSchnauzer",
-                    "SyndromeDesComedons"
                 ]
             },
             "de": {
@@ -387,12 +351,6 @@
                         "question": "Warum hat mein Zwergschnauzer kleine schwarze Punkte und Pickel auf dem Rücken?",
                         "answer": "Das ist das 'Schnauzer-Komedonen-Syndrom', eine erblich bedingte Verhornungsstörung der Haarfollikel beim Zwergschnauzer. Entlang der Wirbelsäule bilden sich Talgpfropfen und Mitesser. Drücken Sie diese nicht aus; medizinische Shampoos (mit Benzoylperoxid oder Salicylsäure) helfen bei der Pflege."
                     }
-                ],
-                "tags": [
-                    "Zwergschnauzer",
-                    "Hundepflege",
-                    "SchnauzerPankreatitis",
-                    "KomedonenSyndrom"
                 ]
             },
             "pt": {
@@ -443,12 +401,6 @@
                         "question": "Por que o meu Schnauzer tem cravos e espinhas ao longo da coluna?",
                         "answer": "Trata-se da 'Síndrome dos Comedões do Schnauzer', um distúrbio genético de queratinização dos folículos característico da raça. Os folículos do lombo entopem formando cravos e pústulas. Não esprema para evitar infecção bacteriana; o uso de xampus medicinais (com peróxido de benzila ou ácido salicílico) ajuda a tratar a pele."
                     }
-                ],
-                "tags": [
-                    "SchnauzerMiniatura",
-                    "CuidadosComCaes",
-                    "PancreatiteSchnauzer",
-                    "SindromeDosComedoes"
                 ]
             },
             "id": {
@@ -499,12 +451,6 @@
                         "question": "Mengapa timbul bintik hitam seperti komedo dan jerawat di sepanjang tulang belakang Schnauzer saya?",
                         "answer": "Ini adalah 'Sindrom Komedo Schnauzer' (Schnauzer Comedone Syndrome), yaitu gangguan keratinisasi folikel rambut bawaan ras ini. Penumpukan minyak di punggung membentuk komedo dan jerawat. Jangan dipencet agar tidak terjadi infeksi bakteri sekunder; mandikan secara teratur dengan sampo medis (mengandung benzoyl peroxide atau asam salisilat)."
                     }
-                ],
-                "tags": [
-                    "MiniatureSchnauzer",
-                    "PerawatanAnjing",
-                    "PankreatitisSchnauzer",
-                    "SindromKomedo"
                 ]
             }
         },

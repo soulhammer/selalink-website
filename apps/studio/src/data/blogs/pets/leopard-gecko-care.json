@@ -51,13 +51,6 @@
                         "question": "꼬리가 갑자기 얇아졌는데 질병인가요?",
                         "answer": "게코의 꼬리는 영양분과 지방의 저장소입니다. 꼬리가 급격히 얇아진다면 거식증, 거식 거품, 혹은 거대 파라사이트 감염일 수 있으니 수의사 진료가 필요합니다."
                     }
-                ],
-                "tags": [
-                    "레오파드게코",
-                    "파충류케어",
-                    "게코탈피",
-                    "ARAV지침",
-                    "파충류사육"
                 ]
             },
             "en": {
@@ -108,13 +101,6 @@
                         "question": "What does it mean if my Leopard Gecko's tail suddenly thins out?",
                         "answer": "A gecko's tail stores nutrient fat reserves. Rapid tail thinning indicates anorexia, severe stress, or gastrointestinal parasite infection requiring immediate ARAV vet diagnosis."
                     }
-                ],
-                "tags": [
-                    "LeopardGecko",
-                    "ReptileCare",
-                    "SheddingGuide",
-                    "ARAVStandards",
-                    "TerrariumMaintenance"
                 ]
             },
             "ja": {
@@ -165,13 +151,6 @@
                         "question": "しっぽが急に細くなってきたのは病気ですか？",
                         "answer": "しっぽは脂肪の蓄積場所です。急激に細くなる場合は拒食、ストレス、寄生虫感染の可能性があるため獣医師の診察が必要です。"
                     }
-                ],
-                "tags": [
-                    "ヒョウモントカゲモドキ",
-                    "レオパ",
-                    "爬虫類の飼い方",
-                    "脱皮不全予防",
-                    "ARAV基準"
                 ]
             },
             "zh": {
@@ -222,13 +201,6 @@
                         "question": "豹纹守宫尾巴突然变细预示着什么？",
                         "answer": "守宫尾巴储存着营养脂肪。尾巴快速变细可能预示拒食、严重应激或肠道寄生虫感染，需立即请兽医诊治。"
                     }
-                ],
-                "tags": [
-                    "豹纹守宫",
-                    "爬宠护理",
-                    "蜕皮管理",
-                    "ARAV指南",
-                    "温区建立"
                 ]
             },
             "es": {
@@ -279,13 +251,6 @@
                         "question": "¿Por qué la cola de mi gecko se ha vuelto delgada de repente?",
                         "answer": "La cola almacena grasa nutriente. Su adelgazamiento rápido indica anorexia, estrés severo o parásitos intestinales que requieren atención veterinaria."
                     }
-                ],
-                "tags": [
-                    "GeckoLeopardo",
-                    "Reptiles",
-                    "CuidadosDeMascotas",
-                    "MudaDePiel",
-                    "NormasARAV"
                 ]
             },
             "fr": {
@@ -336,13 +301,6 @@
                         "question": "Pourquoi la queue de mon gecko s'amincit-elle rapidement ?",
                         "answer": "La queue stocke les réserves de graisse. Un amincissement rapide indique une anorexie, un stress intense ou une maladie parasitaire nécessitant un vétérinaire."
                     }
-                ],
-                "tags": [
-                    "GeckoLéopard",
-                    "Reptiles",
-                    "SoinsTerrario",
-                    "Mue",
-                    "NormesARAV"
                 ]
             },
             "de": {
@@ -393,13 +351,6 @@
                         "question": "Warum wird der Schwanz meines Leopardgeckos plötzlich dünn?",
                         "answer": "Der Schwanz speichert Fettreserven. Rascher Gewichtsverlust deutet auf Anorexie, Stress oder Parasitenbefall hin und erfordert einen Tierarztbesuch."
                     }
-                ],
-                "tags": [
-                    "Leopardgecko",
-                    "Reptilienpflege",
-                    "Häutung",
-                    "ARAVStandards",
-                    "Terraristik"
                 ]
             },
             "pt": {
@@ -450,13 +401,6 @@
                         "question": "Por que a cauda do meu gecko emagreceu rapidamente?",
                         "answer": "A cauda armazena reservas de gordura. O emagrecimento rápido indica anorexia, estresse ou parasitas e exige veterinário ARAV."
                     }
-                ],
-                "tags": [
-                    "GeckoLeopardo",
-                    "Répteis",
-                    "CuidadosComPet",
-                    "TrocaDePele",
-                    "PadroesARAV"
                 ]
             },
             "id": {
@@ -507,13 +451,6 @@
                         "question": "Mengapa ekor Leopard Gecko saya tiba-tiba mendadak mengecil dan kurus?",
                         "answer": "Ekor gecko menyimpan cadangan lemak nutrisi. Ekor yang mendadak kurus menandakan gejala anoreksia, stres berat, atau infeksi parasit pencernaan yang membutuhkan pemeriksaan dokter hewan ARAV."
                     }
-                ],
-                "tags": [
-                    "LeopardGecko",
-                    "Reptil",
-                    "PerawatanGecko",
-                    "MoultingAman",
-                    "StandarARAV"
                 ]
             }
         },

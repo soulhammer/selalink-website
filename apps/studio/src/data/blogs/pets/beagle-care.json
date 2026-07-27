@@ -51,12 +51,6 @@
                         "question": "Why are Beagles' floppy ears so prone to ear infections?",
                         "answer": "Their heavy pendulous ears block airflow to the ear canal, creating a warm, humid environment where yeast, bacteria, and ear mites thrive. Regular ear aeration and cleaning are crucial preventative steps."
                     }
-                ],
-                "tags": [
-                    "Beagle",
-                    "Separation Anxiety",
-                    "Howling",
-                    "Ear Health"
                 ]
             },
             "ja": {
@@ -107,12 +101,6 @@
                         "question": "ビーグルの垂れ耳はなぜ外耳炎になりやすいのですか？",
                         "answer": "垂れ耳は耳の穴を塞ぐため、内部に湿気や熱がこもりやすい多湿環境を作ります。これがマラセチア菌（カビ）や細菌の繁殖を促すため、定期的な換気と耳掃除が不可欠です。"
                     }
-                ],
-                "tags": [
-                    "ビーグル",
-                    "分離不安",
-                    "遠吠え",
-                    "외이염 예방"
                 ]
             },
             "zh": {
@@ -163,12 +151,6 @@
                         "question": "为什么比格犬耷拉的耳朵容易得外耳炎？",
                         "answer": "像比格犬这样耷拉的耳朵会阻断耳道与空气的流通，形成潮湿多汗的内部环境，极易滋生马拉色菌（真菌）和耳螨，引起瘙痒和异味。因此必须定期通风和清洁。"
                     }
-                ],
-                "tags": [
-                    "比格犬",
-                    "分离焦虑",
-                    "嚎叫",
-                    "耳朵健康"
                 ]
             },
             "es": {
@@ -219,12 +201,6 @@
                         "question": "¿Por qué las orejas caídas del Beagle son tan propensas a las infecciones?",
                         "answer": "Sus orejas pesadas bloquen la entrada de aire al conducto auditivo, creando un ambiente cálido y húmedo donde proliferan levaduras (como Malassezia) y bacterias. La ventilación y limpieza periódicas son indispensables."
                     }
-                ],
-                "tags": [
-                    "Beagle",
-                    "AnsiedadPorSeparacion",
-                    "Aullidos",
-                    "SaludDeOidos"
                 ]
             },
             "fr": {
@@ -275,12 +251,6 @@
                         "question": "Pourquoi les oreilles tombantes du Beagle s'infectent-elles si facilement ?",
                         "answer": "Leurs oreilles lourdes empêchent la circulation de l'air dans le conduit auditif, créant un milieu chaud et humide idéal pour la prolifération de levures (Malassezia) et de bactéries. Une aération et un nettoyage réguliers sont indispensables."
                     }
-                ],
-                "tags": [
-                    "Beagle",
-                    "AnxiétéDeSéparation",
-                    "Hurlements",
-                    "SoinsDesOreilles"
                 ]
             },
             "de": {
@@ -331,12 +301,6 @@
                         "question": "Warum sind die Schlappohren des Beagles so anfällig für Ohrenentzündungen?",
                         "answer": "Die schweren Hängeohren verschließen den Gehörgang, sodass ein warmes, feuchtes Klima entsteht, in dem sich Hefepilze (Malassezien) und Bakterien schnell vermehren. Regelmäßige Belüftung und Pflege sind daher essenziell."
                     }
-                ],
-                "tags": [
-                    "Beagle",
-                    "Trennungsangst",
-                    "Jaulen",
-                    "Ohrengesundheit"
                 ]
             },
             "pt": {
@@ -387,12 +351,6 @@
                         "question": "Por que as orelhas caídas do Beagle são tão propensas a infecções?",
                         "answer": "Orelhas pesadas e pendulares bloqueiam a entrada de ar no conduto auditivo, criando um ambiente quente e úmido onde fungos (Malassezia) e bactérias se multiplicam. Ventilação e limpeza regulares são essenciais."
                     }
-                ],
-                "tags": [
-                    "Beagle",
-                    "AnsiedadeDeSeparacao",
-                    "Uivos",
-                    "SaudeDasOrelhas"
                 ]
             },
             "id": {
@@ -443,12 +401,6 @@
                         "question": "Mengapa telinga terkulai Beagle sangat rentan terkena infeksi telinga?",
                         "answer": "Telinga terkulainya yang berat menghalangi aliran udara ke saluran telinga, menciptakan lingkungan hangat dan lembap tempat jamur (Malassezia) dan bakteri berkembang biak. Aerasi dan pembersihan rutin sangat penting."
                     }
-                ],
-                "tags": [
-                    "Beagle",
-                    "KecemasanPerpisahan",
-                    "Melolong",
-                    "KesehatanTelinga"
                 ]
             },
             "ko": {
@@ -499,12 +451,6 @@
                         "question": "비글의 덮인 귀는 왜 자주 외이염에 걸리나요?",
                         "answer": "비글처럼 늘어진 귀는 이도를 공기로부터 차단하여 내부에 수분과 먼지가 머무르기 쉬운 다습한 환경을 만듭니다. 이는 외이도 내 효모균(말라세지아) 및 진드기 번식을 도와 가려움과 냄새를 유발하므로 주기적 환기와 세정이 필수입니다."
                     }
-                ],
-                "tags": [
-                    "비글",
-                    "분리불안",
-                    "하울링",
-                    "외이염 예방"
                 ]
             }
         },

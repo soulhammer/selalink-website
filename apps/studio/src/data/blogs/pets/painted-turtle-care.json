@@ -51,12 +51,6 @@
                         "question": "실내에서 키우는 페인티드 터틀도 겨울에 쿨링(동면)을 시켜야 하나요?",
                         "answer": "실내 사육 시 인공적인 동면은 절대 금물입니다! 적절한 온도 제어 없이 실내 온도가 어중간하게 낮아지면(10°C ~ 18°C) 완전한 동면에 들지 못하고 면역력만 떨어져 폐렴이나 거식증으로 사망하게 됩니다. 수중 히터를 사용하여 연중 수온을 23°C ~ 26°C로 따뜻하게 유지해 주세요."
                     }
-                ],
-                "tags": [
-                    "페인티드터틀",
-                    "반수생거북이케어",
-                    "거북이일광욕",
-                    "갑각부패증예방"
                 ]
             },
             "en": {
@@ -107,12 +101,6 @@
                         "question": "Should indoor captive Painted Turtles be allowed to hibernate during winter?",
                         "answer": "No, forced hibernation in indoor tanks is extremely dangerous! Without precise temperature and humidity controls, cool indoor temperatures (10°C–18°C) cause semi-torpor rather than true hibernation, shutting down the immune system and leading to fatal pneumonia or starvation. Use a water heater to keep water temperatures warm at 23°C–26°C (74°F–78°F) year-round."
                     }
-                ],
-                "tags": [
-                    "PaintedTurtle",
-                    "AquaticTurtleCare",
-                    "TurtleBasking",
-                    "ShellRotPrevention"
                 ]
             },
             "ja": {
@@ -163,12 +151,6 @@
                         "question": "室内で飼育しているペインテッドタートルも冬にクーリング（冬眠）させるべきですか？",
                         "answer": "室内飼育での人工的な冬眠は絶対に厳禁です！適切な温度管理なしに室内温度が中途半端に下がると（10〜18°C）、完全な冬眠に入れず免疫力だけが低下し、肺炎や拒食症で死亡する原因になります。水中ヒーターを使用して年間を通じて水温を23〜26°Cに温かく保ってください。"
                     }
-                ],
-                "tags": [
-                    "ペインテッドタートル",
-                    "水棲ガメケア",
-                    "カメの日光浴",
-                    "甲羅腐敗症予防"
                 ]
             },
             "zh": {
@@ -219,12 +201,6 @@
                         "question": "室内饲养的锦龟在冬天需要进行人工冬眠吗？",
                         "answer": "绝对严禁室内人工冬眠！在缺乏精确控温的环境下，室内温水降至半生不熟的 10°C~18°C 会导致龟体无法进入深度冬眠而仅降低免疫力，极易诱发致命肺炎或饿死。请使用水族加热棒全年将水温维持在 23°C~26°C。"
                     }
-                ],
-                "tags": [
-                    "锦龟",
-                    "水龟护理",
-                    "乌龟晒背",
-                    "腐甲病预防"
                 ]
             },
             "es": {
@@ -275,12 +251,6 @@
                         "question": "¿Las tortugas pintadas en cautiverio deben hibernar en invierno?",
                         "answer": "¡No! La hibernación forzada en acuarios de interior es extremadamente peligrosa. Las temperaturas bajas intermedias debilitan el sistema inmunológico. Mantenga el agua a 23°C–26°C durante todo el año con un calentador."
                     }
-                ],
-                "tags": [
-                    "TortugaPintada",
-                    "CuidadoDeTortugasAcuaticas",
-                    "TomarElSol",
-                    "PodredumbreDelCaparazon"
                 ]
             },
             "fr": {
@@ -331,12 +301,6 @@
                         "question": "Faut-il faire hiberner une Tortue Peinte élevée en intérieur pendant l'hiver ?",
                         "answer": "Non ! L'hibernation forcée en aquarium intérieur est dangereuse. Une température ambiante trop fraîche affaiblit son système immunitaire. Maintenez l'eau entre 23°C et 26°C toute l'année."
                     }
-                ],
-                "tags": [
-                    "TortuePeinte",
-                    "TortueAquatique",
-                    "BainDeSoleil",
-                    "PourritureCarapace"
                 ]
             },
             "de": {
@@ -387,12 +351,6 @@
                         "question": "Sollten Zierschildkröten in der Wohnung im Winter eine Überwinterung durchmachen?",
                         "answer": "Nein! Die erzwungene Überwinterung im Zimmerbecken ist gefährlich. Kühles Zimmerwasser schwächt das Immunsystem. Halten Sie das Wasser ganzjährig bei 23°C–26°C."
                     }
-                ],
-                "tags": [
-                    "Zierschildkroete",
-                    "WasserschildkroetenPflege",
-                    "Sonnenbaden",
-                    "Panzerfaeule"
                 ]
             },
             "pt": {
@@ -443,12 +401,6 @@
                         "question": "Tartarugas pintadas criadas em cativeiro interno devem hibernar no inverno?",
                         "answer": "Não! A hibernação forçada em aquários internos é perigosa. Temperaturas frias intermediárias enfraquecem a imunidade. Mantenha a água aquecida a 23°C–26°C o ano todo."
                     }
-                ],
-                "tags": [
-                    "TartarugaPintada",
-                    "TartarugaAquatica",
-                    "BanhoDeSol",
-                    "PodridaoDoCasco"
                 ]
             },
             "id": {
@@ -499,21 +451,9 @@
                         "question": "Apakah Kura-kura Painted yang dipelihara di dalam ruangan harus hibernasi saat musim dingin?",
                         "answer": "Tidak! Hibernasi paksa di akuarium dalam ruangan sangat berbahaya. Suhu dingin sedang justru menurunkan kekebalan tubuh. Gunakan water heater untuk menjaga suhu air 23°C–26°C sepanjang tahun."
                     }
-                ],
-                "tags": [
-                    "KuraKuraPainted",
-                    "PerawatanKuraKuraAir",
-                    "Berjemur",
-                    "PencegahanShellRot"
                 ]
             }
         },
-        "meta": {
-            "id": "painted-turtle-care",
-            "category": "PetSelf",
-            "app": "petself",
-            "formatVersion": 4,
-            "heroImage": "/images/blog/painted_turtle_care.webp"
-        }
+        "heroImage": "/images/blog/painted_turtle_care.webp"
     }
 }

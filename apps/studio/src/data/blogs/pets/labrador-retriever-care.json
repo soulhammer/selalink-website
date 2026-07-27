@@ -51,12 +51,6 @@
                         "question": "수영을 정말 좋아하는데 귓병 관리는 어떻게 해야 하나요?",
                         "answer": "귀가 아래로 덮여 있는 구조 특성상 수영 후 귀 내부에 수분이 남아있으면 균이 번식해 외이염이 발생하기 쉽습니다. 물놀이 직후 귀 전용 세정제로 닦아주고 귀를 뒤집어 통풍시켜 완벽히 말려주어야 합니다."
                     }
-                ],
-                "tags": [
-                    "라브라도리트리버",
-                    "체중관리",
-                    "귓병예방",
-                    "리트리버케어"
                 ]
             },
             "en": {
@@ -107,12 +101,6 @@
                         "question": "How should I care for my Lab's ears after swimming?",
                         "answer": "Because their floppy ears trap moisture, trapped water creates an ideal environment for bacteria and yeast, leading to otitis externa (ear infection). Always wipe their ears with a canine ear cleaner and keep the ear canal well-ventilated until completely dry."
                     }
-                ],
-                "tags": [
-                    "LabradorRetriever",
-                    "WeightManagement",
-                    "EarCare",
-                    "DogHealth"
                 ]
             },
             "ja": {
@@ -163,12 +151,6 @@
                         "question": "水泳が大好きなのですが、耳のケアはどのようにすればいいですか？",
                         "answer": "垂れ耳の構造上、水泳後に耳の中に湿気が残ると細菌が繁殖し、外耳炎を起こしやすくなります。水遊び直後は犬用イヤークリーナーで水分を拭き取り、耳を裏返して風通しを良くし、完全に乾かしてください。"
                     }
-                ],
-                "tags": [
-                    "ラブラドールレトリバー",
-                    "体重管理",
-                    "耳のケア",
-                    "犬の健康"
                 ]
             },
             "zh": {
@@ -219,12 +201,6 @@
                         "question": "拉布拉多犬非常喜欢游泳，应该如何护理耳部健康？",
                         "answer": "由于其耳朵下垂的结构特点，游泳后耳朵内部留存的水分极易滋生细菌和真菌，引发外耳炎。水上活动后应立即使用专用洗耳液清洁，并保持耳道通风干爽。"
                     }
-                ],
-                "tags": [
-                    "拉布拉多犬",
-                    "体重管理",
-                    "耳部护理",
-                    "犬类健康"
                 ]
             },
             "es": {
@@ -275,12 +251,6 @@
                         "question": "¿Cómo debo cuidar los oídos de mi Labrador después de nadar?",
                         "answer": "Debido a sus orejas caídas, la humedad atrapada crea un ambiente propicio para bacterias y levaduras, causando otitis externa. Limpie siempre sus oídos con un producto específico y mantenga el canal auditivo ventilado hasta que se seque por completo."
                     }
-                ],
-                "tags": [
-                    "LabradorRetriever",
-                    "ControlDePeso",
-                    "CuidadoDeOidos",
-                    "SaludCanina"
                 ]
             },
             "fr": {
@@ -331,12 +301,6 @@
                         "question": "Comment prendre soin des oreilles de mon Labrador s'il aime nager ?",
                         "answer": "Leurs oreilles tombantes retiennent l'humidité, créant un milieu idéal pour le développement des bactéries et levures (otite externe). Nettoyez systématiquement ses oreilles avec un nettoyant auriculaire canin après chaque baignade et laissez le conduit bien sécher."
                     }
-                ],
-                "tags": [
-                    "LabradorRetriever",
-                    "GestionDuPoids",
-                    "SoinDesOreilles",
-                    "SanteCanine"
                 ]
             },
             "de": {
@@ -387,12 +351,6 @@
                         "question": "Wie pflege ich die Ohren meines Labradors nach dem Schwimmen?",
                         "answer": "Durch die Hängeohren kann Feuchtigkeit nach dem Schwimmen nicht entweichen, was ein ideales Klima für Bakterien schafft (Ohrenentzündung). Reinigen Sie die Ohren direkt nach dem Wassersport mit einem speziellen Ohrreiniger und sorgen Sie für eine gute Belüftung."
                     }
-                ],
-                "tags": [
-                    "LabradorRetriever",
-                    "Gewichtskontrolle",
-                    "Ohrenpflege",
-                    "Hundegesundheit"
                 ]
             },
             "pt": {
@@ -443,12 +401,6 @@
                         "question": "Como devo cuidar das orelhas do meu Labrador depois que ele nada?",
                         "answer": "Como as orelhas são caídas, a umidade retida cria um ambiente propício para bactérias e fungos (otite externa). Limpe sempre as orelhas com um produto adequado após o banho ou natação e mantenha o local bem arejado até secar completamente."
                     }
-                ],
-                "tags": [
-                    "LabradorRetriever",
-                    "ControleDePeso",
-                    "CuidadoComOrelhas",
-                    "SaudeCanina"
                 ]
             },
             "id": {
@@ -499,12 +451,6 @@
                         "question": "Bagaimana cara merawat telinga Labrador yang suka berenang?",
                         "answer": "Bentuk telinga yang terkulai dapat menahan kelembapan di dalam saluran telinga, menciptakan lingkungan ideal bagi bakteri dan jamur (otitis eksterna). Selalu bersihkan telinga dengan cairan pembersih khusus anjing setelah berenang dan pastikan saluran telinga benar-benar kering."
                     }
-                ],
-                "tags": [
-                    "LabradorRetriever",
-                    "PengendalianBeratBadan",
-                    "PerawatanTelinga",
-                    "KesehatanAnjing"
                 ]
             }
         },

@@ -51,12 +51,6 @@
                         "question": "At what age should joint care start for a Golden Retriever?",
                         "answer": "As they are prone to genetic joint conditions like hip dysplasia, you should start joint care—including weight management, non-slip floor mats, and low-impact exercise like swimming—around 3 months of age during active growth."
                     }
-                ],
-                "tags": [
-                    "GoldenRetriever",
-                    "HipDysplasia",
-                    "RetrievingPlay",
-                    "LargeDogCare"
                 ]
             },
             "ja": {
@@ -107,12 +101,6 @@
                         "question": "ゴールデンレトリバーの関節ケアは何歳から始めるべきですか？",
                         "answer": "股関節形成不全などの遺伝的疾患に弱いため、成長期である生後3ヶ月頃から体重管理、滑り止めマットの設置、関節に負担の少ない水泳などの運動を始めるのが推奨されます。"
                     }
-                ],
-                "tags": [
-                    "ゴールデンレトリバー",
-                    "股関節形成不全",
-                    "レトリービング",
-                    "大型犬のケア"
                 ]
             },
             "zh": {
@@ -163,12 +151,6 @@
                         "question": "金毛寻回犬的关节护理应该从几岁开始？",
                         "answer": "金毛易患髋关节发育不良等遗传性关节疾病，因此建议从生后3个月的快速成长阶段就开始进行体重控制、铺设防滑垫以及进行游泳等低冲击的关节养护运动。"
                     }
-                ],
-                "tags": [
-                    "金毛寻回犬",
-                    "髋关节发育不良",
-                    "寻回衔回",
-                    "大型犬护理"
                 ]
             },
             "es": {
@@ -219,12 +201,6 @@
                         "question": "¿A qué edad debe comenzar el cuidado articular en un Golden Retriever?",
                         "answer": "Dado que son propensos a la displasia de cadera genérica, comience el cuidado articular (control de peso, alfombras antideslizantes y natación) alrededor de los 3 meses de edad durante su etapa de crecimiento activo."
                     }
-                ],
-                "tags": [
-                    "GoldenRetriever",
-                    "DisplasiaDeCadera",
-                    "JuegoDeCobro",
-                    "CuidadoDePerrosGrandes"
                 ]
             },
             "fr": {
@@ -275,12 +251,6 @@
                         "question": "À quel âge doit-on commencer le soin des articulations pour un Golden Retriever ?",
                         "answer": "Étant sujets à des pathologies génétiques comme la dysplasie de la hanche, commencez le soin des articulations (contrôle du poids, tapis antidérapants, natation) dès l'âge de 3 mois pendant sa phase de croissance rapide."
                     }
-                ],
-                "tags": [
-                    "GoldenRetriever",
-                    "DysplasieDeLaHanche",
-                    "JeuDeRapport",
-                    "SoinGrandsChiens"
                 ]
             },
             "de": {
@@ -331,12 +301,6 @@
                         "question": "Ab welchem Alter sollte die Gelenkpflege bei einem Golden Retriever beginnen?",
                         "answer": "Da sie anfällig für genetische Hüftdysplasie sind, sollten Sie bereits in der Wachstumsphase ab dem 3. Monat mit der Gelenkpflege (Gewichtskontrolle, rutschfeste Matten, Schwimmen) beginnen."
                     }
-                ],
-                "tags": [
-                    "GoldenRetriever",
-                    "Hueftdysplasie",
-                    "Apportieren",
-                    "PflegeGrosserHunde"
                 ]
             },
             "pt": {
@@ -387,12 +351,6 @@
                         "question": "Com que idade deve começar o cuidado articular em um Golden Retriever?",
                         "answer": "Como são propensos à displasia de quadril genética, comece o cuidado articular (controle de peso, tapetes antiderrapantes e natação) aos 3 meses de idade durante seu crescimento ativo."
                     }
-                ],
-                "tags": [
-                    "GoldenRetriever",
-                    "DisplasiaDeQuadril",
-                    "JogoDeBusca",
-                    "CuidadoDeCaesGrandes"
                 ]
             },
             "id": {
@@ -443,12 +401,6 @@
                         "question": "Pada usia berapa perawatan sendi harus dimulai untuk Golden Retriever?",
                         "answer": "Karena mereka rentan terhadap displasia pinggul genetik, Anda harus memulai perawatan sendi (kontrol berat badan, keset antislip, dan berenang) sekitar usia 3 bulan selama masa pertumbuhan aktif."
                     }
-                ],
-                "tags": [
-                    "GoldenRetriever",
-                    "DisplasiaPinggul",
-                    "MengambilBarang",
-                    "PerawatanAnjingBesar"
                 ]
             },
             "ko": {
@@ -499,12 +451,6 @@
                         "question": "골든 리트리버를 키울 때 관절 관리는 몇 살부터 시작해야 하나요?",
                         "answer": "골든 리트리버는 고관절 이형성증 등 유전적 관절 질환에 취약하므로, 성장이 활발한 생후 3개월령부터 체중 조절과 미끄럼 방지 매트 설치, 수영과 같은 부하가 적은 근력 운동을 시작하는 것이 좋습니다."
                     }
-                ],
-                "tags": [
-                    "골든리트리버",
-                    "고관절이형성증",
-                    "리트리빙",
-                    "대형견케어"
                 ]
             }
         },

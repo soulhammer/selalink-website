@@ -51,12 +51,6 @@
                         "question": "푸들이 가구를 씹거나 물어뜯는 행동은 어떻게 교정하나요?",
                         "answer": "지능이 높은 만큼 신체 에너지는 물론 뇌의 에너지가 채워지지 않아 지루함을 느끼질 때 자주 발생합니다. 단순 씹는 장난감 대신 노즈워크나 인지 놀이를 대폭 늘려주세요."
                     }
-                ],
-                "tags": [
-                    "푸들",
-                    "지능형놀이",
-                    "귀관리",
-                    "반려견홈케어"
                 ]
             },
             "en": {
@@ -107,12 +101,6 @@
                         "question": "How do I stop my Poodle from chewing furniture?",
                         "answer": "Poodles often chew out of boredom when their brain is understimulated. Instead of just chew toys, introduce puzzles and interactive games to tire them out mentally."
                     }
-                ],
-                "tags": [
-                    "Poodle",
-                    "BrainGames",
-                    "EarCare",
-                    "DogHomeCare"
                 ]
             },
             "ja": {
@@ -163,12 +151,6 @@
                         "question": "プードルが家具をかじる行動はどうやって直しますか？",
                         "answer": "知能が高いため、脳のエネルギーが消費されず退屈を感じた時によく起こります。単なるおもちゃではなく、ノーズワークや知能パズルゲームを大幅に増やしてください。"
                     }
-                ],
-                "tags": [
-                    "プードル",
-                    "知能プレイ",
-                    "耳のケア",
-                    "愛犬ホームケア"
                 ]
             },
             "zh": {
@@ -219,12 +201,6 @@
                         "question": "如何纠正贵宾犬啃咬家具的行为？",
                         "answer": "贵宾犬智商极高，这通常是因为缺乏脑力锻炼、感到无聊而引起的。相比普通的咬咬玩具，应多提供智力拼图和嗅闻游戏以满足它们的认知需求。"
                     }
-                ],
-                "tags": [
-                    "贵宾犬",
-                    "智力游戏",
-                    "耳部护理",
-                    "犬类家庭护理"
                 ]
             },
             "es": {
@@ -275,12 +251,6 @@
                         "question": "¿Cómo evito que mi caniche muerda los muebles?",
                         "answer": "A menudo muerden por aburrimiento debido a la falta de estimulación mental. En lugar de juguetes masticables comunes, introduzca rompecabezas y juegos interactivos para cansar su cerebro."
                     }
-                ],
-                "tags": [
-                    "Caniche",
-                    "JuegosMentales",
-                    "CuidadoDeOídos",
-                    "CuidadoDePerros"
                 ]
             },
             "fr": {
@@ -331,12 +301,6 @@
                         "question": "Comment empêcher mon caniche de mâcher les meubles ?",
                         "answer": "Le caniche mâche souvent par ennui lorsque son esprit n'est pas assez stimulé. Remplacez les jouets à mâcher simples par des jeux d'intelligence et de fouille pour fatiguer son cerveau."
                     }
-                ],
-                "tags": [
-                    "Caniche",
-                    "JeuxCérébraux",
-                    "SoinDesOreilles",
-                    "SoinsCanins"
                 ]
             },
             "de": {
@@ -387,12 +351,6 @@
                         "question": "Wie gewöhne ich meinem Pudel das Kauen an Möbeln ab?",
                         "answer": "Pudel kauen oft aus Langeweile, wenn sie geistig nicht ausgelastet sind. Bieten Sie statt einfachem Kauspielzeug vermehrt Denkspiele und Schnüffelteppiche an."
                     }
-                ],
-                "tags": [
-                    "Pudel",
-                    "Denkspiele",
-                    "Ohrenpflege",
-                    "Hundepflege"
                 ]
             },
             "pt": {
@@ -443,12 +401,6 @@
                         "question": "Como faço para o meu poodle parar de roer móveis?",
                         "answer": "Poodles costumam roer por tédio devido à falta de estimulação mental. Em vez de brinquedos de mastigar comuns, introduza quebra-cabeças e jogos interativos para exercitar o cérebro."
                     }
-                ],
-                "tags": [
-                    "Poodle",
-                    "JogosMentais",
-                    "CuidadoDeOrelhas",
-                    "CuidadoDeCães"
                 ]
             },
             "id": {
@@ -499,12 +451,6 @@
                         "question": "Bagaimana cara menghentikan Poodle saya menggigit furnitur?",
                         "answer": "Poodle sering menggigit karena bosan akibat kurangnya stimulasi mental. Alih-alih mainan kunyah biasa, perkenalkan teka-teki dan permainan interaktif untuk melatih otak mereka."
                     }
-                ],
-                "tags": [
-                    "Poodle",
-                    "PermainanOtak",
-                    "PerawatanTelinga",
-                    "PerawatanAnjing"
                 ]
             }
         },

@@ -51,12 +51,6 @@
                         "question": "네온 테트라를 1~2마리만 키워도 되나요?",
                         "answer": "절대 권장하지 않습니다. 네온 테트라는 야생에서 수백 마리씩 무리를 지어 자신을 보호하는 군영 성향이 매우 강합니다. 1~2마리만 키우면 극심한 불안감과 스트레스로 면역력이 떨어져 수명이 단축됩니다. 최소 6~10마리 이상 무리를 지어 키워야 안정감을 느끼고 아름다운 군영을 관찰할 수 있습니다."
                     }
-                ],
-                "tags": [
-                    "네온테트라",
-                    "열대어케어",
-                    "군영어류",
-                    "수질관리"
                 ]
             },
             "en": {
@@ -107,12 +101,6 @@
                         "question": "Can I keep just 1 or 2 Neon Tetras in a tank?",
                         "answer": "It is strongly discouraged. Neon Tetras are dedicated schooling fish that rely on large groups for safety. Keeping only 1 or 2 causes extreme anxiety and chronic stress, weakening their immune system and shortening their lifespan. Keep them in groups of 6 to 10 or more."
                     }
-                ],
-                "tags": [
-                    "NeonTetra",
-                    "TropicalFishCare",
-                    "SchoolingFish",
-                    "WaterQuality"
                 ]
             },
             "ja": {
@@ -163,12 +151,6 @@
                         "question": "ネオンテトラを1〜2匹だけで飼育しても大丈夫ですか？",
                         "answer": "おすすめできません。ネオンテトラは自然界で何百匹もの群れを作って身を守る群泳本能が非常に強い魚です。1〜2匹だけで飼育すると強い不安とストレスから免疫力が低下し、寿命を縮めてしまいます。安心して暮らせるよう、必ず6〜10匹以上の群れで飼育してください。"
                     }
-                ],
-                "tags": [
-                    "ネオンテトラ",
-                    "熱帯魚ケア",
-                    "群泳魚",
-                    "水質管理"
                 ]
             },
             "zh": {
@@ -219,12 +201,6 @@
                         "question": "可以只养1~2尾霓虹灯鱼吗？",
                         "answer": "绝对不建议。霓虹灯鱼在野外依靠成百上千尾结队群游来获取安全感。仅饲养1~2尾会导致其处于极度焦虑与应激状态，大幅降低免疫力并缩短寿命。请务必保持6~10尾以上的数量成群饲养。"
                     }
-                ],
-                "tags": [
-                    "霓虹灯鱼",
-                    "热带鱼护理",
-                    "群游鱼类",
-                    "水质管理"
                 ]
             },
             "es": {
@@ -275,12 +251,6 @@
                         "question": "¿Puedo tener solo 1 o 2 Tetras Neón en el acuario?",
                         "answer": "No se recomienda en absoluto. Los tetras neón son peces de cardumen que necesitan estar en grupo para sentirse seguros. Mantener solo 1 o 2 genera ansiedad severa, debilitando su sistema inmune y reduciendo su esperanza de vida. Mantenga un grupo de al menos 6 a 10 ejemplares."
                     }
-                ],
-                "tags": [
-                    "TetraNeon",
-                    "Acuarofilia",
-                    "PecesDeCardumen",
-                    "CalidadDelAgua"
                 ]
             },
             "fr": {
@@ -331,12 +301,6 @@
                         "question": "Puis-je maintenir seulement 1 ou 2 Tétras Néons dans mon aquarium ?",
                         "answer": "C'est fortement déconseillé. Les tétras néons sont des poissons de banc qui ont besoin de leurs congénères pour se sentir en sécurité. En garder seulement 1 ou 2 provoque un stress intense, affaiblit leur système immunitaire et réduit leur espérance de vie. Maintenez-les toujours par groupe de 6 à 10 minimum."
                     }
-                ],
-                "tags": [
-                    "TetraNeon",
-                    "Aquariophilie",
-                    "PoissonDeBanc",
-                    "QualiteDeLEau"
                 ]
             },
             "de": {
@@ -387,12 +351,6 @@
                         "question": "Kann ich Neonsalmler auch nur zu zweit oder dritt halten?",
                         "answer": "Davon wird dringend abgeraten. Neonsalmler sind ausgeprägte Schwarmfische, die die Gruppe zur Sicherheit brauchen. Die Haltung von nur 1–2 Tieren führt zu dauerhaftem Stress, schwächt das Immunsystem und verkürzt die Lebensdauer. Halten Sie immer mindestens 6 bis 10 Tiere."
                     }
-                ],
-                "tags": [
-                    "Neonsalmler",
-                    "Aquaristik",
-                    "Schwarmfisch",
-                    "Wasserqualität"
                 ]
             },
             "pt": {
@@ -443,12 +401,6 @@
                         "question": "Posso manter apenas 1 ou 2 Tetras Neon no aquário?",
                         "answer": "Não é recomendado. Os tetras neon dependem do grupo para se sentirem seguros. Manter apenas 1 ou 2 causa estresse severo e ansiedade, enfraquecendo o sistema imunológico e encurtando a vida do peixe. Mantenha um cardume de no mínimo 6 a 10 indivíduos."
                     }
-                ],
-                "tags": [
-                    "TetraNeon",
-                    "Aquarismo",
-                    "PeixesDeCardume",
-                    "QualidadeDaAgua"
                 ]
             },
             "id": {
@@ -499,12 +451,6 @@
                         "question": "Bolehkah saya hanya memelihara 1 atau 2 ekor Neon Tetra di akuarium?",
                         "answer": "Sangat tidak disarankan. Neon Tetra adalah ikan bergerombol yang membutuhkan kelompok besar untuk merasa aman. Memelihara hanya 1 atau 2 ekor menyebabkan stres dan kecemasan berat, menurunkan kekebalan tubuh, dan memperpendek usianya. Peliharalah dalam kelompok minimal 6 hingga 10 ekor atau lebih."
                     }
-                ],
-                "tags": [
-                    "NeonTetra",
-                    "Akuaristik",
-                    "IkanBergerombol",
-                    "KualitasAir"
                 ]
             }
         },

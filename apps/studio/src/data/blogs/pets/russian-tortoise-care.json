@@ -51,12 +51,6 @@
                         "question": "러시아 육지거북에게 과일이나 곤충, 사료를 주면 왜 안 되나요?",
                         "answer": "러시아 육지거북은 건조 지대 출신의 100% 완전 초식성(Strict Herbivore) 파충류입니다. 당분이 높은 과일을 먹이면 장내 세균총이 파괴되어 원충 번식과 치명적인 설사를 유발합니다. 또한 곤충이나 동물성 단백질을 섭취할 경우 체내 요산 수치가 급격히 높아져 신부전, 통풍, 등갑 기형(피라미딩)을 유발하므로 반드시 섬유질이 풍부한 야생초 및 녹색 잎채소만 급여해야 합니다."
                     }
-                ],
-                "tags": [
-                    "러시아육지거북",
-                    "호스필드육지거북",
-                    "파충류케어",
-                    "육지거북MBD예방"
                 ]
             },
             "en": {
@@ -107,12 +101,6 @@
                         "question": "Why shouldn't I feed fruits, insects, or commercial dog/cat food to a Russian Tortoise?",
                         "answer": "Russian Tortoises are 100% strict herbivores adapted to fibrous desert weeds. High-sugar fruits disrupt gut microflora, causing severe protozoal blooms and lethal diarrhea. Animal protein or insect feeding elevates blood uric acid rapidly, inducing visceral gout, kidney failure, and pyramiding shell deformities. Feed exclusively fibrous dark leafy greens and safe weeds."
                     }
-                ],
-                "tags": [
-                    "RussianTortoise",
-                    "HorsfieldsTortoise",
-                    "ReptileCare",
-                    "TortoiseMBDPrevention"
                 ]
             },
             "ja": {
@@ -163,12 +151,6 @@
                         "question": "ロシアリクガメに果物や昆虫、ドッグフードを与えてはいけない理由は何ですか？",
                         "answer": "ロシアリクガメは乾燥地帯原産の100%完全草食性（Strict Herbivore）の爬虫類です。糖分の多い果物を与えると腸内細菌叢が崩れて原虫が異常繁殖し、致死的な下痢を引き起こします。また昆虫や動物性タンパク質は血中尿酸値を急上昇させ、内臓痛風や腎不全、甲羅の変形（ピラミッディング）を招くため、繊維質の多い野草や緑の葉野菜のみを与えてください。"
                     }
-                ],
-                "tags": [
-                    "ロシアリクガメ",
-                    "ホルスフィールドリクガメ",
-                    "爬虫類ケア",
-                    "リクガメMBD予防"
                 ]
             },
             "zh": {
@@ -219,12 +201,6 @@
                         "question": "为什么绝对不能给俄罗斯陆龟喂食水果、昆虫或猫狗粮？",
                         "answer": "俄罗斯陆龟是 100% 严格纯草食性（Strict Herbivore）沙漠陆龟。高糖分的水果会破坏其肠道益生菌平衡，引发原虫爆发与致死性腹泻；而昆虫或动物蛋白会导致血液尿酸急剧升高，诱发内脏痛风、肾衰竭以及龟壳畸形隆背（Pyramiding）。必须严格喂食高纤维野生杂草与深色绿叶菜。"
                     }
-                ],
-                "tags": [
-                    "俄罗斯陆龟",
-                    "霍斯菲尔德陆龟",
-                    "爬宠护理",
-                    "陆龟MBD预防"
                 ]
             },
             "es": {
@@ -275,12 +251,6 @@
                         "question": "¿Por qué nunca debo alimentar a una Tortuga Rusa con fruta, insectos o pienso para perro/gato?",
                         "answer": "La Tortuga Rusa es un animal 100% herbívoro estricto. Las frutas ricas en azúcar destruyen su flora intestinal produciendo diarreas mortales. La proteína animal o de insectos eleva bruscamente el ácido úrico en sangre, causando gota visceral, fallo renal y deformaciones en el caparazón (piramidismo). Debe comer únicamente silvestres y hojas verdes oscuras."
                     }
-                ],
-                "tags": [
-                    "TortugaRusa",
-                    "TortugaDeHorsfield",
-                    "CuidadoDeReptiles",
-                    "PrevencionMBDTortugas"
                 ]
             },
             "fr": {
@@ -331,12 +301,6 @@
                         "question": "Pourquoi est-il interdit de donner des fruits, des insectes ou de la pâtée à une Tortue Russe ?",
                         "answer": "La Tortue Russe est un reptile 100 % herbivore strict. Les fruits sucrés détraquent sa flore intestinale et provoquent des diarrhées mortelles. Les protéines animales (insectes, viande) augmentent l'acide urique dans le sang, causant la goutte, une insuffisance rénale et la déformation de la carapace (toboggan/pyramidage). Proposez uniquement des mauvaises herbes et des légumes feuillus."
                     }
-                ],
-                "tags": [
-                    "TortueRusse",
-                    "TortueDeHorsfield",
-                    "SoinReptiles",
-                    "PreventionMBDTortue"
                 ]
             },
             "de": {
@@ -387,12 +351,6 @@
                         "question": "Warum darf ich eine Steppenschildkröte keinesfalls mit Obst, Insekten oder Hundefutter füttern?",
                         "answer": "Steppenschildkröten sind 100 % reine Pflanzenfresser (Strict Herbivore). Zuckerhaltiges Obst zerstört die Darmflora und löst tödliche Durchfälle aus. Tierisches Eiweiß lässt den Harnsäurespiegel im Blut explodieren, was zu Nierenversagen, Gicht und Panzerhöckerbildung (Pyramidenwuchs) führt. Füttern Sie ausschließlich faserreiche Wiesenkräuter und dunkle Salate."
                     }
-                ],
-                "tags": [
-                    "Steppenschildkroete",
-                    "RussischeLandschildkroete",
-                    "Reptilienpflege",
-                    "MBDProphylaxeSchildkroete"
                 ]
             },
             "pt": {
@@ -443,12 +401,6 @@
                         "question": "Por que nunca devo alimentar uma Tartaruga-Russa com frutas, insetos ou ração para cães/gatos?",
                         "answer": "A Tartaruga-Russa é um animal 100% herbívoro estrito. Frutas ricas em açúcar desregulam a flora intestinal e causam diarreia fatal. Proteína animal ou insetos elevam o ácido úrico no sangue, provocando gota visceral, falência renal e deformação do casco (piramidismo). Ofereça apenas plantas silvestres e folhas verdes escuras."
                     }
-                ],
-                "tags": [
-                    "TartarugaRussa",
-                    "TartarugaDeHorsfield",
-                    "CuidadosComReptois",
-                    "PrevencaoMBDTartaruga"
                 ]
             },
             "id": {
@@ -499,12 +451,6 @@
                         "question": "Mengapa Kura-kura Rusia tidak boleh diberi buah-buahan, serangga, atau pakan kucing/anjing?",
                         "answer": "Kura-kura Rusia adalah hewan 100% herbivora murni. Buah-buahan tinggi gula merusak mikroflora usus dan memicu diare mematikan. Protein hewani atau serangga membuat kadar asam urat darah melonjak drastis, memicu asam urat organ (gout), gagal ginjal, dan piramiding tempurung. Makanan mereka harus murni terdiri dari rumput liar tinggi serat dan daun hijau tua."
                     }
-                ],
-                "tags": [
-                    "KuraKuraRusia",
-                    "KuraKuraHorsfield",
-                    "PerawatanReptil",
-                    "PencegahanMBDKuraKura"
                 ]
             }
         },

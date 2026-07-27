@@ -51,13 +51,6 @@
                         "question": "여과기 없이 작은 어항에서 키워도 되나요?",
                         "answer": "베타는 산소 호흡이 가능하지만 여과기 없는 소형 어항은 여과 미생물이 생기지 않아 수질이 급격히 악화됩니다. 최소 15리터 이상의 어항과 저수류 스펀지 여과기가 권장됩니다."
                     }
-                ],
-                "tags": [
-                    "베타피쉬",
-                    "관상어케어",
-                    "플레어링",
-                    "WSAVA지침",
-                    "지느러미관리"
                 ]
             },
             "en": {
@@ -108,13 +101,6 @@
                         "question": "Can I keep my Betta in a small bowl without a filter?",
                         "answer": "While Bettas can breathe atmospheric oxygen, unfiltered small bowls lack nitrifying bacteria, causing water quality to deteriorate rapidly. A tank of at least 15 liters with a low-flow sponge filter is strongly recommended."
                     }
-                ],
-                "tags": [
-                    "Betta Fish",
-                    "Aquatic Care",
-                    "Flaring Exercise",
-                    "WSAVA Standards",
-                    "Fin Care"
                 ]
             },
             "ja": {
@@ -165,13 +151,6 @@
                         "question": "フィルターのない小さな金魚鉢で飼育しても大丈夫ですか？",
                         "answer": "ベタは空気呼吸が可能ですが、フィルターのない小型容器はろ過バクテリアが定着せず水質が急激に悪化します。最低15リットル以上の水槽と低水流のスポンジフィルターの使用が推奨されます。"
                     }
-                ],
-                "tags": [
-                    "ベタフィッシュ",
-                    "観賞魚ケア",
-                    "フレアリング",
-                    "WSAVAガイドライン",
-                    "ヒレの管理"
                 ]
             },
             "zh": {
@@ -222,13 +201,6 @@
                         "question": "可以在没有过滤器的小鱼缸里饲养吗？",
                         "answer": "虽然斗鱼具备空气呼吸能力，但无过滤器的小型鱼缸无法建立硝化菌群，水质会急剧恶化。建议使用至少15升以上的鱼缸并配备低水流的水绵过滤器。"
                     }
-                ],
-                "tags": [
-                    "斗鱼",
-                    "观赏鱼护理",
-                    "展鳍",
-                    "WSAVA指南",
-                    "鳍条护理"
                 ]
             },
             "es": {
@@ -279,13 +251,6 @@
                         "question": "¿Se puede mantener a un Betta en una pecera pequeña sin filtro?",
                         "answer": "Aunque los Bettas pueden respirar aire atmosférico, las peceras pequeñas sin filtro carecen de bacterias nitrificantes y el agua se deteriora rápidamente. Se recomienda un acuario de al menos 15 litros con filtro de esponja de flujo suave."
                     }
-                ],
-                "tags": [
-                    "PezBetta",
-                    "CuidadoDePeces",
-                    "Flaring",
-                    "GuíaWSAVA",
-                    "CuidadoDeAletas"
                 ]
             },
             "fr": {
@@ -336,13 +301,6 @@
                         "question": "Peut-on élever un Betta dans un petit bocal sans filtre ?",
                         "answer": "Même si le Betta respire l'air ambiant, un petit bocal sans filtration ne peut développer de bactéries nitrifiantes et la qualité de l'eau s'y dégrade très vite. Un aquarium d'au moins 15 litres doté d'un filtre éponge à faible débit est vivement recommandé."
                     }
-                ],
-                "tags": [
-                    "PoissonBetta",
-                    "SoinsPoisson",
-                    "Flaring",
-                    "DirectivesWSAVA",
-                    "GestionDesNageoires"
                 ]
             },
             "de": {
@@ -393,13 +351,6 @@
                         "question": "Kann man einen Betta in einer kleinen Kugelvase ohne Filter halten?",
                         "answer": "Obwohl Bettas Luft atmen können, bauen kleine Vasen ohne Filter keine Nitrifikationsbakterien auf, wodurch das Wasser rasch kippt. Ein Becken von mindestens 15 Litern mit einem strömungsarmen Schwammfilter wird dringend empfohlen."
                     }
-                ],
-                "tags": [
-                    "Kampffisch",
-                    "Zierfischpflege",
-                    "Flaring",
-                    "WSAVA-Richtlinien",
-                    "Flossenpflege"
                 ]
             },
             "pt": {
@@ -450,13 +401,6 @@
                         "question": "Posso manter meu Betta em um aquário pequeno sem filtro?",
                         "answer": "Embora os Bettas consigam respirar o ar atmosférico, aquários pequenos sem filtro não desenvolvem bactérias nitrificantes e a água se deteriora rapidamente. Recomenda-se um aquário de pelo menos 15 litros com filtro de esponja de fluxo suave."
                     }
-                ],
-                "tags": [
-                    "PeixeBetta",
-                    "CuidadosComPeixes",
-                    "Flaring",
-                    "DiretrizesWSAVA",
-                    "CuidadoComNadadeiras"
                 ]
             },
             "id": {
@@ -507,13 +451,6 @@
                         "question": "Bolehkah memelihara ikan Cupang di toples kecil tanpa filter?",
                         "answer": "Meskipun ikan Cupang dapat bernapas langsung dari udara, toples kecil tanpa filter tidak memiliki bakteri nitrifikasi sehingga kualitas air akan memburuk dengan cepat. Sangat disarankan menggunakan akuarium minimal 15 liter dengan filter spons berarus tenang."
                     }
-                ],
-                "tags": [
-                    "IkanBetta",
-                    "PerawatanIkanHias",
-                    "Flaring",
-                    "PanduanWSAVA",
-                    "PerawatanSirip"
                 ]
             }
         },

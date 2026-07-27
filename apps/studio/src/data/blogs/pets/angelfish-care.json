@@ -51,12 +51,6 @@
                         "question": "네온 테트라나 구피와 함께 합사해도 되나요?",
                         "answer": "권장하지 않습니다. 어릴 때는 함께 잘 헤엄치지만, 엔젤피쉬가 성체가 되면 야생의 포식 본능이 발현되어 입에 들어가는 작은 네온 테트라나 구피, 치어들을 밤사이에 잡아먹을 수 있습니다. 엔젤피쉬와 합사할 때는 몸집이 어느 정도 있는 중형 열대어나 서열 싸움을 피할 수 있는 어종과 합사하는 것이 좋습니다."
                     }
-                ],
-                "tags": [
-                    "엔젤피쉬",
-                    "열대어케어",
-                    "시클리드",
-                    "수질관리"
                 ]
             },
             "en": {
@@ -107,12 +101,6 @@
                         "question": "Can I keep Angelfish with Neon Tetras or Guppies?",
                         "answer": "It is not recommended. While young Angelfish swim peacefully with small fish, adult Angelfish develop natural predatory instincts. Overnight, they will hunt and eat small fish like Neon Tetras, Guppies, or fry that fit into their mouths. Pair Angelfish with larger, peaceful community fish instead."
                     }
-                ],
-                "tags": [
-                    "Angelfish",
-                    "TropicalFishCare",
-                    "CichlidCare",
-                    "WaterQuality"
                 ]
             },
             "ja": {
@@ -163,12 +151,6 @@
                         "question": "ネオンテトラやグッピーと一緒に飼育しても大丈夫ですか？",
                         "answer": "おすすめできません。幼体の頃は仲良く泳ぎますが、エンゼルフィッシュが成体になると野生の捕食本能が目覚め、夜間に口に入るサイズのネオンテトラやグッピーを食べてしまうことがあります。体格のある中型熱帯魚と同居させるのが安全です。"
                     }
-                ],
-                "tags": [
-                    "エンゼルフィッシュ",
-                    "熱帯魚ケア",
-                    "シクリッド",
-                    "水質管理"
                 ]
             },
             "zh": {
@@ -219,12 +201,6 @@
                         "question": "神仙鱼可以和霓虹灯鱼或孔雀鱼混养吗？",
                         "answer": "不建议混养。幼鱼时期虽然可以和平共处，但神仙鱼成鱼后会展现捕食天性，在夜间将能塞入口中的霓虹灯鱼、孔雀鱼或幼鱼吃掉。建议与体型稍大的温和社区鱼混养。"
                     }
-                ],
-                "tags": [
-                    "神仙鱼",
-                    "热带鱼护理",
-                    "慈鲷护理",
-                    "水质管理"
                 ]
             },
             "es": {
@@ -275,12 +251,6 @@
                         "question": "¿Puedo mantener Peces Ángel con Tetras Neón o Guppys?",
                         "answer": "No se recomienda. Aunque los jóvenes nadan en paz con peces pequeños, los adultos desarrollan instintos depredadores y cazarán por la noche a cualquier pez pequeño que quepa en su boca. Combínelos con peces comunitarios de mayor tamaño."
                     }
-                ],
-                "tags": [
-                    "PezAngel",
-                    "Escalare",
-                    "Acuarofilia",
-                    "Ciclidos"
                 ]
             },
             "fr": {
@@ -331,12 +301,6 @@
                         "question": "Puis-je maintenir des Scalaires avec des Tétras Néons ou des Guppys ?",
                         "answer": "Ce n'est pas recommandé. Les jeunes scalaires vivent bien avec de petits poissons, mais les adultes développent leur instinct de chasseur. La nuit, ils mangeront les tétras néons ou guppys qui rentrent dans leur bouche. Associez-les plutôt à des poissons communautaires plus grands."
                     }
-                ],
-                "tags": [
-                    "Scalaire",
-                    "PterophyllumScalare",
-                    "Aquariophilie",
-                    "Cichlides"
                 ]
             },
             "de": {
@@ -387,12 +351,6 @@
                         "question": "Kann ich Skalare zusammen mit Neonsalmlern oder Guppys halten?",
                         "answer": "Nicht zu empfehlen. Junge Skalare schwimmen friedlich mit Kleinfischen, aber ausgewachsene Skalare entwickeln Jagdtriebe. Nachts fressen sie Neons oder Guppys, die ins Maul passen. Vergesellschaften Sie Skalare lieber mit größeren Gemeinschaftsfischen."
                     }
-                ],
-                "tags": [
-                    "Skalar",
-                    "Segelflosser",
-                    "Aquaristik",
-                    "Buntbarsche"
                 ]
             },
             "pt": {
@@ -443,12 +401,6 @@
                         "question": "Posso manter Acarás-Bandeira com Tetras Neon ou Guppies?",
                         "answer": "Não é recomendado. Enquanto jovens vivem bem com peixes pequenos, os acarás adultos desenvolvem instinto predador. À noite, eles caçarão e comerão peixes pequenos que couberem em sua boca. Mantenha-os com peixes comunitários maiores."
                     }
-                ],
-                "tags": [
-                    "AcaraBandeira",
-                    "PeixeAnjo",
-                    "Aquarismo",
-                    "Ciclideos"
                 ]
             },
             "id": {
@@ -499,12 +451,6 @@
                         "question": "Bolehkah Ikan Manvis dicampur dengan Neon Tetra atau Guppy?",
                         "answer": "Sangat tidak disarankan. Saat masih kecil mereka memang berenang damai bersama ikan kecil, tetapi Ikan Manvis dewasa akan mengembangkan naluri pemangsa. Pada malam hari, mereka akan memburu dan memakan ikan kecil yang muat di mulutnya. Campurkan dengan ikan komunitas lain yang berukuran lebih besar."
                     }
-                ],
-                "tags": [
-                    "IkanManvis",
-                    "Angelfish",
-                    "Akuaristik",
-                    "PerawatanCichlid"
                 ]
             }
         },

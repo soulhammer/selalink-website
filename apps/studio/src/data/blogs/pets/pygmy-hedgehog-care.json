@@ -51,12 +51,6 @@
                         "question": "이갈이용 완구는 필요 없나요?",
                         "answer": "고슴도치는 쥐와 달리 평생 이빨이 자라는 동물이 아닙니다. 따라서 이갈이 장난감은 필요 없으며, 딱딱한 것을 갉아 먹으면 이빨이 쉽게 파절되므로 오히려 알갱이가 지나치게 딱딱한 사료는 피해야 합니다."
                     }
-                ],
-                "tags": [
-                    "아프리칸피그미고슴도치",
-                    "안팅거품",
-                    "고슴도치온도조절",
-                    "소동물동면예방"
                 ]
             },
             "en": {
@@ -107,12 +101,6 @@
                         "question": "Do hedgehogs need chew toys for teething?",
                         "answer": "Unlike rodents, hedgehogs do not have continuously growing teeth. They do not need chew toys, and gnawing on hard objects can easily fracture their teeth. Avoid kibble that is excessively hard."
                     }
-                ],
-                "tags": [
-                    "AfricanPygmyHedgehog",
-                    "SelfAnointing",
-                    "HedgehogThermalCare",
-                    "HibernationPrevention"
                 ]
             },
             "ja": {
@@ -163,12 +151,6 @@
                         "question": "かじり木は必要ですか？",
                         "answer": "ハリネズミはげっ歯類とは異なり、生涯歯が伸び続けるわけではありません。そのためかじり木は不要です。むしろ硬いものをかじると歯が折れやすいため、極端に硬いキャットフードなどは避けるべきです。"
                     }
-                ],
-                "tags": [
-                    "ヨツユビハリネ즈ミ",
-                    "アンティング",
-                    "ハリネズミの温度管理",
-                    "冬眠予防"
                 ]
             },
             "zh": {
@@ -219,12 +201,6 @@
                         "question": "刺猬需要磨牙玩具吗？",
                         "answer": "与老鼠不同，刺猬的牙齿不会终生持续生长。因此不需要磨牙玩具。相反，咬硬物容易折断其牙齿，应避免喂食过硬的饲料颗粒。"
                     }
-                ],
-                "tags": [
-                    "非洲迷你刺猬",
-                    "涂刺泡沫",
-                    "刺猬温控",
-                    "预防异宠冬眠"
                 ]
             },
             "es": {
@@ -275,12 +251,6 @@
                         "question": "¿Los erizos necesitan juguetes para masticar?",
                         "answer": "A diferencia de los roedores, los dientes de los erizos no crecen continuamente. No necesitan juguetes para masticar, y los objetos duros pueden fracturar sus dientes. Evite croquetas excesivamente duras."
                     }
-                ],
-                "tags": [
-                    "ErizoPigmeo",
-                    "Autoungimiento",
-                    "TemperaturaDeErizo",
-                    "PrevenciónDeHibernación"
                 ]
             },
             "fr": {
@@ -331,12 +301,6 @@
                         "question": "Les hérissons ont-ils besoin de jouets à ronger ?",
                         "answer": "Contrairement aux rongeurs, les dents des hérissons ne poussent pas continuellement. Ils n'ont pas besoin de jouets à ronger, et les objets durs peuvent fracturer leurs dents. Évitez les croquettes excessivement dures."
                     }
-                ],
-                "tags": [
-                    "HérissonPygmée",
-                    "Autounguement",
-                    "TempératureHérisson",
-                    "PréventionHibernation"
                 ]
             },
             "de": {
@@ -387,12 +351,6 @@
                         "question": "Benötigen Igel Knabberspielzeug?",
                         "answer": "Im Gegensatz zu Nagetieren wachsen die Zähne von Igeln nicht kontinuierlich nach. Sie benötigen keine Nagespielzeuge, und harte Gegenstände können ihre Zähne brechen. Vermeiden Sie übermäßig hartes Trockenfutter."
                     }
-                ],
-                "tags": [
-                    "Weißbauchigel",
-                    "Selbsteinspeicheln",
-                    "Igelwärme",
-                    "Winterschlafprävention"
                 ]
             },
             "pt": {
@@ -443,12 +401,6 @@
                         "question": "Os ouriços necessitam de brinquedos para mastigar?",
                         "answer": "Ao contrário dos roedores, os dentes dos ouriços não crescem continuamente. Não necessitam de brinquedos para mastigar, e os objetos duros podem fraturar os seus dentes. Evite ração excessivamente dura."
                     }
-                ],
-                "tags": [
-                    "OuriçoPigmeu",
-                    "Autoungimento",
-                    "TemperaturaDeOuriço",
-                    "PrevençãoDeHibernação"
                 ]
             },
             "id": {
@@ -499,12 +451,6 @@
                         "question": "Apakah landak mini membutuhkan mainan kunyah?",
                         "answer": "Tidak seperti hewan pengerat, gigi landak mini tidak tumbuh terus-menerus. Mereka tidak membutuhkan mainan kunyah, dan benda keras dapat mematahkan gigi mereka. Hindari kibble yang terlalu keras."
                     }
-                ],
-                "tags": [
-                    "LandakMini",
-                    "PengurapanDiri",
-                    "SuhuLandakMini",
-                    "PencegahanHibernasi"
                 ]
             }
         },

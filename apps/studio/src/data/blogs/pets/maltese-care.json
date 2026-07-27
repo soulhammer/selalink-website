@@ -51,12 +51,6 @@
                         "question": "소파 계단만 있으면 슬개골 탈구를 완전히 예방할 수 있나요?",
                         "answer": "안전 계단은 충격을 줄여주는 좋은 도구이지만, 미끄러운 마룻바닥과 발바닥 털 관리도 중요합니다. 발바닥 패드 사이의 털을 항상 짧게 정리하고 실내 매트를 깔아주는 것이 병행되어야 시너지 효과가 납니다."
                     }
-                ],
-                "tags": [
-                    "말티즈",
-                    "슬개골탈구",
-                    "눈물자국",
-                    "반려견케어"
                 ]
             },
             "en": {
@@ -107,12 +101,6 @@
                         "question": "Can safety stairs completely prevent patellar luxation?",
                         "answer": "While stairs reduce landing impact, slippery floors and overgrown paw fur also play major roles. You must keep paw pad fur trimmed short and lay down non-slip floor mats indoors for optimal prevention."
                     }
-                ],
-                "tags": [
-                    "Maltese",
-                    "PatellarLuxation",
-                    "TearStaining",
-                    "DogCare"
                 ]
             },
             "ja": {
@@ -163,12 +151,6 @@
                         "question": "ソファー用の階段だけで膝蓋骨脱臼を完全に予防できますか？",
                         "answer": "安全な階段は衝撃を減らす良い道具ですが、滑りやすい床と足裏の毛の管理も重要です。足裏の毛を常に短く整え、滑り止めマットを敷く対策を併用することで予防効果が高まります。"
                     }
-                ],
-                "tags": [
-                    "マルチーズ",
-                    "膝蓋骨脱臼",
-                    "涙やけ",
-                    "愛犬ケア"
                 ]
             },
             "zh": {
@@ -219,12 +201,6 @@
                         "question": "仅靠沙发踏步能完全预防膝盖骨脱臼吗？",
                         "answer": "安全踏步是减轻冲击的有效工具，但防滑地面和足底被毛的管理也同样重要。必须保持足底肉垫处的毛发修剪整齐，并铺设室内防滑垫，双管齐下才能发挥最佳效果。"
                     }
-                ],
-                "tags": [
-                    "马尔济斯犬",
-                    "髌骨脱位",
-                    "泪痕护理",
-                    "犬类护理"
                 ]
             },
             "es": {
@@ -275,12 +251,6 @@
                         "question": "¿Las escaleras de seguridad previenen la luxación patelar por completo?",
                         "answer": "Aunque las escaleras reducen el impacto del salto, los suelos resbaladizos y el pelo largo de las patas influyen mucho. Se deben recortar los pelos de las almohadillas y usar alfombras antideslizantes de forma conjunta."
                     }
-                ],
-                "tags": [
-                    "Maltés",
-                    "LuxaciónPatelar",
-                    "ManchasDeLágrimas",
-                    "CuidadoDePerros"
                 ]
             },
             "fr": {
@@ -331,12 +301,6 @@
                         "question": "Les escaliers de sécurité empêchent-ils complètement la luxation rotulienne ?",
                         "answer": "Bien que les escaliers réduisent l'impact, les sols glissants et les poils des pattes jouent un rôle majeur. Il faut couper les poils des coussinets et poser des tapis antidérapants conjointement."
                     }
-                ],
-                "tags": [
-                    "BichonMaltais",
-                    "LuxationDeLaRotule",
-                    "TachesDeLarmes",
-                    "SoinsDesChiens"
                 ]
             },
             "de": {
@@ -387,12 +351,6 @@
                         "question": "Können Sicherheitstreppen eine Patellaluxation vollständig verhindern?",
                         "answer": "Treppen reduzieren zwar die Stoßbelastung, aber rutschige Böden und langes Pfotenfell spielen ebenfalls eine Rolle. Das Kürzen des Pfotenfells und das Auslegen von Antirutschmatten sind notwendig."
                     }
-                ],
-                "tags": [
-                    "Malteser",
-                    "Patellaluxation",
-                    "Tränenflecken",
-                    "Hundepflege"
                 ]
             },
             "pt": {
@@ -443,12 +401,6 @@
                         "question": "As escadas de segurança previnem a luxação patelar completamente?",
                         "answer": "Embora as escadas reduzam o impacto, os pisos escorregadios e o pelo comprido das patas também influenciam. Deve-se aparar os pelos das almofadas e usar tapetes antiderrapantes de forma conjunta."
                     }
-                ],
-                "tags": [
-                    "Maltês",
-                    "LuxaçãoPatelar",
-                    "ManchasDeLágrimas",
-                    "CuidadoDeCães"
                 ]
             },
             "id": {
@@ -499,12 +451,6 @@
                         "question": "Apakah tangga pengaman dapat mencegah luksasi patela sepenuhnya?",
                         "answer": "Meskipun tangga mengurangi benturan, lantai yang licin dan bulu kaki yang panjang juga berperan penting. Anda harus menjaga bulu cakar tetap pendek dan memasang keset antislip secara bersamaan."
                     }
-                ],
-                "tags": [
-                    "Maltese",
-                    "LuksasiPatela",
-                    "NodaAirMata",
-                    "PerawatanAnjing"
                 ]
             }
         },

@@ -51,12 +51,6 @@
                         "question": "식사 후 급성 위꼬임(GDV)과 관절 질환(HD/ED)을 예방하려면 어떻게 해야 하나요?",
                         "answer": "위확장-꼬임(GDV) 방지를 위해서는 식사를 하루 2~3회 나누어 급여하고, 식후 최소 1시간 동안 완전한 휴식이 필수입니다. 고관절 및 주관절 이형성증(HD/ED) 예방을 위해서는 성장기 과도한 체중 증가를 막고, 미끄러운 바닥 노출과 고강도 점프를 피해야 합니다."
                     }
-                ],
-                "tags": [
-                    "버니즈마운틴독",
-                    "대형견케어",
-                    "위꼬임예방",
-                    "강아지암예방"
                 ]
             },
             "en": {
@@ -107,12 +101,6 @@
                         "question": "How can I prevent Gastric Dilatation-Volvulus (GDV) and joint dysplasia (HD/ED) in my Berner?",
                         "answer": "To prevent GDV (Bloat), divide daily food into 2 or 3 smaller meals and mandate at least 1 hour of complete rest after eating. To protect joints from Hip and Elbow Dysplasia (HD/ED), strictly manage growth-phase weight, avoid slippery flooring, and limit high-impact jumping."
                     }
-                ],
-                "tags": [
-                    "BerneseMountainDog",
-                    "LargeDogCare",
-                    "GDVBloatPrevention",
-                    "BernerCancerScreening"
                 ]
             },
             "ja": {
@@ -163,12 +151,6 @@
                         "question": "食後の胃拡張捻転(GDV)と関節疾患(HD/ED)を防ぐにはどうすればよいですか？",
                         "answer": "胃捻転（GDV）防止にはフードを1日2〜3回に分けて与え、食後1時間の完全安静が必須です。股関節・肘関節形成不全（HD/ED）予防には成長期の過度な体重増加を防ぎ、滑りやすい床での生活や高所からのジャンプを避けさせることが重要です。"
                     }
-                ],
-                "tags": [
-                    "バーニーズマウンテンドッグ",
-                    "超大型犬ケア",
-                    "胃捻転予防",
-                    "犬のがん予防"
                 ]
             },
             "zh": {
@@ -219,12 +201,6 @@
                         "question": "如何预防急性胃扭转 (GDV) 与关节发育不良 (HD/ED)？",
                         "answer": "预防胃扭转（GDV）需分餐饲喂（每日 2~3 餐），并在饭后保持至少 1 小时完全休息。预防髋/肘关节发育不良（HD/ED）需控制生长期体重过快增长，避免在滑溜地面运动及高强度跳跃。"
                     }
-                ],
-                "tags": [
-                    "伯恩山犬",
-                    "大型犬护理",
-                    "胃扭转预防",
-                    "狗狗癌症筛查"
                 ]
             },
             "es": {
@@ -275,12 +251,6 @@
                         "question": "¿Cómo puedo prevenir la Torsión Gástrica (GDV) y las displasias articulares (HD/ED)?",
                         "answer": "Para prevenir la GDV (Torsión Gástrica), divida la comida en 2 o 3 raciones y exija 1 hora de reposo tras comer. Para la Displasia de Cadera y Codo (HD/ED), controle el peso en la fase de crecimiento, evite suelos resbaladizos y elimine saltos de alto impacto."
                     }
-                ],
-                "tags": [
-                    "BoyeroDeBerna",
-                    "CuidadoDePerrosGrandes",
-                    "PrevencionTorsionGastrica",
-                    "CancerCaninoBerner"
                 ]
             },
             "fr": {
@@ -331,12 +301,6 @@
                         "question": "Comment prévenir la Torsion d'Estomac (GDV) et les dysplasies (HD/ED) chez le Bouvier Bernois ?",
                         "answer": "Pour prévenir la Torsion d'Estomac (GDV), fractionnez la ration en 2 ou 3 repas et observez 1 heure de repos strict après manger. Pour la Dysplasie de la Hanche et du Coude (HD/ED), contrôlez strictement le poids pendant la croissance, évitez les sols glissants et bannissez les sauts violents."
                     }
-                ],
-                "tags": [
-                    "BouvierBernois",
-                    "SoinGrandChien",
-                    "PreventionTorsionEstomac",
-                    "CancerChienBernois"
                 ]
             },
             "de": {
@@ -387,12 +351,6 @@
                         "question": "Wie beuge ich Magendrehung (GDV) und Gelenkproblemen (HD/ED) wirksam vor?",
                         "answer": "Zur Magendrehung-Prophylaxe (GDV) füttern Sie 2–3 kleinere Mahlzeiten täglich und halten 1 Stunde Ruhe ein. Zur Vorbeugung von Hüft- und Ellbogendysplasie (HD/ED) vermeiden Sie Übergewicht im Wachstum, rutschige Böden und Sprünge aus großer Höhe."
                     }
-                ],
-                "tags": [
-                    "BernerSennenhund",
-                    "GrosseHundePflege",
-                    "MagendrehungProphylaxe",
-                    "BernerKrebsvorsorge"
                 ]
             },
             "pt": {
@@ -443,12 +401,6 @@
                         "question": "Como posso prevenir a Torção Gástrica (GDV) e as displasias (HD/ED)?",
                         "answer": "Para prevenir a Torção Gástrica (GDV), divida a comida em 2 ou 3 porções e garanta 1 hora de repouso após comer. Para prevenir Displasia de Quadril e Cotovelo (HD/ED), evite o excesso de peso no crescimento, pisos escorregadios e saltos de alto impacto."
                     }
-                ],
-                "tags": [
-                    "BouvierBernes",
-                    "CuidadosComCaesGrandes",
-                    "PrevencaoTorcaoGastrica",
-                    "CancerCaninoBernes"
                 ]
             },
             "id": {
@@ -499,12 +451,6 @@
                         "question": "Bagaimana cara mencegah Torsi Lambung (GDV) dan displasia sendi (HD/ED)?",
                         "answer": "Untuk mencegah GDV (kembung/torsi lambung), bagi makanan menjadi 2–3 porsi kecil sehari dan pastikan istirahat total 1 jam setelah makan. Untuk mencegah Displasia Pinggul dan Siku (HD/ED), kontrol berat badan saat masa pertumbuhan, hindari lantai licin, dan batasi lompatan berlebih."
                     }
-                ],
-                "tags": [
-                    "BerneseMountainDog",
-                    "PerawatanAnjingBesar",
-                    "PencegahanTorsiLambung",
-                    "SkriningKankerAnjing"
                 ]
             }
         },

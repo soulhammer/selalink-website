@@ -51,12 +51,6 @@
                         "question": "퀘이커 앵무의 심한 '새장 영역 집착(Cage Aggression)'은 어떻게 교정하나요?",
                         "answer": "퀘이커는 야생에서 거대한 나뭇가지 둥지를 짓고 사는 유일한 앵무새로, 새장을 자신의 요새이자 보금자리로 강하게 인식합니다. 새장 안으로 손을 넣어 억지로 꺼내려 하면 입질이 심해지므로, 새장 문을 열어둔 뒤 밖의 전용 쉼터(T포치)로 스스로 나올 때까지 기다렸다가 손 위에 올리는 훈련을 해야 합니다."
                     }
-                ],
-                "tags": [
-                    "퀘이커앵무",
-                    "앵무새케어",
-                    "앵무새지방간예방",
-                    "새장영역집착"
                 ]
             },
             "en": {
@@ -107,12 +101,6 @@
                         "question": "How do I manage my Quaker's severe 'Cage Aggression'?",
                         "answer": "Quakers are the only parrot species that construct large stick nests in nature, causing them to view their cage as an impenetrable fortress. Reaching into the cage triggers intense territorial biting. To correct this, open the cage door and allow the bird to emerge on its own onto a neutral stand before interacting."
                     }
-                ],
-                "tags": [
-                    "QuakerParrot",
-                    "MonkParakeet",
-                    "AvianFattyLiverPrevention",
-                    "CageAggressionCare"
                 ]
             },
             "ja": {
@@ -163,12 +151,6 @@
                         "question": "オキナインコの激しい「ケージ攻撃性（Cage Aggression）」はどう改善すればいいですか？",
                         "answer": "オキナインコは野生下で巨大な巣を作る唯一の種であり、ケージを自分の要塞と認識します。ケージ内に手を入れて無理に出そうとすると強く噛みつくため、ケージの扉を開けておき、外のスタンド（Tパーチ）へ自発的に出てきてから手乗りのコミュニケーションを行うのが鉄則です。"
                     }
-                ],
-                "tags": [
-                    "オキナインコ",
-                    "インコケア",
-                    "インコ脂肪肝予防",
-                    "ケージ縄張り対策"
                 ]
             },
             "zh": {
@@ -219,12 +201,6 @@
                         "question": "和尚鹦鹉严重“护笼 (Cage Aggression)”攻击手应该如何纠正？",
                         "answer": "和尚鹦鹉是野外唯一会搭建大型树枝巢穴的鹦鹉，因此会将鸟笼视为不可侵犯的要塞。伸手入笼抓取会剧烈加重其护巢攻击。正确的做法是打开笼门，诱导其自行爬出至外部 T 型站架上，离开领地范围后再进行上手互动。"
                     }
-                ],
-                "tags": [
-                    "和尚鹦鹉",
-                    "奎克鹦鹉",
-                    "鹦鹉脂肪肝预防",
-                    "和尚护笼纠正"
                 ]
             },
             "es": {
@@ -275,12 +251,6 @@
                         "question": "¿Cómo puedo corregir la agresividad territorial por la jaula (Cage Aggression)?",
                         "answer": "Las cotorras son la única especie de loro que construye estructuras de nido con palos en libertad, por lo que ven su jaula como su fortaleza. Meter la mano a la fuerza genera mordiscos defensivos. La solución es abrir la puerta y permitir que salga sola a una percha externa (T-perch) antes de subirla a la mano."
                     }
-                ],
-                "tags": [
-                    "CotorraArgentina",
-                    "CotorraCotorra",
-                    "PrevencionHigadoGrasoLoros",
-                    "AgresividadJaulaLoro"
                 ]
             },
             "fr": {
@@ -331,12 +301,6 @@
                         "question": "Comment corriger la forte 'Agressivité de cage' chez le Conure Veuve ?",
                         "answer": "Le Conure Veuve est le seul perroquet à construire des nids de branches dans la nature, considérant sa cage comme une forteresse. Mettre la main à l'intérieur provoque des morsures défensives. Pour y remédier, ouvrez la porte et laissez l'oiseau sortir de lui-même sur un perchoir T-bar avant de le prendre sur la main."
                     }
-                ],
-                "tags": [
-                    "ConureVeuve",
-                    "PerrucheSouris",
-                    "PreventionFoieGrasOiseaux",
-                    "AgressiviteCagePerroquet"
                 ]
             },
             "de": {
@@ -387,12 +351,6 @@
                         "question": "Wie gewöhne ich meinem Mönchsittich die schwere 'Käfigaggression (Cage Aggression)' ab?",
                         "answer": "Mönchsittiche bauen als einzige Papageien Riesennester aus Zweigen und betrachten ihren Käfig als Festung. Wer mit der Hand hineingreift, wird gebissen. Lassen Sie stattdessen die Käfigtür offen und warten Sie, bis der Vogel von selbst auf einen externen T-Freisitz klettert, bevor Sie ihn auf die Hand nehmen."
                     }
-                ],
-                "tags": [
-                    "Moenchsittich",
-                    "QuakerParrot",
-                    "FettleberProphylaxeVogel",
-                    "KaesigAggression"
                 ]
             },
             "pt": {
@@ -443,12 +401,6 @@
                         "question": "Como posso corrigir a 'Agressividade de Gaiola (Cage Aggression)' do meu Caturrita?",
                         "answer": "Os Caturritas são a única espécie de papagaio que constrói ninhos de galhos na natureza, vendo a gaiola como sua fortaleza. Colocar a mão dentro gera bicadas defensivas. A solução é abrir a gaiola e permitir que a ave saia sozinha para um poleiro externo antes de interagir."
                     }
-                ],
-                "tags": [
-                    "Caturrita",
-                    "PeriquitoMonge",
-                    "PrevencaoGorduraNoFigadoAves",
-                    "AgressividadeGaiolaAves"
                 ]
             },
             "id": {
@@ -499,12 +451,6 @@
                         "question": "Bagaimana cara mengatasi sifat 'Agresif Sangkar (Cage Aggression)' pada Parkit Quaker?",
                         "answer": "Parkit Quaker adalah satu-satunya burung paruh bengkok yang membuat sarang ranting di alam liar, sehingga menganggap sangkar sebagai bentengnya. Memasukkan tangan secara paksa memicu gigitan bertahan. Solusinya adalah membuka pintu sangkar dan membiarkan burung keluar sendiri ke bertenggeran T-bar sebelum diajak berinteraksi."
                     }
-                ],
-                "tags": [
-                    "ParkitQuaker",
-                    "MonkParakeet",
-                    "PencegahanHatiBerlemakBurung",
-                    "AgresifSangkarBurung"
                 ]
             }
         },

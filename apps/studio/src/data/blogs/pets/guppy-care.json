@@ -51,12 +51,6 @@
                         "question": "암컷 구피가 임신해서 출산할 때가 되었는지 어떻게 알 수 있나요?",
                         "answer": "배 모양이 둥근 모양에서 ㄴ자(네모난 모양)로 변하고, 항문 근처 산란관 부위가 검고 툭 튀어나옵니다. 또한 구석에 머물거나 수조 벽을 위아래로 탔다 내리는 행동을 보이면 부하통으로 옮겨주어야 합니다."
                     }
-                ],
-                "tags": [
-                    "구피",
-                    "열대어케어",
-                    "수질관리",
-                    "난태생"
                 ]
             },
             "en": {
@@ -107,12 +101,6 @@
                         "question": "How can I tell if a female guppy is about to give birth?",
                         "answer": "Her belly will flatten into a 'square' or L-shape, and the gravid spot near her anal fin will darken significantly. If she hides in corners or paces up and down the tank walls, move her to a breeding box to protect the fry."
                     }
-                ],
-                "tags": [
-                    "Guppy",
-                    "TropicalFishCare",
-                    "WaterQuality",
-                    "Livebearer"
                 ]
             },
             "ja": {
@@ -163,12 +151,6 @@
                         "question": "メスのグッピーが妊娠して出産間近かどうかはどうすれば分かりますか？",
                         "answer": "お腹の形が丸型から「L字型（四角い形）」に変化し、お尻付近の妊娠斑（Gravid spot）が黒く突起してきます。また、隅に留まったり水槽のガラス面を上下に往復する行動を見せたら産卵箱（隔離箱）へ移動させてください。"
                     }
-                ],
-                "tags": [
-                    "グッピー",
-                    "熱帯魚ケア",
-                    "水質管理",
-                    "卵胎生"
                 ]
             },
             "zh": {
@@ -219,12 +201,6 @@
                         "question": "如何判断母孔雀鱼是否即将生产？",
                         "answer": "母鱼的腹部会由圆润变为“方形（呈现L型）”，胎斑（靠近臀鳍处）显著变黑并凸出。若出现躲在角落或贴着缸壁上下频繁游动的行为，应及时隔离至繁殖盒中。"
                     }
-                ],
-                "tags": [
-                    "孔雀鱼",
-                    "热带鱼护理",
-                    "水质管理",
-                    "卵胎生"
                 ]
             },
             "es": {
@@ -275,12 +251,6 @@
                         "question": "¿Cómo saber si una hembra guppy está a punto de parir?",
                         "answer": "Su vientre tomará una forma 'cuadrada' en L y la mancha de gravidez cerca de la aleta anal se oscurecerá y sobresaldrá. Si se esconde en esquinas o nada de arriba abajo por los cristales, trasládela a una paridera para proteger a los alevines."
                     }
-                ],
-                "tags": [
-                    "Guppy",
-                    "Acuarofilia",
-                    "CalidadDelAgua",
-                    "Ovoviviparo"
                 ]
             },
             "fr": {
@@ -331,12 +301,6 @@
                         "question": "Comment savoir si une femelle guppy est sur le point d'accoucher ?",
                         "answer": "Son ventre prend une forme carrée (en L) et la tâche de gestation près de la nageoire anale devient très sombre et saillante. Si elle s'isole ou nage de bas en haut le long des vitres, isolez-la dans un pondeoir pour protéger les alevins."
                     }
-                ],
-                "tags": [
-                    "Guppy",
-                    "Aquariophilie",
-                    "QualiteDeLEau",
-                    "Ovovivipare"
                 ]
             },
             "de": {
@@ -387,12 +351,6 @@
                         "question": "Woran erkenne ich, dass ein Guppy-Weibchen kurz vor dem Werfen steht?",
                         "answer": "Der Bauch verformt sich 'eckig' (L-Form) und der Trächtigkeitsfleck nahe der Afterflosse wird sehr dunkel und tritt hervor. Verharrt sie in Ecken oder schwimmt an den Scheiben auf und ab, sollte sie in einen Laichkasten umgesetzt werden."
                     }
-                ],
-                "tags": [
-                    "Guppy",
-                    "Aquaristik",
-                    "Wasserqualität",
-                    "Lebendgebärend"
                 ]
             },
             "pt": {
@@ -443,12 +401,6 @@
                         "question": "Como saber se uma fêmea de guppy está prestes a dar à luz?",
                         "answer": "O ventre ficará com formato 'quadrado' em L e a mancha de gravidez perto da nadadeira anal ficará muito escura e saliente. Se ela se isolar em cantos ou nadar para cima e para baixo nos vidros, transfira-a para uma maternidade."
                     }
-                ],
-                "tags": [
-                    "Guppy",
-                    "Aquarismo",
-                    "QualidadeDaAgua",
-                    "Ovoviviparo"
                 ]
             },
             "id": {
@@ -499,12 +451,6 @@
                         "question": "Bagaimana cara mengetahui jika guppy betina akan segera melahirkan?",
                         "answer": "Perutnya akan berbentuk agak 'kotak' (berbentuk L) dan bercak kehamilan (gravid spot) dekat sirip anal akan sangat gelap dan menonjol. Jika ia bersembunyi di sudut atau berenang naik-turun di kaca, segera pindahkan ke tempat pemijahan (breeding box) untuk melindungi burayak."
                     }
-                ],
-                "tags": [
-                    "Guppy",
-                    "Akuaristik",
-                    "KualitasAir",
-                    "Livebearer"
                 ]
             }
         },

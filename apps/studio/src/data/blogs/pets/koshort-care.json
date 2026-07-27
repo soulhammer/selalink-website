@@ -51,12 +51,6 @@
                         "question": "What is the best way to prevent feline cystitis?",
                         "answer": "The key is increasing hydration. Place multiple water bowls away from food, and utilize fountain drinking systems to appeal to their preference for running water."
                     }
-                ],
-                "tags": [
-                    "KoreanShorthair",
-                    "FLUTD",
-                    "HydrationCare",
-                    "CatCare"
                 ]
             },
             "ja": {
@@ -107,12 +101,6 @@
                         "question": "猫の膀胱炎を予防する最良の方法は何ですか？",
                         "answer": "予防の鍵は飲水量を増やすことです。フード皿から離れた場所に水飲み場を複数設置し、流れる水（給水器）を好む猫の性質を活かすのが効果的です。"
                     }
-                ],
-                "tags": [
-                    "コリアンショートヘア",
-                    "特発性膀胱炎",
-                    "飲水量ケア",
-                    "猫のケア"
                 ]
             },
             "zh": {
@@ -163,12 +151,6 @@
                         "question": "预防猫膀胱炎最有效的方法是什么？",
                         "answer": "预防的关键在于增加饮水量。将水碗放置在远离猫粮盆的多个地方，并利用猫咪偏爱流动水源的特性使用分水式猫咪饮水机。"
                     }
-                ],
-                "tags": [
-                    "中华田园猫",
-                    "下泌尿道疾病",
-                    "饮水护理",
-                    "猫咪护理"
                 ]
             },
             "es": {
@@ -219,12 +201,6 @@
                         "question": "¿Cuál es la mejor manera de prevenir la cistitis felina?",
                         "answer": "La clave es aumentar la hidratación. Coloque varios tazones de agua lejos de la comida y use fuentes de agua corriente."
                     }
-                ],
-                "tags": [
-                    "ShorthairCoreano",
-                    "FLUTD",
-                    "CuidadoDeHidratación",
-                    "CuidadoDeGatos"
                 ]
             },
             "fr": {
@@ -275,12 +251,6 @@
                         "question": "Quelle est la meilleure façon de prévenir la cystite féline ?",
                         "answer": "La clé est d'augmenter l'hydratation. Placez plusieurs bols d'eau loin de la nourriture et utilisez des fontaines à eau courante."
                     }
-                ],
-                "tags": [
-                    "ShorthairCoréen",
-                    "MBAUF",
-                    "SoinsHydratation",
-                    "SoinsDesChats"
                 ]
             },
             "de": {
@@ -331,12 +301,6 @@
                         "question": "Wie beugt man einer Blasenentzündung bei Katzen am besten vor?",
                         "answer": "Der Schlüssel liegt in der Erhöhung der Flüssigkeitszufuhr. Stellen Sie mehrere Wasserschalen abseits des Futters auf und nutzen Sie Trinkbrunnen."
                     }
-                ],
-                "tags": [
-                    "KoreanischKurzhaar",
-                    "FLUTD",
-                    "Trinkwasserpflege",
-                    "Katzenpflege"
                 ]
             },
             "pt": {
@@ -387,12 +351,6 @@
                         "question": "Qual é a melhor maneira de prevenir a cistite felina?",
                         "answer": "A chave é aumentar a hidratação. Coloque várias tigelas de água longe da comida e use fontes de água corrente."
                     }
-                ],
-                "tags": [
-                    "ShorthairCoreano",
-                    "FLUTD",
-                    "CuidadoDeHidratação",
-                    "CuidadoDeGatos"
                 ]
             },
             "id": {
@@ -443,12 +401,6 @@
                         "question": "Bagaimana cara terbaik untuk mencegah sistitis pada kucing?",
                         "answer": "Kuncinya adalah meningkatkan hidrasi. Letakkan beberapa wadah air jauh dari makanan, dan gunakan sistem air mancur."
                     }
-                ],
-                "tags": [
-                    "KoreanShorthair",
-                    "FLUTD",
-                    "PerawatanHidrasi",
-                    "PerawatanKucing"
                 ]
             },
             "ko": {
@@ -499,12 +451,6 @@
                         "question": "고양이 방광염을 예방하는 가장 좋은 방법은 무엇인가요?",
                         "answer": "방광염 예방의 핵심은 음수량 증대입니다. 밥그릇과 떨어진 곳에 물그릇을 여러 개 배치하고, 흐르는 물(분수 정수기)을 선호하는 고양이의 성향을 활용해야 합니다."
                     }
-                ],
-                "tags": [
-                    "코리안숏헤어",
-                    "특발성방광염",
-                    "음수량케어",
-                    "반려묘케어"
                 ]
             }
         },

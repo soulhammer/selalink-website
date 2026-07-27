@@ -51,12 +51,6 @@
                         "question": "저빌에게 물목욕을 시키면 왜 위험하며, 한 마리만 외롭게 키워도 되나요?",
                         "answer": "저빌은 사막 환경 출신으로 털이 젖으면 잘 마르지 않아 급격한 체온 저하로 인한 저체온증과 폐렴으로 사망할 수 있어 물목욕은 절대 금물입니다. 대신 햄스터/저빌 전용 사막모래를 사용해야 합니다. 또한 저빌은 지극히 사회적인 동물로 혼자 키우면 외로움과 우울증, 자해 행동을 보이므로 반드시 동성 2마리 이상 함께 사육해야 합니다."
                     }
-                ],
-                "tags": [
-                    "몽골리안저빌",
-                    "소형동물케어",
-                    "저빌꼬리손상예방",
-                    "사막모래목욕"
                 ]
             },
             "en": {
@@ -107,12 +101,6 @@
                         "question": "Why are water baths dangerous for gerbils, and can I keep a single gerbil alone?",
                         "answer": "Water baths are strictly forbidden because gerbil fur retains water, causing rapid hypothermia and fatal pneumonia. Always provide dedicated desert sand baths for hygiene. Furthermore, gerbils are obligate social animals; single gerbils suffer severe psychological depression, stress-induced seizures, and weakened immunity. They must be kept in same-sex bonded pairs or small groups."
                     }
-                ],
-                "tags": [
-                    "MongolianGerbil",
-                    "SmallPetCare",
-                    "TailDeglovingPrevention",
-                    "GerbilSandBath"
                 ]
             },
             "ja": {
@@ -163,12 +151,6 @@
                         "question": "スナネズミに水浴びをさせてはいけない理由と、1匹だけで飼育してはいけない理由は？",
                         "answer": "乾燥地帯原産のため毛が濡れると乾きにくく、急激な体温低下による低体温症や肺炎で死亡するため水浴びは絶対厳禁です。お手入れには必ず小動物用の浴び砂を使用してください。また、スナネズミは非常に高い社会性を持つため、1匹だけの単頭飼育は重度の鬱やストレス性発作を引き起こします。必ず同性のペアまたはグループで飼育してください。"
                     }
-                ],
-                "tags": [
-                    "スナネズミ",
-                    "モンゴリアンジャービル",
-                    "小動物ケア",
-                    "尾の事故防止"
                 ]
             },
             "zh": {
@@ -219,12 +201,6 @@
                         "question": "为什么绝对不能给沙鼠水洗？可以只养一只沙鼠吗？",
                         "answer": "沙鼠源自干旱沙漠，被毛沾水后难以干透，极易引发严重失温与致死性肺炎，因此绝对禁止水洗，必须使用专用沙漠浴沙。此外，沙鼠是强社群性动物，单只独居会导致剧烈的心理抑郁、免疫力崩溃及应激性发作，必须同性成对或成群饲养。"
                     }
-                ],
-                "tags": [
-                    "蒙古沙鼠",
-                    "长爪沙鼠",
-                    "小宠护理",
-                    "沙鼠尾部损伤预防"
                 ]
             },
             "es": {
@@ -275,12 +251,6 @@
                         "question": "¿Por qué los baños de agua son peligrosos y por qué no se debe tener un gerbo solo?",
                         "answer": "Los baños de agua están prohibidos porque el pelo del gerbo retiene la humedad, provocando hipotermia y neumonía letal; use siempre arena de desierto. Además, los gerbos son animales gregarios obligatorios; un gerbo en soledad padece depresión severa, convulsiones inducidas por estrés y baja inmunidad. Deben vivir en parejas o grupos del mismo sexo."
                     }
-                ],
-                "tags": [
-                    "GerboDeMongolia",
-                    "CuidadoDePequeñosAnimales",
-                    "PrevencionLesionColaGerbo",
-                    "BanoDeArenaGerbo"
                 ]
             },
             "fr": {
@@ -331,12 +301,6 @@
                         "question": "Pourquoi le bain d'eau est-il dangereux et pourquoi faut-il éviter d'élever une gerbille seule ?",
                         "answer": "Les bains d'eau sont interdits car le pelage de la gerbille retient l'eau, entraînant une hypothermie rapide et une pneumonie mortelle ; utilisez uniquement de la terre à bain. De plus, les gerbilles sont obligatoirement sociales : une gerbille seule souffre de dépression sévère et de crises de spasmes de stress. Élevez-les toujours en duos ou groupes du même sexe."
                     }
-                ],
-                "tags": [
-                    "GerbilleDeMongolie",
-                    "SoinNACSoinSante",
-                    "PreventionBlessureQueue",
-                    "BainDeSableGerbille"
                 ]
             },
             "de": {
@@ -387,12 +351,6 @@
                         "question": "Warum ist ein Wasserbad gefährlich und warum darf man Rennmäuse nicht alleine halten?",
                         "answer": "Wasserbäder sind verboten, da das dichte Fell der Rennmaus die Nässe hält und dies zu tödlicher Unterkühlung und Lungenentzündung führt; nutzen Sie nur Chinchillasand. Rennmäuse sind zudem Rudeltiere: Einzelhaltung führt zu Depressionen, Stresskrämpfen und Immunsystemzusammenbruch. Halten Sie sie immer mindestens als gleichgeschlechtliches Paar."
                     }
-                ],
-                "tags": [
-                    "MongolischeRennmaus",
-                    "Kleintierpflege",
-                    "SchwanzverletzungRennmaus",
-                    "RennmausSandbad"
                 ]
             },
             "pt": {
@@ -443,12 +401,6 @@
                         "question": "Por que banhos de água são perigosos e por que não se deve criar um gerbil sozinho?",
                         "answer": "Banhos de água são proibidos porque a pelagem do gerbil retém umidade, levando à hipotermia e pneumonia fatal; use apenas areia de deserto. Além disso, gerbils são animais sociais obrigatórios: um gerbil sozinho sofre de depressão profunda, convulsões por estresse e queda de imunidade. Mantenha-os sempre em duplas ou grupos do mesmo sexo."
                     }
-                ],
-                "tags": [
-                    "GerbilDaMongolia",
-                    "EsquiloDaMongolia",
-                    "CuidadosComPequenosAnimais",
-                    "BanhoDeAreiaGerbil"
                 ]
             },
             "id": {
@@ -499,12 +451,6 @@
                         "question": "Mengapa mandi air sangat berbahaya bagi gerbil dan bolehkah memelihara satu ekor gerbil saja?",
                         "answer": "Mandi air sangat dilarang karena bulu gerbil menahan air sehingga memicu hipotermia cepat dan pneumonia mematikan; gunakan selalu pasir khusus gurun. Selain itu, gerbil adalah hewan sosial wajib. Gerbil yang dipelihara sendirian akan menderita depresi berat, kejang stres, dan penurunan imunitas. Selalu pelihara berpasangan sesama jenis atau kelompok."
                     }
-                ],
-                "tags": [
-                    "GerbilMongolia",
-                    "PerawatanHewanKecil",
-                    "PencegahanCederaEkorGerbil",
-                    "MandiPasirGerbil"
                 ]
             }
         },

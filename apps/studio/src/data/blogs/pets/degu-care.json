@@ -51,12 +51,6 @@
                         "question": "데구의 꼬리를 실수로 잡았는데 피가 나고 가죽이 벗겨졌어요. 어떻게 하나요?",
                         "answer": "데구는 포식자에게 잡혔을 때 꼬리 가죽이 벗겨지며 탈출하는 '디글로빙(Degloving)' 생체 방어 기전을 가지고 있습니다. 벗겨진 꼬리 가죽은 다시 재생되지 않고 괴사하여 수의사의 절단 수술이 필요하므로 절대로 꼬리를 잡으면 안 됩니다. 즉시 소동물 전문 병원에 내원하여 치료받아야 합니다."
                     }
-                ],
-                "tags": [
-                    "데구",
-                    "소동물케어",
-                    "데구당뇨예방",
-                    "모래목욕"
                 ]
             },
             "en": {
@@ -107,12 +101,6 @@
                         "question": "I accidentally pulled my degu's tail and the skin stripped off. What should I do?",
                         "answer": "This is a natural antipredator defense mechanism called 'Degloving'. The stripped tail sheath cannot regenerate and will necrose, requiring prompt surgical amputation by an exotic veterinarian. Never grab a degu by its tail; seek immediate veterinary medical care."
                     }
-                ],
-                "tags": [
-                    "DeguCare",
-                    "SmallAnimalCare",
-                    "DeguDiabetesPrevention",
-                    "DustBath"
                 ]
             },
             "ja": {
@@ -163,12 +151,6 @@
                         "question": "デグーの尾をうっかり掴んでしまい、皮が剥がれて血が出ました。どうすればいいですか？",
                         "answer": "デグーには捕食者に捕まった際、尾の皮膚が脱げ落ちて逃げる「ディグロービング（Degloving）」という防衛本能があります。剥がれた皮は再生せず壊死するため、エキゾチックアニマル専門医による切断手術が必要です。絶対に尾を掴まず、至急病院で適切な治療を受けてください。"
                     }
-                ],
-                "tags": [
-                    "デグー",
-                    "小動物ケア",
-                    "デグー糖尿病予防",
-                    "砂浴び"
                 ]
             },
             "zh": {
@@ -219,12 +201,6 @@
                         "question": "不小心拉拽了智利八齿鼠的尾巴导致皮肤脱落流血，该怎么办？",
                         "answer": "这是八齿鼠在野外逃避捕食者时的生物防御机制“尾部脱套伤 (Degloving)”。脱落的尾皮无法再生并会坏死，需要异宠兽医进行截尾手术。绝对不能抓拽其尾巴，应立即送往专业异宠医院救治。"
                     }
-                ],
-                "tags": [
-                    "智利八齿鼠",
-                    "小宠护理",
-                    "八齿鼠糖尿病预防",
-                    "沙浴护理"
                 ]
             },
             "es": {
@@ -275,12 +251,6 @@
                         "question": "Agarré a mi degú por la cola sin querer y se le desprendió la piel. ¿Qué hago?",
                         "answer": "Es un mecanismo defensivo antipredador llamado 'Desprendimiento de piel (Degloving)'. La piel desprendida no se regenera y la zona sufrirá necrosis, requiriendo la amputación quirúrgica por un veterinario de exóticos. Jamás lo sujete por la cola y acuda de inmediato a urgencias veterinarias."
                     }
-                ],
-                "tags": [
-                    "Degu",
-                    "CuidadoDePequenosAnimales",
-                    "PrevencionDiabetesDegu",
-                    "BanoDeArena"
                 ]
             },
             "fr": {
@@ -331,12 +301,6 @@
                         "question": "J'ai attrapé mon octodon par la queue et la peau s'est arrachée. Que faire ?",
                         "answer": "Il s'agit d'un mécanisme de défense antiprédateur appelé 'Dépouillement (Degloving)'. La peau arrachée ne repoussera jamais et la queue va nécroser, nécessitant une amputation chirurgicale par un vétérinaire NAC. Ne saisissez jamais un octodon par la queue et consultez en urgence."
                     }
-                ],
-                "tags": [
-                    "Octodon",
-                    "DegueDuChili",
-                    "SoinDesNouveauxAnimauxDeCompagnie",
-                    "PreventionDiabeteOctodon"
                 ]
             },
             "de": {
@@ -387,12 +351,6 @@
                         "question": "Ich habe meinen Degu aus Versehen am Schwanz gegriffen und die Haut ist abgerissen. Was tun?",
                         "answer": "Das ist ein Schutzreflex gegen Fressfeinde namens 'Degloving'. Die abgerissene Schwanzhaut regeneriert nicht mehr und stirbt ab, weshalb eine chirurgische Amputation durch einen reptilien-/kleinsäugerkundigen Tierarzt nötig ist. Fassen Sie den Degu niemals am Schwanz und suchen Sie sofort eine Tierklinik auf."
                     }
-                ],
-                "tags": [
-                    "Degu",
-                    "Kleintierpflege",
-                    "DeguDiabetesProphylaxe",
-                    "Sandbad"
                 ]
             },
             "pt": {
@@ -443,12 +401,6 @@
                         "question": "Segurei meu degu pela cauda sem querer e a pele arrancou. O que fazer?",
                         "answer": "Trata-se de um mecanismo de defesa contra predadores chamado 'Descolamento da pele (Degloving)'. A pele arrancada não se regenera e haverá necrose, exigindo amputação cirúrgica por um veterinário de exóticos. Nunca segure o degu pela cauda e procure atendimento veterinário urgente."
                     }
-                ],
-                "tags": [
-                    "Degu",
-                    "CuidadosComPequenosAnimais",
-                    "PrevencaoDiabetesDegu",
-                    "BanhoDeAreia"
                 ]
             },
             "id": {
@@ -499,12 +451,6 @@
                         "question": "Saya tidak sengaja menarik ekor degu saya hingga kulitnya terlepas dan berdarah. Apa yang harus dilakukan?",
                         "answer": "Ini adalah mekanisme pertahanan alami dari predator yang disebut 'Degloving'. Kulit ekor yang terlepas tidak dapat tumbuh kembali dan akan membusuk (nekrosis), sehingga memerlukan tindakan operasi amputasi oleh dokter hewan eksotis. Jangan pernah memegang degu pada ekornya dan segera bawa ke klinik hewan."
                     }
-                ],
-                "tags": [
-                    "Degu",
-                    "PerawatanHewanKecil",
-                    "PencegahanDiabetesDegu",
-                    "MandiPasir"
                 ]
             }
         },

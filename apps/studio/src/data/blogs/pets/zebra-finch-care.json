@@ -51,12 +51,6 @@
                         "question": "암컷 금화조의 치명적인 '알 묶임(Egg Binding)'은 어떻게 예방하나요?",
                         "answer": "알 묶임은 체내 칼슘 부족, 과도한 일조 시간, 영양 불균형으로 인해 생성된 알이 산도로 나오지 못하고 막히는 병입니다. 상시 갑오징어 뼈나 굴껍질 가루를 제공하여 칼슘을 보충하고, 하루 10~12시간 이상의 완전 암막 수면으로 일조 시간을 제한하여 과도한 번식 호르몬 분비를 억제해야 합니다. 새가 바닥에 앉아 배를 부풀리고 힘을 준다면 즉시 병원에 가야 합니다."
                     }
-                ],
-                "tags": [
-                    "금화조",
-                    "소형조류케어",
-                    "알묶임예방",
-                    "조류독성가스주의"
                 ]
             },
             "en": {
@@ -107,12 +101,6 @@
                         "question": "How can I prevent life-threatening 'Egg Binding' in female Zebra Finches?",
                         "answer": "Egg Binding occurs when a female cannot pass an egg due to calcium deficiency, excessive egg production, or cold drafts. Prevent this by providing constant cuttlebone or crushed oystershell for calcium, feeding fresh dark leafy greens (kale, spinach), and enforcing 10–12 hours of total darkness at night to inhibit chronic breeding hormones."
                     }
-                ],
-                "tags": [
-                    "ZebraFinch",
-                    "SmallBirdCare",
-                    "FinchEggBindingPrevention",
-                    "AvianToxinProtection"
                 ]
             },
             "ja": {
@@ -163,12 +151,6 @@
                         "question": "メスのキンカチョウの致死的な「卵詰まり（Egg Binding）」はどう予防すればよいですか？",
                         "answer": "卵詰まりはカルシウム不足、日光不足、過度な発情によって卵が体内に詰まる病気です。ボレー粉やカトルボーンを常時設置してカルシウムを補給し、ビタミン豊かな青菜（小松菜）を与え、夜間は10〜12時間の完全遮光睡眠で日照時間を制限して発情ホルモンを抑えることが予防に繋がります。"
                     }
-                ],
-                "tags": [
-                    "キンカチョウ",
-                    "錦花鳥",
-                    "小型鳥類ケア",
-                    "卵詰まり予防"
                 ]
             },
             "zh": {
@@ -219,12 +201,6 @@
                         "question": "母金花鸟致命的“卡蛋/难产 (Egg Binding)”应该如何预防？",
                         "answer": "卡蛋是由于体内严重缺钙、日照时间过长或频繁发情导致蛋体无法产出堵塞产道的急症。预防方法是笼内常年挂置墨鱼骨或保健砂补充钙质，投喂富含维生素的油菜/小松菜，并在夜间维持 10~12 小时完全遮光睡眠以缩短光照、抑制发情。若母鸟蹲在笼底拱背喘气，必须立即就医。"
                     }
-                ],
-                "tags": [
-                    "金花鸟",
-                    "斑胸草雀",
-                    "小型鸟类护理",
-                    "鸟类卡蛋预防"
                 ]
             },
             "es": {
@@ -275,12 +251,6 @@
                         "question": "¿Cómo evito la letal 'Retención de huevos (Egg Binding)' en las hembras?",
                         "answer": "Ocurre cuando la hembra no puede expulsar un huevo por falta de calcio o exceso de puestas. Se previene ofreciendo hueso de jibia constante, verduras de hoja verde (espinaca, brócoli) y garantizando 10-12 horas de oscuridad total nocturna para limitar las hormonas reproductivas."
                     }
-                ],
-                "tags": [
-                    "DiamanteCebra",
-                    "PinzonMandarin",
-                    "CuidadoDeAvesPequeñas",
-                    "PrevencionRetencionHuevos"
                 ]
             },
             "fr": {
@@ -331,12 +301,6 @@
                         "question": "Comment prévenir la rétention d'œuf (Egg Binding) chez la femelle Diamant Mandarin ?",
                         "answer": "La rétention d'œuf survient lorsqu'une femelle ne peut pas expulser son œuf par manque de calcium ou ponte répétée. On la prévient en offrant un accès permanent à de l'os de seiche, des légumes verts (épinards, brocolis) et en assurant 10 à 12 heures d'obscurité totale par nuit pour stopper les hormones de reproduction."
                     }
-                ],
-                "tags": [
-                    "DiamantMandarin",
-                    "SoinDesOiseaux",
-                    "PreventionRetentionOeuf",
-                    "ProtectionToxiquesOiseaux"
                 ]
             },
             "de": {
@@ -387,12 +351,6 @@
                         "question": "Wie verhindere ich die lebensgefährliche 'Legenot (Egg Binding)' bei Zebrafinken-Weibchen?",
                         "answer": "Legenot entsteht, wenn das Weibchen ein Ei wegen Calciummangel oder Dauerlegen nicht auspressen kann. Beugen Sie vor, indem Sie dauerhaft Sepiaschale oder Muschelgrit anbieten, frisches Grünfutter reichen und nachts 10–12 Stunden Dunkelheit zur Hormonregulation einhalten."
                     }
-                ],
-                "tags": [
-                    "Zebrafink",
-                    "Vogelpflege",
-                    "LegenotProphylaxe",
-                    "GiftgasSchutzVogel"
                 ]
             },
             "pt": {
@@ -443,12 +401,6 @@
                         "question": "Como prevenir a perigosa 'Retenção de Ovos (Egg Binding)' nas fêmeas de Mandarim?",
                         "answer": "Ocorre quando a fêmea não consegue expelir um ovo por falta de cálcio ou excesso de postura. Previne-se oferecendo osso de siba constante, vegetais folhosos verdes (couve, espinafre) e garantindo 10-12 horas de escuridão total à noite para inibir hormônios reprodutivos."
                     }
-                ],
-                "tags": [
-                    "Mandarim",
-                    "DiamanteMandarim",
-                    "CuidadosComAvesPequenas",
-                    "PrevencaoOvoPresoAves"
                 ]
             },
             "id": {
@@ -499,12 +451,6 @@
                         "question": "Bagaimana cara mencegah kondisi mematikan 'Telur Tersangkut (Egg Binding)' pada Zebra Finch betina?",
                         "answer": "Telur Tersangkut terjadi saat betina tidak bisa mengeluarkan telur akibat kekurangan kalsium atau terlalu sering bertelur. Cegah dengan menyediakan tulang cumi (cuttlebone) secara terus-menerus, beri sayuran hijau tua segar (bayam, brokoli), dan berikan waktu tidur gelap total 10–12 jam di malam hari untuk menekan hormon reproduksi."
                     }
-                ],
-                "tags": [
-                    "ZebraFinch",
-                    "PerawatanBurungKecil",
-                    "PencegahanTelurTersangkutBurung",
-                    "PerlindunganRacunBurung"
                 ]
             }
         },

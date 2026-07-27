@@ -51,12 +51,6 @@
                         "question": "아비시니안이 하루 종일 집안을 뛰어다니고 우두커니 높은 곳만 찾아 올라가요.",
                         "answer": "아비시니안은 고양이계의 아크로바틱 선수라 불릴 만큼 높은 수직 공간 욕구와 에너지를 가진 품종입니다. 높은 캣타워, 캣폴, 벽선반이 부족하면 스트레스를 받아 가구를 긁거나 야간 줌키(Zoomies) 행동을 보일 수 있으므로 수직 공간을 적극 조성해 주고 매일 20분 이상 강도 높은 사냥 놀이를 해주세요."
                     }
-                ],
-                "tags": [
-                    "아비시니안",
-                    "고양이케어",
-                    "아비시니안빈혈",
-                    "고양이치주염"
                 ]
             },
             "en": {
@@ -107,12 +101,6 @@
                         "question": "My Abyssinian runs around frantically all day and constantly seeks high places.",
                         "answer": "Abyssinians are natural acrobats with exceptional athletic drives and vertical space requirements. If high cat trees, poles, or wall shelves are lacking, they experience frustration, which can manifest as furniture scratching or frantic night zoomies. Provide ample vertical territory and engage them in at least 20 minutes of intense daily play."
                     }
-                ],
-                "tags": [
-                    "Abyssinian",
-                    "CatCare",
-                    "AbyssinianAnemia",
-                    "FelineDentalCare"
                 ]
             },
             "ja": {
@@ -163,12 +151,6 @@
                         "question": "アビシニアンが家中を走り回り、高い場所ばかり登ろうとします。",
                         "answer": "アビシニアンは「猫界のアクロバット選手」と呼ばれるほど高い運動量と高所欲求を持つ品種です。キャットタワーや壁面ステップが不足するとストレスから家具を傷つけたり夜運動（ズームイン）を起こすため、垂直空間を十分に確保し、毎日20分以上の狩りごっこでエネルギーを発散させてください。"
                     }
-                ],
-                "tags": [
-                    "アビシニアン",
-                    "猫のケア",
-                    "アビシニアン貧血",
-                    "猫の歯周病"
                 ]
             },
             "zh": {
@@ -219,12 +201,6 @@
                         "question": "阿比西尼亚猫整天在家飞奔并执着于爬高，正常吗？",
                         "answer": "完全正常！阿比西尼亚猫被称为“猫界杂技演员”，天生具有极高的运动量与垂直空间需求。若缺乏高耸的猫爬架与墙壁跳板，它们会因挫败感而抓挠家具或产生夜间跑酷（Zoomies）行为。请务必打造丰富的垂直领地，并每天陪伴其进行 20 分钟以上的捕猎游戏。"
                     }
-                ],
-                "tags": [
-                    "阿比西尼亚猫",
-                    "猫咪护理",
-                    "阿比西尼亚猫贫血",
-                    "猫牙周炎"
                 ]
             },
             "es": {
@@ -275,12 +251,6 @@
                         "question": "Mi Abisinio no para de correr por toda la casa y busca los puntos más altos.",
                         "answer": "Los abisinios son acróbatas natos con altísima energía e instinto de exploración vertical. Si carecen de árboles altos o repisas de pared, sufrirán estrés que deriva en conductas destructivas o carreras nocturnas (zoomies). Proporcione un entorno vertical rico y juegue con él al menos 20 minutos al día."
                     }
-                ],
-                "tags": [
-                    "GatoAbisinio",
-                    "CuidadoFelino",
-                    "AnemiaAbisinio",
-                    "SaludDentalFelina"
                 ]
             },
             "fr": {
@@ -331,12 +301,6 @@
                         "question": "Mon Abyssin court partout dans la maison et cherche toujours à monter très haut.",
                         "answer": "L'Abyssin est un athlète félin doté d'une énergie débordante et d'un besoin vital de hauteur. Sans arbres à chat ou étagères murale, la frustration provoquera des griffages ou des folies nocturnes (zoomies). Offrez-lui un environnement vertical complet et au moins 20 minutes de jeu quotidien."
                     }
-                ],
-                "tags": [
-                    "ChatAbyssin",
-                    "SoinDuChat",
-                    "AnemieAbyssin",
-                    "SanteDentaireFeline"
                 ]
             },
             "de": {
@@ -387,12 +351,6 @@
                         "question": "Meine Abessinierkatze rennt ständig herum und klettert auf die höchsten Möbel.",
                         "answer": "Abessinier sind geborene Akrobaten mit extremem Bewegungsdrang und Höhenbedürfnis. Fehlen Kratzbäume oder Kletterwände, führt die Frustration zu Möbelkratzen oder nächtlichen Zoomies. Bieten Sie ausreichend Klettermöglichkeiten und spielen Sie täglich mindestens 20 Minuten intensiv."
                     }
-                ],
-                "tags": [
-                    "Abessinierkatze",
-                    "Katzenpflege",
-                    "AbessinierAnaemie",
-                    "Katzenzahngesundheit"
                 ]
             },
             "pt": {
@@ -443,12 +401,6 @@
                         "question": "Meu Abissínio não para de correr pela casa e busca os pontos mais altos.",
                         "answer": "Os abissínios são acrobatas naturais com altíssima energia e necessidade de espaço vertical. Sem torres altas ou prateleiras, a frustração causará arranhões em móveis ou piques noturnos (zoomies). Monte um ambiente vertical rico e brinque pelo menos 20 minutos por dia."
                     }
-                ],
-                "tags": [
-                    "GatoAbissinio",
-                    "CuidadosComGatos",
-                    "AnemiaAbissinio",
-                    "SaudeDentalFelina"
                 ]
             },
             "id": {
@@ -499,12 +451,6 @@
                         "question": "Mengapa Kucing Abyssinian saya terus berlarian dan mencari tempat yang sangat tinggi?",
                         "answer": "Kucing Abyssinian adalah 'pesenam alami' yang memiliki energi dan kebutuhan ruang vertikal yang sangat tinggi. Jika kekurangan cat tree atau papan panjatan di dinding, rasa frustrasi akan membuat mereka menggaruk furnitur atau berlarian malam hari (zoomies). Sediakan ruang vertikal yang luas dan ajak bermain setidaknya 20 menit sehari."
                     }
-                ],
-                "tags": [
-                    "KucingAbyssinian",
-                    "PerawatanKucing",
-                    "AnemiaAbyssinian",
-                    "KesehatanGigiKucing"
                 ]
             }
         },

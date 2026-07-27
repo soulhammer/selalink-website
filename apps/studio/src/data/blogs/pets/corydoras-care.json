@@ -51,12 +51,6 @@
                         "question": "코리도라스는 수조의 남은 먹이나 똥을 먹는 청소물고기인가요?",
                         "answer": "절대 아닙니다! 코리도라스는 배설물(똥)을 먹지 않으며, 다른 물고기가 남긴 잔여물만으로는 필요한 영양을 전혀 채울 수 없어 기아로 사망하기 쉽습니다. 코리도라스는 육식성과 잡식성을 띤 열대어로, 사료 투여 시 바닥으로 가라앉는 코리 전용 고단백 침강성 펠릿 사료나 실지렁이, 냉동 장구벌레(냉짱)를 별도로 챙겨 급여해야 합니다."
                     }
-                ],
-                "tags": [
-                    "코리도라스",
-                    "수생생물케어",
-                    "코리도라스수염관리",
-                    "바닥어종케어"
                 ]
             },
             "en": {
@@ -107,12 +101,6 @@
                         "question": "Are Corydoras Catfish 'scavengers' that eat fish poop and tank waste?",
                         "answer": "Absolutely not! Corydoras do not eat fish feces, and relying solely on leftover flakes from surface feeders leads to slow starvation. They are omnivorous/carnivorous bottom feeders that require targeted feeding with high-protein sinking wafers, live tubifex worms, or frozen bloodworms."
                     }
-                ],
-                "tags": [
-                    "CorydorasCatfish",
-                    "AquaticPetCare",
-                    "CorydorasBarbelCare",
-                    "BottomFeederCare"
                 ]
             },
             "ja": {
@@ -163,12 +151,6 @@
                         "question": "コリドラスは水槽のフンや残餌を食べてくれる「お掃除魚」なのですか？",
                         "answer": "絶対に違います！コリドラスは他魚の排泄物（フン）を食べることは一切なく、他の魚の残飯だけでは栄養が完全に shortage し餓死してしまいます。コリドラスは肉食傾向のある雑食性の熱帯魚ですので、底に沈むコリドラス専用の高タンパクペレットや、イトメ（生糸ミミズ）、冷凍赤ムシを個別にあたえる必要があります。"
                     }
-                ],
-                "tags": [
-                    "コリドラス",
-                    "観賞魚ケア",
-                    "コリドラスヒゲケア",
-                    "底棲魚ケア"
                 ]
             },
             "zh": {
@@ -219,12 +201,6 @@
                         "question": "鼠鱼是吃鱼粪便和垃圾的“工具鱼/清道夫”吗？",
                         "answer": "绝对不是！鼠鱼完全不吃鱼类排泄物（粪便），仅靠其他鱼吃剩的残渣根本无法满足其营养需求，极易导致营养不良饿死。鼠鱼是偏肉食性的杂食性鱼类，必须专门为其投喂沉底的高蛋白鼠鱼滋养丸、红虫（血虫）或冰冻丰年虾。"
                     }
-                ],
-                "tags": [
-                    "鼠鱼",
-                    "观赏鱼护理",
-                    "鼠鱼融须预防",
-                    "底层鱼类护理"
                 ]
             },
             "es": {
@@ -275,12 +251,6 @@
                         "question": "¿Las Corydoras son peces 'basurero' que comen excrementos de otros peces?",
                         "answer": "¡En absoluto! Las Corydoras no comen heces y no pueden sobrevivir alimentándose únicamente de los sobrantes de otros peces. Son peces omnívoros/carnívoros de fondo que necesitan pastillas de fondo ricas en proteína, larvas de mosquito congeladas o gusanos tubifex para no morir de inanición."
                     }
-                ],
-                "tags": [
-                    "Corydora",
-                    "PezCorydora",
-                    "CuidadoDePecesDeFondo",
-                    "BarbillonesCorydora"
                 ]
             },
             "fr": {
@@ -331,12 +301,6 @@
                         "question": "Les Corydoras sont-ils des poissons 'nettoyeurs' qui mangent les déjections des autres ?",
                         "answer": "Pas du tout ! Les Corydoras ne mangent absolument pas les fientes et ne peuvent pas survivre uniquement avec les restes des autres poissons. Ce sont des poissons de fond omnivores à tendance carnivore qui ont besoin de pastilles protéinées spécifiques, de vers de vase ou de tubifex."
                     }
-                ],
-                "tags": [
-                    "Corydoras",
-                    "SoinPoissonAquarium",
-                    "BarbillonsCorydoras",
-                    "PoissonDeFond"
                 ]
             },
             "de": {
@@ -387,12 +351,6 @@
                         "question": "Sind Panzerwelse 'Müllschlucker', die den Kot anderer Fische fressen?",
                         "answer": "Nein, auf keinen Fall! Panzerwelse fressen keinen Fischkot und verhungern, wenn sie nur von den Resten anderer Fische leben müssen. Sie sind fleisch- und allesfressende Bodenbewohner, die gezielt mit sinkendem Welsfutter, Mückenlarven oder Tubifex gefüttert werden müssen."
                     }
-                ],
-                "tags": [
-                    "Panzerwels",
-                    "Corydoras",
-                    "AquaristikPflege",
-                    "BartelpflegeWelse"
                 ]
             },
             "pt": {
@@ -443,12 +401,6 @@
                         "question": "As Corydoras são peixes 'limpadores' que comem cocô e sujeira dos outros peixes?",
                         "answer": "Absolutamente não! As Corydoras não comem fezes e não sobrevivem apenas de restos. São peixes carnívoros/onívoros de fundo que precisam de rações em pastilha ricas em proteína, vermes tubifex ou larvas de mosquito."
                     }
-                ],
-                "tags": [
-                    "Corydora",
-                    "PeixeVermelhoAquario",
-                    "CuidadosComPeixesDeFundo",
-                    "BarbilhoesCorydora"
                 ]
             },
             "id": {
@@ -499,12 +451,6 @@
                         "question": "Apakah Corydoras adalah ikan 'pembersih' yang memakan kotoran ikan lain?",
                         "answer": "Sangat tidak benar! Corydoras tidak memakan kotoran ikan dan tidak bisa bertahan hidup hanya dari sisa pakan ikan lain. Mereka adalah ikan omnivora/karnivora dasar yang membutuhkan pakan pelet tenggelam berprotein tinggi, cacing sutra, atau cacing darah (bloodworm)."
                     }
-                ],
-                "tags": [
-                    "IkanCorydoras",
-                    "CorydorasCatfish",
-                    "PerawatanIkanDasar",
-                    "PerawatanSungutCorydoras"
                 ]
             }
         },

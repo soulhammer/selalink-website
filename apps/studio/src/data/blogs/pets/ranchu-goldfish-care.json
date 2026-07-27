@@ -51,12 +51,6 @@
                         "question": "란츄를 제브라다니오나 메다카, 유선형 금붕어(코메트)와 합사해도 되나요?",
                         "answer": "절대 합사하면 안 됩니다! 란츄는 등지느러미가 없고 몸이 둥글어 헤엄치는 속도가 매우 느립니다. 헤엄이 빠른 유선형 금붕어나 수초어항의 소형어와 합사할 경우 란츄는 먹이 경쟁에서 완전히 밀려 기아 상태에 빠지며, 머리의 매력적인 육혹(Wen)을 공격당해 상처와 감염이 생길 수 있습니다. 란츄는 란츄끼리, 혹은 비슷한 난주형 금붕어와만 합사해야 합니다."
                     }
-                ],
-                "tags": [
-                    "란츄",
-                    "금붕어케어",
-                    "부레병예방",
-                    "관상어사육"
                 ]
             },
             "en": {
@@ -107,12 +101,6 @@
                         "question": "Can I keep Ranchu Goldfish with fast-swimming fish like Comets or Zebra Danios?",
                         "answer": "No, never house them together! Ranchu lack a dorsal fin and have heavy bodies, making them very slow swimmers. Streamlined goldfish (like Comets) or fast tropical fish will easily outcompete Ranchu for food, leaving them malnourished, and may nip at their delicate headgrowth (Wen), causing severe injuries and bacterial infections. Keep Ranchu only with other Ranchu or similar fancy goldfish."
                     }
-                ],
-                "tags": [
-                    "RanchuGoldfish",
-                    "GoldfishCare",
-                    "SwimBladderPrevention",
-                    "OrnamentalFishCare"
                 ]
             },
             "ja": {
@@ -163,12 +151,6 @@
                         "question": "ランチュウをコメットや和金、ゼブラダニオなどの泳ぎが速い魚と混泳させてもいいですか？",
                         "answer": "絶対に混泳させてはいけません！ランチュウは背ヒレがなく体が重いため、泳ぐスピードが非常に遅いです。和金やコメットなどの長手型の金魚や素早い小型魚と混泳させると、餌を横取りされて餓死状態になる上、自慢の肉瘤（Wen）をつつかれて傷や細菌感染を起こす危険があります。ランチュウはランチュウ同士、または同じ高級肉瘤系金魚のみで飼育してください。"
                     }
-                ],
-                "tags": [
-                    "ランチュウ",
-                    "蘭鋳ケア",
-                    "転覆病予防",
-                    "金魚飼育"
                 ]
             },
             "zh": {
@@ -219,12 +201,6 @@
                         "question": "可以把兰寿和草金鱼、草金/草包或斑马鱼混养吗？",
                         "answer": "绝对不能混养！兰寿没有背鳍且体型笨重，游动速度非常缓慢。如果与游速极快流线型的草金鱼或小型热带鱼混养，兰寿在抢食中会彻底处于劣势导致营养不良，且其娇嫩的头肉（肉瘤）很容易被其他鱼啃咬，造成严重创伤与细菌感染。兰寿只适合与同类或体型相似的蛋种金鱼混养。"
                     }
-                ],
-                "tags": [
-                    "兰寿金鱼",
-                    "金鱼护理",
-                    "失鳔病预防",
-                    "观赏鱼饲养"
                 ]
             },
             "es": {
@@ -275,12 +251,6 @@
                         "question": "¿Puedo mantener peces Ranchu con peces rápidos como Cometas o Danios Cebra?",
                         "answer": "¡Jamás deben convivir! Los Ranchu no tienen aleta dorsal y su cuerpo pesado los convierte en nadadores muy lentos. Los peces de cuerpo estilizado o rápidos ganarán siempre en la competencia por la comida, dejando al Ranchu desnutrido, e incluso podrían morder su capuchón (Wen), causando heridas e infecciones graves. Mantenga al Ranchu solo con otros Ranchu o peces de cuerpo redondo similares."
                     }
-                ],
-                "tags": [
-                    "PezRanchu",
-                    "CuidadoDePecesDorados",
-                    "PrevencionVejigaNatatoria",
-                    "PecesOrnamentales"
                 ]
             },
             "fr": {
@@ -331,12 +301,6 @@
                         "question": "Puis-je faire cohabiter des Ranchus avec des poissons rapides comme les Comètes ou les Danio Zèbres ?",
                         "answer": "Absolument pas ! Le Ranchu est privé de nageoire dorsale et possède un corps lourd, ce qui en fait un nageur très lent. Les poissons effilés ou rapides mangeront toute la nourriture avant lui, le laissant dénutri, et risquent de béqueter son capuchon céphalique (Wen), provoquant des blessures et des infections graves. Gardez le Ranchu uniquement avec d'autres Ranchus ou poissons japonais similaires."
                     }
-                ],
-                "tags": [
-                    "PoissonRougeRanchu",
-                    "SoinDesPoissonsRouges",
-                    "PreventionVessieNatatoire",
-                    "PoissonsDOrnement"
                 ]
             },
             "de": {
@@ -387,12 +351,6 @@
                         "question": "Kann ich Ranchus zusammen mit schnellen Fischen wie Kometengoldfischen oder Zebrabärblingen halten?",
                         "answer": "Nein, auf keinen Fall! Ranchus besitzen keine Rückenflosse und sind sehr langsame Schwimmer. Schnelle Goldfischformen oder flinke Tropenfische fressen dem Ranchu das Futter weg, sodass er verhungert, und knabbern oft am empfindlichen Kopfwachstum (Wen), was zu schweren Infektionen führt. Halten Sie Ranchus nur mit anderen Ranchus oder ähnlichen Hochzuchtgoldfischen."
                     }
-                ],
-                "tags": [
-                    "RanchuGoldfisch",
-                    "Goldfischpflege",
-                    "SchwimmblasenProphylaxe",
-                    "Zierfischpflege"
                 ]
             },
             "pt": {
@@ -443,12 +401,6 @@
                         "question": "Posso colocar peixes Ranchu junto com peixes rápidos como Cometas ou Paulistinhas?",
                         "answer": "Nunca mantenha juntos! O Ranchu não tem nadadeira dorsal e tem corpo pesado, sendo um nadador muito lento. Peixes rápidos e esguios comerão toda a ração antes dele, deixando-o desnutrido, além de morder a delicada protuberância da cabeça (Wen), causando ferimentos e infecções graves. Mantenha o Ranchu apenas com outros Ranchus ou kinguios ornamentais de corpo redondo."
                     }
-                ],
-                "tags": [
-                    "KinguioRanchu",
-                    "CuidadosComKinguios",
-                    "PrevencaoBexigaNatatoria",
-                    "PeixesOrnamentais"
                 ]
             },
             "id": {
@@ -499,12 +451,6 @@
                         "question": "Bolehkah saya menggabungkan Ikan Ranchu dengan ikan lincah seperti Ikan Komet atau Zebra Danio?",
                         "answer": "Sangat tidak boleh digabung! Ranchu tidak memiliki sirip punggung dan tubuhnya berat, sehingga gerakan berenangnya sangat lambat. Ikan yang lincah atau berbentuk ramping akan selalu menghabiskan makanan sebelum Ranchu sempat makan, menyebabkan Ranchu kelaparan, serta berisiko menggigit jambul (Wen) kepala Ranchu hingga terluka dan infeksi bakteri parah. Pelihara Ranchu hanya bersama sesama Ranchu atau ikan mas hias bertubuh bulat serupa."
                     }
-                ],
-                "tags": [
-                    "IkanRanchu",
-                    "PerawatanIkanMasHias",
-                    "PencegahanGelembungRenang",
-                    "IkanHias"
                 ]
             }
         },

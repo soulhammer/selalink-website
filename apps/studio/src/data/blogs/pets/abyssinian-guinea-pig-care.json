@@ -51,12 +51,6 @@
                         "question": "Can Abyssinian guinea pigs live alone?",
                         "answer": "No. Guinea pigs are herd animals with strong social needs and can suffer from severe depression and lethargy if kept alone. They should always be housed in compatible same-sex pairs or neutered groups."
                     }
-                ],
-                "tags": [
-                    "Guinea Pig Care",
-                    "Vitamin C for Pets",
-                    "Respiratory Health",
-                    "Small Animal Habit"
                 ]
             },
             "ja": {
@@ -107,12 +101,6 @@
                         "question": "モルモットは1匹だけで飼うことができますか？",
                         "answer": "モルモットは本来、群れで暮らす社会性の高い動物です。1匹だけで飼うと深い孤独からうつ状態や食欲不振になるリスクがあるため、相性の良い同性のペアや去勢済みの複数匹での飼育が推奨されます。"
                     }
-                ],
-                "tags": [
-                    "モルモット飼育",
-                    "ビタミンCサプリ",
-                    "呼吸器の健康",
-                    "小動物ライフ"
                 ]
             },
             "zh": {
@@ -163,12 +151,6 @@
                         "question": "阿比西尼亚天竺鼠能单独饲养一只吗？",
                         "answer": "不能。天竺鼠是极度群居的动物，单只饲养会导致严重的孤独抑郁与食欲不振。强烈建议成对（相同性别或已绝育）或小群饲养。"
                     }
-                ],
-                "tags": [
-                    "天竺鼠护理",
-                    "豚鼠维生素C",
-                    "呼吸道预防",
-                    "小动物饲养"
                 ]
             },
             "es": {
@@ -219,12 +201,6 @@
                         "question": "¿Las cobayas abisinias pueden vivir solas?",
                         "answer": "No. Las cobayas son animales gregarios con profundas necesidades sociales. Vivir solas les genera gran tristeza, apatía y estrés. Deben mantenerse en parejas del mismo sexo o grupos con machos castrados."
                     }
-                ],
-                "tags": [
-                    "Cuidado de Cobayas",
-                    "Vitamina C Cobaya",
-                    "Salud Respiratoria",
-                    "Mascotas Exóticas"
                 ]
             },
             "fr": {
@@ -275,12 +251,6 @@
                         "question": "Le cochon d'Inde abyssinien peut-il vivre seul ?",
                         "answer": "Non. Le cochon d'Inde est un animal grégaire ayant un besoin social fondamental. Vivre seul provoque une profonde dépression et un dépérissement. Il doit impérativement vivre en groupe ou en pair du même sexe (ou stérilisé)."
                     }
-                ],
-                "tags": [
-                    "Cochon d'Inde",
-                    "Vitamine C Rongeur",
-                    "Litière Sans Poussière",
-                    "Nouveau Animal Compagnie"
                 ]
             },
             "de": {
@@ -331,12 +301,6 @@
                         "question": "Können Abessinier-Meerschweinchen alleine leben?",
                         "answer": "Nein. Meerschweinchen sind hochsoziale Rudeltiere. Einzeltierhaltung führt zu Einsamkeit, Depressionen und Fressunlust. Sie müssen mindestens zu zweit (gleichgeschlechtlich oder kastriert) gehalten werden."
                     }
-                ],
-                "tags": [
-                    "Meerschweinchen",
-                    "Vitamin C für Nager",
-                    "Atemwegsgesundheit",
-                    "Gehegehygiene"
                 ]
             },
             "pt": {
@@ -387,12 +351,6 @@
                         "question": "Os porquinhos-da-índia abissínios podem viver sozinhos?",
                         "answer": "Não. Os porquinhos-da-índia são extremamente sociáveis e vivem em bando. Viver sozinho causa tristeza profunda, depressão e apatia. Devem viver em pares do mesmo sexo ou pequenos grupos."
                     }
-                ],
-                "tags": [
-                    "Porquinho-da-índia",
-                    "Vitamina C Roedores",
-                    "Higiene Respiratória",
-                    "Pets Exóticos"
                 ]
             },
             "id": {
@@ -443,12 +401,6 @@
                         "question": "Apakah marmut Abyssinian bisa dipelihara sendirian?",
                         "answer": "Tidak. Marmut adalah hewan koloni yang sangat sosial. Memelihara satu ekor saja akan membuat mereka depresi berat dan kehilangan nafsu makan. Sebaiknya dipelihara berpasangan sesama jenis atau kelompok."
                     }
-                ],
-                "tags": [
-                    "Perawatan Marmut",
-                    "Vitamin C Marmut",
-                    "Saluran Napas Hewan",
-                    "Hewan Pengerat"
                 ]
             },
             "ko": {
@@ -499,12 +451,6 @@
                         "question": "아비시니안 기니피그를 한 마리만 키워도 되나요?",
                         "answer": "아닙니다. 기니피그는 무리 생활을 하는 매우 사회적인 동물이므로, 혼자 기르면 깊은 우울감과 외로움으로 인해 거식증에 걸릴 수 있습니다. 성별이 같거나 중성화된 두 마리 이상을 함께 기르는 것을 권장합니다."
                     }
-                ],
-                "tags": [
-                    "기니피그케어",
-                    "기니피그비타민C",
-                    "소동물호흡기질환",
-                    "기니피그팝코닝"
                 ]
             }
         },

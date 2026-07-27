@@ -51,12 +51,6 @@
                         "question": "등껍질이 하얗게 껍질처럼 벗겨지는데 정상인가요?",
                         "answer": "거북이가 성장하면서 등껍질의 낡은 조각이 투명하고 얇은 판 형태로 저절로 떨어져 나가는 현상은 '탈피'라고 부르는 극히 정상적인 발달 단계입니다. 다만, 하얀 삼출물이 나오고 등껍질이 끈적하며 악취가 난다면 세균 감염성 질병일 수 있어 병원 진료가 필요합니다."
                     }
-                ],
-                "tags": [
-                    "커먼머스크터틀",
-                    "거북이일광욕",
-                    "반수생거북케어",
-                    "등껍질탈피"
                 ]
             },
             "en": {
@@ -107,12 +101,6 @@
                         "question": "Is it normal for my turtle's shell plates to peel off?",
                         "answer": "Yes. As turtles grow, they shed old scutes, which peel off as thin, translucent pieces called 'scute shedding'. However, if you see white slimy discharge, a soft shell, or foul odor, it indicates a bacterial infection like shell rot and requires veterinary care."
                     }
-                ],
-                "tags": [
-                    "CommonMuskTurtle",
-                    "TurtleBasking",
-                    "AquaticTurtleCare",
-                    "ScuteShedding"
                 ]
             },
             "ja": {
@@ -163,12 +151,6 @@
                         "question": "甲羅の表面が白くペラペラ剥がれるのは病気ですか？",
                         "answer": "カメの成長に伴い、古い甲羅が透明で薄い板のように剥がれ落ちるのは『脱皮』と呼ばれる極めて正常な現象です。ただし、白い粘液が出ていたり、甲羅が柔らかく悪臭がする場合はシェルロットの疑いがあるため、病院で診てもらってください。"
                     }
-                ],
-                "tags": [
-                    "コモンマスクタートル",
-                    "カメの日光浴",
-                    "半水生カメの飼育",
-                    "甲羅の脱皮"
                 ]
             },
             "zh": {
@@ -219,12 +201,6 @@
                         "question": "甲壳像脱皮一样白白地剥落，这正常吗？",
                         "answer": "随着乌龟的成长，旧甲壳的碎片会以透明、薄板状自然脱落，这被称为“蜕甲”，是完全正常的发育过程。但如果出现白色粘液、甲壳变软并伴有恶臭，可能是细菌感染性甲壳腐烂病，需送医治疗。"
                     }
-                ],
-                "tags": [
-                    "密西西比泥龟",
-                    "乌龟日光浴",
-                    "半水生龟护理",
-                    "甲壳蜕皮"
                 ]
             },
             "es": {
@@ -275,12 +251,6 @@
                         "question": "¿Es normal que las placas del caparazón de mi tortuga se pelen?",
                         "answer": "Sí. A medida que las tortugas crecen, mudan los escudos antiguos, que se desprenden como piezas delgadas y translúcidas ('muda de escudos'). Sin embargo, si observa secreción viscosa blanca, un caparazón blando o maloliente, es señal de podredumbre y necesita atención médica."
                     }
-                ],
-                "tags": [
-                    "GalápagoAlmizclado",
-                    "AsoleamientoDeTortuga",
-                    "CalidadDeAgua",
-                    "MudaDeEscudos"
                 ]
             },
             "fr": {
@@ -331,12 +301,6 @@
                         "question": "Est-il normal que les plaques du caparaçon de ma tortue pèlent ?",
                         "answer": "Oui. À mesure que les tortues grandissent, elles muent les anciennes plaques, qui se détachent sous forme de morceaux minces et translucides ('mue des écailles/écussons'). Cependant, si vous observez des sécrétions gluantes blanches ou un caparaçon mou et malodorant, c'est le signe d'une pourriture et nécessite des soins vétérinaires."
                     }
-                ],
-                "tags": [
-                    "TortueMusquée",
-                    "ExpositionTortue",
-                    "QualitéDeLEau",
-                    "MueDePlaques"
                 ]
             },
             "de": {
@@ -387,12 +351,6 @@
                         "question": "Ist es normal, dass sich die Panzerschilder meiner Schildkröte abschälen?",
                         "answer": "Ja. Wenn Schildkröten wachsen, häuten sie alte Panzerschilder ab, die sich als dünne, durchsichtige Platten ablösen ('Schilderhäutung'). Wenn Sie jedoch weißen schleimigen Ausfluss oder einen weichen, stinkenden Panzer feststellen, ist dies ein Zeichen für Panzerfäule und muss tierärztlich behandelt werden."
                     }
-                ],
-                "tags": [
-                    "Moschusschildkröte",
-                    "Schildkrötensonnenbad",
-                    "Wasserqualität",
-                    "Panzerhäutung"
                 ]
             },
             "pt": {
@@ -443,12 +401,6 @@
                         "question": "É normal que as placas da carapaça da minha tartaruga descasquem?",
                         "answer": "Sim. À medida que as tartarugas crescem, mudam as placas antigas, que se desprendem como peças finas e translúcidas ('muda de placas'). No entanto, se observar secreções viscosas brancas ou uma carapaça mole e malcheirosa, é sinal de podridão e precisa de cuidados médicos."
                     }
-                ],
-                "tags": [
-                    "TartarugaAlmíscar",
-                    "BanhoDeSolTartaruga",
-                    "QualidadeDeÁgua",
-                    "MudaDePlacas"
                 ]
             },
             "id": {
@@ -499,12 +451,6 @@
                         "question": "Apakah normal jika lempeng tempurung kura-kura saya mengelupas?",
                         "answer": "Ya. Seiring pertumbuhan kura-kura, mereka melepaskan keping tempurung tua, yang terkelupas sebagai kepingan tipis dan transparan ('moulting keping'). Namun, jika Anda melihat cairan lendir putih atau tempurung yang lunak dan berbau, itu tanda pembusukan dan perlu perawatan dokter hewan."
                     }
-                ],
-                "tags": [
-                    "KuraKuraKasturi",
-                    "BerjemurKuraKura",
-                    "KualitasAir",
-                    "PelepasanKeping"
                 ]
             }
         },

@@ -51,12 +51,6 @@
                         "question": "사육장 뚜껑을 닫아놓았는데 자꾸 틈새를 머리로 밀며 탈출을 시도해요.",
                         "answer": "콘스네이크는 파충류 중에서도 유연하고 지능적인 '탈출 전문가(Escape Artist)'입니다. 머리가 들어가는 작은 틈만 있어도 몸 전체가 빠져나갈 수 있으므로, 클립이나 잠금장치가 있는 슬라이딩 케이지를 사용해야 합니다. 사육장이 너무 좁거나 온도가 너무 높은 경우에도 탈출 행동이 늘어나므로 온·습도를 점검하세요."
                     }
-                ],
-                "tags": [
-                    "콘스네이크",
-                    "옥수수뱀",
-                    "파충류케어",
-                    "뱀구토예방"
                 ]
             },
             "en": {
@@ -107,12 +101,6 @@
                         "question": "My Corn Snake keeps pushing against lid seams trying to escape—is this normal?",
                         "answer": "Corn Snakes are highly agile and intelligent escape artists. If their head fits through a gap, their whole body will follow; always secure cages with locking clips or sliding locks. Persistent pushing can also indicate overheating or inadequate hideouts, so double-check enclosure temperatures."
                     }
-                ],
-                "tags": [
-                    "CornSnake",
-                    "PantherophisGuttatus",
-                    "ReptileCare",
-                    "SnakeRegurgitation"
                 ]
             },
             "ja": {
@@ -163,12 +151,6 @@
                         "question": "蓋を閉めているのに、隙間に頭を押し当てて脱走しようとします。",
                         "answer": "コーンスネークは非常にしなやかで知能が高い「脱走の達人」です。頭が入るわずかな隙間があれば全身で抜け出してしまうため、ロック機能付きのスライドケージやクリップを必ず使用してください。ケージ内が狭すぎたり温度が高すぎる場合も脱走行動が増えるため、温湿度も再確認しましょう。"
                     }
-                ],
-                "tags": [
-                    "コーンスネーク",
-                    "ナメラ",
-                    "爬虫類ケア",
-                    "ヘビの吐き戻し予防"
                 ]
             },
             "zh": {
@@ -219,12 +201,6 @@
                         "question": "明明关好了箱盖，玉米蛇为什么总用头顶缝隙尝试逃跑？",
                         "answer": "玉米蛇是爬宠界极具智商与柔韧性的“越狱专家”。只要头部能够挤出小缝，全身即可穿过，因此必须使用带安全锁扣的专业饲养箱。若笼舍空间过小或温度过高，也会加剧其逃跑行为，请及时复查温湿度。"
                     }
-                ],
-                "tags": [
-                    "玉米蛇",
-                    "爬宠护理",
-                    "宠物蛇",
-                    "玉米蛇吐食"
                 ]
             },
             "es": {
@@ -275,12 +251,6 @@
                         "question": "Mi serpiente empuja constantemente las juntas del terrario con la cabeza para escapar, ¿es normal?",
                         "answer": "Las serpientes del maíz son famosas 'escapistas' dotadas de gran agilidad. Si su cabeza cabe por una rendija, el resto del cuerpo pasará; utilice siempre terrarios con cierres de seguridad. Si el hábito es persistente, revise si la temperatura es demasiado alta o si faltan refugios."
                     }
-                ],
-                "tags": [
-                    "SerpienteDelMaiz",
-                    "PantherophisGuttatus",
-                    "CuidadoDeReptiles",
-                    "PrevencionRegurgitacion"
                 ]
             },
             "fr": {
@@ -331,12 +301,6 @@
                         "question": "Mon serpent pousse constamment sur les joints du terrarium avec son museau, est-ce normal ?",
                         "answer": "Les serpents des blés sont des 'artistes de l'évasion' particulièrement agiles. Si leur tête passe dans un trou, tout le corps suivra ; utilisez toujours un terrarium verrouillé. Si ce comportement persiste, vérifiez que la température n'est pas trop élevée et qu'il dispose d'abris suffisants."
                     }
-                ],
-                "tags": [
-                    "SerpentDesBles",
-                    "PantherophisGuttatus",
-                    "SoinDesReptiles",
-                    "PreventionRegurgitation"
                 ]
             },
             "de": {
@@ -387,12 +351,6 @@
                         "question": "Meine Kornnatter drückt dauernd mit der Schnauze gegen Terrarienspalten – ist das normal?",
                         "answer": "Kornnattern sind extrem bewegliche und geschickte 'Ausbrecherkönige'. Passt der Kopf durch einen Spalt, folgt der gesamte Körper; nutzen Sie stets Terrarienschlösser. Dauerhaftes Drücken kann auch auf zu hohe Temperaturen oder fehlende Verstecke hindeuten."
                     }
-                ],
-                "tags": [
-                    "Kornnatter",
-                    "PantherophisGuttatus",
-                    "Reptilienpflege",
-                    "RegurgitationsProphylaxe"
                 ]
             },
             "pt": {
@@ -443,12 +401,6 @@
                         "question": "Minha cobra empurra as frestas do terrário com a cabeça tentando fugir, isso é normal?",
                         "answer": "As cobras-do-milho são mestres em fugas dotadas de grande agilidade. Se a cabeça passar por uma fresta, o corpo inteiro passará; use sempre travas de segurança no terrário. Se o comportamento for insistente, verifique se a temperatura não está alta demais."
                     }
-                ],
-                "tags": [
-                    "CobraDoMilho",
-                    "PantherophisGuttatus",
-                    "CuidadosComRepteis",
-                    "PrevencaoRegurgitacao"
                 ]
             },
             "id": {
@@ -499,12 +451,6 @@
                         "question": "Ular Jagung saya terus mendorong celah kandang dengan kepalanya untuk kabur, apakah ini normal?",
                         "answer": "Ular Jagung adalah 'ahli meloloskan diri' yang sangat lincah. Jika kepalanya bisa muat di suatu celah, seluruh tubuhnya akan ikut lolos; selalu gunakan kandang dengan pengunci yang kuat. Jika perilaku ini terus berlanjut, periksa apakah suhu kandang terlalu panas atau tempat sembunyi kurang."
                     }
-                ],
-                "tags": [
-                    "UlarJagung",
-                    "CornSnake",
-                    "PerawatanReptil",
-                    "PencegahanMuntahUlar"
                 ]
             }
         },

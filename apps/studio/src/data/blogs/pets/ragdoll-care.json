@@ -51,12 +51,6 @@
                         "question": "렉돌을 안아줄 때 엉덩이를 받치지 않으면 어떤 문제가 생기나요?",
                         "answer": "렉돌은 몸집이 큰 대형묘이기 때문에 엉덩이를 받치지 않고 겨드랑이만 들어 올리면 7kg 이상의 하중이 척추뼈 관절 마디와 갈비뼈에 집중되어 디스크 손상이나 탈구 위험이 치솟습니다."
                     }
-                ],
-                "tags": [
-                    "렉돌",
-                    "안아올리기",
-                    "관절케어",
-                    "반려묘홈케어"
                 ]
             },
             "en": {
@@ -107,12 +101,6 @@
                         "question": "What happens if I don't support a Ragdoll's hips when holding them?",
                         "answer": "Because Ragdolls are large cats, lifting them only by their armpits without supporting their rear causes their entire weight (often over 7kg) to concentrate on their spine joints and ribs, dramatically increasing the risk of disc herniation or joint subluxation."
                     }
-                ],
-                "tags": [
-                    "RagdollCat",
-                    "SafeHolding",
-                    "JointCare",
-                    "CatHomeCare"
                 ]
             },
             "ja": {
@@ -163,12 +151,6 @@
                         "question": "ラグドールを抱く時にお尻を支えないと、どうなりますか？",
                         "answer": "ラグドールは大型猫のため、お尻を支えずに脇の下だけを持ち上げると、7kg以上の荷重が脊椎関節や肋骨に集中し、ヘルニアや脱臼のリスクが高まります。"
                     }
-                ],
-                "tags": [
-                    "ラグドール",
-                    "抱き方",
-                    "関節ケア",
-                    "愛猫ホームケア"
                 ]
             },
             "zh": {
@@ -219,12 +201,6 @@
                         "question": "抱布偶猫时不托住臀部会有什么后果？",
                         "answer": "布偶猫是大型猫，如果不托住臀部仅提起其双腋，会导致其7公斤以上的体重全部集中在脊椎骨关节和肋骨上，极大增加脊椎盘受损或脱位的风险。"
                     }
-                ],
-                "tags": [
-                    "布偶猫",
-                    "抱姿训练",
-                    "关节护理",
-                    "猫咪家庭护理"
                 ]
             },
             "es": {
@@ -275,12 +251,6 @@
                         "question": "¿Qué pasa si no sostengo la cadera de mi Ragdoll al cargarlo?",
                         "answer": "Al ser una raza grande, cargarlos solo por las axilas concentra su peso (a menudo más de 7kg) en la columna vertebral y las costillas, elevando drásticamente el riesgo de hernias discales o subluxación."
                     }
-                ],
-                "tags": [
-                    "Ragdoll",
-                    "SujeciónSegura",
-                    "CuidadoArticular",
-                    "CuidadoDeGatos"
                 ]
             },
             "fr": {
@@ -331,12 +301,6 @@
                         "question": "Que se passe-t-il si je ne soutiens pas le bassin de mon Ragdoll en le portant ?",
                         "answer": "Comme c'est un grand chat, le porter uniquement sous les aisselles fait peser tout son poids (souvent plus de 7kg) sur sa colonne et ses côtes, augmentant fortement le risque de hernie ou de subluxation."
                     }
-                ],
-                "tags": [
-                    "Ragdoll",
-                    "PortageSécurisé",
-                    "SoinArticulaire",
-                    "SoinsFélins"
                 ]
             },
             "de": {
@@ -387,12 +351,6 @@
                         "question": "Was passiert, wenn ich die Hüfte einer Ragdoll beim Tragen nicht stütze?",
                         "answer": "Da sie eine große Rasse sind, belastet das Halten nur an den Achseln die Wirbelsäule mit ihrem gesamten Gewicht (oft über 7kg), was das Risiko von Bandscheibenschäden oder Luxationen drastisch erhöht."
                     }
-                ],
-                "tags": [
-                    "Ragdoll",
-                    "SicheresHalten",
-                    "Gelenkpflege",
-                    "Katzenpflege"
                 ]
             },
             "pt": {
@@ -443,12 +401,6 @@
                         "question": "O que acontece se eu não apoiar os quadris do Ragdoll ao segurá-lo?",
                         "answer": "Sendo uma raça grande, segurá-los apenas pelas axilas concentra seu peso (muitas vezes mais de 7kg) na coluna vertebral e costelas, elevando drásticamente o risco de hérnia de disco ou subluxação."
                     }
-                ],
-                "tags": [
-                    "Ragdoll",
-                    "ColoSeguro",
-                    "CuidadoArticular",
-                    "CuidadoDeGatos"
                 ]
             },
             "id": {
@@ -499,12 +451,6 @@
                         "question": "Apa yang terjadi jika saya tidak menopang pinggul Ragdoll saat menggendongnya?",
                         "answer": "Karena mereka adalah ras besar, menggendong mereka hanya pada ketiak akan membebankan seluruh berat tubuh (seringkali lebih dari 7kg) pada tulang belakang dan tulang rusuk, meningkatkan risiko cedera diskus atau dislokasi."
                     }
-                ],
-                "tags": [
-                    "Ragdoll",
-                    "GendongAman",
-                    "PerawatanSendi",
-                    "PerawatanKucing"
                 ]
             }
         },
