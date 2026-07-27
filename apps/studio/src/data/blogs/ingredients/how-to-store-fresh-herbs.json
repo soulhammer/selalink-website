@@ -1,0 +1,406 @@
+{
+    "how-to-store-fresh-herbs": {
+        "ingId": "fresh-herbs",
+        "pubDate": "2026-06-08",
+        "updatedDate": "2026-06-08",
+        "heroImage": "/images/blog/fresh_herbs_storage_hack.webp",
+        "locales": {
+            "ko": {
+                "title": "생 허브(바질·파슬리) 신선하게 보관하는 법: 과학적 보관 가이드",
+                "description": "공인된 안전 가이드라인에 따른 생 허브(바질, 파슬리)의 허브 종류별 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+                "authority": "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & UC Davis 신선식품센터</strong>",
+                "intro": "향긋한 생 바질이나 파슬리를 요리에 쓰고 남겨두었다가 다음 날 검게 변하거나 짓물러서 버린 경험 있으시죠? 🌿\n\n생 허브는 수확 후에도 수분 증발과 호흡 작용이 매우 빠르게 일어나는 미세 식재료입니다. 특히 허브 종류에 따라 온도에 반응하는 생리 특성이 전혀 달라서, 모든 허브를 무조건 냉장고에 넣으면 냉해(Chilling Injury)를 입어 파괴됩니다.\n\n오늘 FreshSnap에서는 농업 및 식품 과학 전문가들의 가이드라인을 바탕으로, 바질과 파슬리의 특성에 맞춘 3단계 과학적 맞춤 보관 비법을 소개해 드립니다. 🛡️",
+                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+                "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+                "guideTitle": "과학적으로 검증된 보관 가이드",
+                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+                "cautions": [
+                    {
+                        "title": "바질을 절대로 일반 냉장실(0~4℃)에 바로 넣지 마세요 ⚠️",
+                        "desc": "바질은 10℃ 이하의 저온에 노출되면 세포막이 파괴되는 냉해(Chilling Injury)를 입어 잎이 순식간에 검게 변색되고 향을 잃습니다. 바질은 냉장고 대신 상온에서 꽃병에 꽂듯 보관해야 합니다."
+                    },
+                    {
+                        "title": "보관 전에 허브 잎을 물로 씻지 마세요 💧",
+                        "desc": "보관 전 허브 잎에 물기가 남아있으면 밀봉 용기 안에서 습기가 차서 잎이 짓무르고 세균 및 곰팡이가 급격히 번식합니다. 씻는 것은 반드시 요리 직전에 하셔야 합니다."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "바질: 줄기 끝을 잘라 물병에 꽂아 상온(15~20℃) 보관하기 — 상온 꽃병 방식 🌸",
+                        "text": "저온에 취약한 바질은 실온 보관이 핵심입니다. 💡 보관 팁: 바질 줄기 밑동을 살짝 잘라낸 후 물이 1~2cm 담긴 유리병에 수직으로 세워 꽂고, 잎 위로 비닐봉지를 살짝 덮어 실온(15~20℃)에 두면 7~10일간 싱싱하게 유지됩니다."
+                    },
+                    {
+                        "name": "파슬리·고수: 물병에 꽂아 비닐을 씌운 뒤 냉장(0~4℃) 보관하기 — 냉장 꽃병 방식 ❄️",
+                        "text": "추위를 견디는 파슬리, 고수, 딜 등은 냉장 보관이 수분을 유지해 줍니다. 💡 보관 팁: 줄기 끝을 자르고 물병에 꽂은 뒤 비닐봉지를 느슨하게 덮어 냉장고 문 선반(0~4℃)에 보관하세요. 2~3주 이상 바삭한 신선함이 지속됩니다."
+                    },
+                    {
+                        "name": "습윤 키친타월로 감싸 지퍼백 보관하거나 오일 트레이 냉동하기 — 장기 보관 🧊",
+                        "text": "물병 보관이 어렵거나 오랫동안 두고 싶을 때는 습도 조절 보관을 추천합니다. 💡 보관 팁: 허브를 살짝 적신 키친타월로 감싸 밀봉 지퍼백에 담아 냉장 보관(7~10일)하거나, 다진 허브를 올리브 오일과 함께 아이스 트레이에 넣어 냉동(-18℃ 이하)하면 6개월 이상 보관 가능합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "바질 잎이 냉장고에 넣었더니 검게 변했는데 쓸 수 있나요?",
+                        "answer": "바질 잎이 검게 변한 것은 저온 장애(냉해)로 인해 세포가 파괴되고 폴리페놀 산화효소가 활성화된 현상입니다. 독성이 생기는 것은 아니지만 풍미가 거의 사라지고 식감이 무너지므로, 향을 위한 요리나 페스토용으로는 적합하지 않습니다."
+                    },
+                    {
+                        "question": "시들어버린 파슬리나 바질을 다시 싱싱하게 복원하는 방법이 있나요?",
+                        "answer": "수분을 잃고 시든 허브는 줄기 끝을 0.5~1cm 사선으로 자른 뒤, 차가운 얼음물에 10~15분간 담가두면 삼투압 작용으로 수분이 수액관을 타고 공급되어 다시 아삭하고 싱싱하게 복원됩니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "How to Keep Fresh Herbs (Basil & Parsley) Fresh: Scientific Storage Guide",
+                "description": "Check the optimal storage temperature, method, and shelf life for fresh herbs (basil, parsley) based on official safety guidelines.",
+                "authority": "<strong>RDA & USDA & UC Davis Postharvest Center</strong>",
+                "intro": "Have you ever left fresh basil or parsley in the fridge only to find it blackened or slimy the next day? 🌿\n\nFresh herbs have rapid respiration and transpiration rates after harvest. Different herbs react very differently to temperature—for instance, putting basil directly into a cold fridge causes chilling injury that completely destroys the leaves.\n\nToday, FreshSnap introduces a scientifically proven 3-step herb storage guide based on guidelines from agricultural and food science experts to keep your basil and parsley fresh and vibrant. 🛡️",
+                "whyTitle": "Why Store Fresh Herbs This Way? Scientific Facts",
+                "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
+                "guideTitle": "Scientifically Proven Storage Guide",
+                "cautionTitle": "Essential Storage Rules and Cautions",
+                "cautions": [
+                    {
+                        "title": "Never place fresh basil directly in a cold refrigerator (0–4°C) ⚠️",
+                        "desc": "Exposing basil to temperatures below 10°C triggers chilling injury, damaging cell membranes and turning the leaves black while destroying its essential aromatic oils. Basil must be kept at room temperature like cut flowers."
+                    },
+                    {
+                        "title": "Do not wash fresh herbs before storing 💧",
+                        "desc": "Trapping excess water on herb leaves before storage causes moisture buildup inside sealed containers, leading to rapid decay, sliminess, and bacterial/mold growth. Wash herbs right before cooking."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Basil: Trim stems and store in a water jar at room temp (15–20°C) — Room Temp Bouquet Method 🌸",
+                        "text": "Cold-sensitive basil thrives at cool room temperature. 💡 Storage Tip: Trim 1 cm off the stems, place upright in a jar filled with 1–2 cm of water, and loosely cover the leaves with a plastic bag at room temperature (15–20°C / 59–68°F) for 7–10 days."
+                    },
+                    {
+                        "name": "Parsley & Cilantro: Trim stems, place in a water jar, cover with plastic, and refrigerate (0–4°C) — Cold Bouquet Method ❄️",
+                        "text": "Cold-hardy herbs like parsley, cilantro, and dill prefer cold refrigeration. 💡 Storage Tip: Trim stems, place upright in a jar with water, cover loosely with a plastic bag, and refrigerate on the fridge door shelf (0–4°C) for 2–3 weeks."
+                    },
+                    {
+                        "name": "Wrap in damp paper towels or freeze in oil ice trays — Long-Term Storage 🧊",
+                        "text": "When water jar storage is not feasible, humidity-controlled wrapping or oil freezing is ideal. 💡 Storage Tip: Wrap herbs in slightly damp paper towels inside a Ziploc bag in the fridge (7–10 days), or freeze chopped herbs in olive oil using ice cube trays (-18°C) for up to 6 months."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "My basil turned black after putting it in the fridge. Is it still usable?",
+                        "answer": "Blackened basil leaves result from chilling injury, which breaks cell walls and activates polyphenol oxidase enzymes. While not toxic, the leaves lose their essential aroma and collapse in texture, making them unsuitable for fresh garnishes or pesto."
+                    },
+                    {
+                        "question": "Is there a way to revive wilted parsley or basil?",
+                        "answer": "Yes! Trim 0.5–1 cm off the stem ends at a 45-degree angle and submerge the stems in cold ice water for 10–15 minutes. Osmotic pressure will pull water up the vascular system, restoring crispness and vitality."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "生ハーブ（バジル・パセリ）を新鮮に保つ保存方法：科学的保管ガイド",
+                "description": "公的安全基準に基づく生ハーブ（バジル、パセリ）のハーブ別最適な保存温度、保管方法、保存期間をご確認ください。",
+                "authority": "<strong>農村振興庁(RDA) & 米国農務省(USDA) & UCデイビス校ポストハーベストセンター</strong>",
+                "intro": "フレッシュバジルやパセリを料理に使って残りを保管していたら、翌日真っ黒に変色したりドロドロに傷んでしまった経験はありませんか？🌿\n\n生ハーブは収穫後も蒸散と呼吸作用が非常に活発な繊細な食材です。特にハーブの種類によって chill (寒さ) に対する反応が異なり、すべてのハーブを無条件で冷蔵庫に入れると低温障害を起こして破壊されてしまいます。\n\n本日FreshSnapでは、専門家のガイドラインに基づき、バジルとパセリの特性に合わせた3段階の科学的保存法をご紹介します。🛡️",
+                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+                "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+                "guideTitle": "科学的に検証された保存ガイド",
+                "cautionTitle": "保存時の必須ルールと注意事項",
+                "cautions": [
+                    {
+                        "title": "バジルを絶対に通常の冷蔵室（0〜4℃）に入れないでください ⚠️",
+                        "desc": "バジルは10℃以下の低温に晒されると細胞膜が破壊される低温障害（Chilling Injury）を起こし、葉が一気に黒く変色して香りを失います。バジルは冷蔵庫ではなく常温で花瓶に活けるように保存してください。"
+                    },
+                    {
+                        "title": "保存する前にハーブの葉を水洗いしないでください 💧",
+                        "desc": "保存前に葉に水分が残っていると、密封容器の中で湿気がこもって葉が傷み、雑菌やカビが繁殖する原因になります。洗うのは必ず調理直前にしてください。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "バジル：茎の先を切り水瓶に挿して常温（15〜20℃）で保存する — 常温ブーケ保存 🌸",
+                        "text": "寒さに弱いバジルは常温保存が基本です。💡保存のコツ：茎の根元を少しカットし、水が1〜2cm入ったグラスに立てて挿し、葉の上にポリ袋をふんわり被せて常温（15〜20℃）に置くと7〜10日間みずみずしさが保たれます。"
+                    },
+                    {
+                        "name": "パセリ・パクチー：水瓶に挿して袋を被せ冷蔵（0〜4℃）保存する — 冷蔵ブーケ保存 ❄️",
+                        "text": "寒さに強いパセリやパクチー、ディルなどは冷蔵保存が適しています。💡保存のコツ：茎を切って水瓶に挿し、ポリ袋をふんわり被せて冷蔵庫のドアポケット（0〜4℃）に保管すると、2〜3週間以上シャキシャキ感が持続します。"
+                    },
+                    {
+                        "name": "湿らせたペーパーで包みジッパーバッグ保存かオイル冷凍する — 長期保存 🧊",
+                        "text": "水瓶に挿すのが難しい場合や長期保存したい場合は湿気コントロールや冷凍がおすすめです。💡保存のコツ：湿らせたキッチンペーパーで包みジッパーバッグに入れて冷蔵保存（7〜10日）するか、刻んだハーブをオリーブオイルと共に製氷皿に入れて冷凍（-18℃以下）すれば6ヶ月以上保存可能です。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "バジルの葉が冷蔵庫に入れたら黒くなってしまいました。使えますか？",
+                        "answer": "黒くなったバジルは低温障害により細胞が破壊され酸化が進んだ状態です。毒性はありませんが、香りがほとんど飛んで食感も崩れているため、フレッシュな料理やペースト用には適していません。"
+                    },
+                    {
+                        "question": "しなびてしまったパセリやバジルを復活させる方法はありますか？",
+                        "answer": "茎の先端を0.5〜1cm斜めにカットし、冷たい氷水に10〜15分間浸しておくと、浸透圧の働きで水分が吸い上げられ、再びシャキッとみずみずしく復活します。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "如何保持新鲜香草（罗勒·欧芹）鲜嫩：科学储存指南",
+                "description": "根据官方食品安全指南，了解不同种类新鲜香草（罗勒、欧芹）的最佳储存温度、方式及保鲜时长。",
+                "authority": "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & UC戴维斯采后技术中心</strong>",
+                "intro": "您是否曾将用剩的新鲜罗勒或欧芹放入冰箱，结果第二天发现它们发黑烂成一滩？🌿\n\n新鲜香草采摘后呼吸与蒸腾作用极其旺盛。不同香草对温度的生理反应截然不同，例如将怕冷的罗勒直接放进冷藏室，会引发冷害（Chilling Injury）使其彻底变黑坏掉。\n\n今天FreshSnap将为您介绍基于采后专家指南的3步科学香草保存秘诀，针对罗勒与欧芹的特性分类保鲜。🛡️",
+                "whyTitle": "为什么要这样储存？科学原理",
+                "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+                "guideTitle": "科学验证的储存指南",
+                "cautionTitle": "储存必需规则及注意事项",
+                "cautions": [
+                    {
+                        "title": "切勿将罗勒直接放入普通冷藏室（0~4℃） ⚠️",
+                        "desc": "罗勒暴露于10℃以下的低温时，细胞膜会被破坏并产生冷害，导致叶片迅速发黑并失去芳香油。罗勒必须像鲜花一样放在常温水瓶中保存。"
+                    },
+                    {
+                        "title": "储存前切勿清洗香草叶片 💧",
+                        "desc": "储存前若叶片残留水分，会在密封容器内部形成高湿环境，导致叶片发烂并滋生细菌与霉菌。请务必在烹饪前再清洗。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "罗勒：切除茎部放入水瓶，常温（15~20℃）保存 — 常温插花水培法 🌸",
+                        "text": "怕冷的罗勒核心在于常温保存。💡储存小贴士：剪去罗勒茎部末端，垂直插入装有1~2厘米清水的玻璃瓶中，顶部松松地罩上保鲜袋，置于常温（15~20℃）下可保鲜7~10天。"
+                    },
+                    {
+                        "name": "欧芹·香菜：插入水瓶并套保鲜袋，冷藏（0~4℃）保存 — 冷藏水培法 ❄️",
+                        "text": "耐寒的欧芹、香菜、莳萝等适合冷藏保鲜。💡储存小贴士：修剪茎部后插入水瓶，顶部罩上保鲜袋，放入冰箱门架（0~4℃）冷藏，可保持2~3周以上的爽脆鲜嫩。"
+                    },
+                    {
+                        "name": "湿厨房纸包裹装袋冷藏，或油封冷冻 — 长期保存 🧊",
+                        "text": "不便插瓶或需长期保存时，建议控制湿度或冷冻。💡储存小贴士：用微湿的厨房纸包裹香草装入密封袋冷藏（7~10天）；或将切碎的香草与橄榄油一起倒入冰格冷冻（-18℃以下），可保存6个月以上。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "罗勒放冰箱后变黑了，还能用吗？",
+                        "answer": "变黑是因低温冷害导致细胞破坏和多酚氧化酶活化的结果。虽然无毒，但芳香风味已基本丧失且质地软烂，不再适合用于新鲜装饰或制作青酱。"
+                    },
+                    {
+                        "question": "有办法让发蔫萎蔫的欧芹或罗勒恢复新鲜吗？",
+                        "answer": "有！将萎蔫香草的茎部末端斜剪0.5~1厘米，然后浸泡在冰水中10~15分钟，在渗透压作用下水分会重新充满维管束，使其恢复挺拔爽脆。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cómo mantener las hierbas frescas (albahaca y perejil) frescas: Guía científica de conservación",
+                "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para hierbas frescas (albahaca, perejil) según las directrices oficiales de seguridad.",
+                "authority": "<strong>RDA & USDA & UC Davis Postharvest Center</strong>",
+                "intro": "¿Alguna vez dejó albahaca o perejil fresco en el refrigerador solo para descubrirlo negro o baboso al día siguiente? 🌿\n\nLas hierbas frescas tienen tasas de respiración y transpiración muy elevadas. Las distintas hierbas reaccionan de manera diferente a la temperatura; por ejemplo, poner albahaca en el refrigerador frío provoca daños por frío que destruyen sus hojas.\n\nHoy, FreshSnap presenta una guía de conservación de hierbas en 3 pasos respaldada por expertos poscosecha para mantener su albahaca y perejil frescos y vibrantes. 🛡️",
+                "whyTitle": "¿Por qué almacenarlas así? Datos científicos",
+                "whyDesc": "Comprender las características fisiológicas y químicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+                "guideTitle": "Guía de almacenamiento científicamente probada",
+                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+                "cautions": [
+                    {
+                        "title": "Nunca ponga la albahaca fresca directamente en el refrigerador frío (0–4 °C) ⚠️",
+                        "desc": "Exponer la albahaca a temperaturas inferiores a 10 °C causa daños por frío que destruyen las membranas celulares, volviendo las hojas negras y eliminando sus aceites aromáticos. Consérvela a temperatura ambiente como flores cortadas."
+                    },
+                    {
+                        "title": "No lave las hierbas frescas antes de guardarlas 💧",
+                        "desc": "El agua atrapada en las hojas antes de guardarlas genera humedad dentro de los envases, provocando descomposición rápida, moho y bacterias. Lávelas justo antes de cocinar."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Albahaca: Corte los tallos y guarde en un frasco con agua a temperatura ambiente (15–20 °C) — Método florero 🌸",
+                        "text": "La albahaca es sensible al frío y prospera a temperatura ambiente. 💡 Consejo de almacenamiento: Recorte 1 cm de los tallos, colóquelos erguidos en un frasco con 1–2 cm de agua y cubra holgadamente con una bolsa de plástico a 15–20 °C durante 7–10 días."
+                    },
+                    {
+                        "name": "Perejil y cilantro: Corte tallos, coloque en agua, cubra con plástico y refrigere (0–4 °C) — Método florero frío ❄️",
+                        "text": "Las hierbas resistentes como el perejil y el cilantro prefieren la refrigeración. 💡 Consejo de almacenamiento: Recorte los tallos, colóquelos erguidos en un frasco con agua, cubra con una bolsa y refrigere en la puerta (0–4 °C) durante 2–3 semanas."
+                    },
+                    {
+                        "name": "Envuelva en papel absorbente húmedo o congele en cubiteras con aceite — Almacenamiento prolongado 🧊",
+                        "text": "Si no puede usar frascos de agua, envolver con humedad o congelar en aceite es ideal. 💡 Consejo de almacenamiento: Envuelva las hierbas en papel absorbente húmedo en una bolsa Ziploc en el refrigerador (7–10 días), o congele hierbas picadas con aceite de oliva en cubiteras (-18 °C) hasta por 6 meses."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mi albahaca se puso negra tras meterla al refrigerador. ¿Aún sirve?",
+                        "answer": "Las hojas negras se deben a daños por frío que destruyen las paredes celulares. Aunque no es tóxica, la albahaca pierde sus aceites aromáticos y su textura, por lo que no es apta para aderezos frescos o pesto."
+                    },
+                    {
+                        "question": "¿Hay alguna forma de revivir el perejil o la albahaca murchos?",
+                        "answer": "¡Sí! Recorte 0,5–1 cm de los tallos en ángulo de 45 grados y sumérjalos en agua helada durante 10–15 minutos. La presión osmótica rehidratará la planta, devolviéndole su firmeza."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Comment conserver les herbes fraîches (basilic et persil) fraîches : Guide scientifique de conservation",
+                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les herbes fraîches (basilic, persil) selon les directives officielles de sécurité.",
+                "authority": "<strong>RDA & USDA & UC Davis Postharvest Center</strong>",
+                "intro": "Avez-vous déjà laissé du basilic ou du persil frais au réfrigérateur pour le retrouver noirci ou visqueux le lendemain ? 🌿\n\nLes herbes fraîches ont un taux de respiration très élevé après la récolte. Chaque herbe réagit différemment à la température ; par ejemplo, placer du basilic au froid provoque des brûlures par le gel qui détruisent ses feuilles.\n\nAujourd'hui, FreshSnap vous présente un guide de conservation en 3 étapes recommandé par des experts pour garder votre basilic et votre persil bien frais et parfumés. 🛡️",
+                "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
+                "whyDesc": "Comprendre les caractéristiques physiologiques et chimiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+                "guideTitle": "Guide de conservation scientifiquement prouvé",
+                "cautionTitle": "Règles essentielles et précautions de stockage",
+                "cautions": [
+                    {
+                        "title": "Ne placez jamais le basilic frais directement au réfrigérateur (0–4 °C) ⚠️",
+                        "desc": "Exposer le basilic à moins de 10 °C provoque des dégâts par le froid qui brisent les membranes cellulaires, noircissent les feuilles et détruisent ses huiles essentielles. Conservez-le à température ambiante comme des fleurs coupées."
+                    },
+                    {
+                        "title": "Ne lavez pas les herbes fraîches avant de les ranger 💧",
+                        "desc": "L'eau emprisonnée sur les feuilles avant le stockage favorise la moisissure et le pourrissement rapide dans les récipients fermés. Ne lavez les herbes qu'au moment de cuisiner."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Basilic : Couper les tiges et conserver dans un bocal d'eau à température ambiante (15–20 °C) — Méthode du bouquet ambiant 🌸",
+                        "text": "Sensible au froid, le basilic s'épanouit à température ambiante. 💡 Astuce de conservation : Recoupez 1 cm au bas des tiges, placez-les debout dans un bocal avec 1 à 2 cm d'eau et couvrez d'un sachet plastique à 15–20 °C pendant 7 à 10 jours."
+                    },
+                    {
+                        "name": "Persil & Coriandre : Couper les tiges, placer dans l'eau, couvrir d'un plastique et réfrigérer (0–4 °C) — Méthode du bouquet froid ❄️",
+                        "text": "Les herbes résistantes comme le persil et la coriandre préfèrent le froid. 💡 Astuce de conservation : Recoupez les tiges, placez-les dans un bocal d'eau, couvrez d'un sachet et réfrigérez dans la porte (0–4 °C) pendant 2 à 3 semaines."
+                    },
+                    {
+                        "name": "Envelopper dans du papier absorbant humide ou congeler avec de l'huile — Stockage longue durée 🧊",
+                        "text": "Si le bocal n'est pas pratique, l'emballage humide ou la congélation dans l'huile est idéale. 💡 Astuce de conservation : Enveloppez les herbes dans du papier absorbant humide au réfrigérateur (7–10 jours), ou congelez les herbes hachées dans de l'huile d'olive dans un bac à glaçons (-18 °C) pendant 6 mois."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mon basilic a noircis au réfrigérateur. Est-il encore utilisable ?",
+                        "answer": "Le noircissement est causé par des lésions dues au froid qui détruisent les parois cellulaires. Bien que non toxique, le basilic perd tout son arôme et sa tenue, ce qui le rend impropre aux garnitures fraîches ou au pesto."
+                    },
+                    {
+                        "question": "Peut-on raviver du persil ou du basilic flétri ?",
+                        "answer": "Oui ! Recoupez 0,5 à 1 cm au bas des tiges en biseau et plongez-les dans l'eau glacée pendant 10 à 15 minutes. La pression osmotique réhydrata la plante et lui rendra son croquant."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Frische Kräuter (Basilikum & Petersilie) richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für frische Kräuter (Basilikum, Petersilie) basierend auf offiziellen Sicherheitsrichtlinien.",
+                "authority": "<strong>RDA & USDA & UC Davis Postharvest Center</strong>",
+                "intro": "Haben Sie frisches Basilikum oder Petersilie im Kühlschrank gelagert und am nächsten Tag feststellen müssen, dass die Blätter schwarz oder matschig wurden? 🌿\n\nFrische Kräuter besitzen nach der Ernte eine sehr hohe Atmungs- und Verdunstungsrate. Kräuter reagieren unterschiedlich auf Kälte: Legt man kälteempfindliches Basilikum direkt in den Kühlschrank, führt dies zu Kälteschäden, die die Blätter zerstören.\n\nHeute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um Ihr Basilikum und Ihre Petersilie dauerhaft frisch und aromatisch zu halten. 🛡️",
+                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+                "whyDesc": "Das Verständnis der einzigartigen physiologischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+                "cautions": [
+                    {
+                        "title": "Basilikum niemals direkt in den kalten Kühlschrank (0–4 °C) legen ⚠️",
+                        "desc": "Temperaturen unter 10 °C verursachen bei Basilikum Kälteschäden, die Zellwände zerstören und die Blätter tiefschwarz färben, während ätherische Öle verloren gehen. Basilikum gehört bei Raumtemperatur wie Schnittblumen versorgt."
+                    },
+                    {
+                        "title": "Frische Kräuter vor der Lagerung nicht waschen 💧",
+                        "desc": "Eingeschlossenes Wasser auf den Blättern führt in luftdichten Behältern zu Fäulnis, Matschigkeit und Schimmelbildung. Waschen Sie Kräuter erst unmittelbar vor der Zubereitung."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Basilikum: Stängel anschneiden und im Wasserglas bei Raumtemperatur (15–20 °C) lagern — Strauß-Methode 🌸",
+                        "text": "Basilikum gedeiht am besten bei kühler Raumtemperatur. 💡 Lagerungstipp: Schneiden Sie 1 cm der Stängel ab, stellen Sie das Basilikum in ein Glas mit 1–2 cm Wasser und stülpen Sie eine Plastiktüte bei 15–20 °C für 7–10 Tage locker darüber."
+                    },
+                    {
+                        "name": "Petersilie & Koriander: Stängel anschneiden, ins Wasserglas stellen, Abdecken und kühlen (0–4 °C) — Kalte Strauß-Methode ❄️",
+                        "text": "Kälteresistente Kräuter wie Petersilie, Koriander und Dill bevorzugen Kälte. 💡 Lagerungstipp: Schneiden Sie die Stängel an, stellen Sie sie in ein Wasserglas, decken Sie sie mit einer Tüte ab und kühlen Sie sie in der Tür (0–4 °C) für 2–3 Wochen."
+                    },
+                    {
+                        "name": "In feuchtes Küchenpapier wickeln oder in Öl einfrieren — Langzeitlagerung 🧊",
+                        "text": "Wenn Wassergläser unpraktisch sind, eignet sich feuchtes Einwickeln oder Einfrieren in Öl. 💡 Lagerungstipp: Wickeln Sie Kräuter in feuchtes Küchenpapier im Ziploc-Beutel im Kühlschrank (7–10 Tage) oder frieren Sie gehackte Kräuter mit Olivenöl in Eiswürfelformen (-18 °C) bis zu 6 Monate ein."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mein Basilikum ist im Kühlschrank schwarz geworden. Kann ich es noch verwenden?",
+                        "answer": "Schwarze Blätter entstehen durch Kälteschäden, die Zellwände zerstören. Das Basilikum ist zwar nicht giftig, hat aber seine ätherischen Öle verloren und ist matschig, weshalb es sich nicht mehr für Gerichte oder Pesto eignet."
+                    },
+                    {
+                        "question": "Kann man welke Petersilie oder Basilikum wieder frisch machen?",
+                        "answer": "Ja! Schneiden Sie 0,5–1 cm der Stängel schräg ab und legen Sie die Kräuter für 10–15 Minuten in eiskaltes Wasser. Der Osmosedruck zieht Wasser in die Leitbahnen und macht die Blätter wieder knackig."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Como conservar ervas frescas (manjericão e salsa) frescas: Guia científico de armazenamento",
+                "description": "Descubra a temperatura, método e tempo de conservação ideais para ervas frescas (manjericão, salsa) com base em diretrizes oficiais de segurança.",
+                "authority": "<strong>RDA & USDA & UC Davis Postharvest Center</strong>",
+                "intro": "Você já deixou manjericão ou salsa fresca na geladeira e encontrou as folhas pretas ou meladas no dia seguinte? 🌿\n\nAs ervas frescas têm taxas de respiração muito altas após a colheita. Diferentes ervas reagem de forma distinta à temperatura; por exemplo, colocar manjericão na geladeira fria causa danos térmicos que destroem suas folhas.\n\nHoje, o FreshSnap apresenta um guia de conservação em 3 etapas recomendado por especialistas para manter seu manjericão e salsa frescos e viçosos. 🛡️",
+                "whyTitle": "Por que armazená-las assim? Fatos científicos",
+                "whyDesc": "Comprender as características fisiológicas e químicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+                "guideTitle": "Guia de armazenamento comprovado cientificamente",
+                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+                "cautions": [
+                    {
+                        "title": "Nunca coloque o manjericão fresco direto na geladeira fria (0–4 °C) ⚠️",
+                        "desc": "Expor o manjericão a temperaturas abaixo de 10 °C causa Danos por Frio, destruindo as membranas celulares, escurecendo as folhas e eliminando seus óleos aromáticos. Guarde-o em temperatura ambiente como flores cortadas."
+                    },
+                    {
+                        "title": "Não lave as ervas frescas antes de guardar 💧",
+                        "desc": "A água presa nas folhas antes do armazenamento cria umidade em potes fechados, causando podridão rápida, mofo e bactérias. Lave as ervas apenas na hora de cozinhar."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Manjericão: Corte os talos e guarde num copo com água em temperatura ambiente (15–20 °C) — Método buquê ambiente 🌸",
+                        "text": "Sensível ao frio, o manjericão se desenvolve melhor em temperatura ambiente fresca. 💡 Dica de conservação: Corte 1 cm dos talos, coloque em pé num copo com 1–2 cm de água e cubra com um saco plástico a 15–20 °C por 7 a 10 dias."
+                    },
+                    {
+                        "name": "Salsa e coentro: Corte talos, coloque na água, cubra com plástico e refrigere (0–4 °C) — Método buquê frio ❄️",
+                        "text": "Ervas resistentes como salsa e coentro preferem a geladeira. 💡 Dica de conservação: Corte os talos, coloque num copo com água, cubra folgadamente com um saco e refrigere na porta da geladeira (0–4 °C) por 2 a 3 semanas."
+                    },
+                    {
+                        "name": "Embrulhe em papel toalha úmido ou congele em forminhas de gelo com azeite — Armazenamento prolongado 🧊",
+                        "text": "Quando copos com água não forem práticos, embrulhar com umidade ou congelar em azeite é ideal. 💡 Dica de conservação: Embrulhe em papel toalha úmido num saco Ziploc na geladeira (7–10 dias), ou congele ervas picadas com azeite em forminhas de gelo (-18 °C) por até 6 meses."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Meu manjericão ficou preto após entrar na geladeira. Ainda posso usar?",
+                        "answer": "Folhas pretas ocorrem devido a danos por frio que destroem as paredes celulares. Embora não seja tóxico, o manjericão perde todo o aroma e firmeza, tornando-se impróprio para pratos frescos ou molho pesto."
+                    },
+                    {
+                        "question": "Existe alguma forma de recuperar salsa ou manjericão murchos?",
+                        "answer": "Sim! Corte 0,5–1 cm dos talos em ângulo de 45 graus e mergulhe em água com gelo por 10 a 15 minutos. A pressão osmótica reidratará a planta, devolvendo sua crocância."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Cara Menyimpan Herba Segar (Kemangi/Basil & Peterseli) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk herba segar (basil, peterseli) berdasarkan pedoman keselamatan resmi.",
+                "authority": "<strong>RDA & USDA & UC Davis Postharvest Center</strong>",
+                "intro": "Pernahkah Anda meninggalkan kemangi (basil) atau peterseli segar di kulkas lalu mendapatinya menghitam atau berlendir keesokan harinya? 🌿\n\nHerba segar memiliki tingkat respirasi dan transpirasi yang sangat tinggi setelah dipanen. Setiap jenis herba bereaksi berbeda terhadap suhu—misalnya, memasukkan kemangi langsung ke kulkas dingin akan memicu kerusakan dingin (chilling injury) yang merusak daunnya.\n\nHari ini, FreshSnap membagikan panduan penyimpanan herba 3 langkah berbasis ilmiah berdasarkan saran ahli pascapanen untuk menjaga kemangi dan peterseli Anda tetap segar dan hijau. 🛡️",
+                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+                "whyDesc": "Memahami karakteristik fisiologis dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+                "cautions": [
+                    {
+                        "title": "Jangan pernah menyimpan kemangi (basil) langsung di kulkas dingin (0–4°C) ⚠️",
+                        "desc": "Paparan suhu di bawah 10°C memicu kerusakan dingin pada kemangi, merusak membran sel dan membuat daunnya berubah hitam serta merusak minyak aromatisnya. Simpanlah pada suhu ruang seperti bunga potong."
+                    },
+                    {
+                        "title": "Jangan mencuci herba segar sebelum disimpan 💧",
+                        "desc": "Sisa air pada daun sebelum disimpan akan menciptakan kelembapan di dalam wadah tertutup, memicu pembusukan cepat, lendir, dan jamur. Cuci herba tepat sebelum dimasak."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Kemangi (Basil): Potong batang dan simpan dalam wadah berisi air pada suhu ruang (15–20°C) — Metode Buket Suhu Ruang 🌸",
+                        "text": "Kemangi sensitif terhadap dingin dan tumbuh paling baik pada suhu ruang sejuk. 💡 Tips Penyimpanan: Potong 1 cm batangnya, berdirikan tegak dalam gelas berisi 1–2 cm air, lalu tutup longgar daunnya dengan kantong plastik pada suhu ruang (15–20°C) selama 7–10 hari."
+                    },
+                    {
+                        "name": "Peterseli & Ketumbar: Potong batang, masukkan air, tutup plastik, dan simpan di kulkas (0–4°C) — Metode Buket Dingin ❄️",
+                        "text": "Herba tahan dingin seperti peterseli, ketumbar, dan dill menyukai suhu dingin. 💡 Tips Penyimpanan: Potong batangnya, masukkan ke wadah berisi air, tutup longgar dengan kantong plastik, lalu simpan di rak pintu kulkas (0–4°C) selama 2–3 minggu."
+                    },
+                    {
+                        "name": "Bungkus tisu dapur lembap dalam kantong Ziploc atau bekukan dalam minyak — Simpan Jangka Panjang 🧊",
+                        "text": "Jika penyimpanan wadah air tidak praktis, membungkus dengan kelembapan terukur atau membekukan dalam minyak adalah opsi ideal. 💡 Tips Penyimpanan: Bungkus herba dengan tisu dapur agak lembap di kantong Ziploc kulkas (7–10 hari), atau bekukan herba cincang dalam minyak zaitun menggunakan cetakan es batu (-18°C) hingga 6 bulan."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Daun kemangi saya berubah hitam setelah dimasukkan ke kulkas. Apakah masih bisa dipakai?",
+                        "answer": "Daun kemangi yang menghitam terjadi akibat kerusakan dingin yang merusak dinding sel. Meskipun tidak beracun, kemangi kehilangan minyak aromatisnya dan teksturnya hancur, sehingga tidak cocok lagi untuk hiasan segar atau pesto."
+                    },
+                    {
+                        "question": "Apakah ada cara menyegarkan kembali peterseli atau kemangi yang layu?",
+                        "answer": "Ada! Potong 0,5–1 cm ujung batang dengan sudut 45 derajat dan rendam batangnya dalam air es dingin selama 10–15 menit. Tekanan osmotik akan menarik air naik ke pembuluh tanaman, mengembalikan kerenyahan dan kesegarannya."
+                    }
+                ]
+            }
+        }
+    }
+}

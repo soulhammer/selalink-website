@@ -1,0 +1,406 @@
+{
+    "how-to-store-kiwi": {
+        "ingId": "kiwi",
+        "pubDate": "2026-05-18",
+        "updatedDate": "2026-05-18",
+        "heroImage": "/images/blog/kiwi_storage_hack.webp",
+        "locales": {
+            "ko": {
+                "title": "키위 신선하고 달콤하게 보관하는 법: 과학적 보관 가이드",
+                "description": "공인된 안전 가이드라인에 따른 키위의 최적 보관 온도, 방식 및 후숙·냉장 보관 기한을 확인하세요.",
+                "authority": "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & UC Davis 신선식품센터</strong>",
+                "intro": "새콤달콤한 키위를 한 상자 샀는데 너무 딱딱해서 신맛이 강하거나, 반대로 금방 무르고 물러져 버린 경험 있으시죠? 🥝\n\n키위는 수확 후 상온에서 숙성시켜 먹는 대표적인 후숙 과일(Climacteric Fruit)입니다. 익지 않은 상태에서 냉장고에 바로 넣으면 후숙이 멈추고 저온 장애가 생기며, 반대로 너무 따뜻한 곳에 두면 금방 물러집니다.\n\n오늘 FreshSnap에서는 농업 및 식품 과학 전문가들의 가이드라인을 바탕으로, 키위를 가장 달콤하고 아삭하게 즐길 수 있는 3단계 과학적 후숙 및 보관 비법을 소개해 드립니다. 🛡️",
+                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+                "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+                "guideTitle": "과학적으로 검증된 보관 가이드",
+                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+                "cautions": [
+                    {
+                        "title": "딱딱하게 익지 않은 키위를 즉시 냉동하거나 극저온에 두지 마세요 ⚠️",
+                        "desc": "덜 익은 키위를 차가운 환경에 오래 두면 후숙 작용이 정지되고 저온 장애가 발생하여 과육이 푸석해지고 당도가 올라가지 않습니다. 반드시 상온에서 부드럽게 숙성시킨 뒤 냉장·냉동 보관하세요."
+                    },
+                    {
+                        "title": "잘 익은 키위는 에틸렌 배출 과일(사과, 바나나)과 격리하세요 🍎",
+                        "desc": "이미 부드럽게 익은 키위를 사과, 바나나 등 에틸렌 가스를 다량 방출하는 과일과 함께 보관하면 과숙이 진행되어 순식간에 물러지고 부패합니다. 후숙이 완료된 후에는 반드시 분리하여 밀봉 보관해야 합니다."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "단단한 키위는 상온(18~22℃)에서 후숙시키기 — 상온 후숙 (3~7일) 🧺",
+                        "text": "손으로 살짝 쥐었을 때 부드러운 느낌이 들 때까지 단단한 키위는 서늘한 상온에서 보관하세요. 💡 보관 팁: 빠르게 후숙시켜 먹고 싶다면 사과나 바나나와 함께 종이 봉투에 넣어 밀봉해 두면 에틸렌 가스의 영향으로 2~3일 만에 달콤하게 익습니다."
+                    },
+                    {
+                        "name": "잘 익은 키위는 비닐팩에 담아 냉장(0~4℃) 보관하기 — 냉장 보관 (7~14일) ❄️",
+                        "text": "손가락으로 살짝 눌렀을 때 들어갈 정도로 부드럽게 익은 키위는 수분 증발을 막아야 합니다. 💡 보관 팁: 키위를 비닐봉지나 지퍼백에 담아 냉장고 야채실(0~4℃)에 보관하세요. 과숙을 늦춰주어 1~2주간 신선한 맛과 질감을 유지할 수 있습니다."
+                    },
+                    {
+                        "name": "껍질을 벗기고 잘라 밀폐 후 냉동 보관하기 — 냉동 보관 (300일) 🧊",
+                        "text": "오래 보관하고 싶을 때는 껍질을 제거하고 잘라 냉동 보관하는 것이 좋습니다. 💡 보관 팁: 완숙된 키위의 껍질을 벗기고 슬라이스하거나 깍둑썰기하여 쟁반에 겹치지 않게 펼쳐 1차 냉동한 뒤, 밀폐 지퍼백에 담아 냉동실(-18℃ 이하)에 두면 스무디나 디저트용으로 10~12개월간 보관 가능합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "키위가 너무 딱딱하고 셔서 못 먹겠는데 빨리 익히는 방법이 있나요?",
+                        "answer": "사과나 바나나처럼 에틸렌 가스를 많이 방출하는 과일과 함께 종이 봉투나 밀폐 용기에 담아 밀봉한 뒤 상온(18~22℃)에 두면, 에틸렌의 작용으로 2~3일 내에 부드럽고 달콤하게 후숙시킬 수 있습니다."
+                    },
+                    {
+                        "question": "키위를 껍질째 보관하거나 먹어도 괜찮나요?",
+                        "answer": "키위 껍질에는 섬유질과 항산화 성분이 풍부하여 표면의 털을 수세미나 칼등으로 살짝 문질러 씻어낸 뒤 껍질째 먹어도 안전합니다. 보관 시에는 껍질이 과육의 수분 증발을 막아주므로 먹기 직전에 잘라 드시는 것이 가장 좋습니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "How to Keep Kiwis Fresh and Sweet: Scientific Storage Guide",
+                "description": "Check the optimal storage temperature, ripening method, and shelf life for kiwis based on official safety guidelines.",
+                "authority": "<strong>RDA & USDA & UC Davis Postharvest Center</strong>",
+                "intro": "Have you ever bought a box of kiwis only to find them too hard and sour, or left them out until they became mushy and spoiled? 🥝\n\nKiwi is a classic climacteric fruit that continues to ripen at room temperature after being harvested. Placing unripe kiwis directly into the refrigerator halts the ripening process and causes chilling injury, while leaving them in hot environments speeds up spoilage.\n\nToday, FreshSnap introduces a scientifically proven 3-step ripening and storage guide recommended by postharvest experts to keep your kiwis sweet, juicy, and fresh. 🛡️",
+                "whyTitle": "Why Store Kiwis This Way? Scientific Facts",
+                "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
+                "guideTitle": "Scientifically Proven Storage Guide",
+                "cautionTitle": "Essential Storage Rules and Cautions",
+                "cautions": [
+                    {
+                        "title": "Never freeze or chill unripened, hard kiwis immediately ⚠️",
+                        "desc": "Placing hard, unripe kiwis in cold temperatures halts the natural ripening process and triggers chilling injury, resulting in a mealy texture and lack of sweetness. Always ripen kiwis at room temperature first before chilling."
+                    },
+                    {
+                        "title": "Isolate ripe kiwis from ethylene-producing fruits (apples, bananas) 🍎",
+                        "desc": "Once kiwis are ripe and yield to soft pressure, keeping them near high ethylene producers like apples or bananas causes rapid over-ripening and rotting. Separate ripe kiwis and keep them sealed in cold storage."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Ripen hard kiwis at room temperature (18–22°C) — Room Temp Ripening (3–7 Days) 🧺",
+                        "text": "Keep firm kiwis at cool room temperature until they yield slightly to gentle thumb pressure. 💡 Storage Tip: To speed up ripening, seal hard kiwis in a paper bag with an apple or banana. The trapped ethylene gas will ripen them sweetly within 2–3 days."
+                    },
+                    {
+                        "name": "Store ripe kiwis in a plastic bag in the fridge (0–4°C) — Cold Storage (7–14 Days) ❄️",
+                        "text": "Once kiwis are soft and sweet, moisture loss must be prevented. 💡 Storage Tip: Place ripe kiwis in a plastic bag or Ziploc and store them in the refrigerator crisper drawer (0–4°C / 32–39°F). This slows further ripening and preserves freshness for 1–2 weeks."
+                    },
+                    {
+                        "name": "Peel, slice, and freeze in airtight bags — Freezer Storage (300 Days) 🧊",
+                        "text": "For long-term storage, peeling and freezing kiwis is the best option. 💡 Storage Tip: Peel fully ripe kiwis, slice or cube them, flash-freeze on a baking sheet, and transfer them into an airtight Ziploc bag in the freezer (-18°C). They will last 10–12 months for smoothies and desserts."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "My kiwis are too hard and sour. Is there a way to ripen them faster?",
+                        "answer": "Yes! Seal hard kiwis in a paper bag or container with an ethylene-releasing fruit like an apple or banana at room temperature (18–22°C). The natural ethylene gas will make them soft and sweet in just 2–3 days."
+                    },
+                    {
+                        "question": "Is it safe to store or eat kiwis with the skin on?",
+                        "answer": "Yes! Kiwi skin is rich in fiber and antioxidants. Gently scrub off the surface fuzz with a cloth or spoon and wash thoroughly before eating. During storage, keeping the skin intact prevents flesh moisture from evaporating, so slice right before serving."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "キウイの鮮度を保つ保存方法：科学的保管ガイド",
+                "description": "公的安全基準に基づくキウイの最適な追熟・保存温度、保管方法、保存期間をご確認ください。",
+                "authority": "<strong>農村振興庁(RDA) & 米国農務省(USDA) & UCデイビス校ポストハーベストセンター</strong>",
+                "intro": "キウイを買ってきたものの、硬くて酸味が強すぎたり、逆に放置しすぎてドロドロに傷んでしまった経験はありませんか？🥝\n\nキウイは収穫後に常温で熟成させて食べる代表的な「追熟果物（クライマクテリックフルーツ）」です。未熟な状態のまま冷蔵庫に入れると追熟が止まり低温障害を起こし、逆に高温の場所に置くと一気に傷んでしまいます。\n\n本日FreshSnapでは、ポストハーベスト（収穫後生理）専門家のガイドラインに基づき、キウイを最も甘くジューシーに楽しむための3段階の科学的追熟・保存法をご紹介します。🛡️",
+                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+                "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+                "guideTitle": "科学的に検証された保存ガイド",
+                "cautionTitle": "保存時の必須ルールと注意事項",
+                "cautions": [
+                    {
+                        "title": "硬く未熟なキウイをすぐに冷凍・冷やすのは避けてください ⚠️",
+                        "desc": "未熟なキウイを冷やしすぎると追熟が止まり、低温障害を起こして果肉がパサつき甘くなりません。必ず常温で柔らかく熟成させてから冷蔵・冷凍保存してください。"
+                    },
+                    {
+                        "title": "熟したキウイはエチレンを出す果物（リンゴ、バナナ）と隔離してください 🍎",
+                        "desc": "すでに柔らかく熟したキウイをリンゴやバナナなどのエチレンガスを多く出す果物と一緒にすると、過熟が進みあっという間に傷んでしまいます。追熟後は必ず分けて保存してください。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "硬いキウイは常温（18〜22℃）で追熟させる — 常温追熟 (3〜7日間) 🧺",
+                        "text": "優しく触って少し弾力が出るまで、硬いキウイは涼しい常温で保存します。💡保存のコツ：早く食べたい場合は、リンゴやバナナと一緒に紙袋に入れて密封すると、エチレンガスの効果で2〜3日で甘く熟します。"
+                    },
+                    {
+                        "name": "熟したキウイはポリ袋に入れて冷蔵（0〜4℃）保存する — 冷蔵保存 (7〜14日間) ❄️",
+                        "text": "指で押して少し凹む程度に熟したキウイは、水分蒸発を防ぐ必要があります。💡保存のコツ：ポリ袋やジッパーバッグに入れて冷蔵庫の野菜室（0〜4℃）で保存してください。過熟を遅らせ、1〜2週間新鮮な味と食感を維持できます。"
+                    },
+                    {
+                        "name": "皮を剥いてカットし密閉して冷凍保存する — 冷凍保存 (300日間) 🧊",
+                        "text": "長期保存したい場合は、皮を剥いてカットし冷凍保存するのが最適です。💡保存のコツ：完熟キウイの皮を剥き、スライスまたは角切りにしてトレイに並べて一重冷凍した後、ジッパーバッグに移して冷凍室（-18℃以下）で保管すれば、スムージーやデザート用に10〜12ヶ月保存可能です。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "キウイが硬くて酸っぱいのですが、早く甘く熟熟させる方法はありますか？",
+                        "answer": "リンゴやバナナなどエチレンガスを多く出す果物と一緒に紙袋や密閉容器に入れ、常温（18〜22℃）に置いておくと、エチレンの働きで2〜3日内に柔らかく甘く追熟します。"
+                    },
+                    {
+                        "question": "キウイは皮ごと保存したり食べたりしても大丈夫ですか？",
+                        "answer": "キウイの皮には食物繊維や抗酸化成分が豊富に含まれており、表面のうぶ毛をスポンジなどで軽く擦り洗いすれば皮ごと安全に召し上がれます。保存時も皮が水分蒸発を防ぐため、食べる直前にカットするのがベストです。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "如何保持猕猴桃（奇异果）新鲜香甜：科学储存指南",
+                "description": "根据官方食品安全指南，了解猕猴桃的最佳催熟与储存温度、方式及保鲜时长。",
+                "authority": "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & UC戴维斯采后技术中心</strong>",
+                "intro": "您是否买了一箱猕猴桃（奇异果），却因为太硬酸涩无法下口，或是放得太久发软烂掉？🥝\n\n猕猴桃是典型的“采后后熟型水果（Climacteric Fruit）”，采摘后需要在常温下熟化。若将未熟透的硬猕猴桃直接放入冰箱，会中止催熟过程并导致冷害；反之置于过热环境中则会迅速腐烂。\n\n今天FreshSnap将为您介绍由采后专家推荐的3步科学催熟与保存秘诀，帮您解锁猕猴桃最香甜多汁的口感。🛡️",
+                "whyTitle": "为什么要这样储存？科学原理",
+                "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+                "guideTitle": "科学验证的储存指南",
+                "cautionTitle": "储存必需规则及注意事项",
+                "cautions": [
+                    {
+                        "title": "切勿将未熟硬猕猴桃直接冷冻或置于极低温环境中 ⚠️",
+                        "desc": "未熟的猕猴桃若长期处于低温环境，其后熟作用会停止并产生冷害，导致果肉发棉且无法提升甜度。请务必先在常温下催熟变软后再冷藏或冷冻。"
+                    },
+                    {
+                        "title": "熟透的猕猴桃请与释放乙烯的水果（苹果、香蕉）隔离 🍎",
+                        "desc": "已经变软熟透的猕猴桃如果继续与苹果、香蕉等大量释放乙烯气体的水果放在一起，会导致过度成熟并迅速腐烂。熟化完成后必须分开密封冷藏。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "坚硬的猕猴桃置于常温（18~22℃）催熟 — 常温催熟 (3~7天) 🧺",
+                        "text": "用手轻压感觉微软前，坚硬的猕猴桃应存放在阴凉常温下。💡储存小贴士：如想加速催熟，可将硬猕猴桃与苹果或香蕉一起放入纸袋密封，在乙烯气体作用下2~3天即可变软变甜。"
+                    },
+                    {
+                        "name": "熟透的猕猴桃装入保鲜袋冷藏（0~4℃） — 冷藏保存 (7~14天) ❄️",
+                        "text": "轻压已有软度的熟猕猴桃需要防止水分蒸发。💡储存小贴士：将熟猕猴桃装入塑料袋或拉链袋中，放入冰箱蔬菜保鲜抽屉（0~4℃）冷藏，可延缓过熟，维持1~2周的新鲜口感。"
+                    },
+                    {
+                        "name": "去皮切块密封后冷冻 — 冷冻保存 (300天) 🧊",
+                        "text": "如需长期保存，去皮切块冷冻是最佳选择。💡储存小贴士：将熟透的猕猴桃去皮切片或切块，平铺在盘中预冻，再装入密封拉链袋放入冷冻室（-18℃以下），可保存10~12个月用于制作果昔或甜品。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "猕猴桃太硬太酸，有什么快速催熟的方法吗？",
+                        "answer": "有！将硬猕猴桃与苹果或香蕉等释放乙烯的水果一起装入纸袋或密封盒中，在常温（18~22℃）下放置，乙烯气体会在2~3天内使其快速变软变甜。"
+                    },
+                    {
+                        "question": "猕猴桃带皮保存或食用安全吗？",
+                        "answer": "安全！猕猴桃皮富含膳食纤维和抗氧化物。只需用刷子或刀背轻刮掉表面的茸毛并清洗干净，即可带皮食用。保存时完整的果皮能防止水分蒸发，因此建议食用前再切开。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cómo mantener los kiwis frescos y dulces: Guía científica de conservación",
+                "description": "Descubra la temperatura, el método de maduración y el tiempo de conservación óptimos para los kiwis según las directrices oficiales de seguridad.",
+                "authority": "<strong>RDA & USDA & UC Davis Postharvest Center</strong>",
+                "intro": "¿Alguna vez compró una caja de kiwis y descubrió que estaban demasiado duros y ácidos, o los dejó fuera hasta que se pusieron pochos y se estropearon? 🥝\n\nEl kiwi es una fruta climatérica clásica que continúa madurando a temperatura ambiente después de ser cosechada. Colocar kiwis verdes directamente en el refrigerador detiene la maduración y provoca daños por frío, mientras que dejarlos con calor acelera su descomposición.\n\nHoy, FreshSnap presenta una guía de maduración y conservación en 3 pasos respaldada por expertos poscosecha para mantener sus kiwis dulces, jugosos y frescos. 🛡️",
+                "whyTitle": "¿Por qué almacenarlos así? Datos científicos",
+                "whyDesc": "Comprender las características fisiológicas y químicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+                "guideTitle": "Guía de almacenamiento científicamente probada",
+                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+                "cautions": [
+                    {
+                        "title": "Nunca congele ni enfríe kiwis duros y verdes inmediatamente ⚠️",
+                        "desc": "Colocar kiwis duros en temperaturas frías detiene el proceso de maduración natural y causa daños por frío, dejando una textura harinosa y sin dulzura. Madúrelos siempre a temperatura ambiente antes de refrigerarlos."
+                    },
+                    {
+                        "title": "Aísle los kiwis maduros de las frutas que producen etileno (manzanas, plátanos) 🍎",
+                        "desc": "Una vez que los kiwis están maduros, dejarlos cerca de productores de etileno como manzanas o plátanos causa una sobremaduración rápida y pudrición. Sepárelos y guárdelos sellados en frío."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Madure los kiwis duros a temperatura ambiente (18–22 °C) — Maduración a temp. ambiente (3–7 días) 🧺",
+                        "text": "Mantenga los kiwis firmes a temperatura ambiente fresca hasta que ceda ligeramente al presionarlos suavemente. 💡 Consejo de almacenamiento: Para acelerar la maduración, cierre los kiwis duros en una bolsa de papel con una manzana o un plátano. El etileno atrapado los madurará en 2–3 días."
+                    },
+                    {
+                        "name": "Guarde los kiwis maduros en una bolsa de plástico en el refrigerador (0–4 °C) — Almacenamiento (7–14 días) ❄️",
+                        "text": "Una vez que los kiwis estén blandos y dulces, se debe evitar la pérdida de humedad. 💡 Consejo de almacenamiento: Coloque los kiwis maduros en una bolsa de plástico o Ziploc en el cajón de verduras (0–4 °C). Esto frena la maduración y mantiene la frescura durante 1–2 semanas."
+                    },
+                    {
+                        "name": "Pele, corte y congele en bolsas herméticas — Congelación (300 días) 🧊",
+                        "text": "Para un almacenamiento prolongado, pelar y congelar los kiwis es la mejor opción. 💡 Consejo de almacenamiento: Pele kiwis bien maduros, córtelos en rodajas o cubos, congólelos en una bandeja y páselos a una bolsa hermética Ziploc en el congelador (-18 °C) durante 10–12 meses."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mis kiwis están demasiado duros y ácidos. ¿Hay alguna forma de madurarlos más rápido?",
+                        "answer": "¡Sí! Cierre los kiwis duros en una bolsa de papel o recipiente con una fruta que libere etileno, como una manzana o un plátano, a temperatura ambiente (18–22 °C). El gas etileno natural los volverá blandos y dulces en solo 2–3 días."
+                    },
+                    {
+                        "question": "¿Es seguro almacenar o comer kiwis con piel?",
+                        "answer": "¡Sí! La piel del kiwi es rica en fibra y antioxidantes. Limpie la pelusa exterior con un paño o cuchara y lávelos bien antes de comer. Durante el almacenamiento, la piel evita que la pulpa pierda humedad, por lo que se recomienda cortarla justo antes de servir."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Comment conserver les kiwis frais et sucrés : Guide scientifique de conservation",
+                "description": "Découvrez la température, la méthode de mûrissage et la durée de conservation optimales pour les kiwis selon les directives officielles de sécurité.",
+                "authority": "<strong>RDA & USDA & UC Davis Postharvest Center</strong>",
+                "intro": "Avez-vous déjà acheté un panier de kiwis trop durs et acides, ou les avez-vous laissés dehors jusqu'à ce qu'ils deviennent mouillés et gâtés ? 🥝\n\nLe kiwi est un fruit climatérique classique qui continue de mûrir à température ambiante après la récolte. Placer des kiwis pas mûrs directement au réfrigérateur stoppe le mûrissage et provoque des dégâts par le froid, tandis qu'une chaleur excessive accélère le pourrissement.\n\nAujourd'hui, FreshSnap vous présente un guide de mûrissage et de conservation en 3 étapes recommandé par des experts pour garder vos kiwis sucrés, juteux et frais. 🛡️",
+                "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
+                "whyDesc": "Comprendre les caractéristiques physiologiques et chimiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+                "guideTitle": "Guide de conservation scientifiquement prouvé",
+                "cautionTitle": "Règles essentielles et précautions de stockage",
+                "cautions": [
+                    {
+                        "title": "Ne congelez ni ne réfrigérez jamais des kiwis durs pas mûrs ⚠️",
+                        "desc": "Placer des kiwis durs au froid stoppe le processus naturel de mûrissage et entraîne des lésions par le froid, rendant la chair farineuse et sans sucre. Faites toujours mûrir les kiwis à température ambiante avant de les réfrigérer."
+                    },
+                    {
+                        "title": "Isolez les kiwis mûrs des fruits émetteurs d'éthylène (pommes, bananes) 🍎",
+                        "desc": "Une fois les kiwis souples au toucher, les laisser près de forts émetteurs d'éthylène comme les pommes ou bananes provoque un sur-mûrissage rapide et le pourrissement. Séparez-les et conservez-les fermés au frais."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Faire mûrir les kiwis durs à température ambiante (18–22 °C) — Mûrissage ambiant (3–7 jours) 🧺",
+                        "text": "Conservez les kiwis fermes à température ambiante fraîche jusqu'à ce qu'ils cèdent sous une légère pression du pouce. 💡 Astuce de conservation : Pour accélérer le mûrissage, fermez les kiwis dans un sachet en papier avec une pomme ou une banane. L'éthylène les rendra bien sucrés en 2 à 3 jours."
+                    },
+                    {
+                        "name": "Conserver les kiwis mûrs dans un sachet plastique au réfrigérateur (0–4 °C) — Stockage (7–14 jours) ❄️",
+                        "text": "Une fois les kiwis tendres et sucrés, il faut éviter l'évaporation de leur eau. 💡 Astuce de conservation : Placez les kiwis mûrs dans un sachet plastique ou un sac Ziploc au bac à légumes du réfrigérateur (0–4 °C). Cela ralentit le mûrissage et préserve la fraîcheur pendant 1 à 2 semaines."
+                    },
+                    {
+                        "name": "Peler, couper et congeler en sachets hermétiques — Congélation (300 jours) 🧊",
+                        "text": "Pour un stockage de longue durée, peler et congeler les kiwis est la meilleure méthode. 💡 Astuce de conservation : Pelez les kiwis bien mûrs, coupez-les en rondelles, congelez-les à plat sur une plaque puis transférez-les dans un sachet Ziploc au congélateur (-18 °C) pendant 10 à 12 mois."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mes kiwis sont trop durs et acides. Y a-t-il un moyen de les faire mûrir plus vite ?",
+                        "answer": "Oui ! Enfermez les kiwis durs dans un sachet en papier ou une boîte avec un fruit émetteur d'éthylène comme une pomme ou une banane à température ambiante (18–22 °C). Le gaz éthylène naturel les rendra tendres et sucrés en seulement 2 à 3 jours."
+                    },
+                    {
+                        "question": "Peut-on conserver ou consommer les kiwis avec la peau ?",
+                        "answer": "Oui ! La peau du kiwi est riche en fibres et en antioxydants. Frottes légèrement le duvet de la surface avec une brosse ou une cuillère et lavez bien avant de consommer. Lors du stockage, la peau empêche la chair de se dessécher, il est donc préférable de trancher le kiwi juste avant de servir."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Kiwis richtig frisch und süß halten: Wissenschaftlicher Lagerungsratgeber",
+                "description": "Erfahren Sie die optimale Reife- und Lagertemperatur, Methode und Haltbarkeit für Kiwis basierend auf offiziellen Sicherheitsrichtlinien.",
+                "authority": "<strong>RDA & USDA & UC Davis Postharvest Center</strong>",
+                "intro": "Haben Sie schon einmal eine Schale Kiwis gekauft und festgestellt, dass sie steinhat und sauer waren, oder haben Sie sie liegen gelassen, bis sie matschig wurden? 🥝\n\nDie Kiwi ist eine klassische klimakterische Frucht, die nach der Ernte bei Raumtemperatur nachreift. Werden unreife Kiwis direkt in den Kühlschrank gelegt, stoppt der Reifeprozess und es entstehen Kälteschäden, während Hitze den Verderb beschleunigt.\n\nHeute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um Ihre Kiwis süß, saftig und frisch zu genießen. 🛡️",
+                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+                "whyDesc": "Das Verständnis der einzigartigen physiologischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+                "cautions": [
+                    {
+                        "title": "Unreife, harte Kiwis niemals sofort einfrieren oder kühlen ⚠️",
+                        "desc": "Harte Kiwis im Kühlschrank stoppen ihren natürlichen Reifeprozess und erleiden Kälteschäden, wodurch sie mehlige Konsistenz entwickeln und nicht süß werden. Reifen Sie Kiwis immer zuerst bei Raumtemperatur nach."
+                    },
+                    {
+                        "title": "Reife Kiwis von ethylenabgebenden Früchten (Äpfel, Bananen) trennen 🍎",
+                        "desc": "Sobald Kiwis auf sanften Druck nachgeben, führt die Nähe zu starken Ethylenquellen wie Äpfeln oder Bananen zu rascher Überreife und Fäulnis. Trennen Sie reife Kiwis und lagern Sie sie verschlossen im Kühlschrank."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Harte Kiwis bei Raumtemperatur (18–22 °C) nachreifen lassen — Nachreifen (3–7 Tage) 🧺",
+                        "text": "Lassen Sie feste Kiwis bei kühler Raumtemperatur stehen, bis sie auf leichten Daumendruck nachgeben. 💡 Lagerungstipp: Um das Nachreifen zu beschleunigen, geben Sie die harten Kiwis zusammen mit einem Apfel oder einer Banane in eine Papiertüte. Das eingeschlossene Ethylen lässt sie in 2–3 Tagen süß werden."
+                    },
+                    {
+                        "name": "Reife Kiwis im Plastikbeutel im Kühlschrank (0–4 °C) lagern — Kühllagerung (7–14 Tage) ❄️",
+                        "text": "Sind die Kiwis weich und süß, muss Feuchtigkeitsverlust verhindert werden. 💡 Lagerungstipp: Legen Sie reife Kiwis in einen Plastikbeutel oder Ziploc-Beutel im Gemüsefach des Kühlschranks (0–4 °C). Dies verlangsamt weiteres Reifen und hält sie 1–2 Wochen frisch."
+                    },
+                    {
+                        "name": "Schälen, schneiden und luftdicht einfrieren — Gefrierlagerung (300 Tage) 🧊",
+                        "text": "Für die Langzeitlagerung ist das Schälen und Einfrieren der Kiwis ideal. 💡 Lagerungstipp: Schälen Sie reife Kiwis, schneiden Sie sie in Scheiben oder Würfel, frieren Sie diese vorgefrostet auf einem Blech ein und geben Sie sie dann in einen Ziploc-Beutel im Gefrierfach (-18 °C). Hält 10–12 Monate für Smoothies."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Meine Kiwis sind zu hart und sauer. Gibt es eine Möglichkeit, sie schneller reifen zu lassen?",
+                        "answer": "Ja! Schließen Sie die harten Kiwis zusammen mit einer ethylenabgebenden Frucht wie einem Apfel oder einer Banane in einer Papiertüte bei Raumtemperatur (18–22 °C) ein. Das natürliche Ethylengas macht sie in nur 2–3 Tagen weich und süß."
+                    },
+                    {
+                        "question": "Kann man Kiwis mit Schale lagern und essen?",
+                        "answer": "Ja! Die Schale der Kiwi ist reich an Ballaststoffen und Antioxidantien. Reiben Sie die feinen Härchen mit einem Tuch ab und waschen Sie die Kiwi vor dem Verzehr gründlich. Bei der Lagerung schützt die intakte Schale das Fruchtfleisch vor dem Austrocknen, schneiden Sie die Kiwi daher erst kurz vor dem Servieren."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Como conservar kiwis frescos e doces: Guia científico de armazenamento",
+                "description": "Descubra a temperatura, método de amadurecimento e tempo de conservação ideais para kiwis com base em diretrizes oficiais de segurança.",
+                "authority": "<strong>RDA & USDA & UC Davis Postharvest Center</strong>",
+                "intro": "Você já comprou uma caixa de kiwis e percebeu que eles estavam duros e azedos demais, ou os deixou fora até ficarem moles e estragados? 🥝\n\nO kiwi é uma fruta climatérica clássica que continua amadurecendo em temperatura ambiente após ser colhida. Colocar kiwis verdes direto na geladeira interrompe o amadurecimento e causa danos por frio, enquanto o calor acelera sua deterioração.\n\nHoje, o FreshSnap apresenta um guia de amadurecimento e conservação em 3 etapas recomendado por especialistas para manter seus kiwis doces, suculentos e frescos. 🛡️",
+                "whyTitle": "Por que armazenar assim? Fatos científicos",
+                "whyDesc": "Comprender as características fisiológicas e químicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+                "guideTitle": "Guia de armazenamento comprovado cientificamente",
+                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+                "cautions": [
+                    {
+                        "title": "Nunca congele nem refrigere kiwis duros e verdes imediatamente ⚠️",
+                        "desc": "Colocar kiwis duros no frio interrompe o amadurecimento natural e causa danos térmicos, deixando a polpa farinhenta e sem doçura. Amadureça-os sempre em temperatura ambiente antes de refrigerar."
+                    },
+                    {
+                        "title": "Isole os kiwis maduros de frutas que emitem etileno (maçãs, bananas) 🍎",
+                        "desc": "Quando os kiwis estiverem maduros e macios ao toque, deixá-los perto de grandes emissores de etileno como maçãs ou bananas provoca superamadurecimento e podridão. Separe-os e guarde-os selados no frio."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Amadureça kiwis duros em temperatura ambiente (18–22 °C) — Amadurecimento (3–7 dias) 🧺",
+                        "text": "Mantenha os kiwis firmes em temperatura ambiente fresca até cederem levemente à pressão do polegar. 💡 Dica de conservação: Para acelerar o amadurecimento, feche os kiwis duros em um saco de papel com uma maçã ou banana. O etileno deixará as frutas doces em 2 a 3 dias."
+                    },
+                    {
+                        "name": "Guarde os kiwis maduros num saco plástico na geladeira (0–4 °C) — Refrigeração (7–14 dias) ❄️",
+                        "text": "Quando os kiwis estiverem macios e doces, deve-se evitar a perda de umidade. 💡 Dica de conservação: Coloque os kiwis maduros em um saco plástico ou Ziploc na gaveta de legumes da geladeira (0–4 °C). Isso desacelera o amadurecimento e mantém o frescor por 1 a 2 semanas."
+                    },
+                    {
+                        "name": "Descasque, corte e congele em sacos herméticos — Congelamento (300 dias) 🧊",
+                        "text": "Para longa conservação, descascar e congelar os kiwis é a melhor opção. 💡 Dica de conservação: Descasque kiwis bem maduros, corte em rodelas ou cubos, congele em uma bandeja e passe para um saco Ziploc no freezer (-18 °C) por 10 a 12 meses."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Meus kiwis estão muito duros e azedos. Existe uma forma de amadurecê-los mais rápido?",
+                        "answer": "Sim! Feche os kiwis duros em um saco de papel ou pote com uma fruta que libere etileno, como maçã ou banana, em temperatura ambiente (18–22 °C). O gás etileno natural os deixará macios e doces em apenas 2 a 3 dias."
+                    },
+                    {
+                        "question": "É seguro guardar ou comer kiwis com casca?",
+                        "answer": "Sim! A casca do kiwi é rica em fibras e antioxidantes. Lave bem esfregando os pelos com um pano ou colher antes de comer. Durante o armazenamento, a casca impede a evaporação da umidade da polpa, por isso recomenda-se fatiar apenas antes de servir."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Cara Menyimpan Buah Kiwi agar Tetap Segar dan Manis: Panduan Penyimpanan Ilmiah",
+                "description": "Ketahui suhu, metode pematangan, dan masa simpan terbaik untuk buah kiwi berdasarkan pedoman keselamatan resmi.",
+                "authority": "<strong>RDA & USDA & UC Davis Postharvest Center</strong>",
+                "intro": "Pernahkah Anda membeli satu kotak kiwi lalu mendapatinya terlalu keras dan asam, atau membiarkannya hingga terlalu lembek dan membusuk? 🥝\n\nKiwi adalah buah klimakterik klasik yang terus mematang pada suhu ruang setelah dipanen. Memasukkan kiwi mentah langsung ke dalam kulkas akan menghentikan proses pematangan dan menyebabkan kerusakan dingin (chilling injury), sementara suhu yang terlalu panas mempercepat pembusukan.\n\nHari ini, FreshSnap membagikan panduan pematangan dan penyimpanan 3 langkah berbasis ilmiah berdasarkan saran ahli pascapanen untuk menjaga kiwi Anda tetap manis, juicy, dan segar. 🛡️",
+                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+                "whyDesc": "Memahami karakteristik fisiologis dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+                "cautions": [
+                    {
+                        "title": "Jangan pernah membekukan atau mendinginkan kiwi yang masih keras ⚠️",
+                        "desc": "Menyimpan kiwi mentah yang keras di tempat dingin menghentikan proses pematangan alami dan memicu kerusakan dingin, membuat teksturnya bertepung dan tidak manis. Selalu matangkan kiwi pada suhu ruang terlebih dahulu."
+                    },
+                    {
+                        "title": "Pisahkan kiwi matang dari buah penghasil etilen (apel, pisang) 🍎",
+                        "desc": "Begitu kiwi sudah matang dan empuk saat ditekan, menyimpannya di dekat buah penghasil etilen tinggi seperti apel atau pisang akan menyebabkan pematangan berlebih dan pembusukan cepat. Pisahkan kiwi matang dan simpan rapat di kulkas."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Matangkan kiwi keras pada suhu ruang (18–22°C) — Pematangan Suhu Ruang (3–7 Hari) 🧺",
+                        "text": "Biarkan kiwi yang keras pada suhu ruang sejuk hingga teksturnya sedikit empuk saat ditekan lembut. 💡 Tips Penyimpanan: Untuk mempercepat pematangan, bungkus kiwi keras dalam kantong kertas bersama apel atau pisang. Gas etilen yang terperangkap akan mematangkannya dalam 2–3 hari."
+                    },
+                    {
+                        "name": "Simpan kiwi matang dalam kantong plastik di kulkas (0–4°C) — Simpan Dingin (7–14 Hari) ❄️",
+                        "text": "Setelah kiwi menjadi empuk dan manis, kelembapannya harus dijaga dari penguapan. 💡 Tips Penyimpanan: Masukkan kiwi matang ke dalam kantong plastik atau Ziploc lalu simpan di laci kulkas (0–4°C). Ini memperlambat pematangan berlebih dan menjaga kesegaran selama 1–2 minggu."
+                    },
+                    {
+                        "name": "Kupas, potong, dan bekukan dalam wadah kedap udara — Simpan Freezer (300 Hari) 🧊",
+                        "text": "Untuk penyimpanan jangka panjang, mengupas dan membekukan kiwi adalah opsi terbaik. 💡 Tips Penyimpanan: Kupas kiwi yang sudah matang sempurna, potong-potong, bekukan di atas nampan, lalu pindahkan ke kantong Ziploc kedap udara di freezer (-18°C) hingga 10–12 bulan."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Kiwi saya terlalu keras dan asam. Apakah ada cara mematangkannya lebih cepat?",
+                        "answer": "Ada! Bungkus kiwi keras dalam kantong kertas atau wadah tertutup bersama buah pelepas etilen seperti apel atau pisang pada suhu ruang (18–22°C). Gas etilen alami akan membuatnya empuk dan manis dalam 2–3 hari."
+                    },
+                    {
+                        "question": "Apakah aman menyimpan atau memakan kiwi bersama kulitnya?",
+                        "answer": "Aman! Kulit kiwi kaya akan serat dan antioksidan. Gosok halus bulu di permukaannya dengan kain atau sendok lalu cuci bersih sebelum dimakan. Saat disimpan, kulit utuh mencegah cairan daging buah menguap, jadi potonglah kiwi tepat sebelum disajikan."
+                    }
+                ]
+            }
+        }
+    }
+}

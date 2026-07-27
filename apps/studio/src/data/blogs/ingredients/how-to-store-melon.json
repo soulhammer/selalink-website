@@ -1,0 +1,406 @@
+{
+    "how-to-store-melon": {
+        "ingId": "melon",
+        "pubDate": "2026-07-20",
+        "updatedDate": "2026-07-20",
+        "heroImage": "/images/blog/melon_storage_hack.webp",
+        "locales": {
+            "ko": {
+                "title": "멜론 신선하게 보관하는 법: 과학적 보관 가이드",
+                "description": "공인된 안전 가이드라인에 따른 멜론의 최적 보관 온도, 방식 및 자른 멜론의 보관 기한을 확인하세요.",
+                "authority": "<strong>미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)</strong>",
+                "intro": "달콤하고 촉촉한 멜론을 사왔는데 상온에 너무 오래 두어 물러졌거나, 반대로 통째로 냉장고에 넣었다가 단맛이 안 나고 딱딱해진 경험 있으시죠? 🍈\n\n멜론은 자르기 전과 자른 후의 보관 방식이 완전히 달라지는 특수한 과일입니다. 자르지 않은 통멜론은 상온에서 후숙시켜야 단맛과 향이 극대화되는 반면, 일단 칼을 대는 순간 산도가 낮아 살모넬라균 및 리스테리아균이 번식하기 매우 쉬운 '고위험 관리 식품'으로 변합니다.\n\n오늘 FreshSnap에서는 미국 FDA, USDA 및 식품의약품안전처의 검증된 가이드라인을 바탕으로, 멜론의 당도와 신선도를 지키고 식중독을 예방하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+                "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+                "guideTitle": "과학적으로 검증된 보관 가이드",
+                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+                "cautions": [
+                    {
+                        "title": "자르지 않은 통멜론을 곧바로 냉장 보관하지 마세요 ⚠️",
+                        "desc": "안 익은 통멜론을 5℃ 이하의 냉장고에 바로 넣으면 저온 장애(Chilling Injury)가 발생하여 후숙이 정지되고 표면에 반점이 생기며 단맛이 오르지 않습니다. 반드시 상온에서 부드럽게 후숙시킨 뒤 드시기 직전에 차갑게 하거나 잘라서 냉장 보관하세요."
+                    },
+                    {
+                        "title": "자른 멜론은 절대 상온에 두지 말고 즉시 냉장 보관하세요 🍈",
+                        "desc": "멜론 과육은 산도가 낮고 수분이 풍부해 살모넬라나 리스테리아 같은 식중독균이 급격히 증식하기 좋은 환경입니다. 칼을 댄 자른 멜론은 상온에 2시간 이상 방치하지 말고 즉시 밀폐 용기에 담아 냉장 보관해야 합니다."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "통멜론은 서늘한 상온(18~22℃)에서 후숙하기 — 상온 후숙 (2~5일) 🧺",
+                        "text": "자르지 않은 멜론은 직사광선을 피한 서늘한 상온에 보관하세요. 💡 보관 팁: 멜론 밑동(배꼽) 부분을 살짝 눌렀을 때 약간 들어가는 느낌이 들고 달콤한 향이 풍기면 후숙이 완료된 것입니다. 드시기 2~3시간 전에 냉장고에 넣으면 가장 시원하고 달콤하게 드실 수 있습니다."
+                    },
+                    {
+                        "name": "자른 멜론은 씨를 제거하고 밀폐 용기에 담아 냉장(0~4℃) 보관하기 — 자른 멜론 냉장 보관 (3~5일) ❄️",
+                        "text": "한번 자른 멜론은 공기 접촉과 세균 오염을 차단하는 것이 핵심입니다. 💡 보관 팁: 멜론을 자른 후 가운데 씨와 수분 많은 부위를 숟가락으로 깨끗이 긁어낸 뒤, 껍질을 벗겨 먹기 좋은 크기로 깍둑썰기하여 밀폐 용기에 담아 냉장 보관(0~4℃)하세요. 3~5일 이내에 소비하는 것이 가장 안전합니다."
+                    },
+                    {
+                        "name": "한 입 크기로 잘라 밀폐 지퍼백에 냉동 보관하기 — 냉동 보관 (300일) 🧊",
+                        "text": "자른 멜론이 너무 많아 오래 두고 싶다면 냉동 보관이 좋습니다. 💡 보관 팁: 껍질과 씨를 제거한 멜론 과육을 깍둑썰기한 뒤 쟁반에 겹치지 않게 펼쳐 1차 냉동하고, 단단해지면 지퍼백에 담아 냉동실(-18℃ 이하)에 보관하세요. 스무디나 빙수용으로 10~12개월간 활용할 수 있습니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "멜론을 자르기 전에 겉껍질을 물로 씻어야 하나요?",
+                        "answer": "네, 반드시 씻어야 합니다! 멜론 껍질 표면의 네트(그물망) 구조에는 흙이나 살모넬라균 등의 세균이 남아있을 수 있습니다. 칼을 대는 순간 껍질의 균이 과육 내부로 들어갈 수 있으므로, 자르기 전에 흐르는 물에 솔이나 수세미로 껍질을 깨끗이 씻은 후 물기를 닦고 잘라야 합니다."
+                    },
+                    {
+                        "question": "잘라둔 멜론 표면에 물이 고이고 무르기 시작했는데 먹어도 되나요?",
+                        "answer": "자른 멜론 표면에 삼투압이나 부패로 인해 물이 고이고 과육이 무르거나 시큼한 냄새가 난다면 세균 증식이 진행된 것입니다. 멜론은 산도가 낮아 세균 오염 시 독소가 쉽게 퍼지므로, 상태가 변했다면 망설이지 말고 폐기하는 것이 안전합니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "How to Keep Melons Fresh: Scientific Storage Guide",
+                "description": "Check the optimal storage temperature, method, and shelf life for whole and cut melons based on official safety guidelines.",
+                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "intro": "Have you ever bought a sweet melon only to leave it out too long until it turned mushy, or put it whole in the fridge only for it to stay hard and tasteless? 🍈\n\nMelons require completely different storage methods before and after being cut. Whole, uncut melons need room temperature to ripen and reach peak sweetness and aroma. However, once cut, their low acidity makes them a high-risk food prone to rapid bacterial growth such as Salmonella and Listeria.\n\nToday, FreshSnap introduces a scientifically proven 3-step melon storage guide based on guidelines from the FDA, USDA, and MFDS to preserve sweetness while ensuring food safety. 🛡️",
+                "whyTitle": "Why Store Melons This Way? Scientific Facts",
+                "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
+                "guideTitle": "Scientifically Proven Storage Guide",
+                "cautionTitle": "Essential Storage Rules and Cautions",
+                "cautions": [
+                    {
+                        "title": "Never refrigerate uncut, unripened melons immediately ⚠️",
+                        "desc": "Storing unripe whole melons below 5°C (41°F) causes chilling injury, halting the ripening process, producing surface pitting, and preventing sugar development. Always ripen whole melons at room temperature before chilling or cutting."
+                    },
+                    {
+                        "title": "Never leave cut melon at room temperature; refrigerate immediately 🍈",
+                        "desc": "Sliced melon flesh has low acidity and high moisture, creating an ideal environment for bacteria like Salmonella and Listeria monocytogenes. Never leave cut melon at room temperature for more than 2 hours; transfer it immediately to an airtight container in the fridge."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Ripen whole melons at cool room temperature (18–22°C) — Room Temp Ripening (2–5 Days) 🧺",
+                        "text": "Keep uncut melons in a cool room away from direct sunlight. 💡 Storage Tip: A melon is ripe when the blossom end yields slightly to gentle pressure and gives off a sweet fragrance. Chill in the fridge for 2–3 hours before serving for optimal sweetness."
+                    },
+                    {
+                        "name": "Scoop out seeds, cube flesh, and refrigerate in airtight containers — Cut Melon Storage (3–5 Days) ❄️",
+                        "text": "Once cut, blocking air exposure and preventing bacterial contamination is critical. 💡 Storage Tip: Scoop out seeds and soft pulp with a spoon, peel off the rind, cube the flesh, and place in airtight containers in the fridge (0–4°C / 32–39°F). Consume within 3 to 5 days."
+                    },
+                    {
+                        "name": "Cube and freeze in airtight Ziploc bags — Freezer Storage (300 Days) 🧊",
+                        "text": "If you have too much cut melon to consume within 5 days, freezing is the best option. 💡 Storage Tip: Flash-freeze cubed melon on a tray so pieces do not stick together, then transfer to airtight freezer Ziploc bags (-18°C / 0°F). Great for smoothies or frozen desserts for up to 10–12 months."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Should I wash the outer rind of a melon before cutting it?",
+                        "answer": "Yes, absolutely! The textured netting on melon rinds can harbor dirt, Salmonella, or other bacteria. When you slide a knife through the rind, surface bacteria are pushed directly into the sweet flesh. Always scrub the outer rind thoroughly under running water and dry it before slicing."
+                    },
+                    {
+                        "question": "My cut melon is pooling liquid and becoming mushy. Is it still safe to eat?",
+                        "answer": "If cut melon pools excess liquid, turns mushy, or develops a sour off-odor, bacterial breakdown has likely occurred. Because melons have low acidity, harmful bacteria and toxins spread easily once contaminated. Discard any cut melon showing signs of decay."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "メロンを新鮮に保つ保存方法：科学的保管ガイド",
+                "description": "公的安全基準に基づくメロンの最適な保存温度、保管方法、カットメロンの保存期間をご確認ください。",
+                "authority": "<strong>米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)</strong>",
+                "intro": "甘くジューシーなメロンを買ってきたものの、常温に置きすぎてドロドロになったり、逆に丸ごと冷蔵庫に入れて甘くならず硬いままでガッカリした経験はありませんか？🍈\n\nメロンはカットする前と後で保存方法が完全に異なる特殊な果物です。カットしていない玉メロンは常温で追熟させることで甘みと香りが極限まで高まりますが、包丁を入れた瞬間から酸度が低いためサルモネラ菌やリステリア菌が繁殖しやすい「高リスク食品」に変化します。\n\n本日FreshSnapでは、米国FDA、USDAおよび食品医薬品安全処のガイドラインに基づき、メロンの甘さと鮮度を守り食中毒を防ぐ3段階の科学的保存法をご紹介します。🛡️",
+                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+                "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+                "guideTitle": "科学的に検証された保存ガイド",
+                "cautionTitle": "保存時の必須ルールと注意事項",
+                "cautions": [
+                    {
+                        "title": "熟していない玉メロンをすぐに冷蔵庫に入れないでください ⚠️",
+                        "desc": "未熟な玉メロンを5℃以下の冷蔵庫に入れると低温障害（Chilling Injury）を起こし、追熟が止まって表面に窪みができ、甘みが上がりません。必ず常温で柔らかく追熟させてから、食べる直前に冷やすかカットして冷蔵保存してください。"
+                    },
+                    {
+                        "title": "カットしたメロンは絶対に常温放置せずすぐ冷蔵庫に入れてください 🍈",
+                        "desc": "メロンの果肉は酸度が低く水分が豊富なため、サルモネラ菌やリステリア菌などの食中毒菌が急速に増殖しやすい環境です。包丁を入れたメロンは常温に2時間以上放置せず、すぐに密閉容器に入れて冷蔵保存してください。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "玉メロンは涼しい常温（18〜22℃）で追熟させる — 常温追熟 (2〜5日間) 🧺",
+                        "text": "カットしていないメロンは直射日光を避けた涼しい常温で保存します。💡保存のコツ：メロンの底（お尻の部分）を軽く押して少し弾力を感じ、甘い香りが漂ってきたら追熟完了です。食べる2〜3時間前に冷蔵庫で冷やすと最も美味しく召し上がれます。"
+                    },
+                    {
+                        "name": "カットメロンは種を取り除き密閉容器で冷蔵（0〜4℃）保存する — カットメロン冷蔵保存 (3〜5日間) ❄️",
+                        "text": "一度カットしたメロンは空気との接触と雑菌汚染を防ぐことが最優先です。💡保存のコツ：カット後、中央の種とワタをスプーンで綺麗に scrape し、皮を剥いて一口大にカットして密閉容器に入れ冷蔵（0〜4℃）保存します。3〜5日以内に使い切るのが安全です。"
+                    },
+                    {
+                        "name": "一口大にカットしてチャック付き袋で冷凍保存する — 冷凍保存 (300日間) 🧊",
+                        "text": "カットメロンが大量にあり長期保存したい場合は冷凍保存が適しています。💡保存のコツ：種と皮を取り除いた果肉を一口大に切り、トレイに並べて一重冷凍したのち、チャック付き袋に移して冷凍室（-18℃以下）で保管します。スムージーやシャーベット用に10〜12ヶ月保存可能です。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "メロンをカットする前に外側の皮を水洗いする必要がありますか？",
+                        "answer": "はい、必ず洗ってください！メロンの皮の網目（ネット）構造には土やサルモネラ菌などの雑菌が付着している可能性があります。包丁を入れた際に皮の菌が果肉内部に押し込まれるため、カット前に流水とブラシで皮をよく洗い、水気を拭き取ってから切るのが鉄則です。"
+                    },
+                    {
+                        "question": "カットして置いたメロンの表面に水が溜まり柔らかくなってきましたが、食べられますか？",
+                        "answer": "カットメロンの表面に水が溜まったり果肉が崩れたり、酸っぱい臭いがする場合は細菌が増殖しているサインです。メロンは低酸性のため細菌が付着すると毒素が広がりやすいため、状態が変化したものは迷わず廃棄してください。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "如何保持甜瓜·哈密瓜新鲜：科学储存指南",
+                "description": "根据官方食品安全指南，了解甜瓜（哈密瓜/甜瓜）整瓜与切开后的最佳储存温度、方式及保鲜时长。",
+                "authority": "<strong>美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "intro": "您是否买回香甜的甜瓜（哈密瓜），却因在常温下放得太久而发软变质，或是整瓜放进冰箱后变得又硬又无味？🍈\n\n甜瓜在切开前与切开后的储存方式截然不同。未切开的整瓜需要在常温下催熟，才能达到最佳甜度与香气；而一旦切开，由于果肉酸度极低且水分充足，会迅速变成极易滋生沙门氏菌和李斯特菌的“高风险食品”。\n\n今天FreshSnap基于美国FDA、USDA及韩国MFDS的指南，为您带来3步科学甜瓜保存秘诀，锁住甜度与水分的同时有效预防食源性疾病。🛡️",
+                "whyTitle": "为什么要这样储存？科学原理",
+                "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+                "guideTitle": "科学验证的储存指南",
+                "cautionTitle": "储存必需规则及注意事项",
+                "cautions": [
+                    {
+                        "title": "切勿将未切开的生甜瓜直接放进冰箱冷藏 ⚠️",
+                        "desc": "将未熟透的整瓜放入5℃以下的冰箱中会导致冷害（Chilling Injury），中止催熟过程，使表皮出现凹陷斑点且无法聚糖变甜。务必先在常温下催熟，食用前再冰镇或切块冷藏。"
+                    },
+                    {
+                        "title": "切开后的甜瓜切勿置于常温，必须立即冷藏 🍈",
+                        "desc": "切开的甜瓜果肉酸度低、水分高，是沙门氏菌和单核细胞增生李斯特氏菌快速繁殖的温床。切开的甜瓜在常温下放置不得超过2小时，须立即装入密封盒放入冰箱冷藏。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "整瓜置于阴凉常温（18~22℃）催熟 — 常温催熟 (2~5天) 🧺",
+                        "text": "未切开的甜瓜应存放在避光的阴凉常温处。💡储存小贴士：用手轻压甜瓜底部（脐部）微软且散发出浓郁甜香时，说明已催熟完成。食用前2~3小时放入冰箱冰镇，口感最为冰爽香甜。"
+                    },
+                    {
+                        "name": "切块去籽后装入密封盒冷藏（0~4℃） — 切块冷藏保存 (3~5天) ❄️",
+                        "text": "切开后的甜瓜核心在于阻绝空气接触与细菌污染。💡储存小贴士：切开后用勺子挖净中间的籽和软瓤，去皮切成易入口的小块装入密封盒，置于冰箱冷藏（0~4℃）。建议在3~5天内食用完毕。"
+                    },
+                    {
+                        "name": "切块密封装入拉链袋冷冻 — 冷冻保存 (300天) 🧊",
+                        "text": "若切开的甜瓜份量较多无法在5天内吃完，冷冻是最佳选择。💡储存小贴士：将去皮去籽的果肉切块，平铺在盘中预冻变硬后，装入密封拉链袋放入冷冻室（-18℃以下）。可保存10~12个月，适合制作果昔或冰品。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "切甜瓜前需要清洗外皮吗？",
+                        "answer": "必须清洗！甜瓜表皮的网纹结构中极易残留泥土、沙门氏菌等致病菌。下刀切瓜时，刀刃会将表皮的细菌直接带入甜美的果肉内部。因此切瓜前务必在流水下用刷子将外皮彻底刷洗干净并擦干。"
+                    },
+                    {
+                        "question": "切开保存的甜瓜表面渗水且发软，还能吃吗？",
+                        "answer": "若切开的甜瓜表面大量渗水、果肉发软变烂或散发酸臭异味，说明细菌已经大量繁殖变质。由于甜瓜酸度低，受污染后毒素扩散极快，一旦变质请务必直接丢弃。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cómo mantener el melón fresco: Guía científica de conservación",
+                "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para melones enteros y cortados según las directrices oficiales de seguridad.",
+                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "intro": "¿Alguna vez compró un melón dulce y lo dejó fuera demasiado tiempo hasta que se puso pocho, o lo metió entero al refrigerador y se quedó duro y sin sabor? 🍈\n\nEl melón requiere métodos de conservación completamente distintos antes y después de cortarlo. Entero necesita temperatura ambiente para madurar y alcanzar su dulzura y aroma máximos. Sin embargo, una vez cortado, su baja acidez lo convierte en un alimento de alto riesgo propicio para la proliferación rápida de bacterias como Salmonella y Listeria.\n\nHoy, FreshSnap presenta una guía de conservación en 3 pasos respaldada por la FDA, el USDA y el MFDS para conservar su dulzura garantizando la seguridad alimentaria. 🛡️",
+                "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+                "whyDesc": "Comprender las características fisiológicas y químicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+                "guideTitle": "Guía de almacenamiento científicamente probada",
+                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+                "cautions": [
+                    {
+                        "title": "Nunca refrigere de inmediato un melón entero y verde ⚠️",
+                        "desc": "Guardar melones enteros sin madurar por debajo de 5 °C causa daños por frío (chilling injury), deteniendo la maduración, creando pitting en la piel y evitando que desarrolle azúcar. Madúrelos a temperatura ambiente antes de enfriar o cortar."
+                    },
+                    {
+                        "title": "Nunca deje el melón cortado a temperatura ambiente; refrigere de inmediato 🍈",
+                        "desc": "La pulpa cortada tiene baja acidez y alta humedad, un entorno ideal para bacterias como Salmonella y Listeria monocytogenes. No deje melón cortado fuera más de 2 horas; guárdelo de inmediato en un recipiente hermético en el refrigerador."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Madure los melones enteros a temperatura ambiente fresca (18–22 °C) — Maduración (2–5 días) 🧺",
+                        "text": "Mantenga los melones enteros en un lugar fresco lejos de la luz solar. 💡 Consejo de almacenamiento: El melón está maduro cuando la base cede ligeramente a la presión suave y desprende un aroma dulce. Refrigere 2–3 horas antes de servir."
+                    },
+                    {
+                        "name": "Retire semillas, corte en cubos y refrigere en recipientes herméticos — Conservación del melón cortado (3–5 días) ❄️",
+                        "text": "Una vez cortado, bloquear el aire y prevenir la contaminación bacteriana es clave. 💡 Consejo de almacenamiento: Retire la pulpa blanda y las semillas con una cuchara, pele la piel, corte en cubos y colóquelos en recipientes herméticos en el refrigerador (0–4 °C). Consuma en 3 a 5 días."
+                    },
+                    {
+                        "name": "Corte en cubos y congele en bolsas Ziploc herméticas — Congelación (300 días) 🧊",
+                        "text": "Si tiene demasiado melón cortado para consumir en 5 días, congelar es la mejor opción. 💡 Consejo de almacenamiento: Congele los cubos en una bandeja para que no se peguen y páselos a bolsas herméticas Ziploc en el congelador (-18 °C). Perfecto para batidos hasta por 10–12 meses."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Debo lavar la cáscara exterior del melón antes de cortarlo?",
+                        "answer": "¡Sí, absolutamente! La red de la cáscara del melón puede albergar tierra, Salmonella u otras bacterias. Al pasar el cuchillo, las bacterias de la superficie se introducen directamente en la pulpa dulce. Cepille bien la cáscara bajo agua corriente y séquela antes de cortar."
+                    },
+                    {
+                        "question": "Mi melón cortado suelta mucho líquido y está blando. ¿Sigue siendo seguro para comer?",
+                        "answer": "Si el melón cortado acumula líquido, se vuelve blando o huele agrio, es señal de deterioro bacteriano. Como el melón tiene baja acidez, las bacterias y toxinas se multiplican rápidamente. Descarte cualquier melón cortado con signos de descomposición."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Comment conserver le melon frais : Guide scientifique de conservation",
+                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les melons entiers et coupés selon les directives officielles de sécurité.",
+                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "intro": "Avez-vous déjà acheté un doux melon pour le laisser dehors trop longtemps jusqu'à ce qu'il devienne mou, ou l'avoir mis entier au réfrigérateur pour constater qu'il restait dur et sans goût ? 🍈\n\nLe melon exige des méthodes de conservation totalement différentes avant et après la découpe. Entier, il a besoin de la température ambiante pour mûrir et développer tout son sucre. En revanche, une fois coupé, sa faible acidité en fait un aliment à haut risque propice au développement rapide de bactéries comme la Salmonelle et la Listeria.\n\nAujourd'hui, FreshSnap vous présente un guide de conservation en 3 étapes basé sur les recommandations de la FDA, du USDA et du MFDS pour préserver sa douceur en toute sécurité. 🛡️",
+                "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
+                "whyDesc": "Comprendre les caractéristiques physiologiques et chimiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+                "guideTitle": "Guide de conservation scientifiquement prouvé",
+                "cautionTitle": "Règles essentielles et précautions de stockage",
+                "cautions": [
+                    {
+                        "title": "Ne réfrigérez jamais immédiatement un melon entier pas mûr ⚠️",
+                        "desc": "Stocker un melon entier pas mûr sous 5 °C provoque des dégâts dus au froid (chilling injury), stoppe le mûrissage, forme des taches et empêche le sucre de se développer. Faites-le mûrir à température ambiante avant de le rafraîchir."
+                    },
+                    {
+                        "title": "Ne laissez jamais un melon coupé à température ambiante ; réfrigérez-le vite 🍈",
+                        "desc": "La chair découpée est peu acide et riche en eau, un milieu idéal pour la multiplication des bactéries Salmonella et Listeria. Ne laissez jamais du melon coupé plus de 2 heures dehors ; mettez-le vite au frais dans une boîte hermétique."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Faire mûrir les melons entiers à température ambiante fraîche (18–22 °C) — Mûrissage ambiant (2–5 jours) 🧺",
+                        "text": "Conservez le melon entier dans un endroit frais à l'abri du soleil. 💡 Astuce de conservation : Le melon est mûr lorsque le pédoncule cède sous une légère pression et qu'une douce odeur s'en dégage. Mettez-le au frais 2 à 3 heures avant de servir."
+                    },
+                    {
+                        "name": "Retirer les graines, couper en dés et réfrigérer en boîte hermétique — Conservation du melon coupé (3–5 jours) ❄️",
+                        "text": "Une fois coupé, bloquer l'air et éviter la contamination est primordial. 💡 Astuce de conservation : Retirez les pépins et le cœur à la cuillère, pelez la peau, coupez en dés et placez en boîte hermétique au réfrigérateur (0–4 °C). Consommez sous 3 à 5 jours."
+                    },
+                    {
+                        "name": "Couper en dés et congeler en sachets Ziploc — Congélation (300 jours) 🧊",
+                        "text": "Si vous avez trop de melon coupé pour tout consommer en 5 jours, la congélation est idéale. 💡 Astuce de conservation : Congelez les dés à plat sur une plaque puis transférez-les dans des sachets Ziploc au congélateur (-18 °C) pendant 10 à 12 mois pour vos smoothies."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Faut-il laver l'écorce externe du melon avant de le couper ?",
+                        "answer": "Oui, absolument ! L'écorce rugueuse du melon peut abriter de la terre, des salmonelles ou d'autres bactéries. En coupant avec un couteau, les bactéries de la surface sont poussées dans la chair sucrée. Brossez toujours l'écorce sous l'eau courante et séchez-la avant de trancher."
+                    },
+                    {
+                        "question": "Mon melon coupé rend beaucoup d'eau et devient mou. Est-il encore consommable ?",
+                        "answer": "Si du liquide s'accumule sur le melon coupé, qu'il ramollit ou dégage une odeur aigre, il s'agit d'une détérioration bactérienne. Comme le melon est peu acide, les toxines s'y propagent vite. Jetez tout melon découpé présentant des signes d'altération."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Melonen richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für ganze und geschnittene Melonen basierend auf offiziellen Sicherheitsrichtlinien.",
+                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "intro": "Haben Sie schon einmal eine süße Melone gekauft und sie zu lange stehen lassen, bis sie matschig wurde, oder sie ganz in den Kühlschrank gelegt, woraufhin sie hart und geschmacklos blieb? 🍈\n\nMelonen benötigen vor und nach dem Anschneiden völlig unterschiedliche Lagerungsmethoden. Im ganzen Zustand brauchen sie Raumtemperatur, um nachzureifen und ihr volles Aroma zu entfalten. Einmal angeschnitten verwandelt sie sich wegen der geringen Säure jedoch in ein leicht verderbliches Lebensmittel, auf dem sich Bakterien wie Salmonellen und Listerien rasch vermehren.\n\nHeute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um die Süße Ihrer Melone zu bewahren und Lebensmittelinfektionen vorzubeugen. 🛡️",
+                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+                "whyDesc": "Das Verständnis der einzigartigen physiologischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+                "cautions": [
+                    {
+                        "title": "Ganze, unreife Melonen niemals sofort in den Kühlschrank legen ⚠️",
+                        "desc": "Lagert man ganze, unreife Melonen unter 5 °C, erleiden sie Kälteschäden (Chilling Injury). Der Reifeprozess stoppt, die Schale bekommt Flecken und es bildet sich kein Zucker. Reifen Sie Melonen immer erst bei Raumtemperatur nach."
+                    },
+                    {
+                        "title": "Geschnittene Melone niemals bei Raumtemperatur stehen lassen 🍈",
+                        "desc": "Angeschnittenes Melonenfleisch ist säurearm und feucht – ideal für gefährliche Bakterien wie Salmonellen und Listerien. Lassen Sie geschnittene Melone nie länger als 2 Stunden ungekühlt stehen und stellen Sie sie sofort luftdicht in den Kühlschrank."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Ganze Melonen bei kühler Raumtemperatur (18–22 °C) nachreifen lassen — Nachreifen (2–5 Tage) 🧺",
+                        "text": "Bewahren Sie ungeschnittene Melonen an einem kühlen Ort ohne direkte Sonne auf. 💡 Lagerungstipp: Die Melone ist reif, wenn der Stanzansatz auf sanften Druck leicht nachgibt und sie süß duftet. Vor dem Servieren 2–3 Stunden kühlen."
+                    },
+                    {
+                        "name": "Kerne entfernen, würfeln und in luftdichten Dosen kühlen — Kühllagerung (3–5 Tage) ❄️",
+                        "text": "Nach dem Anschneiden ist der Schutz vor Luft und Keimen entscheidend. 💡 Lagerungstipp: Kratzen Sie die Kerne mit einem Löffel heraus, schälen Sie die Melone, schneiden Sie das Fleisch in Würfel und lagern Sie diese luftdicht im Kühlschrank (0–4 °C) für 3–5 Tage."
+                    },
+                    {
+                        "name": "Würfeln und im Ziploc-Beutel einfrieren — Gefrierlagerung (300 Tage) 🧊",
+                        "text": "Haben Sie zu viel geschnittene Melone übrig, ist Einfrieren die beste Wahl. 💡 Lagerungstipp: Frieren Sie die Melonenwürfel auf einem Blech vorgefrostet ein und geben Sie sie dann in Ziploc-Gefrierbeutel (-18 °C). Hält 10–12 Monate für Smoothies."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Sollte man die äußere Schale der Melone vor dem Anschneiden waschen?",
+                        "answer": "Ja, unbedingt! Auf der Netzstruktur der Melonenschale können Erde, Salmonellen oder andere Keime haften. Beim Durchschneiden mit dem Messer werden die Bakterien direkt in das süße Fruchtfleisch gedrückt. Waschen Sie die Schale vor dem Schneiden gründlich unter fließendem Wasser ab."
+                    },
+                    {
+                        "question": "Meine geschnittene Melone verliert viel Wasser und wird matschig. Ist sie noch essbar?",
+                        "answer": "Wenn sich auf der geschnittenen Melone Wasser sammelt, das Fleisch matschig wird oder leicht sauer riecht, haben sich Bakterien vermehrt. Da Melonen säurearm sind, breiten sich Keime schnell aus. Entsorgen Sie Melone mit Verderbserscheinungen."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Como conservar melão fresco: Guia científico de armazenamento",
+                "description": "Descubra a temperatura, método e tempo de conservação ideais para melão inteiro e cortado com base em diretrizes oficiais de segurança.",
+                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "intro": "Você já comprou um melão doce e o deixou fora por tanto tempo que ficou murcho e mole, ou o colocou inteiro na geladeira e ele continuou duro e sem sabor? 🍈\n\nO melão exige métodos de conservação completamente diferentes antes e depois de ser cortado. Ele inteiro precisa de temperatura ambiente para amadurecer e atingir o máximo de doçura e aroma. Porém, uma vez cortado, sua baixa acidez o torna um alimento de alto risco, propenso à rápida proliferação de bactérias como Salmonella e Listeria.\n\nHoje, o FreshSnap apresenta um guia de conservação em 3 etapas baseado em diretrizes da FDA, USDA e MFDS para preservar a doçura garantindo a segurança alimentar. 🛡️",
+                "whyTitle": "Por que armazenar assim? Fatos científicos",
+                "whyDesc": "Comprender as características fisiológicas e químicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+                "guideTitle": "Guia de armazenamento comprovado cientificamente",
+                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+                "cautions": [
+                    {
+                        "title": "Nunca refrigere imediatamente um melão inteiro e verde ⚠️",
+                        "desc": "Guardar melões inteiros verdes abaixo de 5 °C provoca Danos por Frio (chilling injury), interrompendo o amadurecimento, criando manchas na casca e impedindo a formação de açúcar. Amadureça-os em temperatura ambiente antes de resfriar."
+                    },
+                    {
+                        "title": "Nunca deixe o melão cortado em temperatura ambiente; refrigere imediatamente 🍈",
+                        "desc": "A polpa cortada tem baixa acidez e muita umidade, ambiente perfeito para bactérias como Salmonella e Listeria. Não deixe melão cortado fora por mais de 2 horas; guarde-o em pote hermético na geladeira."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Amadureça o melão inteiro em temperatura ambiente fresca (18–22 °C) — Amadurecimento (2–5 dias) 🧺",
+                        "text": "Mantenha o melão inteiro em local fresco ao abrigo da luz solar. 💡 Dica de conservação: O melão está maduro quando a base cede levemente ao toque e solta um aroma doce. Refrigere por 2 a 3 horas antes de servir."
+                    },
+                    {
+                        "name": "Retire as sementes, corte em cubos e refrigere em potes herméticos — Conservação refrigerada (3–5 dias) ❄️",
+                        "text": "Após cortado, bloquear o ar e evitar contaminação bacteriana é fundamental. 💡 Dica de conservação: Retire as sementes com uma colher, remova a casca, corte em cubos e guarde em pote hermético na geladeira (0–4 °C) por 3 a 5 dias."
+                    },
+                    {
+                        "name": "Corte em cubos e congele em sacos Ziploc — Congelamento (300 dias) 🧊",
+                        "text": "Se você tem muito melão cortado e não vai consumir em 5 dias, congelar é a melhor opção. 💡 Dica de conservação: Congele os cubos em uma bandeja para não grudarem e passe para sacos Ziploc no freezer (-18 °C). Excelente para smoothies por 10 a 12 meses."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Devo lavar a casca do melão antes de cortá-lo?",
+                        "answer": "Sim, com certeza! A casca rugosa do melão pode conter sujeira, Salmonella e outras bactérias. Ao passar a faca, as bactérias da superfície são empurradas para dentro da polpa doce. Esfregue a casca em água corrente e seque antes de fatiar."
+                    },
+                    {
+                        "question": "Meu melão cortado acumulou água e está ficando mole. Ainda posso comer?",
+                        "answer": "Se o melão cortado acumular água, ficar murcho/moles ou apresentar cheiro azedo, há proliferação de bactérias. Como o melão é um fruto de baixa acidez, as toxinas se espalham rápido. Descarte qualquer melão cortado com sinais de deterioração."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Cara Menyimpan Buah Melon agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk buah melon utuh maupun potong berdasarkan pedoman keselamatan resmi.",
+                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "intro": "Pernahkah Anda membeli melon yang manis lalu membiarkannya terlalu lama di luar hingga menjadi lembek, atau memasukkannya utuh ke dalam kulkas sehingga teksturnya tetap keras dan tidak manis? 🍈\n\nMelon membutuhkan metode penyimpanan yang sangat berbeda sebelum dan sesudah dipotong. Melon utuh membutuhkan suhu ruang untuk mematang dan mencapai rasa manis serta aroma maksimal. Namun setelah dipotong, tingkat keasamannya yang rendah menjadikannya makanan berrisiko tinggi yang mudah ditumbuhi bakteri seperti Salmonella dan Listeria.\n\nHari ini, FreshSnap membagikan panduan penyimpanan melon 3 langkah berbasis ilmiah berdasarkan pedoman FDA, USDA, dan MFDS untuk menjaga kemanisan melon Anda sekaligus menjamin keamanan pangan. 🛡️",
+                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+                "whyDesc": "Memahami karakteristik fisiologis dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+                "cautions": [
+                    {
+                        "title": "Jangan pernah langsung mendinginkan melon utuh yang belum matang ⚠️",
+                        "desc": "Menyimpan melon utuh yang belum matang di bawah suhu 5°C menyebabkan kerusakan dingin (chilling injury), menghentikan proses pematangan, memicu bercak pada kulit, dan mencegah pembentukan gula. Selalu matangkan melon utuh pada suhu ruang sebelum didinginkan."
+                    },
+                    {
+                        "title": "Jangan biarkan melon potong pada suhu ruang; segera simpan di kulkas 🍈",
+                        "desc": "Daging melon potong memiliki tingkat keasaman rendah dan kadar air tinggi, lingkungan ideal bagi bakteri seperti Salmonella dan Listeria. Jangan biarkan melon potong di luar lebih dari 2 jam; segera pindahkan ke wadah kedap udara di kulkas."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Matangkan melon utuh pada suhu ruang sejuk (18–22°C) — Pematangan Suhu Ruang (2–5 Hari) 🧺",
+                        "text": "Simpan melon utuh di tempat sejuk terhindar dari sinar matahari langsung. 💡 Tips Penyimpanan: Melon sudah matang saat bagian bawahnya terasa agak empuk saat ditekan lembut dan mengeluarkan aroma manis. Dinginkan di kulkas 2–3 jam sebelum disajikan."
+                    },
+                    {
+                        "name": "Buang bijinya, potong dadu, dan simpan di kulkas dalam wadah kedap udara — Simpan Dingin (3–5 Hari) ❄️",
+                        "text": "Setelah dipotong, menahan paparan udara dan mencegah kontaminasi bakteri adalah hal utama. 💡 Tips Penyimpanan: Keruk biji dan bagian lembek dengan sendok, kupas kulitnya, potong dadu, lalu masukkan ke wadah kedap udara di kulkas (0–4°C). Habiskan dalam 3 hingga 5 hari."
+                    },
+                    {
+                        "name": "Potong dadu dan bekukan dalam kantong Ziploc kedap udara — Simpan Freezer (300 Hari) 🧊",
+                        "text": "Jika Anda memiliki melon potong berlebih yang tidak habis dalam 5 hari, membekukannya adalah opsi terbaik. 💡 Tips Penyimpanan: Bekukan potongan melon di atas nampan agar tidak saling menempel, lalu pindahkan ke kantong Ziploc freezer (-18°C) hingga 10–12 bulan."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Apakah saya harus mencuci kulit luar melon sebelum memotongnya?",
+                        "answer": "Ya, sangat wajib! Tekstur jaring pada kulit melon dapat menyimpan kotoran, Salmonella, atau bakteri lain. Saat pisau mengiris kulit, bakteri di permukaan akan terdorong langsung ke dalam daging buah. Selalu sikat kulit luar melon hingga bersih di bawah air mengalir dan keringkan sebelum dipotong."
+                    },
+                    {
+                        "question": "Melon potong saya mengeluarkan banyak air dan menjadi melunak. Apakah masih aman dimakan?",
+                        "answer": "Jika melon potong mengeluarkan genangan air, teksturnya melunak/hancur, atau berbau asam, berarti terjadi pembusukan oleh bakteri. Karena melon berasam rendah, racun dan bakteri berkembang cepat. Segera buang melon potong yang menunjukkan tanda-tanda kerusakan."
+                    }
+                ]
+            }
+        }
+    }
+}

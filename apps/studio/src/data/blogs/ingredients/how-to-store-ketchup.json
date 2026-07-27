@@ -1,0 +1,406 @@
+{
+    "how-to-store-ketchup": {
+        "ingId": "ketchup",
+        "pubDate": "2026-02-23",
+        "updatedDate": "2026-02-23",
+        "heroImage": "/images/blog/ketchup_storage_hack.webp",
+        "locales": {
+            "ko": {
+                "title": "케찹 신선하게 보관하는 법: 과학적 보관 가이드",
+                "description": "공인된 안전 가이드라인에 따른 케찹의 최적 보관 온도, 방식 및 개봉 후 보관 기한을 확인하세요.",
+                "authority": "<strong>미국 식품의약국(FDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>",
+                "intro": "새 케찹을 개봉해 레스토랑처럼 식탁에 두고 사용하다가 색이 갈색으로 변하거나 신맛이 강해진 경험 있으시죠? 🥫\n\n케찹은 토마토, 식초, 설탕, 소금의 산성과 침투압 덕분에 상온에서도 균이 잘 자라지 않는 대표적인 양념입니다. 하지만 개봉 후 공기와 열에 노출되면 토마토의 리코펜 성분이 산화되어 색이 어두워지고 산뜻한 단맛과 감칠맛이 점차 손실됩니다.\n\n오늘 FreshSnap에서는 미국 FDA, USDA 및 식품 안전 전문가들의 가이드라인을 바탕으로, 케찹의 진한 맛과 선명한 붉은빛을 개봉 후에도 오랫동안 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+                "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+                "guideTitle": "과학적으로 검증된 보관 가이드",
+                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+                "cautions": [
+                    {
+                        "title": "절대 냉동 보관하지 마세요 ⚠️",
+                        "desc": "케찹을 냉동실에 보관하면 수분과 토마토 고형분이 분리(수분 분리 현상)되어 얼었다 녹았을 때 묽은 물만 나오고 덩어리가 집니다. 한번 분리된 구조는 복구되지 않으므로 영하의 온도를 피해야 합니다."
+                    },
+                    {
+                        "title": "사용 후 입구 잔여물을 닦고 뚜껑을 꼭 닫으세요 🥫",
+                        "desc": "용기 입구에 남은 케찹은 공기와 닿아 딱딱하게 굳거나 곰팡이 번식의 원인이 됩니다. 사용 직후 마른 휴지나 천으로 입구를 깨끗이 닦은 뒤 뚜껑을 꼭 닫아 공기 접촉을 차단하세요."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "개봉 전 상온, 개봉 후 즉시 냉장 보관하기 — 개봉 후 냉장 보관 (180일) ❄️",
+                        "text": "개봉 전에는 직사광선을 피한 서늘한 상온(팬트리)에 보관 가능하지만, 개봉 후에는 산소 유입으로 갈변과 맛의 저하가 진행됩니다. 💡 보관 팁: 개봉한 케찹은 반드시 냉장 보관해야 하며, 개봉 후 6개월(180일) 이내에 소비하는 것이 가장 신선하고 맛이 좋습니다."
+                    },
+                    {
+                        "name": "냉장고 문 선반이나 중단 선반에 보관하기 — 적정 냉장 온도 유지 🌡️",
+                        "text": "케찹은 너무 차가운 환경보다 4~8℃의 완만한 냉장 온도가 유지될 때 리코펜 손실과 성분 분리를 최소화할 수 있습니다. 💡 보관 팁: 냉기 출구 근처(냉장고 최심부)를 피하고, 냉장고 문(도어) 선반이나 중앙 선반 앞쪽에 보관하는 것이 최적입니다."
+                    },
+                    {
+                        "name": "튜브/스퀴즈 용기 거꾸로 세워 보관하기 — 공기 접촉 최소화 🧴",
+                        "text": "스퀴즈 튜브형 케찹의 경우 용기 내부의 공기 접촉을 줄이는 것이 갈변과 풍미 저하를 막는 핵심입니다. 💡 보관 팁: 뚜껑이 아래로 가도록 거꾸로 세워 보관하면 케찹이 입구 쪽에 모여 공기 유입을 차단하고, 쓸 때마다 바로 깔끔하게 사용할 수 있습니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "케찹을 짤 때 처음에 물만 찌익 나오는데 상한 건가요?",
+                        "answer": "케찹을 오랫동안 세워두면 성분 간의 밀도 차이로 인해 물(식초와 토마토 수분)이 위로 뜨는 '수분 분리 현상(離水)'이 일어납니다. 이는 상한 것이 아니며, 용기를 가볍게 흔들어 사용하거나 처음 나오는 맑은 물만 살짝 버리고 사용하시면 됩니다."
+                    },
+                    {
+                        "question": "개봉한 케찹을 상온에 두었는데 정말 냉장 보관해야 하나요?",
+                        "answer": "케찹은 산성과 염도 덕분에 상온에서도 치명적인 식중독균이 쉽게 자라지는 않습니다. 하지만 상온에 두면 갈변이 빠르게 진행되고 식초의 신맛이 달라지며 유통기한이 수주일 내로 급격히 줄어듭니다. 신선한 색과 풍미를 위해 개봉 후에는 냉장 보관을 강력히 권장합니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "How to Keep Ketchup Fresh: Scientific Storage Guide",
+                "description": "Check the optimal storage temperature, method, and shelf life after opening for ketchup based on official safety guidelines.",
+                "authority": "<strong>FDA & USDA & MFDS</strong>",
+                "intro": "Have you ever left a bottle of ketchup on the kitchen counter like a diner, only to notice it darkening into a dull brown with an overly acidic taste? 🥫\n\nKetchup is naturally resistant to bacterial growth due to the acidity and osmotic pressure from tomatoes, vinegar, sugar, and salt. However, once opened, exposure to oxygen and room heat oxidizes lycopene, dulling its vibrant red color and degrading its sweet, tangy umami flavor.\n\nToday, FreshSnap introduces a scientifically proven 3-step ketchup storage guide based on official guidelines from the FDA, USDA, and food safety experts to preserve its rich taste and bright color long after opening. 🛡️",
+                "whyTitle": "Why Store Ketchup This Way? Scientific Facts",
+                "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
+                "guideTitle": "Scientifically Proven Storage Guide",
+                "cautionTitle": "Essential Storage Rules and Cautions",
+                "cautions": [
+                    {
+                        "title": "Never freeze ketchup ⚠️",
+                        "desc": "Freezing ketchup breaks its emulsion-like structure, causing severe syneresis (liquid-solid separation). When thawed, watery liquid separates from clumpy solids and cannot be remixed, ruining the texture."
+                    },
+                    {
+                        "title": "Wipe nozzle clean and seal tightly after use 🥫",
+                        "desc": "Residual ketchup around the cap hardens into a crust and can invite mold growth upon prolonged air exposure. Wipe the nozzle clean with a paper towel immediately after use and seal tightly."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Pantry before opening, refrigerate immediately after — Refrigerated Storage (180 Days) ❄️",
+                        "text": "Unopened ketchup can be stored in a cool pantry for up to 1 year, but opening it accelerates oxidation and color fading. 💡 Storage Tip: Always refrigerate ketchup once opened (0–4°C / 32–39°F) and consume within 6 months (180 days) for peak flavor and color."
+                    },
+                    {
+                        "name": "Store on refrigerator door or middle shelf — Maintain Optimal Refrigeration Temperature 🌡️",
+                        "text": "Ketchup maintains its viscosity best at stable refrigeration temperatures around 4–8°C (39–46°F). 💡 Storage Tip: Avoid the coldest back wall near cold air vents. Placing ketchup on the refrigerator door shelf or the front of middle shelves keeps it properly chilled without risk of freezing."
+                    },
+                    {
+                        "name": "Store squeeze bottles upside down — Minimize Air Exposure 🧴",
+                        "text": "For flexible squeeze bottles, reducing internal air exposure prevents darkening and oxidation. 💡 Storage Tip: Storing the bottle inverted (cap-down) keeps the ketchup packed near the nozzle, blocking air intrusion and ensuring smooth dispense down to the last drop."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "A watery liquid squirted out first when I squeezed the ketchup. Has it gone bad?",
+                        "answer": "No, this liquid separation (syneresis) is completely natural. When ketchup sits undisturbed, vinegar and tomato water naturally separate to the top. Simply shake the bottle well before opening or discard the small watery squirt."
+                    },
+                    {
+                        "question": "I left opened ketchup at room temperature. Is refrigeration really necessary?",
+                        "answer": "Because ketchup is highly acidic and contains salt, dangerous bacteria rarely grow at room temperature. However, leaving it out causes rapid lycopene oxidation (darkening), flavor degradation, and drastically shortens its shelf life to a few weeks. Refrigeration is strongly recommended to preserve fresh color and flavor."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "ケチャップを新鮮に保つ保存方法：科学的保管ガイド",
+                "description": "公的安全基準に基づくケチャップの最適な保存温度、保管方法、開封後の保存期間をご確認ください。",
+                "authority": "<strong>米国食品医薬品局(FDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>",
+                "intro": "開封したケチャップを食卓に出しっぱなしにしていたら、色がくすんだ褐色になり酸味がきつくなってしまった経験はありませんか？🥫\n\nケチャップは、トマトや酢の酸味、砂糖・塩の浸透圧により、常温でも細菌が繁殖しにくい調味料です。しかし、開封後に空気や熱に晒されると、トマトのリコピンが酸化して色が黒ずみ、爽やかな甘みと旨味が徐々に失われてしまいます。\n\n本日FreshSnapでは、米国FDA、USDAおよび食品安全専門家のガイドラインに基づき、ケチャップの濃密な味わいと鮮やかな赤色を開封後も長持ちさせる3段階の科学的保存法をご紹介します。🛡️",
+                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+                "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+                "guideTitle": "科学的に検証された保存ガイド",
+                "cautionTitle": "保存時の必須ルールと注意事項",
+                "cautions": [
+                    {
+                        "title": "絶対に冷凍保存しないでください ⚠️",
+                        "desc": "ケチャップを冷凍すると水分とトマト固形分が分離（離水現象）し、解凍した時に水っぽくなりダマになってしまいます。一度分離した組織は元に戻らないため、氷点下の環境は避けてください。"
+                    },
+                    {
+                        "title": "使用後は注ぎ口を拭き取って密閉してください 🥫",
+                        "desc": "キャップの周りに残ったケチャップは空気と触れて固まり、カビの発生原因になります。使用直後は清潔なティッシュで注ぎ口を拭き取り、キャップをしっかり閉めてください。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "開封前は常温、開封後はすぐに冷蔵保存する — 開封後冷蔵保存 (180日間) ❄️",
+                        "text": "開封前は直射日光を避けた涼しい常温で保存できますが、開封後は酸素と触れて酸化や色の黒ずみが進みます。💡保存のコツ：開封したケチャップは必ず冷蔵庫で保存し、開封後6ヶ月（180日）以内を目安に使い切るのが最も安全で美味しく召し上がれます。"
+                    },
+                    {
+                        "name": "冷蔵庫のドアポケットや中央の棚に保存する — 適切な冷蔵温度の維持 🌡️",
+                        "text": "ケチャップは極端な冷気よりも4〜8℃の安定した冷蔵温度で保存すると成分の分離や変色を最小限に抑えられます。💡保存のコツ：冷気吹き出し口の近く（最奥部）は避け、冷蔵庫のドアポケットや中央の棚の手前に保管するのが最適です。"
+                    },
+                    {
+                        "name": "チューブ容器を逆さに立てて保存する — 空気との接触を最小限に抑える 🧴",
+                        "text": "チューブ型ケチャップの場合、容器内の空気との接触を減らすことが変色や風味の低下を防ぐ鍵となります。💡保存のコツ：キャップを下にして逆さに立てて保存すると、ケチャップが注ぎ口側に集まり空気の侵入を防ぐため、最後まで鮮度を保って使い切ることができます。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "ケチャップを出した時に最初に透明な水だけが出てきますが、腐っていますか？",
+                        "answer": "ケチャップを長時間静置しておくと、水分（酢やトマトの水分）が上部に分離して浮いてくる「離水現象」が起こります。これは傷んでいるわけではないので、使用前に容器を軽く振るか、最初に出てくる少量の水だけを捨ててそのままお使いいただけます。"
+                    },
+                    {
+                        "question": "開封したケチャップを常温に置いていましたが、本当に冷蔵庫に入れる必要がありますか？",
+                        "answer": "ケチャップは酸度と塩分が高いため常温でも食中毒菌は繁殖しにくいですが、常温保存では黒ずみが早く進み、風味が損なわれて賞味期限が数週間に縮んでしまいます。鮮やかな赤色と美味しい味を保つため、開封後は冷蔵保存を強く推奨します。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "如何保持番茄酱新鲜：科学储存指南",
+                "description": "根据官方食品安全指南，了解番茄酱的最佳储存温度、方式及开封后的保鲜时长。",
+                "authority": "<strong>美国食品药品监督管理局(FDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "intro": "您是否曾将开封后的番茄酱放在餐桌上，结果发现其颜色变深发黑、酸味也变得刺鼻？🥫\n\n番茄酱凭借番茄和食醋的酸性以及糖和盐的渗透压，在常温下不易滋生细菌。但开封后一旦接触空气和热量，番茄红素就会发生氧化，导致鲜艳的红色变暗，原本爽口的甜酸风味和鲜味也会逐渐流失。\n\n今天FreshSnap基于美国FDA、USDA及食品安全专家的指南，为您带来3步科学保存秘诀，帮您在开封后也能长久锁住番茄酱浓郁的口感与鲜红的色泽。🛡️",
+                "whyTitle": "为什么要这样储存？科学原理",
+                "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+                "guideTitle": "科学验证的储存指南",
+                "cautionTitle": "储存必需规则及注意事项",
+                "cautions": [
+                    {
+                        "title": "切勿冷冻保存 ⚠️",
+                        "desc": "将番茄酱冷冻会导致水分与番茄固形物分离（析水现象）。解冻后会出现水分离且呈块状，无法恢复原有的均匀粘稠质感，破坏口感。"
+                    },
+                    {
+                        "title": "使用后请擦拭干净瓶口并盖紧 🥫",
+                        "desc": "残留在瓶口周围的番茄酱接触空气后会结块变硬，并可能滋生霉菌。使用后请立即用干净纸巾擦净瓶口，并紧闭瓶盖。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "开封前常温，开封后立即冷藏 — 冷藏保存 (180天) ❄️",
+                        "text": "未开封时可存放在阴凉干燥处，但开封后因接触氧气会加速氧化与褪色。💡储存小贴士：开封后的番茄酱必须放入冰箱冷藏，并在6个月（180天）内食用完毕，以保持最佳风味与鲜红色泽。"
+                    },
+                    {
+                        "name": "存放在4~8℃的保鲜层或冰箱门架 — 保持适宜冷藏温度 🌡️",
+                        "text": "番茄酱在4~8℃的稳定冷藏环境下能最大程度减少营养流失与分层。💡储存小贴士：避开冰箱最内侧（冷气出风口），存放在温度保持在4~8℃的冰箱门侧架或中层隔板前侧最为适宜。"
+                    },
+                    {
+                        "name": "倒置摆放挤压瓶 — 减少空气接触 🧴",
+                        "text": "对于挤压瓶装番茄酱，减少瓶内空气接触是防止变色与氧化变质的关键。💡储存小贴士：将瓶盖朝下倒置摆放，可使番茄酱聚集在瓶口处阻断空气进入，方便挤出且保鲜效果更好。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "挤番茄酱时最初只挤出稀水，是变质了吗？",
+                        "answer": "这不是变质，而是番茄酱静置后发生的自然“析水现象”。水分（醋和番茄水）由于密度差异会浮到上层。使用前轻轻摇匀，或将最初挤出的少量清水倒掉即可正常食用。"
+                    },
+                    {
+                        "question": "开封后的番茄酱放在常温下，真的有必要放冰箱吗？",
+                        "answer": "番茄酱因高酸度和盐分，在常温下不易滋生致命食源性细菌。但常温存放会导致氧化发黑加快、风味劣变，保质期缩短至几周。为了保持鲜艳色泽与优质口感，强烈建议开封后放入冰箱冷藏。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cómo mantener la kétchup fresca: Guía científica de conservación",
+                "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos tras su apertura para la kétchup según las directrices oficiales de seguridad.",
+                "authority": "<strong>FDA & USDA & MFDS</strong>",
+                "intro": "¿Alguna vez dejó la botella de kétchup en la mesa y notó que con los días se volvía marrón oscuro y con un sabor demasiado ácido? 🥫\n\nLa kétchup es resistente a las bacterias gracias a la acidez y presión osmótica del tomate, el vinagre, el azúcar y la sal. Sin embargo, al abrirse, la exposición al oxígeno y al calor del ambiente oxida el licopeno, oscureciendo su color rojo brillante y degradando su sabor dulce y sabroso.\n\nHoy, FreshSnap presenta una guía de conservación en 3 pasos respaldada por la FDA, el USDA y expertos en seguridad alimentaria para mantener el color brillante y el sabor intenso de su kétchup tras su apertura. 🛡️",
+                "whyTitle": "¿Por qué almacenarla así? Datos científicos",
+                "whyDesc": "Comprender las características fisiológicas y químicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+                "guideTitle": "Guía de almacenamiento científicamente probada",
+                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+                "cautions": [
+                    {
+                        "title": "Nunca congele la kétchup ⚠️",
+                        "desc": "Congelar la kétchup provoca la separación del agua y los sólidos de tomate (sinéresis). Al descongelarse, el líquido se separa de los grumos y no se puede volver a homogeneizar, arruinando su textura."
+                    },
+                    {
+                        "title": "Limpie la boquilla y cierre bien después de usar 🥫",
+                        "desc": "Los restos de kétchup alrededor de la tapa se secan formando costras y pueden favorecer el crecimiento de moho. Limpie la boquilla con un papel inmediatamente después de usar y cierre bien."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Despensa antes de abrir, refrigeración inmediata después — Almacenamiento refrigerado (180 días) ❄️",
+                        "text": "Antes de abrir se puede guardar en la despensa fresca; pero tras abrirla, la exposición al oxígeno acelera la pérdida de sabor y el oscurecimiento. 💡 Consejo de almacenamiento: Guarde siempre la kétchup abierta en el refrigerador y consúmala en un plazo de 6 meses (180 días)."
+                    },
+                    {
+                        "name": "Conserve entre 4 y 8 °C en los estantes de la puerta o centrales — Temperatura adecuada 🌡️",
+                        "text": "La kétchup conserva mejor su textura y sabor a temperaturas estables de refrigeración (4–8 °C). 💡 Consejo de almacenamiento: Evite la pared posterior fría. Guardarla en la puerta del refrigerador o en la parte delantera de los estantes la mantiene perfecta sin riesgo de congelación."
+                    },
+                    {
+                        "name": "Guarde los botes boca abajo — Minimice el contacto con el aire 🧴",
+                        "text": "En botes de plástico exprimibles, reducir el contacto con el aire evita el oscurecimiento y la pérdida de sabor. 💡 Consejo de almacenamiento: Almacenar el bote con el tapón hacia abajo acumula la kétchup cerca de la salida, bloqueando el aire y facilitando su uso."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Al apretar la kétchup salió un líquido acuoso al principio, ¿se ha estropeado?",
+                        "answer": "No, esa separación de líquido (sinéresis) es natural. Al estar en reposo, el agua del vinagre y del tomate se separa en la parte superior. Simplemente agite bien el bote antes de usarlo o descarte el primer chorro acuoso."
+                    },
+                    {
+                        "question": "Dejé la kétchup abierta a temperatura ambiente. ¿Es realmente necesaria la refrigeración?",
+                        "answer": "Debido a su acidez y sal, rara vez se desarrollan bacterias peligrosas a temperatura ambiente. Sin embargo, dejarla fuera acelera el oscurecimiento, altera el sabor y reduce su vida útil a pocas semanas. Se recomienda encarecidamente refrigerarla tras su apertura."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Comment conserver le ketchup frais : Guide scientifique de conservation",
+                "description": "Découvrez la température, la méthode et la durée de conservation optimales après ouverture pour le ketchup selon les directives officielles de sécurité.",
+                "authority": "<strong>FDA & USDA & MFDS</strong>",
+                "intro": "Avez-vous déjà laissé une bouteille de ketchup sur la table et remarqué qu'avec le temps sa couleur devenait d'un rouge assombri et son goût trop acide ? 🥫\n\nLe ketchup résiste naturellement aux bactéries grâce à l'acidité de la tomate et du vinaigre ainsi qu'à la pression osmotique du sucre et du sel. Cependant, après ouverture, l'exposition à l'air et à la chaleur oxyde le lycopène, altérant sa belle couleur rouge et dégradant sa saveur douce et acidulée.\n\nAujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations de la FDA, du USDA et d'experts en sécurité alimentaire pour préserver la couleur vive et le goût riche de votre ketchup après ouverture. 🛡️",
+                "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
+                "whyDesc": "Comprendre les caractéristiques physiologiques et chimiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+                "guideTitle": "Guide de conservation scientifiquement prouvé",
+                "cautionTitle": "Règles essentielles et précautions de stockage",
+                "cautions": [
+                    {
+                        "title": "Ne congelez jamais le ketchup ⚠️",
+                        "desc": "Congeler le ketchup provoque une séparation de l'eau et des matières solides de tomate (synérèse). Lors de la décongélation, le liquide se sépare sous forme de grumeaux et ne peut plus être réhomogénénéisé."
+                    },
+                    {
+                        "title": "Essuyez l'embout et refermez bien après usage 🥫",
+                        "desc": "Les résidus de ketchup autour du bouchon séchent en croûte et risquent de favoriser la moisissure. Essuyez le goulot avec un essuie-tout propre juste après usage et refermez fermement."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Placard avant ouverture, réfrigérateur immédiat après — Conservation réfrigérée (180 jours) ❄️",
+                        "text": "Avant ouverture, le ketchup se conserve dans un endroit frais ; une fois ouvert, l'exposition à l'oxygène altère le goût et la couleur. 💡 Astuce de conservation : Conservez toujours le ketchup ouvert au réfrigérateur et consommez-le dans les 6 mois (180 jours) pour préserver sa saveur."
+                    },
+                    {
+                        "name": "Conserver entre 4 et 8 °C dans la porte ou sur les étagères — Température idéale 🌡️",
+                        "text": "Le ketchup conserve sa viscosité idéale à une température constante de 4 à 8 °C. 💡 Astuce de conservation : Évitez le fond du réfrigérateur près des arrivées d'air froid. Le placer dans le balconnet de la porte ou sur le devant d'une étagère évite tout risque de gel."
+                    },
+                    {
+                        "name": "Conserver les flacons souples tête en bas — Minimiser le contact avec l'air 🧴",
+                        "text": "Pour les flacons souples, réduire le contact avec l'air emprisonné est essentiel pour éviter l'assombrissement. 💡 Astuce de conservation : Stocker le flacon tête en bas regroupe le ketchup vers le goulot, bloquant l'air et garantissant une utilisation facile."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Un liquide transparent s'est écoulé en premier quand j'ai pressé le ketchup. Est-il périmé ?",
+                        "answer": "Non, cette séparation de liquide (synérèse) est naturelle. Lorsque le ketchup reste immobile, l'eau du vinaigre et de la tomate remonte en surface. Il suffit de bien secouer le flacon avant usage ou de jeter les premières gouttes d'eau."
+                    },
+                    {
+                        "question": "J'ai laissé du ketchup ouvert à température ambiante. La réfrigération est-elle vraiment nécessaire ?",
+                        "answer": "Grâce à son acidité et à sa teneur en sel, les bactéries dangereuses s'y développent rarement à température ambiante. Toutefois, le laisser dehors accélère l'assombrissement, dégrade le goût et réduit sa conservation à quelques semaines. La réfrigération est fortement recommandée."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Ketchup richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit nach dem Öffnen für Ketchup basierend auf offiziellen Sicherheitsrichtlinien.",
+                "authority": "<strong>FDA & USDA & MFDS</strong>",
+                "intro": "Haben Sie schon einmal eine Flasche Ketchup auf dem Esstisch stehen lassen und bemerkt, dass die Farbe dunkelbraun und der Geschmack unangenehm sauer wurde? 🥫\n\nKetchup ist dank der Säure von Tomaten und Essig sowie dem Zucker- und Salzgehalt sehr resistent gegen Bakterien. Nach dem Öffnen führt der Kontakt mit Sauerstoff und Wärme jedoch zur Oxidation von Lycopin, was die leuchtend rote Farbe verdunkelt und das süß-pikante Aroma schädigt.\n\nHeute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Richtlinien von FDA, USDA und Experten basiert, um Geschmack und Farbe Ihres Ketchups nach dem Öffnen perfekt zu bewahren. 🛡️",
+                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+                "whyDesc": "Das Verständnis der einzigartigen physiologischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+                "cautions": [
+                    {
+                        "title": "Ketchup niemals einfrieren ⚠️",
+                        "desc": "Das Einfrieren von Ketchup führt zur Entmischung von Wasser und Tomatenfeststoffen (Synärese). Beim Auftauen trennt sich wässrige Flüssigkeit von klumpigen Bestandteilen und lässt sich nicht mehr homogenisieren."
+                    },
+                    {
+                        "title": "Tülle reinigen und nach Gebrauch fest verschließen 🥫",
+                        "desc": "Ketchupreste am Deckel trocknen zu Krusten ein und können bei Luftkontakt Schimmelbildung begünstigen. Wischen Sie die Öffnung nach Gebrauch ab und verschließen Sie den Deckel fest."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Ungeöffnet im Vorratsschrank, geöffnet sofort kühlen — Kühllagerung (180 Tage) ❄️",
+                        "text": "Ungeöffnet hält sich Ketchup an einem kühlen Ort, doch nach dem Öffnen führt Sauerstoff zu Oxidation und Farbverlust. 💡 Lagerungstipp: Bewahren Sie geöffneten Ketchup immer im Kühlschrank auf und verbrauchen Sie ihn innerhalb von 6 Monaten (180 Tage)."
+                    },
+                    {
+                        "name": "Bei 4–8 °C in der Kühlschranktür oder auf Regalen lagern — Richtige Temperatur 🌡️",
+                        "text": "Ketchup behält seine Konsistenz am besten bei stabilen Kühlschranktemperaturen von 4–8 °C. 💡 Lagerungstipp: Meiden Sie die extrem kalte Rückwand. Die Lagerung in der Tür oder im vorderen Regalbereich hält ihn optimal gekühlt."
+                    },
+                    {
+                        "name": "Squeeze-Flaschen auf den Kopf stellen — Luftkontakt minimieren 🧴",
+                        "text": "Bei Squeeze-Flaschen verhindert die Reduzierung des Luftkontakts ein Nachdunkeln und Geschmacksverlust. 💡 Lagerungstipp: Stellen Sie die Flasche auf den Kopf (auf den Deckel), damit sich der Ketchup an der Öffnung sammelt und Luft draußen bleibt."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Beim Drücken kam zuerst eine wässrige Flüssigkeit heraus. Ist der Ketchup verdorben?",
+                        "answer": "Nein, diese Flüssigkeitsabsetzung (Synärese) ist völlig natürlich. Steht Ketchup länger unbewegt, setzt sich Wasser aus Essig und Tomate ab. Schütteln Sie die Flasche vor Gebrauch einfach gut durch."
+                    },
+                    {
+                        "question": "Ich habe geöffneten Ketchup bei Raumtemperatur gelagert. Ist Kühlung wirklich nötig?",
+                        "answer": "Wegen der Säure und des Salzes wachsen gefährliche Bakterien bei Raumtemperatur kaum. Allerdings führt das Stehenlassen zu rascher Nachbräunung, Geschmacksverlust und verkürzt die Haltbarkeit auf wenige Wochen. Eine Kühlung wird dringend empfohlen."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Como conservar ketchup fresco: Guia científico de armazenamento",
+                "description": "Descubra a temperatura, método e tempo de conservação ideais após a abertura para o ketchup com base em diretrizes oficiais de segurança.",
+                "authority": "<strong>FDA & USDA & MFDS</strong>",
+                "intro": "Você já deixou uma garrafa de ketchup na mesa e percebeu que com o tempo a cor ficou marrom escuro e o sabor excessivamente ácido? 🥫\n\nO ketchup é resistente a bactérias devido à acidez do tomate e do vinagre e à pressão osmótica do açúcar e do sal. No entanto, após aberto, a exposição ao oxigênio e ao calor oxida o licopeno, escurecendo sua cor vermelha vibrante e estragando seu sabor adocicado e saboroso.\n\nHoje, o FreshSnap apresenta um guia de conservação em 3 etapas baseado em diretrizes da FDA, USDA e especialistas em segurança alimentar para manter a cor viva e o sabor rico do seu ketchup após aberto. 🛡️",
+                "whyTitle": "Por que armazenar assim? Fatos científicos",
+                "whyDesc": "Comprender as características fisiológicas e químicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+                "guideTitle": "Guia de armazenamento comprovado cientificamente",
+                "cautionTitle": "Regras essenciais e precauções no armazenamento",
+                "cautions": [
+                    {
+                        "title": "Nunca congele o ketchup ⚠️",
+                        "desc": "Congelar o ketchup provoca a separação da água e dos sólidos de tomate (sinérese). Ao descongelar, o líquido se separa dos grumos e não pode ser rehomogeneizado, estragando a textura."
+                    },
+                    {
+                        "title": "Limpe o bocal e feche bem após o uso 🥫",
+                        "desc": "Resíduos de ketchup ao redor da tampa secam formando crostas e podem favorecer o surgimento de mofo. Limpe o bocal com papel limpo após o uso e feche firmemente."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Despensa antes de abrir, geladeira imediatamente depois — Refrigeração (180 dias) ❄️",
+                        "text": "Antes de abrir pode ficar no armário fresco; mas após aberto, a exposição ao oxigênio acelera a perda de sabor e o escurecimento. 💡 Dica de conservação: Guarde o ketchup aberto sempre na geladeira e consuma em até 6 meses (180 dias)."
+                    },
+                    {
+                        "name": "Conserve entre 4 e 8 °C nas prateleiras da porta ou centrais — Temperatura adequada 🌡️",
+                        "text": "O ketchup mantém sua textura ideal em temperaturas estáveis de refrigeração (4–8 °C). 💡 Dica de conservação: Evite o fundo gelado da geladeira. Guardar na porta ou na frente das prateleiras evita o risco de congelamento."
+                    },
+                    {
+                        "name": "Guarde bisnagas de cabeça para baixo — Minimize o contato com o ar 🧴",
+                        "text": "Em embalagens flexíveis, reduzir o contato com o ar interno evita o escurecimento e a oxidação. 💡 Dica de conservação: Guardar com a tampa para baixo mantém o ketchup concentrado no bocal, bloqueando o ar e facilitando o uso."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Ao apertar o ketchup saiu um líquido aquoso primeiro. Ele estragou?",
+                        "answer": "Não, essa separação de líquido (sinérese) é natural. Quando o ketchup fica parado, a água do vinagre e do tomate se separa no topo. Basta agitar bem a garrafa antes de usar ou descartar as primeiras gotas."
+                    },
+                    {
+                        "question": "Deixei o ketchup aberto em temperatura ambiente. A refrigeração é realmente necessária?",
+                        "answer": "Devido à acidez e ao sal, bactérias perigosas raramente se multiplicam em temperatura ambiente. Contudo, deixá-lo fora acelera o escurecimento, altera o sabor e reduz a durabilidade para poucas semanas. A refrigeração é altamente recomendada."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Cara Menyimpan Saus Tomat (Ketchup) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+                "description": "Ketahui suhu, metode, dan masa simpan terbaik setelah dibuka untuk saus tomat (ketchup) berdasarkan pedoman keselamatan resmi.",
+                "authority": "<strong>FDA & USDA & MFDS</strong>",
+                "intro": "Pernahkah Anda meninggalkan botol saus tomat (ketchup) di meja makan lalu mendapati warnanya berubah menjadi cokelat kusam dan rasanya terlalu asam? 🥫\n\nSaus tomat secara alami tahan terhadap bakteri berkat tingkat keasaman tomat dan cuka serta tekanan osmotik dari gula dan garam. Namun setelah dibuka, paparan oksigen dan suhu ruang akan mengoksidasi likopen, merusak warna merah cerahnya serta menurunkan rasa manis dan gurihnya.\n\nHari ini, FreshSnap membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan pedoman FDA, USDA, dan ahli keamanan pangan untuk menjaga kelezatan dan warna merah segar saus tomat Anda setelah dibuka. 🛡️",
+                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+                "whyDesc": "Memahami karakteristik fisiologis dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+                "cautions": [
+                    {
+                        "title": "Jangan pernah membekukan saus tomat ⚠️",
+                        "desc": "Membekukan saus tomat menyebabkan pemisahan antara air dan padatan tomat (sineresis). Saat dicairkan, cairan akan terpisah menjadi gumpalan dan tidak dapat menyatu kembali."
+                    },
+                    {
+                        "title": "Bersihkan mulut botol dan tutup rapat setelah digunakan 🥫",
+                        "desc": "Sisa saus tomat di sekitar tutup botol akan mengering menjadi kerak dan dapat memicu tumbuhnya jamur. Lap bagian mulut botol dengan tisu bersih setelah digunakan dan tutup rapat."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Simpan di dapur sebelum dibuka, segera masukkan kulkas setelah dibuka — Simpan Dingin (180 Hari) ❄️",
+                        "text": "Sebelum dibuka, saus tomat dapat disimpan di tempat sejuk. Namun setelah dibuka, paparan oksigen mempercepat oksidasi dan perubahan warna. 💡 Tips Penyimpanan: Selalu simpan saus tomat yang sudah dibuka di kulkas dan habiskan dalam waktu 6 bulan (180 hari)."
+                    },
+                    {
+                        "name": "Simpan pada suhu 4–8°C di rak pintu atau rak tengah — Jaga Suhu Kulkas yang Tepat 🌡️",
+                        "text": "Saus tomat mempertahankan teksturnya paling baik pada suhu kulkas yang stabil sekitar 4–8°C. 💡 Tips Penyimpanan: Hindari dinding dalam kulkas yang paling dingin. Menyimpan di rak pintu atau rak tengah bagian depan menjaga suhu dinginnya tetap pas."
+                    },
+                    {
+                        "name": "Simpan botol dalam posisi terbalik — Minimalkan Paparan Udara 🧴",
+                        "text": "Untuk saus tomat dalam botol plastik lentur, mengurangi kontak dengan udara di dalam botol mencegah perubahan warna dan oksidasi. 💡 Tips Penyimpanan: Menyimpan botol secara terbalik (tutup di bawah) membuat saus berkumpul di mulut botol dan menahan udara masuk."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Cairan bening keluar terlebih dahulu saat saus tomat ditekan. Apakah saus sudah basi?",
+                        "answer": "Tidak, pemisahan cairan (sineresis) ini alami. Saat saus diam dalam waktu lama, air dari cuka dan tomat akan terpisah ke atas. Cukup kocok botol hingga merata sebelum digunakan atau buang sedikit cairan pertama tersebut."
+                    },
+                    {
+                        "question": "Saya meninggalkan saus tomat yang sudah dibuka pada suhu ruang. Apakah pendinginan di kulkas benar-benar wajib?",
+                        "answer": "Kandungan asam dan garam yang tinggi membuat bakteri berbahaya jarang berkembang pada suhu ruang. Namun, membiarkannya di luar mempercepat perubahan warna menjadi gelap, merusak rasa, dan memotong masa simpannya menjadi beberapa minggu saja. Pendinginan sangat disarankan."
+                    }
+                ]
+            }
+        }
+    }
+}

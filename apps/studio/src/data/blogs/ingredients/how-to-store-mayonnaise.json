@@ -1,0 +1,406 @@
+{
+    "how-to-store-mayonnaise": {
+        "ingId": "mayonnaise",
+        "pubDate": "2026-01-12",
+        "updatedDate": "2026-01-12",
+        "heroImage": "/images/blog/mayonnaise_storage_hack.webp",
+        "locales": {
+            "ko": {
+                "title": "마요네즈 신선하게 보관하는 법: 과학적 보관 가이드",
+                "description": "공인된 안전 가이드라인에 따른 마요네즈의 최적 보관 온도, 방식 및 개봉 후 보관 기한을 확인하세요.",
+                "authority": "<strong>미국 식품의약국(FDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>",
+                "intro": "고소한 마요네즈를 개봉한 뒤 냉장고 구석에 방치했다가 기름과 물이 층층이 분리되어 낭패를 본 경험 있으시죠? 🧴\n\n마요네즈는 식물성 기름, 계란 노른자, 식초(또는 레몬즙)를 정밀하게 섞어 만든 대표적인 유화액(Emulsion) 식품입니다. 온도 변화에 민감하며 특히 극저온에 노출되면 기름과 수분의 결합이 깨지는 유화 파괴 현상이 일어납니다.\n\n오늘 FreshSnap에서는 미국 FDA, USDA 및 식품의약품안전처의 가이드라인을 바탕으로, 마요네즈의 고소한 맛과 부드러운 질감을 개봉 후에도 오랫동안 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+                "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+                "guideTitle": "과학적으로 검증된 보관 가이드",
+                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+                "cautions": [
+                    {
+                        "title": "절대 냉동 보관하거나 냉기 출구 근처에 두지 마세요 ⚠️",
+                        "desc": "마요네즈가 0℃ 이하로 내려가면 오일과 노른자, 식초의 결합이 깨지면서 기름이 위로 둥둥 뜨는 유화 파괴(Emulsion Breakdown)가 일어납니다. 한번 분리된 마요네즈는 다시 섞이지 않으므로 영하의 온도나 냉기 출구 직풍에 노출되지 않도록 하세요."
+                    },
+                    {
+                        "title": "사용 후 입구 주변을 깨끗이 닦고 밀봉하세요 🧴",
+                        "desc": "용기 입구에 남은 마요네즈 잔여물은 공기 중의 산소와 만나 찌들어 산패되거나 곰팡이 및 세균 번식의 원인이 됩니다. 사용 직후 마른 휴지나 천으로 입구를 깨끗이 닦은 뒤 뚜껑을 꼭 닫아 보관하세요."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "개봉 전 상온, 개봉 후 즉시 냉장 보관하기 — 개봉 후 냉장 보관 (60~90일) ❄️",
+                        "text": "개봉 전에는 직사광선을 피한 서늘한 상온에 보관할 수 있지만, 개봉 후에는 산소 및 미생물 노출로 산패가 시작됩니다. 💡 보관 팁: 개봉한 마요네즈는 반드시 냉장 보관해야 하며, 개봉 후 2~3개월(60~90일) 이내에 소비하는 것이 가장 안전하고 맛이 좋습니다."
+                    },
+                    {
+                        "name": "0℃ 이상 4~8℃ 온도의 선반이나 문 쪽에 보관하기 — 적정 냉장 온도 유지 🌡️",
+                        "text": "마요네즈는 너무 차가우면 유화가 깨지고, 너무 따뜻하면 미생물 증식 및 지방 산화가 일어납니다. 💡 보관 팁: 냉장고 안쪽 깊은 곳(냉기 출구 근처)은 피하고, 4~8℃ 사이의 온도가 유지되는 냉장고 문(도어) 선반이나 중간 선반 앞쪽에 보관하는 것이 최적입니다."
+                    },
+                    {
+                        "name": "입구를 아래로 향하게 세워 보관하기 — 공기 접촉 최소화 🧴",
+                        "text": "튜브형 마요네즈의 경우 공기와의 접촉면을 줄이는 것이 풍미 유지에 핵심입니다. 💡 보관 팁: 뚜껑이 아래로 가도록 거꾸로 세워 보관하면 마요네즈가 입구 쪽에 모여 공기 유입을 차단하고, 끝까지 알뜰하고 신선하게 사용할 수 있습니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "마요네즈 기름이 분리되었는데 다시 섞어서 써도 되나요?",
+                        "answer": "유화가 파괴되어 기름이 분리된 마요네즈는 이미 구조가 손상되고 지방 산패가 진행되었을 가능성이 높습니다. 다시 저어도 원래의 부드러운 유화 상태로 돌아가지 않으므로 안전과 풍미를 위해 폐기하는 것이 좋습니다."
+                    },
+                    {
+                        "question": "마요네즈는 식초가 들어있어서 상온에 두어도 안 상하지 않나요?",
+                        "answer": "마요네즈의 식초(산성) 성분이 세균 번식을 억제하는 효과가 있는 것은 사실이지만, 개봉 후 공기와 접촉하면 표면 지방의 산패가 진행되고 외부 오염물질에 의해 변질될 수 있습니다. 개봉 후에는 반드시 냉장 보관해야 합니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "How to Keep Mayonnaise Fresh: Scientific Storage Guide",
+                "description": "Check the optimal storage temperature, method, and shelf life after opening for mayonnaise based on official safety guidelines.",
+                "authority": "<strong>FDA & USDA & MFDS</strong>",
+                "intro": "Have you ever left an opened jar or bottle of mayonnaise in the back of your fridge, only to find the oil and water split into greasy layers? 🧴\n\nMayonnaise is a classic emulsion made by precisely combining vegetable oil, egg yolk, and vinegar or lemon juice. It is delicate to temperature changes—especially freezing temperatures, which ruin the emulsion and cause oil separation.\n\nToday, FreshSnap introduces a scientifically proven 3-step mayonnaise storage guide based on official guidelines from the FDA, USDA, and MFDS to keep your mayonnaise rich, smooth, and fresh after opening. 🛡️",
+                "whyTitle": "Why Store Mayonnaise This Way? Scientific Facts",
+                "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
+                "guideTitle": "Scientifically Proven Storage Guide",
+                "cautionTitle": "Essential Storage Rules and Cautions",
+                "cautions": [
+                    {
+                        "title": "Never freeze mayonnaise or place it near freezing vents ⚠️",
+                        "desc": "When mayonnaise drops below 0°C (32°F), the bond between oil, egg yolk, and vinegar breaks, leading to emulsion breakdown and oil separation. Once separated, mayonnaise cannot be re-emulsified, so keep it away from sub-zero zones and direct cold air vents."
+                    },
+                    {
+                        "title": "Wipe the nozzle clean and seal tightly after use 🧴",
+                        "desc": "Leftover mayonnaise around the bottle lip oxidizes quickly upon contact with air and can invite mold or bacterial growth. Always wipe the cap or nozzle with a clean tissue immediately after use and seal it tightly."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Pantry before opening, refrigerate immediately after — Refrigerated Storage (60–90 Days) ❄️",
+                        "text": "Unopened mayonnaise can be kept in a cool, dry pantry away from sunlight, but opening it exposes the product to oxygen and microbes. 💡 Storage Tip: Always refrigerate mayonnaise once opened and consume it within 2–3 months (60–90 days) for optimal safety and flavor."
+                    },
+                    {
+                        "name": "Store at 4–8°C on door shelves or main shelves — Maintain Optimal Refrigeration Temperature 🌡️",
+                        "text": "Temperatures that are too cold break the emulsion, while temperatures that are too warm encourage microbial growth and lipid oxidation. 💡 Storage Tip: Avoid the coldest back wall of the fridge. Storing mayonnaise on the refrigerator door shelf or the front of middle shelves (4–8°C / 39–46°F) prevents freezing while keeping it properly chilled."
+                    },
+                    {
+                        "name": "Store squeeze bottles upside down — Minimize Air Exposure 🧴",
+                        "text": "For squeeze tube or bottle mayonnaise, reducing air contact inside the container is key to preserving flavor. 💡 Storage Tip: Storing the bottle inverted (cap-down) keeps the product packed near the nozzle, blocking air intrusion and ensuring fresh, easy dispense down to the last drop."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Can I re-mix mayonnaise if the oil has separated?",
+                        "answer": "When mayonnaise breaks and oil separates, its structural stability is lost, and lipid oxidation has likely progressed. Whisking it back together will not restore its smooth original texture, so it is best to discard it for safety and quality."
+                    },
+                    {
+                        "question": "Doesn't the vinegar in mayonnaise prevent it from spoiling at room temperature?",
+                        "answer": "While the acidic vinegar content in commercial mayonnaise helps inhibit bacterial growth, opening the bottle exposes the oil to oxygen, leading to oxidation and contamination. Refrigeration after opening is essential to maintain food safety and quality."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "マヨネーズを新鮮に保つ保存方法：科学的保管ガイド",
+                "description": "公的安全基準に基づくマヨネーズの最適な保存温度、保管方法、開封後の保存期間をご確認ください。",
+                "authority": "<strong>米国食品医薬品局(FDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>",
+                "intro": "開封したマヨネーズを冷蔵庫の奥に放置していたら、油と水が分離して層になってしまった経験はありませんか？🧴\n\nマヨネーズは、植物油、卵黄、酢（またはレモン汁）を精密に撹拌して作られる代表的な「乳化（エマルション）」食品です。温度変化に非常に敏感で、特に極低温に晒されると油と水分の結合が解ける乳化破壊現象が起こります。\n\n本日FreshSnapでは、米国FDA、USDAおよび食品医薬品安全処のガイドラインに基づき、マヨネーズのコクと滑らかな食感を開封後も長持ちさせる3段階の科学的保存法をご紹介します。🛡️",
+                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+                "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+                "guideTitle": "科学的に検証された保存ガイド",
+                "cautionTitle": "保存時の必須ルールと注意事項",
+                "cautions": [
+                    {
+                        "title": "絶対に冷凍保存したり冷気吹き出し口の近くに置かないでください ⚠️",
+                        "desc": "マヨネーズが0℃以下になると、油、卵黄、酢の結合が壊れて油が表面に浮き出る「乳化破壊（分離）」が起こります。一度分離したマヨネーズは元に戻らないため、氷点下の環境や冷気が直接当たる場所を避けて保管してください。"
+                    },
+                    {
+                        "title": "使用後は注ぎ口周辺を綺麗に拭き取って密閉してください 🧴",
+                        "desc": "容器の注ぎ口に残ったマヨネーズは空気中の酸素と触れて酸化・変色し、カビや雑菌が繁殖する原因になります。使用直後は清潔なティッシュや布で拭き取り、キャップをしっかり閉めて保管しましょう。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "開封前は常温、開封後はすぐに冷蔵保存する — 開封後冷蔵保存 (60〜90日間) ❄️",
+                        "text": "開封前は直射日光を避けた涼しい常温で保存できますが、開封後は酸素や微生物に晒されるため劣化が始まります。💡保存のコツ：開封したマヨネーズは必ず冷蔵庫で保存し、開封後2〜3ヶ月（60〜90日）以内を目安に使い切るのが最も安全で美味しく召し上がれます。"
+                    },
+                    {
+                        "name": "0℃以上で4〜8℃の棚やドアポケットに保存する — 適切な冷蔵温度の維持 🌡️",
+                        "text": "マヨネーズは冷やしすぎると分離し、温かすぎると微生物の繁殖や脂質の酸化が進みます。💡保存のコツ：冷蔵庫の最奥部（冷気吹き出し口付近）は避け、4〜8℃の温度が保たれる冷蔵庫のドアポケットや中央の棚の手前に保管するのが最適です。"
+                    },
+                    {
+                        "name": "注ぎ口を下にして立てて保存する — 空気との接触を最小限に抑える 🧴",
+                        "text": "チューブ型マヨネーズの場合、容器内の空気との接触面積を減らすことが風味を保つ鍵となります。💡保存のコツ：キャップを下にして逆さに立てて保存すると、マヨネーズが注ぎ口側に集まり空気の侵入を防ぐため、最後まで鮮度を保って使い切ることができます。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "分離して油が浮き出たマヨネーズは混ぜ直せば使えますか？",
+                        "answer": "乳化が破壊されて油が分離したマヨネーズは、すでに組織が損なわれ、脂質の酸化が進んでいる可能性が高いです。混ぜ直しても元の滑らかな状態には戻らないため、安全と品質のために廃棄することをおすすめします。"
+                    },
+                    {
+                        "question": "マヨネーズにはお酢が入っているので常温放置しても腐らないのでは？",
+                        "answer": "市販のマヨネーズに含まれる酢（酸性）には細菌の繁殖を抑える効果がありますが、開封後に空気と触れると表面の油分が酸化し、外部からの汚染によって品質が低下します。開封後は必ず冷蔵保存してください。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "如何保持美乃滋（蛋黄酱）新鲜：科学储存指南",
+                "description": "根据官方食品安全指南，了解美乃滋的最佳储存温度、方式及开封后的保鲜时长。",
+                "authority": "<strong>美国食品药品监督管理局(FDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "intro": "您是否曾将开封后的美乃滋（蛋黄酱）放在冰箱深处，结果发现油脂与水分分离成两层而无法使用？🧴\n\n美乃滋是由植物油、蛋黄和食醋（或柠檬汁）经过精密乳化制成的典型乳化液（Emulsion）食品。它对温度变化极其敏感，特别是暴露于极低温环境时，油脂与水分的结合会遭到破坏，发生“破乳”现象。\n\n今天FreshSnap将为您介绍基于美国FDA、USDA及韩国MFDS指南的科学3步美乃滋保存秘诀，帮您在开封后也能长久锁定其浓郁顺滑的口感。🛡️",
+                "whyTitle": "为什么要这样储存？科学原理",
+                "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+                "guideTitle": "科学验证的储存指南",
+                "cautionTitle": "储存必需规则及注意事项",
+                "cautions": [
+                    {
+                        "title": "切勿冷冻保存或置于冷气出风口附近 ⚠️",
+                        "desc": "当美乃滋温度低于0℃时，油脂、蛋黄与食醋的结合会被破坏，导致油脂浮于表面的破乳（Emulsion Breakdown）现象。一旦分离将无法恢复原状，因此请避免置于零下环境或冷气直吹区域。"
+                    },
+                    {
+                        "title": "使用后请擦拭干净瓶口并紧闭瓶盖 🧴",
+                        "desc": "残留在瓶口的美乃滋接触空气中的氧气后极易氧化变质，甚至滋生霉菌和细菌。使用后请立即用干净纸巾擦拭瓶口，并紧闭瓶盖保存。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "开封前常温，开封后立即冷藏 — 冷藏保存 (60~90天) ❄️",
+                        "text": "未开封前可置于避光阴凉的常温环境中，但开封后因接触氧气和微生物会开始氧化。💡储存小贴士：开封后的美乃滋必须冷藏，并建议在2~3个月（60~90天）内食用完毕，以保证最佳品质与食品安全。"
+                    },
+                    {
+                        "name": "存放在0℃以上、4~8℃的保鲜层或冰箱门架 — 保持适宜冷藏温度 🌡️",
+                        "text": "温度过低会导致美乃滋破乳，过高则会加速微生物滋生及油脂氧化。💡储存小贴士：避开冰箱最内侧（冷气出风口），存放在温度保持在4~8℃的冰箱门侧架或中层隔板前侧最为适宜。"
+                    },
+                    {
+                        "name": "瓶口朝下倒置摆放 — 减少空气接触 🧴",
+                        "text": "对于挤压瓶装美乃滋，减少瓶内空气接触是保持风味的关键。💡储存小贴士：将瓶盖朝下倒置摆放，可使美乃滋聚集在瓶口处阻断空气进入，不仅保鲜效果更佳，还能顺畅挤出至最后一滴。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "美乃滋油脂分离后可以重新搅拌使用吗？",
+                        "answer": "发生破乳水油分离的美乃滋，其内部结构已被破坏且油脂可能已发生氧化酸败。重新搅拌无法恢复原本细腻顺滑的乳化状态，为了食品安全与口感，建议丢弃。"
+                    },
+                    {
+                        "question": "美乃滋含有食醋，常温下存放也不会变质吗？",
+                        "answer": "美乃滋中的食醋（酸性成分）确实能抑制细菌繁殖，但开封后接触空气会引起表层油脂氧化酸败，且易受到外界污染物侵入。因此开封后必须冷藏保存。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cómo mantener la mayonesa fresca: Guía científica de conservación",
+                "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos tras su apertura para la mayonesa según las directrices oficiales de seguridad.",
+                "authority": "<strong>FDA & USDA & MFDS</strong>",
+                "intro": "¿Alguna vez dejó un bote de mayonesa abierto en el fondo del refrigerador solo para descubrir que el aceite y el agua se habían separado en capas grasientas? 🧴\n\nLa mayonesa es una emulsión clásica elaborada combinando minuciosamente aceite vegetal, yema de huevo y vinagre o jugo de limón. Es muy sensible a las variaciones de temperatura, especialmente a las congelantes, que rompen la emulsión y provocan la separación del aceite.\n\nHoy, FreshSnap presenta una guía de conservación en 3 pasos respaldada por la FDA, el USDA y el MFDS para mantener su mayonesa cremosa, suave y fresca tras su apertura. 🛡️",
+                "whyTitle": "¿Por qué almacenarla así? Datos científicos",
+                "whyDesc": "Comprender las características fisiológicas y químicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+                "guideTitle": "Guía de almacenamiento científicamente probada",
+                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+                "cautions": [
+                    {
+                        "title": "Nunca congele la mayonesa ni la coloque cerca de rejillas de congelación ⚠️",
+                        "desc": "Si la mayonesa baja de los 0 °C, la unión entre el aceite, la yema y el vinagre se rompe, causando una separación del aceite (ruptura de la emulsión). Una vez separada, no se puede volver a emulsionar, por lo que debe mantenerse alejada de zonas de congelación."
+                    },
+                    {
+                        "title": "Limpie la boquilla y selle herméticamente después de usar 🧴",
+                        "desc": "Los restos de mayonesa en la boca del bote se oxidan rápidamente al contacto con el aire y pueden favorecer el crecimiento de mohos o bacterias. Limpie siempre la boquilla con un papel limpio inmediatamente después de usar y cierre bien la tapa."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Despensa antes de abrir, refrigeración inmediata después — Almacenamiento refrigerado (60–90 días) ❄️",
+                        "text": "Antes de abrirse, se puede guardar en una despensa fresca y oscura; pero al abrirse, queda expuesta al oxígeno y microbios. 💡 Consejo de almacenamiento: Guarde siempre la mayonesa abierta en el refrigerador y consúmala en un plazo de 2 a 3 meses (60–90 días) para una seguridad y sabor óptimos."
+                    },
+                    {
+                        "name": "Conserve entre 4 y 8 °C en los estantes de la puerta o centrales — Temperatura adecuada 🌡️",
+                        "text": "Temperaturas demasiado frías rompen la emulsión, mientras que las demasiado cálidas favorecen el deterioro lipídico y bacterias. 💡 Consejo de almacenamiento: Evite el fondo frío del refrigerador. Guardar la mayonesa en la puerta o en la parte delantera de los estantes (4–8 °C) evita la congelación y la mantiene fría."
+                    },
+                    {
+                        "name": "Guarde los botes boca abajo — Minimice el contacto con el aire 🧴",
+                        "text": "En los botes de plástico exprimibles, reducir el contacto con el aire interno es clave para preservar el sabor. 💡 Consejo de almacenamiento: Almacenar el bote invertido (con el tapón hacia abajo) acumula la mayonesa cerca de la salida, bloqueando la entrada de aire y facilitando su uso fresco hasta la última gota."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Puedo volver a mezclar la mayonesa si el aceite se ha separado?",
+                        "answer": "Cuando la mayonesa se corta y el aceite se separa, su estructura se destruye y la grasa se oxida. Batirla de nuevo no devolverá su textura suave original, por lo que es mejor desecharla por razones de seguridad y calidad."
+                    },
+                    {
+                        "question": "¿El vinagre de la mayonesa no evita que se eche a perder a temperatura ambiente?",
+                        "answer": "Aunque el vinagre ácido de la mayonesa ayuda a frenar las bacterias, al abrir el envase el aceite entra en contacto con el oxígeno, oxidándose y contaminándose. La refrigeración tras la apertura es imprescindible."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Comment conserver la mayonnaise fraîche : Guide scientifique de conservation",
+                "description": "Découvrez la température, la méthode et la durée de conservation optimales après ouverture pour la mayonnaise selon les directives officielles de sécurité.",
+                "authority": "<strong>FDA & USDA & MFDS</strong>",
+                "intro": "Avez-vous déjà laissé un pot de mayonnaise ouvert au fond du réfrigérateur pour constater que l'huile et l'eau s'étaient séparées en deux phases distinctes ? 🧴\n\nLa mayonnaise est une émulsion classique obtenue en mélangeant minutieusement de l'huile végétale, du jaune d'œuf et du vinaigre ou du jus de citron. Elle est très sensible aux changements de température, notamment au gel, qui brise l'émulsion et provoque le déphasage de l'huile.\n\nAujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations de la FDA, du USDA et du MFDS pour préserver le goût riche et l'onctuosité de votre mayonnaise après ouverture. 🛡️",
+                "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
+                "whyDesc": "Comprendre les caractéristiques physiologiques et chimiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+                "guideTitle": "Guide de conservation scientifiquement prouvé",
+                "cautionTitle": "Règles essentielles et précautions de stockage",
+                "cautions": [
+                    {
+                        "title": "Ne congelez jamais la mayonnaise et évitez les zones très froides ⚠️",
+                        "desc": "Lorsque la mayonnaise descend sous 0 °C, la liaison entre l'huile, le jaune d'œuf et le vinaigre se brise, entraînant la rupture de l'émulsion (déphasage). Une mayonnaise séparée ne peut plus être réémulsionnée ; tenez-la à l'écart du gel."
+                    },
+                    {
+                        "title": "Essuyez l'embout et refermez hermétiquement après usage 🧴",
+                        "desc": "Les résidus de mayonnaise sur le goulot s'oxydent rapidement au contact de l'air et risquent de favoriser le développement de moisissures ou de bactéries. Essuyez toujours le goulot avec un essuie-tout propre juste après usage et fermez bien le bouchon."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Placard avant ouverture, réfrigérateur immédiat après — Conservation réfrigérée (60–90 jours) ❄️",
+                        "text": "Avant ouverture, le pot se conserve dans un endroit frais et sec ; une fois ouvert, l'exposition à l'oxygène et aux microbes commence. 💡 Astuce de conservation : Conservez toujours la mayonnaise ouverte au réfrigérateur et consommez-la dans les 2 à 3 mois (60–90 jours) pour une fraîcheur maximale."
+                    },
+                    {
+                        "name": "Conserver entre 4 et 8 °C dans la porte ou sur les étagères avant — Température idéale 🌡️",
+                        "text": "Une température trop basse casse l'émulsion, tandis qu'une température trop élevée accélère le rancissement des graisses. 💡 Astuce de conservation : Évitez le fond du réfrigérateur (près de la zone de froid). Placer la mayonnaise dans le balconnet de la porte ou sur l'avant d'une étagère (4–8 °C) prévient le gel."
+                    },
+                    {
+                        "name": "Conserver les flacons souples tête en bas — Minimiser le contact avec l'air 🧴",
+                        "text": "Pour les flacons souples, réduire le contact avec l'air emprisonné est essentiel pour préserver la saveur. 💡 Astuce de conservation : Stocker le flacon tête en bas (bouchon vers le bas) regroupe la mayonnaise vers le goulot, bloquant l'air et garantissant un dosage facile et frais jusqu'à la dernière goutte."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Peut-on mélanger à nouveau une mayonnaise dont l'huile s'est séparée ?",
+                        "answer": "Lorsque l'émulsion est brisée et que l'huile s'est séparée, la structure est détruite et les graisses sont probablement oxydées. Rebattre la mayonnaise ne lui rendra pas sa texture lisse d'origine ; il est préférable de la jeter."
+                    },
+                    {
+                        "question": "Le vinaigre contenu dans la mayonnaise n'empêche-t-il pas sa détérioration à température ambiante ?",
+                        "answer": "Bien que l'acidité du vinaigre freine la multiplication bactérienne, l'ouverture du récipient expose les lipides à l'oxygène, entraînant leur rancissement. La réfrigération après ouverture est donc indispensable."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Mayonnaise richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit nach dem Öffnen für Mayonnaise basierend auf offiziellen Sicherheitsrichtlinien.",
+                "authority": "<strong>FDA & USDA & MFDS</strong>",
+                "intro": "Haben Sie schon einmal ein geöffnetes Glas Mayonnaise im hinteren Teil des Kühlschranks vergessen und festgestellt, dass sich Öl und Wasser getrennt haben? 🧴\n\nMayonnaise ist eine klassische Emulsion aus Pflanzenöl, Eigelb und Essig oder Zitronensaft. Sie reagiert äußerst empfindlich auf Temperaturschwankungen – insbesondere auf Frost, der die Emulsion zerstört und zum Ausölen führt.\n\nHeute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Richtlinien von FDA, USDA und MFDS basiert, um die cremig-sanfte Textur Ihrer Mayonnaise nach dem Öffnen lange zu bewahren. 🛡️",
+                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+                "whyDesc": "Das Verständnis der einzigartigen physiologischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+                "cautions": [
+                    {
+                        "title": "Mayonnaise niemals einfrieren oder nahe an Kühlöffnungen stellen ⚠️",
+                        "desc": "Fällt die Temperatur der Mayonnaise unter 0 °C, bricht die Verbindung zwischen Öl, Eigelb und Essig auf (Emulsionsbruch/Entmischung). Einmal getrennte Mayonnaise lässt sich nicht wieder verbinden; halten Sie sie daher von Frostzonen fern."
+                    },
+                    {
+                        "title": "Öffnung nach Gebrauch reinigen und fest verschließen 🧴",
+                        "desc": "Mayonnaisereste an der Öffnung oxidieren an der Luft sehr schnell und können Nährboden für Schimmel oder Bakterien sein. Wischen Sie die Tülle nach Gebrauch mit einem sauberen Tuch ab und schließen Sie den Deckel fest."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Ungeöffnet im Vorratsschrank, geöffnet sofort kühlen — Kühllagerung (60–90 Tage) ❄️",
+                        "text": "Ungeöffnet hält sich Mayonnaise an einem kühlen, dunklen Ort. Nach dem Öffnen führen Sauerstoff und Keime jedoch zur Oxidation. 💡 Lagerungstipp: Bewahren Sie geöffnete Mayonnaise immer im Kühlschrank auf und verbrauchen Sie sie innerhalb von 2–3 Monaten (60–90 Tage)."
+                    },
+                    {
+                        "name": "Bei 4–8 °C in der Kühlschranktür oder auf mittleren Regalen lagern — Richtige Temperatur 🌡️",
+                        "text": "Zu kalte Temperaturen zerstören die Emulsion, zu warme fördern Fettoxidation und Keimwachstum. 💡 Lagerungstipp: Meiden Sie die extrem kalte Rückwand des Kühlschranks. Die Lagerung in der Tür oder im vorderen Regalbereich (4–8 °C) verhindert das Einfrieren und hält das Produkt frisch."
+                    },
+                    {
+                        "name": "Squeeze-Flaschen auf den Kopf stellen — Luftkontakt minimieren 🧴",
+                        "text": "Bei Squeeze-Flaschen ist die Reduzierung des Luftkontakts im Inneren entscheidend für den Erhalt des Aromas. 💡 Lagerungstipp: Wenn Sie die Flasche auf den Kopf (auf den Deckel) stellen, sammelt sich die Mayonnaise an der Öffnung. Das blockiert Luft und sorgt für frisches Dosieren bis zum letzten Tropfen."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Kann man Mayonnaise wieder verrühren, wenn sich das Öl abgesetzt hat?",
+                        "answer": "Wenn die Emulsion bricht und sich das Öl absetzt, ist die Struktur dauerhaft geschädigt und das Fett oft bereits oxidiert. Durch erneutes Verrühren entsteht keine cremige Konsistenz mehr; entsorgen Sie die Mayonnaise aus Qualitäts- und Sicherheitsgründen."
+                    },
+                    {
+                        "question": "Verhindert der Essig in der Mayonnaise nicht das Verderben bei Raumtemperatur?",
+                        "answer": "Obwohl die Essigsäure das Bakterienwachstum hemmt, führt der Luftkontakt nach dem Öffnen zur Oxidation der Fette an der Oberfläche. Eine Kühlung nach dem Öffnen ist daher unerlässlich."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Como conservar maionese fresca: Guia científico de armazenamento",
+                "description": "Descubra a temperatura, método e tempo de conservação ideais após a abertura para a maionese com base em diretrizes oficiais de segurança.",
+                "authority": "<strong>FDA & USDA & MFDS</strong>",
+                "intro": "Você já deixou um pote de maionese aberto no fundo da geladeira e percebeu que o óleo e a água se separaram em camadas gordurosas? 🧴\n\nA maionese é uma emulsão clássica feita pela combinação precisa de óleo vegetal, gema de ovo e vinagre ou suco de limão. Ela é muito sensível a variações de temperatura — especialmente ao congelamento, que quebra a emulsão e causa a separação do óleo.\n\nHoje, o FreshSnap apresenta um guia de conservação em 3 etapas baseado em diretrizes da FDA, USDA e MFDS para manter sua maionese cremosa, suave e fresca após aberta. 🛡️",
+                "whyTitle": "Por que armazenar assim? Fatos científicos",
+                "whyDesc": "Compreender as características fisiológicas e químicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+                "guideTitle": "Guia de armazenamento comprovado cientificamente",
+                "cautionTitle": "Regras essenciais e precauções no armazenamento",
+                "cautions": [
+                    {
+                        "title": "Nunca congele a maionese nem a coloque perto de saídas de ar frio ⚠️",
+                        "desc": "Quando a maionese atinge temperaturas abaixo de 0 °C, a ligação entre óleo, gema e vinagre se rompe, resultando na separação do óleo (quebra da emulsão). Uma vez separada, ela não volta ao normal; mantenha-a longe de áreas congelantes."
+                    },
+                    {
+                        "title": "Limpe o bocal e feche bem após o uso 🧴",
+                        "desc": "Resíduos de maionese ao redor do bocal oxidam rapidamente em contato com o ar e podem favorecer o surgimento de mofo ou bactérias. Limpe sempre a ponta com um papel limpo após o uso e feche a tampa firmemente."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Despensa antes de abrir, geladeira imediatamente depois — Refrigeração (60–90 dias) ❄️",
+                        "text": "Antes de abrir, o produto pode ser mantido em local fresco e escuro; porém, após aberto, fica exposto ao oxigênio e microrganismos. 💡 Dica de conservação: Guarde a maionese aberta sempre na geladeira e consuma em 2 a 3 meses (60–90 dias) para garantir qualidade e segurança."
+                    },
+                    {
+                        "name": "Conserve entre 4 e 8 °C nas prateleiras da porta ou centrais — Temperatura adequada 🌡️",
+                        "text": "Temperaturas muito baixas quebram a emulsão, enquanto temperaturas altas aceleram a oxidação das gorduras. 💡 Dica de conservação: Evite o fundo gelado da geladeira. Guardar a maionese na porta ou na parte frontal das prateleiras (4–8 °C) evita o congelamento mantendo o produto refrigerado."
+                    },
+                    {
+                        "name": "Guarde bisnagas de cabeça para baixo — Minimize o contato com o ar 🧴",
+                        "text": "Em embalagens tipo bisnaga (squeeze), reduzir o contato com o ar interno é fundamental para preservar o sabor. 💡 Dica de conservação: Guardar a embalagem invertida (com a tampa para baixo) mantém a maionese concentrada no bocal, bloqueando o ar e garantindo um uso prático até a última gota."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Posso misturar a maionese novamente se o óleo tiver se separado?",
+                        "answer": "Quando a emulsão se quebra e o óleo se separa, a estrutura original é destruída e a gordura tende a estar oxidada. Misturar novamente não devolverá a textura cremosa original, sendo recomendável descartar por segurança."
+                    },
+                    {
+                        "question": "O vinagre da maionese não previne que ela estrague em temperatura ambiente?",
+                        "answer": "Embora o vinagre ácido ajude a conter bactérias, ao abrir a embalagem o ar entra em contato com o óleo, provocando oxidação e contaminação. A refrigeração após a abertura é indispensável."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Cara Menyimpan Mayones agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+                "description": "Ketahui suhu, metode, dan masa simpan terbaik setelah dibuka untuk mayones berdasarkan pedoman keselamatan resmi.",
+                "authority": "<strong>FDA & USDA & MFDS</strong>",
+                "intro": "Pernahkah Anda meninggalkan botol mayones yang sudah dibuka di bagian dalam kulkas, lalu mendapati minyak dan airnya terpisah menjadi lapisan berminyak? 🧴\n\nMayones adalah emulsi klasik yang dibuat dengan mencampurkan minyak nabati, kuning telur, serta cuka atau perasan lemon secara presisi. Mayones sangat sensitif terhadap perubahan suhu—terutama suhu beku yang dapat merusak struktur emulsi dan menyebabkan pemisahan minyak.\n\nHari ini, FreshSnap membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan pedoman FDA, USDA, dan MFDS untuk menjaga kelezatan, tekstur lembut, dan kesegaran mayones Anda setelah dibuka. 🛡️",
+                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+                "whyDesc": "Memahami karakteristik fisiologis dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+                "cautions": [
+                    {
+                        "title": "Jangan pernah membekukan mayones atau meletakkannya di dekat ventilasi udara beku ⚠️",
+                        "desc": "Ketika suhu mayones turun di bawah 0°C, ikatan antara minyak, kuning telur, dan cuka akan terputus sehingga terjadi pemisahan minyak (kerusakan emulsi). Mayones yang sudah terpisah tidak dapat menyatu kembali, jadi jauhkan dari area bersuhu minus."
+                    },
+                    {
+                        "title": "Bersihkan bagian mulut botol dan tutup rapat setelah digunakan 🧴",
+                        "desc": "Sisa mayones di sekitar mulut botol akan teroksidasi dengan cepat saat terpapar udara dan dapat memicu tumbuhnya jamur atau bakteri. Selalu lap bagian mulut botol dengan tisu bersih setelah digunakan dan tutup rapat kembali."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Simpan di dapur sebelum dibuka, segera masukkan kulkas setelah dibuka — Simpan Dingin (60–90 Hari) ❄️",
+                        "text": "Sebelum dibuka, mayones dapat disimpan di tempat sejuk dan kering. Namun setelah dibuka, paparan oksigen dan mikroba mulai terjadi. 💡 Tips Penyimpanan: Selalu simpan mayones yang sudah dibuka di dalam kulkas dan habiskan dalam waktu 2–3 bulan (60–90 hari) demi keamanan dan cita rasa terbaik."
+                    },
+                    {
+                        "name": "Simpan pada suhu 4–8°C di rak pintu atau rak tengah — Jaga Suhu Kulkas yang Tepat 🌡️",
+                        "text": "Suhu yang terlalu dingin akan merusak emulsi, sedangkan suhu yang terlalu hangat akan mempercepat pembusukan dan oksidasi lemak. 💡 Tips Penyimpanan: Hindari bagian dinding dalam kulkas yang paling dingin. Menyimpan mayones di rak pintu kulkas atau rak bagian depan (4–8°C) mencegah pembekuan sekaligus menjaga kesegarannya."
+                    },
+                    {
+                        "name": "Simpan botol dalam posisi terbalik — Minimalkan Paparan Udara 🧴",
+                        "text": "Untuk mayones dalam botol plastik (squeeze bottle), mengurangi kontak dengan udara di dalam botol adalah kunci menjaga rasa. 💡 Tips Penyimpanan: Menyimpan botol secara terbalik (tutup di bawah) membuat mayones berkumpul di dekat mulut botol, menahan udara masuk, dan memudahkan penggunaan hingga tetes terakhir."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Apakah mayones yang minyaknya sudah terpisah boleh diaduk kembali dan digunakan?",
+                        "answer": "Jika emulsi sudah rusak dan minyak terpisah, struktur mayones telah hancur dan lemak kemungkinan besar sudah teroksidasi. Mengaduknya kembali tidak akan mengembalikan tekstur lembut aslinya, sehingga sebaiknya dibuang demi keamanan dan kualitas."
+                    },
+                    {
+                        "question": "Bukankah kandungan cuka pada mayones membuatnya tidak bisa basi pada suhu ruang?",
+                        "answer": "Meskipun sifat asam dari cuka dapat menghambat pertumbuhan bakteri, membuka kemasan membuat minyak terpapar udara sehingga memicu oksidasi lemak dan kontaminasi luar. Pendinginan di kulkas setelah dibuka tetap wajib dilakukan."
+                    }
+                ]
+            }
+        }
+    }
+}
