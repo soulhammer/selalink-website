@@ -1,0 +1,406 @@
+{
+    "how-to-store-beans": {
+        "ingId": "beans",
+        "pubDate": "2026-03-16",
+        "updatedDate": "2026-03-16",
+        "heroImage": "/images/blog/beans_storage_hack.webp",
+        "locales": {
+            "ko": {
+                "title": "콩(건조 콩) 신선하게 보관하는 법: 과학적 보관 가이드",
+                "description": "공인된 안전 가이드라인에 따른 콩(건조 콩)의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+                "authority": "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>",
+                "intro": "영양가가 풍부한 건조 콩을 사 두었다가 바구미 같은 벌레가 생기거나, 오랫동안 방치해 아무리 오랫동안 삶아도 딱딱해서 못 먹게 된 경험 있으시죠? 🫘\n\n건조 콩은 수분 함량이 낮아 장기 보관이 비교적 용이한 식재료이지만, 공기 중의 습기, 빛, 열, 그리고 곡물 해충에 매우 취약합니다. 올바르지 않게 보관하면 수분이 지나치게 빠져나가 고온 다습한 환경에서 껍질이 단단해지는 '난소성(Hard-to-cook)' 현상이 발생하거나 곰팡이와 벌레가 번식하게 됩니다.\n\n오늘 FreshSnap에서는 농업 및 식품 안전 전문가들의 권장 가이드라인을 바탕으로, 콩의 영양과 아삭·부드러운 식감을 변질 없이 오랫동안 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+                "guideTitle": "과학적으로 검증된 보관 가이드",
+                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+                "cautions": [
+                    {
+                        "title": "습기와 가스레인지 주변 열기를 피하세요 ⚠️",
+                        "desc": "습도가 높은 곳이나 가스레인지 주변의 높은 열기에 콩을 방치하면, 콩 내부의 세포벽과 단백질 구조가 변해 오랫동안 삶아도 무르지 않는 난소성(Hard-to-cook) 현상이 발생합니다. 반드시 서늘하고 건조한 장소에 보관해야 합니다."
+                    },
+                    {
+                        "title": "종이나 얇은 비닐 포장째 장기 보관하지 마세요 🐛",
+                        "desc": "유통 시 사용된 종이 상자나 비닐 봉지는 콩바구미 같은 곡물 곤충이 쉽게 뚫고 들어가며 습기 차단력이 떨어집니다. 구입 후에는 반드시 밀폐력이 뛰어난 전용 용기로 옮겨 담아야 합니다."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "밀폐 용기로 옮겨 담기 — 습기 차단 및 해충 예방 📦",
+                        "text": "구매 후 포장 봉지째 보관하면 벌레가 생기거나 공기 중 습기를 흡수하기 쉽습니다. 💡 보관 팁: 건조 상태의 콩을 유리병, 두꺼운 플라스틱 밀폐 용기, 또는 지퍼백에 옮겨 담고 완벽히 밀봉해 주세요. 산소와 습기를 차단하여 벌레 발생을 막고 수분 함량을 일정하게 유지해 줍니다."
+                    },
+                    {
+                        "name": "서늘하고 어두운 상온에 보관하기 — 상온 보관 (1~2년) ☀️",
+                        "text": "콩의 품질을 오랫동안 최상으로 유지하려면 직사광선이 들지 않는 어두운 장소가 필수입니다. 💡 보관 팁: 습도 60% 이하, 온도가 높지 않은 서늘하고 어두운 다용도실이나 팬트리(10~20℃)에 보관하세요. 이 환경에서는 1~2년 동안 맛과 영양, 부드러운 식감을 그대로 유지할 수 있습니다."
+                    },
+                    {
+                        "name": "삶은 콩은 소분하여 냉동 보관하기 — 냉동 보관 (180일) ❄️",
+                        "text": "물에 불려 삶아낸 콩은 미생물이 번식하기 쉬운 상태가 되므로 상온에 오래 두면 안 됩니다. 💡 보관 팁: 삶은 콩을 한 번 요리할 만큼 소분하여 밀폐 용기나 지퍼백에 담아 냉동실(-18℃ 이하)에 보관하세요. 필요할 때 바로 꺼내 밥이나 샐러드, 요리에 활용하기 편리합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "건조 콩에도 유통기한이 있나요?",
+                        "answer": "건조 콩은 수분 함량이 낮아 올바르게 밀폐 보관할 경우 수년 동안 영양학적으로 안전하게 보관할 수 있습니다. 다만, 2년 이상 지나면 수분이 지나치게 마르고 지방 성분이 산화되어 삶는 시간이 오래 걸리고 풍미가 떨어지므로 1~2년 이내에 소비하는 것이 가장 좋습니다."
+                    },
+                    {
+                        "question": "콩에 벌레가 생기는 것을 방지하는 특별한 팁이 있나요?",
+                        "answer": "건조 콩을 사 오자마자 지퍼백에 담아 냉동실에 48시간 동안 보관하면 콩에 혹시 남아있을 수 있는 벌레 알이나 애벌레가 사멸합니다. 그 후 꺼내어 결로를 말린 뒤 밀폐 용기에 담아 상온 보관하거나, 용기 안에 말린 건고추나 마늘을 함께 넣어두면 천연 해충 퇴치 효과를 볼 수 있습니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "How to Keep Beans (Dried Beans) Fresh: Scientific Storage Guide",
+                "description": "Check the optimal storage temperature, method, and shelf life for dried beans based on official safety guidelines.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Have you ever bought nutrient-rich dried beans only to find pantry pests in them later, or struggled to cook them soft because they became rock-hard over time? 🫘\n\nDried beans are a wonderful shelf-stable staple due to their low moisture content, but they are highly sensitive to humidity, light, heat, and pantry pests like bean weevils. Improper storage causes moisture loss and heat damage, leading to the 'hard-to-cook' defect where beans won't soften even after hours of boiling, as well as mold or pest infestation.\n\nToday, FreshSnap introduces a scientifically proven 3-step storage guide based on guidelines from agricultural and food safety experts to preserve the nutrition, flavor, and texture of your beans for a long time. 🛡️",
+                "whyTitle": "Why Store Beans This Way? Scientific Facts",
+                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+                "guideTitle": "Scientifically Proven Storage Guide",
+                "cautionTitle": "Essential Storage Rules and Cautions",
+                "cautions": [
+                    {
+                        "title": "Avoid moisture and heat near stoves ⚠️",
+                        "desc": "Leaving beans in high humidity or heat near stoves alters their cell wall and protein structure, causing the 'hard-to-cook' defect where they remain tough regardless of boiling time. Always store them in a cool, dry place."
+                    },
+                    {
+                        "title": "Do not store long-term in paper or thin plastic packaging 🐛",
+                        "desc": "Pantry pests like bean weevils can easily pierce through original paper boxes or thin plastic bags. Transfer beans to high-quality airtight containers immediately after purchase."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Transfer to airtight containers — Moisture & Pest Barrier 📦",
+                        "text": "Leaving dry beans in opened retail bags exposes them to moisture and pest invasion. 💡 Storage Tip: Transfer dry beans to glass jars, thick plastic airtight containers, or Ziploc bags and seal tightly. This blocks oxygen and ambient humidity, preventing pests and maintaining stable moisture."
+                    },
+                    {
+                        "name": "Store in a cool, dark pantry at room temperature — Room Storage (1–2 Years) ☀️",
+                        "text": "Keeping beans in a dark place away from direct sunlight is essential for preserving quality. 💡 Storage Tip: Store in a dry, dark pantry or cabinet (10–20°C / 50–68°F) with humidity below 60%. In this environment, beans maintain optimal flavor, nutrition, and softness for 1–2 years."
+                    },
+                    {
+                        "name": "Portion and freeze cooked beans — Cold Storage (180 Days) ❄️",
+                        "text": "Soaked and boiled beans become highly susceptible to bacterial growth and should not be left at room temperature. 💡 Storage Tip: Portion cooked beans into single-meal sizes, seal in airtight containers or Ziploc bags, and store in the freezer (-18°C or below). They can be added directly to rice, salads, or soups."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Do dried beans ever expire?",
+                        "answer": "Dried beans have a low moisture content, making them nutritionally safe to store for years or even decades if kept dry and sealed. However, after 2 years, they lose internal moisture and natural fats oxidize, making them take much longer to cook. Consuming them within 1–2 years yields the best flavor and texture."
+                    },
+                    {
+                        "question": "Is there a trick to prevent pantry pests in beans?",
+                        "answer": "Place newly purchased dry beans in a Ziploc bag and freeze them for 48 hours. This kills any potential insect eggs or larvae. Afterward, let them return to room temperature, dry off any surface moisture, and store them in airtight containers. Adding dried chili peppers or garlic cloves inside the container also acts as a natural pest repellent."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "豆類（乾燥豆）を新鮮に保つ保存方法：科学的保管ガイド",
+                "description": "公的安全基準に基づく豆（乾燥豆）の最適な保存温度、保管方法、保存期間をご確認ください。",
+                "authority": "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>",
+                "intro": "栄養豊富な乾燥豆を買っておいたものの、ゾウムシなどの虫が発生してしまったり、長期間放置して煮ても硬くて食べられなくなってしまった経験はありませんか？🫘\n\n乾燥豆は水分含有量が低いため長期保存が比較的水易い食材ですが、空気中の湿気、光、熱、穀物害虫に非常に敏感です。不適切な保存方法は水分が抜けすぎたり、高温多湿な環境で皮が硬くなる「難煮性（Hard-to-cook）」現象を引き起こしたり、カビや虫の発生原因になります。\n\n本日FreshSnapでは、専門家のガイドラインに基づき、豆の栄養と柔らかい食感を長期間損なわずに保つ3段階の科学的保存法をご紹介します。🛡️",
+                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+                "guideTitle": "科学的に検証された保存ガイド",
+                "cautionTitle": "保存時の必須ルールと注意事項",
+                "cautions": [
+                    {
+                        "title": "湿気とコンロ周りの熱気を避けてください ⚠️",
+                        "desc": "湿度の高い場所やコンロ周りの熱気に豆を放置すると、細胞壁やタンパク質構造が変化し、いくら煮ても柔らかくならない「難煮性」現象が発生します。必ず涼しく乾燥した場所に保管してください。"
+                    },
+                    {
+                        "title": "紙や薄いポリ袋のまま長期保存しないでください 🐛",
+                        "desc": "購入時の紙箱や薄い袋はコクゾウムシなどの害虫が容易に食い破り、湿気も通しやすくなります。購入後は必ず密閉性の高い専用容器に移し替えてください。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "密閉容器に移し替える — 湿気遮断＆害虫予防 📦",
+                        "text": "購入時の袋のまま保存すると、虫が発生したり湿気を吸収しやすくなります。💡保存のコツ：乾燥状態の豆をガラス瓶や厚手のプラスチック密閉容器、チャック付き袋に移してぴったり密閉します。酸素と湿気を遮断し、害虫発生を防ぎます。"
+                    },
+                    {
+                        "name": "涼しく暗い場所で常温保存する — 常温保存 (1〜2年間) ☀️",
+                        "text": "豆の品質を長期間最高に保つには、直射日光が当たらない暗い場所が必須です。💡保存のコツ：湿度60%以下、温度が高くならない涼しいパントリーや棚（10〜20℃）で保存してください。1〜2年間美味しく栄養を保てます。"
+                    },
+                    {
+                        "name": "茹でた豆は小分けにして冷凍保存する — 冷凍保存 (180日間) ❄️",
+                        "text": "水で戻して茹でた豆は雑菌が繁殖しやすいため、常温放置は厳禁です。💡保存のコツ：茹でた豆を1回分ずつ小分けにし、密閉容器や冷凍用ジッパーバッグに入れて冷凍室（-18℃以下）で保存します。ご飯やサラダ、スープにすぐ使えて便利です。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "乾燥豆に賞味期限はありますか？",
+                        "answer": "乾燥豆は水分が少ないため、正しく密閉保存すれば数年間安全に保管できます。ただし2年以上経過すると水分が抜けすぎて煮るのに時間がかかり、風味が落ちるため、1〜2年以内に消費するのが最もおすすめです。"
+                    },
+                    {
+                        "question": "豆に虫が発生するのを防ぐテクニックはありますか？",
+                        "answer": "購入直後の乾燥豆をジッパーバッグに入れ、冷凍庫で48時間凍らせると、潜んでいる可能性のある害虫の卵や幼虫が死滅します。その後常温に戻して結露を乾燥させてから密閉容器で保存するか、容器内に乾燥唐辛子を入れておくと天然の防虫効果が得られます。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "如何保持豆类（干豆）新鲜：科学储存指南",
+                "description": "根据官方食品安全指南，了解豆类（干豆）的最佳储存温度、方式和保鲜时长。",
+                "authority": "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "intro": "您是否曾买回营养丰富的干豆，一段时间后却发现长了豆象等害虫，或是无论怎么煮都硬邦邦煮不烂？🫘\n\n干豆因水分含量低而属于较易长期保存的食材，但它对空气中的湿气、光线、热量及粮食害虫非常敏感。不当的储存方式会导致水分过度流失，在高温潮湿环境下发生表皮变硬的“难煮性（Hard-to-cook）”现象，甚至滋生霉菌与害虫。\n\n今天FreshSnap基于权威专家指南，为您介绍3步科学保存秘诀，帮您长久锁定干豆的营养与软糯口感。🛡️",
+                "whyTitle": "为什么要这样储存？科学原理",
+                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+                "guideTitle": "科学验证的储存指南",
+                "cautionTitle": "储存必需规则及注意事项",
+                "cautions": [
+                    {
+                        "title": "切勿置于潮湿及灶台高温处 ⚠️",
+                        "desc": "将干豆放在高湿度或灶台高温附近，会改变其内部蛋白与细胞壁结构，引发无论煮多久都无法软化的“难煮性”缺陷。务必保存在阴凉干燥处。"
+                    },
+                    {
+                        "title": "切勿直接使用原厂纸袋或薄塑料袋长期保存 🐛",
+                        "desc": "购买时的纸盒或薄塑料袋极易被豆象等害虫咬破，且防潮性能差。拆封或购回后请务必转移至密封性优异的专用容器中。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "转移至密封容器中 — 隔绝湿气与害虫 📦",
+                        "text": "直接保留在拆封包装袋中易吸收空气湿气并诱发虫害。💡储存小贴士：将干燥的豆子装入玻璃瓶、厚塑料密封盒或拉链袋中紧密密封。这能阻断氧气与湿气，有效防止害虫滋生。"
+                    },
+                    {
+                        "name": "存放于阴凉干燥暗处常温保存 — 常温保存 (1~2年) ☀️",
+                        "text": "避光避热是长期保持干豆高品质的关键。💡储存小贴士：置于湿度低于60%、温度适宜（10~20℃）的阴凉储藏柜中。在这种环境下，干豆的风味、营养和软糯口感可维持1~2年。"
+                    },
+                    {
+                        "name": "煮熟的豆子分装冷冻 — 冷冻保存 (180天) ❄️",
+                        "text": "浸泡并煮熟的豆子极易滋生细菌，绝不能长时间常温放置。💡储存小贴士：将煮熟的豆子按单次用量分装入密封盒或拉链袋，放入冷冻室（-18℃以下）。使用时可直接加入米饭、沙拉或汤品中。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "干豆是否有保质期？",
+                        "answer": "干豆水分含量极低，只要密封得当，在营养学上可安全存放数年。但存放超过2年后，水分会过度流失且油脂成分氧化，导致烹煮时间延长且风味下降，因此建议在1~2年内食用完毕。"
+                    },
+                    {
+                        "question": "有什么防止干豆生虫的实用技巧吗？",
+                        "answer": "买回干豆后立即装入密封袋放入冷冻室冷冻48小时，可有效杀灭可能附着的虫卵或幼虫。取出恢复常温并擦干表面凝结水珠后装入密封瓶，或在瓶内放入干辣椒，即可起到天然驱虫效果。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cómo mantener las legumbres (frijoles secos) frescas: Guía científica de conservación",
+                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para los frijoles secos según las directrices oficiales de seguridad.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "¿Alguna vez compró frijoles secos nutritivos solo para descubrir que les salieron gorgojos o que, tras mucho tiempo guardados, no se ablandaban ni hirviéndolos durante horas? 🫘\n\nLos frijoles secos son un alimento básico excelente debido a su bajo contenido de humedad, pero son altamente sensibles a la humedad ambiental, la luz, el calor y las plagas. Un almacenamiento inadecuado provoca la pérdida de humedad y altera su estructura, causando el defecto de 'dureza al cocer' (hard-to-cook), además de moho y gorgojos.\n\nHoy, FreshSnap presenta una guía en 3 pasos respaldada por expertos para conservar la nutrición, el sabor y la textura suave de sus frijoles por mucho tiempo. 🛡️",
+                "whyTitle": "¿Por qué almacenarlos así? Datos científicos",
+                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+                "guideTitle": "Guía de almacenamiento científicamente probada",
+                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+                "cautions": [
+                    {
+                        "title": "Evite la humedad y el calor cerca de la cocina ⚠️",
+                        "desc": "Dejar los frijoles en zonas húmedas o con calor altera las proteínas y paredes celulares, produciendo el defecto de 'dureza al cocer' donde no se ablandan sin importar el tiempo de hervido. Guárdelos siempre en un lugar fresco y seco."
+                    },
+                    {
+                        "title": "No guarde a largo plazo en bolsas de papel o plástico fino 🐛",
+                        "desc": "Las plagas como los gorgojos perforan fácilmente el papel o plástico fino original. Trasládelos inmediatamente a recipientes herméticos de calidad."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Traslade a recipientes herméticos — Barrera de humedad y plagas 📦",
+                        "text": "Dejar los frijoles secos en su empaque abierto los expone a la humedad y plagas. 💡 Consejo de almacenamiento: Páselos a frascos de vidrio, contenedores de plástico grueso herméticos o bolsas Ziploc y selle bien. Esto bloquea el oxígeno y previene los gorgojos."
+                    },
+                    {
+                        "name": "Almacene a temperatura ambiente en un lugar fresco y oscuro — Conservación (1 a 2 años) ☀️",
+                        "text": "Proteger los frijoles de la luz solar directa es vital para mantener su calidad. 💡 Consejo de almacenamiento: Guárdelos en una despensa oscura y fresca (10–20 °C) con humedad inferior al 60%. Se mantendrán suaves y nutritivos durante 1 o 2 años."
+                    },
+                    {
+                        "name": "Porcione y congele los frijoles cocidos — Conservación (180 días) ❄️",
+                        "text": "Los frijoles remojados y cocidos son propensos a las bacterias y no deben dejarse a temperatura ambiente. 💡 Consejo de almacenamiento: Porcione los frijoles cocidos en recipientes herméticos o bolsas congeladoras y congélelos (-18 °C). Listos para agregar a sopas, arroz o ensaladas."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Los frijoles secos tienen fecha de caducidad?",
+                        "answer": "Los frijoles secos tienen muy poco agua y se pueden conservar de forma segura durante años si se mantienen secos y sellados. Sin embargo, pasados 2 años pierden humedad interna y sus grasas se oxidan, tardando mucho más en cocerse y perdiendo sabor, por lo que es mejor consumirlos en 1 a 2 años."
+                    },
+                    {
+                        "question": "¿Existe algún truco para evitar que aparezcan gorgojos o plagas?",
+                        "answer": "Al comprar frijoles secos, métalos en una bolsa Ziploc y congele durante 48 horas. Esto elimina cualquier huevo o larva invisible. Luego, déjelos volver a temperatura ambiente, séquelos bien y guárdelos en un frasco hermético. Agregar un chile seco o un diente de ajo dentro del frasco también funciona como repelente natural."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Comment conserver les haricots (haricots secs) frais : Guide scientifique de conservation",
+                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les haricots secs selon les directives officielles de sécurité.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Avez-vous déjà acheté des haricots secs très nourrissants pour constater plus tard qu'ils s'étaient infestés d'insectes, ou qu'ils restaient durs même après des heures de cuisson ? 🫘\n\nLes haricots secs se conservent très bien grâce à leur faible teneur en eau, mais ils sont très sensibles à l'humidité, à la lumière, à la chaleur et aux bruches (charançons). Un stockage inadéquat entraîne une perte d'eau excessive et le phénomène de 'durcissement à la cuisson', rendant les grains impossibles à ramollir.\n\nAujourd'hui, FreshSnap vous présente un guide scientifique en 3 étapes pour préserver la valeur nutritive, la saveur et la tendreté de vos haricots secs pendant longtemps. 🛡️",
+                "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
+                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+                "guideTitle": "Guide de conservation scientifiquement prouvé",
+                "cautionTitle": "Règles essentielles et précautions de stockage",
+                "cautions": [
+                    {
+                        "title": "Évitez l'humidité et la chaleur des plaques de cuisson ⚠️",
+                        "desc": "Exposer les haricots à la chaleur ou à l'humidité altère leurs protéines et leurs parois cellulaires, provoquant un durcissement irréversible lors de la cuisson. Conservez-les toujours dans un endroit frais et sec."
+                    },
+                    {
+                        "title": "Ne conservez pas à long terme dans l'emballage papier ou plastique d'origine 🐛",
+                        "desc": "Les insectes comme les bruches peuvent facilement percer le carton ou le plastique fin d'origine. Transvasez les haricots dans un récipient hermétique de qualité dès l'achat."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Transférer dans des récipients hermétiques — Protection contre l'humidité & nuisibles 📦",
+                        "text": "Laisser les haricots dans leur sachet d'origine ouvert favorise l'absorption d'humidité et l'apparition d'insectes. 💡 Astuce de conservation : Transvasez-les dans un bocal en verre, une boîte en plastique épais ou un sac congélation hermétique pour bloquer l'air."
+                    },
+                    {
+                        "name": "Conserver à température ambiante dans un endroit frais et sombre — Stockage (1 à 2 ans) ☀️",
+                        "text": "Garder les haricots à l'abri de la lumière du soleil est indispensable pour préserver leur qualité. 💡 Astuce de conservation : Placez-les dans un placard frais (10–20 °C) avec une humidité inférieure à 60 %. Ils garderont leur goût et leur texture parfaite pendant 1 à 2 ans."
+                    },
+                    {
+                        "name": "Portionner et congeler les haricots cuits — Stockage (180 jours) ❄️",
+                        "text": "Les haricots trempés et cuits deviennent très périssables et ne doivent pas rester à température ambiante. 💡 Astuce de conservation : Répartissez les haricots cuits en portions individuelles dans des boîtes hermétiques et placez-les au congélateur (-18 °C). Prêts à intégrer vos plats."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Les haricots secs ont-ils une date de péremption ?",
+                        "answer": "Les haricots secs se conservent sans danger pendant plusieurs années s'ils sont maintenus au sec et hermétiquement fermés. Toutefois, après 2 ans, ils s'assèchent fortement et mettent beaucoup plus de temps à cuire. Il est recommandé de les consommer dans les 1 à 2 ans."
+                    },
+                    {
+                        "question": "Existe-t-il une astuce pour éviter l'apparition d'insectes dans les haricots ?",
+                        "answer": "Dès l'achat, placez les haricots secs dans un sac Ziploc et mettez-les au congélateur pendant 48 heures. Cela élimine les éventuels œufs ou larves. Laissez-les ensuite revenir à température ambiante, séchez la condensation puis rangez-les dans un bocal hermétique (vous pouvez y ajouter un piment séché comme répulsif naturel)."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Bohnen (Getrocknete Bohnen) richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für getrocknete Bohnen basierend auf offiziellen Sicherheitsrichtlinien.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Haben Sie schon einmal nährstoffreiche getrocknete Bohnen gekauft, nur um später Schädlingsbefall festzustellen oder dass sie trotz stundenlangem Kochen steinhart blieben? 🫘\n\nGetrocknete Bohnen sind aufgrund ihres geringen Wassergehalts sehr lange haltbar, reagieren jedoch empfindlich auf Feuchtigkeit, Licht, Hitze und Bohnenkäfer. Falsche Lagerung führt zu Feuchtigkeitsverlust und Zellwandveränderungen ('Hard-to-cook'-Effekt), wodurch die Bohnen ungenießbar hart bleiben.\n\nHeute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um Nährstoffe, Geschmack und die weiche Textur Ihrer Bohnen langfristig zu bewahren. 🛡️",
+                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+                "cautions": [
+                    {
+                        "title": "Feuchtigkeit und Hitze in Herdnähe meiden ⚠️",
+                        "desc": "Hohe Luftfeuchtigkeit und Hitze verändern die Eiweiß- und Zellwandstruktur der Bohnen, was zum 'Hard-to-cook'-Effekt führt. Die Bohnen werden selbst nach langem Kochen nicht weich. Immer kühl und trocken lagern."
+                    },
+                    {
+                        "title": "Nicht langfristig in der Papier- oder dünnen Plastikverpackung belassen 🐛",
+                        "desc": "Schädlinge wie Bohnenkäfer können dünne Plastik- oder Papierverpackungen leicht durchdringen. Füllen Sie die Bohnen nach dem Kauf sofort in luftdichte Vorratsbehälter um."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "In luftdichte Behälter umfüllen — Schutz vor Feuchtigkeit & Schädlingen 📦",
+                        "text": "In der geöffneten Kaufverpackung nehmen Bohnen Luftfeuchtigkeit auf und ziehen Schädlinge an. 💡 Lagerungstipp: Füllen Sie trockene Bohnen in Glasfeinbehälter, feste Kunststoffdosen oder Ziploc-Beutel um und verschließen Sie diese dicht."
+                    },
+                    {
+                        "name": "Kühl, dunkel und trocken bei Raumtemperatur lagern — Aufbewahrung (1–2 Jahre) ☀️",
+                        "text": "Lichtgeschützte Lagerung ist entscheidend für die Qualitätserhaltung der Bohnen. 💡 Lagerungstipp: Bewahren Sie Bohnen in einer dunklen Vorratskammer (10–20 °C) bei unter 60 % Luftfeuchtigkeit auf. So bleiben sie 1–2 Jahre lang schmackhaft und leicht kochend."
+                    },
+                    {
+                        "name": "Gekochte Bohnen portionieren und einfrieren — Gefrierlagerung (180 Tage) ❄️",
+                        "text": "Eingeweichte und gekochte Bohnen verdorben bei Raumtemperatur schnell und müssen gekühlt werden. 💡 Lagerungstipp: Portionieren Sie gekochte Bohnen in dicht schließende Behälter und frieren Sie sie ein (-18 °C). Direkt einsatzbereit für Suppen, Salate und Reis."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Haben getrocknete Bohnen ein Haltbarkeitsdatum?",
+                        "answer": "Getrocknete Bohnen sind bei trockener, luftdichter Lagerung über Jahre hinweg genießbar. Nach 2 Jahren trocknen sie jedoch stark aus und das Fett oxidiert, wodurch sich die Kochzeit drastisch verlängert. Der Verzehr innerhalb von 1–2 Jahren wird empfohlen."
+                    },
+                    {
+                        "question": "Gibt es einen Trick, um Schädlingsbefall bei Bohnen zu verhindern?",
+                        "answer": "Legen Sie frisch gekaufte getrocknete Bohnen im Ziploc-Beutel für 48 Stunden ins Gefrierfach. Das töet eventuelle Insekteneier ab. Lassen Sie die Bohnen danach auf Raumtemperatur kommen, trocknen Sie Kondenswasser ab und füllen Sie sie in luftdichte Gläser um."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Como conservar feijões (feijões secos) frescos: Guia científico de armazenamento",
+                "description": "Descubra a temperatura, método e tempo de conservação ideais para feijões secos com base em diretrizes oficiais de segurança.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Você já comprou feijões secos cheios de nutrientes e percebeu mais tarde que surgiram carunchos ou que eles ficaram duros demais para cozinhar, mesmo após horas no fogo? 🫘\n\nOs feijões secos são excelentes para armazenamento prolongado devido ao baixo teor de umidade, mas são muito sensíveis à umidade do ar, luz, calor e pragas como o caruncho. O armazenamento inadequado causa perda excessiva de umidade e o defeito de 'dureza ao cozinhar', tornando os grãos rígidos.\n\nHoje, o FreshSnap apresenta um guia em 3 etapas baseado em recomendações de especialistas para manter seus feijões macios, saborosos e nutritivos por muito tempo. 🛡️",
+                "whyTitle": "Por que armazenar assim? Fatos científicos",
+                "whyDesc": "Compreender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+                "guideTitle": "Guia de armazenamento comprovado cientificamente",
+                "cautionTitle": "Regras essenciais e precauções no armazenamento",
+                "cautions": [
+                    {
+                        "title": "Evite umidade e o calor do fogão ⚠️",
+                        "desc": "Deixar o feijão em locais úmidos ou perto do calor do fogão altera sua estrutura celular e proteica, causando o defeito de 'dureza ao cozinhar' (onde o grão não amolece). Mantenha sempre em local fresco e seco."
+                    },
+                    {
+                        "title": "Não guarde por longo prazo na embalagem original de papel ou plástico fino 🐛",
+                        "desc": "Pragas como carunchos perfuram facilmente o plástico fino ou sacos de papel originais. Transfira o feijão para potes herméticos de qualidade assim que comprar."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Transfira para recipientes herméticos — Barreira contra umidade e pragas 📦",
+                        "text": "Deixar o feijão seco na embalagem aberta expõe os grãos à umidade e insetos. 💡 Dica de conservação: Passe os feijões para potes de vidro, potes plásticos rígidos herméticos ou sacos Ziploc bem vedados. Isso evita pragas e mantém a umidade estável."
+                    },
+                    {
+                        "name": "Armazene em local fresco, escuro e seco — Armazenamento (1 a 2 anos) ☀️",
+                        "text": "Manter os feijões longe da luz solar direta é essencial para preservar a qualidade dos grãos. 💡 Dica de conservação: Guarde em um armário ou despensa fresca (10–20 °C) com umidade abaixo de 60%. Os grãos se manterão macios e saborosos por 1 a 2 anos."
+                    },
+                    {
+                        "name": "Porcione e congele os feijões cozidos — Conservação (180 dias) ❄️",
+                        "text": "Feijões demolhados e cozidos estragam rapidamente em temperatura ambiente. 💡 Dica de conservação: Separe o feijão cozido em porções individuais, coloque em potes herméticos e congele (-18 °C). Prático para adicionar direto nas refeições."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "O feijão seco tem data de validade?",
+                        "answer": "O feijão seco tem pouquíssima água e pode ser guardado com segurança por anos se mantido seco e bem vedado. No entanto, após 2 anos, os grãos ressecam demais e demoram muito mais para cozinhar, perdendo o sabor ideal. O consumo em até 1 ou 2 anos é o mais recomendado."
+                    },
+                    {
+                        "question": "Existe algum truque para evitar o surgimento de carunchos no feijão?",
+                        "answer": "Ao comprar feijão seco, coloque-o em um saco Ziploc e congele no freezer por 48 horas. Isso elimina eventuais ovos ou larvas de caruncho. Depois, deixe voltar à temperatura ambiente, seque a umidade da superfície e guarde no pote hermético. Colocar uma pimenta seca ou dente de alho no pote também atua como repelente natural."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Cara Menyimpan Kacang-kacangan (Kacang Kering) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk kacang kering berdasarkan pedoman keselamatan resmi.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Pernahkah Anda membeli kacang kering kaya nutrisi, lalu menemukan kutu di dalamnya beberapa waktu kemudian, atau kacang menjadi sangat keras dan sulit empuk meskipun sudah direbus lama? 🫘\n\nKacang kering adalah bahan makanan yang sangat awet karena kadar airnya yang rendah, tetapi sangat sensitif terhadap kelembapan udara, cahaya, panas, dan hama seperti kutu kacang. Penyimpanan yang salah menyebabkan hilangnya kadar air dan memicu efek 'hard-to-cook' (sulit empuk saat dimasak) serta tumbuhnya jamur.\n\nHari ini, FreshSnap membagikan panduan penyimpanan 3 langkah berbasis ilmiah untuk menjaga nutrisi, rasa, dan tekstur empuk kacang kering Anda dalam jangka panjang. 🛡️",
+                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+                "cautions": [
+                    {
+                        "title": "Hindari kelembapan dan panas dekat kompor ⚠️",
+                        "desc": "Menyimpan kacang di area lembap atau dekat panas kompor merusak struktur sel dan protein kacang, menyebabkan efek 'hard-to-cook' sehingga kacang tetap keras meski direbus lama. Selalu simpan di tempat sejuk dan kering."
+                    },
+                    {
+                        "title": "Jangan menyimpan jangka panjang dalam kemasan kertas atau plastik tipis asli 🐛",
+                        "desc": "Hama seperti kutu kacang dapat dengan mudah menembus kantong plastik tipis atau kemasan kertas asli. Pindahkan kacang ke wadah kedap udara berkualitas segera setelah dibeli."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Pindahkan ke wadah kedap udara — Penghalang Kelembapan & Hama 📦",
+                        "text": "Membiarkan kacang kering dalam kemasan terbuka membuatnya menyerap kelembapan dan mengundang hama. 💡 Tips Penyimpanan: Pindahkan kacang kering ke stoples kaca, wadah plastik tebal kedap udara, atau kantong Ziploc lalu tutup rapat. Langkah ini mengunci udara dan mencegah munculnya kutu."
+                    },
+                    {
+                        "name": "Simpan pada suhu ruang di tempat yang sejuk, kering, dan gelap — Simpan Suhu Ruang (1–2 Tahun) ☀️",
+                        "text": "Menjauhkan kacang dari paparan sinar matahari langsung sangat penting untuk menjaga kualitasnya. 💡 Tips Penyimpanan: Simpan di dalam lemari dapur yang sejuk dan gelap (10–20°C) dengan kelembapan di bawah 60%. Kacang akan tetap lezat dan mudah empuk selama 1–2 tahun."
+                    },
+                    {
+                        "name": "Bagi porsi dan bekukan kacang yang sudah dimasak — Simpan Beku (180 Hari) ❄️",
+                        "text": "Kacang yang sudah direndam dan dimasak sangat rentan terhadap bakteri sehingga tidak boleh dibiarkan di suhu ruang. 💡 Tips Penyimpanan: Bagi kacang yang sudah matang menjadi porsi sekali masak, simpan dalam wadah kedap udara lalu bekukan (-18°C). Siap digunakan untuk nasi, salad, atau sup."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Apakah kacang kering memiliki tanggal kadaluarsa?",
+                        "answer": "Kacang kering mengandung sangat sedikit air sehingga aman disimpan secara nutrisi selama bertahun-tahun jika tetap kering dan tertutup rapat. Namun, setelah 2 tahun, kacang akan terlalu kering dan membutuhkan waktu rebus yang jauh lebih lama. Sebaiknya dikonsumsi dalam kurun waktu 1–2 tahun."
+                    },
+                    {
+                        "question": "Apakah ada trik khusus untuk mencegah tumbuhnya kutu pada kacang kering?",
+                        "answer": "Begitu membeli kacang kering, masukkan ke dalam kantong Ziploc lalu bekukan di freezer selama 48 jam. Proses ini membunuh telor atau larva kutu yang mungkin ada. Setelah itu, biarkan kembali ke suhu ruang, keringkan embunnya, lalu simpan dalam stoples kedap udara (Anda juga dapat memasukkan cabai kering sebagai pengusir hama alami)."
+                    }
+                ]
+            }
+        }
+    }
+}

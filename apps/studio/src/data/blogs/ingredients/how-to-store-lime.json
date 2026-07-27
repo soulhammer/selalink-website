@@ -1,0 +1,406 @@
+{
+    "how-to-store-lime": {
+        "ingId": "lime",
+        "pubDate": "2026-02-24",
+        "updatedDate": "2026-02-24",
+        "heroImage": "/images/blog/lime_storage_hack.webp",
+        "locales": {
+            "ko": {
+                "title": "라임 신선하게 보관하는 법: 과학적 보관 가이드",
+                "description": "공인된 안전 가이드라인에 따른 라임의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+                "authority": "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>",
+                "intro": "싱그러운 향과 상큼한 즙이 매력적인 라임을 사 왔는데, 며칠 뒤 껍질이 딱딱하게 마르고 노랗게 변해 속상했던 적 있으시죠? 🍋\n\n라임은 감귤류 과일 중에서도 껍질이 얇아 상온에 두면 수분이 매우 빠르게 증발하여 과즙이 마르고 풍미를 잃기 쉽습니다. 올바르지 않은 보관법은 껍질 변색, 수분 손실, 곰팡이 발생의 원인이 됩니다.\n\n오늘 FreshSnap에서는 농업 및 식품 안전 전문가들의 권장 가이드라인을 바탕으로, 라임의 촉촉함과 톡 쏘는 과즙을 30일 이상 싱싱하게 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+                "guideTitle": "과학적으로 검증된 보관 가이드",
+                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+                "cautions": [
+                    {
+                        "title": "상온에 오래 두지 마세요 ⚠️",
+                        "desc": "라임을 상온에 방치하면 껍질의 수분이 며칠 만에 빠져나가 딱딱해지고 과즙이 급격히 줄어듭니다. 상온에서는 3~5일 내에 드셔야 하며, 장기 보관 시에는 반드시 냉장 보관해야 합니다."
+                    },
+                    {
+                        "title": "보관하기 전에 물로 씻지 마세요 💧",
+                        "desc": "물기가 남아있는 상태로 밀폐 용기나 비닐에 넣으면 껍질 표면에 습기가 갇혀 곰팡이나 세균이 번식하기 매우 쉬운 환경이 됩니다. 흙이나 이물질은 마른 천으로 털어내고 먹기 직전에 씻으세요."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "씻지 않고 키친타월로 감싸 지퍼백에 밀봉하기 — 수분 보호 및 습도 조절 📦",
+                        "text": "라임의 수분 증발을 막으면서도 과도한 습기가 차는 것을 방지해야 합니다. 💡 보관 팁: 씻지 않은 건조한 상태의 라임을 키친타월로 한 알씩 감싼 뒤 밀폐 지퍼백에 넣고 공기를 빼주세요. 키친타월이 맺히는 습기를 흡수하여 곰팡이를 예방하고 촉촉함을 유지합니다."
+                    },
+                    {
+                        "name": "4~8℃ 저온 냉장 보관하기 — 냉장 보관 (30일) ❄️",
+                        "text": "저온 환경은 라임의 호흡 작용을 늦춰 신선도와 과즙을 오래 유지해 줍니다. 💡 보관 팁: 키친타월과 지퍼백으로 이중 밀봉한 라임을 냉장고 야채칸(신선실)에 보관하세요. 4~8℃의 일정한 온도가 유지되어 최대 3~4주 동안 싱싱한 상태가 유지됩니다."
+                    },
+                    {
+                        "name": "착즙하여 얼음 트레이에 얼리거나 웨지 모양으로 냉동 보관하기 — 냉동 보관 (90일) 🧊",
+                        "text": "라임을 한 달 이상 두고 쓰고 싶다면 착즙하거나 조각내어 냉동하는 것이 최선입니다. 💡 보관 팁: 라임 즙을 짜서 얼음 트레이에 넣고 얼린 뒤 지퍼백에 보관하거나, 라임을 웨지(조각) 모양으로 잘라 밀폐 용기에 담아 냉동(-18℃ 이하) 보관하세요. 요리나 음료에 바로 활용하기 편리합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "쓰다 남은 자른 라임은 어떻게 보관하나요?",
+                        "answer": "자른 단면의 수분 손실과 산화를 막기 위해 단면을 식품용 랩으로 밀착하여 단단히 감싸거나 소형 밀폐 용기에 담아 냉장 보관하세요. 자른 라임은 3~5일 이내에 사용하는 것이 좋습니다."
+                    },
+                    {
+                        "question": "라임 즙만 따로 보관해도 괜찮나요?",
+                        "answer": "라임을 착즙한 원액은 소독된 유리병에 담아 냉장 보관하면 5~7일간 신선함이 유지됩니다. 더 오래 보관하려면 얼음 트레이에 소분하여 얼린 뒤 큐브 형태로 냉동 보관하면 3~6개월 동안 맛과 향을 유지할 수 있습니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "How to Keep Limes Fresh: Scientific Storage Guide",
+                "description": "Check the optimal storage temperature, method, and shelf life for limes based on official safety guidelines.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Have you ever bought vibrant green limes only to find their skins turned brown, dry, and rock-hard after a few days? 🍋\n\nLimes have thinner skins than most citrus fruits, causing moisture to evaporate rapidly at room temperature, which dries out their juice and ruins their zesty flavor. Improper storage leads to discoloration, moisture loss, and mold growth.\n\nToday, FreshSnap introduces a scientifically proven 3-step storage guide based on expert guidelines to keep your limes juicy, fragrant, and fresh for over 30 days. 🛡️",
+                "whyTitle": "Why Store Limes This Way? Scientific Facts",
+                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+                "guideTitle": "Scientifically Proven Storage Guide",
+                "cautionTitle": "Essential Storage Rules and Cautions",
+                "cautions": [
+                    {
+                        "title": "Do not leave limes at room temperature for long ⚠️",
+                        "desc": "Leaving limes at room temperature causes moisture in the skin to evaporate within days, turning them hard and drastically reducing juice volume. Eat within 3–5 days at room temperature, or refrigerate for long-term storage."
+                    },
+                    {
+                        "title": "Never wash limes before storing 💧",
+                        "desc": "Storing wet limes in bags or containers traps moisture on the peel, creating a breeding ground for mold and bacteria. Wipe off surface dirt with a dry cloth and wash right before using."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Wrap dry unwashed limes in paper towels & seal in a Ziploc bag — Moisture & Humidity Control 📦",
+                        "text": "Prevent moisture loss while avoiding excess moisture buildup. 💡 Storage Tip: Wrap each dry, unwashed lime individually in a paper towel, place them in a Ziploc bag, and squeeze out excess air. The paper towel absorbs moisture, preventing mold while retaining juiciness."
+                    },
+                    {
+                        "name": "Refrigerate at 4–8°C in the crisper drawer — Cold Storage (30 Days) ❄️",
+                        "text": "A cold environment slows down the respiration rate of limes, preserving freshness and juice content. 💡 Storage Tip: Store the wrapped and sealed limes in the refrigerator crisper drawer at a stable 4–8°C (39–46°F) to keep them fresh for up to 3–4 weeks."
+                    },
+                    {
+                        "name": "Freeze squeezed juice in ice trays or freeze wedges — Cold Storage (90 Days) 🧊",
+                        "text": "For storage beyond a month, freezing squeezed juice or lime wedges is ideal. 💡 Storage Tip: Squeeze lime juice into ice cube trays and freeze, or cut limes into wedges and store in an airtight container in the freezer (-18°C or below). This makes them easy to pop into drinks or recipes."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "How should I store leftover cut limes?",
+                        "answer": "Wrap the cut surface tightly with food-grade plastic wrap or place the lime cut-side down in a small airtight container, then refrigerate. Consume cut limes within 3–5 days."
+                    },
+                    {
+                        "question": "Can I store freshly squeezed lime juice separately?",
+                        "answer": "Freshly squeezed lime juice stored in a sanitized glass bottle in the refrigerator stays fresh for 5–7 days. For longer storage, freeze juice in ice cube trays and store the cubes in a Ziploc bag in the freezer for 3–6 months."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "ライムを新鮮に保つ保存方法：科学的保管ガイド",
+                "description": "公的安全基準に基づくライムの最適な保存温度、保管方法、保存期間をご確認ください。",
+                "authority": "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>",
+                "intro": "鮮やかな緑色のライムを買ってきたのに、数日後に皮が硬く乾燥したり黄色く変色してガッカリした経験はありませんか？🍋\n\nライムは柑橘類の中でも皮が薄いため、常温に放置すると水分が急速に蒸発し、果汁が枯れて風味が損なわれやすい特徴があります。不適切な保存方法は皮の変色、水分損失、カビの発生の原因になります。\n\n本日FreshSnapでは、専門家のガイドラインに基づき、ライムのフレッシュな香りと果汁を30日以上みずみずしく保つ3段階の科学的保存法をご紹介します。🛡️",
+                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+                "guideTitle": "科学的に検証された保存ガイド",
+                "cautionTitle": "保存時の必須ルールと注意事項",
+                "cautions": [
+                    {
+                        "title": "常温に長く放置しないでください ⚠️",
+                        "desc": "ライムを常温に置くと、数日で皮の水分が抜けて硬くなり、果汁が激減します。常温では3〜5日以内に使い切るか、長期保存する場合は必ず冷蔵保管してください。"
+                    },
+                    {
+                        "title": "保存する前に水で洗わないでください 💧",
+                        "desc": "水気が残ったまま密閉容器や袋に入れると、皮の表面に湿気がこもりカビや雑菌が繁殖しやすくなります。土などは乾いた布で拭き取り、使用する直前に洗ってください。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "洗わずにキッチンペーパーで包みジッパーバッグで密閉する — 水分保護＆湿度調節 📦",
+                        "text": "水分蒸発を防ぎつつ、過度な湿気がこもるのを防ぐ必要があります。💡保存のコツ：洗っていない乾いたライムを1個ずつキッチンペーパーで包み、ジッパーバッグに入れて空気を抜きます。ペーパーが結露を吸収し、カビを防ぎながらみずみずしさを保ちます。"
+                    },
+                    {
+                        "name": "4〜8℃の低温で冷蔵保存する — 冷蔵保存 (30日間) ❄️",
+                        "text": "低温環境はライムの呼吸作用を抑え、鮮度と果汁を長持ちさせます。💡保存のコツ：二重に密閉したライムを冷蔵庫の野菜室（鮮度保持室）で保管します。4〜8℃の一定温度を維持することで、最大3〜4週間新鮮な状態が続きます。"
+                    },
+                    {
+                        "name": "絞り汁を製氷皿で凍らせるかカットして冷凍保存する — 冷凍保存 (90日間) 🧊",
+                        "text": "1ヶ月以上長持ちさせたい場合は、果汁を絞るかカットして冷凍するのが最適です。💡保存のコツ：ライム果汁を製氷皿に入れて凍らせてからジッパーバッグに移すか、くし形切りにして冷凍用容器に入れ冷凍庫（-18℃以下）で保存します。ドリンクや料理にすぐ使えて便利です。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "使いかけのカットライムはどのように保存しますか？",
+                        "answer": "断面の乾燥と酸化を防ぐため、切り口にラップをぴったり密着させて包むか、小さめの密閉容器に入れて冷蔵保存してください。カットしたライムは3〜5日以内に使い切りましょう。"
+                    },
+                    {
+                        "question": "ライム果汁だけを別に保存しても大丈夫ですか？",
+                        "answer": "絞りたてのライム果汁は消毒したガラス瓶に入れて冷蔵保管すれば5〜7日間新鮮さが保たれます。長期保存したい場合は製氷皿でキューブ状に凍らせて冷凍保管すると、3〜6ヶ月間美味しさと香りを維持できます。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "如何保持青柠新鲜：科学储存指南",
+                "description": "根据官方食品安全指南，了解青柠的最佳储存温度、方式和保鲜时长。",
+                "authority": "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "intro": "您是否曾买回鲜绿诱人的青柠，几天后却发现果皮干瘪变硬、颜色发黄且果汁流失？🍋\n\n青柠在柑橘类水果中属于果皮较薄的品种，置于常温下水分蒸发极快，容易导致果汁干涸并失去浓郁风味。不当的储存方式会导致果皮变色、水分流失及发霉变质。\n\n今天FreshSnap基于专家权威指南，为您介绍3步科学保存秘诀，帮您锁定青柠的多汁与清香达30天以上。🛡️",
+                "whyTitle": "为什么要这样储存？科学原理",
+                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+                "guideTitle": "科学验证的储存指南",
+                "cautionTitle": "储存必需规则及注意事项",
+                "cautions": [
+                    {
+                        "title": "切勿长时间常温放置 ⚠️",
+                        "desc": "青柠常温放置数天内果皮水分就会蒸发变硬，果汁量大幅减少。常温下请在3~5天内食用完毕，如需长期保存请务必冷藏。"
+                    },
+                    {
+                        "title": "储存前切勿用水清洗 💧",
+                        "desc": "带水放入密封袋或保鲜盒会导致表皮积聚湿气，极易滋生霉菌和细菌。泥土杂质用干布轻擦即可，请留到食用前清洗。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "无需清洗，用厨房纸巾包裹后装入拉链袋密封 — 锁水防干与湿度调节 📦",
+                        "text": "既要防止水分蒸发，又要避免内部湿气过重。💡储存小贴士：用厨房纸巾将干燥未洗的青柠逐个包裹，放入密封拉链袋并排出空气。纸巾能吸收凝结水珠，防霉的同时保持多汁。"
+                    },
+                    {
+                        "name": "4~8℃ 低温冷藏保存 — 冷藏储存 (30天) ❄️",
+                        "text": "低温环境能减缓青柠的呼吸作用，延长保鲜期和果汁含量。💡储存小贴士：将双层密封好的青柠放入冰箱蔬菜保鲜抽屉中。保持4~8℃的稳定温度，可保鲜长达3~4周。"
+                    },
+                    {
+                        "name": "榨汁冻成冰块或切角冷冻保存 — 冷冻保存 (90天) 🧊",
+                        "text": "如需保存1个月以上，榨汁或切块冷冻是最佳选择。💡储存小贴士：将青柠汁倒入冰格冻成冰块后装入拉链袋，或将青柠切成三角块装入保鲜盒冷冻（-18℃以下）。用于调制饮料或烹饪非常方便。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "切开用剩的青柠应该如何保存？",
+                        "answer": "用保鲜膜紧密包裹切面以防水分流失和氧化，或将切面朝下放入小型保鲜盒中冷藏。切开的青柠建议在3~5天内用完。"
+                    },
+                    {
+                        "question": "青柠汁可以单独保存吗？",
+                        "answer": "新鲜榨出的青柠汁装入已消毒的玻璃瓶中冷藏，可保鲜5~7天。如需更长保存，可倒入冰格冻成冰块装袋冷冻，能保持风味与香气长达3~6个月。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cómo mantener las limas frescas: Guía científica de conservación",
+                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para las limas según las directrices oficiales de seguridad.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "¿Alguna vez compró limas verdes y jugosas, solo para descubrir que en pocos días la piel se endurecía, se secaba y se ponía marrón? 🍋\n\nLas limas tienen una piel más fina que la mayoría de los cítricos, lo que hace que su humedad se evapore rápidamente a temperatura ambiente, secando su jugo y arruinando su sabor. Un almacenamiento inadecuado provoca decoloración, pérdida de jugo y moho.\n\nHoy, FreshSnap presenta una guía en 3 pasos respaldada por expertos para mantener sus limas jugosas, aromáticas y frescas por más de 30 días. 🛡️",
+                "whyTitle": "¿Por qué almacenarlas así? Datos científicos",
+                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+                "guideTitle": "Guía de almacenamiento científicamente probada",
+                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+                "cautions": [
+                    {
+                        "title": "No deje las limas a temperatura ambiente por mucho tiempo ⚠️",
+                        "desc": "A temperatura ambiente, la piel de las limas pierde humedad en cuestión de días, volviéndose dura y reduciendo drásticamente la cantidad de jugo. Consúmalas en 3 a 5 días o refrigérelas para un almacenamiento prolongado."
+                    },
+                    {
+                        "title": "Nunca lave las limas antes de guardarlas 💧",
+                        "desc": "Guardar limas húmedas atrapa el agua en la piel, creando un ambiente idóneo para la aparición de moho y bacterias. Limpie la suciedad con un paño seco y lávelas justo antes de usarlas."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Envuelva limas secas en papel de cocina y selle en una bolsa Ziploc — Retención de humedad y control 📦",
+                        "text": "Debe evitar la evaporación sin acumular un exceso de humedad. 💡 Consejo de almacenamiento: Envuelva cada lima seca y sin lavar en una toalla de papel, colóquelas en una bolsa Ziploc y extraiga el aire. El papel absorbe la humedad evitando moho."
+                    },
+                    {
+                        "name": "Refrigere a 4–8 °C en el cajón de verduras — Almacenamiento refrigerado (30 días) ❄️",
+                        "text": "El ambiente frío reduce la respiración de las limas, conservando su frescura y jugo. 💡 Consejo de almacenamiento: Guarde las limas envueltas en el cajón de verduras del refrigerador a 4-8 °C constantes. Se mantendrán frescas hasta por 3 o 4 semanas."
+                    },
+                    {
+                        "name": "Congele el jugo en cubeteras o congele limas en gajos — Conservación (90 días) 🧊",
+                        "text": "Para conservar limas durante más de un mes, congelar el jugo o en gajos es la mejor opción. 💡 Consejo de almacenamiento: Vierta el jugo en cubeteras de hielo o corte las limas en gajos y guárdelas en un recipiente hermético en el congelador (-18 °C). Ideal para bebidas y cocina."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Cómo debo guardar media lima que me ha sobrado?",
+                        "answer": "Envuelva firmemente la parte cortada con film transparente de cocina o coloque la lima boca abajo en un recipiente hermético pequeño y refrigérela. Consúmala en un plazo de 3 a 5 días."
+                    },
+                    {
+                        "question": "¿Puedo conservar el jugo de lima exprimido por separado?",
+                        "answer": "El jugo de lima recién exprimido guardado en una botella de vidrio desinfectada en el refrigerador se mantiene fresco de 5 a 7 días. Para conservarlo más tiempo, congele el jugo en cubiteras y guarde los cubitos en una bolsa Ziploc durante 3 a 6 meses."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Comment conserver les citrons verts frais : Guide scientifique de conservation",
+                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les citrons verts selon les directives officielles de sécurité.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Avez-vous déjà acheté de beaux citrons verts pour constater quelques jours plus tard que leur peau était devenue dure, sèche et brunâtre ? 🍋\n\nLe citron vert possède une peau plus fine que la plupart des agrumes. À température ambiante, son eau s'évapore rapidement, asséchant son jus et altérant son arôme. Un stockage inapproprié entraîne la décoloration, la perte de jus et l'apparition de moisissures.\n\nAujourd'hui, FreshSnap vous présente un guide scientifique en 3 étapes pour garder vos citrons verts juteux, parfumés et frais pendant plus de 30 jours. 🛡️",
+                "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
+                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+                "guideTitle": "Guide de conservation scientifiquement prouvé",
+                "cautionTitle": "Règles essentielles et précautions de stockage",
+                "cautions": [
+                    {
+                        "title": "Ne laissez pas les citrons verts trop longtemps à température ambiante ⚠️",
+                        "desc": "À température ambiante, l'humidité de la peau s'évapore en quelques jours, rendant le fruit dur et réduisant considérablement la quantité de jus. Consommez-les sous 3 à 5 jours ou placez-les au frais."
+                    },
+                    {
+                        "title": "Ne lavez jamais les citrons verts avant de les stocker 💧",
+                        "desc": "Enfermer des citrons verts humides emprisonne de l'eau sur la peau, favorisant le développement de moisissures et de bactéries. Essuyez la saleté avec un chiffon sec et ne les lavez qu'au moment de l'utilisation."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Envelopper dans du papier essuie-tout et sceller dans un sac Ziploc — Maintien de l'humidité & contrôle 📦",
+                        "text": "Évitez l'évaporation sans créer de condensation excessive. 💡 Astuce de conservation : Enveloppez chaque citron vert sec et non lavé dans une feuille de papier essuie-tout, placez-les dans un sac Ziploc et chassez l'air. Le papier absorbe l'excès d'humidité."
+                    },
+                    {
+                        "name": "Conserver au réfrigérateur entre 4 et 8 °C dans le bac à légumes — Stockage (30 jours) ❄️",
+                        "text": "Le froid ralentit la respiration du fruit, préservant ainsi sa fraîcheur et son jus. 💡 Astuce de conservation : Placez le sac dans le bac à légumes du réfrigérateur à une température stable de 4 à 8 °C. Vos citrons verts resteront impeccables pendant 3 à 4 semaines."
+                    },
+                    {
+                        "name": "Congeler le jus dans un bac à glaçons ou congelés en quartiers — Stockage (90 jours) 🧊",
+                        "text": "Pour conserver vos citrons verts plus d'un mois, la congélation du jus ou des quartiers est idéale. 💡 Astuce de conservation : Pressez le jus dans un bac à glaçons ou coupez les fruits en quartiers puis placez-les au congélateur (-18 °C). Très pratique pour vos boissons et plats."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Comment conserver un citron vert déjà entamé ?",
+                        "answer": "Enveloppez hermétiquement la surface coupée avec du film étirable ou placez le citron face coupée contre le fond d'une boîte hermétique au réfrigérateur. Consommez-le sous 3 à 5 jours."
+                    },
+                    {
+                        "question": "Peut-on conserver du jus de citron vert fraîchement pressé ?",
+                        "answer": "Le jus de citron vert frais conservé dans une bouteille en verre stérilisée au réfrigérateur reste parfait pendant 5 à 7 jours. Pour une conservation plus longue, congelez-le sous forme de glaçons jusqu'à 3 à 6 mois."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Limetten richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Limetten basierend auf offiziellen Sicherheitsrichtlinien.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Haben Sie schon einmal saftig grüne Limetten gekauft, nur um festzustellen, dass ihre Schale nach wenigen Tagen hart, trocken und braun wurde? 🍋\n\nLimetten haben eine dünnere Schale als die meisten anderen Zitrusfrüchte. Bei Raumtemperatur verdunstet ihre Feuchtigkeit extrem schnell, wodurch der Saft austrocknet und das Aroma leidet. Falsche Lagerung führt zu Verfärbung, Saftverlust und Schimmelbildung.\n\nHeute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um Ihre Limetten über 30 Tage lang saftig, aromatisch und frisch zu halten. 🛡️",
+                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+                "cautions": [
+                    {
+                        "title": "Limetten nicht lange bei Raumtemperatur lagern ⚠️",
+                        "desc": "Bei Raumtemperatur verliert die Schale innerhalb weniger Tage Feuchtigkeit, wird hart und der Saftgehalt nimmt drastisch ab. Verbrauchen Sie Limetten bei Zimmertemperatur binnen 3–5 Tagen oder kühlen Sie sie."
+                    },
+                    {
+                        "title": "Limetten vor der Lagerung niemals waschen 💧",
+                        "desc": "Feucht gelagerte Limetten schließen Wasser an der Schale ein, was einen idealen Nährboden für Schimmel und Bakterien bildet. Wischen Sie Schmutz mit einem trockenen Tuch ab und waschen Sie die Frucht erst vor dem Verzehr."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Ungewaschen in Küchenpapier wickeln & im Ziploc-Beutel versiegeln — Feuchtigkeitsschutz 📦",
+                        "text": "Verhindern Sie Saftverlust, ohne dass sich zu viel Schwitzwasser bildet. 💡 Lagerungstipp: Wickeln Sie jede trockene, ungewaschene Limette einzeln in Küchenpapier und geben Sie sie in einen Ziploc-Beutel. Das Papier saugt Feuchtigkeit auf und beugt Schimmel vor."
+                    },
+                    {
+                        "name": "Bei 4–8 °C im Gemüsefach lagern — Kühllagerung (30 Tage) ❄️",
+                        "text": "Kälte verlangsamt die Atmung der Limette und erhält Saftigkeit sowie Frische. 💡 Lagerungstipp: Lagern Sie den Beutel im Gemüsefach des Kühlschranks bei konstanten 4–8 °C. So bleiben Limetten bis zu 3–4 Wochen frisch."
+                    },
+                    {
+                        "name": "Saft in Eiswürfelformen einfrieren oder als Spalten einfrieren — Gefrierlagerung (90 Tage) 🧊",
+                        "text": "Für eine Lagerung über einen Monat hinaus ist das Einfrieren von Saft oder Limettenspalten optimal. 💡 Lagerungstipp: Füllen Sie gepressten Saft in Eiswürfelformen oder frieren Sie Limettenspalten in einer Dose bei -18 °C ein. Perfekt für Drinks und Rezepte."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Wie bewahrt man eine angeschnittene Limette am besten auf?",
+                        "answer": "Wickeln Sie die Schnittfläche fest in Frischhaltefolie oder legen Sie die Limette mit der Schnittfläche nach unten in eine kleine Frischhaltedose im Kühlschrank. Innerhalb von 3–5 Tagen verbrauchen."
+                    },
+                    {
+                        "question": "Kann man frisch gepressten Limettensaft separat lagern?",
+                        "answer": "Frisch gepresster Limettensaft hält sich in einer sterilen Glasflasche im Kühlschrank 5–7 Tage frisch. Für eine längere Haltbarkeit frieren Sie den Saft in Eiswürfelformen ein (3–6 Monate haltbar)."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Como conservar limas frescas: Guia científico de armazenamento",
+                "description": "Descubra a temperatura, método e tempo de conservação ideais para limas com base em diretrizes oficiais de segurança.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Você já comprou limas bem verdes e suculentas e percebeu que em poucos dias a casca ficou dura, ressecada e marrom? 🍋\n\nAs limas possuem uma casca mais fina do que a maioria dos cítricos, fazendo com que sua umidade evapore rapidamente em temperatura ambiente, secando seu suco e prejudicando o sabor. O armazenamento inadequado causa descoloração, perda de suco e surgimento de mofo.\n\nHoje, o FreshSnap apresenta um guia em 3 etapas baseado em recomendações de especialistas para manter suas limas suculentas, aromáticas e frescas por mais de 30 dias. 🛡️",
+                "whyTitle": "Por que armazenar assim? Fatos científicos",
+                "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+                "guideTitle": "Guia de armazenamento comprovado cientificamente",
+                "cautionTitle": "Regras essenciais e precauções no armazenamento",
+                "cautions": [
+                    {
+                        "title": "Não deixe as limas em temperatura ambiente por muito tempo ⚠️",
+                        "desc": "Em temperatura ambiente, a casca perde umidade em questão de dias, ficando dura e reduzindo drasticamente o suco. Consuma em 3 a 5 dias ou refrigere para conservação prolongada."
+                    },
+                    {
+                        "title": "Nunca lave as limas antes de guardar 💧",
+                        "desc": "Guardar limas úmidas retém água na casca, criando um ambiente ideal para o aparecimento de mofo e bactérias. Limpe sujeiras com um pano seco e lave apenas antes do consumo."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Envolva limas secas em papel-toalha e sele em um saco Ziploc — Retenção de umidade e controle 📦",
+                        "text": "Evite a evaporação de suco sem acumular umidade excessiva. 💡 Dica de conservação: Envolva cada lima seca e sem lavar em papel-toalha, coloque num saco Ziploc e retire o ar. O papel absorve o suor evitando mofo."
+                    },
+                    {
+                        "name": "Refrigere a 4–8 °C na gaveta de legumes — Conservação (30 dias) ❄️",
+                        "text": "O ambiente frio desacelera a respiração das limas, preservando o frescor e o suco. 💡 Dica de conservação: Guarde o saco na gaveta de legumes da geladeira em temperatura estável de 4-8 °C. Elas duram até 3 a 4 semanas."
+                    },
+                    {
+                        "name": "Congele o suco em formas de gelo ou congele em gomos — Conservação (90 dias) 🧊",
+                        "text": "Para conservar limas por mais de um mês, congelar o suco ou gomos é a melhor escolha. 💡 Dica de conservação: Esprema o suco em formas de gelo ou corte em gomos e congele em pote hermético no freezer (-18 °C). Prático para bebidas e receitas."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Como devo guardar uma lima cortada que sobrou?",
+                        "answer": "Envolva firmemente a parte cortada com filme plástico ou coloque a lima virada para baixo em um recipiente hermético pequeno e refrigere. Consuma em 3 a 5 dias."
+                    },
+                    {
+                        "question": "Posso guardar o suco de lima espremido separadamente?",
+                        "answer": "O suco de lima fresco guardado em garrafa de vidro esterilizada na geladeira dura de 5 a 7 dias. Para conservar por mais tempo, congele em formas de gelo por até 3 a 6 meses."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Cara Menyimpan Jeruk Nipis agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk jeruk nipis berdasarkan pedoman keselamatan resmi.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Pernahkah Anda membeli jeruk nipis hijau yang segar, lalu mendapati kulitnya menjadi keras, kering, dan kecokelatan setelah beberapa hari? 🍋\n\nJeruk nipis memiliki kulit yang lebih tipis dibandingkan sebagian besar buah sitrus lainnya, sehingga kadar airnya cepat menguap pada suhu ruang, membuat airnya mengering dan merusak aromanya. Penyimpanan yang salah menyebabkan perubahan warna, kehilangan kadar air, dan munculnya jamur.\n\nHari ini, FreshSnap membagikan panduan penyimpanan 3 langkah berbasis ilmiah untuk menjaga jeruk nipis Anda tetap kaya air, harum, dan segar selama lebih dari 30 hari. 🛡️",
+                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+                "cautions": [
+                    {
+                        "title": "Jangan biarkan jeruk nipis terlalu lama di suhu ruang ⚠️",
+                        "desc": "Pada suhu ruang, kelembapan kulit jeruk nipis akan menguap dalam beberapa hari, membuatnya keras dan mengurangi jumlah airnya secara drastis. Habiskan dalam 3–5 hari atau simpan di kulkas."
+                    },
+                    {
+                        "title": "Jangan sekali-kali mencuci jeruk nipis sebelum disimpan 💧",
+                        "desc": "Menyimpan jeruk nipis dalam kondisi basah akan mengunci air pada kulitnya, memicu tumbuhnya jamur dan bakteri. Lap kotoran dengan kain kering dan cucilah tepat sebelum digunakan."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Bungkus jeruk nipis kering dengan tisu dapur & segel dalam kantong Ziploc — Kontrol Kelembapan 📦",
+                        "text": "Cegah penguapan air tanpa membiarkan kelembapan berlebih terperangkap. 💡 Tips Penyimpanan: Bungkus setiap jeruk nipis kering yang belum dicuci dengan tisu dapur, masukkan ke kantong Ziploc, lalu buang udaranya. Tisu akan menyerap embun dan mencegah jamur."
+                    },
+                    {
+                        "name": "Simpan pada suhu 4–8°C di laci sayur kulkas — Simpan Dingin (30 Hari) ❄️",
+                        "text": "Suhu dingin memperlambat respirasi jeruk nipis, menjaga kesegaran dan kadar airnya. 💡 Tips Penyimpanan: Simpan kantong Ziploc di laci sayur kulkas pada suhu stabil 4–8°C. Jeruk nipis akan tetap segar hingga 3–4 minggu."
+                    },
+                    {
+                        "name": "Bekukan perasan airnya di cetakan es atau bekukan dalam potongan — Simpan Beku (90 Hari) 🧊",
+                        "text": "Untuk menyimpan lebih dari sebulan, membekukan air perasan atau potongannya adalah pilihan terbaik. 💡 Tips Penyimpanan: Peras air jeruk nipis ke cetakan es batu atau potong menjadi wedges lalu bekukan dalam wadah kedap udara (-18°C). Sangat praktis untuk minuman atau masakan."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Bagaimana cara menyimpan sisa jeruk nipis yang sudah dipotong?",
+                        "answer": "Bungkus bagian yang terpotong secara rapat dengan plastik wrap atau letakkan dengan posisi terpotong menghadap ke bawah di wadah kedap udara kecil, lalu simpan di kulkas. Gunakan dalam 3–5 hari."
+                    },
+                    {
+                        "question": "Apakah air perasan jeruk nipis bisa disimpan terpisah?",
+                        "answer": "Air perasan jeruk nipis segar yang disimpan dalam botol kaca steril di dalam kulkas akan tetap segar selama 5–7 hari. Untuk penyimpanan lebih lama, bekukan dalam cetakan es batu hingga tahan 3–6 bulan."
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,406 @@
+{
+    "how-to-store-salt": {
+        "ingId": "salt",
+        "pubDate": "2026-02-03",
+        "updatedDate": "2026-02-03",
+        "heroImage": "/images/blog/salt_storage_hack.webp",
+        "locales": {
+            "ko": {
+                "title": "소금 신선하게 보관하는 법: 과학적 보관 가이드",
+                "description": "공인된 안전 가이드라인에 따른 소금의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+                "authority": "<strong>미국 식품의약국(FDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>",
+                "intro": "소금 용기를 열었더니 축축하게 젖어 서로 뭉쳐있거나, 용기 입구가 녹슬어 곤란했던 적 있으시죠? 🧂\n\n소금은 수분 활성도가 거의 0에 가까워 미생물이 번식할 수 없기 때문에 유통기한이 없는 대표적인 무기질 식재료입니다. 하지만 상대습도가 높으면 공기 중의 수분을 빠르게 흡수하며, 금속을 부식시키는 강력한 화학적 특성을 지니고 있습니다. 올바르지 않은 보관법은 덩어리짐, 용기 부식, 위생 저해의 원인이 됩니다.\n\n오늘 FreshSnap에서는 식품 안전 전문가들의 안전 가이드라인을 바탕으로, 소금의 고운 입자를 변질 없이 영구적으로 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+                "guideTitle": "과학적으로 검증된 보관 가이드",
+                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+                "cautions": [
+                    {
+                        "title": "금속 용기 사용과 냉장 보관을 피하세요 ⚠️",
+                        "desc": "소금은 강한 염분으로 인해 철이나 스텐 등 금속 용기를 빠르게 부식시키며, 냉장 보관 시 꺼낼 때 발생하는 결로 현상(이슬 맺힘)으로 인해 축축하게 녹아내립니다. 반드시 유리, 도자기, 플라스틱 용기에 담아 상온 보관하세요."
+                    },
+                    {
+                        "title": "가스레인지 주변의 수증기 열기를 피하세요 💧",
+                        "desc": "요리할 때 발생하는 수증기(습기)와 열기가 소금통에 직접 닿으면 내부 입자가 습기를 끌어당겨 굳어집니다. 소금통은 조리대 바로 위가 아닌 한 발짝 떨어진 건조한 양념장에 두어야 합니다."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "부식 없는 밀폐 용기(유리·도자기·플라스틱)에 보관하기 — 밀폐 및 부식 방지 📦",
+                        "text": "금속 재질의 용기나 뚜껑은 소금과 반응하여 녹이 슬고 염분을 오염시킬 수 있습니다. 💡 보관 팁: 유리병, 도자기, 밀폐형 플라스틱 용기에 소금을 담고 뚜껑을 완벽히 닫아 보관하세요. 외부 습기 유입을 막아 굳어짐과 녹슬음을 동시에 예방할 수 있습니다."
+                    },
+                    {
+                        "name": "건조하고 서늘한 양념장에 상온 보관하기 — 상온 보관 (무기한) ☀️",
+                        "text": "소금은 습도가 높지 않은 서늘한 그늘에서 가장 완벽하게 유지됩니다. 💡 보관 팁: 습도 70% 이하, 일정한 온도의 실내 상온(15~25℃)에 보관해 주세요. 순수한 염화나트륨(소금)은 미생물이 살 수 없어 올바르게 보관할 경우 영구 보관이 가능합니다."
+                    },
+                    {
+                        "name": "쌀알이나 식품용 제습제로 굳음 예방하기 — 수분 흡수 꿀팁 🛡️",
+                        "text": "공기 중 수분으로 인해 소금이 뭉치는 것을 미리 차단해 주는 것이 좋습니다. 💡 보관 팁: 소금통 바닥에 바짝 말린 쌀알 몇 알을 넣거나 식품용 실리카겔을 함께 넣어두세요. 쌀알과 실리카겔이 소금보다 수분을 먼저 흡수하여 소금 입자가 뽀송뽀송하게 유지됩니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "소금에도 유통기한이 있나요?",
+                        "answer": "순수한 천연염이나 정제염은 수분이 극히 적고 균이 번식할 수 없는 구조이므로 유통기한이 없으며, 미국 FDA 및 식품의약품안전처(MFDS) 표시 의무 대상에서 제외됩니다. 다만 허브 소금, 맛소금, 요오드 첨가염 등 첨가물이 들어간 소금은 첨가물의 변질 우려로 2~3년의 유통기한을 갖습니다."
+                    },
+                    {
+                        "question": "습기 때문에 소금이 굳었을 때 되돌리는 방법이 있나요?",
+                        "answer": "굳은 소금을 프라이팬에 넣고 약불에서 기름 없이 가볍게 볶아 수분을 날려주거나, 전자레인지용 용기에 담아 20~30초간 돌린 뒤 식혀주면 다시 뽀송뽀송한 입자로 되돌아옵니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "How to Keep Salt Fresh: Scientific Storage Guide",
+                "description": "Check the optimal storage temperature, method, and shelf life for salt based on official safety guidelines.",
+                "authority": "<strong>FDA & USDA & MFDS</strong>",
+                "intro": "Have you ever opened your salt shaker or jar only to find it damp and clumped together, or noticed the container rusted and ruined? 🧂\n\nSalt is a representative inorganic mineral ingredient without an expiration date because its near-zero water activity prevents bacteria and microbes from growing. However, it readily absorbs moisture under high relative humidity and possesses strong corrosive properties against metals. Improper storage causes clumping, container corrosion, and contamination.\n\nToday, FreshSnap introduces a scientifically proven 3-step storage guide based on expert food safety guidelines to keep your salt fine, dry, and usable indefinitely. 🛡️",
+                "whyTitle": "Why Store Salt This Way? Scientific Facts",
+                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+                "guideTitle": "Scientifically Proven Storage Guide",
+                "cautionTitle": "Essential Storage Rules and Cautions",
+                "cautions": [
+                    {
+                        "title": "Avoid metal containers and refrigeration ⚠️",
+                        "desc": "Salt accelerates the rust and corrosion of metal containers like iron or stainless steel, and refrigerating salt causes condensation that turns it damp and runny. Always store salt at room temperature in glass, ceramic, or plastic containers."
+                    },
+                    {
+                        "title": "Keep away from stove steam and direct heat 💧",
+                        "desc": "Steam and heat generated while cooking directly reach salt shakers, causing salt particles to draw in moisture and harden. Keep salt shakers in a dry spice cabinet a step away from the cooking area."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Store in non-corrosive airtight containers (Glass, Ceramic, Plastic) — Sealed & Anti-Corrosion 📦",
+                        "text": "Metal containers or lids react with salt over time, leading to rust and contamination. 💡 Storage Tip: Store salt in glass jars, ceramic pots, or airtight plastic containers and seal tightly to block ambient moisture and prevent rust."
+                    },
+                    {
+                        "name": "Store at room temperature in a dry, cool cabinet — Room Storage (Indefinite) ☀️",
+                        "text": "Salt stays perfect in cool, shaded environments with low humidity. 💡 Storage Tip: Keep salt at room temperature (15–25°C / 59–77°F) with humidity below 70%. Pure sodium chloride (salt) creates an uninhabitable environment for microbes, lasting indefinitely if kept dry."
+                    },
+                    {
+                        "name": "Use rice grains or food-grade desiccants — Clumping Prevention 🛡️",
+                        "text": "Prevent salt from absorbing ambient humidity before clumps form. 💡 Storage Tip: Add a few grains of dry uncooked rice or a food-safe silica gel packet to the bottom of your salt container. The rice or silica gel will absorb excess moisture before the salt does, keeping it free-flowing."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Does salt ever expire?",
+                        "answer": "Pure natural or refined salt contains almost no moisture, making it impossible for bacteria or mold to grow. According to the US FDA and MFDS regulations, pure salt is exempt from expiration date labeling and lasts indefinitely. However, seasoned salts, herbal salts, or iodized salts may have a shelf life of 2–3 years as added ingredients can degrade."
+                    },
+                    {
+                        "question": "How can I fix salt that has clumped together due to humidity?",
+                        "answer": "Dry-roast the clumped salt in a skillet over low heat without oil to evaporate moisture, or microwave it in a safe container for 20–30 seconds. Once cooled, it will return to its fine, dry texture."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "塩を新鮮に保つ保存方法：科学的保管ガイド",
+                "description": "公的安全基準に基づく塩の最適な保存温度、保管方法、保存期間をご確認ください。",
+                "authority": "<strong>米国食品医薬品局(FDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>",
+                "intro": "塩の容器を開けたら湿気で固まっていたり、容器の金属部分が錆びて困った経験はありませんか？🧂\n\n塩は水分活性がほぼゼロに近く細菌や微生物が繁殖できないため、賞味期限が存在しない代表的な無機質食材です。しかし、相対湿度が高くなると空気中の水分を急速に吸収し、金属を腐食させる強力な化学的性質を持っています。不適切な保存方法は固まりや容器のサビ、衛生低下の原因になります。\n\n本日FreshSnapでは、食品安全専門家のガイドラインに基づき、塩のサラサラとした粒子を物理的変質なく永久に保つ3段階の科学的保存法をご紹介します。🛡️",
+                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+                "guideTitle": "科学的に検証された保存ガイド",
+                "cautionTitle": "保存時の必須ルールと注意事項",
+                "cautions": [
+                    {
+                        "title": "金属容器の使用と冷蔵保存は避けてください ⚠️",
+                        "desc": "塩分は鉄やステンレスなどの金属容器を急速に腐食させます。また、冷蔵保存すると取り出し時の結露（水滴）で湿り、溶けてしまいます。必ずガラス、陶器、プラスチック容器に入れて常温で保存してください。"
+                    },
+                    {
+                        "title": "コンロ周りの蒸気や熱気を避けてください 💧",
+                        "desc": "調理時に発生する蒸気（水分）や熱気が塩容器に直接当たると、内部の塩粒子が水気を引き寄せて固まります。塩容器は調理台の真上ではなく、少し離れた乾燥した調味料ラックに置きましょう。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "非金属の密閉容器（ガラス・陶器・樹脂）で保存する — 密閉＆防錆 📦",
+                        "text": "金属製の容器やフタは塩と反応してサビが発生し、塩を汚染する可能性があります。💡保存のコツ：ガラス瓶や陶器、密閉型プラスチック容器に塩を入れ、フタをしっかり閉めて保管してください。外部からの湿気侵入を防ぎ、固まりとサビを同時に予防します。"
+                    },
+                    {
+                        "name": "乾燥した涼しい場所で常温保存する — 常温保存 (無期限) ☀️",
+                        "text": "塩は湿度が低く風通しの良い日陰で最も完璧な状態を維持できます。💡保存のコツ：湿度70%以下、一定温度の室内常温（15〜25℃）で保存してください。純粋な塩化ナトリウム（塩）は微生物が生存できないため、正しく保存すれば半永久的に保存可能です。"
+                    },
+                    {
+                        "name": "米粒や食品用乾燥剤で固まりを防ぐ — 湿気吸収テクニック 🛡️",
+                        "text": "空気中の水分による塩の固まりをあらかじめ遮断するのがおすすめです。💡保存のコツ：塩容器の底によく乾いた生米を数粒入れるか、食品用シリカゲルを一緒に入れておきましょう。米やシリカゲルが塩より先に水分を吸収し、サラサラの粒を維持してくれます。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "塩に賞味期限はありますか？",
+                        "answer": "純粋な天然塩や精製塩は水分が極めて少なく菌が繁殖できないため賞味期限がなく、米国FDAおよび各国の基準において表示義務対象外です。ただし、ハーブ塩やフレーバー塩、ヨウ素添加塩などの添加物入り塩は、成分の劣化防止のため2〜3年の期限が設けられています。"
+                    },
+                    {
+                        "question": "湿気で塩が固まってしまった時の元に戻す方法は？",
+                        "answer": "固まった塩をフライパンに入れ、油を引かずに弱火で軽く炒めて水分を飛ばすか、耐熱容器に入れて電子レンジで20〜30秒加熱してから冷ますと、再びサラサラの粒子に戻ります。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "如何保持食盐新鲜：科学储存指南",
+                "description": "根据官方食品安全指南，了解食盐的最佳储存温度、方式和保鲜时长。",
+                "authority": "<strong>美国食品药品监督管理局(FDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "intro": "您是否曾打开盐罐发现食盐受潮结块，或是容器口因为盐分侵蚀而生锈损坏？🧂\n\n食盐的水分活性接近于零，细菌和微生物无法滋生，因此它是没有保质期的代表性无机矿物食材。然而，在相对湿度较高的环境中，食盐会迅速吸收空气中的水分，并对金属具有较强的腐蚀性。不当的储存方式会导致结块、容器生锈和卫生隐患。\n\n今天FreshSnap基于食品安全专家的权威指南，为您介绍3步科学保存秘诀，帮您长久保持食盐干爽细软的品质。🛡️",
+                "whyTitle": "为什么要这样储存？科学原理",
+                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+                "guideTitle": "科学验证的储存指南",
+                "cautionTitle": "储存必需规则及注意事项",
+                "cautions": [
+                    {
+                        "title": "切勿使用金属容器与冷藏保存 ⚠️",
+                        "desc": "高浓度盐分会迅速腐蚀铁、不锈钢等金属容器。此外，冷藏保存会在取出时因温差产生凝结水珠，使食盐受潮潮解。请务必使用玻璃、陶瓷或塑料容器在常温下保存。"
+                    },
+                    {
+                        "title": "避开灶台附近的蒸汽与热气 💧",
+                        "desc": "烹饪时产生的蒸汽和热气直接接触盐罐，会导致内部盐粒吸收湿气而结块。盐罐应存放在离灶台稍微保持距离的干燥调料柜中。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "存放在防腐蚀密封容器（玻璃·陶瓷·塑料）中 — 密封防锈 📦",
+                        "text": "金属材质的容器或盖子容易与盐发生化学反应产生锈迹，污染食盐。💡储存小贴士：将食盐装入玻璃瓶、陶瓷罐或塑料密封盒内并盖紧盖子，既能防潮又能防止生锈。"
+                    },
+                    {
+                        "name": "置于干燥阴凉处常温保存 — 常温保存 (无期限) ☀️",
+                        "text": "食盐在低湿度、通风良好的阴凉处能够长期保持品质。💡储存小贴士：请置于湿度低于70%、温度稳定（15~25℃）的常温室内。纯氯化钠（食盐）不具备微生物生存条件，正确储存可永久保存。"
+                    },
+                    {
+                        "name": "加入大米粒或食品级干燥剂防潮 — 吸湿防结块 🛡️",
+                        "text": "提前防范空气水分可有效防止食盐结块。💡储存小贴士：在盐罐底部放入几粒彻底晾干的生大米，或放入一包食品级硅胶干燥剂。大米或干燥剂会优先吸收湿气，保持食盐干爽顺滑。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "食盐是否有保质期？",
+                        "answer": "纯天然盐或精制盐几乎不含水分，细菌无法繁殖，因此没有保质期，且依据美国FDA及国际标准豁免标注保质期。但香草盐、椒盐、加碘盐等含有添加成分的食盐，因添加物可能变质，保质期通常为2~3年。"
+                    },
+                    {
+                        "question": "食盐因受潮结块后如何恢复干爽？",
+                        "answer": "将结块的食盐倒入平底锅中，不加油用小火轻炒驱散湿气，或者放入微波炉适用容器中微波加热20~30秒后晾凉，即可恢复为干爽细致的颗粒。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cómo mantener la sal fresca: Guía científica de conservación",
+                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para la sal según las directrices oficiales de seguridad.",
+                "authority": "<strong>FDA & USDA & MFDS</strong>",
+                "intro": "¿Alguna vez abrió su salero o tarro de sal solo para encontrarlo húmedo y apelmazado, o notó que el recipiente se había oxidado? 🧂\n\nLa sal es un mineral inorgánico sin fecha de caducidad, ya que su actividad de agua cercana a cero impide el desarrollo de bacterias o microorganismos. Sin embargo, absorbe agua rápidamente cuando la humedad relativa es alta y posee un fuerte poder corrosivo contra los metales. Un almacenamiento inadecuado provoca apelmazamiento, corrosión del envase y pérdida de higiene.\n\nHoy, FreshSnap presenta una guía en 3 pasos respaldada por expertos en seguridad alimentaria para mantener su sal fina, seca y perfecta de forma indefinida. 🛡️",
+                "whyTitle": "¿Por qué almacenarla así? Datos científicos",
+                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+                "guideTitle": "Guía de almacenamiento científicamente probada",
+                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+                "cautions": [
+                    {
+                        "title": "Evite recipientes metálicos y la refrigeración ⚠️",
+                        "desc": "La sal acelera la oxidación del hierro y el acero inoxidable. Además, refrigerar la sal genera condensación de agua al exponerla a la temperatura ambiente, haciendo que se derrita. Guárdela siempre a temperatura ambiente en frascos de vidrio, cerámica o plástico."
+                    },
+                    {
+                        "title": "Mantenga alejada del vapor y el calor de la cocina 💧",
+                        "desc": "El vapor de agua y el calor directo generados al cocinar penetran en el salero y hacen que los cristales absorban humedad y se endurezcan. Guarde el salero en un especiero seco alejado de la zona de cocción."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Guarde en recipientes herméticos no metálicos (Vidrio, Cerámica, Plástico) — Sellado y Anticorrosión 📦",
+                        "text": "Las tapas o recipientes metálicos reaccionan con la sal produciendo óxido y contaminación. 💡 Consejo de almacenamiento: Use frascos de vidrio, recipientes de cerámica o plástico hermético para proteger la sal de la humedad del aire y prevenir el óxido."
+                    },
+                    {
+                        "name": "Conserve a temperatura ambiente en un lugar seco y fresco — Conservación (Indefinida) ☀️",
+                        "text": "La sal se conserva en óptimas condiciones en ambientes sombreados y de baja humedad. 💡 Consejo de almacenamiento: Mantenga la sal a temperatura ambiente (15-25 °C) con humedad inferior al 70%. El cloruro de sodio puro no permite la vida microbiana, durando indefinidamente."
+                    },
+                    {
+                        "name": "Añada granos de arroz o desecantes alimentarios — Prevención del apelmazamiento 🛡️",
+                        "text": "Evite que la sal absorba la humedad ambiental antes de que se formen bloques. 💡 Consejo de almacenamiento: Coloque unos granos de arroz crudo seco o un sobre de gel de sílice apto para alimentos en el fondo del recipiente. El arroz absorberá el exceso de agua antes que la sal."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿La sal tiene fecha de caducidad?",
+                        "answer": "La sal natural o refinada pura no contiene agua, impidiendo el crecimiento de bacterias y mohos. Según las normativas de la FDA y organismos internacionales, está exenta de fecha de caducidad y dura de manera indefinida. No obstante, las sales saborizadas, con hierbas o yodadas tienen una vida útil de 2 a 3 años porque sus aditivos pueden degradarse."
+                    },
+                    {
+                        "question": "¿Cómo puedo solucionar la sal que se ha apelmazado por la humedad?",
+                        "answer": "Tueste la sal apelmazada en una sartén a fuego lento sin aceite para evaporar la humedad, o caliéntela en el microondas en un plato apto durante 20 a 30 segundos. Una vez fría, recuperará su textura suelta y fina."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Comment conserver le sel frais : Guide scientifique de conservation",
+                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le sel selon les directives officielles de sécurité.",
+                "authority": "<strong>FDA & USDA & MFDS</strong>",
+                "intro": "Avez-vous déjà ouvert votre salière pour constater que le sel était humide et collé en blocs, ou que le couvercle en métal était rouillé ? 🧂\n\nLe sel est un ingrédient minéral inorganique sans date de péremption, car son activité de l'eau proche de zéro empêche toute prolifération bactérienne. Cependant, il absorbe très vite l'eau lorsque l'humidité ambiante est élevée et possède une forte action corrosive sur les métaux. Un stockage inapproprié entraîne la formation de grumeaux, la rouille des récipients et une baisse d'hygiène.\n\nAujourd'hui, FreshSnap vous présente un guide scientifique en 3 étapes pour garder votre sel sec, fluide et utilisable indéfiniment. 🛡️",
+                "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
+                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+                "guideTitle": "Guide de conservation scientifiquement prouvé",
+                "cautionTitle": "Règles essentielles et précautions de stockage",
+                "cautions": [
+                    {
+                        "title": "Évitez les récipients métalliques et le réfrigérateur ⚠️",
+                        "desc": "Le sel corrode rapidement le fer et l'acier inoxydable. De plus, placer le sel au réfrigérateur crée de la condensation lors des sorties à température ambiante, le rendant mouillé et liquide. Conservez-le toujours à température ambiante dans du verre, de la céramique ou du plastique."
+                    },
+                    {
+                        "title": "Éloignez de la vapeur de cuisson et de la chaleur directe 💧",
+                        "desc": "La vapeur d'eau et la chaleur dégagées lors de la cuisson s'infiltrent dans les salières, provoquant l'agglomération des cristaux. Placez votre sel dans un placard à épices sec, en retrait des plaques de cuisson."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Conserver dans un récipient hermétique non métallique (Verre, Céramique, Plastique) — Étanchéité & Anti-Rouille 📦",
+                        "text": "Les couvercles ou pots en métal réagissent avec le sel et produisent de la rouille. 💡 Astuce de conservation : Privilégiez les bocaux en verre, les poteries en céramique ou les boîtes en plastique hermétiques pour bloquer l'humidité et empêcher la corrosion."
+                    },
+                    {
+                        "name": "Stocker à température ambiante dans un endroit sec et frais — Stockage (Indéfini) ☀️",
+                        "text": "Le sel reste impeccable dans un environnement peu humide et à l'abri de la lumière. 💡 Astuce de conservation : Conservez le sel à température ambiante (15–25 °C) avec une humidité inférieure à 70 %. Le chlorure de sodium pur est un milieu stérile qui se conserve indéfiniment."
+                    },
+                    {
+                        "name": "Ajouter quelques grains de riz ou un sachet déshydratant — Anti-Grumeaux 🛡️",
+                        "text": "Absorbez l'humidité de l'air avant qu'elle ne fasse coller les cristaux de sel. 💡 Astuce de conservation : Mettez quelques grains de riz cru bien sec ou un sachet de gel de silice alimentaire au fond du pot. Le riz captera l'humidité avant le sel, maintenant sa fluidité."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Le sel a-t-il une date de péremption ?",
+                        "answer": "Le sel pur naturel ou raffiné ne contient pratiquement pas d'eau, rendant la survie des bactéries impossible. Selon les règles de la FDA et des autorités sanitaires, il ne possède pas de date de péremption. En revanche, les sels aromatisés, aux herbes ou iodés ont une durée de conservation de 2 à 3 ans en raison de la dégradation de leurs additifs."
+                    },
+                    {
+                        "question": "Comment récupérer du sel qui a pris l'humidité et forme des blocs ?",
+                        "answer": "Faites sécher le sel humide à la poêle à feu doux sans matière grasse pour faire évaporer l'eau, ou passez-le au micro-ondes dans un plat adapté pendant 20 à 30 secondes. En refroidissant, il retrouvera ses grains fins et secs."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Salz richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Salz basierend auf offiziellen Sicherheitsrichtlinien.",
+                "authority": "<strong>FDA & USDA & MFDS</strong>",
+                "intro": "Haben Sie Ihren Salzstreuer oder Ihre Salzdose geöffnet und festgestellt, dass das Salz feucht und verklumpt war oder der Metalldeckel gerostet ist? 🧂\n\nSalz ist ein mineralisches Lebensmittel ohne Ablaufdatum, da seine Wasseraktivität von nahezu Null das Wachstum von Bakterien verhindert. Bei hoher Luftfeuchtigkeit zieht es jedoch extrem schnell Wasser an und wirkt stark korrosiv auf Metalle. Falsche Lagerung führt zu Verklumpung, Behälterkorrosion und Hygieneeinbußen.\n\nHeute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um Ihr Salz dauerhaft rieselfähig, trocken und rein zu halten. 🛡️",
+                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+                "cautions": [
+                    {
+                        "title": "Vermeiden Sie Metallbehälter und die Lagerung im Kühlschrank ⚠️",
+                        "desc": "Salz bringt Eisen und Edelstahl schnell zum Rosten. Die Lagerung im Kühlschrank führt beim Herausnehmen zu Kondenswasser, wodurch das Salz vernässt und sich auflöst. Lagern Sie Salz stets bei Raumtemperatur in Glas-, Keramik- oder Kunststoffbehältern."
+                    },
+                    {
+                        "title": "Von Kochdampf und direkter Hitze fernhalten 💧",
+                        "desc": "Wasserdampf und Hitze beim Kochen gelangen direkt in den Salzstreuer, wodurch die Salzpartikel Feuchtigkeit aufnehmen und hart werden. Bewahren Sie Salz in einem trockenen Gewürzregal abseits des Kochfelds auf."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "In korrosionsfreien, luftdichten Behältern (Glas, Keramik, Kunststoff) lagern — Luftdicht & Rostfrei 📦",
+                        "text": "Metalledelstahldeckel oder -dosen reagieren mit Salz und bilden Rost. 💡 Lagerungstipp: Füllen Sie Salz in Glasabdeckdosen, Keramiktöpfe oder luftdichte Kunststoffdosen um, um Luftfeuchtigkeit auszusperren und Rostbildung zu verhindern."
+                    },
+                    {
+                        "name": "Kühl und trocken bei Raumtemperatur lagern — Aufbewahrung (Unbegrenzt) ☀️",
+                        "text": "Salz bleibt in einer schattigen Umgebung mit geringer Luftfeuchtigkeit perfekt erhalten. 💡 Lagerungstipp: Lagern Sie Salz bei Raumtemperatur (15–25 °C) und unter 70 % Luftfeuchtigkeit. Reines Natriumchlorid bietet Mikroben keinen Lebensraum und hält unbegrenzt."
+                    },
+                    {
+                        "name": "Reiskörner oder Lebensmittel-Trockenmittel nutzen — Schutz vor Verklumpen 🛡️",
+                        "text": "Fangen Sie die Luftfeuchtigkeit ab, bevor das Salz Klumpen bildet. 💡 Lagerungstipp: Geben Sie ein paar Körner ungekochten, trockenen Reis oder ein Päckchen Lebensmittel-Silikagel auf den Boden des Salzbehälters. Der Reis nimmt die Feuchtigkeit vor dem Salz auf."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Hat Salz ein Haltbarkeitsdatum?",
+                        "answer": "Reines Natur- oder Siedesalz enthält fast kein Wasser, weshalb Bakterien nicht wachsen können. Gemäß FDA und internationalen Richtlinien ist reines Salz von der Mindesthaltbarkeitsdatum-Pflicht befreit. Kräutersalz, Gewürzsalz oder Jodsalz haben jedoch eine Haltbarkeit von 2 bis 3 Jahren, da Zusätze verderben können."
+                    },
+                    {
+                        "question": "Wie wird durch Feuchtigkeit verklumptes Salz wieder rieselfähig?",
+                        "answer": "Rösten Sie das feuchte Salz in einer Pfanne bei schwacher Hitze ohne Öl kurz an, damit das Wasser verdampft, oder erwärmen Sie es für 20–30 Sekunden in der Mikrowelle. Nach dem Abkühlen ist es wieder feinkörnig und trocken."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Como conservar o sal fresco: Guia científico de armazenamento",
+                "description": "Descubra a temperatura, método e tempo de conservação ideais para o sal com base em diretrizes oficiais de segurança.",
+                "authority": "<strong>FDA & USDA & MFDS</strong>",
+                "intro": "Você já abriu seu salreiro ou pote de sal e percebeu que ele estava úmido e empelotado, ou que a tampa de metal enferrujou? 🧂\n\nO sal é um ingrediente mineral inorgânico sem data de validade, pois sua atividade de água próxima de zero impede a proliferação de bactérias e microrganismos. No entanto, ele absorve umidade rapidamente sob alta umidade relativa e possui forte ação corrosiva contra metais. O armazenamento inadequado causa empelotamento, corrosão do recipiente e falta de higiene.\n\nHoje, o FreshSnap apresenta um guia em 3 etapas baseado em recomendações de especialistas para manter seu sal fino, seco e perfeito por tempo indeterminado. 🛡️",
+                "whyTitle": "Por que armazenar assim? Fatos científicos",
+                "whyDesc": "Compreender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+                "guideTitle": "Guia de armazenamento comprovado cientificamente",
+                "cautionTitle": "Regras essenciais e precauções no armazenamento",
+                "cautions": [
+                    {
+                        "title": "Evite recipientes metálicos e a refrigeração ⚠️",
+                        "desc": "O sal acelera a oxidação do ferro e do aço inoxidável. Além disso, guardar o sal na geladeira cria condensação ao ser exposto à temperatura ambiente, deixando-o úmido e líquido. Guarde-o sempre em potes de vidro, cerâmica ou plástico."
+                    },
+                    {
+                        "title": "Mantenha longe do vapor e do calor do fogão 💧",
+                        "desc": "O vapor de água e o calor gerados ao cozinhar entram direto no salreiro, fazendo com que os grãos absorvam umidade e endureçam. Guarde o sal em um armário seco, afastado da área de cozimento."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Guarde em recipientes herméticos não metálicos (Vidro, Cerâmica, Plástico) — Vedação e Anticorrosão 📦",
+                        "text": "Tampas ou potes de metal reagem com o sal, gerando ferrugem e contaminação. 💡 Dica de conservação: Use potes de vidro, cerâmica ou plástico hermético para proteger o sal da umidade do ar e evitar a corrosão."
+                    },
+                    {
+                        "name": "Armazene em local seco e fresco em temperatura ambiente — Armazenamento (Indefinido) ☀️",
+                        "text": "O sal se conserva perfeitamente em ambientes frescos e com baixa umidade. 💡 Dica de conservação: Mantenha o sal em temperatura ambiente (15-25 °C) com umidade abaixo de 70%. O cloreto de sódio puro não permite vida microbiana, durando indefinidamente."
+                    },
+                    {
+                        "name": "Adicione grãos de arroz ou dessecante alimentar — Prevenção de empelotamento 🛡️",
+                        "text": "Evite que o sal absorva a umidade do ar antes que se formem blocos duros. 💡 Dica de conservação: Coloque alguns grãos de arroz cru seco ou um sachê de sílica gel própria para alimentos no fundo do pote. O arroz absorverá a umidade antes do sal."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "O sal tem data de validade?",
+                        "answer": "O sal refinado ou marinho puro não contém água, impossibilitando o crescimento de bactérias e fungos. De acordo com a FDA e órgãos sanitários, ele é isento de data de validade e dura indefinidamente. Por outro lado, sais temperados, com ervas ou iodados têm validade de 2 a 3 anos porque seus aditivos podem estragar."
+                    },
+                    {
+                        "question": "Como posso recuperar o sal que ficou empelotado por causa da umidade?",
+                        "answer": "Aqueça o sal empelotado em uma frigideira em fogo baixo sem óleo para evaporar a água, ou leve ao micro-ondas em um prato próprio por 20 a 30 segundos. Depois de esfriar, ele voltará a ter seus grãos soltos e finos."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Cara Menyimpan Garam agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk garam berdasarkan pedoman keselamatan resmi.",
+                "authority": "<strong>FDA & USDA & MFDS</strong>",
+                "intro": "Pernahkah Anda membuka tempat garam lalu mendapati garamnya basah dan menggumpal, atau bagian tutup logamnya berkarat? 🧂\n\nGaram adalah bahan mineral anorganik yang tidak memiliki tanggal kedaluwarsa karena kadar airnya yang mendekati nol mencegah pertumbuhan bakteri dan mikroba. Namun, garam sangat cepat menyerap air pada kelembapan tinggi dan memiliki sifat korosif yang kuat terhadap logam. Penyimpanan yang salah menyebabkan penggumpalan, karat pada wadah, dan penurunan higienitas.\n\nHari ini, FreshSnap membagikan panduan penyimpanan 3 langkah berbasis ilmiah untuk menjaga garam Anda tetap halus, kering, dan dapat digunakan selamanya. 🛡️",
+                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+                "cautions": [
+                    {
+                        "title": "Hindari wadah logam dan penyimpanan di kulkas ⚠️",
+                        "desc": "Garam mempercepat karatan pada wadah logam seperti besi atau stainless steel. Selain itu, menyimpan garam di kulkas memicu embun (kondensasi) saat dikeluarkan, membuatnya basah dan mencair. Selalu simpan pada suhu ruang dalam wadah kaca, keramik, atau plastik."
+                    },
+                    {
+                        "title": "Jauhkan dari uap kompor dan panas langsung 💧",
+                        "desc": "Uap air dan panas saat memasak dapat langsung masuk ke dalam tempat garam, menyebabkan kristal garam menyerap kelembapan dan mengeras. Simpan tempat garam di lemari bumbu yang kering dan agak jauh dari area kompor."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Simpan dalam wadah kedap udara non-logam (Kaca, Keramik, Plastik) — Kedap Udara & Anti-Karat 📦",
+                        "text": "Wadah atau tutup berbahan logam akan bereaksi dengan garam dan menimbulkan karat. 💡 Tips Penyimpanan: Gunakan stoples kaca, wadah keramik, atau plastik kedap udara untuk mengunci kelembapan udara dan mencegah karat."
+                    },
+                    {
+                        "name": "Simpan pada suhu ruang di tempat sejuk dan kering — Simpan Suhu Ruang (Tanpa Batas Waktu) ☀️",
+                        "text": "Garam bertahan sempurna di lingkungan yang teduh dengan kelembapan rendah. 💡 Tips Penyimpanan: Simpan garam pada suhu ruang (15–25°C) dengan kelembapan di bawah 70%. Natrium klorida murni tidak dapat ditinggali mikroba sehingga awet selamanya."
+                    },
+                    {
+                        "name": "Gunakan butiran beras atau pengering khusus makanan — Cegah Penggumpalan 🛡️",
+                        "text": "Cegah garam menyerap kelembapan udara sebelum membentuk gumpalan keras. 💡 Tips Penyimpanan: Masukkan beberapa butir beras mentah yang kering atau kantong silica gel khusus makanan ke dasar tempat garam. Beras akan menyerap kelebihan air sebelum garam."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Apakah garam memiliki tanggal kadaluarsa?",
+                        "answer": "Garam murni alami atau garam halus hampir tidak mengandung air, sehingga bakteri tidak dapat tumbuh. Menurut regulasi FDA dan badan pengawas makanan internasional, garam murni bebas dari tanggal kadaluarsa dan awet selamanya. Namun, garam berbumbu, garam herba, atau garam beryodium memiliki masa simpan 2–3 tahun karena bahan tambahannya dapat terdegradasi."
+                    },
+                    {
+                        "question": "Bagaimana cara memperbaiki garam yang menggumpal karena lembap?",
+                        "answer": "Sangrai garam yang menggumpal di atas wajan dengan api kecil tanpa minyak untuk menguapkan airnya, atau panaskan dalam microwave menggunakan wadah aman selama 20–30 detik. Setelah dingin, garam akan kembali menjadi butiran halus dan kering."
+                    }
+                ]
+            }
+        }
+    }
+}
