@@ -25,36 +25,60 @@ const allIngredients = [
   ...vegetableIngredients,
 ];
 
-const blogToIngMap: Record<string, string> = {
+const ingredientAliasMap: Record<string, string> = {
   'how-to-store-apples': 'apple',
-  'how-to-store-avocado': 'avocado',
   'how-to-store-bananas': 'banana',
-  'how-to-store-beef': 'beef',
-  'how-to-store-bread': 'bread',
-  'how-to-store-chicken': 'chicken',
   'how-to-store-eggs': 'egg',
-  'how-to-store-garlic': 'garlic',
-  'how-to-store-green-onions': 'green-onion',
-  'how-to-store-milk': 'milk',
   'how-to-store-mushrooms': 'mushroom',
-  'how-to-store-nuts': 'nuts',
-  'how-to-store-olive-oil': 'olive-oil',
   'how-to-store-onions': 'onion',
-  'how-to-store-perilla-oil': 'perilla-oil',
   'how-to-store-potatoes': 'potato',
-  'how-to-store-salmon': 'salmon',
-  'how-to-store-spinach': 'spinach',
-  'how-to-store-squid': 'squid',
-  'how-to-store-tofu': 'tofu',
   'how-to-store-tomatoes': 'tomato',
-  'how-to-store-watermelon': 'watermelon'
+  'how-to-store-cherries': 'cherry',
+  'how-to-store-tangerines': 'tangerine',
+  'how-to-store-clams': 'clam',
+  'how-to-store-anchovies': 'anchovy',
+  'how-to-store-olives': 'olive',
+  'how-to-store-nuts': 'nuts',
+  'how-to-store-beans': 'bean',
+  'how-to-store-oats': 'oats',
+  'how-to-store-fresh-herbs': 'herb',
+  'how-to-store-tea-leaves': 'tea-leaf',
+  'how-to-store-sausages': 'sausage',
+  'how-to-store-chili-peppers': 'chili-pepper',
+  'how-to-store-bell-peppers': 'bell-pepper',
+  'how-to-store-sweet-potatoes': 'sweet-potato',
+  'how-to-store-coffee-beans': 'coffee-bean',
+  'how-to-store-oysters': 'oysters'
 };
 
 const getIngredientName = (postId: string, lang: string) => {
   const slug = postId.split('/').pop() || '';
-  const ingId = blogToIngMap[slug];
+  
+  // 1. 별칭 맵 매칭
+  let ingId = ingredientAliasMap[slug];
+  
+  // 2. 접두사 제거 기반 자동 추론 (e.g. how-to-store-peanut-butter -> peanut-butter)
+  if (!ingId && slug.startsWith('how-to-store-')) {
+    ingId = slug.replace(/^how-to-store-/, '');
+  }
+
   if (!ingId) return '';
-  const ing = allIngredients.find((i) => i.id === ingId);
+
+  // 3. ID 완전 일치 또는 단수/복수 변형 검색
+  let ing = allIngredients.find((i) => i.id === ingId);
+  if (!ing && ingId.endsWith('s')) {
+    const singularId = ingId.slice(0, -1);
+    ing = allIngredients.find((i) => i.id === singularId);
+  }
+  if (!ing && ingId.endsWith('es')) {
+    const singularId = ingId.slice(0, -2);
+    ing = allIngredients.find((i) => i.id === singularId);
+  }
+  if (!ing && ingId.endsWith('ies')) {
+    const singularId = ingId.slice(0, -3) + 'y';
+    ing = allIngredients.find((i) => i.id === singularId);
+  }
+
   if (!ing) return '';
   return ing.names[lang as any] || ing.names['en'] || '';
 };

@@ -1,0 +1,406 @@
+{
+    "how-to-store-crab": {
+        "ingId": "crab",
+        "pubDate": "2026-05-15",
+        "updatedDate": "2026-05-15",
+        "heroImage": "/images/blog/crab_storage_hack.webp",
+        "locales": {
+            "ko": {
+                "title": "게(꽃게) 신선하게 보관하는 법: 과학적 보관 가이드",
+                "description": "공인된 안전 가이드라인에 따른 게(꽃게)의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+                "authority": "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>",
+                "intro": "싱싱한 생물 꽃게를 사왔는데 냉장고에 넣어두었다가 살이 다 녹아내리거나 비린내가 심해져 버린 적 있으시죠? 🦀\n\n게는 죽는 순간 내장 속 강력한 단백질 분해 효소에 의해 살이 스스로 녹아내리는 '자기소화(Autolysis)' 현상이 빠르게 일어납니다. 게다가 비브리오균 등 세균 번식이 매우 빠른 고위험 수산물이므로 생물 상태로 방치하면 살이 푸석해지고 맛이 손상됩니다.\n\n오늘 FreshSnap에서는 농업 및 식품 안전 전문가들의 검증된 가이드라인을 바탕으로, 게의 살수율과 탱글한 식감을 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+                "guideTitle": "과학적으로 검증된 보관 가이드",
+                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+                "cautions": [
+                    {
+                        "title": "생물 게를 수돗물에 오랫동안 담가두지 마세요 ⚠️",
+                        "desc": "게는 삼투압 변화에 매우 약해 수돗물에 오래 담그면 금세 죽어버리고 자기소화가 진행됩니다. 세척은 조리 직전에 겉면만 솔로 가볍게 구석구석 문질러 씻어야 합니다."
+                    },
+                    {
+                        "title": "죽은 게를 내장 그대로 상온이나 냉장에 오래 방치하지 마세요 🦀",
+                        "desc": "게가 죽으면 내장의 효소가 살로 침투하여 살을 녹이고 암모니아 및 세균 오염을 유발합니다. 죽은 생물 게는 즉시 찌거나 내장을 정리한 후 보관해야 합니다."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "살아있는 게는 젖은 천으로 감싸 단기 냉장하기 — 단기 생존 보관 🦀",
+                        "text": "생물 게를 바로 조리할 수 없다면 짧은 시간 동안 신선도를 유지해야 합니다. 💡 보관 팁: 씻지 않은 살아있는 게를 젖은 신문지나 젖은 타월로 감싸 톱밥이나 전용 용기에 담은 뒤 냉장실(1~4℃)에 두세요. 약 1일 동안 살아있는 상태를 유지할 수 있습니다."
+                    },
+                    {
+                        "name": "쪄서 보관하는 것이 가장 안전 — 자숙 후 냉장/냉동 (2일 / 2~3달) ♨️",
+                        "text": "게의 맛과 살을 가장 완벽하게 지키는 방법은 사오자마자 쪄서(자숙) 보관하는 것입니다. 💡 보관 팁: 생물 게를 솔로 씻은 뒤 배가 위로 오게 하여 쪄주세요. 식힌 후 밀폐용기나 지퍼백에 이중 포장하여 냉장(2일) 또는 냉동실(-18℃ 이하, 2~3개월)에 보관하세요."
+                    },
+                    {
+                        "name": "손질 후 1회분씩 밀폐 냉동 보관하기 — 생물 냉동 보관 (1개월) 🧊",
+                        "text": "생물 상태로 냉동하려면 내장 부패와 수분 마름을 방지해야 합니다. 💡 보관 팁: 솔로 깨끗이 씻은 후 아가미와 불필요한 부분을 정리하거나 껍질째 1회분씩 지퍼백에 담아 공기를 빼고 밀봉하여 냉동실(-18℃ 이하)에 보관하세요. 최대 1개월간 탕이나 찌개용으로 활용할 수 있습니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "보관했던 게를 꺼내보니 살이 흘러내리고 국물만 남아있는 이유는 무엇인가요?",
+                        "answer": "게가 죽은 후 내장의 효소가 살을 분해하는 '자기소화' 현상 때문입니다. 생물 게를 오래 방치하면 살이 녹아 수분으로 빠져나가므로, 사오자마자 찌거나 바로 손질하여 냉동해야 탱글한 살을 지킬 수 있습니다."
+                    },
+                    {
+                        "question": "이미 죽어있는 게를 사왔거나 보관 중 죽은 게는 먹어도 되나요?",
+                        "answer": "냉장 상태에서 죽은 지 얼마 되지 않은 게는 냄새를 확인한 후 즉시 쪄서 드셔도 됩니다. 하지만 이상한 냄새(암모니아/악취)가 나거나 살이 물러졌다면 세균 번식 위험이 있으므로 드시지 말고 폐기해야 합니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "How to Store Crab: Scientific Storage Guide",
+                "description": "Check the optimal storage temperature, method, and shelf life for crabs based on official safety guidelines.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Have you ever bought fresh crabs only to find their meat melted away into liquid or smelling fishy after a short time in the fridge? 🦀\n\nWhen a crab dies, powerful digestive enzymes in its guts trigger a rapid process called autolysis, causing the meat to dissolve quickly. Furthermore, crabs are high-risk seafood prone to rapid bacterial multiplication (such as Vibrio species), making proper storage essential to preserve flesh density and taste.\n\nToday, FreshSnap introduces a scientifically proven 3-step crab storage guide based on guidelines from agriculture and food safety authorities to keep your crab meat sweet, firm, and safe. 🛡️",
+                "whyTitle": "Why Store Crab This Way? Scientific Facts",
+                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+                "guideTitle": "Scientifically Proven Storage Guide",
+                "cautionTitle": "Essential Storage Rules and Cautions",
+                "cautions": [
+                    {
+                        "title": "Never submerge live crabs in fresh tap water for storage ⚠️",
+                        "desc": "Submerging live crabs in tap water causes osmotic shock, killing them rapidly and initiating autolysis. Scrub the shells clean with a brush right before cooking."
+                    },
+                    {
+                        "title": "Never leave dead raw crabs uncleaned at room temperature or in the fridge 🦀",
+                        "desc": "Once dead, gut enzymes penetrate into the muscle tissue, liquefying the meat and generating ammonia and bacteria. Dead raw crabs must be steamed immediately or cleaned and frozen."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Wrap live crabs with a damp cloth for short-term refrigeration — Short-term Survival Storage 🦀",
+                        "text": "If you cannot cook live crabs immediately, keep them moist and cold. 💡 Storage Tip: Wrap unwashed live crabs in a damp towel or damp newspaper and place them in a cool container in the refrigerator (1–4°C / 34–39°F). They can stay alive for up to 1 day."
+                    },
+                    {
+                        "name": "Steaming before storage is safest — Steamed Cold/Freezer Storage (2 Days / 2–3 Months) ♨️",
+                        "text": "The best way to preserve crab meat texture and flavor is to steam them right after buying. 💡 Storage Tip: Scrub live crabs clean and steam them upside down (belly facing up). Cool down, double-seal in airtight bags/containers, and refrigerate (2 days) or freeze below -18°C (2–3 months)."
+                    },
+                    {
+                        "name": "Clean and freeze in portions — Raw Freezer Storage (1 Month) 🧊",
+                        "text": "To freeze crabs raw, prevent internal gut degradation and freezer burn. 💡 Storage Tip: Scrub thoroughly, remove gills and stomach if desired (or keep whole if frozen rapidly), portion into Ziploc bags, remove air, and freeze below -18°C. Best used for soups and stews within 1 month."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Why did the crab meat turn mushy or disappear into liquid after storage?",
+                        "answer": "This is caused by autolysis—digestive enzymes breaking down muscle tissue after the crab dies. To prevent mushy meat, steam live crabs immediately after purchasing or clean and freeze them right away."
+                    },
+                    {
+                        "question": "Is it safe to cook and eat crabs that died during storage?",
+                        "answer": "If the crab died recently while kept cold and smells fresh, steam and cook it thoroughly right away. However, if it emits an ammonia or foul odor, discard it immediately due to bacterial risks."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "カニ（ワタリガニ）を新鮮に保つ保存方法：科学的保管ガイド",
+                "description": "公的安全基準に基づくカニの最適な保存温度、保管方法、保存期間をご確認ください。",
+                "authority": "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>",
+                "intro": "生きた新鮮なカニを買ってきたものの、冷蔵庫に入れておいたら身が溶けてドロドロになったり、生臭くなって捨てた経験はありませんか？🦀\n\nカニは死ぬと内臓にある強力な分解酵素によって自身の身を溶かす「自己消化（Autolysis）」という現象が急速に起こります。さらにビブリオ菌などの細菌が繁殖しやすい高リスクな水産物であるため、生もののまま放置すると身がパサつき味が損なわれます。\n\n本日FreshSnapでは、専門家による検証済みガイドラインに基づき、カニの身の詰まりとプリプリした食感を守る3段階の科学的保存法をご紹介します。🛡️",
+                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+                "guideTitle": "科学的に検証された保存ガイド",
+                "cautionTitle": "保存時の必須ルールと注意事項",
+                "cautions": [
+                    {
+                        "title": "生きたカニを真水（水道水）に長期間浸さないでください ⚠️",
+                        "desc": "カニは浸透圧の変化に弱く、水道水に長く浸すとすぐに死んで自己消化が始まります。洗浄は調理直前にブラシで表面を軽くこする程度にしてください。"
+                    },
+                    {
+                        "title": "死んだカニを内臓のまま常温や冷蔵に放置しないでください 🦀",
+                        "desc": "カニが死ぬと内臓の酵素が身に浸透して身を溶かし、アンモニアや細菌汚染を引き起こします。死んだ生の力ニはすぐに蒸すか、内臓を処理して保存してください。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "生きたカニは濡れ布で包んで短時間冷蔵する — 短期生存保存 🦀",
+                        "text": "すぐに調理できない場合は、湿度と低温を保ちます。💡保存のコツ：洗っていない生きたカニを濡れた新聞紙やタオルで包み、冷蔵室（1〜4℃）に置きます。約1日間生存可能です。"
+                    },
+                    {
+                        "name": "蒸してから保存するのが最も安全 — 蒸し後の冷蔵/冷凍 (2日間 / 2〜3ヶ月間) ♨️",
+                        "text": "カニの味と身を完璧に守る一番の方法は、買ってすぐに蒸す（ボイルする）ことです。💡保存のコツ：カニを洗い、お腹を上にして蒸します。冷ましてから密閉袋や容器に入れて二重密封し、冷蔵（2日）または冷凍（-18℃以下、2〜3ヶ月）で保存します。"
+                    },
+                    {
+                        "name": "下処理して小分け密封冷凍する — 生冷凍保存 (1ヶ月間) 🧊",
+                        "text": "生のまま冷凍する場合は、内臓の腐敗と乾燥を防ぎます。💡保存のコツ：ブラシできれいに洗い、エラなどを処理して小分けにし、ジッパーバッグに入れて空気を抜いて密閉し、冷凍室（-18℃以下）で保存します。鍋もの用として1ヶ月間使用できます。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "保存したカニを取り出したら、身が溶けて汁だけになっていた理由は何ですか？",
+                        "answer": "カニが死んだ後に内臓の酵素が身を分解する「自己消化」現象のためです。生のまま放置すると身が溶けて水分として流出するため、買ってすぐに蒸すか下処理して冷凍してください。"
+                    },
+                    {
+                        "question": "保存中に死んでしまったカニは食べても大丈夫ですか？",
+                        "answer": "冷蔵状態で死んで間もないもので、匂いに問題がなければすぐにしっかり蒸して加熱調理すれば召し上がれます。ただしアンモニア臭や悪臭がする場合は破棄してください。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "如何保持螃蟹（梭子蟹）新鲜：科学储存指南",
+                "description": "根据官方食品安全指南，了解螃蟹的最佳储存温度、方式和保鲜时长。",
+                "authority": "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "intro": "您是否曾买回活崩乱跳的螃蟹，存放在冰箱几天后拿出来却发现蟹肉融化成水、散发腥臭味？🦀\n\n螃蟹死亡后，蟹膏蟹黄中的强效消化酶会引发自溶（Autolysis）现象，迅速分解融化蟹肉。此外，螃蟹极易滋生副溶血性弧菌等细菌，如果死后生存放置，蟹肉会迅速变空变软，品质大打折扣。\n\n今天FreshSnap基于权威机构的安全指南，为您介绍3步科学保存秘诀，帮您锁定蟹肉的紧实饱满与鲜美。🛡️",
+                "whyTitle": "为什么要这样储存？科学原理",
+                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+                "guideTitle": "科学验证的储存指南",
+                "cautionTitle": "储存必需规则及注意事项",
+                "cautions": [
+                    {
+                        "title": "切勿将活蟹长时间浸泡在自来水中 ⚠️",
+                        "desc": "螃蟹对渗透压变化极度敏感，泡在自来水中会加速死亡并引发自溶。清洗请留到烹饪前用刷子轻刷即可。"
+                    },
+                    {
+                        "title": "切勿将死蟹带内脏长时间置于常温或冷藏 🦀",
+                        "desc": "螃蟹死亡后内脏中的酶会侵蚀肉质，使其融化并产生氨气与细菌污染。死蟹应立即蒸熟或清理内脏后储存。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "活蟹用湿布包裹短时冷藏 — 短期保活储存 🦀",
+                        "text": "如果无法立即烹饪，需保持湿润与低温。💡储存小贴士：用湿报纸或湿毛巾包裹未经清洗的活蟹，放入冰箱冷藏室（1~4℃），可保活约1天。"
+                    },
+                    {
+                        "name": "蒸熟后储存最为安全 — 蒸熟冷藏/冷冻 (2天 / 2~3个月) ♨️",
+                        "text": "完美保留蟹肉口感与鲜味的最佳方法是买回后立即蒸熟。💡储存小贴士：洗净螃蟹，腹部朝上蒸熟。冷却后放入密封袋双层密封，冷藏（2天）或冷冻（-18℃以下，2~3个月）。"
+                    },
+                    {
+                        "name": "处理后分装密封冷冻 — 生蟹冷冻保存 (1个月) 🧊",
+                        "text": "若要冷冻生蟹，需防止内脏腐败与水分干涸。💡储存小贴士：用刷子洗净后去腮去内脏（或整只快速冷冻），分装入拉链袋排尽空气密封，置于冷冻室（-18℃以下）保存，适用于煮汤，可保存1个月。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "储存后的螃蟹拿出来发现肉都化成水了，这是为什么？",
+                        "answer": "这是螃蟹死亡后内脏酶分解肉质的“自溶”现象。生蟹久放会导致肉质溶化流失，买回后立即蒸熟或处理后冷冻是保持蟹肉紧实的关键。"
+                    },
+                    {
+                        "question": "储存过程中死亡的螃蟹还能吃吗？",
+                        "answer": "如果是在冷藏条件下刚死不久且无异味，可以立即蒸熟透彻底烹饪食用。但如果散发出氨气味或恶臭，说明已滋生细菌，必须丢弃。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cómo mantener los cangrejos frescos: Guía científica de conservación",
+                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para los cangrejos según las directrices oficiales de seguridad.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "¿Alguna vez compró cangrejos frescos y, tras dejarlos en el refrigerador, descubrió que la carne se había disuelto o despedía un fuerte olor a pescado? 🦀\n\nAl morir un cangrejo, enzimas digestivas en sus vísceras desencadenan un proceso llamado autólisis, que disuelve rápidamente la carne. Además, son mariscos de alto riesgo propensos a la rápida proliferación bacteriana, por lo que un almacenamiento adecuado es esencial.\n\nHoy, FreshSnap presenta una guía de conservación en 3 pasos respaldada por expertos para mantener la carne de sus cangrejos firme, dulce y segura. 🛡️",
+                "whyTitle": "¿Por qué almacenarlos así? Datos científicos",
+                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+                "guideTitle": "Guía de almacenamiento científicamente probada",
+                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+                "cautions": [
+                    {
+                        "title": "Nunca sumerja cangrejos vivos en agua dulce del grifo ⚠️",
+                        "desc": "El agua dulce causa choque osmótico en los cangrejos vivos, matándolos rápidamente e iniciando la autólisis. Lávelos con un cepillo justo antes de cocinar."
+                    },
+                    {
+                        "title": "Nunca deje cangrejos muertos crudos con vísceras a temperatura ambiente o en el refrigerador 🦀",
+                        "desc": "Una vez muertos, las enzimas viscerales ablandan la carne y generan amoníaco y bacterias. Los cangrejos muertos deben cocinarse al vapor de inmediato o limpiarse y congelarse."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Envuelva los cangrejos vivos con un paño húmedo para refrigeración breve — Conservación viva (1 día) 🦀",
+                        "text": "Si no puede cocinarlos de inmediato, manténgalos fríos y húmedos. 💡 Consejo de almacenamiento: Envuelva los cangrejos vivos sin lavar en un paño húmedo o periódico húmedo y colóquelos en el refrigerador (1–4 °C). Permanecerán vivos unas 24 horas."
+                    },
+                    {
+                        "name": "Cocinar al vapor antes de almacenar es lo más seguro — Refrigeración/Congelación al vapor (2 días / 2–3 meses) ♨️",
+                        "text": "La mejor manera de preservar el sabor y la textura es cocinarlos al vapor al comprar. 💡 Consejo de almacenamiento: Cepille los cangrejos y cocínelos al vapor boca arriba (con el vientre hacia arriba). Enfríe, selle en bolsas herméticas y refrigere (2 días) o congele a menos de -18 °C (2–3 meses)."
+                    },
+                    {
+                        "name": "Limpie, porcione y congele al vacío — Congelación cruda (1 mes) 🧊",
+                        "text": "Para congelar cangrejos crudos, evite el deterioro de las vísceras. 💡 Consejo de almacenamiento: Cepille bien, retire las branquias y vísceras, divida en bolsas Ziploc sacando todo el aire y congele a menos de -18 °C por hasta 1 mes."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Por qué la carne del cangrejo se volvió blanda o líquida después de guardarlo?",
+                        "answer": "Se debe a la autólisis: las enzimas digestivas descomponen el músculo al morir el cangrejo. Para evitarlo, cocínelos al vapor al momento de comprarlos o límpielos y congélelos inmediatamente."
+                    },
+                    {
+                        "question": "¿Es seguro comer un cangrejo que murió durante el almacenamiento?",
+                        "answer": "Si murió recientemente en refrigeración y no huele mal, cocínelo al vapor a alta temperatura de inmediato. Si despide olor a amoníaco o putrefacción, deséchelo inmediatamente."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Comment conserver les crabes frais : Guide scientifique de conservation",
+                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le crabe selon les directives officielles de sécurité.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Avez-vous déjà acheté des crabes frais pour constater après quelques heures au réfrigérateur que leur chair s'était liquéfiée ou qu'ils dégageaient une forte odeur ? 🦀\n\nÀ la mort du crabe, des enzymes digestives puissantes provoquent un phénomène appelé autolyse, qui dissout rapidement la chair. De plus, les crabes sont des produits de la mer très sensibles aux proliférations bactériennes, rendant un stockage adéquat indispensable.\n\nAujourd'hui, FreshSnap vous présente un guide scientifique en 3 étapes recommandé par des experts pour préserver la fermeté et la saveur de vos crabes. 🛡️",
+                "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
+                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+                "guideTitle": "Guide de conservation scientifiquement prouvé",
+                "cautionTitle": "Règles essentielles et précautions de stockage",
+                "cautions": [
+                    {
+                        "title": "N'immergez jamais de crabes vivants dans l'eau du robinet ⚠️",
+                        "desc": "L'eau douce provoque un choc osmotique qui tue rapidement les crabes et déclenche l'autolyse. Brosser la carapace uniquement juste avant la cuisson."
+                    },
+                    {
+                        "title": "Ne laissez jamais de crabes morts crus avec leurs viscères au réfrigérateur 🦀",
+                        "desc": "Dès la mort, les enzymes digestives liquéfient la chair et favorisent les bactéries. Les crabes morts doivent être cuits à la vapeur immédiatement ou nettoyés et congelés."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Envelopper les crabes vivants dans un linge humide pour une courte réfrigération — Conservation vivante (1 jour) 🦀",
+                        "text": "Si vous ne pouvez pas les cuire immédiatement, gardez-les humides et au frais. 💡 Astuce de conservation : Enveloppez les crabes vivants non lavés dans un torchon humide ou du papier journal humide et placez-les au réfrigérateur (1–4 °C) pendant 1 jour maximum."
+                    },
+                    {
+                        "name": "Cuire à la vapeur avant de stocker est la méthode la plus sûre — Conservation cuite (2 jours / 2 à 3 mois) ♨️",
+                        "text": "Cuire les crabes dès l'achat est la meilleure façon de préserver leur chair. 💡 Astuce de conservation : Brossez les crabes et cuisez-les à la vapeur le ventre vers le haut. Laissez refroidir, fermez dans un sachet hermétique et réfrigérez (2 jours) ou congelez sous -18 °C (2 à 3 mois)."
+                    },
+                    {
+                        "name": "Nettoyer et congeler en portions — Congélation crue (1 mois) 🧊",
+                        "text": "Pour congeler du crabe cru, évitez l'altération des viscères. 💡 Astuce de conservation : Brossez soigneusement, retirez les branchies et viscères, répartissez dans des sacs congélation en enlevant l'air et congelez sous -18 °C pour une utilisation en soupe sous 1 mois."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Pourquoi la chair du crabe s'est-elle liquéfiée après le stockage ?",
+                        "answer": "C'est l'autolyse : les enzymes digestives détruisent les tissus musculaires dès la mort du crabe. Pour l'éviter, cuisez les crabes vivants dès l'achat ou nettoyez-les avant de les congeler."
+                    },
+                    {
+                        "question": "Peut-on consommer un crabe mort pendant le stockage ?",
+                        "answer": "S'il est mort très récemment au frais et ne dégage aucune mauvaise odeur, cuisez-le immédiatement à cœur. En revanche, s'il dégage une odeur d'ammoniaque, jetez-le."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Krabben & Taschenkrebse richtig frisch halten: Wissenschaftlicher Ratgeber",
+                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Krabben basierend auf offiziellen Sicherheitsrichtlinien.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Haben Sie schon einmal frische Krebse gekauft, nur um nach kurzer Zeit im Kühlschrank festzustellen, dass sich das Fleisch verflüssigt hatte oder unangenehm roch? 🦀\n\nWenn ein Krebs stirbt, führen körpereigene Verdauungsenzyme zu einer raschen Selbstauflösung (Autolyse) des Fleischs. Zudem neigen Krustentiere zu schneller Bakterienvermehrung, weshalb die richtige Lagerung entscheidend ist.\n\nHeute stellt Ihnen FreshSnap einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um das Krebsfleisch fest, süß und sicher zu halten. 🛡️",
+                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+                "cautions": [
+                    {
+                        "title": "Legen Sie lebende Krebse niemals in Leitungswasser ⚠️",
+                        "desc": "Süßwasser führt bei lebenden Meereskrebsen zu einem osmotischen Schock, der sie schnell tötet und die Autolyse einleitet. Erst direkt vor dem Kochen mit einer Bürste reinigen."
+                    },
+                    {
+                        "title": "Lassen Sie tote Krebse niemals ungeputzt bei Raumtemperatur oder im Kühlschrank 🦀",
+                        "desc": "Nach dem Tod verflüssigen Verdauungsenzyme das Fleisch und begünstigen Bakterien. Tote Krebse müssen sofort gedämpft oder ausgenommen und eingefroren werden."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Lebende Krebse in ein feuchtes Tuch wickeln und kurz kühlen — Kurzzeitige Lebendlagerung 🦀",
+                        "text": "Wenn Sie sie nicht sofort kochen können, halten Sie sie feucht und kühl. 💡 Lagerungstipp: Ungewaschene Krebse in ein feuchtes Tuch oder feuchtes Zeitungspapier wickeln und im Kühlschrank (1–4 °C) bis zu 1 Tag lagern."
+                    },
+                    {
+                        "name": "Dämpfen vor der Lagerung ist am sichersten — Gekühlte/Gefrorene Lagerung (2 Tage / 2–3 Monate) ♨️",
+                        "text": "Die beste Methode, um Fleischstruktur und Geschmack zu sichern, ist das Dämpfen direkt nach dem Kauf. 💡 Lagerungstipp: Krebse abbürsten und mit dem Bauch nach oben dämpfen. Abkühlen lassen, luftdicht verpacken und kühlen (2 Tage) oder bei unter -18 °C einfrieren (2–3 Monate)."
+                    },
+                    {
+                        "name": "Putzen, portionieren und einfrieren — Rohe Gefrierlagerung (1 Monat) 🧊",
+                        "text": "Zum rohen Einfrieren müssen Kiemen und Innereien entfernt werden. 💡 Lagerungstipp: Gründlich reinigen, Kiemen entfernen, in Ziploc-Beutel portionieren, Luft herausdrücken und bei unter -18 °C bis zu 1 Monat lang einfrieren."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Warum ist das Krebsfleisch nach der Lagerung matschig oder flüssig geworden?",
+                        "answer": "Dies liegt an der Autolyse: Verdauungsenzyme zersetzen das Muskelgewebe nach dem Tod des Krebses. Dämpfen Sie lebende Krebse daher direkt nach dem Kauf oder frieren Sie sie ausgenommen ein."
+                    },
+                    {
+                        "question": "Kann man einen Krebs essen, der während der Lagerung gestorben ist?",
+                        "answer": "Ist er erst vor Kurzem im kühlen Zustand gestorben und riecht frisch, sollte er sofort gründlich durchgegart werden. Riecht er nach Ammoniak oder verdorben, entsorgen Sie ihn umgehend."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Como conservar caranguejo fresco: Guia científico de armazenamento",
+                "description": "Descubra a temperatura, método e tempo de conservação ideais para caranguejos com base em diretrizes oficiais de segurança.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Você já comprou caranguejos vivos e percebeu que, após um tempo na geladeira, a carne se dissolveu ou ficou com cheiro forte? 🦀\n\nQuando o caranguejo morre, enzimas digestivas presentes nas vísceras causam um processo rápido chamado autólise, que liquaz a carne. Além disso, são frutos do mar suscetíveis a bactérias, tornando o armazenamento correto indispensável.\n\nHoje, o FreshSnap apresenta um guia de conservação em 3 etapas para manter a carne de caranguejo firme, saborosa e segura. 🛡️",
+                "whyTitle": "Por que armazenar assim? Fatos científicos",
+                "whyDesc": "Compreender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+                "guideTitle": "Guia de armazenamento comprovado cientificamente",
+                "cautionTitle": "Regras essenciais e precauções no armazenamento",
+                "cautions": [
+                    {
+                        "title": "Nunca submerja caranguejos vivos em água doce da torneira ⚠️",
+                        "desc": "A água doce causa choque osmótico nos caranguejos vivos, matando-os rapidamente e iniciando a autólise. Lave com escova apenas antes de cozinhar."
+                    },
+                    {
+                        "title": "Nunca deixe caranguejos mortos crus com vísceras na geladeira 🦀",
+                        "desc": "Após a morte, enzimas viscerais amolecem a carne e geram amônia e bactérias. Caranguejos mortos devem ser cozidos ao vapor imediatamente ou limpos e congelados."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Envolva caranguejos vivos em um pano úmido para refrigeração rápida — Conservação viva (1 dia) 🦀",
+                        "text": "Se não puder cozinhar imediatamente, mantenha-nos frios e úmidos. 💡 Dica de conservação: Envolva caranguejos vivos sem lavar em um pano úmido e guarde na geladeira (1–4 °C) por até 1 dia."
+                    },
+                    {
+                        "name": "Cozinhar ao vapor antes de armazenar é o mais seguro — Conservação cozida (2 dias / 2–3 meses) ♨️",
+                        "text": "A melhor maneira de preservar o sabor e textura é cozinhar ao vapor logo após a compra. 💡 Dica de conservação: Escove os caranguejos e cozinhe ao vapor com a barriga para cima. Esfrie, sele em potes/sacos e refrigere (2 dias) ou congele a menos de -18 °C (2–3 meses)."
+                    },
+                    {
+                        "name": "Limpe, porcione e congele — Congelação crua (1 mês) 🧊",
+                        "text": "Para congelar cru, evite a deterioração das vísceras. 💡 Dica de conservação: Lave bem, retire guelras e vísceras, divida em sacos Ziploc retirando o ar e congele a menos de -18 °C por até 1 mês."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Por que a carne do caranguejo ficou mole ou líquida após o armazenamento?",
+                        "answer": "Isso ocorre devido à autólise: enzimas digestivas decompõem o tecido muscular após a morte. Para evitar, cozinhe ao vapor logo após a compra ou limpe e congele imediatamente."
+                    },
+                    {
+                        "question": "É seguro comer um caranguejo que morreu durante o armazenamento?",
+                        "answer": "Se morreu recentemente sob refrigeração e não tem cheiro ruim, cozinhe ao vapor imediatamente. Se exalar cheiro de amônia ou deterioração, descarte imediatamente."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Cara Menyimpan Kepiting agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk kepiting berdasarkan pedoman keselamatan resmi.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Pernahkah Anda membeli kepiting segar lalu mendapati dagingnya mencair atau berbau amis setelah disimpan sebentar di kulkas? 🦀\n\nKetika kepiting mati, enzim pencernaan yang kuat pada organ dalamnya memicu proses cepat yang disebut autolisis, menyebabkan dagingnya mencair. Selain itu, kepiting adalah makanan laut berisiko tinggi yang rentan terhadap bakteri, sehingga penyimpanan yang benar sangat penting.\n\nHari ini, FreshSnap membagikan panduan penyimpanan kepiting 3 langkah berbasis ilmiah untuk menjaga daging kepiting Anda tetap padat, manis, dan aman. 🛡️",
+                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+                "cautions": [
+                    {
+                        "title": "Jangan pernah merendam kepiting hidup dalam air keran ⚠️",
+                        "desc": "Merendam kepiting hidup dalam air tawar menyebabkan kejutan osmotik, membunuhnya dengan cepat dan memicu autolisis. Sikat cangkangnya tepat sebelum dimasak."
+                    },
+                    {
+                        "title": "Jangan biarkan kepiting mati mentah beserta organ dalamnya di suhu ruang atau kulkas 🦀",
+                        "desc": "Begitu mati, enzim organ dalam melunakkan daging serta memicu bau amonia dan bakteri. Kepiting mati harus segera dikukus atau dibersihkan lalu dibekukan."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Bungkus kepiting hidup dengan kain basah untuk pendinginan singkat — Penyimpanan Hidup Singkat 🦀",
+                        "text": "Jika tidak dapat langsung dimasak, jaga tetap dingin dan lembap. 💡 Tips Penyimpanan: Bungkus kepiting hidup yang belum dicuci dengan kain basah atau koran basah lalu simpan di kulkas (1–4°C) hingga 1 hari."
+                    },
+                    {
+                        "name": "Mengukus sebelum disimpan adalah cara paling aman — Simpan Kukus (2 Hari / 2–3 Bulan) ♨️",
+                        "text": "Cara terbaik menjaga tekstur dan rasa daging kepiting adalah mengukusnya segera setelah dibeli. 💡 Tips Penyimpanan: Sikat kepiting hingga bersih lalu kukus dengan posisi perut menghadap ke atas. Dinginkan, tutup rapat dalam kantong/wadah kedap udara, lalu simpan di kulkas (2 hari) atau freezer di bawah -18°C (2–3 bulan)."
+                    },
+                    {
+                        "name": "Bersihkan, bagi porsi, lalu bekukan — Simpan Beku Mentah (1 Bulan) 🧊",
+                        "text": "Untuk membekukan kepiting mentah, cegah pembusukan organ dalam. 💡 Tips Penyimpanan: Sikat hingga bersih, buang insang dan kotoran, bagi porsi ke kantong Ziploc sambil mengeluarkan udara, lalu bekukan di bawah -18°C hingga 1 bulan (cocok untuk sup)."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mengapa daging kepiting menjadi lembek atau mencair setelah disimpan?",
+                        "answer": "Hal ini disebabkan oleh autolisis: enzim pencernaan menguraikan jaringan otot setelah kepiting mati. Untuk mencegahnya, segera kukus kepiting hidup setelah dibeli atau bersihkan lalu bekukan."
+                    },
+                    {
+                        "question": "Apakah aman mengonsumsi kepiting yang mati selama penyimpanan?",
+                        "answer": "Jika kepiting baru saja mati dalam kondisi dingin dan aromanya tetap segar, segera kukus hingga matang sempurna. Namun jika mengeluarkan bau amonia atau busuk, segera buang demi keselamatan."
+                    }
+                ]
+            }
+        }
+    }
+}

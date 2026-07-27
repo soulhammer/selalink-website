@@ -1,0 +1,406 @@
+{
+    "how-to-store-condensed-milk": {
+        "ingId": "condensed-milk",
+        "pubDate": "2026-06-26",
+        "updatedDate": "2026-06-26",
+        "heroImage": "/images/blog/condensed_milk_storage_hack.webp",
+        "locales": {
+            "ko": {
+                "title": "연유 신선하게 보관하는 법: 과학적 보관 가이드",
+                "description": "공인된 안전 가이드라인에 따른 연유의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+                "authority": "<strong>미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)</strong>",
+                "intro": "달콤한 연유를 개봉해 빙수나 커피에 넣고 남은 캔째로 냉장고에 넣어두었다가 설탕 결정이 생기거나 변질되어 버린 적 있으시죠? 🥛\n\n연유는 수분을 증발시키고 당도를 높여 높은 보존력을 가지지만, 개봉 후 공기와 접촉하면 금속 캔의 부식, 냉장고 잡내 흡수, 설탕 결정화 및 곰팡이 유입이 급격히 일어납니다. 특히 캔 연유는 개봉 즉시 밀폐 용기로 옮겨 담는 것이 신선도 유지의 핵심입니다.\n\n오늘 FreshSnap에서는 미국 농무부(USDA)와 식품의약품안전처(MFDS) 등의 안전 가이드라인을 바탕으로, 연유를 부드럽고 달콤하게 오랫동안 보관하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+                "guideTitle": "과학적으로 검증된 보관 가이드",
+                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+                "cautions": [
+                    {
+                        "title": "개봉 후 절대로 캔째로 보관하지 마세요 ⚠️",
+                        "desc": "캔 연유를 개봉한 후 캔째 냉장고에 두면 산소와 반응하여 캔 내부 금속이 부식되고 이취(금속 맛)가 연유에 배어 풍미를 망칩니다. 개봉 즉시 유리병이나 식품용 밀폐 용기로 옮겨야 합니다."
+                    },
+                    {
+                        "title": "물기나 침이 묻은 도구를 사용하지 마세요 💧",
+                        "desc": "연유는 당도가 높아 균 번식이 어렵지만, 물기나 음식이 묻은 스푼을 넣으면 부분적으로 수분 활성도가 높아져 곰팡이가 피기 쉽습니다. 반드시 깨끗하고 완전히 마른 스푼을 사용하세요."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "미개봉 제품은 서늘한 찬장에 보관하기 — 상온 보관 (최대 1년) 📦",
+                        "text": "미개봉 캔이나 튜브형 연유는 멸균 처리되어 상온 보관이 가능합니다. 💡 보관 팁: 직사광선과 가스레인지 주변의 열기를 피해 서늘하고 건조한 찬장(15~20℃)에 보관하세요. 개봉 전까지 최대 1년 동안 안전하게 유지됩니다."
+                    },
+                    {
+                        "name": "개봉 후 깨끗한 유리 밀폐 용기로 옮겨 담기 — 이취 및 산화 방지 🫙",
+                        "text": "캔 연유는 개봉 직후 산소와 접촉하여 변질되기 시작합니다. 💡 보관 팁: 캔을 따자마자 열탕 소독한 깨끗한 유리병이나 식품용 밀폐 용기에 담아 뚜껑을 밀봉해 주세요. 금속 맛이 배는 것을 막고 공기 접촉을 차단합니다."
+                    },
+                    {
+                        "name": "0~4℃ 냉장 보관하기 — 냉장 보관 (2~3주) ❄️",
+                        "text": "개봉된 연유는 당도가 높아도 반드시 냉장 보관해야 변질을 막을 수 있습니다. 💡 보관 팁: 밀폐 용기나 튜브 입구를 꼭 닫고 냉장실(0~4℃)에 보관하세요. 개봉 후 2~3주 이내에 소비하는 것이 가장 신선하고 안전합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "보관하던 연유에 설탕 결정이 생기고 진해졌는데 먹어도 되나요?",
+                        "answer": "네, 드셔도 괜찮습니다. 저온 보관 시 과포화된 당분이 결정화되거나 시간이 지나며 마이야르 반응으로 색이 약간 어두워지는 자연스러운 현상입니다. 곰팡이나 이상한 냄새가 없다면 중탕으로 살짝 따뜻하게 녹여 사용하시면 됩니다."
+                    },
+                    {
+                        "question": "연유를 냉동 보관해도 되나요?",
+                        "answer": "연유는 높은 당도 때문에 일반적인 가정용 냉동실(-18℃)에서도 완전히 단단하게 얼지 않고 쫀득하고 끈적한 상태를 유지합니다. 다만 장기 냉동 시 유지방 분리나 결정화가 일어날 수 있으므로, 개봉 후 냉장(2~3주) 보관을 권장합니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "How to Store Condensed Milk: Scientific Storage Guide",
+                "description": "Check the optimal storage temperature, method, and shelf life for condensed milk based on official safety guidelines.",
+                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "intro": "Have you ever opened a can of sweet condensed milk, left it in the fridge, and later found it discolored, crystallized, or spoiled? 🥛\n\nAlthough sweetened condensed milk has a long shelf life due to its reduced moisture and high sugar content, exposure to air after opening leads to metal can corrosion, odor absorption, sugar crystallization, and mold risk. Transferring canned condensed milk to an airtight container immediately after opening is the key to preserving freshness.\n\nToday, FreshSnap introduces a scientifically proven 3-step condensed milk storage guide based on safety guidelines from the USDA, FDA, and MFDS to keep your condensed milk smooth, sweet, and safe. 🛡️",
+                "whyTitle": "Why Store Condensed Milk This Way? Scientific Facts",
+                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+                "guideTitle": "Scientifically Proven Storage Guide",
+                "cautionTitle": "Essential Storage Rules and Cautions",
+                "cautions": [
+                    {
+                        "title": "Never store opened condensed milk in its original metal can ⚠️",
+                        "desc": "Refrigerating open canned condensed milk exposes the metal lining to oxygen, causing corrosion and leaching a metallic flavor into the milk. Always transfer it immediately to a clean glass jar or food-grade airtight container."
+                    },
+                    {
+                        "title": "Avoid using wet or contaminated utensils 💧",
+                        "desc": "While high sugar suppresses bacterial growth, introducing moisture or food crumbs raises local water activity and allows mold to develop. Always use a clean, completely dry spoon."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Store unopened cans or tubes in a cool pantry — Room Temperature (Up to 1 Year) 📦",
+                        "text": "Unopened canned or tube condensed milk is heat-sterilized and shelf-stable. 💡 Storage Tip: Keep unopened containers in a cool, dry pantry (15–20°C / 59–68°F) away from direct sunlight and stove heat for up to 1 year."
+                    },
+                    {
+                        "name": "Transfer canned milk to a clean glass airtight container — Prevent Metallic Odors & Oxidation 🫙",
+                        "text": "Canned condensed milk begins to oxidize once exposed to air. 💡 Storage Tip: Immediately after opening, pour the remaining milk into a sanitized glass jar or airtight food container and seal tightly to prevent metallic flavor transfer."
+                    },
+                    {
+                        "name": "Refrigerate at 0–4°C — Cold Storage (2–3 Weeks) ❄️",
+                        "text": "Opened condensed milk must be kept cold despite its sugar content to prevent spoilage. 💡 Storage Tip: Keep tightly sealed in the refrigerator (0–4°C / 32–39°F) and consume within 2 to 3 weeks for optimal flavor and safety."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "My stored condensed milk developed sugar crystals and turned darker. Is it still safe to use?",
+                        "answer": "Yes, it is safe. Cold temperatures cause supersaturated sugar to crystallize, and a natural Maillard reaction can cause slight darkening over time. As long as there is no mold or off-odor, you can warm it gently in a hot water bath to dissolve crystals."
+                    },
+                    {
+                        "question": "Can condensed milk be frozen?",
+                        "answer": "Due to its high sugar content, sweetened condensed milk will not freeze completely solid in a standard home freezer (-18°C), remaining gooey and thick. However, freezing can cause fat separation or heavy crystallization, so refrigeration (2–3 weeks) is recommended."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "練乳（コンデンスミルク）を新鮮に保つ保存方法：科学的保管ガイド",
+                "description": "公的安全基準に基づく練乳の最適な保存温度、保管方法、保存期間をご確認ください。",
+                "authority": "<strong>米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)</strong>",
+                "intro": "甘い練乳を開封してかき氷やコーヒーに使った後、缶のまま冷蔵庫に入れておいたら砂糖が結晶化したり変質して捨てた経験はありませんか？🥛\n\n練乳は水分を蒸発させ糖度を高めているため保存性が高い食品ですが、開封後に空気と接触すると金属缶の腐食、冷蔵庫のにおい移り、砂糖の結晶化やカビの発生が急速に進行します。特に缶入りの練乳は開封直後に密閉容器に移し替えることが鮮度維持の鍵です。\n\n本日FreshSnapでは、米国農務省（USDA）、FDA、食品医薬品安全処（MFDS）などのガイドラインに基づき、練乳をまろやかに甘く長持ちさせる3段階の科学的保存法をご紹介します。🛡️",
+                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+                "guideTitle": "科学的に検証された保存ガイド",
+                "cautionTitle": "保存時の必須ルールと注意事項",
+                "cautions": [
+                    {
+                        "title": "開封後は絶対に缶のまま保存しないでください ⚠️",
+                        "desc": "缶に入った練乳を開封後に缶のまま冷蔵庫へ入れると、酸素と反応して缶の内側が腐食し、金属臭（金気）が練乳に移って風味が損なわれます。開封後はすぐにガラス瓶や密閉容器に移し替えてください。"
+                    },
+                    {
+                        "title": "水気や唾液のついた道具を使用しないでください 💧",
+                        "desc": "練乳は糖度が高く雑菌が繁殖しにくいですが、水気や食べ物がついたスプーンを入れると部分的に水分活性が上がりカビが生えやすくなります。必ず清潔で完全に乾いたスプーンを使用してください。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "未開封品は涼しい棚で保存する — 常温保存 (最大1年間) 📦",
+                        "text": "未開封の缶やチューブタイプの練乳は殺菌処理されているため常温保存が可能です。💡保存のコツ：直射日光やコンロ周辺の熱を避け、涼しく乾燥した棚（15〜20℃）で保存してください。開封前であれば最大1年間安全に保てます。"
+                    },
+                    {
+                        "name": "開封後は清潔なガラス密閉容器に移し替える — におい移り＆酸化防止 🫙",
+                        "text": "缶入り練乳は開封直後に空気と接触して変質が始まります。💡保存のコツ：缶を開けたらすぐに煮沸消毒した清潔なガラス瓶や食品用密閉容器に移し替え、フタをしっかり閉めてください。金属臭や空気酸化を防ぎます。"
+                    },
+                    {
+                        "name": "0〜4℃で冷蔵保存する — 冷蔵保存 (2〜3週間) ❄️",
+                        "text": "開封後の練乳は糖度が高くても品質劣化を防ぐため必ず冷蔵保存が必要です。💡保存のコツ：密閉容器やチューブの口をしっかり閉めて冷蔵室（0〜4℃）で保存します。開封後2〜3週間以内に使い切るのが最も安全です。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "保存していた練乳に砂糖の結晶ができ、色が濃くなりましたが食べられますか？",
+                        "answer": "はい、召し上がっても問題ありません。低温保存で過飽和になった砂糖が結晶化したり、時間が経つにつれてマイヤール反応により色が濃くなる自然現象です。カビや異臭がなければ湯煎で少し温めて溶かしてご使用ください。"
+                    },
+                    {
+                        "question": "練乳は冷凍保存しても大丈夫ですか？",
+                        "answer": "練乳は糖度が高いため、家庭用の冷凍室（-18℃）でもカチコチに凍らずネバッとした状態を保ちます。ただし長期間冷凍すると乳成分の分離や強い結晶化が起こるため、開封後は冷蔵（2〜3週間）保存をおすすめします。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "如何保持炼乳新鲜：科学储存指南",
+                "description": "根据官方食品安全指南，了解炼乳的最佳储存温度、方式和保鲜时长。",
+                "authority": "<strong>美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "intro": "您是否曾将开封后的炼乳连同铁罐一起塞进冰箱，几天后却发现析出砂糖结晶、甚至产生异味？🥛\n\n炼乳虽然通过蒸发水分和提高含糖量延长了保质期，但开封接触空气后，易发生金属罐腐蚀、吸收冰箱异味、砂糖结晶以及滋生霉菌。特别是罐装炼乳，开封后立即转移至密封容器中是保持新鲜的关键。\n\n今天FreshSnap将基于权威机构的安全指南，为您带来3步科学保存秘诀，帮您长久保持炼乳的浓郁香甜与顺滑。🛡️",
+                "whyTitle": "为什么要这样储存？科学原理",
+                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+                "guideTitle": "科学验证的储存指南",
+                "cautionTitle": "储存必需规则及注意事项",
+                "cautions": [
+                    {
+                        "title": "开封后切勿直接连同铁罐一起储存 ⚠️",
+                        "desc": "将开封后的罐装炼乳直接冷藏，罐内金属接触氧气后易腐蚀，导致金属异味渗入炼乳破坏风味。开封后请务必立即转移至玻璃瓶或食品级密封盒中。"
+                    },
+                    {
+                        "title": "切勿使用沾有水汽或唾液的工具 💧",
+                        "desc": "炼乳含糖量高不易滋生细菌，但若伸入沾有水汽或食物残渣的勺子，局部水分活性升高极易导致发霉。请务必使用完全干净干燥的勺子。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "未开封产品置于阴凉橱柜 — 常温储存 (最长1年) 📦",
+                        "text": "未开封的罐装或挤压管装炼乳经过灭菌处理，可在常温下保存。💡储存小贴士：请存放在避开阳光直射和灶台热源的阴凉干燥橱柜（15~20℃）中，开封前可保鲜长达1年。"
+                    },
+                    {
+                        "name": "开封后转移至干净玻璃密封盒 — 防止异味与氧化 🫙",
+                        "text": "罐装炼乳开封接触空气后即开始氧化。💡储存小贴士：拉开罐头后请立即倒入经过消毒的干净玻璃瓶或食品级密封盒中拧紧盖子，阻绝空气并防止渗入金属味。"
+                    },
+                    {
+                        "name": "存放于0~4℃冰箱冷藏 — 冷藏储存 (2~3周) ❄️",
+                        "text": "开封后的炼乳即使含糖量高也必须冷藏以防变质。💡储存小贴士：盖紧密封盒或管盖，置于冰箱冷藏室（0~4℃）保存。建议在开封后2至3周内食用完毕。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "保存的炼乳析出了砂糖结晶且颜色变深，还能吃吗？",
+                        "answer": "可以食用。低温储存会导致过饱和糖分结晶，随时间推移发生的美拉德反应也会使颜色略微变深，这属于正常现象。只要没有发霉或异味，可用温水隔水加热融化后使用。"
+                    },
+                    {
+                        "question": "炼乳可以冷冻保存吗？",
+                        "answer": "由于含糖量极高，炼乳在家庭冷冻室（-18℃）中也不会完全冻结成冰块，而是保持黏稠状态。但长期冷冻可能导致乳脂分离或严重结晶，因此建议开封后冷藏（2~3周）保存。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cómo mantener la leche condensada fresca: Guía científica de conservación",
+                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para la leche condensada según las directrices oficiales de seguridad.",
+                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "intro": "¿Alguna vez dejó una lata abierta de leche condensada en el refrigerador y días después descubrió que se había oscurecido, cristalizado o alterado? 🥛\n\nAunque la leche condensada tiene un alto contenido de azúcar que inhibe microbios, al abrirse y entrar en contacto con el aire sufre oxidación, corrosión de la lata metálica, absorción de olores del refrigerador y riesgo de moho. Transferirla a un recipiente hermético inmediatamente tras abrirla es clave para preservar su calidad.\n\nHoy, FreshSnap presenta una guía de conservación en 3 pasos respaldada por el USDA, la FDA y el MFDS para mantener su leche condensada dulce, suave y segura. 🛡️",
+                "whyTitle": "¿Por qué almacenarla así? Datos científicos",
+                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+                "guideTitle": "Guía de almacenamiento científicamente probada",
+                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+                "cautions": [
+                    {
+                        "title": "Nunca guarde la leche condensada en su lata de metal abierta ⚠️",
+                        "desc": "Refrigerar una lata abierta expone el recubrimiento de metal al oxígeno, lo que provoca corrosión y transfiere un desagradable sabor metálico. Pásela de inmediato a un frasco de vidrio o recipiente hermético."
+                    },
+                    {
+                        "title": "Evite usar utensilios húmedos o contaminados 💧",
+                        "desc": "Aunque el alto contenido de azúcar frena las bacterias, introducir cucharas con agua o migas aumenta la humedad localizada y genera moho. Use siempre una cuchara limpia y totalmente seca."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Guarde latas o tubos cerrados en una despensa fresca — Temperatura ambiente (hasta 1 año) 📦",
+                        "text": "La leche condensada cerrada en lata o tubo está esterilizada y es estable a temperatura ambiente. 💡 Consejo de almacenamiento: Guárdela en una despensa fresca y seca (15-20 °C) lejos del fuego y la luz solar hasta por 1 año."
+                    },
+                    {
+                        "name": "Transfiera la leche en lata a un recipiente hermético de vidrio — Evite olores metálicos y oxidación 🫙",
+                        "text": "La leche condensada en lata comienza a oxidarse al contacto con el aire. 💡 Consejo de almacenamiento: Al abrirla, viértala inmediatamente en un frasco de vidrio limpio o recipiente hermético para evitar sabores metálicos."
+                    },
+                    {
+                        "name": "Refrigere a 0–4 °C — Almacenamiento (2 a 3 semanas) ❄️",
+                        "text": "Una vez abierta, debe mantenerse fría para evitar la degradación de su calidad. 💡 Consejo de almacenamiento: Consérvela bien cerrada en el refrigerador (0-4 °C) y consúmala dentro de las 2 a 3 semanas posteriores a su apertura."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mi leche condensada se cristalizó y tomó un color más oscuro. ¿Aún se puede consumir?",
+                        "answer": "Sí, es seguro. El frío hace que el azúcar sobresaturado cristalice y la reacción de Maillard oscurece ligeramente el producto con el tiempo. Si no hay moho ni olor rancio, puede calentarla a baño María para disolver los cristales."
+                    },
+                    {
+                        "question": "¿Se puede congelar la leche condensada?",
+                        "answer": "Debido a su altísimo contenido de azúcar, la leche condensada no se congela por completo en un congelador doméstico (-18 °C), permaneciendo espesa y pegajosa. Sin embargo, el congelamiento prolongado puede separar la grasa, por lo que se recomienda refrigerar (2-3 semanas)."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Comment conserver le lait concentré sucré frais : Guide scientifique",
+                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le lait concentré selon les directives officielles de sécurité.",
+                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "intro": "Avez-vous déjà laissé une boîte de lait concentré sucré ouverte au réfrigérateur pour y découvrir quelques jours plus tard une cristallisation du sucre ou une altération du goût ? 🥛\n\nBien que sa forte teneur en sucre et sa faible humidité en fassent un produit très stable, l'exposition à l'air après ouverture provoque la corrosion de la boîte en métal, l'absorption des odeurs du frigo, la cristallisation et l'apparition de moisissures. Le transvaser immédiatement dans un récipient hermétique est essentiel.\n\nAujourd'hui, FreshSnap vous présente un guide scientifique en 3 étapes basé sur les recommandations du USDA, de la FDA et du MFDS pour conserver votre lait concentré savoureux et fluide. 🛡️",
+                "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
+                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+                "guideTitle": "Guide de conservation scientifiquement prouvé",
+                "cautionTitle": "Règles essentielles et précautions de stockage",
+                "cautions": [
+                    {
+                        "title": "Ne conservez jamais le lait concentré dans sa boîte en métal ouverte ⚠️",
+                        "desc": "Placer une boîte en métal ouverte au réfrigérateur expose le métal à l'oxygène, causant de la corrosion et transmettant un goût métallique désagréable. Transférez-le immédiatement dans un bocal en verre ou un contenant hermétique."
+                    },
+                    {
+                        "title": "Évitez les ustensiles humides ou souillés 💧",
+                        "desc": "Bien que le sucre freine la prolifération bactérienne, introduire de l'eau ou des miettes augmente l'humidité locale et favorise la moisissure. N'utilisez qu'une cuillère propre et parfaitement sèche."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Conserver les boîtes ou tubes non ouverts dans un placard frais — Stockage (jusqu'à 1 an) 📦",
+                        "text": "Le lait concentré non ouvert en boîte ou tube est stérilisé et se conserve à température ambiante. 💡 Astuce de conservation : Gardez-le dans un placard frais et sec (15–20 °C) à l'abri du soleil jusqu'à 1 an."
+                    },
+                    {
+                        "name": "Transférer dans un bocal en verre hermétique — Éviter l'oxydation et l'odeur métallique 🫙",
+                        "text": "Le lait concentré commence à s'oxyder dès l'ouverture de la boîte. 💡 Astuce de conservation : Dès l'ouverture, versez le lait restant dans un bocal en verre propre et fermez-le hermétiquement."
+                    },
+                    {
+                        "name": "Réfrigérer entre 0 et 4 °C — Stockage (2 à 3 semaines) ❄️",
+                        "text": "Une fois ouvert, le lait concentré doit impérativement être conservé au frais. 💡 Astuce de conservation : Conservez-le bien fermé au réfrigérateur (0–4 °C) et consommez-le dans les 2 à 3 semaines."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mon lait concentré s'est cristallisé et a bruni. Est-il toujours consommable ?",
+                        "answer": "Oui, sans danger. Le froid fait cristalliser le sucre sursaturé et la réaction de Maillard fonce légèrement la couleur avec le temps. En l'absence de moisissure ou de mauvaise odeur, réchauffez-le doucement au bain-marie pour dissoudre les cristaux."
+                    },
+                    {
+                        "question": "Peut-on congeler le lait concentré sucré ?",
+                        "answer": "En raison de sa très forte teneur en sucre, le lait concentré ne gèle pas complètement dans un congélateur ménager (-18 °C) et reste très visqueux. Toutefois, le gel peut séparer les matières grasses, la réfrigération (2-3 semaines) est donc préférable."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Kondensmilch richtig frisch halten: Wissenschaftlicher Ratgeber",
+                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Kondensmilch basierend auf offiziellen Sicherheitsrichtlinien.",
+                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "intro": "Haben Sie schon einmal eine geöffnete Dose gezuckerte Kondensmilch im Kühlschrank gelagert, nur um Tage später festzustellen, dass sie nachgedunkelt oder auskristallisiert war? 🥛\n\nObwohl gezuckerte Kondensmilch durch den geringen Wassergehalt und hohen Zuckergehalt haltbar ist, führt Luftkontakt nach dem Öffnen zu Dosenkorrosion, Geruchsaufnahme, Zuckerkristallisation und Schimmelgefahr. Das Umfüllen in ein luftdichtes Gefäß ist der Schlüssel zur Frische.\n\nHeute stellt Ihnen FreshSnap einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um Ihre Kondensmilch cremig, süß und sicher aufzubewahren. 🛡️",
+                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+                "cautions": [
+                    {
+                        "title": "Lagern Sie Kondensmilch niemals in der geöffneten Metalldose ⚠️",
+                        "desc": "Wird eine geöffnete Dose gekühlt, reagiert das Metall mit Sauerstoff. Dies führt zu Korrosion und einem metallischen Beigeschmack. Füllen Sie die Kondensmilch sofort in ein Glas oder ein luftdichtes Gefäß um."
+                    },
+                    {
+                        "title": "Vermeiden Sie feuchtes oder verschmutztes Besteck 💧",
+                        "desc": "Obwohl der hohe Zuckergehalt Bakterien hemmt, erhöht Feuchtigkeit oder Krümel am Löffel die lokale Wasseraktivität und begünstigt Schimmel. Nutzen Sie stets einen sauberen, trockenen Löffel."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Ungeöffnete Dosen oder Tuben in der Speisekammer lagern — Raumtemperatur (bis zu 1 Jahr) 📦",
+                        "text": "Ungeöffnete Kondensmilch ist hitzesterilisiert und bei Raumtemperatur haltbar. 💡 Lagerungstipp: Bewahren Sie ungeöffnete Dosen/Tuben an einem kühlen, trockenen Ort (15–20 °C) fern von Sonnenlicht bis zu 1 Jahr auf."
+                    },
+                    {
+                        "name": "In ein sauberes Glasgefäß umfüllen — Metallgeruch & Oxidation verhindern 🫙",
+                        "text": "Dosenkondensmilch beginnt nach dem Öffnen zu oxidieren. 💡 Lagerungstipp: Gießen Sie die verbleibende Kondensmilch sofort nach dem Öffnen in ein sauberes Glas oder eine Frischhaltedose und verschließen Sie diese fest."
+                    },
+                    {
+                        "name": "Bei 0–4 °C im Kühlschrank lagern — Kühllagerung (2–3 Wochen) ❄️",
+                        "text": "Geöffnete Kondensmilch muss trotz ihres Zuckergehalts gekühlt werden. 💡 Lagerungstipp: Verschlossen im Kühlschrank (0–4 °C) lagern und innerhalb von 2 bis 3 Wochen verbrauchen."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Meine Kondensmilch hat Zuckerkristalle gebildet und ist nachgedunkelt. Ist sie noch genießbar?",
+                        "answer": "Ja, sie ist genießbar. Kälte führt zur Kristallisation von übersättigtem Zucker und die Maillard-Reaktion lässt sie mit der Zeit leicht nachdunkeln. Bei fehlendem Schimmel oder Geruch einfach im warmen Wasserbad sanft erwärmen, um Kristalle aufzulösen."
+                    },
+                    {
+                        "question": "Kann man gezuckerte Kondensmilch einfrieren?",
+                        "answer": "Durch den sehr hohen Zuckergehalt friert Kondensmilch im Haushaltsgefrierschrank (-18 °C) nicht ganz fest, sondern bleibt zähflüssig. Langes Einfrieren kann jedoch zur Fettseparation führen; die Kühlung (2–3 Wochen) wird empfohlen."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Como conservar leite condensado fresco: Guia científico de armazenamento",
+                "description": "Descubra a temperatura, método e tempo de conservação ideais para o leite condensado com base em diretrizes oficiais de segurança.",
+                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "intro": "Você já abriu uma lata de leite condensado, guardou-a na geladeira e descobriu dias depois que o produto cristalizou, escureceu ou estragou? 🥛\n\nEmbora o leite condensado seja resistente devido à baixa umidade e alto teor de açúcar, a exposição ao ar após a abertura causa corrosão da lata metálica, absorção de odores, cristalização e risco de mofo. Transferi-lo para um pote hermético imediatamente após abrir é essencial.\n\nHoje, o FreshSnap apresenta um guia de conservação em 3 etapas baseado em diretrizes oficiais para manter seu leite condensado cremoso, doce e seguro. 🛡️",
+                "whyTitle": "Por que armazenar assim? Fatos científicos",
+                "whyDesc": "Compreender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+                "guideTitle": "Guia de armazenamento comprovado cientificamente",
+                "cautionTitle": "Regras essenciais e precauções no armazenamento",
+                "cautions": [
+                    {
+                        "title": "Nunca guarde o leite condensado na lata de metal aberta ⚠️",
+                        "desc": "Refrigerar a lata aberta expõe o revestimento ao oxigênio, provocando corrosão e transferindo gosto metálico ao leite condensado. Transfira imediatamente para um pote de vidro ou recipiente hermético."
+                    },
+                    {
+                        "title": "Evite usar utensílios molhados ou contaminados 💧",
+                        "desc": "Apesar do alto teor de açúcar inibir bactérias, introduzir colheres com água ou migalhas aumenta a umidade local e gera mofo. Use sempre uma colher limpa e totalmente seca."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Guarde latas ou tubos fechados na despensa — Temperatura ambiente (até 1 ano) 📦",
+                        "text": "O leite condensado fechado em lata ou bisnaga é esterilizado e durável em temperatura ambiente. 💡 Dica de conservação: Mantenha em local fresco e seco (15-20 °C) longe do sol por até 1 ano."
+                    },
+                    {
+                        "name": "Transfira o leite da lata para um pote de vidro hermético — Evite odores metálicos e oxidação 🫙",
+                        "text": "O leite condensado enlatado começa a oxidar assim que entra em contato com o ar. 💡 Dica de conservação: Após abrir, despeje o restante em um pote de vidro limpo e feche bem."
+                    },
+                    {
+                        "name": "Refrigere a 0–4 °C — Refrigeração (2 a 3 semanas) ❄️",
+                        "text": "Após aberto, deve ser mantido sob refrigeração para preservar a qualidade. 💡 Dica de conservação: Mantenha bem fechado na geladeira (0-4 °C) e consuma em até 2 a 3 semanas."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Meu leite condensado cristalizou e escureceu. Ainda posso usar?",
+                        "answer": "Sim, é seguro. O frio faz o açúcar cristalizar e a reação de Maillard escurece levemente o produto com o tempo. Se não houver mofo ou cheiro estranho, aquecer em banho-maria resolve a cristalização."
+                    },
+                    {
+                        "question": "O leite condensado pode ser congelado?",
+                        "answer": "Devido ao alto teor de açúcar, o leite condensado não congela totalmente no freezer doméstico (-18 °C), permanecendo pastoso. Como o congelamento pode separar a gordura, a refrigeração (2-3 semanas) é o método ideal."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Cara Menyimpan Susu Kental Manis agar Tetap Segar: Panduan Ilmiah",
+                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk susu kental manis berdasarkan pedoman keselamatan resmi.",
+                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "intro": "Pernahkah Anda membuka kaleng susu kental manis, menyimpannya di kulkas, lalu mendapatinya mengkristal, berubah warna, atau rusak beberapa hari kemudian? 🥛\n\nMeskipun susu kental manis memiliki daya simpan lama karena kadar gula tinggi dan air yang rendah, paparan udara setelah dibuka menyebabkan korosi pada kaleng logam, penyerapan bau kulkas, kristalisasi gula, serta risiko jamur. Memindahkannya ke wadah kedap udara segera setelah dibuka adalah kunci menjaga kesegarannya.\n\nHari ini, FreshSnap membagikan panduan penyimpanan susu kental manis 3 langkah berbasis ilmiah untuk menjaga susu kental manis Anda tetap lembut, manis, dan aman. 🛡️",
+                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+                "cautions": [
+                    {
+                        "title": "Jangan pernah menyimpan susu kental manis di dalam kaleng logam yang sudah terbuka ⚠️",
+                        "desc": "Menyimpan kaleng terbuka di kulkas membuat lapisan logam terpapar oksigen, menyebabkan korosi dan rasa logam meresap ke dalam susu. Selalu pindahkan segera ke toples kaca atau wadah kedap udara."
+                    },
+                    {
+                        "title": "Hindari penggunaan sendok basah atau kotor 💧",
+                        "desc": "Meskipun kadar gula tinggi menekan bakteri, sendok yang basah atau ternoda remah makanan meningkatkan kelembapan lokal dan memicu munculnya jamur. Gunakan sendok yang bersih dan kering."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Simpan kaleng atau kemasan tub yang belum dibuka di lemari sejuk — Suhu Ruang (Hingga 1 Tahun) 📦",
+                        "text": "Susu kental manis yang belum dibuka telah disterilkan dan stabil di suhu ruang. 💡 Tips Penyimpanan: Simpan di tempat sejuk dan kering (15–20°C) jauh dari sinar matahari hingga 1 tahun."
+                    },
+                    {
+                        "name": "Pindahkan susu kaleng ke toples kaca kedap udara — Cegah Bau Logam & Oksidasi 🫙",
+                        "text": "Susu kental manis kaleng mulai teroksidasi saat terpapar udara. 💡 Tips Penyimpanan: Segera tuangkan sisa susu ke toples kaca bersih atau wadah kedap udara lalu tutup rapat."
+                    },
+                    {
+                        "name": "Simpan di kulkas pada suhu 0–4°C — Simpan Dingin (2–3 Minggu) ❄️",
+                        "text": "Setelah dibuka, susu harus disimpan di kulkas untuk mencegah penurunan kualitas. 💡 Tips Penyimpanan: Simpan dalam wadah tertutup rapat di kulkas (0–4°C) dan konsumsi dalam waktu 2 hingga 3 minggu."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Susu kental manis saya mengkristal dan warnanya agak gelap. Apakah masih aman dikonsumsi?",
+                        "answer": "Ya, masih aman. Suhu dingin menyebabkan gula mengkristal, dan reaksi Maillard alami membuat warnanya sedikit lebih gelap seiring waktu. Jika tidak ada jamur atau bau aneh, Anda bisa menghangatkannya di dalam tim air hangat untuk melarutkan kristal."
+                    },
+                    {
+                        "question": "Apakah susu kental manis boleh dibekukan?",
+                        "answer": "Kandungan gula yang sangat tinggi membuat susu kental manis tidak akan membeku sepenuhnya padat di freezer rumah (-18°C), melainkan tetap kental dan lengket. Pembekuan dapat menyebabkan pemisahan lemak, sehingga pendinginan biasa (2–3 minggu) lebih disarankan."
+                    }
+                ]
+            }
+        }
+    }
+}

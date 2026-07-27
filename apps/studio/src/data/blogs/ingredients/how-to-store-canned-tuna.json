@@ -1,0 +1,406 @@
+{
+    "how-to-store-canned-tuna": {
+        "ingId": "canned-tuna",
+        "pubDate": "2026-02-20",
+        "updatedDate": "2026-02-20",
+        "heroImage": "/images/blog/canned_tuna_storage_hack.webp",
+        "locales": {
+            "ko": {
+                "title": "참치캔 신선하게 보관하는 법: 과학적 보관 가이드",
+                "description": "공인된 안전 가이드라인에 따른 참치캔의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+                "authority": "<strong>미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)</strong>",
+                "intro": "먹다 남은 참치캔을 캔째로 뚜껑만 덮어 냉장고에 보관해 두신 적 있으시죠? 🐟\n\n참치캔은 개봉 전에는 상온에서 수년간 안전하게 보관할 수 있지만, 일단 개봉하여 공기와 접촉하면 금속 용기의 부식과 세균 오염이 급격히 진행됩니다. 특히 개봉한 캔째 보관하면 퓨란 가스가 배출되지 못하거나 금속성 이취가 음식에 배어 풍미가 크게 저하됩니다.\n\n오늘 FreshSnap에서는 미국 농무부(USDA)와 식품의약품안전처(MFDS) 등의 안전 가이드라인을 바탕으로, 참치캔을 개봉 전후에 안전하고 신선하게 보관하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+                "guideTitle": "과학적으로 검증된 보관 가이드",
+                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+                "cautions": [
+                    {
+                        "title": "개봉 후 절대로 캔째 보관하지 마세요 ⚠️",
+                        "desc": "참치캔을 개봉한 후 캔째 냉장고에 넣으면 산소와 접촉하여 캔 내부 절단면이 부식되고 금속 성분이 내용물에 흘러나올 위험이 있습니다. 남은 참치는 반드시 즉시 다른 유리나 밀폐 용기로 옮겨야 합니다."
+                    },
+                    {
+                        "title": "부풀어 오르거나 찌그러진 캔은 드시지 마세요 🚫",
+                        "desc": "개봉 전이라도 캔이 팽창했거나 녹이 슬고 깊게 찌그러진 것은 보툴리누스균(Clostridium botulinum) 등의 치명적인 미생물이 번식했을 가능성이 있습니다. 내용물이 새거나 팽창된 캔은 즉시 폐기하세요."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "개봉 전 서늘하고 건조한 팬트리에 보관하기 — 상온 보관 (2~5년) 📦",
+                        "text": "미개봉 참치캔은 열처리 멸균 보관되어 상온에서 오랫동안 신선도가 유지됩니다. 💡 보관 팁: 가스레인지 주변이나 직사광선이 드는 창가를 피해 서늘하고 건조한 찬장(15~20℃)에 보관하세요. 캔을 딴 후 약 5분간 두면 멸균 과정에서 생성된 휘발성 물질인 퓨란(Furan)이 공기 중으로 자연 소멸됩니다."
+                    },
+                    {
+                        "name": "남은 참치는 즉시 밀폐 용기에 담아 냉장 보관하기 — 냉장 보관 (3~4일) ❄️",
+                        "text": "개봉 후 남은 참치는 절대 캔에 두지 말고 즉시 밀폐 용기로 옮겨 담아야 합니다. 💡 보관 팁: 깨끗한 유리 용기나 식품용 밀폐 용기에 남은 참치를 옮겨 담고 뚜껑을 밀봉해 냉장실(0~4℃)에 보관하세요. 개봉 후 3~4일 이내에 소비하는 것이 가장 안전합니다."
+                    },
+                    {
+                        "name": "소분하여 소량의 기름과 함께 냉동 보관하기 — 냉동 보관 (3개월) 🧊",
+                        "text": "3~4일 이내에 다 먹기 힘들다면 밀폐 후 냉동실에 보관하는 것이 좋습니다. 💡 보관 팁: 1회 요리 분량씩 지퍼백이나 소형 밀폐 용기에 나누어 담고, 수분 마름을 막기 위해 참치 기름(또는 올리브유)을 살짝 함께 담아 냉동실(-18℃ 이하)에 두면 최대 3개월 동안 신선하게 보관할 수 있습니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "참치캔을 개봉하자마자 바로 먹지 말고 5분 정도 두라는 이유는 무엇인가요?",
+                        "answer": "통조림 가열 멸균 과정에서 미량 발생하여 갇혀 있던 '퓨란(Furan)'이라는 휘발성 가스 때문입니다. 퓨란은 개봉 후 공기 중에 노출되면 5분 이내에 자연스럽게 기화되어 날아가므로, 캔을 따고 약 5분 뒤에 드시거나 요리하는 것이 좋습니다."
+                    },
+                    {
+                        "question": "남은 참치는 냉장고에서 최대 며칠 동안 보관 가능한가요?",
+                        "answer": "미국 농무부(USDA) 및 식품안전 가이드라인에 따르면, 개봉 후 캔에서 밀폐 용기로 옮겨 담은 참치는 냉장(0~4℃) 보관 시 3~4일 이내에 소비하는 것이 가장 안전합니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "How to Store Canned Tuna: Scientific Storage Guide",
+                "description": "Check the optimal storage temperature, method, and shelf life for canned tuna based on official safety guidelines.",
+                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "intro": "Have you ever left an open can of tuna in the fridge with just the lid pulled back? 🐟\n\nWhile unopened canned tuna can be safely stored at room temperature for years, opening it exposes the contents to air, accelerating metallic oxidation and bacterial contamination. Keeping it in the open metal can traps volatile gases like furan and imparts an off-metallic taste, spoiling its flavor.\n\nToday, FreshSnap introduces a scientifically proven 3-step canned tuna storage guide based on safety guidelines from the USDA, FDA, and MFDS to keep your tuna safe and delicious. 🛡️",
+                "whyTitle": "Why Store Canned Tuna This Way? Scientific Facts",
+                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+                "guideTitle": "Scientifically Proven Storage Guide",
+                "cautionTitle": "Essential Storage Rules and Cautions",
+                "cautions": [
+                    {
+                        "title": "Never store tuna in its original metal can once opened ⚠️",
+                        "desc": "Refrigerating an open metal can exposes the inner lining to oxygen, causing corrosion and potentially leaching metallic elements into the food. Always transfer leftover tuna immediately to a glass or airtight container."
+                    },
+                    {
+                        "title": "Never consume tuna from bulging, rusted, or dented cans 🚫",
+                        "desc": "Cans that are swollen, heavily rusted, or deeply dented prior to opening may indicate the growth of dangerous anaerobic bacteria such as Clostridium botulinum. Discard damaged or leaking cans immediately."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Store unopened cans in a cool, dry pantry — Room Temperature (2–5 Years) 📦",
+                        "text": "Unopened canned tuna is heat-sterilized and shelf-stable for years. 💡 Storage Tip: Keep cans in a cool, dry pantry (15–20°C / 59–68°F) away from direct sunlight and stove heat. After opening the lid, let the tuna sit for 5 minutes to allow any residual furan gas to dissipate naturally into the air."
+                    },
+                    {
+                        "name": "Transfer leftovers immediately to an airtight container — Cold Storage (3–4 Days) ❄️",
+                        "text": "Never leave opened tuna in its metal can. 💡 Storage Tip: Transfer the remaining tuna and its oil/liquid into a clean glass container or airtight food container, seal tightly, and refrigerate (0–4°C / 32–39°F). Consume within 3 to 4 days for optimal safety."
+                    },
+                    {
+                        "name": "Portion and freeze with a little oil — Freezer Storage (3 Months) 🧊",
+                        "text": "If you cannot finish it within 4 days, freezing is the safest method. 💡 Storage Tip: Divide into single-serving airtight containers or Ziploc bags. Adding a small drizzle of tuna oil or olive oil prevents dryness and freezer burn, keeping it fresh for up to 3 months below -18°C."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Why is it recommended to wait 5 minutes after opening canned tuna before eating?",
+                        "answer": "This allows trace amounts of 'furan', a volatile organic compound produced during the commercial heat-sterilization process, to evaporate naturally into the air once exposed to oxygen."
+                    },
+                    {
+                        "question": "How long can opened canned tuna be kept in the refrigerator?",
+                        "answer": "According to USDA and food safety guidelines, leftover tuna transferred from its can into an airtight container can be safely kept in the refrigerator (0–4°C) for 3 to 4 days."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "ツナ缶を新鮮に保つ保存方法：科学的保管ガイド",
+                "description": "公的安全基準に基づくツナ缶の最適な保存温度、保管方法、保存期間をご確認ください。",
+                "authority": "<strong>米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)</strong>",
+                "intro": "使い残したツナ缶を、缶のままフタを被せて冷蔵庫に保存した経験はありませんか？🐟\n\nツナ缶は開封前であれば常温で長期間安全に保存できますが、一度開封して空気と接触すると、金属缶の腐食や細菌汚染が急速に進行します。特に缶のまま保存すると、フランガスが抜けきれなかったり、金属臭が食べ物に移って風味が大きく損なわれます。\n\n本日FreshSnapでは、米国農務省（USDA）、FDA、食品医薬品安全処（MFDS）などのガイドラインに基づき、ツナ缶を開封前後に cluster 安全かつ新鮮に保つ3段階の科学的保存法をご紹介します。🛡️",
+                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+                "guideTitle": "科学的に検証された保存ガイド",
+                "cautionTitle": "保存時の必須ルールと注意事項",
+                "cautions": [
+                    {
+                        "title": "開封後は絶対に缶のまま保存しないでください ⚠️",
+                        "desc": "ツナ缶を開封した後に缶のまま冷蔵庫に入れると、酸素と反応して缶の内側や切断面が腐食し、金属成分が内容物に溶け出す恐れがあります。残ったツナは必ずすぐにガラス容器や密閉容器に移し替えてください。"
+                    },
+                    {
+                        "title": "膨張したり変形・サビのある缶は食べないでください 🚫",
+                        "desc": "開封前であっても缶が膨らんでいたり、サビや深い凹みがあるものは、ボツリヌス菌などの致死的な細菌が繁殖している可能性があります。液漏れや膨張が見られる缶はすぐに廃棄してください。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "開封前は涼しく乾燥したパントリーで保存する — 常温保存 (2〜5年間) 📦",
+                        "text": "未開封のツナ缶は加熱殺菌処理されているため、常温で長期間保存可能です。💡保存のコツ：コンロ周辺や直射日光の当たる場所を避け、涼しく乾燥した棚（15〜20℃）で保存してください。缶を開けてから約5分置くと、製造過程で発生するボラタイル物質のフラン（Furan）が空気中に自然揮発します。"
+                    },
+                    {
+                        "name": "残ったツナはすぐに密閉容器に移して冷蔵保存する — 冷蔵保存 (3〜4日間) ❄️",
+                        "text": "開封後に残ったツナは絶対に缶の中に放置せず、すぐに密閉容器に移し替えます。💡保存のコツ：清潔なガラス容器や食品用密閉容器にツナ（油・スープ含む）を移し、フタをしっかり閉めて冷蔵室（0〜4℃）で保存してください。開封後3〜4日以内に使い切るのが最も安全です。"
+                    },
+                    {
+                        "name": "小分けにして少量のオイルと共に冷凍保存する — 冷凍保存 (3ヶ月間) 🧊",
+                        "text": "3〜4日以内に使い切れない場合は、密閉して冷凍保存するのがおすすめです。💡保存のコツ：1回のお料理に使う分量ずつジッパーバッグや小型密閉容器に分け、乾燥を防ぐためにツナオイル（またはオリーブオイル）を少量加えて冷凍室（-18℃以下）で保存すれば、最大3ヶ月間美味しさを保てます。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "ツナ缶を開けてすぐに食べず、5分ほど置いた方が良い理由は何ですか？",
+                        "answer": "缶詰の加熱殺菌過程で微量発生して閉じ込められている揮発性ガス「フラン（Furan）」を飛ばすためです。フランは開栓後に空気中に晒されると5分以内に自然揮発するため、缶を開けて約5分後に召し上がるか調理するのが安心です。"
+                    },
+                    {
+                        "question": "残ったツナは冷蔵庫で最大何日間保存できますか？",
+                        "answer": "米国農務省（USDA）および食品安全ガイドラインによると、開封後に缶から密閉容器に移し替えたツナは、冷蔵（0〜4℃）保存で3〜4日以内に使い切るのが安全です。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "如何保持金枪鱼罐头新鲜：科学储存指南",
+                "description": "根据官方食品安全指南，了解金枪鱼罐头的最佳储存温度、方式和保鲜时长。",
+                "authority": "<strong>美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "intro": "您是否曾将吃剩的金枪鱼连同金属罐盖上盖子直接塞进冰箱？🐟\n\n金枪鱼罐头在未开封前可在常温下安全存放数年，但一旦开封接触空气，金属罐体极易发生氧化腐蚀并遭受细菌污染。特别是直接带罐存放，内部积聚的呋喃气体无法散发，金属异味还会渗入食材，严重破坏口感。\n\n今天FreshSnap将基于美国农务部(USDA)、FDA和韩国食品医药品安全处(MFDS)的安全指南，为您带来3步科学保存秘诀，帮您安全、新鲜地储存开封前后的金枪鱼罐头。🛡️",
+                "whyTitle": "为什么要这样储存？科学原理",
+                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+                "guideTitle": "科学验证的储存指南",
+                "cautionTitle": "储存必需规则及注意事项",
+                "cautions": [
+                    {
+                        "title": "开封后切勿直接连同金属罐一起储存 ⚠️",
+                        "desc": "将开封后的金属罐直接放入冰箱，罐体切割面接触氧气后易发生腐蚀，金属成分可能溶出污染食品。剩余的金枪鱼必须立即转移至玻璃或食品级密封盒中。"
+                    },
+                    {
+                        "title": "切勿食用鼓包、生锈或严重凹陷的罐头 🚫",
+                        "desc": "开封前若发现罐体膨胀、生锈或有严重磕碰凹陷，可能表明内部已滋生肉毒杆菌等致命厌氧菌。如有漏液或鼓包请立即丢弃。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "开封前置于阴凉干燥的橱柜 — 常温储存 (2~5年) 📦",
+                        "text": "未开封的金枪鱼罐头经过高温灭菌，常温下可长期保鲜。💡储存小贴士：请存放在避开燃气灶和阳光直射的阴凉干燥橱柜（15~20℃）中。拉开罐头盖后建议静置约5分钟，让灭菌过程中产生的挥发性呋喃（Furan）气体自然挥发。"
+                    },
+                    {
+                        "name": "剩余金枪鱼立即转入密封盒冷藏 — 冷藏储存 (3~4天) ❄️",
+                        "text": "开封后剩余的金枪鱼切勿留在原罐中。💡储存小贴士：将金枪鱼及其油脂转移至干净的玻璃盒或食品级密封容器中，盖紧盖子放入冰箱冷藏室（0~4℃）。开封后建议在3至4天内食用完毕。"
+                    },
+                    {
+                        "name": "按分量分装并加入少量油脂冷冻 — 冷冻保存 (3个月) 🧊",
+                        "text": "如果无法在4天内吃完，冷冻是最佳选择。💡储存小贴士：按单次用量分装入密封盒或保鲜袋中，淋入少许金枪鱼油（或橄榄油）以防水分干涸，置于冷冻室（-18℃以下）可保鲜长达3个月。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "为什么建议金枪鱼罐头拉开盖子后静置5分钟再食用？",
+                        "answer": "这是为了让高温灭菌过程中微量产生的挥发性气体“呋喃（Furan）”充分挥发。呋喃在开封接触空气后5分钟内会自然气化散逸，因此拉开盖子静置5分钟后再烹饪食用更安全。"
+                    },
+                    {
+                        "question": "吃剩的金枪鱼在冰箱里最多可以冷藏几天？",
+                        "answer": "根据美国农务部(USDA)及食品安全指南，开封后从原罐转移至密封容器中的金枪鱼，在冷藏（0~4℃）条件下，最安全是在3至4天内食用完毕。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cómo mantener el atún en lata fresco: Guía científica de conservación",
+                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para el atún en lata según las directrices oficiales de seguridad.",
+                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "intro": "¿Alguna vez dejó una lata de atún abierta en el refrigerador con la tapa doblada hacia atrás? 🐟\n\nAunque las latas de atún sin abrir pueden guardarse de forma segura a temperatura ambiente durante años, al abrirlas los alimentos entran en contacto con el aire, lo que acelera la oxidación metálica y la contaminación bacteriana. Conservarlo en la lata abierta atrapa gases volátiles como el furano e imparte un desagradable sabor metálico.\n\nHoy, FreshSnap presenta una guía de conservación en 3 pasos respaldada por el USDA, la FDA y el MFDS para mantener su atún seguro y sabroso. 🛡️",
+                "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+                "guideTitle": "Guía de almacenamiento científicamente probada",
+                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+                "cautions": [
+                    {
+                        "title": "Nunca guarde el atún en su lata de metal original una vez abierta ⚠️",
+                        "desc": "Refrigerar una lata metálica abierta expone el recubrimiento interior al oxígeno, provocando corrosión y el posible traspaso de sabor metálico al alimento. Pase siempre el atún restante inmediatamente a un recipiente de vidrio o hermético."
+                    },
+                    {
+                        "title": "Nunca consuma atún de latas abombadas, oxidadas o abolladas 🚫",
+                        "desc": "Las latas hinchadas, severamente oxidadas o con abolladuras profundas pueden indicar el crecimiento de bacterias anaeróbicas peligrosas como Clostridium botulinum. Deseche de inmediato las latas dañadas."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Guarde las latas sin abrir en una despensa fresca y seca — Temperatura ambiente (2–5 años) 📦",
+                        "text": "El atún en lata sin abrir está esterilizado por calor y se conserva durante años. 💡 Consejo de almacenamiento: Mantenga las latas en una despensa fresca y seca (15-20 °C) lejos del fuego y la luz solar. Al abrir la lata, déjela reposar unos 5 minutos para que el gas furano volátil se disipe en el aire."
+                    },
+                    {
+                        "name": "Transfiera los restos de inmediato a un recipiente hermético — Refrigeración (3–4 días) ❄️",
+                        "text": "Nunca deje el atún abierto dentro de la lata de metal. 💡 Consejo de almacenamiento: Pase el atún restante con su aceite/jugo a un recipiente hermético limpio (de vidrio o plástico), séllelo bien y refrigérelo (0-4 °C). Consúmalo en un plazo de 3 a 4 días."
+                    },
+                    {
+                        "name": "Porcione y congele con un poco de aceite — Conservación (3 meses) 🧊",
+                        "text": "Si no lo va a consumir en 4 días, congelarlo es el método más seguro. 💡 Consejo de almacenamiento: Divida el atún en recipientes herméticos individuales o bolsas Ziploc. Añadir un chorrito de su propio aceite u aceite de oliva evita que se seque, manteniéndolo fresco hasta por 3 meses por debajo de -18 °C."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Por qué se recomienda esperar 5 minutos tras abrir la lata de atún antes de comerlo?",
+                        "answer": "Esto permite que trazas de 'furano', un compuesto orgánico volátil generado durante el proceso comercial de esterilización por calor, se evaporen de forma natural al aire al entrar en contacto con el oxígeno."
+                    },
+                    {
+                        "question": "¿Cuántos días se puede guardar el atún abierto en el refrigerador?",
+                        "answer": "Según las directrices del USDA y de seguridad alimentaria, el atún restante pasado de la lata a un recipiente hermético se puede mantener de forma segura en el refrigerador (0-4 °C) durante 3 a 4 días."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Comment conserver le thon en boîte frais : Guide scientifique de conservation",
+                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le thon en boîte selon les directives officielles de sécurité.",
+                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "intro": "Avez-vous déjà laissé une boîte de thon ouverte au réfrigérateur en rabattant simplement el couvercle ? 🐟\n\nSi les boîtes de thon non ouvertes se conservent plusieurs années à température ambiante, leur ouverture expose le contenu à l'air, accélérant l'oxydation métallique et la contamination bactérienne. Laisser le thon dans sa boîte ouverte emprisonne des gaz volatils comme le furane et lui donne un goût métallique désagréable.\n\nAujourd'hui, FreshSnap vous présente un guide scientifique en 3 étapes basé sur les recommandations du USDA, de la FDA et du MFDS pour conserver votre thon de manière sûre et savoureuse. 🛡️",
+                "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
+                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+                "guideTitle": "Guide de conservation scientifiquement prouvé",
+                "cautionTitle": "Règles essentielles et précautions de stockage",
+                "cautions": [
+                    {
+                        "title": "Ne conservez jamais le thon dans sa boîte en métal une fois ouverte ⚠️",
+                        "desc": "Mettre une boîte métallique ouverte au réfrigérateur expose le métal à l'oxygène, ce qui favorise la corrosion et le transfert d'un goût métallique aux aliments. Transférez toujours immédiatement le reste dans un récipient en verre ou une boîte hermétique."
+                    },
+                    {
+                        "title": "Ne consommez jamais de thon provenant de boîtes bombées, rouillées ou déformées 🚫",
+                        "desc": "Les boîtes gonflées, très rouillées ou profondément cabossées peuvent indiquer la prolifération de bactéries anaérobies dangereuses comme Clostridium botulinum. Jetez immédiatement toute boîte endommagée."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Conserver les boîtes non ouvertes dans un placard frais et sec — Stockage (2 à 5 ans) 📦",
+                        "text": "Le thon en boîte non ouvert est stérilisé à la chaleur et se conserve des années. 💡 Astuce de conservation : Gardez-le dans un endroit frais et sec (15–20 °C) à l'abri du soleil. Après ouverture, laissez reposer le thon 5 minutes pour permettre au furane volatil de s'évaporer naturellement."
+                    },
+                    {
+                        "name": "Transférer immédiatement les restes dans un récipient hermétique — Stockage (3 à 4 jours) ❄️",
+                        "text": "Ne laissez jamais le thon ouvert dans sa boîte métallique. 💡 Astuce de conservation : Transvasez le thon restant avec son jus/huile dans un récipient hermétique propre (en verre ou plastique), fermez bien et placez au réfrigérateur (0–4 °C). Consommez-le sous 3 à 4 jours."
+                    },
+                    {
+                        "name": "Portionner et congeler avec un peu d'huile — Stockage (3 mois) 🧊",
+                        "text": "Si vous ne pouvez pas le consommer sous 4 jours, la congélation est optimale. 💡 Astuce de conservation : Répartissez le thon dans des petits contenants hermétiques. Ajouter un filet d'huile de thon ou d'olive évite le dessèchement et préserve le goût jusqu'à 3 mois sous -18 °C."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Pourquoi est-il recommandé d'attendre 5 minutes après l'ouverture de la boîte de thon avant de le consommer ?",
+                        "answer": "Cela permet aux traces de 'furane', un composé organique volatil produit lors du processus de stérilisation industrielle par la chaleur, de s'évaporer naturellement dans l'air une fois en contact avec l'oxygène."
+                    },
+                    {
+                        "question": "Combien de temps peut-on conserver du thon ouvert au réfrigérateur ?",
+                        "answer": "Selon les directives du USDA et de sécurité alimentaire, le thon transvasé dans un récipient hermétique se conserve en toute sécurité au réfrigérateur (0–4 °C) pendant 3 à 4 jours."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Thunfischdose richtig frisch halten: Wissenschaftlicher Ratgeber",
+                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Thunfischdosen basierend auf offiziellen Sicherheitsrichtlinien.",
+                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "intro": "Haben Sie schon einmal eine angebrochene Thunfischdose einfach mit umgeklapptem Deckel in den Kühlschrank gestellt? 🐟\n\nWährend ungeöffnete Thunfischdosen bei Raumtemperatur jahrelang haltbar sind, führt das Öffnen zu Sauerstoffkontakt, was die Metalloxidation und Bakterienkontamination beschleunigt. Wenn man den Thunfisch in der offenen Dose belässt, können flüchtige Gase wie Furan nicht entweichen und der Fisch nimmt einen metallischen Beigeschmack an.\n\nHeute stellt Ihnen FreshSnap einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Richtlinien von USDA, FDA und MFDS basiert, um Thunfisch sicher und lecker aufzubewahren. 🛡️",
+                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+                "cautions": [
+                    {
+                        "title": "Lagern Sie geöffneten Thunfisch niemals in der Originaldose ⚠️",
+                        "desc": "Wird eine geöffnete Blechdose gekühlt, reagiert das Metall mit Sauerstoff. Dies kann zu Korrosion führen und metallische Geschmacksstoffe an das Essen abgeben. Füllen Sie Reste immer sofort in ein Glas oder eine Frischhaltedose um."
+                    },
+                    {
+                        "title": "Verzehren Sie niemals Thunfisch aus gewölbten oder stark beschädigten Dosen 🚫",
+                        "desc": "Aufgeblähte, stark verrostete oder tief eingedrückte Dosen weisen auf ein mögliches Wachstum gefährlicher anaerober Bakterien wie Clostridium botulinum hin. Entsorgen Sie beschädigte Dosen umgehend."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Ungeöffnete Dosen in einer kühlen Speisekammer lagern — Raumtemperatur (2–5 Jahre) 📦",
+                        "text": "Ungeöffnete Thunfischdosen sind hitzesterilisiert und jahrelang haltbar. 💡 Lagerungstipp: Lagern Sie Dosen an einem kühlen, trockenen Ort (15–20 °C). Lassen Sie den Thunfisch nach dem Öffnen etwa 5 Minuten stehen, damit flüchtiges Furangas an der Luft entweichen kann."
+                    },
+                    {
+                        "name": "Reste sofort in einen luftdichten Behälter umfüllen — Kühllagerung (3–4 Tage) ❄️",
+                        "text": "Lassen Sie angebrochenen Thunfisch niemals in der Blechdose. 💡 Lagerungstipp: Füllen Sie den Thunfisch samt Öl/Eigenflüssigkeit in ein sauberes Glas- oder Kunststoffgefäß um, verschließen Sie es dicht und kühlen Sie es bei 0–4 °C. Innerhalb von 3 bis 4 Tagen verbrauchen."
+                    },
+                    {
+                        "name": "Portionieren und mit etwas Öl einfrieren — Gefrierlagerung (3 Monate) 🧊",
+                        "text": "Wenn Sie ihn nicht innerhalb von 4 Tagen aufbrauchen können, ist Einfrieren ideal. 💡 Lagerungstipp: In kleinen Portionen einfrieren. Ein kleiner Schuss Thunfischöl oder Olivenöl schützt vor dem Austrocknen und erhält den Geschmack bei unter -18 °C bis zu 3 Monate."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Warum sollte man nach dem Öffnen einer Thunfischdose 5 Minuten warten?",
+                        "answer": "Dadurch können Spuren von 'Furan', einer flüchtigen organischen Verbindung, die bei der industriellen Hitzesterilisation entsteht, nach dem Kontakt mit Sauerstoff natürlich an die Luft entweichen."
+                    },
+                    {
+                        "question": "Wie lange hält sich geöffneter Thunfisch im Kühlschrank?",
+                        "answer": "Laut USDA und Sicherheitsrichtlinien kann Thunfisch, der aus der Dose in einen luftdichten Behälter umgefüllt wurde, 3 bis 4 Tage lang sicher im Kühlschrank (0–4 °C) aufbewahrt werden."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Como conservar atum em lata fresco: Guia científico de armazenamento",
+                "description": "Descubra a temperatura, método e tempo de conservação ideais para o atum em lata com base em diretrizes oficiais de segurança.",
+                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "intro": "Você já deixou uma lata de atum aberta na geladeira apenas dobrando a tampa de volta? 🐟\n\nEmbora latas de atum fechadas possam ser guardadas em temperatura ambiente por anos, abri-las expõe o conteúdo ao ar, acelerando a oxidação metálica e a contaminação bacteriana. Guardar na lata aberta retém gases voláteis como o furano e deixa um sabor metálico desagradável no alimento.\n\nHoje, o FreshSnap apresenta um guia de conservação em 3 etapas baseado nas diretrizes do USDA, FDA e MFDS para manter seu atum seguro e saboroso. 🛡️",
+                "whyTitle": "Por que armazenar assim? Fatos científicos",
+                "whyDesc": "Compreender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+                "guideTitle": "Guia de armazenamento comprovado cientificamente",
+                "cautionTitle": "Regras essenciais e precauções no armazenamento",
+                "cautions": [
+                    {
+                        "title": "Nunca guarde o atum na lata de metal original depois de aberta ⚠️",
+                        "desc": "Refrigerar uma lata metálica aberta expõe o revestimento interno ao oxigênio, provocando corrosão e a transferência de gosto metálico para a comida. Transfira sempre o restante para um pote de vidro ou recipiente hermético."
+                    },
+                    {
+                        "title": "Nunca consuma atum de latas estufadas, enferrujadas ou amassadas 🚫",
+                        "desc": "Latas estufadas, muito enferrujadas ou profundamente amassadas podem indicar a presença de bactérias anaeróbicas perigosas, como Clostridium botulinum. Descarte latas danificadas imediatamente."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Guarde as latas fechadas em local fresco e seco — Temperatura ambiente (2–5 anos) 📦",
+                        "text": "O atum em lata fechado é esterilizado por calor e dura anos. 💡 Dica de conservação: Mantenha as latas em local fresco e seco (15-20 °C). Ao abrir a lata, espere cerca de 5 minutos antes de consumir para permitir que o gás furano volátil se dissipe no ar."
+                    },
+                    {
+                        "name": "Transfira as sobras imediatamente para um pote hermético — Refrigeração (3–4 dias) ❄️",
+                        "text": "Nunca deixe o atum aberto na lata de metal. 💡 Dica de conservação: Passe o atum restante com o seu óleo/líquido para um pote limpo de vidro ou plástico hermético, feche bem e refrigere (0-4 °C). Consuma dentro de 3 a 4 dias."
+                    },
+                    {
+                        "name": "Divida em porções e congele com um pouco de óleo — Conservação (3 meses) 🧊",
+                        "text": "Se não for consumir em 4 dias, congelar é a melhor opção. 💡 Dica de conservação: Divida em pequenos potes herméticos. Adicionar um fio do próprio óleo do atum ou azeite evita o ressecamento e mantém o sabor por até 3 meses abaixo de -18 °C."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Por que é recomendado esperar 5 minutos após abrir a lata de atum antes de comer?",
+                        "answer": "Isso permite que vestígios de 'furano', um composto orgânico volátil gerado durante o processo comercial de esterilização por calor, evaporem naturalmente no ar ao entrar em contato com o oxigênio."
+                    },
+                    {
+                        "question": "Por quanto tempo o atum aberto pode ser mantido na geladeira?",
+                        "answer": "Segundo as diretrizes do USDA e de segurança alimentar, o atum transferido da lata para um recipiente hermético pode ser mantido com segurança na geladeira (0-4 °C) por 3 a 4 dias."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Cara Menyimpan Tuna Kaleng agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk tuna kaleng berdasarkan pedoman keselamatan resmi.",
+                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "intro": "Pernahkah Anda menyimpan tuna kaleng yang sudah dibuka di dalam kulkas hanya dengan menutup kembali tutup sengnya? 🐟\n\nMeskipun tuna kaleng yang belum dibuka dapat disimpan dengan aman di suhu ruang selama bertahun-tahun, membukanya akan mengosidasi kontennya dengan udara, mempercepat reaksi logam dan kontaminasi bakteri. Menyimpannya di kaleng terbuka mengunci gas volatil seperti furan dan memberikan bau amis logam pada makanan.\n\nHari ini, FreshSnap membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan pedoman USDA, FDA, dan MFDS untuk menjaga tuna Anda tetap aman dan lezat. 🛡️",
+                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+                "cautions": [
+                    {
+                        "title": "Jangan pernah menyimpan tuna di dalam kaleng aslinya setelah dibuka ⚠️",
+                        "desc": "Mendinginkan kaleng logam yang terbuka membuat lapisan dalam terpapar oksigen, menyebabkan korosi dan rasa logam meresap ke dalam makanan. Selalu pindahkan sisa tuna ke wadah kaca atau wadah kedap udara."
+                    },
+                    {
+                        "title": "Jangan mengonsumsi tuna dari kaleng yang kembung, berkarat, atau penyok 🚫",
+                        "desc": "Kaleng yang kembung, sangat berkarat, atau penyok parah menandakan potensi pertumbuhan bakteri anaerob berbahaya seperti Clostridium botulinum. Buang kaleng yang rusak segera."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Simpan kaleng yang belum dibuka di lemari sejuk dan kering — Suhu Ruang (2–5 Tahun) 📦",
+                        "text": "Tuna kaleng yang belum dibuka telah disterilkan dengan panas dan tahan lama. 💡 Tips Penyimpanan: Simpan kaleng di tempat sejuk dan kering (15–20°C). Setelah kaleng dibuka, diamkan tuna selama 5 menit agar gas furan volatil dapat menguap secara alami ke udara."
+                    },
+                    {
+                        "name": "Segera pindahkan sisa tuna ke wadah kedap udara — Simpan Dingin (3–4 Hari) ❄️",
+                        "text": "Jangan tinggalkan tuna terbuka di kaleng logamnya. 💡 Tips Penyimpanan: Pindahkan sisa tuna beserta minyak/cairannya ke wadah kaca bersih atau wadah plastik kedap udara, tutup rapat, lalu simpan di kulkas (0–4°C). Konsumsi dalam 3 hingga 4 hari."
+                    },
+                    {
+                        "name": "Bagi menjadi porsi kecil lalu bekukan dengan sedikit minyak — Simpan Beku (3 Bulan) 🧊",
+                        "text": "Jika tidak habis dalam 4 hari, membekukannya adalah metode paling aman. 💡 Tips Penyimpanan: Bagi ke wadah kedap udara porsi sekali makan. Menambahkan sedikit minyak tuna atau minyak zaitun mencegah tuna mengering dan menjaga rasa hingga 3 bulan di bawah -18°C."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mengapa disarankan menunggu 5 menit setelah membuka kaleng tuna sebelum dimakan?",
+                        "answer": "Hal ini memungkinkan jejak 'furan', senyawa organik volatil yang dihasilkan selama proses sterilisasi panas komersial, menguap secara alami ke udara begitu terpapar oksigen."
+                    },
+                    {
+                        "question": "Berapa lama tuna kaleng yang sudah dibuka dapat disimpan di dalam kulkas?",
+                        "answer": "Menurut pedoman USDA dan keamanan pangan, sisa tuna yang telah dipindahkan dari kaleng ke wadah kedap udara dapat disimpan dengan aman di kulkas (0–4°C) selama 3 hingga 4 hari."
+                    }
+                ]
+            }
+        }
+    }
+}

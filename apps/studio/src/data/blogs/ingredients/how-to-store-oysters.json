@@ -1,0 +1,406 @@
+{
+    "how-to-store-oysters": {
+        "ingId": "oysters",
+        "pubDate": "2026-04-24",
+        "updatedDate": "2026-04-24",
+        "heroImage": "/images/blog/oysters_storage_hack.webp",
+        "locales": {
+            "ko": {
+                "title": "굴(생굴/껍질굴) 신선하게 보관하는 법: 과학적 보관 가이드",
+                "description": "공인된 안전 가이드라인에 따른 굴의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+                "authority": "<strong>미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)</strong>",
+                "intro": "싱싱한 생굴을 사왔는데 냉장고에 그대로 두었다가 하루만에 냄새가 나거나 비려져서 버린 적 있으시죠? 🦪\n\n굴은 수분이 풍부하고 수확 후에도 생화학적 변화가 활발하여 식중독균(비브리오 패혈증균, 노로바이러스 등)이 번식하기 매우 쉬운 고위험 패류입니다. 수돗물에 담가두거나 밀폐 상태로 방치하면 금세 망가지므로 올바른 저온 보관법이 생명입니다.\n\n오늘 FreshSnap에서는 미국 식품의약국(FDA)과 식품의약품안전처(MFDS) 등의 안전 가이드라인을 바탕으로, 굴의 신선도와 안전을 지키는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+                "guideTitle": "과학적으로 검증된 보관 가이드",
+                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+                "cautions": [
+                    {
+                        "title": "껍질굴을 민물(수돗물)에 절대 담그지 마세요 ⚠️",
+                        "desc": "껍질이 있는 생굴은 삼투압 변화에 약해 수돗물에 담그면 죽으면서 급격히 부패합니다. 보관 전에는 씻지 말고, 먹기 직전에 세척해야 합니다."
+                    },
+                    {
+                        "title": "껍질굴을 완전히 밀폐하지 마세요 🌬️",
+                        "desc": "껍질을 까지 않은 굴은 살아있는 상태이므로 완전 밀폐 용기에 넣으면 질식해 사멸합니다. 젖은 타월을 덮어 숨을 쉴 수 있게 보관해야 합니다."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "껍질굴은 젖은 타월을 덮어 보관하기 — 생존 환경 유지 🦪",
+                        "text": "껍질이 있는 생굴은 살아있는 상태를 유지하는 것이 핵심입니다. 💡 보관 팁: 씻지 않은 껍질굴을 움푹한 용기에 담고 그 위에 바닷물이나 소금물로 적신 젖은 키친타월/천을 덮어 냉장실(1~4℃)에 두세요. 약 2~3일간 살아있는 상태로 신선하게 유지됩니다."
+                    },
+                    {
+                        "name": "알굴은 옅은 소금물과 함께 냉장 보관하기 — 냉장 보관 (1~2일) ❄️",
+                        "text": "껍질을 깐 생굴(알굴)은 공기 및 수분 손실에 매우 약합니다. 💡 보관 팁: 옅은 소금물(3% 농도, 물 1L당 소금 30g)을 만들어 알굴이 자작하게 잠기도록 밀폐 용기에 담아 냉장실(0~4℃)에 보관하세요. 1~2일 이내에 소비하는 것이 가장 안전합니다."
+                    },
+                    {
+                        "name": "소금물에 헹군 뒤 소분하여 냉동 보관하기 — 장기 냉동 보관 (2~3달) 🧊",
+                        "text": "생굴을 며칠 내로 먹기 힘들다면 냉동 보관해야 합니다. 💡 보관 팁: 알굴을 옅은 소금물에 가볍게 씻어 불순물을 제거한 후, 물기를 빼고 1회용 분량씩 지퍼백에 소분하여 소금물 약간과 함께 냉동실(-18℃ 이하)에 보관하세요. 최대 2~3개월간 가열 조리용으로 사용할 수 있습니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "생굴에서 강한 비린내나 악취가 나는데 먹어도 되나요?",
+                        "answer": "조금이라도 상한 듯한 찌릿하거나 역한 비린내가 나거나 과도하게 진액이 생겼다면 비브리오균이나 노로바이러스 오염 위험이 있으므로 즉시 폐기해야 합니다."
+                    },
+                    {
+                        "question": "냉동했던 생굴은 해동 후 회로 먹어도 되나요?",
+                        "answer": "아닙니다! 한번 냉동했던 굴은 해동 후 반드시 중심 온도 85℃ 이상에서 1분 이상 충분히 가열 조리하여 드셔야 식중독 위험을 예방할 수 있습니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "How to Store Oysters: Scientific Storage Guide",
+                "description": "Check the optimal storage temperature, method, and shelf life for oysters based on official safety guidelines.",
+                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "intro": "Have you ever bought fresh raw oysters only to find them smelling off or spoiled after just a day in the fridge? 🦪\n\nOysters are highly perishable shellfish rich in moisture and active enzymes, making them particularly vulnerable to bacterial contamination (e.g., Vibrio species and Norovirus). Soaking them in tap water or sealing live oysters in airtight containers accelerates decay, making proper cold storage essential.\n\nToday, FreshSnap introduces a scientifically proven 3-step storage guide based on safety guidelines from the FDA, USDA, and MFDS to keep your oysters safe and fresh. 🛡️",
+                "whyTitle": "Why Store Oysters This Way? Scientific Facts",
+                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+                "guideTitle": "Scientifically Proven Storage Guide",
+                "cautionTitle": "Essential Storage Rules and Cautions",
+                "cautions": [
+                    {
+                        "title": "Never submerge live oysters in fresh tap water ⚠️",
+                        "desc": "Live oysters in the shell are sensitive to osmotic shock. Submerging them in tap water kills them quickly and triggers rapid decomposition. Do not wash live oysters until immediately before consumption."
+                    },
+                    {
+                        "title": "Never store live oysters in an airtight container 🌬️",
+                        "desc": "Unshucked oysters are living organisms. Sealing them tightly suffocates them. Keep them in an open container covered with a damp towel so they can breathe while retaining humidity."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Keep live shell oysters covered with a damp towel — Preserve Live Environment 🦪",
+                        "text": "Keeping oysters in the shell alive is key to freshness. 💡 Storage Tip: Place unwashed oysters cupped-side down in a deep open bowl, cover with a damp paper towel or cloth moistened with saltwater, and store in the refrigerator (1–4°C / 34–39°F). They will stay alive for 2–3 days."
+                    },
+                    {
+                        "name": "Submerge shucked oysters in mild saltwater — Cold Storage (1–2 Days) ❄️",
+                        "text": "Shucked oyster meat degrades quickly when exposed to air. 💡 Storage Tip: Place shucked oysters in an airtight container submerged in a light 3% saltwater solution (30g salt per 1L water) and refrigerate (0–4°C / 32–39°F). Consume within 1 to 2 days."
+                    },
+                    {
+                        "name": "Rinse, portion, and freeze in saltwater — Freezer Storage (2–3 Months) 🧊",
+                        "text": "If you cannot finish fresh oysters within a couple of days, freezing is necessary. 💡 Storage Tip: Gently rinse shucked oysters in light saltwater, drain, portion into Ziploc bags with a small amount of saltwater, and freeze below -18°C. Store for up to 2–3 months for cooked dishes."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "My oysters have a strong fishy odor or milky liquid. Are they still safe to eat?",
+                        "answer": "No. A sharp, sour, or overly foul odor indicates bacterial spoilage or viral contamination. If the oysters smell bad or feel excessively slimy, discard them immediately."
+                    },
+                    {
+                        "question": "Can I eat previously frozen oysters raw after thawing?",
+                        "answer": "No! Thawed frozen oysters should never be eaten raw. Always cook them thoroughly to an internal temperature of at least 85°C (185°F) for at least 1 minute before consuming."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "生牡蠣（カキ）を新鮮に保つ保存方法：科学的保管ガイド",
+                "description": "公的安全基準に基づく牡蠣の最適な保存温度、保管方法、保存期間をご確認ください。",
+                "authority": "<strong>米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)</strong>",
+                "intro": "新鮮な生牡蠣を買ってきたものの、冷蔵庫に入れておいたらたった一日で生臭くなったり傷んで捨てた経験はありませんか？🦪\n\n牡蠣は水分が豊富で採取後も生化学的変化が活発なため、食中毒菌（腸炎ビブリオやノロウイルスなど）が繁殖しやすい高リスクな貝類です。水道水に浸したり密閉して放置するとすぐに腐敗するため、正しい低温保存法が命となります。\n\n本日FreshSnapでは、米国食品医薬品局（FDA）や食品医薬品安全処（MFDS）などのガイドラインに基づき、牡蠣の鮮度と safe を守る3段階の科学的保存法をご紹介します。🛡️",
+                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+                "guideTitle": "科学的に検証された保存ガイド",
+                "cautionTitle": "保存時の必須ルールと注意事項",
+                "cautions": [
+                    {
+                        "title": "殻付き牡蠣を真水（水道水）に絶対に浸さないでください ⚠️",
+                        "desc": "殻付きの生牡蠣は浸透圧の変化に弱く、水道水に浸すと死滅して急激に腐敗します。保存前には洗わず、食べる直前に洗浄してください。"
+                    },
+                    {
+                        "title": "殻付き牡蠣を完全に密閉しないでください 🌬️",
+                        "desc": "殻をむいていない牡蠣は生きている状態のため、完全密閉容器に入れると窒息死します。濡れタオルをかけて息ができる状態（保湿）で保存してください。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "殻付き牡蠣は濡れタオルをかけて保存する — 生存環境の維持 🦪",
+                        "text": "殻付きの生牡蠣は生存状態を維持することが鮮度の鍵です。💡保存のコツ：洗っていない殻付き牡蠣を深めの容器に並べ、塩水で湿らせた濡れタオルやキッチンペーパーを被せて冷蔵室（1〜4℃）に置きます。約2〜3日間生き生きと新鮮に保てます。"
+                    },
+                    {
+                        "name": "むき身は薄い塩水と一緒に冷蔵保存する — 冷蔵保存 (1〜2日間) ❄️",
+                        "text": "殻をむいた牡蠣（むき身）は空気や水分の損失に非常に弱いです。💡保存のコツ：薄い塩水（3%濃度、水1Lに対し塩30g）を作り、むき身が浸る程度に密閉容器に入れて冷蔵室（0〜4℃）で保存します。1〜2日以内に使い切るのが最も安全です。"
+                    },
+                    {
+                        "name": "塩水ですすいで小分け冷凍保存する — 冷凍保存 (2〜3ヶ月間) 🧊",
+                        "text": "生牡蠣を数日以内に食べ切れない場合は冷凍保存が必要です。💡保存のコツ：むき身を薄い塩水で優しく洗って汚れを落とし、水気を切ってから小分けにし、少量の塩水と共にジッパーバッグに入れて冷凍室（-18℃以下）で保存します。加熱調理用として2〜3ヶ月間保存可能です。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "生牡蠣から強い生臭さや異臭がしますが食べても大丈夫ですか？",
+                        "answer": "酸っぱい匂いや不快な悪臭、または過度なヌメリがある場合はビブリオ菌やノロウイルス汚染の危険があるため、直ちに廃棄してください。"
+                    },
+                    {
+                        "question": "冷凍した生牡蠣は解凍後に生で食べられますか？",
+                        "answer": "いいえ、絶対に生で食べてはいけません！一度冷凍した牡蠣は解凍後、必ず中心部までしっかり加熱（85℃以上で1分以上）して召し上がってください。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "如何保持生蚝（牡蛎）新鲜：科学储存指南",
+                "description": "根据官方食品安全指南，了解生蚝的最佳储存温度、方式和保鲜时长。",
+                "authority": "<strong>美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "intro": "您是否曾买回新鲜生蚝，放在冰箱里仅隔一天就发臭变质而不得不丢弃？🦪\n\n生蚝富含水分且采收后代谢活跃，是极易滋生副溶血性弧菌、诺如病毒等致病菌的高风险贝类。如果浸泡在自来水中或密封放置，会迅速死亡腐烂，因此正确的低温保存至关重要。\n\n今天FreshSnap基于美国食品药品监督管理局(FDA)和韩国食品医药品安全处(MFDS)的安全指南，为您带来3步科学保存秘诀，帮您锁定生蚝的新鲜与安全。🛡️",
+                "whyTitle": "为什么要这样储存？科学原理",
+                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+                "guideTitle": "科学验证的储存指南",
+                "cautionTitle": "储存必需规则及注意事项",
+                "cautions": [
+                    {
+                        "title": "带壳生蚝切勿浸泡于淡水（自来水）中 ⚠️",
+                        "desc": "带壳活蚝对渗透压极度敏感，泡在自来水中会导致其迅速死亡并加速腐烂。保存前请勿清洗，食用前再行冲洗。"
+                    },
+                    {
+                        "title": "切勿将带壳生蚝完全密封 🌬️",
+                        "desc": "未开壳的生蚝是活体生物，装入完全密封的容器会导致其窒息死亡。应用湿毛巾覆盖以保持呼吸与湿润。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "带壳生蚝盖湿毛巾保存 — 维持活体环境 🦪",
+                        "text": "保持带壳生蚝存活是保鲜的关键。💡储存小贴士：将未清洗的带壳生蚝凹面朝下放入深容器中，盖上一块用淡盐水打湿的湿纸巾或湿布，置于冰箱冷藏室（1~4℃），可保活2~3天。"
+                    },
+                    {
+                        "name": "蚝肉泡在淡盐水中冷藏 — 冷藏储存 (1~2天) ❄️",
+                        "text": "去壳的生蚝肉极易流失水分和风味。💡储存小贴士：配置3%浓度的淡盐水（1升水加30克盐），将蚝肉浸泡在淡盐水保鲜盒中，封好冷藏（0~4℃），建议在1~2天内食用完毕。"
+                    },
+                    {
+                        "name": "盐水洗净分装冷冻 — 长期冷冻保存 (2~3个月) 🧊",
+                        "text": "如果几天内吃不完，必须进行冷冻保存。💡储存小贴士：用淡盐水轻轻洗净蚝肉杂质，沥干后按单次用量分装入拉链袋，加入少许盐水，置于冷冻室（-18℃以下）保存，可保存2~3个月（需加热食用）。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "生蚝散发出强烈腥臭味或黏液过多，还能吃吗？",
+                        "answer": "不能。如果散发刺鼻酸臭味、恶臭或表皮极度黏滑，说明已滋生大量细菌或病毒变质，必须立即丢弃。"
+                    },
+                    {
+                        "question": "冷冻过的生蚝解冻后可以生吃吗？",
+                        "answer": "绝对不能！冷冻解冻后的生蚝必须彻底加热烹饪（中心温度达到85℃以上持续1分钟以上）后方可食用，以防食源性疾病。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cómo mantener las ostras frescas: Guía científica de conservación",
+                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para las ostras según las directrices oficiales de seguridad.",
+                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "intro": "¿Alguna vez compró ostras frescas y, al cabo de un solo día en el refrigerador, descubrió que olían mal y estaban echadas a perder? 🦪\n\nLas ostras son moluscos muy perecederos, ricos en agua y enzimas activas, lo que las hace especialmente vulnerables a bacterias (como Vibrio) y virus (como Norovirus). Sumergirlas en agua del grifo o sellarlas en recipientes herméticos acelera su descomposición, por lo que una refrigeración adecuada es vital.\n\nHoy, FreshSnap presenta una guía de conservación en 3 pasos respaldada por la FDA, el USDA y el MFDS para mantener sus ostras frescas y seguras. 🛡️",
+                "whyTitle": "¿Por qué almacenarlas así? Datos científicos",
+                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+                "guideTitle": "Guía de almacenamiento científicamente probada",
+                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+                "cautions": [
+                    {
+                        "title": "Nunca sumerja ostras vivas en agua dulce del grifo ⚠️",
+                        "desc": "Las ostras con concha son sensibles al choque osmótico. Sumergirlas en agua del grifo las mata rápidamente y desata una descomposición acelerada. Lávelas únicamente justo antes de consumir."
+                    },
+                    {
+                        "title": "Nunca guarde ostras con concha en un recipiente hermético 🌬️",
+                        "desc": "Las ostras sin desconchar son organismos vivos. Cerrarlas herméticamente las asfixia. Guárdelas en un recipiente abierto cubierto con un paño húmedo para que respiren sin perder humedad."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Guarde las ostras con concha cubiertas con un paño húmedo — Mantenga el entorno vivo 🦪",
+                        "text": "Mantener vivas las ostras con concha es la clave de su frescura. 💡 Consejo de almacenamiento: Coloque las ostras sin lavar con la parte cóncava hacia abajo en un tazón hondo, cúbralas con un paño humedecido en agua salada y refrigere (1–4 °C). Permanecerán vivas 2 o 3 días."
+                    },
+                    {
+                        "name": "Sumerja la carne de ostra en agua salada suave — Refrigeración (1–2 días) ❄️",
+                        "text": "La carne de ostra desconchada se deteriora rápido al contacto con el aire. 💡 Consejo de almacenamiento: Coloque la carne de ostra sumergida en una solución de agua salada suave al 3% (30 g de sal por 1 L de agua) en un recipiente hermético y refrigere (0–4 °C). Consuma en 1 o 2 días."
+                    },
+                    {
+                        "name": "Enjuague, porcione y congele con agua salada — Conservación (2–3 meses) 🧊",
+                        "text": "Si no consumirá las ostras en un par de días, es necesario congelarlas. 💡 Consejo de almacenamiento: Enjuague suavemente las ostras en agua salada, escúrralas, divídalas en bolsas Ziploc con un poco de agua salada y congélelas a menos de -18 °C hasta por 2 o 3 meses (solo para cocinar)."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mis ostras tienen un olor muy fuerte o líquido lechoso. ¿Aún son seguras?",
+                        "answer": "No. Un olor agrio o desagradable indica descomposición bacteriana. Si las ostras huelen mal o están excesivamente viscosas, deséchelas inmediatamente."
+                    },
+                    {
+                        "question": "¿Puedo comer ostras congeladas crudas después de descongelarlas?",
+                        "answer": "¡No! Las ostras congeladas y descongeladas nunca deben comerse crudas. Cocínelas siempre a una temperatura interna de al menos 85 °C antes de consumirlas."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Comment conserver les huîtres fraîches : Guide scientifique de conservation",
+                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les huîtres selon les directives officielles de sécurité.",
+                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "intro": "Avez-vous déjà acheté des huîtres fraîches pour constater après seulement un jour au réfrigérateur qu'elles dégageaient une mauvaise odeur ? 🦪\n\nLes huîtres sont des coquillages très périssables, riches en eau et en enzymes, ce qui les rend particulièrement vulnérables aux bactéries (Vibrio) et aux virus (Norovirus). Les immerger dans l'eau du robinet ou les enfermer dans un contenant hermétique accélère leur décomposition.\n\nAujourd'hui, FreshSnap vous présente un guide scientifique en 3 étapes basé sur les recommandations de la FDA, du USDA et du MFDS pour conserver vos huîtres en toute sécurité. 🛡️",
+                "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
+                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+                "guideTitle": "Guide de conservation scientifiquement prouvé",
+                "cautionTitle": "Règles essentielles et précautions de stockage",
+                "cautions": [
+                    {
+                        "title": "N'immergez jamais des huîtres vivantes dans l'eau du robinet ⚠️",
+                        "desc": "Les huîtres en coquille sont sensibles au choc osmotique. Les plonger dans l'eau douce les tue rapidement et déclenche une décomposition rapide. Ne les lavez qu'au moment de servir."
+                    },
+                    {
+                        "title": "Ne conservez jamais d'huîtres en coquille dans un récipient hermétique 🌬️",
+                        "desc": "Les huîtres non ouvertes sont des organismes vivants. Les fermer hermétiquement les asphyxie. Laissez-les dans un plat ouvert recouvert d'un linge humide pour qu'elles respirent."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Recouvrir les huîtres en coquille d'un linge humide — Préserver l'état vivant 🦪",
+                        "text": "Maintenir les huîtres vivantes est la clé de la fraîcheur. 💡 Astuce de conservation : Placez les huîtres non lavées côté bombé vers le bas dans un plat creux ouvert, recouvrez-les d'un torchon humidifié à l'eau salée et réfrégérez (1–4 °C). Elles resteront vivantes 2 à 3 jours."
+                    },
+                    {
+                        "name": "Immerger la chair d'huître dans de l'eau salée — Stockage (1 à 2 jours) ❄️",
+                        "text": "La chair d'huître décoquillée s'altère vite au contact de l'air. 💡 Astuce de conservation : Placez la chair dans une boîte hermétique immergée dans de l'eau salée à 3 % (30 g de sel par litre) et réfrigérez (0–4 °C). Consommez sous 1 à 2 jours."
+                    },
+                    {
+                        "name": "Rincer, portionner et congeler avec de l'eau salée — Stockage (2 à 3 mois) 🧊",
+                        "text": "Si vous ne pouvez pas les consommer rapidement, la congélation est nécessaire. 💡 Astuce de conservation : Rincez la chair à l'eau salée, égouttez, répartissez dans des sacs congélation avec un peu d'eau salée et congelez sous -18 °C pendant 2 à 3 mois (pour cuisson)."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mes huîtres dégagent une forte odeur suspecte. Sont-elles consommables ?",
+                        "answer": "Non. Une odeur sûre ou trop forte indique une dégradation bactérienne. Si les huîtres sentent mauvais ou présentent un aspect gluant, jetez-les immédiatement."
+                    },
+                    {
+                        "question": "Peut-on manger des huîtres décongelées crues ?",
+                        "answer": "Non ! Des huîtres ayant été congelées ne doivent jamais être mangées crues. Veillez à toujours les cuire à cœur (au moins 85 °C pendant 1 minute) avant consommation."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Austern richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Austern basierend auf offiziellen Sicherheitsrichtlinien.",
+                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "intro": "Haben Sie schon einmal frische Austern gekauft, nur um nach einem Tag im Kühlschrank festzustellen, dass sie unangenehm rochen? 🦪\n\nAustern sind leicht verderbliche Muscheln mit hohem Wassergehalt und aktiven Enzymen, wodurch sie extrem anfällig für Bakterien (Vibrio) und Viren (Norovirus) sind. Das Einlegen in Leitungswasser oder das luftdichte Verschließen lebender Austern beschleunigt den Verderb.\n\nHeute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Richtlinien von FDA, USDA und MFDS basiert, um Ihre Austern sicher und frisch zu halten. 🛡️",
+                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+                "cautions": [
+                    {
+                        "title": "Legen Sie lebende Austern niemals in Süßwasser (Leitungswasser) ⚠️",
+                        "desc": "Lebende Austern reagieren empfindlich auf osmotischen Schock. Leitungswasser tötet sie rasch und leitet die Zersetzung ein. Waschen Sie Austern erst unmittelbar vor dem Verzehr."
+                    },
+                    {
+                        "title": "Verschließen Sie lebende Austern niemals luftdicht 🌬️",
+                        "desc": "Ungeöffnete Austern sind lebende Organismen. Ein luftdichter Behälter führt zum Ersticken. Deckeln Sie das Gefäß stattdessen mit einem feuchten Tuch ab, damit sie atmen können."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Austern in der Schale mit einem feuchten Tuch abdecken — Lebendzustand erhalten 🦪",
+                        "text": "Das Überleben der Austern in der Schale ist der Schlüssel zur Frische. 💡 Lagerungstipp: Ungewaschene Austern mit der gewölbten Seite nach unten in eine Schale legen, mit einem mit Salzwasser befeuchteten Tuch abdecken und im Kühlschrank (1–4 °C) lagern (2–3 Tage haltbar)."
+                    },
+                    {
+                        "name": "Ausgelöstes Austernfleisch in leichtem Salzwasser kühlen — Kühllagerung (1–2 Tage) ❄️",
+                        "text": "Ausgelöstes Austernfleisch verliert an der Luft rasch an Qualität. 💡 Lagerungstipp: Austernfleisch in eine 3%ige Salzwasserlösung (30 g Salz pro 1 L Wasser) in einer Dose geben und kühlen (0–4 °C). Innerhalb von 1 bis 2 Tagen verbrauchen."
+                    },
+                    {
+                        "name": "Abspülen, portionieren und im Salzwasser einfrieren — Gefrierlagerung (2–3 Monate) 🧊",
+                        "text": "Wenn Sie frische Austern nicht rasch verbrauchen können, ist Einfrieren notwendig. 💡 Lagerungstipp: Fleisch kurz in Salzwasser spülen, abtropfen lassen, mit etwas Salzwasser in Gefrierbeutel füllen und bei unter -18 °C bis zu 2–3 Monate einfrieren (nur zum Kochen)."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Meine Austern riechen stark fischig oder unangenehm. Sind sie noch genießbar?",
+                        "answer": "Nein. Ein saurer oder fauliger Geruch deutet auf bakteriellen Verderb hin. Wenn Austern schlecht riechen oder extrem schleimig sind, entsorgen Sie sie sofort."
+                    },
+                    {
+                        "question": "Kann man aufgetaute Austern nach dem Einfrieren roh essen?",
+                        "answer": "Nein! Aufgetaute Austern dürfen niemals roh verzehrt werden. Kochen Sie sie stets gründlich durch (Kerntemperatur von mindestens 85 °C für 1 Minute), um Infektionen vorzubeugen."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Como conservar ostras frescas: Guia científico de armazenamento",
+                "description": "Descubra a temperatura, método e tempo de conservação ideais para ostras com base em diretrizes oficiais de segurança.",
+                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "intro": "Você já comprou ostras frescas e percebeu que, após apenas um dia na geladeira, elas estavam com cheiro forte e estragadas? 🦪\n\nAs ostras são moluscos altamente perecíveis, ricos em água e enzimas ativas, o que as torna vulneráveis a bactérias (Vibrio) e vírus (Norovírus). Submergi-las em água da torneira ou selá-las em recipientes herméticos acelera sua deterioração.\n\nHojes, o FreshSnap apresenta um guia de conservação em 3 etapas baseado nas diretrizes da FDA, USDA e MFDS para manter suas ostras seguras e frescas. 🛡️",
+                "whyTitle": "Por que armazenar assim? Fatos científicos",
+                "whyDesc": "Compreender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+                "guideTitle": "Guia de armazenamento comprovado cientificamente",
+                "cautionTitle": "Regras essenciais e precauções no armazenamento",
+                "cautions": [
+                    {
+                        "title": "Nunca submerja ostras vivas em água doce da torneira ⚠️",
+                        "desc": "Ostras vivas na concha são sensíveis ao choque osmótico. Submergi-las em água doce as mata rapidamente e desencadeia rápida decomposição. Lave-as apenas imediatamente antes do consumo."
+                    },
+                    {
+                        "title": "Nunca guarde ostras com concha em recipientes herméticos 🌬️",
+                        "desc": "Ostras fechadas são organismos vivos. Selá-las hermeticamente causa asfixia. Mantenha-as em um recipiente aberto coberto com pano úmido para que possam respirar mantendo a umidade."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Mantenha as ostras com concha cobertas com um pano úmido — Preserve o estado vivo 🦪",
+                        "text": "Manter as ostras vivas na concha é a chave do frescor. 💡 Dica de conservação: Coloque as ostras com o lado côncavo para baixo em um recipiente fundo, cubra com um pano umedecido em água salgada e refrigere (1–4 °C). Elas duram de 2 a 3 dias."
+                    },
+                    {
+                        "name": "Submerja o miolo da ostra em água salgada leve — Refrigeração (1–2 dias) ❄️",
+                        "text": "O miolo da ostra sem concha degrada-se rapidamente em contato com o ar. 💡 Dica de conservação: Coloque o miolo em uma solução leve de água salgada a 3% (30g de sal por 1L de água) em um pote e refrigere (0–4 °C). Consuma em 1 a 2 dias."
+                    },
+                    {
+                        "name": "Lave, porcione e congele com água salgada — Armazenamento (2–3 meses) 🧊",
+                        "text": "Se não for consumir em dois dias, o congelamento é necessário. 💡 Dica de conservação: Lave o miolo em água salgada leve, escorra, divida em sacos Ziploc com um pouco de água salgada e congele a menos de -18 °C por 2 a 3 meses (apenas para cozinhar)."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Minhas ostras estão com um cheiro forte ou líquido leitoso. Ainda posso comer?",
+                        "answer": "Não. Um cheiro azedo ou desagradável indica deterioração bacteriana. Se as ostras cheirarem mal ou estiverem excessivamente viscosas, descarte-as imediatamente."
+                    },
+                    {
+                        "question": "Posso comer ostras descongeladas cruas?",
+                        "answer": "Não! Ostras que foram congeladas nunca devem ser consumidas cruas. Cozinhe-as sempre completamente (temperatura interna de pelo menos 85 °C) antes de consumir."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Cara Menyimpan Tiram agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk tiram berdasarkan pedoman keselamatan resmi.",
+                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "intro": "Pernahkah Anda membeli tiram segar lalu mendapati baunya busuk hanya dalam satu hari di dalam kulkas? 🦪\n\nTiram adalah kerang yang sangat mudah rusak, kaya akan air dan enzim aktif, membuatnya sangat rentan terhadap bakteri (Vibrio) dan virus (Norovirus). Merendamnya dalam air keran atau menutupnya rapat-rapat dalam wadah kedap udara mempercepat pembusukan.\n\nHari ini, FreshSnap membagikan panduan penyimpanan tiram 3 langkah berbasis ilmiah berdasarkan pedoman FDA, USDA, dan MFDS untuk menjaga tiram Anda tetap aman dan segar. 🛡️",
+                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+                "cautions": [
+                    {
+                        "title": "Jangan pernah merendam tiram hidup dalam air keran ⚠️",
+                        "desc": "Tiram hidup bercangkang sangat sensitif terhadap kejutan osmotik. Merendamnya dalam air tawar akan membunuhnya dengan cepat dan memicu pembusukan. Cuci tiram tepat sebelum dikonsumsi."
+                    },
+                    {
+                        "title": "Jangan pernah menyimpan tiram bercangkang dalam wadah kedap udara 🌬️",
+                        "desc": "Tiram utuh yang belum dibuka adalah organisme hidup. Menutupnya secara rapat akan membuatnya mati lemas. Simpan di wadah terbuka yang ditutupi kain basah agar dapat bernapas."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Tutup tiram bercangkang dengan kain basah — Menjaga Lingkungan Hidup 🦪",
+                        "text": "Menjaga tiram bercangkang tetap hidup adalah kunci kesegaran. 💡 Tips Penyimpanan: Letakkan tiram di wadah terbuka dengan bagian cangkang cembung di bawah, tutup dengan kain yang dibasahi air garam, lalu simpan di kulkas (1–4°C). Tiram akan bertahan hidup 2–3 hari."
+                    },
+                    {
+                        "name": "Rendam daging tiram dalam air garam ringan — Simpan Dingin (1–2 Hari) ❄️",
+                        "text": "Daging tiram tanpa cangkang cepat rusak jika terpapar udara. 💡 Tips Penyimpanan: Masukkan daging tiram ke dalam larutan air garam 3% (30g garam per 1L air) dalam wadah kedap udara lalu simpan di kulkas (0–4°C). Habiskan dalam 1 hingga 2 hari."
+                    },
+                    {
+                        "name": "Bilas, bagi porsi, lalu bekukan dalam air garam — Simpan Beku (2–3 Bulan) 🧊",
+                        "text": "Jika tidak habis dalam dua hari, tiram harus dibekukan. 💡 Tips Penyimpanan: Bilas daging tiram dengan air garam ringan, tiriskan, masukkan ke kantong Ziploc bersama sedikit air garam, lalu bekukan di bawah -18°C hingga 2–3 bulan (khusus untuk dimasak)."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Tiram saya berbau menyengat atau berlendir parah. Apakah masih aman dimakan?",
+                        "answer": "Tidak. Bau busuk atau asam menandakan pembusukan bakteri. Jika tiram berbau tidak sedap atau sangat berlendir, segera buang."
+                    },
+                    {
+                        "question": "Apakah tiram yang pernah dibekukan boleh dimakan mentah setelah dicairkan?",
+                        "answer": "Sama sekali tidak boleh! Tiram yang pernah dibekukan harus selalu dimasak hingga matang sempurna (suhu dalam minimal 85°C) sebelum dikonsumsi."
+                    }
+                ]
+            }
+        }
+    }
+}

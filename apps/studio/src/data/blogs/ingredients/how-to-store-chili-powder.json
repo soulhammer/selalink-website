@@ -1,0 +1,406 @@
+{
+    "how-to-store-chili-powder": {
+        "ingId": "chili-powder",
+        "pubDate": "2026-06-05",
+        "updatedDate": "2026-06-05",
+        "heroImage": "/images/blog/chili_powder_storage_hack.webp",
+        "locales": {
+            "ko": {
+                "title": "고춧가루(파프리카 파우더) 신선하게 보관하는 법: 과학적 보관 가이드",
+                "description": "공인된 안전 가이드라인에 따른 고춧가루의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+                "authority": "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>",
+                "intro": "대용량으로 구매한 고춧가루를 상온 찬장에 두었다가 붉은 빛깔이 거무스름하게 변하거나 눅눅해져 곰팡이가 핀 적 있으시죠? 🌶️\n\n고춧가루와 파프리카 파우더는 공기, 빛, 수분, 온도에 매우 민감한 건조 양념입니다. 상온에 오래 방치하면 지방 성분이 산화하여 빛깔이 바래고 쩐내가 나며, 습기가 들어가면 곰팡이 독소(아플라톡신 등)가 생기거나 벌레가 생기기 매우 쉬운 환경이 됩니다.\n\n오늘 FreshSnap에서는 농업 및 식품 안전 전문가들의 검증된 가이드라인을 바탕으로, 고춧가루의 선명한 빛깔과 매콤한 풍미를 오랫동안 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+                "guideTitle": "과학적으로 검증된 보관 가이드",
+                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+                "cautions": [
+                    {
+                        "title": "김이 나는 냄비 위에 바로 용기를 대고 털어 넣지 마세요 ⚠️",
+                        "desc": "끓는 찌개나 국 위에서 용기째 고춧가루를 털어 넣으면 냄비의 수증기가 용기 안으로 들어가 눅눅해지고 곰팡이나 세균이 번식하기 쉬워집니다. 반드시 별도의 건조한 스푼을 사용하세요."
+                    },
+                    {
+                        "title": "직사광선이나 가스레인지 주변 상온에 장기 보관하지 마세요 ☀️",
+                        "desc": "빛과 높은 온도는 고춧가루의 카로티노이드 색소를 파괴하여 색을 검게 변화시키고 불포화 지방산을 산화시킵니다. 또한 20℃ 이상의 상온에서는 쌀벌레나 화랑곡나방 등의 벌레가 발생하기 쉽습니다."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "소량은 차광 밀폐 용기에 담아 소분하기 — 빛과 산소 차단 📦",
+                        "text": "고춧가루는 공기와 빛에 노출되면 색이 바래고 풍미가 저하됩니다. 💡 보관 팁: 바로 사용할 소량은 빛을 차단하는 불투명 밀폐 용기나 갈색 유리병에 담아 서늘한 곳에 보관하세요. 공기와 빛을 차단하여 붉은 색상을 오랫동안 보존해 줍니다."
+                    },
+                    {
+                        "name": "사용할 분량은 냉장 보관하기 — 냉장 보관 (3~6개월) ❄️",
+                        "text": "자주 사용하는 고춧가루는 냉장 보관이 유용합니다. 💡 보관 팁: 뚜껑을 빈틈없이 닫은 밀폐 용기에 담아 냉장실(0~4℃)에 보관하세요. 습기 유입을 차단하면 3~6개월 동안 변색 없이 신선하게 매일 요리에 활용할 수 있습니다."
+                    },
+                    {
+                        "name": "대용량은 지퍼백으로 이중 밀봉하여 냉동 보관하기 — 장기 냉동 보관 (1년 이상) 🧊",
+                        "text": "대용량 고춧가루를 장기 보관할 때는 냉동 보관이 가장 안전한 방법입니다. 💡 보관 팁: 한 번에 먹을 만큼 소분한 뒤 지퍼백에 담아 공기를 완전히 빼고 이중 밀봉하여 냉동실(-18℃ 이하)에 보관하세요. 곰팡이 독소 발생과 변색, 벌레 생김을 막아 1년 이상 신선도가 유지됩니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "고춧가루 색깔이 검붉게 변했는데 먹어도 되나요?",
+                        "answer": "공기와 빛, 열에 노출되어 색소가 파괴되고 산화된 현상입니다. 곰팡이나 퀴퀴한 쩐내가 없다면 먹어도 해롭지는 않지만, 풍미와 매운맛이 많이 떨어집니다. 변색을 막으려면 냉동 보관이 필수입니다."
+                    },
+                    {
+                        "question": "고춧가루에 뭉침 현상이 생겼는데 곰팡이인가요?",
+                        "answer": "습기를 흡수하여 단순 뭉침이 생긴 것일 수 있으나, 흰색이나 푸른색 실모양 곰팡이가 보이거나 퀴퀴한 냄새가 난다면 아플라톡신 등 곰팡이 독소가 생성되었을 수 있으므로 즉시 폐기해야 합니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "How to Store Chili Powder (Paprika): Scientific Storage Guide",
+                "description": "Check the optimal storage temperature, method, and shelf life for chili powder and paprika based on official safety guidelines.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Have you ever stored a large batch of chili powder or paprika in your pantry, only to find it turned dark, clumpy, or moldy after a few months? 🌶️\n\nChili powder and paprika are dried ground spices extremely sensitive to air, light, moisture, and heat. Exposure to room temperature and humidity causes lipid oxidation, color fading, flavor loss, and creates a high risk for mold toxins (such as aflatoxin) or insect infestation.\n\nToday, FreshSnap introduces a scientifically proven 3-step storage guide recommended by agricultural and food safety experts to preserve the vibrant color and fiery flavor of your ground spices. 🛡️",
+                "whyTitle": "Why Store Chili Powder This Way? Scientific Facts",
+                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+                "guideTitle": "Scientifically Proven Storage Guide",
+                "cautionTitle": "Essential Storage Rules and Cautions",
+                "cautions": [
+                    {
+                        "title": "Never shake spice containers directly over steaming pots ⚠️",
+                        "desc": "Shaking chili powder directly over a boiling pot allows steam to enter the container, causing humidity buildup, clumping, and rapid mold growth. Always use a clean, dry spoon to scoop spices."
+                    },
+                    {
+                        "title": "Avoid long-term storage in direct sunlight or near heat sources ☀️",
+                        "desc": "Light and high temperatures break down carotenoid pigments, darkening the red color and oxidizing fats. Temperatures above 20°C (68°F) also encourage pantry pests like Indian meal moths or beetles."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Portion small amounts into opaque airtight containers — Block Light & Oxygen 📦",
+                        "text": "Exposure to air and light degrades spice pigments and volatile oils. 💡 Storage Tip: Keep everyday portions in an opaque airtight container or dark amber glass jar in a cool, dark place to shield the vibrant red color from light and air oxidation."
+                    },
+                    {
+                        "name": "Store frequently used amounts in the refrigerator — Cold Storage (3–6 Months) ❄️",
+                        "text": "For active cooking, refrigeration protects spices from room temperature humidity and heat. 💡 Storage Tip: Keep tightly sealed containers in the refrigerator (0–4°C / 32–39°F) to maintain fresh flavor and bright red color without clumping for 3 to 6 months."
+                    },
+                    {
+                        "name": "Double-seal large batches for long-term freezing — Freezer Storage (1+ Year) 🧊",
+                        "text": "Freezing is the most effective method for long-term preservation of ground peppers. 💡 Storage Tip: Portion large quantities into airtight Ziploc bags, press out all air, double-seal, and store below -18°C (0°F). This prevents mold toxins, color fading, and pests for over a year."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "My chili powder turned dark red or brownish. Is it still safe to eat?",
+                        "answer": "Darkening occurs when carotenoid pigments break down due to light, heat, or oxygen exposure. If there is no mold or rancid odor, it is safe to eat, though flavor and heat will be diminished. Freezing prevents this discoloration."
+                    },
+                    {
+                        "question": "My chili powder has formed clumps. Is it moldy?",
+                        "answer": "Clumping usually happens when moisture is absorbed. However, if you see white or greenish webbing/fuzz or smell a musty odor, dangerous mycotoxins (like aflatoxin) may be present, and the spice must be discarded immediately."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "唐辛子粉（パプリカパウダー）を新鮮に保つ保存方法：科学的保管ガイド",
+                "description": "公的安全基準に基づく唐辛子粉・パプリカパウダーの最適な保存温度、保管方法、保存期間をご確認ください。",
+                "authority": "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>",
+                "intro": "大容量で買った唐辛子粉を常温の棚に置いておいたら、赤色が黒っぽく変色したり、湿気てカビが生えてしまった経験はありませんか？🌶️\n\n唐辛子粉やパプリカパウダーは、空気、光、湿気、温度に非常に敏感な乾燥調味料です。常温に長く放置すると脂質が酸化して色が褪せ、油臭くなり、湿気が入るとカビ毒（アフラトキシンなど）や虫が発生しやすい環境になります。\n\n本日FreshSnapでは、専門家による検証済みガイドラインに基づき、唐辛子粉の鮮やかな赤色と辛味・風味を長持ちさせる3段階の科学的保存法をご紹介します。🛡️",
+                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+                "guideTitle": "科学的に検証された保存ガイド",
+                "cautionTitle": "保存時の必須ルールと注意事項",
+                "cautions": [
+                    {
+                        "title": "湯気が立つ鍋の上で直接容器から振り入れないでください ⚠️",
+                        "desc": "沸騰している鍋の上で容器ごと唐辛子粉を振り入れると、蒸気が容器内に入り込んで湿気り、カビや細菌が繁殖しやすくなります。必ず完全に乾いた別のスプーンを使用してください。"
+                    },
+                    {
+                        "title": "直射日光やコンロ周辺の常温で長期保存しないでください ☀️",
+                        "desc": "光と高温は唐辛子粉のカロテノイド色素を破壊して色を黒く変色させ、不飽和脂肪酸を酸化させます。また20℃以上の常温では穀物虫などが発生しやすくなります。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "少量は遮光密閉容器に小分けする — 光と酸素の遮断 📦",
+                        "text": "唐辛子粉は空気や光に晒されると色が褪せ風味も落ちます。💡保存のコツ：すぐに使う少量は、光を遮る不透明な密閉容器や茶色のガラス瓶に入れ、涼しい場所に保管してください。赤色を長く保存できます。"
+                    },
+                    {
+                        "name": "普段使う分は冷蔵保存する — 冷蔵保存 (3〜6ヶ月間) ❄️",
+                        "text": "日常的に使う唐辛子粉は冷蔵保存が便利です。💡保存のコツ：フタをしっかり閉めた密閉容器に入れて冷蔵室（0〜4℃）で保存します。湿気の侵入を防ぎ、3〜6ヶ月間変色せずに新鮮さを保てます。"
+                    },
+                    {
+                        "name": "大容量はジッパーバッグで二重密封し冷凍保存する — 長期冷凍保存 (1年以上) 🧊",
+                        "text": "大量の唐辛子粉を長期保存する場合は冷凍保存が最も安全です。💡保存のコツ：1回分ずつ小分けしてジッパーバッグに入れ、空気を完全に抜いて二重密封し冷凍室（-18℃以下）で保存します。カビ毒や変色、虫の発生を防ぎ1年以上新鮮さが続きます。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "唐辛子粉の色が黒っぽくなりましたが食べられますか？",
+                        "answer": "空気や光、熱に晒されて色素が破壊され酸化した現象です。カビや不快な匂いがなければ食べても害はありませんが、風味や辛味が落ちています。変色を防ぐには冷凍保存が不可欠です。"
+                    },
+                    {
+                        "question": "唐辛子粉が固まっていますがカビでしょうか？",
+                        "answer": "湿気を吸って固まっただけの可能性もありますが、白や緑色の糸状のカビが見られたり古い匂いがする場合は、アフラトキシンなどのカビ毒が発生している恐れがあるため直ちに廃棄してください。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "如何保持辣椒粉（帕普莉卡红椒粉）新鲜：科学储存指南",
+                "description": "根据官方食品安全指南，了解辣椒粉与红椒粉的最佳储存温度、方式和保鲜时长。",
+                "authority": "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "intro": "您是否曾将大包购买的辣椒粉存放在常温橱柜中，几个月后拿出来却发现颜色发黑、受潮结块甚至发霉？🌶️\n\n辣椒粉与红椒粉是极易受空气、光线、水分及温度影响的干燥香料。长期常温暴露会导致油脂氧化、褪色变味，一旦受潮更极易滋生真菌毒素（如黄曲霉毒素）或招引米虫。\n\n今天FreshSnap基于权威机构的科学指南，为您介绍3步科学保存秘诀，帮您长久保持辣椒粉的鲜艳红润与辛辣香气。🛡️",
+                "whyTitle": "为什么要这样储存？科学原理",
+                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+                "guideTitle": "科学验证的储存指南",
+                "cautionTitle": "储存必需规则及注意事項",
+                "cautions": [
+                    {
+                        "title": "切勿在冒热气的锅上方直接倾倒辣椒粉 ⚠️",
+                        "desc": "在沸腾的汤锅上方直接倾倒辣椒粉，热蒸汽会倒流进入瓶内导致受潮，极易引发结块和霉菌滋生。请务必使用干燥的勺子舀取。"
+                    },
+                    {
+                        "title": "切勿在阳光直射或灶台旁常温长期存放 ☀️",
+                        "desc": "光照和高温会破坏辣椒粉中的类胡萝卜素，导致红晕变黑并加速油脂氧化。此外，20℃以上的常温极易招引蛾类或米虫滋生。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "少量装入避光密封盒 — 阻绝光线与氧气 📦",
+                        "text": "辣椒粉暴露于空气和光线中会导致褪色和风味散失。💡储存小贴士：将短期食用的分量装入避光不透明密封盒或棕色玻璃瓶中，置于阴凉处。能有效锁住鲜红色彩。"
+                    },
+                    {
+                        "name": "日常食用分量置于冰箱冷藏 — 冷藏储存 (3~6个月) ❄️",
+                        "text": "频繁使用的辣椒粉冷藏存放最为便捷。💡储存小贴士：装入拧紧盖子的密封盒中放入冰箱冷藏室（0~4℃）。阻绝湿气后可保持3至6个月不变色不结块。"
+                    },
+                    {
+                        "name": "大分量用密封袋双层封存后冷冻 — 长期冷冻保存 (1年以上) 🧊",
+                        "text": "大分量辣椒粉长期保存的最安全方式是冷冻。💡储存小贴士：按使用量分装入拉链袋，挤掉空气后双层密封，置于冷冻室（-18℃以下）保存。可防止毒素生成、褪色与虫害，保鲜长达1年以上。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "辣椒粉颜色发黑变暗了还能吃吗？",
+                        "answer": "这是色素在光线、热量或氧气作用下分解氧化的现象。如果没有发霉或陈腐异味，食用对健康无害，但辣味和香气会大幅降低。要防止变色必须冷冻保存。"
+                    },
+                    {
+                        "question": "辣椒粉结块了是发霉了吗？",
+                        "answer": "吸收湿气可能导致单纯结块。但如果观察到白色或绿色丝状霉菌，或散发出霉味，可能已产生黄曲霉毒素等霉菌毒素，必须立即丢弃。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cómo mantener el chile en polvo (pimentón) fresco: Guía científica de conservación",
+                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para el chile en polvo y el pimentón según las directrices oficiales de seguridad.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "¿Alguna vez guardó una gran cantidad de chile en polvo o pimentón en la despensa y, meses después, descubrió que se había oscurecido, endurecido o emmohecido? 🌶️\n\nEl chile en polvo y el pimentón son especias secas extremadamente sensibles al aire, la luz, la humedad y el calor. La exposición prolongada a temperatura ambiente oxida sus aceites, desvanece su color rojo brillante e incrementa el riesgo de toxinas por moho (como la aflatoxina) e insectos.\n\nHoy, FreshSnap presenta una guía de conservación en 3 pasos respaldada por expertos para preservar el color intenso y el sabor picante de sus especias. 🛡️",
+                "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+                "guideTitle": "Guía de almacenamiento científicamente probada",
+                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+                "cautions": [
+                    {
+                        "title": "Nunca vierta la especia directamente sobre una olla hirviendo ⚠️",
+                        "desc": "Agitar el recipiente directamente sobre el vapor de la comida permite que la humedad entre al frasco, apelmazando el polvo y favoreciendo la aparición rápida de moho. Utilice siempre una cuchara limpia y seca."
+                    },
+                    {
+                        "title": "Evite la luz solar directa y fuentes de calor ☀️",
+                        "desc": "La luz y el calor degradan los carotenoides, oscureciendo el color rojo y oxidando las grasas. Además, a temperaturas superiores a 20 °C aumentan las plagas de despensa."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Porcione cantidades pequeñas en recipientes opacos herméticos — Bloquee luz y oxígeno 📦",
+                        "text": "La luz y el aire degradan los pigmentos y aceites volátiles de la especia. 💡 Consejo de almacenamiento: Guarde las porciones diarias en un frasco opaco hermético o de vidrio ámbar en un lugar fresco y oscuro para proteger el color rojo de la oxidación."
+                    },
+                    {
+                        "name": "Guarde porciones de uso frecuente en el refrigerador — Refrigeración (3–6 meses) ❄️",
+                        "text": "La refrigeración protege las especias de uso habitual contra la humedad ambiental. 💡 Consejo de almacenamiento: Mantenga los recipientes bien sellados en el refrigerador (0–4 °C) para conservar el sabor fresco y el color brillante sin apelmazarse de 3 a 6 meses."
+                    },
+                    {
+                        "name": "Selle doblemente grandes lotes para congelación prolongada — Congelación (1+ año) 🧊",
+                        "text": "Congelar es la forma más segura de conservar grandes cantidades a largo plazo. 💡 Consejo de almacenamiento: Divida en bolsas Ziploc, retire todo el aire, selle doblemente y mantenga a menos de -18 °C. Evita moho, pérdida de color e insectos por más de 1 año."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mi chile en polvo se volvió café o rojo oscuro. ¿Aún se puede consumir?",
+                        "answer": "La alteración de color se debe a la degradación de carotenoides por luz, calor u oxígeno. Si no hay moho u olor rancio, es seguro comerlo, aunque habrá perdido sabor y picor. Congelarlo evita este oscurecimiento."
+                    },
+                    {
+                        "question": "Mi chile en polvo se ha apelmazado en grumos. ¿Tiene moho?",
+                        "answer": "El apelmazamiento suele deberse a la humedad absorbida. Sin embargo, si observa filamentos blancos o verdosos o huele a humedad, puede haber micotoxinas peligrosas y debe desecharlo de inmediato."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Comment conserver le piment en poudre (paprika) frais : Guide scientifique",
+                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le piment en poudre et le paprika selon les directives officielles de sécurité.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Avez-vous déjà conservé un grand paquet de piment en poudre ou de paprika dans votre placard pour constater après quelques mois qu'il avait noirci, formé des grumeaux ou moisi ? 🌶️\n\nLe piment en poudre et le paprika sont des épices moulues très sensibles à l'air, à la lumière, à l'humidité et à la chaleur. L'exposition à la température ambiante provoque l'oxydation des lipides, le ternissement de la couleur et augmente le risque de toxines de moisissure (comme l'aflatoxine) ou d'insectes.\n\nAujourd'hui, FreshSnap vous présente un guide scientifique en 3 étapes basé sur les recommandations d'experts pour conserver l'éclat et le piquant de vos épices. 🛡️",
+                "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
+                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+                "guideTitle": "Guide de conservation scientifiquement prouvé",
+                "cautionTitle": "Règles essentielles et précautions de stockage",
+                "cautions": [
+                    {
+                        "title": "Ne saupoudrez jamais l'épice directement au-dessus d'une casserole fumante ⚠️",
+                        "desc": "Agiter le flacon au-dessus de la vapeur fait pénétrer l'humidité dans le contenant, ce qui crée des grumeaux et favorise le développement rapide de moisissures. Utilisez toujours une cuillère propre et sèche."
+                    },
+                    {
+                        "title": "Évitez la lumière directe du soleil et la chaleur ☀️",
+                        "desc": "La lumière et les températures élevées détruisent les pigments caroténoïdes, assombrissant la couleur rouge et oxydant les graisses. Au-dessus de 20 °C, le risque d'insectes de placard augmente."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Portionner de petites quantités dans des contenants opaques — Bloquer lumière et oxygène 📦",
+                        "text": "L'air et la lumière dégradent les pigments et les huiles essentielles des épices. 💡 Astuce de conservation : Gardez vos doses quotidiennes dans un pot opaque ou un flacon en verre ambré hermétique au frais et à l'abri de la lumière."
+                    },
+                    {
+                        "name": "Conserver les doses régulières au réfrigérateur — Stockage (3 à 6 mois) ❄️",
+                        "text": "Pour la cuisine quotidienne, le réfrigérateur protège des variations de température et d'humidité. 💡 Astuce de conservation : Conservez les récipients bien fermés au frigo (0–4 °C) pour préserver la fraîcheur et la belle couleur rouge pendant 3 à 6 mois."
+                    },
+                    {
+                        "name": "Doubler le scellage des grandes quantités pour la congélation — Stockage (1 an et +) 🧊",
+                        "text": "La congélation est la méthode la plus sûre pour conserver les épices en poudre sur le long terme. 💡 Astuce de conservation : Répartissez dans des sacs congélation, chassez l'air, doublez le scellage et congelez à -18 °C. Cela prévient les moisissures et les insectes pendant plus d'un an."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mon piment en poudre a pris une teinte brun-noir. Est-il toujours consommable ?",
+                        "answer": "Ce changement de couleur est dû à la dégradation des caroténoïdes par la lumière ou la chaleur. S'il n'y a pas de moisissure ni d'odeur rance, il reste consommable mais aura perdu en saveur. La congélation évite ce ternissement."
+                    },
+                    {
+                        "question": "Mon piment en poudre a formé des blocs. Est-ce de la moisissure ?",
+                        "answer": "Des grumeaux résultent souvent de l'absorption d'humidité. Cependant, si vous apercevez des filaments blancs/verdâtres ou une odeur de moisi, des mycotoxines peuvent être présentes et l'épice doit être jetée."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Chilipulver (Paprikapulver) richtig frisch halten: Wissenschaftlicher Ratgeber",
+                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Chilipulver und Paprikapulver basierend auf offiziellen Sicherheitsrichtlinien.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Haben Sie schon einmal eine große Menge Chilipulver oder Paprikapulver im Vorratsschrank gelagert, nur um nach Monaten festzustellen, dass es nachgedunkelt, verklumpt oder schimmelig war? 🌶️\n\nChilipulver und Paprikapulver sind gemahlene Trockengewürze, die extrem empfindlich auf Luft, Licht, Feuchtigkeit und Wärme reagieren. Die Lagerung bei Raumtemperatur führt zu Fettoxidation, Farbverlust und erhöht das Risiko für Schimmelpilzgifte (Aflatoxin) und Schädlingsbefall.\n\nHeute stellt Ihnen FreshSnap einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um die leuchtende Farbe und die Schärfe Ihrer Gewürze zu bewahren. 🛡️",
+                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+                "cautions": [
+                    {
+                        "title": "Streuen Sie das Gewürz niemals direkt über kochende Töpfe ⚠️",
+                        "desc": "Wenn Sie den Behälter direkt über kochenden Dampf halten, dringt Feuchtigkeit in den Doser ein, was zu Verklumpung und raschem Schimmelwachstum führt. Verwenden Sie stets einen trockenen Löffel."
+                    },
+                    {
+                        "title": "Vermeiden Sie direktes Sonnenlicht und Wärmequellen ☀️",
+                        "desc": "Licht und Wärme zerstören Carotinoid-Pigmente, wodurch das Rot nachdunkelt und Fette oxidieren. Zudem begünstigen Temperaturen über 20 °C Schädlinge wie Lebensmittelmotten."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Kleine Mengen in lichtundurchlässige Behälter füllen — Licht & Sauerstoff blockieren 📦",
+                        "text": "Sauerstoff und Licht bauen Farbstoffe und ätherische Öle ab. 💡 Lagerungstipp: Bewahren Sie kleine Alltagsmengen in einer undurchsichtigen Dose oder einem Braunglas an einem kühlen, dunklen Ort auf."
+                    },
+                    {
+                        "name": "Häufig benötigte Mengen im Kühlschrank lagern — Kühllagerung (3–6 Monate) ❄️",
+                        "text": "Für das tägliche Kochen schützt die Kühlung vor Raumfeuchte und Wärme. 💡 Lagerungstipp: Dicht verschlossene Dosen im Kühlschrank (0–4 °C) aufbewahren, um Farbe und Schärfe 3 bis 6 Monate ohne Verklumpen zu erhalten."
+                    },
+                    {
+                        "name": "Großmengen doppelt versiegelt einfrieren — Gefrierlagerung (1+ Jahr) 🧊",
+                        "text": "Einfrieren ist die sicherste Methode zur Langzeitkonservierung gemahlener Paprika. 💡 Lagerungstipp: Großmengen in Ziploc-Beutel portionieren, Luft herausdrücken, doppelt versiegeln und bei unter -18 °C einfrieren (über 1 Jahr haltbar)."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mein Chilipulver ist dunkelrot/braun geworden. Ist es noch essbar?",
+                        "answer": "Die Dunkelfärbung entsteht durch den Abbau von Carotinoiden durch Licht oder Hitze. Wenn kein Schimmel oder ranziger Geruch vorliegt, ist es genießbar, hat jedoch an Schärfe und Aroma verloren. Einfrieren verhindert diesen Farbverlust."
+                    },
+                    {
+                        "question": "Mein Chilipulver hat Klumpen gebildet. Ist das Schimmel?",
+                        "answer": "Klumpen entstehen meist durch aufgenommene Luftfeuchtigkeit. Zeigt sich jedoch weißer/grünlicher Fadenpilz oder ein muffiger Geruch, können gefährliche Mykotoxine entstanden sein und das Gewürz muss entsorgt werden."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Como conservar pimenta em pó (páprica) fresca: Guia científico",
+                "description": "Descubra a temperatura, método e tempo de conservação ideais para pimenta em pó e páprica com base em diretrizes oficiais de segurança.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Você já guardou uma grande quantidade de pimenta em pó ou páprica no armário e descobriu, meses depois, que o produto escureceu, empelotou ou mofou? 🌶️\n\nA pimenta em pó e a páprica são condimentos secos extremamente sensíveis ao ar, luz, umidade e calor. A exposição à temperatura ambiente oxida seus óleos, desbota a cor vermelha e aumenta o risco de toxinas de fungos (como aflatoxina) e insetos.\n\nHoje, o FreshSnap apresenta um guia de conservação em 3 etapas baseado em recomendações científicas para preservar a cor viva e a picância dos seus temperos. 🛡️",
+                "whyTitle": "Por que armazenar assim? Fatos científicos",
+                "whyDesc": "Compreender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+                "guideTitle": "Guia de armazenamento comprovado cientificamente",
+                "cautionTitle": "Regras essenciais e precauções no armazenamento",
+                "cautions": [
+                    {
+                        "title": "Nunca despeje o tempero diretamente sobre panelas fumegantes ⚠️",
+                        "desc": "Agitar o pote diretamente sobre o vapor das panelas faz a umidade entrar no recipiente, empelotando o pó e favorecendo o mofo. Use sempre uma colher limpa e bem seca."
+                    },
+                    {
+                        "title": "Evite luz solar direta e fontes de calor ☀️",
+                        "desc": "Luz e calor destroem os carotenoides, escurecendo a cor vermelha e oxidando as gorduras. Acima de 20 °C, aumenta também o risco de pragas de armário."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Separe pequenas porções em potes opacos — Bloqueie luz e oxigênio 📦",
+                        "text": "Ar e luz degradam os pigmentos e óleos essenciais do tempero. 💡 Dica de conservação: Guarde a porção de uso diário em um pote opaco ou vidro âmbar bem vedado em local fresco e escuro."
+                    },
+                    {
+                        "name": "Mantenha a porção de uso frequente na geladeira — Refrigeração (3–6 meses) ❄️",
+                        "text": "Para o uso diário, a refrigeração protege o tempero contra o calor e umidade do ambiente. 💡 Dica de conservação: Guarde potes bem selados na geladeira (0–4 °C) para manter o sabor e cor por 3 a 6 meses sem empelotar."
+                    },
+                    {
+                        "name": "Congele grandes quantidades em embalagem dupla — Congelação (1+ ano) 🧊",
+                        "text": "O congelamento é a forma mais segura de conservar temperos em pó por longo prazo. 💡 Dica de conservação: Divida em sacos Ziploc, retire o ar, embale duplamente e congele a menos de -18 °C por mais de 1 ano."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Minha pimenta em pó ficou marrom ou escureceu. Ainda posso usar?",
+                        "answer": "O escurecimento ocorre pela degradação dos carotenoides pela luz ou calor. Se não houver mofo ou cheiro râncio, pode ser consumida, mas terá perdido sabor e picância. O congelamento evita essa alteração de cor."
+                    },
+                    {
+                        "question": "Minha pimenta em pó empelotou. É mofo?",
+                        "answer": "Empelotamento costuma ser apenas absorção de umidade. No entanto, se houver teias/pêlos brancos ou esverdeados ou cheiro de mofo, toxinas perigosas podem estar presentes e o produto deve ser descartado."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Cara Menyimpan Bubuk Cabai (Paprika) agar Tetap Segar: Panduan Ilmiah",
+                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk bubuk cabai dan paprika berdasarkan pedoman keselamatan resmi.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Pernahkah Anda menyimpan bubuk cabai atau paprika dalam jumlah banyak di lemari dapur lalu mendapatinya berubah warna menjadi gelap, menggumpal, atau berjamur setelah beberapa bulan? 🌶️\n\nBubuk cabai dan paprika adalah bumbu kering yang sangat sensitif terhadap udara, cahaya, kelembapan, dan panas. Paparan suhu ruang dan kelembapan menyebabkan oksidasi lemak, pemudaran warna, serta meningkatkan risiko racun jamur (seperti aflatoksin) dan kutu bumbu.\n\nHari ini, FreshSnap membagikan panduan penyimpanan bubuk cabai 3 langkah berbasis ilmiah untuk menjaga warna merah cerah dan rasa pedas bumbu Anda. 🛡️",
+                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+                "cautions": [
+                    {
+                        "title": "Jangan pernah menaburkan bumbu langsung di atas masakan yang berasap ⚠️",
+                        "desc": "Menaburkan bumbu langsung di atas panci mendidih membuat uap air masuk ke dalam wadah, menyebabkan bumbu lembap, menggumpal, dan berjamur. Selalu gunakan sendok yang bersih dan kering."
+                    },
+                    {
+                        "title": "Hindari sinar matahari langsung dan sumber panas ☀️",
+                        "desc": "Sinar matahari dan suhu tinggi merusak pigmen karotenoid, menggelapkan warna merah dan mengoksidasi lemak. Suhu di atas 20°C juga memicu munculnya kutu beras/bumbu."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Bagi porsi kecil ke wadah kedap udara buram — Tahan Sinar & Oksigen 📦",
+                        "text": "Oksigen dan cahaya merusak pigmen dan minyak atsiri bumbu. 💡 Tips Penyimpanan: Simpan porsi harian dalam wadah kedap udara buram atau botol kaca gelap di tempat sejuk dan gelap."
+                    },
+                    {
+                        "name": "Simpan porsi yang sering digunakan di kulkas — Simpan Dingin (3–6 Bulan) ❄️",
+                        "text": "Untuk penggunaan sehari-hari, pendinginan melindungi bumbu dari kelembapan udara. 💡 Tips Penyimpanan: Simpan dalam wadah tertutup rapat di kulkas (0–4°C) untuk menjaga warna merah cerah tanpa menggumpal selama 3 hingga 6 bulan."
+                    },
+                    {
+                        "name": "Segel ganda porsi besar lalu bekukan — Simpan Beku (1+ Tahun) 🧊",
+                        "text": "Membekukan adalah cara paling aman untuk menyimpan bumbu bubuk jangka panjang. 💡 Tips Penyimpanan: Bagi porsi besar ke kantong Ziploc, keluarkan udara, segel ganda, lalu simpan di bawah -18°C untuk penggunaan lebih dari 1 tahun."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Bubuk cabai saya berubah warna menjadi kehitaman/cokelat. Apakah masih aman dikonsumsi?",
+                        "answer": "Perubahan warna terjadi karena rusaknya karotenoid oleh cahaya atau panas. Jika tidak ada jamur atau bau tengik, masih aman dikonsumsi meskipun rasa pedasnya telah berkurang. Membekukannya mencegah perubahan warna ini."
+                    },
+                    {
+                        "question": "Bubuk cabai saya menggumpal. Apakah itu jamur?",
+                        "answer": "Gumpalan biasanya terjadi karena menyerap kelembapan udara. Namun jika terlihat serabut putih/hijau atau berbau apek, racun jamur berbahaya mungkin telah terbentuk dan bumbu harus segera dibuang."
+                    }
+                ]
+            }
+        }
+    }
+}

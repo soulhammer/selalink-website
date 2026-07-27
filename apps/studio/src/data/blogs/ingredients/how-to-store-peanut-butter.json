@@ -1,0 +1,406 @@
+{
+    "how-to-store-peanut-butter": {
+        "ingId": "peanut-butter",
+        "pubDate": "2026-01-10",
+        "updatedDate": "2026-01-10",
+        "heroImage": "/images/blog/peanut_butter_storage_hack.webp",
+        "locales": {
+            "ko": {
+                "title": "땅콩버터 신선하게 보관하는 법: 과학적 보관 가이드",
+                "description": "공인된 안전 가이드라인에 따른 땅콩버터의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+                "authority": "<strong>미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)</strong>",
+                "intro": "땅콩버터를 개봉하고 얼마 지나지 않아 기름이 겉돌거나 고소한 향 대신 퀴퀴한 냄새가 난 경험 있으시죠? 🥜\n\n땅콩버터는 불포화 지방산 함량이 높아 공기, 빛, 열에 노출되면 유지가 산화되는 산패(Rancidity) 현상이 일어나기 쉽습니다. 특히 유화제가 첨가되지 않은 천연 땅콩버터는 기름 층이 분리되고 품질이 급격히 저하될 수 있어 보관법이 매우 중요합니다.\n\n오늘 FreshSnap에서는 미국 농무부(USDA)와 식품의약품안전처(MFDS) 등의 안전 가이드라인을 바탕으로, 땅콩버터의 고소함과 신선도를 오랫동안 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+                "guideTitle": "과학적으로 검증된 보관 가이드",
+                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+                "cautions": [
+                    {
+                        "title": "물기나 이물질이 든 스푼을 절대 사용하지 마세요 ⚠️",
+                        "desc": "식빵 부스러기나 물기가 묻은 스푼을 병 안에 넣으면 수분과 침, 이물질이 유입되어 곰팡이가 피거나 미생물이 번식하기 쉬운 환경이 됩니다. 반드시 깨끗하고 완전히 마른 스푼을 사용하세요."
+                    },
+                    {
+                        "title": "가스레인지 주변이나 직사광선을 피하세요 ☀️",
+                        "desc": "온도가 높고 빛에 노출될수록 땅콩버터 속 불포화 지방산의 산화가 급격히 진행되어 쩐내(산패)가 나게 됩니다. 열기가 없는 서늘하고 어두운 팬트리(찬장)나 냉장고에 보관해야 합니다."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "천연 땅콩버터는 거꾸로 뒤집어 보관하기 — 기름 분리 방지 🔄",
+                        "text": "유화제가 들어가지 않은 100% 천연 땅콩버터는 보관 중 상단에 땅콩 기름이 층을 이루며 분리됩니다. 💡 보관 팁: 개별 용기 뚜껑을 꽉 닫은 후 거꾸로 뒤집어서 보관해 보세요. 위로 떠오르려는 기름이 아래로 천천히 침투하면서 고루 섞여, 매번 저어야 하는 번거로움을 줄이고 바닥이 딱딱하게 마르는 것을 막아줍니다."
+                    },
+                    {
+                        "name": "가공 땅콩버터는 팬트리, 천연은 개봉 후 냉장 보관하기 — 유형별 최적 온도 ❄️",
+                        "text": "수소화 유지가 포함된 일반 가공 땅콩버터는 개봉 후에도 서늘한 상온(15~20℃) 팬트리에서 2~3개월간 신선도가 유지됩니다. 💡 보관 팁: 첨가물이 없는 천연 땅콩버터는 개봉 후 산패 진행이 빠르므로 잘 섞은 뒤 냉장고(0~4℃)에 보관하세요. 냉장 보관 시 산화가 지연되어 3~6개월 동안 신선하게 즐길 수 있습니다."
+                    },
+                    {
+                        "name": "병 입구를 깨끗이 닦고 밀폐 보관하기 — 산소 차단 🛡️",
+                        "text": "병 입구 테두리에 땅콩버터 잔여물이 묻어있으면 공기(산소)가 유입되고 테두리에 곰팡이가 생기기 쉽습니다. 💡 보관 팁: 사용 후 마른 키친타월로 입구를 깨끗이 닦아낸 뒤 뚜껑을 빈틈없이 꽉 닫아 밀폐해 주세요. 산소 접촉을 최소화해야 산패를 효과적으로 방지할 수 있습니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "천연 땅콩버터 위에 기름이 한가득 고여 있는데 버려야 하나요?",
+                        "answer": "아닙니다. 이는 유화제(첨가물)가 들어가지 않은 100% 땅콩버터에서 일어나는 자연스러운 유분 분리 현상입니다. 버리지 마시고 깨끗하고 마른 스푼이나 나이프 전체로 골고루 잘 섞어준 뒤 냉장 보관하여 드시면 됩니다."
+                    },
+                    {
+                        "question": "땅콩버터는 개봉 후 반드시 냉장 보관해야 하나요?",
+                        "answer": "제품 종류에 따라 다릅니다. 유화제와 가공유가 들어간 일반 땅콩버터는 서늘하고 어두운 상온 찬장(2~3개월)에 두어도 괜찮습니다. 반면, 100% 땅콩으로만 만든 천연 땅콩버터는 개봉 후 불포화 지방산의 산패와 기름 분리를 막기 위해 냉장 보관을 권장합니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "How to Keep Peanut Butter Fresh: Scientific Storage Guide",
+                "description": "Check the optimal storage temperature, method, and shelf life for peanut butter based on official safety guidelines.",
+                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "intro": "Have you ever opened a jar of peanut butter only to find an oily layer floating on top or a stale, rancid smell instead of a rich, nutty aroma? 🥜\n\nPeanut butter is high in unsaturated fatty acids, making it susceptible to lipid oxidation (rancidity) when exposed to air, light, or heat. Natural peanut butter without emulsifiers is particularly prone to oil separation and rapid quality loss, making proper storage essential.\n\nToday, FreshSnap introduces a scientifically proven 3-step peanut butter storage guide based on safety guidelines from the USDA, FDA, and MFDS to keep your peanut butter fresh and flavorful. 🛡️",
+                "whyTitle": "Why Store Peanut Butter This Way? Scientific Facts",
+                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+                "guideTitle": "Scientifically Proven Storage Guide",
+                "cautionTitle": "Essential Storage Rules and Cautions",
+                "cautions": [
+                    {
+                        "title": "Never use a wet or contaminated utensil ⚠️",
+                        "desc": "Inserting a wet spoon or one with breadcrumbs introduces moisture, saliva, and contaminants into the jar, creating an ideal environment for mold and bacteria to thrive. Always use a clean, completely dry spoon."
+                    },
+                    {
+                        "title": "Avoid direct sunlight and heat sources ☀️",
+                        "desc": "Exposure to heat and light accelerates the oxidation of unsaturated fatty acids in peanut butter, causing rancidity and off-odors. Store it in a cool, dark pantry or refrigerator away from stoves and direct light."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Store natural peanut butter upside down — Prevent Oil Separation 🔄",
+                        "text": "100% natural peanut butter without added emulsifiers separates into peanut oil and solids during storage. 💡 Storage Tip: Tighten the lid and store the jar upside down. As the natural oil slowly floats upward through the solids, it blends back in naturally, saving you from stirring every time and preventing the bottom from drying out."
+                    },
+                    {
+                        "name": "Pantry for processed, refrigeration for natural — Optimal Temperature by Type ❄️",
+                        "text": "Commercial peanut butter with hydrogenated oils stays fresh in a cool pantry (15–20°C / 59–68°F) for 2–3 months after opening. 💡 Storage Tip: Natural peanut butter with no additives oxidizes quickly once opened, so stir well and refrigerate (0–4°C / 32–39°F). Refrigeration slows oxidation, keeping it fresh for 3–6 months."
+                    },
+                    {
+                        "name": "Wipe the rim clean and seal tightly — Oxygen Barrier 🛡️",
+                        "text": "Peanut butter residue left on the jar rim allows air to seep in and encourages mold growth around the lid. 💡 Storage Tip: After each use, wipe the rim thoroughly with a dry paper towel before closing the lid tightly. Minimizing exposure to oxygen is key to preventing rancidity."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "There is a thick layer of oil on top of my natural peanut butter. Should I throw it away?",
+                        "answer": "No, this is a completely natural oil separation process in 100% peanut butter made without emulsifiers. Do not drain the oil. Simply stir it back thoroughly into the peanut butter using a clean, dry knife or spoon, then refrigerate."
+                    },
+                    {
+                        "question": "Does peanut butter always need to be refrigerated after opening?",
+                        "answer": "It depends on the type. Processed peanut butter containing emulsifiers and hydrogenated oils can safely stay in a cool, dark pantry for 2–3 months after opening. However, natural peanut butter made solely from peanuts should be refrigerated after opening to prevent oil separation and lipid oxidation."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "ピーナッツバターを新鮮に保つ保存方法：科学的保管ガイド",
+                "description": "公的安全基準に基づくピーナッツバターの最適な保存温度、保管方法、保存期間をご確認ください。",
+                "authority": "<strong>米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)</strong>",
+                "intro": "ピーナッツバターを開封してしばらくすると、表面に油が浮いてきたり、香ばしい香りではなく油臭い匂いがした経験はありませんか？🥜\n\nピーナッツバターは不飽和脂肪酸を多く含んでいるため、空気や光、熱に晒されると脂質が酸化する「酸敗（ランシディティ）」を起こしやすい特徴があります。特に乳化剤が含まれていない天然のピーナッツバターは油分が分離しやすく、品質が急激に低下するため保存法が非常に重要です。\n\n本日FreshSnapでは、米国農務省（USDA）、FDA、食品医薬品安全処（MFDS）などのガイドラインに基づき、ピーナッツバターの香ばしさと新鮮さを長持ちさせる3段階の科学的保存法をご紹介します。🛡️",
+                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+                "guideTitle": "科学的に検証された保存ガイド",
+                "cautionTitle": "保存時の必須ルールと注意事項",
+                "cautions": [
+                    {
+                        "title": "水気や汚れのついたスプーンは絶対に使用しないでください ⚠️",
+                        "desc": "パンくずや水気がついたスプーンを瓶の中に入れると、水分や唾液、異物が混入し、カビや雑菌が繁殖しやすい環境になります。必ず清潔で完全に乾いたスプーンを使用してください。"
+                    },
+                    {
+                        "title": "コンロの周辺や直射日光を避けてください ☀️",
+                        "desc": "温度が高く光に晒されるほど、ピーナッツバターに含まれる不飽和脂肪酸の酸化が急激に進み、油臭さ（酸敗）の原因になります。火気のない涼しく暗いパントリー（棚）や冷蔵庫で保存してください。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "天然ピーナッツバターは逆さまにして保存する — 油分の分離防止 🔄",
+                        "text": "乳化剤が入っていない100%天然のピーナッツバターは、保存中に上部にピーナッツオイルが分離して層を作ります。💡保存のコツ：フタをしっかり閉めた後、容器を逆さまにして保存してみてください。上になろうとする油分が下に向かってゆっくり浸透し自然に混ざり合うため、毎回混ぜる手間が省け、底が硬く乾燥するのを防げます。"
+                    },
+                    {
+                        "name": "加工品はパントリー、天然品は開封後冷蔵保存する — タイプ別の最適温度 ❄️",
+                        "text": "水素添加油脂が含まれる一般的な加工ピーナッツバターは、開封後も涼しい常温（15〜20℃）のパントリーで2〜3ヶ月間新鮮さを維持できます。💡保存のコツ：添加物のない天然ピーナッツバターは開封後の酸化が進みやすいため、よく混ぜてから冷蔵庫（0〜4℃）で保存してください。冷蔵保存することで酸化が遅くなり、3〜6ヶ月間美味しく召し上がれます。"
+                    },
+                    {
+                        "name": "瓶の口をきれいに拭いて密閉保存する — 酸素の遮断 🛡️",
+                        "text": "瓶のフチにピーナッツバターが付着したままだと、空気（酸素）が侵入しやすく、フチ周辺にカビが発生しやすくなります。💡保存のコツ：使用後は乾いたキッチンペーパーで瓶の口をきれいに拭き取り、フタを隙間なくしっかり閉めて密閉してください。酸素との接触を最小限に抑えることが酸化防止の鍵です。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "天然ピーナッツバターの上に油がたくさん溜まっていますが、捨てた方がいいですか？",
+                        "answer": "いいえ、捨てる必要はありません。これは乳化剤（添加物）が入っていない100%ピーナッツバターで起こる自然な油脂分離現象です。捨てずに、清潔で乾いたスプーンやナイフで全体をしっかり混ぜ合わせてから冷蔵保存してお召し上がりください。"
+                    },
+                    {
+                        "question": "ピーナッツバターは開封後、必ず冷蔵保存しなければなりませんか？",
+                        "answer": "製品の種類によります。乳化剤や加工油脂が入った一般的なピーナッツバターは、涼しく暗い常温の棚（2〜3ヶ月）で保存しても問題ありません。一方、100%ピーナッツのみで作られた天然ピーナッツバターは、開封後の不飽和脂肪酸の酸化と油分の分離を防ぐため、冷蔵保存をおすすめします。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "如何保持花生酱新鲜：科学储存指南",
+                "description": "根据官方食品安全指南，了解花生酱的最佳储存温度、方式和保鲜时长。",
+                "authority": "<strong>美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "intro": "您是否曾遇到开封花生酱不久后表面浮着一层油，或者散发着陈腐油哈味而非浓郁花生香气的情况？🥜\n\n花生酱含有丰富的不饱和脂肪酸，暴露于空气、光线或高温下极易发生脂质氧化酸败（Rancidity）。尤其是未添加乳化剂的天然花生酱，更容易出现油酱分离且品质迅速下降，因此掌握正确的储存方法至关重要。\n\n今天FreshSnap将基于美国农务部(USDA)、FDA和韩国食品医药品安全处(MFDS)的安全指南，为您介绍3步科学保存秘诀，帮您长久锁定花生酱的醇香与新鲜。🛡️",
+                "whyTitle": "为什么要这样储存？科学原理",
+                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+                "guideTitle": "科学验证的储存指南",
+                "cautionTitle": "储存必需规则及注意事项",
+                "cautions": [
+                    {
+                        "title": "切勿使用沾有水汽或杂质的勺子 ⚠️",
+                        "desc": "将沾有面包屑或水汽的勺子伸入酱瓶，会将水分、唾液和杂质带入其中，为霉菌和细菌的滋生提供绝佳环境。请务必使用干净且彻底干燥的勺子。"
+                    },
+                    {
+                        "title": "避开燃气灶周边及阳光直射 ☀️",
+                        "desc": "温度越高、受光照越强，花生酱中的不饱和脂肪酸氧化速度就越快，从而产生哈喇味（酸败）。请务必存放在无热源的阴凉干燥橱柜（15~20℃）或冰箱中。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "天然花生酱请倒置存放 — 防止油脂分离 🔄",
+                        "text": "未添加乳化剂的100%天然花生酱在存放过程中，花生油会浮到上层形成分层。💡储存小贴士：拧紧瓶盖后将酱瓶倒置存放。原本上浮的花生油会慢慢向下渗透并自然融合，不仅省去每次费力搅拌的麻烦，还能防止底部变干发硬。"
+                    },
+                    {
+                        "name": "加工花生酱常温阴凉存放，天然花生酱开封后冷藏 — 按类型选择最佳温度 ❄️",
+                        "text": "含有氢化植物油的普通加工花生酱，开封后置于阴凉常温（15~20℃）橱柜中可保鲜2~3个月。💡储存小贴士：无添加的天然花生酱开封后极易氧化，建议充分搅拌后放入冰箱（0~4℃）冷藏。冷藏能有效延缓氧化，保持3~6个月的醇香鲜美。"
+                    },
+                    {
+                        "name": "擦净瓶口并紧密密封 — 阻绝氧气 🛡️",
+                        "text": "瓶口边缘残留花生酱会导致空气（氧气）渗入，并容易在瓶口附近滋生霉菌。💡储存小贴士：每次使用后，请用干纸巾将瓶口边缘擦拭干净，再将瓶盖拧紧密封。最大限度减少与氧气的接触是防止油脂酸败的关键。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "天然花生酱上面浮着一层厚厚的油，需要倒掉吗？",
+                        "answer": "不需要。这是未添加乳化剂的100%纯天然花生酱发生的正常油脂分离现象。切勿倒掉油脂，只需用干净干燥的勺子或抹刀将其与花生酱充分搅拌均匀，然后放入冰箱冷藏保存即可。"
+                    },
+                    {
+                        "question": "花生酱开封后必须冷藏保存吗？",
+                        "answer": "取决于产品类型。含有乳化剂和氢化油的普通商业花生酱，开封后存放在阴凉避光的常温橱柜中（2~3个月）即可。但仅由花生制成的天然花生酱，开封后建议冷藏保存，以防止不饱和脂肪酸氧化酸败及油脂分离。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cómo mantener la mantequilla de maní fresca: Guía científica de conservación",
+                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para la mantequilla de maní según las directrices oficiales de seguridad.",
+                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "intro": "¿Alguna vez abrió un frasco de mantequilla de maní y encontró una capa flotante de aceite o un olor rancio en lugar de un rico aroma a tostado? 🥜\n\nLa mantequilla de maní es rica en ácidos grasos insaturados, lo que la hace susceptible a la oxidación de los lípidos (enranciamiento) cuando se expone al aire, la luz o el calor. La crema de maní natural sin emulsionantes es especialmente propensa a la separación del aceite y a la pérdida rápida de calidad, por lo que una correcta conservación es fundamental.\n\nHoy, FreshSnap presenta una guía de conservación en 3 pasos respaldada por el USDA, la FDA y el MFDS para mantener su mantequilla de maní fresca y deliciosa. 🛡️",
+                "whyTitle": "¿Por qué almacenarla así? Datos científicos",
+                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+                "guideTitle": "Guía de almacenamiento científicamente probada",
+                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+                "cautions": [
+                    {
+                        "title": "Nunca use utensilios húmedos o contaminados ⚠️",
+                        "desc": "Introducir una cuchara húmeda o con migas de pan aporta agua, saliva y residuos al frasco, creando un entorno propicio para el moho y las bacterias. Utilice siempre una cuchara limpia y completamente seca."
+                    },
+                    {
+                        "title": "Evite la luz solar directa y fuentes de calor ☀️",
+                        "desc": "El calor y la luz aceleran la oxidación de los ácidos grasos insaturados de la mantequilla de maní, provocando olores rancios. Guárdela en una despensa fresca y oscura o en el refrigerador, lejos de la estufa."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Guarde la mantequilla de maní natural boca abajo — Evite la separación del aceite 🔄",
+                        "text": "La mantequilla de maní 100% natural sin emulsionantes se separa naturalmente en aceite y sólidos. 💡 Consejo de almacenamiento: Cierre bien la tapa y guarde el frasco boca abajo. El aceite natural descenderá lentamente a través de los sólidos, mezclándose de forma homogénea sin necesidad de batir siempre."
+                    },
+                    {
+                        "name": "Despensa para procesada, refrigeración para natural — Temperatura óptima por tipo ❄️",
+                        "text": "La mantequilla de maní comercial con aceites hidrogenados se conserva fresca en una despensa fresca (15-20 °C) durante 2-3 meses tras abrirla. 💡 Consejo de almacenamiento: La versión natural sin aditivos se oxida rápido; mézclela bien y refrigérela (0-4 °C) para mantenerla fresca durante 3-6 meses."
+                    },
+                    {
+                        "name": "Limpie el borde del frasco y selle herméticamente — Barrera contra el oxígeno 🛡️",
+                        "text": "Los restos de mantequilla de maní en el borde del frasco permiten la entrada de aire y facilitan la aparición de moho cerca de la tapa. 💡 Consejo de almacenamiento: Limpie el borde con papel de cocina seco después de cada uso y cierre la tapa con firmeza para minimizar el contacto con el oxígeno."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Hay mucho aceite acumulado sobre mi mantequilla de maní natural, ¿debo tirarlo?",
+                        "answer": "No. Es un fenómeno natural de separación de grasa en la mantequilla de maní 100% natural sin emulsionantes. No tire el aceite; simplemente mézclelo bien con una cuchara o espátula limpia y seca antes de refrigerar."
+                    },
+                    {
+                        "question": "¿Es obligatorio refrigerar la mantequilla de maní después de abrirla?",
+                        "answer": "Depende del tipo. La mantequilla de maní comercial con emulsionantes se conserva bien en una despensa fresca y oscura (2-3 meses). En cambio, la mantequilla de maní natural hecha solo con maní debe refrigerarse tras su apertura para evitar la oxidación y la separación del aceite."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Comment conserver le beurre de cacahuète frais : Guide scientifique de conservation",
+                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le beurre de cacahuète selon les directives officielles de sécurité.",
+                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "intro": "Avez-vous déjà ouvert un pot de beurre de cacahuète pour y trouver une couche d'huile flottant à la surface ou une odeur rance à la place du délicieux parfum de grillage ? 🥜\n\nLe beurre de cacahuète est riche en acides gras insaturés, ce qui le rend très vulnérable à l'oxydation des lipides (rancissement) lors d'une exposition à l'air, à la lumière ou à la chaleur. Le beurre de cacahuète naturel sans émulsifiant est particulièrement sujet à la séparation de l'huile, rendant un stockage approprié indispensable.\n\nAujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du USDA, de la FDA et du MFDS pour préserver le goût délicieux et la fraîcheur de votre beurre de cacahuète. 🛡️",
+                "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
+                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+                "guideTitle": "Guide de conservation scientifiquement prouvé",
+                "cautionTitle": "Règles essentielles et précautions de stockage",
+                "cautions": [
+                    {
+                        "title": "N'utilisez jamais d'ustensiles humides ou souillés ⚠️",
+                        "desc": "Insérer une cuillère humide ou couverte de miettes introduit de l'eau, de la salive et des impuretés, créant un milieu idéal pour la moisissure et les bactéries. Utilisez toujours une cuillère propre et parfaitement sèche."
+                    },
+                    {
+                        "title": "Évitez la lumière directe du soleil et les sources de chaleur ☀️",
+                        "desc": "La chaleur et la lumière accélèrent l'oxydation des acides gras insaturés, provoquant l'apparition d'odeurs rances. Conservez le pot dans un placard frais et sombre ou au réfrigérateur, loin des plaques de cuisson."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Conserver le beurre de cacahuète naturel tête en bas — Prévenir la séparation de l'huile 🔄",
+                        "text": "Le beurre de cacahuète 100 % naturel sans émulsifiants se sépare en une couche d'huile et une pâte solide pendant le stockage. 💡 Astuce de conservation : Fermez bien le couvercle et stockez le pot à l'envers. L'huile naturelle remontera doucement à travers la pâte, se réintégrant d'elle-même sans effort."
+                    },
+                    {
+                        "name": "Placard pour le produit industriel, réfrigérateur pour le naturel — Température optimale ❄️",
+                        "text": "Le beurre de cacahuète industriel contenant des huiles hydrogénées se conserve 2 à 3 mois dans un placard frais (15–20 °C) après ouverture. 💡 Astuce de conservation : La version naturelle sans additifs s'oxyde rapidement ; mélangez-la bien et placez-la au réfrigérateur (0–4 °C) pour la conserver 3 à 6 mois."
+                    },
+                    {
+                        "name": "Essuyer le rebord du pot et fermer hermétiquement — Barrière contre l'oxygène 🛡️",
+                        "text": "Les résidus de beurre de cacahuète sur le bord du pot laissent s'infiltrer l'air et favorisent la moisissure au niveau du couvercle. 💡 Astuce de conservation : Essuyez soigneusement le bord avec de l'essuie-tout sec après chaque utilisation avant de revisser fermement le couvercle."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Une épaisse couche d'huile flotte sur mon beurre de cacahuète naturel. Faut-il la jeter ?",
+                        "answer": "Non. Il s'agit d'une séparation naturelle des matières grasses propre au beurre de cacahuète 100 % naturel sans émulsifiants. Ne jetez pas l'huile : mélangez-la simplement à la pâte avec une cuillère ou une spatule propre et sèche, puis conservez au réfrigérateur."
+                    },
+                    {
+                        "question": "Faut-il obligatoirement réfrigérer le beurre de cacahuète après ouverture ?",
+                        "answer": "Cela dépend du type de produit. Le beurre de cacahuète industriel contenant des émulsifiants se conserve très bien dans un placard frais et sombre (2 à 3 mois). En revanche, le beurre de cacahuète naturel (100 % cacahuètes) doit être réfrigéré après ouverture pour éviter le rancissement et la séparation de l'huile."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Erdnussbutter richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Erdnussbutter basierend auf offiziellen Sicherheitsrichtlinien.",
+                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "intro": "Haben Sie schon einmal ein Glas Erdnussbutter geöffnet und eine dicke Ölschicht an der Oberfläche oder einen ranzigen Geruch statt eines nussigen Aromas festgestellt? 🥜\n\nErdnussbutter enthält viele ungesättigte Fettsäuren, was sie bei Kontakt mit Luft, Licht oder Wärme anfällig für Fettoxidation (Ranzigwerden) macht. Besonders natürliche Erdnussbutter ohne Emulgatoren neigt zur Ölseparation und verliert schnell an Qualität.\n\nHeute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Richtlinien von USDA, FDA und MFDS basiert, um den reinen Geschmack und die Frische Ihrer Erdnussbutter zu bewahren. 🛡️",
+                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+                "cautions": [
+                    {
+                        "title": "Verwenden Sie niemals feuchte oder verschmutzte Löffel ⚠️",
+                        "desc": "Das Eintauchen von Löffeln mit Krümeln oder Feuchtigkeit bringt Wasser und Keime ins Glas, was Schimmel- und Bakterienwachstum begünstigt. Verwenden Sie stets einen sauberen, völlig trockenen Löffel."
+                    },
+                    {
+                        "title": "Vermeiden Sie direktes Sonnenlicht und Wärmequellen ☀️",
+                        "desc": "Wärme und Licht beschleunigen die Oxidation der ungesättigten Fettsäuren und führen zu ranzigem Geschmack. Lagern Sie Erdnussbutter in einer kühlen, dunklen Speisekammer oder im Kühlschrank fern von Herd und Sonne."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Natürliche Erdnussbutter auf dem Kopf lagern — Ölseparation verhindern 🔄",
+                        "text": "100 % natürliche Erdnussbutter ohne Emulgatoren setzt beim Lagern Erdnussöl an der Oberfläche ab. 💡 Lagerungstipp: Verschließen Sie den Deckel fest und stellen Sie das Glas auf den Kopf. Das Öl steigt langsam durch die Masse nach oben und vermischt sich von selbst wieder gleichmäßig."
+                    },
+                    {
+                        "name": "Industrielle in die Speisekammer, natürliche in den Kühlschrank — Temperatur nach Typ ❄️",
+                        "text": "Herkömmliche Erdnussbutter mit gehärteten Ölen bleibt in einer kühlen Speisekammer (15–20 °C) nach dem Öffnen 2–3 Monate frisch. 💡 Lagerungstipp: Natürliche Erdnussbutter ohne Zusätze oxidiert rasch; nach dem Umrühren im Kühlschrank (0–4 °C) aufbewahren, um sie 3–6 Monate frisch zu halten."
+                    },
+                    {
+                        "name": "Glasrand sauber wischen und fest verschließen — Sauerstoffbarriere 🛡️",
+                        "text": "Erdnussbutterreste am Glasrand lassen Luft eindringen und begünstigen Schimmelbildung am Deckel. 💡 Lagerungstipp: Wischen Sie den Rand nach jedem Gebrauch mit einem trockenen Papiertuch gründlich ab und schrauben Sie den Deckel fest zu, um Sauerstoffkontakt zu minimieren."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Auf meiner natürlichen Erdnussbutter steht viel Öl. Sollte ich es abgießen?",
+                        "answer": "Nein. Das ist eine völlig natürliche Fettseparation bei 100 % reiner Erdnussbutter ohne Emulgatoren. Gießen Sie das Öl keinesfalls ab, sondern verrühren Sie es mit einem sauberen, trockenen Löffel gründlich mit der Masse und stellen Sie das Glas in den Kühlschrank."
+                    },
+                    {
+                        "question": "Muss Erdnussbutter nach dem Öffnen zwingend in den Kühlschrank?",
+                        "answer": "Das hängt von der Art ab. Erdnussbutter mit Emulgatoren und gehärteten Fetten kann problemlos 2–3 Monate in einer kühlen, dunklen Speisekammer stehen. Natürliche Erdnussbutter aus 100 % Erdnüssen sollte hingegen gekühlt werden, um Ranzigkeit und Ölabscheidung zu verhindern."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Como conservar pasta de amendoim fresca: Guia científico de armazenamento",
+                "description": "Descubra a temperatura, método e tempo de conservação ideais para a pasta de amendoim com base em diretrizes oficiais de segurança.",
+                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "intro": "Você já abriu um pote de pasta de amendoim e encontrou uma camada de óleo na superfície ou um cheiro râncio em vez daquele aroma torrado e saboroso? 🥜\n\nA pasta de amendoim é rica em ácidos graxos insaturados, tornando-se suscetível à oxidação lipídica (rancificação) quando exposta ao ar, luz ou calor. A pasta de amendoim natural sem emulsificantes é especialmente propensa à separação de óleo e à rápida perda de qualidade, exigindo cuidados especiais.\n\nHoje, o FreshSnap apresenta um guia de conservação em 3 etapas baseado nas diretrizes do USDA, FDA e MFDS para manter sua pasta de amendoim fresca e saborosa por mais tempo. 🛡️",
+                "whyTitle": "Por que armazenar assim? Fatos científicos",
+                "whyDesc": "Compreender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+                "guideTitle": "Guia de armazenamento comprovado cientificamente",
+                "cautionTitle": "Regras essenciais e precauções no armazenamento",
+                "cautions": [
+                    {
+                        "title": "Nunca use utensílios molhados ou engordurados ⚠️",
+                        "desc": "Inserir uma colher úmida ou com migalhas introduz água, saliva e resíduos no pote, criando um ambiente propício para mofo e bactérias. Use sempre uma colher limpa e totalmente seca."
+                    },
+                    {
+                        "title": "Evite luz solar direta e fontes de calor ☀️",
+                        "desc": "O calor e a luz aceleram a oxidação dos ácidos graxos insaturados na pasta de amendoim, causando odores râncios. Guarde em um despensa fresca e escura ou na geladeira, longe do fogão."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Guarde a pasta de amendoim natural de cabeça para baixo — Evite a separação de óleo 🔄",
+                        "text": "A pasta de amendoim 100% natural sem emulsificantes separa o óleo da massa durante o armazenamento. 💡 Dica de conservação: Feche bem a tampa e guarde o pote virado de cabeça para baixo. O óleo natural subirá lentamente pela massa, misturando-se de forma homogênea."
+                    },
+                    {
+                        "name": "Despensa para a industrial, refrigeração para a natural — Temperatura ideal por tipo ❄️",
+                        "text": "A pasta de amendoim comercial com gordura hidrogenada permanece fresca em despensa fresca (15-20 °C) por 2 a 3 meses após aberta. 💡 Dica de conservação: A versão natural sem aditivos oxida rápido; misture bem e refrigere (0-4 °C) para mantê-la fresca por 3 a 6 meses."
+                    },
+                    {
+                        "name": "Limpe a borda do pote e feche bem — Barreira contra oxigênio 🛡️",
+                        "text": "Resíduos de pasta de amendoim na borda do pote permitem a entrada de ar e facilitam o surgimento de mofo perto da tampa. 💡 Dica de conservação: Limpe a borda com papel tolha seco após o uso e feche a tampa firmemente para minimizar o contato com o oxigênio."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Há muito óleo acumulado sobre a minha pasta de amendoim natural. Devo descartá-lo?",
+                        "answer": "Não. Trata-se de uma separação natural de gordura na pasta de amendoim 100% natural sem emulsificantes. Não jogue o óleo fora; apenas misture-o bem com uma colher limpa e seca antes de colocar na geladeira."
+                    },
+                    {
+                        "question": "A pasta de amendoim precisa ser mantida na geladeira após aberta?",
+                        "answer": "Depende do tipo. A versão comercial com emulsificantes mantém-se bem em despensa fresca e escura (2 a 3 meses). Já a pasta de amendoim natural (100% amendoim) deve ser refrigerada após aberta para evitar a oxidação e a separação de óleo."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Cara Menyimpan Selai Kacang agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk selai kacang berdasarkan pedoman keselamatan resmi.",
+                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "intro": "Pernahkah Anda membuka toples selai kacang lalu menemukan lapisan minyak mengapung di atasnya atau bau tengik alih-alih aroma gurih khas kacang? 🥜\n\nSelai kacang kaya akan asam lemak tak jenuh, menjadikannya rentan terhadap oksidasi lemak (ketengikan) saat terpapar udara, cahaya, atau panas. Selai kacang alami tanpa emulsifier sangat mudah mengalami pemisahan minyak dan penurunan kualitas cepat, sehingga cara penyimpanan yang benar sangat penting.\n\nHari ini, FreshSnap membagikan panduan penyimpanan selai kacang 3 langkah berbasis ilmiah berdasarkan pedoman keselamatan USDA, FDA, dan MFDS untuk menjaga kelezatan dan kesegarannya. 🛡️",
+                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+                "cautions": [
+                    {
+                        "title": "Jangan sekali-kali menggunakan sendok basah atau kotor ⚠️",
+                        "desc": "Memasukkan sendok basah atau bekas remah roti akan membawa air, air liur, dan kotoran ke dalam toples, menciptakan lingkungan ideal bagi jamur dan bakteri untuk berkembang. Selalu gunakan sendok yang bersih dan benar-benar kering."
+                    },
+                    {
+                        "title": "Hindari sinar matahari langsung dan sumber panas ☀️",
+                        "desc": "Suhu tinggi dan paparan cahaya mempercepat oksidasi asam lemak tak jenuh dalam selai kacang, menyebabkan bau tengik. Simpan di lemari penyimpanan (pantry) yang sejuk dan gelap atau di dalam kulkas jauh dari kompor."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Simpan selai kacang alami dalam posisi terbalik — Mencegah Pemisahan Minyak 🔄",
+                        "text": "Selai kacang 100% alami tanpa tambahan emulsifier akan terpisah menjadi minyak dan padatan kacang. 💡 Tips Penyimpanan: Tutup rapat lalu simpan toples dalam posisi terbalik. Minyak alami akan perlahan naik melewati padatan kacang dan tercampur secara alami tanpa perlu selalu diaduk."
+                    },
+                    {
+                        "name": "Pantry untuk olahan pabrik, kulkas untuk alami — Suhu Optimal Berdasarkan Jenis ❄️",
+                        "text": "Selai kacang komersial dengan minyak terhidrogenasi tetap segar di pantry sejuk (15–20°C) selama 2–3 bulan setelah dibuka. 💡 Tips Penyimpanan: Selai kacang alami tanpa aditif cepat teroksidasi; aduk rata lalu simpan di kulkas (0–4°C) agar tetap segar selama 3–6 bulan."
+                    },
+                    {
+                        "name": "Bersihkan mulut toples lalu tutup rapat — Penghalang Oksigen 🛡️",
+                        "text": "Sisa selai kacang yang menempel di bibir toples memungkinkan udara masuk dan memicu tumbuhnya jamur di sekitar tutup. 💡 Tips Penyimpanan: Bersihkan bibir toples dengan tisu dapur kering setelah digunakan lalu tutup rapat untuk meminimalkan kontak dengan oksigen."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Ada banyak minyak tergenang di atas selai kacang alami saya. Apakah harus dibuang?",
+                        "answer": "Tidak. Ini adalah pemisahan minyak alami pada selai kacang 100% tanpa emulsifier. Jangan buang minyaknya; cukup aduk kembali hingga rata menggunakan sendok atau pisau yang bersih dan kering, lalu simpan di dalam kulkas."
+                    },
+                    {
+                        "question": "Apakah selai kacang wajib disimpan di kulkas setelah dibuka?",
+                        "answer": "Tergantung jenisnya. Selai kacang olahan komersial yang mengandung emulsifier dapat bertahan di lemari penyimpanan sejuk (2–3 bulan). Namun selai kacang murni tanpa bahan tambahan disarankan disimpan di kulkas setelah dibuka untuk mencegah ketengikan dan pemisahan minyak."
+                    }
+                ]
+            }
+        }
+    }
+}
