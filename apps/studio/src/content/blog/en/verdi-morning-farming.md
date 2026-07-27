@@ -49,7 +49,7 @@ Going outdoors early at dawn to do physical labor suppresses sleep hormone melat
 
 ---
 
-## 2. 3-Step Routine Guide
+## 2. 3-Step Practical Routine for Modern Professionals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">

@@ -10,6 +10,8 @@ const __dirname = pathModule.dirname(__filename);
 
 const habitsDir = pathModule.join(__dirname, '../../data/blogs/habits');
 const blogRootDir = pathModule.join(__dirname, '../../content/blog');
+const labelsPath = pathModule.join(__dirname, '../../data/blogs/compilerLabels.json');
+const labels = JSON.parse(fs.readFileSync(labelsPath, 'utf-8'));
 
 function renderLocaleMarkdown({ blogSlug, lang, data, histMeta }) {
   const pubDate = data.pubDate || histMeta.pubDate || "2026-06-19";
@@ -101,6 +103,8 @@ function renderLocaleMarkdown({ blogSlug, lang, data, histMeta }) {
   const evidenceBoxHtml = renderEvidenceBox(lang, authority, 'habits');
   const faqSectionHtml = renderFaqSection(lang, faqItems);
 
+  const habitSec2Title = locData?.habitSection2Title || labels.habitSection2Title[lang] || labels.habitSection2Title['en'];
+
   let markdown = `---
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "${title.replace(/"/g, '\\"')}"
@@ -128,7 +132,7 @@ ${whyDesc}
 
 ---
 
-## 2. ${lang === 'ko' ? '루틴 실행 3단계 가이드' : '3-Step Routine Guide'}
+## 2. ${habitSec2Title}
 
 ${stepCards.join('\n\n')}
 

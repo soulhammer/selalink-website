@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "没頭の極致：アルキメデスの砂の幾何学スケッチ習慣"
 description: "複雑な科学的インスピレーションを視覚化するため、砂や床の上に絶えず図形を描いたアルキメデス。手を使う視覚スケッチが、作業記憶の認知オーバーロードをいかに減らし、超没頭状態を誘導するかを研究します。"
-pubDate: "2026-01-20"
-updatedDate: "2026-01-20"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
 heroImage: "/images/blog/archimedes_sand_geometry.webp"
 app: "buildself"
@@ -47,7 +47,7 @@ faqs:
 
 ---
 
-## 2. 3-Step Routine Guide
+## 2. 現代人のための実践ルーティン 3段階
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">

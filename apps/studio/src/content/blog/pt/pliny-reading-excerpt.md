@@ -51,7 +51,7 @@ Uma postura receptiva passiva de apenas ler o texto com os olhos faz com que o c
 
 ---
 
-## 2. 3-Step Routine Guide
+## 2. Rutina Prática de 3 Pasos para o Profissional Moderno
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">

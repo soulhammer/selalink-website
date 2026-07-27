@@ -53,7 +53,7 @@ NBA 역사상 가장 위대한 선수 중 한 명이자 승부욕의 화신으�
 
 ---
 
-## 2. 루틴 실행 3단계 가이드
+## 2. 현대인을 위한 3단계 실천 루틴
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">

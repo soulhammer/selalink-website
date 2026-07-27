@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "La Cúspide de la Inmersión: El Hábito de Bocetos Geométricos en Arena de Arquímedes"
 description: "Arquímedes dibujaba continuamente figuras en la arena o en el suelo para visualizar complejas inspiraciones científicas. Investigue cómo los bocetos visuales manuales reducen la sobrecarga cognitiva en la memoria de trabajo e inducen un estado de hiperenfoque."
-pubDate: "2026-01-20"
-updatedDate: "2026-01-20"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
 heroImage: "/images/blog/archimedes_sand_geometry.webp"
 app: "buildself"
@@ -47,7 +47,7 @@ La memoria de trabajo humana tiene límites estrictos en la cantidad de informac
 
 ---
 
-## 2. 3-Step Routine Guide
+## 2. Rutina Práctica de 3 Pasos para el Profesional Moderno
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">

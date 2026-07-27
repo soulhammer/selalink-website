@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "O Ápice da Imersão: O Hábito de Esboço Geométrico na Areia de Arquimedes"
 description: "Arquimedes desenhava continuamente figuras na areia ou no chão para visualizar inspirações científicas complexas. Investigue como o esboço visual manual reduz a sobrecarga cognitiva na memória de trabalho e induz um estado de hiperfoco."
-pubDate: "2026-01-20"
-updatedDate: "2026-01-20"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
 heroImage: "/images/blog/archimedes_sand_geometry.webp"
 app: "buildself"
@@ -47,7 +47,7 @@ A memória de trabalho humana tem limites estritos na quantidade de informaçõe
 
 ---
 
-## 2. 3-Step Routine Guide
+## 2. Rutina Prática de 3 Pasos para o Profissional Moderno
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">

@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le sommet de l'immersion : L'habitude de croquis géométriques sur sable d'Archimède"
 description: "Archimède dessinait continuellement des figures sur le sable ou le sol pour visualiser de complexes inspirations scientifiques. Découvrez comment les croquis visuels manuels réduisent la surcharge cognitive de la mémoire de travail et induisent un état d'hyperfocalisation."
-pubDate: "2026-01-20"
-updatedDate: "2026-01-20"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
 heroImage: "/images/blog/archimedes_sand_geometry.webp"
 app: "buildself"
@@ -47,7 +47,7 @@ La mémoire de travail humaine a des limites strictes quant à la quantité d'in
 
 ---
 
-## 2. 3-Step Routine Guide
+## 2. Routine Pratique en 3 Étapes pour l’Homme Moderne
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">

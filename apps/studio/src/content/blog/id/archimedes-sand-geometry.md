@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Puncak Fokus: Kebiasaan Sketsa Geometri Pasir Archimedes"
 description: "Archimedes secara terus-menerus menggambar bentuk-bentuk geometri di atas pasir atau tanah untuk memvisualisasikan inspirasi ilmiah yang kompleks. Pelajari bagaimana sketsa visual dengan tangan mengurangi beban kognitif pada memori kerja dan menginduksi kondisi hiperfokus."
-pubDate: "2026-01-20"
-updatedDate: "2026-01-20"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
 heroImage: "/images/blog/archimedes_sand_geometry.webp"
 app: "buildself"
@@ -47,7 +47,7 @@ Memori kerja manusia memiliki batasan ketat dalam jumlah informasi yang dapat di
 
 ---
 
-## 2. 3-Step Routine Guide
+## 2. 3 Langkah Rutinitas Praktis untuk Manusia Modern
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">

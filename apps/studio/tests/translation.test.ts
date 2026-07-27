@@ -309,6 +309,11 @@ describe('블로그 콘텐츠 다국어 검증 및 구조적 정합성 테스트
           expect(hasChinese, `오류: 라틴어 문서 [${lang}] ${fileName} 에 CJK 한자가 포함되어 있습니다.`).toBe(false);
         }
 
+        if (['de', 'es', 'fr', 'pt', 'id', 'ja', 'zh'].includes(lang)) {
+          const hasUnreplacedEnHeader = /3-Step Routine Guide|Scientifically Proven Storage Guide/i.test(sanitizedAll);
+          expect(hasUnreplacedEnHeader, `오류: 비영어 문서 [${lang}] ${fileName} 에 미번역 영문 헤더 문구가 포함되어 있습니다.`).toBe(false);
+        }
+
         if (lang === 'ko') {
           const hasJapanese = /[\u3040-\u309F\u30A0-\u30FF]/g.test(sanitizedAll);
           const hasKorean = /[\uAC00-\uD7A3\u3130-\u318F]/g.test(sanitizedAll);

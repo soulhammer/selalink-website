@@ -132,5 +132,27 @@
     "de": "Empfohlene Maßnahme",
     "pt": "Ação recomendada",
     "id": "Tindakan Disarankan"
+  },
+  "ingredientGuideTitle": {
+    "ko": "과학적으로 검증된 보관 가이드",
+    "en": "Scientifically Proven Storage Guide",
+    "ja": "科学的に検証された保存ガイド",
+    "zh": "经过科学验证的保存指南",
+    "es": "Guía de Almacenamiento Probada Científicamente",
+    "fr": "Guide de Conservation Prouvé Scientifiquement",
+    "de": "Wissenschaftlich erprobte Aufbewahrungsanleitung",
+    "pt": "Guia de Armazenamento Comprovado Cientificamente",
+    "id": "Panduan Penyimpanan Terbukti Secara Ilmiah"
+  },
+  "ingredientCautionTitle": {
+    "ko": "보관 시 필수 규칙 및 주의사항",
+    "en": "Essential Rules & Precautions for Storage",
+    "ja": "保存における必須ルールと注意事項",
+    "zh": "保存, 必须遵循的规则与注意事项",
+    "es": "Reglas Esenciales y Precauciones para el Almacenamiento",
+    "fr": "Règles Essentielles et Précautions de Conservation",
+    "de": "Wichtige Regeln & Vorsichtsmaßnahmen zur Aufbewahrung",
+    "pt": "Regras Essenciais e Precauções para Armazenamento",
+    "id": "Aturan Penting & Tindakan Pencegahan untuk Penyimpanan"
   }
 }

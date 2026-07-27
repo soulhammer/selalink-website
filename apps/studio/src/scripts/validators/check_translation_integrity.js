@@ -175,8 +175,16 @@ async function checkTranslationIntegrity() {
     if (lang !== 'en' && /\bresponses\b/i.test(plainText)) {
       logError(`${relativePath}: 비영어 페이지['${lang}'] 본문 내에 치환 오류 오염 단어 'responses'가 노출되었습니다.`);
     }
-    if (lang !== 'en' && (plainText.includes("Body Language & Signals") || plainText.includes("Customized 3-Step Home Care Routine"))) {
-      logError(`${relativePath}: 비영어 페이지['${lang}'] 본문 내에 미번역 영문 헤더 문구가 노출되었습니다.`);
+    const unreplacedEnglishHeaders = [
+      "Body Language & Signals",
+      "Customized 3-Step Home Care Routine",
+      "3-Step Routine Guide",
+      "Scientifically Proven Storage Guide"
+    ];
+    for (const unrepHeader of unreplacedEnglishHeaders) {
+      if (lang !== 'en' && plainText.includes(unrepHeader)) {
+        logError(`${relativePath}: 비영어 페이지['${lang}'] 본문 내에 미번역 영문 헤더 문구("${unrepHeader}")가 노출되었습니다.`);
+      }
     }
 
     // 법적 의무 페이지 여부 판별

@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Peak Immersion: Archimedes's Sand Geometry Sketching Habit"
 description: "Archimedes continuously drew geometric shapes on sand or the ground to visualize complex scientific inspirations. Explore how visual sketching with hands reduces cognitive overload on working memory and induces hyper-focus."
-pubDate: "2026-01-20"
-updatedDate: "2026-01-20"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
 heroImage: "/images/blog/archimedes_sand_geometry.webp"
 app: "buildself"
@@ -47,7 +47,7 @@ Human working memory has strict limits on the amount of information it can proce
 
 ---
 
-## 2. 3-Step Routine Guide
+## 2. 3-Step Practical Routine for Modern Professionals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">

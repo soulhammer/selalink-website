@@ -11,6 +11,8 @@ const __dirname = path.dirname(__filename);
 
 const blogRoot = path.join(__dirname, '../../content/blog');
 const ingredientsDir = path.join(__dirname, '../../data/blogs/ingredients');
+const labelsPath = path.join(__dirname, '../../data/blogs/compilerLabels.json');
+const labels = JSON.parse(fs.readFileSync(labelsPath, 'utf-8'));
 
 function renderLocaleMarkdown({ blogSlug, lang, data, histMeta }) {
   const master = data;
@@ -46,7 +48,7 @@ function renderLocaleMarkdown({ blogSlug, lang, data, histMeta }) {
   const intro = locData.intro || enData.intro || '';
 
   const safeClean = (txt) => typeof txt === 'string' ? cleanMarkdown(txt) : (txt ? cleanMarkdown(String(txt)) : '');
-  const stepLabelText = lang === 'ko' ? '단계' : 'STEP';
+  const stepLabelText = labels.stepLabel[lang] || labels.stepLabel['en'];
 
   const steps = locData.steps || enData.steps || [];
   let stepCardsHtml = '';
@@ -87,7 +89,7 @@ function renderLocaleMarkdown({ blogSlug, lang, data, histMeta }) {
     text: "${step3Text.replace(/"/g, '\\"')}"`;
   }
 
-  const cautionTitle = locData.cautionTitle || enData.cautionTitle || '보관 시 필수 규칙 및 주의사항';
+  const cautionTitle = locData.cautionTitle || enData.cautionTitle || labels.ingredientCautionTitle[lang] || labels.ingredientCautionTitle['en'];
   const cautions = locData.cautions || enData.cautions || [];
   let cautionBoxHtml = '';
 
@@ -120,7 +122,7 @@ function renderLocaleMarkdown({ blogSlug, lang, data, histMeta }) {
 
   const faqSectionHtml = renderFaqSection(lang, faqItems);
 
-  const guideTitle = locData.guideTitle || enData.guideTitle || (lang === 'ko' ? '과학적으로 검증된 보관 가이드' : 'Scientifically Proven Storage Guide');
+  const guideTitle = locData.guideTitle || enData.guideTitle || labels.ingredientGuideTitle[lang] || labels.ingredientGuideTitle['en'];
 
   const evidenceBoxHtml = auth ? renderEvidenceBox(lang, auth, 'ingredients') : '';
 

@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "몰입의 극치: 아르키메데스의 모래 기하학 스케치 습관"
 description: "복잡한 과학적 영감을 시각화하기 위해 모래나 바닥에 끊임없이 도형을 그렸던 아르키메데스. 손을 사용하는 시각 스케치가 어떻게 작동 기억의 인지 과부하를 줄이고 초몰입 상태를 유도하는지 연구합니다."
-pubDate: "2026-01-20"
-updatedDate: "2026-01-20"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
 heroImage: "/images/blog/archimedes_sand_geometry.webp"
 app: "buildself"
@@ -47,7 +47,7 @@ faqs:
 
 ---
 
-## 2. 루틴 실행 3단계 가이드
+## 2. 현대인을 위한 3단계 실천 루틴
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">

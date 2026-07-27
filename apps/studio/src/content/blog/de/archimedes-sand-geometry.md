@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Gipfel der Vertiefung: Archimedes' Gewohnheit der Sand-Geometrieskizzen"
 description: "Archimedes zeichnete kontinuierlich Figuren in den Sand oder auf den Boden, um komplexe wissenschaftliche Inspirationen zu visualisieren. Untersuchen Sie, wie visuelles Skizzieren mit den Händen die kognitive Überlastung des Arbeitsgedächtnisses reduziert und einen Zustand des Hyperfokus induziert."
-pubDate: "2026-01-20"
-updatedDate: "2026-01-20"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
 heroImage: "/images/blog/archimedes_sand_geometry.webp"
 app: "buildself"
@@ -47,7 +47,7 @@ Das menschliche Arbeitsgedächtnis hat strenge Grenzen bezüglich der Informatio
 
 ---
 
-## 2. 3-Step Routine Guide
+## 2. Praktische 3-Schritte-Routine für den Alltag
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
